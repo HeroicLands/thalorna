@@ -1,6 +1,6 @@
 ---
 shortcode: ahurdaendty
-name: {full: Ahurdaen, aliases: []}
+name: {full: Ahurdaen}
 type: lore
 subType: deity
 description: "The Keeper of Harmony in the Ashaian pantheon, holding order against the falsehood that erodes it."

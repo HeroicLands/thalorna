@@ -1,6 +1,6 @@
 ---
 shortcode: nrdlndsseal
-name: {full: The Ice-Edge and the Rookery, aliases: [Northern Sealing]}
+name: {full: The Ice-Edge and the Rookery, en: [Northern Sealing]}
 type: lore
 subType: economy
 description: "How the Nordlands hunt the seal—out on the ice-edge in late winter and on the rookeries in autumn—and what the skins, oil and meat are worth to a coast."

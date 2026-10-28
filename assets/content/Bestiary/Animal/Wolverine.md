@@ -1,6 +1,6 @@
 ---
 shortcode: wlvrn
-name: {full: Wolverine, aliases: []}
+name: {full: Wolverine}
 type: being
 subType: creature
 description: "A stocky, densely muscled northern predator infamous for fearlessly confronting beasts many times its size and refusing to retreat."

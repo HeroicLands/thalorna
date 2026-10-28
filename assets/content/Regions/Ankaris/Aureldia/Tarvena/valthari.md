@@ -1,6 +1,6 @@
 ---
 shortcode: valthari
-name: {full: Valthari, aliases: []}
+name: {full: Valthari}
 type: place
 subType: settlement
 description: "Tarvénia's richest port, a free city governed by merchant houses under a royal charter and distrusted by the mountain lords."

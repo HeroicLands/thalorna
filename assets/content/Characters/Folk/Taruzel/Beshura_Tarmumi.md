@@ -1,6 +1,6 @@
 ---
 shortcode: beshuratarmu
-name: {full: Beshura Tarmumi, aliases: [Captain Beshura Tarmumi, Captain Beshura]}
+name: {full: Beshura Tarmumi, en: [Captain Beshura Tarmumi, Captain Beshura]}
 type: being
 subType: npc
 description: A corsair captain with an old wound that Yutalush Pushutum healed years ago.

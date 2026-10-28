@@ -1,6 +1,6 @@
 ---
 shortcode: natn
-name: {full: Natural Attunement, aliases: []}
+name: {full: Natural Attunement}
 type: mysticalability
 subType: arcanetalent
 description: "Reads the condition of a place and the living things in it—weather, water, growth, and what has passed through."

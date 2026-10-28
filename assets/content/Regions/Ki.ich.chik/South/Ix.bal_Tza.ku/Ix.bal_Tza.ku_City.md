@@ -1,6 +1,6 @@
 ---
 shortcode: ixbaltzaku2
-name: {full: Ish'bal Tsa'ku, aliases: []}
+name: {full: Ish'bal Tsa'ku}
 type: place
 subType: settlement
 description: "Seat of the Jaguar's House, a mountain-and-river realm of fortress-cities, gold-working and absolute priestly control of trade."

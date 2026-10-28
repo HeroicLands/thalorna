@@ -1,6 +1,6 @@
 ---
 shortcode: slvrgorges
-name: {full: The Silver Gorges, aliases: [The Gorges]}
+name: {full: The Silver Gorges, en: [The Gorges]}
 type: place
 subType: feature
 description: "The deep-cut valleys of the Eastern Reach, worked for lapis and silver since before Shikhalaya was chartered, and held by smithing clans whose prerogatives predate the charter."

@@ -1,6 +1,6 @@
 ---
 shortcode: castelaws
-name: {full: Caste Laws, aliases: []}
+name: {full: Caste Laws}
 type: lore
 subType: law
 description: "The Zhaolou of Tantsou—the laws that fix each of the eight castes' rights, duties and restrictions, the census and the classification tablet that enforce them, and the standing of a foreigner or an Elder who falls outside them."

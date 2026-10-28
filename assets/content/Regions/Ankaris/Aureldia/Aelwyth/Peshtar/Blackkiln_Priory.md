@@ -1,6 +1,6 @@
 ---
 shortcode: blackkilnpriory
-name: {full: Blackkiln Priory, aliases: [The Ash Priory, Sarne's Kilns, Blakkiln Priory]}
+name: {full: Blackkiln Priory, en: [The Ash Priory, Sarne's Kilns], aelw: [Blakkiln Priory]}
 type: place
 subType: site
 description: "The burned-out priory of a Black Flame cell in the pine forest where the Peshtar Wilderness meets Ondareth's border, whose kilns still hold a smokeless black fire that the dead of the cell tend."

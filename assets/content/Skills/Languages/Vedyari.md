@@ -1,6 +1,6 @@
 ---
 shortcode: vedyarlng
-name: {full: Vedyari Language, aliases: []}
+name: {full: Vedyari Language}
 type: skill
 subType: language
 description: "The language of the Vedyara city-states—a family in its own right, whose Classical register stands apart from every spoken vernacular."
@@ -8957,9 +8957,9 @@ A woman's name is often a man's word with _-i_ in place of its closing _a_: _sun
 
 ```sql
 WITH named AS (
-  SELECT alias AS label, min(slug) AS slug FROM (SELECT unnest(name.aliases) AS alias, address.slug AS slug FROM notes WHERE type = 'place') GROUP BY alias
+  SELECT form AS label, min(slug) AS slug FROM (SELECT unnest(name.vedy) AS form, address.slug AS slug FROM notes WHERE type = 'place') GROUP BY form
   UNION ALL
-  SELECT name.full, address.slug FROM notes WHERE type = 'place' AND name.full NOT IN (SELECT unnest(name.aliases) FROM notes WHERE type = 'place')
+  SELECT name.full, address.slug FROM notes WHERE type = 'place' AND lower(name.full) NOT IN (SELECT lower(unnest(name.vedy)) FROM notes WHERE type = 'place')
 )
 SELECT '`' || e.form || '`' AS "Last member", e.sense AS "A place that is",
        '[[' || n.slug || '|' || split_part(e.examples[1], ', ', 1) || ']]' || substring(e.examples[1], length(split_part(e.examples[1], ', ', 1)) + 1) AS "Example"

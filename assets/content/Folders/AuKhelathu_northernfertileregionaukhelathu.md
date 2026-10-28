@@ -1,6 +1,6 @@
 ---
 shortcode: northernfertileregionaukhelathu
-name: {full: Au'Khelathu, aliases: []}
+name: {full: Au'Khelathu}
 type: folder
 data: {parent: xerathianorthernfertileregion, color: "#3CB371"}
 ---

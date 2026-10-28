@@ -1,6 +1,6 @@
 ---
 shortcode: solvinir
-name: {full: "Sólvinir", aliases: []}
+name: {full: Sólvinir}
 type: affiliation
 subType: order
 description: "Love and beauty counseled in Solrún's name."

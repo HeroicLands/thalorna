@@ -1,6 +1,6 @@
 ---
 shortcode: dernklmrth
-name: {full: Deren Kálmereth, aliases: []}
+name: {full: Deren Kálmereth}
 type: being
 subType: npc
 tags: [draft, common-folk]

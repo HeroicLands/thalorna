@@ -1,6 +1,6 @@
 ---
 shortcode: klhrmassif
-name: {full: The Massif, aliases: []}
+name: {full: The Massif}
 type: place
 subType: feature
 description: "The massif that stands as a mount in the lake at the center of Kalihara's Great Bowl."

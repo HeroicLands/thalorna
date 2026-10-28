@@ -1,6 +1,6 @@
 ---
 shortcode: neokbaate
-name: {full: Ne'ok Ba'ate, aliases: []}
+name: {full: Ne'ok Ba'ate}
 type: affiliation
 subType: polity
 description: Isthmus of volcanic gateways and coastal city-states—the liminal trade corridor binding the Ki'ich'chik north to the south.

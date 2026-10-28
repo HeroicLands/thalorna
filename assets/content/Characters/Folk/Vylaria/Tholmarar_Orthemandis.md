@@ -1,6 +1,6 @@
 ---
 shortcode: tholmararort
-name: {full: Tholmarar Orthemandis, aliases: [Marendos Tholmarar Orthemandis]}
+name: {full: Tholmarar Orthemandis, en: [Marendos Tholmarar Orthemandis]}
 type: being
 subType: npc
 description: A fellow marendos in the Zulen Fisera whose theoretical framework on mineral essences clashes with Azato Damzanis's.

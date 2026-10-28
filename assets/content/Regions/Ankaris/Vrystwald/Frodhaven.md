@@ -1,6 +1,6 @@
 ---
 shortcode: frodhaven
-name: {full: Fródhaven, aliases: []}
+name: {full: Fródhaven}
 type: place
 subType: settlement
 description: "A Varokh village in Vandstein whose sacred shelter bent the line of the Legions' Road."

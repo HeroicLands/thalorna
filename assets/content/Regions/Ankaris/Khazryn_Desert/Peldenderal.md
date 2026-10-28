@@ -1,6 +1,6 @@
 ---
 shortcode: peldenderal
-name: {full: Peshdenderat, aliases: [The Dry Well of Shirvan, The Dry Well]}
+name: {full: Peshdenderat, en: [The Dry Well of Shirvan, The Dry Well]}
 type: place
 subType: site
 description: "A stone-lipped well in a gallery of the Vurinkarvem cliff below Shirvan whose shaft drops far past the depth at which water ever stood, from which a voice answers questions for blood, and which feeds on the oasis it sits under."

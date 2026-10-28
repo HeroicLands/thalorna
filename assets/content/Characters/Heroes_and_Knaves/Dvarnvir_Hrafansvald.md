@@ -1,6 +1,6 @@
 ---
 shortcode: dvrnvrhrfnsvld
-name: {full: Dvarnvir Hrafansvald, given: Dvarnvir, clan: Hrafansvald, aliases: []}
+name: {full: Dvarnvir Hrafansvald, given: Dvarnvir, clan: Hrafansvald}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]

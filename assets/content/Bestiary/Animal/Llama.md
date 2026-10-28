@@ -1,6 +1,6 @@
 ---
 shortcode: llama
-name: {full: Llama, aliases: []}
+name: {full: Llama}
 type: being
 subType: creature
 description: "A domesticated highland camelid serving as pack animal, fiber and meat source, and guardian of smaller livestock in mountain caravans."

@@ -1,6 +1,6 @@
 ---
 shortcode: belos
-name: {full: Ithrolas, aliases: []}
+name: {full: Ithrolas}
 type: mystery
 subType: birthsign
 description: "The Lamp: a seer's mind and a scholar's patience, hopeless with tools and edged steel."

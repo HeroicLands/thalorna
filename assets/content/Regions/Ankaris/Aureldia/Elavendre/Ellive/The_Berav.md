@@ -1,6 +1,6 @@
 ---
 shortcode: beravriver
-name: {full: The Berav, aliases: []}
+name: {full: The Berav}
 type: place
 subType: feature
 description: "The great river of Élavendre—rising in the northwestern uplands and running southwest across the heartland to the sea, navigable past the capital that is named for it."

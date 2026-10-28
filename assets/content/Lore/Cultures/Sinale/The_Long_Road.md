@@ -1,6 +1,6 @@
 ---
 shortcode: longroad
-name: {full: The Long Road, aliases: [Tirvali]}
+name: {full: The Long Road, sina: [tirvali]}
 type: lore
 subType: literature
 description: "The tale the Sinale who hold office in Tantsou tell on the evening a Sinalo is first entered on an imperial roll: a clerk cuts a name to three signs, a scholar answers to a road for forty years, and the planting roll has the last word."
@@ -17,7 +17,7 @@ data:
     - lore-personlnms
     - lore-longnhrtnc
     - skill-sinalelng
-  language: sinalelng
+  lang: sina
 
 # terran_analog: "Gogol's and Chekhov's petty clerks, for the man whose whole dignity is the correctness of a file; the Chinese anecdote collections in which a scholar-official's exactness is the joke and the virtue at once, and the dry closing line the compiler leaves without comment; the imperial census and the registered name as public documentation."
 ---

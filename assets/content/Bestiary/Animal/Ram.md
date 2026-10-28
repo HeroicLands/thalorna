@@ -1,6 +1,6 @@
 ---
 shortcode: ramanml
-name: {full: Ram, aliases: []}
+name: {full: Ram}
 type: being
 subType: creature
 description: "The heavily built dominant male of sheep herds, wielding massive curved horns and a fierce temper that turns lethal during the autumn rut."

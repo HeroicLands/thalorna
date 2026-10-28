@@ -1,6 +1,6 @@
 ---
 shortcode: thrdorqwnq
-name: {full: The Third Orkunoq, aliases: [The Silent Market Union]}
+name: {full: The Third Orkunoq, en: [The Silent Market Union]}
 type: lore
 subType: history
 description: "About 548 AF the third great union of the steppe rides south down the spur in the week of the autumn market and kills every soul in Qiimod, then overruns the eastern fringe of Velanthia before it breaks up on its orkun's death."

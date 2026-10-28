@@ -1,6 +1,6 @@
 ---
 shortcode: longnhrtnc
-name: {full: The Long Inheritance, aliases: [The Inheritance]}
+name: {full: The Long Inheritance, en: [The Inheritance]}
 type: lore
 subType: history
 description: "How humanity was uplifted by the Khazari and the Sinale without either of them ever intending it—and the small number of relationships through which it continues."

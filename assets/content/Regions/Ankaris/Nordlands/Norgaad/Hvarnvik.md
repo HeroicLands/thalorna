@@ -1,6 +1,6 @@
 ---
 shortcode: hvarnvik
-name: {full: Hvarnvík, aliases: []}
+name: {full: Hvarnvík}
 type: place
 subType: settlement
 description: "Coastal Village"

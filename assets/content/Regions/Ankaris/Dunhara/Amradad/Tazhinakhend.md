@@ -1,6 +1,6 @@
 ---
 shortcode: tazhinakhend
-name: {full: Tazhinakhend, aliases: []}
+name: {full: Tazhinakhend}
 type: place
 subType: settlement
 description: "Town"

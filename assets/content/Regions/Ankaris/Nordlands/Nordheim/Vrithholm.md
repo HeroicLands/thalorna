@@ -1,6 +1,6 @@
 ---
 shortcode: vrithholm
-name: {full: Vrithholm, aliases: []}
+name: {full: Vrithholm}
 type: place
 subType: settlement
 description: "A Nordheim islet trading post where agents of a foreign merchant consortium buy timber and press for industrial-scale felling."

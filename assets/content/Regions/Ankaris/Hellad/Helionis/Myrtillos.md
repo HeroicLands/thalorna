@@ -1,6 +1,6 @@
 ---
 shortcode: myrtillos
-name: {full: Mirtelos, aliases: []}
+name: {full: Mirtelos}
 type: place
 subType: settlement
 description: "Coastal Town"

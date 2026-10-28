@@ -1,6 +1,6 @@
 ---
 shortcode: letheshu
-name: {full: Letheshu, aliases: []}
+name: {full: Letheshu}
 type: being
 subType: npc
 description: "A village healer who sends the cases beyond him on to better hands, and defends those hands against the talk that follows"

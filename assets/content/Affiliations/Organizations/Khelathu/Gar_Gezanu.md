@@ -1,6 +1,6 @@
 ---
 shortcode: gargezanu
-name: {full: Gar-Gezanu, aliases: [The Exaction Service]}
+name: {full: Gar-Gezanu, en: [The Exaction Service]}
 type: affiliation
 subType: governmental
 description: The imperial service that collects the dues and enforces the law of trade

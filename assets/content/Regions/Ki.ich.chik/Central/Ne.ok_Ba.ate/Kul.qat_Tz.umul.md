@@ -1,6 +1,6 @@
 ---
 shortcode: kulqattzumul
-name: {full: "Kul'qat Ts'umul", aliases: [The Red Steps]}
+name: {full: The Red Steps, kiichek: [Kul'qat Ts'umul]}
 type: place
 subType: site
 description: "A forgotten binding temple of the storm-serpent on the eastern slopes of Ne'ok Ba'ate, whose red stair climbs out of the rainforest to a sanctuary built over something the builders were told to keep."

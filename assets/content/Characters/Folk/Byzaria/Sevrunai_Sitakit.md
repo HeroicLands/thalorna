@@ -1,6 +1,6 @@
 ---
 shortcode: sevrunaisita
-name: {full: Sevrunai Sitakit, aliases: [Merchant-Master Sevrunai Sitakit]}
+name: {full: Sevrunai Sitakit, en: [Merchant-Master Sevrunai Sitakit]}
 type: being
 subType: npc
 description: A merchant-master who trusts Dorashkar Tredis completely on kitchen matters and has invested significantly in the kitchen.

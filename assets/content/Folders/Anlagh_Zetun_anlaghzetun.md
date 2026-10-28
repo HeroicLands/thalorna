@@ -1,6 +1,6 @@
 ---
 shortcode: anlaghzetun
-name: {full: Anlagh-Zetun, aliases: []}
+name: {full: Anlagh-Zetun}
 type: folder
 data: {parent: upperrivrslt, color: "#A5D6A7"}
 ---

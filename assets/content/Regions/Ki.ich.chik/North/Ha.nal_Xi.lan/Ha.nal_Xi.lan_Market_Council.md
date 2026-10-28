@@ -1,6 +1,6 @@
 ---
 shortcode: hanalxilanmktcncl
-name: {full: Ha'nal Shi'lan Market Council, aliases: []}
+name: {full: Ha'nal Shi'lan Market Council}
 type: affiliation
 subType: polity
 description: "The council of trading families and quarter elders that governs the river market town of Ha'nal Shi'lan, courted by the Maple People and the One Fire and owned by neither."

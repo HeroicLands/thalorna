@@ -1,6 +1,6 @@
 ---
 shortcode: thalgrund
-name: {full: Thalgrund, aliases: []}
+name: {full: Thalgrund}
 type: place
 subType: settlement
 description: "A Varokh village in Edriwald."

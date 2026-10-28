@@ -1,6 +1,6 @@
 ---
 shortcode: lowlandstaken
-name: {full: The Lowlands Taken, aliases: [The Occupation of Lienrik]}
+name: {full: The Lowlands Taken, en: [The Occupation of Lienrik]}
 type: lore
 subType: history
 description: "From about 140 to about 160 AF the legions took Tarvénia's southern coast and central lowlands, made Valthari an imperial port, and held Lienrik as an occupied march, while a therkos who tried to rule Eskarath directly lost his escort in the high meadows."

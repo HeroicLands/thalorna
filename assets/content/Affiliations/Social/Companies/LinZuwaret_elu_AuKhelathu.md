@@ -1,6 +1,6 @@
 ---
 shortcode: linzwrtkhlth
-name: {full: Lin'Zuwaret elu Au'Khelathu, aliases: [The Merchant Consortium]}
+name: {full: Lin'Zuwaret elu Au'Khelathu, en: [The Merchant Consortium]}
 type: affiliation
 subType: venture
 description: Wealthy traders across the empire who hire beast-trainers, assess stock moving on the routes, and consult on the transport of anything that has to arrive alive

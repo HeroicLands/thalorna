@@ -1,6 +1,6 @@
 ---
 shortcode: korinthea2
-name: {full: Korinthea, aliases: []}
+name: {full: Korinthea}
 type: place
 subType: settlement
 description: "A Helionite city of law and honor, where the Temple of Árdavon works as the city's court beside a council of patron families."

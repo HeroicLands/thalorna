@@ -1,6 +1,6 @@
 ---
 shortcode: marshfeld
-name: {full: Marshfeld, aliases: []}
+name: {full: Marshfeld}
 type: place
 subType: settlement
 description: "An agrarian Bizarian village governed by its Village Council, which hires the mercenary Fileze Stenikot every year against bandits and raiders."

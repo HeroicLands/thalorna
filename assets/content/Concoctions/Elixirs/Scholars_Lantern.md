@@ -1,6 +1,6 @@
 ---
 shortcode: elxerd
-name: {full: "Scholar's Lantern", aliases: [Erudition Elixir]}
+name: {full: Scholar's Lantern, en: [Erudition Elixir]}
 type: concoctiongear
 subType: elixir
 description: "Golden elixir; sharpens mind with preternatural clarity in reasoning."

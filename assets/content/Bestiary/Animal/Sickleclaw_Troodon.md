@@ -1,6 +1,6 @@
 ---
 shortcode: scklclwt
-name: {full: Sickleclaw Troodon, aliases: []}
+name: {full: Sickleclaw Troodon}
 type: being
 subType: creature
 description: "A small bipedal predator that overwhelms prey through stealth, patience, and terror rather than brute strength, stalking forests and ruins."

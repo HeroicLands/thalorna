@@ -1,6 +1,6 @@
 ---
 shortcode: bharyastan
-name: {full: The Kingdom of Bharyastan, aliases: []}
+name: {full: The Kingdom of Bharyastan}
 type: affiliation
 subType: polity
 description: The small mountain kingdom of the Bharava highlands—eight valleys, a fort above each, and a standing treaty that sends its horse to Suvargeri for an annual weight of gold.

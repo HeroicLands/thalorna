@@ -1,6 +1,6 @@
 ---
 shortcode: kptdeadsorhupur
-name: {full: A Lamp Offered by Dry Hands, aliases: []}
+name: {full: A Lamp Offered by Dry Hands}
 type: scenario
 subType: adventure
 description: "A causeway of steady lamps runs into a forest city at dusk, and the courteous dead who tend them hold out a flame to every traveler."

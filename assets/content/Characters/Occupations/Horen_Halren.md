@@ -1,6 +1,6 @@
 ---
 shortcode: khornhalrn
-name: {full: Horen Halren, aliases: []}
+name: {full: Horen Halren}
 type: being
 subType: npc
 tags: [draft, soldiery]

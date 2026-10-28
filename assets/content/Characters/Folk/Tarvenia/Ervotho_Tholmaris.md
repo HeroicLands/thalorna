@@ -1,6 +1,6 @@
 ---
 shortcode: ervothotholm
-name: {full: Ervotho Tholmaris, aliases: [Lord Ervotho Tholmaris, Herald Emeritus]}
+name: {full: Ervotho Tholmaris, en: [Lord Ervotho Tholmaris, Herald Emeritus]}
 type: being
 subType: npc
 description: The retired previous chief herald, who views Kárenna Graveth as an upstart.

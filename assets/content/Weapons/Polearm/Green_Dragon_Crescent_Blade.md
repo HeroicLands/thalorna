@@ -1,6 +1,6 @@
 ---
 shortcode: gundao
-name: {full: Green Dragon Crescent Blade, aliases: []}
+name: {full: Green Dragon Crescent Blade}
 type: weapongear
 description: "Curved polearm blade for slashing across multiple foes."
 tags: []

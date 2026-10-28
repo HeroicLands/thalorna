@@ -1,6 +1,6 @@
 ---
 shortcode: edrthgrylng
-name: {full: Edrith Grayling, aliases: []}
+name: {full: Edrith Grayling}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

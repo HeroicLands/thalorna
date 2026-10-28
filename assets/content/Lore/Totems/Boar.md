@@ -1,6 +1,6 @@
 ---
 shortcode: boarttm
-name: {full: Boar, aliases: [Boar Totem]}
+name: {full: Boar, en: [Boar Totem]}
 type: lore
 subType: bestiary
 description: "The boar as a totemic ideal, and the human character it describes."

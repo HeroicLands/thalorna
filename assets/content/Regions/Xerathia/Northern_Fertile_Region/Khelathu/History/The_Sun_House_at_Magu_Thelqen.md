@@ -1,6 +1,6 @@
 ---
 shortcode: sunhouse
-name: {full: The Sun-House at Magu-Thelqen, aliases: [The House of the Sun]}
+name: {full: The Sun-House at Magu-Thelqen, en: [The House of the Sun]}
 type: lore
 subType: history
 description: "From 1790 to 1822 ST (321 to 289 BF) the house of Thelqen'Relu laid out Magu-Thelqen as a new capital, ruled from it for a generation and pressed the doctrine that every temple's god is Uqa'a; the temples of Qe'aret and Reth'Sa'ar refused, the court went home to Galezkara and the city emptied."

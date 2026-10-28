@@ -2,7 +2,8 @@
 shortcode: skaldscrcl
 name:
   full: The Skalds' Circle
-  aliases: [Skaldahringur, The Memory of the North, The Skalds' Guild]
+  en: [The Memory of the North, The Skalds' Guild]
+  nord: [skaldahringur]
 type: affiliation
 subType: fellowship
 description: "Pan-Nordlands fellowship of skalds—keepers of saga, kin-line, and the spoken record of every kingdom, hall, and free company across the north."

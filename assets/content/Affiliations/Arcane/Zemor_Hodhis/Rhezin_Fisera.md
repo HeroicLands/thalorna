@@ -1,6 +1,6 @@
 ---
 shortcode: fisera
-name: {full: Fisera, aliases: [Rhezin Fisera, Zulen Fisera]}
+name: {full: Fisera, helo: [Rhezin Fisera], vyl: [Zulen Fisera]}
 type: affiliation
 subType: arcanetradition
 tags: [zemor-hodhis]

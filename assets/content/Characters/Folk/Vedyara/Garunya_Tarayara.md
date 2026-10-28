@@ -1,6 +1,6 @@
 ---
 shortcode: garunyataray
-name: {full: Garunya Tarayara, aliases: [Captain Garunya the Reckless, Captain Garunya]}
+name: {full: Garunya Tarayara, en: [Captain Garunya the Reckless, Captain Garunya]}
 type: being
 subType: npc
 description: A younger, ambitious captain who puts speed over safety and views Vishvara Mahapar as an obstacle to progress.

@@ -1,6 +1,6 @@
 ---
 shortcode: ardavon
-name: {full: Faith of Árdavon, aliases: [The Keeper of the Gates]}
+name: {full: Faith of Árdavon, en: [The Keeper of the Gates]}
 type: affiliation
 subType: faithtradition
 description: "Order."

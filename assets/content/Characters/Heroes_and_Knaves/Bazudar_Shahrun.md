@@ -1,6 +1,6 @@
 ---
 shortcode: bazdrshhrn
-name: {full: Bazudar Shahrun, given: Bazudar, clan: Shahrun, aliases: []}
+name: {full: Bazudar Shahrun, given: Bazudar, clan: Shahrun}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]

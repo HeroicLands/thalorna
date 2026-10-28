@@ -1,6 +1,6 @@
 ---
 shortcode: elavsemaronenc
-name: {full: Élavendri Semaron Encoding, aliases: []}
+name: {full: Élavendri Semaron Encoding}
 type: doc
 subType: reference
 data:

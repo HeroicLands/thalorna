@@ -1,6 +1,6 @@
 ---
 shortcode: shokumavlg
-name: {full: Shókuma Village, aliases: []}
+name: {full: Shókuma Village}
 type: place
 subType: settlement
 description: "Forest and river village of the Shókuma tribe, the smallest of the Okharis village seats."

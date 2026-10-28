@@ -1,6 +1,6 @@
 ---
 shortcode: valdun
-name: {full: Valdun, aliases: []}
+name: {full: Valdun}
 type: place
 subType: settlement
 description: "The walled town that anchors Élavendre's eastern march—muster point of the hill levy, market of the drove roads, and the place the raiding has to get past."

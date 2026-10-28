@@ -1,6 +1,6 @@
 ---
 shortcode: desuvinghara
-name: {full: Desuvin Gharazur, aliases: [Lord Desuvin Gharazur]}
+name: {full: Desuvin Gharazur, en: [Lord Desuvin Gharazur]}
 type: being
 subType: npc
 description: The regional noble who hired the Iron Wolves to massacre the village and still rules the region, named in Ghimaráhr Rores.

@@ -1,6 +1,6 @@
 ---
 shortcode: skaldating
-name: {full: Skaldating, aliases: []}
+name: {full: Skaldating}
 type: lore
 subType: custom
 description: "The Skalds' Circle's yearly gathering, where apprentices present their first sagas, the repertoire is verified by recitation and disputed verses are settled."

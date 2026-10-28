@@ -1,6 +1,6 @@
 ---
 shortcode: grtwhtsh
-name: {full: Great White Shark, aliases: []}
+name: {full: Great White Shark}
 type: being
 subType: creature
 description: "An apex ocean predator exceeding twenty feet and several tons, a solitary killing machine that patrols deep and shallow waters unchanged for millions of years."

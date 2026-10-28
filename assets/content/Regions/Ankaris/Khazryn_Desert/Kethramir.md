@@ -1,6 +1,6 @@
 ---
 shortcode: kethramir
-name: {full: Kethramír, aliases: []}
+name: {full: Kethramír}
 type: place
 subType: settlement
 description: "The caravan city of Tellumel, fourth of the seven Tellumi cities, where the southern spur from the interior comes down to the belt, held by the scholar-tribe Tozhirod."

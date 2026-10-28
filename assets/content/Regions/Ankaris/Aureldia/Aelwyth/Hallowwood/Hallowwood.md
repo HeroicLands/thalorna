@@ -1,6 +1,6 @@
 ---
 shortcode: hallowwood
-name: {full: The Hallowwood, aliases: []}
+name: {full: The Hallowwood}
 type: place
 subType: region
 description: "The fae forest of southern Aelwyth, where the Sinale reside—closed to outsiders, tolerating embassies from Dúnavarre and welcoming only those from Élavendre and the Áelendan."

@@ -55,7 +55,7 @@
  *    neither cannot have its title read at all. The pair is exclusive because
  *    an absent `homes` on its own cannot be told from one nobody has reached
  *    yet: the tag is what turns the gap into a state somebody decided.
- * 9. **`name-is-closed`** — `name` carries only `full`, `aliases`, and, where
+ * 9. **`name-is-closed`** — `name` carries only `full`, its forms by language, and, where
  *    `subType` is `character`, `given` and `clan`. `title` and `home` are
  *    never legal, and `given`/`clan` are an error on every other subtype
  *    (including no subtype at all), so a record cannot answer "is this a
@@ -455,7 +455,7 @@ function checkReferencePerson(note, context) {
                 note,
                 lineOf(note.raw, "title") ?? lineOf(note.raw, "name"),
                 "name-is-closed",
-                "`name.title` is never legal; `name` carries only `full`, `aliases`, and, on a character, `given` and `clan`",
+                "`name.title` is never legal; `name` carries only `full`, its forms by language, and, on a character, `given` and `clan`",
             ),
         );
     }

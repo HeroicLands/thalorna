@@ -1,6 +1,6 @@
 ---
 shortcode: orca
-name: {full: Orca, aliases: [Killer Whale]}
+name: {full: Orca, en: [Killer Whale]}
 type: being
 subType: creature
 description: "A massive, intelligent pack-hunting marine mammal and apex predator of every ocean, the most dangerous animal encounter possible on open water."

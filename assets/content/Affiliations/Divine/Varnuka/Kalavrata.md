@@ -1,6 +1,6 @@
 ---
 shortcode: kalavrata
-name: {full: Kalavrata, aliases: [The Gatekeeper of Death]}
+name: {full: The Gatekeeper of Death, vedy: [kalavrata]}
 type: affiliation
 subType: faithtradition
 description: "Religion of the warden of the threshold between the life that has ended and the life that is to come."

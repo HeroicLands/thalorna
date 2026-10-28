@@ -1,6 +1,6 @@
 ---
 shortcode: yandazhrng
-name: {full: Yanda Zohiring, aliases: [The Mountains of the Spirits]}
+name: {full: The Mountains of the Spirits, okha: [Yanda Zohiring]}
 type: place
 subType: region
 description: "A mountain range on the Okharik frontier, held to be the dwelling of the gods and the seat of the Oracle of Bones."

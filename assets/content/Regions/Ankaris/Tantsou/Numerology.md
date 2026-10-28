@@ -1,6 +1,6 @@
 ---
 shortcode: numerology
-name: {full: Numerology, aliases: []}
+name: {full: Numerology}
 type: lore
 subType: arcana
 description: "Which numbers the Tantsou hold lucky and unlucky—eight, nine, five, three and one against four and six—and how they shape dates, buildings, seals and filings."

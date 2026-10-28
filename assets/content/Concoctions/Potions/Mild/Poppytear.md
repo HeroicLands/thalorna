@@ -1,6 +1,6 @@
 ---
 shortcode: ptnnarm
-name: {full: Poppytear, aliases: ["Potion, Narcotic, Mild"]}
+name: {full: Poppytear, en: ["Potion, Narcotic, Mild"]}
 type: concoctiongear
 subType: exotic
 description: "Pale cream draft; induces drowsiness and peaceful sleep."

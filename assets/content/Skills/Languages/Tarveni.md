@@ -1,6 +1,6 @@
 ---
 shortcode: tarvenlng
-name: {full: Tarveni Language, aliases: []}
+name: {full: Tarveni Language}
 type: skill
 subType: language
 description: "The blunt, expressive tongue of Tarvénia, native to a dozen dialects across its kingdoms and city-states."

@@ -1,6 +1,6 @@
 ---
 shortcode: phyc
-name: {full: Psychometry, aliases: []}
+name: {full: Psychometry}
 type: mysticalability
 subType: arcanetalent
 description: "Reads an object for what has been done with it and who has held it."

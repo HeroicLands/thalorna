@@ -1,6 +1,6 @@
 ---
 shortcode: blackmarshfld
-name: {full: The Blood-field of the Black Marsh, aliases: [The Black Marsh]}
+name: {full: The Blood-field of the Black Marsh, en: [The Black Marsh]}
 type: place
 subType: site
 description: "The marsh at the foot of a Moktur valley where a Varokh host died to the last man in 520 AF with no Shaman to call them home: a thin dread that puts the terror of men with nowhere to go into anyone who lingers past dusk."

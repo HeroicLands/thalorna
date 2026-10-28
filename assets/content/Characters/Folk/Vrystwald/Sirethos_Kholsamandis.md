@@ -1,6 +1,6 @@
 ---
 shortcode: sirethoskhol
-name: {full: Sirethos Kolsamis, aliases: [Blazewarden Sirethos]}
+name: {full: Sirethos Kolsamis, en: [Blazewarden Sirethos]}
 type: being
 subType: npc
 description: Blazewarden of the Black Flame's military bands, who leads the campaign against the Varokh, named in Thornak Bludtusk Barsk.

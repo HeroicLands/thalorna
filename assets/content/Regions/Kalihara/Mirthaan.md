@@ -1,6 +1,6 @@
 ---
 shortcode: mirthaan
-name: {full: Mirthaan, aliases: [The Sanctuary of Mirthaan]}
+name: {full: The Sanctuary of Mirthaan, kali: [Mirthaan]}
 type: place
 subType: settlement
 description: "The sanctuary in an eastern river valley of Kalihara's Bowl, among the terraces, where the custodians who tend the works of the terraces, the rain and the lake are trained."

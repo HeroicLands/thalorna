@@ -1,6 +1,6 @@
 ---
 shortcode: amqltzlmlglq
-name: {full: Amqelet-Zelemu Legulu’akun, given: Amqelet-Zelemu, clan: Legulu’akun, aliases: [Amqe]}
+name: {full: Amqelet-Zelemu Legulu’akun, given: Amqelet-Zelemu, clan: Legulu’akun, khel: [amqe]}
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, mages]

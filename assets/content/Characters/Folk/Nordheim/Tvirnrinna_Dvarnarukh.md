@@ -1,6 +1,6 @@
 ---
 shortcode: tvirnrinnadv
-name: {full: Tvirnrinna Dvarnaruk, aliases: [Lady Tvirnrinna Dvarnaruk]}
+name: {full: Tvirnrinna Dvarnaruk, en: [Lady Tvirnrinna Dvarnaruk]}
 type: being
 subType: npc
 description: Court Mistress and wife of a powerful noble, one of the few people with whom Anthorv Asgrind keeps something approaching true friendship.

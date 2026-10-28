@@ -1,6 +1,6 @@
 ---
 shortcode: karnavos
-name: {full: Faith of Karnavos, aliases: [The Wild Beast]}
+name: {full: Faith of Karnavos, en: [The Wild Beast]}
 type: affiliation
 subType: faithtradition
 description: "Chaos."

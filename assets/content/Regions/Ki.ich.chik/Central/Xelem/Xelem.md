@@ -1,6 +1,6 @@
 ---
 shortcode: xelem
-name: {full: Shelem, aliases: []}
+name: {full: Shelem}
 type: affiliation
 subType: polity
 description: River-bound jungle realm of mesa-shadowed city-states and priest-navigators—the Land of Birds, source of Ki'ich'chik's rarest luxuries.

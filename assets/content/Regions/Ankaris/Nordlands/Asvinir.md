@@ -1,6 +1,6 @@
 ---
 shortcode: asvinir
-name: {full: Ásvinir, aliases: []}
+name: {full: Ásvinir}
 type: lore
 subType: theology
 description: "The defending kin of the gods in archaic Asguardian liturgy, joined by common cause against Nahild and Svartbrandur."

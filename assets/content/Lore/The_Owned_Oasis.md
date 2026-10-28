@@ -1,6 +1,6 @@
 ---
 shortcode: ownedoasis
-name: {full: The Owned Oasis, aliases: [Owned Water, Bodek]}
+name: {full: The Owned Oasis, en: [Owned Water], sovi: [Bodek]}
 type: lore
 subType: custom
 description: "A tribe's small spring in the Khazryn—empty, unmarked to a stranger's eye, and never ungoverned: how ownership shows, how a traveler asks for guest-right, and what the owners do to one who camps without asking."

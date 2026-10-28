@@ -1,6 +1,6 @@
 ---
 shortcode: twncnclprtaln
-name: {full: Town Council of Port Aelion, aliases: []}
+name: {full: Town Council of Port Aelion}
 type: affiliation
 subType: polity
 description: "The town council of Port Aelion, which blends traditional human governance with the counsel of older families."

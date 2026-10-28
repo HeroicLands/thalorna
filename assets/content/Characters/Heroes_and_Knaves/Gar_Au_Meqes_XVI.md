@@ -1,6 +1,6 @@
 ---
 shortcode: garaumeqesxv
-name: {full: Gar-Au Meqes XVI, given: Gar-Au, clan: Meqes XVI, aliases: []}
+name: {full: Gar-Au Meqes XVI, given: Gar-Au, clan: Meqes XVI}
 type: being
 subType: character
 description: "The reigning Gar-Au, who rules from Galezkara"

@@ -1,6 +1,6 @@
 ---
 shortcode: lutqearet
-name: {full: Lut-Qe'aret, aliases: [The Temple of Qe'aret]}
+name: {full: Lut-Qe'aret, en: [The Temple of Qe'aret]}
 type: affiliation
 subType: faithtradition
 description: The house of Qe'aret, whose order is the order of the world

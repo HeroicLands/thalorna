@@ -1,6 +1,6 @@
 ---
 shortcode: thirstground
-name: {full: The Thirsting Ground, aliases: [The Dry Field]}
+name: {full: The Thirsting Ground, en: [The Dry Field]}
 type: place
 subType: site
 description: "A stretch of the foothills below the Eastern March's passes where a steppe host died of arrows and thirst between the spring-forts in 158 BF: a silence blood-field, moderate, where a skin filled at dusk is empty by morning and the field's own spring stops running for one night each year."

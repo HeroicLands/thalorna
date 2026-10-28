@@ -1,6 +1,6 @@
 ---
 shortcode: foster
-name: {full: Foster, aliases: []}
+name: {full: Foster}
 type: mysticalability
 subType: arcaneincantation
 description: "Accelerates growth; crops ripen fast and creatures mature rapidly."

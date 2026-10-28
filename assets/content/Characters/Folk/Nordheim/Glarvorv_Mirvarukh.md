@@ -1,6 +1,6 @@
 ---
 shortcode: glarvorvmirv
-name: {full: Glarvorv Mirvaruk, aliases: []}
+name: {full: Glarvorv Mirvaruk}
 type: being
 subType: npc
 description: The famous sword-master who trains boys into warriors-for-hire at Snilthborg, named in Thraldorv Vornheim and Snilthborg.

@@ -1,6 +1,6 @@
 ---
 shortcode: grgrsfthympls
-name: {full: Trufios Veghekos, given: Trufios, clan: Veghekos, aliases: []}
+name: {full: Trufios Veghekos, given: Trufios, clan: Veghekos}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]

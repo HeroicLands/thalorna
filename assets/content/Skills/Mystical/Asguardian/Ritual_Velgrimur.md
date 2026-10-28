@@ -1,6 +1,6 @@
 ---
 shortcode: velgrimur
-name: {full: "Ritual: Velgrímur", aliases: [The Serpent's Path]}
+name: {full: "Ritual: Velgrímur", en: [The Serpent's Path]}
 type: skill
 subType: mystical
 tags: [asguardian, faith-skill, draft]

@@ -1,6 +1,6 @@
 ---
 shortcode: ktzlcrdscrpt
-name: {full: K'otsel Cord Script, aliases: []}
+name: {full: K'otsel Cord Script}
 type: skill
 subType: script
 description: "The knotted cord-records of the Ki'ich'chik—tribute, tallies and day-counts carried by runners and read by priests."

@@ -1,6 +1,6 @@
 ---
 shortcode: amqelger
-name: {full: Amqel-Ger, aliases: []}
+name: {full: Amqel-Ger}
 type: place
 subType: site
 description: "The working riverfront of Galezkara downstream of Qelt-Ge—docks, warehouses, the Gar-Hálzi banking-houses, the Zebeku'Zut merchant halls"

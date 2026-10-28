@@ -1,6 +1,6 @@
 ---
 shortcode: leopardttm
-name: {full: Leopard, aliases: [Leopard Totem]}
+name: {full: Leopard, en: [Leopard Totem]}
 type: lore
 subType: bestiary
 description: "The leopard as a totemic ideal, and the human character it describes."

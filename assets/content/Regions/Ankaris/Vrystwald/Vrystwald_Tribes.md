@@ -1,6 +1,6 @@
 ---
 shortcode: vrystwldtrbs
-name: {full: Vristwald Tribes, aliases: []}
+name: {full: Vristwald Tribes}
 type: affiliation
 subType: polity
 description: "Varokh villages of the Vristwald, each governed by its own three elders and bound to no common seat or lasting council."

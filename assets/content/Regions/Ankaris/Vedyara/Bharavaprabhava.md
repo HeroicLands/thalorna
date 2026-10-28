@@ -1,6 +1,6 @@
 ---
 shortcode: bhrvprbhav
-name: {full: Bharavaprabhava, aliases: []}
+name: {full: Bharavaprabhava}
 type: place
 subType: site
 description: "The easternmost cosmic source, under the shoulder of the Eastern Reach—the spring of the Bharava, and the one the hostel-network was built for."

@@ -1,6 +1,6 @@
 ---
 shortcode: nlthyndeldskr
-name: {full: Nulthinda Eldskari, aliases: []}
+name: {full: Nulthinda Eldskari}
 type: being
 subType: npc
 tags: [draft, common-folk]

@@ -1,6 +1,6 @@
 ---
 shortcode: noonregard
-name: {full: The Noon Regard, aliases: []}
+name: {full: The Noon Regard}
 type: mysticalability
 subType: arcaneincantation
 description: "Raises a clear, sourceless light that casts no shadow and cannot be looked away from."

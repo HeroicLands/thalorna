@@ -1,6 +1,6 @@
 ---
 shortcode: dulmvargur
-name: {full: Dulmvargur, aliases: [The Grave-Hound]}
+name: {full: Dulmvargur, en: [The Grave-Hound]}
 type: lore
 subType: theology
 description: "The hound chained at the landing of Nulthey, Eidgar's long-chained adversary, which breaks loose at Aldarlok and dies with him."

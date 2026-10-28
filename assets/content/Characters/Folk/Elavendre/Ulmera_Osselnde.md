@@ -1,6 +1,6 @@
 ---
 shortcode: ulmeraosseln
-name: {full: Úlmera Ósselnde, aliases: [Chief Úlmera]}
+name: {full: Úlmera Ósselnde, en: [Chief Úlmera]}
 type: being
 subType: npc
 description: The current tribal leader, who relies on Ranthor Párdalen for counsel on matters both spiritual and martial.

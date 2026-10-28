@@ -1,6 +1,6 @@
 ---
 shortcode: malstead
-name: {full: Málstead, aliases: []}
+name: {full: Málstead}
 type: place
 subType: settlement
 description: "Town"

@@ -1,6 +1,6 @@
 ---
 shortcode: aukhelathu
-name: {full: Au'Khelathu, aliases: []}
+name: {full: Au'Khelathu}
 type: folder
 data: {parent: {default: polities, journals: northernfertileregion}, color: "#66BB6A"}
 ---

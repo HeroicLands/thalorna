@@ -1,6 +1,6 @@
 ---
 shortcode: tvnrthr
-name: {full: Tavonei Reithuri, given: Tavonei, clan: Reithuri, aliases: []}
+name: {full: Tavonei Reithuri, given: Tavonei, clan: Reithuri}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]

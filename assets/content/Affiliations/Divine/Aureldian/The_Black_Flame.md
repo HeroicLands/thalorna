@@ -1,6 +1,6 @@
 ---
 shortcode: blackflame
-name: {full: The Black Flame, aliases: []}
+name: {full: The Black Flame}
 type: affiliation
 subType: faithtradition
 description: "Fire (destructive aspect)."

@@ -1,6 +1,6 @@
 ---
 shortcode: verdanorzara
-name: {full: Verdan Orzara, aliases: [Orzara Courts]}
+name: {full: Orzara Courts, vyl: [Verdan Orzara]}
 type: affiliation
 subType: governmental
 description: "The civic government and courts of Orzara—ruled by the Verdan Orzara, a council of five imperial-appointed veramusoi, with a tiered court system beneath it; the throne's own imperial tribunals sit apart, within the Imperial Offices of the Inner City."

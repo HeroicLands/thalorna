@@ -1,6 +1,6 @@
 ---
 shortcode: orthemotsuku
-name: {full: Orthemo Tsukurreta, aliases: [Captain Orthemo Tsukurreta, Captain Orthemo]}
+name: {full: Orthemo Tsukurreta, en: [Captain Orthemo Tsukurreta, Captain Orthemo]}
 type: being
 subType: npc
 description: A merchant captain who credits Pálina Sánriseth's fertility blessing with his ability to father a child.

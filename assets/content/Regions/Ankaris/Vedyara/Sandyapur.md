@@ -1,6 +1,6 @@
 ---
 shortcode: sandyapur
-name: {full: Sandyapur, aliases: []}
+name: {full: Sandyapur}
 type: place
 subType: settlement
 description: "The capital of Bhumipal and the only town on Vedyara's western shore—a court, a roadstead behind a sand spit, the salt pans, and the southern end of the march road."

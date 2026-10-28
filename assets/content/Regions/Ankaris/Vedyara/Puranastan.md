@@ -1,6 +1,6 @@
 ---
 shortcode: puranastan
-name: {full: Puranastan, aliases: [The Old Seat]}
+name: {full: The Old Seat, vedy: [puranastan]}
 type: place
 subType: site
 description: "A terraced hill on the pilgrim road up the Mahanodi that the upper-river villages call the ancestor's seat: a ring of dressed stone and a hollow where an altar stood, held by legend to be where the Mahanodi kings sat before Rajepur."

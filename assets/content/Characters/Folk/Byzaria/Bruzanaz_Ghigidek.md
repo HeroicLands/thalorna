@@ -1,6 +1,6 @@
 ---
 shortcode: bruzanazghig
-name: {full: Bruzanaz Ghigidek, aliases: [Lady Merchant Bruzanaz Ghigidek]}
+name: {full: Bruzanaz Ghigidek, en: [Lady Merchant Bruzanaz Ghigidek]}
 type: being
 subType: npc
 description: A younger merchant whose family was personally helped by Órashkar Naulakit in her youth.

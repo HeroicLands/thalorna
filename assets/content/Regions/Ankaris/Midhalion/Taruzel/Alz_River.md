@@ -1,6 +1,6 @@
 ---
 shortcode: alzriver
-name: {full: Alz River, aliases: [The Alz]}
+name: {full: Alz River, en: [The Alz]}
 type: place
 subType: feature
 description: "The island river whose mouth makes Sazumun's harbor, its upper valley wooded hill country of timberwrights."

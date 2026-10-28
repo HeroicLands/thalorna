@@ -1,6 +1,6 @@
 ---
 shortcode: frstwng
-name: {full: Frostwing, aliases: []}
+name: {full: Frostwing}
 type: being
 subType: creature
 description: "An intelligent aerial hunter of deep winter, migrating toward the coldest lands and using coordinated flight tactics to bring death from above."

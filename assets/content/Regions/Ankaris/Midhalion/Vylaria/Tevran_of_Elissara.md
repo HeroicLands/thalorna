@@ -1,6 +1,6 @@
 ---
 shortcode: tevranaelissium
-name: {full: Tevran of Elissara, aliases: []}
+name: {full: Tevran of Elissara}
 type: affiliation
 subType: polity
 description: "The trade guilds of Elissara, among them the potters' guild and the Seamen's Guild, whose marks tell whose city it is."

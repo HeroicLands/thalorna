@@ -1,6 +1,6 @@
 ---
 shortcode: siegevalrn
-name: {full: The Siege of Válaren, aliases: []}
+name: {full: The Siege of Válaren}
 type: scenario
 subType: adventure
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: khorsadradty
-name: {full: Khórsadra, aliases: []}
+name: {full: Khórsadra}
 type: lore
 subType: deity
 description: "Bearer of Eternal Light in the Ashaian pantheon—knowledge, wisdom, and the truth the desert faith is built on."

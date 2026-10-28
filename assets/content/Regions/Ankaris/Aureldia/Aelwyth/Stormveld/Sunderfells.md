@@ -1,6 +1,6 @@
 ---
 shortcode: sunderfells
-name: {full: The Sunderfells, aliases: []}
+name: {full: The Sunderfells}
 type: place
 subType: region
 description: "Stormveld's southern mountain march—the northern arm of the Ironfells, holding the two passes that are the only ways between the Jarldom and Aldorath."

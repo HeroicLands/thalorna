@@ -1,6 +1,6 @@
 ---
 shortcode: chndrtrmkhyshvr
-name: {full: Chandratar Mukhyeshvara, given: Chandratar, clan: Mukhyeshvara, aliases: []}
+name: {full: Chandratar Mukhyeshvara, given: Chandratar, clan: Mukhyeshvara}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]

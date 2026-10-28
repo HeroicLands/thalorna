@@ -1,6 +1,6 @@
 ---
 shortcode: klhrflora
-name: {full: Flora of Kalihara, aliases: [Manuluori, Kalovael, Stilt Tree, Ember Bloom]}
+name: {full: Flora of Kalihara, en: [Stilt Tree, Ember Bloom], kali: [Manuluori, Kalovael]}
 type: lore
 subType: bestiary
 description: "Two plants of Kalihara that the islanders use and tend: the Stilt Tree of the mangrove edge, whose dead prop roots make the fence stakes, and the Ember Bloom of the terrace margins, whose root gives a red dye."

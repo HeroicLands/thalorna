@@ -1,6 +1,6 @@
 ---
 shortcode: goblinfolk
-name: {full: Goblins, aliases: [The Cunning Tricksters]}
+name: {full: Goblins, en: [The Cunning Tricksters]}
 type: lore
 subType: folk
 description: "Small, cunning and fiercely individualistic followers of a trickster god, who thrive on chaos and rarely cooperate even with each other."

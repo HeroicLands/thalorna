@@ -1,6 +1,6 @@
 ---
 shortcode: brunjarskathhel
-name: {full: Brunjár yra Skathhelm wur Druthholt, given: Brunjár, clan: Skathhelm, aliases: []}
+name: {full: Brunjár yra Skathhelm wur Druthholt, given: Brunjár, clan: Skathhelm}
 type: being
 subType: character
 tags: [blackpine-wolves, brigand, vrystwald, underworld]

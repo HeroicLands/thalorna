@@ -1,6 +1,6 @@
 ---
 shortcode: elxair
-name: {full: "Pauper's Wind", aliases: [Airtap Elixir]}
+name: {full: Pauper's Wind, en: [Airtap Elixir]}
 type: concoctiongear
 subType: elixir
 description: "Pale nearly-invisible breath elixir; halves breath need and exertion."

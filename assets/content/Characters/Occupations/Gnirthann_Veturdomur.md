@@ -1,6 +1,6 @@
 ---
 shortcode: gnrthnvtrdmr
-name: {full: Gnirthann Veturdómur, aliases: []}
+name: {full: Gnirthann Veturdómur}
 type: being
 subType: npc
 tags: [todo-warrior, draft, soldiery]

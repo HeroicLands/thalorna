@@ -1,6 +1,6 @@
 ---
 shortcode: nalurithan
-name: {full: Nalurithan, aliases: []}
+name: {full: Nalurithan}
 type: place
 subType: settlement
 description: "The second port of Kalihara, a day's sail along the eastern coast from Ilovanu—the harbor of the island's own coasting trade, and the rival of Ilovanu's merchant houses."

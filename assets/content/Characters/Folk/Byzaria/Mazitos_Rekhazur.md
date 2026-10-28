@@ -1,6 +1,6 @@
 ---
 shortcode: mazitosrekha
-name: {full: Mazitos Rekhazur, aliases: [Lord Mazitos Rekhazur]}
+name: {full: Mazitos Rekhazur, en: [Lord Mazitos Rekhazur]}
 type: being
 subType: npc
 description: Master of the Bizarian League's Eastern March, named in Fibakon Siderakit.

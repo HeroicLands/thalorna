@@ -1,6 +1,6 @@
 ---
 shortcode: kaliharaadvguide
-name: {full: Kalihara Adventurer's Guide, aliases: []}
+name: {full: Kalihara Adventurer's Guide}
 type: doc
 subType: settingguide
 description: A short player and GM introduction to Kalihara—the closed island civilization of the custodians, the open ports where foreigners trade, and the ways a campaign begins at the boundary between them.

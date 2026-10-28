@@ -1,6 +1,6 @@
 ---
 shortcode: shdwlynx
-name: {full: Shadow Lynx, aliases: []}
+name: {full: Shadow Lynx}
 type: being
 subType: creature
 description: "A solitary nocturnal ambush cat of deep forests, built for stealth and precision as it guards exclusive woodland territories."

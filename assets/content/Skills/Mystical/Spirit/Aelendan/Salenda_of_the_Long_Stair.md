@@ -1,6 +1,6 @@
 ---
 shortcode: salendasprt
-name: {full: "Sálenda of the Long Stair Spirit Power", aliases: [Sálenda of the Long Stair]}
+name: {full: Sálenda of the Long Stair Spirit Power, en: [Sálenda of the Long Stair]}
 type: skill
 subType: mystical
 description: "Standing with Sálenda of the Long Stair—what this allied Kindred is met, asked and bargained with."

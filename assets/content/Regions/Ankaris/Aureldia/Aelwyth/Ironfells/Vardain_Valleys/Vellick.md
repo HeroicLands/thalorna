@@ -1,6 +1,6 @@
 ---
 shortcode: vellick
-name: {full: Vellik, aliases: []}
+name: {full: Vellik}
 type: place
 subType: settlement
 description: "The smiths' village of the Vardain valleys—the only humans anywhere taught anything of Khazari technique, and forbidden to teach it onward."

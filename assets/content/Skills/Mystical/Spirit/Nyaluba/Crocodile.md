@@ -1,6 +1,6 @@
 ---
 shortcode: crocodilekolembozisprt
-name: {full: "Crocodile Spirit Power", aliases: [Crocodile Spirit, Kolembozi Crocodile]}
+name: {full: Crocodile Spirit Power, en: [Crocodile Spirit, Kolembozi Crocodile]}
 type: skill
 subType: mystical
 description: "Standing with the crocodile-spirit of the Kolembozi—what an allied guide of the Nyáluba Way is met and asked with."

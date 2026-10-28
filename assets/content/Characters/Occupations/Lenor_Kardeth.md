@@ -1,6 +1,6 @@
 ---
 shortcode: lenarcrdth
-name: {full: Lenor Kardeth, aliases: []}
+name: {full: Lenor Kardeth}
 type: being
 subType: npc
 tags: [draft, common-folk]

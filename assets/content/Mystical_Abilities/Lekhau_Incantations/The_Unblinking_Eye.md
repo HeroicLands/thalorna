@@ -1,6 +1,6 @@
 ---
 shortcode: unblinkingey
-name: {full: The Unblinking Eye, aliases: []}
+name: {full: The Unblinking Eye}
 type: mysticalability
 subType: arcaneincantation
 description: "Sets a watch on a place that reports faithfully to the practitioner what passed there."

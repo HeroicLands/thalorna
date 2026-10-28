@@ -1,6 +1,6 @@
 ---
 shortcode: legirusiselt
-name: {full: Legirusi Selat, aliases: []}
+name: {full: Legirusi Selat}
 type: place
 subType: region
 description: "Stone-quarries and master masons; the temple-workshops that carve the monuments—the land of the Selat of Legirusi, one of the upper-river selatu of Au'Khelathu."

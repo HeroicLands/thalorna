@@ -1,6 +1,6 @@
 ---
 shortcode: chrssachop
-name: {full: Kharessa Chop, aliases: []}
+name: {full: Kharessa Chop}
 type: skill
 subType: combattechnique
 description: "The hard edge-of-hand blow of the Kharessa, struck with the hand held open and rigid."

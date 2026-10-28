@@ -1,6 +1,6 @@
 ---
 shortcode: ghymrhrptrks
-name: {full: Ghimaráhr Rores, given: Ghimaráhr, clan: Rores, aliases: []}
+name: {full: Ghimaráhr Rores, given: Ghimaráhr, clan: Rores}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]

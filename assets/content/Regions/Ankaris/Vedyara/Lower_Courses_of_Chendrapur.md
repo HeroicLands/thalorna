@@ -1,6 +1,6 @@
 ---
 shortcode: lowercourses
-name: {full: The Lower Courses of Chendrapur, aliases: []}
+name: {full: The Lower Courses of Chendrapur}
 type: place
 subType: site
 description: "The heavier, plainer stonework of an older city that Chendrapur is built on, showing along the river stair in the dry months and under the cellars of the cutting quarters; the oldest court of the Moon House stands on it."

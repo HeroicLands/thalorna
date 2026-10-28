@@ -1,6 +1,6 @@
 ---
 shortcode: zarhanis
-name: {full: Zarhanis, aliases: [The First Flame]}
+name: {full: The First Flame, okha: [Zarhanis]}
 type: place
 subType: settlement
 description: "Temple City"

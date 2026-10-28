@@ -1,6 +1,6 @@
 ---
 shortcode: lutthubai
-name: {full: Lut-Thuba'i, aliases: [The Temple of Thuba'i]}
+name: {full: Lut-Thuba'i, en: [The Temple of Thuba'i]}
 type: affiliation
 subType: faithtradition
 description: The house of Thuba'i, god of the flood and of prosperity, whose priests read the river's rise and whose granaries stand behind the year's account

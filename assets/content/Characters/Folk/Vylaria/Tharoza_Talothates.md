@@ -1,6 +1,6 @@
 ---
 shortcode: tharozatalot
-name: {full: Tharoza Talothates, aliases: [Commander Tharoza]}
+name: {full: Tharoza Talothates, en: [Commander Tharoza]}
 type: being
 subType: npc
 description: The highest official in the law enforcement structure of Moktur, named in Zerofon Kalmakanes.

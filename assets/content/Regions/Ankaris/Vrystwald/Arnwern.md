@@ -1,6 +1,6 @@
 ---
 shortcode: arnwern
-name: {full: Arnwern, aliases: []}
+name: {full: Arnwern}
 type: place
 subType: settlement
 description: "A burned Varokh village on a lake behind Falkhaven's shore, the first the Sons of Eldheim destroyed."

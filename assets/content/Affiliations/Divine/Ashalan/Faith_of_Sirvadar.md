@@ -1,6 +1,6 @@
 ---
 shortcode: sirvadar
-name: {full: Faith of Sirvadar, aliases: [The Wandering Guide, "Sirvadar, The Wandering Guide"]}
+name: {full: Faith of Sirvadar, en: [The Wandering Guide, "Sirvadar, The Wandering Guide"]}
 type: affiliation
 subType: faithtradition
 description: "Travel, Trade Routes, Commerce, Safe Passage."

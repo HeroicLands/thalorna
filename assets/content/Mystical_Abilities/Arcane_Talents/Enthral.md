@@ -1,6 +1,6 @@
 ---
 shortcode: enth
-name: {full: Enthral, aliases: []}
+name: {full: Enthral}
 type: mysticalability
 subType: arcanetalent
 description: "Holds a person's attention and compliance for as long as the talent is sustained."

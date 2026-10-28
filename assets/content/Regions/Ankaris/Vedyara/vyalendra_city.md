@@ -1,6 +1,6 @@
 ---
 shortcode: vyalendra3
-name: {full: Vyalendra, aliases: [The City of Ten Thousand Looms]}
+name: {full: The City of Ten Thousand Looms, vedy: [vyalendra]}
 type: place
 subType: settlement
 description: "The City of Ten Thousand Looms and the capital of the Vyalendra city-state—a shrena republic in the street-plan of a kingdom, where the Loom-Council sits in the last Maharava's audience hall."

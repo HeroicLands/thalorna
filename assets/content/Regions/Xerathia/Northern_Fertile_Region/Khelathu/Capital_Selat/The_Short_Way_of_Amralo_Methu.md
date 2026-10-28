@@ -1,6 +1,6 @@
 ---
 shortcode: shortway
-name: {full: The Short Way of Amralo'Methu, aliases: []}
+name: {full: The Short Way of Amralo'Methu}
 type: place
 subType: site
 description: "The stub of a Way off the death-road at Zu-Gezer where the Vylarian house of the occupation lies: two royal tombs, the commander's sealed in the Khelathi manner over Vylarian grave-goods, and bare ground beyond them."

@@ -1,6 +1,6 @@
 ---
 shortcode: irnwlvscmpny
-name: {full: The Iron Wolves Company, aliases: [The Iron Wolves]}
+name: {full: The Iron Wolves Company, en: [The Iron Wolves]}
 type: affiliation
 subType: venture
 description: "Bizarian mercenary company of brutal efficiency—willing to take the contracts other companies refuse, and the standing antagonist of one of the realm's most haunted veterans."

@@ -1,6 +1,6 @@
 ---
 shortcode: hazhao
-name: {full: Ha Zhao, aliases: [The Shadow Sect, Shadow Folk, Hatsou]}
+name: {full: The Shadow Sect, en: [Shadow Folk], tant: [Ha Zhao, Hatsou]}
 type: affiliation
 subType: criminal
 description: "Rogue Shadow Sect of escaped Wanduo sorcerers offering forbidden magic while pursuing liberation of magic itself from the empire's classification system."

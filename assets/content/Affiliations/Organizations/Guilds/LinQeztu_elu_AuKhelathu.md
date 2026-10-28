@@ -1,6 +1,6 @@
 ---
 shortcode: linqeztkhlth
-name: {full: Lin'Qeztu elu Au'Khelathu, aliases: [The Mercenaries' Guild of Au'Khelathu]}
+name: {full: Lin'Qeztu elu Au'Khelathu, en: [The Mercenaries' Guild of Au'Khelathu]}
 type: affiliation
 subType: guild
 description: The chartered body that regulates paid soldiering in the empire, provides access to work, and vouches for a member's standing to those hiring

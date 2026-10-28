@@ -1,6 +1,6 @@
 ---
 shortcode: empirdclne
-name: {full: The Decline of the Vylarian Empire, aliases: [The Losing of the Provinces]}
+name: {full: The Decline of the Vylarian Empire, en: [The Losing of the Provinces]}
 type: lore
 subType: history
 description: "Roughly two hundred years ago the Vylarian Empire's decline began—overextension, corruption, barbarian pressure and the gradual independence of provinces, ending twelve years ago in the loss of Taruzel."

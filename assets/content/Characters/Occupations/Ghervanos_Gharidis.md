@@ -1,6 +1,6 @@
 ---
 shortcode: ghrvnsghrds
-name: {full: Ghérvanos Gharidís, aliases: []}
+name: {full: Ghérvanos Gharidís}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

@@ -1,6 +1,6 @@
 ---
 shortcode: rilthorv
-name: {full: Rilthorv, aliases: [Bishop Rilthorv]}
+name: {full: Rilthorv, en: [Bishop Rilthorv]}
 type: being
 subType: npc
 description: Bishop of the Thrunvald Temple, which commissions work from Hrandrinna Drekanótt.

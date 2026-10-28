@@ -1,6 +1,6 @@
 ---
 shortcode: thursaett
-name: {full: Thursaett, aliases: []}
+name: {full: Thursaett}
 type: lore
 subType: theology
 description: "The giant-kin defeated by the Ten, with Hrimthur killed and the rest banished to Thursguard."

@@ -1,6 +1,6 @@
 ---
 shortcode: garger
-name: {full: Gar-Ger, aliases: []}
+name: {full: Gar-Ger}
 type: place
 subType: settlement
 description: "A hinterland village of the Capital Selat"

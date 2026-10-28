@@ -1,6 +1,6 @@
 ---
 shortcode: zaranahsaran
-name: {full: Zaranah Sarani, aliases: [Lady Zaranah Sarani, Lady Zaranah]}
+name: {full: Zaranah Sarani, en: [Lady Zaranah Sarani, Lady Zaranah]}
 type: being
 subType: npc
 description: A wealthy merchant and equestrian enthusiast who has contracted for the services of Rudavah Farrud.

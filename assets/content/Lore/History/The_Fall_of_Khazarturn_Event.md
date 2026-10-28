@@ -1,6 +1,6 @@
 ---
 shortcode: fallkhazturn
-name: {full: The Fall of Khazartúrn, aliases: [The Sundering of the Elder Races]}
+name: {full: The Fall of Khazartúrn, en: [The Sundering of the Elder Races]}
 type: lore
 subType: history
 description: "In 2427 BF a Sinale outlaw takes up the Second Voice, drives tens of thousands of Grukar against Khazartúrn and kills every soul in it—and the two Elder Races have not spoken since."

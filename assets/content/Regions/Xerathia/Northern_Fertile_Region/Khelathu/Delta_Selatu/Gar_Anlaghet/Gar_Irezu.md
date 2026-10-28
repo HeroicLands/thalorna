@@ -1,6 +1,6 @@
 ---
 shortcode: garirezu
-name: {full: Gar-Irezu, aliases: []}
+name: {full: Gar-Irezu}
 type: place
 subType: settlement
 description: "A channel village of the Gar-Anlaghet marshes, of a few hundred to a couple of thousand, working the water and the ferry-traffic the harbor cannot be bothered with"

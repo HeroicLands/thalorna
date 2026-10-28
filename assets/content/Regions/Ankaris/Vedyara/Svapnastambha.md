@@ -1,6 +1,6 @@
 ---
 shortcode: svapnastambha
-name: {full: Svapnastambha, aliases: []}
+name: {full: Svapnastambha}
 type: place
 subType: structure
 description: "The Svapnasari-sameja's tower above the wells of Marukupa—the westernmost house of the dream-sect, and the last roof in Vedyara a traveler sleeps under before the sand."

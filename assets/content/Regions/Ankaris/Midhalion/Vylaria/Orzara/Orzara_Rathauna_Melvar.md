@@ -1,6 +1,6 @@
 ---
 shortcode: rathaunamelvar
-name: {full: Rathauna Melvar, aliases: [The Racecourse]}
+name: {full: The Racecourse, vyl: [Rathauna Melvar]}
 type: place
 subType: structure
 description: "Rathauna Melvar"

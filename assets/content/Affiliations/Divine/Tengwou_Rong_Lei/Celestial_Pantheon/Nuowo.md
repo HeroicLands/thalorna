@@ -1,6 +1,6 @@
 ---
 shortcode: nuowo
-name: {full: Nuowo, aliases: [The Minister of Dissolution, Nuo Sei, The Bureau of Returns]}
+name: {full: The Minister of Dissolution, en: [The Bureau of Returns], tant: [Nuowo, Nuo Sei]}
 type: affiliation
 subType: faithtradition
 description: "Dissolution."

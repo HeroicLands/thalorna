@@ -1,6 +1,6 @@
 ---
 shortcode: khazturnrsd
-name: {full: The Raising of Khazartúrn, aliases: [The Cutting of the Seven Towers]}
+name: {full: The Raising of Khazartúrn, en: [The Cutting of the Seven Towers]}
 type: lore
 subType: history
 description: "Khazartúrn is raised in 5123 BF—seven spurs of a mountain valley's cliff finished as towers, one to each clan, the joint city of all seven and the only thing the Khazari are known to have made as a single people."

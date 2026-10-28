@@ -1,12 +1,12 @@
 ---
 shortcode: nylbtrblntn
-name: {full: Nyáluba Tribal Nation, aliases: [The Five Who Walk Together, The Long Pact]}
+name: {full: Nyáluba Tribal Nation, en: [The Five Who Walk Together, The Long Pact]}
 type: affiliation
 subType: polity
 description: A confederation of five culturally distinct clan-nations of the southeastern Southern Savannahs, bound by the ancient Long Pact, the totemic faith, and the drum-language—politically loose, ritually intricate, and inheritors of the lost stone-builders.
 tags: []
 data:
-  language: nyalbnlng
+  lang: nyal
   culture: nyalubaclt
   templatePriority: null
   demonym: Nyáluban

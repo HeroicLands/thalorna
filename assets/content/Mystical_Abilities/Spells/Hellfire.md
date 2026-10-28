@@ -1,6 +1,6 @@
 ---
 shortcode: hellfire
-name: {full: Hellfire, aliases: [Doom Flame]}
+name: {full: Hellfire, en: [Doom Flame]}
 type: mysticalability
 subType: arcaneincantation
 description: "White-hot supernatural flame consuming stone and metal; spreads inexorably."

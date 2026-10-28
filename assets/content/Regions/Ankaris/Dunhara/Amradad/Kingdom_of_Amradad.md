@@ -1,6 +1,6 @@
 ---
 shortcode: kngdmmrdd
-name: {full: Kingdom of Amradad, aliases: [Amradad]}
+name: {full: Kingdom of Amradad, dunh: [amradad]}
 type: affiliation
 subType: polity
 description: "A settled kingdom on the eastern shore of the Vylarian Sea, in the north-western Dunhara—a realm of oases, merchant cities, and an Ashaian court culture distinct from the nomadic tribes."

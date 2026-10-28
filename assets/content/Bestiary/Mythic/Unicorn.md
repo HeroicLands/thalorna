@@ -1,6 +1,6 @@
 ---
 shortcode: unicorn
-name: {full: Unicorn, aliases: []}
+name: {full: Unicorn}
 type: being
 subType: creature
 description: "An impossibly rare and elusive mythic beast of incorruptible purity, so seldom seen that scholars doubt its existence altogether."

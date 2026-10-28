@@ -1,6 +1,6 @@
 ---
 shortcode: zhikandevlg
-name: {full: Zhíkande Village, aliases: []}
+name: {full: Zhíkande Village}
 type: place
 subType: settlement
 description: "Weaving village of the Zhíkande tribe among the flax fields of a river of Okharis."

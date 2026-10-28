@@ -1,6 +1,6 @@
 ---
 shortcode: daotouwochai
-name: {full: Daotou Wochai, aliases: []}
+name: {full: Daotou Wochai}
 type: affiliation
 subType: faithtradition
 description: "Metal."

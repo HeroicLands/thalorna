@@ -1,6 +1,6 @@
 ---
 shortcode: hvarnlng
-name: {full: Hvarn Language, aliases: []}
+name: {full: Hvarn Language}
 type: skill
 subType: language
 description: "The tongue of the guide-people of the Eastern Reach—unrelated to any lowland family, unwritten, and the one trans-Grazian language a lowlander occasionally learns."

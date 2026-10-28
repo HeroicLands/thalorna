@@ -1,6 +1,6 @@
 ---
 shortcode: chendra
-name: {full: Vedyaran Chendra, aliases: ["Chendra"]}
+name: {full: Vedyaran Chendra, vedy: [chendra]}
 type: miscgear
 description: "Silver coin struck by the Moon House at Chendrapur; the mid-value coin of Vedyaran trade, reckoned at eight tomra and worth its silver anywhere."
 tags: [jewelry_cash]

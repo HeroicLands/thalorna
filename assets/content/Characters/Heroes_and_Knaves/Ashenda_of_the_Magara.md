@@ -1,10 +1,6 @@
 ---
 shortcode: ashendamgr
-name:
-  full: Ashenda of the Magara
-  given: Ashenda
-  clan: Magara
-  aliases: [The Spirit Blade Warrior]
+name: {full: Ashenda of the Magara, given: Ashenda, clan: Magara, en: [The Spirit Blade Warrior]}
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, soldiery]

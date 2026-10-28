@@ -1,6 +1,6 @@
 ---
 shortcode: nulthey
-name: {full: Nulthey, aliases: [The Last Island]}
+name: {full: Nulthey, en: [The Last Island]}
 type: place
 subType: region
 description: "The great island region of Asguard where the unworthy dead pass, and where Nahild lets them diminish until nothing of them remains."

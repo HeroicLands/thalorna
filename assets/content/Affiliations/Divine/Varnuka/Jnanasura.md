@@ -1,6 +1,6 @@
 ---
 shortcode: jnanasura
-name: {full: Jnanasura, aliases: [The Radiant Sage]}
+name: {full: The Radiant Sage, vedy: [jnanasura]}
 type: affiliation
 subType: faithtradition
 description: "Religion of the god of wisdom and of the work of the mind."

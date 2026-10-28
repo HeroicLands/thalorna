@@ -1,6 +1,6 @@
 ---
 shortcode: vndrcgrskld
-name: {full: Vandarik yra Garskald wur Thornhaven, aliases: []}
+name: {full: Vandarik yra Garskald wur Thornhaven}
 type: being
 subType: npc
 tags: [draft, common-folk]

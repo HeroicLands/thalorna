@@ -1,6 +1,6 @@
 ---
 shortcode: ritualnehlet
-name: {full: "Ritual: Nehle'at", aliases: [Guardian of Night Visions]}
+name: {full: "Ritual: Nehle'at", en: [Guardian of Night Visions]}
 type: skill
 subType: mystical
 tags: [khelathi, faith-skill, draft]

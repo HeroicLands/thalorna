@@ -1,12 +1,12 @@
 ---
 shortcode: elavendriclt
-name: {full: Élavendri, aliases: []}
+name: {full: Élavendri}
 type: lore
 subType: culture
 description: "The Élavendri—their beliefs, their mores, and what they hold a person owes."
 tags: []
 data:
-  language: skill-elvndrlng
+  lang: elav
   glossary:
     - name: "hedge-affiliate"
       definition: "A village healer, herbalist or folk-magician who walks in the Grove Council's tradition"

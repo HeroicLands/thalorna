@@ -1,6 +1,6 @@
 ---
 shortcode: threshlamp
-name: {full: Threshold Lamp, aliases: []}
+name: {full: Threshold Lamp}
 type: miscgear
 description: "A small oil lamp lit and kept burning through the night a family member is dying, signifying the household's readiness to release the soul."
 tags: []

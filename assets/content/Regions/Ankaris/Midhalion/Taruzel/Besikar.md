@@ -1,6 +1,6 @@
 ---
 shortcode: besikar
-name: {full: Besikar, aliases: []}
+name: {full: Besikar}
 type: affiliation
 subType: polity
 description: "Largest and wealthiest city-state of the Confederation of Taruzelian States—de facto capital where the Grand Council meets and the most powerful merchant guilds command the harbor."

@@ -1,6 +1,6 @@
 ---
 shortcode: garmglykhqtm
-name: {full: Gar-Meglay Khuqet-Miglet, aliases: [Imperial Garrison at Khuqet-Miglet]}
+name: {full: Gar-Meglay Khuqet-Miglet, en: [Imperial Garrison at Khuqet-Miglet]}
 type: affiliation
 subType: governmental
 description: The frontier command on the northern desert road, holding the forts and the wells against the tribes

@@ -1,6 +1,6 @@
 ---
 shortcode: regions
-name: {full: Regions, aliases: []}
+name: {full: Regions}
 type: doc
 subType: reference
 description: Geographic and cultural regions.

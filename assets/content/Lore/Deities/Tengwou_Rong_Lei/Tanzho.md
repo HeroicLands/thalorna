@@ -1,6 +1,6 @@
 ---
 shortcode: tanzhodty
-name: {full: Tanzho, aliases: []}
+name: {full: Tanzho}
 type: lore
 subType: deity
 description: "The First Classifier of the Tengwou Rong Lei, who set the categories the celestial bureaucracy sorts the world into."

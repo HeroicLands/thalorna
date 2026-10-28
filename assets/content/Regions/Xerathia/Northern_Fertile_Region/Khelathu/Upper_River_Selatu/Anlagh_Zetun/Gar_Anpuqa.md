@@ -1,6 +1,6 @@
 ---
 shortcode: garanpuqa
-name: {full: Gar-Anpuqa, aliases: []}
+name: {full: Gar-Anpuqa}
 type: place
 subType: settlement
 description: "A basin village of Anlagh-Zetun, one of the scores that work the flood-country and render grain upward to the selat's stores"

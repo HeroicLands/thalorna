@@ -1,6 +1,6 @@
 ---
 shortcode: ixilankul2
-name: {full: Ish'ilankul, aliases: []}
+name: {full: Ish'ilankul}
 type: place
 subType: settlement
 description: "Seat of the paramount realm of Ki'ich'chik, a plateau city where the Sun Lords and the high priest share and contest power."

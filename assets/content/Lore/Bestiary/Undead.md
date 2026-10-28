@@ -1,6 +1,6 @@
 ---
 shortcode: undead
-name: {full: Undead, aliases: [Helspawn]}
+name: {full: Undead, en: [Helspawn]}
 type: lore
 subType: bestiary
 description: "The undead—the dead made animate by necrotic spiritual force, found wherever a tradition holds the authority to call them back."

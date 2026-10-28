@@ -1,6 +1,6 @@
 ---
 shortcode: dpmnjkdn
-name: {full: Dapuman Jakuduni, aliases: []}
+name: {full: Dapuman Jakuduni}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

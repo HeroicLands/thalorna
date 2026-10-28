@@ -1,6 +1,6 @@
 ---
 shortcode: kinhalcrdt
-name: {full: Kin and Hall Credit, aliases: [Tribal Credit, Hall Credit, Kin Credit]}
+name: {full: Kin and Hall Credit, en: [Tribal Credit, Hall Credit, Kin Credit]}
 type: lore
 subType: economy
 description: "Credit systems operating in clan- and tribal-based polities—extended kin obligations, hall-credit, and tribal exchange networks that handle long-term commerce without formal banking institutions, currency, or written instruments."

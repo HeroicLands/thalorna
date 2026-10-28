@@ -1,6 +1,6 @@
 ---
 shortcode: othmundrnk
-name: {full: "Othmund", aliases: []}
+name: {full: Othmund}
 type: lore
 subType: law
 description: "Taken in war or bought at the river-landings, answering to the mistress of a household about everything, in the Vristwald Tribes."

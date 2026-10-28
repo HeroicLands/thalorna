@@ -1,6 +1,6 @@
 ---
 shortcode: durgalis
-name: {full: Dúrgalis, aliases: []}
+name: {full: Dúrgalis}
 type: place
 subType: settlement
 description: "Castle Town"

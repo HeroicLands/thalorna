@@ -1,6 +1,9 @@
 ---
 shortcode: tribestrzd
-name: {full: Tribes of Atarzád, aliases: [Atárzadegan, The Flame-born, The Twelve Tribes, Atarzád]}
+name:
+  full: Tribes of Atarzád
+  en: [The Flame-born, The Twelve Tribes]
+  atar: [atárzadegan, atarzád]
 type: affiliation
 subType: polity
 description: A confederation of twelve tribes who came up out of bondage in Au'Khelathu and, about ninety years ago, took four of the Tellumi cities of Tellumel by the Promise of Ataros—the Sacred Flame. Monolatrous, covenantal, militant, and locked in blood-feud with the Tellumi whose cities they took. They hold those cities and the ground around Mount Shofar, and nothing beyond.

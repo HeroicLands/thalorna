@@ -1,6 +1,6 @@
 ---
 shortcode: selatmaguthn
-name: {full: The Selat of Magu-Thelqen, aliases: []}
+name: {full: The Selat of Magu-Thelqen}
 type: affiliation
 subType: polity
 description: "A planned temple-city of one zealous dynasty, half-abandoned, still inhabited—one of the upper-river selatu of Au'Khelathu."

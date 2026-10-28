@@ -1,6 +1,6 @@
 ---
 shortcode: vanapada
-name: {full: Vanapada, aliases: []}
+name: {full: Vanapada}
 type: place
 subType: settlement
 description: "Charcoal village at the forest edge, and the jewelers' supplier in the long quarrel over the cutting-rotation."

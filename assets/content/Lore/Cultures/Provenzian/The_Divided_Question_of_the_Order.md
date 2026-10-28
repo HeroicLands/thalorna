@@ -1,6 +1,6 @@
 ---
 shortcode: orderqstn
-name: {full: The Divided Question of the Order, aliases: [The Question of the Order]}
+name: {full: The Divided Question of the Order, en: [The Question of the Order]}
 type: lore
 subType: literature
 description: "A divided question sung at a patron's table in Kalveza at the Golden Harvest: Serdale asks where the beloved stands in the order of what a man owes, Iltore seats her first, Serdale keeps her off the list with the sea and the dead, and the judge both chose, Solvima of Kalveza, gives her judgment in the notary's form and settles nothing she was asked."
@@ -10,7 +10,7 @@ data:
   packFolder: settinglore
   form: divided-question
   subjects: [place-kalveza, affiliation-olvenia, lore-provenzianclt, affiliation-selmoros]
-  language: provnzlng
+  lang: prov
 
 # terran_analog: "The troubadour partimen or joc partit, in which one poet sets a dilemma, the other chooses a side and the first defends the other, ending in envois that name a judge; the courts of love and their mock judgments; the notarial instrument, for the form of the judgment."
 ---

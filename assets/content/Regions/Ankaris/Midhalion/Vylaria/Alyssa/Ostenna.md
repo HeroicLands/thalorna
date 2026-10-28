@@ -1,6 +1,6 @@
 ---
 shortcode: ostenna
-name: {full: Ostenna, aliases: []}
+name: {full: Ostenna}
 type: place
 subType: settlement
 description: "River-Port Town"

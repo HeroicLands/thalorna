@@ -1,6 +1,6 @@
 ---
 shortcode: acidtoad
-name: {full: Acidtoad, aliases: []}
+name: {full: Acidtoad}
 type: being
 subType: creature
 description: "A made amphibian of swamps and toxic pools that ambushes prey with sluggish movements and lethally venomous, acidic flesh."

@@ -1,6 +1,6 @@
 ---
 shortcode: lofrflmds
-name: {full: Lofáhr Vuzaghios, given: Lofáhr, clan: Vuzaghios, aliases: []}
+name: {full: Lofáhr Vuzaghios, given: Lofáhr, clan: Vuzaghios}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]

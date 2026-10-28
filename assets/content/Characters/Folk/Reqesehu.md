@@ -1,6 +1,6 @@
 ---
 shortcode: reqesehu
-name: {full: Reqesehu, aliases: [Reqe]}
+name: {full: Reqesehu, khel: [reqe]}
 type: being
 subType: npc
 description: "A scribe whose estate, when it fell in, proved to contain rather more than anyone had expected, and rather more than one party wanted found"

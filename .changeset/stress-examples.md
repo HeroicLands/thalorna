@@ -2,7 +2,7 @@
 "thalorna": patch
 ---
 
-**Languages**
+**Languages and scripts**
 
 - The Helonic and Taruzeli stress examples are said the way each language's stress rule says, and the Áelendi note keeps its stress on the first syllable throughout.
 - The Kaliharan stem _thari-_, "what came before", is written without an acute.

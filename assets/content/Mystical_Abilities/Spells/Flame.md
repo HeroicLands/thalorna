@@ -1,6 +1,6 @@
 ---
 shortcode: flame
-name: {full: Flame, aliases: []}
+name: {full: Flame}
 type: mysticalability
 subType: arcaneincantation
 description: "Conjures bright persistent flame; ignites targets or illuminates darkness."

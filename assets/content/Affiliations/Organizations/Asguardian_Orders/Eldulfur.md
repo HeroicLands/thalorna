@@ -1,6 +1,6 @@
 ---
 shortcode: eldulfur
-name: {full: "Eldúlfur", aliases: []}
+name: {full: Eldúlfur}
 type: affiliation
 subType: order
 description: "Svartbrandur's elite warriors of the forge-hovs."

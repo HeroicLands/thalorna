@@ -1,6 +1,6 @@
 ---
 shortcode: lfsprk
-name: {full: Lifespark, aliases: []}
+name: {full: Lifespark}
 type: mysticalability
 subType: arcaneincantation
 description: "Creates self-replenishing pocket of breathable air in drowning victim."

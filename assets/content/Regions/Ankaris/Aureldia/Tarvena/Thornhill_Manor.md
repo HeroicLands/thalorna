@@ -1,6 +1,6 @@
 ---
 shortcode: thornhillmnr
-name: {full: Thornhill Manor, aliases: []}
+name: {full: Thornhill Manor}
 type: place
 subType: structure
 description: "Lord Zurgade's manor near Valthari, whose hunts are kept by the huntswoman Zórila Dómivar and whose fortunes rise and fall with Tarvénian politics."

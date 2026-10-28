@@ -1,6 +1,6 @@
 ---
 shortcode: qbsnlrtn
-name: {full: Kubasan Lartuni, aliases: []}
+name: {full: Kubasan Lartuni}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

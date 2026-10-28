@@ -1,6 +1,6 @@
 ---
 shortcode: zhoushouzho
-name: {full: Zhoushou Zho, aliases: []}
+name: {full: Zhoushou Zho}
 type: affiliation
 subType: faithtradition
 description: "Water."

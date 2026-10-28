@@ -1,6 +1,6 @@
 ---
 shortcode: vaelukoa
-name: {full: Vaelukoa, aliases: []}
+name: {full: Vaelukoa}
 type: place
 subType: settlement
 description: "A reef village on Kalihara's eastern coast, between Nalurithan and the approaches off Telvari, beside a current-stone that has run intermittently for a generation, where the island's pilots are raised."

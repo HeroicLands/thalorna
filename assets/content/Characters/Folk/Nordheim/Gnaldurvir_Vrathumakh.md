@@ -1,6 +1,6 @@
 ---
 shortcode: gnaldurvirvra
-name: {full: Gnaldurvir Vrathumak, aliases: [Lord Gnaldurvir Vrathumak]}
+name: {full: Gnaldurvir Vrathumak, en: [Lord Gnaldurvir Vrathumak]}
 type: being
 subType: npc
 description: A powerful noble and patron of the arts who regularly commissions ceremonial garments from Thrildvir Iseldur.

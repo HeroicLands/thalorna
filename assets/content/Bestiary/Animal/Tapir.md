@@ -1,6 +1,6 @@
 ---
 shortcode: tapir
-name: {full: Tapir, aliases: []}
+name: {full: Tapir}
 type: being
 subType: creature
 description: "A shy, barrel-bodied jungle herbivore with a trunk-like nose, foraging riverbanks by night and swimming to escape confrontation."

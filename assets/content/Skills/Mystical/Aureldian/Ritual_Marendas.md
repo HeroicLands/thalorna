@@ -1,6 +1,6 @@
 ---
 shortcode: marendas
-name: {full: "Ritual: Marendas", aliases: [Marendas, Keeper of Sacred Wisdom]}
+name: {full: "Ritual: Marendas", en: [Keeper of Sacred Wisdom], biza: [Marendas]}
 type: skill
 subType: mystical
 tags: [aureldian, faith-skill, draft]

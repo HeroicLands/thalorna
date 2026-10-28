@@ -1,6 +1,6 @@
 ---
 shortcode: commissioncmp
-name: {full: The Commission Compromise, aliases: [The Examination Reform, Under Continuing Review]}
+name: {full: The Commission Compromise, en: [The Examination Reform, Under Continuing Review]}
 type: lore
 subType: history
 description: "About 710 AF, after the Dukran's report on the Taruzelian war leaks to the senatorial houses, the senior ethlen of his generation brokers a reform that tightens the commoner track's road to Vallar with an examination and gives the Reformist Faction a seat on the Tarmeks's audit, leaving purchased commissions untouched."

@@ -1,13 +1,13 @@
 ---
 shortcode: nordheimnclt
-name: {full: Nordheimn, aliases: []}
+name: {full: Nordheimn}
 type: lore
 subType: culture
 description: "The Nordheimn—their beliefs, their mores, and what they hold a person owes."
 tags: []
 data:
   calendar: lore-domseycount
-  language: skill-nordmalng
+  lang: nord
   glossary:
     - name: "blet"
       definition: "An offering and shared meal joining the gods, the living and the dead"

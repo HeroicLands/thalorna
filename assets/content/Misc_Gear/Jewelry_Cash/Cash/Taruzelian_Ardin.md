@@ -1,6 +1,6 @@
 ---
 shortcode: tard
-name: {full: Taruzelian Ardin, aliases: ["Taruzelian Ardin"]}
+name: {full: Taruzelian Ardin}
 type: miscgear
 description: "Confederation silver coin struck to the full imperial standard; passes at full value abroad."
 tags: [jewelry_cash]

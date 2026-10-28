@@ -1,6 +1,6 @@
 ---
 shortcode: cervalia
-name: {full: Kervalara, aliases: []}
+name: {full: Kervalara}
 type: place
 subType: settlement
 description: "Forest Town"

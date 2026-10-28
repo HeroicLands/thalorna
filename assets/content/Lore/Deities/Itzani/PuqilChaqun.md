@@ -1,6 +1,6 @@
 ---
 shortcode: puqilchaqundty
-name: {full: P'uqil Ch'akun, aliases: []}
+name: {full: P'uqil Ch'akun}
 type: lore
 subType: deity
 description: "The Feathered Storm-Serpent of the Itsani pantheon, whose rain feeds the maize and whose waking will end the Fifth Age."

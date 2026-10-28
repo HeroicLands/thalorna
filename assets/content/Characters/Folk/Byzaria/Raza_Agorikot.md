@@ -1,6 +1,6 @@
 ---
 shortcode: razaagorikot
-name: {full: Raza Agorikot, aliases: [Elder Magistrate Raza, Magistrate Raza]}
+name: {full: Raza Agorikot, en: [Elder Magistrate Raza, Magistrate Raza]}
 type: being
 subType: npc
 description: The senior figure of the Marshfeld council, an elder magistrate who mentors Fileze Stenikot.

@@ -1,6 +1,6 @@
 ---
 shortcode: hangingdead
-name: {full: The Hanging Dead of the Ironfells, aliases: []}
+name: {full: The Hanging Dead of the Ironfells}
 type: scenario
 subType: adventure
 description: "A rockslide seals the gorge below an Ironfells watch-post, its garrison hangs in a dead pine above the trail and from the post's own beams, and the made thing that hung them moves through the post's stonework and never touches the ground."

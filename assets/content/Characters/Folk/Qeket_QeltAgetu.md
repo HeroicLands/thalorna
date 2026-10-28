@@ -1,6 +1,6 @@
 ---
 shortcode: qeketqeltag2
-name: {full: Qeket Qelt'Agetu, aliases: []}
+name: {full: Qeket Qelt'Agetu}
 type: being
 subType: npc
 description: "An elder noblewoman whose memory of who owes what to whom is longer than the records, and better organised"

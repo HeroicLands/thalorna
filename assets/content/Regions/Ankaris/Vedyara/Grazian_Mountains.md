@@ -1,6 +1,6 @@
 ---
 shortcode: graznmntns
-name: {full: The Grazian Mountains, aliases: [The Grazian Range, The Grazian Wall]}
+name: {full: The Grazian Mountains, en: [The Grazian Range, The Grazian Wall]}
 type: place
 subType: region
 data:

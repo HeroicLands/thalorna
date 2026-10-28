@@ -1,6 +1,6 @@
 ---
 shortcode: ellevirsa
-name: {full: Guest-Right, aliases: [Ellevirsa]}
+name: {full: Guest-Right, sina: [ellevirsa]}
 type: lore
 subType: literature
 description: "The Sinale origin song cut into a stone at Sirmenne: how they came into a valley that was not theirs, what was already in it, the council that argued over the human bands, and the saying that left the valley open."
@@ -11,7 +11,7 @@ data:
   packFolder: settinglore
   form: ellante
   subjects: [lore-sinalearrv, lore-flksinale, lore-longnhrtnc, place-sirmenne]
-  language: sinalelng
+  lang: sina
 ---
 
 **Guest-Right**, _Ellevirsa_, is a [[lore-flksinale|Sinale origin song]]: how the Sinale came into a valley that was not theirs, what they found already in it, and what they decided there, which is where the custom its title names comes from. It is cut into a standing stone at [[place-sirmenne|Sirmenne]] in an old hand of the [[skill-clthndscrpt|Veldikko]], in the long paired lines of the Sinale long song, each line answered by the one beneath it. The stone is broken in two places, and where it is broken the reading is silent. The [[lore-aelendnppl|Áelendan]] Tradition Keepers hold the reading pair for pair and give it at the stone when they go to Sirmenne, and [[affiliation-bardicolgs|the Bardic Colleges]] sing what the Keepers read. The living song is the same song with one difference, set out below: the Áelendan hear it at [[place-aelirosse|Aelirosse]] on the night a guest of theirs first sleeps there, sung over the guest, who is what it is about.

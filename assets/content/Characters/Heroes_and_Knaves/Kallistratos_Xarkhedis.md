@@ -1,6 +1,6 @@
 ---
 shortcode: klstrtsxrchds
-name: {full: Kalestratos Zarkedis, given: Kalestratos, clan: Zarkedis, aliases: []}
+name: {full: Kalestratos Zarkedis, given: Kalestratos, clan: Zarkedis}
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, mages]

@@ -1,6 +1,6 @@
 ---
 shortcode: ryldnbrnwyld
-name: {full: Rilden Branvilde, aliases: []}
+name: {full: Rilden Branvilde}
 type: being
 subType: npc
 tags: [draft, administration]

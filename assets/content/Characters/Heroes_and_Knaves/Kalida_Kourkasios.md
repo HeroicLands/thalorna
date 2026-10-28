@@ -1,6 +1,6 @@
 ---
 shortcode: kalidkrkss
-name: {full: Kalida Kourkásios, given: Kalida, clan: Kourkásios, aliases: []}
+name: {full: Kalida Kourkásios, given: Kalida, clan: Kourkásios}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]

@@ -1,6 +1,6 @@
 ---
 shortcode: thapinamequg
-name: {full: Thapina Meku'Gataru, aliases: [High Priestess Thapina]}
+name: {full: Thapina Meku'Gataru, en: [High Priestess Thapina]}
 type: being
 subType: npc
 description: High priestess known throughout the region for her spiritual wisdom and grace, who fell into a sleep from which she has not woken, named in Gasher Let'Rethetu and Meqet-Garu.

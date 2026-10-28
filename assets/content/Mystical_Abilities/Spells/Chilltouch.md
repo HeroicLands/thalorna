@@ -1,6 +1,6 @@
 ---
 shortcode: chlltch
-name: {full: Chilltouch, aliases: []}
+name: {full: Chilltouch}
 type: mysticalability
 subType: arcaneincantation
 description: "Caster's hand withers flesh with unnatural cold on contact."

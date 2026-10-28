@@ -1,6 +1,6 @@
 ---
 shortcode: qapteltzaklrgn
-name: {full: Q'aptel Tsa'kul Region, aliases: []}
+name: {full: Q'aptel Tsa'kul Region}
 type: place
 subType: region
 description: "Toxic mineral flats, geothermal vents and storm-wracked scrubland—the land of Q'aptel Tsa'kul, the threshold of the southern wastes."

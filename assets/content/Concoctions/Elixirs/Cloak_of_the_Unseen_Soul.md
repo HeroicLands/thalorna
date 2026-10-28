@@ -1,6 +1,6 @@
 ---
 shortcode: elxscl
-name: {full: Cloak of the Unseen Soul, aliases: [Soulcloak Elixir]}
+name: {full: Cloak of the Unseen Soul, en: [Soulcloak Elixir]}
 type: concoctiongear
 subType: elixir
 description: "Luminous silver elixir; shields spirit from True Sight and divinations."

@@ -1,6 +1,6 @@
 ---
 shortcode: cnpyglr
-name: {full: Canopy Glider, aliases: [Luorithuri]}
+name: {full: Canopy Glider, kali: [Luorithuri]}
 type: being
 subType: creature
 description: "A cat-sized, long-limbed night feeder of the unbroken canopy that crosses a hundred yards of forest between trees on a fold of skin without touching the ground."

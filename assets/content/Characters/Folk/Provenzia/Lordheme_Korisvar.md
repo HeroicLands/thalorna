@@ -1,6 +1,6 @@
 ---
 shortcode: lordhemekoris
-name: {full: Lordeme Kórisvar, aliases: [Lord Lordeme Kórisvar]}
+name: {full: Lordeme Kórisvar, en: [Lord Lordeme Kórisvar]}
 type: being
 subType: npc
 description: The father of Arnela Kórisvar, a cautious lord who kept his head down.

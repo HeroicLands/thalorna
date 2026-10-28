@@ -1,6 +1,6 @@
 ---
 shortcode: mahituatheil
-name: {full: Mahitua Theiluori, aliases: [Lord Mahitua]}
+name: {full: Mahitua Theiluori, en: [Lord Mahitua]}
 type: being
 subType: npc
 description: The present head of the Kubasari, the eldest of the three merchant families of the House of Factors, named in Olivael Ithaluori.

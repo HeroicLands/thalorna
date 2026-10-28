@@ -1,6 +1,6 @@
 ---
 shortcode: lghtspr
-name: {full: Lightspire, aliases: []}
+name: {full: Lightspire}
 type: mysticalability
 subType: arcaneincantation
 description: "Pillars of concentrated light descending; scorches and ignites targets."

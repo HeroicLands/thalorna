@@ -1,6 +1,6 @@
 ---
 shortcode: thornrat
-name: {full: Thornrat, aliases: []}
+name: {full: Thornrat}
 type: being
 subType: creature
 description: "A small but deadly plague-bearing scavenger whose venomous spines and toxic bites can spread disease through an entire settlement."

@@ -1,6 +1,6 @@
 ---
 shortcode: crsyhrvlnhng
-name: {full: The Curse of Yarvalen Henge, aliases: []}
+name: {full: The Curse of Yarvalen Henge}
 type: scenario
 subType: adventure
 data:

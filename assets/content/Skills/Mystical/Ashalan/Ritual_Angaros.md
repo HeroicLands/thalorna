@@ -1,6 +1,6 @@
 ---
 shortcode: angaros
-name: {full: "Ritual: Angaros", aliases: [The Shadowed Serpent]}
+name: {full: "Ritual: Angaros", en: [The Shadowed Serpent]}
 type: skill
 subType: mystical
 tags: [ashalan, faith-skill, draft]

@@ -1,6 +1,6 @@
 ---
 shortcode: eichengrnd
-name: {full: Eichengrund, aliases: []}
+name: {full: Eichengrund}
 type: place
 subType: settlement
 description: "Woodland Village"

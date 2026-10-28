@@ -1,6 +1,6 @@
 ---
 shortcode: kankulrgn
-name: {full: K'ankul Region, aliases: []}
+name: {full: K'ankul Region}
 type: place
 subType: region
 description: "The limestone lowlands of sacred pools, jungle and coral coast that are the land of K'ankul, in Central Ki'ich'chik."

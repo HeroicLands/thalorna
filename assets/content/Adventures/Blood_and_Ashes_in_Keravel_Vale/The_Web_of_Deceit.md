@@ -1,6 +1,6 @@
 ---
 shortcode: webdeceit
-name: {full: The Web of Deceit, aliases: []}
+name: {full: The Web of Deceit}
 type: scenario
 subType: adventure
 tags: [blood-and-ashes-in-ceravel-vale]

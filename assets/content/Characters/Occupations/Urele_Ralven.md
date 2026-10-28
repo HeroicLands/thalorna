@@ -1,6 +1,6 @@
 ---
 shortcode: ureleralwn
-name: {full: Urele Ralven, aliases: []}
+name: {full: Urele Ralven}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

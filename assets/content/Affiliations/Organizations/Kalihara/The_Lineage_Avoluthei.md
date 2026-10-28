@@ -1,6 +1,6 @@
 ---
 shortcode: lineageavoluthei
-name: {full: The Lineage Avoluthei, aliases: [The Avoluthei]}
+name: {full: The Lineage Avoluthei, en: [The Avoluthei]}
 type: affiliation
 subType: lineage
 description: "The lineage that keeps the road over the Cloud Pass and its gate, walks the pass's wind-stone with the custodians, and leads the rare outsider over the Ring blindfolded."

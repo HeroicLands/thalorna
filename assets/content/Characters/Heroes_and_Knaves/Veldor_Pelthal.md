@@ -1,6 +1,6 @@
 ---
 shortcode: veldrblthl
-name: {full: Veldor Pelthal, given: Veldor, clan: Pelthal, aliases: []}
+name: {full: Veldor Pelthal, given: Veldor, clan: Pelthal}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]

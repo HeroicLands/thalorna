@@ -1,6 +1,6 @@
 ---
 shortcode: byzarnlng
-name: {full: Bizarian Language, aliases: []}
+name: {full: Bizarian Language}
 type: skill
 subType: language
 description: "A crossroads speech wedding Helonic grammar to eastern vocabulary, widely understood by traders on either side."

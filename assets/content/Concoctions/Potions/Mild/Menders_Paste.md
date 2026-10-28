@@ -1,6 +1,6 @@
 ---
 shortcode: ptncurm
-name: {full: "Mender's Paste", aliases: ["Potion, Curative, Mild"]}
+name: {full: Mender's Paste, en: ["Potion, Curative, Mild"]}
 type: concoctiongear
 subType: exotic
 description: "Pale green poultice; heals wounds and promotes recovery."

@@ -1,6 +1,6 @@
 ---
 shortcode: xilanixlandty
-name: {full: Shilan Ish'lan, aliases: []}
+name: {full: Shilan Ish'lan}
 type: lore
 subType: deity
 description: "The Walker of Paths in the Itsani pantheon—the white roads and the road shrines that carry word across the continent."

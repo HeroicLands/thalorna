@@ -1,6 +1,6 @@
 ---
 shortcode: fortress
-name: {full: Fortress, aliases: []}
+name: {full: Fortress}
 type: mysticalability
 subType: arcaneincantation
 description: "Caster becomes immobile; hardens body against incoming strike and damage."

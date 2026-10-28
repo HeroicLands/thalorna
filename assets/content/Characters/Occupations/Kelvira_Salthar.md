@@ -1,6 +1,6 @@
 ---
 shortcode: kelyrslthr
-name: {full: Kélvira Salthar, aliases: []}
+name: {full: Kélvira Salthar}
 type: being
 subType: npc
 tags: [draft, guilded, administration]

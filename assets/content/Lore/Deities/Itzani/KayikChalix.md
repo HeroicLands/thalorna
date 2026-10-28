@@ -1,6 +1,6 @@
 ---
 shortcode: kayikchalixdty
-name: {full: K'ayik Ch'alish, aliases: []}
+name: {full: K'ayik Ch'alish}
 type: lore
 subType: deity
 description: "The Sacred Flame of the Itsani pantheon, who alone turns the blood-offering into divine substance, and whose fires are never allowed to die."

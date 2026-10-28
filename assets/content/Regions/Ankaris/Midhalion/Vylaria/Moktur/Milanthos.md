@@ -1,6 +1,6 @@
 ---
 shortcode: mylanthos
-name: {full: Milanthos, aliases: []}
+name: {full: Milanthos}
 type: place
 subType: settlement
 description: "A farming village on the Tirellan circuit whose elder, a retired militia commander, shelters the healer-priest Azendas Damator."

@@ -1,6 +1,6 @@
 ---
 shortcode: jointcrown
-name: {full: The Joint Crown of Aelwyth, aliases: [The Elder Kingdom]}
+name: {full: The Joint Crown of Aelwyth, en: [The Elder Kingdom]}
 type: lore
 subType: history
 description: "About 1585 BF the Sinale of the southern forest and the Khazari of the Ironfells raised one crown over the whole of Aelwyth, held by a Sinale king and governed by both peoples, and kept it for six centuries."

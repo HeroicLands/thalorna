@@ -1,6 +1,6 @@
 ---
 shortcode: ixilankul
-name: {full: Ish'ilankul, aliases: []}
+name: {full: Ish'ilankul}
 type: affiliation
 subType: polity
 description: Paramount realm and beating heart of Ki'ich'chik civilization—a plateau of pyramid-temples, mathematics, and blood-priesthood.

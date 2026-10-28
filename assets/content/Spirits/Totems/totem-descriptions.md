@@ -3,7 +3,6 @@ tags:
   - draft
 name:
   full: totem-descriptions
-  aliases: []
 ---
 
 1. **Badger: Tenacious and Independent**

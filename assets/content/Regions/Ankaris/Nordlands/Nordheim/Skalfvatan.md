@@ -1,6 +1,6 @@
 ---
 shortcode: skalfvatan
-name: {full: Skalfvatan, aliases: [The Shudder Lake]}
+name: {full: Skalfvatan, en: [The Shudder Lake]}
 type: place
 subType: feature
 description: "The frozen border lake between Nordheim and Malagna where King Gnirthorv of Malagna and eleven hundred men went through the ice in 466 AF: a blood-field of the recurrence, with a ring of headland stones on the Malagnan shore, eleven hundred names and one blank."

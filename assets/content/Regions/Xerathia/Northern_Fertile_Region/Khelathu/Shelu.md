@@ -1,6 +1,6 @@
 ---
 shortcode: sheluessn
-name: {full: Shelu, aliases: [The Harvest]}
+name: {full: Shelu, en: [The Harvest]}
 type: lore
 subType: custom
 description: "The season of low water: four months of harvest, of building, and of the campaigns the dry roads allow"

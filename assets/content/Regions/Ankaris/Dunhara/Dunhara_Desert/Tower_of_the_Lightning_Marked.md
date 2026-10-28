@@ -1,6 +1,6 @@
 ---
 shortcode: twrlghtnmrkd
-name: {full: Tower of the Lightning-Marked, aliases: [Qeshvadez, The Glass Tower]}
+name: {full: Tower of the Lightning-Marked, en: [The Glass Tower], dunh: [qeshvadez]}
 type: place
 subType: site
 description: "A storm-blasted spire on the Pale Floor where the Storm Cults of Bahramish call down lightning, and where the last cult-master is said to have walked into the storm and never come out."

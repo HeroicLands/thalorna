@@ -1,6 +1,6 @@
 ---
 shortcode: lionttm
-name: {full: Lion, aliases: [Lion Totem]}
+name: {full: Lion, en: [Lion Totem]}
 type: lore
 subType: bestiary
 description: "The lion as a totemic ideal, and the human character it describes."

@@ -1,6 +1,6 @@
 ---
 shortcode: khuqetzalu
-name: {full: Khuqet-Zalu, aliases: [The Tribute Forts]}
+name: {full: Khuqet-Zalu, en: [The Tribute Forts]}
 type: place
 subType: site
 description: "A chain of abandoned Khelathi forts, each on a well, across the South Marches toward the eastern temple-cities of Okharis: the tribute road of the sun-house, and now the lairs of the Marches' free companies, the Jackals among them."

@@ -1,6 +1,6 @@
 ---
 shortcode: shitakoshta
-name: {full: Shitakoshta, aliases: [The Cold Chamber]}
+name: {full: The Cold Chamber, vedy: [shitakoshta]}
 type: place
 subType: structure
 description: "The oldest vault of the Rajavali Library, whose north wall is a body of unworkable substance the masons could not dress, shift or build square to."

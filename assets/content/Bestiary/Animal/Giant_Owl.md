@@ -1,6 +1,6 @@
 ---
 shortcode: giantowl
-name: {full: Giant Owl, aliases: []}
+name: {full: Giant Owl}
 type: being
 subType: creature
 description: "A silent nocturnal apex raptor with a twenty-five-foot wingspan and armor-piercing talons, intelligently ruling vast territories across many valleys."

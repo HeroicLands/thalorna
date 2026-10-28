@@ -1,6 +1,6 @@
 ---
 shortcode: passtoken
-name: {full: Suryagarha Pass-Token, aliases: []}
+name: {full: Suryagarha Pass-Token}
 type: miscgear
 description: "A halved copper tally, one struck per caravan at the customs-house; the two halves rejoin only if the count agrees."
 tags: []

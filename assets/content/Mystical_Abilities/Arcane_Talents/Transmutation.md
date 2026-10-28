@@ -1,6 +1,6 @@
 ---
 shortcode: xmut
-name: {full: Transmutation, aliases: []}
+name: {full: Transmutation}
 type: mysticalability
 subType: arcanetalent
 description: "Turns a substance into a different one for as long as the talent holds."

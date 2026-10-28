@@ -1,6 +1,6 @@
 ---
 shortcode: hnirvmylthul
-name: {full: Hnirmil Thulmaruk, aliases: [Lord Hnirmil Thulmaruk]}
+name: {full: Hnirmil Thulmaruk, en: [Lord Hnirmil Thulmaruk]}
 type: being
 subType: npc
 description: A wealthy merchant prince with significant enemies who has employed Thraldorv Vornheim as a bodyguard.

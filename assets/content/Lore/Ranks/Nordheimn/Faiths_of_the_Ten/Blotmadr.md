@@ -1,6 +1,6 @@
 ---
 shortcode: blotmadrrnk
-name: {full: "Bletmadur", aliases: []}
+name: {full: Bletmadur}
 type: lore
 subType: law
 description: "One who attends the blet, the laity of the faiths of the Ten that keep it."

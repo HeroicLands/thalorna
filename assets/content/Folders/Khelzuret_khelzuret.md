@@ -1,6 +1,6 @@
 ---
 shortcode: khelzuret
-name: {full: Khelzuret, aliases: []}
+name: {full: Khelzuret}
 type: folder
 data: {parent: upperrivrslt, color: "#A5D6A7"}
 ---

@@ -1,6 +1,6 @@
 ---
 shortcode: rabbitttm
-name: {full: Rabbit, aliases: [Rabbit Totem]}
+name: {full: Rabbit, en: [Rabbit Totem]}
 type: lore
 subType: bestiary
 description: "The rabbit as a totemic ideal, and the human character it describes."

@@ -1,6 +1,6 @@
 ---
 shortcode: morvahnadty
-name: {full: Mórvahna, aliases: []}
+name: {full: Mórvahna}
 type: lore
 subType: deity
 description: "The Silent Keeper of the Ashaian pantheon, holding decay and the slow undoing of everything made."

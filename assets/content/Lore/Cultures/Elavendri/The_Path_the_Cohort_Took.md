@@ -1,6 +1,6 @@
 ---
 shortcode: cohortpath
-name: {full: The Path the Cohort Took, aliases: [Derva Who Walks in Front]}
+name: {full: The Path the Cohort Took, en: [Derva Who Walks in Front]}
 type: lore
 subType: literature
 description: "The Áuldalon hill-tellers' tale of the war of the tribute: the pony-herd's daughter who took the legion's silver, struck a bargain at the wood's edge with one of the deeper places, carried her brother on her back down a path that was never the same path twice, and walked in front of everyone she went with for the rest of her life."
@@ -10,7 +10,7 @@ data:
   packFolder: settinglore
   form: tale
   subjects: [lore-elvtribute, place-auldalon, place-valdun, lore-faecourts, affiliation-vylrnmltry]
-  language: elvndrlng
+  lang: elav
 
 # terran_analog: "The Breton and Gaulish wonder tale told at the edge of the forest country, for the voice; the bargain with an otherworld being kept to its exact words, and the condition that binds the bargainer for life, from the fairy-bride and changeling tales; the folk etiology that explains a law or a tax by a story about one person; the legions lost in the forest, as the frontier peoples told it."
 ---

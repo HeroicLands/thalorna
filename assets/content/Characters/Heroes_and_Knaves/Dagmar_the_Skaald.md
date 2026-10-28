@@ -1,6 +1,6 @@
 ---
 shortcode: dagmrskaald
-name: {full: Dagmar the Skaald, given: Dagmar, aliases: [the Rogue Skald, Dagmar, Tvirnvir]}
+name: {full: Dagmar the Skaald, given: Dagmar, en: [the Rogue Skald], nord: [dagmar, tvirnvir]}
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, guilded, tradesfolk]

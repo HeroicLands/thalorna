@@ -1,6 +1,6 @@
 ---
 shortcode: vishalblry
-name: {full: Vishali Balarnaya, given: Vishali, clan: Balarnaya, aliases: []}
+name: {full: Vishali Balarnaya, given: Vishali, clan: Balarnaya}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]

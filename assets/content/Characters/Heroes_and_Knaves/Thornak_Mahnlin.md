@@ -4,7 +4,8 @@ name:
   full: Thornak Bludtusk Barsk
   given: Thornak
   clan: Mahnlin
-  aliases: [The Boar-Totem Warrior, Bludtusk Barsk, Thornak yra Mahnlin]
+  en: [The Boar-Totem Warrior]
+  varo: [Bludtusk Barsk, Thornak yra Mahnlin]
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, tradesfolk]

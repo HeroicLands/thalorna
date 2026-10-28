@@ -1,6 +1,6 @@
 ---
 shortcode: alunetgasezb
-name: {full: Alunet Gasezabu, aliases: []}
+name: {full: Alunet Gasezabu}
 type: being
 subType: npc
 description: "A lord of the capital, dead some years, whose line produced centuries of administrators, generals and patrons of the arts"

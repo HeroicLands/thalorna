@@ -1,6 +1,6 @@
 ---
 shortcode: shengelsprt
-name: {full: "Zohu Shéngeling Spirit Power", aliases: [The Spirit of the Blade]}
+name: {full: Zohu Shéngeling Spirit Power, en: [The Spirit of the Blade]}
 type: skill
 subType: mystical
 description: "Standing with Zohu Shéngeling, zohira of the blade—what this emissary of the Flame is petitioned and interceded with."

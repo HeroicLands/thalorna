@@ -1,6 +1,6 @@
 ---
 shortcode: naliktzuqaldty
-name: {full: Nal'ik Ts'uqal, aliases: []}
+name: {full: Nal'ik Ts'uqal}
 type: lore
 subType: deity
 description: "The Dreamer in Moonlight of the Itsani pantheon—the one of the Ten who asks no blood, taking cacao, flowers, and the spoken word."

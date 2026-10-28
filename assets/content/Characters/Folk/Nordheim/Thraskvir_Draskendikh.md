@@ -1,6 +1,6 @@
 ---
 shortcode: thraskvirdra
-name: {full: Thraskvir Draskendik, aliases: [Captain Thraskvir Draskendik]}
+name: {full: Thraskvir Draskendik, en: [Captain Thraskvir Draskendik]}
 type: being
 subType: npc
 description: A merchant captain of the vessel Gyllir's Fortune who has worked with Hvarnthann Stormrót before.

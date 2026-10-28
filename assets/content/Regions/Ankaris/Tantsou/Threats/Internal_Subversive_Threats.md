@@ -1,6 +1,6 @@
 ---
 shortcode: intrnlsbvrsvthrts
-name: {full: Internal Subversive Threats, aliases: []}
+name: {full: Internal Subversive Threats}
 type: doc
 subType: concept
 tags: [gm]

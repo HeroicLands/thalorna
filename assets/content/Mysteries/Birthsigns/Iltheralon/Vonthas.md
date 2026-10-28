@@ -1,6 +1,6 @@
 ---
 shortcode: korith
-name: {full: Vonthas, aliases: []}
+name: {full: Vonthas}
 type: mystery
 subType: birthsign
 description: "The Helm: hard-bodied and steady under a blow, lost in wild country and worse in conversation."

@@ -1,6 +1,6 @@
 ---
 shortcode: ghgnrsmkthn
-name: {full: Ghígnaros Makithon, aliases: []}
+name: {full: Ghígnaros Makithon}
 type: being
 subType: npc
 tags: [draft, administration]

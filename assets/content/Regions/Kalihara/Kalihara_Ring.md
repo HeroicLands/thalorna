@@ -1,6 +1,6 @@
 ---
 shortcode: klhrring
-name: {full: The Ring, aliases: [The Ring Mountains, The Ring of Kalihara]}
+name: {full: The Ring, en: [The Ring Mountains, The Ring of Kalihara]}
 type: place
 subType: feature
 description: "The circle of tall mountains that closes the island of Kalihara on every side, its peaks wrapped in cloud for most of the year and visible from far out at sea."

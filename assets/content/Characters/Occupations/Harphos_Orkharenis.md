@@ -1,6 +1,6 @@
 ---
 shortcode: hrphsrchrns
-name: {full: Harfos Orkarenis, aliases: []}
+name: {full: Harfos Orkarenis}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]

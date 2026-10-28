@@ -1,6 +1,6 @@
 ---
 shortcode: psaqarudty
-name: {full: Saq'aru, aliases: []}
+name: {full: Saq'aru}
 type: lore
 subType: deity
 tags: [draft]

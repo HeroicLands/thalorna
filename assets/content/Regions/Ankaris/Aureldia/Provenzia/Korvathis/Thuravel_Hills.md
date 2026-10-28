@@ -1,6 +1,6 @@
 ---
 shortcode: thuravelhills
-name: {full: Túravel Hills, aliases: []}
+name: {full: Túravel Hills}
 type: place
 subType: feature
 description: "A range of low wooded hills in southern Provenzia, thinly settled and poorly mapped, remembered in song as a country of the older faith and avoided by people who will not say why."

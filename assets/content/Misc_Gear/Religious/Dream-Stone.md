@@ -1,6 +1,6 @@
 ---
 shortcode: dreamstone
-name: {full: Dream-Stone, aliases: []}
+name: {full: Dream-Stone}
 type: miscgear
 description: "A smooth stone consecrated in the Dream-Stone Blessing, taken home by a petitioner of the Dream Assembly to carry the chamber's stillness with him."
 tags: []

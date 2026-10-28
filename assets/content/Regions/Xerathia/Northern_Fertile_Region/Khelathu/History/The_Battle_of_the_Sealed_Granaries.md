@@ -1,6 +1,6 @@
 ---
 shortcode: sealedgran
-name: {full: The Battle of the Sealed Granaries, aliases: []}
+name: {full: The Battle of the Sealed Granaries}
 type: lore
 subType: history
 description: "In 268 AF the Halzi'a of Anlagh-Zetun raised the upper river and the temple levies against the guard of the false god-king, broke the granary gates, and sealed the dead of both sides in an emptied granary without rites."

@@ -1,6 +1,6 @@
 ---
 shortcode: firstterms
-name: {full: The Hymn of the First Terms, aliases: [Kumetin Arkhidin]}
+name: {full: The Hymn of the First Terms, biza: [Kumetin Arkhidin]}
 type: lore
 subType: literature
 description: "The hymn the monasteries of the eastern rite sing through the night before the Feast of Thresholds: the Unagreed before the world, the Twelve stating its terms, the eleven seals and the place the Wild Beast left empty, the takers made to be the second seal, the world's own term counted three times, and the renewal at every turning of the year, with the cantor's name sealed down the margin."
@@ -18,7 +18,7 @@ data:
     - lore-selmorosdty
     - affiliation-arldnpnthn
     - lore-byzarianclt
-  language: byzarnlng
+  lang: biza
 
 # terran_analog: "The kontakia of Romanos the Melodist, for the long hymn of stanzas sung by a cantor, the refrain the congregation answers and the acrostic that signs the author as 'the humble'; the Akathist hymn, for the closing litany of titles; Byzantine theology's love of paradox; and the Byzantine habit of dating the end of the world and dating it again when the year passed."
 ---

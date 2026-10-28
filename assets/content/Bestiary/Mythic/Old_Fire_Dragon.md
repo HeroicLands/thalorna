@@ -1,6 +1,6 @@
 ---
 shortcode: oldfrdrg
-name: {full: Old Fire Dragon, aliases: [Fire Wyrm]}
+name: {full: Old Fire Dragon, en: [Fire Wyrm]}
 type: being
 subType: creature
 description: "A millennium-old fire-breathing wyrm of ash and calamity, sapient and vengeful, hoarding kingdom-bankrupting wealth over lands it conquers and razes."

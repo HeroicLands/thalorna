@@ -1,6 +1,6 @@
 ---
 shortcode: hrimthur
-name: {full: "Ritual: Hrimthur", aliases: [The Path of the First Wound]}
+name: {full: "Ritual: Hrimthur", en: [The Path of the First Wound]}
 type: skill
 subType: mystical
 tags: [asguardian, faith-skill, draft]

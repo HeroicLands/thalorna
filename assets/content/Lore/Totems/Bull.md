@@ -1,6 +1,6 @@
 ---
 shortcode: bullttm
-name: {full: Bull, aliases: [Bull Totem]}
+name: {full: Bull, en: [Bull Totem]}
 type: lore
 subType: bestiary
 description: "The bull as a totemic ideal, and the human character it describes."

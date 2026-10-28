@@ -1,6 +1,6 @@
 ---
 shortcode: nurvhrn
-name: {full: Nurvharn, aliases: []}
+name: {full: Nurvharn}
 type: place
 subType: settlement
 description: "The Hvarn winter house under the Eastern Reach—one long settlement where the whole people gathers for the closed months and the council sits."

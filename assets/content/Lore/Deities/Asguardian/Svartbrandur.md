@@ -1,6 +1,6 @@
 ---
 shortcode: svartbrandurdty
-name: {full: Svartbrandur, aliases: []}
+name: {full: Svartbrandur}
 type: lore
 subType: deity
 description: "The Destroyer of the Asguardian gods—fire, savage battle, and the flame promised to end the world."

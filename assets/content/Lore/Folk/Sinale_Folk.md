@@ -2,7 +2,7 @@
 shortcode: flksinale
 name:
   full: Sinale Folk
-  aliases: [The Firstborn, The Star-Kindled, The Twilight People, The Elder Folk]
+  en: [The Firstborn, The Star-Kindled, The Twilight People, The Elder Folk]
 type: lore
 subType: folk
 description: "The Firstborn elder race: tall, immortal folk of forest and starlight, vanishingly rare and withdrawn from human affairs."

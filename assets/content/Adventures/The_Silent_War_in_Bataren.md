@@ -1,6 +1,6 @@
 ---
 shortcode: slntwrbtrn
-name: {full: The Silent War in Bataren, aliases: []}
+name: {full: The Silent War in Bataren}
 type: scenario
 subType: adventure
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: vruthvirhrun
-name: {full: Vruthvir Hrundendik, aliases: [Jarl Vruthvir Hrundendik, Jarl Vruthvir]}
+name: {full: Vruthvir Hrundendik, en: [Jarl Vruthvir Hrundendik, Jarl Vruthvir]}
 type: being
 subType: npc
 description: The jarl who commands the Thraldfjord fortress, named in Gnurthselda Hafringur.

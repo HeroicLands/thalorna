@@ -1,6 +1,6 @@
 ---
 shortcode: gaulegirunome
-name: {full: Gau-Legiru, aliases: []}
+name: {full: Gau-Legiru}
 type: place
 subType: region
 description: "The garden coast of the delta—a wet, mild strip of citrus, olive, vine, fig and date along the Vylarian shore, the land of the Selat of Gau-Legiru."

@@ -1,6 +1,6 @@
 ---
 shortcode: ytlshpshtm
-name: {full: Yutalush Pushutum, aliases: []}
+name: {full: Yutalush Pushutum}
 type: being
 subType: npc
 tags: [todo, draft, clergy]

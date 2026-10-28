@@ -1,6 +1,6 @@
 ---
 shortcode: rsngcrnt
-name: {full: Rising Current, aliases: []}
+name: {full: Rising Current}
 type: mysticalability
 subType: arcaneincantation
 description: "Commands water flow; raises level or creates powerful currents."

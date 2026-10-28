@@ -1,6 +1,6 @@
 ---
 shortcode: princesfort
-name: {full: The Prince's Fort, aliases: [Theodburg, The Shared Fort]}
+name: {full: The Prince's Fort, en: [The Shared Fort], varo: [Theodburg]}
 type: lore
 subType: history
 description: "About 590 AF a Velanthian river-prince raised a fort on the Thornwald frontier for his soldiers and the Varokh war-bands to hold together against the Grukar; within a generation he asked tribute for it, Thornhaven's Other Chief refused to witness the bargain, the war-bands walked out, and the fort was left half-burned."

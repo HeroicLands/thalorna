@@ -1,6 +1,6 @@
 ---
 shortcode: grimak
-name: {full: Grimak, aliases: [The Fierce Thicket]}
+name: {full: Grimak, en: [The Fierce Thicket]}
 type: place
 subType: site
 description: "The marsh thicket in Skathwald where the Varokh burned a Grukar nest in 536 AF; a blood-field of the silence, where something calls Varokh names in a grandmother's voice."

@@ -1,6 +1,6 @@
 ---
 shortcode: grmdnshnyrds
-name: {full: Goremdanis Sonyardis, aliases: []}
+name: {full: Goremdanis Sonyardis}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

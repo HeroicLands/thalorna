@@ -1,6 +1,6 @@
 ---
 shortcode: bghnkh
-name: {full: Bagh Nakh, aliases: []}
+name: {full: Bagh Nakh}
 type: weapongear
 description: "Curved iron claws for raking close brawl; street fighter's mercy-less tool."
 tags: []

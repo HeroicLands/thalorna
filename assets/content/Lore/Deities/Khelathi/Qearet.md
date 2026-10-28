@@ -1,6 +1,6 @@
 ---
 shortcode: qearetdty
-name: {full: Qe'aret, aliases: []}
+name: {full: Qe'aret}
 type: lore
 subType: deity
 tags: [draft]

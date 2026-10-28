@@ -1,6 +1,6 @@
 ---
 shortcode: whalettm
-name: {full: Whale, aliases: [Whale Totem]}
+name: {full: Whale, en: [Whale Totem]}
 type: lore
 subType: bestiary
 description: "The whale as a totemic ideal, and the human character it describes."

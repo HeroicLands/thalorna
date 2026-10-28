@@ -1,6 +1,6 @@
 ---
 shortcode: anlaghthawu
-name: {full: Anlagh-Thawu, aliases: []}
+name: {full: Anlagh-Thawu}
 type: place
 subType: settlement
 description: "A hinterland village of the Capital Selat, one of the ring that feeds Galezkara"

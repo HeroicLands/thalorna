@@ -1,6 +1,6 @@
 ---
 shortcode: gullverdir
-name: {full: "Gullverdir", aliases: []}
+name: {full: Gullverdir}
 type: affiliation
 subType: order
 description: "Guardians of Solrún's sacred wealth."

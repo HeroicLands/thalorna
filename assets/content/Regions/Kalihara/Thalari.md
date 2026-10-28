@@ -1,6 +1,6 @@
 ---
 shortcode: thalari
-name: {full: "Thal'ari", aliases: ["The Sanctuary of Thal'ari"]}
+name: {full: The Sanctuary of Thal'ari, kali: [Thal'ari]}
 type: place
 subType: settlement
 description: "The sanctuary on the western slopes of Kalihara's Ring, facing the sea, where the custodians who tend the works of the coast and the approaches are trained."

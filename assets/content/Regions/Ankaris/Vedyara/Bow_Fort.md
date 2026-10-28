@@ -1,6 +1,6 @@
 ---
 shortcode: bowfort
-name: {full: The Bow-Fort, aliases: []}
+name: {full: The Bow-Fort}
 type: place
 subType: site
 description: "The megalithic fort on the hill above the Sarveda that Danurkot is named for, whose foundation courses no living mason can account for."

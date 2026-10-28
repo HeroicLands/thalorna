@@ -1,6 +1,6 @@
 ---
 shortcode: nyalubaadvguide
-name: {full: Nyáluba Adventurer's Guide, aliases: []}
+name: {full: Nyáluba Adventurer's Guide}
 type: doc
 subType: settingguide
 description: A short player and GM introduction to the Nyáluba—five clan-nations of the Southern Savannahs bound by the Long Pact, the drums, the griots and the spirits.

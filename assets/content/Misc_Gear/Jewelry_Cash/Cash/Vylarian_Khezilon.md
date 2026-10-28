@@ -1,6 +1,6 @@
 ---
 shortcode: bit
-name: {full: Vylarian Ogdel, aliases: ["Ogdel", "Bit"]}
+name: {full: Vylarian Ogdel, en: [Bit], vyl: [Ogdel]}
 type: miscgear
 description: "Physical eighth of an Ardin; the everyday small-denomination imperial coin."
 tags: [jewelry_cash]

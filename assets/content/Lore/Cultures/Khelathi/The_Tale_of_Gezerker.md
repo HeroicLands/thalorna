@@ -2,7 +2,8 @@
 shortcode: qethgezerker
 name:
   full: The Tale of Gezerker
-  aliases: [Qethunet elu Gezerker, The Tale of Gezerker Who Came Home to Close]
+  en: [The Tale of Gezerker Who Came Home to Close]
+  khel: [qethunet elu gezerker]
 type: lore
 subType: literature
 description: "A Khelathi court tale of the scribe who read the Measure false for the struck house, lived forty years past the last canal, and came home to enter the true column and be asked at his own Reading."
@@ -25,7 +26,7 @@ data:
     - lore-failfloods
     - lore-akhstruckhs
     - lore-akhpriestthr
-  language: khelathlng
+  lang: khel
 
 # terran_analog: "The Tale of Sinuhe, for the official who flees west, lives among herders and comes home old; the Eloquent Peasant, for a petition argued at an office counter; the laments for a land turned upside down, for the famine years; and Nile-level records cut on the gauges, for the column of readings. Departs: no royal pardon and no tomb from the king, the homecoming is a queue at an archive, and the tale ends at the Reading with no verdict."
 ---

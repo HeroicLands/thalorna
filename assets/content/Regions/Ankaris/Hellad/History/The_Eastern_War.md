@@ -1,6 +1,6 @@
 ---
 shortcode: heladeastwar
-name: {full: The Eastern War, aliases: [The Annexation of the League]}
+name: {full: The Eastern War, en: [The Annexation of the League]}
 type: lore
 subType: history
 description: "Between about 209 and about 214 AF, in the Age of Conquest under the Orzas Karomfos, the legions come over the mountains from Helionis, a fleet takes the harbors in a season and the Bizarian League is annexed as a province, its Compact dissolved by edict and its passes, tariffs and muster passed to imperial officers."

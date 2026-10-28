@@ -1,6 +1,6 @@
 ---
 shortcode: harpy
-name: {full: Harpy, aliases: []}
+name: {full: Harpy}
 type: being
 subType: creature
 description: "A quasi-reptilian flying humanoid of high peaks and coastal cliffs, combining predatory cunning with animalistic, territorial ferocity across a fourteen-foot wingspan."

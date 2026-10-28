@@ -1,6 +1,6 @@
 ---
 shortcode: devanurvasa
-name: {full: Devanur Vasavesha, aliases: [Maharava Devanur]}
+name: {full: Devanur Vasavesha, en: [Maharava Devanur]}
 type: being
 subType: npc
 description: A maharava whose heirs, after his death, demand that Pritimaja Kayadara return or compensate for a commissioned piece.

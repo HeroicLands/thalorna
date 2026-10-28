@@ -1,6 +1,6 @@
 ---
 shortcode: lidmadurrnk
-name: {full: "Lidmadur", aliases: [Of a Following]}
+name: {full: Lidmadur, en: [Of a Following]}
 type: lore
 subType: law
 description: "Free and of no clan, answering through a following rather than through kinship, in the five kingdoms and the Jarldom of Stormveld."

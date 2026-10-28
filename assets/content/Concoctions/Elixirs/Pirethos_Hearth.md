@@ -1,6 +1,6 @@
 ---
 shortcode: elxwrm
-name: {full: "Pirethos's Hearth", aliases: [Warmth Elixir]}
+name: {full: Pirethos's Hearth, en: [Warmth Elixir]}
 type: concoctiongear
 subType: elixir
 description: "Golden-amber warmth elixir; shields allies from cold and frost."

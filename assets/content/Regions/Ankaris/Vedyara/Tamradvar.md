@@ -1,6 +1,6 @@
 ---
 shortcode: tamradvar
-name: {full: Tamradvar, aliases: [The Copper-Door]}
+name: {full: The Copper-Door, vedy: [tamradvar]}
 type: place
 subType: feature
 description: "The copper-door—the road up the Silver Gorges to the Khazryn's eastern marches, tolled at a gate the crown did not build and cannot close."

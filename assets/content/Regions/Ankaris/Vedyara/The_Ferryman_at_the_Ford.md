@@ -1,6 +1,6 @@
 ---
 shortcode: ferrymanford
-name: {full: The Ferryman at the Ford, aliases: []}
+name: {full: The Ferryman at the Ford}
 type: lore
 subType: literature
 description: "The upper-river villages' legend of the ancestor of the Mahanodi kings: a ferryman who crossed a flood nine times and asked nothing, the oath the villages swore to feed the man who held the ford for all, and the stone they turned face-down when his sons' sons moved the hallowing to Rajepur."
@@ -18,7 +18,7 @@ data:
     - place-sandstonealtr
     - affiliation-rajeprjnpd
     - affiliation-vyalendra
-  language: vedyarlng
+  lang: vedy
   packFolder: vedyara
 ---
 

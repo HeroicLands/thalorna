@@ -1,6 +1,6 @@
 ---
 shortcode: lghtstrk
-name: {full: Lightstrike, aliases: []}
+name: {full: Lightstrike}
 type: mysticalability
 subType: arcaneincantation
 description: "Beam of brilliant light; sears flesh and ignites combustibles."

@@ -1,6 +1,6 @@
 ---
 shortcode: khryshteikhos
-name: {full: Krusteikhos, aliases: []}
+name: {full: Krusteikhos}
 type: affiliation
 subType: polity
 description: "Wealthiest city-state of the Bizarian League at the crossroads of eastern and western trade—a merchant-ruled fortress commanding half the League's wealth and two-thirds of its political will."

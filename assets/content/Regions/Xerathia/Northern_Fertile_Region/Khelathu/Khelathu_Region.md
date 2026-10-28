@@ -1,6 +1,6 @@
 ---
 shortcode: aukhelathrgq
-name: {full: Au'Khelathu Region, aliases: []}
+name: {full: Au'Khelathu Region}
 type: place
 subType: region
 description: The great river valley and delta of Zerathia's northern shore—a band of flood-fed abundance running hundreds of leagues inland, and the seat of the Empire of Au'Khelathu.

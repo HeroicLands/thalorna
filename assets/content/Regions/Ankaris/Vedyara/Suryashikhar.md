@@ -1,6 +1,6 @@
 ---
 shortcode: suryashkhr
-name: {full: Suryashikhar, aliases: []}
+name: {full: Suryashikhar}
 type: place
 subType: feature
 description: "The highest peak of the Southern Wall and the one the dawn strikes first—above the Chandramahi's source, the Surta temple and the slab the ice has never marked."

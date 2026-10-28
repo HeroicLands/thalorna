@@ -1,6 +1,6 @@
 ---
 shortcode: malianardh
-name: {full: Malsa Nareth, aliases: []}
+name: {full: Malsa Nareth}
 type: being
 subType: npc
 tags: [draft, common-folk]

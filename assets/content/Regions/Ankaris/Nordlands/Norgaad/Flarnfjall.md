@@ -1,6 +1,6 @@
 ---
 shortcode: flarnfjall
-name: {full: Flarnfjall, aliases: []}
+name: {full: Flarnfjall}
 type: place
 subType: feature
 description: "The mountains of central Norgaad, rising above Tvarnmark and holding the Shattered Peaks."

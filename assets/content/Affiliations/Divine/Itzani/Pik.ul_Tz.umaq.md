@@ -1,8 +1,9 @@
 ---
 shortcode: pikultzumaq
 name:
-  full: "Pik'ul Ts'umaq"
-  aliases: [The Owl of the Serpent, The Fallen Pik'ik, The Owl at the Threshold]
+  full: The Owl of the Serpent
+  en: [The Fallen Pik'ik, The Owl at the Threshold]
+  kiichek: [Pik'ul Ts'umaq]
 type: affiliation
 subType: spirittradition
 description: "The fallen celestial owl that once guarded Ch'al Ts'umaq's threshold, concluded the underworld was a trap rather than a passage, and now opens the boundary it was set to keep shut."

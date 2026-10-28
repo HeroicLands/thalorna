@@ -1,6 +1,6 @@
 ---
 shortcode: ikshukshetra
-name: {full: Ikshukshetra, aliases: []}
+name: {full: Ikshukshetra}
 type: place
 subType: settlement
 description: "Sugarcane village on the wet ground inside the river bend."

@@ -1,6 +1,6 @@
 ---
 shortcode: khaurenilthe
-name: {full: Kauren Iltheris, aliases: [Captain Kauren Iltheris]}
+name: {full: Kauren Iltheris, en: [Captain Kauren Iltheris]}
 type: being
 subType: npc
 description: The garrison's senior irregular-war officer, a grizzled professional who values competence above all.

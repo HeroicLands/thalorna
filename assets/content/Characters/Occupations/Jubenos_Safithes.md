@@ -1,6 +1,6 @@
 ---
 shortcode: jubensfths
-name: {full: Júbenos Safithes, aliases: []}
+name: {full: Júbenos Safithes}
 type: being
 subType: npc
 tags: [draft, guilded, administration]

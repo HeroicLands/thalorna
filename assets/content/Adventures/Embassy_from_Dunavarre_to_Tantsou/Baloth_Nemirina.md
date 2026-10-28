@@ -1,6 +1,6 @@
 ---
 shortcode: balothnemirina
-name: {full: Baloth Nemirina, given: Baloth, clan: Nemirina, aliases: []}
+name: {full: Baloth Nemirina, given: Baloth, clan: Nemirina}
 type: being
 subType: character
 tags: [draft]

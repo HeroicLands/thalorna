@@ -1,6 +1,6 @@
 ---
 shortcode: stndrdmdstn
-name: {full: The Standardization at Madustan, aliases: [The Age of Kingdoms]}
+name: {full: The Standardization at Madustan, en: [The Age of Kingdoms]}
 type: lore
 subType: history
 description: "In 480 BF the philosopher-kings of Madustan fix Classical Vedyari, and every court and temple of Vedyara numbers its years from that reign, the first year of the Madustan count."

@@ -1,6 +1,6 @@
 ---
 shortcode: chelsur
-name: {full: Faith of Chelsur, aliases: []}
+name: {full: Faith of Chelsur}
 type: affiliation
 subType: faithtradition
 description: "River-Beasts."

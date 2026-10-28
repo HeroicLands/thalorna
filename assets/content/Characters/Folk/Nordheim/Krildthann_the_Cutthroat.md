@@ -1,6 +1,6 @@
 ---
 shortcode: krildthannth
-name: {full: Krildthann the Cutthroat, aliases: []}
+name: {full: Krildthann the Cutthroat}
 type: being
 subType: npc
 description: A rival tentmaker who undercuts Dvarnvir Hrafansvald at half his prices with inferior materials.

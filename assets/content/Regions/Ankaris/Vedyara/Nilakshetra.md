@@ -1,6 +1,6 @@
 ---
 shortcode: nilakshetra
-name: {full: Nilakshetra, aliases: []}
+name: {full: Nilakshetra}
 type: place
 subType: settlement
 description: "Rice terraces on the eastern shoulder of the gold mountain, the largest block of watered ground in the janpoda."

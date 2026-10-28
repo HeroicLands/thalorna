@@ -1,6 +1,6 @@
 ---
 shortcode: cultinitiatrnk
-name: {full: "Her Initiate", aliases: []}
+name: {full: Her Initiate}
 type: lore
 subType: law
 description: "Taught the secret observances known only to Nahild's own, in the faith of Nahild."

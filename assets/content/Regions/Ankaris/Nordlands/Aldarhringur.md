@@ -1,6 +1,6 @@
 ---
 shortcode: aldarhringur
-name: {full: Aldarhringur, aliases: [The Ring of Ages]}
+name: {full: Aldarhringur, en: [The Ring of Ages]}
 type: lore
 subType: theology
 description: "The Nordmen's account of the ages: each world-age is born, lives and dies like a person, and the gods of this one were kindled from what the last one left."

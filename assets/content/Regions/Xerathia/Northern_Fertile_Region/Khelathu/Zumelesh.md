@@ -1,6 +1,6 @@
 ---
 shortcode: zumeleshrvr
-name: {full: The Zumelesh, aliases: [The Great River]}
+name: {full: The Zumelesh, en: [The Great River]}
 type: place
 subType: feature
 description: "The river the empire is built on—its flood sets the year, its silt makes the fields, and its southern reach belongs to a god."

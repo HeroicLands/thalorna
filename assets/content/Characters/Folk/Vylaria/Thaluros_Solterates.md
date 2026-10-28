@@ -2,7 +2,7 @@
 shortcode: thalurossolt
 name:
   full: Thaluros Solterates
-  aliases: [Master Scriptorium Director Thaluros Solterates, Master Thaluros]
+  en: [Master Scriptorium Director Thaluros Solterates, Master Thaluros]
 type: being
 subType: npc
 description: Master Scriptorium Director, head of the Imperial Scribal Academy and arguably the most respected calligrapher in the Empire.

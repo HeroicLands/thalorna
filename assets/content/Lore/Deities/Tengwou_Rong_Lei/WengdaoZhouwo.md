@@ -1,6 +1,6 @@
 ---
 shortcode: wengdaozhouwodty
-name: {full: Wengdao Zhouwo, aliases: []}
+name: {full: Wengdao Zhouwo}
 type: lore
 subType: deity
 description: "Lord of Earth in the Tengwou Rong Lei—one of the five Elemental Lords, holding earth as an office of the celestial bureaucracy."

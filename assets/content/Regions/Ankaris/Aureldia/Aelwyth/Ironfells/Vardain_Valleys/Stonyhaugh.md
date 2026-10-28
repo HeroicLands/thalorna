@@ -1,6 +1,6 @@
 ---
 shortcode: stonyhaugh
-name: {full: Stonyhaugh, aliases: []}
+name: {full: Stonyhaugh}
 type: place
 subType: settlement
 description: "The quarry village, whose masons cut the terrace walls that make the high valleys farmable and whose work is mistaken for Khazari by every visitor."

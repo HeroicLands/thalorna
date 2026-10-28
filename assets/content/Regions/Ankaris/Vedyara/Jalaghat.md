@@ -1,6 +1,6 @@
 ---
 shortcode: jalaghat
-name: {full: Jalaghat, aliases: []}
+name: {full: Jalaghat}
 type: place
 subType: settlement
 description: "Landing on the Bharava where the upland tracks meet the river road, and where the janpoda's imports come ashore."

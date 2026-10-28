@@ -1,6 +1,6 @@
 ---
 shortcode: sazumun
-name: {full: Sazumun, aliases: []}
+name: {full: Sazumun}
 type: affiliation
 subType: polity
 description: "The river-mouth city-state of Taruzel whose merchant guilds, meeting in the House of Factors, govern the flow of goods between the Dunhari desert and the sea."

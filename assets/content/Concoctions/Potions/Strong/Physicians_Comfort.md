@@ -1,6 +1,6 @@
 ---
 shortcode: ptncurs
-name: {full: "Physician's Comfort", aliases: ["Potion, Curative, Strong"]}
+name: {full: Physician's Comfort, en: ["Potion, Curative, Strong"]}
 type: concoctiongear
 subType: exotic
 description: "Deep emerald green curative; heals ailments and injuries."

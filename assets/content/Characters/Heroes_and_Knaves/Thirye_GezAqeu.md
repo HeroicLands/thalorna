@@ -1,6 +1,6 @@
 ---
 shortcode: thiryegezaqe
-name: {full: Thirye Gez'Aqeu, given: Thirye, clan: Gez'Aqeu, aliases: []}
+name: {full: Thirye Gez'Aqeu, given: Thirye, clan: Gez'Aqeu}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]

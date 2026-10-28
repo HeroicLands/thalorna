@@ -1,6 +1,6 @@
 ---
 shortcode: watsaidty
-name: {full: Watsai, aliases: []}
+name: {full: Watsai}
 type: lore
 subType: deity
 description: "The Forger of False Records—a Youweng demon lord of the Tengwou Rong Lei, whose lies enter the celestial archive as though true."

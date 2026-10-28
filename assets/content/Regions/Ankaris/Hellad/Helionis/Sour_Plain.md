@@ -1,6 +1,6 @@
 ---
 shortcode: sourplain
-name: {full: The Sour Plain, aliases: [The Turned Plain]}
+name: {full: The Sour Plain, en: [The Turned Plain]}
 type: place
 subType: site
 description: "A plain on the western road into Helionis where a legion and a Korinthean levy died in one afternoon in 327 BF: a withering blood-field, thin, whose dead ground spreads a few yards in a bad decade and whose boundary stones have been reset outward three times."

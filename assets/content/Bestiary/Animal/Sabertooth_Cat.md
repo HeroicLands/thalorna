@@ -1,6 +1,6 @@
 ---
 shortcode: sbrtthct
-name: {full: Sabertooth Cat, aliases: []}
+name: {full: Sabertooth Cat}
 type: being
 subType: creature
 description: "A muscular ambush-hunting feline that fells prey far larger than itself through precision and raw power across grasslands and scrublands."

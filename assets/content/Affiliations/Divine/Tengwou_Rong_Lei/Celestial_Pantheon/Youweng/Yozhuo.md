@@ -1,6 +1,6 @@
 ---
 shortcode: yozhuo
-name: {full: Yozhuo, aliases: [The Custodian of Lost Seals, The Seal-Thief]}
+name: {full: The Custodian of Lost Seals, en: [The Seal-Thief], tant: [Yozhuo]}
 type: affiliation
 subType: criminal
 description: "Lies."

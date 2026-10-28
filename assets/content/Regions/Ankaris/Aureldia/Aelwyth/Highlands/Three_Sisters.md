@@ -1,6 +1,6 @@
 ---
 shortcode: threesisters
-name: {full: The Three Sisters, aliases: [Battle of Three Sisters]}
+name: {full: The Three Sisters, en: [Battle of Three Sisters]}
 type: place
 subType: site
 description: "Three peaks above the Central Highlands, and the battlefield where the Sinale king of Aelwyth was killed in 984 BF—ending the Great War, the joint kingdom of the elder races, and six centuries of deliberate reconciliation."

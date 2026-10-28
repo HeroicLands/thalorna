@@ -1,6 +1,6 @@
 ---
 shortcode: spndlfnd
-name: {full: Spindlefiend, aliases: []}
+name: {full: Spindlefiend}
 type: being
 subType: creature
 description: "A made arachnid ambusher that fills whole chambers with nearly invisible webs, turning them into silent deathtraps."

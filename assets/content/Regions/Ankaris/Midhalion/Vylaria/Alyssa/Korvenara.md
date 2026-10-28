@@ -1,6 +1,6 @@
 ---
 shortcode: corvinus
-name: {full: Korvenara, aliases: []}
+name: {full: Korvenara}
 type: place
 subType: settlement
 description: "Garrison Town"

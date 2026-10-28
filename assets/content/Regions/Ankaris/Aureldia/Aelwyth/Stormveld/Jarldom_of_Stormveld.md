@@ -1,6 +1,6 @@
 ---
 shortcode: jrldmstrmvld
-name: {full: Jarldom of Stormveld, aliases: []}
+name: {full: Jarldom of Stormveld}
 type: affiliation
 subType: polity
 description: "Loose confederation of Nordmen jarldoms on Aelwyth's fjord-like northeastern coast—Asguardian-worshipping settlements with strong ties to the Kingdom of Nordheim."

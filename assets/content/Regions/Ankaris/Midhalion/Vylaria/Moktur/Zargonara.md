@@ -1,6 +1,6 @@
 ---
 shortcode: ferrovan
-name: {full: Zargonara, aliases: []}
+name: {full: Zargonara}
 type: place
 subType: settlement
 description: "Mining Town"

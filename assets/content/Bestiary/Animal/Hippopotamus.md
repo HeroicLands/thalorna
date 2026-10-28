@@ -1,6 +1,6 @@
 ---
 shortcode: hppptms
-name: {full: Hippopotamus, aliases: []}
+name: {full: Hippopotamus}
 type: being
 subType: creature
 description: "A three-to-four-ton river herbivore of tropical marshes, more lethal and aggressive than any crocodile despite its herbivorous diet."

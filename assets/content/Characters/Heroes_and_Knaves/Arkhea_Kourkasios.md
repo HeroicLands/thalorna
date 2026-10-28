@@ -1,6 +1,6 @@
 ---
 shortcode: arkhekrkss
-name: {full: Arkhea Kourkásios, given: Arkhea, clan: Kourkásios, aliases: []}
+name: {full: Arkhea Kourkásios, given: Arkhea, clan: Kourkásios}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]

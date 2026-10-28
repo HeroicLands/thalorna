@@ -1,6 +1,6 @@
 ---
 shortcode: lersaissaaqt
-name: {full: Lersais Sa'Akutu, given: Lersais, clan: Sa'Akutu, aliases: []}
+name: {full: Lersais Sa'Akutu, given: Lersais, clan: Sa'Akutu}
 type: being
 subType: character
 tags: [heroes-and-knaves, administration]

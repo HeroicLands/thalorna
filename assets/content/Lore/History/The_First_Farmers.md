@@ -1,6 +1,6 @@
 ---
 shortcode: firstfarmr
-name: {full: The Making of the First Farmers, aliases: [The Larder]}
+name: {full: The Making of the First Farmers, en: [The Larder]}
 type: lore
 subType: history
 description: "Within a few centuries of their arrival the Khazari teach the peoples nearest their first holds to farm—water-works, drainage, terracing and the granary—because a hold needs a larder, and human civilization is what the knowledge became."

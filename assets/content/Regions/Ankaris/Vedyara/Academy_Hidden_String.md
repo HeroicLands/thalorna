@@ -1,6 +1,6 @@
 ---
 shortcode: hiddenstring
-name: {full: The Academy of the Hidden String, aliases: []}
+name: {full: The Academy of the Hidden String}
 type: place
 subType: structure
 description: "The irregular-warfare hall of the bow-fort, which teaches ambush and concealment, recruits with difficulty and refuses any contract it considers dishonorable."

@@ -1,6 +1,6 @@
 ---
 shortcode: dvilgvatan
-name: {full: Dvilgvatan, aliases: [The Void-Water, The Lake That Looks Back]}
+name: {full: Dvilgvatan, en: [The Void-Water, The Lake That Looks Back]}
 type: place
 subType: site
 description: "A lake of black ice on the burned ground north of Draskborg, where the Eye of the Void's corruption seeps into the world and a hidden hov of Nahild stands frozen under the surface."

@@ -1,6 +1,6 @@
 ---
 shortcode: meghonatadty
-name: {full: Meghonata, aliases: []}
+name: {full: Meghonata}
 type: lore
 subType: deity
 description: "Lord of Thunder in the Varnuka pantheon, who drives the storms off the peaks and beats them out on a drum."

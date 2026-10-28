@@ -1,6 +1,6 @@
 ---
 shortcode: mazhreliongh
-name: {full: Mazhrelion Ghotidek, aliases: [Ser Mazhrelion Ghotidek]}
+name: {full: Mazhrelion Ghotidek, en: [Ser Mazhrelion Ghotidek]}
 type: being
 subType: npc
 description: A lieutenant who served under Ághrazur Pirgikot in the Black Serpent Company and survived its dissolution.

@@ -1,6 +1,6 @@
 ---
 shortcode: tokchiaska
-name: {full: Tokchi Aska, aliases: [One Fire, Ts'uma No'tun]}
+name: {full: One Fire, kiichek: [Ts'uma No'tun], tokc: [tokchi aska]}
 type: affiliation
 subType: polity
 description: "The One Fire, whom the south calls the Serpent People: mound towns of the great river and shell towns of the gulf that light their hearths from a Great Sun's fire, gathering into a kingdom and scattering again."

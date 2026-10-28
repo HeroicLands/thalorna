@@ -1,6 +1,6 @@
 ---
 shortcode: yathlemetslt
-name: {full: Yath-Lemet Selat, aliases: []}
+name: {full: Yath-Lemet Selat}
 type: place
 subType: region
 description: "The smallest upper selat; a narrow gorge-stretch where the valley pinches to almost nothing—the land of the Selat of Yath-Lemet, one of the upper-river selatu of Au'Khelathu."

@@ -1,6 +1,6 @@
 ---
 shortcode: stormveil
-name: {full: Stormveil, aliases: []}
+name: {full: Stormveil}
 type: place
 subType: settlement
 description: "The High Jarl's seat in Nordmen-held Stormveld—a hall on the height, a harbor facing north, and the thrall quarters below."

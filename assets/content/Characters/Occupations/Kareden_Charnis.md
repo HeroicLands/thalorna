@@ -1,6 +1,6 @@
 ---
 shortcode: cardnchrns
-name: {full: Kareden Charnis, aliases: []}
+name: {full: Kareden Charnis}
 type: being
 subType: npc
 tags: [draft, clergy]

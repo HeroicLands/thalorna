@@ -1,6 +1,6 @@
 ---
 shortcode: ptnstms
-name: {full: Livewire, aliases: ["Potion, Stimulant, Strong"]}
+name: {full: Livewire, en: ["Potion, Stimulant, Strong"]}
 type: concoctiongear
 subType: exotic
 description: "Vibrant red-orange liquid; stimulates and energizes immediately."

@@ -1,6 +1,6 @@
 ---
 shortcode: yathlemet
-name: {full: Yath-Lemet, aliases: []}
+name: {full: Yath-Lemet}
 type: place
 subType: settlement
 description: "Selat capital of Yath-Lemet."

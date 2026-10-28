@@ -1,6 +1,6 @@
 ---
 shortcode: chill
-name: {full: Chill, aliases: []}
+name: {full: Chill}
 type: mysticalability
 subType: arcaneincantation
 description: "Radiates unnatural cold; freezes moisture and dulls warmth nearby."

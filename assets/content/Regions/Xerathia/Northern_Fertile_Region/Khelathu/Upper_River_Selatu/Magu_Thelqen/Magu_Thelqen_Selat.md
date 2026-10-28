@@ -1,6 +1,6 @@
 ---
 shortcode: maguathenslt
-name: {full: Magu-Thelqen Selat, aliases: []}
+name: {full: Magu-Thelqen Selat}
 type: place
 subType: region
 description: "A planned temple-city of one zealous dynasty, half-abandoned, still inhabited—the land of the Selat of Magu-Thelqen, one of the upper-river selatu of Au'Khelathu."

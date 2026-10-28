@@ -1,6 +1,6 @@
 ---
 shortcode: nekiahkul
-name: {full: Ne’ Ki’ahkul, aliases: []}
+name: {full: Ne’ Ki’ahkul}
 type: place
 subType: settlement
 description: "Mining Town"

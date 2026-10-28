@@ -1,6 +1,6 @@
 ---
 shortcode: volkhemarzur
-name: {full: Volkemar Zurmelates, aliases: [Merchant Prince Volkemar Zurmelates]}
+name: {full: Volkemar Zurmelates, en: [Merchant Prince Volkemar Zurmelates]}
 type: being
 subType: npc
 description: A wealthy trader running charcoal works on a great scale with lower standards.

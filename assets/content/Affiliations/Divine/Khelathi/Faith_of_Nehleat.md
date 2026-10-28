@@ -1,6 +1,6 @@
 ---
 shortcode: nehleat
-name: {full: Faith of Nehle'at, aliases: [Guardian of Night Visions]}
+name: {full: Faith of Nehle'at, en: [Guardian of Night Visions]}
 type: affiliation
 subType: faithtradition
 description: "Dreams."

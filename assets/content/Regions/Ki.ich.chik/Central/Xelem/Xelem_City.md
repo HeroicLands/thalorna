@@ -1,6 +1,6 @@
 ---
 shortcode: xelem2
-name: {full: Shelem, aliases: []}
+name: {full: Shelem}
 type: place
 subType: settlement
 description: "Seat of the river realm that supplies the north with quetzal feathers and jaguar hides."

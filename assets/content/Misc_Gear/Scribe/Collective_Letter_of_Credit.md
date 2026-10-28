@@ -1,6 +1,6 @@
 ---
 shortcode: letterofcredit
-name: {full: Collective Letter of Credit, aliases: []}
+name: {full: Collective Letter of Credit}
 type: miscgear
 description: "A standardized letter redeemable at any Merchant Collective member's house; the closest thing Vedyara has to a unified currency."
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: rethekuthght
-name: {full: Retheku Iuthi'Gehtiu, aliases: []}
+name: {full: Retheku Iuthi'Gehtiu}
 type: being
 subType: npc
 description: "A collector who questions publicly whether a craftsman's work is worth its extraordinary cost, and who is not entirely wrong"

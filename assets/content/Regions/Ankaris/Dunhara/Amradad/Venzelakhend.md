@@ -1,6 +1,6 @@
 ---
 shortcode: venzelakhend
-name: {full: Venzelakhend, aliases: []}
+name: {full: Venzelakhend}
 type: place
 subType: settlement
 description: "Town"

@@ -1,6 +1,6 @@
 ---
 shortcode: stygnlvt
-name: {full: Stygian Leviathan, aliases: []}
+name: {full: Stygian Leviathan}
 type: being
 subType: creature
 description: "An elder aquatic predator of lightless subterranean seas whose indifferent presence renders entire underground ecosystems dormant with fear."

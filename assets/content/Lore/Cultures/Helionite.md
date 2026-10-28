@@ -1,12 +1,12 @@
 ---
 shortcode: helioniteclt
-name: {full: Helionite, aliases: []}
+name: {full: Helionite}
 type: lore
 subType: culture
 description: "The Helionites—their beliefs, their mores, and what they hold a person owes."
 tags: []
 data:
-  language: skill-helonclng
+  lang: helo
   glossary:
     - name: "agorin"
       definition: "The public square of a city: market, meeting place and arena of argument"

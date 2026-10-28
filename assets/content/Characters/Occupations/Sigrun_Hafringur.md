@@ -1,6 +1,6 @@
 ---
 shortcode: sgrnhfrngr
-name: {full: Sigrún Hafringur, aliases: []}
+name: {full: Sigrún Hafringur}
 type: being
 subType: npc
 tags: [todo-warrior, draft, soldiery]

@@ -1,6 +1,6 @@
 ---
 shortcode: khelagaselat
-name: {full: Khelaga Selat, aliases: []}
+name: {full: Khelaga Selat}
 type: place
 subType: region
 description: "The delta apex, where the river first divides; old shrines and customs-stations—the land of the Selat of Khelaga, one of the delta selatu of Au'Khelathu."

@@ -1,12 +1,12 @@
 ---
 shortcode: nyalblion
-name: {full: "Lion Totem", aliases: [Lion of the Ruwozi, Ruwozi Totem]}
+name: {full: Lion Totem, en: [Lion of the Ruwozi, Ruwozi Totem]}
 type: affiliation
 subType: spirittradition
 description: "The lion-spirit of the Ruwozi—courage, sovereignty and open challenge; senior among the Nyáluba guides because the Long Pact was sworn in its country."
 tags: [nyaluba, religion, totemic]
 data:
-  language: nyalbnlng
+  lang: nyal
   icon: null
   templatePriority: null
   demonym: null

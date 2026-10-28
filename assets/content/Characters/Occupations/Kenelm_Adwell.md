@@ -1,6 +1,6 @@
 ---
 shortcode: kenelmadwl
-name: {full: Kenmund Adwell, aliases: []}
+name: {full: Kenmund Adwell}
 type: being
 subType: npc
 tags: [draft, soldiery]

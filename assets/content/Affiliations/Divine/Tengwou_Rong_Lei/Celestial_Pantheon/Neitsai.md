@@ -1,6 +1,6 @@
 ---
 shortcode: neitsai
-name: {full: Neitsai, aliases: [The Minister of Continuity, Tsai Sei, The Bureau of Creation]}
+name: {full: The Minister of Continuity, en: [The Bureau of Creation], tant: [Neitsai, Tsai Sei]}
 type: affiliation
 subType: faithtradition
 description: "Continuity."

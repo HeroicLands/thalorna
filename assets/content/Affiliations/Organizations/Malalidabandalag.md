@@ -2,7 +2,7 @@
 shortcode: malldbndlg
 name:
   full: Málalidabandalag
-  aliases:
+  en:
     - The Mercenary Compact
     - The Free Companies' Compact
     - The Compact of the Pay-Troops

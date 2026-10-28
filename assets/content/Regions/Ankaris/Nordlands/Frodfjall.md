@@ -1,6 +1,6 @@
 ---
 shortcode: frodfjall
-name: {full: Frodfjall, aliases: []}
+name: {full: Frodfjall}
 type: place
 subType: feature
 description: "A sacred mountain of Frodvin whose summit waters are said to be the waters of life, guarded by a spirit and served by a temple of healers."

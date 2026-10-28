@@ -1,6 +1,6 @@
 ---
 shortcode: danurkot
-name: {full: Danurkot, aliases: []}
+name: {full: Danurkot}
 type: place
 subType: settlement
 description: "The bow-fort town on the upper Sarveda, temple-seat of the Danurkot Janpoda and home of its four archery academies."

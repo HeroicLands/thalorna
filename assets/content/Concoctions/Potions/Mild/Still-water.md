@@ -1,6 +1,6 @@
 ---
 shortcode: stillwater
-name: {full: "Still-water", aliases: []}
+name: {full: Still-water}
 type: concoctiongear
 subType: exotic
 description: "A pale green sleeping draught made from the weed of the Bowl Lake, kept by the physicians of Ithorianu."

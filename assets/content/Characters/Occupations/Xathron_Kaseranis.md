@@ -1,6 +1,6 @@
 ---
 shortcode: xthrnksrns
-name: {full: Zathron Kaseranis, aliases: []}
+name: {full: Zathron Kaseranis}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

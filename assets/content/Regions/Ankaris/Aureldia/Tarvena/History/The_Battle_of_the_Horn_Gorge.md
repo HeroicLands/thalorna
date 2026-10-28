@@ -1,6 +1,6 @@
 ---
 shortcode: horngorgebtl
-name: {full: The Battle of the Horn Gorge, aliases: [The Fourth Expedition]}
+name: {full: The Battle of the Horn Gorge, en: [The Fourth Expedition]}
 type: lore
 subType: history
 description: "About 143 AF the fourth Vylarian expedition into Asturath, the worst under the Orzas Zoranthos, was let into the gorge below the plateau of Lezkora by the mountain lord Tórsaro, who closed both ends, and the legion died there in two days."

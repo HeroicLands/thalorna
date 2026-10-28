@@ -1,6 +1,6 @@
 ---
 shortcode: heladcitadel
-name: {full: The Siege of the Silver Citadel, aliases: [The Two Winters]}
+name: {full: The Siege of the Silver Citadel, en: [The Two Winters]}
 type: lore
 subType: history
 description: "From about 212 to about 214 AF the pass-city of Argirteikhos holds for two years against the legions under Mathirkar Gheranikot, fed by its mines' tunnels after the road is cut, and surrenders on terms that leave it its walls, its own garrison and a seat beside an imperial usos."

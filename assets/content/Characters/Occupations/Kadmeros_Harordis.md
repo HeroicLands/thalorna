@@ -1,6 +1,6 @@
 ---
 shortcode: kdmrshrrds
-name: {full: Kadmeros Harordis, aliases: []}
+name: {full: Kadmeros Harordis}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

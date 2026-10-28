@@ -1,6 +1,6 @@
 ---
 shortcode: jaranlyskl
-name: {full: Jaren Liskal, aliases: []}
+name: {full: Jaren Liskal}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

@@ -1,6 +1,6 @@
 ---
 shortcode: kngdmvthgrd
-name: {full: Kingdom of Vithgard, aliases: [Vithgard]}
+name: {full: Kingdom of Vithgard, en: [Vithgard]}
 type: affiliation
 subType: polity
 description: "Western coastal Nordmen kingdom of long winter nights, drift-ice coasts, and ivory-walled longhouses—whalers and seal-hunters whose shamanic tradition treats the long dark winter as the season when the worlds touch."

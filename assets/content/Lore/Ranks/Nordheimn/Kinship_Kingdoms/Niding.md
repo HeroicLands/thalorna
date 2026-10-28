@@ -1,6 +1,6 @@
 ---
 shortcode: nidingrnk
-name: {full: "Niding", aliases: []}
+name: {full: Niding}
 type: lore
 subType: law
 description: "Outlawed at the ting and set beyond the law's protection, in the five kingdoms and the Jarldom of Stormveld."

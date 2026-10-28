@@ -1,6 +1,6 @@
 ---
 shortcode: bjarthond
-name: {full: "Bjarthond", aliases: []}
+name: {full: Bjarthond}
 type: affiliation
 subType: order
 description: "Healing and counsel in Bjart's light."

@@ -1,6 +1,6 @@
 ---
 shortcode: kruldheim
-name: {full: Kruldheim, aliases: []}
+name: {full: Kruldheim}
 type: place
 subType: settlement
 description: "The Nordlands settlement where the Nordmen buy thralls."

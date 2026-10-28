@@ -1,6 +1,6 @@
 ---
 shortcode: tengwouronglei
-name: {full: Tengwou Rong Lei, aliases: [Celestial Order, Celestial Court]}
+name: {full: Celestial Order, en: [Celestial Court], tant: [Tengwou Rong Lei]}
 type: affiliation
 subType: faithtradition
 description: "Tantsou celestial bureaucracy where gods are appointed officials, magic is classified, and cosmic order requires unceasing administrative work."

@@ -1,6 +1,6 @@
 ---
 shortcode: gadjumulu
-name: {full: Gadju-Mulu, aliases: []}
+name: {full: Gadju-Mulu}
 type: place
 subType: settlement
 description: "Selat capital of Gadju-Mulu, seat of the chief temple of Thuba'i, the god of plenty."

@@ -1,6 +1,6 @@
 ---
 shortcode: falkhaven
-name: {full: Falkhaven, aliases: [Western Shore]}
+name: {full: Falkhaven, en: [Western Shore]}
 type: place
 subType: region
 description: The ocean-facing western reach of Vristwald, where forest landings carry Varokh goods into Nordmal trade.

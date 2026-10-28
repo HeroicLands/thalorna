@@ -1,6 +1,6 @@
 ---
 shortcode: kyvarel
-name: {full: Kivarel, aliases: []}
+name: {full: Kivarel}
 type: place
 subType: region
 description: "A barony of Zuravlen's western valleys, held with Zuravlen by Selvare Zuravel, whose best land is a quickened blood-field nobody discusses."

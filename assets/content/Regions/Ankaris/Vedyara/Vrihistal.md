@@ -1,6 +1,6 @@
 ---
 shortcode: vrihistal
-name: {full: Vrihistal, aliases: []}
+name: {full: Vrihistal}
 type: place
 subType: settlement
 description: "The largest of the rice villages, set back a mile from the water as the farming villages of the Mahanodi are."

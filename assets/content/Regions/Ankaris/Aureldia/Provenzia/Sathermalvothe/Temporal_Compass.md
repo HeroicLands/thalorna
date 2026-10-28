@@ -1,6 +1,6 @@
 ---
 shortcode: temprlcmpss
-name: {full: Temporal Compass, aliases: []}
+name: {full: Temporal Compass}
 type: miscgear
 description: "An ornate enchanted instrument that steadies time around its bearer, allowing a traveler to cross the slow zone of Úkua-Arálwen without losing weeks or months to it."
 tags: [artifact]

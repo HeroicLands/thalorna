@@ -1,6 +1,6 @@
 ---
 shortcode: olivenna
-name: {full: Olivenna, aliases: []}
+name: {full: Olivenna}
 type: place
 subType: settlement
 description: "Town"

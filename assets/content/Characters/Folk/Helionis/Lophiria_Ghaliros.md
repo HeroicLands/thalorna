@@ -1,6 +1,6 @@
 ---
 shortcode: lophiriaghal
-name: {full: Lofiria Ghaliros, aliases: [Arsir Lofiria]}
+name: {full: Lofiria Ghaliros, en: [Arsir Lofiria]}
 type: being
 subType: npc
 description: A minor ruler on the empire's borders who turned against House Zarkedis in its moment of need, named in Kalestratos Zarkedis.

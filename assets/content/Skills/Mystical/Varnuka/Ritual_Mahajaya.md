@@ -1,6 +1,6 @@
 ---
 shortcode: mahajaya
-name: {full: "Ritual: Mahajaya", aliases: [Mahajaya, The Eternal Preserver]}
+name: {full: "Ritual: Mahajaya", en: [The Eternal Preserver], vedy: [mahajaya]}
 type: skill
 subType: mystical
 tags: [varnuka, faith-skill]

@@ -1,6 +1,6 @@
 ---
 shortcode: shrzrtrb
-name: {full: Shirzari, aliases: []}
+name: {full: Shirzari}
 type: affiliation
 subType: polity
 description: "A raiding tribe of the southern steppe that takes captives for ransom and measures its neighbors by what they cannot defend."

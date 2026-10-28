@@ -1,6 +1,6 @@
 ---
 shortcode: selatltgthzl
-name: {full: The Selat of Lut-Getha-Zalu, aliases: []}
+name: {full: The Selat of Lut-Getha-Zalu}
 type: affiliation
 subType: polity
 description: "Smith-towns and craft-temples; bronze, gold, and the ceremonial arms of the nobility—one of the upper-river selatu of Au'Khelathu."

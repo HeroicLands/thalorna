@@ -1,6 +1,6 @@
 ---
 shortcode: roqid
-name: {full: Oroqid, aliases: [The Legion Fort]}
+name: {full: Oroqid, en: [The Legion Fort]}
 type: place
 subType: site
 description: "A Vylarian fort on the western margin of the Khazryn, built when the empire's reach ran this far: stone walls, a cistern that still fills, and a strongroom no one has opened."

@@ -1,6 +1,6 @@
 ---
 shortcode: khrtshklrm
-name: {full: Khurutush Kalurum, aliases: []}
+name: {full: Khurutush Kalurum}
 type: being
 subType: npc
 tags: [draft, guilded, soldiery]

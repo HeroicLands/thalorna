@@ -1,6 +1,6 @@
 ---
 shortcode: qudumel2
-name: {full: Kudumel, aliases: []}
+name: {full: Kudumel}
 type: place
 subType: settlement
 description: "The easternmost city of Taruzel, on the island nearest the mainland—a dusty, polyglot crossroads of mudbrick and tile where the sea trade meets the caravan goods of Dunhara and the Khazryn."

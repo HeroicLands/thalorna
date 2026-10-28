@@ -1,6 +1,6 @@
 ---
 shortcode: tbit
-name: {full: Taruzelian Ogdel, aliases: ["Taruzelian Bit"]}
+name: {full: Taruzelian Ogdel, en: [Taruzelian Bit]}
 type: miscgear
 description: "Confederation eighth-piece of silver; small change across the Vylarian Sea trade."
 tags: [jewelry_cash]

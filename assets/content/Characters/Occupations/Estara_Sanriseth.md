@@ -1,6 +1,6 @@
 ---
 shortcode: estrsnrcth
-name: {full: Estara Sánriseth, aliases: []}
+name: {full: Estara Sánriseth}
 type: being
 subType: npc
 tags: [draft, common-folk]

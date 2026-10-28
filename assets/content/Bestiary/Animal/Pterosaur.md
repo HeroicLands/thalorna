@@ -1,6 +1,6 @@
 ---
 shortcode: pterosau
-name: {full: Pterosaur, aliases: []}
+name: {full: Pterosaur}
 type: being
 subType: creature
 description: "An ancient flying reptile with a wingspan reaching thirty feet, haunting untamed coastlines and deep valleys to snatch fish and unwary travelers."

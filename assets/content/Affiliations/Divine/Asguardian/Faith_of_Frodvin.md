@@ -1,6 +1,6 @@
 ---
 shortcode: frodvin
-name: {full: Faith of Frodvin, aliases: [The Verdant Path]}
+name: {full: Faith of Frodvin, en: [The Verdant Path]}
 type: affiliation
 subType: faithtradition
 description: "Fertility, Agriculture, Peace, and Healing."

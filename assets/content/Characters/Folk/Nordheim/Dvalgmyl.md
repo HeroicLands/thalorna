@@ -1,6 +1,6 @@
 ---
 shortcode: dvalgmyl
-name: {full: Dvalgmil, aliases: [Captain Dvalgmil]}
+name: {full: Dvalgmil, en: [Captain Dvalgmil]}
 type: being
 subType: npc
 description: Captain of the City Watch, a dogged lawman who has pursued Dvirnmil the Deceiver for years.

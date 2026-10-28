@@ -1,6 +1,6 @@
 ---
 shortcode: dongaruvlg
-name: {full: Dóngaru Village, aliases: []}
+name: {full: Dóngaru Village}
 type: place
 subType: settlement
 description: "Forest village of the Dóngaru tribe, ringed by charcoal pits."

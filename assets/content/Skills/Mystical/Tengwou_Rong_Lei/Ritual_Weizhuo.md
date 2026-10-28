@@ -1,6 +1,6 @@
 ---
 shortcode: weizhuo
-name: {full: "Ritual: Weizhuo", aliases: [Weizhuo]}
+name: {full: "Ritual: Weizhuo", tant: [Weizhuo]}
 type: skill
 subType: mystical
 tags: [celestial-pantheon, faith-skill, draft]

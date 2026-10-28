@@ -1,6 +1,6 @@
 ---
 shortcode: wilriththorn
-name: {full: Wilrith Thornwell, aliases: [Commander Wilrith Thornwell, Commander Wilrith]}
+name: {full: Wilrith Thornwell, en: [Commander Wilrith Thornwell, Commander Wilrith]}
 type: being
 subType: npc
 description: The captain of the Stormveil castle guard, a soldier by trade, named in Thorir Eldskari.

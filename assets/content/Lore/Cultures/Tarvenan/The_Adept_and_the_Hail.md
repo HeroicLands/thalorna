@@ -1,6 +1,6 @@
 ---
 shortcode: adepthail
-name: {full: The Adept and the Hail, aliases: [How Dúrgalis Paid for Its Liars]}
+name: {full: The Adept and the Hail, en: [How Dúrgalis Paid for Its Liars]}
 type: lore
 subType: literature
 description: "The comic winter tale the hill farms under Dúrgalis tell of the adept of the Arcane Order who sold the valley a contract against the hail: the assembly that bought it on the wise-woman's terms, the summer it ran, the weekly account the adept gave the assembly, the fields the hail found and the ones it missed, and the reckoning at the autumn fair, where the valley paid exactly what it owed."
@@ -10,7 +10,7 @@ data:
   packFolder: settinglore
   form: tale
   subjects: [place-durgalis, affiliation-ordoarcanis, lore-tarvenanclt]
-  language: tarvenlng
+  lang: tarv
 
 # terran_analog: "The trickster tale in which a bargain is kept to the letter and the letter undoes the clever party, as in the peasant-and-devil bargains over the top and bottom of a crop; the village assembly as the trickster; and the hail that falls on the liar's field, from the mountain folklore of a goddess who punishes the lie."
 ---

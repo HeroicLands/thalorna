@@ -1,6 +1,6 @@
 ---
 shortcode: signedcaptnrnk
-name: {full: "Signed Captain", aliases: []}
+name: {full: Signed Captain}
 type: lore
 subType: law
 description: "Swears the Compact before the Council of the Hall and wears the bandlagshringur, in Málalidabandalag."

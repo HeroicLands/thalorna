@@ -1,6 +1,6 @@
 ---
 shortcode: tabirathamid
-name: {full: Tabira Thamidon, aliases: [Tabira the Wise]}
+name: {full: Tabira Thamidon, en: [Tabira the Wise]}
 type: being
 subType: npc
 description: The elderly physician who tutored Júthara Jamithon in herbal medicine and natural philosophy and is now her retired mentor.

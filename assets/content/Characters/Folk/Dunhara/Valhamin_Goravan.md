@@ -1,6 +1,6 @@
 ---
 shortcode: valhamingora
-name: {full: Valhamin Goravan, aliases: [Merchant Lord Valhamin]}
+name: {full: Valhamin Goravan, en: [Merchant Lord Valhamin]}
 type: being
 subType: npc
 description: One of the most prominent trading masters in the Kingdom, who has employed Farazun Afrun repeatedly.

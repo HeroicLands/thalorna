@@ -1,6 +1,6 @@
 ---
 shortcode: foundingage
-name: {full: The Founding Age, aliases: []}
+name: {full: The Founding Age}
 type: lore
 subType: history
 description: "About 780 to 481 BF: the highland temples, the four academies of the bow and the first forest gift, and the Mahanodi kings on the upper river at a seat their library never recorded."

@@ -1,6 +1,6 @@
 ---
 shortcode: stormveldtkn
-name: {full: The Taking of Stormveld, aliases: [The Stormveld Year]}
+name: {full: The Taking of Stormveld, en: [The Stormveld Year]}
 type: lore
 subType: history
 description: "In 660 AF King Vruthorv of Nordheim sent the fleets of Nordheim, Norgaad and Vithgard over open sea to the north-east of Aelwyth, where Nordmen traders had long kept landings, and took the Vardain plain in one season; its people were enslaved, the Vardain's old friendship with the Khazari of Vorgald was destroyed, and the Jarldom of Stormveld has held the plain since."

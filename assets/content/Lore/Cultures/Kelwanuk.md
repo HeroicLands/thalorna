@@ -1,12 +1,12 @@
 ---
 shortcode: kelwanukclt
-name: {full: Kelwanuk, aliases: []}
+name: {full: Cedar People, kelw: [kelwanuk], kiichek: ["Ish'bal Ki'ahk"]}
 type: lore
 subType: culture
 description: "The Cedar People of the western coast—their beliefs, their mores, and what they hold a person owes."
 tags: []
 data:
-  language: skill-kelwanuklng
+  lang: kelw
   glossary:
     - name: "temla"
       definition: "A plank house, and the lineage that lives in it, with its names, its crests and its fishing places."

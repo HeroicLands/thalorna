@@ -1,6 +1,6 @@
 ---
 shortcode: ninurishamir
-name: {full: Ninuri Shamiru, aliases: [Merchant-Mother Ninuri Shamiru]}
+name: {full: Ninuri Shamiru, en: [Merchant-Mother Ninuri Shamiru]}
 type: being
 subType: npc
 description: One of the more enlightened members of the Auric Compact, who quietly steers resources toward Yutalush Pushutum.

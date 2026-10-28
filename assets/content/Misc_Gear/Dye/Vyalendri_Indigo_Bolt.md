@@ -1,6 +1,6 @@
 ---
 shortcode: indigobolt
-name: {full: "Vyalendri Indigo Bolt", aliases: []}
+name: {full: Vyalendri Indigo Bolt}
 type: miscgear
 description: "A loom-sealed bolt of indigo-dyed cloth out of Vyalendra Land, its color guaranteed by the Loom-Council's own mark."
 tags: []

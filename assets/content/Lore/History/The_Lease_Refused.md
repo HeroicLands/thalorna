@@ -1,6 +1,6 @@
 ---
 shortcode: ridersdisb
-name: {full: The Lease Refused, aliases: [The Disbanding of the Dragon Riders]}
+name: {full: The Lease Refused, en: [The Disbanding of the Dragon Riders]}
 type: lore
 subType: history
 description: "Around 45 BF the standing lease of the dragons is not renewed, the return of what the Republic holds is refused, the killing follows, the Dragon Riders are disbanded and the Eyrie of Arvel is sealed."

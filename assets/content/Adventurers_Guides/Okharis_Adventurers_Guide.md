@@ -1,6 +1,6 @@
 ---
 shortcode: okharisadvguide
-name: {full: Okharis Adventurer's Guide, aliases: []}
+name: {full: Okharis Adventurer's Guide}
 type: doc
 subType: settingguide
 description: A short player and GM introduction to Okharis—the three temple-cities, the herding clans, the eternal flame and the ways a campaign begins there.

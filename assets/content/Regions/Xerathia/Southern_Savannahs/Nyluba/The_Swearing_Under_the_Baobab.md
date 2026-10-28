@@ -1,6 +1,6 @@
 ---
 shortcode: swearbaobab
-name: {full: The Swearing Under the Baobab, aliases: []}
+name: {full: The Swearing Under the Baobab}
 type: lore
 subType: literature
 description: "The lion cult's memory-song of the Long Pact's swearing: the five clans, the five terms and Nyoli Ruwozi's words, sung by a griot and answered by the gathered."
@@ -10,7 +10,7 @@ data:
   culture: nyalubaclt
   form: memory-song
   subjects: [affiliation-nylbtrblntn, affiliation-nyalblion, lore-lionruwozispr]
-  language: nyalbnlng
+  lang: nyal
 ---
 
 The Swearing Under the Baobab is the memory-song of the [Long Pact]{.name data-type="lore/law"}'s swearing, held by the [[affiliation-nyalblion|Lion Totem]] and kept by the griot of the [Ruwozi]{.name data-type="affiliation/lineage"}. It is praise poetry in the griot's call and the hearers' answer: the griot names, and those gathered return the name. A memory-song is evidence as well as praise, so the hearers' answers also serve as a check, and the song is sung before people who already know it. The [[skill-griot|griot]] holds it to its received length, keeps [Nyoli Ruwozi]{.name data-type="being/npc"}'s sentence whole, and says of the lion only that it was witness. Of the catastrophe that drove the five clans together, the song keeps what the Lobwezi griots hold and nothing more. In the text below, the indented lines in italics are the answer of those gathered.

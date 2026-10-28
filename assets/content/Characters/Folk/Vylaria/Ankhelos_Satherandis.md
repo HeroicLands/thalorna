@@ -1,6 +1,6 @@
 ---
 shortcode: ankhelossath
-name: {full: Ankelos Satheris, aliases: [Archimandrite Ankelos Satheris]}
+name: {full: Ankelos Satheris, en: [Archimandrite Ankelos Satheris]}
 type: being
 subType: npc
 description: A senior Sacred Forge clergyman based in the capital, named in Mirene Kalethos.

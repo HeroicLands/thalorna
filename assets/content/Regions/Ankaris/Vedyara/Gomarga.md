@@ -1,6 +1,6 @@
 ---
 shortcode: gomarga
-name: {full: Gomarga, aliases: [The Kingdom of the Cattle-Road]}
+name: {full: The Kingdom of the Cattle-Road, vedy: [gomarga]}
 type: affiliation
 subType: polity
 description: The kingdom of the cattle-roads—the crown of the arid central plateau, holding the wells and the droveways that cross it and making no claim on the ground between them.

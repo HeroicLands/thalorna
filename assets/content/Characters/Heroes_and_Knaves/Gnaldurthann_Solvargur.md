@@ -1,6 +1,6 @@
 ---
 shortcode: gnldrthnslvrgr
-name: {full: Gnaldurthann Solvargur, given: Gnaldurthann, clan: Solvargur, aliases: []}
+name: {full: Gnaldurthann Solvargur, given: Gnaldurthann, clan: Solvargur}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]

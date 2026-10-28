@@ -1,6 +1,6 @@
 ---
 shortcode: belsaren
-name: {full: Belsaren, aliases: []}
+name: {full: Belsaren}
 type: place
 subType: settlement
 description: "A lordship of Keravel Vale rich in timber and minerals, bearing the brunt of the vale's bandit raids under a harsh new lord the Tanevar peasantry resent."

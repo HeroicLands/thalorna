@@ -1,6 +1,6 @@
 ---
 shortcode: brynhallow
-name: {full: Brynhallow, aliases: []}
+name: {full: Brynhallow}
 type: place
 subType: settlement
 description: "A hill town of Aldorath's uplands—a wool and stone town, poorer and older than the lowland manors, keeping observances the cathedral at Dunmere would rather not examine."

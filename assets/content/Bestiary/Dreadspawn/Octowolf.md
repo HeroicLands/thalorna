@@ -1,6 +1,6 @@
 ---
 shortcode: octowolf
-name: {full: Octowolf, aliases: []}
+name: {full: Octowolf}
 type: being
 subType: creature
 description: "An unnatural wolf-and-octopus fusion haunting coastal marshes, deltas, and blighted waters where land and water meet."

@@ -1,6 +1,6 @@
 ---
 shortcode: tvlgthnblthl
-name: {full: Tvalgthann Bletholl, given: Tvalgthann, clan: Bletholl, aliases: []}
+name: {full: Tvalgthann Bletholl, given: Tvalgthann, clan: Bletholl}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]

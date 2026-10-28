@@ -1,6 +1,6 @@
 ---
 shortcode: garlut
-name: {full: Gar-Lut, aliases: []}
+name: {full: Gar-Lut}
 type: place
 subType: settlement
 description: "Selat capital of Gar-Lut, seat of the chief temple of Uzn'era, the goddess of healing."

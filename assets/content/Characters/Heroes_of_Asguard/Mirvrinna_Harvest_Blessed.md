@@ -1,6 +1,6 @@
 ---
 shortcode: mrvrnhrvstblsd
-name: {full: Mirvrinna Harvest-Blessed, given: Mirvrinna, aliases: [Harvest-Blessed]}
+name: {full: Mirvrinna Harvest-Blessed, given: Mirvrinna, en: [Harvest-Blessed]}
 type: being
 subType: character
 tags: [paragon, heroes-of-asguard, clergy]

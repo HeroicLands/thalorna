@@ -1,6 +1,6 @@
 ---
 shortcode: glyencrdth
-name: {full: Lyenna Kardeth, aliases: []}
+name: {full: Lyenna Kardeth}
 type: being
 subType: npc
 tags: [todo, draft, administration]

@@ -1,6 +1,6 @@
 ---
 shortcode: gishurmathug
-name: {full: Gishur Mathu'Gehru, aliases: [Prince Gishur]}
+name: {full: Gishur Mathu'Gehru, en: [Prince Gishur]}
 type: being
 subType: npc
 description: A young warrior of extraordinary charisma and diplomatic skill, brought by a foreign ambassador seeking a truce, named in Sharminah Tahvan.

@@ -1,6 +1,6 @@
 ---
 shortcode: firstasking
-name: {full: The Herald Who Asked for the Dead, aliases: [The First Asking]}
+name: {full: The Herald Who Asked for the Dead, en: [The First Asking]}
 type: lore
 subType: literature
 description: "The legend the priests of the Sanctuary of the Games tell at the heralds' altar before every meeting: the herald Agelis, whose city's levy lay on a hillside after a fight over flocks in the years after the First Games, who walked out alone with the staff he had carried at the altar and asked the victor for the dead in the words heralds still use, was refused twice and answered three times, and found his son among the dead he carried home."
@@ -15,7 +15,7 @@ data:
     - affiliation-ctysttshlns
     - lore-heladtruce
     - lore-helioniteclt
-  language: helonclng
+  lang: helo
 
 # terran_analog: "The Greek custom of the truce for the dead after a battle and the Athenian tragedians' treatment of it, for the herald who asks for the dead and the victor who must decide whether to give them; Priam in the tent of Achilles, for the enemy who gives a father his son's body; and the aition, the story told at a sanctuary to explain a rite still performed there."
 ---

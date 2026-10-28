@@ -1,6 +1,6 @@
 ---
 shortcode: iltherozedim
-name: {full: Ilthero Zedimis, aliases: [King Ilthero III, King Ilthero]}
+name: {full: Ilthero Zedimis, en: [King Ilthero III, King Ilthero]}
 type: being
 subType: npc
 description: The aging king, who values Kárenna Graveth's counsel and relies on her judgment in matters of diplomacy.

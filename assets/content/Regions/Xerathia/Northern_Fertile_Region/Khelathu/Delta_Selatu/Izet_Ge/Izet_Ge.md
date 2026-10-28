@@ -1,6 +1,6 @@
 ---
 shortcode: izetgenome
-name: {full: Izet-Ge, aliases: []}
+name: {full: Izet-Ge}
 type: place
 subType: region
 description: "Date-palm plantations and the sweet delta wines—the land of the Selat of Izet-Ge, one of the delta selatu of Au'Khelathu."

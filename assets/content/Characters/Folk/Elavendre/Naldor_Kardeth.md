@@ -1,6 +1,6 @@
 ---
 shortcode: naldorkardet
-name: {full: Naldor Kardeth, aliases: [Prince Naldor Kardeth, Merchant Prince Naldor Kardeth]}
+name: {full: Naldor Kardeth, en: [Prince Naldor Kardeth, Merchant Prince Naldor Kardeth]}
 type: being
 subType: npc
 description: A wealthy trader whose fortune was significantly increased by consistently following Tárella Pelthal's advice.

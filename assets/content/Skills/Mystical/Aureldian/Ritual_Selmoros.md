@@ -1,6 +1,6 @@
 ---
 shortcode: selmoros
-name: {full: "Ritual: Sélmoros", aliases: [Sélmoros, The Silent Judge]}
+name: {full: "Ritual: Sélmoros", en: [The Silent Judge], elav: [Sélmoros]}
 type: skill
 subType: mystical
 tags: [aureldian, faith-skill, draft]

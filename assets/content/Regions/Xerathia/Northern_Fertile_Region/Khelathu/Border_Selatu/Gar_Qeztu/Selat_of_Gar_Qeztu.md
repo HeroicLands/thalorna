@@ -1,6 +1,6 @@
 ---
 shortcode: selatgarqezt
-name: {full: The Selat of Gar-Qeztu, aliases: []}
+name: {full: The Selat of Gar-Qeztu}
 type: affiliation
 subType: polity
 description: "A garrison heartland; the chariot-corps drill-grounds and officer schools—one of the border selatu of Au'Khelathu."

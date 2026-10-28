@@ -1,6 +1,6 @@
 ---
 shortcode: raogui
-name: {full: Raogui, aliases: []}
+name: {full: Raogui}
 type: affiliation
 subType: faithtradition
 description: "Storms."

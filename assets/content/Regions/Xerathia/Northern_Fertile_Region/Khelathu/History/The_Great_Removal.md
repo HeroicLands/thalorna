@@ -1,6 +1,6 @@
 ---
 shortcode: greatremovl
-name: {full: The Great Removal, aliases: []}
+name: {full: The Great Removal}
 type: lore
 subType: history
 description: "About 2650 ST, under Meqes VI, the older houses were carried out from the river-front of Zu-Gezer to galleries in the necropolis's outer reaches, and the reigning house raised its gold-and-cobalt Way at the head of the death-road."

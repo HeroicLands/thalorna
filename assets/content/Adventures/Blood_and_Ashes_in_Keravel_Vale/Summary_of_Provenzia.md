@@ -1,6 +1,6 @@
 ---
 shortcode: sumryprvnz
-name: {full: Summary of Provenzia, aliases: []}
+name: {full: Summary of Provenzia}
 type: scenario
 subType: adventure
 tags: [draft]

@@ -2,4 +2,6 @@
 "thalorna": patch
 ---
 
-- Names first introduced in verse now link to their notes or carry typed name markers. The markers identify each name's language, with the verse language as the fallback when its origin is unknown.
+**Literature and verse**
+
+- Names first introduced in verse link to their notes or carry typed name markers, which name each name's language, with the verse language where its origin is unknown.

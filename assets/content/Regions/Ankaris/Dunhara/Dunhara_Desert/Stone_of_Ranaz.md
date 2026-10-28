@@ -1,6 +1,6 @@
 ---
 shortcode: stoneofranaz
-name: {full: Stone of Ranaz, aliases: []}
+name: {full: Stone of Ranaz}
 type: place
 subType: site
 description: "The ancient hill-shrine at the confluence of three Dunhari tribal territories, meeting ground of the Warrior's Circle and the storm cults' Council of Elders."

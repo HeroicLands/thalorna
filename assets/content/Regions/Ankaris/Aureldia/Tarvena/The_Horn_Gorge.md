@@ -1,6 +1,6 @@
 ---
 shortcode: horngorge
-name: {full: The Horn Gorge, aliases: [The Gorge of the Recall]}
+name: {full: The Horn Gorge, en: [The Gorge of the Recall]}
 type: place
 subType: site
 description: "The blood-field below the plateau of Lezkora where a Vylarian legion died about 143 AF, a moderate recurrence in which the legion's horns sound the recall on autumn nights."

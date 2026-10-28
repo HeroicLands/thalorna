@@ -1,6 +1,6 @@
 ---
 shortcode: sanctara
-name: {full: Ulthora, aliases: []}
+name: {full: Ulthora}
 type: place
 subType: settlement
 description: "Temple Town"

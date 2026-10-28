@@ -1,6 +1,6 @@
 ---
 shortcode: treelinelay
-name: {full: The Lay of the Tree Line, aliases: [The Crowning Lay]}
+name: {full: The Lay of the Tree Line, en: [The Crowning Lay]}
 type: lore
 subType: literature
 description: "The Bardic Circle's lay of Táldoren, the First Crowned, sung to the harp at every crowning before the monarch swears: the bread sent down from Ésalosa, the white hart in the wood, the page with its foot left blank, and the oath said at Tena's fire."
@@ -16,7 +16,7 @@ data:
     - place-eshalshldg
     - lore-tenaspr
     - affiliation-alndnwrdns
-  language: elvndrlng
+  lang: elav
 
 # terran_analog: "The Breton lai as Marie de France wrote it down (one marvellous episode, octosyllabic couplets, the harper's frame), for the form; the white hart of the lais and of Breton hunting tales that leads a lord off the road; the coronation oath sworn in a set form after a recital, for the occasion."
 ---

@@ -1,6 +1,6 @@
 ---
 shortcode: orashion
-name: {full: Órashion, aliases: []}
+name: {full: Órashion}
 type: affiliation
 subType: polity
 description: "City-state of the Bizarian League—the League's forge city in the mountain interior, built on its mines, basalt walls and guild masters."

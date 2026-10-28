@@ -1,6 +1,6 @@
 ---
 shortcode: hayopokta
-name: {full: Hayo Pokta, aliases: [Sun Mound, Ts'uma No'tun]}
+name: {full: Sun Mound, kiichek: [Ts'uma No'tun], tokc: [hayo pokta]}
 type: place
 subType: settlement
 description: "The Sun Mound, chief town of the One Fire and seat of the Great Sun, on the floodplain of the great river."

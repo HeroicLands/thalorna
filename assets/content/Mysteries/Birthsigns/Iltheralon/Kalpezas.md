@@ -1,6 +1,6 @@
 ---
 shortcode: thyron
-name: {full: Kalpezas, aliases: []}
+name: {full: Kalpezas}
 type: mystery
 subType: birthsign
 description: "The Gate: born to the blade and hard to unnerve, blunt company in hall or market."

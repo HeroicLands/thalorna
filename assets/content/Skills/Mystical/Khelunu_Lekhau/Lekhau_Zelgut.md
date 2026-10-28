@@ -1,6 +1,6 @@
 ---
 shortcode: lekhauzelgut
-name: {full: "Lekhau: Zelgút", aliases: []}
+name: {full: "Lekhau: Zelgút"}
 type: skill
 subType: mystical
 tags: [gethunu-lekhau, draft]

@@ -1,6 +1,6 @@
 ---
 shortcode: kaansarival
-name: {full: "A kaan'sari'val", aliases: []}
+name: {full: A kaan'sari'val}
 type: miscgear
 description: "The plaited palm-fiber cord a custodian receives on becoming kaan'vaar, whose knots name the wearer's teacher and the teachers before."
 tags: [kalihara]

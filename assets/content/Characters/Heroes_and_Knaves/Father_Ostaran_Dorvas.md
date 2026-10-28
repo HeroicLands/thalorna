@@ -1,6 +1,6 @@
 ---
 shortcode: frstrndrvs
-name: {full: Father Ostaran Dorvás, given: Ostaran, clan: Dorvás, aliases: [The Árdavonian Priest]}
+name: {full: Father Ostaran Dorvás, given: Ostaran, clan: Dorvás, en: [The Árdavonian Priest]}
 type: being
 subType: character
 tags: [heroes-and-knaves, todo, hero, clergy]

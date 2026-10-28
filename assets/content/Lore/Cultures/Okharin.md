@@ -1,12 +1,12 @@
 ---
 shortcode: okharinclt
-name: {full: Okharin, aliases: []}
+name: {full: Okharin}
 type: lore
 subType: culture
 description: "The Okharins—their beliefs, their mores, and what they hold a person owes."
 tags: []
 data:
-  language: skill-okharclng
+  lang: okha
   glossary:
     - name: "ashmark"
       definition: "Temple hearth-ash mixed with sacred oils, applied to forehead and hands at passage, mourning and consecration"

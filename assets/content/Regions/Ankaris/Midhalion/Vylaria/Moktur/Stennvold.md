@@ -1,6 +1,6 @@
 ---
 shortcode: stennvold
-name: {full: Stennvold, aliases: []}
+name: {full: Stennvold}
 type: place
 subType: settlement
 description: "Mining Town"

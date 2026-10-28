@@ -1,6 +1,6 @@
 ---
 shortcode: garzekhemu
-name: {full: Gar-Zekhemu, aliases: []}
+name: {full: Gar-Zekhemu}
 type: place
 subType: settlement
 description: "A grain-village of 180 people in the farm-and-market country around Galezkara, distinct from the village of the same name in Anlagh-Zetun Selat"

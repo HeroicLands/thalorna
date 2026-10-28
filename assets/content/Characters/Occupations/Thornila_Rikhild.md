@@ -1,6 +1,6 @@
 ---
 shortcode: thrnlrkhld
-name: {full: Thornila yra Rikhild wur Thornhaven, aliases: []}
+name: {full: Thornila yra Rikhild wur Thornhaven}
 type: being
 subType: npc
 tags: [todo, draft, clergy]

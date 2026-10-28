@@ -1,6 +1,6 @@
 ---
 shortcode: thrallrnk
-name: {full: "Hrug", aliases: []}
+name: {full: Hrug}
 type: lore
 subType: law
 description: "Owned outright, owing labor rather than rent and holding no voice at the ting, in the five kingdoms and the Jarldom of Stormveld."

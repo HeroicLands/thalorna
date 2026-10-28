@@ -1,6 +1,6 @@
 ---
 shortcode: ghststrvln
-name: {full: The Ghosts of Tiravlen, aliases: []}
+name: {full: The Ghosts of Tiravlen}
 type: scenario
 subType: adventure
 data:

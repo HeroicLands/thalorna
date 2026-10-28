@@ -1,6 +1,6 @@
 ---
 shortcode: zrdntrb
-name: {full: Azardan, aliases: []}
+name: {full: Azardan}
 type: affiliation
 subType: polity
 description: "The largest tribe of the central steppe, holding the northern grass and taking in the families of smaller tribes in bad years."

@@ -1,6 +1,6 @@
 ---
 shortcode: rhalizlrth
-name: {full: Ralva Salreth, aliases: []}
+name: {full: Ralva Salreth}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

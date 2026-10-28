@@ -1,6 +1,6 @@
 ---
 shortcode: bndtscrvlvl
-name: {full: The Bandits of Keravel Vale, aliases: []}
+name: {full: The Bandits of Keravel Vale}
 type: scenario
 subType: adventure
 tags: [blood-and-ashes-in-ceravel-vale]

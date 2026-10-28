@@ -1,6 +1,6 @@
 ---
 shortcode: therecall
-name: {full: The Recall, aliases: []}
+name: {full: The Recall}
 type: lore
 subType: literature
 description: "The verse dialogue read at Danurkot's Festival of the Returning: two bowmen of one kulpa in Daunapur's pay argue through the night the four masters' recall reaches the camp, and one of them stands on each side of the gorge at Sharamukha."
@@ -16,7 +16,7 @@ data:
     - affiliation-bharyastan
     - affiliation-suvrgrjnpd
     - affiliation-mahajaya
-  language: vedyarlng
+  lang: vedy
   packFolder: vedyara
 ---
 

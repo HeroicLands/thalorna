@@ -1,6 +1,6 @@
 ---
 shortcode: bellsgreylvl
-name: {full: The Bells Beneath the Greylevels, aliases: []}
+name: {full: The Bells Beneath the Greylevels}
 type: scenario
 subType: adventure
 description: "The tide cuts off a ruined house of the Silent Judge on the Greylevels, a bell rings beneath the water, and the drowned dead of the house come up with the tide to take the living into their keeping."

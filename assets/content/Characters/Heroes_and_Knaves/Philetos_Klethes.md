@@ -1,6 +1,6 @@
 ---
 shortcode: phltsklfts
-name: {full: Filezos Klethes, given: Filezos, clan: Klethes, aliases: [The Fire-Sworn Strategist]}
+name: {full: Filezos Klethes, given: Filezos, clan: Klethes, en: [The Fire-Sworn Strategist]}
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, tradesfolk]

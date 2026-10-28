@@ -1,6 +1,6 @@
 ---
 shortcode: vrldrvdrtgr
-name: {full: Vruldorv Drottgar, given: Vruldorv, clan: Drottgar, aliases: []}
+name: {full: Vruldorv Drottgar, given: Vruldorv, clan: Drottgar}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, soldiery]

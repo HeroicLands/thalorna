@@ -1,6 +1,6 @@
 ---
 shortcode: izet
-name: {full: Izet, aliases: []}
+name: {full: Izet}
 type: place
 subType: settlement
 description: "Selat capital of Izet-Ge."

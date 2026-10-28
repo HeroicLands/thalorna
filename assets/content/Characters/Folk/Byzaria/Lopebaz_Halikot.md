@@ -1,6 +1,6 @@
 ---
 shortcode: lopebazhalik
-name: {full: Lopebáz Halikot, aliases: [Baron Lopebáz Halikot]}
+name: {full: Lopebáz Halikot, en: [Baron Lopebáz Halikot]}
 type: being
 subType: npc
 description: The ruthless owner of several of the largest mining operations in the Bizarian League, named in Agápeia Varzanes.

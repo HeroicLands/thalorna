@@ -1,6 +1,6 @@
 ---
 shortcode: bazunel
-name: {full: Bazunel, aliases: []}
+name: {full: Bazunel}
 type: affiliation
 subType: polity
 description: "City-state of scholars, artists, and shipwrights on Taruzel's southern coast—smaller and less martial than its sisters, but burning with the creative energy that makes it Taruzel's cultural heart."

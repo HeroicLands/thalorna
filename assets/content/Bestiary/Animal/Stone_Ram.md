@@ -1,6 +1,6 @@
 ---
 shortcode: stoneram
-name: {full: Stone Ram, aliases: []}
+name: {full: Stone Ram}
 type: being
 subType: creature
 description: "A powerfully built mountain herbivore and exceptional climber that holds cliffside territories beyond the reach of ground-bound predators."

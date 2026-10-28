@@ -1,6 +1,6 @@
 ---
 shortcode: vyalendradty
-name: {full: Vyalendra, aliases: []}
+name: {full: Vyalendra}
 type: lore
 subType: deity
 description: "The Shaper of Worlds in the Varnuka pantheon, from whose golden lotus each cycle of creation opens."

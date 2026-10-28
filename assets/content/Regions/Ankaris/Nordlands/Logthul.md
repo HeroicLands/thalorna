@@ -1,6 +1,6 @@
 ---
 shortcode: logthul
-name: {full: Logthul, aliases: []}
+name: {full: Logthul}
 type: place
 subType: settlement
 description: "A Nordlands town whose Court of Justice is the oldest seat of law in the northern territories, where Knalthann Lawgiver earned his name."

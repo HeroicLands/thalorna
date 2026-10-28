@@ -1,6 +1,6 @@
 ---
 shortcode: asharhrrds
-name: {full: Ashara Harordas, aliases: []}
+name: {full: Ashara Harordas}
 type: being
 subType: npc
 tags: [draft, guilded, soldiery]

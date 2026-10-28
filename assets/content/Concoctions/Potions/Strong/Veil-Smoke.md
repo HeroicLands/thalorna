@@ -1,6 +1,6 @@
 ---
 shortcode: ptnhals
-name: {full: Veil-Smoke, aliases: ["Potion, Hallucinogenic, Strong"]}
+name: {full: Veil-Smoke, en: ["Potion, Hallucinogenic, Strong"]}
 type: concoctiongear
 subType: exotic
 description: "Almost indigo draft; obscures vision and conceals drinker."

@@ -1,6 +1,6 @@
 ---
 shortcode: amradadrgn
-name: {full: Amradad Region, aliases: []}
+name: {full: Amradad Region}
 type: place
 subType: region
 description: The settled north-western corner of the Dunhara, on the eastern shore of the Vylarian Sea—walled cities, their oases, and the caravan routes that link them, held by the Kingdom of Amradad.

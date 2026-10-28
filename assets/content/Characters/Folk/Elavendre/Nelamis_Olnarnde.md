@@ -1,6 +1,6 @@
 ---
 shortcode: nelamisolnar
-name: {full: Nélamis Ólnarnde, aliases: [Lady Nélamis]}
+name: {full: Nélamis Ólnarnde, en: [Lady Nélamis]}
 type: being
 subType: npc
 description: A noblewoman of House Valorant, of considerable wealth and refined taste, who is Veldor Pelthal's patron.

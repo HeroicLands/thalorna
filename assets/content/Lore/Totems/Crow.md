@@ -1,6 +1,6 @@
 ---
 shortcode: crowttm
-name: {full: Crow, aliases: [Crow Totem]}
+name: {full: Crow, en: [Crow Totem]}
 type: lore
 subType: bestiary
 description: "The crow as a totemic ideal, and the human character it describes."

@@ -1,6 +1,6 @@
 ---
 shortcode: droughtshand
-name: {full: Drought's Hand, aliases: []}
+name: {full: Drought's Hand}
 type: mysticalability
 subType: arcaneincantation
 description: "Withholds water from a stated ground until the working is lifted."

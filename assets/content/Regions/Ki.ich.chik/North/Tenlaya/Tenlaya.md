@@ -1,6 +1,6 @@
 ---
 shortcode: tenlaya
-name: {full: Tenlaya, aliases: [Grass People, P'enqal Ch'akal]}
+name: {full: Grass People, kiichek: [P'enqal Ch'akal], tenl: [tenlaya]}
 type: affiliation
 subType: polity
 description: "The Grass People of the central plains, whom the south calls the Coyote People: bison hunters on foot and earth-lodge farmers, led by whoever leads this season."

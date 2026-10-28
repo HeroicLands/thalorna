@@ -1,6 +1,6 @@
 ---
 shortcode: aurentheorth
-name: {full: Aurente Ortemandis, aliases: [Lord Aurente Ortemandis, Lord Aurente]}
+name: {full: Aurente Ortemandis, en: [Lord Aurente Ortemandis, Lord Aurente]}
 type: being
 subType: npc
 description: Head of one of Lizela's older noble families and a staunch traditionalist, named in Arnela Kórisvar.

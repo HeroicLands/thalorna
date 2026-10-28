@@ -1,6 +1,6 @@
 ---
 shortcode: elanmere
-name: {full: Elanmere, aliases: []}
+name: {full: Elanmere}
 type: place
 subType: settlement
 description: "The lake town at the foot of the Sórvanda mountains—the market where the high country comes down to trade, and the last comfortable place before the passes."

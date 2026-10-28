@@ -1,6 +1,6 @@
 ---
 shortcode: ptnemg
-name: {full: The Black Rebuke, aliases: ["Potion, Emetic, Great"]}
+name: {full: The Black Rebuke, en: ["Potion, Emetic, Great"]}
 type: concoctiongear
 subType: exotic
 description: "Nearly black tar-like liquid; causes violent vomiting and illness."

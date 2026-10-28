@@ -1,6 +1,6 @@
 ---
 shortcode: luvethaholim
-name: {full: Luvetha Holimandis, aliases: []}
+name: {full: Luvetha Holimandis}
 type: being
 subType: npc
 description: The sister of Dómrithas Vishardas, who contracted the Withering and died of it.

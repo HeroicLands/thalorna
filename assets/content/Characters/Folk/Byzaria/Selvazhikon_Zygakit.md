@@ -1,6 +1,6 @@
 ---
 shortcode: selvazhikonz
-name: {full: Selvazhikon Zigakit, aliases: [Merchant-Prince Selvazhikon Zigakit]}
+name: {full: Selvazhikon Zigakit, en: [Merchant-Prince Selvazhikon Zigakit]}
 type: being
 subType: npc
 description: A wealthy trader in the Bizarian League and father of Agélara Stetes.

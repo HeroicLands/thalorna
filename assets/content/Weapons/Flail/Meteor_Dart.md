@@ -1,6 +1,6 @@
 ---
 shortcode: biao
-name: {full: Meteor Dart, aliases: []}
+name: {full: Meteor Dart}
 type: weapongear
 description: "Rope-spiked dart for ranged pierce and entangle; cavalry raider's disruptor."
 tags: []

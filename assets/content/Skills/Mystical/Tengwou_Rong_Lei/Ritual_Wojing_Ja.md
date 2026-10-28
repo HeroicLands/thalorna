@@ -1,6 +1,6 @@
 ---
 shortcode: wojingja
-name: {full: "Ritual: Wojing Ja", aliases: [Wojing Ja]}
+name: {full: "Ritual: Wojing Ja", tant: [Wojing Ja]}
 type: skill
 subType: mystical
 tags: [celestial-pantheon, faith-skill, draft]

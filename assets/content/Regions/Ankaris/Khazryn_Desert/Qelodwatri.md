@@ -1,6 +1,6 @@
 ---
 shortcode: qelodwatri
-name: {full: Kelodvotri, aliases: [The Cold Well]}
+name: {full: Kelodvotri, en: [The Cold Well]}
 type: place
 subType: site
 description: "An owned spring of twelve palms at the foot of a black mesa in the Khoshiqor, whose tribe keeps a stone over its well and will not say what lives under it."

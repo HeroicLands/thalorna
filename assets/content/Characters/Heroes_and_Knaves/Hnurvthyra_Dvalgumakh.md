@@ -1,6 +1,6 @@
 ---
 shortcode: hnrvthyrdvlgmkh
-name: {full: Hnurvthira Dvalgumak, given: Hnurvthira, clan: Dvalgumak, aliases: []}
+name: {full: Hnurvthira Dvalgumak, given: Hnurvthira, clan: Dvalgumak}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]

@@ -1,6 +1,6 @@
 ---
 shortcode: tanchei
-name: {full: Tanchei, aliases: []}
+name: {full: Tanchei}
 type: lore
 subType: law
 description: "The fourth caste of Tantsou—celestial scholars who read the omens, keep the sacred texts and staff the administration, and whose counsel decides whether heaven agrees with what the Warlords intend."

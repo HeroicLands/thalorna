@@ -1,6 +1,6 @@
 ---
 shortcode: ilmrrnthrn
-name: {full: Ilmara Ornethran, aliases: []}
+name: {full: Ilmara Ornethran}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]

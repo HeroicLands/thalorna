@@ -1,6 +1,6 @@
 ---
 shortcode: garzanit
-name: {full: Gar-Zanit, aliases: []}
+name: {full: Gar-Zanit}
 type: place
 subType: settlement
 description: "Selat capital of Gar-Zanit."

@@ -1,6 +1,6 @@
 ---
 shortcode: elemcrtr
-name: {full: Elementals, aliases: []}
+name: {full: Elementals}
 type: lore
 subType: bestiary
 description: "Physical manifestations of spirits from the spirit realm, each embodying a single elemental aspect."

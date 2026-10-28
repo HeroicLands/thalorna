@@ -1,6 +1,6 @@
 ---
 shortcode: calypsa
-name: {full: Kalipsa, aliases: []}
+name: {full: Kalipsa}
 type: affiliation
 subType: polity
 description: Free port city on a small island off Élavendre's northern coast—a cosmopolitan crossroads of Nordmal seafarers, Aureldian merchants, and whoever else has a ship to anchor.

@@ -1,6 +1,6 @@
 ---
 shortcode: njordurritlbinding
-name: {full: The Ritual of Binding, aliases: []}
+name: {full: The Ritual of Binding}
 type: lore
 subType: arcana
 description: "The ancient rite that seals Njorven away—worked at a hidden coastal temple with all three regalia, requiring spiritual and material preparation and an invoker who must be protected throughout."

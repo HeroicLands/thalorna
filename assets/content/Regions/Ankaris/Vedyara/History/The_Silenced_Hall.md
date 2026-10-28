@@ -1,6 +1,6 @@
 ---
 shortcode: silenthall
-name: {full: The Silenced Hall, aliases: []}
+name: {full: The Silenced Hall}
 type: lore
 subType: history
 description: "About 320 AF the conch-door adventurer shut the sabhra of Tirnugram in its temple hall and fired the roof; the janpoda did not survive it, the Melka of 320 mourned it on the roll in the same ten days it swore the Third Compact, and the priests struck the adventurer's name from their speech."

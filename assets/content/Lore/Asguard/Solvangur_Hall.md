@@ -1,6 +1,6 @@
 ---
 shortcode: solvangurhall
-name: {full: Sólrunsholl, aliases: [Solrún's Hall]}
+name: {full: Sólrunsholl, en: [Solrún's Hall]}
 type: place
 subType: structure
 description: "Solrún's hall at the head of Solvangur, where the dead she gathers are seated at her own tables."

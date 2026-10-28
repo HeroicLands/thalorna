@@ -1,6 +1,6 @@
 ---
 shortcode: theroressafi
-name: {full: Thérores Safithos, aliases: [Arsir Thérores Safithos]}
+name: {full: Thérores Safithos, en: [Arsir Thérores Safithos]}
 type: being
 subType: npc
 description: Arsir of the Council of Korinthea, the primary political support of Dumares Rafiros.

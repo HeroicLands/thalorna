@@ -1,6 +1,6 @@
 ---
 shortcode: morvana
-name: {full: Faith of Morvana, aliases: [Mistress of the Waning Moon, Morvana]}
+name: {full: Faith of Morvana, en: [Mistress of the Waning Moon], vyl: [Morvana]}
 type: affiliation
 subType: faithtradition
 description: "Decay."

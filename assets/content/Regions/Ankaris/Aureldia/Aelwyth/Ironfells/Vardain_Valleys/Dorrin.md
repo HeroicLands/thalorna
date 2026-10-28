@@ -1,6 +1,6 @@
 ---
 shortcode: dorrin
-name: {full: Dorrin, aliases: []}
+name: {full: Dorrin}
 type: place
 subType: settlement
 description: "The highest village, watching the eastern approaches and the sea cliffs—the Vardain's eyes, and the first to know when anything comes."

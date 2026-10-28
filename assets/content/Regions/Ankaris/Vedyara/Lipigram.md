@@ -1,6 +1,6 @@
 ---
 shortcode: lipigram
-name: {full: Lipigram, aliases: []}
+name: {full: Lipigram}
 type: place
 subType: settlement
 description: "The copying village of Rajepur, whose four scriptoria work on an endowment six hundred years old."

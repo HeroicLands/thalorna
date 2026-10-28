@@ -1,6 +1,6 @@
 ---
 shortcode: jackal
-name: {full: Jackal, aliases: []}
+name: {full: Jackal}
 type: being
 subType: creature
 description: "A small, adaptable canid of the river lowlands that hunts and scavenges along riverbanks, village middens, and necropolis complexes among the dead."

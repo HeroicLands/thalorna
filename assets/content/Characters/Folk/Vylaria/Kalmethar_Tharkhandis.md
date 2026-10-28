@@ -1,6 +1,6 @@
 ---
 shortcode: kalmethartha
-name: {full: Kalmethar Tharkis, aliases: [Baron Kalmethar]}
+name: {full: Kalmethar Tharkis, en: [Baron Kalmethar]}
 type: being
 subType: npc
 description: An elderly baron afraid of death, who is the patron of Dómrithas Vishardas.

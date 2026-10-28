@@ -1,6 +1,6 @@
 ---
 shortcode: khilodlunbii
-name: {full: Khilodlun Biilokur, aliases: [Chief Khilodlun]}
+name: {full: Khilodlun Biilokur, en: [Chief Khilodlun]}
 type: being
 subType: npc
 description: The tribe's leader, who respects the spiritual authority of Razanash Mervaran and often consults her on matters of tribal importance.

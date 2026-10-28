@@ -1,6 +1,6 @@
 ---
 shortcode: marriage
-name: {full: Marriage, aliases: []}
+name: {full: Marriage}
 type: lore
 subType: custom
 description: "How marriage works in Tantsou—a household registered with the celestial bureaucracy, arranged by clan councils, open only to the four higher castes, and made in five ritual steps."

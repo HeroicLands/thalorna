@@ -1,6 +1,6 @@
 ---
 shortcode: zunelasdty
-name: {full: Zunelas, aliases: []}
+name: {full: Zunelas}
 type: lore
 subType: deity
 description: "The Veiled Dreamer of the Aureldian pantheon, holding dreams and the arch a dreamer passes under."

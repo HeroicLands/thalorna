@@ -1,6 +1,6 @@
 ---
 shortcode: cnstrctr
-name: {full: Constrictor Snake, aliases: []}
+name: {full: Constrictor Snake}
 type: being
 subType: creature
 description: "A huge non-venomous snake of tropical regions that kills through patient, crushing coils, subduing prey far larger than its own head."

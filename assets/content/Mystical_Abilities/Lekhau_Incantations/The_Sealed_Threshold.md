@@ -1,6 +1,6 @@
 ---
 shortcode: sealdthrshld
-name: {full: The Sealed Threshold, aliases: []}
+name: {full: The Sealed Threshold}
 type: mysticalability
 subType: arcaneincantation
 description: "Inscribes a ward on a doorway or lid that resists opening by any but the named holder."

@@ -1,6 +1,6 @@
 ---
 shortcode: lzthbrnthr
-name: {full: Lizéth Bránthira, aliases: []}
+name: {full: Lizéth Bránthira}
 type: being
 subType: npc
 tags: [draft, common-folk]

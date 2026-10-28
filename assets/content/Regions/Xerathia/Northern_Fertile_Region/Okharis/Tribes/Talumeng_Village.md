@@ -1,6 +1,6 @@
 ---
 shortcode: talumengvlg
-name: {full: Táluméng Village, aliases: []}
+name: {full: Táluméng Village}
 type: place
 subType: settlement
 description: "Seat of the Táluméng tribe and its cattle, on the open plains of Okharis."

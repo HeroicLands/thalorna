@@ -1,6 +1,6 @@
 ---
 shortcode: garnlghkhlth
-name: {full: Gar-Anlagh'Khelathu, aliases: [House of the Black Land, The House of River]}
+name: {full: Gar-Anlagh'Khelathu, en: [House of the Black Land, The House of River]}
 type: affiliation
 subType: arcanetradition
 tags: [gethunu-lekhau, arcane, khelathi]

@@ -1,6 +1,6 @@
 ---
 shortcode: bgun
-name: {full: Blowgun, aliases: []}
+name: {full: Blowgun}
 type: weapongear
 description: "Silent hollow tube for poison darts; hunter's covert strike."
 tags: []

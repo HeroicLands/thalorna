@@ -1,6 +1,6 @@
 ---
 shortcode: hydravenmnt
-name: {full: Mount Hidraven, aliases: []}
+name: {full: Mount Hidraven}
 type: place
 subType: feature
 

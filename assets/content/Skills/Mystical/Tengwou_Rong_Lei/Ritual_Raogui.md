@@ -1,6 +1,6 @@
 ---
 shortcode: raogui
-name: {full: "Ritual: Raogui", aliases: [Raogui]}
+name: {full: "Ritual: Raogui", tant: [Raogui]}
 type: skill
 subType: mystical
 tags: [celestial-pantheon, faith-skill, draft]

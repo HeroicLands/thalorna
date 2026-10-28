@@ -1,6 +1,6 @@
 ---
 shortcode: gorombesprt
-name: {full: "Gorombe Spirit Power", aliases: [The Thunder Above]}
+name: {full: Gorombe Spirit Power, en: [The Thunder Above]}
 type: skill
 subType: mystical
 description: "Standing with Gorombe, zohira of storms—what this emissary of the Flame is petitioned and interceded with."

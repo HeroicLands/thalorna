@@ -1,6 +1,6 @@
 ---
 shortcode: teremoszenot
-name: {full: Teremos Zenothenos, aliases: [Marendos Teremos]}
+name: {full: Teremos Zenothenos, en: [Marendos Teremos]}
 type: being
 subType: npc
 description: An austere enforcer for the Sekran's western investigations, named in Wilred Barnwell.

@@ -1,6 +1,6 @@
 ---
 shortcode: palacecellar
-name: {full: The Palace Cellars, aliases: []}
+name: {full: The Palace Cellars}
 type: place
 subType: site
 description: "The cellars of the royal palace of the Kingdom of Mahanodi, open to the sky at the north end of Rajepur since the sabhra pulled the building down."

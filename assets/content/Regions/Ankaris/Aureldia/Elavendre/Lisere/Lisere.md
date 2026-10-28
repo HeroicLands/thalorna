@@ -1,6 +1,6 @@
 ---
 shortcode: lisere
-name: {full: Lísere, aliases: []}
+name: {full: Lísere}
 type: place
 subType: region
 description: "The northern coast of Élavendre, wrapped around Lísere Bay—cold but temperate, rich in fish, thirty miles across the water from Vristwald, and the kingdom's most raided shore."

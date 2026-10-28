@@ -1,6 +1,6 @@
 ---
 shortcode: ptnparg
-name: {full: The Frozen Draft, aliases: ["Potion, Paralytic, Great"]}
+name: {full: The Frozen Draft, en: ["Potion, Paralytic, Great"]}
 type: concoctiongear
 subType: exotic
 description: "Sickly pale green viscous substance; freezes body and movement."

@@ -1,6 +1,6 @@
 ---
 shortcode: vrldmylhrfnsvld
-name: {full: Vrildmil Hrafansvald, given: Vrildmil, clan: Hrafansvald, aliases: []}
+name: {full: Vrildmil Hrafansvald, given: Vrildmil, clan: Hrafansvald}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]

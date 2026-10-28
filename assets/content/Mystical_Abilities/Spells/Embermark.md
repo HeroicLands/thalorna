@@ -1,6 +1,6 @@
 ---
 shortcode: embrmrk
-name: {full: Embermark, aliases: []}
+name: {full: Embermark}
 type: mysticalability
 subType: arcaneincantation
 description: "Scorches persistent glowing rune; marks target or ignites later."

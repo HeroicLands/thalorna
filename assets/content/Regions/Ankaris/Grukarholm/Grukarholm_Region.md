@@ -1,6 +1,6 @@
 ---
 shortcode: grkrhlmrgn
-name: {full: Grukarholm Region, aliases: []}
+name: {full: Grukarholm Region}
 type: place
 subType: region
 description: A landlocked concentration of Grukar nests amid dense mixed forest, vast marshlands and slow rivers, between the Vristwald and Velanthian reaches.

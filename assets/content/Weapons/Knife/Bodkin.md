@@ -1,6 +1,6 @@
 ---
 shortcode: kel
-name: {full: Bodkin, aliases: []}
+name: {full: Bodkin}
 type: weapongear
 description: "Needle-pointed dart punches mail and plate; duelist's finishing steel."
 tags: []

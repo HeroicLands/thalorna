@@ -1,6 +1,6 @@
 ---
 shortcode: wambuchivlg
-name: {full: Wámbuchi Village, aliases: []}
+name: {full: Wámbuchi Village}
 type: place
 subType: settlement
 description: "Grain village of the Wámbuchi tribe amid the fields of the Okharis plains."

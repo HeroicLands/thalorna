@@ -1,6 +1,6 @@
 ---
 shortcode: offrngthrshl
-name: {full: Offering at the Threshold, aliases: []}
+name: {full: Offering at the Threshold}
 type: mysticalability
 subType: arcaneincantation
 description: "Renders an offering perceptible to the dead, so that it is received rather than merely left."

@@ -1,6 +1,6 @@
 ---
 shortcode: foulness
-name: {full: Foulness, aliases: []}
+name: {full: Foulness}
 type: mysticalability
 subType: arcaneincantation
 description: "Conjures stinking cloud; sickens and chokes those breathing vapors."

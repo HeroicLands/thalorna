@@ -1,6 +1,6 @@
 ---
 shortcode: itharicntc
-name: {full: The Sinale Meet the Ithari, aliases: [The Only Meeting]}
+name: {full: The Sinale Meet the Ithari, en: [The Only Meeting]}
 type: lore
 subType: history
 description: "Sinale wayfarers come upon the Ithari by chance, are received with courtesy and politely declined—the only contact between the Ithari and an Elder Race in any record."

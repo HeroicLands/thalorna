@@ -1,6 +1,6 @@
 ---
 shortcode: asgarthul
-name: {full: Asgarthul, aliases: []}
+name: {full: Asgarthul}
 type: place
 subType: settlement
 description: "Market Town / Seat of Local Nobility"

@@ -1,6 +1,6 @@
 ---
 shortcode: selatleterunome
-name: {full: Selat-Leteru, aliases: []}
+name: {full: Selat-Leteru}
 type: place
 subType: region
 description: "The shrine-islands; a quiet pilgrimage selat of marsh-temples and few people—the land of the Selat of Selat-Leteru, one of the delta selatu of Au'Khelathu."

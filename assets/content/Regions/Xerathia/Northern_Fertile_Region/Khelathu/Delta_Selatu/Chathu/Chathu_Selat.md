@@ -1,6 +1,6 @@
 ---
 shortcode: chathuselat
-name: {full: Chathu Selat, aliases: []}
+name: {full: Chathu Selat}
 type: place
 subType: region
 description: "The sea-margin; salt-pans, natron flats, and the curing of the lesser villages' catch—the land of the Selat of Chathu, one of the delta selatu of Au'Khelathu."

@@ -1,6 +1,6 @@
 ---
 shortcode: muwojaidmn
-name: {full: Muwojai Domain, aliases: [House Muwojai]}
+name: {full: Muwojai Domain, en: [House Muwojai]}
 type: affiliation
 subType: polity
 description: "The domain of House Muwojai—Zijai, the cedar mountain beside the Emperor's own, the roads and ferry that every petition to the court must cross, held from Kowu by a loyalist lord of sixty-one with no grown heir."

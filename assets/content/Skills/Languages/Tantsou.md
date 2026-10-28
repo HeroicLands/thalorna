@@ -1,6 +1,6 @@
 ---
 shortcode: tantsoulng
-name: {full: Tantsou Language, aliases: []}
+name: {full: Tantsou Language}
 type: skill
 subType: language
 description: "The imperial speech of Tantsou—tonal and sung, logographic in script, built of single-syllable roots set side by side, with vernaculars that drift the farther one travels from the capital."

@@ -1,6 +1,6 @@
 ---
 shortcode: brkensuccsn
-name: {full: The Broken Succession, aliases: [The Years of Three Eagles, The Three Orzoi]}
+name: {full: The Broken Succession, en: [The Years of Three Eagles, The Three Orzoi]}
 type: lore
 subType: history
 description: "From about 389 AF the Orzas Barnakis is dead with no heir named and his best army across the sea; the Sorvan, the Senate and the Moktur legions each acclaim a man, and three eagles are carried before three Orzoi for sixteen years."

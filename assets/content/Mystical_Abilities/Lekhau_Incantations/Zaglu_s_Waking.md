@@ -1,6 +1,6 @@
 ---
 shortcode: zagluswaking
-name: {full: Zaglu's Waking, aliases: []}
+name: {full: Zaglu's Waking}
 type: mysticalability
 subType: arcaneincantation
 description: "Binds a made servant to wake at a stated condition and act until the condition ends."

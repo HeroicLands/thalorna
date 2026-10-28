@@ -1,6 +1,6 @@
 ---
 shortcode: vardanreach
-name: {full: Vardanreach, aliases: []}
+name: {full: Vardanreach}
 type: place
 subType: region
 description: "The Vardain nation's name for the north-east of Aelwyth—the plain, the fells and the high valleys—which kept the Khazari's friendship for millennia until the Nordmen took it sixty years ago."

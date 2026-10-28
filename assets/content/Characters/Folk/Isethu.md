@@ -1,6 +1,6 @@
 ---
 shortcode: isethu
-name: {full: Isethu, aliases: []}
+name: {full: Isethu}
 type: being
 subType: npc
 description: "A healer and wise woman of the borderlands, who taught her daughter to read the spiritual significance of plants and animals before she taught her anything else"

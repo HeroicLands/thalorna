@@ -1,6 +1,6 @@
 ---
 shortcode: belekos
-name: {full: Belekos, aliases: []}
+name: {full: Belekos}
 type: place
 subType: settlement
 description: "Merchant City"

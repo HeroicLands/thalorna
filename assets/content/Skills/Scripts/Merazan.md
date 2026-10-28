@@ -1,6 +1,6 @@
 ---
 shortcode: merazanscrpt
-name: {full: Merazan Script, aliases: []}
+name: {full: Merazan Script}
 type: skill
 subType: script
 description: "The merchants' abjad of Taruzel—twenty-four consonants, vowels pointed only when money depends on it."

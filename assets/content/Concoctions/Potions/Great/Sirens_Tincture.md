@@ -1,6 +1,6 @@
 ---
 shortcode: ptnaphrg
-name: {full: "Siren's Tincture", aliases: ["Potion, Aphrodisiac, Great"]}
+name: {full: Siren's Tincture, en: ["Potion, Aphrodisiac, Great"]}
 type: concoctiongear
 subType: exotic
 description: "Nearly black purple-tinged liquid; seduces with overwhelming attraction."

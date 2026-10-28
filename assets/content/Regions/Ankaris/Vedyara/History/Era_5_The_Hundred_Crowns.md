@@ -1,6 +1,6 @@
 ---
 shortcode: hundredcrwn
-name: {full: The Hundred Crowns, aliases: []}
+name: {full: The Hundred Crowns}
 type: lore
 subType: history
 description: "About 150 to 312 AF, 1 HC to 163 HC in the Madustan count: the small kingdoms the notes count by the hundred fight for water, ore and fields; Gomarga breaks its well bargain to pay for a river war and loses it on the Field of Elephants; Chendrapur's temples refuse a king and the Nine Houses take their seats."

@@ -1,6 +1,6 @@
 ---
 shortcode: wogenhenzhuo
-name: {full: Wogen Henzhuo, aliases: [Master Tiger of the Steppes]}
+name: {full: Wogen Henzhuo, en: [Master Tiger of the Steppes]}
 type: being
 subType: npc
 description: >-

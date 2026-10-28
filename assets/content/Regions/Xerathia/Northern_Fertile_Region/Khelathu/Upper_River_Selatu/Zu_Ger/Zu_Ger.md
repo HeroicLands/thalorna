@@ -1,6 +1,6 @@
 ---
 shortcode: zugernome
-name: {full: Zu-Ger, aliases: []}
+name: {full: Zu-Ger}
 type: place
 subType: region
 description: "“The Great Land”—an ancient royal selat and old burial-ground of the first dynasties—the land of the Selat of Zu-Ger, one of the upper-river selatu of Au'Khelathu."

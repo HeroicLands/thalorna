@@ -1,6 +1,6 @@
 ---
 shortcode: triyastole
-name: {full: "Triyacharya's Three-Cord Stole", aliases: []}
+name: {full: Triyacharya's Three-Cord Stole}
 type: miscgear
 description: "Temple regalia worn by a Triyacharya, its three cords standing for the three forms he alone is ordained to serve at once."
 tags: []

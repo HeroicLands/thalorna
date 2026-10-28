@@ -1,6 +1,6 @@
 ---
 shortcode: rjprprotct
-name: {full: Rajepur Under Protection, aliases: []}
+name: {full: Rajepur Under Protection}
 type: lore
 subType: history
 description: "About 525 AF a kingdom up the river took Rajepur's head-gate village of Khandapur for a season and was put out by Chendrapur's money and a hired company; the janpoda, which had kept no soldiers since the dissolution, signed a formal protection with the city for grain and copyists."

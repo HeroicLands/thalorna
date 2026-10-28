@@ -1,6 +1,6 @@
 ---
 shortcode: khelosufu
-name: {full: Khelosufu, aliases: [Khelo]}
+name: {full: Khelosufu, khel: [khelo]}
 type: being
 subType: npc
 description: "A rival who feels the sting of public criticism and returns it where he can do most damage"

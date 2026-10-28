@@ -1,6 +1,6 @@
 ---
 shortcode: karnavos
-name: {full: "Ritual: Karnavos", aliases: [The Wild Beast]}
+name: {full: "Ritual: Karnavos", en: [The Wild Beast]}
 type: skill
 subType: mystical
 tags: [aureldian, faith-skill, draft]

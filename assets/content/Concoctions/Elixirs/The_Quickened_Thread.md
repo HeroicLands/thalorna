@@ -1,6 +1,6 @@
 ---
 shortcode: elxeqp
-name: {full: The Quickened Thread, aliases: [Equipose Elixir]}
+name: {full: The Quickened Thread, en: [Equipose Elixir]}
 type: concoctiongear
 subType: elixir
 description: "Mirror-bright elixir; grants heightened sensory awareness and reactions."

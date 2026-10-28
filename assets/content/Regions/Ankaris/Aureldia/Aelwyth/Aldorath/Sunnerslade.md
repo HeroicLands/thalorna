@@ -1,6 +1,6 @@
 ---
 shortcode: sunnerslade
-name: {full: Sunnerslade, aliases: []}
+name: {full: Sunnerslade}
 type: place
 subType: region
 description: "The vine country of Aldorath—sheltered slopes in the rain-shadow of the Ironfells, producing a cool-climate wine that has no business existing and is famous as far as the mainland."

@@ -1,6 +1,6 @@
 ---
 shortcode: frolazirafab
-name: {full: Frolázira Fabidek, aliases: [Guild Master Frolázira Fabidek, Guild Master Frolázira]}
+name: {full: Frolázira Fabidek, en: [Guild Master Frolázira Fabidek, Guild Master Frolázira]}
 type: being
 subType: npc
 description: The current head of the Timberwrights' Guild, named in Morzáhr Zilakit.

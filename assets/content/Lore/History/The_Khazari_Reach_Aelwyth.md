@@ -1,6 +1,6 @@
 ---
 shortcode: vorgaldcut
-name: {full: The Cutting of Vorgald, aliases: [The Khazari Reach Aelwyth]}
+name: {full: The Cutting of Vorgald, en: [The Khazari Reach Aelwyth]}
 type: lore
 subType: history
 description: "Around 3100 BF the Khazari cut Vorgald in the eastern Ironfells—the westernmost hold they ever placed and the only one reached across open sea—and bring across the farmers beneath it who become the Vardain."

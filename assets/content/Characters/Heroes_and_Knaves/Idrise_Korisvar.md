@@ -1,6 +1,6 @@
 ---
 shortcode: idriskrsvr
-name: {full: Ídrise Kórisvar, given: Ídrise, clan: Kórisvar, aliases: []}
+name: {full: Ídrise Kórisvar, given: Ídrise, clan: Kórisvar}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]

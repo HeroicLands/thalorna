@@ -1,6 +1,6 @@
 ---
 shortcode: buiwu
-name: {full: Buiwu, aliases: [White Hall]}
+name: {full: White Hall, jurt: [Buiwu]}
 type: place
 subType: settlement
 description: "The castle town of House Zenjai on the lower slope of Snow Peak—a granary, a hall and a stable-yard, seat of the northern lord Zenjai Tsuiwo."

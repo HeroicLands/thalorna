@@ -1,6 +1,6 @@
 ---
 shortcode: korinthea
-name: {full: Korinthea, aliases: []}
+name: {full: Korinthea}
 type: affiliation
 subType: polity
 description: "City-state of Helionis governed by an oligarchy of wealthy patron families."

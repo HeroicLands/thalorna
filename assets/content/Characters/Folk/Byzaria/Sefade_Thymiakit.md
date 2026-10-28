@@ -1,6 +1,6 @@
 ---
 shortcode: sefadethymia
-name: {full: Sefade Timiakit, aliases: [Lady Sefade Timiakit]}
+name: {full: Sefade Timiakit, en: [Lady Sefade Timiakit]}
 type: being
 subType: npc
 description: A young woman of equal standing to whom Fodios Timiakit was betrothed.

@@ -1,6 +1,6 @@
 ---
 shortcode: dunharaadvguide
-name: {full: Dunhara Adventurer's Guide, aliases: []}
+name: {full: Dunhara Adventurer's Guide}
 type: doc
 subType: settingguide
 description: A short player and GM introduction to the Dunhari tribes of the open desert—salt, feud, poets, storm-readers, and the ways a campaign begins among them.

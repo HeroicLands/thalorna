@@ -1,6 +1,6 @@
 ---
 shortcode: kirobashkm
-name: {full: Kiroba of the Shókuma, given: Kiroba, clan: Shókuma, aliases: []}
+name: {full: Kiroba of the Shókuma, given: Kiroba, clan: Shókuma}
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, tradesfolk]

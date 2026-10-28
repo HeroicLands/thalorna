@@ -1,6 +1,6 @@
 ---
 shortcode: sthrnsvnhs
-name: {full: Southern Savannahs, aliases: [Southern Savannah, The Deep South]}
+name: {full: Southern Savannahs, en: [Southern Savannah, The Deep South]}
 type: place
 subType: region
 description: The vast subtropical grasslands of southern Zerathia—open herd-country, scattered hunter-pastoralist peoples, and ruined stonework whose builders no one remembers. Known to the north only through the rainforest peoples who trade with its inhabitants.

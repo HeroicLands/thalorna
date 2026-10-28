@@ -1,6 +1,6 @@
 ---
 shortcode: thresholdroll
-name: {full: The Roll at the Thresholds, aliases: [The Calling of the Roll]}
+name: {full: The Roll at the Thresholds, en: [The Calling of the Roll]}
 type: lore
 subType: literature
 description: "The words a crossbow company of the valleys says at its oath stone on the first morning of the Feast of Thresholds, captain and company answering: the year let out and in at the gate, the living who marched, the dead who are answered for, the place in the roll where a struck name was, the names earned that year, the boys who come in at the gate, and the contract said over again before the stone."
@@ -10,7 +10,7 @@ data:
   packFolder: settinglore
   form: litany
   subjects: [lore-tarvenanclt, affiliation-ardavon, affiliation-ordrsldwrd]
-  language: tarvenlng
+  lang: tarv
 
 # terran_analog: "The call-and-response of a military muster and of liturgy; the roll of the fallen answered by the living; the catalogue of the dead with a deed apiece; the oath renewed at the new year; and the blank kept in a list for a name erased, as on a monument where a name has been struck."
 ---

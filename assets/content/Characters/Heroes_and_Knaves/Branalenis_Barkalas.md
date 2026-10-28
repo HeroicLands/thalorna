@@ -1,6 +1,6 @@
 ---
 shortcode: brnlnsbrkls
-name: {full: Branalenis Barkalas, given: Branalenis, clan: Barkalas, aliases: []}
+name: {full: Branalenis Barkalas, given: Branalenis, clan: Barkalas}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]

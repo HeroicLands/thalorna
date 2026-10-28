@@ -1,6 +1,6 @@
 ---
 shortcode: lothnhrlns
-name: {full: Lothona Harlanis, aliases: []}
+name: {full: Lothona Harlanis}
 type: being
 subType: npc
 tags: [todo-warrior, draft, soldiery]

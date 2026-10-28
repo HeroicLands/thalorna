@@ -1,6 +1,6 @@
 ---
 shortcode: herthema
-name: {full: Herthema, aliases: []}
+name: {full: Herthema}
 type: place
 subType: settlement
 description: "Fortified Town"

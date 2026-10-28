@@ -1,6 +1,6 @@
 ---
 shortcode: marendas
-name: {full: Faith of Marendas, aliases: [Keeper of Sacred Wisdom, Marendas]}
+name: {full: Faith of Marendas, en: [Keeper of Sacred Wisdom], vyl: [Marendas]}
 type: affiliation
 subType: faithtradition
 description: "Knowledge."

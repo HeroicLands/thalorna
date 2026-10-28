@@ -1,6 +1,6 @@
 ---
 shortcode: qelod
-name: {full: Kelod, aliases: [The Stepped Well]}
+name: {full: Kelod, en: [The Stepped Well]}
 type: place
 subType: structure
 description: "A stair-well three hundred feet deep, cut by the Basin Builders into the floor of the Khoshiqor toward a water table that has since fallen below its bottom."

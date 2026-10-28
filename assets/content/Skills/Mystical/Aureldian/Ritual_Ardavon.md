@@ -1,6 +1,6 @@
 ---
 shortcode: ardavon
-name: {full: "Ritual: Árdavon", aliases: [The Keeper of the Gates]}
+name: {full: "Ritual: Árdavon", en: [The Keeper of the Gates]}
 type: skill
 subType: mystical
 tags: [aureldian, faith-skill, draft]

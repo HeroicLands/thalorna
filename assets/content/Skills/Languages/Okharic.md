@@ -1,6 +1,6 @@
 ---
 shortcode: okharclng
-name: {full: Okharik Language, aliases: []}
+name: {full: Okharik Language}
 type: skill
 subType: language
 description: "The tongue of the three Okhari city-states, with an archaic sacred register reserved for scripture and temple rites."

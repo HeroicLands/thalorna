@@ -1,6 +1,6 @@
 ---
 shortcode: aqenmose2
-name: {full: Aqenmose, aliases: [Aqe]}
+name: {full: Aqenmose, khel: [aqe]}
 type: being
 subType: npc
 description: "A cleric of middling rank in the house of Saq'aru, competent and unremarkable, and content to be both"

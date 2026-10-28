@@ -1,6 +1,6 @@
 ---
 shortcode: amitharabish
-name: {full: Amithara Bisanis, aliases: [Marendos Amithara Bisanis]}
+name: {full: Amithara Bisanis, en: [Marendos Amithara Bisanis]}
 type: being
 subType: npc
 description: The Thordimalon official who arranged Talira Basiron's removal from active training and has since ensured her continued safety.

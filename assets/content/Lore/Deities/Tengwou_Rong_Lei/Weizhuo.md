@@ -1,6 +1,6 @@
 ---
 shortcode: weizhuodty
-name: {full: Weizhuo, aliases: []}
+name: {full: Weizhuo}
 type: lore
 subType: deity
 description: "The Jade Sovereign of the Tengwou Rong Lei, at the head of the celestial bureaucracy and answerable for its whole administration."

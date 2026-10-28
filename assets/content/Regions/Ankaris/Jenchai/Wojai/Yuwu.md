@@ -1,6 +1,6 @@
 ---
 shortcode: yuwu
-name: {full: Yuwu, aliases: [Moon Hall]}
+name: {full: Moon Hall, jurt: [Yuwu]}
 type: place
 subType: settlement
 description: "The trading castle town of House Wojai on the bay of Yujai—quays, a customs hall and the counting-houses of the merchant lineages, seat of the independent lord Wojai Doja."

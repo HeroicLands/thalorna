@@ -1,6 +1,6 @@
 ---
 shortcode: kprdrystr
-name: {full: A Stair of Veiled Women, aliases: []}
+name: {full: A Stair of Veiled Women}
 type: scenario
 subType: adventure
 description: "The wind has bared a stair of veiled women carved in pale stone, leading down to a vault whose king's name is chiseled from every wall."

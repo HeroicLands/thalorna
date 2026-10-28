@@ -1,8 +1,6 @@
 ---
 shortcode: eaglecityrse
-name:
-  full: The Raising of the Eagle City
-  aliases: [The Walling of Arvel, The Moving of the Senate]
+name: {full: The Raising of the Eagle City, en: [The Walling of Arvel, The Moving of the Senate]}
 type: lore
 subType: history
 description: "From about 1 AF the first Orzas walls the crown of Arvel above the galleries sealed in 45 BF, moves the Senate up from its old hall on Antel, and consecrates the thrima around the whole of the Six Hills, a city that takes the name Orzara."

@@ -1,6 +1,6 @@
 ---
 shortcode: sthrnwall
-name: {full: The Southern Wall, aliases: [The Wall]}
+name: {full: The Southern Wall, en: [The Wall]}
 type: place
 subType: feature
 description: "The unbroken escarpment along Vedyara's whole northern margin—the highest ground on Thalorna, the source of the four great rivers, and the wall the subcontinent cannot gho over."

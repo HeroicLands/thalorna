@@ -1,6 +1,6 @@
 ---
 shortcode: bloodhills
-name: {full: The Blood Hills, aliases: [Keravel's Blood Hills]}
+name: {full: The Blood Hills, en: [Keravel's Blood Hills]}
 type: place
 subType: site
 description: "The blood-field east of Keravel where the Black Flame and the Knights of the Sacred Forge fought about 248 AF, a dread that returns the unease of a line that knew it was losing."

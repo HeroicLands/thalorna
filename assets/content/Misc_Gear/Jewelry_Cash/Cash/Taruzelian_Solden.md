@@ -1,6 +1,6 @@
 ---
 shortcode: tsolden
-name: {full: Taruzelian Solden, aliases: []}
+name: {full: Taruzelian Solden}
 type: miscgear
 description: "Confederation gold coin of the Merazuni; slightly underweight against the imperial standard."
 tags: [jewelry_cash]

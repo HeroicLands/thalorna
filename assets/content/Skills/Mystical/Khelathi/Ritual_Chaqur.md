@@ -1,6 +1,6 @@
 ---
 shortcode: ritualchaqur
-name: {full: "Ritual: Chaq'ur", aliases: [Bringer of Tempests]}
+name: {full: "Ritual: Chaq'ur", en: [Bringer of Tempests]}
 type: skill
 subType: mystical
 tags: [khelathi, faith-skill, draft]

@@ -1,6 +1,6 @@
 ---
 shortcode: wthrcdrthgr
-name: {full: Wítharik yra Druthgar wur Waldburg, aliases: []}
+name: {full: Wítharik yra Druthgar wur Waldburg}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

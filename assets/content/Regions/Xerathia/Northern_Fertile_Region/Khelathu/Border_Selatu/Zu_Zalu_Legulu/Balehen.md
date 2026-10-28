@@ -1,6 +1,6 @@
 ---
 shortcode: balehen
-name: {full: Balehen, aliases: []}
+name: {full: Balehen}
 type: place
 subType: settlement
 description: "Fortress Town"

@@ -1,6 +1,6 @@
 ---
 shortcode: edriwald
-name: {full: Edriwald, aliases: [Bay Forest]}
+name: {full: Edriwald, en: [Bay Forest]}
 type: place
 subType: region
 description: The bay-facing Vristwald forest, across the water from Elavendre.

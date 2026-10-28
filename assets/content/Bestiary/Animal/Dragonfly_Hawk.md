@@ -1,6 +1,6 @@
 ---
 shortcode: drgnflyh
-name: {full: Dragonfly Hawk, aliases: []}
+name: {full: Dragonfly Hawk}
 type: being
 subType: creature
 description: "A dragonfly scaled to nightmare size, an agile aerial hunter of rivers, marshes, and coasts that strikes prey by sight."

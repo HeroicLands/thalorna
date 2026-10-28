@@ -1,6 +1,6 @@
 ---
 shortcode: elxfmb
-name: {full: The Choking Veil, aliases: [Fumebomb Elixir]}
+name: {full: The Choking Veil, en: [Fumebomb Elixir]}
 type: concoctiongear
 subType: elixir
 description: "Murky greenish liquid; hurled to create choking smoke cloud."

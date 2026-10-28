@@ -1,6 +1,6 @@
 ---
 shortcode: anthrvasgrnd
-name: {full: Anthorv Asgrind, given: Anthorv, clan: Asgrind, aliases: []}
+name: {full: Anthorv Asgrind, given: Anthorv, clan: Asgrind}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]

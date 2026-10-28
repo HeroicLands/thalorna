@@ -1,6 +1,6 @@
 ---
 shortcode: vargate
-name: {full: Vargate, aliases: []}
+name: {full: Vargate}
 type: place
 subType: settlement
 description: "The Vardain town at the foot of the road to Vorgald—the single point at which Khazari work passes into human hands, and the closest any outsider will get to the Deep Folk."

@@ -1,6 +1,6 @@
 ---
 shortcode: yolequd
-name: {full: Yolakud, aliases: [The Salt-Dust Spirit]}
+name: {full: Yolakud, en: [The Salt-Dust Spirit]}
 type: being
 subType: creature
 description: "A salt-dust spirit of the dry lake bed that rises as a white column on windless afternoons and strips skin and sight from what it crosses."

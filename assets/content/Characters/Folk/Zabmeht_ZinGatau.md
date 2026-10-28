@@ -1,6 +1,6 @@
 ---
 shortcode: zabmehtzingt
-name: {full: Zabmeht Zin'Gatau, aliases: []}
+name: {full: Zabmeht Zin'Gatau}
 type: being
 subType: npc
 description: "A metalworker of the flooding-season clans, father to a smith, whose trade passed to his third son"

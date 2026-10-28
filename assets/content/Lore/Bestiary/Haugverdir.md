@@ -1,6 +1,6 @@
 ---
 shortcode: haugverdir
-name: {full: Hrúmverdir, aliases: []}
+name: {full: Hrúmverdir}
 type: lore
 subType: bestiary
 description: "The north's howe-wardens: Nahild's mindless raised dead, and the dead said to keep their own mounds."

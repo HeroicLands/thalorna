@@ -1,6 +1,6 @@
 ---
 shortcode: clarity
-name: {full: Clarity, aliases: []}
+name: {full: Clarity}
 type: mysticalability
 subType: arcaneincantation
 description: "Reveals truth; strips away glamour and shows reality plainly."

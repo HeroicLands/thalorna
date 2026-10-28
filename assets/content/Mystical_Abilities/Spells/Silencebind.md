@@ -1,6 +1,6 @@
 ---
 shortcode: slncbnd
-name: {full: Silencebind, aliases: []}
+name: {full: Silencebind}
 type: mysticalability
 subType: arcaneincantation
 description: "Silences target magically; prevents speech and spell-speaking."

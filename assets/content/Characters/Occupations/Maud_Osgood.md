@@ -1,6 +1,6 @@
 ---
 shortcode: maudosgood
-name: {full: Maud Osgood, aliases: []}
+name: {full: Maud Osgood}
 type: being
 subType: npc
 tags: [draft, common-folk]

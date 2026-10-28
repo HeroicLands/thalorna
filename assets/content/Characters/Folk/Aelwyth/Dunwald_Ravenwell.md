@@ -1,6 +1,6 @@
 ---
 shortcode: dunwaldraven
-name: {full: Dunwald Ravenwell, aliases: [Lord Dunwald Ravenwell, Lord Dunwald]}
+name: {full: Dunwald Ravenwell, aelw: [Lord Dunwald Ravenwell, Lord Dunwald]}
 type: being
 subType: npc
 description: A younger noble who arrived at Stormveil as the regional lord's military advisor, named in Thorir Eldskari.

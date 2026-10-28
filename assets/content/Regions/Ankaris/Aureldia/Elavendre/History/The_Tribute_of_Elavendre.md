@@ -1,6 +1,6 @@
 ---
 shortcode: elvtribute
-name: {full: The Tribute of Élavendre, aliases: [The Treaty of Valdun]}
+name: {full: The Tribute of Élavendre, en: [The Treaty of Valdun]}
 type: lore
 subType: history
 description: "From about 166 to 171 AF a Vylarian legion struck into the hills of Áuldalon and was harried into the forest margin, a cohort was lost, and Queen Réidane treated at Valdun: Élavendre kept its laws and its line and paid a yearly tribute in silver, and a Vylarian felzos took a house at Péravel."

@@ -1,6 +1,6 @@
 ---
 shortcode: palvothe
-name: {full: Palvote, aliases: []}
+name: {full: Palvote}
 type: place
 subType: settlement
 description: "The green hill town on the southern edge of the Túravel Hills—the southern gentry's summer refuge from the coastal heat, and the last comfortable place before the old country begins."

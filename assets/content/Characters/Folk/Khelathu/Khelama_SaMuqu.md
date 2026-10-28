@@ -1,6 +1,6 @@
 ---
 shortcode: khelamasamuq
-name: {full: Khelama Sa'Muku, aliases: [Lord Magistrate Khelama]}
+name: {full: Khelama Sa'Muku, en: [Lord Magistrate Khelama]}
 type: being
 subType: npc
 description: The city's principal judicial authority, who respects Thotkar Let'Gerau deeply.

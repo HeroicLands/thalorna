@@ -1,6 +1,6 @@
 ---
 shortcode: zamletuqaa
-name: {full: The Hymn of the Sun-Lord, aliases: [Zamlet elu Uqa'a]}
+name: {full: The Hymn of the Sun-Lord, khel: [zamlet elu uqa'a]}
 type: lore
 subType: literature
 description: "The Khelathi dawn hymn of the Coming-Forth as it is cut on the wall of the tomb of Khelansi under the Zelnut: one day of the sun from the eastern road to the night road and back, with the god's rest kept at every naming and a scribe's graffito beneath it."
@@ -24,7 +24,7 @@ data:
     - lore-khelathiclt
     - lore-crossmound
     - lore-akhsunroad
-  language: khelathlng
+  lang: khel
 
 # terran_analog: "The Great Hymn to the Aten and the hymns of the solar cycle, for one day of the sun told hour by hour and the catalogue of everything it lights; the Amduat's hours of the night, for the sun's passage under the earth counted out; tomb-wall copies of temple texts with the owner's name set into them; and the graffiti later scribes left in older tombs. Departs: no solar boat, the sun walks the night road on foot, the serpent is never named, and the god's name is sung with its rest held."
 ---

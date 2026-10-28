@@ -1,6 +1,6 @@
 ---
 shortcode: curseopenrod
-name: {full: Curse of the Open Road, aliases: []}
+name: {full: Curse of the Open Road}
 type: mysticalability
 subType: arcaneincantation
 description: "Lays a condition of misfortune on a named person that follows them wherever they go."

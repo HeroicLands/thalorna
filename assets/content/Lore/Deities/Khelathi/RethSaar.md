@@ -1,6 +1,6 @@
 ---
 shortcode: rethsaardty
-name: {full: Reth'Sa'ar, aliases: []}
+name: {full: Reth'Sa'ar}
 type: lore
 subType: deity
 tags: [draft]

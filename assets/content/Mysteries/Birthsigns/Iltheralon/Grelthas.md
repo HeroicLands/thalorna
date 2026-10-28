@@ -1,6 +1,6 @@
 ---
 shortcode: tragyx
-name: {full: Grelthas, aliases: []}
+name: {full: Grelthas}
 type: mystery
 subType: birthsign
 description: "The Stag: born to speak and to seek, equally useless at the anvil and in a fight."

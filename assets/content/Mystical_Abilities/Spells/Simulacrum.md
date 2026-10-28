@@ -1,6 +1,6 @@
 ---
 shortcode: smlcrm
-name: {full: Simulacrum, aliases: [False Soul]}
+name: {full: Simulacrum, en: [False Soul]}
 type: mysticalability
 subType: arcaneincantation
 description: "Creates temporary duplicate; copy mimics appearance and mannerism."

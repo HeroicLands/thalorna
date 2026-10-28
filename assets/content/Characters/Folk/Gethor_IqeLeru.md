@@ -1,6 +1,6 @@
 ---
 shortcode: gethoriqeler
-name: {full: Gethor Iqe'Leru, aliases: []}
+name: {full: Gethor Iqe'Leru}
 type: being
 subType: npc
 description: "A Legha'lutu and husband to the Thaz'Lekhau of Qe'aret, in a marriage the temple brokered and both parties have made work"

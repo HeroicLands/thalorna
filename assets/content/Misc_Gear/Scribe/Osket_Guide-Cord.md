@@ -1,6 +1,6 @@
 ---
 shortcode: guidecord
-name: {full: Osket Guide-Cord, aliases: []}
+name: {full: Osket Guide-Cord}
 type: miscgear
 description: "A knotted length of hide recording a route across the wall; unreadable to a lowlander and never sold to one."
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: bovine
-name: {full: Bovine, aliases: []}
+name: {full: Bovine}
 type: being
 subType: creature
 description: "A massive domesticated herbivore bred for docility and labor, standing up to six feet at the shoulder yet capable of goring the careless."

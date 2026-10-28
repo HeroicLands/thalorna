@@ -2,4 +2,14 @@
 "thalorna": patch
 ---
 
-The great-house people of the desert's northern rim are now the Turquoise People, the Teyumi in their own tongue: a culture with its history, its heroes and the drought it fears, the rain rites that rule its towns, the South House at the desert's gate, and the Teyumi Language with its own words and names.
+**Peoples and cultures**
+
+- The great-house people of the desert's northern rim are the Turquoise People, the Teyumi in their own tongue, with their history, their heroes, the drought they fear and the rain rites that rule their towns.
+
+**Places**
+
+- The South House at the desert's gate has its own page.
+
+**Languages and scripts**
+
+- The Teyumi Language has its own words and names.

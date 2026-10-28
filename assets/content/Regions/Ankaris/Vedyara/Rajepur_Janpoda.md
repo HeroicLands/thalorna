@@ -1,6 +1,6 @@
 ---
 shortcode: rajeprjnpd
-name: {full: Rajepur Janpoda, aliases: [The Janpoda of the King's-Town]}
+name: {full: The Janpoda of the King's-Town, vedy: [rajepur janpoda]}
 type: affiliation
 subType: polity
 description: The temple-republic of Rajepur—the villages of the central Mahanodi plain federated around the great Vyalendra temple raised on the ruins of an ancient royal capital, governed by a sabhra that famously displaced the failing kingdom whose seat Rajepur once was. The classical example of a janpoda that grew by replacing a kingdom rather than emerging beside one.

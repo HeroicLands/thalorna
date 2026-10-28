@@ -1,6 +1,6 @@
 ---
 shortcode: stormveld
-name: {full: Stormveld, aliases: []}
+name: {full: Stormveld}
 type: place
 subType: region
 description: "The land of the Jarldom of Stormveld—the fjord-cut north-east of Aelwyth, a fifth of the island, held by the Vardain as Vardanreach before the Nordmen took it."

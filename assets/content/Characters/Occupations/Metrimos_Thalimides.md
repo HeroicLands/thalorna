@@ -1,6 +1,6 @@
 ---
 shortcode: mtrmsthlmds
-name: {full: Métrimos Thálimides, aliases: []}
+name: {full: Métrimos Thálimides}
 type: being
 subType: npc
 tags: [draft, soldiery]

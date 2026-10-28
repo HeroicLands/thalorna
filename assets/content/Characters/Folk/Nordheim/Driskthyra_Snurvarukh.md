@@ -1,6 +1,6 @@
 ---
 shortcode: driskthyrasn
-name: {full: Driskthira Snurvaruk, aliases: [Magistrate Driskthira Snurvaruk]}
+name: {full: Driskthira Snurvaruk, en: [Magistrate Driskthira Snurvaruk]}
 type: being
 subType: npc
 description: A widowed magistrate who has quietly helped Ralthira Drekanótt survive.

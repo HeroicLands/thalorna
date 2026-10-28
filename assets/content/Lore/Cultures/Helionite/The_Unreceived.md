@@ -1,6 +1,6 @@
 ---
 shortcode: unreceived
-name: {full: The Unreceived, aliases: [The Levy on the Plain]}
+name: {full: The Unreceived, en: [The Levy on the Plain]}
 type: lore
 subType: literature
 description: "The choral odes of Theldos's tragedy of the Sour Plain, whose chorus is the dead levy of Korinthea standing in its ranks on the anniversary: the march out in the morning, the man on the rise who has no mask and no lines, the working that turned, the herald at the ring of stones who calls and cannot cross, the city that will not say it, and the ranks kept for an order that has not come."
@@ -19,7 +19,7 @@ data:
     - lore-ardavondty
     - lore-selmorosdty
     - lore-helioniteclt
-  language: helonclng
+  lang: helo
 
 # terran_analog: "Greek tragedy's choral odes, for the strophe and antistrophe matched line for line, the epode that stands after them, the parodos and the exodos, and the kommos the chorus sings with an actor; Aeschylus's Persians, a tragedy of a recent defeat staged before an audience that remembered it; and the Athenian fine on Phrynichus for staging the fall of Miletus, for a city's anger at a play that says aloud what it wishes unsaid."
 ---

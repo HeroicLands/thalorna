@@ -1,8 +1,9 @@
 ---
 shortcode: wansouzhuo
 name:
-  full: Wansou Zhuo
-  aliases: [The Chief Auditor of Souls, Singwou, The Ministry of Final Account]
+  full: The Chief Auditor of Souls
+  en: [The Ministry of Final Account]
+  tant: [Wansou Zhuo, Singwou]
 type: affiliation
 subType: faithtradition
 description: "Death."

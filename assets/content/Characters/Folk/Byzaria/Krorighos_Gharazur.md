@@ -1,6 +1,6 @@
 ---
 shortcode: krorighosgha
-name: {full: Krorighos Gharazur, aliases: [Lord Arsir Krorighos Gharazur]}
+name: {full: Krorighos Gharazur, en: [Lord Arsir Krorighos Gharazur]}
 type: being
 subType: npc
 description: A wealthy collector and patron of the arts who has commissioned several major pieces, named in Kalida Kourkásios.

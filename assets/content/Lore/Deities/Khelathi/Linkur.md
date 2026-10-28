@@ -1,6 +1,6 @@
 ---
 shortcode: linkurdty
-name: {full: Linkur, aliases: []}
+name: {full: Linkur}
 type: lore
 subType: deity
 tags: [draft]

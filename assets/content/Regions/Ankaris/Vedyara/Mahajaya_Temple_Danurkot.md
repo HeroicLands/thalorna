@@ -1,6 +1,6 @@
 ---
 shortcode: dnrktemple
-name: {full: The Mahajaya Temple at Danurkot, aliases: []}
+name: {full: The Mahajaya Temple at Danurkot}
 type: place
 subType: structure
 description: "The Mahajaya temple inside the bow-fort, whose senior priest convenes the sabhra and whose bowmen-priests keep the Watch of the Bow-String."

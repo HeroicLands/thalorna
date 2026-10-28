@@ -1,6 +1,6 @@
 ---
 shortcode: heladharbors
-name: {full: The War of the Harbors, aliases: [The Three Summers]}
+name: {full: The War of the Harbors, en: [The Three Summers]}
 type: lore
 subType: history
 description: "From about 548 to about 551 AF Pelagora closes the coast to Thirenaean and Kalidrian ships that will not pay its dues, and the Helionite cities fight each other for the first time in eight and a half centuries: three summers of battle end with no border moved, every herald crossing every field and every city taking its dead home."

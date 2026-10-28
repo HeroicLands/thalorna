@@ -1,6 +1,6 @@
 ---
 shortcode: kaliharargn
-name: {full: Kalihara Region, aliases: []}
+name: {full: Kalihara Region}
 type: place
 subType: region
 description: The inhabited country of the island of Kalihara—jungle lowlands, terraced river valleys, a ring of tall mountains and a great central bowl with a lake, held by a single civilization that has faced inward for ten thousand years.

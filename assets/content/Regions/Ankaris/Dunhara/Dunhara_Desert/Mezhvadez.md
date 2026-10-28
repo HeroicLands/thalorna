@@ -1,6 +1,6 @@
 ---
 shortcode: mezhvadez
-name: {full: Mezhvadez, aliases: [The Dry Stair, The Keeper's Vault]}
+name: {full: The Dry Stair, en: [The Keeper's Vault], dunh: [mezhvadez]}
 type: place
 subType: site
 description: "A tomb-vault of a people older than the tribes, buried under a dune sea and opened by the wind at long intervals, where the keeper of a lost king's household guards what the sand has hidden."

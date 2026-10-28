@@ -1,6 +1,6 @@
 ---
 shortcode: eshalshldg
-name: {full: Ésalosa Lodge, aliases: []}
+name: {full: Ésalosa Lodge}
 type: place
 subType: settlement
 description: "Áelendan settlement and ceremonial center"

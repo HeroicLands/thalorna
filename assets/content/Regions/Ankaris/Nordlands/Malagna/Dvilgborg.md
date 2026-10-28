@@ -1,6 +1,6 @@
 ---
 shortcode: dvilgborg
-name: {full: Dvilgborg, aliases: []}
+name: {full: Dvilgborg}
 type: place
 subType: structure
 description: "A garrisoned stronghold of Malagna whose Master-at-Arms trains its recruits and runs its daily operations."

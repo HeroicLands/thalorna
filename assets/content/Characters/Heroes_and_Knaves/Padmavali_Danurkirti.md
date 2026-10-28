@@ -1,6 +1,6 @@
 ---
 shortcode: pdmvldnrkrt
-name: {full: Padmavali Danurkirti, given: Padmavali, clan: Danurkirti, aliases: [Padmi]}
+name: {full: Padmavali Danurkirti, given: Padmavali, clan: Danurkirti, vedy: [padmi]}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]

@@ -1,6 +1,6 @@
 ---
 shortcode: maguathen
-name: {full: Magu-Thelqen, aliases: []}
+name: {full: Magu-Thelqen}
 type: place
 subType: settlement
 description: "Selat capital of Magu-Thelqen."

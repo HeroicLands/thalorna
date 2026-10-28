@@ -1,6 +1,6 @@
 ---
 shortcode: melkaground
-name: {full: The Melka Ground, aliases: []}
+name: {full: The Melka Ground}
 type: place
 subType: site
 description: "The plain at the Mahanodi's great confluence, empty for eleven years in twelve and holding a quarter of a million people in the twelfth."

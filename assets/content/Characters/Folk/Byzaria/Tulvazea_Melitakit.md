@@ -1,6 +1,6 @@
 ---
 shortcode: tulvazeameli
-name: {full: Tulvazea Melitakit, aliases: [Lady Tulvazea Melitakit, Lady Tulvazea]}
+name: {full: Tulvazea Melitakit, en: [Lady Tulvazea Melitakit, Lady Tulvazea]}
 type: being
 subType: npc
 description: A noblewoman of conscience who uses her influence to connect Fileze Stenikot with communities in need of protection.

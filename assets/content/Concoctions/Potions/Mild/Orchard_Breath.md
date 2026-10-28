@@ -1,6 +1,6 @@
 ---
 shortcode: ptnaromm
-name: {full: Orchard Breath, aliases: ["Potion, Aromatic, Mild"]}
+name: {full: Orchard Breath, en: ["Potion, Aromatic, Mild"]}
 type: concoctiongear
 subType: exotic
 description: "Pale golden honey-like liquid; sweetens disposition and charm."

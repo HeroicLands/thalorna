@@ -1,6 +1,6 @@
 ---
 shortcode: threats
-name: {full: Threats, aliases: []}
+name: {full: Threats}
 type: doc
 subType: concept
 tags: [gm]

@@ -1,6 +1,6 @@
 ---
 shortcode: arldnpnthn
-name: {full: Aureldian Pantheon, aliases: [The Twelve]}
+name: {full: Aureldian Pantheon, en: [The Twelve]}
 type: affiliation
 subType: faithtradition
 description: "Western tradition honoring twelve deities governing creation, order, and the cycles of life; split by the Ústaran schism between sacred forge and black flame."

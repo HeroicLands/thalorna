@@ -1,6 +1,6 @@
 ---
 shortcode: armndhldskrn
-name: {full: Armund yra Hildskorn wur Falkenstein, aliases: []}
+name: {full: Armund yra Hildskorn wur Falkenstein}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

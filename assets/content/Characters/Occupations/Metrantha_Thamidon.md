@@ -1,6 +1,6 @@
 ---
 shortcode: mtrnthmdn
-name: {full: Métrantha Thamidon, aliases: []}
+name: {full: Métrantha Thamidon}
 type: being
 subType: npc
 tags: [draft, common-folk]

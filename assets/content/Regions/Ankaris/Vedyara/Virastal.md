@@ -1,6 +1,6 @@
 ---
 shortcode: virastal
-name: {full: Virastal, aliases: []}
+name: {full: Virastal}
 type: place
 subType: settlement
 description: "Sentija lineage village on the hill above the ford, which sends more men to the muster than any other."

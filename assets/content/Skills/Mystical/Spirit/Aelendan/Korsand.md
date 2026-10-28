@@ -1,6 +1,6 @@
 ---
 shortcode: porsandsprt
-name: {full: "Korsand Spirit Power", aliases: ["Korsand, the Grey Wolf of the Ridge"]}
+name: {full: Korsand Spirit Power, en: ["Korsand, the Grey Wolf of the Ridge"]}
 type: skill
 subType: mystical
 description: "Standing with Korsand, the Grey Wolf of the Ridge—what this allied Kindred is met, asked and bargained with."

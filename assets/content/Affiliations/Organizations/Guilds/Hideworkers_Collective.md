@@ -1,6 +1,6 @@
 ---
 shortcode: hideworkerscltv
-name: {full: Hideworkers' Collective, aliases: []}
+name: {full: Hideworkers' Collective}
 type: affiliation
 subType: guild
 description: "A collective of hideworkers—the tanners, curriers and leatherdressers of a trade kept at arm's length from the cities it supplies."

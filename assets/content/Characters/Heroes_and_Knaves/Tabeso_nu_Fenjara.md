@@ -1,6 +1,6 @@
 ---
 shortcode: tabesnfnjr
-name: {full: Tabeso nu Fénjara, given: Tabeso, clan: Fénjara, aliases: [The Spirit Tracker]}
+name: {full: Tabeso nu Fénjara, given: Tabeso, clan: Fénjara, en: [The Spirit Tracker]}
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, tradesfolk]

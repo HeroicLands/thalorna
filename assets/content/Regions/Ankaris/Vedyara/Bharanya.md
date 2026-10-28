@@ -1,6 +1,6 @@
 ---
 shortcode: bharanya
-name: {full: Bharanya, aliases: []}
+name: {full: Bharanya}
 type: place
 subType: settlement
 description: "The pilgrim town of the lower Mahanodi, built on mounds around one of the three great Mahajaya temples of inland Vedyara."

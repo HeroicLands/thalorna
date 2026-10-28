@@ -1,6 +1,6 @@
 ---
 shortcode: gldbrdshmlr
-name: {full: Guild Board of Shamular, aliases: []}
+name: {full: Guild Board of Shamular}
 type: affiliation
 subType: polity
 description: "The guild families who govern the merchant town of Shamular."

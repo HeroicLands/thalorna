@@ -1,6 +1,6 @@
 ---
 shortcode: khezotontros
-name: {full: Kezoton Trosuskar, aliases: [Holmarendos Kezoton Trosuskar]}
+name: {full: Kezoton Trosuskar, en: [Holmarendos Kezoton Trosuskar]}
 type: being
 subType: npc
 description: Holmarendos (prelate) of the Zefaris Zulen and the elderly senior master of the Epistémion in Bizaris, named in Dókhehran Fefes.

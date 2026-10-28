@@ -1,6 +1,6 @@
 ---
 shortcode: chayavreta
-name: {full: The Chaya-vreta, aliases: [Chaya-vreta, The Shadow-Vow]}
+name: {full: The Chaya-vreta, en: [The Shadow-Vow], vedy: [chaya-vreta]}
 type: affiliation
 subType: criminal
 description: "The shadow-vow—a lapsed dream-line that works the waking dream, condemned by the Council of the Dream, pursued by nobody, and the origin of the shadow-brotherhoods that train Vedyara's assassins."

@@ -1,6 +1,6 @@
 ---
 shortcode: vurdil
-name: {full: Vurdish, aliases: [The Way Down]}
+name: {full: Vurdish, en: [The Way Down]}
 type: place
 subType: site
 description: "A labyrinth of cut passages climbing into the Grazian Mountains from the foot of the north face, which the Tellumi hold to be the road their ancestors came down."

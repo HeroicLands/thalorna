@@ -1,6 +1,6 @@
 ---
 shortcode: zhenho
-name: {full: "Ritual: Zhinho", aliases: [Zhinho, The Minister of Fire]}
+name: {full: "Ritual: Zhinho", en: [The Minister of Fire], tant: [Zhinho]}
 type: skill
 subType: mystical
 tags: [tengwou, faith-skill, draft]

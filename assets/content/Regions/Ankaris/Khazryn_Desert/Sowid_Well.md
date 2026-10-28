@@ -1,6 +1,6 @@
 ---
 shortcode: sowidwell
-name: {full: Sovid, aliases: [The Riders' Well]}
+name: {full: Sovid, en: [The Riders' Well]}
 type: place
 subType: site
 description: "The cleft well on the edge of the stone desert where the riders of the Central Sands hand a caravan to the riders of Idvaqor, and where the cold begins."

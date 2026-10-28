@@ -1,6 +1,6 @@
 ---
 shortcode: sklfvrasgrnd
-name: {full: Skilfvir Asgrind, aliases: []}
+name: {full: Skilfvir Asgrind}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

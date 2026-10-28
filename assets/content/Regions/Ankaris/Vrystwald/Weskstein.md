@@ -1,6 +1,6 @@
 ---
 shortcode: weskstein
-name: {full: Weskstein, aliases: []}
+name: {full: Weskstein}
 type: place
 subType: settlement
 description: "A Varokh village in Skathwald that grew up round the standing stone where one of the lost villages kept its totem."

@@ -1,6 +1,6 @@
 ---
 shortcode: tharivaan
-name: {full: "Ritual: Thári'vaan", aliases: [Thári'vaan, The Living Whole]}
+name: {full: "Ritual: Thári'vaan", en: [The Living Whole], kali: [Thári'vaan]}
 type: skill
 subType: mystical
 tags: [tharivaan, faith-skill, draft]

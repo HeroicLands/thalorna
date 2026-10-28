@@ -1,6 +1,6 @@
 ---
 shortcode: chauthamegit
-name: {full: Chautha-Megit, aliases: []}
+name: {full: Chautha-Megit}
 type: place
 subType: settlement
 description: "A fishing-and-ferry community of the marsh-channels around Gar-Anlaghet, living by its boats, its nets, and the custom of the great port"

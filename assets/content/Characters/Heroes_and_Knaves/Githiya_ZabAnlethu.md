@@ -1,6 +1,6 @@
 ---
 shortcode: githiyzbnlth
-name: {full: Githiya Zab'Anlethu, given: Githiya, clan: Zab'Anlethu, aliases: []}
+name: {full: Githiya Zab'Anlethu, given: Githiya, clan: Zab'Anlethu}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]

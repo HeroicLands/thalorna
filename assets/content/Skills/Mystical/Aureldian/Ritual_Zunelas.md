@@ -1,6 +1,6 @@
 ---
 shortcode: zunelas
-name: {full: "Ritual: Zunelas", aliases: [Zunelas, The Veiled Dreamer]}
+name: {full: "Ritual: Zunelas", en: [Zunelas, The Veiled Dreamer]}
 type: skill
 subType: mystical
 tags: [aureldian, faith-skill, draft]

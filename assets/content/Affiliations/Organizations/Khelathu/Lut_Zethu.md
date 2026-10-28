@@ -1,6 +1,6 @@
 ---
 shortcode: lutzethu
-name: {full: Lut-Zethu, aliases: [Imperial Library]}
+name: {full: Lut-Zethu, en: [Imperial Library]}
 type: affiliation
 subType: governmental
 description: The empire's collection of texts, held under the hand of the scribes and closed to most who would read there

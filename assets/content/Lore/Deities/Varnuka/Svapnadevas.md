@@ -1,6 +1,6 @@
 ---
 shortcode: svapnadevasdty
-name: {full: Svapnadevas, aliases: []}
+name: {full: Svapnadevas}
 type: lore
 subType: deity
 description: "The Dreaming Host of the Varnuka pantheon—a celestial host of dreams honored at the edges of the day, with no priesthood of its own."

@@ -1,6 +1,6 @@
 ---
 shortcode: haluozhao
-name: {full: Ha Luo Zhao, aliases: [The Black Lotus Society, The Black Lotus]}
+name: {full: The Black Lotus Society, en: [The Black Lotus], tant: [Ha Luo Zhao]}
 type: affiliation
 subType: criminal
 description: "Black Lotus Society operating through bureaucratic leverage, moral ledgers, and spiritual manipulation within Tantsou's classification system."

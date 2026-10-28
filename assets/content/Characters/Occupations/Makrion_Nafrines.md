@@ -1,6 +1,6 @@
 ---
 shortcode: makrinfrns
-name: {full: Mákrion Nafrines, aliases: []}
+name: {full: Mákrion Nafrines}
 type: being
 subType: npc
 tags: [draft, mages]

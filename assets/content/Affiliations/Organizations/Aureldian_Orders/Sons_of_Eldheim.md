@@ -1,6 +1,6 @@
 ---
 shortcode: sonsmuspell
-name: {full: The Sons of Eldheim, aliases: []}
+name: {full: The Sons of Eldheim}
 type: affiliation
 subType: order
 description: "A Black Flame military order established in Stormveld and campaigning to seize Varokhi land as a way into the Nordlands."

@@ -1,6 +1,6 @@
 ---
 shortcode: folmhnura
-name: {full: Folmhnura, aliases: [The Sickness-Lament]}
+name: {full: Folmhnura, en: [The Sickness-Lament]}
 type: lore
 subType: literature
 description: "A shipwright's lament for her daughter dead of fever, made as a suit at the ting inside the grave-ale at Gnarthborg and sung by the women of the Malagna yards for every sickness death."
@@ -9,7 +9,7 @@ data:
   packFolder: nordlands
   culture: nordheimnclt
   form: hnura
-  language: nordmalng
+  lang: nord
   subjects:
     - lore-nrdlndsfnrl
     - place-nulthey

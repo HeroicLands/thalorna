@@ -1,6 +1,6 @@
 ---
 shortcode: hvirnynda
-name: {full: Hvirninda, aliases: [Master Hvirninda]}
+name: {full: Hvirninda, en: [Master Hvirninda]}
 type: being
 subType: npc
 description: A wealthy scholar who commissions Hvarnthann Stormrót to sail to the Shattered Archipelago in search of ancient ruins of the Old Kingdom.

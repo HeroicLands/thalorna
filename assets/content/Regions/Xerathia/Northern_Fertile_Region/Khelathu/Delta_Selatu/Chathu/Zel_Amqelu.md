@@ -1,6 +1,6 @@
 ---
 shortcode: zelamqelu
-name: {full: Zel-Amqelu, aliases: [The Burned Port]}
+name: {full: Zel-Amqelu, en: [The Burned Port]}
 type: place
 subType: site
 description: "The delta port the sea-raiders burned in 1960 ST (151 BF), a reed-grown mound on a silt-island of the Selat of Chathu whose channel has moved away: a pylon standing out of it, smugglers' landing at its back, and the raiders' own dead in the temple court."

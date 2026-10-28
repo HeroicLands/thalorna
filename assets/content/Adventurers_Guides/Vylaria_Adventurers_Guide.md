@@ -1,6 +1,6 @@
 ---
 shortcode: vylariaadvguide
-name: {full: Vylaria Adventurer's Guide, aliases: []}
+name: {full: Vylaria Adventurer's Guide}
 type: doc
 subType: settingguide
 description: A player and GM introduction to the Vylarian Empire—Orzara, the four provinces, the legions, the Thordimalon, the citizenship, and the ways a campaign begins there.

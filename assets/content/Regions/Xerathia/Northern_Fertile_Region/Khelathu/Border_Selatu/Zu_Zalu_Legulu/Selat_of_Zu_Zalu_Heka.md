@@ -1,6 +1,6 @@
 ---
 shortcode: selatzuzllgl
-name: {full: The Selat of Zu-Zalu-Legulu, aliases: []}
+name: {full: The Selat of Zu-Zalu-Legulu}
 type: affiliation
 subType: polity
 description: "The great southern march of Au'Khelathu—the cataract frontier where the river breaks into rapids and the empire ends, held by a soldier-Halzi'a who commands the fortress-line, taxes the gold-and-ivory road from the deep south, and watches the tribal lands beyond."

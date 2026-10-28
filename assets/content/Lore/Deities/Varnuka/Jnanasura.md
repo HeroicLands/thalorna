@@ -1,6 +1,6 @@
 ---
 shortcode: jnanasuradty
-name: {full: Jnanasura, aliases: []}
+name: {full: Jnanasura}
 type: lore
 subType: deity
 description: "The Radiant Sage of the Varnuka pantheon—knowledge arriving rather than knowledge stored, and the interior light a scholar or a soldier reads by."

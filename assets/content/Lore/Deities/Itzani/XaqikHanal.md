@@ -1,6 +1,6 @@
 ---
 shortcode: xaqikhanaldty
-name: {full: Shaq'ik Ha'nal, aliases: []}
+name: {full: Shaq'ik Ha'nal}
 type: lore
 subType: deity
 description: "The Blossom of Living Waters, newest of the Itsani Ten—fertility, healing, and guardianship of the sacred pools."

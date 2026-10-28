@@ -1,6 +1,6 @@
 ---
 shortcode: dvurnthannal
-name: {full: Dvurnthann Althendik, aliases: [Lord Dvurnthann Althendik, Lord Dvurnthann]}
+name: {full: Dvurnthann Althendik, en: [Lord Dvurnthann Althendik, Lord Dvurnthann]}
 type: being
 subType: npc
 description: An ambitious noble whose assassination attempt Thraldorv Vornheim once thwarted.

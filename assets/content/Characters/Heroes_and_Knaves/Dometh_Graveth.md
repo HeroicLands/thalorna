@@ -1,6 +1,6 @@
 ---
 shortcode: domthgrvth
-name: {full: Dometh Graveth, given: Dometh, clan: Graveth, aliases: []}
+name: {full: Dometh Graveth, given: Dometh, clan: Graveth}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]

@@ -1,6 +1,6 @@
 ---
 shortcode: argyrteikhos2
-name: {full: Argirteikhos, aliases: []}
+name: {full: Argirteikhos}
 type: place
 subType: settlement
 description: "The Silver Citadel, a garrison city astride the League's principal eastern pass, whose mines pay for the League's defense."

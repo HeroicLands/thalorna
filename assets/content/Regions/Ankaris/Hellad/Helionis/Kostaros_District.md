@@ -1,6 +1,6 @@
 ---
 shortcode: kostarosdst
-name: {full: Kostaros District, aliases: []}
+name: {full: Kostaros District}
 type: place
 subType: region
 description: "The land of the Helionite city-state of Kostaros—the coastal district it governs, including the town of Mirtelos."

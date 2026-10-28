@@ -1,6 +1,6 @@
 ---
 shortcode: hvurnrinna
-name: {full: Hvurnrinna, aliases: [The Widow Hvurnrinna]}
+name: {full: Hvurnrinna, en: [The Widow Hvurnrinna]}
 type: being
 subType: npc
 description: An elderly widow of considerable means who has adopted Althinda Eldskari as something of a spiritual protégé.

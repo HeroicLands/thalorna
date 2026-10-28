@@ -1,6 +1,6 @@
 ---
 shortcode: yiqnotud
-name: {full: Yiqnotud, aliases: [The Steppe Hunter]}
+name: {full: Yiqnotud, en: [The Steppe Hunter]}
 type: being
 subType: creature
 description: "The steppe's name for the semi-material predator spirits that cross on thin blood-fields at night and kill the living they find there."

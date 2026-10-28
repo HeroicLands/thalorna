@@ -1,6 +1,6 @@
 ---
 shortcode: hedgehogttm
-name: {full: Hedgehog, aliases: [Hedgehog Totem]}
+name: {full: Hedgehog, en: [Hedgehog Totem]}
 type: lore
 subType: bestiary
 description: "The hedgehog as a totemic ideal, and the human character it describes."

@@ -1,6 +1,6 @@
 ---
 shortcode: blgnrskn
-name: {full: Belgina Rusakuni, given: Belgina, clan: Rusakuni, aliases: []}
+name: {full: Belgina Rusakuni, given: Belgina, clan: Rusakuni}
 type: being
 subType: character
 tags: [tamzir-crew, tradesfolk]

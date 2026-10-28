@@ -1,6 +1,6 @@
 ---
 shortcode: iaqetleqa
-name: {full: Iaqet-Leqa, aliases: []}
+name: {full: Iaqet-Leqa}
 type: place
 subType: settlement
 description: "Selat capital of Iaqet-Leqa."

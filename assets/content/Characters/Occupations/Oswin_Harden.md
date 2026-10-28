@@ -1,6 +1,6 @@
 ---
 shortcode: oswinhardn
-name: {full: Kuthstan Harden, aliases: []}
+name: {full: Kuthstan Harden}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]

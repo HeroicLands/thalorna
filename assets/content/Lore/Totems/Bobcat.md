@@ -1,6 +1,6 @@
 ---
 shortcode: bobcatttm
-name: {full: Bobcat, aliases: [Bobcat Totem]}
+name: {full: Bobcat, en: [Bobcat Totem]}
 type: lore
 subType: bestiary
 description: "The bobcat as a totemic ideal, and the human character it describes."

@@ -1,12 +1,12 @@
 ---
 shortcode: bethuanclt
-name: {full: Bethuan, aliases: []}
+name: {full: Bethuan}
 type: lore
 subType: culture
 description: "The Bethuan—their beliefs, their mores, and what they hold a person owes."
 tags: []
 data:
-  language: skill-bethunlng
+  lang: beth
   glossary:
     - name: "dómissa"
       definition: "A House-Mother, matriarch of a House and member of the Council of Houses; pl. Dómissai"

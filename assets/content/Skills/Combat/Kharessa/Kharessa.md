@@ -1,6 +1,6 @@
 ---
 shortcode: charissa
-name: {full: Kharessa, aliases: [The Grace]}
+name: {full: Kharessa, en: [The Grace]}
 type: skill
 subType: combat
 description: "The Bethuan open-hand and kicking art, built on speed, that lets a trained woman best a larger, stronger opponent."

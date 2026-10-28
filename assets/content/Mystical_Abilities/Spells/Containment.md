@@ -1,6 +1,6 @@
 ---
 shortcode: cntnmnt
-name: {full: Containment, aliases: []}
+name: {full: Containment}
 type: mysticalability
 subType: arcaneincantation
 description: "Reinforced cage of force imprisons; resists magic attempting break."

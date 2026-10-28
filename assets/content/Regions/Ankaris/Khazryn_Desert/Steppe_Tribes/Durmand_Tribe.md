@@ -1,6 +1,6 @@
 ---
 shortcode: drmndtrb
-name: {full: Durmand, aliases: []}
+name: {full: Durmand}
 type: affiliation
 subType: polity
 description: "A horse-breeding tribe of the eastern grass whose wells held in a drought year and whose traders sell to every camp."

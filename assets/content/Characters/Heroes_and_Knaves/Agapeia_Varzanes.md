@@ -1,6 +1,6 @@
 ---
 shortcode: agapevrzns
-name: {full: Agápeia Varzanes, given: Agápeia, clan: Varzanes, aliases: []}
+name: {full: Agápeia Varzanes, given: Agápeia, clan: Varzanes}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]

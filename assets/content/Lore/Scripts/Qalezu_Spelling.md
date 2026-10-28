@@ -1,6 +1,6 @@
 ---
 shortcode: atarqalezuenc
-name: {full: Atárzadi Qalezu Encoding, aliases: []}
+name: {full: Atárzadi Qalezu Encoding}
 type: doc
 subType: reference
 data:

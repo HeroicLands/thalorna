@@ -1,6 +1,6 @@
 ---
 shortcode: rinjaidmn
-name: {full: Rinjai Domain, aliases: [House Rinjai]}
+name: {full: Rinjai Domain, en: [House Rinjai]}
 type: affiliation
 subType: polity
 description: "The domain of House Rinjai—Rinjai, the red mountain of the lesser island at the strait's mouth, a raiders' harbor held from Rinwu by a lord of twenty-nine sworn to Shuiwojai."

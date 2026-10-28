@@ -1,6 +1,6 @@
 ---
 shortcode: prthnblthl
-name: {full: Parthun Pelthal, given: Parthun, clan: Pelthal, aliases: []}
+name: {full: Parthun Pelthal, given: Parthun, clan: Pelthal}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, administration]

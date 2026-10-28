@@ -1,6 +1,6 @@
 ---
 shortcode: piqalkulqat
-name: {full: "Ritual: P'iqal Kul'qat", aliases: [P'iqal Kul'qat, Builder of the Sacred Peak]}
+name: {full: "Ritual: P'iqal Kul'qat", en: [Builder of the Sacred Peak], kiichek: [P'iqal Kul'qat]}
 type: skill
 subType: mystical
 tags: [itzani, faith-skill, draft]

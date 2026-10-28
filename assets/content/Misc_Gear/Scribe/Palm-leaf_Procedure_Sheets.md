@@ -1,6 +1,6 @@
 ---
 shortcode: palmleafsheets
-name: {full: "Palm-leaf Procedure Sheets", aliases: []}
+name: {full: Palm-leaf Procedure Sheets}
 type: miscgear
 description: "The fresh palm-leaf transcription of a work's procedure, written from memory at a Seasonal Recitation and set against the archived record."
 tags: [kalihara]

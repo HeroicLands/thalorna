@@ -1,6 +1,6 @@
 ---
 shortcode: venthelenkal
-name: {full: Venthelen Kaldremis, aliases: [Captain Kaldremis]}
+name: {full: Venthelen Kaldremis, en: [Captain Kaldremis]}
 type: being
 subType: npc
 description: A gruff but fair-minded captain of the merchant vessel Seaflower who trained Branalenis Bárkalas.

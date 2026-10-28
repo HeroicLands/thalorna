@@ -1,6 +1,6 @@
 ---
 shortcode: ravenswood
-name: {full: Ravenswood, aliases: []}
+name: {full: Ravenswood}
 type: place
 subType: feature
 description: "A wood astride Bizaria's eastern trade routes and home ground of the Ravenswood Brigands, who demand tribute from the caravans that pass."

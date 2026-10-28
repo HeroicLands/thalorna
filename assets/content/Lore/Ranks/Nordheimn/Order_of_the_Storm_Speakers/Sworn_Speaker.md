@@ -1,6 +1,6 @@
 ---
 shortcode: swornspkrrnk
-name: {full: "Sworn Speaker", aliases: [Stormmelir]}
+name: {full: Sworn Speaker, nord: [stormmelir]}
 type: lore
 subType: law
 description: "The full member of the Order of the Storm-Speakers, acting on the order's behalf across the Nordlands."

@@ -1,6 +1,6 @@
 ---
 shortcode: craft
-name: {full: Craft, aliases: []}
+name: {full: Craft}
 type: mysticalability
 subType: arcaneincantation
 description: "Shapes and binds materials together; crafts items from raw substance."

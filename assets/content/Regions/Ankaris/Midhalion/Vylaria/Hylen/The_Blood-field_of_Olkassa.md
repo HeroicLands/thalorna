@@ -1,6 +1,6 @@
 ---
 shortcode: olcassafld
-name: {full: The Blood-field of Olkassa, aliases: [The Field of Both Eagles, Olkassa]}
+name: {full: The Blood-field of Olkassa, en: [The Field of Both Eagles], vyl: [Olkassa]}
 type: place
 subType: site
 description: "The wheat-field on the Olkassa estate in Hilen where Vylarian legions killed one another about 401 AF: a moderate quickening that brings the grain in a fortnight early and half again as heavy, farmed in silence and sold into the state granaries for the dole."

@@ -1,6 +1,6 @@
 ---
 shortcode: elavendreadvguide
-name: {full: Élavendre Adventurer's Guide, aliases: []}
+name: {full: Élavendre Adventurer's Guide}
 type: doc
 subType: settingguide
 description: A short player and GM introduction to Élavendre—its houses and bards, the tree line the crown does not cross, and the ways a campaign begins there.

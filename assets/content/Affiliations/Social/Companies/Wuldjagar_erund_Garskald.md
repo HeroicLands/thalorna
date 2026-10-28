@@ -2,7 +2,7 @@
 shortcode: wldjgrrndgrskld
 name:
   full: Wuljagar erund Garskald
-  aliases: [Hunters of the Deep Forest, Wild Hunt of the Speakers of the Spear]
+  en: [Hunters of the Deep Forest, Wild Hunt of the Speakers of the Spear]
 type: affiliation
 subType: order
 description: "Vristwald hunters bound by sacred obligation to feed their clan through skill, tradition, and knowledge of forest depths that no outsider can fully comprehend."

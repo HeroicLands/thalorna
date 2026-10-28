@@ -1,6 +1,6 @@
 ---
 shortcode: iuthnetselat
-name: {full: Iuthnet Selat, aliases: []}
+name: {full: Iuthnet Selat}
 type: place
 subType: region
 description: "Healing-temples and birth-shrines; the great cult of the mother-goddess—the land of the Selat of Iuthnet, one of the upper-river selatu of Au'Khelathu."

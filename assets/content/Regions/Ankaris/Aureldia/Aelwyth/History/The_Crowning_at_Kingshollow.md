@@ -1,6 +1,6 @@
 ---
 shortcode: kingshlwcrwn
-name: {full: The Crowning at Kingshollow, aliases: [The First Crowning of Aldorath]}
+name: {full: The Crowning at Kingshollow, en: [The First Crowning of Aldorath]}
 type: lore
 subType: history
 description: "About 120 AF the eastern barons of Aelwyth accepted Drethar of Kingshollow, one of their own, as king; the kings of Aldorath are crowned in the same chapel and buried in the same ground."

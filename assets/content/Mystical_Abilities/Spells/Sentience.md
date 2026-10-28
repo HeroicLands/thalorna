@@ -1,6 +1,6 @@
 ---
 shortcode: sntnc
-name: {full: Sentience, aliases: []}
+name: {full: Sentience}
 type: mysticalability
 subType: arcaneincantation
 description: "Grants awareness to construct; creature gains rudimentary agency."

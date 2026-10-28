@@ -1,6 +1,6 @@
 ---
 shortcode: weighingscale
-name: {full: "Mahajaya's Touched Scale", aliases: [The Weighing's Scale]}
+name: {full: Mahajaya's Touched Scale, en: [The Weighing's Scale]}
 type: miscgear
 description: "The beam scale of Suvargeri's central temple weighing-station, blessed and read in open sabhra session at every new moon."
 tags: []

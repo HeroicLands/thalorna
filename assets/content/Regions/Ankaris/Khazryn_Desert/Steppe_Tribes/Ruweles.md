@@ -1,6 +1,6 @@
 ---
 shortcode: rwlstrb
-name: {full: Uruvolur, aliases: [Hidden-Water Bands]}
+name: {full: Uruvolur, en: [Hidden-Water Bands]}
 type: affiliation
 subType: polity
 description: "The small kin-groups of the deep sands who keep waters nobody else knows and hire out as guides."

@@ -1,6 +1,6 @@
 ---
 shortcode: zipugosgefyr
-name: {full: Zipugos Gefirikot, aliases: [Lord Zipugos]}
+name: {full: Zipugos Gefirikot, en: [Lord Zipugos]}
 type: being
 subType: npc
 description: An aging administrator who conducts much of his actual governance from a corner table, named in Stemios Hodikot.

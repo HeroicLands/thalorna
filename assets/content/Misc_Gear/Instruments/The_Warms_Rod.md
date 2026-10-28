@@ -1,6 +1,6 @@
 ---
 shortcode: warmsrod
-name: {full: "The Warm's Rod", aliases: []}
+name: {full: The Warm's Rod}
 type: miscgear
 description: "A living held stone of the Warm, shaped as a rod a forearm long, which warms in the hand while the Warm is tended and cools as the Warm cools."
 tags: [kaan-sul, kalihara]

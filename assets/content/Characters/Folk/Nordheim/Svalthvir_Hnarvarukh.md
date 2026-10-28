@@ -1,6 +1,6 @@
 ---
 shortcode: svalthvirhna
-name: {full: Svalthvir Hnarvaruk, aliases: [Duke Svalthvir Hnarvaruk]}
+name: {full: Svalthvir Hnarvaruk, en: [Duke Svalthvir Hnarvaruk]}
 type: being
 subType: npc
 description: A wealthy warrior nobleman who commissions formal garments from Skraldthann Hrafansvald.

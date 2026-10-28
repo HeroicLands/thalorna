@@ -1,6 +1,6 @@
 ---
 shortcode: swfthndbw
-name: {full: Swift Hand Horse-Bow, aliases: []}
+name: {full: Swift Hand Horse-Bow}
 type: weapongear
 description: "Short recurved composite bow of the Swift Hand academy, drawn and loosed from horseback."
 tags: []

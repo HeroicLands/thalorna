@@ -1,6 +1,6 @@
 ---
 shortcode: khazrilng
-name: {full: Tellumi Language, aliases: []}
+name: {full: Tellumi Language}
 type: skill
 subType: language
 description: "The measured, liquid tongue of the Tellumi, the old oasis people at the foot of the Grazian Mountains."

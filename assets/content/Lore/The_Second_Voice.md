@@ -1,6 +1,6 @@
 ---
 shortcode: secondvoice
-name: {full: The Second Voice, aliases: [Zugán]}
+name: {full: The Second Voice, khaz: [zugán]}
 type: miscgear
 description: "The relic that severs Grukar from their Ahks and commands them directly—the weapon that destroyed Khazartúrn, the cause of the sundering between the elder races, and lost at sea with six ships and every soul aboard on a crossing from Élavendre that never arrived."
 tags: [artifact]

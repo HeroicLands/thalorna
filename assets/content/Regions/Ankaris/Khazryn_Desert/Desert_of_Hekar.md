@@ -1,6 +1,6 @@
 ---
 shortcode: hekardesert
-name: {full: Desert of Hek'ar, aliases: []}
+name: {full: Desert of Hek'ar}
 type: place
 subType: feature
 description: "A barren tract on the Khazryn's western margin below Bizaria's Eastern March, raided by Black Flame knights and burying the Ruins of Arkor."

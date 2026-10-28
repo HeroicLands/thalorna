@@ -1,6 +1,6 @@
 ---
 shortcode: snilthannthe
-name: {full: Snilthann the Younger, aliases: []}
+name: {full: Snilthann the Younger}
 type: being
 subType: npc
 description: The youngest child of Rulthvir Jarnskel, the only one to show the passion for herding that defines the Jarnskel line.

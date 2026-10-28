@@ -1,6 +1,6 @@
 ---
 shortcode: mngbhmth
-name: {full: Mangrove Behemoth, aliases: [Vaarvanu]}
+name: {full: Mangrove Behemoth, kali: [Vaarvanu]}
 type: being
 subType: creature
 description: "A reptilian predator of some fifteen hundred pounds and up to eighteen feet long, its mottled gray-green bulk topped by a broad head whose jaws unhinge alarmingly wide."

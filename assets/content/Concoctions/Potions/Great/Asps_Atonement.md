@@ -1,6 +1,6 @@
 ---
 shortcode: ptnantvg
-name: {full: "Asp's Atonement", aliases: ["Potion, Antivenin, Great"]}
+name: {full: Asp's Atonement, en: ["Potion, Antivenin, Great"]}
 type: concoctiongear
 subType: exotic
 description: "Nearly transparent golden distillation; heals poison and venom damage."

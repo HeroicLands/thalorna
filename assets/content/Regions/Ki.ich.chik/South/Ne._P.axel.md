@@ -1,6 +1,6 @@
 ---
 shortcode: nepaxel
-name: {full: Ne’ P’ashel, aliases: []}
+name: {full: Ne’ P’ashel}
 type: place
 subType: settlement
 description: "Market Town"

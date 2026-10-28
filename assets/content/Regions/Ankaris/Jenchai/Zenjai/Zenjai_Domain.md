@@ -1,6 +1,6 @@
 ---
 shortcode: zenjaidmn
-name: {full: Zenjai Domain, aliases: [House Zenjai]}
+name: {full: Zenjai Domain, en: [House Zenjai]}
 type: affiliation
 subType: polity
 description: "The domain of House Zenjai—Snow Peak in the cold north, with one harvest a year, horse pastures and a northern levy, held from Buiwu by an independent lord whom both blocs are trying to feed into alliance."

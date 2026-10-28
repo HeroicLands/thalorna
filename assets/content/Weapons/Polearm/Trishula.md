@@ -1,6 +1,6 @@
 ---
 shortcode: trsha
-name: {full: Trishula, aliases: []}
+name: {full: Trishula}
 type: weapongear
 description: "Sacred three-pronged polearm symbolizing cosmic order and battlefield virtue."
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: drshkrplytms
-name: {full: Dorashkar Tredis, given: Dorashkar, clan: Tredis, aliases: []}
+name: {full: Dorashkar Tredis, given: Dorashkar, clan: Tredis}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]

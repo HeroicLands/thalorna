@@ -1,8 +1,6 @@
 ---
 shortcode: blackledgr
-name:
-  full: The Black Ledger
-  aliases: [The Underground Cartography Network, The Hidden Hand of Maps]
+name: {full: The Black Ledger, en: [The Underground Cartography Network, The Hidden Hand of Maps]}
 type: affiliation
 subType: criminal
 description: "Underground cartography network of guild-trained mapmakers selling specialized maps for purposes the Cartographers' Guild charter forbids—espionage, smuggling, theft, and the documentation of forbidden territories."

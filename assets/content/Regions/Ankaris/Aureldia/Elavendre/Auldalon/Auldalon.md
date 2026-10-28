@@ -1,6 +1,6 @@
 ---
 shortcode: auldalon
-name: {full: Áuldalon, aliases: []}
+name: {full: Áuldalon}
 type: place
 subType: region
 description: "The eastern hills of Élavendre—drover country and the kingdom's land march, where Varokh and Grukar raiding out of the northeast is a fact of every year and the hill towns are built accordingly."

@@ -1,6 +1,6 @@
 ---
 shortcode: rajavalilib
-name: {full: The Rajavali Library, aliases: []}
+name: {full: The Rajavali Library}
 type: place
 subType: structure
 description: "The Memory-Keeper's archive at Rajepur—every chronicle, treaty and legal text of the kingdom-period, and every sabhra session since the kingdom was dissolved."

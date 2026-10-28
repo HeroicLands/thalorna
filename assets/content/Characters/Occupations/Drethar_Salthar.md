@@ -1,6 +1,6 @@
 ---
 shortcode: brthrslthr
-name: {full: Drethar Salthar, aliases: []}
+name: {full: Drethar Salthar}
 type: being
 subType: npc
 tags: [draft, common-folk]

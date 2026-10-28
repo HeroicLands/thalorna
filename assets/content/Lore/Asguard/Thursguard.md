@@ -1,6 +1,6 @@
 ---
 shortcode: thursguard
-name: {full: Thursguard, aliases: []}
+name: {full: Thursguard}
 type: place
 subType: world
 description: "The plane that confines the giant-kin defeated by the Ten."

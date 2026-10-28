@@ -1,6 +1,6 @@
 ---
 shortcode: khazrynadvguide
-name: {full: Khazryn Desert Adventurer's Guide, aliases: []}
+name: {full: Khazryn Desert Adventurer's Guide}
 type: doc
 subType: settingguide
 description: A player and GM introduction to the Khazryn Desert—the camel road to Tantsou and the independent tribes who sell it a stretch at a time, the owned waters, the ruins and the four blood lands, and the ways a campaign begins there.

@@ -1,6 +1,6 @@
 ---
 shortcode: hlurthannfli
-name: {full: Hlurthann Flirnidrok, aliases: [Jarl Hlurthann Flirnidrok]}
+name: {full: Hlurthann Flirnidrok, en: [Jarl Hlurthann Flirnidrok]}
 type: being
 subType: npc
 description: A jarl committed to sustainable forest management who contracts Hlaskorv Bletholl for timber.

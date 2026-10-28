@@ -1,6 +1,6 @@
 ---
 shortcode: personlnms
-name: {full: Personal Names, aliases: []}
+name: {full: Personal Names}
 type: lore
 subType: custom
 description: "How the Tantsou are identified by clan, position and place, and how a personal name is granted to the few who earn one."

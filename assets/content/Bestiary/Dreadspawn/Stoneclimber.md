@@ -1,6 +1,6 @@
 ---
 shortcode: stnclmbr
-name: {full: Stoneclimber, aliases: []}
+name: {full: Stoneclimber}
 type: being
 subType: creature
 description: "A patient, cunning apex predator of rocky highlands, perfectly adapted to ambush prey across steep three-dimensional terrain."

@@ -1,6 +1,6 @@
 ---
 shortcode: khelathlng
-name: {full: Khelathi Language, aliases: []}
+name: {full: Khelathi Language}
 type: skill
 subType: language
 description: "The ancient speech of Au'Khelathu, bound to ritual and sorcery, written in the hieroglyphs of the sacred hand for priests and the Qalezu alphabet for everyone else."

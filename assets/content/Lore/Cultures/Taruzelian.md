@@ -1,12 +1,12 @@
 ---
 shortcode: taruzelianclt
-name: {full: Taruzelian, aliases: []}
+name: {full: Taruzelian}
 type: lore
 subType: culture
 description: "The Taruzelians—their beliefs, their mores, and what they hold a person owes."
 tags: []
 data:
-  language: skill-taruzelilng
+  lang: taru
   glossary:
     - name: "Arch-Consul"
       definition: "The presiding office of the Grand Council, rotating among the cities and mostly ceremonial."

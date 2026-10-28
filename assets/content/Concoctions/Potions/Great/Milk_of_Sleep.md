@@ -1,6 +1,6 @@
 ---
 shortcode: ptnnarg
-name: {full: Milk of Sleep, aliases: ["Potion, Narcotic, Great"]}
+name: {full: Milk of Sleep, en: ["Potion, Narcotic, Great"]}
 type: concoctiongear
 subType: exotic
 description: "Black opaque draft; induces deep unconsciousness and complete rest."

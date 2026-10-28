@@ -1,6 +1,6 @@
 ---
 shortcode: chendrapur
-name: {full: Chendrapur, aliases: []}
+name: {full: Chendrapur}
 type: affiliation
 subType: polity
 description: "Vedyara's preeminent center of gemcraft and jewelry, standing marble-bright on the Chandramahi River—artisans whose work commands prices across the known realms."

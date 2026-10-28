@@ -1,6 +1,6 @@
 ---
 shortcode: lemthubai
-name: {full: Lem'Thuba'i, aliases: [The Order of Thuba'i]}
+name: {full: Lem'Thuba'i, en: [The Order of Thuba'i]}
 type: affiliation
 subType: order
 description: The priesthood serving Thuba'i, keeping the flood-records and the rites by which the year's prosperity is asked for

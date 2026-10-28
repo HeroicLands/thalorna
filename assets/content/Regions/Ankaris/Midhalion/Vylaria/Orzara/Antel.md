@@ -1,6 +1,6 @@
 ---
 shortcode: antel
-name: {full: Antel, aliases: [The Old Hill]}
+name: {full: The Old Hill, vyl: [Antel]}
 type: place
 subType: feature
 description: "The Old Hill of Orzara, where the Republic's city stood before the Founder walled Arvel; its early monuments weather unrepaired, its Circle has gone shabby, and its old Senate hall stands empty above its cellars."

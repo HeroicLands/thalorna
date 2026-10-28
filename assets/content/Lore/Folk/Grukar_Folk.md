@@ -1,6 +1,6 @@
 ---
 shortcode: grukarfolk
-name: {full: Grukar Folk, aliases: [grukarfolk]}
+name: {full: Grukar Folk, en: [grukarfolk]}
 type: lore
 subType: folk
 description: Grukar Folk

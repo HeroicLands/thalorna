@@ -1,10 +1,10 @@
 ---
 shortcode: euthlshnshrzt
 name:
-  full: Eutalash Nesharzát, The Diplomatic Blade Dancer
+  full: "Eutalash Nesharzát, The Diplomatic Blade Dancer"
   given: Eutalash
   clan: Nesharzát
-  aliases: [The Diplomatic Blade Dancer]
+  en: [The Diplomatic Blade Dancer]
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, administration]

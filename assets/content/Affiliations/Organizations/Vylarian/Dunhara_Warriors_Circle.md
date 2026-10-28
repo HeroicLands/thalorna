@@ -2,12 +2,12 @@
 shortcode: wrrscrcldnhrtrbs
 name:
   full: The Warrior's Circle of the Dunhara Tribes
-  aliases:
-    - Tigh'Baharan
+  en:
     - The Circle of the Mighty
     - The Quarterly Hall
     - Dunhara Warrior's Circle
     - The Warrior's Circle
+  dunh: [tigh'baharan]
 type: affiliation
 subType: governmental
 description: "The ancient circle of acclaimed Dunhari warriors, meeting at the season-turns at the Stone of Ranaz to keep the peace among the tribes and to gather them against an enemy no tribe could face alone."

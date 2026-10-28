@@ -1,6 +1,6 @@
 ---
 shortcode: standngsrvnt
-name: {full: The Standing Servant, aliases: []}
+name: {full: The Standing Servant}
 type: mysticalability
 subType: arcaneincantation
 description: "Animates a made body to perform work under continuous direction."

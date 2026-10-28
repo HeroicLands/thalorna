@@ -1,6 +1,6 @@
 ---
 shortcode: hlirthmyl
-name: {full: Hlirthmil, aliases: [Lord Hlirthmil]}
+name: {full: Hlirthmil, en: [Lord Hlirthmil]}
 type: being
 subType: npc
 description: A minor nobleman who has begun commissioning custom candles from Althinda Eldskari.

@@ -1,6 +1,6 @@
 ---
 shortcode: argyrteikhos
-name: {full: Argirteikhos, aliases: []}
+name: {full: Argirteikhos}
 type: affiliation
 subType: polity
 description: "Mountain fortress-city of the Bizarian League guarding the eastern passes—silver-mining garrison whose disciplined troops keep the trade routes open and whose ascetic monastic chronicler-tradition is the most serious in the region."

@@ -1,6 +1,6 @@
 ---
 shortcode: tengchouscript
-name: {full: Teng Chou Script, aliases: [Teng Chou, Dou Chou, Celestial Record]}
+name: {full: Teng Chou Script, en: [Celestial Record], tant: [Teng Chou, Dou Chou]}
 type: skill
 subType: script
 description: "The Celestial Record—the shared logographic writing of Tantsou and Jenchai, read alike by people who cannot speak to one another."

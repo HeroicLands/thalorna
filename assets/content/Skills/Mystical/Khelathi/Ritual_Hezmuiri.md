@@ -1,6 +1,6 @@
 ---
 shortcode: ritualhezmur
-name: {full: "Ritual: Hezmu'iri", aliases: [The Keeper of Transitions]}
+name: {full: "Ritual: Hezmu'iri", en: [The Keeper of Transitions]}
 type: skill
 subType: mystical
 tags: [khelathi, faith-skill, draft]

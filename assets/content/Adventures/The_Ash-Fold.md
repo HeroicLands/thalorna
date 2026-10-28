@@ -1,6 +1,6 @@
 ---
 shortcode: shuremisadv
-name: {full: The Hearth Without Light, aliases: []}
+name: {full: The Hearth Without Light}
 type: scenario
 subType: adventure
 description: "In a ruined temple estate the clans will not graze, a fire gives no light, and the cattle that stray near it come out as ash."

@@ -1,6 +1,6 @@
 ---
 shortcode: godirnk
-name: {full: "Gudi / Gudja", aliases: []}
+name: {full: Gudi / Gudja}
 type: lore
 subType: law
 description: "The ordained priest or priestess who keeps a hov's rites, in the faiths of the Ten that keep the blet."

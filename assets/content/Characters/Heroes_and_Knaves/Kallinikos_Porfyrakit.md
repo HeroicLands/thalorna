@@ -1,6 +1,6 @@
 ---
 shortcode: klnksprfrkt
-name: {full: Bazebos Porfirakit, given: Bazebos, clan: Porfirakit, aliases: []}
+name: {full: Bazebos Porfirakit, given: Bazebos, clan: Porfirakit}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]

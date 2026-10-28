@@ -1,6 +1,6 @@
 ---
 shortcode: slntlncmpny
-name: {full: The Silent Talon Company, aliases: []}
+name: {full: The Silent Talon Company}
 type: affiliation
 subType: venture
 description: "Elite mercenary specialists in infiltration, espionage, and covert strikes—precision and discretion for those who can afford the expertise."

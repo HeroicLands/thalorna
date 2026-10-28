@@ -1,6 +1,6 @@
 ---
 shortcode: offererrnk
-name: {full: "Her Offerer", aliases: []}
+name: {full: Her Offerer}
 type: lore
 subType: law
 description: "One who has turned to Nahild and brings her offering, holding none of the cult's observances, in the faith of Nahild."

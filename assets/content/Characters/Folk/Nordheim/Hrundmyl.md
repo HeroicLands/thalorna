@@ -1,6 +1,6 @@
 ---
 shortcode: hrundmyl
-name: {full: Hrundmil, aliases: [Elder Hrundmil]}
+name: {full: Hrundmil, en: [Elder Hrundmil]}
 type: being
 subType: npc
 description: The elder and leader of the village Tvilgorv the Reforged saved.

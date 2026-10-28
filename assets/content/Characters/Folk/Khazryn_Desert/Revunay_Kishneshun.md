@@ -1,6 +1,6 @@
 ---
 shortcode: revunaykishn
-name: {full: Revunay Kishneshun, aliases: [Duke Revunay]}
+name: {full: Revunay Kishneshun, en: [Duke Revunay]}
 type: being
 subType: npc
 description: An unscrupulous collector assembling an expedition to find a lost formula, named in Kharanah Khafur.

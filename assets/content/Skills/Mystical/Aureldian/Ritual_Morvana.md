@@ -1,6 +1,6 @@
 ---
 shortcode: morvana
-name: {full: "Ritual: Morvana", aliases: [Morvana, Mistress of the Waning Moon]}
+name: {full: "Ritual: Morvana", en: [Morvana, Mistress of the Waning Moon]}
 type: skill
 subType: mystical
 tags: [aureldian, faith-skill, draft]

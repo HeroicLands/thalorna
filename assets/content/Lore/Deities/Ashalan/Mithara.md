@@ -1,6 +1,6 @@
 ---
 shortcode: mitharadty
-name: {full: Míthara, aliases: []}
+name: {full: Míthara}
 type: lore
 subType: deity
 description: "The World's First Light of the Ashaian pantheon—creation, renewal, and the craft by which made things endure."

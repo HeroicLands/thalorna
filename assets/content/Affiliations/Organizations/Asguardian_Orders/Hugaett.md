@@ -1,6 +1,6 @@
 ---
 shortcode: hugaett
-name: {full: "Hugaett", aliases: []}
+name: {full: Hugaett}
 type: affiliation
 subType: order
 description: "The pursuit and keeping of Odvar's knowledge."

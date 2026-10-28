@@ -1,6 +1,6 @@
 ---
 shortcode: hluskmyl
-name: {full: Hlusmil, aliases: [Alderman Hlusmil]}
+name: {full: Hlusmil, en: [Alderman Hlusmil]}
 type: being
 subType: npc
 description: An alderman and local administrative leader who supports Kralmil Veturdómur.

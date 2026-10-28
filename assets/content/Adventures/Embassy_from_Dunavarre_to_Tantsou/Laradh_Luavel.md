@@ -1,6 +1,6 @@
 ---
 shortcode: laradhluavel
-name: {full: Larad Lúavel, given: Larad, clan: Lúavel, aliases: []}
+name: {full: Larad Lúavel, given: Larad, clan: Lúavel}
 type: being
 subType: character
 tags: [draft, embassy-to-tantsou]

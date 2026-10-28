@@ -1,6 +1,6 @@
 ---
 shortcode: toravarrange
-name: {full: Toravar Range, aliases: [The Toravar]}
+name: {full: Toravar Range, en: [The Toravar]}
 type: place
 subType: feature
 description: "The forested mountain belt along Tarvénia's northern border with Élavendre, densely Áelendan in its high reaches and held by them as sacred country."

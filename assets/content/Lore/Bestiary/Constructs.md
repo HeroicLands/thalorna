@@ -1,6 +1,6 @@
 ---
 shortcode: golemcrtr
-name: {full: Constructs, aliases: [Golem, Golems]}
+name: {full: Constructs, en: [Golem, Golems]}
 type: lore
 subType: bestiary
 description: "Magical constructs animated by the arcane arts—clay, stone, iron or once-dead flesh given motion and purpose, and no will of their own."

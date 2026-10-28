@@ -1,10 +1,6 @@
 ---
 shortcode: vndrcgrwld
-name:
-  full: Vandarik yra Garwald wur Fródhaven
-  given: Vandarik
-  clan: Garwald
-  aliases: [the Liar]
+name: {full: Vandarik yra Garwald wur Fródhaven, given: Vandarik, clan: Garwald, en: [the Liar]}
 type: being
 subType: character
 tags: [blackpine-wolves, brigand, vrystwald, underworld]

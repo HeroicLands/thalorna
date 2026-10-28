@@ -1,6 +1,6 @@
 ---
 shortcode: dnstnhlmsly
-name: {full: Harstan Helmsley, aliases: []}
+name: {full: Harstan Helmsley}
 type: being
 subType: npc
 tags: [draft, administration]

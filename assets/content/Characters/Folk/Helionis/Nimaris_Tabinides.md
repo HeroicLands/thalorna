@@ -1,6 +1,6 @@
 ---
 shortcode: nimaristabin
-name: {full: Nimaris Tabinides, aliases: [Lady Nimaris]}
+name: {full: Nimaris Tabinides, en: [Lady Nimaris]}
 type: being
 subType: npc
 description: A lady whose retinue Tabisa Marinades serves.

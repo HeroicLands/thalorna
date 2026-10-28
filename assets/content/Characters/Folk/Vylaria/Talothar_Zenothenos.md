@@ -1,6 +1,6 @@
 ---
 shortcode: talotharzeno
-name: {full: Talothar Zenothenos, aliases: [Harbormaster Talothar, Master Harbormaster Talothar]}
+name: {full: Talothar Zenothenos, en: [Harbormaster Talothar, Master Harbormaster Talothar]}
 type: being
 subType: npc
 description: The official overseer of a city's harbor, who gives Branalenis Bárkalas word of incoming vessels.

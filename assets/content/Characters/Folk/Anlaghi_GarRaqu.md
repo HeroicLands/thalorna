@@ -1,6 +1,6 @@
 ---
 shortcode: anlaghigarr2
-name: {full: Anlaghi Gar'Raku, aliases: []}
+name: {full: Anlaghi Gar'Raku}
 type: being
 subType: npc
 description: "A young Wazu attached to the great hunt, learning the rites that attend the taking of sacred beasts"

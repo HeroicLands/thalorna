@@ -1,6 +1,6 @@
 ---
 shortcode: alvrkrnthl
-name: {full: Alvarik Árenthar, aliases: []}
+name: {full: Alvarik Árenthar}
 type: being
 subType: npc
 tags: [draft, common-folk]

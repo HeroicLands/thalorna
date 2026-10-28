@@ -1,6 +1,6 @@
 ---
 shortcode: blacksnow
-name: {full: The Black Snow, aliases: [The Felling of the Birch]}
+name: {full: The Black Snow, en: [The Felling of the Birch]}
 type: lore
 subType: history
 description: "About 1300 BF, in a killing winter, the Áelendan chief Ghalmir felled a stand of silver birch for fuel and pulled the watch from the fog-hollow, something came through, and the hall made him Kinless and his sister led the people back to the wood's edge to ask again."

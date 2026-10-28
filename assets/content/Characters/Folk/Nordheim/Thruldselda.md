@@ -1,6 +1,6 @@
 ---
 shortcode: thruldselda
-name: {full: Thruldselda, aliases: [Princess Thruldselda, Merchant Princess Thruldselda]}
+name: {full: Thruldselda, en: [Princess Thruldselda, Merchant Princess Thruldselda]}
 type: being
 subType: npc
 description: A wealthy trading magnate who contracts sailors for her extensive merchant fleet, named in Hvarnthann Stormrót.

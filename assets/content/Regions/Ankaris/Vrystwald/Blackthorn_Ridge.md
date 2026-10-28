@@ -1,6 +1,6 @@
 ---
 shortcode: blackthornrdg
-name: {full: Blackthorn Ridge, aliases: []}
+name: {full: Blackthorn Ridge}
 type: place
 subType: feature
 description: "The ridge that bounds the Garskald's hunting grounds to the north, beyond which lies old, unclaimed forest no Varokh clan holds."

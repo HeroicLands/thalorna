@@ -1,6 +1,6 @@
 ---
 shortcode: blotrefusedrnk
-name: {full: "Refused the Blet", aliases: []}
+name: {full: Refused the Blet}
 type: lore
 subType: law
 description: "Declined the offering and the shared meal by a hov's gudi, in the faiths of the Ten that keep the blet."

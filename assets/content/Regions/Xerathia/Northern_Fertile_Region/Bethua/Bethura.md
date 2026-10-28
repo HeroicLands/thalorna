@@ -1,6 +1,6 @@
 ---
 shortcode: bethura
-name: {full: Bethura, aliases: []}
+name: {full: Bethura}
 type: place
 subType: settlement
 description: The capital of the Matriarchy of Bethua, a harbor city on a bay of the Vylarian Sea—where the Sacred College and the Council of Houses sit, and the Trade-Houses keep their principal hall.

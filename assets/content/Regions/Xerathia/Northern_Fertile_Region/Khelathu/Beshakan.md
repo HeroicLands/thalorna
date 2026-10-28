@@ -1,6 +1,6 @@
 ---
 shortcode: beshakan
-name: {full: Beshakan, aliases: []}
+name: {full: Beshakan}
 type: place
 subType: feature
 description: "Deserts holding ruins where the earliest astronomers of Au'Khelathu carved star maps into the stones."

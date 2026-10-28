@@ -1,6 +1,6 @@
 ---
 shortcode: giantslayers
-name: {full: The Lay of the Giant Slayers, aliases: [Dorgbán drunga]}
+name: {full: The Lay of the Giant Slayers, varo: [Dorgbán drunga]}
 type: lore
 subType: literature
 description: "The lay a landing kindred recites at Waldburg under the market peace: the people coming out of the east over the grass to a wood the giants held, Brunjulf's vow and the crossing on the ice, the last giant brought down at the ford and given a mound, and the Deepwood's answer that the people came out of the oaks as well."
@@ -17,7 +17,7 @@ data:
     - place-vethwald
     - place-vethhrom
     - lore-varokhiclt
-  language: varokhlng
+  lang: varo
 
 # terran_analog: "The Hildebrandslied's long line and its foreboding; the ancestor-songs of the Goths that Jordanes reports; Hlöðskviða's battle at the edge of the wood; the contest of two poets answering each other in public, from the legend of Hesiod and Homer at the funeral games of Amphidamas. Departs: the conquered are never named, and the rival does not deny the lay but sets a second account beside it."
 ---

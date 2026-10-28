@@ -1,6 +1,6 @@
 ---
 shortcode: vahrati
-name: {full: Vahrati, aliases: [The Keeper of Decay]}
+name: {full: The Keeper of Decay, vedy: [vahrati]}
 type: affiliation
 subType: faithtradition
 description: "Religion of decay, endings, the release of what has reached its term, and the fertile compost from which new growth arises."

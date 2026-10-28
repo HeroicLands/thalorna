@@ -1,6 +1,6 @@
 ---
 shortcode: serdaleliser
-name: {full: Sérdale Lísernde, aliases: [Elder Healer Sérdale]}
+name: {full: Sérdale Lísernde, en: [Elder Healer Sérdale]}
 type: being
 subType: npc
 description: The oldest and most respected pure mystic shaman in the tribe, an elder healer.

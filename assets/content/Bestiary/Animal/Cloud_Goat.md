@@ -1,6 +1,6 @@
 ---
 shortcode: cldgt
-name: {full: Cloud Goat, aliases: [Sulkula]}
+name: {full: Cloud Goat, kali: [Sulkula]}
 type: being
 subType: creature
 description: "A white-coated mountain goat, heavier than an ibex, with long back-swept horns, that lives on the cliff faces of the Ring at and above the cloud line."

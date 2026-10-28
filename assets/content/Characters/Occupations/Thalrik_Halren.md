@@ -1,6 +1,6 @@
 ---
 shortcode: thalrkhlrn
-name: {full: Thalrik Halren, aliases: []}
+name: {full: Thalrik Halren}
 type: being
 subType: npc
 tags: [draft, common-folk]

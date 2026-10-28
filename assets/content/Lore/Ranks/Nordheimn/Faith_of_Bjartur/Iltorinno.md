@@ -1,6 +1,6 @@
 ---
 shortcode: tindesarrnk
-name: {full: "Iltorin", aliases: [Seer]}
+name: {full: Seer, sina: [iltorin]}
 type: lore
 subType: law
 description: "Newly called to Bjart's service, learning dream-reading, healing and the tending of groves under an Ansorun, in the faith of Bjart."

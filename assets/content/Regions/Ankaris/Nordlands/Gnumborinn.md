@@ -1,6 +1,6 @@
 ---
 shortcode: gnumborinn
-name: {full: Gnúmborinn, aliases: [The Clay-Born]}
+name: {full: Gnúmborinn, en: [The Clay-Born]}
 type: lore
 subType: theology
 description: "How Mótefnir pressed the first two people out of the cut world's clay, what the other gods gave them, and the three accounts of how death came in."

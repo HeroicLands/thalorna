@@ -1,6 +1,6 @@
 ---
 shortcode: clansquarrel
-name: {full: The Quarrel of the Clans, aliases: [Sargh-dugár]}
+name: {full: The Quarrel of the Clans, khaz: [sargh-dugár]}
 type: lore
 subType: literature
 description: "The Khazari account of the Quarrel at Khazartúrn: the sittings of the city's council over farmland, the mines and a fair share, the two sendings that cut the first holds outside the valley, and the setting down of the ordering, read below to an elder before the oath of a council seat."
@@ -10,7 +10,7 @@ data:
   culture: khazariclt
   form: filnath
   subjects: [lore-khazarturn, lore-khazturnrsd, lore-khazariclt, lore-flkkhazar]
-  language: khazarlng
+  lang: khaz
 ---
 
 **The Quarrel of the Clans**, _Sargh-dugár_, is the account the [[lore-khazariclt|Khazari]] keep of the sittings at Khazartúrn (see [[lore-khazarturn|the Fall of Khazartúrn]]) in which the seven clans contested the city's farmland, its mines and the share of its gate, and of the two sendings that cut the first holds outside the valley. It is a _filnath_, an account: the sittings in the order they sat, dated in the years of the city, with the counts the elders argued from and every name, and the speeches entered by name, most in the keeper's words and the rest as they were said, with the few words in each sitting that the keeper marked to be read as the speaker said them. The name is the holds' and not the account's own; _sarghadugár_ renders as the forcing of the clans, and neither the name nor the account says which clan forced which. It is read below, in the council-hall, to an elder on the day she first takes a seat on a hold's council, and her oath is cut after the last line, so that no elder sits who has not heard why no seat is first. The account calls Khazartúrn only the city, because when it was written there was no other hold to tell it from; the word _khardev_, a hold, is entered in it for the first time of a place that was not the city. The copy transcribed is [[place-vorgald|Vorgald]]'s, and the holds' copies descend from the one the city sent up to [Zaghar-gunáv]{.name data-type="place/settlement"} in the year the account closes.

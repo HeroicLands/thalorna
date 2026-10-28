@@ -1,6 +1,6 @@
 ---
 shortcode: ashthatwouldnottake
-name: {full: Between the Conch and the Flame, aliases: []}
+name: {full: Between the Conch and the Flame}
 type: scenario
 subType: adventure
 description: "At a river burning-stair the urns come home too light, and the dead stand in the shallows at dusk waiting for a conch that is late."

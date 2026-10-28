@@ -1,6 +1,6 @@
 ---
 shortcode: garrethzethu
-name: {full: Gar-Reth'zethu, aliases: [House of the Name, The House of Name]}
+name: {full: Gar-Reth'zethu, en: [House of the Name, The House of Name]}
 type: affiliation
 subType: arcanetradition
 tags: [gethunu-lekhau, arcane, khelathi]

@@ -1,6 +1,6 @@
 ---
 shortcode: midsumar
-name: {full: Midsomar, aliases: []}
+name: {full: Midsomar}
 type: lore
 subType: custom
 description: "The summer-solstice festival of coastal bonfires, shared feasts and light."

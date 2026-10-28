@@ -1,6 +1,6 @@
 ---
 shortcode: shegasrethmg
-name: {full: Shegas Retha'Mogau, given: Shegas, clan: Retha'Mogau, aliases: []}
+name: {full: Shegas Retha'Mogau, given: Shegas, clan: Retha'Mogau}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]

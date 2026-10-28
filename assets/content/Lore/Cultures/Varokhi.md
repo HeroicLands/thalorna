@@ -1,13 +1,13 @@
 ---
 shortcode: varokhiclt
-name: {full: Varokhi, aliases: []}
+name: {full: Varokhi}
 type: lore
 subType: culture
 description: "The Varokh—their beliefs, their mores, and what they hold a person owes."
 tags: []
 data:
   calendar: lore-wintertally
-  language: skill-varokhlng
+  lang: varo
   glossary:
     - name: "eth-kethrun"
       definition: "The taking of a true name by a deed, and the rite that marks adulthood."

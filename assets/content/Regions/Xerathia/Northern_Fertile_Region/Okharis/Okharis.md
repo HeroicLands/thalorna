@@ -1,6 +1,6 @@
 ---
 shortcode: okharis
-name: {full: Okharis, aliases: []}
+name: {full: Okharis}
 type: affiliation
 subType: polity
 description: "Collection of ancient city-states in the Northern Fertile Region of Zerathia—centers of civilization and learning in a tropical realm of rivers and rainforests."

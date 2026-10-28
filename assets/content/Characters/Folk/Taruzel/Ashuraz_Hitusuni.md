@@ -2,7 +2,7 @@
 shortcode: ashurazhitus
 name:
   full: Ashuraz Hitusuni
-  aliases: [Prince Ashuraz Hitusuni, Merchant Prince Ashuraz Hitusuni, Merchant Prince Ashuraz]
+  en: [Prince Ashuraz Hitusuni, Merchant Prince Ashuraz Hitusuni, Merchant Prince Ashuraz]
 type: being
 subType: npc
 description: A wealthy merchant whose operation Pazasan Khidizum has documented engaged in systematic smuggling and tax evasion.

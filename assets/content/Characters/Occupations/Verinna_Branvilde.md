@@ -1,6 +1,6 @@
 ---
 shortcode: vrynbrnwyld
-name: {full: Verinna Branvilde, aliases: []}
+name: {full: Verinna Branvilde}
 type: being
 subType: npc
 tags: [draft, clergy]

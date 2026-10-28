@@ -1,6 +1,6 @@
 ---
 shortcode: onewhostays
-name: {full: The Praise of the One Who Stays, aliases: [Sendeppinnoren tellame]}
+name: {full: The Praise of the One Who Stays, sina: [sendeppinnoren tellame]}
 type: lore
 subType: literature
 description: "The Sinale praise-song of the unnamed king who held the joint crown of Aelwyth, one deed to a stanza and the king never named, kept by the Vardain and sung in the valleys beneath Vorgald on the night the road to the Gate closes."
@@ -16,7 +16,7 @@ data:
     - place-vorgald
     - lore-vardain
     - lore-pelwarmigr
-  language: sinalelng
+  lang: sina
 
 # terran_analog: "The Welsh bardic praise-poem (Taliesin's songs to Urien, which praise the deed and the hall and keep the refrain), for the praise that counts deeds; the Kalevala's verb-leading restated line for the calque; Deor for a refrain that turns at the close; the Vardain's keeping of it draws on the way a conquered people keeps the songs of lords it has outlived."
 ---

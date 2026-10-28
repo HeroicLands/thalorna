@@ -1,6 +1,6 @@
 ---
 shortcode: thyrenae
-name: {full: Thirenae, aliases: []}
+name: {full: Thirenae}
 type: affiliation
 subType: polity
 description: "Inland city-state of Helionis, the oldest and most prestigious, seat of the great academies, the Library of Thirenae and the first home of the Epistémion."

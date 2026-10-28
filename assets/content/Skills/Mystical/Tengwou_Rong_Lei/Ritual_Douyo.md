@@ -1,6 +1,6 @@
 ---
 shortcode: douyo
-name: {full: "Ritual: Douyo", aliases: [Douyo, The Lost Road, The Guide Who Leads Astray]}
+name: {full: "Ritual: Douyo", en: [The Lost Road, The Guide Who Leads Astray], tant: [Douyo]}
 type: skill
 subType: mystical
 tags: [celestial-pantheon, faith-skill, draft]

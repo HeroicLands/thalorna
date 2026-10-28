@@ -1,6 +1,6 @@
 ---
 shortcode: nizelganotis
-name: {full: Nizel Ganotis, aliases: [Lord Nizel Ganotis, Lord Nizel]}
+name: {full: Nizel Ganotis, en: [Lord Nizel Ganotis, Lord Nizel]}
 type: being
 subType: npc
 description: A corrupt noble who has been exploiting his people and ignoring the laws of the kingdom, named in Father Ostaran Dorvás.

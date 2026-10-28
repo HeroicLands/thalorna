@@ -1,6 +1,6 @@
 ---
 shortcode: glssfng
-name: {full: Glassfang, aliases: []}
+name: {full: Glassfang}
 type: being
 subType: creature
 description: "A small, blindingly fast light-magic predator that hunts nearly invisible through crystalline caverns and radiant magical sites."

@@ -1,6 +1,6 @@
 ---
 shortcode: tlnrzyghrs
-name: {full: Tálanira Zighiros, given: Tálanira, clan: Zighiros, aliases: [The Merchant Princess]}
+name: {full: Tálanira Zighiros, given: Tálanira, clan: Zighiros, en: [The Merchant Princess]}
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, guilded, tradesfolk]

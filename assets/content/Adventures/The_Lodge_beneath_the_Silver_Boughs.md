@@ -1,6 +1,6 @@
 ---
 shortcode: lodgesilvbgh
-name: {full: The Lodge beneath the Silver Boughs, aliases: []}
+name: {full: The Lodge beneath the Silver Boughs}
 type: scenario
 subType: adventure
 description: "A Warden leads the party along the margin of the Silver Forests to find a missing envoy and a stolen casket, and something in a ring of overturned stones takes them one at a time."

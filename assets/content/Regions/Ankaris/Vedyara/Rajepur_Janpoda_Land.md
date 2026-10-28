@@ -1,6 +1,6 @@
 ---
 shortcode: rajepurjnpd
-name: {full: Rajepur Janpoda, aliases: []}
+name: {full: Rajepur Janpoda}
 type: place
 subType: region
 description: "The land of the Rajepur Janpoda—villages on a fertile floodplain forty miles along the central Mahanodi, around the temple raised on the ruins of the old royal capital."

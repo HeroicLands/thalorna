@@ -1,6 +1,6 @@
 ---
 shortcode: suvrtrtnsn
-name: {full: Suvarti Ratnisen, given: Suvarti, clan: Ratnisen, aliases: [Suvi]}
+name: {full: Suvarti Ratnisen, given: Suvarti, clan: Ratnisen, vedy: [suvi]}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]

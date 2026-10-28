@@ -1,6 +1,6 @@
 ---
 shortcode: frthgrvthrnd
-name: {full: Frithgár yra Vithrúnd wur Falkenstein, aliases: []}
+name: {full: Frithgár yra Vithrúnd wur Falkenstein}
 type: being
 subType: npc
 tags: [draft, soldiery]

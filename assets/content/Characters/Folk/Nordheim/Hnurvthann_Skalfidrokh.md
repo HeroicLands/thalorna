@@ -1,6 +1,6 @@
 ---
 shortcode: hnurvthannsk
-name: {full: Hnurvthann Skalfidrok, aliases: [Captain Hnurvthann Skalfidrok]}
+name: {full: Hnurvthann Skalfidrok, en: [Captain Hnurvthann Skalfidrok]}
 type: being
 subType: npc
 description: A decorated military officer who is Dvarnvir Hrafansvald's best customer and closest friend.

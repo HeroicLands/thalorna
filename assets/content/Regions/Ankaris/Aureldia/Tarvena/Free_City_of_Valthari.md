@@ -1,6 +1,6 @@
 ---
 shortcode: frctyvlthr
-name: {full: Free City of Valthari, aliases: []}
+name: {full: Free City of Valthari}
 type: affiliation
 subType: polity
 description: "Free city-state on Tarvénia's southern coast, governed by merchant families—richest settlement in Tarvénia and the kingdom's window onto distant trade, jealously guarding its independence."

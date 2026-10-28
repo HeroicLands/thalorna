@@ -1,6 +1,6 @@
 ---
 shortcode: adherentrnk
-name: {full: "Bandlid", aliases: []}
+name: {full: Bandlid}
 type: lore
 subType: law
 description: "Attached to one of Hrimthur's scattered factions and doing its work, in the faith of Hrimthur."

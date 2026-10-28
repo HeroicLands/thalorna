@@ -1,6 +1,6 @@
 ---
 shortcode: taruzelrgn
-name: {full: Taruzel Region, aliases: []}
+name: {full: Taruzel Region}
 type: place
 subType: region
 description: The Taruzelian archipelago in the eastern Vylarian Sea, off the coast of the Kingdom of Amradad—five merchant city-states of the Confederation of Taruzelian States, their islands of harbors, hills and scrub, and the channels between them.

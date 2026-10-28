@@ -1,6 +1,6 @@
 ---
 shortcode: iqeruselat
-name: {full: Iqeru Selat, aliases: []}
+name: {full: Iqeru Selat}
 type: place
 subType: region
 description: "Sun-temples and wide irrigated wheatland—the land of the Selat of Iqeru, one of the upper-river selatu of Au'Khelathu."

@@ -1,6 +1,6 @@
 ---
 shortcode: gokshetra
-name: {full: Gokshetra, aliases: []}
+name: {full: Gokshetra}
 type: place
 subType: settlement
 description: "Cattle village on the upland grazing north of the valley."

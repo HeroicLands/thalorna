@@ -1,6 +1,6 @@
 ---
 shortcode: zoriladmvr
-name: {full: Zórila Dómivar, aliases: []}
+name: {full: Zórila Dómivar}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

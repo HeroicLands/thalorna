@@ -1,6 +1,6 @@
 ---
 shortcode: kuxiixbal2
-name: {full: K'ushi Ish'bal, aliases: []}
+name: {full: K'ushi Ish'bal}
 type: place
 subType: settlement
 description: "Seat of the Second Jaguar Land, a garrison city on a thin-aired plateau that outfits expeditions into the southern wastes."

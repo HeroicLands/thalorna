@@ -1,6 +1,6 @@
 ---
 shortcode: leopard
-name: {full: Leopard, aliases: []}
+name: {full: Leopard}
 type: being
 subType: creature
 description: "A solitary, nocturnal ambush cat of the eastern hills and river forests, pound-for-pound among the strongest and most adaptable of all great cats."

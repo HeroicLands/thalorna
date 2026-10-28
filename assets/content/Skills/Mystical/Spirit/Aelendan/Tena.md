@@ -1,6 +1,6 @@
 ---
 shortcode: tenasprt
-name: {full: "Tena Spirit Power", aliases: ["Tena, the Hearth of Ésalosa"]}
+name: {full: Tena Spirit Power, en: ["Tena, the Hearth of Ésalosa"]}
 type: skill
 subType: mystical
 description: "Standing with Tena, hearth-kin of Ésalosa—what guest-right, the peace of the hall and the binding of an oath sworn at fire are asked through."

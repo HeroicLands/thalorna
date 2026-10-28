@@ -1,6 +1,6 @@
 ---
 shortcode: lutuznera
-name: {full: Lut-Uzn'era, aliases: [The Temple of Uzn'era]}
+name: {full: Lut-Uzn'era, en: [The Temple of Uzn'era]}
 type: affiliation
 subType: faithtradition
 description: The house of Uzn'era, goddess of fertility and of the balanced partnership that makes creation possible

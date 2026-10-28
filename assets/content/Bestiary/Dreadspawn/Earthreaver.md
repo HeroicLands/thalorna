@@ -1,6 +1,6 @@
 ---
 shortcode: erthrvr
-name: {full: Earthreaver, aliases: []}
+name: {full: Earthreaver}
 type: being
 subType: creature
 description: "A venomous burrowing arthropod that rules underground ecosystems through speed and toxin, carving vast tunnel hunting grounds."

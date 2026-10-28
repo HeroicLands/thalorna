@@ -1,6 +1,6 @@
 ---
 shortcode: nordfirstsit
-name: {full: The First Sitting on Domsey, aliases: [The Slaughter on Domsey, The Acclamations]}
+name: {full: The First Sitting on Domsey, en: [The Slaughter on Domsey, The Acclamations]}
 type: lore
 subType: history
 description: "Between 260 and 285 AF five district tings acclaimed kings over the five old land-names of the north; in 287 the five kings met for the first time on Domsey, and the meeting ended in an afternoon's killing on the strand that made the island a blood-field, the ting-peace a law, and Nordheim its keeper."

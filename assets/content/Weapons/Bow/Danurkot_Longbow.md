@@ -1,6 +1,6 @@
 ---
 shortcode: dnrktbw
-name: {full: Danurkot Longbow, aliases: []}
+name: {full: Danurkot Longbow}
 type: weapongear
 description: "Heavy self-bow of the High Draw academy; a warbow drawn to full war weight for infantry-support archery."
 tags: []

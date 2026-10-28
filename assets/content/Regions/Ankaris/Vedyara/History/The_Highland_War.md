@@ -1,6 +1,6 @@
 ---
 shortcode: hghlndwar
-name: {full: The Highland War, aliases: []}
+name: {full: The Highland War}
 type: lore
 subType: history
 description: "About 415 AF the mountain kingdom of Daunapur marched on Suvargeri with Danurkot graduates in its companies; the academies recalled them, and those who came home rode with Bharyastan's horse to stop the host at the gorge-mouth of Sharamukha. It was the last serious threat to either janpoda, and the origin of the Festival of the Returning."

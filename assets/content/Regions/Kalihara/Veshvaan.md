@@ -1,6 +1,6 @@
 ---
 shortcode: veshvaan
-name: {full: Veshvaan, aliases: [The Sanctuary of Veshvaan]}
+name: {full: The Sanctuary of Veshvaan, kali: [Veshvaan]}
 type: place
 subType: settlement
 description: "The oldest and largest sanctuary of Kalihara's custodians, on a shoulder of the Massif in the middle of the Bowl Lake, where the deepest archives of inherited procedure are kept."

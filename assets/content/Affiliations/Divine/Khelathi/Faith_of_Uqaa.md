@@ -1,6 +1,6 @@
 ---
 shortcode: uqaa
-name: {full: Faith of Uqa'a, aliases: [The Solar Flame]}
+name: {full: Faith of Uqa'a, en: [The Solar Flame]}
 type: affiliation
 subType: faithtradition
 description: "Fire."

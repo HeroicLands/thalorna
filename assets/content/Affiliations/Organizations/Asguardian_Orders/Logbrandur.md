@@ -1,6 +1,6 @@
 ---
 shortcode: logbrandur
-name: {full: "Logbrandur", aliases: []}
+name: {full: Logbrandur}
 type: affiliation
 subType: order
 description: "Combat and justice at Eidgar's hovs."

@@ -1,6 +1,6 @@
 ---
 shortcode: bhumipalland
-name: {full: Bhumipal Land, aliases: [The March]}
+name: {full: Bhumipal Land, en: [The March]}
 type: place
 subType: region
 description: "The land of the march kingdom of Bhumipal—dry foothills under the broken end of the Grazian wall, the road that goes round it into the desert, and the salt coast of the western sea."

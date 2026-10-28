@@ -1,6 +1,6 @@
 ---
 shortcode: meghrsmdra
-name: {full: Meghra-samedra, aliases: [The Southern Sea]}
+name: {full: The Southern Sea, vedy: [meghra-samedra]}
 type: place
 subType: region
 description: "The southern ocean off Vedyara—the sea the monsoon comes from, the road to the Khelathi delta, and the wettest coast in Thalorna."

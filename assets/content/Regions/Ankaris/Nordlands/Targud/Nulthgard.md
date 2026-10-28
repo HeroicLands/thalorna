@@ -1,6 +1,6 @@
 ---
 shortcode: nulthgard
-name: {full: Nulthgard, aliases: [The Burned Hall]}
+name: {full: Nulthgard, en: [The Burned Hall]}
 type: place
 subType: site
 description: "The first royal hall of Targud, a burned shell on a rise above the ford at Dvulgvangur with the howes of four kings beside it, on the wrong side of the line since 613 AF; a king of Targud rides out to it once in his reign to pour the grave-ale at his forebears' howes."

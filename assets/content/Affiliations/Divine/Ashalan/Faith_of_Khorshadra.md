@@ -2,7 +2,7 @@
 shortcode: korsadra
 name:
   full: Faith of Khórsadra
-  aliases: [Bearer of Eternal Light, Wisdom Goddess, "Khórsadra, Bearer of Eternal Light"]
+  en: [Bearer of Eternal Light, Wisdom Goddess, "Khórsadra, Bearer of Eternal Light"]
 type: affiliation
 subType: faithtradition
 description: "Knowledge, Wisdom, Truth."

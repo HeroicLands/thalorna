@@ -1,6 +1,6 @@
 ---
 shortcode: gnuldurthyra
-name: {full: Gnuldurthira, aliases: [Priest Gnuldurthira]}
+name: {full: Gnuldurthira, en: [Priest Gnuldurthira]}
 type: being
 subType: npc
 description: A priest of Frodvin's Temple who has taken an interest in Svulthira Solvargur.

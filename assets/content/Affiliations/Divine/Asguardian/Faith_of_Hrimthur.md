@@ -1,6 +1,6 @@
 ---
 shortcode: hrimthur
-name: {full: Faith of Hrimthur, aliases: [The Path of the First Wound]}
+name: {full: Faith of Hrimthur, en: [The Path of the First Wound]}
 type: affiliation
 subType: faithtradition
 description: "The Rime-Giant whose body is the world, and the wound that made it; a northern faith standing outside the Ten."

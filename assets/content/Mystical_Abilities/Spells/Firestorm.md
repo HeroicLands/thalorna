@@ -1,6 +1,6 @@
 ---
 shortcode: frstrm
-name: {full: Firestorm, aliases: []}
+name: {full: Firestorm}
 type: mysticalability
 subType: arcaneincantation
 description: "Conjures whirling inferno; swirls consuming flames across wide area."

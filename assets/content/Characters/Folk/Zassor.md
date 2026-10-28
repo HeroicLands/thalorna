@@ -1,6 +1,6 @@
 ---
 shortcode: zassor
-name: {full: Zassor, aliases: []}
+name: {full: Zassor}
 type: being
 subType: npc
 description: "A merchant who commissions ceremonial work at high visibility and high cost, which suits both him and the craftsman he commissions"

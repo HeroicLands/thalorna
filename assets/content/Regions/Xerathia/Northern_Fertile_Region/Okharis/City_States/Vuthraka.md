@@ -1,6 +1,6 @@
 ---
 shortcode: vuthraka
-name: {full: Vuthraka, aliases: [The Wild Flame]}
+name: {full: The Wild Flame, okha: [Vuthraka]}
 type: place
 subType: settlement
 description: "Garrison Town"

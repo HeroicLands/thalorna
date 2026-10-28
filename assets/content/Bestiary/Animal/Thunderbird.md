@@ -1,6 +1,6 @@
 ---
 shortcode: thndrbrd
-name: {full: Thunderbird, aliases: []}
+name: {full: Thunderbird}
 type: being
 subType: creature
 description: "An enormous apex aerial predator with a sixty-to-eighty-foot wingspan that rides storm winds above remote mountain peaks and canyons."

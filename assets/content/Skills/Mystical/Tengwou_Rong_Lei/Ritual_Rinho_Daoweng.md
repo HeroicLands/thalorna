@@ -1,6 +1,6 @@
 ---
 shortcode: rinhodaoweng
-name: {full: "Ritual: Rinho Daoweng", aliases: [Rinho Daoweng]}
+name: {full: "Ritual: Rinho Daoweng", tant: [Rinho Daoweng]}
 type: skill
 subType: mystical
 tags: [celestial-pantheon, faith-skill, draft]

@@ -1,6 +1,6 @@
 ---
 shortcode: meghashkhr
-name: {full: Meghashikhar, aliases: []}
+name: {full: Meghashikhar}
 type: place
 subType: feature
 description: "The storm-peak above Meghadvar, where the monsoon cloud piles against the wall and decides how long the western door stays open."

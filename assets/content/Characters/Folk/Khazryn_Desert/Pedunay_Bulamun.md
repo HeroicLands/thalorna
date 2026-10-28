@@ -1,6 +1,6 @@
 ---
 shortcode: pedunaybulam
-name: {full: Pedunay Bulamun, aliases: [Pedunay]}
+name: {full: Pedunay Bulamun, telu: [Pedunay]}
 type: being
 subType: npc
 description: A longtime colleague and rival of Kayvonad Zarid who published a paper showing mathematical errors in his foundational work and is now the favored elder statesman of alchemical research at the University; also named in Kaldar.

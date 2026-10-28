@@ -1,6 +1,6 @@
 ---
 shortcode: flrnvrglrvmkh
-name: {full: Flurnvir Glarvumak, aliases: []}
+name: {full: Flurnvir Glarvumak}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]

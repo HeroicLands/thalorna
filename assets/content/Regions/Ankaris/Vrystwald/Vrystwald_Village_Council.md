@@ -1,6 +1,6 @@
 ---
 shortcode: vrystwldvlgcncl
-name: {full: Vristwald Village Council, aliases: []}
+name: {full: Vristwald Village Council}
 type: affiliation
 subType: polity
 description: "The three-seat council that governs each Varokh village of the Vristwald: Shaman, War Chief and Other Chief, each seat with its own authority."

@@ -1,6 +1,6 @@
 ---
 shortcode: darzshshvn
-name: {full: Darzash Shavan, given: Darzash, clan: Shavan, aliases: []}
+name: {full: Darzash Shavan, given: Darzash, clan: Shavan}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]

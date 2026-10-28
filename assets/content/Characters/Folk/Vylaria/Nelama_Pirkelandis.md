@@ -1,6 +1,6 @@
 ---
 shortcode: nelamapirkel
-name: {full: Nelama Pirkelis, aliases: [Merchant-Lady Nelama Pirkelis, Merchant-Lady Nelama]}
+name: {full: Nelama Pirkelis, en: [Merchant-Lady Nelama Pirkelis, Merchant-Lady Nelama]}
 type: being
 subType: npc
 description: A wealthy merchant of considerable influence who employs Ailema Keramyes to handle her personal correspondence and record-keeping.

@@ -1,6 +1,6 @@
 ---
 shortcode: nyalbleop
-name: {full: "Leopard Totem", aliases: [Leopard of the Sengala, Sengala Totem]}
+name: {full: Leopard Totem, en: [Leopard of the Sengala, Sengala Totem]}
 type: affiliation
 subType: spirittradition
 description: "The leopard-spirit of the Sengala—stealth, patience and solitude; guide of the northern trade-tribe, and the one most often carried beyond Nyáluba country."

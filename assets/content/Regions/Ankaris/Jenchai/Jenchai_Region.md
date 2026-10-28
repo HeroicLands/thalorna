@@ -1,6 +1,6 @@
 ---
 shortcode: jenchairgn
-name: {full: Jenchai Region, aliases: [Jenchai Archipelago]}
+name: {full: Jenchai Region, en: [Jenchai Archipelago]}
 type: place
 subType: region
 description: The Jenchai archipelago—a great volcanic island, a lesser island and their islets, carrying the nine volcanic peaks of the Nine Mountains, east of Tantsou and sovereign home of the feudal realm of Jenchai.

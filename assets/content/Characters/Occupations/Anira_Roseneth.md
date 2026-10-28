@@ -1,6 +1,6 @@
 ---
 shortcode: anirarsnth
-name: {full: Ánira Órseneth, aliases: []}
+name: {full: Ánira Órseneth}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

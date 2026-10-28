@@ -1,6 +1,6 @@
 ---
 shortcode: pelgundty
-name: {full: Pelgun, aliases: []}
+name: {full: Pelgun}
 type: lore
 subType: deity
 tags: [draft]

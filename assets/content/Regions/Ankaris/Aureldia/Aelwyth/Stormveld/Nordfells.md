@@ -1,6 +1,6 @@
 ---
 shortcode: nordfells
-name: {full: The Nordfells, aliases: []}
+name: {full: The Nordfells}
 type: place
 subType: region
 description: "The northern mountains of Stormveld—half the Jarldom's ground and almost none of its people, facing the northern sea the Nordmen came over."

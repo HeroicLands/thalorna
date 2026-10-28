@@ -1,6 +1,6 @@
 ---
 shortcode: ilthvrblthl
-name: {full: Ilthvir Bletholl, aliases: []}
+name: {full: Ilthvir Bletholl}
 type: being
 subType: npc
 tags: [draft, soldiery]

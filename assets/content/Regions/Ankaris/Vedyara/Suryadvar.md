@@ -1,6 +1,6 @@
 ---
 shortcode: suryadvar
-name: {full: Suryadvar, aliases: [The Sun-Door]}
+name: {full: The Sun-Door, vedy: [suryadvar]}
 type: place
 subType: feature
 description: "The greatest of the northern passes—the road under Suryagarha that forks beyond the throat for the Khazryn and for Tantsou, and the one crossing a caravan can plan a year around."

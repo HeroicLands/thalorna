@@ -1,6 +1,6 @@
 ---
 shortcode: amqelina2
-name: {full: Amqelina, aliases: [Amqe]}
+name: {full: Amqelina, khel: [amqe]}
 type: being
 subType: npc
 description: "High priestess of Reth'Sa'ar's temple, who holds the archives and decides what may be read from them"

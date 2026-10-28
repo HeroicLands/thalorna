@@ -1,6 +1,6 @@
 ---
 shortcode: kankul2
-name: {full: K'ankul, aliases: []}
+name: {full: K'ankul}
 type: place
 subType: settlement
 description: "Seat of the realm of astronomers, scribes and sacred pools in the limestone lowlands of the east."

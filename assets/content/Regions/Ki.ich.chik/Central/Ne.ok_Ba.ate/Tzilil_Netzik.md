@@ -1,6 +1,6 @@
 ---
 shortcode: tzililnetzik
-name: {full: "Ts'ilil Ne'ts'ik", aliases: [The Island of Swallows]}
+name: {full: The Island of Swallows, kiichek: [Ts'ilil Ne'ts'ik]}
 type: place
 subType: settlement
 description: "The Island of Swallows, a Ne'ok Ba'ate island trading port that controls an archipelago of small islands, keeps its own navy and carries much of K'ankul's sea trade."

@@ -1,6 +1,6 @@
 ---
 shortcode: skalforv
-name: {full: Skalforv, aliases: [Duke Skalforv]}
+name: {full: Skalforv, en: [Duke Skalforv]}
 type: being
 subType: npc
 description: Duke of a neighboring realm who believes all wilderness should be exploited for profit, named in Svulthira Solvargur.

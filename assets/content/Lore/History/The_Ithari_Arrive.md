@@ -1,6 +1,6 @@
 ---
 shortcode: ithariarrv
-name: {full: The Coming of the Ithari, aliases: [The Arrival of Those Who Came Before]}
+name: {full: The Coming of the Ithari, en: [The Arrival of Those Who Came Before]}
 type: lore
 subType: history
 description: "The Ithari reach Thalorna before 10,000 BF, settle Kalihara and take in the human bands they find there, and raise works of one substance at scattered sites across the rest of the world."

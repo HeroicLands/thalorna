@@ -1,6 +1,6 @@
 ---
 shortcode: dldrmsea
-name: {full: The Doldrum Sea, aliases: []}
+name: {full: The Doldrum Sea}
 type: place
 subType: feature
 description: "The wide band of calms in the western ocean north of Kalihara, which a ship going home must cross to reach the westerly winds, and where a becalmed ship can lie for weeks."

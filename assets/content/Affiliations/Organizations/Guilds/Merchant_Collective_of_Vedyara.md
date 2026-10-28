@@ -2,7 +2,8 @@
 shortcode: mrchntclctvvdyr
 name:
   full: The Merchant Collective of Vedyara
-  aliases: [Vyapori Sangra, The Collective, The Long Caravan, Merchant Collective]
+  en: [The Collective, The Long Caravan, Merchant Collective]
+  vedy: [vyapori sangra]
 type: affiliation
 subType: guild
 description: "Dominant Vedyaran commercial federation—the caravans, the standards and the letters of credit that cross every seat of the Compact, mining holdings it works by lease where it cannot hold the rock, and a reach that rivals the councils and courts it lends to."

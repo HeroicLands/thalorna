@@ -1,6 +1,6 @@
 ---
 shortcode: vinecoraldye
-name: {full: "Vine-and-coral Dye", aliases: []}
+name: {full: Vine-and-coral Dye}
 type: concoctiongear
 subType: exotic
 description: "A pair of dye cakes, a vine green and a coral red, the colors of the ring Thári'vaan takes for its sign, worked by the dyers of Nalurithan and Ilovanu."

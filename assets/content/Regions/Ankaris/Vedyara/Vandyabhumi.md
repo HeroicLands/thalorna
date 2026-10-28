@@ -1,6 +1,6 @@
 ---
 shortcode: vandyabhumi
-name: {full: Vandyabhumi, aliases: [The Barren Country, The Central Plateau]}
+name: {full: The Barren Country, en: [The Central Plateau], vedy: [vandyabhumi]}
 type: place
 subType: region
 description: "The arid central plateau of Vedyara—high dry grazing between the river valleys, where the wells are property and the ground is not, and the ruined capital the civilization dates its years from stands on open pasture."

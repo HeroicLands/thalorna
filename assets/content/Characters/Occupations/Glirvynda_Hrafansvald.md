@@ -1,6 +1,6 @@
 ---
 shortcode: glrvyndhrfnsvld
-name: {full: Glirvinda Hrafansvald, aliases: []}
+name: {full: Glirvinda Hrafansvald}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

@@ -1,6 +1,6 @@
 ---
 shortcode: elxtrm
-name: {full: The Pain-Breaker, aliases: [Traumashield Elixir]}
+name: {full: The Pain-Breaker, en: [Traumashield Elixir]}
 type: concoctiongear
 subType: elixir
 description: "Luminescent draft; hardens resilience against shock and suffering."

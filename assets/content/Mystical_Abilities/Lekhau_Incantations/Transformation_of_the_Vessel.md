@@ -1,6 +1,6 @@
 ---
 shortcode: transfrmtnvs
-name: {full: Transformation of the Vessel, aliases: []}
+name: {full: Transformation of the Vessel}
 type: mysticalability
 subType: arcaneincantation
 description: "Transmutes a made thing into another material, keeping its form exactly."

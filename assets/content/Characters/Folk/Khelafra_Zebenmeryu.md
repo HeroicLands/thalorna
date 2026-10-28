@@ -1,6 +1,6 @@
 ---
 shortcode: khelfrzbnmry
-name: {full: Khelafra Zebenmeryu, aliases: []}
+name: {full: Khelafra Zebenmeryu}
 type: being
 subType: npc
 description: "First Smith of the Gar-Au and chair of the Gar'Melnu, presiding over the most contentious internal politics the guild has seen in a generation"

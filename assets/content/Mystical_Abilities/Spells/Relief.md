@@ -1,6 +1,6 @@
 ---
 shortcode: relief
-name: {full: Relief, aliases: []}
+name: {full: Relief}
 type: mysticalability
 subType: arcaneincantation
 description: "Alleviates pain and suffering; targets feel restored temporarily."

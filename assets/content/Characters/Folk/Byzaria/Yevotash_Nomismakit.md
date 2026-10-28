@@ -1,6 +1,6 @@
 ---
 shortcode: yevotashnomi
-name: {full: Yevotash Nomismakit, aliases: [Lord Merchant Yevotash Nomismakit]}
+name: {full: Yevotash Nomismakit, en: [Lord Merchant Yevotash Nomismakit]}
 type: being
 subType: npc
 description: A major trader whose commercial interests Nomasáhr Paraklavos has protected through countless suits at law.

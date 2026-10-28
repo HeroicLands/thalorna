@@ -1,6 +1,6 @@
 ---
 shortcode: vlyrbrylnd
-name: {full: Volira Brilonde, aliases: []}
+name: {full: Volira Brilonde}
 type: being
 subType: npc
 tags: [draft, common-folk]

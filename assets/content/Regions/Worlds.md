@@ -1,6 +1,6 @@
 ---
 shortcode: worlds
-name: {full: Worlds, aliases: []}
+name: {full: Worlds}
 type: doc
 subType: reference
 description: The worlds of the Heroic Lands multiverse.

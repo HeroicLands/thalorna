@@ -1,6 +1,6 @@
 ---
 shortcode: giantrat
-name: {full: Giant Rat, aliases: []}
+name: {full: Giant Rat}
 type: being
 subType: creature
 description: "A dog-sized rodent born of magical contamination, infesting sewers, cellars, and granaries wherever darkness meets food waste."

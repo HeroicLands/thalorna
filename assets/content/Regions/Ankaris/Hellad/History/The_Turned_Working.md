@@ -1,6 +1,6 @@
 ---
 shortcode: heladturnedwrk
-name: {full: The Turned Working, aliases: [The Afternoon on the Plain]}
+name: {full: The Turned Working, en: [The Afternoon on the Plain]}
 type: lore
 subType: history
 description: "In 327 BF, where the western road from Vylaria comes down to the plain of Helionis, a Korinthean mage-warlord broke a legion with the war's greatest working, and when the Dragon Riders came over the field the working turned back on the Korinthean levy behind him, so that both armies died on one plain in one afternoon."

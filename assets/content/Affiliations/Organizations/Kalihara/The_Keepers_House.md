@@ -1,6 +1,6 @@
 ---
 shortcode: keepershouse
-name: {full: "The Keeper's House", aliases: [The House of the Failing Works]}
+name: {full: The Keeper's House, en: [The House of the Failing Works]}
 type: affiliation
 subType: governmental
 description: "The staff of the Keeper of the Failing Works, at Kuomethei on the southern crest: the custodians of dark works, who have nothing left to tend and keep the count of the white ones."

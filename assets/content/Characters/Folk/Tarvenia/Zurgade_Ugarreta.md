@@ -1,6 +1,6 @@
 ---
 shortcode: zurgadeugarr
-name: {full: Zurgade Ugarreta, aliases: [Lord Zurgade of Thornhill Manor, Lord Zurgade]}
+name: {full: Zurgade Ugarreta, en: [Lord Zurgade of Thornhill Manor, Lord Zurgade]}
 type: being
 subType: npc
 description: A Tarvenan lord of Thornhill Manor near Valthari, known for his hunting, whose huntswoman is Zórila Dómivar.

@@ -1,6 +1,6 @@
 ---
 shortcode: ordoarcanis
-name: {full: Thordimalon, aliases: [The Order, The Arcane Order]}
+name: {full: The Order, en: [The Arcane Order], vyl: [Thordimalon]}
 type: affiliation
 subType: guild
 description: "Arcane monopoly chartered by the Senate in 73 BF, wielding state power to regulate all magic and extend control through academy chapterhouses."

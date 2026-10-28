@@ -1,6 +1,6 @@
 ---
 shortcode: kaljekor
-name: {full: Kaljekor, aliases: [The Golden Flame]}
+name: {full: The Golden Flame, okha: [Kaljekor]}
 type: place
 subType: settlement
 description: "Trading Port"

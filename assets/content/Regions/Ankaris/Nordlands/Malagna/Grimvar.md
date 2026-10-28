@@ -1,6 +1,6 @@
 ---
 shortcode: grimvar
-name: {full: Grimvar, aliases: []}
+name: {full: Grimvar}
 type: affiliation
 subType: polity
 description: "A polity of Malagna, under the crown at Gnarthborg."

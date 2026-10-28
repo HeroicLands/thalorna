@@ -1,6 +1,6 @@
 ---
 shortcode: shikhalaya
-name: {full: Shikhalaya, aliases: []}
+name: {full: Shikhalaya}
 type: affiliation
 subType: polity
 description: Highland kingdom of the northern Vedyari passes—austere, martial, and jealous of the caravan routes that carry Vedyara over the wall to the steppe and the east.

@@ -1,6 +1,6 @@
 ---
 shortcode: kraldmylthem
-name: {full: Kralmil the Miser, aliases: [Jarl Kralmil the Miser, Jarl Kralmil]}
+name: {full: Kralmil the Miser, en: [Jarl Kralmil the Miser, Jarl Kralmil]}
 type: being
 subType: npc
 description: A lord who has built his power on controlling trade through his territory, named in Glurvselda Silverhand.

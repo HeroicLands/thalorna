@@ -1,6 +1,6 @@
 ---
 shortcode: sumarmal
-name: {full: Somarmál, aliases: []}
+name: {full: Somarmál}
 type: lore
 subType: custom
 description: "The seasonal return of ships, warriors and cattle, with offerings and great assemblies."

@@ -1,6 +1,6 @@
 ---
 shortcode: borderselatu
-name: {full: The Border Selatu, aliases: [The Border Selatu of Au'Khelathu]}
+name: {full: The Border Selatu, en: [The Border Selatu of Au'Khelathu]}
 type: affiliation
 subType: polity
 description: "The military frontier of Au'Khelathu—ten thinly-peopled marches on the southern cataracts, the eastern mineral hills, and the western grazing country, whose Halzi'a rule as military governors and whose hard postings breed the empire's most experienced soldiers."

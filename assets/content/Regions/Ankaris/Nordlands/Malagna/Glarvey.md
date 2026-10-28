@@ -1,6 +1,6 @@
 ---
 shortcode: glarvey
-name: {full: Glarvey, aliases: []}
+name: {full: Glarvey}
 type: place
 subType: settlement
 description: "An island holding of Malagna, seat of the Hersvald of Glarvey, whose halls are thatched by a Hvalgvík thatcher."

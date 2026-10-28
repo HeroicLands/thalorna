@@ -1,6 +1,6 @@
 ---
 shortcode: elxphy
-name: {full: The Dispelling Draft, aliases: [Physic Elixir]}
+name: {full: The Dispelling Draft, en: [Physic Elixir]}
 type: concoctiongear
 subType: elixir
 description: "Colorless liquid; suppresses other active elixirs in imbiber body."

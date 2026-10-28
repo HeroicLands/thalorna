@@ -1,6 +1,9 @@
 ---
 shortcode: xaqikhanal
-name: {full: "Faith of Shaq'ik Ha'nal", aliases: [The Blossom of Living Waters, "Shaq'ik Ha'nal"]}
+name:
+  full: Faith of Shaq'ik Ha'nal
+  en: [The Blossom of Living Waters]
+  kiichek: [Shaq'ik Ha'nal]
 type: affiliation
 subType: faithtradition
 description: "Fertility, water and healing—the newest of the Ten, guardian of the sacred pools, whose almost entirely female priesthood are the finest physicians in Ki'i'chek civilization."

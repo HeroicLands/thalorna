@@ -1,6 +1,6 @@
 ---
 shortcode: anthyndathra
-name: {full: Anthinda Thraskaruk, aliases: [Captain Anthinda Thraskaruk]}
+name: {full: Anthinda Thraskaruk, en: [Captain Anthinda Thraskaruk]}
 type: being
 subType: npc
 description: A merchant captain who has become entangled with Svaltharuk's operation through trading partnerships, named in Gnirthann Veturdómur.

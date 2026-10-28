@@ -1,6 +1,6 @@
 ---
 shortcode: coreconcepts
-name: {full: Core Vocabulary, aliases: []}
+name: {full: Core Vocabulary}
 type: doc
 subType: reference
 description: The concepts every human language of Thalorna can express.

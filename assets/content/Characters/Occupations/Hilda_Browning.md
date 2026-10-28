@@ -1,6 +1,6 @@
 ---
 shortcode: hildbrwnng
-name: {full: Hildwyn Browning, aliases: []}
+name: {full: Hildwyn Browning}
 type: being
 subType: npc
 tags: [draft, underworld]

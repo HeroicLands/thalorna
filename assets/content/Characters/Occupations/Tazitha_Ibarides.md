@@ -1,6 +1,6 @@
 ---
 shortcode: tazithbrds
-name: {full: Tázitha Ibarides, aliases: []}
+name: {full: Tázitha Ibarides}
 type: being
 subType: npc
 tags: [draft, common-folk]

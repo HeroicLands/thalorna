@@ -1,6 +1,6 @@
 ---
 shortcode: arvel
-name: {full: Arvel, aliases: [Eagle Hill]}
+name: {full: Eagle Hill, vyl: [Arvel]}
 type: place
 subType: feature
 description: "The highest of Orzara's six hills, crowned by the walled Inner City and the Grand Palace, with the sealed Eyrie of the Dragon Riders beneath."

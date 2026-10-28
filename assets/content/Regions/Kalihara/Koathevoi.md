@@ -1,6 +1,6 @@
 ---
 shortcode: koathevoi
-name: {full: Koathevoi, aliases: []}
+name: {full: Koathevoi}
 type: place
 subType: settlement
 description: "The terrace town on the eastern shore of Kalihara's Bowl Lake, seat of the Master of the Terraces and home of the granaries, whose lowest terraces stand under the risen water."

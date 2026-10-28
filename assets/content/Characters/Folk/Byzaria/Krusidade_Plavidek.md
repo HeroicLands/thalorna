@@ -1,6 +1,6 @@
 ---
 shortcode: krusidadepla
-name: {full: Krusidade Plavidek, aliases: [Captain Krusidade Plavidek]}
+name: {full: Krusidade Plavidek, en: [Captain Krusidade Plavidek]}
 type: being
 subType: npc
 description: Captain of the Harbor Guard, a gruff military officer who has relied on Stemios Hodikot for word of smuggling.

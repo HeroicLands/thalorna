@@ -1,6 +1,6 @@
 ---
 shortcode: vyalendra
-name: {full: Vyalendra, aliases: [The Shaper of Worlds]}
+name: {full: The Shaper of Worlds, vedy: [vyalendra]}
 type: affiliation
 subType: faithtradition
 description: "Religion of the architect of existence"

@@ -1,6 +1,6 @@
 ---
 shortcode: garlutselat
-name: {full: Gar-Lut Selat, aliases: []}
+name: {full: Gar-Lut Selat}
 type: place
 subType: region
 description: "A small, devout selat of healing-shrines and herb-gardens—the land of the Selat of Gar-Lut, one of the upper-river selatu of Au'Khelathu."

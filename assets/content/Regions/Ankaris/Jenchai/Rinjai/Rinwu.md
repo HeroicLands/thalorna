@@ -1,6 +1,6 @@
 ---
 shortcode: rinwu
-name: {full: Rinwu, aliases: [Red Hall]}
+name: {full: Red Hall, jurt: [Rinwu]}
 type: place
 subType: settlement
 description: "The castle town of House Rinjai above the main harbor of the lesser island—a granary, a hall and the berths of twenty-five raiding ships, seat of the lord sworn to Shuiwojai."

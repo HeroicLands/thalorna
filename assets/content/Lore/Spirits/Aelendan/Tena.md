@@ -1,6 +1,6 @@
 ---
 shortcode: tenaspr
-name: {full: "Tena, the Hearth of Ésalosa", aliases: [The Hearth]}
+name: {full: "Tena, the Hearth of Ésalosa", en: [The Hearth]}
 type: lore
 subType: spirit
 description: "Hearth-kin of the great hall at Ésalosa—the oldest tended fire in Áelendan country, keeper of guest-right, and the one Kindred that came into being because people kept returning."

@@ -1,6 +1,6 @@
 ---
 shortcode: xilanixlan
-name: {full: "Ritual: Shilan Ish'lan", aliases: [Shilan Ish'lan, The Walker of Paths]}
+name: {full: "Ritual: Shilan Ish'lan", en: [The Walker of Paths], kiichek: [Shilan Ish'lan]}
 type: skill
 subType: mystical
 tags: [itzani, faith-skill, draft]

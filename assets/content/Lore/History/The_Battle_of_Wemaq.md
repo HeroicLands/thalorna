@@ -1,6 +1,6 @@
 ---
 shortcode: wemaqbattle
-name: {full: The Battle of Vomek, aliases: [The Green Oasis]}
+name: {full: The Battle of Vomek, en: [The Green Oasis]}
 type: lore
 subType: history
 description: "About 312 AF the orkun who will lead the Storm of the Hundred Banners comes to the Green Oasis and puts to the sword the last tribe that refused his banner; the union begins its count the same year."

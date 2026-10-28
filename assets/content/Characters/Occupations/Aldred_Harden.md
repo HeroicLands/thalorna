@@ -1,6 +1,6 @@
 ---
 shortcode: aldredhrdn
-name: {full: Dunred Harden, aliases: []}
+name: {full: Dunred Harden}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

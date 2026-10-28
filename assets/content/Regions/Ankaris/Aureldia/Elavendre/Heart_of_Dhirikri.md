@@ -1,6 +1,6 @@
 ---
 shortcode: heartofdhirikri
-name: {full: Heart of Dirikri, aliases: []}
+name: {full: Heart of Dirikri}
 type: miscgear
 description: "A crystalline artifact holding the essence of the elemental spirits called the Dirikri—it quickens natural growth around it and manipulates time within its aralwen, and lies at the center of Úkua-Arálwen behind the Maze of Echoes."
 tags: []

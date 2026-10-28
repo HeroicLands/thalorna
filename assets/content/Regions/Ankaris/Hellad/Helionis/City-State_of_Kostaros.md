@@ -1,6 +1,6 @@
 ---
 shortcode: kostaros2
-name: {full: Kostaros, aliases: [City-State of Kostaros]}
+name: {full: City-State of Kostaros, biza: [Kostaros]}
 type: affiliation
 subType: polity
 description: "City-state of Helionis on the coast, governing the surrounding district including the town of Mirtelos."

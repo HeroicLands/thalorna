@@ -2,7 +2,8 @@
 shortcode: pavanajitras
 name:
   full: "Ritual: Pavanajitras"
-  aliases: [Pavanajitras, The Wandering Wind, The Wind Spirits of the Road]
+  en: [The Wandering Wind, The Wind Spirits of the Road]
+  vedy: [pavanajitras]
 type: skill
 subType: mystical
 tags: [varnuka, faith-skill]

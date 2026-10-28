@@ -1,6 +1,6 @@
 ---
 shortcode: uzner
-name: {full: Lemani, aliases: []}
+name: {full: Lemani}
 type: being
 subType: npc
 description: "Master of the Lin'Zamlu elu Au'Khelathu and patron to a celebrated performer, whose recommendation carries across the empire"

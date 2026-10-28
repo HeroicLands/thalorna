@@ -1,6 +1,6 @@
 ---
 shortcode: braldvik
-name: {full: Bralvik, aliases: []}
+name: {full: Bralvik}
 type: place
 subType: settlement
 description: "Salkalon's largest fishing town, famous for its smoke-fish, and the one place on the Vylarian coast with a Nordmal name, given by a raiding crew stranded there in 523 AF."

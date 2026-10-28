@@ -268,7 +268,7 @@ Every being uses this format:
 shortcode: ""
 name:
   full: ""
-  aliases: ""
+  en: [] # other names in the reader's language; a name in another tongue goes under that language's code
   given: "" # character only
   clan: "" # character only
 type: being
@@ -594,7 +594,7 @@ Every being uses this format:
 ```
 ---
 shortcode: ""
-name: {full: "", aliases: []}
+name: {full: ""}
 type: being
 subType: creature
 description: "" # a short description of the creature
@@ -708,7 +708,7 @@ should not exist.
 ```
 ---
 shortcode: ""
-name: {full: "", aliases: []}
+name: {full: ""}
 type: affiliation
 subType: polity # appropriate affiliation type
 description: "" # descriptive title for this affiliation
@@ -839,7 +839,7 @@ sections the subject needs rather than a fixed list, and close on `## See Also`.
 ```
 ---
 shortcode: ""
-name: {full: "", aliases: []}
+name: {full: ""}
 type: lore
 subType: "" # see the subtypes above
 description: "" # short description of what this note holds
@@ -898,7 +898,7 @@ government through containment. Omitted or null governments do not match.
 ```
 ---
 shortcode: ""
-name: {full: "", aliases: []}
+name: {full: ""}
 type: place
 subType: settlement
 description: "" # short description of the settlement
@@ -925,7 +925,7 @@ TBD.
 ```
 ---
 shortcode: ""
-name: {full: "", aliases: []}
+name: {full: ""}
 type: place
 subType: region
 description: "" # Short one-line description of the region
@@ -961,7 +961,7 @@ needs—these notes have no fixed shape beyond closing on `## See Also`.
 ```
 ---
 shortcode: ""
-name: {full: "", aliases: []}
+name: {full: ""}
 type: place
 subType: "" # site, structure, or feature
 description: "" # short description of the place
@@ -1008,7 +1008,7 @@ TBD.
 ## Mark every name
 
 Bold is emphasis, never a machine-readable name marker. A name has a surviving
-indexed note when it is the `name.full` or one of the `aliases` of that note;
+indexed note when it is the `name.full` of that note or one of the forms its `name` lists under a language code;
 resolve shared names by their meaning in context.
 
 A governing council and the polity it governs are distinct entities. Link a

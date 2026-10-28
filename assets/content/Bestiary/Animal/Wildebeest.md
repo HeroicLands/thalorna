@@ -1,6 +1,6 @@
 ---
 shortcode: wldbst
-name: {full: Wildebeest, aliases: [Gnu]}
+name: {full: Wildebeest, en: [Gnu]}
 type: being
 subType: creature
 description: "A large, shaggy savannah bovine whose vast migratory herds define the southern grasslands in their sweeping annual movement."

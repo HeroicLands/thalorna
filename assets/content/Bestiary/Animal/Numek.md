@@ -1,6 +1,6 @@
 ---
 shortcode: numek
-name: {full: Numaq, aliases: [The Tower-Roost Colony]}
+name: {full: Numaq, en: [The Tower-Roost Colony]}
 type: being
 subType: creature
 description: "A night-flying colony animal of eight-foot wingspan that roosts by the thousand in dead light-towers and pours out at dusk to hunt."

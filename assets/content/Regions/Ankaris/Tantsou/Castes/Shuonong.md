@@ -1,6 +1,6 @@
 ---
 shortcode: shuonong
-name: {full: Shuonong, aliases: []}
+name: {full: Shuonong}
 type: lore
 subType: law
 description: "The seventh caste of Tantsou—merchants and moneylenders, free to grow rich and barred on pain of death from politics, taxed hardest of any caste and watched by Wohou auditors."

@@ -1,6 +1,6 @@
 ---
 shortcode: kalm
-name: {full: Kalm, aliases: []}
+name: {full: Kalm}
 type: place
 subType: settlement
 description: "The grain village of the lower valleys—the flattest, warmest ground the Vardain have, and the one that swelled most when the refugees came up."

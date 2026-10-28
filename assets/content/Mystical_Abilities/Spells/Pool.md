@@ -1,6 +1,6 @@
 ---
 shortcode: pool
-name: {full: Pool, aliases: []}
+name: {full: Pool}
 type: mysticalability
 subType: arcaneincantation
 description: "Creates body of water; water persists or evaporates gradually."

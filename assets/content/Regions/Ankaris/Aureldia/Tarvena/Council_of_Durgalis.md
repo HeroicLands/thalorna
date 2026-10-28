@@ -1,6 +1,6 @@
 ---
 shortcode: cncldrgls
-name: {full: Council of Dúrgalis, aliases: []}
+name: {full: Council of Dúrgalis}
 type: affiliation
 subType: polity
 description: "The governing council of Dúrgalis, a castle town in Tarvénia."

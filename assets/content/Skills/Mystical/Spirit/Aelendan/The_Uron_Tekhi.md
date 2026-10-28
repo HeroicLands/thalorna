@@ -1,6 +1,6 @@
 ---
 shortcode: uronsprt
-name: {full: "The Uron Tekhi Spirit Power", aliases: [The Uron Tekhi]}
+name: {full: The Uron Tekhi Spirit Power, aele: [the uron tekhi]}
 type: skill
 subType: mystical
 description: "Standing with The Uron Tekhi—what this allied Kindred is met, asked and bargained with."

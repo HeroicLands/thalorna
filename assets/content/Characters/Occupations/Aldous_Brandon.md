@@ -1,6 +1,6 @@
 ---
 shortcode: aldosbrndn
-name: {full: Aldous Brandon, aliases: []}
+name: {full: Aldous Brandon}
 type: being
 subType: npc
 tags: [draft, common-folk]

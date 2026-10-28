@@ -1,6 +1,6 @@
 ---
 shortcode: sideris
-name: {full: Incantation Sideris, aliases: []}
+name: {full: Incantation Sideris}
 type: skill
 subType: mystical
 tags: [zemor-hodhis, draft]

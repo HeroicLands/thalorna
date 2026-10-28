@@ -1,6 +1,6 @@
 ---
 shortcode: rudavahfrd
-name: {full: Rudavah Farrud, given: Rudavah, clan: Farrud, aliases: []}
+name: {full: Rudavah Farrud, given: Rudavah, clan: Farrud}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, common-folk]

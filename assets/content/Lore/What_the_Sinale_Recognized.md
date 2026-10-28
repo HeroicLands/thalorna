@@ -1,6 +1,6 @@
 ---
 shortcode: sinalercgnzd
-name: {full: What the Sinale Recognized, aliases: []}
+name: {full: What the Sinale Recognized}
 type: lore
 subType: history
 description: "When the Sinale reached Kalihara and were refused settlement, they recognized something familiar there. It was the stone of the Ithari works, and they have never said why they knew it."

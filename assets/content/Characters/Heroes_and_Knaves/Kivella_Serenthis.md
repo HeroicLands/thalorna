@@ -1,6 +1,6 @@
 ---
 shortcode: cibelasrnt
-name: {full: Kivella Serenthis, given: Kivella, clan: Serenthis, aliases: []}
+name: {full: Kivella Serenthis, given: Kivella, clan: Serenthis}
 type: being
 subType: character
 tags: [tamzir-crew, dependents]

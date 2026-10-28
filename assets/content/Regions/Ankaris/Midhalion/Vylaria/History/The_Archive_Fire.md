@@ -1,6 +1,6 @@
 ---
 shortcode: archivefire
-name: {full: The Archive Fire, aliases: [The Burning of the Rolls]}
+name: {full: The Archive Fire, en: [The Burning of the Rolls]}
 type: lore
 subType: history
 description: "About 318 AF the imperial archive on Arvel burns with most of four centuries of edicts and the rolls of the Republic; the Imperial Scribal Guild is given custody of everything written after, and its archive begins that year."

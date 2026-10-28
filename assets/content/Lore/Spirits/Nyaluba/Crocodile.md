@@ -1,6 +1,6 @@
 ---
 shortcode: crocodilekolembozispr
-name: {full: Crocodile Spirit, aliases: [The Crocodile Guide, Crocodile of the Kolembozi]}
+name: {full: Crocodile Spirit, en: [The Crocodile Guide, Crocodile of the Kolembozi]}
 type: lore
 subType: spirit
 description: "The crocodile-guide of the Kolembozi as a being—old, exacting, and reckoned kin even when it kills."

@@ -1,6 +1,6 @@
 ---
 shortcode: vylarisrvr
-name: {full: River Vylaris, aliases: []}
+name: {full: River Vylaris}
 type: place
 subType: feature
 description: "The river the Vylarian heartland is named for."

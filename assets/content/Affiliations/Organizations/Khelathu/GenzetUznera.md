@@ -1,6 +1,6 @@
 ---
 shortcode: genzetuznera
-name: {full: Genzet'Uzn'era, aliases: [The Temple Council of Uzn'era]}
+name: {full: Genzet'Uzn'era, en: [The Temple Council of Uzn'era]}
 type: affiliation
 subType: governmental
 description: The council governing the holdings and the observances of Uzn'era's temple

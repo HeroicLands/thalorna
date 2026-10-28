@@ -1,6 +1,6 @@
 ---
 shortcode: nesthiros2
-name: {full: Nesthiros, aliases: []}
+name: {full: Nesthiros}
 type: place
 subType: settlement
 description: "The League's great seaport on a fortress isle in the straits, where a dozen languages are spoken on the docks and the admiralty keeps the fleet."

@@ -1,6 +1,6 @@
 ---
 shortcode: farazunfrn
-name: {full: Farazun Afrun, given: Farazun, clan: Afrun, aliases: []}
+name: {full: Farazun Afrun, given: Farazun, clan: Afrun}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, common-folk]

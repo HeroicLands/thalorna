@@ -1,6 +1,6 @@
 ---
 shortcode: tvarnmark
-name: {full: Tvarnmark, aliases: []}
+name: {full: Tvarnmark}
 type: place
 subType: settlement
 description: "Inland Trade Town"

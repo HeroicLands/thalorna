@@ -1,6 +1,6 @@
 ---
 shortcode: vrystwaldadvguide
-name: {full: Vristwald Adventurer's Guide, aliases: []}
+name: {full: Vristwald Adventurer's Guide}
 type: doc
 subType: settingguide
 description: A player and GM introduction to Vristwald and the Varokh—their forest, their villages and three seats, their totems and their dead, and the ways a campaign begins there.

@@ -1,6 +1,6 @@
 ---
 shortcode: tanzho
-name: {full: Tanzho, aliases: [The First Classifier, The Celestial Dragon]}
+name: {full: The First Classifier, en: [The Celestial Dragon], tant: [Tanzho]}
 type: affiliation
 subType: faithtradition
 description: "Order."

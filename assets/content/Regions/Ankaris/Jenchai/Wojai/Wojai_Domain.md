@@ -1,6 +1,6 @@
 ---
 shortcode: wojaidmn
-name: {full: Wojai Domain, aliases: [House Wojai]}
+name: {full: Wojai Domain, en: [House Wojai]}
 type: affiliation
 subType: polity
 description: "The domain of House Wojai—Yujai and the realm's best harbor, held from the trading town of Yuwu by an independent lord whose merchants carry Jenchai's goods to the Vedyaran coast."

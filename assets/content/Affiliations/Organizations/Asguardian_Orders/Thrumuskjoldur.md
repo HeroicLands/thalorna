@@ -1,6 +1,6 @@
 ---
 shortcode: thrumuskjoldur
-name: {full: "Thrumuskjoldur", aliases: []}
+name: {full: Thrumuskjoldur}
 type: affiliation
 subType: order
 description: "Combat and protection at Thrunvald's coastal hovs."

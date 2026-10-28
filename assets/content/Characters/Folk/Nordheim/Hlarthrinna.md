@@ -1,6 +1,6 @@
 ---
 shortcode: hlarthrinna
-name: {full: Hlarthrinna, aliases: [Lady Hlarthrinna]}
+name: {full: Hlarthrinna, en: [Lady Hlarthrinna]}
 type: being
 subType: npc
 description: Agent of a prominent trading company who respects Vruldorv Drottgar's workmanlike approach.

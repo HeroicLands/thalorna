@@ -1,6 +1,6 @@
 ---
 shortcode: greenrising
-name: {full: Green Rising, aliases: []}
+name: {full: Green Rising}
 type: mysticalability
 subType: arcaneincantation
 description: "Accelerates the growth of living plants to a stated stage."

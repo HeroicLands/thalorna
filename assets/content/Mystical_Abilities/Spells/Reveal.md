@@ -1,6 +1,6 @@
 ---
 shortcode: reveal
-name: {full: Reveal, aliases: []}
+name: {full: Reveal}
 type: mysticalability
 subType: arcaneincantation
 description: "Reveals hidden world beneath earth; perceives buried metal glowing."

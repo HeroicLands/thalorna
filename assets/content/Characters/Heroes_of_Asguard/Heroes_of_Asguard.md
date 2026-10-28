@@ -1,6 +1,6 @@
 ---
 shortcode: heroessgrd
-name: {full: Heroes of Asguard, aliases: []}
+name: {full: Heroes of Asguard}
 type: doc
 subType: reference
 description: "Variety of Asguardian Heroes."

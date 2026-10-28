@@ -1,6 +1,6 @@
 ---
 shortcode: dreadspawncrtr
-name: {full: Dreadspawn, aliases: []}
+name: {full: Dreadspawn}
 type: lore
 subType: bestiary
 description: "Creatures made, not born—the work of any god of invention or creation, or of a mortal who dares it; none of them can breed, and some are favored templates recreated over and over."

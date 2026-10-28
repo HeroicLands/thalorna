@@ -1,6 +1,6 @@
 ---
 shortcode: roadsendlmnt
-name: {full: The Lament at the Road's End, aliases: [The Diggers' Lament]}
+name: {full: The Lament at the Road's End, en: [The Diggers' Lament]}
 type: lore
 subType: literature
 description: "The market singers' lament for the diggers who went up to the King's Cut and did not come down, sung where the broken ore-road reaches Elanmere on the first night of the autumn fair, because the dead it calls have no cairn."
@@ -15,7 +15,7 @@ data:
     - place-elanmere
     - place-sorvanda
     - affiliation-alndnwrdns
-  language: elvndrlng
+  lang: elav
 
 # terran_analog: "The broadside and street ballad in common metre, sung for pay at fairs, for the form; the mining-disaster ballads of the coalfields and the lead dales, which list the dead by name and trade, for the catalogue; the Scots and Irish keening that calls the dead by name, for the frame; the satirical ballad set beside a ruler's own account, for the edge."
 ---

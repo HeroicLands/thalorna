@@ -1,6 +1,6 @@
 ---
 shortcode: agecopyists
-name: {full: The Age of Copyists, aliases: []}
+name: {full: The Age of Copyists}
 type: lore
 subType: history
 description: "From the dissolution of Mahanodi in 241 BF to the end of the Vyalendri kingship about 150 AF: a quiet, recorded age of libraries and endowments, the last gold raid on Suvargeri, the Vyalendri crown, the charter of the pass-road, and a royal seat the river drowned."

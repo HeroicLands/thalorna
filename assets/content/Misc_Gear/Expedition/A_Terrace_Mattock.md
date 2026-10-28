@@ -1,6 +1,6 @@
 ---
 shortcode: terracemattock
-name: {full: "A Terrace Mattock", aliases: []}
+name: {full: A Terrace Mattock}
 type: miscgear
 description: "A short-hafted hardwood mattock with a broad blade, the tool by which a terrace household keeps its wall and its drain."
 tags: [kalihara]

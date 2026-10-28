@@ -1,6 +1,6 @@
 ---
 shortcode: rkhmkhlthn
-name: {full: Rakhimea Khalithon, aliases: []}
+name: {full: Rakhimea Khalithon}
 type: being
 subType: npc
 tags: [draft, soldiery]

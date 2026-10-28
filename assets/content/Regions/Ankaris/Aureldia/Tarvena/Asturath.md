@@ -1,6 +1,6 @@
 ---
 shortcode: asturath
-name: {full: Asturath, aliases: []}
+name: {full: Asturath}
 type: place
 subType: region
 description: "The land of the Kingdom of Asturath—the mountainous heartland of Tarvénia, whose narrow passes and hidden valleys have never been held by an invader."

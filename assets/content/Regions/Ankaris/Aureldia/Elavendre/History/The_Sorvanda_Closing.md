@@ -1,6 +1,6 @@
 ---
 shortcode: sorvandaclose
-name: {full: The Sórvanda Closing, aliases: [The King's Cut]}
+name: {full: The Sórvanda Closing, en: [The King's Cut]}
 type: lore
 subType: history
 description: "About 320 AF King Hóuradel opened mine workings above the tree line in Sórvanda to meet the Empire's tribute, the Wardens closed them in a single season, and the crown learned that it rules the interior only through the people who live in it."

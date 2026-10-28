@@ -1,6 +1,6 @@
 ---
 shortcode: azuathis
-name: {full: Faith of Azu'athis, aliases: []}
+name: {full: Faith of Azu'athis}
 type: affiliation
 subType: faithtradition
 description: "Chaos."

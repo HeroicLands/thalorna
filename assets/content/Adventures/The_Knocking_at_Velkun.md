@@ -1,6 +1,6 @@
 ---
 shortcode: knockvelkun
-name: {full: The Voice at the Barred Gate, aliases: []}
+name: {full: The Voice at the Barred Gate}
 type: scenario
 subType: adventure
 description: "Each night a settlement bars its gate against a knocking that speaks in a dead champion's words, and the few who answered it are gone."

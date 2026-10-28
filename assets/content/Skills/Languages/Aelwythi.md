@@ -1,6 +1,6 @@
 ---
 shortcode: aelwthlng
-name: {full: Aelwythi Language, aliases: []}
+name: {full: Aelwythi Language}
 type: skill
 subType: language
 description: "The speech of the island of Aelwyth, given in these pages in the older register of thou and thee."

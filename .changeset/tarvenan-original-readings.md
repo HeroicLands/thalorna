@@ -2,7 +2,7 @@
 "thalorna": patch
 ---
 
-**Tarvenan original readings**
+**Literature and verse**
 
 - The Verses of the Thórgila Fair keeps the duel’s rules, themes, variants and results beside fresh English and Roman readings.
 - The Roll at the Thresholds preserves the company’s full oath roll, including the struck name kept silent.

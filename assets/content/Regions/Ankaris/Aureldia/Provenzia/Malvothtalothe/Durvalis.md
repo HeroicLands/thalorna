@@ -1,6 +1,6 @@
 ---
 shortcode: durvalis
-name: {full: Durvalis, aliases: []}
+name: {full: Durvalis}
 type: place
 subType: settlement
 description: "The fortress town of Talote, Provenzia's eastern march—the muster point below the Tarvénian passes, whose walls are new, whose garrison is permanent, and whose year begins when the snow clears."

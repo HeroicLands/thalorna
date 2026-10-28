@@ -1,6 +1,6 @@
 ---
 shortcode: veturnetur
-name: {full: Veturnetur, aliases: []}
+name: {full: Veturnetur}
 type: lore
 subType: custom
 description: "The Winter Nights of late autumn, when households prepare for scarcity and honor the dead."

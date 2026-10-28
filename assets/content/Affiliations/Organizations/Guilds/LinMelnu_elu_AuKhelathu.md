@@ -1,6 +1,6 @@
 ---
 shortcode: linmelnkhlth
-name: {full: Lin'Melnu elu Au'Khelathu, aliases: [The Metalworkers' Guild of Au'Khelathu]}
+name: {full: Lin'Melnu elu Au'Khelathu, en: [The Metalworkers' Guild of Au'Khelathu]}
 type: affiliation
 subType: guild
 description: The chartered guild of the empire's metalworkers, heirs to the ancient forge-companies and jealous of the standards they inherited

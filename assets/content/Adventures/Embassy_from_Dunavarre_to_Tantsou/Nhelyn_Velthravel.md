@@ -1,6 +1,6 @@
 ---
 shortcode: nhelynvelthravel
-name: {full: Nelin Vélthravel, given: Nelin, clan: Vélthravel, aliases: []}
+name: {full: Nelin Vélthravel, given: Nelin, clan: Vélthravel}
 type: being
 subType: character
 tags: [draft, embassy-to-tantsou]

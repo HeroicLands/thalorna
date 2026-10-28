@@ -1,6 +1,6 @@
 ---
 shortcode: urnathdorkim
-name: {full: Urnath Dórkimnde, aliases: [Lord Urnath the Cruel, Lord Urnath]}
+name: {full: Urnath Dórkimnde, en: [Lord Urnath the Cruel, Lord Urnath]}
 type: being
 subType: npc
 description: A nobleman whose cruelty toward servants and dependents violated every principle Ídrise Kórisvar holds.

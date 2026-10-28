@@ -1,6 +1,6 @@
 ---
 shortcode: ruweq
-name: {full: Uruvaq, aliases: [The Hollow Hills]}
+name: {full: Uruvaq, en: [The Hollow Hills]}
 type: place
 subType: site
 description: "A range of hollow ridges in the Idvaqor, the eastern stone desert, whose caverns hold cut cisterns of standing water and walls painted in a script no one reads."

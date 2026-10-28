@@ -1,6 +1,6 @@
 ---
 shortcode: mahvaradparv
-name: {full: Mahvarad Parvaran, aliases: [Chieftain Mahvarad]}
+name: {full: Mahvarad Parvaran, en: [Chieftain Mahvarad]}
 type: being
 subType: npc
 description: Leader of one of the clans that Shadezan Kamruz defeated, who plots constant rebellion.

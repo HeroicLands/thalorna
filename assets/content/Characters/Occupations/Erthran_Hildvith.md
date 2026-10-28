@@ -1,6 +1,6 @@
 ---
 shortcode: erthrnhldvth
-name: {full: Erthran yra Hildvith wur Waldburg, aliases: []}
+name: {full: Erthran yra Hildvith wur Waldburg}
 type: being
 subType: npc
 tags: [draft, common-folk]

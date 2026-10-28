@@ -1,6 +1,6 @@
 ---
 shortcode: horsebarrows
-name: {full: The Horse Barrows, aliases: []}
+name: {full: The Horse Barrows}
 type: place
 subType: site
 description: "Grassed-over earth mounds in the western grazing country of Zu-Qeztu where the first Tha'Ulgau were buried with their horses in the hill way, avoided by the Khelathi as unclean and visited in secret by the house that descends from them."

@@ -1,6 +1,6 @@
 ---
 shortcode: sarisul
-name: {full: The Tending-Stones, aliases: ["sari'sul"]}
+name: {full: The Tending-Stones, kali: [sari'sul]}
 type: lore
 subType: custom
 description: "The village works of Kalihara—one beside the spring, fishing ground, terrace or grove of every lineage village—how a lineage tends its stone, what a village loses when the stone goes white, and the count the custodians keep of the white ones."

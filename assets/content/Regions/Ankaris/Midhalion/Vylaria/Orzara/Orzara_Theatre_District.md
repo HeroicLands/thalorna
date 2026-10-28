@@ -1,6 +1,6 @@
 ---
 shortcode: magntheatredstr
-name: {full: Theatre District, aliases: []}
+name: {full: Theatre District}
 type: place
 subType: site
 description: "The theater quarter of Orzara—semicircular theaters and odeons staging tragedy, comedy, recitation and music, home of the masked Vylarian stage and its celebrated machinery."

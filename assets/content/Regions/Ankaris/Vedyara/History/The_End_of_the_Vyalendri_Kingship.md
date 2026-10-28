@@ -1,6 +1,6 @@
 ---
 shortcode: vylndrkngs
-name: {full: The End of the Vyalendri Kingship, aliases: []}
+name: {full: The End of the Vyalendri Kingship}
 type: lore
 subType: history
 description: "By tradition about 150 AF the line of the eleventh and last Maharava of Vyalendra ended, and the Loom-Council took the kings' audience hall and has governed the city from it since."

@@ -2,7 +2,8 @@
 shortcode: ordrstrmspkrs
 name:
   full: The Order of the Storm-Speakers
-  aliases: [Stormmelendir, The Speakers of the Thunder, The Hammer Held]
+  en: [The Speakers of the Thunder, The Hammer Held]
+  nord: [stormmelendir]
 type: affiliation
 subType: order
 description: "Warrior-shamans of Thrunvald who fight as the storm fights—combat-mages of thunder and weather who ride to where the storm calls them, and answer with hammer when it does."

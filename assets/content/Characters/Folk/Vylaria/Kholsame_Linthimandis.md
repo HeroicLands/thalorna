@@ -1,6 +1,6 @@
 ---
 shortcode: kholsamelint
-name: {full: Kolsame Linthimis, aliases: [Commander Kolsame]}
+name: {full: Kolsame Linthimis, en: [Commander Kolsame]}
 type: being
 subType: npc
 description: Commander of the City Watch, the official responsible for investigating underground apothecary operations.

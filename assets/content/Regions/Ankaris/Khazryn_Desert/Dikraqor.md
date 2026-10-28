@@ -1,6 +1,6 @@
 ---
 shortcode: dkrqrrgn
-name: {full: Diqraqor, aliases: [The Stone Uplands]}
+name: {full: Diqraqor, en: [The Stone Uplands]}
 type: place
 subType: region
 description: "The black-rock plateau between the Central Sands and the Tellumel—mesas, dry ravines and rock cisterns, home to poor and hostile tribes and to the Atarzád herds on its southern edge."

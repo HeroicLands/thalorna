@@ -1,6 +1,6 @@
 ---
 shortcode: thavenfrwn
-name: {full: Taven Farven, aliases: []}
+name: {full: Taven Farven}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

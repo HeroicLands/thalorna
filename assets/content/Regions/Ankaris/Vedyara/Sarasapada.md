@@ -1,6 +1,6 @@
 ---
 shortcode: sarasapada
-name: {full: Sarasapada, aliases: []}
+name: {full: Sarasapada}
 type: place
 subType: settlement
 description: "Village at the foot of the great tank, whose sluices water six villages below it."

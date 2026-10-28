@@ -1,6 +1,6 @@
 ---
 shortcode: nethermootholw
-name: {full: Nethermoot Hollow, aliases: [The Witch's Hollow, The Oaths' Moot]}
+name: {full: Nethermoot Hollow, en: [The Witch's Hollow, The Oaths' Moot]}
 type: place
 subType: site
 description: "A sunken oak-ringed dell in the deep forest of the Aelwythan interior where a forest clan once held its moot, now the dwelling of a witch who trades in years and keeps the clan's ancestors rooted in the trees."

@@ -1,6 +1,6 @@
 ---
 shortcode: thessansdiagrams
-name: {full: "Thessan's Diagrams", aliases: []}
+name: {full: Thessan's Diagrams}
 type: miscgear
 description: "Sheets of measured drawings of a failing work, made by Marendos Thessan, a scholar from beyond the island; they record what the work did and say nothing of what it is."
 tags: [kalihara]

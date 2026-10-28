@@ -1,6 +1,6 @@
 ---
 shortcode: kngdmglvrn
-name: {full: Kingdom of Galvaren, aliases: []}
+name: {full: Kingdom of Galvaren}
 type: affiliation
 subType: polity
 description: "Green, mist-shrouded western coast of Tarvénia—seafaring kingdom of fishermen and dreamers, with a reputation for mysticism that sits uneasily with Tarvenan skepticism."

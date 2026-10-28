@@ -1,6 +1,6 @@
 ---
 shortcode: draskseldath
-name: {full: Draskselda Thraldidrok, aliases: [Captain Draskselda Thraldidrok]}
+name: {full: Draskselda Thraldidrok, en: [Captain Draskselda Thraldidrok]}
 type: being
 subType: npc
 description: A rival sailor who captains a merchant vessel and views Hvarnthann Stormrót as competition.

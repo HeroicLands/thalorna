@@ -1,6 +1,6 @@
 ---
 shortcode: bhrnytemple
-name: {full: The Mahajaya Temple at Bharanya, aliases: []}
+name: {full: The Mahajaya Temple at Bharanya}
 type: place
 subType: structure
 description: "The great Mahajaya temple of the lower Mahanodi, whose senior priest holds the third voice on the Council of Three."

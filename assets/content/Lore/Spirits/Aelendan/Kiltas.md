@@ -1,6 +1,6 @@
 ---
 shortcode: kiltasspr
-name: {full: "Kiltas, the Red Fox of the Lower Wood", aliases: []}
+name: {full: "Kiltas, the Red Fox of the Lower Wood"}
 type: lore
 subType: spirit
 description: "Fox-spirit of the lower wood—a thief, a bargainer, and the one Kindred that will renegotiate."

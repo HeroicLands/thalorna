@@ -1,6 +1,6 @@
 ---
 shortcode: lastshrine
-name: {full: The Song of the Last Shrine, aliases: [The Fourth Song of Lentize]}
+name: {full: The Song of the Last Shrine, en: [The Fourth Song of Lentize]}
 type: lore
 subType: literature
 description: "The fourth song of the long sea song of Lentize of Volsater, sung in rhymed eight-line stanzas at the autumn Arrivals: the oath with its small word, the twelve named city first, the sea at her window past the Wayfarer's last shrine, the clerk's count that turned the ship, and the vow that took the master out again alone."
@@ -15,7 +15,7 @@ data:
     - affiliation-pozeras
     - affiliation-brazemas
     - lore-provenzianclt
-  language: provnzlng
+  lang: prov
 
 # terran_analog: "Camões' epic of the sea road, for the rhymed eight-line stanza and the navigator's voyage past the last cape; the troubadour envoi to a patron; the saudade of the fado and the women's songs of the western coast; the medieval way-chapel at a headland, and the ex-voto vowed at sea and owed after."
 ---

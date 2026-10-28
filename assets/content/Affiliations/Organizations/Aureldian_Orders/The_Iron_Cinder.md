@@ -1,6 +1,6 @@
 ---
 shortcode: ironcinder
-name: {full: The Iron Cinder, aliases: [Zargelza, The Cinderhand, The Black Fist]}
+name: {full: The Iron Cinder, en: [The Cinderhand, The Black Fist], vyl: [Zargelza]}
 type: affiliation
 subType: order
 description: "Covert strike order of the Black Flame—smaller, more secretive, and unaccountable; deployed when the heresy needs results without trial, debate, or witnesses."

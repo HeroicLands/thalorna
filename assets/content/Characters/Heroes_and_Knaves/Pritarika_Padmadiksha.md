@@ -1,6 +1,6 @@
 ---
 shortcode: prtrkpdmdksh
-name: {full: Pritarika Padmadiksha, given: Pritarika, clan: Padmadiksha, aliases: [Pripri]}
+name: {full: Pritarika Padmadiksha, given: Pritarika, clan: Padmadiksha, vedy: [pripri]}
 type: being
 subType: character
 tags: [heroes-and-knaves, administration]

@@ -1,6 +1,6 @@
 ---
 shortcode: khelthzscrpt
-name: {full: Khelathi-zethu Script, aliases: [Sacred Script]}
+name: {full: Khelathi-zethu Script, en: [Sacred Script]}
 type: skill
 subType: script
 description: "The sacred signs of Au'Khelathu—about four hundred and seventy signs cut on temple walls, and the priestly monopoly that keeps their reading."

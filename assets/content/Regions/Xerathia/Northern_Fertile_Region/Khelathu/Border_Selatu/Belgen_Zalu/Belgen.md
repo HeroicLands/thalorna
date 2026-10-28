@@ -1,6 +1,6 @@
 ---
 shortcode: belgen
-name: {full: Belgen, aliases: []}
+name: {full: Belgen}
 type: place
 subType: settlement
 description: "Selat capital of Belgen-Zalu."

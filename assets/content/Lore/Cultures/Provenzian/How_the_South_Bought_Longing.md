@@ -1,6 +1,6 @@
 ---
 shortcode: boughtlonging
-name: {full: How the South Bought Longing, aliases: [The Envoy's Word]}
+name: {full: How the South Bought Longing, en: [The Envoy's Word]}
 type: lore
 subType: literature
 description: "The tale the eldest of a southern house tells at the Festival of the Hearth while the flame from the temple's forge waits on the taper: how Ólvenia the Bountiful, who had everything, kept the Wayfarer at her table for a summer and lost him at the equinox, found the south had no word for what was left, and sent an envoy north to buy one, and what the north asked for it."
@@ -17,7 +17,7 @@ data:
     - place-elavendre
     - skill-provnzlng
     - lore-provenzianclt
-  language: provnzlng
+  lang: prov
 
 # terran_analog: "The aetiological household tale told at a seasonal fire, for the frame; the myths in which a goddess of plenty learns grief through an absence, for the turn; the quest to fetch a thing from a far people who will not sell it, and the folk accounts of how a borrowed word came into a tongue; saudade, the word the western coast treats as its own."
 ---

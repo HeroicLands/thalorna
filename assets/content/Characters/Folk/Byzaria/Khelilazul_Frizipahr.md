@@ -1,6 +1,6 @@
 ---
 shortcode: khelilazulfr
-name: {full: Kelilazul Frizipáhr, aliases: [Master Cartographer Kelilazul Frizipáhr]}
+name: {full: Kelilazul Frizipáhr, en: [Master Cartographer Kelilazul Frizipáhr]}
 type: being
 subType: npc
 description: The deceased master cartographer who mentored Damáklios and demanded precision to the point of obsession, named in Damáklios Bridutis and The Cartographers' Guild of the Bizarian League.

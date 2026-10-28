@@ -1,6 +1,6 @@
 ---
 shortcode: aukhlthcrncy
-name: {full: Au'Khelathu Currency, aliases: [The Khelathi Weight System]}
+name: {full: Au'Khelathu Currency, en: [The Khelathi Weight System]}
 type: lore
 subType: economy
 description: "Standard currency system of the Northern Fertile Region of Zerathia—temple-attested weight-pieces of copper, silver, and gold organized in gezan and qelu units; backed by the Khelathi temple banking system (Gar-Hálzi); used across Au'Khelathu, Bethua, and Okharis."

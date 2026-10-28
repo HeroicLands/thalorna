@@ -1,6 +1,6 @@
 ---
 shortcode: slndtrtl
-name: {full: Island Turtle, aliases: [Reikula]}
+name: {full: Island Turtle, kali: [Reikula]}
 type: being
 subType: creature
 description: "A sea turtle of seven to nine feet and half a ton, its green-black shell crusted with growth, that circles Kalihara on a route fishermen know and comes ashore on the same beaches each Wet-Turn."

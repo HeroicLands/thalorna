@@ -1,6 +1,6 @@
 ---
 shortcode: vethengrund
-name: {full: Véthengrund, aliases: []}
+name: {full: Véthengrund}
 type: place
 subType: site
 description: "A hidden bottom land of ancient springs, the Sacred Pools, held to be the dwelling of water spirits who guard knowledge of the natural world."

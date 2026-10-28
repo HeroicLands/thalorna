@@ -1,12 +1,12 @@
 ---
 shortcode: aelwythanclt
-name: {full: Aelwythan, aliases: []}
+name: {full: Aelwythan}
 type: lore
 subType: culture
 description: "The Aelwythans—their beliefs, their mores, and what they hold a person owes."
 tags: []
 data:
-  language: skill-aelwthlng
+  lang: aelw
   glossary:
     - name: "Knight-Captain"
       definition: "A commander of the Order of the Just Blade, which serves as Dúnavarre's army"

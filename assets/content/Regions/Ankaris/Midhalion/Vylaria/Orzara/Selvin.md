@@ -1,6 +1,6 @@
 ---
 shortcode: selvin
-name: {full: Selvin, aliases: [the Laurel]}
+name: {full: the Laurel, vyl: [Selvin]}
 type: place
 subType: feature
 description: "The greener and newer of the twin patrician hills of Orzara, its gardens and great houses the address of the rising, with the Gilded Quarter on its lower slopes."

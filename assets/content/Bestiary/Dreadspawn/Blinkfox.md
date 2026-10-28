@@ -1,6 +1,6 @@
 ---
 shortcode: blinkfox
-name: {full: Blinkfox, aliases: []}
+name: {full: Blinkfox}
 type: being
 subType: creature
 description: "A made predator that hunts enchanted forests by slipping through dimensions, striking from partially outside normal space."

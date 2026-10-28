@@ -1,6 +1,6 @@
 ---
 shortcode: bharyastan2
-name: {full: Bharyastan, aliases: []}
+name: {full: Bharyastan}
 type: place
 subType: settlement
 description: "The one town of the mountain kingdom of Bharyastan—a palace, a horse-ground and a market week, on the shelf where the eight valleys meet."

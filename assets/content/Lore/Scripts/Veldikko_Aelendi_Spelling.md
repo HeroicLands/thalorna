@@ -1,6 +1,6 @@
 ---
 shortcode: aeleveldikkoenc
-name: {full: Áelendi Veldikko Encoding, aliases: []}
+name: {full: Áelendi Veldikko Encoding}
 type: doc
 subType: reference
 data:

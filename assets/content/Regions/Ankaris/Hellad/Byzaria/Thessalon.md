@@ -1,6 +1,6 @@
 ---
 shortcode: thessalon
-name: {full: Thessalon, aliases: []}
+name: {full: Thessalon}
 type: place
 subType: settlement
 description: "A Bizarian harbor whose Harbor Master steers ship-repair contracts toward the seamen whose judgment of a hull he trusts."

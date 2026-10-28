@@ -1,6 +1,6 @@
 ---
 shortcode: raiaquuznera
-name: {full: Raiaku Uzner'Au, given: Raiaku, clan: Uzner'Au, aliases: []}
+name: {full: Raiaku Uzner'Au, given: Raiaku, clan: Uzner'Au}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]

@@ -1,6 +1,6 @@
 ---
 shortcode: erkhrsghnds
-name: {full: Érkhiros Ghanides, aliases: []}
+name: {full: Érkhiros Ghanides}
 type: being
 subType: npc
 tags: [draft, common-folk]

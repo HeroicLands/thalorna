@@ -1,6 +1,6 @@
 ---
 shortcode: hshcrclslnt
-name: {full: The Hush at the Heart of the Wood, aliases: []}
+name: {full: The Hush at the Heart of the Wood}
 type: scenario
 subType: adventure
 description: "Deep in the forest lies a circle where nothing grows and no bird calls, and at dusk the forest's dead walk out of its silence."

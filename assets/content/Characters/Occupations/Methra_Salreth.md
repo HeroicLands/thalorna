@@ -1,6 +1,6 @@
 ---
 shortcode: methrzlrth
-name: {full: Methra Salreth, aliases: []}
+name: {full: Methra Salreth}
 type: being
 subType: npc
 tags: [draft, common-folk]

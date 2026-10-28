@@ -1,6 +1,6 @@
 ---
 shortcode: xenoksbrds
-name: {full: Zenokos Bardas, aliases: []}
+name: {full: Zenokos Bardas}
 type: being
 subType: npc
 tags: [todo-warrior, draft, soldiery]

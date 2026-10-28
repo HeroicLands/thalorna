@@ -1,6 +1,6 @@
 ---
 shortcode: ralthann
-name: {full: Ralthann, aliases: [Father Ralthann]}
+name: {full: Ralthann, en: [Father Ralthann]}
 type: being
 subType: npc
 description: A traveling priest of Eidgar who once stayed at the estate of Thraskorv Jarnskel's master.

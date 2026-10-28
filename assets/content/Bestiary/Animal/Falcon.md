@@ -1,6 +1,6 @@
 ---
 shortcode: falcon
-name: {full: Falcon, aliases: []}
+name: {full: Falcon}
 type: being
 subType: creature
 description: "A sleek, compact raptor of the middle air, striking prey in devastating high-speed vertical dives no larger bird can match."

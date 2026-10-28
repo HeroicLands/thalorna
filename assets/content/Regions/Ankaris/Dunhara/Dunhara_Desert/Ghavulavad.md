@@ -1,6 +1,6 @@
 ---
 shortcode: ghavulavad
-name: {full: Ghavulavad, aliases: []}
+name: {full: Ghavulavad}
 type: place
 subType: settlement
 description: "The oasis seat of the Dunhara Tribes—a hollow of palms and black tents round a single great well, where the common council meets and caravans hire their guides."

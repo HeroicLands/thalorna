@@ -1,6 +1,6 @@
 ---
 shortcode: anzetqeltnome
-name: {full: Anzet-Qelt, aliases: []}
+name: {full: Anzet-Qelt}
 type: place
 subType: region
 description: "Jackal-cult and desert-edge tombs; embalmers and tomb-guards—the land of the Selat of Anzet-Qelt, one of the upper-river selatu of Au'Khelathu."

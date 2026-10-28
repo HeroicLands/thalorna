@@ -1,6 +1,6 @@
 ---
 shortcode: yharvalenhenge
-name: {full: Yarvalen Henge, aliases: []}
+name: {full: Yarvalen Henge}
 type: place
 subType: site
 description: "The broken megalithic circle of northern Provenzia, thrown down in the Nordheim raids two centuries ago—and the source of the curse on the Blood-field, now being deliberately magnified by the Cult of the Black Flame."

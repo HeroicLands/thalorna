@@ -1,6 +1,6 @@
 ---
 shortcode: selatgrshbzt
-name: {full: The Selat of Gar-Shebazet, aliases: []}
+name: {full: The Selat of Gar-Shebazet}
 type: affiliation
 subType: polity
 description: "Papyrus marshes; fowling, reed-craft, and the empire's paper-cutting—one of the delta selatu of Au'Khelathu."

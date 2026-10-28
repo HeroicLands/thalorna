@@ -1,6 +1,6 @@
 ---
 shortcode: stagttm
-name: {full: Stag, aliases: [Stag Totem]}
+name: {full: Stag, en: [Stag Totem]}
 type: lore
 subType: bestiary
 description: "The stag as a totemic ideal, and the human character it describes."

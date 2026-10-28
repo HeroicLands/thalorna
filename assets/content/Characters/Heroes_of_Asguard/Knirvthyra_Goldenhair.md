@@ -1,6 +1,6 @@
 ---
 shortcode: knrvthyrgldnhr
-name: {full: Knirvthira Goldenhair, given: Knirvthira, aliases: [Goldenhair]}
+name: {full: Knirvthira Goldenhair, given: Knirvthira, en: [Goldenhair]}
 type: being
 subType: character
 tags: [hero, heroes-of-asguard, administration]

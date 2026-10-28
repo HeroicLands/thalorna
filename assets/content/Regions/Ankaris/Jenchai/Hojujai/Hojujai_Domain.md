@@ -1,6 +1,6 @@
 ---
 shortcode: hojujaidmn
-name: {full: Hojujai Domain, aliases: [House Hojujai]}
+name: {full: Hojujai Domain, en: [House Hojujai]}
 type: affiliation
 subType: polity
 description: "The domain of House Hojujai—Hojai, the burning mountain, its hot springs and ash-soil terraces, held from Yanwu by a widow-regent for her son, the house of the last Teng Ja."

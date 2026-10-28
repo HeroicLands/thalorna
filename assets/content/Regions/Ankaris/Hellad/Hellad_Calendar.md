@@ -1,6 +1,6 @@
 ---
 shortcode: helladcal
-name: {full: The Hellád Calendar, aliases: [The Seven Ages]}
+name: {full: The Hellád Calendar, en: [The Seven Ages]}
 type: lore
 subType: calendar
 description: "The older count of the Hellád cities, kept beside the Vylarian Calendar by the old families, the Games, the temples and the farming country: twelve months named for the work and the festivals of the year, and seven ages, from the Landings to the Free Cities, each numbering its own years."

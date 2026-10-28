@@ -1,6 +1,6 @@
 ---
 shortcode: quztarqnrshq
-name: {full: Kuztar Akun'Rasheku, given: Kuztar, clan: Akun'Rasheku, aliases: []}
+name: {full: Kuztar Akun'Rasheku, given: Kuztar, clan: Akun'Rasheku}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]

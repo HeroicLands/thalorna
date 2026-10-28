@@ -1,6 +1,6 @@
 ---
 shortcode: kiriszyrnd
-name: {full: Kirisa Zire, aliases: []}
+name: {full: Kirisa Zire}
 type: being
 subType: npc
 tags: [draft, common-folk]

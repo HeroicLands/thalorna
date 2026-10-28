@@ -1,6 +1,6 @@
 ---
 shortcode: khazararrv
-name: {full: The Coming of the Khazari, aliases: [The Arrival of the Seven Clans]}
+name: {full: The Coming of the Khazari, en: [The Arrival of the Seven Clans]}
 type: lore
 subType: history
 description: "The Khazari reach Thalorna around 5300 BF as seven clans, two thousand years after the Sinale, and find a world whose humans are hunter-gatherers and cannot provision a hold."

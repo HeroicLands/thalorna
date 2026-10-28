@@ -1,6 +1,6 @@
 ---
 shortcode: vethholt
-name: {full: Vethholt, aliases: []}
+name: {full: Vethholt}
 type: place
 subType: settlement
 description: "A Varokh village in Thornwald."

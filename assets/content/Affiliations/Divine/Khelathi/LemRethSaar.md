@@ -1,6 +1,6 @@
 ---
 shortcode: lemrethsaar
-name: {full: Lem'Reth'Sa'ar, aliases: [The Order of Reth'Sa'ar]}
+name: {full: Lem'Reth'Sa'ar, en: [The Order of Reth'Sa'ar]}
 type: affiliation
 subType: order
 description: The priesthood serving Reth'Sa'ar, keeping the archives and the disciplines of the written hand

@@ -1,6 +1,6 @@
 ---
 shortcode: lekhauithnet
-name: {full: "Lekhau: Ithnetáu", aliases: []}
+name: {full: "Lekhau: Ithnetáu"}
 type: skill
 subType: mystical
 tags: [gethunu-lekhau, draft]

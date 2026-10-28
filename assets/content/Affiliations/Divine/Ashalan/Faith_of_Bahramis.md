@@ -1,8 +1,6 @@
 ---
 shortcode: bahramis
-name:
-  full: Faith of Báhramis
-  aliases: [The Thunder Rider, Storm God, "Báhramis, The Thunder Rider"]
+name: {full: Faith of Báhramis, en: [The Thunder Rider, Storm God, "Báhramis, The Thunder Rider"]}
 type: affiliation
 subType: faithtradition
 description: "Storms, Battle, Protection."

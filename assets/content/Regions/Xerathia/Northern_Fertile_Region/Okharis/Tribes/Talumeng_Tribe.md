@@ -1,6 +1,6 @@
 ---
 shortcode: talumengtrb
-name: {full: Táluméng Tribe, aliases: []}
+name: {full: Táluméng Tribe}
 type: affiliation
 subType: polity
 description: A cattle-herding tribe of the open Okharis plains, the largest of the village tribes.

@@ -1,6 +1,6 @@
 ---
 shortcode: sangema
-name: {full: Sangema, aliases: []}
+name: {full: Sangema}
 type: place
 subType: structure
 description: "The temple at the confluence, whose senior priest convenes the twelve-yearly assembly and sits on the Council of Three."

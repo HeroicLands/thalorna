@@ -1,6 +1,6 @@
 ---
 shortcode: guesthouseblkpn
-name: {full: The Guesthouse in the Black Pines, aliases: []}
+name: {full: The Guesthouse in the Black Pines}
 type: scenario
 subType: adventure
 description: "The bridge goes into the river behind the party, and the only roof on the far bank belongs to a keeper who opens the door before anyone knocks."

@@ -1,6 +1,6 @@
 ---
 shortcode: tantsoucrncy
-name: {full: Tantsou Currency, aliases: [Tantsou Monetary System]}
+name: {full: Tantsou Currency, en: [Tantsou Monetary System]}
 type: lore
 subType: economy
 description: "How commerce runs in the Empire of Tantsou—ledger-credit administered through the classification apparatus, with foreign coin exchanged at the frontier at rates the bureaus set."

@@ -1,6 +1,6 @@
 ---
 shortcode: redstepsrainfst
-name: {full: The Red Steps in the Eastern Rainforest, aliases: []}
+name: {full: The Red Steps in the Eastern Rainforest}
 type: scenario
 subType: adventure
 description: "A landslide takes the trail, the rain will not stop, and the only shelter is a red stair climbing to a temple whose keeper was supposed to be dead."

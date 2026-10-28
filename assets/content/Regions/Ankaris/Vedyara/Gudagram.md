@@ -1,6 +1,6 @@
 ---
 shortcode: gudagram
-name: {full: Gudagram, aliases: []}
+name: {full: Gudagram}
 type: place
 subType: settlement
 description: "The sugar village of the Mahanodi floodplain, where the cane is cut and the pale grade is boiled."

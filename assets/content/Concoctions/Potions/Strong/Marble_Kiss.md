@@ -1,6 +1,6 @@
 ---
 shortcode: ptnpars
-name: {full: Marble Kiss, aliases: ["Potion, Paralytic, Strong"]}
+name: {full: Marble Kiss, en: ["Potion, Paralytic, Strong"]}
 type: concoctiongear
 subType: exotic
 description: "Clouded murky pale greenish draft; causes paralysis and petrification."

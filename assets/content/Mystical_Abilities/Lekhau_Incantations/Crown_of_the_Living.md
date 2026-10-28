@@ -1,6 +1,6 @@
 ---
 shortcode: crownliving
-name: {full: Crown of the Living, aliases: []}
+name: {full: Crown of the Living}
 type: mysticalability
 subType: arcaneincantation
 description: "Invests the subject with visible authority and a sustaining vitality, for a stated term."

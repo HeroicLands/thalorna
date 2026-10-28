@@ -1,6 +1,6 @@
 ---
 shortcode: infrnlrlms
-name: {full: Infernal Realms, aliases: []}
+name: {full: Infernal Realms}
 type: lore
 subType: cosmology
 description: "The Infernal Realms of Tantsou's faith—the places where the Great Sorting was left unfinished, the demons and Demon Lords who dwell there, and the empire's defense against them."

@@ -1,6 +1,6 @@
 ---
 shortcode: vyalsrctmp
-name: {full: The Vyalendra Source-Temple, aliases: [The Sarvaprabhava Source-Temple]}
+name: {full: The Vyalendra Source-Temple, en: [The Sarvaprabhava Source-Temple]}
 type: place
 subType: structure
 description: "The Shaper's temple at the head of the Sarveda—rebuilt on the same footing eleven times, each time within one open season, and keeping the nine-hundred-year melt record of the wall."

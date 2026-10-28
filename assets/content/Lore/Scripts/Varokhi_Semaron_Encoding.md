@@ -1,6 +1,6 @@
 ---
 shortcode: varosemaronenc
-name: {full: Varokhi Semaron Encoding, aliases: []}
+name: {full: Varokhi Semaron Encoding}
 type: doc
 subType: reference
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: tchelvazeonp
-name: {full: Chelvazeon Pedinikot, aliases: [Elder Chelvazeon Pedinikot]}
+name: {full: Chelvazeon Pedinikot, en: [Elder Chelvazeon Pedinikot]}
 type: being
 subType: npc
 description: The respected elder of Samarina Oreinikot's herding commune and unofficial keeper of pastoral traditions.

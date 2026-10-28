@@ -1,6 +1,6 @@
 ---
 shortcode: khelathi
-name: {full: Khelathi, aliases: []}
+name: {full: Khelathi}
 type: folder
 data: {parent: mysticalskills}
 ---

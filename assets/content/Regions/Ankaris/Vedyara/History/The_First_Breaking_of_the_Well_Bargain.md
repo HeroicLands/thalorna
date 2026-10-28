@@ -1,6 +1,6 @@
 ---
 shortcode: wellbrk1
-name: {full: The First Breaking of the Well Bargain, aliases: []}
+name: {full: The First Breaking of the Well Bargain}
 type: lore
 subType: history
 description: "About 265 AF Gomarga's king Vrishasura took three lineages' wells into the crown's own hand to pay for a war on the river; the lineages walked their herds off the circuit, the war was lost, the wells were returned, and the accession oath gained its clause about wells."

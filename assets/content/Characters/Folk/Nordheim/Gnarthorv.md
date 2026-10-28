@@ -1,6 +1,6 @@
 ---
 shortcode: gnarthorv
-name: {full: Gnarthorv, aliases: [Magistrate Gnarthorv, Lord Magistrate Gnarthorv]}
+name: {full: Gnarthorv, en: [Magistrate Gnarthorv, Lord Magistrate Gnarthorv]}
 type: being
 subType: npc
 description: A lord magistrate and corrupt official who orchestrated Ulthorv Nalthendik's enslavement.

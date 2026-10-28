@@ -1,6 +1,6 @@
 ---
 shortcode: cardeth
-name: {full: Kardeth, aliases: []}
+name: {full: Kardeth}
 type: place
 subType: settlement
 description: "A noble seat of Lirve near Liranel, held by the young Lady Áulirane of Kardeth, a noblewoman of Áelendan ancestry."

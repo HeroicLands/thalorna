@@ -1,6 +1,6 @@
 ---
 shortcode: zzrnqsdn
-name: {full: Zazuran Kusaduni, aliases: []}
+name: {full: Zazuran Kusaduni}
 type: being
 subType: npc
 tags: [draft, common-folk]

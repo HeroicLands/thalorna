@@ -1,6 +1,6 @@
 ---
 shortcode: gezazabu
-name: {full: Gezazabu, aliases: []}
+name: {full: Gezazabu}
 type: place
 subType: settlement
 description: "Selat capital of Gezazabu."

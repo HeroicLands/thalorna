@@ -1,6 +1,6 @@
 ---
 shortcode: kalzothegain
-name: {full: Kalzote Gainessis, aliases: [Captain Kalzote]}
+name: {full: Kalzote Gainessis, en: [Captain Kalzote]}
 type: being
 subType: npc
 description: The cruel captain of the road bandits of Thornwood, who has a taste for horses, named in Chorvan Jarlen.

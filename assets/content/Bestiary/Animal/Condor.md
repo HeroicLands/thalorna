@@ -1,6 +1,6 @@
 ---
 shortcode: condor
-name: {full: Condor, aliases: []}
+name: {full: Condor}
 type: being
 subType: creature
 description: "A massive soaring vulture with a ten-foot wingspan, sacred to highland faith, spotting carrion from staggering altitudes above the western peaks."

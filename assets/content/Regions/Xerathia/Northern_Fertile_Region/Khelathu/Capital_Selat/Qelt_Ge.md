@@ -1,6 +1,6 @@
 ---
 shortcode: qeltge
-name: {full: Qelt-Ge, aliases: []}
+name: {full: Qelt-Ge}
 type: place
 subType: site
 description: "The monumental plaza at the head of the Bridge of the Coming-Forth in Galezkara, where the Sun's Road meets the river facing the island"

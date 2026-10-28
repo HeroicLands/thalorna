@@ -1,6 +1,6 @@
 ---
 shortcode: mntnln
-name: {full: Mountain Lion, aliases: []}
+name: {full: Mountain Lion}
 type: being
 subType: creature
 description: "A lean, muscular solitary cat six to eight feet long, built for explosive speed and agility as it hunts across mountains and wilderness."

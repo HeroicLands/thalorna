@@ -1,6 +1,6 @@
 ---
 shortcode: readingweigh
-name: {full: The Reading at the Weighing, aliases: []}
+name: {full: The Reading at the Weighing}
 type: lore
 subType: literature
 description: "The Khelathi temple litany spoken around a dead person's account at a Reading, setting the household's reading beside the one the gods make at the Weighing."
@@ -15,7 +15,7 @@ data:
     - lore-khelathiclt
     - place-zulaten
     - affiliation-garhalzi
-  language: khelathlng
+  lang: khel
 ---
 
 Among the [[lore-khelathiclt|Khelathi]], temple scribes keep The Reading at the Weighing for a Reading, when a dead person's temple account is read aloud before the household, the creditors and the heir. A reader speaks the fixed passages, and the account itself is read where the bracketed directions stand, entry by entry, each landing on its word: closed, or open. The litany follows the doctrine of the Weighing and goes no further than it does. It names the two accounts, [[lore-qearetdty|Qe'aret]]'s scale, [Algit]{.name data-type="being/creature"} and the [[place-zulaten|Zulaten]], and says nothing of what the dead may do in the hall of the assembled gods.

@@ -1,12 +1,12 @@
 ---
 shortcode: tarvenanclt
-name: {full: Tarvenan, aliases: []}
+name: {full: Tarvenan}
 type: lore
 subType: culture
 description: "The Tarvenans—their beliefs, their mores, and what they hold a person owes."
 tags: []
 data:
-  language: skill-tarvenlng
+  lang: tarv
   glossary:
     - name: "First Marendos"
       definition: "The chair of the Order of the Sealed Word, chosen by the marendoi for fifteen years"

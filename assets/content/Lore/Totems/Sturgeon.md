@@ -1,6 +1,6 @@
 ---
 shortcode: sturgeonttm
-name: {full: Sturgeon, aliases: [Sturgeon Totem]}
+name: {full: Sturgeon, en: [Sturgeon Totem]}
 type: lore
 subType: bestiary
 description: "The sturgeon as a totemic ideal, and the human character it describes."

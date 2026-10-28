@@ -1,6 +1,6 @@
 ---
 shortcode: palvdrvksh
-name: {full: Pallovi Draviksha, given: Pallovi, clan: Draviksha, aliases: []}
+name: {full: Pallovi Draviksha, given: Pallovi, clan: Draviksha}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]

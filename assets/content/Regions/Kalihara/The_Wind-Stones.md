@@ -1,6 +1,6 @@
 ---
 shortcode: windstones
-name: {full: The Wind-Stones, aliases: ["Naothuri'sul"]}
+name: {full: The Wind-Stones, kali: [Naothuri'sul]}
 type: place
 subType: structure
 description: "The twelve works of the Ithari along the crest of Kalihara's Ring, on which the storms from the sea break and come down on the Bowl as rain; three have gone white and two work badly."

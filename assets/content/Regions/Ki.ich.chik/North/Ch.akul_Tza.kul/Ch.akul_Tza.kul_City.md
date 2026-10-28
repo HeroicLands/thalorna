@@ -1,6 +1,6 @@
 ---
 shortcode: chakultzkl2
-name: {full: Ch'akul Tsa'kul, aliases: []}
+name: {full: Ch'akul Tsa'kul}
 type: place
 subType: site
 description: "An abandoned, uninhabited site in the hot, deadly Ch'akul Tsa'kul desert barrier."

@@ -1,6 +1,6 @@
 ---
 shortcode: hstnng
-name: {full: Hastening, aliases: []}
+name: {full: Hastening}
 type: mysticalability
 subType: arcaneincantation
 description: "Quickens movement; caster moves with supernatural speed and grace."

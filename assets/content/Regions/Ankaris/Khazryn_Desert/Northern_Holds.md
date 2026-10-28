@@ -1,6 +1,6 @@
 ---
 shortcode: nrthnhlds
-name: {full: Old Holds of the Northern Taiga, aliases: [The Taiga Holds]}
+name: {full: Old Holds of the Northern Taiga, en: [The Taiga Holds]}
 type: place
 subType: feature
 description: "Rumored abandoned holds in the forest north of the Khazryn: cut stone under moss, sea-cliff doorways and dry halls that the seal-hunters and deer-herders report and no one has surveyed."

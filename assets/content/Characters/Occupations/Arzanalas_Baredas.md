@@ -1,6 +1,6 @@
 ---
 shortcode: arznlsbrds
-name: {full: Arzanalas Baredas, aliases: []}
+name: {full: Arzanalas Baredas}
 type: being
 subType: npc
 tags: [draft, soldiery]

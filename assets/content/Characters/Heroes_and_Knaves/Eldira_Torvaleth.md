@@ -1,6 +1,6 @@
 ---
 shortcode: eldrtrvlth
-name: {full: Eldira Torvaleth, given: Eldira, clan: Torvaleth, aliases: []}
+name: {full: Eldira Torvaleth, given: Eldira, clan: Torvaleth}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]

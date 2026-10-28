@@ -1,6 +1,6 @@
 ---
 shortcode: nuohodty
-name: {full: Nuoho, aliases: []}
+name: {full: Nuoho}
 type: lore
 subType: deity
 description: "The Burning Dissolution—a Youweng demon lord of the Tengwou Rong Lei, holding destruction and the fire that takes a petition unanswered."

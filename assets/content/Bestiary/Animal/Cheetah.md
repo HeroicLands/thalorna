@@ -1,6 +1,6 @@
 ---
 shortcode: cheetah
-name: {full: Cheetah, aliases: []}
+name: {full: Cheetah}
 type: being
 subType: creature
 description: "A lightly built sprinting cat of the arid grasslands, built for blistering speed to run down gazelle across open gravel plains."

@@ -1,6 +1,6 @@
 ---
 shortcode: tavurakamruz
-name: {full: Tavura Kamruz, aliases: [Shaman Tavura]}
+name: {full: Tavura Kamruz, en: [Shaman Tavura]}
 type: being
 subType: npc
 description: A shaman, mother of Shadezan Kamruz, who blessed him with rituals dedicated to Báhramis, the god of storms.

@@ -1,6 +1,6 @@
 ---
 shortcode: bssshtndn
-name: {full: Bissush Tanaduni, aliases: []}
+name: {full: Bissush Tanaduni}
 type: being
 subType: npc
 tags: [draft, common-folk]

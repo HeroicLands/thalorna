@@ -1,6 +1,6 @@
 ---
 shortcode: dpwtrfsh
-name: {full: Deepwater Fish, aliases: [Koavanu]}
+name: {full: Deepwater Fish, kali: [Koavanu]}
 type: being
 subType: creature
 description: "A pale, eyeless-looking bottom fish of twelve to fifteen feet that lives in the deep water around the Massif and rises to the surface of the Bowl Lake in the dry season."

@@ -1,6 +1,6 @@
 ---
 shortcode: wethur
-name: {full: Faith of Weth'ur, aliases: [Lord of Silent Passage]}
+name: {full: Faith of Weth'ur, en: [Lord of Silent Passage]}
 type: affiliation
 subType: faithtradition
 description: "Death."

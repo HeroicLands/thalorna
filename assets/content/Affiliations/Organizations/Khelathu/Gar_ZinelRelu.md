@@ -1,6 +1,6 @@
 ---
 shortcode: garzinelrelu
-name: {full: Gar-Zin'el'Relu, aliases: [The House of Zin'el'Relu]}
+name: {full: Gar-Zin'el'Relu, en: [The House of Zin'el'Relu]}
 type: affiliation
 subType: lineage
 description: A dynasty whose last Gar-Au was struck from every wall for blasphemy and a hidden famine, and was himself sealed living into his tomb

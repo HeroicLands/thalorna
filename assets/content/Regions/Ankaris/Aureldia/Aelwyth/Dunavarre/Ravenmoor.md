@@ -1,6 +1,6 @@
 ---
 shortcode: ravenmoor
-name: {full: Ravenmoor, aliases: []}
+name: {full: Ravenmoor}
 type: place
 subType: settlement
 description: "The seat of the Synod and the mandatory first port of call for every ship crossing between Aelwyth and the mainland—where the Arcane Order inspects the island's entire commerce, and takes particular interest in anything magical."

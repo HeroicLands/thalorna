@@ -1,6 +1,6 @@
 ---
 shortcode: charterwar
-name: {full: The War of the Charter, aliases: [The Nine Years' Refusal]}
+name: {full: The War of the Charter, en: [The Nine Years' Refusal]}
 type: lore
 subType: history
 description: "From about 609 to 618 AF the estates of the province of the West refused the Empire's therkos and fought his legion for nine years; the peace gave them a Charter of Rights held by a king of their choosing, and the Empire stopped sending therkoi."

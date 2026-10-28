@@ -1,6 +1,6 @@
 ---
 shortcode: korvathis
-name: {full: Korvatis, aliases: []}
+name: {full: Korvatis}
 type: place
 subType: region
 description: "The warm Vylarian shore and its hinterland—half of Provenzia's people and most of its money, holding the capital, the great ports, the old imperial city and the law."

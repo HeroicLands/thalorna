@@ -1,6 +1,6 @@
 ---
 shortcode: tellumiadvguide
-name: {full: Tellumi Adventurer's Guide, aliases: []}
+name: {full: Tellumi Adventurer's Guide}
 type: doc
 subType: settingguide
 description: A player and GM introduction to the Tellumi—the old oasis people at the foot of the Grazian Mountains, their three free oases and four conquered cities, the house records they keep, and the ways a campaign begins among them.

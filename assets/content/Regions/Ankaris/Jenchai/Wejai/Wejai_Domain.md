@@ -1,6 +1,6 @@
 ---
 shortcode: wejaidmn
-name: {full: Wejai Domain, aliases: [House Wejai]}
+name: {full: Wejai Domain, en: [House Wejai]}
 type: affiliation
 subType: polity
 description: "The domain of House Wejai—Wejai, the typhoon coast on the open ocean, a whaling and reef-fishing shore held from Zuwu by an independent lord with a wreck on his reefs."

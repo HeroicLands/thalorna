@@ -1,6 +1,6 @@
 ---
 shortcode: pushpaban
-name: {full: Pushpaban, aliases: []}
+name: {full: Pushpaban}
 type: place
 subType: settlement
 description: "Flower gardens for the temple, whose garland-makers supply the spring festival."

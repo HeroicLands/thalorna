@@ -1,6 +1,6 @@
 ---
 shortcode: argyrirjckl
-name: {full: Argirira the Jackal, given: Argirira, aliases: [The Jackal-Queen, The Unhoused]}
+name: {full: Argirira the Jackal, given: Argirira, en: [The Jackal-Queen, The Unhoused]}
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, soldiery]

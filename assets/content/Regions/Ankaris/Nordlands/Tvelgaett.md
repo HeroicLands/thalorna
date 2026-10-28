@@ -1,6 +1,6 @@
 ---
 shortcode: tvelgaett
-name: {full: Tvelgaett, aliases: [The Remnant-Kin, The Gods' Heirs]}
+name: {full: Tvelgaett, en: [The Remnant-Kin, The Gods' Heirs]}
 type: lore
 subType: theology
 description: "The gods' heirs who come through the fire of Aldarlok and hold the next age—Aldvar, Odvar's silent son, Hamarberi, who lifts the hammer, and Gronvin, the green out of the ash."

@@ -1,6 +1,6 @@
 ---
 shortcode: polthamis
-name: {full: Polthamis, aliases: []}
+name: {full: Polthamis}
 type: place
 subType: settlement
 description: "A Tarvenan city whose Great Temple of Árdavon trains the faith's acolytes and whose prelate seals the arbitrations of its traveling priests."

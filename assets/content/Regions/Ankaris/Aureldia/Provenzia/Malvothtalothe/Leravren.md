@@ -1,6 +1,6 @@
 ---
 shortcode: leravren
-name: {full: Leravren, aliases: []}
+name: {full: Leravren}
 type: place
 subType: region
 description: "A lordship northeast of Keravel and gateway to the mountains and forests, closely tied to the Black Flame through its lord, Kaldin al Lénavel."

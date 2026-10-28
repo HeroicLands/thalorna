@@ -1,6 +1,6 @@
 ---
 shortcode: elxmsl
-name: {full: Salve of the Mind, aliases: [Mindslave Elixir]}
+name: {full: Salve of the Mind, en: [Mindslave Elixir]}
 type: concoctiongear
 subType: elixir
 description: "Dark syrupy draft; clears judgment-clouds, reshapes imbiber's will."

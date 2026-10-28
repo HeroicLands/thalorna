@@ -1,6 +1,6 @@
 ---
 shortcode: wahrthmykhth
-name: {full: Wahrethu Meykhathi, aliases: []}
+name: {full: Wahrethu Meykhathi}
 type: being
 subType: npc
 description: "The Meykhathi clan's most respected tracker, keeper of sacred hunting grounds, and father to a daughter who outshot him by thirteen"

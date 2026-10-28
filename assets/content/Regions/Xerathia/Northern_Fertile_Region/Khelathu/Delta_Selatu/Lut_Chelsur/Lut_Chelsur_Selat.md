@@ -1,6 +1,6 @@
 ---
 shortcode: lutchelsrslt
-name: {full: Lut-Chelsur Selat, aliases: []}
+name: {full: Lut-Chelsur Selat}
 type: place
 subType: region
 description: "Eastern marsh; the great crocodile cult and the river-beast hunters—the land of the Selat of Lut-Chelsur, one of the delta selatu of Au'Khelathu."

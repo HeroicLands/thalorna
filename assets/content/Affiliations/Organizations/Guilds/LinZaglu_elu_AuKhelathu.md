@@ -1,6 +1,6 @@
 ---
 shortcode: linzaglkhlth
-name: {full: Lin'Zaglu elu Au'Khelathu, aliases: [The Toymakers' Guild of Au'Khelathu]}
+name: {full: Lin'Zaglu elu Au'Khelathu, en: [The Toymakers' Guild of Au'Khelathu]}
 type: affiliation
 subType: guild
 description: The chartered guild of the makers of figures and mechanisms

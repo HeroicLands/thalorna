@@ -1,6 +1,6 @@
 ---
 shortcode: rojai
-name: {full: Rojai, aliases: [Thunder Peak]}
+name: {full: Thunder Peak, jurt: [Rojai]}
 type: place
 subType: region
 description: "Thunder Peak, the volcanic mountain on the west coast of the great island, facing the strait—salt pans on its shore, terraces on its shoulders and the shipyards of House Shuiwojai."

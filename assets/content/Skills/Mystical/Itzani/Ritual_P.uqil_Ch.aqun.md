@@ -1,6 +1,9 @@
 ---
 shortcode: puqilchaqun
-name: {full: "Ritual: P'uqil Ch'akun", aliases: [P'uqil Ch'akun, The Feathered Storm-Serpent]}
+name:
+  full: "Ritual: P'uqil Ch'akun"
+  en: [The Feathered Storm-Serpent]
+  kiichek: [P'uqil Ch'akun]
 type: skill
 subType: mystical
 tags: [itzani, faith-skill, draft]

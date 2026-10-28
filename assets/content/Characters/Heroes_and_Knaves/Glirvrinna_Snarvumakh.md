@@ -1,6 +1,6 @@
 ---
 shortcode: glrvrnstrmrt
-name: {full: Glirvrinna Snarvumak, given: Glirvrinna, clan: Snarvumak, aliases: []}
+name: {full: Glirvrinna Snarvumak, given: Glirvrinna, clan: Snarvumak}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]

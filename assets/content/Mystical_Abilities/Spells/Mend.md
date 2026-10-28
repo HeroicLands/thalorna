@@ -1,6 +1,6 @@
 ---
 shortcode: mend
-name: {full: Mend, aliases: []}
+name: {full: Mend}
 type: mysticalability
 subType: arcaneincantation
 description: "Restores objects to original condition; heals cracks, breaks, tears."

@@ -1,6 +1,6 @@
 ---
 shortcode: crane
-name: {full: Crane, aliases: [Celestial Crane]}
+name: {full: Crane, en: [Celestial Crane]}
 type: being
 subType: creature
 description: "A tall, elegant wading bird of temperate wetlands, so revered in imperial culture that harming one carries legal punishment."

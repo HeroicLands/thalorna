@@ -1,6 +1,6 @@
 ---
 shortcode: wldhrs
-name: {full: Wild Horse, aliases: []}
+name: {full: Wild Horse}
 type: being
 subType: creature
 description: "A stocky, powerful equine ancestor of domestic breeds, roaming the open steppe in bands with heavy bone and tireless endurance."

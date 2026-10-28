@@ -1,6 +1,6 @@
 ---
 shortcode: elxver
-name: {full: "Hidalis's Eye", aliases: [Verity Elixir]}
+name: {full: Hidalis's Eye, en: [Verity Elixir]}
 type: concoctiongear
 subType: elixir
 description: "Transparent clarifying elixir; pierces illusions within sixty feet."

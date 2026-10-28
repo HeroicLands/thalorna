@@ -1,6 +1,6 @@
 ---
 shortcode: mentrkrmys
-name: {full: Mentra Keramyes, aliases: []}
+name: {full: Mentra Keramyes}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

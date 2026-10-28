@@ -1,6 +1,6 @@
 ---
 shortcode: sprtgrd
-name: {full: Spiritguard, aliases: []}
+name: {full: Spiritguard}
 type: mysticalability
 subType: arcaneincantation
 description: "Summons protective spirit; grants spectral defender and aid."

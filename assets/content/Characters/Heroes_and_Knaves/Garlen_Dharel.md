@@ -1,6 +1,6 @@
 ---
 shortcode: garlendhrl
-name: {full: Garlen Darel, given: Garlen, clan: Darel, aliases: []}
+name: {full: Garlen Darel, given: Garlen, clan: Darel}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]

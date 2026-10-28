@@ -1,6 +1,6 @@
 ---
 shortcode: shilamukha
-name: {full: Shilamukha, aliases: []}
+name: {full: Shilamukha}
 type: place
 subType: settlement
 description: "Quarry village at the rock face above Upper Suvargeri, which cut the stone of all three great temples."

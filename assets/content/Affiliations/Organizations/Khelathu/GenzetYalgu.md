@@ -1,6 +1,6 @@
 ---
 shortcode: genzetyalgu
-name: {full: Genzet'Yalgu, aliases: [The Court of the Nine Moons]}
+name: {full: Genzet'Yalgu, en: [The Court of the Nine Moons]}
 type: affiliation
 subType: governmental
 description: A body of the court whose business is conducted out of the Gar-Au's hearing, and whose intrigues reach further than the capital

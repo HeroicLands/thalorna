@@ -1,6 +1,6 @@
 ---
 shortcode: wyndmarch
-name: {full: The Wyndmarch, aliases: []}
+name: {full: The Wyndmarch}
 type: place
 subType: region
 description: "Aldorath's eastern march below the Ironfells—the foothill country that watches the two passes, holds the royal forest, and shades into wilderness nobody governs."

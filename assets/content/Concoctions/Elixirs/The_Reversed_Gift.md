@@ -1,6 +1,6 @@
 ---
 shortcode: elxpsn
-name: {full: The Reversed Gift, aliases: [Poison Elixir]}
+name: {full: The Reversed Gift, en: [Poison Elixir]}
 type: concoctiongear
 subType: elixir
 description: "Viscous dark liquid; inverted mechanics reward failures over successes."

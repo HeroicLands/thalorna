@@ -1,6 +1,6 @@
 ---
 shortcode: hrafanrun
-name: {full: "Hrafanrún", aliases: []}
+name: {full: Hrafanrún}
 type: affiliation
 subType: order
 description: "Rune-lore and divination in Odvar's service."

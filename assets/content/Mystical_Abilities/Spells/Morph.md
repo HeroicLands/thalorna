@@ -1,6 +1,6 @@
 ---
 shortcode: morph
-name: {full: Morph, aliases: []}
+name: {full: Morph}
 type: mysticalability
 subType: arcaneincantation
 description: "Temporarily alters caster's physical form into different shape."

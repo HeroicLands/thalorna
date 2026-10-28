@@ -1,6 +1,6 @@
 ---
 shortcode: heroesknvs
-name: {full: Heroes and Knaves, aliases: []}
+name: {full: Heroes and Knaves}
 type: doc
 subType: reference
 description: "Variety of characters from several cultures and occupations."

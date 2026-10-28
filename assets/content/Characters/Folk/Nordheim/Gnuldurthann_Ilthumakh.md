@@ -1,6 +1,6 @@
 ---
 shortcode: gnuldurthanni
-name: {full: Gnuldurthann Ilthumak, aliases: [Captain Gnuldurthann Ilthumak]}
+name: {full: Gnuldurthann Ilthumak, en: [Captain Gnuldurthann Ilthumak]}
 type: being
 subType: npc
 description: A grizzled merchant captain whose aging vessel is famous across the northern routes, named in Hvarnthann Stormrót.

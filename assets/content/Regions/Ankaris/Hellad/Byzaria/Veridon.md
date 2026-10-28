@@ -1,6 +1,6 @@
 ---
 shortcode: veridon
-name: {full: Veridon, aliases: []}
+name: {full: Veridon}
 type: place
 subType: settlement
 description: "A small town of the Bizarian hinterland that lives off the fortified compound of the Iron Wolves Company outside its walls."

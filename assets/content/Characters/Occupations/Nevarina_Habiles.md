@@ -1,6 +1,6 @@
 ---
 shortcode: nevarnhbls
-name: {full: Nevarina Habiles, aliases: []}
+name: {full: Nevarina Habiles}
 type: being
 subType: npc
 tags: [draft, underworld]

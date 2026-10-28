@@ -1,6 +1,6 @@
 ---
 shortcode: wraymouth
-name: {full: Wraymouth, aliases: []}
+name: {full: Wraymouth}
 type: place
 subType: settlement
 description: "Dúnavarre's chief harbor and second city—the working port on the south-eastern coast through which the kingdom's trade with Élavendre and the mainland passes."

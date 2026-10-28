@@ -1,6 +1,6 @@
 ---
 shortcode: pazhurenagef
-name: {full: Pazhurena Gefirikot, aliases: [High Priestess Pazhurena Gefirikot]}
+name: {full: Pazhurena Gefirikot, en: [High Priestess Pazhurena Gefirikot]}
 type: being
 subType: npc
 description: High priestess and supreme ecclesiastical authority in the region, named in Bokhenon Hodikot.

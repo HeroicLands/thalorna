@@ -1,6 +1,6 @@
 ---
 shortcode: khryshteikhos2
-name: {full: Krusteikhos, aliases: []}
+name: {full: Krusteikhos}
 type: place
 subType: settlement
 description: "The Golden Fortress, wealthiest city of the Bizarian League, where eastern goods are banked and the League council meets in the Merchant Hall."

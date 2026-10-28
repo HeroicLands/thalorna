@@ -1,6 +1,6 @@
 ---
 shortcode: pirkelosholi
-name: {full: Pirkelos Holimandis, aliases: [Elder Pirkelos of Milanthos, Elder Pirkelos]}
+name: {full: Pirkelos Holimandis, en: [Elder Pirkelos of Milanthos, Elder Pirkelos]}
 type: being
 subType: npc
 description: The voice of the village of Milanthos, a former militia commander in his seventies, who shelters the priest Azendas Damator.

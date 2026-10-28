@@ -1,6 +1,6 @@
 ---
 shortcode: aelissium
-name: {full: Elissara, aliases: []}
+name: {full: Elissara}
 type: place
 subType: settlement
 description: "Trade City"

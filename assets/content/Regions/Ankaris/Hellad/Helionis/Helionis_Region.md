@@ -1,6 +1,6 @@
 ---
 shortcode: helionis
-name: {full: Helionis, aliases: []}
+name: {full: Helionis}
 type: place
 subType: region
 description: "Region of independent city-states bound by a shared culture, shared games, and eternal rivalry—philosophers, sailors, and heroes in a land where honor is paid in blood and glory."

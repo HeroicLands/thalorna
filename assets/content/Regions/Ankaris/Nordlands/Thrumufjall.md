@@ -1,6 +1,6 @@
 ---
 shortcode: thrumufjall
-name: {full: Thrumufjall, aliases: []}
+name: {full: Thrumufjall}
 type: place
 subType: feature
 description: "Thrunvald’s sacred seamount on the Nordheim coast, shared by his hov and the Storm-Speakers’ mother-hall."

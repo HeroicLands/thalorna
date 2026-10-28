@@ -1,6 +1,6 @@
 ---
 shortcode: provincvld
-name: {full: Province of Salkalon, aliases: []}
+name: {full: Province of Salkalon}
 type: affiliation
 subType: polity
 description: "The maritime province of the Vylarian Empire—its coast lined with shipyards, naval bases, fishing towns, and cosmopolitan trade harbors, its interior given to agrarian estates; Vylaria's face to the sea and its most commercially minded region."

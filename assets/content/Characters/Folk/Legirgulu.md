@@ -1,6 +1,6 @@
 ---
 shortcode: legirgulu2
-name: {full: Legirgulu, aliases: [Legi]}
+name: {full: Legirgulu, khel: [legi]}
 type: being
 subType: npc
 description: "A reclusive scholar and priestess who has withdrawn from the temple's business and is consulted only by those who know where to find her"

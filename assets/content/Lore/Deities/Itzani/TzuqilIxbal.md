@@ -1,6 +1,6 @@
 ---
 shortcode: tzuqilixbaldty
-name: {full: Ts'uqil Ish'bal, aliases: []}
+name: {full: Ts'uqil Ish'bal}
 type: lore
 subType: deity
 description: "The Death Jaguar of the Itsani pantheon—the jaguar that kills swiftly and the owl that watches the slow return to earth."

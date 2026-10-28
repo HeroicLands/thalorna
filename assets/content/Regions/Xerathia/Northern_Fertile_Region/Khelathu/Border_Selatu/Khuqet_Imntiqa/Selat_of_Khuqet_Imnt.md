@@ -1,6 +1,6 @@
 ---
 shortcode: seltkhqtmntq
-name: {full: The Selat of Khuqet-Imntiqa, aliases: []}
+name: {full: The Selat of Khuqet-Imntiqa}
 type: affiliation
 subType: polity
 description: "The far western desert march; oasis-forts and the watch over the trade-tracks—one of the border selatu of Au'Khelathu."

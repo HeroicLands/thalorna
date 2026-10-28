@@ -1,13 +1,13 @@
 ---
 shortcode: sowidesclt
-name: {full: Sovidur, aliases: [Steppe Tribes of the Khazryn]}
+name: {full: Sovidur, en: [Steppe Tribes of the Khazryn]}
 type: lore
 subType: culture
 description: "The Sovidur, the independent herding tribes of the Khazryn steppe—their beliefs, their mores, and what they hold a person owes."
 tags: []
 data:
   calendar: lore-swdsclndr
-  language: skill-sowideslng
+  lang: sovi
   glossary:
     - name: "kedok"
       definition: "A blood-field: ground where many died at once and none received their rite"

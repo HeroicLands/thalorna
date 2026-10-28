@@ -1,6 +1,6 @@
 ---
 shortcode: selatkhelzrt
-name: {full: The Selat of Khelzuret, aliases: []}
+name: {full: The Selat of Khelzuret}
 type: affiliation
 subType: polity
 description: "The great mortuary selat of the Au'Khelathu upper river—built around the temple-city of Khelzuret and its western-bank necropolis, the heart of the empire's embalming, tomb-building, and funerary trades, and the destination of its largest pilgrimage to the lords of the dead."

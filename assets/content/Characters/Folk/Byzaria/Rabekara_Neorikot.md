@@ -1,6 +1,6 @@
 ---
 shortcode: rabekaraneor
-name: {full: Rabekara Neorikot, aliases: [Arsir Rabekara Neorikot]}
+name: {full: Rabekara Neorikot, en: [Arsir Rabekara Neorikot]}
 type: being
 subType: npc
 description: A senior political figure who guards Sedikon Manedes jealously.

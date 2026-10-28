@@ -1,6 +1,6 @@
 ---
 shortcode: ptnpois
-name: {full: Blackroot Tincture, aliases: ["Potion, Poison, Strong"]}
+name: {full: Blackroot Tincture, en: ["Potion, Poison, Strong"]}
 type: concoctiongear
 subType: exotic
 description: "Vivid green oily liquid; causes violent illness and death."

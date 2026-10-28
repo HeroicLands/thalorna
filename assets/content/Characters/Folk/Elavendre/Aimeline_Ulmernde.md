@@ -1,6 +1,6 @@
 ---
 shortcode: aimelineulme
-name: {full: Áimeline Úlmernde, aliases: [Lady Áimeline Úlmernde, Lady Áimeline]}
+name: {full: Áimeline Úlmernde, en: [Lady Áimeline Úlmernde, Lady Áimeline]}
 type: being
 subType: npc
 description: A minor noblewoman with a keen interest in alchemical remedies, who suffers from a rare blood disorder and commissions tonics and elixirs from Sevren Mírkelis.

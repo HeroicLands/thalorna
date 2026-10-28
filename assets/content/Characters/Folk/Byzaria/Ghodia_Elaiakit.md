@@ -1,6 +1,6 @@
 ---
 shortcode: ghodiaelaiak
-name: {full: Ghodia Elaiakit, aliases: [Lady Ghodia Elaiakit]}
+name: {full: Ghodia Elaiakit, en: [Lady Ghodia Elaiakit]}
 type: being
 subType: npc
 description: A wealthy widow and patron of the arts who is Kreneze Vokoghis's most consistent and generous patron.

@@ -1,6 +1,6 @@
 ---
 shortcode: alyrklmrth
-name: {full: Álira Kálmereth, given: Álira, clan: Kálmereth, aliases: []}
+name: {full: Álira Kálmereth, given: Álira, clan: Kálmereth}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]

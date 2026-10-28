@@ -1,6 +1,6 @@
 ---
 shortcode: kuethori
-name: {full: Kuethori, aliases: []}
+name: {full: Kuethori}
 type: place
 subType: settlement
 description: "The village at the head of the Kuethori Gap, home of the lineage that holds the gorge and the work across the river, and the household most exposed to the failing of the island's works."

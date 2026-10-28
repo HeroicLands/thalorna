@@ -1,6 +1,6 @@
 ---
 shortcode: trnsf
-name: {full: Transference, aliases: []}
+name: {full: Transference}
 type: mysticalability
 subType: arcanetalent
 description: "Moves a hurt, a quality or a working from one bearer to another."

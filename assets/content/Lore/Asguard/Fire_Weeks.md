@@ -1,6 +1,6 @@
 ---
 shortcode: fireweeks
-name: {full: Fire-Weeks, aliases: []}
+name: {full: Fire-Weeks}
 type: lore
 subType: custom
 description: "The forge-hov ordeal at the heart of Svartbrandur's faith, kept at a season's turning."

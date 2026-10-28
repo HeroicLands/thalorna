@@ -1,6 +1,6 @@
 ---
 shortcode: drownedhallthrld
-name: {full: The Oarsmen of the Lowest Ebb, aliases: []}
+name: {full: The Oarsmen of the Lowest Ebb}
 type: scenario
 subType: adventure
 description: "At the lowest ebb a sea-cave opens beneath a cape of carved stones, and inside a ship waits with the drowned at its oars."

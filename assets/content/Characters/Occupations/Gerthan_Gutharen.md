@@ -1,6 +1,6 @@
 ---
 shortcode: grthnjthrn
-name: {full: Gerthan Gútharen, aliases: []}
+name: {full: Gerthan Gútharen}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

@@ -1,6 +1,6 @@
 ---
 shortcode: lrtshgnrm
-name: {full: Lartush Genirum, aliases: []}
+name: {full: Lartush Genirum}
 type: being
 subType: npc
 tags: [draft, soldiery]

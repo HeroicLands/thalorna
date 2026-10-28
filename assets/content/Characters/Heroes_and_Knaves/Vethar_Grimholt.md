@@ -1,6 +1,6 @@
 ---
 shortcode: vthargrmhlt
-name: {full: Vethar yra Thalruvan wur Grimholt, given: Vethar, clan: Thalruvan, aliases: []}
+name: {full: Vethar yra Thalruvan wur Grimholt, given: Vethar, clan: Thalruvan}
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, clergy]

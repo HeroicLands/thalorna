@@ -1,6 +1,6 @@
 ---
 shortcode: giraffe
-name: {full: Giraffe, aliases: []}
+name: {full: Giraffe}
 type: being
 subType: creature
 description: "The tallest animal alive, an improbable long-necked herbivore browsing the high canopy of the savannahs and open woodlands."

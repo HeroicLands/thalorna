@@ -1,6 +1,6 @@
 ---
 shortcode: ibex
-name: {full: Ibex, aliases: []}
+name: {full: Ibex}
 type: being
 subType: creature
 description: "A powerfully built wild goat of the desert cliffs, the supreme climbing specialist scaling sheer rock faces and canyon escarpments with ease."

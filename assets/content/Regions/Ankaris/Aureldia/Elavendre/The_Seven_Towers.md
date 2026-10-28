@@ -1,6 +1,6 @@
 ---
 shortcode: seventowers
-name: {full: The Seven Towers, aliases: []}
+name: {full: The Seven Towers}
 type: lore
 subType: literature
 description: "A Sinalean elegy held in Élavendre for a city of light cut into a cliff, its halls, water and birds, and the night a horde came up the valley—sung without its subject named, and broken off where the Sinale stop."
@@ -10,7 +10,7 @@ data:
   packFolder: elavendre
   form: elegy
   subjects: [lore-khazarturn, lore-khazturnrsd, lore-flkkhazar, lore-grukarfolk]
-  language: sinalelng
+  lang: sina
 ---
 
 **The Seven Towers** is a [[lore-flksinale|Sinalean]] song held in [[place-elavendre|Élavendre]]. The

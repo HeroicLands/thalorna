@@ -1,6 +1,6 @@
 ---
 shortcode: castamar
-name: {full: Kastamar, aliases: []}
+name: {full: Kastamar}
 type: place
 subType: settlement
 description: "Naval City (Military Hub)"

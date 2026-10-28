@@ -1,6 +1,6 @@
 ---
 shortcode: caerwynd
-name: {full: Kaerwynd, aliases: []}
+name: {full: Kaerwynd}
 type: place
 subType: settlement
 description: "Aldorath's eastern fortress, watching the interior and the forest margin—a garrison town whose whole reason is the country beyond it."

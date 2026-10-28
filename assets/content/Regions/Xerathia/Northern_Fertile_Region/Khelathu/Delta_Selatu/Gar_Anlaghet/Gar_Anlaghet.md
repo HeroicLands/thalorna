@@ -1,6 +1,6 @@
 ---
 shortcode: garanlaghet
-name: {full: Gar-Anlaghet, aliases: []}
+name: {full: Gar-Anlaghet}
 type: place
 subType: settlement
 description: "City (Port)"

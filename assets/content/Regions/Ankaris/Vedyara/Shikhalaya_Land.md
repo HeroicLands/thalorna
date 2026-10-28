@@ -1,6 +1,6 @@
 ---
 shortcode: shikhalayaland
-name: {full: Shikhalaya, aliases: []}
+name: {full: Shikhalaya}
 type: place
 subType: region
 description: "The land of the kingdom of Shikhalaya—the northern highlands of Vedyara, pine-clad ridges, snow-fed rivers and the pass-roads that carry the caravan trade over the wall to the steppe beyond."

@@ -1,6 +1,6 @@
 ---
 shortcode: skathwald
-name: {full: Skathwald, aliases: [Grukar Reach]}
+name: {full: Skathwald, en: [Grukar Reach]}
 type: place
 subType: region
 description: The eastern Vristwald forest where Grukar nests grow more numerous and village life stays on a war footing.

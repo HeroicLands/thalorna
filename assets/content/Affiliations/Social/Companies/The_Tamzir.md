@@ -1,6 +1,6 @@
 ---
 shortcode: thetamzir
-name: {full: The Tamzir, aliases: []}
+name: {full: The Tamzir}
 type: affiliation
 subType: venture
 description: "Weathered trading vessel and her crew of misfits operating in gray spaces of maritime law, carrying fugitive arcane talents hunted by the Thordimalon."

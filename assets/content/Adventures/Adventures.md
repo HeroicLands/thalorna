@@ -1,6 +1,6 @@
 ---
 shortcode: scenario
-name: {full: Adventures, aliases: []}
+name: {full: Adventures}
 type: doc
 subType: reference
 description: Playable adventures and modules.

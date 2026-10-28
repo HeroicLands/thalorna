@@ -1,6 +1,6 @@
 ---
 shortcode: willbind
-name: {full: Willbind, aliases: []}
+name: {full: Willbind}
 type: mysticalability
 subType: arcaneincantation
 description: "Binds target's will; suppresses resistance and forces obedience."

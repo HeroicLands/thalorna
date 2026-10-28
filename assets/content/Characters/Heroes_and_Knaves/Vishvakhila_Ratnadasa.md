@@ -1,6 +1,6 @@
 ---
 shortcode: vshvkhlrtndds
-name: {full: Vishvakhila Ratnadasa, given: Vishvakhila, clan: Ratnadasa, aliases: [Vishvu]}
+name: {full: Vishvakhila Ratnadasa, given: Vishvakhila, clan: Ratnadasa, vedy: [vishvu]}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]

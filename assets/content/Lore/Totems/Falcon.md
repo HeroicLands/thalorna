@@ -1,6 +1,6 @@
 ---
 shortcode: falconttm
-name: {full: Falcon, aliases: [Falcon Totem]}
+name: {full: Falcon, en: [Falcon Totem]}
 type: lore
 subType: bestiary
 description: "The falcon as a totemic ideal, and the human character it describes."

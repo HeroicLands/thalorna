@@ -1,6 +1,6 @@
 ---
 shortcode: dongarutrb
-name: {full: Dóngaru Tribe, aliases: []}
+name: {full: Dóngaru Tribe}
 type: affiliation
 subType: polity
 description: A forest tribe of the Okharis that fells timber and burns charcoal.

@@ -1,6 +1,6 @@
 ---
 shortcode: youweidty
-name: {full: Youbui, aliases: []}
+name: {full: Youbui}
 type: lore
 subType: deity
 description: "The Keeper of the Jade Seal in the Tengwou Rong Lei, whose seal is what makes a celestial appointment legitimate."

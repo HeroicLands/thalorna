@@ -1,6 +1,6 @@
 ---
 shortcode: nilatir
-name: {full: Nilatir, aliases: []}
+name: {full: Nilatir}
 type: place
 subType: settlement
 description: "Vyalendra's outport at the mouth of the Nilachari—a mile of bale-yards, a customs shed and a road to the city, where the cloth is sealed, counted and put aboard."

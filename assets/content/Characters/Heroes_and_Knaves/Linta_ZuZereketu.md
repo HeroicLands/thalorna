@@ -1,6 +1,6 @@
 ---
 shortcode: lintazuzerkt
-name: {full: Linta Zu'Zereketu, given: Linta, clan: Zu'Zereketu, aliases: []}
+name: {full: Linta Zu'Zereketu, given: Linta, clan: Zu'Zereketu}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]

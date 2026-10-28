@@ -1,6 +1,6 @@
 ---
 shortcode: reefspear
-name: {full: "A Reef Spear", aliases: []}
+name: {full: A Reef Spear}
 type: weapongear
 description: "A barbed hardwood spear tipped with worked shell, the common weapon of the island's reef villages and a fishing tool first."
 tags: [kalihara]

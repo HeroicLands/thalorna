@@ -1,6 +1,6 @@
 ---
 shortcode: shebazet
-name: {full: Faith of Shebazet, aliases: []}
+name: {full: Faith of Shebazet}
 type: affiliation
 subType: faithtradition
 description: "The Marsh."

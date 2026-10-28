@@ -1,6 +1,6 @@
 ---
 shortcode: garlegulu
-name: {full: Gar-Legulu, aliases: []}
+name: {full: Gar-Legulu}
 type: place
 subType: settlement
 description: "Temple-Estate Town"

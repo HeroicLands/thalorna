@@ -1,6 +1,6 @@
 ---
 shortcode: pelgun
-name: {full: Faith of Pelgun, aliases: []}
+name: {full: Faith of Pelgun}
 type: affiliation
 subType: faithtradition
 description: "Fertility & the Desert Roads."

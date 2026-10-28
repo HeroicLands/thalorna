@@ -1,6 +1,6 @@
 ---
 shortcode: bahramis
-name: {full: "Ritual: Báhramis", aliases: [The Thunder Rider, Storm God]}
+name: {full: "Ritual: Báhramis", en: [The Thunder Rider, Storm God]}
 type: skill
 subType: mystical
 tags: [ashalan, faith-skill, draft]

@@ -1,6 +1,6 @@
 ---
 shortcode: vylariages
-name: {full: The Vylarian Ages, aliases: [The Eight Ages of the Empire]}
+name: {full: The Vylarian Ages, en: [The Eight Ages of the Empire]}
 type: lore
 subType: calendar
 description: "How Vylaria's historians divide the years of the Vylarian Calendar into eight ages, from the kings and the Republic before the Founding to the years after the Tamzir Shoals; the ages name stretches of years, and every year keeps its Vylarian Calendar number."

@@ -1,6 +1,6 @@
 ---
 shortcode: morvahna
-name: {full: Faith of Mórvahna, aliases: [The Silent Keeper, "Mórvahna, The Silent Keeper"]}
+name: {full: Faith of Mórvahna, en: [The Silent Keeper, "Mórvahna, The Silent Keeper"]}
 type: affiliation
 subType: faithtradition
 description: "Decay."

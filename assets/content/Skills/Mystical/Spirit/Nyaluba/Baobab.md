@@ -1,6 +1,6 @@
 ---
 shortcode: baobablobwezisprt
-name: {full: "Baobab Spirit Power", aliases: [Baobab Spirit, Lobwezi Baobab]}
+name: {full: Baobab Spirit Power, en: [Baobab Spirit, Lobwezi Baobab]}
 type: skill
 subType: mystical
 description: "Standing with the baobab-spirit of the Lobwezi—what an allied guide of the Nyáluba Way is met and asked with."

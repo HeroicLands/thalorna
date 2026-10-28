@@ -1,6 +1,6 @@
 ---
 shortcode: provenziaadvguide
-name: {full: Provenzia Adventurer's Guide, aliases: []}
+name: {full: Provenzia Adventurer's Guide}
 type: doc
 subType: settingguide
 description: A short player and GM introduction to Provenzia—its cities and patrons, its blood-fields and its frontier, and the ways a campaign begins there.

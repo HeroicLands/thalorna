@@ -1,6 +1,6 @@
 ---
 shortcode: wardensapproaches
-name: {full: The Wardens of the Approaches, aliases: [The Wardens]}
+name: {full: The Wardens of the Approaches, en: [The Wardens]}
 type: affiliation
 subType: order
 description: "The pilots, watchers and harbor-wardens who keep Kalihara's sea-lanes and its four anchorages, and see that no stranger lands uninvited."

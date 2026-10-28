@@ -1,6 +1,6 @@
 ---
 shortcode: eblt
-name: {full: Elemental Bolt, aliases: []}
+name: {full: Elemental Bolt}
 type: mysticalability
 subType: arcanetalent
 description: "Throws a bolt of raw elemental force at a target in sight."

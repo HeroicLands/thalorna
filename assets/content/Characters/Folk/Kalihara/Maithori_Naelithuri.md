@@ -1,6 +1,6 @@
 ---
 shortcode: maithorinael
-name: {full: Maithori Naelithuri, aliases: [Seer Maithori]}
+name: {full: Maithori Naelithuri, en: [Seer Maithori]}
 type: being
 subType: npc
 description: A wandering seer who reads Tavonei Reithuri's fortune and tells him his last journey is near.

@@ -1,6 +1,6 @@
 ---
 shortcode: zhambelikosk
-name: {full: Zhambelikos Kitvarzát, aliases: [Captain Zhambelikos Kitvarzát]}
+name: {full: Zhambelikos Kitvarzát, en: [Captain Zhambelikos Kitvarzát]}
 type: being
 subType: npc
 description: Captain of the Rival Legion, a competitor from a neighboring military unit chosen for a prestigious campaign over Árshazur Gavios's.

@@ -1,6 +1,6 @@
 ---
 shortcode: dewcraft
-name: {full: Dewcraft, aliases: []}
+name: {full: Dewcraft}
 type: mysticalability
 subType: arcaneincantation
 description: "Gathers moisture from air into pools; manifests fresh water."

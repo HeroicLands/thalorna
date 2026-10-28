@@ -1,6 +1,6 @@
 ---
 shortcode: vardain
-name: {full: The Vardain, aliases: [The Holdfolk]}
+name: {full: The Vardain, en: [The Holdfolk]}
 type: lore
 subType: folk
 description: "The people of Vardanreach—the north-eastern nation that kept the Khazari's friendship for millennia, conquered by Nordmen sixty years ago and now largely thralls, whose only free remnant lives in the mountain valleys."

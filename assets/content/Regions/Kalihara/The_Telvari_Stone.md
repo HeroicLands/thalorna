@@ -1,6 +1,6 @@
 ---
 shortcode: telvaristone
-name: {full: The Telvari Stone, aliases: []}
+name: {full: The Telvari Stone}
 type: place
 subType: structure
 description: "The greatest of the current-stones on the reefs and islets round Kalihara, standing on the far side of the pilots' islet of Telvari from its town; near it the sea runs wrong for anyone who does not know it."

@@ -1,6 +1,6 @@
 ---
 shortcode: kurzalora
-name: {full: Kurzalora, aliases: []}
+name: {full: Kurzalora}
 type: place
 subType: settlement
 description: "Pilgrimage Town"

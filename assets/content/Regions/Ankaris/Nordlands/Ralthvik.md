@@ -1,6 +1,6 @@
 ---
 shortcode: ralthvik
-name: {full: Ralthvík, aliases: []}
+name: {full: Ralthvík}
 type: place
 subType: settlement
 description: "A Nordlands fishing village saved from sea raiders by Skalforv Thunderstrike, whose richest fisherwoman keeps him supplied with a ship and crew."

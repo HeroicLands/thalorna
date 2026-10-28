@@ -1,6 +1,6 @@
 ---
 shortcode: thlmthnslvrgr
-name: {full: Thalmthann Solvargur, given: Thalmthann, clan: Solvargur, aliases: []}
+name: {full: Thalmthann Solvargur, given: Thalmthann, clan: Solvargur}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]

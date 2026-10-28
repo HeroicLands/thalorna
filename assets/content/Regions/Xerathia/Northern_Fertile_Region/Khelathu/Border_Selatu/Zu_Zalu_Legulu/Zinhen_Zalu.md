@@ -1,6 +1,6 @@
 ---
 shortcode: zinhenzalu
-name: {full: Zinhen-Zalu, aliases: []}
+name: {full: Zinhen-Zalu}
 type: place
 subType: structure
 description: "The deepest garrison of the fortress-line in Zu-Zalu-Legulu, set beyond the cataract where the river-forts thin out"

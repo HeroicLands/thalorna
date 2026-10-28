@@ -1,6 +1,6 @@
 ---
 shortcode: cowttm
-name: {full: Cow, aliases: [Cow Totem]}
+name: {full: Cow, en: [Cow Totem]}
 type: lore
 subType: bestiary
 description: "The cow as a totemic ideal, and the human character it describes."

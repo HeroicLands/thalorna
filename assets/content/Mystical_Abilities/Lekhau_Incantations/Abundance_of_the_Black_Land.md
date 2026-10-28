@@ -1,6 +1,6 @@
 ---
 shortcode: abundncblckl
-name: {full: Abundance of the Black Land, aliases: []}
+name: {full: Abundance of the Black Land}
 type: mysticalability
 subType: arcaneincantation
 description: "Blesses an entire district so that everything sown in it thrives for a full season."

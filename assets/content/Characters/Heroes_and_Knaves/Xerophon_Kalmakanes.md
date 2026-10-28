@@ -1,6 +1,6 @@
 ---
 shortcode: xrphnklmkns
-name: {full: Zerofon Kalmakanes, given: Zerofon, clan: Kalmakanes, aliases: []}
+name: {full: Zerofon Kalmakanes, given: Zerofon, clan: Kalmakanes}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]

@@ -1,6 +1,6 @@
 ---
 shortcode: belgenzalunome
-name: {full: Belgen-Zalu, aliases: []}
+name: {full: Belgen-Zalu}
 type: place
 subType: region
 description: "The deepest southern fort; the empire's last writ before the tribal frontier—the land of the Selat of Belgen-Zalu, one of the border selatu of Au'Khelathu."

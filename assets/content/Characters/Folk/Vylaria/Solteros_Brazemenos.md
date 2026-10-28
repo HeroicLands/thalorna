@@ -1,6 +1,6 @@
 ---
 shortcode: solterosbraz
-name: {full: Solteros Brazemen, aliases: [Captain Solteros Brazemen]}
+name: {full: Solteros Brazemen, en: [Captain Solteros Brazemen]}
 type: being
 subType: npc
 description: A merchant vessel captain who regularly seeks out Branalenis Bárkalas for contracts.

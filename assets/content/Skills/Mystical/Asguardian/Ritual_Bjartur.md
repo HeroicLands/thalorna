@@ -1,6 +1,6 @@
 ---
 shortcode: bjartur
-name: {full: "Ritual: Bjart", aliases: [The Luminous Path]}
+name: {full: "Ritual: Bjart", en: [The Luminous Path]}
 type: skill
 subType: mystical
 tags: [asguardian, faith-skill, draft]

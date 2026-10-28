@@ -1,6 +1,6 @@
 ---
 shortcode: dnrktjnpd
-name: {full: Danurkot Janpoda, aliases: [The Janpoda of the Bow-Fort]}
+name: {full: The Janpoda of the Bow-Fort, vedy: [danurkot janpoda]}
 type: affiliation
 subType: polity
 description: The temple-republic of Danurkot—the villages of the upper Sarveda valley federated around the ancient bow-fort and its great temple of Mahajaya, governed by a sabhra with an unusually strong Sentija presence and famed across Vedyara for its archery academies.

@@ -1,6 +1,6 @@
 ---
 shortcode: kamdkhvndr
-name: {full: Kamid Khavandar, given: Kamid, clan: Khavandar, aliases: []}
+name: {full: Kamid Khavandar, given: Kamid, clan: Khavandar}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]

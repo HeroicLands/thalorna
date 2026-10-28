@@ -1,6 +1,6 @@
 ---
 shortcode: leofwingreyw
-name: {full: Mildstan Greywik, aliases: [Lord Mildstan Greywik, Lord Mildstan]}
+name: {full: Mildstan Greywik, aelw: [Lord Mildstan Greywik, Lord Mildstan]}
 type: being
 subType: npc
 description: A wealthy merchant lord with diverse trading interests who is Dunith Chilton's most generous patron.

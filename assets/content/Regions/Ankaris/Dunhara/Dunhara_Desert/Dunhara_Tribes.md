@@ -1,6 +1,6 @@
 ---
 shortcode: dunhartrbs
-name: {full: Dunhara Tribes, aliases: []}
+name: {full: Dunhara Tribes}
 type: affiliation
 subType: polity
 description: "The nomadic confederations of the Dunhara Desert—riders, guides and caravan-masters under their own sheikhs, joined by a common council at Ghavulavad, the Laws of the Well and the code of salt."

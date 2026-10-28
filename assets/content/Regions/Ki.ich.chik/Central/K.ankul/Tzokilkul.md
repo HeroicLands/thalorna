@@ -1,6 +1,6 @@
 ---
 shortcode: tzokilkul
-name: {full: "Ts'okilkul", aliases: [The Walled City]}
+name: {full: The Walled City, kiichek: [Ts'okilkul]}
 type: place
 subType: settlement
 description: "The Walled City, a coastal fortress on K'ankul's sea-cliffs whose ramparts command both the sea trade and the overland routes inland."

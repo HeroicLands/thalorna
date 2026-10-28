@@ -1,6 +1,6 @@
 ---
 shortcode: saltpansongs
-name: {full: The Songs of the Salt Pans, aliases: [The Cut Songs]}
+name: {full: The Songs of the Salt Pans, en: [The Cut Songs]}
 type: lore
 subType: literature
 description: "Six songs the women of Volsater sing in answering pairs while they rake the salt on the terraces above the town, each in couplets that come back with one word changed and a refrain between: a girl to her mother on the land wind, a suit against the sea for what was lent, the lamp and the wave, what the sea leaves in the pan, the sail that was not his, and the count at the cut."
@@ -15,7 +15,7 @@ data:
     - lore-lastshrine
     - affiliation-pozeras
     - lore-provenzianclt
-  language: provnzlng
+  lang: prov
 
 # terran_analog: "The cantigas de amigo of the western coast, for the girl's voice speaking to her mother, her friend and the waves, the parallel couplets that return with one word changed, the refrain, and the linking of each pair's second line into the next; the work-songs of women at the salt pans and the net-mending; the saudade of the fado."
 ---

@@ -1,6 +1,6 @@
 ---
 shortcode: kingdmnrgd
-name: {full: Kingdom of Norgaad, aliases: [Norgaad]}
+name: {full: Kingdom of Norgaad, nord: [norgaad]}
 type: affiliation
 subType: polity
 description: "Central Nordmen kingdom of fjords, mountain passes, and silver-mines—diplomatic heartland of the five kingdoms, traditional convener of the Great Moot, and home of the most powerful velvur in the north."

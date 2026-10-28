@@ -1,6 +1,6 @@
 ---
 shortcode: ritualthubai
-name: {full: "Ritual: Thuba'i", aliases: [The Golden Reveler, The Overflowing One]}
+name: {full: "Ritual: Thuba'i", en: [The Golden Reveler, The Overflowing One]}
 type: skill
 subType: mystical
 tags: [khelathi, faith-skill, draft]

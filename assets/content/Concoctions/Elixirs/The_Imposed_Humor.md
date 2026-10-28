@@ -1,6 +1,6 @@
 ---
 shortcode: elxpas
-name: {full: The Imposed Humor, aliases: [Passion Elixir]}
+name: {full: The Imposed Humor, en: [Passion Elixir]}
 type: concoctiongear
 subType: elixir
 description: "Deep red-violet liquid; implants chosen mental disorder compulsively."

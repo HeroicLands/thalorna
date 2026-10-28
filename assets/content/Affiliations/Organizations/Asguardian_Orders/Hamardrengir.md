@@ -1,6 +1,6 @@
 ---
 shortcode: hamardrengir
-name: {full: "Hamardrengir", aliases: []}
+name: {full: Hamardrengir}
 type: affiliation
 subType: order
 description: "Thrunvald's fighting order of hammer-warriors."

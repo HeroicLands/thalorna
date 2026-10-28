@@ -1,6 +1,6 @@
 ---
 shortcode: ruzhvelanakh
-name: {full: Ruzhvelana Korikot, aliases: [Captain-General Ruzhvelana Korikot]}
+name: {full: Ruzhvelana Korikot, en: [Captain-General Ruzhvelana Korikot]}
 type: being
 subType: npc
 description: Captain-General of the City Guard and supreme military commander of Krisamar, named in Sedikon Manedes.

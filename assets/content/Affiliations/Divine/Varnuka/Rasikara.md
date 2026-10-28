@@ -1,6 +1,6 @@
 ---
 shortcode: rasikara
-name: {full: Rasikara, aliases: [The Flame of Renewal]}
+name: {full: The Flame of Renewal, vedy: [rasikara]}
 type: affiliation
 subType: faithtradition
 description: "Religion of the god of fire and of the change fire compels."

@@ -1,6 +1,6 @@
 ---
 shortcode: ptnhalg
-name: {full: "Oracle's Vapor", aliases: ["Potion, Hallucinogenic, Great"]}
+name: {full: Oracle's Vapor, en: ["Potion, Hallucinogenic, Great"]}
 type: concoctiongear
 subType: exotic
 description: "Writhing near-black liquid; grants prophetic visions and future sight."

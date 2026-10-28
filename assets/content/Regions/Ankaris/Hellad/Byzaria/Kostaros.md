@@ -1,6 +1,6 @@
 ---
 shortcode: kostaros
-name: {full: Kostaros, aliases: []}
+name: {full: Kostaros}
 type: place
 subType: settlement
 description: "Port Town"

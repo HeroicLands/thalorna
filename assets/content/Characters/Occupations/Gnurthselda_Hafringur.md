@@ -1,6 +1,6 @@
 ---
 shortcode: gnrthsldhfrngr
-name: {full: Gnurthselda Hafringur, aliases: []}
+name: {full: Gnurthselda Hafringur}
 type: being
 subType: npc
 tags: [todo-warrior, draft, soldiery]

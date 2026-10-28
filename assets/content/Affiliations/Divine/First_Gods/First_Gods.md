@@ -1,6 +1,6 @@
 ---
 shortcode: firstgods
-name: {full: The First Gods, aliases: [The Old Gods]}
+name: {full: The First Gods, en: [The Old Gods]}
 type: affiliation
 subType: spirittradition
 description: The ancestral pantheon of the Áelendan—two primordial Powers locked in eternal struggle, and the celestial kindred who serve them.

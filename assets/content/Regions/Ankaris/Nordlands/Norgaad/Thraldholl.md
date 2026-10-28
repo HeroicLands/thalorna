@@ -1,6 +1,6 @@
 ---
 shortcode: thraldholl
-name: {full: Thraldholl, aliases: [The Drowned Hall]}
+name: {full: Thraldholl, en: [The Drowned Hall]}
 type: place
 subType: site
 description: "A sea-cave under a headland of memorial stones on Norgaad's northern coast, where a sorcerer-jarl keeps the drowned at the oars of a ship that never leaves the cave."

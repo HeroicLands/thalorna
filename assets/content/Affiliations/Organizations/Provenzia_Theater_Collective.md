@@ -2,7 +2,7 @@
 shortcode: prvnzthtrclctv
 name:
   full: The Provenzia Theater Collective
-  aliases: [The Theater Collective, The Players' Federation]
+  en: [The Theater Collective, The Players' Federation]
 type: affiliation
 subType: fellowship
 description: "Informal but influential federation of Provenzian theater companies, performers, and patrons—shaping the kingdom's public life through staged spectacle, satire, and the careful cultivation of taste."

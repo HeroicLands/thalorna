@@ -1,6 +1,6 @@
 ---
 shortcode: aqasi
-name: {full: Aqasi, aliases: []}
+name: {full: Aqasi}
 type: being
 subType: npc
 description: "One of Kuztar's most talented students, whose gift is not in question and whose loyalty is"

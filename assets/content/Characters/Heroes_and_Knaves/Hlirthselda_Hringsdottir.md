@@ -1,9 +1,6 @@
 ---
 shortcode: hlrthsldhrngsdtr
-name:
-  full: Hlirthselda Hringsdottir
-  given: Hlirthselda
-  aliases: [the Shield-Maiden of Vrathavan]
+name: {full: Hlirthselda Hringsdottir, given: Hlirthselda, en: [the Shield-Maiden of Vrathavan]}
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, soldiery]

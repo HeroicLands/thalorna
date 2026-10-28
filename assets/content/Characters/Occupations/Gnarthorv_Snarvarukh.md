@@ -1,6 +1,6 @@
 ---
 shortcode: gnrthrvsnrvrkh
-name: {full: Gnarthorv Snarvaruk, aliases: []}
+name: {full: Gnarthorv Snarvaruk}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

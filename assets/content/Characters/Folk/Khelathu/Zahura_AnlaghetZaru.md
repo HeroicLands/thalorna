@@ -1,6 +1,6 @@
 ---
 shortcode: zahuraanlagh
-name: {full: Zahura Anlaghet'Zaru, aliases: [Lord Commander Zahura]}
+name: {full: Zahura Anlaghet'Zaru, en: [Lord Commander Zahura]}
 type: being
 subType: npc
 description: The military officer involved in the scandal of Thamiyra Geza'Uzu, now openly resentful of her continued elevation.

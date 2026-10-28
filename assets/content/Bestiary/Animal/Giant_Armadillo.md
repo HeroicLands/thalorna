@@ -1,6 +1,6 @@
 ---
 shortcode: gntarmdl
-name: {full: Giant Armadillo, aliases: []}
+name: {full: Giant Armadillo}
 type: being
 subType: creature
 description: "A solitary armored mammal exceeding twelve feet, a living fortress of bony plates that fiercely defends its vast nocturnal burrows."

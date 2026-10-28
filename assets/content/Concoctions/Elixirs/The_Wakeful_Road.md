@@ -1,6 +1,6 @@
 ---
 shortcode: elxvrv
-name: {full: The Wakeful Road, aliases: [Verve Elixir]}
+name: {full: The Wakeful Road, en: [Verve Elixir]}
 type: concoctiongear
 subType: elixir
 description: "Pale gold restless elixir; burns away fatigue and exhaustion."

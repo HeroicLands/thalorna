@@ -1,6 +1,6 @@
 ---
 shortcode: hlskthnvtrdmr
-name: {full: Hliskthann Veturdómur, given: Hliskthann, clan: Veturdómur, aliases: []}
+name: {full: Hliskthann Veturdómur, given: Hliskthann, clan: Veturdómur}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]

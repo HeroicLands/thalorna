@@ -1,6 +1,6 @@
 ---
 shortcode: zenothenguri
-name: {full: Zenothen Gurimandis, aliases: [Brother Zenothen]}
+name: {full: Zenothen Gurimandis, en: [Brother Zenothen]}
 type: being
 subType: npc
 description: A priest of Marendas at the Temple of Wisdom and confessor to several scholars, named in Azato Damzanis.

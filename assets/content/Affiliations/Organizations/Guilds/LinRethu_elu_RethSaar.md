@@ -1,6 +1,6 @@
 ---
 shortcode: linrethrthsr
-name: {full: Lin'Rethu elu Reth'Sa'ar, aliases: [Scholars' Collective of the Temple of Reth'Sa'ar]}
+name: {full: Lin'Rethu elu Reth'Sa'ar, en: [Scholars' Collective of the Temple of Reth'Sa'ar]}
 type: affiliation
 subType: guild
 description: The scholars attached to the temple of Reth'Sa'ar, who hold the deeper texts and decide who may read them

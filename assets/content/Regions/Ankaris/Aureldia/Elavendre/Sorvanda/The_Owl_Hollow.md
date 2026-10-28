@@ -1,6 +1,6 @@
 ---
 shortcode: owlhollow
-name: {full: The Owl Hollow, aliases: [Óssenda's Hollow]}
+name: {full: The Owl Hollow, en: [Óssenda's Hollow]}
 type: place
 subType: feature
 description: "A steep wooded fold in the lower Drenavar country, seat of the owl-spirit Óssenda—where the Áelendan are careful speakers after dark, and where Death-Speakers come to ask whether the recently dead have gone."

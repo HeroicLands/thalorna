@@ -1,6 +1,6 @@
 ---
 shortcode: disarray
-name: {full: Disarray, aliases: []}
+name: {full: Disarray}
 type: mysticalability
 subType: arcaneincantation
 description: "Scatters enemy formations; combatants stumble and collide confusedly."

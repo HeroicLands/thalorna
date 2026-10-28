@@ -33,8 +33,10 @@
  * only evidence it was ever real.
  *
  * **Agreement with the tree.** Where a note stands at a row's `newPath`, its
- * `shortcode` is that row's `newShortcode`, its `name.full` that row's `newName`
- * and its `name.aliases` that row's `newAliases`. The name is matched whole,
+ * `shortcode` is that row's `newShortcode`, its `name.full` or one of the forms
+ * its `name` lists by language that row's `newName`, and its other names that
+ * row's `newAliases`, compared without regard to case or order, because a form
+ * under a caseless language is written lowercase. The name is matched whole,
  * because a row names one note and that note's name is the name of the thing the
  * row describes: a god, its faith and its rite are three things with three
  * names. A table the corpus contradicts is worse than no table, because it is
@@ -503,6 +505,21 @@ export function checkCitations(rows, raw) {
 }
 
 /**
+ * Every name a note writes: its `name.full`, then each form its `name` lists
+ * under a language code, in the order the note gives them.
+ *
+ * @param {object} front - The note's frontmatter.
+ * @returns {string[]} The names.
+ */
+export function noteNames(front) {
+    const name = front?.name ?? {};
+    const out = name.full === undefined ? [] : [String(name.full)];
+    for (const forms of Object.values(name))
+        if (Array.isArray(forms)) out.push(...forms.map(String));
+    return out;
+}
+
+/**
  * Every row the corpus contradicts.
  *
  * @param {object[]} rows - The entries.
@@ -555,7 +572,11 @@ export function checkAgreement(rows, raw) {
         // named `Faith of Ódvar`, and the faith, the god and the rite are three
         // things: a row for one of them that carries another's name sends every
         // reader of the table to the wrong note.
-        if (row.newName && bare(front.name?.full ?? "") !== bare(row.newName)) {
+        const names = noteNames(front);
+        const fold = (value) => bare(value).normalize("NFC").toLowerCase();
+        const own =
+            row.newName ? names.find((name) => fold(name) === fold(row.newName)) : undefined;
+        if (row.newName && own === undefined) {
             const spot = positionOf(text, String(front.name?.full ?? ""));
             say(
                 finding(
@@ -574,11 +595,9 @@ export function checkAgreement(rows, raw) {
             Array.isArray(row.newAliases) ? row.newAliases.map(String)
             : row.newAliases ? [String(row.newAliases)]
             : [];
-        const stated =
-            Array.isArray(front.name?.aliases) ? front.name.aliases.map(String)
-            : front.name?.aliases ? [String(front.name.aliases)]
-            : [];
-        if (claimed.join("\u0000") !== stated.join("\u0000")) {
+        const stated = names.filter((name) => name !== (own ?? front.name?.full));
+        const key = (list) => list.map(fold).sort().join("\u0000");
+        if (key(claimed) !== key(stated)) {
             const spot = positionOf(text, String(front.name?.full ?? ""));
             say(
                 finding(
@@ -586,7 +605,7 @@ export function checkAgreement(rows, raw) {
                     spot.line,
                     spot.column,
                     "error",
-                    `the note's aliases are ${stated.length ? stated.map((a) => `"${a}"`).join(", ") : "none"} and the table says ${claimed.length ? claimed.map((a) => `"${a}"`).join(", ") : "none"}`,
+                    `the note's other names are ${stated.length ? stated.map((a) => `"${a}"`).join(", ") : "none"} and the table says ${claimed.length ? claimed.map((a) => `"${a}"`).join(", ") : "none"}`,
                 ),
             );
         }
@@ -651,7 +670,7 @@ export function checkCoverage(table, rows) {
             continue;
         }
         const history = nameHistory(file);
-        const aliases = (front?.name?.aliases ?? []).map(String);
+        const aliases = noteNames(front ?? {}).map((name) => name.normalize("NFC").toLowerCase());
         // Three ways a file's history settles that nothing has been lost. One
         // name for its whole life is the plain case. A note that carries an
         // earlier name as an alias still writes it, so nothing was retired. And
@@ -659,7 +678,9 @@ export function checkCoverage(table, rows) {
         // nothing either — what stood between was a form the tree corrected, not
         // a name the setting took.
         const oneName = history.length === 1;
-        const earlierKept = history.slice(0, -1).every((name) => aliases.includes(name));
+        const earlierKept = history
+            .slice(0, -1)
+            .every((name) => aliases.includes(String(name).normalize("NFC").toLowerCase()));
         const returned = history.length > 1 && history[0] === history[history.length - 1];
         if (oneName || earlierKept || returned) {
             tally.unchanged += 1;

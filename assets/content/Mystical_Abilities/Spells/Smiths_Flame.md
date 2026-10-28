@@ -1,6 +1,6 @@
 ---
 shortcode: smthflam
-name: {full: Smith’s Flame, aliases: []}
+name: {full: Smith’s Flame}
 type: mysticalability
 subType: arcaneincantation
 description: "The caster conjures a zone of intense, precisely controlled heat cente"

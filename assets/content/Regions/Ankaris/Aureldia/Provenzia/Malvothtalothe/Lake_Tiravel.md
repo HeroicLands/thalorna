@@ -1,6 +1,6 @@
 ---
 shortcode: tiravellake
-name: {full: Lake Tiravel, aliases: []}
+name: {full: Lake Tiravel}
 type: place
 subType: feature
 description: "The great upland lake of Talote, Provenzia's eastern march—settled, prosperous and orderly in a country otherwise given over to the Tarvénian frontier, with a blood-field on its shore that replays out over the water."

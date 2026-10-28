@@ -1,6 +1,6 @@
 ---
 shortcode: thndrhrn
-name: {full: Thunderhorn, aliases: []}
+name: {full: Thunderhorn}
 type: being
 subType: creature
 description: "A massive, storm-infused beast of territorial fury that roams lightning-swept highlands, feeding on the electrical energy of thunderstorms."

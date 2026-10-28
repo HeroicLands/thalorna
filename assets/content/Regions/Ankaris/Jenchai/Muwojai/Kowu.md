@@ -1,6 +1,6 @@
 ---
 shortcode: kowu
-name: {full: Kowu, aliases: [Old Hall]}
+name: {full: Old Hall, jurt: [Kowu]}
 type: place
 subType: settlement
 description: "The castle town of House Muwojai on the slope of Zijai—a granary, a hall and the garrison of the roads to the Emperor, seat of the loyalist lord Muwojai Chaiwo."

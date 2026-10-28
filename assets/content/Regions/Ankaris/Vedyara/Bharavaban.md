@@ -1,6 +1,6 @@
 ---
 shortcode: bharavaban
-name: {full: Bharavaban, aliases: [The Bharava Forest, The Forest Country]}
+name: {full: The Bharava Forest, en: [The Forest Country], vedy: [bharavaban]}
 type: place
 subType: region
 description: "The southern tropical interior of Vedyara—six hundred miles of forest along the lower Bharava, held in temple-estates where no assembly sits, and the source of the resin, lac, hardwood and spice the pilgrim road is endowed out of."

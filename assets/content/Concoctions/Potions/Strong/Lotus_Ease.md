@@ -1,6 +1,6 @@
 ---
 shortcode: ptnnars
-name: {full: Lotus Ease, aliases: ["Potion, Narcotic, Strong"]}
+name: {full: Lotus Ease, en: ["Potion, Narcotic, Strong"]}
 type: concoctiongear
 subType: exotic
 description: "Deep amber golden liquid; brings profound peace and calm."

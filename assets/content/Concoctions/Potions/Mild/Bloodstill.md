@@ -1,6 +1,6 @@
 ---
 shortcode: ptncoagm
-name: {full: Bloodstill, aliases: ["Potion, Coagulant, Mild"]}
+name: {full: Bloodstill, en: ["Potion, Coagulant, Mild"]}
 type: concoctiongear
 subType: exotic
 description: "Thick rusty-brown paste; coagulates blood preventing wound death."

@@ -52,7 +52,7 @@ Create a Markdown file anywhere below this directory with YAML frontmatter:
 shortcode: brzgnt # unique within (type, package); referenced by saved data
 name:
   full: Bronze Gauntlet # the display name
-  aliases: [] # other names only; never a respelling, a fragment or a former name
+  en: [] # other names, listed under the code of their language; never a respelling, a fragment or a former name
 type: weapongear
 data:
   templatePriority: null # tri-state: a number if this note is a template, null if not, never absent

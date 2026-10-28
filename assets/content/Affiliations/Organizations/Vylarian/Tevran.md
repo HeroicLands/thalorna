@@ -1,6 +1,6 @@
 ---
 shortcode: tevran
-name: {full: The Tevran Maldor, aliases: [Great College of Guilds, The Tevran]}
+name: {full: Great College of Guilds, vyl: [The Tevran Maldor, The Tevran]}
 type: affiliation
 subType: guild
 description: "Cross-realm “guild of guilds”—the umbrella body to which every chartered guild in Vylaria, the Aureldian territories, Hellád, and (until secession) Taruzel must belong; provides the credentialing, market-access, and standards infrastructure that lets the post-imperial commonwealth's smaller polities access markets none of them could reach alone."

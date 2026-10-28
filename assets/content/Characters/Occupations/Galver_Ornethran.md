@@ -1,6 +1,6 @@
 ---
 shortcode: glvrrnthrn
-name: {full: Galver Ornethran, aliases: []}
+name: {full: Galver Ornethran}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

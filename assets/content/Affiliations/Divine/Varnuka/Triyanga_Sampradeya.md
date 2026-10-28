@@ -1,6 +1,6 @@
 ---
 shortcode: triyangasampradeya
-name: {full: Triyanga-sampradeya, aliases: [Tradition of the Three Forms, Triyanga Tradition]}
+name: {full: Tradition of the Three Forms, en: [Triyanga Tradition], vedy: [triyanga-sampradeya]}
 type: affiliation
 subType: faithtradition
 description: "Orthodox, foundational religion of most Vedyaran city-states, balanced veneration of the cosmic triad."

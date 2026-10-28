@@ -2,7 +2,7 @@
 shortcode: crownssettle
 name:
   full: The Settlement of the Crowns
-  aliases: [The Post-Imperial Settlement, The Settlement of Azénales]
+  en: [The Post-Imperial Settlement, The Settlement of Azénales]
 type: lore
 subType: history
 description: "About 619 AF, the year after Provenzia's charter war ended, the Orzas Azénales settles with the envoys of the Aureldian crowns and the Bizarian League what the Empire still is: Provenzia's Charter recognized, the crowns and the League free of imperial governance and tax but inside the note system at a two-percent issuance fee, Helionis a province on paper, and the far forts' commissions unpaid."

@@ -1,6 +1,6 @@
 ---
 shortcode: zhevranikosn
-name: {full: Zhevranikos Nesharzát, aliases: [Herald Zhevranikos Nesharzát]}
+name: {full: Zhevranikos Nesharzát, en: [Herald Zhevranikos Nesharzát]}
 type: being
 subType: npc
 description: A younger, reform-minded herald who has begun to introduce informal elements into ceremonial conduct, named in Sakozes Bulides.

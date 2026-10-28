@@ -1,6 +1,6 @@
 ---
 shortcode: mrlrkr
-name: {full: Mirelurker, aliases: []}
+name: {full: Mirelurker}
 type: being
 subType: creature
 description: "A crustacean-amphibian apex predator of brackish marshes that waits motionless as a submerged log before striking with brutal force."

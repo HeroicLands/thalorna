@@ -1,6 +1,6 @@
 ---
 shortcode: ekpelulng
-name: {full: Ekpelu Language, aliases: []}
+name: {full: Ekpelu Language}
 type: skill
 subType: language
 description: "The common tongue of the forest peoples of central Zerathia: small, open and unwritten, spoken with a different accent and a different word for the sacred by each of the four traditions."

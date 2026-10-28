@@ -1,6 +1,6 @@
 ---
 shortcode: unlock
-name: {full: Unlock, aliases: []}
+name: {full: Unlock}
 type: mysticalability
 subType: arcaneincantation
 description: "Opens sealed passages; unlocks magical locks and barriers."

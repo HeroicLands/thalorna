@@ -1,6 +1,6 @@
 ---
 shortcode: edgarchltn
-name: {full: Hildmund Chilton, aliases: []}
+name: {full: Hildmund Chilton}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

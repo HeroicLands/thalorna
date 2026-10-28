@@ -1,6 +1,6 @@
 ---
 shortcode: overview
-name: {full: Overview, aliases: []}
+name: {full: Overview}
 type: mysticalability
 subType: arcaneincantation
 description: "Grants caster bird's-eye perspective; sees terrain from great height."

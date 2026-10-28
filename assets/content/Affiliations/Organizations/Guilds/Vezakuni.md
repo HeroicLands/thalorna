@@ -1,6 +1,6 @@
 ---
 shortcode: vezakuni
-name: {full: Vezakuni, aliases: [The Council of the Guild-Wardens, Vezakar]}
+name: {full: The Council of the Guild-Wardens, taru: [Vezakuni, Vezakar]}
 type: affiliation
 subType: guild
 description: "Taruzelian Council of the Guild-Wardens—chartered by the Confederation after independence to replace the Vylarian guild umbrella with an institution drawn from Taruzel's own pre-conquest merchant traditions and built on its own terms, in its own language."

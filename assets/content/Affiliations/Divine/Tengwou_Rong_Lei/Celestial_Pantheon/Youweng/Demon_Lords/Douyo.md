@@ -1,6 +1,6 @@
 ---
 shortcode: douyo
-name: {full: Douyo, aliases: [The Lost Road, The Guide Who Leads Astray]}
+name: {full: The Lost Road, en: [The Guide Who Leads Astray], tant: [Douyo]}
 type: affiliation
 subType: criminal
 description: "Misdirection."

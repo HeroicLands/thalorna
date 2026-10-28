@@ -1,6 +1,6 @@
 ---
 shortcode: volkhemara
-name: {full: Volkemara, aliases: []}
+name: {full: Volkemara}
 type: place
 subType: settlement
 description: "Fishing Town"

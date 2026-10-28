@@ -1,6 +1,6 @@
 ---
 shortcode: hezmuiri
-name: {full: Faith of Hezmu'iri, aliases: [The Keeper of Transitions]}
+name: {full: Faith of Hezmu'iri, en: [The Keeper of Transitions]}
 type: affiliation
 subType: faithtradition
 description: "Decay."

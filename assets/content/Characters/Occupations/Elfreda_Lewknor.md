@@ -1,6 +1,6 @@
 ---
 shortcode: elfrdlwknr
-name: {full: Kenrith Lewknor, aliases: []}
+name: {full: Kenrith Lewknor}
 type: being
 subType: npc
 tags: [draft, common-folk]

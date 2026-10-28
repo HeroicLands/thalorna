@@ -1,6 +1,6 @@
 ---
 shortcode: kezhvalikosb
-name: {full: Kezhvalikos Bolalidek, aliases: [Merchant-Lord Kezhvalikos Bolalidek]}
+name: {full: Kezhvalikos Bolalidek, en: [Merchant-Lord Kezhvalikos Bolalidek]}
 type: being
 subType: npc
 description: A worldly trader and collector of fine things who has become a regular guest and social ally of Agélara Stetes.

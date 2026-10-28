@@ -1,6 +1,6 @@
 ---
 shortcode: gezazabuselt
-name: {full: Gezazabu Selat, aliases: []}
+name: {full: Gezazabu Selat}
 type: place
 subType: region
 description: "Western delta port; salt-fish, curing-houses, and the trade road to Bethua—the land of the Selat of Gezazabu, one of the delta selatu of Au'Khelathu."

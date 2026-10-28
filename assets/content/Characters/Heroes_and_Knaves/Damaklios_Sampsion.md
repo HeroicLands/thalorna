@@ -1,6 +1,6 @@
 ---
 shortcode: damklsmpsn
-name: {full: Damáklios Bridutis, given: Damáklios, clan: Bridutis, aliases: []}
+name: {full: Damáklios Bridutis, given: Damáklios, clan: Bridutis}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]

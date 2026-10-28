@@ -1,6 +1,6 @@
 ---
 shortcode: barrier
-name: {full: Barrier, aliases: []}
+name: {full: Barrier}
 type: mysticalability
 subType: arcaneincantation
 description: "Erupts wall of dense metal from ground; shields and blocks."

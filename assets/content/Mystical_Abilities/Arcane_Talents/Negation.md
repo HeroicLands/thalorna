@@ -1,6 +1,6 @@
 ---
 shortcode: negx
-name: {full: Negation, aliases: []}
+name: {full: Negation}
 type: mysticalability
 subType: arcanetalent
 description: "Suppresses a mystical working in progress, or blunts one directed at the practitioner."

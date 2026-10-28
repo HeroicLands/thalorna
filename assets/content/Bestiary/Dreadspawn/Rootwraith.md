@@ -1,6 +1,6 @@
 ---
 shortcode: rtwrth
-name: {full: Rootwraith, aliases: []}
+name: {full: Rootwraith}
 type: being
 subType: creature
 description: "A territorial mass of vegetation and ancient malice that rises from the soil of deep forests to punish intruders."

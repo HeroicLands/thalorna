@@ -1,6 +1,6 @@
 ---
 shortcode: thesidlvnr
-name: {full: Thésira Delvanor, aliases: []}
+name: {full: Thésira Delvanor}
 type: being
 subType: npc
 tags: [draft, soldiery]

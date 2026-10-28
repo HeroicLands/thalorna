@@ -1,6 +1,6 @@
 ---
 shortcode: thirstless
-name: {full: Thirstless, aliases: []}
+name: {full: Thirstless}
 type: mysticalability
 subType: arcaneincantation
 description: "Sustains a person without water for as long as the working holds."

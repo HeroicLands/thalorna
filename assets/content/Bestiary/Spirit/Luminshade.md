@@ -1,6 +1,6 @@
 ---
 shortcode: lmnshd
-name: {full: Luminshade, aliases: []}
+name: {full: Luminshade}
 type: being
 subType: creature
 description: "A paradoxical liminal spirit born where light and shadow meet, dwelling in reflections and dusk, alien and incomprehensible though not inherently hostile."

@@ -1,6 +1,6 @@
 ---
 shortcode: khelamose
-name: {full: Khelamose, aliases: [Khela]}
+name: {full: Khelamose, khel: [khela]}
 type: being
 subType: npc
 description: "A master smith and rival, who has taken on an apprentice he should not have and is teaching what he should not teach"

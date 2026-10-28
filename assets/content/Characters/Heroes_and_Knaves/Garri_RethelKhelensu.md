@@ -1,6 +1,6 @@
 ---
 shortcode: garrrthlkhln
-name: {full: Garri Reth'el'Khelensu, given: Garri, clan: Reth'el'Khelensu, aliases: []}
+name: {full: Garri Reth'el'Khelensu, given: Garri, clan: Reth'el'Khelensu}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]

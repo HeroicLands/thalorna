@@ -1,6 +1,6 @@
 ---
 shortcode: khazpirzathenc
-name: {full: Khazari Pirzath Encoding, aliases: []}
+name: {full: Khazari Pirzath Encoding}
 type: doc
 subType: reference
 data:

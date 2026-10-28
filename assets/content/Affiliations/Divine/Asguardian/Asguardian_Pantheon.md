@@ -1,6 +1,6 @@
 ---
 shortcode: asguardian
-name: {full: Asguardian Pantheon, aliases: [The Ten]}
+name: {full: Asguardian Pantheon, en: [The Ten]}
 type: affiliation
 subType: faithtradition
 description: "Northern faith grounded in endurance and defiance, honoring ten gods who stand against cosmic dissolution and the certainty of Aldarlok—the close of the present age."

@@ -1,6 +1,6 @@
 ---
 shortcode: qing
-name: {full: Qiang, aliases: []}
+name: {full: Qiang}
 type: weapongear
 description: "Leaf-shaped slender thrusting spear with silk tassel; versatile reach."
 tags: []

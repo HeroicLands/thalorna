@@ -1,6 +1,6 @@
 ---
 shortcode: nclvhllwwd
-name: {full: Enclave of the Hallowwood, aliases: []}
+name: {full: Enclave of the Hallowwood}
 type: affiliation
 subType: polity
 description: "The Sinale of Aelwyth, who reside in the Hallowwood under their own lord and do not answer to Dúnavarre."

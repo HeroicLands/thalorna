@@ -1,6 +1,6 @@
 ---
 shortcode: beravel
-name: {full: Péravel, aliases: []}
+name: {full: Péravel}
 type: place
 subType: settlement
 description: "The capital of Élavendre—a river metropolis fifteen miles up the Berav from the sea, seat of the crown, and home of the largest Epistémion campus outside the Vylarian Empire."

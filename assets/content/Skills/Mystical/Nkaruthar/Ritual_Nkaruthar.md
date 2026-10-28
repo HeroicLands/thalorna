@@ -2,7 +2,8 @@
 shortcode: nkaruthar
 name:
   full: "Ritual: Nkaru'thar"
-  aliases: [Nkaru'thar, The Eternal Flame, The Three Flames, The Triune Fire]
+  en: [The Eternal Flame, The Three Flames, The Triune Fire]
+  okha: [Nkaru'thar]
 type: skill
 subType: mystical
 tags: [nkaruthar, faith-skill, draft]

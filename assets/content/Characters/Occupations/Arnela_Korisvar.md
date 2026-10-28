@@ -1,6 +1,6 @@
 ---
 shortcode: arnelkrsvr
-name: {full: Arnela Kórisvar, aliases: []}
+name: {full: Arnela Kórisvar}
 type: being
 subType: npc
 tags: [draft, administration]

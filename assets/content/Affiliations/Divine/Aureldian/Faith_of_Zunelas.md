@@ -1,6 +1,6 @@
 ---
 shortcode: zunelas
-name: {full: Faith of Zunelas, aliases: [The Veiled Dreamer, Zunelas]}
+name: {full: Faith of Zunelas, en: [The Veiled Dreamer], vyl: [Zunelas]}
 type: affiliation
 subType: faithtradition
 description: "Dreams."

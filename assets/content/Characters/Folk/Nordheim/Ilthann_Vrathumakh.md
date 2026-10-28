@@ -1,6 +1,6 @@
 ---
 shortcode: ilthannvrath
-name: {full: Ilthann Vrathumak, aliases: [Artisan Ilthann Vrathumak, Artisan Ilthann]}
+name: {full: Ilthann Vrathumak, en: [Artisan Ilthann Vrathumak, Artisan Ilthann]}
 type: being
 subType: npc
 description: A younger artisan trained in ceramics who set up a rival workshop to Thalmthann Solvargur's after studying under Thulmvir Snarvaruk; also named in Thulmvir Snarvaruk.

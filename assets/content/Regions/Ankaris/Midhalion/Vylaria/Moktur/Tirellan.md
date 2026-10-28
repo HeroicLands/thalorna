@@ -1,6 +1,6 @@
 ---
 shortcode: tyrellan
-name: {full: Tirellan, aliases: []}
+name: {full: Tirellan}
 type: place
 subType: settlement
 description: "Provincial City"

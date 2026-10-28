@@ -1,6 +1,6 @@
 ---
 shortcode: psnssnk
-name: {full: Poisonous Snake, aliases: []}
+name: {full: Poisonous Snake}
 type: being
 subType: creature
 description: "An efficient ambush predator armed with a specialized venom delivery system, striking swiftly from forests, badlands, and diverse patient-hunting niches."

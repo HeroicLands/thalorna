@@ -1,6 +1,6 @@
 ---
 shortcode: tvlgrvrfrgd
-name: {full: Tvilgorv the Reforged, given: Tvilgorv, aliases: [the Reforged]}
+name: {full: Tvilgorv the Reforged, given: Tvilgorv, en: [the Reforged]}
 type: being
 subType: character
 tags: [demigod, heroes-of-asguard, soldiery]

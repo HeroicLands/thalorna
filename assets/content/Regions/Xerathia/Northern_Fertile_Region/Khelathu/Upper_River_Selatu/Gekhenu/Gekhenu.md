@@ -1,6 +1,6 @@
 ---
 shortcode: gekhenu
-name: {full: Gekhenu, aliases: []}
+name: {full: Gekhenu}
 type: place
 subType: settlement
 description: "Selat capital of Gekhenu, where library-temples and astronomers keep the calendar of the middle river."

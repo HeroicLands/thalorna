@@ -1,6 +1,6 @@
 ---
 shortcode: edriclvrtn
-name: {full: Harrik Alverton, aliases: []}
+name: {full: Harrik Alverton}
 type: being
 subType: npc
 tags: [draft, common-folk]

@@ -1,6 +1,6 @@
 ---
 shortcode: bloodfields
-name: {full: The Blood-fields of Provenzia, aliases: []}
+name: {full: The Blood-fields of Provenzia}
 type: lore
 subType: history
 description: "Provenzia's blood-fields—ground where so many died at once that the boundary with the spirit world was torn rather than worn thin, leaving a resonance of the battle that does not fade; and the war-torn history that gave the kingdom more of them than anywhere else."

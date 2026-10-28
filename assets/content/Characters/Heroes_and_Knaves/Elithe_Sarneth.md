@@ -1,6 +1,6 @@
 ---
 shortcode: elyseskyrn
-name: {full: Élithe Sarneth, given: Élithe, clan: Sarneth, aliases: []}
+name: {full: Élithe Sarneth, given: Élithe, clan: Sarneth}
 type: being
 subType: character
 tags: [hero, silent-talon, guilded, mages]

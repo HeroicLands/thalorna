@@ -1,6 +1,6 @@
 ---
 shortcode: tongufrgnlnd
-name: {full: Tongue of the Foreign Land, aliases: []}
+name: {full: Tongue of the Foreign Land}
 type: mysticalability
 subType: arcaneincantation
 description: "Permits speech and understanding of a language the practitioner does not know."

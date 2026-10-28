@@ -1,6 +1,6 @@
 ---
 shortcode: aravantia
-name: {full: Aravantara, aliases: []}
+name: {full: Aravantara}
 type: place
 subType: settlement
 description: "Provincial Capital"

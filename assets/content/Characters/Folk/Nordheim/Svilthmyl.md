@@ -1,6 +1,6 @@
 ---
 shortcode: svilthmyl
-name: {full: Svilthmil, aliases: [Overseer Svilthmil]}
+name: {full: Svilthmil, en: [Overseer Svilthmil]}
 type: being
 subType: npc
 description: The overseer who replaced Gnaldurmil and treats Thraskorv Jarnskel with particular savagery.

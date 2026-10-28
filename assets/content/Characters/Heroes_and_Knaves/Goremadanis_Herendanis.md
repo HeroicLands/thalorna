@@ -1,6 +1,6 @@
 ---
 shortcode: grmdnshrndns
-name: {full: Goremadanis Herendanis, given: Goremadanis, clan: Herendanis, aliases: []}
+name: {full: Goremadanis Herendanis, given: Goremadanis, clan: Herendanis}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]

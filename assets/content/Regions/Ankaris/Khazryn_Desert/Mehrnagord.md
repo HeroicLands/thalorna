@@ -1,6 +1,6 @@
 ---
 shortcode: mehrnagord
-name: {full: Mernagord, aliases: []}
+name: {full: Mernagord}
 type: place
 subType: settlement
 description: "The largest oasis still ruled by a Tellumi prince, at the western end of Tellumel by the salt pans and the Western Descent, and the first city a caravan meets coming over the range."

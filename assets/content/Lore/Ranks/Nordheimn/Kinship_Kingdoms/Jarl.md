@@ -1,6 +1,6 @@
 ---
 shortcode: jarlrnk
-name: {full: "Jarl", aliases: []}
+name: {full: Jarl}
 type: lore
 subType: law
 description: "The nobility commanding a province's hersvaldar, by royal grant in the five kingdoms or in their own right in Stormveld."

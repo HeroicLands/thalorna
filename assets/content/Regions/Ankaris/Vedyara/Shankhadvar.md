@@ -1,6 +1,6 @@
 ---
 shortcode: shankhadvr
-name: {full: Shankhadvar, aliases: []}
+name: {full: Shankhadvar}
 type: place
 subType: feature
 description: "The conch-door—the easternmost and worst of the crossings, under Kalashikhar, watched from the one standing garrison the temple-republics keep anywhere."

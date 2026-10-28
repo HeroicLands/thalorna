@@ -1,8 +1,6 @@
 ---
 shortcode: twelfthloss
-name:
-  full: The Loss of the Twelfth
-  aliases: [The Doran Hilvan's Last Winter, The Kervaron Campaign]
+name: {full: The Loss of the Twelfth, en: [The Doran Hilvan's Last Winter, The Kervaron Campaign]}
 type: lore
 subType: history
 description: "About 680 AF a regent's council sends the Doran Hilvan into the Kervaron to enforce the boundary stones on the Áelendan clans; the clans let the legion climb, close the passes behind it and wait for the snow, and the legion is struck from the rolls as destroyed with its eagle unreturned."

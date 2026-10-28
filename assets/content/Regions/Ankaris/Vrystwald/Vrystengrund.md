@@ -1,6 +1,6 @@
 ---
 shortcode: vrystengrund
-name: {full: Vristengrund, aliases: []}
+name: {full: Vristengrund}
 type: place
 subType: settlement
 description: "A Deepwood village whose elders walked out rather than accept a chief, and to which the custom of splitting a village at five hundred is credited."

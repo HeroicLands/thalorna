@@ -1,6 +1,6 @@
 ---
 shortcode: klhrkthrgap
-name: {full: The Kuethori Gap, aliases: []}
+name: {full: The Kuethori Gap}
 type: place
 subType: feature
 description: "The one break in Kalihara's Ring, a gorge on its south-eastern side through which the water of the Bowl Lake runs out to the sea, held by the lineage Kuethori."

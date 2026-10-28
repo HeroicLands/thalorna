@@ -1,6 +1,6 @@
 ---
 shortcode: sirvadardty
-name: {full: Sirvadar, aliases: []}
+name: {full: Sirvadar}
 type: lore
 subType: deity
 description: "The Wandering Guide of the Ashaian pantheon—caravan roads, commerce, and safe passage across the desert."

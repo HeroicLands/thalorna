@@ -1,6 +1,6 @@
 ---
 shortcode: geldarpanivel
-name: {full: "Geldar Panivel, the Younger", given: Geldar, clan: Panivel, aliases: []}
+name: {full: "Geldar Panivel, the Younger", given: Geldar, clan: Panivel}
 type: being
 subType: character
 tags: [draft, embassy-to-tantsou]

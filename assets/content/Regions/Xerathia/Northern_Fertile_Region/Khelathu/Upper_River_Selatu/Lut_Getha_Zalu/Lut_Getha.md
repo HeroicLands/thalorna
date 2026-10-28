@@ -1,6 +1,6 @@
 ---
 shortcode: lutgetha
-name: {full: Lut-Getha, aliases: []}
+name: {full: Lut-Getha}
 type: place
 subType: settlement
 description: "Selat capital of Lut-Getha-Zalu."

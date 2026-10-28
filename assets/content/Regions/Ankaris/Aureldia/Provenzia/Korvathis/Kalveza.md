@@ -1,6 +1,6 @@
 ---
 shortcode: kalveza
-name: {full: Kalveza, aliases: []}
+name: {full: Kalveza}
 type: place
 subType: settlement
 description: "The second of Provenzia's great southern ports and one of the two homes of the Cotiere speech—a working harbor where Jalnasdal is a court, and the place the kingdom's bulk trade actually passes through."

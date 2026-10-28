@@ -1,6 +1,6 @@
 ---
 shortcode: elsrdrgn
-name: {full: Élsaro Durgana, aliases: []}
+name: {full: Élsaro Durgana}
 type: being
 subType: npc
 tags: [draft, soldiery]

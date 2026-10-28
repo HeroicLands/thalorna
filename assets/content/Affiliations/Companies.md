@@ -1,6 +1,6 @@
 ---
 shortcode: companies
-name: {full: Companies, aliases: []}
+name: {full: Companies}
 type: doc
 subType: reference
 description: Warbands, mercenary companies, hunting bands, and ships' crews of note.

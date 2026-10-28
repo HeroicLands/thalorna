@@ -1,6 +1,6 @@
 ---
 shortcode: dunkelholt
-name: {full: Dunkelholt, aliases: [The Guesthouse in the Black Pines]}
+name: {full: Dunkelholt, en: [The Guesthouse in the Black Pines]}
 type: place
 subType: site
 description: "A stone shell of a Vylarian post among black pines on the Legions' Road in Vandstein, roofed again as a guesthouse a day short of anywhere else."

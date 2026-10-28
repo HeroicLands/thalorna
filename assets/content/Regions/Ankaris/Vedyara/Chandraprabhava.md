@@ -1,6 +1,6 @@
 ---
 shortcode: chandrprbh
-name: {full: Chandraprabhava, aliases: []}
+name: {full: Chandraprabhava}
 type: place
 subType: site
 description: "The glacier-spring under Suryashikhar where the Chandramahi begins—the first of the four cosmic sources, and the one that does not freeze."

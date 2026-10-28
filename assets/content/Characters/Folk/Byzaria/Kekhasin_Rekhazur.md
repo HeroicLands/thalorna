@@ -1,6 +1,6 @@
 ---
 shortcode: kekhasinrekh
-name: {full: Kekhasin Rekhazur, aliases: [Captain Kekhasin Rekhazur, Captain Kekhasin]}
+name: {full: Kekhasin Rekhazur, en: [Captain Kekhasin Rekhazur, Captain Kekhasin]}
 type: being
 subType: npc
 description: A rival corsair from Bokhenon Hodikot's pirate days, now commanding his own fleet.

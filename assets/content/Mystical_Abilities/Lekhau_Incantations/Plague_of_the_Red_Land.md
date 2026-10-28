@@ -1,6 +1,6 @@
 ---
 shortcode: plagueredlnd
-name: {full: Plague of the Red Land, aliases: []}
+name: {full: Plague of the Red Land}
 type: mysticalability
 subType: arcaneincantation
 description: "Sets a wasting sickness on a stated population."

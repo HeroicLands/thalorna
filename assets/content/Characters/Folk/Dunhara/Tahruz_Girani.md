@@ -1,6 +1,6 @@
 ---
 shortcode: tahruzgirani
-name: {full: Tahruz Girani, aliases: [Captain Tahruz the Venerable, Captain Tahruz]}
+name: {full: Tahruz Girani, en: [Captain Tahruz the Venerable, Captain Tahruz]}
 type: being
 subType: npc
 description: An aging merchant captain and the closest friend of Venrad Azardan.

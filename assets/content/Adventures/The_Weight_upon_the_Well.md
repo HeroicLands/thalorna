@@ -1,6 +1,6 @@
 ---
 shortcode: weightwell
-name: {full: The Weight upon the Well, aliases: []}
+name: {full: The Weight upon the Well}
 type: scenario
 subType: adventure
 description: "Lost from their caravan, the party reaches an owned spring whose well is chained shut, and something under the stone is winding up a rope that nobody let down."

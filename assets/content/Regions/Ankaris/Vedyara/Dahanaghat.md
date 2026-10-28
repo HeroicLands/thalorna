@@ -1,6 +1,6 @@
 ---
 shortcode: dahanaghat
-name: {full: Dahanaghat, aliases: [The Burning Landing]}
+name: {full: The Burning Landing, vedy: [dahanaghat]}
 type: place
 subType: site
 description: "The cremation stair on the Sarveda above Naughat, where the pyres have stopped finishing and the dead that were never burned stand in the shallows at night."

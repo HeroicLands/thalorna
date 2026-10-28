@@ -1,6 +1,6 @@
 ---
 shortcode: bldshscrvlvl
-name: {full: Blood and Ashes in Keravel Vale, aliases: []}
+name: {full: Blood and Ashes in Keravel Vale}
 type: scenario
 subType: campaign
 tags: [blood-and-ashes-in-ceravel-vale]

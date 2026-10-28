@@ -1,6 +1,6 @@
 ---
 shortcode: pikultzumaqdty
-name: {full: Pik'ul Ts'umaq, aliases: []}
+name: {full: Pik'ul Ts'umaq}
 type: lore
 subType: deity
 description: "The Owl of the Serpent—the fallen Itsani celestial who guarded the threshold of Ch'al Ts'umaq and now opens the boundary it was set to keep shut."

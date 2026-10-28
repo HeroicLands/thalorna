@@ -1,6 +1,6 @@
 ---
 shortcode: heladconcordat
-name: {full: The Concordat of Theory, aliases: [The Line of Practice]}
+name: {full: The Concordat of Theory, en: [The Line of Practice]}
 type: lore
 subType: history
 description: "In the years after the Settlement of the Crowns, about 625 AF, the councils of Thirenae and Theradon agree with the Thordimalon's Helionis chapter the arrangement that holds today: a philosopher may study, teach and dispute arcane theory without belonging to the Order, so long as he does not practice."

@@ -1,6 +1,6 @@
 ---
 shortcode: hvelmsnerv
-name: {full: Hvelmsnerv, aliases: [The Whale-Prophecy]}
+name: {full: Hvelmsnerv, en: [The Whale-Prophecy]}
 type: lore
 subType: literature
 description: "Velva Aldurhildur's foretelling from a Dvarnvík high seat on the first night of the winter the whales did not come, as the hall's skald gave it at the ting."
@@ -9,7 +9,7 @@ data:
   packFolder: nordlands
   culture: nordheimnclt
   form: snerv
-  language: nordmalng
+  lang: nord
   subjects:
     - lore-aldarhringur
     - lore-tvelgaett

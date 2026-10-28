@@ -1,6 +1,6 @@
 ---
 shortcode: maravionsari
-name: {full: Máravion Sarinos, aliases: [Captain Máravion Sarinos]}
+name: {full: Máravion Sarinos, en: [Captain Máravion Sarinos]}
 type: being
 subType: npc
 description: A younger officer commanding one of the merchant navy vessels that operate under the Helionite military, named in Habidon Ghanides.

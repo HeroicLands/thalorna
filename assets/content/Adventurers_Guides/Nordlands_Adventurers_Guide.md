@@ -1,6 +1,6 @@
 ---
 shortcode: nordlandsadvguide
-name: {full: Nordlands Adventurer's Guide, aliases: []}
+name: {full: Nordlands Adventurer's Guide}
 type: doc
 subType: settingguide
 description: A player and GM introduction to the Nordlands—its five kingdoms, its halls and tings, its near gods, the conquered plain of Stormveld, and the ways a campaign begins there.

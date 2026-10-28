@@ -1,6 +1,6 @@
 ---
 shortcode: rilthheim
-name: {full: Rilthheim, aliases: []}
+name: {full: Rilthheim}
 type: place
 subType: settlement
 description: "The settlement of the Skalds' Hall, a prestigious gathering of northern skalds and loremasters that keeps archives of ancient sagas."

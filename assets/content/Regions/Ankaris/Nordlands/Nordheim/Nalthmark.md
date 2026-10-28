@@ -1,6 +1,6 @@
 ---
 shortcode: nalthmark
-name: {full: Nalthmark, aliases: []}
+name: {full: Nalthmark}
 type: place
 subType: settlement
 description: "Border Settlement"

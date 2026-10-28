@@ -1,6 +1,6 @@
 ---
 shortcode: firstoccasion
-name: {full: The First Occasion, aliases: []}
+name: {full: The First Occasion}
 type: lore
 subType: literature
 description: "The opening of the Khelathi temple chronicle: the mound lifting from the waters, the order the gods establish, and the first Gar-Au taking the valley under a single crown."
@@ -19,7 +19,7 @@ data:
     - lore-uzneradty
     - lore-uqaadty
     - lore-azuathisdty
-  language: khelathlng
+  lang: khel
 ---
 
 The priesthood of [[affiliation-rethsaar|Reth'Sa'ar]] keeps the temple chronicle of the [[lore-khelathiclt|Khelathi]] in its precinct beside the [Great Temple of Uqa'a]{.name data-type="place/structure"} on [[place-yathtelgu|Yath-Telgu]], where the master copies of the king-lists are held, and the chronicle opens with [[lore-qettelgu|the Qet Telgu]]. This is that opening as the temple tells it, in the terse voice of its scribes: entries, names and outcomes, each in its place. It gives the first Gar-Au by title alone and stops where the list of the [[lore-garauu|Gar-Auu]] begins, which is the Keeper of the King-Lists' charge. It dates nothing before the First Occasion and accounts for nothing older than it; the age of the world and the lineages that predate the valley's reckoning lie outside it, and the chronicle does not raise them.

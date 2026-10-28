@@ -1,6 +1,6 @@
 ---
 shortcode: lheteklarnavel
-name: {full: Letek Larnavel, given: Letek, clan: Larnavel, aliases: []}
+name: {full: Letek Larnavel, given: Letek, clan: Larnavel}
 type: being
 subType: character
 tags: [draft, embassy-to-tantsou]

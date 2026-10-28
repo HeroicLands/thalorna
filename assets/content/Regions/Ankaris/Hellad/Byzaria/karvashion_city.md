@@ -1,6 +1,6 @@
 ---
 shortcode: karvashion2
-name: {full: Karvashion, aliases: []}
+name: {full: Karvashion}
 type: place
 subType: settlement
 description: "The Green Caravanserai, a river-valley city at the junction of the eastern and southern caravan roads, run by its caravansary masters."

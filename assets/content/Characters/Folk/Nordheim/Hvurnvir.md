@@ -1,6 +1,6 @@
 ---
 shortcode: hvurnvir
-name: {full: Hvurnvir, aliases: [Jarl Hvurnvir]}
+name: {full: Hvurnvir, en: [Jarl Hvurnvir]}
 type: being
 subType: npc
 description: The cautious jarl of Snarvfjord, who decides nothing of weight without Hnirmil the Wise; also named in Snarvfjord.

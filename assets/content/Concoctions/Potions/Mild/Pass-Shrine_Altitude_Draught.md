@@ -1,6 +1,6 @@
 ---
 shortcode: altitudedraught
-name: {full: "Pass-Shrine Altitude Draught", aliases: ["Draught, Altitude, Mild"]}
+name: {full: Pass-Shrine Altitude Draught, en: ["Draught, Altitude, Mild"]}
 type: concoctiongear
 subType: exotic
 description: "A bitter herbal draught the Pass-Shrine ushtakas brew for lowlanders their own bodies cannot yet forgive the cols for."

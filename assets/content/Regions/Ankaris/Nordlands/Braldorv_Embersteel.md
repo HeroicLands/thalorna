@@ -1,6 +1,6 @@
 ---
 shortcode: brldrvmbrstl
-name: {full: Jarl Braldorv Embersteel, aliases: [Braldorv Embersteel]}
+name: {full: Jarl Braldorv Embersteel, en: [Braldorv Embersteel]}
 type: being
 subType: npc
 tags: [nordlands]

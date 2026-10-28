@@ -1,6 +1,6 @@
 ---
 shortcode: rowenstrtn
-name: {full: Rowena Storton, aliases: []}
+name: {full: Rowena Storton}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]

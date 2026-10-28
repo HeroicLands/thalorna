@@ -1,6 +1,6 @@
 ---
 shortcode: nagaritgaj
-name: {full: Nagarit Gajabir, aliases: [Captain Nagarit]}
+name: {full: Nagarit Gajabir, en: [Captain Nagarit]}
 type: being
 subType: npc
 description: Captain of the City Guard, a corrupt official who pursues Darmapalda Vimuktan with vendetta-like intensity.

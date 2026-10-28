@@ -1,6 +1,6 @@
 ---
 shortcode: carengrvth
-name: {full: Kárenna Graveth, given: Kárenna, clan: Graveth, aliases: []}
+name: {full: Kárenna Graveth, given: Kárenna, clan: Graveth}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, administration]

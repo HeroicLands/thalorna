@@ -1,6 +1,6 @@
 ---
 shortcode: weizhairui
-name: {full: Wei Zhai Rui, aliases: [The Jade Fan Dance]}
+name: {full: The Jade Fan Dance, tant: [Wei Zhai Rui]}
 type: lore
 subType: custom
 description: "The Jade Fan Dance—the game of intrigue at the Tantsou court, its players and weapons, the secret faction called the Emperor's Shadow, and what winning and losing cost on the moral ledger."

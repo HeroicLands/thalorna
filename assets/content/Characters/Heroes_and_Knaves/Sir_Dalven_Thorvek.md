@@ -1,10 +1,10 @@
 ---
 shortcode: srdlvnthrvkknghtwstrnmrchs
 name:
-  full: Sir Dalven Thorvek, Knight of the Western Marches
+  full: "Sir Dalven Thorvek, Knight of the Western Marches"
   given: Dalven
   clan: Thorvek
-  aliases: [Knight of the Western Marches]
+  en: [Knight of the Western Marches]
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, soldiery]

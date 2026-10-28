@@ -1,6 +1,6 @@
 ---
 shortcode: thaharqo2
-name: {full: Thaharqo, aliases: []}
+name: {full: Thaharqo}
 type: being
 subType: npc
 description: "Keeper of the Imperial forge, whose library of technique is as valuable as the forge itself and considerably harder to reach"

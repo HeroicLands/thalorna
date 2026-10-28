@@ -1,6 +1,6 @@
 ---
 shortcode: solrun
-name: {full: Faith of Solrún, aliases: [The Golden Path]}
+name: {full: Faith of Solrún, en: [The Golden Path]}
 type: affiliation
 subType: faithtradition
 description: "Love, Beauty, and Prosperity."

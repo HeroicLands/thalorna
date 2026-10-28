@@ -1,6 +1,6 @@
 ---
 shortcode: bjarturdty
-name: {full: Bjart, aliases: []}
+name: {full: Bjart}
 type: lore
 subType: deity
 description: "The Radiant One among the Asguardian gods, the northern face of the God of Dreams, holding light, vision and the elder races."

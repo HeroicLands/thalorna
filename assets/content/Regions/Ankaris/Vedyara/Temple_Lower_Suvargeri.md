@@ -1,6 +1,6 @@
 ---
 shortcode: lowersuvtmpl
-name: {full: The Temple of Lower Suvargeri, aliases: []}
+name: {full: The Temple of Lower Suvargeri}
 type: place
 subType: structure
 description: "The Mahajaya temple at the foot of the mountain where the Bharava proper begins, with the jewelers' quarter at its gate and the youngest of the three priests in its house."

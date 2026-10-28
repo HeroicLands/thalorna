@@ -1,6 +1,6 @@
 ---
 shortcode: shieldhall
-name: {full: The Shield-Hall, aliases: []}
+name: {full: The Shield-Hall}
 type: place
 subType: structure
 description: "The hall at the heart of Vrathavan, where the town's most distinguished shield-maiden holds court and the honor-bonds between crews are sealed."

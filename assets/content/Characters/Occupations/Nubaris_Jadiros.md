@@ -1,6 +1,6 @@
 ---
 shortcode: nubarsjdrs
-name: {full: Nubaris Jadiros, aliases: []}
+name: {full: Nubaris Jadiros}
 type: being
 subType: npc
 tags: [draft, administration]

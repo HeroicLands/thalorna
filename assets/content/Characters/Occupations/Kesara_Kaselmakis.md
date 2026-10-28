@@ -1,6 +1,6 @@
 ---
 shortcode: kysrkslmks
-name: {full: Kesara Kaselmakis, aliases: []}
+name: {full: Kesara Kaselmakis}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

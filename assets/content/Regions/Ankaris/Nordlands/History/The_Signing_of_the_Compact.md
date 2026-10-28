@@ -1,6 +1,6 @@
 ---
 shortcode: compactsignd
-name: {full: The Signing of the Compact, aliases: [The Hiring of the Nordmen]}
+name: {full: The Signing of the Compact, en: [The Hiring of the Nordmen]}
 type: lore
 subType: history
 description: "About 550 AF the Vylarian Empire began paying Nordmen to garrison the frontier its own fleets had loosened, and about 560 the free companies of the north met at Hringstead and signed the Compact, so that an employer would know what he bought and a captain what he owed."

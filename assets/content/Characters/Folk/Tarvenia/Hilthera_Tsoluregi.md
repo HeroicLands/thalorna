@@ -1,6 +1,6 @@
 ---
 shortcode: hiltheratsol
-name: {full: Hilthera Tsoluregi, aliases: [Lady Hilthera Tsoluregi, Master of Commerce]}
+name: {full: Hilthera Tsoluregi, en: [Lady Hilthera Tsoluregi, Master of Commerce]}
 type: being
 subType: npc
 description: Master of Commerce, the crown's chief advisor on trade and mercantile matters, named in Kárenna Graveth.

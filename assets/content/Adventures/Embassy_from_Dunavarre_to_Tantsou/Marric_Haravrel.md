@@ -1,6 +1,6 @@
 ---
 shortcode: marricharavrel
-name: {full: Marrik Háravrel, given: Marrik, clan: Háravrel, aliases: []}
+name: {full: Marrik Háravrel, given: Marrik, clan: Háravrel}
 type: being
 subType: character
 tags: [draft, embassy-to-tantsou]

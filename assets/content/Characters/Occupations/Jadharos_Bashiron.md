@@ -1,6 +1,6 @@
 ---
 shortcode: jdhrsbshrn
-name: {full: Jadharos Basiron, aliases: []}
+name: {full: Jadharos Basiron}
 type: being
 subType: npc
 tags: [draft, common-folk]

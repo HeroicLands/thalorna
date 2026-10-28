@@ -1,6 +1,6 @@
 ---
 shortcode: baobablobwezispr
-name: {full: Baobab Spirit, aliases: [The Baobab Guide, Baobab of the Lobwezi]}
+name: {full: Baobab Spirit, en: [The Baobab Guide, Baobab of the Lobwezi]}
 type: lore
 subType: spirit
 description: "The baobab-guide of the Lobwezi as a being—rooted, immensely patient, and the only one of the five that can be visited."

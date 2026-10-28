@@ -1,6 +1,6 @@
 ---
 shortcode: damsnghlrn
-name: {full: Dámasun Gholaron, given: Dámasun, clan: Gholaron, aliases: [Kléandir]}
+name: {full: Dámasun Gholaron, given: Dámasun, clan: Gholaron, helo: [Kléandir]}
 type: being
 subType: character
 tags: [tamzir-crew, clergy]

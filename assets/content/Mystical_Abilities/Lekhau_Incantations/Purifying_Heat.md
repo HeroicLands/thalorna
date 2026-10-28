@@ -1,6 +1,6 @@
 ---
 shortcode: purifyinghet
-name: {full: Purifying Heat, aliases: []}
+name: {full: Purifying Heat}
 type: mysticalability
 subType: arcaneincantation
 description: "Burns spiritual corruption out of a person, painfully and without touching the body."

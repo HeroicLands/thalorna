@@ -1,6 +1,6 @@
 ---
 shortcode: snarvthyra
-name: {full: Snarvthira, aliases: [High Priestess Snarvthira]}
+name: {full: Snarvthira, en: [High Priestess Snarvthira]}
 type: being
 subType: npc
 description: High Priestess of Thrunvald in the nearest settlement, who views Kralmil Veturdómur as a genuine worshipper.

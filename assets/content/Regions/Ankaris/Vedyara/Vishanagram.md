@@ -1,6 +1,6 @@
 ---
 shortcode: vishanagram
-name: {full: Vishanagram, aliases: []}
+name: {full: Vishanagram}
 type: place
 subType: settlement
 description: "Horn and sinew village below the fort, which supplies the bowyers their facings and backings."

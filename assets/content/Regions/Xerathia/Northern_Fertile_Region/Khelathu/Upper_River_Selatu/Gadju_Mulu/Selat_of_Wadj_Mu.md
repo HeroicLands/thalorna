@@ -1,6 +1,6 @@
 ---
 shortcode: selatgadjuml
-name: {full: The Selat of Gadju-Mulu, aliases: []}
+name: {full: The Selat of Gadju-Mulu}
 type: affiliation
 subType: polity
 description: "“Green Waters”—marshy floodbasin, flax and waterfowl, the wettest of the upper selatu—one of the upper-river selatu of Au'Khelathu."

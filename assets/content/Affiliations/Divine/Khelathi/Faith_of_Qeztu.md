@@ -1,6 +1,6 @@
 ---
 shortcode: qeztu
-name: {full: Faith of Qeztu, aliases: []}
+name: {full: Faith of Qeztu}
 type: affiliation
 subType: faithtradition
 description: "War."

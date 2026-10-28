@@ -1,6 +1,6 @@
 ---
 shortcode: theodhaven
-name: {full: Theódhaven, aliases: []}
+name: {full: Theódhaven}
 type: place
 subType: site
 description: "The stone landing and rock-cut shrines on the Edriwald bay where the Pelwar who would neither fight nor marry crossed the water."

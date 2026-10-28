@@ -1,6 +1,6 @@
 ---
 shortcode: trsrthldrn
-name: {full: Tórsaro Thalidran, aliases: []}
+name: {full: Tórsaro Thalidran}
 type: being
 subType: npc
 tags: [draft, soldiery]

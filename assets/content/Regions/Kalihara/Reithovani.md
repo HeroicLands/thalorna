@@ -1,6 +1,6 @@
 ---
 shortcode: reithovani
-name: {full: Reithovani, aliases: []}
+name: {full: Reithovani}
 type: place
 subType: settlement
 description: "A fishing village on the eastern coast of Kalihara, a half-day south of Ilovanu, whose fishing-stone has gone dark and whose kaan'vaar has done something to the village that nobody names."

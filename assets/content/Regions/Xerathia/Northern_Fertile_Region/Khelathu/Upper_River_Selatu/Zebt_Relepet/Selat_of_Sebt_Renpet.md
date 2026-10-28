@@ -1,6 +1,6 @@
 ---
 shortcode: selatzbtrlpt
-name: {full: The Selat of Zebt-Relepet, aliases: []}
+name: {full: The Selat of Zebt-Relepet}
 type: affiliation
 subType: polity
 description: "Cavern-tombs and natron; a workmanlike mortuary selat—one of the upper-river selatu of Au'Khelathu."

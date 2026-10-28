@@ -1,6 +1,6 @@
 ---
 shortcode: zebtrelepet
-name: {full: Zebt-Relepet, aliases: []}
+name: {full: Zebt-Relepet}
 type: place
 subType: settlement
 description: "Selat capital of Zebt-Relepet."

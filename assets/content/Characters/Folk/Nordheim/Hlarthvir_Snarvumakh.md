@@ -1,6 +1,6 @@
 ---
 shortcode: hlarthvirsna
-name: {full: Hlarthvir Snarvumak, aliases: [Jarl Hlarthvir Snarvumak, Jarl Hlarthvir]}
+name: {full: Hlarthvir Snarvumak, en: [Jarl Hlarthvir Snarvumak, Jarl Hlarthvir]}
 type: being
 subType: npc
 description: Uncle of Gnildurselda Snarvumak and effective head of the Snarvumak household.

@@ -1,6 +1,6 @@
 ---
 shortcode: sthrnkhlthn
-name: {full: Sotharion Khalithon, aliases: []}
+name: {full: Sotharion Khalithon}
 type: being
 subType: npc
 tags: [draft, administration]

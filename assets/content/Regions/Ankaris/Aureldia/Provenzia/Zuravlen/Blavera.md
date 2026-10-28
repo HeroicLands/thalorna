@@ -1,6 +1,6 @@
 ---
 shortcode: blavera
-name: {full: Blavera, aliases: []}
+name: {full: Blavera}
 type: place
 subType: settlement
 description: "A mixed manor of the Zuravlen valley floor—grain, fold and a little fruit—and the ordinary model that most of the barony actually resembles."

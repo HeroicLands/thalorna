@@ -1,6 +1,6 @@
 ---
 shortcode: chananhbls
-name: {full: Khánnaon Habiles, aliases: []}
+name: {full: Khánnaon Habiles}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

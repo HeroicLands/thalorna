@@ -2,7 +2,7 @@
 shortcode: janpdsvdyr
 name:
   full: Janpodas of Vedyara
-  aliases: [Mahva-Sangra of Vedyara, The Temple-Republics of Vedyara, The Vedyari Janpodas]
+  en: [Mahva-Sangra of Vedyara, The Temple-Republics of Vedyara, The Vedyari Janpodas]
 type: affiliation
 subType: polity
 description: The loose cultural-political confederation of Vedyara's village-cluster temple-republics—the small janpodas that, together with the great city-states, make up the bulk of Vedyari political life. No central authority; coordination through the great pilgrimage festivals and the shared Varnuka tradition.

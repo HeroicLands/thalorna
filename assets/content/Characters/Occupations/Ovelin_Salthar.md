@@ -1,6 +1,6 @@
 ---
 shortcode: ovlynslthr
-name: {full: Óvelin Salthar, aliases: []}
+name: {full: Óvelin Salthar}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

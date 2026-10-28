@@ -1,6 +1,6 @@
 ---
 shortcode: odholm
-name: {full: Odholm, aliases: []}
+name: {full: Odholm}
 type: place
 subType: settlement
 description: "Religious/Strategic Settlement"

@@ -1,6 +1,6 @@
 ---
 shortcode: garanlghtslt
-name: {full: Gar-Anlaghet Selat, aliases: []}
+name: {full: Gar-Anlaghet Selat}
 type: place
 subType: region
 description: "The first country of the delta—the great harbor at the river's westernmost mouth and the marsh-channels and villa-coast around it, the land of the Selat of Gar-Anlaghet."

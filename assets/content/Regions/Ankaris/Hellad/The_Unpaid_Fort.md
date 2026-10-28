@@ -1,6 +1,6 @@
 ---
 shortcode: unpaidfort
-name: {full: The Unpaid Fort, aliases: [The Commission Fort]}
+name: {full: The Unpaid Fort, en: [The Commission Fort]}
 type: place
 subType: site
 description: "A Vylarian-era fortress in the interior mountains of Hellád, held by a hereditary commander whose imperial commission stopped being paid in 619 AF, who files his report with the chancery every year and waits for the answer."

@@ -1,6 +1,6 @@
 ---
 shortcode: zxxchalishcommonenc
-name: {full: Chalish Common Encoding, aliases: []}
+name: {full: Chalish Common Encoding}
 type: doc
 subType: reference
 data:

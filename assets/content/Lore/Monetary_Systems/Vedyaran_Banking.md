@@ -1,6 +1,6 @@
 ---
 shortcode: vdyrnbnkng
-name: {full: Vedyaran Banking, aliases: [Vedyaran Currency, Vedyaran Monetary System]}
+name: {full: Vedyaran Banking, en: [Vedyaran Currency, Vedyaran Monetary System]}
 type: lore
 subType: economy
 description: "The Vedyaran monetary system—the Merchant Collective's internal credit and clearing arrangements, and the three coins struck against them: Chendrapur's gold suvorna and silver chendra, which carry their metal, and the copper tomra the kingdoms and city-states strike as token money."

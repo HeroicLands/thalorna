@@ -1,6 +1,6 @@
 ---
 shortcode: hafskel
-name: {full: "Hafskel", aliases: []}
+name: {full: Hafskel}
 type: affiliation
 subType: order
 description: "Naval combat trained at sea for Thrunvald."

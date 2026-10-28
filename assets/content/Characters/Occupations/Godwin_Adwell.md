@@ -1,6 +1,6 @@
 ---
 shortcode: godwinadwl
-name: {full: Kenstan Adwell, aliases: []}
+name: {full: Kenstan Adwell}
 type: being
 subType: npc
 tags: [draft, common-folk]

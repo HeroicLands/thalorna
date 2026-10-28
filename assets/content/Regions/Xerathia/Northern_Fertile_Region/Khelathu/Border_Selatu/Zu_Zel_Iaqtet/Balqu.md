@@ -1,6 +1,6 @@
 ---
 shortcode: balqu
-name: {full: Balku, aliases: []}
+name: {full: Balku}
 type: place
 subType: settlement
 description: "Fortified Mining Town"

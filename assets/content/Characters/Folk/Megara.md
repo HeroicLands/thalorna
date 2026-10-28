@@ -1,6 +1,6 @@
 ---
 shortcode: megara
-name: {full: Megara, aliases: []}
+name: {full: Megara}
 type: being
 subType: npc
 description: "Wife to a metalworker, mother of two stepchildren by that union, and the steadier half of the household"

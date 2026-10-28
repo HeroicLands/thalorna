@@ -1,6 +1,6 @@
 ---
 shortcode: thaiyalenurt
-name: {full: Thaiya Lenuret, aliases: []}
+name: {full: Thaiya Lenuret}
 type: being
 subType: npc
 description: "A hunter of the Zeghet'Nelgu who enjoys the pageantry more than the danger"

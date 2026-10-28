@@ -1,6 +1,6 @@
 ---
 shortcode: yombelsprt
-name: {full: "Yombel Ngoriring Spirit Power", aliases: [The Mother of Rivers]}
+name: {full: Yombel Ngoriring Spirit Power, en: [The Mother of Rivers]}
 type: skill
 subType: mystical
 description: "Standing with Yombel Ngoriring, zohira of rivers—what this emissary of the Flame is petitioned and interceded with."

@@ -2,7 +2,7 @@
 shortcode: wrldppltnthlrn
 name:
   full: World Population of Thalorna
-  aliases: [Thalorna Demographics, World Population, Population of Thalorna]
+  en: [Thalorna Demographics, World Population, Population of Thalorna]
 type: doc
 subType: reference
 description: "Reference estimate of the population of Thalorna by continent and region—a pre-industrial, agrarian world of roughly 370 million, with the eastern giants Tantsou and Vedyara holding the majority of humankind."

@@ -1,6 +1,6 @@
 ---
 shortcode: mandatehvn
-name: {full: Mandate of Heaven, aliases: []}
+name: {full: Mandate of Heaven}
 type: lore
 subType: theology
 description: "The Mandate of Heaven—the appointment by which the Tantsou imperial line administers the mortal world, held on condition and open to review, and the turning view of history it teaches."

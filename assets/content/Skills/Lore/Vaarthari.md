@@ -1,6 +1,6 @@
 ---
 shortcode: vaarthari
-name: {full: Vaarthari, aliases: [Holding What Came Before]}
+name: {full: Vaarthari, en: [Holding What Came Before]}
 type: skill
 subType: lore
 description: "The Kaliharan discipline of deep memorization—a trained, almost trance-like recall of very long oral histories, learned only by being taught."

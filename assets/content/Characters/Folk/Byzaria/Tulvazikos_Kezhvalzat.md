@@ -1,6 +1,6 @@
 ---
 shortcode: tulvazikoske
-name: {full: Tulvazikos Kezhvalzát, aliases: [Lord Tulvazikos Kezhvalzát]}
+name: {full: Tulvazikos Kezhvalzát, en: [Lord Tulvazikos Kezhvalzát]}
 type: being
 subType: npc
 description: A wealthy merchant prince who collects unique fragrances as investments, named in Fodios Timiakit.

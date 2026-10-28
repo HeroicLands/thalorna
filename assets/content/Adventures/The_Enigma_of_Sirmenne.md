@@ -1,6 +1,6 @@
 ---
 shortcode: engmsrmnn
-name: {full: The Enigma of Sirmenne, aliases: []}
+name: {full: The Enigma of Sirmenne}
 type: scenario
 subType: adventure
 data:

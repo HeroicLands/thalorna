@@ -1,6 +1,6 @@
 ---
 shortcode: gnaldrinnath
-name: {full: Gnaldrinna the Reaver, aliases: [Jarl Gnaldrinna the Reaver]}
+name: {full: Gnaldrinna the Reaver, en: [Jarl Gnaldrinna the Reaver]}
 type: being
 subType: npc
 description: A pirate queen styled Jarl who views Hvulgselda Sea-Bane's patrols as an obstacle to her raiding.

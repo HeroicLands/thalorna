@@ -2,7 +2,7 @@
 shortcode: dalveshikosb
 name:
   full: Dalveshikos Brirorash
-  aliases: [Commander Dalveshikos Brirorash, Lord Commander Dalveshikos Brirorash]
+  en: [Commander Dalveshikos Brirorash, Lord Commander Dalveshikos Brirorash]
 type: being
 subType: npc
 description: A lord commander and military leader who has commissioned numerous military maps and occasionally funds expeditions, named in Bazebos Porfirakit.

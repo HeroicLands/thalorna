@@ -1,6 +1,6 @@
 ---
 shortcode: helnkscrpt
-name: {full: Helónika Script, aliases: []}
+name: {full: Helónika Script}
 type: skill
 subType: script
 description: "The Helonic letters—the eastern alphabet of theater, verse and the ledger, carried by three tongues and every harbor between them."

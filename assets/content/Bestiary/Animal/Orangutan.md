@@ -1,6 +1,6 @@
 ---
 shortcode: orngtn
-name: {full: Orangutan, aliases: []}
+name: {full: Orangutan}
 type: being
 subType: creature
 description: "A highly intelligent, solitary rainforest ape and peaceful herbivore of the distant jungle canopy, turning violent only to defend itself or its young."

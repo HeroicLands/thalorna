@@ -1,6 +1,6 @@
 ---
 shortcode: weighnglssrh
-name: {full: Weighing of the Lesser Heart, aliases: []}
+name: {full: Weighing of the Lesser Heart}
 type: mysticalability
 subType: arcaneincantation
 description: "Compels a truthful answer to a single question, or makes the weight of the lie plain to all present."

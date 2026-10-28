@@ -1,6 +1,6 @@
 ---
 shortcode: zileti
-name: {full: Zileti, aliases: []}
+name: {full: Zileti}
 type: place
 subType: settlement
 description: "Selat capital of Zu-Qeztu."

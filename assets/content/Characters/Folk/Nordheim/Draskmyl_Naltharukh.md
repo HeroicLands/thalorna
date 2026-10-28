@@ -2,10 +2,7 @@
 shortcode: draskmylnalt
 name:
   full: Draskmil Naltharuk
-  aliases:
-    - Commander Draskmil Naltharuk
-    - Lord Commander Draskmil Naltharuk
-    - Lord Commander Draskmil
+  en: [Commander Draskmil Naltharuk, Lord Commander Draskmil Naltharuk, Lord Commander Draskmil]
 type: being
 subType: npc
 description: The highest-ranking military officer in the region, a lord commander on whom Gnaldurthann Solvargur has repeatedly relied.

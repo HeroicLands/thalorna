@@ -1,6 +1,6 @@
 ---
 shortcode: kingvelarikiii
-name: {full: King Vélarik III, aliases: []}
+name: {full: King Vélarik III}
 type: being
 subType: npc
 description: "A king of Provenzia."

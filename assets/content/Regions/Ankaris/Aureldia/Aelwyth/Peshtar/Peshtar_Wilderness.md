@@ -1,6 +1,6 @@
 ---
 shortcode: pshtrwldrns
-name: {full: Peshtar Wilderness, aliases: [Peshtar Highlands]}
+name: {full: Peshtar Wilderness, en: [Peshtar Highlands]}
 type: place
 subType: region
 description: Ungoverned highland forests of the Peshtar tribes—animist, druidic, and fiercely independent within the Misty Isle of Aelwyth.

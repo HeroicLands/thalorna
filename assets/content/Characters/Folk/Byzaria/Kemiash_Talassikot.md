@@ -2,7 +2,7 @@
 shortcode: kemiashthala
 name:
   full: Kemiásh Talassikot
-  aliases: [Captain Kemiásh Talassikot, Merchant Captain Kemiásh Talassikot]
+  en: [Captain Kemiásh Talassikot, Merchant Captain Kemiásh Talassikot]
 type: being
 subType: npc
 description: A merchant captain and new crime boss moving into the bazaar and encroaching on Khasrikon Damakláhr's territory, named in Ghorigios Pedinikot.

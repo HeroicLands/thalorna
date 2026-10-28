@@ -1,6 +1,6 @@
 ---
 shortcode: celestialroad
-name: {full: The Celestial Road, aliases: [Celestial Roads, The Caravan Road to Tantsou]}
+name: {full: The Celestial Road, en: [Celestial Roads, The Caravan Road to Tantsou]}
 type: lore
 subType: economy
 description: "The camel road across the Khazryn from Bizaria to Tantsou—about 2,500 miles and more than four months, sold a stretch at a time by the independent tribes whose wells it runs between."

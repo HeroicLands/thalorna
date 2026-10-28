@@ -1,6 +1,6 @@
 ---
 shortcode: arcasmbl
-name: {full: Assembly, aliases: []}
+name: {full: Assembly}
 type: mysticalability
 subType: arcaneincantation
 description: "Calls forth greater fire elemental; commands inferno to consume."

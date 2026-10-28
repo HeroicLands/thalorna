@@ -1,6 +1,6 @@
 ---
 shortcode: shadznkmrz
-name: {full: Shadezan Kamruz, given: Shadezan, clan: Kamruz, aliases: []}
+name: {full: Shadezan Kamruz, given: Shadezan, clan: Kamruz}
 type: being
 subType: character
 tags: [heroes-and-knaves, administration]

@@ -1,6 +1,6 @@
 ---
 shortcode: hamsterttm
-name: {full: Hamster, aliases: [Hamster Totem]}
+name: {full: Hamster, en: [Hamster Totem]}
 type: lore
 subType: bestiary
 description: "The hamster as a totemic ideal, and the human character it describes."

@@ -1,6 +1,6 @@
 ---
 shortcode: tchirnalinaa
-name: {full: Chirnalina Agorikot, aliases: [High Priestess Chirnalina Agorikot]}
+name: {full: Chirnalina Agorikot, en: [High Priestess Chirnalina Agorikot]}
 type: being
 subType: npc
 description: High priestess and spiritual leader of the temple, who recognizes Bazia Lokios as one of the priesthood's finest practitioners.

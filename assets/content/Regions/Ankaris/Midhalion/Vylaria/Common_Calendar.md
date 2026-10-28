@@ -1,6 +1,6 @@
 ---
 shortcode: commoncal
-name: {full: The Vylarian Calendar, aliases: [Vylarian Reckoning]}
+name: {full: The Vylarian Calendar, en: [Vylarian Reckoning]}
 type: lore
 subType: calendar
 description: "The Vylarian Calendar, kept from Mídhalión to Aelwyth: twelve months, four fixed quarter days, and the year every other reckoning is measured against."

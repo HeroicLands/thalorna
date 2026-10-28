@@ -1,6 +1,6 @@
 ---
 shortcode: bldrbck
-name: {full: Boulderback, aliases: []}
+name: {full: Boulderback}
 type: being
 subType: creature
 description: "A made creature of animate stone and will that stands as an impassive obstacle in mountains, caves, and magic-rich quarries."

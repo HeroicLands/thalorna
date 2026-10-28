@@ -1,6 +1,6 @@
 ---
 shortcode: waligelu
-name: {full: Wal-Igelu, aliases: []}
+name: {full: Wal-Igelu}
 type: place
 subType: site
 description: "The Drowned Way: a silted, long-dead channel of the river that the noble houses have made into a chain of pleasure gardens and lotus pools through the High City of Galezkara"

@@ -1,6 +1,6 @@
 ---
 shortcode: eidringur
-name: {full: "Eidringur", aliases: []}
+name: {full: Eidringur}
 type: affiliation
 subType: order
 description: "Witnesses and mediators of Eidgar's sworn oaths."

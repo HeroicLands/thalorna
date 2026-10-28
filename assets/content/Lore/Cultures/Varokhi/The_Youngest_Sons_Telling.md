@@ -1,6 +1,6 @@
 ---
 shortcode: youngestson
-name: {full: The Youngest Son's Telling, aliases: [Othlin vorth]}
+name: {full: The Youngest Son's Telling, varo: [Othlin vorth]}
 type: lore
 subType: literature
 description: "The Skathwald hearth telling of a Vandholt household's feud-payment carried over the river ice by the youngest son and the household's southern woman, with a voice under the ice, a lynx with a thorn in its foot, a payment counted twice, and two endings."
@@ -16,7 +16,7 @@ data:
     - lore-foxttm
     - lore-lynxttm
     - lore-varokhiclt
-  language: varokhlng
+  lang: varo
 
 # terran_analog: "The youngest-son wonder tale of the Grimm collection, with its three brothers, its grateful beast and its straight road and long one, set on the matter of Germanic wergild; the voice under the ice is the drowned who call from the water in Baltic and Finnic belief. Departs: the prize is a witnessed count, the beast is not a helper the tale explains, and the ending is told both ways."
 ---

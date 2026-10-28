@@ -1,6 +1,6 @@
 ---
 shortcode: hanaltzuma
-name: {full: "Ha'nal Ts'uma", aliases: [The Misty River]}
+name: {full: The Misty River, kiichek: [Ha'nal Ts'uma]}
 type: place
 subType: feature
 description: "The Misty River, the larger of Shelem's two great rivers, whose flooded forest and thousands of kilometers of channels are the realm's roads."

@@ -1,6 +1,6 @@
 ---
 shortcode: klhrwstsddl
-name: {full: The Western Saddle, aliases: [Theinuvael]}
+name: {full: The Western Saddle, kali: [Theinuvael]}
 type: place
 subType: feature
 description: "The low saddle in the western Ring of Kalihara, where the road from the island's western coast crosses into the Bowl past the sanctuary of Thal'ari, held by the lineage Theinuvael and filled with sea mist most mornings."

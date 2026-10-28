@@ -1,6 +1,6 @@
 ---
 shortcode: batarencity
-name: {full: Bataren City, aliases: []}
+name: {full: Bataren City}
 type: place
 subType: settlement
 description: "Provenzia's ocean port on the northwestern gulf—an Élavendren city under Provenzian rule, trading north rather than south, and the site of a slow and unresolved quarrel over land, rights and tradition."

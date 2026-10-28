@@ -1,6 +1,6 @@
 ---
 shortcode: gariazletqut
-name: {full: Gari Azlet'Kutu, aliases: [Lord Commander Gari]}
+name: {full: Gari Azlet'Kutu, en: [Lord Commander Gari]}
 type: being
 subType: npc
 description: The military's chief weapons officer, who commissions custom arms for elite guard units, named in Raiaku Uzner'Au.

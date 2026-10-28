@@ -1,6 +1,6 @@
 ---
 shortcode: saunari
-name: {full: The Long-Watcher's Sayings, aliases: [Ansorunnoren saunari]}
+name: {full: The Long-Watcher's Sayings, sina: [ansorunnoren saunari]}
 type: lore
 subType: literature
 description: "The sayings of one Long-Watcher of Aelirosse to the Seer he taught, in the fixed stanza the Sinale pass a saying on in, as an Áelendan foster-child learned them in the grove and at the sickbed, ending on the Seer's own."
@@ -16,7 +16,7 @@ data:
     - lore-tindesarrnk
     - place-aelirosse
     - lore-longnhrtnc
-  language: sinalelng
+  lang: sina
 
 # terran_analog: "The Welsh gnomic englynion, an image from the weather or the wood answered by a rule; Hávamál's stanzas of counsel to a guest; the question-and-answer instructions of the Irish wisdom texts; the Kanteletar's habit of restating a line by the line after it."
 ---

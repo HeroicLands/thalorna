@@ -1,6 +1,6 @@
 ---
 shortcode: belrktrvnl
-name: {full: Melrik Tárvenel, aliases: []}
+name: {full: Melrik Tárvenel}
 type: being
 subType: npc
 tags: [todo-warrior, draft, soldiery]

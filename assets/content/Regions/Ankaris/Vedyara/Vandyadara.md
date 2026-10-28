@@ -1,6 +1,6 @@
 ---
 shortcode: vandyadara
-name: {full: Vandyadara, aliases: []}
+name: {full: Vandyadara}
 type: place
 subType: settlement
 description: "The village on the one stream of the gold mountain that has never yielded gold, below the Rasikara shrine at its spring."

@@ -1,6 +1,6 @@
 ---
 shortcode: vthgrdsccwrs
-name: {full: The Vithgard Succession Wars, aliases: [The Truce of Logstead]}
+name: {full: The Vithgard Succession Wars, en: [The Truce of Logstead]}
 type: lore
 subType: history
 description: "King Tvarnthann of Vithgard died in the dark of 694 AF with two sons by two wives and no acclaimed heir; Snirvmil held Thrunborg and Glirvorv held Hrandstead, and the levies fought seven summers until a Sworn Hand brought the brothers to Logstead in 701 and they swore the truce the kingdom lives under."

@@ -1,6 +1,6 @@
 ---
 shortcode: selatzuger
-name: {full: The Selat of Zu-Ger, aliases: []}
+name: {full: The Selat of Zu-Ger}
 type: affiliation
 subType: polity
 description: "“The Great Land”—an ancient royal selat and old burial-ground of the first dynasties—one of the upper-river selatu of Au'Khelathu."

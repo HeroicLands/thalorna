@@ -1,6 +1,6 @@
 ---
 shortcode: swifthand
-name: {full: The Academy of the Swift Hand, aliases: []}
+name: {full: The Academy of the Swift Hand}
 type: place
 subType: structure
 description: "The cavalry-archery hall of the bow-fort, whose graduates are taken by every Vedyari kingdom that fields horse."

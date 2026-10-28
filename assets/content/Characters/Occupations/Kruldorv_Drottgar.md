@@ -1,6 +1,6 @@
 ---
 shortcode: krldrvdrtgr
-name: {full: Kruldorv Drottgar, aliases: []}
+name: {full: Kruldorv Drottgar}
 type: being
 subType: npc
 tags: [draft, common-folk]

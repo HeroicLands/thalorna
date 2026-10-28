@@ -1,6 +1,6 @@
 ---
 shortcode: naverdir
-name: {full: "Náverdir", aliases: []}
+name: {full: Náverdir}
 type: affiliation
 subType: order
 description: "Guardians and inquisitors of Nahild's hidden hovs."

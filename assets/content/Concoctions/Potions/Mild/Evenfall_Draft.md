@@ -1,6 +1,6 @@
 ---
 shortcode: ptnsopm
-name: {full: Evenfall Draft, aliases: ["Potion, Soporific, Mild"]}
+name: {full: Evenfall Draft, en: ["Potion, Soporific, Mild"]}
 type: concoctiongear
 subType: exotic
 description: "Milky white pale gray liquid; promotes sleep and restfulness."

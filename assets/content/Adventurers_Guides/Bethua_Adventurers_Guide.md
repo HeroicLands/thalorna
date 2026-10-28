@@ -1,6 +1,6 @@
 ---
 shortcode: bethuaadvguide
-name: {full: Bethua Adventurer's Guide, aliases: []}
+name: {full: Bethua Adventurer's Guide}
 type: doc
 subType: settingguide
 description: A short player and GM introduction to Bethua—the matriarchy, its Houses and its law on men, its water and its fleet, and the ways a campaign begins there.

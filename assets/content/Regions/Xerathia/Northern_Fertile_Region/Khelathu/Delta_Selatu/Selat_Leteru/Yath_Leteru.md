@@ -1,6 +1,6 @@
 ---
 shortcode: yathleteru
-name: {full: Yath-Leteru, aliases: []}
+name: {full: Yath-Leteru}
 type: place
 subType: settlement
 description: "Selat capital of Selat-Leteru."

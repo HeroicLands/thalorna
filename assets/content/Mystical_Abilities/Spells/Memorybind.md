@@ -1,6 +1,6 @@
 ---
 shortcode: mmrybnd
-name: {full: Memorybind, aliases: []}
+name: {full: Memorybind}
 type: mysticalability
 subType: arcaneincantation
 description: "Imprints memory into object; anyone touching it relives experience."

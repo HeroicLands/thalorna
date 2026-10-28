@@ -1,6 +1,6 @@
 ---
 shortcode: tshdfntm
-name: {full: Teshuda Funatum, aliases: []}
+name: {full: Teshuda Funatum}
 type: being
 subType: npc
 tags: [draft, guilded, common-folk]

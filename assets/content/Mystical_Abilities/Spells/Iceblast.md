@@ -1,6 +1,6 @@
 ---
 shortcode: iceblast
-name: {full: Iceblast, aliases: []}
+name: {full: Iceblast}
 type: mysticalability
 subType: arcaneincantation
 description: "Compressed ice sphere detonates into razor-sharp, laceration-causing shards."

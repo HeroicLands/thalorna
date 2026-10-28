@@ -1,6 +1,6 @@
 ---
 shortcode: cthbrtshrwn
-name: {full: Kuthmund Sherwin, aliases: []}
+name: {full: Kuthmund Sherwin}
 type: being
 subType: npc
 tags: [draft, common-folk]

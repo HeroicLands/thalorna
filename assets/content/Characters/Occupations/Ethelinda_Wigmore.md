@@ -1,6 +1,6 @@
 ---
 shortcode: ethlndwgmr
-name: {full: Ethelinda Wigmore, aliases: []}
+name: {full: Ethelinda Wigmore}
 type: being
 subType: npc
 tags: [draft, soldiery]

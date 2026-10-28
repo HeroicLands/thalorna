@@ -1,6 +1,6 @@
 ---
 shortcode: bldnstylgn
-name: {full: Balden Estilgon, aliases: []}
+name: {full: Balden Estilgon}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

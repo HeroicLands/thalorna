@@ -1,6 +1,6 @@
 ---
 shortcode: zmathothu
-name: {full: Zma-Thothu, aliases: []}
+name: {full: Zma-Thothu}
 type: place
 subType: settlement
 description: "A school-and-farm village of Gar-Reth'Sa'ar, its fields worked and its rooms let to the households of those studying at Khelunu"

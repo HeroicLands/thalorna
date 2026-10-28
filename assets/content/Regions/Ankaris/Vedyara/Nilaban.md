@@ -1,6 +1,6 @@
 ---
 shortcode: nilaban
-name: {full: Nilaban, aliases: []}
+name: {full: Nilaban}
 type: place
 subType: settlement
 description: "Indigo village of the lower valley, which dyes for the weavers of Karpasagram."

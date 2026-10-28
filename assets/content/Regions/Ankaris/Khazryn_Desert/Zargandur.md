@@ -1,6 +1,6 @@
 ---
 shortcode: zargandur
-name: {full: Zargandur, aliases: []}
+name: {full: Zargandur}
 type: place
 subType: settlement
 description: "The Tellumi war-city, third of the seven, the first to fall to the Atarzád and now the garrison city of the Zhoqarod tribe."

@@ -1,6 +1,6 @@
 ---
 shortcode: radholt
-name: {full: Radholt, aliases: []}
+name: {full: Radholt}
 type: place
 subType: settlement
 description: "A Varokh village in Skathwald whose grove council sounds the alarm when anyone goes missing near the Grimak thicket."

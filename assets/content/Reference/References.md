@@ -1,6 +1,6 @@
 ---
 shortcode: reference
-name: {full: References, aliases: []}
+name: {full: References}
 type: doc
 subType: reference
 description: Reference materials and source documents.

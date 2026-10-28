@@ -1,6 +1,6 @@
 ---
 shortcode: kenrelkardet
-name: {full: Kenrel Kardeth, aliases: [Lord Kenrel Kardeth, Lord Kenrel]}
+name: {full: Kenrel Kardeth, en: [Lord Kenrel Kardeth, Lord Kenrel]}
 type: being
 subType: npc
 description: The late husband of Lyenna Kardeth, fifteen years her senior, who held the family's estates and its seat on the regional council.

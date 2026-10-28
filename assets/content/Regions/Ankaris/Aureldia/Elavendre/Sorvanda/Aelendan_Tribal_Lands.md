@@ -1,6 +1,6 @@
 ---
 shortcode: alndntrblnds
-name: {full: Áelendan Tribal Lands, aliases: [Tribal Lands, The Interior]}
+name: {full: Áelendan Tribal Lands, en: [Tribal Lands, The Interior]}
 type: place
 subType: region
 description: Mountainous interior of Élavendre, sovereign to the Áelendan tribal confederation—Pelwar forest-dwellers who keep the Old Way.

@@ -1,6 +1,6 @@
 ---
 shortcode: pirkelarrevo
-name: {full: Pirkelar Revothandis, aliases: [Village Elder Pirkelar]}
+name: {full: Pirkelar Revothandis, en: [Village Elder Pirkelar]}
 type: being
 subType: npc
 description: The village's governing elder, who treasures the work of Zadros Damates and recommends him to visitors.

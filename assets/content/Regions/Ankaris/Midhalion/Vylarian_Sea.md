@@ -1,6 +1,6 @@
 ---
 shortcode: vylarianse
-name: {full: Vylarian Sea, aliases: []}
+name: {full: Vylarian Sea}
 type: place
 subType: region
 description: The great inland sea at the heart of Mídhalión—highway of empire, maritime artery of the Aureldian and Ashaian faiths.

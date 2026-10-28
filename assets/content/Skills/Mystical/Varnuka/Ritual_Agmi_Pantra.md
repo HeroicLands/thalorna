@@ -2,7 +2,8 @@
 shortcode: agmipantra
 name:
   full: "Ritual: Agmi-pantra"
-  aliases: [Agmi-pantra, Agmi Pantra, The Path of the Flame, Flame Path]
+  en: [Agmi Pantra, The Path of the Flame, Flame Path]
+  vedy: [agmi-pantra]
 type: skill
 subType: mystical
 tags: [varnuka, faith-skill]

@@ -1,6 +1,6 @@
 ---
 shortcode: prvnzngrndgms
-name: {full: The Provenzian Grand Games, aliases: []}
+name: {full: The Provenzian Grand Games}
 type: scenario
 subType: adventure
 data:

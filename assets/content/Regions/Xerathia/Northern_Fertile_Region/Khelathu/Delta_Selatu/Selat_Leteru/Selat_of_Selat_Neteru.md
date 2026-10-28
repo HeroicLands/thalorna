@@ -1,6 +1,6 @@
 ---
 shortcode: selatseltltr
-name: {full: The Selat of Selat-Leteru, aliases: []}
+name: {full: The Selat of Selat-Leteru}
 type: affiliation
 subType: polity
 description: "The shrine-islands; a quiet pilgrimage selat of marsh-temples and few people—one of the delta selatu of Au'Khelathu."

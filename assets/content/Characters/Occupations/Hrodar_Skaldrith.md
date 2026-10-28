@@ -1,6 +1,6 @@
 ---
 shortcode: hrdrskldrth
-name: {full: Hrodar yra Skaldrith wur Waldburg, aliases: []}
+name: {full: Hrodar yra Skaldrith wur Waldburg}
 type: being
 subType: npc
 tags: [draft, soldiery]

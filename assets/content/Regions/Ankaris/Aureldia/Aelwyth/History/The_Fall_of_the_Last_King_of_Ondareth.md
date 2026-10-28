@@ -1,6 +1,6 @@
 ---
 shortcode: ondarethfall
-name: {full: The Fall of the Last King of Ondareth, aliases: [The Rising at Thornbury]}
+name: {full: The Fall of the Last King of Ondareth, en: [The Rising at Thornbury]}
 type: lore
 subType: history
 description: "About 440 AF the coast levies under Zalmen threw down King Tralkar's castle at Thornbury, and the shipmasters who had paid for the rising built a republic out of what travelers had told them about Vylaria."

@@ -1,6 +1,6 @@
 ---
 shortcode: hugvin
-name: {full: Hugvin, aliases: []}
+name: {full: Hugvin}
 type: lore
 subType: theology
 description: "Odvar’s raven of thought, read both as a literal messenger and as a teaching figure."

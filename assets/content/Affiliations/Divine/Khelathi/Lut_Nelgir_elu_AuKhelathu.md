@@ -1,6 +1,6 @@
 ---
 shortcode: lutnlgrkhlth
-name: {full: Lut-Nelgir elu Au'Khelathu, aliases: [The Temples of Au'Khelathu]}
+name: {full: Lut-Nelgir elu Au'Khelathu, en: [The Temples of Au'Khelathu]}
 type: affiliation
 subType: faithtradition
 description: "The great temple-estates taken together: granaries, workshops and tenant-villages, and religious, economic and political institutions that rival the Gar-Au's palace in power"

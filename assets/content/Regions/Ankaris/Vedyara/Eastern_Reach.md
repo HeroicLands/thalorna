@@ -1,6 +1,6 @@
 ---
 shortcode: estrnreach
-name: {full: The Eastern Reach, aliases: []}
+name: {full: The Eastern Reach}
 type: place
 subType: feature
 description: "The arc of the Grazian range that turns east toward Tantsou—narrower than the Southern Wall, colder, and crossed by the two passes the Hvarn keep."

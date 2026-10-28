@@ -1,6 +1,6 @@
 ---
 shortcode: tahrodan
-name: {full: Tahrodan, aliases: []}
+name: {full: Tahrodan}
 type: place
 subType: settlement
 description: "The fortress city of the Amradi caravan road, largest in the Kingdom, where every caravan from the interior pays its toll on the way to the coast."

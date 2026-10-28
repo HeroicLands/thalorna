@@ -1,6 +1,6 @@
 ---
 shortcode: sturgeonroad
-name: {full: The Sturgeon Road, aliases: []}
+name: {full: The Sturgeon Road}
 type: lore
 subType: theology
 description: "A Varokhi fireside poem about Vethar yra Thalruvan wur Grimholt's journey through the spirit realm and Grimholt's repair of a violated burial mound."

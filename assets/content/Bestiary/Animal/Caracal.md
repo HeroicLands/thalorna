@@ -1,6 +1,6 @@
 ---
 shortcode: caracal
-name: {full: Caracal, aliases: []}
+name: {full: Caracal}
 type: being
 subType: creature
 description: "A powerfully built desert hunting cat of the arid steppe, prowling rocky scrubland and thorn thickets for prey it ambushes with explosive leaps."

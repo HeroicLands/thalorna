@@ -1,6 +1,6 @@
 ---
 shortcode: idwkrrgn
-name: {full: Idvaqor, aliases: [The Eastern Stone Desert]}
+name: {full: Idvaqor, en: [The Eastern Stone Desert]}
 type: place
 subType: region
 description: "The stone desert and cold high steppe before Tantsou's western passes—the last eight hundred miles of the Celestial Road, where the tribes sell the hardest passage and Tantsou patrols watch the end of it."

@@ -1,6 +1,6 @@
 ---
 shortcode: tenlayargn
-name: {full: Tenlaya Region, aliases: []}
+name: {full: Tenlaya Region}
 type: place
 subType: region
 description: "The great grassland and its migrating herds, the river villages and the dry country beyond the mountains—the land of the Grass People, at the center of Northern Ki'ich'chik."

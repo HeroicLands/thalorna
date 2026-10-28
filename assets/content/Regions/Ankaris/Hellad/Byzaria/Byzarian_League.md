@@ -1,6 +1,6 @@
 ---
 shortcode: byzarianlg
-name: {full: Bizarian League, aliases: []}
+name: {full: Bizarian League}
 type: affiliation
 subType: polity
 description: "Confederation of five trading cities at the crossroads of east and west—neither kingdom nor loose alliance, but a commercial pact binding merchant-princes under common tariffs and collective naval defense."

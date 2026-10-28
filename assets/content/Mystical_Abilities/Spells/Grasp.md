@@ -1,6 +1,6 @@
 ---
 shortcode: grasp
-name: {full: Grasp, aliases: []}
+name: {full: Grasp}
 type: mysticalability
 subType: arcaneincantation
 description: "Invisible force seizes; holds or manipulates objects at distance."

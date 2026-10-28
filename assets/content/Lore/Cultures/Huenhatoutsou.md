@@ -1,12 +1,12 @@
 ---
 shortcode: henhatoutsouclt
-name: {full: Huenhatoutsou, aliases: [The Tribes of the Black Wilds]}
+name: {full: The Tribes of the Black Wilds, tant: [Huenhatoutsou]}
 type: lore
 subType: culture
 description: "The Huenhatoutsou—the steppe tribes of the Black Wilds north of the Empire of Tantsou."
 tags: [draft]
 data:
-  language: skill-tantsoulng
+  lang: tant
   appearanceProfile:
     frame: {light: 3, medium: 5, heavy: 2}
     eye_color: {brown: 4, dark_brown: 3, amber: 2, green: 1}

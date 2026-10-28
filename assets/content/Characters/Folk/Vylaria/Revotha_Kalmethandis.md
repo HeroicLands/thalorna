@@ -1,8 +1,6 @@
 ---
 shortcode: revothakalme
-name:
-  full: Revotha Kalmethis
-  aliases: [Magistrate Revotha Kalmethis the Strict, Magistrate Revotha]
+name: {full: Revotha Kalmethis, en: [Magistrate Revotha Kalmethis the Strict, Magistrate Revotha]}
 type: being
 subType: npc
 description: A justice official known for harsh sentencing, named in Zerofon Kalmakanes.

@@ -1,6 +1,6 @@
 ---
 shortcode: pnthnrldnm
-name: {full: Sarkena Dorekis, aliases: [Temple of the Twelve]}
+name: {full: Temple of the Twelve, vyl: [Sarkena Dorekis]}
 type: place
 subType: settlement
 description: "Sarkena Dorekis, the Temple of the Twelve: the colossal domed sanctuary at the heart of the Vanor of Orzara that honors the whole Aureldian Pantheon at once—the supreme house of the state religion, kept by the priests of Árdavon, its impossible dome raised with the quiet help of the Thordimalon."

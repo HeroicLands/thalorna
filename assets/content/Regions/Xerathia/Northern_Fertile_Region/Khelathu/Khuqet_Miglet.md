@@ -1,6 +1,6 @@
 ---
 shortcode: khuqetmiglet
-name: {full: Khuqet-Miglet, aliases: [The Northern March]}
+name: {full: Khuqet-Miglet, en: [The Northern March]}
 type: place
 subType: region
 description: Au'Khelathu's disputed northern desert-march—the dry country beyond the eastern border selatu, held for the caravan road to Dunhara and the Khazryn and for the depth it puts between the empire and its eastern neighbors, and never made a selat.

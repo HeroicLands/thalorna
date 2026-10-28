@@ -1,6 +1,6 @@
 ---
 shortcode: trupaziosdra
-name: {full: Trupazios Dragidek, aliases: [Bishop Trupazios Dragidek]}
+name: {full: Trupazios Dragidek, en: [Bishop Trupazios Dragidek]}
 type: being
 subType: npc
 description: A conservative religious figure who views Bazia Lokios's changes to ritual as heretical.

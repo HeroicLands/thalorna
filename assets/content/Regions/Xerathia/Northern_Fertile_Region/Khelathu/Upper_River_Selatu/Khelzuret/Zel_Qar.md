@@ -1,6 +1,6 @@
 ---
 shortcode: zelqar
-name: {full: Zel-Qar, aliases: []}
+name: {full: Zel-Qar}
 type: place
 subType: settlement
 description: "Tomb-Workers' Village (walled)"

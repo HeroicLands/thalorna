@@ -1,6 +1,6 @@
 ---
 shortcode: capitalselat
-name: {full: Capital Selat, aliases: []}
+name: {full: Capital Selat}
 type: folder
 data: {parent: aukhelathu, color: "#81C784"}
 ---

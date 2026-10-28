@@ -1,13 +1,13 @@
 ---
 shortcode: vedyariclt
-name: {full: Vedyari, aliases: []}
+name: {full: Vedyari}
 type: lore
 subType: culture
 description: "The Vedyari—their beliefs, their mores, and what they hold a person owes."
 tags: []
 data:
   calendar: lore-mdstncnt
-  language: skill-vedyarlng
+  lang: vedy
   glossary:
     - name: "janpoda"
       definition: "a temple-republic: a cluster of villages governing itself through its temple"

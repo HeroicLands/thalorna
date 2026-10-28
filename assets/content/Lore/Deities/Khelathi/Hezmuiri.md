@@ -1,6 +1,6 @@
 ---
 shortcode: hezmuiridty
-name: {full: Hezmu'iri, aliases: []}
+name: {full: Hezmu'iri}
 type: lore
 subType: deity
 tags: [draft]

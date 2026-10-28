@@ -1,6 +1,6 @@
 ---
 shortcode: nahild
-name: {full: "Ritual: Nahild", aliases: [The Eternal Night]}
+name: {full: "Ritual: Nahild", en: [The Eternal Night]}
 type: skill
 subType: mystical
 tags: [asguardian, faith-skill, draft]

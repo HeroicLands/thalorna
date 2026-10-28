@@ -1,6 +1,6 @@
 ---
 shortcode: rethsaar
-name: {full: Faith of Reth'Sa'ar, aliases: [The Scribe of the Eternal Library]}
+name: {full: Faith of Reth'Sa'ar, en: [The Scribe of the Eternal Library]}
 type: affiliation
 subType: faithtradition
 description: "Knowledge."

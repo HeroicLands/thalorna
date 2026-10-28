@@ -1,6 +1,6 @@
 ---
 shortcode: knda
-name: {full: Khanda, aliases: []}
+name: {full: Khanda}
 type: weapongear
 description: "Straight broad double-edged blade for hacking; ranked warrior's symbol."
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: grukarapp
-name: {full: The Appearing of the Grukar, aliases: [The Appearing]}
+name: {full: The Appearing of the Grukar, en: [The Appearing]}
 type: lore
 subType: history
 description: "The Grukar are first recorded around 3000 BF in the Khazari archive at Khazartúrn—nothing written there in twenty-one centuries mentions them, and within a generation a great deal does."

@@ -1,6 +1,6 @@
 ---
 shortcode: gwefavel
-name: {full: Gefavel, aliases: []}
+name: {full: Gefavel}
 type: place
 subType: region
 description: "The stronghold and lands of the Princess of Gefavel, a Provenzian magnate restoring the prestige her clan lost under the previous king."

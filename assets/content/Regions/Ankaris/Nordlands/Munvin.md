@@ -1,6 +1,6 @@
 ---
 shortcode: munvin
-name: {full: Munvin, aliases: []}
+name: {full: Munvin}
 type: lore
 subType: theology
 description: "Odvar’s raven of memory, read both as a literal messenger and as a teaching figure."

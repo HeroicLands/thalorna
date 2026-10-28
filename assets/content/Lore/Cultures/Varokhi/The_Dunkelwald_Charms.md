@@ -1,6 +1,6 @@
 ---
 shortcode: dunkelcharms
-name: {full: The Dunkelwald Charms, aliases: [Dunkelwald vreld]}
+name: {full: The Dunkelwald Charms, varo: [Dunkelwald vreld]}
 type: lore
 subType: literature
 description: "Nine charms of a Dunkelwald household under the bear wesk, each a precedent from the old days and then a command for the hands, taught by a mistress to her daughter in deep winter with a run of small charms between; the birth and the death charm are one charm said in opposite directions, and the ninth survives in its opening only."
@@ -10,7 +10,7 @@ data:
   packFolder: settinglore
   form: vreld
   subjects: [place-dunkelwald, place-vethwald, lore-bearttm, lore-boarttm, lore-varokhiclt]
-  language: varokhlng
+  lang: varo
 
 # terran_analog: "The two Merseburg charms, for the precedent from the old days followed by the command; the household charm-books of northern Europe, for the bossy rubric that says when to say a charm and who may say it. Departs: no god stands in any precedent, the commands are the hands' work, and the charm the household may not finish is kept by its gap."
 ---

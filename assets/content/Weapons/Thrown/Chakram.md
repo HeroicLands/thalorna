@@ -1,6 +1,6 @@
 ---
 shortcode: chak
-name: {full: Chakram, aliases: []}
+name: {full: Chakram}
 type: weapongear
 description: "Sharpened steel disc thrown or hand-held; cavalry skirmisher's precise reach."
 tags: []

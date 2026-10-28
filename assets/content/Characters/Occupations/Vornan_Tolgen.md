@@ -1,6 +1,6 @@
 ---
 shortcode: vornantlgn
-name: {full: Vornan Tolgen, aliases: []}
+name: {full: Vornan Tolgen}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

@@ -1,6 +1,6 @@
 ---
 shortcode: sathvothe
-name: {full: Satvote, aliases: []}
+name: {full: Satvote}
 type: place
 subType: region
 description: "Provenzia's northern quarter—the Élavendren borderland, the Áelendan mountains that no crown truly holds, and the sea-frontier through which the Nordheim raids came."

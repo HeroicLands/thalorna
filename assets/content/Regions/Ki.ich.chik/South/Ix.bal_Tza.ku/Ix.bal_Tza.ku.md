@@ -1,6 +1,6 @@
 ---
 shortcode: ixbaltzaku
-name: {full: Ish'bal Tsa'ku, aliases: []}
+name: {full: Ish'bal Tsa'ku}
 type: affiliation
 subType: polity
 description: "Jewel of the southern Ki'ich'chik: volcanic peaks, terraced valleys, and a coast of metals, cacao, and feathered luxury."

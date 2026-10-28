@@ -1,6 +1,6 @@
 ---
 shortcode: thornblthl
-name: {full: Thoren Pelthal, aliases: []}
+name: {full: Thoren Pelthal}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

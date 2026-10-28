@@ -1,6 +1,6 @@
 ---
 shortcode: zabuia2
-name: {full: Zabuia, aliases: []}
+name: {full: Zabuia}
 type: being
 subType: npc
 description: "A widow whose case an advocate took when no one else would, and whose gratitude has been useful to him since"

@@ -1,6 +1,6 @@
 ---
 shortcode: zxxpirzathenc
-name: {full: Pirzath Literal Encoding, aliases: []}
+name: {full: Pirzath Literal Encoding}
 type: doc
 subType: reference
 data:

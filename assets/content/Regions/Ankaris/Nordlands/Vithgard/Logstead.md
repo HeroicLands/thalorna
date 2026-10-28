@@ -1,6 +1,6 @@
 ---
 shortcode: logstead
-name: {full: Logstead, aliases: []}
+name: {full: Logstead}
 type: place
 subType: settlement
 description: "The law-stead of Vithgard, where the kingdom's ting sits, Eidgar's hov keeps its oaths, and the Order of the Sworn Hand keeps its mother-hall."

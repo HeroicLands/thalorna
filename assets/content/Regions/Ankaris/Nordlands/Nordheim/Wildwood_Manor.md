@@ -1,6 +1,6 @@
 ---
 shortcode: wildwoodmnr
-name: {full: Wildwood Manor, aliases: []}
+name: {full: Wildwood Manor}
 type: place
 subType: structure
 description: "Lady Nulthira's manor above Thraldfjord, whose forest climbs from the manor to the high ground and is kept by her chief huntsman."

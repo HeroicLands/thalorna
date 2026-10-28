@@ -1,6 +1,6 @@
 ---
 shortcode: aelendlng
-name: {full: Áelendi Language, aliases: []}
+name: {full: Áelendi Language}
 type: skill
 subType: language
 description: "The old Pelwar tongue of the Áelendan highlanders, unchanged in its mountain valleys for hundreds of years and heavily marked by Sinale."

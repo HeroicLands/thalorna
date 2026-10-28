@@ -1,6 +1,6 @@
 ---
 shortcode: kheladenthlt
-name: {full: Kheladen Itha'Letu, aliases: []}
+name: {full: Kheladen Itha'Letu}
 type: being
 subType: npc
 description: "A scholar-collector who funds craftsmen of the first rank and expects the results to be worth what he has paid"

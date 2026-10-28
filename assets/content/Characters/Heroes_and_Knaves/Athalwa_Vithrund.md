@@ -1,6 +1,6 @@
 ---
 shortcode: athlwvthrnd
-name: {full: Athalwa yra Vithrúnd wur Eichengrund, given: Athalwa, clan: Vithrúnd, aliases: []}
+name: {full: Athalwa yra Vithrúnd wur Eichengrund, given: Athalwa, clan: Vithrúnd}
 type: being
 subType: character
 tags: [heroes-and-knaves, administration]

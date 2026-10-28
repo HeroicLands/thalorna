@@ -1,6 +1,6 @@
 ---
 shortcode: itharidprt
-name: {full: The Departure of the Ithari, aliases: [The Great Silence]}
+name: {full: The Departure of the Ithari, en: [The Great Silence]}
 type: lore
 subType: history
 description: "A disturbance goes through the Ithari, they give the caretakers a further set of instructions in haste, and then they leave—all of them, abruptly, at 7,300 BF, for a destination no record names."

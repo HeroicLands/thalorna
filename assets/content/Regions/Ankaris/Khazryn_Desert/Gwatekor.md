@@ -1,6 +1,6 @@
 ---
 shortcode: gwtkrrgn
-name: {full: Ghotaqor, aliases: [The Northern Taiga]}
+name: {full: Ghotaqor, en: [The Northern Taiga]}
 type: place
 subType: region
 description: "The cold forest that fills the northern third of the Khazryn—taiga, bog and frozen coast, held by small bands of sealers, fishers and deer hunters who answer to no one."

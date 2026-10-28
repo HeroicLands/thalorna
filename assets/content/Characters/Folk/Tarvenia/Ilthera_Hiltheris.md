@@ -1,6 +1,6 @@
 ---
 shortcode: iltherahilth
-name: {full: Ilthera Hiltheris, aliases: [Magistrate Ilthera]}
+name: {full: Ilthera Hiltheris, en: [Magistrate Ilthera]}
 type: being
 subType: npc
 description: The current city magistrate, who relies heavily on Hálrikos Bránthira's counsel and has protected him.

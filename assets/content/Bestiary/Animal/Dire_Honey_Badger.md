@@ -1,6 +1,6 @@
 ---
 shortcode: drhnybdg
-name: {full: Dire Honey Badger, aliases: []}
+name: {full: Dire Honey Badger}
 type: being
 subType: creature
 description: "A four-foot, four-hundred-pound honey badger scaled to lethal size, proportionally stronger, tougher, and even more relentlessly aggressive."

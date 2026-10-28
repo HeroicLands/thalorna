@@ -1,6 +1,6 @@
 ---
 shortcode: igelnarudty
-name: {full: Igelnaru, aliases: []}
+name: {full: Igelnaru}
 type: lore
 subType: deity
 tags: [draft]

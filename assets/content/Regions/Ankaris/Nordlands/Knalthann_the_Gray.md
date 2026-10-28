@@ -1,6 +1,6 @@
 ---
 shortcode: knlthngry
-name: {full: Knalthann the Gray, aliases: [the Gray]}
+name: {full: Knalthann the Gray, en: [the Gray]}
 type: being
 subType: npc
 description: "The retired warrior who fathered Hvilgthira Knalthannsdottir, still influential among the northern clans."

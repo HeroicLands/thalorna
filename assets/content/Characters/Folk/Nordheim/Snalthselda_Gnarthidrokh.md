@@ -1,6 +1,6 @@
 ---
 shortcode: snalthseldag
-name: {full: Snalthselda Gnarthidrok, aliases: [Jarl Snalthselda Gnarthidrok]}
+name: {full: Snalthselda Gnarthidrok, en: [Jarl Snalthselda Gnarthidrok]}
 type: being
 subType: npc
 description: A rival warrior within the guild who views Vruldorv Drottgar's success as a personal affront.

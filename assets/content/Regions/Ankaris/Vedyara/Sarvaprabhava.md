@@ -1,6 +1,6 @@
 ---
 shortcode: sarvaprbhv
-name: {full: Sarvaprabhava, aliases: []}
+name: {full: Sarvaprabhava}
 type: place
 subType: site
 description: "The glacier-spring of the Sarveda, high on the Southern Wall above the upper valley—the source-temple of Vyalendra and the hardest of the four to reach."

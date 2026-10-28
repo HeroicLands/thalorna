@@ -1,6 +1,6 @@
 ---
 shortcode: kiramailthor
-name: {full: Kirama Iltoris, aliases: [Countess Kirama Iltoris]}
+name: {full: Kirama Iltoris, en: [Countess Kirama Iltoris]}
 type: being
 subType: npc
 description: A senior member of the Council of Peers and leader of the reformist faction, named in Arnela Kórisvar.

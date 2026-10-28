@@ -1,6 +1,6 @@
 ---
 shortcode: vylrnctznshp
-name: {full: Vylarian Citizenship, aliases: [Citizenship, Citizens and Residents]}
+name: {full: Vylarian Citizenship, en: [Citizenship, Citizens and Residents]}
 type: doc
 subType: reference
 description: "Citizenship in the Vylarian Empire—a personal, earned, largely non-heritable status won chiefly by twenty years in the legions, carrying the grain dole, the right of residence in Orzara, and legal standing. It is the Empire's recruiting bargain and the loyalty-leash on its most dangerous men, not a charity."

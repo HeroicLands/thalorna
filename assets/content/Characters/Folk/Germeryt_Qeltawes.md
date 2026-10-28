@@ -1,6 +1,6 @@
 ---
 shortcode: germrytqltw2
-name: {full: Germeryt Qeltawes, aliases: []}
+name: {full: Germeryt Qeltawes}
 type: being
 subType: npc
 description: "First Hunter of the Gar-Au and chair of the Council of the Long Spear, holding the licences by which the empire's game is taken"

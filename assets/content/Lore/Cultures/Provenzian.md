@@ -1,12 +1,12 @@
 ---
 shortcode: provenzianclt
-name: {full: Provenzian, aliases: []}
+name: {full: Provenzian}
 type: lore
 subType: culture
 description: "The Provenzians—their beliefs, their mores, and what they hold a person owes."
 tags: []
 data:
-  language: skill-provnzlng
+  lang: prov
   glossary:
     - name: "blood-field"
       definition: "Ground where a battle tore the boundary with the spirit world, and it did not close"

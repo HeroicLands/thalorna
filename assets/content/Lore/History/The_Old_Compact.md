@@ -1,6 +1,6 @@
 ---
 shortcode: oldcompact
-name: {full: The Old Compact, aliases: [The Compact]}
+name: {full: The Old Compact, en: [The Compact]}
 type: lore
 subType: history
 description: "From 5274 BF to 2427 BF the Sinale and the Khazari hold a shared accord across much of Thalorna, and make together what neither people can make alone—until the day Khazartúrn falls."

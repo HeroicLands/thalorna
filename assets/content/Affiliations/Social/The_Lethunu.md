@@ -1,6 +1,6 @@
 ---
 shortcode: lethunu2
-name: {full: The Lethunu, aliases: []}
+name: {full: The Lethunu}
 type: affiliation
 subType: fellowship
 description: Those within a guild pressing to change what the old guard holds settled, and presiding over the most contentious internal politics in a generation

@@ -1,6 +1,6 @@
 ---
 shortcode: deyenashamay
-name: {full: Deyena Shamayan, aliases: [Captain Deyena Shamayan, Captain Deyena]}
+name: {full: Deyena Shamayan, en: [Captain Deyena Shamayan, Captain Deyena]}
 type: being
 subType: npc
 description: Commander of the Kingdom's cavalry forces, who contracts with Rudavah Farrud.

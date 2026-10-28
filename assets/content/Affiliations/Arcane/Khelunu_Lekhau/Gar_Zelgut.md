@@ -1,6 +1,6 @@
 ---
 shortcode: garzelgut
-name: {full: Gar-Zelgút, aliases: [House of the Unmaking, The House of Chaos]}
+name: {full: Gar-Zelgút, en: [House of the Unmaking, The House of Chaos]}
 type: affiliation
 subType: arcanetradition
 tags: [gethunu-lekhau, arcane, khelathi]

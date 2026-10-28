@@ -1,6 +1,6 @@
 ---
 shortcode: being
-name: {full: Beings, aliases: []}
+name: {full: Beings}
 type: doc
 subType: reference
 description: Every being across the lands of Thalorna and beyond—people, beasts, spirits, and monsters.

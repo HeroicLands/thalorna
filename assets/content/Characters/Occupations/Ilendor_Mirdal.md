@@ -1,6 +1,6 @@
 ---
 shortcode: ylndrmyrdl
-name: {full: Ilendor Mirdal, aliases: []}
+name: {full: Ilendor Mirdal}
 type: being
 subType: npc
 tags: [draft, guilded, mages]

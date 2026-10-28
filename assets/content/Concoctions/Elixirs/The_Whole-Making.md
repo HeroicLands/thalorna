@@ -1,6 +1,6 @@
 ---
 shortcode: elxmnd
-name: {full: The Whole-Making, aliases: [Mending Elixir]}
+name: {full: The Whole-Making, en: [Mending Elixir]}
 type: concoctiongear
 subType: elixir
 description: "Shimmering silvery liquid; repairs damage to broken objects."

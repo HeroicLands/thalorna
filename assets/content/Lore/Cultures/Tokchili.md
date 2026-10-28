@@ -1,12 +1,12 @@
 ---
 shortcode: tokchiliclt
-name: {full: Tokchili, aliases: []}
+name: {full: Tokchili, tokc: [tokchili]}
 type: lore
 subType: culture
 description: "The people of the One Fire—their beliefs, their mores, and what they hold a person owes."
 tags: []
 data:
-  language: skill-tokchilng
+  lang: tokc
   glossary:
     - name: "amoka"
       definition: "A basket-load of earth carried to a mound; the labor every household owes its town's mound."

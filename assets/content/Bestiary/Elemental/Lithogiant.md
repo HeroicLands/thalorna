@@ -1,6 +1,6 @@
 ---
 shortcode: lthgnt
-name: {full: Lithogiant, aliases: []}
+name: {full: Lithogiant}
 type: being
 subType: creature
 description: "A titanic earth elemental that wanders mountain ranges by inscrutable paths, usually solitary but an apocalyptic threat when agitated or territorial."

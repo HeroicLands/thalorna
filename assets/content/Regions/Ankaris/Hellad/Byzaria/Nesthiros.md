@@ -1,6 +1,6 @@
 ---
 shortcode: nesthiros
-name: {full: Nesthiros, aliases: []}
+name: {full: Nesthiros}
 type: affiliation
 subType: polity
 description: "Island city-state of the Bizarian League, situated on a fortress isle in the Bizarian straits—maritime hub and key to the League's naval defense."

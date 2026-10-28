@@ -1,6 +1,6 @@
 ---
 shortcode: trbtvrzvd
-name: {full: Tribe of Tevrazavad, aliases: []}
+name: {full: Tribe of Tevrazavad}
 type: affiliation
 subType: polity
 description: "The tribe that holds the Oasis of Tevrazavad by right of usage and governs itself through a council, under the chieftain Torvash Shiradar."

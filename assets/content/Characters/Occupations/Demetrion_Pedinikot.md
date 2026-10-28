@@ -1,6 +1,6 @@
 ---
 shortcode: dmtrnpdnkt
-name: {full: Ghorigios Pedinikot, aliases: []}
+name: {full: Ghorigios Pedinikot}
 type: being
 subType: npc
 tags: [todo-warrior, draft, soldiery]

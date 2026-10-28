@@ -1,6 +1,6 @@
 ---
 shortcode: varelanebral
-name: {full: Varela Nebralandis, aliases: [Bishop Varela]}
+name: {full: Varela Nebralandis, en: [Bishop Varela]}
 type: being
 subType: npc
 description: An ambitious bishop in the capital who has marked Revothar Baremzator as a heretic in waiting.

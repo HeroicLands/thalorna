@@ -1,6 +1,6 @@
 ---
 shortcode: garsaaqutu
-name: {full: Gar-Sa'Akutu, aliases: [The Sa'Akutu Family]}
+name: {full: Gar-Sa'Akutu, en: [The Sa'Akutu Family]}
 type: affiliation
 subType: lineage
 description: A military house of long standing, its men commanders and its women placed to advance the line's interests at court

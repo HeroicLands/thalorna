@@ -1,6 +1,6 @@
 ---
 shortcode: theldnkhldr
-name: {full: Théldina Khalidra, given: Théldina, clan: Khalidra, aliases: []}
+name: {full: Théldina Khalidra, given: Théldina, clan: Khalidra}
 type: being
 subType: character
 tags: [tamzir-crew, administration]

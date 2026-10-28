@@ -1,6 +1,6 @@
 ---
 shortcode: amqelagefu
-name: {full: Amqel-Agefu, aliases: []}
+name: {full: Amqel-Agefu}
 type: place
 subType: settlement
 description: "A farm-and-market village of the Capital Selat, within a morning's water of Galezkara and bound to its granaries"

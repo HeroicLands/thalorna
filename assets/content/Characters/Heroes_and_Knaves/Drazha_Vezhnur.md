@@ -1,10 +1,10 @@
 ---
 shortcode: drzhvzhnr
 name:
-  full: Drazha Vezhnur, Knight of the Black Flame
+  full: "Drazha Vezhnur, Knight of the Black Flame"
   given: Drazha
   clan: Vezhnur
-  aliases: [Knight of the Black Flame]
+  en: [Knight of the Black Flame]
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, soldiery]

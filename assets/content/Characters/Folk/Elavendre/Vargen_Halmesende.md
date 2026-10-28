@@ -1,6 +1,6 @@
 ---
 shortcode: vargenhalmes
-name: {full: Vargen Hálmesende, aliases: [Lord Vargen]}
+name: {full: Vargen Hálmesende, en: [Lord Vargen]}
 type: being
 subType: npc
 description: An ambitious noble of the Obsidian Order with ties to dark magic and military ambition.

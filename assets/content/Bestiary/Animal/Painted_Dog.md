@@ -1,6 +1,6 @@
 ---
 shortcode: pntddg
-name: {full: Painted Dog, aliases: [Savanna Wild Dog]}
+name: {full: Painted Dog, en: [Savanna Wild Dog]}
 type: being
 subType: creature
 description: "A lean, endurance-built savannah canid that hunts in coordinated packs of ten to thirty with unmatched efficiency across the open plains."

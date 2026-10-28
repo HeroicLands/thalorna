@@ -1,6 +1,6 @@
 ---
 shortcode: upperrivrslt
-name: {full: Upper River Selatu, aliases: []}
+name: {full: Upper River Selatu}
 type: folder
 data: {parent: aukhelathu, color: "#81C784"}
 ---

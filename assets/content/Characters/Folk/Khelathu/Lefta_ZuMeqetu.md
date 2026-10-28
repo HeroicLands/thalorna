@@ -1,6 +1,6 @@
 ---
 shortcode: leftazumeqet
-name: {full: Lefta Zu'Meqetu, aliases: [Caravan Master Lefta the Keen-Eyed, Caravan Master Lefta]}
+name: {full: Lefta Zu'Meqetu, en: [Caravan Master Lefta the Keen-Eyed, Caravan Master Lefta]}
 type: being
 subType: npc
 description: A weathered caravan master who hired Linta Zu'Zereketu as a porter at thirteen and remains a friend and occasional employer; also named in Meshaqa the Wise.

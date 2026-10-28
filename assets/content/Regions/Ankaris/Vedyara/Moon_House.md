@@ -1,6 +1,6 @@
 ---
 shortcode: moonhouse
-name: {full: The Moon House, aliases: []}
+name: {full: The Moon House}
 type: place
 subType: structure
 description: "The palace above the river stair at Chendrapur—the seat of the Maharava, the one building in the city nobody may rebuild, and the hall the Nine Houses sit in."

@@ -1,6 +1,6 @@
 ---
 shortcode: tsuijai
-name: {full: Tsuijai, aliases: [Iron Peak]}
+name: {full: Iron Peak, jurt: [Tsuijai]}
 type: place
 subType: region
 description: "Iron Peak, the volcanic mountain of the north-west uplands of the great island—iron sand, mines, charcoal slopes and the forge-village of the swordsmiths."

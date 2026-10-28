@@ -1,6 +1,6 @@
 ---
 shortcode: zxxzethuenc
-name: {full: Zethu Encoding, aliases: []}
+name: {full: Zethu Encoding}
 type: doc
 subType: reference
 data:

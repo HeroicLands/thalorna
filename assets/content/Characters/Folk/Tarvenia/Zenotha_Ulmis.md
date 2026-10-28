@@ -1,6 +1,6 @@
 ---
 shortcode: zenothaulmis
-name: {full: Zenotha Ulmis, aliases: [Lady Zenotha Ulmis, Lady Zenotha]}
+name: {full: Zenotha Ulmis, en: [Lady Zenotha Ulmis, Lady Zenotha]}
 type: being
 subType: npc
 description: A shrewd noblewoman who plays a dangerous political game, named in Father Ostaran Dorvás.

@@ -1,6 +1,6 @@
 ---
 shortcode: glurvholm
-name: {full: Glurvholm, aliases: [The Hov in the Tide]}
+name: {full: Glurvholm, en: [The Hov in the Tide]}
 type: place
 subType: site
 description: "A tide-islet off Hvarnvík with a ring of sea-worn stones awash at high water, an old hov of Hafvald where the fishers leave the year's first catch, and the place Njorven's cult is sure the Ritual of Binding's hidden temple stands, which it does not."

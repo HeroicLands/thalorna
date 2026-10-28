@@ -1,6 +1,6 @@
 ---
 shortcode: fairverses
-name: {full: The Verses of the Thórgila Fair, aliases: [The Sling and the Hail]}
+name: {full: The Verses of the Thórgila Fair, en: [The Sling and the Hail]}
 type: lore
 subType: literature
 description: "The verse-duel the hill town of Thórgila still sings back from one autumn horse fair, where the horse-judge set the themes and the vowels and the fair stamped for the winner: the Sling and the Hail greet the fair, a herd boy asks a captain for a place on the roll, a man home from contract asks whose mule is in the byre, a horse-seller answers the oath stone, and each sings once on the word free."
@@ -10,7 +10,7 @@ data:
   packFolder: settinglore
   form: gortsada
   subjects: [place-thorgila, lore-tarvenanclt, skill-tarvenlng]
-  language: tarvenlng
+  lang: tarv
 
 # terran_analog: "Basque bertsolaritza, the improvised sung verse of the fairs and festivals: two singers set against each other by a theme-setter who gives each a part to play and a measure to keep, the eight-line stanza with its sound held on the even lines, the audience as judge, and the verses of a good session remembered and sung again for years."
 ---

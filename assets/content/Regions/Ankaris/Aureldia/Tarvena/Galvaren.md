@@ -1,6 +1,6 @@
 ---
 shortcode: galvaren
-name: {full: Galvaren, aliases: []}
+name: {full: Galvaren}
 type: place
 subType: region
 description: "The land of the Kingdom of Galvaren—the green, mist-shrouded western coast of Tarvénia, a country of rain, fog, deep forests and rocky shores facing the open ocean."

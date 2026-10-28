@@ -1,6 +1,6 @@
 ---
 shortcode: yeshirovlg
-name: {full: Yéshiro Village, aliases: []}
+name: {full: Yéshiro Village}
 type: place
 subType: settlement
 description: "Tanning village of the Yéshiro tribe at the edge of the Okharis forest."

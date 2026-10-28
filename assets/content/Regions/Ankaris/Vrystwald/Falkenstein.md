@@ -1,6 +1,6 @@
 ---
 shortcode: falkensten
-name: {full: Falkenstein, aliases: []}
+name: {full: Falkenstein}
 type: place
 subType: settlement
 description: "Hill Fort"

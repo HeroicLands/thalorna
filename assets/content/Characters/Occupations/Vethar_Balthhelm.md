@@ -1,6 +1,6 @@
 ---
 shortcode: vthrblthlm
-name: {full: Vethar yra Balthhelm wur Waldburg, aliases: []}
+name: {full: Vethar yra Balthhelm wur Waldburg}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

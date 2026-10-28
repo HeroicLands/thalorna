@@ -1,6 +1,6 @@
 ---
 shortcode: hofgodirnk
-name: {full: "Hofgudi / Hofgudja", aliases: []}
+name: {full: Hofgudi / Hofgudja}
 type: lore
 subType: law
 description: "The high priest who consecrates a hov and performs the great blet at a season's turning, in the faiths of the Ten that keep it."

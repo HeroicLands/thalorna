@@ -1,6 +1,6 @@
 ---
 shortcode: kotsudekanar
-name: {full: Kotsude Kanarris, aliases: [Ser Kotsude]}
+name: {full: Kotsude Kanarris, en: [Ser Kotsude]}
 type: being
 subType: npc
 description: A mysterious old warrior-knight who rides a horse of extraordinary age, named in Chorvan Jarlen.

@@ -1,6 +1,6 @@
 ---
 shortcode: bazunel2
-name: {full: Bazunel, aliases: []}
+name: {full: Bazunel}
 type: place
 subType: settlement
 description: "The cultural heart of Taruzel, a city of ship designers, astronomers and artists that shelters those who fall afoul of guild politics elsewhere."

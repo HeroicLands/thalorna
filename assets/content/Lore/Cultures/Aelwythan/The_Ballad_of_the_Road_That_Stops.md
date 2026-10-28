@@ -1,6 +1,6 @@
 ---
 shortcode: roadstops
-name: {full: The Ballad of the Road That Stops, aliases: []}
+name: {full: The Ballad of the Road That Stops}
 type: lore
 subType: literature
 description: "The ballad the drovers of the Central Highlands sing on the road: a drover's lad lost in the fog who follows the old stone road south to the bank of oaks where it ends, the tall one among the trees who answers two questions with silence and the third with the fog, the three hills he wakes beneath, the answer he brings home, and the winter he brings the herds down by the road nobody else will take."
@@ -16,7 +16,7 @@ data:
     - place-threesisters
     - lore-flksinale
     - lore-aelwythanclt
-  language: aelwthlng
+  lang: aelw
 
 # terran_analog: "The border and Child ballads for the common-metre quatrain, the question asked three times with incremental repetition and the fairy-otherworld visit that returns the traveller somewhere else; the drovers' songs of the British uplands; the Roman roads and old avenues of a later countryside that has forgotten who laid them."
 ---

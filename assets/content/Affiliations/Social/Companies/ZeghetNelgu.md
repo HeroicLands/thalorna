@@ -1,6 +1,6 @@
 ---
 shortcode: zeghetnelgu
-name: {full: Zeghet'Nelgu, aliases: [The Sacred Hunt of the Khetai, The Mighty Ones of the Field]}
+name: {full: Zeghet'Nelgu, en: [The Sacred Hunt of the Khetai, The Mighty Ones of the Field]}
 type: affiliation
 subType: order
 description: "Sacred hunt of the Khetai family tasked with maintaining balance between civilization and the wild along the Zumelesh River through ritual, courage, and divine obligation."

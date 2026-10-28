@@ -1,6 +1,6 @@
 ---
 shortcode: iaqetleqaslt
-name: {full: Iaqet-Leqa Selat, aliases: []}
+name: {full: Iaqet-Leqa Selat}
 type: place
 subType: region
 description: "Eastern desert wells and quarry-roads; a dry, sun-burned garrison selat—the land of the Selat of Iaqet-Leqa, one of the border selatu of Au'Khelathu."

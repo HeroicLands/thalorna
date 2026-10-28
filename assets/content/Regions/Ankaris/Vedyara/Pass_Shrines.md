@@ -1,6 +1,6 @@
 ---
 shortcode: pssshrines
-name: {full: The Pass-Shrines, aliases: []}
+name: {full: The Pass-Shrines}
 type: place
 subType: site
 description: "The chain of Varnuka temples at the summits of the crossing roads, kept year-round by a hereditary line of Ritrija ushtakas who live where a lowlander would die, and holding the only written record of who crossed the wall and when."

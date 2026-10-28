@@ -1,6 +1,6 @@
 ---
 shortcode: erldmhrvrn
-name: {full: Earldom of Hárivren, aliases: []}
+name: {full: Earldom of Hárivren}
 type: affiliation
 subType: polity
 description: "The western march of Provenzia, held for the Crown by Avaarl Zylavren, Earl of Hárivren, from the city of Hárivren."

@@ -1,6 +1,6 @@
 ---
 shortcode: storaldstjrnk
-name: {full: "Stóraldstjori", aliases: [Sogmadur, Saga-Master]}
+name: {full: Stóraldstjori, en: [Saga-Master], nord: [sogmadur]}
 type: lore
 subType: law
 description: "Acclaimed by his peers when his composed sagas enter the standing repertoire, in the Skalds' Circle."

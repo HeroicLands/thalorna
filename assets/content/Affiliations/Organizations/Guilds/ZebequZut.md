@@ -1,6 +1,6 @@
 ---
 shortcode: zebequzut
-name: {full: Zebeku'Zut, aliases: [Merchant Alliance, Khelathi Merchant Alliance]}
+name: {full: Zebeku'Zut, en: [Merchant Alliance, Khelathi Merchant Alliance]}
 type: affiliation
 subType: guild
 description: "Khelathi informal but influential network of the empire's major trading houses"

@@ -1,6 +1,6 @@
 ---
 shortcode: orthemiskorv
-name: {full: Orthemis Korvathandis, aliases: [Usos Orthemis Korvathandis]}
+name: {full: Orthemis Korvathandis, en: [Usos Orthemis Korvathandis]}
 type: being
 subType: npc
 description: A political appointee from the capital who arrived with orders to strengthen imperial authority in the province.

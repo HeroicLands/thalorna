@@ -1,6 +1,6 @@
 ---
 shortcode: sandstonealtr
-name: {full: The Sandstone Altar, aliases: []}
+name: {full: The Sandstone Altar}
 type: place
 subType: structure
 description: "The original altar of Vyalendra in the main hall at Rajepur, cut at the founding of the dynastic capital twelve centuries ago and outliving the dynasty by nine hundred years."

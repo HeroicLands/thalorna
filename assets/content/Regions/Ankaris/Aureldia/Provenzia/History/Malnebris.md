@@ -1,6 +1,6 @@
 ---
 shortcode: malnebris
-name: {full: Malnebris, aliases: [The First Great Raid]}
+name: {full: The First Great Raid, prov: [Malnebris]}
 type: lore
 subType: history
 description: "About 556 AF High King Mórezan's host came down the pass in the first great raid on the province, the provincial levy held the road at Malnebris for a day and a night and broke, and the frontier war the border families still fight began there."

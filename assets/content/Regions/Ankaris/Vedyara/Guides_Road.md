@@ -1,6 +1,6 @@
 ---
 shortcode: gudesroad
-name: {full: The Guides' Road, aliases: []}
+name: {full: The Guides' Road}
 type: place
 subType: feature
 description: "The sixth crossing—no fortress, no toll, no shrine and no blessing; the road the Osket keep between the two western doors and take a lowlander over blindfold."

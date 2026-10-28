@@ -1,6 +1,6 @@
 ---
 shortcode: morningname
-name: {full: The Dawn Song of the Morning Name, aliases: [The Watch Cries Morning]}
+name: {full: The Dawn Song of the Morning Name, en: [The Watch Cries Morning]}
 type: lore
 subType: literature
 description: "A dawn song of Jalnasdal, with the reason the songbooks set before it: two lovers in a house below the cistern stair, a friend keeping the watch on the wall, a love name nobody else may say, and the cry the city's watch gives every morning from the walls, which the song holds back until its last line."
@@ -10,7 +10,7 @@ data:
   packFolder: settinglore
   form: dawn-song
   subjects: [place-jalnazdal, lore-karalzelmnt, lore-provenzianclt, skill-provnzlng]
-  language: provnzlng
+  lang: prov
 
 # terran_analog: "The troubadour alba, in which lovers part at daybreak and a friend on watch warns them, with its refrain on the coming dawn; the razo and vida of the troubadour songbooks, the prose that tells the circumstances of a song and the life of its maker; the secret name of the beloved, the senhal, that a poem never discloses."
 ---

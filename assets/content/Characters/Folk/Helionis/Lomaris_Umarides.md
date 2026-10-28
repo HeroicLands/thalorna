@@ -1,6 +1,6 @@
 ---
 shortcode: lomarisumari
-name: {full: Lomaris Umarides, aliases: [Lady Lomaris]}
+name: {full: Lomaris Umarides, en: [Lady Lomaris]}
 type: being
 subType: npc
 description: A lady whose retinue Rakhimea Khalithon serves.

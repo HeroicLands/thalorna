@@ -1,6 +1,6 @@
 ---
 shortcode: elphnthk
-name: {full: Elephant-Hook, aliases: []}
+name: {full: Elephant-Hook}
 type: weapongear
 description: "Short iron goad and hook carried by a mahout; a footman's makeshift weapon in the same hand."
 tags: []

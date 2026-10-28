@@ -1,6 +1,6 @@
 ---
 shortcode: ordrcandidrnk
-name: {full: "Candidate of a Sworn Order", aliases: [Hand-Squire, Storm-Aspirant, Frost-Touched]}
+name: {full: Candidate of a Sworn Order, en: [Hand-Squire, Storm-Aspirant, Frost-Touched]}
 type: lore
 subType: law
 description: "Admitted on a sworn order's own terms and dismissible on them, in Asguardian fighting orders that admit candidates."

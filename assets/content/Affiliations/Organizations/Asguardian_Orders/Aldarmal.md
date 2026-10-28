@@ -1,6 +1,6 @@
 ---
 shortcode: aldarmal
-name: {full: "Aldarmál", aliases: []}
+name: {full: Aldarmál}
 type: affiliation
 subType: order
 description: "The rare standing between the elder races and mortals."

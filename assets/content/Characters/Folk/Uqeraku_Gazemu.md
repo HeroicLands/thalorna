@@ -1,6 +1,6 @@
 ---
 shortcode: uqerakugz2
-name: {full: Uqeraku Gazemu, aliases: [Uqe]}
+name: {full: Uqeraku Gazemu, khel: [uqe]}
 type: being
 subType: npc
 description: "A wealthy master of many works, whose commissions employ half a trade and whose standards keep the other half out"

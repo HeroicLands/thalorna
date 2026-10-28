@@ -1,6 +1,6 @@
 ---
 shortcode: mazinanshirz
-name: {full: Mazinan Shirzari, aliases: [Inquisitor Mazinan]}
+name: {full: Mazinan Shirzari, en: [Inquisitor Mazinan]}
 type: being
 subType: npc
 description: A religious authority who sees the unconventional relationship of Fakhrad Tamaran with astronomical knowledge as heretical.

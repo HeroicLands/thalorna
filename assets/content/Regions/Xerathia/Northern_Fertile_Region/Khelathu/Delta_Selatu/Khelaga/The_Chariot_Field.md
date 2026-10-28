@@ -1,6 +1,6 @@
 ---
 shortcode: chariotfld
-name: {full: The Chariot Field, aliases: []}
+name: {full: The Chariot Field}
 type: place
 subType: site
 description: "The reed-flat below Khelaga where the chariot corps broke against a Vylarian army in 377 AF: a thin blood-field of recurrence on the water, a zelalgit whose hunters kill, and the one the chariot families keep a vigil of lamps beside."

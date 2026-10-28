@@ -1,13 +1,13 @@
 ---
 shortcode: khazrynclt
-name: {full: Tellumi, aliases: []}
+name: {full: Tellumi}
 type: lore
 subType: culture
 description: "The Tellumi—their beliefs, their mores, and what they hold a person owes."
 tags: []
 data:
   calendar: lore-khzrnclndr
-  language: skill-khazrilng
+  lang: telu
   glossary:
     - name: "neyin"
       definition: "A guest, owed food and shelter without question in time of need"

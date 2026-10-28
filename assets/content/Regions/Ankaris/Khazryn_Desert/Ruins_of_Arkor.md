@@ -1,6 +1,6 @@
 ---
 shortcode: ruinsarkor
-name: {full: Ruins of Arkor, aliases: [Bolid, The Buried Tower City]}
+name: {full: Ruins of Arkor, en: [The Buried Tower City], sovi: [Bolid]}
 type: place
 subType: site
 description: "The westernmost of the Tower Cities, buried beneath the sands of the Desert of Hek'ar, where the Black Flame's Blazing Oath seeks the Eye of Velok."

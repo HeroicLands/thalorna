@@ -1,6 +1,6 @@
 ---
 shortcode: gronverdir
-name: {full: The Green Wardens, aliases: [Gronverdir, The Guardians of the Harvest]}
+name: {full: The Green Wardens, en: [The Guardians of the Harvest], nord: [gronverdir]}
 type: affiliation
 subType: order
 description: "Warrior-protectors sworn to Frodvin—guardians of farms, harvests, and the common folk against the dangers that the harvest-god's peace cannot itself avert."

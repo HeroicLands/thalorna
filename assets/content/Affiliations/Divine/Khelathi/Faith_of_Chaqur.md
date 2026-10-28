@@ -1,6 +1,6 @@
 ---
 shortcode: chaqur
-name: {full: Faith of Chaq'ur, aliases: [Bringer of Tempests]}
+name: {full: Faith of Chaq'ur, en: [Bringer of Tempests]}
 type: affiliation
 subType: faithtradition
 description: "Storms."

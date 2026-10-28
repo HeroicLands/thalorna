@@ -1,12 +1,12 @@
 ---
 shortcode: pewayeclt
-name: {full: Pewaye, aliases: [Edge-people]}
+name: {full: Edge-people, ekpe: [Pewaye]}
 type: lore
 subType: culture
 description: "The edge-people of the central Zerathian forest: tribes of the margins, north and south, who hold the line between the forest and the world outside it."
 tags: [draft]
 data:
-  language: skill-ekpelulng
+  lang: ekpe
   appearanceProfile:
     frame: {light: 3, medium: 5, heavy: 2}
     eye_color: {dark_brown: 6, brown: 3, black: 1}

@@ -1,6 +1,6 @@
 ---
 shortcode: chmpnz
-name: {full: Chimpanzee, aliases: []}
+name: {full: Chimpanzee}
 type: being
 subType: creature
 description: "A fiercely intelligent primate capable of calculated, grudge-driven violence, remembering faces and grievances with a cunning that outmatches most predators."

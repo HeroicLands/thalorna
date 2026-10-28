@@ -1,6 +1,6 @@
 ---
 shortcode: gust
-name: {full: Gust, aliases: []}
+name: {full: Gust}
 type: mysticalability
 subType: arcaneincantation
 description: "Conjures powerful wind; buffets targets and scatters loose objects."

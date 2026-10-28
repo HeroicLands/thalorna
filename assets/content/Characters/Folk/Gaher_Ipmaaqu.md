@@ -1,6 +1,6 @@
 ---
 shortcode: gaheripmaaqu
-name: {full: Gaher Ipmaaku, aliases: []}
+name: {full: Gaher Ipmaaku}
 type: being
 subType: npc
 description: "Father to a locksmith, of no particular distinction or wealth, who gave his son a trade and little else"

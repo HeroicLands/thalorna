@@ -1,6 +1,6 @@
 ---
 shortcode: mrchntryvl
-name: {full: Merchantry of the Veil, aliases: []}
+name: {full: Merchantry of the Veil}
 type: affiliation
 subType: venture
 description: "Enigmatic luxury trade guild dealing in secrets and restricted goods through shadow networks—the broker between people who cannot afford to be seen together."

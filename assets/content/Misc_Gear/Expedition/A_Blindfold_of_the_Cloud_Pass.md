@@ -1,6 +1,6 @@
 ---
 shortcode: cloudpassblindfold
-name: {full: "A Blindfold of the Cloud Pass", aliases: []}
+name: {full: A Blindfold of the Cloud Pass}
 type: miscgear
 description: "The woven band that binds the eyes of an outsider admitted inland, worn from the foot of the outer face to the terraces below the inner face."
 tags: [kalihara]

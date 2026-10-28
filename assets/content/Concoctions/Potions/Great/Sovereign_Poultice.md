@@ -1,6 +1,6 @@
 ---
 shortcode: ptncurg
-name: {full: Sovereign Poultice, aliases: ["Potion, Curative, Great"]}
+name: {full: Sovereign Poultice, en: ["Potion, Curative, Great"]}
 type: concoctiongear
 subType: exotic
 description: "Nearly black-green iridescent preparation; heals wounds and ailments."

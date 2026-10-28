@@ -1,6 +1,6 @@
 ---
 shortcode: brynwold
-name: {full: Brynwold, aliases: []}
+name: {full: Brynwold}
 type: place
 subType: region
 description: "The wool uplands of Aldorath—poorer, older and freer than the vale below, running the flocks whose clip is known across Thalorna."

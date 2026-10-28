@@ -1,6 +1,6 @@
 ---
 shortcode: towercities
-name: {full: The Tower Cities, aliases: [The Lantern League]}
+name: {full: The Tower Cities, en: [The Lantern League]}
 type: lore
 subType: history
 description: "A league of caravan cities on the first road across the Khazryn, from about 1000 BF to about 190 BF, whose tall towers were lit at night so a string of camels could march in the cool hours and steer for the next well; the steppe sacked the last of them, and the road still drinks from the wells they dug."

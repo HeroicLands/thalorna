@@ -1,6 +1,6 @@
 ---
 shortcode: arancelavren
-name: {full: Aran Kélavren, given: Aran, clan: Kélavren, aliases: []}
+name: {full: Aran Kélavren, given: Aran, clan: Kélavren}
 type: being
 subType: character
 tags: [draft, embassy-to-tantsou]

@@ -1,6 +1,6 @@
 ---
 shortcode: nyevasaurtha
-name: {full: Nyevasa Úrthavende, aliases: [Sorcerer Nyevasa]}
+name: {full: Nyevasa Úrthavende, en: [Sorcerer Nyevasa]}
 type: being
 subType: npc
 description: A sorcerer, the former master of Selon, who has been destroying enchanted objects throughout the realm, named in Álira Kálmereth and Afzandah Parnazar.

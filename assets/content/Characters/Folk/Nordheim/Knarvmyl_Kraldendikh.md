@@ -1,8 +1,6 @@
 ---
 shortcode: knarvmylkral
-name:
-  full: Knarvmil Kraldendik
-  aliases: [Merchant-Lord Knarvmil Kraldendik, Merchant-Lord Knarvmil]
+name: {full: Knarvmil Kraldendik, en: [Merchant-Lord Knarvmil Kraldendik, Merchant-Lord Knarvmil]}
 type: being
 subType: npc
 description: A coastal merchant prince who wanted to hire Gnurthselda Hafringur's services for a private war against a rival.

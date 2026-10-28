@@ -1,6 +1,6 @@
 ---
 shortcode: stormplain
-name: {full: The Stormplain, aliases: []}
+name: {full: The Stormplain}
 type: place
 subType: region
 description: "The great central plain of Stormveld—the thrall-worked farmland that feeds the Jarldom, and where nearly all its people live."

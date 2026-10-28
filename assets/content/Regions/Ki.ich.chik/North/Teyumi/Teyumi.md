@@ -1,6 +1,6 @@
 ---
 shortcode: teyumi
-name: {full: Teyumi, aliases: [Turquoise People, Ishtem Tsul]}
+name: {full: Turquoise People, kiichek: [Ishtem Tsul], teyu: [teyumi]}
 type: affiliation
 subType: polity
 description: "The Turquoise People of the desert's northern rim, whom the south calls the Bear People: towns of stone great houses ruled by their rain rites, linked by straight roads, keeping the northern gate of the desert trade."

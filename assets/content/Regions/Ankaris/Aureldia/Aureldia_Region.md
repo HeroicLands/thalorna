@@ -1,6 +1,6 @@
 ---
 shortcode: aureldirgn
-name: {full: Aureldia Region, aliases: []}
+name: {full: Aureldia Region}
 type: place
 subType: region
 description: The western heartland of the Aureldian faith—a mosaic of kingdoms, city-states, and island realms bound by the Twelve rather than by crown.

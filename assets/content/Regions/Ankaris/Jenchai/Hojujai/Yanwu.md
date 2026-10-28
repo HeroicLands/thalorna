@@ -1,6 +1,6 @@
 ---
 shortcode: yanwu
-name: {full: Yanwu, aliases: [Cloud Hall]}
+name: {full: Cloud Hall, jurt: [Yanwu]}
 type: place
 subType: settlement
 description: "The castle town of House Hojujai on the slope of Hojai—a granary, a hall and a bathing town, held for a fourteen-year-old lord by his mother."

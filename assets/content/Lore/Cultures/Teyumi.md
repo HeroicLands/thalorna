@@ -1,12 +1,12 @@
 ---
 shortcode: teyumiclt
-name: {full: Teyumi, aliases: []}
+name: {full: Turquoise People, kiichek: [Ishtem Tsul], teyu: [teyumi]}
 type: lore
 subType: culture
 description: "The Turquoise People of the desert's northern rim—their beliefs, their mores, and what they hold a person owes."
 tags: []
 data:
-  language: skill-teyumilng
+  lang: teyu
   glossary:
     - name: "hosa"
       definition: "A great house: a terraced block of many rooms that stores a town's corn and hosts its rites."

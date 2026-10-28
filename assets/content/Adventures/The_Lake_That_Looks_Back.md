@@ -1,6 +1,6 @@
 ---
 shortcode: lakelooksback
-name: {full: The Roof Beneath the Ice, aliases: []}
+name: {full: The Roof Beneath the Ice}
 type: scenario
 subType: adventure
 description: "A day north of the last burned farm the ice at a lake's heart will not melt, and whatever lies under it is looking up."

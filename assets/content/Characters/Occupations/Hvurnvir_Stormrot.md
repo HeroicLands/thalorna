@@ -1,6 +1,6 @@
 ---
 shortcode: hvrnvrstrmrt
-name: {full: Hvurnvir Stormrót, aliases: []}
+name: {full: Hvurnvir Stormrót}
 type: being
 subType: npc
 tags: [draft, common-folk]

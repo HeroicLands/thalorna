@@ -1,6 +1,6 @@
 ---
 shortcode: faithfulrnk
-name: {full: "The Faithful", aliases: []}
+name: {full: The Faithful}
 type: lore
 subType: law
 description: "Those who come for the Blessing of Light and the Night of Dreams, in the faith of Bjart."

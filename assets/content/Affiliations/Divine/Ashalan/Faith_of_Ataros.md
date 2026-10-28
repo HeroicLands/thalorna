@@ -1,6 +1,6 @@
 ---
 shortcode: ataros
-name: {full: Faith of Ataros, aliases: [The Sacred Flame, Fire God, "Ataros, The Sacred Flame"]}
+name: {full: Faith of Ataros, en: [The Sacred Flame, Fire God, "Ataros, The Sacred Flame"]}
 type: affiliation
 subType: faithtradition
 description: "Fire."

@@ -1,6 +1,6 @@
 ---
 shortcode: prynbrmndn
-name: {full: Paryan Barmandan, given: Paryan, clan: Barmandan, aliases: []}
+name: {full: Paryan Barmandan, given: Paryan, clan: Barmandan}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]

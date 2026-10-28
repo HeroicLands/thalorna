@@ -1,6 +1,6 @@
 ---
 shortcode: nbrnfsnn
-name: {full: Niburan Fusanuni, aliases: []}
+name: {full: Niburan Fusanuni}
 type: being
 subType: npc
 tags: [draft, soldiery]

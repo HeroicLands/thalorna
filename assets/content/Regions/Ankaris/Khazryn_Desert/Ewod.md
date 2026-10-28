@@ -1,6 +1,6 @@
 ---
 shortcode: ewod
-name: {full: Evod, aliases: [The Salt Basin]}
+name: {full: Evod, en: [The Salt Basin]}
 type: place
 subType: site
 description: "The dry bed of the lake the Basin Builders lived beside: a white salt flat in the Khoshiqor, edged by stepped mounds and straight canal banks that run out under the sand."

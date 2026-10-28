@@ -1,6 +1,6 @@
 ---
 shortcode: sealingcity
-name: {full: The Sealing of the City, aliases: [Zagath-bugán]}
+name: {full: The Sealing of the City, khaz: [zagath-bugán]}
 type: lore
 subType: literature
 description: "The Khazari lament sung below after the reading of the account of Khazartúrn: the dead laid in their chambers tower by tower, the cleaning counted stair by stair, the skylights unmade, the fountains shut, and the words said once at the gate."
@@ -9,7 +9,7 @@ data:
   packFolder: settinglore
   culture: khazariclt
   form: kamg
-  language: khazarlng
+  lang: khaz
   subjects: [lore-khazarturn, lore-fallkhazturn, lore-grukarapp, miscgear-secondvoice]
 ---
 

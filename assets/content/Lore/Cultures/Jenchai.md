@@ -1,12 +1,12 @@
 ---
 shortcode: jenchaiclt
-name: {full: Jenchai, aliases: []}
+name: {full: Jenchai}
 type: lore
 subType: culture
 description: "The Jenchai—their beliefs, their mores, and what they hold a person owes."
 tags: []
 data:
-  language: skill-jurthatlng
+  lang: jurt
   glossary:
     - name: "Chaiwong"
       definition: '"Kingdom of Mountains and Seas": the mainland''s dismissive name for the islands'

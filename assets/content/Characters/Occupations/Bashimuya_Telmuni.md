@@ -1,6 +1,6 @@
 ---
 shortcode: bshmytlmn
-name: {full: Bashimuya Telmuni, aliases: []}
+name: {full: Bashimuya Telmuni}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

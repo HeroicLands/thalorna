@@ -1,6 +1,6 @@
 ---
 shortcode: braldfjall
-name: {full: Braldfjall, aliases: []}
+name: {full: Braldfjall}
 type: place
 subType: feature
 description: "The mountain of Svartbrandur's most sacred temple, the Flame Temple, whose high priests arm and guide the god's chosen."

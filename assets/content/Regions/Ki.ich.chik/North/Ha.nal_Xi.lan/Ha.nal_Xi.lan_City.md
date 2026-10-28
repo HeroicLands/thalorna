@@ -1,6 +1,6 @@
 ---
 shortcode: hanalxilan2
-name: {full: Ha'nal Shi'lan, aliases: []}
+name: {full: Ha'nal Shi'lan}
 type: place
 subType: settlement
 description: "The trading settlement of the contested river frontier, where the goods of the Maple People, the One Fire and the plains change hands."

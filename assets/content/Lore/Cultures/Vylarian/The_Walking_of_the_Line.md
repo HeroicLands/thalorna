@@ -1,6 +1,6 @@
 ---
 shortcode: walkedline
-name: {full: The Walking of the Line, aliases: [The Sixth Book of the Hallowed Boundary]}
+name: {full: The Walking of the Line, en: [The Sixth Book of the Hallowed Boundary]}
 type: lore
 subType: literature
 description: "The sixth book of the court epic of the Restoration, which the grammar schools set before any other: the Senator who leaves his legions on the river flats, Árdavon's two faces at the first stone, the Empire's ages told in the god's mouth, the six hills walked, the fathers carried out past the line, and the stone left without a name."
@@ -19,7 +19,7 @@ data:
     - lore-vylariages
     - lore-greatburnng
     - lore-vylarianclt
-  language: vylarilng
+  lang: vyl
 
 # terran_analog: "Virgil's Aeneid and the court epic of Augustan Rome, for the long six-beat line, the proem, the founder who gives up his own happiness for the city, the prophecy of a nation's whole history put in a god's mouth after the fact, and the praise of a living patron folded into it; Livy and Ovid's Fasti for the walking of a city's sacred boundary; and the Roman rule that the dead lie outside the city's sacred boundary."
 ---

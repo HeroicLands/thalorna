@@ -1,6 +1,6 @@
 ---
 shortcode: kalicardamom
-name: {full: "Kaliharan Cardamom", aliases: []}
+name: {full: Kaliharan Cardamom}
 type: miscgear
 description: "Cardamom pods packed in a sealed gourd, the island's principal export, passing through Ilovanu to Vedyara, Taruzel and the western kingdoms."
 tags: [kalihara]

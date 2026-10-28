@@ -1,6 +1,6 @@
 ---
 shortcode: eidgar
-name: {full: "Ritual: Eidgar", aliases: [The Just Path]}
+name: {full: "Ritual: Eidgar", en: [The Just Path]}
 type: skill
 subType: mystical
 tags: [asguardian, faith-skill, draft]

@@ -1,6 +1,6 @@
 ---
 shortcode: zbzmjkdn
-name: {full: Zabuzum Jakuduni, given: Zabuzum, clan: Jakuduni, aliases: [Bu]}
+name: {full: Zabuzum Jakuduni, given: Zabuzum, clan: Jakuduni, taru: [Bu]}
 type: being
 subType: character
 tags: [tamzir-crew, tradesfolk]

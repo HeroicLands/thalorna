@@ -1,6 +1,6 @@
 ---
 shortcode: linzethkhlth
-name: {full: Lin'Zethu elu Au'Khelathu, aliases: [The Scribes' Guild of Au'Khelathu]}
+name: {full: Lin'Zethu elu Au'Khelathu, en: [The Scribes' Guild of Au'Khelathu]}
 type: affiliation
 subType: guild
 description: The chartered body of the empire's scribes, which sets the hands, examines the pupils, and guards the standing of a trade the whole administration rests on

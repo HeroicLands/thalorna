@@ -1,6 +1,6 @@
 ---
 shortcode: dvalgheim
-name: {full: Dvalgheim, aliases: []}
+name: {full: Dvalgheim}
 type: place
 subType: settlement
 description: "Settlement"

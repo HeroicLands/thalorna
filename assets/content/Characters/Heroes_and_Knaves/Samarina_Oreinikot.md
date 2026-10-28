@@ -1,6 +1,6 @@
 ---
 shortcode: smrnorenkt
-name: {full: Samarina Oreinikot, given: Samarina, clan: Oreinikot, aliases: []}
+name: {full: Samarina Oreinikot, given: Samarina, clan: Oreinikot}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]

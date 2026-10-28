@@ -1,6 +1,6 @@
 ---
 shortcode: hrldhlmsly
-name: {full: Harwald Helmsley, aliases: []}
+name: {full: Harwald Helmsley}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

@@ -1,6 +1,6 @@
 ---
 shortcode: kngdmldrth
-name: {full: Kingdom of Aldorath, aliases: []}
+name: {full: Kingdom of Aldorath}
 type: affiliation
 subType: polity
 description: "Chivalric kingdom surrounding Aelwyth's great central lake—feudal, mystical, and deeply intertwined with prophecy and the legends of the lake's ancient power."

@@ -1,6 +1,6 @@
 ---
 shortcode: kelwanuk
-name: {full: Kelwanuk, aliases: [Cedar People, "Ish'bal Ki'ahk"]}
+name: {full: Cedar People, kelw: [kelwanuk], kiichek: [Ish'bal Ki'ahk]}
 type: affiliation
 subType: polity
 description: "The Cedar People of the western coast, whom the south calls the Eagle People: plank-house villages on the salmon rivers, noble houses ranked by what they give, and no rule above the house."

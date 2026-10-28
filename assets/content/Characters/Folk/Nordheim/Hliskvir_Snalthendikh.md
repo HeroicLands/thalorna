@@ -1,6 +1,6 @@
 ---
 shortcode: hliskvirsnal
-name: {full: Hliskvir Snalthendik, aliases: [Councilor Hliskvir Snalthendik]}
+name: {full: Hliskvir Snalthendik, en: [Councilor Hliskvir Snalthendik]}
 type: being
 subType: npc
 description: A councilor who views military power as a threat to his authority, named in Gnaldurthann Solvargur.

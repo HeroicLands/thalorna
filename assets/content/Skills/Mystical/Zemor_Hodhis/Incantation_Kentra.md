@@ -1,6 +1,6 @@
 ---
 shortcode: kentra
-name: {full: Incantation Kentra, aliases: []}
+name: {full: Incantation Kentra}
 type: skill
 subType: mystical
 tags: [zemor-hodhis, draft]

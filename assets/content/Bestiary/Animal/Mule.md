@@ -1,6 +1,6 @@
 ---
 shortcode: mule
-name: {full: Mule, aliases: []}
+name: {full: Mule}
 type: being
 subType: creature
 description: "A sturdy donkey-horse hybrid combining a donkey's compact toughness with a horse's muscular agility, a hardy pack and draft animal of surefooted temperament."

@@ -1,6 +1,6 @@
 ---
 shortcode: shirangolsha
-name: {full: Shiran Golshani, aliases: [Lady Shiran Golshani, Lady Shiran]}
+name: {full: Shiran Golshani, en: [Lady Shiran Golshani, Lady Shiran]}
 type: being
 subType: npc
 description: A widow and collector of sacred objects who has commissioned three major pieces, named in Darzash Shavan.

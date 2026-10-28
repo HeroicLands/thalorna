@@ -1,6 +1,6 @@
 ---
 shortcode: gntmntrlzrd
-name: {full: Giant Monitor Lizard, aliases: []}
+name: {full: Giant Monitor Lizard}
 type: being
 subType: creature
 description: "The largest living lizard, a heavily muscled nine-to-ten-foot reptile whose broad-jawed, coarse-scaled body makes it a formidable ambush hunter."

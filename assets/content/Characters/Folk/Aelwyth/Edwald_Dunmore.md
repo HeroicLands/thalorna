@@ -1,6 +1,6 @@
 ---
 shortcode: edwalddunmor
-name: {full: Edwald Dunmore, aliases: [Father Edwald]}
+name: {full: Edwald Dunmore, aelw: [Father Edwald]}
 type: being
 subType: npc
 description: A priest of the Temple of Ólvenia in Ashford who views Dunith Chilton as a useful asset but no more than that.

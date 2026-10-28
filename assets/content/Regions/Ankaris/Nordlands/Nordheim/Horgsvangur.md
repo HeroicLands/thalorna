@@ -1,6 +1,6 @@
 ---
 shortcode: horgsvangur
-name: {full: Horgsvangur, aliases: []}
+name: {full: Horgsvangur}
 type: place
 subType: settlement
 description: "Ritual Site / Ancient Settlement"

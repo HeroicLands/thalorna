@@ -1,6 +1,6 @@
 ---
 shortcode: rdrnvthrnd
-name: {full: Radrún yra Vithrúnd wur Grimholt, aliases: []}
+name: {full: Radrún yra Vithrúnd wur Grimholt}
 type: being
 subType: npc
 tags: [draft, underworld]

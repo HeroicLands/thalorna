@@ -1,6 +1,6 @@
 ---
 shortcode: pozeras
-name: {full: "Ritual: Pozeras", aliases: [Pozeras, The Wayfarer]}
+name: {full: "Ritual: Pozeras", en: [The Wayfarer], vyl: [Pozeras]}
 type: skill
 subType: mystical
 tags: [aureldian, faith-skill, draft]

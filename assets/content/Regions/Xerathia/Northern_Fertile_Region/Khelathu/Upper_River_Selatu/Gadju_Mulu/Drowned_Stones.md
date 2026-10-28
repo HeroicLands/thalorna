@@ -1,6 +1,6 @@
 ---
 shortcode: drownstones
-name: {full: The Drowned Stones, aliases: []}
+name: {full: The Drowned Stones}
 type: place
 subType: site
 description: "Stone walls carved with symbols that are not Khelathi, standing beneath the waterline in the southern marsh inside the Zeghet'Nelgu's charter, with lights that move under the water at night; the temples will not date them."

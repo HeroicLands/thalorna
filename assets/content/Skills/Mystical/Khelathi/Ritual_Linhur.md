@@ -1,6 +1,6 @@
 ---
 shortcode: rituallinhur
-name: {full: "Ritual: Linhur", aliases: [Patron of the Hunt]}
+name: {full: "Ritual: Linhur", en: [Patron of the Hunt]}
 type: skill
 subType: mystical
 tags: [khelathi, faith-skill, draft]

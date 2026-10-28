@@ -1,6 +1,6 @@
 ---
 shortcode: agrnsntn
-name: {full: Aegiron Sentinel, aliases: []}
+name: {full: Aegiron Sentinel}
 type: being
 subType: creature
 description: "An eight-foot construct of interlocking iron plates, forged by arcane engineering to guard sacred sites, treasures, and treasured individuals."

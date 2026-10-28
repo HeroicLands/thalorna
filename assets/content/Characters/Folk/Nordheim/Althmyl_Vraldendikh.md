@@ -1,6 +1,6 @@
 ---
 shortcode: althmylvrald
-name: {full: Althmil Vraldendik, aliases: [Lord Althmil Vraldendik]}
+name: {full: Althmil Vraldendik, en: [Lord Althmil Vraldendik]}
 type: being
 subType: npc
 description: A lord and patriarch of a house that values quality and tradition and commissions specialized glassware and tableware, named in Thalmthann Solvargur and Thulmvir Snarvaruk.

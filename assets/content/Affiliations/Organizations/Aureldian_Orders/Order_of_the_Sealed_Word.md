@@ -2,7 +2,8 @@
 shortcode: ordrsldwrd
 name:
   full: The Order of the Sealed Word
-  aliases: [Thizarlambizon, The Sealed Hand, The Oath-Wardens]
+  en: [The Sealed Hand, The Oath-Wardens]
+  vyl: [Thizarlambizon]
 type: affiliation
 subType: order
 description: "Sworn knightly enforcers of binding oaths and contracts under Árdavon—answering when civil law fails to compel the oath-breaker who once swore the binding word."

@@ -1,6 +1,6 @@
 ---
 shortcode: gronhond
-name: {full: "Gronhond", aliases: []}
+name: {full: Gronhond}
 type: affiliation
 subType: order
 description: "Herb-lore and healing in Frodvin's service."

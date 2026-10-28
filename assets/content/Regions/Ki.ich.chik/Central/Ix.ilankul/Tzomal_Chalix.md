@@ -1,6 +1,6 @@
 ---
 shortcode: tzomalchalix
-name: {full: "Ts'omal Ch'alish", aliases: [The Sacred Foundation]}
+name: {full: The Sacred Foundation, kiichek: [Ts'omal Ch'alish]}
 type: place
 subType: site
 description: "The holiest site in Ki'ich'chik, a precinct at the heart of Kul'taq'an around the volcanic vent where P'iqal Kul'qat first breathed the world into being, crowned by the Ts'ultel Ch'alish."

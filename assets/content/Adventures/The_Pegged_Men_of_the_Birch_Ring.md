@@ -1,6 +1,6 @@
 ---
 shortcode: pggdmnbrchrng
-name: {full: Eight Birches Wound in Silver, aliases: []}
+name: {full: Eight Birches Wound in Silver}
 type: scenario
 subType: adventure
 description: "Silver pegs and wire bind eight birches in a forest hollow where every straight path ends, and each dusk the ring takes one more walker."

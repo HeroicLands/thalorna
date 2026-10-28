@@ -1,6 +1,6 @@
 ---
 shortcode: thrunborg
-name: {full: Thrunborg, aliases: []}
+name: {full: Thrunborg}
 type: place
 subType: settlement
 description: "Fortified Town / Capital"

@@ -1,6 +1,6 @@
 ---
 shortcode: zalrnlyskl
-name: {full: Zalren Liskal, aliases: []}
+name: {full: Zalren Liskal}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

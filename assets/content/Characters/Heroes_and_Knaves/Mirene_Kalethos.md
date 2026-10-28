@@ -4,7 +4,7 @@ name:
   full: Mirene Kalethos
   given: Mirene
   clan: Kalethos
-  aliases: [The Mendicant Priestess of the Black Flame]
+  en: [The Mendicant Priestess of the Black Flame]
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, clergy]

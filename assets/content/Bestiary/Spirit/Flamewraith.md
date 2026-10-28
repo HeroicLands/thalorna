@@ -1,6 +1,6 @@
 ---
 shortcode: flmwrth
-name: {full: Flamewraith, aliases: []}
+name: {full: Flamewraith}
 type: being
 subType: creature
 description: "A volatile fire-spirit born from pyromancers consumed by their own infernos, drawn to flame and capable of devastating whole regions once unbound."

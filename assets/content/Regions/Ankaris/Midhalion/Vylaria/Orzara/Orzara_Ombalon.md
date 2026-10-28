@@ -1,6 +1,6 @@
 ---
 shortcode: aulpnpstmm
-name: {full: Ombalon, aliases: [The Ombalon, Court of the Academy]}
+name: {full: Court of the Academy, en: [The Ombalon], vyl: [Ombalon]}
 type: place
 subType: settlement
 description: "The Ombalon, the ceremonial inner seat of the Epistémion within Arvon—no place of teaching but a palace of counsel and keeping, where the Academy's most senior scholars answer the throne's questions and guard the Notral Sevan, the warded library of the rarest and most dangerous knowledge in the Empire."

@@ -1,6 +1,6 @@
 ---
 shortcode: aelendnppl
-name: {full: Áelendan People, aliases: [People of the Pact]}
+name: {full: Áelendan People, en: [People of the Pact]}
 type: lore
 subType: folk
 description: "Mountain dwellers who preserve the ancestral Pelwar ways and hold sacred pact with the land itself through unwritten tradition, ritual, and kinship with fae beings."

@@ -1,6 +1,6 @@
 ---
 shortcode: forestnoroad
-name: {full: The Forest of No Road, aliases: []}
+name: {full: The Forest of No Road}
 type: place
 subType: site
 description: "The forest below the Eastern Reach that no janpoda has ever sent an assembly into, where Sinale enclaves are rumored and nobody's rumor has ever been confirmed."

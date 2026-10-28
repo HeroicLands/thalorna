@@ -1,6 +1,6 @@
 ---
 shortcode: palmleafms
-name: {full: "Rajavali Palm-Leaf Manuscript", aliases: []}
+name: {full: Rajavali Palm-Leaf Manuscript}
 type: miscgear
 description: "A bound sheaf of palm-leaf pages from the Rajavali Library, carrying a chronicle, treaty or legal text in the old abjad."
 tags: []

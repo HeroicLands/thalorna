@@ -1,6 +1,6 @@
 ---
 shortcode: ixbaltzakurgn
-name: {full: Ish'bal Tsa'ku Region, aliases: []}
+name: {full: Ish'bal Tsa'ku Region}
 type: place
 subType: region
 description: "Snow-crowned mountains, terraced highlands and jungle river valleys—the land of Ish'bal Tsa'ku, in Southern Ki'ich'chik."

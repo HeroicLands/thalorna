@@ -1,6 +1,6 @@
 ---
 shortcode: gnarthborg
-name: {full: Gnarthborg, aliases: []}
+name: {full: Gnarthborg}
 type: place
 subType: settlement
 description: "Fortified Town"

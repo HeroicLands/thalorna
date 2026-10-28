@@ -1,6 +1,6 @@
 ---
 shortcode: zezabu2
-name: {full: Mathaku, aliases: []}
+name: {full: Mathaku}
 type: being
 subType: npc
 description: "A celebrated builder and engineer whose works stand, which in his trade is the whole of the argument"

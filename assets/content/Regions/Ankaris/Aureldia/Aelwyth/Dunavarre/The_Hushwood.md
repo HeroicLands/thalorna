@@ -1,6 +1,6 @@
 ---
 shortcode: hushwood
-name: {full: The Hushwood, aliases: [The Saelvri Wood]}
+name: {full: The Hushwood, en: [The Saelvri Wood]}
 type: place
 subType: site
 description: "The blood-field of the Saelvri crusade, a silence in the wooded foothills above Dúnavarre where the last of a forest people were killed about 703 AF, and the newest field in Aureldia."

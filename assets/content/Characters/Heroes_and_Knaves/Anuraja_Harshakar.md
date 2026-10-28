@@ -1,6 +1,6 @@
 ---
 shortcode: anrjhrshkr
-name: {full: Anuraja Harshakar, given: Anuraja, clan: Harshakar, aliases: [Anva]}
+name: {full: Anuraja Harshakar, given: Anuraja, clan: Harshakar, vedy: [anva]}
 type: being
 subType: character
 tags: [heroes-and-knaves, underworld]

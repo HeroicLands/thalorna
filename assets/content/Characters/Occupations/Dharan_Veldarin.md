@@ -1,6 +1,6 @@
 ---
 shortcode: dharnvldrn
-name: {full: Daran Véldarin, aliases: []}
+name: {full: Daran Véldarin}
 type: being
 subType: npc
 tags: [todo, draft, clergy]

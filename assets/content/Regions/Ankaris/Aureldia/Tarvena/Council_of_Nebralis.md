@@ -1,6 +1,6 @@
 ---
 shortcode: cnclnbrls
-name: {full: Council of Nebralis, aliases: []}
+name: {full: Council of Nebralis}
 type: affiliation
 subType: polity
 description: "The governing council of Nebralis, a port town in Tarvénia."

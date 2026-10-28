@@ -1,6 +1,6 @@
 ---
 shortcode: qarquzu
-name: {full: Qar'kuzu, aliases: []}
+name: {full: Qar'kuzu}
 type: lore
 subType: arcana
 description: "The truth that judges, and one of the two that frame the other six."

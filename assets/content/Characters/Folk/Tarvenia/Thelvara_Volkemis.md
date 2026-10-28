@@ -1,6 +1,6 @@
 ---
 shortcode: thelvaravolk
-name: {full: Thélvara Volkemis, aliases: [Priestess-Keeper Thélvara]}
+name: {full: Thélvara Volkemis, en: [Priestess-Keeper Thélvara]}
 type: being
 subType: npc
 description: The keeper of Ólvenia's temple, named in Dometh Graveth.

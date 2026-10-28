@@ -1,6 +1,6 @@
 ---
 shortcode: varokhlng
-name: {full: Varokhi Language, aliases: [Varokhi]}
+name: {full: Varokhi Language, en: [Varokhi]}
 type: skill
 subType: language
 description: "The unwritten tongue of the Vristwald tribes, long drifted from its Pelwar roots and carried wholly on breath and memory."

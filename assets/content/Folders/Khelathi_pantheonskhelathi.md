@@ -1,6 +1,6 @@
 ---
 shortcode: pantheonskhelathi
-name: {full: Khelathi, aliases: []}
+name: {full: Khelathi}
 type: folder
 data: {parent: pantheons, color: "#BA55D3"}
 ---

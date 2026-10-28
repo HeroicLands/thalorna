@@ -1,6 +1,6 @@
 ---
 shortcode: yeshirotrb
-name: {full: Yéshiro Tribe, aliases: []}
+name: {full: Yéshiro Tribe}
 type: affiliation
 subType: polity
 description: A forest tribe of the Okharis that tans hides with acacia bark.

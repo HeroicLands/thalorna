@@ -1,6 +1,6 @@
 ---
 shortcode: zhoushouzhodty
-name: {full: Zhoushou Zho, aliases: []}
+name: {full: Zhoushou Zho}
 type: lore
 subType: deity
 description: "Lord of Water in the Tengwou Rong Lei—one of the five Elemental Lords, holding water as an office of the celestial bureaucracy."

@@ -1,6 +1,6 @@
 ---
 shortcode: jalnazdal
-name: {full: Jalnasdal, aliases: []}
+name: {full: Jalnasdal}
 type: place
 subType: settlement
 description: "The capital of Provenzia on the warm southern shore—the Crown's seat, the home of the Cotiere speech, and the city where the long argument between the crown and the Council of Peers is conducted."

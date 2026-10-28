@@ -1,6 +1,6 @@
 ---
 shortcode: ashvapada
-name: {full: Ashvapada, aliases: []}
+name: {full: Ashvapada}
 type: place
 subType: settlement
 description: "The horse fair of the march, where the road turns west under the foothills—the crown's second escort-stage, and the largest gathering of animals anywhere in Vedyara."

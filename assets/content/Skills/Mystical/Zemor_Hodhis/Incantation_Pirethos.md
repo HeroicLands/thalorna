@@ -1,6 +1,6 @@
 ---
 shortcode: pirethos
-name: {full: Incantation Pirethos, aliases: []}
+name: {full: Incantation Pirethos}
 type: skill
 subType: mystical
 tags: [zemor-hodhis, draft]

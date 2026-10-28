@@ -1,6 +1,6 @@
 ---
 shortcode: thronelnz
-name: {full: The Throne at Lenen-Nezut, aliases: []}
+name: {full: The Throne at Lenen-Nezut}
 type: lore
 subType: history
 description: "In 1462 ST the upriver house of Geze'el'Anlaghu was crowned in its own city as Zab'el'Psaqa I, and for sixty-nine years three of its Gar-Auu reigned from Lenen-Nezut and were buried there, while the king-list gave no reign to the claimants who held the delta."

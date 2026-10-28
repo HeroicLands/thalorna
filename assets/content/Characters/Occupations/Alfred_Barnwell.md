@@ -1,6 +1,6 @@
 ---
 shortcode: alfrdbrnwl
-name: {full: Wilred Barnwell, aliases: [Thalos Graymoor]}
+name: {full: Wilred Barnwell, aelw: [Thalos Graymoor]}
 type: being
 subType: npc
 tags: [draft, mages]

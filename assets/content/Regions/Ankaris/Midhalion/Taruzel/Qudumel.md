@@ -1,6 +1,6 @@
 ---
 shortcode: qudumel
-name: {full: Kudumel, aliases: []}
+name: {full: Kudumel}
 type: affiliation
 subType: polity
 description: "Easternmost city-state of Taruzel, facing the mainland across the strait, at the crossroads of sea and caravan routes—dusty, polyglot gateway where Taruzelian merchants negotiate with Dunhari caravaneers and desert nomads."

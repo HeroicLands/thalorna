@@ -1,6 +1,6 @@
 ---
 shortcode: hvrnthnstrmrt
-name: {full: Hvarnthann Stormrót, given: Hvarnthann, clan: Stormrót, aliases: []}
+name: {full: Hvarnthann Stormrót, given: Hvarnthann, clan: Stormrót}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]

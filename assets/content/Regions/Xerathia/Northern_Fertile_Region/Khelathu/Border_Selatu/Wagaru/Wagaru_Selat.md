@@ -1,6 +1,6 @@
 ---
 shortcode: wagaruselat
-name: {full: Wagaru Selat, aliases: []}
+name: {full: Wagaru Selat}
 type: place
 subType: region
 description: "The southern gold-road; mines, caravan-stations, and tribute-collection—the land of the Selat of Wagaru, one of the border selatu of Au'Khelathu."

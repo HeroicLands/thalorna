@@ -1,6 +1,6 @@
 ---
 shortcode: drottmadurrnk
-name: {full: "Drottmadur", aliases: ["Devotee of the Order"]}
+name: {full: Drottmadur, en: [Devotee of the Order]}
 type: lore
 subType: law
 description: "The ordinary member of a devotional order of the faiths of the Ten, holding the least standing it confers."

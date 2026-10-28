@@ -1,6 +1,6 @@
 ---
 shortcode: thrallrivers
-name: {full: The Thrall Rivers, aliases: [The Killing at the Waldburg Market, The First Frithmund]}
+name: {full: The Thrall Rivers, en: [The Killing at the Waldburg Market, The First Frithmund]}
 type: lore
 subType: history
 description: "From 660 AF, when the Nordmen took Stormveld and needed thralls by the tens of thousands, captives went down Vristwald's rivers by the boatload; Waldburg grew past every limit, and about 672 a killing at its crowded market gave the market peace its present form and its first Frithmund."

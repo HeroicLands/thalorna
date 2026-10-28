@@ -1,6 +1,6 @@
 ---
 shortcode: hvirnorv
-name: {full: Hvirnorv, aliases: [Alderman Hvirnorv]}
+name: {full: Hvirnorv, en: [Alderman Hvirnorv]}
 type: being
 subType: npc
 description: An alderman of the Guildhall and strict moralist who views jesters as dangerous corruptors of virtue, named in Tvalgthann Bletholl.

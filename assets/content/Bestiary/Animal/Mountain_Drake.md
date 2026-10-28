@@ -1,6 +1,6 @@
 ---
 shortcode: mntndrk
-name: {full: Mountain Drake, aliases: []}
+name: {full: Mountain Drake}
 type: being
 subType: creature
 description: "A lean, granite-scaled reptilian predator up to eight feet long, spined along the back and built to climb and ambush across rocky mountain terrain."

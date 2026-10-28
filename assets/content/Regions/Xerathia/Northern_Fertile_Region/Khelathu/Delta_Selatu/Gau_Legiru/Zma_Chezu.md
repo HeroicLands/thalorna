@@ -1,6 +1,6 @@
 ---
 shortcode: zmachezu
-name: {full: Zma-Chezu, aliases: []}
+name: {full: Zma-Chezu}
 type: place
 subType: settlement
 description: "One of the orchard villages of the Gau-Legiru garden strip, living by its groves and its press"

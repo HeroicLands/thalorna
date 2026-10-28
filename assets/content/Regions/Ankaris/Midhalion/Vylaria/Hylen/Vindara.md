@@ -1,6 +1,6 @@
 ---
 shortcode: vindara
-name: {full: Vindara, aliases: []}
+name: {full: Vindara}
 type: place
 subType: settlement
 description: "Town"

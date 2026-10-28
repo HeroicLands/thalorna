@@ -1,6 +1,6 @@
 ---
 shortcode: kelwanukrgn
-name: {full: Kelwanuk Region, aliases: []}
+name: {full: Kelwanuk Region}
 type: place
 subType: region
 description: "Western fjords, cedar rainforest and salmon rivers between the sea and a wall of volcanic peaks—the land of the Cedar People, on the far western coast of Northern Ki'ich'chik."

@@ -1,6 +1,6 @@
 ---
 shortcode: shdwvl
-name: {full: Shadowveil, aliases: []}
+name: {full: Shadowveil}
 type: mysticalability
 subType: arcaneincantation
 description: "Wraps in darkness; grants concealment within shadowed areas."

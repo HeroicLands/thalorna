@@ -1,6 +1,6 @@
 ---
 shortcode: mahaprbhva
-name: {full: Mahaprabhava, aliases: []}
+name: {full: Mahaprabhava}
 type: place
 subType: site
 description: "The source of the Mahanodi—the widest of the four glacier-mouths, the easiest to reach, and the one the great pilgrimage actually goes to."

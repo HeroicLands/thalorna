@@ -1,6 +1,6 @@
 ---
 shortcode: daryanardh
-name: {full: Darva Nareth, aliases: []}
+name: {full: Darva Nareth}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]

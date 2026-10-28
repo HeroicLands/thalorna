@@ -1,6 +1,6 @@
 ---
 shortcode: khazariadvguide
-name: {full: Khazari Adventurer's Guide, aliases: []}
+name: {full: Khazari Adventurer's Guide}
 type: doc
 subType: settingguide
 description: A player and GM introduction to the Khazari, the elder people of the cliff-face holds—what a party meets at a hold's gate, how a hold lives and judges, what it remembers, and the ways a campaign reaches it.

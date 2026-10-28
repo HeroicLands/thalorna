@@ -1,6 +1,6 @@
 ---
 shortcode: brwnbr
-name: {full: Brown Bear, aliases: []}
+name: {full: Brown Bear}
 type: being
 subType: creature
 description: "A colossal, fiercely territorial apex predator of boreal and alpine wilds, the most dangerous large hunter of the northern hemisphere."

@@ -1,6 +1,6 @@
 ---
 shortcode: hntrsrng
-name: {full: The Hunter's Ring, aliases: [Pálmirno]}
+name: {full: The Hunter's Ring, aele: [pálmirno]}
 type: place
 subType: site
 description: "A ring of carved boundary stones on the outer margin of the Silver Forests, with an empty keepers' lodge at its edge, that holds the ground of a fae hunter which takes whoever walks alone inside it."

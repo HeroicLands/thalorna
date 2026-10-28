@@ -1,6 +1,6 @@
 ---
 shortcode: lenenneztslt
-name: {full: Lenen-Nezut Selat, aliases: []}
+name: {full: Lenen-Nezut Selat}
 type: place
 subType: region
 description: "An old capital of a former dynasty, proud and faded; ram-cult and horse-pasture—the land of the Selat of Lenen-Nezut, one of the upper-river selatu of Au'Khelathu."

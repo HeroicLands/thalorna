@@ -1,8 +1,6 @@
 ---
 shortcode: thraskrinnag
-name:
-  full: Thraskrinna Gnuldurthanndottir
-  aliases: [Lady Viscountess Thraskrinna Gnuldurthanndottir]
+name: {full: Thraskrinna Gnuldurthanndottir, en: [Lady Viscountess Thraskrinna Gnuldurthanndottir]}
 type: being
 subType: npc
 description: A powerful noblewoman, styled Lady Viscountess, who is Skraldthann Hrafansvald's most consistent patron.

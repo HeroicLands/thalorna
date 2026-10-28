@@ -1,6 +1,6 @@
 ---
 shortcode: thldrdrthgr
-name: {full: Thaldrá yra Druthgar wur Thornhaven, aliases: []}
+name: {full: Thaldrá yra Druthgar wur Thornhaven}
 type: being
 subType: npc
 tags: [draft, common-folk]

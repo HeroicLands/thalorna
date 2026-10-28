@@ -1,6 +1,6 @@
 ---
 shortcode: zmarelepet
-name: {full: Zma-Relepet, aliases: []}
+name: {full: Zma-Relepet}
 type: place
 subType: settlement
 description: "A grain-village of the Anlagh-Zetun basin, rendering its measure to the granaries and living by what the flood leaves behind"

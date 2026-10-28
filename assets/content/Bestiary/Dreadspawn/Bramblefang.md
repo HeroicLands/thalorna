@@ -1,6 +1,6 @@
 ---
 shortcode: brmblfng
-name: {full: Bramblefang, aliases: []}
+name: {full: Bramblefang}
 type: being
 subType: creature
 description: "A made woodland apex predator that blends indistinguishably into thickets, striking from shadow-touched forests and groves."

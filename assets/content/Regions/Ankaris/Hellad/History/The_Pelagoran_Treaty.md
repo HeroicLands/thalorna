@@ -1,6 +1,6 @@
 ---
 shortcode: heladpelagtrty
-name: {full: The Pelagoran Treaty, aliases: [The Separate Peace]}
+name: {full: The Pelagoran Treaty, en: [The Separate Peace]}
 type: lore
 subType: history
 description: "In 314 BF, with Theradon and Korinthea fallen, Pelagora's assembly votes to treat alone, and its strátimor makes the terms: the city becomes the Republic's naval ally, keeps its fleet, its walls and its overseas daughter-cities, and lends its ships to the blockade of the cities still fighting."

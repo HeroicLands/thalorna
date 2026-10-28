@@ -1,6 +1,6 @@
 ---
 shortcode: chelsurdty
-name: {full: Chelsur, aliases: []}
+name: {full: Chelsur}
 type: lore
 subType: deity
 tags: [draft]

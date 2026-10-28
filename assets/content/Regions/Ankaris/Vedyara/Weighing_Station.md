@@ -1,6 +1,6 @@
 ---
 shortcode: weighingstn
-name: {full: The Weighing-Station, aliases: []}
+name: {full: The Weighing-Station}
 type: place
 subType: structure
 description: "The open shed at Middle Suvargeri where the month's gold is weighed in public at each new moon, and the whole Gold Constitution rests on it."

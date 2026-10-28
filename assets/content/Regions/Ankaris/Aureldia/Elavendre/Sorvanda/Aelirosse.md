@@ -1,6 +1,6 @@
 ---
 shortcode: aelirosse
-name: {full: Aelirosse, aliases: []}
+name: {full: Aelirosse}
 type: place
 subType: settlement
 description: "The Sinale enclave of the Silver Forests—the longest-standing of the three, seated near the Uron Tekhi and closer to the Áelendan than any Sinalean community elsewhere in the world."

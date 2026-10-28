@@ -1,6 +1,6 @@
 ---
 shortcode: auricompct
-name: {full: Auric Compact, aliases: []}
+name: {full: Auric Compact}
 type: affiliation
 subType: venture
 description: "Taruzelian banking cartel wielding financial leverage to dominate the post-independence Confederation and control commerce across the Vylarian Sea."

@@ -1,6 +1,6 @@
 ---
 shortcode: ilovren
-name: {full: Ilovren, aliases: []}
+name: {full: Ilovren}
 type: place
 subType: settlement
 description: "A lordship of Keravel Vale and stronghold of Kilan Ilovrel, who secretly feeds the vale's bandits for his own ends and the Black Flame's."

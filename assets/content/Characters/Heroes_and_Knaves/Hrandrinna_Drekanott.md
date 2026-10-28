@@ -1,6 +1,6 @@
 ---
 shortcode: hrndrndrknt
-name: {full: Hrandrinna Drekanótt, given: Hrandrinna, clan: Drekanótt, aliases: []}
+name: {full: Hrandrinna Drekanótt, given: Hrandrinna, clan: Drekanótt}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]

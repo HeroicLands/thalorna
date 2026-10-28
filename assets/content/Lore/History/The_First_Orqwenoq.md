@@ -1,6 +1,6 @@
 ---
 shortcode: frstorqwnq
-name: {full: The First Orkunoq, aliases: [The Lantern Union]}
+name: {full: The First Orkunoq, en: [The Lantern Union]}
 type: lore
 subType: history
 description: "About 190 BF the steppe tribes are forced together for the first time under one orkun, who demands tribute of the Tower Cities and kills their chief city, Jilaq, when it refuses; the union breaks up on the orkun's death and the count of the Lantern Union begins."

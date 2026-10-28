@@ -1,6 +1,6 @@
 ---
 shortcode: ethalosse
-name: {full: Ethalosse, aliases: []}
+name: {full: Ethalosse}
 type: place
 subType: settlement
 description: "The threshold enclave on the edge of the Áelendan tribal lands—small, deliberately placed, and the point through which the Sinale deal with the rest of humanity by way of Áelendan intermediaries."

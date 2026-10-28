@@ -4,7 +4,7 @@ name:
   full: Vrathmil Firehair
   given: Vrathmil
   clan: Draskaruk
-  aliases: [Firehair, the Shipwright's Son]
+  en: [Firehair, the Shipwright's Son]
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, guilded, tradesfolk]

@@ -1,6 +1,6 @@
 ---
 shortcode: kelnstylgn
-name: {full: Kelena Estilgon, given: Kelena, clan: Estilgon, aliases: []}
+name: {full: Kelena Estilgon, given: Kelena, clan: Estilgon}
 type: being
 subType: character
 tags: [heroes-and-knaves, administration]

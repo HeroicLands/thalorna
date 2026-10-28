@@ -1,6 +1,6 @@
 ---
 shortcode: ritualrethsr
-name: {full: "Ritual: Reth'Sa'ar", aliases: [The Scribe of the Eternal Library]}
+name: {full: "Ritual: Reth'Sa'ar", en: [The Scribe of the Eternal Library]}
 type: skill
 subType: mystical
 tags: [khelathi, faith-skill, draft]

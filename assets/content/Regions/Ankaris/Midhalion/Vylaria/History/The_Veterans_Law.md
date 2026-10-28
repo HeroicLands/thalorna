@@ -1,6 +1,6 @@
 ---
 shortcode: veteranslaw
-name: {full: The Veterans' Law, aliases: [The Law of Arkanamos, The Soldier's Bargain]}
+name: {full: The Veterans' Law, en: [The Law of Arkanamos, The Soldier's Bargain]}
 type: lore
 subType: history
 description: "About 34 AF the second Orzas, Arkanamos, makes citizenship the reward of twenty years under the eagles and ties the grain dole and the right to live inside the thrima to it, leaving the nobility the only citizens by birth."

@@ -1,6 +1,6 @@
 ---
 shortcode: bldfldmalnebris
-name: {full: Blood-field of Malnebris, aliases: []}
+name: {full: Blood-field of Malnebris}
 type: place
 subType: site
 description: "The blood-field of the eastern frontier—a recurrence that replays every campaign season, and the only one in Provenzia still being added to."

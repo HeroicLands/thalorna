@@ -1,6 +1,6 @@
 ---
 shortcode: thrvrdhscrpt
-name: {full: Thurarth Script, aliases: []}
+name: {full: Thurarth Script}
 type: skill
 subType: script
 description: "The old Áelendan runes—the softened western branch of the graven work, used for carving: monuments, old magic and poetry."

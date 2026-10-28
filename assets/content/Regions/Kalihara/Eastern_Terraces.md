@@ -1,6 +1,6 @@
 ---
 shortcode: klhrestrrc
-name: {full: The Eastern Terraces, aliases: []}
+name: {full: The Eastern Terraces}
 type: place
 subType: feature
 description: "The cleared and terraced country of Kalihara's Bowl, along the eastern and southern shores of the lake and up the inner face of the Ring, where the lineages grow most of the interior's food."

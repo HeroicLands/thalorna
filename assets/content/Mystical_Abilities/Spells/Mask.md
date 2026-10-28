@@ -1,6 +1,6 @@
 ---
 shortcode: mask
-name: {full: Mask, aliases: []}
+name: {full: Mask}
 type: mysticalability
 subType: arcaneincantation
 description: "Illusion hiding caster's identity and appearance; deeply deceptive."

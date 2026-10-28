@@ -1,6 +1,6 @@
 ---
 shortcode: porsandspr
-name: {full: "Korsand, the Grey Wolf of the Ridge", aliases: []}
+name: {full: "Korsand, the Grey Wolf of the Ridge"}
 type: lore
 subType: spirit
 description: "Presiding wolf-spirit of a ridge in the Drenavar Spine—the hunt-rite's usual addressee, and a hard reciprocator."

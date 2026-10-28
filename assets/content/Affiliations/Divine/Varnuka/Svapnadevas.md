@@ -1,6 +1,6 @@
 ---
 shortcode: svapnadevas
-name: {full: Svapnadevas, aliases: [The Dreaming Host, The Celestial Host of Dreams]}
+name: {full: The Dreaming Host, en: [The Celestial Host of Dreams], vedy: [svapnadevas]}
 type: affiliation
 subType: faithtradition
 description: "The celestial court, a host of spirits who weave dreams, carry omens, and stand between mortal minds and the divine order."

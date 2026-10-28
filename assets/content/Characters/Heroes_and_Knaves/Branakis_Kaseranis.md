@@ -1,6 +1,6 @@
 ---
 shortcode: brnksksrns
-name: {full: Branakis Kaseranis, given: Branakis, clan: Kaseranis, aliases: []}
+name: {full: Branakis Kaseranis, given: Branakis, clan: Kaseranis}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, common-folk]

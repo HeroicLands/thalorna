@@ -1,6 +1,6 @@
 ---
 shortcode: pelwarpepl
-name: {full: Pelwar People, aliases: []}
+name: {full: Pelwar People}
 type: lore
 subType: folk
 description: "Ancestral nomadic peoples whose migrations across Ankaris gave rise to modern kingdoms and whose language family still echoes in cultures from north to south."

@@ -1,6 +1,6 @@
 ---
 shortcode: loristaravel
-name: {full: Loris Taravel, given: Loris, clan: Taravel, aliases: []}
+name: {full: Loris Taravel, given: Loris, clan: Taravel}
 type: being
 subType: character
 tags: [draft, embassy-to-tantsou]

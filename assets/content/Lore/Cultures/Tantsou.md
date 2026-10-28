@@ -1,13 +1,13 @@
 ---
 shortcode: tantsouclt
-name: {full: Tantsou, aliases: []}
+name: {full: Tantsou}
 type: lore
 subType: culture
 description: "The Tantsou—their beliefs, their mores, and what they hold a person owes."
 tags: []
 data:
   calendar: lore-clndrstrlgy
-  language: skill-tantsoulng
+  lang: tant
   glossary:
     - {name: "Nuitsou", definition: "The eighth caste: slaves and outcasts", common: true}
     - name: "lei"

@@ -1,6 +1,6 @@
 ---
 shortcode: kjrvngjrln
-name: {full: Chorvan Jarlen, given: Chorvan, clan: Jarlen, aliases: []}
+name: {full: Chorvan Jarlen, given: Chorvan, clan: Jarlen}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, common-folk]

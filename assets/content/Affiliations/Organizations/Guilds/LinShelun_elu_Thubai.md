@@ -1,6 +1,6 @@
 ---
 shortcode: linshelunthb
-name: {full: Lin'Shelun elu Thuba'i, aliases: [The Artistic Collective of Thuba'i]}
+name: {full: Lin'Shelun elu Thuba'i, en: [The Artistic Collective of Thuba'i]}
 type: affiliation
 subType: guild
 description: A body of performers and artists under the patronage of Thuba'i, whose temple funds the work and takes a share of the acclaim

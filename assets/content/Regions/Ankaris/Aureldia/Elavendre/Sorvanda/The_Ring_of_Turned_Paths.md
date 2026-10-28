@@ -1,6 +1,6 @@
 ---
 shortcode: rngtrndpths
-name: {full: The Ring of Turned Paths, aliases: [Khálpilonpu]}
+name: {full: The Ring of Turned Paths, aele: [khálpilonpu]}
 type: place
 subType: site
 description: "A ring of living silver birch in a hollow of the Silver Forests where the Sinale turn every path away, and where a lowland binding-mage forced the paths straight and walks his own company in circles to feed it."

@@ -1,6 +1,6 @@
 ---
 shortcode: kalashkhr
-name: {full: Kalashikhar, aliases: []}
+name: {full: Kalashikhar}
 type: place
 subType: feature
 description: "The black peak above the conch-door at the end of the Eastern Reach—bare rock that takes no snow, and the one summit the Pass-Shrines have never built on."

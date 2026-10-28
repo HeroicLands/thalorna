@@ -2,7 +2,7 @@
 shortcode: ghesazvughas
 name:
   full: Ghesáz Vughash
-  aliases: [Marendos Ghesáz Vughash, Sekeros Marendos Ghesáz Vughash, Sekeros Ghesáz Vughash]
+  en: [Marendos Ghesáz Vughash, Sekeros Marendos Ghesáz Vughash, Sekeros Ghesáz Vughash]
 type: being
 subType: npc
 description: A sekeros (inquirer) and aggressive marendos (master) who has filed an official inquiry into whether Fodios Rores is an unlicensed magical practitioner.

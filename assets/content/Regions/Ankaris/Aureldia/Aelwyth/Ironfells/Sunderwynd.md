@@ -1,6 +1,6 @@
 ---
 shortcode: sunderwynd
-name: {full: Sunderwynd, aliases: []}
+name: {full: Sunderwynd}
 type: place
 subType: site
 description: "An Aldorathi watch-post on a crag above a gorge on the southern approach to one of the Ironfells passes, its garrison taken one by one and hung in a dead pine by a made thing that keeps to the heights."

@@ -1,6 +1,6 @@
 ---
 shortcode: talirbshrn
-name: {full: Talira Basiron, aliases: [Elspeth Rowen]}
+name: {full: Talira Basiron, en: [Elspeth Rowen]}
 type: being
 subType: npc
 tags: [draft, mages]

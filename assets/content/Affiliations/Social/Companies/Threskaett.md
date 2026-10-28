@@ -1,6 +1,6 @@
 ---
 shortcode: threskaett
-name: {full: Threskaett, aliases: []}
+name: {full: Threskaett}
 type: affiliation
 subType: venture
 description: "A Norgaad company that began as coastal raiders and now works as a legitimate naval contractor, chiefly for the merchant kings of Aelwyth."

@@ -1,6 +1,6 @@
 ---
 shortcode: nclvsrnthl
-name: {full: Enclave of Serenthale, aliases: []}
+name: {full: Enclave of Serenthale}
 type: affiliation
 subType: polity
 description: "A withdrawn Sinale enclave of Lirve's western forest, governed by its own lord and in contact with others only at its own initiative."

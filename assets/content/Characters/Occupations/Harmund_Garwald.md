@@ -1,6 +1,6 @@
 ---
 shortcode: hrmndgrwld
-name: {full: Harmund yra Garwald wur Falkenstein, aliases: []}
+name: {full: Harmund yra Garwald wur Falkenstein}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

@@ -1,6 +1,6 @@
 ---
 shortcode: ithnetau
-name: {full: Ithnetáu, aliases: []}
+name: {full: Ithnetáu}
 type: lore
 subType: arcana
 description: "The westward road: the dead, passage, gates, resurrection, the night."

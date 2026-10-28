@@ -1,6 +1,6 @@
 ---
 shortcode: lutrethsaar
-name: {full: Lut-Reth'Sa'ar, aliases: [The Temple of Reth'Sa'ar]}
+name: {full: Lut-Reth'Sa'ar, en: [The Temple of Reth'Sa'ar]}
 type: affiliation
 subType: faithtradition
 description: The house of Reth'Sa'ar, god of knowledge and of the written hand, holding the archives, the observatory and the schools that feed them

@@ -1,6 +1,6 @@
 ---
 shortcode: sealedwordfnd
-name: {full: The Founding of the Sealed Word, aliases: [The Chartering at Ólvestra]}
+name: {full: The Founding of the Sealed Word, en: [The Chartering at Ólvestra]}
 type: lore
 subType: history
 description: "About 421 AF, when the Edicts of Arzanas closed the western wars, Árdavon's priesthood chartered a sworn order at Ólvestra to ride to broken oaths, hear them and compel the remedy."

@@ -1,6 +1,6 @@
 ---
 shortcode: garqeztu
-name: {full: Gar-Qeztu, aliases: []}
+name: {full: Gar-Qeztu}
 type: place
 subType: settlement
 description: "Selat capital of Gar-Qeztu."

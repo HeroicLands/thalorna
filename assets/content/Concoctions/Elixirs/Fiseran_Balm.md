@@ -1,6 +1,6 @@
 ---
 shortcode: elxheal
-name: {full: Fiseran Balm, aliases: [Healing Elixir]}
+name: {full: Fiseran Balm, en: [Healing Elixir]}
 type: concoctiongear
 subType: elixir
 description: "Vibrant golden life elixir; banishes wounds, bleeding, exhaustion."

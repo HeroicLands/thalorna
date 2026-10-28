@@ -1,6 +1,6 @@
 ---
 shortcode: edrihaven
-name: {full: Edrihaven, aliases: []}
+name: {full: Edrihaven}
 type: place
 subType: settlement
 description: "A Varokh village in Edriwald."

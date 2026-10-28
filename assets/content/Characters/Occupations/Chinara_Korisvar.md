@@ -1,6 +1,6 @@
 ---
 shortcode: chynrkrsvr
-name: {full: Chinara Kórisvar, aliases: []}
+name: {full: Chinara Kórisvar}
 type: being
 subType: npc
 tags: [draft, common-folk]

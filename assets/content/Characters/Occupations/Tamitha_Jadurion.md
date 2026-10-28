@@ -1,6 +1,6 @@
 ---
 shortcode: tamithjdrn
-name: {full: Tamitha Jadurion, aliases: []}
+name: {full: Tamitha Jadurion}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

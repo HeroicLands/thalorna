@@ -4,7 +4,7 @@ name:
   full: Kassa Verris
   given: Kassa
   clan: Verris
-  aliases: [The Harbor Factor, The Empire's Hand on the Southern Shore]
+  en: [The Harbor Factor, The Empire's Hand on the Southern Shore]
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, administration]

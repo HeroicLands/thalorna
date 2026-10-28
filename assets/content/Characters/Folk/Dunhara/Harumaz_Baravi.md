@@ -1,6 +1,6 @@
 ---
 shortcode: harumazbarav
-name: {full: Harumaz Baravi, aliases: [Master Harumaz]}
+name: {full: Harumaz Baravi, en: [Master Harumaz]}
 type: being
 subType: npc
 description: A senior figure in the Jewelers' Guild who represents the traditionalist faction, named in Paryan Barmandan.

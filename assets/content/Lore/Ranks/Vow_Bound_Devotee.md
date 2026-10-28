@@ -1,6 +1,6 @@
 ---
 shortcode: vowdevoteernk
-name: {full: Vow-Bound Devotee, aliases: ["Vretin"]}
+name: {full: Vow-Bound Devotee, vedy: [vretin]}
 type: lore
 subType: law
 description: "Bound for life by a vow completed in the ordeal a god sets, in a devotion that confers no office."

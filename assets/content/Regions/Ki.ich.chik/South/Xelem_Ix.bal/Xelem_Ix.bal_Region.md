@@ -1,6 +1,6 @@
 ---
 shortcode: xelemixbalrgn
-name: {full: Shelem Ish'bal Region, aliases: []}
+name: {full: Shelem Ish'bal Region}
 type: place
 subType: region
 description: "Blasted rock, ash, ice and poisoned water—the forsaken wastes of Shelem Ish'bal at the southern end of Southern Ki'ich'chik."

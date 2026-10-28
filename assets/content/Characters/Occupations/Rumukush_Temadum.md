@@ -1,6 +1,6 @@
 ---
 shortcode: rmkshtmdm
-name: {full: Rumukush Temadum, aliases: []}
+name: {full: Rumukush Temadum}
 type: being
 subType: npc
 tags: [draft, soldiery]

@@ -1,6 +1,6 @@
 ---
 shortcode: ltryqzkn
-name: {full: Lataruya Qizikuni, aliases: []}
+name: {full: Lataruya Qizikuni}
 type: being
 subType: npc
 tags: [draft, administration]

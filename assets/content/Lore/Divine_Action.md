@@ -1,6 +1,6 @@
 ---
 shortcode: divineactn
-name: {full: The Truth of Divine Action, aliases: [Divine Action (GM), The Balance]}
+name: {full: The Truth of Divine Action, en: [Divine Action (GM), The Balance]}
 type: doc
 subType: concept
 tags: [religion, theology, metaphysics, gm]

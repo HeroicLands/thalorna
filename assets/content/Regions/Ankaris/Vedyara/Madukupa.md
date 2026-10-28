@@ -1,6 +1,6 @@
 ---
 shortcode: madukupa
-name: {full: Madukupa, aliases: [The Sweet Well]}
+name: {full: The Sweet Well, vedy: [madukupa]}
 type: place
 subType: site
 description: "A Samonta's hill-fort in the foothills of the march, built over the one well for forty miles that has never failed, and kept full by a bargain with something at the bottom of the shaft."

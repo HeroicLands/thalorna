@@ -1,6 +1,6 @@
 ---
 shortcode: bnscrpn
-name: {full: Bone Scorpion, aliases: []}
+name: {full: Bone Scorpion}
 type: being
 subType: creature
 description: "A massive pale desert scorpion up to nine feet long, an ambush predator of supernatural patience that hibernates through weeks of famine."

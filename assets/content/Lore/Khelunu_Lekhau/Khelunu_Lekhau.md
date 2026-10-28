@@ -1,6 +1,6 @@
 ---
 shortcode: khelunulekha
-name: {full: Khelunu Lekhau, aliases: [The Eight Powers, The Khelathi Arcane Tradition]}
+name: {full: Khelunu Lekhau, en: [The Eight Powers, The Khelathi Arcane Tradition]}
 type: lore
 subType: arcana
 tags: [lore, arcane, gethunu-lekhau, khelathi, khelathu]

@@ -1,6 +1,6 @@
 ---
 shortcode: ktna
-name: {full: Katana, aliases: []}
+name: {full: Katana}
 type: weapongear
 description: "Folded-layer curved single-edged blade; officer's status and discipline."
 tags: []

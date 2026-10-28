@@ -1,6 +1,6 @@
 ---
 shortcode: ghardsmrds
-name: {full: Gharidos Murades, aliases: []}
+name: {full: Gharidos Murades}
 type: being
 subType: npc
 tags: [draft, common-folk]

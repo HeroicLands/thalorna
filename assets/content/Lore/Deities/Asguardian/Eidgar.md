@@ -1,6 +1,6 @@
 ---
 shortcode: eidgardty
-name: {full: Eidgar, aliases: []}
+name: {full: Eidgar}
 type: lore
 subType: deity
 description: "The Just of the Asguardian gods—law, sworn oaths, and combat fought by the honorable forms."

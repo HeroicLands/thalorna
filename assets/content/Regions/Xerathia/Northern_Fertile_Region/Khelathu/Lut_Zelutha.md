@@ -1,6 +1,6 @@
 ---
 shortcode: lutzelutha
-name: {full: Lut-Zelutha, aliases: [The Temple of the Eternal Heavens]}
+name: {full: Lut-Zelutha, en: [The Temple of the Eternal Heavens]}
 type: place
 subType: site
 description: "An ancient sanctuary hidden deep in the sands of Lareshu, where the astrologers' road is held to end"

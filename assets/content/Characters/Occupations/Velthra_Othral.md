@@ -1,6 +1,6 @@
 ---
 shortcode: velarithrl
-name: {full: Velthra Othral, aliases: []}
+name: {full: Velthra Othral}
 type: being
 subType: npc
 tags: [todo, draft, clergy]

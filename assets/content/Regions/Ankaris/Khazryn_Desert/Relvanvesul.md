@@ -1,6 +1,6 @@
 ---
 shortcode: relvanvesul
-name: {full: Relvanvesut, aliases: [Zargandur's Trench, The Princes' Bones]}
+name: {full: Relvanvesut, en: [Zargandur's Trench, The Princes' Bones]}
 type: place
 subType: site
 description: "The second trench of Zargandur's fall, a long grave in a dry wash east of the walls that holds the war-house's palace household and the sacked temple gold, unconsecrated since the Breaking and dug into now by raiders who have not found out what answers."

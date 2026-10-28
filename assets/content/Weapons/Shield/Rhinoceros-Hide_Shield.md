@@ -1,6 +1,6 @@
 ---
 shortcode: rhnhdshld
-name: {full: Rhinoceros-Hide Shield, aliases: []}
+name: {full: Rhinoceros-Hide Shield}
 type: weapongear
 description: "Warrior-caste heraldic shield of cured rhinoceros hide; lighter than metal and nearly proof against sword cuts."
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: drshrkhrds
-name: {full: Dorasia Rakhrides, aliases: []}
+name: {full: Dorasia Rakhrides}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

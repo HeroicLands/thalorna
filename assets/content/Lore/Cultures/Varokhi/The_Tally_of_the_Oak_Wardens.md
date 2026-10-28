@@ -1,6 +1,6 @@
 ---
 shortcode: oakwardens
-name: {full: The Tally of the Oak Wardens, aliases: [Eichthúl eldskorn]}
+name: {full: The Tally of the Oak Wardens, varo: [Eichthúl eldskorn]}
 type: lore
 subType: literature
 description: "The Eichthúl kindred's ancestor-tally at Weskskald in the thirteenth winter since the Nordheim hall-posts went into their grove, said name by name from the year's dead back to the names that are the wood, with the two hearths divided over the dead under the settlers' floors, the Shaman's count said with nothing after it, and the year's children said for the first time."
@@ -10,7 +10,7 @@ data:
   packFolder: settinglore
   form: eldskorn
   subjects: [lore-nalthmrktkng, place-hrindstead, lore-wintertally, lore-varokhiclt]
-  language: varokhlng
+  lang: varo
 
 # terran_analog: "The Gothic ancestor-songs Jordanes reports; Ynglingatal and Hyndluljóð as death-by-death and name-by-name catalogues; the Welsh Stanzas of the Graves, for the dead under ground now held by others; the Landnámabók habit of a name and one remembered thing. Departs: the tally runs backward, ends on names with no deeds, and turns at the end to the living."
 ---

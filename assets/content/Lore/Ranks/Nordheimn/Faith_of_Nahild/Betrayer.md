@@ -1,6 +1,6 @@
 ---
 shortcode: betrayerrnk
-name: {full: "The Betrayer", aliases: []}
+name: {full: The Betrayer}
 type: lore
 subType: law
 description: "What the cult of Nahild does to a man who gives away its hidden rites, in the faith of Nahild."

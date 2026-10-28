@@ -1,6 +1,6 @@
 ---
 shortcode: dragondead
-name: {full: The Dragon Dead at Theradon, aliases: [The Taking of the Workshop]}
+name: {full: The Dragon Dead at Theradon, en: [The Taking of the Workshop]}
 type: lore
 subType: history
 description: "In 330 BF the Vylarian Republic takes Theradon and its mage-warlord's workshop, and carries away what is in it: the dead of dragons, bound and kept in jars, and the only thing in the world a dragon can be threatened with."

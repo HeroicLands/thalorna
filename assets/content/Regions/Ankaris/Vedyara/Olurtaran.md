@@ -1,6 +1,6 @@
 ---
 shortcode: olurtaran
-name: {full: Olurtaran, aliases: [The Ford of the Restless Dead]}
+name: {full: The Ford of the Restless Dead, vedy: [olurtaran]}
 type: place
 subType: site
 description: "A gravel ford of the upper Mahanodi and the oldest dated shorukshetra in Vedyara: a silence where no flame lit on the west bank stays lit, half-settled on the east bank by the Agmi-pantra's founding fire, and a place nobody crosses after dark."

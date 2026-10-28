@@ -1,6 +1,6 @@
 ---
 shortcode: athenikos2
-name: {full: Athenikos, aliases: []}
+name: {full: Athenikos}
 type: place
 subType: settlement
 description: "A Helionite city in which each year is named for its Arsir and the assembly of citizens stays sovereign over the wealthy families who hold it."

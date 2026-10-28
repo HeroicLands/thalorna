@@ -1,6 +1,6 @@
 ---
 shortcode: staunchngfld
-name: {full: Staunching of the Flood, aliases: []}
+name: {full: Staunching of the Flood}
 type: mysticalability
 subType: arcaneincantation
 description: "Stops a flow of liquid, whether from a wound, a vessel or a breached bank."

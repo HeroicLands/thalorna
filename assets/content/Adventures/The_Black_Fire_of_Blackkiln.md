@@ -1,6 +1,6 @@
 ---
 shortcode: blackfireblkkln
-name: {full: Cinders in the Dead Pines, aliases: []}
+name: {full: Cinders in the Dead Pines}
 type: scenario
 subType: adventure
 description: "In a ruined priory ringed by grey pines a black fire still burns, and the dead who guard it kneel at the door as if in prayer."

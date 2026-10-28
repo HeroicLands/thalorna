@@ -1,6 +1,6 @@
 ---
 shortcode: linkur
-name: {full: Faith of Linkur, aliases: [Patron of the Hunt]}
+name: {full: Faith of Linkur, en: [Patron of the Hunt]}
 type: affiliation
 subType: faithtradition
 description: "The Hunt."

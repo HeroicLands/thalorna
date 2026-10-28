@@ -1,6 +1,6 @@
 ---
 shortcode: zefaris
-name: {full: Zefaris, aliases: [Rhezin Zefaris, Zulen Zefaris]}
+name: {full: Zefaris, helo: [Rhezin Zefaris], vyl: [Zulen Zefaris]}
 type: affiliation
 subType: arcanetradition
 tags: [zemor-hodhis]

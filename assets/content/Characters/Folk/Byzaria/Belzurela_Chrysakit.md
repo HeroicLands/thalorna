@@ -1,6 +1,6 @@
 ---
 shortcode: belzurelachr
-name: {full: Belzurela Krisakit, aliases: [Governor Belzurela Krisakit]}
+name: {full: Belzurela Krisakit, en: [Governor Belzurela Krisakit]}
 type: being
 subType: npc
 description: The current governor of Bizaris, who values Sakozes Bulides's knowledge of ceremonial matters.

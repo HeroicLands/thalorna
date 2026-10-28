@@ -1,6 +1,6 @@
 ---
 shortcode: qllbr
-name: {full: Quillbear, aliases: []}
+name: {full: Quillbear}
 type: being
 subType: creature
 description: "A reclusive abomination of bear strength and porcupine quills that lairs in deep burrows and turns explosively aggressive when threatened."

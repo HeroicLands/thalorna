@@ -1,6 +1,6 @@
 ---
 shortcode: sideris
-name: {full: Sideris, aliases: [Rhezin Sideris, Zulen Sideris]}
+name: {full: Sideris, helo: [Rhezin Sideris], vyl: [Zulen Sideris]}
 type: affiliation
 subType: arcanetradition
 tags: [zemor-hodhis]

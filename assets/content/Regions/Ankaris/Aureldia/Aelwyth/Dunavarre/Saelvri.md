@@ -1,6 +1,6 @@
 ---
 shortcode: saelvri
-name: {full: Saelvri, aliases: []}
+name: {full: Saelvri}
 type: affiliation
 subType: polity
 description: "A people of Aelwyth against whom the Kingdom of Dúnavarre prosecuted a crusade of extermination."

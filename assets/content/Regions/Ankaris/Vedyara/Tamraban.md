@@ -1,6 +1,6 @@
 ---
 shortcode: tamraban
-name: {full: Tamraban, aliases: []}
+name: {full: Tamraban}
 type: place
 subType: settlement
 description: "The smelting village below the panning ground, whose furnaces make the best iron in inland Vedyara."

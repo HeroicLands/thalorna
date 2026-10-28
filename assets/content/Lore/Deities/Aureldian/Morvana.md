@@ -1,6 +1,6 @@
 ---
 shortcode: morvanadty
-name: {full: Morvana, aliases: []}
+name: {full: Morvana}
 type: lore
 subType: deity
 description: "Mistress of the Waning Moon in the Aureldian pantheon, holding decay and the waning of everything that grows."

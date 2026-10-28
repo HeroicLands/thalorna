@@ -1,6 +1,6 @@
 ---
 shortcode: audryhrdng
-name: {full: Audrey Harding, aliases: [Shénasene Callista Tradewind]}
+name: {full: Audrey Harding, aelw: [Shénasene Callista Tradewind]}
 type: being
 subType: npc
 tags: [todo, draft, clergy]

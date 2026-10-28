@@ -1,6 +1,6 @@
 ---
 shortcode: liserebay
-name: {full: Lísere Bay, aliases: []}
+name: {full: Lísere Bay}
 type: place
 subType: feature
 description: "The great backward-C gulf on Élavendre's northern coast—fifty miles across, thirty at the narrows, and the water every raid on the north shore comes over."

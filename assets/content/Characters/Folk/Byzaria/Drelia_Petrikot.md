@@ -1,6 +1,6 @@
 ---
 shortcode: dreliapetrik
-name: {full: Drelia Petrikot, aliases: [Captain Drelia Petrikot]}
+name: {full: Drelia Petrikot, en: [Captain Drelia Petrikot]}
 type: being
 subType: npc
 description: Captain and leader of a band that acts against violent criminals whom the official justice system refuses to prosecute, named in Fileze Stenikot.

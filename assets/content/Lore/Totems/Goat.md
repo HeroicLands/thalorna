@@ -1,6 +1,6 @@
 ---
 shortcode: goatttm
-name: {full: Goat, aliases: [Goat Totem]}
+name: {full: Goat, en: [Goat Totem]}
 type: lore
 subType: bestiary
 description: "The goat as a totemic ideal, and the human character it describes."

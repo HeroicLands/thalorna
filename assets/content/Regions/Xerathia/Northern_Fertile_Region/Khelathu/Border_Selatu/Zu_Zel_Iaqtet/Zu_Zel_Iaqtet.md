@@ -1,6 +1,6 @@
 ---
 shortcode: zuzeliaqtetnome
-name: {full: Zu-Zel-Iaqtet, aliases: []}
+name: {full: Zu-Zel-Iaqtet}
 type: place
 subType: region
 description: "The eastern hills of Au'Khelathu—a rugged hill-and-desert march of gold, copper and turquoise mines and stone quarries, the land of the Selat of Zu-Zel-Iaqtet."

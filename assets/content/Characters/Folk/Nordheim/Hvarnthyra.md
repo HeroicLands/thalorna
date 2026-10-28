@@ -1,6 +1,6 @@
 ---
 shortcode: hvarnthyra
-name: {full: Hvarnthira, aliases: [Princess Hvarnthira]}
+name: {full: Hvarnthira, en: [Princess Hvarnthira]}
 type: being
 subType: npc
 description: Princess of Malagna, whose royal family has begun commissioning items from Glirvrinna Stormrót.

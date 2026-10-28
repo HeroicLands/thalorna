@@ -1,6 +1,6 @@
 ---
 shortcode: agekingdoms
-name: {full: The Age of Kingdoms, aliases: []}
+name: {full: The Age of Kingdoms}
 type: lore
 subType: history
 description: "480 to 242 BF, 1 AK to 239 AK in the Madustan count, from the standardization at Madustan to the eve of the forty-day sabhra: Rajepur raised, the just kings and the six, the first shorukshetra at the Unburned Ford, and the kindling of the Agmi-pantra."

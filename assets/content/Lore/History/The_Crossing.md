@@ -1,6 +1,6 @@
 ---
 shortcode: thecrossing
-name: {full: The Crossing, aliases: [The Convoy of Six]}
+name: {full: The Crossing, en: [The Convoy of Six]}
 type: lore
 subType: history
 description: "In 1919 BF six ships sail from Élavendre carrying the Second Voice to Aelwyth, to be held there in trust by the Sinale and the Khazari together, and go off the water leaving nothing whatever behind."

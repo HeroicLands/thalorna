@@ -1,6 +1,6 @@
 ---
 shortcode: marupalfl
-name: {full: The Fall of Marupal, aliases: []}
+name: {full: The Fall of Marupal}
 type: lore
 subType: history
 description: "In the spring of 315 AF the march kingdom of Marupal met the Storm of the Hundred Banners where the Western Descent opens onto the march road and died there with its last king; the field is Lantustal, the thinnest and most dangerous shorukshetra in Vedyara."

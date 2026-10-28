@@ -1,6 +1,6 @@
 ---
 shortcode: greatelk
-name: {full: Great Elk, aliases: []}
+name: {full: Great Elk}
 type: being
 subType: creature
 description: "A migratory megafauna elk of northern forests and plains, a mature bull standing eight feet at the shoulder and weighing near a ton."

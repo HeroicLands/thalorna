@@ -1,6 +1,6 @@
 ---
 shortcode: senpvvkrmd
-name: {full: Senapavi Vikramada, given: Senapavi, clan: Vikramada, aliases: [Senu]}
+name: {full: Senapavi Vikramada, given: Senapavi, clan: Vikramada, vedy: [senu]}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]

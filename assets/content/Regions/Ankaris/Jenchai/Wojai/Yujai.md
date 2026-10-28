@@ -1,6 +1,6 @@
 ---
 shortcode: yujai
-name: {full: Yujai, aliases: [Moon Peak]}
+name: {full: Moon Peak, jurt: [Yujai]}
 type: place
 subType: region
 description: "Moon Peak, the volcanic mountain of the south coast of the great island, above the best harbor in the realm and the terraces of House Wojai."

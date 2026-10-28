@@ -1,6 +1,6 @@
 ---
 shortcode: motefnir
-name: {full: "Ritual: Mótefnir", aliases: [The Unfinished Path]}
+name: {full: "Ritual: Mótefnir", en: [The Unfinished Path]}
 type: skill
 subType: mystical
 tags: [asguardian, faith-skill, draft]

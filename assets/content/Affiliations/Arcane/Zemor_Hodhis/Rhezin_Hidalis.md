@@ -1,6 +1,6 @@
 ---
 shortcode: hidalis
-name: {full: Hidalis, aliases: [Rhezin Hidalis, Zulen Hidalis]}
+name: {full: Hidalis, helo: [Rhezin Hidalis], vyl: [Zulen Hidalis]}
 type: affiliation
 subType: arcanetradition
 tags: [zemor-hodhis]

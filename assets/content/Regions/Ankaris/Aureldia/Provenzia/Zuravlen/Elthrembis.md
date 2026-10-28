@@ -1,6 +1,6 @@
 ---
 shortcode: elthrembis
-name: {full: Eltrembis, aliases: []}
+name: {full: Eltrembis}
 type: place
 subType: settlement
 description: "The market town and baronial seat of Zuravlen, where every peach in the barony is graded, packed and sold, and where the autumn fair settles the year's accounts."

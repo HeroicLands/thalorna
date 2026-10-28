@@ -1,6 +1,6 @@
 ---
 shortcode: dorandaroort
-name: {full: Dorándaro Orthemandis, aliases: [Alderman Dorándaro Orthemandis, Alderman Dorándaro]}
+name: {full: Dorándaro Orthemandis, en: [Alderman Dorándaro Orthemandis, Alderman Dorándaro]}
 type: being
 subType: npc
 description: Leader of the fishing cooperative that represents the common fishermen of Nebralis, named in Alethra Torvaleth.

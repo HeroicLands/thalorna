@@ -1,6 +1,6 @@
 ---
 shortcode: seeker
-name: {full: Seeker, aliases: []}
+name: {full: Seeker}
 type: mysticalability
 subType: arcaneincantation
 description: "Seeks hidden objects; reveals location of sought-after item."

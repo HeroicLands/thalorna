@@ -1,6 +1,6 @@
 ---
 shortcode: naliktzuqal
-name: {full: "Faith of Nal'ik Ts'uqal", aliases: [The Dreamer in Moonlight, "Nal'ik Ts'uqal"]}
+name: {full: Faith of Nal'ik Ts'uqal, en: [The Dreamer in Moonlight], kiichek: [Nal'ik Ts'uqal]}
 type: affiliation
 subType: faithtradition
 description: "Dreams, visions and the moon—the one Itsani deity who asks no blood, accepting cacao, flowers and the spoken word, and whose dream-temples archive centuries of visions."

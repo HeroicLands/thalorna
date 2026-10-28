@@ -1,6 +1,6 @@
 ---
 shortcode: tarstrvlth
-name: {full: Társila Torvaleth, aliases: []}
+name: {full: Társila Torvaleth}
 type: being
 subType: npc
 tags: [todo-warrior, draft, soldiery]

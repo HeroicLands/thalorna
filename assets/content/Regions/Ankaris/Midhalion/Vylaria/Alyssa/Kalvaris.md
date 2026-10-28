@@ -1,6 +1,6 @@
 ---
 shortcode: calvaris
-name: {full: Kalvaris, aliases: []}
+name: {full: Kalvaris}
 type: place
 subType: settlement
 description: "Market Town"

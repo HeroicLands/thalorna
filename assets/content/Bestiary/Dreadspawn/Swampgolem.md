@@ -1,6 +1,6 @@
 ---
 shortcode: swmpglm
-name: {full: Swampgolem, aliases: []}
+name: {full: Swampgolem}
 type: being
 subType: creature
 description: "A malevolent animate mass of mud, rot, and drowned bones, formed by the swamp itself to lash out at intruders."

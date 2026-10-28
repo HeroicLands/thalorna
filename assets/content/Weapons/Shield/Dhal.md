@@ -1,6 +1,6 @@
 ---
 shortcode: dhal
-name: {full: Dhal, aliases: []}
+name: {full: Dhal}
 type: weapongear
 description: "Brass-bossed circular shield; prestige and practical deflection."
 tags: []

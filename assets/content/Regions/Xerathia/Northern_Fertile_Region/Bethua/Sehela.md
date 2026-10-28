@@ -1,6 +1,6 @@
 ---
 shortcode: sehela
-name: {full: Sehela, aliases: []}
+name: {full: Sehela}
 type: place
 subType: settlement
 description: "A small grain-village of Bethua's dry southern interior, kept alive by the engineer-priestesses' qanats and held by House Khalithon."

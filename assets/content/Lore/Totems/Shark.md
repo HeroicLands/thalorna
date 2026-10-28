@@ -1,6 +1,6 @@
 ---
 shortcode: sharkttm
-name: {full: Shark, aliases: [Shark Totem]}
+name: {full: Shark, en: [Shark Totem]}
 type: lore
 subType: bestiary
 description: "The shark as a totemic ideal, and the human character it describes."

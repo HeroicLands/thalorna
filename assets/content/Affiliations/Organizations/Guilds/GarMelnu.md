@@ -1,6 +1,6 @@
 ---
 shortcode: garmelnu
-name: {full: Gar'Melnu, aliases: [The House of the Melnu]}
+name: {full: Gar'Melnu, en: [The House of the Melnu]}
 type: affiliation
 subType: guild
 description: "Gar-Au's chartered guild of Khelathi smiths, armorers, and weaponcrafters—heirs to the ancient Mesnu, the harpoon-makers of Gewa'atis, and the empire's arms-makers in fact."

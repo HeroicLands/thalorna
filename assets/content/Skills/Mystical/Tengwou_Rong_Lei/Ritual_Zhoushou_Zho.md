@@ -1,6 +1,6 @@
 ---
 shortcode: zhoushouzho
-name: {full: "Ritual: Zhoushou Zho", aliases: [Zhoushou Zho]}
+name: {full: "Ritual: Zhoushou Zho", tant: [Zhoushou Zho]}
 type: skill
 subType: mystical
 tags: [celestial-pantheon, faith-skill, draft]

@@ -1,6 +1,6 @@
 ---
 shortcode: eveningsongs
-name: {full: The Evening Songs, aliases: [The Songs from the Smoke Tower]}
+name: {full: The Evening Songs, en: [The Songs from the Smoke Tower]}
 type: lore
 subType: literature
 description: "Five love elegies a watch officer on the Moktur frontier wrote at dusk on the backs of his tower's smoke tallies, to a veteran's daughter in the capital whose calling name he had no right to use: the smoke counted and the years counted, the marsh he does not look at, the one door, her father's letter, and the last evening, when he writes her given name."
@@ -16,7 +16,7 @@ data:
     - lore-veteranslaw
     - affiliation-vylrnmltry
     - lore-vylarianclt
-  language: vylarilng
+  lang: vyl
 
 # terran_analog: "The Roman love elegists, Tibullus, Propertius and Ovid's Amores, for the elegiac couplet of a long line and a shorter one, the lover shut out from the beloved's door, the beloved called by a name that is not her own, and love set against the soldier's duty; and the letters home of soldiers on the Roman frontier found at Vindolanda."
 ---

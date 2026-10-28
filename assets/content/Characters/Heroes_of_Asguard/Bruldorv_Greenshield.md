@@ -1,6 +1,6 @@
 ---
 shortcode: brldrvgrnshld
-name: {full: Bruldorv Greenshield, given: Bruldorv, aliases: [Greenshield]}
+name: {full: Bruldorv Greenshield, given: Bruldorv, en: [Greenshield]}
 type: being
 subType: character
 tags: [paragon, heroes-of-asguard, soldiery]

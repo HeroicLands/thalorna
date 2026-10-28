@@ -1,6 +1,6 @@
 ---
 shortcode: storalddraskborg
-name: {full: Storald of Draskborg, aliases: [The Saga of the Moved Stone]}
+name: {full: Storald of Draskborg, en: [The Saga of the Moved Stone]}
 type: lore
 subType: literature
 description: "A Targud fort-duty saga of a moved boundary stone, the winter its mover and his neighbor's son stood one watch at Draskborg against the Grukar, and the grave-ale at which the stone was settled."
@@ -9,7 +9,7 @@ data:
   packFolder: nordlands
   culture: nordheimnclt
   form: storald
-  language: nordmalng
+  lang: nord
   subjects: [place-tvalgard, lore-sumarmal, lore-nrdlndsfnrl, lore-grukarfolk, lore-nordheimnclt]
 ---
 

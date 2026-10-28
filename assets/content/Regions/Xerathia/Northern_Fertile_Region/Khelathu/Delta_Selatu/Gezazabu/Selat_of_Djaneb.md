@@ -1,6 +1,6 @@
 ---
 shortcode: selatgezazab
-name: {full: The Selat of Gezazabu, aliases: []}
+name: {full: The Selat of Gezazabu}
 type: affiliation
 subType: polity
 description: "Western delta port; salt-fish, curing-houses, and the trade road to Bethua—one of the delta selatu of Au'Khelathu."

@@ -1,8 +1,6 @@
 ---
 shortcode: burningeast
-name:
-  full: The Burning of the East
-  aliases: [The Three Days at Dvulgvangur, The Fall of Nulthgard]
+name: {full: The Burning of the East, en: [The Three Days at Dvulgvangur, The Fall of Nulthgard]}
 type: lore
 subType: history
 description: "From 604 to 614 AF a Grukar horde raised in the marsh country burned Targud's eastern districts; in 613 it reached the royal hall at Nulthgard, the hirv and the eastern bundi held the ford below it for three days at Dvulgvangur and died there, and King Skruldmil II moved his hall to Tvalgard and founded the fort-rotation that holds the frontier still."

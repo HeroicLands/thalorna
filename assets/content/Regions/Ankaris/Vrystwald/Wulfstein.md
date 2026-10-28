@@ -1,6 +1,6 @@
 ---
 shortcode: wulfstein
-name: {full: Wulfstein, aliases: []}
+name: {full: Wulfstein}
 type: place
 subType: settlement
 description: "A Varokh village in Skathwald."

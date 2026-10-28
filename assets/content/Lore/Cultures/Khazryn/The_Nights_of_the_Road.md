@@ -1,6 +1,6 @@
 ---
 shortcode: roadnights
-name: {full: The Nights of the Road, aliases: [Tarlimnurmesh]}
+name: {full: The Nights of the Road, telu: [Tarlimnurmesh]}
 type: lore
 subType: literature
 description: "The tales a caravan-master of Kethramír tells a young factor on his first crossing of the Celestial Road, one at each halt from the first toll-camp to the hand-off at Sovid, with a hidden-water guide, a Shirzari rider and a Tantsou broker taking the fire at Qiiso: a frame-tale of the road, told in the master's reckoning voice and ending on the list he will give the factor when the factor can hold it."
@@ -23,7 +23,7 @@ data:
     - lore-towercities
     - affiliation-rwlstrb
     - affiliation-shrzrtrb
-  language: khazrilng
+  lang: telu
 ---
 
 **The Nights of the Road**, _Tarlimnurmesh_, is the collection of tales a caravan-master tells on [[lore-celestialroad|the Celestial Road]], one to a halt, to a factor on his first crossing. The master in this telling is [Tarlimay]{.name data-type="being/npc"}, a [[lore-khazrynclt|Tellumi]] of [[place-kethramir|Kethramír]] who has crossed from [[place-bhumipalland|Bhumipal Land]] to the [[place-tantsouregin|Tantsou Region]] and back more times than he says; the factor is a young man of a [[lore-byzarianclt|Bizarian]] backing house, unnamed, who wrote the tales down in the rendering at the end of the crossing, in the order the master told them. No two masters tell them in the same order, and every master tells them to explain a thing the factor has just seen: a bend in the road, a halt within sight of water, a price paid without argument. At [[place-qisomrktcmp|Qiiso]], where the road changes hands, the master gives the fire to other tellers, and their tales sit inside his.

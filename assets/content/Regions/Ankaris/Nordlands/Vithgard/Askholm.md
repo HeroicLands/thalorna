@@ -1,6 +1,6 @@
 ---
 shortcode: askholm
-name: {full: Askholm, aliases: []}
+name: {full: Askholm}
 type: place
 subType: feature
 description: "The skerry off Dvarnvík where eleven people accused of working the winds were burned, forty-one years ago."

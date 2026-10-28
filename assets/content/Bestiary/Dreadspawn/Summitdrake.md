@@ -1,6 +1,6 @@
 ---
 shortcode: smmtdrk
-name: {full: Summitdrake, aliases: []}
+name: {full: Summitdrake}
 type: being
 subType: creature
 description: "A tyrannical, fiercely territorial drake of harsh high peaks that holds its storm-lashed dominion against all challengers for centuries."

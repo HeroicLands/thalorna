@@ -1,12 +1,12 @@
 ---
 shortcode: aureldianclt
-name: {full: Aureldian Culture, aliases: []}
+name: {full: Aureldian Culture}
 type: lore
 subType: culture
 description: "The Aureldian culture—the pantheon, the faiths and the sworn orders that several Aureldian peoples share."
 tags: []
 data:
-  language: skill-vylarilng
+  lang: vyl
   appearanceProfile:
     frame: {medium: 50, light: 26, heavy: 22, massive: 2}
     eye_color: {brown: 22, green: 20, hazel: 16, blue: 12, grey: 12, dark_brown: 10, amber: 7}

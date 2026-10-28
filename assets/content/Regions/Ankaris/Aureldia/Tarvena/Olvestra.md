@@ -1,6 +1,6 @@
 ---
 shortcode: olvestria
-name: {full: Ólvestra, aliases: []}
+name: {full: Ólvestra}
 type: place
 subType: settlement
 description: "A great commercial city of Tarvénia, home to the Twin Gate, the mother-houses of the Order of the Sealed Word and the Twinblade Order, and the moneylenders who make it one of the costliest markets in the west."

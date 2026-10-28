@@ -1,6 +1,6 @@
 ---
 shortcode: swmpstrd
-name: {full: Swampstrider, aliases: []}
+name: {full: Swampstrider}
 type: being
 subType: creature
 description: "A massive, supernaturally intelligent amphibian that ambushes prey from its claimed stretch of wetland with devastating precision."

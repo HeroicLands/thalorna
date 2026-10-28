@@ -1,6 +1,6 @@
 ---
 shortcode: wagaru
-name: {full: Wagaru, aliases: []}
+name: {full: Wagaru}
 type: place
 subType: settlement
 description: "Selat capital of Wagaru."

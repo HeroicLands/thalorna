@@ -1,6 +1,6 @@
 ---
 shortcode: lstrlcmnvrby
-name: {full: The Lost Relic of Menavar Abbey, aliases: []}
+name: {full: The Lost Relic of Menavar Abbey}
 type: scenario
 subType: adventure
 data:

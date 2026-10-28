@@ -1,6 +1,6 @@
 ---
 shortcode: marriagekinrnk
-name: {full: Kin by Marriage, aliases: []}
+name: {full: Kin by Marriage}
 type: lore
 subType: law
 description: "Married into a house, holding its name and its standing without its blood."

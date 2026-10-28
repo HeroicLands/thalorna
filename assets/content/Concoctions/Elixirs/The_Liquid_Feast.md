@@ -1,6 +1,6 @@
 ---
 shortcode: elxsus
-name: {full: The Liquid Feast, aliases: [Sustenance Elixir]}
+name: {full: The Liquid Feast, en: [Sustenance Elixir]}
 type: concoctiongear
 subType: elixir
 description: "Thick brown draft; sustains days of active labor and travel."

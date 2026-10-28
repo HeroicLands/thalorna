@@ -1,6 +1,6 @@
 ---
 shortcode: hlskrvblthl
-name: {full: Hlaskorv Bletholl, given: Hlaskorv, clan: Bletholl, aliases: []}
+name: {full: Hlaskorv Bletholl, given: Hlaskorv, clan: Bletholl}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]

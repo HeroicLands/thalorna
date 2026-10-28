@@ -1,6 +1,6 @@
 ---
 shortcode: nyalbbaob
-name: {full: "Baobab Totem", aliases: [Baobab of the Lobwezi, Lobwezi Totem]}
+name: {full: Baobab Totem, en: [Baobab of the Lobwezi, Lobwezi Totem]}
 type: affiliation
 subType: spirittradition
 description: "The baobab-spirit of the Lobwezi—long-rootedness, the gathering-place and the keeping of stories; ritually senior because its griots hold the genealogies of all five clans."

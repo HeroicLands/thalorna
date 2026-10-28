@@ -1,6 +1,6 @@
 ---
 shortcode: ravenous
-name: {full: Ravenous, aliases: []}
+name: {full: Ravenous}
 type: mysticalability
 subType: arcaneincantation
 description: "Hunger compulsion; targets eat anything to satisfy overwhelming urge."

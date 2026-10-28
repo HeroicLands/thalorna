@@ -1,6 +1,6 @@
 ---
 shortcode: drwndzgrt
-name: {full: The Drowned Ziggurat, aliases: [The Wheel Temple, The Serpent's Stair]}
+name: {full: The Drowned Ziggurat, en: [The Wheel Temple, The Serpent's Stair]}
 type: place
 subType: site
 description: "A stepped temple swallowed by river and roots in the deep forest, the seat of a dead serpent-cult whose priests' mummified hands still turn its prayer-wheels."

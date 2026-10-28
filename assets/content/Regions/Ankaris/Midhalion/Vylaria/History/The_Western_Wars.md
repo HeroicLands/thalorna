@@ -1,6 +1,6 @@
 ---
 shortcode: westernwars
-name: {full: The Western Wars, aliases: [The Three Centuries of Conquest]}
+name: {full: The Western Wars, en: [The Three Centuries of Conquest]}
 type: lore
 subType: history
 description: "From about 140 AF to the edict of about 418 AF the Empire's legions fight west and north-west: the Tarvénian lowlands and Lienrik are taken, Provenzia is made a province, Élavendre is made a tributary, the Kervaron passes are marked with boundary-stones, and the western strait is fortified."

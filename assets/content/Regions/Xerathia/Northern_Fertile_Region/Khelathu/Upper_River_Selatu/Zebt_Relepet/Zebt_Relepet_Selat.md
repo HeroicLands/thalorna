@@ -1,6 +1,6 @@
 ---
 shortcode: zebtrelptslt
-name: {full: Zebt-Relepet Selat, aliases: []}
+name: {full: Zebt-Relepet Selat}
 type: place
 subType: region
 description: "Cavern-tombs and natron; a workmanlike mortuary selat—the land of the Selat of Zebt-Relepet, one of the upper-river selatu of Au'Khelathu."

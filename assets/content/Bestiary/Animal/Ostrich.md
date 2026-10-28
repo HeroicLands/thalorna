@@ -1,6 +1,6 @@
 ---
 shortcode: ostrich
-name: {full: Ostrich, aliases: []}
+name: {full: Ostrich}
 type: being
 subType: creature
 description: "The largest living bird of the desert, a flightless seven-to-nine-foot desert runner carried on a pair of devastatingly powerful legs."

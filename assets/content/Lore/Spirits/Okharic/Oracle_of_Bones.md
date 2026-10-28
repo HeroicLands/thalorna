@@ -1,6 +1,6 @@
 ---
 shortcode: orclbonesspr
-name: {full: The Oracle of Bones, aliases: [The Reader in the Yanda Zohiring]}
+name: {full: The Oracle of Bones, en: [The Reader in the Yanda Zohiring]}
 type: lore
 subType: spirit
 description: "Zohira of death and prophecy, seated somewhere in the Yanda Zohiring—sought by shamans who need an answer nothing else will give, and not always found."

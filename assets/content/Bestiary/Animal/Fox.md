@@ -1,6 +1,6 @@
 ---
 shortcode: fox
-name: {full: Fox, aliases: []}
+name: {full: Fox}
 type: being
 subType: creature
 description: "A small, cunning solitary carnivore of forests and settlement margins, notorious for raiding coops and outwitting traps and hounds."

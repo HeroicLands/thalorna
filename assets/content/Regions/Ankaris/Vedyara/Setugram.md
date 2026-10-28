@@ -1,6 +1,6 @@
 ---
 shortcode: setugram
-name: {full: Setugram, aliases: []}
+name: {full: Setugram}
 type: place
 subType: settlement
 description: "Village at the causeway that carries the Rajepur road over the flood channel."

@@ -1,6 +1,6 @@
 ---
 shortcode: nushirnrsf
-name: {full: Nushir Narsafi, given: Nushir, clan: Narsafi, aliases: []}
+name: {full: Nushir Narsafi, given: Nushir, clan: Narsafi}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]

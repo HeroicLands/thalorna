@@ -1,6 +1,6 @@
 ---
 shortcode: vzhmvd
-name: {full: Vazhmavad, aliases: [The Weighing-Place, The Oasis of the Unrecited]}
+name: {full: The Weighing-Place, en: [The Oasis of the Unrecited], dunh: [vazhmavad]}
 type: place
 subType: site
 description: "A palm oasis where poets of a third tribe once weighed the disputes of the tribes, now held by a poet-sorcerer who takes names and recitations, and whose raiders do not remember their own."

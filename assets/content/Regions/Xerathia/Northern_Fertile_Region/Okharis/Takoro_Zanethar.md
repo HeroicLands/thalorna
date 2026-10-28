@@ -1,6 +1,6 @@
 ---
 shortcode: takorozanethar
-name: {full: Tákoro Zanethar, aliases: []}
+name: {full: Tákoro Zanethar}
 type: being
 subType: npc
 tags: [administration, draft]

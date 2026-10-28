@@ -4,7 +4,8 @@ name:
   full: Atazkharu Sahri
   given: Atazkharu
   clan: Sahri
-  aliases: [Chuyelqiimod, Chuel, The Silent Jackal, The Desert Wanderer]
+  en: [The Silent Jackal, The Desert Wanderer]
+  dunh: [chuyelqiimod, chuel]
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, tradesfolk]

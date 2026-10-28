@@ -1,6 +1,6 @@
 ---
 shortcode: stathmos
-name: {full: Thradinas, aliases: []}
+name: {full: Thradinas}
 type: mystery
 subType: birthsign
 description: "The Balance: sure-footed, tireless and quick, helpless the moment the road runs out."

@@ -1,6 +1,6 @@
 ---
 shortcode: zohira
-name: {full: Zohira, aliases: [The Intermediary Spirits, The Emissaries of the Flame]}
+name: {full: The Intermediary Spirits, en: [The Emissaries of the Flame], okha: [Zohira]}
 type: lore
 subType: spirit
 description: "The intermediary spirits of the Okharik world—emissaries of the Eternal Flame, tied to fertility, storms, rivers, death and the hunt, and dealt with at cairns rather than in temples."

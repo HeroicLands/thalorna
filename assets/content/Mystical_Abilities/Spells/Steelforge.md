@@ -1,6 +1,6 @@
 ---
 shortcode: stlfrg
-name: {full: Steelforge, aliases: []}
+name: {full: Steelforge}
 type: mysticalability
 subType: arcaneincantation
 description: "Conjures steel; creates working material from air."

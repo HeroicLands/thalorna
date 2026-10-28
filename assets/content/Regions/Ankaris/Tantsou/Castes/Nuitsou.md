@@ -1,6 +1,6 @@
 ---
 shortcode: noutsou
-name: {full: Nuitsou, aliases: []}
+name: {full: Nuitsou}
 type: lore
 subType: law
 description: "The eighth caste of Tantsou—slaves, war captives, condemned criminals and the outcast, held as property with no name, no marriage and almost no road out, their condition inherited by their children."

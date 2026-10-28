@@ -1,6 +1,6 @@
 ---
 shortcode: chadzimechol
-name: {full: Chadzime Cholsamis, aliases: [Merchant-Prince Chadzime Cholsamis]}
+name: {full: Chadzime Cholsamis, en: [Merchant-Prince Chadzime Cholsamis]}
 type: being
 subType: npc
 description: A wealthy merchant who profits considerably from the wine and luxury goods trade, named in Kelena Estilgon.

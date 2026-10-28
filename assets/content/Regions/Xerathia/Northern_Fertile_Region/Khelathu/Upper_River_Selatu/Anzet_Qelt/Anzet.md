@@ -1,6 +1,6 @@
 ---
 shortcode: anzet
-name: {full: Anzet, aliases: []}
+name: {full: Anzet}
 type: place
 subType: settlement
 description: "Selat capital of Anzet-Qelt, seat of the chief temple of Hezmu'iri, the jackal-headed god of embalming."

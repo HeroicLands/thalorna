@@ -1,6 +1,6 @@
 ---
 shortcode: wllyrhn
-name: {full: Woolly Rhino, aliases: []}
+name: {full: Woolly Rhino}
 type: being
 subType: creature
 description: "A massive shaggy grazer of frozen tundra and cold steppe, peaceful yet fiercely territorial and devastating when defending its range."

@@ -1,6 +1,6 @@
 ---
 shortcode: odvar
-name: {full: "Ritual: Odvar", aliases: [The Enlightened Path]}
+name: {full: "Ritual: Odvar", en: [The Enlightened Path]}
 type: skill
 subType: mystical
 tags: [asguardian, faith-skill, draft]

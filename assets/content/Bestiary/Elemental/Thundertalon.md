@@ -1,6 +1,6 @@
 ---
 shortcode: thndrtln
-name: {full: Thundertalon, aliases: []}
+name: {full: Thundertalon}
 type: being
 subType: creature
 description: "A conscious storm elemental of tremendous power haunting high peaks and open skies, attacking earth- and sea-dwellers it deems mere primitives."

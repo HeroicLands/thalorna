@@ -1,6 +1,6 @@
 ---
 shortcode: ritualigelnr
-name: {full: "Ritual: Igelnaru", aliases: []}
+name: {full: "Ritual: Igelnaru"}
 type: skill
 subType: mystical
 tags: [khelathi, faith-skill, draft]

@@ -1,6 +1,6 @@
 ---
 shortcode: wardensayings
-name: {full: The Sayings of the First Warden, aliases: [The Warden's Instruction]}
+name: {full: The Sayings of the First Warden, en: [The Warden's Instruction]}
 type: lore
 subType: literature
 description: "The instruction the counting-houses of the League copy out for every apprentice, said to be what Dokharash Harmodakit, the first Warden of the Weights, told his son on the morning he was indentured: sayings on weights, terms, the defect declared, the guest, the master, the road, the arbitrator, the dead and the gods, in the order the copies keep, with the clauses that cannot be his left in."
@@ -15,7 +15,7 @@ data:
     - place-khryshteikhos2
     - affiliation-byzarianlg
     - lore-byzarianclt
-  language: byzarnlng
+  lang: biza
 
 # terran_analog: "The instruction literature of the ancient Near East, a father's sayings to a son entering his office; the Byzantine Strategikon and the merchant manuals of the eastern Mediterranean for advice given as clauses; and the proverb collections that gather sayings under a famous name whether or not he said them."
 ---

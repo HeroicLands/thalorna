@@ -1,6 +1,6 @@
 ---
 shortcode: targud
-name: {full: Targud, aliases: []}
+name: {full: Targud}
 type: place
 subType: region
 description: "The land of the Kingdom of Targud—the easternmost Nordmen kingdom, deep forest and tundra borderland against the Grukar."

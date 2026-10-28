@@ -1,6 +1,6 @@
 ---
 shortcode: sntjyvrd
-name: {full: Sunati Jayavarda, given: Sunati, clan: Jayavarda, aliases: []}
+name: {full: Sunati Jayavarda, given: Sunati, clan: Jayavarda}
 type: being
 subType: character
 tags: [heroes-and-knaves, administration]

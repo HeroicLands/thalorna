@@ -2,6 +2,8 @@
 "thalorna": minor
 ---
 
-Declare each language's exact roman character repertoire and check coverage from the package language configuration. Native and roman readings use the same permitted source characters; punctuation conversion aliases no longer define a language's alphabet.
+**Languages and scripts**
 
-Use canonical source spellings for the distinct Semaron, Helónika, Vedyakshara and Pirzath punctuation signs. Correct tagged readings and keep editorial gaps separate from spoken words, preserving the English translations and verse wording. Document Vylari's grave-vowel catch and the languages whose established older names retain letters outside ordinary word formation.
+- Each language declares the exact roman letters it writes, and its native and roman readings use the same letters.
+- The Semaron, Helónika, Vedyakshara and Pirzath punctuation signs each have one spelling, and editorial gaps are kept apart from spoken words.
+- Vylari's grave-vowel catch is described, as are the languages whose older names keep letters outside ordinary word formation.

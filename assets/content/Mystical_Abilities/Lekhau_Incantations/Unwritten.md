@@ -1,6 +1,6 @@
 ---
 shortcode: unwritten
-name: {full: Unwritten, aliases: []}
+name: {full: Unwritten}
 type: mysticalability
 subType: arcaneincantation
 description: "Erases an inscription cleanly, disabling whatever working depended on it."

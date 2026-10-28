@@ -1,6 +1,6 @@
 ---
 shortcode: nebralenelth
-name: {full: Nebralen Elthezis, aliases: [Captain Nebralen Elthezis]}
+name: {full: Nebralen Elthezis, en: [Captain Nebralen Elthezis]}
 type: being
 subType: npc
 description: A kindly captain who found Goremadanis Hérendanis stealing bread from the docks and took her aboard his ship, the Tempest's Mercy.

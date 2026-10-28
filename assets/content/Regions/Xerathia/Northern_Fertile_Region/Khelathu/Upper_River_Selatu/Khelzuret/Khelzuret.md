@@ -1,6 +1,6 @@
 ---
 shortcode: khelzuret
-name: {full: Khelzuret, aliases: []}
+name: {full: Khelzuret}
 type: place
 subType: settlement
 description: "Temple City (Necropolis)"

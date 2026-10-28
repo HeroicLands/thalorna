@@ -1,6 +1,6 @@
 ---
 shortcode: arnholt
-name: {full: Arnholt, aliases: []}
+name: {full: Arnholt}
 type: place
 subType: settlement
 description: "A Varokh village on Falkhaven's western shore whose cliff watch warns of unfamiliar sails."

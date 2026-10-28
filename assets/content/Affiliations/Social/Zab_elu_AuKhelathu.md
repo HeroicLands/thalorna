@@ -1,6 +1,6 @@
 ---
 shortcode: zabaukhelath
-name: {full: Zab elu Au'Khelathu, aliases: [The Nobles of Au'Khelathu]}
+name: {full: Zab elu Au'Khelathu, en: [The Nobles of Au'Khelathu]}
 type: affiliation
 subType: fellowship
 description: The titled families of the empire, who hold land, office and the ear of the court, and who close ranks against outsiders with unusual speed

@@ -1,6 +1,6 @@
 ---
 shortcode: kilnheart
-name: {full: Kiln-Heart, aliases: []}
+name: {full: Kiln-Heart}
 type: mysticalability
 subType: arcaneincantation
 description: "Permits a person or a working to endure extremes of heat unharmed."

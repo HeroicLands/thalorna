@@ -1,6 +1,6 @@
 ---
 shortcode: wstrndscnt
-name: {full: The Western Descent, aliases: [Dranavár]}
+name: {full: The Western Descent, telu: [Dranavár]}
 type: place
 subType: feature
 description: "The last three hundred miles of the Grazian range, where the wall comes apart into dry foothills above the Dunhari desert-margin—the one stretch a caravan crosses without a guide."

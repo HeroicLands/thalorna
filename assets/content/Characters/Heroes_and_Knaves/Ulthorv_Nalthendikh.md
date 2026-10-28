@@ -1,6 +1,6 @@
 ---
 shortcode: ulthrvnlthndkh
-name: {full: Ulthorv Nalthendik, given: Ulthorv, clan: Nalthendik, aliases: []}
+name: {full: Ulthorv Nalthendik, given: Ulthorv, clan: Nalthendik}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]

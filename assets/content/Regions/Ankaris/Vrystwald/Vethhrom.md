@@ -1,6 +1,6 @@
 ---
 shortcode: vethhrom
-name: {full: Vethhrum, aliases: []}
+name: {full: Vethhrum}
 type: place
 subType: structure
 description: "The oldest kindred mound in the Deepwood, which both of the forest's peoples claim."

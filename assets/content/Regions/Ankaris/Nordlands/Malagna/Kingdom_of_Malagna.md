@@ -1,6 +1,6 @@
 ---
 shortcode: kingdomlgn
-name: {full: Kingdom of Malagna, aliases: [Malagna]}
+name: {full: Kingdom of Malagna, nord: [malagna]}
 type: affiliation
 subType: polity
 description: "Frost-realm of the far north, land of ice and stone—austere kingdom of hard men and women, surviving in one of the harshest climates on Ankaris."

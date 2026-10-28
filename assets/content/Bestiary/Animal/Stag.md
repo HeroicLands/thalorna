@@ -1,6 +1,6 @@
 ---
 shortcode: stag
-name: {full: Stag, aliases: []}
+name: {full: Stag}
 type: being
 subType: creature
 description: "A mature forest-dwelling male cervid with large branching antlers, turning dangerously aggressive toward intruders during the rutting season."

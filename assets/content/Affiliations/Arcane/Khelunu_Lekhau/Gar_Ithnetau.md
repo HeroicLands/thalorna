@@ -2,7 +2,7 @@
 shortcode: garithnetau
 name:
   full: Gar-Ithnetáu
-  aliases: [The House of the Westward Road, The House of the Zulaten, The House of the Underworld]
+  en: [The House of the Westward Road, The House of the Zulaten, The House of the Underworld]
 type: affiliation
 subType: arcanetradition
 tags: [gethunu-lekhau, arcane, khelathi]

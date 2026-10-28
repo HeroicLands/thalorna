@@ -1,6 +1,6 @@
 ---
 shortcode: tap
-name: {full: Tap, aliases: []}
+name: {full: Tap}
 type: mysticalability
 subType: arcaneincantation
 description: "Draws upon power source; taps magical reservoir for energy."

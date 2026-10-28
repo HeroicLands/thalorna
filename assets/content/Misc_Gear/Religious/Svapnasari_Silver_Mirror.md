@@ -1,6 +1,6 @@
 ---
 shortcode: dreammirror
-name: {full: "Svapnasari Silver Mirror", aliases: []}
+name: {full: Svapnasari Silver Mirror}
 type: miscgear
 description: "The polished silver disc a Dorshaka reads for a petitioner during the Mirror Year, without refusing a reading or accepting a fee."
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: opsar
-name: {full: Ulfas, aliases: []}
+name: {full: Ulfas}
 type: mystery
 subType: birthsign
 description: "The Fish: easy with living things and with people, frail of body, no stomach for war."

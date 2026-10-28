@@ -1,6 +1,6 @@
 ---
 shortcode: bloodhillsbtl
-name: {full: The Battle of the Blood Hills, aliases: [The Battle of Keravel's Blood Hills]}
+name: {full: The Battle of the Blood Hills, en: [The Battle of Keravel's Blood Hills]}
 type: lore
 subType: history
 description: "About 248 AF the Black Flame's war-bands in the western province met the Knights of the Sacred Forge in the hills east of Keravel; the warlord Hazarak Bloodhand fell, a storm ended the fighting, and the Maul of Gashang was lost."

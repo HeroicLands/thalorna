@@ -1,6 +1,6 @@
 ---
 shortcode: klhrsthstr
-name: {full: The Southern Stair, aliases: [Avothani]}
+name: {full: The Southern Stair, kali: [Avothani]}
 type: place
 subType: feature
 description: "The terraced climb up the southern Ring of Kalihara, a road of cut steps from a river valley of the southern coast to the crest above the Bowl, held by the lineage Avothani."

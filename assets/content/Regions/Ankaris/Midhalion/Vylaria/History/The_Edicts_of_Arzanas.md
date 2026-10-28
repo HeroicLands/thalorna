@@ -1,6 +1,6 @@
 ---
 shortcode: arzanasedict
-name: {full: The Edicts of Arzanas, aliases: [The Great Refounding, The Refounding of Arzanas]}
+name: {full: The Edicts of Arzanas, en: [The Great Refounding, The Refounding of Arzanas]}
 type: lore
 subType: history
 description: "Between about 418 and 425 AF the second Orzas of the Restoration, Arzanas, closes the western conquests by edict and founds the Tevran Maldor, constitutes the Tolvan, makes the Tarmeks the central bank of the note system, rebuilds the Palvar and lines the Paldor with three centuries of trophies."

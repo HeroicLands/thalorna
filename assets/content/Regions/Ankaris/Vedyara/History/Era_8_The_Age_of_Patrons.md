@@ -1,6 +1,6 @@
 ---
 shortcode: agepatrons
-name: {full: The Age of Patrons, aliases: []}
+name: {full: The Age of Patrons}
 type: lore
 subType: history
 description: "About 525 AF to the present: protection arrangements replace wars, successions carry the danger, and the age runs into the quarrels a traveler meets today."

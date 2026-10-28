@@ -1,6 +1,6 @@
 ---
 shortcode: swiftelkcamp
-name: {full: Swift-Elk Camp, aliases: [The Swift-Elk Camp]}
+name: {full: Swift-Elk Camp, en: [The Swift-Elk Camp]}
 type: place
 subType: site
 description: "One of the Garskald's three seasonal camps, on the Moldún where the river crossings make good ambush points for migrating herds."

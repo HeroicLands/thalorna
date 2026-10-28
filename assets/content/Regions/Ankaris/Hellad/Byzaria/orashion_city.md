@@ -1,6 +1,6 @@
 ---
 shortcode: orashion2
-name: {full: Órashion, aliases: []}
+name: {full: Órashion}
 type: place
 subType: settlement
 description: "Blackstone, the League's forge city of basalt walls, mines and guild masters, where the forges burn day and night."

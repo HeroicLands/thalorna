@@ -1,6 +1,6 @@
 ---
 shortcode: nmspt
-name: {full: Nemespite, aliases: []}
+name: {full: Nemespite}
 type: being
 subType: creature
 description: "An intelligent, venomous insectoid predator that hunts in coordinated packs across warm highlands, caves, and blighted lands."

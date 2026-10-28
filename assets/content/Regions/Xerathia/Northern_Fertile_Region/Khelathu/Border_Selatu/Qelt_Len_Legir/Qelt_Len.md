@@ -1,6 +1,6 @@
 ---
 shortcode: qeltlen
-name: {full: Qelt-Len, aliases: []}
+name: {full: Qelt-Len}
 type: place
 subType: settlement
 description: "Selat capital of Qelt-Len-Legir."

@@ -1,6 +1,6 @@
 ---
 shortcode: bloodfield
-name: {full: Blood-fields, aliases: []}
+name: {full: Blood-fields}
 type: lore
 subType: cosmology
 description: "Ground where a great many died at once, unreceived by their own rites, and the boundary with the spirit realm tore and did not close: what makes one, the five kinds, how thin a field runs and what crosses it, who keeps one, what ends one, and the register of the fields every people names."

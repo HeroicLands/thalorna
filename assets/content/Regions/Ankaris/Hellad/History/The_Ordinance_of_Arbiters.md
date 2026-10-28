@@ -1,6 +1,6 @@
 ---
 shortcode: heladordinance
-name: {full: The Ordinance of Arbiters, aliases: [The Burnt Yards Ordinance]}
+name: {full: The Ordinance of Arbiters, en: [The Burnt Yards Ordinance]}
 type: lore
 subType: history
 description: "About 584 AF a feud between two shipping houses of Nesthiros burns the yards and half the harbor district in a night, and the League council answers with an ordinance: a dispute between chartered men goes to an arbiter both sides name, the guilds enforce the ruling, and a man who takes private revenge loses his charter and his contracts."

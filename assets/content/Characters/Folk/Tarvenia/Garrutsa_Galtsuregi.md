@@ -1,6 +1,6 @@
 ---
 shortcode: garrutsagalt
-name: {full: Garrutsa Galtsuregi, aliases: [Smuggling Magnate Garrutsa]}
+name: {full: Garrutsa Galtsuregi, en: [Smuggling Magnate Garrutsa]}
 type: being
 subType: npc
 description: A merchant of questionable legitimacy who has been running contraband through the city's gates for decades, named in Haldena Durgana.

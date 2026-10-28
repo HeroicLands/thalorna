@@ -1,6 +1,6 @@
 ---
 shortcode: tilaban
-name: {full: Tilaban, aliases: []}
+name: {full: Tilaban}
 type: place
 subType: settlement
 description: "Sesame village of the dry terrace above the flood-line, which presses the janpoda's lamp-oil."

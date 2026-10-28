@@ -1,6 +1,6 @@
 ---
 shortcode: mildrdhrdn
-name: {full: Mildrun Harden, aliases: []}
+name: {full: Mildrun Harden}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]

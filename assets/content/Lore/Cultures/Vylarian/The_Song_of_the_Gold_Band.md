@@ -1,6 +1,6 @@
 ---
 shortcode: goldbandsng
-name: {full: The Song of the Gold Band, aliases: [The Urzelthos's Road-Song]}
+name: {full: The Song of the Gold Band, en: [The Urzelthos's Road-Song]}
 type: lore
 subType: literature
 description: "The road-song the Karzen Ethlos Urzelthos sings to the step on the northern march: the call and the answer, the valley closed above the host, the water at its foot, the eagle taken out of the reeds, the gold band on the legion's name, the parade verses that end on the four words of the manual, and the two road verses the officers do not hear."
@@ -18,7 +18,7 @@ data:
     - lore-twelfthloss
     - lore-veteranslaw
     - lore-vylarianclt
-  language: vylarilng
+  lang: vyl
 
 # terran_analog: "The marching songs of the Roman legions that Suetonius records, sung at triumphs and on the road and as rude about the general as about the enemy; the call-and-response cadence of soldiers' songs in every army; and the battle honors a regiment carries on its colors and sings about."
 ---

@@ -1,6 +1,6 @@
 ---
 shortcode: panepistmm
-name: {full: Epistémion, aliases: [The Academy, Academy of Knowledge, Epistémion]}
+name: {full: The Academy, en: [Academy of Knowledge], helo: [Epistémion]}
 type: affiliation
 subType: guild
 description: "Ancient scholarly federation of all human knowledge, co-opted as intellectual cover for the Thordimalon's spread through chapterhouses across western Ankaris."

@@ -1,8 +1,6 @@
 ---
 shortcode: jcklsthmrchs
-name:
-  full: The Jackals of the South Marches
-  aliases: [The Jackals, The Unhoused, Argirira's Jackals]
+name: {full: The Jackals of the South Marches, en: [The Jackals, The Unhoused, Argirira's Jackals]}
 type: affiliation
 subType: venture
 description: "A warband of the Houseless gathered in the drylands south of Bethua—exiled Bethuan women and cast-out Spadai eunuch-warriors, padded with marcher men—led by the renegade spear-sister Argirira the Jackal."

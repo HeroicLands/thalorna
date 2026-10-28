@@ -1,6 +1,6 @@
 ---
 shortcode: shdwclw
-name: {full: Shadowclaw, aliases: []}
+name: {full: Shadowclaw}
 type: being
 subType: creature
 description: "A highly intelligent pack-hunting reptile up to twelve feet long, coordinating sophisticated ambushes across jungles and rocky valleys as an apex predator."

@@ -1,6 +1,6 @@
 ---
 shortcode: flarnthannbr
-name: {full: Flarnthann Braldaruk, aliases: [Merchant-Prince Flarnthann Braldaruk]}
+name: {full: Flarnthann Braldaruk, en: [Merchant-Prince Flarnthann Braldaruk]}
 type: being
 subType: npc
 description: A merchant-prince and wealthy leader of trading expeditions who has used Braldthann Veturdómur's tents for three decades.

@@ -1,6 +1,6 @@
 ---
 shortcode: pnthnrgnlmp
-name: {full: Pantheon Regional Map, aliases: []}
+name: {full: Pantheon Regional Map}
 type: lore
 subType: theology
 description: "Cartography of religious tradition across Thalorna, showing pantheon worship by region and documenting shared deities who manifest across multiple cosmologies."

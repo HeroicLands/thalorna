@@ -1,6 +1,6 @@
 ---
 shortcode: wristwrap
-name: {full: Twilight House Wrist-Wrap, aliases: []}
+name: {full: Twilight House Wrist-Wrap}
 type: miscgear
 description: "Fine cloth wound over the wrist-line, taught by the Twilight House as a fashion rather than a concealment."
 tags: []

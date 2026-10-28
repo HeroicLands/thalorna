@@ -1,6 +1,6 @@
 ---
 shortcode: tipelspr
-name: {full: "Timel, the Hawk of the Spine", aliases: []}
+name: {full: "Timel, the Hawk of the Spine"}
 type: lore
 subType: spirit
 description: "Hawk-spirit of the high Drenavar air—distant, exact about its crags, and the Kindred consulted about weather and distance."

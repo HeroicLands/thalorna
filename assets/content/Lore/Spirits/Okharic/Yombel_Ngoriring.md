@@ -1,6 +1,6 @@
 ---
 shortcode: yombelspr
-name: {full: Yombel Ngoriring, aliases: [The Mother of Rivers]}
+name: {full: The Mother of Rivers, okha: [Yombel Ngoriring]}
 type: lore
 subType: spirit
 description: "Zohira of rivers—met at every ford in Okharis, and the one a tribe deals with about water it must cross or drink."

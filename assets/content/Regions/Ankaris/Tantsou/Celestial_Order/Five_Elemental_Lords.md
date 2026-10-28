@@ -1,6 +1,6 @@
 ---
 shortcode: fvlmntlrds
-name: {full: Five Elemental Lords, aliases: []}
+name: {full: Five Elemental Lords}
 type: lore
 subType: deity
 description: "The five bureau chiefs of Tantsou's Celestial Order who keep the material domains—Air, Fire, Earth, Metal and Water—and the petitions each one receives."

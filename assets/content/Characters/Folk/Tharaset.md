@@ -1,6 +1,6 @@
 ---
 shortcode: tharaset
-name: {full: Tharaset, aliases: []}
+name: {full: Tharaset}
 type: being
 subType: npc
 description: "A mercenary captain of two hundred, who equips them better than her contracts strictly require"

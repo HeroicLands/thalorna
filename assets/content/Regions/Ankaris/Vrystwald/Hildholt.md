@@ -1,6 +1,6 @@
 ---
 shortcode: hildholt
-name: {full: Hildholt, aliases: []}
+name: {full: Hildholt}
 type: place
 subType: settlement
 description: "A Varokh village in Skathwald."

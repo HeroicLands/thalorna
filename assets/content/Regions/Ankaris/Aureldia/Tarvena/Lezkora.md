@@ -1,6 +1,6 @@
 ---
 shortcode: lezkora
-name: {full: Lezkora, aliases: []}
+name: {full: Lezkora}
 type: place
 subType: settlement
 description: "The fortress-city on a near-inaccessible plateau in Asturath's central mountains, the traditional seat of Tarvénia's High King."

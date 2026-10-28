@@ -1,6 +1,6 @@
 ---
 shortcode: rsnmgttn
-name: {full: Rasunum Gatituni, aliases: []}
+name: {full: Rasunum Gatituni}
 type: being
 subType: npc
 tags: [draft, guilded, administration]

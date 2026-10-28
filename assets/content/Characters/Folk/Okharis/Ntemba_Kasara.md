@@ -1,6 +1,6 @@
 ---
 shortcode: ntembakasara
-name: {full: Ntemba Kásara, aliases: [Chief Ntemba]}
+name: {full: Ntemba Kásara, en: [Chief Ntemba]}
 type: being
 subType: npc
 description: The chief of Kiroba of the Shókuma's tribe, who sees great potential in him and has tasked him with protecting the tribe.

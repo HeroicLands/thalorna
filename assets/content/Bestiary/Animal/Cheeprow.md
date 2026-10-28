@@ -1,6 +1,6 @@
 ---
 shortcode: cheeprow
-name: {full: Cheeprow, aliases: []}
+name: {full: Cheeprow}
 type: being
 subType: creature
 description: "A ten-inch creature of disarming cuteness that lures travelers with innocent charm before revealing itself as a dangerous pack predator."

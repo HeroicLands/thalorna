@@ -1,6 +1,6 @@
 ---
 shortcode: khofiosbolal
-name: {full: Kofios Bolalidek, aliases: [Swordmaster Kofios the Undefeated, Swordmaster Kofios]}
+name: {full: Kofios Bolalidek, en: [Swordmaster Kofios the Undefeated, Swordmaster Kofios]}
 type: being
 subType: npc
 description: A swordmaster called the Undefeated, in the service of the Empire's rival power, who envies Koremdanis Barkratis's reputation.

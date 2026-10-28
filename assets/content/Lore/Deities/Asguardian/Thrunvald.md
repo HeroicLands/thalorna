@@ -1,6 +1,6 @@
 ---
 shortcode: thrunvalddty
-name: {full: Thrunvald, aliases: []}
+name: {full: Thrunvald}
 type: lore
 subType: deity
 description: "The Thunderer of the Asguardian gods—war, the sea, and the reavers who cross it."

@@ -1,6 +1,6 @@
 ---
 shortcode: svartbrandur
-name: {full: Faith of Svartbrandur, aliases: [The Flameborn Path]}
+name: {full: Faith of Svartbrandur, en: [The Flameborn Path]}
 type: affiliation
 subType: faithtradition
 description: "Fire and Savage Battle."

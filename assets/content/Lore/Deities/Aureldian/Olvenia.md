@@ -1,6 +1,6 @@
 ---
 shortcode: olveniadty
-name: {full: Ólvenia, aliases: []}
+name: {full: Ólvenia}
 # terran_analog: Venus, the Roman goddess of love and prosperity
 type: lore
 subType: deity

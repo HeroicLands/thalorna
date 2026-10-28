@@ -1,6 +1,6 @@
 ---
 shortcode: elxdrk
-name: {full: "Owl's Benediction", aliases: [Darkvision Elixir]}
+name: {full: Owl's Benediction, en: [Darkvision Elixir]}
 type: concoctiongear
 subType: elixir
 description: "Midnight-blue elixir; grants darkness vision to distance of Aural Shock."

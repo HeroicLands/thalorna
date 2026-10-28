@@ -1,6 +1,6 @@
 ---
 shortcode: wrtchalish
-name: {full: Writing Ch'alish P'ilam, aliases: []}
+name: {full: Writing Ch'alish P'ilam}
 type: doc
 subType: reference
 description: "How to put meaning into the common hand of Ch'alish P'ilam: choosing glyphs, compounds, sounds and names, and writing them in Chalish Common Codage."

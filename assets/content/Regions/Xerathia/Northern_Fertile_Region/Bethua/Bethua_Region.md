@@ -1,6 +1,6 @@
 ---
 shortcode: bethuargn
-name: {full: Bethua Region, aliases: []}
+name: {full: Bethua Region}
 type: place
 subType: region
 description: The central coast of Zerathia's northern shore, between Okharis and Au'Khelathu, and the engineered interior behind it—the widest and most reliable of the fertile littoral, held by the Matriarchy of Bethua.

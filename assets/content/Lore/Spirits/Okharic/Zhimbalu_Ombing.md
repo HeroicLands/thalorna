@@ -1,6 +1,6 @@
 ---
 shortcode: zhimbalspr
-name: {full: Zhimbalu Ombing, aliases: [The Shadow of the Forest]}
+name: {full: The Shadow of the Forest, okha: [Zhimbalu Ombing]}
 type: lore
 subType: spirit
 description: "Zohira of the hunt and of the guardian predators—the spirit a candidate meets in the Spirit Hunt, and the one that decides whether they return."

@@ -1,6 +1,6 @@
 ---
 shortcode: terravia
-name: {full: Therkara, aliases: []}
+name: {full: Therkara}
 type: place
 subType: settlement
 description: "Town"

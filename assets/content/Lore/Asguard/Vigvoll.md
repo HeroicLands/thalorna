@@ -1,6 +1,6 @@
 ---
 shortcode: vigvoll
-name: {full: Vigvoll, aliases: []}
+name: {full: Vigvoll}
 type: place
 subType: region
 description: "The plain where the defending gods and the Valdrengir muster for Aldarlok."

@@ -1,6 +1,6 @@
 ---
 shortcode: rvthrbrmztr
-name: {full: Revothar Baremzator, aliases: []}
+name: {full: Revothar Baremzator}
 type: being
 subType: npc
 tags: [todo, draft, clergy]

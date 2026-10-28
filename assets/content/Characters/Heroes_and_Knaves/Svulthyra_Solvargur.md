@@ -1,6 +1,6 @@
 ---
 shortcode: svlthyrslvrgr
-name: {full: Svulthira Solvargur, given: Svulthira, clan: Solvargur, aliases: []}
+name: {full: Svulthira Solvargur, given: Svulthira, clan: Solvargur}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]

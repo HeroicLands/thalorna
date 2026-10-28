@@ -1,6 +1,6 @@
 ---
 shortcode: nahilddty
-name: {full: Nahild, aliases: []}
+name: {full: Nahild}
 type: lore
 subType: deity
 description: "The Despiser of Life among the Asguardian gods, holding the dead and the underworld they pass into."

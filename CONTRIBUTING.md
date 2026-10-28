@@ -73,7 +73,7 @@ Follow [Mark every name](assets/content/README-gazeteer.md#mark-every-name):
 introduce a proper name in full with a wikilink to its surviving indexed note,
 or `[Full Name]{.name data-type="type/subType"}` where no note exists. Use a
 typed name instead of creating an empty placeholder note. The note's own
-subject is plain text; later mentions may use plain natural aliases. Bold is
+subject is plain text; later mentions may use plain natural short forms. Bold is
 emphasis and never identifies a name for tooling.
 
 A named person defaults to `being/npc` unless the owner explicitly designates
@@ -148,23 +148,45 @@ _Thrall_: the full name must identify the culture's particular standing. The
 note takes the culture's own word, entered in that language's dictionary, and
 the translated word stays in its description.
 
-## Aliases
+## Other names
 
-An alias is an explanatory phrase or a genuine other name: an exonym, a folk
-name or an endonym that someone in the setting uses. It is never a respelling
-of the full name or a fragment of it.
+A note's `name.full` is its English name: the title of its page, its compendium
+entry and its index line. Every other name the subject goes by is listed under
+the code of the language it is in, a code `package-build.config.yaml`
+`languages:` declares, or `en` for another English name:
 
+```yaml
+name: { full: Grass People, kiichek: ["P'enqal Ch'akal"], tenl: [tenlaya] }
+```
+
+- The first form in a list is that language's standard form.
+- `full` already counts as English, so `en` never repeats it.
+- A form under a caseless language is written lowercase, as its roman is.
+- A people gives its English name as `full`, its own name first under its own
+  language, and another people's name for it under that people's language.
+- A name is a genuine other name: an exonym, a folk name or an endonym that
+  someone in the setting uses, or an explanatory phrase. It is never a respelling
+  of the full name or a fragment of it.
 - A respelling is unnecessary. Resolution folds case, diacritics and a leading
   article, so `Kardeth` already finds `Kárdeth` and `Sons of Eldheim` already
   finds `The Sons of Eldheim`. A singular or plural of the full name is a
   respelling too.
 - A word of the full name is found by the editor's completion and the content
-  index, which match any part of a name, so it is not written as an alias.
+  index, which match any part of a name, so it is not listed as a form.
   A note whose full name opens with a descriptor, such as `Kingdom of`, `Faith
-of` or `Ritual:`, keeps the bare name as an alias because the printed index
+of` or `Ritual:`, keeps the bare name under `en` because the printed index
   files a note only under the first word of its full name.
-- A former name is not an alias. A note answers to its current name; renames
+- A former name is not a form. A note answers to its current name; renames
   are recorded in the concordance and in git, and links resolve by address.
+
+## A note's language
+
+Every note is in one language. A note may state it as `data.lang`, a code
+`languages:` declares or `en`; a culture note always states it, because that is
+how the notes of its people find their tongue. A note that states none takes
+its culture's language, then its parents', nearest first, then `en`. State
+`data.lang` on a note where that derivation is wrong, such as a frontier town
+whose region speaks another tongue.
 
 ## Demonyms
 

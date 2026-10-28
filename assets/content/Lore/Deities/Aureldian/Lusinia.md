@@ -1,6 +1,6 @@
 ---
 shortcode: lusiniadty
-name: {full: Lusinia, aliases: []}
+name: {full: Lusinia}
 type: lore
 subType: deity
 description: "The World-Weaver of the Aureldian pantheon, from whose spinning the world and everything in it was made."

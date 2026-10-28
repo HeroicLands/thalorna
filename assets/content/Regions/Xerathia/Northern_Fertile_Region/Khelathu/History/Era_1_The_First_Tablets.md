@@ -1,6 +1,6 @@
 ---
 shortcode: akhfirsttab
-name: {full: The First Tablets, aliases: [The Age of Divine Kings, The First Age]}
+name: {full: The First Tablets, en: [The Age of Divine Kings, The First Age]}
 type: lore
 subType: history
 description: "1 to 1006 ST (2110 to 1105 BF): eleven Gar-Auu in two houses, reigns of a length no one lives, the fixing of the sacred hand, and the first kings laid in the Great Land of Zu-Ger."

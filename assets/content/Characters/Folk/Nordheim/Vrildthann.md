@@ -1,6 +1,6 @@
 ---
 shortcode: vrildthann
-name: {full: Vrildthann, aliases: [King Vrildthann]}
+name: {full: Vrildthann, en: [King Vrildthann]}
 type: being
 subType: npc
 description: The king of the Northern Court, whom Murvselda the Enchantress saved from his corrupt advisor.

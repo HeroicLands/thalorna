@@ -1,6 +1,6 @@
 ---
 shortcode: thremuzara
-name: {full: Thremuzara, aliases: []}
+name: {full: Thremuzara}
 type: place
 subType: settlement
 description: "Fishing Town"

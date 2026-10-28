@@ -1,6 +1,6 @@
 ---
 shortcode: dragorahreer
-name: {full: Dragorahre Eriakit, aliases: [High Priestess Dragorahre Eriakit]}
+name: {full: Dragorahre Eriakit, en: [High Priestess Dragorahre Eriakit]}
 type: being
 subType: npc
 description: A priestess of the same order as Sakozes Bulides's mother.

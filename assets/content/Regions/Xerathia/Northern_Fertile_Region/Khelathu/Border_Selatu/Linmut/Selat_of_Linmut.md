@@ -1,6 +1,6 @@
 ---
 shortcode: selatlinmut
-name: {full: The Selat of Linmut, aliases: []}
+name: {full: The Selat of Linmut}
 type: affiliation
 subType: polity
 description: "A river-island fortress-selat at the second cataract; gateway and toll-gate—one of the border selatu of Au'Khelathu."

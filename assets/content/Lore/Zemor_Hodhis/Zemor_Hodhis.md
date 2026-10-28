@@ -1,6 +1,6 @@
 ---
 shortcode: zemorhodhis
-name: {full: Zemor Hodhis, aliases: [The Six Ways, The Thizaron]}
+name: {full: The Six Ways, helo: [Zemor Hodhis], vyl: [The Thizaron]}
 type: affiliation
 subType: arcanetradition
 tags: [lore, arcane, zemor-hodhis, ordo-arcanis]

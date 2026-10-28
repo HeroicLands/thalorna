@@ -1,6 +1,6 @@
 ---
 shortcode: sagaskalforv
-name: {full: Saga of Skalforv Thunderstrike, aliases: []}
+name: {full: Saga of Skalforv Thunderstrike}
 type: lore
 subType: literature
 description: "An attributed Nordmen hero saga of Skalforv’s four-day battle with Heimsormur and return to the threatened coast."
@@ -9,7 +9,7 @@ data:
   packFolder: nordlands
   culture: nordheimnclt
   form: saga
-  language: nordmalng
+  lang: nord
   subjects: [being-sklfrvthndrstrk, lore-heimsormur, lore-thrunvalddty]
 ---
 

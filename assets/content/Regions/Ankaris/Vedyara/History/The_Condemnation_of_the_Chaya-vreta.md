@@ -1,6 +1,6 @@
 ---
 shortcode: chayacondm
-name: {full: The Condemnation of the Chaya-vreta, aliases: []}
+name: {full: The Condemnation of the Chaya-vreta}
 type: lore
 subType: history
 description: "About 470 AF the Council of the Dream of the Svapnasari-sameja condemned the dream-line that works the dreams of the waking and unwilling, and held the condemnation open; the monasteries closed to it, and the vow went on outside them, one student at a time."

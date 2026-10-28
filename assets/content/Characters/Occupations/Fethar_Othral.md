@@ -1,6 +1,6 @@
 ---
 shortcode: fetharthrl
-name: {full: Hethar Othral, aliases: []}
+name: {full: Hethar Othral}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

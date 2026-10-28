@@ -2,7 +2,7 @@
 shortcode: mtrrchybth
 name:
   full: Matriarchy of Bethua
-  aliases:
+  en:
     - Government of Bethua
     - The Two Pillars
     - The Metrissa and the Two Councils

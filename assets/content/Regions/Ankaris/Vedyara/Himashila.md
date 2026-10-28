@@ -1,6 +1,6 @@
 ---
 shortcode: himashila
-name: {full: Himashila, aliases: []}
+name: {full: Himashila}
 type: place
 subType: site
 description: "The slab at the head of the Chandramahi's source—gray, warm, giving under a thumb, unmarked by anything the ice or the temple has done to it in four hundred years."

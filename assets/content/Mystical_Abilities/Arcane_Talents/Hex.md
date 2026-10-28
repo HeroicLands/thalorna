@@ -1,6 +1,6 @@
 ---
 shortcode: hex
-name: {full: Hex, aliases: []}
+name: {full: Hex}
 type: mysticalability
 subType: arcanetalent
 description: "Sets misfortune on a named person, which follows them until it has spent itself."

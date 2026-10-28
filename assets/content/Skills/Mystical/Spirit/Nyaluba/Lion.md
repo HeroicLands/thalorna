@@ -1,6 +1,6 @@
 ---
 shortcode: lionruwozisprt
-name: {full: "Lion Spirit Power", aliases: [Lion Spirit, Ruwozi Lion]}
+name: {full: Lion Spirit Power, en: [Lion Spirit, Ruwozi Lion]}
 type: skill
 subType: mystical
 description: "Standing with the lion-spirit of the Ruwozi—what an allied guide of the Nyáluba Way is met and asked with."

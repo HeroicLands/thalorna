@@ -1,6 +1,6 @@
 ---
 shortcode: telvari
-name: {full: Telvari, aliases: []}
+name: {full: Telvari}
 type: place
 subType: settlement
 description: "A town of twelve hundred on an islet off Kalihara's eastern approaches—the pilots' island, where a foreign ship waits for the Kaliharan who will take her in."

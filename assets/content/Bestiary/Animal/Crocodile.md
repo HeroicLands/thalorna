@@ -1,6 +1,6 @@
 ---
 shortcode: crcdl
-name: {full: Crocodile, aliases: []}
+name: {full: Crocodile}
 type: being
 subType: creature
 description: "A semi-aquatic ambush predator of warm waters, lying motionless for days before erupting into explosive violence to seize its prey."

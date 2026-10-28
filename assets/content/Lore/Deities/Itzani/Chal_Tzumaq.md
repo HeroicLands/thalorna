@@ -1,6 +1,6 @@
 ---
 shortcode: chaltzumaq
-name: {full: "Ch'al Ts'umaq", aliases: []}
+name: {full: Ch'al Ts'umaq}
 type: place
 subType: region
 description: "The Itsani underworld beneath every cenote, cave and sacred spring—a labyrinth of chambers, trials and deceptions the soul must pass to be reborn."

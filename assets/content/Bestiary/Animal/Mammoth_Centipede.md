@@ -1,6 +1,6 @@
 ---
 shortcode: mmmthcnt
-name: {full: Mammoth Centipede, aliases: []}
+name: {full: Mammoth Centipede}
 type: being
 subType: creature
 description: "A glossy, dark-plated arthropod up to eight feet long, its many-legged segments driving small mandibles and probing antennae through the undergrowth."

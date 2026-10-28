@@ -1,6 +1,6 @@
 ---
 shortcode: danvar
-name: {full: The Danvar, aliases: [The Bankers' Guild, The Moneylenders' Guild]}
+name: {full: The Bankers' Guild, en: [The Moneylenders' Guild], vyl: [The Danvar]}
 type: affiliation
 subType: guild
 description: "The moneylenders' guild chartered under the Tevran Maldor—the visible banking institution of the post-imperial commonwealth, whose chapterhouses operate the note-clearing system that the Tarmeks Orzan stands quietly behind."

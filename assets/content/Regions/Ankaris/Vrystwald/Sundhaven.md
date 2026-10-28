@@ -1,6 +1,6 @@
 ---
 shortcode: sundhaven
-name: {full: Sundhaven, aliases: []}
+name: {full: Sundhaven}
 type: place
 subType: settlement
 description: "A Varokh village on Falkhaven's western shore that a stranded whale fed through the worst of the Three Winters."

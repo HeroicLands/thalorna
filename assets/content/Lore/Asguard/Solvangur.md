@@ -1,6 +1,6 @@
 ---
 shortcode: solvangur
-name: {full: Solvangur, aliases: [The Sun-Field]}
+name: {full: Solvangur, en: [The Sun-Field]}
 type: place
 subType: region
 description: "Solrún's region of Asguard, the open field taking the other half of the honored dead, with the hall of the same name at its head."

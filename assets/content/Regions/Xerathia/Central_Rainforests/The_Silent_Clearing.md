@@ -1,6 +1,6 @@
 ---
 shortcode: slntclrng
-name: {full: The Silent Clearing, aliases: [The Hush, The Dead Circle]}
+name: {full: The Silent Clearing, en: [The Hush, The Dead Circle]}
 type: place
 subType: site
 description: "A perfect circle in the deep forest where nothing grows and no bird calls: a wound where the Shadow touched the world, from which the forest's undead come."

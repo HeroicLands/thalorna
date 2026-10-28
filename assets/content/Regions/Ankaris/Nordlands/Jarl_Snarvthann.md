@@ -1,6 +1,6 @@
 ---
 shortcode: snrvthn
-name: {full: Jarl Snarvthann, aliases: [Snarvthann]}
+name: {full: Jarl Snarvthann, en: [Snarvthann]}
 type: being
 subType: npc
 description: "A wealthy and corrupt jarl whom Dvirnmil the Deceiver lured into the mountains and robbed."

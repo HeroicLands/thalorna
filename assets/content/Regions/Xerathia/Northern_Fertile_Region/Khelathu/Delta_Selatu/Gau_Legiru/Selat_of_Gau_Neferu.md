@@ -1,6 +1,6 @@
 ---
 shortcode: selatgaulegr
-name: {full: The Selat of Gau-Legiru, aliases: []}
+name: {full: The Selat of Gau-Legiru}
 type: affiliation
 subType: polity
 description: "The garden-coast selat of the Au'Khelathu delta—a wet, mild strip of citrus orchards, olive groves, vineyards, and date plantations along the Vylarian shore, dotted with the country villas of the delta merchant-princes and producing the empire's finest luxury crops."

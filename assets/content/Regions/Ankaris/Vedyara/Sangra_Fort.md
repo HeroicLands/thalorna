@@ -1,6 +1,6 @@
 ---
 shortcode: sangrafort
-name: {full: The Sangra-fort, aliases: []}
+name: {full: The Sangra-fort}
 type: place
 subType: structure
 description: "The Mahva-Sangra's one standing garrison—a stone work on the col of the conch-door, held for four centuries because of a single invasion, and read by Shikhalaya as a rival's outpost."

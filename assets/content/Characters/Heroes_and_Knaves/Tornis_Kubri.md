@@ -1,6 +1,6 @@
 ---
 shortcode: torniskbry
-name: {full: Tornis Kubri, given: Tornis, clan: Kubri, aliases: [Kalen]}
+name: {full: Tornis Kubri, given: Tornis, clan: Kubri, tarv: [Kalen]}
 type: being
 subType: character
 tags: [hero, silent-talon, unguilded, soldiery]

@@ -1,6 +1,6 @@
 ---
 shortcode: erthhaven
-name: {full: Erthhaven, aliases: []}
+name: {full: Erthhaven}
 type: place
 subType: settlement
 description: "A Varokh village in Vandstein."

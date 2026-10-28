@@ -1,6 +1,6 @@
 ---
 shortcode: zurathradty
-name: {full: Zúrathra, aliases: []}
+name: {full: Zúrathra}
 type: lore
 subType: deity
 description: "Mother of the Oasis in the Ashaian pantheon—water, fertility, and the healing that follows both."

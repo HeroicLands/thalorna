@@ -1,6 +1,6 @@
 ---
 shortcode: magngndorery
-name: {full: Grand Orrery, aliases: [Mechanical Court]}
+name: {full: Grand Orrery, en: [Mechanical Court]}
 type: place
 subType: structure
 description: "Grand Orrery"

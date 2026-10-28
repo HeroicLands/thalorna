@@ -1,6 +1,6 @@
 ---
 shortcode: zetstone
-name: {full: The Zet Stone, aliases: []}
+name: {full: The Zet Stone}
 type: mysticalability
 subType: arcaneincantation
 description: "Joins worked stone so that the join is as sound as the stone."

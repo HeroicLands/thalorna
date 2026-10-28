@@ -1,6 +1,6 @@
 ---
 shortcode: vylconquest
-name: {full: The Vylarian Conquest, aliases: []}
+name: {full: The Vylarian Conquest}
 type: lore
 subType: history
 description: "In 377 AF a Vylarian army met the chariot corps at the delta apex, held its line while the corps broke, and had its commander crowned Gar-Au; the field is the Chariot Field, the one thin blood-field in Au'Khelathu."

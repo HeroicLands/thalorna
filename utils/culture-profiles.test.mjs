@@ -27,22 +27,38 @@ function frontmatter(file) {
 
 const notes = [...markdown(ROOT)].map((file) => ({ file, front: frontmatter(file) }));
 const cultures = notes.filter(({ front }) => front?.type === "lore" && front.subType === "culture");
+const config = YAML.parse(fs.readFileSync("package-build.config.yaml", "utf8"));
+/** The language codes whose note is a language skill of this package. */
 const languages = new Set(
-    notes
-        .filter(({ front }) => front?.type === "skill" && front.subType === "language")
-        .map(({ front }) => `skill-${front.shortcode}`),
+    Object.entries(config.languages ?? {})
+        .filter(([, language]) => language?.note)
+        .map(([code]) => code),
 );
+const byShortcode = new Map(cultures.map((culture) => [culture.front.shortcode, culture]));
+
+/** A culture's language: its own `data.lang`, else its first parent culture's. */
+function cultureLanguage(culture, seen = new Set()) {
+    if (culture.front.data?.lang) return culture.front.data.lang;
+    seen.add(culture.front.shortcode);
+    for (const parent of culture.front.data?.parents ?? []) {
+        const next = byShortcode.get(String(parent).replace(/^lore-/, ""));
+        if (!next || seen.has(next.front.shortcode)) continue;
+        const found = cultureLanguage(next, seen);
+        if (found) return found;
+    }
+    return undefined;
+}
 
 test("the content tree holds culture notes", () => {
     assert(cultures.length > 0);
 });
 
-test("every culture names the language skill its people speak", () => {
+test("every culture resolves the language its people speak", () => {
     const missing = cultures
-        .filter(({ front }) => !languages.has(front.data?.language))
+        .filter((culture) => !languages.has(cultureLanguage(culture)))
         .map(
-            ({ file, front }) =>
-                `${file}: data.language is ${JSON.stringify(front.data?.language)}`,
+            (culture) =>
+                `${culture.file}: data.lang resolves to ${JSON.stringify(cultureLanguage(culture))}`,
         );
     assert.deepEqual(missing, []);
 });

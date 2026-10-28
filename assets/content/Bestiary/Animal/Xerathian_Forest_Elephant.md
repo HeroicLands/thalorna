@@ -1,6 +1,6 @@
 ---
 shortcode: xrthnfrs
-name: {full: Zerathian Forest Elephant, aliases: []}
+name: {full: Zerathian Forest Elephant}
 type: being
 subType: creature
 description: "A smaller, elusive tropical-forest elephant that avoids humans and vanishes into dense jungle through camouflage and reclusive habits."

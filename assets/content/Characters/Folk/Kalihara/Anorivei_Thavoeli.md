@@ -1,6 +1,6 @@
 ---
 shortcode: anoriveithav
-name: {full: Anorivei Thavoeli, aliases: [Merchant-Prince Anorivei]}
+name: {full: Anorivei Thavoeli, en: [Merchant-Prince Anorivei]}
 type: being
 subType: npc
 description: The merchant-prince of an Ilovanu house in rare spice and cut stones, named in Tavonei Reithuri.

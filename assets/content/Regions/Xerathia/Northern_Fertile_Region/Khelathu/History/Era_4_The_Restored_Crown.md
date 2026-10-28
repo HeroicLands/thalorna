@@ -1,6 +1,6 @@
 ---
 shortcode: akhrestcrown
-name: {full: The Restored Crown, aliases: []}
+name: {full: The Restored Crown}
 type: lore
 subType: history
 description: "1671 to 1990 ST (440 to 121 BF): the longest stretch of unbroken rule before the Near Count, in which a house of the sun built its own capital, the throne reached for the eastern temple-cities of Okharis, and sea-raiders held the crown for three reigns."

@@ -1,6 +1,6 @@
 ---
 shortcode: swoasisbelt
-name: {full: Tellumel, aliases: []}
+name: {full: Tellumel}
 type: place
 subType: region
 description: "The irrigated strip along the north foot of the Grazian Mountains—the well-watered oasis cities and gardens of the Tellumi and the Atarzád, claimed by both."

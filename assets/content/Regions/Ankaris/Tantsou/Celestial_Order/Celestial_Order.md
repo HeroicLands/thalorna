@@ -1,6 +1,6 @@
 ---
 shortcode: celestlrdr
-name: {full: Celestial Order, aliases: []}
+name: {full: Celestial Order}
 type: lore
 subType: theology
 description: "The Celestial Order, the faith of Tantsou—a universe run as a classification, gods as officials, morality as a ledger, temples as offices, and magic as a petition to heaven's bureaus."

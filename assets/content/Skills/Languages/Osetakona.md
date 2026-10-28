@@ -1,6 +1,6 @@
 ---
 shortcode: osetakonalng
-name: {full: Osetakona Language, aliases: []}
+name: {full: Osetakona Language}
 type: skill
 subType: language
 description: "The unwritten tongue of the Maple People of the northeastern lakes: long words, open vowels and no sound made with the lips, spoken in the longhouses and the councils."
@@ -6244,14 +6244,9 @@ data:
     - {tag: exonym:<tongue>, meaning: "a name another people gives, in the tongue named"}
   register:
     - {name: osetakona, tongue: osetakona, built: [oseta, -kona]}
-    - {name: Maple People, tongue: translation}
-    - {name: "Shik'ul Ch'akal", tongue: exonym:kiichek}
-    - {name: Osetakona Language, tongue: translation}
-    - {name: Osetakona Region, tongue: translation}
     - {name: osetaten, tongue: osetakona, built: [oseta, -ten]}
     - {name: Grove, tongue: translation}
     - {name: ostakaten, tongue: osetakona, built: [ostaka, -ten]}
-    - {name: Kettle, tongue: translation}
     - {name: kahsiotakona, tongue: osetakona, built: [kahsiota, -kona]}
     - {name: Falls People, tongue: translation}
     - {name: tsikenhakona, tongue: osetakona, built: [tsikenha, -kona]}

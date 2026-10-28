@@ -1,6 +1,6 @@
 ---
 shortcode: linzamlkhlth
-name: {full: Lin'Zamlu elu Au'Khelathu, aliases: [The Minstrels' Guild of Au'Khelathu]}
+name: {full: Lin'Zamlu elu Au'Khelathu, en: [The Minstrels' Guild of Au'Khelathu]}
 type: affiliation
 subType: guild
 description: The chartered guild of the empire's musicians and singers, which its members attend sporadically and invoke constantly

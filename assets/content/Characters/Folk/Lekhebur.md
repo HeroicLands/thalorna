@@ -1,6 +1,6 @@
 ---
 shortcode: lekhebur2
-name: {full: Lekhebur, aliases: []}
+name: {full: Lekhebur}
 type: being
 subType: npc
 description: "A corrupt noble whose arrangements are widely suspected and nowhere documented"

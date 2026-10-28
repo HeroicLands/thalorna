@@ -21,7 +21,7 @@ data:
     - place-ashkarad
     - place-kethramir
     - place-oasishirvn
-  language: atarzadilng
+  lang: atar
 ---
 
 **The Twelve Years** is the [[affiliation-tribestrzd|Atarzád account]] of the war the [[lore-khazrynclt|Tellumi]] call [Turem]{.name data-type="lore/history"}, the Breaking. It is told in the speaker's own voice at [The Festival of the Promise]{.name data-type="lore/gathering"}, where the tribes gather at [[place-mountshofar|Mount Shofar]] and renew the [Covenant]{.name data-type="lore/law"}. The telling below belongs to no named house; it gives the tribes' account of what they hold, and leaves the Tellumi answer in the mouth of the people who keep it.

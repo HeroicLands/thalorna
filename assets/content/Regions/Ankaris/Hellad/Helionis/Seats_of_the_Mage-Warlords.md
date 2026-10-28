@@ -1,6 +1,6 @@
 ---
 shortcode: warlordseats
-name: {full: The Seats of the Mage-Warlords, aliases: [The Warlords' Towers]}
+name: {full: The Seats of the Mage-Warlords, en: [The Warlords' Towers]}
 type: place
 subType: site
 description: "The ruined towers and walled workshops in the hills of several Helionite cities where the mage-warlords of the war of 335 to 312 BF worked, Theradon's among them: shells that treasure-seekers dig at and that scholars, and the Arcane Order, visit."

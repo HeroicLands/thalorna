@@ -1,6 +1,6 @@
 ---
 shortcode: thornwood
-name: {full: Thornwood, aliases: []}
+name: {full: Thornwood}
 type: place
 subType: feature
 description: "A wood near the great crossroads of southern Provenzia, haunt of Captain Kalzote's road bandits and their raids on the Traveler's Rest Inn's horses."

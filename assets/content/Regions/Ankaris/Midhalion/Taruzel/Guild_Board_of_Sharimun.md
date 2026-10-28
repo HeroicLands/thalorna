@@ -1,6 +1,6 @@
 ---
 shortcode: gldbrdshrmn
-name: {full: Guild Board of Sharimun, aliases: []}
+name: {full: Guild Board of Sharimun}
 type: affiliation
 subType: polity
 description: "The guild government of the port town of Sharimun, whose magistrates sit under the Confederation of Taruzelian States."

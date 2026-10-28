@@ -1,6 +1,6 @@
 ---
 shortcode: olvenia
-name: {full: "Ritual: Ólvenia", aliases: [Ólvenia, The Bountiful One]}
+name: {full: "Ritual: Ólvenia", en: [Ólvenia, The Bountiful One]}
 type: skill
 subType: mystical
 tags: [aureldian, faith-skill, draft]

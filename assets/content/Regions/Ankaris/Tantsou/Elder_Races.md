@@ -1,6 +1,6 @@
 ---
 shortcode: elderraces
-name: {full: Elder Races, aliases: []}
+name: {full: Elder Races}
 type: lore
 subType: folk
 description: "How the Sinale and Khazari live within the Empire of Tantsou—classified into castes by their work, self-governing in their enclaves, and watched by an empire that cannot account for their magic."

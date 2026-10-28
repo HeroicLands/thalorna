@@ -1,6 +1,6 @@
 ---
 shortcode: garzanitselt
-name: {full: Gar-Zanit Selat, aliases: []}
+name: {full: Gar-Zanit Selat}
 type: place
 subType: region
 description: "Flax fields and the linen-weaving towns whose cloth clothes the empire—the land of the Selat of Gar-Zanit, one of the delta selatu of Au'Khelathu."

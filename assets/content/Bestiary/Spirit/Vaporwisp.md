@@ -1,6 +1,6 @@
 ---
 shortcode: vprwsp
-name: {full: Vaporwisp, aliases: []}
+name: {full: Vaporwisp}
 type: being
 subType: creature
 description: "A boundary-dwelling spirit at home in neither realm, drawn to fog, mist, and thresholds where day and night or forest and clearing meet."

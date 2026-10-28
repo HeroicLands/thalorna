@@ -1,6 +1,6 @@
 ---
 shortcode: nyalbeagl
-name: {full: "Eagle Totem", aliases: [Eagle of the Ngonzi, Ngonzi Totem]}
+name: {full: Eagle Totem, en: [Eagle of the Ngonzi, Ngonzi Totem]}
 type: affiliation
 subType: spirittradition
 description: "The eagle-spirit of the Ngonzi—vision, distance, and the messenger between worlds; entangled with the stone-builder dead who inhabit the Old Hetos."

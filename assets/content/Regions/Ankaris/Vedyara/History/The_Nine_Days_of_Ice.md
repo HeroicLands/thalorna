@@ -1,6 +1,6 @@
 ---
 shortcode: nineice
-name: {full: The Nine Days of Ice, aliases: []}
+name: {full: The Nine Days of Ice}
 type: lore
 subType: history
 description: "In the winter of 718 AF the spring at Chandraprabhava, which had never frozen in the Surta temple's record, iced over for nine days and ran again; the slab of Himashila was unchanged throughout, and the temple has not entered it in the record."

@@ -1,6 +1,6 @@
 ---
 shortcode: dmrthsvshrds
-name: {full: Domrithas Vishardas, given: Domrithas, clan: Vishardas, aliases: []}
+name: {full: Domrithas Vishardas, given: Domrithas, clan: Vishardas}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, mages]

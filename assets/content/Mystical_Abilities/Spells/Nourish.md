@@ -1,6 +1,6 @@
 ---
 shortcode: nourish
-name: {full: Nourish, aliases: []}
+name: {full: Nourish}
 type: mysticalability
 subType: arcaneincantation
 description: "Magical sustenance replacing food; prevents hunger and maintains strength."

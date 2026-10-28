@@ -1,6 +1,6 @@
 ---
 shortcode: qelodud
-name: {full: Kelodud, aliases: [The Well-Lurker]}
+name: {full: Kelodud, en: [The Well-Lurker]}
 type: being
 subType: creature
 description: "A pale, blind, camel-length ambusher of deep wells that hangs above the waterline and takes whatever comes down on a rope or a stair."

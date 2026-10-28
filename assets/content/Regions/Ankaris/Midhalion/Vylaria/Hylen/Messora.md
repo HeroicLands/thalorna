@@ -1,6 +1,6 @@
 ---
 shortcode: messora
-name: {full: Messora, aliases: []}
+name: {full: Messora}
 type: place
 subType: settlement
 description: "Town"

@@ -1,6 +1,6 @@
 ---
 shortcode: tarvfallsawy
-name: {full: Tarvénia Falls Away, aliases: [The First High King]}
+name: {full: Tarvénia Falls Away, en: [The First High King]}
 type: lore
 subType: history
 description: "From about 538 to about 545 AF the occupied lowlands of Tarvénia stopped paying the Empire, the mountain lords elected Garvaneth of Asturath the first High King to drive out the garrisons, and Valthari bought a charter of self-government."

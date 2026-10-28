@@ -1,6 +1,6 @@
 ---
 shortcode: templetrib
-name: {full: The Tribute of the Temple-Cities, aliases: []}
+name: {full: The Tribute of the Temple-Cities}
 type: lore
 subType: history
 description: "About 1800 to 1825 ST (311 to 286 BF) the sun-house sent an army and an embassy across the South Marches to make the eastern temple-cities of Okharis pay tribute to the Gar-Au; a chain of forts on wells was built for the road, and within a generation the tribute stopped and the forts were abandoned."

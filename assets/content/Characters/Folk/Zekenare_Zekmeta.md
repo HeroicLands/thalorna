@@ -1,6 +1,6 @@
 ---
 shortcode: zekenarezkmt
-name: {full: Zekenare Zekmeta, aliases: [Zeke]}
+name: {full: Zekenare Zekmeta, khel: [zeke]}
 type: being
 subType: npc
 description: "Father to a smith, of a house that has worked the forge for three generations and expects a fourth"

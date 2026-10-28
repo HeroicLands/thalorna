@@ -1,6 +1,6 @@
 ---
 shortcode: edmndwlfrd
-name: {full: Harred Wolford, aliases: []}
+name: {full: Harred Wolford}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]

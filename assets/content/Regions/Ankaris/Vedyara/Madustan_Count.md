@@ -1,6 +1,6 @@
 ---
 shortcode: mdstncnt
-name: {full: The Madustan Count, aliases: []}
+name: {full: The Madustan Count}
 type: lore
 subType: calendar
 description: "Vedyara's own reckoning: twelve solar months paired into six seasons and a week of seven gods' days, counted from the standardization of Classical Vedyari under the philosopher-kings of Madustan, with the moon kept beside it in a temple almanac."

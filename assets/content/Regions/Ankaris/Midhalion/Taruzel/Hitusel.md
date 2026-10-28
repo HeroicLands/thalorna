@@ -1,6 +1,6 @@
 ---
 shortcode: hitusel
-name: {full: Hitusel, aliases: []}
+name: {full: Hitusel}
 type: place
 subType: settlement
 description: "Coastal Village"

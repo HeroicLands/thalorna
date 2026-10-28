@@ -1,6 +1,6 @@
 ---
 shortcode: inferno
-name: {full: Inferno, aliases: []}
+name: {full: Inferno}
 type: mysticalability
 subType: arcaneincantation
 description: "Wreathed in roaring magical flame; burning and radiating intense heat."

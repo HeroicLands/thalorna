@@ -1,6 +1,6 @@
 ---
 shortcode: pyrnszrlmkr
-name: {full: Piranes Zeralmakor, aliases: []}
+name: {full: Piranes Zeralmakor}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

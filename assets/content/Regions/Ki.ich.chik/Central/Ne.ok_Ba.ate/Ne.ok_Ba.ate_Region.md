@@ -1,6 +1,6 @@
 ---
 shortcode: neokbaatergn
-name: {full: Ne'ok Ba'ate Region, aliases: []}
+name: {full: Ne'ok Ba'ate Region}
 type: place
 subType: region
 description: "The volcanic isthmus and its two coasts—the land of Ne'ok Ba'ate, the corridor binding Central Ki'ich'chik to the south."

@@ -1,6 +1,6 @@
 ---
 shortcode: githrrthlkhl
-name: {full: Githara Reth'el'Khelensu, given: Githara, clan: Reth'el'Khelensu, aliases: []}
+name: {full: Githara Reth'el'Khelensu, given: Githara, clan: Reth'el'Khelensu}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]

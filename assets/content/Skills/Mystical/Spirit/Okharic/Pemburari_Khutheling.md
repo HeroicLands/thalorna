@@ -1,6 +1,6 @@
 ---
 shortcode: pembursprt
-name: {full: "Pemburari Khutheling Spirit Power", aliases: [The Begetter of the Earth]}
+name: {full: Pemburari Khutheling Spirit Power, en: [The Begetter of the Earth]}
 type: skill
 subType: mystical
 description: "Standing with Pemburari Khutheling, zohira of fertility—what this emissary of the Flame is petitioned and interceded with."

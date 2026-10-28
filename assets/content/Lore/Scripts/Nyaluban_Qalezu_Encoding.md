@@ -1,6 +1,6 @@
 ---
 shortcode: nyalqalezuenc
-name: {full: Nyáluban Qalezu Encoding, aliases: []}
+name: {full: Nyáluban Qalezu Encoding}
 type: doc
 subType: reference
 data:

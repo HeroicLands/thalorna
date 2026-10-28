@@ -1,6 +1,6 @@
 ---
 shortcode: extrnlthrts
-name: {full: External Threats, aliases: []}
+name: {full: External Threats}
 type: doc
 subType: concept
 tags: [gm]

@@ -1,6 +1,6 @@
 ---
 shortcode: tanavarnashu
-name: {full: Tanavarna Shuravan, aliases: [Maharava Tanavarna Shuravan, Maharava Tanavarna]}
+name: {full: Tanavarna Shuravan, en: [Maharava Tanavarna Shuravan, Maharava Tanavarna]}
 type: being
 subType: npc
 description: A celebrated craftsman of near-mythical status in Vedyaran woodcraft traditions, under whom Tamura Tejanand apprenticed.

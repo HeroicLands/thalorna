@@ -1,6 +1,6 @@
 ---
 shortcode: trnnlgsrfrnc
-name: {full: Terran Analogs Reference, aliases: []}
+name: {full: Terran Analogs Reference}
 type: doc
 subType: reference
 tags: [draft, gm]

@@ -1,6 +1,6 @@
 ---
 shortcode: lion
-name: {full: Lion, aliases: []}
+name: {full: Lion}
 type: being
 subType: creature
 description: "A massive tawny carnivore second only to the tiger among great cats, the maned males weighing up to five hundred pounds of social pride-hunting power."

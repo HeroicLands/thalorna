@@ -1,6 +1,6 @@
 ---
 shortcode: hrlkvlskyr
-name: {full: Arlake Valskir, aliases: []}
+name: {full: Arlake Valskir}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

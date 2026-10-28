@@ -1,6 +1,6 @@
 ---
 shortcode: hrprsvrkrtys
-name: {full: Harperos Varkratis, aliases: []}
+name: {full: Harperos Varkratis}
 type: being
 subType: npc
 tags: [draft, soldiery]

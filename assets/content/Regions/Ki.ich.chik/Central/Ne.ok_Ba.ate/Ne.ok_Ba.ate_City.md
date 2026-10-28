@@ -1,6 +1,6 @@
 ---
 shortcode: neokbaate2
-name: {full: Ne'ok Ba'ate, aliases: []}
+name: {full: Ne'ok Ba'ate}
 type: place
 subType: settlement
 description: "Seat of the isthmus realm, a trading city on a narrow bridge of land whose independent Sun Lords resist the north."

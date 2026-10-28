@@ -1,6 +1,6 @@
 ---
 shortcode: orkesud
-name: {full: Orqazud, aliases: [The Mirage-Stalker]}
+name: {full: Orqazud, en: [The Mirage-Stalker]}
 type: being
 subType: creature
 description: "A tall, lean clay-pan ambusher whose polished scales shimmer like open water in the noon heat and draw thirsty travelers in to die."

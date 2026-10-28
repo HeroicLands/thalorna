@@ -1,6 +1,6 @@
 ---
 shortcode: narisahrvn
-name: {full: Nari Sahravan, given: Nari, clan: Sahravan, aliases: [The Desert Mystic]}
+name: {full: Nari Sahravan, given: Nari, clan: Sahravan, en: [The Desert Mystic]}
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, clergy]

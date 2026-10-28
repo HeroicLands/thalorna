@@ -1,6 +1,6 @@
 ---
 shortcode: removedkings
-name: {full: The Galleries of the Removed Kings, aliases: [The Outer Galleries]}
+name: {full: The Galleries of the Removed Kings, en: [The Outer Galleries]}
 type: place
 subType: site
 description: "The tombs at the outer reaches of Zu-Gezer where Meqes VI rehoused the river-front houses: dusty, under-guarded, their endowments lapsed, and the one place in the royal necropolis where robbers regularly work."

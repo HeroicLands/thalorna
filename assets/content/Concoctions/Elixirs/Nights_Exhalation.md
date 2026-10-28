@@ -1,6 +1,6 @@
 ---
 shortcode: elxshd
-name: {full: "Night's Exhalation", aliases: [Shadowbreath Elixir]}
+name: {full: Night's Exhalation, en: [Shadowbreath Elixir]}
 type: concoctiongear
 subType: elixir
 description: "Black viscous darkness elixir; breathes obscuring shadow around bearer."

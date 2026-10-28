@@ -1,6 +1,6 @@
 ---
 shortcode: vnmspttr
-name: {full: Venomspitter, aliases: []}
+name: {full: Venomspitter}
 type: being
 subType: creature
 description: "An acid-bodied ambush predator of warm jungles and humid caves, built entirely around producing and spitting corrosive toxins."

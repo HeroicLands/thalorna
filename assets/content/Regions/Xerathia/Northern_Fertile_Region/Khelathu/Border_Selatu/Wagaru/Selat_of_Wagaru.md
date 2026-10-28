@@ -1,6 +1,6 @@
 ---
 shortcode: selatwagaru
-name: {full: The Selat of Wagaru, aliases: []}
+name: {full: The Selat of Wagaru}
 type: affiliation
 subType: polity
 description: "The southern gold-road; mines, caravan-stations, and tribute-collection—one of the border selatu of Au'Khelathu."

@@ -1,6 +1,6 @@
 ---
 shortcode: chandrmukha
-name: {full: Chandramukha, aliases: [The Moon-Mouth]}
+name: {full: The Moon-Mouth, vedy: [chandramukha]}
 type: place
 subType: settlement
 description: "The deep-water port at the Chandramahi's mouth—the bar, the roadstead, the yards that build Chendrapur's galleys, and the one place in Vedyara the Thordimalon is licensed to stand."

@@ -1,6 +1,6 @@
 ---
 shortcode: tereb
-name: {full: Tereb, aliases: [Terebu, Nightwight]}
+name: {full: Tereb, en: [Terebu, Nightwight]}
 type: being
 subType: creature
 description: "The cloaked one—the sentient, self-directed undead that wears its former self as a garment: vampires, dread-priests, and sorcerer-emperors who persist past death through deliberate, prepared ritual."

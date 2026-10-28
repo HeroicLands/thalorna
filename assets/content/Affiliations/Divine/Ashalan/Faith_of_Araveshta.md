@@ -1,6 +1,6 @@
 ---
 shortcode: aravesta
-name: {full: Faith of Aravesta, aliases: [The Golden Giver, "Aravesta, The Golden Giver"]}
+name: {full: Faith of Aravesta, en: [The Golden Giver, "Aravesta, The Golden Giver"]}
 type: affiliation
 subType: faithtradition
 description: "Prosperity, Wealth, Hedonism, Sensual Pleasure."

@@ -1,6 +1,6 @@
 ---
 shortcode: korvathosvol
-name: {full: Korvathos Volkemates, aliases: [Lord Korvathos]}
+name: {full: Korvathos Volkemates, en: [Lord Korvathos]}
 type: being
 subType: npc
 description: The lord of a border house in the Moktur march, whose household Arzanalas Baredas serves as a huscarl.

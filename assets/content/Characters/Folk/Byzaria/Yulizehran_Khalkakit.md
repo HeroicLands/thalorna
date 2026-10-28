@@ -1,6 +1,6 @@
 ---
 shortcode: yulizehrankh
-name: {full: Yulizehran Kalkakit, aliases: [Admiral Yulizehran Kalkakit]}
+name: {full: Yulizehran Kalkakit, en: [Admiral Yulizehran Kalkakit]}
 type: being
 subType: npc
 description: Admiral of the Bizarian Fleet and supreme naval commander of the Bizarian League, named in Trufios Veghekos.

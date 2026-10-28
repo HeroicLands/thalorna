@@ -1,6 +1,6 @@
 ---
 shortcode: mgstrcythls
-name: {full: Magistracy of Thálassos, aliases: []}
+name: {full: Magistracy of Thálassos}
 type: affiliation
 subType: polity
 description: "The magistrate of the harbor town of Thálassos, who keeps minimal customs authority and leaves the tariffs to a handful of bonded merchants."

@@ -1,6 +1,6 @@
 ---
 shortcode: anlaghkhlth
-name: {full: Anlagh'Khelathu, aliases: []}
+name: {full: Anlagh'Khelathu}
 type: lore
 subType: arcana
 description: "The living black land: water, fertility, growth, healing, abundance."

@@ -1,6 +1,6 @@
 ---
 shortcode: helohelonikaenc
-name: {full: Helonic Helonika Encoding, aliases: []}
+name: {full: Helonic Helonika Encoding}
 type: doc
 subType: reference
 data:

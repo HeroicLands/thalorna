@@ -1,6 +1,6 @@
 ---
 shortcode: khzrncnfdrtn
-name: {full: Tellumi Confederation, aliases: [The League of Princely Houses, Princes of Tellumel]}
+name: {full: Tellumi Confederation, en: [The League of Princely Houses, Princes of Tellumel]}
 type: affiliation
 subType: polity
 description: The oasis civilization of Tellumel, the seven-city belt at the foot of the Grazian Mountains. It lost four of its cities to the Atarzád about ninety years ago and survives as three free oases, four dispossessed princely houses in exile, and a large subject population of merchants and craftsmen inside the conquered cities.

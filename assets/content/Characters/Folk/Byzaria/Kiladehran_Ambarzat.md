@@ -1,6 +1,6 @@
 ---
 shortcode: kiladehranam
-name: {full: Kiladehran Ambarzát, aliases: [Lady Kiladehran Ambarzát]}
+name: {full: Kiladehran Ambarzát, en: [Lady Kiladehran Ambarzát]}
 type: being
 subType: npc
 description: A lady of House Genumáhr who has become something of a mentor to Ghofa Kepikot.

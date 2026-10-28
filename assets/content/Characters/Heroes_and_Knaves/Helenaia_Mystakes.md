@@ -1,6 +1,6 @@
 ---
 shortcode: helnmystks
-name: {full: Bazia Lokios, given: Bazia, clan: Lokios, aliases: []}
+name: {full: Bazia Lokios, given: Bazia, clan: Lokios}
 type: being
 subType: character
 tags: [heroes-and-knaves, todo, clergy]

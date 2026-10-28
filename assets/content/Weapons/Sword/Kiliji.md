@@ -1,6 +1,6 @@
 ---
 shortcode: kiliji
-name: {full: Kiliji, aliases: []}
+name: {full: Kiliji}
 type: weapongear
 description: "Curved widening-tip single-edged saber; cavalry raider's efficiency."
 tags: []

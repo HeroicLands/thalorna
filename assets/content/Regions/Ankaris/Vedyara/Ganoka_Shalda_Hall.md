@@ -1,6 +1,6 @@
 ---
 shortcode: ganokahall
-name: {full: The Ganoka-shalda, aliases: []}
+name: {full: The Ganoka-shalda}
 type: place
 subType: structure
 description: "The reckoners' college at Chendrapur—an open hall, a courtyard of instruments and a roof of sightlines, where the tides, the eclipses and the civil year are computed."

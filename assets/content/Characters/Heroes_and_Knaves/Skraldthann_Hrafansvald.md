@@ -1,6 +1,6 @@
 ---
 shortcode: skrldthnhrfnsvld
-name: {full: Skraldthann Hrafansvald, given: Skraldthann, clan: Hrafansvald, aliases: []}
+name: {full: Skraldthann Hrafansvald, given: Skraldthann, clan: Hrafansvald}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]

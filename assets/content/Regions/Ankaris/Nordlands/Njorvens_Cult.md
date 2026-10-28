@@ -1,6 +1,6 @@
 ---
 shortcode: njorvencult
-name: {full: Njorven's Cult, aliases: []}
+name: {full: Njorven's Cult}
 type: affiliation
 subType: spirittradition
 description: "The cult that venerates Njorven."

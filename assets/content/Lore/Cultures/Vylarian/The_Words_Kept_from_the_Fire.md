@@ -1,6 +1,6 @@
 ---
 shortcode: firewords
-name: {full: The Words Kept from the Fire, aliases: [The Jurist's Rules]}
+name: {full: The Words Kept from the Fire, en: [The Jurist's Rules]}
 type: lore
 subType: literature
 description: "The rules of a jurist of the Republic whose books burned with the imperial archive, gathered by the law schools from the pleadings and teachers' copies that had quoted them: the roll, the seal and the witness, the oath, the hand, the guest, the dead and the line, and the name, each rule with the masters' gloss and the masters' quarrels, ending on the rule that what is not written was not done."
@@ -15,7 +15,7 @@ data:
     - affiliation-imprlscrblgld
     - lore-vylarianclt
     - skill-vylarilng
-  language: vylarilng
+  lang: vyl
 
 # terran_analog: "The Roman jurists as the Digest preserves them, in fragments excerpted from books that are otherwise lost; the regulae iuris collected at the end of the Digest; the medieval glossators who wrote their commentary in the margins and disagreed with one another there; and the Roman habit of arguing law from maxims."
 ---

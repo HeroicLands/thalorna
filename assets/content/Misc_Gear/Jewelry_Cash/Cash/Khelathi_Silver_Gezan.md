@@ -1,6 +1,6 @@
 ---
 shortcode: khelthslvrgz
-name: {full: Khelathi Silver Gezan, aliases: [Silver Gezan]}
+name: {full: Khelathi Silver Gezan, en: [Silver Gezan]}
 type: miscgear
 description: "Temple-attested silver weight-piece of one gezan; the standard for significant commerce."
 tags: [jewelry_cash]

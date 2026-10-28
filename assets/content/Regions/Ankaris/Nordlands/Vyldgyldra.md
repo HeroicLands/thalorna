@@ -1,6 +1,6 @@
 ---
 shortcode: vyldgyldra
-name: {full: Vuldgeldra, aliases: [The Grain-Praise]}
+name: {full: Vuldgeldra, en: [The Grain-Praise]}
 type: lore
 subType: literature
 description: "The Skalds' Circle's repertoire text of Hliskvir's praise-poem for a jarl's failed winter, taught at the Skaldating with a master's gloss of its kennings."
@@ -9,7 +9,7 @@ data:
   packFolder: nordlands
   culture: nordheimnclt
   form: gyldra
-  language: nordmalng
+  lang: nord
   subjects:
     - affiliation-skaldscrcl
     - place-domsey

@@ -1,6 +1,6 @@
 ---
 shortcode: fisera
-name: {full: Incantation Fisera, aliases: []}
+name: {full: Incantation Fisera}
 type: skill
 subType: mystical
 tags: [zemor-hodhis, draft]

@@ -1,6 +1,6 @@
 ---
 shortcode: sorvan
-name: {full: The Sorvan, aliases: [The Imperial Guard, The Guardsmen]}
+name: {full: The Imperial Guard, en: [The Guardsmen], vyl: [The Sorvan]}
 type: affiliation
 subType: venture
 description: "The Sorvan, the imperial guard of Vylaria—the Orzas's personal bodyguard and the keepers of order within the Inner City of Orzara; recruited and promoted apart from the line legions, answerable to the throne alone, and powerful enough that the body best placed to guard an Orzas is also the body best placed to unmake one."

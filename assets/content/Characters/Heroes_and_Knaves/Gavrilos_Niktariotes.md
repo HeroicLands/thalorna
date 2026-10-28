@@ -1,6 +1,6 @@
 ---
 shortcode: gvrlsnktrts
-name: {full: Sedikon Manedes, given: Sedikon, clan: Manedes, aliases: []}
+name: {full: Sedikon Manedes, given: Sedikon, clan: Manedes}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]

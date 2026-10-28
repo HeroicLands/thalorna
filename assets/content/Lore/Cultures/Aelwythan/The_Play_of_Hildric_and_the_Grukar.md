@@ -1,6 +1,6 @@
 ---
 shortcode: hildricplay
-name: {full: The Play of Hildrik and the Grukar, aliases: [The Drovers' Play]}
+name: {full: The Play of Hildrik and the Grukar, en: [The Drovers' Play]}
 type: lore
 subType: literature
 description: "The play the drovers of the march put on in the inn-yards of Ashford on the nights of the autumn drove fair: Old Tally sweeping the ring, Hildrik of the Wyndmarch and an Ahk of the Grukar matching boasts, the champion struck down, a Doctor of Ravenmoor who cures in court Élavendri and is stopped before he raises the dead, the ale-wife who knows better, and a second Grukar for every one killed."
@@ -17,7 +17,7 @@ data:
     - affiliation-selmoros
     - lore-vylrncrncy
     - lore-aelwythanclt
-  language: aelwthlng
+  lang: aelw
 
 # terran_analog: "The British mummers' and hero-combat plays of the house-visiting season, with their presenter who calls for room, the champion's boast, the combat, the comic quack doctor and the collection at the end; the flyting, the boasting-match in verse; the frontier ballad's habit of telling a war that never ends."
 ---

@@ -1,6 +1,6 @@
 ---
 shortcode: wambuchitrb
-name: {full: Wámbuchi Tribe, aliases: []}
+name: {full: Wámbuchi Tribe}
 type: affiliation
 subType: polity
 description: A farming tribe of the Okharis plains that grows barley and sorghum.

@@ -1,6 +1,6 @@
 ---
 shortcode: bondtoken
-name: {full: Bond-Token, aliases: []}
+name: {full: Bond-Token}
 type: miscgear
 description: "A household's stamped tally, worn by a bonded servant as proof of whose debt he works and how much of it stands."
 tags: []

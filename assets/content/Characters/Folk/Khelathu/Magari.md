@@ -1,6 +1,6 @@
 ---
 shortcode: magari
-name: {full: Magari, aliases: [Captain Magari]}
+name: {full: Magari, en: [Captain Magari]}
 type: being
 subType: npc
 description: A rival pilot of the Kestrel whose ship was damaged in an incident that Zekhemet Gul'Zekhenu claims involved foul play.

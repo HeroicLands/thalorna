@@ -1,6 +1,6 @@
 ---
 shortcode: akhstruckhs
-name: {full: The Struck House, aliases: []}
+name: {full: The Struck House}
 type: lore
 subType: history
 description: "2281 to 2378 ST (171 to 268 AF): the century of six reigns kept under struck names, the failing floods, the rising at the granaries and the judgment that struck a house from every wall."

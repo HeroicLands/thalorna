@@ -1,6 +1,6 @@
 ---
 shortcode: genhen
-name: {full: Genhuen, aliases: [The Minister of Entropy, Huen Sei, The Bureau of Unraveling]}
+name: {full: The Minister of Entropy, en: [The Bureau of Unraveling], tant: [Genhuen, Huen Sei]}
 type: affiliation
 subType: faithtradition
 description: "Entropy."

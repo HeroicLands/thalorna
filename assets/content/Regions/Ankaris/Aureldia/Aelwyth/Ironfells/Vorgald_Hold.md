@@ -1,6 +1,6 @@
 ---
 shortcode: vrgldhld
-name: {full: Vorgald Hold, aliases: [Varíg]}
+name: {full: Vorgald Hold, khaz: [varíg]}
 type: affiliation
 subType: polity
 description: "The Khazari hold in the eastern heights of the Ironfells and the valleys beneath it, belonging to no Aelwythan realm."

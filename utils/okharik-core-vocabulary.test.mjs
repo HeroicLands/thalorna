@@ -153,7 +153,7 @@ test("Okharik preserves original words, meanings, names, metadata and prose", ()
     const { words: _words, fields, roman: _roman, ...data } = note.fm.data;
     assert.equal(
         hash({ ...note.fm, data }),
-        "76d4a5e832d562eb24c0f2fdc3e37052b2598548d6cc488d7a6cf13b0465f56e",
+        "cd7f6820e3718f28aea376e6d9de21c7afe012794a6c91b8818c2853c33a89ed",
     );
     assert.equal(
         hash(fields.slice(0, -1)),

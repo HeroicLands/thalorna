@@ -1,6 +1,6 @@
 ---
 shortcode: cnstrct
-name: {full: Construct, aliases: []}
+name: {full: Construct}
 type: mysticalability
 subType: arcaneincantation
 description: "Animates material into humanoid servant; obeys caster's spoken commands."

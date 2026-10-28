@@ -1,6 +1,6 @@
 ---
 shortcode: kdmyqbsn
-name: {full: Kadumuya Kubasuni, aliases: []}
+name: {full: Kadumuya Kubasuni}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

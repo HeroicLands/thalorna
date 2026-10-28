@@ -1,6 +1,6 @@
 ---
 shortcode: gargezehuti
-name: {full: Gar-Gezehuti, aliases: []}
+name: {full: Gar-Gezehuti}
 type: place
 subType: settlement
 description: "A school-and-farm village of Gar-Reth'Sa'ar, grown prosperous as a lodging-town for the families of pupils and for the lesser temple-schools that feed the great one at Khelunu"

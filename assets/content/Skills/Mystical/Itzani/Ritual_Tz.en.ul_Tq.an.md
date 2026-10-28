@@ -1,6 +1,9 @@
 ---
 shortcode: tzenultqan
-name: {full: "Ritual: Ts'en'ul Tq'an", aliases: [Ts'en'ul Tq'an, The Sun at the World's Edge]}
+name:
+  full: "Ritual: Ts'en'ul Tq'an"
+  en: [The Sun at the World's Edge]
+  kiichek: [Ts'en'ul Tq'an]
 type: skill
 subType: mystical
 tags: [itzani, faith-skill, draft]

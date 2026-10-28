@@ -1,6 +1,6 @@
 ---
 shortcode: heladreswear
-name: {full: The Re-swearing of the Compact, aliases: [The Garrison Oath]}
+name: {full: The Re-swearing of the Compact, en: [The Garrison Oath]}
 type: lore
 subType: history
 description: "About 571 AF, with the imperial garrisons in the passes at a third of their strength and unpaid, the five cities' councils meet in the Merchant Hall of Krusteikhos, re-swear the Compact of 157 BF from the old text, pay the frontier forts' garrisons themselves, and take the three frontier districts as common territory under lords they commission."

@@ -1,6 +1,6 @@
 ---
 shortcode: skathburg
-name: {full: Skathburg, aliases: []}
+name: {full: Skathburg}
 type: place
 subType: settlement
 description: "A Varokh village in Skathwald."

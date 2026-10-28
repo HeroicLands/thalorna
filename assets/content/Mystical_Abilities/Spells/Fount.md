@@ -1,6 +1,6 @@
 ---
 shortcode: fount
-name: {full: Fount, aliases: []}
+name: {full: Fount}
 type: mysticalability
 subType: arcaneincantation
 description: "Opens spring; manifests fresh water flowing from barren ground."

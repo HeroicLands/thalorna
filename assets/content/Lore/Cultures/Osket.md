@@ -1,12 +1,12 @@
 ---
 shortcode: osketclt
-name: {full: Osket, aliases: []}
+name: {full: Osket}
 type: lore
 subType: culture
 description: "The Osket—their beliefs, their mores, and what they hold a person owes."
 tags: []
 data:
-  language: skill-osketlng
+  lang: oske
   glossary:
     - name: "guide-cord"
       definition: "A knotted hide cord recording a route, unreadable outside the blood"

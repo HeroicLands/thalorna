@@ -1,6 +1,6 @@
 ---
 shortcode: seldan
-name: {full: Seldan, aliases: [The Vylarian Senate, The Senate]}
+name: {full: The Vylarian Senate, en: [The Senate], vyl: [Seldan]}
 type: affiliation
 subType: governmental
 description: "The Seldan, the Palace of the Senate and the seat of the Vylarian Senate—the assembly of the patrician order, which debates, postures, conspires, and in theory advises the Orzas; the highest court for senatorial persons, whose real power waxes and wanes with the strength of whoever wears the imperial diadem."

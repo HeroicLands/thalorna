@@ -1,6 +1,6 @@
 ---
 shortcode: wojingja
-name: {full: Wojing Ja, aliases: []}
+name: {full: Wojing Ja}
 type: affiliation
 subType: faithtradition
 description: "Fire."

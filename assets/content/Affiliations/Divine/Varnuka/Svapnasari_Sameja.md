@@ -1,6 +1,6 @@
 ---
 shortcode: svapnasarisameja
-name: {full: Svapnasari-sameja, aliases: [The Assembly of the Dream-Followers, The Dream Assembly]}
+name: {full: Svapnasari-sameja, en: [The Assembly of the Dream-Followers, The Dream Assembly]}
 type: affiliation
 subType: faithtradition
 description: "The Assembly of the Dream-Followers"

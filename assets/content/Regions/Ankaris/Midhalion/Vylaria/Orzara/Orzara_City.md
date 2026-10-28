@@ -1,6 +1,6 @@
 ---
 shortcode: orzara
-name: {full: Orzara City, aliases: [The Great City]}
+name: {full: Orzara City, en: [The Great City]}
 type: place
 subType: settlement
 description: "Capital City of Vylaria"

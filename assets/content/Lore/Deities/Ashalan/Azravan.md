@@ -1,6 +1,6 @@
 ---
 shortcode: azravandty
-name: {full: Azravan, aliases: []}
+name: {full: Azravan}
 type: lore
 subType: deity
 description: "Lord of the Final Horizon in the Ashaian pantheon, who receives the dead at the edge of the world."

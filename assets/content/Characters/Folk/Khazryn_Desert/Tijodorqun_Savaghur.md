@@ -1,6 +1,6 @@
 ---
 shortcode: tijodorquns
-name: {full: Tijodorkun Savaghur, aliases: [Elder Shaman Tijodorkun]}
+name: {full: Tijodorkun Savaghur, en: [Elder Shaman Tijodorkun]}
 type: being
 subType: npc
 description: The oldest and most respected shaman in the tribe, who has mentored Razanash Mervaran since her initiation.

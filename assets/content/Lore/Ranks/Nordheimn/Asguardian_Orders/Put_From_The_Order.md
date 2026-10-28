@@ -1,6 +1,6 @@
 ---
 shortcode: putfromordrrnk
-name: {full: "Put from the Order", aliases: [Expelled, Foresworn]}
+name: {full: Put from the Order, en: [Expelled, Foresworn]}
 type: lore
 subType: law
 description: "Cast out of a sworn order, the habit taken back and the vows declared void, within the Asguardian fighting orders."

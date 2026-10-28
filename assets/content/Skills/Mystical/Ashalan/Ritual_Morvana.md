@@ -1,6 +1,6 @@
 ---
 shortcode: morvahna
-name: {full: "Ritual: Mórvahna", aliases: [The Silent Keeper]}
+name: {full: "Ritual: Mórvahna", en: [The Silent Keeper]}
 type: skill
 subType: mystical
 tags: [ashalan, faith-skill, draft]

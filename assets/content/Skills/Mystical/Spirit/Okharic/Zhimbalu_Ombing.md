@@ -1,6 +1,6 @@
 ---
 shortcode: zhimbalsprt
-name: {full: "Zhimbalu Ombing Spirit Power", aliases: [The Shadow of the Forest]}
+name: {full: Zhimbalu Ombing Spirit Power, en: [The Shadow of the Forest]}
 type: skill
 subType: mystical
 description: "Standing with Zhimbalu Ombing, zohira of the hunt—what this emissary of the Flame is petitioned and interceded with."

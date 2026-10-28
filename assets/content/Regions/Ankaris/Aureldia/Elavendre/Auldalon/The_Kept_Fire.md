@@ -1,6 +1,6 @@
 ---
 shortcode: kptfr
-name: {full: The Kept Fire, aliases: [Káralson, The Hall Under the Hill]}
+name: {full: The Kept Fire, en: [The Hall Under the Hill], elav: [Káralson]}
 type: place
 subType: site
 description: "A hall under a hill in the southern Áuldalon forest margin where a Vylarian cohort struck a bargain with its host in the old war and holds the door still; whoever eats at the fire is added to the roll."

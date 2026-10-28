@@ -1,6 +1,6 @@
 ---
 shortcode: palmumbrella
-name: {full: Palm Umbrella, aliases: []}
+name: {full: Palm Umbrella}
 type: miscgear
 description: "A wide, stiff palm-leaf parasol carried against sun and monsoon rain alike, folded flat for the road."
 tags: []

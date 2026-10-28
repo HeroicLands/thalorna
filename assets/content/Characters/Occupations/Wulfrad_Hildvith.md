@@ -1,6 +1,6 @@
 ---
 shortcode: wlfrdhldvth
-name: {full: Wulfrád yra Hildvith wur Skathburg, aliases: []}
+name: {full: Wulfrád yra Hildvith wur Skathburg}
 type: being
 subType: npc
 tags: [draft, soldiery]

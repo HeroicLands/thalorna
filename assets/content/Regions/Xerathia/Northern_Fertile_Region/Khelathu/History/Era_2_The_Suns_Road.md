@@ -1,6 +1,6 @@
 ---
 shortcode: akhsunroad
-name: {full: The Sun's Road, aliases: []}
+name: {full: The Sun's Road}
 type: lore
 subType: history
 description: "1006 to 1390 ST (1105 to 721 BF): nine houses rule from Galezkara, the ceremonial axis and its sightline law are laid down, and the royal necropolis of Zu-Gezer opens across the river."

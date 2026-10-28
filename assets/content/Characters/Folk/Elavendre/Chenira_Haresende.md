@@ -1,6 +1,6 @@
 ---
 shortcode: chenirahares
-name: {full: Chénira Háresende, aliases: [Captain Chénira]}
+name: {full: Chénira Háresende, en: [Captain Chénira]}
 type: being
 subType: npc
 description: A decorated military officer of the Kingdom of Élavendre who acts as liaison between the kingdom's forces and the tribes.

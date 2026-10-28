@@ -1,6 +1,6 @@
 ---
 shortcode: degavel
-name: {full: Degavel, aliases: []}
+name: {full: Degavel}
 type: place
 subType: region
 description: "An earldom of southern Provenzia held by Rutal Pélanvri, one of the kingdom's leading magnates and the Count of Atavel's rival."

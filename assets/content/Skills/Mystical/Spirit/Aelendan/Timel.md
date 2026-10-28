@@ -1,6 +1,6 @@
 ---
 shortcode: tipelsprt
-name: {full: "Timel Spirit Power", aliases: ["Timel, the Hawk of the Spine"]}
+name: {full: Timel Spirit Power, en: ["Timel, the Hawk of the Spine"]}
 type: skill
 subType: mystical
 description: "Standing with Timel, the Hawk of the Spine—what this allied Kindred is met, asked and bargained with."

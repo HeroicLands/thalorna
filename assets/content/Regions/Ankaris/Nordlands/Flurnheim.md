@@ -1,6 +1,6 @@
 ---
 shortcode: flurnheim
-name: {full: Flurnheim, aliases: []}
+name: {full: Flurnheim}
 type: place
 subType: settlement
 description: "A northern realm once beset by a blight no healer could cure, lifted by Rilthorv Runaskald's rune and Odvar's verses."

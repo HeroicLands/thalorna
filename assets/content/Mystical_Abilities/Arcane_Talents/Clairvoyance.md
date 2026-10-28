@@ -1,6 +1,6 @@
 ---
 shortcode: clrv
-name: {full: Clairvoyance, aliases: []}
+name: {full: Clairvoyance}
 type: mysticalability
 subType: arcanetalent
 description: "Perceives a place out of sight, as though standing in it."

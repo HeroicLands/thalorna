@@ -1,6 +1,6 @@
 ---
 shortcode: heladtruce
-name: {full: The Truce of the Games, aliases: [The Herald's Terms]}
+name: {full: The Truce of the Games, en: [The Herald's Terms]}
 type: lore
 subType: history
 description: "At the Games after the War of the Harbors, about 552 AF, a graduate of the Silver Veil brokers among the cities' heralds the terms by which Helionite cities have fought since: war only in the season between the Games, no city to field a mage, the herald's crossing guaranteed, the dead always returned and no city ever sacked."

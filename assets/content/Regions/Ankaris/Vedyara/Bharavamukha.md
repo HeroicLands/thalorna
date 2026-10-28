@@ -1,6 +1,6 @@
 ---
 shortcode: bharavamukha
-name: {full: Bharavamukha, aliases: []}
+name: {full: Bharavamukha}
 type: place
 subType: settlement
 description: "The seasonal port at the mouth of the Bharava—landfall of the pilgrim road, outlet of the forest country, and the only place on that coast a ship can lie."

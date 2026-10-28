@@ -1,6 +1,6 @@
 ---
 shortcode: dirmapur
-name: {full: Dirmapur, aliases: []}
+name: {full: Dirmapur}
 type: place
 subType: settlement
 description: "The largest of the copying towns of the middle Sarveda, whose Scribes' Shrena sets the rate for a finished page across the subcontinent."

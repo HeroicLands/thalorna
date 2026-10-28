@@ -1,6 +1,6 @@
 ---
 shortcode: shebarakhend
-name: {full: Shebarakhend, aliases: []}
+name: {full: Shebarakhend}
 type: place
 subType: settlement
 description: "The oasis city of the Shebarader's court and seat of the Kingdom of Amradad—gardens, libraries, fire-temples and the astrologers of the great houses."

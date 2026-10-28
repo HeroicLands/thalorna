@@ -1,6 +1,6 @@
 ---
 shortcode: morzhrxylkt
-name: {full: Morzáhr Zilakit, given: Morzáhr, clan: Zilakit, aliases: []}
+name: {full: Morzáhr Zilakit, given: Morzáhr, clan: Zilakit}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]

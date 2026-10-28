@@ -1,6 +1,6 @@
 ---
 shortcode: kheset
-name: {full: Kheset, aliases: []}
+name: {full: Kheset}
 type: place
 subType: site
 description: "The convict-station among the mine-and-quarry camps of Zu-Zel-Iaqtet, where the desert hills are worked by those the empire has condemned."

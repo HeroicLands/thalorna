@@ -1,6 +1,6 @@
 ---
 shortcode: glowvine
-name: {full: Glowvine, aliases: []}
+name: {full: Glowvine}
 type: being
 subType: creature
 description: "A made predatory plant that lures unwary prey with bioluminescent beauty in shadowed forests and lightless caves."

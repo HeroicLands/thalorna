@@ -1,6 +1,6 @@
 ---
 shortcode: alndnwrdns
-name: {full: Áelendan Wardens, aliases: [The Wardens, Guardians of the Pact]}
+name: {full: Áelendan Wardens, en: [The Wardens, Guardians of the Pact]}
 type: affiliation
 subType: order
 description: "Ancient protective order guarding sacred sites and fae-touched lands against violation, answering only to tribal tradition and the Kindred Pact itself."

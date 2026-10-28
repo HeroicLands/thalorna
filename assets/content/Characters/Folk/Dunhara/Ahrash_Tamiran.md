@@ -1,6 +1,6 @@
 ---
 shortcode: ahrashtamira
-name: {full: Ahrash Tamiran, aliases: [Merchant-Prince Ahrash]}
+name: {full: Ahrash Tamiran, en: [Merchant-Prince Ahrash]}
 type: being
 subType: npc
 description: A wealthy spice trader who values the work of Darzash Shavan above all others.

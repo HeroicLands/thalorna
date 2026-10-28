@@ -1,6 +1,6 @@
 ---
 shortcode: kenbeshay
-name: {full: Kenbeshay, aliases: [Priest Kenbeshay]}
+name: {full: Kenbeshay, en: [Priest Kenbeshay]}
 type: being
 subType: npc
 description: A fellow priest of Ataros at the Northern Temple who broke with orthodox teaching to advocate compassion and mercy, named in Sharminah Tahvan.

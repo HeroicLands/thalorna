@@ -1,6 +1,6 @@
 ---
 shortcode: monsooncloak
-name: {full: Monsoon Cloak, aliases: []}
+name: {full: Monsoon Cloak}
 type: miscgear
 description: "A heavy oiled cloak cut for the coast's wet season, worn by anyone who travels while the rain calendar and the planting calendar disagree."
 tags: []

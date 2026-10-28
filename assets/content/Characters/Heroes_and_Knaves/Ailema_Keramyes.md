@@ -1,6 +1,6 @@
 ---
 shortcode: ailemkrmys
-name: {full: Ailema Keramyes, given: Ailema, clan: Keramyes, aliases: []}
+name: {full: Ailema Keramyes, given: Ailema, clan: Keramyes}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]

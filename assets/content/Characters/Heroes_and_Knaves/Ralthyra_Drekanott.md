@@ -1,6 +1,6 @@
 ---
 shortcode: rlthyrdrknt
-name: {full: Ralthira Drekanótt, given: Ralthira, clan: Drekanótt, aliases: []}
+name: {full: Ralthira Drekanótt, given: Ralthira, clan: Drekanótt}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]

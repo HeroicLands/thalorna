@@ -2,10 +2,7 @@
 shortcode: tulemeserdal
 name:
   full: Tuleme Serdalis
-  aliases:
-    - Councilor Tuleme Serdalis
-    - Merchant Councilor Tuleme Serdalis
-    - Merchant Councilor Tuleme
+  en: [Councilor Tuleme Serdalis, Merchant Councilor Tuleme Serdalis, Merchant Councilor Tuleme]
 type: being
 subType: npc
 description: The senior merchant representative on the city council, named in Brigar Liskal.

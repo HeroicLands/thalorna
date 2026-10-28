@@ -1,6 +1,6 @@
 ---
 shortcode: longsight
-name: {full: The Long Sight, aliases: []}
+name: {full: The Long Sight}
 type: mysticalability
 subType: arcaneincantation
 description: "Grants sight of a distant place, provided the sun is standing on it."

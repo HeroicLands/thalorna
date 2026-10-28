@@ -1,6 +1,6 @@
 ---
 shortcode: tantsouregin
-name: {full: Tantsou Region, aliases: []}
+name: {full: Tantsou Region}
 type: place
 subType: region
 description: The Tantsou heartland—the mountain-guarded river basins and plains of Ankaris's far east, cradle of the Empire of Tantsou.

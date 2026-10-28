@@ -1,6 +1,6 @@
 ---
 shortcode: inululedju
-name: {full: Inulu-Ledju, aliases: []}
+name: {full: Inulu-Ledju}
 type: place
 subType: site
 description: "The white-stone quarry of Zu-Zel-Iaqtet, cutting the block that faces the empire's great works"

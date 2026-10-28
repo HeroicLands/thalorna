@@ -1,6 +1,6 @@
 ---
 shortcode: wtrbffl
-name: {full: Water Buffalo, aliases: []}
+name: {full: Water Buffalo}
 type: being
 subType: creature
 description: "A massive semi-aquatic bovine of tropical floodplains, valued as a powerful draft beast yet formidable when running wild in feral herds."

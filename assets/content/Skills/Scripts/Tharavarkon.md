@@ -1,6 +1,6 @@
 ---
 shortcode: thrvrknscrpt
-name: {full: Tharavarkon Script, aliases: []}
+name: {full: Tharavarkon Script}
 type: skill
 subType: script
 description: "The graven letters of imperial Vylaria—the ceremonial runic script of temple, tomb and triumphal arch."

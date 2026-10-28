@@ -1,6 +1,6 @@
 ---
 shortcode: highfold
-name: {full: Highfold, aliases: []}
+name: {full: Highfold}
 type: place
 subType: settlement
 description: "The summer pasture village above the tree line, and the source of the cheese that goes up to the Gate."

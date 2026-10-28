@@ -1,6 +1,6 @@
 ---
 shortcode: teyumirgn
-name: {full: Teyumi Region, aliases: []}
+name: {full: Teyumi Region}
 type: place
 subType: region
 description: "Mesas, canyons and canal lowlands on the northern rim of the desert—the land of the Turquoise People, in Northern Ki'ich'chik."

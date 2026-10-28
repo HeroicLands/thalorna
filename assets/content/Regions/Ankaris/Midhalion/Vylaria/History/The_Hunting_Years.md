@@ -1,6 +1,6 @@
 ---
 shortcode: huntingyears
-name: {full: The Hunting Years, aliases: [The Enforcement of the Monopoly]}
+name: {full: The Hunting Years, en: [The Enforcement of the Monopoly]}
 type: lore
 subType: history
 description: "From about 73 BF to about 25 AF the Sekran enforces the Kandrol: renegade masters, hedge traditions and the last free schools of Helionis are enrolled, imprisoned or killed, with legions lent to the hunt under the Republic and then under the Founder."

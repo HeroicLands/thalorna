@@ -1,6 +1,6 @@
 ---
 shortcode: pthbrthordr
-name: {full: The Path of Breath, aliases: []}
+name: {full: The Path of Breath}
 type: affiliation
 subType: order
 description: "The sacred martial order of the masters of the Path of Breath, whose few members bear the dragonfly on the neck."

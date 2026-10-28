@@ -1,6 +1,6 @@
 ---
 shortcode: embrhnd
-name: {full: Emberhound, aliases: []}
+name: {full: Emberhound}
 type: being
 subType: creature
 description: "A cunning fire elemental in animal form, combining a predator's tactics with living flame, hunting for fuel or bound to guard places of power."

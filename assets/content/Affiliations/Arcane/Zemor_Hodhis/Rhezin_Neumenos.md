@@ -1,6 +1,6 @@
 ---
 shortcode: neumenos
-name: {full: Neumenos, aliases: [Rhezin Neumenos, Zulen Neumenos]}
+name: {full: Neumenos, helo: [Rhezin Neumenos], vyl: [Zulen Neumenos]}
 type: affiliation
 subType: arcanetradition
 tags: [zemor-hodhis]

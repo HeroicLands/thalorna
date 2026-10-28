@@ -1,6 +1,6 @@
 ---
 shortcode: brazemasdty
-name: {full: Brazemas, aliases: []}
+name: {full: Brazemas}
 # terran_analog: the Celtic god of thunder and storm
 type: lore
 subType: deity

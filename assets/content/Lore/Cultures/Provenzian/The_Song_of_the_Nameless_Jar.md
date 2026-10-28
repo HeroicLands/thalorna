@@ -1,6 +1,6 @@
 ---
 shortcode: namelessjar
-name: {full: The Song of the Nameless Jar, aliases: [Pass the Jar]}
+name: {full: The Song of the Nameless Jar, en: [Pass the Jar]}
 type: lore
 subType: literature
 description: "A satirical song of the temple squares at the Golden Harvest, sung by singers with no patron and never at a table: the finest fruit conserves in the kingdom, the seal that names everything but the ground, the tenants who inherited the field, the priest refused twice with good wine, and the dead under the trees who pay the rent."
@@ -16,7 +16,7 @@ data:
     - affiliation-olvenia
     - affiliation-selmoros
     - lore-provenzianclt
-  language: provnzlng
+  lang: prov
 
 # terran_analog: "The troubadour sirventes, the satirical song aimed at the powerful and sung outside the patron's hall; the street ballad's refrain that every verse comes back to; the mock-praise in which every compliment carries the charge."
 ---

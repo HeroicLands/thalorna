@@ -1,6 +1,6 @@
 ---
 shortcode: upperrivrslt
-name: {full: The Upper River Selatu, aliases: [The Upper River Selatu of Au'Khelathu]}
+name: {full: The Upper River Selatu, en: [The Upper River Selatu of Au'Khelathu]}
 type: affiliation
 subType: polity
 description: "The agricultural heartland of Au'Khelathu—eighteen river-valley selatu upstream of the delta whose flood-fed fields grow the empire's grain, whose conservative landowning Halzi'a guard their ancient privileges, and whose temple-cities hold the oldest cults in the realm."

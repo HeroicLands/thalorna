@@ -1,6 +1,6 @@
 ---
 shortcode: yeserapariva
-name: {full: Yesera Parivan, aliases: [Lady Yesera Parivan, Lady Yesera]}
+name: {full: Yesera Parivan, en: [Lady Yesera Parivan, Lady Yesera]}
 type: being
 subType: npc
 description: Commander of the Kingdom's maritime exploration division in the Royal Survey Corps, named in Rosharan Barmandan.

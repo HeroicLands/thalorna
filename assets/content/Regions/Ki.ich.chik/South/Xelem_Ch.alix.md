@@ -1,6 +1,6 @@
 ---
 shortcode: xelemchalix
-name: {full: Shelem Ch’alish, aliases: []}
+name: {full: Shelem Ch’alish}
 type: place
 subType: settlement
 description: "Fortress City"

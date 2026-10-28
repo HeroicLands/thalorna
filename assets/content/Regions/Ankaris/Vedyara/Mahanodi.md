@@ -1,6 +1,6 @@
 ---
 shortcode: mahanodi
-name: {full: The Mahanodi, aliases: []}
+name: {full: The Mahanodi}
 type: place
 subType: feature
 description: "The great central river—the longest, the most populous, the one whose channel has moved and taken a royal seat with it, and the one the Melka is held on."

@@ -1,6 +1,6 @@
 ---
 shortcode: lotrenilther
-name: {full: Lotren Ílthernde, aliases: [Lord Lotren Ílthernde, Lord Lotren]}
+name: {full: Lotren Ílthernde, en: [Lord Lotren Ílthernde, Lord Lotren]}
 type: being
 subType: npc
 description: A city councilor who intervened to advance Parthun Pelthal's career and remains technically his patron.

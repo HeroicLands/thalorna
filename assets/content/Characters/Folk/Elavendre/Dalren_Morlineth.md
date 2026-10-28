@@ -1,6 +1,6 @@
 ---
 shortcode: dalrenmorlin
-name: {full: Dalren Mórlineth, aliases: [Lord Dalren Mórlineth, Lord Dalren]}
+name: {full: Dalren Mórlineth, en: [Lord Dalren Mórlineth, Lord Dalren]}
 type: being
 subType: npc
 description: A nobleman whom Ídrise Kórisvar has guarded before, who seems paranoid and frightened.

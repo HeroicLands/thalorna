@@ -1,6 +1,6 @@
 ---
 shortcode: darmejadar
-name: {full: Darmeja Daranir, aliases: [Captain Darmeja]}
+name: {full: Darmeja Daranir, en: [Captain Darmeja]}
 type: being
 subType: npc
 description: Captain of the Crimson Sail, a merchant captain whom Senapavi Vikramada once refused to serve.

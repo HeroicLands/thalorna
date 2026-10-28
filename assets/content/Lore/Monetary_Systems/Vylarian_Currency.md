@@ -1,6 +1,6 @@
 ---
 shortcode: vylrncrncy
-name: {full: Vylarian Currency, aliases: [Vylarian Coinage, Solden, Ardin, Ogdel, Bit]}
+name: {full: Vylarian Currency, en: [Vylarian Coinage, Bit], vyl: [Solden, Ardin, Ogdel]}
 type: lore
 subType: economy
 description: "Standard currency of western and central Ankaris—the three-coin Vylarian system (Solden, Ardin, Ogdel/Bit) and the paper script layered above it; accepted as foreign currency in the Northern Fertile Region of Zerathia."

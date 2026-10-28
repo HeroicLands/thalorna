@@ -1,6 +1,6 @@
 ---
 shortcode: hrmnz
-name: {full: Harmonize, aliases: []}
+name: {full: Harmonize}
 type: mysticalability
 subType: arcaneincantation
 description: "Unites allied group; enhances coordination and shared magical resonance."

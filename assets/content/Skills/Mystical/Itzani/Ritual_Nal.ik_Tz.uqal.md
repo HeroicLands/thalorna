@@ -1,6 +1,6 @@
 ---
 shortcode: naliktzuqal
-name: {full: "Ritual: Nal'ik Ts'uqal", aliases: [Nal'ik Ts'uqal, The Dreamer in Moonlight]}
+name: {full: "Ritual: Nal'ik Ts'uqal", en: [The Dreamer in Moonlight], kiichek: [Nal'ik Ts'uqal]}
 type: skill
 subType: mystical
 tags: [itzani, faith-skill, draft]

@@ -1,12 +1,12 @@
 ---
 shortcode: yesomaclt
-name: {full: Yesoma, aliases: [Canopy Foragers]}
+name: {full: Canopy Foragers, ekpe: [Yesoma]}
 type: lore
 subType: culture
 description: "The canopy foragers of the central Zerathian forest: mobile bands of the deep interior who share everything and call the forest their parent."
 tags: [draft]
 data:
-  language: skill-ekpelulng
+  lang: ekpe
   appearanceProfile:
     frame: {light: 3, medium: 5, heavy: 2}
     eye_color: {dark_brown: 6, brown: 3, black: 1}

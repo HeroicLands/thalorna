@@ -1,8 +1,9 @@
 ---
 shortcode: fawo
 name:
-  full: Fawo
-  aliases: [The Minister of Material Fortune, Falou Sei, The Bureau of Allocation]
+  full: The Minister of Material Fortune
+  en: [The Bureau of Allocation]
+  tant: [Fawo, Falou Sei]
 type: affiliation
 subType: faithtradition
 description: "Prosperity."

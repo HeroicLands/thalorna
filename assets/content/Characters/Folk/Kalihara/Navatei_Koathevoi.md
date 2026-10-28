@@ -1,6 +1,6 @@
 ---
 shortcode: navateikoath
-name: {full: Navatei Koathevoi, aliases: [Guild Master Navatei]}
+name: {full: Navatei Koathevoi, en: [Guild Master Navatei]}
 type: being
 subType: npc
 description: The master of the Scribes' Guild, who grows rich on high fees and discourages scribes from working for the poor, named in Ilumanei Naoliru.

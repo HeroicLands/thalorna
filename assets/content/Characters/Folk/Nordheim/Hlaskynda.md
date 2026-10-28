@@ -1,6 +1,6 @@
 ---
 shortcode: hlaskynda
-name: {full: Hlaskinda, aliases: [Jarl Hlaskinda]}
+name: {full: Hlaskinda, en: [Jarl Hlaskinda]}
 type: being
 subType: npc
 description: Jarl of Hvulgdal, a farming dale of the Nordlands, known as a wise ruler, named in Bruldorv Greenshield and Hvulgdal.

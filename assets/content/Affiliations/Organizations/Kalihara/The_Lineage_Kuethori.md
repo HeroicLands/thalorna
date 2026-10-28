@@ -1,6 +1,6 @@
 ---
 shortcode: lineagekuethori
-name: {full: The Lineage Kuethori, aliases: [The Kuethori]}
+name: {full: The Lineage Kuethori, en: [The Kuethori]}
 type: affiliation
 subType: lineage
 description: "The lineage that holds the Kuethori Gap, the ledge road along its wall and the work across the river, and the great lineage with the most to lose by the failing."

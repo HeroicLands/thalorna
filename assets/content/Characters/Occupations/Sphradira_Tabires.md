@@ -1,6 +1,6 @@
 ---
 shortcode: sphrdrtbrs
-name: {full: Sfradira Tabires, aliases: []}
+name: {full: Sfradira Tabires}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

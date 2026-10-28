@@ -1,6 +1,6 @@
 ---
 shortcode: xtratemp
-name: {full: Extratemporality, aliases: []}
+name: {full: Extratemporality}
 type: mysticalability
 subType: arcanetalent
 description: "Perceives an event at a remove in time rather than in distance."

@@ -1,6 +1,6 @@
 ---
 shortcode: samuratrat
-name: {full: Samurat Ratamar, aliases: [Captain Samurat]}
+name: {full: Samurat Ratamar, en: [Captain Samurat]}
 type: being
 subType: npc
 description: Captain of The Merchant's Fortune, a seaman of great repute known for his exacting standards, under whom Vishvara Mahapar served.

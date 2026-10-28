@@ -1,6 +1,6 @@
 ---
 shortcode: linmut
-name: {full: Linmut, aliases: []}
+name: {full: Linmut}
 type: place
 subType: settlement
 description: "Selat capital of Linmut."

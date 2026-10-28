@@ -1,6 +1,6 @@
 ---
 shortcode: elxacid
-name: {full: Alkahest of Sideris, aliases: [Acid Elixir]}
+name: {full: Alkahest of Sideris, en: [Acid Elixir]}
 type: concoctiongear
 subType: elixir
 description: "Crystalline amber acid elixir; corrodes flesh, metal, armor per round."

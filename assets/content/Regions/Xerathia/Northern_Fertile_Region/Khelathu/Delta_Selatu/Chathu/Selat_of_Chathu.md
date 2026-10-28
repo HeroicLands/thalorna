@@ -1,6 +1,6 @@
 ---
 shortcode: selatchathu
-name: {full: The Selat of Chathu, aliases: []}
+name: {full: The Selat of Chathu}
 type: affiliation
 subType: polity
 description: "The sea-margin; salt-pans, natron flats, and the curing of the lesser villages' catch—one of the delta selatu of Au'Khelathu."

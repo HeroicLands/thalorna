@@ -1,6 +1,6 @@
 ---
 shortcode: heligstrom
-name: {full: Hélithron, aliases: []}
+name: {full: Hélithron}
 type: place
 subType: settlement
 description: "A Lirve settlement where the warlord Kervan Redblade's men have been seen watching for the alchemist Sevren Mírkelis."

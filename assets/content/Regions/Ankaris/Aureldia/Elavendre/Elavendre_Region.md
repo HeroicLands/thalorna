@@ -1,6 +1,6 @@
 ---
 shortcode: elavendre
-name: {full: Élavendre, aliases: [Élavendre Region]}
+name: {full: Élavendre Region, elav: [Élavendre]}
 type: place
 subType: region
 description: "Woodland kingdom where Sinale and humans coexist in a culture of music, prophecy, and ancient magic—the only human realm in Ankaris where the Elder Races walk openly as equals."

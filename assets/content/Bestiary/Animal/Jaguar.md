@@ -1,6 +1,6 @@
 ---
 shortcode: jaguar
-name: {full: Jaguar, aliases: []}
+name: {full: Jaguar}
 type: being
 subType: creature
 description: "The stocky apex cat of tropical jungles and riverbanks, wielding the strongest proportional bite of any cat, able to puncture turtle shell and skull."

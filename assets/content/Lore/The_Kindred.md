@@ -2,7 +2,7 @@
 shortcode: thekindred
 name:
   full: The Kindred
-  aliases: [The Spirit-Kindred, The Kindred of the First, The Servants of the First]
+  en: [The Spirit-Kindred, The Kindred of the First, The Servants of the First]
 type: lore
 subType: spirit
 description: "The animal and place spirits who serve the Two Powers—venerated, appeased, or warded against by the Áelendan tribes, and the substance of daily religious practice."

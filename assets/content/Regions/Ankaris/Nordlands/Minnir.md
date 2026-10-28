@@ -1,6 +1,6 @@
 ---
 shortcode: minnir
-name: {full: Minnir, aliases: []}
+name: {full: Minnir}
 type: lore
 subType: theology
 description: "The counselor whose severed head appears beside Odvar, associated with the well where the god pays an eye for wisdom."

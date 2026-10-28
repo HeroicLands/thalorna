@@ -1,6 +1,6 @@
 ---
 shortcode: rithardmvr
-name: {full: Ríthara Dómivar, aliases: []}
+name: {full: Ríthara Dómivar}
 type: being
 subType: npc
 tags: [draft, common-folk]

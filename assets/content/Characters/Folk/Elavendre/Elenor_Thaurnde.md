@@ -1,6 +1,6 @@
 ---
 shortcode: elenorthaurn
-name: {full: Élenor Thaurnde, aliases: [Captain Élenor Thaurnde, Captain Élenor]}
+name: {full: Élenor Thaurnde, en: [Captain Élenor Thaurnde, Captain Élenor]}
 type: being
 subType: npc
 description: The commander of Élavendre's border militia, a professional soldier who has protected Melrik Tárvenel from reassignment.

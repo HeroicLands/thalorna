@@ -1,6 +1,6 @@
 ---
 shortcode: zuletqar
-name: {full: Zulet'Qar, aliases: [The Truce Wells]}
+name: {full: Zulet'Qar, en: [The Truce Wells]}
 type: place
 subType: feature
 description: "The largest wells on the desert road through Khuqet-Miglet, and the ground on which the garrison and the tribes meet"

@@ -1,6 +1,6 @@
 ---
 shortcode: kiichchik
-name: {full: Ki'ich'chik Continent, aliases: [Kiichchik]}
+name: {full: Ki'ich'chik Continent, kiichek: [Kiichchik]}
 type: place
 subType: region
 description: "The western continent: five northern nations bound by a compact, a desert that filters the trade between north and south, the Itsani city-states and the southern wastelands."

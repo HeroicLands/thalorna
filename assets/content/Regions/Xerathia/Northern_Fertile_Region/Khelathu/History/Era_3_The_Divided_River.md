@@ -1,6 +1,6 @@
 ---
 shortcode: akhdivriver
-name: {full: The Divided River, aliases: []}
+name: {full: The Divided River}
 type: lore
 subType: history
 description: "1390 to 1671 ST (721 to 440 BF): a throne crowned upriver at Lenen-Nezut, six years of war between two banks, and the hill-nomads of the western margins who take the crown on the floodplain of Zel-Halzi and hold it for four reigns."

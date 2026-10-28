@@ -1,6 +1,6 @@
 ---
 shortcode: dokharesfadi
-name: {full: Dókhares Fadiros, aliases: [Merchant Lord Dókhares Fadiros]}
+name: {full: Dókhares Fadiros, en: [Merchant Lord Dókhares Fadiros]}
 type: being
 subType: npc
 description: A wealthy merchant engaged in systematic fraud within the agorin marketplace, named in Gáberos Khaddaris.

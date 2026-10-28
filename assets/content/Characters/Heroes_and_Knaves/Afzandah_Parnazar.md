@@ -1,6 +1,6 @@
 ---
 shortcode: afzndhprnzr
-name: {full: Afzandah Parnazar, given: Afzandah, clan: Parnazar, aliases: []}
+name: {full: Afzandah Parnazar, given: Afzandah, clan: Parnazar}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]

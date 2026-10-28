@@ -1,6 +1,6 @@
 ---
 shortcode: thornryth
-name: {full: Thornreth, aliases: []}
+name: {full: Thornreth}
 type: place
 subType: settlement
 description: "A Varokh village in Thornwald."

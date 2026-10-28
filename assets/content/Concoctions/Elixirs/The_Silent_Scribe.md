@@ -1,6 +1,6 @@
 ---
 shortcode: elxego
-name: {full: The Silent Scribe, aliases: [Egosight Elixir]}
+name: {full: The Silent Scribe, en: [Egosight Elixir]}
 type: concoctiongear
 subType: elixir
 description: "Crystalline purple draft; grants ability to read and understand."

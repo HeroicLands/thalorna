@@ -1,6 +1,6 @@
 ---
 shortcode: gnirthvirthe
-name: {full: Gnirthvir the Vengeful, aliases: [Jarl Gnirthvir the Vengeful, Jarl Gnirthvir]}
+name: {full: Gnirthvir the Vengeful, en: [Jarl Gnirthvir the Vengeful, Jarl Gnirthvir]}
 type: being
 subType: npc
 description: The jarl from whom Dvulginda Shadow-Walker stole the Crown of Ages.

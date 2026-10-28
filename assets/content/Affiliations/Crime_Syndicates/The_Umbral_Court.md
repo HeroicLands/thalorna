@@ -1,6 +1,6 @@
 ---
 shortcode: umbralcourt
-name: {full: The Umbral Court, aliases: [The Shadow Court, The Set-Aside Crown, The Second Face]}
+name: {full: The Umbral Court, en: [The Shadow Court, The Set-Aside Crown, The Second Face]}
 type: affiliation
 subType: criminal
 description: "The shadow court of Dúnavarre—the household of a crown the Thordimalon set aside, kept alive by the dispossessed nobility as a criminal enterprise, a court of petition for subjects the Synod will not hear, and the one power on the island that has learned how not to be seen."

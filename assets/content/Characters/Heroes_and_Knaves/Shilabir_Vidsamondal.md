@@ -1,6 +1,6 @@
 ---
 shortcode: shlbrvdsmndl
-name: {full: Shilabir Vidsamondal, given: Shilabir, clan: Vidsamondal, aliases: [Shilu]}
+name: {full: Shilabir Vidsamondal, given: Shilabir, clan: Vidsamondal, vedy: [shilu]}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]

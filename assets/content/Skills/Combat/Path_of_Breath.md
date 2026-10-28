@@ -1,6 +1,6 @@
 ---
 shortcode: pthbrth
-name: {full: Path of Breath, aliases: []}
+name: {full: Path of Breath}
 type: skill
 subType: combat
 description: "The Vylarian sword discipline that unites physical technique with spiritual discipline; its masters number three."

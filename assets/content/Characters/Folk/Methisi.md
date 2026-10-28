@@ -1,6 +1,6 @@
 ---
 shortcode: methisi
-name: {full: Methisi, aliases: []}
+name: {full: Methisi}
 type: being
 subType: npc
 description: "An enemy of the auditors, who holds a quiet bounty and has not yet found anyone willing to collect it openly"

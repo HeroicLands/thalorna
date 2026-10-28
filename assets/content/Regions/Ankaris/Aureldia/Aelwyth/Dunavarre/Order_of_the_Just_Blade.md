@@ -1,6 +1,6 @@
 ---
 shortcode: justbladeordr
-name: {full: Order of the Just Blade, aliases: []}
+name: {full: Order of the Just Blade}
 type: affiliation
 subType: order
 description: "A militant order of the Faith of Árdavon, god of order and justice."

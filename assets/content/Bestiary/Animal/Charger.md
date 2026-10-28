@@ -1,6 +1,6 @@
 ---
 shortcode: charger
-name: {full: Charger, aliases: []}
+name: {full: Charger}
 type: being
 subType: creature
 description: "A powerful warhorse bred and trained for battle, conditioned to endure noise, blood, and violence while carrying an armored rider into the fray."

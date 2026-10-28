@@ -1,6 +1,6 @@
 ---
 shortcode: thalassos
-name: {full: Thálassos, aliases: []}
+name: {full: Thálassos}
 type: place
 subType: settlement
 description: "Harbor Town"

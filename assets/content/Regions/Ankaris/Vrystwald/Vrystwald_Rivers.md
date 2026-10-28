@@ -1,6 +1,6 @@
 ---
 shortcode: vrystwldrvrs
-name: {full: Vristwald Rivers, aliases: [Great River Systems]}
+name: {full: Vristwald Rivers, en: [Great River Systems]}
 type: place
 subType: feature
 description: The slow river network that links Vristwald's clearings, landings and frontier markets.

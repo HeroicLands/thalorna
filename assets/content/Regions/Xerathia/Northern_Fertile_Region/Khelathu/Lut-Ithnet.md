@@ -1,6 +1,6 @@
 ---
 shortcode: lutithnet
-name: {full: Lut-Ithnet, aliases: [The House of Sealed Mouths, The Western Estate]}
+name: {full: Lut-Ithnet, en: [The House of Sealed Mouths, The Western Estate]}
 type: place
 subType: site
 description: "A white funerary estate under the desert cliffs west of the Zumelesh, at the end of a canal that has run dry, where the steward of a dwindled house keeps its dead and its servants with their mouths sewn shut."

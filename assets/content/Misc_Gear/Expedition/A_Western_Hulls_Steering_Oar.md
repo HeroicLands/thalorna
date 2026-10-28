@@ -1,6 +1,6 @@
 ---
 shortcode: steeringoar
-name: {full: "A Western Hull's Steering Oar", aliases: []}
+name: {full: A Western Hull's Steering Oar}
 type: miscgear
 description: "The broad-bladed steering oar of a Kaliharan hull, cut by the shipwrights of Nalurithan with their mark in the loom, by which a hull from the island is known abroad."
 tags: [kalihara]

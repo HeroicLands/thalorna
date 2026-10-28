@@ -1,6 +1,6 @@
 ---
 shortcode: donkey
-name: {full: Donkey, aliases: []}
+name: {full: Donkey}
 type: being
 subType: creature
 description: "A small, sure-footed equine prized for endurance and long life, hauling loads through rough terrain that would defeat a horse."

@@ -1,6 +1,6 @@
 ---
 shortcode: ganokaboard
-name: {full: "Ganoka's Counting-Board", aliases: [Notation Tablet]}
+name: {full: Ganoka's Counting-Board, en: [Notation Tablet]}
 type: miscgear
 description: "A slate and stylus carried by a working Ganoka; the tables and notation of the Reckoners' College, portable enough for a court's service."
 tags: []

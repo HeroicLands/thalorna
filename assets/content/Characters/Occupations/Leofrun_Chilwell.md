@@ -1,6 +1,6 @@
 ---
 shortcode: lefrnchlwl
-name: {full: Leofith Chilwell, aliases: []}
+name: {full: Leofith Chilwell}
 type: being
 subType: npc
 tags: [draft, common-folk]

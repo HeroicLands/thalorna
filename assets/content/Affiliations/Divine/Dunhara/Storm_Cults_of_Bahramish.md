@@ -2,11 +2,8 @@
 shortcode: strmcltsbhrms
 name:
   full: The Storm Cults of Báhramis
-  aliases:
-    - The Storm Cults
-    - The Followers of the Thundering Voice
-    - Baharami-Vadukesh
-    - Storm Cults of Bahramish
+  en: [The Storm Cults, The Followers of the Thundering Voice, Storm Cults of Bahramish]
+  dunh: [baharami-vadukesh]
 type: affiliation
 subType: faithtradition
 description: "Decentralized religious network of the Dunhara tribes—storm-shamans, weather-readers, and chosen vessels of the storm god Báhramis, whose authority crosses tribal boundaries and shapes the ritual life of every Dunhari camp."

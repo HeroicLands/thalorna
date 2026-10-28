@@ -1,6 +1,6 @@
 ---
 shortcode: douyodty
-name: {full: Douyo, aliases: []}
+name: {full: Douyo}
 type: lore
 subType: deity
 description: "The Lost Road—a Youweng demon lord of the Tengwou Rong Lei, holding misdirection and the signpost that points every way at once."

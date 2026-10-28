@@ -1,6 +1,6 @@
 ---
 shortcode: brazemabetsu
-name: {full: Brazema Betsuris, aliases: [Captain-Admiral Brazema]}
+name: {full: Brazema Betsuris, en: [Captain-Admiral Brazema]}
 type: being
 subType: npc
 description: A celebrated naval commander who has commissioned multiple vessels from Dometh Graveth over two decades.

@@ -1,6 +1,6 @@
 ---
 shortcode: flirnynda
-name: {full: Flirninda, aliases: [Master Flirninda]}
+name: {full: Flirninda, en: [Master Flirninda]}
 type: being
 subType: npc
 description: An elderly healer and philosopher who claims to train broken warriors in methods of meditation and honor, named in Thraldorv Vornheim.

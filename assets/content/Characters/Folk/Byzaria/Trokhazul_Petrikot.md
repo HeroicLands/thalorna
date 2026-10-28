@@ -1,6 +1,6 @@
 ---
 shortcode: trokhazulpet
-name: {full: Trokhazul Petrikot, aliases: [Father Trokhazul Petrikot]}
+name: {full: Trokhazul Petrikot, en: [Father Trokhazul Petrikot]}
 type: being
 subType: npc
 description: The head priest, who shares Kumetara Pissakit's conservation philosophy.

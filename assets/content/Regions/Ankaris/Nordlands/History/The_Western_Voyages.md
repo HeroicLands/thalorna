@@ -1,6 +1,6 @@
 ---
 shortcode: westrnvoyages
-name: {full: The Western Voyages, aliases: [The Gnaldurfjord Crossings]}
+name: {full: The Western Voyages, en: [The Gnaldurfjord Crossings]}
 type: lore
 subType: history
 description: "Three crossings of the western ocean by the household of Hafthann the Surf-Farer of Gnaldurfjord: a probe in 699 AF that came home, a great raid in 707 AF that a storm swamped with the jarl and thirty-five men, and a modest raid in 719 AF under his son Skeldvir that brought back a few thralls and some strange artifacts."

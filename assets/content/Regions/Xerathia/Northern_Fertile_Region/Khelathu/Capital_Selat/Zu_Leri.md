@@ -1,6 +1,6 @@
 ---
 shortcode: zuleri
-name: {full: Zu-Leri, aliases: []}
+name: {full: Zu-Leri}
 type: place
 subType: site
 description: "The oldest and highest tell of Galezkara, crowned by the Temple of Saq'aru, craft-god and patron of the capital, and by the walled mansions of the priestly-noble houses"

@@ -1,6 +1,6 @@
 ---
 shortcode: duckttm
-name: {full: Duck, aliases: [Duck Totem]}
+name: {full: Duck, en: [Duck Totem]}
 type: lore
 subType: bestiary
 description: "The duck as a totemic ideal, and the human character it describes."

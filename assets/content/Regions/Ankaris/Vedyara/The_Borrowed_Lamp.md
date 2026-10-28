@@ -1,6 +1,6 @@
 ---
 shortcode: borrowedlamp
-name: {full: The Borrowed Lamp, aliases: []}
+name: {full: The Borrowed Lamp}
 type: lore
 subType: literature
 description: "The Agmi-pantra's epic song of its founding, sung at the Night of the Kindled Road: the season the servant of ash spent on the unburned ford of Olurtaran with a widow's threshold lamp, the fires that went out, the one that took on the east bank, and the ember every vessel of the sect carries from it."
@@ -17,7 +17,7 @@ data:
     - affiliation-kalavrata
     - lore-bloodfield
     - affiliation-triyangasampradeya
-  language: vedyarlng
+  lang: vedy
   packFolder: vedyara
 ---
 

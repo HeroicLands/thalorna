@@ -1,6 +1,6 @@
 ---
 shortcode: venariasea
-name: {full: Venaria Sea, aliases: []}
+name: {full: Venaria Sea}
 type: place
 subType: feature
 description: "A sea crossed on the pilgrim road to the ancient astrological sites sacred to Au'Khelathu's early astrologers."

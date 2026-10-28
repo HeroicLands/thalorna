@@ -1,6 +1,6 @@
 ---
 shortcode: grazruins
-name: {full: Ruins and Labyrinths of the Grazian Mountains, aliases: [The Forgotten Caverns]}
+name: {full: Ruins and Labyrinths of the Grazian Mountains, en: [The Forgotten Caverns]}
 type: place
 subType: feature
 description: "Forgotten caverns, cut passages and sealed halls under the glaciers and peaks of the Grazian Mountains, whose makers are left unstated and whose doors the guides do not name."

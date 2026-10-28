@@ -1,6 +1,6 @@
 ---
 shortcode: frithhaven
-name: {full: Frithhaven, aliases: []}
+name: {full: Frithhaven}
 type: place
 subType: settlement
 description: "A Varokh village in Thornwald."

@@ -1,6 +1,6 @@
 ---
 shortcode: gnaldurfjord
-name: {full: Gnaldurfjord, aliases: []}
+name: {full: Gnaldurfjord}
 type: place
 subType: settlement
 description: "Remote Fjord Village"

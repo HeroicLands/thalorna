@@ -1,6 +1,6 @@
 ---
 shortcode: hnrvyndisldr
-name: {full: Hnarvinda Iseldur, aliases: []}
+name: {full: Hnarvinda Iseldur}
 type: being
 subType: npc
 tags: [draft, common-folk]

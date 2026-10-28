@@ -1,6 +1,6 @@
 ---
 shortcode: godabarnwl
-name: {full: Osrun Barnwell, aliases: []}
+name: {full: Osrun Barnwell}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

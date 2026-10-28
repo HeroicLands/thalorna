@@ -1,6 +1,6 @@
 ---
 shortcode: qethalu
-name: {full: The Qethalu, aliases: [The Temple Traditionalists]}
+name: {full: The Qethalu, en: [The Temple Traditionalists]}
 type: affiliation
 subType: fellowship
 description: Conservative priests within Qe'aret's own order who hold that political entanglement corrupts the goddess's purpose, and that her high priest should be something other than a courtier

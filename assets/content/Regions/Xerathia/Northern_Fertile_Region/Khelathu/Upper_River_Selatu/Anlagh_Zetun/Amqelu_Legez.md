@@ -1,6 +1,6 @@
 ---
 shortcode: amqelulegez
-name: {full: Amqelu-Legez, aliases: []}
+name: {full: Amqelu-Legez}
 type: place
 subType: settlement
 description: "River Town (Grain Port)"

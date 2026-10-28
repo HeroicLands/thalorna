@@ -1,6 +1,6 @@
 ---
 shortcode: vahrati
-name: {full: "Ritual: Vahrati", aliases: [Vahrati, The Keeper of Decay]}
+name: {full: "Ritual: Vahrati", en: [The Keeper of Decay], vedy: [vahrati]}
 type: skill
 subType: mystical
 tags: [varnuka, faith-skill]

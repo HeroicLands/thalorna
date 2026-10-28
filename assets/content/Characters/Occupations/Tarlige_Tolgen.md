@@ -1,6 +1,6 @@
 ---
 shortcode: tarligtlgn
-name: {full: Tarlige Tolgen, aliases: []}
+name: {full: Tarlige Tolgen}
 type: being
 subType: npc
 tags: [draft, common-folk]

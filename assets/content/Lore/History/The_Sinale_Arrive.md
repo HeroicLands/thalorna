@@ -1,6 +1,6 @@
 ---
 shortcode: sinalearrv
-name: {full: The Coming of the Sinale, aliases: [The Arrival of the Firstborn]}
+name: {full: The Coming of the Sinale, en: [The Arrival of the Firstborn]}
 type: lore
 subType: history
 description: "The Sinale reach Thalorna at approximately 7500 BF from a prior realm they do not disclose—the first of the Elder Races, and the beginning of the world's recorded history."

@@ -1,6 +1,6 @@
 ---
 shortcode: cultgodirnk
-name: {full: "Her Gudi / Gudja", aliases: []}
+name: {full: Her Gudi / Gudja}
 type: lore
 subType: law
 description: "The priest who takes Nahild's sacrifices in hiding, in the faith of Nahild."

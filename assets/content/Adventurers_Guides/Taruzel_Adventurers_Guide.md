@@ -1,6 +1,6 @@
 ---
 shortcode: taruzeladvguide
-name: {full: Taruzel Adventurer's Guide, aliases: []}
+name: {full: Taruzel Adventurer's Guide}
 type: doc
 subType: settingguide
 description: A player and GM introduction to the island city-states of the Confederation of Taruzelian States—their harbors, houses, guilds and quarrels, and the ways a campaign begins there.

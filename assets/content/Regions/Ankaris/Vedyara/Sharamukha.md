@@ -1,6 +1,6 @@
 ---
 shortcode: sharamukha
-name: {full: Sharamukha, aliases: []}
+name: {full: Sharamukha}
 type: place
 subType: site
 description: "The gorge-mouth below the gold road where Bharyastan's horse and Danurkot's recalled graduates stopped Daunapur's host about 415 AF: a cairn of broken arrows and a small Mahajaya shrine where each year's returning graduates leave one arrow."

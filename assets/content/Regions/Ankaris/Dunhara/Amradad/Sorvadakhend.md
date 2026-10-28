@@ -1,6 +1,6 @@
 ---
 shortcode: sorvadakhend
-name: {full: Sorvadakhend, aliases: []}
+name: {full: Sorvadakhend}
 type: place
 subType: settlement
 description: "A significant rural settlement of Amradad whose Village Elders keep the astrologer Fakhrad Tamaran on retainer for seasonal and long-term counsel."

@@ -1,6 +1,6 @@
 ---
 shortcode: tharozobrazi
-name: {full: Tharozo Brazis, aliases: [Lord Tharozo]}
+name: {full: Tharozo Brazis, en: [Lord Tharozo]}
 type: being
 subType: npc
 description: A wealthy merchant who approached Pálina Sánriseth for intimate counsel and was rebuffed.

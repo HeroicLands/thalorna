@@ -1,6 +1,6 @@
 ---
 shortcode: elxerp
-name: {full: "Pirethos's Wrath", aliases: [Eruption Elixir]}
+name: {full: Pirethos's Wrath, en: [Eruption Elixir]}
 type: concoctiongear
 subType: elixir
 description: "Crimson heated liquid; explodes in acrid fumes causing severe damage."

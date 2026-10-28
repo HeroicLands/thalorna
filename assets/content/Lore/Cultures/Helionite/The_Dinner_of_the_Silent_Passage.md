@@ -1,6 +1,6 @@
 ---
 shortcode: silentdinner
-name: {full: The Dinner of the Silent Passage, aliases: [The Return of Ghignis]}
+name: {full: The Dinner of the Silent Passage, en: [The Return of Ghignis]}
 type: lore
 subType: literature
 description: "A dialogue of the Thirenaean schools, set at an ethics teacher's table on a night of the Silent Passage when the temples are shut to the living: a Pelagoran ship-master who fought in the War of the Harbors, a companion of the Silver Veil, and the teacher's likely story of a levyman carried home among the dead who sat up on his bier and told of the steps before the black gate, where every dead man speaks his life aloud and the ranks of the Sour Plain stand waiting beyond the stone."
@@ -19,7 +19,7 @@ data:
     - affiliation-pelagora
     - lore-heladsilverveil
     - lore-helioniteclt
-  language: helonclng
+  lang: helo
 
 # terran_analog: "Plato's dialogues, for the dinner among friends narrated by one who was there, the philosopher's attack on the poets, and the myth told at the end and offered as a likely story rather than a proof; the Myth of Er in the Republic, for the soldier taken up from the battlefield who wakes on the pyre and reports the judgment of the dead; and the Athenian custom of the public funeral and the reading of the year's dead."
 ---

@@ -1,6 +1,6 @@
 ---
 shortcode: fleshmdwllng
-name: {full: Flesh Made Willing, aliases: []}
+name: {full: Flesh Made Willing}
 type: mysticalability
 subType: arcaneincantation
 description: "Reshapes a living body within its own nature, painfully and permanently."

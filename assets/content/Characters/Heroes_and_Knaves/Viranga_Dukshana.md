@@ -1,6 +1,6 @@
 ---
 shortcode: vrngdkshn
-name: {full: Viranga Dukshana, given: Viranga, clan: Dukshana, aliases: [Viru]}
+name: {full: Viranga Dukshana, given: Viranga, clan: Dukshana, vedy: [viru]}
 type: being
 subType: character
 tags: [heroes-and-knaves, administration]

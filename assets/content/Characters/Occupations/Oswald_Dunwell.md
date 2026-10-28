@@ -1,6 +1,6 @@
 ---
 shortcode: oswaldunwl
-name: {full: Wilwald Dunwell, aliases: [Sir Cedric Ashvale]}
+name: {full: Wilwald Dunwell, aelw: [Sir Cedric Ashvale]}
 type: being
 subType: npc
 tags: [draft, administration]

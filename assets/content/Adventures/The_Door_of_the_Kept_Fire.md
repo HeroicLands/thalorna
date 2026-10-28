@@ -1,6 +1,6 @@
 ---
 shortcode: drkptfr
-name: {full: The Roll Beneath the Hill, aliases: []}
+name: {full: The Roll Beneath the Hill}
 type: scenario
 subType: adventure
 description: "A legion cohort walked into a hill in a winter war and never came out, and its door is still held against everyone who knocks."

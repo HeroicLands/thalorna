@@ -1,6 +1,6 @@
 ---
 shortcode: ellive
-name: {full: Éllive, aliases: []}
+name: {full: Éllive}
 type: place
 subType: region
 description: "The heartland of Élavendre—the basin of the Berav, holding Péravel, the University and the workshops where everything the kingdom is famous for is actually made."

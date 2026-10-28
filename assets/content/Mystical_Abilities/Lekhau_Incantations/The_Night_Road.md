@@ -1,6 +1,6 @@
 ---
 shortcode: nightroad
-name: {full: The Night Road, aliases: []}
+name: {full: The Night Road}
 type: mysticalability
 subType: arcaneincantation
 description: "Permits passage by night unremarked by anything that walks it."

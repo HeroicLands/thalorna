@@ -2,7 +2,7 @@
 shortcode: crwntrdskhrs
 name:
   full: The Crown Trades of Okharis
-  aliases: [The Three-Flame Charters, The Royal Trades, Royal Trades of Okharis]
+  en: [The Three-Flame Charters, The Royal Trades, Royal Trades of Okharis]
 type: affiliation
 subType: guild
 description: "Royal-chartered trade guilds operating from the three temple-cities of Okharis—small in number, prestigious in standing, mediating between the settled-urban commercial economy and the nomadic-pastoralist hinterland; use Khelathi currency through correspondent banking arrangements."

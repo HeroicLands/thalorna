@@ -1,6 +1,6 @@
 ---
 shortcode: akhhsmeqes
-name: {full: The House of Meqes, aliases: []}
+name: {full: The House of Meqes}
 type: lore
 subType: history
 description: "2580 to 2830 ST, 470 to 720 AF: the longest house of the Near Count, from the regent who stood beside a child of three floods to the twelfth year of Meqes XVI, with the Great Removal at Zu-Gezer, the guild charters and the war that freed Bethua."

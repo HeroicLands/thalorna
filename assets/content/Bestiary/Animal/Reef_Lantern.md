@@ -1,6 +1,6 @@
 ---
 shortcode: rflntrn
-name: {full: Reef Lantern, aliases: [Vaelvanu]}
+name: {full: Reef Lantern, kali: [Vaelvanu]}
 type: being
 subType: creature
 description: "A drifting, bell-shaped sea animal two to three feet across with trailing filaments that sting hard and a pale glow it gives back when disturbed."

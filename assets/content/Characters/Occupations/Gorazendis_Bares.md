@@ -1,6 +1,6 @@
 ---
 shortcode: gorzndsbrs
-name: {full: Gorazendis Bares, aliases: []}
+name: {full: Gorazendis Bares}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

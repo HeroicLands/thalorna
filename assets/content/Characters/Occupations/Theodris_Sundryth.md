@@ -1,6 +1,6 @@
 ---
 shortcode: thdrsndryth
-name: {full: Theodris yra Sundreth wur Grimholt, aliases: []}
+name: {full: Theodris yra Sundreth wur Grimholt}
 type: being
 subType: npc
 tags: [draft, common-folk]

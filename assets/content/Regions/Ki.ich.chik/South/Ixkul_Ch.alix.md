@@ -1,6 +1,6 @@
 ---
 shortcode: ixkulchalix
-name: {full: Ishkul Ch’alish, aliases: []}
+name: {full: Ishkul Ch’alish}
 type: place
 subType: settlement
 description: "Temple City"

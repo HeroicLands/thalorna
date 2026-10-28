@@ -1,6 +1,6 @@
 ---
 shortcode: bhmplraise
-name: {full: The Raising of Bhumipal, aliases: []}
+name: {full: The Raising of Bhumipal}
 type: lore
 subType: history
 description: "About 325 AF the Bhumipal, Samantas of the salt coast who rode out the Storm on boats behind the spit, took the empty march, seated their court at Sandyapur, swore the first treaty with Amradad, hired the first companies and began the forts of the march road."

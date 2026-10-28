@@ -1,6 +1,6 @@
 ---
 shortcode: pechszrvln
-name: {full: The Peaches of Zuravlen, aliases: []}
+name: {full: The Peaches of Zuravlen}
 type: scenario
 subType: adventure
 data:

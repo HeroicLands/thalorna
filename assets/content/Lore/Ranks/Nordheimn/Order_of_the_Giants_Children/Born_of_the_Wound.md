@@ -1,6 +1,6 @@
 ---
 shortcode: bornofwoundrnk
-name: {full: "Born of the Wound", aliases: [Sárborinn]}
+name: {full: Born of the Wound, nord: [sárborinn]}
 type: lore
 subType: law
 description: "The full member of the Order of the Giant's Children, admitted by a rite of ordeal and theological examination."

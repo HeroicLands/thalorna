@@ -1,6 +1,6 @@
 ---
 shortcode: rethetkhlyu
-name: {full: The Instruction of Khelayu, aliases: [Rethet elu Khelayu]}
+name: {full: The Instruction of Khelayu, khel: [rethet elu khelayu]}
 type: lore
 subType: literature
 description: "The maxims a Keeper of the King-Lists wrote for his son on the day of the son's ordination as a copyist, in the age of the Restored Crown, as a schoolboy copied them with his teacher's corrections in the margin."
@@ -20,7 +20,7 @@ data:
     - place-lenennezut
     - lore-akhrestcrown
     - lore-hillhouse
-  language: khelathlng
+  lang: khel
 
 # terran_analog: "The Instructions of Ptahhotep and of Any, for a father's maxims to a son entering office; the Satire of the Trades and the school copies on potsherds, for the pupil's errors, the teacher's corrections and the colophon that complains. Departs: the father is a Keeper of the King-Lists, and the maxims teach how to read the list's formulas and the two accounts."
 ---

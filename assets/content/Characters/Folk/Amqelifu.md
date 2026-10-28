@@ -1,6 +1,6 @@
 ---
 shortcode: amqelifu2
-name: {full: Amqelifu, aliases: [Amqe]}
+name: {full: Amqelifu, khel: [amqe]}
 type: being
 subType: npc
 description: "A kitchen servant who takes outside work reordering the households of other noble families, and resents the steward who will not promote her"

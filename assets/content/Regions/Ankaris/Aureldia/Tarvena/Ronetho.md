@@ -1,6 +1,6 @@
 ---
 shortcode: ronetho
-name: {full: Ornetho, aliases: []}
+name: {full: Ornetho}
 type: place
 subType: settlement
 description: "Walled City"

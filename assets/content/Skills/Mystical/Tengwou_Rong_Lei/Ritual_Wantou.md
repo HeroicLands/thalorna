@@ -1,6 +1,6 @@
 ---
 shortcode: wantou
-name: {full: "Ritual: Wantou", aliases: [Wantou, The Keeper of the Celestial Archive]}
+name: {full: "Ritual: Wantou", en: [The Keeper of the Celestial Archive], tant: [Wantou]}
 type: skill
 subType: mystical
 tags: [tengwou, faith-skill, draft]

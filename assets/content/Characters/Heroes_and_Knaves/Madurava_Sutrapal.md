@@ -1,6 +1,6 @@
 ---
 shortcode: madurvstrpl
-name: {full: Madurava Sutrapal, given: Madurava, clan: Sutrapal, aliases: [Madru]}
+name: {full: Madurava Sutrapal, given: Madurava, clan: Sutrapal, vedy: [madru]}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, administration]

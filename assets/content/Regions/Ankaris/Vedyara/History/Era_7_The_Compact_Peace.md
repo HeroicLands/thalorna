@@ -1,6 +1,6 @@
 ---
 shortcode: compactpeace
-name: {full: The Compact Peace, aliases: []}
+name: {full: The Compact Peace}
 type: lore
 subType: history
 description: "335 to 524 AF, 1 CP to 190 CP in the Madustan count: roads and watch posts built in common under the Third Compact, the Highland War stopped at a gorge-mouth below the gold road, Gomarga's second broken bargain and its empty century, and the Council of the Dream's condemnation of the Chaya-vreta."

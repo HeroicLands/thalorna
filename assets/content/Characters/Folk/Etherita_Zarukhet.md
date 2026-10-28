@@ -1,6 +1,6 @@
 ---
 shortcode: etheritzrkh2
-name: {full: Etherita Zarukhét, aliases: [Ethe]}
+name: {full: Etherita Zarukhét, khel: [ethe]}
 type: being
 subType: npc
 description: "Formerly Thaz'Lekhau of Qe'aret, now retired from the office and still consulted by those who remember how she held it"

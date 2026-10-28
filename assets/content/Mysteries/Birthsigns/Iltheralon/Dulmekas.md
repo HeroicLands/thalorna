@@ -1,6 +1,6 @@
 ---
 shortcode: chelyx
-name: {full: Dulmekas, aliases: []}
+name: {full: Dulmekas}
 type: mystery
 subType: birthsign
 description: "The Tortoise: methodical at bench and drill-yard, sparing of speech, blind to the numinous."

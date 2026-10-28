@@ -1,6 +1,6 @@
 ---
 shortcode: syphrnsvrnls
-name: {full: Sifranos Varenlas, aliases: []}
+name: {full: Sifranos Varenlas}
 type: being
 subType: npc
 tags: [draft, soldiery]

@@ -1,6 +1,6 @@
 ---
 shortcode: crystlcl
-name: {full: Crystalclaw, aliases: []}
+name: {full: Crystalclaw}
 type: being
 subType: creature
 description: "A crystalline apex predator of gem-rich caverns, a living weapon of razor mineral edges and blinding magical radiance."

@@ -1,6 +1,6 @@
 ---
 shortcode: xerathia
-name: {full: Zerathia, aliases: []}
+name: {full: Zerathia}
 type: place
 subType: region
 description: The southern continent—fertile crescent along the Vylarian Sea, trackless equatorial rainforests in the interior, and endless savannahs in the deep south.

@@ -1,6 +1,6 @@
 ---
 shortcode: nouwen
-name: {full: Nouwen, aliases: []}
+name: {full: Nouwen}
 type: lore
 subType: law
 description: "The sixth caste of Tantsou—the peasant farmers who are most of the empire's people, bound to the land they work and owing it tribute, and among whom the Leigen spirit masters arise."

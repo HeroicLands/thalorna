@@ -1,6 +1,6 @@
 ---
 shortcode: shuvarshavan
-name: {full: Shuvar Shavan, aliases: [Shuvar]}
+name: {full: Shuvar Shavan, dunh: [shuvar]}
 type: being
 subType: npc
 description: Father of Darzash Shavan, who taught her that every timber piece harbors an inner form waiting to be revealed.

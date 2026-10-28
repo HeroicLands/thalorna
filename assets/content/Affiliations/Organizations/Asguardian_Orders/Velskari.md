@@ -1,6 +1,6 @@
 ---
 shortcode: velskari
-name: {full: "Vélskari", aliases: []}
+name: {full: Vélskari}
 type: affiliation
 subType: order
 description: "A militant order guarding Velgrímur's temples."

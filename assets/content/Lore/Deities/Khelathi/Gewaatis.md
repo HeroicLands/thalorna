@@ -1,6 +1,6 @@
 ---
 shortcode: gewaatisdty
-name: {full: Gewa'atis, aliases: []}
+name: {full: Gewa'atis}
 type: lore
 subType: deity
 tags: [draft]

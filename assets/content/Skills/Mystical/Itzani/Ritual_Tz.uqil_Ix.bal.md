@@ -1,6 +1,6 @@
 ---
 shortcode: tzuqilixbal
-name: {full: "Ritual: Ts'uqil Ish'bal", aliases: [Ts'uqil Ish'bal, The Death Jaguar]}
+name: {full: "Ritual: Ts'uqil Ish'bal", en: [The Death Jaguar], kiichek: [Ts'uqil Ish'bal]}
 type: skill
 subType: mystical
 tags: [itzani, faith-skill, draft]

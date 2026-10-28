@@ -1,6 +1,6 @@
 ---
 shortcode: madupada
-name: {full: Madupada, aliases: []}
+name: {full: Madupada}
 type: place
 subType: settlement
 description: "Orchard and bee-keeping village of the northern hills, whose wax goes to the fletchers for their bindings."

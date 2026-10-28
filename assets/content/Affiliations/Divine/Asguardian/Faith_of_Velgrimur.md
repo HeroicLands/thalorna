@@ -1,6 +1,6 @@
 ---
 shortcode: velgrimur
-name: {full: Faith of Velgrímur, aliases: [The Serpent's Path]}
+name: {full: Faith of Velgrímur, en: [The Serpent's Path]}
 type: affiliation
 subType: faithtradition
 description: "Cunning, Deception, and Thieves."

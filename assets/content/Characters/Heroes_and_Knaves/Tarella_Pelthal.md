@@ -1,6 +1,6 @@
 ---
 shortcode: tarelblthl
-name: {full: Tárella Pelthal, given: Tárella, clan: Pelthal, aliases: []}
+name: {full: Tárella Pelthal, given: Tárella, clan: Pelthal}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, mages]

@@ -1,6 +1,6 @@
 ---
 shortcode: linlagrkhlth
-name: {full: Lin'Mazgaru elu Au'Khelathu, aliases: [The Quantity Merchants]}
+name: {full: Lin'Mazgaru elu Au'Khelathu, en: [The Quantity Merchants]}
 type: affiliation
 subType: guild
 description: Dealers who buy and sell on volume alone, and who regard a supplier's refusal to ship inferior stock as an affront to profit

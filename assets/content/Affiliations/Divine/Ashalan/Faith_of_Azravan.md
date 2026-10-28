@@ -2,7 +2,7 @@
 shortcode: azravan
 name:
   full: Faith of Azravan
-  aliases: [Lord of the Final Horizon, "Azravan, Lord of the Final Horizon"]
+  en: [Lord of the Final Horizon, "Azravan, Lord of the Final Horizon"]
 type: affiliation
 subType: faithtradition
 description: "Death."

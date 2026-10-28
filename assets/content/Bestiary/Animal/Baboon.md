@@ -1,6 +1,6 @@
 ---
 shortcode: baboon
-name: {full: Baboon, aliases: []}
+name: {full: Baboon}
 type: being
 subType: creature
 description: "A powerfully built, highly social monkey of the river lowlands, dwelling in rocky escarpments and river margins near human settlements."

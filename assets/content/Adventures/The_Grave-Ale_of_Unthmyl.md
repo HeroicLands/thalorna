@@ -1,6 +1,6 @@
 ---
 shortcode: gravealeunthmyl
-name: {full: The Cup for the Empty Chair, aliases: []}
+name: {full: The Cup for the Empty Chair}
 type: scenario
 subType: adventure
 description: "A dead king sits in his chair beneath a fell above the pass road, his grave-ale undrunk, and by night his hall wakes."

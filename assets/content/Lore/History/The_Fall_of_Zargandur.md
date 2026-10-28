@@ -1,6 +1,6 @@
 ---
 shortcode: zargandfall
-name: {full: The Fall of Zargandur, aliases: [The Sortie from the North Gate]}
+name: {full: The Fall of Zargandur, en: [The Sortie from the North Gate]}
 type: lore
 subType: history
 description: "In the second year of the Breaking, about 620 AF, the war-house of Zargandur rides out of the north gate to meet the Atarzád host and dies to the last rider; the city falls by noon and the pasture becomes the blood-field of Henhutpedin."

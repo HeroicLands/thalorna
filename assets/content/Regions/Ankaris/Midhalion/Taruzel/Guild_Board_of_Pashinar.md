@@ -1,6 +1,6 @@
 ---
 shortcode: gldbrdpshnr
-name: {full: Guild Board of Pashinar, aliases: []}
+name: {full: Guild Board of Pashinar}
 type: affiliation
 subType: polity
 description: "The guild officials who govern the trading town of Pashinar on the largest island of Taruzel."

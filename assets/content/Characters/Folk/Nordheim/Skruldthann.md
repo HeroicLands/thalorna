@@ -1,6 +1,6 @@
 ---
 shortcode: skruldthann
-name: {full: Skruldthann, aliases: [Jarl Skruldthann]}
+name: {full: Skruldthann, en: [Jarl Skruldthann]}
 type: being
 subType: npc
 description: The former jarl, a corrupt lord defeated in combat by Vraldorv One-Hand and stripped of his title.

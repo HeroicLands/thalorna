@@ -1,6 +1,6 @@
 ---
 shortcode: kenwinhighmo
-name: {full: Kenwin Highmore, aliases: [Lord Captain Kenwin]}
+name: {full: Kenwin Highmore, en: [Lord Captain Kenwin]}
 type: being
 subType: npc
 description: The commander of Greywater's harbor guard, named in Audrey Harding.

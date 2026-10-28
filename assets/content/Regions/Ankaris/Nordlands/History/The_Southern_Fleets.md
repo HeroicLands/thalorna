@@ -1,6 +1,6 @@
 ---
 shortcode: southrnfleets
-name: {full: The Southern Fleets, aliases: [The Nordheim Raids]}
+name: {full: The Southern Fleets, en: [The Nordheim Raids]}
 type: lore
 subType: history
 description: "From 519 to 530 AF the fleets of King Thraskmil of Nordheim, built in Malagna's yards, went south every summer with the famine behind them: Provenzia's coast and the Gulf of Bataren, where they threw down Yarvalen Henge and sacked Ménavar Abbey, and Élavendre's north shore, which has refused every treaty since."

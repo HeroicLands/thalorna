@@ -1,6 +1,6 @@
 ---
 shortcode: frdwyndmhr
-name: {full: Frodwin yra Domhár wur Dunkelwald, aliases: []}
+name: {full: Frodwin yra Domhár wur Dunkelwald}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

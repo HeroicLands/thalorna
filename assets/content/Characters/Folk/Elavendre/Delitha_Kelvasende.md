@@ -1,6 +1,6 @@
 ---
 shortcode: delithakelva
-name: {full: Délitha Kélvasende, aliases: [Mother Délitha]}
+name: {full: Délitha Kélvasende, en: [Mother Délitha]}
 type: being
 subType: npc
 description: The senior priestess of the temple at Liranel, who respects Velthra Othral's work but has warned that the temple cannot support her ministry indefinitely.

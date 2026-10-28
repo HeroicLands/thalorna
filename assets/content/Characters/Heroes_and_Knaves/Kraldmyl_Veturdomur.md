@@ -1,6 +1,6 @@
 ---
 shortcode: krldmylvtrdmr
-name: {full: Kralmil Veturdómur, given: Kralmil, clan: Veturdómur, aliases: []}
+name: {full: Kralmil Veturdómur, given: Kralmil, clan: Veturdómur}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]

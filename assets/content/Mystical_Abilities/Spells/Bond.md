@@ -1,6 +1,6 @@
 ---
 shortcode: bond
-name: {full: Bond, aliases: []}
+name: {full: Bond}
 type: mysticalability
 subType: arcaneincantation
 description: "Establishes permanent mystical link between caster and willing partner."

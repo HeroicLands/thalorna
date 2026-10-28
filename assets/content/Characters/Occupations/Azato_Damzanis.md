@@ -1,6 +1,6 @@
 ---
 shortcode: azatodmzns
-name: {full: Azato Damzanis, aliases: []}
+name: {full: Azato Damzanis}
 type: being
 subType: npc
 tags: [draft, guilded, mages]

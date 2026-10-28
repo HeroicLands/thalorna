@@ -1,6 +1,6 @@
 ---
 shortcode: pony
-name: {full: Pony, aliases: []}
+name: {full: Pony}
 type: being
 subType: creature
 description: "A stocky, strong equine under fourteen hands, bred for endurance and labor as a draft animal and reliable mount for smaller riders and dwarves."

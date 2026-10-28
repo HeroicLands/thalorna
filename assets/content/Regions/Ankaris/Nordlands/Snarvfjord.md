@@ -1,6 +1,6 @@
 ---
 shortcode: snarvfjord
-name: {full: Snarvfjord, aliases: []}
+name: {full: Snarvfjord}
 type: place
 subType: settlement
 description: "A fjord seat of the Nordlands and court of the cautious Jarl Hvurnvir, who decides nothing of weight without Hnirmil the Wise."

@@ -1,6 +1,6 @@
 ---
 shortcode: wbcrwlr
-name: {full: Webcrawler, aliases: []}
+name: {full: Webcrawler}
 type: being
 subType: creature
 description: "A supremely cunning spider of dark caverns and ruins that spreads nearly invisible webs across confined spaces to snare prey."

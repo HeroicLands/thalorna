@@ -1,6 +1,6 @@
 ---
 shortcode: lyrnvlskyr
-name: {full: Liren Valskir, aliases: []}
+name: {full: Liren Valskir}
 type: being
 subType: npc
 tags: [draft, common-folk]

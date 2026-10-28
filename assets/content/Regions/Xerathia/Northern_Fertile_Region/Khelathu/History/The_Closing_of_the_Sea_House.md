@@ -1,6 +1,6 @@
 ---
 shortcode: seahouse
-name: {full: The Closing of the Sea House, aliases: []}
+name: {full: The Closing of the Sea House}
 type: lore
 subType: history
 description: "In 1990 ST (121 BF) the third sea-raider Gar-Au died and the priesthood raised the house of Gezer'Kuru; its first Gar-Au, Gez'Uzner I, made the rule that an unweighed cargo is contraband and built a navy that guards the delta's mouths and goes no farther."

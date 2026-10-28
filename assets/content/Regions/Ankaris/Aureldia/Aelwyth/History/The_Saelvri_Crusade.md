@@ -1,6 +1,6 @@
 ---
 shortcode: saelvricrusade
-name: {full: The Saelvri Crusade, aliases: [The Hunting of the Saelvri]}
+name: {full: The Saelvri Crusade, en: [The Hunting of the Saelvri]}
 type: lore
 subType: history
 description: "Between about 694 and 703 AF the Synod of Dúnavarre sent the Order of the Just Blade to end the Saelvri, a forest people of the south-eastern woods, and the last of them were killed with their children in the Hushwood."

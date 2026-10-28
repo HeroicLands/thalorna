@@ -1,6 +1,6 @@
 ---
 shortcode: mssbcktr
-name: {full: Mossback Turtle, aliases: []}
+name: {full: Mossback Turtle}
 type: being
 subType: creature
 description: "A ton-heavy reptile disguised as a rocky outcrop, its enormous domed shell so overgrown with moss, lichen, and fungi it vanishes into the landscape."

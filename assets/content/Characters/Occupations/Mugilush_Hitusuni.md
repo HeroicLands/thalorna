@@ -1,6 +1,6 @@
 ---
 shortcode: mglshhtsn
-name: {full: Mugilush Hitusuni, aliases: []}
+name: {full: Mugilush Hitusuni}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]

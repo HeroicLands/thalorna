@@ -1,6 +1,6 @@
 ---
 shortcode: fenjara
-name: {full: Fénjara, aliases: [Fénjara Tribe, The Trackers]}
+name: {full: Fénjara Tribe, en: [The Trackers], nyal: [fénjara]}
 type: affiliation
 subType: polity
 description: A small deep-bush tribe of the Nyáluba, leopard-totem and reckoned with the Sengala; hunters and trackers whose lineages are said to follow a trail across the spirit world as readily as across the ground.

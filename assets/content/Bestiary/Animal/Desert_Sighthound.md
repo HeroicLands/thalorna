@@ -1,6 +1,6 @@
 ---
 shortcode: dsrtsghthnd
-name: {full: Desert Sighthound, aliases: []}
+name: {full: Desert Sighthound}
 type: being
 subType: creature
 description: "A lean, elegant desert sighthound of ancient lineage, built entirely for speed to course gazelle and hare across open dunes."

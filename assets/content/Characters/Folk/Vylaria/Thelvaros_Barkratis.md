@@ -1,6 +1,6 @@
 ---
 shortcode: thelvarosbar
-name: {full: Thelvaros Barkratis, aliases: [Lord Thelvaros Barkratis]}
+name: {full: Thelvaros Barkratis, en: [Lord Thelvaros Barkratis]}
 type: being
 subType: npc
 description: A lord of the Empire of Vylaria, the father of Koremdanis Barkratis.

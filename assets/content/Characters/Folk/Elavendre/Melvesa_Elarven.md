@@ -1,6 +1,6 @@
 ---
 shortcode: melvesaelarv
-name: {full: Mélvesa Elarven, aliases: [Mother Mélvesa]}
+name: {full: Mélvesa Elarven, en: [Mother Mélvesa]}
 type: being
 subType: npc
 description: The senior priestess of the temple of Lizelas at Sóurimel, who is Sárena Párdalen's mentor.

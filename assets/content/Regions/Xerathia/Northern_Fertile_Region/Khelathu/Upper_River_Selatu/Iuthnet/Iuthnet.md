@@ -1,6 +1,6 @@
 ---
 shortcode: iuthnet
-name: {full: Iuthnet, aliases: []}
+name: {full: Iuthnet}
 type: place
 subType: settlement
 description: "Selat capital of Iuthnet, seat of the chief temple of Uzn'era, the mother-goddess."

@@ -1,6 +1,6 @@
 ---
 shortcode: norgaad
-name: {full: Norgaad, aliases: []}
+name: {full: Norgaad}
 type: place
 subType: region
 description: "The land of the Kingdom of Norgaad—the central Nordmen kingdom of great fjords, mountain passes and the richest iron and silver mines in the north."

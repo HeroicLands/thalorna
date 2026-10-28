@@ -1,6 +1,6 @@
 ---
 shortcode: jethralydr
-name: {full: Jethra Lidren, aliases: []}
+name: {full: Jethra Lidren}
 type: being
 subType: npc
 tags: [draft, guilded, mages]

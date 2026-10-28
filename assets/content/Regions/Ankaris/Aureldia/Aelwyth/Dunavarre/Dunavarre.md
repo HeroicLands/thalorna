@@ -1,6 +1,6 @@
 ---
 shortcode: dunavarre
-name: {full: Dúnavarre, aliases: []}
+name: {full: Dúnavarre}
 type: place
 subType: region
 description: "The land of the Kingdom of Dúnavarre—Aelwyth's southeastern coast, whose sheltered harbors and fertile coastal plains face Élavendre across the water."

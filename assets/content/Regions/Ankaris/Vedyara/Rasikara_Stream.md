@@ -1,6 +1,6 @@
 ---
 shortcode: rasikarastrm
-name: {full: The Rasikara Stream, aliases: []}
+name: {full: The Rasikara Stream}
 type: place
 subType: feature
 description: "The one stream off the gold mountain that yields no gold, where panning is forbidden and the Rasikara shrine stands at the head."

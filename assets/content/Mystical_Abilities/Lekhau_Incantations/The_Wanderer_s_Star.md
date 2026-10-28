@@ -1,6 +1,6 @@
 ---
 shortcode: wanderersstr
-name: {full: The Wanderer's Star, aliases: []}
+name: {full: The Wanderer's Star}
 type: mysticalability
 subType: arcaneincantation
 description: "Fixes an unerring sense of direction toward a named place."

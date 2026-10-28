@@ -1,6 +1,6 @@
 ---
 shortcode: tomra
-name: {full: Vedyaran Tomra, aliases: ["Tomra"]}
+name: {full: Vedyaran Tomra, vedy: [tomra]}
 type: miscgear
 description: "Copper token coin struck by every Vedyaran kingdom and city-state, good at face only within the realm that struck it; the everyday coin of ordinary commerce."
 tags: [jewelry_cash]

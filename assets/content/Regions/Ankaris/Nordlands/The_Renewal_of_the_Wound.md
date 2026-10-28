@@ -1,6 +1,6 @@
 ---
 shortcode: renewalwound
-name: {full: The Renewal of the Wound, aliases: []}
+name: {full: The Renewal of the Wound}
 type: lore
 subType: custom
 description: "The cut made into the rock at Holafell at the turn of every winter, which the Faith of Hrimthur keeps open on purpose as the founding violence done to the Rime-Giant."

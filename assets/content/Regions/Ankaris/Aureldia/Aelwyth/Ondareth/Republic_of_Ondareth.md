@@ -1,6 +1,6 @@
 ---
 shortcode: repblcndrth
-name: {full: Republic of Ondareth, aliases: []}
+name: {full: Republic of Ondareth}
 type: affiliation
 subType: polity
 description: "Senatorial republic on Aelwyth's southwestern coast—pragmatic and martial polity that fields the island's most disciplined military force under civic governance."

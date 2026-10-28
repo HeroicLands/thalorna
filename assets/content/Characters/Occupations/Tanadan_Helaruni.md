@@ -1,6 +1,6 @@
 ---
 shortcode: tndnhlrn
-name: {full: Tanadan Helaruni, aliases: []}
+name: {full: Tanadan Helaruni}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]

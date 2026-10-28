@@ -1,6 +1,6 @@
 ---
 shortcode: conchdoor
-name: {full: The Conch-Door Incursion, aliases: []}
+name: {full: The Conch-Door Incursion}
 type: lore
 subType: history
 description: "About 320 AF an adventurer with Tantsou backing brought a few hundred men over the conch-door and took a string of eastern janpodas, and the Mahva-Sangra raised the third and last army of its history to put him out."

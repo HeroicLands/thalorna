@@ -1,6 +1,6 @@
 ---
 shortcode: arcsph
-name: {full: Arcane Sphere, aliases: []}
+name: {full: Arcane Sphere}
 type: mysticalability
 subType: arcaneincantation
 description: "Crystalline arcane bubble encloses target; blocks magic and prevents escape."

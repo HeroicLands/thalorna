@@ -1,6 +1,6 @@
 ---
 shortcode: gatheringend
-name: {full: The Gathering on the End, aliases: [Oltandiren aulirakko]}
+name: {full: The Gathering on the End, sina: [oltandiren aulirakko]}
 type: lore
 subType: literature
 description: "The account, carried down from Ethalosse, of the open convocation the Sinale called in the Age of Stars on how the world ends, which has never reached accord and so has never closed: four sung speeches, the exchanges between them, and the answer the Élavendren court received when it asked for one word."
@@ -16,7 +16,7 @@ data:
     - lore-sinalearrv
     - place-ethalosse
     - place-haulonna
-  language: sinalelng
+  lang: sina
 
 # terran_analog: "The Kalevala and Kanteletar line that is restated by the line after it, for the sung speeches; the Icelandic Althing and the Buddhist councils as recorded by partisans, for a deliberative body whose record keeps the disagreement; the rabbinic habit of keeping a dissent beside the majority; Canu Heledd for a survivor speaking over an emptied hall."
 ---

@@ -1,6 +1,6 @@
 ---
 shortcode: vrdntcl
-name: {full: Verdantcoil, aliases: []}
+name: {full: Verdantcoil}
 type: being
 subType: creature
 description: "A colossal, patient made snake that lurks motionless in ancient forests, waiting days to strike from ambush."

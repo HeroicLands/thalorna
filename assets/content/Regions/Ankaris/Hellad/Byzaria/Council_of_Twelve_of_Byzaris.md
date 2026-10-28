@@ -1,6 +1,6 @@
 ---
 shortcode: cncltwlvbzrs
-name: {full: Council of Twelve of Bizaris, aliases: []}
+name: {full: Council of Twelve of Bizaris}
 type: affiliation
 subType: polity
 description: "The council of the heads of the twelve greatest guilds, which governs Bizaris and makes it the only city-state of the Bizarian League with formal guild governance."

@@ -1,6 +1,6 @@
 ---
 shortcode: trbtlpdkng
-name: {full: The Unseen King of the Spotted Court, aliases: []}
+name: {full: The Unseen King of the Spotted Court}
 type: scenario
 subType: adventure
 description: "The tribes around a forest tribe bring gifts to its sorcerer-leader, who is said to take a leopard's shape, though the bearers have not seen him in two seasons."

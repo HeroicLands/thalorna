@@ -1,6 +1,6 @@
 ---
 shortcode: sharpen
-name: {full: Sharpen, aliases: []}
+name: {full: Sharpen}
 type: mysticalability
 subType: arcaneincantation
 description: "Sharpens blade; grants keener edge and cutting power."

@@ -2,7 +2,8 @@
 shortcode: henzhuo
 name:
   full: "Ritual: Huenzhuo"
-  aliases: [Huenzhuo, The Lord of the Unclassified, The First Refusal]
+  en: [The Lord of the Unclassified, The First Refusal]
+  tant: [Huenzhuo]
 type: skill
 subType: mystical
 tags: [celestial-pantheon, faith-skill, draft]

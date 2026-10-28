@@ -1,6 +1,6 @@
 ---
 shortcode: chrssajab
-name: {full: Kharessa Jab, aliases: []}
+name: {full: Kharessa Jab}
 type: skill
 subType: combattechnique
 description: "The fast, precise open-hand strike of the Kharessa, aimed with the fingertips or the heel of the hand."

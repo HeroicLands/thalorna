@@ -1,6 +1,6 @@
 ---
 shortcode: shuremis
-name: {full: Shuremis, aliases: [The Ash-Fold]}
+name: {full: The Ash-Fold, okha: [Shuremis]}
 type: place
 subType: site
 description: "A walled temple estate on the grazing lands east of Zarhanis, shut to the cast-out and now home to a fire that is not descended from the First Ember, and to cattle that walk in ash."

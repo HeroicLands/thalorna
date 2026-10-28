@@ -1,6 +1,6 @@
 ---
 shortcode: gerraanlghrl
-name: {full: Gerra Anlaghe'Relu, aliases: []}
+name: {full: Gerra Anlaghe'Relu}
 type: being
 subType: npc
 description: "A Halzi'a with a claim in the succession crisis, whose supporters are more numerous than his prospects"

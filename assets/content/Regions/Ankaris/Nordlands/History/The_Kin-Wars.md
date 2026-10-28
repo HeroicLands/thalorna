@@ -1,6 +1,6 @@
 ---
 shortcode: nordkinwars
-name: {full: The Kin-Wars, aliases: [The Ice at Skalfvatan, The Peace of Asgarthul]}
+name: {full: The Kin-Wars, en: [The Ice at Skalfvatan, The Peace of Asgarthul]}
 type: lore
 subType: history
 description: "From 420 to 471 AF Nordheim and Malagna fought for the first place in the north, by raid, by marriage and twice by host; the war ended under the ice of Skalfvatan in 466, where Malagna's king and eleven hundred men went through, and at Asgarthul in 471, where Norgaad's king made the peace that founded the Great Moot."

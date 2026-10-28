@@ -1,6 +1,6 @@
 ---
 shortcode: thrgrmrkhld
-name: {full: Thragrim yra Rikhild wur Falkenstein, aliases: []}
+name: {full: Thragrim yra Rikhild wur Falkenstein}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

@@ -1,6 +1,6 @@
 ---
 shortcode: cnclkstrsh
-name: {full: Council of Kostaros Harbor, aliases: []}
+name: {full: Council of Kostaros Harbor}
 type: affiliation
 subType: polity
 description: "The governing council of the daughter-port of Kostaros on the coast of Bizaria."

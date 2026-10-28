@@ -1,6 +1,6 @@
 ---
 shortcode: stelaquzuqa
-name: {full: The Stela of Kuz'Uqa at Zel-Halzi, aliases: [Qedlet elu Kuz'Uqa]}
+name: {full: The Stela of Kuz'Uqa at Zel-Halzi, khel: [qedlet elu kuz'uqa]}
 type: lore
 subType: literature
 description: "The victory stela the first Gar-Au of the hill house set on the floodplain below Lenen-Nezut in the year he took the throne, as it stands: the boast whole, the plunder counted, and under them the rows a scribe cut for the dead of Galezkara with every name left blank, and the five names that families have brought since."
@@ -26,7 +26,7 @@ data:
     - place-zelhalzi
     - lore-thaulgau
     - lore-akhdivriver
-  language: khelathlng
+  lang: khel
 
 # terran_analog: "Royal victory stelae and the Kadesh inscriptions, for the dated heading, the king's titles, the verb-first boast and the count of plunder at a gate; the victory stela of a conqueror from outside the valley written for him by the valley's own scribes; and memorial lists of the fallen, row by row. Departs: the catalogue of the slain is a column of entries with the names left open, filled one by one as families bring them."
 ---

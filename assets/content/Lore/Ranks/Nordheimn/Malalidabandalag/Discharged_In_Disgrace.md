@@ -1,6 +1,6 @@
 ---
 shortcode: dischargedrnk
-name: {full: "Discharged in Disgrace", aliases: []}
+name: {full: Discharged in Disgrace}
 type: lore
 subType: law
 description: "Expelled from the Compact by Council vote, the bronze thumb-ring surrendered, in Málalidabandalag."

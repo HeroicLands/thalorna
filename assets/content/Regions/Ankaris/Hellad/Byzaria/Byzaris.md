@@ -1,6 +1,6 @@
 ---
 shortcode: byzaris
-name: {full: Bizaris, aliases: []}
+name: {full: Bizaris}
 type: place
 subType: settlement
 description: "Craft City"

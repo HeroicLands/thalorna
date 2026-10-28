@@ -1,6 +1,6 @@
 ---
 shortcode: sdrkmrlnth
-name: {full: Sedrik Mórlineth, aliases: []}
+name: {full: Sedrik Mórlineth}
 type: being
 subType: npc
 tags: [draft, soldiery]

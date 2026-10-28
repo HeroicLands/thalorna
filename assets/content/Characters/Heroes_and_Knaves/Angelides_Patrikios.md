@@ -1,6 +1,6 @@
 ---
 shortcode: angldsptrks
-name: {full: Fodios Rores, given: Fodios, clan: Rores, aliases: []}
+name: {full: Fodios Rores, given: Fodios, clan: Rores}
 type: being
 subType: character
 tags: [heroes-and-knaves, todo, guilded, mages]

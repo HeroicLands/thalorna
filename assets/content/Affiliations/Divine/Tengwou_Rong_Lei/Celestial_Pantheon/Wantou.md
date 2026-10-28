@@ -1,8 +1,9 @@
 ---
 shortcode: wantou
 name:
-  full: Wantou
-  aliases: [The Keeper of the Celestial Archive, Chou Sei, The Archive of All Records]
+  full: The Keeper of the Celestial Archive
+  en: [The Archive of All Records]
+  tant: [Wantou, Chou Sei]
 type: affiliation
 subType: faithtradition
 description: "Knowledge."

@@ -1,6 +1,6 @@
 ---
 shortcode: heimsormur
-name: {full: Heimsormur, aliases: []}
+name: {full: Heimsormur}
 type: lore
 subType: theology
 description: "The World-Wyrm struck down by Thrunvald in the standard telling of Aldarlok."

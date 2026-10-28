@@ -1,6 +1,6 @@
 ---
 shortcode: risksbrths
-name: {full: Rísakos Ibarithos, aliases: []}
+name: {full: Rísakos Ibarithos}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

@@ -1,6 +1,6 @@
 ---
 shortcode: suvorna
-name: {full: Vedyaran Suvorna, aliases: ["Suvorna"]}
+name: {full: Vedyaran Suvorna, vedy: [suvorna]}
 type: miscgear
 description: "Chendrapur's gold coin, struck from Suvargeri gold bought at the Weighing; the high-value coin of Vedyaran trade, reckoned at sixteen chendra and worth its gold anywhere."
 tags: [jewelry_cash]

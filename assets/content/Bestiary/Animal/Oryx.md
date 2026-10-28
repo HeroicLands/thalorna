@@ -1,6 +1,6 @@
 ---
 shortcode: oryx
-name: {full: Oryx, aliases: []}
+name: {full: Oryx}
 type: being
 subType: creature
 description: "A large, powerful desert antelope surviving the most barren arid wastes where no other large herbivore can endure."

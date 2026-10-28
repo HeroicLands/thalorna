@@ -1,6 +1,6 @@
 ---
 shortcode: meiwo
-name: {full: Meiwo, aliases: [The Minister of Dreams, Mei Sei, The Bureau of Night Counsel]}
+name: {full: The Minister of Dreams, en: [The Bureau of Night Counsel], tant: [Meiwo, Mei Sei]}
 type: affiliation
 subType: faithtradition
 description: "Dreams."

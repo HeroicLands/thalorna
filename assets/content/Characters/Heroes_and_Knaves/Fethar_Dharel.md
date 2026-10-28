@@ -1,6 +1,6 @@
 ---
 shortcode: fethardhrl
-name: {full: Fetar Darel, given: Fetar, clan: Darel, aliases: [Fet]}
+name: {full: Fetar Darel, given: Fetar, clan: Darel, prov: [Fet]}
 type: being
 subType: character
 tags: [tamzir-crew, tradesfolk]

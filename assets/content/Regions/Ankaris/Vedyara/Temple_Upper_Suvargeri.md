@@ -1,6 +1,6 @@
 ---
 shortcode: uppersuvtmpl
-name: {full: The Temple of Upper Suvargeri, aliases: []}
+name: {full: The Temple of Upper Suvargeri}
 type: place
 subType: structure
 description: "The Mahajaya temple at the junction of the two highest streams, the seniormost of the three by its priest's age and the theological authority of the janpoda."

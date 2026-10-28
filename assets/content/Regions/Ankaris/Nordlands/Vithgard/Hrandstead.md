@@ -1,6 +1,6 @@
 ---
 shortcode: hrandstead
-name: {full: Hrandstead, aliases: []}
+name: {full: Hrandstead}
 type: place
 subType: settlement
 description: "Fortified Settlement / Regional Capital"

@@ -1,6 +1,6 @@
 ---
 shortcode: youwei
-name: {full: "Ritual: Youbui", aliases: [Youbui]}
+name: {full: "Ritual: Youbui", tant: [Youbui]}
 type: skill
 subType: mystical
 tags: [celestial-pantheon, faith-skill, draft]

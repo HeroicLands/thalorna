@@ -1,6 +1,6 @@
 ---
 shortcode: talothe
-name: {full: Talote, aliases: []}
+name: {full: Talote}
 type: place
 subType: region
 description: "The Tarvénian frontier—cold mountains that close all winter, a raiding season that governs every calendar, and a million people who have made a way of life out of a war nobody declares."

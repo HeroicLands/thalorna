@@ -1,6 +1,6 @@
 ---
 shortcode: ondareth
-name: {full: Ondareth, aliases: []}
+name: {full: Ondareth}
 type: place
 subType: region
 description: "The land of the Republic of Ondareth—Aelwyth's western coast, good for fishing and moderate for farming, living by the carrying trade along its shore."

@@ -1,6 +1,6 @@
 ---
 shortcode: nehleatdty
-name: {full: Nehle'at, aliases: []}
+name: {full: Nehle'at}
 type: lore
 subType: deity
 tags: [draft]

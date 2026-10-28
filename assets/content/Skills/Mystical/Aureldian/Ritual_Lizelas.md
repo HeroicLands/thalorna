@@ -1,6 +1,6 @@
 ---
 shortcode: lizelas
-name: {full: "Ritual: Lizelas", aliases: [Lizelas, The Nurturer]}
+name: {full: "Ritual: Lizelas", en: [The Nurturer], vyl: [Lizelas]}
 type: skill
 subType: mystical
 tags: [aureldian, faith-skill, draft]

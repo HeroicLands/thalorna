@@ -1,6 +1,6 @@
 ---
 shortcode: direwolf
-name: {full: Dire Wolf, aliases: []}
+name: {full: Dire Wolf}
 type: being
 subType: creature
 description: "An enormous pack-hunting canine of deep wilderness, twice the size of a gray wolf yet retaining its cousins' tactical intelligence."

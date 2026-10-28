@@ -1,6 +1,6 @@
 ---
 shortcode: piqalkulqatdty
-name: {full: P'iqal Kul'qat, aliases: []}
+name: {full: P'iqal Kul'qat}
 type: lore
 subType: deity
 description: "Builder of the Sacred Peak in the Itsani pantheon, who has raised the world five times and teaches that failure is how one learns to build better."

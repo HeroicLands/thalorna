@@ -1,6 +1,6 @@
 ---
 shortcode: shftfrm
-name: {full: Shiftform, aliases: []}
+name: {full: Shiftform}
 type: mysticalability
 subType: arcaneincantation
 description: "Grants temporary form change; transforms into beast or being."

@@ -1,6 +1,6 @@
 ---
 shortcode: ataros
-name: {full: "Ritual: Ataros", aliases: [The Sacred Flame, Fire God]}
+name: {full: "Ritual: Ataros", en: [The Sacred Flame, Fire God]}
 type: skill
 subType: mystical
 tags: [ashalan, faith-skill, draft]

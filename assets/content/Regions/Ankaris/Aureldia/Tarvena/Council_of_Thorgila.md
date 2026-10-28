@@ -1,6 +1,6 @@
 ---
 shortcode: cnclthrgl
-name: {full: Council of Thórgila, aliases: []}
+name: {full: Council of Thórgila}
 type: affiliation
 subType: polity
 description: "The governing council of Thórgila, a hill town in Tarvénia."

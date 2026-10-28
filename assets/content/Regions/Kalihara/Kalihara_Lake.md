@@ -1,6 +1,6 @@
 ---
 shortcode: klhrlake
-name: {full: The Bowl Lake, aliases: [The Lake]}
+name: {full: The Bowl Lake, en: [The Lake]}
 type: place
 subType: feature
 description: "The lake in the center of the Great Bowl of Kalihara, deep in the middle, reeded at its margins, with the Massif standing in it as a mount."

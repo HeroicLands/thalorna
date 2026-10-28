@@ -1,6 +1,6 @@
 ---
 shortcode: ritualuznera
-name: {full: "Ritual: Uzn'era", aliases: [Mother of New Beginnings]}
+name: {full: "Ritual: Uzn'era", en: [Mother of New Beginnings]}
 type: skill
 subType: mystical
 tags: [khelathi, faith-skill, draft]

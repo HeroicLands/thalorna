@@ -1,6 +1,6 @@
 ---
 shortcode: byzariargn
-name: {full: Bizaria Region, aliases: []}
+name: {full: Bizaria Region}
 type: place
 subType: region
 description: The eastern Hellád—a warm coast, a steppe plateau and the mountain passes between them, held by the five merchant cities of the Bizarian League and guarded by its three marches.

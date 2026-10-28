@@ -1,6 +1,6 @@
 ---
 shortcode: wemaqcalling
-name: {full: The Calling at Vomek, aliases: [Vomekoqod]}
+name: {full: The Calling at Vomek, sovi: [Vomekoqod]}
 type: lore
 subType: literature
 description: "The names of the tribe killed at the Green Oasis, as the elders of the tribe that took in its survivors speak them to the four winds in their own camp and refuse to speak them at the water: a Sovidur calling, with the dovaq's refusal of the banner kept word for word and the orkun given no name."
@@ -16,7 +16,7 @@ data:
     - lore-bloodfield
     - lore-sowidesclt
     - place-hskrrgn
-  language: sowideslng
+  lang: sovi
 ---
 
 **The Calling at Vomek**, _Vomekoqod_, is a calling (_oqod_) of the [[lore-sowidesclt|Sovidur]], the form in which the steppe speaks the names of its dead to the four winds at a laying-out, enlarged here from one body to a tribe. The tribe is the [Khuvanur]{.name data-type="affiliation/polity"}, the deer people, the last tribe that refused the banner of the second orkun and was killed at [[place-wemaq|Vomek]] over a morning, some four thousand people with their herds, and forbidden the laying-out; the dovaq made to watch was [Gorentoliz]{.name data-type="being/npc"}, storm-spear. The few who got away over the dunes were taken in by the [Kesukur]{.name data-type="affiliation/polity"}, the eagle people, whose range lies a day's ride from the oasis, and the Kesukur elders have held the names by heart ever since and teach them to their children. They have never agreed to speak them at the water, because a name spoken at Vomek is spoken before every tribe on the road, and the calling cannot name the dead without naming what was done to them, and the Kesukur sell passage to every tribe that rode under the banner. So the calling is spoken in the Kesukur camp with the oasis a day away, in the first days of the grass, by the eldest, with the children answering.

@@ -2,7 +2,7 @@
 shortcode: zinlegirgara
 name:
   full: Zinlegir Gar'Anlaghau
-  aliases: [Church Inquisitor Zinlegir the Censorious, Inquisitor Zinlegir]
+  en: [Church Inquisitor Zinlegir the Censorious, Inquisitor Zinlegir]
 type: being
 subType: npc
 description: A zealous church inquisitor who views the independent practice of Zanut Geza'Uzu with hostility.

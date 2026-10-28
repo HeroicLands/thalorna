@@ -1,6 +1,6 @@
 ---
 shortcode: feudcord
-name: {full: The Lay of the Feud-Cord, aliases: [Skathdreth drunga]}
+name: {full: The Lay of the Feud-Cord, varo: [Skathdreth drunga]}
 type: lore
 subType: literature
 description: "The Othholt lay of two kindreds and a vow, recited before the three seats when a kindred means to refuse a settlement: a brother holds to a vow against a full blood-price, the feud empties both halls in three winters, and the Skathár who held the price brings it to the last child, told in set speeches between the flat entries of the reckoning."
@@ -15,7 +15,7 @@ data:
     - lore-druthmundrnk
     - lore-othmundrnk
     - lore-varokhiclt
-  language: varokhlng
+  lang: varo
 
 # terran_analog: "The Nibelungenlied's foreboding stanza and its logic of loyalty over settlement; the Hildebrandslied's set speeches; the Icelandic sagas' bookkeeping of killings and compensation. Departs: the hero's loyalty is the danger the lay shows rather than its ideal, and the climax is a payment counted aloud, not a hall burning."
 ---

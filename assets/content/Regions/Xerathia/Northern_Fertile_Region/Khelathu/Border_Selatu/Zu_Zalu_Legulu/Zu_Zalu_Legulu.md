@@ -1,6 +1,6 @@
 ---
 shortcode: zuzalulegulunome
-name: {full: Zu-Zalu-Legulu, aliases: []}
+name: {full: Zu-Zalu-Legulu}
 type: place
 subType: region
 description: "The southern march of Au'Khelathu—the cataract country where the valley narrows to a thread between desert and tribal frontier, the land of the Selat of Zu-Zalu-Legulu."

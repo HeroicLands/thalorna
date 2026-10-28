@@ -21,9 +21,7 @@ const notes = [...fs.globSync("assets/content/**/*.md")].map((file) => {
 });
 const works = notes.filter(
     ({ fm, body }) =>
-        fm?.subType === "literature" &&
-        fm.data?.language === "aelwthlng" &&
-        scanVerse(body).blocks.length,
+        fm?.subType === "literature" && fm.data?.lang === "aelw" && scanVerse(body).blocks.length,
 );
 const language = notes.find(({ fm }) => fm?.shortcode === "aelwthlng");
 const { ctx, encoding, encode, glyphProblems } = aelwythiEncoding();

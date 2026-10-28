@@ -1,6 +1,6 @@
 ---
 shortcode: pyrclsm
-name: {full: Pyroclasm, aliases: []}
+name: {full: Pyroclasm}
 type: being
 subType: creature
 description: "A chaotic fire elemental of animate volcanic devastation, born from active volcanoes and consuming everything in its path toward cooler waters."

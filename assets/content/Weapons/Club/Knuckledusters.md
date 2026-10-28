@@ -1,6 +1,6 @@
 ---
 shortcode: kncldstr
-name: {full: Knuckledusters, aliases: []}
+name: {full: Knuckledusters}
 type: weapongear
 description: "Iron rings weighted-knuckle; tavern brawl and street ambush stealth."
 tags: []

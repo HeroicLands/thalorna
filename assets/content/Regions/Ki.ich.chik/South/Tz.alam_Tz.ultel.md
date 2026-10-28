@@ -1,6 +1,6 @@
 ---
 shortcode: tzalamtzltl
-name: {full: Ts’alam Ts'ultel, aliases: []}
+name: {full: Ts’alam Ts'ultel}
 type: place
 subType: settlement
 description: "Fortress City"

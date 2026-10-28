@@ -1,6 +1,6 @@
 ---
 shortcode: elxaqu
-name: {full: Waterheart, aliases: [Aqua Elixir]}
+name: {full: Waterheart, en: [Aqua Elixir]}
 type: concoctiongear
 subType: elixir
 description: "Pristine clear elixir; enhances water-breathing and aquatic movement."

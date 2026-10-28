@@ -1,6 +1,6 @@
 ---
 shortcode: khavarivarak
-name: {full: Khavari Varakan, aliases: [Warlord Khavari the Sorcerer, Warlord Khavari]}
+name: {full: Khavari Varakan, en: [Warlord Khavari the Sorcerer, Warlord Khavari]}
 type: being
 subType: npc
 description: A rival warrior who rules lands adjacent to the territory of Shadezan Kamruz and uses magical power.

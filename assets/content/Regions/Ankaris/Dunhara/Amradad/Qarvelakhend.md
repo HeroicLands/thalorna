@@ -1,6 +1,6 @@
 ---
 shortcode: qarvelakhend
-name: {full: Qarvelakhend, aliases: []}
+name: {full: Qarvelakhend}
 type: place
 subType: settlement
 description: "City"

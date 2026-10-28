@@ -1,6 +1,6 @@
 ---
 shortcode: greatbazaar
-name: {full: The Great Bazaar, aliases: []}
+name: {full: The Great Bazaar}
 type: place
 subType: structure
 description: "The crown's market ground at Chendrapur—where the rough stone is assayed and sold, where every foreign trade in the city is done in the open, and where nobody's charter reaches."

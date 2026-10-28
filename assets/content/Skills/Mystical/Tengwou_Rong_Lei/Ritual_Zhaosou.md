@@ -1,6 +1,6 @@
 ---
 shortcode: zhaosou
-name: {full: "Ritual: Zhaosou", aliases: [Zhaosou, The Unsorted, The Walking Contradiction]}
+name: {full: "Ritual: Zhaosou", en: [The Unsorted, The Walking Contradiction], tant: [Zhaosou]}
 type: skill
 subType: mystical
 tags: [celestial-pantheon, faith-skill, draft]

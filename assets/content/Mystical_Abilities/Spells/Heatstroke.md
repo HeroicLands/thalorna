@@ -1,6 +1,6 @@
 ---
 shortcode: htstrk
-name: {full: Heatstroke, aliases: []}
+name: {full: Heatstroke}
 type: mysticalability
 subType: arcaneincantation
 description: "Accelerates victim's body temperature; induces exhaustion and eventual collapse."

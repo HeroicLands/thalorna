@@ -1,6 +1,6 @@
 ---
 shortcode: cutthread
-name: {full: The Cut Thread, aliases: []}
+name: {full: The Cut Thread}
 type: lore
 subType: history
 description: "About 660 AF the Adanshreni cut off the craft-lines that rejected the shrena's taboos, chiefly the prohibition on killing during a taking; the lines cut off are the Chinnasutra, the one rival the shrena treats as a matter of its survival."

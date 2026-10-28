@@ -1,6 +1,6 @@
 ---
 shortcode: suitscribe
-name: {full: The Suit of the Scribe and the Builder, aliases: [Genzat Reth'Sa'ar ez Saq'aru]}
+name: {full: The Suit of the Scribe and the Builder, khel: [genzat reth'sa'ar ez saq'aru]}
 type: lore
 subType: literature
 description: "The players' comedy of the first house on the mound, which the Builder raised and the Scribe entered as his own, and of the first lease Qe'aret made to be rid of them both."
@@ -21,7 +21,7 @@ data:
     - lore-sheluessn
     - place-yathtelgu
     - lore-akhhsmeqes
-  language: khelathlng
+  lang: khel
 
 # terran_analog: "The Contendings of Horus and Seth, for gods quarrelling before a divine tribunal that cannot settle the case; the court records and land-tenure suits of the Nile valley, for the procedure; and the festival farce of any temple town, for the players, the drinking song and the actor's note in the margin. Departs: the quarrel is a property suit between brothers, nothing in it is violent or obscene, and it ends in a lease."
 ---

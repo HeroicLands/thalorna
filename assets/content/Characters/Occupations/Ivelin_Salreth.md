@@ -1,6 +1,6 @@
 ---
 shortcode: ivlynzlrth
-name: {full: Ívelin Salreth, aliases: []}
+name: {full: Ívelin Salreth}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

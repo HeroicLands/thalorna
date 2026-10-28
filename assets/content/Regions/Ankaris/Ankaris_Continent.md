@@ -1,6 +1,6 @@
 ---
 shortcode: ankrscntnnt
-name: {full: Ankaris Continent, aliases: []}
+name: {full: Ankaris Continent}
 type: place
 subType: region
 description: The largest continent of Thalorna—home to Vylaria, Taruzel, the Nordlands, the Ki'ich'chik-facing west, and the far-eastern empires of Tantsou and Jenchai.

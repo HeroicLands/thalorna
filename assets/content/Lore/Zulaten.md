@@ -1,6 +1,6 @@
 ---
 shortcode: zulaten
-name: {full: Zulaten, aliases: [The Night Road]}
+name: {full: Zulaten, en: [The Night Road]}
 type: place
 subType: world
 description: "The underworld: the night half of the sun's circuit, which the dead travel and the living are warded against"

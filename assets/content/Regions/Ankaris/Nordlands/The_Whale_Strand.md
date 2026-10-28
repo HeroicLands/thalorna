@@ -1,6 +1,6 @@
 ---
 shortcode: nrdlndswhal
-name: {full: The Whale Strand, aliases: [Northern Whaling]}
+name: {full: The Whale Strand, en: [Northern Whaling]}
 type: lore
 subType: economy
 description: "How the Nordlands hunt the whale—the crews and the seasons, the drive and the harpoon, the blubber, oil and bone that feed and light the north, and the law of a whale stranded on the shore."

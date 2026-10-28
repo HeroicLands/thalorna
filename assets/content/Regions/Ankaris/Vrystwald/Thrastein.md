@@ -1,6 +1,6 @@
 ---
 shortcode: thrastein
-name: {full: Thrastein, aliases: []}
+name: {full: Thrastein}
 type: place
 subType: settlement
 description: "A Varokh village in Vandstein."

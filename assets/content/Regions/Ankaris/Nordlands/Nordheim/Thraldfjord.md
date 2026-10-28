@@ -1,6 +1,6 @@
 ---
 shortcode: thraldfjord
-name: {full: Thraldfjord, aliases: []}
+name: {full: Thraldfjord}
 type: place
 subType: settlement
 description: "Fishing Village"

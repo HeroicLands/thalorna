@@ -1,6 +1,6 @@
 ---
 shortcode: hghlndfndn
-name: {full: The Highland Foundations, aliases: []}
+name: {full: The Highland Foundations}
 type: lore
 subType: history
 description: "Fifteen centuries ago the highland janpodas laid down the three institutions they still live by: Suvargeri's gold temples and constitution, Danurkot's four archery academies, and the first forest gift of the Bharava-Devabhona."

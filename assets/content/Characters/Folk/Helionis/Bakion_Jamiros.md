@@ -1,6 +1,6 @@
 ---
 shortcode: bakionjamiro
-name: {full: Bákion Jamiros, aliases: [Captain Bákion Jamiros]}
+name: {full: Bákion Jamiros, en: [Captain Bákion Jamiros]}
 type: being
 subType: npc
 description: A seagoing merchant and explorer of Pelagora who brings rare herbs and unusual specimens back from coastal expeditions, named in Talira Basiron.

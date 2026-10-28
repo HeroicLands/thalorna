@@ -1,6 +1,6 @@
 ---
 shortcode: kavrenath
-name: {full: Kávrenath, aliases: []}
+name: {full: Kávrenath}
 type: place
 subType: settlement
 description: "Frontier Town"

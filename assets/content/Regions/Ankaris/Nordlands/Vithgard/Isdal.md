@@ -1,6 +1,6 @@
 ---
 shortcode: isdal
-name: {full: Isdal, aliases: []}
+name: {full: Isdal}
 type: place
 subType: feature
 description: "A Vithgard dale emptied by sickness ninety years ago, whose farms the Hrandstead ting still holds for their dead."

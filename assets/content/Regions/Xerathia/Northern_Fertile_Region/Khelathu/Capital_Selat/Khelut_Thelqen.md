@@ -1,6 +1,6 @@
 ---
 shortcode: khelutathen
-name: {full: Khelut-Thelqen, aliases: []}
+name: {full: Khelut-Thelqen}
 type: place
 subType: settlement
 description: "A hinterland village of the Capital Selat, rendering grain and beer to Galezkara and its temples"

@@ -1,6 +1,6 @@
 ---
 shortcode: lengwou
-name: {full: Lengwou, aliases: [The Dawn Court]}
+name: {full: The Dawn Court, jurt: [Lengwou]}
 type: place
 subType: settlement
 description: "The Dawn Court, the Emperor's capital on the lowest slope of Zojai—a town of 12,000 below the palace of a nineteen-year-old Emperor, with a Retired Emperor and a treasury that is owed 6,880 bales and received 4,100."

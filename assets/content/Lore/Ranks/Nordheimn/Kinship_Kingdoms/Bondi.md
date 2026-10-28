@@ -1,6 +1,6 @@
 ---
 shortcode: bondirnk
-name: {full: "Bundi", aliases: []}
+name: {full: Bundi}
 type: lore
 subType: law
 description: "Full clan membership, holding odel land and a voice at the ting, in the five kingdoms and the Jarldom of Stormveld."

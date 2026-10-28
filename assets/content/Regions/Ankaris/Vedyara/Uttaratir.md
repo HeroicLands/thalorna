@@ -1,6 +1,6 @@
 ---
 shortcode: uttaratir
-name: {full: Uttaratir, aliases: []}
+name: {full: Uttaratir}
 type: place
 subType: settlement
 description: "The one Rajapuri village on the north bank, reached by ferry for eight months of the year."

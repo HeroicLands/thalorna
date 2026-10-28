@@ -1,6 +1,6 @@
 ---
 shortcode: lyrenatlgn
-name: {full: Lirena Tolgen, aliases: []}
+name: {full: Lirena Tolgen}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

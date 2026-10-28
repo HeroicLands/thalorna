@@ -1,6 +1,6 @@
 ---
 shortcode: pushback
-name: {full: Pushback, aliases: []}
+name: {full: Pushback}
 type: mysticalability
 subType: arcaneincantation
 description: "Force blast knocks enemies away; may stun or disorient."

@@ -1,6 +1,6 @@
 ---
 shortcode: ncrtcmr
-name: {full: Necrotic Mire, aliases: []}
+name: {full: Necrotic Mire}
 type: being
 subType: creature
 description: "An animate ooze made of concentrated decay in deep stagnant swamps, spreading inexorably to corrupt and consume all it touches."

@@ -1,6 +1,6 @@
 ---
 shortcode: frtrtryskrth
-name: {full: Free Territory of Eskarath, aliases: []}
+name: {full: Free Territory of Eskarath}
 type: affiliation
 subType: polity
 description: "Highland territory on the border with Élavendre, home to an ancient pre-Tarvéni people—fiercely independent even by Tarvenan standards, speaking their own language and following their own law."

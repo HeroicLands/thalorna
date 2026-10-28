@@ -1,6 +1,6 @@
 ---
 shortcode: wejai
-name: {full: Wejai, aliases: [Wind Peak]}
+name: {full: Wind Peak, jurt: [Wejai]}
 type: place
 subType: region
 description: "Wind Peak, the volcanic mountain of the open-ocean east of the great island—dunes, reefs and a cape shrine on the coast that the summer typhoons strike first."

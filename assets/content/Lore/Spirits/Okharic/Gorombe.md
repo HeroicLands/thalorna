@@ -1,6 +1,6 @@
 ---
 shortcode: gorombespr
-name: {full: Gorombe, aliases: [The Thunder Above]}
+name: {full: The Thunder Above, okha: [Gorombe]}
 type: lore
 subType: spirit
 description: "Zohira of storms—loud, brief, indifferent to petition, and appeased before the season rather than during it."

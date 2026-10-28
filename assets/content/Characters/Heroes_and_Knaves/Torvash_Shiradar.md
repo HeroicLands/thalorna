@@ -1,6 +1,6 @@
 ---
 shortcode: trvshshrdr
-name: {full: Torvash Shiradar, given: Torvash, clan: Shiradar, aliases: []}
+name: {full: Torvash Shiradar, given: Torvash, clan: Shiradar}
 type: being
 subType: character
 tags: [heroes-and-knaves, administration]

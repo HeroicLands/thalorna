@@ -1,6 +1,6 @@
 ---
 shortcode: othwindmhr
-name: {full: Othwin yra Domhár wur Falkholt, aliases: []}
+name: {full: Othwin yra Domhár wur Falkholt}
 type: being
 subType: npc
 tags: [draft, common-folk]

@@ -1,6 +1,6 @@
 ---
 shortcode: theithari
-name: {full: The Ithari, aliases: [Those Who Came Before, The Precursors]}
+name: {full: The Ithari, en: [Those Who Came Before, The Precursors]}
 type: lore
 subType: history
 description: "The people who came before—who arrived on Thalorna before 10,000 BF, raised Kaliharan civilization out of nothing, left works of a single substance standing across the world, met the Sinale once and found them quaint, and departed at 7,300 BF for a destination no record names. Known to Kalihara alone; everywhere else there are only sites."

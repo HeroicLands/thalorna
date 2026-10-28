@@ -2,11 +2,8 @@
 shortcode: triyangasampradeya
 name:
   full: "Ritual: Triyanga-sampradeya"
-  aliases:
-    - Triyanga-sampradeya
-    - Triyanga Sampradeya
-    - Tradition of the Three Forms
-    - Triyanga Tradition
+  en: [Triyanga Sampradeya, Tradition of the Three Forms, Triyanga Tradition]
+  vedy: [triyanga-sampradeya]
 type: skill
 subType: mystical
 tags: [varnuka, faith-skill]

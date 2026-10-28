@@ -1,6 +1,6 @@
 ---
 shortcode: selatzuzlqtt
-name: {full: The Selat of Zu-Zel-Iaqtet, aliases: []}
+name: {full: The Selat of Zu-Zel-Iaqtet}
 type: affiliation
 subType: polity
 description: "The eastern mining march of Au'Khelathu—a rugged hill-and-desert border selat whose gold, copper, and turquoise mines and stone quarries supply the empire's metal and monument-stone, held by a soldier-Halzi'a who guards the diggings and the desert roads against eastern raiders."

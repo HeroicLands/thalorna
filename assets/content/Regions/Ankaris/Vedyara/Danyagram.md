@@ -1,6 +1,6 @@
 ---
 shortcode: danyagram
-name: {full: Danyagram, aliases: []}
+name: {full: Danyagram}
 type: place
 subType: settlement
 description: "Millet village on the dry western terraces, and the largest single contributor to the janpoda's famine store."

@@ -1,6 +1,6 @@
 ---
 shortcode: healtch
-name: {full: Healing Touch, aliases: []}
+name: {full: Healing Touch}
 type: mysticalability
 subType: arcaneincantation
 description: "Caster's touch mends wounds; restores flesh and eases pain."

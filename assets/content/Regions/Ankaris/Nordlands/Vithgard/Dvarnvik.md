@@ -1,6 +1,6 @@
 ---
 shortcode: dvarnvik
-name: {full: Dvarnvík, aliases: []}
+name: {full: Dvarnvík}
 type: place
 subType: settlement
 description: "Port Town"

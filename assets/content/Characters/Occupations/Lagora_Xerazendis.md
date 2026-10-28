@@ -1,6 +1,6 @@
 ---
 shortcode: lagrxrznds
-name: {full: Lagora Kerazendis, aliases: []}
+name: {full: Lagora Kerazendis}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

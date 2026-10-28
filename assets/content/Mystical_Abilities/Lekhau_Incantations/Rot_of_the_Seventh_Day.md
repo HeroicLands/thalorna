@@ -1,6 +1,6 @@
 ---
 shortcode: rotseventhdy
-name: {full: Rot of the Seventh Day, aliases: []}
+name: {full: Rot of the Seventh Day}
 type: mysticalability
 subType: arcaneincantation
 description: "Accelerates the decay of organic material, on a stated delay."

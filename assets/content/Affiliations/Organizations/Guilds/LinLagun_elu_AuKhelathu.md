@@ -1,6 +1,6 @@
 ---
 shortcode: linlagnkhlth
-name: {full: Lin'Lagun elu Au'Khelathu, aliases: [The Timberwrights' Guild of Au'Khelathu]}
+name: {full: Lin'Lagun elu Au'Khelathu, en: [The Timberwrights' Guild of Au'Khelathu]}
 type: affiliation
 subType: guild
 description: The chartered guild of the empire's timber-trade, at odds with itself over what standards of quality assessment should mean

@@ -1,6 +1,6 @@
 ---
 shortcode: fakhrdtmrn
-name: {full: Fakhrad Tamaran, given: Fakhrad, clan: Tamaran, aliases: []}
+name: {full: Fakhrad Tamaran, given: Fakhrad, clan: Tamaran}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, mages]

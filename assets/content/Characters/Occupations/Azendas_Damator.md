@@ -1,6 +1,6 @@
 ---
 shortcode: azendsdmtr
-name: {full: Azendas Damator, aliases: []}
+name: {full: Azendas Damator}
 type: being
 subType: npc
 tags: [todo, draft, clergy]

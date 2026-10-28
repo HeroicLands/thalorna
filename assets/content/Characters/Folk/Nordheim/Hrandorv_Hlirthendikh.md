@@ -1,6 +1,6 @@
 ---
 shortcode: hrandorvhlir
-name: {full: Hrandorv Hlirthendik, aliases: [Jarl Hrandorv Hlirthendik, Jarl Hrandorv]}
+name: {full: Hrandorv Hlirthendik, en: [Jarl Hrandorv Hlirthendik, Jarl Hrandorv]}
 type: being
 subType: npc
 description: A minor jarl whose estate holds Thraskorv Jarnskel's parents as thralls.

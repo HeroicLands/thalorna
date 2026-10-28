@@ -1,6 +1,6 @@
 ---
 shortcode: iltherethalu
-name: {full: Ilthere Thalurates, aliases: [Lady Ilthere]}
+name: {full: Ilthere Thalurates, en: [Lady Ilthere]}
 type: being
 subType: npc
 description: A noblewoman of House Thalurates with close ties to the imperial court, named in Kalestratos Zarkedis.

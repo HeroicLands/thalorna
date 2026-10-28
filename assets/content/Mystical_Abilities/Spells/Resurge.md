@@ -1,6 +1,6 @@
 ---
 shortcode: resurge
-name: {full: Resurge, aliases: []}
+name: {full: Resurge}
 type: mysticalability
 subType: arcaneincantation
 description: "Pours fresh energy into failing magical construct; restores framework."

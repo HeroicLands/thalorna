@@ -1,12 +1,12 @@
 ---
 shortcode: vylarianclt
-name: {full: Vylarian, aliases: []}
+name: {full: Vylarian}
 type: lore
 subType: culture
 description: "The Vylarians—their beliefs, their mores, and what they hold a person owes."
 tags: []
 data:
-  language: skill-vylarilng
+  lang: vyl
   glossary:
     - {name: "Orzas", definition: "The emperor", common: true}
     - name: "orkaima"

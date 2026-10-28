@@ -1,6 +1,6 @@
 ---
 shortcode: plnthshplytms
-name: {full: Plantash Tredis, given: Plantash, clan: Tredis, aliases: []}
+name: {full: Plantash Tredis, given: Plantash, clan: Tredis}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]

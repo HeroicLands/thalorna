@@ -1,6 +1,6 @@
 ---
 shortcode: ziprahuigmth
-name: {full: Ziprahu Igu'Maathu, given: Ziprahu, clan: Igu'Maathu, aliases: []}
+name: {full: Ziprahu Igu'Maathu, given: Ziprahu, clan: Igu'Maathu}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]

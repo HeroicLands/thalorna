@@ -1,6 +1,6 @@
 ---
 shortcode: cnclslmr
-name: {full: Council of Selímara, aliases: []}
+name: {full: Council of Selímara}
 type: affiliation
 subType: polity
 description: "The governing council of the market town of Selímara on the inland roads of Bizaria."

@@ -1,6 +1,6 @@
 ---
 shortcode: priturajasam
-name: {full: Prituraja Samudraya, aliases: [Captain-Merchant Prituraja]}
+name: {full: Prituraja Samudraya, en: [Captain-Merchant Prituraja]}
 type: being
 subType: npc
 description: A successful merchant captain who employs Senapavi Vikramada regularly and has offered him a permanent position.

@@ -1,6 +1,6 @@
 ---
 shortcode: danurkotjnpd
-name: {full: Danurkot Janpoda, aliases: []}
+name: {full: Danurkot Janpoda}
 type: place
 subType: region
 description: "The land of the Danurkot Janpoda—villages along a defensible curve of the upper Sarveda, around the ancient bow-fort where the river leaves the northern hills."

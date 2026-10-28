@@ -1,6 +1,6 @@
 ---
 shortcode: nalok
-name: {full: "Nalok", aliases: []}
+name: {full: Nalok}
 type: affiliation
 subType: order
 description: "Nahild's hidden cult of the Eye of the Void."

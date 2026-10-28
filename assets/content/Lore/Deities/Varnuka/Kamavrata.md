@@ -1,6 +1,6 @@
 ---
 shortcode: kamavratadty
-name: {full: Kamavrata, aliases: []}
+name: {full: Kamavrata}
 type: lore
 subType: deity
 description: "The Celestial Lover of the Varnuka pantheon—fertility, desire, and the bearing that follows them."

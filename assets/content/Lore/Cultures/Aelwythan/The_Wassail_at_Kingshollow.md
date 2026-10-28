@@ -1,6 +1,6 @@
 ---
 shortcode: kingswassail
-name: {full: The Wassail at Kingshollow, aliases: [The Hall-Door Carol]}
+name: {full: The Wassail at Kingshollow, en: [The Hall-Door Carol]}
 type: lore
 subType: literature
 description: "The carol the tenants of Kingshollow sing at the shut door of the royal hall on the night of the midwinter feast: the ash bowl, the crown the barons gave, the forest the village may not cut, the king whose health is the harvest, the kings in the yard behind the hall and the one who is not among them, and the single tree the king gives back."
@@ -16,7 +16,7 @@ data:
     - place-dunmere
     - place-wyndmarch
     - lore-aelwythanclt
-  language: aelwthlng
+  lang: aelw
 
 # terran_analog: "The wassail and house-visiting carols of the British midwinter, sung at a door that must be opened, with a burden after every verse; the forest law of the royal chases and the commoners' grievance over wood; the sleeping king under the hill who wakes in the realm's need; the sacral king whose health is the land's."
 ---

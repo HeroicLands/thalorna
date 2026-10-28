@@ -1,6 +1,6 @@
 ---
 shortcode: pilotslens
-name: {full: "A Pilot's Lens", aliases: []}
+name: {full: A Pilot's Lens}
 type: miscgear
 description: "A palm-sized disc of ithasul, a living held stone of a current-stone, through which the broken water of a channel looks still."
 tags: [kaan-sul, kalihara]

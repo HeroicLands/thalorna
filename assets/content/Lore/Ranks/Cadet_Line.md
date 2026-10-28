@@ -1,6 +1,6 @@
 ---
 shortcode: cadetlinernk
-name: {full: Cadet Line, aliases: [Cadet Branch]}
+name: {full: Cadet Line, en: [Cadet Branch]}
 type: lore
 subType: law
 description: "Head of a junior line of a house, holding lands or offices of its own and standing behind the senior line."

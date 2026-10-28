@@ -1,6 +1,6 @@
 ---
 shortcode: eidverdir
-name: {full: "Eidverdir", aliases: []}
+name: {full: Eidverdir}
 type: affiliation
 subType: order
 description: "Warriors sworn to Eidgar's heaviest oaths."

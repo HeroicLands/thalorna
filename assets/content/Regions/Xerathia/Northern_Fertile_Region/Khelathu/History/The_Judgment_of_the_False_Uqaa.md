@@ -1,6 +1,6 @@
 ---
 shortcode: judgfalseuq
-name: {full: The Judgment of the False Uqa'a, aliases: []}
+name: {full: The Judgment of the False Uqa'a}
 type: lore
 subType: history
 description: "In 268 AF the Thaz'Lekhau of Uqa'a judged the last Gar-Au of the struck house at the Great Temple, and the king who had claimed to be the god was sealed living into his tomb and struck from every wall."

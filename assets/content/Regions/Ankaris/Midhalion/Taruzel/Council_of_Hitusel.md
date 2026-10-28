@@ -1,6 +1,6 @@
 ---
 shortcode: cnclhtsl
-name: {full: Council of Hitusel, aliases: []}
+name: {full: Council of Hitusel}
 type: affiliation
 subType: polity
 description: "The governing council of the fishing village of Hitusel on the coast of the Taruzel Region."

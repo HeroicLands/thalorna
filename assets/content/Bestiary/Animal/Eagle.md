@@ -1,6 +1,6 @@
 ---
 shortcode: eagle
-name: {full: Eagle, aliases: []}
+name: {full: Eagle}
 type: being
 subType: creature
 description: "A solitary apex raptor of high ridges and passes, patrolling vast territory to snatch small mammals and fish with sudden violence."

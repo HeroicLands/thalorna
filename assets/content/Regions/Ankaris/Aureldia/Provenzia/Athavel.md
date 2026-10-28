@@ -1,6 +1,6 @@
 ---
 shortcode: athavel
-name: {full: Atavel, aliases: []}
+name: {full: Atavel}
 type: place
 subType: region
 description: "A county of Provenzia whose embattled count is torn by family disputes and locked in rivalry with the Earl of Degavel."

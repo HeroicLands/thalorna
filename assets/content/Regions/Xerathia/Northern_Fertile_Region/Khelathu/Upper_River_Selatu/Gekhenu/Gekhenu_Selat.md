@@ -1,6 +1,6 @@
 ---
 shortcode: gekhenuselat
-name: {full: Gekhenu Selat, aliases: []}
+name: {full: Gekhenu Selat}
 type: place
 subType: region
 description: "Library-temples and astronomers; the calendar-keepers of the middle river—the land of the Selat of Gekhenu, one of the upper-river selatu of Au'Khelathu."

@@ -1,6 +1,6 @@
 ---
 shortcode: zhikandetrb
-name: {full: Zhíkande Tribe, aliases: []}
+name: {full: Zhíkande Tribe}
 type: affiliation
 subType: polity
 description: A river tribe of the Okharis that grows flax and weaves linen.

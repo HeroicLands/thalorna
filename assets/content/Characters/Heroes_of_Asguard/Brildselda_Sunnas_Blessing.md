@@ -1,6 +1,6 @@
 ---
 shortcode: brldsldsnsblsng
-name: {full: Brildselda Sun-Blessed, given: Brildselda, aliases: [Sun-Blessed]}
+name: {full: Brildselda Sun-Blessed, given: Brildselda, en: [Sun-Blessed]}
 type: being
 subType: character
 tags: [paragon, heroes-of-asguard, clergy]

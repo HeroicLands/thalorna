@@ -1,6 +1,6 @@
 ---
 shortcode: dsksft
-name: {full: Dusk Swift, aliases: [Olithuri]}
+name: {full: Dusk Swift, kali: [Olithuri]}
 type: being
 subType: creature
 description: "A sparrow-sized, slate-backed bird that feeds in the forest by day and flies home to the village gardens in a single streaming flock as the light fails."

@@ -2,7 +2,7 @@
 shortcode: ruzhvelissap
 name:
   full: Ruzhvelis Sapipidek
-  aliases: [Mercenary Lord Ruzhvelis Sapipidek, Mercenary Lord Ruzhvelis]
+  en: [Mercenary Lord Ruzhvelis Sapipidek, Mercenary Lord Ruzhvelis]
 type: being
 subType: npc
 description: A mercenary lord and rival who publicly challenges Fileze Stenikot to single combat.

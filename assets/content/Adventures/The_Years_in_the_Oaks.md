@@ -1,6 +1,6 @@
 ---
 shortcode: yearsinoaks
-name: {full: Ten Winters in the Bark, aliases: []}
+name: {full: Ten Winters in the Bark}
 type: scenario
 subType: adventure
 description: "In a hollow ringed with oaks a witch cures the dying for a price paid in years, and the trees around her are not as still as they seem."

@@ -1,6 +1,6 @@
 ---
 shortcode: bldfldcalvenza
-name: {full: Blood-field of Kalvenza, aliases: []}
+name: {full: Blood-field of Kalvenza}
 type: place
 subType: site
 description: "A silent blood-field above the warm southern shore, where nothing sings and nothing will settle, in the middle of the most prosperous country in the kingdom."

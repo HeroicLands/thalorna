@@ -1,6 +1,6 @@
 ---
 shortcode: harivrencity
-name: {full: Hárivren City, aliases: []}
+name: {full: Hárivren City}
 type: place
 subType: settlement
 description: "The great city of Provenzia's western march and seat of its Earl—an old inland stronghold turned administrative capital, host of the Lordeme every fifth year, and the one place in Ankaris where the Black Flame is held openly by a man nobody can touch."

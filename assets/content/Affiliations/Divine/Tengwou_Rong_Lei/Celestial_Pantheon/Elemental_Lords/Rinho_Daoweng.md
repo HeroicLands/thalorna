@@ -1,6 +1,6 @@
 ---
 shortcode: rinhodaoweng
-name: {full: Rinho Daoweng, aliases: []}
+name: {full: Rinho Daoweng}
 type: affiliation
 subType: faithtradition
 description: "Wood."

@@ -1,6 +1,6 @@
 ---
 shortcode: althyndeldskr
-name: {full: Althinda Eldskari, given: Althinda, clan: Eldskari, aliases: []}
+name: {full: Althinda Eldskari, given: Althinda, clan: Eldskari}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]

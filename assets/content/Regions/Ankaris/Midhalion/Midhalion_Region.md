@@ -1,6 +1,6 @@
 ---
 shortcode: midhalnrgn
-name: {full: Mídhalión Region, aliases: []}
+name: {full: Mídhalión Region}
 type: place
 subType: region
 description: The Mídhalión basin—a cross-continental constellation of polities ringing the Vylarian Sea, successor-lands of the old Vylarian Empire.

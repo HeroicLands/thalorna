@@ -1,6 +1,6 @@
 ---
 shortcode: nagengir
-name: {full: Nágengir, aliases: []}
+name: {full: Nágengir}
 type: lore
 subType: bestiary
 description: "Nahild's favored, sentient undead, set over her hidden sanctuaries and armies."

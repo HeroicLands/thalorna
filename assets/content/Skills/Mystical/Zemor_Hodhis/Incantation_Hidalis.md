@@ -1,6 +1,6 @@
 ---
 shortcode: hidalis
-name: {full: Incantation Hidalis, aliases: []}
+name: {full: Incantation Hidalis}
 type: skill
 subType: mystical
 tags: [zemor-hodhis, draft]

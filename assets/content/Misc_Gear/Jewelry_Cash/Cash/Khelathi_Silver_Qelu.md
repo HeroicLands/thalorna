@@ -1,6 +1,6 @@
 ---
 shortcode: khelthslvrql
-name: {full: Khelathi Silver Qelu, aliases: [Silver Qelu, Silver Qezelet]}
+name: {full: Khelathi Silver Qelu, en: [Silver Qelu, Silver Qezelet]}
 type: miscgear
 description: "Temple-attested silver weight-piece of one qelu; the wage and market denomination."
 tags: [jewelry_cash]

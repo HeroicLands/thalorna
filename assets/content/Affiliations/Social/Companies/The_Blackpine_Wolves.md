@@ -1,6 +1,6 @@
 ---
 shortcode: blckpnwlvs
-name: {full: The Blackpine Wolves, aliases: []}
+name: {full: The Blackpine Wolves}
 type: affiliation
 subType: criminal
 description: "Vristwald road bandits—brutal, desperate men held together by fear of their leader Dagbán and the absence of legitimate options in imperial forests."

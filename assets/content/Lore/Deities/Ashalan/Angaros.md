@@ -1,6 +1,6 @@
 ---
 shortcode: angarosdty
-name: {full: Angaros, aliases: []}
+name: {full: Angaros}
 type: lore
 subType: deity
 description: "The Shadowed Serpent of the Ashaian pantheon—chaos, and the falsehood the desert faith sets its whole cosmology against."

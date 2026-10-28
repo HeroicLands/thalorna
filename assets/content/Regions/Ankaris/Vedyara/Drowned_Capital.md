@@ -1,6 +1,6 @@
 ---
 shortcode: drownedcptl
-name: {full: The Drowned Capital, aliases: []}
+name: {full: The Drowned Capital}
 type: place
 subType: site
 description: "The river-capital the Mahanodi took when it changed its channel—masonry the fishermen of the reach still foul their nets on, six hundred years under water."

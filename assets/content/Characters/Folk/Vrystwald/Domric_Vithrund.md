@@ -1,6 +1,6 @@
 ---
 shortcode: domricyravit
-name: {full: Domrik yra Vithrúnd wur Eichengrund, aliases: []}
+name: {full: Domrik yra Vithrúnd wur Eichengrund}
 type: being
 subType: npc
 description: The older brother of Athalwa yra Vithrúnd wur Eichengrund, who showed early aptitude for a War Chief's role and died while hunting at thirty-eight.

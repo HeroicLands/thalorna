@@ -1,6 +1,6 @@
 ---
 shortcode: sparkle
-name: {full: Sparkle, aliases: []}
+name: {full: Sparkle}
 type: mysticalability
 subType: arcaneincantation
 description: "Creates glittering effect; produces shimmering light display."

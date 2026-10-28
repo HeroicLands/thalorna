@@ -1,6 +1,6 @@
 ---
 shortcode: pwrfnt
-name: {full: Powerfont, aliases: []}
+name: {full: Powerfont}
 type: mysticalability
 subType: arcaneincantation
 description: "Channel of raw power; caster draws energy for spellcasting."

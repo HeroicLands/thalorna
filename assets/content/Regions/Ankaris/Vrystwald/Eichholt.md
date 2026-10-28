@@ -1,6 +1,6 @@
 ---
 shortcode: eichholt
-name: {full: Eichholt, aliases: []}
+name: {full: Eichholt}
 type: place
 subType: settlement
 description: "A Varokh village in Edriwald."

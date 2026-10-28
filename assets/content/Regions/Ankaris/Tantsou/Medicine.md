@@ -1,6 +1,6 @@
 ---
 shortcode: medicine
-name: {full: Medicine, aliases: []}
+name: {full: Medicine}
 type: lore
 subType: custom
 description: "The medicine of Tantsou—the Yaiwo healers, their belief that sickness is a body fallen out of its classification, their herb-masters and physicians, and their four ranks."

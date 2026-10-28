@@ -1,6 +1,6 @@
 ---
 shortcode: marukupa
-name: {full: Marukupa, aliases: []}
+name: {full: Marukupa}
 type: place
 subType: settlement
 description: "The last Vedyari wells on the march road, where the foothills give out and the sand begins—a well-village, a company post, and the Sameja's tower above it."

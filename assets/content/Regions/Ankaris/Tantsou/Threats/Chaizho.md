@@ -1,6 +1,6 @@
 ---
 shortcode: chaizho
-name: {full: Chaizho, aliases: []}
+name: {full: Chaizho}
 type: lore
 subType: bestiary
 description: "Reptilian pack-hunters, taller than a man and nearly proof against ordinary steel, loosed from the deep earth by the great earthquake in the empire's northwest."

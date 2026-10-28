@@ -1,6 +1,6 @@
 ---
 shortcode: brazemas
-name: {full: "Ritual: Brazemas", aliases: [Brazemas, The Thunderer]}
+name: {full: "Ritual: Brazemas", en: [The Thunderer], prov: [Brazemas]}
 type: skill
 subType: mystical
 tags: [aureldian, faith-skill, draft]

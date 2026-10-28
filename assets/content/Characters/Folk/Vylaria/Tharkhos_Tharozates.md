@@ -1,6 +1,6 @@
 ---
 shortcode: tharkhosthar
-name: {full: Tharkos Tharozates, aliases: [Warden Tharkos]}
+name: {full: Tharkos Tharozates, en: [Warden Tharkos]}
 type: being
 subType: npc
 description: The political administrator appointed to manage the prison bureaucratically, named in Zerofon Kalmakanes.

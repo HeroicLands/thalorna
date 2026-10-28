@@ -1,6 +1,6 @@
 ---
 shortcode: hanalxilik
-name: {full: "Ha'nal Shilik", aliases: [The Blue River]}
+name: {full: The Blue River, kiichek: [Ha'nal Shilik]}
 type: place
 subType: feature
 description: "The Blue River, the eastern of Shelem's two great rivers, carrying hides, feathers, cacao and medicines down to the northern markets."

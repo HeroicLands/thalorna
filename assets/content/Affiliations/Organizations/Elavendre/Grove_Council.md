@@ -1,6 +1,6 @@
 ---
 shortcode: groveconcl
-name: {full: The Grove Council, aliases: [The Council of Groves, The Elder Groves]}
+name: {full: The Grove Council, en: [The Council of Groves, The Elder Groves]}
 type: affiliation
 subType: governmental
 description: "Druidic conclave of grove-elders governing wild magic, fae-touched land, and the rural custom that predates the Thordimalon across the forests of Élavendre."

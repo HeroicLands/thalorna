@@ -1,6 +1,6 @@
 ---
 shortcode: fylzstnkt
-name: {full: Fileze Stenikot, given: Fileze, clan: Stenikot, aliases: []}
+name: {full: Fileze Stenikot, given: Fileze, clan: Stenikot}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]

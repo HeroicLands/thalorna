@@ -1,6 +1,6 @@
 ---
 shortcode: palnsnrcth
-name: {full: Pálina Sánriseth, aliases: []}
+name: {full: Pálina Sánriseth}
 type: being
 subType: npc
 tags: [todo, draft, clergy]

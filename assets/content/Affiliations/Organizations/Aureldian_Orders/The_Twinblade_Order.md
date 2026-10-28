@@ -2,7 +2,8 @@
 shortcode: twinbldrdr
 name:
   full: The Twinblade Order
-  aliases: [Tavemyenthamis, The Order of Two Faces, The Gate-Wardens]
+  en: [The Order of Two Faces, The Gate-Wardens]
+  vyl: [Tavemyenthamis]
 type: affiliation
 subType: order
 description: "Knightly guardians of thresholds—city gates, treaty borders, sacred boundaries—bearing the paired blades that symbolize Árdavon's two faces, one for what was sworn and one for what comes after the breach."

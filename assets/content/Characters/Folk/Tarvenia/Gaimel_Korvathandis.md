@@ -1,6 +1,6 @@
 ---
 shortcode: gaimelkorvat
-name: {full: Gaimel Korvathandis, aliases: [Father Gaimel]}
+name: {full: Gaimel Korvathandis, en: [Father Gaimel]}
 type: being
 subType: npc
 description: An older priest of the Aureldian faith whose austere views of spirituality conflict with Pálina Sánriseth's.

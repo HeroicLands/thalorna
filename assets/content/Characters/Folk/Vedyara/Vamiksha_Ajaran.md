@@ -1,6 +1,6 @@
 ---
 shortcode: vamikshaajar
-name: {full: Vamiksha Ajaran, aliases: [Captain Vamiksha]}
+name: {full: Vamiksha Ajaran, en: [Captain Vamiksha]}
 type: being
 subType: npc
 description: An explorer and scholar of wide and somewhat disreputable reputation who proposes an expedition to uncharted lands, named in Padmavali Danurkirti.

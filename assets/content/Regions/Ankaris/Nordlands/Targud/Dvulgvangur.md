@@ -1,6 +1,6 @@
 ---
 shortcode: dvulgvangur
-name: {full: Dvulgvangur, aliases: [The Standing Watch]}
+name: {full: Dvulgvangur, en: [The Standing Watch]}
 type: place
 subType: site
 description: "The ford below the burned hall of Nulthgard where Targud's hirv and the eastern bundi held the Grukar horde for three days in 613 AF and were carried off: a blood-field of the dread, thin and dangerous, that keeps a Nordman standing at his post until dawn and sends a Grukar running."

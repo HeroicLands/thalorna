@@ -1,6 +1,6 @@
 ---
 shortcode: gezrulutu
-name: {full: Gezru'lutu, aliases: []}
+name: {full: Gezru'lutu}
 type: lore
 subType: arcana
 description: "The red waste: fire, drought, storm, endurance, plague, and the wandering."

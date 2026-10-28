@@ -1,6 +1,6 @@
 ---
 shortcode: surtaislnds
-name: {full: The Surta-samedra Islands, aliases: [The Eastern Islands]}
+name: {full: The Surta-samedra Islands, en: [The Eastern Islands]}
 type: place
 subType: region
 description: "The scattered island chain southeast of Vedyara—coastal kingdoms of their own, and the Vedyari merchant colonies whose speech has gone its own way."

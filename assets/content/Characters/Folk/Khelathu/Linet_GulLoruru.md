@@ -1,6 +1,6 @@
 ---
 shortcode: linetgulloru
-name: {full: Linet Gul'Loruru, aliases: [Merchant Prince Linet]}
+name: {full: Linet Gul'Loruru, en: [Merchant Prince Linet]}
 type: being
 subType: npc
 description: A wealthy spice trader from the eastern provinces and member of the Zebeku'Zut, named in Thalura Iqe'Leru.

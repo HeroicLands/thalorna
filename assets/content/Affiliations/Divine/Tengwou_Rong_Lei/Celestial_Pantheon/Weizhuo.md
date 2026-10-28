@@ -1,6 +1,6 @@
 ---
 shortcode: weizhuo
-name: {full: Weizhuo, aliases: []}
+name: {full: Weizhuo}
 type: affiliation
 subType: faithtradition
 description: "Bureaucracy."

@@ -1,6 +1,6 @@
 ---
 shortcode: yathkhelunu
-name: {full: Yath-Khelunu, aliases: []}
+name: {full: Yath-Khelunu}
 type: place
 subType: settlement
 description: "A farm village of Gar-Reth'Sa'ar within reach of Khelunu, lodging pupils' families and drawing its trade from the schools"

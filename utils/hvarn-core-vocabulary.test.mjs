@@ -72,7 +72,7 @@ test("Hvarn preserves original words, meanings, names, metadata and prose", () =
     const { words: _words, fields, roman: _roman, ...data } = note.fm.data;
     assert.equal(
         hash({ ...note.fm, data }),
-        "8b57b3715fd4acd680dff80a718b341cb1755059f5e3f6f85cf82d7a6c74cf18",
+        "56b06faa7a5d38dcf0e1d8ab2de85e99b6138c89bdc93e0ea0b677d0a7689edc",
     );
     assert.equal(
         hash(fields.slice(0, -1)),

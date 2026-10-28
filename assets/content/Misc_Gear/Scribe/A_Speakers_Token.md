@@ -1,6 +1,6 @@
 ---
 shortcode: speakerstoken
-name: {full: "A Speaker's Token", aliases: []}
+name: {full: A Speaker's Token}
 type: miscgear
 description: "The carved ring an Envoy carries abroad, the only credential a foreign power sees."
 tags: [kalihara]

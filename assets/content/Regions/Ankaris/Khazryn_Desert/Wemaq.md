@@ -1,6 +1,6 @@
 ---
 shortcode: wemaq
-name: {full: Vomek, aliases: [The Green Oasis]}
+name: {full: Vomek, en: [The Green Oasis]}
 type: place
 subType: site
 description: "A lush oasis of sweet water and heavy palms beside the Celestial Road where nobody camps, about 312 AF the ground on which a rising orkun broke the last tribe that refused him: a moderate blood-field of the quickening kind, where everything grows too well and sleepers dream the battle."

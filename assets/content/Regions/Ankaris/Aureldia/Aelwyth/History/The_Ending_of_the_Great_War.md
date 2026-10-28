@@ -1,6 +1,6 @@
 ---
 shortcode: endgreatwar
-name: {full: The Ending of the Great War, aliases: [The Stopping]}
+name: {full: The Ending of the Great War, en: [The Stopping]}
 type: lore
 subType: history
 description: "Within a decade of the Three Sisters the Khazari finished the Great War and did not take the island: they kept the Ironfells and the north-east plain for the Vardain and left everything else to the Pelwar they had fought."

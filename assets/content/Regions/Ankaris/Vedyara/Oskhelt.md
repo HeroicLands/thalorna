@@ -1,6 +1,6 @@
 ---
 shortcode: oskhelt
-name: {full: Oskhelt, aliases: []}
+name: {full: Oskhelt}
 type: place
 subType: settlement
 description: "The principal Osket village, above the throat of Suryadvar—stacked stone on a south-facing slope, full for two months of the year and shut for ten."

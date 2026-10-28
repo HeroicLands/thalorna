@@ -1,6 +1,6 @@
 ---
 shortcode: genzetgarau
-name: {full: Genzet'Gar-Au, aliases: [The Gar-Au's Court]}
+name: {full: Genzet'Gar-Au, en: [The Gar-Au's Court]}
 type: affiliation
 subType: governmental
 description: The household and council of the Gar-Au, where appointment is made, favor is distributed, and the empire's factions contend in person

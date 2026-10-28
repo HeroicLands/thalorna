@@ -1,6 +1,6 @@
 ---
 shortcode: drikaranamn
-name: {full: Driksharana Manrishti, given: Driksharana, clan: Manrishti, aliases: [Driksha]}
+name: {full: Driksharana Manrishti, given: Driksharana, clan: Manrishti, vedy: [driksha]}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]

@@ -1,6 +1,6 @@
 ---
 shortcode: helionisadvguide
-name: {full: Helionis Adventurer's Guide, aliases: []}
+name: {full: Helionis Adventurer's Guide}
 type: doc
 subType: settingguide
 description: A player and GM introduction to the seven city-states of Helionis—their assemblies, academies, games and gods, and the ways a campaign begins there.

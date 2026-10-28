@@ -1,6 +1,6 @@
 ---
 shortcode: zhambelinake
-name: {full: Zhambelina Keramakit, aliases: [Guild Master Zhambelina Keramakit]}
+name: {full: Zhambelina Keramakit, en: [Guild Master Zhambelina Keramakit]}
 type: being
 subType: npc
 description: The current head of the Teamsters' Guild, who values Órashkar Naulakit as an unofficial advisor on standards and practices.

@@ -1,6 +1,6 @@
 ---
 shortcode: destrier
-name: {full: Destrier, aliases: []}
+name: {full: Destrier}
 type: being
 subType: creature
 description: "A colossal armored warhorse bred as a living fortress, carrying rider and full plate into the most violent battles without faltering."

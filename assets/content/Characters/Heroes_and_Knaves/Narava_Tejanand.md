@@ -1,6 +1,6 @@
 ---
 shortcode: nrvtjnnd
-name: {full: Narava Tejanand, given: Narava, clan: Tejanand, aliases: []}
+name: {full: Narava Tejanand, given: Narava, clan: Tejanand}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]

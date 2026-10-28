@@ -1,6 +1,6 @@
 ---
 shortcode: unburnford
-name: {full: The Unburned Ford, aliases: []}
+name: {full: The Unburned Ford}
 type: lore
 subType: history
 description: "About 300 BF the second of the six last kings of Mahanodi destroyed a rising of the upper-river villages at a ford and forbade the pyre to the dead, and the ford became Olurtaran, the oldest dated shorukshetra in Vedyara."

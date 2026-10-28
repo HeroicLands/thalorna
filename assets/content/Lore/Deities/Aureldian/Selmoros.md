@@ -1,6 +1,6 @@
 ---
 shortcode: selmorosdty
-name: {full: Sélmoros, aliases: []}
+name: {full: Sélmoros}
 # terran_analog: Thanatos, the Greek personification of death
 type: lore
 subType: deity

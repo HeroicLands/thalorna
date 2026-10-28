@@ -1,6 +1,6 @@
 ---
 shortcode: magictruth
-name: {full: The Truth of Magic, aliases: [Magic (GM)]}
+name: {full: The Truth of Magic, en: [Magic (GM)]}
 type: doc
 subType: concept
 tags: [arcane, metaphysics, gm]

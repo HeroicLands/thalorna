@@ -1,6 +1,6 @@
 ---
 shortcode: agmipartng
-name: {full: The Three Partings of the Agmi-pantra, aliases: []}
+name: {full: The Three Partings of the Agmi-pantra}
 type: lore
 subType: history
 description: "The three times the Agmi-pantra broke with the orthodox hierarchy: put out of the city temples about 200 BF over the unburned dead, banned from three capitals about 280 AF for burning Gajastal against the kings' order, and banned from Vyalendra about 560 AF for scouring its first sanctuary, by a council that later put up a statue of the priest it banned."

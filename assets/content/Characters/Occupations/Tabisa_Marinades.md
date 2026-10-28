@@ -1,6 +1,6 @@
 ---
 shortcode: tabismrnds
-name: {full: Tabisa Marinades, aliases: []}
+name: {full: Tabisa Marinades}
 type: being
 subType: npc
 tags: [draft, soldiery]

@@ -1,6 +1,6 @@
 ---
 shortcode: uronspr
-name: {full: The Uron Tekhi, aliases: []}
+name: {full: The Uron Tekhi}
 type: lore
 subType: spirit
 description: "The spirit seated in an ancient tree of the Silver Forests—old, awake, and not certainly of the mortal world."

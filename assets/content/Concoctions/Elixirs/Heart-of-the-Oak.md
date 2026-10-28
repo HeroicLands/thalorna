@@ -1,6 +1,6 @@
 ---
 shortcode: elxmgt
-name: {full: Heart-of-the-Oak, aliases: [Might Elixir]}
+name: {full: Heart-of-the-Oak, en: [Might Elixir]}
 type: concoctiongear
 subType: elixir
 description: "Dense amber strength elixir; surges Strength by four points temporarily."

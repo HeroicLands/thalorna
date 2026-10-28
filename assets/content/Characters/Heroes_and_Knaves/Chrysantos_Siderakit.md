@@ -1,6 +1,6 @@
 ---
 shortcode: chrysntssdrkt
-name: {full: Fibakon Siderakit, given: Fibakon, clan: Siderakit, aliases: []}
+name: {full: Fibakon Siderakit, given: Fibakon, clan: Siderakit}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]

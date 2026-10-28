@@ -1,6 +1,6 @@
 ---
 shortcode: ixilanchalix
-name: {full: "Ritual: Ish'ilan Ch'alish", aliases: [Ish'ilan Ch'alish, The Sacred Star]}
+name: {full: "Ritual: Ish'ilan Ch'alish", en: [The Sacred Star], kiichek: [Ish'ilan Ch'alish]}
 type: skill
 subType: mystical
 tags: [itzani, faith-skill, draft]

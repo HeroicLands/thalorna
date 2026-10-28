@@ -1,6 +1,6 @@
 ---
 shortcode: thirdcmpct
-name: {full: The Third Compact, aliases: [The Third Janpoda Compact]}
+name: {full: The Third Compact, en: [The Third Janpoda Compact]}
 type: lore
 subType: history
 description: "The body of standing trade law the Shreshthins of Vedyara put to the polities at the Mahva-Melka of 320 AF, at the end of the crisis generation, which founded the Assembly of the Compact and the Merchant Collective."

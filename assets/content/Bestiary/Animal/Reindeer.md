@@ -1,6 +1,6 @@
 ---
 shortcode: reindeer
-name: {full: Reindeer, aliases: [Caribou]}
+name: {full: Reindeer, en: [Caribou]}
 type: being
 subType: creature
 description: "A hardy northern cervid in which both sexes grow antlers, supremely adapted to survive and sustain entire cultures in bitter arctic cold."

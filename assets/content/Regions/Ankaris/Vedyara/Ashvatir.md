@@ -1,6 +1,6 @@
 ---
 shortcode: ashvatir
-name: {full: Ashvatir, aliases: []}
+name: {full: Ashvatir}
 type: place
 subType: settlement
 description: "The horse village above the bow-fort, where the Academy of the Swift Hand keeps its mounts."

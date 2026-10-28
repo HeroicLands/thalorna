@@ -1,6 +1,6 @@
 ---
 shortcode: ptnpoig
-name: {full: Kingsbane, aliases: ["Potion, Poison, Great"]}
+name: {full: Kingsbane, en: ["Potion, Poison, Great"]}
 type: concoctiongear
 subType: exotic
 description: "Blackened tar-like liquid; deadly poison causing swift incapacitation."

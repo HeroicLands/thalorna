@@ -1,6 +1,6 @@
 ---
 shortcode: fivegrounds
-name: {full: The Five Grounds, aliases: []}
+name: {full: The Five Grounds}
 type: lore
 subType: literature
 description: "The lament of the march companies of Bhumipal for the kingdom of Marupal: five outer poems, one for each piece of ground on the march road from the spit at Sandyapur to the field of Lantustal and back to the burned town, sung in winter in the empty temple court of Ludrapur."
@@ -18,7 +18,7 @@ data:
     - place-sandyapur
     - affiliation-bhumipal
     - lore-bloodfield
-  language: vedyarlng
+  lang: vedy
   packFolder: vedyara
 ---
 

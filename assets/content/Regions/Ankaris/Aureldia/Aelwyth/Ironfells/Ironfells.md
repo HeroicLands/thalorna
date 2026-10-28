@@ -1,6 +1,6 @@
 ---
 shortcode: ironfells
-name: {full: The Ironfells, aliases: []}
+name: {full: The Ironfells}
 type: place
 subType: feature
 description: "The great eastern range of Aelwyth—running west to east across Stormveld's southern border, then south down the coast to break into the foothills above Dúnavarre, and holding the island's Khazari."

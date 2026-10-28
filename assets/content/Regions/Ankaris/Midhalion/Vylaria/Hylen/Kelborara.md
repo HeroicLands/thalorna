@@ -1,6 +1,6 @@
 ---
 shortcode: granaria
-name: {full: Kelborara, aliases: []}
+name: {full: Kelborara}
 type: place
 subType: settlement
 description: "Market Town"

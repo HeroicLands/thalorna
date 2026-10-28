@@ -1,6 +1,6 @@
 ---
 shortcode: brznlsvnmys
-name: {full: Brazenlas Vanamyes, aliases: []}
+name: {full: Brazenlas Vanamyes}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

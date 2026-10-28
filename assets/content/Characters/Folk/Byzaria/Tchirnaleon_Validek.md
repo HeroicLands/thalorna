@@ -1,6 +1,6 @@
 ---
 shortcode: tchirnaleonv
-name: {full: Chirnaleon Validek, aliases: [Captain Chirnaleon Validek, Captain Chirnaleon]}
+name: {full: Chirnaleon Validek, en: [Captain Chirnaleon Validek, Captain Chirnaleon]}
 type: being
 subType: npc
 description: Captain and leader of a slavering organization operating throughout the Bizarian League, who has marked Fileze Stenikot for death.

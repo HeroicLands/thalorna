@@ -1,6 +1,6 @@
 ---
 shortcode: ashenmere
-name: {full: Ashenmere, aliases: []}
+name: {full: Ashenmere}
 type: place
 subType: settlement
 description: "Border Town"

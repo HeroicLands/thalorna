@@ -1,6 +1,6 @@
 ---
 shortcode: lanthevileha
-name: {full: Lánthevile Halren, aliases: []}
+name: {full: Lánthevile Halren}
 type: being
 subType: npc
 description: A druid attached to a grove near several sites of Black Flame activity, who has been investigating the burned shrines and scorched clearings in the forests around Elanmere.

@@ -1,6 +1,6 @@
 ---
 shortcode: thebargain
-name: {full: The Bargain, aliases: [The Standing Lease]}
+name: {full: The Bargain, en: [The Standing Lease]}
 type: lore
 subType: history
 description: "In 330 BF, holding the dragons' dead, the Vylarian Republic offers the one thing only it can offer—their return—and the dragons' price is the war; the term runs by the year, renewed, and nothing about it is ever written down."

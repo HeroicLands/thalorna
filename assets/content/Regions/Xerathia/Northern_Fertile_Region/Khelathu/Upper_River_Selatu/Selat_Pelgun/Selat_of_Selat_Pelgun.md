@@ -1,6 +1,6 @@
 ---
 shortcode: selatsltplgn
-name: {full: The Selat of Selat-Pelgun, aliases: []}
+name: {full: The Selat of Selat-Pelgun}
 type: affiliation
 subType: polity
 description: "Caravan-head for the eastern desert roads; harvest-festivals and virility cults—one of the upper-river selatu of Au'Khelathu."

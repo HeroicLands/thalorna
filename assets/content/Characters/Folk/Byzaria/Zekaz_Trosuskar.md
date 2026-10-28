@@ -1,6 +1,6 @@
 ---
 shortcode: zekaztrosusk
-name: {full: Zekáz Trosuskar, aliases: [Sir Zekáz Trosuskar]}
+name: {full: Zekáz Trosuskar, en: [Sir Zekáz Trosuskar]}
 type: being
 subType: npc
 description: Once a fellow knight of the Blazing Oath, who turned traitor and now leads a faction within a rival Black Flame, named in Drazha Vezhnur, Knight of the Black Flame.

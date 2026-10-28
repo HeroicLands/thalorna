@@ -1,6 +1,6 @@
 ---
 shortcode: eastrnmrch
-name: {full: Eastern March, aliases: []}
+name: {full: Eastern March}
 type: place
 subType: region
 description: The Bizarian League's eastern frontier district—the mountain passes beyond Argirteikhos and the steppe margin below them, held by the Lord Commander and the League's joint army against the tribes of the Khazryn steppe.

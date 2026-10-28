@@ -1,6 +1,6 @@
 ---
 shortcode: thrldrvvrnhm
-name: {full: Thraldorv Vornheim, given: Thraldorv, clan: Vornheim, aliases: []}
+name: {full: Thraldorv Vornheim, given: Thraldorv, clan: Vornheim}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]

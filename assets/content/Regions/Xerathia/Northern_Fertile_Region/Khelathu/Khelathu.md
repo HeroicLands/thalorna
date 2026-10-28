@@ -1,6 +1,6 @@
 ---
 shortcode: empireakhlth
-name: {full: Empire of Au'Khelathu, aliases: []}
+name: {full: Empire of Au'Khelathu}
 type: affiliation
 subType: polity
 description: "Ancient continuous civilization of Zerathia's Northern Fertile Region—river-valley empire whose flood-cycle theology, priestly bureaucracy, and habit of digesting its own conquerors have outlasted every rival power on the continent."

@@ -1,6 +1,6 @@
 ---
 shortcode: humanflk
-name: {full: Human Folk, aliases: []}
+name: {full: Human Folk}
 type: lore
 subType: folk
 description: "The Human Folk"

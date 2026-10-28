@@ -1,6 +1,6 @@
 ---
 shortcode: hlrksbrnthr
-name: {full: Hálrikos Bránthira, given: Hálrikos, clan: Bránthira, aliases: []}
+name: {full: Hálrikos Bránthira, given: Hálrikos, clan: Bránthira}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, administration]

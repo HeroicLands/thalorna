@@ -1,6 +1,6 @@
 ---
 shortcode: vruthborg
-name: {full: Vruthborg, aliases: [The Ashen Jarl's Hold]}
+name: {full: Vruthborg, en: [The Ashen Jarl's Hold]}
 type: place
 subType: site
 description: "A jarl's mountain fortress in Norgaad's interior, above iron and silver workings, whose foundry chimney still smokes though no tally has come down from it since the winter its household was last seen."

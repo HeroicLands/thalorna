@@ -1,6 +1,6 @@
 ---
 shortcode: aldorvale
-name: {full: The Aldorvale, aliases: []}
+name: {full: The Aldorvale}
 type: place
 subType: region
 description: "The fertile heart of Aldorath and the breadbasket of Aelwyth—the grain country that feeds the island and makes the kingdom the largest power on it."

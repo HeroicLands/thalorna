@@ -1,6 +1,6 @@
 ---
 shortcode: nrgadhstry
-name: {full: Histories and Legends of Norgaad, aliases: []}
+name: {full: Histories and Legends of Norgaad}
 type: lore
 subType: history
 description: "Lost expeditions and a made guard in Norgaad, alongside tales of the sea, mountains and dead."

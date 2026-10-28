@@ -1,6 +1,6 @@
 ---
 shortcode: lantustal
-name: {full: Lantustal, aliases: [The Banner Ground]}
+name: {full: The Banner Ground, vedy: [lantustal]}
 type: place
 subType: site
 description: "The fan of stony ground where the Western Descent opens onto the march road and the march kingdom of Marupal died in 315 AF: a dread, the thinnest shorukshetra in Vedyara, and a cursed field whose road is barred at dusk."

@@ -1,6 +1,6 @@
 ---
 shortcode: katr
-name: {full: Katar, aliases: []}
+name: {full: Katar}
 type: weapongear
 description: "H-gripped forearm-blade for knuckle-punch; tavern brawler's forcing steel."
 tags: []

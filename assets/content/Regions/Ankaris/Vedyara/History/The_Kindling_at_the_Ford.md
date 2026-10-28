@@ -1,6 +1,6 @@
 ---
 shortcode: kindlford
-name: {full: The Kindling at the Ford, aliases: []}
+name: {full: The Kindling at the Ford}
 type: lore
 subType: history
 description: "About 290 BF the ascetic Bhasmadasa spent a season trying to burn the unburned ford of Olurtaran, kept the one fire that took, and carried its ember away; every ember of the Agmi-pantra descends from it."

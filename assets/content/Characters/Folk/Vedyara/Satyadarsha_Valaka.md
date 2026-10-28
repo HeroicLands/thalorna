@@ -1,6 +1,6 @@
 ---
 shortcode: satyadarshav
-name: {full: Satyadarsha Valaka, aliases: [Kulena Satyadarsha]}
+name: {full: Satyadarsha Valaka, en: [Kulena Satyadarsha]}
 type: being
 subType: npc
 description: The husband of Pritarika Padmadiksha, of a neighboring holding, killed in a hunting accident at fifty-five.

@@ -1,6 +1,6 @@
 ---
 shortcode: taletaqnrshq
-name: {full: Talet Akun'Rasheku, aliases: []}
+name: {full: Talet Akun'Rasheku}
 type: being
 subType: npc
 description: "Father to an architect, who taught his son to understand roofs as sculpture rather than shelter"

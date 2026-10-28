@@ -1,6 +1,6 @@
 ---
 shortcode: drottvargurrnk
-name: {full: "Drottvargur", aliases: []}
+name: {full: Drottvargur}
 type: lore
 subType: law
 description: "Put out of a devotional order of the faiths of the Ten, forfeiting its shelter and its purpose alike."

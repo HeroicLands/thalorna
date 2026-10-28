@@ -1,6 +1,6 @@
 ---
 shortcode: gada
-name: {full: Gada, aliases: []}
+name: {full: Gada}
 type: weapongear
 description: "Heavy spherical or flanged mace-head; champion's crushing blow."
 tags: []

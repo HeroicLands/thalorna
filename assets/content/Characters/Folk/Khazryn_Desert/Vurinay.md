@@ -1,6 +1,6 @@
 ---
 shortcode: vurinay
-name: {full: Vurinay, aliases: [Saint Vurinay the Ascendant, Saint Vurinay]}
+name: {full: Vurinay, en: [Saint Vurinay the Ascendant, Saint Vurinay]}
 type: being
 subType: npc
 description: A perfumer of the ancient age, styled Saint, said to have created a perfectly balanced fragrance, named in Kharanah Khafur.

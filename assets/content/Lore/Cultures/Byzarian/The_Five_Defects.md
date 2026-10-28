@@ -1,6 +1,6 @@
 ---
 shortcode: fivedefects
-name: {full: The Five Defects, aliases: [The Telling at the Road's Edge]}
+name: {full: The Five Defects, en: [The Telling at the Road's Edge]}
 type: lore
 subType: literature
 description: "The telling the clerks of the Merchant Hall give each year's new apprentices: the springs walled against the steppe host, five envoys at the plateau's edge who would not speak first, write alike or seal first, the commander of the springs who made each declare what his city lacked, the four bindings of the Compact, the Republic paid instead of fought, and the declaration the apprentices learn by heart."
@@ -17,7 +17,7 @@ data:
     - place-khryshteikhos2
     - place-thirstground
     - lore-byzarianclt
-  language: byzarnlng
+  lang: biza
 
 # terran_analog: "Foundation legends of trading leagues and city confederations, told city against city with each city flattering itself; the guild apprentice's instruction in the house's own history; Byzantine ceremonial's love of the order of precedence; and the declaration of a defect before sale from the commercial law of the eastern Mediterranean."
 ---

@@ -1,6 +1,6 @@
 ---
 shortcode: gauntlet
-name: {full: Gauntlet, aliases: []}
+name: {full: Gauntlet}
 type: mysticalability
 subType: arcaneincantation
 description: "Caster's fists harden; strikes with supernatural force and damage."

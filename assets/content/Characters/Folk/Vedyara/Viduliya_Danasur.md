@@ -1,6 +1,6 @@
 ---
 shortcode: viduliyadan
-name: {full: Viduliya Danasur, aliases: [High Priestess Viduliya]}
+name: {full: Viduliya Danasur, en: [High Priestess Viduliya]}
 type: being
 subType: npc
 description: High priestess of the Temple of Jnanasura, the grand temple of the knowledge deity, which has commissioned the work of Narava Tejanand.

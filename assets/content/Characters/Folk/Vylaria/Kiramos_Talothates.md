@@ -1,6 +1,6 @@
 ---
 shortcode: kiramostalot
-name: {full: Kiramos Talothates, aliases: [Prince Kiramos, Merchant Prince Kiramos]}
+name: {full: Kiramos Talothates, en: [Prince Kiramos, Merchant Prince Kiramos]}
 type: being
 subType: npc
 description: An ambiguous figure who may be legitimate or criminal and who contracts Harkis Baremides.

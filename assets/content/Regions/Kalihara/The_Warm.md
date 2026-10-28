@@ -1,6 +1,6 @@
 ---
 shortcode: sulvaan
-name: {full: The Warm, aliases: ["Sul'vaan"]}
+name: {full: The Warm, kali: [Sul'vaan]}
 type: place
 subType: structure
 description: "The great work of the Ithari on the summit of Kalihara's Massif, warm to the hand in every season and faintly lit after dark, which the custodians hold keeps the mountains of the Ring asleep."

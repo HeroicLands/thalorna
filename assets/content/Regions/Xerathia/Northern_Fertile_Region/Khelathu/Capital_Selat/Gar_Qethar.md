@@ -1,6 +1,6 @@
 ---
 shortcode: garqethar
-name: {full: Gar-Qethar, aliases: []}
+name: {full: Gar-Qethar}
 type: place
 subType: site
 description: "The warrens of Galezkara on the low, flood-prone ground: dense, poor, and built among and atop old ruins"

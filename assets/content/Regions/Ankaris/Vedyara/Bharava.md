@@ -1,6 +1,6 @@
 ---
 shortcode: bharavarivr
-name: {full: The Bharava, aliases: []}
+name: {full: The Bharava}
 type: place
 subType: feature
 description: "The eastern river—out of the ice above the Silver Gorges, through the gold highlands and the temple-controlled forests, to the coast; the pilgrim road runs its whole length."

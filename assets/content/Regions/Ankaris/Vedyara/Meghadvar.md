@@ -1,6 +1,6 @@
 ---
 shortcode: meghadvar
-name: {full: Meghadvar, aliases: [The Storm-Door]}
+name: {full: The Storm-Door, vedy: [meghadvar]}
 type: place
 subType: feature
 description: "The storm-door—the westernmost crossing of the wall, held by no fortress and no toll, blessed from a shrine-tower of the Svapnasari-sameja, and shut from below by the monsoon."

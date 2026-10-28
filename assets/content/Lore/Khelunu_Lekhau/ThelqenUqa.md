@@ -1,6 +1,6 @@
 ---
 shortcode: athenuqa
-name: {full: Thelqen'Uqa, aliases: []}
+name: {full: Thelqen'Uqa}
 type: lore
 subType: arcana
 description: "The disk in its heat: light, sight, kingship, vitality, the day."

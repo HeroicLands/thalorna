@@ -1,6 +1,6 @@
 ---
 shortcode: volsather
-name: {full: Volsater, aliases: []}
+name: {full: Volsater}
 type: place
 subType: settlement
 description: "Zuravlen's harbor at the foot of the cliff—fish, salt pans and the fast boats now carrying fresh peaches to markets no rider could reach, at the quiet expense of the baron's drying yards."

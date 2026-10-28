@@ -1,6 +1,6 @@
 ---
 shortcode: keelburning
-name: {full: The Burning of the Keel, aliases: [The Fire on the Headland]}
+name: {full: The Burning of the Keel, en: [The Fire on the Headland]}
 type: lore
 subType: literature
 description: "The song of the Song of the Ships that the rhapsodes of Thirenae sing at the Games when the cities tell their founding claims against one another: the seven ships coming down the coast, the storm night on the headland, the Veiled Dreamer's two roads, the first vote cast on the shore, the keel burned to keep the fire, and the city founded so that its first dead would have a city to receive him."
@@ -16,7 +16,7 @@ data:
     - affiliation-pelagora
     - lore-zunelasdty
     - lore-helioniteclt
-  language: helonclng
+  lang: helo
 
 # terran_analog: "The Homeric poems and the rhapsodes who recited them at Panhellenic festivals, for the long six-beat line, the fixed epithets, the extended simile, the invocation, the catalogue of ships and the hero's choice between a short glorious life and a long obscure one; the Athenian and other cities' rival claims inserted into the catalogue; and the Greek foundation hero, the oikist, whose tomb in the agora made him the city's first citizen."
 ---

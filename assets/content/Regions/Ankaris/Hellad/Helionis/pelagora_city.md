@@ -1,6 +1,6 @@
 ---
 shortcode: pelagora2
-name: {full: Pelagora, aliases: []}
+name: {full: Pelagora}
 type: place
 subType: settlement
 description: "The naval city of Helionis, a loud democracy of shipwrights and citizen-sailors built around one of the finest harbors on the central sea."

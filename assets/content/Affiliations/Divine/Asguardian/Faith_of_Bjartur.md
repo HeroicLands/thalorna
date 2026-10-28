@@ -1,6 +1,6 @@
 ---
 shortcode: bjartur
-name: {full: Faith of Bjart, aliases: [The Luminous Path]}
+name: {full: Faith of Bjart, en: [The Luminous Path]}
 type: affiliation
 subType: faithtradition
 tags: [asguardian]

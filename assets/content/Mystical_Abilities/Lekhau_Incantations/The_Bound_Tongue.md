@@ -1,6 +1,6 @@
 ---
 shortcode: boundtongue
-name: {full: The Bound Tongue, aliases: []}
+name: {full: The Bound Tongue}
 type: mysticalability
 subType: arcaneincantation
 description: "Prevents the subject from uttering a named secret, by any means, until released."

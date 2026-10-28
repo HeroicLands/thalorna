@@ -1,6 +1,6 @@
 ---
 shortcode: velysara
-name: {full: Velisara, aliases: []}
+name: {full: Velisara}
 type: place
 subType: settlement
 description: "Provincial City"

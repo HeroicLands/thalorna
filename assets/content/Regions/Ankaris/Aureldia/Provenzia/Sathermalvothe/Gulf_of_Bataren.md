@@ -1,6 +1,6 @@
 ---
 shortcode: batarengulf
-name: {full: Gulf of Bataren, aliases: []}
+name: {full: Gulf of Bataren}
 type: place
 subType: feature
 description: "The great sheltered bay of Provenzia's northwestern shore—the one deep harbor on an ocean coast otherwise made of cliffs, and the kingdom's whole window on the northern sea-roads."

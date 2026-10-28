@@ -1,6 +1,6 @@
 ---
 shortcode: probe
-name: {full: Probe, aliases: []}
+name: {full: Probe}
 type: mysticalability
 subType: arcaneincantation
 description: "Scrying magic searching distant location; reveals conditions and inhabitants."

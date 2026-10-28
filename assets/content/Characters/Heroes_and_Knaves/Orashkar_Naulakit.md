@@ -1,6 +1,6 @@
 ---
 shortcode: orshkrnlkt
-name: {full: Órashkar Naulakit, given: Órashkar, clan: Naulakit, aliases: []}
+name: {full: Órashkar Naulakit, given: Órashkar, clan: Naulakit}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, common-folk]

@@ -1,6 +1,6 @@
 ---
 shortcode: khelathpnthn
-name: {full: Khelathi Pantheon, aliases: [The Twelve of the River]}
+name: {full: Khelathi Pantheon, en: [The Twelve of the River]}
 type: affiliation
 subType: faithtradition
 description: "Ancient faith of Au'Khelathu built on the Weighing of a life's two accounts, the annual flood's cycle of renewal, and the divine authority of the Gar-Au's line."

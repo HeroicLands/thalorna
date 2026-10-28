@@ -1,6 +1,6 @@
 ---
 shortcode: asguard
-name: {full: Asguard, aliases: [The Gods' World]}
+name: {full: Asguard, en: [The Gods' World]}
 type: place
 subType: world
 description: "The world the Ten hold and the dead are gathered into—a plane rather than a planet, carrying Eldheim, Valsal, Solvangur and the island Nulthey."

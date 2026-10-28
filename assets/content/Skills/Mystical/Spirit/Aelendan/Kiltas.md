@@ -1,6 +1,6 @@
 ---
 shortcode: kiltassprt
-name: {full: "Kiltas Spirit Power", aliases: ["Kiltas, the Red Fox of the Lower Wood"]}
+name: {full: Kiltas Spirit Power, en: ["Kiltas, the Red Fox of the Lower Wood"]}
 type: skill
 subType: mystical
 description: "Standing with Kiltas, the Red Fox of the Lower Wood—what this allied Kindred is met, asked and bargained with."

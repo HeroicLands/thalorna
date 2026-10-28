@@ -1,6 +1,6 @@
 ---
 shortcode: tiger
-name: {full: Tiger, aliases: []}
+name: {full: Tiger}
 type: being
 subType: creature
 description: "The world's largest cat, a solitary ambush hunter sitting atop every food chain across jungle, grassland, and river margin."

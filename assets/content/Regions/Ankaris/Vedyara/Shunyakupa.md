@@ -1,6 +1,6 @@
 ---
 shortcode: shunyakupa
-name: {full: Shunyakupa, aliases: [The Empty Well]}
+name: {full: The Empty Well, vedy: [shunyakupa]}
 type: place
 subType: site
 description: "A great lineage's well on the eastern plateau, filled with stones by its own keepers about 440 AF when the crown failed to defend it, among the abandoned well-villages of the dead droveway the Empty Circuit left."

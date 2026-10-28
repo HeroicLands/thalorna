@@ -1,6 +1,6 @@
 ---
 shortcode: tarveniaadvguide
-name: {full: Tarvénia Adventurer's Guide, aliases: []}
+name: {full: Tarvénia Adventurer's Guide}
 type: doc
 subType: settingguide
 description: A short player and GM introduction to Tarvénia—its kingdoms and free city, its mercenary companies and the public word, and the ways a campaign begins there.

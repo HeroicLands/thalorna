@@ -1,6 +1,6 @@
 ---
 shortcode: venradzrdn
-name: {full: Venrad Azardan, given: Venrad, clan: Azardan, aliases: []}
+name: {full: Venrad Azardan, given: Venrad, clan: Azardan}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]

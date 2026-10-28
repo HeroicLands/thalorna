@@ -1,6 +1,6 @@
 ---
 shortcode: zttyblnn
-name: {full: Zattuya Balinuni, aliases: []}
+name: {full: Zattuya Balinuni}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

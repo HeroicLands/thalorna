@@ -1,6 +1,6 @@
 ---
 shortcode: motheryesno
-name: {full: The Mother's Yes and No, aliases: [How the First Stone Was Set]}
+name: {full: The Mother's Yes and No, en: [How the First Stone Was Set]}
 type: lore
 subType: literature
 description: "The winter tale the wise-women of the mountain villages tell of the Mother beneath the later gods: the mountains that were there before the wheel, the two words she has, the two shepherds of the high meadow who went into her cave and came out with a boundary, the stone she set between them and the son who moved it three times, and the day she gets up."
@@ -15,7 +15,7 @@ data:
     - affiliation-brazemas
     - affiliation-ardavon
     - lore-pelwarmigr
-  language: tarvenlng
+  lang: tarv
 
 # terran_analog: "The Basque goddess Mari and the tales told of her: a mother who lives in the mountain caves and crosses between peaks as fire, sends the hail, punishes the lie and the broken word, is answered plainly and never sat before, and is left by walking out facing her; with the boundary stone sworn upon, and the end of the world held back while the custom is kept."
 ---

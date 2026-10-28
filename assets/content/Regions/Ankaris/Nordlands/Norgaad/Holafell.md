@@ -1,6 +1,6 @@
 ---
 shortcode: holafell
-name: {full: Holafell, aliases: []}
+name: {full: Holafell}
 type: place
 subType: site
 description: "The oldest hov of Hrimthur, a sanctuary cut into the rock of a Norgaad fell, where the Wound is renewed at the turn of every winter."

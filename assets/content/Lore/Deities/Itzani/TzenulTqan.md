@@ -1,6 +1,6 @@
 ---
 shortcode: tzenultqandty
-name: {full: Ts'en'ul Tq'an, aliases: []}
+name: {full: Ts'en'ul Tq'an}
 type: lore
 subType: deity
 description: "The Sun at the World's Edge, sovereign of the Itsani Fifth Age, whose sunrise is bought with blood and never given freely."

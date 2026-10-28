@@ -1,6 +1,6 @@
 ---
 shortcode: turkeyttm
-name: {full: Turkey, aliases: [Turkey Totem]}
+name: {full: Turkey, en: [Turkey Totem]}
 type: lore
 subType: bestiary
 description: "The turkey as a totemic ideal, and the human character it describes."

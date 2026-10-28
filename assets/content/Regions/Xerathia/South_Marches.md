@@ -1,6 +1,6 @@
 ---
 shortcode: sthmrchsrgn
-name: {full: South Marches, aliases: [The Marches]}
+name: {full: South Marches, en: [The Marches]}
 type: place
 subType: region
 description: The dry borderlands south of Bethua—hot chaparral and scrub between the matriarchy's settled frontier and the rainforest margin, ranged by pastoral nomad clans who pay Bethua tribute and keep their own ways.

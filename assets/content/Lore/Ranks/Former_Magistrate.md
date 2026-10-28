@@ -1,6 +1,6 @@
 ---
 shortcode: formermagrnk
-name: {full: Former Magistrate, aliases: []}
+name: {full: Former Magistrate}
 type: lore
 subType: law
 description: "Having held a body's chief magistracy and laid it down, and keeping the weight of it ever after."

@@ -1,6 +1,6 @@
 ---
 shortcode: tholmargutha
-name: {full: Tholmar Gútharen, aliases: [Captain Tholmar Gútharen, Captain Tholmar]}
+name: {full: Tholmar Gútharen, en: [Captain Tholmar Gútharen, Captain Tholmar]}
 type: being
 subType: npc
 description: A rival officer commanding the neighboring garrison sector, ambitious and politically connected, named in Társila Torvaleth.

@@ -1,6 +1,6 @@
 ---
 shortcode: zeshegezu2
-name: {full: Zeshegezu, aliases: [Zeshe]}
+name: {full: Zeshegezu, khel: [zeshe]}
 type: being
 subType: npc
 description: "A master scribe and former rival who has come to respect the man he competed with, and collaborates with him on matters of legal interpretation"

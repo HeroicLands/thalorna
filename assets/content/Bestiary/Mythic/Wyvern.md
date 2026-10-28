@@ -1,6 +1,6 @@
 ---
 shortcode: wyvern
-name: {full: Wyvern, aliases: []}
+name: {full: Wyvern}
 type: being
 subType: creature
 description: "A two-legged, dragon-like flier of mountain peaks and high plateaus, lacking true draconic cunning but formidably lethal on the wing."

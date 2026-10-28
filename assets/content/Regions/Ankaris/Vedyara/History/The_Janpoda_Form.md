@@ -1,6 +1,6 @@
 ---
 shortcode: janpdform
-name: {full: The Janpoda Form, aliases: []}
+name: {full: The Janpoda Form}
 type: lore
 subType: history
 description: "The janpodas' own account of their beginning: a form of village government around a temple hall, unbroken for nearly three thousand years by their reckoning and dated by nobody else's."

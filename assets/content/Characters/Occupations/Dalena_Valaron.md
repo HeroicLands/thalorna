@@ -1,6 +1,6 @@
 ---
 shortcode: dalenavlrn
-name: {full: Dálena Valaron, aliases: []}
+name: {full: Dálena Valaron}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

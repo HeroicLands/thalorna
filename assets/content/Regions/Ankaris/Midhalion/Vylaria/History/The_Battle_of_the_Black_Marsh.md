@@ -1,6 +1,6 @@
 ---
 shortcode: blackmarshbtl
-name: {full: The Battle of the Black Marsh, aliases: [The Black Marsh, The Recovery of the Eagle]}
+name: {full: The Battle of the Black Marsh, en: [The Black Marsh, The Recovery of the Eagle]}
 type: lore
 subType: history
 description: "In the spring of 520 AF the Karsan Soldan Korvan pins the largest Varokh host the hunger raids sent south against the water below the Moktur passes and destroys it to the last man, recovering the Pelsan Hilvan's eagle and earning the gold band its name carries."

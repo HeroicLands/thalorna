@@ -1,6 +1,6 @@
 ---
 shortcode: vithgard
-name: {full: Vithgard, aliases: []}
+name: {full: Vithgard}
 type: place
 subType: region
 description: "The land of the Kingdom of Vithgard, a small western coastal realm beside Nordheim."

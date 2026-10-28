@@ -1,6 +1,6 @@
 ---
 shortcode: vraldmylbral
-name: {full: Vraldmil Braldaruk, aliases: [Lord Vraldmil Braldaruk]}
+name: {full: Vraldmil Braldaruk, en: [Lord Vraldmil Braldaruk]}
 type: being
 subType: npc
 description: A wealthy noble with an appreciation for fine art and textiles who has commissioned tapestries from Glirvrinna Snarvumak.

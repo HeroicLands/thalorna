@@ -1,6 +1,6 @@
 ---
 shortcode: torvshmznd
-name: {full: Torvash Mazanid, given: Torvash, clan: Mazanid, aliases: []}
+name: {full: Torvash Mazanid, given: Torvash, clan: Mazanid}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]

@@ -1,6 +1,6 @@
 ---
 shortcode: polthara
-name: {full: Polthara, aliases: []}
+name: {full: Polthara}
 type: place
 subType: settlement
 description: "Town"

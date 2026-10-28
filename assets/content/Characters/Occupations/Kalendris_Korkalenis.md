@@ -1,6 +1,6 @@
 ---
 shortcode: klndrskrklns
-name: {full: Kalendris Korkalenis, aliases: []}
+name: {full: Kalendris Korkalenis}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

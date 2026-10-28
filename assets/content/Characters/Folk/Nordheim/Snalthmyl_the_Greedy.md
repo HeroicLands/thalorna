@@ -2,7 +2,7 @@
 shortcode: snalthmylthe
 name:
   full: Snalthmil the Greedy
-  aliases: [Merchant Lord Snalthmil the Greedy, Merchant Lord Snalthmil]
+  en: [Merchant Lord Snalthmil the Greedy, Merchant Lord Snalthmil]
 type: being
 subType: npc
 description: A crooked trader whose smuggling operations Vruldorv Drottgar once refused to protect.

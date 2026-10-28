@@ -1,6 +1,6 @@
 ---
 shortcode: taranaghat
-name: {full: Taranaghat, aliases: []}
+name: {full: Taranaghat}
 type: place
 subType: settlement
 description: "The crossing village where the Sarveda leaves the hills, and the only place a loaded cart gets over the river above the bow-fort."

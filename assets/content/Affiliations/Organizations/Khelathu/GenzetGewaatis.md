@@ -1,6 +1,6 @@
 ---
 shortcode: genzetgewats
-name: {full: Genzet'Gewa'atis, aliases: []}
+name: {full: Genzet'Gewa'atis}
 type: affiliation
 subType: governmental
 description: The council of the temple of Gewa'atis, which governs the god's holdings and the voyages made under his protection

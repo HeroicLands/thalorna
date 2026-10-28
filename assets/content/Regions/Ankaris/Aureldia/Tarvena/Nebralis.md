@@ -1,6 +1,6 @@
 ---
 shortcode: nebralis
-name: {full: Nebralis, aliases: []}
+name: {full: Nebralis}
 type: place
 subType: settlement
 description: "Port Town"

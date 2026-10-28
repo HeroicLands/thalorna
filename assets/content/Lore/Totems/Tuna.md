@@ -1,6 +1,6 @@
 ---
 shortcode: tunattm
-name: {full: Tuna, aliases: [Tuna Totem]}
+name: {full: Tuna, en: [Tuna Totem]}
 type: lore
 subType: bestiary
 description: "The tuna as a totemic ideal, and the human character it describes."

@@ -1,6 +1,6 @@
 ---
 shortcode: vylndrcrwn
-name: {full: The Raising of the Vyalendri Crown, aliases: []}
+name: {full: The Raising of the Vyalendri Crown}
 type: lore
 subType: history
 description: "About 125 BF Nilapati, a master of the indigo valleys, took the cloth city of Vyalendra and was crowned in it; his line laid out the palace quarter, the audience hall and the street-plan the shrena republic still lives in, and lasted eleven reigns."

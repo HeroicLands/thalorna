@@ -1,6 +1,6 @@
 ---
 shortcode: zmrhdhsncnttns
-name: {full: Zemor Hodhis Incantations, aliases: []}
+name: {full: Zemor Hodhis Incantations}
 type: lore
 subType: arcana
 tags: [lore, arcane, zemor-hodhis, draft]

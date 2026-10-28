@@ -1,6 +1,6 @@
 ---
 shortcode: gnomonrod
-name: {full: "Surta Temple Gnomon-Rod", aliases: []}
+name: {full: Surta Temple Gnomon-Rod}
 type: miscgear
 description: "The year-sighting instrument of the Surta temple's forecourt, read against the parapet marks to declare the orthodox civil year."
 tags: []

@@ -1,6 +1,6 @@
 ---
 shortcode: sweetwellmadu
-name: {full: A Cup Before Questions, aliases: []}
+name: {full: A Cup Before Questions}
 type: scenario
 subType: adventure
 description: "A servant offers a cup at the gate of a white-stone fort at sunset, and caravan-masters on the dry road beyond warn travelers to drink only from their own skins."

@@ -1,6 +1,6 @@
 ---
 shortcode: thalurozenot
-name: {full: Thaluro Zenothis, aliases: [Archbishop Thaluro Zenothis, Archbishop Thaluro]}
+name: {full: Thaluro Zenothis, en: [Archbishop Thaluro Zenothis, Archbishop Thaluro]}
 type: being
 subType: npc
 description: The Árdavonian prelate at Polthamis, who confirms Father Ostaran Dorvás's arbitrations under seal.

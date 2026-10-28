@@ -1,6 +1,6 @@
 ---
 shortcode: klhrbowl
-name: {full: The Great Bowl, aliases: [The Bowl]}
+name: {full: The Great Bowl, en: [The Bowl]}
 type: place
 subType: feature
 description: "The great bowl at the center of Kalihara, enclosed by the Ring and holding the island's lake and the massif that stands in it."

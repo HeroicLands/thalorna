@@ -1,6 +1,6 @@
 ---
 shortcode: imrkszrznds
-name: {full: Imarakis Zerazendis, aliases: []}
+name: {full: Imarakis Zerazendis}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

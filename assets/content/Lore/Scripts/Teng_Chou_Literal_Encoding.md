@@ -1,6 +1,6 @@
 ---
 shortcode: zxxtengchouenc
-name: {full: Teng Chou Literal Encoding, aliases: []}
+name: {full: Teng Chou Literal Encoding}
 type: doc
 subType: reference
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: itsaniclndr
-name: {full: The Itsani Calendar, aliases: []}
+name: {full: The Itsani Calendar}
 type: lore
 subType: calendar
 description: "The four counts the Itsani priesthood keeps together: the Ts'en year of eighteen twenty-day months and five liminal days, the 260-day Tq'an count of twenty day-signs, the Ts'uqal moon, the Ish'ilan count of the years of the Fifth Age, and the fifty-two-year round that the Living Flame closes."

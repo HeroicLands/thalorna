@@ -1,6 +1,6 @@
 ---
 shortcode: nghtwghtcncl
-name: {full: Nightwight Council, aliases: []}
+name: {full: Nightwight Council}
 type: affiliation
 subType: order
 description: "A cabal of Helspawn lords who serve Nahild, with the necromancer Hvirnorv the Deathmage as its most powerful member."

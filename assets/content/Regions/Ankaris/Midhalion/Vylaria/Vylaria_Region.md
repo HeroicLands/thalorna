@@ -1,6 +1,6 @@
 ---
 shortcode: vylariargn
-name: {full: Vylaria Region, aliases: []}
+name: {full: Vylaria Region}
 type: place
 subType: region
 description: "The heartland of the Vylarian Empire on the northern shore of the Vylarian Sea—four imperial provinces and the independent Holy Kingdom of Nartun, with the Áelendan-held Kervaron Spine on its western frontier."

@@ -1,6 +1,6 @@
 ---
 shortcode: ritualshebzt
-name: {full: "Ritual: Shebazet", aliases: []}
+name: {full: "Ritual: Shebazet"}
 type: skill
 subType: mystical
 tags: [khelathi, faith-skill, draft]

@@ -1,6 +1,6 @@
 ---
 shortcode: leonrik
-name: {full: Lienrik, aliases: []}
+name: {full: Lienrik}
 type: place
 subType: region
 description: "The land of the Kingdom of Lienrik—the central-southern lowlands of Tarvénia between the mountains and the coast, the richest farmland in the west."

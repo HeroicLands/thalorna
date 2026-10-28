@@ -1,6 +1,6 @@
 ---
 shortcode: glmfng
-name: {full: Gloomfang, aliases: []}
+name: {full: Gloomfang}
 type: being
 subType: creature
 description: "A made rodent-thing that hunts deep caverns in hive-minded packs, overwhelming prey through numbers and coordinated viciousness."

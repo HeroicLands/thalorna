@@ -1,6 +1,6 @@
 ---
 shortcode: crmsyndctsthlrn
-name: {full: Crime Syndicates of Thalorna, aliases: []}
+name: {full: Crime Syndicates of Thalorna}
 type: affiliation
 subType: criminal
 description: "Overview of competitive regional criminal syndicates—fragmented underworld where profit drives constantly shifting alliances and violent territorial disputes."

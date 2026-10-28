@@ -1,6 +1,6 @@
 ---
 shortcode: edithwlfrd
-name: {full: Edrun Wolford, aliases: []}
+name: {full: Edrun Wolford}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]

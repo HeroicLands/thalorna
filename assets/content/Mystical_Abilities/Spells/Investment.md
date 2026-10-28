@@ -1,6 +1,6 @@
 ---
 shortcode: invstmnt
-name: {full: Investment, aliases: []}
+name: {full: Investment}
 type: mysticalability
 subType: arcaneincantation
 description: "Ritual binding substantial arcane energy into vessel; months-long persistence."

@@ -1,6 +1,6 @@
 ---
 shortcode: dumarsrfrs
-name: {full: Dumares Rafiros, aliases: []}
+name: {full: Dumares Rafiros}
 type: being
 subType: npc
 tags: [todo, draft, clergy]

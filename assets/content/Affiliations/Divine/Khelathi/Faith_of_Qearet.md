@@ -1,6 +1,6 @@
 ---
 shortcode: qearet
-name: {full: Faith of Qe'aret, aliases: []}
+name: {full: Faith of Qe'aret}
 type: affiliation
 subType: faithtradition
 description: "Order."

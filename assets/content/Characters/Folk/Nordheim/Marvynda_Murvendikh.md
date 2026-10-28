@@ -1,6 +1,6 @@
 ---
 shortcode: marvyndamurv
-name: {full: Marvinda Murvendik, aliases: [Captain Marvinda Murvendik]}
+name: {full: Marvinda Murvendik, en: [Captain Marvinda Murvendik]}
 type: being
 subType: npc
 description: A rival soldier of approximately equal skill who has competed with Gnaldurthann Solvargur for recognition.

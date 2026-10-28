@@ -1,6 +1,6 @@
 ---
 shortcode: eidhond
-name: {full: The Order of the Sworn Hand, aliases: [Eidhond, The Sworn Hands, The White Wand]}
+name: {full: The Order of the Sworn Hand, en: [The Sworn Hands, The White Wand], nord: [eidhond]}
 type: affiliation
 subType: order
 description: "Sworn warrior-judges of Eidgar—itinerant arbiters and executors of judgment across the Nordlands, bound to give the right ruling regardless of who suffers from it."

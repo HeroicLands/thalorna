@@ -1,6 +1,6 @@
 ---
 shortcode: shunydvar
-name: {full: Shunyadvar, aliases: [The Empty Door]}
+name: {full: The Empty Door, vedy: [shunyadvar]}
 type: place
 subType: site
 description: "The standing wall on the col of the unblessed road, pierced by one smooth oval that has never been seen closed, with nothing built around it and nothing on the far side but more col."

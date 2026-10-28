@@ -1,6 +1,6 @@
 ---
 shortcode: garqeltu
-name: {full: Gar-Qeltu, aliases: []}
+name: {full: Gar-Qeltu}
 type: affiliation
 subType: lineage
 description: The pearl-divers' house, dissolved by the Gar-Au's word when its charter lapsed—the last major dissolution anyone can name, and the example every guild master is reminded of

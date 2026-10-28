@@ -1,6 +1,6 @@
 ---
 shortcode: arevynlydr
-name: {full: Árevin Lidren, given: Árevin, clan: Lidren, aliases: []}
+name: {full: Árevin Lidren, given: Árevin, clan: Lidren}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]

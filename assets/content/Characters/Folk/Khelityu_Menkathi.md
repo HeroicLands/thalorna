@@ -1,6 +1,6 @@
 ---
 shortcode: khelitymnkth
-name: {full: Khelityu Menkathi, aliases: []}
+name: {full: Khelityu Menkathi}
 type: being
 subType: npc
 description: "Master of the Zeghet'Nelgu, whose pronouncements have grown difficult to parse"

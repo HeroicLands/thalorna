@@ -1,6 +1,6 @@
 ---
 shortcode: failfloods
-name: {full: The Failing Floods, aliases: []}
+name: {full: The Failing Floods}
 type: lore
 subType: history
 description: "From about 256 to 268 AF the river rose short year after year, and the last Gar-Au of the struck house hid the famine by falsifying the Measure, hoarding the temple grain and killing anyone who spoke the word hunger."

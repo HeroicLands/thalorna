@@ -1,6 +1,6 @@
 ---
 shortcode: furnaceashnjarl
-name: {full: The Furnace of the Ashen Jarl, aliases: []}
+name: {full: The Furnace of the Ashen Jarl}
 type: scenario
 subType: adventure
 description: "Snow closes the pass, and the only shelter is a dead jarl's fortress whose gate is warm and whose foundry has not stopped hammering."

@@ -1,6 +1,6 @@
 ---
 shortcode: zelgeru
-name: {full: The Zelgeru, aliases: []}
+name: {full: The Zelgeru}
 type: place
 subType: region
 description: "The great temple-estates of the empire, each with its granaries, workshops and tenant-villages—religious, economic and political institutions rivalling the Gar-Au's palace in power"

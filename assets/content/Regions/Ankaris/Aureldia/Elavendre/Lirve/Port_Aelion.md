@@ -1,6 +1,6 @@
 ---
 shortcode: portaelion
-name: {full: Port Aelion, aliases: []}
+name: {full: Port Aelion}
 type: place
 subType: settlement
 description: "Coastal Town"

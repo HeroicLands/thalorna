@@ -1,6 +1,6 @@
 ---
 shortcode: zhaosoudty
-name: {full: Zhaosou, aliases: []}
+name: {full: Zhaosou}
 type: lore
 subType: deity
 description: "The Unsorted—a Youweng demon lord of the Tengwou Rong Lei, holding confusion and the tiles that fall out of every order."

@@ -1,6 +1,6 @@
 ---
 shortcode: osketlng
-name: {full: Osket Language, aliases: []}
+name: {full: Osket Language}
 type: skill
 subType: language
 description: "The tongue of the guide-people of the western and central Grazian crossings—related to nothing spoken in any lowland, and learned by outsiders almost never."

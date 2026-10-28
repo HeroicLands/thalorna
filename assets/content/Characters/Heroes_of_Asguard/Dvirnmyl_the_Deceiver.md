@@ -1,6 +1,6 @@
 ---
 shortcode: dvrnmyldcvr
-name: {full: Dvirnmil the Deceiver, given: Dvirnmil, aliases: [the Deceiver]}
+name: {full: Dvirnmil the Deceiver, given: Dvirnmil, en: [the Deceiver]}
 type: being
 subType: character
 tags: [hero, heroes-of-asguard, unguilded, underworld]

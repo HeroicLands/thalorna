@@ -1,6 +1,6 @@
 ---
 shortcode: nyalbdrm
-name: {full: Nyáluban Drum-Speech, aliases: [Drum-Speech, Drum-Speaking]}
+name: {full: Nyáluban Drum-Speech, en: [Drum-Speech, Drum-Speaking]}
 type: skill
 subType: language
 description: "The drum register of Nyáluban—tonal melody struck rather than spoken, carrying names, summons and genealogies twenty kilometers."

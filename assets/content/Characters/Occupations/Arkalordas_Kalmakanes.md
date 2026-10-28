@@ -1,6 +1,6 @@
 ---
 shortcode: arklrdsklmkns
-name: {full: Arkalordas Kalmakanes, aliases: []}
+name: {full: Arkalordas Kalmakanes}
 type: being
 subType: npc
 tags: [draft, common-folk]

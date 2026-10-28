@@ -1,6 +1,6 @@
 ---
 shortcode: tirnuhall
-name: {full: The Silenced Hall of Tirnugram, aliases: [The Silenced Hall]}
+name: {full: The Silenced Hall of Tirnugram, en: [The Silenced Hall]}
 type: place
 subType: site
 description: "The roofless temple hall of a janpoda burned with its sabhra inside by the conch-door adventurer about 320 AF, its doors bricked up by order of the Melka and its bronze bell still hanging unrung in the gate."

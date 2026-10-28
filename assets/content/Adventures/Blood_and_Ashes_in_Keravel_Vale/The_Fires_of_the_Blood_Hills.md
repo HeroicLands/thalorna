@@ -1,6 +1,6 @@
 ---
 shortcode: firsbldhls
-name: {full: The Fires of the Blood Hills, aliases: []}
+name: {full: The Fires of the Blood Hills}
 type: scenario
 subType: adventure
 tags: [blood-and-ashes-in-ceravel-vale]

@@ -1,6 +1,6 @@
 ---
 shortcode: bbdnblgnm
-name: {full: Bibudan Belginum, aliases: []}
+name: {full: Bibudan Belginum}
 type: being
 subType: npc
 tags: [draft, soldiery]

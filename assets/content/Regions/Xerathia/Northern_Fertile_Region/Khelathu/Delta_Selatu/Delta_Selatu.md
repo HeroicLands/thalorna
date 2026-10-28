@@ -1,6 +1,6 @@
 ---
 shortcode: deltaselatu
-name: {full: The Delta Selatu, aliases: [The Delta Selatu of Au'Khelathu]}
+name: {full: The Delta Selatu, en: [The Delta Selatu of Au'Khelathu]}
 type: affiliation
 subType: polity
 description: "The wealthiest and most cosmopolitan class of Khelathi selatu—the river-mouth provinces where the great river fans into the sea, controlling the empire's international trade, its finest garden-farmland, and its polyglot ports."

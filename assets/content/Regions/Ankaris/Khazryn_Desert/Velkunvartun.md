@@ -1,6 +1,6 @@
 ---
 shortcode: velkunvartun
-name: {full: Veshkunvartun, aliases: [The Gate of Veshkun, The Barred Gate]}
+name: {full: Veshkunvartun, en: [The Gate of Veshkun, The Barred Gate]}
 type: place
 subType: site
 description: "The gate-court of old Vahurdash, restored as the night gate of the settlement that lives among the ruins: a cedar door hung back in its frame, barred every dusk against a knocking that has not once come from a living hand."

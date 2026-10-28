@@ -1,6 +1,6 @@
 ---
 shortcode: thrunhamarr
-name: {full: Thrúnhamarr, aliases: []}
+name: {full: Thrúnhamarr}
 type: lore
 subType: theology
 description: "Thrunvald’s legendary hammer, a weapon of cosmic defense and a sign of protection and blessing."

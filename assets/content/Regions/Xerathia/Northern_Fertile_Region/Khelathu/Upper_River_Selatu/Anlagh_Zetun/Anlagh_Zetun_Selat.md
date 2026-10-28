@@ -1,6 +1,6 @@
 ---
 shortcode: anlaghztnslt
-name: {full: Anlagh-Zetun Selat, aliases: []}
+name: {full: Anlagh-Zetun Selat}
 type: place
 subType: region
 description: "The great granary of Au'Khelathu—the broad flood-silt wheatlands, deep granaries and river-port of the empire's fullest storehouse, the land of the Selat of Anlagh-Zetun."

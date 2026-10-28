@@ -1,6 +1,6 @@
 ---
 shortcode: kherzulakhem
-name: {full: Kherzulakhem, aliases: []}
+name: {full: Kherzulakhem}
 type: place
 subType: settlement
 description: "A hunters' camp at a small oasis near the Khazryn frontier, where trackers from both deserts water, trade hides and keep the Laws of the Well."

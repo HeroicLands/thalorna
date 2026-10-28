@@ -1,6 +1,6 @@
 ---
 shortcode: bethuasep
-name: {full: The Separation of Bethua, aliases: []}
+name: {full: The Separation of Bethua}
 type: lore
 subType: history
 description: "About 615 AF, under the queen Meqes XI, Bethua won its war of separation from its Helonic metropole with Khelathi gold, engineers and loans, and rebuilt its treasury and water corps on Khelathi models."

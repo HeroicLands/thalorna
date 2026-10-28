@@ -1,6 +1,6 @@
 ---
 shortcode: hnirvmylwise
-name: {full: Hnirmil the Wise, given: Hnirmil, aliases: [the Wise]}
+name: {full: Hnirmil the Wise, given: Hnirmil, en: [the Wise]}
 type: being
 subType: character
 tags: [paragon, heroes-of-asguard, mages]

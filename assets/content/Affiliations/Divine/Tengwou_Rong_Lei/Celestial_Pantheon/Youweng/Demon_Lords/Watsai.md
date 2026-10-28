@@ -1,6 +1,6 @@
 ---
 shortcode: watsai
-name: {full: Watsai, aliases: [The Forger of False Records, The Counterfeit Scribe]}
+name: {full: The Forger of False Records, en: [The Counterfeit Scribe], tant: [Watsai]}
 type: affiliation
 subType: criminal
 description: "Lies."

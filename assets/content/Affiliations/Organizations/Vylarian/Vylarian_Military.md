@@ -2,7 +2,7 @@
 shortcode: vylrnmltry
 name:
   full: The Vylarian Military
-  aliases: [The Imperial Army of Vylaria, The Legions of the Orzas, The Legions]
+  en: [The Imperial Army of Vylaria, The Legions of the Orzas, The Legions]
 type: affiliation
 subType: venture
 description: "The Vylarian Empire's legion-based military—organized in two parallel tracks, the purchased-commission nobility and the pure-meritocracy career soldiery, bridged at the Vallar rank and bound together by an institutional culture that treats every junior noble as the pupil of his unit's senior centurion."

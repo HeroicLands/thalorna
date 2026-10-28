@@ -2,7 +2,8 @@
 shortcode: thursborn
 name:
   full: The Giant's Children
-  aliases: [Thursborn, The Children of the First Frost, The Bonebreakers]
+  en: [The Children of the First Frost, The Bonebreakers]
+  nord: [thursborn]
 type: affiliation
 subType: order
 description: "Initiatic warrior brotherhood of Hrimthur—devotees of the Rime-Giant the world was cut from, sworn to wield the violence that first made it."

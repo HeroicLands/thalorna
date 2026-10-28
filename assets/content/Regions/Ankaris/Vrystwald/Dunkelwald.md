@@ -1,6 +1,6 @@
 ---
 shortcode: dunkelwald
-name: {full: Dunkelwald, aliases: []}
+name: {full: Dunkelwald}
 type: place
 subType: settlement
 description: "Deep Forest Settlement"

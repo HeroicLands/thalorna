@@ -1,6 +1,6 @@
 ---
 shortcode: megtshthkhlr
-name: {full: Megeti Shathu'Kheleru, given: Megeti, clan: Shathu'Kheleru, aliases: []}
+name: {full: Megeti Shathu'Kheleru, given: Megeti, clan: Shathu'Kheleru}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, administration]

@@ -1,6 +1,6 @@
 ---
 shortcode: shrmnhthvn
-name: {full: Sharminah Tahvan, given: Sharminah, clan: Tahvan, aliases: []}
+name: {full: Sharminah Tahvan, given: Sharminah, clan: Tahvan}
 type: being
 subType: character
 tags: [heroes-and-knaves, todo, clergy]

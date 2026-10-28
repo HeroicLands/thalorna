@@ -1,8 +1,8 @@
 ---
 shortcode: ordrseniorrnk
 name:
-  full: "Senior of a Sworn Order"
-  aliases: [Elder Hand, Elder Guardian, Storm-Captain, Hand of the Host]
+  full: Senior of a Sworn Order
+  en: [Elder Hand, Elder Guardian, Storm-Captain, Hand of the Host]
 type: lore
 subType: law
 description: "Instructs candidates and sits in the body that chooses its order's chair, within the Asguardian fighting orders."

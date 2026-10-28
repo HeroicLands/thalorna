@@ -1,6 +1,6 @@
 ---
 shortcode: alyssar
-name: {full: Alessar, aliases: []}
+name: {full: Alessar}
 type: place
 subType: settlement
 description: "Provincial Capital"

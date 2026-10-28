@@ -1,8 +1,6 @@
 ---
 shortcode: aelwsemaronenc
-name:
-  full: Aelwythi Semaron Encoding
-  aliases: []
+name: {full: Aelwythi Semaron Encoding}
 type: doc
 subType: reference
 data:

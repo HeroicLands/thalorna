@@ -1,6 +1,6 @@
 ---
 shortcode: dvlgthyrskrldmkh
-name: {full: Dvilgthira Skraldumak, given: Dvilgthira, clan: Skraldumak, aliases: []}
+name: {full: Dvilgthira Skraldumak, given: Dvilgthira, clan: Skraldumak}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]

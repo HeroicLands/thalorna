@@ -1,6 +1,6 @@
 ---
 shortcode: sandwurm
-name: {full: Sand Wurm, aliases: []}
+name: {full: Sand Wurm}
 type: being
 subType: creature
 description: "A subterranean apex predator up to a hundred feet long, using tremor sense to ambush prey from beneath the sand, virtually unstoppable underground."

@@ -1,6 +1,6 @@
 ---
 shortcode: helionscnq
-name: {full: The Conquest of Helionis, aliases: [The Constituting of the Kandral]}
+name: {full: The Conquest of Helionis, en: [The Constituting of the Kandral]}
 type: lore
 subType: history
 description: "From 335 BF to 312 BF the Vylarian Republic takes the Helionite city-states one by one, and in the aftermath the Senate carves the College of Arcane Philosophy out of the Epistémion and places it under a magistracy that holds the Republic's arcanists as state property."

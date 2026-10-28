@@ -1,6 +1,6 @@
 ---
 shortcode: shebazetdty
-name: {full: Shebazet, aliases: []}
+name: {full: Shebazet}
 type: lore
 subType: deity
 tags: [draft]

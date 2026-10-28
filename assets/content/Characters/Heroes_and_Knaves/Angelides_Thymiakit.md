@@ -1,6 +1,6 @@
 ---
 shortcode: angldsthymkt
-name: {full: Fodios Timiakit, given: Fodios, clan: Timiakit, aliases: []}
+name: {full: Fodios Timiakit, given: Fodios, clan: Timiakit}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]

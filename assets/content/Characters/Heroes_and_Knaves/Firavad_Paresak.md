@@ -1,6 +1,6 @@
 ---
 shortcode: firavdprsk
-name: {full: Firavad Paresak, given: Firavad, clan: Paresak, aliases: []}
+name: {full: Firavad Paresak, given: Firavad, clan: Paresak}
 type: being
 subType: character
 tags: [heroes-and-knaves, clergy]

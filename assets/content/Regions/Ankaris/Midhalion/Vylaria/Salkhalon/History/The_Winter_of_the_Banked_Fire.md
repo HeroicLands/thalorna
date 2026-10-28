@@ -1,8 +1,6 @@
 ---
 shortcode: bankedfire
-name:
-  full: The Winter of the Banked Fire
-  aliases: [The Burning of the Bay, Hvirnmil's Door-Faring]
+name: {full: The Winter of the Banked Fire, en: [The Burning of the Bay, Hvirnmil's Door-Faring]}
 type: lore
 subType: history
 description: "In 523 AF a Malagna crew from the Southern Fleets sailed a captured galley through the western strait to the Salkalon coast, lost it to a fire that burned the bay, wintered on the headland, and in 524 went to the oars of the imperial fleet; the bay kept their name for it, Bralvik."

@@ -1,6 +1,6 @@
 ---
 shortcode: thrnbckb
-name: {full: Thornback Boar, aliases: []}
+name: {full: Thornback Boar}
 type: being
 subType: creature
 description: "A heavily built, ferociously territorial wild boar whose solitary males aggressively charge anything that trespasses on their forest ground."

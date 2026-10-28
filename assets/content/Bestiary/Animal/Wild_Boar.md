@@ -1,6 +1,6 @@
 ---
 shortcode: wildboar
-name: {full: Wild Boar, aliases: []}
+name: {full: Wild Boar}
 type: being
 subType: creature
 description: "A heavily muscled, stocky ungulate of temperate forests, ferociously territorial and dangerous when cornered or defending its ground."

@@ -1,6 +1,6 @@
 ---
 shortcode: mkthsvnrds
-name: {full: Makithos Vanardis, given: Makithos, clan: Vanardis, aliases: []}
+name: {full: Makithos Vanardis, given: Makithos, clan: Vanardis}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]

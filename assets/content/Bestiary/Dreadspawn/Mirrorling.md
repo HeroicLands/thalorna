@@ -1,6 +1,6 @@
 ---
 shortcode: mrrrlng
-name: {full: Mirrorling, aliases: []}
+name: {full: Mirrorling}
 type: being
 subType: creature
 description: "A light-warping predator of paradox that dwells in mirror halls and crystal caverns, wielding fractured reflections as both weapon and shield."

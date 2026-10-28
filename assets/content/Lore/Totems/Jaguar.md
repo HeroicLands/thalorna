@@ -1,6 +1,6 @@
 ---
 shortcode: jaguarttm
-name: {full: Jaguar, aliases: [Jaguar Totem]}
+name: {full: Jaguar, en: [Jaguar Totem]}
 type: lore
 subType: bestiary
 description: "The jaguar as a totemic ideal, and the human character it describes."

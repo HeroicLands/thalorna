@@ -1,6 +1,6 @@
 ---
 shortcode: varkhadcnq
-name: {full: The Varkhad Conquest, aliases: [The Taking of the Pelwar Grasslands]}
+name: {full: The Varkhad Conquest, en: [The Taking of the Pelwar Grasslands]}
 type: lore
 subType: history
 description: "Around 1400 BF the Varkhad come out of the further east into the Pelwar grasslands as conquerors, take the country and then merge into it—and the peoples who hold the north today carry both stocks."

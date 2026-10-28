@@ -1,6 +1,6 @@
 ---
 shortcode: ptnantvs
-name: {full: "Serpent's Bane", aliases: ["Potion, Antivenin, Strong"]}
+name: {full: Serpent's Bane, en: ["Potion, Antivenin, Strong"]}
 type: concoctiongear
 subType: exotic
 description: "Brilliant amber-gold antivenin; cures snake and poison damage."

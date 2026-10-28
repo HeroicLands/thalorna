@@ -1,6 +1,6 @@
 ---
 shortcode: kldrnjthrn
-name: {full: Kaldrén Gútharen, aliases: []}
+name: {full: Kaldrén Gútharen}
 type: being
 subType: npc
 tags: [draft, common-folk]

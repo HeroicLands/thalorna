@@ -1,6 +1,6 @@
 ---
 shortcode: icbrdg
-name: {full: Icebridge, aliases: []}
+name: {full: Icebridge}
 type: mysticalability
 subType: arcaneincantation
 description: "Freezes paths across water; forms traversable bridge for travel."

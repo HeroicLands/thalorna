@@ -1,6 +1,6 @@
 ---
 shortcode: skldrblthlm
-name: {full: Skaldár yra Balthhelm wur Falkenstein, aliases: []}
+name: {full: Skaldár yra Balthhelm wur Falkenstein}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

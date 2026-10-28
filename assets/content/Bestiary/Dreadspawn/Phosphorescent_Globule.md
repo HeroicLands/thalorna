@@ -1,6 +1,6 @@
 ---
 shortcode: phsphrsc
-name: {full: Phosphorescent Globule, aliases: []}
+name: {full: Phosphorescent Globule}
 type: being
 subType: creature
 description: "A cunning predatory ooze of lightless caves that lures prey with deceptive bioluminescence before striking."

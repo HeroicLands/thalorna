@@ -1,6 +1,6 @@
 ---
 shortcode: khelqalezuenc
-name: {full: Khelathi Qalezu Encoding, aliases: []}
+name: {full: Khelathi Qalezu Encoding}
 type: doc
 subType: reference
 data:

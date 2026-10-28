@@ -1,6 +1,6 @@
 ---
 shortcode: farlvlskyr
-name: {full: Farila Valskir, aliases: []}
+name: {full: Farila Valskir}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

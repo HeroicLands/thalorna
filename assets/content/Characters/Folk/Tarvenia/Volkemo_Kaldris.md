@@ -1,6 +1,6 @@
 ---
 shortcode: volkemokaldr
-name: {full: Volkemo Kaldris, aliases: [Duke Volkemo]}
+name: {full: Volkemo Kaldris, en: [Duke Volkemo]}
 type: being
 subType: npc
 description: A powerful regional lord of the Eastern Marches who has engaged Kárenna Graveth's services repeatedly.

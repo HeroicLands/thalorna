@@ -1,6 +1,6 @@
 ---
 shortcode: veillessons
-name: {full: The Lessons of the Silver Veil, aliases: [The Eight Years]}
+name: {full: The Lessons of the Silver Veil, en: [The Eight Years]}
 type: lore
 subType: literature
 description: "The sayings a girl of the Academy of the Silver Veil learns by heart, one year's lessons in each of her eight years from twelve to twenty, gathered under the name of the Academy's founder: memory, the lyre, the songs of every city, argument, the guest and the seat, the garden, the law and the room, with the eighth year's lessons left unwritten and the first rule standing where they should be."
@@ -10,7 +10,7 @@ data:
   packFolder: settinglore
   form: precepts
   subjects: [lore-heladsilverveil, affiliation-kalydria, lore-zunelasdty, lore-helioniteclt]
-  language: helonclng
+  lang: helo
 
 # terran_analog: "Greek gnomic verse and the wisdom collections gathered under a famous name, Theognis's elegies to a pupil and the sayings of the Seven Sages; the Pythagorean akousmata, sayings heard and not explained, and the graded silence of a school with an inner teaching; and the instruction of a courtier in the manners of a court, for advice given as a list."
 ---

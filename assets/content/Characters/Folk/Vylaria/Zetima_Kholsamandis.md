@@ -1,6 +1,6 @@
 ---
 shortcode: zetimakholsa
-name: {full: Zetima Kolsamis, aliases: [Priestess Zetima]}
+name: {full: Zetima Kolsamis, en: [Priestess Zetima]}
 type: being
 subType: npc
 description: The keeper of the temple of Árdavon, who views the work of Dómrithas Vishardas as corruption.

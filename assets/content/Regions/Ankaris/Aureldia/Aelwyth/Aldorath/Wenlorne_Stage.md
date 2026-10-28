@@ -1,6 +1,6 @@
 ---
 shortcode: wenlornestage
-name: {full: Wenlorne Stage, aliases: [The Lit Stage, The Reeve's House]}
+name: {full: Wenlorne Stage, en: [The Lit Stage, The Reeve's House]}
 type: place
 subType: site
 description: "A relay house of the elder kingdom on a Crown Road in the empty forest between the Wyndmarch and the Hallowwood, whose lamps are lit every dusk by nobody living and whose keeper does not let guests leave."

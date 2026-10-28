@@ -1,6 +1,6 @@
 ---
 shortcode: liranel
-name: {full: Liranel, aliases: []}
+name: {full: Liranel}
 type: place
 subType: settlement
 description: "A forest town of the western coast, set back from the cliffs at the edge of Sinale country—the last place the crown's writ runs plainly, and where licenses to cut the deep wood are issued and argued over."

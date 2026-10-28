@@ -1,6 +1,6 @@
 ---
 shortcode: elxfir
-name: {full: "Flame's Indifference", aliases: [Fireshield Elixir]}
+name: {full: Flame's Indifference, en: [Fireshield Elixir]}
 type: concoctiongear
 subType: elixir
 description: "Scarlet flame-touched elixir; protects against heat and fire damage."

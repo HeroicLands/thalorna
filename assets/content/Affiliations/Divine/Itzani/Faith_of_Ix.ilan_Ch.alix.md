@@ -1,6 +1,6 @@
 ---
 shortcode: ixilanchalix
-name: {full: "Faith of Ish'ilan Ch'alish", aliases: [The Sacred Star, "Ish'ilan Ch'alish"]}
+name: {full: Faith of Ish'ilan Ch'alish, en: [The Sacred Star], kiichek: [Ish'ilan Ch'alish]}
 type: affiliation
 subType: faithtradition
 description: "Knowledge, writing and the calendar—the goddess who composed the first codex in the language of the stars, and whose priesthood alone advances on merit."

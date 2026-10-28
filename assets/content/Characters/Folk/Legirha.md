@@ -1,6 +1,6 @@
 ---
 shortcode: legirha
-name: {full: Legirha, aliases: []}
+name: {full: Legirha}
 type: being
 subType: npc
 description: "Master of a hidden circle whose experiments upon the dead and the spirit-realm threaten the balance the Khelathi hold sacred"

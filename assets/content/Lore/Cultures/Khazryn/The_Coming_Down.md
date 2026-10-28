@@ -1,6 +1,6 @@
 ---
 shortcode: comingdown
-name: {full: The Coming Down, aliases: [Genbuntsemhat]}
+name: {full: The Coming Down, telu: [Genbuntsemhat]}
 type: lore
 subType: literature
 description: "The Tellumi foundation legend as a Delkoshekh tells it to a child at the water: the first lineages coming down from seven named peaks to seven springs, by the labyrinth of Vurdish or by the Western Descent, with the roll of the peaks recited at every princely funeral set at its heart, and the quarrel of the two accounts left where the Council leaves it."
@@ -18,7 +18,7 @@ data:
     - lore-khazrynclt
     - place-oasishirvn
     - affiliation-zurathra
-  language: khazrilng
+  lang: telu
 ---
 
 **The Coming Down**, _Genbuntsemhat_, is the [[lore-khazrynclt|Tellumi]] account of their own beginning: the first lineages coming down out of [[place-graznmntns|the Grazian Mountains]] to the great springs at the foot of the range and building the seven cities on them. Its heart is the **roll of the seven peaks**, a _tsemhat_ recited standing at every princely funeral and on the first day of the five-day festival, which names the peak each house roots its genealogy in and the spring each house settled, in founding order, and names no ancestor, because the founders' names are on the tablets of the houses and the roll leaves them there. Around the roll a Delkoshekh tells the rest, in prose, to a child presented at the shrine of [[affiliation-zurathra|Zúrathra]] within forty days of birth, or to a stranger who has asked which house the Delkoshekh's family stood to and has been answered with the whole story. The telling below is one Delkoshekh's, of the exile court of [[place-oasishirvn|Oasis of Shirvan]] in the [[place-amradadrgn|Amradad Region]], and it gives the roll as that court gives it.

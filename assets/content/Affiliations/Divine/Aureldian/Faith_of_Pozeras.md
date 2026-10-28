@@ -1,6 +1,6 @@
 ---
 shortcode: pozeras
-name: {full: Faith of Pozeras, aliases: [The Wayfarer, Pozeras]}
+name: {full: Faith of Pozeras, en: [The Wayfarer], vyl: [Pozeras]}
 type: affiliation
 subType: faithtradition
 description: "Voyages."

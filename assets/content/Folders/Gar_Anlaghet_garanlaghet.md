@@ -1,6 +1,6 @@
 ---
 shortcode: garanlaghet
-name: {full: Gar-Anlaghet, aliases: []}
+name: {full: Gar-Anlaghet}
 type: folder
 data: {parent: deltaselatu, color: "#A5D6A7"}
 ---

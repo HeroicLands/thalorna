@@ -1,6 +1,6 @@
 ---
 shortcode: yozhuo
-name: {full: "Ritual: Yozhuo", aliases: [Yozhuo, The Custodian of Lost Seals, The Seal-Thief]}
+name: {full: "Ritual: Yozhuo", en: [The Custodian of Lost Seals, The Seal-Thief], tant: [Yozhuo]}
 type: skill
 subType: mystical
 tags: [celestial-pantheon, faith-skill, draft]

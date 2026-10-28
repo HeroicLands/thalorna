@@ -1,6 +1,6 @@
 ---
 shortcode: selatgekhenu
-name: {full: The Selat of Gekhenu, aliases: []}
+name: {full: The Selat of Gekhenu}
 type: affiliation
 subType: polity
 description: "Library-temples and astronomers; the calendar-keepers of the middle river—one of the upper-river selatu of Au'Khelathu."

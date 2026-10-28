@@ -1,6 +1,6 @@
 ---
 shortcode: mavesha
-name: {full: Mavesha, aliases: [Prophet Mavesha]}
+name: {full: Mavesha, en: [Prophet Mavesha]}
 type: being
 subType: npc
 description: The leader of a heretical sect hunted by Sharminah Tahvan, who views her as an abomination and works to counter her influence.

@@ -1,6 +1,6 @@
 ---
 shortcode: delara
-name: {full: Delara, aliases: []}
+name: {full: Delara}
 type: place
 subType: settlement
 description: "Market Town"

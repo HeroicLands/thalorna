@@ -1,6 +1,6 @@
 ---
 shortcode: seabassttm
-name: {full: Sea Bass, aliases: [Sea Bass Totem]}
+name: {full: Sea Bass, en: [Sea Bass Totem]}
 type: lore
 subType: bestiary
 description: "The sea bass as a totemic ideal, and the human character it describes."

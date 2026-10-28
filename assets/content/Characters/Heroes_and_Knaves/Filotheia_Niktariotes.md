@@ -1,6 +1,6 @@
 ---
 shortcode: flthnktrts
-name: {full: Fritia Manedes, given: Fritia, clan: Manedes, aliases: []}
+name: {full: Fritia Manedes, given: Fritia, clan: Manedes}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]

@@ -2,7 +2,8 @@
 shortcode: svapnasarisameja
 name:
   full: "Ritual: Svapnasari-sameja"
-  aliases: [Svapnasari-sameja, Svapnasari Sameja, Assembly of the Dream-Followers, Dream Assembly]
+  en: [Svapnasari Sameja, Assembly of the Dream-Followers, Dream Assembly]
+  vedy: [svapnasari-sameja]
 type: skill
 subType: mystical
 tags: [varnuka, faith-skill]

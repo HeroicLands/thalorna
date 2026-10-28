@@ -1,6 +1,6 @@
 ---
 shortcode: meghonata
-name: {full: Meghonata, aliases: [Lord of Thunder]}
+name: {full: Lord of Thunder, vedy: [meghonata]}
 type: affiliation
 subType: faithtradition
 description: "Religion of the god of storms and of the rain the monsoon brings."

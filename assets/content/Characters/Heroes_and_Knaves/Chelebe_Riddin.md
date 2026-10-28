@@ -1,6 +1,6 @@
 ---
 shortcode: chlbrhydyn
-name: {full: Chelebe Riddin, given: Chelebe, clan: Riddin, aliases: []}
+name: {full: Chelebe Riddin, given: Chelebe, clan: Riddin}
 type: being
 subType: character
 tags: [hero, silent-talon, unguilded, soldiery]

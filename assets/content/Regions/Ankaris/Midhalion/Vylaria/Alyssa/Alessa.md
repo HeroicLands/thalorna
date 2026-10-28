@@ -1,6 +1,6 @@
 ---
 shortcode: alyssa
-name: {full: Alessa, aliases: []}
+name: {full: Alessa}
 type: place
 subType: region
 description: "The heartland of the Vylarian Empire—the land of the Province of Alessa, a near-continuous quilt of towns, villas and senatorial estates around the imperial capital, knit by the oldest Vylarian roads."

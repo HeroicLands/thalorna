@@ -1,6 +1,6 @@
 ---
 shortcode: wardensstaff
-name: {full: "A Warden's Staff", aliases: []}
+name: {full: A Warden's Staff}
 type: weapongear
 description: "An iron-shod staff of dark hardwood, the mark of office of the Wardens of the Approaches and the only iron most islanders handle."
 tags: [kalihara]

@@ -1,6 +1,6 @@
 ---
 shortcode: vandsksrns
-name: {full: Vanadis Kaseranis, aliases: []}
+name: {full: Vanadis Kaseranis}
 type: being
 subType: npc
 tags: [draft, administration]

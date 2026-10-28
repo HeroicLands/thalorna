@@ -1,6 +1,6 @@
 ---
 shortcode: vedyaraadventurersguide
-name: {full: Vedyara Adventurer's Guide, aliases: []}
+name: {full: Vedyara Adventurer's Guide}
 type: doc
 subType: settingguide
 description: A player and GM introduction to Vedyara's lands, peoples, institutions, faiths, and ways into adventure.

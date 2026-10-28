@@ -1,6 +1,6 @@
 ---
 shortcode: igelnaru
-name: {full: Faith of Igelnaru, aliases: []}
+name: {full: Faith of Igelnaru}
 type: affiliation
 subType: faithtradition
 description: "The River."

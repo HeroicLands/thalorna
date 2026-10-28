@@ -1,6 +1,6 @@
 ---
 shortcode: ptnsops
-name: {full: Silk Sleep, aliases: ["Potion, Soporific, Strong"]}
+name: {full: Silk Sleep, en: ["Potion, Soporific, Strong"]}
 type: concoctiongear
 subType: exotic
 description: "Deep gray blue-tinged liquid; induces deep sleep and rest."

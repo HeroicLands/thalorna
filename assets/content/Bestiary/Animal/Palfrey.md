@@ -1,6 +1,6 @@
 ---
 shortcode: palfrey
-name: {full: Palfrey, aliases: []}
+name: {full: Palfrey}
 type: being
 subType: creature
 description: "A refined, smooth-gaited riding horse bred by nobility for comfort over long distances, favored by ladies, couriers, and wealthy merchants."

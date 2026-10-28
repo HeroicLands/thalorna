@@ -1,6 +1,6 @@
 ---
 shortcode: selimara
-name: {full: Selímara, aliases: []}
+name: {full: Selímara}
 type: place
 subType: settlement
 description: "Trading Town"

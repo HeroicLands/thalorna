@@ -1,6 +1,6 @@
 ---
 shortcode: hringsystur
-name: {full: "Hringsistur", aliases: [The Ring-Sisters]}
+name: {full: Hringsistur, en: [The Ring-Sisters]}
 type: affiliation
 subType: order
 description: "Solrún's sworn women, wealth made and given away."

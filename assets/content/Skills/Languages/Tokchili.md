@@ -1,6 +1,6 @@
 ---
 shortcode: tokchilng
-name: {full: Tokchili Language, aliases: [Tokchili]}
+name: {full: Tokchili Language, tokc: [tokchili]}
 type: skill
 subType: language
 description: "The unwritten tongue of the One Fire, spoken in the mound towns of the great river and, with a salt accent, on the shell islands of the gulf coast."
@@ -5673,8 +5673,6 @@ data:
     - {name: New Fire, tongue: translation}
     - {name: Old Mound, tongue: translation}
     - {name: omika, tongue: tokchili, built: ["omika"]}
-    - {name: One Fire, tongue: translation}
-    - {name: One Fire Region, tongue: translation}
     - {name: opahiko, tongue: tokchili}
     - {name: pakalo, tongue: tokchili}
     - {name: pokta hoshalo, tongue: tokchili, built: ["pokta", "hoshalo"]}
@@ -5684,17 +5682,12 @@ data:
     - {name: Shell Promise, tongue: translation}
     - {name: shimaya, tongue: tokchili}
     - {name: Sun Mother, tongue: translation}
-    - {name: Sun Mound, tongue: translation}
     - {name: tamoli, tongue: tokchili, built: ["tamoli"]}
     - {name: tamoska, tongue: tokchili}
     - {name: tokchi aska, tongue: tokchili, built: ["tokchi", "aska"]}
-    - {name: Tokchi Aska Region, tongue: translation}
     - {name: tokchi falisi, tongue: tokchili, built: ["tokchi", "falisi"]}
     - {name: tokchi hapilo, tongue: tokchili, built: ["tokchi", "hapilo"]}
     - {name: tokchili, tongue: tokchili, built: ["tokchi", "-li"]}
-    - {name: Tokchili Language, tongue: translation}
-    - {name: "Ts'uma No'tun", tongue: "exonym:kiichek"}
-    - {name: "Ts'uma No'tun Region", tongue: translation}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"

@@ -1,6 +1,6 @@
 ---
 shortcode: arnstein
-name: {full: Arnstein, aliases: []}
+name: {full: Arnstein}
 type: place
 subType: settlement
 description: "A Varokh village in Falkhaven."

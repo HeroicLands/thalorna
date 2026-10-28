@@ -1,6 +1,6 @@
 ---
 shortcode: porenadhrl
-name: {full: Pórena Darel, aliases: []}
+name: {full: Pórena Darel}
 type: being
 subType: npc
 tags: [draft, common-folk]

@@ -1,6 +1,6 @@
 ---
 shortcode: catfishttm
-name: {full: Catfish, aliases: [Catfish Totem]}
+name: {full: Catfish, en: [Catfish Totem]}
 type: lore
 subType: bestiary
 description: "The catfish as a totemic ideal, and the human character it describes."

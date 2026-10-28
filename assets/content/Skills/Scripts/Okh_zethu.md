@@ -1,6 +1,6 @@
 ---
 shortcode: okhthztscrpt
-name: {full: Okhatha-zethu Script, aliases: []}
+name: {full: Okhatha-zethu Script}
 type: skill
 subType: script
 description: "The twenty-three sacred characters of Okharis, and the voweled hybrid the merchants made of them."

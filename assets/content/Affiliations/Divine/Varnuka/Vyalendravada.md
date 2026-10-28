@@ -1,6 +1,6 @@
 ---
 shortcode: vyalendravada
-name: {full: Vyalendravada, aliases: [The Doctrine of Vyalendra, Vyalendran School]}
+name: {full: The Doctrine of Vyalendra, en: [Vyalendran School], vedy: [vyalendravada]}
 type: affiliation
 subType: faithtradition
 description: "Monistic and scholarly religion tied to the building trades and the great academies."

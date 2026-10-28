@@ -1,6 +1,6 @@
 ---
 shortcode: valarnlvnr
-name: {full: Valaren Álvanar, aliases: []}
+name: {full: Valaren Álvanar}
 type: being
 subType: npc
 tags: [draft, administration]

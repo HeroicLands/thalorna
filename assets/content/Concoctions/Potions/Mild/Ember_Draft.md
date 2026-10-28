@@ -1,6 +1,6 @@
 ---
 shortcode: ptnstmm
-name: {full: Ember Draft, aliases: ["Potion, Stimulant, Mild"]}
+name: {full: Ember Draft, en: ["Potion, Stimulant, Mild"]}
 type: concoctiongear
 subType: exotic
 description: "Bright energetic liquid; invigorates body and stimulates mental."

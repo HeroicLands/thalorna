@@ -1,6 +1,6 @@
 ---
 shortcode: karpasagram
-name: {full: Karpasagram, aliases: []}
+name: {full: Karpasagram}
 type: place
 subType: settlement
 description: "Cotton village of the lower curve, whose Karmija weaver workshops clothe most of the janpoda."

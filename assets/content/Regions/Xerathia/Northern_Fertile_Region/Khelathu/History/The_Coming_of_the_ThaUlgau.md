@@ -1,6 +1,6 @@
 ---
 shortcode: thaulgau
-name: {full: The Coming of the Tha'Ulgau, aliases: [The Battle of Zel-Halzi]}
+name: {full: The Coming of the Tha'Ulgau, en: [The Battle of Zel-Halzi]}
 type: lore
 subType: history
 description: "In the Season of Emergence of 1612 ST (499 BF) the hill-nomads of the western margins destroy the last Galezkara army on the west-bank floodplain below Lenen-Nezut, forbid the rites for the dead, and take the throne; the unwrapped dead are Zel-Halzi, the first blood-field in Khelathi memory."

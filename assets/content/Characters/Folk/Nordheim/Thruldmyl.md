@@ -1,6 +1,6 @@
 ---
 shortcode: thruldmyl
-name: {full: Thruldmil, aliases: [Duke Thruldmil]}
+name: {full: Thruldmil, en: [Duke Thruldmil]}
 type: being
 subType: npc
 description: Duke of Vithgard and the primary patron who employs Tvalgthann Bletholl for court entertainment.

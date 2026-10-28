@@ -1,6 +1,6 @@
 ---
 shortcode: khelthgldgzn
-name: {full: Khelathi Gold Gezan, aliases: [Gold Gezan]}
+name: {full: Khelathi Gold Gezan, en: [Gold Gezan]}
 type: miscgear
 description: "Temple-attested gold weight-piece of one gezan; the largest Khelathi denomination."
 tags: [jewelry_cash]

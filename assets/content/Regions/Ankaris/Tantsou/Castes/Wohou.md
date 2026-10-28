@@ -1,6 +1,6 @@
 ---
 shortcode: wohou
-name: {full: Wohou, aliases: []}
+name: {full: Wohou}
 type: lore
 subType: law
 description: "The third caste of Tantsou—the warrior nobility who command the empire's armies and hold its districts under the Warlords, bound by the Wo Hou Lou and answerable for its breach with their lives."

@@ -1,12 +1,12 @@
 ---
 shortcode: luwandoclt
-name: {full: Luwando, aliases: [River-keepers]}
+name: {full: River-keepers, ekpe: [Luwando]}
 type: lore
 subType: culture
 description: "The river-keepers of the central Zerathian forest: fishers, foragers and hosts along the great rivers, and the forest's door for northern trade."
 tags: [draft]
 data:
-  language: skill-ekpelulng
+  lang: ekpe
   appearanceProfile:
     frame: {light: 3, medium: 5, heavy: 2}
     eye_color: {dark_brown: 6, brown: 3, black: 1}

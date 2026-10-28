@@ -1,6 +1,6 @@
 ---
 shortcode: osetakona
-name: {full: Osetakona, aliases: [Maple People, "Shik'ul Ch'akal"]}
+name: {full: Maple People, kiichek: [Shik'ul Ch'akal], oset: [osetakona]}
 type: affiliation
 subType: polity
 description: "The Maple People of the northeastern lakes and forests, whom the south calls the Otter People: eight nations of longhouse farmers joined in the Grove, governed by councils whose speakers the clan mothers name."

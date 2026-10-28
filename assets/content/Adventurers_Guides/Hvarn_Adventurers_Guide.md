@@ -1,6 +1,6 @@
 ---
 shortcode: hvarnadvguide
-name: {full: Hvarn Adventurer's Guide, aliases: []}
+name: {full: Hvarn Adventurer's Guide}
 type: doc
 subType: settingguide
 description: A short player and GM introduction to the Hvarn—the drovers who keep the two eastern crossings of the Grazian wall, winter under one roof, and go down for their dead.

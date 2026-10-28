@@ -1,6 +1,6 @@
 ---
 shortcode: tseising
-name: {full: Tseising, aliases: []}
+name: {full: Tseising}
 type: lore
 subType: custom
 description: "The law of Tantsou—the Heavenly Law, its courts and punishments, the ordered suicide Ruising, and Tseising, the chosen ritual death by which a person of rank answers dishonor."

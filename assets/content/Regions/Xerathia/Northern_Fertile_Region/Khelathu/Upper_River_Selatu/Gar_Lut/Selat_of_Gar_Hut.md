@@ -1,6 +1,6 @@
 ---
 shortcode: selatgarlut
-name: {full: The Selat of Gar-Lut, aliases: []}
+name: {full: The Selat of Gar-Lut}
 type: affiliation
 subType: polity
 description: "A small, devout selat of healing-shrines and herb-gardens—one of the upper-river selatu of Au'Khelathu."

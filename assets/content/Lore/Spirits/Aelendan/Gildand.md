@@ -1,6 +1,6 @@
 ---
 shortcode: gilpandspr
-name: {full: "Gildand, the West Wind", aliases: []}
+name: {full: "Gildand, the West Wind"}
 type: lore
 subType: spirit
 description: "The west wind off the sea—mobile, unreliable, and addressed in the moment rather than kept in pact."

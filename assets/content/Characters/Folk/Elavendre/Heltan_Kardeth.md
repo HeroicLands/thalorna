@@ -1,6 +1,6 @@
 ---
 shortcode: heltankardet
-name: {full: Heltan Kardeth, aliases: [Lord Heltan Kardeth, Lord Heltan]}
+name: {full: Heltan Kardeth, en: [Lord Heltan Kardeth, Lord Heltan]}
 type: being
 subType: npc
 description: A young nobleman, cousin of Kenrel Kardeth, who has returned from service abroad and begun asking pointed questions, named in Lyenna Kardeth.

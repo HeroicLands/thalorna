@@ -1,6 +1,6 @@
 ---
 shortcode: peoples
-name: {full: Peoples, aliases: []}
+name: {full: Peoples}
 type: doc
 subType: reference
 description: Distinct peoples, races, and lineages.

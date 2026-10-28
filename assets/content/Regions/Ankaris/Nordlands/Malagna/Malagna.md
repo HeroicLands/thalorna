@@ -1,6 +1,6 @@
 ---
 shortcode: malagna
-name: {full: Malagna, aliases: []}
+name: {full: Malagna}
 type: place
 subType: region
 description: "The land of the Kingdom of Malagna, between Norgaad and Targud in the northern Nordlands."

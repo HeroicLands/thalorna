@@ -1,6 +1,6 @@
 ---
 shortcode: bedarrekmozk
-name: {full: Bedarrek Mozkarreta, aliases: [Merchant-Lord Bedarrek]}
+name: {full: Bedarrek Mozkarreta, en: [Merchant-Lord Bedarrek]}
 type: being
 subType: npc
 description: A wealthy and politically connected trader whose interests Kárenna Graveth opposed in a recent negotiation.

@@ -1,6 +1,6 @@
 ---
 shortcode: bhumipal
-name: {full: Bhumipal, aliases: []}
+name: {full: Bhumipal}
 type: affiliation
 subType: polity
 description: The march kingdom of Vedyara's northwest—the road round the wall's end, the treaty with Amradad, the companies that keep the frontier, and the arid coast of the sea of evening.

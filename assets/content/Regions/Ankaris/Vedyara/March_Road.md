@@ -1,6 +1,6 @@
 ---
 shortcode: marchroad
-name: {full: The March Road, aliases: []}
+name: {full: The March Road}
 type: place
 subType: feature
 description: "The road round the western end of the Grazian wall—the one way into Vedyara that crosses no pass, and the one a steppe host came down."

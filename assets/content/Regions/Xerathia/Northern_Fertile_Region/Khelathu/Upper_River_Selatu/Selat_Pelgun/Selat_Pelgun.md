@@ -1,6 +1,6 @@
 ---
 shortcode: selatpelgunnome
-name: {full: Selat-Pelgun, aliases: []}
+name: {full: Selat-Pelgun}
 type: place
 subType: region
 description: "Caravan-head for the eastern desert roads; harvest-festivals and virility cults—the land of the Selat of Selat-Pelgun, one of the upper-river selatu of Au'Khelathu."

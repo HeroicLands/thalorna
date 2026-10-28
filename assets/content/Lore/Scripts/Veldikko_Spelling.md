@@ -1,6 +1,6 @@
 ---
 shortcode: sinaveldikkoenc
-name: {full: Sinale Veldikko Encoding, aliases: []}
+name: {full: Sinale Veldikko Encoding}
 type: doc
 subType: reference
 data:

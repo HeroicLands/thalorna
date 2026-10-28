@@ -1,6 +1,6 @@
 ---
 shortcode: preservnghnd
-name: {full: Preserving Hand, aliases: []}
+name: {full: Preserving Hand}
 type: mysticalability
 subType: arcaneincantation
 description: "Arrests decay in a body or an object for as long as the working holds."

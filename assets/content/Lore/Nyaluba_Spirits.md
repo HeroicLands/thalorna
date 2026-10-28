@@ -1,6 +1,6 @@
 ---
 shortcode: nyalbsprts
-name: {full: Nyáluba Spirits, aliases: [The Guides, The Totems and Spirits]}
+name: {full: Nyáluba Spirits, en: [The Guides, The Totems and Spirits]}
 type: lore
 subType: spirit
 description: "The spirit guides of the Nyáluba—totem, land, water, hunt, weather, ancestor and hearth—and the three postures by which each is met: venerated, appeased, or warded against."

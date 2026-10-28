@@ -1,6 +1,6 @@
 ---
 shortcode: korsadra
-name: {full: "Ritual: Khórsadra", aliases: [Bearer of Eternal Light, Wisdom Goddess]}
+name: {full: "Ritual: Khórsadra", en: [Bearer of Eternal Light, Wisdom Goddess]}
 type: skill
 subType: mystical
 tags: [ashalan, faith-skill, draft]

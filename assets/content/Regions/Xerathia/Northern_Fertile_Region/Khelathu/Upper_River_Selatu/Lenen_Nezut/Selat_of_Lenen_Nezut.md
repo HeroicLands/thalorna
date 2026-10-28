@@ -1,6 +1,6 @@
 ---
 shortcode: selatlennnzt
-name: {full: The Selat of Lenen-Nezut, aliases: []}
+name: {full: The Selat of Lenen-Nezut}
 type: affiliation
 subType: polity
 description: "An old capital of a former dynasty, proud and faded; ram-cult and horse-pasture—one of the upper-river selatu of Au'Khelathu."

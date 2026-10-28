@@ -1,6 +1,6 @@
 ---
 shortcode: kentra
-name: {full: Kentra, aliases: [The Centre, The Centred]}
+name: {full: The Centre, en: [The Centred], vyl: [Kentra]}
 type: affiliation
 subType: arcanetradition
 tags: [zemor-hodhis]

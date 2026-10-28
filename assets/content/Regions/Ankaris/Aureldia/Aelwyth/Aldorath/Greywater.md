@@ -1,6 +1,6 @@
 ---
 shortcode: greywater
-name: {full: Greywater, aliases: []}
+name: {full: Greywater}
 type: place
 subType: settlement
 description: "Aldorath's river port on the tidal reach—the kingdom's outlet to the sea, and the place its trade meets the Synod's requirement."

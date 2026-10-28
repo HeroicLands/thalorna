@@ -1,6 +1,6 @@
 ---
 shortcode: locations
-name: {full: Locations, aliases: []}
+name: {full: Locations}
 type: doc
 subType: reference
 description: Notable places—ruins, landmarks, dungeons, and wonders.

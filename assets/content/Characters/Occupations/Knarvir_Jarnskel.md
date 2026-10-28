@@ -1,6 +1,6 @@
 ---
 shortcode: knrvrjrnskl
-name: {full: Knarvir Jarnskel, aliases: []}
+name: {full: Knarvir Jarnskel}
 type: being
 subType: npc
 tags: [draft, guilded, mages]

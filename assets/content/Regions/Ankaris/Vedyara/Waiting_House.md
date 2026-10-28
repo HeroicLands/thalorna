@@ -1,6 +1,6 @@
 ---
 shortcode: waitinghouse
-name: {full: The Waiting House, aliases: []}
+name: {full: The Waiting House}
 type: place
 subType: structure
 description: "A stone house in Chendrapur's cutting streets where consignments lie between stages under seal, and where a line of the Chaya-vreta has been taught for as long as the building has stood."

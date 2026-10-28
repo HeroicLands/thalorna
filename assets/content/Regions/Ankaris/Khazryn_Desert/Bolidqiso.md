@@ -1,6 +1,6 @@
 ---
 shortcode: bolidqiso
-name: {full: Bolidqiiso, aliases: [The Counting-House Tower, The Price-Tower]}
+name: {full: Bolidqiiso, en: [The Counting-House Tower, The Price-Tower]}
 type: place
 subType: site
 description: "A counting-house tower of the Tower League in a street of Vulud that the dunes have uncovered, with its balances, its strongroom and the stone watchman that still keeps its door."

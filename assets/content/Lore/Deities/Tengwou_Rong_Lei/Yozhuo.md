@@ -1,6 +1,6 @@
 ---
 shortcode: yozhuodty
-name: {full: Yozhuo, aliases: []}
+name: {full: Yozhuo}
 type: lore
 subType: deity
 description: "The Custodian of Lost Seals—a Youweng of the Tengwou Rong Lei, holding the broken seals by which a false warrant passes for a true one."

@@ -1,6 +1,6 @@
 ---
 shortcode: glarvynda
-name: {full: Glarvinda, aliases: [High Priestess Glarvinda]}
+name: {full: Glarvinda, en: [High Priestess Glarvinda]}
 type: being
 subType: npc
 description: High Priestess of the Asguardian Temple, who hires Thraldorv Vornheim for sacred protection work.

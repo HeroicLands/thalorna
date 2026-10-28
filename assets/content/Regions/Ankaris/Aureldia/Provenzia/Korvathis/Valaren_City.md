@@ -1,6 +1,6 @@
 ---
 shortcode: valarencity
-name: {full: Válaren City, aliases: []}
+name: {full: Válaren City}
 type: place
 subType: settlement
 

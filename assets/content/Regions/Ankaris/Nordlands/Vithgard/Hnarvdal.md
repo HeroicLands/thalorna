@@ -1,6 +1,6 @@
 ---
 shortcode: hnarvdal
-name: {full: Hnarvdal, aliases: []}
+name: {full: Hnarvdal}
 type: place
 subType: settlement
 description: "Valley Settlement"

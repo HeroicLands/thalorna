@@ -1,6 +1,6 @@
 ---
 shortcode: safrsghlrs
-name: {full: Sáferus Gholaris, aliases: []}
+name: {full: Sáferus Gholaris}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

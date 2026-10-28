@@ -1,6 +1,6 @@
 ---
 shortcode: eleventhgran
-name: {full: The Eleventh Granary, aliases: []}
+name: {full: The Eleventh Granary}
 type: place
 subType: site
 description: "The sealed granary of Anlagh-Zetun where the dead of the granary rising lie without rites since 268 AF: a withering, contained blood-field of moderate thinness that is worse in lean years, and the reason a festival throws bread over a wall."

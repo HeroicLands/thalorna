@@ -1,6 +1,6 @@
 ---
 shortcode: mddlsrvdjnpd
-name: {full: Middle Sarveda Janpoda, aliases: []}
+name: {full: Middle Sarveda Janpoda}
 type: affiliation
 subType: polity
 description: "The janpoda of the Sarveda circuit, to which the copying town of Dirmapur belongs."

@@ -1,6 +1,6 @@
 ---
 shortcode: calypsacity
-name: {full: Kalipsa, aliases: []}
+name: {full: Kalipsa}
 type: place
 subType: settlement
 description: "A free port on a steep island off Élavendre, governed by a council of shipping houses and kept free by a navy far larger than the city."

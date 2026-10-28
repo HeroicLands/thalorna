@@ -1,6 +1,6 @@
 ---
 shortcode: spechwthdprt
-name: {full: Speech with the Departed, aliases: []}
+name: {full: Speech with the Departed}
 type: mysticalability
 subType: arcaneincantation
 description: "Permits conversation with one named dead, provided the name and the body are both intact."

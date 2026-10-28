@@ -1,6 +1,6 @@
 ---
 shortcode: surge
-name: {full: Surge, aliases: []}
+name: {full: Surge}
 type: mysticalability
 subType: arcaneincantation
 description: "Creates wave of force; manifests swelling energy outward."

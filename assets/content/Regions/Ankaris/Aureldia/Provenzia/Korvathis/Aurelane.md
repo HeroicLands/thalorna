@@ -1,6 +1,6 @@
 ---
 shortcode: aureliane
-name: {full: Aurelane, aliases: []}
+name: {full: Aurelane}
 type: place
 subType: settlement
 description: "The old Vylarian foundation of the southern interior—once the provincial capital and still the seat of Provenzian law and learning, a city of enormous prestige and diminished consequence."

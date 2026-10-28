@@ -1,6 +1,6 @@
 ---
 shortcode: jurthatlng
-name: {full: Jurthati Language, aliases: []}
+name: {full: Jurthati Language}
 type: skill
 subType: language
 description: "The island speech of the Nine Mountains—a daughter of Tantsou hardened by a thousand years of separation, and layered with the most elaborate honorifics in the east."

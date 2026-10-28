@@ -1,6 +1,6 @@
 ---
 shortcode: klhrsnctrs
-name: {full: The Sanctuaries of Kalihara, aliases: []}
+name: {full: The Sanctuaries of Kalihara}
 type: lore
 subType: custom
 description: "The interior sanctuaries of Kalihara's custodians—seminary, archive, workshop and working site at once—with the works each holds in its charge, the rounds of the Tenth-Year Walks, and where the custodians of the great works are found."

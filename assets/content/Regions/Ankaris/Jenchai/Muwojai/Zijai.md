@@ -1,6 +1,6 @@
 ---
 shortcode: zijai
-name: {full: Zijai, aliases: [Star Peak]}
+name: {full: Star Peak, jurt: [Zijai]}
 type: place
 subType: region
 description: "Star Peak, the cedar mountain of the interior of the great island beside the Emperor's own Zojai, with the omen-readers' observatory on its summit."

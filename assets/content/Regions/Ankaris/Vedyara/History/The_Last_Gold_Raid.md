@@ -1,6 +1,6 @@
 ---
 shortcode: lastgldrd
-name: {full: The Last Gold Raid, aliases: []}
+name: {full: The Last Gold Raid}
 type: lore
 subType: history
 description: "About 80 BF raiders from a neighboring hill kingdom took a month's gold off Suvargeri's weighing-station; Bharyastan's king Dursabira rode them down in the gorges and returned the gold by weight, and the treaty of horse for gold was sworn at the next weighing. Suvargeri has not lost gold to a raid since."

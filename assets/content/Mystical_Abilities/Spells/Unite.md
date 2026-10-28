@@ -1,6 +1,6 @@
 ---
 shortcode: unite
-name: {full: Unite, aliases: []}
+name: {full: Unite}
 type: mysticalability
 subType: arcaneincantation
 description: "Joins two beings together; creates mystical sympathetic bond."

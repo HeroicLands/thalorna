@@ -1,6 +1,6 @@
 ---
 shortcode: vrathannskal
-name: {full: Vrathann Skalfidrok, aliases: [Jarl Vrathann Skalfidrok]}
+name: {full: Vrathann Skalfidrok, en: [Jarl Vrathann Skalfidrok]}
 type: being
 subType: npc
 description: A rival clan leader who views Skrilmil Stormborn's unification efforts as a threat to his own power.

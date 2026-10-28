@@ -1,6 +1,6 @@
 ---
 shortcode: iuguleri
-name: {full: Iugu-Leri, aliases: []}
+name: {full: Iugu-Leri}
 type: place
 subType: settlement
 description: "A farm-and-market village of the Capital Selat, one of the scores that ring Galezkara within half a day's barge of its wharves"

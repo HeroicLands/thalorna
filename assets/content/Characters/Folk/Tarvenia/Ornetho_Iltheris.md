@@ -1,6 +1,6 @@
 ---
 shortcode: ornethoilthe
-name: {full: Ornetho Iltheris, aliases: [Bishop Ornetho]}
+name: {full: Ornetho Iltheris, en: [Bishop Ornetho]}
 type: being
 subType: npc
 description: A high-ranking member of the formal priesthood who visits Nebralis with orders to reform the temple's work, named in Alethra Torvaleth.

@@ -1,6 +1,6 @@
 ---
 shortcode: tskcrshr
-name: {full: Tuskcrasher, aliases: []}
+name: {full: Tuskcrasher}
 type: being
 subType: creature
 description: "A made, colossal wild boar of suicidal ferocity that rules deep forests and destroys any threat to its territory."

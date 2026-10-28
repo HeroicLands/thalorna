@@ -1,6 +1,6 @@
 ---
 shortcode: knrvthnhfrngr
-name: {full: Knurvthann Hafringur, aliases: []}
+name: {full: Knurvthann Hafringur}
 type: being
 subType: npc
 tags: [draft, common-folk]

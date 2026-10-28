@@ -1,6 +1,6 @@
 ---
 shortcode: frithholt
-name: {full: Frithholt, aliases: []}
+name: {full: Frithholt}
 type: place
 subType: settlement
 description: "A Varokh village in Skathwald, nearest the old lost ground, that shelters displaced kin without claiming them."

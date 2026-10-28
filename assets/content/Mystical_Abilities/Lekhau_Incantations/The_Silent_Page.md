@@ -1,6 +1,6 @@
 ---
 shortcode: silentpage
-name: {full: The Silent Page, aliases: []}
+name: {full: The Silent Page}
 type: mysticalability
 subType: arcaneincantation
 description: "Renders writing legible only to a named reader, and blank to everyone else."

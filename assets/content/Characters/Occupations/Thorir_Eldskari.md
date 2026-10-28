@@ -1,6 +1,6 @@
 ---
 shortcode: thorrldskr
-name: {full: Thorir Eldskari, aliases: []}
+name: {full: Thorir Eldskari}
 type: being
 subType: npc
 tags: [todo-warrior, draft, soldiery]

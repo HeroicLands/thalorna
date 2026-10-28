@@ -1,6 +1,6 @@
 ---
 shortcode: brnklnthrk
-name: {full: Barneke Lantrike, aliases: []}
+name: {full: Barneke Lantrike}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]

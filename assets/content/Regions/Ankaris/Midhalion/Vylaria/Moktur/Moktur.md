@@ -1,6 +1,6 @@
 ---
 shortcode: moktur
-name: {full: Moktur, aliases: []}
+name: {full: Moktur}
 type: place
 subType: region
 description: "The mountainous northern shield of the Vylarian Empire—the land of the Province of Moktur, a hard frontier of mines, timber and fortified valleys on the Vristwald march."

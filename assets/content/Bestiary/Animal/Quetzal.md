@@ -1,6 +1,6 @@
 ---
 shortcode: quetzal
-name: {full: Quetzal, aliases: [Sacred Quetzal]}
+name: {full: Quetzal, en: [Sacred Quetzal]}
 type: being
 subType: creature
 description: "A small, brilliantly iridescent jungle trogon whose trailing green tail feathers are prized above gold across the highland civilizations."

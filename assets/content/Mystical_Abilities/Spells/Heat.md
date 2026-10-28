@@ -1,6 +1,6 @@
 ---
 shortcode: heat
-name: {full: Heat, aliases: []}
+name: {full: Heat}
 type: mysticalability
 subType: arcaneincantation
 description: "Controllable heating; forges metal, melts ice, ignites materials gradually."

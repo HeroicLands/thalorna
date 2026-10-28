@@ -1,6 +1,6 @@
 ---
 shortcode: sourimael
-name: {full: Sóurimel, aliases: []}
+name: {full: Sóurimel}
 type: place
 subType: settlement
 description: "A woodland settlement within the Silver Forests—one of the few permanent Élavendri holdings inside Áelendan country, existing on sufferance and on an agreement nobody will produce in writing."

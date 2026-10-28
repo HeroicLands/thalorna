@@ -1,6 +1,6 @@
 ---
 shortcode: vanastoli
-name: {full: Vanastoli, aliases: []}
+name: {full: Vanastoli}
 type: place
 subType: settlement
 description: "Small woodland village at the head of the valley, which cuts the timber of the academy halls and the fort."

@@ -1,6 +1,6 @@
 ---
 shortcode: basinbldrs
-name: {full: The Basin Builders, aliases: [The Lake People]}
+name: {full: The Basin Builders, en: [The Lake People]}
 type: lore
 subType: history
 description: "A people of canals, stepped mounds and sealed jars who farmed the shores of a great lake in the heart of the Khazryn from before 2600 BF until the water failed, around 1700 BF, and left behind a salt flat, a few wells and their dead."

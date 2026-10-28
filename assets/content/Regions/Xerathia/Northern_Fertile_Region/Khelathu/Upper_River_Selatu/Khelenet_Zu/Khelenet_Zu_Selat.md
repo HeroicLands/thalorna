@@ -1,6 +1,6 @@
 ---
 shortcode: khelenetzslt
-name: {full: Khelenet-Zu Selat, aliases: []}
+name: {full: Khelenet-Zu Selat}
 type: place
 subType: region
 description: "Old assize-courts; a selat famous for its lawyer-priests and land-survey scribes—the land of the Selat of Khelenet-Zu, one of the upper-river selatu of Au'Khelathu."

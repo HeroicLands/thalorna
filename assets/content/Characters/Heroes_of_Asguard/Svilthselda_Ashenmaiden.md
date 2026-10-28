@@ -1,6 +1,6 @@
 ---
 shortcode: svlthsldashnmdn
-name: {full: Svilthselda Ashenmaiden, given: Svilthselda, aliases: [Ashenmaiden]}
+name: {full: Svilthselda Ashenmaiden, given: Svilthselda, en: [Ashenmaiden]}
 type: being
 subType: character
 tags: [paragon, heroes-of-asguard, clergy]

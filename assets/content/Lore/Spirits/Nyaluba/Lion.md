@@ -1,6 +1,6 @@
 ---
 shortcode: lionruwozispr
-name: {full: Lion Spirit, aliases: [The Lion Guide, Lion of the Ruwozi]}
+name: {full: Lion Spirit, en: [The Lion Guide, Lion of the Ruwozi]}
 type: lore
 subType: spirit
 description: "The lion-guide of the Ruwozi as a being—the witness of the Long Pact, who is met in the open and never from cover."

@@ -1,6 +1,6 @@
 ---
 shortcode: coldstone
-name: {full: "A Cold Stone", aliases: []}
+name: {full: A Cold Stone}
 type: miscgear
 description: "A bone-white, hard piece of ithasul from a dead work, sold as a curiosity in the stalls of Ilovanu."
 tags: [kaan-sul, kalihara]

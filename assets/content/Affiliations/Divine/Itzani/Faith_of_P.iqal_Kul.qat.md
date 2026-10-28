@@ -1,6 +1,6 @@
 ---
 shortcode: piqalkulqat
-name: {full: "Faith of P'iqal Kul'qat", aliases: [Builder of the Sacred Peak, "P'iqal Kul'qat"]}
+name: {full: Faith of P'iqal Kul'qat, en: [Builder of the Sacred Peak], kiichek: [P'iqal Kul'qat]}
 type: affiliation
 subType: faithtradition
 description: "Creation, building and renewal—the goddess who has raised the world five times, teaches that failure is how one learns to build better, and ranks her priests by craft rather than birth."

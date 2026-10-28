@@ -1,6 +1,6 @@
 ---
 shortcode: kayikchalix
-name: {full: "Faith of K'ayik Ch'alish", aliases: [The Sacred Flame, "K'ayik Ch'alish"]}
+name: {full: Faith of K'ayik Ch'alish, en: [The Sacred Flame], kiichek: [K'ayik Ch'alish]}
 type: affiliation
 subType: faithtradition
 description: "Fire, transformation and sacrifice—the god who alone converts the blood-offering into divine substance, and whose eternal flames must never be allowed to die."

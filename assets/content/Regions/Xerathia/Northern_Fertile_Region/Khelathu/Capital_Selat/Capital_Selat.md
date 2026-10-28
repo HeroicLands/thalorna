@@ -1,6 +1,6 @@
 ---
 shortcode: capitalselat
-name: {full: The Capital Selat, aliases: [The Capital Selat of Au'Khelathu]}
+name: {full: The Capital Selat, en: [The Capital Selat of Au'Khelathu]}
 type: affiliation
 subType: polity
 description: "The vast central selat surrounding the imperial city of Galezkara—seat of the Gar-Au, home of the central bureaucracy and the greatest temples, and site of the royal necropolis; not one of a class but a single enormous province in its own right."

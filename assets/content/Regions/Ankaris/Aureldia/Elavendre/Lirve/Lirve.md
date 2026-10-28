@@ -1,6 +1,6 @@
 ---
 shortcode: lirve
-name: {full: Lirve, aliases: []}
+name: {full: Lirve}
 type: place
 subType: region
 description: "Élavendre's western seaboard—cliffs and deep sea-facing forest where the Sinale keep their enclaves, the fae sites lie thickest outside the mountains, and the kingdom's finest timber and dyes are cut under license."

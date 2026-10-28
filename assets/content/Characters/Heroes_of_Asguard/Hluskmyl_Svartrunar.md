@@ -1,6 +1,6 @@
 ---
 shortcode: hlskmylsvrtrnr
-name: {full: Hlusmil Svartrunar, given: Hlusmil, aliases: [Svartrunar]}
+name: {full: Hlusmil Svartrunar, given: Hlusmil, nord: [svartrunar]}
 type: being
 subType: character
 tags: [demigod, heroes-of-asguard, unguilded, mages]

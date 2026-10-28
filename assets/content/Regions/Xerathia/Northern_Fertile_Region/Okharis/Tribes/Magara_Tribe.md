@@ -1,6 +1,6 @@
 ---
 shortcode: magaratrb
-name: {full: Magara Tribe, aliases: []}
+name: {full: Magara Tribe}
 type: affiliation
 subType: polity
 description: A warlike horse-breeding tribe of the Okharis plains, keepers of the Spirit Blades.

@@ -1,6 +1,6 @@
 ---
 shortcode: thrldvrisldr
-name: {full: Thrildvir Iseldur, given: Thrildvir, clan: Iseldur, aliases: []}
+name: {full: Thrildvir Iseldur, given: Thrildvir, clan: Iseldur}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]

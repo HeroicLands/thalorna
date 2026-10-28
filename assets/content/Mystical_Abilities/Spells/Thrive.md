@@ -1,6 +1,6 @@
 ---
 shortcode: thrive
-name: {full: Thrive, aliases: []}
+name: {full: Thrive}
 type: mysticalability
 subType: arcaneincantation
 description: "Grants vigor and vitality; strengthens body and spirit."

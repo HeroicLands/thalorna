@@ -1,6 +1,6 @@
 ---
 shortcode: embsydnvrtantsou
-name: {full: Embassy from Dunavarre to Tantsou, aliases: []}
+name: {full: Embassy from Dunavarre to Tantsou}
 type: scenario
 subType: adventure
 data:

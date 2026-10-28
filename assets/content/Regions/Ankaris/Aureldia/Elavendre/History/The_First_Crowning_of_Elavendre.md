@@ -1,6 +1,6 @@
 ---
 shortcode: firstcrown
-name: {full: The First Crowning of Élavendre, aliases: [The Tree-Line Oath]}
+name: {full: The First Crowning of Élavendre, en: [The Tree-Line Oath]}
 type: lore
 subType: history
 description: "About 560 BF the lowland houses of the Berav basin acclaimed Táldoren of the house of Orethan as king, and he went up to Ésalosa and swore that the crown's writ stops where the tribes' ground begins."

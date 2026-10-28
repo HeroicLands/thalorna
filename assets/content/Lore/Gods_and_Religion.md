@@ -1,6 +1,6 @@
 ---
 shortcode: godsrelign
-name: {full: The Truth of Religion, aliases: [Gods (GM), Religion (GM)]}
+name: {full: The Truth of Religion, en: [Gods (GM), Religion (GM)]}
 type: doc
 subType: concept
 tags: [religion, theology, metaphysics, gm]

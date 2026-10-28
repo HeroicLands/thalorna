@@ -1,6 +1,6 @@
 ---
 shortcode: aelithraenewyn
-name: {full: Áelithra Énevin, given: Áelithra, clan: Énevin, aliases: []}
+name: {full: Áelithra Énevin, given: Áelithra, clan: Énevin}
 type: being
 subType: character
 tags: [draft, embassy-to-tantsou]

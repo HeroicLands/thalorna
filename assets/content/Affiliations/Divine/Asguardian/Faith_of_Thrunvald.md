@@ -1,6 +1,6 @@
 ---
 shortcode: thrunvald
-name: {full: Faith of Thrunvald, aliases: [The Stormborn Path]}
+name: {full: Faith of Thrunvald, en: [The Stormborn Path]}
 type: affiliation
 subType: faithtradition
 description: "War, Reavers, and Sea."

@@ -1,6 +1,6 @@
 ---
 shortcode: naughat
-name: {full: Naughat, aliases: []}
+name: {full: Naughat}
 type: place
 subType: settlement
 description: "The seasonal port at the mouth of the Sarveda—a beach, a bar and a warehouse street that is a town for eight months and a fishing village for four."

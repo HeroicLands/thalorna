@@ -1,6 +1,6 @@
 ---
 shortcode: bisonttm
-name: {full: Bison, aliases: [Bison Totem]}
+name: {full: Bison, en: [Bison Totem]}
 type: lore
 subType: bestiary
 description: "The bison as a totemic ideal, and the human character it describes."

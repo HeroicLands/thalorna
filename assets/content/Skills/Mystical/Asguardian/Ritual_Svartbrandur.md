@@ -1,6 +1,6 @@
 ---
 shortcode: svartbrandur
-name: {full: "Ritual: Svartbrandur", aliases: [The Flameborn Path]}
+name: {full: "Ritual: Svartbrandur", en: [The Flameborn Path]}
 type: skill
 subType: mystical
 tags: [asguardian, faith-skill, draft]

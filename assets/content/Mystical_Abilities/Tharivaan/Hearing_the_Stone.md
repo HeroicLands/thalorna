@@ -1,6 +1,6 @@
 ---
 shortcode: hearingstone
-name: {full: Hearing the Stone, aliases: [The Answering]}
+name: {full: Hearing the Stone, en: [The Answering]}
 type: mysticalability
 subType: divination
 description: "The answering of Kalihara: a person one of the Ithari works answers knows that work's state—working, working badly, stopped or dead—and nothing else."

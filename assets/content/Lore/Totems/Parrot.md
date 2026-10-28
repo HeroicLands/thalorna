@@ -1,6 +1,6 @@
 ---
 shortcode: parrotttm
-name: {full: Parrot, aliases: [Parrot Totem]}
+name: {full: Parrot, en: [Parrot Totem]}
 type: lore
 subType: bestiary
 description: "The parrot as a totemic ideal, and the human character it describes."

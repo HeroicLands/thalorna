@@ -1,6 +1,6 @@
 ---
 shortcode: lizelasdty
-name: {full: Lizelas, aliases: []}
+name: {full: Lizelas}
 # terran_analog: Flora, the Roman goddess of flowers, spring and fertility
 type: lore
 subType: deity

@@ -1,6 +1,6 @@
 ---
 shortcode: vorgald
-name: {full: Vorgald, aliases: []}
+name: {full: Vorgald}
 type: place
 subType: settlement
 description: "A Khazari hold in the eastern heights of the Ironfells—known to exist, effectively impossible to reach, and holding no relationship with any realm on Aelwyth."

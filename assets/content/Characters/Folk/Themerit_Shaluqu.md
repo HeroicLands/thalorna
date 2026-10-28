@@ -1,6 +1,6 @@
 ---
 shortcode: themeritshl2
-name: {full: Themerit Shaluku, aliases: []}
+name: {full: Themerit Shaluku}
 type: being
 subType: npc
 description: "An aging widow and powerful patron, who sees in her protégée the ambitious mind she once possessed"

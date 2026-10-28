@@ -1,6 +1,6 @@
 ---
 shortcode: kaldremavent
-name: {full: Kaldrema Venthelis, aliases: [High Priestess Kaldrema]}
+name: {full: Kaldrema Venthelis, en: [High Priestess Kaldrema]}
 type: being
 subType: npc
 description: High Priestess of the Verdant Sanctum, who marked Erithon Uselindas with the serpent tattoo.

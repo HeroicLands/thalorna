@@ -1,6 +1,6 @@
 ---
 shortcode: selatgrrthsr
-name: {full: The Selat of Gar-Reth'Sa'ar, aliases: []}
+name: {full: The Selat of Gar-Reth'Sa'ar}
 type: affiliation
 subType: polity
 description: "The scribal selat of the Au'Khelathu upper river—seat of the foremost temple of Reth'Sa'ar at Khelunu, home of the empire's finest scribal schools, its astronomers and calendar-keepers, and the priestly archivists who maintain the unbroken king-lists since the Qet Telgu."

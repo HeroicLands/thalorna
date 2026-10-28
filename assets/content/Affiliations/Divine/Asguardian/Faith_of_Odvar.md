@@ -1,6 +1,6 @@
 ---
 shortcode: odvar
-name: {full: Faith of Odvar, aliases: [The Enlightened Path]}
+name: {full: Faith of Odvar, en: [The Enlightened Path]}
 type: affiliation
 subType: faithtradition
 description: "Knowledge and Wisdom."

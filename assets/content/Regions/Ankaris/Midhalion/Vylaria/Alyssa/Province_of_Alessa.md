@@ -1,6 +1,6 @@
 ---
 shortcode: provinclys
-name: {full: Province of Alessa, aliases: []}
+name: {full: Province of Alessa}
 type: affiliation
 subType: polity
 description: "Heartland province of the Vylarian Empire—its urban, political, and institutional core, holding the imperial capital, the Senate, and the Thordimalon; it trades in influence, law, and Vylarian Steel and leans on its sister provinces for food."

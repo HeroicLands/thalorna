@@ -1,6 +1,6 @@
 ---
 shortcode: tvrnthnisldr
-name: {full: Tvurnthann Iseldur, given: Tvurnthann, clan: Iseldur, aliases: []}
+name: {full: Tvurnthann Iseldur, given: Tvurnthann, clan: Iseldur}
 type: being
 subType: character
 tags: [heroes-and-knaves, todo, guilded, mages]

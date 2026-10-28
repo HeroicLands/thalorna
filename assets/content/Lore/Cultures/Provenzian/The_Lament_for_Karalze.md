@@ -1,6 +1,6 @@
 ---
 shortcode: karalzelmnt
-name: {full: The Lament for Karalze, aliases: [The Lament at the Door]}
+name: {full: The Lament for Karalze, en: [The Lament at the Door]}
 type: lore
 subType: literature
 description: "The lament the sílador Sirrelure made for his patron Karalze of Pirnebris, killed holding the road at Malnebris in a summer raid: the morning call at a door no one opens, the train left unplaced, the night the clients fetched their patron off a loud field, and the testimony the dead man could not speak, his wrongs with his goods, said for him at the tomb."
@@ -16,7 +16,7 @@ data:
     - place-talothe
     - affiliation-selmoros
     - lore-provenzianclt
-  language: provnzlng
+  lang: prov
 
 # terran_analog: "The troubadour planh, the formal lament for a dead lord sung by his own poet, for the praise, the catalogue of what the household has lost and the address to the heir; the stanza whose last line returns on one rhyme-word throughout; the deathbed confession made by another on behalf of one who died without it."
 ---

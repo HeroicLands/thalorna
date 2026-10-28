@@ -1,6 +1,6 @@
 ---
 shortcode: mizhara
-name: {full: "Ritual: Míthara", aliases: [The World's First Light]}
+name: {full: "Ritual: Míthara", en: [The World's First Light]}
 type: skill
 subType: mystical
 tags: [ashalan, faith-skill, draft]

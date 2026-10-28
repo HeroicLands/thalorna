@@ -1,6 +1,6 @@
 ---
 shortcode: nahild
-name: {full: Faith of Nahild, aliases: [The Eternal Night]}
+name: {full: Faith of Nahild, en: [The Eternal Night]}
 type: affiliation
 subType: faithtradition
 description: "Dead and Underworld."

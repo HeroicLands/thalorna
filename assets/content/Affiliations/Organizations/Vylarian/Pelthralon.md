@@ -1,6 +1,6 @@
 ---
 shortcode: aediles
-name: {full: Pelthralon, aliases: [Magistrates of the Wards]}
+name: {full: Magistrates of the Wards, vyl: [Pelthralon]}
 type: affiliation
 subType: governmental
 description: "The ward magistrates of Orzara—the court most citizens ever meet, keeping the district law over markets, licenses, weights, building and sanitation, and famously open to a bribe."

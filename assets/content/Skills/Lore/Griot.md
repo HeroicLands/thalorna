@@ -1,6 +1,6 @@
 ---
 shortcode: griot
-name: {full: Griot, aliases: [Griot Tradition, Keeper of Memory]}
+name: {full: Griot, en: [Griot Tradition, Keeper of Memory]}
 type: skill
 subType: lore
 description: "The keeping of a people's record where there is no writing—genealogies, standing pacts, and the memory-songs that carry them."

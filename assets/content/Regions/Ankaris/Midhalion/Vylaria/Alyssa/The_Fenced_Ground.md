@@ -1,6 +1,6 @@
 ---
 shortcode: recensiogrnd
-name: {full: The Fenced Ground, aliases: [The Therona Ground, The Bare Field]}
+name: {full: The Fenced Ground, en: [The Therona Ground, The Bare Field]}
 type: place
 subType: feature
 description: "A tract of good Alessan farmland a day's ride from Velisara where the Therona of 75 BF ended; it is bare, fenced and kept clear at the Order's charge, and it has never been dug."

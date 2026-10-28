@@ -1,6 +1,6 @@
 ---
 shortcode: rasikaradty
-name: {full: Rasikara, aliases: []}
+name: {full: Rasikara}
 type: lore
 subType: deity
 description: "The Flame of Renewal in the Varnuka pantheon, whose fire destroys so that the cycle may begin again."

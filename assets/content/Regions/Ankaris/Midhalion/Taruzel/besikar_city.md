@@ -1,6 +1,6 @@
 ---
 shortcode: besikar2
-name: {full: Besikar, aliases: []}
+name: {full: Besikar}
 type: place
 subType: settlement
 description: "The largest and wealthiest city of Taruzel—the guild quarter along the Grand Harbor, the old city behind it, and the finest natural anchorage on the Vylarian Sea."

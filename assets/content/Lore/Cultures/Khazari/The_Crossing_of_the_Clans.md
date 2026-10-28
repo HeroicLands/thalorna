@@ -1,6 +1,6 @@
 ---
 shortcode: clanscrossing
-name: {full: The Crossing of the Clans, aliases: [Sargh-fudhál]}
+name: {full: The Crossing of the Clans, khaz: [sargh-fudhál]}
 type: lore
 subType: literature
 description: "The Khazari deep song of their own beginning, sung below at the turning of the year: the lamp lit, the seven clans counted by name, the old realm named once, the crossing, a world found already standing, and the end left unknown."
@@ -10,7 +10,7 @@ data:
   culture: khazariclt
   form: habad
   subjects: [lore-khazararrv, lore-flkkhazar, lore-goddreams, lore-khazariclt]
-  language: khazarlng
+  lang: khaz
 ---
 
 **The Crossing of the Clans**, _Sargh-fudhál_, is the deep song (_habad_) the [[lore-flkkhazar|Khazari]] sing of their own beginning, and a hold sings it once a year, below, on the night of the turning of the year (see [[lore-khazariclt|Khazari]]). The keepers of the archive read the year's craft-records first, and the lamps of the deepest hall are put out one at a time as the reading goes, so the song begins by the last lamp and ends when that lamp is put out and the hold climbs in the dark toward the face. The eldest masters sing it. The eldest present sings the courses of the lamp and the course of the old realm, and seven of the old sing the seven courses of the count, one clan each: [Summág]{.name data-type="affiliation/lineage"}, [Dullák]{.name data-type="affiliation/lineage"}, [Rummák]{.name data-type="affiliation/lineage"}, [Gullád]{.name data-type="affiliation/lineage"}, [Vurrán]{.name data-type="affiliation/lineage"}, [Gurráz]{.name data-type="affiliation/lineage"} and [Lummáv]{.name data-type="affiliation/lineage"}, in that order, whether or not a house of that clan lives in the hold, so a hold with no house of Gurráz still hears Gurráz counted. A deep song is laid in courses, as a wall is, each line bonded to the line under it by taking up the same root in another shape, and the rendering below keeps that bond audible where it can. The song names the realm the seven left once, in the mouth of the eldest, and nobody younger says it that night; it gives the war there, and the rings forged in it, as the thing the clans fled; it says who went first through the crossing (see [[lore-khazararrv|the Coming of the Khazari]]) into [[place-worldthlrn|the World of Thalorna]], [Puthakun]{.name data-type="being/npc"}, who served [[lore-goddreams|the God of Dreams]] (Lubát) and had the seven swear before it, held the passage behind the last of them and sealed it, and which clan went last of the seven; and of the end of the world it says that nobody has read it.

@@ -1,6 +1,6 @@
 ---
 shortcode: aurochs
-name: {full: Aurochs, aliases: []}
+name: {full: Aurochs}
 type: being
 subType: creature
 description: "A massive, ill-tempered wild bovine of prehistoric power that roams grasslands and sparse forests in loose, dangerous herds."

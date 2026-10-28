@@ -1,6 +1,6 @@
 ---
 shortcode: tcharzilikon
-name: {full: Charzilikon Drimikot, aliases: []}
+name: {full: Charzilikon Drimikot}
 type: being
 subType: npc
 description: Son of Alikos Drimikot, once apprenticed to him, who rejected his father's teachings and became a champion of faster, newer techniques.

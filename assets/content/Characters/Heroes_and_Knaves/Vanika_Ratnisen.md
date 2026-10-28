@@ -1,6 +1,6 @@
 ---
 shortcode: vanikartns
-name: {full: Vanika Ratnisen, given: Vanika, clan: Ratnisen, aliases: []}
+name: {full: Vanika Ratnisen, given: Vanika, clan: Ratnisen}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]

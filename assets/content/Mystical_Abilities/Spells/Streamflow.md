@@ -1,6 +1,6 @@
 ---
 shortcode: strmflw
-name: {full: Streamflow, aliases: []}
+name: {full: Streamflow}
 type: mysticalability
 subType: arcaneincantation
 description: "Controls water flow; directs stream or creates current."

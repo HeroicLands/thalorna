@@ -1,6 +1,6 @@
 ---
 shortcode: daotouwochai
-name: {full: "Ritual: Daotou Wochai", aliases: [Daotou Wochai]}
+name: {full: "Ritual: Daotou Wochai", tant: [Daotou Wochai]}
 type: skill
 subType: mystical
 tags: [celestial-pantheon, faith-skill, draft]

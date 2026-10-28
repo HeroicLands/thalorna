@@ -1,6 +1,6 @@
 ---
 shortcode: trgdahstry
-name: {full: Histories and Legends of Targud, aliases: []}
+name: {full: Histories and Legends of Targud}
 type: lore
 subType: history
 description: "Targud's frontier memory and the disputed tale of Vrellbrandur, the sword bound behind its king's seat."

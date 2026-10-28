@@ -1,6 +1,6 @@
 ---
 shortcode: stppln
-name: {full: Steppe Lion, aliases: []}
+name: {full: Steppe Lion}
 type: being
 subType: creature
 description: "A massive solitary ambush predator of open steppes, holding and fiercely defending enormous territories against all intruders."

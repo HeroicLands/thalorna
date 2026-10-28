@@ -1,6 +1,6 @@
 ---
 shortcode: parzheliontr
-name: {full: Parzhelion Trividek, aliases: []}
+name: {full: Parzhelion Trividek}
 type: being
 subType: npc
 description: A first-sergeant and Trianthion veteran who was a lieutenant there and has never forgiven the desertion, named in The Iron Wolves Company and Trianthion.

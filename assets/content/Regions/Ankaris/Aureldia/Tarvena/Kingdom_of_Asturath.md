@@ -1,6 +1,6 @@
 ---
 shortcode: kngdmstrth
-name: {full: Kingdom of Asturath, aliases: []}
+name: {full: Kingdom of Asturath}
 type: affiliation
 subType: polity
 description: "Mountainous heartland of Tarvénia, seat of the High King—kingdom of mountain fortresses never conquered by Vylaria, spiritual core of Tarvenan independence."

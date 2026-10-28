@@ -1,6 +1,6 @@
 ---
 shortcode: ritualqearet
-name: {full: "Ritual: Qe'aret", aliases: [Keeper of Truth and Harmony]}
+name: {full: "Ritual: Qe'aret", en: [Keeper of Truth and Harmony]}
 type: skill
 subType: mystical
 tags: [khelathi, faith-skill, draft]

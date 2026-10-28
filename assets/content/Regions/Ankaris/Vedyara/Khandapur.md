@@ -1,6 +1,6 @@
 ---
 shortcode: khandapur
-name: {full: Khandapur, aliases: []}
+name: {full: Khandapur}
 type: place
 subType: settlement
 description: "The upstream village of Rajepur, at the head-gate of the irrigation works and the Mahajaya shrine where the year's water is divided."

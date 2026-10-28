@@ -1,6 +1,6 @@
 ---
 shortcode: tarvikatamrak
-name: {full: Tarvika Tamraksha, aliases: [Overseer Tarvika]}
+name: {full: Tarvika Tamraksha, en: [Overseer Tarvika]}
 type: being
 subType: npc
 description: A ruthless administrator dispatched by the Merchant Collective to increase profits, named in Shilabir Vidsamondal.

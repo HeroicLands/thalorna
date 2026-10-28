@@ -1,6 +1,6 @@
 ---
 shortcode: qeltnu
-name: {full: Qelt'nu, aliases: []}
+name: {full: Qelt'nu}
 type: lore
 subType: arcana
 description: "The made body: craft, stone, flesh, shaping, animation, transformation."

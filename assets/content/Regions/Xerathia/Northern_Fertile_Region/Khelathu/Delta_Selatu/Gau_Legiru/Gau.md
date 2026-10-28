@@ -1,6 +1,6 @@
 ---
 shortcode: gau
-name: {full: Gau, aliases: []}
+name: {full: Gau}
 type: place
 subType: settlement
 description: "Market & Temple Town"

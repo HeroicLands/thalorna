@@ -1,6 +1,6 @@
 ---
 shortcode: mbrydct
-name: {full: Ember-eyed Cat, aliases: [Naokalo]}
+name: {full: Ember-eyed Cat, kali: [Naokalo]}
 type: being
 subType: creature
 description: "A heavy, dark-coated forest cat the size of a leopard, with a faint green dapple and eyes that throw back lamp-light as a steady green, and the one beast of the forest that takes grown people."

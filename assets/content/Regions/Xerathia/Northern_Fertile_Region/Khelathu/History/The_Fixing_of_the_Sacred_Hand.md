@@ -1,6 +1,6 @@
 ---
 shortcode: sacredhand
-name: {full: The Fixing of the Sacred Hand, aliases: [The Fixing of the Signs]}
+name: {full: The Fixing of the Sacred Hand, en: [The Fixing of the Signs]}
 type: lore
 subType: history
 description: "About 540 ST (1571 BF), in the reign of the fifth Gar-Au, the priesthood of Reth'Sa'ar fixes the signs of the sacred hand, their variants and their order, and the classical register of the language, and every temple inscription since is cut in them."

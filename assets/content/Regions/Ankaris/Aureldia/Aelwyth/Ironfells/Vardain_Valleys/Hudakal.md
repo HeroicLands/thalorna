@@ -1,6 +1,6 @@
 ---
 shortcode: barakth
-name: {full: Hudakal, aliases: []}
+name: {full: Hudakal}
 type: place
 subType: settlement
 description: "The oldest of the Vardain villages and the nearest to the Gate—where the tallies are kept and the Khazari schedule is reckoned."

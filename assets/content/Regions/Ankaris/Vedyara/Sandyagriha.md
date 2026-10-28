@@ -1,6 +1,6 @@
 ---
 shortcode: sandyagrha
-name: {full: Sandyagriha, aliases: [The House of the Long Evening]}
+name: {full: The House of the Long Evening, vedy: [sandyagriha]}
 type: place
 subType: structure
 description: >-

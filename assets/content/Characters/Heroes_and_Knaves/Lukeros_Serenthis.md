@@ -1,6 +1,6 @@
 ---
 shortcode: lucernsrnt
-name: {full: Lukeros Serenthis, given: Lukeros, clan: Serenthis, aliases: []}
+name: {full: Lukeros Serenthis, given: Lukeros, clan: Serenthis}
 type: being
 subType: character
 tags: [tamzir-crew, tradesfolk]

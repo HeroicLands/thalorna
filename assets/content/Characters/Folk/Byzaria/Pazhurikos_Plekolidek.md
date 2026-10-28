@@ -1,6 +1,6 @@
 ---
 shortcode: pazhurikospl
-name: {full: Pazhurikos Plekolidek, aliases: [Merchant-Lord Pazhurikos Plekolidek]}
+name: {full: Pazhurikos Plekolidek, en: [Merchant-Lord Pazhurikos Plekolidek]}
 type: being
 subType: npc
 description: A wealthy trader whose hunting party was decimated by a great predator and who blames Mivios Zapemes for failing to eliminate the beast.

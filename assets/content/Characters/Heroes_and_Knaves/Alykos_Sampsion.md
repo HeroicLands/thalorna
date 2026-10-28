@@ -1,6 +1,6 @@
 ---
 shortcode: alykosmpsn
-name: {full: Alikos Bridutis, given: Alikos, clan: Bridutis, aliases: []}
+name: {full: Alikos Bridutis, given: Alikos, clan: Bridutis}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]

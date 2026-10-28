@@ -1,6 +1,6 @@
 ---
 shortcode: theshadow
-name: {full: The Shadow, aliases: []}
+name: {full: The Shadow}
 type: lore
 subType: cosmology
 description: "Chaos from outside creation: a corrupting force neither arcane, spiritual nor divine, behind the undead and the madness of the gods who touch it."

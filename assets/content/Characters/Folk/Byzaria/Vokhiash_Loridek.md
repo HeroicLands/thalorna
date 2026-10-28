@@ -1,6 +1,6 @@
 ---
 shortcode: vokhiashlori
-name: {full: Vokhiásh Loridek, aliases: [Guild Master Vokhiásh Loridek]}
+name: {full: Vokhiásh Loridek, en: [Guild Master Vokhiásh Loridek]}
 type: being
 subType: npc
 description: The current head of the Maritime Shipwrights' Guild, who acts as a political buffer between Trufios Veghekos and government bureaucracies.

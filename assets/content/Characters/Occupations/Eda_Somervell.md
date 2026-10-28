@@ -1,6 +1,6 @@
 ---
 shortcode: edasomervl
-name: {full: Eda Somervell, aliases: []}
+name: {full: Eda Somervell}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

@@ -1,6 +1,6 @@
 ---
 shortcode: tolvan
-name: {full: The Tolvan, aliases: [The Fiscal Court, The Imperial Tax Court]}
+name: {full: The Fiscal Court, en: [The Imperial Tax Court], vyl: [The Tolvan]}
 type: affiliation
 subType: governmental
 description: "Vylarian imperial taxation administration—sets imperial tax rates, awards Tolar collection contracts, audits the tax-farmers, and adjudicates taxpayer disputes; collects only in the empire's direct-governance territory (Vylaria proper), and claims Helionis on paper."

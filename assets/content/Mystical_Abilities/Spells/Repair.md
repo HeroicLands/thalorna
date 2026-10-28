@@ -1,6 +1,6 @@
 ---
 shortcode: repair
-name: {full: Repair, aliases: []}
+name: {full: Repair}
 type: mysticalability
 subType: arcaneincantation
 description: "Mends broken objects; restores structures to working condition."

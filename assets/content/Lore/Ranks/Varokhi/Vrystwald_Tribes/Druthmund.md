@@ -1,6 +1,6 @@
 ---
 shortcode: druthmundrnk
-name: {full: "Druthmund", aliases: []}
+name: {full: Druthmund}
 type: lore
 subType: law
 description: "Of a kindred's blood, entitled to its protection, its feud and its share, in the Vristwald Tribes."

@@ -1,6 +1,6 @@
 ---
 shortcode: luyatgarraqu
-name: {full: Luyat Gar'Raku, aliases: [Captain Luyat]}
+name: {full: Luyat Gar'Raku, en: [Captain Luyat]}
 type: being
 subType: npc
 description: The militia commander who employs Qelatha Melu'Khelariu and has developed real respect for her skills.

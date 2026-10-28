@@ -1,6 +1,6 @@
 ---
 shortcode: meghonata
-name: {full: "Ritual: Meghonata", aliases: [Meghonata, Lord of Thunder]}
+name: {full: "Ritual: Meghonata", en: [Lord of Thunder], vedy: [meghonata]}
 type: skill
 subType: mystical
 tags: [varnuka, faith-skill]

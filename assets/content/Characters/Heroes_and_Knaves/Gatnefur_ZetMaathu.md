@@ -1,6 +1,6 @@
 ---
 shortcode: gatnefrztmth
-name: {full: Gatnefur Zet'Maathu, given: Gatnefur, clan: Zet'Maathu, aliases: []}
+name: {full: Gatnefur Zet'Maathu, given: Gatnefur, clan: Zet'Maathu}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]

@@ -1,6 +1,6 @@
 ---
 shortcode: coldfordhead
-name: {full: The Head at Koldford, aliases: [The Head of Harmund]}
+name: {full: The Head at Koldford, en: [The Head of Harmund]}
 type: lore
 subType: literature
 description: "The tale the Wyndmarch tells at its wakes after the candles are trimmed at midnight: the three bans laid on a child at the crossroads stone, the champion's portion won at a lord's board and the errand that came with it, the bread given away and the water crossed after dark, the head set on a stake facing the wood that kept the ford seven winters, and the priest of the Silent Judge who asked it whether it would go."
@@ -16,7 +16,7 @@ data:
     - affiliation-selmoros
     - lore-selmorosdty
     - lore-aelwythanclt
-  language: aelwthlng
+  lang: aelw
 
 # terran_analog: "The early Irish and Welsh hero tales for the geis laid in childhood and broken by fate's arrangement, the contest for the champion's portion at a feast, and the severed head that goes on speaking and guarding; the wake-night storytelling of the British and Irish countryside; the frontier ballads of a march that loses ground every year."
 ---

@@ -1,6 +1,6 @@
 ---
 shortcode: mirvirsnarvu
-name: {full: Mirvir Snarvumak, aliases: []}
+name: {full: Mirvir Snarvumak}
 type: being
 subType: npc
 description: A retired tentmaker of considerable reputation, father of Glirvrinna Snarvumak.

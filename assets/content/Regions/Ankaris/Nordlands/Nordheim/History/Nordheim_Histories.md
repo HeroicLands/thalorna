@@ -1,6 +1,6 @@
 ---
 shortcode: nrdhmhstry
-name: {full: Histories and Legends of Nordheim, aliases: []}
+name: {full: Histories and Legends of Nordheim}
 type: lore
 subType: history
 description: "Remembered famine, a disputed frontier land-taking, and tales of Nordheim's unquiet coast and old graves."

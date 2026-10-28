@@ -1,6 +1,6 @@
 ---
 shortcode: sixhillsvyl
-name: {full: Six Hills, aliases: []}
+name: {full: Six Hills}
 type: place
 subType: feature
 description: "Six Hills"

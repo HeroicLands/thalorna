@@ -1,6 +1,6 @@
 ---
 shortcode: tzuqilixbal
-name: {full: "Faith of Ts'uqil Ish'bal", aliases: [The Death Jaguar, "Ts'uqil Ish'bal"]}
+name: {full: Faith of Ts'uqil Ish'bal, en: [The Death Jaguar], kiichek: [Ts'uqil Ish'bal]}
 type: affiliation
 subType: faithtradition
 description: "Death, decay and the underworld—the jaguar who kills swiftly and the owl who watches the slow return to earth, and the codices that guide a soul through Ch'al Ts'umaq."

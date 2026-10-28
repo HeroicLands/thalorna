@@ -1,6 +1,6 @@
 ---
 shortcode: hrandynda
-name: {full: Hrandinda, aliases: [Thane Hrandinda]}
+name: {full: Hrandinda, en: [Thane Hrandinda]}
 type: being
 subType: npc
 description: A warlord of the northern territories who views the Serpent's Hearth as a den of spies, named in Hvalgvir Veturdómur.

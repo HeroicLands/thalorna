@@ -1,6 +1,6 @@
 ---
 shortcode: dunavarresynod
-name: {full: The Mages Take Dúnavarre, aliases: [The Setting-Aside of the Crown]}
+name: {full: The Mages Take Dúnavarre, en: [The Setting-Aside of the Crown]}
 type: lore
 subType: history
 description: "Between about 450 and 490 AF the Arcane Order's advisors at Ravenmoor took the offices of Dúnavarre from its kings one by one, until the last king, Yenral, was set aside without a blow and the Synod governed alone."

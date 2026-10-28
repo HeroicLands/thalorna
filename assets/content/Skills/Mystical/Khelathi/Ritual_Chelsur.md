@@ -1,6 +1,6 @@
 ---
 shortcode: ritualchelsr
-name: {full: "Ritual: Chelsur", aliases: []}
+name: {full: "Ritual: Chelsur"}
 type: skill
 subType: mystical
 tags: [khelathi, faith-skill, draft]

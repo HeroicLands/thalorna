@@ -1,6 +1,6 @@
 ---
 shortcode: lizela
-name: {full: Lizela, aliases: []}
+name: {full: Lizela}
 type: place
 subType: settlement
 description: "A southern coastal town living on shipping and the great salt flats to its east—modest, wealthy for its size, and home to minor houses whose fortunes rest on salt rather than on land."

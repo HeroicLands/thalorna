@@ -1,6 +1,6 @@
 ---
 shortcode: garrethsaar
-name: {full: Gar-Reth'Sa'ar, aliases: []}
+name: {full: Gar-Reth'Sa'ar}
 type: folder
 data: {parent: upperrivrslt, color: "#A5D6A7"}
 ---

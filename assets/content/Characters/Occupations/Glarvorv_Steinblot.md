@@ -1,6 +1,6 @@
 ---
 shortcode: glrvrvstnblt
-name: {full: Glarvorv Steinblet, aliases: []}
+name: {full: Glarvorv Steinblet}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

@@ -1,12 +1,12 @@
 ---
 shortcode: osetakonaclt
-name: {full: Osetakona, aliases: []}
+name: {full: Maple People, kiichek: ["Shik'ul Ch'akal"], oset: [osetakona]}
 type: lore
 subType: culture
 description: "The Maple People of the northeastern lakes—their beliefs, their mores, and what they hold a person owes."
 tags: []
 data:
-  language: skill-osetakonalng
+  lang: oset
   glossary:
     - name: "oseta"
       definition: "The sugar maple, whose sap opens the year and whose name the people carry."

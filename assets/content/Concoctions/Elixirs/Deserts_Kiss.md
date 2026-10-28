@@ -1,6 +1,6 @@
 ---
 shortcode: elxexs
-name: {full: "Desert's Kiss", aliases: [Exsiccation Elixir]}
+name: {full: Desert's Kiss, en: [Exsiccation Elixir]}
 type: concoctiongear
 subType: elixir
 description: "Chalky white dryness elixir; transforms water to mist in radius."

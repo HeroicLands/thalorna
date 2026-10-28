@@ -1,6 +1,6 @@
 ---
 shortcode: itharisul
-name: {full: "Ithasul", aliases: [Precursor Stone, The Held Stones, "kaan'sul"]}
+name: {full: Precursor Stone, en: [The Held Stones], kali: [Ithasul, kaan'sul]}
 type: lore
 subType: material
 description: "The substance of the Ithari works as Kalihara's custodians know it: how it looks and feels, the states a work passes through, what a custodian can and cannot do with one, the oval openings, and the held stones, living and dead."

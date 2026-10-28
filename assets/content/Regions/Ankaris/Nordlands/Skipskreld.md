@@ -1,6 +1,6 @@
 ---
 shortcode: skipskreld
-name: {full: Skipskreld, aliases: [The Ship-Flyting]}
+name: {full: Skipskreld, en: [The Ship-Flyting]}
 type: lore
 subType: literature
 description: "The Nordheim coast's Midsomar flyting, in which Thrunvald and Velgrímur trade insults across a becalmed boat until the trickster says the one true thing and the Thunderer answers it in two lines."
@@ -9,7 +9,7 @@ data:
   packFolder: nordlands
   culture: nordheimnclt
   form: skreld
-  language: nordmalng
+  lang: nord
   subjects: [lore-thrunvalddty, lore-velgrimurdty, lore-aldarlok]
 ---
 

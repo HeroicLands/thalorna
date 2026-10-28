@@ -1,6 +1,6 @@
 ---
 shortcode: hrodrrnthl
-name: {full: Hrodar yra Arnthúl wur Erthhaven, given: Hrodar, clan: Arnthúl, aliases: [the Crow]}
+name: {full: Hrodar yra Arnthúl wur Erthhaven, given: Hrodar, clan: Arnthúl, en: [the Crow]}
 type: being
 subType: character
 tags: [blackpine-wolves, brigand, vrystwald, underworld]

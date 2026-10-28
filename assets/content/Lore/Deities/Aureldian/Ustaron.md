@@ -1,6 +1,6 @@
 ---
 shortcode: ustarondty
-name: {full: Ústaron, aliases: []}
+name: {full: Ústaron}
 # terran_analog: Vulcan, the Roman god of fire and the forge
 type: lore
 subType: deity

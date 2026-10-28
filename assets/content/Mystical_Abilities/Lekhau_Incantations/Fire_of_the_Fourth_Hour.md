@@ -1,6 +1,6 @@
 ---
 shortcode: firefourthhr
-name: {full: Fire of the Fourth Hour, aliases: []}
+name: {full: Fire of the Fourth Hour}
 type: mysticalability
 subType: arcaneincantation
 description: "Calls down the sun's heat on a place, with the force it carries at the height of the day."

@@ -1,6 +1,6 @@
 ---
 shortcode: chrysamar
-name: {full: Krisamar, aliases: []}
+name: {full: Krisamar}
 type: place
 subType: settlement
 description: "Port City"

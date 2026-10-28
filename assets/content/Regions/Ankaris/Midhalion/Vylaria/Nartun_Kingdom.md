@@ -1,6 +1,6 @@
 ---
 shortcode: nartumkngdm
-name: {full: Nartun Kingdom, aliases: []}
+name: {full: Nartun Kingdom}
 type: place
 subType: region
 description: "The land of the Holy Kingdom of Nartun—the independent Vylari-speaking realm ruled from the holy city of Nartun under its priestly aristocracy."

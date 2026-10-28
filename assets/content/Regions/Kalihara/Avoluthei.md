@@ -1,6 +1,6 @@
 ---
 shortcode: avoluthei
-name: {full: Avoluthei, aliases: []}
+name: {full: Avoluthei}
 type: place
 subType: settlement
 description: "The pass village at the crest of the Cloud Pass, home of the lineage that keeps the road over Kalihara's Ring and the only village outsiders are ever walked through."

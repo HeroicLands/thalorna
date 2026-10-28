@@ -1,6 +1,6 @@
 ---
 shortcode: fortydays
-name: {full: The Forty Days, aliases: []}
+name: {full: The Forty Days}
 type: lore
 subType: literature
 description: "The chronicle entries for the dissolution of the Kingdom of Mahanodi, set beside the glosses of the Memory-Keeper's commentary—the dead king, the petition to the Vyalendra priest, the forty-day sabhra and its decree."
@@ -15,7 +15,7 @@ data:
     - place-rajavalilib
     - place-shitakoshta
     - place-sandstonealtr
-  language: vedyarlng
+  lang: vedy
   packFolder: vedyara
 ---
 

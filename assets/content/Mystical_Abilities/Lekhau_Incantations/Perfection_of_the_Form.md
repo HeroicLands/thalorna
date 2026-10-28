@@ -1,6 +1,6 @@
 ---
 shortcode: perfectinfrm
-name: {full: Perfection of the Form, aliases: []}
+name: {full: Perfection of the Form}
 type: mysticalability
 subType: arcaneincantation
 description: "Brings a work of craft to exactness, so that it carries a working reliably."

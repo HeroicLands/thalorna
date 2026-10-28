@@ -1,6 +1,6 @@
 ---
 shortcode: wilfrednwl
-name: {full: Mildmund Dunwell, aliases: []}
+name: {full: Mildmund Dunwell}
 type: being
 subType: npc
 tags: [draft, common-folk]

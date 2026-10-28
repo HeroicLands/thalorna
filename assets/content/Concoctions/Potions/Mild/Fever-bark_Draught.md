@@ -1,6 +1,6 @@
 ---
 shortcode: feverbarkdraught
-name: {full: "Fever-bark Draught", aliases: []}
+name: {full: Fever-bark Draught}
 type: concoctiongear
 subType: exotic
 description: "A bitter brown draught steeped from forest bark, the apothecaries' answer to the island's fevers."

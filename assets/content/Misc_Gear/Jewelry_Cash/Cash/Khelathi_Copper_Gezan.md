@@ -1,6 +1,6 @@
 ---
 shortcode: khelthcpprgz
-name: {full: Khelathi Copper Gezan, aliases: [Copper Gezan]}
+name: {full: Khelathi Copper Gezan, en: [Copper Gezan]}
 type: miscgear
 description: "Sealed bronze piece at gezan weight, passing at its attested face rather than its metal."
 tags: [jewelry_cash]

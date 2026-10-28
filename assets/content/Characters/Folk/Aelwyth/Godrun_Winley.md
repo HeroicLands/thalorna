@@ -1,6 +1,6 @@
 ---
 shortcode: godrunwinley
-name: {full: Godrun Winley, aliases: [High Priestess Godrun]}
+name: {full: Godrun Winley, en: [High Priestess Godrun]}
 type: being
 subType: npc
 description: The high priestess of the Temple of Ólvenia in Ashford, who tolerates Dunith Chilton.

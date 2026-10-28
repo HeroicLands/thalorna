@@ -1,6 +1,6 @@
 ---
 shortcode: legiretilmyz
-name: {full: Legiret Ilmy-Za, given: Legiret, clan: Ilmy-Za, aliases: []}
+name: {full: Legiret Ilmy-Za, given: Legiret, clan: Ilmy-Za}
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, guilded, tradesfolk]

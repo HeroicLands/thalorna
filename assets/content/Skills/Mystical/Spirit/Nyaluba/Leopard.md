@@ -1,6 +1,6 @@
 ---
 shortcode: leopardsengalasprt
-name: {full: "Leopard Spirit Power", aliases: [Leopard Spirit, Sengala Leopard]}
+name: {full: Leopard Spirit Power, en: [Leopard Spirit, Sengala Leopard]}
 type: skill
 subType: mystical
 description: "Standing with the leopard-spirit of the Sengala—what an allied guide of the Nyáluba Way is met and asked with."

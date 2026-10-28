@@ -1,6 +1,6 @@
 ---
 shortcode: lekhancnttns
-name: {full: Lekhau Incantations, aliases: []}
+name: {full: Lekhau Incantations}
 type: folder
 data: {parent: mysticalabilities}
 ---

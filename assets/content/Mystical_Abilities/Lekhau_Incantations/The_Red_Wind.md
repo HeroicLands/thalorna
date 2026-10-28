@@ -1,6 +1,6 @@
 ---
 shortcode: redwind
-name: {full: The Red Wind, aliases: []}
+name: {full: The Red Wind}
 type: mysticalability
 subType: arcaneincantation
 description: "Raises or turns aside a sandstorm across a stated ground."

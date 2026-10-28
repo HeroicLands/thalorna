@@ -1,6 +1,6 @@
 ---
 shortcode: raghumonkreg
-name: {full: Raghumon Kregokhash, aliases: [Marendos Raghumon Kregokhash]}
+name: {full: Raghumon Kregokhash, en: [Marendos Raghumon Kregokhash]}
 type: being
 subType: npc
 description: A conservative member of the Zulen Fisera, allied with the Keepers of the Sealed Archive, named in Dókhehran Fefes.

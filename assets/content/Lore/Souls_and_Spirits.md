@@ -1,6 +1,6 @@
 ---
 shortcode: soulspirts
-name: {full: The Truth of Souls, aliases: [Souls (GM), The Spirit Realm]}
+name: {full: The Truth of Souls, en: [Souls (GM), The Spirit Realm]}
 type: doc
 subType: concept
 tags: [souls, spirits, metaphysics, gm]

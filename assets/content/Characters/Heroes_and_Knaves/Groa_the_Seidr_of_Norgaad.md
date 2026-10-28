@@ -4,7 +4,8 @@ name:
   full: Groa the Seid of Norgaad
   given: Groa
   clan: Nalthendik
-  aliases: [the Seid of Norgaad, Tvarninda, Groa]
+  en: [the Seid of Norgaad]
+  nord: [tvarninda, groa]
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, clergy]

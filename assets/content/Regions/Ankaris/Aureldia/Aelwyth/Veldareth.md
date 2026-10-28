@@ -1,6 +1,6 @@
 ---
 shortcode: veldareth
-name: {full: Veldareth, aliases: []}
+name: {full: Veldareth}
 type: place
 subType: settlement
 description: "A free city on Aelwyth's southern coast between Dúnavarre and Ondareth, a neutral meeting ground whose Epistémion chapterhouse is among the most respected on the island."

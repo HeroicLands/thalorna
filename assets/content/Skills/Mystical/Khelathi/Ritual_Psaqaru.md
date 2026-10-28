@@ -1,6 +1,6 @@
 ---
 shortcode: ritualpsaqar
-name: {full: "Ritual: Saq'aru", aliases: []}
+name: {full: "Ritual: Saq'aru"}
 type: skill
 subType: mystical
 tags: [khelathi, faith-skill, draft]

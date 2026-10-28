@@ -1,6 +1,6 @@
 ---
 shortcode: aldarlok
-name: {full: Aldarlok, aliases: [The Age's Close, The Fall of the Ash]}
+name: {full: Aldarlok, en: [The Age's Close, The Fall of the Ash]}
 type: lore
 subType: theology
 description: "The Nordmen's account of how the present age ends—the gods' last muster, the fire that takes both worlds, and the remade world kindled from the coals."

@@ -1,6 +1,6 @@
 ---
 shortcode: brynlflwyn
-name: {full: Drinel Salvin, aliases: []}
+name: {full: Drinel Salvin}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

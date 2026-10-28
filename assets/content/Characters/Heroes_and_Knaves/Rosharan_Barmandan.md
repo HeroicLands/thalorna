@@ -1,6 +1,6 @@
 ---
 shortcode: rshrnbrmndn
-name: {full: Rosharan Barmandan, given: Rosharan, clan: Barmandan, aliases: []}
+name: {full: Rosharan Barmandan, given: Rosharan, clan: Barmandan}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]

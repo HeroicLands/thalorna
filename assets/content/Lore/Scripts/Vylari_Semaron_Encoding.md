@@ -1,6 +1,6 @@
 ---
 shortcode: vylsemaronenc
-name: {full: Vylari Semaron Encoding, aliases: []}
+name: {full: Vylari Semaron Encoding}
 type: doc
 subType: reference
 data:

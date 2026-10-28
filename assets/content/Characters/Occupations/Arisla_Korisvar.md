@@ -1,6 +1,6 @@
 ---
 shortcode: arislkrsvr
-name: {full: Arisla Kórisvar, aliases: []}
+name: {full: Arisla Kórisvar}
 type: being
 subType: npc
 tags: [draft, administration]

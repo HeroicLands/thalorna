@@ -1,6 +1,6 @@
 ---
 shortcode: tholkezora
-name: {full: Tholkezora, aliases: []}
+name: {full: Tholkezora}
 type: place
 subType: settlement
 description: "Fishing Town"

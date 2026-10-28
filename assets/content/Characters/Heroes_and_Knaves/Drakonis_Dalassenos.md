@@ -1,6 +1,6 @@
 ---
 shortcode: drknsdlsns
-name: {full: Mivios Zapemes, given: Mivios, clan: Zapemes, aliases: []}
+name: {full: Mivios Zapemes, given: Mivios, clan: Zapemes}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]

@@ -1,6 +1,6 @@
 ---
 shortcode: invctn
-name: {full: Invocation, aliases: []}
+name: {full: Invocation}
 type: mysticalability
 subType: arcaneincantation
 description: "Summoned wind-spirit scouting terrain and engaging in aerial combat."

@@ -1,6 +1,6 @@
 ---
 shortcode: drwnngseat
-name: {full: The Drowning of the Royal Seat, aliases: []}
+name: {full: The Drowning of the Royal Seat}
 type: lore
 subType: history
 description: "About six hundred years ago the Mahanodi moved its channel below Rajepur and drowned a town that had been a royal seat of the dissolved kingdom, the one of the river's four recorded moves everybody names."

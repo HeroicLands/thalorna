@@ -1,12 +1,12 @@
 ---
 shortcode: khazariclt
-name: {full: Khazari, aliases: []}
+name: {full: Khazari}
 type: lore
 subType: culture
 description: "The Khazari—their beliefs, their mores, and what they hold a person owes."
 tags: []
 data:
-  language: skill-khazarlng
+  lang: khaz
   glossary:
     - name: "fakar"
       definition: "A finding: a cave newly found, the first thing any hold has."

@@ -1,6 +1,6 @@
 ---
 shortcode: titlelexcn
-name: {full: Title Lexicon, aliases: [Titles, Forms of Address]}
+name: {full: Title Lexicon, en: [Titles, Forms of Address]}
 type: doc
 subType: reference
 data: {banner: null}

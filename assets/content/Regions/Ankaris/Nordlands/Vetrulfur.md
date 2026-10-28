@@ -1,6 +1,6 @@
 ---
 shortcode: vetrulfur
-name: {full: Vetrúlfur, aliases: ["The Winter-Wolf"]}
+name: {full: Vetrúlfur, en: [The Winter-Wolf]}
 type: lore
 subType: theology
 description: "The Winter-Wolf chained at the cost of Eidgar’s hand and released at Aldarlok."

@@ -1,6 +1,6 @@
 ---
 shortcode: tmrtjnnd
-name: {full: Tamura Tejanand, given: Tamura, clan: Tejanand, aliases: []}
+name: {full: Tamura Tejanand, given: Tamura, clan: Tejanand}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]

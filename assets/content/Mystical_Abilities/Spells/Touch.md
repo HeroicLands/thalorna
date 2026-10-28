@@ -1,6 +1,6 @@
 ---
 shortcode: touch
-name: {full: Touch, aliases: []}
+name: {full: Touch}
 type: mysticalability
 subType: arcaneincantation
 description: "Caster's hands conduct magic; enables touch-based spellcasting."

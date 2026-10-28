@@ -1,6 +1,6 @@
 ---
 shortcode: adhelimisgho
-name: {full: Adhélimis Ghotones, aliases: [Patriarch Adhélimis Ghotones]}
+name: {full: Adhélimis Ghotones, en: [Patriarch Adhélimis Ghotones]}
 type: being
 subType: npc
 description: The ancient Temple Patriarch, who relies heavily on Dumares Rafiros and has indicated that he may be groomed as successor.

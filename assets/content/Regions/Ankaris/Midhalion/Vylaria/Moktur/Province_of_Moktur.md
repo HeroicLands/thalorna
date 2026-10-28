@@ -1,6 +1,6 @@
 ---
 shortcode: provncmktr
-name: {full: Province of Moktur, aliases: []}
+name: {full: Province of Moktur}
 type: affiliation
 subType: polity
 description: "The mountainous northern shield of the Vylarian Empire—a hard frontier province of mines, timber, and fortified garrisons guarding the Vristwald march, governed by semi-autonomous military lords and home to a hybrid Vylarian–Varokh border culture."

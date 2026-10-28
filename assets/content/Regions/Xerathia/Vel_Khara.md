@@ -1,6 +1,6 @@
 ---
 shortcode: velkhara
-name: {full: Vel'Khara, aliases: [Kingdom of Vel'Khara]}
+name: {full: Vel'Khara, en: [Kingdom of Vel'Khara]}
 type: place
 subType: region
 description: "A distant kingdom whose agents come to Au'Khelathu buying timber of extraordinary size and rarity for siege engines."

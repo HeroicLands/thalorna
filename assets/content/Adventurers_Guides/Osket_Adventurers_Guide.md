@@ -1,6 +1,6 @@
 ---
 shortcode: osketadvguide
-name: {full: Osket Adventurer's Guide, aliases: []}
+name: {full: Osket Adventurer's Guide}
 type: doc
 subType: settingguide
 description: A short player and GM introduction to the Osket—the hereditary guide-lineages who hold the western and central crossings of the Grazian wall and the one road nobody else can find.

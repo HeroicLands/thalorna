@@ -1,6 +1,6 @@
 ---
 shortcode: pemburspr
-name: {full: Pemburari Khutheling, aliases: [The Begetter of the Earth]}
+name: {full: The Begetter of the Earth, okha: [Pemburari Khutheling]}
 type: lore
 subType: spirit
 description: "Zohira of fertility—of the field, the herd and the birthing-house alike, and the most constantly attended of the zohira."

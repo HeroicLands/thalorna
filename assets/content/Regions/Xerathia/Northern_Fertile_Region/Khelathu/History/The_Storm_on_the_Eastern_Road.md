@@ -1,6 +1,6 @@
 ---
 shortcode: eastroad
-name: {full: The Storm on the Eastern Road, aliases: []}
+name: {full: The Storm on the Eastern Road}
 type: lore
 subType: history
 description: "In 315 AF the steppe host of the Storm of the Hundred Banners crossed Dunhara and struck the wells of Au'Khelathu's eastern road; a frontier commander seized the throne to meet it and did not complete his year, and the empire walled the wells in the decades after."

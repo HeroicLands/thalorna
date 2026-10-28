@@ -1,6 +1,6 @@
 ---
 shortcode: imhugepuzebr
-name: {full: Imhugepu Zeber, aliases: [Imhu]}
+name: {full: Imhugepu Zeber, khel: [imhu]}
 type: being
 subType: npc
 description: "Ritualist and warrior of the Zeghet'Nelgu, keeper of the old rites"

@@ -1,6 +1,6 @@
 ---
 shortcode: eldverdir
-name: {full: "Eldverdir", aliases: []}
+name: {full: Eldverdir}
 type: affiliation
 subType: order
 description: "A militant order guarding Svartbrandur's forges."

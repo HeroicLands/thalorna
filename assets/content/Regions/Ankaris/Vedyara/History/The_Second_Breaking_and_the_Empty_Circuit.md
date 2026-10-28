@@ -1,6 +1,6 @@
 ---
 shortcode: emptycrct
-name: {full: The Second Breaking and the Empty Circuit, aliases: [The Empty Circuit]}
+name: {full: The Second Breaking and the Empty Circuit, en: [The Empty Circuit]}
 type: lore
 subType: history
 description: "About 440 AF a raid out of the river country took a great lineage's wells and Gomarga's king Vishanpal did not ride to them; the great lineages walked their herds off the circuit, and for a century, to about 540, the moving court arrived at wells with nobody at them."

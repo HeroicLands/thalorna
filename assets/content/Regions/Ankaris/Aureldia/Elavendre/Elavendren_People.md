@@ -1,6 +1,6 @@
 ---
 shortcode: elavendrnppl
-name: {full: Élavendren People, aliases: [Élavendri]}
+name: {full: Élavendren People, elav: [Élavendri]}
 type: lore
 subType: folk
 description: "The cultivated, courtly people of Élavendre—Pelwar kin to the Áelendan, unusually magically attuned, and the half of that inheritance that took to cities, courts and the written word."

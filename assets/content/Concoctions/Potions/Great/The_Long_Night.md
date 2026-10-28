@@ -1,6 +1,6 @@
 ---
 shortcode: ptnsopg
-name: {full: The Long Night, aliases: ["Potion, Soporific, Great"]}
+name: {full: The Long Night, en: ["Potion, Soporific, Great"]}
 type: concoctiongear
 subType: exotic
 description: "Nearly black liquid; induces prolonged darkness of consciousness."

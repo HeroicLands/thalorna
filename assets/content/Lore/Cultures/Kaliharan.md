@@ -1,12 +1,12 @@
 ---
 shortcode: kaliharanclt
-name: {full: Kaliharan, aliases: []}
+name: {full: Kaliharan}
 type: lore
 subType: culture
 description: "The Kaliharans—their beliefs, their mores, and what they hold a person owes."
 tags: []
 data:
-  language: skill-kalihrlng
+  lang: kali
   glossary:
     - name: "Ithakan"
       definition: '"Keepers of What Was Left": the custodians of the Ithari works and of Thari''vaan'

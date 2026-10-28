@@ -1,6 +1,6 @@
 ---
 shortcode: kingsholow
-name: {full: Kingshollow, aliases: []}
+name: {full: Kingshollow}
 type: place
 subType: settlement
 description: "The old royal manor of Aldorath—a village around a hunting seat the kings still use, where they are still crowned and still buried."

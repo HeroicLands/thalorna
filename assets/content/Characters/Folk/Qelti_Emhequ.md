@@ -1,6 +1,6 @@
 ---
 shortcode: qeltiemhequ2
-name: {full: Qelti Emheku, aliases: []}
+name: {full: Qelti Emheku}
 type: being
 subType: npc
 description: "A wealthy merchant lord whose interests reach into several trades and whose name opens most doors in the capital"

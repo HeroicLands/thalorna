@@ -1,6 +1,6 @@
 ---
 shortcode: hnybdgr
-name: {full: Honey Badger, aliases: []}
+name: {full: Honey Badger}
 type: being
 subType: creature
 description: "A small but ferocious mustelid whose rubbery, twisting hide lets it bite attackers even when pinned, fighting far above its thirty-five pounds."

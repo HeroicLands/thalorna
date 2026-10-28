@@ -1,6 +1,6 @@
 ---
 shortcode: zhaosou
-name: {full: Zhaosou, aliases: [The Unsorted, The Walking Contradiction]}
+name: {full: The Unsorted, en: [The Walking Contradiction], tant: [Zhaosou]}
 type: affiliation
 subType: criminal
 description: "Confusion."

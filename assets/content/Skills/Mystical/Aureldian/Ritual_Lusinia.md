@@ -1,6 +1,6 @@
 ---
 shortcode: lusinia
-name: {full: "Ritual: Lusinia", aliases: [Lusinia, The World-Weaver]}
+name: {full: "Ritual: Lusinia", en: [The World-Weaver], elav: [Lusinia]}
 type: skill
 subType: mystical
 tags: [aureldian, faith-skill, draft]

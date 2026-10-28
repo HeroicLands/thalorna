@@ -1,6 +1,6 @@
 ---
 shortcode: hallarvinir
-name: {full: "Hallvinir", aliases: []}
+name: {full: Hallvinir}
 type: affiliation
 subType: order
 description: "Body and soul tended at Frodvin's infirmaries."

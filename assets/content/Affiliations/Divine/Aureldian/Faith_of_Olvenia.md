@@ -1,6 +1,6 @@
 ---
 shortcode: olvenia
-name: {full: Faith of Ólvenia, aliases: [The Bountiful One, Ólvenia]}
+name: {full: Faith of Ólvenia, en: [The Bountiful One], vyl: [Ólvenia]}
 type: affiliation
 subType: faithtradition
 description: "Prosperity."

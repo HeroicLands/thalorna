@@ -1,6 +1,6 @@
 ---
 shortcode: knghlrthni
-name: {full: King Hlurthann III, aliases: []}
+name: {full: King Hlurthann III}
 type: being
 subType: npc
 tags: [draft]

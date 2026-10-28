@@ -1,6 +1,6 @@
 ---
 shortcode: nghtwrth
-name: {full: Nightwraith, aliases: []}
+name: {full: Nightwraith}
 type: being
 subType: creature
 description: "A giant bat made into a cunning nocturnal killer, hunting the night skies and lightless caverns with ruthless precision."

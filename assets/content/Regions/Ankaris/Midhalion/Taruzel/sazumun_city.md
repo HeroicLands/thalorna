@@ -1,6 +1,6 @@
 ---
 shortcode: sazumun2
-name: {full: Sazumun, aliases: []}
+name: {full: Sazumun}
 type: place
 subType: settlement
 description: "A white-walled port at the mouth of the Alz River whose guilds govern the flow of goods between the desert trade, the island towns and the sea."

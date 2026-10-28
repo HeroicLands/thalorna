@@ -1,6 +1,6 @@
 ---
 shortcode: nkaruthar
-name: {full: "Nkaru'thar", aliases: [The Eternal Flame, The Three Flames, The Triune Fire]}
+name: {full: The Eternal Flame, en: [The Three Flames, The Triune Fire], okha: [Nkaru'thar]}
 type: affiliation
 subType: faithtradition
 description: "Creation, destruction, and renewal."
@@ -72,7 +72,7 @@ data:
   population: null
   economy: []
   lore: [nkaruthardty, zohira]
-  parents: [nkaruthar]
+  parents: []
   relations: {yenorzhrng: aligned}
   packFolder: pantheonsnkaruthar
 sohl: {system: {commonSkills: [nkaruthar]}}

@@ -1,6 +1,6 @@
 ---
 shortcode: lutgewaatis
-name: {full: Lut-Gewa'atis, aliases: [The Temple of Gewa'atis]}
+name: {full: Lut-Gewa'atis, en: [The Temple of Gewa'atis]}
 type: affiliation
 subType: faithtradition
 description: The house of Gewa'atis, patron of voyages, whose sacred vaults are built by the empire's finest locksmiths and opened by very few

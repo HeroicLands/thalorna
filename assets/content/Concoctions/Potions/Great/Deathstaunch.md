@@ -1,6 +1,6 @@
 ---
 shortcode: ptncoagg
-name: {full: Deathstaunch, aliases: ["Potion, Coagulant, Great"]}
+name: {full: Deathstaunch, en: ["Potion, Coagulant, Great"]}
 type: concoctiongear
 subType: exotic
 description: "Nearly black crystalline preparation; stops bleeding and rapid death."

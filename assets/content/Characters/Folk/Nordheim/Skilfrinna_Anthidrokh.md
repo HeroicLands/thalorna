@@ -1,6 +1,6 @@
 ---
 shortcode: skilfrinnaan
-name: {full: Skilfrinna Anthidrok, aliases: [Lady Skilfrinna Anthidrok]}
+name: {full: Skilfrinna Anthidrok, en: [Lady Skilfrinna Anthidrok]}
 type: being
 subType: npc
 description: A minor noblewoman of impeccable taste who is Flarnthira Steinblet's closest thing to a confidante.

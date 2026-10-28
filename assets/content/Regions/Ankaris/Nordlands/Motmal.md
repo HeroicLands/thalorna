@@ -1,6 +1,6 @@
 ---
 shortcode: motmal
-name: {full: Motmál, aliases: [The Mould's Speech]}
+name: {full: Motmál, en: [The Mould's Speech]}
 type: lore
 subType: literature
 description: "The speech-poem of Mótefnir's great hov in Vithgard, in which Odvar comes to the strand to breathe the fit into the two clay figures, trades question for answer with the Maker, and names them."
@@ -9,7 +9,7 @@ data:
   packFolder: nordlands
   culture: nordheimnclt
   form: speech-poem
-  language: nordmalng
+  lang: nord
   subjects:
     - lore-gnumborinn
     - lore-motefnirdty

@@ -1,6 +1,6 @@
 ---
 shortcode: nuoho
-name: {full: Nuoho, aliases: [The Burning Dissolution, The Unmaker]}
+name: {full: The Burning Dissolution, en: [The Unmaker], tant: [Nuoho]}
 type: affiliation
 subType: criminal
 description: "Destruction."

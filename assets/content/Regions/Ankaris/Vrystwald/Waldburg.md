@@ -1,6 +1,6 @@
 ---
 shortcode: waldburg
-name: {full: Waldburg, aliases: []}
+name: {full: Waldburg}
 type: place
 subType: settlement
 description: "Forest Stronghold"

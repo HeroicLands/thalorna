@@ -1,6 +1,6 @@
 ---
 shortcode: twilighths
-name: {full: The Twilight House, aliases: [The House of the Long Evening, Sandyagriha]}
+name: {full: The Twilight House, en: [The House of the Long Evening], vedy: [sandyagriha]}
 type: affiliation
 subType: guild
 description: "Prestigious Vedyaran courtesan establishment doubling as the subcontinent's premier intelligence network—gathering secrets from wealthy clients and selling them on to loom-masters, merchant houses, courts and the Shrena of Taking alike."

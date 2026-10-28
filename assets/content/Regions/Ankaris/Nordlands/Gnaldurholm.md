@@ -1,6 +1,6 @@
 ---
 shortcode: gnaldurholm
-name: {full: Gnaldurholm, aliases: []}
+name: {full: Gnaldurholm}
 type: place
 subType: settlement
 description: "A Nordlands port city of influential money and organized crime, home to the Gilded Cage salon and its enemies on the Morality Council."

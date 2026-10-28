@@ -1,6 +1,6 @@
 ---
 shortcode: ctysttshlns
-name: {full: City-States of Helionis, aliases: []}
+name: {full: City-States of Helionis}
 type: affiliation
 subType: polity
 description: "Confederation of independent city-states bound by shared culture, language, and games rather than political unity—philosophers, athletes, and seafarers in a region of eternal rivalry and honor."

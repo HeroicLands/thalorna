@@ -1,6 +1,6 @@
 ---
 shortcode: kngdmlvndr
-name: {full: Kingdom of Élavendre, aliases: []}
+name: {full: Kingdom of Élavendre}
 type: affiliation
 subType: polity
 description: "Woodland kingdom of forests, music, and ancient magic—center of Elavendri culture where Sinale and humans coexist as equals in a land apart."

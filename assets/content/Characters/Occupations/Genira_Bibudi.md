@@ -1,6 +1,6 @@
 ---
 shortcode: gnrbbd
-name: {full: Genira Bibudi, aliases: []}
+name: {full: Genira Bibudi}
 type: being
 subType: npc
 tags: [draft, soldiery]

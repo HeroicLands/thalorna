@@ -1,6 +1,6 @@
 ---
 shortcode: ptnhalm
-name: {full: Dreamsugar, aliases: ["Potion, Hallucinogenic, Mild"]}
+name: {full: Dreamsugar, en: ["Potion, Hallucinogenic, Mild"]}
 type: concoctiongear
 subType: exotic
 description: "Hazy opalescent liquid; induces dreaming and altered consciousness."

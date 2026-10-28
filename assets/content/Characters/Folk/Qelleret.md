@@ -1,6 +1,6 @@
 ---
 shortcode: qelleret
-name: {full: Qelleret, aliases: []}
+name: {full: Qelleret}
 type: being
 subType: npc
 description: "A servant dismissed for sloppiness and dangerous corner-cutting, who holds that the standards were the problem"

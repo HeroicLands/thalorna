@@ -1,6 +1,6 @@
 ---
 shortcode: mahnrythlament
-name: {full: The Mahnreth Lament, aliases: [Mahnreth meldra]}
+name: {full: The Mahnreth Lament, varo: [Mahnreth meldra]}
 type: lore
 subType: literature
 description: "The lament the women of Mahnreth raise at the turning into deep winter over Mahnhrum, the mound that holds nobody: the taken of the Waking addressed one by one with the goods carried west for them, a question to the rabbit wesk stopped before it ends, and a child taken before her naming kept by the length of a name."
@@ -18,7 +18,7 @@ data:
     - lore-grukarfolk
     - lore-rabbitttm
     - lore-varokhiclt
-  language: varokhlng
+  lang: varo
 
 # terran_analog: "Karelian and Baltic lament-singing, with its address to the dead by name, its call and response, and its instructions for the road; the dirge Jordanes reports sung over a Gothic king; the cenotaph, a grave raised for a body that never came home. Departs: the lament is held word for word because its dead do not change, and it gives the dead no road."
 ---

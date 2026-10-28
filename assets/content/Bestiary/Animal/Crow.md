@@ -1,6 +1,6 @@
 ---
 shortcode: crow
-name: {full: Crow, aliases: []}
+name: {full: Crow}
 type: being
 subType: creature
 description: "A clever, adaptable passerine thriving alongside humans, showing curiosity, problem-solving, and a memory that lends each bird real personality."

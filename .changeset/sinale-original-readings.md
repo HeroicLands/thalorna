@@ -2,6 +2,8 @@
 "thalorna": patch
 ---
 
+**Literature and verse**
+
 - _The Seven Towers_ and _Guest-Right_ pair alliterative Sinale originals with their English translations and matching native-script readings.
 - _The Gathering on the End_ adds the Sinale originals of its four speeches beside their English, with matching native-script readings.
 - _The Long Watchers' Sayings_ adds the Sinale original of every saying beside its English, with matching native-script readings.

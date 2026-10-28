@@ -1,6 +1,6 @@
 ---
 shortcode: puqilchaqun
-name: {full: "Faith of P'uqil Ch'akun", aliases: [The Feathered Storm-Serpent, "P'uqil Ch'akun"]}
+name: {full: Faith of P'uqil Ch'akun, en: [The Feathered Storm-Serpent], kiichek: [P'uqil Ch'akun]}
 type: affiliation
 subType: faithtradition
 description: "Storms, chaos and cosmic dissolution—the feathered serpent whose rain feeds the maize and whose waking will end the Fifth Age."

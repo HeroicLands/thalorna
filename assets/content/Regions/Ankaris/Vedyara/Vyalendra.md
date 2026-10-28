@@ -1,6 +1,6 @@
 ---
 shortcode: vyalendra2
-name: {full: Vyalendra City-State, aliases: []}
+name: {full: Vyalendra City-State}
 type: affiliation
 subType: polity
 description: "Textile city-state of southern Vedyara—“the City of Ten Thousand Looms,” whose master-weaver shrenis produce silks and cottons of patterns and dyes found nowhere else, traded to the courts of emperors and high priests across the known realms."

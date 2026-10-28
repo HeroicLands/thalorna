@@ -1,6 +1,6 @@
 ---
 shortcode: mercavia
-name: {full: Delalara, aliases: []}
+name: {full: Delalara}
 type: place
 subType: settlement
 description: "Provincial Capital (Economic Hub)"

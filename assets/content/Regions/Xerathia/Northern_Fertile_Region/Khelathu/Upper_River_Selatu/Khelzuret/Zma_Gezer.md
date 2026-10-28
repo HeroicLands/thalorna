@@ -1,6 +1,6 @@
 ---
 shortcode: zmagezer
-name: {full: Zma-Gezer, aliases: []}
+name: {full: Zma-Gezer}
 type: place
 subType: settlement
 description: "A pilgrim village of Khelzuret, on the road that carries the dead and their mourners, and fed by that road as much as by its fields"

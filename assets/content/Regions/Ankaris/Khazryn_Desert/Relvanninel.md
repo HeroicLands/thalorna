@@ -1,6 +1,6 @@
 ---
 shortcode: relvanninel
-name: {full: Relvanninesh, aliases: [The Glass Princes' Palace, The Palace of Glass]}
+name: {full: Relvanninesh, en: [The Glass Princes' Palace, The Palace of Glass]}
 type: place
 subType: site
 description: "The palace of the cadet house of Nimeshun, a line of mirror-makers and minor princes of the Ashkarad craft house, standing in a fused-glass ruin at the failed edge of the belt, where the last prince's household still sits at table exactly as the Breaking found it."

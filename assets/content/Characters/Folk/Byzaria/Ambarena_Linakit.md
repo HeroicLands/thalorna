@@ -1,6 +1,6 @@
 ---
 shortcode: ambarenalina
-name: {full: Ambarena Linakit, aliases: [Lady Ambarena Linakit]}
+name: {full: Ambarena Linakit, en: [Lady Ambarena Linakit]}
 type: being
 subType: npc
 description: An aging widow of minor noble standing who became enchanted with Fritia Manedes's playing.

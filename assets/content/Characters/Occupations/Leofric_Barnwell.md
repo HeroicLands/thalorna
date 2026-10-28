@@ -1,6 +1,6 @@
 ---
 shortcode: lefrcbrnwl
-name: {full: Leofred Barnwell, aliases: []}
+name: {full: Leofred Barnwell}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

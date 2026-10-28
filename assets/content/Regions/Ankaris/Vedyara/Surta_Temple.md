@@ -1,6 +1,6 @@
 ---
 shortcode: surtatempl
-name: {full: The Surta temple, aliases: []}
+name: {full: The Surta temple}
 type: place
 subType: structure
 description: "The shrine on the shelf beside the Chandramahi's outflow—where the orthodox sight the civil year, where thirty thousand pilgrims a year arrive, and where the slab is washed at the turn of every season."

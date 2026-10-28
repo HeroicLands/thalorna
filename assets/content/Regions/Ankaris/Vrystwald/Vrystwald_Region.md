@@ -1,6 +1,6 @@
 ---
 shortcode: vrystwald
-name: {full: Vristwald, aliases: [Vristwald Region]}
+name: {full: Vristwald, en: [Vristwald Region]}
 type: place
 subType: region
 description: "The forest-and-river belt south and east of the Nordlands, north of Aureldia and west of Velanthia—taiga, mixed woodland and slow rivers held by the Varokh."

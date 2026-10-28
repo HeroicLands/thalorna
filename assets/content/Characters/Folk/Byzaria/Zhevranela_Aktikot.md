@@ -1,6 +1,6 @@
 ---
 shortcode: zhevranelaak
-name: {full: Zhevranela Aktikot, aliases: [Priestess Zhevranela Aktikot]}
+name: {full: Zhevranela Aktikot, en: [Priestess Zhevranela Aktikot]}
 type: being
 subType: npc
 description: A priestess and healer who seeks Dorashkar Tredis's help in identifying what properties in his cooking are therapeutic.

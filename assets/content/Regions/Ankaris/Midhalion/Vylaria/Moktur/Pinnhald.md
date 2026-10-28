@@ -1,6 +1,6 @@
 ---
 shortcode: pinnhald
-name: {full: Pinnhald, aliases: []}
+name: {full: Pinnhald}
 type: place
 subType: settlement
 description: "Timber Town"

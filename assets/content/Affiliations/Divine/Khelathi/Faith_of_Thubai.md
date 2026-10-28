@@ -1,6 +1,6 @@
 ---
 shortcode: thubai
-name: {full: Faith of Thuba'i, aliases: [The Golden Reveler, The Overflowing One]}
+name: {full: Faith of Thuba'i, en: [The Golden Reveler, The Overflowing One]}
 type: affiliation
 subType: faithtradition
 description: "Prosperity."

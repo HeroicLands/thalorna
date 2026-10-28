@@ -1,6 +1,6 @@
 ---
 shortcode: thamiyragezz
-name: {full: Thamiyra Geza'Uzu, given: Thamiyra, clan: Geza'Uzu, aliases: []}
+name: {full: Thamiyra Geza'Uzu, given: Thamiyra, clan: Geza'Uzu}
 type: being
 subType: character
 tags: [heroes-and-knaves, administration]

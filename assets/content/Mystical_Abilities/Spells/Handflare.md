@@ -1,6 +1,6 @@
 ---
 shortcode: hndflr
-name: {full: Handflare, aliases: []}
+name: {full: Handflare}
 type: mysticalability
 subType: arcaneincantation
 description: "Manifests bright spark in palm; ignites or signals with flame."

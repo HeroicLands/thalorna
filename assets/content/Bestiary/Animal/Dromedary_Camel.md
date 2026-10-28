@@ -1,6 +1,6 @@
 ---
 shortcode: drmdrycm
-name: {full: Dromedary Camel, aliases: []}
+name: {full: Dromedary Camel}
 type: being
 subType: creature
 description: "A one-humped desert transport animal engineered for the harshest arid wastes, faster than its two-humped cousin but far more nervous and aggressive."

@@ -1,6 +1,6 @@
 ---
 shortcode: vsnm
-name: {full: Visnomy, aliases: []}
+name: {full: Visnomy}
 type: mysticalability
 subType: arcanetalent
 description: "Reads a person's character and history from the face and bearing."

@@ -1,6 +1,6 @@
 ---
 shortcode: southkiichchik
-name: {full: Southern Ki'ich'chik, aliases: []}
+name: {full: Southern Ki'ich'chik}
 type: place
 subType: region
 description: "The southern reaches of Ki'ich'chik, where mountains give way to a garrison plateau, a poisoned threshold and the forsaken wastes."

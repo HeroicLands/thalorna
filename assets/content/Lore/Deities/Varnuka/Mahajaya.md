@@ -1,6 +1,6 @@
 ---
 shortcode: mahajayadty
-name: {full: Mahajaya, aliases: []}
+name: {full: Mahajaya}
 type: lore
 subType: deity
 description: "The Eternal Preserver of the Varnuka pantheon, holding order and the grain a settled order rests on."

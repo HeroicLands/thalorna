@@ -1,6 +1,6 @@
 ---
 shortcode: thaurzurgalis
-name: {full: Thaurzurgalis, aliases: [The Guard Camp]}
+name: {full: The Guard Camp, vyl: [Thaurzurgalis]}
 type: place
 subType: settlement
 description: "The Thaurzurgalis, fortified barracks of the Sorvan—the imperial guard—set on the palace hill within Arvon; the armed heart from which the throne enforces its grip on its own capital, and the one fortress inside the Inner Wall."

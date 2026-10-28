@@ -1,6 +1,6 @@
 ---
 shortcode: zhenho
-name: {full: Zhinho, aliases: [The Minister of Fire, Ho Sei, The Bureau of Transformation]}
+name: {full: The Minister of Fire, en: [The Bureau of Transformation], tant: [Zhinho, Ho Sei]}
 type: affiliation
 subType: faithtradition
 description: "Fire."

@@ -1,6 +1,6 @@
 ---
 shortcode: shrinethuravelhills
-name: {full: Shrine of Túravel Hills, aliases: []}
+name: {full: Shrine of Túravel Hills}
 type: place
 subType: site
 description: "An abandoned shrine hidden in the Túravel Hills—a place of powerful pre-Aureldían worship of the Old Gods, undisturbed for centuries and guarded still by fae spirits."

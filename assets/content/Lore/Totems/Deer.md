@@ -1,6 +1,6 @@
 ---
 shortcode: deerttm
-name: {full: Deer, aliases: [Deer Totem]}
+name: {full: Deer, en: [Deer Totem]}
 type: lore
 subType: bestiary
 description: "The deer as a totemic ideal, and the human character it describes."

@@ -1,6 +1,6 @@
 ---
 shortcode: hillhouse
-name: {full: The Closing of the Hill House, aliases: []}
+name: {full: The Closing of the Hill House}
 type: lore
 subType: history
 description: "In 1671 ST (440 BF) the fourth Tha'Ulgau Gar-Au dies and the priesthood closes the hill-nomads' house, raises Azlet'Ralu under a name from the First Tablets, and settles the conquerors' kin on the western horse-pastures, where they become a Halzi'a house."

@@ -1,6 +1,6 @@
 ---
 shortcode: klhrcldpss
-name: {full: The Cloud Pass, aliases: []}
+name: {full: The Cloud Pass}
 type: place
 subType: feature
 description: "The eastern pass over Kalihara's Ring, from the ridges behind Ilovanu to the terraces of the Bowl, held by the lineage Avoluthei and wrapped in cloud for most of the year."

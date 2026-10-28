@@ -1,6 +1,6 @@
 ---
 shortcode: byzariaadvguide
-name: {full: Bizarian League Adventurer's Guide, aliases: [Bizaria Adventurer's Guide]}
+name: {full: Bizarian League Adventurer's Guide, en: [Bizaria Adventurer's Guide]}
 type: doc
 subType: settingguide
 description: A player and GM introduction to the Bizarian League—its caravan cities, guilds and arbitrators, its marches and monasteries, and the ways a campaign begins there.

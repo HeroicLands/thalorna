@@ -1,6 +1,6 @@
 ---
 shortcode: rushaghat
-name: {full: Rushaghat, aliases: [The Dust Landing]}
+name: {full: The Dust Landing, vedy: [rushaghat]}
 type: place
 subType: settlement
 description: "An oxbow town of the Rajepur Janpoda that the Mahanodi left on dry ground: a river-town of six hundred whose ghat-steps lead down to a field, whose landings are threshing floors, and which still keeps a boat-shreni with no boats."

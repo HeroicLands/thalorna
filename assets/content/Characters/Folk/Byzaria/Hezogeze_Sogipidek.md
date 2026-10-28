@@ -2,7 +2,7 @@
 shortcode: hezogezesogi
 name:
   full: Hezogeze Sogipidek
-  aliases: [Mother Superior Hezogeze Sogipidek, Superior Hezogeze Sogipidek]
+  en: [Mother Superior Hezogeze Sogipidek, Superior Hezogeze Sogipidek]
 type: being
 subType: npc
 description: Abbess of a local convent dedicated to fertility, growth and mercy, named in Arkhea Kourkásios.

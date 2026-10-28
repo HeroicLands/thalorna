@@ -77,7 +77,7 @@ test("Osket preserves all original meanings, optional writings and name interpre
     // The new repertoire is checked independently by roman-inventories.test.mjs.
     delete fm.data.roman;
     assert.equal(fm.data.fields.pop().name, "Everyday speech");
-    assert.equal(hash(fm), "48a4e105c1d0bb0600b54b77a51f95366cb02c6301d15c0f12aa0ce478d351a7");
+    assert.equal(hash(fm), "0787cec2744eae6a2e569a982a3d30fa0913ced9423bc8353efba8ef98e9920c");
     const body = splitFrontmatter(language.raw).body.replace(
         /## Everyday speech\n[\s\S]*?(?=## Script & Literacy\n)/u,
         "",

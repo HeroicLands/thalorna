@@ -1,6 +1,6 @@
 ---
 shortcode: akhpriestthr
-name: {full: The Priests' Thrones, aliases: []}
+name: {full: The Priests' Thrones}
 type: lore
 subType: history
 description: "2378 to 2580 ST (268 to 470 AF): two centuries of houses raised by the priesthood of Uqa'a, of children crowned and regents crowned after them, in which the Storm of the Hundred Banners reached the eastern road and a Vylarian army held the throne."

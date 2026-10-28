@@ -1,6 +1,6 @@
 ---
 shortcode: salvurneauli
-name: {full: Sálvurne Áulirnde, aliases: [Foreman Sálvurne]}
+name: {full: Sálvurne Áulirnde, en: [Foreman Sálvurne]}
 type: being
 subType: npc
 description: Foreman of the Deepmine Consortium, a ruthless operative who views Árevin Lidren's safety protocols as expensive.

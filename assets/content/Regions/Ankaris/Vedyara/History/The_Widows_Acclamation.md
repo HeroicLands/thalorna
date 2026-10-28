@@ -1,6 +1,6 @@
 ---
 shortcode: widowaccl
-name: {full: The Widow's Acclamation, aliases: []}
+name: {full: The Widow's Acclamation}
 type: lore
 subType: history
 description: "About 590 AF, after a king of Shikhalaya died suddenly in the open season, the Martial Council refused the Priestly Court's candidate and acclaimed his widow, Jvalasundi, who reigned until her son was of age and some years past it; both councils argue from the precedent today."

@@ -1,6 +1,6 @@
 ---
 shortcode: measuringcord
-name: {full: The Measuring Cord, aliases: []}
+name: {full: The Measuring Cord}
 type: lore
 subType: literature
 description: "The temple school's recitation of how the world was measured: the shaper's cord and its knots, the four doors in the ice, the sister who keeps the measure, the brother who breaks what will not yield, the one breath left unmeasured for the Gatekeeper, and the same cord taken up again at the end of an age."
@@ -27,7 +27,7 @@ data:
     - place-himashila
     - place-sthrnwall
     - lore-bloodfield
-  language: vedyarlng
+  lang: vedy
   packFolder: vedyara
 ---
 

@@ -1,6 +1,6 @@
 ---
 shortcode: tantsoudyn
-name: {full: The Opening of the Tantsou Record, aliases: [The Oldest Documented Dynasty]}
+name: {full: The Opening of the Tantsou Record, en: [The Oldest Documented Dynasty]}
 type: lore
 subType: history
 description: "Around 2500 BF the Bureau of Records can first produce an emperor, a dynasty and a year together—the oldest human archive anyone can still read, opened seventy years before Khazartúrn fell."

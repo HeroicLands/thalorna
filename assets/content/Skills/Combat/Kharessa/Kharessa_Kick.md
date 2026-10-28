@@ -1,6 +1,6 @@
 ---
 shortcode: chrssakick
-name: {full: Kharessa Kick, aliases: []}
+name: {full: Kharessa Kick}
 type: skill
 subType: combattechnique
 description: "The Kharessa's kick, trained to reach as high as the head, which the folk kick cannot."

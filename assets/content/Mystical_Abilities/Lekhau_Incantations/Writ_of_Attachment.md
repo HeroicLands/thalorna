@@ -1,6 +1,6 @@
 ---
 shortcode: writattchmnt
-name: {full: Writ of Attachment, aliases: []}
+name: {full: Writ of Attachment}
 type: mysticalability
 subType: arcaneincantation
 description: "Binds an animate thing to a stated duty, which it will perform until released or destroyed."

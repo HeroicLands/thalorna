@@ -1,6 +1,6 @@
 ---
 shortcode: pshtnqzkn
-name: {full: Pushutan Qizikuni, aliases: []}
+name: {full: Pushutan Qizikuni}
 type: being
 subType: npc
 tags: [draft, administration]

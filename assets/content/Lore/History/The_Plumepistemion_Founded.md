@@ -1,6 +1,6 @@
 ---
 shortcode: panepistfnd
-name: {full: The Founding of the Epistémion, aliases: [The Federation of the Schools]}
+name: {full: The Founding of the Epistémion, en: [The Federation of the Schools]}
 type: lore
 subType: history
 description: "Around 400 BF the leading philosophical schools of the Helionite city-states agree to a common federation—the Epistémion, a place for every domain of knowledge, of which the arcane is one college among many."

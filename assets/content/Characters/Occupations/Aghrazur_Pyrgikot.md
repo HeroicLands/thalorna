@@ -1,6 +1,6 @@
 ---
 shortcode: aghrzrpyrgkt
-name: {full: Ághrazur Pirgikot, aliases: []}
+name: {full: Ághrazur Pirgikot}
 type: being
 subType: npc
 tags: [todo-warrior, draft, soldiery]

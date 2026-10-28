@@ -1,6 +1,6 @@
 ---
 shortcode: zaboret
-name: {full: Zaboret, aliases: []}
+name: {full: Zaboret}
 type: being
 subType: npc
 description: "Mother to a timber-merchant, who taught her daughter the language of trees before she taught her to read"

@@ -1,6 +1,6 @@
 ---
 shortcode: ptnaphrs
-name: {full: Cinder Kiss, aliases: ["Potion, Aphrodisiac, Strong"]}
+name: {full: Cinder Kiss, en: ["Potion, Aphrodisiac, Strong"]}
 type: concoctiongear
 subType: exotic
 description: "Deep crimson concentrated preparation; ignites passion and desire."

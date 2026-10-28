@@ -1,6 +1,6 @@
 ---
 shortcode: selmoros
-name: {full: Faith of Sélmoros, aliases: [The Silent Judge, Sélmoros]}
+name: {full: Faith of Sélmoros, en: [The Silent Judge], elav: [Sélmoros]}
 type: affiliation
 subType: faithtradition
 description: "Death."

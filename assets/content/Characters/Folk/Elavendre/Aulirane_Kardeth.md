@@ -1,6 +1,6 @@
 ---
 shortcode: auliranekard
-name: {full: Áulirane Kardeth, aliases: [Lady Áulirane of Kardeth, Lady Áulirane]}
+name: {full: Áulirane Kardeth, en: [Lady Áulirane of Kardeth, Lady Áulirane]}
 type: being
 subType: npc
 description: A young noblewoman of Áelendan ancestry who holds the noble seat of Kardeth near Liranel, and who seeks out Melrik Salvin for discreet remedies.

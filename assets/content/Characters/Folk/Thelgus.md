@@ -1,6 +1,6 @@
 ---
 shortcode: thelgus
-name: {full: Thelgus, aliases: []}
+name: {full: Thelgus}
 type: being
 subType: npc
 description: "A rival who spreads rumours that a performer's music is tainted and his scars a mark of a curse"

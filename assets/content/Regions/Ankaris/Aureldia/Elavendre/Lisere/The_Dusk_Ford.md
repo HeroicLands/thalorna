@@ -1,6 +1,6 @@
 ---
 shortcode: dskfrd
-name: {full: The Dusk Ford, aliases: [Ólvarne]}
+name: {full: The Dusk Ford, elav: [Ólvarne]}
 type: place
 subType: site
 description: "A ford over a bog river behind the Lísere shore that stands only in the long dusk and asks a toll of whoever crosses, kept by a thing of the reeds whose bargain with a beacon-keeper's line has fed the far bank with raiders' forfeits."

@@ -1,6 +1,6 @@
 ---
 shortcode: shmshr
-name: {full: Shamshir, aliases: []}
+name: {full: Shamshir}
 type: weapongear
 description: "Deeply curved supple single-edged saber; cavalry officer's refined speed-stroke."
 tags: []

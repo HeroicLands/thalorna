@@ -1,6 +1,6 @@
 ---
 shortcode: vesazahrbrir
-name: {full: Vesazáhr Brirorash, aliases: [Swordmaster Vesazáhr Brirorash, Swordmaster Vesazáhr]}
+name: {full: Vesazáhr Brirorash, en: [Swordmaster Vesazáhr Brirorash, Swordmaster Vesazáhr]}
 type: being
 subType: npc
 description: An ambitious rival twenty years Sedikon Manedes's junior.

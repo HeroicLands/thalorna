@@ -1,6 +1,6 @@
 ---
 shortcode: strmsr
-name: {full: Stormseer, aliases: []}
+name: {full: Stormseer}
 type: being
 subType: creature
 description: "An arrogant elemental of sky and lightning born from violent storms, heralding severe weather that some believe its very presence conjures."

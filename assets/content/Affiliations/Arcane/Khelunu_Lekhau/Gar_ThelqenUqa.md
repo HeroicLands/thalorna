@@ -1,6 +1,6 @@
 ---
 shortcode: garathenuqa
-name: {full: Gar-Thelqen'Uqa, aliases: [House of the Disk, The House of Sun]}
+name: {full: Gar-Thelqen'Uqa, en: [House of the Disk, The House of Sun]}
 type: affiliation
 subType: arcanetradition
 tags: [gethunu-lekhau, arcane, khelathi]

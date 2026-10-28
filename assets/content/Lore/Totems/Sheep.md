@@ -1,6 +1,6 @@
 ---
 shortcode: sheepttm
-name: {full: Sheep, aliases: [Sheep Totem]}
+name: {full: Sheep, en: [Sheep Totem]}
 type: lore
 subType: bestiary
 description: "The sheep as a totemic ideal, and the human character it describes."

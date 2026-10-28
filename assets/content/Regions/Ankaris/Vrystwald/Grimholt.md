@@ -1,6 +1,6 @@
 ---
 shortcode: grimholt
-name: {full: Grimholt, aliases: []}
+name: {full: Grimholt}
 type: place
 subType: settlement
 description: "Fortified Village"

@@ -1,6 +1,6 @@
 ---
 shortcode: garauu
-name: {full: Gar-Auu, aliases: [The Line of the Gar-Au, Gar-Au]}
+name: {full: Gar-Auu, en: [The Line of the Gar-Au], khel: [gar-au]}
 type: lore
 subType: law
 description: "The plural of Gar-Au—the line of divine sovereigns of Au'Khelathu taken together, and the temple king-list that reckons them from the Qet Telgu to Meqes XVI."

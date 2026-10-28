@@ -1,6 +1,6 @@
 ---
 shortcode: thubaidty
-name: {full: Thuba'i, aliases: []}
+name: {full: Thuba'i}
 type: lore
 subType: deity
 tags: [draft]

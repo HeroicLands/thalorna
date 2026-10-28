@@ -2,7 +2,7 @@
 shortcode: hvalgmylsval
 name:
   full: Hvalgmil Svaltharuk
-  aliases: [Captain Hvalgmil Svaltharuk, Merchant Captain Hvalgmil Svaltharuk]
+  en: [Captain Hvalgmil Svaltharuk, Merchant Captain Hvalgmil Svaltharuk]
 type: being
 subType: npc
 description: A pirate captain operating in Thraldfjord waters under a thin veneer of legitimate merchant trade, named in Gnirthann Veturdómur.

@@ -1,6 +1,6 @@
 ---
 shortcode: garqeltnu
-name: {full: Gar-Qelt'nu, aliases: [House of the Body, The House of Form]}
+name: {full: Gar-Qelt'nu, en: [House of the Body, The House of Form]}
 type: affiliation
 subType: arcanetradition
 tags: [gethunu-lekhau, arcane, khelathi]

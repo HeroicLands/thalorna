@@ -1,6 +1,6 @@
 ---
 shortcode: foreignhs
-name: {full: The Closing of the Foreign House, aliases: []}
+name: {full: The Closing of the Foreign House}
 type: lore
 subType: history
 description: "In 395 AF the second Gar-Au of the Vylarian house went to the West in the night and no Vylarian claimed the throne; about 398 AF the next house starved the army's garrisons out of the delta forts."

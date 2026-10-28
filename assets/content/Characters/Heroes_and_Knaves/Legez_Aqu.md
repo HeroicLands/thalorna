@@ -1,6 +1,6 @@
 ---
 shortcode: legezaqu
-name: {full: Legez Aqu, given: Legez, clan: Aqu, aliases: []}
+name: {full: Legez Aqu, given: Legez, clan: Aqu}
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, clergy]

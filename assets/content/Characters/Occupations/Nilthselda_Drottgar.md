@@ -1,6 +1,6 @@
 ---
 shortcode: nlthslddrtgr
-name: {full: Nilthselda Drottgar, aliases: []}
+name: {full: Nilthselda Drottgar}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

@@ -1,6 +1,6 @@
 ---
 shortcode: nyalbcroc
-name: {full: "Crocodile Totem", aliases: [Crocodile of the Kolembozi, Kolembozi Totem]}
+name: {full: Crocodile Totem, en: [Crocodile of the Kolembozi, Kolembozi Totem]}
 type: affiliation
 subType: spirittradition
 description: "The crocodile-spirit of the Kolembozi—watchfulness, judgment and the river's hunger; appeased rather than venerated, and served by the most elaborate shamanic practice of the five clans."

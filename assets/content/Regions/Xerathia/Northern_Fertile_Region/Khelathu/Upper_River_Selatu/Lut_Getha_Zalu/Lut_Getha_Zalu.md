@@ -1,6 +1,6 @@
 ---
 shortcode: lutgethazalunome
-name: {full: Lut-Getha-Zalu, aliases: []}
+name: {full: Lut-Getha-Zalu}
 type: place
 subType: region
 description: "Smith-towns and craft-temples; bronze, gold, and the ceremonial arms of the nobility—the land of the Selat of Lut-Getha-Zalu, one of the upper-river selatu of Au'Khelathu."

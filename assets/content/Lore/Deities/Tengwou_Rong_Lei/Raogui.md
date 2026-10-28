@@ -1,6 +1,6 @@
 ---
 shortcode: raoguidty
-name: {full: Raogui, aliases: []}
+name: {full: Raogui}
 type: lore
 subType: deity
 description: "The Minister of Storms in the Tengwou Rong Lei, who holds the weather as a portfolio of the celestial bureaucracy."

@@ -1,6 +1,6 @@
 ---
 shortcode: valthelonikaenc
-name: {full: Valtari Helonika Encoding, aliases: []}
+name: {full: Valtari Helonika Encoding}
 type: doc
 subType: reference
 data:

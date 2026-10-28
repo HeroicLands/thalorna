@@ -1,6 +1,6 @@
 ---
 shortcode: chaqurdty
-name: {full: Chaq'ur, aliases: []}
+name: {full: Chaq'ur}
 type: lore
 subType: deity
 tags: [draft]

@@ -238,6 +238,29 @@ function withRegisterSplits(fm, file) {
 }
 
 /** Keep every meaning, class, concept, native writing, name and English reading. */
+/**
+ * The baseline with its `name.aliases` moved to the language lists the current
+ * note gives. A note lists its other names under language codes; a baseline
+ * alias is kept when one of the current note's lists holds it, ignoring case,
+ * because a form under a caseless language is written lowercase. A baseline
+ * alias no list holds stays, so the comparison reports where it went.
+ *
+ * @param {object} fm - A baseline frontmatter.
+ * @param {object} [current] - The current frontmatter of the same note.
+ * @returns {object} The frontmatter, copied where it changed.
+ */
+export function withNameForms(fm, current) {
+    const aliases = fm?.name?.aliases;
+    if (!Array.isArray(aliases)) return fm;
+    const lists = Object.entries(current?.name ?? {}).filter(([, forms]) => Array.isArray(forms));
+    const held = new Set(lists.flatMap(([, forms]) => forms.map(lower)));
+    if (!aliases.every((alias) => held.has(lower(String(alias))))) return fm;
+    const copy = structuredClone(fm);
+    delete copy.name.aliases;
+    for (const [code, forms] of lists) copy.name[code] = structuredClone(forms);
+    return copy;
+}
+
 export function assertEncodingMigrationPreserved(
     current,
     before = beforeEncodingMigration(current.file),
@@ -248,7 +271,10 @@ export function assertEncodingMigrationPreserved(
         expected = canonical(
             withRegisterSplits(
                 withEnglishNameLists(
-                    withOneAccentRespellings(withTranslationRetags(before.fm, file), file),
+                    withOneAccentRespellings(
+                        withTranslationRetags(withNameForms(before.fm, current.fm), file),
+                        file,
+                    ),
                     file,
                 ),
                 file,

@@ -1,8 +1,6 @@
 ---
 shortcode: flkkhazar
-name:
-  full: Khazár Folk
-  aliases: [The Deep Folk, The Stone-Wrights, The Under-Kin, The Forge-Born]
+name: {full: Khazár Folk, en: [The Deep Folk, The Stone-Wrights, The Under-Kin, The Forge-Born]}
 type: lore
 subType: folk
 description: "The Deep Folk: ancient stone-wrights of mountain and forge, vanishingly rare, living in the cliff faces of the world's high places in cities that read as weathered rock."

@@ -1,6 +1,6 @@
 ---
 shortcode: ashenwoodmnr
-name: {full: Ashenwood Manor, aliases: []}
+name: {full: Ashenwood Manor}
 type: place
 subType: structure
 description: "A lord's manor of Nordheim whose hunting grounds are kept by the head huntsman Skilfvir Asgrind and hunted at the lord's feasts."

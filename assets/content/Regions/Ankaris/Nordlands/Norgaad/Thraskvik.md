@@ -1,6 +1,6 @@
 ---
 shortcode: thraskvik
-name: {full: Thraskvík, aliases: []}
+name: {full: Thraskvík}
 type: place
 subType: settlement
 description: "A port town of Norgaad and one of its most vital coastal towns, home to shipwright families who build the kingdom's longships."

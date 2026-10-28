@@ -1,6 +1,6 @@
 ---
 shortcode: zedimazenoth
-name: {full: Zédima Zenothis, aliases: []}
+name: {full: Zédima Zenothis}
 type: being
 subType: npc
 description: Mother of Father Ostaran Dorvás and daughter of a well-known scholar, who married into the royal guard.

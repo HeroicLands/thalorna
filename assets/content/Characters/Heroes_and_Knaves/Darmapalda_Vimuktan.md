@@ -1,6 +1,6 @@
 ---
 shortcode: drmpldvmkt
-name: {full: Darmapalda Vimuktan, given: Darmapalda, clan: Vimuktan, aliases: [Darmu]}
+name: {full: Darmapalda Vimuktan, given: Darmapalda, clan: Vimuktan, vedy: [darmu]}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]

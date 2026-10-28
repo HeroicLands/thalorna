@@ -2,7 +2,7 @@
 shortcode: bashvarddarv
 name:
   full: Bashvard Darvani
-  aliases: [Fortress Commander Bashvard Darvani, Fortress Commander Bashvard]
+  en: [Fortress Commander Bashvard Darvani, Fortress Commander Bashvard]
 type: being
 subType: npc
 description: The garrison's senior officer, who respects Delanash Ferudan completely.

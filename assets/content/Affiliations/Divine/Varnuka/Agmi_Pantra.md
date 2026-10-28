@@ -1,6 +1,6 @@
 ---
 shortcode: agmipantra
-name: {full: Agmi-pantra, aliases: [The Path of the Flame, Flame Path]}
+name: {full: The Path of the Flame, en: [Flame Path], vedy: [agmi-pantra]}
 type: affiliation
 subType: faithtradition
 description: "The ascetic, reformist sect centered on Rasikara's purging fire that brings purification."

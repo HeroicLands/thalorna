@@ -1,6 +1,6 @@
 ---
 shortcode: shaligroma
-name: {full: Shaligroma, aliases: []}
+name: {full: Shaligroma}
 type: place
 subType: settlement
 description: "The largest of the rice villages, on the flood-plain the Sarveda silts and does not cut."

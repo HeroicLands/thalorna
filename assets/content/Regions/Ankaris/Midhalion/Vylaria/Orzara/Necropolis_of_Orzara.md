@@ -1,6 +1,6 @@
 ---
 shortcode: necropolisorzara
-name: {full: Necropolis of Orzara, aliases: []}
+name: {full: Necropolis of Orzara}
 type: place
 subType: site
 description: "The burial ground of Orzara, outside the walls with the rest of what the city will not keep within them."

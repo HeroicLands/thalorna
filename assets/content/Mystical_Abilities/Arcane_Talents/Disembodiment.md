@@ -1,6 +1,6 @@
 ---
 shortcode: dsbd
-name: {full: Disembodiment, aliases: []}
+name: {full: Disembodiment}
 type: mysticalability
 subType: arcanetalent
 description: "Separates the perceiving self from the body, which lies insensible while it is away."

@@ -1,6 +1,6 @@
 ---
 shortcode: sturashtulva
-name: {full: Sturash Tulvazát, aliases: [Advocate Sturash Tulvazát]}
+name: {full: Sturash Tulvazát, en: [Advocate Sturash Tulvazát]}
 type: being
 subType: npc
 description: A younger, more charismatic advocate who is slowly taking Nomasáhr Paraklavos's clients and position.

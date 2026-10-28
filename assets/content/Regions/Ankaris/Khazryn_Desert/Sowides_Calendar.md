@@ -1,6 +1,6 @@
 ---
 shortcode: swdsclndr
-name: {full: The Sovidur Reckoning, aliases: [Steppe Reckoning]}
+name: {full: The Sovidur Reckoning, en: [Steppe Reckoning]}
 type: lore
 subType: calendar
 description: "How the steppe tribes count years: from the last orkunoq to rise, so that each great union opens a new count and the year is named for the banner it flew under."

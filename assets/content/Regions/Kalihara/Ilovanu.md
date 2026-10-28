@@ -1,6 +1,6 @@
 ---
 shortcode: ilovanu
-name: {full: Ilovanu, aliases: []}
+name: {full: Ilovanu}
 type: place
 subType: settlement
 description: "The principal port of Kalihara on the island's eastern coast—spice and gem entrepôt, seat of the island's Council, and the one place on the island most foreigners ever see."

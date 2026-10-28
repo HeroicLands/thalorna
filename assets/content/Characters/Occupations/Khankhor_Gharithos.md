@@ -1,6 +1,6 @@
 ---
 shortcode: chnkhrghrths
-name: {full: Khankhor Gharithos, aliases: []}
+name: {full: Khankhor Gharithos}
 type: being
 subType: npc
 tags: [draft, common-folk]

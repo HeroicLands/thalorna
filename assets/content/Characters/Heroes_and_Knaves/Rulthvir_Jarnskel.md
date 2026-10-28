@@ -1,6 +1,6 @@
 ---
 shortcode: rlthvrjrnskl
-name: {full: Rulthvir Jarnskel, given: Rulthvir, clan: Jarnskel, aliases: []}
+name: {full: Rulthvir Jarnskel, given: Rulthvir, clan: Jarnskel}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]

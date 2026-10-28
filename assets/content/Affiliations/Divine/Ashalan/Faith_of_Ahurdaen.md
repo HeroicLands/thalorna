@@ -2,7 +2,7 @@
 shortcode: ahurdaen
 name:
   full: Faith of Ahurdaen
-  aliases: [The Keeper of Harmony, Ahura Mazda, "Ahurdaen, The Keeper of Harmony"]
+  en: [The Keeper of Harmony, Ahura Mazda, "Ahurdaen, The Keeper of Harmony"]
 type: affiliation
 subType: faithtradition
 description: "Order."

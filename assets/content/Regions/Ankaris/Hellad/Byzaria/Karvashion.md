@@ -1,6 +1,6 @@
 ---
 shortcode: karvashion
-name: {full: Karvashion, aliases: []}
+name: {full: Karvashion}
 type: affiliation
 subType: polity
 description: "Green-land city-state of the Bizarian League at the junction of the eastern and southern caravan roads—an inland caravanserai city with a reputation for gardeners, merchants, and peaceful culture."

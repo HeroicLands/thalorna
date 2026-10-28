@@ -1,6 +1,6 @@
 ---
 shortcode: ermynvldrn
-name: {full: Ermin Véldarin, aliases: []}
+name: {full: Ermin Véldarin}
 type: being
 subType: npc
 tags: [todo-warrior, draft, soldiery]

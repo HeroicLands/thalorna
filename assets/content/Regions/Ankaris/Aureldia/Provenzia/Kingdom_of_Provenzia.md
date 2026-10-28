@@ -1,6 +1,6 @@
 ---
 shortcode: kngdmprvnz
-name: {full: Kingdom of Provenzia, aliases: []}
+name: {full: Kingdom of Provenzia}
 type: affiliation
 subType: polity
 description: "Merchant-prince kingdom on the southern coast of Aureldia—wealthy, sophisticated, and deeply engaged in continental trade and diplomacy."

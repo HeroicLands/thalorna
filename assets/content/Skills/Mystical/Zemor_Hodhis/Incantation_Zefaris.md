@@ -1,6 +1,6 @@
 ---
 shortcode: zefaris
-name: {full: Incantation Zefaris, aliases: []}
+name: {full: Incantation Zefaris}
 type: skill
 subType: mystical
 tags: [zemor-hodhis, draft]

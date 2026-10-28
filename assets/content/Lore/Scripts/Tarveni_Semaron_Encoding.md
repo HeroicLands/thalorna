@@ -1,6 +1,6 @@
 ---
 shortcode: tarvsemaronenc
-name: {full: Tarveni Semaron Encoding, aliases: []}
+name: {full: Tarveni Semaron Encoding}
 type: doc
 subType: reference
 data:

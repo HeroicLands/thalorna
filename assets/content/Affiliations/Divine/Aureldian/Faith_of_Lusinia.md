@@ -1,6 +1,6 @@
 ---
 shortcode: lusinia
-name: {full: Faith of Lusinia, aliases: [The World-Weaver, Lusinia]}
+name: {full: Faith of Lusinia, en: [The World-Weaver], elav: [Lusinia]}
 type: affiliation
 subType: faithtradition
 description: "Creation."

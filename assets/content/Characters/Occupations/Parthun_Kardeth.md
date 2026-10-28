@@ -1,6 +1,6 @@
 ---
 shortcode: prthncrdth
-name: {full: Parthun Kardeth, aliases: []}
+name: {full: Parthun Kardeth}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]

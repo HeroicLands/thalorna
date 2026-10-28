@@ -1,6 +1,6 @@
 ---
 shortcode: khelaga
-name: {full: Khelaga, aliases: []}
+name: {full: Khelaga}
 type: place
 subType: settlement
 description: "Selat capital of Khelaga."

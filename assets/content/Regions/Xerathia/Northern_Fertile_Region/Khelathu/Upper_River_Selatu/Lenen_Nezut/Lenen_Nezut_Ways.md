@@ -1,6 +1,6 @@
 ---
 shortcode: lnzways
-name: {full: The Lenen-Nezut Ways, aliases: [The Ways of the Ram]}
+name: {full: The Lenen-Nezut Ways, en: [The Ways of the Ram]}
 type: place
 subType: site
 description: "The three royal tombs of the house of Geze'el'Anlaghu and their short crossing-road on the desert edge above Lenen-Nezut, laid out in imitation of Zu-Gezer and kept, badly, by the Halzi'a's house and not by the crown."

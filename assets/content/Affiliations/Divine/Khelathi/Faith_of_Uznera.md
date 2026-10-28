@@ -1,6 +1,6 @@
 ---
 shortcode: uznera
-name: {full: Faith of Uzn'era, aliases: [Mother of New Beginnings]}
+name: {full: Faith of Uzn'era, en: [Mother of New Beginnings]}
 type: affiliation
 subType: faithtradition
 description: "Fertility & Healing."

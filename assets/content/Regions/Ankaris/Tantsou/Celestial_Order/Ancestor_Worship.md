@@ -1,6 +1,6 @@
 ---
 shortcode: ancstrwrshp
-name: {full: Ancestor Worship, aliases: []}
+name: {full: Ancestor Worship}
 type: lore
 subType: spirit
 description: "Ancestor worship in Tantsou—the dead posted as advocates in heaven, the household shrine and its tablets, the obligations owed in both directions, the Leigen who speak with the dead, and the midwinter Festival of the Dead."

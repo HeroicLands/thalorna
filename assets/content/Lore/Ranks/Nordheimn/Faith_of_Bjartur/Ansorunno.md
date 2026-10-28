@@ -1,6 +1,6 @@
 ---
 shortcode: calathirrnk
-name: {full: "Ansorun", aliases: [Long-Watcher]}
+name: {full: Long-Watcher, sina: [ansorun]}
 type: lore
 subType: law
 description: "Entrusted with the rites, the care of the faithful and the stewardship of sacred places, in the faith of Bjart."

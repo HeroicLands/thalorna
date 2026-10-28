@@ -1,6 +1,6 @@
 ---
 shortcode: deltaexped
-name: {full: The Delta Expedition, aliases: [The Crossing to the Delta]}
+name: {full: The Delta Expedition, en: [The Crossing to the Delta]}
 type: lore
 subType: history
 description: "In 377 AF the Orzas Barnakis sends the Empire's strongest field army across the sea to the Khelathi delta; it breaks the chariot corps at Khelaga, its commander is crowned in the Khelathi manner, and the chancery enters him as a traitor and stops writing his name."

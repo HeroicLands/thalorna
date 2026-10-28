@@ -1,6 +1,6 @@
 ---
 shortcode: kalihara
-name: {full: Kalihara, aliases: []}
+name: {full: Kalihara}
 type: affiliation
 subType: polity
 description: "The island polity of Kalihara in the western ocean—one civilization eighty centuries old, raised by the Ithari and tending what they left, closed to the world except through four ports on its eastern coast."

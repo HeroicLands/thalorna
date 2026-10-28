@@ -1,6 +1,6 @@
 ---
 shortcode: vedyarargn
-name: {full: Vedyara Region, aliases: []}
+name: {full: Vedyara Region}
 type: place
 subType: region
 description: The southeastern subcontinent of Ankaris, bounded to the north by the world's highest mountain range and on three sides by seas, with river plains, a dry plateau, and monsoon coasts.

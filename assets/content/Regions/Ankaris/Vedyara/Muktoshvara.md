@@ -1,6 +1,6 @@
 ---
 shortcode: muktoshvara
-name: {full: Muktoshvara, aliases: []}
+name: {full: Muktoshvara}
 type: place
 subType: settlement
 description: "The downstream village of Rajepur, whose Rasikara cremation-ground receives the dead of every constituent village."

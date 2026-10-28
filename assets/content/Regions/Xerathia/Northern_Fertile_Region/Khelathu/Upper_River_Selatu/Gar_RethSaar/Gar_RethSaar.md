@@ -1,6 +1,6 @@
 ---
 shortcode: garrethsaarnome
-name: {full: Gar-Reth'Sa'ar, aliases: []}
+name: {full: Gar-Reth'Sa'ar}
 type: place
 subType: region
 description: "The learned country of the upper river—grain-land around the temple-city of Khelunu and its library-temple of Reth'Sa'ar, the land of the Selat of Gar-Reth'Sa'ar."

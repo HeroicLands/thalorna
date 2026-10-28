@@ -1,6 +1,6 @@
 ---
 shortcode: badgerttm
-name: {full: Badger, aliases: [Badger Totem]}
+name: {full: Badger, en: [Badger Totem]}
 type: lore
 subType: bestiary
 description: "The badger as a totemic ideal, and the human character it describes."

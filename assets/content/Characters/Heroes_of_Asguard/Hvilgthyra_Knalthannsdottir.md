@@ -1,6 +1,6 @@
 ---
 shortcode: hvlgthyrknlthnsdtr
-name: {full: Hvilgthira Knalthannsdottir, given: Hvilgthira, aliases: [Knalthannsdottir]}
+name: {full: Hvilgthira Knalthannsdottir, given: Hvilgthira, nord: [knalthannsdottir]}
 type: being
 subType: character
 tags: [paragon, heroes-of-asguard, soldiery]

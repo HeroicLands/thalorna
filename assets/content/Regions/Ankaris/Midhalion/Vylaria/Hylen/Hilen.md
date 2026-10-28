@@ -1,6 +1,6 @@
 ---
 shortcode: hylen
-name: {full: Hilen, aliases: []}
+name: {full: Hilen}
 type: place
 subType: region
 description: "The breadbasket of the Vylarian Empire—the land of the Province of Hilen, fertile lowlands and terraced hill-country of vast estates producing the grain, wine and oil that feed the empire."

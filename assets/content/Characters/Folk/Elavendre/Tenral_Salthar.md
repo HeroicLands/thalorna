@@ -1,6 +1,6 @@
 ---
 shortcode: tenralsaltha
-name: {full: Tenral Salthar, aliases: [Captain-Commander Tenral Salthar]}
+name: {full: Tenral Salthar, en: [Captain-Commander Tenral Salthar]}
 type: being
 subType: npc
 description: The supreme naval commander of Élavendre's maritime forces, who employs Tárella Pelthal for predictions.

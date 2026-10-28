@@ -1,6 +1,6 @@
 ---
 shortcode: urumi
-name: {full: Urumi, aliases: []}
+name: {full: Urumi}
 type: weapongear
 description: "Flexible-bladed whip spiraling from grip; specialist's weapon demanding conditioning."
 tags: []

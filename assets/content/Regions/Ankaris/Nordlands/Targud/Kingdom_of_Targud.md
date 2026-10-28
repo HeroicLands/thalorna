@@ -1,6 +1,6 @@
 ---
 shortcode: kingdmtrgd
-name: {full: Kingdom of Targud, aliases: [Targud]}
+name: {full: Kingdom of Targud, nord: [targud]}
 type: affiliation
 subType: polity
 description: "Sparsely-peopled northern Nordmen kingdom of deep forests and tundra borderlands—hunters, trappers, and fur-traders whose loyalty to the Asguardian gods is as cold and unbending as the country itself."

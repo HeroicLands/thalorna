@@ -1,6 +1,6 @@
 ---
 shortcode: unnumbrdage
-name: {full: The Unnumbered Age, aliases: []}
+name: {full: The Unnumbered Age}
 type: lore
 subType: history
 description: "Vedyara before anyone kept a count of years: the janpoda form, Gomarga's law of wells, and the stones nobody laid within memory, ending about 780 BF when the highland temples began keeping an age of their own."

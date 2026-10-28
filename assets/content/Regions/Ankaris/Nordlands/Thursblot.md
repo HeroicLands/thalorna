@@ -1,6 +1,6 @@
 ---
 shortcode: thursblot
-name: {full: Thursblet, aliases: [The Giant's Blet, The First Cutting]}
+name: {full: Thursblet, en: [The Giant's Blet, The First Cutting]}
 type: lore
 subType: theology
 description: "The making of Mannguard from the Rime-Giant's body at the close of the giant-war—the first blet to the Ten's hovs, the first cutting to Hrimthur's."

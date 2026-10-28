@@ -1,6 +1,6 @@
 ---
 shortcode: neitsai
-name: {full: "Ritual: Neitsai", aliases: [Neitsai, The Minister of Continuity]}
+name: {full: "Ritual: Neitsai", en: [The Minister of Continuity], tant: [Neitsai]}
 type: skill
 subType: mystical
 tags: [tengwou, faith-skill, draft]

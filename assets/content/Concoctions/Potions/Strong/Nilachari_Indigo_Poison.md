@@ -1,6 +1,6 @@
 ---
 shortcode: nilacharipoison
-name: {full: "Nilachari Indigo Poison", aliases: ["Poison, Indigo, Strong"]}
+name: {full: Nilachari Indigo Poison, en: ["Poison, Indigo, Strong"]}
 type: concoctiongear
 subType: exotic
 description: "A deep-blue poison distilled from spent indigo vats; one of the subtler preparations to come out of Chandratar's apothecary."

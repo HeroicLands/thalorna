@@ -1,6 +1,6 @@
 ---
 shortcode: stnbst
-name: {full: Stonebeast, aliases: []}
+name: {full: Stonebeast}
 type: being
 subType: creature
 description: "An ancient earth-and-stone guardian that lies dormant in caverns until disturbed, then becomes an implacable force of destruction."

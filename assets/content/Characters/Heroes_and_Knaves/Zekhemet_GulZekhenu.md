@@ -1,6 +1,6 @@
 ---
 shortcode: zekhmtglzkhn
-name: {full: Zekhemet Gul'Zekhenu, given: Zekhemet, clan: Gul'Zekhenu, aliases: []}
+name: {full: Zekhemet Gul'Zekhenu, given: Zekhemet, clan: Gul'Zekhenu}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]

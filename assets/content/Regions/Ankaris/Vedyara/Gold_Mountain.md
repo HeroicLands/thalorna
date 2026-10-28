@@ -1,6 +1,6 @@
 ---
 shortcode: goldmountain
-name: {full: The Gold Mountain, aliases: [Suvargeri]}
+name: {full: The Gold Mountain, vedy: [suvargeri]}
 type: place
 subType: feature
 description: "The gold-bearing mountain at the head of the Bharava, whose alluvial wash has paid for three great temples, twenty-three pilgrim hostels and fifteen centuries of constitutional argument."

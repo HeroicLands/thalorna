@@ -1,6 +1,6 @@
 ---
 shortcode: raiyaqugstzb
-name: {full: Raiyaku Gaset'Zabu, given: Raiyaku, clan: Gaset'Zabu, aliases: []}
+name: {full: Raiyaku Gaset'Zabu, given: Raiyaku, clan: Gaset'Zabu}
 type: being
 subType: character
 tags: [heroes-and-knaves, administration]

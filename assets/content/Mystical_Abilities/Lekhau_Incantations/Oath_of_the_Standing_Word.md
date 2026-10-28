@@ -1,6 +1,6 @@
 ---
 shortcode: oathstndngwr
-name: {full: Oath of the Standing Word, aliases: []}
+name: {full: Oath of the Standing Word}
 type: mysticalability
 subType: arcaneincantation
 description: "Binds a spoken oath so that both parties know, at once and without doubt, when it is broken."

@@ -1,6 +1,6 @@
 ---
 shortcode: alvrngrvth
-name: {full: Alvaren Graveth, aliases: []}
+name: {full: Alvaren Graveth}
 type: being
 subType: npc
 tags: [draft, common-folk]

@@ -1,6 +1,6 @@
 ---
 shortcode: elxoba
-name: {full: "Keeper's Vow", aliases: [Object Aegis Elixir]}
+name: {full: Keeper's Vow, en: [Object Aegis Elixir]}
 type: concoctiongear
 subType: elixir
 description: "Pearl-like liquid; fortifies objects against arcane intrusion."

@@ -1,6 +1,6 @@
 ---
 shortcode: kamavrata
-name: {full: Kamavrata, aliases: [The Celestial Lover]}
+name: {full: The Celestial Lover, vedy: [kamavrata]}
 type: affiliation
 subType: faithtradition
 description: "Religion of the god of desire and fertility and of the creative joy that issues from it."

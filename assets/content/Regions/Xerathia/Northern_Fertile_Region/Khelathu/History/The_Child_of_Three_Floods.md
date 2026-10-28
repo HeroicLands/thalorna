@@ -1,6 +1,6 @@
 ---
 shortcode: childfloods
-name: {full: The Child of Three Floods, aliases: []}
+name: {full: The Child of Three Floods}
 type: lore
 subType: history
 description: "In 2580 ST the child Gar-Au Kuz'el'Retha III went to the West in the night, and Meqes of Zu'Meku, who had stood beside the throne as regent, was crowned in the child's second year and founded the house that reigns today."

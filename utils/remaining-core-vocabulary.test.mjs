@@ -8,6 +8,7 @@ import { isDeepStrictEqual } from "node:util";
 import YAML from "yaml";
 import { splitFrontmatter } from "@heroiclands/package-build/engine/diagnostics";
 import { WORD_CLASS_BASES, parseWordClass } from "@heroiclands/package-build/engine/word-classes";
+import { withNameForms } from "./encoding-preservation.mjs";
 
 const baseline = "4da8f980e";
 const languageFiles = [
@@ -140,7 +141,7 @@ test("original language entries, metadata and prose are retained", () => {
             );
         }
 
-        const oldMetadata = structuredClone(before.fm);
+        const oldMetadata = structuredClone(withNameForms(before.fm, after.fm));
         const newMetadata = structuredClone(after.fm);
         delete oldMetadata.data.words;
         delete newMetadata.data.words;

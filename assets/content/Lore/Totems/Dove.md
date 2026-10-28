@@ -1,6 +1,6 @@
 ---
 shortcode: dovettm
-name: {full: Dove, aliases: [Dove Totem]}
+name: {full: Dove, en: [Dove Totem]}
 type: lore
 subType: bestiary
 description: "The dove as a totemic ideal, and the human character it describes."

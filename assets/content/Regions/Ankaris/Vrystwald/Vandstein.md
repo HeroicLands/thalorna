@@ -1,6 +1,6 @@
 ---
 shortcode: vandstein
-name: {full: Vandstein, aliases: [Southern Highland Reach]}
+name: {full: Vandstein, en: [Southern Highland Reach]}
 type: place
 subType: region
 description: Vristwald's southern highland edge facing Vylaria.

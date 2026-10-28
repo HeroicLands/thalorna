@@ -1,6 +1,6 @@
 ---
 shortcode: henzhuo
-name: {full: Huenzhuo, aliases: [The Lord of the Unclassified, The First Refusal]}
+name: {full: The Lord of the Unclassified, en: [The First Refusal], tant: [Huenzhuo]}
 type: affiliation
 subType: criminal
 description: "Chaos."

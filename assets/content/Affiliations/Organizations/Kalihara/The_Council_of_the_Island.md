@@ -1,6 +1,6 @@
 ---
 shortcode: councilisland
-name: {full: The Council of the Island, aliases: [The Council]}
+name: {full: The Council of the Island, en: [The Council]}
 type: affiliation
 subType: governmental
 description: "The governing body of Kalihara, sitting at Ilovanu, seated by lineage and by charge over the works, and deciding above all what outsiders may be told."

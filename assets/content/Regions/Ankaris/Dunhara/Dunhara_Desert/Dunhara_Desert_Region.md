@@ -1,6 +1,6 @@
 ---
 shortcode: dunhardsrtrgn
-name: {full: Dunhara Desert Region, aliases: [Dunhara Desert]}
+name: {full: Dunhara Desert Region, en: [Dunhara Desert]}
 type: place
 subType: region
 description: The open desert of the Dunhara beyond the settled cities—sand seas, mesas and oases held by no fixed border, ranged by the tribal confederations of the Dunhari.

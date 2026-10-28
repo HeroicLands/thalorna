@@ -1,6 +1,6 @@
 ---
 shortcode: mazeofechos
-name: {full: Maze of Echoes, aliases: []}
+name: {full: Maze of Echoes}
 type: place
 subType: site
 description: "A maze encountered within Úkua-Arálwen, where sound does not behave as it should—the challenge that stands between a party and the Heart of Dirikri."

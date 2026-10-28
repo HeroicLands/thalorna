@@ -1,6 +1,6 @@
 ---
 shortcode: zelgut
-name: {full: Zelgút, aliases: []}
+name: {full: Zelgút}
 type: lore
 subType: arcana
 description: "The unmaking, taught in full and proscribed in practice."

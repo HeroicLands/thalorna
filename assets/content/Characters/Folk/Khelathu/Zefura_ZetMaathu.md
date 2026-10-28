@@ -1,6 +1,6 @@
 ---
 shortcode: zefurazetmaa
-name: {full: Zefura Zet'Maathu, aliases: [Master Zefura]}
+name: {full: Zefura Zet'Maathu, en: [Master Zefura]}
 type: being
 subType: npc
 description: A master perfumer of considerable reputation, father of Gatnefur Zet'Maathu and a demanding teacher.

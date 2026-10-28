@@ -1,6 +1,6 @@
 ---
 shortcode: myrthnkrvnn
-name: {full: Mirthana Kervanion, aliases: []}
+name: {full: Mirthana Kervanion}
 type: being
 subType: npc
 tags: [draft, soldiery]

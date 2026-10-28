@@ -1,6 +1,6 @@
 ---
 shortcode: heladrgn
-name: {full: Hellád Region, aliases: []}
+name: {full: Hellád Region}
 type: place
 subType: region
 description: Crossroads region of southern Ankaris—a transitional zone of city-states, trade routes, and mixed faiths between Aureldia and the eastern realms.

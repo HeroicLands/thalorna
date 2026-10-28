@@ -1,6 +1,6 @@
 ---
 shortcode: hppgryph
-name: {full: Hippogryph, aliases: []}
+name: {full: Hippogryph}
 type: being
 subType: creature
 description: "A five-hundred-pound eagle-and-horse hybrid prized for balance over raw power, lacking the gryphon's fierce territorial aggression."

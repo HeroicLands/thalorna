@@ -1,6 +1,6 @@
 ---
 shortcode: whlsdrwnzgrt
-name: {full: Hands That Never Stop Turning, aliases: []}
+name: {full: Hands That Never Stop Turning}
 type: scenario
 subType: adventure
 description: "In a temple drowned beneath the forest, withered hands turn bronze prayer-wheels without rest, and the water around them keeps rising."

@@ -1,6 +1,6 @@
 ---
 shortcode: cat
-name: {full: Cat, aliases: []}
+name: {full: Cat}
 type: being
 subType: creature
 description: "A small solitary predator living between wild and tame, hunting vermin with lethal efficiency while tolerating the humans it shares hearths with."

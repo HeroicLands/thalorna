@@ -1,6 +1,6 @@
 ---
 shortcode: pata
-name: {full: Pata, aliases: []}
+name: {full: Pata}
 type: weapongear
 description: "Blade-fixed gauntlet for armored straight-arm thrust; duelist's sword-shield."
 tags: []

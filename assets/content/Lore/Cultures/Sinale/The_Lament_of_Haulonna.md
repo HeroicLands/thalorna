@@ -1,6 +1,6 @@
 ---
 shortcode: lamenthaulonna
-name: {full: The Lament of Haulonna, aliases: [Haulonnaren neltava]}
+name: {full: The Lament of Haulonna, sina: [haulonnaren neltava]}
 type: lore
 subType: literature
 description: "The Sinale lament sung in the Hallowwood when word comes from the north: five of the dead of Haulonna called by name, the night the runes were cut told plainly, the long-watcher left uncalled at his watch, and the line that ends every lament left unsung until the valley is loosed."
@@ -15,7 +15,7 @@ data:
     - lore-goddreams
     - place-hallowwood
     - affiliation-nahild
-  language: sinalelng
+  lang: sina
 
 # terran_analog: "Canu Heledd and the Llywarch Hen englynion, for the survivor's refrain over the empty hall; the Kalevala and the Kanteletar, for the line restated by the line that follows; Karelian lament-singing, which calls the dead by name and circumlocution; Finnic origin-charms, which tell how a harm was made so that it can be undone."
 ---

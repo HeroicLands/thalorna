@@ -4,7 +4,7 @@ name:
   full: Lámbira Pédhinion
   given: Lámbira
   clan: Pédhinion
-  aliases: [The Bounty Hunter, The Hound of the Veil]
+  en: [The Bounty Hunter, The Hound of the Veil]
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, soldiery]

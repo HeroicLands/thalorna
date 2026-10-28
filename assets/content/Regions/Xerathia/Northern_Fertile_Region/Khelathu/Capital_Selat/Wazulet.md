@@ -1,6 +1,6 @@
 ---
 shortcode: wazulet
-name: {full: The Wazulet, aliases: [The Pure Place]}
+name: {full: The Wazulet, en: [The Pure Place]}
 type: place
 subType: settlement
 description: "A liminal and faintly shunned quarter of Galezkara by the necropolis-ferry, where the trades that handle the dead keep their houses"

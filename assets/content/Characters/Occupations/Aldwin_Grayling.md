@@ -1,6 +1,6 @@
 ---
 shortcode: aldwngrylng
-name: {full: Aldwald Grayling, aliases: []}
+name: {full: Aldwald Grayling}
 type: being
 subType: npc
 tags: [draft, common-folk]

@@ -1,6 +1,6 @@
 ---
 shortcode: ronethoszurm
-name: {full: Ronethos Zurmelates, aliases: [Field Investigator Ronethos Zurmelates]}
+name: {full: Ronethos Zurmelates, en: [Field Investigator Ronethos Zurmelates]}
 type: being
 subType: npc
 description: A field investigator of the Sekran with a reputation for dogged persistence, named in Azato Damzanis.

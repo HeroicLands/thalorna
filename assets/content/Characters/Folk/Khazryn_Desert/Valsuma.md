@@ -1,6 +1,6 @@
 ---
 shortcode: valsuma
-name: {full: Valsuma, aliases: [High Priestess Valsuma]}
+name: {full: Valsuma, en: [High Priestess Valsuma]}
 type: being
 subType: npc
 description: A woman nearly eighty years old who served the god for sixty years and mentored Sharminah Tahvan.

@@ -1,6 +1,6 @@
 ---
 shortcode: garzekri
-name: {full: Gar-Zekri, aliases: []}
+name: {full: Gar-Zekri}
 type: place
 subType: settlement
 description: "A pilgrim-and-farm village of Khelzuret, strung along the east bank and the pilgrim-road"

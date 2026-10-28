@@ -1,6 +1,6 @@
 ---
 shortcode: thulmosis2
-name: {full: Thulmosis, aliases: []}
+name: {full: Thulmosis}
 type: being
 subType: npc
 description: "A Halzi'a of a neighbouring selat, of a more traditional turn than his peers and untroubled by the comparison"

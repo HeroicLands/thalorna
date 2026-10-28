@@ -1,12 +1,12 @@
 ---
 shortcode: aelendanclt
-name: {full: Áelendan, aliases: [People of the Pact]}
+name: {full: Áelendan, en: [People of the Pact]}
 type: lore
 subType: culture
 description: "The Áelendan—their beliefs, their mores, and what they hold a person owes."
 tags: []
 data:
-  language: skill-aelendlng
+  lang: aele
   glossary:
     - name: "Tradition Keeper"
       definition: "An Áelendan memorizer who holds the Kindred Pact, the tribal songs and the genealogies"

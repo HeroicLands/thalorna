@@ -2,7 +2,7 @@
 shortcode: crtgrphrsgldbyzrnlg
 name:
   full: The Cartographers' Guild of the Bizarian League
-  aliases:
+  en:
     - The Cartographers' Guild of Bizaria
     - The Guild of Maps
     - The Cartographers' Guild

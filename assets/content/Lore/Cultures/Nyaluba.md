@@ -1,12 +1,12 @@
 ---
 shortcode: nyalubaclt
-name: {full: Nyáluba, aliases: []}
+name: {full: Nyáluba}
 type: lore
 subType: culture
 description: "The Nyálubans—their beliefs, their mores, and what they hold a person owes."
 tags: []
 data:
-  language: skill-nyalbnlng
+  lang: nyal
   glossary:
     - name: "Spirit-Speaker"
       definition: "One taken through the ordeal and trained to address and negotiate with the guides for a clan"

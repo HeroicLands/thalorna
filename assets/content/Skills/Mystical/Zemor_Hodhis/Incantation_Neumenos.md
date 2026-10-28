@@ -1,6 +1,6 @@
 ---
 shortcode: neumenos
-name: {full: Incantation Neumenos, aliases: []}
+name: {full: Incantation Neumenos}
 type: skill
 subType: mystical
 tags: [zemor-hodhis, draft]

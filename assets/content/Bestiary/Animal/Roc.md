@@ -1,6 +1,6 @@
 ---
 shortcode: roc
-name: {full: Roc, aliases: []}
+name: {full: Roc}
 type: being
 subType: creature
 description: "A mountain-nesting bird of prey with a hundred-foot wingspan and body weighed in tons, hunting elephant-sized quarry as a living disaster for expeditions."

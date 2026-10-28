@@ -1,6 +1,6 @@
 ---
 shortcode: balvfunad
-name: {full: The Going of the Exile, aliases: [Balv-funád]}
+name: {full: The Going of the Exile, khaz: [balv-funád]}
 type: lore
 subType: literature
 description: "The Khazari exile's lament for Gisvin of Tanv-guráz, keeper of a gate, who carried his hold's stores out to the starving tribe below it and was put out of the rock; framed by the record of his sentence and two endings the holds disagree on."
@@ -10,7 +10,7 @@ data:
   culture: khazariclt
   form: kamg
   subjects: [lore-khazariclt, lore-flkkhazar, lore-longnhrtnc, lore-vardain]
-  language: khazarlng
+  lang: khaz
 ---
 
 **The Going of the Exile** is the song the [[lore-khazariclt|Khazari]] keep for a man put out of the rock, and the one lament of theirs that is never sung below. It is a _kamg_ (lament), in the broken course: a long line answered by a short one that falls away. Its subject is [Gisvin of Tanv-guráz]{.name data-type="being/npc"}, keeper of the gate of [Basur-khunák]{.name data-type="place/settlement"}, a hold of the early centuries that no record outside the holds places, in the age when human tribes mined, herded and farmed for a hold as its subjects. In a hard winter he carried the hold's stores out through his own gate to the tribe below it, against the oath cut in the stone where he had sworn it, and the hold put him out. He does not argue the sentence. The song walks the hold from the slope beneath the gate and names what the sentence took, by count, and then names the tribe's dead, whom no Khazari record names.

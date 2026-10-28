@@ -1,6 +1,6 @@
 ---
 shortcode: eaglengonzisprt
-name: {full: "Eagle Spirit Power", aliases: [Eagle Spirit, Ngonzi Eagle]}
+name: {full: Eagle Spirit Power, en: [Eagle Spirit, Ngonzi Eagle]}
 type: skill
 subType: mystical
 description: "Standing with the eagle-spirit of the Ngonzi—what an allied guide of the Nyáluba Way is met and asked with."

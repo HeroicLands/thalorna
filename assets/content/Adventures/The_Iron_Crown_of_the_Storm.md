@@ -1,6 +1,6 @@
 ---
 shortcode: irncrwnstrm
-name: {full: What Walks Above the Pale Floor, aliases: []}
+name: {full: What Walks Above the Pale Floor}
 type: scenario
 subType: adventure
 description: "Lightning finds a salt-flat tower every night, and its master, said never to have died, is calling the desert's people onto the white."

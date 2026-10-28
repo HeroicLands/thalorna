@@ -1,6 +1,6 @@
 ---
 shortcode: elxsbf
-name: {full: The Pearl Ward, aliases: [Soulbuffer Elixir]}
+name: {full: The Pearl Ward, en: [Soulbuffer Elixir]}
 type: concoctiongear
 subType: elixir
 description: "Pearlescent shimmering draft; absorbs aural shock protecting soul."

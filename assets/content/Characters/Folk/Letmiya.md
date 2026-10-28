@@ -1,6 +1,6 @@
 ---
 shortcode: letmiya2
-name: {full: Letmiya, aliases: []}
+name: {full: Letmiya}
 type: being
 subType: npc
 description: "Head of a major trading concern, whose discretion is worth as much to her clients as her prices"

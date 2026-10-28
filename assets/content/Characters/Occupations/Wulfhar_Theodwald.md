@@ -1,6 +1,6 @@
 ---
 shortcode: wlfhrthdwld
-name: {full: Dorghár yra Theodwald wur Thornhaven, aliases: []}
+name: {full: Dorghár yra Theodwald wur Thornhaven}
 type: being
 subType: npc
 tags: [draft, soldiery]

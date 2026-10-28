@@ -1,6 +1,6 @@
 ---
 shortcode: drift
-name: {full: Drift, aliases: []}
+name: {full: Drift}
 type: mysticalability
 subType: arcaneincantation
 description: "Caster floats weightlessly; moves through air with silent grace."

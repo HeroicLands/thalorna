@@ -1,6 +1,6 @@
 ---
 shortcode: hlvrthline
-name: {full: The Line of the House of Hálvireth, aliases: [Hálvireth's Line]}
+name: {full: The Line of the House of Hálvireth, en: [Hálvireth's Line]}
 type: lore
 subType: literature
 description: "The short line of a lowland house as its bard sings it at the feast where a child is named: every head of the house from the child up to the proof the Colleges made in the year the mountains closed, the join where the names cross into the high tongue, and the Dhárgandi woman the house descends from, whom the Dhárgandi do not sing."
@@ -15,7 +15,7 @@ data:
     - lore-aelendnppl
     - place-elanmere
     - lore-theasking
-  language: elvndrlng
+  lang: elav
 
 # terran_analog: "The Irish and Welsh genealogies recited by a court poet, tracing a lord back through the generations to a founding ancestor, with their known seams where a dynasty is grafted onto an older line; the chained 'son of' formula of the royal lists; the feast at which a claim is renewed before people who could dispute it."
 ---

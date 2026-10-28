@@ -1,6 +1,6 @@
 ---
 shortcode: gargezru
-name: {full: Gar-Gezru, aliases: [The Crimson Syndicate]}
+name: {full: Gar-Gezru, en: [The Crimson Syndicate]}
 type: affiliation
 subType: criminal
 description: "A network of corrupt officials and Shreshthins who have lost a great deal to honest auditing, and who keep a quiet bounty on those who did the auditing"

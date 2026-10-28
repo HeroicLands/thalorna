@@ -1,6 +1,6 @@
 ---
 shortcode: thdrcfrdbn
-name: {full: Theodbán yra Frodbán wur Dunkelwald, aliases: []}
+name: {full: Theodbán yra Frodbán wur Dunkelwald}
 type: being
 subType: npc
 tags: [draft, common-folk]

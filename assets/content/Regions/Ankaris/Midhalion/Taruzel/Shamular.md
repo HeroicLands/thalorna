@@ -1,6 +1,6 @@
 ---
 shortcode: shamular
-name: {full: Shamular, aliases: []}
+name: {full: Shamular}
 type: place
 subType: settlement
 description: "Merchant Town"

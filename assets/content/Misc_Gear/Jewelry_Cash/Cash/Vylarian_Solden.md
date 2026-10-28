@@ -1,6 +1,6 @@
 ---
 shortcode: solden
-name: {full: Vylarian Solden, aliases: ["Solden"]}
+name: {full: Vylarian Solden, vyl: [Solden]}
 type: miscgear
 description: "Imperial gold coin of the Tarmeks Orzan; the largest Vylarian denomination."
 tags: [jewelry_cash]

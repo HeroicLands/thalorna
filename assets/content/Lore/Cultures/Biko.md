@@ -1,12 +1,12 @@
 ---
 shortcode: bikoclt
-name: {full: Biko, aliases: [The Forest Peoples]}
+name: {full: The Forest Peoples, ekpe: [Biko]}
 type: lore
 subType: culture
 description: "The forest peoples of central Zerathia: many small tribes in four loose traditions, one tongue, four standings and nothing above the tribe."
 tags: [draft]
 data:
-  language: skill-ekpelulng
+  lang: ekpe
   appearanceProfile:
     frame: {light: 3, medium: 5, heavy: 2}
     eye_color: {dark_brown: 6, brown: 3, black: 1}

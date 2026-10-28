@@ -1,6 +1,6 @@
 ---
 shortcode: zeghetzulun
-name: {full: Zeghet'Zulun, aliases: [The Bloodlust Cult]}
+name: {full: Zeghet'Zulun, en: [The Bloodlust Cult]}
 type: affiliation
 subType: criminal
 description: "A secret society that takes exotic beasts and forces them to fight for spectacle"

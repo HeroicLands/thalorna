@@ -1,6 +1,6 @@
 ---
 shortcode: gewaatis
-name: {full: Faith of Gewa'atis, aliases: [The Guiding Falcon]}
+name: {full: Faith of Gewa'atis, en: [The Guiding Falcon]}
 type: affiliation
 subType: faithtradition
 description: "Voyages."

@@ -1,6 +1,6 @@
 ---
 shortcode: meshlen
-name: {full: Meshlen, aliases: []}
+name: {full: Meshlen}
 type: being
 subType: npc
 description: "An ambitious young craftsperson claiming a master's craft as her inheritance, having learned it from a source she will not name"

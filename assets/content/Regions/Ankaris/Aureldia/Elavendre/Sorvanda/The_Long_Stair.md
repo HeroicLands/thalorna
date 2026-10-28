@@ -1,6 +1,6 @@
 ---
 shortcode: longstair
-name: {full: The Long Stair, aliases: [Sálenda's Stair]}
+name: {full: The Long Stair, en: [Sálenda's Stair]}
 type: place
 subType: feature
 description: "Seven falls in a stepped gorge of the Drenavar Spine, seat of the river-mother Sálenda—where the offering is made at first light in silence, and where nobody climbs by daylight."

@@ -1,6 +1,6 @@
 ---
 shortcode: krmdnsbrkrtys
-name: {full: Koremdanis Barkratis, given: Koremdanis, clan: Barkratis, aliases: []}
+name: {full: Koremdanis Barkratis, given: Koremdanis, clan: Barkratis}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]

@@ -1,6 +1,6 @@
 ---
 shortcode: ashanpnthn
-name: {full: Ashaian Pantheon, aliases: [The Twelve of the Flame]}
+name: {full: The Twelve of the Flame, dunh: [ashaian pantheon]}
 type: affiliation
 subType: faithtradition
 description: "Desert faith centered on cosmic struggle between truth and falsehood, fire as purification, and the threefold path of good thoughts, good words, good deeds."

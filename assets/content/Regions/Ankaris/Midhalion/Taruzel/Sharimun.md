@@ -1,6 +1,6 @@
 ---
 shortcode: sharimun
-name: {full: Sharimun, aliases: []}
+name: {full: Sharimun}
 type: place
 subType: settlement
 description: "Port Town"

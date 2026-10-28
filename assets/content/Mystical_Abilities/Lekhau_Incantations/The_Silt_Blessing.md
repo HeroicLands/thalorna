@@ -1,6 +1,6 @@
 ---
 shortcode: siltblessing
-name: {full: The Silt Blessing, aliases: []}
+name: {full: The Silt Blessing}
 type: mysticalability
 subType: arcaneincantation
 description: "Enriches a worked field so that it bears as though newly flooded."

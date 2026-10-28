@@ -1,6 +1,6 @@
 ---
 shortcode: rethutrthllr
-name: {full: Rethute Reth'el'Leru, given: Rethute, clan: Reth'el'Leru, aliases: []}
+name: {full: Rethute Reth'el'Leru, given: Rethute, clan: Reth'el'Leru}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]

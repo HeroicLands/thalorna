@@ -1,6 +1,6 @@
 ---
 shortcode: zuwu
-name: {full: Zuwu, aliases: [Blue Hall]}
+name: {full: Blue Hall, jurt: [Zuwu]}
 type: place
 subType: settlement
 description: "The castle town of House Wejai in the one sheltered bay of the typhoon coast—a whaling quay, a granary and a hall, seat of the independent lord Wejai Rowo."

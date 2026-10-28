@@ -1,6 +1,6 @@
 ---
 shortcode: sorimarronet
-name: {full: Sorimar Ronethen, aliases: [Guild Master Sorimar Ronethen]}
+name: {full: Sorimar Ronethen, en: [Guild Master Sorimar Ronethen]}
 type: being
 subType: npc
 description: The head of the Woodworkers' Guild, who has kept Bránakis Kaseranis's membership despite pressure from younger members.

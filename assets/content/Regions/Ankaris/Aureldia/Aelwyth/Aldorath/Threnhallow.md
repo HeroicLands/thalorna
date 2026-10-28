@@ -1,6 +1,6 @@
 ---
 shortcode: threnhallow
-name: {full: Threnhallow, aliases: []}
+name: {full: Threnhallow}
 type: place
 subType: site
 description: "A house of the Silent Judge on a mound at the seaward edge of the Greylevels, built to give the drowned of the Levels their rites, whose bell rings beneath the tide and whose dead keep the house."

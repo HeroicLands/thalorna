@@ -606,7 +606,7 @@ function asList(value) {
  * write.
  *
  * **Less whatever any row's `newName` or `newAliases` holds, including `oldName`.**
- * `oldAliases` begins as a copy of the note's own aliases and grows as synonyms
+ * `oldAliases` begins as a copy of the note's own other names and grows as synonyms
  * are found, so it carries the live ones beside the retired ones; `newAliases`
  * is where a live alias stands now. A form in either old field that any row's
  * current name or aliases also hold is still in use, and sweeping it reports it in

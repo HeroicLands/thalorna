@@ -1,6 +1,6 @@
 ---
 shortcode: anlaghura
-name: {full: Anlaghura, aliases: [The Obelisk of Anlaghura]}
+name: {full: Anlaghura, en: [The Obelisk of Anlaghura]}
 type: place
 subType: site
 description: "An ancient monolith standing alone in the Targa River Valley, carrying a prophecy in runes older than the empire's reading of them"

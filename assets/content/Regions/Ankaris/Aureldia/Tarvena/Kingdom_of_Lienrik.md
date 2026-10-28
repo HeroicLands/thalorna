@@ -1,6 +1,6 @@
 ---
 shortcode: kingdmlnrk
-name: {full: Kingdom of Lienrik, aliases: []}
+name: {full: Kingdom of Lienrik}
 type: affiliation
 subType: polity
 description: "Largest and most fertile of Tarvénia's three kingdoms in the central-southern lowlands—wealthy, populous, and politically ambitious, with the richest farmland in the realm."

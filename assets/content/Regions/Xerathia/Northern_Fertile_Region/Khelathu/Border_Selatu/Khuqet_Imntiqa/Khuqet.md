@@ -1,6 +1,6 @@
 ---
 shortcode: khuqet
-name: {full: Khuqet, aliases: []}
+name: {full: Khuqet}
 type: place
 subType: settlement
 description: "Selat capital of Khuqet-Imntiqa."

@@ -1,6 +1,6 @@
 ---
 shortcode: thaluraiqelr
-name: {full: Thalura Iqe'Leru, given: Thalura, clan: Iqe'Leru, aliases: []}
+name: {full: Thalura Iqe'Leru, given: Thalura, clan: Iqe'Leru}
 type: being
 subType: character
 tags: [heroes-and-knaves, clergy]

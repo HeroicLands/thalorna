@@ -1,6 +1,6 @@
 ---
 shortcode: vylarirpbl
-name: {full: The Establishment of the Vylarian Republic, aliases: [The Overthrow of the Last King]}
+name: {full: The Establishment of the Vylarian Republic, en: [The Overthrow of the Last King]}
 type: lore
 subType: history
 description: "Around 650 BF patrician families overthrow the last Vylarian king and establish the Republic, which grows from a regional city-state into the dominant power of the Vylarian Sea."

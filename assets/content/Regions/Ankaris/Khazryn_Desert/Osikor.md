@@ -1,6 +1,6 @@
 ---
 shortcode: osikor
-name: {full: Oshiqor, aliases: [The Sunken Kings' Steps]}
+name: {full: Oshiqor, en: [The Sunken Kings' Steps]}
 type: place
 subType: site
 description: "Rock-cut tombs in the ravines of the Diqraqor, the Basin Builders' highland burial ground, reached by stairs that descend into the cliff and forbidden to the Atarzád."

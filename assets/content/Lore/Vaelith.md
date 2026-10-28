@@ -1,6 +1,6 @@
 ---
 shortcode: vaelith
-name: {full: Vaelith, aliases: []}
+name: {full: Vaelith}
 type: place
 subType: world
 description: "Thalorna's one moon: a large body on a circular, inclined orbit, new on the first day of spring in the year 720, with a thirty-day cycle every calendar on the world can be read against."

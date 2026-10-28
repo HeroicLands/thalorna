@@ -1,6 +1,6 @@
 ---
 shortcode: aralwen
-name: {full: Aralwen, aliases: [The Aralwain, Thin Places]}
+name: {full: Aralwen, en: [The Aralwain, Thin Places]}
 type: lore
 subType: arcana
 description: "The thin places of Élavendre, where the material world and the spirit world lie close enough to cross—and the arálwen-waters, rivers that run partly in each."

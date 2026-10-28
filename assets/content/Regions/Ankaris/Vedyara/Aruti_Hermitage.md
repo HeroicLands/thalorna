@@ -1,6 +1,6 @@
 ---
 shortcode: suvhermitage
-name: {full: Aruti's Hermitage, aliases: []}
+name: {full: Aruti's Hermitage}
 type: place
 subType: structure
 description: "The hermitage high on the gold mountain where a holy woman of indeterminate age receives the few who know to come to her."

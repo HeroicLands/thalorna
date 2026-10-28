@@ -1,6 +1,6 @@
 ---
 shortcode: firewall
-name: {full: Firewall, aliases: []}
+name: {full: Firewall}
 type: mysticalability
 subType: arcaneincantation
 description: "Erupts continuous wall of flame; blocks passage and sears crossing."

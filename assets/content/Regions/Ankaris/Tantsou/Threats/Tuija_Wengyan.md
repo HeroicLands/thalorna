@@ -1,6 +1,6 @@
 ---
 shortcode: tuijawengyan
-name: {full: Tuija Wengyan, aliases: [Iron Spear Piercing the Clouds]}
+name: {full: Tuija Wengyan, en: [Iron Spear Piercing the Clouds]}
 type: being
 subType: npc
 description: >-

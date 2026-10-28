@@ -1,6 +1,6 @@
 ---
 shortcode: vruldorvthec
-name: {full: Vruldorv the Cruel, aliases: [Jarl Vruldorv the Cruel, Jarl Vruldorv]}
+name: {full: Vruldorv the Cruel, en: [Jarl Vruldorv the Cruel, Jarl Vruldorv]}
 type: being
 subType: npc
 description: A tyrant who views Krildthann Shieldbearer's protection of the weak as an implicit challenge to his authority.

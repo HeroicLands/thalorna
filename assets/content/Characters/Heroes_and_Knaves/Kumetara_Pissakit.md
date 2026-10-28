@@ -1,6 +1,6 @@
 ---
 shortcode: kmthrpsskt
-name: {full: Kumetara Pissakit, given: Kumetara, clan: Pissakit, aliases: []}
+name: {full: Kumetara Pissakit, given: Kumetara, clan: Pissakit}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]

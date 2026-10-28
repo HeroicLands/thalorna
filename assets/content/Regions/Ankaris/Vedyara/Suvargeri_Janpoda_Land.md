@@ -1,6 +1,6 @@
 ---
 shortcode: suvargerijnpd
-name: {full: Suvargeri Janpoda, aliases: []}
+name: {full: Suvargeri Janpoda}
 type: place
 subType: region
 description: "The land of the Suvargeri Janpoda—villages in a wedge of upland at the Bharava headwaters, ringing the gold-bearing mountain whose streams are panned for alluvial gold."

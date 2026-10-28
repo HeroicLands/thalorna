@@ -1,6 +1,6 @@
 ---
 shortcode: vrithorvtheu
-name: {full: Vrithorv the Unyielding, aliases: [Jarl Vrithorv the Unyielding, Jarl Vrithorv]}
+name: {full: Vrithorv the Unyielding, en: [Jarl Vrithorv the Unyielding, Jarl Vrithorv]}
 type: being
 subType: npc
 description: A provincial ruler who views Knilthann Skraldumak as the keeper of his family's honor.

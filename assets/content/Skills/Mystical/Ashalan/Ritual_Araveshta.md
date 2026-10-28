@@ -1,6 +1,6 @@
 ---
 shortcode: aravesta
-name: {full: "Ritual: Aravesta", aliases: [The Golden Giver]}
+name: {full: "Ritual: Aravesta", en: [The Golden Giver]}
 type: skill
 subType: mystical
 tags: [ashalan, faith-skill, draft]

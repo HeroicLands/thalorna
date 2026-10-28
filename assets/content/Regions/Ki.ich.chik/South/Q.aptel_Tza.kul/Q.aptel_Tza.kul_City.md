@@ -1,6 +1,6 @@
 ---
 shortcode: qapteltzakl2
-name: {full: Q'aptel Tsa'kul, aliases: []}
+name: {full: Q'aptel Tsa'kul}
 type: place
 subType: settlement
 description: "Seat of the Boundary Place, a fortress-temple that sells guides, provisions and blessings to those about to cross into the wastes."

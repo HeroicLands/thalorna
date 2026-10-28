@@ -1,6 +1,6 @@
 ---
 shortcode: vthgdhstry
-name: {full: Histories and Legends of Vithgard, aliases: []}
+name: {full: Histories and Legends of Vithgard}
 type: lore
 subType: history
 description: "The Askholm judgment and empty Isdal, with Vithgard's winter tales of the fell and the dead."

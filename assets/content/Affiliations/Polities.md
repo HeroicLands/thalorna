@@ -1,6 +1,6 @@
 ---
 shortcode: polities
-name: {full: Polities, aliases: []}
+name: {full: Polities}
 type: doc
 subType: reference
 description: States, kingdoms, empires, and other political bodies.

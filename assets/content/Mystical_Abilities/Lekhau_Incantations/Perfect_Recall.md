@@ -1,6 +1,6 @@
 ---
 shortcode: perfectrecll
-name: {full: Perfect Recall, aliases: []}
+name: {full: Perfect Recall}
 type: mysticalability
 subType: arcaneincantation
 description: "Fixes a thing seen, heard or read so that it can be recovered exactly."

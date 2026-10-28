@@ -1,6 +1,6 @@
 ---
 shortcode: viper
-name: {full: Viper, aliases: []}
+name: {full: Viper}
 type: being
 subType: creature
 description: "A venomous ambush serpent, gram-for-gram among the deadliest creatures, killing prey larger than itself with precise, potent strikes."

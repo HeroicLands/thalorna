@@ -1,6 +1,6 @@
 ---
 shortcode: chendrapurland
-name: {full: Chendrapur Land, aliases: []}
+name: {full: Chendrapur Land}
 type: place
 subType: region
 description: "The land of the city-state of Chendrapur—the lower Chandramahi and its delta, the gem-road up the valley behind it, and the roadstead at the river mouth where the galleys lie."

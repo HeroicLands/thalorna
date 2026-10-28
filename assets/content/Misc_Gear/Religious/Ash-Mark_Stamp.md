@@ -1,6 +1,6 @@
 ---
 shortcode: ashmarkstamp
-name: {full: Ash-Mark Stamp, aliases: []}
+name: {full: Ash-Mark Stamp}
 type: miscgear
 description: "A small stamp for tracing Rasikara's ash-mark on the brow before razing a condemned house, felling a diseased tree, or cutting a blighted harvest."
 tags: []

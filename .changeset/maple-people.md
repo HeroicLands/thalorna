@@ -2,4 +2,15 @@
 "thalorna": patch
 ---
 
-The longhouse nations of the northeastern lakes are now the Maple People, the Osetakona in their own tongue: a culture with its founding at a sugar camp, its heroes, the island nation it broke, and the clan mothers who name its speakers; the Feast of Bones that frees a village's dead when it moves; the Kettle where the great council sits; and the Osetakona Language with its own words and names.
+**Peoples and cultures**
+
+- The longhouse nations of the northeastern lakes are the Maple People, the Osetakona in their own tongue, founded at a sugar camp, with their heroes, the island nation they broke, and the clan mothers who name their speakers.
+- The Feast of Bones frees a village's dead when the village moves.
+
+**Places**
+
+- The Kettle, where the great council sits, has its own page.
+
+**Languages and scripts**
+
+- The Osetakona Language has its own words and names.

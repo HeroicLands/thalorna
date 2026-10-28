@@ -1,6 +1,6 @@
 ---
 shortcode: thefounding
-name: {full: The Founding, aliases: [Year One, The Making of the Vylarian Empire]}
+name: {full: The Founding, en: [Year One, The Making of the Vylarian Empire]}
 type: lore
 subType: history
 description: "A Vylarian kurthos backed by loyal legions and the newly chartered Arcane Order seizes supreme power and declares himself Emperor—Year 1 of the calendar most of western Ankaris still counts by."

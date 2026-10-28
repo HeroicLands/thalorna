@@ -1,6 +1,6 @@
 ---
 shortcode: hrksbrmztr
-name: {full: Harekos Baremzator, aliases: []}
+name: {full: Harekos Baremzator}
 type: being
 subType: npc
 tags: [draft, common-folk]

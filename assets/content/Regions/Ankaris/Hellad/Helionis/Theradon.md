@@ -1,6 +1,6 @@
 ---
 shortcode: theradon
-name: {full: Theradon, aliases: []}
+name: {full: Theradon}
 type: affiliation
 subType: polity
 description: "Inland Helionite city-state of terraced marble colonnades—oligarchic philosopher-republic and seat of a Epistémion chapterhouse, whose libraries hold some of the oldest texts in western Ankaris and whose citizens consider themselves uniquely qualified to instruct everyone else."

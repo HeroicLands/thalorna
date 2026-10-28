@@ -1,6 +1,6 @@
 ---
 shortcode: hawu
-name: {full: Hawu, aliases: [Dark Hall]}
+name: {full: Dark Hall, jurt: [Hawu]}
 type: place
 subType: settlement
 description: "The castle town of House Shuiwojai on the strait coast of Rojai—a harbor, a granary and a hall, seat of the lord who wants the office of Teng Ja."

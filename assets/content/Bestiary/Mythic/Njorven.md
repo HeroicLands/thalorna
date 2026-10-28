@@ -1,6 +1,6 @@
 ---
 shortcode: njorven
-name: {full: Njorven, aliases: [The Sea Wraith]}
+name: {full: Njorven, en: [The Sea Wraith]}
 type: being
 subType: creature
 description: "The Sea Wraith of the Nordlands—long ago overthrown by Thrunvald, slowly waking beneath the northern seas, venerated by a cult that means to see it free, and the thing the Ritual of Binding exists to seal away."

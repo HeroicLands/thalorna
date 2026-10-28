@@ -1,6 +1,6 @@
 ---
 shortcode: maulgashng
-name: {full: Maul of Gashang, aliases: []}
+name: {full: Maul of Gashang}
 type: scenario
 subType: adventure
 tags: [draft]

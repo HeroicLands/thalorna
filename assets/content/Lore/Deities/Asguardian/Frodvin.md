@@ -1,6 +1,6 @@
 ---
 shortcode: frodvindty
-name: {full: Frodvin, aliases: []}
+name: {full: Frodvin}
 type: lore
 subType: deity
 description: "The Healer of the Asguardian gods—fertility, the harvest, peace, and the mending of the body."

@@ -1,6 +1,6 @@
 ---
 shortcode: akhrethuazar
-name: {full: Akhrethu Azari, aliases: []}
+name: {full: Akhrethu Azari}
 type: being
 subType: npc
 description: "A hunter of the Zeghet'Nelgu, skilled and a little too sure of it"

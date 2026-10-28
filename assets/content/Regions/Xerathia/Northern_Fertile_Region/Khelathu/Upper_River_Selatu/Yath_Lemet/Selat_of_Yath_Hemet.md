@@ -1,6 +1,6 @@
 ---
 shortcode: selatyathlmt
-name: {full: The Selat of Yath-Lemet, aliases: []}
+name: {full: The Selat of Yath-Lemet}
 type: affiliation
 subType: polity
 description: "The smallest upper selat; a narrow gorge-stretch where the valley pinches to almost nothing—one of the upper-river selatu of Au'Khelathu."

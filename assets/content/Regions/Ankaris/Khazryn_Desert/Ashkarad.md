@@ -1,6 +1,6 @@
 ---
 shortcode: ashkarad
-name: {full: Ashkarad, aliases: []}
+name: {full: Ashkarad}
 type: place
 subType: settlement
 description: "The craft city of Tellumel, second of the seven Tellumi cities, where master-craftsmen's councils rule the workshops and the Teghumod tribe holds the walls and the roads south."

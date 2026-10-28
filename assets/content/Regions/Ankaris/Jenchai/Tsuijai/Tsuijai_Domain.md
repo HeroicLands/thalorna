@@ -1,6 +1,6 @@
 ---
 shortcode: tsuijaidmn
-name: {full: Tsuijai Domain, aliases: [House Tsuijai]}
+name: {full: Tsuijai Domain, en: [House Tsuijai]}
 type: affiliation
 subType: polity
 description: "The domain of House Tsuijai—Tsuijai, the iron mountain of the north-west uplands, its mines and the forge-village whose smiths make the blades of the Nine, held from Tsuiwu by an independent lord."

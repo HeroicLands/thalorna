@@ -1,6 +1,6 @@
 ---
 shortcode: haliranrdh
-name: {full: Hálira Nareth, aliases: []}
+name: {full: Hálira Nareth}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

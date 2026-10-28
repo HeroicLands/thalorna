@@ -1,6 +1,6 @@
 ---
 shortcode: madustan
-name: {full: Madustan, aliases: [The Capital of the Philosopher-Kings]}
+name: {full: The Capital of the Philosopher-Kings, vedy: [madustan]}
 type: place
 subType: site
 description: "The capital of the philosopher-kings, roofless and unquarried on open pasture in the middle of the plateau—the place a civilization counts its years from and almost nobody has seen."

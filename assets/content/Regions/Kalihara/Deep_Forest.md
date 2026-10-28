@@ -1,6 +1,6 @@
 ---
 shortcode: klhrdpfrst
-name: {full: The Deep Forest, aliases: [Kuathivoel]}
+name: {full: The Deep Forest, kali: [Kuathivoel]}
 type: place
 subType: feature
 description: "The unbroken forest that covers the western and northern Bowl of Kalihara from the lakeshore to the inner face of the Ring, held by the forest lineages, who hunt it."

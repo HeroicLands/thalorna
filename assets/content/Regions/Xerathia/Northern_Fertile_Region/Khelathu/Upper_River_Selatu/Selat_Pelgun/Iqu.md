@@ -1,6 +1,6 @@
 ---
 shortcode: iqu
-name: {full: Iku, aliases: []}
+name: {full: Iku}
 type: place
 subType: settlement
 description: "Selat capital of Selat-Pelgun."

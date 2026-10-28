@@ -1,6 +1,6 @@
 ---
 shortcode: hntngdg
-name: {full: Hunting Dog, aliases: []}
+name: {full: Hunting Dog}
 type: being
 subType: creature
 description: "A medium-sized, powerfully built canine bred to track and bring down prey, combining lean endurance with intelligence honed by generations of training."

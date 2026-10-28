@@ -1,6 +1,6 @@
 ---
 shortcode: horsettm
-name: {full: Horse, aliases: [Horse Totem]}
+name: {full: Horse, en: [Horse Totem]}
 type: lore
 subType: bestiary
 description: "The horse as a totemic ideal, and the human character it describes."

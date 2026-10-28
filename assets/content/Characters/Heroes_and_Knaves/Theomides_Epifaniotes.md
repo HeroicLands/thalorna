@@ -1,6 +1,6 @@
 ---
 shortcode: thmdspfnts
-name: {full: Vusukes Govabes, given: Vusukes, clan: Govabes, aliases: []}
+name: {full: Vusukes Govabes, given: Vusukes, clan: Govabes}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]

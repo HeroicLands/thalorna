@@ -1,6 +1,6 @@
 ---
 shortcode: hrndtd
-name: {full: Horned Toad, aliases: []}
+name: {full: Horned Toad}
 type: being
 subType: creature
 description: "A four-foot desert reptile armored in jagged bony plates, its sand-colored, warty hide letting it vanish against rocky badlands terrain."

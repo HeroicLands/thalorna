@@ -1,6 +1,6 @@
 ---
 shortcode: akhcountmon
-name: {full: The Count of Months, aliases: []}
+name: {full: The Count of Months}
 type: lore
 subType: history
 description: "1990 ST (121 BF) to 2281 ST (171 AF): the age of the clerks, in which the king-list begins to give a reign's months, the bureaus' alphabet is reduced from the sacred hand, and the bureaus of Galezkara take the shape they keep."

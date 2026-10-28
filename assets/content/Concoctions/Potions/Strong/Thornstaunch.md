@@ -1,6 +1,6 @@
 ---
 shortcode: ptncoags
-name: {full: Thornstaunch, aliases: ["Potion, Coagulant, Strong"]}
+name: {full: Thornstaunch, en: ["Potion, Coagulant, Strong"]}
 type: concoctiongear
 subType: exotic
 description: "Deep maroon almost-black coagulant; stops bleeding effectively."

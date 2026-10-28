@@ -1,6 +1,6 @@
 ---
 shortcode: garshebazet
-name: {full: Gar-Shebazet, aliases: []}
+name: {full: Gar-Shebazet}
 type: place
 subType: settlement
 description: "Selat capital of Gar-Shebazet."

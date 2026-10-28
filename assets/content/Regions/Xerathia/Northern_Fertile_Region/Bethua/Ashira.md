@@ -1,6 +1,6 @@
 ---
 shortcode: ashira
-name: {full: Oshira, aliases: []}
+name: {full: Oshira}
 type: place
 subType: settlement
 description: "Town"

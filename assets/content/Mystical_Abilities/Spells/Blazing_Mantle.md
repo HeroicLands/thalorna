@@ -1,6 +1,6 @@
 ---
 shortcode: blzgmntl
-name: {full: Blazing Mantle, aliases: []}
+name: {full: Blazing Mantle}
 type: mysticalability
 subType: arcaneincantation
 description: "Surrounds caster in white-hot flame; scorches those who touch."

@@ -1,6 +1,6 @@
 ---
 shortcode: vethwald
-name: {full: Vethwald, aliases: [Deepwood]}
+name: {full: Vethwald, en: [Deepwood]}
 type: place
 subType: feature
 description: The ancient, densely canopied Deepwood within Vristwald's mixed-forest interior.

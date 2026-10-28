@@ -1,6 +1,6 @@
 ---
 shortcode: fright
-name: {full: Fright, aliases: []}
+name: {full: Fright}
 type: mysticalability
 subType: arcaneincantation
 description: "Target becomes paralyzed with terror; freezes unable to move."

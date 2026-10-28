@@ -1,6 +1,6 @@
 ---
 shortcode: razasharperu
-name: {full: Razashar Perudan, aliases: [Captain Razashar]}
+name: {full: Razashar Perudan, en: [Captain Razashar]}
 type: being
 subType: npc
 description: A younger officer who is secretly working with a tribal elder to document the decisions of Delanash Ferudan for political criticism.

@@ -1,6 +1,6 @@
 ---
 shortcode: arcshld
-name: {full: Arcane Shield, aliases: []}
+name: {full: Arcane Shield}
 type: mysticalability
 subType: arcaneincantation
 description: "Translucent disc of force deflects blows and scatters hostile magic."

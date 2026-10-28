@@ -1,6 +1,6 @@
 ---
 shortcode: marvorv
-name: {full: Marvorv, aliases: [Lord Marvorv]}
+name: {full: Marvorv, en: [Lord Marvorv]}
 type: being
 subType: npc
 description: A nobleman whose agent attempted to purchase Thilmselda Drekanótt's inn by any means necessary.

@@ -1,6 +1,6 @@
 ---
 shortcode: caldar
-name: {full: Kaldar, aliases: []}
+name: {full: Kaldar}
 type: place
 subType: settlement
 description: "A university city of Tellumel, founded after the seven Tellumi cities and not counted among them, held by the Atarzád and known for the alchemical faculty of the University of Kaldar."

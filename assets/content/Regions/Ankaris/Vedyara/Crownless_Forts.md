@@ -1,6 +1,6 @@
 ---
 shortcode: crownlessfts
-name: {full: The Crownless Forts, aliases: []}
+name: {full: The Crownless Forts}
 type: place
 subType: site
 description: "Roofless hill forts above the upper Sarveda, the Bharava and the upper Mahanodi, left by the kingdoms of the Hundred Crowns and the mountain dynasties whose names change; the janpodas below wall up their gates so nothing lairs in them."

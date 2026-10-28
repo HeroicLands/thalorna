@@ -1,6 +1,6 @@
 ---
 shortcode: stormhandfld
-name: {full: The Stormhand's Field, aliases: [The Breaking of the Stormhand Brotherhood]}
+name: {full: The Stormhand's Field, en: [The Breaking of the Stormhand Brotherhood]}
 type: lore
 subType: history
 description: "About 692 AF the Stormhand Brotherhood, six hundred Nordmal swords on a Nordheim jarl's contract, crossed the Falkenstein frontier to take the hill and its crossing; the western villages' muster met it a week's march into the forest, broke it, ransomed its survivors and let them carry their dead home."

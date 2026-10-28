@@ -1,6 +1,6 @@
 ---
 shortcode: fawo
-name: {full: "Ritual: Fawo", aliases: [Fawo, The Minister of Material Fortune]}
+name: {full: "Ritual: Fawo", en: [The Minister of Material Fortune], tant: [Fawo]}
 type: skill
 subType: mystical
 tags: [tengwou, faith-skill, draft]

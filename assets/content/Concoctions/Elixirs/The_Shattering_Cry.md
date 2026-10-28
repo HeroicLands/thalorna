@@ -1,6 +1,6 @@
 ---
 shortcode: elxsht
-name: {full: The Shattering Cry, aliases: [Shout Elixir]}
+name: {full: The Shattering Cry, en: [Shout Elixir]}
 type: concoctiongear
 subType: elixir
 description: "Golden vibrant elixir; amplifies speech to devastating sonic power."

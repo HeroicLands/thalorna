@@ -1,6 +1,6 @@
 ---
 shortcode: suvrgrjnpd
-name: {full: Suvargeri Janpoda, aliases: [The Janpoda of the Gold Mountain]}
+name: {full: The Janpoda of the Gold Mountain, vedy: [suvargeri janpoda]}
 type: affiliation
 subType: polity
 description: The temple-republic of Suvargeri—the villages of the Bharava highlands federated around the gold-bearing mountain whose alluvial wash has funded their three great Mahajaya temples for fifteen centuries. Wealthy by janpoda standards, philosophically restrained about its wealth, and the seat of the most respected metallurgical-and-jewelers' tradition outside Chendrapur.

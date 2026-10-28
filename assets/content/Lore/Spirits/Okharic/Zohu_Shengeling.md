@@ -1,6 +1,6 @@
 ---
 shortcode: shengelspr
-name: {full: Zohu Shéngeling, aliases: [The Spirit of the Blade]}
+name: {full: The Spirit of the Blade, okha: [Zohu Shéngeling]}
 type: lore
 subType: spirit
 description: "Zohira of the blade—seated in the Magara Spirit Blades, which choose their wielders and cut both physical and spiritual foes."

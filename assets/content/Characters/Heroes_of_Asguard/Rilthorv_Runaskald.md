@@ -1,6 +1,6 @@
 ---
 shortcode: rlthrvrnskld
-name: {full: Rilthorv Runaskald, given: Rilthorv, aliases: [Runaskald]}
+name: {full: Rilthorv Runaskald, given: Rilthorv, nord: [runaskald]}
 type: being
 subType: character
 tags: [paragon, heroes-of-asguard, mages]

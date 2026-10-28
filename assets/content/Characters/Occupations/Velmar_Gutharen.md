@@ -1,6 +1,6 @@
 ---
 shortcode: vlmrjthrn
-name: {full: Velmar Gútharen, aliases: []}
+name: {full: Velmar Gútharen}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

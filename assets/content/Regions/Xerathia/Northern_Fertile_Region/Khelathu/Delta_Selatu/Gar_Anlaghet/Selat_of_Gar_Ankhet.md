@@ -1,6 +1,6 @@
 ---
 shortcode: selatgrnlght
-name: {full: The Selat of Gar-Anlaghet, aliases: []}
+name: {full: The Selat of Gar-Anlaghet}
 type: affiliation
 subType: polity
 description: "The chief delta selat of Au'Khelathu—richest and most cosmopolitan province in the empire, built around the great port of Gar-Anlaghet, where the empire's seaborne trade, its Taruzelian factories, and its wealthiest merchant-Halzi'a all meet the water."

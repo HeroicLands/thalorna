@@ -1,6 +1,6 @@
 ---
 shortcode: ptnaromg
-name: {full: Rose of the Empyrean, aliases: ["Potion, Aromatic, Great"]}
+name: {full: Rose of the Empyrean, en: ["Potion, Aromatic, Great"]}
 type: concoctiongear
 subType: exotic
 description: "Translucent luminous perfume; grants beauty and supernatural charisma."

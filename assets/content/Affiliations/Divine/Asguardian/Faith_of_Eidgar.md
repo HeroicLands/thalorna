@@ -1,6 +1,6 @@
 ---
 shortcode: eidgar
-name: {full: Faith of Eidgar, aliases: [The Just Path]}
+name: {full: Faith of Eidgar, en: [The Just Path]}
 type: affiliation
 subType: faithtradition
 description: "Justice and Honorable Combat."

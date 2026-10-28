@@ -1,6 +1,6 @@
 ---
 shortcode: frstdrk
-name: {full: Forest Drake, aliases: []}
+name: {full: Forest Drake}
 type: being
 subType: creature
 description: "A small, intelligent semi-arboreal drake ruling the forest canopy, solitary and fiercely territorial despite its modest draconic size."

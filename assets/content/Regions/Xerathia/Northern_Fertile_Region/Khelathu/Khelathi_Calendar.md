@@ -1,6 +1,6 @@
 ---
 shortcode: khelathclndr
-name: {full: The Khelathi Calendar, aliases: []}
+name: {full: The Khelathi Calendar}
 type: lore
 subType: calendar
 description: "The Khelathi calendar: three four-month seasons tracking the river's flood, planting and harvest, with five days added at the year's end to keep the count whole."

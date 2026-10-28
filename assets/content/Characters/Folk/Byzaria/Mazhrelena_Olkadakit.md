@@ -1,6 +1,6 @@
 ---
 shortcode: mazhrelenaol
-name: {full: Mazhrelena Olkadakit, aliases: [Lady Merchant Mazhrelena Olkadakit]}
+name: {full: Mazhrelena Olkadakit, en: [Lady Merchant Mazhrelena Olkadakit]}
 type: being
 subType: npc
 description: A wealthy merchant widow who provides supplies to the garrison, named in Árshazur Gavios.

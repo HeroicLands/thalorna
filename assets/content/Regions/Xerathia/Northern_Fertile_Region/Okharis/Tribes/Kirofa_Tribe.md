@@ -1,6 +1,6 @@
 ---
 shortcode: kirofatrb
-name: {full: Kirofa Tribe, aliases: []}
+name: {full: Kirofa Tribe}
 type: affiliation
 subType: polity
 description: A river tribe of the Okharis that tends date palms and fig orchards along the banks.

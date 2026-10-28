@@ -1,6 +1,6 @@
 ---
 shortcode: qeltlenlegirnome
-name: {full: Qelt-Len-Legir, aliases: []}
+name: {full: Qelt-Len-Legir}
 type: place
 subType: region
 description: "Forward southern forts beyond the first cataract; the empire's hardest postings—the land of the Selat of Qelt-Len-Legir, one of the border selatu of Au'Khelathu."

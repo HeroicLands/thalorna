@@ -1,6 +1,6 @@
 ---
 shortcode: ravenshold
-name: {full: Ravenshold, aliases: []}
+name: {full: Ravenshold}
 type: place
 subType: region
 description: "The dukedom of a powerful Provenzian noble who keeps a discreet, four-year arrangement with the courtesan Kelena Estilgon."

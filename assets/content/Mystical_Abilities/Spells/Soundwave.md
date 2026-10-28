@@ -1,6 +1,6 @@
 ---
 shortcode: sndwv
-name: {full: Soundwave, aliases: [Aural Blast]}
+name: {full: Soundwave, en: [Aural Blast]}
 type: mysticalability
 subType: arcaneincantation
 description: "Projects sound as force; creates shockwave from noise."

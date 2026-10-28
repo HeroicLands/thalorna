@@ -1,6 +1,6 @@
 ---
 shortcode: wanduo
-name: {full: Wanduo, aliases: []}
+name: {full: Wanduo}
 type: lore
 subType: law
 description: "The second caste of Tantsou—sorcerers claimed from every caste at the age of ten, the only people in the empire allowed to work magic, ranked above generals and owned by the Zhazho."

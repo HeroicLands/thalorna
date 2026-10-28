@@ -1,6 +1,6 @@
 ---
 shortcode: selatnlghztn
-name: {full: The Selat of Anlagh-Zetun, aliases: []}
+name: {full: The Selat of Anlagh-Zetun}
 type: affiliation
 subType: polity
 description: "The great granary selat of the Au'Khelathu upper river—the empire's fullest storehouse, where the broadest flood-silt wheatlands, the deepest granaries, and the river-port of Amqelu-Legez together make this the breadbasket that feeds the capital and the army."

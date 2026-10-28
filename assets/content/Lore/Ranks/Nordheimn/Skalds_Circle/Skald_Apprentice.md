@@ -1,6 +1,6 @@
 ---
 shortcode: skaldapprntrnk
-name: {full: "Geldrir", aliases: []}
+name: {full: Geldrir}
 type: lore
 subType: law
 description: "A master's pupil for ten to fifteen years, entitled to present a geldra, in the Skalds' Circle."

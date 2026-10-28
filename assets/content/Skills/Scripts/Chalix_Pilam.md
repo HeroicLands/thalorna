@@ -1,6 +1,6 @@
 ---
 shortcode: chlxplmscrpt
-name: {full: Ch'alish P'ilam Script, aliases: [Ch'alish P'ilam]}
+name: {full: Ch'alish P'ilam Script, kiichek: [Ch'alish P'ilam]}
 type: skill
 subType: script
 description: "Ki'ich'chik writing: a common hand of simple glyphs, from the shaft wall to the scribe's vellum, and a ceremonial hand of pictures on temples and monuments."

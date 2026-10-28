@@ -1,6 +1,6 @@
 ---
 shortcode: duneclaw
-name: {full: Duneclaw, aliases: []}
+name: {full: Duneclaw}
 type: being
 subType: creature
 description: "A massive venomous desert arthropod that rules its dune-fields with crushing force, cunning, and predatory instinct."

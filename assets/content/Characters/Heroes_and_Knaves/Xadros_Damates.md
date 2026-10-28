@@ -1,6 +1,6 @@
 ---
 shortcode: xadrosdmts
-name: {full: Zadros Damates, given: Zadros, clan: Damates, aliases: []}
+name: {full: Zadros Damates, given: Zadros, clan: Damates}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]

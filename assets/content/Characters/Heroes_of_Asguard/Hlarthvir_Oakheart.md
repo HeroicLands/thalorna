@@ -1,6 +1,6 @@
 ---
 shortcode: hlrthvrokhrt
-name: {full: Hlarthvir Oakheart, given: Hlarthvir, aliases: [Oakheart]}
+name: {full: Hlarthvir Oakheart, given: Hlarthvir, en: [Oakheart]}
 type: being
 subType: character
 tags: [demigod, heroes-of-asguard, clergy]

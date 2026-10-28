@@ -1,6 +1,6 @@
 ---
 shortcode: tantsouempr
-name: {full: Empire of Tantsou, aliases: []}
+name: {full: Empire of Tantsou}
 type: affiliation
 subType: polity
 description: The eastern empire of Tantsou—a celestial-bureaucratic, caste-ordered civilization under the Son of Heaven and the Mandate of the Jade Sovereign.

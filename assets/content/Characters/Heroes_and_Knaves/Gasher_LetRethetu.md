@@ -1,6 +1,6 @@
 ---
 shortcode: gasherltrtht
-name: {full: Gasher Let'Rethetu, given: Gasher, clan: Let'Rethetu, aliases: []}
+name: {full: Gasher Let'Rethetu, given: Gasher, clan: Let'Rethetu}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]

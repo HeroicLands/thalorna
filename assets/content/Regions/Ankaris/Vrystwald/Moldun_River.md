@@ -1,6 +1,6 @@
 ---
 shortcode: moldunriver
-name: {full: Moldún River, aliases: []}
+name: {full: Moldún River}
 type: place
 subType: feature
 description: "The river that bounds the Garskald's hunting grounds to the south, where elk cross and a Vylarian logging camp has begun felling sacred trees."

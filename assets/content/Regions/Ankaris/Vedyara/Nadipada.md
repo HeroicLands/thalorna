@@ -1,6 +1,6 @@
 ---
 shortcode: nadipada
-name: {full: Nadipada, aliases: []}
+name: {full: Nadipada}
 type: place
 subType: settlement
 description: "Fishing village on the bank itself, the one Rajapuri settlement the river has moved twice."

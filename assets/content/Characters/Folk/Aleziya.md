@@ -1,6 +1,6 @@
 ---
 shortcode: aleziya2
-name: {full: Agosi, aliases: []}
+name: {full: Agosi}
 type: being
 subType: npc
 description: "A merchant's daughter whose sponsorship launched a performer's career, and who has never entirely let the performer forget it"

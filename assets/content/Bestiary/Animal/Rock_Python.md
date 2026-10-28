@@ -1,6 +1,6 @@
 ---
 shortcode: rckpythn
-name: {full: Rock Python, aliases: []}
+name: {full: Rock Python}
 type: being
 subType: creature
 description: "A massive constrictor serpent up to forty feet long, slow but unstoppable, ambushing prey in deep jungles, rocky highlands, and caves."

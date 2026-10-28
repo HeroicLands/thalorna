@@ -1,6 +1,6 @@
 ---
 shortcode: ixilanchalixdty
-name: {full: Ish'ilan Ch'alish, aliases: []}
+name: {full: Ish'ilan Ch'alish}
 type: lore
 subType: deity
 description: "The Sacred Star of the Itsani pantheon—knowledge, writing, and the calendar, who composed the first codex in the language of the stars."

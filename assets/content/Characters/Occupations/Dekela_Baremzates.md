@@ -1,6 +1,6 @@
 ---
 shortcode: deklbrmzts
-name: {full: Dekela Baremzates, aliases: []}
+name: {full: Dekela Baremzates}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

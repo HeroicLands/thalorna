@@ -1,6 +1,6 @@
 ---
 shortcode: lpdkngcrt
-name: {full: The Leopard King's Court, aliases: [The Spotted Court, The Court of Pelts]}
+name: {full: The Leopard King's Court, en: [The Spotted Court, The Court of Pelts]}
 type: place
 subType: site
 description: "The hidden seat of a forest tribe whose sorcerer-leader is said to take the leopard's shape, and to whom its neighbours bring gifts out of fear."

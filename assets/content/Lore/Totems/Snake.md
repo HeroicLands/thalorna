@@ -1,6 +1,6 @@
 ---
 shortcode: snakettm
-name: {full: Snake, aliases: [Snake Totem]}
+name: {full: Snake, en: [Snake Totem]}
 type: lore
 subType: bestiary
 description: "The snake as a totemic ideal, and the human character it describes."

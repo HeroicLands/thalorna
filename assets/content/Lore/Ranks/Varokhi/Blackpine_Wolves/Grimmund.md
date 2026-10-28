@@ -1,6 +1,6 @@
 ---
 shortcode: grimmundrnk
-name: {full: "Grimmund", aliases: []}
+name: {full: Grimmund}
 type: lore
 subType: law
 description: "One of the six who follow Dagbán yra Vethar wur Thrareth, held by fear of the leader and the absence of better options, in the Blackpine Wolves."

@@ -1,6 +1,6 @@
 ---
 shortcode: klrthdlvnr
-name: {full: Kolrith Delvanor, aliases: []}
+name: {full: Kolrith Delvanor}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

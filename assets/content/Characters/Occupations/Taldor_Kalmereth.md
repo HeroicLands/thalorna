@@ -1,6 +1,6 @@
 ---
 shortcode: tldrklmrth
-name: {full: Taldor Kálmereth, aliases: []}
+name: {full: Taldor Kálmereth}
 type: being
 subType: npc
 tags: [draft, common-folk]

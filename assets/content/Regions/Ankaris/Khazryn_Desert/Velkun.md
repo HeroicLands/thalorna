@@ -1,6 +1,6 @@
 ---
 shortcode: velkunar
-name: {full: Veshkun, aliases: [The Lost Town]}
+name: {full: Veshkun, en: [The Lost Town]}
 type: place
 subType: site
 description: "The old city of Vahurdash, given to the sand by a drought five centuries ago: streets of roofless houses and open cellars under and around the settlement that has been reclaimed among them."

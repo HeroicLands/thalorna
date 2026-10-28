@@ -1,6 +1,6 @@
 ---
 shortcode: avicewnwck
-name: {full: Avis Winwik, aliases: []}
+name: {full: Avis Winwik}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

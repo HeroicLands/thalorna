@@ -1,6 +1,6 @@
 ---
 shortcode: strike
-name: {full: Strike, aliases: []}
+name: {full: Strike}
 type: mysticalability
 subType: arcaneincantation
 description: "Caster's blow lands true; grants power and accuracy."

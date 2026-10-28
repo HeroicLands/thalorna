@@ -1,6 +1,6 @@
 ---
 shortcode: khuqetimntiqnome
-name: {full: Khuqet-Imntiqa, aliases: []}
+name: {full: Khuqet-Imntiqa}
 type: place
 subType: region
 description: "The far western desert march; oasis-forts and the watch over the trade-tracks—the land of the Selat of Khuqet-Imntiqa, one of the border selatu of Au'Khelathu."

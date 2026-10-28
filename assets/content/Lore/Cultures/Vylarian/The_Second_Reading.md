@@ -1,6 +1,6 @@
 ---
 shortcode: secondread
-name: {full: The Second Reading, aliases: [The Ozethos of the Twelfth]}
+name: {full: The Second Reading, en: [The Ozethos of the Twelfth]}
 type: lore
 subType: literature
 description: "The tale the Omelars of the legions tell a newly licensed chaplain on the night of his licensing, set down in the manner of the annals: the signs of the year the regent's council sent the Doreken Hiltheren into the Kervaron, the flame read at the foot of the passes, the second reading ordered and given with one small word added, the Ozethos left behind with the rear cohorts, and the fire he read every evening of the winter."
@@ -17,7 +17,7 @@ data:
     - place-alndntrblnds
     - skill-vylarilng
     - lore-vylarianclt
-  language: vylarilng
+  lang: vyl
 
 # terran_analog: "Livy's annalistic history, with its year-by-year lists of prodigies reported and expiated and its omens disregarded before a disaster; the Roman augurs and the sacred chickens that would not eat before the battle of Drepana, and the consul who drowned them; and Varus's legions lost in the Teutoburg forest, whose eagles were not all recovered."
 ---

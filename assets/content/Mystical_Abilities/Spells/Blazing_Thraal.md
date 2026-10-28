@@ -1,6 +1,6 @@
 ---
 shortcode: blzgthrl
-name: {full: Blazing Thraal, aliases: []}
+name: {full: Blazing Thraal}
 type: mysticalability
 subType: arcaneincantation
 description: "Enslaves target in burning fury; caster commands their actions violently."

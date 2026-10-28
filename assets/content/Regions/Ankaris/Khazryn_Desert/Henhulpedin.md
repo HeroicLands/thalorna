@@ -1,6 +1,6 @@
 ---
 shortcode: henhulpedin
-name: {full: Henhutpedin, aliases: [The Blood-field of the Breaking]}
+name: {full: Henhutpedin, en: [The Blood-field of the Breaking]}
 type: place
 subType: site
 description: "The stretch of horse-pasture beyond Zargandur's northern wall where the war-house's last riders were killed in the second year of the Breaking, about 620 AF: a moderate blood-field of recurrence that brings night terrors and breaks minds, but sends no hunters, and that the Zhoqarod keep for their own use."

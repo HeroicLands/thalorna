@@ -1,6 +1,6 @@
 ---
 shortcode: impact
-name: {full: Impact, aliases: []}
+name: {full: Impact}
 type: mysticalability
 subType: arcaneincantation
 description: "Blazing sphere descending from sky; massive heat and explosion."

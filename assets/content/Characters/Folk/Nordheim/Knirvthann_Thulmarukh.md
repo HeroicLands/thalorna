@@ -1,6 +1,6 @@
 ---
 shortcode: knirvthannth
-name: {full: Knirvthann Thulmaruk, aliases: [Lord Knirvthann Thulmaruk]}
+name: {full: Knirvthann Thulmaruk, en: [Lord Knirvthann Thulmaruk]}
 type: being
 subType: npc
 description: Duke of the Southern Marches, a nobleman whose secret ambitions the jester Anthorv Asgrind publicly mocked.

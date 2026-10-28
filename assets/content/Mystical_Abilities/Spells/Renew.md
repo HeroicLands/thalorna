@@ -1,6 +1,6 @@
 ---
 shortcode: renew
-name: {full: Renew, aliases: []}
+name: {full: Renew}
 type: mysticalability
 subType: arcaneincantation
 description: "Rapid healing of major wounds; restores vitality and function."

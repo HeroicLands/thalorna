@@ -1,6 +1,6 @@
 ---
 shortcode: hiltheristho
-name: {full: Hiltheris Tholmaris, aliases: [Marendos Hiltheris Tholmaris]}
+name: {full: Hiltheris Tholmaris, en: [Marendos Hiltheris Tholmaris]}
 type: being
 subType: npc
 description: A marendos (master) of the Order whose theories Azato Damzanis publicly demolished.

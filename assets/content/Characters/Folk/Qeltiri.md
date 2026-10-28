@@ -1,6 +1,6 @@
 ---
 shortcode: qeltiri
-name: {full: Qeltiri, aliases: []}
+name: {full: Qeltiri}
 type: being
 subType: npc
 description: "A secular courtier who holds influence without holding office, and whose pronouncements serve local interests more often than the goddess's truth"

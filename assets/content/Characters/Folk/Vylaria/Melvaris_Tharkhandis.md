@@ -1,6 +1,6 @@
 ---
 shortcode: melvaristhar
-name: {full: Melvaris Tharkis, aliases: [Marendos Melvaris]}
+name: {full: Melvaris Tharkis, en: [Marendos Melvaris]}
 type: being
 subType: npc
 description: A veteran of the Zulen Pirethos and former Sekran operative who mentors Kalestratos Zarkedis.

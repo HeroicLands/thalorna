@@ -1,6 +1,6 @@
 ---
 shortcode: strkfr
-name: {full: Streakfire, aliases: [Shooting Star]}
+name: {full: Streakfire, en: [Shooting Star]}
 type: mysticalability
 subType: arcaneincantation
 description: "Creates line of flame; projects burning ray through air."

@@ -1,6 +1,6 @@
 ---
 shortcode: highdraw
-name: {full: The Academy of the High Draw, aliases: []}
+name: {full: The Academy of the High Draw}
 type: place
 subType: structure
 description: "The oldest of the four academy halls in the bow-fort, which teaches the great longbow and sends its graduates to the heavy infantry of every Vedyari kingdom."

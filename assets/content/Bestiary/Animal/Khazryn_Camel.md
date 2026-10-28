@@ -1,6 +1,6 @@
 ---
 shortcode: khzrncml
-name: {full: Khazryn Camel, aliases: []}
+name: {full: Khazryn Camel}
 type: being
 subType: creature
 description: "A hardy, two-humped pack animal of remarkable endurance, carrying merchants and soldiers across frozen passes and bitter deserts."

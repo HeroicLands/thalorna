@@ -1,6 +1,6 @@
 ---
 shortcode: passcharter
-name: {full: The Charter of the Pass-Road, aliases: []}
+name: {full: The Charter of the Pass-Road}
 type: lore
 subType: history
 description: "About 60 AF the clans of the northern highlands and the Pass-Shrine line chartered a king, Himabira, to hold the road through Suryadvar; the smithing clans hold that the grant was the road and not the rock, and two centuries later the Priestly Court won its own hall at Suryagarha."

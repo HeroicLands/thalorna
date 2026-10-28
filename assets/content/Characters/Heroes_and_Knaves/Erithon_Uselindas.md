@@ -1,6 +1,6 @@
 ---
 shortcode: erythnslnds
-name: {full: Erithon Uselindas, given: Erithon, clan: Uselindas, aliases: []}
+name: {full: Erithon Uselindas, given: Erithon, clan: Uselindas}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]

@@ -1,6 +1,6 @@
 ---
 shortcode: vrathavan
-name: {full: Vrathavan, aliases: []}
+name: {full: Vrathavan}
 type: place
 subType: settlement
 description: "Fortified Harbor Town"

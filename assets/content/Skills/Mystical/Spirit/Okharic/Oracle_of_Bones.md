@@ -1,6 +1,6 @@
 ---
 shortcode: orclbonessprt
-name: {full: "The Oracle of Bones Spirit Power", aliases: [The Reader in the Yanda Zohiring]}
+name: {full: The Oracle of Bones Spirit Power, en: [The Reader in the Yanda Zohiring]}
 type: skill
 subType: mystical
 description: "Standing with The Oracle of Bones, zohira of death and prophecy—what this emissary of the Flame is petitioned and interceded with."

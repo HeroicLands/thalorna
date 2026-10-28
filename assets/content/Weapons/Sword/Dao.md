@@ -1,6 +1,6 @@
 ---
 shortcode: dao
-name: {full: Dao, aliases: []}
+name: {full: Dao}
 type: weapongear
 description: "Curved single-edged blade gathering momentum through geometry."
 tags: []

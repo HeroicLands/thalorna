@@ -4,7 +4,7 @@ name:
   full: Skathilda yra Frodbán wur Vandgrund
   given: Skathilda
   clan: Frodbán
-  aliases: [the Weasel]
+  en: [the Weasel]
 type: being
 subType: character
 tags: [blackpine-wolves, brigand, vrystwald, underworld]

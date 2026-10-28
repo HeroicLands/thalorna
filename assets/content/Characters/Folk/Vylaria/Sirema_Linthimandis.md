@@ -1,6 +1,6 @@
 ---
 shortcode: siremalinthi
-name: {full: Sirema Linthimis, aliases: [Mother Sirema]}
+name: {full: Sirema Linthimis, en: [Mother Sirema]}
 type: being
 subType: npc
 description: An elderly priestess of Lizelas in the Temple hierarchy who maintains institutional support for Revothar Baremzator.

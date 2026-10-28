@@ -1,6 +1,6 @@
 ---
 shortcode: alfwinstormw
-name: {full: Mildwin Stormwell, aliases: [Ser Mildwin]}
+name: {full: Mildwin Stormwell, en: [Ser Mildwin]}
 type: being
 subType: npc
 description: A younger guard under Thorir Eldskari's command who is diagnosed with a wasting illness.

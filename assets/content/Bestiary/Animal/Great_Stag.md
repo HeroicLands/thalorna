@@ -1,6 +1,6 @@
 ---
 shortcode: grtstg
-name: {full: Great Stag, aliases: []}
+name: {full: Great Stag}
 type: being
 subType: creature
 description: "A regal megafauna deer ruling deep temperate woodlands in herds, a dominant prime male built for unstoppable dominance through raw power."

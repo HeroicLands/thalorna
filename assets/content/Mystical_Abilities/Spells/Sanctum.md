@@ -1,6 +1,6 @@
 ---
 shortcode: sanctum
-name: {full: Sanctum, aliases: []}
+name: {full: Sanctum}
 type: mysticalability
 subType: arcaneincantation
 description: "Creates sacred space; grants sanctuary and refuge from intrusion."

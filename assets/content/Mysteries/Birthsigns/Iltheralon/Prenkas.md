@@ -1,6 +1,6 @@
 ---
 shortcode: kentros
-name: {full: Prenkas, aliases: []}
+name: {full: Prenkas}
 type: mystery
 subType: birthsign
 description: "The Goad: restless of body and drawn to hidden things, with no use for field or forge."

@@ -1,12 +1,12 @@
 ---
 shortcode: sinaleclt
-name: {full: Sinale, aliases: []}
+name: {full: Sinale}
 type: lore
 subType: culture
 description: "The Sinale—their beliefs, their mores, and what they hold a person owes."
 tags: []
 data:
-  language: skill-sinalelng
+  lang: sina
   glossary:
     - {name: "luuro", definition: "Sing", common: true}
     - {name: "nuuva", definition: "Starlight", common: true}

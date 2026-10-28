@@ -1,6 +1,6 @@
 ---
 shortcode: diplos
-name: {full: Tavemas, aliases: []}
+name: {full: Tavemas}
 type: mystery
 subType: birthsign
 description: "The Twins: clever, quick fingers for pen and craft, with no patience for old mysteries."

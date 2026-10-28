@@ -1,6 +1,6 @@
 ---
 shortcode: tzalamne
-name: {full: Ts’alam Ne’, aliases: []}
+name: {full: Ts’alam Ne’}
 type: place
 subType: settlement
 description: "Port City"

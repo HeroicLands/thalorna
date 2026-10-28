@@ -1,6 +1,6 @@
 ---
 shortcode: aldthchltn
-name: {full: Dunith Chilton, aliases: [Shénasene Lysandra Goldleaf]}
+name: {full: Dunith Chilton, aelw: [Shénasene Lysandra Goldleaf]}
 type: being
 subType: npc
 tags: [todo, draft, clergy]

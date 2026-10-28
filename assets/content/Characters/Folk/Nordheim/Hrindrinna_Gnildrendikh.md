@@ -1,6 +1,6 @@
 ---
 shortcode: hrindrinnagn
-name: {full: Hrindrinna Gnildrendik, aliases: [Jarl Hrindrinna Gnildrendik, Jarl Hrindrinna]}
+name: {full: Hrindrinna Gnildrendik, en: [Jarl Hrindrinna Gnildrendik, Jarl Hrindrinna]}
 type: being
 subType: npc
 description: A regional jarl whose family estate Hliskthann Veturdómur has maintained for twenty-three years.

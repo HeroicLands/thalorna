@@ -1,8 +1,6 @@
 ---
 shortcode: knalthyrathe
-name:
-  full: Knalthira the Merciless
-  aliases: [Overseer Knalthira the Merciless, Overseer Knalthira]
+name: {full: Knalthira the Merciless, en: [Overseer Knalthira the Merciless, Overseer Knalthira]}
 type: being
 subType: npc
 description: The brutal overseer directly responsible for most of Ulthorv Nalthendik's torments.

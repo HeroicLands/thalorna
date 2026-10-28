@@ -1,6 +1,6 @@
 ---
 shortcode: ard
-name: {full: Vylarian Ardin, aliases: ["Ardini"]}
+name: {full: Vylarian Ardin, en: [Ardini]}
 type: miscgear
 description: "Imperial silver coin; the standard unit of account for ordinary commerce."
 tags: [jewelry_cash]

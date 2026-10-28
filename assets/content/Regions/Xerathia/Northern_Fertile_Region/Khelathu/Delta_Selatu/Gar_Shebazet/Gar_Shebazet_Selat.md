@@ -1,6 +1,6 @@
 ---
 shortcode: garshebztslt
-name: {full: Gar-Shebazet Selat, aliases: []}
+name: {full: Gar-Shebazet Selat}
 type: place
 subType: region
 description: "Papyrus marshes; fowling, reed-craft, and the empire's paper-cutting—the land of the Selat of Gar-Shebazet, one of the delta selatu of Au'Khelathu."

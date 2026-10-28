@@ -1,6 +1,6 @@
 ---
 shortcode: owlttm
-name: {full: Owl, aliases: [Owl Totem]}
+name: {full: Owl, en: [Owl Totem]}
 type: lore
 subType: bestiary
 description: "The owl as a totemic ideal, and the human character it describes."

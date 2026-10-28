@@ -2,7 +2,7 @@
 shortcode: dezhbaleaarg
 name:
   full: Dezhbalea Argirakit
-  aliases: [Lady Investress Dezhbalea Argirakit, Investress Dezhbalea Argirakit]
+  en: [Lady Investress Dezhbalea Argirakit, Investress Dezhbalea Argirakit]
 type: being
 subType: npc
 description: A wealthy collector of fine maps and geographical art, named in Bazebos Porfirakit.

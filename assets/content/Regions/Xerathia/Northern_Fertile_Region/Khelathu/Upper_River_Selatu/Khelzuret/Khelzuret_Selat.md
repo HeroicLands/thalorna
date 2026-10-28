@@ -1,6 +1,6 @@
 ---
 shortcode: khelzuretslt
-name: {full: Khelzuret Selat, aliases: []}
+name: {full: Khelzuret Selat}
 type: place
 subType: region
 description: "The mortuary country of the upper river—the temple-city of Khelzuret on the east bank and the great necropolis facing it across the water, the land of the Selat of Khelzuret."

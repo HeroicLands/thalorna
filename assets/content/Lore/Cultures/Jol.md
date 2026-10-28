@@ -1,6 +1,6 @@
 ---
 shortcode: jol
-name: {full: Jel, aliases: []}
+name: {full: Jel}
 type: lore
 subType: custom
 description: "The twelve nights of midwinter feasts, vigil and remembrance."

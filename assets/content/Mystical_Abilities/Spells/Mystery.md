@@ -1,6 +1,6 @@
 ---
 shortcode: mystery
-name: {full: Mystery, aliases: []}
+name: {full: Mystery}
 type: mysticalability
 subType: arcaneincantation
 description: "Conceals object or location from magical detection permanently."

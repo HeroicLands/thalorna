@@ -1,6 +1,6 @@
 ---
 shortcode: teyumilng
-name: {full: Teyumi Language, aliases: []}
+name: {full: Teyumi Language}
 type: skill
 subType: language
 description: "The unwritten tongue of the Turquoise People of the desert's northern rim: open, soft and long-voweled, spoken in the canyons and along the canals."
@@ -5814,12 +5814,7 @@ data:
     - {tag: exonym:<tongue>, meaning: "a name another people gives, in the tongue named"}
   register:
     - {name: teyumi, tongue: teyumi, built: [teyu, -mi]}
-    - {name: Turquoise People, tongue: translation}
-    - {name: Ishtem Tsul, tongue: exonym:kiichek}
-    - {name: Teyumi Language, tongue: translation}
-    - {name: Teyumi Region, tongue: translation}
     - {name: kwatuhosa, tongue: teyumi, built: [kwatu, hosa]}
-    - {name: South House, tongue: translation}
     - {name: hosa oyala, tongue: teyumi, built: [hosa, oyala]}
     - {name: Canyon of Houses, tongue: translation}
     - {name: Old Houses, tongue: translation}

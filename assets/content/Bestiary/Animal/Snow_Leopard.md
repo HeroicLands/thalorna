@@ -1,6 +1,6 @@
 ---
 shortcode: snwlprd
-name: {full: Snow Leopard, aliases: []}
+name: {full: Snow Leopard}
 type: being
 subType: creature
 description: "A solitary, thick-coated mountain predator and peerless climber, hunting goats and sheep in high peaks where no rivals compete."

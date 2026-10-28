@@ -1,6 +1,6 @@
 ---
 shortcode: selatiqeru
-name: {full: The Selat of Iqeru, aliases: []}
+name: {full: The Selat of Iqeru}
 type: affiliation
 subType: polity
 description: "Sun-temples and wide irrigated wheatland—one of the upper-river selatu of Au'Khelathu."

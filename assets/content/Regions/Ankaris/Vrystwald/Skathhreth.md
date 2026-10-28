@@ -1,6 +1,6 @@
 ---
 shortcode: skathhreth
-name: {full: Skathhreth, aliases: [The Harm Ford]}
+name: {full: Skathhreth, en: [The Harm Ford]}
 type: place
 subType: site
 description: "The ford on the Moldún where a Vylarian legion was destroyed in 291 AF; the thinnest blood-field in the Vristwald, where the column is seen on the water at dusk and the hungry spirits gather in the thaw."

@@ -1,6 +1,6 @@
 ---
 shortcode: vrishatir
-name: {full: Vrishatir, aliases: []}
+name: {full: Vrishatir}
 type: place
 subType: settlement
 description: "Cattle village on the upper Bharava, which keeps the draft oxen the terraces and the smelters both depend on."

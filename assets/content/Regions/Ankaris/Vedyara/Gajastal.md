@@ -1,6 +1,6 @@
 ---
 shortcode: gajastal
-name: {full: Gajastal, aliases: [The Elephant Ground]}
+name: {full: The Elephant Ground, vedy: [gajastal]}
 type: place
 subType: site
 description: "The long slope at the foot of the central plateau where the Field of Elephants was fought: a shallow, wide shorukshetra of drums and trumpeting in the first storms of the monsoon, elephant bones built into village walls, and a droveway that goes round it."

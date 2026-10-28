@@ -1,6 +1,6 @@
 ---
 shortcode: moonsettle
-name: {full: The Moon House Settlement, aliases: []}
+name: {full: The Moon House Settlement}
 type: lore
 subType: history
 description: "About 312 AF Chendrapur's temples refused to crown the dead king's son, Ratnasura, and the nine great cutting houses brokered a cousin, Elvunata, onto the throne on their terms: nine seats of one height, each House's quarter its own, the crown's revenue the tenth district."

@@ -1,6 +1,6 @@
 ---
 shortcode: jnanadvar
-name: {full: Jnanadvar, aliases: [The Scholars' Door]}
+name: {full: The Scholars' Door, vedy: [jnanadvar]}
 type: place
 subType: feature
 description: "The scholars' door—the long crossing of the Eastern Reach to Tantsou's western frontier, where a Tantsou way-station keeps a register four centuries deep."

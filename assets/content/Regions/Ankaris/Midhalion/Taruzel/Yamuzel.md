@@ -1,6 +1,6 @@
 ---
 shortcode: yamuzel
-name: {full: Yamuzel, aliases: []}
+name: {full: Yamuzel}
 type: affiliation
 subType: polity
 description: "Naval stronghold of the Confederation of Taruzelian States on the narrows between the Taruzelian islands—fortress-city whose admirals command the confederation's most powerful warships."

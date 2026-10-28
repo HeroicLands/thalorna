@@ -1,6 +1,6 @@
 ---
 shortcode: waluqaa
-name: {full: Wal-Uqa'a, aliases: []}
+name: {full: Wal-Uqa'a}
 type: place
 subType: feature
 description: "The Sun's Road: the straight, solstice-aligned processional way that runs from the eastern edge of Galezkara across the sacred island to the necropolis, with the quarters of the city strung along it"

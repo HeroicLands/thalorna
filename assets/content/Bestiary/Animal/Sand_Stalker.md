@@ -1,6 +1,6 @@
 ---
 shortcode: sndstlkr
-name: {full: Sand Stalker, aliases: []}
+name: {full: Sand Stalker}
 type: being
 subType: creature
 description: "A lithe nocturnal desert feline up to seven feet long, stalking dune fields and rocky wastes for small prey through the cool night hours."

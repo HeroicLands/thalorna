@@ -1,6 +1,6 @@
 ---
 shortcode: anlaghafu
-name: {full: Anlaghafu, given: Anlaghafu, aliases: [Anla]}
+name: {full: Anlaghafu, given: Anlaghafu, khel: [anla]}
 type: being
 subType: character
 description: "High priest of Qe'aret at Khelunu, whose judgment carries into the courts and whose enemies find it difficult to reach him"

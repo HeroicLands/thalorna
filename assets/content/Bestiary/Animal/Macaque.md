@@ -1,6 +1,6 @@
 ---
 shortcode: macaque
-name: {full: Macaque, aliases: [Temple Monkey]}
+name: {full: Macaque, en: [Temple Monkey]}
 type: being
 subType: creature
 description: "A stocky, intelligent medium-sized monkey of the monsoon south thriving everywhere from temples to cities by stealing and extorting food from humans."

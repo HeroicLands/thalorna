@@ -1,6 +1,6 @@
 ---
 shortcode: zanutgezauzu
-name: {full: Zanut Geza'Uzu, aliases: []}
+name: {full: Zanut Geza'Uzu}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, mages]

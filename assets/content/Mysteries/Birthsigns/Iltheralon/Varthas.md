@@ -1,6 +1,6 @@
 ---
 shortcode: arnos
-name: {full: Varthas, aliases: []}
+name: {full: Varthas}
 type: mystery
 subType: birthsign
 description: "The Ram: green-fingered and at home in wild country, and never light on their feet."

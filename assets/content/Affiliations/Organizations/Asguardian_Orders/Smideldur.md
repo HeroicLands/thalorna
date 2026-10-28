@@ -1,6 +1,6 @@
 ---
 shortcode: smideldur
-name: {full: "Smideldur", aliases: []}
+name: {full: Smideldur}
 type: affiliation
 subType: order
 description: "Fire mastered for Svartbrandur's forges."

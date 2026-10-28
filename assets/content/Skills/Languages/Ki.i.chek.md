@@ -1,6 +1,6 @@
 ---
 shortcode: kiichek
-name: {full: Ki'i'chek Language, aliases: []}
+name: {full: Ki'i'chek Language}
 type: skill
 subType: language
 description: "The glottal, glyph-written tongue of the Ki'ich'chik city-states, with short everyday words and richly compounded titles."

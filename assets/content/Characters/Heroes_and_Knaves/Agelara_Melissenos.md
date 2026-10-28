@@ -1,6 +1,6 @@
 ---
 shortcode: aglrmlsns
-name: {full: Agélara Stetes, given: Agélara, clan: Stetes, aliases: []}
+name: {full: Agélara Stetes, given: Agélara, clan: Stetes}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]

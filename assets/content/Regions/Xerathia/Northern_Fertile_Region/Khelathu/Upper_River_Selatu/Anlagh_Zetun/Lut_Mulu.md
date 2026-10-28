@@ -1,6 +1,6 @@
 ---
 shortcode: lutmulu
-name: {full: Lut-Mulu, aliases: []}
+name: {full: Lut-Mulu}
 type: place
 subType: settlement
 description: "A grain-village of the flood-basin in Anlagh-Zetun, working its share of the inundated land and sending its harvest up the chain to the granaries and the Halzi'a"

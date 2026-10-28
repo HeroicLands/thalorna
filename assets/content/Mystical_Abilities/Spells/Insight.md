@@ -1,6 +1,6 @@
 ---
 shortcode: insight
-name: {full: Insight, aliases: []}
+name: {full: Insight}
 type: mysticalability
 subType: arcaneincantation
 description: "Diagnostic magic revealing all physical traumas; enhances healing greatly."

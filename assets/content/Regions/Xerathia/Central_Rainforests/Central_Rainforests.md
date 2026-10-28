@@ -1,6 +1,6 @@
 ---
 shortcode: cntrlrnfrsts
-name: {full: Central Rainforests, aliases: [Zerathian Rainforests, Green Interior]}
+name: {full: Central Rainforests, en: [Zerathian Rainforests, Green Interior]}
 type: place
 subType: region
 description: Trackless equatorial jungle at the heart of Zerathia—teeming with life, disease, and scattered tribes whose spirit-traditions resist outside systematization.

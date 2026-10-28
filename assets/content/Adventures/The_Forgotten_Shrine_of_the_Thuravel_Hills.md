@@ -1,6 +1,6 @@
 ---
 shortcode: frgtnshrnthrvlhls
-name: {full: The Forgotten Shrine of the Thuravel Hills, aliases: []}
+name: {full: The Forgotten Shrine of the Thuravel Hills}
 type: scenario
 subType: adventure
 data:

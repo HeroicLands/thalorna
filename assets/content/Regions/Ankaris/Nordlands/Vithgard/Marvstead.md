@@ -1,6 +1,6 @@
 ---
 shortcode: marvstead
-name: {full: Marvstead, aliases: []}
+name: {full: Marvstead}
 type: place
 subType: settlement
 description: "Town"

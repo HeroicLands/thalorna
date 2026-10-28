@@ -1,6 +1,6 @@
 ---
 shortcode: zuravlenrgn
-name: {full: Zuravlen Region, aliases: [The Peach Country]}
+name: {full: Zuravlen Region, en: [The Peach Country]}
 type: place
 subType: region
 description: "Provenzia's western seaboard on the cold ocean—a long cliff coast, poorer and harder than the sunlit south, named for the barony at its heart whose sheltered valley grows the finest peaches and some of the best wine in Ankaris."

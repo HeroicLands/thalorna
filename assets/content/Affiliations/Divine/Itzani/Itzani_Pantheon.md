@@ -1,6 +1,6 @@
 ---
 shortcode: itzanpnthn
-name: {full: Itsani Pantheon, aliases: [The Ten of the Celestial Round]}
+name: {full: Itsani Pantheon, en: [The Ten of the Celestial Round]}
 type: affiliation
 subType: faithtradition
 description: "Unified Ki'i'chek religion of ten gods orchestrating celestial cycles, blood sacrifice as reciprocity, and the fifth age's perpetual brink of cosmological dissolution."

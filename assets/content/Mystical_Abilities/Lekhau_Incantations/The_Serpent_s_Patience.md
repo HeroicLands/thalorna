@@ -1,6 +1,6 @@
 ---
 shortcode: serpentsptnc
-name: {full: The Serpent's Patience, aliases: []}
+name: {full: The Serpent's Patience}
 type: mysticalability
 subType: arcaneincantation
 description: "Sets an unmaking that lies dormant, sometimes for generations, until a stated condition is met."

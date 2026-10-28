@@ -1,6 +1,6 @@
 ---
 shortcode: vandgrund
-name: {full: Vandgrund, aliases: []}
+name: {full: Vandgrund}
 type: place
 subType: settlement
 description: "A Varokh village in Vandstein."

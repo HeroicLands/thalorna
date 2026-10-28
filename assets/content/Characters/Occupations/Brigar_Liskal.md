@@ -1,6 +1,6 @@
 ---
 shortcode: brygrlyskl
-name: {full: Brigar Liskal, aliases: []}
+name: {full: Brigar Liskal}
 type: being
 subType: npc
 tags: [todo-warrior, draft, soldiery]

@@ -1,6 +1,6 @@
 ---
 shortcode: clstlpnthn
-name: {full: Celestial Pantheon, aliases: []}
+name: {full: Celestial Pantheon}
 type: lore
 subType: theology
 description: "The great powers of Tantsou's Celestial Order—Tanzho the First Classifier, the Jade Sovereign who runs heaven's administration, and the Ministers of Storms and of the Moon."

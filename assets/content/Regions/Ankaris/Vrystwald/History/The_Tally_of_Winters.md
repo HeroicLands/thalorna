@@ -1,6 +1,6 @@
 ---
 shortcode: wintertally
-name: {full: The Tally of Winters, aliases: [The Varokh Reckoning, The Ages of the Forest]}
+name: {full: The Tally of Winters, en: [The Varokh Reckoning, The Ages of the Forest]}
 type: lore
 subType: calendar
 description: "How the Varokh of Vristwald reckon time without writing: winters counted from the last thing every hearth remembers, the eldskorn recited at Weskskald, and the seven ages of the forest from the Taking of the Wood to the posts at Hrindstead."

@@ -1,6 +1,6 @@
 ---
 shortcode: ptnstmg
-name: {full: Heartflame, aliases: ["Potion, Stimulant, Great"]}
+name: {full: Heartflame, en: ["Potion, Stimulant, Great"]}
 type: concoctiongear
 subType: exotic
 description: "Blazing red-gold liquid; grants enhanced strength and physical power."

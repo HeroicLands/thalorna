@@ -1,6 +1,6 @@
 ---
 shortcode: qeztudty
-name: {full: Qeztu, aliases: []}
+name: {full: Qeztu}
 type: lore
 subType: deity
 tags: [draft]

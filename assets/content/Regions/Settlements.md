@@ -1,6 +1,6 @@
 ---
 shortcode: setlements
-name: {full: Settlements, aliases: []}
+name: {full: Settlements}
 type: doc
 subType: reference
 description: Cities, towns, villages, and other inhabited places.

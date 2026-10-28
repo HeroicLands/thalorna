@@ -1,6 +1,6 @@
 ---
 shortcode: geletssn
-name: {full: Gelet, aliases: [The Emergence]}
+name: {full: Gelet, en: [The Emergence]}
 type: lore
 subType: custom
 description: "The season of growing: four months from the flood's retreat to the standing crop"

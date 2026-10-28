@@ -1,6 +1,6 @@
 ---
 shortcode: ylthklmrth
-name: {full: Jalith Kálmereth, aliases: []}
+name: {full: Jalith Kálmereth}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

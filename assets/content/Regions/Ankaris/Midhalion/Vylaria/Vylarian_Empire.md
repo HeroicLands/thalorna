@@ -1,6 +1,6 @@
 ---
 shortcode: vylarinmpr
-name: {full: Vylarian Empire, aliases: []}
+name: {full: Vylarian Empire}
 type: affiliation
 subType: polity
 description: "The declining empire of the Vylarian peninsula—four provinces under an Orzas, a Senate and the Thordimalon, still spanning half of Ankaris on its own maps and the eternal pretender to universal rule."

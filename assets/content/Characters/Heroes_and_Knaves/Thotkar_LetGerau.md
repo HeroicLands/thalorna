@@ -1,6 +1,6 @@
 ---
 shortcode: thotkarletgr
-name: {full: Thotkar Let'Gerau, given: Thotkar, clan: Let'Gerau, aliases: []}
+name: {full: Thotkar Let'Gerau, given: Thotkar, clan: Let'Gerau}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, administration]

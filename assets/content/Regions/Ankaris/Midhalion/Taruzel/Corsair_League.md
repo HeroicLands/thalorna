@@ -1,6 +1,6 @@
 ---
 shortcode: corsairleg
-name: {full: Corsair League, aliases: []}
+name: {full: Corsair League}
 type: affiliation
 subType: guild
 description: "Taruzelian maritime guild—war-veteran captains blurring legitimate shipping and piracy, providing de facto navy and naval muscle for the Confederation."

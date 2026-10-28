@@ -1,6 +1,6 @@
 ---
 shortcode: yamuzel2
-name: {full: Yamuzel, aliases: []}
+name: {full: Yamuzel}
 type: place
 subType: settlement
 description: "The Confederation's naval stronghold on the narrows between the islands of Taruzel, where admirals' families govern and independence-war veterans wait on promises."

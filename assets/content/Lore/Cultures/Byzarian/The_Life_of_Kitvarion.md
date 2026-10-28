@@ -1,6 +1,6 @@
 ---
 shortcode: lifekitvarn
-name: {full: The Life of Kitvarion of the Gate, aliases: []}
+name: {full: The Life of Kitvarion of the Gate}
 type: lore
 subType: literature
 description: "The Life the monks of Argirteikhos read on the day of their gate-stander: a muleteer's son who counted the trains, the ledger he kept at the east gate, the true count of the grain through the Two Winters, the names of the second winter's dead written into a book the house keeps sealed, the clause he read aloud at the foot of the Vylarian Steps, and the garrison that bought his keeping."
@@ -17,7 +17,7 @@ data:
     - place-eastrnmrch
     - place-nykhtion
     - lore-byzarianclt
-  language: byzarnlng
+  lang: biza
 
 # terran_analog: "Byzantine saints' lives in the elevated style, with the hagiographer's prologue of unworthiness, the sign in childhood, the ascetic feat and the miracles at the tomb; the stylites and the desert fathers, for endurance as the saint's victory; and the monastic chronicle of a frontier house that records what crosses the border."
 ---

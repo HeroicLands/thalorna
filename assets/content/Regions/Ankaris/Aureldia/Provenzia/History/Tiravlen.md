@@ -1,6 +1,6 @@
 ---
 shortcode: tiravlenbattle
-name: {full: Tiravlen, aliases: [The Breaking of the Tanevar Kings]}
+name: {full: The Breaking of the Tanevar Kings, prov: [Tiravlen]}
 type: lore
 subType: history
 description: "About 152 AF the legions landed below Aurelane and marched up the river roads, the Tanevar kings gathered their hosts on the shore of Lake Tiravel and were broken there, and the province of the West was made with Aurelane as its capital."

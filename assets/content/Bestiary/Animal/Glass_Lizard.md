@@ -1,6 +1,6 @@
 ---
 shortcode: glsslzrd
-name: {full: Glass Lizard, aliases: []}
+name: {full: Glass Lizard}
 type: being
 subType: creature
 description: "A sleek, semi-arboreal reptilian predator over ten feet long, blending into rocky scrubland where it basks by day and hunts by night."

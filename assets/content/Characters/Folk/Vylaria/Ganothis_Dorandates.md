@@ -1,6 +1,6 @@
 ---
 shortcode: ganothisdora
-name: {full: Ganothis Dorandates, aliases: [Captain Ganothis Dorandates, Captain Ganothis]}
+name: {full: Ganothis Dorandates, en: [Captain Ganothis Dorandates, Captain Ganothis]}
 type: being
 subType: npc
 description: The senior guard captain and sergeant commanding the capital district patrols, named in Zénokos Bardas.

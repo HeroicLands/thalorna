@@ -1,6 +1,6 @@
 ---
 shortcode: hringstead
-name: {full: Hringstead, aliases: []}
+name: {full: Hringstead}
 type: place
 subType: settlement
 description: "The neutral ground on the Nordheim–Vithgard border, guaranteed by all five kingdoms, where the mercenary Compact keeps its Hall and the Skalds' Circle was sworn."

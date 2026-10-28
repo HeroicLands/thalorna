@@ -1,6 +1,6 @@
 ---
 shortcode: ptncrft
-name: {full: Potioncraft, aliases: []}
+name: {full: Potioncraft}
 type: mysticalability
 subType: arcaneincantation
 description: "Brews magical potions with beneficial effects over time."

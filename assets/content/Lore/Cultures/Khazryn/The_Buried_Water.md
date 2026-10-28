@@ -1,6 +1,6 @@
 ---
 shortcode: waterunder
-name: {full: The Buried Water, aliases: [Uruvolkuyad]}
+name: {full: The Buried Water, sovi: [Uruvolkuyad]}
 type: lore
 subType: literature
 description: "The Sahri star-song of the lake under the sand: the lake people and their canals, the wells dug down toward their dead, the water that went to ground to find them, the well-mother at the bottom of the stair, the kings in their stone houses, and the day the water comes up again, sung at the hidden oasis on the first night of the grass with a star to every stanza."
@@ -17,7 +17,7 @@ data:
     - affiliation-sahritrb
     - lore-sowidesclt
     - place-hskrrgn
-  language: sowideslng
+  lang: sovi
 ---
 
 **The Buried Water**, _Uruvolkuyad_, is a song (_koyoz_) of the [[affiliation-sahritrb|Sahri]], the small [[lore-sowidesclt|Sovidur]] tribe of the deep desert that keeps a hidden oasis and holds prophecies in song tied to the movements of the stars. A _koyoz_ is unrhymed and sung without an instrument, and each of its stanzas opens on the thing it is about and closes on the same phrase; in a star-song the thing is a star, and the stanzas follow the stars up through the year. The eldest of the Sahri sings this one at the hidden oasis on the first night of the grass, with the tribe round the pool and the children told to watch the sky and not the singer, because the song is a way of learning where the stars stand.

@@ -1,6 +1,6 @@
 ---
 shortcode: mhndkngdm
-name: {full: The Kingdom of Mahanodi, aliases: [The Dissolution of Mahanodi]}
+name: {full: The Kingdom of Mahanodi, en: [The Dissolution of Mahanodi]}
 type: lore
 subType: history
 description: "The kingdom that held the upper Mahanodi for some four centuries, from its founding around 640 BF through the move of its capital to Rajepur in the first year of the Madustan count to the forty-day sabhra that dissolved it in the first year of the Age of Copyists."

@@ -1,6 +1,6 @@
 ---
 shortcode: tharivaan
-name: {full: "Thári'vaan", aliases: [The Living Whole]}
+name: {full: The Living Whole, kali: [Thári'vaan]}
 type: affiliation
 subType: faithtradition
 description: "Reverence for the interconnected whole; ecological balance."
@@ -54,7 +54,7 @@ data:
   population: null
   economy: []
   lore: []
-  parents: [tharivaan]
+  parents: []
   relations:
     kalihara: aligned
     councilisland: aligned

@@ -1,6 +1,6 @@
 ---
 shortcode: domseycount
-name: {full: The Domsey Count, aliases: [The Sitting-Count, The Count of the Sittings]}
+name: {full: The Domsey Count, en: [The Sitting-Count, The Count of the Sittings]}
 type: lore
 subType: calendar
 description: "How the Nordlands reckon years: counted from the first sitting of the King of All Clans on Domsey, divided by the four turns of the year, and dated by sittings, by winters notched on the Hnarvdal post, and by the ages the skalds name."

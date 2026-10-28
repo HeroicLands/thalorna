@@ -1,6 +1,6 @@
 ---
 shortcode: pelagora
-name: {full: Pelagora, aliases: []}
+name: {full: Pelagora}
 type: affiliation
 subType: polity
 description: "Naval power of the Helionite city-states—citizen-democracy of shipwrights and sailors whose galleys defend the eastern Vylarian Sea, loud and demagogue-ridden in assembly but the indispensable shield of its philosophical sister-cities."

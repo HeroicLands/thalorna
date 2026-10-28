@@ -1,6 +1,6 @@
 ---
 shortcode: svulthannkna
-name: {full: Svulthann Knarvendik, aliases: [Magistrate-Commander Svulthann Knarvendik]}
+name: {full: Svulthann Knarvendik, en: [Magistrate-Commander Svulthann Knarvendik]}
 type: being
 subType: npc
 description: Magistrate-Commander and military quartermaster of the Nordheim garrison, who places annual orders for campaign tents, named in Braldthann Veturdómur.

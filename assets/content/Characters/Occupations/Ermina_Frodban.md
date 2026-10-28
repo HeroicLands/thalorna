@@ -1,6 +1,6 @@
 ---
 shortcode: erminfrdbn
-name: {full: Ermina yra Frodbán wur Thornhaven, aliases: []}
+name: {full: Ermina yra Frodbán wur Thornhaven}
 type: being
 subType: npc
 tags: [draft, common-folk]

@@ -1,6 +1,6 @@
 ---
 shortcode: blnhdrks
-name: {full: Bulelon Hadrikes, aliases: []}
+name: {full: Bulelon Hadrikes}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

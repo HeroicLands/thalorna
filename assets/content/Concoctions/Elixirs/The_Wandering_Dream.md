@@ -1,6 +1,6 @@
 ---
 shortcode: elxdrm
-name: {full: The Wandering Dream, aliases: [Dreamwalk Elixir]}
+name: {full: The Wandering Dream, en: [Dreamwalk Elixir]}
 type: concoctiongear
 subType: elixir
 description: "Opalescent shifting liquid; projects consciousness to distant locations."

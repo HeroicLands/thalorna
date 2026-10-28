@@ -1,6 +1,6 @@
 ---
 shortcode: provnchyln
-name: {full: Province of Hilen, aliases: []}
+name: {full: Province of Hilen}
 type: affiliation
 subType: polity
 description: "The breadbasket province of the Vylarian Empire—fertile lowlands and terraced hill-country of vast aristocratic estates producing the grain, wine, and oil that feed the empire, and the most conservative, tradition-bound region of Vylarian politics."

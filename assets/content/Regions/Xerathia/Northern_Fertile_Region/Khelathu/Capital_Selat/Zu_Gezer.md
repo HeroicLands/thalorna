@@ -1,6 +1,6 @@
 ---
 shortcode: zugezer
-name: {full: Zu-Gezer, aliases: []}
+name: {full: Zu-Gezer}
 type: place
 subType: settlement
 description: "Necropolis City"

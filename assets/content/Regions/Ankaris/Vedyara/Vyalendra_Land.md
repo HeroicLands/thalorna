@@ -1,6 +1,6 @@
 ---
 shortcode: vyalendraland
-name: {full: Vyalendra Land, aliases: []}
+name: {full: Vyalendra Land}
 type: place
 subType: region
 description: "The land of the city-state of Vyalendra—the Nilachari valleys of cotton and indigo, the loom villages that feed the city's halls, and the river road that carries the cloth down to the sea."

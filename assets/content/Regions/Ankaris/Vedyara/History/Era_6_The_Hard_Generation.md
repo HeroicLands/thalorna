@@ -1,6 +1,6 @@
 ---
 shortcode: hardgenrtn
-name: {full: The Hard Generation, aliases: []}
+name: {full: The Hard Generation}
 type: lore
 subType: history
 description: "313 to 334 AF, 1 HG to 22 HG in the Madustan count: the Storm of the Hundred Banners, the fall of the march kingdom of Marupal on the thinnest shorukshetra in Vedyara, the conch-door adventurer and the Silenced Hall, the Third Compact, and the raising of Bhumipal."

@@ -1,6 +1,6 @@
 ---
 shortcode: drain
-name: {full: Drain, aliases: []}
+name: {full: Drain}
 type: mysticalability
 subType: arcaneincantation
 description: "Siphons life force; weakens target while invigorating caster gradually."

@@ -1,6 +1,6 @@
 ---
 shortcode: ptnpoim
-name: {full: "Widow's Whisper", aliases: ["Potion, Poison, Mild"]}
+name: {full: Widow's Whisper, en: ["Potion, Poison, Mild"]}
 type: concoctiongear
 subType: exotic
 description: "Pale yellow amber liquid; induces despair and hopelessness."

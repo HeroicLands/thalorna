@@ -1,6 +1,6 @@
 ---
 shortcode: sevnmyrkls
-name: {full: Sevren Mírkelis, given: Sevren, clan: Mírkelis, aliases: []}
+name: {full: Sevren Mírkelis, given: Sevren, clan: Mírkelis}
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, guilded, mages]

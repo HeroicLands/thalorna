@@ -1,6 +1,6 @@
 ---
 shortcode: glirvir
-name: {full: Glirvir, aliases: [Jarl Glirvir]}
+name: {full: Glirvir, en: [Jarl Glirvir]}
 type: being
 subType: npc
 description: A jarl whose tax collectors impose crushing taxes on the villages Mirvrinna Harvest-Blessed serves.

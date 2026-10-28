@@ -1,6 +1,6 @@
 ---
 shortcode: nykhtion
-name: {full: Nikhtion, aliases: []}
+name: {full: Nikhtion}
 type: place
 subType: region
 description: "The League's city of the dead in the arid highlands inland from Nesthiros, where every great house keeps its tombs."

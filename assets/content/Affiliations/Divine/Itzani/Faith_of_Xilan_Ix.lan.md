@@ -1,6 +1,6 @@
 ---
 shortcode: xilanixlan
-name: {full: "Faith of Shilan Ish'lan", aliases: [The Walker of Paths, "Shilan Ish'lan"]}
+name: {full: Faith of Shilan Ish'lan, en: [The Walker of Paths], kiichek: [Shilan Ish'lan]}
 type: affiliation
 subType: faithtradition
 description: "Travel, trade and communication—the god of the white roads, whose road shrines are the nerves of the continent and whose priesthood is mobile by design."

@@ -1,6 +1,6 @@
 ---
 shortcode: bufomazultch
-name: {full: Bufomazul Charzilzát, aliases: [Lord Bufomazul Charzilzát]}
+name: {full: Bufomazul Charzilzát, en: [Lord Bufomazul Charzilzát]}
 type: being
 subType: npc
 description: A mysterious nobleman of wealth and connections but ambiguous loyalties who has funded Dókhehran Fefes's expeditions.

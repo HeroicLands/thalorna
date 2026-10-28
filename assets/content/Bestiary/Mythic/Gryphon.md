@@ -1,6 +1,6 @@
 ---
 shortcode: gryphon
-name: {full: Gryphon, aliases: []}
+name: {full: Gryphon}
 type: being
 subType: creature
 description: "A three-hundred-pound eagle-lion predator of legend, lean and supremely muscled, blending the majesty of birds with the ferocity of beasts."

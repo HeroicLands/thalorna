@@ -1,6 +1,6 @@
 ---
 shortcode: ghrnrrfrs
-name: {full: Ghéranira Rafiros, aliases: []}
+name: {full: Ghéranira Rafiros}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

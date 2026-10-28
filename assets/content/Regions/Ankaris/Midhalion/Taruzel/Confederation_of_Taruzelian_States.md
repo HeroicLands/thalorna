@@ -1,6 +1,6 @@
 ---
 shortcode: cnfdrtntrzlnstts
-name: {full: Confederation of Taruzelian States, aliases: [Taruzelian Confederation]}
+name: {full: Confederation of Taruzelian States, en: [Taruzelian Confederation]}
 type: affiliation
 subType: polity
 description: "Twelve-year-old maritime confederation on an archipelago in the eastern Vylarian Sea—won independence from the Vylarian Empire by force of arms, then watched merchant oligarchs seize the freedoms its veterans bled for. Naval supremacy, complex political intrigue, and islands of trade and smuggling havens."

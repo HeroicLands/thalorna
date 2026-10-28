@@ -1,6 +1,6 @@
 ---
 shortcode: eskarath
-name: {full: Eskarath, aliases: []}
+name: {full: Eskarath}
 type: place
 subType: region
 description: "The land of the Free Territory of Eskarath—the highlands along Tarvénia's northern border with Élavendre, home to a people older than the Tarveni migration."

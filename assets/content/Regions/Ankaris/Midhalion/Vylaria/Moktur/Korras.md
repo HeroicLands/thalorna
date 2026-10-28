@@ -1,6 +1,6 @@
 ---
 shortcode: korrast
-name: {full: Korras, aliases: []}
+name: {full: Korras}
 type: place
 subType: settlement
 description: "Pass Town"

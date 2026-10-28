@@ -1,6 +1,6 @@
 ---
 shortcode: ginehrankriz
-name: {full: Ginehran Krizusidek, aliases: [Duchess Ginehran Krizusidek]}
+name: {full: Ginehran Krizusidek, en: [Duchess Ginehran Krizusidek]}
 type: being
 subType: npc
 description: An aging noblewoman of considerable power who is Fodios Timiakit's most steadfast patron.

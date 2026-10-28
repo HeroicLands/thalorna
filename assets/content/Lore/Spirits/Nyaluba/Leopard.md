@@ -2,7 +2,8 @@
 shortcode: leopardsengalaspr
 name:
   full: Leopard Spirit
-  aliases: [The Leopard Guide, Leopard of the Sengala, Ndawelari Thakwaring]
+  en: [The Leopard Guide, Leopard of the Sengala]
+  nyal: [ndawelari thakwaring]
 type: lore
 subType: spirit
 description: "The leopard-guide of the Sengala as a being—solitary, unseen, and the one guide that travels."

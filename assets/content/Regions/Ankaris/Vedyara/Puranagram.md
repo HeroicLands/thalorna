@@ -1,6 +1,6 @@
 ---
 shortcode: puranagram
-name: {full: Puranagram, aliases: []}
+name: {full: Puranagram}
 type: place
 subType: settlement
 description: "Village a mile below the town, built of brick robbed from the ruins of the old kingdom."

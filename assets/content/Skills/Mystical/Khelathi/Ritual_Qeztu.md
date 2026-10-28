@@ -1,6 +1,6 @@
 ---
 shortcode: ritualqeztu
-name: {full: "Ritual: Qeztu", aliases: []}
+name: {full: "Ritual: Qeztu"}
 type: skill
 subType: mystical
 tags: [khelathi, faith-skill, draft]

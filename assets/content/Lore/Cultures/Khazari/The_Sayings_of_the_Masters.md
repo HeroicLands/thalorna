@@ -1,6 +1,6 @@
 ---
 shortcode: gatharbuzan
-name: {full: The Sayings of the Masters, aliases: [Gathar-buzán]}
+name: {full: The Sayings of the Masters, khaz: [gathar-buzán]}
 type: lore
 subType: literature
 description: "The workshop sayings of twelve Khazari masters as Vorgald keeps them, received in a named chain and read whole below on the day an apprentice is admitted to strike, with a dispute over the farmers at the gate kept unresolved."
@@ -10,7 +10,7 @@ data:
   culture: khazariclt
   form: bazan
   subjects: [lore-khazariclt, lore-flkkhazar, lore-longnhrtnc, lore-vardain, place-vorgald]
-  language: khazarlng
+  lang: khaz
 ---
 
 **The Sayings of the Masters**, _Gathar-buzán_, is the workshop wisdom of the [[lore-khazariclt|Khazari]] as one hold keeps it: the sayings (_bazan_) of twelve masters, each received from the one before and handed to the one after, so that the chain of names is recited before any saying is. A master says them to apprentices one at a time across the years of listening, usually at the face, with the stone a saying is about under the apprentice's hand, because a saying is a thing said over a matter and it waits for its matter. The whole chain is read aloud once, below, on the oath-day when an apprentice is admitted to strike, and the hammer is given after the last word. The copy transcribed here is [[place-vorgald|Vorgald]]'s, kept on lead sheets in the hold's archive; the chain is Vorgald's own, and the holds over the water keep chains of their own that share its older names and, but for [Dulkun of Khalv-gunáv]{.name data-type="being/npc"}, none of its later ones. The valley the two masters quarrel over near the end is [[place-vardainvalleys|the Vardain valleys]] beneath the hold, which the text calls only the valley and the gate. Two of the masters spoke in the coursed line of the deep songs, and their sayings are read in that line; the rest are said plainly, and nothing in the chain is sung.

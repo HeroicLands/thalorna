@@ -1,6 +1,6 @@
 ---
 shortcode: hrmnbld
-name: {full: Harmonblade, aliases: [Singing Sword]}
+name: {full: Harmonblade, en: [Singing Sword]}
 type: mysticalability
 subType: arcaneincantation
 description: "Blade sings with resonant force; strikes echo with doubled damage."

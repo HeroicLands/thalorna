@@ -1,6 +1,6 @@
 ---
 shortcode: wllfflm
-name: {full: Wall of Flame, aliases: [Doom Curtain]}
+name: {full: Wall of Flame, en: [Doom Curtain]}
 type: mysticalability
 subType: arcaneincantation
 description: "Creates barrier of fire; blocks passage and burns."

@@ -1,6 +1,6 @@
 ---
 shortcode: gnurthmyl
-name: {full: Gnurthmil, aliases: [Commander Gnurthmil]}
+name: {full: Gnurthmil, en: [Commander Gnurthmil]}
 type: being
 subType: npc
 description: A stern but capable commander of the city guard under whom Vruldorv Drottgar trained, now retired.

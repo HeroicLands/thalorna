@@ -1,6 +1,6 @@
 ---
 shortcode: aware
-name: {full: Aware, aliases: []}
+name: {full: Aware}
 type: mysticalability
 subType: arcaneincantation
 description: "Sharpens senses; target perceives details invisible to normal sight."

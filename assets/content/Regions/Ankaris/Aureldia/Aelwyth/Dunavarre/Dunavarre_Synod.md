@@ -1,6 +1,6 @@
 ---
 shortcode: dunavarsynod
-name: {full: Dúnavarre Synod, aliases: [Synod]}
+name: {full: Dúnavarre Synod, en: [Synod]}
 type: affiliation
 subType: governmental
 description: "A synod of Thordimalon mages holding direct political power in Dúnavarre."

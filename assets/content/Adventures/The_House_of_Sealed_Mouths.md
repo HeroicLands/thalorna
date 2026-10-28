@@ -1,6 +1,6 @@
 ---
 shortcode: sldmouthsadv
-name: {full: The House of Sealed Mouths, aliases: []}
+name: {full: The House of Sealed Mouths}
 type: scenario
 subType: adventure
 description: "A temple scribe sends the party up a failing canal to fetch a dwindled house's burial records, and the estate's servants meet the boat with their lips sewn shut."

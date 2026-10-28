@@ -1,6 +1,6 @@
 ---
 shortcode: zekudiorneti
-name: {full: Zekudi Ornetis, aliases: [Guard Captain Zekudi]}
+name: {full: Zekudi Ornetis, en: [Guard Captain Zekudi]}
 type: being
 subType: npc
 description: A guard captain and trusted subordinate of Haldena Durgana who has been accepting bribes from Rodion Carex.

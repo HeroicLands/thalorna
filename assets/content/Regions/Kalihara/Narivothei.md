@@ -1,6 +1,6 @@
 ---
 shortcode: narivothei
-name: {full: Narivothei, aliases: []}
+name: {full: Narivothei}
 type: place
 subType: settlement
 description: "A lineage village in a spring valley on the northern inner slope of Kalihara's Ring, whose spring-stone has gone bone-white and whose spring runs muddy."

@@ -1,6 +1,6 @@
 ---
 shortcode: knlthrnhfrngr
-name: {full: Knalthrinna Hafringur, given: Knalthrinna, clan: Hafringur, aliases: []}
+name: {full: Knalthrinna Hafringur, given: Knalthrinna, clan: Hafringur}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, common-folk]

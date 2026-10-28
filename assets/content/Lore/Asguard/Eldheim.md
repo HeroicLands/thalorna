@@ -1,6 +1,6 @@
 ---
 shortcode: eldheim
-name: {full: Eldheim, aliases: [The Fire-Home]}
+name: {full: Eldheim, en: [The Fire-Home]}
 type: place
 subType: region
 description: "The burning region of Asguard, where Svartbrandur keeps his fire-kin and musters the host that rides out at Aldarlok."

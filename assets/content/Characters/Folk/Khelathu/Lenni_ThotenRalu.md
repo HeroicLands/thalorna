@@ -1,6 +1,6 @@
 ---
 shortcode: lennithotenr
-name: {full: Lenni Thoten'Ralu, aliases: [Merchant-Lord Lenni Thoten'Ralu, Merchant-Lord Lenni]}
+name: {full: Lenni Thoten'Ralu, en: [Merchant-Lord Lenni Thoten'Ralu, Merchant-Lord Lenni]}
 type: being
 subType: npc
 description: A wealthy merchant whose logging and mining operations in the borderlands have destroyed significant forest, named in Qelatha Melu'Khelariu.

@@ -1,8 +1,6 @@
 ---
 shortcode: nartumrefuse
-name:
-  full: Nartun Refuses the Empire
-  aliases: [The Anointing of Daronos, The Break with the Orkaima]
+name: {full: Nartun Refuses the Empire, en: [The Anointing of Daronos, The Break with the Orkaima]}
 type: lore
 subType: history
 description: "About 224 AF, after the Ústaran Schism, the Orzas Karomfos declines to proscribe the Black Flame; Nartun's high priesthood withdraws from imperial obedience, anoints its own king, Daronos, and raises the Order of the Sacred Flame to hold its walls."

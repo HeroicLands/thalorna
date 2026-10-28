@@ -1,6 +1,6 @@
 ---
 shortcode: khazpirzathcarvedenc
-name: {full: Khazari Pirzath Carved Encoding, aliases: []}
+name: {full: Khazari Pirzath Carved Encoding}
 type: doc
 subType: reference
 data:

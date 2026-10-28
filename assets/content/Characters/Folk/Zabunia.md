@@ -1,6 +1,6 @@
 ---
 shortcode: zabunia2
-name: {full: Zabunia, aliases: []}
+name: {full: Zabunia}
 type: being
 subType: npc
 description: "A rival actress who has begun offering generous patronage and connections to elite audiences, and expects them returned"

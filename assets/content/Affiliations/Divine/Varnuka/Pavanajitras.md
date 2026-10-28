@@ -1,6 +1,6 @@
 ---
 shortcode: pavanajitras
-name: {full: Pavanajitras, aliases: [The Wandering Wind, The Wind Spirits of the Road]}
+name: {full: The Wandering Wind, en: [The Wind Spirits of the Road], vedy: [pavanajitras]}
 type: affiliation
 subType: faithtradition
 description: "The Wandering Wind, a company of minor wind-spirits who guide travelers, carry merchant-ships before favorable gales, and whisper the road's omens to those who have learned to listen."

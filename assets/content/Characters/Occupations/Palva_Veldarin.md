@@ -1,6 +1,6 @@
 ---
 shortcode: paliavldrn
-name: {full: Palva Véldarin, aliases: []}
+name: {full: Palva Véldarin}
 type: being
 subType: npc
 tags: [draft, common-folk]

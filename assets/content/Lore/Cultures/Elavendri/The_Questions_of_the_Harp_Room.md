@@ -1,6 +1,6 @@
 ---
 shortcode: harproomqs
-name: {full: The Questions of the Harp-Room, aliases: [The Questions of the Degree]}
+name: {full: The Questions of the Harp-Room, en: [The Questions of the Degree]}
 type: lore
 subType: literature
 description: "The questions a College of the basin puts to a student who asks for the degree of Bard, with the fixed answer to each and the sayings of each teaching room, ending on a question the candidate must not answer."
@@ -15,7 +15,7 @@ data:
     - lore-theasking
     - lore-firstcrown
     - affiliation-ordoarcanis
-  language: elvndrlng
+  lang: elav
 
 # terran_analog: "The catechism of a guild or a learned order, with fixed answers learned by rote; the Welsh bardic grammars and triads, which teach a craft in memorable units; the gnomic couplet of Cato's distichs as the medieval schools used them; the riddle-contest that ends on a question with no permitted answer."
 ---

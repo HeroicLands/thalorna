@@ -1,6 +1,6 @@
 ---
 shortcode: qptlulneok
-name: {full: Q’aptel’ul Ne’ok, aliases: []}
+name: {full: Q’aptel’ul Ne’ok}
 type: place
 subType: settlement
 description: "Garrison Town"

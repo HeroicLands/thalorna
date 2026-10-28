@@ -1,6 +1,6 @@
 ---
 shortcode: inthstead
-name: {full: Inthstead, aliases: []}
+name: {full: Inthstead}
 type: place
 subType: site
 description: "A Vithgard border steading remembered for the Burning of Inthstead, where a levy company's tents caught fire with its men inside."

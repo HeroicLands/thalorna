@@ -1,6 +1,6 @@
 ---
 shortcode: velvethand
-name: {full: The Velvet Hand, aliases: []}
+name: {full: The Velvet Hand}
 type: affiliation
 subType: criminal
 description: "Intelligence syndicate trading in secrets—blackmail, espionage, assassination—operating through pleasure houses, theaters, and aristocratic households across the west."

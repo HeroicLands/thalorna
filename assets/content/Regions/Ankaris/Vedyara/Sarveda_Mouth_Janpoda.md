@@ -1,6 +1,6 @@
 ---
 shortcode: srvdmthjnpd
-name: {full: Sarveda Mouth Janpoda, aliases: []}
+name: {full: Sarveda Mouth Janpoda}
 type: affiliation
 subType: polity
 description: "The janpoda at the mouth of the Sarveda, whose sabhra shares the anchorage dues of Naughat with the temple."

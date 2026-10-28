@@ -1,6 +1,6 @@
 ---
 shortcode: motefnir
-name: {full: Faith of Mótefnir, aliases: [The Unfinished Path]}
+name: {full: Faith of Mótefnir, en: [The Unfinished Path]}
 type: affiliation
 subType: faithtradition
 description: "Craft, Invention and the Made."

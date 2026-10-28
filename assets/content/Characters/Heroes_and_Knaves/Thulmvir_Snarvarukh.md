@@ -1,6 +1,6 @@
 ---
 shortcode: thlmvrsnrvrkh
-name: {full: Thulmvir Snarvaruk, given: Thulmvir, clan: Snarvaruk, aliases: []}
+name: {full: Thulmvir Snarvaruk, given: Thulmvir, clan: Snarvaruk}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]

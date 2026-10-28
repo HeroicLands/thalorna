@@ -1,6 +1,6 @@
 ---
 shortcode: khelenetzu
-name: {full: Khelenet-Zu, aliases: []}
+name: {full: Khelenet-Zu}
 type: place
 subType: settlement
 description: "Selat capital of Khelenet-Zu."

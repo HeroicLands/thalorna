@@ -1,6 +1,6 @@
 ---
 shortcode: lekhur2
-name: {full: Lekhur, aliases: []}
+name: {full: Lekhur}
 type: being
 subType: npc
 description: "A perfumer who attacked a rival in the open and has been living on the consequences since"

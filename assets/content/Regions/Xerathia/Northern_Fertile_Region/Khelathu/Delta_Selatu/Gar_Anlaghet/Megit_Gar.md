@@ -1,6 +1,6 @@
 ---
 shortcode: megitgar
-name: {full: Megit-Gar, aliases: []}
+name: {full: Megit-Gar}
 type: place
 subType: settlement
 description: "Fishing & Victualing Town"

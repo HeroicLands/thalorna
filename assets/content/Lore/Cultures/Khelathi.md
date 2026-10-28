@@ -1,6 +1,6 @@
 ---
 shortcode: khelathiclt
-name: {full: Khelathi, aliases: []}
+name: {full: Khelathi}
 type: lore
 subType: culture
 description: "The Khelathi—their beliefs, their mores, and what they hold a person owes."
@@ -8,7 +8,7 @@ tags: []
 data:
   calendar: lore-khelathclndr
   packFolder: regkhcult
-  language: skill-khelathlng
+  lang: khel
   glossary:
     - name: "elu"
       definition: "Of, upon: the word that joins a body's name to its place"

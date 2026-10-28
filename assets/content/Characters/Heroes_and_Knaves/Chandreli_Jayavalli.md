@@ -1,6 +1,6 @@
 ---
 shortcode: chndrljyvl
-name: {full: Chandreli Jayavalli, given: Chandreli, clan: Jayavalli, aliases: [Chandri]}
+name: {full: Chandreli Jayavalli, given: Chandreli, clan: Jayavalli, vedy: [chandri]}
 type: being
 subType: character
 tags: [heroes-and-knaves, underworld]

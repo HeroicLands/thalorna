@@ -1,6 +1,6 @@
 ---
 shortcode: pirnebris
-name: {full: Pirnebris, aliases: []}
+name: {full: Pirnebris}
 type: place
 subType: settlement
 description: "The cherry town of the eastern uplands above Lake Tiravel—the last market before the Tarvénian passes, whose year is set by the blossom and the campaign season together."

@@ -1,6 +1,6 @@
 ---
 shortcode: youwei
-name: {full: Youbui, aliases: []}
+name: {full: Youbui}
 type: affiliation
 subType: faithtradition
 description: "Legitimacy."

@@ -1,6 +1,6 @@
 ---
 shortcode: kanixhakan
-name: {full: "Ritual: K'anish Ha'kan", aliases: [K'anish Ha'kan, The Golden Giver]}
+name: {full: "Ritual: K'anish Ha'kan", en: [The Golden Giver], kiichek: [K'anish Ha'kan]}
 type: skill
 subType: mystical
 tags: [itzani, faith-skill, draft]

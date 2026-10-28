@@ -1,6 +1,6 @@
 ---
 shortcode: genhen
-name: {full: "Ritual: Genhuen", aliases: [Genhuen, The Minister of Entropy]}
+name: {full: "Ritual: Genhuen", en: [The Minister of Entropy], tant: [Genhuen]}
 type: skill
 subType: mystical
 tags: [tengwou, faith-skill, draft]

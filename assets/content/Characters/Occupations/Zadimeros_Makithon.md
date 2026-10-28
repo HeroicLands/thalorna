@@ -1,6 +1,6 @@
 ---
 shortcode: zdmrsmkthn
-name: {full: Zádimeros Makithon, aliases: []}
+name: {full: Zádimeros Makithon}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]

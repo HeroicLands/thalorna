@@ -1,6 +1,6 @@
 ---
 shortcode: recensio
-name: {full: The Therona of Alessa, aliases: [The Audit]}
+name: {full: The Therona of Alessa, en: [The Audit]}
 type: lore
 subType: history
 description: "In 75 BF the Kandral assembles every registered practitioner in the Republic and their working-books in one place to be copied into a single register—and in the fourth month there is an unchanneled release."

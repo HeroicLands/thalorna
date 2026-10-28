@@ -1,6 +1,6 @@
 ---
 shortcode: ptnparm
-name: {full: Stillbind, aliases: ["Potion, Paralytic, Mild"]}
+name: {full: Stillbind, en: ["Potion, Paralytic, Mild"]}
 type: concoctiongear
 subType: exotic
 description: "Clear greenish liquid; paralyzes and immobilizes drinker temporarily."

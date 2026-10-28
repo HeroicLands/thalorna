@@ -1,6 +1,6 @@
 ---
 shortcode: skaldrnk
-name: {full: "Skald", aliases: []}
+name: {full: Skald}
 type: lore
 subType: law
 description: "Sworn keeper of a hall's record, entitled to food, shelter and safe passage at any hall, in the Skalds' Circle."

@@ -1,6 +1,6 @@
 ---
 shortcode: lintayet2
-name: {full: Lintayet, aliases: []}
+name: {full: Lintayet}
 type: being
 subType: npc
 description: "A priestess of Thuba'i, who reads the river's rise and is believed when she says what the year will bring"

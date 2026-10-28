@@ -1,6 +1,6 @@
 ---
 shortcode: mrchntcnsrtchr
-name: {full: Merchant Consortia of Krisamar, aliases: []}
+name: {full: Merchant Consortia of Krisamar}
 type: affiliation
 subType: polity
 description: "The merchant consortia whose warehouses line the harbor of Krisamar and who operate independently of the strict governance of the League's larger cities."

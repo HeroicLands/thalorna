@@ -1,12 +1,12 @@
 ---
 shortcode: hvarnclt
-name: {full: Hvarn, aliases: []}
+name: {full: Hvarn}
 type: lore
 subType: culture
 description: "The Hvarn—their beliefs, their mores, and what they hold a person owes."
 tags: []
 data:
-  language: skill-hvarnlng
+  lang: hvar
   glossary:
     - name: "Fort-carrier"
       definition: "Holder of the contract that feeds the Sangha-fort, and the one Hvarn who deals with lowland officers"

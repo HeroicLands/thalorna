@@ -1,6 +1,6 @@
 ---
 shortcode: nilaratlgn
-name: {full: Nilara Tolgen, aliases: []}
+name: {full: Nilara Tolgen}
 type: being
 subType: npc
 tags: [draft, soldiery]

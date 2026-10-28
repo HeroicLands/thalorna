@@ -1,6 +1,6 @@
 ---
 shortcode: zarvashkaver
-name: {full: Zarvash Kaveran, aliases: [Tribal Elder Zarvash Kaveran, Tribal Elder Zarvash]}
+name: {full: Zarvash Kaveran, en: [Tribal Elder Zarvash Kaveran, Tribal Elder Zarvash]}
 type: being
 subType: npc
 description: A pure-blood Dunhari tribal leader who views the fortress's advancement by merit as a threat to tradition, named in Delanash Ferudan.

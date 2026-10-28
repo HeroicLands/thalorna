@@ -1,6 +1,6 @@
 ---
 shortcode: sacredforge
-name: {full: The Sacred Forge, aliases: [Ústaran Orthodox]}
+name: {full: The Sacred Forge, en: [Ústaran Orthodox]}
 type: affiliation
 subType: faithtradition
 description: "Fire (creative aspect)."

@@ -1,6 +1,6 @@
 ---
 shortcode: suryagarha
-name: {full: Suryagarha, aliases: []}
+name: {full: Suryagarha}
 type: place
 subType: settlement
 description: "The fortress-capital of Shikhalaya, built across the throat of Suryadvar—citadel, customs-house and caravanserai, full for two months of the year and garrisoned for twelve."

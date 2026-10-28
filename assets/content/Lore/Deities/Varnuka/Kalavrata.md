@@ -1,6 +1,6 @@
 ---
 shortcode: kalavratadty
-name: {full: Kalavrata, aliases: []}
+name: {full: Kalavrata}
 type: lore
 subType: deity
 description: "The Gatekeeper of Death in the Varnuka pantheon, who receives the soul at the end of an incarnation and sets it on the next."

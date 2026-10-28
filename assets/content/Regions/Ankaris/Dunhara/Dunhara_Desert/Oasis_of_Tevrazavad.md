@@ -1,6 +1,6 @@
 ---
 shortcode: oasistvrzvd
-name: {full: Oasis of Tevrazavad, aliases: []}
+name: {full: Oasis of Tevrazavad}
 type: place
 subType: settlement
 description: "A small oasis whose spring has never failed, the summer seat of the chieftain Torvash Shiradar's tribe."

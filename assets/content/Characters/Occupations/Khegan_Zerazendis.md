@@ -1,6 +1,6 @@
 ---
 shortcode: chgnzrznds
-name: {full: Kegan Zerazendis, aliases: []}
+name: {full: Kegan Zerazendis}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

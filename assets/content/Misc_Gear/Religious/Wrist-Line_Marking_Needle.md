@@ -1,6 +1,6 @@
 ---
 shortcode: wristneedle
-name: {full: Wrist-Line Marking Needle, aliases: []}
+name: {full: Wrist-Line Marking Needle}
 type: miscgear
 description: "The temple's own naming instrument; cuts the two signs of tarona and kulpa into an eight-day-old child's left wrist."
 tags: []

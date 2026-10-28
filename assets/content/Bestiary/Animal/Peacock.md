@@ -1,6 +1,6 @@
 ---
 shortcode: peacock
-name: {full: Peacock, aliases: [Peafowl]}
+name: {full: Peacock, en: [Peafowl]}
 type: being
 subType: creature
 description: "A spectacular southern bird whose iridescent male unfurls a seven-foot train of elongated tail coverts in the most dazzling display in the world."

@@ -1,6 +1,6 @@
 ---
 shortcode: chenosolis
-name: {full: Chenosolis, aliases: []}
+name: {full: Chenosolis}
 type: place
 subType: feature
 description: "Highlands of Au'Khelathu whose mountain shrine keeps the oldest records of the empire's astrologers."

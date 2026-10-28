@@ -1,6 +1,6 @@
 ---
 shortcode: childfaithrnk
-name: {full: Child of the Faith, aliases: [Water-Marked]}
+name: {full: Child of the Faith, en: [Water-Marked]}
 type: lore
 subType: law
 description: "Consecrated to a faith at birth and counted among its faithful before reaching an age to keep its duties."

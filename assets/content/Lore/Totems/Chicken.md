@@ -1,6 +1,6 @@
 ---
 shortcode: chickenttm
-name: {full: Chicken, aliases: [Chicken Totem]}
+name: {full: Chicken, en: [Chicken Totem]}
 type: lore
 subType: bestiary
 description: "The chicken as a totemic ideal, and the human character it describes."

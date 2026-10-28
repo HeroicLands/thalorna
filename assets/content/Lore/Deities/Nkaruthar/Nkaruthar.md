@@ -1,6 +1,6 @@
 ---
 shortcode: nkaruthardty
-name: {full: Nkaru'thar, aliases: []}
+name: {full: Nkaru'thar}
 type: lore
 subType: deity
 description: "The Eternal Flame of the Okharik faith—one god holding creation, destruction, and renewal in three interlocking flames."

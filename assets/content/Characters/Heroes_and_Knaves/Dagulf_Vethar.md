@@ -1,6 +1,6 @@
 ---
 shortcode: dagulfvthr
-name: {full: Dagbán yra Vethar wur Thrareth, given: Dagbán, clan: Vethar, aliases: []}
+name: {full: Dagbán yra Vethar wur Thrareth, given: Dagbán, clan: Vethar}
 type: being
 subType: character
 tags: [blackpine-wolves, brigand, serf, vrystwald, underworld]

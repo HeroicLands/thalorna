@@ -1,6 +1,6 @@
 ---
 shortcode: khelathuadvguide
-name: {full: Au'Khelathu Adventurer's Guide, aliases: []}
+name: {full: Au'Khelathu Adventurer's Guide}
 type: doc
 subType: settingguide
 description: A player and GM introduction to the river empire of Au'Khelathu—its flood, its writing, its gods, and the ways a campaign begins there.

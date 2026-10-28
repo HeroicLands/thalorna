@@ -1,6 +1,6 @@
 ---
 shortcode: wansouzhuo
-name: {full: "Ritual: Wansou Zhuo", aliases: [Wansou Zhuo, The Chief Auditor of Souls]}
+name: {full: "Ritual: Wansou Zhuo", en: [The Chief Auditor of Souls], tant: [Wansou Zhuo]}
 type: skill
 subType: mystical
 tags: [tengwou, faith-skill, draft]

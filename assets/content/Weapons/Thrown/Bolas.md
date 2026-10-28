@@ -1,6 +1,6 @@
 ---
 shortcode: bola
-name: {full: Bolas, aliases: []}
+name: {full: Bolas}
 type: weapongear
 description: "Weighted cord-balls entangle and trip; herder's disabled-cavalry tool."
 tags: []

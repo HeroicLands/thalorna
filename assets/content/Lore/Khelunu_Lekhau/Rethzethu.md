@@ -1,6 +1,6 @@
 ---
 shortcode: rethzethu
-name: {full: Reth'zethu, aliases: []}
+name: {full: Reth'zethu}
 type: lore
 subType: arcana
 description: "The name set down: speech, writing, true names, knowledge, memory, mind."

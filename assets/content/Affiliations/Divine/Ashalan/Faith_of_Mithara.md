@@ -1,8 +1,6 @@
 ---
 shortcode: mizhara
-name:
-  full: Faith of Míthara
-  aliases: [The World's First Light, "Míthara, The World's First Light"]
+name: {full: Faith of Míthara, en: [The World's First Light, "Míthara, The World's First Light"]}
 type: affiliation
 subType: faithtradition
 description: "Creation, Renewal, Cosmic Life, Artisanship."

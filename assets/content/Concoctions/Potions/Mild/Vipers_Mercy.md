@@ -1,6 +1,6 @@
 ---
 shortcode: ptnantvm
-name: {full: "Viper's Mercy", aliases: ["Potion, Antivenin, Mild"]}
+name: {full: Viper's Mercy, en: ["Potion, Antivenin, Mild"]}
 type: concoctiongear
 subType: exotic
 description: "Murky greenish-brown draft; counteracts poison and venom damage."

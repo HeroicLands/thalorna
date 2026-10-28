@@ -1,6 +1,6 @@
 ---
 shortcode: hersvaldrnk
-name: {full: "Hersvald", aliases: []}
+name: {full: Hersvald}
 type: lore
 subType: law
 description: "The clan's own head, leading a district's men in war and speaking for them in peace by their consent, in the five kingdoms and the Jarldom of Stormveld."

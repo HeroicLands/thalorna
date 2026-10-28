@@ -1,6 +1,6 @@
 ---
 shortcode: ngorashavlg
-name: {full: Ngorasha Village, aliases: []}
+name: {full: Ngorasha Village}
 type: place
 subType: settlement
 description: "Fishing village of the Ngorasha tribe on a river of Okharis."

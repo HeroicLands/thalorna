@@ -1,6 +1,6 @@
 ---
 shortcode: thefnutiltgr
-name: {full: Thefnuti Let'Gerau, given: Thefnuti, clan: Let'Gerau, aliases: []}
+name: {full: Thefnuti Let'Gerau, given: Thefnuti, clan: Let'Gerau}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]

@@ -1,6 +1,6 @@
 ---
 shortcode: goddreams
-name: {full: The God of Dreams, aliases: [Aulveira, Lubát, Bjart, Zunelas]}
+name: {full: The God of Dreams, en: [Zunelas], khaz: [lubát], nord: [bjart], sina: [aulveira]}
 type: lore
 subType: deity
 tags: [deity, elder-races, sinale, khazari, dreams, light]

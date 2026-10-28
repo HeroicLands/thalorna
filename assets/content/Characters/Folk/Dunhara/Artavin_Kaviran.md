@@ -1,6 +1,6 @@
 ---
 shortcode: artavinkavir
-name: {full: Artavin Kaviran, aliases: [Father Artavin]}
+name: {full: Artavin Kaviran, en: [Father Artavin]}
 type: being
 subType: npc
 description: The elderly priest of the Míthara Temple who recognized a spiritual dimension in the work of Darzash Shavan.

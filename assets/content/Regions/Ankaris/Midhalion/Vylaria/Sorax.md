@@ -1,6 +1,6 @@
 ---
 shortcode: skoraz
-name: {full: Soraks, aliases: []}
+name: {full: Soraks}
 type: place
 subType: settlement
 description: "One of the lesser cities of the Vylarian Empire, seat of a provincial administration and of old houses like the fallen Zarkedis."

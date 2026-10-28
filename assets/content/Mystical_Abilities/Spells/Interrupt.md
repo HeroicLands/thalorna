@@ -1,6 +1,6 @@
 ---
 shortcode: intrrpt
-name: {full: Interrupt, aliases: []}
+name: {full: Interrupt}
 type: mysticalability
 subType: arcaneincantation
 description: "Dissonant lance disrupting rival's spell mid-casting; scatters gathered power."

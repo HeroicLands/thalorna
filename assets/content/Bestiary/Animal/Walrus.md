@@ -1,6 +1,6 @@
 ---
 shortcode: walrus
-name: {full: Walrus, aliases: []}
+name: {full: Walrus}
 type: being
 subType: creature
 description: "An immense, tusked pinniped weighing up to three thousand pounds, hauling out in aggressive colonies on northern rocky shores and ice floes."

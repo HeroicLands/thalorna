@@ -1,6 +1,6 @@
 ---
 shortcode: bourax
-name: {full: Dolveras, aliases: []}
+name: {full: Dolveras}
 type: mystery
 subType: birthsign
 description: "The Ox: patient hands for field and workbench, slow of body, deaf to mysteries."

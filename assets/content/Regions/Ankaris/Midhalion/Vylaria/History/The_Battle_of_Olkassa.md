@@ -1,6 +1,6 @@
 ---
 shortcode: olcassabtl
-name: {full: The Battle of Olkassa, aliases: [Olkassa, The Field of Both Eagles]}
+name: {full: The Battle of Olkassa, en: [The Field of Both Eagles], vyl: [Olkassa]}
 type: lore
 subType: history
 description: "About 401 AF the Senate's army and the Moktur legions meet on the Olkassa estate in Hilen, legions fighting legions under the same eagle with no quarter given; Makandas wins the field and loses half his army on it."

@@ -1,6 +1,6 @@
 ---
 shortcode: aelwyth
-name: {full: Aelwyth, aliases: [The Misty Isle]}
+name: {full: Aelwyth, en: [The Misty Isle]}
 type: place
 subType: region
 description: "Great island off Élavendre's western coast—deeply legendary. The Peshtar Wilderness occupies the west, the kingdom-belt the east, joined at the misty north."

@@ -1,6 +1,6 @@
 ---
 shortcode: budeq
-name: {full: Budaq, aliases: [The Road-Vulture]}
+name: {full: Budaq, en: [The Road-Vulture]}
 type: being
 subType: creature
 description: "A carrion bird of nine-foot wingspan that follows a caravan for days and settles on the weakest beast, giving the strings their omens."

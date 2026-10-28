@@ -1,6 +1,6 @@
 ---
 shortcode: eaglettm
-name: {full: Eagle, aliases: [Eagle Totem]}
+name: {full: Eagle, en: [Eagle Totem]}
 type: lore
 subType: bestiary
 description: "The eagle as a totemic ideal, and the human character it describes."

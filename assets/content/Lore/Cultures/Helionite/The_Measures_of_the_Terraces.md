@@ -1,6 +1,6 @@
 ---
 shortcode: terracemsrs
-name: {full: The Measures of the Terraces, aliases: [The Measures]}
+name: {full: The Measures of the Terraces, en: [The Measures]}
 type: lore
 subType: literature
 description: "The highland poet Órasis's poem to his brother: the Unmeasured before the world, the Twelve's first assembly and the eleven stones cast for measure, the stone the Wild Beast threw that is falling still, the threads of mortals spun last and given a length and a voice, and then the year of the olive terrace, the wall, the press and the sailing season, ending on a question about the world's end that the poet declines to answer."
@@ -18,7 +18,7 @@ data:
     - lore-morvanadty
     - affiliation-arldnpnthn
     - lore-helioniteclt
-  language: helonclng
+  lang: helo
 
 # terran_analog: "Hesiod's Theogony and Works and Days, for the farmer-poet of the hill country who tells how the gods came to be and then turns to a brother who wasted his inheritance at law, with the farming year, the sailing season and the lucky days; the Presocratics' question of what came before measure; and the Athenian vote with pebbles cast into an urn."
 ---

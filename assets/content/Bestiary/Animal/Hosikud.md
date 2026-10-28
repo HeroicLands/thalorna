@@ -1,6 +1,6 @@
 ---
 shortcode: hosikud
-name: {full: Khoshikud, aliases: [The Pit-Maker]}
+name: {full: Khoshikud, en: [The Pit-Maker]}
 type: being
 subType: creature
 description: "A five-foot burrower that digs a funnel trap in the lee of a dune and drags into the sand whatever slides down, camels included."

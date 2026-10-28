@@ -1,6 +1,6 @@
 ---
 shortcode: foxttm
-name: {full: Fox, aliases: [Fox Totem]}
+name: {full: Fox, en: [Fox Totem]}
 type: lore
 subType: bestiary
 description: "The fox as a totemic ideal, and the human character it describes."

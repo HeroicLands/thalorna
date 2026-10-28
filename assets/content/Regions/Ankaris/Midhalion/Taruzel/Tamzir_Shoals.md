@@ -1,6 +1,6 @@
 ---
 shortcode: tamzirshoals
-name: {full: Tamzir Shoals, aliases: []}
+name: {full: Tamzir Shoals}
 type: place
 subType: feature
 description: "A maze of sandbars, submerged rocks and hard currents in the Taruzelian archipelago, where a makeshift Taruzelian fleet destroyed a Vylarian squadron and won the war of independence."

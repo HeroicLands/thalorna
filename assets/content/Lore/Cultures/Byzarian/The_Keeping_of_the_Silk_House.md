@@ -1,6 +1,6 @@
 ---
 shortcode: silkkeeping
-name: {full: The Keeping of the Silk House, aliases: [The Lament of Ruzhveleze]}
+name: {full: The Keeping of the Silk House, en: [The Lament of Ruzhveleze]}
 type: lore
 subType: literature
 description: "The lament a widow of Krusteikhos sang at her house's chamber in Nikhtion on the morning she renewed its keeping for the last time: the dead of the silk house read from the lintel, her husband's account, a daughter's and a drowned son's with no body in the niche, the house's name ending with her, and the apprentice she named before the keeper as heir to the keeping."
@@ -10,7 +10,7 @@ data:
   packFolder: settinglore
   form: lament
   subjects: [place-nykhtion, lore-selmorosdty, lore-byzarianclt, affiliation-nesthiros]
-  language: byzarnlng
+  lang: biza
 
 # terran_analog: "The Greek moirologia, women's laments that address the dead and argue with Death; Byzantine funerary epigram and the endowment of a family's commemoration in perpetuity; and the merchant's testament that settles every account by name."
 ---

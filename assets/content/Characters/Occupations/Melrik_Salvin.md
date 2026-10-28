@@ -1,6 +1,6 @@
 ---
 shortcode: belrkflwyn
-name: {full: Melrik Salvin, aliases: []}
+name: {full: Melrik Salvin}
 type: being
 subType: npc
 tags: [draft, guilded, mages]

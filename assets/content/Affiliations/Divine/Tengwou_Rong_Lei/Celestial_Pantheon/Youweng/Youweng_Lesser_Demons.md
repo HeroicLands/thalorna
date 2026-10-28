@@ -1,8 +1,6 @@
 ---
 shortcode: youwenglsrdmns
-name:
-  full: Youweng Lesser Demons
-  aliases: [The Youweng, The Demon-Swarm, The Infernal Functionaries]
+name: {full: Youweng Lesser Demons, en: [The Youweng, The Demon-Swarm, The Infernal Functionaries]}
 type: affiliation
 subType: faithtradition
 tags: [youweng, celestial-order, demon]

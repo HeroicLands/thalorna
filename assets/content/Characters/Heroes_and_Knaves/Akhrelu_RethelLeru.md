@@ -1,6 +1,6 @@
 ---
 shortcode: akhrelrthllr
-name: {full: Akhrelu Reth'el'Leru, given: Akhrelu, clan: Reth'el'Leru, aliases: []}
+name: {full: Akhrelu Reth'el'Leru, given: Akhrelu, clan: Reth'el'Leru}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]

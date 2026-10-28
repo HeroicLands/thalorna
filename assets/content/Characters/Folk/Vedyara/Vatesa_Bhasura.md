@@ -1,6 +1,6 @@
 ---
 shortcode: vatesabhasur
-name: {full: Vatesa Bhasura, aliases: [Priest Vatesa]}
+name: {full: Vatesa Bhasura, en: [Priest Vatesa]}
 type: being
 subType: npc
 description: A high-ranking priest of the Temple of Ashkanti, offended by one of the performances of Vishali Balarnaya.

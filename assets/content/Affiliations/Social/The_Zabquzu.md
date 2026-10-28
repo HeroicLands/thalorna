@@ -1,6 +1,6 @@
 ---
 shortcode: zabquzu
-name: {full: The Zab'kuzu, aliases: [The Dishonorable Order]}
+name: {full: The Zab'kuzu, en: [The Dishonorable Order]}
 type: affiliation
 subType: fellowship
 description: Those stripped of standing for conduct the military could not overlook, who keep their own company because no other will have them

@@ -46,6 +46,7 @@ key in frontmatter, and prose is never parsed for it.
 | A word that a tongue's model language writes whole is replaced                                                                | `SOURCES` in `utils/earth-words.mjs`                              | `npm run lint:earth-words`                                                                                            |
 | A word a passage uses is in the language's lexicon first                                                                      | `data.words` in the language note                                 | `package-build lint`, on every mapped run                                                                             |
 | A name a passage uses is in the language's register first                                                                     | `data.register` in the language note                              | `package-build lint`, on every mapped run                                                                             |
+| A note lists its other names under the code of their language, and states or derives its language as `data.lang`              | `name` and `data.lang` in the note                                | `package-build lint`                                                                                                  |
 | A text is marked by what it is: `lang=` its language, `font=` its face, `map=` the rewrite into a script                      | The attribute block of a span, a `:::` block or a fence           | `package-build lint`, the site, the Foundry compile and the book                                                      |
 | A script has a common mapping note; Aelwythi also has its own orthographic mapping                                            | `assets/content/Lore/Scripts/`                                    | `package-build lint`                                                                                                  |
 | A mark that changes nothing is left out                                                                                       | Every script and mapping                                          | The author                                                                                                            |
@@ -753,6 +754,41 @@ register:
   collisions and readability.
 - **A name is not a word in prose.** A proper name in the setting's prose is
   marked and linked as described in `CONTRIBUTING.md`, "Names in prose".
+
+### 7.1 A note's names by language
+
+The register lists the names a language gives; a note lists its own names. A
+note's `name.full` is its English name, and every other name it goes by is
+listed under the code of its language, the code `package-build.config.yaml`
+`languages:` maps to that language's note, or `en`:
+
+```yaml
+name: { full: Turquoise People, kiichek: [Ishtem Tsul], teyu: [teyumi] }
+```
+
+- **The first form under a code** is that language's standard form.
+- **`en` never repeats `full`**, which already counts as English.
+- **A caseless language's forms are lowercase**: Tenlaya, Khelathi, Nordmal and
+  every other tongue whose `data.roman` holds no capital letter.
+- **A people** gives its English name as `full`, its own name first under its own
+  code, and another people's name for it, an exonym, under that people's code.
+  A name a note carries this way needs no `exonym:<tongue>` or `translation`
+  row in the register.
+- **Names match whatever their case**, so `[tenlaya]{.name}` names the note whose
+  forms hold _tenlaya_.
+
+### 7.2 A note's language
+
+Every note is in one language, its `data.lang`: a code from `languages:` or
+`en`, never an address. A culture note states it, and every being, affiliation
+and place of that culture takes it. A note that states none takes its culture's
+language, then its `parents`' language, nearest first, then `en`. State
+`data.lang` wherever that derivation gives the wrong tongue:
+
+```yaml
+data: { culture: tenlayaclt } # the note is in Tenlaya
+data: { lang: kiichek } # a note in Ki'i'chek whatever its region speaks
+```
 
 ## 8. Scripts, fonts and mappings
 

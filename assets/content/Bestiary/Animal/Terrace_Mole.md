@@ -1,6 +1,6 @@
 ---
 shortcode: trrcml
-name: {full: Terrace Mole, aliases: [Manulua]}
+name: {full: Terrace Mole, kali: [Manulua]}
 type: being
 subType: creature
 description: "A dog-sized burrower with broad forelimbs and soft grey fur that works the terrace banks by night, and whose tunnels carry water through the terrace walls."

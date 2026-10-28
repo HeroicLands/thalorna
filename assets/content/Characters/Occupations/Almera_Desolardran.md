@@ -1,6 +1,6 @@
 ---
 shortcode: almrdslrdrn
-name: {full: Álmera Desolardran, aliases: []}
+name: {full: Álmera Desolardran}
 type: being
 subType: npc
 tags: [draft, soldiery]

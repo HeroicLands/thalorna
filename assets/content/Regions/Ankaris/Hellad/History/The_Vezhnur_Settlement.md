@@ -1,6 +1,6 @@
 ---
 shortcode: heladvezhnur
-name: {full: The Vezhnur Settlement, aliases: [The Cohort in the Passes]}
+name: {full: The Vezhnur Settlement, en: [The Cohort in the Passes]}
 type: lore
 subType: history
 description: "About 226 AF, six years after the Ústaran Schism, a cohort whose officers have gone over to the Black Flame is settled on the high passes above Órashion as frontier colonists under its centurion Vezhnurikos by an Orzas who will not proscribe the faith, marries into the pass villages and is never recalled."

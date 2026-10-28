@@ -1,6 +1,6 @@
 ---
 shortcode: ornethe
-name: {full: Ornethe, aliases: []}
+name: {full: Ornethe}
 type: place
 subType: settlement
 description: "The harbor capital of Galvaren, a fog-bound fishing port on the western coast where shipmasters sit on the royal council and the old stories are taken seriously."

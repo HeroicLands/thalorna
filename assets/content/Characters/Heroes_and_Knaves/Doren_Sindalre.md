@@ -1,6 +1,6 @@
 ---
 shortcode: dornsyndlr
-name: {full: Doren Sindalre, given: Doren, clan: Sindalre, aliases: []}
+name: {full: Doren Sindalre, given: Doren, clan: Sindalre}
 type: being
 subType: character
 tags: [hero, silent-talon, unguilded, soldiery]

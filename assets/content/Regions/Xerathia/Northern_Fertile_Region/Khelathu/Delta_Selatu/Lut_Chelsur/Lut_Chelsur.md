@@ -1,6 +1,6 @@
 ---
 shortcode: lutchelsur
-name: {full: Lut-Chelsur, aliases: []}
+name: {full: Lut-Chelsur}
 type: place
 subType: settlement
 description: "Selat capital of Lut-Chelsur."

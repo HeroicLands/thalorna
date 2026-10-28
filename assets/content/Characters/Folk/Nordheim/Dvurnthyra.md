@@ -1,6 +1,6 @@
 ---
 shortcode: dvurnthyra
-name: {full: Dvurnthira, aliases: [Lady Dvurnthira]}
+name: {full: Dvurnthira, en: [Lady Dvurnthira]}
 type: being
 subType: npc
 description: A scholar and collector of traditional wisdom, of the Archives, who travels Malagna documenting dying crafts, named in Hliskthann Veturdómur.

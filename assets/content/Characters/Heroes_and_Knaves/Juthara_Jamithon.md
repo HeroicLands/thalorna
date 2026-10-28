@@ -1,6 +1,6 @@
 ---
 shortcode: juthrjmthn
-name: {full: Júthara Jamithon, given: Júthara, clan: Jamithon, aliases: []}
+name: {full: Júthara Jamithon, given: Júthara, clan: Jamithon}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]

@@ -1,6 +1,6 @@
 ---
 shortcode: zekhenti2
-name: {full: Zekhenti, aliases: []}
+name: {full: Zekhenti}
 type: being
 subType: npc
 description: "A wealthy trader in arms, who supplies the guard units and asks few questions about where the rest goes"

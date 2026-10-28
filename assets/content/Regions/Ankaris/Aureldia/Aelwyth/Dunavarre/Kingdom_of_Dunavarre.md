@@ -1,6 +1,6 @@
 ---
 shortcode: kingdmdnvr
-name: {full: Kingdom of Dúnavarre, aliases: []}
+name: {full: Kingdom of Dúnavarre}
 type: affiliation
 subType: polity
 description: "Island kingdom of Aelwyth ruled directly by a synod of Thordimalon mages—unique on Ankaris as the only polity where the Arcane Order holds direct political power."

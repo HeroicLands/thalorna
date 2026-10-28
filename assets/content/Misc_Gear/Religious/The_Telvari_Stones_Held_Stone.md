@@ -1,6 +1,6 @@
 ---
 shortcode: telvaristoneheld
-name: {full: "The Telvari Stone's Held Stone", aliases: []}
+name: {full: The Telvari Stone's Held Stone}
 type: miscgear
 description: "A living held stone of the Telvari Stone, lifted out of the keeping of the pilots' households while its work still works."
 tags: [kaan-sul, kalihara]

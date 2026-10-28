@@ -1,6 +1,6 @@
 ---
 shortcode: hlykngdmnrtm
-name: {full: Holy Kingdom of Nartun, aliases: []}
+name: {full: Holy Kingdom of Nartun}
 type: affiliation
 subType: polity
 description: "Independent theocratic kingdom, seat of the Holy Mother and center of ecclesiastical power—a sanctuary city where the sacred and secular intertwine under priestly rule."

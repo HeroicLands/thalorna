@@ -1,6 +1,6 @@
 ---
 shortcode: thorgila
-name: {full: Thórgila, aliases: []}
+name: {full: Thórgila}
 type: place
 subType: settlement
 description: "Hill Town"

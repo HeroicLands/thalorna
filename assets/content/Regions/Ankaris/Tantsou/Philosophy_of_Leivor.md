@@ -1,6 +1,6 @@
 ---
 shortcode: phlsphyleiwo
-name: {full: Philosophy of Leiwo, aliases: []}
+name: {full: Philosophy of Leiwo}
 type: lore
 subType: cosmology
 description: "Leiwo, the Way of Lei—the Tantsou theory of the energy that keeps the sorted world sorted, its two flows and seven domains, and how it shapes magic, medicine, government and daily practice."

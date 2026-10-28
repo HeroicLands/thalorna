@@ -1,6 +1,6 @@
 ---
 shortcode: hanalxilanrgn
-name: {full: Ha'nal Shi'lan Region, aliases: []}
+name: {full: Ha'nal Shi'lan Region}
 type: place
 subType: region
 description: "Fertile river valleys, bottomlands and hardwood forest—the frontier the Maple People and the One Fire both claim, in Northern Ki'ich'chik."

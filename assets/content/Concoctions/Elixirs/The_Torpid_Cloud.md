@@ -1,6 +1,6 @@
 ---
 shortcode: elxwkn
-name: {full: The Torpid Cloud, aliases: [Weakness Elixir]}
+name: {full: The Torpid Cloud, en: [Weakness Elixir]}
 type: concoctiongear
 subType: elixir
 description: "Sickly pale fluid; weakens drinker, reducing physical and mental."

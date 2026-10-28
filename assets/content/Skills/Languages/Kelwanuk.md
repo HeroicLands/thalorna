@@ -1,6 +1,6 @@
 ---
 shortcode: kelwanuklng
-name: {full: Kelwanuk Language, aliases: []}
+name: {full: Kelwanuk Language}
 type: skill
 subType: language
 description: "The unwritten tongue of the Cedar People of the western coast: long, clustered words full of k, kw and ts, built up from short roots, spoken in the plank houses from the fjords to the outer beaches."
@@ -5760,12 +5760,7 @@ data:
     - {tag: "exonym:<tongue>", meaning: "a name another people gives, in the tongue named"}
   register:
     - {name: kelwanuk, tongue: kelwanuk, built: [kelwa, -anuk]}
-    - {name: Cedar People, tongue: translation}
-    - {name: "Ish'bal Ki'ahk", tongue: "exonym:kiichek"}
-    - {name: Kelwanuk Language, tongue: translation}
-    - {name: Kelwanuk Region, tongue: translation}
     - {name: tsilkasis, tongue: kelwanuk, built: [tsilkas, -is]}
-    - {name: Eagle Beach, tongue: translation}
     - {name: malkisis, tongue: kelwanuk, built: [malkis, -is]}
     - {name: Orca Beach, tongue: translation}
     - {name: tsilkas, tongue: kelwanuk, built: [tsilkas]}

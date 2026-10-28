@@ -1,6 +1,6 @@
 ---
 shortcode: ptnaphrm
-name: {full: "Lover's Flush", aliases: ["Potion, Aphrodisiac, Mild"]}
+name: {full: Lover's Flush, en: ["Potion, Aphrodisiac, Mild"]}
 type: concoctiongear
 subType: exotic
 description: "Reddish tincture with gold flecks; grants amorous attraction."

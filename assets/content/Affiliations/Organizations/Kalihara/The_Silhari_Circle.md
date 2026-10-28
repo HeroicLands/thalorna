@@ -1,6 +1,6 @@
 ---
 shortcode: silharicircle
-name: {full: The Sílhari Circle, aliases: [The Circle of Clear Looking]}
+name: {full: The Sílhari Circle, en: [The Circle of Clear Looking]}
 type: affiliation
 subType: fellowship
 description: "A fellowship of Ithakan custodians and a few Elders who hold that kaan'vaar has failed, and that the principles behind the procedures must be sought abroad if the island cannot supply them."

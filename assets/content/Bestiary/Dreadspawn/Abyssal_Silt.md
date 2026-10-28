@@ -1,6 +1,6 @@
 ---
 shortcode: abysslsl
-name: {full: Abyssal Silt, aliases: []}
+name: {full: Abyssal Silt}
 type: being
 subType: creature
 description: "A predatory ooze from toxic marshes and deep caverns that lurks camouflaged in stagnant darkness, hungering with unnatural cunning."

@@ -1,13 +1,13 @@
 ---
 shortcode: byzarianclt
-name: {full: Bizarian, aliases: []}
+name: {full: Bizarian}
 type: lore
 subType: culture
 description: "The Bizarians—their beliefs, their mores, and what they hold a person owes."
 tags: []
 data:
   calendar: lore-helladcal
-  language: skill-byzarnlng
+  lang: biza
   glossary:
     - name: "First of the Council"
       definition: "A city council's presiding officer, elected for a fixed term and holding the city's seal"

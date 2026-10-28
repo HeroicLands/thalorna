@@ -1,6 +1,6 @@
 ---
 shortcode: althrtrvlth
-name: {full: Alethra Torvaleth, aliases: []}
+name: {full: Alethra Torvaleth}
 type: being
 subType: npc
 tags: [todo, draft, clergy]

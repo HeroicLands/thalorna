@@ -1,6 +1,6 @@
 ---
 shortcode: jolrenlvnr
-name: {full: Holren Álvanar, aliases: []}
+name: {full: Holren Álvanar}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

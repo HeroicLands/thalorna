@@ -1,6 +1,6 @@
 ---
 shortcode: cuthwincoldw
-name: {full: Mildwald Koldwik, aliases: [Captain Mildwald Koldwik, Captain Mildwald]}
+name: {full: Mildwald Koldwik, en: [Captain Mildwald Koldwik, Captain Mildwald]}
 type: being
 subType: npc
 description: A southern military commander who has been leading expeditions into Vristwald territory, named in Thornak Bludtusk Barsk.

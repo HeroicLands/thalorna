@@ -1,6 +1,6 @@
 ---
 shortcode: mnsncoat
-name: {full: Quilted Monsoon Coat, aliases: []}
+name: {full: Quilted Monsoon Coat}
 type: armorgear
 description: "Waxed quilted cotton coat worn on coastal patrol duty; light protection that turns rain as well as a blade."
 tags: []

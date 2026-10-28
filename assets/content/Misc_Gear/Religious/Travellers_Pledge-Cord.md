@@ -1,6 +1,6 @@
 ---
 shortcode: pledgecord
-name: {full: "Traveller's Pledge-Cord", aliases: [Pavanajitras Cord]}
+name: {full: Traveller's Pledge-Cord, en: [Pavanajitras Cord]}
 type: miscgear
 description: "A cord knotted at every shrine and threshold on a journey; the Pavanajitras' own devotion, worn by every pilgrim who takes the road."
 tags: []

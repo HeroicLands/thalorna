@@ -1,6 +1,6 @@
 ---
 shortcode: nulthyra
-name: {full: Nulthira, aliases: [Lady Nulthira]}
+name: {full: Nulthira, en: [Lady Nulthira]}
 type: being
 subType: npc
 description: The lady of Wildwood Manor, the seat above Thraldfjord whose forest climbs from the manor to the high ground, named in Gnarthorv Snarvaruk and Wildwood Manor.

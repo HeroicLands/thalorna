@@ -1,6 +1,6 @@
 ---
 shortcode: grukarcomes
-name: {full: The Grukar Come to Aelwyth, aliases: [The Landing in the Holds]}
+name: {full: The Grukar Come to Aelwyth, en: [The Landing in the Holds]}
 type: lore
 subType: history
 description: "About 20 BF a splinter of a northern Grukar tribe crossed to Aelwyth in the holds of trading ships, too few to be noticed, and within a century held the empty third of the island, which they have not left."

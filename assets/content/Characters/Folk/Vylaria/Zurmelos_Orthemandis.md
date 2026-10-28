@@ -1,6 +1,6 @@
 ---
 shortcode: zurmelosorth
-name: {full: Zurmelos Orthemandis, aliases: [Captain Zurmelos]}
+name: {full: Zurmelos Orthemandis, en: [Captain Zurmelos]}
 type: being
 subType: npc
 description: The new senior officer of the capital district guard station, politically ambitious and set on more aggressive enforcement.

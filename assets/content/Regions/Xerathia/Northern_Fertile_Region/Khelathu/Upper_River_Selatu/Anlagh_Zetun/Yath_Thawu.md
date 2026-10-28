@@ -1,6 +1,6 @@
 ---
 shortcode: yaththawu
-name: {full: Yath-Thawu, aliases: []}
+name: {full: Yath-Thawu}
 type: place
 subType: settlement
 description: "A basin village of Anlagh-Zetun, of the dense farm-country that makes the selat one of the empire's granaries"

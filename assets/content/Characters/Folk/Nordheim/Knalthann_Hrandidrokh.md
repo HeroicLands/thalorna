@@ -1,6 +1,6 @@
 ---
 shortcode: knalthannhra
-name: {full: Knalthann Hrandidrok, aliases: [Jarl Knalthann Hrandidrok]}
+name: {full: Knalthann Hrandidrok, en: [Jarl Knalthann Hrandidrok]}
 type: being
 subType: npc
 description: A regional jarl whose lands surround Thilmselda Drekanótt's inn.

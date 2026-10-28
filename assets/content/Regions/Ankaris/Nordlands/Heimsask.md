@@ -1,6 +1,6 @@
 ---
 shortcode: heimsask
-name: {full: Heimsask, aliases: []}
+name: {full: Heimsask}
 type: lore
 subType: theology
 description: "The world-ash joining Asguard and Mannguard, whose fall closes the age."

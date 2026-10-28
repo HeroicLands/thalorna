@@ -1,6 +1,6 @@
 ---
 shortcode: openedgate
-name: {full: The Opened Gate, aliases: []}
+name: {full: The Opened Gate}
 type: mysticalability
 subType: arcaneincantation
 description: "Opens a way through a sealed boundary between the living world and the Zulaten, for a stated interval."

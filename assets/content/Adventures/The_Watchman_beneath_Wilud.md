@@ -1,6 +1,6 @@
 ---
 shortcode: wludwtchmn
-name: {full: The Watchman beneath Vulud, aliases: []}
+name: {full: The Watchman beneath Vulud}
 type: scenario
 subType: adventure
 description: "A sandstorm drives the party into a counting-house of the drowned tower city, where a stone watchman has already met the last treasure hunters and is closing the house for the night."

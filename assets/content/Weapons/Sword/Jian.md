@@ -1,6 +1,6 @@
 ---
 shortcode: jian
-name: {full: Jian, aliases: []}
+name: {full: Jian}
 type: weapongear
 description: "Straight double-edged leaf-point blade; duelist's responsive steel."
 tags: []

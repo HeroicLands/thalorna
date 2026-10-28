@@ -1,6 +1,6 @@
 ---
 shortcode: qisomrktcmp
-name: {full: Qiiso, aliases: [The Central Market-Camp]}
+name: {full: Qiiso, en: [The Central Market-Camp]}
 type: place
 subType: site
 description: "The seasonal market-camp at the heart of the Khazryn, where the Celestial Road meets its southern spur and most of the road's goods change hands."

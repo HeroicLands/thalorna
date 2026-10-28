@@ -1,6 +1,6 @@
 ---
 shortcode: qettelgu
-name: {full: The Qet Telgu, aliases: [The First Occasion, The Founding of Au'Khelathu]}
+name: {full: The Qet Telgu, en: [The First Occasion, The Founding of Au'Khelathu]}
 type: lore
 subType: history
 description: "Around 2110 BF the first Gar-Au unites the river valley under a single crown and Au'Khelathu is founded on its river—the First Occasion, from which Au'Khelathu, Okharis and their neighbors have counted every year since."

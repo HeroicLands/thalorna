@@ -1,6 +1,6 @@
 ---
 shortcode: althseldagla
-name: {full: Althselda Glarvidrok, aliases: [Lady Althselda Glarvidrok]}
+name: {full: Althselda Glarvidrok, en: [Lady Althselda Glarvidrok]}
 type: being
 subType: npc
 description: An explorer who has uncovered a fragment of a poem hinting at the location of a lost city and who seeks the finest tents ever made for an expedition, named in Dvarnvir Hrafansvald and Hulabat.

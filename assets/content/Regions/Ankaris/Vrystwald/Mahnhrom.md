@@ -1,6 +1,6 @@
 ---
 shortcode: mahnhrom
-name: {full: Mahnhrum, aliases: []}
+name: {full: Mahnhrum}
 type: place
 subType: structure
 description: "The kinsmen's mound beside Mahnreth, raised with grave goods and no dead for the Varokh the Grukar took."

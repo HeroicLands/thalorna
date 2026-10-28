@@ -1,6 +1,6 @@
 ---
 shortcode: linzghtkhlth
-name: {full: Lin'Zeghet elu Au'Khelathu, aliases: [The Hunters' Guild of Au'Khelathu]}
+name: {full: Lin'Zeghet elu Au'Khelathu, en: [The Hunters' Guild of Au'Khelathu]}
 type: affiliation
 subType: guild
 description: The chartered guild of the empire's hunters, licensing the taking of game and the handling of dangerous beasts

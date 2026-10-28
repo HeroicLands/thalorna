@@ -1,6 +1,6 @@
 ---
 shortcode: returnedbrth
-name: {full: The Returned Breath, aliases: []}
+name: {full: The Returned Breath}
 type: mysticalability
 subType: arcaneincantation
 description: "Returns the recently dead to life, if the Name and the Form are both entire."

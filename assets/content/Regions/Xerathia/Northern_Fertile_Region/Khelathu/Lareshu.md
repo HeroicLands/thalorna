@@ -1,6 +1,6 @@
 ---
 shortcode: lareshu
-name: {full: Lareshu, aliases: [The Sands of Lareshu]}
+name: {full: Lareshu, en: [The Sands of Lareshu]}
 type: place
 subType: region
 description: "A waste of deep sand beyond the settled country, holding a site the astrologers' road ends at"

@@ -1,6 +1,6 @@
 ---
 shortcode: emynaothrl
-name: {full: Émina Othral, aliases: []}
+name: {full: Émina Othral}
 type: being
 subType: npc
 tags: [draft, administration]

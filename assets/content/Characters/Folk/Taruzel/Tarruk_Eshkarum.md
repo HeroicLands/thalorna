@@ -1,6 +1,6 @@
 ---
 shortcode: tarrukeshkar
-name: {full: Tarruk Eshkarum, aliases: [Magistrate Tarruk Eshkarum, Magistrate Eshkarum]}
+name: {full: Tarruk Eshkarum, en: [Magistrate Tarruk Eshkarum, Magistrate Eshkarum]}
 type: being
 subType: npc
 description: A rising figure in the oligarchic hierarchy of Bazunel who views the neutrality of Yutalush Pushutum as insufficient.

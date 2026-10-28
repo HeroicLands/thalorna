@@ -1,6 +1,6 @@
 ---
 shortcode: thornbury
-name: {full: Thornbury, aliases: []}
+name: {full: Thornbury}
 type: place
 subType: settlement
 description: "The seat of the Republic of Ondareth—where the Senate sits beneath its portico and the republic's offices are bought."

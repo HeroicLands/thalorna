@@ -1,6 +1,6 @@
 ---
 shortcode: delnshfrdn
-name: {full: Delanash Ferudan, aliases: []}
+name: {full: Delanash Ferudan}
 type: being
 subType: npc
 tags: [todo-warrior, draft, soldiery]

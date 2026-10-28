@@ -1,6 +1,6 @@
 ---
 shortcode: scrchbt
-name: {full: Screechbat, aliases: []}
+name: {full: Screechbat}
 type: being
 subType: creature
 description: "A small, pack-coordinated cave predator with an eight-foot wingspan, weaponizing echolocation and sonic screeches to disorient prey before the kill."

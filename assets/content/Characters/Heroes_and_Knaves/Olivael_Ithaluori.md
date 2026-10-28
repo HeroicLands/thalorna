@@ -1,6 +1,6 @@
 ---
 shortcode: olvlthlr
-name: {full: Olivael Ithaluori, given: Olivael, clan: Ithaluori, aliases: []}
+name: {full: Olivael Ithaluori, given: Olivael, clan: Ithaluori}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, mages]

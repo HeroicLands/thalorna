@@ -1,6 +1,6 @@
 ---
 shortcode: kalyanikakal
-name: {full: Kalyanika Kalira, aliases: [Herald Kalyanika the Modernizer, Herald Kalyanika]}
+name: {full: Kalyanika Kalira, en: [Herald Kalyanika the Modernizer, Herald Kalyanika]}
 type: being
 subType: npc
 description: A younger herald of considerable talent who advocates streamlined heraldic processes, named in Madurava Sutrapal.

@@ -1,6 +1,6 @@
 ---
 shortcode: falkholt
-name: {full: Falkholt, aliases: []}
+name: {full: Falkholt}
 type: place
 subType: settlement
 description: "A Varokh village in Falkhaven."

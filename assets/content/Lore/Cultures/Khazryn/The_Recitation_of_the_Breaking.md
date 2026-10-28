@@ -1,6 +1,6 @@
 ---
 shortcode: turemrecital
-name: {full: The Recitation of the Breaking, aliases: [Turemtsemhat]}
+name: {full: The Recitation of the Breaking, telu: [Turemtsemhat]}
 type: lore
 subType: literature
 description: "The fixed text the Tellumi recite at every festival, every court ceremonial and every princely funeral: the Atarzád taken in as guests, the twelve years of the war city by city, the war-house of Zargandur riding out of the north gate, the names not read, the archive burned at Shirvan, and the case kept open, with the tablets cited as evidence and the ending left where the record ends."
@@ -18,7 +18,7 @@ data:
     - affiliation-tribestrzd
     - lore-khazrynclt
     - lore-bloodfield
-  language: khazrilng
+  lang: telu
 ---
 
 **The Recitation of the Breaking**, _Turemtsemhat_, is the fixed text the [[lore-khazrynclt|Tellumi]] recite of [Turem]{.name data-type="lore/history"}, the war in which the [[affiliation-tribestrzd|Atarzád]] took four of their seven cities. It is a _tsemhat_, a recitation: couplets, but plain ones, with no cloth and no reed, spoken standing by the eldest of a house at a princely funeral, by a Delkoshekh on the first day of the five-day festival, and at every formal ceremonial of the exile courts in the [[place-amradadrgn|Amradad Region]], and spoken behind closed doors in the subject quarters of the four held cities, where it names the magistrate's own people. The Tellumi insist that it is not a lament and not a grievance: it is a case being kept open, and its form is the form of a case, each claim followed by the tablet that proves it. A reciter who departs from the words is corrected from the floor.

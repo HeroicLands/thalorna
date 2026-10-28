@@ -1,6 +1,6 @@
 ---
 shortcode: hrafanvar
-name: {full: Hrafanvar, aliases: []}
+name: {full: Hrafanvar}
 type: affiliation
 subType: polity
 description: "A polity of Malagna, under the crown at Gnarthborg."

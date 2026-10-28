@@ -1,6 +1,6 @@
 ---
 shortcode: ormgeir
-name: {full: "Ormgeir", aliases: []}
+name: {full: Ormgeir}
 type: affiliation
 subType: order
 description: "Poison-trained fighters of Velgrímur."

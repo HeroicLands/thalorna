@@ -1,6 +1,6 @@
 ---
 shortcode: hskrrgn
-name: {full: Khoshiqor, aliases: [The Central Sands]}
+name: {full: Khoshiqor, en: [The Central Sands]}
 type: place
 subType: region
 description: "The heart of the Khazryn—more than a thousand miles of sand seas and gravel reaches round a dead lake basin, with the wells of a lost league of tower cities and the market-camp where the road changes hands."

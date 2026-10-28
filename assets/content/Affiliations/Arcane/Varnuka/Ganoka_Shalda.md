@@ -1,6 +1,6 @@
 ---
 shortcode: ganokashalda
-name: {full: Ganoka-shalda, aliases: [The Reckoners' College]}
+name: {full: The Reckoners' College, vedy: [ganoka-shalda]}
 type: affiliation
 subType: arcanetradition
 description: "The reckoners' college at Chendrapur—the calendar, the eclipse, the tide and the Weighing, computed in a notation nobody reads without the syllabary."

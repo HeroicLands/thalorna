@@ -1,6 +1,6 @@
 ---
 shortcode: hringberirnk
-name: {full: "Hringberi", aliases: [Ring-Given]}
+name: {full: Hringberi, en: [Ring-Given]}
 type: lore
 subType: law
 description: "Held in high regard and given a named place for it, in the five kingdoms and the Jarldom of Stormveld."

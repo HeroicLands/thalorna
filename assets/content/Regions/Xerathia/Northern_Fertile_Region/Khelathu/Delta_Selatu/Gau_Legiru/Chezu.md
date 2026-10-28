@@ -1,6 +1,6 @@
 ---
 shortcode: chezu
-name: {full: Chezu, aliases: []}
+name: {full: Chezu}
 type: place
 subType: settlement
 description: "Wine Town"

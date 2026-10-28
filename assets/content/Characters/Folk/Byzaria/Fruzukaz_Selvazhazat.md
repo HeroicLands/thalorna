@@ -1,6 +1,6 @@
 ---
 shortcode: fruzukazselv
-name: {full: Fruzukáz Selvazhazát, aliases: [Cartographer Fruzukáz Selvazhazát]}
+name: {full: Fruzukáz Selvazhazát, en: [Cartographer Fruzukáz Selvazhazát]}
 type: being
 subType: npc
 description: A younger, jealous cartographer who cultivates relationships with the city guard and spreads insinuations against Damáklios, named in Damáklios Bridutis and The Cartographers' Guild of the Bizarian League.

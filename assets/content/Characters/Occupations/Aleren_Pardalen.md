@@ -1,6 +1,6 @@
 ---
 shortcode: alernprdln
-name: {full: Áleren Párdalen, aliases: []}
+name: {full: Áleren Párdalen}
 type: being
 subType: npc
 tags: [draft, clergy]

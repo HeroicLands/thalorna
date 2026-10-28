@@ -1,6 +1,6 @@
 ---
 shortcode: tangle
-name: {full: Tangle, aliases: []}
+name: {full: Tangle}
 type: mysticalability
 subType: arcaneincantation
 description: "Entangles target with bonds; creates magical webbing."

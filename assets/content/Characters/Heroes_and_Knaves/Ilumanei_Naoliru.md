@@ -1,6 +1,6 @@
 ---
 shortcode: ilmnnlr
-name: {full: Ilumanei Naoliru, given: Ilumanei, clan: Naoliru, aliases: []}
+name: {full: Ilumanei Naoliru, given: Ilumanei, clan: Naoliru}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]

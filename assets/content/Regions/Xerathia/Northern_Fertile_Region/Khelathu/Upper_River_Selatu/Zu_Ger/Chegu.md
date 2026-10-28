@@ -1,6 +1,6 @@
 ---
 shortcode: chegu
-name: {full: Chegu, aliases: []}
+name: {full: Chegu}
 type: place
 subType: settlement
 description: "Selat capital of Zu-Ger."

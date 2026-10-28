@@ -1,6 +1,6 @@
 ---
 shortcode: ptnaroms
-name: {full: "Courtier's Allure", aliases: ["Potion, Aromatic, Strong"]}
+name: {full: Courtier's Allure, en: ["Potion, Aromatic, Strong"]}
 type: concoctiongear
 subType: exotic
 description: "Jewel-toned amber aromatic; enhances social appeal and persuasion."

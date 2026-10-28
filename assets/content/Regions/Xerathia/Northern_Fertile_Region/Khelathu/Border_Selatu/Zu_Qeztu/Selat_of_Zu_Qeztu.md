@@ -1,6 +1,6 @@
 ---
 shortcode: selatzuqeztu
-name: {full: The Selat of Zu-Qeztu, aliases: []}
+name: {full: The Selat of Zu-Qeztu}
 type: affiliation
 subType: polity
 description: "The western grazing margin; horse-pasture and the watch against raiders—one of the border selatu of Au'Khelathu."

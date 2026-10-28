@@ -1,6 +1,6 @@
 ---
 shortcode: thornhaven
-name: {full: Thornhaven, aliases: []}
+name: {full: Thornhaven}
 type: place
 subType: settlement
 description: "Settlement"

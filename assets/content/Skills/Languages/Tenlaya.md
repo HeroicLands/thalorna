@@ -1,6 +1,6 @@
 ---
 shortcode: tenlayalng
-name: {full: Tenlaya Language, aliases: []}
+name: {full: Tenlaya Language}
 type: skill
 subType: language
 description: "The unwritten tongue of the Grass People of the northern plains: quick, open and full of soft endings, spoken alike in the hunting camps and the earth-lodge villages."
@@ -5874,12 +5874,7 @@ data:
     - {tag: exonym:<tongue>, meaning: "a name another people gives, in the tongue named"}
   register:
     - {name: tenlaya, tongue: tenlaya, built: [tenla, -ya]}
-    - {name: Grass People, tongue: translation}
-    - {name: "P'enqal Ch'akal", tongue: exonym:kiichek}
-    - {name: Tenlaya Language, tongue: translation}
-    - {name: Tenlaya Region, tongue: translation}
     - {name: tanshe yawa, tongue: tenlaya, built: [tanshe, yawa]}
-    - {name: Bison Ford, tongue: translation}
     - {name: chiti hesun, tongue: tenlaya, built: [chiti, hesun]}
     - {name: Burned Village, tongue: translation}
     - {name: loshi opoya, tongue: tenlaya, built: [loshi, opoya]}

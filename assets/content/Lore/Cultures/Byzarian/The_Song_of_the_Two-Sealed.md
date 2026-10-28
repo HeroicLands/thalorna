@@ -1,6 +1,6 @@
 ---
 shortcode: twosealed
-name: {full: The Song of the Two-Sealed, aliases: [The Wrestling at the Third Spring]}
+name: {full: The Song of the Two-Sealed, en: [The Wrestling at the Third Spring]}
 type: lore
 subType: literature
 description: "The last song of the borderers' epic of Kezvunash, a spring-fort captain's grandson with a father in the winter camps, sealed into the fort's roll and marked in the camp's way: the Collector who rode up the pass road with one seal on his paper, the quarrel no arbitrator could hear, three days on the threshing-floor of the third spring, and the terms on which the Two-Sealed let himself be thrown."
@@ -15,7 +15,7 @@ data:
     - lore-heladwells
     - lore-selmorosdty
     - lore-byzarianclt
-  language: byzarnlng
+  lang: biza
 
 # terran_analog: "Digenis Akritas and the akritic ballads of the Byzantine eastern frontier, for the borderer of mixed descent who belongs to both sides, the fifteen-syllable political verse with its break after the eighth syllable, and the hero who wrestles Death on a marble threshing-floor; the frontier ballads' catalogues of deeds asked and answered."
 ---

@@ -1,6 +1,6 @@
 ---
 shortcode: redstncmpct
-name: {full: Red Stone Compact, aliases: []}
+name: {full: Red Stone Compact}
 type: affiliation
 subType: governmental
 description: "The standing peace of the five northern nations, sworn over pipes cut from one red quarry and renewed each summer on the quarry's bloodless ground."

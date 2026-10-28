@@ -1,6 +1,6 @@
 ---
 shortcode: khamundavlg
-name: {full: Khamunda Village, aliases: []}
+name: {full: Khamunda Village}
 type: place
 subType: settlement
 description: "Village of the Khamunda tribe, one of the settled communities of Okharis."

@@ -1,6 +1,6 @@
 ---
 shortcode: westernshore
-name: {full: The Sons on the Western Shore, aliases: [The Burning of Arnwern]}
+name: {full: The Sons on the Western Shore, en: [The Burning of Arnwern]}
 type: lore
 subType: history
 description: "From about 715 AF the Sons of Eldheim, campaigning out of Stormveld for a road into the Nordlands, have come ashore on Vristwald's western bay and burned villages, Arnwern first and worst; no common muster has been raised against them, and Thornak Bludtusk Barsk wants one."

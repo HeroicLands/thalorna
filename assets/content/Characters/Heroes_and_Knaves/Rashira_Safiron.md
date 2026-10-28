@@ -4,7 +4,7 @@ name:
   full: Rashira of House Safiron
   given: Rashira
   clan: Safiron
-  aliases: [The Keeper of the Purple Warrant, The Renegade Grammatissa]
+  en: [The Keeper of the Purple Warrant, The Renegade Grammatissa]
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, administration]

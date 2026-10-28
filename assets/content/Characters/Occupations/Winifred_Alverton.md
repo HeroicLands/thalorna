@@ -1,6 +1,6 @@
 ---
 shortcode: wnfrdlvrtn
-name: {full: Winrith Alverton, aliases: []}
+name: {full: Winrith Alverton}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

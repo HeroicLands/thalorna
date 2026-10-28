@@ -1,6 +1,6 @@
 ---
 shortcode: osetakonargn
-name: {full: Osetakona Region, aliases: []}
+name: {full: Osetakona Region}
 type: place
 subType: region
 description: "Lakes, rivers, portage routes and maple forest running to the eastern ocean—the land of the Maple People, in Northern Ki'ich'chik."

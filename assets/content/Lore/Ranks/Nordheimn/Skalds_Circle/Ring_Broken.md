@@ -1,6 +1,6 @@
 ---
 shortcode: ringbrokenrnk
-name: {full: "Ring-Broken", aliases: []}
+name: {full: Ring-Broken}
 type: lore
 subType: law
 description: "Convicted of breaking the truth of the recital, the arm-ring broken at the next Skaldating, in the Skalds' Circle."

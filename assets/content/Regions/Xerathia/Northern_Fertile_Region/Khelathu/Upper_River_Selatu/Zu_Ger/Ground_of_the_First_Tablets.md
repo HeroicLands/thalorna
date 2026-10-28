@@ -1,6 +1,6 @@
 ---
 shortcode: firsttablets
-name: {full: The Ground of the First Tablets, aliases: [The Burial-Ground of Zu-Ger]}
+name: {full: The Ground of the First Tablets, en: [The Burial-Ground of Zu-Ger]}
 type: place
 subType: site
 description: "The desert-edge burial-ground above Zu-Ger where the eleven Gar-Auu of the First House and Azlet'Kutu lie among marker stones that the farmers below still plow round: low weathered tombs, guarded by the temple of Hezmu'iri at Chegu and by their own age."

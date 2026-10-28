@@ -1,6 +1,6 @@
 ---
 shortcode: qelathmlkhlr
-name: {full: Qelatha Melu'Khelariu, given: Qelatha, clan: Melu'Khelariu, aliases: []}
+name: {full: Qelatha Melu'Khelariu, given: Qelatha, clan: Melu'Khelariu}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]

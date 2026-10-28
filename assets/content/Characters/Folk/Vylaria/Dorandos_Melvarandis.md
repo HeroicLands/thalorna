@@ -1,6 +1,6 @@
 ---
 shortcode: dorandosmelv
-name: {full: Doros Melvarandis, aliases: [Lord Doros]}
+name: {full: Doros Melvarandis, en: [Lord Doros]}
 type: being
 subType: npc
 description: The aging noble who employs Erithon Uselindas as personal archer-guard.

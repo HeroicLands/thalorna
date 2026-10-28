@@ -1,6 +1,6 @@
 ---
 shortcode: zxxchalishceremonialenc
-name: {full: Chalish Ceremonial Literal Encoding, aliases: []}
+name: {full: Chalish Ceremonial Literal Encoding}
 type: doc
 subType: reference
 data:

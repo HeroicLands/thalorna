@@ -1,6 +1,6 @@
 ---
 shortcode: karvashikosm
-name: {full: Karvashikos Margarakit, aliases: [Lord Karvashikos Margarakit]}
+name: {full: Karvashikos Margarakit, en: [Lord Karvashikos Margarakit]}
 type: being
 subType: npc
 description: Patriarch of a house that has commissioned multiple high-speed merchant vessels and naval support ships, named in Trufios Veghekos.

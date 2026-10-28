@@ -1,6 +1,6 @@
 ---
 shortcode: pirethos
-name: {full: Pirethos, aliases: [Rhezin Pirethos, Zulen Pirethos]}
+name: {full: Pirethos, helo: [Rhezin Pirethos], vyl: [Zulen Pirethos]}
 type: affiliation
 subType: arcanetradition
 tags: [zemor-hodhis]

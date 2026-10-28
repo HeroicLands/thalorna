@@ -1,6 +1,6 @@
 ---
 shortcode: truenameherd
-name: {full: The True Name Heard, aliases: []}
+name: {full: The True Name Heard}
 type: mysticalability
 subType: arcaneincantation
 description: "Discovers the true name of a person, place or made thing."

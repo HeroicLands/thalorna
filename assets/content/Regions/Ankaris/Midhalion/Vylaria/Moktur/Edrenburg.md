@@ -1,6 +1,6 @@
 ---
 shortcode: edrenburg
-name: {full: Edrenburg, aliases: []}
+name: {full: Edrenburg}
 type: place
 subType: settlement
 description: "A Mokturan border town at the edge of Vristwald that keeps a Varokh name, where Varokh and Vylarian trade meet under a garrison's eye."

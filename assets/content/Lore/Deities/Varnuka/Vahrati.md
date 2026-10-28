@@ -1,6 +1,6 @@
 ---
 shortcode: vahratidty
-name: {full: Vahrati, aliases: []}
+name: {full: Vahrati}
 type: lore
 subType: deity
 description: "The Keeper of Decay in the Varnuka pantheon, holding the wilting of what has flowered and the return that follows it."

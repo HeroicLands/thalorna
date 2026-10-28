@@ -1,6 +1,6 @@
 ---
 shortcode: menavarabbey
-name: {full: Ménavar Abbey, aliases: []}
+name: {full: Ménavar Abbey}
 type: place
 subType: site
 description: "The ruined abbey of Satvote—once a center of Aureldian learning, sacked in the Nordheim raids and never refounded, holding a healing relic that four parties want and that no expedition has yet come back with."

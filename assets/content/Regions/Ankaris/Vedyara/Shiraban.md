@@ -1,6 +1,6 @@
 ---
 shortcode: shiraban
-name: {full: Shiraban, aliases: []}
+name: {full: Shiraban}
 type: place
 subType: settlement
 description: "The reed village in the marsh of the dead channel, which shafts and fletches the janpoda's arrows."

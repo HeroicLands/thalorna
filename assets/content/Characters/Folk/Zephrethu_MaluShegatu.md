@@ -1,6 +1,6 @@
 ---
 shortcode: zephrthmlshg
-name: {full: Zefrethu Malu'Shegatu, aliases: []}
+name: {full: Zefrethu Malu'Shegatu}
 type: being
 subType: npc
 description: "Boatman of the Zeghet'Nelgu, whose family has served the company for four generations and who has never lost a boat to the currents"

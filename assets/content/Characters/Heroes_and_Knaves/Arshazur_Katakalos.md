@@ -1,6 +1,6 @@
 ---
 shortcode: arshzrktkls
-name: {full: Árshazur Gavios, given: Árshazur, clan: Gavios, aliases: []}
+name: {full: Árshazur Gavios, given: Árshazur, clan: Gavios}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]

@@ -1,6 +1,6 @@
 ---
 shortcode: centralkiichchik
-name: {full: Central Ki'ich'chik, aliases: []}
+name: {full: Central Ki'ich'chik}
 type: place
 subType: region
 description: "The heartland of Ki'ich'chik, four realms of pyramid-cities, observatories and trade roads bound by one priesthood."

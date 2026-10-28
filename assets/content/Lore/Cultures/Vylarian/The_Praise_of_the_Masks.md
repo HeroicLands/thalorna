@@ -1,6 +1,6 @@
 ---
 shortcode: maskspraise
-name: {full: The Praise of the Masks, aliases: [The Oration at Aravantara]}
+name: {full: The Praise of the Masks, en: [The Oration at Aravantara]}
 type: lore
 subType: literature
 description: "The funeral oration an adopted heir gave from the speakers' stone in the square of Aravantara over the last master of a Hilen house: the masks of the line praised one by one as they stood behind the bier, two brothers of Olkassa who walk side by side and never one before the other, a son lost at the Shoals with no mask in the cupboard, and the name the speaker gave up to carry the house's."
@@ -17,7 +17,7 @@ data:
     - place-tamzirshoals
     - affiliation-selmoros
     - lore-vylarianclt
-  language: vylarilng
+  lang: vyl
 
 # terran_analog: "The Roman laudatio funebris spoken from the rostra, with the wax ancestor masks worn by actors of the right build walking behind the bier, as Polybius describes it; the Laudatio Turiae and the funeral speeches the historians quote; and Roman adoption, which gave an heir a new name and a new set of ancestors."
 ---

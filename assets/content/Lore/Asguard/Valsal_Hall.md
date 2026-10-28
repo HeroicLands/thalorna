@@ -1,6 +1,6 @@
 ---
 shortcode: valsalhall
-name: {full: Ódvarsholl, aliases: [Odvar's Hall]}
+name: {full: Ódvarsholl, en: [Odvar's Hall]}
 type: place
 subType: structure
 description: "Odvar's hall at the center of Valsal, where the Valdrengir are seated by worth and feasted every night."

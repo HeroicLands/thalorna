@@ -1,6 +1,6 @@
 ---
 shortcode: iqeru
-name: {full: Iqeru, aliases: []}
+name: {full: Iqeru}
 type: place
 subType: settlement
 description: "Selat capital of Iqeru, seat of the chief temple of Uqa'a, the solar flame."

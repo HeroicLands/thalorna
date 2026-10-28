@@ -1,6 +1,6 @@
 ---
 shortcode: madabana
-name: {full: Madabana, aliases: []}
+name: {full: Madabana}
 type: place
 subType: settlement
 description: "Orchard village on the sheltered southern slope, which grows the temperate fruit the lowland plain will not take."

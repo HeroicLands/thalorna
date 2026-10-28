@@ -1,6 +1,6 @@
 ---
 shortcode: yak
-name: {full: Yak, aliases: []}
+name: {full: Yak}
 type: being
 subType: creature
 description: "A massive, cold-adapted highland bovine providing milk, transport, and survival to mountain peoples amid the harshest peaks."

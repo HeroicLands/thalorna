@@ -1,6 +1,6 @@
 ---
 shortcode: silvrfrsts
-name: {full: The Silver Forests, aliases: []}
+name: {full: The Silver Forests}
 type: place
 subType: region
 data: {demonym: null, lore: [], parents: [alndntrblnds], population: null, packFolder: elavendre}

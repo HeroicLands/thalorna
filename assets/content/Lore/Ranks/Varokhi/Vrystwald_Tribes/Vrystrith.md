@@ -1,6 +1,6 @@
 ---
 shortcode: vrystrithrnk
-name: {full: "Vristrith", aliases: []}
+name: {full: Vristrith}
 type: lore
 subType: law
 description: "Cast out by their own kin and claimed by none, in the Vristwald Tribes."

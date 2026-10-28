@@ -1,6 +1,6 @@
 ---
 shortcode: iceforge
-name: {full: Iceforge, aliases: []}
+name: {full: Iceforge}
 type: mysticalability
 subType: arcaneincantation
 description: "Shapes ambient moisture into solid, durable ice structures and tools."

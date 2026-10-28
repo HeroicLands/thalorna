@@ -1,6 +1,6 @@
 ---
 shortcode: druzesxylaki
-name: {full: Druzes Zilakit, aliases: [Prince Druzes, Merchant Prince Druzes Zilakit]}
+name: {full: Druzes Zilakit, en: [Prince Druzes, Merchant Prince Druzes Zilakit]}
 type: being
 subType: npc
 description: A canny trader of the Bizarian League who has secured access to Eichengrund's furs and amber, named in Athalwa yra Vithrúnd wur Eichengrund.

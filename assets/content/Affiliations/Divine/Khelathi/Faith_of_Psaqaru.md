@@ -1,6 +1,6 @@
 ---
 shortcode: psaqaru
-name: {full: Faith of Saq'aru, aliases: []}
+name: {full: Faith of Saq'aru}
 type: affiliation
 subType: faithtradition
 description: "Creation."

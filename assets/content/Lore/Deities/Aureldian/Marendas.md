@@ -1,6 +1,6 @@
 ---
 shortcode: marendasdty
-name: {full: Marendas, aliases: []}
+name: {full: Marendas}
 # terran_analog: Minerva, the Roman goddess of wisdom, learning and crafts
 type: lore
 subType: deity

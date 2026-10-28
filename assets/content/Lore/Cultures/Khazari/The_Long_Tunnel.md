@@ -1,6 +1,6 @@
 ---
 shortcode: longtunnel
-name: {full: The Long Tunnel, aliases: [Narv-butám]}
+name: {full: The Long Tunnel, khaz: [narv-butám]}
 type: lore
 subType: literature
 description: "The account of the water-line of Magar-thubád, cut along the grain in a hundred and fifty-eight days after a quake took the hold's water, with the two names the water cost and the claim of work its master spoke over it."
@@ -10,7 +10,7 @@ data:
   culture: khazariclt
   form: filnath
   subjects: [lore-khazariclt, lore-flkkhazar]
-  language: khazarlng
+  lang: khaz
 
 # terran_analog: "The Siloam tunnel inscription, for a winding water tunnel cut through rock and the record of the day the cut broke through; Mesopotamian building inscriptions, for the claim of work that counts what was done and warrants it."
 ---

@@ -1,6 +1,6 @@
 ---
 shortcode: anevirtbrs
-name: {full: Ánevira Tabires, aliases: []}
+name: {full: Ánevira Tabires}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

@@ -1,6 +1,6 @@
 ---
 shortcode: drwlvrn
-name: {full: Dire Wolverine, aliases: []}
+name: {full: Dire Wolverine}
 type: being
 subType: creature
 description: "A solitary dire mustelid of cold forests and tundra, fearless and unstoppably persistent, among the deadliest predators pound for pound."

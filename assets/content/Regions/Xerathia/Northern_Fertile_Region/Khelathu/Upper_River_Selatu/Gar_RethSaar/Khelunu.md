@@ -1,6 +1,6 @@
 ---
 shortcode: khelunu
-name: {full: Khelunu, aliases: []}
+name: {full: Khelunu}
 type: place
 subType: settlement
 description: "Temple City (Scribal)"

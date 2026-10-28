@@ -1,6 +1,6 @@
 ---
 shortcode: vardainvalleys
-name: {full: The Vardain Valleys, aliases: []}
+name: {full: The Vardain Valleys}
 type: place
 subType: region
 description: "The high valleys beneath Vorgald—a town, eight villages and some eight and a half thousand people, held by the Khazari and belonging to no Aelwythan realm."

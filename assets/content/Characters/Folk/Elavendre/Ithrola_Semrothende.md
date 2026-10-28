@@ -1,6 +1,6 @@
 ---
 shortcode: ithrolasemro
-name: {full: Íthrola Sémrothende, aliases: [Countess Íthrola]}
+name: {full: Íthrola Sémrothende, en: [Countess Íthrola]}
 type: being
 subType: npc
 description: A young countess whose domain lies three days' ride from Álira Kálmereth's cottage.

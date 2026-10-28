@@ -1,6 +1,6 @@
 ---
 shortcode: hvulgorvhlus
-name: {full: Hvulgorv Hluskendik, aliases: [Magistrate Hvulgorv Hluskendik]}
+name: {full: Hvulgorv Hluskendik, en: [Magistrate Hvulgorv Hluskendik]}
 type: being
 subType: npc
 description: The town's chief law enforcement, who relies on Hvalgvir Veturdómur's network of informants.

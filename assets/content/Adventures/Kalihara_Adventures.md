@@ -1,6 +1,6 @@
 ---
 shortcode: klhrdvntrs
-name: {full: Kalihara Adventures, aliases: []}
+name: {full: Kalihara Adventures}
 type: scenario
 subType: adventure
 tags: []

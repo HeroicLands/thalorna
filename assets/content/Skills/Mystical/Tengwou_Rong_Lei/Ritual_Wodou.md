@@ -1,6 +1,6 @@
 ---
 shortcode: wodou
-name: {full: "Ritual: Wodou", aliases: [Wodou, The Minister of Roads]}
+name: {full: "Ritual: Wodou", en: [The Minister of Roads], tant: [Wodou]}
 type: skill
 subType: mystical
 tags: [tengwou, faith-skill, draft]

@@ -1,6 +1,6 @@
 ---
 shortcode: xelemixbal2
-name: {full: Shelem Ish'bal, aliases: []}
+name: {full: Shelem Ish'bal}
 type: place
 subType: settlement
 description: "The reputed center of the forsaken wastes at the continent's southern edge, a proving ground that no one rules."

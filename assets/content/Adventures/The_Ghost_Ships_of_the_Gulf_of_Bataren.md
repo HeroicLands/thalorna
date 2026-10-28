@@ -1,6 +1,6 @@
 ---
 shortcode: ghstshpsglfbtrn
-name: {full: The Ghost Ships of the Gulf of Bataren, aliases: []}
+name: {full: The Ghost Ships of the Gulf of Bataren}
 type: scenario
 subType: adventure
 data:

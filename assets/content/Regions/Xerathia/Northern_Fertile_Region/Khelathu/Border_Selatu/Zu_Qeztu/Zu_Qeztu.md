@@ -1,6 +1,6 @@
 ---
 shortcode: zuqeztunome
-name: {full: Zu-Qeztu, aliases: []}
+name: {full: Zu-Qeztu}
 type: place
 subType: region
 description: "The western grazing margin; horse-pasture and the watch against raiders—the land of the Selat of Zu-Qeztu, one of the border selatu of Au'Khelathu."

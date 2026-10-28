@@ -1,6 +1,6 @@
 ---
 shortcode: hrndmylsnrvrkh
-name: {full: Hrundmil Snarvaruk, aliases: []}
+name: {full: Hrundmil Snarvaruk}
 type: being
 subType: npc
 tags: [draft, soldiery]

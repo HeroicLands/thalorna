@@ -1,6 +1,6 @@
 ---
 shortcode: linzemnlzlqr
-name: {full: Lin'Zemnu elu Zel-Qar, aliases: [The Brotherhood of Zel-Qar]}
+name: {full: Lin'Zemnu elu Zel-Qar, en: [The Brotherhood of Zel-Qar]}
 type: affiliation
 subType: guild
 description: "The closed hereditary brotherhood of tomb-craftsmen of Zel-Qar, the walled company-village of the Khelzuret necropolis—stonecutters, draftsmen, sculptors and painters who guard both the mysteries of their craft and the locations of what they build."

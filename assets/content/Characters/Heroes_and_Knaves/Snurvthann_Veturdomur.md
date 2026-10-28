@@ -1,6 +1,6 @@
 ---
 shortcode: snrvthnvtrdmr
-name: {full: Snurvthann Veturdómur, given: Snurvthann, clan: Veturdómur, aliases: []}
+name: {full: Snurvthann Veturdómur, given: Snurvthann, clan: Veturdómur}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]

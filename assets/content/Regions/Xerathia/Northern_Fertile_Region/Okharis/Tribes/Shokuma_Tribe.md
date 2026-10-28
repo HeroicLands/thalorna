@@ -1,6 +1,6 @@
 ---
 shortcode: shokumatrb
-name: {full: Shókuma Tribe, aliases: []}
+name: {full: Shókuma Tribe}
 type: affiliation
 subType: polity
 description: A forest and river tribe of the Okharis that gathers wild honey and beeswax and keeps a tradition of spirit communion.

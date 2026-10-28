@@ -1,6 +1,6 @@
 ---
 shortcode: restorehouse
-name: {full: The Restoration, aliases: [The Accession of Makandas, House Helarkales]}
+name: {full: The Restoration, en: [The Accession of Makandas, House Helarkales]}
 type: lore
 subType: history
 description: "About 406 AF Makandas takes Orzara from the north, the Senate acclaims him, the Sorvan hands over its claimant and Sylarion dies in the Offices; he founds House Helarkales, forgives the legions that fought him and pays them, and rules twelve years."

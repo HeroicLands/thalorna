@@ -1,6 +1,6 @@
 ---
 shortcode: alyksdrymkt
-name: {full: Alikos Drimikot, given: Alikos, clan: Drimikot, aliases: []}
+name: {full: Alikos Drimikot, given: Alikos, clan: Drimikot}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]

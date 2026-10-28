@@ -1,6 +1,6 @@
 ---
 shortcode: vennara
-name: {full: Vennara, aliases: []}
+name: {full: Vennara}
 type: place
 subType: settlement
 description: "Town"

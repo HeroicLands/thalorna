@@ -1,6 +1,6 @@
 ---
 shortcode: uzneradty
-name: {full: Uzn'era, aliases: []}
+name: {full: Uzn'era}
 type: lore
 subType: deity
 tags: [draft]

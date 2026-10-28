@@ -1,6 +1,6 @@
 ---
 shortcode: aelwythadvguide
-name: {full: Aelwyth Adventurer's Guide, aliases: []}
+name: {full: Aelwyth Adventurer's Guide}
 type: doc
 subType: settingguide
 description: A short player and GM introduction to Aelwyth—the island's four realms, the Synod's harbor, the fae country and the ways a campaign begins there.

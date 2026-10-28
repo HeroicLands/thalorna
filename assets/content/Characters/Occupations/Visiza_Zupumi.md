@@ -1,6 +1,6 @@
 ---
 shortcode: vszzpm
-name: {full: Visiza Zupumi, aliases: []}
+name: {full: Visiza Zupumi}
 type: being
 subType: npc
 tags: [draft, soldiery]

@@ -1,6 +1,6 @@
 ---
 shortcode: coldbeck
-name: {full: Koldbek, aliases: []}
+name: {full: Koldbek}
 type: place
 subType: settlement
 description: "The mill village on the fast water, grinding the valleys' grain and fulling their cloth."

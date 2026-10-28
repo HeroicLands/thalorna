@@ -1,6 +1,6 @@
 ---
 shortcode: kirofavlg
-name: {full: Kirofa Village, aliases: []}
+name: {full: Kirofa Village}
 type: place
 subType: settlement
 description: "Orchard village of the Kirofa tribe among date palms on a river of Okharis."

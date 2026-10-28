@@ -1,6 +1,6 @@
 ---
 shortcode: easternline
-name: {full: The Eastern Line, aliases: [The Hill Forts of Taruzel]}
+name: {full: The Eastern Line, en: [The Hill Forts of Taruzel]}
 type: lore
 subType: history
 description: "From about 316 AF to about 330 AF the eastern legions answer the breaking of the Storm of the Hundred Banners by raising a line of hill forts and a military road across the interior of Taruzel's larger islands, garrisoned by hill horsemen the Empire pays."

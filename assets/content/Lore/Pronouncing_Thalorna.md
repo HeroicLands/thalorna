@@ -1,6 +1,6 @@
 ---
 shortcode: prnncthlrn
-name: {full: Pronouncing Thalorna, aliases: []}
+name: {full: Pronouncing Thalorna}
 type: doc
 subType: reference
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: gezehutyu2
-name: {full: Balinta, aliases: []}
+name: {full: Balinta}
 type: being
 subType: npc
 description: "A wealthy advocate whose successes owe more to the arrangement of witnesses than to the law, and who is very hard to prove anything against"

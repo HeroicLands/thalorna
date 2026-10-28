@@ -1,6 +1,6 @@
 ---
 shortcode: arnscntnnt
-name: {full: Aurionis Continent, aliases: []}
+name: {full: Aurionis Continent}
 type: place
 subType: region
 description: A distant southern continent of paradoxes—arid interiors, lush coastal zones, and ancient peoples whose spiritual traditions are tied to the land itself.

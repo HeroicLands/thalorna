@@ -1,6 +1,6 @@
 ---
 shortcode: brnyzrvln
-name: {full: Barony of Zuravlen, aliases: []}
+name: {full: Barony of Zuravlen}
 type: affiliation
 subType: polity
 description: "The barony of the Zuravlen valley, held of the Crown of Provenzia by Baron Selvare Zuravel from his seat at Eltrembis."

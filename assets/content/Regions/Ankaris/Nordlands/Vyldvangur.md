@@ -1,6 +1,6 @@
 ---
 shortcode: vyldvangur
-name: {full: Vuldvangur, aliases: []}
+name: {full: Vuldvangur}
 type: place
 subType: site
 description: "A field of ancient standing stones where Frodvin is said to have blessed the earth, kept by its own keepers and sought in famine."

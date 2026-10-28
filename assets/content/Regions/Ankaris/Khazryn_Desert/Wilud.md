@@ -1,6 +1,6 @@
 ---
 shortcode: wilud
-name: {full: Vulud, aliases: [The Half-Buried Towers]}
+name: {full: Vulud, en: [The Half-Buried Towers]}
 type: place
 subType: site
 description: "A tower city of the Khoshiqor drowned by a moving dune sea, whose tower tops stand out of the sand and whose streets come uncovered one at a time, a generation apart."

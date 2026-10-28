@@ -1,6 +1,6 @@
 ---
 shortcode: thlmslddrknt
-name: {full: Thilmselda Drekanótt, given: Thilmselda, clan: Drekanótt, aliases: []}
+name: {full: Thilmselda Drekanótt, given: Thilmselda, clan: Drekanótt}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]

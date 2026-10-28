@@ -1,6 +1,6 @@
 ---
 shortcode: qalezusanction
-name: {full: The Sanction of Qalezu, aliases: [The Making of Qalezu]}
+name: {full: The Sanction of Qalezu, en: [The Making of Qalezu]}
 type: lore
 subType: history
 description: "About 2030 ST (81 BF) the queen Gith'el'Retha I of the house of Amqelu'Gatau sanctioned Qalezu, the bureaus' alphabet of twenty-four signs reduced from the hieroglyphs of the sacred hand; the temples kept the sacred hand for the tomb and the god, and Khelathi literacy divided in two."

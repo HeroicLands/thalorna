@@ -1,6 +1,6 @@
 ---
 shortcode: mlgnahstry
-name: {full: Histories and Legends of Malagna, aliases: []}
+name: {full: Histories and Legends of Malagna}
 type: lore
 subType: history
 description: "Malagna's remembered wergild feud and the stories told of its guarded crown and unsettled dead."

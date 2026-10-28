@@ -1,6 +1,6 @@
 ---
 shortcode: lizelas
-name: {full: Faith of Lizelas, aliases: [The Nurturer, Lizelas]}
+name: {full: Faith of Lizelas, en: [The Nurturer], vyl: [Lizelas]}
 type: affiliation
 subType: faithtradition
 description: "Fertility."

@@ -1,6 +1,6 @@
 ---
 shortcode: ordnbrylnd
-name: {full: Ordan Brilonde, aliases: []}
+name: {full: Ordan Brilonde}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

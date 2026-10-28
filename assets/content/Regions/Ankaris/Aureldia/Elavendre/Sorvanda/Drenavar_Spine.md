@@ -1,6 +1,6 @@
 ---
 shortcode: drenavrspn
-name: {full: The Drenavar Spine, aliases: [The Drenavar, Drenavar Mountains]}
+name: {full: The Drenavar Spine, en: [The Drenavar, Drenavar Mountains]}
 type: place
 subType: region
 description: "The central sacred mountain range of Élavendre—heart of Áelendan territory, holding the greatest concentration of sacred sites in Ankaris, and sovereign to the tribes by ancient law the crown has never tried to revise."

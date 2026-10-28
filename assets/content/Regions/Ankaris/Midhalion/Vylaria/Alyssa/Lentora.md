@@ -1,6 +1,6 @@
 ---
 shortcode: lentora
-name: {full: Lentora, aliases: []}
+name: {full: Lentora}
 type: place
 subType: settlement
 description: "City"

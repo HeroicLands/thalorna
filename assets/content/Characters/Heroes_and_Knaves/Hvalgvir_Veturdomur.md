@@ -1,6 +1,6 @@
 ---
 shortcode: hvlgvrvtrdmr
-name: {full: Hvalgvir Veturdómur, given: Hvalgvir, clan: Veturdómur, aliases: []}
+name: {full: Hvalgvir Veturdómur, given: Hvalgvir, clan: Veturdómur}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]

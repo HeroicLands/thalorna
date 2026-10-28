@@ -1,6 +1,6 @@
 ---
 shortcode: garhalzi
-name: {full: Gar-Hálzi, aliases: [The Temple Treasury, The House of the Account]}
+name: {full: Gar-Hálzi, en: [The Temple Treasury, The House of the Account]}
 type: affiliation
 subType: guild
 description: "Khelathi temple-treasury institution—the network of priestly account-houses attached to the great temples of Au'Khelathu that attest the weight-pieces, hold the granaries, maintain the ledgers, and issue the chits that constitute the Northern Fertile Region's banking infrastructure."

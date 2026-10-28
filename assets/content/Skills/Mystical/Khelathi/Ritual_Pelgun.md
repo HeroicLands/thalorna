@@ -1,6 +1,6 @@
 ---
 shortcode: ritualpelgun
-name: {full: "Ritual: Pelgun", aliases: []}
+name: {full: "Ritual: Pelgun"}
 type: skill
 subType: mystical
 tags: [khelathi, faith-skill, draft]

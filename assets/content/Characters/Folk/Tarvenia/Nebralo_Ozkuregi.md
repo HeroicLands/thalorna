@@ -1,6 +1,6 @@
 ---
 shortcode: nebraloozkur
-name: {full: Nebralo Ozkuregi, aliases: [Sir Nebralo Ozkuregi, Sir Nebralo]}
+name: {full: Nebralo Ozkuregi, en: [Sir Nebralo Ozkuregi, Sir Nebralo]}
 type: being
 subType: npc
 description: An Árdavonian knight of the Order of the Righteous Path, sworn to protect the weak and uphold justice, who is an enemy of Drazha Vezhnur.

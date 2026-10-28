@@ -1,6 +1,6 @@
 ---
 shortcode: uqaadty
-name: {full: Uqa'a, aliases: []}
+name: {full: Uqa'a}
 type: lore
 subType: deity
 tags: [draft]

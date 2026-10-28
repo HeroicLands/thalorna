@@ -1,6 +1,6 @@
 ---
 shortcode: glmsprt
-name: {full: Gloomsprite, aliases: []}
+name: {full: Gloomsprite}
 type: being
 subType: creature
 description: "A fey trickster of the shadow-touched borderlands who delights in puzzles and bargains, leading travelers astray to punish broken unspoken promises."

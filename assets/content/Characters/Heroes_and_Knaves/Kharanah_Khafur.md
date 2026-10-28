@@ -1,6 +1,6 @@
 ---
 shortcode: kharnhkhfr
-name: {full: Kharanah Khafur, given: Kharanah, clan: Khafur, aliases: []}
+name: {full: Kharanah Khafur, given: Kharanah, clan: Khafur}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]

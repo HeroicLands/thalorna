@@ -1,6 +1,6 @@
 ---
 shortcode: garzekhemu2
-name: {full: Gar-Zekhemu, aliases: []}
+name: {full: Gar-Zekhemu}
 type: place
 subType: settlement
 description: "A grain-village of 160 people in the flood-basin country of Anlagh-Zetun Selat, distinct from the village of the same name near Galezkara"

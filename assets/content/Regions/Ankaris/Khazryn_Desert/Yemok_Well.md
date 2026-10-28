@@ -1,6 +1,6 @@
 ---
 shortcode: yemokwell
-name: {full: Yemok, aliases: [The Oath Well]}
+name: {full: Yemok, en: [The Oath Well]}
 type: place
 subType: site
 description: "The deep well at the western edge of the Central Sands where the riders of the Western Margin hand a caravan to the riders of the sands, and the last good water before the Long Dry."

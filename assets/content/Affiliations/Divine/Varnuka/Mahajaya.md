@@ -1,6 +1,6 @@
 ---
 shortcode: mahajaya
-name: {full: Mahajaya, aliases: [The Eternal Preserver]}
+name: {full: The Eternal Preserver, vedy: [mahajaya]}
 type: affiliation
 subType: faithtradition
 description: "Religion of the goddess of preservation, order, harmony and abundance."

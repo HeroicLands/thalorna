@@ -1,6 +1,6 @@
 ---
 shortcode: haritagram
-name: {full: Haritagram, aliases: []}
+name: {full: Haritagram}
 type: place
 subType: settlement
 description: "Small terrace village on the northern slope, with two panning families and no other trade."

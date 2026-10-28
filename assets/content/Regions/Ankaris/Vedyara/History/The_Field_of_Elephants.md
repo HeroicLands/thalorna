@@ -1,6 +1,6 @@
 ---
 shortcode: fieldelephnt
-name: {full: The Field of Elephants, aliases: []}
+name: {full: The Field of Elephants}
 type: lore
 subType: history
 description: "About 270 AF a coalition under Gomarga came down off the plateau against the river kingdom of Purnatir; both lines broke among the war-elephants, the dead were left to the rains, and the slope became Gajastal, the second shorukshetra in Vedyara."

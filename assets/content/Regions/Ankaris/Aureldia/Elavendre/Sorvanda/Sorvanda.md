@@ -1,6 +1,6 @@
 ---
 shortcode: sorvanda
-name: {full: Sórvanda, aliases: []}
+name: {full: Sórvanda}
 type: place
 subType: region
 description: "The eastern and southern mountains of Élavendre—Áelendan country, thick with fae sites, and holding mineral wealth the kingdom is not permitted to take."

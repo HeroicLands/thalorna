@@ -1,6 +1,6 @@
 ---
 shortcode: okharisrgn
-name: {full: Okharis Region, aliases: []}
+name: {full: Okharis Region}
 type: place
 subType: region
 description: The southern margin of Zerathia's fertile belt—hot, rain-fed forest, river valleys and grassland in the west, drying eastward to semi-arid savanna at the Bethua border, held by the three temple-cities of Okharis and the village tribes that owe them fealty.

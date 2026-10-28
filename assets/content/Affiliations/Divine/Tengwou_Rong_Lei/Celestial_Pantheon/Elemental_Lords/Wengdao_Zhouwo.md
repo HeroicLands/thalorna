@@ -1,6 +1,6 @@
 ---
 shortcode: wengdaozhouwo
-name: {full: Wengdao Zhouwo, aliases: []}
+name: {full: Wengdao Zhouwo}
 type: affiliation
 subType: faithtradition
 description: "Earth."

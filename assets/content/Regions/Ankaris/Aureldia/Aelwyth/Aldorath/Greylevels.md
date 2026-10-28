@@ -1,6 +1,6 @@
 ---
 shortcode: greylevels
-name: {full: The Greylevels, aliases: []}
+name: {full: The Greylevels}
 type: place
 subType: region
 description: "The tidal lowlands of eastern Aldorath—wet, flat, fertile and treacherous, carrying the kingdom's whole trade out through Greywater."

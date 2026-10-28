@@ -1,6 +1,6 @@
 ---
 shortcode: flndrsbldds
-name: {full: Sakozes Bulides, given: Sakozes, clan: Bulides, aliases: []}
+name: {full: Sakozes Bulides, given: Sakozes, clan: Bulides}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, administration]

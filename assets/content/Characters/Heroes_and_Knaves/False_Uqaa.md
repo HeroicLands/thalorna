@@ -1,6 +1,6 @@
 ---
 shortcode: falseuqaa
-name: {full: False Uqa'a, given: "False", clan: Uqa'a, aliases: [Khelafiru the Bold]}
+name: {full: False Uqa'a, given: "False", clan: Uqa'a, en: [Khelafiru the Bold]}
 type: being
 subType: character
 description: "The last Gar-Au of Gar-Zin'el'Relu, judged and bound at the Great Temple and struck from every wall"

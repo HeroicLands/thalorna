@@ -1,6 +1,6 @@
 ---
 shortcode: sirmenne
-name: {full: Sirmenne, aliases: []}
+name: {full: Sirmenne}
 type: place
 subType: site
 

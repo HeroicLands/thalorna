@@ -1,6 +1,6 @@
 ---
 shortcode: gntbvr
-name: {full: Giant Beaver, aliases: []}
+name: {full: Giant Beaver}
 type: being
 subType: creature
 description: "An intelligent, industrious rodent and master engineer that reshapes whole landscapes with dams and lodges redirecting entire watercourses."

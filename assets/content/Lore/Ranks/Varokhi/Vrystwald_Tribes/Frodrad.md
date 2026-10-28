@@ -1,6 +1,6 @@
 ---
 shortcode: frodradrnk
-name: {full: "Frodrád", aliases: []}
+name: {full: Frodrád}
 type: lore
 subType: law
 description: "Holds one of the three seats that govern a village together, so that the village's vote never ties, in the Vristwald Tribes."

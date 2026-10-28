@@ -1,6 +1,6 @@
 ---
 shortcode: genzetpalu
-name: {full: Genzet'Palu, aliases: [Council of the Nobles, Khelathi Council of the Nobles]}
+name: {full: Genzet'Palu, en: [Council of the Nobles, Khelathi Council of the Nobles]}
 type: affiliation
 subType: governmental
 description: "(Council of the Nobles)—a formal assembly of the empire's most powerful aristocratic families, convened in the capital to advise the Gar-Au on matters of internal policy, succession disputes, and inter-selat relations. The Genzet'Palu has no legislative authority—the Gar-Au's word is law—but in practice no Gar-Au governs effectively without its cooperation. Meetings are elaborate affairs conducted with full ceremonial protocol, and the council's de facto mediators wield enormous informal power."

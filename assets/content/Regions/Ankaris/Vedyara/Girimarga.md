@@ -1,6 +1,6 @@
 ---
 shortcode: girimarga
-name: {full: Girimarga, aliases: []}
+name: {full: Girimarga}
 type: place
 subType: settlement
 description: "Village astride the mountain road, which keeps the road and is paid out of the common share for it."

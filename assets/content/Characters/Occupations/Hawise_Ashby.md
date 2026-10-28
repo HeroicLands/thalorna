@@ -1,6 +1,6 @@
 ---
 shortcode: hawiseshby
-name: {full: Hawise Ashby, aliases: []}
+name: {full: Hawise Ashby}
 type: being
 subType: npc
 tags: [draft, soldiery]

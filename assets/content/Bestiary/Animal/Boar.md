@@ -1,6 +1,6 @@
 ---
 shortcode: boar
-name: {full: Boar, aliases: []}
+name: {full: Boar}
 type: being
 subType: creature
 description: "A compact, aggressive tusked ungulate of forests and scrublands, quick to charge with muscle and violence when its territory is crossed."

@@ -1,6 +1,6 @@
 ---
 shortcode: hwlrmnky
-name: {full: Howler Monkey, aliases: []}
+name: {full: Howler Monkey}
 type: being
 subType: creature
 description: "A large, heavily built canopy folivore of tropical forests, living in troops and producing the loudest vocalization of any land animal."

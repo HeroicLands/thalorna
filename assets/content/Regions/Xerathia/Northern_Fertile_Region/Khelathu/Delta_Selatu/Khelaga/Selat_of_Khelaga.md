@@ -1,6 +1,6 @@
 ---
 shortcode: selatkhelaga
-name: {full: The Selat of Khelaga, aliases: []}
+name: {full: The Selat of Khelaga}
 type: affiliation
 subType: polity
 description: "The delta apex, where the river first divides; old shrines and customs-stations—one of the delta selatu of Au'Khelathu."

@@ -1,6 +1,6 @@
 ---
 shortcode: dmthrnthrn
-name: {full: Dometh Ornethran, aliases: []}
+name: {full: Dometh Ornethran}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]

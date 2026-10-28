@@ -1,6 +1,6 @@
 ---
 shortcode: tlwr
-name: {full: Talwar, aliases: []}
+name: {full: Talwar}
 type: weapongear
 description: "Curved single-edged saber with disk pommel; eastern cavalry preference."
 tags: []

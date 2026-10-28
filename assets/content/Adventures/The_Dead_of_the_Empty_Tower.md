@@ -1,6 +1,6 @@
 ---
 shortcode: emptytowerdead
-name: {full: The Bearers of the Dark Moon, aliases: []}
+name: {full: The Bearers of the Dark Moon}
 type: scenario
 subType: adventure
 description: "North of a conquered city stands a tower empty but for vultures, and when the moon goes dark the newly buried vanish from the camps below."

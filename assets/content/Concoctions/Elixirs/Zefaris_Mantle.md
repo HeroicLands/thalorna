@@ -1,6 +1,6 @@
 ---
 shortcode: elxice
-name: {full: "Zefaris's Mantle", aliases: [Iceshield Elixir]}
+name: {full: Zefaris's Mantle, en: [Iceshield Elixir]}
 type: concoctiongear
 subType: elixir
 description: "Pale frosted blue elixir; grants protection against cold elements."

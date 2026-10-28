@@ -1,6 +1,6 @@
 ---
 shortcode: clublstvlt
-name: {full: The Burial Club's Last Vault, aliases: [The Quarrymen's Vault]}
+name: {full: The Burial Club's Last Vault, en: [The Quarrymen's Vault]}
 type: place
 subType: site
 description: "A rock-cut common tomb in the dry margin west of the river, where a quarrymen's burial club sealed its dead without a word of the rite, and where a struck Lekhau now works them at night."

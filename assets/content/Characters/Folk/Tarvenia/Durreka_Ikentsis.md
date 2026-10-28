@@ -1,6 +1,6 @@
 ---
 shortcode: durrekaikent
-name: {full: Dúrreka Ikentsis, aliases: [Lady Merchant Dúrreka]}
+name: {full: Dúrreka Ikentsis, en: [Lady Merchant Dúrreka]}
 type: being
 subType: npc
 description: An ambitious trader who views Hálrikos Bránthira's strict interpretation of contract law as an impediment.

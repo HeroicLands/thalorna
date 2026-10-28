@@ -1,6 +1,6 @@
 ---
 shortcode: qelti
-name: {full: Khelemur, aliases: []}
+name: {full: Khelemur}
 type: being
 subType: npc
 description: "A master playwright of Galezkara whose company trains the performers the court later claims to have discovered"

@@ -1,6 +1,6 @@
 ---
 shortcode: amqelmiglet
-name: {full: Amqel-Miglet, aliases: [The Delta Quays]}
+name: {full: Amqel-Miglet, en: [The Delta Quays]}
 type: place
 subType: region
 description: "The harbors of the northern selats, where the river's mouths meet the sea and the empire's foreign trade is landed, weighed and taxed"

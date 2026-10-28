@@ -1,6 +1,6 @@
 ---
 shortcode: vargfukar
-name: {full: The Finding at the Far Edge, aliases: [Varg-fukár]}
+name: {full: The Finding at the Far Edge, khaz: [varg-fukár]}
 type: lore
 subType: literature
 description: "The founding account of Vorgald, read below on the day of the finding: how the finder Fikir read the sea-cliff from a hired boat, refused the wide dry caverns of the north face, listened for a season, and found the refuge before a single home."
@@ -10,7 +10,7 @@ data:
   culture: khazariclt
   form: filnath
   subjects: [place-vorgald, lore-vorgaldcut, lore-khazariclt, lore-vardain]
-  language: khazarlng
+  lang: khaz
 ---
 
 **The Finding at the Far Edge**, _Varg-fukár_, is the founding account of [[place-vorgald|Vorgald]], the hold in the eastern part of [[place-ironfells|the Ironfells]] of [[place-aelwyth|Aelwyth]] that the [[lore-khazariclt|Khazari]] call _Varíg_, the far edge. It is a _filnath_, an account: exact prose in the order things happened, with every name, every measure and every cut, written by the keeper of the founding party's record while the founding went on and witnessed at the end of each year. On the day of the finding the hold goes down to the refuge, a keeper of the archive reads the account by lamplight, and when the reading reaches the founding inscription the eldest master reads that in its place, as it stands cut along a bedding seam above the inner door of the refuge, where no line of it runs straight. The account dates itself by the years of Khazartúrn (see [[lore-khazarturn|the Fall of Khazartúrn]]), the city the party was sent from; the record names the city, and the keeper reads "the city" in its place, because a hold says Khazartúrn's name only at the reading of its account. Outside the hold the date is about 3100 BF and no closer, as [[lore-vorgaldcut|the Cutting of Vorgald]] sets out. The account names every Khazár who crossed the water and none of the people of the shore, whose descendants are [[lore-vardain|the Vardain]]; the reading gives the crossers by house and count. Where the day-tally of the finder's season repeats, the keeper reads only the count of the repeated days. The text below is the account as it is read, with the inscription where the reading reaches it.

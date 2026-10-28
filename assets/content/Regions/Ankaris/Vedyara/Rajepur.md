@@ -1,6 +1,6 @@
 ---
 shortcode: rajepur
-name: {full: Rajepur, aliases: []}
+name: {full: Rajepur}
 type: place
 subType: settlement
 description: "The temple-seat of the Rajepur Janpoda, standing in the street-plan of the royal capital the sabhra dissolved."

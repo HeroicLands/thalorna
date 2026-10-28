@@ -1,6 +1,6 @@
 ---
 shortcode: telp
-name: {full: Telepathy, aliases: []}
+name: {full: Telepathy}
 type: mysticalability
 subType: arcanetalent
 description: "Speaks mind to mind with another, at a distance and without sound."

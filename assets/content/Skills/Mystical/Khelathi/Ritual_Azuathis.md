@@ -1,6 +1,6 @@
 ---
 shortcode: ritualazuths
-name: {full: "Ritual: Azu'athis", aliases: []}
+name: {full: "Ritual: Azu'athis"}
 type: skill
 subType: mystical
 tags: [khelathi, faith-skill, draft]

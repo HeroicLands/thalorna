@@ -1,6 +1,6 @@
 ---
 shortcode: anlaghzetun
-name: {full: Anlagh-Zetun, aliases: []}
+name: {full: Anlagh-Zetun}
 type: place
 subType: settlement
 description: "City (Granary Capital)"

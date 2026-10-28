@@ -1,6 +1,6 @@
 ---
 shortcode: clublstvltadv
-name: {full: The Unwritten Vault, aliases: []}
+name: {full: The Unwritten Vault}
 type: scenario
 subType: adventure
 description: "In a rock-cut tomb that no temple roll mentions, the dead rise at dusk to haul stone, and none of them was ever spoken over."

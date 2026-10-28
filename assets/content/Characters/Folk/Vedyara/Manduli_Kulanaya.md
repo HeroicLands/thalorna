@@ -1,6 +1,6 @@
 ---
 shortcode: mandulikulan
-name: {full: Manduli Kulanaya, aliases: [Priestess Manduli]}
+name: {full: Manduli Kulanaya, en: [Priestess Manduli]}
 type: being
 subType: npc
 description: High priestess of Rasikara's temple and a fellow devotee of the fire goddess, named in Vanika Ratnisen.

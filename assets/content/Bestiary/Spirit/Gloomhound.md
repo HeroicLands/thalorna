@@ -1,6 +1,6 @@
 ---
 shortcode: glmhnd
-name: {full: Gloomhound, aliases: []}
+name: {full: Gloomhound}
 type: being
 subType: creature
 description: "A semi-corporeal shadow-realm predator that hunts in coordinated packs, slipping through darkness and stone to ambush prey underground or by night."

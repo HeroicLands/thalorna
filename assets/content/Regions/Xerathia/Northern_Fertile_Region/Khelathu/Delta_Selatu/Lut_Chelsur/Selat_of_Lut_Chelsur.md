@@ -1,6 +1,6 @@
 ---
 shortcode: selatltchlsr
-name: {full: The Selat of Lut-Chelsur, aliases: []}
+name: {full: The Selat of Lut-Chelsur}
 type: affiliation
 subType: polity
 description: "Eastern marsh; the great crocodile cult and the river-beast hunters—one of the delta selatu of Au'Khelathu."

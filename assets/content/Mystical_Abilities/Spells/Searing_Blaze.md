@@ -1,6 +1,6 @@
 ---
 shortcode: srgblz
-name: {full: Searing Blaze, aliases: []}
+name: {full: Searing Blaze}
 type: mysticalability
 subType: arcaneincantation
 description: "Conjures intense flames; caster's touch ignites and burns."

@@ -1,6 +1,6 @@
 ---
 shortcode: loosenedknot
-name: {full: The Loosened Knot, aliases: []}
+name: {full: The Loosened Knot}
 type: mysticalability
 subType: arcaneincantation
 description: "Undoes a binding, ward or seal without destroying the surface that carries it."

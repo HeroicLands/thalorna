@@ -1,6 +1,6 @@
 ---
 shortcode: branwldrgr
-name: {full: Branval Dorgal, given: Branval, clan: Dorgal, aliases: []}
+name: {full: Branval Dorgal, given: Branval, clan: Dorgal}
 type: being
 subType: character
 tags: [hero, silent-talon, soldiery]

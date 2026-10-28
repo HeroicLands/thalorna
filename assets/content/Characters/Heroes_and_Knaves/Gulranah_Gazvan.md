@@ -1,6 +1,6 @@
 ---
 shortcode: gulrnhgzvn
-name: {full: Gulranah Gazvan, given: Gulranah, clan: Gazvan, aliases: []}
+name: {full: Gulranah Gazvan, given: Gulranah, clan: Gazvan}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, common-folk]

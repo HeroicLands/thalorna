@@ -1,6 +1,6 @@
 ---
 shortcode: cmmnshrk
-name: {full: Common Shark, aliases: []}
+name: {full: Common Shark}
 type: being
 subType: creature
 description: "A sleek oceanic predator honed for efficient killing, cruising warm and temperate seas and tracking prey through acute senses."

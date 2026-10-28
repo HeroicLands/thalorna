@@ -1,6 +1,6 @@
 ---
 shortcode: skjalfgeir
-name: {full: Skjalfgeir, aliases: []}
+name: {full: Skjalfgeir}
 type: lore
 subType: theology
 description: "Odvar’s legendary spear, depicted as never missing its mark and signifying precision and authority."

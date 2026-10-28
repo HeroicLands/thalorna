@@ -1,6 +1,6 @@
 ---
 shortcode: bizahelonikaenc
-name: {full: Bizarian Helonika Encoding, aliases: []}
+name: {full: Bizarian Helonika Encoding}
 type: doc
 subType: reference
 data:

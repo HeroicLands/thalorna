@@ -1,6 +1,6 @@
 ---
 shortcode: klhrcntnnt
-name: {full: Kalihara Continent, aliases: []}
+name: {full: Kalihara Continent}
 type: place
 subType: region
 description: A large tropical island in the western ocean, four hundred and fifty to seven hundred miles west of Okharis and Provenzia and about a week's sail in fair weather—one ancient civilization older than the Elder Races' arrival, closed to outsiders except through a few controlled ports on its eastern coast.

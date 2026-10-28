@@ -1,6 +1,6 @@
 ---
 shortcode: magaravlg
-name: {full: Magara Village, aliases: []}
+name: {full: Magara Village}
 type: place
 subType: settlement
 description: "Seat of the warlike Magara tribe and its horse herds, on the open plains of Okharis."

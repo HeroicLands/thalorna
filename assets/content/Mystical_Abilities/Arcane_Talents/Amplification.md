@@ -1,6 +1,6 @@
 ---
 shortcode: ampl
-name: {full: Amplification, aliases: []}
+name: {full: Amplification}
 type: mysticalability
 subType: arcanetalent
 description: "Lends force to another mystical working, carrying it beyond what its own practitioner could reach."

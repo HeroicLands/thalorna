@@ -1,6 +1,6 @@
 ---
 shortcode: gnildurmyl
-name: {full: Gnildurmil, aliases: [Lord Gnildurmil]}
+name: {full: Gnildurmil, en: [Lord Gnildurmil]}
 type: being
 subType: npc
 description: The lord of Ashenwood Manor, who keeps a feasting hall, named in Skilfvir Asgrind and Ashenwood Manor.

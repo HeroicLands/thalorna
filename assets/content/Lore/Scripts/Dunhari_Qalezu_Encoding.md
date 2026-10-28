@@ -1,6 +1,6 @@
 ---
 shortcode: dunhqalezuenc
-name: {full: Dunhari Qalezu Encoding, aliases: []}
+name: {full: Dunhari Qalezu Encoding}
 type: doc
 subType: reference
 data:

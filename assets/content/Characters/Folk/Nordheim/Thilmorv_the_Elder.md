@@ -1,8 +1,6 @@
 ---
 shortcode: thilmorvthee
-name:
-  full: Thilmorv the Elder
-  aliases: [Merchant-Lord Thilmorv the Elder, Merchant-Lord Thilmorv]
+name: {full: Thilmorv the Elder, en: [Merchant-Lord Thilmorv the Elder, Merchant-Lord Thilmorv]}
 type: being
 subType: npc
 description: A wealthy trader and merchant-lord who has commissioned five major pieces from Flarnthira Steinblet.

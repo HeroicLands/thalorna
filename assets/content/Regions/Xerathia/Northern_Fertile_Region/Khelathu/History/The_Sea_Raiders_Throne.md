@@ -1,6 +1,6 @@
 ---
 shortcode: searaiders
-name: {full: The Sea-Raiders' Throne, aliases: [The Malu'Thenoru]}
+name: {full: The Sea-Raiders' Throne, en: [The Malu'Thenoru]}
 type: lore
 subType: history
 description: "In 1960 ST (151 BF) raiders out of the north across the Vylarian Sea landed in the delta, burned the port of Zel-Amqelu and marched on Galezkara; the priesthood crowned their chief and entered their line as the house of Malu'Thenoru, which held the crown for three reigns."

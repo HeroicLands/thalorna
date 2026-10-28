@@ -1,6 +1,6 @@
 ---
 shortcode: tlldskfrd
-name: {full: The Toll You Will Not Miss, aliases: []}
+name: {full: The Toll You Will Not Miss}
 type: scenario
 subType: adventure
 description: "A ford rises only for the length of a dusk, and its keeper asks each traveler for something they will not miss until they reach the far bank."

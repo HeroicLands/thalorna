@@ -1,6 +1,6 @@
 ---
 shortcode: grukaraelwyth
-name: {full: The Grukar of Aelwyth, aliases: [The Aelwyth Grukar]}
+name: {full: The Grukar of Aelwyth, en: [The Aelwyth Grukar]}
 type: lore
 subType: folk
 description: "The Grukar of Aelwyth—established on the island for nearly seven hundred years, endemic in the empty interior, fought without pause by the tribal peoples and endlessly contained on every civilized frontier, and hated by the Khazari for reasons the Deep Folk have never given."

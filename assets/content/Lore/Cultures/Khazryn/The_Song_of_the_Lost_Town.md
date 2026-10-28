@@ -1,6 +1,6 @@
 ---
 shortcode: velkunsong
-name: {full: The Song of the Lost Town, aliases: [Veshkunrelum]}
+name: {full: The Song of the Lost Town, telu: [Veshkunrelum]}
 type: lore
 subType: literature
 description: "The Tellumi epic of old Vahurdash as a cloth-teller sings it in the caravan yards of Kethramír: a prince who refused a stranger the guest-right, a champion who kept his oath past sense, the springs leaving the city one by one, a son killed at a shut gate, and the tablets still in their cellars under the sand."
@@ -17,7 +17,7 @@ data:
     - affiliation-khzrncnfdrtn
     - place-swoasisbelt
     - place-kethramir
-  language: khazrilng
+  lang: telu
 ---
 
 **The Song of the Lost Town**, _Veshkunrelum_, is the song the [[lore-khazrynclt|Tellumi]] cloth-tellers sing of [[place-velkunar|Veshkun]], the old city of [[place-vahurdash|Vahurdash]] that a drought emptied on the dry northern rim of [[place-swoasisbelt|Tellumel]]. It is a _lavun_, a telling before the cloth: the teller spreads a painted linen, a _pirsesh_, across the wall of a hired courtyard in the caravan yards of [[place-kethramir|Kethramír]], sings in couplets, and points with a reed to the scene he is singing, so that the yard sees the gate as it hears of it. He is paid by the scene, and he stops at the end of each to be paid. The song is one episode of a longer cycle on the seven cities; the tellers call the episodes before and after it by name and sing them on other nights, and a yard that has heard the whole cycle has sat through a month of evenings.

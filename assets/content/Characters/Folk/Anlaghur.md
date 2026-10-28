@@ -1,6 +1,6 @@
 ---
 shortcode: anlaghur
-name: {full: Anlaghur, aliases: []}
+name: {full: Anlaghur}
 type: being
 subType: npc
 description: "The Gar-Au's nephew and an Iru'palu, whose blood places him near the succession and whose temperament places him some way from it"

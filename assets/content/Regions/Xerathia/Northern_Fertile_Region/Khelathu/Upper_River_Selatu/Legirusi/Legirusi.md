@@ -1,6 +1,6 @@
 ---
 shortcode: legirusi
-name: {full: Legirusi, aliases: []}
+name: {full: Legirusi}
 type: place
 subType: settlement
 description: "Selat capital of Legirusi."

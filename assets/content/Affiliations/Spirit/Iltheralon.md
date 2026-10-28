@@ -1,6 +1,6 @@
 ---
 shortcode: astrokyklos
-name: {full: Iltheron, aliases: []}
+name: {full: Iltheron}
 type: affiliation
 subType: spirittradition
 tags: []

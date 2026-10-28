@@ -1,6 +1,6 @@
 ---
 shortcode: sunhemakarve
-name: {full: Sunhema Karvemun, aliases: [Merchant Princess Sunhema]}
+name: {full: Sunhema Karvemun, en: [Merchant Princess Sunhema]}
 type: being
 subType: npc
 description: Head of a major caravan enterprise that proposes an expedition across the desert to a fabled land, named in Kharanah Khafur.

@@ -1,6 +1,6 @@
 ---
 shortcode: vulture
-name: {full: Vulture, aliases: []}
+name: {full: Vulture}
 type: being
 subType: creature
 description: "A massive soaring desert scavenger with a nine-foot wingspan, riding thermals for hours to feast wherever death visits the steppe."

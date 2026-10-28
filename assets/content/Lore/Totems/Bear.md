@@ -1,6 +1,6 @@
 ---
 shortcode: bearttm
-name: {full: Bear, aliases: [Bear Totem]}
+name: {full: Bear, en: [Bear Totem]}
 type: lore
 subType: bestiary
 description: "The bear as a totemic ideal, and the human character it describes."

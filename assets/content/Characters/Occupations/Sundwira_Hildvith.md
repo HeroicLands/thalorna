@@ -1,6 +1,6 @@
 ---
 shortcode: sndwrhldvth
-name: {full: Sundwira yra Hildvith wur Frithhaven, aliases: []}
+name: {full: Sundwira yra Hildvith wur Frithhaven}
 type: being
 subType: npc
 tags: [draft, common-folk]

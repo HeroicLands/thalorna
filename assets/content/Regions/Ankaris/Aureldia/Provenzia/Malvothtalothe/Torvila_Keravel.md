@@ -1,6 +1,6 @@
 ---
 shortcode: caerceravel
-name: {full: Torvila Keravel, aliases: [Keravel Castle]}
+name: {full: Keravel Castle, prov: [Torvila Keravel]}
 type: place
 subType: settlement
 description: "The castle town of Keravel Vale, seat of the Marshal of the Western Army, who holds the vale against Tarvénia and its bandits."

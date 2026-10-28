@@ -1,6 +1,6 @@
 ---
 shortcode: pchsoul
-name: {full: Parched Soul, aliases: []}
+name: {full: Parched Soul}
 type: mysticalability
 subType: arcaneincantation
 description: "Victims suffer overwhelming thirst; dehydration sets in rapidly."

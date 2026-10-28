@@ -1,6 +1,6 @@
 ---
 shortcode: kezvunenanom
-name: {full: Kezvunena Nomismakit, aliases: [Advocate Kezvunena Nomismakit]}
+name: {full: Kezvunena Nomismakit, en: [Advocate Kezvunena Nomismakit]}
 type: being
 subType: npc
 description: The most feared litigant in the Bizarian League's commercial courts, to whom Nomasáhr Paraklavos was apprenticed.

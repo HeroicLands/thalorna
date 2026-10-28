@@ -1,8 +1,6 @@
 ---
 shortcode: zarvanya
-name:
-  full: Faith of Zárvanya
-  aliases: [The Weaver of Visions, "Zárvanya, The Weaver of Visions"]
+name: {full: Faith of Zárvanya, en: [The Weaver of Visions, "Zárvanya, The Weaver of Visions"]}
 type: affiliation
 subType: faithtradition
 description: "Dreams."

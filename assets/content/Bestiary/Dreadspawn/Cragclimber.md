@@ -1,6 +1,6 @@
 ---
 shortcode: crgclmbr
-name: {full: Cragclimber, aliases: []}
+name: {full: Cragclimber}
 type: being
 subType: creature
 description: "A draconic cliffside ambush predator perfectly adapted to vertical hunting, lurking invisible on rockfaces until the moment it strikes."

@@ -1,6 +1,6 @@
 ---
 shortcode: angaros
-name: {full: Faith of Angaros, aliases: [The Shadowed Serpent, "Angaros, The Shadowed Serpent"]}
+name: {full: Faith of Angaros, en: [The Shadowed Serpent, "Angaros, The Shadowed Serpent"]}
 type: affiliation
 subType: faithtradition
 description: "Chaos."

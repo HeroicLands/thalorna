@@ -1,6 +1,6 @@
 ---
 shortcode: absrbt
-name: {full: Absorbent, aliases: []}
+name: {full: Absorbent}
 type: mysticalability
 subType: arcaneincantation
 description: "Enchants surface to drink liquid far beyond natural capacity."

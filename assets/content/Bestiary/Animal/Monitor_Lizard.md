@@ -1,6 +1,6 @@
 ---
 shortcode: mntrlzrd
-name: {full: Monitor Lizard, aliases: []}
+name: {full: Monitor Lizard}
 type: being
 subType: creature
 description: "A large, agile reptile five to seven feet long with a camouflaged hide and muscular neck, a lean predator of arid and rocky terrain."

@@ -1,6 +1,6 @@
 ---
 shortcode: mntntrll
-name: {full: Mountain Troll, aliases: []}
+name: {full: Mountain Troll}
 type: being
 subType: creature
 description: "A primordial alpine guardian of immense weight and strength, roaming high peaks and caverns as a solitary omnivore that tolerates no rival."

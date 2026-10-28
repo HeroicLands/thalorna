@@ -1,6 +1,6 @@
 ---
 shortcode: wethurdty
-name: {full: Weth'ur, aliases: []}
+name: {full: Weth'ur}
 type: lore
 subType: deity
 tags: [draft]

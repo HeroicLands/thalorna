@@ -1,6 +1,6 @@
 ---
 shortcode: orb
-name: {full: Orb, aliases: []}
+name: {full: Orb}
 type: mysticalability
 subType: arcaneincantation
 description: "Sphere of magical energy floating and following caster."

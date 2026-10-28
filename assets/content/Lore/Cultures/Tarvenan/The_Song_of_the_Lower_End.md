@@ -1,6 +1,6 @@
 ---
 shortcode: lowerendsong
-name: {full: The Song of the Lower End, aliases: [The Long Poem of the Gorge]}
+name: {full: The Song of the Lower End, en: [The Long Poem of the Gorge]}
 type: lore
 subType: literature
 description: "The long poem Asturath sings after supper of the Horn Gorge, in the voice of the herd boy who carried stone there: the man struck from Tórsaro's roll on three witnesses' word, the lower end he asked for and the stone he swore on, the legion's recall blown a night too late, and the name the company gave him on the stone when there was nobody left to give it to."
@@ -16,7 +16,7 @@ data:
     - place-asturath
     - affiliation-kngdmstrth
     - lore-tarvenanclt
-  language: tarvenlng
+  lang: tarv
 
 # terran_analog: "The chanson de geste, above all the Song of Roland and the Cantar de mio Cid: verse paragraphs of uneven length held on one assonant vowel, the same moment told in successive paragraphs from different sides, the horn sounded too late, the rearguard that holds the pass and dies, and the vassal exiled on a false word who stays loyal to the lord who exiled him."
 ---

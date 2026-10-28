@@ -1,6 +1,6 @@
 ---
 shortcode: hofsmadurrnk
-name: {full: "Hofsmadur", aliases: [Hov Acolyte]}
+name: {full: Hofsmadur, en: [Hov Acolyte]}
 type: lore
 subType: law
 description: "Given to a hov young and years short of the priesthood, in the faiths of the Ten that keep the blet."

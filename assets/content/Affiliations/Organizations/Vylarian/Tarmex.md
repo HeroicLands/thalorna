@@ -1,6 +1,6 @@
 ---
 shortcode: tarmex
-name: {full: The Tarmeks Orzan, aliases: [The Tarmeks]}
+name: {full: The Tarmeks Orzan, vyl: [The Tarmeks]}
 type: affiliation
 subType: governmental
 description: "Vylarian imperial treasury and central bank—holds the empire's bullion reserves, issues the master and traveler's notes that underwrite continental commerce, and extracts a 2% issuance fee from every note generated even in territories the empire no longer governs."

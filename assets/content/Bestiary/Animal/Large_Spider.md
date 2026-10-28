@@ -1,6 +1,6 @@
 ---
 shortcode: lrgspdr
-name: {full: Large Spider, aliases: []}
+name: {full: Large Spider}
 type: being
 subType: creature
 description: "A dark-chitined arachnid with an eighteen-to-thirty-inch leg span, its bristled body armed with sensory hairs for stalking small prey."

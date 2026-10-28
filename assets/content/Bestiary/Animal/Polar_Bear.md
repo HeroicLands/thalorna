@@ -1,6 +1,6 @@
 ---
 shortcode: plrbr
-name: {full: Polar Bear, aliases: [Ice Bear]}
+name: {full: Polar Bear, en: [Ice Bear]}
 type: being
 subType: creature
 description: "The apex arctic predator of the far north, a solitary fifteen-hundred-pound hunter of ice and freezing water, a pure carnivore unlike the omnivorous brown bear."

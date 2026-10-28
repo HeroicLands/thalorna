@@ -1,6 +1,6 @@
 ---
 shortcode: raiderscairn
-name: {full: The Raiders' Cairn, aliases: []}
+name: {full: The Raiders' Cairn}
 type: place
 subType: site
 description: "A stone pile in a gorge below Suvargeri's mountain road where Bharyastan's horse caught the raiders of the last gold raid about 80 BF, raised a stone higher by every tribute party that has gone up since."

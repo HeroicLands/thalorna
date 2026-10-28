@@ -1,6 +1,6 @@
 ---
 shortcode: donkeyttm
-name: {full: Donkey, aliases: [Donkey Totem]}
+name: {full: Donkey, en: [Donkey Totem]}
 type: lore
 subType: bestiary
 description: "The donkey as a totemic ideal, and the human character it describes."

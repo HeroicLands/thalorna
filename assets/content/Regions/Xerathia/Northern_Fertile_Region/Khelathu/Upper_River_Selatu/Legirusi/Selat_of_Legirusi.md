@@ -1,6 +1,6 @@
 ---
 shortcode: selatlegirus
-name: {full: The Selat of Legirusi, aliases: []}
+name: {full: The Selat of Legirusi}
 type: affiliation
 subType: polity
 description: "Stone-quarries and master masons; the temple-workshops that carve the monuments—one of the upper-river selatu of Au'Khelathu."

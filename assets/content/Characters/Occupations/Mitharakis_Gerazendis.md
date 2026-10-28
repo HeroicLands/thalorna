@@ -1,6 +1,6 @@
 ---
 shortcode: mthrksgrznds
-name: {full: Mitharakis Gerazendis, aliases: []}
+name: {full: Mitharakis Gerazendis}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

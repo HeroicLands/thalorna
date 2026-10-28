@@ -1,6 +1,6 @@
 ---
 shortcode: osmndwnwck
-name: {full: Hildstan Winwik, aliases: []}
+name: {full: Hildstan Winwik}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

@@ -1,6 +1,6 @@
 ---
 shortcode: twothrones
-name: {full: The War of the Two Thrones, aliases: []}
+name: {full: The War of the Two Thrones}
 type: lore
 subType: history
 description: "From 1525 ST to 1531 ST the Galezkara house of Zu'Magetu fought the Gar-Au of Lenen-Nezut up and down the river, and the war ended in the wheatland of Iqeru with the death of Zab'el'Psaqa III and the crowning of Kuz'el'Qar I at Galezkara."

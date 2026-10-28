@@ -1,6 +1,6 @@
 ---
 shortcode: ptnemm
-name: {full: The Bitter Purge, aliases: ["Potion, Emetic, Mild"]}
+name: {full: The Bitter Purge, en: ["Potion, Emetic, Mild"]}
 type: concoctiongear
 subType: exotic
 description: "Clear greenish tinted draft; causes violent purging of body."

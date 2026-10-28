@@ -1,6 +1,6 @@
 ---
 shortcode: pigeonttm
-name: {full: Pigeon, aliases: [Pigeon Totem]}
+name: {full: Pigeon, en: [Pigeon Totem]}
 type: lore
 subType: bestiary
 description: "The pigeon as a totemic ideal, and the human character it describes."

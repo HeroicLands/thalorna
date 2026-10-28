@@ -1,6 +1,6 @@
 ---
 shortcode: pelerarsathe
-name: {full: Pelerar Satheris, aliases: [Swordmaster Pelerar]}
+name: {full: Pelerar Satheris, en: [Swordmaster Pelerar]}
 type: being
 subType: npc
 description: A celebrated swordmaster in the dueling circles of Salkalon, under whom Koremdanis Barkratis trained from age twelve.

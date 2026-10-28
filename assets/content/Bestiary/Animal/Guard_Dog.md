@@ -1,6 +1,6 @@
 ---
 shortcode: guarddog
-name: {full: Guard Dog, aliases: []}
+name: {full: Guard Dog}
 type: being
 subType: creature
 description: "A large, disciplined canine bred for protection, obeying its handler's commands while defending settlements and charges with the aggression of a trained predator."

@@ -1,6 +1,6 @@
 ---
 shortcode: bldfldtiravlen
-name: {full: Blood-field of Tiravlen, aliases: []}
+name: {full: Blood-field of Tiravlen}
 type: place
 subType: site
 description: "A recurrent blood-field on the shore of Lake Tiravel, where the battle replays over the water on the anniversary and the lakeside villages have made an observance of staying indoors."

@@ -1,6 +1,6 @@
 ---
 shortcode: selatiuthnet
-name: {full: The Selat of Iuthnet, aliases: []}
+name: {full: The Selat of Iuthnet}
 type: affiliation
 subType: polity
 description: "Healing-temples and birth-shrines; the great cult of the mother-goddess—one of the upper-river selatu of Au'Khelathu."

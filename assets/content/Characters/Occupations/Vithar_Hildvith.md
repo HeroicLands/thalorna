@@ -1,6 +1,6 @@
 ---
 shortcode: vthrhldvth
-name: {full: Vithár yra Hildvith wur Waldburg, aliases: []}
+name: {full: Vithár yra Hildvith wur Waldburg}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

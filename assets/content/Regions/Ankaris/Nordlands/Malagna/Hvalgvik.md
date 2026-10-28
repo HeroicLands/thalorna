@@ -1,6 +1,6 @@
 ---
 shortcode: hvalgvik
-name: {full: Hvalgvík, aliases: []}
+name: {full: Hvalgvík}
 type: place
 subType: settlement
 description: "Coastal Village"

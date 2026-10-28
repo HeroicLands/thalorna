@@ -1,6 +1,6 @@
 ---
 shortcode: ashford
-name: {full: Ashford, aliases: []}
+name: {full: Ashford}
 type: place
 subType: settlement
 description: "Aldorath's chief river crossing and drove-market—where the kingdom's wool and cattle are gathered before going down to the coast."

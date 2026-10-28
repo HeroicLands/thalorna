@@ -1,6 +1,6 @@
 ---
 shortcode: trthflr
-name: {full: Truthflare, aliases: []}
+name: {full: Truthflare}
 type: mysticalability
 subType: arcaneincantation
 description: "Reveals deception instantly; exposes lies and falsehoods."

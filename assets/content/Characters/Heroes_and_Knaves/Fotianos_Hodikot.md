@@ -1,6 +1,6 @@
 ---
 shortcode: ftnshdkt
-name: {full: Stemios Hodikot, given: Stemios, clan: Hodikot, aliases: []}
+name: {full: Stemios Hodikot, given: Stemios, clan: Hodikot}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]

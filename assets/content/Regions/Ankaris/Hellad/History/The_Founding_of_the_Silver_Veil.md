@@ -1,6 +1,6 @@
 ---
 shortcode: heladsilverveil
-name: {full: The Founding of the Silver Veil, aliases: [The First Rule of Kalidria]}
+name: {full: The Founding of the Silver Veil, en: [The First Rule of Kalidria]}
 type: lore
 subType: history
 description: "About 260 BF, half a century after the conquest, the patron families of Kalidria found an academy to train companions in music, philosophy, rhetoric and the social arts for the households of Vylarian therkoi and kurthoi, on the principle that a city that could not keep its freedom by arms would keep it by conversation."

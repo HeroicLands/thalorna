@@ -1,6 +1,6 @@
 ---
 shortcode: brakshrlns
-name: {full: Brakos Harlanis, aliases: []}
+name: {full: Brakos Harlanis}
 type: being
 subType: npc
 tags: [todo-warrior, draft, soldiery]

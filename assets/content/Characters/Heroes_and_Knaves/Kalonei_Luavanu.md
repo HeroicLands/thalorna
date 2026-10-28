@@ -1,6 +1,6 @@
 ---
 shortcode: klnlvn
-name: {full: Kalonei Luavanu, given: Kalonei, clan: Luavanu, aliases: []}
+name: {full: Kalonei Luavanu, given: Kalonei, clan: Luavanu}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, common-folk]

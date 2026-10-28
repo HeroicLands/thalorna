@@ -1,6 +1,6 @@
 ---
 shortcode: plasahrolkad
-name: {full: Plasáhr Olkadakit, aliases: [Merchant-Lord Plasáhr Olkadakit]}
+name: {full: Plasáhr Olkadakit, en: [Merchant-Lord Plasáhr Olkadakit]}
 type: being
 subType: npc
 description: A rival merchant-broker operating in the Bizarian League's central territories, named in Fibakon Siderakit.

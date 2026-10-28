@@ -1,6 +1,6 @@
 ---
 shortcode: groascmpgn
-name: {full: Groa's Campaign, aliases: []}
+name: {full: Groa's Campaign}
 type: scenario
 subType: adventure
 data:

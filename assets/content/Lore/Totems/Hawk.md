@@ -1,6 +1,6 @@
 ---
 shortcode: hawkttm
-name: {full: Hawk, aliases: [Hawk Totem]}
+name: {full: Hawk, en: [Hawk Totem]}
 type: lore
 subType: bestiary
 description: "The hawk as a totemic ideal, and the human character it describes."

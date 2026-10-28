@@ -1,6 +1,6 @@
 ---
 shortcode: anthorvdrisk
-name: {full: Anthorv Driskumak, aliases: [Lord Anthorv Driskumak]}
+name: {full: Anthorv Driskumak, en: [Lord Anthorv Driskumak]}
 type: being
 subType: npc
 description: A cold and exacting nobleman of moderate wealth who owns the household servant Dvilgthira Skraldumak.

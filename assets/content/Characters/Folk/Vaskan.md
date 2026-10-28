@@ -1,6 +1,6 @@
 ---
 shortcode: vaskan
-name: {full: Vaskan, aliases: []}
+name: {full: Vaskan}
 type: being
 subType: npc
 description: "The Bizarian lord who holds the Southern March for the League council, and whose choice of one beast-trainer over another began a feud that has outlasted the commission"

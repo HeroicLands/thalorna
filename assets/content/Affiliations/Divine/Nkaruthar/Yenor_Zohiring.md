@@ -1,8 +1,9 @@
 ---
 shortcode: yenorzhrng
 name:
-  full: Yenor Zohiring
-  aliases: [The Spirit Path, The Way of the Zohira, The Shamanic Tradition of Okharis]
+  full: The Spirit Path
+  en: [The Way of the Zohira, The Shamanic Tradition of Okharis]
+  okha: [Yenor Zohiring]
 type: affiliation
 subType: spirittradition
 description: "The Okharik shamanic tradition—the kwendari zohiring who are bound to the zohira by the Spirit Hunt, holding no rank in any temple and standing alongside the Eternal Flame rather than against it."

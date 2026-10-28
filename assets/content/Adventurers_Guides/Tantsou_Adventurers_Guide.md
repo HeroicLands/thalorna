@@ -1,6 +1,6 @@
 ---
 shortcode: tantsouadvguide
-name: {full: Tantsou Adventurer's Guide, aliases: []}
+name: {full: Tantsou Adventurer's Guide}
 type: doc
 subType: settingguide
 description: A short player and GM introduction to the Empire of Tantsou—its eight castes, its celestial bureaucracy, the foreigner's place outside the sorted world, and the ways a campaign begins there.

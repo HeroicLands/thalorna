@@ -1,6 +1,6 @@
 ---
 shortcode: gazelle
-name: {full: Gazelle, aliases: []}
+name: {full: Gazelle}
 type: being
 subType: creature
 description: "A small, extraordinarily fast antelope of the deep desert, grazing gravel plains and scrublands in herds that flee predators at blistering speed."

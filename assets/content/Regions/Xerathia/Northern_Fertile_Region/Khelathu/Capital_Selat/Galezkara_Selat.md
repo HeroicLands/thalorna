@@ -1,6 +1,6 @@
 ---
 shortcode: galezkaraslt
-name: {full: Galezkara Selat, aliases: []}
+name: {full: Galezkara Selat}
 type: place
 subType: region
 description: "The vast central country surrounding the imperial city of Galezkara—its dense hinterland of temple-towns and market-villages and the royal necropolis on the western bank, the land of the Capital Selat."

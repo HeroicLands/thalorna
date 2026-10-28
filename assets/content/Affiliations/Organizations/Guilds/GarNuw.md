@@ -1,6 +1,6 @@
 ---
 shortcode: garnuw
-name: {full: Gar'Nuw, aliases: []}
+name: {full: Gar'Nuw}
 type: affiliation
 subType: guild
 description: "Gar-Au's chartered guild of professional hunters and beast-specialists—licensing the empire's game-takers, dangerous-beast cullers, and the suppliers of the temple and market hunts."

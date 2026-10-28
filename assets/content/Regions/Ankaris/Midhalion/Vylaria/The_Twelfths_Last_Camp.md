@@ -1,6 +1,6 @@
 ---
 shortcode: twelfthcamp
-name: {full: The Twelfth's Last Camp, aliases: [The Kervaron Fort, The Wintering Fort]}
+name: {full: The Twelfth's Last Camp, en: [The Kervaron Fort, The Wintering Fort]}
 type: place
 subType: site
 description: "A ruined frontier fort below the Kervaron passes where the last cohorts of the Doran Hilvan wintered about 680 AF, recently cleared of the undead by a border patrol; the legion's lost eagle may lie in it."

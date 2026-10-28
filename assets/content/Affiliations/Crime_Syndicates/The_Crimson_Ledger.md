@@ -1,6 +1,6 @@
 ---
 shortcode: crimsnldgr
-name: {full: The Crimson Ledger, aliases: []}
+name: {full: The Crimson Ledger}
 type: affiliation
 subType: criminal
 description: "Financial crime network born from Taruzel's post-independence chaos, controlling money laundering, debt bondage, and the leverage that wealthy secrets provide."

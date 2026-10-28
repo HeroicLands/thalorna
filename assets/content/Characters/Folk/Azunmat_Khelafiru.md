@@ -1,6 +1,6 @@
 ---
 shortcode: azunmtkhlfr
-name: {full: Azunmat Khelafiru, aliases: []}
+name: {full: Azunmat Khelafiru}
 type: being
 subType: npc
 description: "Steersman of the Zeghet'Nelgu and leader of the sacred hunt, holding a company that the temple priesthood would rather see disbanded"

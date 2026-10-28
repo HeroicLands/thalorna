@@ -1,6 +1,6 @@
 ---
 shortcode: provsemaronenc
-name: {full: Provenzal Semaron Encoding, aliases: []}
+name: {full: Provenzal Semaron Encoding}
 type: doc
 subType: reference
 data:

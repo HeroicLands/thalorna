@@ -1,6 +1,6 @@
 ---
 shortcode: companyswornrnk
-name: {full: "Sworn of a Signed Company", aliases: []}
+name: {full: Sworn of a Signed Company}
 type: lore
 subType: law
 description: "A common warrior of a Compact-signed company, testified by his captain, in Málalidabandalag."

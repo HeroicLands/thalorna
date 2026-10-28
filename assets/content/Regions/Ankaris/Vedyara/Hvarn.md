@@ -1,6 +1,6 @@
 ---
 shortcode: hvarnguides
-name: {full: The Hvarn, aliases: []}
+name: {full: The Hvarn}
 type: affiliation
 subType: polity
 description: The guide-people of the Eastern Reach—fewer, poorer and better connected than the Osket, keeping the two eastern crossings and supplying the one fort on the wall.

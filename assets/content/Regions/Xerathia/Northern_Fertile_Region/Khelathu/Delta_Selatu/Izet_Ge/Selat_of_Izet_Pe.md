@@ -1,6 +1,6 @@
 ---
 shortcode: selatizetge
-name: {full: The Selat of Izet-Ge, aliases: []}
+name: {full: The Selat of Izet-Ge}
 type: affiliation
 subType: polity
 description: "Date-palm plantations and the sweet delta wines—one of the delta selatu of Au'Khelathu."

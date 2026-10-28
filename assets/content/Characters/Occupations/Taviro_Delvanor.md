@@ -1,6 +1,6 @@
 ---
 shortcode: tavirdlvnr
-name: {full: Taviro Delvanor, aliases: []}
+name: {full: Taviro Delvanor}
 type: being
 subType: npc
 tags: [draft, common-folk]

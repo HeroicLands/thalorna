@@ -1,6 +1,6 @@
 ---
 shortcode: patienteye
-name: {full: The Academy of the Patient Eye, aliases: []}
+name: {full: The Academy of the Patient Eye}
 type: place
 subType: structure
 description: "The marksmanship hall of the bow-fort, which teaches accuracy at extreme range and supplies the personal bowmen of Vedyari nobility."

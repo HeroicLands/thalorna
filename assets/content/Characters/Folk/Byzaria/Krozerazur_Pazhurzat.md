@@ -1,6 +1,6 @@
 ---
 shortcode: krozerazurpa
-name: {full: Krozerazur Pazhurzát, aliases: [Captain Krozerazur Pazhurzát]}
+name: {full: Krozerazur Pazhurzát, en: [Captain Krozerazur Pazhurzát]}
 type: being
 subType: npc
 description: A gruff merchant vessel commander who apprenticed Plantash Tredis at twelve and remains his closest professional contact.

@@ -1,6 +1,6 @@
 ---
 shortcode: selatiaqetlq
-name: {full: The Selat of Iaqet-Leqa, aliases: []}
+name: {full: The Selat of Iaqet-Leqa}
 type: affiliation
 subType: polity
 description: "Eastern desert wells and quarry-roads; a dry, sun-burned garrison selat—one of the border selatu of Au'Khelathu."

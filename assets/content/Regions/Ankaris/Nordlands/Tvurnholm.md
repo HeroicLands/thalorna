@@ -1,6 +1,6 @@
 ---
 shortcode: tvurnholm
-name: {full: Tvurnholm, aliases: []}
+name: {full: Tvurnholm}
 type: place
 subType: settlement
 description: "A Nordlands city of strict laws and rigid order, brought to riot by Skulfmil Fire-Tongue, whose ruling council has put the largest bounty in northern history on his head."

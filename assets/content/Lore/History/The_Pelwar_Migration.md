@@ -1,6 +1,6 @@
 ---
 shortcode: pelwarmigr
-name: {full: The Pelwar Migration, aliases: [The Migration]}
+name: {full: The Pelwar Migration, en: [The Migration]}
 type: lore
 subType: history
 description: "Three centuries of displacement, from approximately 1400 BF to approximately 1100 BF, push whole peoples west across half a continent until the movement runs out of land against the western sea—and a few communities go across the water."

@@ -1,6 +1,6 @@
 ---
 shortcode: ossendaspr
-name: {full: "Óssenda, the White Owl of the Hollow", aliases: []}
+name: {full: "Óssenda, the White Owl of the Hollow"}
 type: lore
 subType: spirit
 description: "Owl-spirit of the Owl Hollow—keeper of what is spoken at night, and the Kindred shamen consult about the dead."

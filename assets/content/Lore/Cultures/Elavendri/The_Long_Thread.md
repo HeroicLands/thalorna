@@ -1,6 +1,6 @@
 ---
 shortcode: longthread
-name: {full: The Long Thread, aliases: [Áuvenna's Thread]}
+name: {full: The Long Thread, en: [Áuvenna's Thread]}
 type: lore
 subType: literature
 description: "The tale the spinning bees of the inner coast tell on the long nights, passed from wheel to wheel when a thread breaks: the spinner who spun a thread for one of the deeper places on a hinge-night so that her line would not end, the name that was not to be asked, and the knot in the thread that every spinner at the bee still finds with her fingers."
@@ -15,7 +15,7 @@ data:
     - affiliation-groveconcl
     - affiliation-lusinia
     - lore-elavendriclt
-  language: elvndrlng
+  lang: elav
 
 # terran_analog: "The fairy-bride and fairy-husband tales of Brittany and the Celtic fringe, with their taboo laid at the bargain (do not ask the name, do not look on the forbidden day), for the plot; Mélusine for the condition that binds a lineage; the spinning bee and the women's winter work-gathering where tales were told in turns, for the occasion; the folk etiology of a household custom."
 ---

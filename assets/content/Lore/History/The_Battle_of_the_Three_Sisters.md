@@ -1,6 +1,6 @@
 ---
 shortcode: threesistrs
-name: {full: The Battle of the Three Sisters, aliases: [The End of the Elder Kingdom]}
+name: {full: The Battle of the Three Sisters, en: [The End of the Elder Kingdom]}
 type: lore
 subType: history
 description: "In 984 BF the Sinale king of the joint Aelwythan kingdom is killed at the Three Sisters by the Varkhad—and the Sinale abandon the crown, the kingdom and every claim outside the Hallowwood."

@@ -1,6 +1,6 @@
 ---
 shortcode: gntspdr
-name: {full: Giant Spider, aliases: []}
+name: {full: Giant Spider}
 type: being
 subType: creature
 description: "A four-foot-bodied web-hunter spinning three-dimensional silken mazes through caves and forests, dominating its territory with sticky traps and venom."

@@ -1,6 +1,6 @@
 ---
 shortcode: akhozamenlaa
-name: {full: Akhoza-Menlaa, aliases: []}
+name: {full: Akhoza-Menlaa}
 type: place
 subType: site
 description: "The hidden work of a circle that experiments upon the dead and the spirit-realm, in defiance of everything the Khelathi hold about the balance between the two"

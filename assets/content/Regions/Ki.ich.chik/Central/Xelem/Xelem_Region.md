@@ -1,6 +1,6 @@
 ---
 shortcode: xelemrgn
-name: {full: Shelem Region, aliases: []}
+name: {full: Shelem Region}
 type: place
 subType: region
 description: "The river-bound jungle, table mountains and cloud forest that are the land of Shelem, the Land of Birds on the eastern edge of Central Ki'ich'chik."

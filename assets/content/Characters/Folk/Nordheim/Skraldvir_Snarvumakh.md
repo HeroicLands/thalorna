@@ -1,6 +1,6 @@
 ---
 shortcode: skraldvirsna
-name: {full: Skraldvir Snarvumak, aliases: [Jarl Skraldvir Snarvumak]}
+name: {full: Skraldvir Snarvumak, en: [Jarl Skraldvir Snarvumak]}
 type: being
 subType: npc
 description: A prideful jarl who once challenged Skalforv Thunderstrike to a holmgang and was humiliated.

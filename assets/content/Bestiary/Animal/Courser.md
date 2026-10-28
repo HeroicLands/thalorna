@@ -1,6 +1,6 @@
 ---
 shortcode: courser
-name: {full: Courser, aliases: []}
+name: {full: Courser}
 type: being
 subType: creature
 description: "A light, swift horse bred for speed and stamina, the nervous, quick-reacting mount favored by scouts, messengers, and light cavalry."

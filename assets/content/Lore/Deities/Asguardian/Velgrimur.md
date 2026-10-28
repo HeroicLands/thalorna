@@ -1,6 +1,6 @@
 ---
 shortcode: velgrimurdty
-name: {full: Velgrímur, aliases: []}
+name: {full: Velgrímur}
 type: lore
 subType: deity
 description: "The Trickster of the Asguardian gods—cunning, deception, and the patron thieves invoke before a theft."

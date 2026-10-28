@@ -1,6 +1,6 @@
 ---
 shortcode: lwrmhndjnpd
-name: {full: Lower Mahanodi Janpoda, aliases: []}
+name: {full: Lower Mahanodi Janpoda}
 type: affiliation
 subType: polity
 description: "The janpoda of the lower Mahanodi circuit, to which the pilgrim town of Bharanya belongs."

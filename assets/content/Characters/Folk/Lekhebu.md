@@ -1,6 +1,6 @@
 ---
 shortcode: lekhebu2
-name: {full: Lekhebu, aliases: []}
+name: {full: Lekhebu}
 type: being
 subType: npc
 description: "A merchant-prince dealing in fine furnishings, supplying the houses that want to be seen to have the best"

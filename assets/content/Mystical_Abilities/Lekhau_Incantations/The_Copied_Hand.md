@@ -1,6 +1,6 @@
 ---
 shortcode: copiedhand
-name: {full: The Copied Hand, aliases: []}
+name: {full: The Copied Hand}
 type: mysticalability
 subType: arcaneincantation
 description: "Reproduces a document exactly, including the qualities of the hand that made it."

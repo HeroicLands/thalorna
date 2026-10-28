@@ -1,6 +1,6 @@
 ---
 shortcode: nclvlrss
-name: {full: Enclave of Aelirosse, aliases: []}
+name: {full: Enclave of Aelirosse}
 type: affiliation
 subType: polity
 description: "A Sinale enclave of the Silver Forests, governed by its own lord and answering to neither the crown of Élavendre nor the Áelendan Wardens."

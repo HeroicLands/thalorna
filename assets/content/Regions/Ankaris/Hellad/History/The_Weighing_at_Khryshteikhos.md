@@ -1,6 +1,6 @@
 ---
 shortcode: heladweighing
-name: {full: The Weighing at Krusteikhos, aliases: [The Brass Standard]}
+name: {full: The Weighing at Krusteikhos, en: [The Brass Standard]}
 type: lore
 subType: history
 description: "About 455 AF the city weigher of Krusteikhos weighs the tax-farmers' brass standard against the city's own in the Merchant Hall and proves it heavy, a riot burns the customs house, and the Orzas's commissioners concede that customs in the five cities are weighed on the cities' own standards, kept by an officer each city elects."

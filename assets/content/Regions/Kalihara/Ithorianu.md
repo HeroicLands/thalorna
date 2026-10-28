@@ -1,6 +1,6 @@
 ---
 shortcode: ithorianu
-name: {full: Ithorianu, aliases: []}
+name: {full: Ithorianu}
 type: place
 subType: settlement
 description: "The lake-shore town of Kalihara's Bowl, where the Elders of the lineages keep their inland houses and the island's record of Council decisions is kept."

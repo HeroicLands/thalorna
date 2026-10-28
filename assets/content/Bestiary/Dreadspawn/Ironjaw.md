@@ -1,6 +1,6 @@
 ---
 shortcode: ironjaw
-name: {full: Ironjaw, aliases: []}
+name: {full: Ironjaw}
 type: being
 subType: creature
 description: "A metal-fused pack predator that hunts mountains and industrial wastes, marking territory with bones and claw-scratches."

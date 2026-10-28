@@ -1,6 +1,6 @@
 ---
 shortcode: zezabugasezb
-name: {full: Zezabu Gasezabu, aliases: []}
+name: {full: Zezabu Gasezabu}
 type: being
 subType: npc
 description: "A lady and scholar who served the empire on diplomatic missions to neighbouring realms, and raised a daughter to do the same"

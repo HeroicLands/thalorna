@@ -1,6 +1,6 @@
 ---
 shortcode: chakultzklrgn
-name: {full: Ch'akul Tsa'kul Region, aliases: []}
+name: {full: Ch'akul Tsa'kul Region}
 type: place
 subType: region
 description: "Sand seas, mesas and salt flats—the land of Ch'akul Tsa'kul, the desert barrier at the southern edge of Northern Ki'ich'chik."

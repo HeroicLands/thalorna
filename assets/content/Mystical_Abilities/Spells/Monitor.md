@@ -1,6 +1,6 @@
 ---
 shortcode: monitor
-name: {full: Monitor, aliases: []}
+name: {full: Monitor}
 type: mysticalability
 subType: arcaneincantation
 description: "Creates magical eye observing distant location; relays visual information."

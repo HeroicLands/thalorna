@@ -1,6 +1,6 @@
 ---
 shortcode: shrrshkhmsn
-name: {full: Sharrush Khamisuni, aliases: []}
+name: {full: Sharrush Khamisuni}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]

@@ -1,6 +1,6 @@
 ---
 shortcode: northrnmrch
-name: {full: Northern March, aliases: []}
+name: {full: Northern March}
 type: place
 subType: region
 description: The Bizarian League's northern frontier district—the upland rim of the plateau toward Velanthia, down which the grain road runs and across which the League and the Velanthian Hosts keep a quiet, commercial border.

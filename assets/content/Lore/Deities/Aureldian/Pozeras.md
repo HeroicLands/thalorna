@@ -1,6 +1,6 @@
 ---
 shortcode: pozerasdty
-name: {full: Pozeras, aliases: []}
+name: {full: Pozeras}
 type: lore
 subType: deity
 description: "The Wayfarer of the Aureldian pantheon—voyages, roads, and the crossings merchants and messengers make."

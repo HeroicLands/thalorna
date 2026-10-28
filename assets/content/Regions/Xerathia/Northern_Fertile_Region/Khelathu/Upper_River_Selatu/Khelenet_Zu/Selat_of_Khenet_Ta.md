@@ -1,6 +1,6 @@
 ---
 shortcode: selatkhelntz
-name: {full: The Selat of Khelenet-Zu, aliases: []}
+name: {full: The Selat of Khelenet-Zu}
 type: affiliation
 subType: polity
 description: "Old assize-courts; a selat famous for its lawyer-priests and land-survey scribes—one of the upper-river selatu of Au'Khelathu."

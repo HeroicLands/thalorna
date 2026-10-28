@@ -1,6 +1,6 @@
 ---
 shortcode: shdwspnn
-name: {full: Shadowspinner, aliases: []}
+name: {full: Shadowspinner}
 type: being
 subType: creature
 description: "An infernally intelligent apex arachnid that engineers light-drinking webs to trap prey and shatter the spirits of onlookers."

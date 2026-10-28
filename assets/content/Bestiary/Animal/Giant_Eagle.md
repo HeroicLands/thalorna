@@ -1,6 +1,6 @@
 ---
 shortcode: gntegl
-name: {full: Giant Eagle, aliases: []}
+name: {full: Giant Eagle}
 type: being
 subType: creature
 description: "A mount-sized mountain raptor with a twenty-foot wingspan and armor-piercing talons, hunting high passes with calculating tactical intelligence."

@@ -1,6 +1,6 @@
 ---
 shortcode: xrthnsvn
-name: {full: Zerathian Savanna Elephant, aliases: []}
+name: {full: Zerathian Savanna Elephant}
 type: being
 subType: creature
 description: "The largest land creature alive, a towering savanna elephant living in matriarch-led herds across the Zerathian grasslands."

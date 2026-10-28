@@ -1,6 +1,6 @@
 ---
 shortcode: grimakburning
-name: {full: The Burning at Grimak, aliases: [The Waking at Grimak, The Empty Mound]}
+name: {full: The Burning at Grimak, en: [The Waking at Grimak, The Empty Mound]}
 type: lore
 subType: history
 description: "About 532 AF a Grukar tribe woke in a marsh thicket in the famine-emptied forest of Skathwald and took three Varokh villages in a winter; four winters later the Skathwald villages went in over the frozen marsh and burned the nest with its spawner in it, and Mahnreth raised an empty mound for the people the Grukar had taken."

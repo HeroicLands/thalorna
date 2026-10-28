@@ -1,6 +1,6 @@
 ---
 shortcode: oasishirvn
-name: {full: Oasis of Shirvan, aliases: []}
+name: {full: Oasis of Shirvan}
 type: place
 subType: settlement
 description: "The first and holiest of the seven Tellumi cities, a spring city under the Vurinkarvem cliff, held by the Atarzád since the Breaking and the seat of the Tellumi Confederation in everything but fact."

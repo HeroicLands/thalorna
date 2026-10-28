@@ -1,6 +1,6 @@
 ---
 shortcode: ptnems
-name: {full: "Witch's Swill", aliases: ["Potion, Emetic, Strong"]}
+name: {full: Witch's Swill, en: ["Potion, Emetic, Strong"]}
 type: concoctiongear
 subType: exotic
 description: "Murky yellow-brown concentrate; causes sickness and repulsion."

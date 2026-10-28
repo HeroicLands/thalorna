@@ -1,6 +1,6 @@
 ---
 shortcode: bugonvodidek
-name: {full: Bugon Vodidek, aliases: []}
+name: {full: Bugon Vodidek}
 type: being
 subType: npc
 description: The deceased uncle of Stemios Hodikot, proprietor of the celebrated inn called the Starlight Crown.

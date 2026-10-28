@@ -1,6 +1,6 @@
 ---
 shortcode: gabrschdrs
-name: {full: Gáberos Khaddaris, aliases: []}
+name: {full: Gáberos Khaddaris}
 type: being
 subType: npc
 tags: [todo-warrior, draft, soldiery]

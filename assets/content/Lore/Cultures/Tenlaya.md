@@ -1,12 +1,12 @@
 ---
 shortcode: tenlayaclt
-name: {full: Tenlaya, aliases: []}
+name: {full: Grass People, kiichek: ["P'enqal Ch'akal"], tenl: [tenlaya]}
 type: lore
 subType: culture
 description: "The Grass People of the northern plains—their beliefs, their mores, and what they hold a person owes."
 tags: []
 data:
-  language: skill-tenlayalng
+  lang: tenl
   glossary:
     - name: "tanshe"
       definition: "A bison, and the herd; the meat, robes, sinew and bone that keep the people alive."

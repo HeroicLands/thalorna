@@ -1,6 +1,6 @@
 ---
 shortcode: ludrapur
-name: {full: Ludrapur, aliases: []}
+name: {full: Ludrapur}
 type: place
 subType: site
 description: "The walled capital of the march kingdom of Marupal, burned by the Storm of the Hundred Banners in 315 AF and never reoccupied: a wall-circuit, a burned palace mound and an empty temple off the road between the coast and Ashvapada, where the march companies winter."

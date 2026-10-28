@@ -1,6 +1,6 @@
 ---
 shortcode: skraldborg
-name: {full: Skraldborg, aliases: []}
+name: {full: Skraldborg}
 type: place
 subType: settlement
 description: "Hill Fort"

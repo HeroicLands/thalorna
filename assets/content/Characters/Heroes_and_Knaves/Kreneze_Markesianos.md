@@ -1,6 +1,6 @@
 ---
 shortcode: krnzmrksns
-name: {full: Kreneze Vokoghis, given: Kreneze, clan: Vokoghis, aliases: []}
+name: {full: Kreneze Vokoghis, given: Kreneze, clan: Vokoghis}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]

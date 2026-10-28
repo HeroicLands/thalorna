@@ -1,6 +1,6 @@
 ---
 shortcode: jayarshapadm
-name: {full: Jayarsha Padmadiksha, aliases: [Kulena Jayarsha]}
+name: {full: Jayarsha Padmadiksha, en: [Kulena Jayarsha]}
 type: being
 subType: npc
 description: Father of Pritarika Padmadiksha, who believed that women of great-house blood should receive an education equal to men's and was powerful enough to defend it.

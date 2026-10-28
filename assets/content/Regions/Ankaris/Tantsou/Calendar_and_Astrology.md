@@ -1,6 +1,6 @@
 ---
 shortcode: clndrstrlgy
-name: {full: Calendar and Astrology, aliases: []}
+name: {full: Calendar and Astrology}
 type: lore
 subType: calendar
 description: "The two calendars of Tantsou—dynastic year-naming for law and trade, and the Celestial Calendar of Generations, phases and spirit animals—with the months and festivals of the year."

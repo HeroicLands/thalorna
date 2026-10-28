@@ -1,6 +1,6 @@
 ---
 shortcode: swornhandrnk
-name: {full: "Sworn Hand", aliases: [Eidhond]}
+name: {full: Sworn Hand, nord: [eidhond]}
 type: lore
 subType: law
 description: "The warrior-judge of the Order of the Sworn Hand, riding circuit to render and enforce rulings under the white wand."

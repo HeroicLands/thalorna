@@ -1,6 +1,6 @@
 ---
 shortcode: ratnakupa
-name: {full: Ratnakupa, aliases: []}
+name: {full: Ratnakupa}
 type: place
 subType: settlement
 description: "Lapidary village below Lower Suvargeri, whose cutters rough out the stones the jewelers' quarter sets."

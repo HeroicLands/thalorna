@@ -1,6 +1,6 @@
 ---
 shortcode: harholt
-name: {full: Harholt, aliases: []}
+name: {full: Harholt}
 type: place
 subType: settlement
 description: "A Varokh village in Falkhaven whose old pines are where the western musters gather each thaw."

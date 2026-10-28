@@ -1,6 +1,6 @@
 ---
 shortcode: nyalbnlng
-name: {full: Nyáluban Language, aliases: []}
+name: {full: Nyáluban Language}
 type: skill
 subType: language
 description: "The Nyáluban oral speech, whose keepers carry messages across miles by drum and pitch as readily as by voice."

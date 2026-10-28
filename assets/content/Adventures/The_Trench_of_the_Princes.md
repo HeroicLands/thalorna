@@ -1,6 +1,6 @@
 ---
 shortcode: trenchprinces
-name: {full: Masks in the Dry Wash, aliases: []}
+name: {full: Masks in the Dry Wash}
 type: scenario
 subType: adventure
 description: "Grave-robbers have dug into a sacked palace's tomb in a dry wash, and figures in cracked gold masks now stand at the edge of every campfire."

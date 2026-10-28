@@ -1,6 +1,6 @@
 ---
 shortcode: shorinyadty
-name: {full: Shorinya Ndafo, aliases: [The Great Brightness]}
+name: {full: The Great Brightness, nyal: [shorinya ndafo]}
 type: lore
 subType: deity
 description: "The Great Brightness of the Nyáluba—the diffuse source from which every spirit came and to which all return, named and never addressed."

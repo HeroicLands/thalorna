@@ -1,6 +1,6 @@
 ---
 shortcode: solrundty
-name: {full: Solrún, aliases: []}
+name: {full: Solrún}
 type: lore
 subType: deity
 description: "The Golden One of the Asguardian gods—love, beauty, and the prosperity of a household."

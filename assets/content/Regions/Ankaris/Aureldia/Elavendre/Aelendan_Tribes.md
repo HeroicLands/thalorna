@@ -1,6 +1,6 @@
 ---
 shortcode: aelndntrbs
-name: {full: Áelendan Tribes, aliases: []}
+name: {full: Áelendan Tribes}
 type: affiliation
 subType: polity
 description: ""

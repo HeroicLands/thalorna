@@ -1,6 +1,6 @@
 ---
 shortcode: qsdnyshdm
-name: {full: Kusadan Yushudum, aliases: []}
+name: {full: Kusadan Yushudum}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

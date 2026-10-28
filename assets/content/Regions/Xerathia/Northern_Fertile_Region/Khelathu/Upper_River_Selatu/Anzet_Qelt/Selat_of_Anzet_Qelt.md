@@ -1,6 +1,6 @@
 ---
 shortcode: selatanztqlt
-name: {full: The Selat of Anzet-Qelt, aliases: []}
+name: {full: The Selat of Anzet-Qelt}
 type: affiliation
 subType: polity
 description: "Jackal-cult and desert-edge tombs; embalmers and tomb-guards—one of the upper-river selatu of Au'Khelathu."

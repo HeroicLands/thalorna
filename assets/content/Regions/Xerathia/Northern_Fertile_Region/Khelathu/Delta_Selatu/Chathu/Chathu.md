@@ -1,6 +1,6 @@
 ---
 shortcode: chathu
-name: {full: Chathu, aliases: []}
+name: {full: Chathu}
 type: place
 subType: settlement
 description: "Selat capital of Chathu."

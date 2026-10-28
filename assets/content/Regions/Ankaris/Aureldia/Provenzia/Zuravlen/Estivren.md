@@ -1,6 +1,6 @@
 ---
 shortcode: estivren
-name: {full: Estivren, aliases: []}
+name: {full: Estivren}
 type: place
 subType: settlement
 description: "The upland sheep manor of Zuravlen—oldest of the three, poorest in coin, holding the summer pastures and the folding rights the orchards below cannot do without."

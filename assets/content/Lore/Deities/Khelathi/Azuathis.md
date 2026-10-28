@@ -1,6 +1,6 @@
 ---
 shortcode: azuathisdty
-name: {full: Azu'athis, aliases: []}
+name: {full: Azu'athis}
 type: lore
 subType: deity
 tags: [draft]

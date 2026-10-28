@@ -1,6 +1,6 @@
 ---
 shortcode: thyrenae2
-name: {full: Thirenae, aliases: []}
+name: {full: Thirenae}
 type: place
 subType: settlement
 description: "The oldest and most prestigious Helionite city, seat of the great academies, the Library of Thirenae and the first home of the Epistémion."

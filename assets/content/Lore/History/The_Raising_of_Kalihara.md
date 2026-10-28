@@ -1,6 +1,6 @@
 ---
 shortcode: kaliharupl
-name: {full: The Raising of Kalihara, aliases: [The Uplift of Kalihara]}
+name: {full: The Raising of Kalihara, en: [The Uplift of Kalihara]}
 type: lore
 subType: history
 description: "The Ithari raise the human bands of Kalihara into a civilization that arrives complete—language, agriculture, medicine, governance and Thári'vaan—and do it nowhere else on Thalorna."

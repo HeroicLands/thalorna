@@ -1,6 +1,6 @@
 ---
 shortcode: gwirador
-name: {full: Guredor, aliases: [The Wild Bull Camel]}
+name: {full: Guredor, en: [The Wild Bull Camel]}
 type: being
 subType: creature
 description: "The feral two-humped bull camel of the deep sands, a placid grazer for ten months of the year and a killer of riders in the cold months of rut."

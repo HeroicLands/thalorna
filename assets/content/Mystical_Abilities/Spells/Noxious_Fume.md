@@ -1,6 +1,6 @@
 ---
 shortcode: nxfum
-name: {full: Noxious Fume, aliases: []}
+name: {full: Noxious Fume}
 type: mysticalability
 subType: arcaneincantation
 description: "Clouds of toxic gas causing illness and disorientation."

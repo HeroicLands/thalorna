@@ -1,6 +1,6 @@
 ---
 shortcode: hldndrgn
-name: {full: Haldena Durgana, aliases: []}
+name: {full: Haldena Durgana}
 type: being
 subType: npc
 tags: [todo-warrior, draft, soldiery]

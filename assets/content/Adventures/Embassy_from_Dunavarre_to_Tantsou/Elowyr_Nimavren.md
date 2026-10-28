@@ -1,6 +1,6 @@
 ---
 shortcode: elowyrnimavren
-name: {full: Elowir Nimavren, given: Elowir, clan: Nimavren, aliases: []}
+name: {full: Elowir Nimavren, given: Elowir, clan: Nimavren}
 type: being
 subType: character
 tags: [draft, embassy-to-tantsou]

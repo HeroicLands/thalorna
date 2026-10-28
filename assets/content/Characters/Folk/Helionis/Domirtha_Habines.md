@@ -1,6 +1,6 @@
 ---
 shortcode: domirthahabi
-name: {full: Dómirtha Habines, aliases: [Admiral Dómirtha Habines]}
+name: {full: Dómirtha Habines, en: [Admiral Dómirtha Habines]}
 type: being
 subType: npc
 description: The senior naval commander overseeing Habidon Ghanides's current detachment, an officer of long service.

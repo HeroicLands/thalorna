@@ -1,6 +1,6 @@
 ---
 shortcode: flrnthyrstnblt
-name: {full: Flarnthira Steinblet, given: Flarnthira, clan: Steinblet, aliases: []}
+name: {full: Flarnthira Steinblet, given: Flarnthira, clan: Steinblet}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]

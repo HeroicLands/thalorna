@@ -1,6 +1,6 @@
 ---
 shortcode: zhazho
-name: {full: Zhazho, aliases: []}
+name: {full: Zhazho}
 type: lore
 subType: law
 description: "The first caste of Tantsou—the Emperor, his family and the Warlords, the lineage the celestial bureaucracy appointed to administer the sorted world, holding final authority in state, war and faith."

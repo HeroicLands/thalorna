@@ -1,6 +1,6 @@
 ---
 shortcode: zurathra
-name: {full: "Ritual: Zúrathra", aliases: [Mother of the Oasis]}
+name: {full: "Ritual: Zúrathra", en: [Mother of the Oasis]}
 type: skill
 subType: mystical
 tags: [ashalan, faith-skill, draft]

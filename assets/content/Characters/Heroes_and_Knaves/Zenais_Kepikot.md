@@ -1,6 +1,6 @@
 ---
 shortcode: zenskpkt
-name: {full: Ghofa Kepikot, given: Ghofa, clan: Kepikot, aliases: []}
+name: {full: Ghofa Kepikot, given: Ghofa, clan: Kepikot}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]

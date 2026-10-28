@@ -1,6 +1,6 @@
 ---
 shortcode: gajeguluqztr
-name: {full: Gajegulu Kuztar, aliases: [Gaje]}
+name: {full: Gajegulu Kuztar, khel: [gaje]}
 type: being
 subType: npc
 description: "Harpooner of the Zeghet'Nelgu and the deadliest man on the water, whose reputation rests on a precision nobody in the company disputes"

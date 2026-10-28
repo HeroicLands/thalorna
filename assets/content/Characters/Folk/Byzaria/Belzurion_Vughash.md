@@ -1,6 +1,6 @@
 ---
 shortcode: belzurionvug
-name: {full: Belzurion Vughash, aliases: [Lord Belzurion Vughash]}
+name: {full: Belzurion Vughash, en: [Lord Belzurion Vughash]}
 type: being
 subType: npc
 description: A regional noble of the frontier who maintains vast estates, named in Mivios Zapemes.

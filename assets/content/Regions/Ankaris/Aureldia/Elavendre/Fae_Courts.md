@@ -1,6 +1,6 @@
 ---
 shortcode: faecourts
-name: {full: The Fae Courts, aliases: []}
+name: {full: The Fae Courts}
 type: lore
 subType: spirit
 data: {packFolder: elavendre, culture: elavendriclt}

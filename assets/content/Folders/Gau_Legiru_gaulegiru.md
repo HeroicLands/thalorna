@@ -1,6 +1,6 @@
 ---
 shortcode: gaulegiru
-name: {full: Gau-Legiru, aliases: []}
+name: {full: Gau-Legiru}
 type: folder
 data: {parent: deltaselatu, color: "#A5D6A7"}
 ---

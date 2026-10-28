@@ -1,6 +1,6 @@
 ---
 shortcode: valdrengir
-name: {full: Valdrengir, aliases: []}
+name: {full: Valdrengir}
 type: lore
 subType: theology
 description: "The honored dead gathered into the gods’ halls to train for Aldarlok."

@@ -1,6 +1,6 @@
 ---
 shortcode: nartum
-name: {full: Nartun, aliases: []}
+name: {full: Nartun}
 type: place
 subType: settlement
 description: "Holy City"

@@ -1,6 +1,6 @@
 ---
 shortcode: kanixhakan
-name: {full: "Faith of K'anish Ha'kan", aliases: [The Golden Giver, "K'anish Ha'kan"]}
+name: {full: Faith of K'anish Ha'kan, en: [The Golden Giver], kiichek: [K'anish Ha'kan]}
 type: affiliation
 subType: faithtradition
 description: "Prosperity and the harvest—the maize god from whose sacred dough humankind was made, beloved rather than feared, whose festivals feed even the slaves."

@@ -1,6 +1,6 @@
 ---
 shortcode: ixilankulrgn
-name: {full: Ish'ilankul Region, aliases: []}
+name: {full: Ish'ilankul Region}
 type: place
 subType: region
 description: "The highland plateau of volcanic peaks, terraced valleys and pyramid-temples that is the land of Ish'ilankul, at the heart of Central Ki'ich'chik."

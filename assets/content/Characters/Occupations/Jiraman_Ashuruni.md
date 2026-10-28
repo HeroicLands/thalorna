@@ -1,6 +1,6 @@
 ---
 shortcode: jrmnashrn
-name: {full: Jiraman Ashuruni, aliases: []}
+name: {full: Jiraman Ashuruni}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

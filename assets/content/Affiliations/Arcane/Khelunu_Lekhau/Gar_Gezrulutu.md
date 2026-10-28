@@ -1,6 +1,6 @@
 ---
 shortcode: gargezrulutu
-name: {full: Gar-Gezru'lutu, aliases: [House of the Red Land, The House of Desert]}
+name: {full: Gar-Gezru'lutu, en: [House of the Red Land, The House of Desert]}
 type: affiliation
 subType: arcanetradition
 tags: [gethunu-lekhau, arcane, khelathi]

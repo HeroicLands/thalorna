@@ -1,6 +1,6 @@
 ---
 shortcode: oltremalizel
-name: {full: Oltrema Lizelis, aliases: [Lady Oltrema Lizelis]}
+name: {full: Oltrema Lizelis, en: [Lady Oltrema Lizelis]}
 type: being
 subType: npc
 description: A wealthy widow with refined aesthetic tastes who has commissioned several major pieces, named in Eldira Torvaleth.

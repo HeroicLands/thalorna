@@ -1,6 +1,6 @@
 ---
 shortcode: rcitkngsmhnd
-name: {full: Recitation of the Kings of Mahanodi, aliases: [The Recitation of the Kings]}
+name: {full: Recitation of the Kings of Mahanodi, en: [The Recitation of the Kings]}
 type: lore
 subType: literature
 description: "The Memory-Keeper's recitation at Rajepur: the line of the Kingdom of Mahanodi from its ancestor to the six worsening kings, the forty-day sabhra, and the acknowledgment that the kingdom is no more."
@@ -16,7 +16,7 @@ data:
     - place-rajavalilib
     - miscgear-recitationroll
     - lore-vyalendradty
-  language: vedyarlng
+  lang: vedy
   packFolder: vedyara
 ---
 

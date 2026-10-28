@@ -1,6 +1,6 @@
 ---
 shortcode: dstrctn
-name: {full: Distraction, aliases: []}
+name: {full: Distraction}
 type: mysticalability
 subType: arcaneincantation
 description: "Diverts attention; targets ignore caster despite obvious presence."

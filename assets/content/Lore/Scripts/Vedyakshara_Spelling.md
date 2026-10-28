@@ -1,6 +1,6 @@
 ---
 shortcode: vedyvedyaksharaenc
-name: {full: Vedyari Vedyakshara Encoding, aliases: []}
+name: {full: Vedyari Vedyakshara Encoding}
 type: doc
 subType: reference
 data:

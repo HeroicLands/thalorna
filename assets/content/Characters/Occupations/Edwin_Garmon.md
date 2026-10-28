@@ -1,6 +1,6 @@
 ---
 shortcode: edwingarmn
-name: {full: Wilwin Garmon, aliases: []}
+name: {full: Wilwin Garmon}
 type: being
 subType: npc
 tags: [draft, soldiery]

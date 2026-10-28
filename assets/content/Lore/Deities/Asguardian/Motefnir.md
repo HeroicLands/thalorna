@@ -1,6 +1,6 @@
 ---
 shortcode: motefnirdty
-name: {full: Mótefnir, aliases: []}
+name: {full: Mótefnir}
 type: lore
 subType: deity
 description: "The Maker of the Asguardian gods—craft, invention, and the made creatures that cannot breed."

@@ -1,6 +1,6 @@
 ---
 shortcode: haulonna
-name: {full: Thalmdal, aliases: [the Sinale Haulonna]}
+name: {full: Thalmdal, en: [the Sinale Haulonna]}
 type: place
 subType: site
 data: {demonym: null, lore: [], parents: [nordheim], population: null, packFolder: nordheim}

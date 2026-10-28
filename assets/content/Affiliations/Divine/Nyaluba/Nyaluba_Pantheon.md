@@ -1,8 +1,6 @@
 ---
 shortcode: nyalbpnthn
-name:
-  full: Nyáluba Pantheon
-  aliases: [The Nyáluba Way, The Totems of the Nyáluba, Nyáluba Faith]
+name: {full: Nyáluba Pantheon, en: [The Nyáluba Way, The Totems of the Nyáluba, Nyáluba Faith]}
 type: affiliation
 subType: spirittradition
 description: "The shamanic tradition of the Nyáluba Tribal Nation—one unvenerated source, many venerated spirit guides, five clan totems, and a council of shamans in place of any priesthood."

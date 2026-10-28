@@ -1,6 +1,6 @@
 ---
 shortcode: fryslvlskyr
-name: {full: Frisala Valskir, aliases: []}
+name: {full: Frisala Valskir}
 type: being
 subType: npc
 tags: [draft, administration]

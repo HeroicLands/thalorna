@@ -1,6 +1,6 @@
 ---
 shortcode: ceravelvale
-name: {full: Keravel Vale, aliases: [Vale of Keravel]}
+name: {full: Keravel Vale, en: [Vale of Keravel]}
 type: place
 subType: region
 description: "A rugged frontier vale of the Talote, manorial estates and villages anchored by Torvila Keravel, troubled by banditry and facing Tarvénia."

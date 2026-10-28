@@ -1,6 +1,6 @@
 ---
 shortcode: linzegarmglt
-name: {full: Lin'Zegaru elu Miglet, aliases: [The Farmers' Cooperative of the Lower Delta]}
+name: {full: Lin'Zegaru elu Miglet, en: [The Farmers' Cooperative of the Lower Delta]}
 type: affiliation
 subType: guild
 description: The farming households of the northern selats, banded to bring their grain to market on their own terms rather than a factor's

@@ -1,6 +1,6 @@
 ---
 shortcode: elxfrm
-name: {full: The Second Utterance, aliases: [Formfix Elixir]}
+name: {full: The Second Utterance, en: [Formfix Elixir]}
 type: concoctiongear
 subType: elixir
 description: "Clear transparent elixir; grants second chance against magical failures."

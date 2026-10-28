@@ -1,6 +1,6 @@
 ---
 shortcode: lore
-name: {full: Lore, aliases: []}
+name: {full: Lore}
 type: doc
 subType: reference
 description: Myths, legends, and background lore.

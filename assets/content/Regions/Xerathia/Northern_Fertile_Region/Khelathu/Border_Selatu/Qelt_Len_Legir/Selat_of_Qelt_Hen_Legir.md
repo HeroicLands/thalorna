@@ -1,6 +1,6 @@
 ---
 shortcode: seltqltlnlgr
-name: {full: The Selat of Qelt-Len-Legir, aliases: []}
+name: {full: The Selat of Qelt-Len-Legir}
 type: affiliation
 subType: polity
 description: "Forward southern forts beyond the first cataract; the empire's hardest postings—one of the border selatu of Au'Khelathu."

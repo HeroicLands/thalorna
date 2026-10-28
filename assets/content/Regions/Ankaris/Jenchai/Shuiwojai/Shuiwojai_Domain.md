@@ -1,6 +1,6 @@
 ---
 shortcode: shuiwojaidmn
-name: {full: Shuiwojai Domain, aliases: [House Shuiwojai]}
+name: {full: Shuiwojai Domain, en: [House Shuiwojai]}
 type: affiliation
 subType: polity
 description: "The domain of House Shuiwojai—Rojai and its salt pans, shipyards and strait fleet, held from the castle town of Hawu by the lord who leads the Strait bloc and wants the office of Teng Ja."

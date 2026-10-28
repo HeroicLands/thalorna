@@ -1,6 +1,6 @@
 ---
 shortcode: hvulgdal
-name: {full: Hvulgdal, aliases: []}
+name: {full: Hvulgdal}
 type: place
 subType: settlement
 description: "A farming dale of the Nordlands under Jarl Hlaskinda, whose harvests Bruldorv Greenshield manages on her authority."

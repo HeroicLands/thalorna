@@ -1,6 +1,6 @@
 ---
 shortcode: elxgst
-name: {full: Veil-Piercer, aliases: [Ghostsight Elixir]}
+name: {full: Veil-Piercer, en: [Ghostsight Elixir]}
 type: concoctiongear
 subType: elixir
 description: "Pearlescent opalescent draft; grants perception of unseen incorporeal."

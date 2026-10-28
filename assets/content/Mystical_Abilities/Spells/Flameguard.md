@@ -1,6 +1,6 @@
 ---
 shortcode: flmgrd
-name: {full: Flameguard, aliases: []}
+name: {full: Flameguard}
 type: mysticalability
 subType: arcaneincantation
 description: "Surrounds self in protective flame; harms those who strike caster."

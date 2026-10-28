@@ -1,6 +1,6 @@
 ---
 shortcode: gadjuzechi
-name: {full: Gadju-Zechi, aliases: []}
+name: {full: Gadju-Zechi}
 type: place
 subType: settlement
 description: "A marsh-channel village near Gar-Anlaghet, living by net and ferry among the waterways that thread the delta port"

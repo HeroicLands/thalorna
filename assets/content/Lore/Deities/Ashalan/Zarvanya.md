@@ -1,6 +1,6 @@
 ---
 shortcode: zarvanyadty
-name: {full: Zárvanya, aliases: []}
+name: {full: Zárvanya}
 type: lore
 subType: deity
 description: "The Weaver of Visions in the Ashaian pantheon, holding dreams and what is read in them."

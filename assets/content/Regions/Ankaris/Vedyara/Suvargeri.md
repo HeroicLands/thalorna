@@ -1,6 +1,6 @@
 ---
 shortcode: suvargeri
-name: {full: Suvargeri, aliases: []}
+name: {full: Suvargeri}
 type: place
 subType: settlement
 description: "The temple-seat of the Suvargeri Janpoda, in three parts on the streams of the gold mountain, holding the weighing-station and the jewelers' quarter."

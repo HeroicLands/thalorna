@@ -1,6 +1,6 @@
 ---
 shortcode: veitharikuet
-name: {full: Veithari Kuethori, aliases: [Merchant Prince Veithari]}
+name: {full: Veithari Kuethori, en: [Merchant Prince Veithari]}
 type: being
 subType: npc
 description: A wealthy foreign trader who visits Au'Khelathu regularly for business, named in Thamiyra Geza'Uzu.

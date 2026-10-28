@@ -1,6 +1,6 @@
 ---
 shortcode: zrnshtrb
-name: {full: Zarnush, aliases: []}
+name: {full: Zarnush}
 type: affiliation
 subType: polity
 description: "A middling steppe tribe of three hundred families on three wells, boxed in by stronger neighbors and sustained by caravan tolls."

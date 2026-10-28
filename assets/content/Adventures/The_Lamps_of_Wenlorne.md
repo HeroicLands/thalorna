@@ -1,6 +1,6 @@
 ---
 shortcode: lampswenlorne
-name: {full: Pale Lamps on the Crown Road, aliases: []}
+name: {full: Pale Lamps on the Crown Road}
 type: scenario
 subType: adventure
 description: "A line of pale lamps lights the old Crown Road at dusk to a waystation whose keeper feeds every guest and never opens the gate again."

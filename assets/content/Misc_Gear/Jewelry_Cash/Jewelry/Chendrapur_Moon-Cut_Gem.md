@@ -1,6 +1,6 @@
 ---
 shortcode: mooncutgem
-name: {full: Chendrapur Moon-Cut Gem, aliases: []}
+name: {full: Chendrapur Moon-Cut Gem}
 type: miscgear
 description: "A stone assayed, sawn, cut, polished and set within Chendrapur's own walls—the finished end of the gem trade the whole region cuts for."
 tags: []

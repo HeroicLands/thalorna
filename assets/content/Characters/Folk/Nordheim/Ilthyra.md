@@ -1,6 +1,6 @@
 ---
 shortcode: ilthyra
-name: {full: Ilthira, aliases: []}
+name: {full: Ilthira}
 type: being
 subType: npc
 description: A woman known for her excellence in textile dying and pattern design, mother of Glirvrinna Snarvumak.

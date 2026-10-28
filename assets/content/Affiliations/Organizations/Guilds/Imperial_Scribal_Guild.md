@@ -2,7 +2,8 @@
 shortcode: imprlscrblgld
 name:
   full: The Imperial Scribal Guild
-  aliases: [The Guild of Imperial Letters, Notran, The Vylarian Scribal Guild]
+  en: [The Guild of Imperial Letters, The Vylarian Scribal Guild]
+  vyl: [Notran]
 type: affiliation
 subType: guild
 description: "Chartered guild administering all official writing in the Vylarian Empire—from imperial edicts to provincial tax rolls—and the bureaucratic backbone on which the empire actually runs."

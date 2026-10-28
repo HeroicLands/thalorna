@@ -1,6 +1,6 @@
 ---
 shortcode: theashroad
-name: {full: The Ash Road, aliases: []}
+name: {full: The Ash Road}
 type: affiliation
 subType: criminal
 description: "Desert caravan syndicate commanding vast interior territory through drug trafficking, antiquities smuggling, and tribal guides the empire cannot replace."

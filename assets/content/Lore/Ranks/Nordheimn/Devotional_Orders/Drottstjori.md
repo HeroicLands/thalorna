@@ -1,6 +1,6 @@
 ---
 shortcode: drottstjorirnk
-name: {full: "Dróttstjori", aliases: []}
+name: {full: Dróttstjori}
 type: lore
 subType: law
 description: "The leading standing of a devotional order of the faiths of the Ten, holding its fullest claim on what it confers."

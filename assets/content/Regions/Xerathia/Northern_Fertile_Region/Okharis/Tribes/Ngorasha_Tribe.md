@@ -1,6 +1,6 @@
 ---
 shortcode: ngorashatrb
-name: {full: Ngorasha Tribe, aliases: []}
+name: {full: Ngorasha Tribe}
 type: affiliation
 subType: polity
 description: A river tribe of the Okharis that lives by netting and smoking fish.

@@ -1,6 +1,6 @@
 ---
 shortcode: hetolubemo
-name: {full: Heto Lubemo, aliases: []}
+name: {full: Heto Lubemo}
 type: place
 subType: site
 description: "An ancient stone enclosure in the southeastern highlands, one of the great Old Hetos, where the Nyáluba convene the Great Lubemo every fourth dry season."

@@ -1,6 +1,6 @@
 ---
 shortcode: lifizinkrego
-name: {full: Lifizin Kregokhash, aliases: [Brother Lifizin Kregokhash]}
+name: {full: Lifizin Kregokhash, en: [Brother Lifizin Kregokhash]}
 type: being
 subType: npc
 description: A monk keeper of Marendas's Monastery who acknowledges that Mivios Zapemes's work serves a purpose.

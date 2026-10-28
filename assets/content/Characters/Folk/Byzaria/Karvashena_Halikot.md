@@ -1,6 +1,6 @@
 ---
 shortcode: karvashenaha
-name: {full: Karvashena Halikot, aliases: [Overseer Karvashena Halikot]}
+name: {full: Karvashena Halikot, en: [Overseer Karvashena Halikot]}
 type: being
 subType: npc
 description: A veteran of thirty years in the Bizarian mines who took Agápeia Varzanes as an informal apprentice around age sixteen.

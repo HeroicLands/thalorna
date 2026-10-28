@@ -1,6 +1,6 @@
 ---
 shortcode: rikstein
-name: {full: Rikstein, aliases: []}
+name: {full: Rikstein}
 type: place
 subType: settlement
 description: "A Varokh village in Vandstein whose ruined tower tempts outsiders to claim the ground around it."

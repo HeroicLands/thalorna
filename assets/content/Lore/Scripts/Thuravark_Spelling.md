@@ -1,6 +1,6 @@
 ---
 shortcode: nordthuravarkenc
-name: {full: Nordmal Thuravark Encoding, aliases: []}
+name: {full: Nordmal Thuravark Encoding}
 type: doc
 subType: reference
 data:

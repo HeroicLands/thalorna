@@ -1,6 +1,6 @@
 ---
 shortcode: hiranyadara
-name: {full: Hiranyadara, aliases: []}
+name: {full: Hiranyadara}
 type: place
 subType: settlement
 description: "The panning village on the richest of the gold mountain's streams, where nine of the twenty-eight hereditary families work."

@@ -1,6 +1,6 @@
 ---
 shortcode: rest
-name: {full: Rest, aliases: []}
+name: {full: Rest}
 type: mysticalability
 subType: arcaneincantation
 description: "Grants deep, restorative sleep; targets wake refreshed."

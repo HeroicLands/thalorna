@@ -1,6 +1,6 @@
 ---
 shortcode: prtmjkydr
-name: {full: Pritimaja Kayadara, given: Pritimaja, clan: Kayadara, aliases: [Pritu]}
+name: {full: Pritimaja Kayadara, given: Pritimaja, clan: Kayadara, vedy: [pritu]}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]

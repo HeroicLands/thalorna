@@ -1,6 +1,6 @@
 ---
 shortcode: bethhelonikaenc
-name: {full: Bethuan Helonika Encoding, aliases: []}
+name: {full: Bethuan Helonika Encoding}
 type: doc
 subType: reference
 data:

@@ -1,6 +1,6 @@
 ---
 shortcode: rnthrprdln
-name: {full: Ranthor Párdalen, given: Ranthor, clan: Párdalen, aliases: []}
+name: {full: Ranthor Párdalen, given: Ranthor, clan: Párdalen}
 type: being
 subType: character
 tags: [heroes-and-knaves, clergy]

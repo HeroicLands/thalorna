@@ -1,6 +1,6 @@
 ---
 shortcode: goosettm
-name: {full: Goose, aliases: [Goose Totem]}
+name: {full: Goose, en: [Goose Totem]}
 type: lore
 subType: bestiary
 description: "The goose as a totemic ideal, and the human character it describes."

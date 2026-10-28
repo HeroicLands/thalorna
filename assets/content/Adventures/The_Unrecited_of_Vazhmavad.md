@@ -1,6 +1,6 @@
 ---
 shortcode: nrctdvzhmvd
-name: {full: The Riders Who Ask Your Name, aliases: []}
+name: {full: The Riders Who Ask Your Name}
 type: scenario
 subType: adventure
 description: "Silent riders in plain brown, bearing no clan marks, ambush the southern caravans and put one question to each captive: who are you?"

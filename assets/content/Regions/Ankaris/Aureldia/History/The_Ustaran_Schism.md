@@ -1,6 +1,6 @@
 ---
 shortcode: ustaranschism
-name: {full: The Ústaran Schism, aliases: [The Schism, The Splitting of the Forge-Lord]}
+name: {full: The Ústaran Schism, en: [The Schism, The Splitting of the Forge-Lord]}
 type: lore
 subType: history
 description: "The five-hundred-year-old split of the Aureldian Ústaran over the god's true nature, which produced the Sacred Forge and the Black Flame and the enmity between them."

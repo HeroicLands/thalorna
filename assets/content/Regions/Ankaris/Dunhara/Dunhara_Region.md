@@ -1,6 +1,6 @@
 ---
 shortcode: dunharargn
-name: {full: Dunhara Region, aliases: []}
+name: {full: Dunhara Region}
 type: place
 subType: region
 description: Vast southern desert of tribal confederations, oral tradition, and the fire-and-light faith of the Ashaian Pantheon.

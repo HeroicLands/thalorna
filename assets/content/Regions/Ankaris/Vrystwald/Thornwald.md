@@ -1,6 +1,6 @@
 ---
 shortcode: thornwald
-name: {full: Thornwald, aliases: [Velanthian Reach]}
+name: {full: Thornwald, en: [Velanthian Reach]}
 type: place
 subType: region
 description: The eastern Vristwald forest that meets Velanthia.

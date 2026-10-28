@@ -1,6 +1,6 @@
 ---
 shortcode: gorilla
-name: {full: Gorilla, aliases: []}
+name: {full: Gorilla}
 type: being
 subType: creature
 description: "A massive, intelligent forest primate living in silverback-led troops, peaceful until provoked, when its defending alpha becomes a nightmare of muscle."

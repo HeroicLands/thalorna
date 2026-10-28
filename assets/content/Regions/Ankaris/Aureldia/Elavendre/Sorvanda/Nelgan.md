@@ -1,6 +1,6 @@
 ---
 shortcode: nelgan
-name: {full: Nelgan, aliases: [The Snow-Gate]}
+name: {full: The Snow-Gate, aele: [nelgan]}
 type: place
 subType: site
 description: "The high pass at the eastern edge of the Áelendan Tribal Lands, where the first Áelendan came over in snow and where a Wardens' watch-post keeps the way."

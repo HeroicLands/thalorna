@@ -1,6 +1,6 @@
 ---
 shortcode: sarenprdln
-name: {full: Sárena Párdalen, aliases: []}
+name: {full: Sárena Párdalen}
 type: being
 subType: npc
 tags: [todo, draft, clergy]

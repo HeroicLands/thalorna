@@ -1,6 +1,6 @@
 ---
 shortcode: pashinar
-name: {full: Pashinar, aliases: []}
+name: {full: Pashinar}
 type: place
 subType: settlement
 description: "Trading Town"

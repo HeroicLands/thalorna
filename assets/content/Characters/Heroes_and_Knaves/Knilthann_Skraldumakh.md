@@ -1,6 +1,6 @@
 ---
 shortcode: knlthnskrldmkh
-name: {full: Knilthann Skraldumak, given: Knilthann, clan: Skraldumak, aliases: []}
+name: {full: Knilthann Skraldumak, given: Knilthann, clan: Skraldumak}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]

@@ -1,6 +1,6 @@
 ---
 shortcode: lenennezut
-name: {full: Lenen-Nezut, aliases: []}
+name: {full: Lenen-Nezut}
 type: place
 subType: settlement
 description: "Selat capital of Lenen-Nezut."

@@ -1,6 +1,6 @@
 ---
 shortcode: brazemas
-name: {full: Faith of Brazemas, aliases: [The Thunderer, Brazemas]}
+name: {full: Faith of Brazemas, en: [The Thunderer], vyl: [Brazemas]}
 type: affiliation
 subType: faithtradition
 description: "Storms."

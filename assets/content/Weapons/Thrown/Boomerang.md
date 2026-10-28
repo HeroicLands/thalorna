@@ -1,6 +1,6 @@
 ---
 shortcode: bmrg
-name: {full: Boomerang, aliases: []}
+name: {full: Boomerang}
 type: weapongear
 description: "Curved throwing-stick breaks fleeing game; war-variant non-returning."
 tags: []

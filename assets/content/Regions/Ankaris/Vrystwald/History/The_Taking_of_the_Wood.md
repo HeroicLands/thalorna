@@ -1,6 +1,6 @@
 ---
 shortcode: takingwood
-name: {full: The Taking of the Wood, aliases: [The Driving-Out along the Bay]}
+name: {full: The Taking of the Wood, en: [The Driving-Out along the Bay]}
 type: lore
 subType: history
 description: "About 1250 BF the mixed Varkhad–Pelwar host came into the Vristwald from the east, broke the Pelwar who stood, married the ones who stayed and drove the rest west along the bay toward the sea; the Varokh are what was left in the forest when the host stopped."

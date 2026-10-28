@@ -1,6 +1,6 @@
 ---
 shortcode: wengdaozhouwo
-name: {full: "Ritual: Wengdao Zhouwo", aliases: [Wengdao Zhouwo]}
+name: {full: "Ritual: Wengdao Zhouwo", tant: [Wengdao Zhouwo]}
 type: skill
 subType: mystical
 tags: [celestial-pantheon, faith-skill, draft]

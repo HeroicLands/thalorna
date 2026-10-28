@@ -1,6 +1,6 @@
 ---
 shortcode: passshrineushtakas
-name: {full: The Pass-Shrine Ushtakas, aliases: [The Altitude Ushtakas]}
+name: {full: The Pass-Shrine Ushtakas, en: [The Altitude Ushtakas]}
 type: affiliation
 subType: faithtradition
 description: "The hereditary line of Ritrija ushtakas who keep the shrines at the summits of the crossing roads, and work the weather-rite and the road-rite at an altitude no lowland academy has ever tested them at."

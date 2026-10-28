@@ -1,6 +1,6 @@
 ---
 shortcode: banrkcrsld
-name: {full: Banrik Káriselda, aliases: []}
+name: {full: Banrik Káriselda}
 type: being
 subType: npc
 tags: [draft, soldiery]

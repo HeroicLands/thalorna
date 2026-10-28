@@ -1,6 +1,6 @@
 ---
 shortcode: wodou
-name: {full: Wodou, aliases: [The Minister of Roads, Dou Sei, The Bureau of Passage]}
+name: {full: The Minister of Roads, en: [The Bureau of Passage], tant: [Wodou, Dou Sei]}
 type: affiliation
 subType: faithtradition
 description: "Transit."

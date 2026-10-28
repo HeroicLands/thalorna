@@ -1,6 +1,6 @@
 ---
 shortcode: troutttm
-name: {full: Trout, aliases: [Trout Totem]}
+name: {full: Trout, en: [Trout Totem]}
 type: lore
 subType: bestiary
 description: "The trout as a totemic ideal, and the human character it describes."

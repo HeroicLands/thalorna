@@ -1,6 +1,6 @@
 ---
 shortcode: elthezasolte
-name: {full: Eltheza Solterates, aliases: [Captain Eltheza Solterates]}
+name: {full: Eltheza Solterates, en: [Captain Eltheza Solterates]}
 type: being
 subType: npc
 description: The new commanding officer of the city guard, ambitious and eager to turn the docks patrol into aggressive enforcement.

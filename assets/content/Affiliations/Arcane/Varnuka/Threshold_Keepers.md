@@ -1,6 +1,6 @@
 ---
 shortcode: thresholdkeepers
-name: {full: The Threshold-keepers, aliases: [The Keepers of the Threshold]}
+name: {full: The Threshold-keepers, en: [The Keepers of the Threshold]}
 type: affiliation
 subType: arcanetradition
 description: "The licensed practice of putting one question to the newly dead before the pyre—held to be a rite at the threshold and not necromancy, and warranted for inheritance and for murder and nothing else."

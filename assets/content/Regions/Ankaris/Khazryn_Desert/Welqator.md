@@ -1,6 +1,6 @@
 ---
 shortcode: wlqtrrgn
-name: {full: Volketor, aliases: [The Western Margin]}
+name: {full: Volketor, en: [The Western Margin]}
 type: place
 subType: region
 description: "The grass-and-scrub margin of the Khazryn below Bizaria's Eastern March—the first five hundred miles of the Celestial Road, held by the most practiced traders and raiders on the road."

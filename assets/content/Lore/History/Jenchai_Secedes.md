@@ -1,6 +1,6 @@
 ---
 shortcode: jenchaiscs
-name: {full: The Secession of Jenchai, aliases: [The Breaking Away]}
+name: {full: The Secession of Jenchai, en: [The Breaking Away]}
 type: lore
 subType: history
 description: "Over a thousand years ago the island province of Jenchai broke away from the Empire of Tantsou in a bloody war of secession, and no imperial expedition has ever reasserted sovereignty over the archipelago."

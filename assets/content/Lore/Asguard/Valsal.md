@@ -1,6 +1,6 @@
 ---
 shortcode: valsal
-name: {full: Valsal, aliases: [The Slain-Hall]}
+name: {full: Valsal, en: [The Slain-Hall]}
 type: place
 subType: region
 description: "Odvar's region of Asguard, where half the honored dead are quartered as the Valdrengir and the hall of the same name stands."

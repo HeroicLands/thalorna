@@ -1,6 +1,6 @@
 ---
 shortcode: raven
-name: {full: Raven, aliases: []}
+name: {full: Raven}
 type: being
 subType: creature
 description: "A large, uncannily intelligent black bird thriving everywhere from deep wilderness to crowded cities, hovering between wild scavenger and civilized companion."

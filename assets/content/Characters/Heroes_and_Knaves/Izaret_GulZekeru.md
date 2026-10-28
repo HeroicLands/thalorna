@@ -1,6 +1,6 @@
 ---
 shortcode: izaretgulzkr
-name: {full: Izaret Gul'Zekeru, given: Izaret, clan: Gul'Zekeru, aliases: []}
+name: {full: Izaret Gul'Zekeru, given: Izaret, clan: Gul'Zekeru}
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, underworld]

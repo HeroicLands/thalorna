@@ -1,12 +1,12 @@
 ---
 shortcode: dunhariclt
-name: {full: Dunhari, aliases: []}
+name: {full: Dunhari}
 type: lore
 subType: culture
 description: "The Dunhari—their beliefs, their mores, and what they hold a person owes."
 tags: []
 data:
-  language: skill-dunharlng
+  lang: dunh
   glossary:
     - name: "Pevrogar"
       definition: "A recognized storm-cult practitioner, who reads the weather for council and warband"

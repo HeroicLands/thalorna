@@ -1,6 +1,6 @@
 ---
 shortcode: aurelianefound
-name: {full: The Founding of Aurelane, aliases: [The Colony on the Great Road]}
+name: {full: The Founding of Aurelane, en: [The Colony on the Great Road]}
 type: lore
 subType: history
 description: "About 110 BF the Vylarian Republic planted a garrison colony on the great road above the southern Provenzal shore, and when the garrison was withdrawn about 80 BF the colony stayed as a town of Vylarian settlers married into Tanevar houses."

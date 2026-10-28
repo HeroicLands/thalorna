@@ -1,6 +1,6 @@
 ---
 shortcode: zurathra
-name: {full: Faith of Zúrathra, aliases: [Mother of the Oasis, "Zúrathra, Mother of the Oasis"]}
+name: {full: Faith of Zúrathra, en: [Mother of the Oasis, "Zúrathra, Mother of the Oasis"]}
 type: affiliation
 subType: faithtradition
 description: "Fertility, Water, Life, Healing."

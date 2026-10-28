@@ -1,6 +1,6 @@
 ---
 shortcode: pzrshilmmn
-name: {full: Pazirush Ilammuni, aliases: []}
+name: {full: Pazirush Ilammuni}
 type: being
 subType: npc
 tags: [draft, common-folk]

@@ -1,6 +1,6 @@
 ---
 shortcode: qalzscrscrpt
-name: {full: Qalezu Script, aliases: []}
+name: {full: Qalezu Script}
 type: skill
 subType: script
 description: "The everyday alphabet of Au'Khelathu—twenty-four signs, reduced from the hieroglyphs, that took the empire's paperwork away from the temples."

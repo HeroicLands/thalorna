@@ -1,6 +1,6 @@
 ---
 shortcode: knittingflsh
-name: {full: Knitting of Flesh, aliases: []}
+name: {full: Knitting of Flesh}
 type: mysticalability
 subType: arcaneincantation
 description: "Closes and mends serious injury, in proportion to the practitioner's own strength."

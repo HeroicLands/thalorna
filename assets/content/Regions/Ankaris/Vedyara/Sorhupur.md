@@ -1,6 +1,6 @@
 ---
 shortcode: sorhupur
-name: {full: Sorhupur, aliases: [The City That Kept Its Dead]}
+name: {full: The City That Kept Its Dead, vedy: [sorhupur]}
 type: place
 subType: site
 description: "A temple-city deep in the Bharavaban, swallowed by the forest, where a forbidden sect refused its dead the passage and kept them seated and lit for ever."

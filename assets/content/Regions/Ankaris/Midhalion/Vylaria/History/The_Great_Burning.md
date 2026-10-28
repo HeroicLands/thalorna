@@ -1,6 +1,6 @@
 ---
 shortcode: greatburnng
-name: {full: The Great Burning, aliases: [The Six Days, The Burning of the Old Hill]}
+name: {full: The Great Burning, en: [The Six Days, The Burning of the Old Hill]}
 type: lore
 subType: history
 description: "About 403 AF the dole fails in Orzara, the Circles riot, the Watch loses the valley wards and fire runs from the Warrens over Antel for six days; the Old Hill's families move to Selvin and do not go back."

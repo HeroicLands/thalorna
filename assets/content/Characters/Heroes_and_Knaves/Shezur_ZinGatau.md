@@ -1,6 +1,6 @@
 ---
 shortcode: shezurzingat
-name: {full: Shezur Zin'Gatau, given: Shezur, clan: Zin'Gatau, aliases: []}
+name: {full: Shezur Zin'Gatau, given: Shezur, clan: Zin'Gatau}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]

@@ -1,6 +1,6 @@
 ---
 shortcode: salkhalon
-name: {full: Salkalon, aliases: []}
+name: {full: Salkalon}
 type: place
 subType: region
 description: "The maritime province of the Vylarian Empire—the land of the Province of Salkalon, a working coast of shipyards, naval bases and fishing towns with agrarian estate-country behind it."

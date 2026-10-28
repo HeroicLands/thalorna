@@ -1,6 +1,6 @@
 ---
 shortcode: ilseviletirv
-name: {full: Ílsevile Tírvalnde, aliases: [Magistrate Ílsevile Tírvalnde, Magistrate Ílsevile]}
+name: {full: Ílsevile Tírvalnde, en: [Magistrate Ílsevile Tírvalnde, Magistrate Ílsevile]}
 type: being
 subType: npc
 description: A judge who has clashed with Parthun Pelthal on numerous occasions over the interpretation of law and regulation.

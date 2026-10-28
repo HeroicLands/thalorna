@@ -1,6 +1,6 @@
 ---
 shortcode: sagaskrildmyl
-name: {full: Saga of Skrilmil Stormborn, aliases: []}
+name: {full: Saga of Skrilmil Stormborn}
 type: lore
 subType: literature
 description: "An attributed Nordmen hero saga of the winter journey to Thrumufjall and the clearing of the storms."
@@ -9,7 +9,7 @@ data:
   packFolder: nordlands
   culture: nordheimnclt
   form: saga
-  language: nordmalng
+  lang: nord
   subjects: [being-skrldmylstrmbrn, place-thrumufjall, lore-thrunvalddty]
 ---
 

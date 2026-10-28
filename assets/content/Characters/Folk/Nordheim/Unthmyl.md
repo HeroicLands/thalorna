@@ -1,6 +1,6 @@
 ---
 shortcode: unthmyl
-name: {full: Unthmil, aliases: [Father Unthmil]}
+name: {full: Unthmil, en: [Father Unthmil]}
 type: being
 subType: npc
 description: The new priest of Ralthira Drekanótt's former monastery, a zealot who views her as a heretic.

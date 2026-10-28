@@ -1,6 +1,6 @@
 ---
 shortcode: cnclhrthm
-name: {full: Council of Herthema, aliases: []}
+name: {full: Council of Herthema}
 type: affiliation
 subType: polity
 description: "The governing council of Herthema, a fortified town in Tarvénia."

@@ -1,6 +1,6 @@
 ---
 shortcode: wldrcrkhld
-name: {full: Waldarik yra Rikhild wur Grimholt, aliases: []}
+name: {full: Waldarik yra Rikhild wur Grimholt}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

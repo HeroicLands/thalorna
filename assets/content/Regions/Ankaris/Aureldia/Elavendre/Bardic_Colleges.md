@@ -1,6 +1,6 @@
 ---
 shortcode: bardicolgs
-name: {full: The Bardic Colleges, aliases: [The Bardic Circle]}
+name: {full: The Bardic Colleges, en: [The Bardic Circle]}
 type: affiliation
 subType: venture
 description: "Institutions of music, memory, and fae magic preserving Pelwar traditions and serving as Élavendre's cultural authority and rival to Arcane Order expansion."

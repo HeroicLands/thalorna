@@ -1,6 +1,6 @@
 ---
 shortcode: amnagezu2
-name: {full: Amnagezu, aliases: [Amna]}
+name: {full: Amnagezu, khel: [amna]}
 type: being
 subType: npc
 description: "The elderly chancellor of records, who has outlasted several administrations by knowing exactly where every document is and saying so rarely"

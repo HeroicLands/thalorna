@@ -1,6 +1,6 @@
 ---
 shortcode: gulmenwati2
-name: {full: Gulmenwati, aliases: [Gulme]}
+name: {full: Gulmenwati, khel: [gulme]}
 type: being
 subType: npc
 description: "A junior priest at the temple of Qe'aret, young enough to still believe the order works as it is described"

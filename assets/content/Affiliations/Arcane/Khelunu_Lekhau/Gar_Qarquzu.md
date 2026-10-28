@@ -1,6 +1,6 @@
 ---
 shortcode: garqarquzu
-name: {full: Gar-Qar'kuzu, aliases: [House of the Balance, The House of Order]}
+name: {full: Gar-Qar'kuzu, en: [House of the Balance, The House of Order]}
 type: affiliation
 subType: arcanetradition
 tags: [gethunu-lekhau, arcane, khelathi]

@@ -1,6 +1,6 @@
 ---
 shortcode: kalydria2
-name: {full: Kalidria, aliases: []}
+name: {full: Kalidria}
 type: place
 subType: settlement
 description: "The artists' city of Helionis, where patron families compete to fund the finest theater and the Academy of the Silver Veil trains the hetairin."

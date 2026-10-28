@@ -1,6 +1,6 @@
 ---
 shortcode: unbrokenseal
-name: {full: The Unbroken Seal, aliases: []}
+name: {full: The Unbroken Seal}
 type: mysticalability
 subType: arcaneincantation
 description: "Sets a seal that cannot be opened at all except by a named holder, and cannot be worked around."

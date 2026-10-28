@@ -1,6 +1,6 @@
 ---
 shortcode: toradhtaravren
-name: {full: Dame Torad Taravren, given: Torad, clan: Taravren, aliases: []}
+name: {full: Dame Torad Taravren, given: Torad, clan: Taravren}
 type: being
 subType: character
 tags: [draft, embassy-to-tantsou]

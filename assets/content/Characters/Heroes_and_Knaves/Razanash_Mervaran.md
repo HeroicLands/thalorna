@@ -1,6 +1,6 @@
 ---
 shortcode: rznshmrvrn
-name: {full: Razanash Mervaran, given: Razanash, clan: Mervaran, aliases: []}
+name: {full: Razanash Mervaran, given: Razanash, clan: Mervaran}
 type: being
 subType: character
 tags: [heroes-and-knaves, clergy]

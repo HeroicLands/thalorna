@@ -1,6 +1,6 @@
 ---
 shortcode: gargulthaket
-name: {full: Gar-Gul'Thakétu, aliases: [The House of Gul'Thaketu]}
+name: {full: Gar-Gul'Thakétu, en: [The House of Gul'Thaketu]}
 type: affiliation
 subType: lineage
 description: A noble house that commissions arms and armor from the finest smiths and vouches for their standards to impatient peers

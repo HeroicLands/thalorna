@@ -1,6 +1,6 @@
 ---
 shortcode: thrdrgn
-name: {full: Tharla Durgana, aliases: []}
+name: {full: Tharla Durgana}
 type: being
 subType: npc
 tags: [draft, common-folk]

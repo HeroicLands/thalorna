@@ -1,6 +1,6 @@
 ---
 shortcode: knlthvrstrmrt
-name: {full: Knulthvir Stormrót, aliases: []}
+name: {full: Knulthvir Stormrót}
 type: being
 subType: npc
 tags: [draft, administration]

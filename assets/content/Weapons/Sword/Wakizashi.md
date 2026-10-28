@@ -1,6 +1,6 @@
 ---
 shortcode: waki
-name: {full: Wakizashi, aliases: []}
+name: {full: Wakizashi}
 type: weapongear
 description: "Short curved single-edged blade; secondary steel marking standing and privilege."
 tags: []

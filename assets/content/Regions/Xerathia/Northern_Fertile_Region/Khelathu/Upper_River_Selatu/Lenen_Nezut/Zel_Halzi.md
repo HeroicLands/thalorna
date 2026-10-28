@@ -1,6 +1,6 @@
 ---
 shortcode: zelhalzi
-name: {full: Zel-Halzi, aliases: [The Unmeasured Field]}
+name: {full: Zel-Halzi, en: [The Unmeasured Field]}
 type: place
 subType: site
 description: "The stretch of west-bank floodplain below Lenen-Nezut where the Tha'Ulgau destroyed the last Galezkara army in 1612 ST: a moderate zelqezat of recurrence, worst in the weeks after the flood goes down, entered in no survey roll."

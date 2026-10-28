@@ -1,6 +1,6 @@
 ---
 shortcode: rvltch
-name: {full: Revealing Touch, aliases: []}
+name: {full: Revealing Touch}
 type: mysticalability
 subType: arcaneincantation
 description: "Ripple of light disrupts illusions and glamours completely."

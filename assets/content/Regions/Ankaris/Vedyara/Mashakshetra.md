@@ -1,6 +1,6 @@
 ---
 shortcode: mashakshetra
-name: {full: Mashakshetra, aliases: []}
+name: {full: Mashakshetra}
 type: place
 subType: settlement
 description: "Pulse village of the higher ground, which carries the janpoda through a failed rice year."

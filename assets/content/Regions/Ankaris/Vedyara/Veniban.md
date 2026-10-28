@@ -1,6 +1,6 @@
 ---
 shortcode: veniban
-name: {full: Veniban, aliases: []}
+name: {full: Veniban}
 type: place
 subType: settlement
 description: "The bamboo village of the upper Sarveda, whose groves supply the staves every Danurkot bow is made from."

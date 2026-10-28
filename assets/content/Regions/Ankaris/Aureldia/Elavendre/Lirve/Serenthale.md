@@ -1,6 +1,6 @@
 ---
 shortcode: serenthale
-name: {full: Serenthale, aliases: []}
+name: {full: Serenthale}
 type: place
 subType: settlement
 description: "The sea-facing Sinale enclave of the western deep forest—older and far more withdrawn than the mountain enclaves, and the one no Áelendan will guide anyone to."

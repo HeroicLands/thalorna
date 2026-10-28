@@ -1,6 +1,6 @@
 ---
 shortcode: warprinces
-name: {full: The War of the Princes, aliases: [The Kéravian Rebellion]}
+name: {full: The War of the Princes, en: [The Kéravian Rebellion]}
 type: lore
 subType: history
 description: "From 653 to 655 AF the kingdom of Provenzia fought over the succession after King Padran died with no clear heir; Keravel Vale was its battleground, House Dorgal was broken, and the war ended with the compromise accession of Dalenar Lédravren."

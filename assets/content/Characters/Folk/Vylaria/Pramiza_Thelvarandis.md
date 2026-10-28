@@ -1,6 +1,6 @@
 ---
 shortcode: pramizathelv
-name: {full: Pramiza Thelvaris, aliases: [Lady Pramiza Thelvaris]}
+name: {full: Pramiza Thelvaris, en: [Lady Pramiza Thelvaris]}
 type: being
 subType: npc
 description: An immensely wealthy widow and patron of the arts who has championed the work of Makithos Vanardis.

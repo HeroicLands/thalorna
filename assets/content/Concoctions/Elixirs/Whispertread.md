@@ -1,6 +1,6 @@
 ---
 shortcode: elxftp
-name: {full: Whispertread, aliases: [Footpad Elixir]}
+name: {full: Whispertread, en: [Footpad Elixir]}
 type: concoctiongear
 subType: elixir
 description: "Dark nearly-black draft; muffles drinker's presence from detection."

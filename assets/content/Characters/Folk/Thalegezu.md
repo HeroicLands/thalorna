@@ -1,6 +1,6 @@
 ---
 shortcode: thalegezu2
-name: {full: Thalegezu, aliases: [Thale]}
+name: {full: Thalegezu, khel: [thale]}
 type: being
 subType: npc
 description: "An elderly scribe, meticulous, and the last man in the bureau who remembers how the older filings were arranged"

@@ -1,6 +1,6 @@
 ---
 shortcode: ravenguard
-name: {full: Raven Guard, aliases: []}
+name: {full: Raven Guard}
 type: affiliation
 subType: order
 description: "The garrison of elite warriors sworn to the temple of Odvar at Odholm and to the defense of the north's holy places."

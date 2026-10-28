@@ -1,6 +1,6 @@
 ---
 shortcode: struckname
-name: {full: The Struck Name, aliases: []}
+name: {full: The Struck Name}
 type: mysticalability
 subType: arcaneincantation
 description: "Erases a name from every record and from living memory, ending the named as thoroughly as death does not."

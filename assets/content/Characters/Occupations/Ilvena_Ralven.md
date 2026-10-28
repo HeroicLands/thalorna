@@ -1,6 +1,6 @@
 ---
 shortcode: ilvnralwn
-name: {full: Ilvena Ralven, aliases: []}
+name: {full: Ilvena Ralven}
 type: being
 subType: npc
 tags: [draft, administration]

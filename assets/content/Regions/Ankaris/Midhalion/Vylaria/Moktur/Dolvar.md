@@ -1,6 +1,6 @@
 ---
 shortcode: dolvar
-name: {full: Dolvar, aliases: []}
+name: {full: Dolvar}
 type: place
 subType: settlement
 description: "Frontier Fortress"

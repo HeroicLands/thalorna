@@ -1,6 +1,6 @@
 ---
 shortcode: compulsinnmd
-name: {full: Compulsion of the Named, aliases: []}
+name: {full: Compulsion of the Named}
 type: mysticalability
 subType: arcaneincantation
 description: "Commands a person or thing by its true name, which it cannot refuse."

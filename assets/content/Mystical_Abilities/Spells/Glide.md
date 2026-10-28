@@ -1,6 +1,6 @@
 ---
 shortcode: glide
-name: {full: Glide, aliases: []}
+name: {full: Glide}
 type: mysticalability
 subType: arcaneincantation
 description: "Caster descends slowly; falls without impact or harm sustained."

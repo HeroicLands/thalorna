@@ -1,6 +1,6 @@
 ---
 shortcode: youweng
-name: {full: Youweng, aliases: [The Demon Realm, The Infernal Realms]}
+name: {full: The Demon Realm, en: [The Infernal Realms], tant: [Youweng]}
 type: affiliation
 subType: faithtradition
 tags: [celestial-order, youweng]

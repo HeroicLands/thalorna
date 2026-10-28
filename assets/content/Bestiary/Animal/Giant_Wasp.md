@@ -1,6 +1,6 @@
 ---
 shortcode: gntwsp
-name: {full: Giant Wasp, aliases: []}
+name: {full: Giant Wasp}
 type: being
 subType: creature
 description: "A vicious aerial carnivore with a devastating sting, forming aggressive colonies whose disturbed swarms can overwhelm entire settlements."

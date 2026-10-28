@@ -1,6 +1,6 @@
 ---
 shortcode: pltskn
-name: {full: Plateskin, aliases: []}
+name: {full: Plateskin}
 type: mysticalability
 subType: arcaneincantation
 description: "Caster's skin hardens like armor; deflects blows and blades."

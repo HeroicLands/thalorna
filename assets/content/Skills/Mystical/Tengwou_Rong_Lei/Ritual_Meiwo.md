@@ -1,6 +1,6 @@
 ---
 shortcode: meiwo
-name: {full: "Ritual: Meiwo", aliases: [Meiwo, The Minister of Dreams]}
+name: {full: "Ritual: Meiwo", en: [The Minister of Dreams], tant: [Meiwo]}
 type: skill
 subType: mystical
 tags: [tengwou, faith-skill, draft]

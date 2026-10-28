@@ -1,6 +1,6 @@
 ---
 shortcode: tokchiaskargn
-name: {full: Tokchi Aska Region, aliases: [One Fire Region, Ts'uma No'tun Region]}
+name: {full: Tokchi Aska Region, en: [One Fire Region, Ts'uma No'tun Region]}
 type: place
 subType: region
 description: "The great river valley, the old eastern ranges, and the swamps and shell coasts of the south—the land of the One Fire, in Northern Ki'ich'chik."

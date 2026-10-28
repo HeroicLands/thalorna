@@ -1,6 +1,6 @@
 ---
 shortcode: bldfldyharvalen
-name: {full: Blood-field of Yarvalen, aliases: []}
+name: {full: Blood-field of Yarvalen}
 type: place
 subType: site
 description: "The worst blood-field in Provenzia—a withering that kills the land around it, made when the Nordheim raids threw down Yarvalen Henge, and now being deliberately roused by the Black Flame."

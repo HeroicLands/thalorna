@@ -1,6 +1,6 @@
 ---
 shortcode: highjarlrnk
-name: {full: "High Jarl", aliases: []}
+name: {full: High Jarl}
 type: lore
 subType: law
 description: "The sovereign standing of the Jarldom of Stormveld, held by a jarl elected from among his peers."

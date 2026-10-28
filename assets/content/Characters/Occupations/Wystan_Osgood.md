@@ -1,6 +1,6 @@
 ---
 shortcode: wystanosgd
-name: {full: Wilstan Osgood, aliases: []}
+name: {full: Wilstan Osgood}
 type: being
 subType: npc
 tags: [draft, common-folk]

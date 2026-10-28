@@ -1,6 +1,6 @@
 ---
 shortcode: kankul
-name: {full: K'ankul, aliases: []}
+name: {full: K'ankul}
 type: affiliation
 subType: polity
 description: Limestone lowlands of sacred-pool sanctuaries, astronomer-priests, and competing city-states—the intellectual heart of Ki'ich'chik civilization.

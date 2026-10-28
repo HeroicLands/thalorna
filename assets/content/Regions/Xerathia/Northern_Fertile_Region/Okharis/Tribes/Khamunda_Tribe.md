@@ -1,6 +1,6 @@
 ---
 shortcode: khamundatrb
-name: {full: Khamunda Tribe, aliases: []}
+name: {full: Khamunda Tribe}
 type: affiliation
 subType: polity
 description: A tribe of the Okharis whose seat is Khamunda Village.

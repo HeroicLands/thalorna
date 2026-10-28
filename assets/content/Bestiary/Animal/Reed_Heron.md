@@ -1,6 +1,6 @@
 ---
 shortcode: rdhrn
-name: {full: Reed Heron, aliases: [Lirunei]}
+name: {full: Reed Heron, kali: [Lirunei]}
 type: being
 subType: creature
 description: "A tall, pale grey wading bird with a rust stripe down the neck that stands motionless in the reed-beds of the Bowl Lake for an hour and strikes with the whole neck."

@@ -1,6 +1,6 @@
 ---
 shortcode: blckbr
-name: {full: Black Bear, aliases: []}
+name: {full: Black Bear}
 type: being
 subType: creature
 description: "A strong, surprisingly intelligent forest predator and scavenger of temperate woods that usually avoids humans but turns dangerous when provoked."

@@ -1,6 +1,6 @@
 ---
 shortcode: tzenultqan
-name: {full: "Faith of Ts'en'ul Tq'an", aliases: [The Sun at the World's Edge, "Ts'en'ul Tq'an"]}
+name: {full: Faith of Ts'en'ul Tq'an, en: [The Sun at the World's Edge], kiichek: [Ts'en'ul Tq'an]}
 type: affiliation
 subType: faithtradition
 description: "Order, cosmic law and the solar cycle—the sovereign of the Fifth Age, whose sunrise is bought with blood and never given freely."

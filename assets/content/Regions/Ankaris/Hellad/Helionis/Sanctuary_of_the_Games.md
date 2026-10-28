@@ -1,6 +1,6 @@
 ---
 shortcode: gamessanct
-name: {full: The Sanctuary of the Games, aliases: [The Oldest Stadium]}
+name: {full: The Sanctuary of the Games, en: [The Oldest Stadium]}
 type: place
 subType: site
 description: "The sanctuary in the Helionite hills where the cities first met for the Games: the oldest stadium in Helionis, the heralds' altar and the oath-tablets of every city, still the seat of the Games."

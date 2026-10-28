@@ -1,6 +1,6 @@
 ---
 shortcode: tcharzilinaz
-name: {full: Charzilina Zigakit, aliases: [Lady Charzilina Zigakit]}
+name: {full: Charzilina Zigakit, en: [Lady Charzilina Zigakit]}
 type: being
 subType: npc
 description: Mother of Agélara Stetes, officially estranged from her husband.

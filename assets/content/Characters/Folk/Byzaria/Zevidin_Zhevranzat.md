@@ -1,6 +1,6 @@
 ---
 shortcode: zevidinzhevr
-name: {full: Zevidin Zhevranzát, aliases: [Marendos Zevidin Zhevranzát]}
+name: {full: Zevidin Zhevranzát, en: [Marendos Zevidin Zhevranzát]}
 type: being
 subType: npc
 description: A marendos (master) of the Hidalis Zulen and scholar of theoretical thaumaturgy to whom Fodios Rores was apprenticed at fourteen.

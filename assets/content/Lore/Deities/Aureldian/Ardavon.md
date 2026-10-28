@@ -1,6 +1,6 @@
 ---
 shortcode: ardavondty
-name: {full: Árdavon, aliases: []}
+name: {full: Árdavon}
 # terran_analog: Janus, the Roman two-faced god of gates, doorways and beginnings
 type: lore
 subType: deity

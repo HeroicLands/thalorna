@@ -1,6 +1,6 @@
 ---
 shortcode: lightatfront
-name: {full: The Light at the Front, aliases: [The Pay of the Eleven]}
+name: {full: The Light at the Front, en: [The Pay of the Eleven]}
 type: lore
 subType: literature
 description: "The tale the valleys above Kávrenath tell on the night the lanterns go out on the thresholds: a crossbowman coming home late over the pass with eleven dead men's pay, the procession that overtook him on the dead road with his companion carrying its light, the eleven doors he stopped at, and the threshold where his wife reached for the pole."
@@ -16,7 +16,7 @@ data:
     - affiliation-selmoros
     - affiliation-morvana
     - lore-bloodfield
-  language: tarvenlng
+  lang: tarv
 
 # terran_analog: "The Galician Santa Compaña, the night procession of the dead led by a living bearer who cannot set down the light until another takes it; the homecoming soldier's tale; the repeated scene at each door with its variations, as in the folktale's visits to many houses; and the coin carried home for the dead."
 ---

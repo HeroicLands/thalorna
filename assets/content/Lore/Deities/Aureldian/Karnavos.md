@@ -1,6 +1,6 @@
 ---
 shortcode: karnavosdty
-name: {full: Karnavos, aliases: []}
+name: {full: Karnavos}
 type: lore
 subType: deity
 description: "The Wild Beast of the Aureldian pantheon—chaos, and the wilderness no law reaches into."

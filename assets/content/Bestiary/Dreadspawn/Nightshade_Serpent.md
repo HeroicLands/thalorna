@@ -1,6 +1,6 @@
 ---
 shortcode: nghtshds
-name: {full: Nightshade Serpent, aliases: []}
+name: {full: Nightshade Serpent}
 type: being
 subType: creature
 description: "A made serpent of malign intelligence that haunts the dark, feeding on fear and suffering as much as on flesh."

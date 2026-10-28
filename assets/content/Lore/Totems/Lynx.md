@@ -1,6 +1,6 @@
 ---
 shortcode: lynxttm
-name: {full: Lynx, aliases: [Lynx Totem]}
+name: {full: Lynx, en: [Lynx Totem]}
 type: lore
 subType: bestiary
 description: "The lynx as a totemic ideal, and the human character it describes."

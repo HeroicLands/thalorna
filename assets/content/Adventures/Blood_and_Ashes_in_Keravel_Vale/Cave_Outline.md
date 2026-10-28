@@ -1,6 +1,6 @@
 ---
 shortcode: caveoutlin
-name: {full: Cave Outline, aliases: []}
+name: {full: Cave Outline}
 type: scenario
 subType: adventure
 tags: [draft]

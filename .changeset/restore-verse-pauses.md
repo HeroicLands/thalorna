@@ -2,4 +2,10 @@
 "thalorna": patch
 ---
 
-Restore pauses in native and roman verse readings and preserve questions and reported speech through each tongue's own idioms. Clarify that Vylari's period marks pauses within sentences as well as at their ends.
+**Languages and scripts**
+
+- Vylari's period marks pauses within sentences as well as at their ends.
+
+**Literature and verse**
+
+- Native and roman verse readings keep their pauses, and questions and reported speech follow each tongue's own idioms.

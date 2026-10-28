@@ -1,6 +1,6 @@
 ---
 shortcode: northkiichchik
-name: {full: Northern Ki'ich'chik, aliases: []}
+name: {full: Northern Ki'ich'chik}
 type: place
 subType: region
 description: "Five rival nations bound by the Red Stone Compact, two peoples outside it, and the desert that lets only a trickle of the south through."

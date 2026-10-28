@@ -1,6 +1,6 @@
 ---
 shortcode: ratter
-name: {full: Ratter, aliases: []}
+name: {full: Ratter}
 type: being
 subType: creature
 description: "A small, wiry hunting dog bred for relentless efficiency against rodents, guarding farms, mills, and grain stores throughout settled lands."

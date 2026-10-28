@@ -1,6 +1,6 @@
 ---
 shortcode: galezkara
-name: {full: Galezkara, aliases: []}
+name: {full: Galezkara}
 type: place
 subType: settlement
 description: "Imperial City (Capital)"

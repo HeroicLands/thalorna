@@ -1,6 +1,6 @@
 ---
 shortcode: linmutselat
-name: {full: Linmut Selat, aliases: []}
+name: {full: Linmut Selat}
 type: place
 subType: region
 description: "A river-island fortress-selat at the second cataract; gateway and toll-gate—the land of the Selat of Linmut, one of the border selatu of Au'Khelathu."

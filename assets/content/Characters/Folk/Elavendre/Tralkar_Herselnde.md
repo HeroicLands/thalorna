@@ -1,6 +1,6 @@
 ---
 shortcode: tralkarherse
-name: {full: Tralkar Hérselnde, aliases: [Captain Tralkar Hérselnde, Captain Tralkar]}
+name: {full: Tralkar Hérselnde, en: [Captain Tralkar Hérselnde, Captain Tralkar]}
 type: being
 subType: npc
 description: A successful merchant captain who publicly blamed Tárella Pelthal for a naval disaster.

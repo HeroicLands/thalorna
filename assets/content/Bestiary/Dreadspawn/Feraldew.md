@@ -1,6 +1,6 @@
 ---
 shortcode: feraldew
-name: {full: Feraldew, aliases: []}
+name: {full: Feraldew}
 type: being
 subType: creature
 description: "A made cervid of predatory intelligence that infiltrates ordinary herds and ambushes travelers before they sense the danger."

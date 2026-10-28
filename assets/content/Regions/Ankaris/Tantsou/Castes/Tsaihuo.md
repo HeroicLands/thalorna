@@ -1,6 +1,6 @@
 ---
 shortcode: tsaihuo
-name: {full: Tsaihuo, aliases: []}
+name: {full: Tsaihuo}
 type: lore
 subType: law
 description: "The fifth caste of Tantsou—artisans and craftsmen, the Wonong who are the empire's common soldiers and watch, and the Yaiwo healers whom every caste defers to."

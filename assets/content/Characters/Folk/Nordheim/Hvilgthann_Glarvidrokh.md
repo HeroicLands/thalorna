@@ -1,6 +1,6 @@
 ---
 shortcode: hvilgthanngl
-name: {full: Hvilgthann Glarvidrok, aliases: []}
+name: {full: Hvilgthann Glarvidrok}
 type: being
 subType: npc
 description: The hersvald of Glarvey, a careful steward of what he can afford, whose roofs are his pride, named in Hrandrinna Drekanótt and Glarvey.

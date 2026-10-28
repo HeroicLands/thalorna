@@ -1,6 +1,6 @@
 ---
 shortcode: ritualuqaa
-name: {full: "Ritual: Uqa'a", aliases: [The Solar Flame]}
+name: {full: "Ritual: Uqa'a", en: [The Solar Flame]}
 type: skill
 subType: mystical
 tags: [khelathi, faith-skill, draft]

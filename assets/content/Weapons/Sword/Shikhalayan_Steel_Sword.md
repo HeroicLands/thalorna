@@ -1,6 +1,6 @@
 ---
 shortcode: shkhlynswd
-name: {full: Shikhalayan Steel Sword, aliases: []}
+name: {full: Shikhalayan Steel Sword}
 type: weapongear
 description: "Plain straight blade of Shikhalayan mountain steel; serviceable, cheap, and bought by the wagonload."
 tags: []

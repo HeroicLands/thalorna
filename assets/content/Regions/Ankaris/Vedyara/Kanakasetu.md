@@ -1,6 +1,6 @@
 ---
 shortcode: kanakasetu
-name: {full: Kanakasetu, aliases: []}
+name: {full: Kanakasetu}
 type: place
 subType: settlement
 description: "The bridge village on the pilgrim road below the gold mountain, and one of the twenty-three houses of the Bharava-Devastena."

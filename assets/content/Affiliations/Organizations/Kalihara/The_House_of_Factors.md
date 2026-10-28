@@ -1,6 +1,6 @@
 ---
 shortcode: housefactors
-name: {full: The House of Factors, aliases: [The Merchant Councils of Ilovanu]}
+name: {full: The House of Factors, en: [The Merchant Councils of Ilovanu]}
 type: affiliation
 subType: venture
 description: "The port council of Ilovanu, meeting above the quay, and the three merchant families who hold the port's warehouses and trade the island's spice and gems to the world."

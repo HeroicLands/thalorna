@@ -1,6 +1,6 @@
 ---
 shortcode: flrnyndstrmrt
-name: {full: Flirninda Stormrót, aliases: []}
+name: {full: Flirninda Stormrót}
 type: being
 subType: npc
 tags: [draft, common-folk]

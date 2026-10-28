@@ -1,6 +1,6 @@
 ---
 shortcode: otterttm
-name: {full: Otter, aliases: [Otter Totem]}
+name: {full: Otter, en: [Otter Totem]}
 type: lore
 subType: bestiary
 description: "The otter as a totemic ideal, and the human character it describes."

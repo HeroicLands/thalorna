@@ -1,6 +1,6 @@
 ---
 shortcode: thrskrvjrnskl
-name: {full: Thraskorv Jarnskel, given: Thraskorv, clan: Jarnskel, aliases: []}
+name: {full: Thraskorv Jarnskel, given: Thraskorv, clan: Jarnskel}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]

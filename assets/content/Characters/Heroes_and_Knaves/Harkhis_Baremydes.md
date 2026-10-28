@@ -1,6 +1,6 @@
 ---
 shortcode: hrkhsbrmyds
-name: {full: Harkis Baremides, given: Harkis, clan: Baremides, aliases: []}
+name: {full: Harkis Baremides, given: Harkis, clan: Baremides}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]

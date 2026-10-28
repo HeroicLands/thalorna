@@ -1,6 +1,6 @@
 ---
 shortcode: wthrnthrnhvn
-name: {full: Withrún yra Othvith wur Thornhaven, given: Withrún, clan: Othvith, aliases: []}
+name: {full: Withrún yra Othvith wur Thornhaven, given: Withrún, clan: Othvith}
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, soldiery]

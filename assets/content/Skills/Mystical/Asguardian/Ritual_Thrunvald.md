@@ -1,6 +1,6 @@
 ---
 shortcode: thrunvald
-name: {full: "Ritual: Thrunvald", aliases: [The Stormborn Path]}
+name: {full: "Ritual: Thrunvald", en: [The Stormborn Path]}
 type: skill
 subType: mystical
 tags: [asguardian, faith-skill, draft]

@@ -1,6 +1,6 @@
 ---
 shortcode: kuxiixbalrgn
-name: {full: K'ushi Ish'bal Region, aliases: []}
+name: {full: K'ushi Ish'bal Region}
 type: place
 subType: region
 description: "The high altiplano of grassland, sacred lake and mountain passes that is the land of K'ushi Ish'bal, in Southern Ki'ich'chik."

@@ -1,6 +1,6 @@
 ---
 shortcode: minakprkhn
-name: {full: Minaka Parikshuna, given: Minaka, clan: Parikshuna, aliases: []}
+name: {full: Minaka Parikshuna, given: Minaka, clan: Parikshuna}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]

@@ -1,6 +1,6 @@
 ---
 shortcode: southrnmrch
-name: {full: Southern March, aliases: []}
+name: {full: Southern March}
 type: place
 subType: region
 description: The Bizarian League's southern frontier district—dry pastoral upland and hunting country on the caravan road from Karvashion toward Dunhara, held by Lord Vaskan for the League council.

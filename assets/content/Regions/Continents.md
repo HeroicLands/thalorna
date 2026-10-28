@@ -1,6 +1,6 @@
 ---
 shortcode: continents
-name: {full: Continents, aliases: []}
+name: {full: Continents}
 type: doc
 subType: reference
 description: Major landmasses of the world.

@@ -1,6 +1,6 @@
 ---
 shortcode: theradon2
-name: {full: Theradon, aliases: []}
+name: {full: Theradon}
 type: place
 subType: settlement
 description: "An inland Helionite city of terraced marble, old libraries and a Epistémion chapterhouse, whose citizens consider themselves qualified to instruct everyone else."

@@ -1,6 +1,6 @@
 ---
 shortcode: hornnjordur
-name: {full: The Horn of Hafvald, aliases: []}
+name: {full: The Horn of Hafvald}
 type: miscgear
 description: "One of the three regalia of Groa's quest—the horn of an older sea-power, whose name unsettlingly resembles that of the wraith it is needed to bind."
 tags: [artifact, regalia, nordlands]

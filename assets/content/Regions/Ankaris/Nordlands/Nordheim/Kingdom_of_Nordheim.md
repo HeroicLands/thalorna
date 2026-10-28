@@ -1,6 +1,6 @@
 ---
 shortcode: kngdmnrdhm
-name: {full: Kingdom of Nordheim, aliases: []}
+name: {full: Kingdom of Nordheim}
 type: affiliation
 subType: polity
 description: "Vast Nordmen kingdom of the far north, dominated by Asguardian worship and seafaring tradition—realm of harsh winters, fearless raiders, and deep-rooted clan honor."

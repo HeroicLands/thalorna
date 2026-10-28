@@ -1,6 +1,6 @@
 ---
 shortcode: spctrwlf
-name: {full: Specterwolf, aliases: []}
+name: {full: Specterwolf}
 type: being
 subType: creature
 description: "The spectral remnant of ancient beasts, hunting on both sides of the veil in relentless, coordinated packs that terrorize isolated travelers."

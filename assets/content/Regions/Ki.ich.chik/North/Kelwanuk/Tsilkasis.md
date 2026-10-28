@@ -1,6 +1,6 @@
 ---
 shortcode: tsilkasis
-name: {full: Tsilkasis, aliases: [Eagle Beach]}
+name: {full: Eagle Beach, kelw: [tsilkasis]}
 type: place
 subType: settlement
 description: "Eagle Beach: a row of carved cedar plank houses facing a salmon river's mouth on a northern fjord, the village of the house that sits first on the coast."

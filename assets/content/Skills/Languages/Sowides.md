@@ -1,6 +1,6 @@
 ---
 shortcode: sowideslng
-name: {full: Sovidur Language, aliases: []}
+name: {full: Sovidur Language}
 type: skill
 subType: language
 description: "The hard, clipped tongue of the steppe tribes of the Khazryn, spoken from the cold northern coast to the stone desert before Tantsou."

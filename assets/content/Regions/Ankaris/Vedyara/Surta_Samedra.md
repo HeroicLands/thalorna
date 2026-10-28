@@ -1,6 +1,6 @@
 ---
 shortcode: surtasamdra
-name: {full: Surta-samedra, aliases: [The Eastern Sea]}
+name: {full: The Eastern Sea, vedy: [surta-samedra]}
 type: place
 subType: region
 description: "The eastern ocean off Vedyara—the sea the sun rises from, worked by Tantsou junks and Jenchai hulls, and closed to shipping for four months of the year."

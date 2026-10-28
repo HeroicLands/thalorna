@@ -1,6 +1,6 @@
 ---
 shortcode: oxttm
-name: {full: Ox, aliases: [Ox Totem]}
+name: {full: Ox, en: [Ox Totem]}
 type: lore
 subType: bestiary
 description: "The ox as a totemic ideal, and the human character it describes."

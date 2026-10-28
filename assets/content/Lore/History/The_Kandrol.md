@@ -1,6 +1,6 @@
 ---
 shortcode: kandrol
-name: {full: The Kandrol, aliases: [The Chartering of the Thordimalon]}
+name: {full: The Kandrol, en: [The Chartering of the Thordimalon]}
 type: lore
 subType: history
 description: "In 73 BF the surviving masters draft their own terms and the Senate takes them—the Thordimalon chartered under the Kandrol, the Sekran constituted a clause earlier, and six sealed workshops set to rebuilding a burned corpus."

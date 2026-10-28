@@ -1,6 +1,6 @@
 ---
 shortcode: threndale
-name: {full: Threndale, aliases: []}
+name: {full: Threndale}
 type: place
 subType: settlement
 description: "The burial valley of the Vardain, where the dead of the whole district are brought—and where the graves of the last free generation of Vardanreach are still being added to."

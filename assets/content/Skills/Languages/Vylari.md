@@ -1,6 +1,6 @@
 ---
 shortcode: vylarilng
-name: {full: Vylari Language, aliases: []}
+name: {full: Vylari Language}
 type: skill
 subType: language
 description: "The imperial tongue of the Vylarian court and, as the Vylarians hold it, the language of learning, government, the arcane and the university system in the empire and the lands that look to it."

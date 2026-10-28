@@ -1,6 +1,6 @@
 ---
 shortcode: vishvrmhpr
-name: {full: Vishvara Mahapar, given: Vishvara, clan: Mahapar, aliases: []}
+name: {full: Vishvara Mahapar, given: Vishvara, clan: Mahapar}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]

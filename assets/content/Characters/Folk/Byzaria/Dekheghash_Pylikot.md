@@ -1,6 +1,6 @@
 ---
 shortcode: dekheghashpy
-name: {full: Dekheghash Pilikot, aliases: [Duke Dekheghash Pilikot]}
+name: {full: Dekheghash Pilikot, en: [Duke Dekheghash Pilikot]}
 type: being
 subType: npc
 description: An aging but still-powerful aristocrat who employs Lofáhr Vuzaghios for sensitive security work.

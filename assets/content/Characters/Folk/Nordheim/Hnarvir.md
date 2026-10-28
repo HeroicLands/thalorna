@@ -1,6 +1,6 @@
 ---
 shortcode: hnarvir
-name: {full: Hnarvir, aliases: []}
+name: {full: Hnarvir}
 type: being
 subType: npc
 description: A promising young warrior raised in the fortress and treated as Gnurthselda Hafringur's unofficial successor.

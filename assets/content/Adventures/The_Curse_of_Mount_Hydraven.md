@@ -1,6 +1,6 @@
 ---
 shortcode: crsmnthydrvn
-name: {full: The Curse of Mount Hidraven, aliases: []}
+name: {full: The Curse of Mount Hidraven}
 type: scenario
 subType: adventure
 data:

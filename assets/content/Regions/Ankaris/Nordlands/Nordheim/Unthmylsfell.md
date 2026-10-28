@@ -1,6 +1,6 @@
 ---
 shortcode: unthmylsfell
-name: {full: Unthmilsfell, aliases: [The Unsat Howe]}
+name: {full: Unthmilsfell, en: [The Unsat Howe]}
 type: place
 subType: site
 description: "A bare fell above a high pass in the Nordheim interior, with the ship-howe of a hall-lord of the Age of Halls whose grave-ale was never drunk and whose dead hall keeps the pass road."

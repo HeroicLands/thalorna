@@ -1,6 +1,6 @@
 ---
 shortcode: vdyrnrhn
-name: {full: Vedyaran Rhinoceros, aliases: []}
+name: {full: Vedyaran Rhinoceros}
 type: being
 subType: creature
 description: "A massive semi-aquatic armored megaherbivore of the Vedyaran floodplains, wallowing among rivers, marshes, and tall lowland grasslands."

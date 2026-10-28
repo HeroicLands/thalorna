@@ -1,6 +1,6 @@
 ---
 shortcode: wolfttm
-name: {full: Wolf, aliases: [Wolf Totem]}
+name: {full: Wolf, en: [Wolf Totem]}
 type: lore
 subType: bestiary
 description: "The wolf as a totemic ideal, and the human character it describes."

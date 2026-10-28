@@ -1,6 +1,6 @@
 ---
 shortcode: nmshrprklvs
-name: {full: Nomasáhr Paraklavos, given: Nomasáhr, clan: Paraklavos, aliases: []}
+name: {full: Nomasáhr Paraklavos, given: Nomasáhr, clan: Paraklavos}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, administration]

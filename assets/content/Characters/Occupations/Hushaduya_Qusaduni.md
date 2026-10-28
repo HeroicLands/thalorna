@@ -1,6 +1,6 @@
 ---
 shortcode: hshdyqsdn
-name: {full: Hushaduya Kusaduni, aliases: []}
+name: {full: Hushaduya Kusaduni}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

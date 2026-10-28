@@ -1,6 +1,6 @@
 ---
 shortcode: talbemsirvel
-name: {full: Tashbemsirvesh, aliases: [The Empty Tower]}
+name: {full: Tashbemsirvesh, en: [The Empty Tower]}
 type: place
 subType: site
 description: "A Tower of Silence on a bench of black stone north of Ashkarad that no priest of Azravan will approach, where the vultures sit in rows and do not feed and the dead on the platform lie as they were laid ninety years ago."

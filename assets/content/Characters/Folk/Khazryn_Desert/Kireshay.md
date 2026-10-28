@@ -1,6 +1,6 @@
 ---
 shortcode: kireshay
-name: {full: Kireshay, aliases: [Captain Kireshay]}
+name: {full: Kireshay, en: [Captain Kireshay]}
 type: being
 subType: npc
 description: The local garrison commander of the City Guard, who has made begging and vagrancy a personal crusade, named in Kamid Khavandar.

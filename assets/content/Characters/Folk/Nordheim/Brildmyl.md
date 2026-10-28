@@ -1,6 +1,6 @@
 ---
 shortcode: brildmyl
-name: {full: Brildmil, aliases: []}
+name: {full: Brildmil}
 type: being
 subType: npc
 description: The ranking priest at Svartbrandur's primary temple, who regards Svilthselda Ashenmaiden as a potential successor; also named in Braldfjall.

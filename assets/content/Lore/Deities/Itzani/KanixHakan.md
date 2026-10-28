@@ -1,6 +1,6 @@
 ---
 shortcode: kanixhakandty
-name: {full: K'anish Ha'kan, aliases: []}
+name: {full: K'anish Ha'kan}
 type: lore
 subType: deity
 description: "The Golden Giver of the Itsani pantheon—the maize god from whose sacred dough humankind was made, beloved rather than feared."

@@ -1,6 +1,6 @@
 ---
 shortcode: chendrapur2
-name: {full: Chendrapur, aliases: [The Moon City]}
+name: {full: The Moon City, vedy: [chendrapur]}
 type: place
 subType: settlement
 description: "The white city at the head of the Chandramahi delta—the capital of the city-state, the gem market the whole region cuts for, and the nine quarters the Nine Houses keep."

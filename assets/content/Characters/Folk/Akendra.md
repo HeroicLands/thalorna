@@ -1,6 +1,6 @@
 ---
 shortcode: akendra2
-name: {full: Akendra, aliases: []}
+name: {full: Akendra}
 type: being
 subType: npc
 description: "A celebrated chef whose fashionable cooking is admired in the capital and dismissed by the traditionalists as novelty dressed up"

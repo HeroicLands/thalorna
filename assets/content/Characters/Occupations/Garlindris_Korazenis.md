@@ -1,6 +1,6 @@
 ---
 shortcode: grlndrskrzns
-name: {full: Garlindris Korazenis, aliases: []}
+name: {full: Garlindris Korazenis}
 type: being
 subType: npc
 tags: [draft, administration]

@@ -1,6 +1,6 @@
 ---
 shortcode: vemunatamker
-name: {full: Vemuna Tamkerun, aliases: [High Artisan Vemuna Tamkerun, High Artisan Vemuna]}
+name: {full: Vemuna Tamkerun, en: [High Artisan Vemuna Tamkerun, High Artisan Vemuna]}
 type: being
 subType: npc
 description: A gruff but brilliant master armorer, now retired, to whom Afzandah Parnazar was apprenticed at twelve.

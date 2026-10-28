@@ -1,6 +1,6 @@
 ---
 shortcode: nalos
-name: {full: Sirethas, aliases: []}
+name: {full: Sirethas}
 type: mystery
 subType: birthsign
 description: "The River: welcome in any company and persuasive in every tongue, no one's idea of a fighter."

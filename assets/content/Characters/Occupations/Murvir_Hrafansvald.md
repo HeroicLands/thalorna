@@ -1,6 +1,6 @@
 ---
 shortcode: mrvrhrfnsvld
-name: {full: Murvir Hrafansvald, aliases: []}
+name: {full: Murvir Hrafansvald}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]

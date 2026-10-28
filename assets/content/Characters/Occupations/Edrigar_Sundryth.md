@@ -1,6 +1,6 @@
 ---
 shortcode: edrgrsndryth
-name: {full: Edrigar yra Sundreth wur Falkenstein, aliases: []}
+name: {full: Edrigar yra Sundreth wur Falkenstein}
 type: being
 subType: npc
 tags: [draft, common-folk]

@@ -1,6 +1,6 @@
 ---
 shortcode: skygrimur
-name: {full: "Skigrimur", aliases: []}
+name: {full: Skigrimur}
 type: affiliation
 subType: order
 description: "Illusion and disguise in Velgrímur's service."

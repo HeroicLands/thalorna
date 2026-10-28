@@ -1,6 +1,6 @@
 ---
 shortcode: brldthnvtrdmr
-name: {full: Braldthann Veturdómur, given: Braldthann, clan: Veturdómur, aliases: []}
+name: {full: Braldthann Veturdómur, given: Braldthann, clan: Veturdómur}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]

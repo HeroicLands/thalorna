@@ -2,7 +2,7 @@
 shortcode: bthntrdhss
 name:
   full: The Bethuan Trade-Houses
-  aliases: [The Houses, The Matriarchal Trade-Houses, Bethuan Matriarchal Trade-Houses]
+  en: [The Houses, The Matriarchal Trade-Houses, Bethuan Matriarchal Trade-Houses]
 type: affiliation
 subType: guild
 description: "Federation of matriarchal trading clans that dominates Bethuan commerce—clan-based, female-led, operating through Khelathi currency and correspondent banking relationships with Gar-Hálzi temple-treasuries."

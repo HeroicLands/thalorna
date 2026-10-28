@@ -1,6 +1,6 @@
 ---
 shortcode: argenna
-name: {full: Argenna, aliases: [Oracular Sanctuary at Argenna]}
+name: {full: Oracular Sanctuary at Argenna, prov: [Argenna]}
 type: place
 subType: site
 description: "The Oracular Sanctuary of Zunelas in Provenzia, whose dream-omens draw pilgrims from across the continent."

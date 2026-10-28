@@ -2,7 +2,7 @@
 shortcode: tghsvrnzrnsh
 name:
   full: Tigh'Savaran of the Zarnush
-  aliases: [Sworn Blades of the Zarnush, Riders of the Burning Wind]
+  en: [Sworn Blades of the Zarnush, Riders of the Burning Wind]
 type: affiliation
 subType: venture
 description: "Khazryn steppe warband defending a middling tribe against rivals through cavalry archery and the strategic genius of war captain Bahrazad."

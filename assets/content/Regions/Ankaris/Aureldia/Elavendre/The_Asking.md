@@ -1,6 +1,6 @@
 ---
 shortcode: theasking
-name: {full: The Asking, aliases: []}
+name: {full: The Asking}
 type: lore
 subType: literature
 description: "A Sinalean lay held in Élavendre: the Pelwar band that came over the eastern pass, the herdsman Dhargan who sat four days at the wood's edge and asked, and the generations after him, told in nine turnings by the Sinale who watched."
@@ -10,7 +10,7 @@ data:
   packFolder: elavendre
   form: lay
   subjects: [lore-flksinale, lore-aelendnppl, lore-pelwarpepl, place-ethalosse]
-  language: sinalelng
+  lang: sina
 ---
 
 **The Asking** is a [[lore-flksinale|Sinalean]] song held in [[place-elavendre|Élavendre]]. The

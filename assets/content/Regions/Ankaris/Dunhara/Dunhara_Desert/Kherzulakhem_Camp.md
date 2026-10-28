@@ -1,6 +1,6 @@
 ---
 shortcode: kherzlkhmcmp
-name: {full: Kherzulakhem Camp, aliases: []}
+name: {full: Kherzulakhem Camp}
 type: affiliation
 subType: polity
 description: "The hunters' camp at the oasis of Kherzulakhem, where the Laws of the Well keep the peace between trackers of both deserts however their tribes stand."
