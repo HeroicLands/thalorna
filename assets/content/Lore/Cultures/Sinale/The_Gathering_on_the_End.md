@@ -46,68 +46,68 @@ The first to rise kept the long song of the stars, which is sung from the first 
 : The Speech of the One Who Keeps the Long Song {#long-song}
 
 ```verse {form=evesikko numstep=5 cols=2}
-1 [eho olnaro luuro ehi onsa eirandi nuuvanutos ellun oltandi nuuvanu]{lang=sina enc=sinaveldikkoenc}
-2 [There is a song. I sing it from the first star to the last.]{lang=en}
-2 [eho olnaro luuro ehi onsa eirandi nuuvanutos ellun oltandi nuuvanu]{lang=sina}
+1 [eho olnaro oso luuro ehii eirandi nuuvanutos ellun oltandi nuuvanu]{lang=sina enc=sinaveldikkoenc}
+2 [There is a song that is sung from the first star to the last.]{lang=en}
+2 [eho olnaro oso luuro ehii eirandi nuuvanutos ellun oltandi nuuvanu]{lang=sina}
 
 1 [.eirandita olnaro setty eirandi nuuvanu aldesse eilavaho seltai olnaro raakke rosel oltandi nuuvanu]{lang=sina enc=sinaveldikkoenc}
-2 [.The song begins. The first star stands in the sky of the passes. The song stops. Morning takes the last star.]{lang=en}
+2 [.It begins when the first stands out over the passes and it ends with the one the morning takes.]{lang=en}
 2 [.eirandita olnaro setty eirandi nuuvanu aldesse eilavaho seltai olnaro raakke rosel oltandi nuuvanu]{lang=sina}
 
 1 [tupe ehi onsa ennos kauve eso lentas torvel vennas torvel]{lang=sina enc=sinaveldikkoenc}
-2 [I held it before the oaks on that slope became oaks.]{lang=en}
+2 [I have held it since before the oaks on that slope were oaks.]{lang=en}
 2 [tupe ehi onsa ennos kauve eso lentas torvel vennas torvel]{lang=sina}
 
 1 [.olnaro ilte onsa velti ilte onsa ummes onsa velti]{lang=sina enc=sinaveldikkoenc}
-2 [.It is one song. It is one shape. Its shape is the whole.]{lang=en}
+2 [.It is one song. It has one shape, and the shape is the whole of it.]{lang=en}
 2 [.olnaro ilte onsa velti ilte onsa ummes onsa velti]{lang=sina}
 
 1 [kelsa ovuu olnaro oltandiho tupe ehi oltandi tylne ahi velpe onsa]{lang=sina enc=sinaveldikkoenc}
-2 [Hear the song at its end. I hold the last line. It does not fall.]{lang=en}
+2 [Listen to the way it is held at the end. The last line is not let fall.]{lang=en}
 2 [kelsa ovuu olnaro oltandiho tupe ehi oltandi tylne ahi velpe onsa]{lang=sina}
 
 1 [.seltai luuronno tupe heëve tylne uulse tenvas rosel]{lang=sina enc=sinaveldikkoenc}
-2 [.The singer stops. Breath holds the line afterward. Morning comes.]{lang=en}
+2 [.The singer stops. The line is held in the breath after, and then there is the morning.]{lang=en}
 2 [.seltai luuronno tupe heëve tylne uulse tenvas rosel]{lang=sina}
 
 1 [oltandi iha irna ehi onsa ummes unturoho vennas erni ehi onsa velti olnaroho ehi]{lang=sina enc=sinaveldikkoenc}
-2 [This is an end. I make it every winter. I know its shape. I am inside the song.]{lang=en}
+2 [That is an end. I have made it every winter, and I know its shape from the inside.]{lang=en}
 2 [oltandi iha irna ehi onsa ummes unturoho vennas erni ehi onsa velti olnaroho ehi]{lang=sina}
 
 1 [.ahi hessave lirne ehi iha seltai ehi uvi seltai nuuvanu vennâs ahi seltai onsǎ]{lang=sina enc=sinaveldikkoenc}
-2 [.No one has asked me this: I stop]{lang=en}[—]{lang=zxx}[do the stars stop? They do not.]{lang=en}
+2 [.Nobody has asked me whether the stars stop when I stop. They do not.]{lang=en}
 2 [.ahi hessave lirne ehi iha seltai ehi uvi seltai nuuvanu vennâs ahi seltai onsǎ]{lang=sina}
 
 1 [seltai olnaro sendeppi nerrava nerrava velti ilte olnaro]{lang=sina enc=sinaveldikkoenc}
-2 [The song stops. Sound remains. A song is one shape of sound.]{lang=en}
+2 [The song stops, and the sound goes on. A song is one shape of the sound.]{lang=en}
 2 [seltai olnaro sendeppi nerrava nerrava velti ilte olnaro]{lang=sina}
 
 1 [.luuro ovuu iha nuuvanu vennas uttes orvessaho uttes olnaro onsa tennai onsa]{lang=sina enc=sinaveldikkoenc}
-2 [.Sing these stars in another order: it is another song, and it is true.]{lang=en}
+2 [.Sing the same stars in another order and that is another song, and a true one.]{lang=en}
 2 [.luuro ovuu iha nuuvanu vennas uttes orvessaho uttes olnaro onsa tennai onsa]{lang=sina}
 
-1 [leëvi ehii ummes ihaho erni ehii iha osotos setty ehii]{lang=sina enc=sinaveldikkoenc} [[—]{lang=zxx}]{lang=sina}
-2 [We all sit here. We know this because we have stood]{lang=en}[—]{lang=zxx}
-2 [leëvi ehii ummes ihaho erni ehii iha osotos setty ehii]{lang=sina} [[—]{lang=zxx}]{lang=sina}
+1 [erni ehii iha ummes oso leëvi ihaho osotos setty ehii maviho]{lang=sina enc=sinaveldikkoenc}
+2 [We know this. Of all who sit here, we know it, because we have stood where]{lang=en}
+2 [erni ehii iha ummes oso leëvi ihaho osotos setty ehii maviho]{lang=sina}
 
 1 [.\[…\]]{lang=zxx}
 2 [.\[…\]]{lang=zxx}
 2 [.\[…\]]{lang=zxx}
 
 1 [evatte ehi elneri velti ilte talnava nerrava velti ilte olnaro]{lang=sina enc=sinaveldikkoenc}
-2 [I say: the world is one shape of what exists. A song is one shape of sound.]{lang=en}
+2 [I say the world is one shape of what is, as the song is one shape of the sound.]{lang=en}
 2 [evatte ehi elneri velti ilte talnava nerrava velti ilte olnaro]{lang=sina}
 
 1 [.evatte ehi entel seltai salnava luuronno seltai talnava luuro luuronno heëve uulse erme]{lang=sina enc=sinaveldikkoenc}
-2 [.I say: if the world’s singer stops, the world stops. A singer sings the breath afterward too.]{lang=en}
+2 [.I say it ends when its singer stops, and that the breath after is also sung.]{lang=en}
 2 [.evatte ehi entel seltai salnava luuronno seltai talnava luuro luuronno heëve uulse erme]{lang=sina}
 
 1 [ahi sirneta ehi salnava luuronno entel kessave ovu ehi uvi seltai nerravâ setty ehi hisselho ahi erni ehi]{lang=sina enc=sinaveldikkoenc}
-2 [I do not name the world’s singer. If you ask me whether sound stops, I stand silent. I do not know.]{lang=en}
+2 [Who sings it, I do not say. Ask me whether the sound ends and I will stand silent, because I do not know.]{lang=en}
 2 [ahi sirneta ehi salnava luuronno entel kessave ovu ehi uvi seltai nerravâ setty ehi hisselho ahi erni ehi]{lang=sina}
 
 1 [.entel kessave ovu ehi uvi seltai íha talnava evatte ehi seltai onsa olnaro onsa luuro luuronno onsa insu kelsa ovu túpe luuronno onsa]{lang=sina enc=sinaveldikkoenc}
-2 [.If you ask me whether this world stops, I say it stops. It is a song. A singer sings it now. Hear. A singer holds it.]{lang=en}
+2 [.Ask me whether this ends: yes. It is a song. It is being sung now. Hear how it is held.]{lang=en}
 2 [.entel kessave ovu ehi uvi seltai íha talnava evatte ehi seltai onsa olnaro onsa luuro luuronno onsa insu kelsa ovu túpe luuronno onsa]{lang=sina}
 ```
 
@@ -129,67 +129,67 @@ He kept the oaks on the eastern slope, the one that had seeded that winter and t
 
 ```verse {form=evesikko numstep=5 cols=2}
 1 [leltai ehi torvel irvattosto lentasho kinsa onsa ehi alken vauttirsaho tunes leltai ehi onsa insu]{lang=sina enc=sinaveldikkoenc}
-2 [I tend an oak on the eastern slope. It was a shoot at the height of my hand then. I tend it now.]{lang=en}
+2 [There is an oak on the eastern slope that I have tended since it was a shoot the height of my hand,]{lang=en}
 2 [leltai ehi torvel irvattosto lentasho kinsa onsa ehi alken vauttirsaho tunes leltai ehi onsa insu]{lang=sina}
 
 1 [.vonu uttes torvel onsatos aldis onsa eirandi torveltos rendatto onsa olmarnaho leltai ehi onsa erme]{lang=sina enc=sinaveldikkoenc}
-2 [.Another oak is older than it and higher than the first. Rot is in its heartwood. I tend it too.]{lang=en}
+2 [.and there is an older one above it with rot in the heart, and I tend that one too.]{lang=en}
 2 [.vonu uttes torvel onsatos aldis onsa eirandi torveltos rendatto onsa olmarnaho leltai ehi onsa erme]{lang=sina}
 
 1 [rivy ummes toimunuho vennas pelpe lauppi raakke polpe onsa polpe onsa sulmeho]{lang=sina enc=sinaveldikkoenc}
-2 [The turning leaf in every year: leaves fall, the ground takes them, and at the thaw they are ground.]{lang=en}
+2 [Every year the leaf turns. Every year it falls, and the ground takes it, and by the thaw it is ground.]{lang=en}
 2 [rivy ummes toimunuho vennas pelpe lauppi raakke polpe onsa polpe onsa sulmeho]{lang=sina}
 
 1 [.ahi seltai lauppi leësy ehi irnarsatos ahi halpe ehi onsa oirava lauppi raakke polpe onsa]{lang=sina enc=sinaveldikkoenc}
-2 [.The leaves’ path does not stop for my craft. I do not shut it. Leaves are a debt; the ground takes them.]{lang=en}
+2 [.Nothing I do stops that. I do not try to. The ground is owed the leaf.]{lang=en}
 2 [.ahi seltai lauppi leësy ehi irnarsatos ahi halpe ehi onsa oirava lauppi raakke polpe onsa]{lang=sina}
 
-1 [mairel rendatto vonu sorvel olmarna olmarnaho alken ilte unturoho elki]{lang=sina enc=sinaveldikkoenc}
-2 [Rot eats the old oak’s heartwood from within: one hand in twenty winters.]{lang=en}
-2 [mairel rendatto vonu sorvel olmarna olmarnaho alken ilte unturoho elki]{lang=sina}
+1 [mairel elnerinu vonu sorvel olmarna olmarnaho alken ilte unturoho elki]{lang=sina enc=sinaveldikkoenc}
+2 [Something eats the heart of the old oak from the inside, a hand's width in a twenty of winters.]{lang=en}
+2 [mairel elnerinu vonu sorvel olmarna olmarnaho alken ilte unturoho elki]{lang=sina}
 
 1 [.halte ehi olmarna ahi eho rendatto esoho kalpe ehi talkevi setty torvel ummes ehi leltairsaho]{lang=sina enc=sinaveldikkoenc}
-2 [.I carve the heartwood. There is no rot there. I close the wound. The oak stands through all my tending.]{lang=en}
+2 [.I cut back to the sound wood and seal the cut and the tree stands. It has stood for all of my tending.]{lang=en}
 2 [.halte ehi olmarna ahi eho rendatto esoho kalpe ehi talkevi setty torvel ummes ehi leltairsaho]{lang=sina}
 
 1 [uttes meravinno onsa pehe polpe ulsen pehe meravinno aume ulsen]{lang=sina enc=sinaveldikkoenc}
-2 [It is another consumer. The ground gives again. The consumer gives nothing back.]{lang=en}
+2 [What eats it is not the ground. The ground gives back. What eats the heart gives nothing back.]{lang=en}
 2 [uttes meravinno onsa pehe polpe ulsen pehe meravinno aume ulsen]{lang=sina}
 
 1 [.nalduraivas vennas onsaa ehii sirne iha ahi evatte onsaa onsaa sirne vennas]{lang=sina enc=sinaveldikkoenc}
-2 [.They are Beings of Dark. This is our name. They have not spoken their names.]{lang=en}
+2 [.We have a name for the great ones who are like that: the ones of the Dark. It is our name. They have not told us theirs.]{lang=en}
 2 [.nalduraivas vennas onsaa ehii sirne iha ahi evatte onsaa onsaa sirne vennas]{lang=sina}
 
 1 [mairel onsaa ilnava lauppi olmarna aukkessa olnaro pelpe oso irtal onsaatos]{lang=sina enc=sinaveldikkoenc}
-2 [They eat the made work: leaves, heartwood, hearth, song. What rises falls because of them.]{lang=en}
+2 [They eat what is made. The leaf, the heart, the hearth, the song: whatever is raised, they take down,]{lang=en}
 2 [mairel onsaa ilnava lauppi olmarna aukkessa olnaro pelpe oso irtal onsaatos]{lang=sina}
 
 1 [.ahi yinse ehi vanneti onsaa meraviho raakke polpe lauppi osotos eho onsa]{lang=sina enc=sinaveldikkoenc}
-2 [.I have seen no anger in their eating. The ground takes the leaves because they are there.]{lang=en}
+2 [.without anger, as far as I have seen; as the ground takes the leaf, because it is there to be taken.]{lang=en}
 2 [.ahi yinse ehi vanneti onsaa meraviho raakke polpe lauppi osotos eho onsa]{lang=sina}
 
 1 [ukken onsaa ernirsa iha ummes ehi ernirsa leltai ehi kuse iha ernirsa]{lang=sina enc=sinaveldikkoenc}
-2 [They are slow. This knowledge is all my knowledge. I tend with this knowledge.]{lang=en}
+2 [And they are slow. That is the whole of what I know and it is enough to tend by.]{lang=en}
 2 [ukken onsaa ernirsa iha ummes ehi ernirsa leltai ehi kuse iha ernirsa]{lang=sina}
 
 1 [.ukken meravi lirtarsatos entel leltai lirne oltandi teipannu oso ahi eho iha]{lang=sina enc=sinaveldikkoenc}
-2 [.Eating is slower than growing if someone tends. The end is the day this is no longer so.]{lang=en}
+2 [.The eating is slower than the growing while someone tends. The day it is not is the end.]{lang=en}
 2 [.ukken meravi lirtarsatos entel leltai lirne oltandi teipannu oso ahi eho iha]{lang=sina}
 
 1 [ahi eho eso teipannu entel eho alken salpuho ahi yinse ehi eso teipannu yinse ehi alkěn]{lang=sina enc=sinaveldikkoenc}
-2 [That day is not here if a hand is on the tree. I have not seen that day. I have seen the hand.]{lang=en}
+2 [No day is that day while a hand is on the tree. I have not seen the day. I have seen the hand.]{lang=en}
 2 [ahi eho eso teipannu entel eho alken salpuho ahi yinse ehi eso teipannu yinse ehi alkěn]{lang=sina}
 
 1 [.ahi rauttu ovu nelmi vittel ruskelho ahi ulpes melke ruskel osotos tupe nelmi onsa kelsa ovu lirne oso tenvas uulse ehi]{lang=sina enc=sinaveldikkoenc}
-2 [.Do not move the moss on the northern bark. Water does not enter the bark because the moss holds it. Hear, you who come after me.]{lang=en}
+2 [.Leave the moss on the north side. It holds the wet off the bark. I say that to whoever comes after me.]{lang=en}
 2 [.ahi rauttu ovu nelmi vittel ruskelho ahi ulpes melke ruskel osotos tupe nelmi onsa kelsa ovu lirne oso tenvas uulse ehi]{lang=sina}
 
 1 [luuro tellakitta eilavanto entel seltai salnava luuronno seltai talnava evatte ehi entel seltai salnava leltainno seltai talnava ukken eso oltandi]{lang=sina enc=sinaveldikkoenc}
-2 [Tellakitta Eilavanto sang: if the world’s singer stops, the world stops. I say: if the world’s tender stops, the world stops. That end is slow.]{lang=en}
+2 [Tellakitta sang that the world ends when its singer stops. I say it ends when its tender stops, and I say it is slower.]{lang=en}
 2 [luuro tellakitta eilavanto entel seltai salnava luuronno seltai talnava evatte ehi entel seltai salnava leltainno seltai talnava ukken eso oltandi]{lang=sina}
 
 1 [.leltai ovuu ehi evakkakki iha osotos sennevi torvel ahi sennevi rendatto]{lang=sina enc=sinaveldikkoenc}
-2 [.Tend. This is my little speech, because the oak waits and the rot does not wait.]{lang=en}
+2 [.So tend. That is my speech. It is not long, because the oak is waiting and the rot does not wait with it.]{lang=en}
 2 [.leltai ovuu ehi evakkakki iha osotos sennevi torvel ahi sennevi rendatto]{lang=sina}
 ```
 
@@ -209,55 +209,55 @@ She kept the meadow below the passes, the tall grass that the fog lies in, and s
 
 ```verse {form=evesikko numstep=5 cols=2}
 1 [pelpe lentinu vennas ummes sauttenho aldesse polpeho nykehe ummes unturoho vennas]{lang=sina enc=sinaveldikkoenc}
-2 [Every blade falls in the meadow below the passes, under snow in every winter.]{lang=en}
+2 [The grass on the meadow below the passes goes down under the snow every winter, every stem of it.]{lang=en}
 2 [pelpe lentinu vennas ummes sauttenho aldesse polpeho nykehe ummes unturoho vennas]{lang=sina}
 
 1 [.nalki lenti peravi onsa sulmeho eho polpe levatti oltandi onsa eirandi yinserseho]{lang=sina enc=sinaveldikkoenc}
-2 [.At the thaw the grass is black and flat. There is the smell of ground. At first sight it is an end.]{lang=en}
+2 [.By the first thaw it is black and flat and smells of the ground. Seen once, that is an end.]{lang=en}
 2 [.nalki lenti peravi onsa sulmeho eho polpe levatti oltandi onsa eirandi yinserseho]{lang=sina}
 
 1 [yinse ehi leiken ervu ehi yinserse vennas vonu sorvel soimutekkiretos vennas]{lang=sina enc=sinaveldikkoenc}
-2 [I have seen spring. My sightings are more than the old oak’s year-marks.]{lang=en}
+2 [I have seen the spring. I have seen it more times than the old oak has rings.]{lang=en}
 2 [yinse ehi leiken ervu ehi yinserse vennas vonu sorvel soimutekkiretos vennas]{lang=sina}
 
 1 [.setty lenti talveho aurannos uttes lenti iha lenti onsa]{lang=sina enc=sinaveldikkoenc}
-2 [.The grass stands in the fog, as always. This is other grass. It is the grass.]{lang=en}
+2 [.The grass stands in the fog, as it always does. It is not the same grass. It is the grass.]{lang=en}
 2 [.setty lenti talveho aurannos uttes lenti iha lenti onsa]{lang=sina}
 
 1 [luuro ovuu sipes seltai luuronno seltai leltainno uvi seltai movî sirneta ovuu ehii lirne ilte oso seltai]{lang=sina enc=sinaveldikkoenc}
-2 [You two sang: the singer stops, the tender stops. Who stops? Name one of our people who has stopped.]{lang=en}
+2 [You two have sung of a singer stopping and a tender stopping. Who stops? Name one of us who has.]{lang=en}
 2 [luuro ovuu sipes seltai luuronno seltai leltainno uvi seltai movî sirneta ovuu ehii lirne ilte oso seltai]{lang=sina}
 
 1 [.entel seltai ehii lirne kerrai onsa velnari ahi seltai lirne oso olkai eho onsaa oluho]{lang=sina enc=sinaveldikkoenc}
-2 [.If one of our people has ended, they chose departure. Those who leave have not ended. They exist elsewhere.]{lang=en}
+2 [.None of us has ended but by choosing to go, and the ones who go are not ended. They are elsewhere.]{lang=en}
 2 [.entel seltai ehii lirne kerrai onsa velnari ahi seltai lirne oso olkai eho onsaa oluho]{lang=sina}
 
-1 [kelsa ehii kessavenno vennas enneli hyrreho lonku issalteho uttes muuvu evesi vennas tunes]{lang=sina enc=sinaveldikkoenc}
-2 [We first heard the askers at the fires at the wood’s edge. The humans’ words were different then.]{lang=en}
-2 [kelsa ehii kessavenno vennas enneli hyrreho lonku issalteho uttes muuvu evesi vennas tunes]{lang=sina}
+1 [kelsa ehii kessari enneli hyrreho lonku issalteho uttes muuvu evesi vennas tunes]{lang=sina enc=sinaveldikkoenc}
+2 [We heard the question first from the fires at the edge of the wood, in the changing words the bands had then,]{lang=en}
+2 [kelsa ehii kessari enneli hyrreho lonku issalteho uttes muuvu evesi vennas tunes]{lang=sina}
 
 1 [.vaissa onsaa onsaa lirne ilte polpeho leëvi uttes muuvu vennas kessave onsaa hyrre uvi vaukka onsa mavihô]{lang=sina enc=sinaveldikkoenc}
-2 [.They planted one of their people in the ground. The other humans sat and asked the fire: where has he gone?]{lang=en}
+2 [.when one of them had been put in the ground and the rest sat and asked the fire where he had gone.]{lang=en}
 2 [.vaissa onsaa onsaa lirne ilte polpeho leëvi uttes muuvu vennas kessave onsaa hyrre uvi vaukka onsa mavihô]{lang=sina}
 
-1 [ahi vandel ehii onsaa vaukka onsaa leësyhe kauve onsaa ahi halpe ehii onsaa leësy ávetti iha irna ehii iha ulsen]{lang=sina enc=sinaveldikkoenc}
-2 [We did not answer them. They went along the path. They became. We did not shut their path. That was right. We do this again.]{lang=en}
-2 [ahi vandel ehii onsaa vaukka onsaa leësyhe kauve onsaa ahi halpe ehii onsaa leësy ávetti iha irna ehii iha ulsen]{lang=sina}
+1 [ahi vandel ehii onsaa vaukka onsaa leësyhe kauve onsaa ahi halpe ehii onsaa leësy ávetti iha irna ehi iha ulsen]{lang=sina enc=sinaveldikkoenc}
+2 [We did not answer them. We left them to their becoming, which was right, and which I would do again.]{lang=en}
+2 [ahi vandel ehii onsaa vaukka onsaa leësyhe kauve onsaa ahi halpe ehii onsaa leësy ávetti iha irna ehi iha ulsen]{lang=sina}
 
 1 [.evatte ehi kauve ehii erme ahi halpe ehii ehii leësy onsaa evesi oltandi eho onsaa sylpe oltandi]{lang=sina enc=sinaveldikkoenc}
-2 [.I say: let us become too. We do not shut our own path. The end is their word. Their lifetime has an end.]{lang=en}
+2 [.I say we leave ourselves to it also. The end is their word. It is a word for a people whose lives have one.]{lang=en}
 2 [.evatte ehi kauve ehii erme ahi halpe ehii ehii leësy onsaa evesi oltandi eho onsaa sylpe oltandi]{lang=sina}
 
 1 [ahi eho ehii ylpirse oltandi ahi supe ovuu kessari ahi raakke ehii onsa onsaa kessari onsa tunes ahi raakke ehii onsa]{lang=sina enc=sinaveldikkoenc}
-2 [Our living has no end. Do not hold the question. We do not take it up. It was their question then. We did not take it up.]{lang=en}
+2 [Ours have not. Put the question down. It is not ours to lift, and we did not lift it for them when it was theirs.]{lang=en}
 2 [ahi eho ehii ylpirse oltandi ahi supe ovuu kessari ahi raakke ehii onsa onsaa kessari onsa tunes ahi raakke ehii onsa]{lang=sina}
 
 1 [.tellakitta eilavanto luuro ovu luuro luuronno heëve uulse entel iha seltai aume luuro ovu ehi evakka]{lang=sina enc=sinaveldikkoenc}
-2 [.Tellakitta Eilavanto, you sang: a singer sings the breath afterward. If so, nothing has ended. You sang my speech.]{lang=en}
+2 [.Tellakitta, you sang that the breath after the song is also sung. Then nothing has ended. You have sung my speech.]{lang=en}
 2 [.tellakitta eilavanto luuro ovu luuro luuronno heëve uulse entel iha seltai aume luuro ovu ehi evakka]{lang=sina}
 
 1 [pelpe lenti setty lenti leikenho untǔro ilte uulse pelpe lenti ennos setty lenti ahi eho uttes]{lang=sina enc=sinaveldikkoenc}
-2 [The grass falls. The grass stands in spring. One winter after it falls and before it stands. There is nothing else.]{lang=en}
+2 [The grass goes down. The grass stands. Between the two there is a winter, and that is all there is between them.]{lang=en}
 2 [pelpe lenti setty lenti leikenho untǔro ilte uulse pelpe lenti ennos setty lenti ahi eho uttes]{lang=sina}
 ```
 
@@ -293,67 +293,67 @@ The account names the hearths that came by what each keeps, as before: from the 
 
 ```verse {form=evesikko numstep=5 cols=2}
 1 [ellevi ehi vittel aukkessaho eso sennavetos aukkessa sirne ahi velpe lauppi tunes]{lang=sina enc=sinaveldikkoenc}
-2 [I was a guest at a northern hearth. Its name comes from that time: the leaves did not fall then.]{lang=en}
+2 [I have been a guest at a hearth in the north in the season it was named for, when the leaf does not fall.]{lang=en}
 2 [ellevi ehi vittel aukkessaho eso sennavetos aukkessa sirne ahi velpe lauppi tunes]{lang=sina}
 
 1 [.patten ehi onsa aunekkeho iha toimunuho setty ehi issalteho evatte ehi oso yinse ehi ahi evatte ehi uttes]{lang=sina enc=sinaveldikkoenc}
-2 [.I returned to its valley this year and stood at the edge. I speak of what I saw. I speak of nothing else.]{lang=en}
+2 [.I have gone back to it this year and stood at its edge, and I will tell you what I saw and no more than I saw.]{lang=en}
 2 [.patten ehi onsa aunekkeho iha toimunuho setty ehi issalteho evatte ehi oso yinse ehi ahi evatte ehi uttes]{lang=sina}
 
 1 [setty salpu vennas selkorosa onsaa ressa melke naldusa onsa ahi ulpes vaitten vennas]{lang=sina enc=sinaveldikkoenc}
-2 [The trees stand. They are dead. Water runs. It is dark. No wings enter.]{lang=en}
+2 [The trees stand and are dead. The water runs and is dark. Nothing with wings goes in.]{lang=en}
 2 [setty salpu vennas selkorosa onsaa ressa melke naldusa onsa ahi ulpes vaitten vennas]{lang=sina}
 
 1 [.ralti polpe hervi hervi autemel intisho eho orti vennas ilvena onsaa]{lang=sina enc=sinaveldikkoenc}
-2 [.The air in summer’s heart is the air beneath rock. The wards are there. They face inward.]{lang=en}
+2 [.The air in the middle of summer is the air under a stone. The wards are there. They are turned inward.]{lang=en}
 2 [.ralti polpe hervi hervi autemel intisho eho orti vennas ilvena onsaa]{lang=sina}
 
-1 [eho lirne vennas esoho ahi olkai onsaa patten ehi ihatos evatte ehi tylne ilte]{lang=sina enc=sinaveldikkoenc}
-2 [The people are there. They have not departed. I returned because of this. I speak one line:]{lang=en}
-2 [eho lirne vennas esoho ahi olkai onsaa patten ehi ihatos evatte ehi tylne ilte]{lang=sina}
+1 [eho lirne vennas esoho ahi olkai onsaa patten ehi ihatos evatte ehi onsa ilte]{lang=sina enc=sinaveldikkoenc}
+2 [The people are there. They have not gone. That is the thing I came back to say, and I will say it once:]{lang=en}
+2 [eho lirne vennas esoho ahi olkai onsaa patten ehi ihatos evatte ehi onsa ilte]{lang=sina}
 
 1 [.ahi vaukka haulonna ollevi ollevi aldevanho túpe tupenno onsaa]{lang=sina enc=sinaveldikkoenc}
-2 [.Haulonna’s dead have not gone to the dead’s beyond. They are held.]{lang=en}
+2 [.the dead of Haulonna have not gone where the dead go. They are held.]{lang=en}
 2 [.ahi vaukka haulonna ollevi ollevi aldevanho túpe tupenno onsaa]{lang=sina}
 
 1 [luuro tellakitta eilavanto entel seltai salnava luuronno seltai talnava ahi seltai luuronno setty ehi issalteho tenvas nuuvanu vennas aunekke eilavaho]{lang=sina enc=sinaveldikkoenc}
-2 [Tellakitta Eilavanto sang: if the world’s singer stops, the world stops. The singer has not stopped. I stood at the edge; stars came into the valley’s sky.]{lang=en}
+2 [Tellakitta sang that the world ends when the singer stops. The singer has not stopped. The stars came out over that valley while I stood at its edge.]{lang=en}
 2 [luuro tellakitta eilavanto entel seltai salnava luuronno seltai talnava ahi seltai luuronno setty ehi issalteho tenvas nuuvanu vennas aunekke eilavaho]{lang=sina}
 
 1 [.luuro rivytti syllente ukken oltandi ossenda ilte onsa ossenda ílte ahi velpe lauppi ahi olkai lirne vennas]{lang=sina enc=sinaveldikkoenc}
-2 [.Rivytti Syllente sang: the end is slow. It was one night. One night. The leaves did not fall. The people did not leave.]{lang=en}
+2 [.Rivytti sang that the end is slow. It was one night. It was one night, and the leaf did not fall, and the people did not go.]{lang=en}
 2 [.luuro rivytti syllente ukken oltandi ossenda ilte onsa ossenda ílte ahi velpe lauppi ahi olkai lirne vennas]{lang=sina}
 
 1 [luuro lentila talvento muuvu evesi oltandi eho muuvu sylpe oltandi ahi seltai ehii lirne]{lang=sina enc=sinaveldikkoenc}
-2 [Lentila Talvento sang: the end is the humans’ word; their lifetime has an end; none of our people has ended.]{lang=en}
+2 [Lentila sang that the end is a word for a people whose lives have one, and that none of us has ended.]{lang=en}
 2 [luuro lentila talvento muuvu evesi oltandi eho muuvu sylpe oltandi ahi seltai ehii lirne]{lang=sina}
 
 1 [.ahi vandel ehi onsa setty ehi aunekke issaltehǒ]{lang=sina enc=sinaveldikkoenc}
-2 [.I do not answer her. I stood at the valley’s edge.]{lang=en}
+2 [.I have no answer for her. I have where I stood.]{lang=en}
 2 [.ahi vandel ehi onsa setty ehi aunekke issaltehǒ]{lang=sina}
 
 1 [evatte ehi seltai talnava aukkessa aunekke lirne vennas ummes esoho ossendaho ilte]{lang=sina enc=sinaveldikkoenc}
-2 [I say: a world ends]{lang=en}[—]{lang=zxx}[a hearth, a valley, everyone there]{lang=en}[—]{lang=zxx}[in one night,]{lang=en}
+2 [I say that a world ends: a hearth, a valley, everyone in it, in a night,]{lang=en}
 2 [evatte ehi seltai talnava aukkessa aunekke lirne vennas ummes esoho ossendaho ilte]{lang=sina}
 
 1 [.ahi erni talnava iha aunekke aldevanho setty lenti sauttenho aldesse polpeho eso leikenho aurannos]{lang=sina enc=sinaveldikkoenc}
-2 [.while the world beyond the valley does not know this. The grass in the meadow below the passes stood that spring, as always.]{lang=en}
+2 [.and the rest of the world does not know, and the grass on the meadow below the passes stood up that spring as it always does.]{lang=en}
 2 [.ahi erni talnava iha aunekke aldevanho setty lenti sauttenho aldesse polpeho eso leikenho aurannos]{lang=sina}
 
 1 [oltandi oso yinse ehi iha yinse ehi oltandi ilte aunekke lirne vennas esoho tupe tupenno onsaa]{lang=sina enc=sinaveldikkoenc}
-2 [This is the end I have seen. I have seen one end: a valley, its people there, held.]{lang=en}
+2 [That is the end as I have seen it, and I have seen one. A valley with its people kept in it.]{lang=en}
 2 [oltandi oso yinse ehi iha yinse ehi oltandi ilte aunekke lirne vennas esoho tupe tupenno onsaa]{lang=sina}
 
 1 [.elnis ilte sennaveho ilte uttes elnis ahi erni onsa iha uttes elnis]{lang=sina enc=sinaveldikkoenc}
-2 [.One place at one time. Another place does not know this. Another place.]{lang=en}
+2 [.One place at a time, and the next place not knowing, and the next.]{lang=en}
 2 [.elnis ilte sennaveho ilte uttes elnis ahi erni onsa iha uttes elnis]{lang=sina}
 
 1 [erni ehii ollevi leësy erdavi aulveira ollevi eho onsaa ollevikkoho ahi eho aulirakko iha evakkatos aurannos osotos seimakata ehii ummes iha]{lang=sina enc=sinaveldikkoenc}
-2 [We know the dead’s path. Aulveira carries the dead. They are in Ollevikko. No gathering has ever existed on this account, because we all agree on it.]{lang=en}
+2 [We know where the dead go. Aulveira takes them to [Ollevikko]{.name data-type="place"}. On that there has never been a gathering, because there is nothing in it to speak against.]{lang=en}
 2 [erni ehii ollevi leësy erdavi aulveira ollevi eho onsaa ollevikkoho ahi eho aulirakko iha evakkatos aurannos osotos seimakata ehii ummes iha]{lang=sina}
 
 1 [.ahi erni ehi uvi eho ollevikko uulse salnava oltandî kessave ehi lirne sipes kerrai onsaa velnari eho onsaa ollevikkoho patten onsaa ahi erni onsaa iha erme]{lang=sina enc=sinaveldikkoenc}
-2 [.I do not know whether Ollevikko exists after the world’s end. I asked two people. They chose departure, were in Ollevikko and returned. They do not know this either.]{lang=en}
+2 [.I do not know whether Ollevikko outlasts the world. I asked two who chose to go there and have slipped back. They are no wiser about it than I am.]{lang=en}
 2 [.ahi erni ehi uvi eho ollevikko uulse salnava oltandî kessave ehi lirne sipes kerrai onsaa velnari eho onsaa ollevikkoho patten onsaa ahi erni onsaa iha erme]{lang=sina}
 ```
 

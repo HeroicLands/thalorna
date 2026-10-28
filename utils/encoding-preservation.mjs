@@ -12,7 +12,8 @@ import { pieceGlosses } from "@heroiclands/package-build/engine/word-rows";
 import { dictionaryAndTermRows } from "@heroiclands/package-build/engine/dictionary-rows";
 
 // The utility CI checkout explicitly fetches full history for pinned git-show
-// baselines. This is the last published-dependency commit before the migration.
+// baselines. This is the last published-dependency commit before the migration;
+// the tag baseline/encoding-migration keeps it reachable.
 export const ENCODING_BASELINE = "e02f760d9325f1c1398ceeb9622d635224f60400";
 export const contentHash = (value) =>
     createHash("sha256")

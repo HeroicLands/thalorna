@@ -43,19 +43,19 @@ One of them, [[lore-seventowers|The Seven Towers]], stands in the makers' halls 
 
 ```verse {form=elegy numstep=5 cols=2}
 1 [ahi maskari ehii ahi meëve ehii onsa maskari lonku aiva]{lang=sina enc=sinaveldikkoenc}
-2 [We do not build. We do not seek it. The wood builds itself,]{lang=en}
+2 [We do not build. We have never wished to; the forest builds itself,]{lang=en}
 2 [ahi maskari ehii ahi meëve ehii onsa maskari lonku aiva]{lang=sina}
 
 1 [.luuro ehii ilnava ahi velpe ehii olnaro]{lang=sina enc=sinaveldikkoenc}
-2 [.and we sing the work. Our song does not fall.]{lang=en}
+2 [.and what we make we sing, and what we sing does not fall down.]{lang=en}
 2 [.luuro ehii ilnava ahi velpe ehii olnaro]{lang=sina}
 
-1 [alte setty ehii aulten sennave hissel ehii]{lang=sina enc=sinaveldikkoenc}
-2 [But we stood a long time. We were silent.]{lang=en}
-2 [alte setty ehii aulten sennave hissel ehii]{lang=sina}
+1 [alte setty ehii aulten sennave eso leësyhe hissel ehii]{lang=sina enc=sinaveldikkoenc}
+2 [But we stood a long while in those ways and said nothing,]{lang=en}
+2 [alte setty ehii aulten sennave eso leësyhe hissel ehii]{lang=sina}
 
 1 [.ahi eho aldis tellame hisseltos ehiiho]{lang=sina enc=sinaveldikkoenc}
-2 [.Among us, no praise-song is higher than silence.]{lang=en}
+2 [.and among us there is no higher praise than that.]{lang=en}
 2 [.ahi eho aldis tellame hisseltos ehiiho]{lang=sina}
 ```
 

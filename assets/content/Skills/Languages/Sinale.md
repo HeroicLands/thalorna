@@ -146,7 +146,11 @@ data:
       field: "Light, stars, sky and the hours"
       gloss: "blue, the colour of the high sky"
       concept: blue
-    - {form: ylpe, class: "n", field: "Light, stars, sky and the hours", gloss: "the high air"}
+    - form: ylpe
+      variants: [ylpehe]
+      class: "n"
+      field: "Light, stars, sky and the hours"
+      gloss: "the high air"
     - {form: seippe, class: "n", field: "Light, stars, sky and the hours", gloss: "a high cloud"}
     - {form: irikka, class: "n", field: "Light, stars, sky and the hours", gloss: "the rainbow"}
     - form: iltatti
@@ -276,15 +280,19 @@ data:
       class: "n"
       field: "Water, weather and the seasons"
       gloss: "the low fog"
-      variants: ["talveho", "salve", "salveho"]
+      variants: ["talveho", "salve", "salveho", talvetos]
     - {form: hallesi, class: "n", field: "Water, weather and the seasons", gloss: "white frost"}
     - {form: ilvy, class: "n", field: "Water, weather and the seasons", gloss: "thin ice"}
-    - {form: nelyve, class: "n", field: "Water, weather and the seasons", gloss: "the first frost"}
+    - form: nelyve
+      variants: [nelyvetes, nelyvehe]
+      class: "n"
+      field: "Water, weather and the seasons"
+      gloss: "the first frost"
     - form: pelvai
       class: "n"
       field: "Water, weather and the seasons"
       gloss: "the low cloud"
-      variants: [velvai]
+      variants: [velvai, pelvaitos]
     - form: sulme
       class: "n"
       field: "Water, weather and the seasons"
@@ -293,7 +301,7 @@ data:
     - {form: liseri, class: "n", field: "Water, weather and the seasons", gloss: "still water"}
     - {form: telvi, class: "n", field: "Water, weather and the seasons", gloss: "the falling drop"}
     - form: melke
-      variants: [melkeho]
+      variants: [melkeho, melketos]
       class: "n"
       field: "Water, weather and the seasons"
       gloss: "water"
@@ -321,7 +329,7 @@ data:
       class: "n"
       field: "Water, weather and the seasons"
       gloss: "a river"
-      variants: ["lanteppitos"]
+      variants: ["lanteppitos", lanteppiho]
     - {form: rinnel, class: "n", field: "Water, weather and the seasons", gloss: "a brook"}
     - form: ukkenda
       class: "n"
@@ -473,12 +481,12 @@ data:
       class: n
       field: "Trees, plants and the living wood"
       gloss: "the tall grass"
-      variants: [lentiho]
+      variants: [lentiho, lentitos]
     - form: nylki
       class: "n"
       field: "Trees, plants and the living wood"
       gloss: "the deep root"
-      variants: [nylkihe]
+      variants: [nylkihe, nylkites]
     - {form: kinsa, class: "n", field: "Trees, plants and the living wood", gloss: "the new shoot"}
     - form: olmarna
       variants: ["olmarnaho"]
@@ -499,7 +507,11 @@ data:
       field: "Trees, plants and the living wood"
       gloss: "leaves"
       variants: ["lauppiho"]
-    - {form: vattel, class: "n", field: "Trees, plants and the living wood", gloss: "a branch"}
+    - form: vattel
+      variants: [vattelho]
+      class: "n"
+      field: "Trees, plants and the living wood"
+      gloss: "a branch"
     - form: ruskel
       class: "n"
       field: "Trees, plants and the living wood"
@@ -542,6 +554,7 @@ data:
       class: "n"
       field: "Trees, plants and the living wood"
       gloss: "a hazel"
+    - {form: ulvas, class: "n", field: "Trees, plants and the living wood", gloss: "an alder"}
     - form: lamaine
       class: "n"
       field: "Trees, plants and the living wood"
@@ -557,6 +570,7 @@ data:
       gloss: "green"
       concept: green
     - form: kalpikko
+      variants: [kalpikkoho]
       class: "n"
       field: "Trees, plants and the living wood"
       gloss: "a stand of birch"
@@ -641,6 +655,7 @@ data:
     - {form: kaukel, class: "n", field: Beasts and birds, gloss: "a raven"}
     - {form: sylke, class: "n", field: Beasts and birds, gloss: "a swan"}
     - {form: tihvel, class: "n", field: Beasts and birds, gloss: "a hawk"}
+    - {form: ilkaive, class: "n", field: Beasts and birds, gloss: "a heron"}
     - {form: raumel, class: "n", field: Beasts and birds, gloss: "an eagle"}
     - {form: lirsy, class: "n", field: Beasts and birds, gloss: "a songbird"}
     - {form: hulka, class: n, field: Beasts and birds, gloss: "fish"}
@@ -653,7 +668,7 @@ data:
     - {form: vyrni, class: n, field: Beasts and birds, gloss: "bees"}
     - {form: hiakke, class: "n", field: Beasts and birds, gloss: "a feather"}
     - {form: vaitten, class: "n", field: Beasts and birds, gloss: "a wing"}
-    - {form: maulpe, class: "n", field: Beasts and birds, gloss: "a nest"}
+    - {form: maulpe, variants: [maulpetos], class: "n", field: Beasts and birds, gloss: "a nest"}
     - {form: kirpas, class: "n", field: Beasts and birds, gloss: "an antler"}
     - {form: suldi, class: v, field: Beasts and birds, gloss: "hunt"}
     - {form: saukkel, class: v, field: Beasts and birds, gloss: "fly"}
@@ -811,6 +826,7 @@ data:
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "a peak"
     - form: sakken
+      variants: [sakkenho]
       class: n
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "sand"
@@ -848,7 +864,7 @@ data:
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "wide"
     - form: polpe
-      variants: ["polpeho", "volpe"]
+      variants: ["polpeho", "polpetos", "volpe"]
       class: "n"
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "the ground underfoot"
@@ -908,6 +924,7 @@ data:
       field: "Song, speech, memory and the telling"
       gloss: "the small bell"
     - form: kilpe
+      variants: [kilpeho]
       class: "n"
       field: "Song, speech, memory and the telling"
       gloss: "the far call"
@@ -1168,6 +1185,7 @@ data:
       gloss: "a reading, what is taken from a dream or a sign"
       built: [ennomi, "-rsa"]
     - form: kilteta
+      variants: [hilteta]
       class: v
       field: "Song, speech, memory and the telling"
       gloss: "laugh"
@@ -1432,6 +1450,7 @@ data:
       gloss: "a hearth"
       concept: hearth
     - form: velpis
+      variants: [velpisho]
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "a home"
@@ -1489,6 +1508,7 @@ data:
     - {form: vonu, class: adj, field: "Kin, hearth, the person and the body", gloss: "old"}
     - {form: ramme, class: "n", field: "Kin, hearth, the person and the body", gloss: "a body"}
     - form: pauttes
+      variants: [vauttes]
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "a head"
@@ -1511,7 +1531,7 @@ data:
       gloss: "a mouth"
       concept: mouth
     - form: lalke
-      variants: ["lalkeho"]
+      variants: ["lalkeho", lalketos]
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "a tongue"
@@ -1593,6 +1613,7 @@ data:
       gloss: "a mother's mother"
     - {form: naltu, class: "n", field: "Kin, hearth, the person and the body", gloss: "a man"}
     - form: laumis
+      variants: [laumistos]
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "a spouse, the companion of a hearth"
@@ -1605,6 +1626,7 @@ data:
       field: "Kin, hearth, the person and the body"
       gloss: "a council, a gathering that speaks until it agrees"
     - form: seimaka
+      variants: [seimakaho]
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "accord, what a council reaches"
@@ -1738,6 +1760,7 @@ data:
       field: "Time: age, season, waiting and the long view"
       gloss: "wait"
     - form: kousto
+      variants: [housto]
       class: v
       field: "Time: age, season, waiting and the long view"
       gloss: "endure"
@@ -2041,7 +2064,11 @@ data:
       class: "n"
       field: "Death, loss, grief and the Shadow"
       gloss: "rot, corruption"
-    - {form: sauldi, class: "n", field: "Death, loss, grief and the Shadow", gloss: "a grave"}
+    - form: sauldi
+      variants: [sauldiho]
+      class: "n"
+      field: "Death, loss, grief and the Shadow"
+      gloss: "a grave"
     - {form: hylsin, class: n, field: "Death, loss, grief and the Shadow", gloss: "ashes"}
     - {form: hekky, class: "n", field: "Death, loss, grief and the Shadow", gloss: "fear"}
     - form: tahke
@@ -2153,7 +2180,7 @@ data:
       field: "Death, loss, grief and the Shadow"
       gloss: "the gathering of the dead; the far realm where Aulveira takes the dead"
       built: [ollevi, "-kko"]
-    - {form: muuvu, class: n, field: Other peoples, gloss: "humans"}
+    - {form: muuvu, variants: [muuvutos], class: n, field: Other peoples, gloss: "humans"}
     - {form: kaulde, class: n, field: Other peoples, gloss: "the Khazari, named obliquely"}
     - {form: rukke, class: n, field: Other peoples, gloss: "the Grukar"}
     - {form: tormal, class: "n", field: Other peoples, gloss: "a city"}
@@ -2164,7 +2191,7 @@ data:
       variants: ["holdi", "koldiho", "holdiho", "holditos", "kolditos"]
     - {form: vyste, class: "n", field: Other peoples, gloss: "a tower"}
     - {form: kastai, class: "n", field: Other peoples, gloss: "war"}
-    - {form: kirse, class: "n", field: Other peoples, gloss: "an enemy"}
+    - {form: kirse, variants: [kirsetos], class: "n", field: Other peoples, gloss: "an enemy"}
     - {form: hurrava, class: "n", field: Other peoples, gloss: "a battle"}
     - {form: raukke, class: v, field: Other peoples, gloss: "kill"}
     - {form: uttessi, class: v, field: Other peoples, gloss: "flee"}
@@ -2211,7 +2238,7 @@ data:
       field: "Motion, rest and being"
       gloss: "hold"
       variants: ["supe", "túpe"]
-    - {form: pehe, class: v, field: "Motion, rest and being", gloss: "give"}
+    - {form: pehe, variants: [vehe], class: v, field: "Motion, rest and being", gloss: "give"}
     - {form: vautti, class: adj, field: "Motion, rest and being", gloss: "tall"}
     - {form: eho, class: v, field: "Motion, rest and being", gloss: "be, exist"}
     - {form: sattai, class: v, field: "Motion, rest and being", gloss: "walk"}
@@ -2381,6 +2408,7 @@ data:
       gloss: "one"
       concept: one
     - form: sipes
+      variants: [sipestos]
       class: num
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "two"
@@ -2469,6 +2497,7 @@ data:
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "very"
     - form: ummes
+      variants: [ummestos]
       class: pron
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "all"
@@ -2481,6 +2510,7 @@ data:
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "some"
     - form: uttes
+      variants: [uttestos]
       class: pron
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "another"
@@ -2587,11 +2617,12 @@ data:
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "a made work, a finished creation"
     - form: rilpa
-      variants: ["rilpaho"]
+      variants: ["rilpaho", rilpatos]
       class: n
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "a fissure in rock"
     - form: ralten
+      variants: [raltenho]
       class: n
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "a bed or layer of rock"
@@ -2640,6 +2671,7 @@ data:
       field: "Kin, hearth, the person and the body"
       gloss: "acclaim, raise someone to leadership"
     - form: hyrreselpis
+      variants: [hyrreselpisho]
       class: n
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "smoke, the mist of fire"
@@ -2735,6 +2767,7 @@ data:
       gloss: "a ewe"
       built: ["nemma", "meëry"]
     - form: tyltete
+      variants: [syltete]
       class: "v"
       field: "Motion, rest and being"
       gloss: "look, direct the eyes at something"
@@ -3041,6 +3074,7 @@ data:
       gloss: "reach, arrive at; the object is what is reached"
     - {form: lannai, class: "v", field: "Motion, rest and being", gloss: "want, desire"}
     - form: penvai
+      variants: [venvai]
       class: "v"
       field: "Motion, rest and being"
       gloss: "place, lay down, set something down"
@@ -3174,6 +3208,7 @@ data:
       field: "Kin, hearth, the person and the body"
       gloss: "width, breadth"
     - form: varkel
+      variants: [varkelho]
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "a fence, an enclosing barrier"
@@ -3234,7 +3269,7 @@ data:
       gloss: "healing, the practice of healing"
       built: ["maurekki", "-rsa"]
     - form: leëvirse
-      variants: ["leëvirsetes"]
+      variants: ["leëvirsetes", leëvirsehe]
       class: "n"
       field: "Motion, rest and being"
       gloss: "sitting, the state of sitting"
@@ -3442,6 +3477,7 @@ data:
       gloss: "difficulty"
       built: ["ravelli", "-rsa"]
     - form: telvanita
+      variants: [selvanita]
       class: "v"
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "count, reckon"
@@ -3605,6 +3641,7 @@ data:
       field: "Light, stars, sky and the hours"
       gloss: "extinguish a fire"
     - form: rannel
+      variants: [rannelho]
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "side of the body, flank"
@@ -3643,6 +3680,7 @@ data:
       field: "Kin, hearth, the person and the body"
       gloss: "too large, exceeding the size needed"
     - form: rauttursa
+      variants: [rauttursaho]
       class: "n"
       field: "Motion, rest and being"
       gloss: "movement"
@@ -3716,7 +3754,11 @@ data:
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "a bench"
-    - {form: paltis, class: "n", field: "Kin, hearth, the person and the body", gloss: "a knee"}
+    - form: paltis
+      variants: [paltisho]
+      class: "n"
+      field: "Kin, hearth, the person and the body"
+      gloss: "a knee"
     - form: lermavi
       class: "v"
       field: "Craft: weaving, wood-shaping, healing and the hand"
@@ -3754,6 +3796,7 @@ data:
       field: "Song, speech, memory and the telling"
       gloss: "quiet, low-voiced"
     - form: nalleri
+      variants: [nalleritos]
       class: "n"
       field: "Trees, plants and the living wood"
       gloss: "a root of a plant"
@@ -4183,6 +4226,17 @@ data:
     - {name: toimuvo, tongue: sinale, built: [toimu, -vo]}
     - {name: porkila ilevanto, tongue: sinale, built: [porki, -la, ileva, -nto]}
     - {name: porkila, tongue: sinale, built: [porki, -la]}
+    - {name: ropelinto, tongue: sinale, built: [ropeli, -nto]}
+    - {name: lorraminto, tongue: sinale, built: [lorrami, -nto]}
+    - {name: lovanto, tongue: sinale, built: [lova, -nto]}
+    - {name: hyssente, tongue: sinale, built: [hysse, -nte]}
+    - {name: tellakinto, tongue: sinale, built: [tellaki, -nto]}
+    - {name: olmasinto, tongue: sinale, built: [olmasi, -nto]}
+    - {name: eilavanto, tongue: sinale, built: [eilava, -nto]}
+    - {name: nylkinte, tongue: sinale, built: [nylki, -nte]}
+    - {name: mollunto, tongue: sinale, built: [mollu, -nto]}
+    - {name: esselinto, tongue: sinale, built: [esseli, -nto]}
+    - {name: kilpente, tongue: sinale, built: [kilpe, -nte]}
     - {name: The Gathering on the End, tongue: translation}
     - {name: oltandiren aulirakko, tongue: sinale, built: [oltandi, -ren, aulira, -kko]}
     - {name: tellakitta eilavanto, tongue: sinale, built: [tellaki, -tta, eilava, -nto]}

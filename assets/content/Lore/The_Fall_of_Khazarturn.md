@@ -318,28 +318,28 @@ years, and it comes out as elegy.
 2 [evi eho sytte]{lang=sina}
 
 1 [.ulpes sytte seipan leësyhe sendeppi eltes]{lang=sina enc=sinaveldikkoenc}
-2 [.Birds entered by the path of daylight. Some stayed.]{lang=en}
+2 [.They came in at the shafts of light, and some of them stayed.]{lang=en}
 2 [.ulpes sytte seipan leësyhe sendeppi eltes]{lang=sina}
 
 1 [irna sytte maulpe vennas aldis holdi leësy issalteho]{lang=sina enc=sinaveldikkoenc}
-2 [They made nests at the edge of the high hall passage,]{lang=en}
+2 [They nested in the high galleries, on the ledges of the vaults,]{lang=en}
 2 [irna sytte maulpe vennas aldis holdi leësy issalteho]{lang=sina}
 
-1 [.luuro sytte roselho ahi hilpete lirne vaikkis]{lang=sina enc=sinaveldikkoenc}
-2 [.and sang in the mornings. No one called farewell.]{lang=en}
-2 [.luuro sytte roselho ahi hilpete lirne vaikkis]{lang=sina}
+1 [.luuro sytte roselho ahi saltai lirne onsaa seltoho]{lang=sina enc=sinaveldikkoenc}
+2 [.and sang there in the mornings, and nobody drove them out;]{lang=en}
+2 [.luuro sytte roselho ahi saltai lirne onsaa seltoho]{lang=sina}
 
-1 [.raakke irnanno hiakke irtalleësyhe]{lang=sina enc=sinaveldikkoenc}
-2 [.A maker picked up a feather on the stair.]{lang=en}
-2 [.raakke irnanno hiakke irtalleësyhe]{lang=sina}
+1 [.sannai irnanno vennas onsaa hiakke vennas irtalleësyhe]{lang=sina enc=sinaveldikkoenc}
+2 [.the makers stepped around their feathers on the stairs.]{lang=en}
+2 [.sannai irnanno vennas onsaa hiakke vennas irtalleësyhe]{lang=sina}
 
-1 [ovanne sytteny koldiho lonku koldi]{lang=sina enc=sinaveldikkoenc}
-2 [A bird lives in the hall. The hall is a wood.]{lang=en}
-2 [ovanne sytteny koldiho lonku koldi]{lang=sina}
+1 [ahi niltu koldi oso ovanne sytteny]{lang=sina enc=sinaveldikkoenc}
+2 [A hall that a bird will live in is not a room.]{lang=en}
+2 [ahi niltu koldi oso ovanne sytteny]{lang=sina}
 
-1 [.evatte ehii iha vandel irnanno erni ehii]{lang=sina enc=sinaveldikkoenc}
-2 [.We said so. A maker answered, “We know.”]{lang=en}
-2 [.evatte ehii iha vandel irnanno erni ehii]{lang=sina}
+1 [.evanni ehii irnanno vennas ilte vandel onsaa erni onsaa]{lang=sina enc=sinaveldikkoenc}
+2 [.We said so to the makers once. They said they knew.]{lang=en}
+2 [.evanni ehii irnanno vennas ilte vandel onsaa erni onsaa]{lang=sina}
 ```
 
 **That it was destroyed by a horde of Grukar compelled by a renegade.** They say this much plainly, and
