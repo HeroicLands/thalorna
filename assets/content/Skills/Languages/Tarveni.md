@@ -4605,6 +4605,54 @@ data:
       field: "Speech, song and the learned"
       gloss: "the name of the vowel o"
       source: {kind: coined}
+
+    - form: ir
+      class: part
+      field: Numbers and grammar words
+      gloss: "in; into; at a time, as in _ir nural_, in the spring"
+      source: {kind: inherited, form: ir}
+      concept: [inside, in]
+    - form: us
+      class: part
+      field: Numbers and grammar words
+      gloss: "on; up onto; over, as in _us kemtho_, over the wall"
+      source: {kind: inherited, form: us}
+      concept: [above, over]
+    - form: zel
+      class: part
+      field: Numbers and grammar words
+      gloss: "down; under; below, as in _zel talor_, under the stone"
+      source: {kind: inherited, form: dhel}
+      concept: [below, under]
+    - form: tha
+      class: part
+      field: Numbers and grammar words
+      gloss: "then; so that; opening what follows from a condition or from what was said, or the end an act serves"
+      source: {kind: inherited, form: tha}
+      concept: [then-conditional, for-purpose]
+    - form: thauren
+      class: adj
+      field: The word given
+      gloss: "kept; holding to his vow and held on his company's roll; the word a sworn man answers the roll with"
+      source: {kind: coined}
+    - form: umbar
+      class: num
+      field: Numbers and grammar words
+      gloss: "ten; _tavre umbar_ is twenty, and _helza umbar_ forty"
+      source: {kind: inherited, form: umbaris}
+      concept: ten
+    - form: lukma
+      class: num
+      field: Numbers and grammar words
+      gloss: "nine"
+      source: {kind: inherited, form: lukemar}
+      concept: nine
+    - form: karvel
+      class: num
+      field: Numbers and grammar words
+      gloss: "a hundred"
+      source: {kind: inherited, form: karvelon}
+      concept: hundred
   icon: icon-speaking
   templatePriority: null
   packFolder: language

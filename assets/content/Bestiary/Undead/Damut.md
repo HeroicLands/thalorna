@@ -1,6 +1,6 @@
 ---
 shortcode: damut
-name: {full: Damut, en: [Damutu]}
+name: {full: Damut, en: [Damutu], khel: [dumatu]}
 type: being
 subType: creature
 description: "The driven one—the mindless undead that goes as it is driven: zombies, skeletons, mummies, and ghouls, animated by necromancy that binds soul-fragments to a corpse."

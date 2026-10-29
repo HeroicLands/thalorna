@@ -1629,41 +1629,18 @@ data:
       field: Numbers and grammar words
       gloss: "the article for what is the listener's"
       source: {kind: worn, form: thesos}
-    - form: ol
-      class: part
-      field: Numbers and grammar words
-      gloss: "of; set after the noun it belongs to, and before a pronoun to make a possessive"
-      source: {kind: inherited, form: ol}
-    - form: fir
-      class: part
-      field: Numbers and grammar words
-      gloss: "to; toward a destination"
-      source: {kind: inherited, form: fir}
-      concept: [toward, to]
     - form: fos
       class: part
       field: Numbers and grammar words
       gloss: "out; outside; beyond; from a source"
       source: {kind: inherited, form: fos}
       concept: [outside, beyond]
-    - form: sa
-      class: part
-      field: Numbers and grammar words
-      gloss: "as; like; as when"
-      source: {kind: inherited, form: sa}
-      concept: [like, as]
     - form: ves
       class: part
       field: Numbers and grammar words
       gloss: "or; and, after a comparison, than"
       source: {kind: inherited, form: ves}
       concept: or
-    - form: zai
-      class: conj
-      field: Numbers and grammar words
-      gloss: "if; introduces a condition"
-      source: {kind: inherited, form: zai}
-      concept: if
     - form: at
       class: art
       field: Numbers and grammar words

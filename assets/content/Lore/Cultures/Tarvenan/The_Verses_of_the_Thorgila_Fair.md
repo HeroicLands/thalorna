@@ -24,479 +24,481 @@ The Sling was a woman of the third farm above the town who had run her holding t
 ## The Greeting {#greeting}
 
 ::: {.verse form=prose lang=en work=greeting}
-Each singer begins with a stanza for the fair and chooses a vowel. The second singer must take the first singer’s vowel. The Sling chooses o.
+Each singer opens with a verse to the fair, on a vowel of the singer's choosing, and the second singer must take the first one's vowel. The Sling chose the vowel of _no_.
 :::
 
 ::: {.verse form=prose lang=tarv enc=tarvsemaronenc work=greeting}
-Urzele sormar holimad dun karna hir arthauna. Sormar tavkured soral. Ethoros sormar gerpalad kured soral ol holimos sormar. Lírkeza tavkured soral o.
+Urzele sormar holimad dun karna hir arthauna, dun soral ken sormar tavkured, ek ethoros sormar gerpalad kured soral ol holimos. Lírkeza tavkured soral e.
 :::
 
 : The Greeting {#greeting-verses}
 
 ::: {.verse form=gortsada lang=en work=greeting-verses}
 THE SLING/
-Good fair to [[place-thorgila|Thórgila]],/
-to horses in the horse-line,/
-to the judge knowing teeth,/
-to buyers not knowing horses./
-People set me with Hail./
-I hear Hail. I know a soldier’s matter./
-You return from six years’ war./
-You do not stop, soldier.
+Good fair to Thórgila,/
+and the horses in the row,/
+and the judge who knows their teeth,/
+and the buyers who don't know./
+They have put me up with Hail./
+Well. I've heard him. And I know/
+he came home from six years' war,/
+and he hasn't stopped. Oh, no.
 
 THE HAIL/
-Good fair to [[place-thorgila|Thórgila]],/
-to judge and every foal./
-People set me with Sling./
-A sling is cord and stone,/
-a herd boy moving his wrist./
-I am a herd boy before. I know the matter./
+Good fair to Thórgila,/
+to the judge and every foal./
+They have set me with the Sling./
+A sling's a cord and a stone,/
+and a herd boy's twist of the wrist./
+I was a herd boy once. So/
 I know what a sling is for./
 Crows.
-
-The fair stamps for Hail’s last line, one word. A stanza may end with one word if its singer keeps the vowel. Hail keeps it.
 :::
 
-::: {.verse form=gortsada lang=tarv enc=tarvsemaronenc work=greeting-verses}
-LÍRKEZA/
-Dadro arthauna hir Thórgila./
-Hir korneth ir therna ol korneth./
-Hir nazdo. Nazdo kezdad teth./
-Hir delmo. Delmo ar kezdad korneth./
+::: {.verse form=gortsada lang=tarv enc=tarvsemaronenc work=greeting-verses scan=trimeter}
+[Lírkeza]{.speaker}/
+Dadro arthauna, Thórgila,/
+ek korneth ir zed hunela,/
+ek nazdo kezdad teth,/
+ek kurelor, kedis ar kezdad./
 Verezos lendad en dun Ozkarre./
-En thavid Ozkarre. En kezdad lathon ol thramzo./
-Ko antigad hos selta tarnela ol gruma./
-Ko ar sistad. Thramzo.
+Dadro, en thavid denon./
+Antigad hos selta tarnela,/
+ek ar sistad, ar linkad gred.
 
-OZKARRE/
-Dadro arthauna hir Thórgila./
-Hir nazdo ek urzele kornuro./
+[Ozkarre]{.speaker}/
+Dadro arthauna, Thórgila,/
+hir nazdo, hir korneth pelre./
 Verezos lendad en dun Lírkeza./
-Lirka ared hunela ek talor./
-Ular nuron sedad dekazklinon./
-En ared ular nuron pral kanel. En kezdad deno./
-En kezdad lirka hir kethis./
+Lirka, talor ek hunela,/
+ek dekazu ol ular nuron./
+En ared nuron ir herthe./
+En kezdad hir kethis lirka./
 Kraveldo.
+:::
 
-Arthauna arnad hir Ozkarre hir orthe karna ol sormo. Urkis lambis. Karna dunad orthemad dun urkis lambis zai sormar thaurad soral. Ozkarre thaurad soral.
+::: {.verse form=prose lang=en work=greeting-stamp}
+The fair stamped for the Hail for the last line, which is one word, and which a verse may end on if the singer has kept the vowel. He had.
+:::
+
+::: {.verse form=prose lang=tarv enc=tarvsemaronenc work=greeting-stamp}
+Arthauna arnad hir Ozkarre holethi orthe karna ol langa, urkis lambis. Karna dunad orthemad dun urkis lambis zai sormar thaurad soral. Ozkarre thaurad.
 :::
 
 ## The Muster {#muster}
 
 ::: {.verse form=prose lang=en work=muster}
-The horse-judge sets the first theme. Sling, you are captain at the spring muster. Your roll is full. Hail, you are a herd boy, fifteen, wanting to go. The vowel is a. He gives the boy to the old soldier and the captain to the woman, as theme-givers do, so neither sings only their own knowledge.
+The horse-judge set the first bout: _Sling, you are a captain at the spring muster, and your roll is full. Hail, you are a herd boy of fifteen, and you want to go. The vowel is the one in pay._ He gave the old soldier the boy and the woman the captain, as theme-givers do, so that neither could sing what they already knew.
 :::
 
 ::: {.verse form=prose lang=tarv enc=tarvsemaronenc work=muster}
-Kornazdo lendad holimos temel. Lírkeza. Ko ared thrumar ir mustra ol nural. Therna ol ko ared zed. Ozkarre. Ko ared ular nuron. 15 tarnela. Ko aved tigad. Soral ared a. Kornazdo daimad nuron hir ankelos thramzo ek thrumar hir venora. Denon ared sa temadar ertad. Tha ar urkis ol tavre dunad sormad ol kezdandon ol vethis.
+Kornazdo lendad holimos temel. «Lírkeza, ko ared thrumar ir threka, ek therna ol ko ared zed. Ozkarre, ko ared nuron ol ked, olmi ek umbar tarnela, ek ko aved tigad. Soral ared o.» Daimad nuron hir ankelos daro ek thrumar hir venora, sa temadar ertad, tha ar urkis dunad sormad threma ol vethis.
 :::
 
 : The Muster {#muster-verses}
 
 ::: {.verse form=gortsada lang=en work=muster-verses}
 THE HAIL/
-Captain, I have fifteen years./
-I keep sheep each day, the family’s./
-Eight summers on the high meadow./
-Wolf takes no sheep. I keep the family’s./
-I can throw stone through chough,/
-forty paces on any day. That is craft./
+Captain, I am fifteen./
+I have kept the flock each day/
+eight summers on the high meadow,/
+and the wolf took none away./
+I can put a stone through a chough/
+at forty paces, any day./
 Put my name on your roll, captain./
-I do not ask for pay.
+I'm not asking you for pay.
 
 THE SLING/
-You ask no pay, boy?/
-Then you are nobody’s. Go home./
-A person taking no money/
-need not stay in company. That is bad practice./
-My roll has people who hold,/
-because people have pay./
-Go home. Learn your price./
-Return. Speak the price. Pay.
+You don't ask for pay, boy?/
+Then you're no one's. Go away./
+A man who takes no money/
+is a man who need not stay./
+My roll is full of men who hold/
+because the men are paid./
+Go home and learn your price, boy,/
+and come back, and name it plain.
 
 THE HAIL/
-My price: the others’ pay./
-Equal, to the final part. Equal pay./
-A place behind crossbows./
-Captain knows my name. I stand on roll./
-A line in long poem/
-when company returns here. Homecoming./
-That is my price. You set measure./
-I say it. You weigh pay.
+My price, then. What the others get,/
+the same, to the last bit the same,/
+and a place behind the crossbows/
+where the captain knows my name,/
+and a line in the long poem/
+when the company comes back this way./
+That's my price. You set the measure./
+I named it. Now you weigh.
 
 THE SLING/
-Now you speak, boy./
-A line in long poem: that is pay/
+Now you're talking, boy./
+A line in the poem: that's the pay/
 nobody can give you./
-You buy it with hard effort./
-I put you on roll./
-Learn crossbow. Learn waiting. Pay./
-Your mother at threshold:/
-go tell her. That is burden.
+You buy that the hard way./
+I'll put you on the roll, boy./
+Learn the crossbow. Learn to wait./
+And your mother at the threshold:/
+go and tell her. That's the weight.
 
 THE HAIL/
-My mother manages holding/
-while father leaves home./
-Twenty years of contracts./
-She knows saying go. She knows the matter./
-She knows setting lantern/
-into night. I tell her today./
-She tells me as she tells father:/
-come home with all pay.
-
-The horse-judge says the stamping is equal. He will not choose between a captain knowing price and a boy knowing his mother.
+My mother ran the holding/
+while my father went away,/
+twenty years of contracts./
+She knows how to say/
+_go_, and how to set the lantern/
+on the night. I'll tell her today./
+She'll tell me what she told him:/
+Come home with all your pay.
 :::
 
-::: {.verse form=gortsada lang=tarv enc=tarvsemaronenc work=muster-verses}
-OZKARRE/
-Thrumar. En kerad 15 tarnela./
-En thaurad konalon ol ked ir urzele nar. Sora./
-Zorma herthe ir galtsur./
-Garruts ar kured ked. En thaurad sora./
-En dunad helzad talor thur kotsude./
-40 valma. Ir welri nar. Denon ared pálmeza./
-Ko lendad harlen ol en ir therna. Thrumar./
-En ar pethad ko hir pelza.
+::: {.verse form=gortsada lang=tarv enc=tarvsemaronenc work=muster-verses scan=trimeter}
+[Ozkarre]{.speaker}/
+Thrumar, olmi ek umbar./
+En thaurad ked ol sora/
+zorma herthe ir galtsur,/
+ar ked hir garruts ol orneth./
+Helzad talor thur kotsude/
+hos alatar, ir welri galona./
+Ko lendad harlen ir therna‼/
+Ar pethad pelza, ar ozon.
 
-LÍRKEZA/
-Ko ar pethad pelza. Nuron./
-Tha ko ar ared ol verezos. Ko tigad hir dumva./
-Verezos kured ar zelma./
-Verezos ar gerpalad dorad ir thramo. Ath ared koretha./
-Therna ol en kerad verezos. Verezos thaurad./
-Holethi verezos kerad pelza./
-Ko tigad hir dumva. Ko marendad verdo ol ko./
-Ko antigad. Ko dokad verdo. Pelza.
+[Lírkeza]{.speaker}/
+Eza ar pelza, nuron?/
+Tha, nuron, ar ol thrumar, ar ol tordar./
+Kedis ar kured zelma/
+ar gerpalad dorad nol holvo./
+Therna ol en kerad verezos/
+kedis thaurad sa kordar./
+Ko antigad, marendad verdo,/
+ek lokad, ek dokad ozon‼
 
-OZKARRE/
-Verdo ol en. Pelza ol alethos./
-Ozelos. Hir orthe solthen. Ozelos pelza./
-Sedon pral kelza./
-Thrumar kezdad harlen ol en. En ared ir therna./
-Karna ir langa./
-Ken thramo antigad ir denon sedon. Velza./
-Denon ared verdo ol en. Ko lendad matha./
-En dokad. Ko thradinad pelza.
+[Ozkarre]{.speaker}/
+Verdo ol en, pelza ol alethos,/
+ozelos, hir orthe solthen,/
+sedon lither kelza,/
+ek thrumar kezdad en sa sora,/
+ek urkis lambis ol langa/
+ken thramo lokad ir ohra./
+Verdo. Ko lendad matha./
+En dokad. Ko thradinad solko.
 
-LÍRKEZA/
-Denkanai ko dokad. Nuron./
-Karna ir langa. Denon ared pelza./
-Verezos ar dunad daimad dena./
-Ko kurelad dena dun andunela./
-En lendad ko ir therna./
-Ko marendad kelza. Ko marendad sisted. Pelza./
-Nurma ol ko ir belarts./
-Ko tigad. Ko narad hir nurma. Denon ared solka.
+[Lírkeza]{.speaker}/
+Denkanai ko dokad, nuron./
+Lambis ol langa. Ar tordar/
+daimad alatho. Ko kurelad/
+alatho dun andunela ol dolkon./
+En lendad harlen ir therna./
+Marendad kelza ek dorad‼/
+Nurma ir belarts. Ko tigad,/
+narad‼ Denon solka.
 
-OZKARRE/
-Nurma ol en karzad kombrelalo./
-Ken elte ol en tigad hos dumva./
-20 tarnela ol semna./
-Nurma kezdad dokad tigad. Denon ared threma./
-Nurma kezdad lendad navera./
-Ir nathre. En narad denon nar. Hir nurma./
-Nurma narad hir en sa hir elte./
-Ko antigad hir dumva dun zed pelza.
+[Ozkarre]{.speaker}/
+Nurma karzad kombrelalo/
+ken elte halvad hos orma,/
+tavre umbar tarnela./
+«Ko tigad‼» Kezdad dokad,/
+ek lendad navera ir nathre./
+Narad hir nurma ir galona./
+Narad hir en sa narad hir elte,/
+«Ko antigad dun zed ozon‼»
+:::
 
-Kornazdo dokad. Arthauna arnad ozelos. Kornazdo ar tavkured enthráth thrumar ol kezdandon ol verdo ek nuron ol kezdandon ol nurma.
+::: {.verse form=prose lang=en work=muster-stamp}
+The horse-judge said the fair had stamped even, and that he would not choose between a captain who knows the price and a boy who knows his mother.
+:::
+
+::: {.verse form=prose lang=tarv enc=tarvsemaronenc work=muster-stamp}
+Kornazdo dokad arthauna arnad ozelos, ek ar tavkured enthráth thrumar kedis kezdad verdo ek nuron kedis kezdad nurma.
 :::
 
 ## The Mule in the Byre {#mule}
 
 ::: {.verse form=prose lang=en work=mule}
-The second theme is sung most often at the hill holdings. Hail, you return from six years of contract with money in hand. Sling, you manage the holding those six years. Its name belongs to Hail. The vowel is e.
+The second bout is the one the hill farms sing most. _Hail, you have come home from six years under contract with your money in your hand. Sling, you have run the holding the six years, and the holding is in his name. The vowel is the one in mine._
 :::
 
 ::: {.verse form=prose lang=tarv enc=tarvsemaronenc work=mule}
-Ethoros temel ared sormo ol zolmos kanel ir kombrelalo ol maltho. Ozkarre. Ko antigad hos selta tarnela ol semna. Zelma ared ir dekazu. Lírkeza. Ko karzad kombrelalo selta tarnela. Harlen ol kombrelalo ared ol Ozkarre. Soral ared e.
+Ethoros temel ared denon kombrelalo ir maltho sormad ir zolmos kanel. «Ozkarre, ko antigad hos selta tarnela ol semna, dun zelma ir dekazu. Lírkeza, ko karzad kombrelalo selta tarnela, ek kombrelalo ared ir harlen ol alatho. Soral ared e, soral ol en.»
 :::
 
 : The Mule in the Byre {#mule-verses}
 
 ::: {.verse form=gortsada lang=en work=mule-verses}
 THE HAIL/
-Wife, I am home. Here is money./
-Six years. Count. It is mine and yours, this./
-The holding’s too. Every part./
-I serve my time. I understand./
-I see repaired roof./
-I see good walls, the finished work./
-I see a mule in byre./
-I do not recognize it. Is it mine? Mule.
+Wife, I'm home. Here is the money./
+Six years. Count it. It is mine,/
+and it's yours, and it's the holding's,/
+every bit. I did my time./
+I see the roof is mended./
+I see the walls are fine./
+I see a mule in the byre./
+I don't know it. Is it mine?
 
 THE SLING/
-Mule is yours. Your name above it,/
-as above roof, the miller’s line,/
-boundary of land with miller,/
-lease of high meadow, wine to town’s steward,/
-your sister’s dowry, everything signed/
-in your name, husband, before notary./
-You sign nothing./
-I sign. I have signature.
+The mule is yours. Your name is on it,/
+as it is on the roof, the line/
+of the boundary with the miller,/
+the lease of the high meadow, the wine/
+the lord's steward bought from us,/
+your sister's dowry, the whole of it, signed/
+in your name, husband, before the notary./
+You signed nothing. I signed.
 
 THE HAIL/
-Then holding is in good hands./
-I know it. I understand./
-I take chair beside fire./
-Long poem at night. You tell me./
-You tell me about mule,/
-lease, miller’s boundary./
-I sit in assembly./
-I speak your speech. Do you agree with me?
+Then the holding's in good hands./
+I knew it would be. Right./
+I'll take the chair by the fire, then,/
+and the long poem at night,/
+and you'll tell me how the mule goes,/
+and the lease, and the miller's line,/
+and I'll sit in the assembly/
+and say what you say. Fine?
 
 THE SLING/
-In assembly, husband,/
-you stand for water’s right,/
-third holding’s,/
-spring in high place. Water./
-You speak as your own thinking./
-People move heads. They know the thought,/
-who speaks in your mouth, husband./
-You know too. That is mine. True.
+In the assembly, husband,/
+you'll stand up for the right/
+of the third farm to the water/
+from the spring above the height,/
+and you'll speak as if you thought it,/
+and they'll nod, and know whose mind/
+is talking in your mouth, husband./
+And so will you. That's mine.
 
 THE HAIL/
-Then here is money. Take./
-I carry it over two passes. Every night/
-I count beside fire,/
-hide it from sight./
-Your name is on none, wife./
-Your hand is on everything. I understand./
-I know when I leave you./
-That is why I go. Good night.
+Then here's the money. Take it./
+Over two passes, every night/
+I counted it by the fire/
+and kept it out of sight./
+Your name is on none of it, wife,/
+and your hand is on all. That's right./
+I knew it when I left you./
+That is why I went. Goodnight.
 :::
 
-::: {.verse form=gortsada lang=tarv enc=tarvsemaronenc work=mule-verses}
-OZKARRE/
-Kambetha. En ared ir dumva. Denon ared zelma./
-Selta tarnela. Ko ozimad. Zelma ared ol en ek ko. Denon./
-Ek kombrelalo. Zed solthen./
-En ertad kanel ol en. En lambired./
-En oked ankermad tharo./
-En oked dadro kemtho. En oked ath tambande./
+::: {.verse form=gortsada lang=tarv enc=tarvsemaronenc work=mule-verses scan=trimeter}
+[Ozkarre]{.speaker}/
+Kambetha, en ared ir dumva./
+Zelma, selta tarnela./
+Ko ozimad‼ Zelma ared ol en,/
+ol ko ek kombrelalo, zed denon./
+En oked tharo ankermad./
+En oked dadro kemtho./
 En oked moldre ir bortsula./
-En ar membroked moldre. Eza moldre ared ol en. Moldre.
+Ar membroked. Eza ared ol en?
 
-LÍRKEZA/
-Moldre ared ol ko. Harlen ol ko us moldre./
-Sa us tharo. Thilra ol mulene./
-Henthos ol orma dun mulene./
-Olmela ol galtsur. Entho hir karzo ol orne./
-Gebra ol sembra ol ko. Zed lathon zermad./
-Ir harlen ol ko. Kambo. Pral thidre./
-Ko ar zermad urkis lathon./
+[Lírkeza]{.speaker}/
+Moldre ared ol ko. Harlen ol ko/
+sa us tharo, us thilra ol mulene,/
+us olmela ol galtsur, entho/
+karzo ol tordar kurelad,/
+gebra ol sembra, zed,/
+ir harlen ol ko, kambo, zermad/
+pral thidre. Ko ar zermad lathon./
 En zermad. En kerad zembre.
 
-OZKARRE/
-Tha kombrelalo ared ir dadro dekazu./
-En kezdad denon. En lambired./
-En kured ombela nol karalzo./
-Langa ir nathre. Ko narad hir en./
-Ko narad hir en ol moldre./
-Olmela. Henthos ol mulene./
-En ombid ir konalon./
-En dokad dokandon ol ko. Eza ko varelad dun en.
+[Ozkarre]{.speaker}/
+Tha kombrelalo ir dadro dekazu./
+En kezdad denon. Nasdelos./
+En kured ombela nol karalzo/
+ek langa ethor melkar./
+Ko narad sa moldre tigad,/
+olmela, thilra ol mulene,/
+ek en ombid ir kurtha, ek dokad/
+sa ko dokad. Eza ko varelad?
 
-LÍRKEZA/
-Ir konalon. Kambo./
-Ko thaled hir dadro ol ulmer./
-Kombrelalo ol karza./
-Ugar ir sedon thelvar. Ulmer./
-Ko dokad sa pelmad ol vethis./
-Verezos sedad thalve. Verezos kezdad pelmone./
-Kedis dokad ir madro ol ko. Kambo./
-Ko kezdad dun denon. Denon ared ol en. Varelin.
+[Lírkeza]{.speaker}/
+Ir kurtha, kambo, ko thaled/
+hir ulmer ol ugar thelvar,/
+ol karzore kombrelalo. Ko dokad/
+sa pelmone ol ko ared. Verezos/
+krined thalve, ek kezdad/
+pelmone ol kedis ir tharlema/
+ol ko, kambo. Ek ko kezdad, dun denon./
+Denon, kambo, ared ol en.
 
-OZKARRE/
-Tha denon ared zelma. Ko kured./
-En lozed zelma us tavre gando. Ir urzele nathre./
-En ozimad zelma nol karalzo./
-En keltherad zelma hos okande./
-Harlen ol ko ar ared us zelma. Kambetha./
-Dekazu ol ko ared us zed lathon. En lambired./
-En kezdad ken en tigad hos ko./
-Denon ared holethi en tigad. Dadro nathre.
+[Ozkarre]{.speaker}/
+Tha denon zelma. Ko kured‼/
+Thur tavre gando ek nelmis,/
+urzele nathre en ozimad/
+nol karalzo, ek keltherad zelma./
+Harlen ol ko ar ared us lathon,/
+dekazu us zed. Nasdelos./
+En kezdad denon ken tigad./
+Zenoton, kambetha. Lothad, en.
 :::
 
-::: {.verse form=prose lang=en work=the-verses-of-the-thorgila-fair-7}
-The fair gives the theme to Sling for the fourth stanza. The horse-judge says so, then says Hail’s last stanza keeps the vowel through an unexpected word. Someone able to do this is a good crossbowman before.
+::: {.verse form=prose lang=en work=mule-stamp}
+The fair gave the bout to the Sling for her fourth verse, and the horse-judge said so, and then said that the Hail's last verse had kept the vowel through a word that was not the word anybody expected, and that a man who could do that had been a good crossbowman.
 :::
 
-::: {.verse form=prose lang=tarv enc=tarvsemaronenc work=the-verses-of-the-thorgila-fair-7}
-Arthauna daimad temel hir Lírkeza hir karna ol helza. Kornazdo dokad denon. Ethor denon kornazdo dokad. Orthe karna ol Ozkarre thaurad soral thur lambis. Ar verezos vethoked ath lambis. Verezos dunad ertad denon. Verezos ared dadro kelzaro pral kanel.
+::: {.verse form=prose lang=tarv enc=tarvsemaronenc work=mule-stamp}
+Arthauna daimad temel hir Lírkeza holethi karna ol helza ol venora, ek kornazdo dokad denon. Tha dokad orthe karna ol Ozkarre thaurad soral thur lambis ar urkis vethoked, ek kedis dunad ertad denon ared dadro kelzaro pral.
 :::
 
 ## The Stone in the Yard {#stone}
 
 ::: {.verse form=prose lang=en work=stone}
-Sling, you are the oath stone in this fair’s yard. Hail, you swear upon it at the spring fair that a horse is healthy. It is not healthy. The vowel is o. The stone stands in the yard during the song. Sling sings with her hand upon it.
+_Sling, you are the oath stone in the yard of this fair. Hail, you swore on it at the spring fair that a horse was sound, and it was not. The vowel is the one in stone._ The stone in the yard was in the yard while the bout was sung, and the Sling sang with her hand on it.
 :::
 
 ::: {.verse form=prose lang=tarv enc=tarvsemaronenc work=stone}
-Lírkeza. Ko ared goitsa ir korla ol denon arthauna. Ozkarre. Ko zarlad us goitsa ir arthauna ol nural. Korneth ared ankelmelo. Korneth ar ared ankelmelo. Soral ared o. Goitsa ared ir korla ken sormar sormad. Lírkeza sormad dun dekazu us goitsa.
+«Lírkeza, ko ared goitsa ir korla ol denon arthauna. Ozkarre, ko zarlad us alatho ir arthauna ol nural ken korneth ared ankelmelo, ek ar ared. Soral ared soral ol talor.» Goitsa ared ir korla ken sormar sormad, ek Lírkeza sormad dun dekazu us alatho.
 :::
 
 : The Stone in the Yard {#stone-verses}
 
 ::: {.verse form=gortsada lang=en work=stone-verses}
 THE HAIL/
-Stone, I swear on you in spring./
-I swear healthy horse. No healthy horse./
-Horse grows lame at ford by summer./
-Buyer comes to you. I know, stone./
-I give the money back to person./
-I give something for the foal./
-I stand in yard. I speak./
-Stone, let me go now. Stone.
+Stone, I swore on you in spring./
+I swore the horse was sound. Not so./
+It went lame at the ford by summer./
+The buyer's come to you. I know./
+I'll give the man his money back./
+I'll give him something for the foal./
+I'll stand here in the yard and say it./
+Stone. Now let me go.
 
 THE SLING/
-I am stone. I say true./
-I am stone. I say untrue./
-You set hand on me. You say/
-horse is healthy. No healthy horse./
-Give the money back? True./
-Does that release hand? Untrue./
-Stand in yard all day./
-Hand stays in your setting-place. Stone.
+I am a stone. I say yes./
+I am a stone. I say no./
+You put your hand on me and said/
+the horse was sound. It was not so./
+Give him back his money? Yes./
+Will that take your hand off? No./
+Stand there in the yard all day./
+Your hand stays where you put it. So.
 
 THE HAIL/
-Then hand stays on stone./
-I am the oath’s sworn man. I know oath./
-My son is son of a person/
-swearing lame horse healthy./
-Stone, you stand here before shrine,/
-before priest, before road./
-Hands lie on you before mine./
-Does a homeward way exist before now? Stone.
+Then the hand stays on the stone,/
+and I'm the man who swore. I know./
+My son will be the son of him/
+who swore the lame horse whole./
+Stone, you were here before the shrine,/
+before the priest, before the road./
+Hands have lied on you before mine./
+Was there ever a way home?
 
 THE SLING/
-True. Homeward way is yard./
-True. Homeward way is slow./
-Stand where people see,/
-people who see your swearing. Then go to person,/
-person with lame horse./
-Pay the debt. Then go to another fair./
-Swear again. Keep vow./
-True. Not untrue.
+Yes. The way home is the yard./
+Yes. The way home is slow./
+Stand where every man can see you/
+who saw you swear. Then go/
+to the man with the lame horse/
+and pay him. Then go/
+to the next fair, and swear again,/
+and keep it. Yes. Not no.
 :::
 
-::: {.verse form=gortsada lang=tarv enc=tarvsemaronenc work=stone-verses}
-OZKARRE/
-Talor. En zarlad us ko ir nural./
-En zarlad ankelmelo korneth. Ar ankelmelo korneth./
-Korneth pelzad valmarno ir hreth hir herthe./
-Kurelor lokad hir ko. En kezdad talor./
-En daimad zelma antigai hir verezos./
-En daimad lathon hir kornuro./
-En thaled ir korla. En dokad./
-Talor. Denkanai ko linkad en. Talor.
+::: {.verse form=gortsada lang=tarv enc=tarvsemaronenc work=stone-verses scan=trimeter}
+[Ozkarre]{.speaker}/
+Talor, en zarlad us ko ir nural./
+Korneth ankelmelo. Ar ared./
+Valmarno ir hreth ir herthe./
+Kurelor hir ko. En kezdad alatho./
+Daimad zelma antigai,/
+ek hir kornuro, nis lathon./
+En thaled ir korla ek dokad./
+Talor. Ko linkad en, denkanai‼
 
-LÍRKEZA/
-En ared talor. En dokad varelin./
-En ared talor. En dokad ar varelin./
-Ko lendad dekazu us en. Ko dokad./
-Korneth ared ankelmelo. Ar ankelmelo korneth./
-Eza ko daimad zelma antigai. Varelin./
-Eza denon linkad dekazu ol ko. Ar varelin./
-Ko thaled ir korla ir zed nar./
-Dekazu dorad ir sedon ol lendandon ol ko. Talor.
+[Lírkeza]{.speaker}/
+En talor. En dokad varelin./
+En talor, ek talor dokad ar./
+Ko lendad dekazu us en ek dokad/
+korneth ankelmelo. Ar ared./
+Eza zelma? Varelin./
+Eza linkad dekazu? Ar./
+Ko thaled, zed nar‼/
+Dekazu dorad us talor.
 
-OZKARRE/
-Tha dekazu dorad us talor./
-En ared daro ol tholza. En kezdad tholza./
-Nurethos ol en ared nurethos ol verezos./
-Verezos zarlad valmarno korneth ankelmelo./
-Talor. Ko ared denon sedon pral nekai./
-Pral sarko. Pral valero./
-Dekazu setdokad us ko pral dekazu ol en./
-Eza valero hir dumva ared pral denkanai. Talor.
+[Ozkarre]{.speaker}/
+Tha dekazu dorad us talor,/
+ek en ared kedis zarlad./
+Nur ol en, nurethos ol kedis/
+zarlad valmarno dadro./
+Talor, ko ared pral nekai,/
+pral valero, pral urkis sarko./
+Dekazu setdokad us ko holimai./
+Eza valero ol antigandon?
 
-LÍRKEZA/
-Varelin. Valero hir dumva ared korla./
-Varelin. Valero hir dumva ared anralvo./
-Ko thaled ir sedon ol okandon ol verezos./
-Verezos oked zarlad ol ko. Tha ko tigad hir verezos./
-Verezos kerad valmarno korneth./
-Ko pelzad nezora. Tha ko tigad hir alethos arthauna./
-Ko zarlad antigai. Ko thaurad tholza./
-Varelin. Ar ar varelin.
+[Lírkeza]{.speaker}/
+Varelin. Ath valero, korla./
+Varelin. Ath valero, anralvo./
+Thaled ir okande ol verezos/
+kedis oked ko zarlad‼/
+Tha tigad, nenos, hir kurelor,/
+ek zelmad hir korneth valmarno‼/
+Tha arthauna. Zarlad antigai,/
+thaurad alatho‼ Varelin. Ar «ar».
 :::
 
-::: {.verse form=prose lang=en work=the-verses-of-the-thorgila-fair-10}
-The fair gives the theme to Hail. Sling stamps for him with the others. The horse-judge says the stone is sung well and the person better: the person has the worse part.
+::: {.verse form=prose lang=en work=stone-stamp}
+The fair gave the bout to the Hail, and the Sling stamped for him with the rest. The horse-judge said that the stone had been sung well, and that the man had been sung better, because the man had the worse part.
 :::
 
-::: {.verse form=prose lang=tarv enc=tarvsemaronenc work=the-verses-of-the-thorgila-fair-10}
-Arthauna daimad temel hir Ozkarre. Lírkeza arnad hir Ozkarre dun alethos. Kornazdo dokad. Sormo ol talor ared dadro. Sormo ol verezos ared mazeron dadro. Holethi verezos kerad korethos solthen.
-:::
-
-::: {.verse form=gortsada lang=en work=the-verses-of-the-thorgila-fair-11}
-Hill fair variant: The buyer comes to you./
-Town variant: The buyer is beside the stone.
-:::
-
-::: {.verse form=gortsada lang=tarv enc=tarvsemaronenc work=the-verses-of-the-thorgila-fair-11}
-[Variant]{lang=en} ol arthauna ol maltho. Kurelor lokad hir ko./
-[Variant]{lang=en} ol orne. Kurelor ared nol goitsa.
+::: {.verse form=prose lang=tarv enc=tarvsemaronenc work=stone-stamp}
+Arthauna daimad temel hir Ozkarre, ek Lírkeza arnad hir alatho dun alethos. Kornazdo dokad goitsa ared dadro sormad, ek verezos mazeron dadro, holethi verezos kerad solthen galthos.
 :::
 
 ## The Last Word {#last-word}
 
 ::: {.verse form=prose lang=en work=last-word}
-At a duel’s end the theme-giver may set one word. Each singer sings one stanza on it. Neither answers. The horse-judge gives ervo, free. The vowel is o.
+At the end of a duel the theme-giver may set one word, and each singer sings one verse on it, and neither answers. The horse-judge gave the word _ervo_, free, and the vowel of the word.
 :::
 
 ::: {.verse form=prose lang=tarv enc=tarvsemaronenc work=last-word}
-Ir orthemadon ol gortsada temadar dunad lendad urkis lambis. Urzele sormar sormad urkis karna ol denon. Ar urkis pethred. Kornazdo daimad lambis ervo. Soral ared o.
+Ir orthemadon ol gortsada temadar dunad lendad urkis lambis, ek urzele sormar sormad urkis karna us alatho, ek ar urkis pethred. Kornazdo daimad lambis ervo, ek soral ol lambis.
 :::
 
 : The Last Word {#last-word-verses}
 
 ::: {.verse form=gortsada lang=en work=last-word-verses}
 THE HAIL/
-Free is person in contract./
-Person chooses captain./
-Person chooses war and price,/
-season and road./
-When paymaster cheats person,/
-person may stand. Say untrue./
-Nobody owns person as property./
-Person sells season. No sworn man’s soul.
+Free is the man under contract./
+He chose the captain. So/
+he chose the war and chose the price/
+and the season and the road,/
+and when the paymaster cheats him/
+he can stand and say: No./
+Nobody owns a man like that./
+He sold a season, not his soul.
 
 THE SLING/
-Free is woman at threshold/
-when company is on road./
-Holding in woman’s two hands,/
-husband’s name on everything. Husband./
-Nobody there to ask/
-what to plant, when to reap./
-Lantern to set outside/
-in night. Is that free? I want knowledge.
-
-The fair stamps. The horse-judge listens. He says the word belongs to neither: I will not give it now. Then he returns to horses.
+Free is the woman at the threshold/
+when the company's on the road,/
+with the holding in her two hands/
+and his name on all of it, though,/
+and nobody there to ask her/
+what to plant, or when to mow,/
+and the lantern to set out/
+on the night. Is that free? I'd know.
 :::
 
-::: {.verse form=gortsada lang=tarv enc=tarvsemaronenc work=last-word-verses}
-OZKARRE/
-Ervo ared verezos ir semna./
-Verezos tavkured thrumar./
-Verezos tavkured gruma ek verdo./
-Solten ol tarnela ek valero./
-Ken daima seted hir verezos./
-Verezos dunad thaled. Dokad ar varelin./
-Ar verezos kerad verezos sa hrenkon./
-Verezos daimelad solthen ol tarnela. Ar dir ol daro.
+::: {.verse form=gortsada lang=tarv enc=tarvsemaronenc work=last-word-verses scan=trimeter}
+[Ozkarre]{.speaker}/
+Ervo ared daro./
+Tavkured thrumar ek semna,/
+tavkured gruma ek verdo,/
+ek arvil, ek dorandar valero./
+Ken daima seted alatho,/
+dunad dokad «Ar varelin.»/
+Ar urkis kerad alatho./
+Daimelad arvil, ar vethis.
 
-LÍRKEZA/
-Ervo ared venora ir belarts./
-Ken thramo ared ir valero./
-Kombrelalo ir tavre dekazu ol venora./
-Harlen ol kambo us zed lathon. Kambo./
-Ar verezos ir alatho sedon hir pethad./
-Eza kethis hir sathad. Eza ken hir kolsamo./
-Navera hir lendad hos dumva./
-Ir nathre. Eza denon ared ervo. En aved kezdad deno.
+[Lírkeza]{.speaker}/
+Ervo venora ir belarts/
+ken thramo halvad hos nebra,/
+kombrelalo ir tavre dekazu/
+ek harlen ol kambo us denon,/
+ek ar urkis verezos hir pethad/
+kethis sathad, ken herthe,/
+ek navera hos dumva ir nathre./
+Eza ervo? En aved kezdad.
+:::
 
-Arthauna arnad. Kornazdo thavrelad. Kornazdo dokad. Lambis ar ared ol urkis ol tavre. En ar daimad denon denkanai. Ethor denon kornazdo antigad hir korneth.
+::: {.verse form=prose lang=en work=last-word-stamp}
+The fair stamped, and the horse-judge listened, and said the word had not been given to either of them, and that he would not give it now. Then he went back to the horses.
+:::
+
+::: {.verse form=prose lang=tarv enc=tarvsemaronenc work=last-word-stamp}
+Arthauna arnad, ek kornazdo thavrelad, ek dokad lambis ar ared daimad hir urkis ol tavre, ek ar daimad alatho denkanai. Tha antigad hir korneth.
 :::
 
 ## See Also

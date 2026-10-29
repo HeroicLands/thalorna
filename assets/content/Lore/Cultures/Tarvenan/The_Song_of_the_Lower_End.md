@@ -31,496 +31,560 @@ The poem is in verse paragraphs of uneven length, each held on one vowel at the 
 
 ::: {.verse form=oldemo lang=en work=oldemo}
 I was there. I carried stone./
-I was a herd boy with a sling. The sling was everything I owned./
-Sit. People have eaten the meat. The fire burns low./
-This is the lower end’s long poem. You know the gorge/
-below the plateau. No flock enters the gorge./
-Horns come down on autumn nights. Echo answers from stone./
-I heard those horns on their first night./
-I carried stone at the lower end. The masterless man told me:/
-Climb the wall. I went up. I returned down. Now I am old./
-I sing as the nameless man commanded, below,/
-on the great stone. He said: You are the one who goes.
+I was a herd boy with a sling, and the sling was all I owned./
+Sit. The meat is eaten, and the fire is burning low./
+This is the long poem of the lower end. You know/
+the gorge below the plateau, where no flock goes,/
+where the horns come down on autumn nights and the echo answers from the stone./
+I heard those horns the night they first were blown./
+I carried stone at the lower end. I am the one he told/
+to go up the wall. I went, and I came down. Now I am old./
+I sing it as he told me to, the man who had no name, below,/
+on the great stone, when he said: You are the one who goes.
 
-Three times legions climbed mountains from plain./
-Three times mountains threw legions back by their arriving road./
-Legions held low country, harbor, grain,/
-walled towns, towers watching [[place-leonrik|Lienrik]]’s lords by day./
-They could not take mountains./
-The fourth time a legion came. It carried its road./
-It cut road ahead and walked upon its work./
-Five thousand sworn men came. Shields. Standard on pole./
-Mules. Carts. Engineers. Legion’s pay./
-Legate in front. Do not ask his name./
-His lords struck it from rolls. I do not sing a name/
-his sworn men would not keep. He has no name. Let that stand.
+Three times the legions climbed the ranges from the plain,/
+and three times the ranges sent them back the way they came./
+They held the lowlands then, the harbor and the grain,/
+the walled towns and the towers that watched the lords of [[place-leonrik|Lienrik]] by day./
+The mountains they could not take./
+The fourth time a legion came, and it brought its road along the way:/
+it cut the road in front of it, and walked on what it made./
+Five thousand sworn men came, and their shields, and the standard on its stave,/
+the mules, the carts, the engineers, the legion's pay,/
+and the legate at the head of them. Do not ask me for his name./
+His masters struck it from their rolls. I will not sing a name/
+the men who swore to him would not keep. He has none. Let it stay.
 
-[Tórsaro]{.name data-type="being/npc"} was lord of plateau road. His hall stood high./
-From plateau’s edge someone sees three days’ march with their own eyes./
-He watched road up the valley. Watched it climb./
-He said: Legion takes the easy climbing road./
-Legion is flock. Flock goes on good ground./
-The easy road is gorge beneath us. Let legion enter./
-Let its head reach upper end. Let final company come:/
-last cart, last mule, last baggage-man./
-Then I close upper end. Then close lower end behind legion./
-Put bows on both walls. That is the whole design./
-Sworn men heard it all, standing in line. Asked one thing:/
-Who holds lower end, where gorge opens to valley, without a wall beside him?
+Tórsaro was lord of the plateau road, and his hall stood high./
+From the plateau's lip a man sees three days' march with his own eyes./
+He watched the road come up the valley. He watched it climb./
+He said: They will take the way that is easiest to climb./
+A legion is a drove, and a drove goes where the ground is kind./
+The easiest way is the gorge below us. Let them have it. Let them inside./
+Let the head of it come up to the upper end, and the tail come by,/
+the last cart, the last mule, the last man of the baggage line./
+Then I close the upper end. Then close the lower end behind./
+Put bows along both walls. That is all of it. That is the whole design./
+His sworn men heard it out. They asked him one thing, standing in a line:/
+Who holds the lower end, where the gorge lets out, with no wall at his side?
 
-Hear the man without name. He had a name before. He kept/
-a hundred ewes above third valley, crossbow in hand,/
-spear beside door, wife managing holding, good land./
-At year’s last horse fair a man of next valley stood./
-Said before fair: I buy your mare. She has nine years, not seven. A cheating hand./
-The masterless man answered before that same fair, word for word, and let his speech stand./
-The other man took a knife. I saw. I stood behind him./
-I saw knife first. The masterless man struck once with open hand./
-The man fell upon trough’s edge. He did not stand./
-Next day three men swore to [Tórsaro]{.name data-type="being/npc"}: knife came last./
-Knife was answer, no beginning. They swore on fair-yard stone. Dead man’s clan./
-[Tórsaro]{.name data-type="being/npc"} heard three. He heard one. Did as law does to a man./
-He struck name from roll, sent masterless man from lordship./
-Nobody asked herd boy. A boy is no witness. I stood behind the man.
+Now hear of the man who had no name. He had one then. He was a man/
+who kept a hundred ewes above the third valley, with a crossbow in his hand,/
+a spear beside his door, a wife to run the holding, and good land./
+At the horse fair at the year's end a man of the next valley took his stand/
+and said before the fair: The mare I bought from you is nine, not seven. A cheat's hand./
+He answered it before the same fair, word for word, as a man answers, and let it stand./
+The man of the next valley drew his knife. I saw it. I was at his back./
+I saw the knife come first. He struck the man once with his open hand./
+The man fell on the trough's edge, and he did not stand./
+Next day three men swore to Tórsaro that the knife came last,/
+that it was the answer, not the start. They swore it on the stone in the fair's yard. They were the dead man's clan./
+Tórsaro heard three, and he heard one. He did what the law does with a man./
+He struck the name from the roll and sent him out of the lordship's land./
+Nobody asked the herd boy. A boy is not a witness. I was at his back.
 
-The masterless man did not curse lord. He said: [Tórsaro]{.name data-type="being/npc"} hears three. Hears one./
-Does as law says. I leave his roll. I do not leave his mountains. The masterless man went/
-to high meadows where snow stays late and ewes belong to nobody./
-He kept passes. Took not one ewe from plateau flocks,/
-none from next valley. Eleven men came up, one after one:/
-a man of dead company, a man whose captain fled,/
-coastal man not telling his reason, smith’s second son,/
-two brothers from [[place-eskarath|Eskarath]], four lowlanders with painted shields, one/
-who was a man with a bow. He kept them as a captain keeps his own./
-No contract. No money./
-His wife managed third-valley holding seven years, without husband’s name on it. She was the one/
-sending cheese to meadow, bolts for bows. She said nothing to anyone.
+He did not curse the lord. He said: He heard three, and he heard one./
+He did what the law says. I am off his roll. I am not out of his mountains. And he was gone/
+up to the high meadows where the snow lies late and the ewes belong to no one./
+He kept the passes there. He took no ewe from the plateau's flocks, not one,/
+and none from the next valley's. Eleven men came up to him, one by one:/
+a man whose company was dead, a man whose captain ran,/
+a man from the coast with a reason he would not say, a smith's second son,/
+two brothers from [[place-eskarath|Eskarath]], four from the low country with their painted shields, and one/
+who was only a man with a bow. He kept them as a captain keeps his own,/
+on no contract, for no sum./
+His wife kept the holding in the third valley seven years without his name on it, and she was the one/
+who sent cheese up to the meadows, and bolts for the bows, and said nothing to anyone.
 
-When legion entered mountains, he came down to plateau gate./
-Eleven with him. Nobody sent for them. They stood outside./
-Not on roll, they did not enter lord’s gate./
-[Tórsaro]{.name data-type="being/npc"} came out. That is the asking. People sing it three ways./
-Hear from gate. He said: Give me lower end. I am late./
-I am nobody’s. These are nobody’s. We are twelve. Give us place/
-none of yours want. [Tórsaro]{.name data-type="being/npc"} said: I cannot give a soldier’s post to a man whose name I strike./
-You are off my roll. I give you nothing. Return to meadows. Wait.
+When the legion came into the ranges, he came down to the plateau gate,/
+and his eleven with him. Nobody had sent for them. They stood outside the gate,/
+because a man struck from the roll does not come through a lord's gate./
+Tórsaro came out to him. That is the asking. It is sung three ways./
+Hear it from the gate. He said: Give me the lower end. I am late./
+I am no one's, and these are no one's, and we are twelve. Give us the place/
+nobody of yours wants to be sent to. And Tórsaro said: I can give no post to a man I put away./
+You are not on my roll. I can give you nothing. Go back up to the meadows and wait.
 
-He stood before [Tórsaro]{.name data-type="being/npc"} at plateau gate. Hear lord’s part./
-[Tórsaro]{.name data-type="being/npc"} saw good spear, good crossbow, eleven more. Thought:/
-somebody must hold lower end. Somebody is [Tórsaro]{.name data-type="being/npc"}’s sworn men. How many/
-return upward? [Tórsaro]{.name data-type="being/npc"} knew number. Number was zero. Now/
-twelve stood outside his ownership. Law forbids giving them anything. Law does not require sending them away. [Tórsaro]{.name data-type="being/npc"} was plain and hard. Spoke loudly:/
-I prefer spending you to spending my men. You know. Ask again. I still say no.
+He stood before Tórsaro at the plateau gate. Hear it from the lord's side now./
+Tórsaro looked at him and saw a good spear, a good crossbow, eleven more, and thought how/
+the lower end must be held by someone, and that someone would be his own sworn men, and how/
+many of his own would come back up from it. He knew the number. The number was none. And now/
+here were twelve who were not his. The law would not let him give them anything. The law did not say he must send them away. He was a plain man and a hard one, and he said it out loud:/
+I would sooner spend you than spend mine. You know it. Ask me again, and I will still say no.
 
-He stood before [Tórsaro]{.name data-type="being/npc"} at plateau gate. Hear from stone./
-He said: I ask no soldier’s post. Lower end is off your roll. Lower end is ground./
-I ask you for stone. He pointed down the cliff, where plateau men found/
-a great stone above gorge-mouth, moved it with lever, left it standing by itself/
-to fall when last cart entered. He said: I swear on that stone. Not to you. Not on your stone/
-in your yard where three swore. That stone before falling./
-[Tórsaro]{.name data-type="being/npc"} said: I do not take your oath. Stone takes it. Go down.
+He stood before Tórsaro at the plateau gate. Hear it from the stone./
+He said: I do not ask you for a post. The lower end is not on your roll. It is ground./
+I ask you for the stone. He pointed down the cliff to where the plateau's men had found/
+the great stone over the gorge's mouth and levered it, and left it standing on its own,/
+to fall when the last cart was in. He said: Let me swear on that one. Not to you. Not on your own/
+stone in your own yard, where three men swore. On that stone, before it comes down./
+And Tórsaro said: I do not take your oath. The stone takes it. Go down.
 
-He descended cliff-path to stone. Eleven descended same road./
-I followed eleven. Nobody sent me. I left father’s flock that day./
-He laid hand on stone that would close gorge. Said:/
-I hold lower end until gorge is quiet, or until my death. That was everything./
-Plateau man stood witness as law required. Witness’s face went grey./
-Stone moved slightly beneath hand. It carried balanced weight. That was the weight./
-Eleven swore afterward, one by one. Same words, same stone. Coastal man had his reason, never said it./
-He spoke twice to know the words correctly. Looked around, saw me, did not send me away./
-Said: You are fair’s boy. You are the one who goes. Stay.
+He went down the cliff path to the stone, and his eleven went down the same way,/
+and I went down behind the eleven. Nobody sent me. I had left my father's flock that day./
+He laid his hand on the stone that was to close the gorge, and he said:/
+I will hold the lower end until the gorge is quiet, or until I am dead. That was all he said./
+A man of the plateau stood by to witness, as the law requires, and his face went grey,/
+because the stone moved a little under the hand. It was balanced. It was the weight./
+The eleven swore after him, one by one, the same words, on the same stone. The man from the coast, who had his reason and would never say,/
+said it twice, to be sure he had it straight. Then he looked round and saw me there. He did not send me away./
+He said: You are the boy from the fair. You are the one who goes. Stay.
 
-This is twelve men’s burden the night before./
-Nameless captain had crossbow, spear, meadow coat,/
-snow-mark on shoulder. Smith’s son had hammer, iron bar, no more./
-Man of dead company had company horn. Would not blow it. Swore/
-not to blow until one company-man lived to hear. Coastal man had sword better than his standing, wore/
-it as something he must answer for./
-[[place-eskarath|Eskarath]] brothers had slings like mine, stone-bag each. Said no more/
-than required. Quick at everything else. Four lowlanders had own painted shields, bow, plateau spears. Bowman had bow./
-I had sling, cheese from captain’s wife, coat, peak-wind. Those were my stores./
-We lay behind stone in night. No fire. Gorge below empty. Legion’s fires on slope beneath, far beneath.
+Here is what the twelve of them carried down the night before./
+The captain with no name had his crossbow, and his spear, and the quilted coat he wore/
+in the meadows, with the snow-stain on the shoulder. The smith's son had a hammer and a bar of iron, no more./
+The man whose company was dead had his company's horn. He would not blow it, and he swore/
+he never would until his company had someone left to hear it. The man from the coast had a sword too good for him, and wore/
+it as a man wears a thing he has to answer for./
+The brothers from Eskarath had slings like mine and a bag of stones apiece, and they spoke no more/
+than they had to, and were quick at all the rest. The four from the low country had their own shields, painted, and a bow, and the plateau's spears. The bowman had his bow./
+I had my sling, and a cheese his wife sent up, and my coat, and the wind off the peaks, and that was my store./
+We lay behind the stone in the dark and lit no fire. The gorge below was empty. The legion's fires were on the slope below the gorge, far below.
 
-Legion entered gorge next morning, head at sunrise./
-First road-cutters. Then carriers of their work./
-Then shields, a hundred shields, standard, legate below it on grey horse./
-Shields again. Shields. Whole morning. Gorge held all the noise./
-We lay behind stone, counted, lost count, counted again./
-Then baggage. Mules, carts, mules, carts with iron wheels singing on road-stone./
-Mules again. Last cart. Last mule. Boy no older than me at train’s end./
-Boy drove last mule with stick. Looked up cliff once, did not see us. Went on.
+The legion came into the gorge next morning, the head of it at break of day./
+First came the men who cut the road, then the men who carried what they made,/
+then shields, a hundred shields, the standard, the legate under it on his grey,/
+then shields again, and shields, all morning. The gorge was full of the noise they made./
+We lay behind the stone and counted, and lost count, and counted again./
+Then came the baggage: mules, and carts, and mules, the carts with iron wheels that sang on the stone of the way,/
+mules again, and the last cart, and the last mule, and a boy no older than me at the end of the train,/
+driving the last mule with a stick. He looked up at the cliff once and did not see us, and went on his way.
 
-Then upper end fell. We heard far above, beneath plateau’s back./
-Like year’s first avalanche from a crag. Dust rose like smoke. Calling afterward./
-Nameless captain set shoulder to stone. We set ours. Stone did not move. Did not. Then/
-stone fell like wall, no single stone. Descended slope. Gorge-mouth closed. We stood upon its back./
-Captain stood on oath-stone, drew crossbow, said: It is done. Now we hold. That is all./
-Bows on both walls began. Sky went black.
+Then the upper end came down. We heard it far up, under the plateau's back,/
+like the year's first snowslide coming off a crag. The dust went up out of the gorge like smoke, and the shouting after that./
+The captain with no name put his shoulder to the stone, and we put ours. It did not move. It did not. Then/
+it went, and it was like a wall falling, not a stone, and it went down the slope, and the gorge's mouth was shut, and we were standing on its back./
+And he stood on the top of it, the stone he swore on, and spanned his crossbow there, and said: It is done. Now we hold it. That is that./
+And the bows on both walls began, and the sky went black.
 
-All day legion climbed gorge toward upper end. Arrows fell from both edges./
-Shields rose above heads, a shield-roof. Arrows found joins. Men died/
-beneath roof. Roof closed above them. Climbed gorge. Stones fell from heights./
-Roof broke, closed again. We heard everything from lower end through daylight./
-Nobody stood before us. We sat on stone, drew bows, watched empty gorge, bright/
-morning and afternoon. Coastal man said: Perhaps they never descend. Perhaps all climb and die./
-Nameless captain said: They come at night.
+All that day the legion went up the gorge against the upper end, and the arrows came down from both sides./
+The shields went up over their heads, a roof of shields. The arrows found the joins, and the men died/
+under the roof, and the roof closed over them and went on up the gorge. Stones came down from the heights./
+The roof broke, and closed again. We heard it all from the lower end. We heard it all the light./
+We had nobody in front of us. We sat on the stone and spanned the bows and watched the empty gorge, the bright/
+morning and the afternoon. The man from the coast said: Perhaps they never come down. Perhaps they all go up and die./
+And the captain with no name said: They will come at night.
 
-Hear recall now. People sing three ways. Hear from legate. At noon legate knew./
-Sat grey horse beneath standard, saw captivity. Exit road was arriving road./
-Did not order horn. Sent men up walls. Men fell. Sent men through/
-arrows to upper end. Men died at fallen stone, first rank, next too./
-If he blew recall then, he could take legion out before walls knew/
-its direction. He had five thousand. We were twelve and boy. He did not know. Did not want truth./
-His lord sent him to garrison plateau. A commanded man does not return at noon because arrows are many./
-He did not blow. That was his knowing noon.
+Hear the recall now. It is sung three ways. Hear it from the legate. By noon he knew./
+He sat his grey under the standard and saw he was caught, and the way out was the way he came through./
+He did not have the horn blown. He sent men up the walls. They fell. He sent them through/
+the arrows to the upper end. They died at the fallen stone, the first rank, and the next ones too./
+Had he blown the recall then, he could have had the legion out before the walls above him knew/
+which way it meant to go. He had five thousand. We were twelve and a boy. He did not know. He did not want it to be true./
+He was sent to put a garrison on the plateau. A man sent to do a thing does not turn round at noon because the arrows are thick./
+He did not blow it. That was the noon he knew.
 
-Hear recall from lower end. All day we sat on stone. Heard no horn./
-Man of dead company kept horn on knees. Turned it. Again. Said: Legion does not blow. It should blow before/
-second falling stone. I blow at first. I blow when I see gorge, before/
-I take legion inside. Nameless captain said: Have joy. Each unblown hour is hour they do not come to us. Let legion keep pride above until its endurance ends, and one hour more./
-Captain whetted spear on oath-stone. Light left gorge. Nobody blew horn.
+Hear the recall from the lower end. All day we sat on the stone and heard no horn./
+The man whose company was dead held his company's horn on his knees and turned it, and turned it, and said: They have not blown. They should have blown before/
+the second stone came off the walls. I would have blown it at the first. I would have blown it when I saw the gorge, before/
+I took them in. And the captain with no name said: Be glad. Each hour they do not blow is an hour they do not come to us. Let them be proud. Let them stay up there and be proud as long as they can bear it, and an hour more./
+He whetted the spear on the stone he swore on. The light went off the gorge. Nobody blew a horn.
 
-Hear recall from night. When light left walls, horns began./
-Legion blew recall from gorge’s middle, down to us. Again. Again./
-Sound descended like water. Struck stone. Returned upward./
-Whole legion turned at night. Five thousand men./
-Shields. Mules. Iron-wheeled carts. Legate on grey horse. Then/
-legion descended to lower end, stone, us. One night late. Blow it at noon and they leave before stone falls. They blew then,/
-in night. We heard. Rose from stone, drew bows, stood in line, twelve, boy at end./
-That is recall. Every autumn it descends gorge to that stone. Shepherds hear. Never enter. It calls men to return who cannot return.
+Hear the recall from the dark. When the light was off the walls, the horns began./
+They blew the recall from the middle of the gorge, down at us, again and again./
+The sound came down the gorge like water. It struck the stone and went back up again./
+And the whole legion turned round in the dark, five thousand men,/
+the shields, the mules, the carts with iron wheels, the legate on his grey, and then/
+it came the long way down to the lower end, to the stone, to us. A night too late. Blown at noon, that horn had had them out before the stone fell. They blew it then,/
+in the dark. We heard it. We got up off the stone and spanned the bows and stood in a line, the twelve of us, and the boy at the end./
+That is the recall. Every autumn it blows down the gorge at that stone. The shepherds hear it. They do not go in. It calls back men who cannot come back again.
 
-Legion came to stone at night. We killed men at stone./
-Men climbed its face, shields on backs. Crossbows killed rising men./
-[[place-eskarath|Eskarath]] brothers threw stones at faces beneath helmets. Smith’s son broke hands on top with bar. Men fell. More rose./
-Legion brought ladders from carts. Set them against stone. We threw down ladders and men. More rose./
-Coastal man fought with good sword. Sword was not too good for him. A spear thrown far from below killed him./
-He said nothing, man with reason. Fell behind stone, toward home./
-Man whose captain fled died at ladder’s foot, killed by one he threw from it, who rose./
-Two lowlanders died. Painted shields fell among legion shields. Nobody could distinguish. Nobody would know./
-All night legion came. All night recall blew behind it. Each time nameless captain stood atop, said: Here. Here is the stone.
+They came to the stone in the dark, and we killed them at the stone./
+They came up the face of it with their shields on their backs, and the crossbows took them as they rose./
+The brothers from Eskarath slung stones into the faces under the helms. The smith's son broke the hands on the stone's top with his bar, and the men went down, and more rose./
+They brought ladders off the carts and set them to the stone. We threw down the ladders and the men on them, and more rose./
+The man from the coast fought with the sword too good for him, and it was not too good for him. He was killed by a spear thrown from below, a long throw,/
+and he said nothing at all, the man with the reason. He fell down the back of the stone, the side toward home./
+The man whose captain ran was killed at the foot of a ladder, by a man he had thrown from it, who rose./
+Two of the low-country four were killed. Their painted shields went down the front among the legion's shields, and nobody could tell them from the rest. Nobody would know./
+All night they came at the stone. All night the recall blew behind them. And each time they came, the captain with no name stood on the top and said: Here. Here is the stone.
 
-Morning, we were eight. Dead before stone lay one man deep./
-Legion withdrew a short distance up gorge to breathe./
-Captain called me, set hand on my head. Said: You are the one who goes. Leave/
-us now. Climb wall to [Tórsaro]{.name data-type="being/npc"}. Say lower end holds. Say he says it holds. If [Tórsaro]{.name data-type="being/npc"} asks anything, tell truth. Come down to me./
-I climbed goats’ way. Legion shot from gorge, missed. I passed bowmen at cliff. Quivers scant. Arms weak./
-I reached [Tórsaro]{.name data-type="being/npc"} at plateau lip. Said: Lord, lower end holds. He says it holds. [Tórsaro]{.name data-type="being/npc"} looked at stone, dead beneath, eight above, small and far below./
-He said: Who are you? I said: Fair’s herd boy. I stood behind him. Saw knife. Other’s knife. First knife. Nobody asked. Now I speak./
-[Tórsaro]{.name data-type="being/npc"} said nothing for crossbow’s drawing-time. Then said: Return down. Tell him hold until second night. Tell him I have nobody to send, nobody to keep./
-I returned down. People commanded truth and return. I told it. I came. I am the one who goes. Nobody asked my speaking. Someone commanded it.
+In the morning there were eight of us. In front of the stone the dead lay a man's height deep./
+The legion drew back up the gorge a little way to breathe./
+The captain called me and laid his hand on my head and said: You are the one who goes. Leave/
+us now. Go up the wall to Tórsaro. Say: The lower end is holding. Say: He says it holds. If he asks you anything, tell him the truth, and come back down to me./
+I went up where the goats go. They shot at me from the gorge and missed. I passed the bowmen on the cliff. Their quivers were low. Their arms were weak./
+I came to Tórsaro on the plateau's lip and said: Lord, the lower end is holding. He says it holds. And Tórsaro looked down at the stone, the dead below it, the eight on top of it, small and far beneath./
+He said: Who are you? I said: The herd boy from the fair. I was at his back. I saw the knife. It was the other's knife. It came out first. Nobody asked me. Now I speak./
+Tórsaro said nothing for as long as it takes to span a bow. Then: Go back down. Tell him: Hold until the second dark. Tell him: I have nobody to send. I have none to keep./
+I went back down. I had been told to tell the truth and come back down. I told it, and I came. I am the one who goes. I was not asked to speak. I was told to speak.
 
-I spoke on stone: Lord says hold until second night. Lord has nobody to send./
-Nameless captain laughed. Good laughter, nothing inside but laughter. Said: That is a plain man. That is a lord. Until second night, then./
-I told the rest, my fair account to [Tórsaro]{.name data-type="being/npc"}. Captain stopped laughing. Looked long at me, as a man looks at a mare he never expected at that price. Then/
-said: Good. [Tórsaro]{.name data-type="being/npc"} hears four now. Turned toward gorge again./
-Legion descended all day. Morning. Noon. Afternoon. Each arrival had fewer men./
-Fewer of us met legion. Legion came again./
-[[place-eskarath|Eskarath]] brothers died at noon, beside each other. They said nothing three days. Nothing at ending./
-Smith’s son died atop ladder, bar in both hands. Ladder fell with him and three legion men. Man of dead company took spear in side, sat on stone, horn on knees. Did not rise./
-Bowman took a shot from below in afternoon. Lay at falling-place, edge, with bow. No arrows remained.
+I said it on the stone: The lord says hold until the second dark. The lord has nobody to send./
+The captain with no name laughed, a good laugh, with nothing in it but the laugh. He said: That is a plain man. That is a lord. Until the second dark, then./
+I told him the rest, that I had said the thing about the fair to Tórsaro. He stopped laughing. He looked at me a long time, the way a man looks at a mare he did not think he would get at the price, and then/
+he said: Well. He has heard four now. And he turned back to the gorge again./
+The legion was coming down. It came all that day. It came in the morning, at noon, in the afternoon, and every time it came to the stone, it came with fewer men,/
+and fewer of us met it, and it came again./
+The brothers from Eskarath died at noon, side by side. They had said nothing those three days. They said nothing at the end./
+The smith's son died at the top of a ladder with his bar in both his hands. The ladder went over with him and three of theirs. The man whose company was dead took a spear in the side and sat down on the stone with his horn on his knees, and did not get up again./
+The bowman was shot from below in the afternoon, and lay where he fell, at the edge, with his bow, and the arrows spent.
 
-Before legion’s last arrival, nameless captain stood atop stone. We were three. He spoke to us. This is speech. Say it with me./
-People struck me from roll. I am nobody’s. You are nobody’s. We have no captain, contract, pay./
-Nobody sent us here. We asked. Swore on this stone. Stone took oath. I kept lord’s mountains seven years without request. I keep this stone today./
-Legion comes because horn commands coming. Legion rightly comes. This is only exit. It is closed. We close it. Legion’s horn is one night late. We are stone in road./
-Hold until second night. That is a plain man’s word. I prefer a plain man’s word to roll. Roll is list. Stone is stone. Stone never leaves./
-He drew crossbow one last time. Last legion climbed toward us. It was day.
+Before the last time they came, the captain with no name stood on the stone, and there were three of us, and he spoke to us. This is what he said. Say it with me:/
+I was struck off the roll. I am no one's. You are no one's. We have no captain and no contract and no pay./
+Nobody sent us here. We asked. We swore on this stone, and the stone took it. I kept a lord's mountains seven years and nobody asked me to. I will keep this stone today./
+They are coming because their horn told them to come, and they are right to come. It is the only way out, and it is shut. We shut it. Their horn is a night too late, and we are a stone in the way./
+Hold until the second dark. That is a plain man's word, and I would sooner take a plain man's word than a roll's. A roll is a list. A stone is a stone. It does not go away./
+And he spanned the crossbow the last time, and the last of the legion came up the stone at us, and it was day.
 
-He killed first man over top with crossbow, second with spear./
-Spear broke in third. Captain took third man’s sword. Held top with it./
-On oath-stone, at his hand’s setting-place. Two men beside him died, one, then other. I stood behind with sling, last [[place-eskarath|Eskarath]] stones. Legion never killed me. I do not know why. I am the one who goes. Perhaps that is reason. They spared me./
-Legion climbed. Captain stood above. They came from front and both sides. Struck him, struck again. He never fell off stone. Fell upon it. Sat atop, sword on knees, as resting./
-Men crossed over captain, found me, boy with empty sling. Two took me. Third looked down and called into gorge. Light left. Second night came. Captain held until second night. Held day. Held there.
+He killed the first man over the top with the crossbow, and the second with the spear./
+The spear broke in the third, and he took the third man's sword, and he held the top of the stone with it there,/
+on the stone he swore on, where he had laid his hand. The two men left with him died, the one, and then the other. I was behind him with my sling, and the last of the Eskárathi stones, and I was not killed. I do not know why. I was the one who goes. Perhaps that is the why of it. I was spared./
+They came up the stone, and he was on the top of it. They came at him from the front and both sides, and he was struck, and struck again, and he did not go down off the stone. He went down on it. He sat down on the top with the sword across his knees, as if he were resting there./
+And the men who came over the top came over him, and found me, a boy with an empty sling. Two men took hold of me. A third looked down from the stone and called back into the gorge. Then the light went, and the second dark came down. He had held it till the second dark. He had held the day. He held it there.
 
-Second night horns blew recall. Nobody came./
-Legion held stone-top. Stone was whole gorge-mouth. Same/
-stone. Its valley-face stood four men high, sheer like a wall./
-Plateau bowmen descended cliff-path at night, stood at foot,/
-shot anyone atop stone, a mark against last grey light./
-Legion went no farther than stone. Stone was enough. Stone and masterless man in road./
-Horns blew from gorge’s middle. Legion men went to stone. Never returned by road/
-of going. Horns blew. Fewer horns. Morning, one horn. Then zero. That was day./
-Two men released me at night. Bowmen shot stone-top where we lay./
-Men fled back into gorge, to legion. I lay beside captain, hands above my head. Remained/
-until horns stopped. That is whole recall. Horns still blow. Still call. Nobody comes. Same.
+The second night the horns blew the recall, and nobody came./
+They had the top of the stone. But the stone was the whole gorge's mouth, the same/
+stone, and its face to the valley was four men high, and sheer as a wall is made./
+The plateau's bowmen came down the cliff path in the dark and stood at its base/
+and shot at whoever stood on the top of it, a mark against the last of the grey./
+They came no further than the stone. The stone was enough. The stone, and him, in the way./
+The horns blew from the middle of the gorge. The legion's men went to the stone, and did not come back the way/
+they went. The horns blew, and fewer horns blew. In the morning one horn blew. Then none. That was the day./
+The two who held me let me go in the night, when the bowmen shot into the top of the stone where we lay./
+They ran back down into the gorge to their own. I lay by him with my hands over my head, and I stayed/
+until the horns had stopped. That is the whole recall. It still blows. It still calls. Nobody comes. It is the same.
 
-Morning, [Tórsaro]{.name data-type="being/npc"} descended cliff-path, sworn men in line./
-They entered gorge, counted dead among stones until light lay low./
-Beneath side-fallen cart they found legate’s standard, cloth still on pole,/
-legate beneath. I do not sing legate’s name. [[affiliation-vylarinmpr|Empire]] owns name. [[affiliation-vylarinmpr|Empire]] does not keep/
-name. Let legate be his lords’ work: man with nobody owing him duty./
-Evening, [Tórsaro]{.name data-type="being/npc"} came to lower end. Climbed from gorge’s side, over dead, alone./
-Found me beside nameless man, sword on knees, face toward valley, slowly,/
-as shepherd looks to count sheep unseen beneath fog./
-[Tórsaro]{.name data-type="being/npc"} stood long on stone. Then spoke.
+In the morning Tórsaro came down the cliff path, and his sworn men in a row,/
+and they went into the gorge and counted the dead among the rocks, and it took them till the light was low./
+Under a cart gone over on its side they found the legate's standard, the cloth still on the pole,/
+and the legate under it. I do not sing his name. It is the [[affiliation-vylarinmpr|Empire]]'s, and the Empire would not hold/
+it. Let him be what they made of him: a man nobody owes./
+At evening Tórsaro came to the lower end, and climbed the stone from the gorge side, over the dead, alone,/
+and found me sitting by the man with no name. The sword was across his knees. He was looking down the valley, slow,/
+the way a shepherd looks to count a flock he cannot see in the fog below./
+Tórsaro stood a long while on the stone. Then he spoke.
 
-[Tórsaro]{.name data-type="being/npc"} said: I hear three, one. I do as law. Yesterday at plateau lip I hear four from herd boy. I want to hear again. I strike your name. A struck name never returns. Roll does not go backward for me or you. That is law. I keep law. I have no name of yours to give. Then he said: Boy, you were there. Your mouth is roll now. Speak our name for this man./
-I spoke first thing seen. Spoke his sitting-place. Said: [Belartsa]{.name data-type="being/npc"}. Threshold./
-[Tórsaro]{.name data-type="being/npc"} spoke after me. Sworn men on gorge’s side after him. Bowmen at stone’s foot on valley’s side spoke. Earned name, given by company. Company was twelve dead, boy, plain lord, plateau./
-[Tórsaro]{.name data-type="being/npc"} took sword from [Belartsa]{.name data-type="being/npc"}’s knees, laid it on stone. Said: This too is yours. Left sword there. Sword remains. Ask stone.
+Tórsaro said: I heard three, and I heard one. I did what the law does. Yesterday on the plateau's lip I heard four, from a herd boy, and I would hear it again. I struck your name. A struck name does not come back. The roll does not run backward, for me or for you. That is the law, and I keep it. I have no name of yours to give you. Then he said: Boy. You were there. Your mouth is the roll now. Say what we call him./
+And I said the first thing I saw. I said what he was sitting on. I said: Belartsa. The Threshold./
+Tórsaro said it after me. His sworn men on the gorge side of the stone said it after him, and the bowmen at its foot on the valley side said it. That is the earned name, and a company gave it. The company was twelve men dead, and a boy, and a plain lord, and the plateau./
+And Tórsaro took the sword from his knees and laid it on the stone and said: That is yours too. And he left it there, and it is there. Ask the stone.
 
-Then people took stones above legion’s baggage. Baggage lay beneath stones. They carried stones up gorge to upper end./
-Each stone, one man. Whole gorge-length past dead. Built cairn beneath plateau where gorge climbs home. Twelve beneath cairn: coastal man, man whose captain fled, four lowlanders, bowman, [[place-eskarath|Eskarath]] brothers, smith’s son with bar, man of dead company with company horn. Nobody blew. Nobody will. Horn lies beneath cairn with man. Horn. Company. Ending./
-They carried [Belartsa]{.name data-type="being/npc"} last on [Belartsa]{.name data-type="being/npc"}’s shield. Set [Belartsa]{.name data-type="being/npc"} atop cairn. I walked before them with empty hands. I am the one who goes. That is my place. That is ending/
-of carrying. I do not sing what lay beneath carried stones. Ask cairn./
-Then I descended to third valley, wife’s holding. She managed seven years without husband’s name. At her threshold I said: He has name [Belartsa]{.name data-type="being/npc"} now. She repeated. She set that name on holding.
+Then they took the stones the legion's baggage lay under and carried them up the gorge to the upper end,/
+every stone, a man to a stone, the whole length of the gorge, past the dead, and raised the cairn under the plateau, where the gorge comes up toward home. The twelve are under it: the man from the coast, the man whose captain ran, the low-country four, the bowman, the brothers from Eskarath, the smith's son with his bar, the man whose company was dead with his company's horn. Nobody blew it. Nobody will. It is under the cairn with him, the horn, and the company, and the end./
+They carried the Threshold up last, on his shield, and laid him at the top of the cairn. I walked in front with nothing in my hands, because I was the one who goes, and that was my place, and that was the end/
+of the carrying. Of what lay under the stones that were carried, I do not sing. Ask the cairn./
+Then I went down to the third valley, to the holding his wife had kept seven years without his name, and I said at her threshold: He is called the Threshold now. And she said it after me. And she put that name on the holding, then.
 
-That is lower end’s long poem. I was there. I carried stone./
-I was herd boy with sling. Sling was all property I owned./
-When horns descend gorge on autumn nights, echo answers from stone,/
-that is recall, one night late, long road down, calling men home./
-They do not come. Let it blow. We do not enter. We leave nothing for legion at cairn. We leave something for ours./
-For [Belartsa]{.name data-type="being/npc"}, man without name, asking for stone,/
-we sing this long poem after evening food. Fire burns low./
-I sing as captain commands. I am the one who goes./
-I do not sing what lay beneath stones. Ask cairn. Now you know.
+That is the long poem of the lower end. I was there. I carried stone./
+I was the herd boy with the sling, and the sling was all I owned./
+When the horns come down the gorge on autumn nights, and the echo answers from the stone,/
+that is the recall, a night too late, the long way down, calling men home/
+who will not come. Let it blow. We do not go in. We leave nothing for them at the cairn. We leave something for our own./
+And for the Threshold, a man with no name, who asked for a stone,/
+we sing this after supper, while the fire is low./
+I sang it as he told me. I am the one who goes./
+Of what lay under the stones, I do not sing. Ask the cairn. Now you know.
 :::
 
-::: {.verse form=oldemo lang=tarv enc=tarvsemaronenc work=oldemo}
+::: {.verse form=oldemo lang=tarv enc=tarvsemaronenc work=oldemo scan=pentameter}
 En ared ir alatho sedon. En lozed talor./
-En ared ular nuron dun lirka. Lirka ared zed hrenkon ol en./
-Ko ombid. Verezos pazad melkar. Karalzo kremed zel./
-Denon ared langa ol zel luren. Ko kezdad itsur./
-Zel thelor. Konalon ol ked ar tigad ir itsur./
-Gauro lokad zel ir nathre ol ohra. Zilko pethred hos talor./
-En thavid ath gauro ir holimos nathre ol goured./
-En lozed talor ir zel luren. Ath anziro dokad hir en./
-Ko urzvalmad kemtho. En tigad us. En antigad zel. Denkanai en ared ankelos./
-En sormad sa orzandon ol ath ar harlen verezos. Zel./
-Us solteros talor. Ath anziro dokad. Ko ared ath tigad.
+Nuron ol ked, ek urtis lirka ir dekazu./
+Ko ombid‼ Melkar pazad, nis karalzo./
+Denon langa ol luren zel, ol itsur alatho/
+zel thelor, ar ked ir. Gauro ir ohra nathre/
+lokad zel, ek zilko. En thavid gauro ir holimandon./
+En urzvalmad korema, antigad zel. Ankelos denkanai./
+En sormad sa alatho dokad, verezos dun ar harlen,/
+«Ko ared kedis tigad.» us talor alatho.
 
-Karza kanel legreth urzvalmad orneth hos orma levros./
-Karza kanel orneth helzad legreth antigai ir valero ol lokandon./
-Legreth thaurad zelorma. Volkema. Kernra./
-Orne dun kemtho. Thorga ol silkared hir tordar ol Lienrik ir nar./
-Legreth ar dunad kured orneth./
-Ir kanel ol helza legreth lokad. Legreth lozed valero./
-Legreth talerad valero pral legreth. Legreth valmad us tambando./
-5000 daro lokad. Kordre. Bandro us thar./
-Moldre. Karuna. Gardro. Pelza ol legreth./
-Legro ir prasedon. Ko ar pethad en hir harlen ol legro./
-Tordar ol legro zured harlen hos therna. En ar sormad harlen./
-Daro ol legro ar thaurad harlen. Legro kerad ar harlen. Ko linkad denon.
+Karza kanel urzvalmad hos zelorma legreth,/
+ek karza orneth helzed alatho hir nebra./
+Legreth thaurad zelorma, volkema ek kernra,/
+veramis dun kemtho, ek thorga silkared Lienrik./
+Orneth ar dunad kured, ar urkis sedon./
+Ir kanel ol helza urkis lokad dun valero,/
+talerad pral vethis, ek valmad us lathon pelre./
+Olmi thamba, bandro ek kordre ek gred,/
+moldre ek karuna, gardro, ek zelma ek pelza,/
+ek pral zed, ath legro. Ar pethad harlen ol legro‼/
+Tordar ol alatho zured harlen hos therna./
+En ar sormad harlen. Ar urkis. Ko linkad deno‼
 
-Tórsaro ared tordar ol valero ol thelor. Harka ol Tórsaro ared thelvar./
-Hos zelvema ol thelor verezos oked karza nar ol valmad dun silkimos ol vethis./
-Tórsaro silkared valero us nebra. Valero urzvalmad./
-Tórsaro dokad. Legreth kured valero ol lenthos urzvalmad./
-Legreth ared konalon ol ked. Konalon tigad ir dadro orma./
-Lenthos valero ared itsur zel enoi. Ko linkad legreth ir itsur./
-Ko linkad thalve hir us luren. Orthe konalon lokad./
-Orthe karuna. Orthe moldre. Orthe verezos ol barthar./
-Tha en anolmad us luren. Tha ko anolmad zel luren lither legreth./
-Ko lendad gaima ir tavre kemtho. Denon ared zed tambavon./
-Daro thavrelad zed dokme. Daro thaled ir therna. Daro pethad urkis lathon./
-Eza kedis thaurad zel luren. Itsur olmad hir nebra. Ar kemtho nol verezos.
+Tórsaro, tordar ol thelor, harka us orneth./
+Hos zelvema oked karza nar ol orma./
+Alatho silkared valero urzvalmad ir ohra,/
+ek dokad «Lenthos ared itsur zel orzel./
+Legreth sa ked. Ko linkad ked ir korla‼/
+Thalve hir luren thelvar, ek lokad ath dolkon,/
+orthe karuna ek moldre, orthe kordar./
+Tha en anolmad luren thelvar, ek ko luren zel anolmad./
+Gaima us korema, ek denon zed ath dokme.»/
+Daro thavrelad, ek pethad urkis hir tordar/
+«Eza kedis thaurad zel, ar kemtho nol solten?»
 
-Ko thavrelad verezos ol ar harlen. Ath verezos kerad harlen pral kanel. Ath verezos thaurad./
-100 atsek us nebra ol karza. Kelza ir dekazu./
-Gred nol henza. Kambetha karzad kombrelalo. Dadro orma./
-Ir arthauna ol luren ol tarnela orven ol ethoros nebra thaled./
-Orven dokad pral arthauna. En kurelad korna hos ko. Korna kerad 9 tarnela. Ar 7. Dekazu seted./
-Ath anziro samed pral ozelos arthauna. Lambis hir lambis. Sa orven samed. Ath anziro linkad dokandon thaled./
-Orven ol ethoros nebra kured ker. En oked. En ared lither orven./
-En oked ker holimai. Ath anziro malked orven urkis kanel dun olmad dekazu./
-Orven nembed us zelvema ol thira. Orven ar thaled./
-Ethoros nar karza orven zarlad hir Tórsaro. Ker lokad orthe./
-Ker ared pethrandon. Ar holimandon. Verezos zarlad us goitsa ir korla ol arthauna. Verezos ared sorthalon ol kalman./
-Tórsaro thavid karza. Tórsaro thavid urkis. Tórsaro ertad sa henthos hir orven./
-Tórsaro zured harlen hos therna. Tórsaro helzed ath anziro hos orzel./
-Ar verezos pethad ular nuron. Nuron ar ared ethro. En ared lither orven.
+Ko thavrelad verezos dun ar harlen, ken kerad harlen‼/
+Karvel atsek us nebra, ek kelza ir dekazu,/
+gred nol henza, kambetha ek dadro kombrelalo./
+Ir arthauna verezos hos ethoros nebra thaled/
+«Korna, lukma, ar neth! Ko setdokad, ar daro!»/
+Samed pral arthauna, lambis hir lambis, sa daro./
+Alethos ker hos. En oked, lither alatho./
+Ker holimai. Malked dun dekazu mandro./
+Alethos nembed us zelvema ol thira, ek ar thaled./
+Ethoros nar karza pral Tórsaro zarlad,/
+ker ared orthe, pethrandon, ar holimandon./
+Us goitsa ir korla. Ared sora ol kalman./
+Thavid karza, thavid urkis, ek nazdad./
+Zured harlen, ek helzed alatho hos kalga./
+Nuron ar ethro. Ar pethad en. Lither alatho.
 
-Ath anziro ar kelmad tordar. Ath anziro dokad. Tórsaro thavid karza. Tórsaro thavid urkis./
-Tórsaro ertad sa henthos dokad. En ar ared ir therna ol Tórsaro. En ar ared hos orneth ol Tórsaro. Ath anziro tigad./
-Hir galtsur. Nelmis dorad ir ethoros kanel. Atsek ar ared ol verezos./
-Ath anziro thaurad gando. Ath anziro ar kured urkis atsek hos konalon ol thelor./
-Ar hos ethoros nebra. 11 orven lokad hir ath anziro. Urkis ethor urkis./
-Orven ol kalmad thramo. Orven ol thrumar alvad hos./
-Orven hos salkon. Orven ar narad zenoton. Ethoros nurethos ol thumba./
-Tavre sembro hos Eskarath. Helza hos zelorma dun pelad kordre. Urkis./
-Urkis ared orven dun gaima. Ath anziro thaurad verezos sa thrumar thaurad ol vethis./
-Ar semna. Ar zelma./
-Kambetha karzad kombrelalo ir nebra ol karza 7 tarnela. Harlen ol kambo ar us kombrelalo. Kambetha ared ath./
-Helzed betsur hir galtsur. Pel hir gaima. Kambetha ar dokad hir verezos.
+Dokad «Thavid karza, thavid urkis./
+Ertad henthos.» Ar kelmo. «En hos therna, ar hos garrunda.»/
+Ek tigad hir galtsur, nelmis dorad ir nural,/
+thaurad gando, ek atsek hos thelor ar kured./
+Lokad umbar ek urkis, sa ked hir ugar,/
+kalman thramo ol urkis. Alvad ath thrumar,/
+hos salkon, zenoton ar dokad. Nuron ol thumba,/
+tavre hos Eskarath, helza hos zelorma, ek urkis/
+urtis dun gaima. Thaurad zed, ar mustra,/
+ar semna, ar pelza. Kambetha karzad dumva,/
+ar harlen, ek helzed betsur ek pel hir durga,/
+ek ar dokad urkis lambis, ar hir sora, ar hir nurma.
 
-Ken legreth lokad ir orneth ath anziro lokad zel hir kalga ol thelor./
-11 orven dun ath anziro. Ar verezos helzed hir orven. Verezos thaled hos kalga./
-Verezos ar ared ir therna. Verezos ar tigad thur kalga ol tordar./
-Tórsaro lokad hos hir ath anziro. Denon ared pethandon. Verezos sormad karza tigen./
-Ko thavid hos kalga. Ath anziro dokad. Ko daimad zel luren hir en. En ared ethor kanel./
-En ar ared ol verezos. Denon konalon ar ared ol verezos. Enoi ared 12. Ko daimad sedon hir enoi./
-Verezos ol ko ar aved tigad hir denon sedon. Tórsaro dokad. En ar dunad daimad sedon hir verezos ol zured harlen ol en./
-Ko ar ared ir therna ol en. En ar dunad daimad lathon hir ko. Ko antigad hir galtsur. Ko sisted.
+Ken legreth lokad, alatho lokad hir thelor,/
+dun umbar ek urkis, ar helzed. Thaled hos henza,/
+holethi kedis zured ar tigad ir, ar ir therna./
+Denon pethandon. Sormad hos karza sedon./
+Ko thavrelad hos kalga‼ Tórsaro lokad hir verezos./
+Dokad «Ko daimad luren zel‼ En lokad ethor./
+Enoi ared dorke, ar ol urkis, ar dun semna.»/
+Tórsaro dokad «En ar daimad hir kedis en helzed./
+Ko ar ir therna. Antigad hir galtsur, sisted ir nelmis‼»
 
-Ath anziro thaled pral Tórsaro ir kalga ol thelor. Ko thavid hos solthen ol tordar./
-Tórsaro oked ath anziro. Dadro gred. Dadro kelza. 11 mazeron. Tórsaro pelmad./
-Verezos gerpalad thaurad zel luren. Ath verezos ared daro ol Tórsaro. Eza kethos ozon./
-Daro ol Tórsaro antigad us hos zel luren. Tórsaro kezdad ozon. Ozon ared arzun. Denkanai./
-12 ar ol Tórsaro thaled. Henthos ar esthared Tórsaro daimad lathon. Henthos ar gerpalad Tórsaro helzed verezos hos. Tórsaro ared nenos ek galthos. Tórsaro dokad kramo./
-En aved mazeron gathad ko mazer gathad daro ol en. Ko kezdad. Ko pethad antigai. En dokad ar varelin dun denon.
+Thaled pral Tórsaro ir kalga. Ko thavrelad hos tordar‼/
+Oked kelza, umbar ek urkis holvo,/
+luren zel gerpad daro ol vethis, ol orzel,/
+arzun antigad, ek alatho kezdad ozon./
+Ek denkanai dorke, ar ol alatho, nol henza ol thorga./
+Henthos ar esthared daimad, ar gerpalad helzed hos./
+Nenos ek galthos, dokad kramo dokme/
+«En aved gathad ko mazeron mazer sora./
+Ko kezdad denon. Pethad antigai, en dokad ar, hir ko.»
 
-Ath anziro thaled pral Tórsaro ir kalga ol thelor. Ko thavid hos talor./
-Ath anziro dokad. En ar pethad ko hir sedon ol thramzo. Zel luren ar ared ir therna ol ko. Zel luren ared orma./
-En pethad ko hir talor. Ath anziro vagad zel korema. Orven ol thelor halved./
-Solteros talor us madro ol itsur. Orven sedad talor dun lebro. Orven linkad talor thaled hos verezos./
-Hir nembandon ken orthe karuna lokad ir. Ath anziro dokad. En zarlad us alatho talor. Ar hir ko. Ar us goitsa ol ko./
-Ir korla ol ko. Karza orven zarlad. Alatho talor. Pral nembandon./
-Tórsaro dokad. En ar kured tholza ol ko. Talor kured tholza. Ko tigad zel.
+Thaled ir kalga. Ko thavrelad hos talor ol tholza‼/
+«Ar sedon. Luren zel ar ir therna, ared orma./
+En pethad talor.» Vagad zel, hir talor sa thorga/
+us itsur. Daro granad, ek linkad dorad,/
+hir nembed ken orthe karuna ared ir korla./
+Dokad «Ko linkad en zarlad us alatho, ar hir tordar,/
+ar us goitsa ol ko ir korla‼ Zarlad karza sora.»/
+Tórsaro «En ar kured. Talor kured. Tigad zel, ko‼»
 
-Ath anziro tigad zel valero ol korema hir talor. 11 tigad ir ozelos valero./
-En tigad lither 11. Ar verezos helzed en. En tigad hos konalon ol ked ol elte ir alatho nar./
-Ath anziro lendad dekazu us talor. Talor anolmad itsur. Ath anziro dokad./
-En thaurad zel luren hir kanel ol ar kramena ol itsur. Ves hir kanel ol kolva ol en. Denon ared zed dokandon./
-Orven ol thelor thaled nol talor hir ethro sa henthos gerpalad. Enthamis ol ethro pelzad elzen./
-Talor sedad nis zel dekazu. Talor kerad ozelos solko. Denon ared solko./
-11 zarlad ethor ath anziro. Urkis ethor urkis. Ozelos lambis. Ozelos talor. Orven hos salkon kerad zenoton. Ar dokad./
-Orven dokad tavre kanel. Hir kezdandon ol nasdelos lambis. Orven silkad kir. Orven oked en. Orven ar helzed en hos./
-Orven dokad. Ko ared nuron hos arthauna. Ko ared ath tigad. Ko dorad.
+Tigad zel. Umbar ek urkis lither alatho,/
+ek en lither, ar helzed, ked ol elte ir galtsur./
+Us talor ol itsur alatho lendad dekazu,/
+En thaurad luren zel hir ar thavandon, ves en ared kalman./
+Ethro ol thelor thaled nol. Enthamis sa karvamon./
+Talor sedad nis, daro granad./
+Zarlad umbar ek urkis us ozelos talor./
+Hos salkon zarlad tavre, lambis hir lambis./
+Tha oked nuron ol arthauna, ek ar helzed denkanai./
+«Ko ared kedis tigad. Ko dorad nol dalmor‼»
 
-Denon ared lozandon ol 12 ir pral nathre./
-Thrumar dun ar harlen kerad kelza ek gred ek kornel ol galtsur./
-Thumisa ol nelmis ir dalmor. Nurethos ol thumba kerad malka ek lotaro ol ardal. Ar mazeron./
-Orven ol kolva ol thramo kerad gauro ol thramo. Orven ar aved goured. Orven zarlad./
-Orven ar goured hir kanel ol urkis thramzo ol thramo thernad hir thavid. Orven hos salkon kerad kadzo. Kadzo ared mazeron dadro hir orven. Orven kerad./
-Sa orven kerad lathon. Orven gerpalad pethred hir lathon./
-Sembro ol Eskarath kerad lirka sa ol en. Urzele sembro kerad loztalor. Sembro dokad ar mazeron./
-Mazer gerpalen. Sembro ared alvos ir alethos. Helza hos zelorma kerad kordre ol vethis. Pelad. Gaima. Gred ol thelor. Orven ol gaima kerad gaima./
-En kerad lirka ek betsur hos kambetha ol thrumar. Kornel ol en. Ozkur. Denon ared makra ol en./
-Enoi nalid lither talor ir nathre. Enoi ar kremed karalzo. Itsur zel ared mandro. Karalzo ol legreth ir aldor zel itsur. Alatar zel.
+Ir nathre pral, denon ared lozandon ol dorke,/
+thrumar dun ar harlen, kelza ek gred, ek kornel/
+ol galtsur, dun nelmis nelvos us dalmor ek dolkon,/
+nuron ol thumba, malka, lotaro, solko,/
+ath ol thramo kalman lozed gauro ol sora,/
+zarlad ar goured, zai ar thavid holvo,/
+hos salkon, kadzo mazeron dadro, sa orhen,/
+sembro hos Eskarath, lirka sa ol en, loztalor, ar dokme,/
+helza, kordre pelad, gred ol tordar./
+En lozed lirka, betsur ol kambetha, ek ozkur./
+Nalid lither talor, ar karalzo, ar korvath./
+Itsur mandro. Karalzo ol legreth zel ir orma.
 
-Legreth lokad ir itsur ir ethoros prama. Thalve ir urzandon ol korvath./
-Holimos verezos ol talerad valero. Ethor verezos ol lozed tambando./
-Ethor kordre. 100 kordre. Bandro. Legro zel bandro us elzen korneth./
-Kordre antigai. Kordre. Zed prama. Itsur kerad zed kramena./
-Enoi nalid lither talor. Enoi ozimad. Enoi anhalved ozon. Enoi ozimad antigai./
-Ethor barthar. Moldre. Karuna. Moldre. Karuna dun tirkel ol ardal. Tirkel sormad us talor ol valero./
-Moldre antigai. Orthe karuna. Orthe moldre. Nuron ar ankelos mazer en ir luren ol therna./
-Nuron trumed orthe moldre dun thar. Nuron silkad us korema urkis kanel. Nuron ar oked enoi. Nuron tigad.
+Thalve ol legreth tigad ir itsur ir prama./
+Holimos gardro, ethor lozed tambando,/
+tha kordre, karvel kordre, ek legro zel bandro,/
+kordre ek kordre ir prama. Itsur kramo./
+Ozimad, anhalved, ozimad tavre kanel./
+Tha barthar, karuna dun tirkel sormad us talor./
+Orthe moldre. Nuron sa en trumed dun thar./
+Silkad us, ar oked enoi, ek tigad alatar.
 
-Tha us luren nembed. Enoi thavid alatar us. Zel dolkon ol thelor./
-Sa holimos galdur ol tarnela hos oztuka. Ormela urzid hos itsur sa karvamon. Kramena ethor./
-Thrumar dun ar harlen lendad dalmor hir talor. Enoi lendad ol enoi. Talor ar sedad. Ar sedad. Tha./
-Talor nembed. Sa kemtho nembed. Ar sa urkis talor. Talor tigad zel aldor. Madro ol itsur anolmad. Enoi thaled us dolkon ol talor./
-Thrumar thaled us talor ol tholza. Thrumar zunded kelza. Thrumar dokad. Denon ared zed. Denkanai enoi thaurad. Denon ared zed./
-Gaima ir tavre kemtho holimad. Ilteron pelzad kaure.
+Luren thelvar nembed. Thavid alatar,/
+sa galdur hos oztuka. Urzid ormela sa karvamon./
+Thrumar dun ar harlen, ek enoi, lendad dalmor./
+Ar sedad. Ar sedad. Tha nembed sa kemtho, ar talor,/
+madro anolmad. Enoi thaled us alatho./
+Zunded kelza, dokad «Tambro. Denkanai.»/
+Gaima holimad. Ilteron pelzad nathre.
 
-Zed alatho nar legreth tigad us itsur hir us luren. Geril nembed hos tavre zelvema./
-Kordre urzid us thalve. Tharo ol kordre. Geril halved semba. Orven kalmad./
-Zel tharo. Tharo anolmad us orven. Tharo tigad us itsur. Talor nembed hos sedon thelvar./
-Tharo kermad. Tharo anolmad antigai. Enoi thavid zed hos zel luren. Zed luthron./
-Ar verezos pral enoi. Enoi ombid us talor. Enoi zunded gaima. Enoi silkared mandro itsur. Luthros./
-Prama ek ethor nardzirun. Orven hos salkon dokad. Zikai legreth ar lokad zel. Zikai zed legreth tigad us ek kalmad./
-Thrumar dun ar harlen dokad. Legreth lokad ir nathre.
+Legreth tigad us. Geril nembed, ar ithros./
+Tharo ol kordre. Halved semba ath irtho./
+Kalmad zel. Tharo anolmad us, ek tigad us itsur./
+Talor nembed. Tharo kermad, ek holimad./
+Enoi thavid zed hos luren zel, hir hilta./
+Ar urkis pral enoi. Ombid, zunded, sisted,/
+silkared mandro itsur ir prama ek nardzirun./
+Hos salkon «Zikai zed kalmad. Ar antigad.»/
+Thrumar dun ar harlen «Ir nathre lokad. Sisted‼»
 
-Ko thavrelad antigkramon denkanai. Verezos sormad karza tigen. Ko thavid hos legro. Ir nardzirun legro kezdad./
-Legro ombid us elzen korneth zel bandro. Legro oked anervon ol vethis. Valero hos itsur ared valero ol lokandon./
-Legro ar orzad goured. Legro helzed orven us kemtho. Orven nembed. Legro helzed orven thur./
-Geril hir us luren. Orven kalmad ir nembed talor. Holimos zirtho. Ethoros dun denon./
-Zai legro goured antigkramon ir alatho kanel. Tha legro dunad kured legreth hos itsur pral kezdandon ol kemtho./
-Ol tigen ol tigad. Legro kerad 5000. Enoi ared 12 ek nuron. Legro ar kezdad. Legro ar aved varelza./
-Tordar helzed legro hir lendad thauron ir thelor. Orven ol orzandon ar antigad ir nardzirun holethi zolmos geril./
-Legro ar goured. Ath ared nardzirun ol kezdandon ol legro.
+Ko thavrelad antigkramon hos legro‼ Ar hos thrumar./
+Zel bandro ir nardzirun kezdad, valero urkis./
+Helzed us korema, nembed. Thur geril, hir luren,/
+kalmad nol talor, zirtho ek zirtho. Ar urzid./
+Zai goured, hos pral kemtho kezdad luren./
+Olmi thamba. Enoi dorke ek nuron./
+Legro ar kezdad, ar aved varelza, ar dunad./
+Daro ar antigad, holethi geril sa hurdis./
+Denon ath nardzirun kezdad. Ar goured, ar urkis.
 
-Ko thavrelad antigkramon hos zel luren. Zed nar enoi ombid us talor. Enoi ar thavid gauro./
-Orven ol kalmad thramo thaurad gauro us krinemon. Orven pelzed gauro. Antigai. Orven dokad. Legreth ar goured. Legreth dadrad goured pral./
-Ethoros talor ol nembandon hos kemtho. En goured ir holimos. En goured ken en oked itsur. Pral./
-En lozed legreth ir. Thrumar dun ar harlen dokad. Ko kerad galeza. Urzele galona ol ar goured ared galona ol ar lokad hir enoi. Ko linkad legreth kerad vevelda. Ko linkad legreth us ir vevelda hir kanel ol dunandon ek urkis galona mazeron./
-Thrumar selad gred us talor ol tholza. Luthron tigad hos itsur. Ar verezos goured gauro.
+Ko thavrelad antigkramon hos luren zel‼ Ir korvath,/
+ath ol thramo kalman sedad gauro ol holvo/
+us krinemon, antigai, ek dokad «Alatho ar goured, ko./
+En goured holimai, pral ked tigad ir korla.»/
+Thrumar dun ar harlen «Galeza! Urzele galona/
+ar goured ared galona ar lokad hir dorke./
+Linkad vevelda dorad us, ek thaurad solko‼»/
+Alatho selad gred us talor ol tholza./
+Luthron tigad hos itsur, ek ar gauro hos orneth.
 
-Ko thavrelad antigkramon hos nathre. Ken luthron tigad hos kemtho. Gauro holimad./
-Legreth goured antigkramon hos zirun ol itsur. Zel hir enoi. Antigai. Antigai./
-Thavandon lokad zel itsur sa ulmer. Thavandon malked talor. Thavandon antigad us./
-Zed legreth pelzed ir nathre. 5000 orven./
-Kordre. Moldre. Karuna dun tirkel ol ardal. Legro us elzen korneth. Ethor./
-Legreth lokad zel hir zel luren. Hir talor. Hir enoi. Urkis nathre ethor kanel. Zai legreth goured ir nardzirun. Tha legreth tigad hos pral nembandon ol talor. Legreth goured ir alatho kanel./
-Ir nathre. Enoi thavid. Enoi urzid hos talor. Enoi zunded gaima. Enoi thaled ir therna. 12. Nuron ir luren./
-Denon ared antigkramon. Urzele ohra gauro lokad zel itsur hir alatho talor. Ular thavid. Ular ar tigad ir. Gauro kramed hir antigandon ol orven. Orven ar dunad antigad.
+Ko thavrelad antigkramon hos nathre‼ Luthron hos korema,/
+gauro hos zirun. Thavandon lokad zel sa siretha,/
+malked talor ek antigad us hir zed legreth./
+Huzad ir nathre, olmi thamba verezos,/
+kordre, karuna, legro, dun dorandar valero,/
+lokad hir talor, urkis nathre ethor./
+Zai goured ir nardzirun, tigad hos pral nembed./
+Goured ir nathre. Urzid, zunded kelza,/
+thaled, dorke, ek nuron ir orthe sedon./
+Denon antigkramon, goured urzele tarnela./
+Ular ar tigad ir. Kramed. Ar urkis pethred.
 
-Legreth lokad hir talor ir nathre. Enoi kolvad orven ir talor./
-Orven urzvalmad enthamis ol talor. Kordre us dolkon. Kelza kolvad orven ken orven urzid./
-Sembro ol Eskarath helzad talor hir enthamis zel kovrathal. Nurethos ol thumba kermad dekazu us talor dun lotaro. Orven nembed. Mazeron urzid./
-Legreth ambred edran hos karuna. Legreth lendad edran hir talor. Enoi helzad edran zel ek orven us edran. Mazeron urzid./
-Orven hos salkon kordad dun dadro kadzo. Kadzo ar ared mazeron dadro hir orven. Gred hos zel kolvad orven. Dorandar helzandon./
-Orven ar dokad lathon. Orven dun zenoton. Orven nembed lither talor. Solten hir dumva./
-Orven ol alvad thrumar kalmad ir valma ol edran. Orven ol helzad hos edran urzid ek kolvad./
-Tavre ol helza hos zelorma kalmad. Pelad kordre nembed pral talor zolir kordre ol legreth. Ar verezos dunad zarvoked alethos. Ar verezos kezdad./
-Zed nathre legreth lokad hir talor. Zed nathre antigkramon goured lither legreth. Urzele kanel thrumar dun ar harlen thaled us talor. Thrumar dokad. Ir denon sedon. Goitsa ared ir denon sedon.
+Lokad ir nathre. Enoi kolvad ir luren./
+Kordre us dolkon urzvalmad. Kelza kured./
+Hos Eskarath, talor zel kovrathal. Ek nuron ol thumba/
+kermad dekazu dun lotaro. Zel nembed, sa ulmer./
+Enoi helzad edran zel. Mazeron urzid./
+Kadzo ozelos ol hos salkon. Alatho dunad./
+Gred hos zel. Ar dokad zenoton. Nembed hir dumva./
+Zel edran verezos kolvad ath ol alvad thrumar./
+Tavre kalmad. Kordre ir kordre ol gruma./
+Zed nathre lokad, ek gauro sa hurdis./
+«Denos. Denos ath talor.» Dokad thrumar.
 
-Ir prama enoi ared zorma. Kalman pral talor kerad dak ol urkis orven./
-Legreth tigad us itsur nis teredon hir zirvad./
-Thrumar kramed en. Thrumar lendad dekazu us thalve ol en. Thrumar dokad. Ko ared ath tigad. Ko tigad hos./
-Enoi denkanai. Ko urzvalmad kemtho hir Tórsaro. Ko dokad. Zel luren thaurad. Ath anziro dokad thaurad. Zai Tórsaro pethad lathon. Ko narad varelza. Ko antigad zel hir en./
-En urzvalmad ir valero ol guzta. Legreth gorad hir en hos itsur. Legreth ar malked en. En tigad pral verezos ol gaima ir korema. Kurnel ared ithros. Lamothos ared anthurkos./
-En lokad hir Tórsaro ir zelvema ol thelor. En dokad. Tordar. Zel luren thaurad. Ath anziro dokad thaurad. Tórsaro silkad zel hir talor. Kalman zel talor. Zorma us talor. Nis ek alatar zel./
-Tórsaro dokad. Eza ko ared kedis. En dokad. Ular nuron hos arthauna. En ared lither orven. En oked ker. Ker ol alethos. Ker holimos. Ar verezos pethad en. Denkanai en dokad./
-Tórsaro ar dokad hir kanel ol zunded kelza. Tha Tórsaro dokad. Ko antigad zel. Ko narad hir ath anziro. Ko thaurad hir ethoros nathre. Ko narad. En kerad ar verezos hir helzed. En kerad ar verezos hir thaurad./
-En antigad zel. Verezos orzad en hir narad varelza ek antigad zel. En narad. En lokad. En ared ath tigad. Ar verezos pethad en hir dokad. Verezos orzad en hir dokad.
+Ir prama zorma. Kalman, dak ol verezos./
+Legreth antigad nis us itsur, ek thernad./
+Thrumar lendad dekazu us thalve, ek helzed/
+«Ko ared kedis tigad. Urzvalmad hir thelor‼/
+Luren zel thaurad, alatho dokad denon./
+Zai pethad, narad varelza‼ Antigad zel hir en‼»/
+Urzvalmad sa guzta. Hos itsur pel nembed./
+Kelzaro ir korema, kurnel ithros ol geril./
+Ethor, en lokad hir tordar Tórsaro nol zelvema/
+«Luren zel thaurad, alatho dokad denon.»/
+Silkad zel, zorma us talor, nis sa ked./
+«Eza kedis?» «Ath nuron. En oked ker./
+Ker ol alethos, holimos. Ar pethad. En pethred.»/
+Tórsaro sisted hir kanel ol zunded kelza./
+«Ko antigad zel‼ Thaurad hir ethoros nathre, nenos‼/
+Narad ‹Ar urkis hir helzed. Ar urkis en kerad.›»/
+Antigad ek narad. En kedis tigad. En ethro.
 
-En dokad us talor. Tordar dokad thaurad hir ethoros nathre. Tordar kerad ar verezos hir helzed./
-Thrumar dun ar harlen lomed. Dadro lomandon. Urtis lomandon. Thrumar dokad. Ath ared nenos orven. Ath ared tordar. Hir ethoros nathre tha./
-En narad alethos. En dokad ol arthauna hir Tórsaro. Thrumar sistad lomandon. Thrumar silkad en dorandar kanel. Sa orven silkad korna ol verdo. Orven ar varelad kurelad korna hir alatho verdo. Tha./
-Thrumar dokad. Dadro. Tórsaro thavid helza denkanai. Thrumar pelzed hir itsur antigai./
-Legreth lokad zel. Zed nar. Prama. Nardzirun. Ethor nardzirun. Urzele kanel legreth lokad hir talor. Legreth kerad ithros orven./
-Ithros ol enoi konad legreth. Legreth lokad antigai./
-Sembro ol Eskarath kalmad ir nardzirun. Nol urkis alethos. Sembro dokad ar lathon karza nar. Ar lathon ir luren./
-Nurethos ol thumba kalmad us edran. Lotaro ir tavre dekazu. Edran nembed dun nurethos ek karza orven ol legreth. Orven ol kalmad thramo kured gred ir solten. Orven ombid us talor. Gauro us krinemon. Orven ar urzid antigai./
-Orven ol gaima kured gorandon hos zel ir ethor nardzirun. Orven nalid ir sedon ol nembandon. Ir zelvema. Dun gaima. Ar geril dorad.
+En dokad us talor «Thaurad hir ethoros nathre‼»/
+Thrumar dun ar harlen lomed, dadro lomandon./
+«Denon nenos verezos, tordar ol lambis.»/
+Narad ker. Sistad, silkad en dorandar,/
+sa silkad korna ar orvad halved, dadro./
+Tha dokad «Alatho thavid helza denkanai.»/
+Tha huzad antigai hir zelvema ol itsur alatho./
+Legreth lokad, nis ek nis sa karalzo,/
+sembro kalmad ir nardzirun, dalmor nol dalmor./
+Karza nar ar dokad. Ir luren, ar lambis./
+Nuron ol thumba kalmad us edran, dun lotaro,/
+edran nembed, dun alatho ek karza kalman./
+Gred ir solten. Ath ol gauro ombid us talor,/
+gauro us krinemon. Ar urzid, ar urkis kanel./
+Kelzaro nalid nol zelvema, kurnel mandro.
 
-Pral orthe kanel ol lokad ol legreth thrumar dun ar harlen thaled us talor. Enoi ared karza. Thrumar dokad hir enoi. Ath ared dokandon. Ko dokad dun en./
-Verezos zured en hos therna. En ar ared ol verezos. Ko ar ared ol verezos. Enoi kerad ar thrumar. Ar semna. Ar pelza./
-Ar verezos helzed enoi ir denon sedon. Enoi pethad. Enoi zarlad us denon talor. Talor kured tholza. En thaurad orneth ol tordar 7 tarnela. Ar verezos pethad en. En thaurad denon talor denon nar./
-Legreth lokad holethi gauro orzad lokad. Legreth ared nasdelos hir lokad. Denon ared urtis valero hos itsur. Valero ared anolmad. Enoi anolmad. Gauro ol legreth ared urkis nathre ethor kanel. Enoi ared talor ir valero./
-Ko thaurad hir ethoros nathre. Ath ared lambis ol nenos orven. En aved mazeron lambis ol nenos orven mazer therna. Therna ared letima. Talor ared talor. Talor ar tigad hos./
-Thrumar zunded kelza orthe kanel. Orthe legreth urzvalmad talor hir enoi. Nar ared.
+Pral orthe, thaled us talor. Karza ol dorke./
+Dokad hir karza. Denon ath dokme. Dokad dun en, ko./
+«En zured hos therna. Ar ol urkis. Ar thrumar, ar sora,/
+ar semna, ar pelza. Pethad, ar helzed ol tordar./
+Zarlad us talor, ek talor kured tholza./
+Neth tarnela, ar pethad, en thaurad orneth./
+Thaurad talor denon nar, ir korvath./
+Gauro helzed. Lokad, ek nasdelos, holvo./
+Urkis valero hos. Enoi anolmad, sa korla./
+Urkis nathre ethor. Talor sa thorga./
+Thaurad hir ethoros nathre, nenos dokme./
+Therna letima. Talor talor. Ar tigad hos.»/
+Zunded kelza. Orthe urzvalmad, ir ohra.
 
-Thrumar kolvad holimos orven us talor dun kelza. Ethoros dun gred./
-Gred kermad ir karzore orven. Thrumar kured kadzo ol karzore. Thrumar thaurad us luren ol talor dun kadzo./
-Us talor ol tholza. Sedon ol lendad dekazu. Tavre orven nol thrumar kalmad. Urkis. Ethor alethos. En ared lither thrumar dun lirka ek orthe talor ol Eskarath. Legreth ar kolvad en. En ar kezdad holethi kethis. En ared ath tigad. Zikai denon ared zenoton. Verezos perad en./
-Legreth urzvalmad talor. Thrumar ared us talor. Legreth lokad hos prasedon ek tavre solten. Malked thrumar. Malked antigai. Thrumar ar nembed hos talor. Thrumar nembed us talor. Thrumar ombid us talor. Kadzo us krinemon. Sa thrumar umeltad./
-Orven us talor tigad us thrumar. Orven halved en. Nuron dun mandro lirka. Tavre orven kured en. Karzore silkad zel hos talor. Karzore kramed hir itsur. Tha luthron tigad. Ethoros nathre lokad. Thrumar thaurad hir ethoros nathre. Thrumar thaurad nar. Thrumar thaurad ir alatho sedon.
+Kolvad holimos dun kelza, ethoros dun gred./
+Gred kermad. Kadzo thaurad sedon,/
+us tholza. Tavre kalmad, urkis, tha alethos./
+En lither alatho dun lirka. Ar kolvad en. Ar kezdad./
+En kedis tigad. Zikai denon. Perad en./
+Malked alatho ek malked. Alatho ar nembed./
+Ar hos talor. Us talor. Ombid, kadzo us krinemon,/
+sa umeltad. Halved nuron. Lirka ar kerad./
+Tavre kured en. Karzore kramed zel, hir legreth./
+Tha luthron tigad, ek ethoros nathre pelzad./
+Thaurad nar. Thaurad, ek thaurad denon.
 
-Ir ethoros nathre gauro goured antigkramon. Ar verezos lokad./
-Legreth kerad us luren ol talor. Talor ared zed madro ol itsur. Ozelos./
-Talor. Enthamis hir nebra kerad samdon ol helza orven. Enthe ath thelvar kemtho./
-Verezos ol gaima ol thelor lokad zel valero ol korema ir nathre. Verezos thaled ir valma./
-Verezos gorad hir verezos us talor. Thumisa ir orthe elzen luthron./
-Legreth ar tigad mazer talor. Talor ared sathos. Talor ek ath anziro ir valero./
-Gauro goured hos zirun ol itsur. Orven ol legreth tigad hir talor. Orven ar antigad ir valero./
-Ol tigad. Gauro goured. Ithros gauro. Ir prama urkis gauro goured. Ethor arzun. Ath ared nar./
-Tavre orven linkad en ir nathre. Verezos ol gaima gorad hir us luren. Enoi nalid us talor./
-Orven alvad antigai zel ir itsur hir ol legreth. En nalid nol thrumar. Dekazu us thalve ol en. En dorad./
-Hir kanel ol sistad ol gauro. Denon ared zed antigkramon. Gauro doranthi goured. Doranthi kramed. Ar verezos lokad. Ozelos.
+Ir ethoros nathre gauro kramed, arzun./
+Kerad us talor. Ek talor ared madro,/
+enthamis enthe, samdon ol helza thramzo./
+Kelzaro ol thelor lokad ir nathre, zel talor,/
+ek gorad hir kedis thaled us, kaure sa thar./
+Ar lokad mazer talor, talor, ek alatho./
+Gauro goured. Daro tigad, ar antigandon./
+Ithros gauro. Ir prama urkis. Tha mandro./
+Tavre linkad en ir nathre, alvad hir thramo./
+En nalid nol alatho, tavre dekazu us thalve,/
+dorad, ken gauro sistad. Zed antigkramon./
+Goured. Ar urkis lokad, sa zed nar.
 
-Ir prama Tórsaro lokad zel valero ol korema. Daro ir therna./
-Verezos tigad ir itsur. Verezos ozimad kalman zolir talor. Hir kanel ol zel luthron./
-Zel karuna ol nembed ir solten verezos halved bandro ol legro. Tholbon doranthi us thar./
-Legro zel bandro. En ar sormad harlen ol legro. Harlen ared ol Orzalon. Orzalon ar thaurad./
-Harlen. Ko linkad legro sa tambando ol tordar ol legro. Orven. Ar verezos kerad gerpalo hir orven./
-Ir hilta Tórsaro lokad hir zel luren. Tórsaro urzvalmad talor hos solten ol itsur. Us kalman. Urtis Tórsaro./
-Tórsaro halved en ombid nol ar harlen verezos. Kadzo us krinemon. Enthamis hir nebra. Solkadon./
-Sa ular oked hir ozimad konalon ol ked. Ular ar oked ked zel durka./
-Tórsaro thaled dorandar kanel us talor. Tha Tórsaro dokad.
+Ir prama Tórsaro lokad zel dun daro ol orzel./
+Ozimad kalman ir itsur hir nembandon ol korvath./
+Zel karuna halved thulemon, ek legro zel tholbon./
+Ar sormad harlen. Ar thaurad alatho orzalon, ko./
+Ko linkad alatho ared verezos dun ar orhen‼/
+Ir hilta urzvalmad us kalman, urtis, hir tholza./
+Halved nuron nol alatho, kadzo nol solten./
+Silkad zel sa ular ir durka ozimad ozon./
+Tórsaro thaled dorandar us talor, ek dokad.
 
-Tórsaro dokad. En thavid karza. En thavid urkis. En ertad sa henthos. Pral denon nar ir zelvema ol thelor en thavid helza hos ular nuron. En aved thavid antigai. En zured harlen ol ko. Zured harlen ar antigad. Therna ar tigad hir anprasedon. Ar hir en. Ar hir ko. Ath ared henthos. En thaurad henthos. En kerad ar harlen ol ko hir daimad. Tha Tórsaro dokad. Nuron. Ko ared ir alatho sedon. Madro ol ko ared therna denkanai. Ko dokad harlen ol enoi hir ath verezos./
-En dokad holimos lathon ol okandon. En dokad lathon ol sedon ol ombid ol thrumar. En dokad. Belartsa. Belarts./
-Tórsaro dokad ethor en. Daro ol Tórsaro ir solten ol itsur dokad ethor Tórsaro. Verezos ol gaima ir valma ol talor ir solten ol nebra dokad. Ath ared kiramharlen. Thramo daimad. Thramo ared 12 kalman ek nuron ek nenos tordar ek thelor./
-Tórsaro kured kadzo hos krinemon ol Belartsa. Tórsaro lendad kadzo us talor. Tórsaro dokad. Denon ared ol ko dun denon. Tórsaro linkad kadzo ir alatho sedon. Kadzo dorad. Ko pethad talor.
+«En thavid karza, thavid urkis, ek nazdad./
+Thavid helza hos nuron. Thavid denkanai./
+En zured harlen ol ko. Ar antigad zured harlen./
+Therna ar tigad hir anprasedon, ar hir tordar ves daro./
+Denon henthos, ek en thaurad. Ar harlen ir dekazu./
+Nuron, ko oked. Madro ol ko therna denkanai./
+Ko dokad harlen enoi daimad hir alatho‼»/
+En dokad sedon ol ombid «Belarts. Belartsa.»/
+Tórsaro dokad, ek daro, ek kelzaro ir nathre./
+Denon kiramharlen. Thramo daimad harlen./
+Nuron, tordar, thelor, ek dorke kalman./
+Tórsaro «Ol ko, dun denon.» Lendad us talor kadzo./
+Dorad ir denon nar. Ko pethad talor‼
 
-Tha verezos kured talor ol barthar ol legreth. Barthar nalid zel talor. Verezos lozed talor us itsur hir us luren./
-Urzele talor. Urkis orven hir talor. Zed teredon ol itsur. Pral kalman. Verezos gaurad zurga zel thelor. Itsur urzvalmad hir dumva. 12 ared zel zurga. Orven hos salkon. Orven ol alvad thrumar. Helza hos zelorma. Orven ol gaima. Sembro ol Eskarath. Nurethos ol thumba dun lotaro. Orven ol kalmad thramo dun gauro ol thramo. Ar verezos goured. Ar verezos goured ir lokanti. Gauro ared zel zurga dun orven. Gauro. Thramo. Luren./
-Verezos lozed Belartsa orthe us kordre ol Belartsa. Verezos lendad Belartsa us zurga. En valmad pral verezos dun mandro dekazu. En ared ath tigad. Ath ared sedon ol en. Ath ared luren./
-Ol lozandon. En ar sormad lathon zel talor ol lozandon. Ko pethad zurga./
-Tha en tigad zel hir nebra ol karza. Hir kombrelalo ol kambetha. Kambetha karzad 7 tarnela. Ar harlen ol kambo. En dokad ir belarts ol kambetha. Verezos kerad harlen Belartsa denkanai. Kambetha dokad ethor en. Kambetha lendad ath harlen us kombrelalo.
+Kured talor ol barthar, urkis ek urkis,/
+talor hir verezos, nol kalman. Zurga urzid/
+zel thelor, ir luren thelvar ol itsur, hir urtsa./
+Dorke zel, hos salkon, helza, sembro, ath thumba,/
+kelzaro, ath ol gauro dun gauro, ath ol alvad thrumar./
+Ar goured. Ar lokanti. Gauro, thramo, luren./
+Orthe Belartsa us kordre. Zurga kured./
+En pral, dekazu mandro, kedis tigad, ath nuron./
+Kethis zel talor, en ar sormad. Ko pethad zurga‼/
+Tha tigad zel hir karzore nebra, hir kambetha ol thrumar,/
+ir belarts «Belartsa.» Kambetha dokad, ek kured./
+Neth tarnela ar harlen. Tha harlen us dumva.
 
-Ath ared langa ol zel luren. En ared ir alatho sedon. En lozed talor./
-En ared ular nuron dun lirka. Lirka ared zed hrenkon ol en./
-Ken gauro lokad zel itsur ir nathre ol ohra. Zilko pethred hos talor./
-Ath ared antigkramon. Urkis nathre ethor kanel. Dorandar valero zel. Kramed hir dumva ol orven./
-Orven ar lokad. Ko linkad goured. Enoi ar tigad ir. Enoi linkad ar lathon hir legreth ir zurga. Enoi linkad lathon hir ol enoi./
-Hir Belartsa. Verezos dun ar harlen. Verezos pethad hir talor./
-Enoi sormad ath langa ethor paza ol hilta. Karalzo kremed zel./
-En sormad sa orzandon ol thrumar. En ared ath tigad./
-En ar sormad lathon zel talor. Ko pethad zurga. Denkanai ko kezdad.
+Denon langa ol luren zel. En lozed talor./
+Nuron ol ked, ek urtis lirka ir dekazu./
+Ken gauro ek zilko lokad zel ir ohra nathre,/
+urkis nathre ethor, denon antigkramon./
+Kramed. Ar lokad. Linkad goured, hos alatar‼/
+Enoi ar tigad ir. Nol zurga ar lathon hir alatho,/
+lathon hir sora. Ek hir Belartsa, verezos dun ar harlen,/
+pethad talor, sormad nol nis karalzo./
+En sormad sa dokad. En kedis tigad, denkanai./
+Ar sormad zel. Ko pethad zurga‼ Ko kezdad langa.
 :::
 
 ## See Also

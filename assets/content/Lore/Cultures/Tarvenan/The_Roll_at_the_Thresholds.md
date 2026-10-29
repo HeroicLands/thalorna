@@ -29,468 +29,547 @@ Is the stone here?/
 THE COMPANY/
 The stone is here./
 THE CAPTAIN/
-Is the stone cold?/
+Is it cold?/
 THE COMPANY/
-The stone is cold./
+It is cold./
 THE CAPTAIN/
-Then the stone is the stone.
+Then it is the stone.
 
 THE CAPTAIN/
-The year goes out of the gate./
+The year goes out at the gate./
 THE COMPANY/
-Let the year go out./
+Let it go out./
 THE CAPTAIN/
-The year enters the gate./
+The year comes in at the gate./
 THE COMPANY/
-Let the year enter./
+Let it come in./
 THE CAPTAIN/
-The gate’s god has two faces. The god sees going and coming./
-We each have one face. We turn toward the stone./
+The god of the gate has two faces, and sees it go, and sees it come./
+We have one face each, and we turn it to the stone./
 THE COMPANY/
-We turn toward the stone.
+We turn it to the stone.
 
 THE CAPTAIN/
 This is the roll. I carry it./
-Who marches with me this year and stands here says here./
-Who marches with me this year and is absent, their comrade speaks./
-A name is struck. Nobody speaks./
+Who marched with me this year, and is here, say here./
+Who marched with me this year, and is not here, his companion says it./
+Who was struck, nobody says./
 THE COMPANY/
-Call the roll.
+Call it.
 
 THE CAPTAIN/
-[Garrutsa]{.name data-type="being/npc" lang=tarv}, Wolf./
+[Garrutsa]{.name data-type="being/npc" lang=tarv}, the Wolf./
 GARRUTSA/
-I am here. I keep the vow./
+Here, and kept./
 THE CAPTAIN/
-[Oztuk]{.name data-type="being/npc" lang=tarv}, Crag./
+[Oztuk]{.name data-type="being/npc" lang=tarv}, the Crag./
 OZTUK/
-I am here. I keep the vow./
+Here, and kept./
 THE CAPTAIN/
-[Átseka]{.name data-type="being/npc" lang=tarv}, Ewe as the company says. [Átseka]{.name data-type="being/npc" lang=tarv} is not gentle./
+[Átseka]{.name data-type="being/npc" lang=tarv}, the ewe, as the company has it, who is not gentle./
 ÁTSEKA/
-I am here. I keep the vow./
+Here, and kept./
 THE CAPTAIN/
-[Tsala]{.name data-type="being/npc" lang=tarv}, Bell./
+[Tsala]{.name data-type="being/npc" lang=tarv}, the Bell./
 TSALA/
-I am here. I keep the vow. I am loud./
+Here. Kept. And loud./
 THE COMPANY/
 And loud./
 THE CAPTAIN/
-[Ozka]{.name data-type="being/npc" lang=tarv}, Peak-wind./
+[Ozka]{.name data-type="being/npc" lang=tarv}, the Wind off the Peaks./
 OZKA/
-I am here. I keep the vow./
+Here, and kept./
 THE CAPTAIN/
-[Betsa]{.name data-type="being/npc" lang=tarv}, Cheese. [Betsa]{.name data-type="being/npc" lang=tarv} returns lighter than departing./
+[Betsa]{.name data-type="being/npc" lang=tarv}, the Cheese, who came home lighter than he went./
 BETSA/
-I am here. I keep the vow. I am lighter./
+Here, and kept, and lighter./
 THE CAPTAIN/
-Sergeant./
+The sergeant./
 THE SERGEANT/
-I am here. I keep the vow./
+Here, and kept./
 THE CAPTAIN/
-Surgeon./
+The surgeon./
 THE SURGEON/
-I am here. I keep the vow. All my repaired ones stand here, or a comrade answers./
+Here. Kept. Every one I closed is here or answered for./
 THE CAPTAIN/
 The rest of you./
 THE COMPANY/
-I am here. I keep the vow./
+Here, and kept./
 THE CAPTAIN/
-I am here. I keep the vow. I speak it before you./
-If untrue, speak now, before stone, before year’s coming./
+And I am here, and kept, and I say so before you,/
+and if I am not, say so now, before the stone, before the year comes in./
 THE COMPANY/
-You keep the vow.
+You are kept.
 
 THE CAPTAIN/
-Now people who march and are absent./
-[Kolzarra]{.name data-type="being/npc" lang=tarv}, Scree. [Kolzarra]{.name data-type="being/npc" lang=tarv} climbs the ladder first at the wall in summer. Falls down it./
+Now the ones who marched and are not here./
+[Kolzarra]{.name data-type="being/npc" lang=tarv}, the Scree, who went first up the ladder at the wall in the summer, and came down it./
 HIS COMPANION/
-I march beside [Kolzarra]{.name data-type="being/npc" lang=tarv}. [Kolzarra]{.name data-type="being/npc" lang=tarv} is absent. Climbs first. Keeps the vow./
+I marched beside him. He is not here. He went up first. He kept it./
 THE COMPANY/
-[Kolzarra]{.name data-type="being/npc" lang=tarv} keeps the vow./
+He kept it./
 THE CAPTAIN/
-[Ziduák]{.name data-type="being/npc" lang=tarv} is first to the dead after battle. Takes goods from dead for company, not [Ziduák]{.name data-type="being/npc" lang=tarv}. Now with dead./
+[Ziduák]{.name data-type="being/npc" lang=tarv}, the Vulture, who was always first at the dead after a fight, and stripped them for the company and not for himself, and who is with them./
 HIS COMPANION/
-I march beside [Ziduák]{.name data-type="being/npc" lang=tarv}. [Ziduák]{.name data-type="being/npc" lang=tarv} is absent. Takes nothing outside company property. Keeps the vow./
+I marched beside him. He is not here. He took nothing that was not the company's. He kept it./
 THE COMPANY/
-[Ziduák]{.name data-type="being/npc" lang=tarv} keeps the vow./
+He kept it./
 THE CAPTAIN/
-[Bortsula]{.name data-type="being/npc" lang=tarv} holds the mule-line on the night the camp burns. Mules live./
+[Bortsula]{.name data-type="being/npc" lang=tarv}, the Byre, who held the mule-line the night the camp burned, and the mules lived./
 HIS COMPANION/
-I march beside [Bortsula]{.name data-type="being/npc" lang=tarv}. [Bortsula]{.name data-type="being/npc" lang=tarv} is absent. Mules live. [Bortsula]{.name data-type="being/npc" lang=tarv} keeps the vow./
+I marched beside him. He is not here. The mules lived. He kept it./
 THE COMPANY/
-[Bortsula]{.name data-type="being/npc" lang=tarv} keeps the vow./
+He kept it./
 THE CAPTAIN/
-[Uguzta]{.name data-type="being/npc" lang=tarv}, Goat, carries me out of river on [Uguzta]{.name data-type="being/npc" lang=tarv}’s back in spring./
-Dies of river in autumn, in bed. Cough comes from river./
+[Uguzta]{.name data-type="being/npc" lang=tarv}, the Goat, who carried me out of the river on his back in the spring,/
+and died of the river in the autumn, in his bed, of the cough he got there./
 HIS COMPANION/
-I march beside [Uguzta]{.name data-type="being/npc" lang=tarv}. [Uguzta]{.name data-type="being/npc" lang=tarv} is absent. Carries captain. Keeps the vow./
+I marched beside him. He is not here. He carried the captain. He kept it./
 THE CAPTAIN/
-[Uguzta]{.name data-type="being/npc" lang=tarv} carries me./
+He carried me./
 THE COMPANY/
-[Uguzta]{.name data-type="being/npc" lang=tarv} keeps the vow./
+He kept it./
 THE CAPTAIN/
-[Dúrreka]{.name data-type="being/npc" lang=tarv}, Fog, shoots our own paymaster’s herald in fog. Accidentally./
-Pays company penalty from [Dúrreka]{.name data-type="being/npc" lang=tarv}’s pay three seasons. Every part./
-Someone kills [Dúrreka]{.name data-type="being/npc" lang=tarv} in fourth season. No debt remains./
+[Dúrreka]{.name data-type="being/npc" lang=tarv}, the Fog, who shot the herald of our own paymaster by mistake in the fog,/
+and paid the company's penalty for it from his own pay for three seasons, every bit,/
+and was killed in the fourth season, owing nothing./
 HIS COMPANION/
-I march beside [Dúrreka]{.name data-type="being/npc" lang=tarv}. [Dúrreka]{.name data-type="being/npc" lang=tarv} is absent. No debt remains. Keeps the vow./
+I marched beside him. He is not here. He owed nothing. He kept it./
 THE COMPANY/
-No debt remains. [Dúrreka]{.name data-type="being/npc" lang=tarv} keeps the vow./
+He owed nothing. He kept it./
 THE CAPTAIN/
-The singer sings long poem for this company twenty years after evening food./
-The singer is there for everything, returns, dies at home this year beside own fire, old./
+The singer. Who sang the long poem for this company twenty years after supper,/
+who was there for all of it, and who came home, and died at home this year by his own fire, old./
 HIS COMPANION/
-I do not march beside singer. Nobody does. Singer walks behind us to see./
-Singer is absent. Sees. Keeps the vow./
+I did not march beside him. Nobody did. He walked behind us, to see./
+He is not here. He saw it. He kept it./
 THE COMPANY/
-Singer sees. Singer keeps the vow./
+He saw it. He kept it./
 THE CAPTAIN/
-Who sings long poem now?/
+Who sings it now?/
 THE NEW SINGER/
-I sing. I am there. I sing as singer sings. I add this year too./
+I do. I was there. I will sing it as he sang it, and add this year./
 THE COMPANY/
-Then add this year.
+Then add it.
 
 THE CAPTAIN/
-Now roll continues in roll’s tradition./
-After Goat, roll goes to next. Listen to next.
+Now the roll goes on, in the order it has always gone./
+After the Goat it went to the next. Hear the next.
 
-Captain does not speak for a name’s duration./
-Company does not speak. Nobody answers.
-
-THE CAPTAIN/
-Roll keeps the place./
-THE COMPANY/
-Roll keeps the place./
-THE CAPTAIN/
-Nobody fills place. Nobody speaks name. Place remains empty in roll/
-while one of us lives who marches with name and knows empty place./
-When our last lies beneath stone, roll closes over place. Place goes away./
-THE COMPANY/
-Place goes away.
+[The captain says nothing for the length of a name.]{.direction}/
+[The company says nothing. Nobody answers.]{.direction}
 
 THE CAPTAIN/
-Now this year’s names, earned by deeds./
-Person comes over wall second, after Scree./
-What name do we give?/
+That place is kept./
 THE COMPANY/
-[Garrunda]{.name data-type="being/npc" lang=tarv}, Peak. [Garrunda]{.name data-type="being/npc" lang=tarv} is atop wall./
+That place is kept./
 THE CAPTAIN/
-[Garrunda]{.name data-type="being/npc" lang=tarv}. Say it to [Garrunda]{.name data-type="being/npc" lang=tarv}./
+Nobody fills it. Nobody says it. It goes on the roll empty/
+as long as one of us who marched with that name is alive to know it is empty./
+When the last of us is under the stone, the roll closes over it, and it is gone./
 THE COMPANY/
-[Garrunda]{.name data-type="being/npc" lang=tarv}./
+And it is gone.
+
+THE CAPTAIN/
+Now the names earned this year./
+The man who came over the wall second, behind the Scree./
+What do we call him?/
+THE COMPANY/
+[Garrunda]{.name data-type="being/npc" lang=tarv}. The Peak. He was the top of the wall./
+THE CAPTAIN/
+Garrunda. Say it to him./
+THE COMPANY/
+Garrunda./
 GARRUNDA/
-I have the name. Name belongs to company. I keep name./
+I have it. It is the company's. I will keep it./
 THE CAPTAIN/
-Boy carries bolts to line beneath arrows on river bank./
-Boy is not on roll. Boy is there./
-What name do we give boy?/
+The boy who carried the bolts to the line under the arrows on the river bank,/
+who was not on the roll, and was there./
+What do we call him?/
 THE COMPANY/
-[Ekutsa]{.name data-type="being/npc" lang=tarv}, Sheepdog. Up and down bank all day. [Ekutsa]{.name data-type="being/npc" lang=tarv} never bites./
+[Ekutsa]{.name data-type="being/npc" lang=tarv}. The Sheepdog. Up and down the bank all day, and never bit./
 THE CAPTAIN/
-Then [Ekutsa]{.name data-type="being/npc" lang=tarv} is on roll. [Ekutsa]{.name data-type="being/npc" lang=tarv}. Say it to [Ekutsa]{.name data-type="being/npc" lang=tarv}./
+Then he is on the roll. Ekutsa. Say it to him./
 THE COMPANY/
-[Ekutsa]{.name data-type="being/npc" lang=tarv}./
+Ekutsa./
 EKUTSA/
-I have the name. I keep name.
+I have it. I will keep it.
 
 THE CAPTAIN/
-Now who enters gate?/
+Now who comes in at the gate?/
 THREE BOYS/
-We come./
+We do./
 THE CAPTAIN/
-Are you good?/
+Are you any good?/
 THREE BOYS/
-We become good./
+We will be./
 THE CAPTAIN/
-That is good answer. Not yet. You stand on roll as not yet./
-Here. We do not keep yet./
+That is the right answer. Not yet. You are on the roll as not yet./
+Here, and not yet kept./
 THREE BOYS/
-Here. We do not keep yet./
+Here, and not yet kept./
 THE COMPANY/
 Not yet.
 
 THE CAPTAIN/
-Now contract. Hands upon stone./
-I must give your pay. All. On payday./
-Terms as spoken. No small part more from you./
-Your rites if you fall, anywhere, before I march./
-Or your names on bank, your pay home, if I cannot./
+Now the contract. Hands on the stone./
+I owe you your pay, all of it, on the day,/
+and the terms as they are said, and not a bit more asked of you,/
+and your rites, if you fall, wherever you fall, before I march,/
+or your names on the bank, and your pay home, if I cannot./
 THE COMPANY/
-You must do it./
+You owe it./
 THE CAPTAIN/
-What must you give me?/
+What do you owe me?/
 THE COMPANY/
-Season. Terms. No more./
-We go in contract’s direction. We hold where it says hold./
-We return home when contract says home. We never flee./
+The season, and the terms, and no more./
+We go where the contract goes. We hold where it says hold./
+We come home when it says home. We do not run./
 THE CAPTAIN/
-You must do it./
-What is required?/
+You owe it./
+What is owed?/
 THE COMPANY/
-The spoken thing./
+What was said./
 THE CAPTAIN/
-What is spoken?/
+What was said?/
 THE COMPANY/
-Duty./
+What is owed./
 THE CAPTAIN/
-Who breaks contract?/
+Who breaks it?/
 THE COMPANY/
 Nobody here./
 THE CAPTAIN/
-What if one here?/
+And if somebody here?/
 THE COMPANY/
-Then stone knows. Sealed Word hears. Roll keeps place.
+Then the stone knows it, and the Sealed Word hears it, and the roll keeps the place.
 
 THE PRIEST/
-Gate’s god hears, with two faces./
+The god of the gate has heard it, with both faces./
 THE COMPANY/
-And stone./
+And the stone./
 THE PRIEST/
-And stone.
+And the stone.
 
 THE CAPTAIN/
-Year stands inside gate. Captain calls roll./
-Release hands from stone. Stone is cold./
-Go to your houses. Tell family you keep vow./
+The year is in at the gate. The roll is called./
+Take your hands off the stone. It is cold./
+Go home to your houses and tell them you are kept./
 THE COMPANY/
-Keep.
+Kept.
 :::
 
-::: {.verse form=litany lang=tarv enc=tarvsemaronenc work=roll}
-THRUMAR/
-Eza goitsa ared ir denon sedon./
-THRAMO/
-Goitsa ared ir denon sedon./
-THRUMAR/
-Eza goitsa ared nelvos./
-THRAMO/
+::: {.verse form=litany lang=tarv enc=tarvsemaronenc work=roll scan=trimeter}
+[Thrumar]{.speaker}/
+Eza goitsa denos?/
+[Thramo]{.speaker}/
+Goitsa ared denos./
+[Thrumar]{.speaker}/
+Eza goitsa nelvos?/
+[Thramo]{.speaker}/
 Goitsa ared nelvos./
-THRUMAR/
+[Thrumar]{.speaker}/
 Tha goitsa ared goitsa.
 
-THRUMAR/
+[Thrumar]{.speaker}/
 Tarnela tigad hos kalga./
-THRAMO/
-Ko linkad tarnela tigad hos./
-THRUMAR/
-Tarnela tigad ir kalga./
-THRAMO/
-Ko linkad tarnela tigad ir./
-THRUMAR/
-Arvo ol kalga kerad tavre enthamis. Arvo oked tigad. Arvo oked lokad./
-Enoi kerad urkis enthamis hir urzele verezos. Enoi huzad hir goitsa./
-THRAMO/
+[Thramo]{.speaker}/
+Ko tigad, tarnela, tigad‼/
+[Thrumar]{.speaker}/
+Tarnela lokad ir kalga./
+[Thramo]{.speaker}/
+Ko lokad, tarnela, lokad‼/
+[Thrumar]{.speaker}/
+Kalga kerad arvo,/
+arvo dun tavre enthamis./
+Urkis oked tigad,/
+urkis oked lokad./
+Enoi kerad urkis,/
+enoi huzad hir goitsa./
+[Thramo]{.speaker}/
 Enoi huzad hir goitsa.
 
-THRUMAR/
-Denon ared therna. En lozed therna./
-Verezos valmad dun en denon tarnela. Verezos ared ir denon sedon. Verezos dokad ir denon sedon./
-Verezos valmad dun en denon tarnela. Verezos ar ared ir denon sedon. Holvo ol verezos dokad./
-Harlen ared zured. Ar verezos dokad./
-THRAMO/
-Ko kramed therna.
+[Thrumar]{.speaker}/
+Denon ared therna./
+En lozed zed ir thalve./
+Kedis tarnela valmad dun en/
+ek denos, dokad denos‼/
+Kedis tarnela valmad dun en/
+ek ar denos, holvo dokad./
+Zured, ar urkis dokad./
+[Thramo]{.speaker}/
+Ko kramed therna, thrumar‼
 
-THRUMAR/
-Garrutsa. Garruts./
-GARRUTSA/
-En ared ir denon sedon. En thaurad tholza./
-THRUMAR/
-Oztuk. Oztuka./
-OZTUK/
-En ared ir denon sedon. En thaurad tholza./
-THRUMAR/
-Átseka. Atsek sa thramo dokad. Átseka ar ared lomeros./
-ÁTSEKA/
-En ared ir denon sedon. En thaurad tholza./
-THRUMAR/
-Tsala. Tsalats./
-TSALA/
-En ared ir denon sedon. En thaurad tholza. En ared kramo./
-THRAMO/
-Ek kramo./
-THRUMAR/
-Ozka. Ozkur./
-OZKA/
-En ared ir denon sedon. En thaurad tholza./
-THRUMAR/
-Betsa. Betsur. Betsa antigad ansolkimos mazer tigad./
-BETSA/
-En ared ir denon sedon. En thaurad tholza. En ared ansolkimos./
-THRUMAR/
-Takzo./
-TAKZO/
-En ared ir denon sedon. En thaurad tholza./
-THRUMAR/
-Irthezo./
-IRTHEZO/
-En ared ir denon sedon. En thaurad tholza. Zed konalon ol ankermad ol en ared ir denon sedon. Ves holvo pethred./
-THRUMAR/
-Alethos konalon ol ko./
-THRAMO/
-En ared ir denon sedon. En thaurad tholza./
-THRUMAR/
-En ared ir denon sedon. En thaurad tholza. En dokad denon pral ko./
-Zai denon ar ared varelin. Ko dokad denkanai. Pral goitsa. Pral lokad ol tarnela./
-THRAMO/
-Ko thaurad tholza.
+[Thrumar]{.speaker}/
+Garrutsa, garruts ol galtsur./
+[Garrutsa]{.speaker}/
+Denos, thauren, thrumar./
+[Thrumar]{.speaker}/
+Oztuk, oztuka thelvar./
+[Oztuk]{.speaker}/
+Denos, thauren, thrumar./
+[Thrumar]{.speaker}/
+Átseka, sa thramo dokad,/
+atsek, ar lomeros atsek./
+[Átseka]{.speaker}/
+Denos, thauren, thrumar./
+[Thrumar]{.speaker}/
+Tsala, tsalats ol ked./
+[Tsala]{.speaker}/
+Denos. Thauren. Ek kramo./
+[Thramo]{.speaker}/
+Ek kramo, Tsala, kramo./
+[Thrumar]{.speaker}/
+Ozka, ozkur hos garrunda./
+[Ozka]{.speaker}/
+Denos, thauren, thrumar./
+[Thrumar]{.speaker}/
+Betsa, betsur ir makra,/
+lokad hir dumva ansolkimos./
+[Betsa]{.speaker}/
+Denos, thauren, ansolkimos./
+[Thrumar]{.speaker}/
+Takzo, lither thrumar./
+[Takzo]{.speaker}/
+Denos, thauren, thrumar./
+[Thrumar]{.speaker}/
+Irthezo ol zed thramo./
+[Irthezo]{.speaker}/
+Denos, thauren, thrumar./
+Urzele irtho en anolmad,/
+denos, ves holvo dokad./
+[Thrumar]{.speaker}/
+Ath alethos, zed konalon./
+[Thramo]{.speaker}/
+Denos, thauren, thrumar./
+[Thrumar]{.speaker}/
+Ek en, thrumar, denos, thauren./
+En dokad denon ir okande./
+Zai ar varelin, ko dokad,/
+nol goitsa, pral tarnela ared ir‼/
+[Thramo]{.speaker}/
+Ko ared thauren, thrumar.
 
-THRUMAR/
-Denkanai verezos ol valmad ek ar ir denon sedon./
-Kolzarra. Kolzar. Kolzarra urzvalmad edran holimai hir kemtho ir herthe. Kolzarra nembed zel edran./
-HOLVO/
-En valmad nol Kolzarra. Kolzarra ar ared ir denon sedon. Kolzarra urzvalmad holimai. Kolzarra thaurad tholza./
-THRAMO/
-Kolzarra thaurad tholza./
-THRUMAR/
-Ziduák. Ziduák ared holimos hir kolva ethor kordandon. Ziduák kured hrenkon hos kolva hir thramo. Ar hir Ziduák. Ziduák ared dun kolva./
-HOLVO/
-En valmad nol Ziduák. Ziduák ar ared ir denon sedon. Ziduák kured ar lathon hos hrenkon ol thramo. Ziduák thaurad tholza./
-THRAMO/
-Ziduák thaurad tholza./
-THRUMAR/
-Bortsula. Bortsula thaurad therna ol moldre ir nathre ol kremed ol durga. Moldre thernad./
-HOLVO/
-En valmad nol Bortsula. Bortsula ar ared ir denon sedon. Moldre thernad. Bortsula thaurad tholza./
-THRAMO/
-Bortsula thaurad tholza./
-THRUMAR/
-Uguzta. Guzta. Uguzta lozed en hos siretha us dolkon ol Uguzta ir nural./
-Uguzta kalmad ol siretha ir ohra. Ir nalvo. Sulkon lokad hos siretha./
-HOLVO/
-En valmad nol Uguzta. Uguzta ar ared ir denon sedon. Uguzta lozed thrumar. Uguzta thaurad tholza./
-THRUMAR/
-Uguzta lozed en./
-THRAMO/
-Uguzta thaurad tholza./
-THRUMAR/
-Dúrreka. Durka. Dúrreka gorad kaltho ol daima ol enoi ir durka. Anavren./
-Dúrreka zelmad kuthra ol thramo hos pelza ol Dúrreka karza arvil. Zed solthen./
-Verezos kolvad Dúrreka ir arvil ol helza. Ar nezora dorad./
-HOLVO/
-En valmad nol Dúrreka. Dúrreka ar ared ir denon sedon. Ar nezora dorad. Dúrreka thaurad tholza./
-THRAMO/
-Ar nezora dorad. Dúrreka thaurad tholza./
-THRUMAR/
-Sormar. Sormar sormad langa hir denon thramo 20 tarnela ethor paza ol hilta./
-Sormar ared ir denon sedon hir zed lathon. Sormar antigad. Sormar kalmad ir dumva denon tarnela. Nol karalzo ol sormar. Ankelos./
-HOLVO/
-En ar valmad nol sormar. Ar verezos ertad denon. Sormar valmad lither enoi hir oked./
-Sormar ar ared ir denon sedon. Sormar oked. Sormar thaurad tholza./
-THRAMO/
-Sormar oked. Sormar thaurad tholza./
-THRUMAR/
-Eza kedis sormad langa denkanai./
-PELRE SORMAR/
-En sormad. En ared ir denon sedon. En sormad sa sormar sormad. En lendad denon tarnela dun denon./
-THRAMO/
-Tha ko lendad denon tarnela.
+[Thrumar]{.speaker}/
+Denkanai valmad, ek ar denos./
+Kolzarra, kolzar, ir herthe/
+urzvalmad holimai edran,/
+ek nembed sa kolzar nembed./
+[Holvo]{.speaker}/
+En ared holvo ol alatho./
+Alatho ar ared denos./
+Alatho urzvalmad holimai./
+Alatho ared thauren./
+[Thramo]{.speaker}/
+Alatho ared thauren./
+[Thrumar]{.speaker}/
+Ziduák, ziduák ol gruma,/
+urzele kanel holimos/
+nol kalman, ethor kordandon,/
+kured hrenkon hir thramo/
+ek ar urkis lathon hir vethis,/
+ek denkanai ared dun kalman./
+[Holvo]{.speaker}/
+En ared holvo ol alatho./
+Alatho ar ared denos./
+Kured urtis hir thramo./
+Alatho ared thauren./
+[Thramo]{.speaker}/
+Alatho ared thauren./
+[Thrumar]{.speaker}/
+Bortsula, bortsula ol moldre,/
+ir nathre ken durga kremed/
+thaurad, ek moldre thernad./
+[Holvo]{.speaker}/
+En ared holvo ol alatho./
+Alatho ar ared denos./
+Zed moldre thernad./
+Alatho ared thauren./
+[Thramo]{.speaker}/
+Alatho ared thauren./
+[Thrumar]{.speaker}/
+Uguzta, guzta ol orneth,/
+ir nural lozed en hos ulmer/
+us dolkon, ek kalmad ir ohra,/
+ir nalvo, dun sulkon ol siretha./
+[Holvo]{.speaker}/
+En ared holvo ol alatho./
+Alatho ar ared denos./
+Lozed thrumar hos siretha./
+Alatho ared thauren./
+[Thrumar]{.speaker}/
+Alatho lozed en hos siretha./
+[Thramo]{.speaker}/
+Alatho ared thauren./
+[Thrumar]{.speaker}/
+Dúrreka, durka ol gando,/
+gorad kaltho ol daima/
+ol enoi, ir durka, anavren,/
+ek zelmad kuthra ol thramo/
+hos pelza karza arvil,/
+ek gruma kolvad alatho./
+Ar urkis nezora dorad./
+[Holvo]{.speaker}/
+En ared holvo ol alatho./
+Alatho ar ared denos./
+Ar urkis nezora dorad./
+Alatho ared thauren./
+[Thramo]{.speaker}/
+Ar urkis nezora dorad./
+Alatho ared thauren./
+[Thrumar]{.speaker}/
+Kedis sormad oldemo/
+hir thramo ethor paza/
+tavre umbar tarnela,/
+ared ir zed, ek antigad,/
+ek kalmad nol karalzo ol vethis/
+denon tarnela, ankelos./
+[Holvo]{.speaker}/
+En ar ared holvo ol alatho./
+Ar urkis valmad dun alatho./
+Alatho valmad lither/
+enoi, hir okande. Ar denos./
+Oked, ek ared thauren./
+[Thramo]{.speaker}/
+Oked, ek ared thauren./
+[Thrumar]{.speaker}/
+Eza kedis sormad?/
+[Kedis sormad]{.speaker}/
+En sormad. En ared ir zed./
+En sormad sa alatho sormad,/
+ek lendad denon tarnela./
+[Thramo]{.speaker}/
+Tha ko lendad denon tarnela‼
 
-THRUMAR/
-Denkanai therna hramad ir zesima ol therna./
-Ethor Guzta therna tigad hir ethoros. Ko thavrelad ethoros.
+[Thrumar]{.speaker}/
+Denkanai therna hramad,/
+sa tigad ir zed kanel./
+Ethor guzta, ath ethoros./
+Enoi thavrelad ethoros.
 
-Thrumar ar dokad hir kanel ol harlen./
-Thramo ar dokad. Ar verezos pethred.
+[Thrumar sisted harlen.]{.direction}/
+[Thramo sisted. Ar pethred.]{.direction}
 
-THRUMAR/
+[Thrumar]{.speaker}/
 Therna thaurad sedon./
-THRAMO/
+[Thramo]{.speaker}/
 Therna thaurad sedon./
-THRUMAR/
-Ar verezos hurpad sedon. Ar verezos dokad harlen. Sedon dorad mandro ir therna./
-Hir kanel ol thernad ol urkis verezos ol enoi. Verezos valmad dun harlen. Verezos kezdad sedon mandro./
-Ken orthe verezos ol enoi ared zel talor. Therna anolmad us sedon. Sedon tigad hos./
-THRAMO/
-Ek sedon tigad hos.
+[Thrumar]{.speaker}/
+Ar urkis hurpad, ar dokad./
+Dorad mandro ir therna/
+ken urkis ol enoi thernad/
+kedis valmad dun harlen/
+ek kezdad sedon mandro./
+Ken orthe ared zel talor,/
+therna anolmad us sedon,/
+ek alatho tigad hos kalga./
+[Thramo]{.speaker}/
+Ek alatho tigad hos kalga.
 
-THRUMAR/
-Denkanai harlen ol denon tarnela. Verezos merad harlen./
-Verezos lokad us kemtho ir sedon ol tavre. Ethor Kolzarra./
-Eza enoi daimad kethis harlen hir verezos./
-THRAMO/
-Garrunda. Garrunda ared us kemtho./
-THRUMAR/
-Garrunda. Ko dokad hir Garrunda./
-THRAMO/
-Garrunda./
-GARRUNDA/
-En kerad harlen. Harlen ared ol thramo. En thaurad harlen./
-THRUMAR/
-Nuron lozed pel hir therna zel geril us aldor ol siretha./
-Nuron ar ared ir therna. Nuron ared ir alatho sedon./
-Eza enoi daimad kethis harlen hir nuron./
-THRAMO/
-Ekutsa. Ekuts. Us ek zel aldor ir zed nar. Ekutsa ar nizelad./
-THRUMAR/
-Tha Ekutsa ared ir therna. Ekutsa. Ko dokad hir Ekutsa./
-THRAMO/
-Ekutsa./
-EKUTSA/
-En kerad harlen. En thaurad harlen.
+[Thrumar]{.speaker}/
+Denkanai kiramharlen ol tarnela./
+Kedis lokad us kemtho/
+ethoros, lither ath kolzar,/
+eza kethis harlen?/
+[Thramo]{.speaker}/
+Garrunda, garrunda ol kemtho./
+[Thrumar]{.speaker}/
+Garrunda. Ko dokad hir alatho‼/
+[Thramo]{.speaker}/
+Garrunda, Garrunda, Garrunda./
+[Garrunda]{.speaker}/
+En kerad. Ared ol thramo./
+En thaurad alatho, thrumar./
+[Thrumar]{.speaker}/
+Ath nuron lozed pel/
+zel geril, ir aldor ol siretha,/
+ar ared ir therna, ek denos./
+Eza kethis harlen?/
+[Thramo]{.speaker}/
+Ekutsa, ekuts ol thramo,/
+us ek zel aldor zed nar,/
+ek ar nizelad urkis kanel./
+[Thrumar]{.speaker}/
+Tha alatho ared ir therna./
+Ekutsa. Ko dokad hir alatho‼/
+[Thramo]{.speaker}/
+Ekutsa, Ekutsa, Ekutsa./
+[Ekutsa]{.speaker}/
+En kerad. En thaurad alatho.
 
-THRUMAR/
-Denkanai eza kedis lokad ir kalga./
-KARZA NURON/
-Enoi lokad./
-THRUMAR/
-Eza ko ared dadro./
-KARZA NURON/
+[Thrumar]{.speaker}/
+Eza kedis ir kalga?/
+[Karza nuron]{.speaker}/
+Enoi lokad, thrumar./
+[Thrumar]{.speaker}/
+Eza ko ared dadro?/
+[Karza nuron]{.speaker}/
 Enoi pelzad dadro./
-THRUMAR/
-Denon ared dadro pethrandon. Ar hir denkanai. Ko ared ir therna. Ar hir denkanai./
-Ir denon sedon. Enoi ar thaurad hir denkanai./
-KARZA NURON/
-Ir denon sedon. Enoi ar thaurad hir denkanai./
-THRAMO/
-Ar hir denkanai.
+[Thrumar]{.speaker}/
+Denon ared nasdelos./
+Ko ared ir therna, ar hir denkanai,/
+denos, ek ar hir denkanai thauren./
+[Karza nuron]{.speaker}/
+Denos, ek ar hir denkanai thauren./
+[Thramo]{.speaker}/
+Ar hir denkanai, karza nuron.
 
-THRUMAR/
-Denkanai semna. Dekazu us goitsa./
-En gerpalad daimad pelza ol ko. Zed. Ir nar ol pelza./
-Henthos sa dokandon. Ar nis solthen mazeron hos ko./
-Othra ol ko zai ko nembed. Ir welri sedon. Pral en valmad./
-Ves harlen ol ko us aldor. Pelza hir dumva. Zai en ar dunad./
-THRAMO/
-Ko gerpalad denon./
-THRUMAR/
-Eza ko gerpalad hir en kethis./
-THRAMO/
-Arvil. Henthos. Ar mazeron./
-Enoi tigad ir tigen ol semna. Enoi thaurad ir sedon ol dokad thaurad./
-Enoi antigad hir dumva ken semna dokad dumva. Enoi ar alvad hos./
-THRUMAR/
-Ko gerpalad denon./
-Eza kethis ared gerpalen./
-THRAMO/
-Dokandon./
-THRUMAR/
-Eza kethis ared dokad./
-THRAMO/
-Gerpalo./
-THRUMAR/
-Eza kedis kermad semna./
-THRAMO/
-Ar verezos ir denon sedon./
-THRUMAR/
-Eza urkis ir denon sedon./
-THRAMO/
-Tha goitsa kezdad. Thizaro Lambis thavid. Therna thaurad sedon.
+[Thrumar]{.speaker}/
+Denkanai semna ol thramo./
+Ko lendad dekazu us goitsa‼/
+En orhenad zed pelza/
+ir nar dokandon, ek henthos/
+sa semna, ar solthen mazeron,/
+ek othra, zai ko nembed/
+ir welri sedon, pral en valmad,/
+ves harlen us aldor, ek pelza/
+hir dumva, zai en ar dunad./
+[Thramo]{.speaker}/
+Ko orhenad denon, thrumar./
+[Thrumar]{.speaker}/
+Eza kethis ko orhenad hir en?/
+[Thramo]{.speaker}/
+Arvil, ek henthos, ar mazeron./
+Enoi solkad semna./
+Thaurad ken dokad thaurad,/
+antigad ken dokad dumva./
+Enoi ar alvad, ar urkis./
+[Thrumar]{.speaker}/
+Ko orhenad denon, thramo./
+Eza kethis gerpalo?/
+[Thramo]{.speaker}/
+Ath lambis, thrumar, lambis./
+[Thrumar]{.speaker}/
+Eza kethis lambis?/
+[Thramo]{.speaker}/
+Ath gerpalo, thrumar, gerpalo./
+[Thrumar]{.speaker}/
+Eza kedis kermad?/
+[Thramo]{.speaker}/
+Ar urkis ol enoi denos./
+[Thrumar]{.speaker}/
+Eza zai urkis?/
+[Thramo]{.speaker}/
+Tha goitsa kezdad alatho,/
+Thizaro Lambis thavid,/
+ek therna thaurad sedon.
 
-SARKO/
-Arvo ol kalga thavid. Dun tavre enthamis./
-THRAMO/
-Ek goitsa./
-SARKO/
-Ek goitsa.
+[Sarko]{.speaker}/
+Arvo ol kalga thavid,/
+dun zed tavre enthamis./
+[Thramo]{.speaker}/
+Ek goitsa thavid denon./
+[Sarko]{.speaker}/
+Ek goitsa thavid denon.
 
-THRUMAR/
-Tarnela ared ir kalga. Thrumar kramed therna./
-Ko linkad dekazu hos goitsa. Goitsa ared nelvos./
-Ko tigad hir dumva ol ko. Ko narad hir sora. Ko thaurad tholza./
-THRAMO/
-Thaurad.
+[Thrumar]{.speaker}/
+Tarnela ared ir kalga./
+Thrumar kramed therna./
+Ko linkad dekazu hos goitsa‼/
+Goitsa ared nelvos./
+Ko tigad hir dumva, ko narad/
+hir sora, ko ared thauren‼/
+[Thramo]{.speaker}/
+Thauren, thrumar. Thauren.
 :::
 
 ## See Also
