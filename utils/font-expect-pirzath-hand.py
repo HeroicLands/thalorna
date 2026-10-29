@@ -10,7 +10,8 @@ VOWELS = {"a": "aacute", "e": "eacute", "i": "iacute", "o": "oacute", "u": "uacu
 
 def collapse(glyphs: list[str]) -> list[str]:
     """The hand's glyphs for a carved sequence or fixture: a vowel and its length mark are the
-    long-vowel glyph, and a consonant and its doubling mark are the doubled glyph."""
+    long-vowel glyph, a consonant and its doubling mark are the doubled glyph, and the carved
+    word dot is the hand's plain space."""
     out: list[str] = []
     for g in glyphs:
         if g in ("lengthmark", "doubling"):
@@ -21,6 +22,8 @@ def collapse(glyphs: list[str]) -> list[str]:
                 out[k] = VOWELS[out[k]]
             else:
                 out.append(g)
+        elif g == "space.dot":
+            out.append("space")
         else:
             out.append(g)
     return out

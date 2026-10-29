@@ -8,6 +8,7 @@ tags: []
 data:
   roman: "abdefghiklmnoprstuvzáéíóúë0123456789-@#$%&^"
   abbreviation: Khaz.
+  core: true
   fields:
     - {name: Stone and metal, holds: "stone, ore, metal, gem"}
     - {name: Craft and the forge, holds: "craft, tool, forge, fire"}
@@ -17,20 +18,23 @@ data:
     - name: Caves and their finding
       holds: "cave kinds, karst forms, passages, chambers, dripstone, finding and opening"
     - name: The face and the light
-      holds: "cliff, face, opening, daylight, court, flue and smoke, wind, sky and star, the home on the face"
+      holds: "cliff, face, opening, daylight, court, flue and smoke, wind, sky and star, sun, moon and weather, the home on the face"
     - name: Listening and the cut
       holds: "listening, reading, sounding, restraint, apprenticeship, the clumsy and the straight cut"
-    - {name: The hold, holds: "hold, hall, tower, gate, pillar, stair, road"}
+    - name: The hold
+      holds: "hold, hall, tower, gate, pillar, stair, road, furnishings and vessels, lock and key"
     - name: Kin and the house
-      holds: "clan, house, line, elder, child, the name, the shared meal, exile from the house"
+      holds: "clan, house, line, elder, child, the name, the shared meal, exile from the house, kin and spouse, friend and guest, the loves"
     - name: "Oath, law and measure"
-      holds: "oath, law, record, reckoning, measure, tally, council, gift, shame and wrong"
+      holds: "oath, law, record, reckoning, measure, tally, council, gift, shame and wrong, truth, justice, freedom and wealth"
     - name: Letters and writing
       holds: "the carved and hand forms of Pirzath, ink, chalk, wax, stylus, the letter, the line of text"
     - name: Song and telling
-      holds: "song, lament, the telling and the account, charm, foretelling, riddle, saying, praise, the word"
-    - {name: "Time and the mountain's seasons", holds: "generation, age, season, cold and thaw"}
-    - {name: Body and person, holds: "the body, its strength, its voice"}
+      holds: "song, lament, the telling and the account, charm, foretelling, riddle, saying, praise, the word, asking and answering, greetings and courtesies"
+    - name: "Time and the mountain's seasons"
+      holds: "generation, age, season, cold and thaw, the day and its hours, beginning and end"
+    - name: Body and person
+      holds: "the body, its strength, its voice, its senses, its feelings, its health"
     - {name: War and the guarding, holds: "war, the Grukar, guarding, sealing, arms"}
     - {name: Death and memory, holds: "death, the tomb, mourning, remembrance"}
     - {name: The god and devotion, holds: "the god, devotion as craft, dream"}
@@ -39,12 +43,20 @@ data:
     - name: Khazartúrn
       holds: "the city of the seven towers: its streets, fountains, markets and painted sky"
     - name: Other peoples and the larder
-      holds: "humans, the elder folk of the forest, crowns, farming for the hold, hunger, ale, rivers, the sea"
-    - {name: Motion and holding, holds: "going, coming, climbing, carrying, holding fast"}
-    - {name: Grammar words, holds: "pronouns, particles, numerals, quantity"}
+      holds: "humans, the elder folk of the forest, crowns, farming for the hold, hunger, ale, rivers, the sea, plants and beasts, land and trade"
+    - name: Motion and holding
+      holds: "going, coming, climbing, carrying, holding fast, the body's other deeds, near and far"
+    - name: Grammar words
+      holds: "pronouns, particles, numerals, quantity, place and time, comparison"
   grammar: {plural: [{ending: "", becomes: ez}]}
   words:
-    - {form: dalk, class: "n", field: Stone and metal, gloss: "stone", root: "d-l-k", frame: bare}
+    - form: dalk
+      class: "n"
+      field: Stone and metal
+      gloss: "stone"
+      root: "d-l-k"
+      frame: bare
+      concept: stone
     - form: dalík
       class: adj
       field: Stone and metal
@@ -172,7 +184,8 @@ data:
     - form: malít
       class: adj
       field: Stone and metal
-      gloss: "salt, salted"
+      gloss: "salt, salted, salty"
+      concept: salty
       root: "m-l-t"
       frame: adjective
     - form: maltir
@@ -210,7 +223,8 @@ data:
     - form: tharíz
       class: adj
       field: Stone and metal
-      gloss: "golden, of gold"
+      gloss: "golden, of gold; yellow"
+      concept: yellow
       root: "th-r-z"
       frame: adjective
     - form: thirzath
@@ -237,6 +251,7 @@ data:
       class: adj
       field: Stone and metal
       gloss: "leaden, heavy"
+      concept: heavy
       root: "p-b-k"
       frame: adjective
     - form: pibakath
@@ -279,6 +294,7 @@ data:
       class: adj
       field: Stone and metal
       gloss: "clear as crystal"
+      concept: [clear-appearance, transparent]
       root: "v-s-p"
       frame: adjective
     - form: vispath
@@ -327,6 +343,7 @@ data:
       class: adj
       field: Stone and metal
       gloss: "black as basalt"
+      concept: black
       root: "dh-r-b"
       frame: adjective
     - form: hudharb
@@ -345,6 +362,7 @@ data:
       class: adj
       field: Stone and metal
       gloss: "white as marble"
+      concept: white
       root: "l-gh-b"
       frame: adjective
     - form: laghabir
@@ -449,7 +467,8 @@ data:
     - form: madak
       class: "n"
       field: Stone and metal
-      gloss: "living rock, the bedrock"
+      gloss: "rock, living rock, the bedrock"
+      concept: rock
       root: "m-d-k"
       frame: bare
     - form: madík
@@ -503,7 +522,8 @@ data:
     - form: dhalíp
       class: adj
       field: Stone and metal
-      gloss: "quick, running like quicksilver"
+      gloss: "quick, running like quicksilver; fast"
+      concept: fast
       root: "dh-l-p"
       frame: adjective
     - form: zabar
@@ -516,6 +536,7 @@ data:
       class: adj
       field: Stone and metal
       gloss: "deep red"
+      concept: red
       root: "z-b-r"
       frame: adjective
     - form: zibarath
@@ -534,6 +555,7 @@ data:
       class: adj
       field: Stone and metal
       gloss: "deep blue"
+      concept: blue
       root: "gh-v-th"
       frame: adjective
     - form: ghivathath
@@ -593,7 +615,8 @@ data:
     - form: thumár
       class: v
       field: Craft and the forge
-      gloss: "to strike; a striking"
+      gloss: "to strike, to hit; a striking"
+      concept: hit
       root: "th-m-r"
       frame: deed
     - form: thummár
@@ -895,6 +918,7 @@ data:
       class: adj
       field: Craft and the forge
       gloss: "bright, burnished"
+      concept: [bright, shiny]
       root: "z-n-th"
       frame: adjective
     - form: zunáth
@@ -956,6 +980,7 @@ data:
       class: "n"
       field: Craft and the forge
       gloss: "a hammer"
+      concept: hammer
       root: "d-m-g"
       frame: bare
     - form: damgir
@@ -1052,14 +1077,15 @@ data:
       variants: [bamurir]
       class: "n"
       field: Craft and the forge
-      gloss: "a craftsman"
+      gloss: "a craftsman, an artisan"
+      concept: artisan
       root: "b-m-r"
       frame: worker
     - form: bumár
       class: v
       field: Craft and the forge
-      gloss: "to work, to make"
-      concept: make
+      gloss: "to work, to make, to create"
+      concept: [make, create]
       root: "b-m-r"
       frame: deed
     - form: bummár
@@ -1090,6 +1116,7 @@ data:
       class: adj
       field: Craft and the forge
       gloss: "glassy, clear"
+      concept: clear-appearance
       root: "g-l-b"
       frame: adjective
     - form: galbir
@@ -1143,7 +1170,8 @@ data:
     - form: naghap
       class: "n"
       field: Craft and the forge
-      gloss: "charcoal"
+      gloss: "charcoal, coal"
+      concept: coal
       root: "n-gh-p"
       frame: bare
     - form: naghapir
@@ -1209,7 +1237,8 @@ data:
     - form: badík
       class: adj
       field: Craft and the forge
-      gloss: "handy, fit to the hand"
+      gloss: "handy, fit to the hand; useful"
+      concept: useful
       root: "b-d-k"
       frame: adjective
     - form: badakir
@@ -1275,7 +1304,8 @@ data:
     - form: munád
       class: v
       field: Craft and the forge
-      gloss: "to mend"
+      gloss: "to mend, to repair"
+      concept: repair
       root: "m-n-d"
       frame: deed
     - form: munnád
@@ -1425,7 +1455,13 @@ data:
       root: "n-r-v"
       frame: place
     - {form: dhamv, class: "n", field: The deep, gloss: "darkness", root: "dh-m-v", frame: bare}
-    - {form: dhamív, class: adj, field: The deep, gloss: "dark", root: "dh-m-v", frame: adjective}
+    - form: dhamív
+      class: adj
+      field: The deep
+      gloss: "dark"
+      root: "dh-m-v"
+      frame: adjective
+      concept: dark
     - {form: dhumáv, class: v, field: The deep, gloss: "to darken", root: "dh-m-v", frame: deed}
     - {form: pasv, class: "n", field: The deep, gloss: "a cavern", root: "p-s-v", frame: bare}
     - form: pasív
@@ -1473,7 +1509,13 @@ data:
       frame: adjective
     - {form: rufás, class: v, field: The deep, gloss: "to seep", root: "r-f-s", frame: deed}
     - {form: fasdh, class: "n", field: The deep, gloss: "a draught", root: "f-s-dh", frame: bare}
-    - {form: fusádh, class: v, field: The deep, gloss: "to draw air", root: "f-s-dh", frame: deed}
+    - form: fusádh
+      class: v
+      field: The deep
+      gloss: "to draw air, to breathe in"
+      concept: inhale
+      root: "f-s-dh"
+      frame: deed
     - form: hufasdh
       class: "n"
       field: The deep
@@ -1484,7 +1526,8 @@ data:
     - form: vatígh
       class: adj
       field: The deep
-      gloss: "foul, airless"
+      gloss: "foul, airless; foul-smelling"
+      concept: foul
       root: "v-t-gh"
       frame: adjective
     - form: bamg-gunáv
@@ -1936,7 +1979,8 @@ data:
     - form: tasím
       class: adj
       field: The grain of the rock
-      gloss: "sound, whole"
+      gloss: "sound, whole; hale"
+      concept: healthy
       root: "t-s-m"
       frame: adjective
     - form: tusám
@@ -2045,6 +2089,7 @@ data:
       class: "n"
       field: The grain of the rock
       gloss: "a mountain"
+      concept: mountain
       root: "gh-r-m"
       frame: bare
     - form: gharím
@@ -2081,6 +2126,7 @@ data:
       class: "n"
       field: Caves and their finding
       gloss: "a cave"
+      concept: cave
       root: "b-g-r"
       frame: bare
     - form: bagír
@@ -2237,6 +2283,7 @@ data:
       class: adj
       field: Caves and their finding
       gloss: "narrow, tight"
+      concept: narrow
       root: "t-n-p"
       frame: adjective
     - form: tunáp
@@ -2462,6 +2509,7 @@ data:
       class: "n"
       field: The face and the light
       gloss: "smoke"
+      concept: smoke
       root: "th-m-s"
       frame: bare
     - form: thamís
@@ -2528,6 +2576,7 @@ data:
       class: "n"
       field: The face and the light
       gloss: "wind"
+      concept: wind
       root: "f-r-v"
       frame: bare
     - form: furáv
@@ -2540,6 +2589,7 @@ data:
       class: "n"
       field: The face and the light
       gloss: "a star"
+      concept: star
       root: "n-z-f"
       frame: bare
     - form: nazíf
@@ -2552,6 +2602,7 @@ data:
       class: "n"
       field: The face and the light
       gloss: "the sky"
+      concept: sky
       root: "r-gh-l"
       frame: bare
     - form: raghíl
@@ -2672,6 +2723,7 @@ data:
       class: v
       field: Listening and the cut
       gloss: "to agree with one another"
+      concept: agree-verb
       root: "b-n-m"
       frame: reflexive
     - form: khasp
@@ -2751,7 +2803,8 @@ data:
       variants: [dagirez]
       class: adj
       field: Listening and the cut
-      gloss: "forced, wrested"
+      gloss: "forced, wrested; unnatural"
+      concept: unnatural
       root: "d-g-r"
       frame: adjective
     - form: dagarir
@@ -2865,7 +2918,8 @@ data:
     - form: gulám
       class: v
       field: Listening and the cut
-      gloss: "to bend with the rock"
+      gloss: "to bend; to bend with the rock"
+      concept: bend
       root: "g-l-m"
       frame: deed
     - form: gilmath
@@ -2993,12 +3047,14 @@ data:
       class: "n"
       field: Listening and the cut
       gloss: "a teacher"
+      concept: teacher
       root: "m-d-r"
       frame: worker
     - form: mudár
       class: v
       field: Listening and the cut
       gloss: "to teach"
+      concept: teach
       root: "m-d-r"
       frame: deed
     - form: vabak
@@ -3116,7 +3172,13 @@ data:
       gloss: "a laid wall"
       root: "r-m-k"
       frame: done thing
-    - {form: tanv, class: "n", field: The hold, gloss: "a gate", root: "t-n-v", frame: bare}
+    - form: tanv
+      class: "n"
+      field: The hold
+      gloss: "a gate"
+      root: "t-n-v"
+      frame: bare
+      concept: gate
     - form: tanvir
       class: "n"
       field: The hold
@@ -3172,10 +3234,17 @@ data:
       variants: [samidez]
       class: adj
       field: The hold
-      gloss: "raised, lofty"
+      gloss: "raised, lofty; high, tall"
+      concept: [high, tall]
       root: "s-m-d"
       frame: adjective
-    - {form: sumád, class: v, field: The hold, gloss: "to raise", root: "s-m-d", frame: deed}
+    - form: sumád
+      class: v
+      field: The hold
+      gloss: "to raise, to lift"
+      concept: lift
+      root: "s-m-d"
+      frame: deed
     - form: summád
       class: v
       field: The hold
@@ -3301,7 +3370,13 @@ data:
       concept: wall
     - {form: zalíd, class: adj, field: The hold, gloss: "walled", root: "z-l-d", frame: adjective}
     - {form: zulád, class: v, field: The hold, gloss: "to wall in", root: "z-l-d", frame: deed}
-    - {form: padhar, class: "n", field: The hold, gloss: "a chamber", root: "p-dh-r", frame: bare}
+    - form: padhar
+      class: "n"
+      field: The hold
+      gloss: "a chamber, a room"
+      concept: room
+      root: "p-dh-r"
+      frame: bare
     - form: pudhár
       class: v
       field: The hold
@@ -3356,7 +3431,8 @@ data:
     - form: vagath
       class: "n"
       field: Kin and the house
-      gloss: "a house"
+      gloss: "a house, a family"
+      concept: family
       root: "v-g-th"
       frame: bare
     - form: vagíth
@@ -3375,6 +3451,7 @@ data:
       class: "n"
       field: Kin and the house
       gloss: "a clan"
+      concept: clan
       root: "s-r-gh"
       frame: bare
     - form: sarígh
@@ -3393,6 +3470,7 @@ data:
       class: "n"
       field: Kin and the house
       gloss: "a lineage"
+      concept: lineage
       root: "n-s-v"
       frame: bare
     - form: nusáv
@@ -3411,12 +3489,14 @@ data:
       class: "n"
       field: Kin and the house
       gloss: "an elder"
+      concept: elder
       root: "p-b-r"
       frame: bare
     - form: pabír
       class: adj
       field: Kin and the house
-      gloss: "elder, senior"
+      gloss: "elder, senior; old in years"
+      concept: old
       root: "p-b-r"
       frame: adjective
     - form: pubár
@@ -3442,12 +3522,14 @@ data:
       class: adj
       field: Kin and the house
       gloss: "young"
+      concept: young
       root: "l-f-d"
       frame: adjective
     - form: lufád
       class: v
       field: Kin and the house
-      gloss: "to bear a child"
+      gloss: "to bear a child; a birth"
+      concept: [give-birth, birth]
       root: "l-f-d"
       frame: deed
     - form: davag
@@ -3507,7 +3589,8 @@ data:
     - form: nubád
       class: v
       field: Kin and the house
-      gloss: "to wed"
+      gloss: "to wed; a wedding, a marriage"
+      concept: [marry, marriage]
       root: "n-b-d"
       frame: deed
     - form: natubád
@@ -3520,6 +3603,7 @@ data:
       class: "n"
       field: Kin and the house
       gloss: "a forebear"
+      concept: ancestor
       root: "v-n-r"
       frame: bare
     - form: vanír
@@ -3550,6 +3634,7 @@ data:
       class: "n"
       field: Kin and the house
       gloss: "a name"
+      concept: name-noun
       root: "m-r-dh"
       frame: bare
     - form: marídh
@@ -3562,6 +3647,7 @@ data:
       class: v
       field: Kin and the house
       gloss: "to name, to lay a charge"
+      concept: name-verb
       root: "m-r-dh"
       frame: deed
     - form: valth
@@ -3671,7 +3757,8 @@ data:
     - form: valíd
       class: adj
       field: "Oath, law and measure"
-      gloss: "bound"
+      gloss: "bound; bound to do, must; constrained"
+      concept: [must, constrained]
       root: "v-l-d"
       frame: adjective
     - form: vulád
@@ -3695,7 +3782,8 @@ data:
     - form: varn
       class: "n"
       field: "Oath, law and measure"
-      gloss: "the true line, the line the rock runs"
+      gloss: "the true line, the line the rock runs; truly, indeed, said after one's own words to vouch for them"
+      concept: [truth, sincerity, indeed]
       root: "v-r-n"
       frame: bare
     - form: vurán
@@ -3744,6 +3832,7 @@ data:
       class: "n"
       field: "Oath, law and measure"
       gloss: "trust"
+      concept: trust
       root: "t-m-k"
       frame: bare
     - form: tamík
@@ -3792,6 +3881,7 @@ data:
       class: "n"
       field: "Oath, law and measure"
       gloss: "law"
+      concept: law
       root: "z-d-r"
       frame: bare
     - form: zadír
@@ -3851,7 +3941,8 @@ data:
     - form: mathaz
       class: "n"
       field: "Oath, law and measure"
-      gloss: "a measure"
+      gloss: "a measure, an amount"
+      concept: amount
       root: "m-th-z"
       frame: bare
     - form: mathíz
@@ -3864,6 +3955,7 @@ data:
       class: v
       field: "Oath, law and measure"
       gloss: "to measure"
+      concept: measure-verb
       root: "m-th-z"
       frame: deed
     - form: muttház
@@ -3887,7 +3979,8 @@ data:
     - form: thakíb
       class: adj
       field: "Oath, law and measure"
-      gloss: "weighty"
+      gloss: "weighty, important"
+      concept: important
       root: "th-k-b"
       frame: adjective
     - form: thukáb
@@ -3924,6 +4017,7 @@ data:
       class: "n"
       field: "Oath, law and measure"
       gloss: "a debt"
+      concept: debt
       root: "h-v-z"
       frame: bare
     - form: havíz
@@ -3935,7 +4029,8 @@ data:
     - form: huváz
       class: v
       field: "Oath, law and measure"
-      gloss: "to owe"
+      gloss: "to owe; to thank, by owning the debt"
+      concept: thank-verb
       root: "h-v-z"
       frame: deed
     - form: favad
@@ -3960,6 +4055,7 @@ data:
       class: "n"
       field: "Oath, law and measure"
       gloss: "a count, a number"
+      concept: number
       root: "k-m-v"
       frame: bare
     - form: kamvir
@@ -3972,6 +4068,7 @@ data:
       class: v
       field: "Oath, law and measure"
       gloss: "to count"
+      concept: count-verb
       root: "k-m-v"
       frame: deed
     - form: dakal
@@ -4032,6 +4129,7 @@ data:
       class: "n"
       field: "Oath, law and measure"
       gloss: "shame"
+      concept: shame
       root: "z-n-p"
       frame: bare
     - form: zaníp
@@ -4055,7 +4153,8 @@ data:
     - form: tharígh
       class: adj
       field: "Oath, law and measure"
-      gloss: "wrongful"
+      gloss: "wrong, wrongful"
+      concept: wrong-ethical
       root: "th-r-gh"
       frame: adjective
     - form: thurágh
@@ -4068,12 +4167,14 @@ data:
       class: "n"
       field: "Oath, law and measure"
       gloss: "a release, forgiveness"
+      concept: forgiveness
       root: "n-th-v"
       frame: bare
     - form: nutháv
       class: v
       field: "Oath, law and measure"
       gloss: "to release from a debt, to forgive"
+      concept: forgive-verb
       root: "n-th-v"
       frame: deed
     - form: savam
@@ -4098,6 +4199,7 @@ data:
       class: "n"
       field: "Oath, law and measure"
       gloss: "a gift"
+      concept: gift
       root: "th-n-z"
       frame: bare
     - form: thunáz
@@ -4394,6 +4496,7 @@ data:
       class: v
       field: Song and telling
       gloss: "to tell in order"
+      concept: tell
       root: "f-l-n"
       frame: deed
     - form: falnir
@@ -4520,8 +4623,8 @@ data:
       variants: [gunádhez]
       class: v
       field: Song and telling
-      gloss: "to speak"
-      concept: speak
+      gloss: "to speak, to say"
+      concept: [speak, say]
       root: "g-n-dh"
       frame: deed
     - form: gandhir
@@ -4558,7 +4661,8 @@ data:
       variants: [batimez]
       class: adj
       field: "Time and the mountain's seasons"
-      gloss: "lasting, old"
+      gloss: "lasting, long-lasting, old"
+      concept: [lasting-duration, long-duration, old-object]
       root: "b-t-m"
       frame: adjective
     - form: butám
@@ -4571,6 +4675,7 @@ data:
       class: "n"
       field: "Time and the mountain's seasons"
       gloss: "cold, the cold season"
+      concept: cold-noun
       root: "n-l-p"
       frame: bare
     - form: nalíp
@@ -4578,6 +4683,7 @@ data:
       class: adj
       field: "Time and the mountain's seasons"
       gloss: "cold"
+      concept: cold
       root: "n-l-p"
       frame: adjective
     - form: nuláp
@@ -4590,6 +4696,7 @@ data:
       class: "n"
       field: "Time and the mountain's seasons"
       gloss: "snow"
+      concept: snow
       root: "t-l-g"
       frame: bare
     - form: talíg
@@ -4632,6 +4739,7 @@ data:
       class: "n"
       field: "Time and the mountain's seasons"
       gloss: "a year"
+      concept: year
       root: "v-dh-l"
       frame: bare
     - form: vadhíl
@@ -4644,6 +4752,7 @@ data:
       class: "n"
       field: "Time and the mountain's seasons"
       gloss: "a season"
+      concept: season
       root: "f-s-k"
       frame: bare
     - form: fusák
@@ -4691,7 +4800,8 @@ data:
     - form: puzál
       class: v
       field: "Time and the mountain's seasons"
-      gloss: "to wait"
+      gloss: "to wait; wait! said to hold someone"
+      concept: [wait, expression-wait]
       root: "p-z-l"
       frame: deed
     - form: puzzál
@@ -4760,7 +4870,8 @@ data:
     - form: vuzál
       class: v
       field: Body and person
-      gloss: "to look closely"
+      gloss: "to look closely; look! said to draw the eye"
+      concept: [look, expression-look]
       root: "v-z-l"
       frame: deed
     - form: fanz
@@ -4798,6 +4909,7 @@ data:
       class: v
       field: Body and person
       gloss: "to bleed"
+      concept: bleed
       root: "r-th-v"
       frame: deed
     - form: mavadh
@@ -4856,6 +4968,7 @@ data:
       class: "n"
       field: Body and person
       gloss: "worked leather"
+      concept: leather
       root: "p-l-dh"
       frame: done thing
     - form: dazam
@@ -4869,6 +4982,7 @@ data:
       class: adj
       field: Body and person
       gloss: "strong"
+      concept: strong
       root: "d-z-m"
       frame: adjective
     - form: duzám
@@ -4884,7 +4998,13 @@ data:
       concept: foot
       root: "t-f-n"
       frame: bare
-    - {form: tufán, class: v, field: Body and person, gloss: "to step", root: "t-f-n", frame: deed}
+    - form: tufán
+      class: v
+      field: Body and person
+      gloss: "to step, to walk"
+      concept: walk
+      root: "t-f-n"
+      frame: deed
     - form: tifanath
       class: "n"
       field: The hold
@@ -4895,18 +5015,21 @@ data:
       class: "n"
       field: Body and person
       gloss: "a voice"
+      concept: voice
       root: "z-g-n"
       frame: bare
     - form: zagín
       class: adj
       field: Body and person
       gloss: "loud"
+      concept: loud
       root: "z-g-n"
       frame: adjective
     - form: zugán
       class: v
       field: Body and person
       gloss: "to call, to voice"
+      concept: call
       root: "z-g-n"
       frame: deed
     - form: hazam
@@ -4932,7 +5055,8 @@ data:
     - form: guráz
       class: v
       field: War and the guarding
-      gloss: "to guard"
+      gloss: "to guard; a guarding, protection"
+      concept: protection
       root: "g-r-z"
       frame: deed
     - form: gurráz
@@ -4969,6 +5093,7 @@ data:
       class: "n"
       field: War and the guarding
       gloss: "war"
+      concept: war
       root: "b-k-t"
       frame: bare
     - form: bakatir
@@ -4981,6 +5106,7 @@ data:
       class: v
       field: War and the guarding
       gloss: "to fight"
+      concept: fight
       root: "b-k-t"
       frame: deed
     - form: batukát
@@ -5047,7 +5173,8 @@ data:
     - form: dhuláz
       class: v
       field: War and the guarding
-      gloss: "to shield"
+      gloss: "to shield, to defend"
+      concept: defend
       root: "dh-l-z"
       frame: deed
     - form: faghat
@@ -5084,6 +5211,7 @@ data:
       class: v
       field: War and the guarding
       gloss: "to kill"
+      concept: kill
       root: "t-z-l"
       frame: deed
     - form: tuzzál
@@ -5107,7 +5235,8 @@ data:
     - form: nugár
       class: v
       field: War and the guarding
-      gloss: "to keep watch"
+      gloss: "to keep watch; to watch closely"
+      concept: watch
       root: "n-g-r"
       frame: deed
     - form: hunagar
@@ -5198,6 +5327,7 @@ data:
       class: "n"
       field: Death and memory
       gloss: "silence"
+      concept: silence
       root: "m-l-n"
       frame: bare
     - form: mulán
@@ -5216,12 +5346,14 @@ data:
       class: "n"
       field: Death and memory
       gloss: "death"
+      concept: death
       root: "th-v-l"
       frame: bare
     - form: thavíl
       class: adj
       field: Death and memory
       gloss: "dead"
+      concept: dead
       root: "th-v-l"
       frame: adjective
     - form: thuvál
@@ -5277,6 +5409,7 @@ data:
       class: v
       field: Death and memory
       gloss: "to remember"
+      concept: remember
       root: "n-b-t"
       frame: deed
     - form: nibatath
@@ -5301,24 +5434,28 @@ data:
       class: "n"
       field: Death and memory
       gloss: "ash"
+      concept: ash
       root: "th-f-r"
       frame: bare
     - form: thafír
       class: adj
       field: Death and memory
-      gloss: "ashen"
+      gloss: "ashen, grey"
+      concept: grey
       root: "th-f-r"
       frame: adjective
     - form: thufár
       class: v
       field: Death and memory
       gloss: "to burn to ash"
+      concept: burn
       root: "th-f-r"
       frame: deed
     - form: parv
       class: "n"
       field: Death and memory
       gloss: "cleanness, good order"
+      concept: order-noun
       root: "p-r-v"
       frame: bare
     - form: parív
@@ -5343,6 +5480,7 @@ data:
       class: "n"
       field: Death and memory
       gloss: "grief"
+      concept: grief
       root: "z-th-v"
       frame: bare
     - form: zathív
@@ -5355,6 +5493,7 @@ data:
       class: "n"
       field: Death and memory
       gloss: "rest, stillness"
+      concept: rest
       root: "d-b-z"
       frame: bare
     - form: dabíz
@@ -5367,7 +5506,8 @@ data:
     - form: dubáz
       class: v
       field: Death and memory
-      gloss: "to lie still"
+      gloss: "to lie down, to lie still"
+      concept: lie-down
       root: "d-b-z"
       frame: deed
     - form: pand-bugán
@@ -5398,6 +5538,7 @@ data:
       class: v
       field: Death and memory
       gloss: "to forget"
+      concept: forget
       root: "dh-m-s"
       frame: deed
     - form: zafal
@@ -5506,6 +5647,7 @@ data:
       class: "n"
       field: The god and devotion
       gloss: "a dream"
+      concept: dream
       root: "th-z-m"
       frame: bare
     - form: thazím
@@ -5543,6 +5685,7 @@ data:
       class: v
       field: The god and devotion
       gloss: "to hope"
+      concept: hope-verb
       root: "h-p-d"
       frame: deed
     - form: hapad-durákh
@@ -5650,13 +5793,15 @@ data:
     - form: thaghím
       class: adj
       field: The Shadow and what rises
-      gloss: "forbidden"
+      gloss: "forbidden; must not"
+      concept: [forbidden, must-not]
       root: "th-gh-m"
       frame: adjective
     - form: thughám
       class: v
       field: The Shadow and what rises
-      gloss: "to forbid"
+      gloss: "to forbid, to prohibit"
+      concept: prohibit
       root: "th-gh-m"
       frame: deed
     - form: naghath-sugháv
@@ -5674,7 +5819,8 @@ data:
     - form: khagal
       class: "n"
       field: The Shadow and what rises
-      gloss: "dread"
+      gloss: "dread, terror"
+      concept: terror
       root: "kh-g-l"
       frame: bare
     - form: khagíl
@@ -5783,6 +5929,7 @@ data:
       class: "n"
       field: Khazartúrn
       gloss: "a valley"
+      concept: valley
       root: "kh-dh-v"
       frame: bare
     - form: khadhív
@@ -5801,6 +5948,7 @@ data:
       class: "n"
       field: Other peoples and the larder
       gloss: "a human"
+      concept: human
       root: "t-l-gh"
       frame: bare
     - form: talígh
@@ -5873,18 +6021,21 @@ data:
       class: "n"
       field: Other peoples and the larder
       gloss: "an exchange"
+      concept: exchange-noun
       root: "m-k-dh"
       frame: bare
     - form: mukádh
       class: v
       field: Other peoples and the larder
-      gloss: "to exchange"
+      gloss: "to exchange, to trade"
+      concept: trade
       root: "m-k-dh"
       frame: deed
     - form: vagaz
       class: "n"
       field: Other peoples and the larder
       gloss: "an outsider"
+      concept: stranger
       root: "v-g-z"
       frame: bare
     - form: vagíz
@@ -5908,7 +6059,8 @@ data:
     - form: vadhagh
       class: "n"
       field: Other peoples and the larder
-      gloss: "the sea"
+      gloss: "the sea, the ocean"
+      concept: [sea, ocean]
       root: "v-dh-gh"
       frame: bare
     - form: vudhágh
@@ -5957,6 +6109,7 @@ data:
       class: "n"
       field: Other peoples and the larder
       gloss: "a river"
+      concept: river
       root: "l-dh-v"
       frame: bare
     - form: ludháv
@@ -5981,24 +6134,28 @@ data:
       class: "n"
       field: Other peoples and the larder
       gloss: "hunger, a lean year"
+      concept: hunger
       root: "g-z-m"
       frame: bare
     - form: gazím
       class: adj
       field: Other peoples and the larder
       gloss: "hungry, lean"
+      concept: hungry
       root: "g-z-m"
       frame: adjective
     - form: targ
       class: "n"
       field: Other peoples and the larder
       gloss: "thirst, dryness"
+      concept: thirst
       root: "t-r-g"
       frame: bare
     - form: taríg
       class: adj
       field: Other peoples and the larder
       gloss: "thirsty, dry"
+      concept: [thirsty, dry]
       root: "t-r-g"
       frame: adjective
     - form: galk
@@ -6019,6 +6176,7 @@ data:
       class: "n"
       field: Other peoples and the larder
       gloss: "the bearing of the crown, a king"
+      concept: ruler
       root: "p-r-gh + b-r-th"
       frame: compound
     - form: barth
@@ -6037,6 +6195,7 @@ data:
       class: v
       field: Motion and holding
       gloss: "to bear, to carry"
+      concept: carry
       root: "b-r-th"
       frame: deed
     - form: baturáth
@@ -6061,26 +6220,29 @@ data:
     - form: durákh
       class: v
       field: Motion and holding
-      gloss: "to hold fast"
+      gloss: "to hold, to hold fast"
+      concept: hold
       root: "d-r-kh"
       frame: deed
     - form: zavak
       class: "n"
       field: Motion and holding
-      gloss: "a standing, a place to stand"
+      gloss: "a standing, a place to stand; a position"
+      concept: position
       root: "z-v-k"
       frame: bare
     - form: zuvák
       class: v
       field: Motion and holding
-      gloss: "to be, to stand"
-      concept: be
+      gloss: "to be, to stand; yes, as an answer"
+      concept: [be, stand, exist, yes]
       root: "z-v-k"
       frame: deed
     - form: darm
       class: "n"
       field: Motion and holding
       gloss: "a seat"
+      concept: seat
       root: "d-r-m"
       frame: bare
     - form: durám
@@ -6113,6 +6275,7 @@ data:
       class: v
       field: Motion and holding
       gloss: "to arrive"
+      concept: arrive
       root: "n-z-v"
       frame: deed
     - form: tharp
@@ -6131,6 +6294,7 @@ data:
       class: v
       field: Motion and holding
       gloss: "to climb"
+      concept: climb
       root: "th-r-p"
       frame: deed
     - form: nadhap
@@ -6154,7 +6318,8 @@ data:
     - form: guláp
       class: v
       field: Motion and holding
-      gloss: "to haul"
+      gloss: "to haul, to pull"
+      concept: pull
       root: "g-l-p"
       frame: deed
     - form: varg
@@ -6180,6 +6345,7 @@ data:
       class: v
       field: Motion and holding
       gloss: "to return"
+      concept: return
       root: "r-g-l"
       frame: deed
     - form: varg-gulád
@@ -6204,6 +6370,7 @@ data:
       class: "n"
       field: Motion and holding
       gloss: "the middle, what lies between"
+      concept: center
       root: "m-d-n"
       frame: bare
     - form: madín
@@ -6227,26 +6394,30 @@ data:
     - form: dhuráz
       class: v
       field: Motion and holding
-      gloss: "to walk away from, to abandon"
+      gloss: "to walk away from, to leave, to abandon"
+      concept: leave
       root: "dh-r-z"
       frame: deed
     - form: taghav
       class: "n"
       field: Grammar words
-      gloss: "the whole"
+      gloss: "the whole, everything"
+      concept: everything
       root: "t-gh-v"
       frame: bare
     - form: taghív
       variants: [taghivez]
       class: adj
       field: Grammar words
-      gloss: "whole, entire"
+      gloss: "whole, entire, all"
+      concept: [whole, all]
       root: "t-gh-v"
       frame: adjective
     - form: fadhaz
       class: "n"
       field: Grammar words
       gloss: "a part, a sixteenth"
+      concept: part
       root: "f-dh-z"
       frame: bare
     - form: fudház
@@ -6271,15 +6442,16 @@ data:
     - form: ravaz
       class: "n"
       field: Grammar words
-      gloss: "a multitude"
+      gloss: "a multitude, a crowd"
+      concept: crowd
       root: "r-v-z"
       frame: bare
     - form: ravíz
       variants: [ravizez, ravízez]
       class: adj
       field: Grammar words
-      gloss: "many"
-      concept: many
+      gloss: "many, much"
+      concept: [many, much]
       root: "r-v-z"
       frame: adjective
     - {form: dhapal, class: "n", field: Grammar words, gloss: "a few", root: "dh-p-l", frame: bare}
@@ -6287,26 +6459,29 @@ data:
       variants: [dhapilez]
       class: adj
       field: Grammar words
-      gloss: "few, scant"
-      concept: few
+      gloss: "few, scant, little"
+      concept: [few, little-quantity]
       root: "dh-p-l"
       frame: adjective
     - form: tavaz
       class: "n"
       field: Grammar words
-      gloss: "each one"
+      gloss: "each one, everyone"
+      concept: everyone
       root: "t-v-z"
       frame: bare
     - form: tavíz
       class: adj
       field: Grammar words
       gloss: "each, every"
+      concept: [each, every]
       root: "t-v-z"
       frame: adjective
     - form: khapav
       class: "n"
       field: Grammar words
       gloss: "another"
+      concept: another
       root: "kh-p-v"
       frame: bare
     - form: khapív
@@ -6314,6 +6489,7 @@ data:
       class: adj
       field: Grammar words
       gloss: "other"
+      concept: other
       root: "kh-p-v"
       frame: adjective
     - form: ladhap
@@ -6327,6 +6503,7 @@ data:
       class: adj
       field: Grammar words
       gloss: "same, alike"
+      concept: same
       root: "l-dh-p"
       frame: adjective
     - form: vazath
@@ -6352,7 +6529,7 @@ data:
       class: adj
       field: Grammar words
       gloss: "first"
-      concept: first
+      concept: [first, first-sequence]
       root: "dh-n-v"
       frame: adjective
     - form: favaz
@@ -6366,50 +6543,104 @@ data:
       class: adj
       field: Grammar words
       gloss: "last"
+      concept: last
       root: "f-v-z"
       frame: adjective
-    - {form: gaz, class: pron, field: Grammar words, gloss: "I"}
-    - {form: ves, class: pron, field: Grammar words, gloss: "you"}
-    - {form: vog, class: pron, field: Grammar words, gloss: "he, she, it"}
-    - {form: gazun, class: pron, field: Grammar words, gloss: "we"}
-    - {form: vesun, class: pron, field: Grammar words, gloss: "you (many)"}
-    - {form: vogun, class: pron, field: Grammar words, gloss: "they"}
-    - {form: kedz, class: dem, field: Grammar words, gloss: "this, these"}
-    - {form: kodz, class: dem, field: Grammar words, gloss: "that, those"}
-    - {form: kelg, class: dem, field: Grammar words, gloss: "here"}
-    - {form: kolg, class: dem, field: Grammar words, gloss: "there"}
-    - {form: thuf, class: part, field: Grammar words, gloss: "not; stands before the verb"}
-    - {form: zef, class: part, field: Grammar words, gloss: "closes a question"}
-    - {form: thiz, class: part, field: Grammar words, gloss: "who? opens a question"}
-    - {form: thaz, class: part, field: Grammar words, gloss: "what? opens a question"}
-    - {form: thuz, class: part, field: Grammar words, gloss: "where? opens a question"}
-    - {form: bep, class: conj, field: Grammar words, gloss: "and"}
-    - {form: duz, class: conj, field: Grammar words, gloss: "or"}
-    - {form: gev, class: conj, field: Grammar words, gloss: "but"}
-    - {form: hiz, class: conj, field: Grammar words, gloss: "if"}
+    - {form: gaz, class: pron, field: Grammar words, gloss: "I", concept: i}
+    - {form: ves, class: pron, field: Grammar words, gloss: "you", concept: you-reference}
+    - {form: vog, class: pron, field: Grammar words, gloss: "he, she, it", concept: [he, she, it]}
+    - {form: gazun, class: pron, field: Grammar words, gloss: "we", concept: we}
+    - {form: vesun, class: pron, field: Grammar words, gloss: "you (many)", concept: you-reference}
+    - {form: vogun, class: pron, field: Grammar words, gloss: "they", concept: they}
+    - {form: kedz, class: dem, field: Grammar words, gloss: "this, these", concept: [this, these]}
+    - {form: kodz, class: dem, field: Grammar words, gloss: "that, those", concept: [that, those]}
+    - {form: kelg, class: dem, field: Grammar words, gloss: "here", concept: here}
+    - {form: kolg, class: dem, field: Grammar words, gloss: "there", concept: there}
+    - form: thuf
+      class: part
+      field: Grammar words
+      gloss: "not; stands before the verb; no, as an answer"
+      concept: [not, no]
+    - form: zef
+      class: part
+      field: Grammar words
+      gloss: "closes a question"
+      concept: question-polar
+    - form: thiz
+      class: part
+      field: Grammar words
+      gloss: "who? opens a question"
+      concept: question-who
+    - form: thaz
+      class: part
+      field: Grammar words
+      gloss: "what? opens a question; what? said alone"
+      concept: [question-what, expression-what]
+    - form: thuz
+      class: part
+      field: Grammar words
+      gloss: "where? opens a question"
+      concept: question-where
+    - {form: bep, class: conj, field: Grammar words, gloss: "and", concept: and}
+    - {form: duz, class: conj, field: Grammar words, gloss: "or", concept: or}
+    - form: gev
+      class: conj
+      field: Grammar words
+      gloss: "but; however"
+      concept: [but, however]
+    - {form: hiz, class: conj, field: Grammar words, gloss: "if; whether", concept: [if, whether]}
     - form: zi
       class: rel
       field: Grammar words
       gloss: "who, which, that; opens a clause after its noun"
     - {form: nuv, class: part, field: Grammar words, gloss: "with, together with"}
-    - {form: lez, class: part, field: Grammar words, gloss: "also"}
-    - {form: hez, class: part, field: Grammar words, gloss: "again"}
-    - {form: gol, class: part, field: Grammar words, gloss: "from, out of; stands before its noun"}
-    - {form: tev, class: part, field: Grammar words, gloss: "to, toward"}
-    - {form: pes, class: part, field: Grammar words, gloss: "for, on behalf of, on account of"}
+    - {form: lez, class: part, field: Grammar words, gloss: "also", concept: also}
+    - form: hez
+      class: part
+      field: Grammar words
+      gloss: "again; again! said for a thing to be done again"
+      concept: [again, expression-again]
+    - form: gol
+      class: part
+      field: Grammar words
+      gloss: "from, out of; stands before its noun"
+      concept: from
+    - {form: tev, class: part, field: Grammar words, gloss: "to, toward", concept: [toward, to]}
+    - form: pes
+      class: part
+      field: Grammar words
+      gloss: "for, on behalf of, on account of; so that"
+      concept: for-purpose
     - form: kob
       class: part
       field: Grammar words
       gloss: "on, upon; against a name in the record"
+      concept: on
     - {form: bel, class: part, field: Grammar words, gloss: "into"}
-    - {form: sod, class: part, field: Grammar words, gloss: "over, above"}
+    - {form: sod, class: part, field: Grammar words, gloss: "over, above", concept: [above, over]}
     - {form: dev, class: part, field: Grammar words, gloss: "along"}
-    - {form: nol, class: part, field: Grammar words, gloss: "under, beneath"}
-    - {form: fod, class: part, field: Grammar words, gloss: "beyond"}
-    - {form: gez, class: conj, field: Grammar words, gloss: "because; opens a clause"}
+    - form: nol
+      class: part
+      field: Grammar words
+      gloss: "under, beneath, below"
+      concept: [under, below]
+    - form: fod
+      class: part
+      field: Grammar words
+      gloss: "beyond; than, after an adjective"
+      concept: [beyond, than]
+    - form: gez
+      class: conj
+      field: Grammar words
+      gloss: "because; opens a clause"
+      concept: because
     - {form: tav, class: conj, field: Grammar words, gloss: "when; opens a clause"}
-    - {form: kos, class: conj, field: Grammar words, gloss: "as, like; opens a likeness"}
-    - {form: tob, class: num, field: Grammar words, gloss: "one", concept: one}
+    - form: kos
+      class: conj
+      field: Grammar words
+      gloss: "as, like; opens a likeness; about, before a count"
+      concept: [like, as, about]
+    - {form: tob, class: num, field: Grammar words, gloss: "one; someone", concept: [one, someone]}
     - {form: zik, class: num, field: Grammar words, gloss: "two", concept: two}
     - {form: vem, class: num, field: Grammar words, gloss: "three", concept: three}
     - {form: bozd, class: num, field: Grammar words, gloss: "four", concept: four}
@@ -6428,7 +6659,8 @@ data:
     - form: puvár
       class: v
       field: Motion and holding
-      gloss: "have as a belonging, member or constituent"
+      gloss: "have as a belonging, member or constituent; a having, ownership"
+      concept: [have, ownership]
       root: "p-v-r"
       frame: deed
     - form: buvár
@@ -6441,12 +6673,14 @@ data:
       class: v
       field: Oath, law and measure
       gloss: "choose or elect"
+      concept: choose
       root: "k-r-n"
       frame: deed
     - form: nuzám
       class: v
       field: Motion and holding
       gloss: "follow a person, group, route or event in sequence"
+      concept: follow
       root: "n-z-m"
       frame: deed
     - form: savar
@@ -6473,12 +6707,19 @@ data:
       gloss: "difference in number or amount"
       root: "b-dh-l"
       frame: bare
-    - {form: lagan, class: n, field: The hold, gloss: "table", root: "l-g-n", frame: bare}
+    - form: lagan
+      class: n
+      field: The hold
+      gloss: "table"
+      root: "l-g-n"
+      frame: bare
+      concept: table
     - form: nalív
       variants: [nalívez]
       class: adj
       field: The grain of the rock
-      gloss: "lower, underlying"
+      gloss: "lower, underlying; low"
+      concept: low
       root: "n-l-v"
       frame: adjective
     - form: nuláv
@@ -6503,18 +6744,21 @@ data:
       class: adj
       field: Other peoples and the larder
       gloss: "used up or exhausted"
+      concept: exhausted
       root: "g-th-l"
       frame: adjective
     - form: gunát
       class: v
       field: Other peoples and the larder
       gloss: "eat or consume food"
+      concept: eat
       root: "g-n-t"
       frame: deed
     - form: thuláv
       class: v
       field: Motion and holding
       gloss: "remain as a remainder"
+      concept: remain
       root: "th-l-v"
       frame: deed
     - form: huráp
@@ -6551,12 +6795,14 @@ data:
       class: n
       field: The face and the light
       gloss: "shore"
+      concept: shore
       root: "m-l-d"
       frame: bare
     - form: khavam
       class: n
       field: The face and the light
       gloss: "lake"
+      concept: lake
       root: "kh-v-m"
       frame: bare
     - form: faríkh
@@ -6570,12 +6816,14 @@ data:
       class: adj
       field: The grain of the rock
       gloss: "wet"
+      concept: wet
       root: "d-z-k"
       frame: adjective
     - form: davan
       class: n
       field: Time and the mountain's seasons
       gloss: "day"
+      concept: day
       root: "d-v-n"
       frame: bare
     - form: zagath-sumád
@@ -6601,6 +6849,7 @@ data:
       class: v
       field: Oath, law and measure
       gloss: "refuse a request or proposed act"
+      concept: refuse-verb
       root: "th-v-r"
       frame: deed
     - form: nadar
@@ -6625,18 +6874,21 @@ data:
       class: n
       field: Time and the mountain's seasons
       gloss: "night"
+      concept: night
       root: "n-v-th"
       frame: bare
     - form: tamur
       class: n
       field: Other peoples and the larder
       gloss: "tribe, a tribal people"
+      concept: tribe
       root: "t-m-r"
       frame: bare
     - form: khumád
       class: v
       field: Listening and the cut
       gloss: "hear sounds or spoken words"
+      concept: hear-verb
       root: "kh-m-d"
       frame: deed
     - form: garn
@@ -6649,6 +6901,7 @@ data:
       class: n
       field: Other peoples and the larder
       gloss: "water"
+      concept: water
       root: "b-v-l"
       frame: bare
     - form: zalv
@@ -6667,9 +6920,16 @@ data:
       class: n
       field: Time and the mountain's seasons
       gloss: "distance"
+      concept: distance
       root: "t-r-v"
       frame: bare
-    - {form: napal, class: n, field: Body and person, gloss: "finger", root: "n-p-l", frame: bare}
+    - form: napal
+      class: n
+      field: Body and person
+      gloss: "finger"
+      root: "n-p-l"
+      frame: bare
+      concept: finger
     - form: duráz
       class: v
       field: Oath, law and measure
@@ -6704,6 +6964,7 @@ data:
       class: v
       field: Oath, law and measure
       gloss: "need or require the named thing"
+      concept: need-verb
       root: "d-h-v"
       frame: deed
     - form: lazam
@@ -6716,6 +6977,7 @@ data:
       class: n
       field: Other peoples and the larder
       gloss: "food"
+      concept: food
       root: "t-m-kh"
       frame: bare
     - form: hutamkh
@@ -6728,24 +6990,28 @@ data:
       class: v
       field: The grain of the rock
       gloss: "break or rupture a whole or its continuity"
+      concept: break
       root: "g-z-r"
       frame: deed
     - form: ragad
       class: n
       field: Motion and holding
       gloss: "party, a group travelling or acting together"
+      concept: group
       root: "r-g-d"
       frame: bare
     - form: zavan
       class: n
       field: The hold
       gloss: "place or location"
+      concept: place-noun
       root: "z-v-n"
       frame: bare
     - form: karth
       class: n
       field: Oath, law and measure
-      gloss: "intention or intended design"
+      gloss: "intention, intended design; purpose"
+      concept: purpose
       root: "k-r-th"
       frame: bare
     - form: karíth
@@ -6753,6 +7019,7 @@ data:
       class: adj
       field: Oath, law and measure
       gloss: "intended or designed for"
+      concept: intended
       root: "k-r-th"
       frame: adjective
     - {form: ravam, class: n, field: The hold, gloss: "gallery", root: "r-v-m", frame: bare}
@@ -6796,6 +7063,7 @@ data:
       class: n
       field: Craft and the forge
       gloss: "completion or a finishing"
+      concept: completion
       root: "k-r-m"
       frame: bare
     - form: karím
@@ -6803,6 +7071,7 @@ data:
       class: adj
       field: Craft and the forge
       gloss: "finished or complete"
+      concept: complete
       root: "k-r-m"
       frame: adjective
     - form: vagath-murádh
@@ -6827,6 +7096,7 @@ data:
       class: n
       field: Other peoples and the larder
       gloss: "jar"
+      concept: jar
       root: "h-v-m"
       frame: bare
     - form: pulát
@@ -6896,30 +7166,34 @@ data:
       class: n
       field: "Other peoples and the larder"
       gloss: "drawing or hauling water"
-      root: "b-v-l bare + g-l-p deed"
+      root: "b-v-l + g-l-p"
       frame: compound
     - form: ruthák
       class: v
       field: "Listening and the cut"
       gloss: "know a fact or thing"
+      concept: know
       root: "r-th-k"
       frame: deed
     - form: param
       class: n
       field: "Body and person"
       gloss: "life, the lived duration of a person"
+      concept: life
       root: "p-r-m"
       frame: bare
     - form: purám
       class: v
       field: "Body and person"
       gloss: "live or be alive"
+      concept: live
       root: "p-r-m"
       frame: deed
     - form: galv
       class: n
       field: "Motion and holding"
       gloss: "west"
+      concept: west
       root: "g-l-v"
       frame: bare
     - form: galív
@@ -6938,6 +7212,7 @@ data:
       class: n
       field: "Motion and holding"
       gloss: "east"
+      concept: east
       root: "r-v-th"
       frame: bare
     - form: ruváth
@@ -6955,7 +7230,8 @@ data:
     - form: gatal
       class: n
       field: "Craft and the forge"
-      gloss: "timber"
+      gloss: "timber, wood"
+      concept: wood
       root: "g-t-l"
       frame: bare
     - form: gadíb
@@ -6968,25 +7244,25 @@ data:
       class: n
       field: "Time and the mountain's seasons"
       gloss: "end of the cold season"
-      root: "n-l-p bare + k-r-m deed"
+      root: "n-l-p + k-r-m"
       frame: compound
     - form: basur-fuván
       class: n
       field: "Other peoples and the larder"
       gloss: "flow or welling of a spring"
-      root: "b-s-r bare + f-v-n deed"
+      root: "b-s-r + f-v-n"
       frame: compound
     - form: baval-lumáv
       class: n
       field: "Oath, law and measure"
       gloss: "water-record"
-      root: "b-v-l bare + l-m-v deed"
+      root: "b-v-l + l-m-v"
       frame: compound
     - form: khabar-rukád
       class: n
       field: "Listening and the cut"
       gloss: "reading of a face"
-      root: "kh-b-r bare + r-k-d deed"
+      root: "kh-b-r + r-k-d"
       frame: compound
     - form: kalv
       class: n
@@ -7010,10 +7286,23 @@ data:
       class: adj
       field: "Motion and holding"
       gloss: "short in length or extent"
+      concept: short
       root: "n-d-v"
       frame: adjective
-    - {form: kasum, class: n, field: "Body and person", gloss: "ear", root: "k-s-m", frame: bare}
-    - {form: sumál, class: v, field: "Body and person", gloss: "sleep", root: "s-m-l", frame: deed}
+    - form: kasum
+      class: n
+      field: "Body and person"
+      gloss: "ear"
+      root: "k-s-m"
+      frame: bare
+      concept: ear
+    - form: sumál
+      class: v
+      field: "Body and person"
+      gloss: "sleep"
+      root: "s-m-l"
+      frame: deed
+      concept: sleep-verb
     - form: barg
       class: n
       field: "Craft and the forge"
@@ -7024,7 +7313,7 @@ data:
       class: n
       field: "Caves and their finding"
       gloss: "opening or parting of a natural joint"
-      root: "b-k-th bare + p-th-k deed"
+      root: "b-k-th + p-th-k"
       frame: compound
     - form: padar
       class: n
@@ -7036,6 +7325,7 @@ data:
       class: n
       field: "Other peoples and the larder"
       gloss: "rain"
+      concept: rain
       root: "b-d-v"
       frame: bare
     - form: rubáth
@@ -7048,42 +7338,43 @@ data:
       class: n
       field: "Oath, law and measure"
       gloss: "measurement-record"
-      root: "m-th-z bare + l-m-v deed"
+      root: "m-th-z + l-m-v"
       frame: compound
     - form: magar-rukád
       class: n
       field: "Other peoples and the larder"
       gloss: "reading of the grain"
-      root: "m-g-r bare + r-k-d deed"
+      root: "m-g-r + r-k-d"
       frame: compound
     - form: magar-dulák
       class: n
       field: "Other peoples and the larder"
       gloss: "cutting along the grain"
-      root: "m-g-r bare + d-l-k deed"
+      root: "m-g-r + d-l-k"
       frame: compound
     - form: khatab-dulák
       class: n
       field: "Craft and the forge"
       gloss: "cutting the ruled line"
-      root: "kh-t-b bare + d-l-k deed"
+      root: "kh-t-b + d-l-k"
       frame: compound
     - form: makas-puthák
       class: n
       field: "Other peoples and the larder"
       gloss: "opening of a cache"
-      root: "m-k-s bare + p-th-k deed"
+      root: "m-k-s + p-th-k"
       frame: compound
     - form: bant-hurát
       class: n
       field: "Oath, law and measure"
       gloss: "reading of an oath"
-      root: "b-n-t bare + h-r-t deed"
+      root: "b-n-t + h-r-t"
       frame: compound
     - form: badath
       class: n
       field: "Oath, law and measure"
       gloss: "one quarter of the relevant whole"
+      concept: quarter
       root: "b-d-th"
       frame: bare
     - form: garb
@@ -7114,12 +7405,14 @@ data:
       class: n
       field: "The face and the light"
       gloss: "heat or warmth"
+      concept: [warmth, heat]
       root: "h-l-d"
       frame: bare
     - form: halíd
       class: adj
       field: "The face and the light"
       gloss: "warm or hot"
+      concept: [hot, warm]
       root: "h-l-d"
       frame: adjective
     - form: hulád
@@ -7138,19 +7431,19 @@ data:
       class: n
       field: "Other peoples and the larder"
       gloss: "a spring's course, its going"
-      root: "b-s-r bare + f-n-d deed"
+      root: "b-s-r + f-n-d"
       frame: compound
     - form: zaghar-khubár
       class: n
       field: "The face and the light"
       gloss: "ore-face, the face fronting ore"
-      root: "z-gh-r bare + kh-b-r deed"
+      root: "z-gh-r + kh-b-r"
       frame: compound
     - form: vadhagh-khubár
       class: n
       field: "The face and the light"
       gloss: "sea-face, the face fronting the sea"
-      root: "v-dh-gh bare + kh-b-r deed"
+      root: "v-dh-gh + kh-b-r"
       frame: compound
     - form: hals
       class: n
@@ -7174,42 +7467,47 @@ data:
       class: n
       field: "The face and the light"
       gloss: "warming during the day"
-      root: "d-v-n bare + h-l-d deed"
+      root: "d-v-n + h-l-d"
       frame: compound
     - form: baval-khunák
       class: n
       field: "Craft and the forge"
       gloss: "water-line, the work leading water"
-      root: "b-v-l bare + kh-n-k deed"
+      root: "b-v-l + kh-n-k"
       frame: compound
     - form: zuráb
       class: v
       field: "Motion and holding"
       gloss: "lose something"
+      concept: lose
       root: "z-r-b"
       frame: deed
     - form: zunám
       class: v
       field: "Body and person"
       gloss: "resemble or present the appearance of something"
+      concept: seem
       root: "z-n-m"
       frame: deed
     - form: zavar
       class: n
       field: "The grain of the rock"
       gloss: "change of state or course"
+      concept: change-noun
       root: "z-v-r"
       frame: bare
     - form: zuvár
       class: v
       field: "The grain of the rock"
       gloss: "change a state or course"
+      concept: change-verb
       root: "z-v-r"
       frame: deed
     - form: lamíth
       class: adj
       field: "Oath, law and measure"
       gloss: "permitted or admitted to the act under discussion"
+      concept: allowed
       root: "l-m-th"
       frame: adjective
     - form: ravíth
@@ -7240,6 +7538,7 @@ data:
       class: n
       field: "Other peoples and the larder"
       gloss: "evening or dusk"
+      concept: [evening, dusk]
       root: "n-v-r"
       frame: bare
     - form: lalap
@@ -7252,6 +7551,7 @@ data:
       class: n
       field: "Caves and their finding"
       gloss: "shutter, a sliding cover"
+      concept: shutters
       root: "n-p-d"
       frame: bare
     - form: kazaf
@@ -7270,6 +7570,7 @@ data:
       class: n
       field: "Other peoples and the larder"
       gloss: "left-hand side"
+      concept: left-direction
       root: "g-v-l"
       frame: bare
     - form: narív
@@ -7277,6 +7578,7 @@ data:
       class: adj
       field: "Motion and holding"
       gloss: "long"
+      concept: long
       root: "n-r-v"
       frame: adjective
     - form: maraf
@@ -7312,7 +7614,8 @@ data:
     - form: garad
       class: n
       field: "Other peoples and the larder"
-      gloss: "sack"
+      gloss: "a sack, a bag"
+      concept: bag
       root: "g-r-d"
       frame: bare
     - form: malak
@@ -7395,11 +7698,18 @@ data:
       gloss: "wick"
       root: "s-n-v"
       frame: bare
-    - {form: ganp, class: n, field: "The deep", gloss: "mouth", root: "g-n-p", frame: bare}
+    - form: ganp
+      class: n
+      field: "The deep"
+      gloss: "mouth"
+      root: "g-n-p"
+      frame: bare
+      concept: mouth
     - form: rathak
       class: n
       field: "Craft and the forge"
       gloss: "knowledge of a matter"
+      concept: knowledge
       root: "r-th-k"
       frame: bare
     - form: nugádh
@@ -7413,6 +7723,7 @@ data:
       class: adj
       field: "Body and person"
       gloss: "small in physical size"
+      concept: small
       root: "n-p-k"
       frame: adjective
     - form: tapak
@@ -7479,6 +7790,7 @@ data:
       class: v
       field: "The deep"
       gloss: "want or like the act under discussion"
+      concept: want
       root: "t-m-s"
       frame: deed
     - form: maval-kumáv
@@ -7492,6 +7804,7 @@ data:
       class: adj
       field: "Other peoples and the larder"
       gloss: "living, alive"
+      concept: alive
       root: "p-r-m"
       frame: adjective
     - form: rugán
@@ -7517,6 +7830,7 @@ data:
       class: adj
       field: "The deep"
       gloss: "slow"
+      concept: slow
       root: "p-l-v"
       frame: adjective
     - {form: barn, class: n, field: "The deep", gloss: "signal horn", root: "b-r-n", frame: bare}
@@ -7530,6 +7844,7 @@ data:
       class: n
       field: "The deep"
       gloss: "now, the present moment"
+      concept: [now, moment, present]
       root: "k-l-d"
       frame: bare
     - form: bintath
@@ -7561,6 +7876,7 @@ data:
       class: v
       field: "The deep"
       gloss: "flee or escape under pressure"
+      concept: flee
       root: "f-z-v"
       frame: deed
     - form: palín
@@ -7586,18 +7902,21 @@ data:
       class: v
       field: "Motion and holding"
       gloss: "drop or let fall"
+      concept: drop
       root: "p-g-r"
       frame: deed
     - form: dumán
       class: v
       field: "The deep"
-      gloss: "stop or cease"
+      gloss: "stop or cease; stop! said to halt someone"
+      concept: [stop, expression-stop]
       root: "d-m-n"
       frame: deed
     - form: vuzám
       class: v
       field: "The deep"
       gloss: "see with the eyes"
+      concept: see-verb
       root: "v-z-m"
       frame: deed
     - form: khamd
@@ -7616,6 +7935,7 @@ data:
       class: v
       field: "The deep"
       gloss: "find or discover a thing"
+      concept: find
       root: "r-k-v"
       frame: deed
     - form: bumáth
@@ -7624,14 +7944,26 @@ data:
       gloss: "make a work for a recipient's use, custom-build for someone"
       root: "b-m-th"
       frame: deed
-    - {form: tarm, class: n, field: "The deep", gloss: "tree", root: "t-r-m", frame: bare}
+    - form: tarm
+      class: n
+      field: "The deep"
+      gloss: "tree"
+      root: "t-r-m"
+      frame: bare
+      concept: tree
     - form: dirpath
       class: n
       field: "The grain of the rock"
       gloss: "dripstone, a formation made by dripping"
       root: "d-r-p"
       frame: done thing
-    - {form: zumáv, class: v, field: "The deep", gloss: "sweat", root: "z-m-v", frame: deed}
+    - form: zumáv
+      class: v
+      field: "The deep"
+      gloss: "sweat"
+      root: "z-m-v"
+      frame: deed
+      concept: sweat-verb
     - {form: dhumád, class: v, field: "The deep", gloss: "weep", root: "dh-m-d", frame: deed}
     - form: gazav
       class: n
@@ -7731,11 +8063,18 @@ data:
       gloss: "rock or wobble without overturning"
       root: "r-m-l"
       frame: deed
-    - {form: bart, class: n, field: "Body and person", gloss: "knee", root: b-r-t, frame: bare}
+    - form: bart
+      class: n
+      field: "Body and person"
+      gloss: "knee"
+      root: b-r-t
+      frame: bare
+      concept: knee
     - form: gamun
       class: n
       field: "Other peoples and the larder"
       gloss: "month"
+      concept: month
       root: "g-m-n"
       frame: bare
     - form: duváb
@@ -7754,6 +8093,7 @@ data:
       class: n
       field: "Motion and holding"
       gloss: "right-hand side"
+      concept: right-direction
       root: "r-s-m"
       frame: bare
     - form: rasím
@@ -7766,18 +8106,21 @@ data:
       class: n
       field: "The deep"
       gloss: "a parent whose sex is unspecified"
+      concept: parent
       root: ""
       frame: bare
     - form: thudáv
       class: v
       field: "Body and person"
       gloss: "think or hold a proposition in mind"
+      concept: think
       root: "th-d-v"
       frame: deed
     - form: navak
       class: n
       field: "Other peoples and the larder"
       gloss: "fish"
+      concept: fish
       root: "n-v-k"
       frame: bare
     - form: fazal
@@ -7790,15 +8133,23 @@ data:
       class: n
       field: "The grain of the rock"
       gloss: "ice"
+      concept: ice
       root: "g-th-v"
       frame: bare
     - form: navas
       class: n
       field: "Other peoples and the larder"
       gloss: "sand"
+      concept: sand
       root: "n-v-s"
       frame: bare
-    - {form: tazab, class: n, field: "Body and person", gloss: "ankle", root: "t-z-b", frame: bare}
+    - form: tazab
+      class: n
+      field: "Body and person"
+      gloss: "ankle"
+      root: "t-z-b"
+      frame: bare
+      concept: ankle
     - form: vadhagh-fusák
       class: n
       field: "Other peoples and the larder"
@@ -7827,6 +8178,7 @@ data:
       class: n
       field: "Caves and their finding"
       gloss: "roof of a chamber or building"
+      concept: [roof, ceiling]
       root: "d-k-m"
       frame: bare
     - {"form": "khazár", "class": "n", "field": "Kin and the house", "gloss": "one of the people"}
@@ -7840,6 +8192,7 @@ data:
       "class": "adj"
       "field": "The grain of the rock"
       "gloss": "broad, wide"
+      "concept": "wide"
       "root": "r-b-k"
       "frame": "adjective"
     - "form": "darz"
@@ -7864,7 +8217,7 @@ data:
       class: n
       field: Other peoples and the larder
       gloss: "falcon's rest, a ledge where falcons settle"
-      root: "k-r-f bare + d-b-z deed"
+      root: "k-r-f + d-b-z"
       frame: compound
     - form: hudabaz
       class: n
@@ -7876,8 +8229,3769 @@ data:
       class: n
       field: The face and the light
       gloss: "north, the northern direction"
+      concept: north
       root: s-d-v
       frame: bare
+    - form: kharn
+      class: n
+      field: Stone and metal
+      gloss: "metal"
+      concept: metal
+      root: "kh-r-n"
+      frame: bare
+    - form: lamg
+      class: n
+      field: Stone and metal
+      gloss: "clay"
+      concept: clay
+      root: "l-m-g"
+      frame: bare
+    - form: zadak
+      class: n
+      field: Stone and metal
+      gloss: "earth, the ground"
+      concept: earth
+      root: "z-d-k"
+      frame: bare
+    - form: pals
+      class: n
+      field: Stone and metal
+      gloss: "dust"
+      concept: dust
+      root: "p-l-s"
+      frame: bare
+    - form: varíth
+      class: adj
+      field: Stone and metal
+      gloss: "green"
+      concept: green
+      root: "v-r-th"
+      frame: adjective
+    - form: radhíb
+      class: adj
+      field: Stone and metal
+      gloss: "brown"
+      concept: brown
+      root: "r-dh-b"
+      frame: adjective
+    - form: malíz
+      class: adj
+      field: Stone and metal
+      gloss: "light, pale in colour"
+      concept: light-colour
+      root: "m-l-z"
+      frame: adjective
+    - form: mazír
+      class: adj
+      field: Stone and metal
+      gloss: "opaque, letting no light through"
+      concept: opaque
+      root: "m-z-r"
+      frame: adjective
+    - form: matík
+      class: adj
+      field: Stone and metal
+      gloss: "dull, without lustre"
+      concept: dull-appearance
+      root: "m-t-k"
+      frame: adjective
+    - form: tabík
+      class: adj
+      field: Stone and metal
+      gloss: "spotted"
+      concept: spotted
+      root: "t-b-k"
+      frame: adjective
+    - form: zarígh
+      class: adj
+      field: Stone and metal
+      gloss: "striped, banded"
+      concept: striped
+      root: "z-r-gh"
+      frame: adjective
+    - form: narz
+      class: n
+      field: Craft and the forge
+      gloss: "cloth"
+      concept: cloth
+      root: "n-r-z"
+      frame: bare
+    - form: nirzath
+      class: n
+      field: Craft and the forge
+      gloss: "a garment; clothing"
+      concept: [garment, clothes]
+      root: "n-r-z"
+      frame: "done thing"
+    - form: barl
+      class: n
+      field: Craft and the forge
+      gloss: "a rope"
+      concept: rope
+      root: "b-r-l"
+      frame: bare
+    - form: tandh
+      class: n
+      field: Craft and the forge
+      gloss: "a cord"
+      concept: cord
+      root: "t-n-dh"
+      frame: bare
+    - form: panth
+      class: n
+      field: Craft and the forge
+      gloss: "a needle"
+      concept: needle
+      root: "p-n-th"
+      frame: bare
+    - form: laghaz
+      class: n
+      field: Craft and the forge
+      gloss: "a flame"
+      concept: flame
+      root: "l-gh-z"
+      frame: bare
+    - form: palth
+      class: n
+      field: Craft and the forge
+      gloss: "a shirt"
+      concept: shirt
+      root: "p-l-th"
+      frame: bare
+    - form: ganth
+      class: n
+      field: Craft and the forge
+      gloss: "a cloak"
+      concept: cloak
+      root: "g-n-th"
+      frame: bare
+    - form: zant
+      class: n
+      field: Craft and the forge
+      gloss: "a belt"
+      concept: belt
+      root: "z-n-t"
+      frame: bare
+    - form: bask
+      class: n
+      field: Craft and the forge
+      gloss: "a shoe"
+      concept: shoe
+      root: "b-s-k"
+      frame: bare
+    - form: khamp
+      class: n
+      field: Craft and the forge
+      gloss: "a boot"
+      concept: boot
+      root: "kh-m-p"
+      frame: bare
+    - form: lanth
+      class: n
+      field: Craft and the forge
+      gloss: "a thread"
+      concept: thread
+      root: "l-n-th"
+      frame: bare
+    - form: vugád
+      class: v
+      field: Craft and the forge
+      gloss: "to try, to attempt"
+      concept: try
+      root: "v-g-d"
+      frame: deed
+    - form: gamíp
+      class: adj
+      field: Craft and the forge
+      gloss: "useless"
+      concept: useless
+      root: "g-m-p"
+      frame: adjective
+    - form: gazír
+      class: adj
+      field: Craft and the forge
+      gloss: "broken"
+      concept: broken
+      root: "g-z-r"
+      frame: adjective
+    - form: magíz
+      class: adj
+      field: Craft and the forge
+      gloss: "incomplete, unfinished"
+      concept: incomplete
+      root: "m-g-z"
+      frame: adjective
+    - form: hadhakir
+      class: n
+      field: Craft and the forge
+      gloss: "a worker, one who works a shift"
+      concept: worker
+      root: "h-dh-k"
+      frame: worker
+    - form: kaval-zuvár
+      class: n
+      field: Craft and the forge
+      gloss: "the changing of a shape, transformation"
+      concept: transformation
+      root: "k-v-l + z-v-r"
+      frame: compound
+    - form: gadhaz
+      class: n
+      field: Craft and the forge
+      gloss: "a knife"
+      concept: knife
+      root: "g-dh-z"
+      frame: bare
+    - form: vutágh
+      class: v
+      field: The deep
+      gloss: "to choke for want of air, to suffocate"
+      concept: suffocate
+      root: "v-t-gh"
+      frame: deed
+    - form: daval
+      class: n
+      field: The deep
+      gloss: "a torch"
+      concept: torch
+      root: "d-v-l"
+      frame: bare
+    - form: khanth
+      class: n
+      field: The deep
+      gloss: "a candle"
+      concept: candle
+      root: "kh-n-th"
+      frame: bare
+    - form: salív
+      class: adj
+      field: The grain of the rock
+      gloss: "smooth"
+      concept: smooth
+      root: "s-l-v"
+      frame: adjective
+    - form: karíb
+      class: adj
+      field: The grain of the rock
+      gloss: "rough"
+      concept: rough
+      root: "k-r-b"
+      frame: adjective
+    - form: gatír
+      class: adj
+      field: The grain of the rock
+      gloss: "hard, firm to the touch"
+      concept: hard-texture
+      root: "g-t-r"
+      frame: adjective
+    - form: khupás
+      class: v
+      field: Caves and their finding
+      gloss: "to search"
+      concept: search
+      root: "kh-p-s"
+      frame: deed
+    - form: valn
+      class: n
+      field: The face and the light
+      gloss: "air"
+      concept: air
+      root: "v-l-n"
+      frame: bare
+    - form: galdh
+      class: n
+      field: The face and the light
+      gloss: "a hill"
+      concept: hill
+      root: "g-l-dh"
+      frame: bare
+    - form: farkh
+      class: n
+      field: The face and the light
+      gloss: "a plain, flat open land"
+      concept: plain-landform
+      root: "f-r-kh"
+      frame: bare
+    - form: hardh
+      class: n
+      field: The face and the light
+      gloss: "the sun"
+      concept: sun
+      root: "h-r-dh"
+      frame: bare
+    - form: tharv
+      class: n
+      field: The face and the light
+      gloss: "the moon"
+      concept: moon
+      root: "th-r-v"
+      frame: bare
+    - form: gamz
+      class: n
+      field: The face and the light
+      gloss: "a cloud"
+      concept: cloud
+      root: "g-m-z"
+      frame: bare
+    - form: gamíz
+      class: adj
+      field: The face and the light
+      gloss: "cloudy"
+      concept: cloudy
+      root: "g-m-z"
+      frame: adjective
+    - form: gavís
+      class: adj
+      field: The face and the light
+      gloss: "cloudless, clear"
+      concept: clear-weather
+      root: "g-v-s"
+      frame: adjective
+    - form: ghard
+      class: n
+      field: The face and the light
+      gloss: "a storm"
+      concept: storm
+      root: "gh-r-d"
+      frame: bare
+    - form: dhamb
+      class: n
+      field: The face and the light
+      gloss: "thunder"
+      concept: thunder
+      root: "dh-m-b"
+      frame: bare
+    - form: thazak
+      class: n
+      field: The face and the light
+      gloss: "lightning"
+      concept: lightning
+      root: "th-z-k"
+      frame: bare
+    - form: navad
+      class: n
+      field: The face and the light
+      gloss: "south"
+      concept: south
+      root: "n-v-d"
+      frame: bare
+    - form: hukán
+      class: v
+      field: Listening and the cut
+      gloss: "to notice"
+      concept: notice
+      root: "h-k-n"
+      frame: deed
+    - form: guváth
+      class: v
+      field: Listening and the cut
+      gloss: "to recognize, to know again"
+      concept: recognize
+      root: "g-v-th"
+      frame: deed
+    - form: mazadh-khusáp
+      class: n
+      field: Listening and the cut
+      gloss: "the holding back of one's claim, humility"
+      concept: humility
+      root: "m-z-dh + kh-s-p"
+      frame: compound
+    - form: nakav
+      class: n
+      field: Listening and the cut
+      gloss: "curiosity"
+      concept: curiosity
+      root: "n-k-v"
+      frame: bare
+    - form: maghal
+      class: n
+      field: Listening and the cut
+      gloss: "confusion"
+      concept: confusion
+      root: "m-gh-l"
+      frame: bare
+    - form: davaz
+      class: n
+      field: Listening and the cut
+      gloss: "doubt"
+      concept: doubt
+      root: "d-v-z"
+      frame: bare
+    - form: duváz
+      class: v
+      field: Listening and the cut
+      gloss: "to doubt"
+      concept: doubt-verb
+      root: "d-v-z"
+      frame: deed
+    - form: kand
+      class: n
+      field: Listening and the cut
+      gloss: "certainty"
+      concept: certainty
+      root: "k-n-d"
+      frame: bare
+    - form: kaníd
+      class: adj
+      field: Listening and the cut
+      gloss: "sure, certain"
+      concept: certain
+      root: "k-n-d"
+      frame: adjective
+    - form: ruzán
+      class: v
+      field: Listening and the cut
+      gloss: "to learn"
+      concept: learn
+      root: "r-z-n"
+      frame: deed
+    - form: razanir
+      class: n
+      field: Listening and the cut
+      gloss: "a learner, a student"
+      concept: student
+      root: "r-z-n"
+      frame: worker
+    - form: kuzáb
+      class: v
+      field: Listening and the cut
+      gloss: "to understand"
+      concept: understand
+      root: "k-z-b"
+      frame: deed
+    - form: muzáp
+      class: v
+      field: Listening and the cut
+      gloss: "to suspect"
+      concept: suspect
+      root: "m-z-p"
+      frame: deed
+    - form: tukádh
+      class: v
+      field: Listening and the cut
+      gloss: "to guess"
+      concept: guess-verb
+      root: "t-k-dh"
+      frame: deed
+    - form: vutháp
+      class: v
+      field: Listening and the cut
+      gloss: "to assume, to take as given"
+      concept: assume-verb
+      root: "v-th-p"
+      frame: deed
+    - form: kuráth
+      class: v
+      field: Listening and the cut
+      gloss: "to intend"
+      concept: intend
+      root: "k-r-th"
+      frame: deed
+    - form: khavín
+      class: adj
+      field: Listening and the cut
+      gloss: "uncertain, unsure"
+      concept: uncertain
+      root: "kh-v-n"
+      frame: adjective
+    - form: kanv
+      class: n
+      field: The hold
+      gloss: "a shelter"
+      concept: shelter
+      root: "k-n-v"
+      frame: bare
+    - form: dirmath
+      class: n
+      field: The hold
+      gloss: "a chair, a made seat"
+      concept: chair
+      root: "d-r-m"
+      frame: "done thing"
+    - form: husaml
+      class: n
+      field: The hold
+      gloss: "a bed, a sleeping-place"
+      concept: bed
+      root: "s-m-l"
+      frame: place
+    - form: zakal
+      class: n
+      field: The hold
+      gloss: "a lock"
+      concept: lock
+      root: "z-k-l"
+      frame: bare
+    - form: zukál
+      class: v
+      field: The hold
+      gloss: "to lock"
+      concept: lock-verb
+      root: "z-k-l"
+      frame: deed
+    - form: gadaz
+      class: n
+      field: The hold
+      gloss: "a key"
+      concept: key
+      root: "g-d-z"
+      frame: bare
+    - form: gudáz
+      class: v
+      field: The hold
+      gloss: "to unlock"
+      concept: unlock
+      root: "g-d-z"
+      frame: deed
+    - form: kalth
+      class: n
+      field: The hold
+      gloss: "a cup"
+      concept: cup
+      root: "k-l-th"
+      frame: bare
+    - form: gaml
+      class: n
+      field: The hold
+      gloss: "a bowl"
+      concept: bowl
+      root: "g-m-l"
+      frame: bare
+    - form: ladhak
+      class: n
+      field: The hold
+      gloss: "a spoon"
+      concept: spoon
+      root: "l-dh-k"
+      frame: bare
+    - form: tagar
+      class: n
+      field: The hold
+      gloss: "a pot"
+      concept: pot
+      root: "t-g-r"
+      frame: bare
+    - form: sarb
+      class: n
+      field: The hold
+      gloss: "a bench"
+      concept: bench
+      root: "s-r-b"
+      frame: bare
+    - form: zabav
+      class: n
+      field: The hold
+      gloss: "a bottle"
+      concept: bottle
+      root: "z-b-v"
+      frame: bare
+    - form: tavagh
+      class: n
+      field: The hold
+      gloss: "a basket"
+      concept: basket
+      root: "t-v-gh"
+      frame: bare
+    - form: gizapath
+      class: n
+      field: The hold
+      gloss: "a barrier, a thing set to block"
+      concept: barrier
+      root: "g-z-p"
+      frame: "done thing"
+    - form: buzám
+      class: v
+      field: The hold
+      gloss: "to close, to shut"
+      concept: close
+      root: "b-z-m"
+      frame: deed
+    - form: bunáz
+      class: v
+      field: The hold
+      gloss: "to build"
+      concept: build
+      root: "b-n-z"
+      frame: deed
+    - form: gudháp
+      class: v
+      field: The hold
+      gloss: "to cover"
+      concept: cover-verb
+      root: "g-dh-p"
+      frame: deed
+    - form: zudháp
+      class: v
+      field: The hold
+      gloss: "to uncover"
+      concept: uncover
+      root: "z-dh-p"
+      frame: deed
+    - form: harz
+      class: n
+      field: Kin and the house
+      gloss: "jealousy, the guarding of what is one's own"
+      concept: jealousy
+      root: "h-r-z"
+      frame: bare
+    - form: vard
+      class: n
+      field: Kin and the house
+      gloss: "love between lovers"
+      concept: love-eros
+      root: "v-r-d"
+      frame: bare
+    - form: talm
+      class: n
+      field: Kin and the house
+      gloss: "friendship, the regard of friends"
+      concept: love-philia
+      root: "t-l-m"
+      frame: bare
+    - form: talmir
+      class: n
+      field: Kin and the house
+      gloss: "a friend"
+      concept: friend
+      root: "t-l-m"
+      frame: worker
+    - form: nald
+      class: n
+      field: Kin and the house
+      gloss: "the love of kin"
+      concept: love-storge
+      root: "n-l-d"
+      frame: bare
+    - form: madal
+      class: n
+      field: Kin and the house
+      gloss: "affection"
+      concept: affection
+      root: "m-d-l"
+      frame: bare
+    - form: dharn
+      class: n
+      field: Kin and the house
+      gloss: "attraction, a drawing toward"
+      concept: attraction
+      root: "dh-r-n"
+      frame: bare
+    - form: panz
+      class: n
+      field: Kin and the house
+      gloss: "intimacy, nearness of trust"
+      concept: intimacy
+      root: "p-n-z"
+      frame: bare
+    - form: dakath
+      class: n
+      field: Kin and the house
+      gloss: "loyalty"
+      concept: loyalty
+      root: "d-k-th"
+      frame: bare
+    - form: haml
+      class: n
+      field: Kin and the house
+      gloss: "companionship"
+      concept: companionship
+      root: "h-m-l"
+      frame: bare
+    - form: hamlir
+      class: n
+      field: Kin and the house
+      gloss: "a companion"
+      concept: companion
+      root: "h-m-l"
+      frame: worker
+    - form: zamb
+      class: n
+      field: Kin and the house
+      gloss: "sex, lovemaking"
+      concept: sex
+      root: "z-m-b"
+      frame: bare
+    - form: budhán
+      class: v
+      field: Kin and the house
+      gloss: "to conceive a child"
+      concept: conceive
+      root: "b-dh-n"
+      frame: deed
+    - form: badhan
+      class: n
+      field: Kin and the house
+      gloss: "pregnancy"
+      concept: pregnancy
+      root: "b-dh-n"
+      frame: bare
+    - form: badhín
+      class: adj
+      field: Kin and the house
+      gloss: "pregnant, with child"
+      concept: pregnant
+      root: "b-dh-n"
+      frame: adjective
+    - form: munáz
+      class: v
+      field: Kin and the house
+      gloss: "to nurse a child at the breast"
+      concept: nurse
+      root: "m-n-z"
+      frame: deed
+    - form: ravad
+      class: n
+      field: Kin and the house
+      gloss: "a grown one, an adult"
+      concept: adult
+      root: "r-v-d"
+      frame: bare
+    - form: nard
+      class: n
+      field: Kin and the house
+      gloss: "a son"
+      concept: son
+      root: "n-r-d"
+      frame: bare
+    - form: nardev
+      class: n
+      field: Kin and the house
+      gloss: "a daughter"
+      concept: daughter
+      root: "n-r-d"
+      frame: bare
+    - form: gadal
+      class: n
+      field: Kin and the house
+      gloss: "a boy"
+      concept: boy
+      root: "g-d-l"
+      frame: bare
+    - form: gadalev
+      class: n
+      field: Kin and the house
+      gloss: "a girl"
+      concept: girl
+      root: "g-d-l"
+      frame: bare
+    - form: raghad
+      class: n
+      field: Kin and the house
+      gloss: "a man"
+      concept: man
+      root: "r-gh-d"
+      frame: bare
+    - form: raghadev
+      class: n
+      field: Kin and the house
+      gloss: "a woman"
+      concept: woman
+      root: "r-gh-d"
+      frame: bare
+    - form: "davag davagod"
+      class: n
+      field: Kin and the house
+      gloss: "a grandfather (father of a parent)"
+      concept: grandfather
+      built: [davag, davagod]
+    - form: "davagev davagod"
+      class: n
+      field: Kin and the house
+      gloss: "a grandmother (mother of a parent)"
+      concept: grandmother
+      built: [davagev, davagod]
+    - form: "davagod davagod"
+      class: n
+      field: Kin and the house
+      gloss: "a grandparent (parent of a parent)"
+      concept: grandparent
+      built: [davagod]
+    - form: "lafad lafad"
+      class: n
+      field: Kin and the house
+      gloss: "a grandchild (child of a child)"
+      concept: grandchild
+      built: [lafad]
+    - form: "sapav davagod"
+      class: n
+      field: Kin and the house
+      gloss: "an uncle (brother of a parent)"
+      concept: uncle
+      built: [sapav, davagod]
+    - form: "sapavev davagod"
+      class: n
+      field: Kin and the house
+      gloss: "an aunt (sister of a parent)"
+      concept: aunt
+      built: [sapavev, davagod]
+    - form: "nard sapav"
+      class: n
+      field: Kin and the house
+      gloss: "a nephew (son of a brother; a sister's son is _nard sapavev_)"
+      concept: nephew
+      built: [nard, sapav]
+    - form: "nardev sapav"
+      class: n
+      field: Kin and the house
+      gloss: "a niece (daughter of a brother; a sister's daughter is _nardev sapavev_)"
+      concept: niece
+      built: [nardev, sapav]
+    - form: thaln
+      class: n
+      field: Kin and the house
+      gloss: "a cousin"
+      concept: cousin
+      root: "th-l-n"
+      frame: bare
+    - form: nasvir
+      class: n
+      field: Kin and the house
+      gloss: "a descendant"
+      concept: descendant
+      root: "n-s-v"
+      frame: worker
+    - form: dhabal
+      class: n
+      field: Kin and the house
+      gloss: "an orphan"
+      concept: orphan
+      root: "dh-b-l"
+      frame: bare
+    - form: khalm
+      class: n
+      field: Kin and the house
+      gloss: "a widower"
+      concept: widower
+      root: "kh-l-m"
+      frame: bare
+    - form: khalmev
+      class: n
+      field: Kin and the house
+      gloss: "a widow"
+      concept: widow
+      root: "kh-l-m"
+      frame: bare
+    - form: nabadod
+      class: n
+      field: Kin and the house
+      gloss: "a spouse"
+      concept: spouse
+      root: "n-b-d"
+      frame: bare
+    - form: sandh
+      class: n
+      field: Kin and the house
+      gloss: "kin, one's own people"
+      concept: kin
+      root: "s-n-dh"
+      frame: bare
+    - form: pald
+      class: n
+      field: Kin and the house
+      gloss: "a neighbour"
+      concept: neighbor
+      root: "p-l-d"
+      frame: bare
+    - form: manth
+      class: n
+      field: Kin and the house
+      gloss: "a guest"
+      concept: guest
+      root: "m-n-th"
+      frame: bare
+    - form: manthir
+      class: n
+      field: Kin and the house
+      gloss: "a host"
+      concept: host
+      root: "m-n-th"
+      frame: worker
+    - form: kadarir
+      class: n
+      field: Kin and the house
+      gloss: "a leader"
+      concept: leader
+      root: "k-d-r"
+      frame: worker
+    - form: nazamir
+      class: n
+      field: Kin and the house
+      gloss: "a follower"
+      concept: follower
+      root: "n-z-m"
+      frame: worker
+    - form: tabal
+      class: n
+      field: Kin and the house
+      gloss: "a servant"
+      concept: servant
+      root: "t-b-l"
+      frame: bare
+    - form: hadar
+      class: n
+      field: Kin and the house
+      gloss: "a master, one who is served"
+      concept: master
+      root: "h-d-r"
+      frame: bare
+    - form: nuváz
+      class: v
+      field: Kin and the house
+      gloss: "to belong"
+      concept: belong
+      root: "n-v-z"
+      frame: deed
+    - form: zudáv
+      class: v
+      field: Kin and the house
+      gloss: "to help; help! the cry for aid"
+      concept: [help, expression-help]
+      root: "z-d-v"
+      frame: deed
+    - form: huláp
+      class: v
+      field: Kin and the house
+      gloss: "to share"
+      concept: share
+      root: "h-l-p"
+      frame: deed
+    - form: zalík
+      class: adj
+      field: Kin and the house
+      gloss: "willing"
+      concept: willing
+      root: "z-l-k"
+      frame: adjective
+    - form: thavír
+      class: adj
+      field: Kin and the house
+      gloss: "refusing, unwilling"
+      concept: unwilling
+      root: "th-v-r"
+      frame: adjective
+    - form: damur
+      class: n
+      field: Kin and the house
+      gloss: "a person"
+      concept: person
+      root: "d-m-r"
+      frame: bare
+    - form: valm
+      class: n
+      field: Kin and the house
+      gloss: "people, folk"
+      concept: people
+      root: "v-l-m"
+      frame: bare
+    - form: "tob damur"
+      class: n
+      field: Kin and the house
+      gloss: "an individual (one person)"
+      concept: individual
+      built: [tob, damur]
+    - form: hamz
+      class: n
+      field: Kin and the house
+      gloss: "a community"
+      concept: community
+      root: "h-m-z"
+      frame: bare
+    - form: pardh
+      class: n
+      field: Kin and the house
+      gloss: "a title"
+      concept: title
+      root: "p-r-dh"
+      frame: bare
+    - form: garkh
+      class: n
+      field: Kin and the house
+      gloss: "a rank"
+      concept: rank
+      root: "g-r-kh"
+      frame: bare
+    - form: dagan
+      class: n
+      field: Kin and the house
+      gloss: "a custom"
+      concept: custom
+      root: "d-g-n"
+      frame: bare
+    - form: vanur-thubád
+      class: n
+      field: Kin and the house
+      gloss: "the following of the forebears, tradition"
+      concept: tradition
+      root: "v-n-r + th-b-d"
+      frame: compound
+    - form: kamdh
+      class: n
+      field: "Oath, law and measure"
+      gloss: "a hidden thing, a secret"
+      concept: secret
+      root: "k-m-dh"
+      frame: bare
+    - form: hivazath
+      class: n
+      field: "Oath, law and measure"
+      gloss: "a debt owned, gratitude"
+      concept: gratitude
+      root: "h-v-z"
+      frame: "done thing"
+    - form: thargh-buráth
+      class: n
+      field: "Oath, law and measure"
+      gloss: "the carrying of a wrong, guilt"
+      concept: guilt
+      root: "th-r-gh + b-r-th"
+      frame: compound
+    - form: kavíz
+      class: adj
+      field: "Oath, law and measure"
+      gloss: "equal"
+      concept: equal
+      root: "k-v-z"
+      frame: adjective
+    - form: khutág
+      class: v
+      field: "Oath, law and measure"
+      gloss: "to decide"
+      concept: decide
+      root: "kh-t-g"
+      frame: deed
+    - form: vudák
+      class: v
+      field: "Oath, law and measure"
+      gloss: "to promise"
+      concept: promise-verb
+      root: "v-d-k"
+      frame: deed
+    - form: varín
+      class: adj
+      field: "Oath, law and measure"
+      gloss: "true, on the true line; honest"
+      concept: ["true", honest]
+      root: "v-r-n"
+      frame: adjective
+    - form: lazígh
+      class: adj
+      field: "Oath, law and measure"
+      gloss: "false, lying, dishonest"
+      concept: ["false", dishonest]
+      root: "l-z-gh"
+      frame: adjective
+    - form: lazagh
+      class: n
+      field: "Oath, law and measure"
+      gloss: "a lie"
+      concept: lie-noun
+      root: "l-z-gh"
+      frame: bare
+    - form: lizaghath
+      class: n
+      field: "Oath, law and measure"
+      gloss: "a falsehood, a false thing said"
+      concept: falsehood
+      root: "l-z-gh"
+      frame: "done thing"
+    - form: makíth
+      class: adj
+      field: "Oath, law and measure"
+      gloss: "correct, right"
+      concept: correct
+      root: "m-k-th"
+      frame: adjective
+    - form: baghíz
+      class: adj
+      field: "Oath, law and measure"
+      gloss: "incorrect, mistaken"
+      concept: incorrect
+      root: "b-gh-z"
+      frame: adjective
+    - form: daturáz
+      class: v
+      field: "Oath, law and measure"
+      gloss: "to disagree, to oppose one another"
+      concept: disagree
+      root: "d-r-z"
+      frame: reflexive
+    - form: vakír
+      class: adj
+      field: "Oath, law and measure"
+      gloss: "valuable, of worth"
+      concept: valuable
+      root: "v-k-r"
+      frame: adjective
+    - form: dhazíp
+      class: adj
+      field: "Oath, law and measure"
+      gloss: "worthless"
+      concept: worthless
+      root: "dh-z-p"
+      frame: adjective
+    - form: "ves lamíth"
+      class: adj
+      field: "Oath, law and measure"
+      gloss: "you may (you are permitted)"
+      concept: may-permission
+      built: [ves, lamíth]
+    - form: lumáth
+      class: v
+      field: "Oath, law and measure"
+      gloss: "to permit"
+      concept: permit
+      root: "l-m-th"
+      frame: deed
+    - form: muváz
+      class: v
+      field: "Oath, law and measure"
+      gloss: "ought, should"
+      concept: ought
+      root: "m-v-z"
+      frame: deed
+    - form: kazíl
+      class: adj
+      field: "Oath, law and measure"
+      gloss: "optional, left to choice"
+      concept: optional
+      root: "k-z-l"
+      frame: adjective
+    - form: harín
+      class: adj
+      field: "Oath, law and measure"
+      gloss: "free, unbound"
+      concept: free
+      root: "h-r-n"
+      frame: adjective
+    - form: harn
+      class: n
+      field: "Oath, law and measure"
+      gloss: "freedom"
+      concept: freedom
+      root: "h-r-n"
+      frame: bare
+    - form: zidarath
+      class: n
+      field: "Oath, law and measure"
+      gloss: "a rule, a law laid down"
+      concept: rule
+      root: "z-d-r"
+      frame: "done thing"
+    - form: gazad
+      class: n
+      field: "Oath, law and measure"
+      gloss: "a command"
+      concept: command-noun
+      root: "g-z-d"
+      frame: bare
+    - form: gazad-nuzám
+      class: n
+      field: "Oath, law and measure"
+      gloss: "the following of a command, obedience"
+      concept: obedience
+      root: "g-z-d + n-z-m"
+      frame: compound
+    - form: vasg-vurán
+      class: n
+      field: "Oath, law and measure"
+      gloss: "the setting of a judgment to the true line, justice"
+      concept: justice
+      root: "v-s-g + v-r-n"
+      frame: compound
+    - form: vasg-dugár
+      class: n
+      field: "Oath, law and measure"
+      gloss: "the forcing of a judgment, injustice"
+      concept: injustice
+      root: "v-s-g + d-g-r"
+      frame: compound
+    - form: bazír
+      class: adj
+      field: "Oath, law and measure"
+      gloss: "right, fitting, as it should be"
+      concept: right-ethical
+      root: "b-z-r"
+      frame: adjective
+    - form: manv
+      class: n
+      field: "Oath, law and measure"
+      gloss: "peace"
+      concept: peace
+      root: "m-n-v"
+      frame: bare
+    - form: halk
+      class: n
+      field: "Oath, law and measure"
+      gloss: "wealth"
+      concept: wealth
+      root: "h-l-k"
+      frame: bare
+    - form: nadhav
+      class: n
+      field: "Oath, law and measure"
+      gloss: "poverty"
+      concept: poverty
+      root: "n-dh-v"
+      frame: bare
+    - form: pavar
+      class: n
+      field: "Oath, law and measure"
+      gloss: "a belonging, property"
+      concept: property
+      root: "p-v-r"
+      frame: bare
+    - form: zand
+      class: n
+      field: "Oath, law and measure"
+      gloss: "honour"
+      concept: honor
+      root: "z-n-d"
+      frame: bare
+    - form: gavak
+      class: n
+      field: "Oath, law and measure"
+      gloss: "a cause"
+      concept: cause
+      root: "g-v-k"
+      frame: bare
+    - form: givakath
+      class: n
+      field: "Oath, law and measure"
+      gloss: "an effect, what a cause has made"
+      concept: effect
+      root: "g-v-k"
+      frame: "done thing"
+    - form: thakan
+      class: n
+      field: "Oath, law and measure"
+      gloss: "a reason"
+      concept: reason
+      root: "th-k-n"
+      frame: bare
+    - form: savík
+      class: adj
+      field: Letters and writing
+      gloss: "plain, unmarked"
+      concept: plain-pattern
+      root: "s-v-k"
+      frame: adjective
+    - form: buláz
+      class: v
+      field: Song and telling
+      gloss: "to boast; a boasting"
+      concept: boasting
+      root: "b-l-z"
+      frame: deed
+    - form: banur
+      class: n
+      field: Song and telling
+      gloss: "admiration"
+      concept: admiration
+      root: "b-n-r"
+      frame: bare
+    - form: bukáv
+      class: v
+      field: Song and telling
+      gloss: "to ask"
+      concept: ask
+      root: "b-k-v"
+      frame: deed
+    - form: hubár
+      class: v
+      field: Song and telling
+      gloss: "to answer"
+      concept: answer
+      root: "h-b-r"
+      frame: deed
+    - form: ghuráz
+      class: v
+      field: Song and telling
+      gloss: "to shout"
+      concept: shout
+      root: "gh-r-z"
+      frame: deed
+    - form: supás
+      class: v
+      field: Song and telling
+      gloss: "to whisper"
+      concept: whisper
+      root: "s-p-s"
+      frame: deed
+    - form: furádh
+      class: v
+      field: Song and telling
+      gloss: "to explain"
+      concept: explain
+      root: "f-r-dh"
+      frame: deed
+    - form: fuzán
+      class: v
+      field: Song and telling
+      gloss: "to reveal"
+      concept: reveal
+      root: "f-z-n"
+      frame: deed
+    - form: "dalk tasím"
+      class: call
+      field: Song and telling
+      gloss: "good day (the stone is sound); the answer is _ramk tasím_"
+      concept: hello
+      built: [dalk, tasím]
+    - form: "dalk durákh"
+      class: call
+      field: Song and telling
+      gloss: "farewell (the stone holds); the answer is _ramk durákh_"
+      concept: goodbye
+      built: [dalk, durákh]
+    - form: "bel khardev"
+      class: call
+      field: Song and telling
+      gloss: "welcome (into the hold)"
+      concept: expression-welcome
+      built: [bel, khardev]
+    - form: "halz thubágh"
+      class: call
+      field: Song and telling
+      gloss: "ale, please: _thubágh_, an asking, follows the thing asked for"
+      concept: expression-please
+      built: [halz, thubágh]
+    - form: "gaz huváz"
+      class: call
+      field: Song and telling
+      gloss: "thank you (I owe)"
+      concept: expression-thank-you
+      built: [gaz, huváz]
+    - form: "ves thuf huváz"
+      class: call
+      field: Song and telling
+      gloss: "you're welcome (you owe nothing)"
+      concept: expression-youre-welcome
+      built: [ves, thuf, huváz]
+    - form: "gaz tunáp"
+      class: call
+      field: Song and telling
+      gloss: "excuse me, to get past (I squeeze through)"
+      concept: expression-excuse-me
+      built: [gaz, tunáp]
+    - form: "gaz thurágh"
+      class: call
+      field: Song and telling
+      gloss: "sorry (I did wrong)"
+      concept: expression-sorry
+      built: [gaz, thurágh]
+    - form: "nutháv gaz"
+      class: call
+      field: Song and telling
+      gloss: "forgive me"
+      concept: expression-forgive-me
+      built: [nutháv, gaz]
+    - form: "zuvák varn"
+      class: call
+      field: Song and telling
+      gloss: "of course (it stands, truly)"
+      concept: of-course
+      built: [zuvák, varn]
+    - form: "hugál kelg"
+      class: call
+      field: Song and telling
+      gloss: "come here"
+      concept: expression-come-here
+      built: [hugál, kelg]
+    - form: "funád gol kelg"
+      class: call
+      field: Song and telling
+      gloss: "go away (go from here)"
+      concept: expression-go-away
+      built: [funád, gol, kelg]
+    - form: "hez gunádh"
+      class: call
+      field: Song and telling
+      gloss: "pardon? (speak again)"
+      concept: expression-pardon
+      built: [hez, gunádh]
+    - form: "gaz kuzáb"
+      class: call
+      field: Song and telling
+      gloss: "I understand"
+      concept: expression-i-understand
+      built: [gaz, kuzáb]
+    - form: "gaz thuf kuzáb"
+      class: call
+      field: Song and telling
+      gloss: "I do not understand"
+      concept: expression-i-do-not-understand
+      built: [gaz, thuf, kuzáb]
+    - form: "thaz karth ves"
+      class: call
+      field: Song and telling
+      gloss: "what do you mean? (what is your intention)"
+      concept: expression-what-do-you-mean
+      built: [thaz, karth, ves]
+    - form: "thuk ves gunádh"
+      class: call
+      field: Song and telling
+      gloss: "how do you say…?"
+      concept: expression-how-do-you-say
+      built: [thuk, ves, gunádh]
+    - form: "thaz mardh kedz"
+      class: call
+      field: Song and telling
+      gloss: "what is this called? (what is the name of this)"
+      concept: expression-what-is-this-called
+      built: [thaz, mardh, kedz]
+    - form: "varn zef"
+      class: call
+      field: Song and telling
+      gloss: "really? (the true line?)"
+      concept: expression-really
+      built: [varn, zef]
+    - form: "zum pant"
+      class: call
+      field: Song and telling
+      gloss: "not at all, it is nothing (no thing)"
+      concept: expression-not-at-all
+      built: [zum, pant]
+    - form: sapíl
+      class: adj
+      field: "Time and the mountain's seasons"
+      gloss: "cool"
+      concept: cool
+      root: "s-p-l"
+      frame: adjective
+    - form: hulás
+      class: v
+      field: "Time and the mountain's seasons"
+      gloss: "to freeze"
+      concept: freeze
+      root: "h-l-s"
+      frame: deed
+    - form: gudhám
+      class: v
+      field: "Time and the mountain's seasons"
+      gloss: "to age, to grow older; ageing"
+      concept: [age-verb, aging]
+      root: "g-dh-m"
+      frame: deed
+    - form: budág
+      class: v
+      field: "Time and the mountain's seasons"
+      gloss: "to begin"
+      concept: begin
+      root: "b-d-g"
+      frame: deed
+    - form: badag
+      class: n
+      field: "Time and the mountain's seasons"
+      gloss: "a beginning"
+      concept: beginning
+      root: "b-d-g"
+      frame: bare
+    - form: hubadag
+      class: n
+      field: "Time and the mountain's seasons"
+      gloss: "an origin, where a thing began"
+      concept: origin
+      root: "b-d-g"
+      frame: place
+    - form: zugál
+      class: v
+      field: "Time and the mountain's seasons"
+      gloss: "to end"
+      concept: end
+      root: "z-g-l"
+      frame: deed
+    - form: zagal
+      class: n
+      field: "Time and the mountain's seasons"
+      gloss: "an end"
+      concept: end-noun
+      root: "z-g-l"
+      frame: bare
+    - form: hudhán
+      class: v
+      field: "Time and the mountain's seasons"
+      gloss: "to happen"
+      concept: happen
+      root: "h-dh-n"
+      frame: deed
+    - form: khadan
+      class: n
+      field: "Time and the mountain's seasons"
+      gloss: "time"
+      concept: time
+      root: "kh-d-n"
+      frame: bare
+    - form: "dhanv davan"
+      class: n
+      field: "Time and the mountain's seasons"
+      gloss: "morning (the first of the day)"
+      concept: morning
+      built: [dhanv, davan]
+    - form: "madan davan"
+      class: n
+      field: "Time and the mountain's seasons"
+      gloss: "noon (the middle of the day)"
+      concept: noon
+      built: [madan, davan]
+    - form: "madan navath"
+      class: n
+      field: "Time and the mountain's seasons"
+      gloss: "midnight (the middle of the night)"
+      concept: midnight
+      built: [madan, navath]
+    - form: larg-nuzáv
+      class: n
+      field: "Time and the mountain's seasons"
+      gloss: "the arrival of daylight, dawn"
+      concept: dawn
+      root: "l-r-g + n-z-v"
+      frame: compound
+    - form: "kedz davan"
+      class: n
+      field: "Time and the mountain's seasons"
+      gloss: "today (this day)"
+      concept: today
+      built: [kedz, davan]
+    - form: galt
+      class: n
+      field: "Time and the mountain's seasons"
+      gloss: "yesterday"
+      concept: yesterday
+      root: "g-l-t"
+      frame: bare
+    - form: varb
+      class: n
+      field: "Time and the mountain's seasons"
+      gloss: "tomorrow"
+      concept: tomorrow
+      root: "v-r-b"
+      frame: bare
+    - form: findath
+      class: n
+      field: "Time and the mountain's seasons"
+      gloss: "the past, what has gone"
+      concept: past
+      root: "f-n-d"
+      frame: "done thing"
+    - form: takam
+      class: n
+      field: "Time and the mountain's seasons"
+      gloss: "the future, what is to come"
+      concept: future
+      root: "t-k-m"
+      frame: bare
+    - form: batík
+      class: adj
+      field: "Time and the mountain's seasons"
+      gloss: "brief, lasting a short time"
+      concept: [short-duration, brief-duration]
+      root: "b-t-k"
+      frame: adjective
+    - form: dhaník
+      class: adj
+      field: "Time and the mountain's seasons"
+      gloss: "early"
+      concept: early
+      root: "dh-n-k"
+      frame: adjective
+    - form: favíl
+      class: adj
+      field: "Time and the mountain's seasons"
+      gloss: "late"
+      concept: late
+      root: "f-v-l"
+      frame: adjective
+    - form: sagín
+      class: adj
+      field: "Time and the mountain's seasons"
+      gloss: "next"
+      concept: next
+      root: "s-g-n"
+      frame: adjective
+    - form: kalít
+      class: adj
+      field: "Time and the mountain's seasons"
+      gloss: "by chance, accidental"
+      concept: accidental
+      root: "k-l-t"
+      frame: adjective
+    - form: vazam
+      class: n
+      field: Body and person
+      gloss: "a sight, what is seen"
+      concept: see-noun
+      root: "v-z-m"
+      frame: bare
+    - form: khimdath
+      class: n
+      field: Body and person
+      gloss: "a sound, a thing heard"
+      concept: hear-noun
+      root: "kh-m-d"
+      frame: "done thing"
+    - form: sanf
+      class: n
+      field: Body and person
+      gloss: "a smell, a scent"
+      concept: smell-noun
+      root: "s-n-f"
+      frame: bare
+    - form: sunáf
+      class: v
+      field: Body and person
+      gloss: "to smell"
+      concept: smell-verb
+      root: "s-n-f"
+      frame: deed
+    - form: saníf
+      class: adj
+      field: Body and person
+      gloss: "sweet-smelling, fragrant"
+      concept: fragrant
+      root: "s-n-f"
+      frame: adjective
+    - form: tamz
+      class: n
+      field: Body and person
+      gloss: "a taste, a flavour"
+      concept: taste-noun
+      root: "t-m-z"
+      frame: bare
+    - form: tumáz
+      class: v
+      field: Body and person
+      gloss: "to taste"
+      concept: taste-verb
+      root: "t-m-z"
+      frame: deed
+    - form: balp
+      class: n
+      field: Body and person
+      gloss: "a touch"
+      concept: touch-noun
+      root: "b-l-p"
+      frame: bare
+    - form: buláp
+      class: v
+      field: Body and person
+      gloss: "to touch, to feel with the hand"
+      concept: touch-verb
+      root: "b-l-p"
+      frame: deed
+    - form: zanum
+      class: n
+      field: Body and person
+      gloss: "an appearance, a look"
+      concept: appearance
+      root: "z-n-m"
+      frame: bare
+    - form: vazím
+      class: adj
+      field: Body and person
+      gloss: "seen, visible"
+      concept: visible
+      root: "v-z-m"
+      frame: adjective
+    - form: kamídh
+      class: adj
+      field: Body and person
+      gloss: "hidden, unseen, invisible"
+      concept: invisible
+      root: "k-m-dh"
+      frame: adjective
+    - form: kulás
+      class: v
+      field: Body and person
+      gloss: "to listen; listen! said to win a hearing"
+      concept: [listen, expression-listen]
+      root: "k-l-s"
+      frame: deed
+    - form: zarg
+      class: n
+      field: Body and person
+      gloss: "a din, a noise"
+      concept: noise
+      root: "z-r-g"
+      frame: bare
+    - form: malín
+      class: adj
+      field: Body and person
+      gloss: "quiet, silent"
+      concept: quiet
+      root: "m-l-n"
+      frame: adjective
+    - form: talp
+      class: n
+      field: Body and person
+      gloss: "a feeling, a sensation"
+      concept: sensation
+      root: "t-l-p"
+      frame: bare
+    - form: tuláp
+      class: v
+      field: Body and person
+      gloss: "to feel, to perceive by any sense"
+      concept: [feel-verb, perceive]
+      root: "t-l-p"
+      frame: deed
+    - form: namíl
+      class: adj
+      field: Body and person
+      gloss: "soft"
+      concept: soft
+      root: "n-m-l"
+      frame: adjective
+    - form: kardh
+      class: n
+      field: Body and person
+      gloss: "fear"
+      concept: fear
+      root: "k-r-dh"
+      frame: bare
+    - form: garv
+      class: n
+      field: Body and person
+      gloss: "anger"
+      concept: anger
+      root: "g-r-v"
+      frame: bare
+    - form: bargh
+      class: n
+      field: Body and person
+      gloss: "wrath, a great anger"
+      concept: wrath
+      root: "b-r-gh"
+      frame: bare
+    - form: naghaz
+      class: n
+      field: Body and person
+      gloss: "hatred"
+      concept: hatred
+      root: "n-gh-z"
+      frame: bare
+    - form: varz
+      class: n
+      field: Body and person
+      gloss: "envy"
+      concept: envy
+      root: "v-r-z"
+      frame: bare
+    - form: galz
+      class: n
+      field: Body and person
+      gloss: "greed"
+      concept: greed
+      root: "g-l-z"
+      frame: bare
+    - form: tharm
+      class: n
+      field: Body and person
+      gloss: "pride"
+      concept: pride
+      root: "th-r-m"
+      frame: bare
+    - form: harv
+      class: n
+      field: Body and person
+      gloss: "lust"
+      concept: lust
+      root: "h-r-v"
+      frame: bare
+    - form: baghal
+      class: n
+      field: Body and person
+      gloss: "despair"
+      concept: despair
+      root: "b-gh-l"
+      frame: bare
+    - form: hapad-zuráb
+      class: n
+      field: Body and person
+      gloss: "the losing of hope, disappointment"
+      concept: disappointment
+      root: "h-p-d + z-r-b"
+      frame: compound
+    - form: halm
+      class: n
+      field: Body and person
+      gloss: "joy"
+      concept: joy
+      root: "h-l-m"
+      frame: bare
+    - form: bazal
+      class: n
+      field: Body and person
+      gloss: "happiness"
+      concept: happiness
+      root: "b-z-l"
+      frame: bare
+    - form: lavaz
+      class: n
+      field: Body and person
+      gloss: "pleasure"
+      concept: pleasure
+      root: "l-v-z"
+      frame: bare
+    - form: madaz
+      class: n
+      field: Body and person
+      gloss: "contentment"
+      concept: contentment
+      root: "m-d-z"
+      frame: bare
+    - form: lamdh
+      class: n
+      field: Body and person
+      gloss: "sadness"
+      concept: sadness
+      root: "l-m-dh"
+      frame: bare
+    - form: radham
+      class: n
+      field: Body and person
+      gloss: "regret"
+      concept: regret
+      root: "r-dh-m"
+      frame: bare
+    - form: zadam
+      class: n
+      field: Body and person
+      gloss: "confidence"
+      concept: confidence
+      root: "z-d-m"
+      frame: bare
+    - form: hazam-hulád
+      class: n
+      field: Body and person
+      gloss: "the warming of the face, embarrassment"
+      concept: embarrassment
+      root: "h-z-m + h-l-d"
+      frame: compound
+    - form: zanv
+      class: n
+      field: Body and person
+      gloss: "pity"
+      concept: pity
+      root: "z-n-v"
+      frame: bare
+    - form: mavadh-bunám
+      class: n
+      field: Body and person
+      gloss: "the coming into accord of hearts, sympathy"
+      concept: sympathy
+      root: "m-v-dh + b-n-m"
+      frame: compound
+    - form: kharz
+      class: n
+      field: Body and person
+      gloss: "resentment"
+      concept: resentment
+      root: "kh-r-z"
+      frame: bare
+    - form: zapar
+      class: n
+      field: Body and person
+      gloss: "contempt"
+      concept: contempt
+      root: "z-p-r"
+      frame: bare
+    - form: valk
+      class: n
+      field: Body and person
+      gloss: "desire"
+      concept: desire
+      root: "v-l-k"
+      frame: bare
+    - form: vulák
+      class: v
+      field: Body and person
+      gloss: "to desire, to wish"
+      concept: wish-verb
+      root: "v-l-k"
+      frame: deed
+    - form: ganum
+      class: n
+      field: Body and person
+      gloss: "longing"
+      concept: longing
+      root: "g-n-m"
+      frame: bare
+    - form: valk-kurám
+      class: n
+      field: Body and person
+      gloss: "the finishing of desire, satisfaction"
+      concept: satisfaction
+      root: "v-l-k + k-r-m"
+      frame: compound
+    - form: thagaz
+      class: n
+      field: Body and person
+      gloss: "frustration"
+      concept: frustration
+      root: "th-g-z"
+      frame: bare
+    - form: zapak
+      class: n
+      field: Body and person
+      gloss: "surprise"
+      concept: surprise
+      root: "z-p-k"
+      frame: bare
+    - form: maldh
+      class: n
+      field: Body and person
+      gloss: "boredom"
+      concept: boredom
+      root: "m-l-dh"
+      frame: bare
+    - form: nazav-puzál
+      class: n
+      field: Body and person
+      gloss: "the waiting for an arrival, anticipation"
+      concept: anticipation
+      root: "n-z-v + p-z-l"
+      frame: compound
+    - form: khald
+      class: n
+      field: Body and person
+      gloss: "a head"
+      concept: head
+      root: "kh-l-d"
+      frame: bare
+    - form: sardh
+      class: n
+      field: Body and person
+      gloss: "hair"
+      concept: hair
+      root: "s-r-dh"
+      frame: bare
+    - form: narp
+      class: n
+      field: Body and person
+      gloss: "a nose"
+      concept: nose
+      root: "n-r-p"
+      frame: bare
+    - form: zalp
+      class: n
+      field: Body and person
+      gloss: "a lip"
+      concept: lip
+      root: "z-l-p"
+      frame: bare
+    - form: gart
+      class: n
+      field: Body and person
+      gloss: "a tooth"
+      concept: tooth
+      root: "g-r-t"
+      frame: bare
+    - form: lask
+      class: n
+      field: Body and person
+      gloss: "a tongue"
+      concept: tongue
+      root: "l-s-k"
+      frame: bare
+    - form: nalk
+      class: n
+      field: Body and person
+      gloss: "a neck"
+      concept: neck
+      root: "n-l-k"
+      frame: bare
+    - form: tarb
+      class: n
+      field: Body and person
+      gloss: "an arm"
+      concept: arm
+      root: "t-r-b"
+      frame: bare
+    - form: kamb
+      class: n
+      field: Body and person
+      gloss: "an elbow"
+      concept: elbow
+      root: "k-m-b"
+      frame: bare
+    - form: nalgh
+      class: n
+      field: Body and person
+      gloss: "a fingernail, a nail"
+      concept: nail
+      root: "n-l-gh"
+      frame: bare
+    - form: "nalgh tafan"
+      class: n
+      field: Body and person
+      gloss: "a toenail (nail of the foot)"
+      concept: toenail
+      built: [nalgh, tafan]
+    - form: damth
+      class: n
+      field: Body and person
+      gloss: "a chest"
+      concept: chest
+      root: "d-m-th"
+      frame: bare
+    - form: malb
+      class: n
+      field: Body and person
+      gloss: "a breast"
+      concept: breast
+      root: "m-l-b"
+      frame: bare
+    - form: gamb
+      class: n
+      field: Body and person
+      gloss: "a belly"
+      concept: belly
+      root: "g-m-b"
+      frame: bare
+    - form: dharv
+      class: n
+      field: Body and person
+      gloss: "a back"
+      concept: back
+      root: "dh-r-v"
+      frame: bare
+    - form: hark
+      class: n
+      field: Body and person
+      gloss: "a hip"
+      concept: hip
+      root: "h-r-k"
+      frame: bare
+    - form: gardh
+      class: n
+      field: Body and person
+      gloss: "a leg"
+      concept: leg
+      root: "g-r-dh"
+      frame: bare
+    - form: "napal tafan"
+      class: n
+      field: Body and person
+      gloss: "a toe (finger of the foot)"
+      concept: toe
+      built: [napal, tafan]
+    - form: salk
+      class: n
+      field: Body and person
+      gloss: "skin"
+      concept: skin
+      root: "s-l-k"
+      frame: bare
+    - form: ramth
+      class: n
+      field: Body and person
+      gloss: "flesh"
+      concept: flesh
+      root: "r-m-th"
+      frame: bare
+    - form: "khabar khald"
+      class: n
+      field: Body and person
+      gloss: "a forehead (cliff of the head)"
+      concept: forehead
+      built: [khabar, khald]
+    - form: zamg
+      class: n
+      field: Body and person
+      gloss: "a jaw"
+      concept: jaw
+      root: "z-m-g"
+      frame: bare
+    - form: zanb
+      class: n
+      field: Body and person
+      gloss: "a chin"
+      concept: chin
+      root: "z-n-b"
+      frame: bare
+    - form: balk
+      class: n
+      field: Body and person
+      gloss: "a cheek"
+      concept: cheek
+      root: "b-l-k"
+      frame: bare
+    - form: garg
+      class: n
+      field: Body and person
+      gloss: "a throat"
+      concept: throat
+      root: "g-r-g"
+      frame: bare
+    - form: baldh
+      class: n
+      field: Body and person
+      gloss: "a stomach"
+      concept: stomach
+      root: "b-l-dh"
+      frame: bare
+    - form: zank
+      class: n
+      field: Body and person
+      gloss: "a waist"
+      concept: waist
+      root: "z-n-k"
+      frame: bare
+    - form: sarn
+      class: n
+      field: Body and person
+      gloss: "a spine"
+      concept: spine
+      root: "s-r-n"
+      frame: bare
+    - form: parb
+      class: n
+      field: Body and person
+      gloss: "a buttock"
+      concept: buttock
+      root: "p-r-b"
+      frame: bare
+    - form: "tazab thanp"
+      class: n
+      field: Body and person
+      gloss: "a wrist (ankle of the hand)"
+      concept: wrist
+      built: [tazab, thanp]
+    - form: "madan thanp"
+      class: n
+      field: Body and person
+      gloss: "a palm (middle of the hand)"
+      concept: palm
+      built: [madan, thanp]
+    - form: khamb
+      class: n
+      field: Body and person
+      gloss: "a thumb"
+      concept: thumb
+      root: "kh-m-b"
+      frame: bare
+    - form: thalg
+      class: n
+      field: Body and person
+      gloss: "a thigh"
+      concept: thigh
+      root: "th-l-g"
+      frame: bare
+    - form: gavadh
+      class: n
+      field: Body and person
+      gloss: "a heel"
+      concept: heel
+      root: "g-v-dh"
+      frame: bare
+    - form: "bavath tafan"
+      class: n
+      field: Body and person
+      gloss: "a sole (floor of the foot)"
+      concept: sole
+      built: [bavath, tafan]
+    - form: zarn
+      class: n
+      field: Body and person
+      gloss: "a muscle"
+      concept: muscle
+      root: "z-r-n"
+      frame: bare
+    - form: khavaz
+      class: n
+      field: Body and person
+      gloss: "fat"
+      concept: fat
+      root: "kh-v-z"
+      frame: bare
+    - form: zamv
+      class: n
+      field: Body and person
+      gloss: "sweat"
+      concept: sweat
+      root: "z-m-v"
+      frame: bare
+    - form: dhimdath
+      class: n
+      field: Body and person
+      gloss: "tears, what weeping makes"
+      concept: tears
+      root: "dh-m-d"
+      frame: "done thing"
+    - form: salp
+      class: n
+      field: Body and person
+      gloss: "spittle, saliva"
+      concept: saliva
+      root: "s-l-p"
+      frame: bare
+    - form: marth
+      class: n
+      field: Body and person
+      gloss: "a brain"
+      concept: brain
+      root: "m-r-th"
+      frame: bare
+    - form: haval
+      class: n
+      field: Body and person
+      gloss: "a lung"
+      concept: lung
+      root: "h-v-l"
+      frame: bare
+    - form: zavap
+      class: n
+      field: Body and person
+      gloss: "a liver"
+      concept: liver
+      root: "z-v-p"
+      frame: bare
+    - form: barm
+      class: n
+      field: Body and person
+      gloss: "a kidney"
+      concept: kidney
+      root: "b-r-m"
+      frame: bare
+    - form: zaldh
+      class: n
+      field: Body and person
+      gloss: "a gut, an intestine"
+      concept: intestine
+      root: "z-l-dh"
+      frame: bare
+    - form: samv
+      class: n
+      field: Body and person
+      gloss: "the genitals"
+      concept: genitals
+      root: "s-m-v"
+      frame: bare
+    - form: hulafad
+      class: n
+      field: Body and person
+      gloss: "a womb, where a child is borne"
+      concept: womb
+      root: "l-f-d"
+      frame: place
+    - form: zakab
+      class: n
+      field: Body and person
+      gloss: "a penis"
+      concept: penis
+      root: "z-k-b"
+      frame: bare
+    - form: farn
+      class: n
+      field: Body and person
+      gloss: "a vagina"
+      concept: vagina
+      root: "f-r-n"
+      frame: bare
+    - form: ganur
+      class: n
+      field: Body and person
+      gloss: "a testicle"
+      concept: testicle
+      root: "g-n-r"
+      frame: bare
+    - form: saml
+      class: n
+      field: Body and person
+      gloss: "sleep"
+      concept: sleep-noun
+      root: "s-m-l"
+      frame: bare
+    - form: pasl
+      class: n
+      field: Body and person
+      gloss: "urine"
+      concept: urine
+      root: "p-s-l"
+      frame: bare
+    - form: pusál
+      class: v
+      field: Body and person
+      gloss: "to urinate"
+      concept: urinate
+      root: "p-s-l"
+      frame: deed
+    - form: gavab
+      class: n
+      field: Body and person
+      gloss: "dung"
+      concept: dung
+      root: "g-v-b"
+      frame: bare
+    - form: guváb
+      class: v
+      field: Body and person
+      gloss: "to defecate"
+      concept: defecate
+      root: "g-v-b"
+      frame: deed
+    - form: puváth
+      class: v
+      field: Body and person
+      gloss: "to breathe out"
+      concept: exhale
+      root: "p-v-th"
+      frame: deed
+    - form: zukár
+      class: v
+      field: Body and person
+      gloss: "to wake"
+      concept: wake
+      root: "z-k-r"
+      frame: deed
+    - form: zakír
+      class: adj
+      field: Body and person
+      gloss: "awake"
+      concept: awake
+      root: "z-k-r"
+      frame: adjective
+    - form: madíth
+      class: adj
+      field: Body and person
+      gloss: "tired"
+      concept: tired
+      root: "m-d-th"
+      frame: adjective
+    - form: ruvád
+      class: v
+      field: Body and person
+      gloss: "to grow"
+      concept: grow
+      root: "r-v-d"
+      frame: deed
+    - form: dhavíl
+      class: adj
+      field: Body and person
+      gloss: "sick, ill"
+      concept: sick
+      root: "dh-v-l"
+      frame: adjective
+    - form: bathík
+      class: adj
+      field: Body and person
+      gloss: "wounded, injured"
+      concept: injured
+      root: "b-th-k"
+      frame: adjective
+    - form: ladhíz
+      class: adj
+      field: Body and person
+      gloss: "weak"
+      concept: weak
+      root: "l-dh-z"
+      frame: adjective
+    - form: faríth
+      class: adj
+      field: Body and person
+      gloss: "feverish"
+      concept: feverish
+      root: "f-r-th"
+      frame: adjective
+    - form: dharg
+      class: n
+      field: Body and person
+      gloss: "pain"
+      concept: pain
+      root: "dh-r-g"
+      frame: bare
+    - form: dhurág
+      class: v
+      field: Body and person
+      gloss: "to hurt, to cause pain"
+      concept: hurt-verb
+      root: "dh-r-g"
+      frame: deed
+    - form: kamth
+      class: n
+      field: Body and person
+      gloss: "an ache"
+      concept: ache
+      root: "k-m-th"
+      frame: bare
+    - form: kumáth
+      class: v
+      field: Body and person
+      gloss: "to ache, to feel pain"
+      concept: hurt-pain
+      root: "k-m-th"
+      frame: deed
+    - form: suvál
+      class: v
+      field: Body and person
+      gloss: "to suffer"
+      concept: suffer
+      root: "s-v-l"
+      frame: deed
+    - form: tubán
+      class: v
+      field: Body and person
+      gloss: "to heal"
+      concept: heal
+      root: "t-b-n"
+      frame: deed
+    - form: zurád
+      class: v
+      field: Body and person
+      gloss: "to recover, to come back to health"
+      concept: recover
+      root: "z-r-d"
+      frame: deed
+    - form: zalíth
+      class: adj
+      field: Body and person
+      gloss: "blind"
+      concept: blind
+      root: "z-l-th"
+      frame: adjective
+    - form: zamít
+      class: adj
+      field: Body and person
+      gloss: "deaf"
+      concept: deaf
+      root: "z-m-t"
+      frame: adjective
+    - form: kalíg
+      class: adj
+      field: Body and person
+      gloss: "lame"
+      concept: lame
+      root: "k-l-g"
+      frame: adjective
+    - form: bavín
+      class: adj
+      field: Body and person
+      gloss: "conscious, aware"
+      concept: conscious
+      root: "b-v-n"
+      frame: adjective
+    - form: dhamíl
+      class: adj
+      field: Body and person
+      gloss: "unconscious, senseless"
+      concept: unconscious
+      root: "dh-m-l"
+      frame: adjective
+    - form: falív
+      class: adj
+      field: Body and person
+      gloss: "pale, wan"
+      concept: pale
+      root: "f-l-v"
+      frame: adjective
+    - form: banv
+      class: n
+      field: Body and person
+      gloss: "the self, oneself"
+      concept: self
+      root: "b-n-v"
+      frame: bare
+    - form: barv
+      class: n
+      field: War and the guarding
+      gloss: "courage"
+      concept: courage
+      root: "b-r-v"
+      frame: bare
+    - form: khadaz
+      class: n
+      field: War and the guarding
+      gloss: "enmity"
+      concept: enmity
+      root: "kh-d-z"
+      frame: bare
+    - form: khadazir
+      class: n
+      field: War and the guarding
+      gloss: "an enemy"
+      concept: enemy
+      root: "kh-d-z"
+      frame: worker
+    - form: bathaz
+      class: n
+      field: War and the guarding
+      gloss: "safety"
+      concept: safety
+      root: "b-th-z"
+      frame: bare
+    - form: kharg
+      class: n
+      field: War and the guarding
+      gloss: "danger"
+      concept: danger
+      root: "kh-r-g"
+      frame: bare
+    - form: vuráp
+      class: v
+      field: War and the guarding
+      gloss: "to throw"
+      concept: throw
+      root: "v-r-p"
+      frame: deed
+    - form: dugáz
+      class: v
+      field: War and the guarding
+      gloss: "to destroy"
+      concept: destroy
+      root: "d-g-z"
+      frame: deed
+    - form: khuzád
+      class: v
+      field: War and the guarding
+      gloss: "to attack"
+      concept: attack
+      root: "kh-z-d"
+      frame: deed
+    - form: khumág
+      class: v
+      field: War and the guarding
+      gloss: "to threaten"
+      concept: threaten
+      root: "kh-m-g"
+      frame: deed
+    - form: kabadh
+      class: n
+      field: War and the guarding
+      gloss: "captivity"
+      concept: captivity
+      root: "k-b-dh"
+      frame: bare
+    - form: badam
+      class: n
+      field: The god and devotion
+      gloss: "faith"
+      concept: faith
+      root: "b-d-m"
+      frame: bare
+    - form: thanum
+      class: n
+      field: The god and devotion
+      gloss: "a belief"
+      concept: belief
+      root: "th-n-m"
+      frame: bare
+    - form: thunám
+      class: v
+      field: The god and devotion
+      gloss: "to believe"
+      concept: believe
+      root: "th-n-m"
+      frame: deed
+    - form: marn
+      class: n
+      field: The god and devotion
+      gloss: "compassion"
+      concept: compassion
+      root: "m-r-n"
+      frame: bare
+    - form: vanth
+      class: n
+      field: The god and devotion
+      gloss: "reverence"
+      concept: reverence
+      root: "v-n-th"
+      frame: bare
+    - form: khavadh
+      class: n
+      field: The god and devotion
+      gloss: "awe"
+      concept: awe
+      root: "kh-v-dh"
+      frame: bare
+    - form: hanv
+      class: n
+      field: The god and devotion
+      gloss: "love given to all and asking nothing"
+      concept: love-agape
+      root: "h-n-v"
+      frame: bare
+    - form: fald
+      class: n
+      field: The god and devotion
+      gloss: "devotion"
+      concept: devotion
+      root: "f-l-d"
+      frame: bare
+    - form: thuzár
+      class: v
+      field: The god and devotion
+      gloss: "to imagine"
+      concept: imagine
+      root: "th-z-r"
+      frame: deed
+    - form: zavakir
+      class: n
+      field: The god and devotion
+      gloss: "a being, one who stands"
+      concept: being
+      root: "z-v-k"
+      frame: worker
+    - form: damíl
+      class: adj
+      field: Other peoples and the larder
+      gloss: "sweet"
+      concept: sweet
+      root: "d-m-l"
+      frame: adjective
+    - form: karíz
+      class: adj
+      field: Other peoples and the larder
+      gloss: "sour"
+      concept: sour
+      root: "k-r-z"
+      frame: adjective
+    - form: garíth
+      class: adj
+      field: Other peoples and the larder
+      gloss: "bitter"
+      concept: bitter
+      root: "g-r-th"
+      frame: adjective
+    - form: hamír
+      class: adj
+      field: Other peoples and the larder
+      gloss: "full, sated"
+      concept: sated
+      root: "h-m-r"
+      frame: adjective
+    - form: falk
+      class: n
+      field: Other peoples and the larder
+      gloss: "wool"
+      concept: wool
+      root: "f-l-k"
+      frame: bare
+    - form: kalz
+      class: n
+      field: Other peoples and the larder
+      gloss: "soil"
+      concept: soil
+      root: "k-l-z"
+      frame: bare
+    - form: dhalk
+      class: n
+      field: Other peoples and the larder
+      gloss: "mud"
+      concept: mud
+      root: "dh-l-k"
+      frame: bare
+    - form: kart
+      class: n
+      field: Other peoples and the larder
+      gloss: "land"
+      concept: land
+      root: "k-r-t"
+      frame: bare
+    - form: hutarm
+      class: n
+      field: Other peoples and the larder
+      gloss: "a forest, where trees stand"
+      concept: forest
+      root: "t-r-m"
+      frame: place
+    - form: bidarath
+      class: n
+      field: Other peoples and the larder
+      gloss: "a field, tilled ground"
+      concept: field
+      root: "b-d-r"
+      frame: "done thing"
+    - form: dhalv
+      class: n
+      field: Other peoples and the larder
+      gloss: "a stream"
+      concept: stream
+      root: "dh-l-v"
+      frame: bare
+    - form: tapal
+      class: n
+      field: Other peoples and the larder
+      gloss: "a plant"
+      concept: plant
+      root: "t-p-l"
+      frame: bare
+    - form: falb
+      class: n
+      field: Other peoples and the larder
+      gloss: "a leaf"
+      concept: leaf
+      root: "f-l-b"
+      frame: bare
+    - form: nark
+      class: n
+      field: Other peoples and the larder
+      gloss: "a root"
+      concept: root
+      root: "n-r-k"
+      frame: bare
+    - form: sarg
+      class: n
+      field: Other peoples and the larder
+      gloss: "a branch"
+      concept: branch
+      root: "s-r-g"
+      frame: bare
+    - form: namdh
+      class: n
+      field: Other peoples and the larder
+      gloss: "a flower"
+      concept: flower
+      root: "n-m-dh"
+      frame: bare
+    - form: marb
+      class: n
+      field: Other peoples and the larder
+      gloss: "a fruit"
+      concept: fruit
+      root: "m-r-b"
+      frame: bare
+    - form: danth
+      class: n
+      field: Other peoples and the larder
+      gloss: "a seed"
+      concept: seed
+      root: "d-n-th"
+      frame: bare
+    - form: vart
+      class: n
+      field: Other peoples and the larder
+      gloss: "grass"
+      concept: grass
+      root: "v-r-t"
+      frame: bare
+    - form: khavar
+      class: n
+      field: Other peoples and the larder
+      gloss: "an animal"
+      concept: animal
+      root: "kh-v-r"
+      frame: bare
+    - form: ghalz
+      class: n
+      field: Other peoples and the larder
+      gloss: "a beast, a wild animal"
+      concept: beast
+      root: "gh-l-z"
+      frame: bare
+    - form: parkh
+      class: n
+      field: Other peoples and the larder
+      gloss: "a bird"
+      concept: bird
+      root: "p-r-kh"
+      frame: bare
+    - form: bazaz
+      class: n
+      field: Other peoples and the larder
+      gloss: "an insect"
+      concept: insect
+      root: "b-z-z"
+      frame: bare
+    - form: labadh
+      class: n
+      field: Other peoples and the larder
+      gloss: "a worm"
+      concept: worm
+      root: "l-b-dh"
+      frame: bare
+    - form: sukáv
+      class: v
+      field: Other peoples and the larder
+      gloss: "to buy"
+      concept: buy
+      root: "s-k-v"
+      frame: deed
+    - form: dukáz
+      class: v
+      field: Other peoples and the larder
+      gloss: "to sell"
+      concept: sell
+      root: "d-k-z"
+      frame: deed
+    - form: makadhir
+      class: n
+      field: Other peoples and the larder
+      gloss: "a merchant, one who exchanges"
+      concept: merchant
+      root: "m-k-dh"
+      frame: worker
+    - form: kumádh
+      class: v
+      field: Motion and holding
+      gloss: "to hide"
+      concept: hide
+      root: "k-m-dh"
+      frame: deed
+    - form: kudár
+      class: v
+      field: Motion and holding
+      gloss: "to lead"
+      concept: lead
+      root: "k-d-r"
+      frame: deed
+    - form: hugál
+      class: v
+      field: Motion and holding
+      gloss: "to come"
+      concept: come
+      root: "h-g-l"
+      frame: deed
+    - form: bukár
+      class: v
+      field: Motion and holding
+      gloss: "to take"
+      concept: take
+      root: "b-k-r"
+      frame: deed
+    - form: gudhár
+      class: v
+      field: Motion and holding
+      gloss: "to do"
+      concept: do
+      root: "g-dh-r"
+      frame: deed
+    - form: hurád
+      class: v
+      field: Motion and holding
+      gloss: "to run"
+      concept: run
+      root: "h-r-d"
+      frame: deed
+    - form: tuván
+      class: v
+      field: Motion and holding
+      gloss: "to bring"
+      concept: bring
+      root: "t-v-n"
+      frame: deed
+    - form: pusák
+      class: v
+      field: Motion and holding
+      gloss: "to put, to set down"
+      concept: put
+      root: "p-s-k"
+      frame: deed
+    - form: zatuvár
+      class: v
+      field: Motion and holding
+      gloss: "to become, to change oneself"
+      concept: become
+      root: "z-v-r"
+      frame: reflexive
+    - form: "funád bel"
+      class: v
+      field: Motion and holding
+      gloss: "to enter (to go into)"
+      concept: enter
+      built: [funád, bel]
+    - form: "funád gol"
+      class: v
+      field: Motion and holding
+      gloss: "to go out (to go out of)"
+      concept: exit
+      built: [funád, gol]
+    - form: khunáp
+      class: v
+      field: Motion and holding
+      gloss: "to crawl"
+      concept: crawl
+      root: "kh-n-p"
+      frame: deed
+    - form: thupáz
+      class: v
+      field: Motion and holding
+      gloss: "to jump"
+      concept: jump
+      root: "th-p-z"
+      frame: deed
+    - form: khupár
+      class: v
+      field: Motion and holding
+      gloss: "to fall"
+      concept: fall
+      root: "kh-p-r"
+      frame: deed
+    - form: satumád
+      class: v
+      field: Motion and holding
+      gloss: "to rise, to raise oneself"
+      concept: rise
+      root: "s-m-d"
+      frame: reflexive
+    - form: tuzáv
+      class: v
+      field: Motion and holding
+      gloss: "to move"
+      concept: move
+      root: "t-z-v"
+      frame: deed
+    - form: thukáz
+      class: v
+      field: Motion and holding
+      gloss: "to push"
+      concept: push
+      root: "th-k-z"
+      frame: deed
+    - form: kubáz
+      class: v
+      field: Motion and holding
+      gloss: "to catch"
+      concept: catch
+      root: "k-b-z"
+      frame: deed
+    - form: dhukál
+      class: v
+      field: Motion and holding
+      gloss: "to prefer"
+      concept: prefer
+      root: "dh-k-l"
+      frame: deed
+    - form: gumádh
+      class: v
+      field: Motion and holding
+      gloss: "to meet"
+      concept: meet
+      root: "g-m-dh"
+      frame: deed
+    - form: duvám
+      class: v
+      field: Motion and holding
+      gloss: "to continue, to go on"
+      concept: continue
+      root: "d-v-m"
+      frame: deed
+    - form: burát
+      class: v
+      field: Motion and holding
+      gloss: "to kneel"
+      concept: kneel
+      root: "b-r-t"
+      frame: deed
+    - form: duláp
+      class: v
+      field: Motion and holding
+      gloss: "to lean"
+      concept: lean
+      root: "d-l-p"
+      frame: deed
+    - form: pazív
+      class: adj
+      field: Motion and holding
+      gloss: "near, close"
+      concept: near
+      root: "p-z-v"
+      frame: adjective
+    - form: tarív
+      class: adj
+      field: Motion and holding
+      gloss: "far, distant"
+      concept: far
+      root: "t-r-v"
+      frame: adjective
+    - form: vadhan
+      class: n
+      field: Motion and holding
+      gloss: "a direction, the way a thing lies"
+      concept: direction
+      root: "v-dh-n"
+      frame: bare
+    - form: dukár
+      class: v
+      field: Motion and holding
+      gloss: "can, to be able to"
+      concept: can
+      root: "d-k-r"
+      frame: deed
+    - form: dakír
+      class: adj
+      field: Motion and holding
+      gloss: "possible, able to be done"
+      concept: possible
+      root: "d-k-r"
+      frame: adjective
+    - form: bazík
+      class: adj
+      field: Motion and holding
+      gloss: "impossible"
+      concept: impossible
+      root: "b-z-k"
+      frame: adjective
+    - form: "girm bep bozd"
+      class: num
+      field: Grammar words
+      gloss: "twenty (sixteen and four)"
+      concept: twenty
+      built: [girm, bep, bozd]
+    - form: "nefk girm bep bozd"
+      class: num
+      field: Grammar words
+      gloss: "a hundred (six sixteen and four)"
+      concept: hundred
+      built: [nefk, girm, bep, bozd]
+    - form: "vem vazath bep vunth girm bep kabur"
+      class: num
+      field: Grammar words
+      gloss: "a thousand (three great counts and fourteen sixteen and eight)"
+      concept: thousand
+      built: [vem, vazath, bep, vunth, girm, kabur]
+    - form: "tagan zik"
+      class: adj
+      field: Grammar words
+      gloss: "second (the turn of two)"
+      concept: second
+      built: [tagan, zik]
+    - form: "tagan vem"
+      class: adj
+      field: Grammar words
+      gloss: "third (the turn of three)"
+      concept: third
+      built: [tagan, vem]
+    - form: "tagan bozd"
+      class: adj
+      field: Grammar words
+      gloss: 'fourth (the turn of four); _tagan_ before any number names that place in order: _tagan zund_ is "tenth"'
+      concept: ordinal-construction
+      built: [tagan, bozd]
+    - form: zum
+      class: part
+      field: Grammar words
+      gloss: "no, none, nothing; stands before its noun"
+      concept: none
+    - form: "zum kamv"
+      class: num
+      field: Grammar words
+      gloss: "zero (no count)"
+      concept: zero
+      built: [zum, kamv]
+    - form: bakíl
+      variants: [bakilez]
+      class: adj
+      field: Grammar words
+      gloss: "some, any"
+      concept: some
+      root: "b-k-l"
+      frame: adjective
+    - form: damíz
+      class: adj
+      field: Grammar words
+      gloss: "enough"
+      concept: enough
+      root: "d-m-z"
+      frame: adjective
+    - form: barídh
+      class: adj
+      field: Grammar words
+      gloss: "more, exceeding"
+      concept: more
+      root: "b-r-dh"
+      frame: adjective
+    - form: nakídh
+      class: adj
+      field: Grammar words
+      gloss: "less, lesser"
+      concept: less
+      root: "n-k-dh"
+      frame: adjective
+    - form: "barídh fod taghav"
+      class: adj
+      field: Grammar words
+      gloss: "most (more beyond the whole)"
+      concept: most
+      built: [barídh, fod, taghav]
+    - form: "nakídh fod taghav"
+      class: adj
+      field: Grammar words
+      gloss: "least (less beyond the whole)"
+      concept: least
+      built: [nakídh, fod, taghav]
+    - form: "taghív zik"
+      class: adj
+      field: Grammar words
+      gloss: "both (the whole two)"
+      concept: both
+      built: [taghív, zik]
+    - form: "tob gol zik"
+      class: pron
+      field: Grammar words
+      gloss: "either (one out of two)"
+      concept: either
+      built: [tob, gol, zik]
+    - form: "zum gol zik"
+      class: pron
+      field: Grammar words
+      gloss: "neither (none out of two)"
+      concept: neither
+      built: [zum, gol, zik]
+    - form: "nol tob"
+      class: part
+      field: Grammar words
+      gloss: "almost, nearly (under one)"
+      concept: almost
+      built: [nol, tob]
+    - form: "kos mathaz"
+      class: part
+      field: Grammar words
+      gloss: "exactly (as measured)"
+      concept: exactly
+      built: [kos, mathaz]
+    - form: nim
+      class: part
+      field: Grammar words
+      gloss: "in, inside, within; during, before a time; stands before its noun"
+      concept: [in, inside, during]
+    - form: zad
+      class: part
+      field: Grammar words
+      gloss: "at; stands before its noun"
+      concept: at
+    - form: gub
+      class: part
+      field: Grammar words
+      gloss: "outside, out of doors; stands before its noun"
+      concept: outside
+    - form: sab
+      class: part
+      field: Grammar words
+      gloss: "beside, next to; stands before its noun"
+      concept: beside
+    - form: dub
+      class: part
+      field: Grammar words
+      gloss: "through; stands before its noun"
+      concept: through
+    - form: pab
+      class: part
+      field: Grammar words
+      gloss: "across; stands before its noun"
+      concept: across
+    - form: gur
+      class: part
+      field: Grammar words
+      gloss: "around; stands before its noun"
+      concept: around
+    - form: "nim madan"
+      class: part
+      field: Grammar words
+      gloss: 'between, among (in the middle of): _nim madan dalkez_, "among the stones"'
+      concept: [between, among]
+      built: [nim, madan]
+    - form: "kob hazam"
+      class: part
+      field: Grammar words
+      gloss: "before, in front of (on the face of)"
+      concept: before-spatial
+      built: [kob, hazam]
+    - form: "kob dharv"
+      class: part
+      field: Grammar words
+      gloss: "behind (on the back of)"
+      concept: behind
+      built: [kob, dharv]
+    - form: "tev larg"
+      class: part
+      field: Grammar words
+      gloss: "up (toward the daylight)"
+      concept: up
+      built: [tev, larg]
+    - form: "tev bamg"
+      class: part
+      field: Grammar words
+      gloss: "down (toward the deep)"
+      concept: down
+      built: [tev, bamg]
+    - form: "tev hazam"
+      class: part
+      field: Grammar words
+      gloss: "forward (toward the face)"
+      concept: forward
+      built: [tev, hazam]
+    - form: "tev dharv"
+      class: part
+      field: Grammar words
+      gloss: "backward (toward the back)"
+      concept: backward
+      built: [tev, dharv]
+    - form: "gol kelg"
+      class: part
+      field: Grammar words
+      gloss: "away (from here)"
+      concept: away
+      built: [gol, kelg]
+    - form: "bakíl zavan"
+      class: part
+      field: Grammar words
+      gloss: "somewhere (some place)"
+      concept: somewhere
+      built: [bakíl, zavan]
+    - form: "zum zavan"
+      class: part
+      field: Grammar words
+      gloss: "nowhere (no place)"
+      concept: nowhere
+      built: [zum, zavan]
+    - form: "tavíz zavan"
+      class: part
+      field: Grammar words
+      gloss: "everywhere (every place)"
+      concept: everywhere
+      built: [tavíz, zavan]
+    - form: "tav kodz"
+      class: part
+      field: Grammar words
+      gloss: "then, at that time (when that)"
+      concept: then
+      built: [tav, kodz]
+    - form: pod
+      class: part
+      field: Grammar words
+      gloss: "before, earlier than; stands before its noun"
+      concept: before-time
+    - form: lob
+      class: part
+      field: Grammar words
+      gloss: "after, later than; stands before its noun"
+      concept: after
+    - form: "nim tav"
+      class: conj
+      field: Grammar words
+      gloss: "while (in the when); opens a clause"
+      concept: while
+      built: [nim, tav]
+    - form: "tev tav"
+      class: conj
+      field: Grammar words
+      gloss: "until (to the when); opens a clause"
+      concept: until
+      built: [tev, tav]
+    - form: "gol tav"
+      class: conj
+      field: Grammar words
+      gloss: "since (from the when); opens a clause"
+      concept: since-time
+      built: [gol, tav]
+    - form: "tavíz kalat"
+      class: part
+      field: Grammar words
+      gloss: "always (every occasion)"
+      concept: always
+      built: [tavíz, kalat]
+    - form: "ravizez kalatez"
+      class: part
+      field: Grammar words
+      gloss: "often (many occasions)"
+      concept: often
+      built: [ravíz, kalat]
+    - form: "bakilez kalatez"
+      class: part
+      field: Grammar words
+      gloss: "sometimes (some occasions)"
+      concept: sometimes
+      built: [bakíl, kalat]
+    - form: "dhapilez kalatez"
+      class: part
+      field: Grammar words
+      gloss: "rarely (few occasions)"
+      concept: rarely
+      built: [dhapíl, kalat]
+    - form: "zum kalat"
+      class: part
+      field: Grammar words
+      gloss: "never (no occasion)"
+      concept: never
+      built: [zum, kalat]
+    - form: "tob kalat"
+      class: part
+      field: Grammar words
+      gloss: "once (one occasion)"
+      concept: once
+      built: [tob, kalat]
+    - form: "zik kalatez"
+      class: part
+      field: Grammar words
+      gloss: "twice (two occasions)"
+      concept: twice
+      built: [zik, kalat]
+    - form: "hez bep hez"
+      class: part
+      field: Grammar words
+      gloss: "again and again, repeatedly"
+      concept: repeatedly
+      built: [hez, bep]
+    - {form: dek, class: part, field: Grammar words, gloss: "already", concept: already}
+    - {form: dov, class: part, field: Grammar words, gloss: "still, yet going on", concept: still}
+    - form: kev
+      class: part
+      field: Grammar words
+      gloss: "yet; with _thuf_, not yet"
+      concept: yet
+    - {form: tib, class: part, field: Grammar words, gloss: "soon", concept: soon}
+    - form: "fod kald"
+      class: part
+      field: Grammar words
+      gloss: "later (beyond now)"
+      concept: later
+      built: [fod, kald]
+    - form: "zad favaz"
+      class: part
+      field: Grammar words
+      gloss: "finally, at the last"
+      concept: finally
+      built: [zad, favaz]
+    - form: "vagath gaz"
+      class: pron
+      field: Grammar words
+      gloss: 'my house: a pronoun after a noun names its owner, so _gaz_ after a noun is "my, mine"'
+      concept: my
+      built: [vagath, gaz]
+    - form: "vagath ves"
+      class: pron
+      field: Grammar words
+      gloss: 'your house: _ves_ after a noun is "your, yours"'
+      concept: your
+      built: [vagath, ves]
+    - form: "vagath gazun"
+      class: pron
+      field: Grammar words
+      gloss: 'our house: _gazun_ after a noun is "our, ours"'
+      concept: our
+      built: [vagath, gazun]
+    - form: "tob pant"
+      class: pron
+      field: Grammar words
+      gloss: "something (one thing)"
+      concept: something
+      built: [tob, pant]
+    - form: "bakíl tob"
+      class: pron
+      field: Grammar words
+      gloss: "anyone (any one)"
+      concept: anyone
+      built: [bakíl, tob]
+    - form: "bakíl pant"
+      class: pron
+      field: Grammar words
+      gloss: "anything (any thing)"
+      concept: anything
+      built: [bakíl, pant]
+    - form: "zum tob"
+      class: pron
+      field: Grammar words
+      gloss: "no one"
+      concept: no-one
+      built: [zum, tob]
+    - form: pant
+      class: n
+      field: Grammar words
+      gloss: "a thing"
+      concept: thing
+      root: "p-n-t"
+      frame: bare
+    - form: badhíl
+      class: adj
+      field: Grammar words
+      gloss: "different, differing"
+      concept: different
+      root: "b-dh-l"
+      frame: adjective
+    - form: "badhíl gol"
+      class: part
+      field: Grammar words
+      gloss: "unlike (different from)"
+      concept: unlike
+      built: [badhíl, gol]
+    - form: zaním
+      class: adj
+      field: Grammar words
+      gloss: "similar, like-seeming"
+      concept: similar
+      root: "z-n-m"
+      frame: adjective
+    - form: daríz
+      class: adj
+      field: Grammar words
+      gloss: "opposite, set against"
+      concept: opposite
+      root: "d-r-z"
+      frame: adjective
+    - form: thak
+      class: part
+      field: Grammar words
+      gloss: "which? opens a question, before its noun"
+      concept: question-which
+    - form: thav
+      class: part
+      field: Grammar words
+      gloss: "when? opens a question"
+      concept: question-when
+    - form: thig
+      class: part
+      field: Grammar words
+      gloss: "why? opens a question"
+      concept: question-why
+    - form: thuk
+      class: part
+      field: Grammar words
+      gloss: "how? opens a question"
+      concept: question-how
+    - form: "thaz kamv"
+      class: part
+      field: Grammar words
+      gloss: "how many? (what count)"
+      concept: question-how-many
+      built: [thaz, kamv]
+    - form: "thaz mathaz"
+      class: part
+      field: Grammar words
+      gloss: "how much? (what measure)"
+      concept: question-how-much
+      built: [thaz, mathaz]
+    - form: "thiz puvár"
+      class: part
+      field: Grammar words
+      gloss: 'whose? (who has it): _thiz puvár kedz tanv_, "whose is this gate?"'
+      concept: question-whose
+      built: [thiz, puvár]
+    - form: "tev thiz"
+      class: part
+      field: Grammar words
+      gloss: "to whom?"
+      concept: question-to-whom
+      built: [tev, thiz]
+    - form: "gol thuz"
+      class: part
+      field: Grammar words
+      gloss: "from where?"
+      concept: question-from-where
+      built: [gol, thuz]
+    - form: "pes thaz"
+      class: part
+      field: Grammar words
+      gloss: "for what purpose? what for?"
+      concept: question-for-what-purpose
+      built: [pes, thaz]
+    - form: "thaz ves gunádh"
+      class: part
+      field: Grammar words
+      gloss: "what are you saying? asked for a thing to be made plain"
+      concept: question-clarification
+      built: [thaz, ves, gunádh]
+    - form: "nuv kand"
+      class: part
+      field: Grammar words
+      gloss: "certainly (with certainty)"
+      concept: certainly
+      built: [nuv, kand]
+    - form: kav
+      class: part
+      field: Grammar words
+      gloss: "perhaps, it may be; stands before the verb"
+      concept: [perhaps, might-possibility]
+    - form: "kos varín"
+      class: part
+      field: Grammar words
+      gloss: "probably (like the true)"
+      concept: probably
+      built: [kos, varín]
+    - form: "kos lazígh"
+      class: part
+      field: Grammar words
+      gloss: "unlikely (like the false)"
+      concept: unlikely
+      built: [kos, lazígh]
+    - form: "kos zanum"
+      class: part
+      field: Grammar words
+      gloss: "apparently (as it appears)"
+      concept: apparently
+      built: [kos, zanum]
+    - form: "kos bazan"
+      class: part
+      field: Grammar words
+      gloss: "supposedly (as the saying goes)"
+      concept: supposedly
+      built: [kos, bazan]
+    - form: "nim varn"
+      class: part
+      field: Grammar words
+      gloss: "in fact, actually (in truth)"
+      concept: in-fact
+      built: [nim, varn]
+    - {form: naz, class: conj, field: Grammar words, gloss: "nor", concept: nor}
+    - form: "gez kodz"
+      class: conj
+      field: Grammar words
+      gloss: "therefore (because of that)"
+      concept: therefore
+      built: [gez, kodz]
+    - form: kun
+      class: conj
+      field: Grammar words
+      gloss: 'then, after an _hiz_ clause: _hiz vog nuzáv, kun gaz funád_, "if he arrives, then I go"'
+      concept: then-conditional
+    - form: "hiz thuf"
+      class: conj
+      field: Grammar words
+      gloss: "unless (if not)"
+      concept: unless
+      built: [hiz, thuf]
+    - form: zod
+      class: conj
+      field: Grammar words
+      gloss: "otherwise, or else"
+      concept: otherwise
+    - form: "hiz lez"
+      class: conj
+      field: Grammar words
+      gloss: "although, even if (if also)"
+      concept: although
+      built: [hiz, lez]
+    - form: "gev zuvák"
+      class: conj
+      field: Grammar words
+      gloss: "nevertheless (but it stands)"
+      concept: nevertheless
+      built: [gev, zuvák]
+    - form: dag
+      class: part
+      field: Grammar words
+      gloss: "despite, in spite of; stands before its noun"
+      concept: despite
+    - form: "kob zavan"
+      class: part
+      field: Grammar words
+      gloss: "instead of (in the place of)"
+      concept: instead
+      built: [kob, zavan]
+    - form: "duz gaz duz ves"
+      class: conj
+      field: Grammar words
+      gloss: "either I or you: _duz_ before each of the choices"
+      concept: either-alternative
+      built: [duz, gaz, ves]
+    - form: "naz gaz naz ves"
+      class: conj
+      field: Grammar words
+      gloss: "neither I nor you: _naz_ before each of them"
+      concept: neither-alternative
+      built: [naz, gaz, ves]
+    - form: "bep gaz bep ves"
+      class: conj
+      field: Grammar words
+      gloss: "both I and you: _bep_ before each of them"
+      concept: both-conjunction
+      built: [bep, gaz, ves]
+    - form: "kos gandh"
+      class: part
+      field: Grammar words
+      gloss: "that is (as the word goes)"
+      concept: that-is
+      built: [kos, gandh]
+    - form: "kos mardh"
+      class: part
+      field: Grammar words
+      gloss: "namely (as by name)"
+      concept: namely
+      built: [kos, mardh]
+    - form: "kos kedz"
+      class: part
+      field: Grammar words
+      gloss: "for example (like this)"
+      concept: for-example
+      built: [kos, kedz]
+    - form: zeb
+      class: part
+      field: Grammar words
+      gloss: "except, all but; stands before its noun"
+      concept: except
+    - {form: lub, class: part, field: Grammar words, gloss: "only", concept: only}
+    - {form: zog, class: part, field: Grammar words, gloss: "even", concept: even}
+    - form: "fod khapav"
+      class: part
+      field: Grammar words
+      gloss: "especially (beyond another)"
+      concept: especially
+      built: [fod, khapav]
+    - form: balíd
+      class: adj
+      field: Grammar words
+      gloss: "big, great"
+      concept: big
+      root: "b-l-d"
+      frame: adjective
+    - form: katín
+      class: adj
+      field: Grammar words
+      gloss: "tiny"
+      concept: tiny
+      root: "k-t-n"
+      frame: adjective
+    - form: tamígh
+      class: adj
+      field: Grammar words
+      gloss: "huge"
+      concept: huge
+      root: "t-m-gh"
+      frame: adjective
+    - form: pavís
+      class: adj
+      field: Grammar words
+      gloss: "light, of little weight"
+      concept: light-weight
+      root: "p-v-s"
+      frame: adjective
+    - form: tazír
+      class: adj
+      field: Grammar words
+      gloss: "new"
+      concept: new
+      root: "t-z-r"
+      frame: adjective
+    - form: lagír
+      class: adj
+      field: Grammar words
+      gloss: "easy"
+      concept: easy
+      root: "l-g-r"
+      frame: adjective
+    - form: zabígh
+      class: adj
+      field: Grammar words
+      gloss: "difficult, hard to do"
+      concept: difficult
+      root: "z-b-gh"
+      frame: adjective
+    - form: lavík
+      class: adj
+      field: Grammar words
+      gloss: "good"
+      concept: good
+      root: "l-v-k"
+      frame: adjective
+    - form: dhagíz
+      class: adj
+      field: Grammar words
+      gloss: "bad"
+      concept: bad
+      root: "dh-g-z"
+      frame: adjective
+    - form: "lavík fod kodz"
+      class: adj
+      field: Grammar words
+      gloss: "better (good beyond that)"
+      concept: better
+      built: [lavík, fod, kodz]
+    - form: "lavík fod taghav"
+      class: adj
+      field: Grammar words
+      gloss: "best (good beyond the whole)"
+      concept: best
+      built: [lavík, fod, taghav]
+    - form: "dhagíz fod kodz"
+      class: adj
+      field: Grammar words
+      gloss: "worse (bad beyond that)"
+      concept: worse
+      built: [dhagíz, fod, kodz]
+    - form: "dhagíz fod taghav"
+      class: adj
+      field: Grammar words
+      gloss: "worst (bad beyond the whole)"
+      concept: worst
+      built: [dhagíz, fod, taghav]
+    - form: fatíl
+      class: adj
+      field: Grammar words
+      gloss: "trivial, of no weight"
+      concept: trivial
+      root: "f-t-l"
+      frame: adjective
+    - form: dahív
+      class: adj
+      field: Grammar words
+      gloss: "needed, necessary, required"
+      concept: [necessary, required]
+      root: "d-h-v"
+      frame: adjective
+    - form: bud
+      class: part
+      field: Grammar words
+      gloss: "very; stands before an adjective"
+      concept: very
+    - form: "fod mathaz"
+      class: part
+      field: Grammar words
+      gloss: "extremely (beyond measure)"
+      concept: extremely
+      built: [fod, mathaz]
+    - form: "kos padhal"
+      class: part
+      field: Grammar words
+      gloss: "somewhat (as a half)"
+      concept: somewhat
+      built: [kos, padhal]
+    - form: "kos fadhaz"
+      class: part
+      field: Grammar words
+      gloss: "slightly (as a sixteenth)"
+      concept: slightly
+      built: [kos, fadhaz]
+    - form: "kob zalv"
+      class: part
+      field: Grammar words
+      gloss: "barely, only just (on the edge)"
+      concept: barely
+      built: [kob, zalv]
+    - form: "fod duháv"
+      class: part
+      field: Grammar words
+      gloss: "too much (beyond the need)"
+      concept: too-much
+      built: [fod, duháv]
+    - form: "nol duháv"
+      class: part
+      field: Grammar words
+      gloss: "too little (under the need)"
+      concept: too-little
+      built: [nol, duháv]
+    - form: "thuf dukár"
+      class: v
+      field: Grammar words
+      gloss: "cannot (not able)"
+      concept: cannot
+      built: [thuf, dukár]
+    - form: sard
+      class: n
+      field: Grammar words
+      gloss: "a kind, a sort"
+      concept: kind
+      root: "s-r-d"
+      frame: bare
+    - form: dalíth
+      class: adj
+      field: Grammar words
+      gloss: "real"
+      concept: real
+      root: "d-l-th"
+      frame: adjective
+    - form: sadhím
+      class: adj
+      field: Grammar words
+      gloss: "unreal"
+      concept: unreal
+      root: "s-dh-m"
+      frame: adjective
+    - form: zabín
+      class: adj
+      field: Grammar words
+      gloss: "natural, as it grew"
+      concept: natural
+      root: "z-b-n"
+      frame: adjective
   icon: icon-speaking
   templatePriority: null
   packFolder: language
@@ -8114,49 +12228,81 @@ data:
     - {root: gh-v-th, sense: "a blue stone, sapphire", field: stone}
     - {root: h-l-b, sense: silver, field: stone}
     - {root: g-m-th, sense: a gem; to facet, field: stone}
+    - {root: kh-r-n, sense: "metal", field: stone}
     - {root: l-gh-b, sense: "marble, white stone", field: stone}
     - {root: l-b-z, sense: "a seam, a stratum", field: stone}
+    - {root: l-m-g, sense: "clay", field: stone}
     - {root: m-d-k, sense: "bedrock, living rock", field: stone}
     - {root: m-l-t, sense: salt, field: stone}
+    - {root: m-l-z, sense: "light, pale in colour", field: stone}
+    - {root: m-t-k, sense: "dull, without lustre", field: stone}
+    - {root: m-z-r, sense: "opaque, letting no light through", field: stone}
     - {root: p-b-k, sense: lead (the metal), field: stone}
+    - {root: p-l-s, sense: "dust", field: stone}
     - {root: r-b-d, sense: a vein of ore, field: stone}
+    - {root: r-b-z, sense: "outcrop of a vein", field: stone}
+    - {root: r-dh-b, sense: "brown", field: stone}
     - {root: s-k-r, sense: iron, field: stone}
     - {root: s-r-v, sense: "slate, layered stone", field: stone}
+    - {root: t-b-k, sense: "spotted", field: stone}
     - {root: t-l-v, sense: "granite, hard grey stone", field: stone}
     - {root: th-r-z, sense: gold, field: stone}
+    - {root: v-r-th, sense: "green", field: stone}
     - {root: v-s-p, sense: "crystal, clear stone", field: stone}
+    - {root: z-d-k, sense: "earth, the ground", field: stone}
     - {root: z-gh-r, sense: ore; to win ore, field: stone}
     - {root: z-l-f, sense: tin, field: stone}
+    - {root: z-r-gh, sense: "striped, banded", field: stone}
     - {root: z-t-g, sense: steel; to make steel, field: stone}
     - {root: z-b-r, sense: "a red stone, ruby", field: stone}
+    - {root: b-r-l, sense: "a rope", field: craft}
+    - {root: b-s-k, sense: "a shoe", field: craft}
     - {root: d-m-g, sense: a hammer, field: craft}
     - {root: d-n-k, sense: the fall of a hammer, field: craft}
     - {root: f-r-z, sense: "the forge, the smith's hearth", field: craft}
+    - {root: g-dh-z, sense: "a knife", field: craft}
     - {root: g-l-d, sense: fire, field: craft}
+    - {root: g-m-p, sense: "useless", field: craft}
+    - {root: g-n-th, sense: "a cloak", field: craft}
     - {root: g-r-p, sense: "to whet, to grind an edge", field: craft}
+    - {root: g-s-m, sense: "trough", field: craft}
     - {root: g-s-v, sense: "to quench, to temper in water", field: craft}
     - {root: g-l-b, sense: glass, field: craft}
     - {root: h-m-k, sense: "a note, a ringing; to ring", field: craft}
+    - {root: k-r-m, sense: "completion; to finish", field: craft}
     - {root: k-v-l, sense: to shape, field: craft}
+    - {root: kh-m-p, sense: "a boot", field: craft}
+    - {root: l-gh-z, sense: "a flame", field: craft}
+    - {root: l-n-th, sense: "a thread", field: craft}
     - {root: l-t-b, sense: "to join metal, to solder", field: craft}
+    - {root: m-g-z, sense: "incomplete, unfinished", field: craft}
     - {root: m-r-p, sense: an anvil, field: craft}
     - {root: n-f-r, sense: bellows; to blow the fire, field: craft}
     - {root: n-gh-p, sense: charcoal, field: craft}
+    - {root: n-r-z, sense: "cloth", field: craft}
+    - {root: p-l-t, sense: "to lay work away ready", field: craft}
+    - {root: p-l-th, sense: "a shirt", field: craft}
     - {root: p-l-z, sense: to fold metal, field: craft}
+    - {root: p-n-th, sense: "a needle", field: craft}
     - {root: p-r-z, sense: "to engrave, to cut letters", field: craft}
     - {root: s-l-th, sense: to pour, field: craft}
+    - {root: t-n-dh, sense: "a cord", field: craft}
     - {root: t-s-p, sense: a spark, field: craft}
     - {root: th-m-r, sense: to strike, field: craft}
     - {root: b-d-k, sense: a tool, field: craft}
+    - {root: v-g-d, sense: "to try, to attempt", field: craft}
     - {root: v-g-l, sense: tongs; to grip with tongs, field: craft}
     - {root: b-m-r, sense: "craft, work well done", field: craft}
     - {root: z-d-b, sense: a chisel; to chisel, field: craft}
     - {root: z-m-d, sense: to assay, field: craft}
+    - {root: z-n-t, sense: "a belt", field: craft}
     - {root: z-n-th, sense: bright; to burnish, field: craft}
     - {root: z-b-l, sense: to smelt, field: craft}
     - {root: m-n-d, sense: to mend; a mending, field: craft}
     - {root: b-s-r, sense: "a spring, water rising", field: deep}
+    - {root: d-r-g, sense: "depth", field: deep}
     - {root: d-r-p, sense: a drip; to drip, field: deep}
+    - {root: d-v-l, sense: "a torch", field: deep}
     - {root: dh-m-v, sense: darkness, field: deep}
     - {root: b-m-g, sense: the deep beneath the mountain's roots, field: deep}
     - {root: f-s-dh, sense: air moving underground; to draw air, field: deep}
@@ -8164,6 +12310,7 @@ data:
     - {root: g-n-v, sense: to delve, field: deep}
     - {root: kh-l-v, sense: "unlit, without light", field: deep}
     - {root: kh-n-k, sense: a channel that follows a watercourse; to lead water, field: deep}
+    - {root: kh-n-th, sense: "a candle", field: deep}
     - {root: l-k-m, sense: a lamp, field: deep}
     - {root: l-b-t, sense: a glow; light kept below, field: deep}
     - {root: n-r-v, sense: a tunnel; to tunnel, field: deep}
@@ -8176,6 +12323,14 @@ data:
     - {root: v-l-gh, sense: an echo, field: deep}
     - {root: v-t-gh, sense: "bad air, firedamp", field: deep}
     - {root: b-k-th, sense: "a joint, a natural parting of the rock", field: rock}
+    - {root: b-m-k, sense: "to thicken", field: rock}
+    - {root: d-z-k, sense: "wet", field: rock}
+    - {root: g-t-r, sense: "hard, firm to the touch", field: rock}
+    - {root: g-z-r, sense: "to break, to rupture", field: rock}
+    - {root: k-r-b, sense: "rough", field: rock}
+    - {root: n-l-v, sense: "to underlie", field: rock}
+    - {root: r-l-d, sense: "slope", field: rock}
+    - {root: s-l-v, sense: "smooth", field: rock}
     - {root: z-r-s, sense: "a spur, a rib of rock", field: rock}
     - {root: d-g-b, sense: "an overhang, a roof-ledge", field: rock}
     - {root: g-th-gh, sense: a natural arch, field: rock}
@@ -8198,6 +12353,8 @@ data:
     - {root: d-l-m, sense: a domed chamber, field: cave}
     - {root: f-k-r, sense: to find a way in; a finding, field: cave}
     - {root: g-d-m, sense: a dripstone column, field: cave}
+    - {root: kh-p-s, sense: "to search", field: cave}
+    - {root: n-d-r, sense: "an outflow, the outlet of water", field: cave}
     - {root: t-d-s, sense: a sinkhole, field: cave}
     - {root: n-s-k, sense: a water-worn passage, field: cave}
     - {root: p-th-k, sense: "to open, to join, to level; the least cut that serves", field: cave}
@@ -8205,51 +12362,128 @@ data:
     - {root: t-n-p, sense: "a narrow, a squeeze", field: cave}
     - {root: th-l-b, sense: "limestone, rock the water eats", field: cave}
     - {root: d-b-k, sense: "a flue, a smoke-channel along a fissure", field: face}
+    - {root: dh-m-b, sense: "thunder", field: face}
+    - {root: g-l-dh, sense: "a hill", field: face}
+    - {root: g-m-z, sense: "a cloud", field: face}
     - {root: g-n-d, sense: a dwelling set in the face, field: face}
+    - {root: g-r-n, sense: "ridge", field: face}
+    - {root: g-v-s, sense: "cloudless, clear", field: face}
+    - {root: gh-r-d, sense: "a storm", field: face}
     - {root: h-d-n, sense: "a hidden court, open to the sky within the rock", field: face}
+    - {root: h-r-dh, sense: "the sun", field: face}
     - {root: kh-b-r, sense: "a cliff, the face of a mountain", field: face}
+    - {root: kh-v-m, sense: "lake", field: face}
     - {root: l-r-g, sense: daylight, field: face}
+    - {root: m-l-d, sense: "shore", field: face}
+    - {root: n-v-d, sense: "south", field: face}
     - {root: th-m-s, sense: smoke, field: face}
+    - {root: th-r-v, sense: "the moon", field: face}
+    - {root: th-z-k, sense: "lightning", field: face}
+    - {root: v-l-n, sense: "air", field: face}
     - {root: v-n-d, sense: "a window, an opening in the face", field: face}
     - {root: p-l-gh, sense: a fall of rock from the face, field: face}
     - {root: f-r-v, sense: wind along the face, field: face}
     - {root: n-z-f, sense: a star, field: face}
     - {root: r-gh-l, sense: "the sky, the open above the face", field: face}
+    - {root: z-l-v, sense: "edge or margin", field: face}
     - {root: b-n-m, sense: accord with the mountain; to accord, field: listen}
     - {root: d-g-r, sense: to force the stone, field: listen}
+    - {root: d-v-z, sense: "doubt; to doubt", field: listen}
     - {root: g-l-m, sense: "a curve, a bend", field: listen}
+    - {root: g-v-th, sense: "to recognize, to know again", field: listen}
     - {root: gh-r-p, sense: a clumsy cut, field: listen}
+    - {root: h-k-n, sense: "to notice", field: listen}
+    - {root: k-n-d, sense: "certainty", field: listen}
+    - {root: k-z-b, sense: "to understand", field: listen}
     - {root: kh-s-p, sense: "restraint, the little cut", field: listen}
     - {root: kh-t-b, sense: "a straight cut, a ruled line (a reproach)", field: listen}
+    - {root: kh-v-n, sense: "uncertain, unsure", field: listen}
     - {root: m-d-r, sense: to teach, field: listen}
+    - {root: m-gh-l, sense: "confusion", field: listen}
+    - {root: m-z-p, sense: "to suspect", field: listen}
     - {root: n-b-f, sense: an apprentice; to apprentice, field: listen}
+    - {root: n-k-v, sense: "curiosity", field: listen}
     - {root: r-k-d, sense: to read stone, field: listen}
     - {root: r-p-l, sense: "spoil, rubble; to carry it away", field: listen}
+    - {root: r-z-n, sense: "to learn", field: listen}
     - {root: s-k-p, sense: a prop; to prop (a word of shame), field: listen}
     - {root: s-m-g, sense: to listen to stone; listening, field: listen}
+    - {root: t-k-dh, sense: "to guess", field: listen}
     - {root: th-b-d, sense: "to follow, to go with", field: listen}
     - {root: v-b-k, sense: to learn by watching, field: listen}
+    - {root: v-th-p, sense: "to assume, to take as given", field: listen}
     - {root: z-b-k, sense: a scar on the mountain, field: listen}
     - {root: f-k-n, sense: attention; to attend, field: listen}
     - {root: z-n-gh, sense: to wind, field: listen}
     - {root: g-th-r, sense: "mastery, the standing of a master", field: listen}
+    - {root: b-n-z, sense: "to build", field: hold}
     - {root: b-v-th, sense: "a floor, paving", field: hold}
+    - {root: b-z-m, sense: "to close, to shut", field: hold}
     - {root: d-gh-l, sense: "a door, an inner door", field: hold}
     - {root: d-r-b, sense: a tower, field: hold}
     - {root: f-n-th, sense: a hall, field: hold}
+    - {root: g-d-z, sense: "a key; to unlock", field: hold}
+    - {root: g-dh-p, sense: "to cover", field: hold}
+    - {root: g-m-l, sense: "a bowl", field: hold}
+    - {root: g-v-r, sense: "structural bay of a hall", field: hold}
     - {root: h-n-th, sense: "to span, to bridge", field: hold}
+    - {root: k-l-th, sense: "a cup", field: hold}
+    - {root: k-n-v, sense: "a shelter", field: hold}
     - {root: kh-r-d, sense: a hold; to hold a place, field: hold}
+    - {root: l-dh-k, sense: "a spoon", field: hold}
+    - {root: l-g-n, sense: "table", field: hold}
     - {root: p-dh-r, sense: "a chamber, a room", field: hold}
     - {root: r-gh-v, sense: a made road, field: hold}
     - {root: r-m-k, sense: to lay a course of stone, field: hold}
     - {root: g-k-l, sense: "to plumb, to set upright", field: hold}
+    - {root: r-v-m, sense: "gallery", field: hold}
     - {root: s-m-d, sense: to raise, field: hold}
+    - {root: s-r-b, sense: "a bench", field: hold}
+    - {root: s-r-k, sense: "to sweep", field: hold}
     - {root: s-t-v, sense: "a stair, a step", field: hold}
+    - {root: t-g-r, sense: "a pot", field: hold}
     - {root: t-m-b, sense: a pillar, field: hold}
     - {root: t-n-v, sense: a gate, field: hold}
     - {root: b-th-l, sense: "a vault, an arched roof", field: hold}
+    - {root: t-v-gh, sense: "a basket", field: hold}
+    - {root: z-b-v, sense: "a bottle", field: hold}
+    - {root: z-dh-p, sense: "to uncover", field: hold}
+    - {root: z-k-l, sense: "a lock; to lock", field: hold}
     - {root: z-l-d, sense: a wall, field: hold}
+    - {root: z-v-n, sense: "place or location", field: hold}
+    - {root: b-dh-n, sense: "pregnancy; to conceive a child", field: kin}
+    - {root: d-g-n, sense: "a custom", field: kin}
+    - {root: d-k-th, sense: "loyalty", field: kin}
+    - {root: d-m-r, sense: "a person", field: kin}
     - {root: d-v-g, sense: a parent; to beget, field: kin}
+    - {root: dh-b-l, sense: "an orphan", field: kin}
+    - {root: dh-r-n, sense: "attraction, a drawing toward", field: kin}
+    - {root: g-d-l, sense: "a boy", field: kin}
+    - {root: g-r-kh, sense: "a rank", field: kin}
+    - {root: h-d-r, sense: "a master, one who is served", field: kin}
+    - {root: h-l-p, sense: "to share", field: kin}
+    - {root: h-m-l, sense: "companionship", field: kin}
+    - {root: h-m-z, sense: "a community", field: kin}
+    - {root: h-r-z, sense: "jealousy, guarding one's own", field: kin}
+    - {root: k-d-r, sense: "to lead", field: kin}
+    - {root: kh-l-m, sense: "a widower", field: kin}
+    - {root: m-d-l, sense: "affection", field: kin}
+    - {root: m-n-th, sense: "a guest", field: kin}
+    - {root: m-n-z, sense: "to nurse a child at the breast", field: kin}
+    - {root: m-v-l, sense: "a head, counted for a person", field: kin}
+    - {root: n-l-d, sense: "the love of kin", field: kin}
+    - {root: n-r-d, sense: "a son", field: kin}
+    - {root: n-v-z, sense: "to belong", field: kin}
+    - {root: p-l-d, sense: "a neighbour", field: kin}
+    - {root: p-n-z, sense: "intimacy, nearness of trust", field: kin}
+    - {root: p-r-dh, sense: "a title", field: kin}
+    - {root: r-gh-d, sense: "a man", field: kin}
+    - {root: r-v-d, sense: "a grown one, an adult; to grow", field: kin}
+    - {root: s-n-dh, sense: "kin, one's own people", field: kin}
+    - {root: t-b-l, sense: "a servant", field: kin}
+    - {root: t-l-m, sense: "friendship, the regard of friends", field: kin}
+    - {root: th-l-n, sense: "a cousin", field: kin}
+    - {root: v-l-m, sense: "people, folk", field: kin}
     - {root: v-l-th, sense: the hearth of a house, field: kin}
     - {root: l-f-d, sense: a child, field: kin}
     - {root: m-r-dh, sense: a name; to lay a charge, field: kin}
@@ -8263,79 +12497,247 @@ data:
     - {root: v-n-r, sense: a forebear, field: kin}
     - {root: b-l-v, sense: exile; to put out of the hold, field: kin}
     - {root: m-l-gh, sense: a shared meal; to feast in the courts, field: kin}
+    - {root: v-r-d, sense: "love between lovers", field: kin}
+    - {root: z-d-v, sense: "to help", field: kin}
+    - {root: z-l-k, sense: "willing", field: kin}
+    - {root: z-m-b, sense: "sex, lovemaking", field: kin}
+    - {root: b-dh-l, sense: "difference in number or amount", field: law}
+    - {root: b-gh-z, sense: "incorrect, mistaken", field: law}
+    - {root: b-r-dh, sense: "to exceed in count", field: law}
+    - {root: b-z-r, sense: "right, fitting, as it should be", field: law}
+    - {root: d-h-v, sense: "to need, to require", field: law}
     - {root: d-k-l, sense: a tally, field: law}
+    - {root: d-r-z, sense: "opposition; to oppose", field: law}
+    - {root: dh-z-p, sense: "worthless", field: law}
     - {root: f-v-d, sense: "to warrant, to stand behind work", field: law}
+    - {root: g-v-k, sense: "a cause", field: law}
+    - {root: g-z-d, sense: "a command", field: law}
+    - {root: h-l-k, sense: "wealth", field: law}
+    - {root: h-r-n, sense: "freedom", field: law}
     - {root: h-v-z, sense: a debt; to owe, field: law}
+    - {root: k-m-dh, sense: "a hidden thing, a secret; to hide", field: law}
     - {root: k-m-v, sense: to count, field: law}
+    - {root: k-r-n, sense: "to choose", field: law}
+    - {root: k-r-th, sense: "intention, intended design; to intend", field: law}
+    - {root: k-v-z, sense: "equal", field: law}
+    - {root: k-z-l, sense: "optional, left to choice", field: law}
     - {root: kh-b-n, sense: "to chant, to recite by heart", field: law}
+    - {root: kh-t-g, sense: "to decide", field: law}
     - {root: l-m-v, sense: a record; to record, field: law}
+    - {root: l-z-gh, sense: "a lie", field: law}
+    - {root: m-k-th, sense: "correct, right", field: law}
+    - {root: m-n-v, sense: "peace", field: law}
     - {root: m-th-z, sense: to measure, field: law}
+    - {root: m-v-z, sense: "ought, should", field: law}
+    - {root: n-dh-v, sense: "poverty", field: law}
     - {root: r-n-t, sense: to reckon, field: law}
+    - {root: r-z-v, sense: "to apportion a share", field: law}
     - {root: s-dh-v, sense: to witness, field: law}
     - {root: t-m-k, sense: trust; to trust, field: law}
     - {root: th-k-b, sense: to weigh, field: law}
+    - {root: th-k-n, sense: "a reason", field: law}
+    - {root: th-v-r, sense: "to refuse", field: law}
+    - {root: v-d-k, sense: "to promise", field: law}
+    - {root: v-d-r, sense: "to establish an arrangement", field: law}
+    - {root: v-k-r, sense: "valuable, of worth", field: law}
     - {root: v-l-d, sense: to bind, field: law}
     - {root: b-n-t, sense: an oath; to swear, field: law}
     - {root: v-r-n, sense: "the true line: the line the rock runs", field: law}
     - {root: v-s-g, sense: to judge, field: law}
     - {root: z-d-r, sense: "law, the way a thing must be done", field: law}
+    - {root: z-n-d, sense: "honour", field: law}
     - {root: z-n-p, sense: shame; a fault entered against a name, field: law}
     - {root: th-r-gh, sense: a wrong that no warrant can cover; to wrong, field: law}
     - {root: n-th-v, sense: release from a debt; to forgive, field: law}
     - {root: s-v-m, sense: a sitting of elders; to sit in council, field: law}
     - {root: th-n-z, sense: a gift; to give, field: law}
+    - {root: z-r-m, sense: "to strike an entry from a record", field: law}
+    - {root: g-d-n, sense: "verb, a word naming an act", field: letter}
     - {root: h-r-t, sense: "a letter, a character; to read writing", field: letter}
     - {root: l-n-r, sense: a line of writing, field: letter}
     - {root: m-l-g, sense: the flowing hand; to write in it, field: letter}
     - {root: n-d-k, sense: ink; to write in ink, field: letter}
     - {root: s-b-z, sense: chalk; to mark with chalk, field: letter}
+    - {root: s-v-k, sense: "plain, unmarked", field: letter}
     - {root: z-t-l, sense: a stylus; to scratch with a stylus, field: letter}
     - {root: b-k-s, sense: wax; a wax tablet, field: letter}
+    - {root: b-k-v, sense: "to ask", field: tell}
+    - {root: b-l-z, sense: "to boast", field: tell}
+    - {root: b-n-r, sense: "admiration", field: tell}
+    - {root: f-r-dh, sense: "to explain", field: tell}
+    - {root: f-z-n, sense: "to reveal", field: tell}
+    - {root: gh-r-z, sense: "to shout", field: tell}
     - {root: h-b-d, sense: "a song; to sing, as the deep songs are sung", field: tell}
+    - {root: h-b-r, sense: "to answer", field: tell}
     - {root: k-m-g, sense: a lament; to keen, field: tell}
     - {root: f-l-n, sense: a telling in order; to tell, field: tell}
     - {root: b-z-n, sense: a saying; to say a saying over a matter, field: tell}
+    - {root: s-p-s, sense: "to whisper", field: tell}
     - {root: z-l-m, sense: a charm; to say words over work, field: tell}
     - {root: p-m-dh, sense: a foretelling; to foretell, field: tell}
     - {root: g-b-dh, sense: a riddle; to set a riddle, field: tell}
     - {root: h-n-z, sense: praise; to praise, field: tell}
     - {root: m-z-dh, sense: a claim of one's own work; to name one's work, field: tell}
     - {root: g-n-dh, sense: a word; to speak, field: tell}
+    - {root: b-d-g, sense: "a beginning; to begin", field: time}
+    - {root: b-t-k, sense: "brief, lasting a short time", field: time}
+    - {root: d-r-v, sense: "to precede", field: time}
+    - {root: d-v-n, sense: "day", field: time}
+    - {root: dh-n-k, sense: "early", field: time}
     - {root: f-s-k, sense: a season, field: time}
+    - {root: f-v-l, sense: "late", field: time}
     - {root: g-dh-m, sense: an age, field: time}
+    - {root: g-l-n, sense: "an hour", field: time}
+    - {root: g-l-t, sense: "yesterday", field: time}
     - {root: h-dh-k, sense: a working shift; a day's work, field: time}
+    - {root: h-dh-n, sense: "to happen", field: time}
+    - {root: k-l-t, sense: "an occasion", field: time}
+    - {root: kh-d-n, sense: "time", field: time}
     - {root: n-l-p, sense: cold, field: time}
+    - {root: n-v-th, sense: "night", field: time}
     - {root: p-z-l, sense: patience; to wait, field: time}
+    - {root: s-g-n, sense: "next", field: time}
+    - {root: s-p-l, sense: "cool", field: time}
+    - {root: t-k-m, sense: "the future, what is to come", field: time}
     - {root: t-l-z, sense: "thaw, the warm season", field: time}
     - {root: t-n-f, sense: a generation, field: time}
     - {root: t-l-g, sense: snow, field: time}
+    - {root: t-r-v, sense: "distance", field: time}
     - {root: v-dh-l, sense: a year, field: time}
     - {root: b-t-m, sense: "to last, to endure long", field: time}
+    - {root: v-r-b, sense: "tomorrow", field: time}
+    - {root: z-g-l, sense: "an end; to end", field: time}
+    - {root: b-gh-l, sense: "despair", field: body}
+    - {root: b-l-dh, sense: "a stomach", field: body}
+    - {root: b-l-k, sense: "a cheek", field: body}
+    - {root: b-l-p, sense: "a touch; to touch", field: body}
+    - {root: b-n-v, sense: "the self, oneself", field: body}
+    - {root: b-r-gh, sense: "wrath, a great anger", field: body}
+    - {root: b-r-m, sense: "a kidney", field: body}
+    - {root: b-th-k, sense: "wounded, injured", field: body}
+    - {root: b-v-n, sense: "conscious, aware", field: body}
+    - {root: b-z-l, sense: "happiness", field: body}
+    - {root: d-m-th, sense: "a chest", field: body}
     - {root: d-z-m, sense: strength, field: body}
+    - {root: dh-m-l, sense: "unconscious, senseless", field: body}
+    - {root: dh-r-g, sense: "pain; to hurt, to cause pain", field: body}
+    - {root: dh-r-v, sense: "a back", field: body}
+    - {root: dh-v-l, sense: "sick, ill", field: body}
+    - {root: f-l-v, sense: "pale, wan", field: body}
     - {root: f-n-z, sense: a beard, field: body}
+    - {root: f-r-n, sense: "a vagina", field: body}
+    - {root: f-r-th, sense: "feverish", field: body}
+    - {root: g-l-z, sense: "greed", field: body}
+    - {root: g-m-b, sense: "a belly", field: body}
+    - {root: g-n-m, sense: "longing", field: body}
+    - {root: g-n-r, sense: "a testicle", field: body}
+    - {root: g-r-dh, sense: "a leg", field: body}
+    - {root: g-r-g, sense: "a throat", field: body}
+    - {root: g-r-t, sense: "a tooth", field: body}
+    - {root: g-r-v, sense: "anger", field: body}
+    - {root: g-v-b, sense: "dung; to defecate", field: body}
+    - {root: g-v-dh, sense: "a heel", field: body}
+    - {root: h-l-m, sense: "joy", field: body}
+    - {root: h-r-k, sense: "a hip", field: body}
+    - {root: h-r-v, sense: "lust", field: body}
+    - {root: h-v-l, sense: "a lung", field: body}
     - {root: h-v-th, sense: breath, field: body}
     - {root: h-z-m, sense: a face, field: body}
+    - {root: k-l-g, sense: "lame", field: body}
+    - {root: k-l-s, sense: "to listen", field: body}
+    - {root: k-m-b, sense: "an elbow", field: body}
+    - {root: k-m-th, sense: "an ache; to ache, to feel pain", field: body}
+    - {root: k-r-dh, sense: "fear", field: body}
+    - {root: k-s-m, sense: "ear", field: body}
+    - {root: kh-l-d, sense: "a head", field: body}
+    - {root: kh-m-b, sense: "a thumb", field: body}
+    - {root: kh-r-z, sense: "resentment", field: body}
+    - {root: kh-v-z, sense: "fat", field: body}
+    - {root: l-dh-z, sense: "weak", field: body}
+    - {root: l-m-dh, sense: "sadness", field: body}
+    - {root: l-s-k, sense: "a tongue", field: body}
+    - {root: l-v-z, sense: "pleasure", field: body}
+    - {root: m-d-th, sense: "tired", field: body}
+    - {root: m-d-z, sense: "contentment", field: body}
+    - {root: m-l-b, sense: "a breast", field: body}
+    - {root: m-l-dh, sense: "boredom", field: body}
     - {root: m-r-g, sense: bone, field: body}
+    - {root: m-r-th, sense: "a brain", field: body}
     - {root: m-v-dh, sense: a heart, field: body}
+    - {root: n-gh-z, sense: "hatred", field: body}
+    - {root: n-l-gh, sense: "a fingernail, a nail", field: body}
+    - {root: n-l-k, sense: "a neck", field: body}
+    - {root: n-m-l, sense: "soft", field: body}
+    - {root: n-p-l, sense: "finger", field: body}
+    - {root: n-r-p, sense: "a nose", field: body}
     - {root: p-l-dh, sense: "skin, hide", field: body}
+    - {root: p-r-b, sense: "a buttock", field: body}
+    - {root: p-s-l, sense: "urine; to urinate", field: body}
+    - {root: p-v-th, sense: "to breathe out", field: body}
+    - {root: r-dh-m, sense: "regret", field: body}
+    - {root: r-m-th, sense: "flesh", field: body}
     - {root: r-th-v, sense: blood, field: body}
     - {root: p-g-m, sense: "a shoulder, a back for loads", field: body}
+    - {root: s-l-k, sense: "skin", field: body}
+    - {root: s-l-p, sense: "spittle, saliva", field: body}
+    - {root: s-m-v, sense: "the genitals", field: body}
+    - {root: s-n-f, sense: "a smell, a scent; to smell", field: body}
+    - {root: s-r-dh, sense: "hair", field: body}
+    - {root: s-r-n, sense: "a spine", field: body}
+    - {root: s-v-l, sense: "to suffer", field: body}
+    - {root: t-b-n, sense: "to heal", field: body}
     - {root: t-f-n, sense: "a foot, a step", field: body}
+    - {root: t-l-p, sense: "a feeling; to feel by any sense", field: body}
+    - {root: t-m-z, sense: "a taste, a flavour; to taste", field: body}
+    - {root: t-r-b, sense: "an arm", field: body}
+    - {root: th-g-z, sense: "frustration", field: body}
+    - {root: th-l-g, sense: "a thigh", field: body}
     - {root: th-n-p, sense: a hand, field: body}
+    - {root: th-r-m, sense: "pride", field: body}
+    - {root: v-l-k, sense: "desire; to desire, to wish", field: body}
+    - {root: v-r-z, sense: "envy", field: body}
     - {root: v-z-l, sense: an eye, field: body}
+    - {root: z-d-m, sense: "confidence", field: body}
     - {root: z-g-n, sense: a voice, field: body}
+    - {root: z-k-b, sense: "a penis", field: body}
+    - {root: z-k-r, sense: "to wake", field: body}
+    - {root: z-l-dh, sense: "a gut, an intestine", field: body}
+    - {root: z-l-p, sense: "a lip", field: body}
+    - {root: z-l-th, sense: "blind", field: body}
+    - {root: z-m-g, sense: "a jaw", field: body}
+    - {root: z-m-t, sense: "deaf", field: body}
+    - {root: z-n-b, sense: "a chin", field: body}
+    - {root: z-n-k, sense: "a waist", field: body}
+    - {root: z-n-v, sense: "pity", field: body}
+    - {root: z-p-k, sense: "surprise", field: body}
+    - {root: z-p-r, sense: "contempt", field: body}
+    - {root: z-r-d, sense: "to recover, to come back to health", field: body}
+    - {root: z-r-g, sense: "a din, a noise", field: body}
+    - {root: z-r-n, sense: "a muscle", field: body}
+    - {root: z-v-p, sense: "a liver", field: body}
+    - {root: b-r-v, sense: "courage", field: war}
+    - {root: b-th-z, sense: "safety", field: war}
+    - {root: d-g-z, sense: "to destroy", field: war}
     - {root: dh-l-z, sense: a shield, field: war}
     - {root: f-gh-t, sense: an axe, field: war}
     - {root: f-r-d, sense: to withstand, field: war}
     - {root: g-r-z, sense: to guard, field: war}
+    - {root: g-z-p, sense: "to obstruct, to block", field: war}
+    - {root: k-b-dh, sense: "captivity", field: war}
+    - {root: kh-d-z, sense: "enmity", field: war}
+    - {root: kh-m-g, sense: "to threaten", field: war}
     - {root: kh-m-z, sense: "armour, mail", field: war}
     - {root: kh-n-f, sense: "to gather in, to shelter the whole people", field: war}
+    - {root: kh-r-g, sense: "danger", field: war}
+    - {root: kh-z-d, sense: "to attack", field: war}
     - {root: m-k-s, sense: a cache of stores; to lay stores by, field: war}
     - {root: n-g-r, sense: to watch the approaches, field: war}
     - {root: s-v-dh, sense: a blade, field: war}
+    - {root: s-v-r, sense: "a sending, a dispatched party; to send", field: war}
     - {root: t-z-l, sense: to kill, field: war}
     - {root: b-g-n, sense: to seal, field: war}
     - {root: b-k-t, sense: war; to fight, field: war}
+    - {root: v-r-p, sense: "to throw", field: war}
     - {root: z-r-dh, sense: vermin; a Grukar, field: war}
     - {root: d-b-z, sense: "to lie still, to rest", field: death}
     - {root: f-l-g, sense: "the dead, as kin", field: death}
@@ -8348,12 +12750,20 @@ data:
     - {root: th-v-l, sense: to die, field: death}
     - {root: z-th-v, sense: grief, field: death}
     - {root: dh-m-s, sense: forgetting; to forget, field: death}
+    - {root: b-d-m, sense: "faith", field: god}
     - {root: dh-z-v, sense: to pray, field: god}
     - {root: b-d-n, sense: to hallow, field: god}
+    - {root: f-l-d, sense: "devotion", field: god}
+    - {root: h-n-v, sense: "love given to all and asking nothing", field: god}
+    - {root: kh-v-dh, sense: "awe", field: god}
+    - {root: m-r-n, sense: "compassion", field: god}
     - {root: p-b-l, sense: to offer work to the god, field: god}
     - {root: s-th-v, sense: wisdom, field: god}
+    - {root: th-n-m, sense: "a belief; to believe", field: god}
     - {root: th-z-m, sense: a dream, field: god}
     - {root: b-t-d, sense: "a laid-up work, a votive piece", field: god}
+    - {root: th-z-r, sense: "to imagine", field: god}
+    - {root: v-n-th, sense: "reverence", field: god}
     - {root: z-f-l, sense: the god; holy, field: god}
     - {root: h-p-d, sense: hope; to hope, field: god}
     - {root: b-z-gh, sense: a breach; to break through, field: shadow}
@@ -8376,14 +12786,45 @@ data:
     - {root: z-g-th, sense: a city, field: city}
     - {root: z-v-dh, sense: "a skylight, a light-shaft", field: city}
     - {root: b-d-r, sense: "to till, to farm for the hold", field: peoples}
+    - {root: b-v-l, sense: "water", field: peoples}
+    - {root: b-z-z, sense: "an insect", field: peoples}
+    - {root: d-k-z, sense: "to sell", field: peoples}
+    - {root: d-m-l, sense: "sweet", field: peoples}
+    - {root: d-n-th, sense: "a seed", field: peoples}
+    - {root: dh-l-k, sense: "mud", field: peoples}
+    - {root: dh-l-v, sense: "a stream", field: peoples}
+    - {root: f-l-b, sense: "a leaf", field: peoples}
+    - {root: f-l-k, sense: "wool", field: peoples}
+    - {root: g-n-t, sense: "to eat", field: peoples}
+    - {root: g-r-th, sense: "bitter", field: peoples}
+    - {root: gh-l-z, sense: "a beast, a wild animal", field: peoples}
+    - {root: h-m-r, sense: "full, sated", field: peoples}
+    - {root: h-r-p, sense: "to replenish stores", field: peoples}
+    - {root: h-v-m, sense: "jar", field: peoples}
+    - {root: k-l-z, sense: "soil", field: peoples}
+    - {root: k-r-t, sense: "land", field: peoples}
+    - {root: k-r-z, sense: "sour", field: peoples}
+    - {root: kh-v-r, sense: "an animal", field: peoples}
+    - {root: l-b-dh, sense: "a worm", field: peoples}
+    - {root: l-z-m, sense: "oil", field: peoples}
     - {root: l-z-p, sense: the elder folk of the forest, field: peoples}
     - {root: m-k-dh, sense: "to exchange, to trade", field: peoples}
+    - {root: m-r-b, sense: "a fruit", field: peoples}
+    - {root: n-m-dh, sense: "a flower", field: peoples}
+    - {root: n-r-k, sense: "a root", field: peoples}
     - {root: p-dh-v, sense: a ship, field: peoples}
+    - {root: p-r-kh, sense: "a bird", field: peoples}
+    - {root: s-k-v, sense: "to buy", field: peoples}
+    - {root: s-r-g, sense: "a branch", field: peoples}
     - {root: t-dh-f, sense: grain, field: peoples}
     - {root: t-l-gh, sense: a human; the short-lived, field: peoples}
     - {root: t-m-dh, sense: a terrace, field: peoples}
+    - {root: t-m-kh, sense: "food", field: peoples}
+    - {root: t-m-r, sense: "tribe, a tribal people", field: peoples}
+    - {root: t-p-l, sense: "a plant", field: peoples}
     - {root: v-dh-gh, sense: the sea, field: peoples}
     - {root: v-g-z, sense: an outsider, field: peoples}
+    - {root: v-r-t, sense: "grass", field: peoples}
     - {root: z-p-l, sense: "the surface, the land under open sky", field: peoples}
     - {root: p-r-gh, sense: a crown; to crown, field: peoples}
     - {root: l-dh-v, sense: a river under open sky, field: peoples}
@@ -8391,13 +12832,41 @@ data:
     - {root: g-z-m, sense: hunger; the lean year, field: peoples}
     - {root: t-r-g, sense: thirst; to be dry, field: peoples}
     - {root: g-l-k, sense: a drink; to drink, field: peoples}
+    - {root: b-k-r, sense: "to take", field: motion}
+    - {root: b-v-r, sense: "to contain", field: motion}
+    - {root: b-z-k, sense: "impossible", field: motion}
+    - {root: d-k-r, sense: "to be able", field: motion}
+    - {root: d-l-p, sense: "to lean", field: motion}
     - {root: d-r-kh, sense: "to hold fast, to keep", field: motion}
+    - {root: d-v-m, sense: "to continue, to go on", field: motion}
+    - {root: dh-k-l, sense: "to prefer", field: motion}
     - {root: f-n-d, sense: to go, field: motion}
+    - {root: g-dh-r, sense: "to do", field: motion}
     - {root: g-l-p, sense: "to haul, to draw", field: motion}
+    - {root: g-m-dh, sense: "to meet", field: motion}
+    - {root: g-v-n, sense: "to receive", field: motion}
+    - {root: h-g-l, sense: "to come", field: motion}
+    - {root: h-r-d, sense: "to run", field: motion}
+    - {root: k-b-z, sense: "to catch", field: motion}
+    - {root: kh-n-p, sense: "to crawl", field: motion}
+    - {root: kh-p-r, sense: "to fall", field: motion}
+    - {root: l-r-m, sense: "to separate", field: motion}
     - {root: n-dh-p, sense: to go down, field: motion}
+    - {root: n-z-m, sense: "to follow", field: motion}
     - {root: n-z-v, sense: to arrive, field: motion}
+    - {root: p-s-k, sense: "to put, to set down", field: motion}
+    - {root: p-v-r, sense: "a belonging; to have", field: motion}
+    - {root: p-z-v, sense: "to approach", field: motion}
+    - {root: r-g-d, sense: "a party travelling or acting together", field: motion}
     - {root: r-g-l, sense: "to turn back, to return", field: motion}
+    - {root: t-v-n, sense: "to bring", field: motion}
+    - {root: t-v-r, sense: "to take away", field: motion}
+    - {root: t-z-v, sense: "to move", field: motion}
+    - {root: th-k-z, sense: "to push", field: motion}
+    - {root: th-l-v, sense: "to remain over", field: motion}
+    - {root: th-p-z, sense: "to jump", field: motion}
     - {root: th-r-p, sense: to climb, field: motion}
+    - {root: v-dh-n, sense: "a direction, the way a thing lies", field: motion}
     - {root: v-r-g, sense: "the far edge, the last reach", field: motion}
     - {root: b-r-th, sense: "to bear, to carry", field: motion}
     - {root: z-v-k, sense: "to be, to stand", field: motion}
@@ -8405,17 +12874,35 @@ data:
     - {root: f-dh-l, sense: the crossing from the world before; to cross over, field: motion}
     - {root: m-d-n, sense: the middle; what lies between, field: motion}
     - {root: dh-r-z, sense: "to walk away from, to abandon", field: motion}
+    - {root: b-k-l, sense: "some, any", field: grammar}
+    - {root: b-l-d, sense: "big, great", field: grammar}
+    - {root: d-l-th, sense: "real", field: grammar}
+    - {root: d-m-z, sense: "enough", field: grammar}
+    - {root: dh-g-z, sense: "bad", field: grammar}
     - {root: dh-n-v, sense: first, field: grammar}
     - {root: dh-p-l, sense: few, field: grammar}
     - {root: f-dh-z, sense: a part; a sixteenth, field: grammar}
+    - {root: f-t-l, sense: "trivial, of no weight", field: grammar}
     - {root: f-v-z, sense: last, field: grammar}
+    - {root: k-t-n, sense: "tiny", field: grammar}
     - {root: kh-p-v, sense: other, field: grammar}
     - {root: l-dh-p, sense: same, field: grammar}
+    - {root: l-g-r, sense: "easy", field: grammar}
+    - {root: l-v-k, sense: "good", field: grammar}
+    - {root: n-k-dh, sense: "less, lesser", field: grammar}
     - {root: p-dh-l, sense: half, field: grammar}
+    - {root: p-n-t, sense: "a thing", field: grammar}
+    - {root: p-v-s, sense: "light, of little weight", field: grammar}
     - {root: r-v-z, sense: "many, a great number", field: grammar}
+    - {root: s-dh-m, sense: "unreal", field: grammar}
+    - {root: s-r-d, sense: "a kind, a sort", field: grammar}
     - {root: t-gh-v, sense: "whole, all of it", field: grammar}
+    - {root: t-m-gh, sense: "huge", field: grammar}
     - {root: t-v-z, sense: "each, one by one", field: grammar}
+    - {root: t-z-r, sense: "new", field: grammar}
     - {root: v-z-th, sense: "a sixteen of sixteens, a great count", field: grammar}
+    - {root: z-b-gh, sense: "difficult, hard to do", field: grammar}
+    - {root: z-b-n, sense: "natural, as it grew", field: grammar}
     - {root: l-m-k, sense: "copy a written account", field: law}
     - {root: n-v-r, sense: "evening or dusk", field: other}
     - {root: l-l-p, sense: "shelf", field: cave}
@@ -8805,6 +13292,8 @@ Khazari says "is" by saying nothing: _Vog dalkir_ is "He is a mason". The verb _
 
 A noun carries up to two suffixes, in a fixed order: gender, then number. Neither takes a hyphen.
 
+Two nouns side by side read "X of Y", with the thing owned first and its owner after it: _tanv khardev_ is "the gate of the hold".
+
 #### Gender
 
 Gender is grammatical and not semantic—every noun is masculine, feminine or neuter, and the gender belongs to the noun, not to its skeleton. The masculine is unmarked:
@@ -8842,6 +13331,8 @@ _khalivez dalkez_
 
 Poetic inversion is permitted and is immediately recognisable as poetry.
 
+An adjective compares with _fod_, "beyond", set before the thing it passes: _dazím fod ves_ is "stronger than you". Passing the whole makes it the most of all, so _dazím fod taghav_ is "strongest".
+
 ### Pronouns and particles
 
 | Form    | Class | Sense                                           |
@@ -8861,6 +13352,10 @@ Poetic inversion is permitted and is immediately recognisable as poetry.
 | `thiz`  | part  | who? opens a question                           |
 | `thaz`  | part  | what? opens a question                          |
 | `thuz`  | part  | where? opens a question                         |
+| `thak`  | part  | which? opens a question                         |
+| `thav`  | part  | when? opens a question                          |
+| `thig`  | part  | why? opens a question                           |
+| `thuk`  | part  | how? opens a question                           |
 | `bep`   | conj  | and                                             |
 | `duz`   | conj  | or                                              |
 | `gev`   | conj  | but                                             |
@@ -8878,13 +13373,36 @@ Poetic inversion is permitted and is immediately recognisable as poetry.
 | `dev`   | part  | along                                           |
 | `nol`   | part  | under, beneath                                  |
 | `fod`   | part  | beyond                                          |
+| `nim`   | part  | in, inside, within; during                      |
+| `zad`   | part  | at                                              |
+| `gub`   | part  | outside                                         |
+| `sab`   | part  | beside                                          |
+| `dub`   | part  | through                                         |
+| `pab`   | part  | across                                          |
+| `gur`   | part  | around                                          |
+| `pod`   | part  | before, earlier than                            |
+| `lob`   | part  | after, later than                               |
+| `dag`   | part  | despite                                         |
+| `zeb`   | part  | except                                          |
+| `zum`   | part  | no, none; stands before its noun                |
+| `dek`   | part  | already                                         |
+| `dov`   | part  | still                                           |
+| `kev`   | part  | yet                                             |
+| `tib`   | part  | soon                                            |
+| `kav`   | part  | perhaps; stands before the verb                 |
+| `bud`   | part  | very; stands before an adjective                |
+| `lub`   | part  | only                                            |
+| `zog`   | part  | even                                            |
 | `gez`   | conj  | because; opens a clause                         |
 | `tav`   | conj  | when; opens a clause                            |
 | `kos`   | conj  | as, like; opens a likeness                      |
+| `naz`   | conj  | nor                                             |
+| `kun`   | conj  | then, after an _hiz_ clause                     |
+| `zod`   | conj  | otherwise                                       |
 
 The demonstratives take no suffix and stand before the noun and any adjective.
 
-The particles of place and relation, _gol_, _tev_, _pes_, _kob_, _bel_, _sod_, _dev_, _nol_ and _fod_, stand before their noun and take no suffix: _gol dalk_ is "from the stone", and _kob mardh_ is "against the name", as the record enters a fault. _Nuv_ means only "with". _Gez_, _tav_ and _kos_ open a clause as _hiz_ does: _gez_ gives a reason, _tav_ a time and _kos_ a likeness.
+The particles of place and relation, _gol_, _tev_, _pes_, _kob_, _bel_, _sod_, _dev_, _nol_, _fod_, _nim_, _zad_, _gub_, _sab_, _dub_, _pab_, _gur_, _pod_, _lob_, _dag_ and _zeb_, stand before their noun and take no suffix: _gol dalk_ is "from the stone", and _kob mardh_ is "against the name", as the record enters a fault. A pronoun after a noun names its owner, as a second noun does: _vagath gaz_ is "my house". _Nuv_ means only "with". _Gez_, _tav_ and _kos_ open a clause as _hiz_ does: _gez_ gives a reason, _tav_ a time and _kos_ a likeness.
 
 _Dalkir thuf thumár ramk_
 : "The mason does not strike the course"
@@ -8901,7 +13419,7 @@ _kodz khalív dalk_
 _dalkir bep ramkir_
 : "the mason and the layer of courses"
 
-A question that asks who, what or where opens on _thiz_, _thaz_ or _thuz_ and takes no _zef_: _Thuz tanv._ is "Where is the gate?". Written Khazari has no question mark: _zef_, or the question word that opens the sentence, is the mark of a question, and the sentence ends as any other does. An answer may drop the words it repeats: _Zuvák_, "it stands", is yes, and _Thuf_, "not", is no.
+A question that asks who, what, where, which, when, why or how opens on _thiz_, _thaz_, _thuz_, _thak_, _thav_, _thig_ or _thuk_ and takes no _zef_: _Thuz tanv._ is "Where is the gate?". Written Khazari has no question mark: _zef_, or the question word that opens the sentence, is the mark of a question, and the sentence ends as any other does. An answer may drop the words it repeats: _Zuvák_, "it stands", is yes, and _Thuf_, "not", is no.
 
 ### Numbers
 

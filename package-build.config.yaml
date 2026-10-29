@@ -38,7 +38,7 @@ languages:
     tant: { tag: art-x-tant, note: skill-tantsoulng }
     taru: { tag: art-x-taru, note: skill-taruzelilng }
     tarv: { tag: art-x-tarv, note: skill-tarvenlng }
-    telu: { tag: art-x-telu, note: skill-khazrilng }
+    telu: { tag: art-x-telu, note: skill-tellumilng }
     tenl: { tag: art-x-tenl, note: skill-tenlayalng }
     teyu: { tag: art-x-teyu, note: skill-teyumilng }
     tokc: { tag: art-x-tokc, note: skill-tokchilng }

@@ -82,7 +82,11 @@ test("Osket preserves all original meanings, optional writings and name interpre
         /## Everyday speech\n[\s\S]*?(?=## Script & Literacy\n)/u,
         "",
     );
-    assert.equal(hash(body), "1b0779ffba8fd49a06d9d80f41764eeca85ed3ad846bbc2ad9c0b8db135e34e9");
+    // The fingerprint is of the body linking the Tellumi note as skill-khazrilng.
+    assert.equal(
+        hash(body.replaceAll("skill-tellumilng", "skill-khazrilng")),
+        "1b0779ffba8fd49a06d9d80f41764eeca85ed3ad846bbc2ad9c0b8db135e34e9",
+    );
     assert(ids(words.find((w) => w.form === "goich")).includes("hearth"));
     assert(ids(words.find((w) => w.form === "shom")).includes("door"));
     const originalData = {

@@ -149,7 +149,7 @@ data:
     cultures: [khazrynclt]
     lore: [khazrynclt]
     parents: [khzryndsrtrgn, swoasisbelt, hekardesert]
-    addresses: [skill-khazrilng, skill-sowideslng, skill-atarzadilng]
+    addresses: [skill-tellumilng, skill-sowideslng, skill-atarzadilng]
   elements:
     - {form: uzhem, sense: water}
     - {form: kurbel, sense: well}
@@ -4625,7 +4625,7 @@ Stress falls on the last long vowel of a word: de-**SHAK**, **UZH**-em. A word w
 
 ## Building words
 
-Every Atárzadi word is a stem, two stems set together, or a stem with a suffix after it. The stems and their senses are in the [[skill-khazrilng#lexicon|Khazryn Lexicon]]. The thing described comes first: _kurbel_ "well" and _lukhem_ "council" make _kurbelukhem_, the council of the well.
+Every Atárzadi word is a stem, two stems set together, or a stem with a suffix after it. The stems and their senses are in the [[skill-tellumilng#lexicon|Khazryn Lexicon]]. The thing described comes first: _kurbel_ "well" and _lukhem_ "council" make _kurbelukhem_, the council of the well.
 
 ### Joins
 
@@ -4658,7 +4658,7 @@ FROM affixes WHERE language = 'thalorna-note-skill-atarzadilng' ORDER BY positio
 
 ## Atárzadi Lexicon {#lexicon}
 
-The stems of Atárzadi, the names built from them and the register of its names. The rules the three tongues share, and the senses every tongue has a stem for, stand in the [[skill-khazrilng#lexicon|Khazryn Lexicon]].
+The stems of Atárzadi, the names built from them and the register of its names. The rules the three tongues share, and the senses every tongue has a stem for, stand in the [[skill-tellumilng#lexicon|Khazryn Lexicon]].
 
 ### Stems
 

@@ -14,7 +14,8 @@ LETTERS = {c: c for c in "bdgkptvfzshmnlraeiou"}
 
 PUNCT_MAP = {
     "-": "hyphen", ".": "period", ",": "comma", "!": "exclam",
-    " ": "space", "\u00a0": "space",
+    # The carved face draws its word dot at every space, by a ccmp substitution.
+    " ": "space.dot", "\u00a0": "space.dot",
     "\u201c": "quote.open", "\u201d": "quote.close",
 }
 

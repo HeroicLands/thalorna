@@ -70,8 +70,15 @@ const historicalCitations = new Set(
 const newCitations = words.filter((word) => !historicalCitations.has(caselessCitationKey(word)));
 test("Atárzadi preserves the original names, stems, endings, metadata and prose", () => {
     const before = beforeEncodingMigration(note.file);
-    assertEncodingMigrationPreserved(note, before);
-    assertPublicLanguageProjections(note, before, 40);
+    // The baseline links the Tellumi note as skill-khazrilng.
+    const renamedRaw = before.raw.replaceAll("skill-khazrilng", "skill-tellumilng");
+    const renamed = {
+        ...before,
+        raw: renamedRaw,
+        fm: YAML.parse(splitFrontmatter(renamedRaw).yaml),
+    };
+    assertEncodingMigrationPreserved(note, renamed);
+    assertPublicLanguageProjections(note, renamed, 40);
     // Keep the original fingerprints: the approved representation changes are
     // proved separately against every historical record, rather than rehashed.
     assert.equal(

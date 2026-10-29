@@ -84,7 +84,7 @@ export const SOURCES = {
     // The word lists hold no kwakwala or nuu-chah-nulth list, so a Kelwanuk coinage is checked by reading.
     "Kelwanuk.md": ["kwakwala", "nuu-chah-nulth"],
     "Khazari.md": ["khuzdul"],
-    "Khazri.md": ["sogdian", "tajik", "hebrew"],
+    "Tellumi.md": ["sogdian", "tajik", "hebrew"],
     "Khelathi.md": ["egyptian"],
     "Ki.i.chek.md": ["yucatec-maya"],
     "Nordmal.md": ["old-norse"],

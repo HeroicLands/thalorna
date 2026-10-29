@@ -1,5 +1,5 @@
 ---
-shortcode: khazrilng
+shortcode: tellumilng
 name: {full: Tellumi Language}
 type: skill
 subType: language
@@ -108,10 +108,10 @@ data:
   tongues:
     - tag: tellumi
       meaning: "a Tellumi name, built from Tellumi stems"
-      language: skill-khazrilng
+      language: skill-tellumilng
     - tag: khazryn
       meaning: "a name the Khazryn tongues share, from the shared stems"
-      language: skill-khazrilng
+      language: skill-tellumilng
     - tag: sowides
       meaning: "a Sovidur name, built from Sovidur stems"
       language: skill-sowideslng
@@ -130,7 +130,7 @@ data:
     cultures: [khazrynclt]
     lore: [khazrynclt]
     parents: [khzryndsrtrgn, swoasisbelt, hekardesert]
-    addresses: [skill-khazrilng, skill-sowideslng, skill-atarzadilng]
+    addresses: [skill-tellumilng, skill-sowideslng, skill-atarzadilng]
   elements:
     - {form: te, sense: "high, upper"}
     - {form: lu, sense: "spring, source"}
@@ -6636,17 +6636,17 @@ Its words are written in the setting's one guide; see [[doc-prnncthlrn|Pronounci
 
 ```sql
 SELECT "Rule", "Forms" FROM (
-SELECT 0 AS o, 'Onsets' AS "Rule", CASE onsets WHEN 'single' THEN 'a single consonant' END AS "Forms" FROM syllables WHERE language = 'thalorna-note-skill-khazrilng'
+SELECT 0 AS o, 'Onsets' AS "Rule", CASE onsets WHEN 'single' THEN 'a single consonant' END AS "Forms" FROM syllables WHERE language = 'thalorna-note-skill-tellumilng'
 UNION ALL
-SELECT 1 AS o, 'Codas' AS "Rule", array_to_string(list_transform(codas, x -> '`' || x || '`'), ' ') AS "Forms" FROM syllables WHERE language = 'thalorna-note-skill-khazrilng'
+SELECT 1 AS o, 'Codas' AS "Rule", array_to_string(list_transform(codas, x -> '`' || x || '`'), ' ') AS "Forms" FROM syllables WHERE language = 'thalorna-note-skill-tellumilng'
 UNION ALL
-SELECT 2 AS o, 'Finals' AS "Rule", array_to_string(list_transform(finals, x -> '`' || x || '`'), ' ') AS "Forms" FROM syllables WHERE language = 'thalorna-note-skill-khazrilng'
+SELECT 2 AS o, 'Finals' AS "Rule", array_to_string(list_transform(finals, x -> '`' || x || '`'), ' ') AS "Forms" FROM syllables WHERE language = 'thalorna-note-skill-tellumilng'
 UNION ALL
-SELECT 3 AS o, 'Doubled' AS "Rule", array_to_string(list_transform(doubled, x -> '`' || x || '`'), ' ') AS "Forms" FROM syllables WHERE language = 'thalorna-note-skill-khazrilng'
+SELECT 3 AS o, 'Doubled' AS "Rule", array_to_string(list_transform(doubled, x -> '`' || x || '`'), ' ') AS "Forms" FROM syllables WHERE language = 'thalorna-note-skill-tellumilng'
 UNION ALL
-SELECT 4 AS o, 'Vowel pairs' AS "Rule", coalesce(nullif(array_to_string(list_transform(vowelPairs, x -> '`' || x || '`'), ' '), ''), 'never') AS "Forms" FROM syllables WHERE language = 'thalorna-note-skill-khazrilng'
+SELECT 4 AS o, 'Vowel pairs' AS "Rule", coalesce(nullif(array_to_string(list_transform(vowelPairs, x -> '`' || x || '`'), ' '), ''), 'never') AS "Forms" FROM syllables WHERE language = 'thalorna-note-skill-tellumilng'
 UNION ALL
-SELECT 5 AS o, 'Initial vowel' AS "Rule", CASE WHEN initialVowel THEN 'yes' ELSE 'no' END AS "Forms" FROM syllables WHERE language = 'thalorna-note-skill-khazrilng'
+SELECT 5 AS o, 'Initial vowel' AS "Rule", CASE WHEN initialVowel THEN 'yes' ELSE 'no' END AS "Forms" FROM syllables WHERE language = 'thalorna-note-skill-tellumilng'
 ) ORDER BY o
 ```
 
@@ -6658,13 +6658,13 @@ Stress falls on the syllable that a doubled consonant opens: te-**LLU**-mi, ten-
 
 ## Building words
 
-Every Tellumi word is a stem, two or more stems set together, or a stem with a suffix after it. The stems and their senses are in the [[skill-khazrilng#lexicon|Khazryn Lexicon]]. A modifier comes before what it modifies: _te_ "high" before _lu_ "spring" makes the high spring.
+Every Tellumi word is a stem, two or more stems set together, or a stem with a suffix after it. The stems and their senses are in the [[skill-tellumilng#lexicon|Khazryn Lexicon]]. A modifier comes before what it modifies: _te_ "high" before _lu_ "spring" makes the high spring.
 
 ### Joins
 
 ```sql
 SELECT '`' || meeting || '`' AS "Meeting", '`' || rule || '`' AS "Rule", coalesce(array_to_string(list_transform(letters, x -> '`' || x || '`'), ' '), '') AS "Letters", coalesce("where", 'anywhere') AS "Where"
-FROM joins WHERE language = 'thalorna-note-skill-khazrilng' ORDER BY position
+FROM joins WHERE language = 'thalorna-note-skill-tellumilng' ORDER BY position
 ```
 
 Two rules work where two parts of a word meet:
@@ -6678,7 +6678,7 @@ Every other meeting leaves both parts as they are: _veshkun_ and _-ash_ make _ve
 
 ```sql
 SELECT '`' || form || '`' AS "Suffix", gloss AS "Sense"
-FROM affixes WHERE language = 'thalorna-note-skill-khazrilng' ORDER BY position
+FROM affixes WHERE language = 'thalorna-note-skill-tellumilng' ORDER BY position
 ```
 
 ### Names
@@ -6773,7 +6773,7 @@ The ordinary citations below include every category of the Core Vocabulary. An i
 ```sql
 SELECT field AS "Field", form AS "Form", class AS "Class", gloss AS "Meaning"
 FROM words
-WHERE language = 'thalorna-note-skill-khazrilng' AND split_part(class, ' ', 1) NOT IN ('name', 'stem', 'pref')
+WHERE language = 'thalorna-note-skill-tellumilng' AND split_part(class, ' ', 1) NOT IN ('name', 'stem', 'pref')
 ORDER BY position
 ```
 
@@ -6807,7 +6807,7 @@ A word no table lists is still good in its tongue if it is a listed stem through
 
 ```sql
 SELECT '`' || form || '`' AS "Stem", sense AS "Sense"
-FROM elements WHERE language = 'thalorna-note-skill-khazrilng' ORDER BY position
+FROM elements WHERE language = 'thalorna-note-skill-tellumilng' ORDER BY position
 ```
 
 ### Derived words
@@ -6816,7 +6816,7 @@ Worked names and words, each built from the stems above.
 
 ```sql
 SELECT form AS "Word", '`' || 'tellumi' || '`' AS "Tongue", gloss AS "Gloss", array_to_string(list_transform(built, x -> '`' || x || '`'), ' + ') AS "Derivation"
-FROM words WHERE language = 'thalorna-note-skill-khazrilng' AND field = 'Derived words' ORDER BY position
+FROM words WHERE language = 'thalorna-note-skill-tellumilng' AND field = 'Derived words' ORDER BY position
 ```
 
 ### Names older than the rules
@@ -6825,7 +6825,7 @@ The setting's names of places, peoples and persons are older than the three tong
 
 ```sql
 SELECT form AS "Name", 'a name' AS "Kind"
-FROM older WHERE language = 'thalorna-note-skill-khazrilng' ORDER BY position
+FROM older WHERE language = 'thalorna-note-skill-tellumilng' ORDER BY position
 ```
 
 ### Scope
@@ -6835,7 +6835,7 @@ The register below holds every name of every note in the region. A note is in th
 ```sql
 SELECT CASE kind WHEN 'folders' THEN 'folder' WHEN 'cultures' THEN 'culture' WHEN 'lore' THEN 'lore' WHEN 'parents' THEN 'parent' ELSE 'address' END AS "Kind",
        string_agg('`' || CASE WHEN kind = 'addresses' THEN regexp_replace(value, '^thalorna-note-', '') ELSE regexp_replace(value, '^thalorna-(?:note-[a-z]+-|none-folder-)', '') END || '`', ' ') AS "Value"
-FROM scope WHERE language = 'thalorna-note-skill-khazrilng'
+FROM scope WHERE language = 'thalorna-note-skill-tellumilng'
 GROUP BY kind ORDER BY CASE kind WHEN 'folders' THEN 0 WHEN 'cultures' THEN 1 WHEN 'lore' THEN 2 WHEN 'parents' THEN 3 ELSE 4 END
 ```
 
@@ -6852,12 +6852,12 @@ SELECT name AS "Name", coalesce(array_to_string(list_transform(notes, n -> '[[' 
             WHEN tongue = 'gloss' THEN CASE WHEN built IS NULL THEN '—' ELSE 'a glossed name on ' || array_to_string(list_transform(built, x -> '`' || x || '`'), ' and ') END
             WHEN built IS NOT NULL THEN array_to_string(list_transform(built, x -> '`' || x || '`'), ' + ')
             ELSE '—' END AS "Derivation"
-FROM register WHERE language = 'thalorna-note-skill-khazrilng' ORDER BY position
+FROM register WHERE language = 'thalorna-note-skill-tellumilng' ORDER BY position
 ```
 
 #### Language tags
 
 ```sql
 SELECT tag AS "Tag", meaning AS "Meaning"
-FROM tongues WHERE language = 'thalorna-note-skill-khazrilng' ORDER BY position
+FROM tongues WHERE language = 'thalorna-note-skill-tellumilng' ORDER BY position
 ```

@@ -6740,7 +6740,7 @@ Osket is the tongue of [[affiliation-osketguides|the Osket]], who hold the weste
 
 ## Overview
 
-Osket is related to nothing in any lowland family. It shares no root stock with [[skill-vedyarlng|Vedyari]], with [[skill-khazrilng|Tellumi]], with [[skill-tantsoulng|Tantsou]] or with anything else that has been compared with it, and the comparisons have been made: a Vedyari grammarian spent four seasons at [[place-oskhelt|Oskhelt]] two centuries ago and published a careful, competent account whose conclusion was that there was nothing to connect it to.
+Osket is related to nothing in any lowland family. It shares no root stock with [[skill-vedyarlng|Vedyari]], with [[skill-tellumilng|Tellumi]], with [[skill-tantsoulng|Tantsou]] or with anything else that has been compared with it, and the comparisons have been made: a Vedyari grammarian spent four seasons at [[place-oskhelt|Oskhelt]] two centuries ago and published a careful, competent account whose conclusion was that there was nothing to connect it to.
 
 Almost no outsider speaks it. What lowlanders learn is a road-pidgin of perhaps two hundred words—loads, weather, halt, go, water, rope, dead—and the Osket teach that pidgin willingly and the language not at all. There is no prohibition. There is simply no occasion on which an Osket has ever needed a lowlander to understand more.
 

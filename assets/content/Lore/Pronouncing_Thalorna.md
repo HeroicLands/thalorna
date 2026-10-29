@@ -601,7 +601,7 @@ In [[skill-tantsoulng|Tantsou]], _ao_ is _ah-oh_ run into one syllable, near the
 
 ## Tellumi
 
-[[skill-khazrilng|Tellumi]] stresses the syllable opened by a doubled consonant, as in _Tellumi_ (_te-LLU-mi_); otherwise stress the first syllable, as in _nelim_ (_NE-lim_). Hold a doubled consonant briefly; an ordinary single consonant is fine for play. No pitch or secondary-stress marks are required.
+[[skill-tellumilng|Tellumi]] stresses the syllable opened by a doubled consonant, as in _Tellumi_ (_te-LLU-mi_); otherwise stress the first syllable, as in _nelim_ (_NE-lim_). Hold a doubled consonant briefly; an ordinary single consonant is fine for play. No pitch or secondary-stress marks are required.
 
 ## Vedyari
 

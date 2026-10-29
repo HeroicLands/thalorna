@@ -458,5 +458,5 @@ Tamker veme hurshel nemi nelim. Miver danver tiver, merin.
 [[affiliation-khzrncnfdrtn|Tellumi Confederation]]
 : the seven houses and the Council the revived house sits on
 
-[[skill-khazrilng#lexicon|Khazryn Lexicon]]
+[[skill-tellumilng#lexicon|Khazryn Lexicon]]
 : the names the song uses, and what they mean

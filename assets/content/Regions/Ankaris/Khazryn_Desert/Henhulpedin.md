@@ -12,7 +12,7 @@ data: {demonym: null, lore: [], parents: [swoasisbelt], population: 0, packFolde
 
 Past the last irrigated plot north of [[place-zargandur|Zargandur]], the green stops at a ditch and a line of whitewashed stakes. Beyond it the ground is the same ground: level gravel, thin grass, a few thorn bushes that the goats of the garrison are not driven to. A [Zhoqarod]{.name data-type="affiliation"} picket sits at the stakes by day and is relieved before dark. By night the picket is gone, and the stakes are all that stand between the city's northern gate and a field nobody walks.
 
-**Henhutpedin**, "the blood-field" in [[skill-khazrilng|Tellumi]], is what the people of the quarter call it. The Zhoqarod call it the north grass and keep their mares off it.
+**Henhutpedin**, "the blood-field" in [[skill-tellumilng|Tellumi]], is what the people of the quarter call it. The Zhoqarod call it the north grass and keep their mares off it.
 
 ## How It Was Made
 

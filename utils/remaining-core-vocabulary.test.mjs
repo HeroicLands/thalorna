@@ -12,7 +12,7 @@ import { withNameForms } from "./encoding-preservation.mjs";
 
 const baseline = "4da8f980e";
 const languageFiles = [
-    "assets/content/Skills/Languages/Khazri.md",
+    "assets/content/Skills/Languages/Tellumi.md",
     "assets/content/Skills/Languages/Sowides.md",
     "assets/content/Skills/Languages/Ekpelu.md",
     "assets/content/Skills/Languages/Taruzeli.md",
@@ -22,8 +22,13 @@ const read = (file, raw = fs.readFileSync(file, "utf8")) => ({
     fm: YAML.parse(splitFrontmatter(raw).yaml),
     body: splitFrontmatter(raw).body,
 });
+// The baseline commit holds Tellumi as Khazri.md with shortcode khazrilng.
+const baselinePath = (file) =>
+    file.endsWith("/Tellumi.md") ? file.replace("Tellumi.md", "Khazri.md") : file;
 const fromBaseline = (file) =>
-    execFileSync("git", ["show", `${baseline}:${file}`], { encoding: "utf8" });
+    execFileSync("git", ["show", `${baseline}:${baselinePath(file)}`], {
+        encoding: "utf8",
+    }).replaceAll("khazrilng", "tellumilng");
 const ordinary = new Set(
     WORD_CLASS_BASES.filter((item) => item.glossary).map((item) => item.token),
 );

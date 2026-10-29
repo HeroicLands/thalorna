@@ -127,7 +127,7 @@ To the **northwest**, beyond Velanthia, lies [[place-vrystwald|Vristwald]], near
 - [[place-qisomrktcmp|Qiiso]]—the market-camp at the road's heart
 - [[affiliation-ashanpnthn|Ashaian Pantheon]]—primary pantheon, shared with Dunhara and Taruzel
 - [[skill-sowideslng|Sovidur Language]]—the tongue of the tribes
-- [[skill-khazrilng#lexicon|Khazryn Lexicon]]—the words and names of the three tongues
+- [[skill-tellumilng#lexicon|Khazryn Lexicon]]—the words and names of the three tongues
 - Creatures of the Khazryn:
   - At the wells and on the road: [[being-gntcmlsp|Giant Camel Spider]], [[being-bnscrpn|Bone Scorpion]], [[being-gntscrpn|Giant Scorpion]], [[being-sndstlkr|Sand Stalker]], [[being-qelodud|Kelodud]], [[being-budeq|Budaq]], [[being-gwirador|Guredor]], [[being-mghyn|Mega Hyena]]
   - In the sands and on the salt: [[being-sandwurm|Sand Wurm]], [[being-dnstrdr|Dune Strider]], [[being-duneclaw|Duneclaw]], [[being-hosikud|Khoshikud]], [[being-orkesud|Orqazud]], [[being-yolequd|Yolakud]], [[being-numek|Numaq]]

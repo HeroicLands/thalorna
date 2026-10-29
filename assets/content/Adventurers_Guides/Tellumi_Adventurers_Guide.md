@@ -133,7 +133,7 @@ Campaigns start well from the record. Parván wants an envoy to carry an offer t
 - [[lore-khzrnclndr|The Tellumi Calendar]] for the twelve months and the closing festival
 - [[place-vurdil|Vurdish]] and the [[place-grazruins|ruins and labyrinths of the Grazian Mountains]] for the road the old houses claim
 - [[affiliation-ahurdaen|Ahurdaen]] and [[affiliation-zurathra|Zúrathra]] for the faith at the water
-- [[skill-khazrilng|The Tellumi language]] and the [[skill-khazrilng#lexicon|Khazryn Lexicon]] for the tongue of the tablets
+- [[skill-tellumilng|The Tellumi language]] and the [[skill-tellumilng#lexicon|Khazryn Lexicon]] for the tongue of the tablets
 - [[doc-khazrynadvguide|The Khazryn Desert Adventurer's Guide]] for the waste beyond the belt and the road to Tantsou
 
 ## Glossary

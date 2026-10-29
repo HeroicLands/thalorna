@@ -69,7 +69,7 @@ data:
   parents: []
   relations: {ashanpnthn: aligned, tribestrzd: nemesis, kngdmmrdd: aligned}
   packFolder: khazryndesert
-sohl: {system: {commonSkills: [khazrilng]}}
+sohl: {system: {commonSkills: [tellumilng]}}
 
 # terran_analog: "Canaanites of the post-Conquest period—indigenous urban-pastoral oasis polity under ancient hereditary princely houses (some still ruling on the margins, some in continuous exile)"
 ---
@@ -90,7 +90,7 @@ In order of founding, the seven are [[place-oasishirvn|Shirvan]]** (the holiest 
 
 Four of the seven are Atárzád-held: the Oasis of Shirvan, Ashkarad, Zargandur and Kethramír. Mernagord and Ushtra-ber remain under their own princes. Vahurdash, on the dry northern rim of the belt where the streams fail, was given back to the desert by a drought in the deep past and has been resettled within the last generation beside the stones of [[place-velkunar|Veshkun]], Old Vahurdash.
 
-The civilization that flourished before [The Breaking]{.name data-type="lore/history"} was urban, literate and polytheistic, and old enough to have absorbed and outlasted several waves of nomadic incursion. Its scribes kept their records on baked-clay tablets in the [[skill-khazrilng|Tellumi tongue]], written in a syllabary brought down from the mountains, and the archive runs nearly two thousand years back from the Breaking without a gap. The Shekhulsighots of the Great Temple of [[affiliation-ahurdaen|Ahurdaen]] at Shirvan maintained the calendar, the records of dynastic succession, the treaties between the seven cities, and the commentary tradition that gave Ashaian theology much of its shape outside the Kingdom. Most of this archive burned when Shirvan fell. What survived was carried out by the fleeing princely households and is scattered across the exile courts in Amradad.
+The civilization that flourished before [The Breaking]{.name data-type="lore/history"} was urban, literate and polytheistic, and old enough to have absorbed and outlasted several waves of nomadic incursion. Its scribes kept their records on baked-clay tablets in the [[skill-tellumilng|Tellumi tongue]], written in a syllabary brought down from the mountains, and the archive runs nearly two thousand years back from the Breaking without a gap. The Shekhulsighots of the Great Temple of [[affiliation-ahurdaen|Ahurdaen]] at Shirvan maintained the calendar, the records of dynastic succession, the treaties between the seven cities, and the commentary tradition that gave Ashaian theology much of its shape outside the Kingdom. Most of this archive burned when Shirvan fell. What survived was carried out by the fleeing princely households and is scattered across the exile courts in Amradad.
 
 ## The Breaking
 
@@ -209,7 +209,7 @@ A person under an unsettled feud stands outside the confederation's protection u
 [[affiliation-kngdmmrdd|Kingdom of Amradad]]
 : host of the exile community and its protector
 
-[[skill-khazrilng|Tellumi Language]]
+[[skill-tellumilng|Tellumi Language]]
 : the Tellumi tongue
 
 [[lore-khzrnclndr|The Tellumi Calendar]]

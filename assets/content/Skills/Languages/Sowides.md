@@ -121,7 +121,7 @@ data:
     cultures: [khazrynclt]
     lore: [khazrynclt]
     parents: [khzryndsrtrgn, swoasisbelt, hekardesert]
-    addresses: [skill-khazrilng, skill-sowideslng, skill-atarzadilng]
+    addresses: [skill-tellumilng, skill-sowideslng, skill-atarzadilng]
   elements:
     - {form: uruvol, sense: water}
     - {form: kelod, sense: well}
@@ -6923,7 +6923,7 @@ Stress falls on a doubled vowel where a word has one, and otherwise on the last 
 
 ## Building words
 
-Every Sovidur word is a stem, two stems set together, or a stem with a suffix after it. The stems and their senses are in the [[skill-khazrilng#lexicon|Khazryn Lexicon]]. The thing described comes first and the word describing it second: _kodu_ "horse" and _uruvaq_ "wind" make _koduyuruvaq_ "horse of the wind".
+Every Sovidur word is a stem, two stems set together, or a stem with a suffix after it. The stems and their senses are in the [[skill-tellumilng#lexicon|Khazryn Lexicon]]. The thing described comes first and the word describing it second: _kodu_ "horse" and _uruvaq_ "wind" make _koduyuruvaq_ "horse of the wind".
 
 ### Joins
 
@@ -7082,7 +7082,7 @@ Punctuation in the common transcription is editorial guidance for a reader. Trib
 
 ## Sovidur Lexicon {#lexicon}
 
-The stems of Sovidur, the names built from them and the register of its names. The rules the three tongues share, and the senses every tongue has a stem for, stand in the [[skill-khazrilng#lexicon|Khazryn Lexicon]].
+The stems of Sovidur, the names built from them and the register of its names. The rules the three tongues share, and the senses every tongue has a stem for, stand in the [[skill-tellumilng#lexicon|Khazryn Lexicon]].
 
 ### Stems
 
