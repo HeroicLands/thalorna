@@ -29,908 +29,475 @@ The song stops before its own ending. Beneath the three peaks he named, in [[lor
 
 : The Praise of the One Who Stays {#song}
 
-```verse {form=tellame numstep=5 cols=2}
-1 [kelsa ovuu tevanni ahi hessave ovuu tevanninno]{lang=sina enc=sinaveldikkoenc}
-2 [Hear the deed. Ask not after the doer.]{lang=en}
-2 [kelsa ovuu tevanni ahi hessave ovuu tevanninno]{lang=sina}
-
-1 [tenvas tevanninno uulse olnaroho oha ahi senvas onsa]{lang=sina enc=sinaveldikkoenc}
-2 [Comes the doer late in a song, or never.]{lang=en}
-2 [tenvas tevanninno uulse olnaroho oha ahi senvas onsa]{lang=sina}
-
-1 [kelsa ovuu ovaikke ulnavaho oso melti sarnevi aimetti]{lang=sina enc=sinaveldikkoenc}
-2 [Hear, you under the gate, who grind the bread;]{lang=en}
-2 [kelsa ovuu ovaikke ulnavaho oso melti sarnevi aimetti]{lang=sina}
-
-1 [kelsa aukkessa vennas melkeho]{lang=sina enc=sinaveldikkoenc}
-2 [hear, you hearths by the water;]{lang=en}
-2 [kelsa aukkessa vennas melkeho]{lang=sina}
-
-1 [kelsa irnanno vennas entel erdavi ralti onsa ralti ulnavaho]{lang=sina enc=sinaveldikkoenc}
-2 [hear, you makers, if the stone carries it down.]{lang=en}
-2 [kelsa irnanno vennas entel erdavi ralti onsa ralti ulnavaho]{lang=sina}
-
-1 [kelsa ovuu tevanni vennas iha sennelho]{lang=sina enc=sinaveldikkoenc}
-2 [Hear what is done on this island]{lang=en}
-2 [kelsa ovuu tevanni vennas iha sennelho]{lang=sina}
-
-1 [somarri ilte toimunuho vennas]{lang=sina enc=sinaveldikkoenc}
-2 [in the years of the one crown,]{lang=en}
-2 [somarri ilte toimunuho vennas]{lang=sina}
-
-1 [ahi hessave ovuu uvi irna movî iha irna tevanninno onsa]{lang=sina enc=sinaveldikkoenc}
-2 [and who does it, ask not. It is done.]{lang=en}
-2 [ahi hessave ovuu uvi irna movî iha irna tevanninno onsa]{lang=sina}
-
-1 [sendeppi onsa sendeppi ehii]{lang=sina enc=sinaveldikkoenc}
-2 [He stays. We stay.]{lang=en}
-2 [sendeppi onsa sendeppi ehii]{lang=sina}
-
-***
-
-1 [korpe onsa taumel onsaa ramme vennas irnannotos vennas]{lang=sina enc=sinaveldikkoenc}
-2 [Turn his people from the makers.]{lang=en}
-2 [korpe onsa taumel onsaa ramme vennas irnannotos vennas]{lang=sina}
-
-1 [korpe onsaa onsaa ramme vennas ummes lonkuho vennas ummes eilava vennas ulnavaho]{lang=sina enc=sinaveldikkoenc}
-2 [Turn they in every wood, under every sky,]{lang=en}
-2 [korpe onsaa onsaa ramme vennas ummes lonkuho vennas ummes eilava vennas ulnavaho]{lang=sina}
-
-1 [ummes leësyhe vennas oso sattai taumel sipes]{lang=sina enc=sinaveldikkoenc}
-2 [on every road where the two peoples pass:]{lang=en}
-2 [ummes leësyhe vennas oso sattai taumel sipes]{lang=sina}
-
-1 [ahi evanni onsaa irnanno vennas ahi vandel onsaa irnanno vennas]{lang=sina enc=sinaveldikkoenc}
-2 [speak they not; answer they not;]{lang=en}
-2 [ahi evanni onsaa irnanno vennas ahi vandel onsaa irnanno vennas]{lang=sina}
-
-1 [sannai irnanno vennas sannai eltane]{lang=sina enc=sinaveldikkoenc}
-2 [let they the makers go by like weather.]{lang=en}
-2 [sannai irnanno vennas sannai eltane]{lang=sina}
-
-1 [ahi horpe onsa onsa ramme]{lang=sina enc=sinaveldikkoenc}
-2 [Turns he not.]{lang=en}
-2 [ahi horpe onsa onsa ramme]{lang=sina}
-
-1 [sattai onsa leësyhe taumel sipes nervalho iltettu]{lang=sina enc=sinaveldikkoenc}
-2 [Walks he the road between the two peoples alone,]{lang=en}
-2 [sattai onsa leësyhe taumel sipes nervalho iltettu]{lang=sina}
-
-1 [lirta lenti onsa lertisho sipes]{lang=sina enc=sinaveldikkoenc}
-2 [and the grass comes up in it on either side of him.]{lang=en}
-2 [lirta lenti onsa lertisho sipes]{lang=sina}
-
-1 [setty onsa irnanno vennas ovaikkeho oltessaho]{lang=sina enc=sinaveldikkoenc}
-2 [Stands he at the makers' gate in the evening.]{lang=en}
-2 [setty onsa irnanno vennas ovaikkeho oltessaho]{lang=sina}
-
-1 [setty onsa irnanno vennas ovaikkeho roselho]{lang=sina enc=sinaveldikkoenc}
-2 [Stands he at the makers' gate in the morning.]{lang=en}
-2 [setty onsa irnanno vennas ovaikkeho roselho]{lang=sina}
-
-1 [paval ovaikke paval onsa]{lang=sina enc=sinaveldikkoenc}
-2 [Opens the gate, as a gate opens]{lang=en}
-2 [paval ovaikke paval onsa]{lang=sina}
-
-1 [entel erni onsa lirne sattairsa]{lang=sina enc=sinaveldikkoenc}
-2 [for one it knows the step of.]{lang=en}
-2 [entel erni onsa lirne sattairsa]{lang=sina}
-
-1 [ulpes onsa]{lang=sina enc=sinaveldikkoenc}
-2 [Goes he in.]{lang=en}
-2 [ulpes onsa]{lang=sina}
-
-1 [sendeppi onsa sendeppi ehii]{lang=sina enc=sinaveldikkoenc}
-2 [He stays. We stay.]{lang=en}
-2 [sendeppi onsa sendeppi ehii]{lang=sina}
-
-***
-
-1 [kessave ovuu uvi elvata lirne vennas neravanno mavisâ kelsa ovuu]{lang=sina enc=sinaveldikkoenc}
-2 [Ask you how a lord is raised. Hear it.]{lang=en}
-2 [kessave ovuu uvi elvata lirne vennas neravanno mavisâ kelsa ovuu]{lang=sina}
-
-1 [irtal lantavo sulmeho]{lang=sina enc=sinaveldikkoenc}
-2 [Rises the slow river in the thaw]{lang=en}
-2 [irtal lantavo sulmeho]{lang=sina}
-
-1 [vaultiho oso ylke ovaikke ulnava taumel]{lang=sina enc=sinaveldikkoenc}
-2 [over the ford where the gate-folk cross.]{lang=en}
-2 [vaultiho oso ylke ovaikke ulnava taumel]{lang=sina}
-
-1 [setty onsa melkeho teipannu ilte evi ossenda ilte eho melke onsa varmuho]{lang=sina enc=sinaveldikkoenc}
-2 [Stands he in it to the waist a day and a night;]{lang=en}
-2 [setty onsa melkeho teipannu ilte evi ossenda ilte eho melke onsa varmuho]{lang=sina}
-
-1 [nelmavi onsa nysse vennas evi nelva vennas]{lang=sina enc=sinaveldikkoenc}
-2 [hands he over the children, and the goats,]{lang=en}
-2 [nelmavi onsa nysse vennas evi nelva vennas]{lang=sina}
-
-1 [evi vonu nemma oso ahi olkai onsa lerravi]{lang=sina enc=sinaveldikkoenc}
-2 [and the old woman who will not leave her loom,]{lang=en}
-2 [evi vonu nemma oso ahi olkai onsa lerravi]{lang=sina}
-
-1 [evi lerravi]{lang=sina enc=sinaveldikkoenc}
-2 [and the loom.]{lang=en}
-2 [evi lerravi]{lang=sina}
-
-1 [irtal hyrre harsel toimunuho lentasho kalpiho]{lang=sina enc=sinaveldikkoenc}
-2 [Climbs the fire in the dry year up the slope toward the birches.]{lang=en}
-2 [irtal hyrre harsel toimunuho lentasho kalpiho]{lang=sina}
-
-1 [setty onsa nervalho teipannu kevu luuro onsa lonsi hyrre]{lang=sina enc=sinaveldikkoenc}
-2 [Stands he between, three days, and sings it low,]{lang=en}
-2 [setty onsa nervalho teipannu kevu luuro onsa lonsi hyrre]{lang=sina}
-
-1 [setty kalpi]{lang=sina enc=sinaveldikkoenc}
-2 [and the birches stand.]{lang=en}
-2 [setty kalpi]{lang=sina}
-
-1 [seltai ovaikke ulnava taumel melke ralki toimunuho]{lang=sina enc=sinaveldikkoenc}
-2 [Fails the gate-folk's water in the hot year.]{lang=en}
-2 [seltai ovaikke ulnava taumel melke ralki toimunuho]{lang=sina}
-
-1 [vaukka onsa sorkandaho iltettu kessave onsa]{lang=sina enc=sinaveldikkoenc}
-2 [Goes he up the mountain alone and asks.]{lang=en}
-2 [vaukka onsa sorkandaho iltettu kessave onsa]{lang=sina}
-
-1 [lonsi onsa remis irnanno vennas onsa]{lang=sina enc=sinaveldikkoenc}
-2 [Comes he down with the makers behind him,]{lang=en}
-2 [lonsi onsa remis irnanno vennas onsa]{lang=sina}
-
-1 [lonsi melke uulse]{lang=sina enc=sinaveldikkoenc}
-2 [and the water comes down after.]{lang=en}
-2 [lonsi melke uulse]{lang=sina}
-
-1 [merni ovaikke ulnava taumel nysse lonkuho nykehe]{lang=sina enc=sinaveldikkoenc}
-2 [Strays the gate-folk's child into the deep wood in the snow.]{lang=en}
-2 [merni ovaikke ulnava taumel nysse lonkuho nykehe]{lang=sina}
-
-1 [lemmes onsa nysse erdavi onsa onsa lonkutos evatte onsa ahi eho ovu elnis iha lonkuho]{lang=sina enc=sinaveldikkoenc}
-2 [Finds he her, and carries her out, and tells her the wood is not for her,]{lang=en}
-2 [lemmes onsa nysse erdavi onsa onsa lonkutos evatte onsa ahi eho ovu elnis iha lonkuho]{lang=sina}
-
-1 [evanni onsa onsa kuse sovairsa ahi ulpes nysse lonku ulsen]{lang=sina enc=sinaveldikkoenc}
-2 [and tells her it kindly, and she does not go in again.]{lang=en}
-2 [evanni onsa onsa kuse sovairsa ahi ulpes nysse lonku ulsen]{lang=sina}
-
-1 [ahi evatte onsa iha tevanni vennas]{lang=sina enc=sinaveldikkoenc}
-2 [Says he nothing of any of it.]{lang=en}
-2 [ahi evatte onsa iha tevanni vennas]{lang=sina}
-
-1 [evatte aukkessa vennas onsaa]{lang=sina enc=sinaveldikkoenc}
-2 [Say it the hearths.]{lang=en}
-2 [evatte aukkessa vennas onsaa]{lang=sina}
-
-1 [sendeppi onsa sendeppi ehii]{lang=sina enc=sinaveldikkoenc}
-2 [He stays. We stay.]{lang=en}
-2 [sendeppi onsa sendeppi ehii]{lang=sina}
-
-***
-
-1 [elvata aukkessa vennas onsa evatte evette vennas ummes ahi eho eirandi evette]{lang=sina enc=sinaveldikkoenc}
-2 [Raise him the hearths, every voice, and no voice first.]{lang=en}
-2 [elvata aukkessa vennas onsa evatte evette vennas ummes ahi eho eirandi evette]{lang=sina}
-
-1 [elvata lapurinto onsa lapuri aukkessa]{lang=sina enc=sinaveldikkoenc}
-2 [Raises him [Lapurinto]{.name data-type="affiliation/lineage"}, the hearth of the running water.]{lang=en}
-2 [elvata lapurinto onsa lapuri aukkessa]{lang=sina}
-
-1 [elvata kalpinto onsa halpi aukkessa]{lang=sina enc=sinaveldikkoenc}
-2 [Raises him [Kalpinto]{.name data-type="affiliation/lineage"}, the hearth of the pale wood.]{lang=en}
-2 [elvata kalpinto onsa halpi aukkessa]{lang=sina}
-
-1 [elvata nuuvanto onsa nuuva aukkessa]{lang=sina enc=sinaveldikkoenc}
-2 [Raises him [Nuuvanto]{.name data-type="affiliation/lineage"}, the hearth of starlight.]{lang=en}
-2 [elvata nuuvanto onsa nuuva aukkessa]{lang=sina}
-
-1 [elvata unturonto onsa unturo aukkessa]{lang=sina enc=sinaveldikkoenc}
-2 [Raises him [Unturonto]{.name data-type="affiliation/lineage"}, the hearth of winter.]{lang=en}
-2 [elvata unturonto onsa unturo aukkessa]{lang=sina}
-
-1 [hilpekilpete ovaikke ulnava taumel vaissasto issalteho]{lang=sina enc=sinaveldikkoenc}
-2 [Shout the gate-folk from the field's edge,]{lang=en}
-2 [hilpekilpete ovaikke ulnava taumel vaissasto issalteho]{lang=sina}
-
-1 [telvanita aume onsaa ahi halpe lirne onsaa evakka]{lang=sina enc=sinaveldikkoenc}
-2 [and are not counted, and are not stopped.]{lang=en}
-2 [telvanita aume onsaa ahi halpe lirne onsaa evakka]{lang=sina}
-
-1 [elvata onsaa onsa neravanno ilevaho oltessaho melkeho]{lang=sina enc=sinaveldikkoenc}
-2 [Raise they him lord in the clear place, at dusk, by the water,]{lang=en}
-2 [elvata onsaa onsa neravanno ilevaho oltessaho melkeho]{lang=sina}
-
-1 [evatte melke iha uulse onsaa]{lang=sina enc=sinaveldikkoenc}
-2 [and the water says it after them.]{lang=en}
-2 [evatte melke iha uulse onsaa]{lang=sina}
-
-1 [evatte onsa ahi hessave ehi iha]{lang=sina enc=sinaveldikkoenc}
-2 [Says he: I asked for none of it.]{lang=en}
-2 [evatte onsa ahi hessave ehi iha]{lang=sina}
-
-1 [evatte aukkessa vennas erni ehii]{lang=sina enc=sinaveldikkoenc}
-2 [Say the hearths: we know.]{lang=en}
-2 [evatte aukkessa vennas erni ehii]{lang=sina}
-
-1 [sendeppi onsa sendeppi ehii]{lang=sina enc=sinaveldikkoenc}
-2 [He stays. We stay.]{lang=en}
-2 [sendeppi onsa sendeppi ehii]{lang=sina}
-
-***
-
-1 [leëvi sennel neravanno vennas evatte onsaa somarritos]{lang=sina enc=sinaveldikkoenc}
-2 [Sit the lords of the island to speak of a crown.]{lang=en}
-2 [leëvi sennel neravanno vennas evatte onsaa somarritos]{lang=sina}
-
-1 [leëvi onsaa ilevaho elkes ulnavaho]{lang=sina enc=sinaveldikkoenc}
-2 [Sit they in the clear place under the ash.]{lang=en}
-2 [leëvi onsaa ilevaho elkes ulnavaho]{lang=sina}
-
-1 [evatte onsaa ummes unturoho ilte evatte onsaa ummes autemelho ilte]{lang=sina enc=sinaveldikkoenc}
-2 [Speak they a winter. Speak they a summer.]{lang=en}
-2 [evatte onsaa ummes unturoho ilte evatte onsaa ummes autemelho ilte]{lang=sina}
-
-1 [pelpe sorvel aimettinu leëvistehe eirandi vekkanelho]{lang=sina enc=sinaveldikkoenc}
-2 [Falls an acorn where they sit, in the first autumn.]{lang=en}
-2 [pelpe sorvel aimettinu leëvistehe eirandi vekkanelho]{lang=sina}
-
-1 [evatte onsaa ulsen evi ulsen]{lang=sina enc=sinaveldikkoenc}
-2 [Speak they on.]{lang=en}
-2 [evatte onsaa ulsen evi ulsen]{lang=sina}
-
-1 [evatte lirne ilte muuvu elnerinu somarri]{lang=sina enc=sinaveldikkoenc}
-2 [Says one: a crown is a human thing.]{lang=en}
-2 [evatte lirne ilte muuvu elnerinu somarri]{lang=sina}
-
-1 [evatte uttes lirne muuvu elnerinu lormis erme leëvi ehii onsa ulnavaho ravattoho]{lang=sina enc=sinaveldikkoenc}
-2 [Says one: so is a roof, and we have sat under one in the rain.]{lang=en}
-2 [evatte uttes lirne muuvu elnerinu lormis erme leëvi ehii onsa ulnavaho ravattoho]{lang=sina}
-
-1 [evatte uttes lirne kessave irnanno vennas iha]{lang=sina enc=sinaveldikkoenc}
-2 [Says one: the makers ask it.]{lang=en}
-2 [evatte uttes lirne kessave irnanno vennas iha]{lang=sina}
-
-1 [evatte irnanno vennas ummes sennel somarri ilte]{lang=sina enc=sinaveldikkoenc}
-2 [Say the makers: one crown over the whole of it,]{lang=en}
-2 [evatte irnanno vennas ummes sennel somarri ilte]{lang=sina}
-
-1 [ovuu pauttes somarriho tupe ovuu eilava]{lang=sina enc=sinaveldikkoenc}
-2 [and let the head be yours, who have the sky;]{lang=en}
-2 [ovuu pauttes somarriho tupe ovuu eilava]{lang=sina}
-
-1 [tupe ehii nelme oso eho polpe ulnavaho]{lang=sina enc=sinaveldikkoenc}
-2 [we will keep the half that is under the ground.]{lang=en}
-2 [tupe ehii nelme oso eho polpe ulnavaho]{lang=sina}
-
-1 [evatte lirne ilte uvi movi pauttes]{lang=sina enc=sinaveldikkoenc}
-2 [Says one: whose head?]{lang=en}
-2 [evatte lirne ilte uvi movi pauttes]{lang=sina}
-
-1 [ukken onsaa evakka evatte onsaa sirne vennas]{lang=sina enc=sinaveldikkoenc}
-2 [Say they names, slowly.]{lang=en}
-2 [ukken onsaa evakka evatte onsaa sirne vennas]{lang=sina}
-
-1 [talmavi onsaa sirne ilte onsa alken vennas tevannitos vennas]{lang=sina enc=sinaveldikkoenc}
-2 [Weigh they each by what its hands have done.]{lang=en}
-2 [talmavi onsaa sirne ilte onsa alken vennas tevannitos vennas]{lang=sina}
-
-1 [evatte onsaa sendeppinno sirne oltandiho osotos ahi eho onsa esoho]{lang=sina enc=sinaveldikkoenc}
-2 [Say they his last, for he is not there to hear it;]{lang=en}
-2 [evatte onsaa sendeppinno sirne oltandiho osotos ahi eho onsa esoho]{lang=sina}
-
-1 [eho onsa ovaikkeho tenvas sulme esoho uulni]{lang=sina enc=sinaveldikkoenc}
-2 [he is at the gate, where the thaw is late.]{lang=en}
-2 [eho onsa ovaikkeho tenvas sulme esoho uulni]{lang=sina}
-
-1 [ahi seimakata onsaa toimunuho ilte oha toimunuho sipes]{lang=sina enc=sinaveldikkoenc}
-2 [Agree they not in the first year, nor the second.]{lang=en}
-2 [ahi seimakata onsaa toimunuho ilte oha toimunuho sipes]{lang=sina}
-
-1 [setty salpukki elnisho oso pelpe sorvel aimettinu]{lang=sina enc=sinaveldikkoenc}
-2 [Stands a sapling where the acorn fell,]{lang=en}
-2 [setty salpukki elnisho oso pelpe sorvel aimettinu]{lang=sina}
-
-1 [vautti onsa nyssetes entel seimakata onsaa]{lang=sina enc=sinaveldikkoenc}
-2 [higher than a child, when they agree,]{lang=en}
-2 [vautti onsa nyssetes entel seimakata onsaa]{lang=sina}
-
-1 [sirne evesi oso seimakata onsaa]{lang=sina enc=sinaveldikkoenc}
-2 [and the word they agree on is a name,]{lang=en}
-2 [sirne evesi oso seimakata onsaa]{lang=sina}
-
-1 [ahi evatte iha olnaro onsa]{lang=sina enc=sinaveldikkoenc}
-2 [and this song does not say it.]{lang=en}
-2 [ahi evatte iha olnaro onsa]{lang=sina}
-
-1 [lonsi lirne ilte ovaikkeho evanni onsa sendeppinno]{lang=sina enc=sinaveldikkoenc}
-2 [Goes one down to the gate to tell him.]{lang=en}
-2 [lonsi lirne ilte ovaikkeho evanni onsa sendeppinno]{lang=sina}
-
-1 [evatte sendeppinno uvi movî]{lang=sina enc=sinaveldikkoenc}
-2 [Says he: who?]{lang=en}
-2 [evatte sendeppinno uvi movî]{lang=sina}
-
-1 [evatte lirne ovu]{lang=sina enc=sinaveldikkoenc}
-2 [Says the one: you.]{lang=en}
-2 [evatte lirne ovu]{lang=sina}
-
-1 [evatte sendeppinno aume aulten sennaveho]{lang=sina enc=sinaveldikkoenc}
-2 [Says he nothing a long while.]{lang=en}
-2 [evatte sendeppinno aume aulten sennaveho]{lang=sina}
-
-1 [ulpes onsa ovaikke ulsen osotos tenvas sulme uulni]{lang=sina enc=sinaveldikkoenc}
-2 [Then goes he back in at the gate, for the thaw is late.]{lang=en}
-2 [ulpes onsa ovaikke ulsen osotos tenvas sulme uulni]{lang=sina}
-
-1 [sendeppi onsa sendeppi ehii]{lang=sina enc=sinaveldikkoenc}
-2 [He stays. We stay.]{lang=en}
-2 [sendeppi onsa sendeppi ehii]{lang=sina}
-
-***
-
-1 [mairel onsa irnanno vennas varraho]{lang=sina enc=sinaveldikkoenc}
-2 [Eats he at the makers' table.]{lang=en}
-2 [mairel onsa irnanno vennas varraho]{lang=sina}
-
-1 [ulpes onsa nerveho oso tenvas aulira]{lang=sina enc=sinaveldikkoenc}
-2 [Goes he in at the face where the light comes,]{lang=en}
-2 [ulpes onsa nerveho oso tenvas aulira]{lang=sina}
-
-1 [leëvi onsa ulsa ellevi neltiho oso terkata irnanno]{lang=sina enc=sinaveldikkoenc}
-2 [sits he on the bench cut for a shorter guest,]{lang=en}
-2 [leëvi onsa ulsa ellevi neltiho oso terkata irnanno]{lang=sina}
-
-1 [penvai onsa onsa paltis vennas elnisho oso eho onsaa elnis]{lang=sina enc=sinaveldikkoenc}
-2 [puts he his knees where they will go.]{lang=en}
-2 [penvai onsa onsa paltis vennas elnisho oso eho onsaa elnis]{lang=sina}
-
-1 [mairel onsa tarnevi oso melti ovaikke ulnava taumel]{lang=sina enc=sinaveldikkoenc}
-2 [Eats he the bread the gate-folk grind.]{lang=en}
-2 [mairel onsa tarnevi oso melti ovaikke ulnava taumel]{lang=sina}
-
-1 [leval onsa oso lermavi irnanno vennas nalduho]{lang=sina enc=sinaveldikkoenc}
-2 [Drinks he what the makers brew in the dark,]{lang=en}
-2 [leval onsa oso lermavi irnanno vennas nalduho]{lang=sina}
-
-1 [serki onsa evatte onsa serki iha leval onsa onsa]{lang=sina enc=sinaveldikkoenc}
-2 [which is bitter, and says so, and drinks it.]{lang=en}
-2 [serki onsa evatte onsa serki iha leval onsa onsa]{lang=sina}
-
-1 [kilteta irnanno vennas ahi hilteta onsaa selnavi]{lang=sina enc=sinaveldikkoenc}
-2 [Laugh the makers, who do not laugh often.]{lang=en}
-2 [kilteta irnanno vennas ahi hilteta onsaa selnavi]{lang=sina}
-
-1 [mairel onsa esoho uulse toimunu ilte]{lang=sina enc=sinaveldikkoenc}
-2 [Eats he there again the next year,]{lang=en}
-2 [mairel onsa esoho uulse toimunu ilte]{lang=sina}
-
-1 [evi uulse uttes toimunu ahi hauve tarnevi uttes]{lang=sina enc=sinaveldikkoenc}
-2 [and the year after, and the bread is the same bread,]{lang=en}
-2 [evi uulse uttes toimunu ahi hauve tarnevi uttes]{lang=sina}
-
-1 [terkata irnanno vennas nelti aulten onsa onsa vonu lertaltos]{lang=sina enc=sinaveldikkoenc}
-2 [and the bench is cut longer.]{lang=en}
-2 [terkata irnanno vennas nelti aulten onsa onsa vonu lertaltos]{lang=sina}
-
-1 [sendeppi onsa sendeppi ehii]{lang=sina enc=sinaveldikkoenc}
-2 [He stays. We stay.]{lang=en}
-2 [sendeppi onsa sendeppi ehii]{lang=sina}
-
-***
-
-1 [tenvas irnanno vennas lantoi vennas leikenho eho muuvu onsaa lantoiho]{lang=sina enc=sinaveldikkoenc}
-2 [Come the makers' boats in the spring with people in them,]{lang=en}
-2 [tenvas irnanno vennas lantoi vennas leikenho eho muuvu onsaa lantoiho]{lang=sina}
-
-1 [peve onsaa hyrre ilte lantoi ilte muuvu elki]{lang=sina enc=sinaveldikkoenc}
-2 [few: a hearth-fire's worth, a boat's worth, twenty.]{lang=en}
-2 [peve onsaa hyrre ilte lantoi ilte muuvu elki]{lang=sina}
-
-1 [tenvas onsaa vaissa onsaa aimetti ovaikke ulnavaho]{lang=sina enc=sinaveldikkoenc}
-2 [Come they to farm below the gate,]{lang=en}
-2 [tenvas onsaa vaissa onsaa aimetti ovaikke ulnavaho]{lang=sina}
-
-1 [tenvas eltes ahi hilpete lirne onsaa]{lang=sina enc=sinaveldikkoenc}
-2 [and come some that nobody sent for,]{lang=en}
-2 [tenvas eltes ahi hilpete lirne onsaa]{lang=sina}
-
-1 [setty onsaa valki lirtyhe kuse valnavi vennas evi nelva vennas]{lang=sina enc=sinaveldikkoenc}
-2 [and stand on the shingle with their bundles and their goats.]{lang=en}
-2 [setty onsaa valki lirtyhe kuse valnavi vennas evi nelva vennas]{lang=sina}
-
-1 [aukkenni onsa onsaa]{lang=sina enc=sinaveldikkoenc}
-2 [Takes he them in.]{lang=en}
-2 [aukkenni onsa onsaa]{lang=sina}
-
-1 [pehe onsa polpe lanteppi vaissasto vennas evi aldis ommotti vaultitos]{lang=sina enc=sinaveldikkoenc}
-2 [Gives he ground: the river fields, the hollow above the ford,]{lang=en}
-2 [pehe onsa polpe lanteppi vaissasto vennas evi aldis ommotti vaultitos]{lang=sina}
-
-1 [lentas oso setty kalpi oso setty onsa onsaatos]{lang=sina enc=sinaveldikkoenc}
-2 [the slope where the birches stand that he stood for.]{lang=en}
-2 [lentas oso setty kalpi oso setty onsa onsaatos]{lang=sina}
-
-1 [ahi raakke onsa rennavi onsaatos]{lang=sina enc=sinaveldikkoenc}
-2 [Takes he no oath of them.]{lang=en}
-2 [ahi raakke onsa rennavi onsaatos]{lang=sina}
-
-1 [ruvas onsa onsaa sirne vennas hyppe onsaa evatte onsa onsaa ummes]{lang=sina enc=sinaveldikkoenc}
-2 [Learns he their names, which are short, and says them whole.]{lang=en}
-2 [ruvas onsa onsaa sirne vennas hyppe onsaa evatte onsa onsaa ummes]{lang=sina}
-
-1 [kessave onsa onsaa uvi mavi ovuu sarnevi evesi senvai onsa evakka]{lang=sina enc=sinaveldikkoenc}
-2 [Asks he their word for bread, and says it wrong,]{lang=en}
-2 [kessave onsa onsaa uvi mavi ovuu sarnevi evesi senvai onsa evakka]{lang=sina}
-
-1 [evatte onsa onsa ulsen ellun avetti onsa evakka kilteta onsaa]{lang=sina enc=sinaveldikkoenc}
-2 [and says it again until it is right, and they laugh,]{lang=en}
-2 [evatte onsa onsa ulsen ellun avetti onsa evakka kilteta onsaa]{lang=sina}
-
-1 [leltu onsa onsaa]{lang=sina enc=sinaveldikkoenc}
-2 [and he lets them.]{lang=en}
-2 [leltu onsa onsaa]{lang=sina}
-
-1 [evatte onsa mairel ovuu ylke ovuu melke]{lang=sina enc=sinaveldikkoenc}
-2 [Says he: eat. You have crossed water.]{lang=en}
-2 [evatte onsa mairel ovuu ylke ovuu melke]{lang=sina}
-
-1 [tenvas uttes muuvu peve leikenho uulse toimunu ilte aukkenni onsa onsaa]{lang=sina enc=sinaveldikkoenc}
-2 [Come more in the next spring, few. Takes he them in.]{lang=en}
-2 [tenvas uttes muuvu peve leikenho uulse toimunu ilte aukkenni onsa onsaa]{lang=sina}
-
-1 [sendeppi onsa sendeppi ehii]{lang=sina enc=sinaveldikkoenc}
-2 [He stays. We stay.]{lang=en}
-2 [sendeppi onsa sendeppi ehii]{lang=sina}
-
-***
-
-1 [terkata ovaikke ulnava taumel naltu ilte salpu]{lang=sina enc=sinaveldikkoenc}
-2 [Cuts one of the gate-folk a tree.]{lang=en}
-2 [terkata ovaikke ulnava taumel naltu ilte salpu]{lang=sina}
-
-1 [terkata onsa eikka leëvi ehii aukkessa vennas onsa ulnavaho eirandi ossendatos]{lang=sina enc=sinaveldikkoenc}
-2 [Cuts he a yew our hearths have sat under since the first night,]{lang=en}
-2 [terkata onsa eikka leëvi ehii aukkessa vennas onsa ulnavaho eirandi ossendatos]{lang=sina}
-
-1 [kaivestos evi onsa veltitos ahi erni onsa iha]{lang=sina enc=sinaveldikkoenc}
-2 [for a bow, for the shape of it, not knowing.]{lang=en}
-2 [kaivestos evi onsa veltitos ahi erni onsa iha]{lang=sina}
-
-1 [tenvas aukkessa vennas leëvistehe tupe onsaa vattel vennas kuse onsaa alken vennas]{lang=sina enc=sinaveldikkoenc}
-2 [Come the hearths to the seat with the branches in their hands.]{lang=en}
-2 [tenvas aukkessa vennas leëvistehe tupe onsaa vattel vennas kuse onsaa alken vennas]{lang=sina}
-
-1 [evatte onsaa taltai ovu ovaikke ulnava taumel senneltos evatte onsaa ummes onsaa]{lang=sina enc=sinaveldikkoenc}
-2 [Say they: put them off the island. Say they: all of them.]{lang=en}
-2 [evatte onsaa taltai ovu ovaikke ulnava taumel senneltos evatte onsaa ummes onsaa]{lang=sina}
-
-1 [evatte onsaa kuse vonu oltandi sěvis]{lang=sina enc=sinaveldikkoenc}
-2 [Say they it in the old pitch, the one for a thing that is finished.]{lang=en}
-2 [evatte onsaa kuse vonu oltandi sěvis]{lang=sina}
-
-1 [hyppe hissel ravellirsa evakkatos]{lang=sina enc=sinaveldikkoenc}
-2 [Easier is it to say nothing.]{lang=en}
-2 [hyppe hissel ravellirsa evakkatos]{lang=sina}
-
-1 [evatte onsa tervi salpu]{lang=sina enc=sinaveldikkoenc}
-2 [Says he: the tree is cut.]{lang=en}
-2 [evatte onsa tervi salpu]{lang=sina}
-
-1 [evatte onsa sendeppi taumel]{lang=sina enc=sinaveldikkoenc}
-2 [Says he: the folk stay.]{lang=en}
-2 [evatte onsa sendeppi taumel]{lang=sina}
-
-1 [evatte onsa erdavi terkatanno pelmi]{lang=sina enc=sinaveldikkoenc}
-2 [Says he: the one who cut it carries the spade.]{lang=en}
-2 [evatte onsa erdavi terkatanno pelmi]{lang=sina}
-
-1 [vaissa sendeppinno salpu sipes elnisho oso eho salpu ilte ennos tupe terkatanno vennavi salpu sipes]{lang=sina enc=sinaveldikkoenc}
-2 [Plants he two where the one was, and the cutter holds them straight,]{lang=en}
-2 [vaissa sendeppinno salpu sipes elnisho oso eho salpu ilte ennos tupe terkatanno vennavi salpu sipes]{lang=sina}
-
-1 [yinse aukkessa vennas iha patten onsaa ninteho kuse vattel vennas]{lang=sina enc=sinaveldikkoenc}
-2 [and the hearths watch him do it, and go home with the branches,]{lang=en}
-2 [yinse aukkessa vennas iha patten onsaa ninteho kuse vattel vennas]{lang=sina}
-
-1 [tupe onsaa vattel vennas tupe tupenno onsaa insu]{lang=sina enc=sinaveldikkoenc}
-2 [and keep them, and they are kept yet.]{lang=en}
-2 [tupe onsaa vattel vennas tupe tupenno onsaa insu]{lang=sina}
-
-1 [sendeppi onsa sendeppi ehii]{lang=sina enc=sinaveldikkoenc}
-2 [He stays. We stay.]{lang=en}
-2 [sendeppi onsa sendeppi ehii]{lang=sina}
-
-***
-
-1 [tupe onsa somarri tupe ellevi ninte]{lang=sina enc=sinaveldikkoenc}
-2 [Holds he the crown as a guest holds a house.]{lang=en}
-2 [tupe onsa somarri tupe ellevi ninte]{lang=sina}
-
-1 [helvanni onsa somarri ovaikkeho kuse onsa rammelorrami]{lang=sina enc=sinaveldikkoenc}
-2 [Hangs he it by the door with his cloak.]{lang=en}
-2 [helvanni onsa somarri ovaikkeho kuse onsa rammelorrami]{lang=sina}
-
-1 [sarmavi onsa polpe ahi venvai onsa polpe]{lang=sina enc=sinaveldikkoenc}
-2 [Sweeps he the floor, which is not his laying.]{lang=en}
-2 [sarmavi onsa polpe ahi venvai onsa polpe]{lang=sina}
-
-1 [pelke onsa lormis elnisho oso ulpes ravatto]{lang=sina enc=sinaveldikkoenc}
-2 [Mends he the roof where it lets the rain in,]{lang=en}
-2 [pelke onsa lormis elnisho oso ulpes ravatto]{lang=sina}
-
-1 [kessave onsa irnanno vennas ennos pelke onsa lormis onsaa lormis onsa]{lang=sina enc=sinaveldikkoenc}
-2 [and asks the makers first, whose roof it is.]{lang=en}
-2 [kessave onsa irnanno vennas ennos pelke onsa lormis onsaa lormis onsa]{lang=sina}
-
-1 [ahi rauttu onsa ralti oso penvai irnanno vennas]{lang=sina enc=sinaveldikkoenc}
-2 [Moves he no stone they set.]{lang=en}
-2 [ahi rauttu onsa ralti oso penvai irnanno vennas]{lang=sina}
-
-1 [ahi serkata onsa salpu oso vaissa ovaikke ulnava taumel]{lang=sina enc=sinaveldikkoenc}
-2 [Cuts he no tree the gate-folk plant,]{lang=en}
-2 [ahi serkata onsa salpu oso vaissa ovaikke ulnava taumel]{lang=sina}
-
-1 [ahi serkata onsa onsa kaivestos oha veltitos]{lang=sina enc=sinaveldikkoenc}
-2 [not for a bow, not for the shape of it.]{lang=en}
-2 [ahi serkata onsa onsa kaivestos oha veltitos]{lang=sina}
-
-1 [leëvi onsa leëvistehe oso terkata irnanno vennas onsatos]{lang=sina enc=sinaveldikkoenc}
-2 [Sits he in the seat the makers cut for him]{lang=en}
-2 [leëvi onsa leëvistehe oso terkata irnanno vennas onsatos]{lang=sina}
-
-1 [entel eho kessari leëvi onsa entel seltai kessari irtal onsa]{lang=sina enc=sinaveldikkoenc}
-2 [when there is a matter, and rises when it is done,]{lang=en}
-2 [entel eho kessari leëvi onsa entel seltai kessari irtal onsa]{lang=sina}
-
-1 [ahi eho lirne leëvistehe teipannu uttes sennalho aulten teipannu]{lang=sina enc=sinaveldikkoenc}
-2 [and the seat is empty the rest of the day, and the day is long.]{lang=en}
-2 [ahi eho lirne leëvistehe teipannu uttes sennalho aulten teipannu]{lang=sina}
-
-1 [kessave lirne uvi nelvata movî sennel]{lang=sina enc=sinaveldikkoenc}
-2 [Asks one whose the island is.]{lang=en}
-2 [kessave lirne uvi nelvata movî sennel]{lang=sina}
-
-1 [evatte onsa kessave ovu sennel]{lang=sina enc=sinaveldikkoenc}
-2 [Says he: ask the island.]{lang=en}
-2 [evatte onsa kessave ovu sennel]{lang=sina}
-
-1 [pavalsa ovaikke lemmes onsa onsa ahi halpe onsa onsa]{lang=sina enc=sinaveldikkoenc}
-2 [Leaves he the door as he finds it: open.]{lang=en}
-2 [pavalsa ovaikke lemmes onsa onsa ahi halpe onsa onsa]{lang=sina}
-
-1 [sendeppi onsa sendeppi ehii]{lang=sina enc=sinaveldikkoenc}
-2 [He stays. We stay.]{lang=en}
-2 [sendeppi onsa sendeppi ehii]{lang=sina}
-
-***
-
-1 [penvai irnanno vennas leësy ovaikketos senval onsa ulpanne]{lang=sina enc=sinaveldikkoenc}
-2 [Lay the makers a road from the gate to the salt.]{lang=en}
-2 [penvai irnanno vennas leësy ovaikketos senval onsa ulpanne]{lang=sina}
-
-1 [penvai onsaa ralti raltiho nauvessi irnanno vennas onsa remis onsaa ralti laukkessarsa]{lang=sina enc=sinaveldikkoenc}
-2 [Lay they it in the makers' way, stone on stone, as the stone lies.]{lang=en}
-2 [penvai onsaa ralti raltiho nauvessi irnanno vennas onsa remis onsaa ralti laukkessarsa]{lang=sina}
-
-1 [sattai onsa irnanno vennas lertisho eho ovaikke ulnava taumel nysse vennas onsa palmisho vennas]{lang=sina enc=sinaveldikkoenc}
-2 [Walks he beside them with the gate-folk's children on his shoulders.]{lang=en}
-2 [sattai onsa irnanno vennas lertisho eho ovaikke ulnava taumel nysse vennas onsa palmisho vennas]{lang=sina}
-
-1 [luuro onsa leësy issalteho kuse hulmi evette luuro ehii kelsa lonku]{lang=sina enc=sinaveldikkoenc}
-2 [Sings he at the bounds of it, low, as we sing to a wood,]{lang=en}
-2 [luuro onsa leësy issalteho kuse hulmi evette luuro ehii kelsa lonku]{lang=sina}
-
-1 [lonsi kalpi vennas leësy ralti issalteho sendeppi onsaa esoho]{lang=sina enc=sinaveldikkoenc}
-2 [and the birches come down to the edge of the stone and stop there]{lang=en}
-2 [lonsi kalpi vennas leësy ralti issalteho sendeppi onsaa esoho]{lang=sina}
-
-1 [tupe onsaa onsa nalleri vennas evi ralti orvessa ahi lerkavi hallesi leësy]{lang=sina enc=sinaveldikkoenc}
-2 [and hold it, root and course, so the frost does not lift it.]{lang=en}
-2 [tupe onsaa onsa nalleri vennas evi ralti orvessa ahi lerkavi hallesi leësy]{lang=sina}
-
-1 [evatte irnanno vennas kousto ralti entel ahi eho iha]{lang=sina enc=sinaveldikkoenc}
-2 [Say the makers: the stone would have held.]{lang=en}
-2 [evatte irnanno vennas kousto ralti entel ahi eho iha]{lang=sina}
-
-1 [evatte onsa tennai iha]{lang=sina enc=sinaveldikkoenc}
-2 [Says he: yes.]{lang=en}
-2 [evatte onsa tennai iha]{lang=sina}
-
-1 [ressa leësy insu elnisho oso ahi eho ovuu leësy]{lang=sina enc=sinaveldikkoenc}
-2 [Runs the road yet where no road of yours runs,]{lang=en}
-2 [ressa leësy insu elnisho oso ahi eho ovuu leësy]{lang=sina}
-
-1 [eso salpu vennas nysse vennas leësy salpu vennas insu]{lang=sina enc=sinaveldikkoenc}
-2 [and the trees along it are the children of those trees.]{lang=en}
-2 [eso salpu vennas nysse vennas leësy salpu vennas insu]{lang=sina}
-
-1 [sendeppi onsa sendeppi ehii]{lang=sina enc=sinaveldikkoenc}
-2 [He stays. We stay.]{lang=en}
-2 [sendeppi onsa sendeppi ehii]{lang=sina}
-
-***
-
-1 [selkorota vonu lerravi nemma enneli selkorota ovaikke ulnava taumel enneli]{lang=sina enc=sinaveldikkoenc}
-2 [Ends the old woman of the loom, as the gate-folk end: soon.]{lang=en}
-2 [selkorota vonu lerravi nemma enneli selkorota ovaikke ulnava taumel enneli]{lang=sina}
-
-1 [leëvi onsa onsa lertisho oltandi ossendaho ninteho oso erdavi erdavinno onsa]{lang=sina enc=sinaveldikkoenc}
-2 [Sits he by her the last night in the house she was carried to,]{lang=en}
-2 [leëvi onsa onsa lertisho oltandi ossendaho ninteho oso erdavi erdavinno onsa]{lang=sina}
-
-1 [eho onsa lerravi varmalho telnisa lorrami lerraviho]{lang=sina enc=sinaveldikkoenc}
-2 [and her loom is in the corner, and the cloth on it is not finished.]{lang=en}
-2 [eho onsa lerravi varmalho telnisa lorrami lerraviho]{lang=sina}
-
-1 [ruvas onsa onsa taumel evesi vennas oso evatte onsaa onsaa olleviho]{lang=sina enc=sinaveldikkoenc}
-2 [Learns he the words her people say over their dead,]{lang=en}
-2 [ruvas onsa onsa taumel evesi vennas oso evatte onsaa onsaa olleviho]{lang=sina}
-
-1 [peve onsaa evatte onsa onsaa kuse taumel roselho]{lang=sina enc=sinaveldikkoenc}
-2 [which are few, and says them with them in the morning,]{lang=en}
-2 [peve onsaa evatte onsa onsaa kuse taumel roselho]{lang=sina}
-
-1 [senvai onsa evakka avetti onsa evakka uulse]{lang=sina enc=sinaveldikkoenc}
-2 [wrong, and then right.]{lang=en}
-2 [senvai onsa evakka avetti onsa evakka uulse]{lang=sina}
-
-1 [ahi selvani onsa lorrami ahi rauttu onsa onsa]{lang=sina enc=sinaveldikkoenc}
-2 [Finishes he not the cloth. Leaves he it as it is.]{lang=en}
-2 [ahi selvani onsa lorrami ahi rauttu onsa onsa]{lang=sina}
-
-1 [leëvi onsa onsa nemmanysse lertisho uulse evi nemmanysse nemmanysse lertisho]{lang=sina enc=sinaveldikkoenc}
-2 [Sits he so with her daughter, after, and with the daughter's daughter,]{lang=en}
-2 [leëvi onsa onsa nemmanysse lertisho uulse evi nemmanysse nemmanysse lertisho]{lang=sina}
-
-1 [selkorota ovaikke ulnava taumel enneli ahi selkorota onsa enneli]{lang=sina enc=sinaveldikkoenc}
-2 [for the gate-folk end quickly, and he does not.]{lang=en}
-2 [selkorota ovaikke ulnava taumel enneli ahi selkorota onsa enneli]{lang=sina}
-
-1 [ahi hessave lirne onsa iha]{lang=sina enc=sinaveldikkoenc}
-2 [Asks nobody it of him.]{lang=en}
-2 [ahi hessave lirne onsa iha]{lang=sina}
-
-1 [sendeppi onsa sendeppi ehii]{lang=sina enc=sinaveldikkoenc}
-2 [He stays. We stay.]{lang=en}
-2 [sendeppi onsa sendeppi ehii]{lang=sina}
-
-***
-
-1 [pavalsa aulveira koldi entel kessave ylpise lirne]{lang=sina enc=sinaveldikkoenc}
-2 [Open stands the hall of [[lore-goddreams|Aulveira]] to the living who ask.]{lang=en}
-2 [pavalsa aulveira koldi entel kessave ylpise lirne]{lang=sina}
-
-1 [ulpes neravanno ovaikkeho oso ansoruta aulveira lennavi onsa esoho]{lang=sina enc=sinaveldikkoenc}
-2 [Goes a lord through the door the god keeps, and is glad there,]{lang=en}
-2 [ulpes neravanno ovaikkeho oso ansoruta aulveira lennavi onsa esoho]{lang=sina}
-
-1 [patten onsa entel kessave lirne kessari vaukka onsa ulsen]{lang=sina enc=sinaveldikkoenc}
-2 [and comes back for the asking of a matter, and goes again,]{lang=en}
-2 [patten onsa entel kessave lirne kessari vaukka onsa ulsen]{lang=sina}
-
-1 [ahi hervanni lirne velnari]{lang=sina enc=sinaveldikkoenc}
-2 [and nobody blames the going.]{lang=en}
-2 [ahi hervanni lirne velnari]{lang=sina}
-
-1 [vaukka neravanno uttes vaukka aukkessa ummes luuro onsa]{lang=sina enc=sinaveldikkoenc}
-2 [Goes a second. Goes a hearth entire, and sings as it goes.]{lang=en}
-2 [vaukka neravanno uttes vaukka aukkessa ummes luuro onsa]{lang=sina}
-
-1 [ahi hessave sendeppinno onsaa uvi sendeppi ovuu]{lang=sina enc=sinaveldikkoenc}
-2 [Asks he none of them to stay.]{lang=en}
-2 [ahi hessave sendeppinno onsaa uvi sendeppi ovuu]{lang=sina}
-
-1 [kessave ovaikke sendeppinno ummes toimunuho vennas kessave onsa ehii ummes]{lang=sina enc=sinaveldikkoenc}
-2 [Asks the door him, every year, as it asks us all.]{lang=en}
-2 [kessave ovaikke sendeppinno ummes toimunuho vennas kessave onsa ehii ummes]{lang=sina}
-
-1 [evatte onsa ahi ulpes ehi insu]{lang=sina enc=sinaveldikkoenc}
-2 [Says he: not yet.]{lang=en}
-2 [evatte onsa ahi ulpes ehi insu]{lang=sina}
-
-1 [evatte onsa iha ummes toimunuho vennas]{lang=sina enc=sinaveldikkoenc}
-2 [Says he it a year and a year.]{lang=en}
-2 [evatte onsa iha ummes toimunuho vennas]{lang=sina}
-
-1 [kauve salpukki elkes ulnavaho olte salpu evatte onsa iha]{lang=sina enc=sinaveldikkoenc}
-2 [Says he it when the sapling under the ash is a tree for shade.]{lang=en}
-2 [kauve salpukki elkes ulnavaho olte salpu evatte onsa iha]{lang=sina}
-
-1 [sendeppi onsa sendeppi ehii]{lang=sina enc=sinaveldikkoenc}
-2 [He stays. We stay.]{lang=en}
-2 [sendeppi onsa sendeppi ehii]{lang=sina}
-
-***
-
-1 [lonsi irnanno vennas onsaa soimu korpersaho]{lang=sina enc=sinaveldikkoenc}
-2 [Go the makers down at the turning of their year.]{lang=en}
-2 [lonsi irnanno vennas onsaa soimu korpersaho]{lang=sina}
-
-1 [lonsi onsaa nalduho koldiho oso ulsa onsa ummes uttes kolditos vennas]{lang=sina enc=sinaveldikkoenc}
-2 [Go they down in the dark to the deepest hall]{lang=en}
-2 [lonsi onsaa nalduho koldiho oso ulsa onsa ummes uttes kolditos vennas]{lang=sina}
-
-1 [telvanita onsaa oso pehe toimu velsar ilte uulse velsar ilte]{lang=sina enc=sinaveldikkoenc}
-2 [and tally what the year gave, measure by measure:]{lang=en}
-2 [telvanita onsaa oso pehe toimu velsar ilte uulse velsar ilte]{lang=sina}
-
-1 [sarnevi aimetti ovaikketos mervel naldutos lorrami seltu]{lang=sina enc=sinaveldikkoenc}
-2 [the grain from the gate, the ore from the dark, the cloth, the salt,]{lang=en}
-2 [sarnevi aimetti ovaikketos mervel naldutos lorrami seltu]{lang=sina}
-
-1 [aulten telvani ulsa hennel vennas aulira ukken telvani]{lang=sina enc=sinaveldikkoenc}
-2 [and it is long, and the lamps are low, and the tally does not hurry.]{lang=en}
-2 [aulten telvani ulsa hennel vennas aulira ukken telvani]{lang=sina}
-
-1 [eilava urtappen sendeppinno ehii selpi onsa]{lang=sina enc=sinaveldikkoenc}
-2 [Is he a creature of the open sky, as we are,]{lang=en}
-2 [eilava urtappen sendeppinno ehii selpi onsa]{lang=sina}
-
-1 [eho nuuvanu onsa naukkisto eilavaho]{lang=sina enc=sinaveldikkoenc}
-2 [with a star over his sleeping.]{lang=en}
-2 [eho nuuvanu onsa naukkisto eilavaho]{lang=sina}
-
-1 [lonsi onsa]{lang=sina enc=sinaveldikkoenc}
-2 [Goes he down.]{lang=en}
-2 [lonsi onsa]{lang=sina}
-
-1 [leëvi onsa ummes telvaniho ummes velsarho vennas]{lang=sina enc=sinaveldikkoenc}
-2 [Sits he the tally through, every measure,]{lang=en}
-2 [leëvi onsa ummes telvaniho ummes velsarho vennas]{lang=sina}
-
-1 [oltandi tylnehe evi oltandi hennelho]{lang=sina enc=sinaveldikkoenc}
-2 [to the last line and the last lamp,]{lang=en}
-2 [oltandi tylnehe evi oltandi hennelho]{lang=sina}
-
-1 [eho tarnevi oso mairel onsa irnanno vennas varraho telvaniho penvai irnanno vennas onsa esoho]{lang=sina enc=sinaveldikkoenc}
-2 [and the bread he ate at their table is in it, where the makers set it,]{lang=en}
-2 [eho tarnevi oso mairel onsa irnanno vennas varraho telvaniho penvai irnanno vennas onsa esoho]{lang=sina}
-
-1 [evi aulten nelti terkatarsa]{lang=sina enc=sinaveldikkoenc}
-2 [beside the cut of the longer bench,]{lang=en}
-2 [evi aulten nelti terkatarsa]{lang=sina}
-
-1 [kelsa onsa telvani ennomi lirne onsa leëvi onsa ovaikkeho leëviste nauvessiho]{lang=sina enc=sinaveldikkoenc}
-2 [and he hears it read, and sits as he sits at the gate,]{lang=en}
-2 [kelsa onsa telvani ennomi lirne onsa leëvi onsa ovaikkeho leëviste nauvessiho]{lang=sina}
-
-1 [irtal onsa nykehe roselho ahi evatte onsa iha]{lang=sina enc=sinaveldikkoenc}
-2 [and comes up into the snow at morning and says nothing of it,]{lang=en}
-2 [irtal onsa nykehe roselho ahi evatte onsa iha]{lang=sina}
-
-1 [lonsi onsa uulse toimunu ilte]{lang=sina enc=sinaveldikkoenc}
-2 [and goes down the next year.]{lang=en}
-2 [lonsi onsa uulse toimunu ilte]{lang=sina}
-
-1 [sendeppi onsa sendeppi ehii]{lang=sina enc=sinaveldikkoenc}
-2 [He stays. We stay.]{lang=en}
-2 [sendeppi onsa sendeppi ehii]{lang=sina}
-
-***
-
-1 [sirneta onsa aume eirandi toimunuho]{lang=sina enc=sinaveldikkoenc}
-2 [Names he nothing in the first year.]{lang=en}
-2 [sirneta onsa aume eirandi toimunuho]{lang=sina}
-
-1 [sattai onsa lanteppi leësyhe aulditos vennas ulpanneho patten onsa]{lang=sina enc=sinaveldikkoenc}
-2 [Walks he the river from the hills to the salt and back]{lang=en}
-2 [sattai onsa lanteppi leësyhe aulditos vennas ulpanneho patten onsa]{lang=sina}
-
-1 [ennos evatte onsa onsa sirne]{lang=sina enc=sinaveldikkoenc}
-2 [before he says what it is.]{lang=en}
-2 [ennos evatte onsa onsa sirne]{lang=sina}
-
-1 [sirneta onsa lanteppi onsa sulme tevannitos]{lang=sina enc=sinaveldikkoenc}
-2 [Names he the river by what it does in the thaw.]{lang=en}
-2 [sirneta onsa lanteppi onsa sulme tevannitos]{lang=sina}
-
-1 [sirneta onsa vaulti ylkennetes vennas]{lang=sina enc=sinaveldikkoenc}
-2 [Names he the ford by who crosses it.]{lang=en}
-2 [sirneta onsa vaulti ylkennetes vennas]{lang=sina}
-
-1 [sirneta onsa aldesse vilkaitos oso ovanne aldesseho]{lang=sina enc=sinaveldikkoenc}
-2 [Names he the pass by the wind that lives in it,]{lang=en}
-2 [sirneta onsa aldesse vilkaitos oso ovanne aldesseho]{lang=sina}
-
-1 [evi ovaikke ulnava aunekke sarnevi levattitos]{lang=sina enc=sinaveldikkoenc}
-2 [and the valley under the gate by the smell of its bread.]{lang=en}
-2 [evi ovaikke ulnava aunekke sarnevi levattitos]{lang=sina}
-
-1 [ahi sirneta onsa elnis lirnetos]{lang=sina enc=sinaveldikkoenc}
-2 [Names he no place for a person.]{lang=en}
-2 [ahi sirneta onsa elnis lirnetos]{lang=sina}
-
-1 [ahi sirneta onsa elnis onsa aivatos]{lang=sina enc=sinaveldikkoenc}
-2 [Names he no place for himself.]{lang=en}
-2 [ahi sirneta onsa elnis onsa aivatos]{lang=sina}
-
-1 [penvai onsa sirne vennas ovaikke ulnava taumel aumelho vennas ukken onsa evakka]{lang=sina enc=sinaveldikkoenc}
-2 [Gives he the names to the gate-folk in their own mouths, slowly,]{lang=en}
-2 [penvai onsa sirne vennas ovaikke ulnava taumel aumelho vennas ukken onsa evakka]{lang=sina}
-
-1 [ellun evatte onsaa sirne vennas kauve sirne vennas uttes evesi vennas ahi sennetti onsa onsaa]{lang=sina enc=sinaveldikkoenc}
-2 [until they can say them, and lets them wear them down.]{lang=en}
-2 [ellun evatte onsaa sirne vennas kauve sirne vennas uttes evesi vennas ahi sennetti onsa onsaa]{lang=sina}
-
-1 [sirneta onsa sorkanda kevu oso hepy onsaa oltandiho]{lang=sina enc=sinaveldikkoenc}
-2 [Names he the three that stand together last of all.]{lang=en}
-2 [sirneta onsa sorkanda kevu oso hepy onsaa oltandiho]{lang=sina}
-
-1 [sattai onsa onsaa ulnavaho ummes rysse ylpirse sennaveho ennos evatte onsa evesi]{lang=sina enc=sinaveldikkoenc}
-2 [Walks he under them a rowan's life before the word,]{lang=en}
-2 [sattai onsa onsaa ulnavaho ummes rysse ylpirse sennaveho ennos evatte onsa evesi]{lang=sina}
-
-1 [evatte onsa onsa evakkaho ilte]{lang=sina enc=sinaveldikkoenc}
-2 [and when he says it, says it once.]{lang=en}
-2 [evatte onsa onsa evakkaho ilte]{lang=sina}
-
-1 [ahi eho onsaa sirne iha olnaroho]{lang=sina enc=sinaveldikkoenc}
-2 [What he names them is not in this song.]{lang=en}
-2 [ahi eho onsaa sirne iha olnaroho]{lang=sina}
-
-1 [eho sennel iha sorkanda kevu evesi insu]{lang=sina enc=sinaveldikkoenc}
-2 [The island has its own word for them now.]{lang=en}
-2 [eho sennel iha sorkanda kevu evesi insu]{lang=sina}
-
-1 [sendeppi onsa sendeppi ehii]{lang=sina enc=sinaveldikkoenc}
-2 [He stays. We stay.]{lang=en}
-2 [sendeppi onsa sendeppi ehii]{lang=sina}
-
-***
-
-1 [kelsa ovuu iha tylne insu iha tylne iha olnaro ernavi]{lang=sina enc=sinaveldikkoenc}
-2 [Hear now the line the song is for.]{lang=en}
-2 [kelsa ovuu iha tylne insu iha tylne iha olnaro ernavi]{lang=sina}
-
-1 [evatte ehii onsa kelsa irnanno vennas sorkanda ulnavaho]{lang=sina enc=sinaveldikkoenc}
-2 [Say we it to the makers, under the mountain,]{lang=en}
-2 [evatte ehii onsa kelsa irnanno vennas sorkanda ulnavaho]{lang=sina}
-
-1 [ovuu oso terkata leëviste evi hennel vennas evi aulten nelti]{lang=sina enc=sinaveldikkoenc}
-2 [you who cut the seat and the lamps and the longer bench,]{lang=en}
-2 [ovuu oso terkata leëviste evi hennel vennas evi aulten nelti]{lang=sina}
-
-1 [ovuu oso ahi hessave iha ahi hessave ovuu iha uulse]{lang=sina enc=sinaveldikkoenc}
-2 [you who have not asked it and will not ask:]{lang=en}
-2 [ovuu oso ahi hessave iha ahi hessave ovuu iha uulse]{lang=sina}
-
-1 [ahi olkai ehii ovuu ovaikketos sulmeho]{lang=sina enc=sinaveldikkoenc}
-2 [we do not go from your gate in the thaw,]{lang=en}
-2 [ahi olkai ehii ovuu ovaikketos sulmeho]{lang=sina}
-
-1 [ahi olkai ehii ovuu varratos auliraho]{lang=sina enc=sinaveldikkoenc}
-2 [nor from your table in the light,]{lang=en}
-2 [ahi olkai ehii ovuu varratos auliraho]{lang=sina}
-
-1 [ahi olkai ehii ovuu vaissastotos vennas entel seltai melke]{lang=sina enc=sinaveldikkoenc}
-2 [nor from your fields when the water fails,]{lang=en}
-2 [ahi olkai ehii ovuu vaissastotos vennas entel seltai melke]{lang=sina}
-
-1 [ahi olkai ehii ovuu telvanitos aulten onsa]{lang=sina enc=sinaveldikkoenc}
-2 [nor from your tally, though it is long.]{lang=en}
-2 [ahi olkai ehii ovuu telvanitos aulten onsa]{lang=sina}
-
-1 [evatte ehii iha setty ehii]{lang=sina enc=sinaveldikkoenc}
-2 [Say we it standing.]{lang=en}
-2 [evatte ehii iha setty ehii]{lang=sina}
-
-1 [evatte ehii iha kelsa ralti tupe onsa oso evatte lirne]{lang=sina enc=sinaveldikkoenc}
-2 [Say we it to the stone, which keeps what is said.]{lang=en}
-2 [evatte ehii iha kelsa ralti tupe onsa oso evatte lirne]{lang=sina}
-
-1 [evatte ehii iha ovaikkeho sulmeho]{lang=sina enc=sinaveldikkoenc}
-2 [Say we it at the gate, in the thaw.]{lang=en}
-2 [evatte ehii iha ovaikkeho sulmeho]{lang=sina}
-
-1 [sendeppi onsa sendeppi ehii]{lang=sina enc=sinaveldikkoenc}
-2 [He stays. We stay.]{lang=en}
-2 [sendeppi onsa sendeppi ehii]{lang=sina}
-
-1 [ahi olkai ehii]{lang=sina enc=sinaveldikkoenc}
-2 [We do not walk away.]{lang=en}
-2 [ahi olkai ehii]{lang=sina}
-
-```
+::: {.verse form=tellame lang=en work=song}
+Hear the deed. Ask not after the doer./
+Comes the doer late in a song, or never./
+Hear, you under the gate, who grind the bread;/
+hear, you hearths by the water;/
+hear, you makers, if the stone carries it down./
+Hear what is done on this island/
+in the years of the one crown,/
+and who does it, ask not. It is done./
+He stays. We stay.
+
+Turn his people from the makers./
+Turn they in every wood, under every sky,/
+on every road where the two peoples pass:/
+speak they not; answer they not;/
+let they the makers go by like weather./
+Turns he not./
+Walks he the road between the two peoples alone,/
+and the grass comes up in it on either side of him./
+Stands he at the makers' gate in the evening./
+Stands he at the makers' gate in the morning./
+Opens the gate, as a gate opens/
+for one it knows the step of./
+Goes he in./
+He stays. We stay.
+
+Ask you how a lord is raised. Hear it./
+Rises the slow river in the thaw/
+over the ford where the gate-folk cross./
+Stands he in it to the waist a day and a night;/
+hands he over the children, and the goats,/
+and the old woman who will not leave her loom,/
+and the loom./
+Climbs the fire in the dry year up the slope toward the birches./
+Stands he between, three days, and sings it low,/
+and the birches stand./
+Fails the gate-folk's water in the hot year./
+Goes he up the mountain alone and asks./
+Comes he down with the makers behind him,/
+and the water comes down after./
+Strays the gate-folk's child into the deep wood in the snow./
+Finds he her, and carries her out, and tells her the wood is not for her,/
+and tells her it kindly, and she does not go in again./
+Says he nothing of any of it./
+Say it the hearths./
+He stays. We stay.
+
+Raise him the hearths, every voice, and no voice first./
+Raises him [Lapurinto]{.name data-type="affiliation/lineage"}, the hearth of the running water./
+Raises him [Kalpinto]{.name data-type="affiliation/lineage"}, the hearth of the pale wood./
+Raises him [Nuuvanto]{.name data-type="affiliation/lineage"}, the hearth of starlight./
+Raises him [Unturonto]{.name data-type="affiliation/lineage"}, the hearth of winter./
+Shout the gate-folk from the field's edge,/
+and are not counted, and are not stopped./
+Raise they him lord in the clear place, at dusk, by the water,/
+and the water says it after them./
+Says he: I asked for none of it./
+Say the hearths: we know./
+He stays. We stay.
+
+Sit the lords of the island to speak of a crown./
+Sit they in the clear place under the ash./
+Speak they a winter. Speak they a summer./
+Falls an acorn where they sit, in the first autumn./
+Speak they on./
+Says one: a crown is a human thing./
+Says one: so is a roof, and we have sat under one in the rain./
+Says one: the makers ask it./
+Say the makers: one crown over the whole of it,/
+and let the head be yours, who have the sky;/
+we will keep the half that is under the ground./
+Says one: whose head?/
+Say they names, slowly./
+Weigh they each by what its hands have done./
+Say they his last, for he is not there to hear it;/
+he is at the gate, where the thaw is late./
+Agree they not in the first year, nor the second./
+Stands a sapling where the acorn fell,/
+higher than a child, when they agree,/
+and the word they agree on is a name,/
+and this song does not say it./
+Goes one down to the gate to tell him./
+Says he: who?/
+Says the one: you./
+Says he nothing a long while./
+Then goes he back in at the gate, for the thaw is late./
+He stays. We stay.
+
+Eats he at the makers' table./
+Goes he in at the face where the light comes,/
+sits he on the bench cut for a shorter guest,/
+puts he his knees where they will go./
+Eats he the bread the gate-folk grind./
+Drinks he what the makers brew in the dark,/
+which is bitter, and says so, and drinks it./
+Laugh the makers, who do not laugh often./
+Eats he there again the next year,/
+and the year after, and the bread is the same bread,/
+and the bench is cut longer./
+He stays. We stay.
+
+Come the makers' boats in the spring with people in them,/
+few: a hearth-fire's worth, a boat's worth, twenty./
+Come they to farm below the gate,/
+and come some that nobody sent for,/
+and stand on the shingle with their bundles and their goats./
+Takes he them in./
+Gives he ground: the river fields, the hollow above the ford,/
+the slope where the birches stand that he stood for./
+Takes he no oath of them./
+Learns he their names, which are short, and says them whole./
+Asks he their word for bread, and says it wrong,/
+and says it again until it is right, and they laugh,/
+and he lets them./
+Says he: eat. You have crossed water./
+Come more in the next spring, few. Takes he them in./
+He stays. We stay.
+
+Cuts one of the gate-folk a tree./
+Cuts he a yew our hearths have sat under since the first night,/
+for a bow, for the shape of it, not knowing./
+Come the hearths to the seat with the branches in their hands./
+Say they: put them off the island. Say they: all of them./
+Say they it in the old pitch, the one for a thing that is finished./
+Easier is it to say nothing./
+Says he: the tree is cut./
+Says he: the folk stay./
+Says he: the one who cut it carries the spade./
+Plants he two where the one was, and the cutter holds them straight,/
+and the hearths watch him do it, and go home with the branches,/
+and keep them, and they are kept yet./
+He stays. We stay.
+
+Holds he the crown as a guest holds a house./
+Hangs he it by the door with his cloak./
+Sweeps he the floor, which is not his laying./
+Mends he the roof where it lets the rain in,/
+and asks the makers first, whose roof it is./
+Moves he no stone they set./
+Cuts he no tree the gate-folk plant,/
+not for a bow, not for the shape of it./
+Sits he in the seat the makers cut for him/
+when there is a matter, and rises when it is done,/
+and the seat is empty the rest of the day, and the day is long./
+Asks one whose the island is./
+Says he: ask the island./
+Leaves he the door as he finds it: open./
+He stays. We stay.
+
+Lay the makers a road from the gate to the salt./
+Lay they it in the makers' way, stone on stone, as the stone lies./
+Walks he beside them with the gate-folk's children on his shoulders./
+Sings he at the bounds of it, low, as we sing to a wood,/
+and the birches come down to the edge of the stone and stop there/
+and hold it, root and course, so the frost does not lift it./
+Say the makers: the stone would have held./
+Says he: yes./
+Runs the road yet where no road of yours runs,/
+and the trees along it are the children of those trees./
+He stays. We stay.
+
+Ends the old woman of the loom, as the gate-folk end: soon./
+Sits he by her the last night in the house she was carried to,/
+and her loom is in the corner, and the cloth on it is not finished./
+Learns he the words her people say over their dead,/
+which are few, and says them with them in the morning,/
+wrong, and then right./
+Finishes he not the cloth. Leaves he it as it is./
+Sits he so with her daughter, after, and with the daughter's daughter,/
+for the gate-folk end quickly, and he does not./
+Asks nobody it of him./
+He stays. We stay.
+
+Open stands the hall of [[lore-goddreams|Aulveira]] to the living who ask./
+Goes a lord through the door the god keeps, and is glad there,/
+and comes back for the asking of a matter, and goes again,/
+and nobody blames the going./
+Goes a second. Goes a hearth entire, and sings as it goes./
+Asks he none of them to stay./
+Asks the door him, every year, as it asks us all./
+Says he: not yet./
+Says he it a year and a year./
+Says he it when the sapling under the ash is a tree for shade./
+He stays. We stay.
+
+Go the makers down at the turning of their year./
+Go they down in the dark to the deepest hall/
+and tally what the year gave, measure by measure:/
+the grain from the gate, the ore from the dark, the cloth, the salt,/
+and it is long, and the lamps are low, and the tally does not hurry./
+Is he a creature of the open sky, as we are,/
+with a star over his sleeping./
+Goes he down./
+Sits he the tally through, every measure,/
+to the last line and the last lamp,/
+and the bread he ate at their table is in it, where the makers set it,/
+beside the cut of the longer bench,/
+and he hears it read, and sits as he sits at the gate,/
+and comes up into the snow at morning and says nothing of it,/
+and goes down the next year./
+He stays. We stay.
+
+Names he nothing in the first year./
+Walks he the river from the hills to the salt and back/
+before he says what it is./
+Names he the river by what it does in the thaw./
+Names he the ford by who crosses it./
+Names he the pass by the wind that lives in it,/
+and the valley under the gate by the smell of its bread./
+Names he no place for a person./
+Names he no place for himself./
+Gives he the names to the gate-folk in their own mouths, slowly,/
+until they can say them, and lets them wear them down./
+Names he the three that stand together last of all./
+Walks he under them a rowan's life before the word,/
+and when he says it, says it once./
+What he names them is not in this song./
+The island has its own word for them now./
+He stays. We stay.
+
+Hear now the line the song is for./
+Say we it to the makers, under the mountain,/
+you who cut the seat and the lamps and the longer bench,/
+you who have not asked it and will not ask:/
+we do not go from your gate in the thaw,/
+nor from your table in the light,/
+nor from your fields when the water fails,/
+nor from your tally, though it is long./
+Say we it standing./
+Say we it to the stone, which keeps what is said./
+Say we it at the gate, in the thaw./
+He stays. We stay./
+We do not walk away.
+:::
+
+::: {.verse form=tellame lang=sina enc=sinaveldikkoenc work=song}
+kelsa ovuu tevanni ahi hessave ovuu tevanninno/
+tenvas tevanninno uulse olnaroho oha ahi senvas onsa/
+kelsa ovuu ovaikke ulnavaho oso melti sarnevi aimetti/
+kelsa aukkessa vennas melkeho/
+kelsa irnanno vennas entel erdavi ralti onsa ralti ulnavaho/
+kelsa ovuu tevanni vennas iha sennelho/
+somarri ilte toimunuho vennas/
+ahi hessave ovuu uvi irna movî iha irna tevanninno onsa/
+sendeppi onsa sendeppi ehii
+
+korpe onsa taumel onsaa ramme vennas irnannotos vennas/
+korpe onsaa onsaa ramme vennas ummes lonkuho vennas ummes eilava vennas ulnavaho/
+ummes leësyhe vennas oso sattai taumel sipes/
+ahi evanni onsaa irnanno vennas ahi vandel onsaa irnanno vennas/
+sannai irnanno vennas sannai eltane/
+ahi horpe onsa onsa ramme/
+sattai onsa leësyhe taumel sipes nervalho iltettu/
+lirta lenti onsa lertisho sipes/
+setty onsa irnanno vennas ovaikkeho oltessaho/
+setty onsa irnanno vennas ovaikkeho roselho/
+paval ovaikke paval onsa/
+entel erni onsa lirne sattairsa/
+ulpes onsa/
+sendeppi onsa sendeppi ehii
+
+kessave ovuu uvi elvata lirne vennas neravanno mavisâ kelsa ovuu/
+irtal lantavo sulmeho/
+vaultiho oso ylke ovaikke ulnava taumel/
+setty onsa melkeho teipannu ilte evi ossenda ilte eho melke onsa varmuho/
+nelmavi onsa nysse vennas evi nelva vennas/
+evi vonu nemma oso ahi olkai onsa lerravi/
+evi lerravi/
+irtal hyrre harsel toimunuho lentasho kalpiho/
+setty onsa nervalho teipannu kevu luuro onsa lonsi hyrre/
+setty kalpi/
+seltai ovaikke ulnava taumel melke ralki toimunuho/
+vaukka onsa sorkandaho iltettu kessave onsa/
+lonsi onsa remis irnanno vennas onsa/
+lonsi melke uulse/
+merni ovaikke ulnava taumel nysse lonkuho nykehe/
+lemmes onsa nysse erdavi onsa onsa lonkutos evatte onsa ahi eho ovu elnis iha lonkuho/
+evanni onsa onsa kuse sovairsa ahi ulpes nysse lonku ulsen/
+ahi evatte onsa iha tevanni vennas/
+evatte aukkessa vennas onsaa/
+sendeppi onsa sendeppi ehii
+
+elvata aukkessa vennas onsa evatte evette vennas ummes ahi eho eirandi evette/
+elvata lapurinto onsa lapuri aukkessa/
+elvata kalpinto onsa halpi aukkessa/
+elvata nuuvanto onsa nuuva aukkessa/
+elvata unturonto onsa unturo aukkessa/
+hilpekilpete ovaikke ulnava taumel vaissasto issalteho/
+telvanita aume onsaa ahi halpe lirne onsaa evakka/
+elvata onsaa onsa neravanno ilevaho oltessaho melkeho/
+evatte melke iha uulse onsaa/
+evatte onsa ahi hessave ehi iha/
+evatte aukkessa vennas erni ehii/
+sendeppi onsa sendeppi ehii
+
+leëvi sennel neravanno vennas evatte onsaa somarritos/
+leëvi onsaa ilevaho elkes ulnavaho/
+evatte onsaa ummes unturoho ilte evatte onsaa ummes autemelho ilte/
+pelpe sorvel aimettinu leëvistehe eirandi vekkanelho/
+evatte onsaa ulsen evi ulsen/
+evatte lirne ilte muuvu elnerinu somarri/
+evatte uttes lirne muuvu elnerinu lormis erme leëvi ehii onsa ulnavaho ravattoho/
+evatte uttes lirne kessave irnanno vennas iha/
+evatte irnanno vennas ummes sennel somarri ilte/
+ovuu pauttes somarriho tupe ovuu eilava/
+tupe ehii nelme oso eho polpe ulnavaho/
+evatte lirne ilte uvi movi pauttes/
+ukken onsaa evakka evatte onsaa sirne vennas/
+talmavi onsaa sirne ilte onsa alken vennas tevannitos vennas/
+evatte onsaa sendeppinno sirne oltandiho osotos ahi eho onsa esoho/
+eho onsa ovaikkeho tenvas sulme esoho uulni/
+ahi seimakata onsaa toimunuho ilte oha toimunuho sipes/
+setty salpukki elnisho oso pelpe sorvel aimettinu/
+vautti onsa nyssetes entel seimakata onsaa/
+sirne evesi oso seimakata onsaa/
+ahi evatte iha olnaro onsa/
+lonsi lirne ilte ovaikkeho evanni onsa sendeppinno/
+evatte sendeppinno uvi movî/
+evatte lirne ovu/
+evatte sendeppinno aume aulten sennaveho/
+ulpes onsa ovaikke ulsen osotos tenvas sulme uulni/
+sendeppi onsa sendeppi ehii
+
+mairel onsa irnanno vennas varraho/
+ulpes onsa nerveho oso tenvas aulira/
+leëvi onsa ulsa ellevi neltiho oso terkata irnanno/
+penvai onsa onsa paltis vennas elnisho oso eho onsaa elnis/
+mairel onsa tarnevi oso melti ovaikke ulnava taumel/
+leval onsa oso lermavi irnanno vennas nalduho/
+serki onsa evatte onsa serki iha leval onsa onsa/
+kilteta irnanno vennas ahi hilteta onsaa selnavi/
+mairel onsa esoho uulse toimunu ilte/
+evi uulse uttes toimunu ahi hauve tarnevi uttes/
+terkata irnanno vennas nelti aulten onsa onsa vonu lertaltos/
+sendeppi onsa sendeppi ehii
+
+tenvas irnanno vennas lantoi vennas leikenho eho muuvu onsaa lantoiho/
+peve onsaa hyrre ilte lantoi ilte muuvu elki/
+tenvas onsaa vaissa onsaa aimetti ovaikke ulnavaho/
+tenvas eltes ahi hilpete lirne onsaa/
+setty onsaa valki lirtyhe kuse valnavi vennas evi nelva vennas/
+aukkenni onsa onsaa/
+pehe onsa polpe lanteppi vaissasto vennas evi aldis ommotti vaultitos/
+lentas oso setty kalpi oso setty onsa onsaatos/
+ahi raakke onsa rennavi onsaatos/
+ruvas onsa onsaa sirne vennas hyppe onsaa evatte onsa onsaa ummes/
+kessave onsa onsaa uvi mavi ovuu sarnevi evesi senvai onsa evakka/
+evatte onsa onsa ulsen ellun avetti onsa evakka kilteta onsaa/
+leltu onsa onsaa/
+evatte onsa mairel ovuu ylke ovuu melke/
+tenvas uttes muuvu peve leikenho uulse toimunu ilte aukkenni onsa onsaa/
+sendeppi onsa sendeppi ehii
+
+terkata ovaikke ulnava taumel naltu ilte salpu/
+terkata onsa eikka leëvi ehii aukkessa vennas onsa ulnavaho eirandi ossendatos/
+kaivestos evi onsa veltitos ahi erni onsa iha/
+tenvas aukkessa vennas leëvistehe tupe onsaa vattel vennas kuse onsaa alken vennas/
+evatte onsaa taltai ovu ovaikke ulnava taumel senneltos evatte onsaa ummes onsaa/
+evatte onsaa kuse vonu oltandi sěvis/
+hyppe hissel ravellirsa evakkatos/
+evatte onsa tervi salpu/
+evatte onsa sendeppi taumel/
+evatte onsa erdavi terkatanno pelmi/
+vaissa sendeppinno salpu sipes elnisho oso eho salpu ilte ennos tupe terkatanno vennavi salpu sipes/
+yinse aukkessa vennas iha patten onsaa ninteho kuse vattel vennas/
+tupe onsaa vattel vennas tupe tupenno onsaa insu/
+sendeppi onsa sendeppi ehii
+
+tupe onsa somarri tupe ellevi ninte/
+helvanni onsa somarri ovaikkeho kuse onsa rammelorrami/
+sarmavi onsa polpe ahi venvai onsa polpe/
+pelke onsa lormis elnisho oso ulpes ravatto/
+kessave onsa irnanno vennas ennos pelke onsa lormis onsaa lormis onsa/
+ahi rauttu onsa ralti oso penvai irnanno vennas/
+ahi serkata onsa salpu oso vaissa ovaikke ulnava taumel/
+ahi serkata onsa onsa kaivestos oha veltitos/
+leëvi onsa leëvistehe oso terkata irnanno vennas onsatos/
+entel eho kessari leëvi onsa entel seltai kessari irtal onsa/
+ahi eho lirne leëvistehe teipannu uttes sennalho aulten teipannu/
+kessave lirne uvi nelvata movî sennel/
+evatte onsa kessave ovu sennel/
+pavalsa ovaikke lemmes onsa onsa ahi halpe onsa onsa/
+sendeppi onsa sendeppi ehii
+
+penvai irnanno vennas leësy ovaikketos senval onsa ulpanne/
+penvai onsaa ralti raltiho nauvessi irnanno vennas onsa remis onsaa ralti laukkessarsa/
+sattai onsa irnanno vennas lertisho eho ovaikke ulnava taumel nysse vennas onsa palmisho vennas/
+luuro onsa leësy issalteho kuse hulmi evette luuro ehii kelsa lonku/
+lonsi kalpi vennas leësy ralti issalteho sendeppi onsaa esoho/
+tupe onsaa onsa nalleri vennas evi ralti orvessa ahi lerkavi hallesi leësy/
+evatte irnanno vennas kousto ralti entel ahi eho iha/
+evatte onsa tennai iha/
+ressa leësy insu elnisho oso ahi eho ovuu leësy/
+eso salpu vennas nysse vennas leësy salpu vennas insu/
+sendeppi onsa sendeppi ehii
+
+selkorota vonu lerravi nemma enneli selkorota ovaikke ulnava taumel enneli/
+leëvi onsa onsa lertisho oltandi ossendaho ninteho oso erdavi erdavinno onsa/
+eho onsa lerravi varmalho telnisa lorrami lerraviho/
+ruvas onsa onsa taumel evesi vennas oso evatte onsaa onsaa olleviho/
+peve onsaa evatte onsa onsaa kuse taumel roselho/
+senvai onsa evakka avetti onsa evakka uulse/
+ahi selvani onsa lorrami ahi rauttu onsa onsa/
+leëvi onsa onsa nemmanysse lertisho uulse evi nemmanysse nemmanysse lertisho/
+selkorota ovaikke ulnava taumel enneli ahi selkorota onsa enneli/
+ahi hessave lirne onsa iha/
+sendeppi onsa sendeppi ehii
+
+pavalsa aulveira koldi entel kessave ylpise lirne/
+ulpes neravanno ovaikkeho oso ansoruta aulveira lennavi onsa esoho/
+patten onsa entel kessave lirne kessari vaukka onsa ulsen/
+ahi hervanni lirne velnari/
+vaukka neravanno uttes vaukka aukkessa ummes luuro onsa/
+ahi hessave sendeppinno onsaa uvi sendeppi ovuu/
+kessave ovaikke sendeppinno ummes toimunuho vennas kessave onsa ehii ummes/
+evatte onsa ahi ulpes ehi insu/
+evatte onsa iha ummes toimunuho vennas/
+kauve salpukki elkes ulnavaho olte salpu evatte onsa iha/
+sendeppi onsa sendeppi ehii
+
+lonsi irnanno vennas onsaa soimu korpersaho/
+lonsi onsaa nalduho koldiho oso ulsa onsa ummes uttes kolditos vennas/
+telvanita onsaa oso pehe toimu velsar ilte uulse velsar ilte/
+sarnevi aimetti ovaikketos mervel naldutos lorrami seltu/
+aulten telvani ulsa hennel vennas aulira ukken telvani/
+eilava urtappen sendeppinno ehii selpi onsa/
+eho nuuvanu onsa naukkisto eilavaho/
+lonsi onsa/
+leëvi onsa ummes telvaniho ummes velsarho vennas/
+oltandi tylnehe evi oltandi hennelho/
+eho tarnevi oso mairel onsa irnanno vennas varraho telvaniho penvai irnanno vennas onsa esoho/
+evi aulten nelti terkatarsa/
+kelsa onsa telvani ennomi lirne onsa leëvi onsa ovaikkeho leëviste nauvessiho/
+irtal onsa nykehe roselho ahi evatte onsa iha/
+lonsi onsa uulse toimunu ilte/
+sendeppi onsa sendeppi ehii
+
+sirneta onsa aume eirandi toimunuho/
+sattai onsa lanteppi leësyhe aulditos vennas ulpanneho patten onsa/
+ennos evatte onsa onsa sirne/
+sirneta onsa lanteppi onsa sulme tevannitos/
+sirneta onsa vaulti ylkennetes vennas/
+sirneta onsa aldesse vilkaitos oso ovanne aldesseho/
+evi ovaikke ulnava aunekke sarnevi levattitos/
+ahi sirneta onsa elnis lirnetos/
+ahi sirneta onsa elnis onsa aivatos/
+penvai onsa sirne vennas ovaikke ulnava taumel aumelho vennas ukken onsa evakka/
+ellun evatte onsaa sirne vennas kauve sirne vennas uttes evesi vennas ahi sennetti onsa onsaa/
+sirneta onsa sorkanda kevu oso hepy onsaa oltandiho/
+sattai onsa onsaa ulnavaho ummes rysse ylpirse sennaveho ennos evatte onsa evesi/
+evatte onsa onsa evakkaho ilte/
+ahi eho onsaa sirne iha olnaroho/
+eho sennel iha sorkanda kevu evesi insu/
+sendeppi onsa sendeppi ehii
+
+kelsa ovuu iha tylne insu iha tylne iha olnaro ernavi/
+evatte ehii onsa kelsa irnanno vennas sorkanda ulnavaho/
+ovuu oso terkata leëviste evi hennel vennas evi aulten nelti/
+ovuu oso ahi hessave iha ahi hessave ovuu iha uulse/
+ahi olkai ehii ovuu ovaikketos sulmeho/
+ahi olkai ehii ovuu varratos auliraho/
+ahi olkai ehii ovuu vaissastotos vennas entel seltai melke/
+ahi olkai ehii ovuu telvanitos aulten onsa/
+evatte ehii iha setty ehii/
+evatte ehii iha kelsa ralti tupe onsa oso evatte lirne/
+evatte ehii iha ovaikkeho sulmeho/
+sendeppi onsa sendeppi ehii/
+ahi olkai ehii
+:::
 
 ## See Also
 

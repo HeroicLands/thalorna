@@ -41,23 +41,19 @@ One of them, [[lore-seventowers|The Seven Towers]], stands in the makers' halls 
 
 : We Do Not Build
 
-```verse {form=elegy numstep=5 cols=2}
-1 [ahi maskari ehii ahi meëve ehii onsa maskari lonku aiva]{lang=sina enc=sinaveldikkoenc}
-2 [We do not build. We have never wished to; the forest builds itself,]{lang=en}
-2 [ahi maskari ehii ahi meëve ehii onsa maskari lonku aiva]{lang=sina}
+::: {.verse form=elegy lang=en work=aelirosse-1}
+We do not build. We have never wished to; the forest builds itself,/
+.and what we make we sing, and what we sing does not fall down./
+But we stood a long while in those ways and said nothing,/
+.and among us there is no higher praise than that.
+:::
 
-1 [.luuro ehii ilnava ahi velpe ehii olnaro]{lang=sina enc=sinaveldikkoenc}
-2 [.and what we make we sing, and what we sing does not fall down.]{lang=en}
-2 [.luuro ehii ilnava ahi velpe ehii olnaro]{lang=sina}
-
-1 [alte setty ehii aulten sennave eso leësyhe hissel ehii]{lang=sina enc=sinaveldikkoenc}
-2 [But we stood a long while in those ways and said nothing,]{lang=en}
-2 [alte setty ehii aulten sennave eso leësyhe hissel ehii]{lang=sina}
-
-1 [.ahi eho aldis tellame hisseltos ehiiho]{lang=sina enc=sinaveldikkoenc}
-2 [.and among us there is no higher praise than that.]{lang=en}
-2 [.ahi eho aldis tellame hisseltos ehiiho]{lang=sina}
-```
+::: {.verse form=elegy lang=sina enc=sinaveldikkoenc work=aelirosse-1}
+ahi maskari ehii ahi meëve ehii onsa maskari lonku aiva/
+.luuro ehii ilnava ahi velpe ehii olnaro/
+alte setty ehii aulten sennave eso leësyhe hissel ehii/
+.ahi eho aldis tellame hisseltos ehiiho
+:::
 
 Whether the [[place-sourimael|Sóurimel]] villagers a half-day west understand what they live beside is a
 matter on which the Sinale have never been asked and the Áelendan decline to speculate.

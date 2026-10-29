@@ -1629,6 +1629,41 @@ data:
       field: Numbers and grammar words
       gloss: "the article for what is the listener's"
       source: {kind: worn, form: thesos}
+    - form: ol
+      class: part
+      field: Numbers and grammar words
+      gloss: "of; set after the noun it belongs to, and before a pronoun to make a possessive"
+      source: {kind: inherited, form: ol}
+    - form: fir
+      class: part
+      field: Numbers and grammar words
+      gloss: "to; toward a destination"
+      source: {kind: inherited, form: fir}
+      concept: [toward, to]
+    - form: fos
+      class: part
+      field: Numbers and grammar words
+      gloss: "out; outside; beyond; from a source"
+      source: {kind: inherited, form: fos}
+      concept: [outside, beyond]
+    - form: sa
+      class: part
+      field: Numbers and grammar words
+      gloss: "as; like; as when"
+      source: {kind: inherited, form: sa}
+      concept: [like, as]
+    - form: ves
+      class: part
+      field: Numbers and grammar words
+      gloss: "or; and, after a comparison, than"
+      source: {kind: inherited, form: ves}
+      concept: or
+    - form: zai
+      class: conj
+      field: Numbers and grammar words
+      gloss: "if; introduces a condition"
+      source: {kind: inherited, form: zai}
+      concept: if
     - form: at
       class: art
       field: Numbers and grammar words
@@ -7050,6 +7085,35 @@ data:
       field: Vine, field and river
       gloss: a ford; a shallow place where a river can be crossed on foot
       source: {kind: coined}
+    - form: melzore
+      class: n m
+      field: Love and its conduct
+      gloss: "sweetheart; the endearment a lover is called by"
+      source: {kind: coined}
+      built: [melze, netore]
+    - form: ankermele
+      class: adj
+      field: Craft and the workshop
+      gloss: mended; made whole again after damage
+      source: {kind: coined}
+      built: [ankermate]
+    - form: zarnate
+      class: v
+      field: Doing, going and being
+      gloss: to refuse; to turn away what is asked or offered
+      source: {kind: coined}
+    - form: zolmedara
+      class: n f
+      field: The gods and the hearth
+      gloss: "the Bountiful One; the harvest goddess's epithet"
+      source: {kind: coined}
+      built: [zolmedare]
+    - form: anseva
+      class: n f
+      field: Patron and client
+      gloss: "a woman friend; a woman one stands by as a friend, without the patronage"
+      source: {kind: coined}
+      built: [anseve]
   icon: icon-speaking
   templatePriority: null
   packFolder: language
@@ -7165,6 +7229,8 @@ data:
       - {edge: openCluster, sounds: [pr, pl, tr, kr, kl, br, bl, dr, gr, gl, fr, fl, thr]}
       - {edge: closeConsonant, sounds: [l, n, r, s, th]}
     clusters: {max: 3}
+    stress: {two: first, longer: first, mark: acute}
+    syllables: {vowelPairs: [ai, ei, oi, au, eu, ou]}
   tongues:
     - {tag: provenzal, meaning: a Provenzal name}
     - {tag: translation, meaning: a name given in the language of these pages}

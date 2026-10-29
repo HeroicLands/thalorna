@@ -45,55 +45,35 @@ Some sayen she was a kunning woman out of the forest edge. that had kome down fo
 
 : The Three Bans {#three-bans}
 
-```verse {form=bans numstep=5 cols=2}
-1 [Three things. child. thou shalt not do.]{enc=aelwsemaronenc lang=aelw}
-2 [There are three things you must not do, child,]{lang=en}
-2 [Three things. child. thou shalt not do.]{lang=aelw}
+::: {.verse form=bans lang=en work=three-bans}
+There are three things you must not do, child,/
+As long as you do none of them, your days will go well:/
+Do not pass the stone at the wide crossroads/
+Without leaving bread beside the stone;/
+Do not refuse a portion set before you/
+By a lord at his table, whoever he may be;/
+Do not cross the water toward the sunrise/
+While candles burn at nightfall./
+Keep all three bans, and the ford is yours,/
+And you will hold it, you and your descendants;/
+Break all three bans, and the ford is yours,/
+And it will hold you, and none of your descendants.
+:::
 
-1 [While none is done. thy days shall run true.]{enc=aelwsemaronenc lang=aelw}
-2 [As long as you do none of them, your days will go well:]{lang=en}
-2 [While none is done. thy days shall run true.]{lang=aelw}
-
-1 [Pass not the stone at the krossroads wide]{enc=aelwsemaronenc lang=aelw}
-2 [Do not pass the stone at the wide crossroads]{lang=en}
-2 [Pass not the stone at the krossroads wide]{lang=aelw}
-
-1 [And leave no bread at the stonees side.]{enc=aelwsemaronenc lang=aelw}
-2 [Without leaving bread beside the stone;]{lang=en}
-2 [And leave no bread at the stonees side.]{lang=aelw}
-
-1 [Refuse no portion set for thee]{enc=aelwsemaronenc lang=aelw}
-2 [Do not refuse a portion set before you]{lang=en}
-2 [Refuse no portion set for thee]{lang=aelw}
-
-1 [By lord at board. whoever he may be.]{enc=aelwsemaronenc lang=aelw}
-2 [By a lord at his table, whoever he may be;]{lang=en}
-2 [By lord at board. whoever he may be.]{lang=aelw}
-
-1 [Kross not the water toward dayes first light]{enc=aelwsemaronenc lang=aelw}
-2 [Do not cross the water toward the sunrise]{lang=en}
-2 [Kross not the water toward dayes first light]{lang=aelw}
-
-1 [When kandles burnen at fall of night.]{enc=aelwsemaronenc lang=aelw}
-2 [While candles burn at nightfall.]{lang=en}
-2 [When kandles burnen at fall of night.]{lang=aelw}
-
-1 [Keep the three. and the ford is thine.]{enc=aelwsemaronenc lang=aelw}
-2 [Keep all three bans, and the ford is yours,]{lang=en}
-2 [Keep the three. and the ford is thine.]{lang=aelw}
-
-1 [And thou shalt hold it. thou and thy line.]{enc=aelwsemaronenc lang=aelw}
-2 [And you will hold it, you and your descendants;]{lang=en}
-2 [And thou shalt hold it. thou and thy line.]{lang=aelw}
-
-1 [Break the three. and the ford is thine.]{enc=aelwsemaronenc lang=aelw}
-2 [Break all three bans, and the ford is yours,]{lang=en}
-2 [Break the three. and the ford is thine.]{lang=aelw}
-
-1 [And it shall hold thee. and no man of thine.]{enc=aelwsemaronenc lang=aelw}
-2 [And it will hold you, and none of your descendants.]{lang=en}
-2 [And it shall hold thee. and no man of thine.]{lang=aelw}
-```
+::: {.verse form=bans lang=aelw enc=aelwsemaronenc work=three-bans}
+Three things. child. thou shalt not do./
+While none is done. thy days shall run true./
+Pass not the stone at the krossroads wide/
+And leave no bread at the stonees side./
+Refuse no portion set for thee/
+By lord at board. whoever he may be./
+Kross not the water toward dayes first light/
+When kandles burnen at fall of night./
+Keep the three. and the ford is thine./
+And thou shalt hold it. thou and thy line./
+Break the three. and the ford is thine./
+And it shall hold thee. and no man of thine.
+:::
 
 ::: {lang=aelw font=serif}
 
@@ -113,55 +93,35 @@ The knight made his boast. of his horse and his koat and the kinges wars. and it
 
 : Harmund's Boast {#harmunds-boast}
 
-```verse {form=boast numstep=5 cols=2}
-1 [I have no horse. I stand upon my feet.]{enc=aelwsemaronenc lang=aelw}
-2 [I have no horse; I stand upon my feet.]{lang=en}
-2 [I have no horse. I stand upon my feet.]{lang=aelw}
+::: {.verse form=boast lang=en work=harmunds-boast}
+I have no horse; I stand upon my feet./
+I have only a wool coat against the sleet./
+I did not go to any king's war; the war came here,/
+And stood in Koldford water every year,/
+And every year it went back to the wood./
+Ask your steward where my steadings stood:/
+He has them in his book, and every one/
+Still stands, and has a fire, and has a son./
+I did not kill a Grukar alone in the dark;/
+I killed them in daylight, in front of my own people./
+Give me the meat, my lord, or do not give it to me:/
+The ford is defended, whatever I receive.
+:::
 
-1 [I have no koat but wool against the sleet.]{enc=aelwsemaronenc lang=aelw}
-2 [I have only a wool coat against the sleet.]{lang=en}
-2 [I have no koat but wool against the sleet.]{lang=aelw}
-
-1 [I went to no kinges war. the war kame here.]{enc=aelwsemaronenc lang=aelw}
-2 [I did not go to any king's war; the war came here,]{lang=en}
-2 [I went to no kinges war. the war kame here.]{lang=aelw}
-
-1 [And stood in Koldford water every year.]{enc=aelwsemaronenc lang=aelw}
-2 [And stood in Koldford water every year,]{lang=en}
-2 [And stood in Koldford water every year.]{lang=aelw}
-
-1 [And every year it went bak to the wood.]{enc=aelwsemaronenc lang=aelw}
-2 [And every year it went back to the wood.]{lang=en}
-2 [And every year it went bak to the wood.]{lang=aelw}
-
-1 [Ask of thy steward where my steadings stood.]{enc=aelwsemaronenc lang=aelw}
-2 [Ask your steward where my steadings stood:]{lang=en}
-2 [Ask of thy steward where my steadings stood.]{lang=aelw}
-
-1 [He hath them in his book. and every one]{enc=aelwsemaronenc lang=aelw}
-2 [He has them in his book, and every one]{lang=en}
-2 [He hath them in his book. and every one]{lang=aelw}
-
-1 [Still standeth. hath a fire. and hath a son.]{enc=aelwsemaronenc lang=aelw}
-2 [Still stands, and has a fire, and has a son.]{lang=en}
-2 [Still standeth. hath a fire. and hath a son.]{lang=aelw}
-
-1 [I slew no Grukar in the dark alone.]{enc=aelwsemaronenc lang=aelw}
-2 [I did not kill a Grukar alone in the dark;]{lang=en}
-2 [I slew no Grukar in the dark alone.]{lang=aelw}
-
-1 [I slew them in the day. before my own.]{enc=aelwsemaronenc lang=aelw}
-2 [I killed them in daylight, in front of my own people.]{lang=en}
-2 [I slew them in the day. before my own.]{lang=aelw}
-
-1 [Give me the meat. my lord. or give it not.]{enc=aelwsemaronenc lang=aelw}
-2 [Give me the meat, my lord, or do not give it to me:]{lang=en}
-2 [Give me the meat. my lord. or give it not.]{lang=aelw}
-
-1 [The ford is held. whatever I have got.]{enc=aelwsemaronenc lang=aelw}
-2 [The ford is defended, whatever I receive.]{lang=en}
-2 [The ford is held. whatever I have got.]{lang=aelw}
-```
+::: {.verse form=boast lang=aelw enc=aelwsemaronenc work=harmunds-boast}
+I have no horse. I stand upon my feet./
+I have no koat but wool against the sleet./
+I went to no kinges war. the war kame here./
+And stood in Koldford water every year./
+And every year it went bak to the wood./
+Ask of thy steward where my steadings stood./
+He hath them in his book. and every one/
+Still standeth. hath a fire. and hath a son./
+I slew no Grukar in the dark alone./
+I slew them in the day. before my own./
+Give me the meat. my lord. or give it not./
+The ford is held. whatever I have got.
+:::
 
 ::: {lang=aelw font=serif}
 
@@ -189,39 +149,27 @@ His sisteres son kame bak into the water and drew him out. and the Grukar stood 
 
 : Harmund's Last Command {#last-command}
 
-```verse {form=command numstep=5 cols=2}
-1 [Take off my head. boy. Do it now. and klean.]{enc=aelwsemaronenc lang=aelw}
-2 [Take off my head, boy. Do it now, and cleanly.]{lang=en}
-2 [Take off my head. boy. Do it now. and klean.]{lang=aelw}
+::: {.verse form=command lang=en work=last-command}
+Take off my head, boy. Do it now, and cleanly./
+I cannot keep the ford, and they have seen/
+Me fall; but if they see me still watching,/
+They will stay on that bank. They will stay there./
+Set it upon a stake by the water's side,/
+Facing the wood, and let the wood wait;/
+Feed me with bread, and I will keep the ford./
+Do it, and do not weep. Do it, and take my sword.
+:::
 
-1 [I kannot keep the ford. they haven seen]{enc=aelwsemaronenc lang=aelw}
-2 [I cannot keep the ford, and they have seen]{lang=en}
-2 [I kannot keep the ford. they haven seen]{lang=aelw}
-
-1 [Me fall. but if they seen me watching still.]{enc=aelwsemaronenc lang=aelw}
-2 [Me fall; but if they see me still watching,]{lang=en}
-2 [Me fall. but if they seen me watching still.]{lang=aelw}
-
-1 [On yonder bank they will stand. stand they will.]{enc=aelwsemaronenc lang=aelw}
-2 [They will stay on that bank. They will stay there.]{lang=en}
-2 [On yonder bank they will stand. stand they will.]{lang=aelw}
-
-1 [Set it upon a stake by the wateres side.]{enc=aelwsemaronenc lang=aelw}
-2 [Set it upon a stake by the water's side,]{lang=en}
-2 [Set it upon a stake by the wateres side.]{lang=aelw}
-
-1 [Fasing the wood. and let the wood abide.]{enc=aelwsemaronenc lang=aelw}
-2 [Facing the wood, and let the wood wait;]{lang=en}
-2 [Fasing the wood. and let the wood abide.]{lang=aelw}
-
-1 [Feed me with bread. and I will keep the ford.]{enc=aelwsemaronenc lang=aelw}
-2 [Feed me with bread, and I will keep the ford.]{lang=en}
-2 [Feed me with bread. and I will keep the ford.]{lang=aelw}
-
-1 [Do it. and weep not. Do it. and take my sword.]{enc=aelwsemaronenc lang=aelw}
-2 [Do it, and do not weep. Do it, and take my sword.]{lang=en}
-2 [Do it. and weep not. Do it. and take my sword.]{lang=aelw}
-```
+::: {.verse form=command lang=aelw enc=aelwsemaronenc work=last-command}
+Take off my head. boy. Do it now. and klean./
+I kannot keep the ford. they haven seen/
+Me fall. but if they seen me watching still./
+On yonder bank they will stand. stand they will./
+Set it upon a stake by the wateres side./
+Fasing the wood. and let the wood abide./
+Feed me with bread. and I will keep the ford./
+Do it. and weep not. Do it. and take my sword.
+:::
 
 ::: {lang=aelw font=serif}
 
@@ -233,77 +181,49 @@ Seven winters it stood there. They brought it bread every day. as Harmund had br
 
 : The Head Guards the Ford {#head-guards-ford}
 
-```verse {form=song-of-the-head numstep=5 cols=2}
-1 [I see thee. wood. thou hast not got the ford.]{enc=aelwsemaronenc lang=aelw}
-2 [I see you, wood; you have not got the ford.]{lang=en}
-2 [I see thee. wood. thou hast not got the ford.]{lang=aelw}
+::: {.verse form=song-of-the-head lang=en work=head-guards-ford}
+I see you, wood; you have not got the ford./
+I see the fires you kindle in the trees./
+I have no hands to hold a shield or sword;/
+I have my eyes, and I am none of these.
 
-1 [I see the fires thou kindlest in the trees.]{enc=aelwsemaronenc lang=aelw}
-2 [I see the fires you kindle in the trees.]{lang=en}
-2 [I see the fires thou kindlest in the trees.]{lang=aelw}
+Come down, and I will name you to your face;/
+Come to the ford, and I will count you once more./
+I was a man, and I belonged to this place;/
+I am the place, and now I am nothing more.
 
-1 [I have no hands to hold a shield or sword.]{enc=aelwsemaronenc lang=aelw}
-2 [I have no hands to hold a shield or sword;]{lang=en}
-2 [I have no hands to hold a shield or sword.]{lang=aelw}
+The steadings sleep behind me in the dark./
+There are six fires. I count them every night./
+I hear the dog in each one wake and bark,/
+And go to sleep again, as well they might.
 
-1 [I have mine eyes. and I am none of these.]{enc=aelwsemaronenc lang=aelw}
-2 [I have my eyes, and I am none of these.]{lang=en}
-2 [I have mine eyes. and I am none of these.]{lang=aelw}
+You have the deer, the bog, the hill, the fell;/
+You have the march from here to the cold sea;/
+You have the farms the steward cannot count./
+You do not have this water or these six steadings. Look.
+:::
 
-***
+::: {.verse form=song-of-the-head lang=aelw enc=aelwsemaronenc work=head-guards-ford}
+I see thee. wood. thou hast not got the ford./
+I see the fires thou kindlest in the trees./
+I have no hands to hold a shield or sword./
+I have mine eyes. and I am none of these.
 
-1 [Kome down. and I will name thee to thy fase.]{enc=aelwsemaronenc lang=aelw}
-2 [Come down, and I will name you to your face;]{lang=en}
-2 [Kome down. and I will name thee to thy fase.]{lang=aelw}
+Kome down. and I will name thee to thy fase./
+Kome to the ford. I will kount thee onse more./
+I was a man. and I was of this plase./
+I am the plase. and now I am naught more.
 
-1 [Kome to the ford. I will kount thee onse more.]{enc=aelwsemaronenc lang=aelw}
-2 [Come to the ford, and I will count you once more.]{lang=en}
-2 [Kome to the ford. I will kount thee onse more.]{lang=aelw}
+Steadings sleepen behind me in the dark./
+Their fires ben siks. I kount them every night./
+I hear the dog in each one wake and bark./
+And go to sleep again. as well they might.
 
-1 [I was a man. and I was of this plase.]{enc=aelwsemaronenc lang=aelw}
-2 [I was a man, and I belonged to this place;]{lang=en}
-2 [I was a man. and I was of this plase.]{lang=aelw}
-
-1 [I am the plase. and now I am naught more.]{enc=aelwsemaronenc lang=aelw}
-2 [I am the place, and now I am nothing more.]{lang=en}
-2 [I am the plase. and now I am naught more.]{lang=aelw}
-
-***
-
-1 [Steadings sleepen behind me in the dark.]{enc=aelwsemaronenc lang=aelw}
-2 [The steadings sleep behind me in the dark.]{lang=en}
-2 [Steadings sleepen behind me in the dark.]{lang=aelw}
-
-1 [Their fires ben siks. I kount them every night.]{enc=aelwsemaronenc lang=aelw}
-2 [There are six fires. I count them every night.]{lang=en}
-2 [Their fires ben siks. I kount them every night.]{lang=aelw}
-
-1 [I hear the dog in each one wake and bark.]{enc=aelwsemaronenc lang=aelw}
-2 [I hear the dog in each one wake and bark,]{lang=en}
-2 [I hear the dog in each one wake and bark.]{lang=aelw}
-
-1 [And go to sleep again. as well they might.]{enc=aelwsemaronenc lang=aelw}
-2 [And go to sleep again, as well they might.]{lang=en}
-2 [And go to sleep again. as well they might.]{lang=aelw}
-
-***
-
-1 [Thou hast the deer. the bog. the hill. the fell.]{enc=aelwsemaronenc lang=aelw}
-2 [You have the deer, the bog, the hill, the fell;]{lang=en}
-2 [Thou hast the deer. the bog. the hill. the fell.]{lang=aelw}
-
-1 [Thou hast the march from here to the kold sea.]{enc=aelwsemaronenc lang=aelw}
-2 [You have the march from here to the cold sea;]{lang=en}
-2 [Thou hast the march from here to the kold sea.]{lang=aelw}
-
-1 [Thou hast the farms the steward kannot tell.]{enc=aelwsemaronenc lang=aelw}
-2 [You have the farms the steward cannot count.]{lang=en}
-2 [Thou hast the farms the steward kannot tell.]{lang=aelw}
-
-1 [This water and these siks thou hast not. See.]{enc=aelwsemaronenc lang=aelw}
-2 [You do not have this water or these six steadings. Look.]{lang=en}
-2 [This water and these siks thou hast not. See.]{lang=aelw}
-```
+Thou hast the deer. the bog. the hill. the fell./
+Thou hast the march from here to the kold sea./
+Thou hast the farms the steward kannot tell./
+This water and these siks thou hast not. See.
+:::
 
 ::: {lang=aelw font=serif}
 
@@ -321,59 +241,39 @@ And the head looked past him at the people of the steadings. and at the siks fir
 
 : The Head Hears the Gate {#head-hears-gate}
 
-```verse {form=song-of-the-head numstep=5 cols=2}
-1 [I hear the gate. I heard it from the first.]{enc=aelwsemaronenc lang=aelw}
-2 [I hear the gate. I heard it from the first,]{lang=en}
-2 [I hear the gate. I heard it from the first.]{lang=aelw}
+::: {.verse form=song-of-the-head lang=en work=head-hears-gate}
+I hear the gate. I heard it from the first,/
+Behind me, standing open, without sound./
+It never calls. It is in no hurry and has no thirst./
+It has waited seven years without giving ground.
 
-1 [Behind me. standing open. without sound.]{enc=aelwsemaronenc lang=aelw}
-2 [Behind me, standing open, without sound.]{lang=en}
-2 [Behind me. standing open. without sound.]{lang=aelw}
+No one guards a ford forever. Mine has been guarded/
+For seven winters since I was due at the gate./
+Tell the six fires I watched them while they slept,/
+And tell the stone about the bread I owe it too.
 
-1 [It kalleth never. hath no haste nor thirst.]{enc=aelwsemaronenc lang=aelw}
-2 [It never calls. It is in no hurry and has no thirst.]{lang=en}
-2 [It kalleth never. hath no haste nor thirst.]{lang=aelw}
+Speak my name for me, priest. Say it clearly and slowly,/
+And all the names of Koldford after mine./
+Then lay me with the steadings' dead below,/
+And turn my face west, toward the setting sun.
+:::
 
-1 [Seven years it hath waited. and given no ground.]{enc=aelwsemaronenc lang=aelw}
-2 [It has waited seven years without giving ground.]{lang=en}
-2 [Seven years it hath waited. and given no ground.]{lang=aelw}
+::: {.verse form=song-of-the-head lang=aelw enc=aelwsemaronenc work=head-hears-gate}
+I hear the gate. I heard it from the first./
+Behind me. standing open. without sound./
+It kalleth never. hath no haste nor thirst./
+Seven years it hath waited. and given no ground.
 
-***
+No man keepeth a ford for aye. Mine is kept/
+Seven winters past the time the gate was due./
+Tell the siks fires I watched them while they slept./
+And tell the stone the bread I owe it too.
 
-1 [No man keepeth a ford for aye. Mine is kept]{enc=aelwsemaronenc lang=aelw}
-2 [No one guards a ford forever. Mine has been guarded]{lang=en}
-2 [No man keepeth a ford for aye. Mine is kept]{lang=aelw}
-
-1 [Seven winters past the time the gate was due.]{enc=aelwsemaronenc lang=aelw}
-2 [For seven winters since I was due at the gate.]{lang=en}
-2 [Seven winters past the time the gate was due.]{lang=aelw}
-
-1 [Tell the siks fires I watched them while they slept.]{enc=aelwsemaronenc lang=aelw}
-2 [Tell the six fires I watched them while they slept,]{lang=en}
-2 [Tell the siks fires I watched them while they slept.]{lang=aelw}
-
-1 [And tell the stone the bread I owe it too.]{enc=aelwsemaronenc lang=aelw}
-2 [And tell the stone about the bread I owe it too.]{lang=en}
-2 [And tell the stone the bread I owe it too.]{lang=aelw}
-
-***
-
-1 [Speak me my name. priest. Speak it plain and slow.]{enc=aelwsemaronenc lang=aelw}
-2 [Speak my name for me, priest. Say it clearly and slowly,]{lang=en}
-2 [Speak me my name. priest. Speak it plain and slow.]{lang=aelw}
-
-1 [And all the names of Koldford after mine.]{enc=aelwsemaronenc lang=aelw}
-2 [And all the names of Koldford after mine.]{lang=en}
-2 [And all the names of Koldford after mine.]{lang=aelw}
-
-1 [Then lay me with the steadingses dead below.]{enc=aelwsemaronenc lang=aelw}
-2 [Then lay me with the steadings' dead below,]{lang=en}
-2 [Then lay me with the steadingses dead below.]{lang=aelw}
-
-1 [And turn my fase to the west. to the sunes dekline.]{enc=aelwsemaronenc lang=aelw}
-2 [And turn my face west, toward the setting sun.]{lang=en}
-2 [And turn my fase to the west. to the sunes dekline.]{lang=aelw}
-```
+Speak me my name. priest. Speak it plain and slow./
+And all the names of Koldford after mine./
+Then lay me with the steadingses dead below./
+And turn my fase to the west. to the sunes dekline.
+:::
 
 ::: {lang=aelw font=serif}
 

@@ -80,6 +80,18 @@ test("declared finite forms support the prescribed present paradigms without mod
         assert(!all.has(form), `${form} conflicts with the prescribed present standard`);
 });
 
+/** The lines of the Aelwythi verse divs in `samples`, without their line-end marks. */
+const aelwythiVerseLines = (samples) => {
+    const lines = [];
+    let inside = false;
+    for (const line of samples.split("\n")) {
+        if (/^::: \{\.verse\b[^}]*\blang=aelw\b[^}]*\}$/.test(line)) inside = true;
+        else if (line === ":::") inside = false;
+        else if (inside && line) lines.push(line.replace(/\/$/, ""));
+    }
+    return lines;
+};
+
 test("the illustrative sample words retain their reviewed form", () => {
     const samples = raw
         .split(/### Sample passages(?: \{#[^}]+\})?\n/)[1]
@@ -111,11 +123,9 @@ test("the illustrative sample words retain their reviewed form", () => {
     ];
     const actual = samples
         .split("\n")
-        .filter((line) => line.startsWith("> ") || /^2 \[.*\]\{lang=aelw\}$/.test(line))
-        .map((line) => [
-            line.startsWith("> "),
-            line.startsWith("> ") ? line.slice(2) : line.slice(3, -12),
-        ]);
+        .filter((line) => line.startsWith("> "))
+        .map((line) => [true, line.slice(2)])
+        .concat(aelwythiVerseLines(samples).map((line) => [false, line]));
     assert.deepEqual(
         actual,
         reviewed.map(([prose, current]) => [prose, respellText(current)]),
@@ -202,7 +212,7 @@ test("the reviewed verse retains eight syllables and each rhyming couplet", () =
     const samples = raw
         .split(/### Sample passages(?: \{#[^}]+\})?\n/)[1]
         .split("\n## Naming Traditions")[0];
-    const lines = samples.split("\n").filter((line) => /^2 \[.*\]\{lang=aelw\}$/.test(line));
+    const lines = aelwythiVerseLines(samples);
     assert.equal(lines.length, 8);
     // Lexical counts follow the unchanged pronunciation guide and the two declared contractions.
     const longer = new Map([
@@ -218,15 +228,13 @@ test("the reviewed verse retains eight syllables and each rhyming couplet", () =
         ["beside", 2],
     ]);
     for (const line of lines) {
-        const syllables = [
-            ...line
-                .slice(3, -12)
-                .toLowerCase()
-                .matchAll(/[a-z]+(?:'[a-z]+)?/g),
-        ].reduce((sum, [word]) => sum + (longer.get(word) ?? 1), 0);
+        const syllables = [...line.toLowerCase().matchAll(/[a-z]+(?:'[a-z]+)?/g)].reduce(
+            (sum, [word]) => sum + (longer.get(word) ?? 1),
+            0,
+        );
         assert.equal(syllables, 8, line);
     }
-    const endWords = lines.map((line) => line.slice(3, -12).match(/([a-z]+)[.;,]?$/i)[1]);
+    const endWords = lines.map((line) => line.match(/([a-z]+)[.;,]?$/i)[1]);
     for (const [pair, rhyme] of ["ound", "eep", "ate", "ide"].entries()) {
         assert(endWords[pair * 2].endsWith(rhyme));
         assert(endWords[pair * 2 + 1].endsWith(rhyme));

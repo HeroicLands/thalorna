@@ -23,987 +23,587 @@ For a bone. You say it with the splint in your hand and the bast in your teeth, 
 
 : The first charm, for a bone {#bone}
 
-```verse {form=vreld lang=en cols=2 numstep=5}
-1 [Feor bren. Thri malwen hem mi brenwul inwe wethan virwe werdrith inwe tend. Eom renwen. Samri howra marwen virwe hundar.]{lang=varo enc=varosemaronenc}
-2 [For bone. Speak with splint in hand and bast between teeth. Once. The same over man and dog.]{lang=en}
-2 [Feor bren. Thri malwen hem mi brenwul inwe wethan virwe werdrith inwe tend. Eom renwen. Samri howra marwen virwe hundar.]{lang=varo}
+::: {.verse form=vreld lang=en work=bone}
+For bone. Speak with splint in hand and bast between teeth. Once. The same over man and dog./
+Boar bites oak/
+in old forest./
+Breaks tusk in bark./
+Leaves with one./
+Oak gives it back./
+He sets it. It holds.
 
-1 [Barsk bewtha eikra]{lang=varo enc=varosemaronenc}
-2 [Boar bites oak]{lang=en}
-2 [Barsk bewtha eikra]{lang=varo}
+Bone to bone./
+Bark to break./
+Bast above. Bast beneath./
+Above and beneath./
+Three turns. Knot./
+Do not pull it straight./
+Set it where it lies./
+Oak has it now./
+Hold knot awhile./
+Let it go.
+:::
 
-1 [inwe forni woldra.]{lang=varo enc=varosemaronenc}
-2 [in old forest.]{lang=en}
-2 [inwe forni woldra.]{lang=varo}
+::: {.verse form=vreld lang=varo enc=varosemaronenc work=bone}
+Feor bren. Thri malwen hem mi brenwul inwe wethan virwe werdrith inwe tend. Eom renwen. Samri howra marwen virwe hundar./
+Barsk bewtha eikra/
+inwe forni woldra./
+Hem brekwa tusk inwe werhul./
+Hem wenga fran hewra mi eom./
+Eikra selra hem rewa./
+Hem ladra hem. Hem halwen.
 
-1 [Hem brekwa tusk inwe werhul.]{lang=varo enc=varosemaronenc}
-2 [Breaks tusk in bark.]{lang=en}
-2 [Hem brekwa tusk inwe werhul.]{lang=varo}
-
-1 [Hem wenga fran hewra mi eom.]{lang=varo enc=varosemaronenc}
-2 [Leaves with one.]{lang=en}
-2 [Hem wenga fran hewra mi eom.]{lang=varo}
-
-1 [Eikra selra hem rewa.]{lang=varo enc=varosemaronenc}
-2 [Oak gives it back.]{lang=en}
-2 [Eikra selra hem rewa.]{lang=varo}
-
-1 [Hem ladra hem. Hem halwen.]{lang=varo enc=varosemaronenc}
-2 [He sets it. It holds.]{lang=en}
-2 [Hem ladra hem. Hem halwen.]{lang=varo}
-
-***
-1 [Bren ter bren.]{lang=varo enc=varosemaronenc}
-2 [Bone to bone.]{lang=en}
-2 [Bren ter bren.]{lang=varo}
-
-1 [Werhul ter brekwa.]{lang=varo enc=varosemaronenc}
-2 [Bark to break.]{lang=en}
-2 [Werhul ter brekwa.]{lang=varo}
-
-1 [Werdrith howra. Werdrith nivre.]{lang=varo enc=varosemaronenc}
-2 [Bast above. Bast beneath.]{lang=en}
-2 [Werdrith howra. Werdrith nivre.]{lang=varo}
-
-1 [Howra virwe nivre.]{lang=varo enc=varosemaronenc}
-2 [Above and beneath.]{lang=en}
-2 [Howra virwe nivre.]{lang=varo}
-
-1 [Threm wendren. Drethen.]{lang=varo enc=varosemaronenc}
-2 [Three turns. Knot.]{lang=en}
-2 [Threm wendren. Drethen.]{lang=varo}
-
-1 [Na drewra hem samri wegra.]{lang=varo enc=varosemaronenc}
-2 [Do not pull it straight.]{lang=en}
-2 [Na drewra hem samri wegra.]{lang=varo}
-
-1 [Ladra hem et sta er legwe.]{lang=varo enc=varosemaronenc}
-2 [Set it where it lies.]{lang=en}
-2 [Ladra hem et sta er legwe.]{lang=varo}
-
-1 [Eikra harve hem nuwa.]{lang=varo enc=varosemaronenc}
-2 [Oak has it now.]{lang=en}
-2 [Eikra harve hem nuwa.]{lang=varo}
-
-1 [Halwen drethen wail.]{lang=varo enc=varosemaronenc}
-2 [Hold knot awhile.]{lang=en}
-2 [Halwen drethen wail.]{lang=varo}
-
-1 [Farwe hem.]{lang=varo enc=varosemaronenc}
-2 [Let it go.]{lang=en}
-2 [Farwe hem.]{lang=varo}
-```
+Bren ter bren./
+Werhul ter brekwa./
+Werdrith howra. Werdrith nivre./
+Howra virwe nivre./
+Threm wendren. Drethen./
+Na drewra hem samri wegra./
+Ladra hem et sta er legwe./
+Eikra harve hem nuwa./
+Halwen drethen wail./
+Farwe hem.
+:::
 
 For a crossing. You say it on the bank with the pole in your hands, and whoever is with you says it too. Never in the water.
 
 : The second charm, for a crossing {#crossing}
 
-```verse {form=vreld lang=en cols=2 numstep=5}
-1 [Feor twerwe. Thri malwen hem orwe raldra mi skarwen inwe wethan. Mawen mi thri malwen hem owren. Nawen renwen inwe watra.]{lang=varo enc=varosemaronenc}
-2 [For crossing. Speak on bank with staff in hands. Your companion speaks too. Never in water.]{lang=en}
-2 [Feor twerwe. Thri malwen hem orwe raldra mi skarwen inwe wethan. Mawen mi thri malwen hem owren. Nawen renwen inwe watra.]{lang=varo}
+::: {.verse form=vreld lang=en work=crossing}
+For crossing. Speak on bank with staff in hands. Your companion speaks too. Never in water./
+Bear crosses/
+at ford in old thaw./
+Pine across her mouth./
+Ford goes. Pine does not./
+She holds it. Comes up./
+Continues.
 
-1 [Brokan wenga twerwe]{lang=varo enc=varosemaronenc}
-2 [Bear crosses]{lang=en}
-2 [Brokan wenga twerwe]{lang=varo}
+Staff upstream. Lean./
+Cross at ford./
+Never below./
+Feet at stones./
+Old way. Stone to stone./
+Face water. Side toward it./
+If you fall, go with staff./
+Running breaks it.
+:::
 
-1 [et hreth inwe forni wathra.]{lang=varo enc=varosemaronenc}
-2 [at ford in old thaw.]{lang=en}
-2 [et hreth inwe forni wathra.]{lang=varo}
+::: {.verse form=vreld lang=varo enc=varosemaronenc work=crossing}
+Feor twerwe. Thri malwen hem orwe raldra mi skarwen inwe wethan. Mawen mi thri malwen hem owren. Nawen renwen inwe watra./
+Brokan wenga twerwe/
+et hreth inwe forni wathra./
+Verel twerwe madr er hem./
+Hreth wenga. Verel na wenga./
+Hem halwen hem. Hem komwe howen./
+Hem framwe.
 
-1 [Verel twerwe madr er hem.]{lang=varo enc=varosemaronenc}
-2 [Pine across her mouth.]{lang=en}
-2 [Verel twerwe madr er hem.]{lang=varo}
-
-1 [Hreth wenga. Verel na wenga.]{lang=varo enc=varosemaronenc}
-2 [Ford goes. Pine does not.]{lang=en}
-2 [Hreth wenga. Verel na wenga.]{lang=varo}
-
-1 [Hem halwen hem. Hem komwe howen.]{lang=varo enc=varosemaronenc}
-2 [She holds it. Comes up.]{lang=en}
-2 [Hem halwen hem. Hem komwe howen.]{lang=varo}
-
-1 [Hem framwe.]{lang=varo enc=varosemaronenc}
-2 [Continues.]{lang=en}
-2 [Hem framwe.]{lang=varo}
-
-***
-1 [Skarwen howen ruvith. Helwa orwe hem.]{lang=varo enc=varosemaronenc}
-2 [Staff upstream. Lean.]{lang=en}
-2 [Skarwen howen ruvith. Helwa orwe hem.]{lang=varo}
-
-1 [Wenga twerwe et hreth.]{lang=varo enc=varosemaronenc}
-2 [Cross at ford.]{lang=en}
-2 [Wenga twerwe et hreth.]{lang=varo}
-
-1 [Nawen renwen nivre hem.]{lang=varo enc=varosemaronenc}
-2 [Never below.]{lang=en}
-2 [Nawen renwen nivre hem.]{lang=varo}
-
-1 [Fendar et stenra.]{lang=varo enc=varosemaronenc}
-2 [Feet at stones.]{lang=en}
-2 [Fendar et stenra.]{lang=varo}
-
-1 [Forni wegra. Stenra ter stenra.]{lang=varo enc=varosemaronenc}
-2 [Old way. Stone to stone.]{lang=en}
-2 [Forni wegra. Stenra ter stenra.]{lang=varo}
-
-1 [Husra watra. Salra ter hem.]{lang=varo enc=varosemaronenc}
-2 [Face water. Side toward it.]{lang=en}
-2 [Husra watra. Salra ter hem.]{lang=varo}
-
-1 [Ivwe thri falwe. Wenga mi skarwen.]{lang=varo enc=varosemaronenc}
-2 [If you fall, go with staff.]{lang=en}
-2 [Ivwe thri falwe. Wenga mi skarwen.]{lang=varo}
-
-1 [Renwe brekwa hem.]{lang=varo enc=varosemaronenc}
-2 [Running breaks it.]{lang=en}
-2 [Renwe brekwa hem.]{lang=varo}
-```
+Skarwen howen ruvith. Helwa orwe hem./
+Wenga twerwe et hreth./
+Nawen renwen nivre hem./
+Fendar et stenra./
+Forni wegra. Stenra ter stenra./
+Husra watra. Salra ter hem./
+Ivwe thri falwe. Wenga mi skarwen./
+Renwe brekwa hem.
+:::
 
 For a fever. The fever asks questions. You say this over the sick one and you answer nothing it asks. If it goes three days, send for the Shaman.
 
 : The third charm, for a fever {#fever}
 
-```verse {form=vreld lang=en cols=2 numstep=5}
-1 [Feor suler er sulwarth. Suler frawna. Thri malwen eith howra sulra mawen. Thri na andwa welri frawren. Ivwe hem harve threm dagren. Warwa Weskwar.]{lang=varo enc=varosemaronenc}
-2 [For fever. Sickness asks. Speak this above the sick person. Answer no question. If it lasts three days, call Shaman.]{lang=en}
-2 [Feor suler er sulwarth. Suler frawna. Thri malwen eith howra sulra mawen. Thri na andwa welri frawren. Ivwe hem harve threm dagren. Warwa Weskwar.]{lang=varo}
+::: {.verse form=vreld lang=en work=fever}
+For fever. Sickness asks. Speak this above the sick person. Answer no question. If it lasts three days, call Shaman./
+Vethwin goes under./
+First Shaman./
+Voice there has word for her./
+She rises with both hands empty.
 
-1 [Vethwin wenga nivre.]{lang=varo enc=varosemaronenc}
-2 [Vethwin goes under.]{lang=en}
-2 [Vethwin wenga nivre.]{lang=varo}
+Cold cloth to brow./
+Cup to mouth./
+If it asks who at door./
+Say: Nobody. Hold cup./
+If it asks dead by name./
+Say: Drink. Hold cup./
+If it asks what comes./
+Say nothing. Wash brow./
+Wring water out.
+:::
 
-1 [Rend eom er Weskwar.]{lang=varo enc=varosemaronenc}
-2 [First Shaman.]{lang=en}
-2 [Rend eom er Weskwar.]{lang=varo}
+::: {.verse form=vreld lang=varo enc=varosemaronenc work=fever}
+Feor suler er sulwarth. Suler frawna. Thri malwen eith howra sulra mawen. Thri na andwa welri frawren. Ivwe hem harve threm dagren. Warwa Weskwar./
+Vethwin wenga nivre./
+Rend eom er Weskwar./
+Waru theora harve malwa feor hem./
+Hem komwe howen mi thewen wethan mandri.
 
-1 [Waru theora harve malwa feor hem.]{lang=varo enc=varosemaronenc}
-2 [Voice there has word for her.]{lang=en}
-2 [Waru theora harve malwa feor hem.]{lang=varo}
-
-1 [Hem komwe howen mi thewen wethan mandri.]{lang=varo enc=varosemaronenc}
-2 [She rises with both hands empty.]{lang=en}
-2 [Hem komwe howen mi thewen wethan mandri.]{lang=varo}
-
-***
-1 [Kalri wefra ter hreweth.]{lang=varo enc=varosemaronenc}
-2 [Cold cloth to brow.]{lang=en}
-2 [Kalri wefra ter hreweth.]{lang=varo}
-
-1 [Drulma ter madr.]{lang=varo enc=varosemaronenc}
-2 [Cup to mouth.]{lang=en}
-2 [Drulma ter madr.]{lang=varo}
-
-1 [Ivwe hem frawna heir et durwen.]{lang=varo enc=varosemaronenc}
-2 [If it asks who at door.]{lang=en}
-2 [Ivwe hem frawna heir et durwen.]{lang=varo}
-
-1 [Malwen. Nawen mawen. Halwen drulma.]{lang=varo enc=varosemaronenc}
-2 [Say: Nobody. Hold cup.]{lang=en}
-2 [Malwen. Nawen mawen. Halwen drulma.]{lang=varo}
-
-1 [Ivwe hem frawna wredri mi nefren.]{lang=varo enc=varosemaronenc}
-2 [If it asks dead by name.]{lang=en}
-2 [Ivwe hem frawna wredri mi nefren.]{lang=varo}
-
-1 [Malwen. Drul. Halwen drulma.]{lang=varo enc=varosemaronenc}
-2 [Say: Drink. Hold cup.]{lang=en}
-2 [Malwen. Drul. Halwen drulma.]{lang=varo}
-
-1 [Ivwe hem frawna denger er komwe.]{lang=varo enc=varosemaronenc}
-2 [If it asks what comes.]{lang=en}
-2 [Ivwe hem frawna denger er komwe.]{lang=varo}
-
-1 [Malwen nawen. Helwen hreweth.]{lang=varo enc=varosemaronenc}
-2 [Say nothing. Wash brow.]{lang=en}
-2 [Malwen nawen. Helwen hreweth.]{lang=varo}
-
-1 [Wrestha watra utwe.]{lang=varo enc=varosemaronenc}
-2 [Wring water out.]{lang=en}
-2 [Wrestha watra utwe.]{lang=varo}
-```
+Kalri wefra ter hreweth./
+Drulma ter madr./
+Ivwe hem frawna heir et durwen./
+Malwen. Nawen mawen. Halwen drulma./
+Ivwe hem frawna wredri mi nefren./
+Malwen. Drul. Halwen drulma./
+Ivwe hem frawna denger er komwe./
+Malwen nawen. Helwen hreweth./
+Wrestha watra utwe.
+:::
 
 For the night. The one who has broken nothing today lays the ash. That is usually you. You say it as you lay it, and you do not say it twice.
 
 : The fourth charm, for the night {#night}
 
-```verse {form=vreld lang=en cols=2 numstep=5}
-1 [Feor nathra. Mawen na brekwa denger et dagren eith ladra frenna. Merwen renwen hem thum thri. Thri malwen inwe ladra. Thri na malwen thei renwen.]{lang=varo enc=varosemaronenc}
-2 [For night. Whoever breaks nothing today lays ash. Often you. Speak while laying. Do not speak twice.]{lang=en}
-2 [Feor nathra. Mawen na brekwa denger et dagren eith ladra frenna. Merwen renwen hem thum thri. Thri malwen inwe ladra. Thri na malwen thei renwen.]{lang=varo}
+::: {.verse form=vreld lang=en work=night}
+For night. Whoever breaks nothing today lays ash. Often you. Speak while laying. Do not speak twice./
+Three come around hearth./
+In old forest. Hungry./
+Around and around./
+Child lays ash./
+Child owes them nothing./
+They circle until morning./
+Around is all they have.
 
-1 [Threm komwe runder sta er gloth.]{lang=varo enc=varosemaronenc}
-2 [Three come around hearth.]{lang=en}
-2 [Threm komwe runder sta er gloth.]{lang=varo}
+Bank fire. Cover./
+Take ash while warm./
+Grey. Never black./
+Left hand. Door-post to other./
+Around wall. Around beds./
+Around sick person./
+Close at post./
+Do not cross afterward./
+Lie down./
+If scratching at wall./
+It is scratching at wall./
+If a foot on roof./
+It is a foot on roof./
+Do not rise for it./
+Ash is laid./
+At morning sweep outside./
+Through door. Onto path./
+Do not watch its way.
+:::
 
-1 [Inwe forni woldra. Mi melfren.]{lang=varo enc=varosemaronenc}
-2 [In old forest. Hungry.]{lang=en}
-2 [Inwe forni woldra. Mi melfren.]{lang=varo}
+::: {.verse form=vreld lang=varo enc=varosemaronenc work=night}
+Feor nathra. Mawen na brekwa denger et dagren eith ladra frenna. Merwen renwen hem thum thri. Thri malwen inwe ladra. Thri na malwen thei renwen./
+Threm komwe runder sta er gloth./
+Inwe forni woldra. Mi melfren./
+Runder virwe runder./
+Othil ladra frenna./
+Othil harve nawen skuldren ter hemwen./
+Hemwen wenga runder ter merga./
+Runder thum awen harven er hemwen.
 
-1 [Runder virwe runder.]{lang=varo enc=varosemaronenc}
-2 [Around and around.]{lang=en}
-2 [Runder virwe runder.]{lang=varo}
-
-1 [Othil ladra frenna.]{lang=varo enc=varosemaronenc}
-2 [Child lays ash.]{lang=en}
-2 [Othil ladra frenna.]{lang=varo}
-
-1 [Othil harve nawen skuldren ter hemwen.]{lang=varo enc=varosemaronenc}
-2 [Child owes them nothing.]{lang=en}
-2 [Othil harve nawen skuldren ter hemwen.]{lang=varo}
-
-1 [Hemwen wenga runder ter merga.]{lang=varo enc=varosemaronenc}
-2 [They circle until morning.]{lang=en}
-2 [Hemwen wenga runder ter merga.]{lang=varo}
-
-1 [Runder thum awen harven er hemwen.]{lang=varo enc=varosemaronenc}
-2 [Around is all they have.]{lang=en}
-2 [Runder thum awen harven er hemwen.]{lang=varo}
-
-***
-1 [Swefra glarth. Hulra hem.]{lang=varo enc=varosemaronenc}
-2 [Bank fire. Cover.]{lang=en}
-2 [Swefra glarth. Hulra hem.]{lang=varo}
-
-1 [Nemra frenna inwe mawi warthi.]{lang=varo enc=varosemaronenc}
-2 [Take ash while warm.]{lang=en}
-2 [Nemra frenna inwe mawi warthi.]{lang=varo}
-
-1 [Grilri. Nawen renwen swarthi.]{lang=varo enc=varosemaronenc}
-2 [Grey. Never black.]{lang=en}
-2 [Grilri. Nawen renwen swarthi.]{lang=varo}
-
-1 [Lither wethan. Wersteld er durwen ter andwen.]{lang=varo enc=varosemaronenc}
-2 [Left hand. Door-post to other.]{lang=en}
-2 [Lither wethan. Wersteld er durwen ter andwen.]{lang=varo}
-
-1 [Runder warld. Runder drumseth.]{lang=varo enc=varosemaronenc}
-2 [Around wall. Around beds.]{lang=en}
-2 [Runder warld. Runder drumseth.]{lang=varo}
-
-1 [Runder sulra mawen.]{lang=varo enc=varosemaronenc}
-2 [Around sick person.]{lang=en}
-2 [Runder sulra mawen.]{lang=varo}
-
-1 [Ludra hem et wersteld.]{lang=varo enc=varosemaronenc}
-2 [Close at post.]{lang=en}
-2 [Ludra hem et wersteld.]{lang=varo}
-
-1 [Na wenga twerwe hem nather eoth.]{lang=varo enc=varosemaronenc}
-2 [Do not cross afterward.]{lang=en}
-2 [Na wenga twerwe hem nather eoth.]{lang=varo}
-
-1 [Legwe.]{lang=varo enc=varosemaronenc}
-2 [Lie down.]{lang=en}
-2 [Legwe.]{lang=varo}
-
-1 [Ivwe skelwa thum et warld.]{lang=varo enc=varosemaronenc}
-2 [If scratching at wall.]{lang=en}
-2 [Ivwe skelwa thum et warld.]{lang=varo}
-
-1 [Hem thum skelwa et warld.]{lang=varo enc=varosemaronenc}
-2 [It is scratching at wall.]{lang=en}
-2 [Hem thum skelwa et warld.]{lang=varo}
-
-1 [Ivwe fendar thum orwe hrawen.]{lang=varo enc=varosemaronenc}
-2 [If a foot on roof.]{lang=en}
-2 [Ivwe fendar thum orwe hrawen.]{lang=varo}
-
-1 [Hem thum fendar orwe hrawen.]{lang=varo enc=varosemaronenc}
-2 [It is a foot on roof.]{lang=en}
-2 [Hem thum fendar orwe hrawen.]{lang=varo}
-
-1 [Na riwra feor hem.]{lang=varo enc=varosemaronenc}
-2 [Do not rise for it.]{lang=en}
-2 [Na riwra feor hem.]{lang=varo}
-
-1 [Frenna thum ladra.]{lang=varo enc=varosemaronenc}
-2 [Ash is laid.]{lang=en}
-2 [Frenna thum ladra.]{lang=varo}
-
-1 [Et merga swebra hem utwe.]{lang=varo enc=varosemaronenc}
-2 [At morning sweep outside.]{lang=en}
-2 [Et merga swebra hem utwe.]{lang=varo}
-
-1 [Thurwe durwen. Orwe ragra.]{lang=varo enc=varosemaronenc}
-2 [Through door. Onto path.]{lang=en}
-2 [Thurwe durwen. Orwe ragra.]{lang=varo}
-
-1 [Na weir wegra er hem.]{lang=varo enc=varosemaronenc}
-2 [Do not watch its way.]{lang=en}
-2 [Na weir wegra er hem.]{lang=varo}
-```
+Swefra glarth. Hulra hem./
+Nemra frenna inwe mawi warthi./
+Grilri. Nawen renwen swarthi./
+Lither wethan. Wersteld er durwen ter andwen./
+Runder warld. Runder drumseth./
+Runder sulra mawen./
+Ludra hem et wersteld./
+Na wenga twerwe hem nather eoth./
+Legwe./
+Ivwe skelwa thum et warld./
+Hem thum skelwa et warld./
+Ivwe fendar thum orwe hrawen./
+Hem thum fendar orwe hrawen./
+Na riwra feor hem./
+Frenna thum ladra./
+Et merga swebra hem utwe./
+Thurwe durwen. Orwe ragra./
+Na weir wegra er hem.
+:::
 
 For a goat that holds her milk. Anybody with two hands says it, and the slave at the milking says it oftener than you do. You do not send for anybody.
 
 : The fifth charm, for a goat {#goat}
 
-```verse {form=vreld lang=en cols=2 numstep=5}
-1 [Feor gedth. Hem halwen mewdrul. Welri mawen mi thei wethan malwen hem. Serwar et mewdrul malwen hem meora renwen dran thri. Thri na warwa andwen.]{lang=varo enc=varosemaronenc}
-2 [For a goat holding milk. Anyone with two hands speaks it. The servant at milking speaks it more often than you. Do not call another.]{lang=en}
-2 [Feor gedth. Hem halwen mewdrul. Welri mawen mi thei wethan malwen hem. Serwar et mewdrul malwen hem meora renwen dran thri. Thri na warwa andwen.]{lang=varo}
+::: {.verse form=vreld lang=en work=goat}
+For a goat holding milk. Anyone with two hands speaks it. The servant at milking speaks it more often than you. Do not call another./
+Goat in old forest/
+holds milk three mornings./
+Stands like stone. Holds./
+Mistress spits in her ear./
+Tells her kind./
+Milk comes down.
 
-1 [Gedth inwe forni woldra]{lang=varo enc=varosemaronenc}
-2 [Goat in old forest]{lang=en}
-2 [Gedth inwe forni woldra]{lang=varo}
+Warm hands on belly./
+Set kid’s smell below her nose./
+Hide if kid dead./
+Take teat. Pull./
+Say: Bag on four sticks./
+Say: Her mother is sheep./
+Speak close. Into ear./
+Pull during speech./
+If she kicks, she listens./
+Pull.
+:::
 
-1 [halwen mewdrul threm merga.]{lang=varo enc=varosemaronenc}
-2 [holds milk three mornings.]{lang=en}
-2 [halwen mewdrul threm merga.]{lang=varo}
+::: {.verse form=vreld lang=varo enc=varosemaronenc work=goat}
+Feor gedth. Hem halwen mewdrul. Welri mawen mi thei wethan malwen hem. Serwar et mewdrul malwen hem meora renwen dran thri. Thri na warwa andwen./
+Gedth inwe forni woldra/
+halwen mewdrul threm merga./
+Stanwe likwe stenra. Halwen./
+Othrún madrut inwe hruven er hem./
+Hem malwen slawen er hem./
+Mewdrul komwe niwer.
 
-1 [Stanwe likwe stenra. Halwen.]{lang=varo enc=varosemaronenc}
-2 [Stands like stone. Holds.]{lang=en}
-2 [Stanwe likwe stenra. Halwen.]{lang=varo}
-
-1 [Othrún madrut inwe hruven er hem.]{lang=varo enc=varosemaronenc}
-2 [Mistress spits in her ear.]{lang=en}
-2 [Othrún madrut inwe hruven er hem.]{lang=varo}
-
-1 [Hem malwen slawen er hem.]{lang=varo enc=varosemaronenc}
-2 [Tells her kind.]{lang=en}
-2 [Hem malwen slawen er hem.]{lang=varo}
-
-1 [Mewdrul komwe niwer.]{lang=varo enc=varosemaronenc}
-2 [Milk comes down.]{lang=en}
-2 [Mewdrul komwe niwer.]{lang=varo}
-
-***
-1 [Warthra wethan orwe morwen er thri.]{lang=varo enc=varosemaronenc}
-2 [Warm hands on belly.]{lang=en}
-2 [Warthra wethan orwe morwen er thri.]{lang=varo}
-
-1 [Ladra wreska er othil nivre wren er hem.]{lang=varo enc=varosemaronenc}
-2 [Set kid’s smell below her nose.]{lang=en}
-2 [Ladra wreska er othil nivre wren er hem.]{lang=varo}
-
-1 [Huldren ivwe othil wredri.]{lang=varo enc=varosemaronenc}
-2 [Hide if kid dead.]{lang=en}
-2 [Huldren ivwe othil wredri.]{lang=varo}
-
-1 [Nemra mewfen. Drewra.]{lang=varo enc=varosemaronenc}
-2 [Take teat. Pull.]{lang=en}
-2 [Nemra mewfen. Drewra.]{lang=varo}
-
-1 [Malwen hem thum bawen orwe fedr skarwen.]{lang=varo enc=varosemaronenc}
-2 [Say: Bag on four sticks.]{lang=en}
-2 [Malwen hem thum bawen orwe fedr skarwen.]{lang=varo}
-
-1 [Malwen mowen er hem thum skafel.]{lang=varo enc=varosemaronenc}
-2 [Say: Her mother is sheep.]{lang=en}
-2 [Malwen mowen er hem thum skafel.]{lang=varo}
-
-1 [Malwen neri. Inwe hruven.]{lang=varo enc=varosemaronenc}
-2 [Speak close. Into ear.]{lang=en}
-2 [Malwen neri. Inwe hruven.]{lang=varo}
-
-1 [Drewra inwe malwa.]{lang=varo enc=varosemaronenc}
-2 [Pull during speech.]{lang=en}
-2 [Drewra inwe malwa.]{lang=varo}
-
-1 [Ivwe hem fenslag. Hem hruda.]{lang=varo enc=varosemaronenc}
-2 [If she kicks, she listens.]{lang=en}
-2 [Ivwe hem fenslag. Hem hruda.]{lang=varo}
-
-1 [Drewra.]{lang=varo enc=varosemaronenc}
-2 [Pull.]{lang=en}
-2 [Drewra.]{lang=varo}
-```
+Warthra wethan orwe morwen er thri./
+Ladra wreska er othil nivre wren er hem./
+Huldren ivwe othil wredri./
+Nemra mewfen. Drewra./
+Malwen hem thum bawen orwe fedr skarwen./
+Malwen mowen er hem thum skafel./
+Malwen neri. Inwe hruven./
+Drewra inwe malwa./
+Ivwe hem fenslag. Hem hruda./
+Drewra.
+:::
 
 These are not counted among the nine. No old days stand behind them; they are what the hands know, and you learn them the same. Say them while you do them.
 
 : The small charms, not counted {#small}
 
-```verse {form=vreld lang=en cols=2 numstep=5}
-1 [Eithra na harve tavren samwe niwen. Nawen forni dagren stanwe rewra hemwen. Hemwen thum witren er wethan. Thri lerwa hemwen samri. Malwen hemwen inwe jiwra.]{lang=varo enc=varosemaronenc}
-2 [These have no count among nine. No old days stand behind them. They are hands’ knowledge. Learn them the same. Speak while working.]{lang=en}
-2 [Eithra na harve tavren samwe niwen. Nawen forni dagren stanwe rewra hemwen. Hemwen thum witren er wethan. Thri lerwa hemwen samri. Malwen hemwen inwe jiwra.]{lang=varo}
-
-1 _[Feor wulflin.]{lang=varo}_
-2 [_For splinter._]{lang=en}
-2 _[Feor wulflin.]{lang=varo}_
-
-
-1 [Hrewil. Hertha. Orwe hem.]{lang=varo enc=varosemaronenc}
-2 [Yarrow. Chewed. Above it.]{lang=en}
-2 [Hrewil. Hertha. Orwe hem.]{lang=varo}
-
-1 [Wefra. Nathra.]{lang=varo enc=varosemaronenc}
-2 [Cloth. Night.]{lang=en}
-2 [Wefra. Nathra.]{lang=varo}
-
-1 [Et merga hem stanwe howen.]{lang=varo enc=varosemaronenc}
-2 [Morning: stands up.]{lang=en}
-2 [Et merga hem stanwe howen.]{lang=varo}
-
-1 [Skelth virwe wethun. Utwe.]{lang=varo enc=varosemaronenc}
-2 [Nail and thumb. Out.]{lang=en}
-2 [Skelth virwe wethun. Utwe.]{lang=varo}
-
-***
-1 _[Feor glarna.]{lang=varo}_
-2 [_For burn._]{lang=en}
-2 _[Feor glarna.]{lang=varo}_
-
-
-1 [Watra. Kalri. Lartim.]{lang=varo enc=varosemaronenc}
-2 [Water. Cold. Long.]{lang=en}
-2 [Watra. Kalri. Lartim.]{lang=varo}
-
-1 [Meora lartim dran warwa.]{lang=varo enc=varosemaronenc}
-2 [Longer than crying.]{lang=en}
-2 [Meora lartim dran warwa.]{lang=varo}
-
-1 [Theira grashel. Weril. Kalri salra niwer.]{lang=varo enc=varosemaronenc}
-2 [Then dock. Leaf. Cool side down.]{lang=en}
-2 [Theira grashel. Weril. Kalri salra niwer.]{lang=varo}
-
-1 [Nawen fulwa orwe hem. Welri malwa er hem.]{lang=varo enc=varosemaronenc}
-2 [No fat above. Whatever she says.]{lang=en}
-2 [Nawen fulwa orwe hem. Welri malwa er hem.]{lang=varo}
-
-***
-1 _[Feor hruweth.]{lang=varo}_
-2 [_For sting._]{lang=en}
-2 _[Feor hruweth.]{lang=varo}_
-
-
-1 [Grashel. Urwe murdwen ivwe nawen grashel.]{lang=varo enc=varosemaronenc}
-2 [Dock. Or mud if no dock.]{lang=en}
-2 [Grashel. Urwe murdwen ivwe nawen grashel.]{lang=varo}
-
-1 [Murdwen thum awen timra.]{lang=varo enc=varosemaronenc}
-2 [Mud always exists.]{lang=en}
-2 [Murdwen thum awen timra.]{lang=varo}
-
-***
-1 _[Feor blud fran wren.]{lang=varo}_
-2 [_For blood from nose._]{lang=en}
-2 _[Feor blud fran wren.]{lang=varo}_
-
-
-1 [Hrewen frarer. Nawen renwen rewa.]{lang=varo enc=varosemaronenc}
-2 [Head forward. Never back.]{lang=en}
-2 [Hrewen frarer. Nawen renwen rewa.]{lang=varo}
-
-1 [Wrenhal mewi delwen.]{lang=varo enc=varosemaronenc}
-2 [Pinch soft part.]{lang=en}
-2 [Wrenhal mewi delwen.]{lang=varo}
-
-1 [Hrewil. Slagra. Inwe salra er bludra.]{lang=varo enc=varosemaronenc}
-2 [Yarrow. Bruised. In bleeding side.]{lang=en}
-2 [Hrewil. Slagra. Inwe salra er bludra.]{lang=varo}
-
-1 [Wrenhal ter thri malwen eith thei renwen.]{lang=varo enc=varosemaronenc}
-2 [Pinch until you say this twice.]{lang=en}
-2 [Wrenhal ter thri malwen eith thei renwen.]{lang=varo}
-
-***
-1 _[Feor werka. Hem na ludra.]{lang=varo}_
-2 [_For cut that does not close._]{lang=en}
-2 _[Feor werka. Hem na ludra.]{lang=varo}_
-
-
-1 [Blugras. Wider weril. Slagra.]{lang=varo enc=varosemaronenc}
-2 [Plantain. Broad leaf. Bruised.]{lang=en}
-2 [Blugras. Wider weril. Slagra.]{lang=varo}
-
-1 [Orwe werka. Bandwa hem.]{lang=varo enc=varosemaronenc}
-2 [On cut. Bind.]{lang=en}
-2 [Orwe werka. Bandwa hem.]{lang=varo}
-
-1 [Wendri hem et ewreth virwe sunreth.]{lang=varo enc=varosemaronenc}
-2 [Change at dusk and dawn.]{lang=en}
-2 [Wendri hem et ewreth virwe sunreth.]{lang=varo}
-
-1 [Ivwe hem harve wreska. Warwa Weskwar.]{lang=varo enc=varosemaronenc}
-2 [If it smells, call Shaman.]{lang=en}
-2 [Ivwe hem harve wreska. Warwa Weskwar.]{lang=varo}
-
-***
-1 _[Feor sulwa.]{lang=varo}_
-2 [_For cough._]{lang=en}
-2 _[Feor sulwa.]{lang=varo}_
-
-
-1 [Verel. Junri luren er werna. Inwe warthi watra.]{lang=varo enc=varosemaronenc}
-2 [Pine. Young branch-tips. Hot water.]{lang=en}
-2 [Verel. Junri luren er werna. Inwe warthi watra.]{lang=varo}
-
-1 [Mewsel. Ivwe mewhem thum er thri.]{lang=varo enc=varosemaronenc}
-2 [Honey if comb yours.]{lang=en}
-2 [Mewsel. Ivwe mewhem thum er thri.]{lang=varo}
-
-1 [Hrula hem. Theira drul hem.]{lang=varo enc=varosemaronenc}
-2 [Breathe it. Then drink.]{lang=en}
-2 [Hrula hem. Theira drul hem.]{lang=varo}
-
-1 [Theira drumi mi sedra.]{lang=varo enc=varosemaronenc}
-2 [Then sleep sitting.]{lang=en}
-2 [Theira drumi mi sedra.]{lang=varo}
-
-***
-1 _[Feor tend.]{lang=varo}_
-2 [_For tooth._]{lang=en}
-2 _[Feor tend.]{lang=varo}_
-
-
-1 [Werhul er wurwen. Hertha. Orwe eoth salra.]{lang=varo enc=varosemaronenc}
-2 [Willow bark. Chewed. On that side.]{lang=en}
-2 [Werhul er wurwen. Hertha. Orwe eoth salra.]{lang=varo}
-
-1 [Ter rewal wendri smilri.]{lang=varo enc=varosemaronenc}
-2 [Until pain lessens.]{lang=en}
-2 [Ter rewal wendri smilri.]{lang=varo}
-
-1 [Hem wendri smilri. Hem na wenga.]{lang=varo enc=varosemaronenc}
-2 [It lessens. Does not leave.]{lang=en}
-2 [Hem wendri smilri. Hem na wenga.]{lang=varo}
-
-1 [Weskwar drewra hem.]{lang=varo enc=varosemaronenc}
-2 [Shaman pulls tooth.]{lang=en}
-2 [Weskwar drewra hem.]{lang=varo}
-
-***
-1 _[Feor wethan. Kalwen brekwa hemwen.]{lang=varo}_
-2 [_For hands cold breaks._]{lang=en}
-2 _[Feor wethan. Kalwen brekwa hemwen.]{lang=varo}_
-
-
-1 [Fulglar. Warthi inwe wethra.]{lang=varo enc=varosemaronenc}
-2 [Tallow. Warm in palm.]{lang=en}
-2 [Fulglar. Warthi inwe wethra.]{lang=varo}
-
-1 [Wethrul inwe ter nawen stewra.]{lang=varo enc=varosemaronenc}
-2 [Rub inside until none remains.]{lang=en}
-2 [Wethrul inwe ter nawen stewra.]{lang=varo}
-
-1 [Theira wethhul. Nawen watra.]{lang=varo enc=varosemaronenc}
-2 [Then mittens. No water.]{lang=en}
-2 [Theira wethhul. Nawen watra.]{lang=varo}
-
-1 [Ter merga. Welri denger wivre helwen.]{lang=varo enc=varosemaronenc}
-2 [Until morning. Whatever wants washing.]{lang=en}
-2 [Ter merga. Welri denger wivre helwen.]{lang=varo}
-
-***
-1 _[Feor othil. Hem na drumi.]{lang=varo}_
-2 [_For sleepless child._]{lang=en}
-2 _[Feor othil. Hem na drumi.]{lang=varo}_
-
-
-1 [Rewgras. Driwa. Inwe warthi watra.]{lang=varo enc=varosemaronenc}
-2 [Nettle. Dry. Hot water.]{lang=en}
-2 [Rewgras. Driwa. Inwe warthi watra.]{lang=varo}
-
-1 [Mewsel inwe hem. Halwen drulma.]{lang=varo enc=varosemaronenc}
-2 [Honey inside. Cup held.]{lang=en}
-2 [Mewsel inwe hem. Halwen drulma.]{lang=varo}
-
-1 [Theira hruvar er thri selwen. Sulwi.]{lang=varo enc=varosemaronenc}
-2 [Then your own breath. Slow.]{lang=en}
-2 [Theira hruvar er thri selwen. Sulwi.]{lang=varo}
-
-1 [Meora sulwi dran othil.]{lang=varo enc=varosemaronenc}
-2 [Slower than child.]{lang=en}
-2 [Meora sulwi dran othil.]{lang=varo}
-
-1 [Ter er othil thum meora sulwi dran er thri.]{lang=varo enc=varosemaronenc}
-2 [Until child’s slower than yours.]{lang=en}
-2 [Ter er othil thum meora sulwi dran er thri.]{lang=varo}
-
-***
-1 _[Feor forwe skerin.]{lang=varo}_
-2 [_For lost knife._]{lang=en}
-2 _[Feor forwe skerin.]{lang=varo}_
-
-
-1 [Stanwe et lestra werka mi hem.]{lang=varo enc=varosemaronenc}
-2 [Stand at last cutting with it.]{lang=en}
-2 [Stanwe et lestra werka mi hem.]{lang=varo}
-
-1 [Malwen denger er werka er thri.]{lang=varo enc=varosemaronenc}
-2 [Say the thing you cut.]{lang=en}
-2 [Malwen denger er werka er thri.]{lang=varo}
-
-1 [Wenga rewa. Werka nather werka.]{lang=varo enc=varosemaronenc}
-2 [Walk back. Cut after cut.]{lang=en}
-2 [Wenga rewa. Werka nather werka.]{lang=varo}
-
-1 [Hem thum nivre rend threm denger er hefra er thri.]{lang=varo enc=varosemaronenc}
-2 [It lies beneath third thing you lift.]{lang=en}
-2 [Hem thum nivre rend threm denger er hefra er thri.]{lang=varo}
-
-1 [Ivwe na hem. Hem thum inwe ruvith.]{lang=varo enc=varosemaronenc}
-2 [If not, in river.]{lang=en}
-2 [Ivwe na hem. Hem thum inwe ruvith.]{lang=varo}
-
-1 [Ruvith halwen skerin.]{lang=varo enc=varosemaronenc}
-2 [River keeps knives.]{lang=en}
-2 [Ruvith halwen skerin.]{lang=varo}
-
-***
-1 _[Feor hundar. Hem na komwe.]{lang=varo}_
-2 [_For dog that does not come._]{lang=en}
-2 _[Feor hundar. Hem na komwe.]{lang=varo}_
-
-
-1 [Na warwa hem thei renwen.]{lang=varo enc=varosemaronenc}
-2 [Do not call twice.]{lang=en}
-2 [Na warwa hem thei renwen.]{lang=varo}
-
-1 [Sedra niwer. Wendri ruvra.]{lang=varo enc=varosemaronenc}
-2 [Sit down. Turn back.]{lang=en}
-2 [Sedra niwer. Wendri ruvra.]{lang=varo}
-
-1 [Meld denger.]{lang=varo enc=varosemaronenc}
-2 [Eat something.]{lang=en}
-2 [Meld denger.]{lang=varo}
-
-1 [Na weir runder.]{lang=varo enc=varosemaronenc}
-2 [Do not look around.]{lang=en}
-2 [Na weir runder.]{lang=varo}
-```
+::: {.verse form=vreld lang=en work=small}
+These have no count among nine. No old days stand behind them. They are hands’ knowledge. Learn them the same. Speak while working./
+_For splinter._/
+Yarrow. Chewed. Above it./
+Cloth. Night./
+Morning: stands up./
+Nail and thumb. Out.
+
+_For burn._/
+Water. Cold. Long./
+Longer than crying./
+Then dock. Leaf. Cool side down./
+No fat above. Whatever she says.
+
+_For sting._/
+Dock. Or mud if no dock./
+Mud always exists.
+
+_For blood from nose._/
+Head forward. Never back./
+Pinch soft part./
+Yarrow. Bruised. In bleeding side./
+Pinch until you say this twice.
+
+_For cut that does not close._/
+Plantain. Broad leaf. Bruised./
+On cut. Bind./
+Change at dusk and dawn./
+If it smells, call Shaman.
+
+_For cough._/
+Pine. Young branch-tips. Hot water./
+Honey if comb yours./
+Breathe it. Then drink./
+Then sleep sitting.
+
+_For tooth._/
+Willow bark. Chewed. On that side./
+Until pain lessens./
+It lessens. Does not leave./
+Shaman pulls tooth.
+
+_For hands cold breaks._/
+Tallow. Warm in palm./
+Rub inside until none remains./
+Then mittens. No water./
+Until morning. Whatever wants washing.
+
+_For sleepless child._/
+Nettle. Dry. Hot water./
+Honey inside. Cup held./
+Then your own breath. Slow./
+Slower than child./
+Until child’s slower than yours.
+
+_For lost knife._/
+Stand at last cutting with it./
+Say the thing you cut./
+Walk back. Cut after cut./
+It lies beneath third thing you lift./
+If not, in river./
+River keeps knives.
+
+_For dog that does not come._/
+Do not call twice./
+Sit down. Turn back./
+Eat something./
+Do not look around.
+:::
+
+::: {.verse form=vreld lang=varo enc=varosemaronenc work=small}
+Eithra na harve tavren samwe niwen. Nawen forni dagren stanwe rewra hemwen. Hemwen thum witren er wethan. Thri lerwa hemwen samri. Malwen hemwen inwe jiwra./
+Feor wulflin./
+Hrewil. Hertha. Orwe hem./
+Wefra. Nathra./
+Et merga hem stanwe howen./
+Skelth virwe wethun. Utwe.
+
+Feor glarna./
+Watra. Kalri. Lartim./
+Meora lartim dran warwa./
+Theira grashel. Weril. Kalri salra niwer./
+Nawen fulwa orwe hem. Welri malwa er hem.
+
+Feor hruweth./
+Grashel. Urwe murdwen ivwe nawen grashel./
+Murdwen thum awen timra.
+
+Feor blud fran wren./
+Hrewen frarer. Nawen renwen rewa./
+Wrenhal mewi delwen./
+Hrewil. Slagra. Inwe salra er bludra./
+Wrenhal ter thri malwen eith thei renwen.
+
+Feor werka. Hem na ludra./
+Blugras. Wider weril. Slagra./
+Orwe werka. Bandwa hem./
+Wendri hem et ewreth virwe sunreth./
+Ivwe hem harve wreska. Warwa Weskwar.
+
+Feor sulwa./
+Verel. Junri luren er werna. Inwe warthi watra./
+Mewsel. Ivwe mewhem thum er thri./
+Hrula hem. Theira drul hem./
+Theira drumi mi sedra.
+
+Feor tend./
+Werhul er wurwen. Hertha. Orwe eoth salra./
+Ter rewal wendri smilri./
+Hem wendri smilri. Hem na wenga./
+Weskwar drewra hem.
+
+Feor wethan. Kalwen brekwa hemwen./
+Fulglar. Warthi inwe wethra./
+Wethrul inwe ter nawen stewra./
+Theira wethhul. Nawen watra./
+Ter merga. Welri denger wivre helwen.
+
+Feor othil. Hem na drumi./
+Rewgras. Driwa. Inwe warthi watra./
+Mewsel inwe hem. Halwen drulma./
+Theira hruvar er thri selwen. Sulwi./
+Meora sulwi dran othil./
+Ter er othil thum meora sulwi dran er thri.
+
+Feor forwe skerin./
+Stanwe et lestra werka mi hem./
+Malwen denger er werka er thri./
+Wenga rewa. Werka nather werka./
+Hem thum nivre rend threm denger er hefra er thri./
+Ivwe na hem. Hem thum inwe ruvith./
+Ruvith halwen skerin.
+
+Feor hundar. Hem na komwe./
+Na warwa hem thei renwen./
+Sedra niwer. Wendri ruvra./
+Meld denger./
+Na weir runder.
+:::
 
 For a birth. You say it when the cord is cut and the child has cried, and you say it this way round. There is no name in it. The Shaman gives the name at three months, and until then it is the child.
 
 : The sixth charm, for a birth {#birth}
 
-```verse {form=vreld lang=en cols=2 numstep=5}
-1 [Feor elra. Thri malwen hem nather werka er dreth virwe warwa er othil. Thri malwen hem mi eith wegra. Nawen nefren inwe hem. Weskwar selra nefren et threm muneth. Ter eoth hem thum othil.]{lang=varo enc=varosemaronenc}
-2 [For birth. Speak after cutting the cord and the child’s cry. Speak in this direction. No name inside. Shaman gives name at three months. Until then, the child.]{lang=en}
-2 [Feor elra. Thri malwen hem nather werka er dreth virwe warwa er othil. Thri malwen hem mi eith wegra. Nawen nefren inwe hem. Weskwar selra nefren et threm muneth. Ter eoth hem thum othil.]{lang=varo}
+::: {.verse form=vreld lang=en work=birth}
+For birth. Speak after cutting the cord and the child’s cry. Speak in this direction. No name inside. Shaman gives name at three months. Until then, the child./
+First people come./
+Out of trees./
+Out of forest’s dark./
+To fire someone kindles.
 
-1 [Rend eom mawen komwe.]{lang=varo enc=varosemaronenc}
-2 [First people come.]{lang=en}
-2 [Rend eom mawen komwe.]{lang=varo}
+Out of forest./
+Inside at door./
+Up to fire./
+Into hands./
+Wash with warm water./
+Cover in old wool./
+Wool someone already wears./
+Lay near mother./
+Where it hears breath./
+Say: Child./
+Do not say name./
+No name yet./
+Open door hand-wide./
+Forest knows it is here./
+Close.
+:::
 
-1 [Utwe werla.]{lang=varo enc=varosemaronenc}
-2 [Out of trees.]{lang=en}
-2 [Utwe werla.]{lang=varo}
+::: {.verse form=vreld lang=varo enc=varosemaronenc work=birth}
+Feor elra. Thri malwen hem nather werka er dreth virwe warwa er othil. Thri malwen hem mi eith wegra. Nawen nefren inwe hem. Weskwar selra nefren et threm muneth. Ter eoth hem thum othil./
+Rend eom mawen komwe./
+Utwe werla./
+Utwe dunra er woldra./
+Ter glarth er gulra er mawen.
 
-1 [Utwe dunra er woldra.]{lang=varo enc=varosemaronenc}
-2 [Out of forest’s dark.]{lang=en}
-2 [Utwe dunra er woldra.]{lang=varo}
-
-1 [Ter glarth er gulra er mawen.]{lang=varo enc=varosemaronenc}
-2 [To fire someone kindles.]{lang=en}
-2 [Ter glarth er gulra er mawen.]{lang=varo}
-
-***
-1 [Utwe woldra.]{lang=varo enc=varosemaronenc}
-2 [Out of forest.]{lang=en}
-2 [Utwe woldra.]{lang=varo}
-
-1 [Inwe et durwen.]{lang=varo enc=varosemaronenc}
-2 [Inside at door.]{lang=en}
-2 [Inwe et durwen.]{lang=varo}
-
-1 [Howen ter glarth.]{lang=varo enc=varosemaronenc}
-2 [Up to fire.]{lang=en}
-2 [Howen ter glarth.]{lang=varo}
-
-1 [Inwe wethan.]{lang=varo enc=varosemaronenc}
-2 [Into hands.]{lang=en}
-2 [Inwe wethan.]{lang=varo}
-
-1 [Helwen hem mi mawi warthi watra.]{lang=varo enc=varosemaronenc}
-2 [Wash with warm water.]{lang=en}
-2 [Helwen hem mi mawi warthi watra.]{lang=varo}
-
-1 [Hulra hem inwe forni ulfra.]{lang=varo enc=varosemaronenc}
-2 [Cover in old wool.]{lang=en}
-2 [Hulra hem inwe forni ulfra.]{lang=varo}
-
-1 [Ulfra er harve mawen nengra.]{lang=varo enc=varosemaronenc}
-2 [Wool someone already wears.]{lang=en}
-2 [Ulfra er harve mawen nengra.]{lang=varo}
-
-1 [Ladra hem neri mowen.]{lang=varo enc=varosemaronenc}
-2 [Lay near mother.]{lang=en}
-2 [Ladra hem neri mowen.]{lang=varo}
-
-1 [Et sta er hru er hruvar.]{lang=varo enc=varosemaronenc}
-2 [Where it hears breath.]{lang=en}
-2 [Et sta er hru er hruvar.]{lang=varo}
-
-1 [Malwen. Othil.]{lang=varo enc=varosemaronenc}
-2 [Say: Child.]{lang=en}
-2 [Malwen. Othil.]{lang=varo}
-
-1 [Na malwen nefren.]{lang=varo enc=varosemaronenc}
-2 [Do not say name.]{lang=en}
-2 [Na malwen nefren.]{lang=varo}
-
-1 [Nawen nefren thum nengra.]{lang=varo enc=varosemaronenc}
-2 [No name yet.]{lang=en}
-2 [Nawen nefren thum nengra.]{lang=varo}
-
-1 [Durna durwen mi wider er wethan.]{lang=varo enc=varosemaronenc}
-2 [Open door hand-wide.]{lang=en}
-2 [Durna durwen mi wider er wethan.]{lang=varo}
-
-1 [Woldra witna hem thum hewra.]{lang=varo enc=varosemaronenc}
-2 [Forest knows it is here.]{lang=en}
-2 [Woldra witna hem thum hewra.]{lang=varo}
-
-1 [Ludra hem.]{lang=varo enc=varosemaronenc}
-2 [Close.]{lang=en}
-2 [Ludra hem.]{lang=varo}
-```
+Utwe woldra./
+Inwe et durwen./
+Howen ter glarth./
+Inwe wethan./
+Helwen hem mi mawi warthi watra./
+Hulra hem inwe forni ulfra./
+Ulfra er harve mawen nengra./
+Ladra hem neri mowen./
+Et sta er hru er hruvar./
+Malwen. Othil./
+Na malwen nefren./
+Nawen nefren thum nengra./
+Durna durwen mi wider er wethan./
+Woldra witna hem thum hewra./
+Ludra hem.
+:::
 
 For a death. You say it over the body before the women raise the _meldra_, and you say it the other way round, the birth charm backward, with the door open. You do not say it on the same breath you said the birth with. Go out and come in between. The goods go in after, and that is the Shaman's and not yours.
 
 : The seventh charm, for a death {#death}
 
-```verse {form=vreld lang=en cols=2 numstep=5}
-1 [Feor wreda. Thri malwen hem howra mawen frar wemra riwra meldra. Thri malwen hem mi andri wegra. Elra vreld rewa. Mi durni durwen. Thri na malwen hem mi samri hruvar er elra. Wenga utwe. Komwe inwe twerna. Harven wenga inwe nather hem. Eoth thum er Weskwar. Na er thri.]{lang=varo enc=varosemaronenc}
-2 [For death. Speak above the person before women raise lament. Speak in the other direction. Birth charm backward. Door open. Do not speak with birth’s same breath. Go out. Come in between. Goods enter afterward. That belongs to Shaman, not you.]{lang=en}
-2 [Feor wreda. Thri malwen hem howra mawen frar wemra riwra meldra. Thri malwen hem mi andri wegra. Elra vreld rewa. Mi durni durwen. Thri na malwen hem mi samri hruvar er elra. Wenga utwe. Komwe inwe twerna. Harven wenga inwe nather hem. Eoth thum er Weskwar. Na er thri.]{lang=varo}
+::: {.verse form=vreld lang=en work=death}
+For death. Speak above the person before women raise lament. Speak in the other direction. Birth charm backward. Door open. Do not speak with birth’s same breath. Go out. Come in between. Goods enter afterward. That belongs to Shaman, not you./
+First people go./
+Back into trees./
+Into forest’s dark./
+Someone keeps fire they leave.
 
-1 [Rend eom mawen wenga.]{lang=varo enc=varosemaronenc}
-2 [First people go.]{lang=en}
-2 [Rend eom mawen wenga.]{lang=varo}
+Out of hands./
+Down from fire./
+Outside at door./
+Into forest./
+Wash with cold water./
+Cover in new wool./
+Nobody’s wool./
+Lay feet toward door./
+Away from breath./
+Say name./
+Ask nothing./
+Only name now./
+Open door wide./
+Forest knows it comes./
+Leave open.
+:::
 
-1 [Rewa inwe werla.]{lang=varo enc=varosemaronenc}
-2 [Back into trees.]{lang=en}
-2 [Rewa inwe werla.]{lang=varo}
+::: {.verse form=vreld lang=varo enc=varosemaronenc work=death}
+Feor wreda. Thri malwen hem howra mawen frar wemra riwra meldra. Thri malwen hem mi andri wegra. Elra vreld rewa. Mi durni durwen. Thri na malwen hem mi samri hruvar er elra. Wenga utwe. Komwe inwe twerna. Harven wenga inwe nather hem. Eoth thum er Weskwar. Na er thri./
+Rend eom mawen wenga./
+Rewa inwe werla./
+Inwe dunra er woldra./
+Glarth er farwe er hemwen. Mawen halwen hem.
 
-1 [Inwe dunra er woldra.]{lang=varo enc=varosemaronenc}
-2 [Into forest’s dark.]{lang=en}
-2 [Inwe dunra er woldra.]{lang=varo}
-
-1 [Glarth er farwe er hemwen. Mawen halwen hem.]{lang=varo enc=varosemaronenc}
-2 [Someone keeps fire they leave.]{lang=en}
-2 [Glarth er farwe er hemwen. Mawen halwen hem.]{lang=varo}
-
-***
-1 [Utwe wethan.]{lang=varo enc=varosemaronenc}
-2 [Out of hands.]{lang=en}
-2 [Utwe wethan.]{lang=varo}
-
-1 [Niwer fran glarth.]{lang=varo enc=varosemaronenc}
-2 [Down from fire.]{lang=en}
-2 [Niwer fran glarth.]{lang=varo}
-
-1 [Utwe et durwen.]{lang=varo enc=varosemaronenc}
-2 [Outside at door.]{lang=en}
-2 [Utwe et durwen.]{lang=varo}
-
-1 [Inwe woldra.]{lang=varo enc=varosemaronenc}
-2 [Into forest.]{lang=en}
-2 [Inwe woldra.]{lang=varo}
-
-1 [Helwen hem mi kalri watra.]{lang=varo enc=varosemaronenc}
-2 [Wash with cold water.]{lang=en}
-2 [Helwen hem mi kalri watra.]{lang=varo}
-
-1 [Hulra hem inwe niwra ulfra.]{lang=varo enc=varosemaronenc}
-2 [Cover in new wool.]{lang=en}
-2 [Hulra hem inwe niwra ulfra.]{lang=varo}
-
-1 [Ulfra er nawen mawen.]{lang=varo enc=varosemaronenc}
-2 [Nobody’s wool.]{lang=en}
-2 [Ulfra er nawen mawen.]{lang=varo}
-
-1 [Ladra hem mi fendar ter durwen.]{lang=varo enc=varosemaronenc}
-2 [Lay feet toward door.]{lang=en}
-2 [Ladra hem mi fendar ter durwen.]{lang=varo}
-
-1 [Fran hruvar.]{lang=varo enc=varosemaronenc}
-2 [Away from breath.]{lang=en}
-2 [Fran hruvar.]{lang=varo}
-
-1 [Malwen nefren.]{lang=varo enc=varosemaronenc}
-2 [Say name.]{lang=en}
-2 [Malwen nefren.]{lang=varo}
-
-1 [Na frawna hem welri denger.]{lang=varo enc=varosemaronenc}
-2 [Ask nothing.]{lang=en}
-2 [Na frawna hem welri denger.]{lang=varo}
-
-1 [Einwe nefren thum nuwa.]{lang=varo enc=varosemaronenc}
-2 [Only name now.]{lang=en}
-2 [Einwe nefren thum nuwa.]{lang=varo}
-
-1 [Durna durwen wider.]{lang=varo enc=varosemaronenc}
-2 [Open door wide.]{lang=en}
-2 [Durna durwen wider.]{lang=varo}
-
-1 [Woldra witna hem komwe.]{lang=varo enc=varosemaronenc}
-2 [Forest knows it comes.]{lang=en}
-2 [Woldra witna hem komwe.]{lang=varo}
-
-1 [Farwe hem durni.]{lang=varo enc=varosemaronenc}
-2 [Leave open.]{lang=en}
-2 [Farwe hem durni.]{lang=varo}
-```
+Utwe wethan./
+Niwer fran glarth./
+Utwe et durwen./
+Inwe woldra./
+Helwen hem mi kalri watra./
+Hulra hem inwe niwra ulfra./
+Ulfra er nawen mawen./
+Ladra hem mi fendar ter durwen./
+Fran hruvar./
+Malwen nefren./
+Na frawna hem welri denger./
+Einwe nefren thum nuwa./
+Durna durwen wider./
+Woldra witna hem komwe./
+Farwe hem durni.
+:::
 
 For the taking. You say it at the edge of the wood before the trapping and the cutting, and the price in it is the price. Nobody has got it lower.
 
 : The eighth charm, for the taking {#taking}
 
-```verse {form=vreld lang=en cols=2 numstep=5}
-1 [Feor nemra. Thri malwen hem et salra er woldra frar bandreth virwe werka. Wirdwen inwe hem thum wirdwen. Nawen mawen harve minri.]{lang=varo enc=varosemaronenc}
-2 [For taking. Speak at forest’s edge before snares and cutting. Price inside is price. Nobody has less.]{lang=en}
-2 [Feor nemra. Thri malwen hem et salra er woldra frar bandreth virwe werka. Wirdwen inwe hem thum wirdwen. Nawen mawen harve minri.]{lang=varo}
+::: {.verse form=vreld lang=en work=taking}
+For taking. Speak at forest’s edge before snares and cutting. Price inside is price. Nobody has less./
+Man in old forest/
+takes doe and child./
+Tree and seedling./
+Comb and bees./
+Next winter snares stand empty./
+Forest refuses exchange.
 
-1 [Marwen inwe forni woldra]{lang=varo enc=varosemaronenc}
-2 [Man in old forest]{lang=en}
-2 [Marwen inwe forni woldra]{lang=varo}
+This is price./
+One tree in three stands./
+Straightest of all. Thumb-mark./
+Your sons leave it too./
+Milking doe. Leave./
+Half comb. Queen./
+Otter with children. Leave./
+Vixen until children outside./
+Count your load./
+Call number at door./
+Before bringing in./
+People do not count a thing./
+People do not give its price./
+It does not haggle./
+It gives next year. Or does not.
+:::
 
-1 [nemra wemri hirsk virwe othil.]{lang=varo enc=varosemaronenc}
-2 [takes doe and child.]{lang=en}
-2 [nemra wemri hirsk virwe othil.]{lang=varo}
+::: {.verse form=vreld lang=varo enc=varosemaronenc work=taking}
+Feor nemra. Thri malwen hem et salra er woldra frar bandreth virwe werka. Wirdwen inwe hem thum wirdwen. Nawen mawen harve minri./
+Marwen inwe forni woldra/
+nemra wemri hirsk virwe othil./
+Werla virwe werjun./
+Mewhem virwe mewflur./
+Nathwi grema bandreth stanwe mandri./
+Woldra nawra wenra mi hem.
 
-1 [Werla virwe werjun.]{lang=varo enc=varosemaronenc}
-2 [Tree and seedling.]{lang=en}
-2 [Werla virwe werjun.]{lang=varo}
-
-1 [Mewhem virwe mewflur.]{lang=varo enc=varosemaronenc}
-2 [Comb and bees.]{lang=en}
-2 [Mewhem virwe mewflur.]{lang=varo}
-
-1 [Nathwi grema bandreth stanwe mandri.]{lang=varo enc=varosemaronenc}
-2 [Next winter snares stand empty.]{lang=en}
-2 [Nathwi grema bandreth stanwe mandri.]{lang=varo}
-
-1 [Woldra nawra wenra mi hem.]{lang=varo enc=varosemaronenc}
-2 [Forest refuses exchange.]{lang=en}
-2 [Woldra nawra wenra mi hem.]{lang=varo}
-
-***
-1 [Eith thum wirdwen.]{lang=varo enc=varosemaronenc}
-2 [This is price.]{lang=en}
-2 [Eith thum wirdwen.]{lang=varo}
-
-1 [Eom werla inwe threm stanwe.]{lang=varo enc=varosemaronenc}
-2 [One tree in three stands.]{lang=en}
-2 [Eom werla inwe threm stanwe.]{lang=varo}
-
-1 [Meora samri wegra dran awen andwe. Ladra rawel mi wethun.]{lang=varo enc=varosemaronenc}
-2 [Straightest of all. Thumb-mark.]{lang=en}
-2 [Meora samri wegra dran awen andwe. Ladra rawel mi wethun.]{lang=varo}
-
-1 [Othlin er thri farwe hem owren.]{lang=varo enc=varosemaronenc}
-2 [Your sons leave it too.]{lang=en}
-2 [Othlin er thri farwe hem owren.]{lang=varo}
-
-1 [Wemri hirsk mi mewdrul. Farwe.]{lang=varo enc=varosemaronenc}
-2 [Milking doe. Leave.]{lang=en}
-2 [Wemri hirsk mi mewdrul. Farwe.]{lang=varo}
-
-1 [Helwen er mewhem. Mewrik.]{lang=varo enc=varosemaronenc}
-2 [Half comb. Queen.]{lang=en}
-2 [Helwen er mewhem. Mewrik.]{lang=varo}
-
-1 [Uthra mi othil. Farwe.]{lang=varo enc=varosemaronenc}
-2 [Otter with children. Leave.]{lang=en}
-2 [Uthra mi othil. Farwe.]{lang=varo}
-
-1 [Wemri fukth ter othil thum utwe.]{lang=varo enc=varosemaronenc}
-2 [Vixen until children outside.]{lang=en}
-2 [Wemri fukth ter othil thum utwe.]{lang=varo}
-
-1 [Tavra bereth er thri.]{lang=varo enc=varosemaronenc}
-2 [Count your load.]{lang=en}
-2 [Tavra bereth er thri.]{lang=varo}
-
-1 [Warwa tavren et durwen.]{lang=varo enc=varosemaronenc}
-2 [Call number at door.]{lang=en}
-2 [Warwa tavren et durwen.]{lang=varo}
-
-1 [Frar berwe hem inwe.]{lang=varo enc=varosemaronenc}
-2 [Before bringing in.]{lang=en}
-2 [Frar berwe hem inwe.]{lang=varo}
-
-1 [Mawen na tavra denger.]{lang=varo enc=varosemaronenc}
-2 [People do not count a thing.]{lang=en}
-2 [Mawen na tavra denger.]{lang=varo}
-
-1 [Mawen na selra wirdwen feor hem.]{lang=varo enc=varosemaronenc}
-2 [People do not give its price.]{lang=en}
-2 [Mawen na selra wirdwen feor hem.]{lang=varo}
-
-1 [Hem na wenfraw.]{lang=varo enc=varosemaronenc}
-2 [It does not haggle.]{lang=en}
-2 [Hem na wenfraw.]{lang=varo}
-
-1 [Hem selra nathwi jaren ter thri. Urwe na selra.]{lang=varo enc=varosemaronenc}
-2 [It gives next year. Or does not.]{lang=en}
-2 [Hem selra nathwi jaren ter thri. Urwe na selra.]{lang=varo}
-```
+Eith thum wirdwen./
+Eom werla inwe threm stanwe./
+Meora samri wegra dran awen andwe. Ladra rawel mi wethun./
+Othlin er thri farwe hem owren./
+Wemri hirsk mi mewdrul. Farwe./
+Helwen er mewhem. Mewrik./
+Uthra mi othil. Farwe./
+Wemri fukth ter othil thum utwe./
+Tavra bereth er thri./
+Warwa tavren et durwen./
+Frar berwe hem inwe./
+Mawen na tavra denger./
+Mawen na selra wirdwen feor hem./
+Hem na wenfraw./
+Hem selra nathwi jaren ter thri. Urwe na selra.
+:::
 
 The ninth. For a Shaman gone under in _skomel_ and not back by morning. You learn the hands and the fire, because they are the house's. The rest is the apprentice's, and you do not learn it.
 
 : The ninth charm, in its opening {#ninth}
 
-```verse {form=vreld lang=en cols=2 numstep=5}
-1 [Rend niwen. Feor Weskwar inwe skomel. Hem wenga nivre. Hem na komwe rewa et merga. Thri lerwa wethan virwe glarth. Hemwen thum er hemra. Awen andwe thum er lerwin. Thri na lerwa hem.]{lang=varo enc=varosemaronenc}
-2 [Ninth. For Shaman in trance, going under, not returning by morning. Learn hands and fire. They belong to house. The rest belongs to pupil. You do not learn it.]{lang=en}
-2 [Rend niwen. Feor Weskwar inwe skomel. Hem wenga nivre. Hem na komwe rewa et merga. Thri lerwa wethan virwe glarth. Hemwen thum er hemra. Awen andwe thum er lerwin. Thri na lerwa hem.]{lang=varo}
+::: {.verse form=vreld lang=en work=ninth}
+Ninth. For Shaman in trance, going under, not returning by morning. Learn hands and fire. They belong to house. The rest belongs to pupil. You do not learn it./
+Shaman in old forest/
+goes under at dusk./
+Family keeps her warm./
+First night. Second./
+They feed fire.
 
-1 [Weskwar inwe forni woldra]{lang=varo enc=varosemaronenc}
-2 [Shaman in old forest]{lang=en}
-2 [Weskwar inwe forni woldra]{lang=varo}
+Feed fire. Do not bank./
+Hands on her hands./
+Hands on her feet./
+Warm as child’s hands./
+One. Other. First again./
+Someone at hands always./
+Someone at fire always./
+That belongs to house./
+Pupil has the rest./
+Now bone. Speak it back to me.
+:::
 
-1 [wenga nivre et ewreth.]{lang=varo enc=varosemaronenc}
-2 [goes under at dusk.]{lang=en}
-2 [wenga nivre et ewreth.]{lang=varo}
+::: {.verse form=vreld lang=varo enc=varosemaronenc work=ninth}
+Rend niwen. Feor Weskwar inwe skomel. Hem wenga nivre. Hem na komwe rewa et merga. Thri lerwa wethan virwe glarth. Hemwen thum er hemra. Awen andwe thum er lerwin. Thri na lerwa hem./
+Weskwar inwe forni woldra/
+wenga nivre et ewreth./
+Othma halwen hem mawi warthi./
+Rend eom nathra. Rend thei./
+Hemwen fedra glarth.
 
-1 [Othma halwen hem mawi warthi.]{lang=varo enc=varosemaronenc}
-2 [Family keeps her warm.]{lang=en}
-2 [Othma halwen hem mawi warthi.]{lang=varo}
-
-1 [Rend eom nathra. Rend thei.]{lang=varo enc=varosemaronenc}
-2 [First night. Second.]{lang=en}
-2 [Rend eom nathra. Rend thei.]{lang=varo}
-
-1 [Hemwen fedra glarth.]{lang=varo enc=varosemaronenc}
-2 [They feed fire.]{lang=en}
-2 [Hemwen fedra glarth.]{lang=varo}
-
-***
-1 [Fedra glarth. Na swefra hem.]{lang=varo enc=varosemaronenc}
-2 [Feed fire. Do not bank.]{lang=en}
-2 [Fedra glarth. Na swefra hem.]{lang=varo}
-
-1 [Wethan orwe wethan er hem.]{lang=varo enc=varosemaronenc}
-2 [Hands on her hands.]{lang=en}
-2 [Wethan orwe wethan er hem.]{lang=varo}
-
-1 [Wethan orwe fendar er hem.]{lang=varo enc=varosemaronenc}
-2 [Hands on her feet.]{lang=en}
-2 [Wethan orwe fendar er hem.]{lang=varo}
-
-1 [Warthra hemwen likwe wethan er othil.]{lang=varo enc=varosemaronenc}
-2 [Warm as child’s hands.]{lang=en}
-2 [Warthra hemwen likwe wethan er othil.]{lang=varo}
-
-1 [Eom. Andwen. Rend eom gendre.]{lang=varo enc=varosemaronenc}
-2 [One. Other. First again.]{lang=en}
-2 [Eom. Andwen. Rend eom gendre.]{lang=varo}
-
-1 [Mawen et wethan awen timra.]{lang=varo enc=varosemaronenc}
-2 [Someone at hands always.]{lang=en}
-2 [Mawen et wethan awen timra.]{lang=varo}
-
-1 [Mawen et glarth awen timra.]{lang=varo enc=varosemaronenc}
-2 [Someone at fire always.]{lang=en}
-2 [Mawen et glarth awen timra.]{lang=varo}
-
-1 [Eoth thum er hemra.]{lang=varo enc=varosemaronenc}
-2 [That belongs to house.]{lang=en}
-2 [Eoth thum er hemra.]{lang=varo}
-
-1 [Lerwin harve awen andwe.]{lang=varo enc=varosemaronenc}
-2 [Pupil has the rest.]{lang=en}
-2 [Lerwin harve awen andwe.]{lang=varo}
-
-1 [Nuwa bren. Malwen hem rewa ter wi.]{lang=varo enc=varosemaronenc}
-2 [Now bone. Speak it back to me.]{lang=en}
-2 [Nuwa bren. Malwen hem rewa ter wi.]{lang=varo}
-```
+Fedra glarth. Na swefra hem./
+Wethan orwe wethan er hem./
+Wethan orwe fendar er hem./
+Warthra hemwen likwe wethan er othil./
+Eom. Andwen. Rend eom gendre./
+Mawen et wethan awen timra./
+Mawen et glarth awen timra./
+Eoth thum er hemra./
+Lerwin harve awen andwe./
+Nuwa bren. Malwen hem rewa ter wi.
+:::
 
 ## See Also
 

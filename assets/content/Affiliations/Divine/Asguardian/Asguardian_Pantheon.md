@@ -94,1147 +94,595 @@ Beside the clergy go the _velvur_, itinerant seeresses bound to no hov, who trav
 
 : The Ten and the Last Muster
 
-```verse {form=epic lang=en cols=2 numstep=5}
-1 [samna hollva ok heimband‼]{lang=nord enc=nordthuravarkenc}
-2 [Gather the hall;]{lang=en}
-2 [samna hollva ok heimband‼]{lang=nord}
-
-1 [hlun nafma na dek, nura‼]{lang=nord enc=nordthuravarkenc}
-2 [hear the Ten named.]{lang=en}
-2 [hlun nafma na dek, nura‼]{lang=nord}
-
-1 [skulma felga skulma, fuld.]{lang=nord enc=nordthuravarkenc}
-2 [Cup follows cup;]{lang=en}
-2 [skulma felga skulma, fuld.]{lang=nord}
-
-1 [hersalm hlusta.]{lang=nord enc=nordthuravarkenc}
-2 [the company listens.]{lang=en}
-2 [hersalm hlusta.]{lang=nord}
-
-1 [fror gronma gruma ok berva]{lang=nord enc=nordthuravarkenc}
-2 [Before ground bore]{lang=en}
-2 [fror gronma gruma ok berva]{lang=nord}
-
-1 [fundi na kinli ok kinra,]{lang=nord enc=nordthuravarkenc}
-2 [feet of children,]{lang=en}
-2 [fundi na kinli ok kinra,]{lang=nord}
-
-1 [fror vidvarma ok vidma stann]{lang=nord enc=nordthuravarkenc}
-2 [before timber stood]{lang=en}
-2 [fror vidvarma ok vidma stann]{lang=nord}
-
-1 [tiv snir ok snel,]{lang=nord enc=nordthuravarkenc}
-2 [against the weather,]{lang=en}
-2 [tiv snir ok snel,]{lang=nord}
-
-1 [asva ok thursaett ok thurs]{lang=nord enc=nordthuravarkenc}
-2 [gods and giant-kin]{lang=en}
-2 [asva ok thursaett ok thurs]{lang=nord}
-
-1 [metva inn vigband, vrast.]{lang=nord enc=nordthuravarkenc}
-2 [joined in battle.]{lang=en}
-2 [metva inn vigband, vrast.]{lang=nord}
-
-1 [thursaett brak ok bugna.]{lang=nord enc=nordthuravarkenc}
-2 [Thursaett broke;]{lang=en}
-2 [thursaett brak ok bugna.]{lang=nord}
-
-1 [bodma nod brakri af herni.]{lang=nord enc=nordthuravarkenc}
-2 [the beaten were banished.]{lang=en}
-2 [bodma nod brakri af herni.]{lang=nord}
-
-1 [thursguard nem thurs.]{lang=nord enc=nordthuravarkenc}
-2 [Thursguard received them;]{lang=en}
-2 [thursguard nem thurs.]{lang=nord}
-
-1 [noll relth rurna inn.]{lang=nord enc=nordthuravarkenc}
-2 [no tale goes inward.]{lang=en}
-2 [noll relth rurna inn.]{lang=nord}
-
-1 [eiv thurs falna, thara.]{lang=nord enc=nordthuravarkenc}
-2 [One giant fell;]{lang=en}
-2 [eiv thurs falna, thara.]{lang=nord}
-
-1 [hrimthur lagna, hremna ok svelthi.]{lang=nord enc=nordthuravarkenc}
-2 [Hrimthur lay slaughtered.]{lang=en}
-2 [hrimthur lagna, hremna ok svelthi.]{lang=nord}
-
-1 [blimma es nemna, bratva,]{lang=nord enc=nordthuravarkenc}
-2 [Victory was won]{lang=en}
-2 [blimma es nemna, bratva,]{lang=nord}
-
-1 [fror motma na gronma ok gronmel.]{lang=nord enc=nordthuravarkenc}
-2 [before earth was fashioned.]{lang=en}
-2 [fror motma na gronma ok gronmel.]{lang=nord}
-
-***
-
-1 [dek skirv ok motna mannguard]{lang=nord enc=nordthuravarkenc}
-2 [The Ten cut Mannguard]{lang=en}
-2 [dek skirv ok motna mannguard]{lang=nord}
-
-1 [af krund knerv na hanv.]{lang=nord enc=nordthuravarkenc}
-2 [out of his body.]{lang=en}
-2 [af krund knerv na hanv.]{lang=nord}
-
-1 [gronma nifra fundi, fast,]{lang=nord enc=nordthuravarkenc}
-2 [Ground underfoot]{lang=en}
-2 [gronma nifra fundi, fast,]{lang=nord}
-
-1 [es sarnma na smivma.]{lang=nord enc=nordthuravarkenc}
-2 [is the wound of making.]{lang=en}
-2 [es sarnma na smivma.]{lang=nord}
-
-1 [ul dek, samri, miv samliv]{lang=nord enc=nordthuravarkenc}
-2 [All Ten together]{lang=en}
-2 [ul dek, samri, miv samliv]{lang=nord}
-
-1 [smiv vigrun than, vrast.]{lang=nord enc=nordthuravarkenc}
-2 [accomplished that victory.]{lang=en}
-2 [smiv vigrun than, vrast.]{lang=nord}
-
-1 [thara hveri gang ut, hratt,]{lang=nord enc=nordthuravarkenc}
-2 [Then each went forth]{lang=en}
-2 [thara hveri gang ut, hratt,]{lang=nord}
-
-1 [tiv velnma ok vrili na sjel.]{lang=nord enc=nordthuravarkenc}
-2 [to his own choosing.]{lang=en}
-2 [tiv velnma ok vrili na sjel.]{lang=nord}
-
-1 [kneldma komri nathri.]{lang=nord enc=nordthuravarkenc}
-2 [Bonds came after;]{lang=en}
-2 [kneldma komri nathri.]{lang=nord}
-
-1 [skreld komri nathri, skath.]{lang=nord enc=nordthuravarkenc}
-2 [quarrels came after.]{lang=en}
-2 [skreld komri nathri, skath.]{lang=nord}
-
-1 [gronma stann fast, stanni,]{lang=nord enc=nordthuravarkenc}
-2 [The world stood firm,]{lang=en}
-2 [gronma stann fast, stanni,]{lang=nord}
-
-1 [ak noll fridma knelda thenva, frildma.]{lang=nord enc=nordthuravarkenc}
-2 [but no peace bound them.]{lang=en}
-2 [ak noll fridma knelda thenva, frildma.]{lang=nord}
-
-1 [noll skald skurvi smurna]{lang=nord enc=nordthuravarkenc}
-2 [No singer may smooth]{lang=en}
-2 [noll skald skurvi smurna]{lang=nord}
-
-1 [ul skreld ok skath tiv hlus.]{lang=nord enc=nordthuravarkenc}
-2 [all strife to silence.]{lang=en}
-2 [ul skreld ok skath tiv hlus.]{lang=nord}
-
-1 [vrell na kindma, vrellvoll,]{lang=nord enc=nordthuravarkenc}
-2 [The founding blood]{lang=en}
-2 [vrell na kindma, vrellvoll,]{lang=nord}
-
-1 [es nifra hveri heimla.]{lang=nord enc=nordthuravarkenc}
-2 [is beneath each building.]{lang=en}
-2 [es nifra hveri heimla.]{lang=nord}
-
-1 [gronma ok gronmel minva]{lang=nord enc=nordthuravarkenc}
-2 [The ground remembers]{lang=en}
-2 [gronma ok gronmel minva]{lang=nord}
-
-1 [smivma na asva, smivna.]{lang=nord enc=nordthuravarkenc}
-2 [what the gods accomplished.]{lang=en}
-2 [smivma na asva, smivna.]{lang=nord}
-
-***
-
-1 [odvar halv hugnim.]{lang=nord enc=nordthuravarkenc}
-2 [Odvar keeps knowledge;]{lang=en}
-2 [odvar halv hugnim.]{lang=nord}
-
-1 [thrunvald halv thrumva.]{lang=nord enc=nordthuravarkenc}
-2 [Thrunvald keeps thunder.]{lang=en}
-2 [thrunvald halv thrumva.]{lang=nord}
-
-1 [eidgar halv eidva, helm.]{lang=nord enc=nordthuravarkenc}
-2 [Eidgar keeps oaths;]{lang=en}
-2 [eidgar halv eidva, helm.]{lang=nord}
-
-1 [frodvin halv gruma ok frukna.]{lang=nord enc=nordthuravarkenc}
-2 [Frodvin keeps growing.]{lang=en}
-2 [frodvin halv gruma ok frukna.]{lang=nord}
-
-1 [solrún halv lufna, sannri,]{lang=nord enc=nordthuravarkenc}
-2 [Solrún keeps love]{lang=en}
-2 [solrún halv lufna, sannri,]{lang=nord}
-
-1 [ok virmi, fuld ok frildi nodri.]{lang=nord enc=nordthuravarkenc}
-2 [and wealth freely given.]{lang=en}
-2 [ok virmi, fuld ok frildi nodri.]{lang=nord}
-
-1 [bjart halv bjartma]{lang=nord enc=nordthuravarkenc}
-2 [Bjart keeps light]{lang=en}
-2 [bjart halv bjartma]{lang=nord}
-
-1 [ok dvulskensa ok dvul na alva.]{lang=nord enc=nordthuravarkenc}
-2 [and dreams of elders.]{lang=en}
-2 [ok dvulskensa ok dvul na alva.]{lang=nord}
-
-1 [mótefnir smiv, motna.]{lang=nord enc=nordthuravarkenc}
-2 [Mótefnir makes;]{lang=en}
-2 [mótefnir smiv, motna.]{lang=nord}
-
-1 [smivma na hanv stavi, smol, nel lurmi.]{lang=nord enc=nordthuravarkenc}
-2 [his making stays unfinished.]{lang=en}
-2 [smivma na hanv stavi, smol, nel lurmi.]{lang=nord}
-
-1 [velgrímur bugna velhug]{lang=nord enc=nordthuravarkenc}
-2 [Velgrímur bends cunning]{lang=en}
-2 [velgrímur bugna velhug]{lang=nord}
-
-1 [rund fast halvna steldi, fasttrun.]{lang=nord enc=nordthuravarkenc}
-2 [round firm held certainty.]{lang=en}
-2 [rund fast halvna steldi, fasttrun.]{lang=nord}
-
-1 [nahild skorna, naarva,]{lang=nord enc=nordthuravarkenc}
-2 [Nahild despises]{lang=en}
-2 [nahild skorna, naarva,]{lang=nord}
-
-1 [hnat livri lufna.]{lang=nord enc=nordthuravarkenc}
-2 [what the living love.]{lang=en}
-2 [hnat livri lufna.]{lang=nord}
-
-1 [svartbrandur halv eldva, svarti,]{lang=nord enc=nordthuravarkenc}
-2 [Svartbrandur keeps fire]{lang=en}
-2 [svartbrandur halv eldva, svarti,]{lang=nord}
-
-1 [ok drum hrass ok harn na vigband.]{lang=nord enc=nordthuravarkenc}
-2 [and fierce battle fury.]{lang=en}
-2 [ok drum hrass ok harn na vigband.]{lang=nord}
-
-1 [dek es nafma, nura.]{lang=nord enc=nordthuravarkenc}
-2 [Ten are the names;]{lang=en}
-2 [dek es nafma, nura.]{lang=nord}
-
-1 [noll fridma ok frildma knelda ul dek.]{lang=nord enc=nordthuravarkenc}
-2 [no peace joins all Ten.]{lang=en}
-2 [noll fridma ok frildma knelda ul dek.]{lang=nord}
-
-***
-
-1 [vornri kinma stann, stanni,]{lang=nord enc=nordthuravarkenc}
-2 [Defending kin stand]{lang=en}
-2 [vornri kinma stann, stanni,]{lang=nord}
-
-1 [miv samri ok sannri tharfma.]{lang=nord enc=nordthuravarkenc}
-2 [by common necessity.]{lang=en}
-2 [miv samri ok sannri tharfma.]{lang=nord}
-
-1 [tiv rugma ok rettskard]{lang=nord enc=nordthuravarkenc}
-2 [Against corruption,]{lang=en}
-2 [tiv rugma ok rettskard]{lang=nord}
-
-1 [forvil halv thenva, fast.]{lang=nord enc=nordthuravarkenc}
-2 [their cause holds them.]{lang=en}
-2 [forvil halv thenva, fast.]{lang=nord}
-
-1 [tiv brakma, bratva,]{lang=nord enc=nordthuravarkenc}
-2 [Against destruction,]{lang=en}
-2 [tiv brakma, bratva,]{lang=nord}
-
-1 [vrili na thenva nod andrma, vrast.]{lang=nord enc=nordthuravarkenc}
-2 [their will gives answer.]{lang=en}
-2 [vrili na thenva nod andrma, vrast.]{lang=nord}
-
-1 [asva hav velnri mannvar, vrili.]{lang=nord enc=nordthuravarkenc}
-2 [Gods have favorites;]{lang=en}
-2 [asva hav velnri mannvar, vrili.]{lang=nord}
-
-1 [asva smiv feilma, falma.]{lang=nord enc=nordthuravarkenc}
-2 [gods make mistakes.]{lang=en}
-2 [asva smiv feilma, falma.]{lang=nord}
-
-1 [hollva marl tiv holv.]{lang=nord enc=nordthuravarkenc}
-2 [Hall speaks against hall;]{lang=en}
-2 [hollva marl tiv holv.]{lang=nord}
-
-1 [skreld hav hlunbak, skrang.]{lang=nord enc=nordthuravarkenc}
-2 [the quarrel has echoes.]{lang=en}
-2 [skreld hav hlunbak, skrang.]{lang=nord}
-
-1 [nahild stann tiv, naarva,]{lang=nord enc=nordthuravarkenc}
-2 [Nahild opposes]{lang=en}
-2 [nahild stann tiv, naarva,]{lang=nord}
-
-1 [hluva na livri ok hludna.]{lang=nord enc=nordthuravarkenc}
-2 [the breath of living.]{lang=en}
-2 [hluva na livri ok hludna.]{lang=nord}
-
-1 [svartbrandur berna, svarti,]{lang=nord enc=nordthuravarkenc}
-2 [Svartbrandur brings]{lang=en}
-2 [svartbrandur berna, svarti,]{lang=nord}
-
-1 [hnat eldna smivma na gronma, smivna.]{lang=nord enc=nordthuravarkenc}
-2 [what burns the world's making.]{lang=en}
-2 [hnat eldna smivma na gronma, smivna.]{lang=nord}
-
-1 [virdma es dingi, vekti,]{lang=nord enc=nordthuravarkenc}
-2 [Worth is the thing]{lang=en}
-2 [virdma es dingi, vekti,]{lang=nord}
-
-1 [na thenva stann tiv, stanni.]{lang=nord enc=nordthuravarkenc}
-2 [they will stand against.]{lang=en}
-2 [na thenva stann tiv, stanni.]{lang=nord}
-
-1 [virdma es skuldnod, vrul,]{lang=nord enc=nordthuravarkenc}
-2 [Worth is the cost]{lang=en}
-2 [virdma es skuldnod, vrul,]{lang=nord}
-
-1 [na thenva berva, stann ok stanni.]{lang=nord enc=nordthuravarkenc}
-2 [they will bear in standing.]{lang=en}
-2 [na thenva berva, stann ok stanni.]{lang=nord}
-
-***
-
-1 [heimsask gruma, hurvi,]{lang=nord enc=nordthuravarkenc}
-2 [Heimsask grows]{lang=en}
-2 [heimsask gruma, hurvi,]{lang=nord}
-
-1 [thru gronma ok gronmel na vri skelna.]{lang=nord enc=nordthuravarkenc}
-2 [through worlds we share.]{lang=en}
-2 [thru gronma ok gronmel na vri skelna.]{lang=nord}
-
-1 [rotva halv asguard, hurvi.]{lang=nord enc=nordthuravarkenc}
-2 [Roots hold Asguard;]{lang=en}
-2 [rotva halv asguard, hurvi.]{lang=nord}
-
-1 [mannguard ok mannvar hav skromhofna.]{lang=nord enc=nordthuravarkenc}
-2 [Mannguard has the crown.]{lang=en}
-2 [mannguard ok mannvar hav skromhofna.]{lang=nord}
-
-1 [asva halv hollva.]{lang=nord enc=nordthuravarkenc}
-2 [Gods have their halls;]{lang=en}
-2 [asva halv hollva.]{lang=nord}
-
-1 [livri smiv heimla, lang.]{lang=nord enc=nordthuravarkenc}
-2 [the living build houses.]{lang=en}
-2 [livri smiv heimla, lang.]{lang=nord}
-
-1 [livri hav landri, lang,]{lang=nord enc=nordthuravarkenc}
-2 [The living have ground]{lang=en}
-2 [livri hav landri, lang,]{lang=nord}
-
-1 [na ul tharv farna, farn.]{lang=nord enc=nordthuravarkenc}
-2 [that all must leave.]{lang=en}
-2 [na ul tharv farna, farn.]{lang=nord}
-
-1 [valsal samna vigri.]{lang=nord enc=nordthuravarkenc}
-2 [Valsal gathers;]{lang=en}
-2 [valsal samna vigri.]{lang=nord}
-
-1 [solvangur kallar komri inn.]{lang=nord enc=nordthuravarkenc}
-2 [Solvangur welcomes.]{lang=en}
-2 [solvangur kallar komri inn.]{lang=nord}
-
-1 [eldheim halv eldva ok hvitna eldtunga.]{lang=nord enc=nordthuravarkenc}
-2 [Eldheim keeps fire;]{lang=en}
-2 [eldheim halv eldva ok hvitna eldtunga.]{lang=nord}
-
-1 [nulthey nem nel virdi.]{lang=nord enc=nordthuravarkenc}
-2 [Nulthey takes unworthy.]{lang=en}
-2 [nulthey nem nel virdi.]{lang=nord}
-
-1 [eyva halv thenva, hlusi.]{lang=nord enc=nordthuravarkenc}
-2 [The island holds them;]{lang=en}
-2 [eyva halv thenva, hlusi.]{lang=nord}
-
-1 [thenva vendri smol ok sneri tiv noll dingi.]{lang=nord enc=nordthuravarkenc}
-2 [they dwindle toward nothing.]{lang=en}
-2 [thenva vendri smol ok sneri tiv noll dingi.]{lang=nord}
-
-1 [nahild snert noll dingi]{lang=nord enc=nordthuravarkenc}
-2 [Nahild heeds none]{lang=en}
-2 [nahild snert noll dingi]{lang=nord}
-
-1 [na sulvi ok smol skard na thenva.]{lang=nord enc=nordthuravarkenc}
-2 [of their slow losses.]{lang=en}
-2 [na sulvi ok smol skard na thenva.]{lang=nord}
-
-1 [vidra knelda gronma, vredi.]{lang=nord enc=nordthuravarkenc}
-2 [The tree binds worlds;]{lang=en}
-2 [vidra knelda gronma, vredi.]{lang=nord}
-
-1 [eldna na it eldna tvem, tveinri.]{lang=nord enc=nordthuravarkenc}
-2 [its burning burns both.]{lang=en}
-2 [eldna na it eldna tvem, tveinri.]{lang=nord}
-
-***
-
-1 [hverv legva malma or lang sveld]{lang=nord enc=nordthuravarkenc}
-2 [Who claims the bench]{lang=en}
-2 [hverv legva malma or lang sveld]{lang=nord}
-
-1 [hvarv virdi ok vrast es samnri?]{lang=nord enc=nordthuravarkenc}
-2 [where the worthy are gathered?]{lang=en}
-2 [hvarv virdi ok vrast es samnri?]{lang=nord}
-
-1 [vigri na falna, vrellna,]{lang=nord enc=nordthuravarkenc}
-2 [Warriors fallen]{lang=en}
-2 [vigri na falna, vrellna,]{lang=nord}
-
-1 [miv skyld fralm thenva, skurvi.]{lang=nord enc=nordthuravarkenc}
-2 [with duty before them.]{lang=en}
-2 [miv skyld fralm thenva, skurvi.]{lang=nord}
-
-1 [eidmann na svelna, svul,]{lang=nord enc=nordthuravarkenc}
-2 [Oath-keepers dying]{lang=en}
-2 [eidmann na svelna, svul,]{lang=nord}
-
-1 [miv gandma halvna sannri ok sannma.]{lang=nord enc=nordthuravarkenc}
-2 [with words held true.]{lang=en}
-2 [miv gandma halvna sannri ok sannma.]{lang=nord}
-
-1 [morka na livma, lang,]{lang=nord enc=nordthuravarkenc}
-2 [Mothers whose lives]{lang=en}
-2 [morka na livma, lang,]{lang=nord}
-
-1 [na lork inn berna na livma.]{lang=nord enc=nordthuravarkenc}
-2 [end in bringing life.]{lang=en}
-2 [na lork inn berna na livma.]{lang=nord}
-
-1 [smivri na falna, svelthi,]{lang=nord enc=nordthuravarkenc}
-2 [Craftsmen who fall]{lang=en}
-2 [smivri na falna, svelthi,]{lang=nord}
-
-1 [inn vrond na smivma, vrast.]{lang=nord enc=nordthuravarkenc}
-2 [defending their making.]{lang=en}
-2 [inn vrond na smivma, vrast.]{lang=nord}
-
-1 [ódvarsholl skif, skrang,]{lang=nord enc=nordthuravarkenc}
-2 [Ódvarsholl opens]{lang=en}
-2 [ódvarsholl skif, skrang,]{lang=nord}
-
-1 [nifra hroldvidma, hulda miv skeldva.]{lang=nord enc=nordthuravarkenc}
-2 [under shielded rafters.]{lang=en}
-2 [nifra hroldvidma, hulda miv skeldva.]{lang=nord}
-
-1 [sólrunsholl ljormi likva solva]{lang=nord enc=nordthuravarkenc}
-2 [Sólrunsholl shines]{lang=en}
-2 [sólrunsholl ljormi likva solva]{lang=nord}
-
-1 [miv lang ljormna tavla.]{lang=nord enc=nordthuravarkenc}
-2 [with long lighted tables.]{lang=en}
-2 [miv lang ljormna tavla.]{lang=nord}
-
-1 [valdrengir vindri.]{lang=nord enc=nordthuravarkenc}
-2 [Valdrengir wait;]{lang=en}
-2 [valdrengir vindri.]{lang=nord}
-
-1 [virdi mannvar stann lagri, vrast.]{lang=nord enc=nordthuravarkenc}
-2 [the worthy stand ready.]{lang=en}
-2 [virdi mannvar stann lagri, vrast.]{lang=nord}
-
-1 [vigband at lest lorka]{lang=nord enc=nordthuravarkenc}
-2 [War at the ending]{lang=en}
-2 [vigband at lest lorka]{lang=nord}
-
-1 [vindri firn samnma na thenva, vakti.]{lang=nord enc=nordthuravarkenc}
-2 [awaits their gathering.]{lang=en}
-2 [vindri firn samnma na thenva, vakti.]{lang=nord}
-
-***
-
-1 [inn valsal vigri]{lang=nord enc=nordthuravarkenc}
-2 [In Valsal, warriors]{lang=en}
-2 [inn valsal vigri]{lang=nord}
-
-1 [vakna tiv vigband.]{lang=nord enc=nordthuravarkenc}
-2 [wake to fighting.]{lang=en}
-2 [vakna tiv vigband.]{lang=nord}
-
-1 [kvelva sleppi kneldma,]{lang=nord enc=nordthuravarkenc}
-2 [Evening unwinds]{lang=en}
-2 [kvelva sleppi kneldma,]{lang=nord}
-
-1 [sarnma na halv thenva, sarmi.]{lang=nord enc=nordthuravarkenc}
-2 [the wounds that held them.]{lang=en}
-2 [sarnma na halv thenva, sarmi.]{lang=nord}
-
-1 [blet felga vigband ok bulla.]{lang=nord enc=nordthuravarkenc}
-2 [Feast follows battle;]{lang=en}
-2 [blet felga vigband ok bulla.]{lang=nord}
-
-1 [thenva finva lang sveld, fast.]{lang=nord enc=nordthuravarkenc}
-2 [they find their benches.]{lang=en}
-2 [thenva finva lang sveld, fast.]{lang=nord}
-
-1 [thenva ler firn gludva, lerma,]{lang=nord enc=nordthuravarkenc}
-2 [They train for the day]{lang=en}
-2 [thenva ler firn gludva, lerma,]{lang=nord}
-
-1 [na lork ul komri bak, lest.]{lang=nord enc=nordthuravarkenc}
-2 [that ends all returning.]{lang=en}
-2 [na lork ul komri bak, lest.]{lang=nord}
-
-1 [livri sulna mildsnul, smeldi.]{lang=nord enc=nordthuravarkenc}
-2 [The living pour mead;]{lang=en}
-2 [livri sulna mildsnul, smeldi.]{lang=nord}
-
-1 [blet metva blet, bulla.]{lang=nord enc=nordthuravarkenc}
-2 [feast joins feast.]{lang=en}
-2 [blet metva blet, bulla.]{lang=nord}
-
-1 [at hov ok horgur ok eldsveld]{lang=nord enc=nordthuravarkenc}
-2 [At hovs and hearthstones]{lang=en}
-2 [at hov ok horgur ok eldsveld]{lang=nord}
-
-1 [blet es skelnri miv skelnma.]{lang=nord enc=nordthuravarkenc}
-2 [the offerings are shared.]{lang=en}
-2 [blet es skelnri miv skelnma.]{lang=nord}
-
-1 [at ting, tveinri gandma ok eidva]{lang=nord enc=nordthuravarkenc}
-2 [At tings, sworn words]{lang=en}
-2 [at ting, tveinri gandma ok eidva]{lang=nord}
-
-1 [nem vrulma af skenri, vakti.]{lang=nord enc=nordthuravarkenc}
-2 [take weight from witnesses.]{lang=en}
-2 [nem vrulma af skenri, vakti.]{lang=nord}
-
-1 [mannvar hav ji miv mervi]{lang=nord enc=nordthuravarkenc}
-2 [The folk have work]{lang=en}
-2 [mannvar hav ji miv mervi]{lang=nord}
-
-1 [nifra hveri ratma ok rettma,]{lang=nord enc=nordthuravarkenc}
-2 [under each observance:]{lang=en}
-2 [nifra hveri ratma ok rettma,]{lang=nord}
-
-1 [halv fasttrun miv samliv, fast,]{lang=nord enc=nordthuravarkenc}
-2 [to keep faith together]{lang=en}
-2 [halv fasttrun miv samliv, fast,]{lang=nord}
-
-1 [inn thima na thenva, thara.]{lang=nord enc=nordthuravarkenc}
-2 [while time is theirs.]{lang=en}
-2 [inn thima na thenva, thara.]{lang=nord}
-
-***
-
-1 [velva setva hurvi, vakti.]{lang=nord enc=nordthuravarkenc}
-2 [A velva sits high;]{lang=en}
-2 [velva setva hurvi, vakti.]{lang=nord}
-
-1 [heimband spurni hugvorn.]{lang=nord enc=nordthuravarkenc}
-2 [the household asks counsel.]{lang=en}
-2 [heimband spurni hugvorn.]{lang=nord}
-
-1 [spurnma hav vrulma, vrul,]{lang=nord enc=nordthuravarkenc}
-2 [Questions have weight]{lang=en}
-2 [spurnma hav vrulma, vrul,]{lang=nord}
-
-1 [hvern veturma komri, vredi.]{lang=nord enc=nordthuravarkenc}
-2 [when winter is coming.]{lang=en}
-2 [hvern veturma komri, vredi.]{lang=nord}
-
-1 [runkefli ok runva es lesna.]{lang=nord enc=nordthuravarkenc}
-2 [Rune-staves are read;]{lang=en}
-2 [runkefli ok runva es lesna.]{lang=nord}
-
-1 [vathfarda hav motva, metna.]{lang=nord enc=nordthuravarkenc}
-2 [the currents have shape.]{lang=en}
-2 [vathfarda hav motva, metna.]{lang=nord}
-
-1 [thenva skelra skensa na velnma]{lang=nord enc=nordthuravarkenc}
-2 [They show where choosing]{lang=en}
-2 [thenva skelra skensa na velnma]{lang=nord}
-
-1 [tharv metva math na sjel.]{lang=nord enc=nordthuravarkenc}
-2 [must meet its measure.]{lang=en}
-2 [tharv metva math na sjel.]{lang=nord}
-
-1 [mildsnul sulna or stevna, smeldi.]{lang=nord enc=nordthuravarkenc}
-2 [Mead wets the stone;]{lang=en}
-2 [mildsnul sulna or stevna, smeldi.]{lang=nord}
-
-1 [staf eiv sulma es nodri, nivi.]{lang=nord enc=nordthuravarkenc}
-2 [the first pour is offered.]{lang=en}
-2 [staf eiv sulma es nodri, nivi.]{lang=nord}
-
-1 [brolva brak firn skelna.]{lang=nord enc=nordthuravarkenc}
-2 [Bread breaks for sharing;]{lang=en}
-2 [brolva brak firn skelna.]{lang=nord}
-
-1 [blet berna miv samliv]{lang=nord enc=nordthuravarkenc}
-2 [the blet brings together]{lang=en}
-2 [blet berna miv samliv]{lang=nord}
-
-1 [asva ok mannvar, mannguard,]{lang=nord enc=nordthuravarkenc}
-2 [the gods and the folk,]{lang=en}
-2 [asva ok mannvar, mannguard,]{lang=nord}
-
-1 [falgva ok hludna ok hrel.]{lang=nord enc=nordthuravarkenc}
-2 [the dead and the breathing.]{lang=en}
-2 [falgva ok hludna ok hrel.]{lang=nord}
-
-1 [eidva finva skenri, skelmi,]{lang=nord enc=nordthuravarkenc}
-2 [An oath finds witness]{lang=en}
-2 [eidva finva skenri, skelmi,]{lang=nord}
-
-1 [nifra vakt na asva, vakti.]{lang=nord enc=nordthuravarkenc}
-2 [under the god's attention.]{lang=en}
-2 [nifra vakt na asva, vakti.]{lang=nord}
-
-1 [gandma marli frildi ok fuld]{lang=nord enc=nordthuravarkenc}
-2 [A word spoken freely]{lang=en}
-2 [gandma marli frildi ok fuld]{lang=nord}
-
-1 [knelda murn na marl it.]{lang=nord enc=nordthuravarkenc}
-2 [binds the mouth that made it.]{lang=en}
-2 [knelda murn na marl it.]{lang=nord}
-
-1 [brak balv than,]{lang=nord enc=nordthuravarkenc}
-2 [Break that binding,]{lang=en}
-2 [brak balv than,]{lang=nord}
-
-1 [ok tamkva gang berv ok brakri‼]{lang=nord enc=nordthuravarkenc}
-2 [and trust goes broken.]{lang=en}
-2 [ok tamkva gang berv ok brakri‼]{lang=nord}
-
-1 [halv balv than, helm,]{lang=nord enc=nordthuravarkenc}
-2 [Keep that binding,]{lang=en}
-2 [halv balv than, helm,]{lang=nord}
-
-1 [hollva halv hlev‼]{lang=nord enc=nordthuravarkenc}
-2 [and the hall holds shelter.]{lang=en}
-2 [hollva halv hlev‼]{lang=nord}
-
-1 [smul hav ji, smivma.]{lang=nord enc=nordthuravarkenc}
-2 [The tongue has its task;]{lang=en}
-2 [smul hav ji, smivma.]{lang=nord}
-
-1 [hondi hav halvma na sjel.]{lang=nord enc=nordthuravarkenc}
-2 [the hand has its keeping.]{lang=en}
-2 [hondi hav halvma na sjel.]{lang=nord}
-
-***
-
-1 [at jel, dek ok tvei narl ok nottva]{lang=nord enc=nordthuravarkenc}
-2 [At [[lore-jol|Jel]], twelve nights]{lang=en}
-2 [at jel, dek ok tvei narl ok nottva]{lang=nord}
-
-1 [es bjarti inn hov ok horgur.]{lang=nord enc=nordthuravarkenc}
-2 [are bright in the hovs.]{lang=en}
-2 [es bjarti inn hov ok horgur.]{lang=nord}
-
-1 [dulvma hallva ner, drav,]{lang=nord enc=nordthuravarkenc}
-2 [Darkness leans close]{lang=en}
-2 [dulvma hallva ner, drav,]{lang=nord}
-
-1 [tiv lang ok ljormna skernhul.]{lang=nord enc=nordthuravarkenc}
-2 [to lighted windows.]{lang=en}
-2 [tiv lang ok ljormna skernhul.]{lang=nord}
-
-1 [falgva es kallarni ok komri.]{lang=nord enc=nordthuravarkenc}
-2 [The dead are invited;]{lang=en}
-2 [falgva es kallarni ok komri.]{lang=nord}
-
-1 [eldsveld nem hovnod ok hruna.]{lang=nord enc=nordthuravarkenc}
-2 [the hearth receives blessing.]{lang=en}
-2 [eldsveld nem hovnod ok hruna.]{lang=nord}
-
-1 [dirma gang helm ok hrel]{lang=nord enc=nordthuravarkenc}
-2 [The song goes whole]{lang=en}
-2 [dirma gang helm ok hrel]{lang=nord}
-
-1 [af frorri vigband tiv foskva.]{lang=nord enc=nordthuravarkenc}
-2 [from first war to ashes.]{lang=en}
-2 [af frorri vigband tiv foskva.]{lang=nord}
-
-1 [skulvi stavi stanni]{lang=nord enc=nordthuravarkenc}
-2 [A spoon rests still]{lang=en}
-2 [skulvi stavi stanni]{lang=nord}
-
-1 [inn hondi na hlustari.]{lang=nord enc=nordthuravarkenc}
-2 [in the listener's hand.]{lang=en}
-2 [inn hondi na hlustari.]{lang=nord}
-
-1 [junva kinli stap slak, stanni,]{lang=nord enc=nordthuravarkenc}
-2 [A young child stops beating]{lang=en}
-2 [junva kinli stap slak, stanni,]{lang=nord}
-
-1 [na fundbak or lang sveld, fast.]{lang=nord enc=nordthuravarkenc}
-2 [his heel on the bench.]{lang=en}
-2 [na fundbak or lang sveld, fast.]{lang=nord}
-
-1 [eldtunga hup hurvi.]{lang=nord enc=nordthuravarkenc}
-2 [Flame licks upward;]{lang=en}
-2 [eldtunga hup hurvi.]{lang=nord}
-
-1 [nafma gang framri, nimri.]{lang=nord enc=nordthuravarkenc}
-2 [the names go onward.]{lang=en}
-2 [nafma gang framri, nimri.]{lang=nord}
-
-1 [blet halv hluva.]{lang=nord enc=nordthuravarkenc}
-2 [The feast holds breath;]{lang=en}
-2 [blet halv hluva.]{lang=nord}
-
-1 [heimsaldur hrav ner.]{lang=nord enc=nordthuravarkenc}
-2 [the age draws nearer.]{lang=en}
-2 [heimsaldur hrav ner.]{lang=nord}
-
-1 [noll skald kan skrifna]{lang=nord enc=nordthuravarkenc}
-2 [No skald can mark]{lang=en}
-2 [noll skald kan skrifna]{lang=nord}
-
-1 [gludva or skrifvef ok skildva.]{lang=nord enc=nordthuravarkenc}
-2 [the day on parchment.]{lang=en}
-2 [gludva or skrifvef ok skildva.]{lang=nord}
-
-***
-
-1 [odvar sokna sannri hugnim]{lang=nord enc=nordthuravarkenc}
-2 [Odvar sought knowledge]{lang=en}
-2 [odvar sokna sannri hugnim]{lang=nord}
-
-1 [na lest lorka na gronma.]{lang=nord enc=nordthuravarkenc}
-2 [of the world's ending.]{lang=en}
-2 [na lest lorka na gronma.]{lang=nord}
-
-1 [hugvirdi nod skensa, skelmi,]{lang=nord enc=nordthuravarkenc}
-2 [Wisdom gave sight]{lang=en}
-2 [hugvirdi nod skensa, skelmi,]{lang=nord}
-
-1 [na svelthma na sjel, svul.]{lang=nord enc=nordthuravarkenc}
-2 [of his own death.]{lang=en}
-2 [na svelthma na sjel, svul.]{lang=nord}
-
-1 [asva halv hollva buen.]{lang=nord enc=nordthuravarkenc}
-2 [Still, gods keep halls;]{lang=en}
-2 [asva halv hollva buen.]{lang=nord}
-
-1 [buen gesta gang inn.]{lang=nord enc=nordthuravarkenc}
-2 [still, guests are gathered.]{lang=en}
-2 [buen gesta gang inn.]{lang=nord}
-
-1 [buen hruna falgva na hrunda]{lang=nord enc=nordthuravarkenc}
-2 [Still, honored dead]{lang=en}
-2 [buen hruna falgva na hrunda]{lang=nord}
-
-1 [ler firn glisna vigband, vrast.]{lang=nord enc=nordthuravarkenc}
-2 [train for lost battle.]{lang=en}
-2 [ler firn glisna vigband, vrast.]{lang=nord}
-
-1 [dirma nod motva, metna,]{lang=nord enc=nordthuravarkenc}
-2 [The song gives shape]{lang=en}
-2 [dirma nod motva, metna,]{lang=nord}
-
-1 [tiv lest hulmva, lurvi.]{lang=nord enc=nordthuravarkenc}
-2 [to the last shadow.]{lang=en}
-2 [tiv lest hulmva, lurvi.]{lang=nord}
-
-1 [eldheim skif, skath.]{lang=nord enc=nordthuravarkenc}
-2 [Eldheim opens;]{lang=en}
-2 [eldheim skif, skath.]{lang=nord}
-
-1 [svartbrandur reidna ut, svarti.]{lang=nord enc=nordthuravarkenc}
-2 [Svartbrandur rides forth.]{lang=en}
-2 [svartbrandur reidna ut, svarti.]{lang=nord}
-
-1 [kinma na eldva felga framri.]{lang=nord enc=nordthuravarkenc}
-2 [Fire-kin follow;]{lang=en}
-2 [kinma na eldva felga framri.]{lang=nord}
-
-1 [eldva gang framri fralm hanv, farn.]{lang=nord enc=nordthuravarkenc}
-2 [burning goes before him.]{lang=en}
-2 [eldva gang framri fralm hanv, farn.]{lang=nord}
-
-1 [vetrúlfur vendri frildi.]{lang=nord enc=nordthuravarkenc}
-2 [[lore-vetrulfur|Vetrúlfur]] slips free;
-2 [vetrúlfur vendri frildi.]{lang=nord}
-
-1 [veth na ulfva felga, vrul.]{lang=nord enc=nordthuravarkenc}
-2 [the wolf-winter follows.]{lang=en}
-2 [veth na ulfva felga, vrul.]{lang=nord}
-
-1 [balv nel kan halv, brakri,]{lang=nord enc=nordthuravarkenc}
-2 [The chain cannot hold]{lang=en}
-2 [balv nel kan halv, brakri,]{lang=nord}
-
-1 [lest svulma na gronma, lurvi.]{lang=nord enc=nordthuravarkenc}
-2 [the world's last cold.]{lang=en}
-2 [lest svulma na gronma, lurvi.]{lang=nord}
-
-***
-
-1 [valsal vendri ut.]{lang=nord enc=nordthuravarkenc}
-2 [Valsal goes forth;]{lang=en}
-2 [valsal vendri ut.]{lang=nord}
-
-1 [solvangur vendri manik, smol.]{lang=nord enc=nordthuravarkenc}
-2 [Solvangur empties.]{lang=en}
-2 [solvangur vendri manik, smol.]{lang=nord}
-
-1 [vigvoll nem, vredi,]{lang=nord enc=nordthuravarkenc}
-2 [[place-vigvoll|Vigvoll]] receives
-2 [vigvoll nem, vredi,]{lang=nord}
-
-1 [hersalm na hrunda.]{lang=nord enc=nordthuravarkenc}
-2 [the muster of honor.]{lang=en}
-2 [hersalm na hrunda.]{lang=nord}
-
-1 [falgva stann inn lanma, lang,]{lang=nord enc=nordthuravarkenc}
-2 [The dead draw up]{lang=en}
-2 [falgva stann inn lanma, lang,]{lang=nord}
-
-1 [siv vronda asva, vrast.]{lang=nord enc=nordthuravarkenc}
-2 [beside defending gods.]{lang=en}
-2 [siv vronda asva, vrast.]{lang=nord}
-
-1 [vangri eidna, vredi,]{lang=nord enc=nordthuravarkenc}
-2 [The field promises]{lang=en}
-2 [vangri eidna, vredi,]{lang=nord}
-
-1 [noll blimma tiv thenva, noll bak.]{lang=nord enc=nordthuravarkenc}
-2 [no triumph to them.]{lang=en}
-2 [noll blimma tiv thenva, noll bak.]{lang=nord}
-
-1 [velgrímur stann, vakti,]{lang=nord enc=nordthuravarkenc}
-2 [Velgrímur stands]{lang=en}
-2 [velgrímur stann, vakti,]{lang=nord}
-
-1 [miv svartbrandur tiv kinma ok kinband.]{lang=nord enc=nordthuravarkenc}
-2 [with Svartbrandur against kin.]{lang=en}
-2 [miv svartbrandur tiv kinma ok kinband.]{lang=nord}
-
-1 [velhug vendri]{lang=nord enc=nordthuravarkenc}
-2 [Cunning has turned]{lang=en}
-2 [velhug vendri]{lang=nord}
-
-1 [at thima na lest lorka.]{lang=nord enc=nordthuravarkenc}
-2 [at the time of ending.]{lang=en}
-2 [at thima na lest lorka.]{lang=nord}
-
-1 [odvar gang framri ok farn.]{lang=nord enc=nordthuravarkenc}
-2 [Odvar goes forward;]{lang=en}
-2 [odvar gang framri ok farn.]{lang=nord}
-
-1 [ulfva na veturma metva hanv, vredi.]{lang=nord enc=nordthuravarkenc}
-2 [the Winter-Wolf meets him.]{lang=en}
-2 [ulfva na veturma metva hanv, vredi.]{lang=nord}
-
-1 [ulfva nem fadra, frorri.]{lang=nord enc=nordthuravarkenc}
-2 [Wolf takes father;]{lang=en}
-2 [ulfva nem fadra, frorri.]{lang=nord}
-
-1 [karn kinli nem ulfva.]{lang=nord enc=nordthuravarkenc}
-2 [son takes wolf.]{lang=en}
-2 [karn kinli nem ulfva.]{lang=nord}
-
-1 [hugvirdi ok drum hrass]{lang=nord enc=nordthuravarkenc}
-2 [Wisdom and fury]{lang=en}
-2 [hugvirdi ok drum hrass]{lang=nord}
-
-1 [lagna falna, lest inn renma.]{lang=nord enc=nordthuravarkenc}
-2 [lie fallen in turn.]{lang=en}
-2 [lagna falna, lest inn renma.]{lang=nord}
-
-***
-
-1 [thrunvald slak, thrumva,]{lang=nord enc=nordthuravarkenc}
-2 [Thrunvald strikes]{lang=en}
-2 [thrunvald slak, thrumva,]{lang=nord}
-
-1 [heimsormur, hralda na gronma.]{lang=nord enc=nordthuravarkenc}
-2 [[lore-heimsormur|Heimsormur]], the World-Wyrm.
-2 [heimsormur, hralda na gronma.]{lang=nord}
-
-1 [thrúnhamarr andri, thrumva,]{lang=nord enc=nordthuravarkenc}
-2 [Thrúnhamarr answers]{lang=en}
-2 [thrúnhamarr andri, thrumva,]{lang=nord}
-
-1 [risna na rurnma ok drum hrosk.]{lang=nord enc=nordthuravarkenc}
-2 [the rising of terror.]{lang=en}
-2 [risna na rurnma ok drum hrosk.]{lang=nord}
-
-1 [ormla falna nif, njorvi.]{lang=nord enc=nordthuravarkenc}
-2 [The wyrm falls down;]{lang=en}
-2 [ormla falna nif, njorvi.]{lang=nord}
-
-1 [svarka gang miv hanv, svarti.]{lang=nord enc=nordthuravarkenc}
-2 [venom goes with him.]{lang=en}
-2 [svarka gang miv hanv, svarti.]{lang=nord}
-
-1 [asva gang niv fundgang, nimri]{lang=nord enc=nordthuravarkenc}
-2 [Nine steps he walks]{lang=en}
-2 [asva gang niv fundgang, nimri]{lang=nord}
-
-1 [af slak na hamri, hurvi.]{lang=nord enc=nordthuravarkenc}
-2 [from the hammer's blow.]{lang=en}
-2 [af slak na hamri, hurvi.]{lang=nord}
-
-1 [noll staf dek fundgang falna]{lang=nord enc=nordthuravarkenc}
-2 [No tenth foot sounds]{lang=en}
-2 [noll staf dek fundgang falna]{lang=nord}
-
-1 [or gronma hanv vronda, vrast.]{lang=nord enc=nordthuravarkenc}
-2 [on earth he defended.]{lang=en}
-2 [or gronma hanv vronda, vrast.]{lang=nord}
-
-1 [eidgar metva, metna,]{lang=nord enc=nordthuravarkenc}
-2 [Eidgar encounters]{lang=en}
-2 [eidgar metva, metna,]{lang=nord}
-
-1 [langthim bandri harnva, lang.]{lang=nord enc=nordthuravarkenc}
-2 [his long-chained adversary.]{lang=en}
-2 [langthim bandri harnva, lang.]{lang=nord}
-
-1 [vigband brak helm, bratva,]{lang=nord enc=nordthuravarkenc}
-2 [Struggle destroys]{lang=en}
-2 [vigband brak helm, bratva,]{lang=nord}
-
-1 [tvem harnva, tveinri.]{lang=nord enc=nordthuravarkenc}
-2 [both foes together.]{lang=en}
-2 [tvem harnva, tveinri.]{lang=nord}
-
-1 [frodvin metva, fast,]{lang=nord enc=nordthuravarkenc}
-2 [Frodvin meets]{lang=en}
-2 [frodvin metva, fast,]{lang=nord}
-
-1 [svartbrandur inn skeldstorm, svarti.]{lang=nord enc=nordthuravarkenc}
-2 [Svartbrandur in battle.]{lang=en}
-2 [svartbrandur inn skeldstorm, svarti.]{lang=nord}
-
-1 [sarnri falna, sarmi,]{lang=nord enc=nordthuravarkenc}
-2 [The Healer falls]{lang=en}
-2 [sarnri falna, sarmi,]{lang=nord}
-
-1 [nifra sav na svartbrandur.]{lang=nord enc=nordthuravarkenc}
-2 [under the Destroyer's blade.]{lang=en}
-2 [nifra sav na svartbrandur.]{lang=nord}
-
-***
-
-1 [hlun hveri skard‼]{lang=nord enc=nordthuravarkenc}
-2 [Hear each loss;]{lang=en}
-2 [hlun hveri skard‼]{lang=nord}
-
-1 [luvra hollva metva hnura na skard‼]{lang=nord enc=nordthuravarkenc}
-2 [let the hall face sorrow.]{lang=en}
-2 [luvra hollva metva hnura na skard‼]{lang=nord}
-
-1 [noll skald skurvi smiv havmaglis]{lang=nord enc=nordthuravarkenc}
-2 [No singer should steal]{lang=en}
-2 [noll skald skurvi smiv havmaglis]{lang=nord}
-
-1 [na skuldnod na stannma na thenva, skath.]{lang=nord enc=nordthuravarkenc}
-2 [what the standing cost them.]{lang=en}
-2 [na skuldnod na stannma na thenva, skath.]{lang=nord}
-
-1 [eldva nem ul dingi, drav,]{lang=nord enc=nordthuravarkenc}
-2 [Fire takes all]{lang=en}
-2 [eldva nem ul dingi, drav,]{lang=nord}
-
-1 [hnat vigband legva bast, lest.]{lang=nord enc=nordthuravarkenc}
-2 [that fighting left.]{lang=en}
-2 [hnat vigband legva bast, lest.]{lang=nord}
-
-1 [svartbrandur eldna, svarti.]{lang=nord enc=nordthuravarkenc}
-2 [Svartbrandur burns;]{lang=en}
-2 [svartbrandur eldna, svarti.]{lang=nord}
-
-1 [heimsask falna lest ok farn.]{lang=nord enc=nordthuravarkenc}
-2 [the world-ash falls last.]{lang=en}
-2 [heimsask falna lest ok farn.]{lang=nord}
-
-1 [mannguard ok asguard, miv mannvar,]{lang=nord enc=nordthuravarkenc}
-2 [Mannguard and Asguard]{lang=en}
-2 [mannguard ok asguard, miv mannvar,]{lang=nord}
-
-1 [gang nif miv samliv, samri.]{lang=nord enc=nordthuravarkenc}
-2 [go down together.]{lang=en}
-2 [gang nif miv samliv, samri.]{lang=nord}
-
-1 [heimsaldur halv lorka]{lang=nord enc=nordthuravarkenc}
-2 [The age has its close]{lang=en}
-2 [heimsaldur halv lorka]{lang=nord}
-
-1 [inn falna na askva, farn.]{lang=nord enc=nordthuravarkenc}
-2 [in the ash tree's falling.]{lang=en}
-2 [inn falna na askva, farn.]{lang=nord}
-
-1 [gronma ok gronmel ok hroldi,]{lang=nord enc=nordthuravarkenc}
-2 [Ground and roof,]{lang=en}
-2 [gronma ok gronmel ok hroldi,]{lang=nord}
-
-1 [gullva ok vuldnemma ok vuld,]{lang=nord enc=nordthuravarkenc}
-2 [gold and harvest,]{lang=en}
-2 [gullva ok vuldnemma ok vuld,]{lang=nord}
-
-1 [hnat hondi halv forna]{lang=nord enc=nordthuravarkenc}
-2 [what hands once held]{lang=en}
-2 [hnat hondi halv forna]{lang=nord}
-
-1 [hav therma likva valdri ok valdma.]{lang=nord enc=nordthuravarkenc}
-2 [has the heat for its master.]{lang=en}
-2 [hav therma likva valdri ok valdma.]{lang=nord}
-
-1 [heimsask falna, hurvi.]{lang=nord enc=nordthuravarkenc}
-2 [Heimsask falls;]{lang=en}
-2 [heimsask falna, hurvi.]{lang=nord}
-
-1 [hollva hlun hlus.]{lang=nord enc=nordthuravarkenc}
-2 [the hall hears silence.]{lang=en}
-2 [hollva hlun hlus.]{lang=nord}
-
-***
-
-1 [ak foskva nod vegri, fuld,]{lang=nord enc=nordthuravarkenc}
-2 [Yet ashes give way]{lang=en}
-2 [ak foskva nod vegri, fuld,]{lang=nord}
-
-1 [tiv andir merga, mavri.]{lang=nord enc=nordthuravarkenc}
-2 [to another morning.]{lang=en}
-2 [tiv andir merga, mavri.]{lang=nord}
-
-1 [tvelg risna rettlang.]{lang=nord enc=nordthuravarkenc}
-2 [A remnant rises;]{lang=en}
-2 [tvelg risna rettlang.]{lang=nord}
-
-1 [breldva eldra gronma, bjarti.]{lang=nord enc=nordthuravarkenc}
-2 [coals kindle the world.]{lang=en}
-2 [breldva eldra gronma, bjarti.]{lang=nord}
-
-1 [gronma ok gronmel ok arva,]{lang=nord enc=nordthuravarkenc}
-2 [Ground and weather,]{lang=en}
-2 [gronma ok gronmel ok arva,]{lang=nord}
-
-1 [mannvar ok asva ok mannguard,]{lang=nord enc=nordthuravarkenc}
-2 [people and gods:]{lang=en}
-2 [mannvar ok asva ok mannguard,]{lang=nord}
-
-1 [staf eiv solrand berna, bjarti,]{lang=nord enc=nordthuravarkenc}
-2 [the first dawn brings]{lang=en}
-2 [staf eiv solrand berna, bjarti,]{lang=nord}
-
-1 [smivma na solrand.]{lang=nord enc=nordthuravarkenc}
-2 [the work of dawning.]{lang=en}
-2 [smivma na solrand.]{lang=nord}
-
-1 [dek asva nel stann, stanni,]{lang=nord enc=nordthuravarkenc}
-2 [The Ten do not stand]{lang=en}
-2 [dek asva nel stann, stanni,]{lang=nord}
-
-1 [inn nasti heimsaldur, nivi.]{lang=nord enc=nordthuravarkenc}
-2 [in that coming age.]{lang=en}
-2 [inn nasti heimsaldur, nivi.]{lang=nord}
-
-1 [kinrun na thenva nem, kinband,]{lang=nord enc=nordthuravarkenc}
-2 [Their heirs inherit]{lang=en}
-2 [kinrun na thenva nem, kinband,]{lang=nord}
-
-1 [gronma ok gronmel farn af eldtunga.]{lang=nord enc=nordthuravarkenc}
-2 [the world beyond flame.]{lang=en}
-2 [gronma ok gronmel farn af eldtunga.]{lang=nord}
-
-1 [falgva stavi falgva, fast.]{lang=nord enc=nordthuravarkenc}
-2 [The dead remain dead;]{lang=en}
-2 [falgva stavi falgva, fast.]{lang=nord}
-
-1 [skard nel vendri flir, fast.]{lang=nord enc=nordthuravarkenc}
-2 [the loss is not lightened.]{lang=en}
-2 [skard nel vendri flir, fast.]{lang=nord}
-
-1 [nodma gang framri, nivi.]{lang=nord enc=nordthuravarkenc}
-2 [The gift goes onward;]{lang=en}
-2 [nodma gang framri, nivi.]{lang=nord}
-
-1 [nodmann farna, farn.]{lang=nord enc=nordthuravarkenc}
-2 [its givers are gone.]{lang=en}
-2 [nodmann farna, farn.]{lang=nord}
-
-1 [hnat felga eldva ok foskva]{lang=nord enc=nordthuravarkenc}
-2 [What follows the fire]{lang=en}
-2 [hnat felga eldva ok foskva]{lang=nord}
-
-1 [es frukna na smivma, fuld.]{lang=nord enc=nordthuravarkenc}
-2 [is the fruit of their making.]{lang=en}
-2 [es frukna na smivma, fuld.]{lang=nord}
-
-***
-
-1 [relth rurna likva hern.]{lang=nord enc=nordthuravarkenc}
-2 [So runs the telling;]{lang=en}
-2 [relth rurna likva hern.]{lang=nord}
-
-1 [skald dirna neng, dirma.]{lang=nord enc=nordthuravarkenc}
-2 [the skald has sung.]{lang=en}
-2 [skald dirna neng, dirma.]{lang=nord}
-
-1 [gudi na runva hlun vidarn ok vegri]{lang=nord enc=nordthuravarkenc}
-2 [Rune-priests hear branches]{lang=en}
-2 [gudi na runva hlun vidarn ok vegri]{lang=nord}
-
-1 [inn gruma na nelth, groni.]{lang=nord enc=nordthuravarkenc}
-2 [in the growth of nelth.]{lang=en}
-2 [inn gruma na nelth, groni.]{lang=nord}
-
-1 [velnma livna buen, livri,]{lang=nord enc=nordthuravarkenc}
-2 [Choices still live]{lang=en}
-2 [velnma livna buen, livri,]{lang=nord}
-
-1 [inn livma na livri.]{lang=nord enc=nordthuravarkenc}
-2 [in lives of the living.]{lang=en}
-2 [inn livma na livri.]{lang=nord}
-
-1 [sumri nelth mavra vendri, smil,]{lang=nord enc=nordthuravarkenc}
-2 [Some doom might shift]{lang=en}
-2 [sumri nelth mavra vendri, smil,]{lang=nord}
-
-1 [nifra smivma na nel smivna neng.]{lang=nord enc=nordthuravarkenc}
-2 [under deeds still unmade.]{lang=en}
-2 [nifra smivma na nel smivna neng.]{lang=nord}
-
-1 [noll helma es eidna, noll hlev.]{lang=nord enc=nordthuravarkenc}
-2 [No rescue is promised;]{lang=en}
-2 [noll helma es eidna, noll hlev.]{lang=nord}
-
-1 [noll skuldnod es nafmna.]{lang=nord enc=nordthuravarkenc}
-2 [no reward is named.]{lang=en}
-2 [noll skuldnod es nafmna.]{lang=nord}
-
-1 [noll hlustari halv]{lang=nord enc=nordthuravarkenc}
-2 [No hearer holds]{lang=en}
-2 [noll hlustari halv]{lang=nord}
-
-1 [eiv vrondna hornva, vredi.]{lang=nord enc=nordthuravarkenc}
-2 [one spared corner.]{lang=en}
-2 [eiv vrondna hornva, vredi.]{lang=nord}
-
-1 [risna ok rurna af lang sveld.]{lang=nord enc=nordthuravarkenc}
-2 [Rise from the bench;]{lang=en}
-2 [risna ok rurna af lang sveld.]{lang=nord}
-
-1 [minva gandma ok minma‼]{lang=nord enc=nordthuravarkenc}
-2 [remember the word.]{lang=en}
-2 [minva gandma ok minma‼]{lang=nord}
-
-1 [halv hnat thuv eidna, helm‼]{lang=nord enc=nordthuravarkenc}
-2 [Keep what you swore;]{lang=en}
-2 [halv hnat thuv eidna, helm‼]{lang=nord}
-
-1 [nod delva tiv gesta ok gestkall‼]{lang=nord enc=nordthuravarkenc}
-2 [give the guest his portion.]{lang=en}
-2 [nod delva tiv gesta ok gestkall‼]{lang=nord}
-
-1 [asva hugni eldva, hvitna.]{lang=nord enc=nordthuravarkenc}
-2 [The gods know fire;]{lang=en}
-2 [asva hugni eldva, hvitna.]{lang=nord}
-
-1 [asva vronda buen, vrast.]{lang=nord enc=nordthuravarkenc}
-2 [the gods still defend.]{lang=en}
-2 [asva vronda buen, vrast.]{lang=nord}
-
-1 [virdi hugni skard, vrul.]{lang=nord enc=nordthuravarkenc}
-2 [The worthy know loss;]{lang=en}
-2 [virdi hugni skard, vrul.]{lang=nord}
-
-1 [virdi samna buen, vakti.]{lang=nord enc=nordthuravarkenc}
-2 [the worthy still gather.]{lang=en}
-2 [virdi samna buen, vakti.]{lang=nord}
-```
+::: {.verse form=epic lang=en work=asguardian-pantheon-1}
+Gather the hall;/
+hear the Ten named./
+Cup follows cup;/
+the company listens./
+Before ground bore/
+feet of children,/
+before timber stood/
+against the weather,/
+gods and giant-kin/
+joined in battle./
+Thursaett broke;/
+the beaten were banished./
+Thursguard received them;/
+no tale goes inward./
+One giant fell;/
+Hrimthur lay slaughtered./
+Victory was won/
+before earth was fashioned.
+
+The Ten cut Mannguard/
+out of his body./
+Ground underfoot/
+is the wound of making./
+All Ten together/
+accomplished that victory./
+Then each went forth/
+to his own choosing./
+Bonds came after;/
+quarrels came after./
+The world stood firm,/
+but no peace bound them./
+No singer may smooth/
+all strife to silence./
+The founding blood/
+is beneath each building./
+The ground remembers/
+what the gods accomplished.
+
+Odvar keeps knowledge;/
+Thrunvald keeps thunder./
+Eidgar keeps oaths;/
+Frodvin keeps growing./
+Solrún keeps love/
+and wealth freely given./
+Bjart keeps light/
+and dreams of elders./
+Mótefnir makes;/
+his making stays unfinished./
+Velgrímur bends cunning/
+round firm held certainty./
+Nahild despises/
+what the living love./
+Svartbrandur keeps fire/
+and fierce battle fury./
+Ten are the names;/
+no peace joins all Ten.
+
+Defending kin stand/
+by common necessity./
+Against corruption,/
+their cause holds them./
+Against destruction,/
+their will gives answer./
+Gods have favorites;/
+gods make mistakes./
+Hall speaks against hall;/
+the quarrel has echoes./
+Nahild opposes/
+the breath of living./
+Svartbrandur brings/
+what burns the world's making./
+Worth is the thing/
+they will stand against./
+Worth is the cost/
+they will bear in standing.
+
+Heimsask grows/
+through worlds we share./
+Roots hold Asguard;/
+Mannguard has the crown./
+Gods have their halls;/
+the living build houses./
+The living have ground/
+that all must leave./
+Valsal gathers;/
+Solvangur welcomes./
+Eldheim keeps fire;/
+Nulthey takes unworthy./
+The island holds them;/
+they dwindle toward nothing./
+Nahild heeds none/
+of their slow losses./
+The tree binds worlds;/
+its burning burns both.
+
+Who claims the bench/
+where the worthy are gathered?/
+Warriors fallen/
+with duty before them./
+Oath-keepers dying/
+with words held true./
+Mothers whose lives/
+end in bringing life./
+Craftsmen who fall/
+defending their making./
+Ódvarsholl opens/
+under shielded rafters./
+Sólrunsholl shines/
+with long lighted tables./
+Valdrengir wait;/
+the worthy stand ready./
+War at the ending/
+awaits their gathering.
+
+In Valsal, warriors/
+wake to fighting./
+Evening unwinds/
+the wounds that held them./
+Feast follows battle;/
+they find their benches./
+They train for the day/
+that ends all returning./
+The living pour mead;/
+feast joins feast./
+At hovs and hearthstones/
+the offerings are shared./
+At tings, sworn words/
+take weight from witnesses./
+The folk have work/
+under each observance:/
+to keep faith together/
+while time is theirs.
+
+A velva sits high;/
+the household asks counsel./
+Questions have weight/
+when winter is coming./
+Rune-staves are read;/
+the currents have shape./
+They show where choosing/
+must meet its measure./
+Mead wets the stone;/
+the first pour is offered./
+Bread breaks for sharing;/
+the blet brings together/
+the gods and the folk,/
+the dead and the breathing./
+An oath finds witness/
+under the god's attention./
+A word spoken freely/
+binds the mouth that made it./
+Break that binding,/
+and trust goes broken./
+Keep that binding,/
+and the hall holds shelter./
+The tongue has its task;/
+the hand has its keeping.
+
+At [[lore-jol|Jel]], twelve nights/
+are bright in the hovs./
+Darkness leans close/
+to lighted windows./
+The dead are invited;/
+the hearth receives blessing./
+The song goes whole/
+from first war to ashes./
+A spoon rests still/
+in the listener's hand./
+A young child stops beating/
+his heel on the bench./
+Flame licks upward;/
+the names go onward./
+The feast holds breath;/
+the age draws nearer./
+No skald can mark/
+the day on parchment.
+
+Odvar sought knowledge/
+of the world's ending./
+Wisdom gave sight/
+of his own death./
+Still, gods keep halls;/
+still, guests are gathered./
+Still, honored dead/
+train for lost battle./
+The song gives shape/
+to the last shadow./
+Eldheim opens;/
+Svartbrandur rides forth./
+Fire-kin follow;/
+burning goes before him./
+[[lore-vetrulfur|Vetrúlfur]] slips free;/
+the wolf-winter follows./
+The chain cannot hold/
+the world's last cold.
+
+Valsal goes forth;/
+Solvangur empties./
+[[place-vigvoll|Vigvoll]] receives/
+the muster of honor./
+The dead draw up/
+beside defending gods./
+The field promises/
+no triumph to them./
+Velgrímur stands/
+with Svartbrandur against kin./
+Cunning has turned/
+at the time of ending./
+Odvar goes forward;/
+the Winter-Wolf meets him./
+Wolf takes father;/
+son takes wolf./
+Wisdom and fury/
+lie fallen in turn.
+
+Thrunvald strikes/
+[[lore-heimsormur|Heimsormur]], the World-Wyrm./
+Thrúnhamarr answers/
+the rising of terror./
+The wyrm falls down;/
+venom goes with him./
+Nine steps he walks/
+from the hammer's blow./
+No tenth foot sounds/
+on earth he defended./
+Eidgar encounters/
+his long-chained adversary./
+Struggle destroys/
+both foes together./
+Frodvin meets/
+Svartbrandur in battle./
+The Healer falls/
+under the Destroyer's blade.
+
+Hear each loss;/
+let the hall face sorrow./
+No singer should steal/
+what the standing cost them./
+Fire takes all/
+that fighting left./
+Svartbrandur burns;/
+the world-ash falls last./
+Mannguard and Asguard/
+go down together./
+The age has its close/
+in the ash tree's falling./
+Ground and roof,/
+gold and harvest,/
+what hands once held/
+has the heat for its master./
+Heimsask falls;/
+the hall hears silence.
+
+Yet ashes give way/
+to another morning./
+A remnant rises;/
+coals kindle the world./
+Ground and weather,/
+people and gods:/
+the first dawn brings/
+the work of dawning./
+The Ten do not stand/
+in that coming age./
+Their heirs inherit/
+the world beyond flame./
+The dead remain dead;/
+the loss is not lightened./
+The gift goes onward;/
+its givers are gone./
+What follows the fire/
+is the fruit of their making.
+
+So runs the telling;/
+the skald has sung./
+Rune-priests hear branches/
+in the growth of nelth./
+Choices still live/
+in lives of the living./
+Some doom might shift/
+under deeds still unmade./
+No rescue is promised;/
+no reward is named./
+No hearer holds/
+one spared corner./
+Rise from the bench;/
+remember the word./
+Keep what you swore;/
+give the guest his portion./
+The gods know fire;/
+the gods still defend./
+The worthy know loss;/
+the worthy still gather.
+:::
+
+::: {.verse form=epic lang=nord enc=nordthuravarkenc work=asguardian-pantheon-1}
+samna hollva ok heimband‼/
+hlun nafma na dek, nura‼/
+skulma felga skulma, fuld./
+hersalm hlusta./
+fror gronma gruma ok berva/
+fundi na kinli ok kinra,/
+fror vidvarma ok vidma stann/
+tiv snir ok snel,/
+asva ok thursaett ok thurs/
+metva inn vigband, vrast./
+thursaett brak ok bugna./
+bodma nod brakri af herni./
+thursguard nem thurs./
+noll relth rurna inn./
+eiv thurs falna, thara./
+hrimthur lagna, hremna ok svelthi./
+blimma es nemna, bratva,/
+fror motma na gronma ok gronmel.
+
+dek skirv ok motna mannguard/
+af krund knerv na hanv./
+gronma nifra fundi, fast,/
+es sarnma na smivma./
+ul dek, samri, miv samliv/
+smiv vigrun than, vrast./
+thara hveri gang ut, hratt,/
+tiv velnma ok vrili na sjel./
+kneldma komri nathri./
+skreld komri nathri, skath./
+gronma stann fast, stanni,/
+ak noll fridma knelda thenva, frildma./
+noll skald skurvi smurna/
+ul skreld ok skath tiv hlus./
+vrell na kindma, vrellvoll,/
+es nifra hveri heimla./
+gronma ok gronmel minva/
+smivma na asva, smivna.
+
+odvar halv hugnim./
+thrunvald halv thrumva./
+eidgar halv eidva, helm./
+frodvin halv gruma ok frukna./
+solrún halv lufna, sannri,/
+ok virmi, fuld ok frildi nodri./
+bjart halv bjartma/
+ok dvulskensa ok dvul na alva./
+mótefnir smiv, motna./
+smivma na hanv stavi, smol, nel lurmi./
+velgrímur bugna velhug/
+rund fast halvna steldi, fasttrun./
+nahild skorna, naarva,/
+hnat livri lufna./
+svartbrandur halv eldva, svarti,/
+ok drum hrass ok harn na vigband./
+dek es nafma, nura./
+noll fridma ok frildma knelda ul dek.
+
+vornri kinma stann, stanni,/
+miv samri ok sannri tharfma./
+tiv rugma ok rettskard/
+forvil halv thenva, fast./
+tiv brakma, bratva,/
+vrili na thenva nod andrma, vrast./
+asva hav velnri mannvar, vrili./
+asva smiv feilma, falma./
+hollva marl tiv holv./
+skreld hav hlunbak, skrang./
+nahild stann tiv, naarva,/
+hluva na livri ok hludna./
+svartbrandur berna, svarti,/
+hnat eldna smivma na gronma, smivna./
+virdma es dingi, vekti,/
+na thenva stann tiv, stanni./
+virdma es skuldnod, vrul,/
+na thenva berva, stann ok stanni.
+
+heimsask gruma, hurvi,/
+thru gronma ok gronmel na vri skelna./
+rotva halv asguard, hurvi./
+mannguard ok mannvar hav skromhofna./
+asva halv hollva./
+livri smiv heimla, lang./
+livri hav landri, lang,/
+na ul tharv farna, farn./
+valsal samna vigri./
+solvangur kallar komri inn./
+eldheim halv eldva ok hvitna eldtunga./
+nulthey nem nel virdi./
+eyva halv thenva, hlusi./
+thenva vendri smol ok sneri tiv noll dingi./
+nahild snert noll dingi/
+na sulvi ok smol skard na thenva./
+vidra knelda gronma, vredi./
+eldna na it eldna tvem, tveinri.
+
+hverv legva malma or lang sveld/
+hvarv virdi ok vrast es samnri?/
+vigri na falna, vrellna,/
+miv skyld fralm thenva, skurvi./
+eidmann na svelna, svul,/
+miv gandma halvna sannri ok sannma./
+morka na livma, lang,/
+na lork inn berna na livma./
+smivri na falna, svelthi,/
+inn vrond na smivma, vrast./
+ódvarsholl skif, skrang,/
+nifra hroldvidma, hulda miv skeldva./
+sólrunsholl ljormi likva solva/
+miv lang ljormna tavla./
+valdrengir vindri./
+virdi mannvar stann lagri, vrast./
+vigband at lest lorka/
+vindri firn samnma na thenva, vakti.
+
+inn valsal vigri/
+vakna tiv vigband./
+kvelva sleppi kneldma,/
+sarnma na halv thenva, sarmi./
+blet felga vigband ok bulla./
+thenva finva lang sveld, fast./
+thenva ler firn gludva, lerma,/
+na lork ul komri bak, lest./
+livri sulna mildsnul, smeldi./
+blet metva blet, bulla./
+at hov ok horgur ok eldsveld/
+blet es skelnri miv skelnma./
+at ting, tveinri gandma ok eidva/
+nem vrulma af skenri, vakti./
+mannvar hav ji miv mervi/
+nifra hveri ratma ok rettma,/
+halv fasttrun miv samliv, fast,/
+inn thima na thenva, thara.
+
+velva setva hurvi, vakti./
+heimband spurni hugvorn./
+spurnma hav vrulma, vrul,/
+hvern veturma komri, vredi./
+runkefli ok runva es lesna./
+vathfarda hav motva, metna./
+thenva skelra skensa na velnma/
+tharv metva math na sjel./
+mildsnul sulna or stevna, smeldi./
+staf eiv sulma es nodri, nivi./
+brolva brak firn skelna./
+blet berna miv samliv/
+asva ok mannvar, mannguard,/
+falgva ok hludna ok hrel./
+eidva finva skenri, skelmi,/
+nifra vakt na asva, vakti./
+gandma marli frildi ok fuld/
+knelda murn na marl it./
+brak balv than,/
+ok tamkva gang berv ok brakri‼/
+halv balv than, helm,/
+hollva halv hlev‼/
+smul hav ji, smivma./
+hondi hav halvma na sjel.
+
+at jel, dek ok tvei narl ok nottva/
+es bjarti inn hov ok horgur./
+dulvma hallva ner, drav,/
+tiv lang ok ljormna skernhul./
+falgva es kallarni ok komri./
+eldsveld nem hovnod ok hruna./
+dirma gang helm ok hrel/
+af frorri vigband tiv foskva./
+skulvi stavi stanni/
+inn hondi na hlustari./
+junva kinli stap slak, stanni,/
+na fundbak or lang sveld, fast./
+eldtunga hup hurvi./
+nafma gang framri, nimri./
+blet halv hluva./
+heimsaldur hrav ner./
+noll skald kan skrifna/
+gludva or skrifvef ok skildva.
+
+odvar sokna sannri hugnim/
+na lest lorka na gronma./
+hugvirdi nod skensa, skelmi,/
+na svelthma na sjel, svul./
+asva halv hollva buen./
+buen gesta gang inn./
+buen hruna falgva na hrunda/
+ler firn glisna vigband, vrast./
+dirma nod motva, metna,/
+tiv lest hulmva, lurvi./
+eldheim skif, skath./
+svartbrandur reidna ut, svarti./
+kinma na eldva felga framri./
+eldva gang framri fralm hanv, farn./
+vetrúlfur vendri frildi./
+veth na ulfva felga, vrul./
+balv nel kan halv, brakri,/
+lest svulma na gronma, lurvi.
+
+valsal vendri ut./
+solvangur vendri manik, smol./
+vigvoll nem, vredi,/
+hersalm na hrunda./
+falgva stann inn lanma, lang,/
+siv vronda asva, vrast./
+vangri eidna, vredi,/
+noll blimma tiv thenva, noll bak./
+velgrímur stann, vakti,/
+miv svartbrandur tiv kinma ok kinband./
+velhug vendri/
+at thima na lest lorka./
+odvar gang framri ok farn./
+ulfva na veturma metva hanv, vredi./
+ulfva nem fadra, frorri./
+karn kinli nem ulfva./
+hugvirdi ok drum hrass/
+lagna falna, lest inn renma.
+
+thrunvald slak, thrumva,/
+heimsormur, hralda na gronma./
+thrúnhamarr andri, thrumva,/
+risna na rurnma ok drum hrosk./
+ormla falna nif, njorvi./
+svarka gang miv hanv, svarti./
+asva gang niv fundgang, nimri/
+af slak na hamri, hurvi./
+noll staf dek fundgang falna/
+or gronma hanv vronda, vrast./
+eidgar metva, metna,/
+langthim bandri harnva, lang./
+vigband brak helm, bratva,/
+tvem harnva, tveinri./
+frodvin metva, fast,/
+svartbrandur inn skeldstorm, svarti./
+sarnri falna, sarmi,/
+nifra sav na svartbrandur.
+
+hlun hveri skard‼/
+luvra hollva metva hnura na skard‼/
+noll skald skurvi smiv havmaglis/
+na skuldnod na stannma na thenva, skath./
+eldva nem ul dingi, drav,/
+hnat vigband legva bast, lest./
+svartbrandur eldna, svarti./
+heimsask falna lest ok farn./
+mannguard ok asguard, miv mannvar,/
+gang nif miv samliv, samri./
+heimsaldur halv lorka/
+inn falna na askva, farn./
+gronma ok gronmel ok hroldi,/
+gullva ok vuldnemma ok vuld,/
+hnat hondi halv forna/
+hav therma likva valdri ok valdma./
+heimsask falna, hurvi./
+hollva hlun hlus.
+
+ak foskva nod vegri, fuld,/
+tiv andir merga, mavri./
+tvelg risna rettlang./
+breldva eldra gronma, bjarti./
+gronma ok gronmel ok arva,/
+mannvar ok asva ok mannguard,/
+staf eiv solrand berna, bjarti,/
+smivma na solrand./
+dek asva nel stann, stanni,/
+inn nasti heimsaldur, nivi./
+kinrun na thenva nem, kinband,/
+gronma ok gronmel farn af eldtunga./
+falgva stavi falgva, fast./
+skard nel vendri flir, fast./
+nodma gang framri, nivi./
+nodmann farna, farn./
+hnat felga eldva ok foskva/
+es frukna na smivma, fuld.
+
+relth rurna likva hern./
+skald dirna neng, dirma./
+gudi na runva hlun vidarn ok vegri/
+inn gruma na nelth, groni./
+velnma livna buen, livri,/
+inn livma na livri./
+sumri nelth mavra vendri, smil,/
+nifra smivma na nel smivna neng./
+noll helma es eidna, noll hlev./
+noll skuldnod es nafmna./
+noll hlustari halv/
+eiv vrondna hornva, vredi./
+risna ok rurna af lang sveld./
+minva gandma ok minma‼/
+halv hnat thuv eidna, helm‼/
+nod delva tiv gesta ok gestkall‼/
+asva hugni eldva, hvitna./
+asva vronda buen, vrast./
+virdi hugni skard, vrul./
+virdi samna buen, vakti.
+:::
 
 ## Sacrifice, Oath, and Blet
 

@@ -23,913 +23,475 @@ At the end the captain and the company say the contract over before the stone, a
 
 : The Roll at the Thresholds {#roll}
 
-```verse {form=litany lang=en cols=2 numstep=5}
-***
-
-1 [THRUMAR]{lang=tarv}
-2 THE CAPTAIN
-2 [THRUMAR]{lang=tarv}
-
-1 [Eza goitsa ared ir denon sedon.]{lang=tarv enc=tarvsemaronenc}
-2 Is the stone here?
-2 [Eza goitsa ared ir denon sedon.]{lang=tarv}
-
-1 [THRAMO]{lang=tarv}
-2 THE COMPANY
-2 [THRAMO]{lang=tarv}
-
-1 [Goitsa ared ir denon sedon.]{lang=tarv enc=tarvsemaronenc}
-2 The stone is here.
-2 [Goitsa ared ir denon sedon.]{lang=tarv}
-
-1 [THRUMAR]{lang=tarv}
-2 THE CAPTAIN
-2 [THRUMAR]{lang=tarv}
-
-1 [Eza goitsa ared nelvos.]{lang=tarv enc=tarvsemaronenc}
-2 Is the stone cold?
-2 [Eza goitsa ared nelvos.]{lang=tarv}
-
-1 [THRAMO]{lang=tarv}
-2 THE COMPANY
-2 [THRAMO]{lang=tarv}
-
-1 [Goitsa ared nelvos.]{lang=tarv enc=tarvsemaronenc}
-2 The stone is cold.
-2 [Goitsa ared nelvos.]{lang=tarv}
-
-1 [THRUMAR]{lang=tarv}
-2 THE CAPTAIN
-2 [THRUMAR]{lang=tarv}
-
-1 [Tha goitsa ared goitsa.]{lang=tarv enc=tarvsemaronenc}
-2 Then the stone is the stone.
-2 [Tha goitsa ared goitsa.]{lang=tarv}
-
-***
-
-1 [THRUMAR]{lang=tarv}
-2 THE CAPTAIN
-2 [THRUMAR]{lang=tarv}
-
-1 [Tarnela tigad hos kalga.]{lang=tarv enc=tarvsemaronenc}
-2 The year goes out of the gate.
-2 [Tarnela tigad hos kalga.]{lang=tarv}
-
-1 [THRAMO]{lang=tarv}
-2 THE COMPANY
-2 [THRAMO]{lang=tarv}
-
-1 [Ko linkad tarnela tigad hos.]{lang=tarv enc=tarvsemaronenc}
-2 Let the year go out.
-2 [Ko linkad tarnela tigad hos.]{lang=tarv}
-
-1 [THRUMAR]{lang=tarv}
-2 THE CAPTAIN
-2 [THRUMAR]{lang=tarv}
-
-1 [Tarnela tigad ir kalga.]{lang=tarv enc=tarvsemaronenc}
-2 The year enters the gate.
-2 [Tarnela tigad ir kalga.]{lang=tarv}
-
-1 [THRAMO]{lang=tarv}
-2 THE COMPANY
-2 [THRAMO]{lang=tarv}
-
-1 [Ko linkad tarnela tigad ir.]{lang=tarv enc=tarvsemaronenc}
-2 Let the year enter.
-2 [Ko linkad tarnela tigad ir.]{lang=tarv}
-
-1 [THRUMAR]{lang=tarv}
-2 THE CAPTAIN
-2 [THRUMAR]{lang=tarv}
-
-1 [Arvo ol kalga kerad tavre enthamis. Arvo oked tigad. Arvo oked lokad.]{lang=tarv enc=tarvsemaronenc}
-2 The gate’s god has two faces. The god sees going and coming.
-2 [Arvo ol kalga kerad tavre enthamis. Arvo oked tigad. Arvo oked lokad.]{lang=tarv}
-
-1 [Enoi kerad urkis enthamis hir urzele verezos. Enoi huzad hir goitsa.]{lang=tarv enc=tarvsemaronenc}
-2 We each have one face. We turn toward the stone.
-2 [Enoi kerad urkis enthamis hir urzele verezos. Enoi huzad hir goitsa.]{lang=tarv}
-
-1 [THRAMO]{lang=tarv}
-2 THE COMPANY
-2 [THRAMO]{lang=tarv}
-
-1 [Enoi huzad hir goitsa.]{lang=tarv enc=tarvsemaronenc}
-2 We turn toward the stone.
-2 [Enoi huzad hir goitsa.]{lang=tarv}
-
-***
-
-1 [THRUMAR]{lang=tarv}
-2 THE CAPTAIN
-2 [THRUMAR]{lang=tarv}
-
-1 [Denon ared therna. En lozed therna.]{lang=tarv enc=tarvsemaronenc}
-2 This is the roll. I carry it.
-2 [Denon ared therna. En lozed therna.]{lang=tarv}
-
-1 [Verezos valmad dun en denon tarnela. Verezos ared ir denon sedon. Verezos dokad ir denon sedon.]{lang=tarv enc=tarvsemaronenc}
-2 Who marches with me this year and stands here says here.
-2 [Verezos valmad dun en denon tarnela. Verezos ared ir denon sedon. Verezos dokad ir denon sedon.]{lang=tarv}
-
-1 [Verezos valmad dun en denon tarnela. Verezos ar ared ir denon sedon. Holvo ol verezos dokad.]{lang=tarv enc=tarvsemaronenc}
-2 Who marches with me this year and is absent, their comrade speaks.
-2 [Verezos valmad dun en denon tarnela. Verezos ar ared ir denon sedon. Holvo ol verezos dokad.]{lang=tarv}
-
-1 [Harlen ared zured. Ar verezos dokad.]{lang=tarv enc=tarvsemaronenc}
-2 A name is struck. Nobody speaks.
-2 [Harlen ared zured. Ar verezos dokad.]{lang=tarv}
-
-1 [THRAMO]{lang=tarv}
-2 THE COMPANY
-2 [THRAMO]{lang=tarv}
-
-1 [Ko kramed therna.]{lang=tarv enc=tarvsemaronenc}
-2 Call the roll.
-2 [Ko kramed therna.]{lang=tarv}
-
-***
-
-1 [THRUMAR]{lang=tarv}
-2 THE CAPTAIN
-2 [THRUMAR]{lang=tarv}
-
-1 [Garrutsa. Garruts.]{lang=tarv enc=tarvsemaronenc}
-2 [Garrutsa]{.name data-type="being/npc" lang=tarv}, Wolf.
-2 [Garrutsa. Garruts.]{lang=tarv}
-
-1 [GARRUTSA]{lang=tarv}
-2 GARRUTSA
-2 [GARRUTSA]{lang=tarv}
-
-1 [En ared ir denon sedon. En thaurad tholza.]{lang=tarv enc=tarvsemaronenc}
-2 I am here. I keep the vow.
-2 [En ared ir denon sedon. En thaurad tholza.]{lang=tarv}
-
-1 [THRUMAR]{lang=tarv}
-2 THE CAPTAIN
-2 [THRUMAR]{lang=tarv}
-
-1 [Oztuk. Oztuka.]{lang=tarv enc=tarvsemaronenc}
-2 [Oztuk]{.name data-type="being/npc" lang=tarv}, Crag.
-2 [Oztuk. Oztuka.]{lang=tarv}
-
-1 [OZTUK]{lang=tarv}
-2 OZTUK
-2 [OZTUK]{lang=tarv}
-
-1 [En ared ir denon sedon. En thaurad tholza.]{lang=tarv enc=tarvsemaronenc}
-2 I am here. I keep the vow.
-2 [En ared ir denon sedon. En thaurad tholza.]{lang=tarv}
-
-1 [THRUMAR]{lang=tarv}
-2 THE CAPTAIN
-2 [THRUMAR]{lang=tarv}
-
-1 [Átseka. Atsek sa thramo dokad. Átseka ar ared lomeros.]{lang=tarv enc=tarvsemaronenc}
-2 [Átseka]{.name data-type="being/npc" lang=tarv}, Ewe as the company says. [Átseka]{.name data-type="being/npc" lang=tarv} is not gentle.
-2 [Átseka. Atsek sa thramo dokad. Átseka ar ared lomeros.]{lang=tarv}
-
-1 [ÁTSEKA]{lang=tarv}
-2 ÁTSEKA
-2 [ÁTSEKA]{lang=tarv}
-
-1 [En ared ir denon sedon. En thaurad tholza.]{lang=tarv enc=tarvsemaronenc}
-2 I am here. I keep the vow.
-2 [En ared ir denon sedon. En thaurad tholza.]{lang=tarv}
-
-1 [THRUMAR]{lang=tarv}
-2 THE CAPTAIN
-2 [THRUMAR]{lang=tarv}
-
-1 [Tsala. Tsalats.]{lang=tarv enc=tarvsemaronenc}
-2 [Tsala]{.name data-type="being/npc" lang=tarv}, Bell.
-2 [Tsala. Tsalats.]{lang=tarv}
-
-1 [TSALA]{lang=tarv}
-2 TSALA
-2 [TSALA]{lang=tarv}
-
-1 [En ared ir denon sedon. En thaurad tholza. En ared kramo.]{lang=tarv enc=tarvsemaronenc}
-2 I am here. I keep the vow. I am loud.
-2 [En ared ir denon sedon. En thaurad tholza. En ared kramo.]{lang=tarv}
-
-1 [THRAMO]{lang=tarv}
-2 THE COMPANY
-2 [THRAMO]{lang=tarv}
-
-1 [Ek kramo.]{lang=tarv enc=tarvsemaronenc}
-2 And loud.
-2 [Ek kramo.]{lang=tarv}
-
-1 [THRUMAR]{lang=tarv}
-2 THE CAPTAIN
-2 [THRUMAR]{lang=tarv}
-
-1 [Ozka. Ozkur.]{lang=tarv enc=tarvsemaronenc}
-2 [Ozka]{.name data-type="being/npc" lang=tarv}, Peak-wind.
-2 [Ozka. Ozkur.]{lang=tarv}
-
-1 [OZKA]{lang=tarv}
-2 OZKA
-2 [OZKA]{lang=tarv}
-
-1 [En ared ir denon sedon. En thaurad tholza.]{lang=tarv enc=tarvsemaronenc}
-2 I am here. I keep the vow.
-2 [En ared ir denon sedon. En thaurad tholza.]{lang=tarv}
-
-1 [THRUMAR]{lang=tarv}
-2 THE CAPTAIN
-2 [THRUMAR]{lang=tarv}
-
-1 [Betsa. Betsur. Betsa antigad ansolkimos mazer tigad.]{lang=tarv enc=tarvsemaronenc}
-2 [Betsa]{.name data-type="being/npc" lang=tarv}, Cheese. [Betsa]{.name data-type="being/npc" lang=tarv} returns lighter than departing.
-2 [Betsa. Betsur. Betsa antigad ansolkimos mazer tigad.]{lang=tarv}
-
-1 [BETSA]{lang=tarv}
-2 BETSA
-2 [BETSA]{lang=tarv}
-
-1 [En ared ir denon sedon. En thaurad tholza. En ared ansolkimos.]{lang=tarv enc=tarvsemaronenc}
-2 I am here. I keep the vow. I am lighter.
-2 [En ared ir denon sedon. En thaurad tholza. En ared ansolkimos.]{lang=tarv}
-
-1 [THRUMAR]{lang=tarv}
-2 THE CAPTAIN
-2 [THRUMAR]{lang=tarv}
-
-1 [Takzo.]{lang=tarv enc=tarvsemaronenc}
-2 Sergeant.
-2 [Takzo.]{lang=tarv}
-
-1 [TAKZO]{lang=tarv}
-2 THE SERGEANT
-2 [TAKZO]{lang=tarv}
-
-1 [En ared ir denon sedon. En thaurad tholza.]{lang=tarv enc=tarvsemaronenc}
-2 I am here. I keep the vow.
-2 [En ared ir denon sedon. En thaurad tholza.]{lang=tarv}
-
-1 [THRUMAR]{lang=tarv}
-2 THE CAPTAIN
-2 [THRUMAR]{lang=tarv}
-
-1 [Irthezo.]{lang=tarv enc=tarvsemaronenc}
-2 Surgeon.
-2 [Irthezo.]{lang=tarv}
-
-1 [IRTHEZO]{lang=tarv}
-2 THE SURGEON
-2 [IRTHEZO]{lang=tarv}
-
-1 [En ared ir denon sedon. En thaurad tholza. Zed konalon ol ankermad ol en ared ir denon sedon. Ves holvo pethred.]{lang=tarv enc=tarvsemaronenc}
-2 I am here. I keep the vow. All my repaired ones stand here, or a comrade answers.
-2 [En ared ir denon sedon. En thaurad tholza. Zed konalon ol ankermad ol en ared ir denon sedon. Ves holvo pethred.]{lang=tarv}
-
-1 [THRUMAR]{lang=tarv}
-2 THE CAPTAIN
-2 [THRUMAR]{lang=tarv}
-
-1 [Alethos konalon ol ko.]{lang=tarv enc=tarvsemaronenc}
-2 The rest of you.
-2 [Alethos konalon ol ko.]{lang=tarv}
-
-1 [THRAMO]{lang=tarv}
-2 THE COMPANY
-2 [THRAMO]{lang=tarv}
-
-1 [En ared ir denon sedon. En thaurad tholza.]{lang=tarv enc=tarvsemaronenc}
-2 I am here. I keep the vow.
-2 [En ared ir denon sedon. En thaurad tholza.]{lang=tarv}
-
-1 [THRUMAR]{lang=tarv}
-2 THE CAPTAIN
-2 [THRUMAR]{lang=tarv}
-
-1 [En ared ir denon sedon. En thaurad tholza. En dokad denon pral ko.]{lang=tarv enc=tarvsemaronenc}
-2 I am here. I keep the vow. I speak it before you.
-2 [En ared ir denon sedon. En thaurad tholza. En dokad denon pral ko.]{lang=tarv}
-
-1 [Zai denon ar ared varelin. Ko dokad denkanai. Pral goitsa. Pral lokad ol tarnela.]{lang=tarv enc=tarvsemaronenc}
-2 If untrue, speak now, before stone, before year’s coming.
-2 [Zai denon ar ared varelin. Ko dokad denkanai. Pral goitsa. Pral lokad ol tarnela.]{lang=tarv}
-
-1 [THRAMO]{lang=tarv}
-2 THE COMPANY
-2 [THRAMO]{lang=tarv}
-
-1 [Ko thaurad tholza.]{lang=tarv enc=tarvsemaronenc}
-2 You keep the vow.
-2 [Ko thaurad tholza.]{lang=tarv}
-
-***
-
-1 [THRUMAR]{lang=tarv}
-2 THE CAPTAIN
-2 [THRUMAR]{lang=tarv}
-
-1 [Denkanai verezos ol valmad ek ar ir denon sedon.]{lang=tarv enc=tarvsemaronenc}
-2 Now people who march and are absent.
-2 [Denkanai verezos ol valmad ek ar ir denon sedon.]{lang=tarv}
-
-1 [Kolzarra. Kolzar. Kolzarra urzvalmad edran holimai hir kemtho ir herthe. Kolzarra nembed zel edran.]{lang=tarv enc=tarvsemaronenc}
-2 [Kolzarra]{.name data-type="being/npc" lang=tarv}, Scree. [Kolzarra]{.name data-type="being/npc" lang=tarv} climbs the ladder first at the wall in summer. Falls down it.
-2 [Kolzarra. Kolzar. Kolzarra urzvalmad edran holimai hir kemtho ir herthe. Kolzarra nembed zel edran.]{lang=tarv}
-
-1 [HOLVO]{lang=tarv}
-2 HIS COMPANION
-2 [HOLVO]{lang=tarv}
-
-1 [En valmad nol Kolzarra. Kolzarra ar ared ir denon sedon. Kolzarra urzvalmad holimai. Kolzarra thaurad tholza.]{lang=tarv enc=tarvsemaronenc}
-2 I march beside [Kolzarra]{.name data-type="being/npc" lang=tarv}. [Kolzarra]{.name data-type="being/npc" lang=tarv} is absent. Climbs first. Keeps the vow.
-2 [En valmad nol Kolzarra. Kolzarra ar ared ir denon sedon. Kolzarra urzvalmad holimai. Kolzarra thaurad tholza.]{lang=tarv}
-
-1 [THRAMO]{lang=tarv}
-2 THE COMPANY
-2 [THRAMO]{lang=tarv}
-
-1 [Kolzarra thaurad tholza.]{lang=tarv enc=tarvsemaronenc}
-2 [Kolzarra]{.name data-type="being/npc" lang=tarv} keeps the vow.
-2 [Kolzarra thaurad tholza.]{lang=tarv}
-
-1 [THRUMAR]{lang=tarv}
-2 THE CAPTAIN
-2 [THRUMAR]{lang=tarv}
-
-1 [Ziduák. Ziduák ared holimos hir kolva ethor kordandon. Ziduák kured hrenkon hos kolva hir thramo. Ar hir Ziduák. Ziduák ared dun kolva.]{lang=tarv enc=tarvsemaronenc}
-2 [Ziduák]{.name data-type="being/npc" lang=tarv} is first to the dead after battle. Takes goods from dead for company, not [Ziduák]{.name data-type="being/npc" lang=tarv}. Now with dead.
-2 [Ziduák. Ziduák ared holimos hir kolva ethor kordandon. Ziduák kured hrenkon hos kolva hir thramo. Ar hir Ziduák. Ziduák ared dun kolva.]{lang=tarv}
-
-1 [HOLVO]{lang=tarv}
-2 HIS COMPANION
-2 [HOLVO]{lang=tarv}
-
-1 [En valmad nol Ziduák. Ziduák ar ared ir denon sedon. Ziduák kured ar lathon hos hrenkon ol thramo. Ziduák thaurad tholza.]{lang=tarv enc=tarvsemaronenc}
-2 I march beside [Ziduák]{.name data-type="being/npc" lang=tarv}. [Ziduák]{.name data-type="being/npc" lang=tarv} is absent. Takes nothing outside company property. Keeps the vow.
-2 [En valmad nol Ziduák. Ziduák ar ared ir denon sedon. Ziduák kured ar lathon hos hrenkon ol thramo. Ziduák thaurad tholza.]{lang=tarv}
-
-1 [THRAMO]{lang=tarv}
-2 THE COMPANY
-2 [THRAMO]{lang=tarv}
-
-1 [Ziduák thaurad tholza.]{lang=tarv enc=tarvsemaronenc}
-2 [Ziduák]{.name data-type="being/npc" lang=tarv} keeps the vow.
-2 [Ziduák thaurad tholza.]{lang=tarv}
-
-1 [THRUMAR]{lang=tarv}
-2 THE CAPTAIN
-2 [THRUMAR]{lang=tarv}
-
-1 [Bortsula. Bortsula thaurad therna ol moldre ir nathre ol kremed ol durga. Moldre thernad.]{lang=tarv enc=tarvsemaronenc}
-2 [Bortsula]{.name data-type="being/npc" lang=tarv} holds the mule-line on the night the camp burns. Mules live.
-2 [Bortsula. Bortsula thaurad therna ol moldre ir nathre ol kremed ol durga. Moldre thernad.]{lang=tarv}
-
-1 [HOLVO]{lang=tarv}
-2 HIS COMPANION
-2 [HOLVO]{lang=tarv}
-
-1 [En valmad nol Bortsula. Bortsula ar ared ir denon sedon. Moldre thernad. Bortsula thaurad tholza.]{lang=tarv enc=tarvsemaronenc}
-2 I march beside [Bortsula]{.name data-type="being/npc" lang=tarv}. [Bortsula]{.name data-type="being/npc" lang=tarv} is absent. Mules live. [Bortsula]{.name data-type="being/npc" lang=tarv} keeps the vow.
-2 [En valmad nol Bortsula. Bortsula ar ared ir denon sedon. Moldre thernad. Bortsula thaurad tholza.]{lang=tarv}
-
-1 [THRAMO]{lang=tarv}
-2 THE COMPANY
-2 [THRAMO]{lang=tarv}
-
-1 [Bortsula thaurad tholza.]{lang=tarv enc=tarvsemaronenc}
-2 [Bortsula]{.name data-type="being/npc" lang=tarv} keeps the vow.
-2 [Bortsula thaurad tholza.]{lang=tarv}
-
-1 [THRUMAR]{lang=tarv}
-2 THE CAPTAIN
-2 [THRUMAR]{lang=tarv}
-
-1 [Uguzta. Guzta. Uguzta lozed en hos siretha us dolkon ol Uguzta ir nural.]{lang=tarv enc=tarvsemaronenc}
-2 [Uguzta]{.name data-type="being/npc" lang=tarv}, Goat, carries me out of river on [Uguzta]{.name data-type="being/npc" lang=tarv}’s back in spring.
-2 [Uguzta. Guzta. Uguzta lozed en hos siretha us dolkon ol Uguzta ir nural.]{lang=tarv}
-
-1 [Uguzta kalmad ol siretha ir ohra. Ir nalvo. Sulkon lokad hos siretha.]{lang=tarv enc=tarvsemaronenc}
-2 Dies of river in autumn, in bed. Cough comes from river.
-2 [Uguzta kalmad ol siretha ir ohra. Ir nalvo. Sulkon lokad hos siretha.]{lang=tarv}
-
-1 [HOLVO]{lang=tarv}
-2 HIS COMPANION
-2 [HOLVO]{lang=tarv}
-
-1 [En valmad nol Uguzta. Uguzta ar ared ir denon sedon. Uguzta lozed thrumar. Uguzta thaurad tholza.]{lang=tarv enc=tarvsemaronenc}
-2 I march beside [Uguzta]{.name data-type="being/npc" lang=tarv}. [Uguzta]{.name data-type="being/npc" lang=tarv} is absent. Carries captain. Keeps the vow.
-2 [En valmad nol Uguzta. Uguzta ar ared ir denon sedon. Uguzta lozed thrumar. Uguzta thaurad tholza.]{lang=tarv}
-
-1 [THRUMAR]{lang=tarv}
-2 THE CAPTAIN
-2 [THRUMAR]{lang=tarv}
-
-1 [Uguzta lozed en.]{lang=tarv enc=tarvsemaronenc}
-2 [Uguzta]{.name data-type="being/npc" lang=tarv} carries me.
-2 [Uguzta lozed en.]{lang=tarv}
-
-1 [THRAMO]{lang=tarv}
-2 THE COMPANY
-2 [THRAMO]{lang=tarv}
-
-1 [Uguzta thaurad tholza.]{lang=tarv enc=tarvsemaronenc}
-2 [Uguzta]{.name data-type="being/npc" lang=tarv} keeps the vow.
-2 [Uguzta thaurad tholza.]{lang=tarv}
-
-1 [THRUMAR]{lang=tarv}
-2 THE CAPTAIN
-2 [THRUMAR]{lang=tarv}
-
-1 [Dúrreka. Durka. Dúrreka gorad kaltho ol daima ol enoi ir durka. Anavren.]{lang=tarv enc=tarvsemaronenc}
-2 [Dúrreka]{.name data-type="being/npc" lang=tarv}, Fog, shoots our own paymaster’s herald in fog. Accidentally.
-2 [Dúrreka. Durka. Dúrreka gorad kaltho ol daima ol enoi ir durka. Anavren.]{lang=tarv}
-
-1 [Dúrreka zelmad kuthra ol thramo hos pelza ol Dúrreka karza arvil. Zed solthen.]{lang=tarv enc=tarvsemaronenc}
-2 Pays company penalty from [Dúrreka]{.name data-type="being/npc" lang=tarv}’s pay three seasons. Every part.
-2 [Dúrreka zelmad kuthra ol thramo hos pelza ol Dúrreka karza arvil. Zed solthen.]{lang=tarv}
-
-1 [Verezos kolvad Dúrreka ir arvil ol helza. Ar nezora dorad.]{lang=tarv enc=tarvsemaronenc}
-2 Someone kills [Dúrreka]{.name data-type="being/npc" lang=tarv} in fourth season. No debt remains.
-2 [Verezos kolvad Dúrreka ir arvil ol helza. Ar nezora dorad.]{lang=tarv}
-
-1 [HOLVO]{lang=tarv}
-2 HIS COMPANION
-2 [HOLVO]{lang=tarv}
-
-1 [En valmad nol Dúrreka. Dúrreka ar ared ir denon sedon. Ar nezora dorad. Dúrreka thaurad tholza.]{lang=tarv enc=tarvsemaronenc}
-2 I march beside [Dúrreka]{.name data-type="being/npc" lang=tarv}. [Dúrreka]{.name data-type="being/npc" lang=tarv} is absent. No debt remains. Keeps the vow.
-2 [En valmad nol Dúrreka. Dúrreka ar ared ir denon sedon. Ar nezora dorad. Dúrreka thaurad tholza.]{lang=tarv}
-
-1 [THRAMO]{lang=tarv}
-2 THE COMPANY
-2 [THRAMO]{lang=tarv}
-
-1 [Ar nezora dorad. Dúrreka thaurad tholza.]{lang=tarv enc=tarvsemaronenc}
-2 No debt remains. [Dúrreka]{.name data-type="being/npc" lang=tarv} keeps the vow.
-2 [Ar nezora dorad. Dúrreka thaurad tholza.]{lang=tarv}
-
-1 [THRUMAR]{lang=tarv}
-2 THE CAPTAIN
-2 [THRUMAR]{lang=tarv}
-
-1 [Sormar. Sormar sormad langa hir denon thramo 20 tarnela ethor paza ol hilta.]{lang=tarv enc=tarvsemaronenc}
-2 The singer sings long poem for this company twenty years after evening food.
-2 [Sormar. Sormar sormad langa hir denon thramo 20 tarnela ethor paza ol hilta.]{lang=tarv}
-
-1 [Sormar ared ir denon sedon hir zed lathon. Sormar antigad. Sormar kalmad ir dumva denon tarnela. Nol karalzo ol sormar. Ankelos.]{lang=tarv enc=tarvsemaronenc}
-2 The singer is there for everything, returns, dies at home this year beside own fire, old.
-2 [Sormar ared ir denon sedon hir zed lathon. Sormar antigad. Sormar kalmad ir dumva denon tarnela. Nol karalzo ol sormar. Ankelos.]{lang=tarv}
-
-1 [HOLVO]{lang=tarv}
-2 HIS COMPANION
-2 [HOLVO]{lang=tarv}
-
-1 [En ar valmad nol sormar. Ar verezos ertad denon. Sormar valmad lither enoi hir oked.]{lang=tarv enc=tarvsemaronenc}
-2 I do not march beside singer. Nobody does. Singer walks behind us to see.
-2 [En ar valmad nol sormar. Ar verezos ertad denon. Sormar valmad lither enoi hir oked.]{lang=tarv}
-
-1 [Sormar ar ared ir denon sedon. Sormar oked. Sormar thaurad tholza.]{lang=tarv enc=tarvsemaronenc}
-2 Singer is absent. Sees. Keeps the vow.
-2 [Sormar ar ared ir denon sedon. Sormar oked. Sormar thaurad tholza.]{lang=tarv}
-
-1 [THRAMO]{lang=tarv}
-2 THE COMPANY
-2 [THRAMO]{lang=tarv}
-
-1 [Sormar oked. Sormar thaurad tholza.]{lang=tarv enc=tarvsemaronenc}
-2 Singer sees. Singer keeps the vow.
-2 [Sormar oked. Sormar thaurad tholza.]{lang=tarv}
-
-1 [THRUMAR]{lang=tarv}
-2 THE CAPTAIN
-2 [THRUMAR]{lang=tarv}
-
-1 [Eza kedis sormad langa denkanai.]{lang=tarv enc=tarvsemaronenc}
-2 Who sings long poem now?
-2 [Eza kedis sormad langa denkanai.]{lang=tarv}
-
-1 [PELRE SORMAR]{lang=tarv}
-2 THE NEW SINGER
-2 [PELRE SORMAR]{lang=tarv}
-
-1 [En sormad. En ared ir denon sedon. En sormad sa sormar sormad. En lendad denon tarnela dun denon.]{lang=tarv enc=tarvsemaronenc}
-2 I sing. I am there. I sing as singer sings. I add this year too.
-2 [En sormad. En ared ir denon sedon. En sormad sa sormar sormad. En lendad denon tarnela dun denon.]{lang=tarv}
-
-1 [THRAMO]{lang=tarv}
-2 THE COMPANY
-2 [THRAMO]{lang=tarv}
-
-1 [Tha ko lendad denon tarnela.]{lang=tarv enc=tarvsemaronenc}
-2 Then add this year.
-2 [Tha ko lendad denon tarnela.]{lang=tarv}
-
-***
-
-1 [THRUMAR]{lang=tarv}
-2 THE CAPTAIN
-2 [THRUMAR]{lang=tarv}
-
-1 [Denkanai therna hramad ir zesima ol therna.]{lang=tarv enc=tarvsemaronenc}
-2 Now roll continues in roll’s tradition.
-2 [Denkanai therna hramad ir zesima ol therna.]{lang=tarv}
-
-1 [Ethor Guzta therna tigad hir ethoros. Ko thavrelad ethoros.]{lang=tarv enc=tarvsemaronenc}
-2 After Goat, roll goes to next. Listen to next.
-2 [Ethor Guzta therna tigad hir ethoros. Ko thavrelad ethoros.]{lang=tarv}
-
-***
-
-1 [          Thrumar ar dokad hir kanel ol harlen.]{lang=tarv enc=tarvsemaronenc}
-2           Captain does not speak for a name’s duration.
-2 [          Thrumar ar dokad hir kanel ol harlen.]{lang=tarv}
-
-1 [          Thramo ar dokad. Ar verezos pethred.]{lang=tarv enc=tarvsemaronenc}
-2           Company does not speak. Nobody answers.
-2 [          Thramo ar dokad. Ar verezos pethred.]{lang=tarv}
-
-***
-
-1 [THRUMAR]{lang=tarv}
-2 THE CAPTAIN
-2 [THRUMAR]{lang=tarv}
-
-1 [Therna thaurad sedon.]{lang=tarv enc=tarvsemaronenc}
-2 Roll keeps the place.
-2 [Therna thaurad sedon.]{lang=tarv}
-
-1 [THRAMO]{lang=tarv}
-2 THE COMPANY
-2 [THRAMO]{lang=tarv}
-
-1 [Therna thaurad sedon.]{lang=tarv enc=tarvsemaronenc}
-2 Roll keeps the place.
-2 [Therna thaurad sedon.]{lang=tarv}
-
-1 [THRUMAR]{lang=tarv}
-2 THE CAPTAIN
-2 [THRUMAR]{lang=tarv}
-
-1 [Ar verezos hurpad sedon. Ar verezos dokad harlen. Sedon dorad mandro ir therna.]{lang=tarv enc=tarvsemaronenc}
-2 Nobody fills place. Nobody speaks name. Place remains empty in roll
-2 [Ar verezos hurpad sedon. Ar verezos dokad harlen. Sedon dorad mandro ir therna.]{lang=tarv}
-
-1 [Hir kanel ol thernad ol urkis verezos ol enoi. Verezos valmad dun harlen. Verezos kezdad sedon mandro.]{lang=tarv enc=tarvsemaronenc}
-2 while one of us lives who marches with name and knows empty place.
-2 [Hir kanel ol thernad ol urkis verezos ol enoi. Verezos valmad dun harlen. Verezos kezdad sedon mandro.]{lang=tarv}
-
-1 [Ken orthe verezos ol enoi ared zel talor. Therna anolmad us sedon. Sedon tigad hos.]{lang=tarv enc=tarvsemaronenc}
-2 When our last lies beneath stone, roll closes over place. Place goes away.
-2 [Ken orthe verezos ol enoi ared zel talor. Therna anolmad us sedon. Sedon tigad hos.]{lang=tarv}
-
-1 [THRAMO]{lang=tarv}
-2 THE COMPANY
-2 [THRAMO]{lang=tarv}
-
-1 [Ek sedon tigad hos.]{lang=tarv enc=tarvsemaronenc}
-2 Place goes away.
-2 [Ek sedon tigad hos.]{lang=tarv}
-
-***
-
-1 [THRUMAR]{lang=tarv}
-2 THE CAPTAIN
-2 [THRUMAR]{lang=tarv}
-
-1 [Denkanai harlen ol denon tarnela. Verezos merad harlen.]{lang=tarv enc=tarvsemaronenc}
-2 Now this year’s names, earned by deeds.
-2 [Denkanai harlen ol denon tarnela. Verezos merad harlen.]{lang=tarv}
-
-1 [Verezos lokad us kemtho ir sedon ol tavre. Ethor Kolzarra.]{lang=tarv enc=tarvsemaronenc}
-2 Person comes over wall second, after Scree.
-2 [Verezos lokad us kemtho ir sedon ol tavre. Ethor Kolzarra.]{lang=tarv}
-
-1 [Eza enoi daimad kethis harlen hir verezos.]{lang=tarv enc=tarvsemaronenc}
-2 What name do we give?
-2 [Eza enoi daimad kethis harlen hir verezos.]{lang=tarv}
-
-1 [THRAMO]{lang=tarv}
-2 THE COMPANY
-2 [THRAMO]{lang=tarv}
-
-1 [Garrunda. Garrunda ared us kemtho.]{lang=tarv enc=tarvsemaronenc}
-2 [Garrunda]{.name data-type="being/npc" lang=tarv}, Peak. [Garrunda]{.name data-type="being/npc" lang=tarv} is atop wall.
-2 [Garrunda. Garrunda ared us kemtho.]{lang=tarv}
-
-1 [THRUMAR]{lang=tarv}
-2 THE CAPTAIN
-2 [THRUMAR]{lang=tarv}
-
-1 [Garrunda. Ko dokad hir Garrunda.]{lang=tarv enc=tarvsemaronenc}
-2 [Garrunda]{.name data-type="being/npc" lang=tarv}. Say it to [Garrunda]{.name data-type="being/npc" lang=tarv}.
-2 [Garrunda. Ko dokad hir Garrunda.]{lang=tarv}
-
-1 [THRAMO]{lang=tarv}
-2 THE COMPANY
-2 [THRAMO]{lang=tarv}
-
-1 [Garrunda.]{lang=tarv enc=tarvsemaronenc}
-2 [Garrunda]{.name data-type="being/npc" lang=tarv}.
-2 [Garrunda.]{lang=tarv}
-
-1 [GARRUNDA]{lang=tarv}
-2 GARRUNDA
-2 [GARRUNDA]{lang=tarv}
-
-1 [En kerad harlen. Harlen ared ol thramo. En thaurad harlen.]{lang=tarv enc=tarvsemaronenc}
-2 I have the name. Name belongs to company. I keep name.
-2 [En kerad harlen. Harlen ared ol thramo. En thaurad harlen.]{lang=tarv}
-
-1 [THRUMAR]{lang=tarv}
-2 THE CAPTAIN
-2 [THRUMAR]{lang=tarv}
-
-1 [Nuron lozed pel hir therna zel geril us aldor ol siretha.]{lang=tarv enc=tarvsemaronenc}
-2 Boy carries bolts to line beneath arrows on river bank.
-2 [Nuron lozed pel hir therna zel geril us aldor ol siretha.]{lang=tarv}
-
-1 [Nuron ar ared ir therna. Nuron ared ir alatho sedon.]{lang=tarv enc=tarvsemaronenc}
-2 Boy is not on roll. Boy is there.
-2 [Nuron ar ared ir therna. Nuron ared ir alatho sedon.]{lang=tarv}
-
-1 [Eza enoi daimad kethis harlen hir nuron.]{lang=tarv enc=tarvsemaronenc}
-2 What name do we give boy?
-2 [Eza enoi daimad kethis harlen hir nuron.]{lang=tarv}
-
-1 [THRAMO]{lang=tarv}
-2 THE COMPANY
-2 [THRAMO]{lang=tarv}
-
-1 [Ekutsa. Ekuts. Us ek zel aldor ir zed nar. Ekutsa ar nizelad.]{lang=tarv enc=tarvsemaronenc}
-2 [Ekutsa]{.name data-type="being/npc" lang=tarv}, Sheepdog. Up and down bank all day. [Ekutsa]{.name data-type="being/npc" lang=tarv} never bites.
-2 [Ekutsa. Ekuts. Us ek zel aldor ir zed nar. Ekutsa ar nizelad.]{lang=tarv}
-
-1 [THRUMAR]{lang=tarv}
-2 THE CAPTAIN
-2 [THRUMAR]{lang=tarv}
-
-1 [Tha Ekutsa ared ir therna. Ekutsa. Ko dokad hir Ekutsa.]{lang=tarv enc=tarvsemaronenc}
-2 Then [Ekutsa]{.name data-type="being/npc" lang=tarv} is on roll. [Ekutsa]{.name data-type="being/npc" lang=tarv}. Say it to [Ekutsa]{.name data-type="being/npc" lang=tarv}.
-2 [Tha Ekutsa ared ir therna. Ekutsa. Ko dokad hir Ekutsa.]{lang=tarv}
-
-1 [THRAMO]{lang=tarv}
-2 THE COMPANY
-2 [THRAMO]{lang=tarv}
-
-1 [Ekutsa.]{lang=tarv enc=tarvsemaronenc}
-2 [Ekutsa]{.name data-type="being/npc" lang=tarv}.
-2 [Ekutsa.]{lang=tarv}
-
-1 [EKUTSA]{lang=tarv}
-2 EKUTSA
-2 [EKUTSA]{lang=tarv}
-
-1 [En kerad harlen. En thaurad harlen.]{lang=tarv enc=tarvsemaronenc}
-2 I have the name. I keep name.
-2 [En kerad harlen. En thaurad harlen.]{lang=tarv}
-
-***
-
-1 [THRUMAR]{lang=tarv}
-2 THE CAPTAIN
-2 [THRUMAR]{lang=tarv}
-
-1 [Denkanai eza kedis lokad ir kalga.]{lang=tarv enc=tarvsemaronenc}
-2 Now who enters gate?
-2 [Denkanai eza kedis lokad ir kalga.]{lang=tarv}
-
-1 [KARZA NURON]{lang=tarv}
-2 THREE BOYS
-2 [KARZA NURON]{lang=tarv}
-
-1 [Enoi lokad.]{lang=tarv enc=tarvsemaronenc}
-2 We come.
-2 [Enoi lokad.]{lang=tarv}
-
-1 [THRUMAR]{lang=tarv}
-2 THE CAPTAIN
-2 [THRUMAR]{lang=tarv}
-
-1 [Eza ko ared dadro.]{lang=tarv enc=tarvsemaronenc}
-2 Are you good?
-2 [Eza ko ared dadro.]{lang=tarv}
-
-1 [KARZA NURON]{lang=tarv}
-2 THREE BOYS
-2 [KARZA NURON]{lang=tarv}
-
-1 [Enoi pelzad dadro.]{lang=tarv enc=tarvsemaronenc}
-2 We become good.
-2 [Enoi pelzad dadro.]{lang=tarv}
-
-1 [THRUMAR]{lang=tarv}
-2 THE CAPTAIN
-2 [THRUMAR]{lang=tarv}
-
-1 [Denon ared dadro pethrandon. Ar hir denkanai. Ko ared ir therna. Ar hir denkanai.]{lang=tarv enc=tarvsemaronenc}
-2 That is good answer. Not yet. You stand on roll as not yet.
-2 [Denon ared dadro pethrandon. Ar hir denkanai. Ko ared ir therna. Ar hir denkanai.]{lang=tarv}
-
-1 [Ir denon sedon. Enoi ar thaurad hir denkanai.]{lang=tarv enc=tarvsemaronenc}
-2 Here. We do not keep yet.
-2 [Ir denon sedon. Enoi ar thaurad hir denkanai.]{lang=tarv}
-
-1 [KARZA NURON]{lang=tarv}
-2 THREE BOYS
-2 [KARZA NURON]{lang=tarv}
-
-1 [Ir denon sedon. Enoi ar thaurad hir denkanai.]{lang=tarv enc=tarvsemaronenc}
-2 Here. We do not keep yet.
-2 [Ir denon sedon. Enoi ar thaurad hir denkanai.]{lang=tarv}
-
-1 [THRAMO]{lang=tarv}
-2 THE COMPANY
-2 [THRAMO]{lang=tarv}
-
-1 [Ar hir denkanai.]{lang=tarv enc=tarvsemaronenc}
-2 Not yet.
-2 [Ar hir denkanai.]{lang=tarv}
-
-***
-
-1 [THRUMAR]{lang=tarv}
-2 THE CAPTAIN
-2 [THRUMAR]{lang=tarv}
-
-1 [Denkanai semna. Dekazu us goitsa.]{lang=tarv enc=tarvsemaronenc}
-2 Now contract. Hands upon stone.
-2 [Denkanai semna. Dekazu us goitsa.]{lang=tarv}
-
-1 [En gerpalad daimad pelza ol ko. Zed. Ir nar ol pelza.]{lang=tarv enc=tarvsemaronenc}
-2 I must give your pay. All. On payday.
-2 [En gerpalad daimad pelza ol ko. Zed. Ir nar ol pelza.]{lang=tarv}
-
-1 [Henthos sa dokandon. Ar nis solthen mazeron hos ko.]{lang=tarv enc=tarvsemaronenc}
-2 Terms as spoken. No small part more from you.
-2 [Henthos sa dokandon. Ar nis solthen mazeron hos ko.]{lang=tarv}
-
-1 [Othra ol ko zai ko nembed. Ir welri sedon. Pral en valmad.]{lang=tarv enc=tarvsemaronenc}
-2 Your rites if you fall, anywhere, before I march.
-2 [Othra ol ko zai ko nembed. Ir welri sedon. Pral en valmad.]{lang=tarv}
-
-1 [Ves harlen ol ko us aldor. Pelza hir dumva. Zai en ar dunad.]{lang=tarv enc=tarvsemaronenc}
-2 Or your names on bank, your pay home, if I cannot.
-2 [Ves harlen ol ko us aldor. Pelza hir dumva. Zai en ar dunad.]{lang=tarv}
-
-1 [THRAMO]{lang=tarv}
-2 THE COMPANY
-2 [THRAMO]{lang=tarv}
-
-1 [Ko gerpalad denon.]{lang=tarv enc=tarvsemaronenc}
-2 You must do it.
-2 [Ko gerpalad denon.]{lang=tarv}
-
-1 [THRUMAR]{lang=tarv}
-2 THE CAPTAIN
-2 [THRUMAR]{lang=tarv}
-
-1 [Eza ko gerpalad hir en kethis.]{lang=tarv enc=tarvsemaronenc}
-2 What must you give me?
-2 [Eza ko gerpalad hir en kethis.]{lang=tarv}
-
-1 [THRAMO]{lang=tarv}
-2 THE COMPANY
-2 [THRAMO]{lang=tarv}
-
-1 [Arvil. Henthos. Ar mazeron.]{lang=tarv enc=tarvsemaronenc}
-2 Season. Terms. No more.
-2 [Arvil. Henthos. Ar mazeron.]{lang=tarv}
-
-1 [Enoi tigad ir tigen ol semna. Enoi thaurad ir sedon ol dokad thaurad.]{lang=tarv enc=tarvsemaronenc}
-2 We go in contract’s direction. We hold where it says hold.
-2 [Enoi tigad ir tigen ol semna. Enoi thaurad ir sedon ol dokad thaurad.]{lang=tarv}
-
-1 [Enoi antigad hir dumva ken semna dokad dumva. Enoi ar alvad hos.]{lang=tarv enc=tarvsemaronenc}
-2 We return home when contract says home. We never flee.
-2 [Enoi antigad hir dumva ken semna dokad dumva. Enoi ar alvad hos.]{lang=tarv}
-
-1 [THRUMAR]{lang=tarv}
-2 THE CAPTAIN
-2 [THRUMAR]{lang=tarv}
-
-1 [Ko gerpalad denon.]{lang=tarv enc=tarvsemaronenc}
-2 You must do it.
-2 [Ko gerpalad denon.]{lang=tarv}
-
-1 [Eza kethis ared gerpalen.]{lang=tarv enc=tarvsemaronenc}
-2 What is required?
-2 [Eza kethis ared gerpalen.]{lang=tarv}
-
-1 [THRAMO]{lang=tarv}
-2 THE COMPANY
-2 [THRAMO]{lang=tarv}
-
-1 [Dokandon.]{lang=tarv enc=tarvsemaronenc}
-2 The spoken thing.
-2 [Dokandon.]{lang=tarv}
-
-1 [THRUMAR]{lang=tarv}
-2 THE CAPTAIN
-2 [THRUMAR]{lang=tarv}
-
-1 [Eza kethis ared dokad.]{lang=tarv enc=tarvsemaronenc}
-2 What is spoken?
-2 [Eza kethis ared dokad.]{lang=tarv}
-
-1 [THRAMO]{lang=tarv}
-2 THE COMPANY
-2 [THRAMO]{lang=tarv}
-
-1 [Gerpalo.]{lang=tarv enc=tarvsemaronenc}
-2 Duty.
-2 [Gerpalo.]{lang=tarv}
-
-1 [THRUMAR]{lang=tarv}
-2 THE CAPTAIN
-2 [THRUMAR]{lang=tarv}
-
-1 [Eza kedis kermad semna.]{lang=tarv enc=tarvsemaronenc}
-2 Who breaks contract?
-2 [Eza kedis kermad semna.]{lang=tarv}
-
-1 [THRAMO]{lang=tarv}
-2 THE COMPANY
-2 [THRAMO]{lang=tarv}
-
-1 [Ar verezos ir denon sedon.]{lang=tarv enc=tarvsemaronenc}
-2 Nobody here.
-2 [Ar verezos ir denon sedon.]{lang=tarv}
-
-1 [THRUMAR]{lang=tarv}
-2 THE CAPTAIN
-2 [THRUMAR]{lang=tarv}
-
-1 [Eza urkis ir denon sedon.]{lang=tarv enc=tarvsemaronenc}
-2 What if one here?
-2 [Eza urkis ir denon sedon.]{lang=tarv}
-
-1 [THRAMO]{lang=tarv}
-2 THE COMPANY
-2 [THRAMO]{lang=tarv}
-
-1 [Tha goitsa kezdad. Thizaro Lambis thavid. Therna thaurad sedon.]{lang=tarv enc=tarvsemaronenc}
-2 Then stone knows. Sealed Word hears. Roll keeps place.
-2 [Tha goitsa kezdad. Thizaro Lambis thavid. Therna thaurad sedon.]{lang=tarv}
-
-***
-
-1 [SARKO]{lang=tarv}
-2 THE PRIEST
-2 [SARKO]{lang=tarv}
-
-1 [Arvo ol kalga thavid. Dun tavre enthamis.]{lang=tarv enc=tarvsemaronenc}
-2 Gate’s god hears, with two faces.
-2 [Arvo ol kalga thavid. Dun tavre enthamis.]{lang=tarv}
-
-1 [THRAMO]{lang=tarv}
-2 THE COMPANY
-2 [THRAMO]{lang=tarv}
-
-1 [Ek goitsa.]{lang=tarv enc=tarvsemaronenc}
-2 And stone.
-2 [Ek goitsa.]{lang=tarv}
-
-1 [SARKO]{lang=tarv}
-2 THE PRIEST
-2 [SARKO]{lang=tarv}
-
-1 [Ek goitsa.]{lang=tarv enc=tarvsemaronenc}
-2 And stone.
-2 [Ek goitsa.]{lang=tarv}
-
-***
-
-1 [THRUMAR]{lang=tarv}
-2 THE CAPTAIN
-2 [THRUMAR]{lang=tarv}
-
-1 [Tarnela ared ir kalga. Thrumar kramed therna.]{lang=tarv enc=tarvsemaronenc}
-2 Year stands inside gate. Captain calls roll.
-2 [Tarnela ared ir kalga. Thrumar kramed therna.]{lang=tarv}
-
-1 [Ko linkad dekazu hos goitsa. Goitsa ared nelvos.]{lang=tarv enc=tarvsemaronenc}
-2 Release hands from stone. Stone is cold.
-2 [Ko linkad dekazu hos goitsa. Goitsa ared nelvos.]{lang=tarv}
-
-1 [Ko tigad hir dumva ol ko. Ko narad hir sora. Ko thaurad tholza.]{lang=tarv enc=tarvsemaronenc}
-2 Go to your houses. Tell family you keep vow.
-2 [Ko tigad hir dumva ol ko. Ko narad hir sora. Ko thaurad tholza.]{lang=tarv}
-
-1 [THRAMO]{lang=tarv}
-2 THE COMPANY
-2 [THRAMO]{lang=tarv}
-
-1 [Thaurad.]{lang=tarv enc=tarvsemaronenc}
-2 Keep.
-2 [Thaurad.]{lang=tarv}
-```
+::: {.verse form=litany lang=en work=roll}
+THE CAPTAIN/
+Is the stone here?/
+THE COMPANY/
+The stone is here./
+THE CAPTAIN/
+Is the stone cold?/
+THE COMPANY/
+The stone is cold./
+THE CAPTAIN/
+Then the stone is the stone.
+
+THE CAPTAIN/
+The year goes out of the gate./
+THE COMPANY/
+Let the year go out./
+THE CAPTAIN/
+The year enters the gate./
+THE COMPANY/
+Let the year enter./
+THE CAPTAIN/
+The gate’s god has two faces. The god sees going and coming./
+We each have one face. We turn toward the stone./
+THE COMPANY/
+We turn toward the stone.
+
+THE CAPTAIN/
+This is the roll. I carry it./
+Who marches with me this year and stands here says here./
+Who marches with me this year and is absent, their comrade speaks./
+A name is struck. Nobody speaks./
+THE COMPANY/
+Call the roll.
+
+THE CAPTAIN/
+[Garrutsa]{.name data-type="being/npc" lang=tarv}, Wolf./
+GARRUTSA/
+I am here. I keep the vow./
+THE CAPTAIN/
+[Oztuk]{.name data-type="being/npc" lang=tarv}, Crag./
+OZTUK/
+I am here. I keep the vow./
+THE CAPTAIN/
+[Átseka]{.name data-type="being/npc" lang=tarv}, Ewe as the company says. [Átseka]{.name data-type="being/npc" lang=tarv} is not gentle./
+ÁTSEKA/
+I am here. I keep the vow./
+THE CAPTAIN/
+[Tsala]{.name data-type="being/npc" lang=tarv}, Bell./
+TSALA/
+I am here. I keep the vow. I am loud./
+THE COMPANY/
+And loud./
+THE CAPTAIN/
+[Ozka]{.name data-type="being/npc" lang=tarv}, Peak-wind./
+OZKA/
+I am here. I keep the vow./
+THE CAPTAIN/
+[Betsa]{.name data-type="being/npc" lang=tarv}, Cheese. [Betsa]{.name data-type="being/npc" lang=tarv} returns lighter than departing./
+BETSA/
+I am here. I keep the vow. I am lighter./
+THE CAPTAIN/
+Sergeant./
+THE SERGEANT/
+I am here. I keep the vow./
+THE CAPTAIN/
+Surgeon./
+THE SURGEON/
+I am here. I keep the vow. All my repaired ones stand here, or a comrade answers./
+THE CAPTAIN/
+The rest of you./
+THE COMPANY/
+I am here. I keep the vow./
+THE CAPTAIN/
+I am here. I keep the vow. I speak it before you./
+If untrue, speak now, before stone, before year’s coming./
+THE COMPANY/
+You keep the vow.
+
+THE CAPTAIN/
+Now people who march and are absent./
+[Kolzarra]{.name data-type="being/npc" lang=tarv}, Scree. [Kolzarra]{.name data-type="being/npc" lang=tarv} climbs the ladder first at the wall in summer. Falls down it./
+HIS COMPANION/
+I march beside [Kolzarra]{.name data-type="being/npc" lang=tarv}. [Kolzarra]{.name data-type="being/npc" lang=tarv} is absent. Climbs first. Keeps the vow./
+THE COMPANY/
+[Kolzarra]{.name data-type="being/npc" lang=tarv} keeps the vow./
+THE CAPTAIN/
+[Ziduák]{.name data-type="being/npc" lang=tarv} is first to the dead after battle. Takes goods from dead for company, not [Ziduák]{.name data-type="being/npc" lang=tarv}. Now with dead./
+HIS COMPANION/
+I march beside [Ziduák]{.name data-type="being/npc" lang=tarv}. [Ziduák]{.name data-type="being/npc" lang=tarv} is absent. Takes nothing outside company property. Keeps the vow./
+THE COMPANY/
+[Ziduák]{.name data-type="being/npc" lang=tarv} keeps the vow./
+THE CAPTAIN/
+[Bortsula]{.name data-type="being/npc" lang=tarv} holds the mule-line on the night the camp burns. Mules live./
+HIS COMPANION/
+I march beside [Bortsula]{.name data-type="being/npc" lang=tarv}. [Bortsula]{.name data-type="being/npc" lang=tarv} is absent. Mules live. [Bortsula]{.name data-type="being/npc" lang=tarv} keeps the vow./
+THE COMPANY/
+[Bortsula]{.name data-type="being/npc" lang=tarv} keeps the vow./
+THE CAPTAIN/
+[Uguzta]{.name data-type="being/npc" lang=tarv}, Goat, carries me out of river on [Uguzta]{.name data-type="being/npc" lang=tarv}’s back in spring./
+Dies of river in autumn, in bed. Cough comes from river./
+HIS COMPANION/
+I march beside [Uguzta]{.name data-type="being/npc" lang=tarv}. [Uguzta]{.name data-type="being/npc" lang=tarv} is absent. Carries captain. Keeps the vow./
+THE CAPTAIN/
+[Uguzta]{.name data-type="being/npc" lang=tarv} carries me./
+THE COMPANY/
+[Uguzta]{.name data-type="being/npc" lang=tarv} keeps the vow./
+THE CAPTAIN/
+[Dúrreka]{.name data-type="being/npc" lang=tarv}, Fog, shoots our own paymaster’s herald in fog. Accidentally./
+Pays company penalty from [Dúrreka]{.name data-type="being/npc" lang=tarv}’s pay three seasons. Every part./
+Someone kills [Dúrreka]{.name data-type="being/npc" lang=tarv} in fourth season. No debt remains./
+HIS COMPANION/
+I march beside [Dúrreka]{.name data-type="being/npc" lang=tarv}. [Dúrreka]{.name data-type="being/npc" lang=tarv} is absent. No debt remains. Keeps the vow./
+THE COMPANY/
+No debt remains. [Dúrreka]{.name data-type="being/npc" lang=tarv} keeps the vow./
+THE CAPTAIN/
+The singer sings long poem for this company twenty years after evening food./
+The singer is there for everything, returns, dies at home this year beside own fire, old./
+HIS COMPANION/
+I do not march beside singer. Nobody does. Singer walks behind us to see./
+Singer is absent. Sees. Keeps the vow./
+THE COMPANY/
+Singer sees. Singer keeps the vow./
+THE CAPTAIN/
+Who sings long poem now?/
+THE NEW SINGER/
+I sing. I am there. I sing as singer sings. I add this year too./
+THE COMPANY/
+Then add this year.
+
+THE CAPTAIN/
+Now roll continues in roll’s tradition./
+After Goat, roll goes to next. Listen to next.
+
+Captain does not speak for a name’s duration./
+Company does not speak. Nobody answers.
+
+THE CAPTAIN/
+Roll keeps the place./
+THE COMPANY/
+Roll keeps the place./
+THE CAPTAIN/
+Nobody fills place. Nobody speaks name. Place remains empty in roll/
+while one of us lives who marches with name and knows empty place./
+When our last lies beneath stone, roll closes over place. Place goes away./
+THE COMPANY/
+Place goes away.
+
+THE CAPTAIN/
+Now this year’s names, earned by deeds./
+Person comes over wall second, after Scree./
+What name do we give?/
+THE COMPANY/
+[Garrunda]{.name data-type="being/npc" lang=tarv}, Peak. [Garrunda]{.name data-type="being/npc" lang=tarv} is atop wall./
+THE CAPTAIN/
+[Garrunda]{.name data-type="being/npc" lang=tarv}. Say it to [Garrunda]{.name data-type="being/npc" lang=tarv}./
+THE COMPANY/
+[Garrunda]{.name data-type="being/npc" lang=tarv}./
+GARRUNDA/
+I have the name. Name belongs to company. I keep name./
+THE CAPTAIN/
+Boy carries bolts to line beneath arrows on river bank./
+Boy is not on roll. Boy is there./
+What name do we give boy?/
+THE COMPANY/
+[Ekutsa]{.name data-type="being/npc" lang=tarv}, Sheepdog. Up and down bank all day. [Ekutsa]{.name data-type="being/npc" lang=tarv} never bites./
+THE CAPTAIN/
+Then [Ekutsa]{.name data-type="being/npc" lang=tarv} is on roll. [Ekutsa]{.name data-type="being/npc" lang=tarv}. Say it to [Ekutsa]{.name data-type="being/npc" lang=tarv}./
+THE COMPANY/
+[Ekutsa]{.name data-type="being/npc" lang=tarv}./
+EKUTSA/
+I have the name. I keep name.
+
+THE CAPTAIN/
+Now who enters gate?/
+THREE BOYS/
+We come./
+THE CAPTAIN/
+Are you good?/
+THREE BOYS/
+We become good./
+THE CAPTAIN/
+That is good answer. Not yet. You stand on roll as not yet./
+Here. We do not keep yet./
+THREE BOYS/
+Here. We do not keep yet./
+THE COMPANY/
+Not yet.
+
+THE CAPTAIN/
+Now contract. Hands upon stone./
+I must give your pay. All. On payday./
+Terms as spoken. No small part more from you./
+Your rites if you fall, anywhere, before I march./
+Or your names on bank, your pay home, if I cannot./
+THE COMPANY/
+You must do it./
+THE CAPTAIN/
+What must you give me?/
+THE COMPANY/
+Season. Terms. No more./
+We go in contract’s direction. We hold where it says hold./
+We return home when contract says home. We never flee./
+THE CAPTAIN/
+You must do it./
+What is required?/
+THE COMPANY/
+The spoken thing./
+THE CAPTAIN/
+What is spoken?/
+THE COMPANY/
+Duty./
+THE CAPTAIN/
+Who breaks contract?/
+THE COMPANY/
+Nobody here./
+THE CAPTAIN/
+What if one here?/
+THE COMPANY/
+Then stone knows. Sealed Word hears. Roll keeps place.
+
+THE PRIEST/
+Gate’s god hears, with two faces./
+THE COMPANY/
+And stone./
+THE PRIEST/
+And stone.
+
+THE CAPTAIN/
+Year stands inside gate. Captain calls roll./
+Release hands from stone. Stone is cold./
+Go to your houses. Tell family you keep vow./
+THE COMPANY/
+Keep.
+:::
+
+::: {.verse form=litany lang=tarv enc=tarvsemaronenc work=roll}
+THRUMAR/
+Eza goitsa ared ir denon sedon./
+THRAMO/
+Goitsa ared ir denon sedon./
+THRUMAR/
+Eza goitsa ared nelvos./
+THRAMO/
+Goitsa ared nelvos./
+THRUMAR/
+Tha goitsa ared goitsa.
+
+THRUMAR/
+Tarnela tigad hos kalga./
+THRAMO/
+Ko linkad tarnela tigad hos./
+THRUMAR/
+Tarnela tigad ir kalga./
+THRAMO/
+Ko linkad tarnela tigad ir./
+THRUMAR/
+Arvo ol kalga kerad tavre enthamis. Arvo oked tigad. Arvo oked lokad./
+Enoi kerad urkis enthamis hir urzele verezos. Enoi huzad hir goitsa./
+THRAMO/
+Enoi huzad hir goitsa.
+
+THRUMAR/
+Denon ared therna. En lozed therna./
+Verezos valmad dun en denon tarnela. Verezos ared ir denon sedon. Verezos dokad ir denon sedon./
+Verezos valmad dun en denon tarnela. Verezos ar ared ir denon sedon. Holvo ol verezos dokad./
+Harlen ared zured. Ar verezos dokad./
+THRAMO/
+Ko kramed therna.
+
+THRUMAR/
+Garrutsa. Garruts./
+GARRUTSA/
+En ared ir denon sedon. En thaurad tholza./
+THRUMAR/
+Oztuk. Oztuka./
+OZTUK/
+En ared ir denon sedon. En thaurad tholza./
+THRUMAR/
+Átseka. Atsek sa thramo dokad. Átseka ar ared lomeros./
+ÁTSEKA/
+En ared ir denon sedon. En thaurad tholza./
+THRUMAR/
+Tsala. Tsalats./
+TSALA/
+En ared ir denon sedon. En thaurad tholza. En ared kramo./
+THRAMO/
+Ek kramo./
+THRUMAR/
+Ozka. Ozkur./
+OZKA/
+En ared ir denon sedon. En thaurad tholza./
+THRUMAR/
+Betsa. Betsur. Betsa antigad ansolkimos mazer tigad./
+BETSA/
+En ared ir denon sedon. En thaurad tholza. En ared ansolkimos./
+THRUMAR/
+Takzo./
+TAKZO/
+En ared ir denon sedon. En thaurad tholza./
+THRUMAR/
+Irthezo./
+IRTHEZO/
+En ared ir denon sedon. En thaurad tholza. Zed konalon ol ankermad ol en ared ir denon sedon. Ves holvo pethred./
+THRUMAR/
+Alethos konalon ol ko./
+THRAMO/
+En ared ir denon sedon. En thaurad tholza./
+THRUMAR/
+En ared ir denon sedon. En thaurad tholza. En dokad denon pral ko./
+Zai denon ar ared varelin. Ko dokad denkanai. Pral goitsa. Pral lokad ol tarnela./
+THRAMO/
+Ko thaurad tholza.
+
+THRUMAR/
+Denkanai verezos ol valmad ek ar ir denon sedon./
+Kolzarra. Kolzar. Kolzarra urzvalmad edran holimai hir kemtho ir herthe. Kolzarra nembed zel edran./
+HOLVO/
+En valmad nol Kolzarra. Kolzarra ar ared ir denon sedon. Kolzarra urzvalmad holimai. Kolzarra thaurad tholza./
+THRAMO/
+Kolzarra thaurad tholza./
+THRUMAR/
+Ziduák. Ziduák ared holimos hir kolva ethor kordandon. Ziduák kured hrenkon hos kolva hir thramo. Ar hir Ziduák. Ziduák ared dun kolva./
+HOLVO/
+En valmad nol Ziduák. Ziduák ar ared ir denon sedon. Ziduák kured ar lathon hos hrenkon ol thramo. Ziduák thaurad tholza./
+THRAMO/
+Ziduák thaurad tholza./
+THRUMAR/
+Bortsula. Bortsula thaurad therna ol moldre ir nathre ol kremed ol durga. Moldre thernad./
+HOLVO/
+En valmad nol Bortsula. Bortsula ar ared ir denon sedon. Moldre thernad. Bortsula thaurad tholza./
+THRAMO/
+Bortsula thaurad tholza./
+THRUMAR/
+Uguzta. Guzta. Uguzta lozed en hos siretha us dolkon ol Uguzta ir nural./
+Uguzta kalmad ol siretha ir ohra. Ir nalvo. Sulkon lokad hos siretha./
+HOLVO/
+En valmad nol Uguzta. Uguzta ar ared ir denon sedon. Uguzta lozed thrumar. Uguzta thaurad tholza./
+THRUMAR/
+Uguzta lozed en./
+THRAMO/
+Uguzta thaurad tholza./
+THRUMAR/
+Dúrreka. Durka. Dúrreka gorad kaltho ol daima ol enoi ir durka. Anavren./
+Dúrreka zelmad kuthra ol thramo hos pelza ol Dúrreka karza arvil. Zed solthen./
+Verezos kolvad Dúrreka ir arvil ol helza. Ar nezora dorad./
+HOLVO/
+En valmad nol Dúrreka. Dúrreka ar ared ir denon sedon. Ar nezora dorad. Dúrreka thaurad tholza./
+THRAMO/
+Ar nezora dorad. Dúrreka thaurad tholza./
+THRUMAR/
+Sormar. Sormar sormad langa hir denon thramo 20 tarnela ethor paza ol hilta./
+Sormar ared ir denon sedon hir zed lathon. Sormar antigad. Sormar kalmad ir dumva denon tarnela. Nol karalzo ol sormar. Ankelos./
+HOLVO/
+En ar valmad nol sormar. Ar verezos ertad denon. Sormar valmad lither enoi hir oked./
+Sormar ar ared ir denon sedon. Sormar oked. Sormar thaurad tholza./
+THRAMO/
+Sormar oked. Sormar thaurad tholza./
+THRUMAR/
+Eza kedis sormad langa denkanai./
+PELRE SORMAR/
+En sormad. En ared ir denon sedon. En sormad sa sormar sormad. En lendad denon tarnela dun denon./
+THRAMO/
+Tha ko lendad denon tarnela.
+
+THRUMAR/
+Denkanai therna hramad ir zesima ol therna./
+Ethor Guzta therna tigad hir ethoros. Ko thavrelad ethoros.
+
+Thrumar ar dokad hir kanel ol harlen./
+Thramo ar dokad. Ar verezos pethred.
+
+THRUMAR/
+Therna thaurad sedon./
+THRAMO/
+Therna thaurad sedon./
+THRUMAR/
+Ar verezos hurpad sedon. Ar verezos dokad harlen. Sedon dorad mandro ir therna./
+Hir kanel ol thernad ol urkis verezos ol enoi. Verezos valmad dun harlen. Verezos kezdad sedon mandro./
+Ken orthe verezos ol enoi ared zel talor. Therna anolmad us sedon. Sedon tigad hos./
+THRAMO/
+Ek sedon tigad hos.
+
+THRUMAR/
+Denkanai harlen ol denon tarnela. Verezos merad harlen./
+Verezos lokad us kemtho ir sedon ol tavre. Ethor Kolzarra./
+Eza enoi daimad kethis harlen hir verezos./
+THRAMO/
+Garrunda. Garrunda ared us kemtho./
+THRUMAR/
+Garrunda. Ko dokad hir Garrunda./
+THRAMO/
+Garrunda./
+GARRUNDA/
+En kerad harlen. Harlen ared ol thramo. En thaurad harlen./
+THRUMAR/
+Nuron lozed pel hir therna zel geril us aldor ol siretha./
+Nuron ar ared ir therna. Nuron ared ir alatho sedon./
+Eza enoi daimad kethis harlen hir nuron./
+THRAMO/
+Ekutsa. Ekuts. Us ek zel aldor ir zed nar. Ekutsa ar nizelad./
+THRUMAR/
+Tha Ekutsa ared ir therna. Ekutsa. Ko dokad hir Ekutsa./
+THRAMO/
+Ekutsa./
+EKUTSA/
+En kerad harlen. En thaurad harlen.
+
+THRUMAR/
+Denkanai eza kedis lokad ir kalga./
+KARZA NURON/
+Enoi lokad./
+THRUMAR/
+Eza ko ared dadro./
+KARZA NURON/
+Enoi pelzad dadro./
+THRUMAR/
+Denon ared dadro pethrandon. Ar hir denkanai. Ko ared ir therna. Ar hir denkanai./
+Ir denon sedon. Enoi ar thaurad hir denkanai./
+KARZA NURON/
+Ir denon sedon. Enoi ar thaurad hir denkanai./
+THRAMO/
+Ar hir denkanai.
+
+THRUMAR/
+Denkanai semna. Dekazu us goitsa./
+En gerpalad daimad pelza ol ko. Zed. Ir nar ol pelza./
+Henthos sa dokandon. Ar nis solthen mazeron hos ko./
+Othra ol ko zai ko nembed. Ir welri sedon. Pral en valmad./
+Ves harlen ol ko us aldor. Pelza hir dumva. Zai en ar dunad./
+THRAMO/
+Ko gerpalad denon./
+THRUMAR/
+Eza ko gerpalad hir en kethis./
+THRAMO/
+Arvil. Henthos. Ar mazeron./
+Enoi tigad ir tigen ol semna. Enoi thaurad ir sedon ol dokad thaurad./
+Enoi antigad hir dumva ken semna dokad dumva. Enoi ar alvad hos./
+THRUMAR/
+Ko gerpalad denon./
+Eza kethis ared gerpalen./
+THRAMO/
+Dokandon./
+THRUMAR/
+Eza kethis ared dokad./
+THRAMO/
+Gerpalo./
+THRUMAR/
+Eza kedis kermad semna./
+THRAMO/
+Ar verezos ir denon sedon./
+THRUMAR/
+Eza urkis ir denon sedon./
+THRAMO/
+Tha goitsa kezdad. Thizaro Lambis thavid. Therna thaurad sedon.
+
+SARKO/
+Arvo ol kalga thavid. Dun tavre enthamis./
+THRAMO/
+Ek goitsa./
+SARKO/
+Ek goitsa.
+
+THRUMAR/
+Tarnela ared ir kalga. Thrumar kramed therna./
+Ko linkad dekazu hos goitsa. Goitsa ared nelvos./
+Ko tigad hir dumva ol ko. Ko narad hir sora. Ko thaurad tholza./
+THRAMO/
+Thaurad.
+:::
 
 ## See Also
 

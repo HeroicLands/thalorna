@@ -95,35 +95,25 @@ One such song, [[lore-seventowers|The Seven Towers]], opens on a valley at eveni
 
 : The Valley at Evening
 
-```verse {form=elegy numstep=5 cols=2}
-1 [tenvas oltarne enneli eso aunekkeho osotos aldis onsa kostemi vennas]{lang=sina enc=sinaveldikkoenc}
-2 [The evening comes early to that valley, for its walls are high.]{lang=en}
-2 [tenvas oltarne enneli eso aunekkeho osotos aldis onsa kostemi vennas]{lang=sina}
+::: {.verse form=elegy lang=en work=sinale-folk-1}
+The evening comes early to that valley, for its walls are high./
+.The last light climbs the eastern face, and stands there, and is gone./
+We knew it when it was only stone and water and the swifts,/
+.when the world was otherwise, and the only voices under the stars/
+were ours, and the voices of the ones your people learned to call the fae./
+.What comes down to you as a story came to us as an evening./
+We were there. We are here still. We remember it as it was.
+:::
 
-1 [.irtal oltandi aulira irvattosto nerveho setty onsa olkai onsa]{lang=sina enc=sinaveldikkoenc}
-2 [.The last light climbs the eastern face, and stands there, and is gone.]{lang=en}
-2 [.irtal oltandi aulira irvattosto nerveho setty onsa olkai onsa]{lang=sina}
-
-1 [erni ehii onsa tunes ralti evi melke evi silnara iltettu]{lang=sina enc=sinaveldikkoenc}
-2 [We knew it when it was only stone and water and the swifts,]{lang=en}
-2 [erni ehii onsa tunes ralti evi melke evi silnara iltettu]{lang=sina}
-
-1 [.uttes talnava tunes evi iltettu evette vennas nuuvaho]{lang=sina enc=sinaveldikkoenc}
-2 [.when the world was otherwise, and the only voices under the stars]{lang=en}
-2 [.uttes talnava tunes evi iltettu evette vennas nuuvaho]{lang=sina}
-
-1 [ehii onsaa evi venatta evette vennas oso ruvas ovuu taumel sirne]{lang=sina enc=sinaveldikkoenc}
-2 [were ours, and the voices of the ones your people learned to call the fae.]{lang=en}
-2 [ehii onsaa evi venatta evette vennas oso ruvas ovuu taumel sirne]{lang=sina}
-
-1 [.ennedhi ovuuho oltarne ehiiho]{lang=sina enc=sinaveldikkoenc}
-2 [.What comes down to you as a story came to us as an evening.]{lang=en}
-2 [.ennedhi ovuuho oltarne ehiiho]{lang=sina}
-
-1 [setty ehii oluho sendeppi ehii ihaho serdattota ehii onsa tennai]{lang=sina enc=sinaveldikkoenc}
-2 [We were there. We are here still. We remember it as it was.]{lang=en}
-2 [setty ehii oluho sendeppi ehii ihaho serdattota ehii onsa tennai]{lang=sina}
-```
+::: {.verse form=elegy lang=sina enc=sinaveldikkoenc work=sinale-folk-1}
+tenvas oltarne enneli eso aunekkeho osotos aldis onsa kostemi vennas/
+.irtal oltandi aulira irvattosto nerveho setty onsa olkai onsa/
+erni ehii onsa tunes ralti evi melke evi silnara iltettu/
+.uttes talnava tunes evi iltettu evette vennas nuuvaho/
+ehii onsaa evi venatta evette vennas oso ruvas ovuu taumel sirne/
+.ennedhi ovuuho oltarne ehiiho/
+setty ehii oluho sendeppi ehii ihaho serdattota ehii onsa tennai
+:::
 
 Why the Sinale have opened themselves to the Élavendren and no other human people is a question that scholars, diplomats, and envious monarchs have pondered for centuries. The Sinale have never explained, and the Élavendren have the good sense not to ask.
 

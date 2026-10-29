@@ -22,7 +22,7 @@
  * The verb list is narrow on purpose: "and a windstorm can bury a camp" and
  * "and a craftsperson can tell when a repair conceals damage" state a capacity
  * or a hazard and pass. A speaker's words inside quotation marks pass, because
- * the note attributes them. Frontmatter, code fences, `verse` blocks (verse is
+ * the note attributes them. Frontmatter, code fences, `.verse` divs (verse is
  * not house prose) and the style guide that names the shape are not read.
  *
  * Findings are written `file:line:column: error: message`, the path first and
@@ -35,6 +35,9 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 
 const CONTENT_DIR = "assets/content";
+
+/** The opener of a verse div: `::: {.verse …}` or `:::verse {…}`. */
+const VERSE_DIV = /^\s*:::\s*(?:\{\.verse(?:\s[^}]*)?\}|verse\s*\{[^}]*\})\s*$/;
 
 /** The style guide quotes the shape in order to forbid it. */
 const EXEMPT_FILES = new Set(["assets/content/README-gazeteer.md"]);
@@ -92,8 +95,17 @@ export function findObservers(file, text) {
     }
     const findings = [];
     let fence = null;
+    let inVerse = false;
     for (; i < lines.length; i++) {
         const line = lines[i];
+        if (inVerse) {
+            if (/^\s*:::\s*$/.test(line)) inVerse = false;
+            continue;
+        }
+        if (!fence && VERSE_DIV.test(line)) {
+            inVerse = true;
+            continue;
+        }
         const opener = line.match(/^\s*(`{3,}|~{3,})\s*(\w*)/);
         if (fence) {
             if (

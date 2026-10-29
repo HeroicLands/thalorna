@@ -5,11 +5,9 @@ import fs from "node:fs";
 import test from "node:test";
 import YAML from "yaml";
 import { splitFrontmatter } from "@heroiclands/package-build/engine/diagnostics";
-import { scanVerse, verseGroups } from "@heroiclands/package-build/engine/content-verse";
-import { scanFigures } from "@heroiclands/package-build/engine/content-figures";
+import { parseVerse, scanVerse } from "@heroiclands/package-build/engine/content-verse";
 import { createRenderer } from "@heroiclands/package-build/engine/content-render";
 import { runContext, scanRuns } from "@heroiclands/package-build/engine/content-scripts";
-import { encodeText } from "@heroiclands/package-build/engine/encoding";
 import { aelwythiEncoding } from "./aelwythi-encoding.mjs";
 import { unknownWords } from "@heroiclands/package-build/engine/run-words";
 import { resolveWebWikilinks } from "@heroiclands/package-build/engine/wikilinks";
@@ -24,7 +22,7 @@ const works = notes.filter(
         fm?.subType === "literature" && fm.data?.lang === "aelw" && scanVerse(body).blocks.length,
 );
 const language = notes.find(({ fm }) => fm?.shortcode === "aelwthlng");
-const { ctx, encoding, encode, glyphProblems } = aelwythiEncoding();
+const { ctx, encode, glyphProblems } = aelwythiEncoding();
 const renderer = createRenderer("foundry");
 const localLinks = {
     contentPackage: "thalorna",
@@ -51,65 +49,36 @@ const visible = (html) =>
 const plain = (text) => text.replace(/\[([^\]]*)\]\{[^}]*\}/g, "$1");
 const modernWords = (line) =>
     plain(line.replace(/\[\[[^\]\n|]+\|([^\]]*)\]\](?:\{[^}]*\})?/g, "$1"));
-const verseCells = (row) => {
-    const cells = [];
-    let depth = 0,
-        start = -1,
-        level = -1;
-    for (const tag of row.matchAll(/<\/?span\b[^>]*>/g)) {
-        if (tag[0].startsWith("</")) {
-            depth--;
-            if (start >= 0 && depth < level) {
-                cells.push(visible(row.slice(start, tag.index)));
-                start = -1;
-            }
-        } else {
-            depth++;
-            if (/class="verse-part(?: verse-secondary)?"/.test(tag[0])) {
-                start = tag.index + tag[0].length;
-                level = depth;
-            }
-        }
-    }
-    return cells;
-};
+const verseRows = (html) => [...html.matchAll(/<span class="verse-row">(.*)/g)];
+const verseCells = (row) =>
+    [
+        ...row.matchAll(
+            /<span class="verse-(native|roman)\b[^>]*>\s*<span class="verse-line">([^<]*)/g,
+        ),
+    ].map((m) => [m[1], visible(m[2])]);
 
 for (const note of [...works, language]) {
-    test(`${note.fm.name.full}: every verse line has script, modern reading and roman source`, () => {
+    test(`${note.fm.name.full}: every Aelwythi verse has an English version and an encoded original`, () => {
         const { blocks, errors } = scanVerse(note.body);
         assert(blocks.length, `${note.file}: verse must be executable`);
         assert.deepEqual(errors, [], note.file);
-        const figures = scanFigures(note.body);
-        assert.deepEqual(figures.errors, [], note.file);
         const lines = note.body.split("\n");
-        for (const block of blocks) {
-            const caption = figures.figures.find(
-                ({ kind, bodyStart }) => kind === "poem" && bodyStart === block.start,
+        const stanzas = (block) =>
+            parseVerse(block.body).groups.map((group) => group.lines.map((line) => line.text));
+        for (const block of blocks.filter(({ attributes }) => attributes.lang === "aelw")) {
+            const { work } = block.attributes;
+            assert(work, `${note.file}: an Aelwythi verse names its work`);
+            assert.equal(block.attributes.enc, "aelwsemaronenc", note.file);
+            const english = blocks.find(
+                ({ attributes }) => attributes.work === work && attributes.lang === "en",
             );
-            assert(
-                caption?.caption && caption.id,
-                `${note.file}: each verse has a caption and anchor`,
+            assert(english, `${note.file}: work=${work} has an English version`);
+            const original = stanzas(block);
+            assert.deepEqual(
+                original.map((stanza) => stanza.length),
+                stanzas(english).map((stanza) => stanza.length),
+                `${note.file}: work=${work} has the English stanza shape`,
             );
-            assert.equal(block.attributes.numstep, "5", note.file);
-            assert.equal(block.attributes.cols, "2", note.file);
-            const groups = verseGroups(block, lines).filter((group) => !group.stanzaBreak);
-            assert(groups.length, note.file);
-            for (const { parts } of groups) {
-                assert.deepEqual(
-                    parts.map(({ column }) => column),
-                    [1, 2, 2],
-                    note.file,
-                );
-                const [nativePart, modernPart, romanPart] = parts;
-                assert.match(
-                    nativePart.text,
-                    /^\[.*\]\{enc=aelwsemaronenc(?: lang=aelw)?\}$/,
-                    note.file,
-                );
-                assert(modernPart.text.endsWith("{lang=en}"), note.file);
-                assert.match(romanPart.text, /^\[.*\]\{lang=aelw\}$/, note.file);
-                assert.equal(plain(nativePart.text), plain(romanPart.text), note.file);
-            }
             const source = lines.slice(block.start, block.end + 1).join("\n");
             assert.deepEqual(scanRuns(source, ctx).errors, [], note.file);
             const linkErrors = [];
@@ -120,29 +89,21 @@ for (const note of [...works, language]) {
                 src: note.file,
             });
             assert.deepEqual(linkErrors, [], note.file);
-            const rendered = renderer.render(linked, { runs: ctx });
-            const rows = [...rendered.matchAll(/<span class="verse-row">(.*)/g)];
-            assert.equal(rows.length, groups.length, note.file);
+            const rows = verseRows(renderer.render(linked, { runs: ctx }));
+            const romans = original.flat();
+            assert.equal(rows.length, romans.length, `${note.file}: work=${work}`);
             for (const [i, row] of rows.entries()) {
-                assert.equal([...row[1].matchAll(/class="verse-column"/g)].length, 2);
-                assert.equal([...row[1].matchAll(/class="verse-part/g)].length, 3);
-                const [, modernPart, romanPart] = groups[i].parts;
-                const modern = modernWords(modernPart.text);
-                const roman = plain(romanPart.text);
+                const roman = plain(romans[i]);
                 const encoded = encode(roman);
                 assert.deepEqual(encoded.findings, [], note.file);
-                const mapped = encoded.text + encodeText(encoding, "/");
-                const cells = verseCells(row[1]);
-                assert.deepEqual(
-                    cells,
-                    [mapped, modern, roman],
-                    `${note.file}: actual script, modern and Roman cells at line ${i + 1}`,
+                const [[nativeKind, native], [romanKind, shown]] = verseCells(row[1]);
+                assert.deepEqual([nativeKind, romanKind], ["native", "roman"], note.file);
+                assert(
+                    native.startsWith(encoded.text),
+                    `${note.file}: script cell at row ${i + 1}`,
                 );
-                assert.equal(
-                    row[1].match(/class="verse-number">([^<]*)/)[1],
-                    (i + 1) % 5 === 0 ? String(i + 1) : "",
-                );
-                assert.deepEqual(glyphProblems(mapped), [], note.file);
+                assert.equal(shown, roman, `${note.file}: Roman cell at row ${i + 1}`);
+                assert.deepEqual(glyphProblems(native), [], note.file);
             }
         }
     });

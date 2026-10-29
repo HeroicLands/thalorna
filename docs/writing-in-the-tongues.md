@@ -1164,7 +1164,7 @@ Voza olmathen thilandon,
 
 **The fence word is `verse`.** A fence opened with `poetry` is not a verse: it
 renders as a plain code listing, the build stays green and no finding is
-reported by `package-build lint`. `npm run lint:verse-fences` refuses it:
+reported by `package-build lint`. `npm run lint:verse` refuses it:
 `a poetry fence renders as code; write the fence as verse`.
 
 A poem is composed, not reference writing. Spelling, dashes, line breaks and
@@ -1506,7 +1506,7 @@ continuous integration; it reads every note and takes minutes.
 | `npm run lint:earth-words`                                    | Every `data.words` form against the word lists of its model language (`SOURCES`)                                                                                 | `"<form>" is a word of the <model> list`: a whole-word Earth collision. Replace the word, with the owner's approval |
 | `npm run lint:earth-names`                                    | No Earth proper name in a note: a language, country, city, people, religion, person or work. The reader's language names are also refused as whole words         | Recast the name as a gloss or a rendering                                                                           |
 | `npm run lint:observer`                                       | The banned sentence shape: a fact followed by a hypothetical person who notices, judges or corrects it                                                           | End the sentence at the fact, or make the consequence the subject                                                   |
-| `npm run lint:verse-fences`                                   | No `poetry` fence                                                                                                                                                | Write the fence as `verse`                                                                                          |
+| `npm run lint:verse`                                          | No `poetry` fence                                                                                                                                                | Write the fence as `verse`                                                                                          |
 | `npm run lint:affix-replaces`                                 | An affix whose `attaches` prose says it replaces a closing sound but states no `replaces`                                                                        | Add `replaces: vowel` or the letters it takes the place of                                                          |
 | `npm run lint:retired`                                        | Retired names do not survive in prose; the Nordmal drift sweep                                                                                                   | A retired name stands where its replacement belongs                                                                 |
 | `npm run lint:nordmal-concordance`                            | The Nordmal concordance table agrees with the tree                                                                                                               | A row the tree contradicts                                                                                          |
@@ -1585,7 +1585,7 @@ Each is a real finding or a real trap.
 8. **Writing `lang=vly`.** A valid tag for another language, so it warns rather
    than fails, and the passage is unchecked.
 9. **Opening a poem with `poetry`.** `package-build lint` reports nothing, the
-   page shows a code listing, and only `npm run lint:verse-fences` catches it.
+   page shows a code listing, and only `npm run lint:verse` catches it.
 10. **Omitting a column prefix or roman repeat.** With `cols` above one,
     each reading needs its column number. A repeat must be written explicitly;
     omitted cells stay empty.

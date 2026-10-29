@@ -28,1389 +28,761 @@ The verses are set as a long line answered by a short one.
 
 : The Reading {#reading}
 
-```verse {form=dialogue lang=en cols=2 numstep=5}
-1 [ehu angala bhe, devri ro umbra pravun,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Here in the court before the goddess's scale,]{lang=en}
-2 [ehu angala bhe, devri ro umbra pravun,]{lang=vedy}
+::: {.verse form=dialogue lang=en work=reading}
+Here in the court before the goddess's scale,/
+.the bows have returned./
+Stand in your places, grip in your left hand,/
+.string removed from the horn./
+You ate the salt of six kingdoms this year./
+.Here you are counted./
+Before the gate opens, hear its meaning:/
+.the duty that precedes others./
+A bow leaves this fort under contract./
+.A word brings it home./
+This is that word, the night it traveled,/
+.two men who heard it./
+One has a name. The roll records it./
+.The other occupies a place/
+as a missing stone occupies its place in a standing wall./
+.The wall remains./
+Hear the couplets in the fort's keeping./
+.I read. I do not weigh.
+:::
 
-1 [.danur groha tral vramu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.the bows have returned.]{lang=en}
-2 [.danur groha tral vramu.]{lang=vedy}
-
-1 [nu nu ro stanra bhe stambhu, leru pomba bhe danushta,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Stand in your places, grip in your left hand,]{lang=en}
-2 [nu nu ro stanra bhe stambhu, leru pomba bhe danushta,]{lang=vedy}
-
-1 [.sultu danoshru trum durul.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.string removed from the horn.]{lang=en}
-2 [.sultu danoshru trum durul.]{lang=vedy}
-
-1 [ehu orkhu bhe nu shauka rajbhumri ro shimra ghuma,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [You ate the salt of six kingdoms this year.]{lang=en}
-2 [ehu orkhu bhe nu shauka rajbhumri ro shimra ghuma,]{lang=vedy}
-
-1 [.le nu ehu stalu bhe ganona bhe orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.Here you are counted.]{lang=en}
-2 [.le nu ehu stalu bhe ganona bhe orsa.]{lang=vedy}
-
-1 [dvarna muku anra, nu dvarna ro shaltun bhinu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Before the gate opens, hear its meaning:]{lang=en}
-2 [dvarna muku anra, nu dvarna ro shaltun bhinu,]{lang=vedy}
-
-1 [.ganstal aisu ro dorma.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.the duty that precedes others.]{lang=en}
-2 [.ganstal aisu ro dorma.]{lang=vedy}
-
-1 [danur ehu kotra trum karmuklipu shem turu chambu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [A bow leaves this fort under contract.]{lang=en}
-2 [danur ehu kotra trum karmuklipu shem turu chambu.]{lang=vedy}
-
-1 [.vi aisu shaltu pa vramu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.A word brings it home.]{lang=en}
-2 [.vi aisu shaltu pa vramu.]{lang=vedy}
-
-1 [ehu uhu shaltu orsa, le vi bhornu ro ghaul,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [This is that word, the night it traveled,]{lang=en}
-2 [ehu uhu shaltu orsa, le vi bhornu ro ghaul,]{lang=vedy}
-
-1 [.le birsa janru vi bhinu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.two men who heard it.]{lang=en}
-2 [.le birsa janru vi bhinu.]{lang=vedy}
-
-1 [aisu tirma ushta, lipu ve ro tirma ushta.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [One has a name. The roll records it.]{lang=en}
-2 [aisu tirma ushta, lipu ve ro tirma ushta.]{lang=vedy}
-
-1 [.navu lipu bhe orsa,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.The other occupies a place]{lang=en}
-2 [.navu lipu bhe orsa,]{lang=vedy}
-
-1 [shilsa turu adnu, ve ro stanra ludra bhe orsa ro samnu pantra shem,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [as a missing stone occupies its place in a standing wall.]{lang=en}
-2 [shilsa turu adnu, ve ro stanra ludra bhe orsa ro samnu pantra shem,]{lang=vedy}
-
-1 [.le ludra stambhu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.The wall remains.]{lang=en}
-2 [.le ludra stambhu.]{lang=vedy}
-
-1 [nu kotra ro poksa bhinu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Hear the couplets in the fort's keeping.]{lang=en}
-2 [nu kotra ro poksa bhinu.]{lang=vedy}
-
-1 [.mo gratuk, mo uvas tulu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.I read. I do not weigh.]{lang=en}
-2 [.mo gratuk, mo uvas tulu.]{lang=vedy}
-
-```
+::: {.verse form=dialogue lang=vedy enc=vedyvedyaksharaenc work=reading}
+ehu angala bhe, devri ro umbra pravun,/
+.danur groha tral vramu./
+nu nu ro stanra bhe stambhu, leru pomba bhe danushta,/
+.sultu danoshru trum durul./
+ehu orkhu bhe nu shauka rajbhumri ro shimra ghuma,/
+.le nu ehu stalu bhe ganona bhe orsa./
+dvarna muku anra, nu dvarna ro shaltun bhinu,/
+.ganstal aisu ro dorma./
+danur ehu kotra trum karmuklipu shem turu chambu./
+.vi aisu shaltu pa vramu./
+ehu uhu shaltu orsa, le vi bhornu ro ghaul,/
+.le birsa janru vi bhinu./
+aisu tirma ushta, lipu ve ro tirma ushta./
+.navu lipu bhe orsa,/
+shilsa turu adnu, ve ro stanra ludra bhe orsa ro samnu pantra shem,/
+.le ludra stambhu./
+nu kotra ro poksa bhinu./
+.mo gratuk, mo uvas tulu.
+:::
 
 : The Camp {#camp}
 
-```verse {form=dialogue lang=en cols=2 numstep=5}
-1 [hirenya ro margha nitar daun ro rajva ro agmi]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Below the gold road, the valley king's fires]{lang=en}
-2 [hirenya ro margha nitar daun ro rajva ro agmi]{lang=vedy}
-
-1 [.shilpatra pa avoli bhe stambhu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.lined the shale.]{lang=en}
-2 [.shilpatra pa avoli bhe stambhu.]{lang=vedy}
-
-1 [ve ro danur ro senta danudarva anshe nidu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [His bow companies slept beside their staves.]{lang=en}
-2 [ve ro danur ro senta danudarva anshe nidu,]{lang=vedy}
-
-1 [.le danushta pa darsu mova ro orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.Our mark was cut on their grips.]{lang=en}
-2 [.le danushta pa darsu mova ro orsa.]{lang=vedy}
-
-1 [birsa shiraban ro janru aisu agmi anshe nidru,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Two men of the reed village lay at one fire,]{lang=en}
-2 [birsa shiraban ro janru aisu agmi anshe nidru,]{lang=vedy}
-
-1 [.aisu matva, aisu kulpa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.one mother, one kulpa:]{lang=en}
-2 [.aisu matva, aisu kulpa.]{lang=vedy}
-
-1 [stovira 11 orkhu rajva ro misra druk danpruku,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [the elder, eleven years drawing for royal pay,]{lang=en}
-2 [stovira 11 orkhu rajva ro misra druk danpruku,]{lang=vedy}
-
-1 [.le sharabira birsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.Sharabira, two.]{lang=en}
-2 [.le sharabira birsa.]{lang=vedy}
-
-***
-
-1 [ganstal tre ro ghaulrakha bhe dramoka margha utrak hauvu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [A runner arrived at the third watch,]{lang=en}
-2 [ganstal tre ro ghaulrakha bhe dramoka margha utrak hauvu,]{lang=vedy}
-
-1 [.jvelaka uvas, sotra mudva shem.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.no lamp, four seals.]{lang=en}
-2 [.jvelaka uvas, sotra mudva shem.]{lang=vedy}
-
-1 [ve kotra trum nodra ro pantra anva hauvu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [He had followed the river path from the fort.]{lang=en}
-2 [ve kotra trum nodra ro pantra anva hauvu,]{lang=vedy}
-
-1 [.le ve ro padsa petsa ushta.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.His feet were cut open.]{lang=en}
-2 [.le ve ro padsa petsa ushta.]{lang=vedy}
-
-1 [ve rajva uvas jahnuk, ve danushta jahnuk,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [He asked for the marked grips,]{lang=en}
-2 [ve rajva uvas jahnuk, ve danushta jahnuk,]{lang=vedy}
-
-1 [.vena pa darsu chintuna orsa,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.never asking for the king.]{lang=en}
-2 [.vena pa darsu chintuna orsa,]{lang=vedy}
-
-1 [le danurin kambra turu agmi tral hauvu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Bowmen left their blankets for the fire.]{lang=en}
-2 [le danurin kambra turu agmi tral hauvu,]{lang=vedy}
-
-1 [.le ve stambhu shem lampu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.Standing, he gave the message.]{lang=en}
-2 [.le ve stambhu shem lampu.]{lang=vedy}
-
-***
-
-1 [utradanpruk ro dhanurpala ehu lampu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [[dhanurpala]{.name data-type="being/npc" lang=vedy} of the High Draw declares it.]{lang=en}
-2 [utradanpruk ro dhanurpala ehu lampu,]{lang=vedy}
-
-1 [.le tre ve shem lampu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.The three declare it with him.]{lang=en}
-2 [.le tre ve shem lampu.]{lang=vedy}
-
-1 [dvarna bhe danur pomu bhe orsa, vi orgha pomu bhe uvas orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The bow was given at the gate, never sold.]{lang=en}
-2 [dvarna bhe danur pomu bhe orsa, vi orgha pomu bhe uvas orsa.]{lang=vedy}
-
-1 [.danushta pa darsu mova ro orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.Its grip bears our mark.]{lang=en}
-2 [.danushta pa darsu mova ro orsa.]{lang=vedy}
-
-1 [danurkot hirengirka shem preska uvas ushta,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Danurkot has no quarrel with the gold mountain,]{lang=en}
-2 [danurkot hirengirka shem preska uvas ushta,]{lang=vedy}
-
-1 [.le vrel anshegrohin shem uvas.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.or any neighbor.]{lang=en}
-2 [.le vrel anshegrohin shem uvas.]{lang=vedy}
-
-1 [janpoda varsu pomu, janpoda vi groha tral ravhu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The janpoda calls home what it gave.]{lang=en}
-2 [janpoda varsu pomu, janpoda vi groha tral ravhu.]{lang=vedy}
-
-1 [.daun ro rajva ro pomba bhe sartu danur,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.Every bow held by the valley king:]{lang=en}
-2 [.daun ro rajva ro pomba bhe sartu danur,]{lang=vedy}
-
-1 [nu bharyastan ro oshka tral nitar hauvu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [come down to Bharyastan's horse.]{lang=en}
-2 [nu bharyastan ro oshka tral nitar hauvu,]{lang=vedy}
-
-1 [.le vena shem mukhva bhe stambhu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.Stand beside them at the mouth.]{lang=en}
-2 [.le vena shem mukhva bhe stambhu.]{lang=vedy}
-
-1 [hauvu ro janru mova ro orsa, nyuru orsa ro janru,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Whoever comes belongs to us. Whoever stays—]{lang=en}
-2 [hauvu ro janru mova ro orsa, nyuru orsa ro janru,]{lang=vedy}
-
-1 [.le dramoka brondu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.the runner paused,]{lang=en}
-2 [.le dramoka brondu,]{lang=vedy}
-
-1 [drunem shaltu kalduna ushta, le ve vi jnenuk,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [knowing the word had an ending.]{lang=en}
-2 [drunem shaltu kalduna ushta, le ve vi jnenuk,]{lang=vedy}
-
-1 [.le ve vi pomu, mova ro uvas orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.He delivered it: —does not.]{lang=en}
-2 [.le ve vi pomu, mova ro uvas orsa.]{lang=vedy}
-
-***
-
-1 [ve jalnu, le anvaganstal agmi tral chambu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [He drank and moved to the next fire.]{lang=en}
-2 [ve jalnu, le anvaganstal agmi tral chambu.]{lang=vedy}
-
-1 [.mova ro agmi anshe nortu janru lampu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.At ours nobody spoke.]{lang=en}
-2 [.mova ro agmi anshe nortu janru lampu.]{lang=vedy}
-
-1 [stovira ferkakhondra vi pa stanru le durul sadnu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The elder added a stick, sat back,]{lang=en}
-2 [stovira ferkakhondra vi pa stanru le durul sadnu,]{lang=vedy}
-
-1 [.le ganstal aisu shaltu lampu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.and spoke first.]{lang=en}
-2 [.le ganstal aisu shaltu lampu.]{lang=vedy}
-
-***
-
-1 [stovira.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The elder.]{lang=en}
-2 [stovira.]{lang=vedy}
-
-***
-
-1 [mo daun ro rajva ro shimra 11 orkhu ghuma.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [For eleven years I ate the valley king's salt.]{lang=en}
-2 [mo daun ro rajva ro shimra 11 orkhu ghuma.]{lang=vedy}
-
-1 [.shimra olgu uvas orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.Salt is no loan.]{lang=en}
-2 [.shimra olgu uvas orsa.]{lang=vedy}
-
-1 [vi shoru rinru orsa, nu vi vramul uvas grenu pomu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [It enters the blood. You cannot give it back]{lang=en}
-2 [vi shoru rinru orsa, nu vi vramul uvas grenu pomu,]{lang=vedy}
-
-1 [.dvarna bhe, ghaul bhe, petsa ro padsa ushta ro kema tral.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.at a gate at night to a boy with bleeding feet.]{lang=en}
-2 [.dvarna bhe, ghaul bhe, petsa ro padsa ushta ro kema tral.]{lang=vedy}
-
-***
-
-1 [sharabira.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Sharabira.]{lang=en}
-2 [sharabira.]{lang=vedy}
-
-***
-
-1 [ve shimra, apra le navchendra bhe rajta ro vreta pomu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [He guaranteed salt, bread, silver at each new moon.]{lang=en}
-2 [ve shimra, apra le navchendra bhe rajta ro vreta pomu,]{lang=vedy}
-
-1 [.le mova vena adnu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.We received them.]{lang=en}
-2 [.le mova vena adnu.]{lang=vedy}
-
-1 [rajva ve ro vreta ro varsu ro anvaru ushta, le navu varsu uvas.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [A king is owed his guarantee, nothing beyond it.]{lang=en}
-2 [rajva ve ro vreta ro varsu ro anvaru ushta, le navu varsu uvas.]{lang=vedy}
-
-1 [.ve hirenya ro vreta uvas pomu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.Gold was no part of his guarantee.]{lang=en}
-2 [.ve hirenya ro vreta uvas pomu.]{lang=vedy}
-
-1 [ve ro pomba pantru tral shirka muku druk misra ro vreta pomu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [He promised pay for shooting where he pointed.]{lang=en}
-2 [ve ro pomba pantru tral shirka muku druk misra ro vreta pomu.]{lang=vedy}
-
-1 [.ve girka tral uvas lampu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.He never said: at the mountain.]{lang=en}
-2 [.ve girka tral uvas lampu.]{lang=vedy}
-
-***
-
-1 [stovira.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The elder.]{lang=en}
-2 [stovira.]{lang=vedy}
-
-***
-
-1 [ve vi uvas lampu, drunem nortu janru vi lampu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [He never said it because nobody does.]{lang=en}
-2 [ve vi uvas lampu, drunem nortu janru vi lampu.]{lang=vedy}
-
-1 [.jahu hirenya tral uvas lipak.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.Who writes: except the gold?]{lang=en}
-2 [.jahu hirenya tral uvas lipak.]{lang=vedy}
-
-1 [karmuklipu rajva ro kertuna druk orsa, le ve kertuk.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The contract serves the king's choice. He has chosen.]{lang=en}
-2 [karmuklipu rajva ro kertuna druk orsa, le ve kertuk.]{lang=vedy}
-
-1 [.nu ve druk kertuk, le jahu karmuk.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.Choose in his place. Who will hire you?]{lang=en}
-2 [.nu ve druk kertuk, le jahu karmuk.]{lang=vedy}
-
-1 [jahu danur karmuk, vi agmi ro kirtu bhe karmuklipu gratuk,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Who hires a bow studying its contract at a fire,]{lang=en}
-2 [jahu danur karmuk, vi agmi ro kirtu bhe karmuklipu gratuk,]{lang=vedy}
-
-1 [.le kirtu anra durul chambu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.gone before daylight?]{lang=en}
-2 [.le kirtu anra durul chambu.]{lang=vedy}
-
-1 [kotra karmuna pa ormu, shiraban karmuna pa ormu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Hire feeds the fort. Hire feeds the reed village.]{lang=en}
-2 [kotra karmuna pa ormu, shiraban karmuna pa ormu.]{lang=vedy}
-
-1 [.mova ro matva ro grohashirnu karmuna orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.Hire roofs our mother.]{lang=en}
-2 [.mova ro matva ro grohashirnu karmuna orsa.]{lang=vedy}
-
-***
-
-1 [sharabira.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Sharabira.]{lang=en}
-2 [sharabira.]{lang=vedy}
-
-***
-
-1 [kotra kotra ro danur pa ormu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The fort lives because its bow remains its own.]{lang=en}
-2 [kotra kotra ro danur pa ormu.]{lang=vedy}
-
-1 [.uhu varsu karmuna bhe orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.That is what people hire.]{lang=en}
-2 [.uhu varsu karmuna bhe orsa.]{lang=vedy}
-
-1 [danur shimra anva chambu, vrel janru vi orgha pomu grenu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Anyone can purchase a bow that follows salt.]{lang=en}
-2 [danur shimra anva chambu, vrel janru vi orgha pomu grenu,]{lang=vedy}
-
-1 [.le nortu rajva vi druk orgha pomu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.No king pays for it.]{lang=en}
-2 [.le nortu rajva vi druk orgha pomu.]{lang=vedy}
-
-1 [daun ro rajva mova rinru danurkot ro shaltu karmuk.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The valley king hired Danurkot's word through us.]{lang=en}
-2 [daun ro rajva mova rinru danurkot ro shaltu karmuk.]{lang=vedy}
-
-1 [.shaltu margha utrak hauvu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.That word has traveled up the road.]{lang=en}
-2 [.shaltu margha utrak hauvu.]{lang=vedy}
-
-***
-
-1 [stovira.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The elder.]{lang=en}
-2 [stovira.]{lang=vedy}
-
-***
-
-1 [mo senta shem daun ro dvarna bhe shilsa pa kortu chinu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [I cut a company oath at the valley gate's stone,]{lang=en}
-2 [mo senta shem daun ro dvarna bhe shilsa pa kortu chinu,]{lang=vedy}
-
-1 [.darshin pravun kortu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.a kortu, witnessed:]{lang=en}
-2 [.darshin pravun kortu.]{lang=vedy}
-
-1 [vena stambhu ro stalu bhe stambhu, 40 janru mo ro mirmu jnenuk.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [stand where they stand. Forty men know me.]{lang=en}
-2 [vena stambhu ro stalu bhe stambhu, 40 janru mo ro mirmu jnenuk.]{lang=vedy}
-
-1 [.mo ro leru bhe janru daun ro orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.A valley man stands on my left.]{lang=en}
-2 [.mo ro leru bhe janru daun ro orsa.]{lang=vedy}
-
-1 [ve shirka muku uvas grenu, mo ve druk muku, vren mo margha nitar chambu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [He cannot shoot. I shoot for him. If I leave,]{lang=en}
-2 [ve shirka muku uvas grenu, mo ve druk muku, vren mo margha nitar chambu,]{lang=vedy}
-
-1 [.anven mo ro shirka ve tral hauvu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.my arrow comes to him.]{lang=en}
-2 [.anven mo ro shirka ve tral hauvu.]{lang=vedy}
-
-1 [uhu shirka pral chambu vrannuk ro dorma mo tral lampu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Tell me which duty lets that arrow through.]{lang=en}
-2 [uhu shirka pral chambu vrannuk ro dorma mo tral lampu.]{lang=vedy}
-
-1 [.vi ro rinda bhe tirma lampu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.Give its place in the order.]{lang=en}
-2 [.vi ro rinda bhe tirma lampu.]{lang=vedy}
-
-***
-
-1 [sharabira.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Sharabira.]{lang=en}
-2 [sharabira.]{lang=vedy}
-
-***
-
-1 [rinda bhe kobala, kulpa, grima le vi ro sabhra,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [In order: household, kulpa, village and assembly,]{lang=en}
-2 [rinda bhe kobala, kulpa, grima le vi ro sabhra,]{lang=vedy}
-
-1 [.ombhala le rajva.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.temple, king.]{lang=en}
-2 [.ombhala le rajva.]{lang=vedy}
-
-1 [nu ro senta rajva ro stanra bhe orsa, vi kaldunganstal orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The company takes the king's place, last.]{lang=en}
-2 [nu ro senta rajva ro stanra bhe orsa, vi kaldunganstal orsa.]{lang=vedy}
-
-1 [.nu ve ro shimra nitar kortu pomu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.His salt governed your oath.]{lang=en}
-2 [.nu ve ro shimra nitar kortu pomu.]{lang=vedy}
-
-1 [nu ro leru bhe janru rajva ushta, rajva ve ro leru bhe stambhu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Your left-hand man has a king. Let his king stand there.]{lang=en}
-2 [nu ro leru bhe janru rajva ushta, rajva ve ro leru bhe stambhu.]{lang=vedy}
-
-1 [.mo ve ro kulpa uvas orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.He is outside my kulpa.]{lang=en}
-2 [.mo ve ro kulpa uvas orsa.]{lang=vedy}
-
-***
-
-1 [stovira.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The elder.]{lang=en}
-2 [stovira.]{lang=vedy}
-
-***
-
-1 [sotra puratra janru kotra bhe lipu pa lipak.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Four old men wrote on a leaf in a fort.]{lang=en}
-2 [sotra puratra janru kotra bhe lipu pa lipak.]{lang=vedy}
-
-1 [.nortu devra lampu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.No god spoke.]{lang=en}
-2 [.nortu devra lampu.]{lang=vedy}
-
-1 [mahajaya jvelaka shem hirenya ro margha utrak uvas hauvu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Mahajaya never brought a lamp up the gold road.]{lang=en}
-2 [mahajaya jvelaka shem hirenya ro margha utrak uvas hauvu,]{lang=vedy}
-
-1 [.dramoka hauvu, petsa ro padsa shem.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.A runner came with cut feet.]{lang=en}
-2 [.dramoka hauvu, petsa ro padsa shem.]{lang=vedy}
-
-1 [ve ro umbra ombhala bhe orsa, ehu ghaul bhe nortu janru vi pa mahva pombasutka stanru.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Her scale stays in the temple. No thumb touched it tonight.]{lang=en}
-2 [ve ro umbra ombhala bhe orsa, ehu ghaul bhe nortu janru vi pa mahva pombasutka stanru.]{lang=vedy}
-
-1 [.lipu bhe devra mo tral darsin karmak.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.Show me a god in that leaf.]{lang=en}
-2 [.lipu bhe devra mo tral darsin karmak.]{lang=vedy}
-
-***
-
-1 [sharabira.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Sharabira.]{lang=en}
-2 [sharabira.]{lang=vedy}
-
-***
-
-1 [sotra aisu kalda bhe sadnu le sentakarmu pa aisu lampur pomu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The four sit together and answer together in war.]{lang=en}
-2 [sotra aisu kalda bhe sadnu le sentakarmu pa aisu lampur pomu.]{lang=vedy}
-
-1 [.uhu janpoda ro mukhva orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.They are the janpoda's mouth.]{lang=en}
-2 [.uhu janpoda ro mukhva orsa.]{lang=vedy}
-
-1 [gorva mo ro pomba bhe danur stanru, nortu devra lampu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [No god spoke when the master put a bow in my hand.]{lang=en}
-2 [gorva mo ro pomba bhe danur stanru, nortu devra lampu,]{lang=vedy}
-
-1 [.gorva lampu, le vi pomu bhe orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.The master spoke. He gave it.]{lang=en}
-2 [.gorva lampu, le vi pomu bhe orsa.]{lang=vedy}
-
-1 [le ve ro umbra girka bhe orsa, ve ro hirenya vi pa umbrona bhe orsa,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Her scale stands at the mountain. Her gold is weighed upon it,]{lang=en}
-2 [le ve ro umbra girka bhe orsa, ve ro hirenya vi pa umbrona bhe orsa,]{lang=vedy}
-
-1 [.sartu navchendra bhe, darsin, umbra shem.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.openly, by weight, every new moon.]{lang=en}
-2 [.sartu navchendra bhe, darsin, umbra shem.]{lang=vedy}
-
-1 [ve ro tre ombhala samru vi mon orsa, drunva aisu pomba vi uvas ushta.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Three equal temples surround it, keeping it from one hand.]{lang=en}
-2 [ve ro tre ombhala samru vi mon orsa, drunva aisu pomba vi uvas ushta.]{lang=vedy}
-
-1 [.uhu hirenya tral mova chambu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.That is the gold we marched toward.]{lang=en}
-2 [.uhu hirenya tral mova chambu.]{lang=vedy}
-
-1 [vren nu vi druk shirka kretu, anven ve ro umbra tral muku.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Find an arrow for her scale and shoot it.]{lang=en}
-2 [vren nu vi druk shirka kretu, anven ve ro umbra tral muku.]{lang=vedy}
-
-1 [.mo uvas grenu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.I cannot.]{lang=en}
-2 [.mo uvas grenu.]{lang=vedy}
-
-***
-
-1 [stovira.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The elder.]{lang=en}
-2 [stovira.]{lang=vedy}
-
-***
-
-1 [mova ro birsa janru anra kotra ve ro shimra ghuma.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The fort ate his salt before we did.]{lang=en}
-2 [mova ro birsa janru anra kotra ve ro shimra ghuma.]{lang=vedy}
-
-1 [.sartu antaritu bhe ve ro karmunolgu nodra ro margha utrak hauvu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.Every spring his retainer comes upriver,]{lang=en}
-2 [.sartu antaritu bhe ve ro karmunolgu nodra ro margha utrak hauvu,]{lang=vedy}
-
-1 [le ombhala ro danhakoshta rinru chambu, le sotra koshta pa sadnu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [into the temple chest. The four sit on that chest.]{lang=en}
-2 [le ombhala ro danhakoshta rinru chambu, le sotra koshta pa sadnu.]{lang=vedy}
-
-1 [.vena ve ro rajta ghuma le mo tral kema pomu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.They eat his silver and send a boy]{lang=en}
-2 [.vena ve ro rajta ghuma le mo tral kema pomu,]{lang=vedy}
-
-1 [ve mo ve ro shimra agmi bhe sipitnu lampu druk.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [to tell me to spit his salt into fire.]{lang=en}
-2 [ve mo ve ro shimra agmi bhe sipitnu lampu druk.]{lang=vedy}
-
-1 [.nu vi lampur.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.Answer that.]{lang=en}
-2 [.nu vi lampur.]{lang=vedy}
-
-***
-
-1 [sharabira.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Sharabira.]{lang=en}
-2 [sharabira.]{lang=vedy}
-
-***
-
-1 [karmunolgu ve druk shalda trum senaneka orgha pomu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The retainer purchased officers from the halls.]{lang=en}
-2 [karmunolgu ve druk shalda trum senaneka orgha pomu.]{lang=vedy}
-
-1 [.vi ve druk girka uvas orgha pomu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.It never purchased the mountain.]{lang=en}
-2 [.vi ve druk girka uvas orgha pomu.]{lang=vedy}
-
-1 [kotra ve tral kevu ro anvaru ushta, kotra ve ro mirmu pravun vi lampu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The fort will tell him what it owes to his face,]{lang=en}
-2 [kotra ve tral kevu ro anvaru ushta, kotra ve ro mirmu pravun vi lampu,]{lang=vedy}
-
-1 [.melka bhe, le pomu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.at the Melka, and pay.]{lang=en}
-2 [.melka bhe, le pomu.]{lang=vedy}
-
-1 [mo ve tral ro anvaru navchendra grun pomu bhe orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [I have paid what I owe through the new moon.]{lang=en}
-2 [mo ve tral ro anvaru navchendra grun pomu bhe orsa.]{lang=vedy}
-
-1 [.mo anvaganstal chendra druk ve tral nortu varsu ro anvaru ushta.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.I owe nothing for the next.]{lang=en}
-2 [.mo anvaganstal chendra druk ve tral nortu varsu ro anvaru ushta.]{lang=vedy}
-
-***
-
-1 [stovira.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The elder.]{lang=en}
-2 [stovira.]{lang=vedy}
-
-***
-
-1 [gorvakodri lampu, sentija senta ro ravha nuvrak,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The manuals deny a Sentija who refuses a host's summons]{lang=en}
-2 [gorvakodri lampu, sentija senta ro ravha nuvrak,]{lang=vedy}
-
-1 [.ve sentija uvas orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.the standing of Sentija.]{lang=en}
-2 [.ve sentija uvas orsa.]{lang=vedy}
-
-1 [nu le mo kotra ro pomon shem sentija ro stanra ushta,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The fort made us Sentija, you and me,]{lang=en}
-2 [nu le mo kotra ro pomon shem sentija ro stanra ushta,]{lang=vedy}
-
-1 [.shirka chinu ro janru ro kema.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.reed cutters' sons.]{lang=en}
-2 [.shirka chinu ro janru ro kema.]{lang=vedy}
-
-1 [senta ravhu bhe orsa, nu margha nitar chambu, le kotra ro dorma shem]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The host is summoned. Leave, and the fort's own law makes you]{lang=en}
-2 [senta ravhu bhe orsa, nu margha nitar chambu, le kotra ro dorma shem]{lang=vedy}
-
-1 [.nu danur shem shirka chinu ro janru orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.a reed cutter with a bow.]{lang=en}
-2 [.nu danur shem shirka chinu ro janru orsa.]{lang=vedy}
-
-***
-
-1 [sharabira.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Sharabira.]{lang=en}
-2 [sharabira.]{lang=vedy}
-
-***
-
-1 [gorvakodri ro senta janpoda ro senta orsa,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The manuals mean the janpoda's host,]{lang=en}
-2 [gorvakodri ro senta janpoda ro senta orsa,]{lang=vedy}
-
-1 [.sabhra vi ravhu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.raised by its assembly.]{lang=en}
-2 [.sabhra vi ravhu.]{lang=vedy}
-
-1 [daun ro rajva ro senta karmuklipu le shimra ro chelkoda orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The valley companies mean a contract and sack of salt.]{lang=en}
-2 [daun ro rajva ro senta karmuklipu le shimra ro chelkoda orsa.]{lang=vedy}
-
-1 [.pomon kotra ro orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.The fort granted our standing.]{lang=en}
-2 [.pomon kotra ro orsa.]{lang=vedy}
-
-1 [kotra ro dorma varsu pomu, kotra ro dorma vi vramul ravhu grenu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Its law can recall what its law gave.]{lang=en}
-2 [kotra ro dorma varsu pomu, kotra ro dorma vi vramul ravhu grenu.]{lang=vedy}
-
-1 [.lipu ehu lampu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.That is the leaf's message.]{lang=en}
-2 [.lipu ehu lampu.]{lang=vedy}
-
-1 [danurkot danurkot ro anshegrohin tral shirka uvas muku.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [A Danurkot never shoots Danurkot's neighbor.]{lang=en}
-2 [danurkot danurkot ro anshegrohin tral shirka uvas muku.]{lang=vedy}
-
-1 [.vi aisul ehu lampu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.It says nothing more.]{lang=en}
-2 [.vi aisul ehu lampu.]{lang=vedy}
-
-***
-
-1 [stovira.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The elder.]{lang=en}
-2 [stovira.]{lang=vedy}
-
-***
-
-1 [mo ro kambra bhe 11 orkhu ro rajta orsa,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Eleven years' silver lies in my blanket.]{lang=en}
-2 [mo ro kambra bhe 11 orkhu ro rajta orsa,]{lang=vedy}
-
-1 [.le khondra ro birsa matva ro orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.Half belongs to her.]{lang=en}
-2 [.le khondra ro birsa matva ro orsa.]{lang=vedy}
-
-1 [jalkshetka bhe grohashirnu karmuklipu ro grohashirnu orsa, mo ro tirma chinu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The marsh roof is a contract roof. Strike my name.]{lang=en}
-2 [jalkshetka bhe grohashirnu karmuklipu ro grohashirnu orsa, mo ro tirma chinu.]{lang=vedy}
-
-1 [.vi matva trum borsha durul ushta.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.It keeps her dry.]{lang=en}
-2 [.vi matva trum borsha durul ushta.]{lang=vedy}
-
-1 [kobala ganstal aisu, nu lampu, nu vramul lampu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [You said: household first. Repeat it.]{lang=en}
-2 [kobala ganstal aisu, nu lampu, nu vramul lampu,]{lang=vedy}
-
-1 [.le jahu vi ghomra pomu lampu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.Then name who feeds it.]{lang=en}
-2 [.le jahu vi ghomra pomu lampu.]{lang=vedy}
-
-***
-
-1 [sharabira.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Sharabira.]{lang=en}
-2 [sharabira.]{lang=vedy}
-
-***
-
-1 [kobala ganstal aisu, ehu mo ro rajta, birsa orkhu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Household first. Here is my silver: two years.]{lang=en}
-2 [kobala ganstal aisu, ehu mo ro rajta, birsa orkhu.]{lang=vedy}
-
-1 [.ehu ghaul grun ve ro shimra nitar misra adnu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.Earned beneath his salt until tonight.]{lang=en}
-2 [.ehu ghaul grun ve ro shimra nitar misra adnu.]{lang=vedy}
-
-1 [nu brel ro shem vi matva tral nitar bhornu, anva kulpa ve tral ghomra pomu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Carry mine with yours to her. The kulpa feeds her afterward.]{lang=en}
-2 [nu brel ro shem vi matva tral nitar bhornu, anva kulpa ve tral ghomra pomu.]{lang=vedy}
-
-1 [.uhu kulpa ro prabru orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.That is a kulpa's purpose.]{lang=en}
-2 [.uhu kulpa ro prabru orsa.]{lang=vedy}
-
-1 [rajta nu shem nyuru orsa, tirma mo shem groha tral chambu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The silver stays with you. The name returns with me.]{lang=en}
-2 [rajta nu shem nyuru orsa, tirma mo shem groha tral chambu.]{lang=vedy}
-
-1 [.sartu birsa matva ro orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.Both belong to her.]{lang=en}
-2 [.sartu birsa matva ro orsa.]{lang=vedy}
-
-***
-
-1 [agmi nitar chambu, nortu janru ferkakhondra vi pa stanru.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The fire sank. Neither added wood.]{lang=en}
-2 [agmi nitar chambu, nortu janru ferkakhondra vi pa stanru.]{lang=vedy}
-
-1 [.margha utrak navu agmi chamru.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.Other fires stirred along the road.]{lang=en}
-2 [.margha utrak navu agmi chamru.]{lang=vedy}
-
-1 [janru kambra turu hauvu, danudarva pomba bhe,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Men emerged from blankets carrying staves,]{lang=en}
-2 [janru kambra turu hauvu, danudarva pomba bhe,]{lang=vedy}
-
-1 [.le rakhapal nitar trum nitar chambu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.going down past sentries,]{lang=en}
-2 [.le rakhapal nitar trum nitar chambu,]{lang=vedy}
-
-1 [rakhapal tral aisu shaltu uvas, le rakhapal vena vrannuk,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [saying nothing. The sentries let them pass:]{lang=en}
-2 [rakhapal tral aisu shaltu uvas, le rakhapal vena vrannuk,]{lang=vedy}
-
-1 [.drunem vena ro danushta levu darsu ushta.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.their own grips bore the mark.]{lang=en}
-2 [.drunem vena ro danushta levu darsu ushta.]{lang=vedy}
-
-1 [stovira vena chambu nyura darka, ve vena uvas ganu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The elder watched. He kept no count.]{lang=en}
-2 [stovira vena chambu nyura darka, ve vena uvas ganu.]{lang=vedy}
-
-1 [.uhu kalda bhe ve tirma lampu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.Then he used the name.]{lang=en}
-2 [.uhu kalda bhe ve tirma lampu.]{lang=vedy}
-
-***
-
-1 [stovira.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The elder.]{lang=en}
-2 [stovira.]{lang=vedy}
-
-***
-
-1 [sharu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Sharu.]{lang=en}
-2 [sharu.]{lang=vedy}
-
-1 [.mo ro leru bhe nyuru orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.Stay on my left.]{lang=en}
-2 [.mo ro leru bhe nyuru orsa.]{lang=vedy}
-
-1 [vena mova birsa lipu trum chinu, aisu stanra bhe birsa tirma,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Let them strike both names from the roll together.]{lang=en}
-2 [vena mova birsa lipu trum chinu, aisu stanra bhe birsa tirma,]{lang=vedy}
-
-1 [.le grohashirnu kartum.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.The roof stays whole.]{lang=en}
-2 [.le grohashirnu kartum.]{lang=vedy}
-
-1 [jalkshetka trum mo uhu tirma uvas lampu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Since the marsh I have never used that name.]{lang=en}
-2 [jalkshetka trum mo uhu tirma uvas lampu.]{lang=vedy}
-
-1 [.mo kenu vi lampu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.I am using it now.]{lang=en}
-2 [.mo kenu vi lampu.]{lang=vedy}
-
-***
-
-1 [sharabira.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Sharabira.]{lang=en}
-2 [sharabira.]{lang=vedy}
-
-***
-
-1 [lipu sharabira sharakirti ro shiraban lampu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The roll names Sharabira Sharakirti of Shiraban.]{lang=en}
-2 [lipu sharabira sharakirti ro shiraban lampu.]{lang=vedy}
-
-1 [.lipu ro shaltu nu lampu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.Use the roll's name.]{lang=en}
-2 [.lipu ro shaltu nu lampu.]{lang=vedy}
-
-***
-
-1 [ve danur danustonu trum adnu, le sultu kandru trum,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [He took his bow from the rack, its string from his neck,]{lang=en}
-2 [ve danur danustonu trum adnu, le sultu kandru trum,]{lang=vedy}
-
-1 [.le shirkakoshta, vi dauru jalpantra ro shirka orsa,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.his quiver of reeds from the dead channel.]{lang=en}
-2 [.le shirkakoshta, vi dauru jalpantra ro shirka orsa,]{lang=vedy}
-
-1 [le ve uhu agmi anshe nortu varsu braku, drunem vi anshe nortu varsu ve ro orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [He broke nothing at that fire. Nothing there belonged to him.]{lang=en}
-2 [le ve uhu agmi anshe nortu varsu braku, drunem vi anshe nortu varsu ve ro orsa.]{lang=vedy}
-
-1 [.kirtu shilpatra pa ruknu utrak hauvu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.Grey light rose upon the shale.]{lang=en}
-2 [.kirtu shilpatra pa ruknu utrak hauvu.]{lang=vedy}
-
-1 [stovira rajta vartuk le brel ro angchel rinru stanru.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The elder turned the silver over and put it beneath his shirt.]{lang=en}
-2 [stovira rajta vartuk le brel ro angchel rinru stanru.]{lang=vedy}
-
-1 [.rajva ro shimra agmi anshe brel ro chelkoda bhe orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.The king's salt stood bagged beside the fire.]{lang=en}
-2 [.rajva ro shimra agmi anshe brel ro chelkoda bhe orsa.]{lang=vedy}
-
-1 [ve vi uhu stalu bhe taryu, ve ro prenu shaltu shem samru.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [As promised, he left it there.]{lang=en}
-2 [ve vi uhu stalu bhe taryu, ve ro prenu shaltu shem samru.]{lang=vedy}
-
-1 [.ve margha nyura darmu druk uvas stambhu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.He never stood to watch the road.]{lang=en}
-2 [.ve margha nyura darmu druk uvas stambhu.]{lang=vedy}
-
-***
-
-1 [uhu nidstalu bhe danushta darsu ushta, vena ro bram barnu]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Most marked grips in that camp]{lang=en}
-2 [uhu nidstalu bhe danushta darsu ushta, vena ro bram barnu]{lang=vedy}
-
-1 [.surta anra margha nitar chambu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.took the road down before sunrise.]{lang=en}
-2 [.surta anra margha nitar chambu.]{lang=vedy}
-
-1 [navu janru agmi anshe nyuru orsa, kotra vena uvas ganu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The remainder stayed beside their fires. The fort gives no count.]{lang=en}
-2 [navu janru agmi anshe nyuru orsa, kotra vena uvas ganu.]{lang=vedy}
-
-1 [.vi navu janru lampu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.It says: the remainder.]{lang=en}
-2 [.vi navu janru lampu.]{lang=vedy}
-
-```
+::: {.verse form=dialogue lang=en work=camp}
+Below the gold road, the valley king's fires/
+.lined the shale./
+His bow companies slept beside their staves./
+.Our mark was cut on their grips./
+Two men of the reed village lay at one fire,/
+.one mother, one kulpa:/
+the elder, eleven years drawing for royal pay,/
+.Sharabira, two.
+
+A runner arrived at the third watch,/
+.no lamp, four seals./
+He had followed the river path from the fort./
+.His feet were cut open./
+He asked for the marked grips,/
+.never asking for the king./
+Bowmen left their blankets for the fire./
+.Standing, he gave the message.
+
+[dhanurpala]{.name data-type="being/npc" lang=vedy} of the High Draw declares it./
+.The three declare it with him./
+The bow was given at the gate, never sold./
+.Its grip bears our mark./
+Danurkot has no quarrel with the gold mountain,/
+.or any neighbor./
+The janpoda calls home what it gave./
+.Every bow held by the valley king:/
+come down to Bharyastan's horse./
+.Stand beside them at the mouth./
+Whoever comes belongs to us. Whoever stays—/
+.the runner paused,/
+knowing the word had an ending./
+.He delivered it: —does not.
+
+He drank and moved to the next fire./
+.At ours nobody spoke./
+The elder added a stick, sat back,/
+.and spoke first.
+
+The elder.
+
+For eleven years I ate the valley king's salt./
+.Salt is no loan./
+It enters the blood. You cannot give it back/
+.at a gate at night to a boy with bleeding feet.
+
+Sharabira.
+
+He guaranteed salt, bread, silver at each new moon./
+.We received them./
+A king is owed his guarantee, nothing beyond it./
+.Gold was no part of his guarantee./
+He promised pay for shooting where he pointed./
+.He never said: at the mountain.
+
+The elder.
+
+He never said it because nobody does./
+.Who writes: except the gold?/
+The contract serves the king's choice. He has chosen./
+.Choose in his place. Who will hire you?/
+Who hires a bow studying its contract at a fire,/
+.gone before daylight?/
+Hire feeds the fort. Hire feeds the reed village./
+.Hire roofs our mother.
+
+Sharabira.
+
+The fort lives because its bow remains its own./
+.That is what people hire./
+Anyone can purchase a bow that follows salt./
+.No king pays for it./
+The valley king hired Danurkot's word through us./
+.That word has traveled up the road.
+
+The elder.
+
+I cut a company oath at the valley gate's stone,/
+.a kortu, witnessed:/
+stand where they stand. Forty men know me./
+.A valley man stands on my left./
+He cannot shoot. I shoot for him. If I leave,/
+.my arrow comes to him./
+Tell me which duty lets that arrow through./
+.Give its place in the order.
+
+Sharabira.
+
+In order: household, kulpa, village and assembly,/
+.temple, king./
+The company takes the king's place, last./
+.His salt governed your oath./
+Your left-hand man has a king. Let his king stand there./
+.He is outside my kulpa.
+
+The elder.
+
+Four old men wrote on a leaf in a fort./
+.No god spoke./
+Mahajaya never brought a lamp up the gold road./
+.A runner came with cut feet./
+Her scale stays in the temple. No thumb touched it tonight./
+.Show me a god in that leaf.
+
+Sharabira.
+
+The four sit together and answer together in war./
+.They are the janpoda's mouth./
+No god spoke when the master put a bow in my hand./
+.The master spoke. He gave it./
+Her scale stands at the mountain. Her gold is weighed upon it,/
+.openly, by weight, every new moon./
+Three equal temples surround it, keeping it from one hand./
+.That is the gold we marched toward./
+Find an arrow for her scale and shoot it./
+.I cannot.
+
+The elder.
+
+The fort ate his salt before we did./
+.Every spring his retainer comes upriver,/
+into the temple chest. The four sit on that chest./
+.They eat his silver and send a boy/
+to tell me to spit his salt into fire./
+.Answer that.
+
+Sharabira.
+
+The retainer purchased officers from the halls./
+.It never purchased the mountain./
+The fort will tell him what it owes to his face,/
+.at the Melka, and pay./
+I have paid what I owe through the new moon./
+.I owe nothing for the next.
+
+The elder.
+
+The manuals deny a Sentija who refuses a host's summons/
+.the standing of Sentija./
+The fort made us Sentija, you and me,/
+.reed cutters' sons./
+The host is summoned. Leave, and the fort's own law makes you/
+.a reed cutter with a bow.
+
+Sharabira.
+
+The manuals mean the janpoda's host,/
+.raised by its assembly./
+The valley companies mean a contract and sack of salt./
+.The fort granted our standing./
+Its law can recall what its law gave./
+.That is the leaf's message./
+A Danurkot never shoots Danurkot's neighbor./
+.It says nothing more.
+
+The elder.
+
+Eleven years' silver lies in my blanket./
+.Half belongs to her./
+The marsh roof is a contract roof. Strike my name./
+.It keeps her dry./
+You said: household first. Repeat it./
+.Then name who feeds it.
+
+Sharabira.
+
+Household first. Here is my silver: two years./
+.Earned beneath his salt until tonight./
+Carry mine with yours to her. The kulpa feeds her afterward./
+.That is a kulpa's purpose./
+The silver stays with you. The name returns with me./
+.Both belong to her.
+
+The fire sank. Neither added wood./
+.Other fires stirred along the road./
+Men emerged from blankets carrying staves,/
+.going down past sentries,/
+saying nothing. The sentries let them pass:/
+.their own grips bore the mark./
+The elder watched. He kept no count./
+.Then he used the name.
+
+The elder.
+
+Sharu./
+.Stay on my left./
+Let them strike both names from the roll together./
+.The roof stays whole./
+Since the marsh I have never used that name./
+.I am using it now.
+
+Sharabira.
+
+The roll names Sharabira Sharakirti of Shiraban./
+.Use the roll's name.
+
+He took his bow from the rack, its string from his neck,/
+.his quiver of reeds from the dead channel./
+He broke nothing at that fire. Nothing there belonged to him./
+.Grey light rose upon the shale./
+The elder turned the silver over and put it beneath his shirt./
+.The king's salt stood bagged beside the fire./
+As promised, he left it there./
+.He never stood to watch the road.
+
+Most marked grips in that camp/
+.took the road down before sunrise./
+The remainder stayed beside their fires. The fort gives no count./
+.It says: the remainder.
+:::
+
+::: {.verse form=dialogue lang=vedy enc=vedyvedyaksharaenc work=camp}
+hirenya ro margha nitar daun ro rajva ro agmi/
+.shilpatra pa avoli bhe stambhu./
+ve ro danur ro senta danudarva anshe nidu,/
+.le danushta pa darsu mova ro orsa./
+birsa shiraban ro janru aisu agmi anshe nidru,/
+.aisu matva, aisu kulpa./
+stovira 11 orkhu rajva ro misra druk danpruku,/
+.le sharabira birsa.
+
+ganstal tre ro ghaulrakha bhe dramoka margha utrak hauvu,/
+.jvelaka uvas, sotra mudva shem./
+ve kotra trum nodra ro pantra anva hauvu,/
+.le ve ro padsa petsa ushta./
+ve rajva uvas jahnuk, ve danushta jahnuk,/
+.vena pa darsu chintuna orsa,/
+le danurin kambra turu agmi tral hauvu,/
+.le ve stambhu shem lampu.
+
+utradanpruk ro dhanurpala ehu lampu,/
+.le tre ve shem lampu./
+dvarna bhe danur pomu bhe orsa, vi orgha pomu bhe uvas orsa./
+.danushta pa darsu mova ro orsa./
+danurkot hirengirka shem preska uvas ushta,/
+.le vrel anshegrohin shem uvas./
+janpoda varsu pomu, janpoda vi groha tral ravhu./
+.daun ro rajva ro pomba bhe sartu danur,/
+nu bharyastan ro oshka tral nitar hauvu,/
+.le vena shem mukhva bhe stambhu./
+hauvu ro janru mova ro orsa, nyuru orsa ro janru,/
+.le dramoka brondu,/
+drunem shaltu kalduna ushta, le ve vi jnenuk,/
+.le ve vi pomu, mova ro uvas orsa.
+
+ve jalnu, le anvaganstal agmi tral chambu./
+.mova ro agmi anshe nortu janru lampu./
+stovira ferkakhondra vi pa stanru le durul sadnu,/
+.le ganstal aisu shaltu lampu.
+
+stovira.
+
+mo daun ro rajva ro shimra 11 orkhu ghuma./
+.shimra olgu uvas orsa./
+vi shoru rinru orsa, nu vi vramul uvas grenu pomu,/
+.dvarna bhe, ghaul bhe, petsa ro padsa ushta ro kema tral.
+
+sharabira.
+
+ve shimra, apra le navchendra bhe rajta ro vreta pomu,/
+.le mova vena adnu./
+rajva ve ro vreta ro varsu ro anvaru ushta, le navu varsu uvas./
+.ve hirenya ro vreta uvas pomu./
+ve ro pomba pantru tral shirka muku druk misra ro vreta pomu./
+.ve girka tral uvas lampu.
+
+stovira.
+
+ve vi uvas lampu, drunem nortu janru vi lampu./
+.jahu hirenya tral uvas lipak./
+karmuklipu rajva ro kertuna druk orsa, le ve kertuk./
+.nu ve druk kertuk, le jahu karmuk./
+jahu danur karmuk, vi agmi ro kirtu bhe karmuklipu gratuk,/
+.le kirtu anra durul chambu./
+kotra karmuna pa ormu, shiraban karmuna pa ormu./
+.mova ro matva ro grohashirnu karmuna orsa.
+
+sharabira.
+
+kotra kotra ro danur pa ormu./
+.uhu varsu karmuna bhe orsa./
+danur shimra anva chambu, vrel janru vi orgha pomu grenu,/
+.le nortu rajva vi druk orgha pomu./
+daun ro rajva mova rinru danurkot ro shaltu karmuk./
+.shaltu margha utrak hauvu.
+
+stovira.
+
+mo senta shem daun ro dvarna bhe shilsa pa kortu chinu,/
+.darshin pravun kortu./
+vena stambhu ro stalu bhe stambhu, 40 janru mo ro mirmu jnenuk./
+.mo ro leru bhe janru daun ro orsa./
+ve shirka muku uvas grenu, mo ve druk muku, vren mo margha nitar chambu,/
+.anven mo ro shirka ve tral hauvu./
+uhu shirka pral chambu vrannuk ro dorma mo tral lampu./
+.vi ro rinda bhe tirma lampu.
+
+sharabira.
+
+rinda bhe kobala, kulpa, grima le vi ro sabhra,/
+.ombhala le rajva./
+nu ro senta rajva ro stanra bhe orsa, vi kaldunganstal orsa./
+.nu ve ro shimra nitar kortu pomu./
+nu ro leru bhe janru rajva ushta, rajva ve ro leru bhe stambhu./
+.mo ve ro kulpa uvas orsa.
+
+stovira.
+
+sotra puratra janru kotra bhe lipu pa lipak./
+.nortu devra lampu./
+mahajaya jvelaka shem hirenya ro margha utrak uvas hauvu,/
+.dramoka hauvu, petsa ro padsa shem./
+ve ro umbra ombhala bhe orsa, ehu ghaul bhe nortu janru vi pa mahva pombasutka stanru./
+.lipu bhe devra mo tral darsin karmak.
+
+sharabira.
+
+sotra aisu kalda bhe sadnu le sentakarmu pa aisu lampur pomu./
+.uhu janpoda ro mukhva orsa./
+gorva mo ro pomba bhe danur stanru, nortu devra lampu,/
+.gorva lampu, le vi pomu bhe orsa./
+le ve ro umbra girka bhe orsa, ve ro hirenya vi pa umbrona bhe orsa,/
+.sartu navchendra bhe, darsin, umbra shem./
+ve ro tre ombhala samru vi mon orsa, drunva aisu pomba vi uvas ushta./
+.uhu hirenya tral mova chambu./
+vren nu vi druk shirka kretu, anven ve ro umbra tral muku./
+.mo uvas grenu.
+
+stovira.
+
+mova ro birsa janru anra kotra ve ro shimra ghuma./
+.sartu antaritu bhe ve ro karmunolgu nodra ro margha utrak hauvu,/
+le ombhala ro danhakoshta rinru chambu, le sotra koshta pa sadnu./
+.vena ve ro rajta ghuma le mo tral kema pomu,/
+ve mo ve ro shimra agmi bhe sipitnu lampu druk./
+.nu vi lampur.
+
+sharabira.
+
+karmunolgu ve druk shalda trum senaneka orgha pomu./
+.vi ve druk girka uvas orgha pomu./
+kotra ve tral kevu ro anvaru ushta, kotra ve ro mirmu pravun vi lampu,/
+.melka bhe, le pomu./
+mo ve tral ro anvaru navchendra grun pomu bhe orsa./
+.mo anvaganstal chendra druk ve tral nortu varsu ro anvaru ushta.
+
+stovira.
+
+gorvakodri lampu, sentija senta ro ravha nuvrak,/
+.ve sentija uvas orsa./
+nu le mo kotra ro pomon shem sentija ro stanra ushta,/
+.shirka chinu ro janru ro kema./
+senta ravhu bhe orsa, nu margha nitar chambu, le kotra ro dorma shem/
+.nu danur shem shirka chinu ro janru orsa.
+
+sharabira.
+
+gorvakodri ro senta janpoda ro senta orsa,/
+.sabhra vi ravhu./
+daun ro rajva ro senta karmuklipu le shimra ro chelkoda orsa./
+.pomon kotra ro orsa./
+kotra ro dorma varsu pomu, kotra ro dorma vi vramul ravhu grenu./
+.lipu ehu lampu./
+danurkot danurkot ro anshegrohin tral shirka uvas muku./
+.vi aisul ehu lampu.
+
+stovira.
+
+mo ro kambra bhe 11 orkhu ro rajta orsa,/
+.le khondra ro birsa matva ro orsa./
+jalkshetka bhe grohashirnu karmuklipu ro grohashirnu orsa, mo ro tirma chinu./
+.vi matva trum borsha durul ushta./
+kobala ganstal aisu, nu lampu, nu vramul lampu,/
+.le jahu vi ghomra pomu lampu.
+
+sharabira.
+
+kobala ganstal aisu, ehu mo ro rajta, birsa orkhu./
+.ehu ghaul grun ve ro shimra nitar misra adnu./
+nu brel ro shem vi matva tral nitar bhornu, anva kulpa ve tral ghomra pomu./
+.uhu kulpa ro prabru orsa./
+rajta nu shem nyuru orsa, tirma mo shem groha tral chambu./
+.sartu birsa matva ro orsa.
+
+agmi nitar chambu, nortu janru ferkakhondra vi pa stanru./
+.margha utrak navu agmi chamru./
+janru kambra turu hauvu, danudarva pomba bhe,/
+.le rakhapal nitar trum nitar chambu,/
+rakhapal tral aisu shaltu uvas, le rakhapal vena vrannuk,/
+.drunem vena ro danushta levu darsu ushta./
+stovira vena chambu nyura darka, ve vena uvas ganu./
+.uhu kalda bhe ve tirma lampu.
+
+stovira.
+
+sharu./
+.mo ro leru bhe nyuru orsa./
+vena mova birsa lipu trum chinu, aisu stanra bhe birsa tirma,/
+.le grohashirnu kartum./
+jalkshetka trum mo uhu tirma uvas lampu./
+.mo kenu vi lampu.
+
+sharabira.
+
+lipu sharabira sharakirti ro shiraban lampu./
+.lipu ro shaltu nu lampu.
+
+ve danur danustonu trum adnu, le sultu kandru trum,/
+.le shirkakoshta, vi dauru jalpantra ro shirka orsa,/
+le ve uhu agmi anshe nortu varsu braku, drunem vi anshe nortu varsu ve ro orsa./
+.kirtu shilpatra pa ruknu utrak hauvu./
+stovira rajta vartuk le brel ro angchel rinru stanru./
+.rajva ro shimra agmi anshe brel ro chelkoda bhe orsa./
+ve vi uhu stalu bhe taryu, ve ro prenu shaltu shem samru./
+.ve margha nyura darmu druk uvas stambhu.
+
+uhu nidstalu bhe danushta darsu ushta, vena ro bram barnu/
+.surta anra margha nitar chambu./
+navu janru agmi anshe nyuru orsa, kotra vena uvas ganu./
+.vi navu janru lampu.
+:::
 
 : The Gorge {#gorge}
 
-```verse {form=dialogue lang=en cols=2 numstep=5}
-1 [sharabira.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Sharabira.]{lang=en}
-2 [sharabira.]{lang=vedy}
-
-***
-
-1 [tre demu nitar, danudarva kirnu pa, agmi uvas,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Three days down, staves on our backs, no fires,]{lang=en}
-2 [tre demu nitar, danudarva kirnu pa, agmi uvas,]{lang=vedy}
-
-1 [.le shirka bherka ushta.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.keeping the reeds dry.]{lang=en}
-2 [.le shirka bherka ushta.]{lang=vedy}
-
-1 [bharyastan bhe oshka angala bhe prenu orsa,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Bharyastan's horse already waited in the yard:]{lang=en}
-2 [bharyastan bhe oshka angala bhe prenu orsa,]{lang=vedy}
-
-1 [.400, sadelkavru, yavu ghuma,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.four hundred, saddled, fed barley.]{lang=en}
-2 [.400, sadelkavru, yavu ghuma,]{lang=vedy}
-
-1 [drunem hirenya puratra samkortu nitar vena ravhu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Gold had summoned them through the old treaty,]{lang=en}
-2 [drunem hirenya puratra samkortu nitar vena ravhu,]{lang=vedy}
-
-1 [.vena ro tobu ro samnu pantra shem.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.as it had summoned their fathers.]{lang=en}
-2 [.vena ro tobu ro samnu pantra shem.]{lang=vedy}
-
-1 [rajva ro kobala ro aisu janru uvas oshka pa chambu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [One of the king's household stayed behind.]{lang=en}
-2 [rajva ro kobala ro aisu janru uvas oshka pa chambu.]{lang=vedy}
-
-1 [.sabhra vi smirtu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.The council remembers.]{lang=en}
-2 [.sabhra vi smirtu.]{lang=vedy}
-
-1 [mova ganstal birsa ghaul ro kalduna bhe mukhva tral hauvu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [We reached the mouth at the second night's end.]{lang=en}
-2 [mova ganstal birsa ghaul ro kalduna bhe mukhva tral hauvu.]{lang=vedy}
-
-1 [.girgharsa birsa shokot mavru orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.The gorge is two carts wide.]{lang=en}
-2 [.girgharsa birsa shokot mavru orsa.]{lang=vedy}
-
-1 [hirenya ro margha domsa trum vi pral nitar hauvu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The gold road descends through it from the hills,]{lang=en}
-2 [hirenya ro margha domsa trum vi pral nitar hauvu,]{lang=vedy}
-
-1 [.le nitar ro shilsa pa muku.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.opening onto stones below.]{lang=en}
-2 [.le nitar ro shilsa pa muku.]{lang=vedy}
-
-1 [oshka mukhva ro leru bhe talka pa durul stambhu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Horse waited on the flat left of the mouth,]{lang=en}
-2 [oshka mukhva ro leru bhe talka pa durul stambhu,]{lang=vedy}
-
-1 [.uhu stalu bhe oshka vartuk grenu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.with room to turn.]{lang=en}
-2 [.uhu stalu bhe oshka vartuk grenu.]{lang=vedy}
-
-1 [mova ghauru bhe birsa girkandru utrak chambu, drau danur]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [In darkness we climbed both jaws, long bows]{lang=en}
-2 [mova ghauru bhe birsa girkandru utrak chambu, drau danur]{lang=vedy}
-
-1 [.margha utrak ro shilstonu tral,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.bound for shelves above the road.]{lang=en}
-2 [.margha utrak ro shilstonu tral,]{lang=vedy}
-
-1 [nirpadiku bram utrak le bram rinu, sartu janru aisu shirka,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The Patient Eye went higher and farther in, one arrow each,]{lang=en}
-2 [nirpadiku bram utrak le bram rinu, sartu janru aisu shirka,]{lang=vedy}
-
-1 [.nyuru nidru.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.lying motionless.]{lang=en}
-2 [.nyuru nidru.]{lang=vedy}
-
-1 [dikbrondsultu kevu stalu tral chambu, nortu janru darka.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Nobody saw [[place-hiddenstring|the Hidden String]]'s route.]{lang=en}
-2 [dikbrondsultu kevu stalu tral chambu, nortu janru darka.]{lang=vedy}
-
-1 [.nortu janru darmu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.Nobody looks.]{lang=en}
-2 [.nortu janru darmu.]{lang=vedy}
-
-1 [uhu ghaul bhe, mova lampu, kotra bhe jvelita nivre orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [We told each other: the fort's priests are awake tonight.]{lang=en}
-2 [uhu ghaul bhe, mova lampu, kotra bhe jvelita nivre orsa.]{lang=vedy}
-
-1 [.umbra pravun jvelaka utrak orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.Lamps stand before the scale.]{lang=en}
-2 [.umbra pravun jvelaka utrak orsa.]{lang=vedy}
-
-1 [mova vi uvas grenu darka, mova vi aisu navu tral lampu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [We could not see. We said it to one another]{lang=en}
-2 [mova vi uvas grenu darka, mova vi aisu navu tral lampu,]{lang=vedy}
-
-1 [.kupra uhu stalu bhe orsa lampu ro pantra shem.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.as you say the well is there.]{lang=en}
-2 [.kupra uhu stalu bhe orsa lampu ro pantra shem.]{lang=vedy}
-
-1 [vena darsu ro sartu danushta druk vi ushta,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [They keep it for every marked grip.]{lang=en}
-2 [vena darsu ro sartu danushta druk vi ushta,]{lang=vedy}
-
-1 [.le uhu ghaul bhe sartu danushta nyuru darsu ushta.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.That night all the grips still had the mark.]{lang=en}
-2 [.le uhu ghaul bhe sartu danushta nyuru darsu ushta.]{lang=vedy}
-
-1 [ganstal aisu ruknu bhe mo kandrupantra pa surtamonda partu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [At first grey I touched the sun disc at my throat,]{lang=en}
-2 [ganstal aisu ruknu bhe mo kandrupantra pa surtamonda partu,]{lang=vedy}
-
-1 [.le sultu danoshru pa stanru.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.fastening the string to its horn.]{lang=en}
-2 [.le sultu danoshru pa stanru.]{lang=vedy}
-
-***
-
-1 [senta margha utrak hauvu, kirtu vena ro kirnu bhe,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The host climbed the road with light behind,]{lang=en}
-2 [senta margha utrak hauvu, kirtu vena ro kirnu bhe,]{lang=vedy}
-
-1 [.potka ganstal aisu, birsa shokot mavru,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.spears first, two carts wide.]{lang=en}
-2 [.potka ganstal aisu, birsa shokot mavru,]{lang=vedy}
-
-1 [le potka ro kirnu bhe danurin senta bhe,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Behind the spears came bow companies,]{lang=en}
-2 [le potka ro kirnu bhe danurin senta bhe,]{lang=vedy}
-
-1 [.le danudarva drautrak orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.tall staves.]{lang=en}
-2 [.le danudarva drautrak orsa.]{lang=vedy}
-
-1 [drau danur bhinra grun pruku, vi dikbrond ro pantra uvas orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [A long bow draws to the ear. You cannot conceal it.]{lang=en}
-2 [drau danur bhinra grun pruku, vi dikbrond ro pantra uvas orsa.]{lang=vedy}
-
-1 [.pardunjortu utrak chambu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.The elbow rises.]{lang=en}
-2 [.pardunjortu utrak chambu.]{lang=vedy}
-
-1 [sartu janru uttarka ludra nitar stalu pa aisu orkhu vi pruku,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Every man with a year's practice beneath the north wall]{lang=en}
-2 [sartu janru uttarka ludra nitar stalu pa aisu orkhu vi pruku,]{lang=vedy}
-
-1 [.ve brel ro pantra bhe bhinra grun hauvu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.reaches the ear his own way.]{lang=en}
-2 [.ve brel ro pantra bhe bhinra grun hauvu,]{lang=vedy}
-
-1 [le nu nu ro bhaul ro pantra ve ro padsun shem samru smirdak,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [You recognize your brother's draw as you recognize his walk]{lang=en}
-2 [le nu nu ro bhaul ro pantra ve ro padsun shem samru smirdak,]{lang=vedy}
-
-1 [.ve jalkshetka trum bandakhondra shem utrak hauvu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.uphill from the marsh with bundles.]{lang=en}
-2 [.ve jalkshetka trum bandakhondra shem utrak hauvu.]{lang=vedy}
-
-1 [mo 11 shirka ushta, ganstal aisu gorva lampu ro stanra tral chambu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [I had eleven arrows. My first went where the master teaches]{lang=en}
-2 [mo 11 shirka ushta, ganstal aisu gorva lampu ro stanra tral chambu,]{lang=vedy}
-
-1 [.ganstal aisu shirka ro stanra,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.a first arrow belongs:]{lang=en}
-2 [.ganstal aisu shirka ro stanra,]{lang=vedy}
-
-1 [potka tral, utrak darmu ro janru tral,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [into the spears, toward the man looking up.]{lang=en}
-2 [potka tral, utrak darmu ro janru tral,]{lang=vedy}
-
-1 [.le ve vramul uvas darmu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.He never looked again.]{lang=en}
-2 [.le ve vramul uvas darmu.]{lang=vedy}
-
-1 [girgharsa navu karmu karmak, vi birsa shokot mavru orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The gorge did the rest: two carts wide.]{lang=en}
-2 [girgharsa navu karmu karmak, vi birsa shokot mavru orsa.]{lang=vedy}
-
-1 [.nortu janru vi bhe vartuk.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.Nobody turns there.]{lang=en}
-2 [.nortu janru vi bhe vartuk.]{lang=vedy}
-
-1 [pravun ro janra vramul uvas grenu chambu, kirnu ro janra nyuru hauvu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The front could not retreat. The rear pressed forward.]{lang=en}
-2 [pravun ro janra vramul uvas grenu chambu, kirnu ro janra nyuru hauvu,]{lang=vedy}
-
-1 [.le shilstonu mova ro orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.We held the shelves.]{lang=en}
-2 [.le shilstonu mova ro orsa.]{lang=vedy}
-
-1 [vi dralet orsa, lipu dralet lampu, le vi samrin orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [It was short. The chronicle calls it short, correctly.]{lang=en}
-2 [vi dralet orsa, lipu dralet lampu, le vi samrin orsa.]{lang=vedy}
-
-1 [.vi 11 shirka ro drau orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.Eleven arrows long.]{lang=en}
-2 [.vi 11 shirka ro drau orsa.]{lang=vedy}
-
-1 [ganstal daum vau jaum bhe mo danpruk darka,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [At the eighth or ninth I saw a draw]{lang=en}
-2 [ganstal daum vau jaum bhe mo danpruk darka,]{lang=vedy}
-
-1 [.vi bhinra tral utrak hauvu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.rise toward an ear,]{lang=en}
-2 [.vi bhinra tral utrak hauvu,]{lang=vedy}
-
-1 [nitar ro margha pa, rajva ro senta bhe,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [on the road below among the royal companies,]{lang=en}
-2 [nitar ro margha pa, rajva ro senta bhe,]{lang=vedy}
-
-1 [.pardunjortu utrak, ve ro samnu pantra.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.elbow high, lifted his way.]{lang=en}
-2 [.pardunjortu utrak, ve ro samnu pantra.]{lang=vedy}
-
-1 [mo vi ve orsa uvas lampu, mo danpruk darka lampu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [I do not call it him. I say I saw that draw.]{lang=en}
-2 [mo vi ve orsa uvas lampu, mo danpruk darka lampu.]{lang=vedy}
-
-1 [.mo ganstal jaum muku.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.I released the ninth.]{lang=en}
-2 [.mo ganstal jaum muku.]{lang=vedy}
-
-1 [mo vi kevu stalu tral chambu uvas jnenuk, margha janru shem purku orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [I cannot say where it went. Men filled the road.]{lang=en}
-2 [mo vi kevu stalu tral chambu uvas jnenuk, margha janru shem purku orsa.]{lang=vedy}
-
-1 [.keru varsu mo ro mirmumardu anshe pral hauvu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.Something passed my cheek,]{lang=en}
-2 [.keru varsu mo ro mirmumardu anshe pral hauvu,]{lang=vedy}
-
-1 [le mo ro kirnu bhe shilsa pa braku, le mo ro padsakirnu anshe patru,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [broke against the rock behind, fell beside my heel:]{lang=en}
-2 [le mo ro kirnu bhe shilsa pa braku, le mo ro padsakirnu anshe patru,]{lang=vedy}
-
-1 [.shirka ro darva, ruknu perka shem,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.a reed shaft with grey feathers.]{lang=en}
-2 [.shirka ro darva, ruknu perka shem,]{lang=vedy}
-
-1 [le golsa jalkshetka bhe shirka chinu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Reeds are cut in a hundred marshes.]{lang=en}
-2 [le golsa jalkshetka bhe shirka chinu,]{lang=vedy}
-
-1 [.le sartu vena bhe jaltubi ruknu orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.Every marsh has grey herons.]{lang=en}
-2 [.le sartu vena bhe jaltubi ruknu orsa.]{lang=vedy}
-
-1 [mo vi uvas adnu, mo ganstal teska muku.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [I left it lying. I released the tenth.]{lang=en}
-2 [mo vi uvas adnu, mo ganstal teska muku.]{lang=vedy}
-
-1 [.mo ganstal 11 ushta.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.I kept the eleventh.]{lang=en}
-2 [.mo ganstal 11 ushta.]{lang=vedy}
-
-1 [oshka talka trum vena ro anshe rinru hauvu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The horse struck their flank from the flat.]{lang=en}
-2 [oshka talka trum vena ro anshe rinru hauvu,]{lang=vedy}
-
-1 [.le margha nitar ro pantra bhe shonya navra,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.The road emptied downhill.]{lang=en}
-2 [.le margha nitar ro pantra bhe shonya navra,]{lang=vedy}
-
-1 [le surta shilsa pa uvas orsa renuk, uhu sentakarmu orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Sun had yet to reach the stones. That was the war.]{lang=en}
-2 [le surta shilsa pa uvas orsa renuk, uhu sentakarmu orsa.]{lang=vedy}
-
-1 [.keru janru margha pa nidru.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.Some lay upon the road.]{lang=en}
-2 [.keru janru margha pa nidru.]{lang=vedy}
-
-1 [letru, lipu letru lampu, le lipu samrin orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Few. The chronicle calls them few, correctly.]{lang=en}
-2 [letru, lipu letru lampu, le lipu samrin orsa.]{lang=vedy}
-
-1 [.mo shilstonu trum darka grenu ro janru ganu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.I counted those visible from my shelf.]{lang=en}
-2 [.mo shilstonu trum darka grenu ro janru ganu.]{lang=vedy}
-
-1 [vena margha nitar danur ro durun pordun durul chambu le stambhu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [They retreated beyond bowshot and stood.]{lang=en}
-2 [vena margha nitar danur ro durun pordun durul chambu le stambhu,]{lang=vedy}
-
-1 [.le nortu janru muku.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.Nobody released an arrow.]{lang=en}
-2 [.le nortu janru muku.]{lang=vedy}
-
-1 [vena brel ro janru druk shokot shem vramu, birsa aisu avoli bhe, margha ro mavru,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [They returned for their people with carts abreast, filling the road.]{lang=en}
-2 [vena brel ro janru druk shokot shem vramu, birsa aisu avoli bhe, margha ro mavru,]{lang=vedy}
-
-1 [.le mova mova ro janru girkandru utrak bhornu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.We carried ours up the slope.]{lang=en}
-2 [.le mova mova ro janru girkandru utrak bhornu.]{lang=vedy}
-
-1 [margha pa le shilstonu pa shonkha bremu karmak,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Conches sounded on road and shelf.]{lang=en}
-2 [margha pa le shilstonu pa shonkha bremu karmak,]{lang=vedy}
-
-1 [.le sartu anshe brel ro janru groha tral dahu druk bhornu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.Each side took its own home for burning.]{lang=en}
-2 [.le sartu anshe brel ro janru groha tral dahu druk bhornu.]{lang=vedy}
-
-1 [mukhva bhe nortu janru taryuna orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Nobody remained at the mouth.]{lang=en}
-2 [mukhva bhe nortu janru taryuna orsa.]{lang=vedy}
-
-1 [.surtaminru grun derka lefru orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.By noon the stream ran clear.]{lang=en}
-2 [.surtaminru grun derka lefru orsa.]{lang=vedy}
-
-1 [vena ro shokot hauvu anra mo margha tral nitar chambu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Before their carts arrived I went down and studied faces.]{lang=en}
-2 [vena ro shokot hauvu anra mo margha tral nitar chambu,]{lang=vedy}
-
-1 [.le mirmu darmu, mo ehu lampu, mo darmu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.I will admit it. I looked.]{lang=en}
-2 [.le mirmu darmu, mo ehu lampu, mo darmu.]{lang=vedy}
-
-1 [ve margha pa vena minra uvas orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [He was absent from the dead on the road.]{lang=en}
-2 [ve margha pa vena minra uvas orsa.]{lang=vedy}
-
-1 [.mo ve drun aisul ehu jnenuk.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.That is all I know.]{lang=en}
-2 [.mo ve drun aisul ehu jnenuk.]{lang=vedy}
-
-1 [aisu janru margha pa uvas orsa, ve mukhva turu vramu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [A man absent from the road retreated from the mouth,]{lang=en}
-2 [aisu janru margha pa uvas orsa, ve mukhva turu vramu,]{lang=vedy}
-
-1 [.vau ve uhu stalu bhe nortu demrak danpruku.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.or never drew there.]{lang=en}
-2 [.vau ve uhu stalu bhe nortu demrak danpruku.]{lang=vedy}
-
-1 [mo danpruk ushta, mo navu varsu uvas ushta.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [I possess the draw. Nothing else.]{lang=en}
-2 [mo danpruk ushta, mo navu varsu uvas ushta.]{lang=vedy}
-
-1 [.mo ganstal 11 ro shirka ushta.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.I possess the eleventh arrow.]{lang=en}
-2 [.mo ganstal 11 ro shirka ushta.]{lang=vedy}
-
-```
+::: {.verse form=dialogue lang=en work=gorge}
+Sharabira.
+
+Three days down, staves on our backs, no fires,/
+.keeping the reeds dry./
+Bharyastan's horse already waited in the yard:/
+.four hundred, saddled, fed barley./
+Gold had summoned them through the old treaty,/
+.as it had summoned their fathers./
+One of the king's household stayed behind./
+.The council remembers./
+We reached the mouth at the second night's end./
+.The gorge is two carts wide./
+The gold road descends through it from the hills,/
+.opening onto stones below./
+Horse waited on the flat left of the mouth,/
+.with room to turn./
+In darkness we climbed both jaws, long bows/
+.bound for shelves above the road./
+The Patient Eye went higher and farther in, one arrow each,/
+.lying motionless./
+Nobody saw [[place-hiddenstring|the Hidden String]]'s route./
+.Nobody looks./
+We told each other: the fort's priests are awake tonight./
+.Lamps stand before the scale./
+We could not see. We said it to one another/
+.as you say the well is there./
+They keep it for every marked grip./
+.That night all the grips still had the mark./
+At first grey I touched the sun disc at my throat,/
+.fastening the string to its horn.
+
+The host climbed the road with light behind,/
+.spears first, two carts wide./
+Behind the spears came bow companies,/
+.tall staves./
+A long bow draws to the ear. You cannot conceal it./
+.The elbow rises./
+Every man with a year's practice beneath the north wall/
+.reaches the ear his own way./
+You recognize your brother's draw as you recognize his walk/
+.uphill from the marsh with bundles./
+I had eleven arrows. My first went where the master teaches/
+.a first arrow belongs:/
+into the spears, toward the man looking up./
+.He never looked again./
+The gorge did the rest: two carts wide./
+.Nobody turns there./
+The front could not retreat. The rear pressed forward./
+.We held the shelves./
+It was short. The chronicle calls it short, correctly./
+.Eleven arrows long./
+At the eighth or ninth I saw a draw/
+.rise toward an ear,/
+on the road below among the royal companies,/
+.elbow high, lifted his way./
+I do not call it him. I say I saw that draw./
+.I released the ninth./
+I cannot say where it went. Men filled the road./
+.Something passed my cheek,/
+broke against the rock behind, fell beside my heel:/
+.a reed shaft with grey feathers./
+Reeds are cut in a hundred marshes./
+.Every marsh has grey herons./
+I left it lying. I released the tenth./
+.I kept the eleventh./
+The horse struck their flank from the flat./
+.The road emptied downhill./
+Sun had yet to reach the stones. That was the war./
+.Some lay upon the road./
+Few. The chronicle calls them few, correctly./
+.I counted those visible from my shelf./
+They retreated beyond bowshot and stood./
+.Nobody released an arrow./
+They returned for their people with carts abreast, filling the road./
+.We carried ours up the slope./
+Conches sounded on road and shelf./
+.Each side took its own home for burning./
+Nobody remained at the mouth./
+.By noon the stream ran clear./
+Before their carts arrived I went down and studied faces./
+.I will admit it. I looked./
+He was absent from the dead on the road./
+.That is all I know./
+A man absent from the road retreated from the mouth,/
+.or never drew there./
+I possess the draw. Nothing else./
+.I possess the eleventh arrow.
+:::
+
+::: {.verse form=dialogue lang=vedy enc=vedyvedyaksharaenc work=gorge}
+sharabira.
+
+tre demu nitar, danudarva kirnu pa, agmi uvas,/
+.le shirka bherka ushta./
+bharyastan bhe oshka angala bhe prenu orsa,/
+.400, sadelkavru, yavu ghuma,/
+drunem hirenya puratra samkortu nitar vena ravhu,/
+.vena ro tobu ro samnu pantra shem./
+rajva ro kobala ro aisu janru uvas oshka pa chambu./
+.sabhra vi smirtu./
+mova ganstal birsa ghaul ro kalduna bhe mukhva tral hauvu./
+.girgharsa birsa shokot mavru orsa./
+hirenya ro margha domsa trum vi pral nitar hauvu,/
+.le nitar ro shilsa pa muku./
+oshka mukhva ro leru bhe talka pa durul stambhu,/
+.uhu stalu bhe oshka vartuk grenu./
+mova ghauru bhe birsa girkandru utrak chambu, drau danur/
+.margha utrak ro shilstonu tral,/
+nirpadiku bram utrak le bram rinu, sartu janru aisu shirka,/
+.nyuru nidru./
+dikbrondsultu kevu stalu tral chambu, nortu janru darka./
+.nortu janru darmu./
+uhu ghaul bhe, mova lampu, kotra bhe jvelita nivre orsa./
+.umbra pravun jvelaka utrak orsa./
+mova vi uvas grenu darka, mova vi aisu navu tral lampu,/
+.kupra uhu stalu bhe orsa lampu ro pantra shem./
+vena darsu ro sartu danushta druk vi ushta,/
+.le uhu ghaul bhe sartu danushta nyuru darsu ushta./
+ganstal aisu ruknu bhe mo kandrupantra pa surtamonda partu,/
+.le sultu danoshru pa stanru.
+
+senta margha utrak hauvu, kirtu vena ro kirnu bhe,/
+.potka ganstal aisu, birsa shokot mavru,/
+le potka ro kirnu bhe danurin senta bhe,/
+.le danudarva drautrak orsa./
+drau danur bhinra grun pruku, vi dikbrond ro pantra uvas orsa./
+.pardunjortu utrak chambu./
+sartu janru uttarka ludra nitar stalu pa aisu orkhu vi pruku,/
+.ve brel ro pantra bhe bhinra grun hauvu,/
+le nu nu ro bhaul ro pantra ve ro padsun shem samru smirdak,/
+.ve jalkshetka trum bandakhondra shem utrak hauvu./
+mo 11 shirka ushta, ganstal aisu gorva lampu ro stanra tral chambu,/
+.ganstal aisu shirka ro stanra,/
+potka tral, utrak darmu ro janru tral,/
+.le ve vramul uvas darmu./
+girgharsa navu karmu karmak, vi birsa shokot mavru orsa./
+.nortu janru vi bhe vartuk./
+pravun ro janra vramul uvas grenu chambu, kirnu ro janra nyuru hauvu,/
+.le shilstonu mova ro orsa./
+vi dralet orsa, lipu dralet lampu, le vi samrin orsa./
+.vi 11 shirka ro drau orsa./
+ganstal daum vau jaum bhe mo danpruk darka,/
+.vi bhinra tral utrak hauvu,/
+nitar ro margha pa, rajva ro senta bhe,/
+.pardunjortu utrak, ve ro samnu pantra./
+mo vi ve orsa uvas lampu, mo danpruk darka lampu./
+.mo ganstal jaum muku./
+mo vi kevu stalu tral chambu uvas jnenuk, margha janru shem purku orsa./
+.keru varsu mo ro mirmumardu anshe pral hauvu,/
+le mo ro kirnu bhe shilsa pa braku, le mo ro padsakirnu anshe patru,/
+.shirka ro darva, ruknu perka shem,/
+le golsa jalkshetka bhe shirka chinu,/
+.le sartu vena bhe jaltubi ruknu orsa./
+mo vi uvas adnu, mo ganstal teska muku./
+.mo ganstal 11 ushta./
+oshka talka trum vena ro anshe rinru hauvu,/
+.le margha nitar ro pantra bhe shonya navra,/
+le surta shilsa pa uvas orsa renuk, uhu sentakarmu orsa./
+.keru janru margha pa nidru./
+letru, lipu letru lampu, le lipu samrin orsa./
+.mo shilstonu trum darka grenu ro janru ganu./
+vena margha nitar danur ro durun pordun durul chambu le stambhu,/
+.le nortu janru muku./
+vena brel ro janru druk shokot shem vramu, birsa aisu avoli bhe, margha ro mavru,/
+.le mova mova ro janru girkandru utrak bhornu./
+margha pa le shilstonu pa shonkha bremu karmak,/
+.le sartu anshe brel ro janru groha tral dahu druk bhornu./
+mukhva bhe nortu janru taryuna orsa./
+.surtaminru grun derka lefru orsa./
+vena ro shokot hauvu anra mo margha tral nitar chambu,/
+.le mirmu darmu, mo ehu lampu, mo darmu./
+ve margha pa vena minra uvas orsa./
+.mo ve drun aisul ehu jnenuk./
+aisu janru margha pa uvas orsa, ve mukhva turu vramu,/
+.vau ve uhu stalu bhe nortu demrak danpruku./
+mo danpruk ushta, mo navu varsu uvas ushta./
+.mo ganstal 11 ro shirka ushta.
+:::
 
 : The Cairn {#cairn}
 
-```verse {form=dialogue lang=en cols=2 numstep=5}
-1 [sartu hiranyaritu bhe danur shauka rajbhumri trum nitar hauvu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Each autumn bows return from six kingdoms,]{lang=en}
-2 [sartu hiranyaritu bhe danur shauka rajbhumri trum nitar hauvu,]{lang=vedy}
+::: {.verse form=dialogue lang=en work=cairn}
+Each autumn bows return from six kingdoms,/
+.along the roads of their service./
+The river-country road bypasses the mouth./
+.Some take a detour there./
+Beside the road where the gorge opens onto stones/
+.stands a heap of broken reeds,/
+waist-high, lowest shafts bearing lichen./
+.Beside it, a niche and ledge./
+The nearest village keeps a lamp on the ledge alight,/
+.whether travelers come or not./
+Nobody lies at the mouth. The lamp is a lamp,/
+.never a watch upon a door./
+A bow stops, draws one arrow from the quiver,/
+.breaks it over a knee,/
+places it on the heap pointing toward the hills,/
+.naming no one./
+The first shaft laid there came from the dead channel,/
+.grey-feathered, carried a year./
+The fort tells it so. Nobody has looked beneath the heap.
 
-1 [.brel ro karmuna ro margha anva.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.along the roads of their service.]{lang=en}
-2 [.brel ro karmuna ro margha anva.]{lang=vedy}
+They climb to this court in the month of Returning,/
+.grips in their left hands,/
+stand before the scale, hear the roll./
+.First, that year's roll./
+The High Draw's master reads from the leaf:/
+.name, clan, village./
+For every returning man the court answers: Home./
+.It reaches Sharabira/
+Sharakirti of Shiraban. Home, answers the court./
+.It reaches a place/
+where a knife has struck a line through a name./
+.The name remains underneath./
+The master pauses for a name's length,/
+.silent, then continues./
+The silence belongs to the roll. It is no omission./
+.The leaf preserves the place./
+While a master reads the leaf, that place is read./
+.Nothing is said there./
+Then the current roll, the gate, bows passing through/
+.one by one, held by the fort.
 
-1 [nodra ro bhumri trum margha mukhva pral uvas chambu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The river-country road bypasses the mouth.]{lang=en}
-2 [nodra ro bhumri trum margha mukhva pral uvas chambu.]{lang=vedy}
+Every later autumn he detoured to the mouth from wherever he served./
+.His service was in river country./
+He broke a reed upon the heap, pointing toward the hills,/
+.naming no one./
+The village lit its lamp./
+.He climbed the slope.
 
-1 [.keru vi mon hauvu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.Some take a detour there.]{lang=en}
-2 [.keru vi mon hauvu.]{lang=vedy}
+Here in the court before the goddess's scale,/
+.the bows have returned.
+:::
 
-1 [margha anshe girgharsa shilsa pa muku,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Beside the road where the gorge opens onto stones]{lang=en}
-2 [margha anshe girgharsa shilsa pa muku,]{lang=vedy}
+::: {.verse form=dialogue lang=vedy enc=vedyvedyaksharaenc work=cairn}
+sartu hiranyaritu bhe danur shauka rajbhumri trum nitar hauvu,/
+.brel ro karmuna ro margha anva./
+nodra ro bhumri trum margha mukhva pral uvas chambu./
+.keru vi mon hauvu./
+margha anshe girgharsa shilsa pa muku,/
+.uhu stalu bhe brakru shirka ro sangra orsa,/
+kertu grun utrak, nitar ro darva pa shiltrina,/
+.le anshe shilkhondra, vi bhe letrak stonu,/
+le stonu pa jvelaka, anshe ro grima vi surkin ushta,/
+.janru hauvu vau uvas hauvu./
+mukhva bhe nortu janru nidru, jvelaka aisu jvelaka orsa,/
+.le dvarna pa rakha uvas orsa./
+aisu danur uhu stalu bhe brondu, shirkakoshta trum aisu shirka adnu,/
+.pertajortu pa vi braku,/
+vi sangra pa stanru, agru domsa tral,/
+.le jahu druk uvas lampu./
+shilsa pa ganstal aisu stanru ro darva dauru jalpantra ro shirka orsa,/
+.ruknu perka shem, aisu orkhu bhornu,/
+kotra ehu lampu, le nortu janru sangra nitar darmu.
 
-1 [.uhu stalu bhe brakru shirka ro sangra orsa,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.stands a heap of broken reeds,]{lang=en}
-2 [.uhu stalu bhe brakru shirka ro sangra orsa,]{lang=vedy}
+uhu kalda bhe vena vramukalda bhe girkandru utrak ehu angala tral hauvu,/
+.danushta leru pomba bhe,/
+le umbra pravun stambhu, le lipu gratona bhe orsa./
+.ganstal aisu bhe uhu orkhu ro lipu./
+utradanpruk ro gorva vi lipu trum gratuk,/
+.tirma le kulpa le grima,/
+le sartu groha tral vramu ro janru druk angala lampur, groha./
+.vi sharabira tral hauvu,/
+sharakirti ro shiraban, le angala lampu, groha./
+.vi aisu stanra tral hauvu,/
+chinrak tirma trel aisu avoli chinu,/
+.le tirma avoli nitar orsa,/
+le gorva tirma ro drau kalda bhe brondu,/
+.le nortu shaltu lampu, le nyuru chambu./
+uhu nimrona lipu bhe orsa, vi lipu bhe minrakhondra uvas orsa./
+.lipu stanra ushta./
+gorva lipu gratuk grun, stanra gratona bhe orsa,/
+.le vi bhe nortu shaltu lampu./
+anva ehu orkhu ro lipu, le dvarna, le danur vi pral rinu chambu,/
+.aisu anva aisu, le kotra vena ushta.
 
-1 [kertu grun utrak, nitar ro darva pa shiltrina,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [waist-high, lowest shafts bearing lichen.]{lang=en}
-2 [kertu grun utrak, nitar ro darva pa shiltrina,]{lang=vedy}
+anva sartu hiranyaritu bhe ve mukhva mon hauvu, vrel karmuna ro stalu trum,/
+.le ve ro karmuna nodra ro bhumri bhe orsa,/
+le sangra pa aisu shirka braku le agru domsa tral stanru,/
+.le jahu druk uvas lampu./
+grima jvelaka jvelak./
+.ve girkandru utrak chambu.
 
-1 [.le anshe shilkhondra, vi bhe letrak stonu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.Beside it, a niche and ledge.]{lang=en}
-2 [.le anshe shilkhondra, vi bhe letrak stonu,]{lang=vedy}
-
-1 [le stonu pa jvelaka, anshe ro grima vi surkin ushta,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The nearest village keeps a lamp on the ledge alight,]{lang=en}
-2 [le stonu pa jvelaka, anshe ro grima vi surkin ushta,]{lang=vedy}
-
-1 [.janru hauvu vau uvas hauvu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.whether travelers come or not.]{lang=en}
-2 [.janru hauvu vau uvas hauvu.]{lang=vedy}
-
-1 [mukhva bhe nortu janru nidru, jvelaka aisu jvelaka orsa,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Nobody lies at the mouth. The lamp is a lamp,]{lang=en}
-2 [mukhva bhe nortu janru nidru, jvelaka aisu jvelaka orsa,]{lang=vedy}
-
-1 [.le dvarna pa rakha uvas orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.never a watch upon a door.]{lang=en}
-2 [.le dvarna pa rakha uvas orsa.]{lang=vedy}
-
-1 [aisu danur uhu stalu bhe brondu, shirkakoshta trum aisu shirka adnu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [A bow stops, draws one arrow from the quiver,]{lang=en}
-2 [aisu danur uhu stalu bhe brondu, shirkakoshta trum aisu shirka adnu,]{lang=vedy}
-
-1 [.pertajortu pa vi braku,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.breaks it over a knee,]{lang=en}
-2 [.pertajortu pa vi braku,]{lang=vedy}
-
-1 [vi sangra pa stanru, agru domsa tral,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [places it on the heap pointing toward the hills,]{lang=en}
-2 [vi sangra pa stanru, agru domsa tral,]{lang=vedy}
-
-1 [.le jahu druk uvas lampu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.naming no one.]{lang=en}
-2 [.le jahu druk uvas lampu.]{lang=vedy}
-
-1 [shilsa pa ganstal aisu stanru ro darva dauru jalpantra ro shirka orsa,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The first shaft laid there came from the dead channel,]{lang=en}
-2 [shilsa pa ganstal aisu stanru ro darva dauru jalpantra ro shirka orsa,]{lang=vedy}
-
-1 [.ruknu perka shem, aisu orkhu bhornu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.grey-feathered, carried a year.]{lang=en}
-2 [.ruknu perka shem, aisu orkhu bhornu,]{lang=vedy}
-
-1 [kotra ehu lampu, le nortu janru sangra nitar darmu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The fort tells it so. Nobody has looked beneath the heap.]{lang=en}
-2 [kotra ehu lampu, le nortu janru sangra nitar darmu.]{lang=vedy}
-
-***
-
-1 [uhu kalda bhe vena vramukalda bhe girkandru utrak ehu angala tral hauvu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [They climb to this court in the month of Returning,]{lang=en}
-2 [uhu kalda bhe vena vramukalda bhe girkandru utrak ehu angala tral hauvu,]{lang=vedy}
-
-1 [.danushta leru pomba bhe,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.grips in their left hands,]{lang=en}
-2 [.danushta leru pomba bhe,]{lang=vedy}
-
-1 [le umbra pravun stambhu, le lipu gratona bhe orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [stand before the scale, hear the roll.]{lang=en}
-2 [le umbra pravun stambhu, le lipu gratona bhe orsa.]{lang=vedy}
-
-1 [.ganstal aisu bhe uhu orkhu ro lipu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.First, that year's roll.]{lang=en}
-2 [.ganstal aisu bhe uhu orkhu ro lipu.]{lang=vedy}
-
-1 [utradanpruk ro gorva vi lipu trum gratuk,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The High Draw's master reads from the leaf:]{lang=en}
-2 [utradanpruk ro gorva vi lipu trum gratuk,]{lang=vedy}
-
-1 [.tirma le kulpa le grima,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.name, clan, village.]{lang=en}
-2 [.tirma le kulpa le grima,]{lang=vedy}
-
-1 [le sartu groha tral vramu ro janru druk angala lampur, groha.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [For every returning man the court answers: Home.]{lang=en}
-2 [le sartu groha tral vramu ro janru druk angala lampur, groha.]{lang=vedy}
-
-1 [.vi sharabira tral hauvu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.It reaches Sharabira]{lang=en}
-2 [.vi sharabira tral hauvu,]{lang=vedy}
-
-1 [sharakirti ro shiraban, le angala lampu, groha.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Sharakirti of Shiraban. Home, answers the court.]{lang=en}
-2 [sharakirti ro shiraban, le angala lampu, groha.]{lang=vedy}
-
-1 [.vi aisu stanra tral hauvu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.It reaches a place]{lang=en}
-2 [.vi aisu stanra tral hauvu,]{lang=vedy}
-
-1 [chinrak tirma trel aisu avoli chinu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [where a knife has struck a line through a name.]{lang=en}
-2 [chinrak tirma trel aisu avoli chinu,]{lang=vedy}
-
-1 [.le tirma avoli nitar orsa,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.The name remains underneath.]{lang=en}
-2 [.le tirma avoli nitar orsa,]{lang=vedy}
-
-1 [le gorva tirma ro drau kalda bhe brondu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The master pauses for a name's length,]{lang=en}
-2 [le gorva tirma ro drau kalda bhe brondu,]{lang=vedy}
-
-1 [.le nortu shaltu lampu, le nyuru chambu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.silent, then continues.]{lang=en}
-2 [.le nortu shaltu lampu, le nyuru chambu.]{lang=vedy}
-
-1 [uhu nimrona lipu bhe orsa, vi lipu bhe minrakhondra uvas orsa.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The silence belongs to the roll. It is no omission.]{lang=en}
-2 [uhu nimrona lipu bhe orsa, vi lipu bhe minrakhondra uvas orsa.]{lang=vedy}
-
-1 [.lipu stanra ushta.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.The leaf preserves the place.]{lang=en}
-2 [.lipu stanra ushta.]{lang=vedy}
-
-1 [gorva lipu gratuk grun, stanra gratona bhe orsa,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [While a master reads the leaf, that place is read.]{lang=en}
-2 [gorva lipu gratuk grun, stanra gratona bhe orsa,]{lang=vedy}
-
-1 [.le vi bhe nortu shaltu lampu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.Nothing is said there.]{lang=en}
-2 [.le vi bhe nortu shaltu lampu.]{lang=vedy}
-
-1 [anva ehu orkhu ro lipu, le dvarna, le danur vi pral rinu chambu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Then the current roll, the gate, bows passing through]{lang=en}
-2 [anva ehu orkhu ro lipu, le dvarna, le danur vi pral rinu chambu,]{lang=vedy}
-
-1 [.aisu anva aisu, le kotra vena ushta.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.one by one, held by the fort.]{lang=en}
-2 [.aisu anva aisu, le kotra vena ushta.]{lang=vedy}
-
-***
-
-1 [anva sartu hiranyaritu bhe ve mukhva mon hauvu, vrel karmuna ro stalu trum,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Every later autumn he detoured to the mouth from wherever he served.]{lang=en}
-2 [anva sartu hiranyaritu bhe ve mukhva mon hauvu, vrel karmuna ro stalu trum,]{lang=vedy}
-
-1 [.le ve ro karmuna nodra ro bhumri bhe orsa,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.His service was in river country.]{lang=en}
-2 [.le ve ro karmuna nodra ro bhumri bhe orsa,]{lang=vedy}
-
-1 [le sangra pa aisu shirka braku le agru domsa tral stanru,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [He broke a reed upon the heap, pointing toward the hills,]{lang=en}
-2 [le sangra pa aisu shirka braku le agru domsa tral stanru,]{lang=vedy}
-
-1 [.le jahu druk uvas lampu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.naming no one.]{lang=en}
-2 [.le jahu druk uvas lampu.]{lang=vedy}
-
-1 [grima jvelaka jvelak.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The village lit its lamp.]{lang=en}
-2 [grima jvelaka jvelak.]{lang=vedy}
-
-1 [.ve girkandru utrak chambu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.He climbed the slope.]{lang=en}
-2 [.ve girkandru utrak chambu.]{lang=vedy}
-
-***
-
-1 [ehu angala bhe, devri ro umbra pravun,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Here in the court before the goddess's scale,]{lang=en}
-2 [ehu angala bhe, devri ro umbra pravun,]{lang=vedy}
-
-1 [.danur groha tral vramu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.the bows have returned.]{lang=en}
-2 [.danur groha tral vramu.]{lang=vedy}
-
-```
+ehu angala bhe, devri ro umbra pravun,/
+.danur groha tral vramu.
+:::
 
 ## See Also
 

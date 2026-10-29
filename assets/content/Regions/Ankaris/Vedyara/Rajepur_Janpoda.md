@@ -99,19 +99,21 @@ The classical chronicles put this in the first year of [[lore-agecopyists|the Ag
 
 : They Asked for No King {#forty-days-excerpt}
 
-```verse {form=recitation lang=en cols=2 numstep=5}
-1 [vena rajva uvas jahnuk.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [They asked for no king.]{lang=en}
-2 [vena rajva uvas jahnuk.]{lang=vedy}
+::: {.verse form=recitation lang=en work=forty-days-excerpt}
+They asked for no king.
+:::
 
-```
+::: {.verse form=recitation lang=vedy enc=vedyvedyaksharaenc work=forty-days-excerpt}
+vena rajva uvas jahnuk.
+:::
 
-```verse {form=prose lang=en cols=2 numstep=5}
-1 [shaltun. kaldunganstal sotra shaltu sartu karmu ro shaltun orsa. lipu ro kartu vena vinsa uvas shem lipak.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [Gloss. Those final four words contain the entire matter. The chronicler entered them without comment.]{lang=en}
-2 [shaltun. kaldunganstal sotra shaltu sartu karmu ro shaltun orsa. lipu ro kartu vena vinsa uvas shem lipak.]{lang=vedy}
+::: {.verse form=prose lang=en work=rajepur-janpoda-2}
+Gloss. Those final four words contain the entire matter. The chronicler entered them without comment.
+:::
 
-```
+::: {.verse form=prose lang=vedy enc=vedyvedyaksharaenc work=rajepur-janpoda-2}
+shaltun. kaldunganstal sotra shaltu sartu karmu ro shaltun orsa. lipu ro kartu vena vinsa uvas shem lipak.
+:::
 
 ## The Memory-Keeper
 
@@ -126,24 +128,19 @@ Each session's [[lore-rcitkngsmhnd|Recitation of the Kings of Mahanodi]] closes 
 
 : The Acknowledgment {#recitation-excerpt}
 
-```verse {form=recitation lang=en cols=2 numstep=5}
-1 [mahanodi rajbhumri uvas,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The Mahanodi kingdom is gone.]{lang=en}
-2 [mahanodi rajbhumri uvas,]{lang=vedy}
+::: {.verse form=recitation lang=en work=recitation-excerpt}
+The Mahanodi kingdom is gone./
+.It ended with its due./
+The janpoda governs in its place,/
+.with your permission.
+:::
 
-1 [.anvaru shem kaldun.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.It ended with its due.]{lang=en}
-2 [.anvaru shem kaldun.]{lang=vedy}
-
-1 [janpoda vi navul rajva ro karmu karmak,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The janpoda governs in its place,]{lang=en}
-2 [janpoda vi navul rajva ro karmu karmak,]{lang=vedy}
-
-1 [.nu ro vranu shem vi.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.with your permission.]{lang=en}
-2 [.nu ro vranu shem vi.]{lang=vedy}
-
-```
+::: {.verse form=recitation lang=vedy enc=vedyvedyaksharaenc work=recitation-excerpt}
+mahanodi rajbhumri uvas,/
+.anvaru shem kaldun./
+janpoda vi navul rajva ro karmu karmak,/
+.nu ro vranu shem vi.
+:::
 
 The Memory-Keepers are one of the most respected scholarly families in the inland part of the [[place-vedyarargn|Vedyara Region]]. Historians from across the region consult their library, their authority on Vedyari political history has no rival, and their ceremonial role in the sabhra is taken with great seriousness. The present Memory-Keeper, [Ramavahan Smiritibhara]{.name data-type="being/npc"}, is a quiet scholar in his late fifties and the author of the most respected modern commentary on the dissolution.
 

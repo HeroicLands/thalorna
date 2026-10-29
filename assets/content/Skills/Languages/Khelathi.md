@@ -1045,6 +1045,7 @@ data:
       gloss: butcher, divider of what is taken
       native: [{text: 𞯰, enc: khelzethuenc}]
     - {form: lagathar, class: n, field: Occupations, built: [lagath], gloss: "keeper, warden"}
+    - {form: shelunar, class: n, field: Occupations, built: [shelun], gloss: "singer, performer"}
     - form: mazelar
       class: n
       field: Occupations

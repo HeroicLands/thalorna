@@ -31,455 +31,259 @@ The poem is in common metre, rhymed ABCB.
 
 : The Ballad {#ballad}
 
-```verse {form=ballad numstep=5 cols=2}
-1 [Young Edwald was a droveres lad.]{enc=aelwsemaronenc lang=aelw}
-2 [Young Edwald was a drover's lad,]{lang=en}
-2 [Young Edwald was a droveres lad.]{lang=aelw}
-
-1 [His masteres kine he drove]{enc=aelwsemaronenc lang=aelw}
-2 [He drove his master's cattle]{lang=en}
-2 [His masteres kine he drove]{lang=aelw}
-
-1 [From the high grass to the lowland fair]{enc=aelwsemaronenc lang=aelw}
-2 [From the high grass to the lowland fair]{lang=en}
-2 [From the high grass to the lowland fair]{lang=aelw}
-
-1 [By moss and moor and grove.]{enc=aelwsemaronenc lang=aelw}
-2 [By moss and moor and grove.]{lang=en}
-2 [By moss and moor and grove.]{lang=aelw}
-
-***
-
-1 [The fog kame up out of the low ground.]{enc=aelwsemaronenc lang=aelw}
-2 [The fog came up out of the low ground,]{lang=en}
-2 [The fog kame up out of the low ground.]{lang=aelw}
-
-1 [As ever from the west.]{enc=aelwsemaronenc lang=aelw}
-2 [As always from the west;]{lang=en}
-2 [As ever from the west.]{lang=aelw}
-
-1 [He kould not see the foremost beast.]{enc=aelwsemaronenc lang=aelw}
-2 [He could not see the foremost beast,]{lang=en}
-2 [He kould not see the foremost beast.]{lang=aelw}
-
-1 [Nor his hand upon his breast.]{enc=aelwsemaronenc lang=aelw}
-2 [Or his hand against his chest.]{lang=en}
-2 [Nor his hand upon his breast.]{lang=aelw}
-
-***
-
-1 [And then his foot was on a stone.]{enc=aelwsemaronenc lang=aelw}
-2 [And then his foot was on a stone,]{lang=en}
-2 [And then his foot was on a stone.]{lang=aelw}
-
-1 [And on a stone again.]{enc=aelwsemaronenc lang=aelw}
-2 [And on a stone again,]{lang=en}
-2 [And on a stone again.]{lang=aelw}
-
-1 [Fitted so klose a knifees thin blade]{enc=aelwsemaronenc lang=aelw}
-2 [Fitted so closely that a knife's thin blade]{lang=en}
-2 [Fitted so klose a knifees thin blade]{lang=aelw}
-
-1 [Would seek a gap in vain.]{enc=aelwsemaronenc lang=aelw}
-2 [Would seek a gap in vain.]{lang=en}
-2 [Would seek a gap in vain.]{lang=aelw}
-
-***
-
-1 [It was the old road. the krown road.]{enc=aelwsemaronenc lang=aelw}
-2 [It was the old road, the crown road,]{lang=en}
-2 [It was the old road. the krown road.]{lang=aelw}
-
-1 [That runneth where none should.]{enc=aelwsemaronenc lang=aelw}
-2 [That runs where no road should,]{lang=en}
-2 [That runneth where none should.]{lang=aelw}
-
-1 [And on each hand an oak tree stood.]{enc=aelwsemaronenc lang=aelw}
-2 [And an oak-tree stood on each side,]{lang=en}
-2 [And on each hand an oak tree stood.]{lang=aelw}
-
-1 [And oak. and oak. and wood.]{enc=aelwsemaronenc lang=aelw}
-2 [And oak, and oak, and wood.]{lang=en}
-2 [And oak. and oak. and wood.]{lang=aelw}
-
-***
-
-1 [His grandsire told the little lad.]{enc=aelwsemaronenc lang=aelw}
-2 [When he was little, his grandfather told him,]{lang=en}
-2 [His grandsire told the little lad.]{lang=aelw}
-
-1 [Take not the krown road south.]{enc=aelwsemaronenc lang=aelw}
-2 [Do not take the crown road south,]{lang=en}
-2 [Take not the krown road south.]{lang=aelw}
-
-1 [For where it goeth none kan say.]{enc=aelwsemaronenc lang=aelw}
-2 [For no one can say where it goes,]{lang=en}
-2 [For where it goeth none kan say.]{lang=aelw}
-
-1 [And it hath a stopped mouth.]{enc=aelwsemaronenc lang=aelw}
-2 [And its mouth is blocked.]{lang=en}
-2 [And it hath a stopped mouth.]{lang=aelw}
-
-***
-
-1 [But the fog was thikke. and the stone was sure.]{enc=aelwsemaronenc lang=aelw}
-2 [But the fog was thick, and the stone underfoot was firm,]{lang=en}
-2 [But the fog was thikke. and the stone was sure.]{lang=aelw}
-
-1 [And the kine went quiet and slow.]{enc=aelwsemaronenc lang=aelw}
-2 [And the cattle moved quietly and slowly,]{lang=en}
-2 [And the kine went quiet and slow.]{lang=aelw}
-
-1 [As quiet as kine at milking]{enc=aelwsemaronenc lang=aelw}
-2 [As quiet as cattle being milked]{lang=en}
-2 [As quiet as kine at milking]{lang=aelw}
-
-1 [When eveninges shade is low.]{enc=aelwsemaronenc lang=aelw}
-2 [When the evening shadows lie low.]{lang=en}
-2 [When eveninges shade is low.]{lang=aelw}
-
-***
-
-1 [He drove them all the long day on.]{enc=aelwsemaronenc lang=aelw}
-2 [He drove them on through the whole long day,]{lang=en}
-2 [He drove them all the long day on.]{lang=aelw}
-
-1 [The oaks on either hand.]{enc=aelwsemaronenc lang=aelw}
-2 [With oaks on both sides,]{lang=en}
-2 [The oaks on either hand.]{lang=aelw}
-
-1 [And every one was older than]{enc=aelwsemaronenc lang=aelw}
-2 [And every one was older than]{lang=en}
-2 [And every one was older than]{lang=aelw}
-
-1 [The oldest in the land.]{enc=aelwsemaronenc lang=aelw}
-2 [The oldest in the land.]{lang=en}
-2 [The oldest in the land.]{lang=aelw}
-
-***
-
-1 [And when the fog began to lift]{enc=aelwsemaronenc lang=aelw}
-2 [And when the fog began to lift]{lang=en}
-2 [And when the fog began to lift]{lang=aelw}
-
-1 [The light was going grey.]{enc=aelwsemaronenc lang=aelw}
-2 [The light was going grey,]{lang=en}
-2 [The light was going grey.]{lang=aelw}
-
-1 [And there before him was a bank]{enc=aelwsemaronenc lang=aelw}
-2 [And there before him was a bank]{lang=en}
-2 [And there before him was a bank]{lang=aelw}
-
-1 [Of oaks akross the way.]{enc=aelwsemaronenc lang=aelw}
-2 [Of oaks across the way.]{lang=en}
-2 [Of oaks akross the way.]{lang=aelw}
-
-***
-
-1 [There was no gate. there was no stile.]{enc=aelwsemaronenc lang=aelw}
-2 [There was no gate, there was no stile,]{lang=en}
-2 [There was no gate. there was no stile.]{lang=aelw}
-
-1 [There was no stone set by.]{enc=aelwsemaronenc lang=aelw}
-2 [There was no stone set beside it;]{lang=en}
-2 [There was no stone set by.]{lang=aelw}
-
-1 [The road ran up unto the oaks]{enc=aelwsemaronenc lang=aelw}
-2 [The road ran up to the oaks]{lang=en}
-2 [The road ran up unto the oaks]{lang=aelw}
-
-1 [And stopped. as a man might die.]{enc=aelwsemaronenc lang=aelw}
-2 [And stopped, as a man might die.]{lang=en}
-2 [And stopped. as a man might die.]{lang=aelw}
-
-***
-
-1 [And in among the oak trees stood]{enc=aelwsemaronenc lang=aelw}
-2 [And in among the oak-trees stood]{lang=en}
-2 [And in among the oak trees stood]{lang=aelw}
-
-1 [A tall one. still and grey.]{enc=aelwsemaronenc lang=aelw}
-2 [A tall one, still and grey;]{lang=en}
-2 [A tall one. still and grey.]{lang=aelw}
-
-1 [He looked on Edwald and his kine.]{enc=aelwsemaronenc lang=aelw}
-2 [He looked at Edwald and his cattle,]{lang=en}
-2 [He looked on Edwald and his kine.]{lang=aelw}
-
-1 [And naught would he then say.]{enc=aelwsemaronenc lang=aelw}
-2 [And he would say nothing.]{lang=en}
-2 [And naught would he then say.]{lang=aelw}
-
-***
-
-1 [Then Edwald took his kap in hand.]{enc=aelwsemaronenc lang=aelw}
-2 [Then Edwald took his cap in hand,]{lang=en}
-2 [Then Edwald took his kap in hand.]{lang=aelw}
-
-1 [For he was taught it so.]{enc=aelwsemaronenc lang=aelw}
-2 [Because that was what he had been taught:]{lang=en}
-2 [For he was taught it so.]{lang=aelw}
-
-1 [Good even. sir. who laid this road.]{enc=aelwsemaronenc lang=aelw}
-2 [Good evening, sir, who laid this road?]{lang=en}
-2 [Good even. sir. who laid this road.]{lang=aelw}
-
-1 [For I would gladly know.]{enc=aelwsemaronenc lang=aelw}
-2 [I would be glad to know.]{lang=en}
-2 [For I would gladly know.]{lang=aelw}
-
-***
-
-1 [The tall one looked upon the road.]{enc=aelwsemaronenc lang=aelw}
-2 [The tall one looked upon the road,]{lang=en}
-2 [The tall one looked upon the road.]{lang=aelw}
-
-1 [And looked upon the kine.]{enc=aelwsemaronenc lang=aelw}
-2 [And looked upon the cattle,]{lang=en}
-2 [And looked upon the kine.]{lang=aelw}
-
-1 [And answered not a word to him.]{enc=aelwsemaronenc lang=aelw}
-2 [And said nothing in reply,]{lang=en}
-2 [And answered not a word to him.]{lang=aelw}
-
-1 [Nor gave him any sign.]{enc=aelwsemaronenc lang=aelw}
-2 [And gave him no sign.]{lang=en}
-2 [Nor gave him any sign.]{lang=aelw}
-
-***
-
-1 [Then Edwald said. Good sir. good sir.]{enc=aelwsemaronenc lang=aelw}
-2 [Then Edwald said, Good sir, good sir,]{lang=en}
-2 [Then Edwald said. Good sir. good sir.]{lang=aelw}
-
-1 [I ask of thee no more]{enc=aelwsemaronenc lang=aelw}
-2 [I ask only this:]{lang=en}
-2 [I ask of thee no more]{lang=aelw}
-
-1 [But whither goeth this old road.]{enc=aelwsemaronenc lang=aelw}
-2 [Where does this old road go,]{lang=en}
-2 [But whither goeth this old road.]{lang=aelw}
-
-1 [That stoppeth at thy door.]{enc=aelwsemaronenc lang=aelw}
-2 [The one that stops at your door?]{lang=en}
-2 [That stoppeth at thy door.]{lang=aelw}
-
-***
-
-1 [The tall one looked bak up the road.]{enc=aelwsemaronenc lang=aelw}
-2 [The tall one looked back up the road,]{lang=en}
-2 [The tall one looked bak up the road.]{lang=aelw}
-
-1 [Bak to the north and west.]{enc=aelwsemaronenc lang=aelw}
-2 [Back to the north and west,]{lang=en}
-2 [Bak to the north and west.]{lang=aelw}
-
-1 [Where three hills standen in the grass.]{enc=aelwsemaronenc lang=aelw}
-2 [Where three hills stand in the grass,]{lang=en}
-2 [Where three hills standen in the grass.]{lang=aelw}
-
-1 [And the sun goeth down to rest.]{enc=aelwsemaronenc lang=aelw}
-2 [And the sun goes down to rest.]{lang=en}
-2 [And the sun goeth down to rest.]{lang=aelw}
-
-***
-
-1 [Then Edwald was a bolder lad]{enc=aelwsemaronenc lang=aelw}
-2 [Then Edwald was a bolder lad]{lang=en}
-2 [Then Edwald was a bolder lad]{lang=aelw}
-
-1 [Than wise men haven been.]{enc=aelwsemaronenc lang=aelw}
-2 [Than wise men have been:]{lang=en}
-2 [Than wise men haven been.]{lang=aelw}
-
-1 [Then tell me why the road is stopped.]{enc=aelwsemaronenc lang=aelw}
-2 [Then tell me why the road is blocked,]{lang=en}
-2 [Then tell me why the road is stopped.]{lang=aelw}
-
-1 [And what the oaks may mean.]{enc=aelwsemaronenc lang=aelw}
-2 [And what the oaks may mean.]{lang=en}
-2 [And what the oaks may mean.]{lang=aelw}
-
-***
-
-1 [And at the word the oaks were shut]{enc=aelwsemaronenc lang=aelw}
-2 [And at that word the oaks closed]{lang=en}
-2 [And at the word the oaks were shut]{lang=aelw}
-
-1 [As a door is shut at night.]{enc=aelwsemaronenc lang=aelw}
-2 [As a door is shut at night,]{lang=en}
-2 [As a door is shut at night.]{lang=aelw}
-
-1 [And the fog kame down upon the road.]{enc=aelwsemaronenc lang=aelw}
-2 [And the fog came down upon the road,]{lang=en}
-2 [And the fog kame down upon the road.]{lang=aelw}
-
-1 [And Edwald lost his sight.]{enc=aelwsemaronenc lang=aelw}
-2 [And Edwald lost his sight.]{lang=en}
-2 [And Edwald lost his sight.]{lang=aelw}
-
-***
-
-1 [He woke upon the highland grass]{enc=aelwsemaronenc lang=aelw}
-2 [He woke upon the highland grass]{lang=en}
-2 [He woke upon the highland grass]{lang=aelw}
-
-1 [Beneath three hills of stone.]{enc=aelwsemaronenc lang=aelw}
-2 [Beneath three hills of stone,]{lang=en}
-2 [Beneath three hills of stone.]{lang=aelw}
-
-1 [And all his masteres kine were there.]{enc=aelwsemaronenc lang=aelw}
-2 [And all his master's cattle were there,]{lang=en}
-2 [And all his masteres kine were there.]{lang=aelw}
-
-1 [And grazing every one.]{enc=aelwsemaronenc lang=aelw}
-2 [And every one of them was grazing.]{lang=en}
-2 [And grazing every one.]{lang=aelw}
-
-***
-
-1 [There was no oak. there was no road.]{enc=aelwsemaronenc lang=aelw}
-2 [There was no oak, there was no road,]{lang=en}
-2 [There was no oak. there was no road.]{lang=aelw}
-
-1 [There was no bank of trees.]{enc=aelwsemaronenc lang=aelw}
-2 [There was no bank of trees,]{lang=en}
-2 [There was no bank of trees.]{lang=aelw}
-
-1 [But a ring of grass more green than grass.]{enc=aelwsemaronenc lang=aelw}
-2 [But a ring of grass more green than grass,]{lang=en}
-2 [But a ring of grass more green than grass.]{lang=aelw}
-
-1 [That kame up to his knees.]{enc=aelwsemaronenc lang=aelw}
-2 [That came up to his knees.]{lang=en}
-2 [That kame up to his knees.]{lang=aelw}
-
-***
-
-1 [And not a beast of all his kine]{enc=aelwsemaronenc lang=aelw}
-2 [And not a beast of all his cattle]{lang=en}
-2 [And not a beast of all his kine]{lang=aelw}
-
-1 [Would set her foot thereon.]{enc=aelwsemaronenc lang=aelw}
-2 [Would set her foot on it;]{lang=en}
-2 [Would set her foot thereon.]{lang=aelw}
-
-1 [They grazed around it as they went.]{enc=aelwsemaronenc lang=aelw}
-2 [They grazed around it as they went,]{lang=en}
-2 [They grazed around it as they went.]{lang=aelw}
-
-1 [And left it. and were gone.]{enc=aelwsemaronenc lang=aelw}
-2 [And left it, and were gone.]{lang=en}
-2 [And left it. and were gone.]{lang=aelw}
-
-***
-
-1 [He kame home by the kommon road]{enc=aelwsemaronenc lang=aelw}
-2 [He came home by the common road]{lang=en}
-2 [He kame home by the kommon road]{lang=aelw}
-
-1 [A sennight past his day.]{enc=aelwsemaronenc lang=aelw}
-2 [A week after he was due;]{lang=en}
-2 [A sennight past his day.]{lang=aelw}
-
-1 [His grandsire met him at the gate.]{enc=aelwsemaronenc lang=aelw}
-2 [His grandfather met him at the gate:]{lang=en}
-2 [His grandsire met him at the gate.]{lang=aelw}
-
-1 [Where hast thou been. Now say.]{enc=aelwsemaronenc lang=aelw}
-2 [Where have you been? Tell me now.]{lang=en}
-2 [Where hast thou been. Now say.]{lang=aelw}
-
-***
-
-1 [I took the krown road south. grandsire.]{enc=aelwsemaronenc lang=aelw}
-2 [I took the crown road south, grandfather,]{lang=en}
-2 [I took the krown road south. grandsire.]{lang=aelw}
-
-1 [The road that hath the oaks.]{enc=aelwsemaronenc lang=aelw}
-2 [The road that has the oaks,]{lang=en}
-2 [The road that hath the oaks.]{lang=aelw}
-
-1 [And I have seen who keepeth it.]{enc=aelwsemaronenc lang=aelw}
-2 [And I have seen who keeps it,]{lang=en}
-2 [And I have seen who keepeth it.]{lang=aelw}
-
-1 [And never a word he spoke.]{enc=aelwsemaronenc lang=aelw}
-2 [And he did not say a word.]{lang=en}
-2 [And never a word he spoke.]{lang=aelw}
-
-***
-
-1 [And who laid all the old road. lad.]{enc=aelwsemaronenc lang=aelw}
-2 [And who laid all the old road, lad,]{lang=en}
-2 [And who laid all the old road. lad.]{lang=aelw}
-
-1 [And why is it stopped. said he.]{enc=aelwsemaronenc lang=aelw}
-2 [And why is it blocked? he said.]{lang=en}
-2 [And why is it stopped. said he.]{lang=aelw}
-
-1 [They laid it. grandsire. and they stopped.]{enc=aelwsemaronenc lang=aelw}
-2 [They laid it, grandfather, and they stopped:]{lang=en}
-2 [They laid it. grandsire. and they stopped.]{lang=aelw}
-
-1 [No more was told to me.]{enc=aelwsemaronenc lang=aelw}
-2 [I was told nothing more.]{lang=en}
-2 [No more was told to me.]{lang=aelw}
-
-***
-
-1 [And when the great snow kame that year.]{enc=aelwsemaronenc lang=aelw}
-2 [And when the great snow came that year,]{lang=en}
-2 [And when the great snow kame that year.]{lang=aelw}
-
-1 [And the drove roads all were lost.]{enc=aelwsemaronenc lang=aelw}
-2 [And all the drove-roads were lost,]{lang=en}
-2 [And the drove roads all were lost.]{lang=aelw}
-
-1 [And the beasts must kome from the high grass down]{enc=aelwsemaronenc lang=aelw}
-2 [And the beasts had to come down from the high grass]{lang=en}
-2 [And the beasts must kome from the high grass down]{lang=aelw}
-
-1 [Or die there in the frost.]{enc=aelwsemaronenc lang=aelw}
-2 [Or die there in the frost,]{lang=en}
-2 [Or die there in the frost.]{lang=aelw}
-
-***
-
-1 [Then Edwald drove them by the stone.]{enc=aelwsemaronenc lang=aelw}
-2 [Then Edwald drove them by the stone,]{lang=en}
-2 [Then Edwald drove them by the stone.]{lang=aelw}
-
-1 [Where none would go but he.]{enc=aelwsemaronenc lang=aelw}
-2 [Where no one but him would go,]{lang=en}
-2 [Where none would go but he.]{lang=aelw}
-
-1 [And the oaks along it showed the way]{enc=aelwsemaronenc lang=aelw}
-2 [And the oaks along it showed the way]{lang=en}
-2 [And the oaks along it showed the way]{lang=aelw}
-
-1 [When there was naught to see.]{enc=aelwsemaronenc lang=aelw}
-2 [When there was nothing to see.]{lang=en}
-2 [When there was naught to see.]{lang=aelw}
-
-***
-
-1 [He brought them down. both kow and kalf.]{enc=aelwsemaronenc lang=aelw}
-2 [He brought them down, both cow and calf,]{lang=en}
-2 [He brought them down. both kow and kalf.]{lang=aelw}
-
-1 [And never a beast he lost.]{enc=aelwsemaronenc lang=aelw}
-2 [And he did not lose a single animal;]{lang=en}
-2 [And never a beast he lost.]{lang=aelw}
-
-1 [And none knoweth who laid the road.]{enc=aelwsemaronenc lang=aelw}
-2 [And no one knows who laid the road,]{lang=en}
-2 [And none knoweth who laid the road.]{lang=aelw}
-
-1 [Nor what the laying kost.]{enc=aelwsemaronenc lang=aelw}
-2 [Nor what the laying cost.]{lang=en}
-2 [Nor what the laying kost.]{lang=aelw}
-```
+::: {.verse form=ballad lang=en work=ballad}
+Young Edwald was a drover's lad,/
+He drove his master's cattle/
+From the high grass to the lowland fair/
+By moss and moor and grove.
+
+The fog came up out of the low ground,/
+As always from the west;/
+He could not see the foremost beast,/
+Or his hand against his chest.
+
+And then his foot was on a stone,/
+And on a stone again,/
+Fitted so closely that a knife's thin blade/
+Would seek a gap in vain.
+
+It was the old road, the crown road,/
+That runs where no road should,/
+And an oak-tree stood on each side,/
+And oak, and oak, and wood.
+
+When he was little, his grandfather told him,/
+Do not take the crown road south,/
+For no one can say where it goes,/
+And its mouth is blocked.
+
+But the fog was thick, and the stone underfoot was firm,/
+And the cattle moved quietly and slowly,/
+As quiet as cattle being milked/
+When the evening shadows lie low.
+
+He drove them on through the whole long day,/
+With oaks on both sides,/
+And every one was older than/
+The oldest in the land.
+
+And when the fog began to lift/
+The light was going grey,/
+And there before him was a bank/
+Of oaks across the way.
+
+There was no gate, there was no stile,/
+There was no stone set beside it;/
+The road ran up to the oaks/
+And stopped, as a man might die.
+
+And in among the oak-trees stood/
+A tall one, still and grey;/
+He looked at Edwald and his cattle,/
+And he would say nothing.
+
+Then Edwald took his cap in hand,/
+Because that was what he had been taught:/
+Good evening, sir, who laid this road?/
+I would be glad to know.
+
+The tall one looked upon the road,/
+And looked upon the cattle,/
+And said nothing in reply,/
+And gave him no sign.
+
+Then Edwald said, Good sir, good sir,/
+I ask only this:/
+Where does this old road go,/
+The one that stops at your door?
+
+The tall one looked back up the road,/
+Back to the north and west,/
+Where three hills stand in the grass,/
+And the sun goes down to rest.
+
+Then Edwald was a bolder lad/
+Than wise men have been:/
+Then tell me why the road is blocked,/
+And what the oaks may mean.
+
+And at that word the oaks closed/
+As a door is shut at night,/
+And the fog came down upon the road,/
+And Edwald lost his sight.
+
+He woke upon the highland grass/
+Beneath three hills of stone,/
+And all his master's cattle were there,/
+And every one of them was grazing.
+
+There was no oak, there was no road,/
+There was no bank of trees,/
+But a ring of grass more green than grass,/
+That came up to his knees.
+
+And not a beast of all his cattle/
+Would set her foot on it;/
+They grazed around it as they went,/
+And left it, and were gone.
+
+He came home by the common road/
+A week after he was due;/
+His grandfather met him at the gate:/
+Where have you been? Tell me now.
+
+I took the crown road south, grandfather,/
+The road that has the oaks,/
+And I have seen who keeps it,/
+And he did not say a word.
+
+And who laid all the old road, lad,/
+And why is it blocked? he said./
+They laid it, grandfather, and they stopped:/
+I was told nothing more.
+
+And when the great snow came that year,/
+And all the drove-roads were lost,/
+And the beasts had to come down from the high grass/
+Or die there in the frost,
+
+Then Edwald drove them by the stone,/
+Where no one but him would go,/
+And the oaks along it showed the way/
+When there was nothing to see.
+
+He brought them down, both cow and calf,/
+And he did not lose a single animal;/
+And no one knows who laid the road,/
+Nor what the laying cost.
+:::
+
+::: {.verse form=ballad lang=aelw enc=aelwsemaronenc work=ballad}
+Young Edwald was a droveres lad./
+His masteres kine he drove/
+From the high grass to the lowland fair/
+By moss and moor and grove.
+
+The fog kame up out of the low ground./
+As ever from the west./
+He kould not see the foremost beast./
+Nor his hand upon his breast.
+
+And then his foot was on a stone./
+And on a stone again./
+Fitted so klose a knifees thin blade/
+Would seek a gap in vain.
+
+It was the old road. the krown road./
+That runneth where none should./
+And on each hand an oak tree stood./
+And oak. and oak. and wood.
+
+His grandsire told the little lad./
+Take not the krown road south./
+For where it goeth none kan say./
+And it hath a stopped mouth.
+
+But the fog was thikke. and the stone was sure./
+And the kine went quiet and slow./
+As quiet as kine at milking/
+When eveninges shade is low.
+
+He drove them all the long day on./
+The oaks on either hand./
+And every one was older than/
+The oldest in the land.
+
+And when the fog began to lift/
+The light was going grey./
+And there before him was a bank/
+Of oaks akross the way.
+
+There was no gate. there was no stile./
+There was no stone set by./
+The road ran up unto the oaks/
+And stopped. as a man might die.
+
+And in among the oak trees stood/
+A tall one. still and grey./
+He looked on Edwald and his kine./
+And naught would he then say.
+
+Then Edwald took his kap in hand./
+For he was taught it so./
+Good even. sir. who laid this road./
+For I would gladly know.
+
+The tall one looked upon the road./
+And looked upon the kine./
+And answered not a word to him./
+Nor gave him any sign.
+
+Then Edwald said. Good sir. good sir./
+I ask of thee no more/
+But whither goeth this old road./
+That stoppeth at thy door.
+
+The tall one looked bak up the road./
+Bak to the north and west./
+Where three hills standen in the grass./
+And the sun goeth down to rest.
+
+Then Edwald was a bolder lad/
+Than wise men haven been./
+Then tell me why the road is stopped./
+And what the oaks may mean.
+
+And at the word the oaks were shut/
+As a door is shut at night./
+And the fog kame down upon the road./
+And Edwald lost his sight.
+
+He woke upon the highland grass/
+Beneath three hills of stone./
+And all his masteres kine were there./
+And grazing every one.
+
+There was no oak. there was no road./
+There was no bank of trees./
+But a ring of grass more green than grass./
+That kame up to his knees.
+
+And not a beast of all his kine/
+Would set her foot thereon./
+They grazed around it as they went./
+And left it. and were gone.
+
+He kame home by the kommon road/
+A sennight past his day./
+His grandsire met him at the gate./
+Where hast thou been. Now say.
+
+I took the krown road south. grandsire./
+The road that hath the oaks./
+And I have seen who keepeth it./
+And never a word he spoke.
+
+And who laid all the old road. lad./
+And why is it stopped. said he./
+They laid it. grandsire. and they stopped./
+No more was told to me.
+
+And when the great snow kame that year./
+And the drove roads all were lost./
+And the beasts must kome from the high grass down/
+Or die there in the frost.
+
+Then Edwald drove them by the stone./
+Where none would go but he./
+And the oaks along it showed the way/
+When there was naught to see.
+
+He brought them down. both kow and kalf./
+And never a beast he lost./
+And none knoweth who laid the road./
+Nor what the laying kost.
+:::
 
 ## See Also
 

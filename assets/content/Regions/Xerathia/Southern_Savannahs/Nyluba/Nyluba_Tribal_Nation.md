@@ -133,28 +133,25 @@ The lion cult's memory-song, [[lore-swearbaobab|The Swearing Under the Baobab]],
 
 Transcription of an oral recitation.
 
-```verse {form=praise numstep=5 cols=2}
-1 [ndebya nyemawa. enyi ndeyabe weyu mbeyi labwe ndawa.]{lang=nyal}
-2 [Now the terms. Count on one hand.]{lang=en}
+::: {.verse form=praise lang=en work=nyluba-tribal-nation-1}
+Now the terms. Count on one hand./
+._One hand, five fingers._/
+First, the five raise no weapon against the five./
+They lay old cattle feuds down and never take them up again./
+._Laid down. Never taken up again._/
+Second, a spear against one is a spear against five./
+._Against one, against five._
+:::
 
-1 [.labwe ndawa, labye ndaweya.]{lang=nyal}
-2 [._One hand, five fingers._]{lang=en}
-
-1 [ndebyo ndeleyo ndawa, nyemoli ndaweya shewe labweyelo mbeyosha liye nyemoli ndaweya,]{lang=nyal}
-2 [First, the five raise no weapon against the five.]{lang=en}
-
-1 [ngwi weyu labweyemi mboyela nduloba ndebyo ngalebya, ngwi weyu shewe mbeye lowa ndayelya.]{lang=nyal}
-2 [They lay old cattle feuds down and never take them up again.]{lang=en}
-
-1 [.labweyemi ndebyo ngalebya, ngwi shewe mbeye ndayelya.]{lang=nyal}
-2 [._Laid down. Never taken up again._]{lang=en}
-
-1 [ndebyo ndeleyo ndawi, pabweya liye ndawa lome pabweya liye ndaweya.]{lang=nyal}
-2 [Second, a spear against one is a spear against five.]{lang=en}
-
-1 [.liye ndawa, liye ndaweya.]{lang=nyal}
-2 [._Against one, against five._]{lang=en}
-```
+::: {.verse form=praise lang=nyal work=nyluba-tribal-nation-1}
+ndebya nyemawa. enyi ndeyabe weyu mbeyi labwe ndawa./
+.labwe ndawa, labye ndaweya./
+ndebyo ndeleyo ndawa, nyemoli ndaweya shewe labweyelo mbeyosha liye nyemoli ndaweya,/
+ngwi weyu labweyemi mboyela nduloba ndebyo ngalebya, ngwi weyu shewe mbeye lowa ndayelya./
+.labweyemi ndebyo ngalebya, ngwi shewe mbeye ndayelya./
+ndebyo ndeleyo ndawi, pabweya liye ndawa lome pabweya liye ndaweya./
+.liye ndawa, liye ndaweya.
+:::
 
 ## The Great Lubemo
 
@@ -226,13 +223,15 @@ The griots' recital of the record, set beside a fireside telling in [[lore-stone
 
 Transcription of an oral recitation.
 
-```verse {form=prose numstep=5 cols=2}
-1 [ndayembo nyabelomi, weyi kabolemi heto nduloba, ngwi weyi ndeyomi ndeyoma lowa, weyi nyende ngende ngabeli.]{lang=nyal}
-2 [During her initiation she entered an Old Heto. She emerged speaking the Stone Tongue.]{lang=en}
+::: {.verse form=prose lang=en work=nyluba-tribal-nation-2}
+During her initiation she entered an Old Heto. She emerged speaking the Stone Tongue./
+The record gives no purpose for the Stone Tongue.
+:::
 
-1 [ndeyamo liwe ngende ngabeli shewe lome ndebyo nyendemoshi.]{lang=nyal}
-2 [The record gives no purpose for the Stone Tongue.]{lang=en}
-```
+::: {.verse form=prose lang=nyal work=nyluba-tribal-nation-2}
+ndayembo nyabelomi, weyi kabolemi heto nduloba, ngwi weyi ndeyomi ndeyoma lowa, weyi nyende ngende ngabeli./
+ndeyamo liwe ngende ngabeli shewe lome ndebyo nyendemoshi.
+:::
 
 **The Drum-Master of Sengala**, an unnamed (or rather, name-suppressed) figure who maintains the central relay station of the northern drum-network. By long custom, the holder of this post has no public identity; only the other drum-masters know who occupies it at any given time. The arrangement is a security measure that has held for nine generations.
 

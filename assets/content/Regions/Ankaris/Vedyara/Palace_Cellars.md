@@ -26,32 +26,23 @@ The [[lore-rcitkngsmhnd|Recitation of the Kings of Mahanodi]] sets the last reig
 
 : The Barrack, the Hall and the Kitchen {#recitation-excerpt}
 
-```verse {form=recitation lang=en cols=2 numstep=5}
-1 [ve ro palda nidgroha trum chambu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [His guards left their barracks for the grain.]{lang=en}
-2 [ve ro palda nidgroha trum chambu,]{lang=vedy}
+::: {.verse form=recitation lang=en work=recitation-excerpt}
+His guards left their barracks for the grain./
+.He stayed seated in the hall./
+His cook knew neighbors in the hungry lanes,/
+.unable to bear their cries./
+The tradition tells it this way:/
+.the kitchen's cup was his last.
+:::
 
-1 [.ghomra tral, ve sadnu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.He stayed seated in the hall.]{lang=en}
-2 [.ghomra tral, ve sadnu.]{lang=vedy}
-
-1 [ve ro pachoka bhukhpantra ro narma,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [His cook knew neighbors in the hungry lanes,]{lang=en}
-2 [ve ro pachoka bhukhpantra ro narma,]{lang=vedy}
-
-1 [.ravha sahu uvas.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.unable to bear their cries.]{lang=en}
-2 [.ravha sahu uvas.]{lang=vedy}
-
-1 [sampradeya ehu pantra lampu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [The tradition tells it this way:]{lang=en}
-2 [sampradeya ehu pantra lampu,]{lang=vedy}
-
-1 [.kulka kaldungalnu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
-2 [.the kitchen's cup was his last.]{lang=en}
-2 [.kulka kaldungalnu.]{lang=vedy}
-
-```
+::: {.verse form=recitation lang=vedy enc=vedyvedyaksharaenc work=recitation-excerpt}
+ve ro palda nidgroha trum chambu,/
+.ghomra tral, ve sadnu./
+ve ro pachoka bhukhpantra ro narma,/
+.ravha sahu uvas./
+sampradeya ehu pantra lampu,/
+.kulka kaldungalnu.
+:::
 
 Once a year, at the [Day of the Dissolution]{.name data-type="lore/gathering"}, the recitation is given in the temple precinct and not here. The Rajapuri position is that the cellars are not a monument and are not to be treated as one.
 

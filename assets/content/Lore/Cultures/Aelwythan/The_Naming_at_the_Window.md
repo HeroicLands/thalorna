@@ -28,349 +28,189 @@ The lament is said and not sung, in a low voice, with the candle lit at the firs
 
 : The Naming {#naming}
 
-```verse {form=lament numstep=5 cols=2}
-1 [I set the kandle. Judge. here is the light.]{enc=aelwsemaronenc lang=aelw}
-2 [I set the candle. Judge, here is the light.]{lang=en}
-2 [I set the kandle. Judge. here is the light.]{lang=aelw}
-
-1 [It is the first night. and the door is shut.]{enc=aelwsemaronenc lang=aelw}
-2 [It is the first night, and the door is shut,]{lang=en}
-2 [It is the first night. and the door is shut.]{lang=aelw}
-
-1 [And thy door shut. and all the temple dark.]{enc=aelwsemaronenc lang=aelw}
-2 [And your door is shut, and the whole temple is dark;]{lang=en}
-2 [And thy door shut. and all the temple dark.]{lang=aelw}
-
-1 [Only the windows. all down the street. ben lit.]{enc=aelwsemaronenc lang=aelw}
-2 [Only the windows, all down the street, are lit,]{lang=en}
-2 [Only the windows. all down the street. ben lit.]{lang=aelw}
-
-1 [And every window hath a woman in it.]{enc=aelwsemaronenc lang=aelw}
-2 [And every window has a woman in it,]{lang=en}
-2 [And every window hath a woman in it.]{lang=aelw}
-
-1 [And every woman hath her names to say.]{enc=aelwsemaronenc lang=aelw}
-2 [And every woman has her names to say.]{lang=en}
-2 [And every woman hath her names to say.]{lang=aelw}
-
-1 [Here ben my names. Judge. I will say them slow.]{enc=aelwsemaronenc lang=aelw}
-2 [Here are my names. Judge, I will say them slowly.]{lang=en}
-2 [Here ben my names. Judge. I will say them slow.]{lang=aelw}
-
-***
-
-1 [The first is Mildwald. He was my husband.]{enc=aelwsemaronenc lang=aelw}
-2 [The first is Mildwald. He was my husband.]{lang=en}
-2 [The first is Mildwald. He was my husband.]{lang=aelw}
-
-1 [He rode out with the watch at kandlelight]{enc=aelwsemaronenc lang=aelw}
-2 [He rode out with the watch at candle-light]{lang=en}
-2 [He rode out with the watch at kandlelight]{lang=aelw}
-
-1 [Upon the night the fires were in the trees.]{enc=aelwsemaronenc lang=aelw}
-2 [Upon the night the fires were in the trees;]{lang=en}
-2 [Upon the night the fires were in the trees.]{lang=aelw}
-
-1 [He took his bill down from above the door.]{enc=aelwsemaronenc lang=aelw}
-2 [He took his bill down from above the door,]{lang=en}
-2 [He took his bill down from above the door.]{lang=aelw}
-
-1 [And said. Keep up the fire. and I kept it.]{enc=aelwsemaronenc lang=aelw}
-2 [And said, Keep up the fire, and I kept it.]{lang=en}
-2 [And said. Keep up the fire. and I kept it.]{lang=aelw}
-
-1 [I kept it all that night. and the nekst night.]{enc=aelwsemaronenc lang=aelw}
-2 [I kept it all that night, and the next night,]{lang=en}
-2 [I kept it all that night. and the nekst night.]{lang=aelw}
-
-1 [And all that winter. and he kame not home.]{enc=aelwsemaronenc lang=aelw}
-2 [And all that winter, and he did not come home.]{lang=en}
-2 [And all that winter. and he kame not home.]{lang=aelw}
-
-1 [Naught kame bak home. They found the horseses traks.]{enc=aelwsemaronenc lang=aelw}
-2 [Nothing came back home. They found the horses' tracks,]{lang=en}
-2 [Naught kame bak home. They found the horseses traks.]{lang=aelw}
-
-1 [And where the traks went in. and none kame out.]{enc=aelwsemaronenc lang=aelw}
-2 [And where the tracks went in, but none led out.]{lang=en}
-2 [And where the traks went in. and none kame out.]{lang=aelw}
-
-1 [There is no body. Judge. There is no grave.]{enc=aelwsemaronenc lang=aelw}
-2 [There is no body, Judge. There is no grave.]{lang=en}
-2 [There is no body. Judge. There is no grave.]{lang=aelw}
-
-1 [I kannot bring thee him to the gatees mouth.]{enc=aelwsemaronenc lang=aelw}
-2 [I cannot bring him to you at the mouth of the gate,]{lang=en}
-2 [I kannot bring thee him to the gatees mouth.]{lang=aelw}
-
-1 [Nor wash him. nor sit by him. nor give him rites.]{enc=aelwsemaronenc lang=aelw}
-2 [Nor wash him, nor sit by him, nor give him rites.]{lang=en}
-2 [Nor wash him. nor sit by him. nor give him rites.]{lang=aelw}
-
-1 [I have his name. I give thee that. Take it.]{enc=aelwsemaronenc lang=aelw}
-2 [I have his name. I give you that. Take it.]{lang=en}
-2 [I have his name. I give thee that. Take it.]{lang=aelw}
-
-1 [Mildwald. Mildwald of Ashwold. Take him by it.]{enc=aelwsemaronenc lang=aelw}
-2 [Mildwald. Mildwald of Ashwold. Take him by that name.]{lang=en}
-2 [Mildwald. Mildwald of Ashwold. Take him by it.]{lang=aelw}
-
-***
-
-1 [The sekond is Osrun. and she was his mother.]{enc=aelwsemaronenc lang=aelw}
-2 [The second is Osrun, and she was his mother.]{lang=en}
-2 [The sekond is Osrun. and she was his mother.]{lang=aelw}
-
-1 [When we kame down she would not kome with us.]{enc=aelwsemaronenc lang=aelw}
-2 [When we came down she would not come with us.]{lang=en}
-2 [When we kame down she would not kome with us.]{lang=aelw}
-
-1 [She said. I was a bride beneath this roof.]{enc=aelwsemaronenc lang=aelw}
-2 [She said, I was a bride beneath this roof,]{lang=en}
-2 [She said. I was a bride beneath this roof.]{lang=aelw}
-
-1 [And I will be a korse beneath it. then.]{enc=aelwsemaronenc lang=aelw}
-2 [And I will be a corpse beneath it, then;]{lang=en}
-2 [And I will be a korse beneath it. then.]{lang=aelw}
-
-1 [I have outlived the man that kut the beams.]{enc=aelwsemaronenc lang=aelw}
-2 [I have outlived the man that cut the beams,]{lang=en}
-2 [I have outlived the man that kut the beams.]{lang=aelw}
-
-1 [I will not now outlive the beams. Go down.]{enc=aelwsemaronenc lang=aelw}
-2 [I will not now outlive the beams. Go down.]{lang=en}
-2 [I will not now outlive the beams. Go down.]{lang=aelw}
-
-1 [She sat down at the hearth and turned her bak.]{enc=aelwsemaronenc lang=aelw}
-2 [She sat down at the hearth and turned her back,]{lang=en}
-2 [She sat down at the hearth and turned her bak.]{lang=aelw}
-
-1 [And we went down. and in the spring it burned.]{enc=aelwsemaronenc lang=aelw}
-2 [And we went down, and in the spring it burned.]{lang=en}
-2 [And we went down. and in the spring it burned.]{lang=aelw}
-
-1 [We saw the smoke from here. She would not kome.]{enc=aelwsemaronenc lang=aelw}
-2 [We saw the smoke from here. She would not come.]{lang=en}
-2 [We saw the smoke from here. She would not kome.]{lang=aelw}
-
-1 [Osrun. Osrun of Ashwold. Take her by it.]{enc=aelwsemaronenc lang=aelw}
-2 [Osrun. Osrun of Ashwold. Take her by that name.]{lang=en}
-2 [Osrun. Osrun of Ashwold. Take her by it.]{lang=aelw}
-
-***
-
-1 [The third is Wilwin. and he was my son.]{enc=aelwsemaronenc lang=aelw}
-2 [The third is Wilwin, and he was my son.]{lang=en}
-2 [The third is Wilwin. and he was my son.]{lang=aelw}
-
-1 [He was fourteen. He was his fatheres height.]{enc=aelwsemaronenc lang=aelw}
-2 [He was fourteen. He was his father's height.]{lang=en}
-2 [He was fourteen. He was his fatheres height.]{lang=aelw}
-
-1 [He said. I will go up and look for him.]{enc=aelwsemaronenc lang=aelw}
-2 [He said, I will go up and look for him,]{lang=en}
-2 [He said. I will go up and look for him.]{lang=aelw}
-
-1 [And I said. There is naught at all to find.]{enc=aelwsemaronenc lang=aelw}
-2 [And I said, There is nothing at all to find,]{lang=en}
-2 [And I said. There is naught at all to find.]{lang=aelw}
-
-1 [He said. Then I will find that naught. mother.]{enc=aelwsemaronenc lang=aelw}
-2 [He said, Then I will find that nothing, mother,]{lang=en}
-2 [He said. Then I will find that naught. mother.]{lang=aelw}
-
-1 [And kome home and tell thee where it is.]{enc=aelwsemaronenc lang=aelw}
-2 [And come home and tell you where it is.]{lang=en}
-2 [And kome home and tell thee where it is.]{lang=aelw}
-
-1 [He went up to the woodes edge in the spring]{enc=aelwsemaronenc lang=aelw}
-2 [He went up to the wood's edge in the spring]{lang=en}
-2 [He went up to the woodes edge in the spring]{lang=aelw}
-
-1 [Before the light. and he went in. and stayed.]{enc=aelwsemaronenc lang=aelw}
-2 [Before dawn, and he went in, and stayed.]{lang=en}
-2 [Before the light. and he went in. and stayed.]{lang=aelw}
-
-1 [I know not if he is dead. I say it]{enc=aelwsemaronenc lang=aelw}
-2 [I do not know if he is dead. I say it]{lang=en}
-2 [I know not if he is dead. I say it]{lang=aelw}
-
-1 [Bekause the kandle wanteth all the names.]{enc=aelwsemaronenc lang=aelw}
-2 [Because the candle wants all the names.]{lang=en}
-2 [Bekause the kandle wanteth all the names.]{lang=aelw}
-
-1 [Wilwin. Wilwin of Ashwold. Take him by it.]{enc=aelwsemaronenc lang=aelw}
-2 [Wilwin. Wilwin of Ashwold. Take him by that name.]{lang=en}
-2 [Wilwin. Wilwin of Ashwold. Take him by it.]{lang=aelw}
-
-***
-
-1 [The fourth is Ashwold. and it was our house.]{enc=aelwsemaronenc lang=aelw}
-2 [The fourth is Ashwold, and it was our house.]{lang=en}
-2 [The fourth is Ashwold. and it was our house.]{lang=aelw}
-
-1 [It is no name for thee. Judge. it never died.]{enc=aelwsemaronenc lang=aelw}
-2 [That name is not for you, Judge; it never died.]{lang=en}
-2 [It is no name for thee. Judge. it never died.]{lang=aelw}
-
-1 [Yet I will say it. none else will say it.]{enc=aelwsemaronenc lang=aelw}
-2 [Yet I will name it; no one else will.]{lang=en}
-2 [Yet I will say it. none else will say it.]{lang=aelw}
-
-1 [Where is the ash that stood above the door.]{enc=aelwsemaronenc lang=aelw}
-2 [Where is the ash that stood above the door?]{lang=en}
-2 [Where is the ash that stood above the door.]{lang=aelw}
-
-1 [The wood hath it. Where is the door. The wood.]{enc=aelwsemaronenc lang=aelw}
-2 [The wood has it. Where is the door? The wood.]{lang=en}
-2 [The wood hath it. Where is the door. The wood.]{lang=aelw}
-
-1 [Where is the hearth my mother in law kept.]{enc=aelwsemaronenc lang=aelw}
-2 [Where is the hearth my mother-in-law kept?]{lang=en}
-2 [Where is the hearth my mother in law kept.]{lang=aelw}
-
-1 [Nettles haven it. and they keepen it.]{enc=aelwsemaronenc lang=aelw}
-2 [Nettles have it, and keep it.]{lang=en}
-2 [Nettles haven it. and they keepen it.]{lang=aelw}
-
-1 [Where is the strip that Mildwaldes father kleared.]{enc=aelwsemaronenc lang=aelw}
-2 [Where is the strip of land that Mildwald's father cleared,]{lang=en}
-2 [Where is the strip that Mildwaldes father kleared.]{lang=aelw}
-
-1 [And his before him. out of the forestes foot.]{enc=aelwsemaronenc lang=aelw}
-2 [And his father before him, out of the forest's foot?]{lang=en}
-2 [And his before him. out of the forestes foot.]{lang=aelw}
-
-1 [Its foot is on it. Where now is the well.]{enc=aelwsemaronenc lang=aelw}
-2 [Its foot is on it. Where is the well now?]{lang=en}
-2 [Its foot is on it. Where now is the well.]{lang=aelw}
-
-1 [Choked up with leaves. and something drinketh there.]{enc=aelwsemaronenc lang=aelw}
-2 [Choked up with leaves, and something drinks there.]{lang=en}
-2 [Choked up with leaves. and something drinketh there.]{lang=aelw}
-
-1 [Where is the bench. the board. the salt. the bed.]{enc=aelwsemaronenc lang=aelw}
-2 [Where is the bench, the table, the salt, the bed,]{lang=en}
-2 [Where is the bench. the board. the salt. the bed.]{lang=aelw}
-
-1 [The pot. the hook. the kradle of my son.]{enc=aelwsemaronenc lang=aelw}
-2 [The pot, the hook, my son's cradle?]{lang=en}
-2 [The pot. the hook. the kradle of my son.]{lang=aelw}
-
-1 [The wood hath all of it. and asketh more.]{enc=aelwsemaronenc lang=aelw}
-2 [The wood has all of it, and asks for more.]{lang=en}
-2 [The wood hath all of it. and asketh more.]{lang=aelw}
-
-1 [Ashwold. Ashwold in the march. I name it.]{enc=aelwsemaronenc lang=aelw}
-2 [Ashwold. Ashwold in the march. I name it.]{lang=en}
-2 [Ashwold. Ashwold in the march. I name it.]{lang=aelw}
-
-***
-
-1 [Now hear what the steward hath of all of these.]{enc=aelwsemaronenc lang=aelw}
-2 [Now listen to what the steward has recorded about them all.]{lang=en}
-2 [Now hear what the steward hath of all of these.]{lang=aelw}
-
-1 [He wrote. the spring we kame down. in his book.]{enc=aelwsemaronenc lang=aelw}
-2 [In the spring we came down, he wrote in his book,]{lang=en}
-2 [He wrote. the spring we kame down. in his book.]{lang=aelw}
-
-1 [Four steadings lost at the woodes edge this year.]{enc=aelwsemaronenc lang=aelw}
-2 [Four steadings lost at the wood's edge this year,]{lang=en}
-2 [Four steadings lost at the woodes edge this year.]{lang=aelw}
-
-1 [And of the watch. siks men. and that was all.]{enc=aelwsemaronenc lang=aelw}
-2 [And six men of the watch, and that was all.]{lang=en}
-2 [And of the watch. siks men. and that was all.]{lang=aelw}
-
-1 [One line. I made him read it me. One line.]{enc=aelwsemaronenc lang=aelw}
-2 [One line. I made him read it to me. One line.]{lang=en}
-2 [One line. I made him read it me. One line.]{lang=aelw}
-
-1 [He said. Good woman. it is every year.]{enc=aelwsemaronenc lang=aelw}
-2 [He said, Good woman, this happens every year,]{lang=en}
-2 [He said. Good woman. it is every year.]{lang=aelw}
-
-1 [It is the march. the book is full of them.]{enc=aelwsemaronenc lang=aelw}
-2 [It is the march, the book is full of them.]{lang=en}
-2 [It is the march. the book is full of them.]{lang=aelw}
-
-1 [I know the book is full. I said the names.]{enc=aelwsemaronenc lang=aelw}
-2 [I know the book is full. I said the names.]{lang=en}
-2 [I know the book is full. I said the names.]{lang=aelw}
-
-1 [He wrote them not. He hath no room for names.]{enc=aelwsemaronenc lang=aelw}
-2 [He did not write them. He has no room for names.]{lang=en}
-2 [He wrote them not. He hath no room for names.]{lang=aelw}
-
-1 [I have the room. I have the window. Judge.]{enc=aelwsemaronenc lang=aelw}
-2 [I have the room. I have the window, Judge,]{lang=en}
-2 [I have the room. I have the window. Judge.]{lang=aelw}
-
-1 [And the blak kandle. and the night. and this.]{enc=aelwsemaronenc lang=aelw}
-2 [And the black candle, and the night, and this.]{lang=en}
-2 [And the blak kandle. and the night. and this.]{lang=aelw}
-
-***
-
-1 [Kome here. my girl. Stand by me at the sill.]{enc=aelwsemaronenc lang=aelw}
-2 [Come here, my girl. Stand by me at the sill.]{lang=en}
-2 [Kome here. my girl. Stand by me at the sill.]{lang=aelw}
-
-1 [Thou hast heard the names. Now say them after me.]{enc=aelwsemaronenc lang=aelw}
-2 [You have heard the names. Now say them after me:]{lang=en}
-2 [Thou hast heard the names. Now say them after me.]{lang=aelw}
-
-1 [Mildwald. Osrun. Wilwin. And the house.]{enc=aelwsemaronenc lang=aelw}
-2 [Mildwald. Osrun. Wilwin. And the house.]{lang=en}
-2 [Mildwald. Osrun. Wilwin. And the house.]{lang=aelw}
-
-1 [Again. And slower. So. Thou hast them now.]{enc=aelwsemaronenc lang=aelw}
-2 [Again. And slower. So. You have them now.]{lang=en}
-2 [Again. And slower. So. Thou hast them now.]{lang=aelw}
-
-1 [When I am in the stewardes book. a line.]{enc=aelwsemaronenc lang=aelw}
-2 [When I am in the steward's book, a line,]{lang=en}
-2 [When I am in the stewardes book. a line.]{lang=aelw}
-
-1 [Thou shalt stand here. and set the kandle up.]{enc=aelwsemaronenc lang=aelw}
-2 [You must stand here, and set up the candle,]{lang=en}
-2 [Thou shalt stand here. and set the kandle up.]{lang=aelw}
-
-1 [And say them. and say mine after Wilwines.]{enc=aelwsemaronenc lang=aelw}
-2 [And say those names, and then my name after Wilwin's,]{lang=en}
-2 [And say them. and say mine after Wilwines.]{lang=aelw}
-
-1 [And give them to thy daughter at the sill.]{enc=aelwsemaronenc lang=aelw}
-2 [And give them to your daughter at the sill.]{lang=en}
-2 [And give them to thy daughter at the sill.]{lang=aelw}
-
-1 [While yet a window standeth in the march]{enc=aelwsemaronenc lang=aelw}
-2 [As long as a window still stands in the march]{lang=en}
-2 [While yet a window standeth in the march]{lang=aelw}
-
-1 [And a woman in it. they ben not in the wood.]{enc=aelwsemaronenc lang=aelw}
-2 [And a woman stands in it, the dead are not in the wood.]{lang=en}
-2 [And a woman in it. they ben not in the wood.]{lang=aelw}
-
-1 [The wood hath all the rest. It hath not these.]{enc=aelwsemaronenc lang=aelw}
-2 [The wood has all the rest. It does not have these.]{lang=en}
-2 [The wood hath all the rest. It hath not these.]{lang=aelw}
-
-***
-
-1 [The kandle burneth. Judge. I have said them all.]{enc=aelwsemaronenc lang=aelw}
-2 [The candle burns. Judge, I have said them all.]{lang=en}
-2 [The kandle burneth. Judge. I have said them all.]{lang=aelw}
-
-1 [Take them by the names. for I have naught else.]{enc=aelwsemaronenc lang=aelw}
-2 [Take them by their names, for I have nothing else.]{lang=en}
-2 [Take them by the names. for I have naught else.]{lang=aelw}
-
-1 [I will not shut it till the flame is out.]{enc=aelwsemaronenc lang=aelw}
-2 [I will not close the window until the flame is out.]{lang=en}
-2 [I will not shut it till the flame is out.]{lang=aelw}
-```
+::: {.verse form=lament lang=en work=naming}
+I set the candle. Judge, here is the light./
+It is the first night, and the door is shut,/
+And your door is shut, and the whole temple is dark;/
+Only the windows, all down the street, are lit,/
+And every window has a woman in it,/
+And every woman has her names to say./
+Here are my names. Judge, I will say them slowly.
+
+The first is Mildwald. He was my husband./
+He rode out with the watch at candle-light/
+Upon the night the fires were in the trees;/
+He took his bill down from above the door,/
+And said, Keep up the fire, and I kept it./
+I kept it all that night, and the next night,/
+And all that winter, and he did not come home./
+Nothing came back home. They found the horses' tracks,/
+And where the tracks went in, but none led out./
+There is no body, Judge. There is no grave./
+I cannot bring him to you at the mouth of the gate,/
+Nor wash him, nor sit by him, nor give him rites./
+I have his name. I give you that. Take it./
+Mildwald. Mildwald of Ashwold. Take him by that name.
+
+The second is Osrun, and she was his mother./
+When we came down she would not come with us./
+She said, I was a bride beneath this roof,/
+And I will be a corpse beneath it, then;/
+I have outlived the man that cut the beams,/
+I will not now outlive the beams. Go down./
+She sat down at the hearth and turned her back,/
+And we went down, and in the spring it burned./
+We saw the smoke from here. She would not come./
+Osrun. Osrun of Ashwold. Take her by that name.
+
+The third is Wilwin, and he was my son./
+He was fourteen. He was his father's height./
+He said, I will go up and look for him,/
+And I said, There is nothing at all to find,/
+He said, Then I will find that nothing, mother,/
+And come home and tell you where it is./
+He went up to the wood's edge in the spring/
+Before dawn, and he went in, and stayed./
+I do not know if he is dead. I say it/
+Because the candle wants all the names./
+Wilwin. Wilwin of Ashwold. Take him by that name.
+
+The fourth is Ashwold, and it was our house./
+That name is not for you, Judge; it never died./
+Yet I will name it; no one else will./
+Where is the ash that stood above the door?/
+The wood has it. Where is the door? The wood./
+Where is the hearth my mother-in-law kept?/
+Nettles have it, and keep it./
+Where is the strip of land that Mildwald's father cleared,/
+And his father before him, out of the forest's foot?/
+Its foot is on it. Where is the well now?/
+Choked up with leaves, and something drinks there./
+Where is the bench, the table, the salt, the bed,/
+The pot, the hook, my son's cradle?/
+The wood has all of it, and asks for more./
+Ashwold. Ashwold in the march. I name it.
+
+Now listen to what the steward has recorded about them all./
+In the spring we came down, he wrote in his book,/
+Four steadings lost at the wood's edge this year,/
+And six men of the watch, and that was all./
+One line. I made him read it to me. One line./
+He said, Good woman, this happens every year,/
+It is the march, the book is full of them./
+I know the book is full. I said the names./
+He did not write them. He has no room for names./
+I have the room. I have the window, Judge,/
+And the black candle, and the night, and this.
+
+Come here, my girl. Stand by me at the sill./
+You have heard the names. Now say them after me:/
+Mildwald. Osrun. Wilwin. And the house./
+Again. And slower. So. You have them now./
+When I am in the steward's book, a line,/
+You must stand here, and set up the candle,/
+And say those names, and then my name after Wilwin's,/
+And give them to your daughter at the sill./
+As long as a window still stands in the march/
+And a woman stands in it, the dead are not in the wood./
+The wood has all the rest. It does not have these.
+
+The candle burns. Judge, I have said them all./
+Take them by their names, for I have nothing else./
+I will not close the window until the flame is out.
+:::
+
+::: {.verse form=lament lang=aelw enc=aelwsemaronenc work=naming}
+I set the kandle. Judge. here is the light./
+It is the first night. and the door is shut./
+And thy door shut. and all the temple dark./
+Only the windows. all down the street. ben lit./
+And every window hath a woman in it./
+And every woman hath her names to say./
+Here ben my names. Judge. I will say them slow.
+
+The first is Mildwald. He was my husband./
+He rode out with the watch at kandlelight/
+Upon the night the fires were in the trees./
+He took his bill down from above the door./
+And said. Keep up the fire. and I kept it./
+I kept it all that night. and the nekst night./
+And all that winter. and he kame not home./
+Naught kame bak home. They found the horseses traks./
+And where the traks went in. and none kame out./
+There is no body. Judge. There is no grave./
+I kannot bring thee him to the gatees mouth./
+Nor wash him. nor sit by him. nor give him rites./
+I have his name. I give thee that. Take it./
+Mildwald. Mildwald of Ashwold. Take him by it.
+
+The sekond is Osrun. and she was his mother./
+When we kame down she would not kome with us./
+She said. I was a bride beneath this roof./
+And I will be a korse beneath it. then./
+I have outlived the man that kut the beams./
+I will not now outlive the beams. Go down./
+She sat down at the hearth and turned her bak./
+And we went down. and in the spring it burned./
+We saw the smoke from here. She would not kome./
+Osrun. Osrun of Ashwold. Take her by it.
+
+The third is Wilwin. and he was my son./
+He was fourteen. He was his fatheres height./
+He said. I will go up and look for him./
+And I said. There is naught at all to find./
+He said. Then I will find that naught. mother./
+And kome home and tell thee where it is./
+He went up to the woodes edge in the spring/
+Before the light. and he went in. and stayed./
+I know not if he is dead. I say it/
+Bekause the kandle wanteth all the names./
+Wilwin. Wilwin of Ashwold. Take him by it.
+
+The fourth is Ashwold. and it was our house./
+It is no name for thee. Judge. it never died./
+Yet I will say it. none else will say it./
+Where is the ash that stood above the door./
+The wood hath it. Where is the door. The wood./
+Where is the hearth my mother in law kept./
+Nettles haven it. and they keepen it./
+Where is the strip that Mildwaldes father kleared./
+And his before him. out of the forestes foot./
+Its foot is on it. Where now is the well./
+Choked up with leaves. and something drinketh there./
+Where is the bench. the board. the salt. the bed./
+The pot. the hook. the kradle of my son./
+The wood hath all of it. and asketh more./
+Ashwold. Ashwold in the march. I name it.
+
+Now hear what the steward hath of all of these./
+He wrote. the spring we kame down. in his book./
+Four steadings lost at the woodes edge this year./
+And of the watch. siks men. and that was all./
+One line. I made him read it me. One line./
+He said. Good woman. it is every year./
+It is the march. the book is full of them./
+I know the book is full. I said the names./
+He wrote them not. He hath no room for names./
+I have the room. I have the window. Judge./
+And the blak kandle. and the night. and this.
+
+Kome here. my girl. Stand by me at the sill./
+Thou hast heard the names. Now say them after me./
+Mildwald. Osrun. Wilwin. And the house./
+Again. And slower. So. Thou hast them now./
+When I am in the stewardes book. a line./
+Thou shalt stand here. and set the kandle up./
+And say them. and say mine after Wilwines./
+And give them to thy daughter at the sill./
+While yet a window standeth in the march/
+And a woman in it. they ben not in the wood./
+The wood hath all the rest. It hath not these.
+
+The kandle burneth. Judge. I have said them all./
+Take them by the names. for I have naught else./
+I will not shut it till the flame is out.
+:::
 
 ## See Also
 

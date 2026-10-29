@@ -37,39 +37,27 @@ At the ting Dvurnthann brought the claim. The witness said what he had seen, and
 
 : Gnurthorv's answer at the ting {#ting}
 
-```verse {form=skaldic lang=en cols=2 numstep=5}
-1 [frostva smiv or fladland randva,]{lang=nord enc=nordthuravarkenc}
-2 [Frost works the field's edge;]{lang=en}
-2 [frostva smiv or fladland randva,]{lang=nord}
+::: {.verse form=skaldic lang=en work=ting}
+Frost works the field's edge;/
+the giant's knuckle shifts./
+Who set it saw no sun/
+set on it a second time./
+Ask the thaw, not the man,/
+how the mark went walking./
+I keep what [hrandmil]{.name data-type="being/npc" lang=nord} kept:/
+a thing set down stays down.
+:::
 
-1 [hondknel na thurs rurna hratt.]{lang=nord enc=nordthuravarkenc}
-2 [the giant's knuckle shifts.]{lang=en}
-2 [hondknel na thurs rurna hratt.]{lang=nord}
-
-1 [legvri nel sken skifri solva]{lang=nord enc=nordthuravarkenc}
-2 [Who set it saw no sun]{lang=en}
-2 [legvri nel sken skifri solva]{lang=nord}
-
-1 [set or it, setva genda.]{lang=nord enc=nordthuravarkenc}
-2 [set on it a second time.]{lang=en}
-2 [set or it, setva genda.]{lang=nord}
-
-1 [kallar islos, nel karnva,]{lang=nord enc=nordthuravarkenc}
-2 [Ask the thaw, not the man,]{lang=en}
-2 [kallar islos, nel karnva,]{lang=nord}
-
-1 [hram hrend gang‼]{lang=nord enc=nordthuravarkenc}
-2 [how the mark went walking.]{lang=en}
-2 [hram hrend gang‼]{lang=nord}
-
-1 [ir halv hnat hrandmil halv.]{lang=nord enc=nordthuravarkenc}
-2 [I keep what [hrandmil]{.name data-type="being/npc" lang=nord} kept:]{lang=en}
-2 [ir halv hnat hrandmil halv.]{lang=nord}
-
-1 [dingi legva nif lagna nif.]{lang=nord enc=nordthuravarkenc}
-2 [a thing set down stays down.]{lang=en}
-2 [dingi legva nif lagna nif.]{lang=nord}
-```
+::: {.verse form=skaldic lang=nord enc=nordthuravarkenc work=ting}
+frostva smiv or fladland randva,/
+hondknel na thurs rurna hratt./
+legvri nel sken skifri solva/
+set or it, setva genda./
+kallar islos, nel karnva,/
+hram hrend gang‼/
+ir halv hnat hrandmil halv./
+dingi legva nif lagna nif.
+:::
 
 The verse was taken more than one way. Hrandmil is the first man of [[lore-gnumborinn|Gnúmborinn]]; what Gnurthorv meant by keeping what Hrandmil kept, nobody at the ting asked him. The witness said afterward that he had heard a man deny a thing and own it in the same breath, and that he did not know which half he would be asked to swear to. The Lawspeaker said that a stone was not a thing the ting could look at from where it sat. He set the claim over to the next Somarmál, when the walk would be made again and the witness could say whether the thaw had moved the mark back. Until then the fourth stone was to stand where it stood and nobody was to lay a hand on it. Both men said they were content with that. Dvirnselda had come to the ting; she said nothing there, and a good deal on the way home.
 
@@ -107,61 +95,45 @@ Dvurnthann spoke this, standing on the walk; it is the first verse of his that a
 
 : Dvurnthann on the walk {#lights}
 
-```verse {form=skaldic lang=en cols=2 numstep=5}
-1 [krast or hrimva na hrimthur,]{lang=nord enc=nordthuravarkenc}
-2 [Hard on the giant's rime,]{lang=en}
-2 [krast or hrimva na hrimthur,]{lang=nord}
+::: {.verse form=skaldic lang=en work=lights}
+Hard on the giant's rime,/
+where the bend lets the marsh out,/
+lamps go walking upriver,/
+no lamp-bearer under them./
+Count them, keeper of the last hour,/
+count them a second time;/
+the tusk-host carries fire/
+to a hall that has its own.
+:::
 
-1 [at galmva gang myrva ut,]{lang=nord enc=nordthuravarkenc}
-2 [where the bend lets the marsh out,]{lang=en}
-2 [at galmva gang myrva ut,]{lang=nord}
-
-1 [ljarmi gang lang up vathra,]{lang=nord enc=nordthuravarkenc}
-2 [lamps go walking upriver,]{lang=en}
-2 [ljarmi gang lang up vathra,]{lang=nord}
-
-1 [noll ljarmri lurvi nifra.]{lang=nord enc=nordthuravarkenc}
-2 [no lamp-bearer under them.]{lang=en}
-2 [noll ljarmri lurvi nifra.]{lang=nord}
-
-1 [tavr thenva, vornri na lest vakt,]{lang=nord enc=nordthuravarkenc}
-2 [Count them, keeper of the last hour,]{lang=en}
-2 [tavr thenva, vornri na lest vakt,]{lang=nord}
-
-1 [tavr thenva staf tvei renma,]{lang=nord enc=nordthuravarkenc}
-2 [count them a second time;]{lang=en}
-2 [tavr thenva staf tvei renma,]{lang=nord}
-
-1 [hersalm na tuskma halv eldva]{lang=nord enc=nordthuravarkenc}
-2 [the tusk-host carries fire]{lang=en}
-2 [hersalm na tuskma halv eldva]{lang=nord}
-
-1 [tiv hollva heik miv eldva na sjel.]{lang=nord enc=nordthuravarkenc}
-2 [to a hall that has its own.]{lang=en}
-2 [tiv hollva heik miv eldva na sjel.]{lang=nord}
-```
+::: {.verse form=skaldic lang=nord enc=nordthuravarkenc work=lights}
+krast or hrimva na hrimthur,/
+at galmva gang myrva ut,/
+ljarmi gang lang up vathra,/
+noll ljarmri lurvi nifra./
+tavr thenva, vornri na lest vakt,/
+tavr thenva staf tvei renma,/
+hersalm na tuskma halv eldva/
+tiv hollva heik miv eldva na sjel.
+:::
 
 Nalthvir lit the _dresk_ himself. The fort's verse on the lighting is this one; the fort had it before the rest of the saga was made, and has only the half of it:
 
 : The beacon {#beacon}
 
-```verse {form=skaldic lang=en cols=2 numstep=5}
-1 [smul na svartbrandur gang up]{lang=nord enc=nordthuravarkenc}
-2 [Up went the [[lore-svartbrandurdty|Destroyer]]'s tongue]{lang=en}
-2 [smul na svartbrandur gang up]{lang=nord}
+::: {.verse form=skaldic lang=en work=beacon}
+Up went the [[lore-svartbrandurdty|Destroyer]]'s tongue/
+on Draskborg's tower-top;/
+down on [[lore-hrimthurspr|Hrimthur]]'s rime-road/
+the tusk-host's torches crawled.
+:::
 
-1 [or dresk na draskborg turnva,]{lang=nord enc=nordthuravarkenc}
-2 [on Draskborg's tower-top;]{lang=en}
-2 [or dresk na draskborg turnva,]{lang=nord}
-
-1 [nif or hrimveg na hrimthur]{lang=nord enc=nordthuravarkenc}
-2 [down on [[lore-hrimthurspr|Hrimthur]]'s rime-road]{lang=en}
-2 [nif or hrimveg na hrimthur]{lang=nord}
-
-1 [hersalm na tuskma, hlomi eldberi, krul.]{lang=nord enc=nordthuravarkenc}
-2 [the tusk-host's torches crawled.]{lang=en}
-2 [hersalm na tuskma, hlomi eldberi, krul.]{lang=nord}
-```
+::: {.verse form=skaldic lang=nord enc=nordthuravarkenc work=beacon}
+smul na svartbrandur gang up/
+or dresk na draskborg turnva,/
+nif or hrimveg na hrimthur/
+hersalm na tuskma, hlomi eldberi, krul.
+:::
 
 Then Nalthvir counted the men into the gate-rank. He put the ones who had stood a fight before in the front and the ones who had not behind them, and the count ran down the line as the watches had been set, so that Dvurnthann stood on Gnurthorv's left, under the edge of his shield, because that is where the count put him.
 
@@ -175,39 +147,27 @@ That night he was given the bench nearest the fire and could not be made to lie 
 
 : Gnurthorv at the gatepost {#gatepost}
 
-```verse {form=skaldic lang=en cols=2 numstep=5}
-1 [svul es smivma na frostlan]{lang=nord enc=nordthuravarkenc}
-2 [Cold is the frost-line's work]{lang=en}
-2 [svul es smivma na frostlan]{lang=nord}
+::: {.verse form=skaldic lang=en work=gatepost}
+Cold is the frost-line's work/
+along a man's left side;/
+I would say so of a stone,/
+and say less of myself./
+The small ones throw badly./
+The big ones stand back and shout./
+What chills me is the post/
+I lean on. It wants moving.
+:::
 
-1 [lang or lev siv na karnva,]{lang=nord enc=nordthuravarkenc}
-2 [along a man's left side;]{lang=en}
-2 [lang or lev siv na karnva,]{lang=nord}
-
-1 [ir mavra marl it na stevna,]{lang=nord enc=nordthuravarkenc}
-2 [I would say so of a stone,]{lang=en}
-2 [ir mavra marl it na stevna,]{lang=nord}
-
-1 [ok marl snem na mannva na ir.]{lang=nord enc=nordthuravarkenc}
-2 [and say less of myself.]{lang=en}
-2 [ok marl snem na mannva na ir.]{lang=nord}
-
-1 [smol skralt skadvi.]{lang=nord enc=nordthuravarkenc}
-2 [The small ones throw badly.]{lang=en}
-2 [smol skralt skadvi.]{lang=nord}
-
-1 [storg stann bak ok marl skrang.]{lang=nord enc=nordthuravarkenc}
-2 [The big ones stand back and shout.]{lang=en}
-2 [storg stann bak ok marl skrang.]{lang=nord}
-
-1 [grendvid smiv ir svul,]{lang=nord enc=nordthuravarkenc}
-2 [What chills me is the post]{lang=en}
-2 [grendvid smiv ir svul,]{lang=nord}
-
-1 [ir hallva or it. it tharf hratt rurna.]{lang=nord enc=nordthuravarkenc}
-2 [I lean on. It wants moving.]{lang=en}
-2 [ir hallva or it. it tharf hratt rurna.]{lang=nord}
-```
+::: {.verse form=skaldic lang=nord enc=nordthuravarkenc work=gatepost}
+svul es smivma na frostlan/
+lang or lev siv na karnva,/
+ir mavra marl it na stevna,/
+ok marl snem na mannva na ir./
+smol skralt skadvi./
+storg stann bak ok marl skrang./
+grendvid smiv ir svul,/
+ir hallva or it. it tharf hratt rurna.
+:::
 
 The men took that as it was meant and laughed, and Gnurthorv laughed with them, carefully.
 
@@ -215,77 +175,53 @@ The second day went as the first. The fort's verse on the gate is this one, with
 
 : The gate {#gate}
 
-```verse {form=skaldic lang=en cols=2 numstep=5}
-1 [thrin renma up rygva]{lang=nord enc=nordthuravarkenc}
-2 [Three times up the rise]{lang=en}
-2 [thrin renma up rygva]{lang=nord}
+::: {.verse form=skaldic lang=en work=gate}
+Three times up the rise/
+the river's guests came calling;/
+three times the rim-row/
+gave them the gate to look at./
+[…]/
+a shield-edge over a boy,/
+marsh-ash under the man's rim,/
+the gate's left post gone red.
+:::
 
-1 [vathra gesta komri kallar,]{lang=nord enc=nordthuravarkenc}
-2 [the river's guests came calling;]{lang=en}
-2 [vathra gesta komri kallar,]{lang=nord}
-
-1 [thrin renma randlanma]{lang=nord enc=nordthuravarkenc}
-2 [three times the rim-row]{lang=en}
-2 [thrin renma randlanma]{lang=nord}
-
-1 [nod thenva grend ok grendvid firn skensa.]{lang=nord enc=nordthuravarkenc}
-2 [gave them the gate to look at.]{lang=en}
-2 [nod thenva grend ok grendvid firn skensa.]{lang=nord}
-
-1 […]
-2 […]
-2 [\[…\]]{lang=zxx}
-
-1 [krast skeldrand hupra junva karnva,]{lang=nord enc=nordthuravarkenc}
-2 [a shield-edge over a boy,]{lang=en}
-2 [krast skeldrand hupra junva karnva,]{lang=nord}
-
-1 [myrask nifra randva na mannva,]{lang=nord enc=nordthuravarkenc}
-2 [marsh-ash under the man's rim,]{lang=en}
-2 [myrask nifra randva na mannva,]{lang=nord}
-
-1 [lev grendvid na grend vendri raudva.]{lang=nord enc=nordthuravarkenc}
-2 [the gate's left post gone red.]{lang=en}
-2 [lev grendvid na grend vendri raudva.]{lang=nord}
-```
+::: {.verse form=skaldic lang=nord enc=nordthuravarkenc work=gate}
+thrin renma up rygva/
+vathra gesta komri kallar,/
+thrin renma randlanma/
+nod thenva grend ok grendvid firn skensa./
+[\[…\]]{lang=zxx}/
+krast skeldrand hupra junva karnva,/
+myrask nifra randva na mannva,/
+lev grendvid na grend vendri raudva.
+:::
 
 On the third day the relief came over the ridge from Tvalgard, sixty men on skis with sledges behind them and the hersvald at the head, and the thin ones on the ice saw them before the men on the rise did. The Grukar went back down the river the way they had come. The fort's verse on the relief is this:
 
 : The relief {#relief}
 
-```verse {form=skaldic lang=en cols=2 numstep=5}
-1 [tvar rygva snelma, tiv solva,]{lang=nord enc=nordthuravarkenc}
-2 [Over the ridge-snow, sunward,]{lang=en}
-2 [tvar rygva snelma, tiv solva,]{lang=nord}
+::: {.verse form=skaldic lang=en work=relief}
+Over the ridge-snow, sunward,/
+the ski-host's spear-hedge showed;/
+the thin ones, the marsh-thinkers,/
+saw it first, and went./
+The gate was still a gate./
+The Destroyer's tongue was ash./
+Of forty men, nine/
+were carried, and one of them talked.
+:::
 
-1 [skilva hersalm geirvard skelra,]{lang=nord enc=nordthuravarkenc}
-2 [the ski-host's spear-hedge showed;]{lang=en}
-2 [skilva hersalm geirvard skelra,]{lang=nord}
-
-1 [snervi mannvar, myrva hugri,]{lang=nord enc=nordthuravarkenc}
-2 [the thin ones, the marsh-thinkers,]{lang=en}
-2 [snervi mannvar, myrva hugri,]{lang=nord}
-
-1 [sken it frorri ok farna.]{lang=nord enc=nordthuravarkenc}
-2 [saw it first, and went.]{lang=en}
-2 [sken it frorri ok farna.]{lang=nord}
-
-1 [grend es grend. grendvid stann.]{lang=nord enc=nordthuravarkenc}
-2 [The gate was still a gate.]{lang=en}
-2 [grend es grend. grendvid stann.]{lang=nord}
-
-1 [smul na svartbrandur es foskva.]{lang=nord enc=nordthuravarkenc}
-2 [The Destroyer's tongue was ash.]{lang=en}
-2 [smul na svartbrandur es foskva.]{lang=nord}
-
-1 [af fjorv dek fulliv niv]{lang=nord enc=nordthuravarkenc}
-2 [Of forty men, nine]{lang=en}
-2 [af fjorv dek fulliv niv]{lang=nord}
-
-1 [es bervna bak, ok eiv marl.]{lang=nord enc=nordthuravarkenc}
-2 [were carried, and one of them talked.]{lang=en}
-2 [es bervna bak, ok eiv marl.]{lang=nord}
-```
+::: {.verse form=skaldic lang=nord enc=nordthuravarkenc work=relief}
+tvar rygva snelma, tiv solva,/
+skilva hersalm geirvard skelra,/
+snervi mannvar, myrva hugri,/
+sken it frorri ok farna./
+grend es grend. grendvid stann./
+smul na svartbrandur es foskva./
+af fjorv dek fulliv niv/
+es bervna bak, ok eiv marl.
+:::
 
 ## The Road Home
 
@@ -323,39 +259,27 @@ At Somarmál the walk was made again. The witness for the landvordur was the sam
 
 : Dvurnthann at the fourth stone {#stone}
 
-```verse {form=skaldic lang=en cols=2 numstep=5}
-1 [at sta islos farna it, fast,]{lang=nord enc=nordthuravarkenc}
-2 [Where the thaw has left it]{lang=en}
-2 [at sta islos farna it, fast,]{lang=nord}
+::: {.verse form=skaldic lang=en work=stone}
+Where the thaw has left it/
+the giant's knuckle stands,/
+hay on either hand of it,/
+and whose, the stone will say./
+Read it, witness. Strike it./
+A shield stood at a door;/
+turf went up a ridge./
+A thing set down stays down.
+:::
 
-1 [hondknel na hrimthur stann,]{lang=nord enc=nordthuravarkenc}
-2 [the giant's knuckle stands,]{lang=en}
-2 [hondknel na hrimthur stann,]{lang=nord}
-
-1 [grasnemma groni or tvei siv,]{lang=nord enc=nordthuravarkenc}
-2 [hay on either hand of it,]{lang=en}
-2 [grasnemma groni or tvei siv,]{lang=nord}
-
-1 [ok stevna stanni marl na hverv.]{lang=nord enc=nordthuravarkenc}
-2 [and whose, the stone will say.]{lang=en}
-2 [ok stevna stanni marl na hverv.]{lang=nord}
-
-1 [lesna it, skenri‼ slak it sannri‼]{lang=nord enc=nordthuravarkenc}
-2 [Read it, witness. Strike it.]{lang=en}
-2 [lesna it, skenri‼ slak it sannri‼]{lang=nord}
-
-1 [skeldva stann at dverna, dulvi,]{lang=nord enc=nordthuravarkenc}
-2 [A shield stood at a door;]{lang=en}
-2 [skeldva stann at dverna, dulvi,]{lang=nord}
-
-1 [torva gang up rygva, rettlang.]{lang=nord enc=nordthuravarkenc}
-2 [turf went up a ridge.]{lang=en}
-2 [torva gang up rygva, rettlang.]{lang=nord}
-
-1 [dingi legva nif lagna nif.]{lang=nord enc=nordthuravarkenc}
-2 [A thing set down stays down.]{lang=en}
-2 [dingi legva nif lagna nif.]{lang=nord}
-```
+::: {.verse form=skaldic lang=nord enc=nordthuravarkenc work=stone}
+at sta islos farna it, fast,/
+hondknel na hrimthur stann,/
+grasnemma groni or tvei siv,/
+ok stevna stanni marl na hverv./
+lesna it, skenri‼ slak it sannri‼/
+skeldva stann at dverna, dulvi,/
+torva gang up rygva, rettlang./
+dingi legva nif lagna nif.
+:::
 
 The witness read the mark and struck the stone where it stood, and Gnarthann struck it, and Dvurnthann struck it. It stands there now. The line between the Gnurthendik and the Dvirnendik runs through it, and at every walk since it has been read as the fourth stone and struck where it stands, and no claim has been brought on it at any ting.
 

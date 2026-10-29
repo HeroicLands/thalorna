@@ -87,15 +87,16 @@ test("a speaker's words inside quotation marks pass", () => {
     assert.equal(found('"Fine," he says, and a Nordman will tell you otherwise.').length, 1);
 });
 
-test("frontmatter, code fences and verse blocks are not read", () => {
+test("frontmatter, code fences and verse divs are not read", () => {
     const shape = "The wall is old, and a Nordman will tell you so.";
     assert.deepEqual(found(`---\ndescription: ${shape}\n---\nplain`), []);
-    assert.deepEqual(found("```verse {form=praise}\n" + shape + "\n```\nplain"), []);
+    assert.deepEqual(found("::: {.verse form=praise}\n" + shape + "\n:::\nplain"), []);
+    assert.deepEqual(found(":::verse {form=praise}\n" + shape + "\n:::\nplain"), []);
     assert.deepEqual(found("```text\n" + shape + "\n```\nplain"), []);
     assert.deepEqual(found("~~~\n" + shape + "\n~~~\nplain"), []);
-    assert.deepEqual(found("---\ntitle: x\n---\n```verse\n" + shape + "\n```\n"), []);
+    assert.deepEqual(found("---\ntitle: x\n---\n::: {.verse}\n" + shape + "\n:::\n"), []);
     assert.deepEqual(
-        found("```verse\nverse\n```\n" + shape).map((f) => f.split(": ")[0]),
+        found("::: {.verse}\nverse\n:::\n" + shape).map((f) => f.split(": ")[0]),
         ["a.md:4:16"],
     );
 });

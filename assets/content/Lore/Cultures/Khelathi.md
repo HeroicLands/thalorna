@@ -68,184 +68,107 @@ data:
 
 _Phonetic transcription (unpointed plain-letter Khelathi; the carved sacred hand is preserved above)._
 
-```verse {form=memorial numstep=5 cols=2}
-1 [wanel qazlun lazen elu gar-au meqes ezu garel elu salet alget thalun qazul]{lang=khel}
-2 [Year one of Gar-Au Meqes, seventh of that name, alive, enduring, strong.]{lang=en}
-2 [wanel qazlun lazen elu gar-au meqes ezu garel elu salet alget thalun qazul]{lang=khel}
+::: {.verse form=memorial lang=en work=khelathi-1}
+Year one of Gar-Au Meqes, seventh of that name, alive, enduring, strong./
+Gar-Au Meqes, sixth of the name, has gone west: lord of river and both banks, Uqa'a's beloved, Uqa'a's fire upon the mound./
+He stood and received the crown, master of the count, his seal upon the storehouse, his grain borne by barges./
+The gods gave him life like the sun for all time./
+It was his twenty-seventh year./
+His account is read aloud.
 
-1 [yarul gar-au meqes ezu garel elu chun ez ithnar lemunar elu igelu ta galthar khul meral elu uqa'a thalu elu uqa'a az yathar]{lang=khel}
-2 [Gar-Au Meqes, sixth of the name, has gone west: lord of river and both banks, Uqa'a's beloved, Uqa'a's fire upon the mound.]{lang=en}
-2 [yarul gar-au meqes ezu garel elu chun ez ithnar lemunar elu igelu ta galthar khul meral elu uqa'a thalu elu uqa'a az yathar]{lang=khel}
+Uzn'era formed him in the womb, a child of Zu'Meku's house./
+He stood on the mound at Yath-Telgu./
+Uqa'a's priests crowned him and bestowed his name, Meqes./
+Every contract of the year receives its date under that name./
+Qe'aret placed truth in his mouth./
+Reth'Sa'ar entered his name in the house of writings./
+The gods bestowed life and dominion like the sun's.
 
-1 [tharel saru ta qamar saru qezthar wanel saru lemunar elu mazret wanel qathur elu saru az habtun tuqath qaltaru mazgar elu saru]{lang=khel}
-2 [He stood and received the crown, master of the count, his seal upon the storehouse, his grain borne by barges.]{lang=en}
-2 [tharel saru ta qamar saru qezthar wanel saru lemunar elu mazret wanel qathur elu saru az habtun tuqath qaltaru mazgar elu saru]{lang=khel}
+His Majesty Gar-Au Meqes descended, Uqa'a's beloved, lord of river and both banks./
+The gods gave him life like the sun for all time./
+He came against the hill people of the western margins./
+Chaq'ur's wrath went before him like a storm./
+He struck their leaders and seized their herds./
+He brought their princes back bound beneath his sandals./
+The margins belonged to the Gar-Au.
 
-1 [nelaz nelgiru algunet ez saru qel thelqen az kalet khez telnet]{lang=khel}
-2 [The gods gave him life like the sun for all time.]{lang=en}
-2 [nelaz nelgiru algunet ez saru qel thelqen az kalet khez telnet]{lang=khel}
+Gar-Au Meqes sailed against the northern sea's raiders, beloved of Uqa'a./
+The gods gave him life like the sun for all time./
+Uqa'a's fire went against their ships./
+The river lay peaceful./
+Barges ascended bearing gold, cedar, horses, and enslaved people./
+The river belonged to the Gar-Au.
 
-1 [wanel qazlun elu saru 27]{lang=khel}
-2 [It was his twenty-seventh year.]{lang=en}
-2 [wanel qazlun elu saru 27]{lang=khel}
+Gar-Au Meqes rode out, Uqa'a's beloved, lord of river and both banks, against lions and river-horses./
+They had damaged herds and fields./
+The captured beasts were counted./
+During low-river years he opened the god's storehouses beneath his seal./
+He had filled them in flood years./
+None of his people went hungry.
 
-1 [zethul zethular halzi elu saru]{lang=khel}
-2 [His account is read aloud.]{lang=en}
-2 [zethul zethular halzi elu saru]{lang=khel}
+Gar-Au Meqes, beloved of Uqa'a, rebuilt Uqa'a's house./
+He gave it golden altars and endowed it with fields and herds./
+At Zu-Gezer he raised his Way at the death-road's head./
+Uqa'a speaks: fire on the earliest ground, lord of dry ink, ascending the road./
+My beloved son, I give you every land./
+Every foreign country bows beneath your sandals./
+I give you the sun's years upon the mound's throne./
+Before the gods his tablets rested level on the weighing beam./
+His debts were closed, leaving nothing./
+Claims owed him remained open./
+He descended as a creditor.
+:::
 
-***
-1 [temal uzn'era saru ezu melqar wanel saru malen elu zu'meku]{lang=khel}
-2 [Uzn'era formed him in the womb, a child of Zu'Meku's house.]{lang=en}
-2 [temal uzn'era saru ezu melqar wanel saru malen elu zu'meku]{lang=khel}
+::: {.verse form=memorial lang=khel work=khelathi-1}
+wanel qazlun lazen elu gar-au meqes ezu garel elu salet alget thalun qazul/
+yarul gar-au meqes ezu garel elu chun ez ithnar lemunar elu igelu ta galthar khul meral elu uqa'a thalu elu uqa'a az yathar/
+tharel saru ta qamar saru qezthar wanel saru lemunar elu mazret wanel qathur elu saru az habtun tuqath qaltaru mazgar elu saru/
+nelaz nelgiru algunet ez saru qel thelqen az kalet khez telnet/
+wanel qazlun elu saru 27/
+zethul zethular halzi elu saru
 
-1 [tharel saru az yathar az yath-telgu]{lang=khel}
-2 [He stood on the mound at Yath-Telgu.]{lang=en}
-2 [tharel saru az yathar az yath-telgu]{lang=khel}
+temal uzn'era saru ezu melqar wanel saru malen elu zu'meku/
+tharel saru az yathar az yath-telgu/
+qalath lem'nelgir elu uqa'a qezthar az saru ta nelaz naru rethan meqes ez saru/
+zethal zethu qelqet temun elu kalzet ezu rethan eqar/
+qalath qe'aret qenat ezu lamur elu saru/
+zethal reth'sa'ar rethan elu saru ezu galar elu zethu/
+nelaz nelgiru algunet ta laqethet ez saru qel thelqen
 
-1 [qalath lem'nelgir elu uqa'a qezthar az saru ta nelaz naru rethan meqes ez saru]{lang=khel}
-2 [Uqa'a's priests crowned him and bestowed his name, Meqes.]{lang=en}
-2 [qalath lem'nelgir elu uqa'a qezthar az saru ta nelaz naru rethan meqes ez saru]{lang=khel}
+yaler nizar gar-au meqes meral elu uqa'a lemunar elu igelu ta galthar khul/
+nelaz nelgiru algunet ez saru qel thelqen az kalet khez telnet/
+yarul saru ez genar elu qedgel elu qelzar elu ithnar/
+qamar chaq'ur khazmer zamar saru qel khalzar/
+qezir saru laqethar elu naru ta lamath saru malqar elu naru/
+tuqel saru zabu elu naru qeltheth nizar pedil elu saru/
+qamarun qelzar ez gar-au
 
-1 [zethal zethu qelqet temun elu kalzet ezu rethan eqar]{lang=khel}
-2 [Every contract of the year receives its date under that name.]{lang=en}
-2 [zethal zethu qelqet temun elu kalzet ezu rethan eqar]{lang=khel}
+qelzun gar-au meqes meral elu uqa'a ez qezetar elu qelmu elu miglar/
+nelaz nelgiru algunet ez saru qel thelqen az kalet khez telnet/
+yarul thalu elu uqa'a ez qaltar elu naru/
+wanel igelu ezu leget/
+yaler qaltaru zar ta qenuwa ta selqet ta tulqat ta genar qamur/
+qamarun igelu ez gar-au
 
-1 [qalath qe'aret qenat ezu lamur elu saru]{lang=khel}
-2 [Qe'aret placed truth in his mouth.]{lang=en}
-2 [qalath qe'aret qenat ezu lamur elu saru]{lang=khel}
+yarul gar-au meqes meral elu uqa'a lemunar elu igelu ta galthar khul ez qarnu ta igelzut/
+hazath naru malqar ta zegaru/
+mazath mazelar ternu elu lamnet/
+ezu kalzet elu igelu qezil galuth saru habtun elu nelgir nuqar qathur elu saru/
+qelthat saru naru ezu kalzet elu azlet/
+khez khanar genar elu saru
 
-1 [zethal reth'sa'ar rethan elu saru ezu galar elu zethu]{lang=khel}
-2 [Reth'Sa'ar entered his name in the house of writings.]{lang=en}
-2 [zethal reth'sa'ar rethan elu saru ezu galar elu zethu]{lang=khel}
-
-1 [nelaz nelgiru algunet ta laqethet ez saru qel thelqen]{lang=khel}
-2 [The gods bestowed life and dominion like the sun's.]{lang=en}
-2 [nelaz nelgiru algunet ta laqethet ez saru qel thelqen]{lang=khel}
-
-***
-1 [yaler nizar gar-au meqes meral elu uqa'a lemunar elu igelu ta galthar khul]{lang=khel}
-2 [His Majesty Gar-Au Meqes descended, Uqa'a's beloved, lord of river and both banks.]{lang=en}
-2 [yaler nizar gar-au meqes meral elu uqa'a lemunar elu igelu ta galthar khul]{lang=khel}
-
-1 [nelaz nelgiru algunet ez saru qel thelqen az kalet khez telnet]{lang=khel}
-2 [The gods gave him life like the sun for all time.]{lang=en}
-2 [nelaz nelgiru algunet ez saru qel thelqen az kalet khez telnet]{lang=khel}
-
-1 [yarul saru ez genar elu qedgel elu qelzar elu ithnar]{lang=khel}
-2 [He came against the hill people of the western margins.]{lang=en}
-2 [yarul saru ez genar elu qedgel elu qelzar elu ithnar]{lang=khel}
-
-1 [qamar chaq'ur khazmer zamar saru qel khalzar]{lang=khel}
-2 [Chaq'ur's wrath went before him like a storm.]{lang=en}
-2 [qamar chaq'ur khazmer zamar saru qel khalzar]{lang=khel}
-
-1 [qezir saru laqethar elu naru ta lamath saru malqar elu naru]{lang=khel}
-2 [He struck their leaders and seized their herds.]{lang=en}
-2 [qezir saru laqethar elu naru ta lamath saru malqar elu naru]{lang=khel}
-
-1 [tuqel saru zabu elu naru qeltheth nizar pedil elu saru]{lang=khel}
-2 [He brought their princes back bound beneath his sandals.]{lang=en}
-2 [tuqel saru zabu elu naru qeltheth nizar pedil elu saru]{lang=khel}
-
-1 [qamarun qelzar ez gar-au]{lang=khel}
-2 [The margins belonged to the Gar-Au.]{lang=en}
-2 [qamarun qelzar ez gar-au]{lang=khel}
-
-***
-1 [qelzun gar-au meqes meral elu uqa'a ez qezetar elu qelmu elu miglar]{lang=khel}
-2 [Gar-Au Meqes sailed against the northern sea's raiders, beloved of Uqa'a.]{lang=en}
-2 [qelzun gar-au meqes meral elu uqa'a ez qezetar elu qelmu elu miglar]{lang=khel}
-
-1 [nelaz nelgiru algunet ez saru qel thelqen az kalet khez telnet]{lang=khel}
-2 [The gods gave him life like the sun for all time.]{lang=en}
-2 [nelaz nelgiru algunet ez saru qel thelqen az kalet khez telnet]{lang=khel}
-
-1 [yarul thalu elu uqa'a ez qaltar elu naru]{lang=khel}
-2 [Uqa'a's fire went against their ships.]{lang=en}
-2 [yarul thalu elu uqa'a ez qaltar elu naru]{lang=khel}
-
-1 [wanel igelu ezu leget]{lang=khel}
-2 [The river lay peaceful.]{lang=en}
-2 [wanel igelu ezu leget]{lang=khel}
-
-1 [yaler qaltaru zar ta qenuwa ta selqet ta tulqat ta genar qamur]{lang=khel}
-2 [Barges ascended bearing gold, cedar, horses, and enslaved people.]{lang=en}
-2 [yaler qaltaru zar ta qenuwa ta selqet ta tulqat ta genar qamur]{lang=khel}
-
-1 [qamarun igelu ez gar-au]{lang=khel}
-2 [The river belonged to the Gar-Au.]{lang=en}
-2 [qamarun igelu ez gar-au]{lang=khel}
-
-***
-1 [yarul gar-au meqes meral elu uqa'a lemunar elu igelu ta galthar khul ez qarnu ta igelzut]{lang=khel}
-2 [Gar-Au Meqes rode out, Uqa'a's beloved, lord of river and both banks, against lions and river-horses.]{lang=en}
-2 [yarul gar-au meqes meral elu uqa'a lemunar elu igelu ta galthar khul ez qarnu ta igelzut]{lang=khel}
-
-1 [hazath naru malqar ta zegaru]{lang=khel}
-2 [They had damaged herds and fields.]{lang=en}
-2 [hazath naru malqar ta zegaru]{lang=khel}
-
-1 [mazath mazelar ternu elu lamnet]{lang=khel}
-2 [The captured beasts were counted.]{lang=en}
-2 [mazath mazelar ternu elu lamnet]{lang=khel}
-
-1 [ezu kalzet elu igelu qezil galuth saru habtun elu nelgir nuqar qathur elu saru]{lang=khel}
-2 [During low-river years he opened the god's storehouses beneath his seal.]{lang=en}
-2 [ezu kalzet elu igelu qezil galuth saru habtun elu nelgir nuqar qathur elu saru]{lang=khel}
-
-1 [qelthat saru naru ezu kalzet elu azlet]{lang=khel}
-2 [He had filled them in flood years.]{lang=en}
-2 [qelthat saru naru ezu kalzet elu azlet]{lang=khel}
-
-1 [khez khanar genar elu saru]{lang=khel}
-2 [None of his people went hungry.]{lang=en}
-2 [khez khanar genar elu saru]{lang=khel}
-
-***
-1 [muzan gar-au meqes meral elu uqa'a galar elu uqa'a yalret]{lang=khel}
-2 [Gar-Au Meqes, beloved of Uqa'a, rebuilt Uqa'a's house.]{lang=en}
-2 [muzan gar-au meqes meral elu uqa'a galar elu uqa'a yalret]{lang=khel}
-
-1 [nelaz saru qelnet elu qenuwa ez qu ta qamret elu zegaru ta malqar]{lang=khel}
-2 [He gave it golden altars and endowed it with fields and herds.]{lang=en}
-2 [nelaz saru qelnet elu qenuwa ez qu ta qamret elu zegaru ta malqar]{lang=khel}
-
-1 [muzan saru khalnet elu saru az zamar elu hodir elu wathet az zu-gezer]{lang=khel}
-2 [At Zu-Gezer he raised his Way at the death-road's head.]{lang=en}
-2 [muzan saru khalnet elu saru az zamar elu hodir elu wathet az zu-gezer]{lang=khel}
-
-1 [razel uqa'a thalu az gharen lazret lemunar elu zethqur qezlet yaler saru zar ezu hodir]{lang=khel}
-2 [Uqa'a speaks: fire on the earliest ground, lord of dry ink, ascending the road.]{lang=en}
-2 [razel uqa'a thalu az gharen lazret lemunar elu zethqur qezlet yaler saru zar ezu hodir]{lang=khel}
-
-1 [malen qarenar meral elu nazu nelaz nazu gharen temun ez telu]{lang=khel}
-2 [My beloved son, I give you every land.]{lang=en}
-2 [malen qarenar meral elu nazu nelaz nazu gharen temun ez telu]{lang=khel}
-
-1 [wanel gharen elu genar leqar nizar pedil elu telu]{lang=khel}
-2 [Every foreign country bows beneath your sandals.]{lang=en}
-2 [wanel gharen elu genar leqar nizar pedil elu telu]{lang=khel}
-
-1 [nelaz nazu kalzet elu thelqen ez telu az galmar elu yathar]{lang=khel}
-2 [I give you the sun's years upon the mound's throne.]{lang=en}
-2 [nelaz nazu kalzet elu thelqen ez telu az galmar elu yathar]{lang=khel}
-
-1 [wanel zethqen qemlun az halzathal zamar nelgiru]{lang=khel}
-2 [Before the gods his tablets rested level on the weighing beam.]{lang=en}
-2 [wanel zethqen qemlun az halzathal zamar nelgiru]{lang=khel}
-
-1 [galet zeqat elu saru ta khez thalel temun]{lang=khel}
-2 [His debts were closed, leaving nothing.]{lang=en}
-2 [galet zeqat elu saru ta khez thalel temun]{lang=khel}
-
-1 [galut zeqat ez saru]{lang=khel}
-2 [Claims owed him remained open.]{lang=en}
-2 [galut zeqat ez saru]{lang=khel}
-
-1 [yarul saru nizar zeqatar]{lang=khel}
-2 [He descended as a creditor.]{lang=en}
-2 [yarul saru nizar zeqatar]{lang=khel}
-```
+muzan gar-au meqes meral elu uqa'a galar elu uqa'a yalret/
+nelaz saru qelnet elu qenuwa ez qu ta qamret elu zegaru ta malqar/
+muzan saru khalnet elu saru az zamar elu hodir elu wathet az zu-gezer/
+razel uqa'a thalu az gharen lazret lemunar elu zethqur qezlet yaler saru zar ezu hodir/
+malen qarenar meral elu nazu nelaz nazu gharen temun ez telu/
+wanel gharen elu genar leqar nizar pedil elu telu/
+nelaz nazu kalzet elu thelqen ez telu az galmar elu yathar/
+wanel zethqen qemlun az halzathal zamar nelgiru/
+galet zeqat elu saru ta khez thalel temun/
+galut zeqat ez saru/
+yarul saru nizar zeqatar
+:::
 
 The **Khelathi** hold that theirs is the oldest civilization in the world, and the temple king-lists count 2,830 years back to the first [[lore-garauu|Gar-Au]] in unbroken sequence. Three facts shape a life in the valley: the river comes and goes on a schedule a farmer can name to the day, the house holds the land and answers at law for everyone attached to it, and the heart is weighed at the end before a court no one has ever bribed.
 
@@ -385,31 +308,23 @@ Two decisions are made aloud at a Closing and the household hears both. The dyin
 
 : The Asking
 
-```verse {form=litany numstep=5 cols=2}
-1 [tharel telu zeqatar elu genar wathet ta razal nazun telu.]{lang=khel enc=khelqalezuenc}
-2 [Stand, creditor of the dead, and hear our question.]{lang=en}
-2 [tharel telu zeqatar elu genar wathet ta razal nazun telu.]{lang=khel}
+::: {.verse form=litany lang=en work=khelathi-2}
+Stand, creditor of the dead, and hear our question./
+Will you say, I need nothing further? The scribe enters it./
+Will you refuse? Refusal is lawful, and the scribe enters it./
+Your refusal takes nothing from you. It enters the record./
+Your assent gives up the debt. We remember your name./
+..Open or shut, according to your words.
+:::
 
-1 [qe razel telu khez tamral nazu tazir. zethal zethu eqar.]{lang=khel enc=khelqalezuenc}
-2 [Will you say, I need nothing further? The scribe enters it.]{lang=en}
-2 [qe razel telu khez tamral nazu tazir. zethal zethu eqar.]{lang=khel}
-
-1 [qe razel telu khe. wanel eqar lemet ta zethal zethu eqar.]{lang=khel enc=khelqalezuenc}
-2 [Will you refuse? Refusal is lawful, and the scribe enters it.]{lang=en}
-2 [qe razel telu khe. wanel eqar lemet ta zethal zethu eqar.]{lang=khel}
-
-1 [khez zerath telu temun qaral khe elu telu. wanel khe elu telu ezu zethu.]{lang=khel enc=khelqalezuenc}
-2 [Your refusal takes nothing from you. It enters the record.]{lang=en}
-2 [khez zerath telu temun qaral khe elu telu. wanel khe elu telu ezu zethu.]{lang=khel}
-
-1 [zerath telu zeqat qaral enu elu telu. rethur nazun rethan elu telu.]{lang=khel enc=khelqalezuenc}
-2 [Your assent gives up the debt. We remember your name.]{lang=en}
-2 [zerath telu zeqat qaral enu elu telu. rethur nazun rethan elu telu.]{lang=khel}
-
-1 [..galut lu galet qel razel telu·]{lang=khel enc=khelqalezuenc}
-2 [..Open or shut, according to your words.]{lang=en}
-2 [..galut lu galet qel razel telu·]{lang=khel}
-```
+::: {.verse form=litany lang=khel enc=khelqalezuenc work=khelathi-2}
+tharel telu zeqatar elu genar wathet ta razal nazun telu./
+qe razel telu khez tamral nazu tazir. zethal zethu eqar./
+qe razel telu khe. wanel eqar lemet ta zethal zethu eqar./
+khez zerath telu temun qaral khe elu telu. wanel khe elu telu ezu zethu./
+zerath telu zeqat qaral enu elu telu. rethur nazun rethan elu telu./
+..galut lu galet qel razel telu·
+:::
 
 ## When a Person Cannot Close
 

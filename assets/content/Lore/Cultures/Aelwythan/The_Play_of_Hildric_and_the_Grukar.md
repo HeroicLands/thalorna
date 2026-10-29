@@ -42,55 +42,35 @@ Old Tally.
 
 : Old Tally Calls for Room {#tally-room}
 
-```verse {form=mummers-play numstep=5 cols=2}
-1 [Room. room. good people. give us room to play.]{enc=aelwsemaronenc lang=aelw}
-2 [Room, room, good people, give us room to play!]{lang=en}
-2 [Room. room. good people. give us room to play.]{lang=aelw}
+::: {.verse form=mummers-play lang=en work=tally-room}
+Room, room, good people, give us room to play!/
+We have come down out of the march today;/
+We drove the beasts, we paid the bridge its toll,/
+And now we will play, if you will fill the bowl./
+This is the fair when a man may lawfully stray/
+Far from his manor, and nobody forbids him;/
+So stand back, and you will see one as bold/
+As anyone who ever drove a castrated male sheep into the pen./
+I am Old Tally, who keeps the score,/
+A notch for every beast, and one notch more:/
+Step in, Hildrik, let yourself be seen,/
+And tell the yard what you are, and have been.
+:::
 
-1 [We ben kome down out of the march today.]{enc=aelwsemaronenc lang=aelw}
-2 [We have come down out of the march today;]{lang=en}
-2 [We ben kome down out of the march today.]{lang=aelw}
-
-1 [We drove the beasts. we paid the bridge his toll.]{enc=aelwsemaronenc lang=aelw}
-2 [We drove the beasts, we paid the bridge its toll,]{lang=en}
-2 [We drove the beasts. we paid the bridge his toll.]{lang=aelw}
-
-1 [And we will play. an ye will fill the bowl.]{enc=aelwsemaronenc lang=aelw}
-2 [And now we will play, if you will fill the bowl.]{lang=en}
-2 [And we will play. an ye will fill the bowl.]{lang=aelw}
-
-1 [This is the fair a man may lawful stray]{enc=aelwsemaronenc lang=aelw}
-2 [This is the fair when a man may lawfully stray]{lang=en}
-2 [This is the fair a man may lawful stray]{lang=aelw}
-
-1 [Far from his manor. and none saith him nay.]{enc=aelwsemaronenc lang=aelw}
-2 [Far from his manor, and nobody forbids him;]{lang=en}
-2 [Far from his manor. and none saith him nay.]{lang=aelw}
-
-1 [So stand ye bak. and ye shall see one bold]{enc=aelwsemaronenc lang=aelw}
-2 [So stand back, and you will see one as bold]{lang=en}
-2 [So stand ye bak. and ye shall see one bold]{lang=aelw}
-
-1 [As ever drove a wether to the fold.]{enc=aelwsemaronenc lang=aelw}
-2 [As anyone who ever drove a castrated male sheep into the pen.]{lang=en}
-2 [As ever drove a wether to the fold.]{lang=aelw}
-
-1 [I am Old Tally. that do keep the skore.]{enc=aelwsemaronenc lang=aelw}
-2 [I am Old Tally, who keeps the score,]{lang=en}
-2 [I am Old Tally. that do keep the skore.]{lang=aelw}
-
-1 [A notch for every beast. and one notch more.]{enc=aelwsemaronenc lang=aelw}
-2 [A notch for every beast, and one notch more:]{lang=en}
-2 [A notch for every beast. and one notch more.]{lang=aelw}
-
-1 [Step in. thou Hildrik. let thyself be seen.]{enc=aelwsemaronenc lang=aelw}
-2 [Step in, Hildrik, let yourself be seen,]{lang=en}
-2 [Step in. thou Hildrik. let thyself be seen.]{lang=aelw}
-
-1 [And tell the yard what thou art. and hast been.]{enc=aelwsemaronenc lang=aelw}
-2 [And tell the yard what you are, and have been.]{lang=en}
-2 [And tell the yard what thou art. and hast been.]{lang=aelw}
-```
+::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=tally-room}
+Room. room. good people. give us room to play./
+We ben kome down out of the march today./
+We drove the beasts. we paid the bridge his toll./
+And we will play. an ye will fill the bowl./
+This is the fair a man may lawful stray/
+Far from his manor. and none saith him nay./
+So stand ye bak. and ye shall see one bold/
+As ever drove a wether to the fold./
+I am Old Tally. that do keep the skore./
+A notch for every beast. and one notch more./
+Step in. thou Hildrik. let thyself be seen./
+And tell the yard what thou art. and hast been.
+:::
 
 ::: {lang=aelw font=serif}
 
@@ -102,39 +82,27 @@ Hildrik.
 
 : Hildrik's Boast {#hildrik-boast}
 
-```verse {form=mummers-play numstep=5 cols=2}
-1 [Here kome I. Hildrik. of the Wyndmarch bred.]{enc=aelwsemaronenc lang=aelw}
-2 [Here I come, Hildrik, raised in the Wyndmarch,]{lang=en}
-2 [Here kome I. Hildrik. of the Wyndmarch bred.]{lang=aelw}
+::: {.verse form=mummers-play lang=en work=hildrik-boast}
+Here I come, Hildrik, raised in the Wyndmarch,/
+Who stands between the forest and your bread./
+Wherever the forest meets the field,/
+There I have stood, with my hook-bladed weapon and shield;/
+Wherever the farmsteads burned, there I have stood,/
+And I have never retreated from the wood./
+Show me the beast that dares to order me to stop,/
+And I will cut him down with this right hand.
+:::
 
-1 [That stand betwikst the forest and your bread.]{enc=aelwsemaronenc lang=aelw}
-2 [Who stands between the forest and your bread.]{lang=en}
-2 [That stand betwikst the forest and your bread.]{lang=aelw}
-
-1 [Wherever forest meeteth with the field.]{enc=aelwsemaronenc lang=aelw}
-2 [Wherever the forest meets the field,]{lang=en}
-2 [Wherever forest meeteth with the field.]{lang=aelw}
-
-1 [There have I stood. with this my bill and shield.]{enc=aelwsemaronenc lang=aelw}
-2 [There I have stood, with my hook-bladed weapon and shield;]{lang=en}
-2 [There have I stood. with this my bill and shield.]{lang=aelw}
-
-1 [Wherever steadings burned. there I have stood.]{enc=aelwsemaronenc lang=aelw}
-2 [Wherever the farmsteads burned, there I have stood,]{lang=en}
-2 [Wherever steadings burned. there I have stood.]{lang=aelw}
-
-1 [And never yet went bakward from the wood.]{enc=aelwsemaronenc lang=aelw}
-2 [And I have never retreated from the wood.]{lang=en}
-2 [And never yet went bakward from the wood.]{lang=aelw}
-
-1 [Show me the beast that dareth bid me stand.]{enc=aelwsemaronenc lang=aelw}
-2 [Show me the beast that dares to order me to stop,]{lang=en}
-2 [Show me the beast that dareth bid me stand.]{lang=aelw}
-
-1 [And I will hew him down with this right hand.]{enc=aelwsemaronenc lang=aelw}
-2 [And I will cut him down with this right hand.]{lang=en}
-2 [And I will hew him down with this right hand.]{lang=aelw}
-```
+::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=hildrik-boast}
+Here kome I. Hildrik. of the Wyndmarch bred./
+That stand betwikst the forest and your bread./
+Wherever forest meeteth with the field./
+There have I stood. with this my bill and shield./
+Wherever steadings burned. there I have stood./
+And never yet went bakward from the wood./
+Show me the beast that dareth bid me stand./
+And I will hew him down with this right hand.
+:::
 
 ::: {lang=aelw font=serif}
 
@@ -150,31 +118,23 @@ The Grukar.
 
 : The Grukar's Boast {#grukar-boast}
 
-```verse {form=mummers-play numstep=5 cols=2}
-1 [Here kome I. out of the forest dun.]{enc=aelwsemaronenc lang=aelw}
-2 [Here I come, out of the dark brown forest,]{lang=en}
-2 [Here kome I. out of the forest dun.]{lang=aelw}
+::: {.verse form=mummers-play lang=en work=grukar-boast}
+Here I come, out of the dark brown forest,/
+An Ahk of the Grukar, and I fear no one./
+Rats in your granary, so you say?/
+Why, then I am the rat that came to stay./
+I have twenty sons, and even more daughters,/
+And every one will scratch upon your door.
+:::
 
-1 [An Ahk of the Grukar. and I fear none.]{enc=aelwsemaronenc lang=aelw}
-2 [An Ahk of the Grukar, and I fear no one.]{lang=en}
-2 [An Ahk of the Grukar. and I fear none.]{lang=aelw}
-
-1 [Rats in thy granary. Dost thou so say.]{enc=aelwsemaronenc lang=aelw}
-2 [Rats in your granary, so you say?]{lang=en}
-2 [Rats in thy granary. Dost thou so say.]{lang=aelw}
-
-1 [Why. then I am the rat that kame to stay.]{enc=aelwsemaronenc lang=aelw}
-2 [Why, then I am the rat that came to stay.]{lang=en}
-2 [Why. then I am the rat that kame to stay.]{lang=aelw}
-
-1 [My sons ben twenty. and my daughters more.]{enc=aelwsemaronenc lang=aelw}
-2 [I have twenty sons, and even more daughters,]{lang=en}
-2 [My sons ben twenty. and my daughters more.]{lang=aelw}
-
-1 [And every one shall skratch upon thy door.]{enc=aelwsemaronenc lang=aelw}
-2 [And every one will scratch upon your door.]{lang=en}
-2 [And every one shall skratch upon thy door.]{lang=aelw}
-```
+::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=grukar-boast}
+Here kome I. out of the forest dun./
+An Ahk of the Grukar. and I fear none./
+Rats in thy granary. Dost thou so say./
+Why. then I am the rat that kame to stay./
+My sons ben twenty. and my daughters more./
+And every one shall skratch upon thy door.
+:::
 
 ::: {lang=aelw font=serif}
 
@@ -184,11 +144,13 @@ Hildrik.
 
 : Hildrik Counts the Slain {#hildrik-slain}
 
-```verse {form=mummers-play numstep=5 cols=2}
-1 [I have slain thine. a hundred in a year.]{enc=aelwsemaronenc lang=aelw}
-2 [I have killed a hundred of yours in a year.]{lang=en}
-2 [I have slain thine. a hundred in a year.]{lang=aelw}
-```
+::: {.verse form=mummers-play lang=en work=hildrik-slain}
+I have killed a hundred of yours in a year.
+:::
+
+::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=hildrik-slain}
+I have slain thine. a hundred in a year.
+:::
 
 ::: {lang=aelw font=serif}
 
@@ -198,11 +160,13 @@ The Grukar.
 
 : The Grukar Counts His Brood {#grukar-brood}
 
-```verse {form=mummers-play numstep=5 cols=2}
-1 [And I have bred two hundred. never fear.]{enc=aelwsemaronenc lang=aelw}
-2 [And I have bred two hundred, do not worry.]{lang=en}
-2 [And I have bred two hundred. never fear.]{lang=aelw}
-```
+::: {.verse form=mummers-play lang=en work=grukar-brood}
+And I have bred two hundred, do not worry.
+:::
+
+::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=grukar-brood}
+And I have bred two hundred. never fear.
+:::
 
 ::: {lang=aelw font=serif}
 
@@ -212,11 +176,13 @@ Hildrik.
 
 : Hildrik's Threat {#hildrik-threat}
 
-```verse {form=mummers-play numstep=5 cols=2}
-1 [I will burn thy den. drive thee to the fells.]{enc=aelwsemaronenc lang=aelw}
-2 [I will burn your den, and drive you to the fells.]{lang=en}
-2 [I will burn thy den. drive thee to the fells.]{lang=aelw}
-```
+::: {.verse form=mummers-play lang=en work=hildrik-threat}
+I will burn your den, and drive you to the fells.
+:::
+
+::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=hildrik-threat}
+I will burn thy den. drive thee to the fells.
+:::
 
 ::: {lang=aelw font=serif}
 
@@ -226,19 +192,17 @@ The Grukar.
 
 : The Grukar's Lands {#grukar-lands}
 
-```verse {form=mummers-play numstep=5 cols=2}
-1 [The fells ben mine. with all the moorland swells]{enc=aelwsemaronenc lang=aelw}
-2 [The fells are mine, and all the rolling moorland]{lang=en}
-2 [The fells ben mine. with all the moorland swells]{lang=aelw}
+::: {.verse form=mummers-play lang=en work=grukar-lands}
+The fells are mine, and all the rolling moorland/
+Beyond them, and the bottomless bog,/
+And every wood your plough has ever passed.
+:::
 
-1 [Beyond them. and the bog that hath no floor.]{enc=aelwsemaronenc lang=aelw}
-2 [Beyond them, and the bottomless bog,]{lang=en}
-2 [Beyond them. and the bog that hath no floor.]{lang=aelw}
-
-1 [And every wood thy plough hath passed before.]{enc=aelwsemaronenc lang=aelw}
-2 [And every wood your plough has ever passed.]{lang=en}
-2 [And every wood thy plough hath passed before.]{lang=aelw}
-```
+::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=grukar-lands}
+The fells ben mine. with all the moorland swells/
+Beyond them. and the bog that hath no floor./
+And every wood thy plough hath passed before.
+:::
 
 ::: {lang=aelw font=serif}
 
@@ -248,11 +212,13 @@ Hildrik.
 
 : Hildrik Calls the King {#hildrik-king}
 
-```verse {form=mummers-play numstep=5 cols=2}
-1 [The king shall kome against thee with his host.]{enc=aelwsemaronenc lang=aelw}
-2 [The king will march against you with his army.]{lang=en}
-2 [The king shall kome against thee with his host.]{lang=aelw}
-```
+::: {.verse form=mummers-play lang=en work=hildrik-king}
+The king will march against you with his army.
+:::
+
+::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=hildrik-king}
+The king shall kome against thee with his host.
+:::
 
 ::: {lang=aelw font=serif}
 
@@ -262,27 +228,21 @@ The Grukar.
 
 : The Twelve Campaigns {#twelve-campaigns}
 
-```verse {form=mummers-play numstep=5 cols=2}
-1 [Thy king hath kome. and made a mighty boast.]{enc=aelwsemaronenc lang=aelw}
-2 [Your king has come, and made a mighty boast,]{lang=en}
-2 [Thy king hath kome. and made a mighty boast.]{lang=aelw}
+::: {.verse form=mummers-play lang=en work=twelve-campaigns}
+Your king has come, and made a mighty boast,/
+And come twelve times against me to make war,/
+With drum and banner, horsemen and infantry and more;/
+Twelve times he won, so his record says,/
+And twelve times I was here the following day.
+:::
 
-1 [And kome twelve times against me to make war.]{enc=aelwsemaronenc lang=aelw}
-2 [And come twelve times against me to make war,]{lang=en}
-2 [And kome twelve times against me to make war.]{lang=aelw}
-
-1 [With drum and banner. horse and foot and more.]{enc=aelwsemaronenc lang=aelw}
-2 [With drum and banner, horsemen and infantry and more;]{lang=en}
-2 [With drum and banner. horse and foot and more.]{lang=aelw}
-
-1 [Twelve times he won. so doth his rekord say.]{enc=aelwsemaronenc lang=aelw}
-2 [Twelve times he won, so his record says,]{lang=en}
-2 [Twelve times he won. so doth his rekord say.]{lang=aelw}
-
-1 [And twelve times I was here the following day.]{enc=aelwsemaronenc lang=aelw}
-2 [And twelve times I was here the following day.]{lang=en}
-2 [And twelve times I was here the following day.]{lang=aelw}
-```
+::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=twelve-campaigns}
+Thy king hath kome. and made a mighty boast./
+And kome twelve times against me to make war./
+With drum and banner. horse and foot and more./
+Twelve times he won. so doth his rekord say./
+And twelve times I was here the following day.
+:::
 
 ::: {lang=aelw font=serif}
 
@@ -292,11 +252,13 @@ Hildrik.
 
 : Hildrik's Challenge {#hildrik-challenge}
 
-```verse {form=mummers-play numstep=5 cols=2}
-1 [Then I will do what twelve kings kould not do.]{enc=aelwsemaronenc lang=aelw}
-2 [Then I will do what twelve kings could not do.]{lang=en}
-2 [Then I will do what twelve kings kould not do.]{lang=aelw}
-```
+::: {.verse form=mummers-play lang=en work=hildrik-challenge}
+Then I will do what twelve kings could not do.
+:::
+
+::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=hildrik-challenge}
+Then I will do what twelve kings kould not do.
+:::
 
 ::: {lang=aelw font=serif}
 
@@ -306,11 +268,13 @@ The Grukar.
 
 : The Grukar's Challenge {#grukar-challenge}
 
-```verse {form=mummers-play numstep=5 cols=2}
-1 [Kome on. thou champion. I will run thee through.]{enc=aelwsemaronenc lang=aelw}
-2 [Come on, then, champion, and I will run you through.]{lang=en}
-2 [Kome on. thou champion. I will run thee through.]{lang=aelw}
-```
+::: {.verse form=mummers-play lang=en work=grukar-challenge}
+Come on, then, champion, and I will run you through.
+:::
+
+::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=grukar-challenge}
+Kome on. thou champion. I will run thee through.
+:::
 
 ::: {lang=aelw font=serif}
 
@@ -322,23 +286,19 @@ Old Tally.
 
 : Old Tally Calls the Doctor {#tally-doctor}
 
-```verse {form=mummers-play numstep=5 cols=2}
-1 [Alak. alak. our champion is down.]{enc=aelwsemaronenc lang=aelw}
-2 [Oh no, oh no, our champion is down!]{lang=en}
-2 [Alak. alak. our champion is down.]{lang=aelw}
+::: {.verse form=mummers-play lang=en work=tally-doctor}
+Oh no, oh no, our champion is down!/
+Is there a doctor in town?/
+Ten Bits to any doctor who can heal/
+This man's injury and get him steady on his feet.
+:::
 
-1 [Is there a doktor to be had in town.]{enc=aelwsemaronenc lang=aelw}
-2 [Is there a doctor in town?]{lang=en}
-2 [Is there a doktor to be had in town.]{lang=aelw}
-
-1 [Ten Bits to any doktor that kan kure]{enc=aelwsemaronenc lang=aelw}
-2 [Ten Bits to any doctor who can heal]{lang=en}
-2 [Ten Bits to any doktor that kan kure]{lang=aelw}
-
-1 [This man of hurt. and make his footing sure.]{enc=aelwsemaronenc lang=aelw}
-2 [This man's injury and get him steady on his feet.]{lang=en}
-2 [This man of hurt. and make his footing sure.]{lang=aelw}
-```
+::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=tally-doctor}
+Alak. alak. our champion is down./
+Is there a doktor to be had in town./
+Ten Bits to any doktor that kan kure/
+This man of hurt. and make his footing sure.
+:::
 
 ::: {lang=aelw font=serif}
 
@@ -362,39 +322,27 @@ For twenty Bits I will put my head in.
 
 : The Doctor's Learning {#doctor-learning}
 
-```verse {form=mummers-play numstep=5 cols=2}
-1 [Here kome I. the Doktor. that was bred]{enc=aelwsemaronenc lang=aelw}
-2 [Here I come, the Doctor, who was educated]{lang=en}
-2 [Here kome I. the Doktor. that was bred]{lang=aelw}
+::: {.verse form=mummers-play lang=en work=doctor-learning}
+Here I come, the Doctor, who was educated/
+At Ravenmoor, where all the books are read;/
+My learning is in a language so refined/
+That you could not understand a word of it, or a line./
+I cure gout, fevers with chills, and urinary stones,/
+Poultry sickness, shaking or paralysed limbs, and aching bones;/
+I set broken legs, I drain blood from a vein, I pull/
+A tooth as easily as a small tuft of straw.
+:::
 
-1 [At Ravenmoor. where all the books ben read.]{enc=aelwsemaronenc lang=aelw}
-2 [At Ravenmoor, where all the books are read;]{lang=en}
-2 [At Ravenmoor. where all the books ben read.]{lang=aelw}
-
-1 [I have my learning in a tongue so fine]{enc=aelwsemaronenc lang=aelw}
-2 [My learning is in a language so refined]{lang=en}
-2 [I have my learning in a tongue so fine]{lang=aelw}
-
-1 [Ye kould not kon a word of it. nor line.]{enc=aelwsemaronenc lang=aelw}
-2 [That you could not understand a word of it, or a line.]{lang=en}
-2 [Ye kould not kon a word of it. nor line.]{lang=aelw}
-
-1 [I kure the gout. the ague and the stone.]{enc=aelwsemaronenc lang=aelw}
-2 [I cure gout, fevers with chills, and urinary stones,]{lang=en}
-2 [I kure the gout. the ague and the stone.]{lang=aelw}
-
-1 [The pip. the palsy. and the aching bone.]{enc=aelwsemaronenc lang=aelw}
-2 [Poultry sickness, shaking or paralysed limbs, and aching bones;]{lang=en}
-2 [The pip. the palsy. and the aching bone.]{lang=aelw}
-
-1 [I set a leg. I let a vein. I draw]{enc=aelwsemaronenc lang=aelw}
-2 [I set broken legs, I drain blood from a vein, I pull]{lang=en}
-2 [I set a leg. I let a vein. I draw]{lang=aelw}
-
-1 [A tooth as easy as a wisp of straw.]{enc=aelwsemaronenc lang=aelw}
-2 [A tooth as easily as a small tuft of straw.]{lang=en}
-2 [A tooth as easy as a wisp of straw.]{lang=aelw}
-```
+::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=doctor-learning}
+Here kome I. the Doktor. that was bred/
+At Ravenmoor. where all the books ben read./
+I have my learning in a tongue so fine/
+Ye kould not kon a word of it. nor line./
+I kure the gout. the ague and the stone./
+The pip. the palsy. and the aching bone./
+I set a leg. I let a vein. I draw/
+A tooth as easy as a wisp of straw.
+:::
 
 ::: {lang=aelw font=serif}
 
@@ -456,23 +404,19 @@ The Ale wife.
 
 : The Ale-wife's Cure {#alewife-cure}
 
-```verse {form=mummers-play numstep=5 cols=2}
-1 [Not dead. I have known him for forty year.]{enc=aelwsemaronenc lang=aelw}
-2 [Not dead! I have known him for forty years;]{lang=en}
-2 [Not dead. I have known him for forty year.]{lang=aelw}
+::: {.verse form=mummers-play lang=en work=alewife-cure}
+Not dead! I have known him for forty years;/
+He never dies, he only lacks beer./
+The Judge has not taken him yet, and will not tonight:/
+Get up, you lout; here is your cup. Drink properly.
+:::
 
-1 [He dieth never. only laketh beer.]{enc=aelwsemaronenc lang=aelw}
-2 [He never dies, he only lacks beer.]{lang=en}
-2 [He dieth never. only laketh beer.]{lang=aelw}
-
-1 [The Judge hath not him yet. nor shall tonight.]{enc=aelwsemaronenc lang=aelw}
-2 [The Judge has not taken him yet, and will not tonight:]{lang=en}
-2 [The Judge hath not him yet. nor shall tonight.]{lang=aelw}
-
-1 [Up. thou lubber. here is thy kup. Drink right.]{enc=aelwsemaronenc lang=aelw}
-2 [Get up, you lout; here is your cup. Drink properly.]{lang=en}
-2 [Up. thou lubber. here is thy kup. Drink right.]{lang=aelw}
-```
+::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=alewife-cure}
+Not dead. I have known him for forty year./
+He dieth never. only laketh beer./
+The Judge hath not him yet. nor shall tonight./
+Up. thou lubber. here is thy kup. Drink right.
+:::
 
 ::: {lang=aelw font=serif}
 
@@ -484,23 +428,19 @@ Hildrik.
 
 : Hildrik's Dream {#hildrik-dream}
 
-```verse {form=mummers-play numstep=5 cols=2}
-1 [Good morrow. gentles. Is the Grukar fled.]{enc=aelwsemaronenc lang=aelw}
-2 [Good morning, good people. Has the Grukar fled?]{lang=en}
-2 [Good morrow. gentles. Is the Grukar fled.]{lang=aelw}
+::: {.verse form=mummers-play lang=en work=hildrik-dream}
+Good morning, good people. Has the Grukar fled?/
+I dreamt I lay a long while with the dead,/
+And someone stood at a gate and would not speak,/
+And looked at me, then turned his face away.
+:::
 
-1 [I dreamt I lay a long while with the dead.]{enc=aelwsemaronenc lang=aelw}
-2 [I dreamt I lay a long while with the dead,]{lang=en}
-2 [I dreamt I lay a long while with the dead.]{lang=aelw}
-
-1 [And one stood at a gate. and would not speak.]{enc=aelwsemaronenc lang=aelw}
-2 [And someone stood at a gate and would not speak,]{lang=en}
-2 [And one stood at a gate. and would not speak.]{lang=aelw}
-
-1 [And looked on me. and turned away his cheek.]{enc=aelwsemaronenc lang=aelw}
-2 [And looked at me, then turned his face away.]{lang=en}
-2 [And looked on me. and turned away his cheek.]{lang=aelw}
-```
+::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=hildrik-dream}
+Good morrow. gentles. Is the Grukar fled./
+I dreamt I lay a long while with the dead./
+And one stood at a gate. and would not speak./
+And looked on me. and turned away his cheek.
+:::
 
 ::: {lang=aelw font=serif}
 
@@ -514,11 +454,13 @@ Hildrik.
 
 : Hildrik Calls for Another Bout {#hildrik-bout}
 
-```verse {form=mummers-play numstep=5 cols=2}
-1 [Then kome again. thou Ahk. and try thy luk.]{enc=aelwsemaronenc lang=aelw}
-2 [Then come again, you Ahk, and try your luck.]{lang=en}
-2 [Then kome again. thou Ahk. and try thy luk.]{lang=aelw}
-```
+::: {.verse form=mummers-play lang=en work=hildrik-bout}
+Then come again, you Ahk, and try your luck.
+:::
+
+::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=hildrik-bout}
+Then kome again. thou Ahk. and try thy luk.
+:::
 
 ::: {lang=aelw font=serif}
 
@@ -528,11 +470,13 @@ The Grukar.
 
 : The Grukar's Answer {#grukar-answer}
 
-```verse {form=mummers-play numstep=5 cols=2}
-1 [I will. thou shalt lie where thou first wast struk.]{enc=aelwsemaronenc lang=aelw}
-2 [I will; you will lie where you were first struck down.]{lang=en}
-2 [I will. thou shalt lie where thou first wast struk.]{lang=aelw}
-```
+::: {.verse form=mummers-play lang=en work=grukar-answer}
+I will; you will lie where you were first struck down.
+:::
+
+::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=grukar-answer}
+I will. thou shalt lie where thou first wast struk.
+:::
 
 ::: {lang=aelw font=serif}
 
@@ -544,15 +488,15 @@ Old Tally.
 
 : Old Tally's Victory {#tally-victory}
 
-```verse {form=mummers-play numstep=5 cols=2}
-1 [Huzza. The Grukar slain. The march is free.]{enc=aelwsemaronenc lang=aelw}
-2 [Hurray! The Grukar is dead! The march is free!]{lang=en}
-2 [Huzza. The Grukar slain. The march is free.]{lang=aelw}
+::: {.verse form=mummers-play lang=en work=tally-victory}
+Hurray! The Grukar is dead! The march is free!/
+Go home, drovers; you are safe and sound.
+:::
 
-1 [Go home. ye drovers. safe and sound ben ye.]{enc=aelwsemaronenc lang=aelw}
-2 [Go home, drovers; you are safe and sound.]{lang=en}
-2 [Go home. ye drovers. safe and sound ben ye.]{lang=aelw}
-```
+::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=tally-victory}
+Huzza. The Grukar slain. The march is free./
+Go home. ye drovers. safe and sound ben ye.
+:::
 
 ::: {lang=aelw font=serif}
 
@@ -564,15 +508,15 @@ The Grukar.
 
 : The Grukar's Son {#grukar-son}
 
-```verse {form=mummers-play numstep=5 cols=2}
-1 [Here kome I. that am the Grukares son.]{enc=aelwsemaronenc lang=aelw}
-2 [Here I come, the Grukar's son,]{lang=en}
-2 [Here kome I. that am the Grukares son.]{lang=aelw}
+::: {.verse form=mummers-play lang=en work=grukar-son}
+Here I come, the Grukar's son,/
+And another brother is still to follow me.
+:::
 
-1 [A brother yet behind me is to kome.]{enc=aelwsemaronenc lang=aelw}
-2 [And another brother is still to follow me.]{lang=en}
-2 [A brother yet behind me is to kome.]{lang=aelw}
-```
+::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=grukar-son}
+Here kome I. that am the Grukares son./
+A brother yet behind me is to kome.
+:::
 
 ::: {lang=aelw font=serif}
 
@@ -582,15 +526,15 @@ Old Tally.
 
 : The Fight Goes On {#fight-goes-on}
 
-```verse {form=mummers-play numstep=5 cols=2}
-1 [Then we leaven them fighting as they were.]{enc=aelwsemaronenc lang=aelw}
-2 [Then we leave them fighting as before,]{lang=en}
-2 [Then we leaven them fighting as they were.]{lang=aelw}
+::: {.verse form=mummers-play lang=en work=fight-goes-on}
+Then we leave them fighting as before,/
+As they have fought before, and will keep fighting there.
+:::
 
-1 [And as they haven been. they will be there.]{enc=aelwsemaronenc lang=aelw}
-2 [As they have fought before, and will keep fighting there.]{lang=en}
-2 [And as they haven been. they will be there.]{lang=aelw}
-```
+::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=fight-goes-on}
+Then we leaven them fighting as they were./
+And as they haven been. they will be there.
+:::
 
 ::: {lang=aelw font=serif}
 
@@ -600,31 +544,23 @@ Hildrik.
 
 : Hildrik's Day {#hildriks-day}
 
-```verse {form=mummers-play numstep=5 cols=2}
-1 [I know my day. One morning I shall go]{enc=aelwsemaronenc lang=aelw}
-2 [I know my fate. One morning I will go]{lang=en}
-2 [I know my day. One morning I shall go]{lang=aelw}
+::: {.verse form=mummers-play lang=en work=hildriks-day}
+I know my fate. One morning I will go/
+Into the wood, and not come out, I know;/
+The steward will write a line in his book,/
+And give my strip of land to that son of mine./
+But that is not today, and this is not the wood:/
+Please fill the bowl, good people.
+:::
 
-1 [Into the wood. and not kome out. I know.]{enc=aelwsemaronenc lang=aelw}
-2 [Into the wood, and not come out, I know;]{lang=en}
-2 [Into the wood. and not kome out. I know.]{lang=aelw}
-
-1 [The steward in his book shall write a line.]{enc=aelwsemaronenc lang=aelw}
-2 [The steward will write a line in his book,]{lang=en}
-2 [The steward in his book shall write a line.]{lang=aelw}
-
-1 [And give my strip unto that son of mine.]{enc=aelwsemaronenc lang=aelw}
-2 [And give my strip of land to that son of mine.]{lang=en}
-2 [And give my strip unto that son of mine.]{lang=aelw}
-
-1 [But that is not now. nor is this the wood.]{enc=aelwsemaronenc lang=aelw}
-2 [But that is not today, and this is not the wood:]{lang=en}
-2 [But that is not now. nor is this the wood.]{lang=aelw}
-
-1 [Fill up the bowl. ye gentles. an ye would.]{enc=aelwsemaronenc lang=aelw}
-2 [Please fill the bowl, good people.]{lang=en}
-2 [Fill up the bowl. ye gentles. an ye would.]{lang=aelw}
-```
+::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=hildriks-day}
+I know my day. One morning I shall go/
+Into the wood. and not kome out. I know./
+The steward in his book shall write a line./
+And give my strip unto that son of mine./
+But that is not now. nor is this the wood./
+Fill up the bowl. ye gentles. an ye would.
+:::
 
 ::: {lang=aelw font=serif}
 
@@ -636,23 +572,19 @@ Old Tally.
 
 : Old Tally's Collection {#tally-collection}
 
-```verse {form=mummers-play numstep=5 cols=2}
-1 [Put in your Bits. and put your Argos in.]{enc=aelwsemaronenc lang=aelw}
-2 [Put in your Bits, and put your Argos in,]{lang=en}
-2 [Put in your Bits. and put your Argos in.]{lang=aelw}
+::: {.verse form=mummers-play lang=en work=tally-collection}
+Put in your Bits, and put your Argos in,/
+And if you have Soldeni, that would be no sin;/
+A notch for every coin, and one notch more,/
+The [[affiliation-arldnpnthn|Twelve]] protect you until we play again.
+:::
 
-1 [Haven ye Soldeni. that were no sin.]{enc=aelwsemaronenc lang=aelw}
-2 [And if you have Soldeni, that would be no sin;]{lang=en}
-2 [Haven ye Soldeni. that were no sin.]{lang=aelw}
-
-1 [A notch for every koin. and one notch more.]{enc=aelwsemaronenc lang=aelw}
-2 [A notch for every coin, and one notch more,]{lang=en}
-2 [A notch for every koin. and one notch more.]{lang=aelw}
-
-1 [The Twelve keepen you till we playen more.]{enc=aelwsemaronenc lang=aelw}
-2 [The ]{lang=en}[[affiliation-arldnpnthn|Twelve]]{lang=en}[ protect you until we play again.]{lang=en}
-2 [The Twelve keepen you till we playen more.]{lang=aelw}
-```
+::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=tally-collection}
+Put in your Bits. and put your Argos in./
+Haven ye Soldeni. that were no sin./
+A notch for every koin. and one notch more./
+The Twelve keepen you till we playen more.
+:::
 
 ::: {lang=aelw font=serif}
 

@@ -70,19 +70,19 @@ The cult's memory-song, [[lore-swearbaobab|The Swearing Under the Baobab]], hold
 
 Transcription of an oral recitation.
 
-```verse {form=praise numstep=5 cols=2}
-1 [ngwi nyewaba lashemi.]{lang=nyal}
-2 [Who watched?]{lang=en}
+::: {.verse form=praise lang=en work=lion-totem-1}
+Who watched?/
+._The lion watched._/
+The song says witness. It makes no other claim./
+._Witness. No other claim._
+:::
 
-1 [.ruwo lashemi.]{lang=nyal}
-2 [._The lion watched._]{lang=en}
-
-1 [nyembe nyenda selemba. nyembe shewe nyenda nyendele ndeyemo.]{lang=nyal}
-2 [The song says witness. It makes no other claim.]{lang=en}
-
-1 [.selemba, nyeme nyendele ndeyemo.]{lang=nyal}
-2 [._Witness. No other claim._]{lang=en}
-```
+::: {.verse form=praise lang=nyal work=lion-totem-1}
+ngwi nyewaba lashemi./
+.ruwo lashemi./
+nyembe nyenda selemba. nyembe shewe nyenda nyendele ndeyemo./
+.selemba, nyeme nyendele ndeyemo.
+:::
 
 ## Veneration
 

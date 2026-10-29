@@ -10827,18 +10827,18 @@ A word at the head of the sentence says what kind of sentence it is, and the res
 
 | Word      | Opens                              | Example                                                      |
 | --------- | ---------------------------------- | ------------------------------------------------------------ |
-| _eza_     | a question                         | _Eza à daimela falvazor._ "Is the patron out?"               |
-| _areza_   | a question that expects yes        | _Areza à thelmos lokazor._ "The client has come, hasn't he?" |
-| _vez_     | a question that expects no         | _Vez humelthandar yarezor._ "It isn't resting, is it?"       |
-| _voza_    | a command, with the infinitive     | _Voza lokathen._ "Come."                                     |
-| _ar voza_ | a prohibition, with the infinitive | _Ar voza lokathen._ "Do not come."                           |
-| _aia_     | an exclamation                     | _Aia theson._ "That thing of yours!"                         |
+| _eza_     | a question                         | _Eza à daimela falvazor?_ "Is the patron out?"               |
+| _areza_   | a question that expects yes        | _Areza à thelmos lokazor?_ "The client has come, hasn't he?" |
+| _vez_     | a question that expects no         | _Vez humelthandar yarezor?_ "It isn't resting, is it?"       |
+| _voza_    | a command, with the infinitive     | _Voza lokathen‼_ "Come."                                     |
+| _ar voza_ | a prohibition, with the infinitive | _Ar voza lokathen‼_ "Do not come."                           |
+| _aia_     | an exclamation                     | _Aia theson!_ "That thing of yours!"                         |
 
-_areza_ is _ar_, "not", joined to _eza_. Because the opening word carries the question, the command or the exclamation, written Vylari uses period as its only punctuation. The period writes a pause, within a sentence as well as at its end. Where a translation gives that pause a comma, colon, semicolon or dash, the Vylari writes a period. A question still needs its opening word, an exclamation its _aia_, and emphasis its own words; removing a mark from the translation does not supply them. Quotation marks have no written role. A grave vowel marks a lexical catch, not punctuation.
+_areza_ is _ar_, "not", joined to _eza_. Written Vylari uses the standard roman punctuation, which records each sentence's type: `.` ends a statement, `?` a question, `‼` a command and `!` an exclamation, and `,` marks a pause inside a sentence. Vylari also voices the type with its opening word, so a question keeps its question word, a command its _voza_ and an exclamation its _aia_, and emphasis has its own words. The standard marks belong to the roman alone; the Semaron script draws only the catch and its one pause point, and the other marks are carried invisibly. A grave vowel marks a lexical catch, not punctuation.
 
 ### Reported speech
 
-Words spoken by someone are marked by _vethor_, "says", set after the first word or phrase of what they said: _Daimela vethor orfenamen._ "'Patron,' he says, 'I am in your debt.'" _vethor_ has no other form and serves for every person and time, so the speaker is named nearby or understood. Written Vylari has no quotation marks; _vethor_ identifies reported words, with the speaker named nearby or understood from the passage. An utterance can contain several pauses and continue across several lines. Its syntax and the surrounding account show where the speaker finishes; a period alone does not close it.
+Words spoken by someone are marked by _vethor_, "says", set after the first word or phrase of what they said: _«Daimela vethor orfenamen.»_ "'Patron,' he says, 'I am in your debt.'" _vethor_ has no other form and serves for every person and time, so the speaker is named nearby or understood. The roman encloses the quoted sentences in `«` `»`, with a quotation inside one set in `‹` `›`; the script draws no quotation marks, and _vethor_ identifies reported words. An utterance can contain several pauses and continue across several sentences and lines, and the closing `»` shows where the speaker finishes.
 
 ## Script & Literacy
 
@@ -10864,7 +10864,7 @@ The empire took words from every people it ruled, chiefly terms of craft, trade 
 
 ## Sample Phrases
 
-_Voza ulthoi okethen denon zaron ul kalmetharoi._
+_Voza ulthoi okethen denon zaron ul kalmetharoi‼_
 : "May the gods see this oath, and the ancestors." (High Vylari: the opening of a sworn oath.)
 
 _Daimela orfenamen._
@@ -10879,10 +10879,10 @@ _Humelthandar yarezor._
 _Varelin yarezor._
 : "It is true."
 
-_Eza varlai._
+_Eza varlai?_
 : "Really?" (The question opener makes this a request for confirmation.)
 
-_Aia theson._
+_Aia theson!_
 : "That thing of yours!" (A free person named in the neuter: the gravest insult the grammar allows.)
 
 ## Related Languages
@@ -10930,7 +10930,7 @@ ORDER BY position
 
 ## Sounds and spelling {#sounds-and-spelling}
 
-Its words follow [[doc-prnncthlrn|Pronouncing Thalorna]], with the Vylari grave-vowel catch described above. The roman alphabet has _a b d e f g h i k l m n o p r s t u v y z_, and ancient forms also use _w_. Acute vowels mark exceptional stress, _ë_ separates vowels, and _à_ carries a catch; each marked letter retains its capital form. Digits 0 to 9 are written as numerals. Period is the only punctuation.
+Its words follow [[doc-prnncthlrn|Pronouncing Thalorna]], with the Vylari grave-vowel catch described above. The roman alphabet has _a b d e f g h i k l m n o p r s t u v y z_, and ancient forms also use _w_. Acute vowels mark exceptional stress, _ë_ separates vowels, and _à_ carries a catch; each marked letter retains its capital form. Digits 0 to 9 are written as numerals. Punctuation is the standard roman set.
 
 ### Word edges
 

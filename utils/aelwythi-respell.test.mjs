@@ -74,12 +74,12 @@ test("encoding-only spans and fences select Aelwythi without changing other lang
         "[Pack]{enc=doc-aelwsemaronenc}",
         "[[place-pack|Pack]]{enc=thalorna-note-doc-aelwsemaronenc}",
         "[pack]{enc=foreign-note-doc-aelwsemaronenc}",
-        "```verse {enc=thalorna-note-doc-aelwsemaronenc}",
+        "::: {.verse enc=thalorna-note-doc-aelwsemaronenc}",
         "pluck [cold]{lang=en}",
-        "```",
-        "```verse {enc=foreign}",
+        ":::",
+        "::: {.verse enc=foreign}",
         "pack",
-        "```",
+        ":::",
         "::: {enc=doc-aelwsemaronenc}",
         "pack",
         "::: {enc=foreign}",
@@ -116,7 +116,7 @@ test("migration reports include files whose only language selector is an Aelwyth
         );
         fs.writeFileSync(
             path.join(content, "Enc.md"),
-            "[Sceptic]{enc=doc-aelwsemaronenc}\n```verse {enc=aelwsemaronenc}\npack\n```\n",
+            "[Sceptic]{enc=doc-aelwsemaronenc}\n::: {.verse enc=aelwsemaronenc}\npack\n:::\n",
         );
         fs.writeFileSync(path.join(content, "Foreign.md"), "[Exact]{lang=en} [pack]{enc=foreign}");
         const report = migrationReport(root);

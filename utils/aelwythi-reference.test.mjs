@@ -161,9 +161,9 @@ Review a passage by meaning first.
 
 ### Sample passages
 
-\`\`\`verse
+::: {.verse}
 [NATIVE-VERSE]{enc=aelwsemaronenc}
-\`\`\`
+:::
 
 ## Naming Traditions
 

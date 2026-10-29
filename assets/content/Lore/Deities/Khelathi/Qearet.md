@@ -19,23 +19,19 @@ Her theology rests on one overwhelming doctrine: [The Weighing]{.name data-type=
 
 : The Weighing
 
-```verse {form=litany numstep=5 cols=2}
-1 [wanel halzi khul galut zamar nelgiru elu sumetnet.]{lang=khel enc=khelqalezuenc}
-2 [Both accounts open before the gathered gods.]{lang=en}
-2 [wanel halzi khul galut zamar nelgiru elu sumetnet.]{lang=khel}
+::: {.verse form=litany lang=en work=qearet-1}
+Both accounts open before the gathered gods./
+Ours is read exactly; they place theirs beside it./
+Tablets rest level on the beam. Payment buys nothing there./
+A lord's late temple endowment leaves his reading equal to his tenant's.
+:::
 
-1 [zethul zethular halzi elu nazun qel wanel qu. qalath nelgiru elu naru qarmel qu.]{lang=khel enc=khelqalezuenc}
-2 [Ours is read exactly; they place theirs beside it.]{lang=en}
-2 [zethul zethular halzi elu nazun qel wanel qu. qalath nelgiru elu naru qarmel qu.]{lang=khel}
-
-1 [wanel zethqen qemlun az halzathal. khez qazet genar temun az halzathal.]{lang=khel enc=khelqalezuenc}
-2 [Tablets rest level on the beam. Payment buys nothing there.]{lang=en}
-2 [wanel zethqen qemlun az halzathal. khez qazet genar temun az halzathal.]{lang=khel}
-
-1 [zethul zethular halzi elu lemunar qel halzi elu qamzunar elu saru. nelaz lemunar qamret ez galar elu nelgir merqet·]{lang=khel enc=khelqalezuenc}
-2 [A lord's late temple endowment leaves his reading equal to his tenant's.]{lang=en}
-2 [zethul zethular halzi elu lemunar qel halzi elu qamzunar elu saru. nelaz lemunar qamret ez galar elu nelgir merqet·]{lang=khel}
-```
+::: {.verse form=litany lang=khel enc=khelqalezuenc work=qearet-1}
+wanel halzi khul galut zamar nelgiru elu sumetnet./
+zethul zethular halzi elu nazun qel wanel qu. qalath nelgiru elu naru qarmel qu./
+wanel zethqen qemlun az halzathal. khez qazet genar temun az halzathal./
+zethul zethular halzi elu lemunar qel halzi elu qamzunar elu saru. nelaz lemunar qamret ez galar elu nelgir merqet·
+:::
 
 That judgment is the foundation of [[lore-khelathiclt|Khelathi]] ethics, and its force comes from one feature above all: _wealth cannot buy a favorable verdict_. A written entry can be closed late or bought out; the unwritten account can only be met, and nobody holds a copy to consult. Even the powerful fear it, which makes it a real if imperfect check on the worst abuses of power in a civilization otherwise steeply unequal.
 

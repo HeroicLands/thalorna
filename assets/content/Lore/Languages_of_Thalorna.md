@@ -3,7 +3,12 @@ shortcode: lnggsthlrn
 name: {full: Languages of Thalorna}
 type: doc
 subType: reference
-data: {banner: null}
+data:
+  banner: null
+  metres:
+    - {name: trimeter, beats: 3, kind: accentual}
+    - {name: tetrameter, beats: 4, kind: accentual}
+    - {name: pentameter, beats: 5, kind: accentual}
 ---
 
 This note maps the languages spoken across [[place-worldthlrn|Thalorna]], the polities that speak them, and their linguistic heritage. Each language entry links to a full reference note with phonology, grammar, naming traditions, and name lists. [[doc-prnncthlrn|Pronouncing Thalorna]] sets out how every word in every language is written in our letters.

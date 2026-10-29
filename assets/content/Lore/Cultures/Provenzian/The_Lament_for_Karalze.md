@@ -31,440 +31,243 @@ The poem is rhymed AABCCB.
 
 : The Lament for Karalze {#lament}
 
-```verse {form=lament lang=en cols=2 numstep=5}
-1 [Jo lokate ir pramolza sa jo lokate.]{lang=prov enc=provsemaronenc}
-2 I come at morning call, as I come
-2 [Jo lokate ir pramolza sa jo lokate.]{lang=prov}
-
-1 [Urzele pramiza 20 tarnela talv alete. Enoi ar dokate.]{lang=prov enc=provsemaronenc}
-2 each morning twenty years with others, speechless
-2 [Urzele pramiza 20 tarnela talv alete. Enoi ar dokate.]{lang=prov}
-
-1 [Nelve marzena ir olime aulira. Jo ir tevare talete. Marzena.]{lang=prov enc=provsemaronenc}
-2 in the march’s first-light cold. I stand in the yard among the rest,
-2 [Nelve marzena ir olime aulira. Jo ir tevare talete. Marzena.]{lang=prov}
-
-1 [Sa liskonar jervete. Jo sistete.]{lang=prov enc=provsemaronenc}
-2 as a client must. I wait
-2 [Sa liskonar jervete. Jo sistete.]{lang=prov}
-
-1 [Ir deteme sa pral kanel. Jo sistete.]{lang=prov enc=provsemaronenc}
-2 on the step, as before.
-2 [Ir deteme sa pral kanel. Jo sistete.]{lang=prov}
-
-1 [Arurkis vereze olmate. Denon ez fenza.]{lang=prov enc=provsemaronenc}
-2 Nobody opens. That is the door.
-2 [Arurkis vereze olmate. Denon ez fenza.]{lang=prov}
-
-***
-
-1 [Karalze ol Pirnebris. Chembote ol tevare lusate.]{lang=prov enc=provsemaronenc}
-2 Karalze of Pirnebris. His yard’s wall protects
-2 [Karalze ol Pirnebris. Chembote ol tevare lusate.]{lang=prov}
-
-1 [Fos kordena. Kalveza ez dalme ker enoi klamete. Dene lusate.]{lang=prov enc=provsemaronenc}
-2 against raids. His gate is wide when we call.
-2 [Fos kordena. Kalveza ez dalme ker enoi klamete. Dene lusate.]{lang=prov}
-
-1 [Morvalis pazate trameze ir anpaze tarnela. Pazena.]{lang=prov enc=provsemaronenc}
-2 His table feeds the company in a lean year.
-2 [Morvalis pazate trameze ir anpaze tarnela. Pazena.]{lang=prov}
-
-1 [Lekaze ol Durvalis tavete lambize ol dene. Denoi rizelete.]{lang=prov enc=provsemaronenc}
-2 Durvalis’s clerks hear his word, write
-2 [Lekaze ol Durvalis tavete lambize ol dene. Denoi rizelete.]{lang=prov}
-
-1 [Denoi lendate dena sa rintona. Denoi ar petate. Jo memrate.]{lang=prov enc=provsemaronenc}
-2 it as a sum, and ask nothing. I remember:
-2 [Denoi lendate dena sa rintona. Denoi ar petate. Jo memrate.]{lang=prov}
-
-1 [Vereze talete pral dene. Dene talete pral fenza.]{lang=prov enc=provsemaronenc}
-2 standing behind him, one stands behind a door.
-2 [Vereze talete pral dene. Dene talete pral fenza.]{lang=prov}
-
-***
-
-1 [Dene taurate elzkambeta ol karone ir trameze. Dene taurate.]{lang=prov enc=provsemaronenc}
-2 He keeps the carter’s widow in his company.
-2 [Dene taurate elzkambeta ol karone ir trameze. Dene taurate.]{lang=prov}
-
-1 [Karone kalmetate ir frel. Uradis ol perranel. Dena dorate.]{lang=prov enc=provsemaronenc}
-2 The carter dies at the ford in autumn rain. She remains.
-2 [Karone kalmetate ir frel. Uradis ol perranel. Dena dorate.]{lang=prov}
-
-1 [Dene felzate nureton ol letreze fir marendalo ol Aurelane. Pazena.]{lang=prov enc=provsemaronenc}
-2 He sends the tanner’s boy to [[place-aureliane|Aurelane]]’s academy.
-2 [Dene felzate nureton ol letreze fir marendalo ol Aurelane. Pazena.]{lang=prov}
-
-1 [Dene frenzate verdavis. Dene avete okete. Eza nureton ol marzena dunate.]{lang=prov enc=provsemaronenc}
-2 Pays the cost. Wants to see what a march boy can do,
-2 [Dene frenzate verdavis. Dene avete okete. Eza nureton ol marzena dunate.]{lang=prov}
-
-1 [Eza dene dunate lorezate. Eza dene dunate mazeron. Dene avete.]{lang=prov enc=provsemaronenc}
-2 can read, can do beyond. He wants this.
-2 [Eza dene dunate lorezate. Eza dene dunate mazeron. Dene avete.]{lang=prov}
-
-1 [Dene lendate ralumete ankele ir gardema lair fenza.]{lang=prov enc=provsemaronenc}
-2 He seats the old horse-master on a bench beside the door.
-2 [Dene lendate ralumete ankele ir gardema lair fenza.]{lang=prov}
-
-***
-
-1 [Jo talv denon. Dene kurete jo fos valera. Anzirote.]{lang=prov enc=provsemaronenc}
-2 And me. He takes me from the road, unplaced,
-2 [Jo talv denon. Dene kurete jo fos valera. Anzirote.]{lang=prov}
-
-1 [Sourime ar kerate daimela. Dene huzate dumela. Dene dokate.]{lang=prov enc=provsemaronenc}
-2 a singer without patron. Faces the hall. Says:
-2 [Sourime ar kerate daimela. Dene huzate dumela. Dene dokate.]{lang=prov}
-
-1 [De vereze ez ol jo. Jo sorimate oleti de saunarine.]{lang=prov enc=provsemaronenc}
-2 This person is mine. That saying makes me sing.
-2 [De vereze ez ol jo. Jo sorimate oleti de saunarine.]{lang=prov}
-
-1 [Jo ez zedime tamba ol frenzandon ol dene 20 tarnela. Ar mazeron.]{lang=prov enc=provsemaronenc}
-2 I am all his payment’s work for twenty years. No more.
-2 [Jo ez zedime tamba ol frenzandon ol dene 20 tarnela. Ar mazeron.]{lang=prov}
-
-1 [Denkanai jo ez arzun. Jo ar kerate kerandon.]{lang=prov enc=provsemaronenc}
-2 Now I am nothing. I have no holding.
-2 [Denkanai jo ez arzun. Jo ar kerate kerandon.]{lang=prov}
-
-1 [Jo talete pral urkis fenza.]{lang=prov enc=provsemaronenc}
-2 I stand before a door.
-2 [Jo talete pral urkis fenza.]{lang=prov}
-
-***
-
-1 [Anzirote. Marzena kerate urkis lambize koretaze ol kolvandon. De ez de saunarine.]{lang=prov enc=provsemaronenc}
-2 Unplaced. The march has a word worse than killing.
-2 [Anzirote. Marzena kerate urkis lambize koretaze ol kolvandon. De ez de saunarine.]{lang=prov}
-
-1 [Enoi ez denon de pramiza. Zedime trameze talete ir de marzena.]{lang=prov enc=provsemaronenc}
-2 We are it this morning. The whole company stands here:
-2 [Enoi ez denon de pramiza. Zedime trameze talete ir de marzena.]{lang=prov}
-
-1 [Elzkambeta. Nureton alatar ir marendal. Vereze ankele. De ez tevare ol fenza.]{lang=prov enc=provsemaronenc}
-2 widow, boy away at school, old man by the door,
-2 [Elzkambeta. Nureton alatar ir marendal. Vereze ankele. De ez tevare ol fenza.]{lang=prov}
-
-1 [Dene ir gardema. Valmetumbe. Radnare.]{lang=prov enc=provsemaronenc}
-2 on his bench, farrier, fool
-2 [Dene ir gardema. Valmetumbe. Radnare.]{lang=prov}
-
-1 [Dene sorimate de. Enoi ez anzirote. Itre frenche. Ar arlen fa lorezare.]{lang=prov enc=provsemaronenc}
-2 singing this. We are unplaced. Poor
-2 [Dene sorimate de. Enoi ez anzirote. Itre frenche. Ar arlen fa lorezare.]{lang=prov}
-
-1 [Ir urkis eltezande ol delandon ol marzena. Enoi ar kerate fenza.]{lang=prov enc=provsemaronenc}
-2 in the march’s one currency. We have no door.
-2 [Ir urkis eltezande ol delandon ol marzena. Enoi ar kerate fenza.]{lang=prov}
-
-***
-
-1 [Dene tigate us talv almaton. Nelamis linkate.]{lang=prov enc=provsemaronenc}
-2 He goes up with the levy. Snow releases
-2 [Dene tigate us talv almaton. Nelamis linkate.]{lang=prov}
-
-1 [Ralzena ol ronete. Olime kordena lokate.]{lang=prov enc=provsemaronenc}
-2 the mountain pass. The first raid arrives
-2 [Ralzena ol ronete. Olime kordena lokate.]{lang=prov}
-
-1 [Fir Malnebris. Valera ez andalme tavir ronal ul sirete nizele. Ralzena.]{lang=prov enc=provsemaronenc}
-2 at Malnebris. The road narrows between ridge and stream
-2 [Fir Malnebris. Valera ez andalme tavir ronal ul sirete nizele. Ralzena.]{lang=prov}
-
-1 [Sa savela. Dene taurate dena. Sa pral kanel denoi taurate.]{lang=prov enc=provsemaronenc}
-2 like a blade. He holds it as before
-2 [Sa savela. Dene taurate dena. Sa pral kanel denoi taurate.]{lang=prov}
-
-1 [Poltamis ez kermete ir at sedon. Dene dorate.]{lang=prov enc=provsemaronenc}
-2 people hold it. The field is broken there. He remains.
-2 [Poltamis ez kermete ir at sedon. Dene dorate.]{lang=prov}
-
-1 [Poltamis ar kerate fenza.]{lang=prov enc=provsemaronenc}
-2 The field has no door.
-2 [Poltamis ar kerate fenza.]{lang=prov}
-
-***
-
-1 [Denoi amrete lambize fir Pirnebris ir nardziron. Dene ez ir poltamis. Dene nalete.]{lang=prov enc=provsemaronenc}
-2 They bring the word to Pirnebris at noon. He lies
-2 [Denoi amrete lambize fir Pirnebris ir nardziron. Dene ez ir poltamis. Dene nalete.]{lang=prov}
-
-1 [Navena lokate denar kanel. Malnebris anlotate.]{lang=prov enc=provsemaronenc}
-2 on the field. Night comes soon.
-2 [Navena lokate denar kanel. Malnebris anlotate.]{lang=prov}
-
-1 [Poltamis anlotate sa zesima. Arurkis kurete valera ir navena.]{lang=prov enc=provsemaronenc}
-2 Malnebris wakes. The field wakes by its custom. Nobody takes the night road.
-2 [Poltamis anlotate sa zesima. Arurkis kurete valera ir navena.]{lang=prov}
-
-1 [Ar fa daimela. Ar fa nurete. Arurkis tigate.]{lang=prov enc=provsemaronenc}
-2 Not for patron. Not for son. Nobody goes.
-2 [Ar fa daimela. Ar fa nurete. Arurkis tigate.]{lang=prov}
-
-1 [Enoi trameze ol dene talete. Enoi ar tigate.]{lang=prov enc=provsemaronenc}
-2 We, his company, stand. We do not go.
-2 [Enoi trameze ol dene talete. Enoi ar tigate.]{lang=prov}
-
-1 [Enoi talete pral fenza.]{lang=prov enc=provsemaronenc}
-2 We stand before his door.
-2 [Enoi talete pral fenza.]{lang=prov}
-
-***
-
-1 [Enoi tigate. Valmetumbe amrete karene. Ralumete demate.]{lang=prov enc=provsemaronenc}
-2 We go. The farrier brings his cart. Horse-master gives
-2 [Enoi tigate. Valmetumbe amrete karene. Ralumete demate.]{lang=prov}
-
-1 [Molera. Letreze amrete tumbon. Tolbon. Itrola. Dena amrete.]{lang=prov enc=provsemaronenc}
-2 mules. Tanner brings tools, cloth, lamp.
-2 [Molera. Letreze amrete tumbon. Tolbon. Itrola. Dena amrete.]{lang=prov}
-
-1 [Jo tigate talv dokela. Sourime ar kerate alete tigen ol lozandon. Navena.]{lang=prov enc=provsemaronenc}
-2 I go with voice. A singer has no other burden to choose.
-2 [Jo tigate talv dokela. Sourime ar kerate alete tigen ol lozandon. Navena.]{lang=prov}
-
-1 [Elzkambeta kerate arlen ol dena vetis. Dena dorate.]{lang=prov enc=provsemaronenc}
-2 His widow keeps her own name. She stays with us,
-2 [Elzkambeta kerate arlen ol dena vetis. Dena dorate.]{lang=prov}
-
-1 [Dena kovrate vetis talv tolvema. Dena solkete.]{lang=prov enc=provsemaronenc}
-2 covers herself with cloak, follows,
-2 [Dena kovrate vetis talv tolvema. Dena solkete.]{lang=prov}
-
-1 [Dena anolmate fenza.]{lang=prov enc=provsemaronenc}
-2 and closes the door.
-2 [Dena anolmate fenza.]{lang=prov}
-
-***
-
-1 [Ir Malnebris poltamis klame. Enoi tavete.]{lang=prov enc=provsemaronenc}
-2 Malnebris’s field is loud. We hear
-2 [Ir Malnebris poltamis klame. Enoi tavete.]{lang=prov}
-
-1 [Ralume. Orzandon. Lambize etor lambize. Tavemer tarlema dokate.]{lang=prov enc=provsemaronenc}
-2 horses, commands, word after word in two tongues.
-2 [Ralume. Orzandon. Lambize etor lambize. Tavemer tarlema dokate.]{lang=prov}
-
-1 [Ziromon ol koreza kermate. Pral kordandon ves de auremel. Navena.]{lang=prov enc=provsemaronenc}
-2 A shield-order breaks. Old battle or this summer’s,
-2 [Ziromon ol koreza kermate. Pral kordandon ves de auremel. Navena.]{lang=prov}
-
-1 [Ves kordandon ol tavemer. Aulira sedate.]{lang=prov enc=provsemaronenc}
-2 or battle of both. Lights move,
-2 [Ves kordandon ol tavemer. Aulira sedate.]{lang=prov}
-
-1 [Denoi lokate zel ralzena fir enoi. Enoi okete.]{lang=prov enc=provsemaronenc}
-2 coming down the pass toward us. We see.
-2 [Denoi lokate zel ralzena fir enoi. Enoi okete.]{lang=prov}
-
-1 [Ar fenza.]{lang=prov enc=provsemaronenc}
-2 No door.
-2 [Ar fenza.]{lang=prov}
-
-***
-
-1 [Enoi alvete dene lair sirete. Enoi memrokete.]{lang=prov enc=provsemaronenc}
-2 We find him beside the river. Recognize
-2 [Enoi alvete dene lair sirete. Enoi memrokete.]{lang=prov}
-
-1 [Tolvema ol dene. Dene nalete sa nembandon. Arurkis dokate.]{lang=prov enc=provsemaronenc}
-2 his cloak. He lies as he falls. Nobody speaks.
-2 [Tolvema ol dene. Dene nalete sa nembandon. Arurkis dokate.]{lang=prov}
-
-1 [Valmetumbe lozete tolveze. Ankele vereze valma. Elzkambeta valmate lair. Navena.]{lang=prov enc=provsemaronenc}
-2 Farrier carries head. Old man feet. Widow beside. The night
-2 [Valmetumbe lozete tolveze. Ankele vereze valma. Elzkambeta valmate lair. Navena.]{lang=prov}
-
-1 [Navena ez talv daje neltis ol polteza. Denoi chertate.]{lang=prov enc=provsemaronenc}
-2 smells sweet of grass cut
-2 [Navena ez talv daje neltis ol polteza. Denoi chertate.]{lang=prov}
-
-1 [Ir raldima ol sirete. Klame poltamis anolmate.]{lang=prov enc=provsemaronenc}
-2 on the bank. The loud field closes
-2 [Ir raldima ol sirete. Klame poltamis anolmate.]{lang=prov}
-
-1 [Pral enoi sa fenza]{lang=prov enc=provsemaronenc}
-2 behind us as a door
-2 [Pral enoi sa fenza]{lang=prov}
-
-***
-
-1 [Anolmate. Dene lozete enoi 20 tarnela. Enoi trameze lozete.]{lang=prov enc=provsemaronenc}
-2 closes. He carries us twenty years. His company carries
-2 [Anolmate. Dene lozete enoi 20 tarnela. Enoi trameze lozete.]{lang=prov}
-
-1 [Dene ir at navena. Enoi lozete dene zel antigai. Enoi lozete.]{lang=prov enc=provsemaronenc}
-2 him that night, downward again:
-2 [Dene ir at navena. Enoi lozete dene zel antigai. Enoi lozete.]{lang=prov}
-
-1 [Valmetumbe. Vereze ankele. Tavemer antarke vereze. Enoi tigate ir navena.]{lang=prov enc=provsemaronenc}
-2 farrier, old man, two weak people. We go through night.
-2 [Valmetumbe. Vereze ankele. Tavemer antarke vereze. Enoi tigate ir navena.]{lang=prov}
-
-1 [Vondar ol lozandon ol dene 20 tarnela. Dene linkate.]{lang=prov enc=provsemaronenc}
-2 The burden he bears twenty years, he lets go.
-2 [Vondar ol lozandon ol dene 20 tarnela. Dene linkate.]{lang=prov}
-
-1 [Enoi lozete denon. Enoi ar linkate.]{lang=prov enc=provsemaronenc}
-2 We carry it. We do not let go.
-2 [Enoi lozete denon. Enoi ar linkate.]{lang=prov}
-
-1 [Fos poltamis fir fenza.]{lang=prov enc=provsemaronenc}
-2 From field to door.
-2 [Fos poltamis fir fenza.]{lang=prov}
-
-***
-
-1 [Sarcheande ol Anklame Nasde lokate fir demrol. Valera fos chembote. Dene lokate.]{lang=prov enc=provsemaronenc}
-2 The Silent Judge’s priest comes to the roadside tomb outside the wall.
-2 [Sarcheande ol Anklame Nasde lokate fir demrol. Valera fos chembote. Dene lokate.]{lang=prov}
-
-1 [Sedon fa cholvaze ez ir at sedon. Dene petate.]{lang=prov enc=provsemaronenc}
-2 There is room for dead there. He asks
-2 [Sedon fa cholvaze ez ir at sedon. Dene petate.]{lang=prov}
-
-1 [Sadene. Korete ul daje. Kalmetandar vereze dokate. Sadene.]{lang=prov enc=provsemaronenc}
-2 for testimony: wrong and good. The dying speak it.
-2 [Sadene. Korete ul daje. Kalmetandar vereze dokate. Sadene.]{lang=prov}
-
-1 [Ar urkis ol enoi dunate. Ralzena ez ir kozma ol dene. Fa denon jo dokate.]{lang=prov enc=provsemaronenc}
-2 None of us can. The pass is in his mouth. Therefore I speak.
-2 [Ar urkis ol enoi dunate. Ralzena ez ir kozma ol dene. Fa denon jo dokate.]{lang=prov}
-
-1 [Jo ez dokela ol dene. Jo talete pral dene. Jo dokate.]{lang=prov enc=provsemaronenc}
-2 I am his voice. I stand before him. I speak
-2 [Jo ez dokela ol dene. Jo talete pral dene. Jo dokate.]{lang=prov}
-
-1 [Jo dokate pral fenza.]{lang=prov enc=provsemaronenc}
-2 before his door.
-2 [Jo dokate pral fenza.]{lang=prov}
-
-***
-
-1 [De ez daje ol dene. Dene taurate enoi. Anpaze tarnela. Dene taurate.]{lang=prov enc=provsemaronenc}
-2 These are his goods. He keeps us in hungry years.
-2 [De ez daje ol dene. Dene taurate enoi. Anpaze tarnela. Dene taurate.]{lang=prov}
-
-1 [Trevole ez mandare. Palsairsa ol gurimela nelvate.]{lang=prov enc=provsemaronenc}
-2 The coffer is empty. Orchard green freezes.
-2 [Trevole ez mandare. Palsairsa ol gurimela nelvate.]{lang=prov}
-
-1 [Dene frenzate valmetumbe olime. Dene taurate vereze ankele ir pazena.]{lang=prov enc=provsemaronenc}
-2 He pays the farrier first. Keeps the old man through the lean time,
-2 [Dene frenzate valmetumbe olime. Dene taurate vereze ankele ir pazena.]{lang=prov}
-
-1 [Vimavandon ol ankele vereze ez melvarati us chesdande ol ralume. Dene taurate.]{lang=prov enc=provsemaronenc}
-2 when the old man’s thirst surpasses his knowledge of horses.
-2 [Vimavandon ol ankele vereze ez melvarati us chesdande ol ralume. Dene taurate.]{lang=prov}
-
-1 [Pral kordena dene talete ir valera. Sa tevare dene talete.]{lang=prov enc=provsemaronenc}
-2 Before the raid he stands in the road as in his yard.
-2 [Pral kordena dene talete ir valera. Sa tevare dene talete.]{lang=prov}
-
-1 [Dene talete sa pral fenza.]{lang=prov enc=provsemaronenc}
-2 He stands as before his door.
-2 [Dene talete sa pral fenza.]{lang=prov}
-
-***
-
-1 [De ez korete ol dene. Jo dokate. Karvela ol de pramiza ez ol dene. Jo pazate.]{lang=prov enc=provsemaronenc}
-2 These are his wrongs. I speak. This morning’s bread is his. I eat.
-2 [De ez korete ol dene. Jo dokate. Karvela ol de pramiza ez ol dene. Jo pazate.]{lang=prov}
-
-1 [Dene daimelate fir marzena. Valmkovra tereme. Karene. Ralume. Jo pazate.]{lang=prov enc=provsemaronenc}
-2 He sells to the march: boots, carts, horses. I eat.
-2 [Dene daimelate fir marzena. Valmkovra tereme. Karene. Ralume. Jo pazate.]{lang=prov}
-
-1 [Ir urzele auremel kordena ez ir letima ol frenzandon ol dene. Kordena.]{lang=prov enc=provsemaronenc}
-2 Every summer’s raid stands in his payment lists.
-2 [Ir urzele auremel kordena ez ir letima ol frenzandon ol dene. Kordena.]{lang=prov}
-
-1 [Dene ar jaltezate preja. Ar urkis kanel. Dene ar petate.]{lang=prov enc=provsemaronenc}
-2 He never prays peace. Not once. Never asks
-2 [Dene ar jaltezate preja. Ar urkis kanel. Dene ar petate.]{lang=prov}
-
-1 [Ralzena dorate anolmate. Dene ar petate.]{lang=prov enc=provsemaronenc}
-2 that the pass remain closed. He does not ask.
-2 [Ralzena dorate anolmate. Dene ar petate.]{lang=prov}
-
-1 [Jo dokate denon pral fenza.]{lang=prov enc=provsemaronenc}
-2 I say it before his door.
-2 [Jo dokate denon pral fenza.]{lang=prov}
-
-***
-
-1 [Sarcheande rizelete zedime. Daje ul korete. Dene rizelete.]{lang=prov enc=provsemaronenc}
-2 The priest writes everything, good and wrong.
-2 [Sarcheande rizelete zedime. Daje ul korete. Dene rizelete.]{lang=prov}
-
-1 [Dene dokate ulteza. Dene demate dirave fir Nasde. Malnebris ar kerate.]{lang=prov enc=provsemaronenc}
-2 Speaks the rite. Gives soul to Judge. Malnebris does not keep him.
-2 [Dene dokate ulteza. Dene demate dirave fir Nasde. Malnebris ar kerate.]{lang=prov}
-
-1 [Dene urtai ir trameze de pramiza kerate kleris. Sedon. Zirote. Fenza.]{lang=prov enc=provsemaronenc}
-2 He alone of this morning’s company has key, place, step,
-2 [Dene urtai ir trameze de pramiza kerate kleris. Sedon. Zirote. Fenza.]{lang=prov}
-
-1 [Deteme fa talete sa pral kanel. Dene kerate.]{lang=prov enc=provsemaronenc}
-2 a step to stand as before. He has it.
-2 [Deteme fa talete sa pral kanel. Dene kerate.]{lang=prov}
-
-1 [Enoi talete fos. Dene ternate.]{lang=prov enc=provsemaronenc}
-2 We stand outside. He lives within.
-2 [Enoi talete fos. Dene ternate.]{lang=prov}
-
-1 [Dene ez ir fenza.]{lang=prov enc=provsemaronenc}
-2 He is inside the door.
-2 [Dene ez ir fenza.]{lang=prov}
-
-***
-
-1 [Nurete ol Karalze. Cho kerate 12 tarnela. Cho kerate.]{lang=prov enc=provsemaronenc}
-2 Son of Karalze, you have twelve years. You have
-2 [Nurete ol Karalze. Cho kerate 12 tarnela. Cho kerate.]{lang=prov}
-
-1 [Trameze de pramiza. Nelve tevare. Olime aulira. Enoi talete.]{lang=prov enc=provsemaronenc}
-2 a company this morning. Cold yard. First light. We stand.
-2 [Trameze de pramiza. Nelve tevare. Olime aulira. Enoi talete.]{lang=prov}
-
-1 [Cho ar jervete chesdate tigen. Cho lokate fir deteme. Cho dokate sa elte.]{lang=prov enc=provsemaronenc}
-2 You need not know the way. Come to the step. Speak as your father.
-2 [Cho ar jervete chesdate tigen. Cho lokate fir deteme. Cho dokate sa elte.]{lang=prov}
-
-1 [Urkis lambize. Cho lokate. Enoi marendete mazeron. Enoi marendete.]{lang=prov enc=provsemaronenc}
-2 One word: Come. We teach the rest.
-2 [Urkis lambize. Cho lokate. Enoi marendete mazeron. Enoi marendete.]{lang=prov}
-
-1 [Cho tigate zel. Cho olmate. Enoi sistete.]{lang=prov enc=provsemaronenc}
-2 Come down. Open. We wait.
-2 [Cho tigate zel. Cho olmate. Enoi sistete.]{lang=prov}
-
-1 [Cho olmate fir enoi fenza ol elte ol cho. Fenza.]{lang=prov enc=provsemaronenc}
-2 Open your father’s door to us. The door.
-2 [Cho olmate fir enoi fenza ol elte ol cho. Fenza.]{lang=prov}
-
-***
-
-1 [Olnare. Cho tigate fir Ellevirsa. Dena taurate.]{lang=prov enc=provsemaronenc}
-2 Song, go to Ellevirsa. She keeps
-2 [Olnare. Cho tigate fir Ellevirsa. Dena taurate.]{lang=prov}
-
-1 [Arlen ol dena. Dumva ol dene. Dena ar silete.]{lang=prov enc=provsemaronenc}
-2 her name and his house. She does not weep
-2 [Arlen ol dena. Dumva ol dene. Dena ar silete.]{lang=prov}
-
-1 [Ir okele sedon. Cho narthen. Trameze talete ir tevare.]{lang=prov enc=provsemaronenc}
-2 where eyes can see. Tell her: the company stands in the yard.
-2 [Ir okele sedon. Cho narthen. Trameze talete ir tevare.]{lang=prov}
-
-1 [Trameze dorate. Trameze talete. Trameze dorate.]{lang=prov enc=provsemaronenc}
-2 The company remains. It stands. It remains.
-2 [Trameze dorate. Trameze talete. Trameze dorate.]{lang=prov}
-
-```
+::: {.verse form=lament lang=en work=lament}
+I came at the morning call, as I have come/
+each morning twenty years, with the others, dumb/
+with the cold of the march at first light, and I stood/
+in the yard among the rest, as a client should,/
+and waited on the step, as I waited before./
+There is no one to open. That is the door.
+
+Karalze of Pirnebris, whose yard was walled/
+against the raids, whose gate stood wide when we called,/
+whose table fed his train in the lean year,/
+whose word the clerks at Durvalis would hear/
+and write down as a sum, and ask no more:/
+who stood behind him stood behind a door.
+
+He kept the carter's widow in his train/
+when the carter drowned at the ford in the autumn rain;/
+he sent the tanner's boy to the academy/
+at [[place-aureliane|Aurelane]], at his own cost, to see/
+what a boy from the march could be, and read, and more;/
+he set the old horse-master on a bench by his door.
+
+And me. He took me off the road, unplaced,/
+a singer with no patron, and he faced/
+his hall and said: This one is mine. I sing/
+because he said so. I was everything/
+he paid for, twenty years, and nothing more./
+Now I am nothing, standing at a door.
+
+Unplaced. The march has one word worse than slain,/
+and we are it this morning, all the train:/
+the widow, and the boy away at school,/
+the old man on his bench, the farrier, the fool/
+who sings this. We are _anzirote_. We are poor/
+in the one coin the march spends. We have no door.
+
+He went up with the levy when the snow/
+let go the pass, and the first raid came below/
+to Malnebris, where the road between the ridge/
+and the stream is narrow as a blade's edge,/
+and there he held it, as it was held before./
+The field is torn there. It has no door.
+
+They brought the word to Pirnebris at noon:/
+that he lay on the field, and the night would soon/
+come down on Malnebris, and the field would wake/
+the way it wakes, and nobody would take/
+the road up there by night, not for a lord, not for/
+a son. And we, his train, stood at his door.
+
+We went. The farrier brought his cart; the mules/
+the old horse-master gave; the tanner his tools,/
+a sheet, a lamp; and I went with my voice,/
+because a singer has no other choice/
+of what to carry. And his widow wore/
+her own name, and her cloak, and shut the door.
+
+At Malnebris the field was loud. We heard/
+the horses, and the orders, word on word/
+in both tongues, and a shield-line giving way,/
+the old one, or this summer's, or one fray/
+of both, and the lights that moved along and bore/
+down the pass toward us. And there was no door.
+
+We found him by the stream. We knew his cloak./
+He lay the way he fell. Nobody spoke./
+The farrier took his head, and the old man his feet,/
+and the widow walked beside, and the night was sweet/
+with the cut grass of the bank, and the field's roar/
+fell shut behind us, the way a door
+
+falls shut. He carried us for twenty years, the train;/
+that night the train carried him down again,/
+the farrier, the old man, and the two/
+of us who had no strength and still came through,/
+and the weight he carried twenty years he bore/
+no longer. We did, from the field to the door.
+
+The Silent Judge's priest came to the tomb/
+on the road outside the wall, where the dead have room,/
+and asked for the testimony, wrong and good,/
+that the dying speak; and none of us could,/
+since he died with the pass in his mouth. Therefore/
+I speak it, being his voice, before his door.
+
+These are his goods. He kept us in the lean/
+years, when the chest was empty and the green/
+of the orchard froze; he paid the farrier first;/
+he kept the old man on when the old man's thirst/
+was worse than his eye for a horse; and before/
+the raid he stood in the road as he stood at his door.
+
+These are his wrongs. I say them, and the bread/
+I ate this morning was his, and I have fed/
+on what he sold the march, its boots, its carts, its mounts,/
+and every summer's raid was in his accounts,/
+and he did not pray for peace, not once, nor for/
+the pass to stay shut. That I say at his door.
+
+The priest wrote down the goods, the wrongs, the whole,/
+and said the rite, and gave the Judge his soul,/
+and Malnebris does not keep him. Only he,/
+of all his train this morning, has a key,/
+a place, a step to stand on, as before./
+We stand outside. He is inside the door.
+
+Son of Karalze, you are twelve years old,/
+and you have a train this morning, in the cold/
+of the yard at first light. You need not know the way./
+Come to the step. Say what your father would say,/
+the one word: Come. We'll teach you all the more./
+Come down, and open us your father's door.
+
+Song, go to Ellevirsa, who has kept/
+her own name and his house, and has not wept/
+where anyone could see; tell her the train/
+is standing in the yard, and will remain.
+:::
+
+::: {.verse form=lament lang=prov enc=provsemaronenc work=lament scan=tetrameter}
+jo lokate ir nelve pramolza, sa pral kanel,/
+tavendur tarnela, nelameza ul auremel./
+talete anklame ir nelve ol marzena./
+jo talete ir tevare sa liskonar, lair chembote,/
+sistete ir deteme sa ankele talote./
+arurkis olmate. de ez fenza.
+
+karalze ol pirnebris, tevare talv chembote,/
+ker klamete, kalveza dalme ul revote,/
+trameze pazate fos morvalis ir pazena,/
+lambize ol dene lekaze ol durvalis/
+rizelete sa rintona, ar petate felavis./
+ir anprasedon ol dene, ir anprasedon ol fenza.
+
+dene frenzate marendalo ol aurelane,/
+ta nureton ol letreze vakate verdane,/
+ul elzkambeta ol karone ir anpaze pazena,/
+ker karone kalmetate ir frel ir uradis,/
+dene taurate dena sa soretis./
+ralumete ankele ir gardema lair fenza.
+
+«de ez ol jo,» dene dokate pral dumela,/
+ul jo talete, anzirote, sourime talv ar daimela./
+dene kurete jo fos valera ul marzena./
+jo sorimate urtai oleti denon,/
+tavendur tarnela, laton ol frenzandon./
+arzun ez jo, talete pral fenza.
+
+elzkambeta, nureton ir marendal alatar,/
+valmetumbe, ralumete ir gardema, liskonar,/
+zedime trameze, ul radnare ol marzena./
+anzirote. lambize koretaze ves kolvandon,/
+de pramiza enoi ez denon./
+ul enoi ar kerate urkis fenza.
+
+tavir ronal ul sirete nizele/
+dene taurate valera sa ankele,/
+ir malnebris, valera andalme sa savela./
+dene tigate talv almaton, ker nelamis/
+linkate ralzena, ul kordena sa uradis./
+poltamis ez kermete, ar talv fenza.
+
+ir nardziron lokate lambize fir pirnebris./
+dene nalete ir poltamis ol malnebris,/
+poltamis anlotate ir kaure navena,/
+arurkis tigate, ar fa daimela, ar fa nurete,/
+ul enoi, trameze ol dene, talete/
+ir kaure tevare ol dene, lair fenza.
+
+enoi tigate. karene, molera,/
+letreze talv itrola ul tolbon fir valera,/
+ul jo lozete urtai dokela ir navena./
+elzkambeta kovrate vetis talv arleis,/
+talv tolvema ol dena, sa vereze ol veramis,/
+ir anprasedon dena anolmate fenza.
+
+ir malnebris poltamis ez klame./
+enoi tavete ralume, ar anklame,/
+orzandon, lambize ir tavemer tarlema,/
+ziromon ol koreza, ankele ves nurizele,/
+kermate, ul aulira sedate, okele,/
+zel ralzena fir enoi. ar ez fenza.
+
+enoi alvete tolvema lair sirete./
+arurkis dokate. enoi memrokete./
+tolveze ul valma, ir kaure navena,/
+elzkambeta valmate lair. neltis ol raldima,/
+polteza chertate, melze sa lurima./
+klamandon anolmate ir anprasedon, sa fenza
+
+anolmate. dene lozete trameze,/
+ir at navena trameze lozete dene,/
+valmetumbe, ralumete, tavemer talv ar talmeza./
+dene ar doranti lozete vondar,/
+enoi lozete denon, sa liskonar,/
+fos klame poltamis fir dumva ul fenza.
+
+sarcheande ol nasde lokate ir valera/
+fir demrol, ul cholvaze kerate tumera,/
+ul petate sadene ol orteme navena./
+dene kalmetate talv ralzena ir kozmaron./
+jo, dokela ol dene, dokate denon/
+ir valera, pral demrol ol dene, pral fenza.
+
+de ez daje ol dene. ir tarnela/
+ker trevole ez mandare ul gurimela/
+nelvate, taurate enoi ir pazena./
+dene valmetumbe frenzate olime,/
+ralumete, talv mazeron vimavandon ves silvime./
+pral kordena dene talete sa ir fenza.
+
+de ez korete ol dene. karvela/
+ol dene jo pazate de pramiza ir dumela./
+daimelate valmkovra ul ralume fir marzena,/
+ir rintona urzele kordena ol auremel,/
+ar jaltezate preja, ar urkis kanel,/
+ar fa ralzena anolmate. jo dokate pral fenza.
+
+sarcheande rizelete daje ul korete,/
+ul dirave ol dene fir nasde lozete./
+malnebris ar taurate dene, ar ralzena./
+dene urtai kerate kleris,/
+zirote, sedon ul ankele arleis./
+enoi fos, ul dene frandra fenza.
+
+nurete ol karalze, dorechis tarnela,/
+trameze talete ir tevare ol dumela./
+cho ar jervete chesdate valera ves ralzena./
+cho dokate sa elte, cho lokate fir deteme,/
+«lokate‼» lambize olime ul orteme./
+cho tigate zel, ul olmate fir enoi fenza‼
+
+olnare, fir ellevirsa, kirame dameza‼/
+ar okele silete, ul taurate narveza./
+cho dokate fir dena ir nelve tevare,/
+trameze talete ul dorate sa olnare.
+:::
 
 ## See Also
 

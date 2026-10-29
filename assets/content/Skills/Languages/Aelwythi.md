@@ -4992,43 +4992,35 @@ A saying of the manors:
 
 : A harvest song {#harvestsong}
 
-```verse {form=song numstep=5 cols=2}
-1 [The wool is shorn the barley bound]{enc=aelwsemaronenc lang=aelw}
-2 [The wool is shorn, the barley bound,]{lang=en}
-2 [The wool is shorn the barley bound]{lang=aelw}
+::: {.verse form=song lang=en work=harvestsong}
+The wool is shorn, the barley bound,/
+The last of summer's gold is ground;/
+Fill the cup to the brim, and drink deeply,/
+And name the dead, now fast asleep.
+:::
 
-1 [The last of summeres gold is ground]{enc=aelwsemaronenc lang=aelw}
-2 [The last of summer's gold is ground;]{lang=en}
-2 [The last of summeres gold is ground]{lang=aelw}
-
-1 [Fill high the kup and drink it deep]{enc=aelwsemaronenc lang=aelw}
-2 [Fill the cup to the brim, and drink deeply,]{lang=en}
-2 [Fill high the kup and drink it deep]{lang=aelw}
-
-1 [And name the dead now fast asleep.]{enc=aelwsemaronenc lang=aelw}
-2 [And name the dead, now fast asleep.]{lang=en}
-2 [And name the dead now fast asleep.]{lang=aelw}
-```
+::: {.verse form=song lang=aelw enc=aelwsemaronenc work=harvestsong}
+The wool is shorn the barley bound/
+The last of summeres gold is ground/
+Fill high the kup and drink it deep/
+And name the dead now fast asleep.
+:::
 
 : A charm said at the crossroads {#crossroadscharm}
 
-```verse {form=charm numstep=5 cols=2}
-1 [Go softly thou that walkest late]{enc=aelwsemaronenc lang=aelw}
-2 [Go softly, you who walk late,]{lang=en}
-2 [Go softly thou that walkest late]{lang=aelw}
+::: {.verse form=charm lang=en work=crossroadscharm}
+Go softly, you who walk late,/
+And leave your offering at the gate;/
+Whoever watches by the wide crossing/
+Will let the courteous pass by.
+:::
 
-1 [And leave thine offering at the gate]{enc=aelwsemaronenc lang=aelw}
-2 [And leave your offering at the gate;]{lang=en}
-2 [And leave thine offering at the gate]{lang=aelw}
-
-1 [Who watcheth by the krossing wide]{enc=aelwsemaronenc lang=aelw}
-2 [Whoever watches by the wide crossing]{lang=en}
-2 [Who watcheth by the krossing wide]{lang=aelw}
-
-1 [Will let the kourteous pass beside.]{enc=aelwsemaronenc lang=aelw}
-2 [Will let the courteous pass by.]{lang=en}
-2 [Will let the kourteous pass beside.]{lang=aelw}
-```
+::: {.verse form=charm lang=aelw enc=aelwsemaronenc work=crossroadscharm}
+Go softly thou that walkest late/
+And leave thine offering at the gate/
+Who watcheth by the krossing wide/
+Will let the kourteous pass beside.
+:::
 
 In the charm, _offering_ and _courteous_ each take two syllables: _off-ring_,
 and _cour-teous_ with the second part compressed. These divisions mark the

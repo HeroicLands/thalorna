@@ -29,7 +29,7 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 
 : Mahnreth meldra {#mahnryth-meldra}
 
-```verse {form=meldra lang=en}
+::: {.verse form=meldra lang=en}
 1 _[Ferrar.]{lang=varo}_
 2 [_The leader._]{lang=en}
 2 _[Ferrar.]{lang=varo}_
@@ -71,7 +71,8 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [We are here for six. They do not.]{lang=en}
 2 [Wemi thum hewra feor seir. Hemwen na thum.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Wemra.]{lang=varo}_
 2 [_The women._]{lang=en}
 2 _[Wemra.]{lang=varo}_
@@ -81,7 +82,8 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [Where do you go? No earth above you.]{lang=en}
 2 [Thri wenga ter heori. Nawen erthra howra thri.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Ferrar.]{lang=varo}_
 2 [_The leader._]{lang=en}
 2 _[Ferrar.]{lang=varo}_
@@ -119,7 +121,8 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [We stand here above nothing. The Weskár comes despite it.]{lang=en}
 2 [Wemi stanwe hewra howra nawen. Weskár komwe alther hem.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Wemra.]{lang=varo}_
 2 [_The women._]{lang=en}
 2 _[Wemra.]{lang=varo}_
@@ -129,7 +132,8 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [Where do you go? No earth above you.]{lang=en}
 2 [Thri wenga ter heori. Nawen erthra howra thri.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Ferrar.]{lang=varo}_
 2 [_The leader._]{lang=en}
 2 _[Ferrar.]{lang=varo}_
@@ -203,7 +207,8 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [They do not speak.]{lang=en}
 2 [Hemwen na malwen.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Wemra.]{lang=varo}_
 2 [_The women._]{lang=en}
 2 _[Wemra.]{lang=varo}_
@@ -213,7 +218,8 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [Where do you go? No earth above you.]{lang=en}
 2 [Thri wenga ter heori. Nawen erthra howra thri.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Ferrar.]{lang=varo}_
 2 [_The leader._]{lang=en}
 2 _[Ferrar.]{lang=varo}_
@@ -247,7 +253,8 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [That is calling’s beginning.]{lang=en}
 2 [Eoth thum kendren er warwa.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Wemra.]{lang=varo}_
 2 [_The women._]{lang=en}
 2 _[Wemra.]{lang=varo}_
@@ -257,7 +264,8 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [Where do you go? No earth above you.]{lang=en}
 2 [Thri wenga ter heori. Nawen erthra howra thri.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Ferrar.]{lang=varo}_
 2 [_The leader._]{lang=en}
 2 _[Ferrar.]{lang=varo}_
@@ -291,7 +299,8 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [It is said. Nobody repeats it.]{lang=en}
 2 [Malwa thum. Mawen na malwen gendre.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Wemra.]{lang=varo}_
 2 [_The women._]{lang=en}
 2 _[Wemra.]{lang=varo}_
@@ -301,7 +310,8 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [Where do you go? No earth above you.]{lang=en}
 2 [Thri wenga ter heori. Nawen erthra howra thri.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Ferrar.]{lang=varo}_
 2 [_The leader._]{lang=en}
 2 _[Ferrar.]{lang=varo}_
@@ -335,7 +345,8 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [We speak five. Each stands for more.]{lang=en}
 2 [Wemi malwen fimra. Gerwen stanwe feor meora.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Wemra.]{lang=varo}_
 2 [_The women._]{lang=en}
 2 _[Wemra.]{lang=varo}_
@@ -345,7 +356,8 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [Where do you go? No earth above you.]{lang=en}
 2 [Thri wenga ter heori. Nawen erthra howra thri.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Ferrar.]{lang=varo}_
 2 [_The leader._]{lang=en}
 2 _[Ferrar.]{lang=varo}_
@@ -395,7 +407,8 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [Thornulf. Where do you go?]{lang=en}
 2 [Thornulf. Thri wenga ter heori.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Wemra.]{lang=varo}_
 2 [_The women._]{lang=en}
 2 _[Wemra.]{lang=varo}_
@@ -405,7 +418,8 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [Where do you go? No earth above you.]{lang=en}
 2 [Thri wenga ter heori. Nawen erthra howra thri.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Ferrar.]{lang=varo}_
 2 [_The leader._]{lang=en}
 2 _[Ferrar.]{lang=varo}_
@@ -431,7 +445,8 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [Traders recognize you by it.]{lang=en}
 2 [Wenar murda thri mi hem.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Eldri wemra.]{lang=varo}_
 2 [_The eldest woman._]{lang=en}
 2 _[Eldri wemra.]{lang=varo}_
@@ -461,7 +476,8 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [That is hers that night. That goes in.]{lang=en}
 2 [Eoth thum er hem et eoth nathra. Eoth wenga inwe.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Ferrar.]{lang=varo}_
 2 [_The leader._]{lang=en}
 2 _[Ferrar.]{lang=varo}_
@@ -475,7 +491,8 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [Sundilda. Where do you go?]{lang=en}
 2 [Sundilda. Thri wenga ter heori.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Wemra.]{lang=varo}_
 2 [_The women._]{lang=en}
 2 _[Wemra.]{lang=varo}_
@@ -485,7 +502,8 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [Where do you go? No earth above you.]{lang=en}
 2 [Thri wenga ter heori. Nawen erthra howra thri.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Ferrar.]{lang=varo}_
 2 [_The leader._]{lang=en}
 2 _[Ferrar.]{lang=varo}_
@@ -523,7 +541,8 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [Radwin. Where do you go?]{lang=en}
 2 [Radwin. Thri wenga ter heori.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Wemra.]{lang=varo}_
 2 [_The women._]{lang=en}
 2 _[Wemra.]{lang=varo}_
@@ -533,7 +552,8 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [Where do you go? No earth above you.]{lang=en}
 2 [Thri wenga ter heori. Nawen erthra howra thri.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Ferrar.]{lang=varo}_
 2 [_The leader._]{lang=en}
 2 _[Ferrar.]{lang=varo}_
@@ -575,7 +595,8 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [Othgar. Where do you go?]{lang=en}
 2 [Othgar. Thri wenga ter heori.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Wemra.]{lang=varo}_
 2 [_The women._]{lang=en}
 2 _[Wemra.]{lang=varo}_
@@ -585,7 +606,8 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [Where do you go? No earth above you.]{lang=en}
 2 [Thri wenga ter heori. Nawen erthra howra thri.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Ferrar.]{lang=varo}_
 2 [_The leader._]{lang=en}
 2 _[Ferrar.]{lang=varo}_
@@ -635,7 +657,8 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [Fródhilda. Where do you go?]{lang=en}
 2 [Fródhilda. Thri wenga ter heori.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Wemra.]{lang=varo}_
 2 [_The women._]{lang=en}
 2 _[Wemra.]{lang=varo}_
@@ -645,7 +668,8 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [Where do you go? No earth above you.]{lang=en}
 2 [Thri wenga ter heori. Nawen erthra howra thri.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Ferrar.]{lang=varo}_
 2 [_The leader._]{lang=en}
 2 _[Ferrar.]{lang=varo}_
@@ -679,7 +703,8 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [We do not know the way from there.]{lang=en}
 2 [Wemi na witna wegra fran theora.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Wemra.]{lang=varo}_
 2 [_The women._]{lang=en}
 2 _[Wemra.]{lang=varo}_
@@ -689,7 +714,8 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [Where do you go? No earth above you.]{lang=en}
 2 [Thri wenga ter heori. Nawen erthra howra thri.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Ferrar.]{lang=varo}_
 2 [_The leader._]{lang=en}
 2 _[Ferrar.]{lang=varo}_
@@ -739,7 +765,8 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [The hungry ones have]{lang=en}
 2 [Hrag harve.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Eldri wemra.]{lang=varo}_
 2 [_The eldest woman._]{lang=en}
 2 _[Eldri wemra.]{lang=varo}_
@@ -769,7 +796,8 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [Heel down. Sing the work we can do.]{lang=en}
 2 [Ladra fendru niwer. Wremna jiwra er kanda er wemi.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Ferrar.]{lang=varo}_
 2 [_The leader._]{lang=en}
 2 _[Ferrar.]{lang=varo}_
@@ -851,7 +879,8 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [We do not know whether you can.]{lang=en}
 2 [Wemi na witna weoren thri kanda.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Wemra.]{lang=varo}_
 2 [_The women._]{lang=en}
 2 _[Wemra.]{lang=varo}_
@@ -861,7 +890,8 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [We speak you. No earth above you.]{lang=en}
 2 [Wemi malwen thri. Nawen erthra howra thri.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Ferrar.]{lang=varo}_
 2 [_The leader._]{lang=en}
 2 _[Ferrar.]{lang=varo}_
@@ -915,7 +945,8 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [We speak you despite it. That is what we can do.]{lang=en}
 2 [Wemi malwen thri alther hem. Eoth thum kanda er wemi.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Wemra.]{lang=varo}_
 2 [_The women._]{lang=en}
 2 _[Wemra.]{lang=varo}_
@@ -925,7 +956,8 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [We speak you. No earth above you.]{lang=en}
 2 [Wemi malwen thri. Nawen erthra howra thri.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Ferrar.]{lang=varo}_
 2 [_The leader._]{lang=en}
 2 _[Ferrar.]{lang=varo}_
@@ -935,7 +967,8 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [Thornulf.]{lang=en}
 2 [Thornulf.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Wemra.]{lang=varo}_
 2 [_The women._]{lang=en}
 2 _[Wemra.]{lang=varo}_
@@ -945,7 +978,8 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [We speak you. No earth above you.]{lang=en}
 2 [Wemi malwen thri. Nawen erthra howra thri.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Ferrar.]{lang=varo}_
 2 [_The leader._]{lang=en}
 2 _[Ferrar.]{lang=varo}_
@@ -955,7 +989,8 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [Sundilda.]{lang=en}
 2 [Sundilda.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Wemra.]{lang=varo}_
 2 [_The women._]{lang=en}
 2 _[Wemra.]{lang=varo}_
@@ -965,7 +1000,8 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [We speak you. No earth above you.]{lang=en}
 2 [Wemi malwen thri. Nawen erthra howra thri.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Ferrar.]{lang=varo}_
 2 [_The leader._]{lang=en}
 2 _[Ferrar.]{lang=varo}_
@@ -975,7 +1011,8 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [Radwin.]{lang=en}
 2 [Radwin.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Wemra.]{lang=varo}_
 2 [_The women._]{lang=en}
 2 _[Wemra.]{lang=varo}_
@@ -985,7 +1022,8 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [We speak you. No earth above you.]{lang=en}
 2 [Wemi malwen thri. Nawen erthra howra thri.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Ferrar.]{lang=varo}_
 2 [_The leader._]{lang=en}
 2 _[Ferrar.]{lang=varo}_
@@ -995,7 +1033,8 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [Othgar.]{lang=en}
 2 [Othgar.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Wemra.]{lang=varo}_
 2 [_The women._]{lang=en}
 2 _[Wemra.]{lang=varo}_
@@ -1005,7 +1044,8 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [We speak you. No earth above you.]{lang=en}
 2 [Wemi malwen thri. Nawen erthra howra thri.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Ferrar.]{lang=varo}_
 2 [_The leader._]{lang=en}
 2 _[Ferrar.]{lang=varo}_
@@ -1015,7 +1055,8 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [Fródhilda.]{lang=en}
 2 [Fródhilda.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Wemra.]{lang=varo}_
 2 [_The women._]{lang=en}
 2 _[Wemra.]{lang=varo}_
@@ -1025,7 +1066,8 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [We speak you. No earth above you.]{lang=en}
 2 [Wemi malwen thri. Nawen erthra howra thri.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Ferrar.]{lang=varo}_
 2 [_The leader._]{lang=en}
 2 _[Ferrar.]{lang=varo}_
@@ -1079,11 +1121,12 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 2 [Keep it now.]{lang=en}
 2 [Halwen hem nuwa.]{lang=varo}
 
-***
+--- {.canto}
+
 1 _[Fendru framwe feor timra er nefren. Nawen mawen wremna.]{lang=varo}_
 2 [_Heels continue for a name’s duration. Nobody sings._]{lang=en}
 2 _[Fendru framwe feor timra er nefren. Nawen mawen wremna.]{lang=varo}_
-```
+:::
 
 ## See Also
 

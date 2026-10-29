@@ -1450,7 +1450,13 @@ data:
       gloss: "a glow, the light kept below"
       root: "l-b-t"
       frame: bare
-    - {form: labít, class: adj, field: The deep, gloss: "glowing", root: "l-b-t", frame: adjective}
+    - form: labít
+      variants: [labitev]
+      class: adj
+      field: The deep
+      gloss: "glowing"
+      root: "l-b-t"
+      frame: adjective
     - {form: lubát, class: v, field: The deep, gloss: "to glow", root: "l-b-t", frame: deed}
     - form: hulabat
       class: "n"
@@ -2276,6 +2282,7 @@ data:
       root: "f-k-r"
       frame: bare
     - form: fakír
+      variants: [fakirez]
       class: adj
       field: Caves and their finding
       gloss: "found, given by the mountain"
@@ -2741,6 +2748,7 @@ data:
       root: "d-g-r"
       frame: bare
     - form: dagír
+      variants: [dagirez]
       class: adj
       field: Listening and the cut
       gloss: "forced, wrested"
@@ -4877,6 +4885,12 @@ data:
       root: "t-f-n"
       frame: bare
     - {form: tufán, class: v, field: Body and person, gloss: "to step", root: "t-f-n", frame: deed}
+    - form: tifanath
+      class: "n"
+      field: The hold
+      gloss: "a step of a stair, one tread"
+      root: "t-f-n"
+      frame: done thing
     - form: zagan
       class: "n"
       field: Body and person
@@ -6296,7 +6310,7 @@ data:
       root: "kh-p-v"
       frame: bare
     - form: khapív
-      variants: [khapivez, khapívez]
+      variants: [khapivez, khapívez, khapivev]
       class: adj
       field: Grammar words
       gloss: "other"
@@ -6380,6 +6394,21 @@ data:
     - {form: nuv, class: part, field: Grammar words, gloss: "with, together with"}
     - {form: lez, class: part, field: Grammar words, gloss: "also"}
     - {form: hez, class: part, field: Grammar words, gloss: "again"}
+    - {form: gol, class: part, field: Grammar words, gloss: "from, out of; stands before its noun"}
+    - {form: tev, class: part, field: Grammar words, gloss: "to, toward"}
+    - {form: pes, class: part, field: Grammar words, gloss: "for, on behalf of, on account of"}
+    - form: kob
+      class: part
+      field: Grammar words
+      gloss: "on, upon; against a name in the record"
+    - {form: bel, class: part, field: Grammar words, gloss: "into"}
+    - {form: sod, class: part, field: Grammar words, gloss: "over, above"}
+    - {form: dev, class: part, field: Grammar words, gloss: "along"}
+    - {form: nol, class: part, field: Grammar words, gloss: "under, beneath"}
+    - {form: fod, class: part, field: Grammar words, gloss: "beyond"}
+    - {form: gez, class: conj, field: Grammar words, gloss: "because; opens a clause"}
+    - {form: tav, class: conj, field: Grammar words, gloss: "when; opens a clause"}
+    - {form: kos, class: conj, field: Grammar words, gloss: "as, like; opens a likeness"}
     - {form: tob, class: num, field: Grammar words, gloss: "one", concept: one}
     - {form: zik, class: num, field: Grammar words, gloss: "two", concept: two}
     - {form: vem, class: num, field: Grammar words, gloss: "three", concept: three}
@@ -6720,6 +6749,7 @@ data:
       root: "k-r-th"
       frame: bare
     - form: karíth
+      variants: [karithez]
       class: adj
       field: Oath, law and measure
       gloss: "intended or designed for"
@@ -7115,6 +7145,12 @@ data:
       field: "The face and the light"
       gloss: "ore-face, the face fronting ore"
       root: "z-gh-r bare + kh-b-r deed"
+      frame: compound
+    - form: vadhagh-khubár
+      class: n
+      field: "The face and the light"
+      gloss: "sea-face, the face fronting the sea"
+      root: "v-dh-gh bare + kh-b-r deed"
       frame: compound
     - form: hals
       class: n
@@ -7824,6 +7860,12 @@ data:
       gloss: a falcon
       root: k-r-f
       frame: bare
+    - form: karf-dubáz
+      class: n
+      field: Other peoples and the larder
+      gloss: "falcon's rest, a ledge where falcons settle"
+      root: "k-r-f bare + d-b-z deed"
+      frame: compound
     - form: hudabaz
       class: n
       field: Death and memory
@@ -8827,8 +8869,22 @@ Poetic inversion is permitted and is immediately recognisable as poetry.
 | `nuv`   | part  | with, together with                             |
 | `lez`   | part  | also                                            |
 | `hez`   | part  | again                                           |
+| `gol`   | part  | from, out of; stands before its noun            |
+| `tev`   | part  | to, toward                                      |
+| `pes`   | part  | for, on behalf of, on account of                |
+| `kob`   | part  | on, upon; against a name in the record          |
+| `bel`   | part  | into                                            |
+| `sod`   | part  | over, above                                     |
+| `dev`   | part  | along                                           |
+| `nol`   | part  | under, beneath                                  |
+| `fod`   | part  | beyond                                          |
+| `gez`   | conj  | because; opens a clause                         |
+| `tav`   | conj  | when; opens a clause                            |
+| `kos`   | conj  | as, like; opens a likeness                      |
 
 The demonstratives take no suffix and stand before the noun and any adjective.
+
+The particles of place and relation, _gol_, _tev_, _pes_, _kob_, _bel_, _sod_, _dev_, _nol_ and _fod_, stand before their noun and take no suffix: _gol dalk_ is "from the stone", and _kob mardh_ is "against the name", as the record enters a fault. _Nuv_ means only "with". _Gez_, _tav_ and _kos_ open a clause as _hiz_ does: _gez_ gives a reason, _tav_ a time and _kos_ a likeness.
 
 _Dalkir thuf thumár ramk_
 : "The mason does not strike the course"

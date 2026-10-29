@@ -312,35 +312,25 @@ years, and it comes out as elegy.
 
 : The Birds
 
-```verse {form=elegy numstep=5 cols=2}
-1 [evi eho sytte]{lang=sina enc=sinaveldikkoenc}
-2 [And there were birds.]{lang=en}
-2 [evi eho sytte]{lang=sina}
+::: {.verse form=elegy lang=en work=the-fall-of-khazarturn-1}
+And there were birds./
+.They came in at the shafts of light, and some of them stayed./
+They nested in the high galleries, on the ledges of the vaults,/
+.and sang there in the mornings, and nobody drove them out;/
+.the makers stepped around their feathers on the stairs./
+A hall that a bird will live in is not a room./
+.We said so to the makers once. They said they knew.
+:::
 
-1 [.ulpes sytte seipan leësyhe sendeppi eltes]{lang=sina enc=sinaveldikkoenc}
-2 [.They came in at the shafts of light, and some of them stayed.]{lang=en}
-2 [.ulpes sytte seipan leësyhe sendeppi eltes]{lang=sina}
-
-1 [irna sytte maulpe vennas aldis holdi leësy issalteho]{lang=sina enc=sinaveldikkoenc}
-2 [They nested in the high galleries, on the ledges of the vaults,]{lang=en}
-2 [irna sytte maulpe vennas aldis holdi leësy issalteho]{lang=sina}
-
-1 [.luuro sytte roselho ahi saltai lirne onsaa seltoho]{lang=sina enc=sinaveldikkoenc}
-2 [.and sang there in the mornings, and nobody drove them out;]{lang=en}
-2 [.luuro sytte roselho ahi saltai lirne onsaa seltoho]{lang=sina}
-
-1 [.sannai irnanno vennas onsaa hiakke vennas irtalleësyhe]{lang=sina enc=sinaveldikkoenc}
-2 [.the makers stepped around their feathers on the stairs.]{lang=en}
-2 [.sannai irnanno vennas onsaa hiakke vennas irtalleësyhe]{lang=sina}
-
-1 [ahi niltu koldi oso ovanne sytteny]{lang=sina enc=sinaveldikkoenc}
-2 [A hall that a bird will live in is not a room.]{lang=en}
-2 [ahi niltu koldi oso ovanne sytteny]{lang=sina}
-
-1 [.evanni ehii irnanno vennas ilte vandel onsaa erni onsaa]{lang=sina enc=sinaveldikkoenc}
-2 [.We said so to the makers once. They said they knew.]{lang=en}
-2 [.evanni ehii irnanno vennas ilte vandel onsaa erni onsaa]{lang=sina}
-```
+::: {.verse form=elegy lang=sina enc=sinaveldikkoenc work=the-fall-of-khazarturn-1}
+evi eho sytte/
+.ulpes sytte seipan leësyhe sendeppi eltes/
+irna sytte maulpe vennas aldis holdi leësy issalteho/
+.luuro sytte roselho ahi saltai lirne onsaa seltoho/
+.sannai irnanno vennas onsaa hiakke vennas irtalleësyhe/
+ahi niltu koldi oso ovanne sytteny/
+.evanni ehii irnanno vennas ilte vandel onsaa erni onsaa
+:::
 
 **That it was destroyed by a horde of Grukar compelled by a renegade.** They say this much plainly, and
 it is where every human account of the fall originates.

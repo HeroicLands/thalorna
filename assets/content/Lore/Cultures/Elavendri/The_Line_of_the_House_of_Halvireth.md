@@ -32,210 +32,123 @@ The verses are in iambic tetrameter, rhymed in couplets.
 
 The bard:
 
-```verse {form=sirnerne lang=en cols=2 numstep=5}
-1 [Lyeronno.]{lang=elav}
-2 The bard.
-2 [Lyeronno.]{lang=elav}
+::: {.verse form=sirnerne lang=en work=the-line-of-the-house-of-halvireth-1}
+The bard./
+Set down your cups and close the door./
+Trim the lamps; listen, house gathered here./
+I sing the roll. No word here belongs to me./
+I sing, and afterward we eat; the feast hears proof./
+If you sing it differently, rise in this hall./
+Speak tonight; do you hold another descent?/
+If you do not, eat and keep it for a year./
+The child is here and named already; hear her at the feast./
+The house has named her; we count her into the roll./
+From her, the smallest, to the first, the old descent speaks plainly./
+Listen, house; listen, gathered people./
+This is not mine; the clan holds its recitation.
+:::
 
-
-1 [Légathen tose al hírkon. súndathen al ganda.]{lang=elav enc=elavsemaronenc}
-2 Set down your cups and close the door.
-2 [Légathen tose al hírkon. súndathen al ganda.]{lang=elav}
-
-1 [Kérnathen tose al henthra. salkathen al haltha.]{lang=elav enc=elavsemaronenc}
-2 Trim the lamps; listen, house gathered here.
-2 [Kérnathen tose al henthra. salkathen al haltha.]{lang=elav}
-
-1 [Lyero munde al sírnerne. nond en leithon mundri tis.]{lang=elav enc=elavsemaronenc}
-2 I sing the roll. No word here belongs to me.
-2 [Lyero munde al sírnerne. nond en leithon mundri tis.]{lang=elav}
-
-1 [Lyero munde. málmathen nyes gonde. en saenar al kurnis.]{lang=elav enc=elavsemaronenc}
-2 I sing, and afterward we eat; the feast hears proof.
-2 [Lyero munde. málmathen nyes gonde. en saenar al kurnis.]{lang=elav}
-
-1 [Gyese lyero tose derar. róunithen tose rith halthon.]{lang=elav enc=elavsemaronenc}
-2 If you sing it differently, rise in this hall.
-2 [Gyese lyero tose derar. róunithen tose rith halthon.]{lang=elav}
-
-1 [Ryenathen tose ti óssenda. he dárkathen tose al kenron.]{lang=elav enc=elavsemaronenc}
-2 Speak tonight; do you hold another descent?
-2 [Ryenathen tose ti óssenda. he dárkathen tose al kenron.]{lang=elav}
-
-1 [Gyese nond. málmathen tose. géilathen uk kirdon rith kirdis.]{lang=elav enc=elavsemaronenc}
-2 If you do not, eat and keep it for a year.
-2 [Gyese nond. málmathen tose. géilathen uk kirdon rith kirdis.]{lang=elav}
-
-1 [En al kenlon tis. geinde lenthon. salkathen tose al kurnis.]{lang=elav enc=elavsemaronenc}
-2 The child is here and named already; hear her at the feast.
-2 [En al kenlon tis. geinde lenthon. salkathen tose al kurnis.]{lang=elav}
-
-1 [Náemathen al halthon gene. deilnathen nyes gene rith sírnerne.]{lang=elav enc=elavsemaronenc}
-2 The house has named her; we count her into the roll.
-2 [Náemathen al halthon gene. deilnathen nyes gene rith sírnerne.]{lang=elav}
-
-1 [Threl gene. al lunnar. gierth al treinen. ryenathen al úrkenon sérne.]{lang=elav enc=elavsemaronenc}
-2 From her, the smallest, to the first, the old descent speaks plainly.
-2 [Threl gene. al lunnar. gierth al treinen. ryenathen al úrkenon sérne.]{lang=elav}
-
-1 [Salkathen tose. al halthon. salkathen tose al kentalon.]{lang=elav enc=elavsemaronenc}
-2 Listen, house; listen, gathered people.
-2 [Salkathen tose. al halthon. salkathen tose al kentalon.]{lang=elav}
-
-1 [Nond en ti mundri. dárkathen al mougon al kenron.]{lang=elav enc=elavsemaronenc}
-2 This is not mine; the clan holds its recitation.
-2 [Nond en ti mundri. dárkathen al mougon al kenron.]{lang=elav}
-```
+::: {.verse form=sirnerne lang=elav enc=elavsemaronenc work=the-line-of-the-house-of-halvireth-1}
+Lyeronno./
+Légathen tose al hírkon. súndathen al ganda./
+Kérnathen tose al henthra. salkathen al haltha./
+Lyero munde al sírnerne. nond en leithon mundri tis./
+Lyero munde. málmathen nyes gonde. en saenar al kurnis./
+Gyese lyero tose derar. róunithen tose rith halthon./
+Ryenathen tose ti óssenda. he dárkathen tose al kenron./
+Gyese nond. málmathen tose. géilathen uk kirdon rith kirdis./
+En al kenlon tis. geinde lenthon. salkathen tose al kurnis./
+Náemathen al halthon gene. deilnathen nyes gene rith sírnerne./
+Threl gene. al lunnar. gierth al treinen. ryenathen al úrkenon sérne./
+Salkathen tose. al halthon. salkathen tose al kentalon./
+Nond en ti mundri. dárkathen al mougon al kenron.
+:::
 
 The line:
 
-```verse {form=sirnerne lang=en cols=2 numstep=5}
-1 [Sírnerne.]{lang=elav}
-2 The line.
-2 [Sírnerne.]{lang=elav}
+::: {.verse form=sirnerne lang=en work=the-line-of-the-house-of-halvireth-2}
+The line./
+[Sílvera]{.name data-type="being/npc" lang=elav}, whom we name tonight, whose other name is not for this hall; child of [Táeren]{.name data-type="being/npc" lang=elav}./
+[Táeren]{.name data-type="being/npc" lang=elav}, who keeps the house and the river meadows and feeds its people; child of [Méldoreth]{.name data-type="being/npc" lang=elav}./
+[Méldoreth]{.name data-type="being/npc" lang=elav}, who learned the art at Péravel and returned home, who kept a harper twenty years and paid him; child of [Óuravel]{.name data-type="being/npc" lang=elav}./
+[Óuravel]{.name data-type="being/npc" lang=elav}, head of the house in the time silver ceased going east, who built the living bridge over the leat, which stands; child of [Deneth]{.name data-type="being/npc" lang=elav}./
+[Deneth]{.name data-type="being/npc" lang=elav}, who possessed the house in her own right, and opened the common stores in the year rain came wrongly; child of [Kálvorin]{.name data-type="being/npc" lang=elav}./
+[Kálvorin]{.name data-type="being/npc" lang=elav}, for whom the oak stands at the ford gate; child of [Therseth]{.name data-type="being/npc" lang=elav}./
+[Therseth]{.name data-type="being/npc" lang=elav}, who stood on the northern shore in the year the fleets came and returned home; child of [Ráenor]{.name data-type="being/npc" lang=elav}./
+[Ráenor]{.name data-type="being/npc" lang=elav}, against whom an honored bard sang, who lived beyond the satire and did not name its bard; child of [Ílthera]{.name data-type="being/npc" lang=elav}./
+[Ílthera]{.name data-type="being/npc" lang=elav}, who held a chair at court against the [[affiliation-ordoarcanis|Arcane Order]] and kept it; child of [Gálveren]{.name data-type="being/npc" lang=elav}./
+[Gálveren]{.name data-type="being/npc" lang=elav}, who planted the birch in the low meadow for his brother, which stands; child of Velthar./
+Velthar, who went up to Elanmere's fair and sang the roll there, and the people heard him; child of [Sarhel]{.name data-type="being/npc" lang=elav}./
+[Sarhel]{.name data-type="being/npc" lang=elav}, who lost the harp hall to fire and built it again in stone; child of [Nerrin]{.name data-type="being/npc" lang=elav}./
+[Nerrin]{.name data-type="being/npc" lang=elav}, a harper held by the house, who sat within the Circle; child of Árnolen./
+Árnolen, who in the year the mountains closed had the College prove the roll and paid, and the College sang it in this hall; child of [Lothel]{.name data-type="being/npc" lang=elav}./
+[Lothel]{.name data-type="being/npc" lang=elav}, fostered by [Orethan]{.name data-type="affiliation/lineage" lang=elav}'s house, who owed [Orethan]{.name data-type="affiliation/lineage" lang=elav} a foster child; [Orethan]{.name data-type="affiliation/lineage" lang=elav}'s descent ended before the child was given; the roll owes that honor debt still; child of [Méreval]{.name data-type="being/npc" lang=elav} and Sírtala./
+[Méreval]{.name data-type="being/npc" lang=elav}, a river trader, who married Sírtala.
 
+[Here the harp is loudest.]{.direction}/
+Sírtala of the Dhárgandi, who came down from the hills into the basin and remained, keeping the high tongue in her mouth throughout her life; child of Ronken./
+Ronken of the Dhárgandi; child of [tháurmira]{.name data-type="being/npc" lang=aele}./
+[tháurmira]{.name data-type="being/npc" lang=aele} of the Dhárgandi, from the hearth kindled with fire from [[place-eshalshldg|the Lodge]]./
+And upward along Dhárgandi descent, held by the Keepers and not this house, to [dhargan]{.name data-type="being/npc" lang=aele}, who sat./
+And upward beyond [dhargan]{.name data-type="being/npc" lang=aele}, to snow on the pass and the lamb within the cloak.
+:::
 
-1 [Sílvera. náemathen nyes gene ti óssenda. nond en al derar lenthon gierth ti halthon. kenlon threl Táeren.]{lang=elav enc=elavsemaronenc}
-2 [Sílvera]{.name data-type="being/npc" lang=elav}, whom we name tonight, whose other name is not for this hall; child of [Táeren]{.name data-type="being/npc" lang=elav}.
-2 [Sílvera. náemathen nyes gene ti óssenda. nond en al derar lenthon gierth ti halthon. kenlon threl Táeren.]{lang=elav}
+::: {.verse form=sirnerne lang=elav enc=elavsemaronenc work=the-line-of-the-house-of-halvireth-2}
+Sírnerne./
+Sílvera. náemathen nyes gene ti óssenda. nond en al derar lenthon gierth ti halthon. kenlon threl Táeren./
+Táeren. géilathen gene al halthon reik al lántheris. málmathen al kendonalon. kenlon threl Méldoreth./
+Méldoreth. gélnathen gene al simme rith Péravel. árethathen gene gierth halthon. géilathen gene uk pirnaland ta taehes kirdon. déisnathen gene. kenlon threl Óuravel./
+Óuravel. dúlkathen al ánhrason róugathen gierth írvaloste rith al kirdis. en gene sorhand. háelathen gene al élthar ganthrel geth al úlmedera. théndathen al ganthrel. kenlon threl Deneth./
+Deneth. dárkathen gene al halthon dárkathen gene al telgonalon. rith al kirdon. árnathen al ravale andaernar. órnathen gene al dólgalon. kenlon threl Kálvorin./
+Kálvorin. théndathen al kernsalve rith al thalgan gierth gene. kenlon threl Therseth./
+Therseth. théndathen gene rith al nelgon lirve. rith al kirdon. árnathen al sirthalon. árethathen gene gierth halthon. kenlon threl Ráenor./
+Ráenor. lyero uk ronkathon lyeronno gournar gene. élthethen gene geth al gurmougon. nond náemathen gene al lyeronno. kenlon threl Ílthera./
+Ílthera. dárkathen gene uk ómbela rith al arlathon gournar al [Ordo Arcanis]{lang=en}. géilathen gene al ómbela. kenlon threl Gálveren./
+Gálveren. sálnathen gene al kálve rith al giethar ilmis gierth al ondren. dárkathen gene al kéinalis. théndathen al kálve. kenlon threl Velthar./
+Velthar. róugathen gene griene gierth al kurnand rith Elanmere. lyero gene al sírnerne goure. salkathen al kendonalon gene. kenlon threl Sarhel./
+Sarhel. gélgathen gene al pirnalhalthon gierth henda. háelathen gene gene grend rith kergis. kenlon threl Nerrin./
+Nerrin. uk pirnaland. al halthon dárkathen gene. hóuthathen gene rith al Rontha. kenlon threl Árnolen./
+Árnolen. rith al kirdon súndathen al sórvanda. gérkathen gene al Sáumirand saenathen al sírnerne. déisnathen gene. lyero al Sáumirand gene rith ti halthon. kenlon threl Lothel./
+Lothel. íthathen al halthon Orethan gene. mólthathen gene Orethan uk íthakenlon. dúlkathen al kenrison Orethan nond geinde al íthakenlon gierth Orethan. en al molthon rith al sírnerne. mólthathen al sírnerne. kenlon threl Méreval reik threl Sírtala./
+Méreval. uk geirdand rith al lántheve. thálmathen gene Sírtala.
 
-1 [Táeren. géilathen gene al halthon reik al lántheris. málmathen al kendonalon. kenlon threl Méldoreth.]{lang=elav enc=elavsemaronenc}
-2 [Táeren]{.name data-type="being/npc" lang=elav}, who keeps the house and the river meadows and feeds its people; child of [Méldoreth]{.name data-type="being/npc" lang=elav}.
-2 [Táeren. géilathen gene al halthon reik al lántheris. málmathen al kendonalon. kenlon threl Méldoreth.]{lang=elav}
-
-1 [Méldoreth. gélnathen gene al simme rith Péravel. árethathen gene gierth halthon. géilathen gene uk pirnaland ta taehes kirdon. déisnathen gene. kenlon threl Óuravel.]{lang=elav enc=elavsemaronenc}
-2 [Méldoreth]{.name data-type="being/npc" lang=elav}, who learned the art at Péravel and returned home, who kept a harper twenty years and paid him; child of [Óuravel]{.name data-type="being/npc" lang=elav}.
-2 [Méldoreth. gélnathen gene al simme rith Péravel. árethathen gene gierth halthon. géilathen gene uk pirnaland ta taehes kirdon. déisnathen gene. kenlon threl Óuravel.]{lang=elav}
-
-1 [Óuravel. dúlkathen al ánhrason róugathen gierth írvaloste rith al kirdis. en gene sorhand. háelathen gene al élthar ganthrel geth al úlmedera. théndathen al ganthrel. kenlon threl Deneth.]{lang=elav enc=elavsemaronenc}
-2 [Óuravel]{.name data-type="being/npc" lang=elav}, head of the house in the time silver ceased going east, who built the living bridge over the leat, which stands; child of [Deneth]{.name data-type="being/npc" lang=elav}.
-2 [Óuravel. dúlkathen al ánhrason róugathen gierth írvaloste rith al kirdis. en gene sorhand. háelathen gene al élthar ganthrel geth al úlmedera. théndathen al ganthrel. kenlon threl Deneth.]{lang=elav}
-
-1 [Deneth. dárkathen gene al halthon dárkathen gene al telgonalon. rith al kirdon. árnathen al ravale andaernar. órnathen gene al dólgalon. kenlon threl Kálvorin.]{lang=elav enc=elavsemaronenc}
-2 [Deneth]{.name data-type="being/npc" lang=elav}, who possessed the house in her own right, and opened the common stores in the year rain came wrongly; child of [Kálvorin]{.name data-type="being/npc" lang=elav}.
-2 [Deneth. dárkathen gene al halthon dárkathen gene al telgonalon. rith al kirdon. árnathen al ravale andaernar. órnathen gene al dólgalon. kenlon threl Kálvorin.]{lang=elav}
-
-1 [Kálvorin. théndathen al kernsalve rith al thalgan gierth gene. kenlon threl Therseth.]{lang=elav enc=elavsemaronenc}
-2 [Kálvorin]{.name data-type="being/npc" lang=elav}, for whom the oak stands at the ford gate; child of [Therseth]{.name data-type="being/npc" lang=elav}.
-2 [Kálvorin. théndathen al kernsalve rith al thalgan gierth gene. kenlon threl Therseth.]{lang=elav}
-
-1 [Therseth. théndathen gene rith al nelgon lirve. rith al kirdon. árnathen al sirthalon. árethathen gene gierth halthon. kenlon threl Ráenor.]{lang=elav enc=elavsemaronenc}
-2 [Therseth]{.name data-type="being/npc" lang=elav}, who stood on the northern shore in the year the fleets came and returned home; child of [Ráenor]{.name data-type="being/npc" lang=elav}.
-2 [Therseth. théndathen gene rith al nelgon lirve. rith al kirdon. árnathen al sirthalon. árethathen gene gierth halthon. kenlon threl Ráenor.]{lang=elav}
-
-1 [Ráenor. lyero uk ronkathon lyeronno gournar gene. élthethen gene geth al gurmougon. nond náemathen gene al lyeronno. kenlon threl Ílthera.]{lang=elav enc=elavsemaronenc}
-2 [Ráenor]{.name data-type="being/npc" lang=elav}, against whom an honored bard sang, who lived beyond the satire and did not name its bard; child of [Ílthera]{.name data-type="being/npc" lang=elav}.
-2 [Ráenor. lyero uk ronkathon lyeronno gournar gene. élthethen gene geth al gurmougon. nond náemathen gene al lyeronno. kenlon threl Ílthera.]{lang=elav}
-
-1 [Ílthera. dárkathen gene uk ómbela rith al arlathon gournar al [Ordo Arcanis]{lang=en}. géilathen gene al ómbela. kenlon threl Gálveren.]{lang=elav enc=elavsemaronenc}
-2 [Ílthera]{.name data-type="being/npc" lang=elav}, who held a chair at court against the [[affiliation-ordoarcanis|Arcane Order]] and kept it; child of [Gálveren]{.name data-type="being/npc" lang=elav}.
-2 [Ílthera. dárkathen gene uk ómbela rith al arlathon gournar al [Ordo Arcanis]{lang=en}. géilathen gene al ómbela. kenlon threl Gálveren.]{lang=elav}
-
-1 [Gálveren. sálnathen gene al kálve rith al giethar ilmis gierth al ondren. dárkathen gene al kéinalis. théndathen al kálve. kenlon threl Velthar.]{lang=elav enc=elavsemaronenc}
-2 [Gálveren]{.name data-type="being/npc" lang=elav}, who planted the birch in the low meadow for his brother, which stands; child of Velthar.
-2 [Gálveren. sálnathen gene al kálve rith al giethar ilmis gierth al ondren. dárkathen gene al kéinalis. théndathen al kálve. kenlon threl Velthar.]{lang=elav}
-
-1 [Velthar. róugathen gene griene gierth al kurnand rith Elanmere. lyero gene al sírnerne goure. salkathen al kendonalon gene. kenlon threl Sarhel.]{lang=elav enc=elavsemaronenc}
-2 Velthar, who went up to Elanmere's fair and sang the roll there, and the people heard him; child of [Sarhel]{.name data-type="being/npc" lang=elav}.
-2 [Velthar. róugathen gene griene gierth al kurnand rith Elanmere. lyero gene al sírnerne goure. salkathen al kendonalon gene. kenlon threl Sarhel.]{lang=elav}
-
-1 [Sarhel. gélgathen gene al pirnalhalthon gierth henda. háelathen gene gene grend rith kergis. kenlon threl Nerrin.]{lang=elav enc=elavsemaronenc}
-2 [Sarhel]{.name data-type="being/npc" lang=elav}, who lost the harp hall to fire and built it again in stone; child of [Nerrin]{.name data-type="being/npc" lang=elav}.
-2 [Sarhel. gélgathen gene al pirnalhalthon gierth henda. háelathen gene gene grend rith kergis. kenlon threl Nerrin.]{lang=elav}
-
-1 [Nerrin. uk pirnaland. al halthon dárkathen gene. hóuthathen gene rith al Rontha. kenlon threl Árnolen.]{lang=elav enc=elavsemaronenc}
-2 [Nerrin]{.name data-type="being/npc" lang=elav}, a harper held by the house, who sat within the Circle; child of Árnolen.
-2 [Nerrin. uk pirnaland. al halthon dárkathen gene. hóuthathen gene rith al Rontha. kenlon threl Árnolen.]{lang=elav}
-
-1 [Árnolen. rith al kirdon súndathen al sórvanda. gérkathen gene al Sáumirand saenathen al sírnerne. déisnathen gene. lyero al Sáumirand gene rith ti halthon. kenlon threl Lothel.]{lang=elav enc=elavsemaronenc}
-2 Árnolen, who in the year the mountains closed had the College prove the roll and paid, and the College sang it in this hall; child of [Lothel]{.name data-type="being/npc" lang=elav}.
-2 [Árnolen. rith al kirdon súndathen al sórvanda. gérkathen gene al Sáumirand saenathen al sírnerne. déisnathen gene. lyero al Sáumirand gene rith ti halthon. kenlon threl Lothel.]{lang=elav}
-
-1 [Lothel. íthathen al halthon Orethan gene. mólthathen gene Orethan uk íthakenlon. dúlkathen al kenrison Orethan nond geinde al íthakenlon gierth Orethan. en al molthon rith al sírnerne. mólthathen al sírnerne. kenlon threl Méreval reik threl Sírtala.]{lang=elav enc=elavsemaronenc}
-2 [Lothel]{.name data-type="being/npc" lang=elav}, fostered by [Orethan]{.name data-type="affiliation/lineage" lang=elav}'s house, who owed [Orethan]{.name data-type="affiliation/lineage" lang=elav} a foster child; [Orethan]{.name data-type="affiliation/lineage" lang=elav}'s descent ended before the child was given; the roll owes that honor debt still; child of [Méreval]{.name data-type="being/npc" lang=elav} and Sírtala.
-2 [Lothel. íthathen al halthon Orethan gene. mólthathen gene Orethan uk íthakenlon. dúlkathen al kenrison Orethan nond geinde al íthakenlon gierth Orethan. en al molthon rith al sírnerne. mólthathen al sírnerne. kenlon threl Méreval reik threl Sírtala.]{lang=elav}
-
-1 [Méreval. uk geirdand rith al lántheve. thálmathen gene Sírtala.]{lang=elav enc=elavsemaronenc}
-2 [Méreval]{.name data-type="being/npc" lang=elav}, a river trader, who married Sírtala.
-2 [Méreval. uk geirdand rith al lántheve. thálmathen gene Sírtala.]{lang=elav}
-
-***
-1 [Here the harp is loudest.]
-2 [Here the harp is loudest.]
-2 [Here the harp is loudest.]
-
-
-1 [Sírtala threl Dhárgandi. árnathen gene lourth threl al áuldalon gierth al dyemeson. géilathen gene gire goure. géilathen gene al gorth óstila rith al gaema. rith alnar kirdis. élthethen gene. kenlon threl Ronken.]{lang=elav enc=elavsemaronenc}
-2 Sírtala of the Dhárgandi, who came down from the hills into the basin and remained, keeping the high tongue in her mouth throughout her life; child of Ronken.
-2 [Sírtala threl Dhárgandi. árnathen gene lourth threl al áuldalon gierth al dyemeson. géilathen gene gire goure. géilathen gene al gorth óstila rith al gaema. rith alnar kirdis. élthethen gene. kenlon threl Ronken.]{lang=elav}
-
-1 [Ronken threl Dhárgandi. kenlon threl ]{lang=elav enc=elavsemaronenc}[tháurmira]{lang=aele}[.]{lang=elav enc=elavsemaronenc}
-2 Ronken of the Dhárgandi; child of [tháurmira]{.name data-type="being/npc" lang=aele}.
-2 [Ronken threl Dhárgandi. kenlon threl ]{lang=elav}[tháurmira]{lang=aele}[.]{lang=elav}
-
-1 [tháurmira]{lang=aele}[ threl Dhárgandi. threl al hendron. théinathen al hendron henda threl al [Lodge]{lang=en}.]{lang=elav enc=elavsemaronenc}
-2 [tháurmira]{.name data-type="being/npc" lang=aele} of the Dhárgandi, from the hearth kindled with fire from [[place-eshalshldg|the Lodge]].
-2 [tháurmira]{lang=aele}[ threl Dhárgandi. threl al hendron. théinathen al hendron henda threl al [Lodge]{lang=en}.]{lang=elav}
-
-1 [Reik griene rith al kenrison Dhárgandi. géilathen al Geiland al kenrison. nond ti halthon. gierth ]{lang=elav enc=elavsemaronenc}[dhargan]{lang=aele}[. hóuthathen gene.]{lang=elav enc=elavsemaronenc}
-2 And upward along Dhárgandi descent, held by the Keepers and not this house, to [dhargan]{.name data-type="being/npc" lang=aele}, who sat.
-2 [Reik griene rith al kenrison Dhárgandi. géilathen al Geiland al kenrison. nond ti halthon. gierth ]{lang=elav}[dhargan]{lang=aele}[. hóuthathen gene.]{lang=elav}
-
-1 [Reik griene gouthe ]{lang=elav enc=elavsemaronenc}[dhargan]{lang=aele}[. gierth al neilis rith al gandurth. reik al omrikenlon rith al gaelkis.]{lang=elav enc=elavsemaronenc}
-2 And upward beyond [dhargan]{.name data-type="being/npc" lang=aele}, to snow on the pass and the lamb within the cloak.
-2 [Reik griene gouthe ]{lang=elav}[dhargan]{lang=aele}[. gierth al neilis rith al gandurth. reik al omrikenlon rith al gaelkis.]{lang=elav}
-
-***
-```
+[Tis en al pirnal gaeri soldar.]{.direction}/
+Sírtala threl Dhárgandi. árnathen gene lourth threl al áuldalon gierth al dyemeson. géilathen gene gire goure. géilathen gene al gorth óstila rith al gaema. rith alnar kirdis. élthethen gene. kenlon threl Ronken./
+Ronken threl Dhárgandi. kenlon threl [tháurmira]{lang=aele}./
+[tháurmira]{lang=aele} threl Dhárgandi. threl al hendron. théinathen al hendron henda threl al [Lodge]{lang=en}./
+Reik griene rith al kenrison Dhárgandi. géilathen al Geiland al kenrison. nond ti halthon. gierth [dhargan]{lang=aele}. hóuthathen gene./
+Reik griene gouthe [dhargan]{lang=aele}. gierth al neilis rith al gandurth. reik al omrikenlon rith al gaelkis.
+:::
 
 The bard:
 
-```verse {form=sirnerne lang=en cols=2 numstep=5}
-1 [Lyeronno.]{lang=elav}
-2 The bard.
-2 [Lyeronno.]{lang=elav}
+::: {.verse form=sirnerne lang=en work=the-line-of-the-house-of-halvireth-3}
+The bard./
+That is the roll; the house has heard./
+No person rose, no one, no clan./
+[Sílvera]{.name data-type="being/npc" lang=elav}, you are within it; you hold the debt./
+[Orethan]{.name data-type="affiliation/lineage" lang=elav}, the oak, the birch, and fire within the house./
+The court chair, the hill, the snow, the height./
+It is yours; keep it and sing it in your time./
+Keep the recital and sing again./
+Fill cups; the roll feeds its people./
+I have sung the living and the dead./
+The roll is fed; keep its memory within your house.
+:::
 
-
-1 [En to al sírnerne. salkathen al halthon.]{lang=elav enc=elavsemaronenc}
-2 That is the roll; the house has heard.
-2 [En to al sírnerne. salkathen al halthon.]{lang=elav}
-
-1 [Nond róunithen kendar. nond al uk. nond al kenron.]{lang=elav enc=elavsemaronenc}
-2 No person rose, no one, no clan.
-2 [Nond róunithen kendar. nond al uk. nond al kenron.]{lang=elav}
-
-1 [Sílvera. en tose rith gene. dárkathen tose al molthon.]{lang=elav enc=elavsemaronenc}
-2 [Sílvera]{.name data-type="being/npc" lang=elav}, you are within it; you hold the debt.
-2 [Sílvera. en tose rith gene. dárkathen tose al molthon.]{lang=elav}
-
-1 [Orethan. al kernsalve. al kálve. reik al henda rith halthon.]{lang=elav enc=elavsemaronenc}
-2 [Orethan]{.name data-type="affiliation/lineage" lang=elav}, the oak, the birch, and fire within the house.
-2 [Orethan. al kernsalve. al kálve. reik al henda rith halthon.]{lang=elav}
-
-1 [Al ómbela rith arlathon. al aulde. al neilis. al gorth taldis.]{lang=elav enc=elavsemaronenc}
-2 The court chair, the hill, the snow, the height.
-2 [Al ómbela rith arlathon. al aulde. al neilis. al gorth taldis.]{lang=elav}
-
-1 [En to tosri. géilathen tose. lyero tose rith al kirdis.]{lang=elav enc=elavsemaronenc}
-2 It is yours; keep it and sing it in your time.
-2 [En to tosri. géilathen tose. lyero tose rith al kirdis.]{lang=elav}
-
-1 [Géilathen tose al mougon. lyero tose grend.]{lang=elav enc=elavsemaronenc}
-2 Keep the recital and sing again.
-2 [Géilathen tose al mougon. lyero tose grend.]{lang=elav}
-
-1 [Hréinathen tose al hírkon. gírathen al sírnerne al kendonend.]{lang=elav enc=elavsemaronenc}
-2 Fill cups; the roll feeds its people.
-2 [Hréinathen tose al hírkon. gírathen al sírnerne al kendonend.]{lang=elav}
-
-1 [Lyero munde reik al élthar reik al óllevine.]{lang=elav enc=elavsemaronenc}
-2 I have sung the living and the dead.
-2 [Lyero munde reik al élthar reik al óllevine.]{lang=elav}
-
-1 [En al sírnerne malmar. géilathen tose al sérdale rith tosri halthon.]{lang=elav enc=elavsemaronenc}
-2 The roll is fed; keep its memory within your house.
-2 [En al sírnerne malmar. géilathen tose al sérdale rith tosri halthon.]{lang=elav}
-```
+::: {.verse form=sirnerne lang=elav enc=elavsemaronenc work=the-line-of-the-house-of-halvireth-3}
+Lyeronno./
+En to al sírnerne. salkathen al halthon./
+Nond róunithen kendar. nond al uk. nond al kenron./
+Sílvera. en tose rith gene. dárkathen tose al molthon./
+Orethan. al kernsalve. al kálve. reik al henda rith halthon./
+Al ómbela rith arlathon. al aulde. al neilis. al gorth taldis./
+En to tosri. géilathen tose. lyero tose rith al kirdis./
+Géilathen tose al mougon. lyero tose grend./
+Hréinathen tose al hírkon. gírathen al sírnerne al kendonend./
+Lyero munde reik al élthar reik al óllevine./
+En al sírnerne malmar. géilathen tose al sérdale rith tosri halthon.
+:::
 
 : The names in the line {#names}
 
