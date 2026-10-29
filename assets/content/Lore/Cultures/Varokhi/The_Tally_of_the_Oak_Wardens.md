@@ -24,192 +24,185 @@ The tally runs from the four who died since the thaw, through the dead with deed
 : Eichthúl eldskorn {#eichthuleldskorn}
 
 ::: {.verse form=eldskorn lang=en work=eichthuleldskorn}
-[The eldest at the near hearth has the staff.]{.direction}
+[The eldest of the near hearth has the staff.]{.direction}
 
-These are [Eichthúl]{.name data-type="affiliation/lineage"}’s dead. Put children where they hear./
-One stroke for a name. Speak the deed as told you. Get it wrong and the hall stops its feet./
-[Thalrún]{.name data-type="being/npc" lang=varo} holds the staff last winter. I hold it this winter. I begin with her.
+These are the dead of the Eichthúl. Put the children where they can hear./
+One stroke to a name. Say the deed as you had it. If you have it wrong, the hall stops its feet./
+[Thalrún]{.name data-type="being/npc" lang=varo} had the staff last winter. I have it this winter, and I begin with her.
 
-[Thalrún]{.name data-type="being/npc" lang=varo}. She speaks these forty winters. Now she is spoken./
-[Vithskorn]{.name data-type="being/npc" lang=varo}. He repairs the weir in autumn. He never sees it hold spring water./
-[Vandilda]{.name data-type="being/npc" lang=varo}. She goes up to the posts with Nordmen’s words in her mouth. Nobody answers.
+Thalrún, who said these forty winters, and is said./
+[Vithskorn]{.name data-type="being/npc" lang=varo}, who mended the weir in the autumn and did not see it hold the spring water./
+[Vandilda]{.name data-type="being/npc" lang=varo}, who went up to the posts with the Nordmen's own words in her mouth, and was not answered.
 
-..[She goes at thaw, as ice leaves. Alone. No spear behind her.]{lang=en}/
-..[She stands at their gate and speaks their tongue. Whose land. What lies beneath.]{lang=en}/
-..[She speaks the hall’s offer for twelve winters. She names what the hall will not take.]{lang=en}/
-..[The gate stays closed. She stands until dark. She returns, repeats the words to three seats.]{lang=en}/
-..[The words are ours, whatever the gate does. She is dead by the long days.]{lang=en}/
-..[The posts stand.]{lang=en}
+..She went at the thaw, when the ice goes, alone, with no spear behind her,/
+..and stood at their gate and said in their tongue whose ground it was and what was under it,/
+..and said what the hall would take for the twelve winters, and what it would not take./
+..The gate stayed shut. She stood till dark. She came home and said the words over to the three seats/
+..so that the words would be ours whatever the gate did. She was dead by the long days./
+..The posts are standing.
 
 [Erthrik]{.name data-type="being/npc" lang=varo}.
 
-..[No deed. He has sixteen. He is spoken.]{lang=en}
+..There is no deed. He was sixteen. He is said.
 
-Those are four from thaw to thaw. The staff goes back.
+Those are the four from thaw to thaw. The staff goes back.
 
-[Wulfbán]{.name data-type="being/npc" lang=varo}. He carries fire behind Mahnulf to the first stockade. He is dead before the second stands.
+[Wulfbán]{.name data-type="being/npc" lang=varo}, who carried the fire behind Mahnulf to the first stockade, and was dead before the second stood.
 
-..[Wind comes from the grove that night. Fire takes its intended way.]{lang=en}/
-..[Nordmen stand outside in the field with cattle. They let it burn.]{lang=en}/
-..[Morning: black posts. Standing. Nordmen build on them again.]{lang=en}/
-..[[Wulfbán]{.name data-type="being/npc" lang=varo} says: Pull the posts while they are hot.]{lang=en}/
-..[River sickness takes him before the leaves.]{lang=en}/
-..[The posts stand.]{lang=en}
+..The wind was off the grove that night and the fire went where it was sent./
+..The Nordmen stood out in the field with their cattle and let it burn,/
+..and in the morning the posts were black, and standing, and they built on them again./
+..Wulfbán said the posts should have been pulled while they were hot./
+..The river fever had him before the leaves./
+..The posts are standing.
 
-[Harskald]{.name data-type="being/npc" lang=varo}. He is Hildskald. He tells the burning to the band every later winter. Same words./
-His words hold our burning./
-[Frithrád]{.name data-type="being/npc" lang=varo}. He brings the band home.
+[Harskald]{.name data-type="being/npc" lang=varo}, who was Hildskald and recited the burning to the _frath_ every winter after, in the same words,/
+and the burning as we have it is in his words./
+[Frithrád]{.name data-type="being/npc" lang=varo}, who brought the _frath_ home.
 
-[The far hearth, each winter]{.speaker} Late.
+[The far hearth, every winter:]{.speaker} Late.
 
-[The eldest]{.speaker}
+[The eldest:]{.speaker}/
+[Sundrik]{.name data-type="being/npc" lang=varo}, who ate for three and fought for two, and the hall called it a fair bargain./
+[Erthmund]{.name data-type="being/npc" lang=varo}, who carried [Grimrik]{.name data-type="being/npc" lang=varo} four miles with an arrow in his own leg and set him down at the wrong hall,
 
-[Sundrik]{.name data-type="being/npc" lang=varo}. He eats for three. He fights for two. The hall calls the bargain fair./
-[Erthmund]{.name data-type="being/npc" lang=varo}. He carries [Grimrik]{.name data-type="being/npc" lang=varo} four miles with an arrow in his own leg. Sets him at the wrong hall.
+..and Grimrik was fed there a week before anybody came for him, and came home fatter.
 
-..[People feed [Grimrik]{.name data-type="being/npc" lang=varo} seven days before someone comes for him. He returns fatter.]{lang=en}
+[Garstein]{.name data-type="being/npc" lang=varo}, who left the crossing before the man who was to take it came./
+[Domrún]{.name data-type="being/npc" lang=varo}, who kept three feuds in her head and untied two, and said the third aloud at the moot so it would not go into the ground with her./
+[Dorgulf]{.name data-type="being/npc" lang=varo}, who swore a _vora_ before the _frath_ and did not keep it.
 
-[Garstein]{.name data-type="being/npc" lang=varo}. He leaves the crossing before the next keeper arrives./
-[Domrún]{.name data-type="being/npc" lang=varo}. She holds three feuds in her head. Unties two. Speaks the third aloud at the moot, so it stays above earth./
-[Dorgulf]{.name data-type="being/npc" lang=varo}. He promises a vow before the band. He does not keep it.
+[From the children's bench:]{.speaker} Is he said?
 
-[From the children’s bench]{.speaker} Is he spoken?
+[The eldest:]{.speaker}/
+He is said. What the ancestors made of him is theirs. Keep your feet going.
 
-[The eldest]{.speaker}
-
-He is spoken. The ancestors judge him. That is theirs. Keep your feet going.
-
-[Edrigar]{.name data-type="being/npc" lang=varo}. He is Other Chief. He hears the cow two doors claim. He gives the calf to a third./
+[Edrigar]{.name data-type="being/npc" lang=varo}, who was Other Chief, and heard the cow that two doors claimed, and gave the calf to a third./
 [Arnmund]{.name data-type="being/npc" lang=varo}. [Arnrád]{.name data-type="being/npc" lang=varo}. [Arnhilda]{.name data-type="being/npc" lang=varo}.
 
-..[Three from one door in one winter. The cough comes upriver with grain boats.]{lang=en}/
-..[The door stands empty two years. It is not empty now. Wait.]{lang=en}
+..Three from one door in one winter, of the cough that came up the river with the grain boats./
+..The door stood empty two years. It is not empty now; wait for it.
 
-[Thornwin]{.name data-type="being/npc" lang=varo}. She comes upriver in the bottom of a grain boat. Someone buys her. She is spoken./
-Her arriving name goes back downriver with the boat.
+[Thornwin]{.name data-type="being/npc" lang=varo}, who came up the river in the bottom of a grain boat and was bought, and is said./
+The name she came with went back down the river with the boat.
 
-..[The mistress gives two pelts and an axe for her at the landing. The boatman wants three.]{lang=en}/
-..[She has the hall’s tongue in a year. Boats in three. Keys at the mistress’s death.]{lang=en}/
-..[Her sons are at this fire. Their sons too.]{lang=en}
+..The _othrún_ paid two _skurth_ and an axe for her at the landing, and the boatman wanted three./
+..She had the hall's tongue in a year and the boats in three, and the keys when the _othrún_ died./
+..Her sons are at this fire, and their sons.
 
 [The far hearth takes the staff.]{.direction}
 
-[Frodwin]{.name data-type="being/npc" lang=varo}. She is mistress in the [Winter of the Split Oak]{.name data-type="lore/history" lang=en}. She shares food.
+[Frodwin]{.name data-type="being/npc" lang=varo}, who was _othrún_ in the [Winter of the Split Oak]{.name data-type="lore/history" lang=en}, and portioned.
 
-..[Cold comes down in deepest winter. It stays.]{lang=en}/
-..[The great oak at the grove’s edge breaks from crown to root.]{lang=en}/
-..[Children hear a shield breaking. Men go out armed.]{lang=en}/
-..[[Frodwin]{.name data-type="being/npc" lang=varo} has stores. She measures barley by hand. One hand to each.]{lang=en}/
-..[The same hand to the hall’s servants. One starves in winter, we lose a hand in spring.]{lang=en}/
-..[Three seats sit with her and count. Nobody eats outside their turn.]{lang=en}/
-..[At thaw she reveals who asks to.]{lang=en}/
-..[Her hand is cut on the store-post. We still measure with it.]{lang=en}/
-..[The oak stands. Both halves leaf. It is inside their fence.]{lang=en}
+..The cold came down in the deep of _grema_ and stayed./
+..The great oak at the edge of the grove split from the crown to the root/
+..with a sound the children took for a shield going, and the men went out armed to it./
+..Frodwin had the stores. She measured barley by the hand, one hand to each,/
+..the same hand to the hall's slaves, because a slave starved in winter is a hand lost in spring./
+..The three seats sat with her and counted, and nobody ate out of turn,/
+..and she let it be known at the thaw who had asked to./
+..Her hand is cut on the store-post. We measure by it still./
+..The oak is standing. It leafs on both halves. It is inside their fence.
 
-[Theodmund]{.name data-type="being/npc" lang=varo}. He stops eating that winter. First says it before the hearth. Nobody later can say another forces him./
-[Wíthilda]{.name data-type="being/npc" lang=varo}. She keeps the banked fire. Every night of that cold, it never dies once./
-[Hildris]{.name data-type="being/npc" lang=varo}. She crosses ice to Nordmen’s fields with pelts. Returns with grain. Never names another offering./
-[Sundwin]{.name data-type="being/npc" lang=varo}. She is Skathár. She reckons Nordmen’s grain against [Hildris]{.name data-type="being/npc" lang=varo}’s load. Speaks the number at moot. People pay it./
-[Garulf]{.name data-type="being/npc" lang=varo}. [Hildrún]{.name data-type="being/npc" lang=varo}. [Skaldár]{.name data-type="being/npc" lang=varo}. They die of cold and hand-food./
-They lie in hides at the hall’s cold end until earth softens. They go in together.
+[Theodmund]{.name data-type="being/npc" lang=varo}, who stopped eating that winter and said so before the hearth first, so that nobody could say afterward he had been made to./
+[Wíthilda]{.name data-type="being/npc" lang=varo}, who kept the _gloth_, and through every night of that cold it did not go out once./
+[Hildris]{.name data-type="being/npc" lang=varo}, who crossed the ice to the Nordmen's farms with _skurth_ and came back with grain, and never said what else she paid./
+[Sundwin]{.name data-type="being/npc" lang=varo}, who was Skathár, and reckoned the Nordmen's grain against what Hildris carried, and said the sum at the moot, and it was paid./
+[Garulf]{.name data-type="being/npc" lang=varo}, and [Hildrún]{.name data-type="being/npc" lang=varo}, and [Skaldár]{.name data-type="being/npc" lang=varo}, who died of the cold and of the hand measure,/
+and lay in the hides at the cold end of the hall till the ground gave, and went in together.
 
-[Grimbán]{.name data-type="being/npc" lang=varo}. [Grimrik]{.name data-type="being/npc" lang=varo}. [Grimhilda]{.name data-type="being/npc" lang=varo}. [Grimwin]{.name data-type="being/npc" lang=varo}.
+[Grimbán]{.name data-type="being/npc" lang=varo}. Grimrik. [Grimhilda]{.name data-type="being/npc" lang=varo}. [Grimwin]{.name data-type="being/npc" lang=varo}.
 
-..[One door. One opening. Four names. They have the far end.]{lang=en}/
-..[That end is cold now. People keep hides there.]{lang=en}
+..One door, one opening, four names. They had the far end of the hall./
+..The far end is cold now and the hides are kept there.
 
-[From the children’s bench, counting]{.speaker} That is twenty-nine.
+[From the children's bench, counting:]{.speaker} That is twenty-nine.
 
-[The far hearth]{.speaker}
+[The far hearth:]{.speaker}/
+Nobody counts them. A number is for furs.
 
-Nobody counts them. A number is for pelts.
-
-[Thalwen]{.name data-type="being/npc" lang=varo}. She has the boats./
+[Thalwen]{.name data-type="being/npc" lang=varo}, who had the boats./
 [Rikwin]{.name data-type="being/npc" lang=varo}.
 
-[Hródila]{.name data-type="being/npc" lang=varo}. She comes out of [Eichwern]{.name data-type="place/feature" lang=varo} with pelts. No [Falkwen]{.name data-type="being/npc" lang=varo}./
-[Falkwen]{.name data-type="being/npc" lang=varo}.
+[Hródila]{.name data-type="being/npc" lang=varo}, who came out of the [Eichwern]{.name data-type="place/feature" lang=varo} with the furs and without [Falkwen]{.name data-type="being/npc" lang=varo}./
+Falkwen.
 
-..[This is the Boat in the Water at [Eichwern]{.name data-type="place/feature" lang=varo}. Autumn wind crosses the lake.]{lang=en}/
-..[The boat has the year’s pelts. Three great bundles. It turns over near stones.]{lang=en}/
-..[[Hródila]{.name data-type="being/npc" lang=varo} brings one bundle to the stones. Some say she returns for the second.]{lang=en}/
-..[Some say she returns for [Falkwen]{.name data-type="being/npc" lang=varo}. The lake already has her. She takes the bundle because it is there.]{lang=en}/
-..[The bundle feeds the hall that winter. No two tellings of that part.]{lang=en}
+..This is the [Drowned Boat at the Eichwern]{.name data-type="lore/history" lang=en}. The autumn wind came across the lake/
+..with the year's _skurth_ in the boat, three bales, and the boat went over off the stones./
+..Hródila got one bale to the stones. Some say she went back for the second./
+..Some say she went back for Falkwen, and the lake had her already, and she took the bale because it was there./
+..The bale fed the hall that winter. That much is not said two ways.
 
-[Waldulf]{.name data-type="being/npc" lang=varo}. He makes boats. After [Eichwern]{.name data-type="place/feature" lang=varo} he makes them wider./
-[Ermina]{.name data-type="being/npc" lang=varo}. She is Weskár. She names [Athalwin]{.name data-type="being/npc" lang=varo} her pupil, over her own daughter. Gives the reason before the hall./
-[Athalwin]{.name data-type="being/npc" lang=varo}. She is Weskár afterward. Goes to the totem nine times. Nine times asked: What do the dead say? Nine times says: Nothing you may hear./
-[Balthulf]{.name data-type="being/npc" lang=varo}. He is War Chief. Loses the seat to [Dagrith]{.name data-type="being/npc" lang=varo} at moot. Keeps his bench. Eats at [Dagrith]{.name data-type="being/npc" lang=varo}’s fire until death./
-[Dagrith]{.name data-type="being/npc" lang=varo}./
-[Wulfrád]{.name data-type="being/npc" lang=varo}. He raises this hall’s first post the summer the mother village breaks.
+[Waldulf]{.name data-type="being/npc" lang=varo}, who built the boats, and after the Eichwern built them wider./
+[Ermina]{.name data-type="being/npc" lang=varo}, who was Weskár, and named [Athalwin]{.name data-type="being/npc" lang=varo} her apprentice over her own daughter, and said why before the hall./
+Athalwin, who was Weskár after her, and went out to the wesk nine times, and was asked nine times what the dead had said, and nine times said: nothing you may hear./
+[Balthulf]{.name data-type="being/npc" lang=varo}, who was War Chief, and lost the seat at the moot to [Dagrith]{.name data-type="being/npc" lang=varo}, and kept his bench, and ate at Dagrith's fire till he died./
+Dagrith./
+[Wulfrád]{.name data-type="being/npc" lang=varo}, who raised the first post of this hall the summer the mother village split,
 
-..[The break gives us the mother village’s feud. He carries it until death.]{lang=en}/
-..[His grandson unties it. That grandson lies under the oaks.]{lang=en}
+..and the feud with the mother village that the split gave us he carried till his death,/
+..and his grandson untied it, and the grandson is under the oaks.
 
-[The far hearth]{.speaker}
+[The far hearth:]{.speaker}/
+Now the ones under the oaks. I do not say them.
 
-Now those under oaks. I do not say them.
+..Every Weskmund since the posts the ground has gone untended./
+..Twelve winters we have not cut the grass off the _hrum_ or taken the dead wood off it,/
+..and their hall-posts stand where our mothers walked up to the mound with the goods./
+..A name said over ground we cannot walk is a name said at a fence./
+..When the posts are pulled I will say them, all of them, and the twelve winters they missed, in one night.
 
-..[Every [Weskmund]{.name data-type="lore/gathering"} since the posts, nobody tends the ground.]{lang=en}/
-..[Twelve winters we do not cut grass from the mound. We do not take dead wood from it.]{lang=en}/
-..[Their hall-posts stand on our mothers’ way, carrying goods up to the mound.]{lang=en}/
-..[A name above land we cannot walk is a name at a fence.]{lang=en}/
-..[After pulling the posts, I say them. All. Twelve winters lost. In one night.]{lang=en}
-
-[The eldest]{.speaker}
-
+[The eldest:]{.speaker}/
 Give me the staff.
 
-..[Twelve winters without speaking are twelve winters for hungry spirits to find them.]{lang=en}/
-..[Those already wood are wood. A fence does not move a forest.]{lang=en}/
-..[The near ones still have their own shape. A fence can lose them.]{lang=en}/
-..[The totem holds words spoken to it. Nobody tells us its other holdings.]{lang=en}/
-..[I do not know their place. I know the names’ place.]{lang=en}
+..Twelve winters unsaid is twelve winters for the _hrag_ to find them./
+..The ones who are the wood already are the wood. A fence does not move a wood./
+..It is the near ones, the ones still in their own shape, that a fence can lose,/
+..because the wesk keeps what is said to it, and what else it keeps we were never told./
+..I do not know where they are. I know where the names are.
 
-[The far hearth]{.speaker}
+[The far hearth:]{.speaker}/
+Say them, then. Our feet are still.
 
-Speak them then. Our feet are silent.
+[The far hearth keeps its feet still through these.]{.direction}
 
-[The far hearth stops its feet through these.]{.direction}
-
-[Athalrik]{.name data-type="being/npc" lang=varo}. He turns the first soil of the mound beneath oaks. He is in it./
+[Athalrik]{.name data-type="being/npc" lang=varo}, who turned the first sod of the _hrum_ under the oaks, and is in it./
 [Athalrún]{.name data-type="being/npc" lang=varo}./
-[Dagwin]{.name data-type="being/npc" lang=varo}. She carries goods up to the mound for every death of her life. She chooses them./
-[Vithmund]{.name data-type="being/npc" lang=varo}. He holds Nordmen at the old ford in the raiding years.
+[Dagwin]{.name data-type="being/npc" lang=varo}, who carried the goods up to the mound for every funeral of her life and chose them./
+[Vithmund]{.name data-type="being/npc" lang=varo}, who held the Nordmen at the old ford, in the years of the raiding.
 
-..[They come upriver at thaw for cattle. He meets them at the ford with eleven.]{lang=en}/
-..[Six of eleven lie in the mound with him. Nordmen return home.]{lang=en}/
-..[Their grandsons’ grandsons come down the road instead. With posts. They do not return home.]{lang=en}
+..They came up the river at the thaw, for cattle, and he met them at the ford with eleven./
+..Six of the eleven are in the mound with him. The Nordmen went home./
+..Their grandsons' grandsons came down the road instead, with posts, and did not go home.
 
 [Skaldrún]{.name data-type="being/npc" lang=varo}. [Druthwin]{.name data-type="being/npc" lang=varo}. [Vristmund]{.name data-type="being/npc" lang=varo}./
-[Theodbán]{.name data-type="being/npc" lang=varo}. He is War Chief nineteen years. Dies in his bed. He calls that the deed./
+[Theodbán]{.name data-type="being/npc" lang=varo}, who was War Chief for nineteen years and died in his bed, which he said was the deed./
 [Ermawin]{.name data-type="being/npc" lang=varo}. [Vandhelm]{.name data-type="being/npc" lang=varo}./
-[Frithgár]{.name data-type="being/npc" lang=varo}. He is last in the mound. Summer before the posts./
-The posts stand.
+[Frithgár]{.name data-type="being/npc" lang=varo}, who was the last laid there, the summer before the posts./
+The posts are standing.
 
-[Weskár Erthilda, from her place beside fire]{.speaker}
+[The Weskár, Erthilda, from her place by the fire:]{.speaker}/
+Under their floors, sixty-three.
 
-Beneath their floors. Sixty-three.
+[Nothing is said after it. No feet go while the length of a calling passes, and then both hearths' feet come in together.]{.direction}
 
-[Nobody speaks after it. No feet move for a call’s duration. Then both hearths’ feet enter together.]{.direction}
+Now the ones whose deeds we have lost. Strike slower. There is nothing to say between.
 
-Now the people whose deeds we lose. Strike slowly. Nothing to speak between.
+[Rikmund]{.name data-type="being/npc" lang=varo}, who did a thing at the ford. The ford is known. The thing is not./
+[Brunjara]{.name data-type="being/npc" lang=varo}, whose deed went with the hearth that had it.
 
-[Rikmund]{.name data-type="being/npc" lang=varo}. He makes something at the ford. We know the ford. We do not know the thing./
-[Brunjara]{.name data-type="being/npc" lang=varo}. Her deed goes with the hearth holding it.
+..That hearth burned in Grimbán's grandmother's time,/
+..and the names came over to this end of the hall without their lines./
+..We have the names. Nobody has gone and got the lines back.
 
-..[That hearth burns in [Grimbán]{.name data-type="being/npc" lang=varo}’s grandmother’s time.]{lang=en}/
-..[The names come across to this end of the hall. No lines with them.]{lang=en}/
-..[We have names. Nobody goes to bring the lines back.]{lang=en}
-
-[Harwen]{.name data-type="being/npc" lang=varo}. She is at [Eichwern]{.name data-type="place/feature" lang=varo}. On stones or in boat./
-The knowing hearth is the burning hearth./
+[Harwen]{.name data-type="being/npc" lang=varo}, who was at the Eichwern, on the stones or in the boat./
+The hearth that knew which is the hearth that burned./
 [Druthulf]{.name data-type="being/npc" lang=varo}. [Thrawin]{.name data-type="being/npc" lang=varo}. [Frithwen]{.name data-type="being/npc" lang=varo}. [Garwin]{.name data-type="being/npc" lang=varo}./
-[Gárhilda]{.name data-type="being/npc" lang=varo}. She has a horse./
+[Gárhilda]{.name data-type="being/npc" lang=varo}, who had a horse./
 [Erthwin]{.name data-type="being/npc" lang=varo}./
-[Rádhilda]{.name data-type="being/npc" lang=varo}. She is mistress. Or her mother is.
+[Rádhilda]{.name data-type="being/npc" lang=varo}, who was _othrún_, or her mother was.
 
-Now the people who are wood.
+Now the ones who are the wood.
 
 [Balthrith]{.name data-type="being/npc" lang=varo}. [Hildwin]{.name data-type="being/npc" lang=varo}./
 [Domrik]{.name data-type="being/npc" lang=varo}. [Dómrika]{.name data-type="being/npc" lang=varo}./
@@ -217,220 +210,215 @@ Now the people who are wood.
 [Waldrún]{.name data-type="being/npc" lang=varo}. [Skathrún]{.name data-type="being/npc" lang=varo}./
 [Thrawald]{.name data-type="being/npc" lang=varo}. [Thrarún]{.name data-type="being/npc" lang=varo}. [Wulfstein]{.name data-type="being/npc" lang=varo}. [Thragrim]{.name data-type="being/npc" lang=varo}.
 
-..[Before [Thragrim]{.name data-type="being/npc" lang=varo} the staff has nothing.]{lang=en}/
-..[Names enter oaks before a staff exists to strike them.]{lang=en}/
-..[The first person keeps oaks. People name them for it. We speak them by the keeping. [Eichthúl]{.name data-type="affiliation/lineage"}.]{lang=en}
+..Before Thragrim the staff has nothing./
+..The names went into the oaks before there was a staff to strike them,/
+..and whoever first kept the oaks, and was called for it, we say by the keeping: Eichthúl.
 
 Now the staff turns.
 
-[Arnwin]{.name data-type="being/npc" lang=varo}. Born at thaw. Spoken first time./
-[Skathulf]{.name data-type="being/npc" lang=varo}. Born in long days. Spoken first time./
-[Frodrik]{.name data-type="being/npc" lang=varo}. Born at [Weskmund]{.name data-type="lore/gathering"}. Has the door the cough destroys. Spoken first time./
-[Dagrún]{.name data-type="being/npc" lang=varo}. Named three nights before this.
+[Arnwin]{.name data-type="being/npc" lang=varo}, born at the thaw, said for the first time./
+[Skathulf]{.name data-type="being/npc" lang=varo}, born in the long days, said for the first time./
+[Frodrik]{.name data-type="being/npc" lang=varo}, born at Weskmund, who has the door the cough emptied, said for the first time./
+[Dagrún]{.name data-type="being/npc" lang=varo}, named three nights before this one.
 
 Who has them after me?
 
-[[Othwen]{.name data-type="being/npc" lang=varo}]{.speaker} I have them.
+[[Othwen]{.name data-type="being/npc" lang=varo}:]{.speaker} I have them.
 
-[The eldest]{.speaker} Speak the first.
+[The eldest:]{.speaker} Say the first.
 
-[[Othwen]{.name data-type="being/npc" lang=varo}]{.speaker} [Thalrún]{.name data-type="being/npc" lang=varo}. She speaks these forty winters. Now she is spoken.
+[Othwen:]{.speaker} Thalrún, who said these forty winters, and is said.
 
-[The eldest]{.speaker}
-
-That is first. Get it wrong, the hall stops its feet./
-Far hearth keeps fire. Children’s bench keeps feet. [Othwen]{.name data-type="being/npc" lang=varo} has names./
-[Vithskorn]{.name data-type="being/npc" lang=varo} cuts this staff. [Thalrún]{.name data-type="being/npc" lang=varo} strikes it forty winters. I strike it one./
-Set it beside fire. Cover fire. Keep it until morning.
+[The eldest:]{.speaker}/
+That is the first. Where you go wrong, the hall stops its feet./
+The far hearth kept the fire. The children's bench kept the feet. Othwen has the names./
+Vithskorn cut this staff. Thalrún struck it forty winters. I have struck it one./
+Set it by the fire. Cover the fire. Keep it till morning.
 :::
 
 ::: {.verse form=eldskorn lang=varo enc=varosemaronenc work=eichthuleldskorn}
-[Eldri mawen er neri sta er gloth harve skarwen.]{.direction}
+[Eldri mawen er neri gloth harve skarwen.]{.direction}
 
-Eithra thum wredri er Eichthúl. Ladra othil et sta feor hru./
-Eom slagren ter nefren. Malwen jiwra likwe malwa ter thri. Ivwe thri na rethwi. Hemra steld fendar./
-Thalrún harve skarwen et forni grema. Wi harve hem et eith grema. Wi kendri mi hem.
+Eithra thum wredri er Eichthúl. Ladra othil theora hemwen hru./
+Eom slagren, eom nefren. Malwen hrodra likwe thri nemra hem./
+Ivwe thri na rethwi, hemra steld fendar./
+Thalrún halwen skarwen forni grema. Wi halwen hem eith grema,/
+vird wi kendri mi hem.
 
-Thalrún. Hem malwen eithra fedr tenra grema. Nuwa mawen malwen hem./
-Vithskorn. Hem smewra fisgrend et arvil er falwe weril. Hem na weir hem halwen watra er wathra./
-Vandilda. Hem wenga howen ter wersteld. Malwa er Nordmen thum inwe madr er hem. Nawen andwen andwa.
+Thalrún, hem malwen eithra fedr tenra grema, vird wemi malwen hem./
+Vithskorn, hem smewra fisgrend et falweril, vird na weir hem halwen watra er wathra./
+Vandilda, hem wenga howen ter wersteld mi malwa er Nordmen inwe madr er hem, vird nawen mawen andwa.
 
-..Hem wenga et wathra. Isra wenga fran hewra. Shal. Nawen gerth rewra hem./
-..Hem stanwe et grendan er hemwen. Hem malwen inwe malwa er hemwen. Er heir landra thum. Heith thum nivre hem./
-..Hem malwen bubren er hemra feor tenra thei grema. Hem malwen hemra na nemra heith./
-..Grendan stewra ludri. Hem stanwe ter dunra. Hem komwe rewa. Hem malwen malwa gendre ter threm sethar./
-..Malwa thum er wemi. Welri denger grendan smiwra. Hem thum wredri et larni dagren./
+..Hem wenga et wathra, et isra wenga, shal, nawen gerth rewra hem,/
+..vird stanwe et grendan er hemwen, vird malwen inwe malwa er hemwen/
+..erthra thum er heir, vird heith legwe nivre hem,/
+..vird heith hemra nemra feor tenra thei grema, vird heith hemra nawra./
+..Grendan stewra ludri. Hem stanwe ter dunra. Hem komwe rewa vird malwen malwa gendre frar threm sethar,/
+..vird malwa thum er wemi, althren heith grendan smiwra. Hem thum wredri et lartim dagren./
 ..Wersteld stanwe.
 
 Erthrik.
 
-..Nawen jiwra thum. Hem harve tenra seir. Mawen malwen hem.
+..Nawen hrodra thum. Hem harve tenra seir grema. Wemi malwen hem.
 
 Eothra thum fedr fran wathra ter wathra. Skarwen wenga rewa.
 
-Wulfbán. Hem berwa glarth rewra Mahnulf ter rend eom wergrend. Hem thum wredri frar rend thei stanwe.
+Wulfbán, hem berwa glarth rewra Mahnulf ter rend eom wergrend, vird hem thum wredri frar rend thei stanwe.
 
-..Wither komwe fran samen er werla et eoth nathra. Glarth wenga orwe wilri wegra./
-..Nordmen stanwe utwe inwe feldra mi ku er hemwen. Hemwen luwda glarna./
-..Et merga wersteld thum swarthi. Hemwen stanwe. Nordmen smiwra hemra orwe hemwen gendre./
-..Wulfbán malwen. Mawen skurwen drewra wersteld inwe warthi timra./
-..Suler er ruvith nemra hem frar weril./
+..Wither komwe fran werlak eoth nathra, vird glarth wenga ter sta wemi ferwa hem./
+..Nordmen stanwe utwe inwe feldra mi ku er hemwen, vird luwda hem glarna,/
+..vird et merga wersteld thum swarthi, vird stanwe, vird hemwen smiwra orwe hemwen gendre./
+..Wulfbán malwen wemi skurwen drewra wersteld warthi./
+..Warthsul er ruvith nemra hem frar weril./
 ..Wersteld stanwe.
 
-Harskald. Hem thum Hildskald. Hem malwen glarna ter frath gerwen grema nather hem. Samri malwa./
-Malwa er hem halwen glarna er wemi./
-Frithrád. Hem berwe frath rewa.
+Harskald, hem thum Hildskald, vird hem drungra glarnen ter frath gerwen grema nather, mi samri malwa,/
+vird glarnen likwe wemi harve hem thum inwe malwa er hem./
+Frithrád, hem ferwa frath ter hemra.
 
-[Ferni sta er gloth gerwen grema]{.speaker} Nathli.
+[Ferni gloth, gerwen grema.]{.speaker} Nathli.
 
-[Eldri mawen]{.speaker}
+[Eldri mawen.]{.speaker}/
+Sundrik, hem meld feor threm vird hildra feor thei, vird hemra malwen hem galri wenreth./
+Erthmund, hem berwa Grimrik fedr milwen mi gerfil inwe langri er hem selwen, vird ladra hem niwer et hemra na rethwi,
 
-Sundrik. Hem meld feor threm. Hem hildra feor thei. Hemra malwen wenreth thum rethwi./
-Erthmund. Hem berwa Grimrik fedr milwen. Gerfil thum inwe langri er hem selwen. Hem ladra hem et na rethwi hemra.
+..vird mawen fedra Grimrik theora sewren dagren frar sweri mawen komwe feor hem, vird hem komwe rewa mi meora fulwa.
 
-..Mawen fedra Grimrik theora sewren dagren frar andwen komwe feor hem. Hem komwe rewa meora fulwa.
+Garstein, hem farwe hreth frar andwen komwe feor hem./
+Domrún, hem halwen threm skathdreth inwe hrewen, vird drethla thei, vird malwen rend threm mi drathi waru frar sethar, derwe hem na wenga inwe erthra mi hem./
+Dorgulf, hem malwen vora frar frath, vird na halwen hem.
 
-Garstein. Hem farwe twerwe frar andwen komwe feor nemra hem./
-Domrún. Hem halwen threm skathdreth inwe hrewen. Hem drethla thei. Hem malwen rend threm mi drathi waru et metwen er hemren. Hem na wenga inwe erthra mi hem./
-Dorgulf. Hem worna vora frar frath. Hem na halwen hem.
+[Fran larni sethar er othil.]{.speaker} Wemi malwen hem we?
 
-[Fran larni sethar er othil]{.speaker} Mawen malwen hem we.
+[Eldri mawen.]{.speaker}/
+Wemi malwen hem. Heith eldu smiwra mi hem thum er hemwen. Framwe fendar.
 
-[Eldri mawen]{.speaker}
-
-Mawen malwen hem. Eldu welna hem. Eoth thum er hemwen. Framwe fendar er thri.
-
-Edrigar. Hem thum [Other Chief]{lang=en}. Hem hruda ku. Thei durwen malwen harvren. Hem selra othil er ku ter rend threm./
+Edrigar, hem thum Theodár, vird hru ku thei durwen malwen er hemwen, vird selra junri ku ter durwen rend threm./
 Arnmund. Arnrád. Arnhilda.
 
-..Threm fran eom durwen inwe eom grema. Suler er sulwa komwe howen ruvith mi badra er kernra./
-..Durwen stanwe mandri thei jaren. Hem na thum mandri nuwa. Widra feor hem.
+..Threm fran eom durwen inwe eom grema, fran sulwen komwe howen ruvith mi badra er barer./
+..Durwen stanwe manri thei jaren. Nuwa hem na thum manri. Widra feor hem.
 
-Thornwin. Hem komwe howen ruvith inwe niwri delwen er badra er kernra. Mawen kowra hem. Mawen malwen hem./
-Nefren er komwe er hem wenga niwer ruvith rewa mi badra.
+Thornwin, hem komwe howen ruvith inwe niwri delwen er badra er barer, vird mawen kowra hem, vird wemi malwen hem./
+Nefren er kildren er hem wenga rewa niwer ruvith mi badra.
 
-..Othrún selra thei skurth virwe brold feor hem et moreth. Mawen er badra wivre threm./
-..Hem harve malwa er hemra inwe eom jaren. Badra inwe threm. Gril et wreda er othrún./
-..Othlin er hem thum et eith glarth. Othlin er hemwen owren.
+..Othrún selra thei skurth virwe brold feor hem et moreth, vird marwen er badra wivre threm./
+..Hem harve malwa er hemra et eom jaren, vird badra et threm, vird gril et wreda er othrún./
+..Othlin er hem thum et eith glarth, vird othlin er hemwen.
 
-[Ferni sta er gloth nemra skarwen.]{.direction}
+[Ferni gloth nemra skarwen.]{.direction}
 
-Frodwin. Hem thum othrún inwe Grema er Brekri Eikra. Hem delra melfa.
+Frodwin, hem thum othrún et Grema er Brekri Eikra, vird hem delra.
 
-..Kalwen komwe niwer inwe midwen er grema. Hem stewra./
-..Greth eikra et salra er samen er werla brekwa fran howri werna ter werun./
-..Hruwen thum likwe brekwa hildul ter othil. Marwen wenga utwe mi hral feor hem./
-..Frodwin harve makra. Hem meweth barer mi wethan. Eom wethan ter gerwen./
-..Samri wethan ter serwar er hemra. Derwen serwar wredi mi melfren et grema. Wemi forwe wethan et wathra./
-..Threm sethar sedra mi hem virwe tavra. Nawen mawen meld utwer tagren./
-..Et wathra hem weirla heir frawna feor hem./
-..Wethan er hem harve werka orwe wersteld er makra. Wemi meweth mi hem buwra./
-..Eikra stanwe. Weril grula orwe thewen helwen. Hem thum inwe wergrend er hemwen.
+..Kalwen komwe niwer et midwen er grema vird stewra./
+..Greth eikra et salra er werlak brekwa fran hrewen ter werun/
+..mi hruwen othil radwa thum hildul brekwa, vird marwen wenga utwe ter hem mi gerth./
+..Frodwin harve makra. Hem meweth barer mi wethan, eom wethan ter gerwen,/
+..samri wethan ter Othmund er hemra, derwen Othmund wredri mi melfren et grema thum wethan forwe et wathra./
+..Threm sethar sedra mi hem vird tavra, vird nawen mawen meld frandra tagren er hem,/
+..vird et wathra hem weirla heir frawna meld./
+..Wethan er hem thum skern orwe wersteld er makra. Wemi meweth mi hem buwra./
+..Eikra stanwe. Hem harve weril orwe thewen helwen. Hem thum inwe wergrend er hemwen.
 
-Theodmund. Hem steld meld et eoth grema. Hem malwen hem frar sta er gloth rend eom. Nawen mawen kanda malwen nathri. Andwen threwa hem./
-Wíthilda. Hem halwen gloth. Gerwen nathra er eoth kalwen. Hem na wredi eom renwen./
-Hildris. Hem wenga twerwe isra ter feldra er Nordmen mi skurth. Hem komwe rewa mi kernra. Hem na malwen andwe bubren nawen renwen./
-Sundwin. Hem thum Skathár. Hem skatha kernra er Nordmen mi bereth er Hildris. Hem malwen tavren et metwen er hemren. Mawen selra hem./
-Garulf. Hildrún. Skaldár. Hemwen wredi mi kalwen virwe melfa er wethan./
-Hemwen legwe inwe huldren et kalri luren er hemra ter erthra wendri mewi. Hemwen wenga inwe mi thewen.
+Theodmund, hem steld meld eoth grema, vird malwen hem frar gloth rend eom, derwe nawen mawen kanda malwen nathri hem na wivri./
+Wíthilda, hem halwen gloth, vird inwe gerwen nathra er eoth kalwen glarth na steld eom renwen./
+Hildris, hem wenga twerwe isra ter feldra er Nordmen mi skurth, vird komwe rewa mi barer, vird nawen renwen malwen heith andwe hem selra./
+Sundwin, hem thum Skathár, vird skatha barer er Nordmen andri heith Hildris berwa, vird malwen tavren frar sethar, vird wemi selra hem./
+Garulf, virwe Hildrún, virwe Skaldár, hemwen wredi fran kalwen vird fran wethan er barer,/
+vird legwe inwe huldren et kalri luren er hemra ter erthra durna, vird wenga inwe samri renwen.
 
 Grimbán. Grimrik. Grimhilda. Grimwin.
 
-..Eom durwen. Eom durna. Fedr nefren. Hemwen harve ferni luren er hemra./
-..Ferni luren thum kalri nuwa. Mawen halwen huldren theora.
+..Eom durwen, eom renwen, fedr nefren. Hemwen harve ferni luren er hemra./
+..Ferni luren thum kalri nuwa, vird huldren legwe theora.
 
-[Fran larni sethar er othil. Tavra]{.speaker} Eoth thum thei tenra niwen.
+[Fran larni sethar er othil, tavra.]{.speaker} Eoth thum thei tenra niwen.
 
-[Ferni sta er gloth]{.speaker}
+[Ferni gloth.]{.speaker}/
+Nawen mawen tavra hemwen. Tavren thum feor skurth virwe skuldren.
 
-Nawen mawen tavra hemwen. Tavren thum feor skurth.
-
-Thalwen. Hem harve badra./
+Thalwen, hem harve badra./
 Rikwin.
 
-Hródila. Hem komwe utwe Eichwern mi skurth. Nawen Falkwen./
+Hródila, hem komwe utwe fran Eichwern mi skurth, vird na mi Falkwen./
 Falkwen.
 
-..Eith thum Badra inwe Watra et Eichwern. Wither er arvil er falwe weril komwe twerwe wern./
-..Badra harve skurth er jaren. Threm greth bawen. Badra wendri nivre howra neri stenra./
-..Hródila berwe eom bawen ter stenra. Sweri mawen malwen hem komwe rewa feor rend thei./
-..Sweri malwen hem komwe rewa feor Falkwen. Wern harve hem nengra. Hem nemra bawen derwen hem thum theora./
-..Bawen fedra hemra et eoth grema. Nawen thei malwa feor eoth delwen.
+..Eith thum Badra inwe Eichwern. Wither er falweril komwe twerwe wern/
+..mi skurth er jaren inwe badra, threm bereth, vird badra falwe orwe stenra./
+..Hródila berwe eom bereth ter stenra. Sweri malwen hem komwe rewa feor rend thei./
+..Sweri malwen hem komwe rewa feor Falkwen, vird wern nengra harve hem, vird hem nemra bereth derwen hem thum theora./
+..Bereth fedra hemra eoth grema. Wemi na malwen eoth thei wegra.
 
-Waldulf. Hem smiwra badra. Nather Eichwern hem smiwra hemwen wider./
-Ermina. Hem thum Weskár. Hem nefra Athalwin lerwin er hem. Na othwa er hem selwen. Hem malwen radwen frar hemra./
-Athalwin. Hem thum Weskár nather hem. Hem wenga utwe ter wesk niwen renwen. Mawen frawna niwen renwen. Wredri mawen malwen heith. Niwen renwen hem malwen. Nawen denger thri harve luwra hru./
-Balthulf. Hem thum [War Chief]{lang=en}. Hem forwe sethar et metwen er hemren ter Dagrith. Hem halwen larni sethar er hem. Hem meld et glarth er Dagrith ter wreda er hem./
+Waldulf, hem smiwra badra, vird nather Eichwern hem smiwra hemwen meora wider./
+Ermina, hem thum Weskár, vird nefra Athalwin lerwin er hem howra othwa er hem selwen, vird malwen herwen frar hemra./
+Athalwin, hem thum Weskár nather hem, vird wenga utwe ter wesk niwen renwen, vird mawen frawna hem niwen renwen heith wredri malwen, vird niwen renwen hem malwen «Nawen denger thri harve luwra hru.»/
+Balthulf, hem thum ferrar er frath, vird forwe sethar frar sethar ter Dagrith, vird halwen larni sethar er hem, vird meld et glarth er Dagrith ter hem wredi./
 Dagrith./
-Wulfrád. Hem riwra rend eom wersteld er eith hemra et sumra er brekwa er mowen hemren.
+Wulfrád, hem riwra rend eom wersteld er eith hemra et sumra mowen hemren brekwa,
 
-..Brekwa selra skathdreth er mowen hemren ter wemi. Hem berwa hem ter wreda./
-..Othlin er othil er hem drethla hem. Eoth othlin er othil thum nivre eikra.
+..vird skathdreth mi mowen hemren, breka selra hem ter wemi, hem berwa ter wreda er hem,/
+..vird othil er othil er hem drethla hem, vird othil er othil thum nivre eikra.
 
-[Ferni sta er gloth]{.speaker}
-
+[Ferni gloth.]{.speaker}/
 Nuwa mawen nivre eikra. Wi na malwen hemwen.
 
-..Gerwen Weskmund fran wersteld. Nawen mawen smewra landra./
-..Tenra thei grema wemi na werka graswen fran hrum. Wemi na nemra wredri wulra fran hem./
-..Wersteld er hemra er hemwen stanwe et wegra er mowen er wemi. Hemwen berwe harven howen ter hrum./
-..Nefren orwe landra. Wemi na kanda wenga orwe hem. Eoth thum nefren et wergrend./
-..Nather drewra wersteld. Wi malwen hemwen. Awen hemwen. Tenra thei grema er drel. Inwe eom nathra.
+..Gerwen Weskmund fran wersteld erthra stewra na halwen./
+..Tenra thei grema wemi na skerna graswen orwe hrum, vird na nemra wredri wulra fran hem,/
+..vird wersteld er hemra er hemwen stanwe theora mowen er wemi wenga howen ter hrum mi harven./
+..Nefren malwa howra erthra wemi na kanda wenga thum nefren malwa et wergrend./
+..Ivwe mawen drewra wersteld, wi malwen hemwen, awen, vird tenra thei grema hemwen forwe, inwe eom nathra.
 
-[Eldri mawen]{.speaker}
-
+[Eldri mawen.]{.speaker}/
 Selra skarwen ter wi.
 
-..Tenra thei grema na malwa thum tenra thei grema feor hrag finwe hemwen./
-..Sweri thum wulra nengra. Hemwen thum wulra. Wergrend na ruwra woldra./
-..Neri mawen. Hemwen harve samri ruwen buwra. Wergrend kanda forwe hemwen./
-..Derwen wesk halwen malwa ter hem. Nawen mawen malwen andwe harven er hem ter wemi./
-..Wi na witna sta er hemwen. Wi witna sta er nefren.
+..Tenra thei grema na malwa thum tenra thei grema feor hrag ter finwe hemwen./
+..Mawen er woldra thum woldra nengra. Wergrend na ruwra woldra./
+..Neri wredri, hemwen buwra inwe ruwen er hemwen selwen, wergrend kanda forwe hemwen,/
+..derwen wesk halwen heith wemi malwen ter hem, vird heith andwe hem halwen, nawen mawen malwen ter wemi./
+..Wi na witna heori hemwen thum. Wi witna heori nefren thum.
 
-[Ferni sta er gloth]{.speaker}
+[Ferni gloth.]{.speaker}/
+Sowe malwen hemwen. Fendar er wemi stewra.
 
-Malwen hemwen theira. Fendar er wemi thum hrelmi.
+[Ferni gloth halwen fendar hrelmi inwe eithra.]{.direction}
 
-[Ferni sta er gloth steld fendar inwe eithra.]{.direction}
-
-Athalrik. Hem wendri rend eom erthmel er hrum nivre eikra. Hem thum inwe hem./
+Athalrik, hem erthwa rend eom erthhul er hrum nivre eikra, vird hem thum inwe hem./
 Athalrún./
-Dagwin. Hem berwa harven howen ter hrum feor gerwen wreda er livren er hem. Hem welna hemwen./
-Vithmund. Hem halwen Nordmen et forni hreth inwe jaren er brukin.
+Dagwin, hem berwa harven howen ter hrum feor gerwen wreda er livren er hem, vird welna hemwen./
+Vithmund, hem halwen Nordmen et forni hreth, inwe jaren er brukin.
 
-..Hemwen komwe howen ruvith et wathra feor ku. Hem metwen hemwen et hreth mi tenra eom./
-..Seir er tenra eom thum inwe hrum mi hem. Nordmen komwe rewa./
-..Othlin er othil er othlin er othil er hemwen komwe niwer ragra et sta er hem. Mi wersteld. Hemwen na komwe rewa.
+..Hemwen komwe howen ruvith et wathra feor ku, vird hem metwen hemwen et hreth mi tenra eom./
+..Seir er tenra eom thum inwe hrum mi hem. Nordmen wenga ter hemra./
+..Othil er othil er othil er othil er hemwen komwe niwer ragra et sta er eoth, mi wersteld, vird na wenga ter hemra.
 
 Skaldrún. Druthwin. Vristmund./
-Theodbán. Hem thum [War Chief]{lang=en} tenra niwen jaren. Hem wredi inwe drumseth. Hem malwen eoth thum jiwra./
+Theodbán, hem thum ferrar er frath tenra niwen jaren, vird wredi inwe drumseth er hem, vird hem malwen eoth thum hrodra./
 Ermawin. Vandhelm./
-Frithgár. Hem thum lestra inwe hrum. Sumra frar wersteld./
+Frithgár, hem thum lestra mawen hemwen bunra theora, et sumra frar wersteld./
 Wersteld stanwe.
 
-[Weskár Erthilda fran sta er hem sider glarth]{.speaker}
+[Weskár, Erthilda, fran sta er hem neri glarth.]{.speaker}/
+Nivre flerda er hemwen, seir tenra threm.
 
-Nivre flerda er hemwen. Seir tenra threm.
+[Nawen denger thum malwa nather eith. Nawen fendar ruwra inwe timra er eom warwa, vird theira fendar er thewen gloth komwe inwe mi samri renwen.]{.direction}
 
-[Nawen mawen malwen nather hem. Nawen fendar wenga inwe timra er warwa. Theira fendar er thewen sta er gloth komwe mi thewen.]{.direction}
+Nuwa mawen, wemi forwe hrodra er hemwen. Slagra meora sulwi. Nawen denger thum feor malwen twerna.
 
-Nuwa mawen. Wemi forwe jiwra er hemwen. Slagra sulwi. Nawen denger thum feor malwen twerna.
+Rikmund, hem smiwra denger et hreth. Wemi witna hreth. Wemi na witna denger./
+Brunjara, hrodra er hem wenga mi gloth eoth harve hem.
 
-Rikmund. Hem smiwra denger et hreth. Wemi witna hreth. Wemi na witna denger./
-Brunjara. Jiwra er hem wenga mi sta er gloth. Hemra halwen hem.
+..Eoth gloth glarna inwe timra er mowen er othel er Grimbán,/
+..vird nefren komwe ter eith luren er hemra na mi selmal er hemwen./
+..Wemi harve nefren. Nawen mawen wenga vird berwe selmal rewa.
 
-..Eoth sta er gloth glarna inwe timra er mowen er othel er Grimbán./
-..Nefren komwe twerwe ter eith luren er hemra. Nawen selmal mi hemwen./
-..Wemi harve nefren. Nawen mawen wenga feor berwe selmal rewa.
-
-Harwen. Hem thum et Eichwern. Orwe stenra urwe inwe badra./
-Sta er gloth witna heini. Eoth sta er gloth glarna./
+Harwen, hem thum et Eichwern, orwe stenra urwe inwe badra./
+Gloth eoth witna heini thum gloth eoth glarna./
 Druthulf. Thrawin. Frithwen. Garwin./
-Gárhilda. Hem harve hrosk./
+Gárhilda, hem harve hrosk./
 Erthwin./
-Rádhilda. Hem thum othrún. Urwe mowen er hem thum.
+Rádhilda, hem thum othrún, urwe mowen er hem thum.
 
-Nuwa mawen thum wulra.
+Nuwa mawen er woldra.
 
 Balthrith. Hildwin./
 Domrik. Dómrika./
@@ -439,30 +427,29 @@ Waldrún. Skathrún./
 Thrawald. Thrarún. Wulfstein. Thragrim.
 
 ..Frar Thragrim skarwen harve nawen./
-..Nefren wenga inwe eikra frar skarwen thum feor slagra hemwen./
-..Rend eom mawen halwen eikra. Mawen nefra hem feor hem. Wemi malwen hem mi halwen. Eichthúl.
+..Nefren wenga inwe eikra frar skarwen thum feor slagra hemwen,/
+..vird mawen rend eom halwen eikra, vird mawen warwa hem feor eoth, wemi nefra hem mi jiwra er hem. Eichthúl.
 
-Nuwa skarwen wendri.
+Nuwa skarwen husra rewa.
 
-Arnwin. Elra et wathra. Rend eom malwen./
-Skathulf. Elra inwe larni dagren. Rend eom malwen./
-Frodrik. Elra et Weskmund. Hem harve durwen. Suler er sulwa brulwa hem. Rend eom malwen./
-Dagrún. Nefren threm nathra frar eith.
+Arnwin. Elra et wathra. Wemi malwen hem rend eom renwen./
+Skathulf. Elra et lartim dagren. Wemi malwen hem rend eom renwen./
+Frodrik. Elra et Weskmund. Hem harve durwen sulwen smiwra manri. Wemi malwen hem rend eom renwen./
+Dagrún. Weskár nefra hem threm nathra frar eith.
 
-Heir harve hemwen nather wi.
+Heir harve hemwen nather wi?
 
-[Othwen]{.speaker} Wi harve hemwen.
+[Othwen.]{.speaker} Wi harve hemwen.
 
-[Eldri mawen]{.speaker} Malwen rend eom.
+[Eldri mawen.]{.speaker} Malwen rend eom.
 
-[Othwen]{.speaker} Thalrún. Hem malwen eithra fedr tenra grema. Nuwa mawen malwen hem.
+[Othwen.]{.speaker} Thalrún, hem malwen eithra fedr tenra grema, vird wemi malwen hem.
 
-[Eldri mawen]{.speaker}
-
-Eoth thum rend eom. Ivwe thri na rethwi. Hemra steld fendar./
-Ferni sta er gloth halwen glarth. Larni sethar er othil halwen fendar. Othwen harve nefren./
+[Eldri mawen.]{.speaker}/
+Eoth thum rend eom. Ivwe thri na rethwi, hemra steld fendar./
+Ferni gloth halwen glarth. Larni sethar er othil halwen fendar. Othwen harve nefren./
 Vithskorn werka eith skarwen. Thalrún slagra hem fedr tenra grema. Wi slagra hem eom./
-Ladra hem sider glarth. Hulra glarth. Halwen hem ter merga.
+Ladra hem sider glarth. Swefra glarth. Halwen hem ter merga.
 :::
 
 ## See Also

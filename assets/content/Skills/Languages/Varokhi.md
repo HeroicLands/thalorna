@@ -4957,6 +4957,53 @@ data:
       gloss: "empty; unoccupied"
       note: "As a verb in verse: become empty."
     - {form: larg, class: n, field: Everyday speech, gloss: "light; daylight"}
+    - form: eldwold
+      class: n
+      field: "The reciters' stock"
+      gloss: "the old wood: the forest of the old days, where a charm's precedent happens"
+      built: [eldri, woldra]
+    - form: breka
+      class: n
+      field: Everyday speech
+      gloss: "a break; the place where a bone or a branch is broken"
+    - {form: warthsul, class: n, field: Everyday speech, gloss: "a fever", built: [wartha, suler]}
+    - form: skerth
+      class: n
+      field: Everyday speech
+      gloss: "a cut made by an edge, in flesh, wood or cloth"
+    - {form: skerna, class: v, field: Everyday speech, gloss: "to cut with a knife or a blade"}
+    - {form: wethla, class: v, field: Everyday speech, gloss: "to wash with water and the hand"}
+    - form: drethi
+      class: adj
+      field: Everyday speech
+      gloss: "straight; running true without a bend, as a drawn cord runs"
+    - form: hrodra
+      class: n
+      field: "The reciters' stock"
+      gloss: "a deed: the thing done that a name is remembered by"
+    - form: falweril
+      class: n
+      field: Everyday speech
+      gloss: "autumn, the fall of the leaves"
+      built: [falwe, weril]
+    - {form: glarnen, class: n, field: Everyday speech, gloss: "a burning: a fire set to destroy"}
+    - {form: werlak, class: n, field: Everyday speech, gloss: "a grove; a stand of trees"}
+    - form: erthlos
+      class: adj
+      field: "The reciters' stock"
+      gloss: "unburied; with no ground over the body"
+    - form: domra
+      class: v
+      field: "The reciters' stock"
+      gloss: "to judge; to pass judgment on a person or a deed"
+    - form: wendil
+      class: n
+      field: Everyday speech
+      gloss: "one turn of a binding: a wrap of cord or bast around a thing"
+    - form: hengra
+      class: v
+      field: Everyday speech
+      gloss: "to hang something from a peg, a beam or a cord"
   elements:
     - {form: arn-, position: opening, sense: an eagle, examples: [Arnthúl, Arnmund, Arnwin]}
     - form: ar-

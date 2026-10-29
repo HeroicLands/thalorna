@@ -29,821 +29,834 @@ The lay names no people but its own and the giants. [[lore-takingwood|The Taking
 : Dorgbán drunga {#dorgbandrunga}
 
 ::: {.verse form=drunga lang=en work=dorgbandrunga}
-[The Dorgbán reciter]{.speaker}/
-Stand away from boats.    Give boards to the staff./
-I give the ford’s lay.    As Dorgbán keep it./
-Each word from a man.    He keeps it before me./
-Back thus. Man to man.    To one standing at the ford who sees.
-
-The staff is for time.    Down on boards./
-At the line’s breaking. The line    breaks at the staff’s descent./
-Lose staff, lose lay.    The man before me says the same./
-He has it from a man    keeping it with his foot.
-
-I speak here at crossing.    Peace is kept here./
-Grain on boards behind me.    Pelts before./
-Hear with desire.    A lay is no exchange./
-It goes upriver with me    when boats go.
-
-Grass before forest.    Sky to earth./
-People cross it.    Following cattle herds./
-Long day’s riding.    Next day the same./
-Nobody among them    ever stands in shade.
-
-Horses are people’s feet.    Cloth houses their halls./
-Children born in motion.    Elders die in it./
-Left where they fall.    Stone on chest./
-No land exists yet    anyone can call ours.
-
-The lay names no cause of going.    Dry season or worse people./
-Or grass ends ahead.    As grass does./
-They ride until sky descends    and rises again as trees./
-Horses refuse to enter.    That is beginning.
-
-Wall of trunks. Darkness behind    hard as held breath./
-River runs below.    Brown and slow./
-Scouts go upstream three days.    Find one ford./
-On its far side    something stands. No tree.
-
-Large as surrounding trees.    Slow as year./
-They do not look up quickly.    They do not look up./
-Until the thing before them    stands long./
-Then they look. Keep looking.    Do not look elsewhere.
-
-They keep herds in clearings.    Red cattle, boat-wide./
-Cattle have no fear.    Come at their call./
-They sleep on feet, leaning.    Like dead pine./
-Their eyes at dusk    have river-ice’s form.
-
-No halls. No stockades.    They have clearings./
-They eat standing, from hands.    Cattle-food and cattle./
-They are old. The youngest    older than our oldest./
-No children among them.    No man of ours learns why.
-
-No iron. None.    No nail among them./
-Stone on wood they carry.    Wood on nothing./
-Whole trunk for staff.    Door-wide hand./
-A hand closes on a man.    He does not come out.
-
-Nobody learns their names.    Nobody asks./
-Their words to each other    pass over our heads./
-Like river’s sound    under deep-winter ice./
-We call them dorg. Our word.    The only one.
-
-They hold the ford. All of it.    They stand in water./
-To knees. A man drowns there.    They let cattle drink./
-Scouts come down bank.    All turn. Slowly./
-Scouts return up bank.    Faster than descending.
-
-Three summers people sit on grass.    Forest before them./
-Three summers scouts descend.    Return upward./
-Cattle eat grass behind.    Herds are weak./
-Third winter    children eat horses.
-
-Then one stands at fire.    No name yet./
-Boy with father’s hands.    Nothing else of father./
-Father goes down bank    in second summer./
-Returns up on cloak.    That is a returning way.
-
-He speaks before band.    As a vow is spoken./
-Standing with open hands.    All see emptiness./
-I cross water at ford.    Stand in their place./
-I do not return up bank    until ford is ours.
-
-That is vow. The lay calls him    Brunjulf from here./
-He returns with that name.    The lay knows the ending./
-Band hears. Does not laugh.    Vow before band./
-Each hearing man    must carry it down bank.
-
-Balthgar says: You are young for it.    Then: Band goes too./
-Nobody calls ford worthless.    Children eat horses./
-Frodhelm strikes earth once.    Says he keeps the words./
-Counting begins from that blow.    Staff’s first fall.
-
-These descend with him.    I give as told me./
-Erthulf goes. He kills bear    with a breaking spear./
-Finishes with half.    Balthgar goes. Eldest./
-Buries three wives. Says:    I do not bury fourth.
-
-Domwin goes. Druthrik too.    One mother./
-They do not speak to each other.    Never apart./
-Erthran goes. Reads signs.    Birds. Wind’s turning./
-Reads wrongly once.    Once is on ice.
-
-Falkwin goes. Quick one.    Garbán goes. Carries/
-Two spears. Throws one.    Wants another./
-Grimhár goes in war-mask.    Nobody sees him without./
-Some say no face beneath.    He never says.
-
-Hildrik goes. He laughs.    Remember him. Laughs at river./
-Laughs at cold. Laughs    at darkness beneath trees./
-Band delights in his laughter    most of the way./
-Night comes.    They do not delight.
-
-Mahnrád goes. Sundgar too.    Dorghár with dogs./
-Three dogs refuse forest.    Left on grass./
-He enters without them.    Never keeps dogs again./
-Thalwin goes.    Thalwin carries water.
-
-That alone the lay has of Thalwin.    He carries water./
-Carries it over ice.    Carries it up bank./
-Through night. Back.    Never insufficient./
-He is spoken at Weskskald    with others for that.
-
-[…] goes. His name lost.    His deed remains./
-Dog-meat in his bag.    He shares it on ice./
-Elders say him in dark.    Man with meat./
-He answers if he answers.    That must be enough.
-
-Frodhelm goes. Old reciter.    Goes to see./
-A lay does not come    from one beside fire./
-He does not fight. Does not carry.    Returns./
-What he brings back    I give you.
-
-Others. The lay loses them.    Says forty exist./
-It has names I give.    Nothing beyond./
-Others descend bank    the same as these./
-Nobody speaks them at Weskskald.    Nobody has them.
-
-They cover him with metal at fire.    Balthgar does it. Eldest./
-Mail comes from cloak.    Father returns in it./
-Polished until rings    give fire back. Each ring./
-Long on him.    As father’s mail.
-
-Spear is Garbán’s second.    Axe his own./
-No helmet.    He goes head uncovered./
-Erthran cuts hair short.    A hand finds less./
-Grimhár looks long    through mask. No words.
-
-Dorghár gives a narrow dog-hide.    To bind spear-hand./
-Hildrik gives laughter.    Push toward fire./
-Thalwin gives water.    Frodhelm gives nothing./
-He watches feet’s place.    Holds their count.
-
-They do not go at ford.    Ford never freezes across./
-Water runs too fast.    Giants stand there./
-They go upriver one day.    To slow wide water./
-It lies in winter    under cover a man can walk.
-
-Erthran reads ice.    Walks it first alone./
-Returns. Leads them.    One after another./
-Domwin at his heel.    Others on his tracks./
-At river’s middle    ice breaks like split tree.
-
-Breaks beneath Domwin.    He enters to chest./
-Druthrik holds his hair    before water holds him./
-They lie on grey ice.    Both. Side by side./
-Beginning to end, once    they touch each other.
-
-Erthran reads wrongly.    Says it on far bank./
-Before band. As guilt is spoken.    Nobody answers./
-Domwin lives.    Clothes freeze on him./
-Guilt spoken aloud    has half carried.
-
-They make no bank-fire.    Set Domwin in middle./
-All lie close.    Like cattle in snow./
-Thalwin’s water freezes in skin.    He holds it under coat./
-Above them giants’ trees.    No man sleeps beneath.
-
-Deep winter is long night.    Short day inside./
-They walk short day under trees.    Do not see sky./
-Walk into long night.    River on left./
-Each tree on way    might turn and look.
-
-Cold of quiet kind.    They walk without speech./
-Domwin walks in frozen clothes.    River’s shape./
-Mahnrád follows.    Breaks ice from him as it grows./
-It grows again    before next tree.
-
-Falkwin goes ahead.    Returns three times./
-First says: Cattle.    Second says: One./
-Sleeps on feet beside herd.    Leans like dead pine./
-Third says nothing.    Shows hand. It shakes.
-
-They meet first in dark.    It does not wake quickly./
-Erthulf’s spear enters under arm.    It does not wake then./
-Garbán’s enters beside.    It wakes and looks./
-Looking lasts    enough for Garbán’s other spear.
-
-It does not call. None call.    Every telling has that./
-It falls like tree.    Slowly. Then all at once./
-Cattle do not flee it.    Stand around in snow./
-Band passes beyond.    Cattle watch.
-
-Two more before ford.    Each slower than before./
-Balthgar’s axe enters second    to haft. It takes him./
-Takes him in one hand.    Does nothing with him./
-Only holds and looks.    Descends holding him.
-
-They break fingers backward to take him out.    Dead then./
-Third one’s stone strikes Mahnrád    across shoulder. He sits down./
-Sundgar sets Balthgar down.    Lifts Mahnrád up./
-Says to dead man: Wait.    Dead man waits.
-
-Ford there in first grey.    We call it Dorghreth./
-Giants’ crossing. Ours.    Name tells former ownership./
-Water runs black through ice.    Mist stands above./
-In mist, in water to knees.    Last one stands.
-
-It hears them. Nothing else can.    It turns already./
-Looks before they come    out of trees./
-Does not come up from water.    Stands and waits./
-Brunjulf descends alone.    That is vow.
-
-He descends alone.    Band stands in trees./
-Hildrik does not laugh.    Grimhár’s mask faces it./
-Frodhelm counts steps    from trees to water./
-Lay says thirty.    Frodhelm counts.
-
-Mail long on him.    Reaches knees./
-Rings give grey back.    Morning’s grey./
-Garbán’s spear in bound hand.    Axe in other./
-Thing in water    extends door-wide hand.
-
-He goes under hand.    That is deed. Remember./
-Not around. Does not stand.    Enters under./
-Under arm. Erthulf’s spear    finds first there./
-Spear enters there.    Back-rings receive hand.
-
-Hand closes on coat.    Coat holds. Rings hold./
-Polish leaves in hand.    Rings remain rings./
-Boy inside coat    is lifted from ice./
-Spear-haft still in him to hold.    He holds and leans.
-
-Three times it lifts him.    Three times coat holds./
-Third sets him down.    As setting down a thing./
-You carry it far enough.    It goes to knees in water./
-Then hands. Then chest.    Ford runs red beneath ice.
-
-They descend then.    Garbán has other spear./
-Does not throw. No need.    Thing kneels./
-Mist leaves water.    Cattle come down./
-Through far-side trees    to see their work upon it.
-
-It speaks. I give as told me.    Sound comes slow./
-Like winter river beneath ice.    Passes above them./
-As their bank-speech.    No band-man/
-Can understand one word.    They stand and let it pass.
-
-It indicates bank    with hand./
-Hand that holds him. Draws hand    upward in air’s bend./
-Mound’s shape.    Sets hand on chest./
-Holds it there.    Looks at boy in coat.
-
-It wants mound. Hand can say that.    It wants bank./
-Opened. Earth above.    Bank closed./
-Band reads chest-hand as keeping.    Name spoken in winter dark./
-It has no name in our holdings.    Asks despite it.
-
-He owes it nothing.    No vow. Roof. Salt./
-No words before witness.    Nothing taken or given./
-It kills his father on bank.    Or a similar thing does./
-It kneels in water.    Asks mound.
-
-Hildrik laughs. First.    Then Garbán. Then others./
-Good laughter there in grey.    Thing kneels./
-Cattle descend to see.    Ford is ours./
-Before sunrise    they give ford back to unmake laughter.
-
-Brunjulf does not laugh.    On ice, on back./
-Cannot take breath to laugh.    That is whole telling./
-It dies with laughter in ears.    Goes forward./
-Into water. Water takes it    down to ice.
-
-Far-bank cattle    stand and look at place./
-Do not leave.    Do not leave next day either./
-Band finally makes bank-fire.    Banks it for night./
-Banked fire dies.    Thalwin banks twice.
-
-Twice ash goes cold.    Coals beneath./
-Third time nobody banks.    They sit in dark./
-Horses on grass    across water call loudly./
-Nobody sees cause.    Cattle do not lie.
-
-Erthran reads signs.    As reading ice./
-Three. Fire. Horses.    Cattle looking at one place./
-He says: It is in ford.    It has nobody./
-This time reads correctly.    Prefers ice back.
-
-Something comes up bank at night.    Lay gives no shape./
-Gives unbanked fire.    Horses. Watching cattle./
-Gives Hildrik rising    in darkness. Going to water./
-At first grey they find him.    On ice. Face down. Dry. No mark.
-
-No mark. No injury. No wet hair.    He walks to ice-edge./
-Lies as man lies    after long carrying day./
-Laughter still on face.    Laughter for giant./
-Band surrounds him.    Nobody laughs at anything a year.
-
-Brunjulf says: It asks earth.    Says to band./
-As one speaks a thing.    Work comes./
-It is in ford with nobody.    Things enter through that./
-We are its holdings.    He enters water.
-
-They take it out with horses.    Bring horses across ice./
-Children do not eat them.    Set ropes on it./
-It comes up out of ford.    Long as fallen pine./
-They dig bank three days.    Cattle watch.
-
-They lay it in bank. Face to water.    Set in with it/
-Stone carried on wood.    It has no iron./
-The hand holding him    they set across chest./
-As it sets its own    when asking.
-
-They return for Balthgar.    Burn him on bank./
-With axe. As warrior is burned.    Burn Hildrik beside him./
-Two fires and one mound    are our first in forest./
-That is Dorghróm.    Ford has it since.
-
-They name him on bank.    Frodhelm gives name./
-As reciter gives. Aloud.    Band speaks after him./
-Brunjulf. Coat. Thing inside.    Rings. Wolf in rings./
-He descends unnamed.    Comes up with that. And ford.
-
-It is our mound now.    Dorgbán lie within./
-Family keeps them longest.    Bank-earth above them./
-Beneath all.    Face to water./
-Thing asks earth.    Receives it. Receives the rest.
-
-The rest is keeping.    Hear the work./
-At Weskskald family    speaks dead in dark./
-Eldest speaks first before any name.    Before own father./
-One in ford. One at bottom.    One with no name we have.
-
-Brunjulf speaks first that winter.    On bank. In snow./
-Father’s name afterward.    Brunjár, returning on cloak./
-Balthgar after. Hildrik.    Band repeats after him./
-Fire banks that night.    Coals there at morning.
-
-Cattle cross at thaw.    Nobody leads./
-They descend to ford.    Stand to knees./
-Where it stands. Drink.    Come up our bank./
-They are red cattle.    Dorgbán still keep them.
-
-People cross water.    Not that winter. Next./
-Cross at Dorghreth.    Herds behind./
-Grass behind herds.    Grass does not follow./
-Nobody of ours since    stands on open land gladly.
-
-So Dorgbán speaks giant    at dead’s beginning./
-We cross grass to this forest.    Another holds it on our arrival.
-
-[Here Dunkelwald’s reciter stands. Market custom permits it. He keeps his own time by foot on boards.]{.direction}/
-[The Dunkelwald reciter]{.speaker}/
-Grass. We have your grass.    Speak it at Weskskald./
-Horses and herds.    Sky to earth./
-At one fire on one night.    As speaking the rest./
-Children hear both.    Nobody tells them which.
-
-Here is rest.    You stop at a useful place for boats./
-Out of oaks. Out of roots.    As dead return inward./
-Your own Shaman tells dead’s way.    Into totem’s land./
-Into earth. Into trees.    What enters comes out.
-
-Giants too. Hear your words.    Repeat slowly./
-They stand knee-deep in fords.    Cattle come to them./
-They sleep standing, lean.    Look long./
-No iron. No calls.    Descend slowly, then all at once.
-
-That is oak. You give oak.    Put a hand on it./
-Oldest trees hold oldest spirits.    Stand in fords./
-Water is oak’s drinking-place.    Your boy spears one./
-You dig its bed three days.    That is oak-roots’ measure.
-
-Your mound too. We see it.    On bank at ford./
-Roots descend inside.    As roots into mound./
-You say giant underneath.    We say oak underneath./
-We say one. You another.    Mound does not speak.
-
-Our oldest Deepwood mound    opens side in flood once./
-Shows two kinds of goods.    Together in one earth./
-Shaman orders side closed    before anyone can say which lies lower./
-Mound holds its holdings.    That is mound’s purpose.
-
-We do not laugh at words for dead.    Nobody in Deepwood laughs there./
-Lay your dead on your oak. Say it first.    Right order./
-Only say ours beside it.    As we say yours beside ours./
-You come to tree.    You come out of it.
-
-I speak.    Foot rises from boards.
-
-[The Dorgbán reciter]{.speaker}/
-We keep it since. Lay our dead    on our finding inside./
-Speak it first in dark.    Hand still on chest.
-
-That is ford’s lay.    Staff has boards./
-Grain behind me. Pelts before.    Horn/
-Calls at landing for boats.    Boats do not wait./
-Hear next year with desire.    I have it the same.
+[The reciter of the Dorgbán:]{.speaker}/
+Stand off from the boats.    Let the staff have the boards./
+I give the lay of the ford    as the Dorgbán hold it,/
+word for word from the man    who held it before me,/
+and so back, man to man,    to one who stood at the ford and saw.
+
+The staff is for the time.    It goes down on the boards/
+where the line breaks, and the line    breaks where the staff goes down,/
+and if I lose the staff I lose the lay,    and the man before me said the same,/
+and he had it off a man    who kept it with his foot.
+
+I say it here at the crossing    where the peace is kept,/
+with grain on the boards behind me    and furs in front./
+Hear it who will. A lay    is not a bargain./
+It goes back up the river with me    when the boats go.
+
+There was grass before the wood.    There was sky to the ground./
+The people came over it    in the wake of the herds,/
+a long day's riding,    and the next day the same,/
+and nobody among them    had ever stood in shade.
+
+The horses were the people's feet.    The tents were their halls./
+The children were born on the move    and the old died on it/
+and were left where they fell    with a stone on the chest,/
+because there was no ground yet    that anyone could call theirs.
+
+What drove them, the lay does not say.    Drought, or a worse people,/
+or the grass ran out ahead of them    the way grass does./
+They rode until the sky came down    and stood up again as trees,/
+and the horses would not go in,    and that was the first of it.
+
+A wall of trunks, and the dark behind them    thick as a held breath,/
+and the river along its foot    running brown and slow./
+The scouts went up it three days    and found the one ford,/
+and on the far side of the ford    something stood that was not a tree.
+
+Big as the trees they stood among,    and slow as the year./
+They did not look up quickly.    They did not look up at all/
+until the thing they were looking at    had stood a long while,/
+and then they looked, and kept looking,    and did not look away.
+
+They kept herds in the clearings,    red cattle broad as boats,/
+and the cattle were not afraid of them    and came when they called./
+They slept on their feet, leaning,    the way a dead pine leans,/
+and their eyes in the dusk    were the color of river ice.
+
+They had no halls and no palisade.    They had the clearings./
+They ate standing, out of the hand,    what the cattle ate, and the cattle,/
+and they were old. The youngest of them    was older than the eldest of ours,/
+and there were no children among them,    and no man of ours learned why.
+
+They had no iron. Not one of them.    Not a nail among them./
+They carried stone on wood    and wood on nothing,/
+a whole trunk for a staff,    and a hand wide as a door,/
+and a man that hand had closed on    did not come out of it.
+
+Nobody learned a name for them.    Nobody asked./
+What they called each other    went by over our heads/
+like the sound a river makes    under the ice in _grema_,/
+and we called them _dorg_, which is our word,    and it is the only one.
+
+They held the ford. That was the whole of it.    They stood in the water/
+to the knee, where a man would drown,    and let the cattle drink,/
+and when the scouts came down the bank    they turned, all of them, slowly,/
+and the scouts went back up the bank    faster than they had come down.
+
+Three summers the people sat on the grass    with the wood in front of them./
+Three summers the scouts went down    and came back up./
+The grass behind them was eaten    and the herds were thin,/
+and the third winter    the children were eating the horses.
+
+Then one stood up at the fire    who had no name yet,/
+a boy with his father's hands    and nothing else of his father's,/
+for his father had gone down the bank    the second summer/
+and come back up it on a cloak,    which is a way of coming back.
+
+He said it before the war-band,    the way a vow is said,/
+standing, with his hands open    so all could see them empty:/
+"I will cross the water at the ford    and stand where they stand./
+I will not come back up the bank    until the ford is ours."
+
+That was the vow. The lay calls him    [Brunjulf]{.name data-type="being/npc" lang=varo} from here,/
+because that is the name he came back with,    and the lay knows the end./
+The band heard it and did not laugh.    A vow before the band/
+is a thing every man who heard it    has to carry down the bank.
+
+[Balthgar]{.name data-type="being/npc" lang=varo} said: you are young for it.    And then: the band goes too./
+Nobody said the ford was not worth it.    The children were eating the horses./
+[Frodhelm]{.name data-type="being/npc" lang=varo} struck the ground once    and said he would keep the words,/
+and from that strike the count begins,    the first fall of the staff.
+
+These went down the bank with him.    I give them as I have them./
+[Erthulf]{.name data-type="being/npc" lang=varo} went, who had killed a bear    with a spear that broke/
+and finished it with the half.    Balthgar went, the eldest,/
+who had buried three wives and said    he would not bury a fourth.
+
+[Domwin]{.name data-type="being/npc" lang=varo} went, and [Druthrik]{.name data-type="being/npc" lang=varo},    who were one mother's/
+and did not speak to each other    and were never apart./
+[Erthran]{.name data-type="being/npc" lang=varo} went, who read the signs,    the birds and the wind turning,/
+and read them wrong once,    and the once was on the ice.
+
+[Falkwin]{.name data-type="being/npc" lang=varo} went, the quick one.    [Garbán]{.name data-type="being/npc" lang=varo} went, who carried/
+two spears because he threw one    and liked to have another./
+[Grimhár]{.name data-type="being/npc" lang=varo} went in a war-mask    he was never seen out of./
+Some said there was no face under it.    He never said.
+
+[Hildrik]{.name data-type="being/npc" lang=varo} went, who laughed.    Mark him. He laughed at the river,/
+he laughed at the cold, he laughed    at the dark under the trees,/
+and the band was glad of his laughing    for the most of the way,/
+and there came a night    they were not glad of it.
+
+[Mahnrád]{.name data-type="being/npc" lang=varo} went, and [Sundgar]{.name data-type="being/npc" lang=varo},    and [Dorghár]{.name data-type="being/npc" lang=varo} with the dogs,/
+three dogs that would not go in the wood    and were left on the grass,/
+and he went in without them    and never kept dogs again./
+[Thalwin]{.name data-type="being/npc" lang=varo} went.    Thalwin carried the water.
+
+That is all the lay has of Thalwin.    He carried the water./
+He carried it over the ice    and he carried it up the bank/
+and through the night and back,    and it was never short,/
+and he is said at Weskskald    with the rest of them, for that.
+
+[…] went, whose name is dropped    and whose deed is kept:/
+he had the dogs' meat in his pack    and he shared it on the ice./
+The eldest say him in the dark    as "the one with the meat",/
+and he answers to that, if he answers,    and it has had to do.
+
+And Frodhelm went, the old reciter,    who went to see,/
+because a lay is not made    by a man who stayed at the fire;/
+and he did not fight, and he did not carry,    and he came back,/
+and what he came back with    is what I am giving you.
+
+And others, that the lay has lost.    It says there were forty./
+It has the names I have given you    and nothing beyond them,/
+and the rest went down the bank    the same as these did,/
+and nobody says them at Weskskald,    because nobody has them.
+
+They armed him at the fire.    Balthgar did it, being eldest./
+The coat came out of the cloak    his father had come back in,/
+burnished until the rings    gave the fire back ring by ring,/
+and it was long on him,    as a father's coat is long.
+
+The spear was Garbán's second.    The axe was his own./
+There was no helm.    He went bare-headed,/
+and Erthran cut his hair close    so a hand would find less,/
+and Grimhár looked at him a long while    through the mask and said nothing.
+
+Dorghár gave him a strip of dog-hide    to bind the spear-hand./
+Hildrik gave him a laugh    and a shove toward the fire./
+Thalwin gave him water.    Frodhelm gave him nothing,/
+and watched where he put his feet,    and kept the count of them.
+
+They did not go at the ford.    The ford never froze across;/
+the water ran too quick there,    and the giants stood in it./
+They went up the river a day    to where it ran slow and wide/
+and lay down in _grema_    under a lid a man could walk on.
+
+Erthran read the ice.    He walked it first alone/
+and came back, and led them out onto it    one behind the other,/
+Domwin at his heel    and the rest in his steps,/
+and in the middle of the river    the ice went off like a split tree.
+
+It went off under Domwin.    He went in to the chest./
+Druthrik had him by the hair    before the water had him,/
+and they lay on the gray ice    the two of them, side by side,/
+and that was the one time, first to last,    that the two of them touched.
+
+Erthran had read it wrong.    He said so on the far bank/
+in front of the band, as a wrong is said,    and nobody answered him,/
+because Domwin was alive    and his clothes were freezing on him,/
+and a wrong that is said aloud    is a wrong that is half carried.
+
+They made no fire on the bank.    They put Domwin in the middle/
+of all of them, lying close,    the way cattle lie in snow,/
+and Thalwin's water froze in the skin    and he kept it under his coat,/
+and over them the giants' trees,    and not a man slept under them.
+
+_Grema_ is a long night    with a short day in it./
+They walked the short day under the trees    and did not see the sky,/
+and they walked into the long night    with the river on their left hand,/
+and every tree they passed    was a thing that might turn and look.
+
+The cold was the kind that is quiet.    They walked in it without talk./
+Domwin walked with his clothes frozen    in the shape of the river,/
+and Mahnrád walked behind him    and broke the ice off him as it formed,/
+and it formed again    before the next tree.
+
+Falkwin went in front.    He came back three times./
+The first time he said: cattle.    The second time he said: one,/
+asleep on its feet by the herd,    leaning like a dead pine./
+The third time he said nothing,    and showed them his hand, and it was shaking.
+
+They came on the first in the dark.    It did not wake quickly./
+Erthulf's spear went in under the arm    and it did not wake then,/
+and Garbán's went in beside it    and it woke, and looked at them,/
+and the looking took so long    that Garbán had time to throw the other.
+
+It did not shout. None of them shouted.    That is in every telling./
+It went down the way a tree goes,    slowly, and then all at once,/
+and the cattle did not run from it,    they stood round it in the snow,/
+and the band went on past them    with the cattle looking.
+
+Two more before the ford,    and each one slower than the last./
+Balthgar's axe was in the second    to the haft when it took him,/
+took him in the one hand    and did not do anything with him,/
+only held him, and looked at him,    and went down holding him.
+
+They broke the fingers back to get him out.    He was dead when they had./
+Mahnrád took the third one's stone    across the shoulder and sat down,/
+and Sundgar put Balthgar down    and picked Mahnrád up/
+and said to the dead man: wait,    and the dead man waited.
+
+The ford was there in the first gray.    The [Dorghreth]{.name data-type="place/feature" lang=varo}, we call it,/
+the giants' crossing; it is ours,    and the name says whose it was./
+The water ran black through the ice    and the mist stood on it,/
+and in the mist, in the water to the knee,    the last of them was standing.
+
+It had heard them. Nothing else would have.    It had turned already./
+It was looking at them before they came    out of the trees,/
+and it did not come up out of the water,    it stood in it and waited,/
+and Brunjulf went down the bank alone,    because that was the vow.
+
+He went down the bank alone.    The band stood in the trees./
+Hildrik did not laugh.    Grimhár's mask was turned to it./
+Frodhelm counted the steps    from the trees to the water,/
+and the lay says thirty,    and Frodhelm counted them.
+
+The coat was long on him.    It came to the knee,/
+and the rings gave back the gray    there was of the morning./
+He had Garbán's spear in the bound hand    and the axe in the other,/
+and the thing in the water    put out a hand the width of a door.
+
+He went under the hand.    That is the deed. Mark it./
+He did not go round it and he did not stand,    he went in under it,/
+in under the arm where Erthulf's spear    had found the first one,/
+and the spear went in there,    and the rings on his back took the hand.
+
+The hand closed on the coat.    The coat held. The rings held./
+The burnish came off them in the hand    and the rings stayed rings,/
+and the boy inside the coat    was lifted off the ice/
+with the spear-haft still in him to hold,    and he held it, and leaned.
+
+Three times it lifted him.    Three times the coat held./
+The third time it set him down,    the way you set a thing down/
+that you have carried far enough,    and it went to the knee in the water,/
+and then to the hand, and then to the chest,    and the ford ran red under the ice.
+
+They came down the bank then.    Garbán had the other spear./
+He did not throw it. There was no need.    The thing was kneeling,/
+and the mist was going off the water,    and the cattle were coming down/
+through the trees on the far side    to see what had been done to it.
+
+It spoke. I give it as I have it.    The sound came slow/
+as the river comes under the ice in _grema_,    and it went by over them/
+the way their talk had gone by on the bank,    and not a man of the band/
+could follow a word of it,    and they stood and let it go by.
+
+And it pointed    at the bank with the hand/
+that had held him, and drew the hand    up into a hump in the air/
+the shape of a mound,    and laid the hand on its chest,/
+and held it there,    and looked at the boy in the coat.
+
+It wanted a mound. A hand can say that much.    It wanted the bank/
+opened, and the earth over it,    and the bank closed,/
+and the hand on the chest the band read for keeping,    the name said in the dark in winter,/
+and it had no name that we had,    and it asked anyway.
+
+He owed it nothing.    No vow, no roof, no salt,/
+nothing said before a witness,    nothing taken or given./
+It had killed his father on the bank,    or one like it had,/
+and it was in the water on its knees    asking for a mound.
+
+Hildrik laughed. He laughed first.    Then Garbán, then the rest,/
+and it was a good laugh, there in the gray,    with the thing kneeling/
+and the cattle coming down to look    and the ford won,/
+and before the sun was up    they would have given the ford back not to have laughed.
+
+Brunjulf did not laugh.    He was on the ice on his back/
+and could not get the breath to laugh with,    and that is the whole of it./
+It died with the laughing in its ears.    It went forward/
+into the water, and the water took it    down to the ice.
+
+The cattle on the far bank    stood and looked at the place/
+and did not go away,    and did not go away the next day either./
+The band made a fire on the bank at last    and banked it for the night,/
+and the _gloth_ went out.    Thalwin banked it twice,
+
+and twice the ash went cold    with the coals under it,/
+and the third time nobody banked it,    and they sat in the dark./
+The horses on the grass    across the water screamed,/
+and nobody could see what at,    and the cattle did not lie down.
+
+Erthran read the signs,    as he had read the ice./
+Three: the fire, the horses,    the cattle looking at one place,/
+and he said: it is in the ford    and it has nobody,/
+and this time he read them right,    and would have had the ice back.
+
+What came up the bank in the night    the lay does not give a shape./
+It gives the fire that would not bank,    and the horses, and the cattle looking,/
+and it gives Hildrik, who got up    in the dark and walked to the water,/
+and in the first gray they found him there    on the ice, face down, dry, not a mark on him.
+
+Not a mark. Not a wound. Not a wet hair.    He had walked to the edge of the ice/
+and lain down on it as a man lies down    at the end of a long day's carrying,/
+and the laugh was still on his face,    the one he had given the giant,/
+and the band stood round him,    and nobody laughed at anything for a year.
+
+Brunjulf said: "It asked for earth."    He said it to the band/
+the way a thing is said    that is going to be done./
+"It is in the ford with nobody.    Things come in through that./
+We are what it has."    And he went into the water.
+
+They got it out with the horses.    They brought the horses over the ice,/
+the ones the children had not eaten,    and put ropes on it,/
+and it came up out of the ford    the length of a fallen pine,/
+and they dug the bank for it three days,    and the cattle watched.
+
+They laid it in the bank with its face to the water.    They put in with it/
+the stone it had carried on wood,    since it had no iron,/
+and the hand that had held him    they laid across its chest/
+the way it had laid it itself    when it asked.
+
+And they went back for Balthgar    and burned him on the bank/
+with his axe, as a warrior is burned,    and Hildrik they burned beside him,/
+and the two fires and the one mound    were the first of ours in the wood,/
+and that is the [Dorghróm]{.name data-type="place/structure" lang=varo},    and the ford has had it since.
+
+They named him on the bank.    Frodhelm gave the name/
+as a reciter gives it, aloud,    and the band said it after him:/
+Brunjulf. The coat, and what was in it.    The rings, and the wolf in the rings./
+He went down the bank without a name    and came up with that one, and the ford.
+
+It is our mound now.    The Dorgbán lie in it,/
+the ones the kindred keeps longest,    with the earth of the bank over them,/
+and under all of them,    with its face to the water,/
+the thing that asked for the earth,    and got it, and got the rest.
+
+The rest is the keeping.    Hear how it is done./
+At Weskskald, when the kindred    says its dead in the dark,/
+the eldest says first, before any name,    before his own father's:/
+"The one in the ford. The one at the bottom.    The one with no name that we have."
+
+Brunjulf said it first that winter    on the bank, in the snow,/
+and his father's name after it,    [Brunjár]{.name data-type="being/npc" lang=varo}, who had come back on the cloak,/
+and Balthgar after him, and Hildrik,    and the band said them after him,/
+and the fire banked that night,    and the coals were there at morning.
+
+The cattle came over in the thaw.    Nobody drove them./
+They came down to the ford    and stood in it to the knee/
+where it had stood, and drank,    and came up our bank,/
+and they are the red cattle,    and the Dorgbán keep them still.
+
+And the people came over the water.    Not that winter; the next./
+They came over at the Dorghreth    with the herds behind them/
+and the grass behind the herds,    and the grass did not come after,/
+and nobody born of ours since    has stood on open ground and liked it.
+
+So the Dorgbán say a giant    at the head of their dead./
+We came over the grass to this wood,    and it was held when we came,
+
+[Here the reciter of Dunkelwald stands up, as the market custom allows, and keeps his own time with his foot on the boards.]{.direction}
+
+[The reciter of Dunkelwald:]{.speaker}/
+Grass. We have your grass.    We say it at Weskskald,/
+the horses and the herds    and the sky down to the ground,/
+at the one fire on the one night    as we say the rest,/
+and the children hear both of them,    and nobody tells them which.
+
+Here is the rest,    since you stop where it suits the boats./
+Out of the oaks. Out of the roots,    the way the dead go back in./
+Your own Shaman says where the dead go:    into the country of the wesk,/
+into the ground, into the trees,    and what goes in came out.
+
+And the _dorg_. Hear what you have said of them    and say it again slowly./
+They stood to the knee in the fords.    The cattle came to them./
+They slept on their feet, leaning.    They looked a long while./
+They had no iron and did not shout    and went down slowly, and then all at once.
+
+That is an oak. You have given us an oak    and put a hand on it./
+The oldest trees have the old spirits in them,    and they stand in the fords/
+because the water is where an oak goes to drink,    and your boy put a spear in one/
+and it took you three days to dig it a bed,    which is what an oak's roots take.
+
+And your mound. We have seen it.    It is on the bank at the ford/
+with the roots going down into it    the way roots go into a mound,/
+and you say a giant is under it.    We say an oak is under it,/
+and we say the one, and you say the other,    and the mound does not say.
+
+Our own oldest mound in the Deepwood    opened its side in a flood once/
+and showed goods of two kinds    lying in the one ground together,/
+and the Shaman had the side closed    before anyone could say which lay deeper./
+A mound keeps what it holds.    That is what a mound is for.
+
+We do not laugh at a thing said for the dead.    Nobody in the Deepwood laughs at that./
+Lay your dead on your oak. Say it first.    That is the right order./
+Only say ours beside it,    as we say yours beside ours:/
+you came to the tree,    and you came out of it.
+
+I have said.    The foot comes up off the boards.
+
+[The reciter of the Dorgbán:]{.speaker}/
+and we have held it since, and laid our dead    on what we found in it,/
+and say it first in the dark,    with the hand still on its chest.
+
+That is the lay of the ford.    The staff has had the boards./
+There is grain behind me and furs in front,    and the horn/
+is going at the landing for the boats,    and the boats do not wait./
+Hear it next year who will.    I will have it the same.
 :::
 
 ::: {.verse form=drunga lang=varo enc=varosemaronenc work=dorgbandrunga}
-[Drungwar er Dorgbán]{.speaker}/
-Stanwe fran badra.    Luwda faskel ter skarwen./
-Wi selra drunga er hreth.    Likwe Dorgbán halwen hem./
-Gerwen malwa fran marwen.    Hem halwen hem frar wi./
-Rewa likwe eoth. Marwen ter marwen.    Ter eom stanwe et hreth virwe weir.
-
-Skarwen thum feor timra.    Hem wenga niwer orwe faskel./
-Et brekwa er selmal. Selmal    brekwa et niwer er skarwen./
-Ivwe wi forwe skarwen. Wi forwe drunga.    Marwen frar wi malwen samri./
-Hem harve hem fran marwen.    Hem halwen hem mi fendar.
-
-Wi malwen hewra et twerwe.    Mawen halwen frithra hewra./
-Kernra orwe faskel rewra wi.    Skurth frar wi./
-Welri mawen hruda mi wivra.    Drunga na thum wenreth./
-Hem wenga rewa howen ruvith mi wi.    Et wenga er badra.
-
-Graswen thum frar woldra.    Himra thum ter erthra./
-Mawreth komwe twerwe hem.    Felwa samen er ku./
-Larni dagren er hrosk wenga.    Nathwi dagren samri./
-Nawen mawen samwe hemwen    stanwe inwe glenra nawen renwen.
-
-Hrosk thum fendar er mawreth.    Wefra hemra thum hemra er hemwen./
-Othil harve elra inwe wenga.    Eldri wredi inwe hem./
-Mawen farwe hemwen et falwe.    Stenra orwe bruweth./
-Derwen nawen landra thum nengra.    Nawen mawen kanda malwen hem er wemi.
-
-Drunga na malwen derma er wenga.    Driwa arvil urwe malren mawreth./
-Urwe graswen harve luren frar hemwen.    Likwe wanra er graswen./
-Hemwen wenga mi hrosk ter himra komwe niwer.    Hem riwra gendre likwe werla./
-Hrosk nawra wenga inwe.    Eoth thum kendren.
-
-Warld er werstam. Dunra rewra hemwen    thum galth likwe halwen hruvar./
-Ruvith renwe nivre hem.    Brunri virwe sulwi./
-Weirwar wenga howen hem threm dagren.    Hemwen finwe eom hreth./
-Et ferni salra er hreth    denger stanwe. Na werla.
-
-Greth likwe werla runder hemwen.    Sulwi likwe jaren./
-Hemwen na weir howen snelri.    Hemwen na weir howen./
-Ter denger er weira er hemwen    stanwe lartim./
-Theira hemwen weir. Framwe weir.    Hemwen na weir andwe wegra.
-
-Hemwen halwen samen er ku inwe frelwen.    Rothra ku. Wider likwe badra./
-Ku na harve frawa er hemwen.    Hemwen komwe et warwa er hemwen./
-Hemwen drumi orwe fendar. Helwa.    Likwe wredri verel helwa./
-Weith er hemwen et ewreth    thum ruwen er isra er ruvith.
-
-Hemwen na harve hemra. Nawen wergrend.    Hemwen harve frelwen./
-Hemwen meld orwe fendar. Fran wethan.    Melfa er ku. Ku owren./
-Hemwen thum eldri. Junri dran awen andwe    thum eldri dran eldri dran awen andwe er wemi./
-Nawen othil thum samwe hemwen.    Nawen marwen er wemi lerwa herwen.
-
-Hemwen na harve hraldi. Nawen mawen.    Nawen hralskel samwe hemwen./
-Hemwen berwa stenra orwe wulra.    Wulra orwe nawen./
-Erwen werstam feor skarwen.    Wethan wider likwe durwen./
-Wethan ludra orwe marwen.    Marwen na komwe utwe.
-
-Nawen mawen lerwa nefren er hemwen.    Nawen mawen frawna./
-Malwa twerna hemwen    wenga howra hrewen er wemi./
-Likwe hruwen er ruvith    nivre isra inwe grema./
-Wemi nefra hemwen dorg. Malwa er wemi.    Einwe hem.
-
-Hemwen halwen hreth. Erwen eoth.    Hemwen stanwe inwe watra./
-Ter renka. Marwen hruwlos theora.    Hemwen luwda ku drul./
-Weirwar komwe niwer raldra.    Awen hemwen wendri. Sulwi./
-Weirwar komwe rewa howen raldra.    Snelri dran komwe niwer.
-
-Threm sumra mawreth sedra orwe graswen.    Woldra frar hemwen./
-Threm sumra weirwar wenga niwer.    Komwe rewa howen./
-Ku meld graswen rewra hemwen.    Samen er ku thum lirwen./
-Rend threm grema    othil meld hrosk.
-
-Theira eom stanwe et glarth.    Hem na harve nefren nengra./
-Junri marwen mi wethan er farwen.    Nawen andwe denger er farwen./
-Derwen farwen wenga niwer raldra    et rend thei sumra./
-Hem komwe rewa howen orwe hrafel.    Eoth thum wegra er komwe rewa.
-
-Hem malwen frar frath.    Likwe mawen malwen vora./
-Stanwe mi durni wethan.    Awen kanda weir mandri hemwen./
-Wi wenga twerwe watra et hreth.    Wi stanwe et sta er hemwen./
-Wi na komwe rewa howen raldra    ter hreth thum er wemi.
-
-Eoth thum vora. Drunga nefra hem    Brunjulf fran hewra./
-Derwen hem komwe rewa mi eoth nefren.    Drunga witna luren./
-Frath hru hem. Na glawra.    Vora frar frath./
-Gerwen marwen hru hem.    Hem tholda berwa hem niwer raldra.
-
-Balthgar malwen. Thri thum junri feor hem.    Theira. Frath wenga owren./
-Nawen mawen malwen hreth na wirden.    Othil meld hrosk./
-Frodhelm slagra erthra eom renwen.    Hem malwen hem halwen malwa./
-Tavra kendri fran eoth slagren.    Rend eom falwe er skarwen.
-
-Eithra wenga niwer raldra mi hem.    Wi selra hemwen likwe malwa ter wi./
-Erthulf wenga. Hem wredra brokan    mi gerth. Hem brekwa./
-Hem lurna hem mi helwen.    Balthgar wenga. Eldri dran awen andwe./
-Hem bunra threm wemri bemra. Hem malwen.    Wi na bunra rend fedr.
-
-Domwin wenga. Druthrik owren.    Hemwen harve eom mowen./
-Hemwen na malwen ter andwen.    Hemwen na thum fran andwen nawen renwen./
-Erthran wenga. Hem radren rawel.    Fluren. Wendren er wither./
-Hem radren na rethwi eom renwen.    Eom renwen thum orwe isra.
-
-Falkwin wenga. Snelri mawen.    Garbán wenga. Hem berwa./
-Thei gerth. Hem skerwa eom.    Hem wivre harve andwen./
-Grimhár wenga mi hildruva.    Nawen mawen weir hem utwer hem./
-Sweri malwen. Nawen hruva nivre hem.    Hem na malwen nawen renwen.
-
-Hildrik wenga. Hem glawra.    Minwa hem. Hem glawra et ruvith./
-Hem glawra et kalwen. Hem glawra    et dunra nivre werla./
-Frath harve hemla er glawra er hem    feor meora delwen er wegra./
-Nathra komwe.    Hemwen na harve hemla er hem.
-
-Mahnrád wenga. Sundgar owren.    Dorghár mi hundar./
-Threm hundar nawra wenga inwe woldra.    Mawen farwe hemwen orwe graswen./
-Hem wenga inwe utwer hemwen.    Hem na halwen hundar gendre nawen renwen./
-Thalwin wenga.    Thalwin berwa watra.
-
-Drunga einwe harve eoth er Thalwin.    Hem berwa watra./
-Hem berwa hem twerwe isra.    Hem berwa hem howen raldra./
-Thurwe nathra. Rewa.    Hem na thum minri nawen renwen./
-Mawen malwen hem et Weskskald    mi awen andwe feor eoth.
-
-[\[…\]]{lang=zxx} wenga. Nefren er hem forwe.    Jiwra er hem stewra./
-Hem harve melwa er hundar inwe bawen.    Hem delra hem orwe isra./
-Eldri malwen hem inwe dunra.    Mawen mi melwa./
-Hem andwa ter hem ivwe hem andwa.    Eoth tholda thum genra.
-
-Frodhelm wenga. Forni drungwar.    Hem wenga feor weir./
-Derwen drunga na komwe    fran mawen et glarth./
-Hem na hildra. Hem na berwa.    Hem komwe rewa./
-Hem berwe denger rewa.    Wi selra hem ter thri.
-
-Andwe mawen. Drunga forwe hemwen.    Hem malwen fedr tenra thum./
-Hem harve nefren er selra er wi.    Nawen frandra hemwen./
-Awen andwe wenga niwer raldra.    Samri likwe eithra./
-Nawen mawen malwen hemwen et Weskskald.    Derwen nawen mawen harve hemwen.
-
-Hemwen hulra hem mi hral et glarth.    Balthgar smiwra hem. Eldri dran awen andwe./
-Hringwef komwe utwe hrafel.    Farwen er hem komwe rewa inwe hem./
-Gliri ter hringra    selra glarth rewa. Gerwen hringra./
-Hem thum larni orwe hem.    Likwe hringwef er farwen.
-
-Gerth thum rend thei er Garbán.    Brold thum er hem selwen./
-Nawen howhul thum.    Hem wenga mi na hulra hrewen./
-Erthran werka sweith er hem skurwi.    Wethan finwe minri./
-Grimhár weir hem lartim    thurwe hildruva. Nawen malwa.
-
-Dorghár selra sneri huldren er hundar.    Feor bandwa wethan er gerth./
-Hildrik selra glawra.    Threwa ter glarth./
-Thalwin selra watra.    Frodhelm selra nawen./
-Hem weir sta er fendar.    Hem halwen tavren er hemwen.
-
-Hemwen na wenga et hreth.    Hreth na kaldri twerwe nawen renwen./
-Watra renwe meora snelri dran tharwen.    Dorg stanwe inwe hem./
-Hemwen wenga howen ruvith eom dagren.    Ter sulwi wider watra./
-Hem legwe inwe grema    nivre hulra. Marwen kanda wenga orwe hem.
-
-Erthran radren isra.    Hem wenga orwe hem rend eom shal./
-Hem komwe rewa. Hem ferwa hemwen.    Eom nather andwen./
-Domwin et fendru er hem.    Awen andwe orwe rawel er hem./
-Et midwen er ruvith    isra brekwa likwe brekri werla.
-
-Hem brekwa nivre Domwin.    Hem wenga inwe ter bruweth./
-Druthrik halwen hem mi sweith    frar watra halwen hem./
-Hemwen legwe orwe grilri isra.    Thewen. Sider andwen./
-Fran kendren ter luren eom renwen    thewen fren andwen.
-
-Erthran radren na rethwi.    Hem malwen et ferni raldra./
-Frar frath. Likwe malwen er skawen.    Nawen mawen andwa./
-Derwen Domwin thum livra.    Wefrin er hem kaldri orwe hem./
-Skawen mi drathi malwa    harve helwen berwa.
-
-Hemwen na smiwra glarth et raldra.    Hemwen ladra Domwin inwe midwen./
-Awen hemwen legwe neri.    Likwe ku inwe snewra./
-Watra er Thalwin kaldri inwe watrhul.    Hem halwen hem nivre hringwef./
-Howra hemwen werla er dorg.    Nawen marwen drumi nivre hemwen.
-
-Grema thum larni nathra.    Skurwi dagren inwe hem./
-Hemwen wenga skurwi dagren nivre werla.    Hemwen na weir himra./
-Hemwen wenga inwe larni nathra.    Ruvith et lither er hemwen./
-Gerwen werla et wegra    kanda wendri virwe weir heoma.
-
-Kalwen thum hrelmi slawen.    Hemwen wenga utwer malwa./
-Domwin wenga mi kaldri wefrin.    Ruwen er ruvith./
-Mahnrád wenga rewra hem.    Hem brekwa isra fran hem inwe grula./
-Hem grula gendre    frar nathwi werla.
-
-Falkwin wenga frar.    Hem komwe rewa threm renwen./
-Rend eom hem malwen. Ku.    Rend thei hem malwen. Eom./
-Hem drumi orwe fendar sider samen er ku.    Helwa likwe wredri verel./
-Rend threm hem malwen nawen.    Hem weirla wethan. Hem wruwer.
-
-Hemwen metwen rend eom inwe dunra.    Hem na wakra snelri./
-Gerth er Erthulf wenga inwe nivre arwen.    Hem na wakra theira./
-Er Garbán wenga inwe sider hem.    Hem wakra virwe weir hemwen./
-Weir harve lartim    genra feor Garbán skerwa andwen.
-
-Hem na warwa. Nawen er hemwen warwa.    Eoth thum inwe gerwen malwa./
-Hem wenga niwer likwe werla.    Sulwi. Theira awen et samri nimra./
-Ku na renwe fran hem.    Hemwen stanwe runder hem inwe snewra./
-Frath wenga frandra hemwen.    Ku weir.
-
-Thei meora frar hreth.    Gerwen meora sulwi dran forwen./
-Brold er Balthgar thum inwe rend thei    ter halweth. Hem nemra hem./
-Hem nemra hem mi eom wethan.    Hem na smiwra denger mi hem./
-Einwe halwen virwe weir.    Hem wenga niwer mi hem inwe wethan.
-
-Hemwen brekwa wethin rewa feor nemra hem utwe.    Hem thum wredri theira./
-Stenra er rend threm slagra Mahnrád    twerwe hrold. Hem sedra niwer./
-Sundgar ladra Balthgar niwer.    Hem hefra Mahnrád howen./
-Hem malwen ter wredri marwen. Widra.    Wredri marwen widra.
-
-Hreth thum theora et rend eom grilri.    Wemi nefra hem Dorghreth./
-Twerwe er dorg. Hem thum er wemi.    Nefren malwen forni harvren./
-Watra renwe swarthi thurwe isra.    Misthel stanwe orwe hem./
-Inwe misthel. Inwe watra ter renka.    Lestra er hemwen stanwe.
-
-Hem hru hemwen. Nawen andwe kanda.    Hem wendri nengra./
-Hem weir hemwen frar komwe    utwe werla./
-Hem na komwe howen utwe watra.    Hem stanwe inwe virwe widra./
-Brunjulf wenga niwer raldra shal.    Derwen eoth thum vora.
-
-Hem wenga niwer raldra shal.    Frath stanwe inwe werla./
-Hildrik na glawra.    Hildruva er Grimhár husra hem./
-Frodhelm tavra fendar    fran werla ter watra./
-Drunga malwen threm tenra.    Frodhelm tavra hemwen.
-
-Hringwef thum larni orwe hem.    Hem komwe ter renka./
-Hringra selra grilri rewa.    Grilri er merga./
-Hem harve gerth er Garbán inwe bandwi wethan.    Brold inwe andwen./
-Denger inwe watra    ladra wethan utwe. Wider likwe durwen.
-
-Hem wenga nivre wethan.    Eoth thum jiwra. Minwa hem./
-Hem na wenga runder. Hem na stanwe.    Hem wenga inwe nivre hem./
-Inwe nivre arwen. Gerth er Erthulf    finwe rend eom theora./
-Gerth wenga inwe theora.    Hringra orwe ruvra nemra wethan.
-
-Wethan ludra orwe hringwef.    Hringwef halwen. Hringra halwen./
-Gliri wenga fran hemwen inwe wethan.    Hringra stewra hringra./
-Junri marwen inwe hringwef    harve hefra fran isra./
-Gerth halweth thum inwe hem buwra feor halwen.    Hem halwen hem virwe helwa.
-
-Threm renwen hem hefra hem.    Threm renwen hringwef halwen./
-Rend threm hem ladra hem niwer.    Likwe ladra denger niwer./
-Thri berwa hem ferni genra.    Hem wenga ter renka inwe watra./
-Theira ter wethan. Theira ter bruweth.    Hreth renwe rothra nivre isra.
-
-Hemwen komwe niwer raldra theira.    Garbán harve andwe gerth./
-Hem na skerwa hem. Nawen tharwen.    Denger renkwa./
-Misthel wenga fran watra.    Ku komwe niwer./
-Thurwe werla et ferni salra    feor weir jiwra er hemwen ter hem.
-
-Hem malwen. Wi selra likwe malwa ter wi.    Hruwen komwe sulwi./
-Likwe ruvith nivre isra inwe grema.    Hem wenga howra hemwen./
-Likwe malwa er hemwen et raldra.    Nawen marwen er frath./
-Kanda radren eom malwa.    Hemwen stanwe virwe luwda hem wenga.
-
-Hem weirla raldra    mi wethan./
-Hem halwen hem mi hem. Hem drewra wethan    howen inwe bugren er hruwa./
-Ruwen er hrum.    Hem ladra wethan orwe bruweth./
-Hem halwen hem theora.    Hem weir junri marwen inwe hringwef.
-
-Hem wivre hrum. Wethan kanda malwen eoth.    Hem wivre raldra./
-Durni. Erthra howra hem.    Raldra ludri./
-Frath radren wethan orwe bruweth likwe halwen.    Nefren malwen inwe dunra et grema./
-Hem na harve nefren inwe harven er wemi.    Hem frawna alther hem.
-
-Hem na harve skuldren ter hem.    Nawen vora. Nawen hrawen. Nawen selth./
-Nawen malwa frar sadwen.    Nawen nemra urwe selra./
-Hem wredra farwen er hem et raldra.    Urwe likri denger smiwra hem./
-Hem thum inwe watra orwe renka.    Frawna hrum.
-
-Hildrik glawra. Hem glawra rend eom.    Theira Garbán. Theira awen andwe./
-Galri glawra theora inwe grilri.    Denger renkwa./
-Ku komwe niwer feor weir.    Hreth thum er wemi./
-Frar sunra riwra    hemwen selra hreth rewa feor na glawra.
-
-Brunjulf na glawra.    Hem thum orwe isra orwe ruvra./
-Hem na kanda nemra hruvar feor glawra.    Eoth thum erwen malwa./
-Hem wredi mi glawra inwe hruven.    Hem wenga frarer./
-Inwe watra. Watra nemra hem    niwer ter isra.
-
-Ku et ferni raldra    stanwe virwe weir sta./
-Hemwen na wenga fran hewra.    Hemwen na wenga fran hewra nathwi dagren owren./
-Frath smiwra glarth et raldra et luren.    Hemwen swefra hem feor nathra./
-Gloth wredi.    Thalwin swefra hem thei renwen.
-
-Thei renwen frenna wendri kalri.    Glor nivre hem./
-Rend threm nawen mawen swefra hem.    Hemwen sedra inwe dunra./
-Hrosk orwe graswen    twerwe watra warwa mi drathi waru./
-Nawen mawen kanda weir derma.    Ku na legwe.
-
-Erthran radren rawel.    Likwe radren er isra./
-Threm. Glarth. Hrosk.    Ku weir eom sta./
-Hem malwen. Hem thum inwe hreth.    Hem harve nawen mawen./
-Eith renwen hem radren rethwi.    Hem werli isra rewa.
-
-Denger komwe howen raldra inwe nathra.    Drunga na selra ruwen./
-Hem selra glarth. Hem na swefra.    Hrosk. Ku weir./
-Hem selra Hildrik. Hem riwra    inwe dunra. Hem wenga ter watra./
-Et rend eom grilri hemwen finwe hem theora.    Orwe isra. Hruva niwer. Driwa. Nawen rawel.
-
-Nawen rawel. Nawen skathi. Nawen watri sweith.    Hem wenga ter salra er isra./
-Hem legwe orwe hem likwe marwen legwe    nather larni dagren er berwa./
-Glawra thum orwe hruva buwra.    Glawra ter dorg./
-Frath stanwe runder hem.    Nawen mawen glawra feor welri denger eom jaren.
-
-Brunjulf malwen. Hem frawna erthra.    Hem malwen ter frath./
-Likwe mawen malwen denger.    Jiwra komwe./
-Hem thum inwe hreth mi nawen mawen.    Denger komwe inwe thurwe eoth./
-Wemi thum harven er hem.    Hem wenga inwe watra.
-
-Hemwen nemra hem utwe mi hrosk.    Hemwen berwe hrosk twerwe isra./
-Othil na meld hemwen.    Hemwen ladra stord orwe hem./
-Hem komwe howen utwe hreth.    Larni likwe falwe verel./
-Hemwen erthwa raldra feor hem threm dagren.    Ku weir.
-
-Hemwen ladra hem inwe raldra. Hruva ter watra.    Hemwen ladra inwe mi hem./
-Stenra. Hem berwa hem orwe wulra.    Derwen hem na harve hraldi./
-Wethan halwen hem.    Hemwen ladra hem twerwe bruweth./
-Likwe hem ladra hem selwen    et frawna.
-
-Hemwen komwe rewa feor Balthgar.    Hemwen glarna hem et raldra./
-Mi brold er hem. Likwe hildwar harve glarna.    Hemwen glarna Hildrik sider hem./
-Thei glarth virwe eom hrum    thum rend eom er wemi inwe woldra./
-Eoth thum Dorghróm.    Hreth harve hem fran eoth.
-
-Hemwen nefra hem et raldra.    Frodhelm selra nefren./
-Likwe drungwar selra. Mi drathi waru.    Frath malwen nather hem./
-Brunjulf. Hringwef. Denger inwe hem.    Hringra. Wurl inwe hringra./
-Hem wenga niwer raldra mi nawen nefren.    Hem komwe howen mi eoth. Virwe hreth.
-
-Hem thum hrum er wemi nuwa.    Dorgbán legwe inwe hem./
-Othma halwen hemwen lartim dran awen andwe.    Erthra er raldra howra hemwen./
-Nivre awen hemwen.    Mi hruva ter watra./
-Denger frawna erthra.    Mawen selra hem ter hem. Mawen selra awen andwe ter hem.
-
-Awen andwe thum halwen.    Hruda jiwra./
-Et Weskskald othma    malwen wredri er hem inwe dunra./
-Eldri mawen malwen rend eom frar welri nefren.    Frar farwen er hem selwen./
-Mawen inwe hreth. Mawen et niwri luren.    Mawen mi nawen nefren inwe harven er wemi.
-
-Brunjulf malwen hem rend eom et eoth grema.    Et raldra. Inwe snewra./
-Nefren er farwen nather hem.    Brunjár. Hem komwe rewa orwe hrafel./
-Balthgar nather hem. Hildrik.    Frath malwen hemwen nather hem./
-Glarth harve swefra et eoth nathra.    Glor thum et merga.
-
-Ku komwe twerwe et wathra.    Nawen mawen ferwa hemwen./
-Hemwen komwe niwer ter hreth.    Hemwen stanwe inwe ter renka./
-Et sta er stanwe er hem. Hemwen drul.    Hemwen komwe howen raldra er wemi./
-Hemwen thum rothra ku.    Dorgbán halwen hemwen buwra.
-
-Mawreth komwe twerwe watra.    Na eoth grema. Nathwi./
-Hemwen komwe twerwe et Dorghreth.    Samen er ku rewra hemwen./
-Graswen rewra samen er ku.    Graswen na felwa./
-Nawen mawen er wemi fran eoth    stanwe orwe durni landra mi hemla.
-
-Derwe Dorgbán malwen dorg    et kendren er wredri er hemwen./
-Wemi komwe twerwe graswen ter eith woldra.    Andwen halwen hem et komwe er wemi.
-
-[Hewra drungwar er Dunkelwald stanwe. Wanra er metwen er wenreth luwda hem. Hem halwen timra er hem selwen mi fendar orwe faskel.]{.direction}/
-[Drungwar er Dunkelwald]{.speaker}/
-Graswen. Wemi harve graswen er thri.    Wemi malwen hem et Weskskald./
-Hrosk virwe samen er ku.    Himra ter erthra./
-Et eom glarth inwe eom nathra.    Likwe malwen er awen andwe./
-Othil hru thewen.    Nawen mawen malwen heini ter hemwen.
-
-Hewra awen andwe thum.    Derwen thri steld et brukwi sta feor badra./
-Utwe eikra. Utwe werun.    Likwe wredri wenga rewa inwe./
-Weskwar er thri selwen malwen wegra er wredri.    Inwe landra er wesk./
-Inwe erthra. Inwe werla.    Denger wenga inwe. Hem komwe utwe.
-
-Dorg owren. Hruda malwa er thri.    Malwen gendre sulwi./
-Hemwen stanwe ter renka inwe hreth.    Ku komwe ter hemwen./
-Hemwen drumi orwe fendar. Helwa.    Hemwen weir lartim./
-Hemwen na harve hraldi. Na warwa.    Hemwen wenga niwer sulwi. Theira awen et samri nimra.
-
-Eoth thum eikra. Thri selra eikra ter wemi.    Thri ladra wethan orwe hem./
-Eldri werla harve eldri girwen inwe hemwen.    Hemwen stanwe inwe hreth./
-Derwen watra thum sta er drul er eikra.    Junri marwen er thri ladra gerth inwe eom./
-Thri erthwa drumseth feor hem threm dagren.    Eoth thum meweth er werun er eikra.
-
-Hrum er thri owren. Wemi weir hem.    Hem thum orwe raldra et hreth./
-Werun wenga niwer inwe hem.    Likwe werun inwe hrum./
-Thri malwen dorg thum nivre hem.    Wemi malwen eikra thum nivre hem./
-Wemi malwen eom. Thri malwen andwen.    Hrum na malwen.
-
-Eldri hrum er wemi inwe Vethwald    durna salra inwe vathren eom renwen./
-Hem weirla harven er thei slawen.    Legwe mi thewen inwe eom erthra./
-Weskwar bodren ludra salra.    Frar mawen kanda malwen heini legwe meora niwri./
-Hrum halwen harven er hem.    Eoth thum wilwen er hrum.
-
-Wemi na glawra et malwa feor wredri.    Nawen mawen inwe Vethwald glawra et hem./
-Ladra wredri er thri orwe eikra er thri. Malwen hem rend eom.    Eoth thum rethwi ordren./
-Einwe malwen er wemi sider hem.    Likwe wemi malwen er thri sider er wemi./
-Thri komwe ter werla.    Thri komwe utwe hem.
-
-Wi malwen.    Fendar wenga howen fran faskel.
-
-[Drungwar er Dorgbán]{.speaker}/
-Wemi halwen hem fran eoth. Ladra wredri er wemi    orwe harven er finwe er wemi inwe hem./
-Wemi malwen hem rend eom inwe dunra.    Wethan thum orwe bruweth buwra.
-
-Eoth thum drunga er hreth.    Skarwen harve faskel./
-Kernra rewra wi. Skurth frar wi.    Hruhorn./
-Warwa et moreth feor badra.    Badra na widra./
-Welri mawen hruda nathwi jaren.    Wi harve hem samri.
+[Drungwar er Dorgbán.]{.speaker}/
+Stanwe ferni fran badra.    Skarwen harve faskel./
+Wi selra drunga er hreth    likwe Dorgbán halwen hem,/
+malwa nather malwa    fran marwen eldri halwen hem,/
+vird rewa, marwen ter marwen,    ter mawen et hreth mi weith.
+
+Skarwen thum feor timra.    Hem falwe orwe faskel/
+theora selmal brekwa,    vird selmal brekwa et skarwen,/
+vird ivwe wi forwe skarwen,    wi forwe erwen drunga./
+Marwen frar wi malwen samri,    vird nemra hem fran marwen eldri/
+hem halwen drunga mi fendar,    fendar orwe faskel.
+
+Wi malwen hem hewra et hreth    theora frithra stewra./
+Rewra wi barer et faskel,    frar wi skurth, merwen skurth./
+Hruda, heir wivre. Drunga na thum wenreth,    drungwar na wenfraw./
+Hem wenga howen ruvith mi wi    et badra wenga howen.
+
+Graswen thum frar woldra.    Himra niwer ter erthra./
+Mawreth komwe twerwe hem,    nather ku er hemwen,/
+lartim dagren mi hrosk,    vird nathwi dagren samri,/
+vird nawen samwe hemwen    stanwe inwe glenra.
+
+Hrosk, fendar er mawreth.    Huldren, hemra er hemwen./
+Othil elra et wenga,    vird eldri wredi inwe hem,/
+vird stewra theora falwe,    stenra orwe bruweth,/
+nawen erthra nengra    welri mawen nefra er hem.
+
+Heith threwa, drunga na malwen.    Driwa, malren mawreth,/
+urwe graswen luren frar,    likwe graswen smiwra./
+Wenga ter himra falwe    vird riwra likwe werla,/
+vird hrosk nawra inwe,    vird eoth thum rend eom kendren.
+
+Warld er werstam, dunra    likwe halwen hruvar,/
+vird ruvith orwe fendar,    wenga brunri vird sulwi./
+Threm dagren weirwar    finwe eom hreth,/
+vird et ferni salra er hreth    denger stanwe, na werla.
+
+Greth likwe werla,    sulwi likwe jaren./
+Na weir howen snelri.    Na weir howen, nawen,/
+ter denger hemwen weir    stanwe lartim theora,/
+vird theira weir, framwe,    vird na weir utwe, nawen.
+
+Rothra ku et frelwen,    wider likwe badra,/
+vird nawen frawa er ku,    vird komwe et hemwen warwa./
+Drumi, helwa, stanwe,    likwe wredri verel,/
+vird weith er hemwen et ewreth    likwe isra er ruvith.
+
+Harve na hemra, na wergrend.    Hemwen harve frelwen./
+Meld stanwe, fran wethan,    heith ku meld, vird ku,/
+vird hemwen thum eldri.    Junri, eldri dran wemi,/
+vird nawen othil theora,    vird nawen lerwa herwen.
+
+Na hraldi, nawen eom.    Na hralskel samwe hemwen./
+Stenra orwe wulra,    wulra orwe nawen,/
+werstam feor skarwen, wethan    wider likwe durwen,/
+vird marwen wethan ludra    na komwe utwe, nawen.
+
+Nawen lerwa nefren.    Nawen mawen frawna./
+Heith hemwen warwa andwen    wenga howra hrewen/
+likwe hruwen er ruvith    nivre isra et grema,/
+vird wemi warwa dorg,    malwa er wemi, einwe.
+
+Halwen hreth. Eoth awen.    Stanwe inwe watra/
+ter renka, marwen hruwlos,    vird luwda ku drul,/
+vird et weirwar komwe niwer    husra, awen, sulwi,/
+vird weirwar wenga howen    snelri dran hemwen komwe.
+
+Threm sumra sedra    orwe graswen, woldra frar./
+Threm sumra weirwar    niwer, vird howen gendre./
+Graswen rewra, meld,    vird ku thum lirwen,/
+vird et rend threm kalri grema    othil meld hrosk.
+
+Eom riwra et glarth,    nawen nefren nengra,/
+junri mi wethan er farwen,    vird nawen andwe er farwen,/
+derwen farwen wenga    niwer et rend thei sumra/
+vird komwe rewa mi hrafel,    vird eoth thum eom wegra.
+
+Hem malwen frar awen frath,    likwe vora malwa,/
+stanwe, wethan durni,    awen weir manri./
+«Wi wenga twerwe watra    vird wenga theora hemwen stanwe./
+Na komwe rewa howen    ter hreth thum er wemi.»
+
+Eoth vora. Drunga nefra hem    Brunjulf fran hewra nuwa,/
+derwen eoth nefren komwe mi hem,    vird drunga witna luren./
+Frath hru vird na glawra.    Vora frar awen frath/
+bereth er gerwen hru hem,    berwa niwer raldra.
+
+Balthgar «Thri na thum fulwen.»    «Frath wenga owren.»/
+Nawen malwen hreth na wirden.    Othil meld hrosk./
+Frodhelm slagra erthra,    eom, vird halwen malwa,/
+vird fran eoth slagren tavren kendri,    rend eom falwe er skarwen.
+
+Eithra niwer raldra.    Wi selra likwe wi harve./
+Erthulf wenga, brokan    wredri mi gerth brekri,/
+lurna hem mi helwen gerth.    Balthgar wenga, eldri,/
+bunra threm bemra,    vird malwen «Nawen fedr.»
+
+Domwin wenga, Druthrik,    othil er eom mowen,/
+nawen malwen ter andwen,    nawen renwen ferni./
+Erthran lerwa rawel,    fluren, wither wendri,/
+na rethwi eom renwen,    eom renwen, et isra.
+
+Falkwin wenga, snelri.    Garbán, thei gerth,/
+derwen skerwa eom    vird wivre andwen gendre./
+Grimhár inwe hildruva,    nawen weir hem utwe./
+Malwen «Nawen hruva.»    Hem na malwen, nawen renwen.
+
+Hildrik wenga, glawra.    Minwa hem. Glawra et ruvith,/
+glawra et kalwen, glawra    et dunra nivre werla,/
+vird frath harve hemla    feor meora delwen er ragra,/
+vird eom nathra komwe    frath na harve hemla.
+
+Mahnrád wenga, Sundgar,    Dorghár mi threm hundar,/
+hundar nawra woldra    vird stewra orwe graswen,/
+hem wenga inwe shal,    na halwen hundar gendre./
+Thalwin wenga, Thalwin,    Thalwin berwa watra.
+
+Eoth awen drunga harve.    Thalwin berwa watra./
+Berwa twerwe isra,    berwa howen raldra,/
+thurwe nathra vird rewa,    minri nawen renwen,/
+vird mawen malwen et Weskskald    mi awen andwe, feor watra.
+
+Wenga, nefren ladra niwer,    hrodra thum halwen./
+Melfa er hundar et bawen    delra hem orwe isra./
+Eldri malwen et dunra    «Marwen mi melfa er hundar.»/
+vird hem andwa, ivwe hem andwa,    vird eoth thum genra nuwa.
+
+Frodhelm wenga, drungwar,    eldri, wenga feor weir,/
+marwen stewra et glarth    na smiwra welri drunga,/
+vird hem na hildra, na berwa denger,    vird komwe rewa howen,/
+vird heith hem berwe rewa fran hreth    thum heith wi selra nuwa.
+
+Andwe, drunga forwe hem.    Hem malwen fedr tenra./
+Hem harve nefren wi selra    vird nawen frandra hemwen,/
+vird andwe niwer raldra    likwe eithra wenga,/
+vird nawen malwen et Weskskald,    derwen nawen harve.
+
+Ladra hringwef et glarth.    Balthgar smiwra, eldri./
+Hringwef komwe fran hrafel    eoth farwen komwe orwe,/
+gliri ter gerwen hringra,    selra glarth rewa,/
+vird hem thum larni orwe hem,    likwe er farwen, larni.
+
+Gerth, rend thei er Garbán.    Brold thum er hem selwen./
+Hem harve nawen howhul.    Wenga mi hrewen durni,/
+vird Erthran skerna sweith,    wethan finwe minri,/
+vird Grimhár weir hem lartim    thurwe hildruva, hrelmi.
+
+Dorghár, huldren er hundar,    bandwa wethan er gerth./
+Hildrik selra glawra    vird eom threwa ter glarth./
+Thalwin selra watra.    Frodhelm selra nawen,/
+vird weir hem ladra fendar,    vird halwen tavren er fendar.
+
+Hemwen na wenga et hreth.    Hreth na kaldri twerwe./
+Watra snelri theora,    vird dorg stanwe inwe./
+Eom dagren howen    ter ruvith sulwi vird wider,/
+vird ruvith legwe et grema    nivre galth isra.
+
+Erthran lerwa isra.    Hem wenga orwe shal,/
+komwe, ferwa hemwen,    eom rewra andwen,/
+Domwin neri fendru er hem,    andwe inwe fendar er hem,/
+vird et midwen er ruvith isra    brekwa likwe werla.
+
+Brekwa nivre Domwin.    Hem falwe inwe ter bruweth./
+Druthrik harve hem mi sweith    frar watra kanda nemra,/
+vird legwe et grilri isra,    thewen, sider andwen,/
+vird eoth thum eom renwen    thewen fren andwen.
+
+Erthran lerwa na rethwi.    Hem malwen et ferni raldra/
+frar frath, likwe malri,    vird nawen mawen andwa,/
+derwen Domwin livra    vird wefrin kaldri orwe hem,/
+vird malri malwa mi waru,    malri helwen berwa.
+
+Nawen glarth et raldra.    Domwin inwe midwen/
+er hemwen, legwe neri,    likwe ku et snewra,/
+vird watra er Thalwin kaldri,    hem halwen nivre hrafel,/
+vird howra werla er dorg,    vird nawen marwen drumi.
+
+Grema, lartim nathra,    skurwi dagren inwe./
+Dagren nivre werla,    vird nawen weir himra,/
+vird wenga inwe nathra,    ruvith et lither wethan,/
+vird gerwen werla sider    kanda husra vird weir.
+
+Kalwen thum hrelmi.    Wenga mi nawen malwa./
+Domwin, wefrin kaldri    likwe ruwen er ruvith,/
+vird Mahnrád wenga rewra    vird brekwa isra fran wefrin,/
+vird isra komwe gendre    frar nathwi werla komwe.
+
+Falkwin wenga frarer.    Hem komwe threm renwen./
+Rend eom hem malwen «Ku.»    Rend thei hem malwen «Eom,/
+drumi, helwa, stanwe,    likwe wredri verel.»/
+Rend threm hem malwen nawen,    vird weirla wethan, vird hem wruwer.
+
+Finwe rend eom et dunra.    Hem wakra na snelri, sulwi./
+Gerth er Erthulf inwe,    nivre arwen. Na wakra./
+Vird gerth er Garbán sider hem,    hem wakra, weir hemwen,/
+vird weir thum lartim    ter Garbán skerwa andwen.
+
+Na warwa. Nawen warwa.    Eoth inwe gerwen vorth./
+Falwe likwe werla,    sulwi, theira awen,/
+vird ku na renwe, na frawen,    stanwe runder et snewra,/
+vird frath wenga sider    vird ku weir.
+
+Thei meora frar hreth,    gerwen meora sulwi./
+Brold er Balthgar inwe    rend thei ter halweth erwen,/
+vird dorg nemra hem, nemra    mi eom greth wethan,/
+vird smiwra nawen denger,    einwe halwen vird weir,/
+vird hem falwe niwer sulwi,    halwen hem, halwen buwra.
+
+Brekwa wethin rewa    nemra hem utwe. Wredri./
+Mahnrád nemra stenra    twerwe hrold, sedra,/
+vird Sundgar ladra Balthgar    hefra Mahnrád howen,/
+vird malwen ter wredri «Widra.»    vird wredri marwen widra.
+
+Hreth et rend eom grilri.    Dorghreth, wemi nefra hem,/
+hreth er dorg, er wemi,    vird nefren malwen er heir hem thum./
+Swarthi watra, isra,    misthel stanwe orwe,/
+vird inwe misthel, ter renka,    lestra er hemwen stanwe.
+
+Hem hru. Nawen andwe.    Hem husra ter hemwen nengra./
+Weir frar hemwen komwe    utwe fran dunra werla,/
+vird na komwe howen fran watra,    hem stanwe inwe vird widra,/
+vird Brunjulf wenga shal    niwer raldra. Eoth vora.
+
+Hem wenga shal niwer.    Frath inwe werla./
+Hildrik na glawra, nawen.    Hildruva er Grimhár husra./
+Frodhelm tavra fendar    fran werla ter swarthi watra,/
+vird drunga «Threm tenra,»    vird Frodhelm tavra hemwen.
+
+Hringwef larni orwe hem.    Hem komwe niwer ter renka,/
+vird hringra selra rewa    grilri merga harve./
+Gerth, bandwi wethan,    brold inwe andwe,/
+vird denger inwe watra    hefra wethan howen,/
+wethan er dorg, wethan    wider likwe durwen.
+
+Hem wenga nivre wethan.    Eoth thum hrodra. Minwa hem./
+Hem na wenga runder, na stanwe,    hem wenga inwe nivre,/
+nivre arwen theora    Erthulf finwe rend eom,/
+vird gerth inwe theora,    vird hringra nemra wethan.
+
+Wethan orwe hringwef.    Hringwef halwen, hringra./
+Gliri komwe utwe    vird hringra stewra hringra,/
+vird junri inwe hringwef    hefra howen fran isra,/
+halweth er gerth inwe,    halwen hem, halwen, helwa.
+
+Threm renwen hefra.    Threm renwen halwen./
+Rend threm ladra niwer,    likwe ladra denger/
+thri berwa genra ferni,    falwe ter renka et hreth,/
+vird theira wethan, bruweth,    rothra nivre isra.
+
+Theira niwer raldra.    Garbán, andwe gerth./
+Na skerwa. Nawen tharwen.    Denger renkwa niwer,/
+vird misthel wenga fran watra,    vird ku komwe niwer/
+thurwe ferni werla    feor weir heith mawen smiwra.
+
+Dorg malwen. Hruda.    Wi selra likwe wi harve./
+Hruwen komwe sulwi,    likwe hruwen er ruvith/
+nivre isra et grema,    vird wenga howra hemwen,/
+likwe malwa er dorg,    vird nawen marwen er frath/
+felwa eom malwa,    stanwe, luwda hem wenga.
+
+Vird hem husra wethan ter raldra,    wethan eoth halwen Brunjulf,/
+vird drewra wethan howen    inwe ruwen er hrum,/
+ladra hem orwe bruweth,    halwen theora, vird weir/
+ter junri inwe hringwef,    lartim, hrelmi, sulwi.
+
+Dorg wivre hrum.    Wethan kanda malwen eoth./
+Wivre raldra durni,    erthra howra, ludri,/
+wethan orwe bruweth,    frath lerwa feor halwen,/
+nefren et dunra, et grema,    likwe wemi malwen,/
+vird harve nawen nefren    er wemi, vird frawna althren.
+
+Hem harve nawen skuldren.    Na vora, na hrawen, na selth,/
+nawen malwa frar sadwen,    na nemra, nawen selra./
+Wredra farwen et raldra,    urwe andwen likwe,/
+vird hem thum inwe watra,    renkwa, frawna feor hrum.
+
+Hildrik glawra rend eom.    Theira Garbán, andwe,/
+vird galri glawra et grilri,    mi denger renkwa niwer,/
+vird ku komwe feor weir,    vird hreth thum er wemi,/
+vird frar sunra riwra howen    selra hreth feor na glawra.
+
+Brunjulf na glawra, nawen.    Hem legwe orwe ruvra,/
+vird na kanda nemra hruvar    feor glawra. Eoth thum awen./
+Wredi mi glawra et hruven.    Hem falwe frarer inwe/
+watra, vird watra nemra hem    niwer, niwer ter isra.
+
+Ku et ferni raldra    stanwe vird weir sta,/
+vird ku na wenga, na wenga,    nathwi dagren owren./
+Frath gulra glarth    vird swefra gloth feor nathra,/
+vird gloth steld. Thalwin    swefra thei renwen,
+
+vird thei renwen kalri,    glor nivre frenna,/
+vird rend threm nawen swefra,    vird sedra inwe dunra./
+Hrosk orwe graswen    wredru twerwe watra,/
+vird nawen kanda weir feor heith,    vird ku na legwe niwer.
+
+Erthran lerwa rawel,    likwe hem lerwa isra./
+Threm, glarth, hrosk,    ku et eom sta,/
+vird malwen «Hem inwe hreth,    vird harve nawen mawen.»/
+vird eith renwen lerwa rethwi,    vird wivre isra rewa.
+
+Heith komwe howen et nathra,    drunga na selra ruwen./
+Hem selra glarth na swefra,    vird hrosk, vird ku weir,/
+vird hem selra Hildrik, hem riwra    et dunra, wenga ter watra,/
+vird et merga, rend eom grilri,    hemwen finwe hem theora/
+et isra, hruva niwer,    driwa, nawen skern.
+
+Nawen skern, na skerth,    na eom sweith watri./
+Hem wenga ter salra er isra    vird legwe niwer orwe hem/
+likwe marwen legwe    et luren er dagren berwa,/
+vird glawra buwra et hruva,    glawra hem selra dorg,/
+vird frath stanwe runder hem,    vird nawen glawra jaren.
+
+Brunjulf «Hem frawna erthra.»    Hem malwen ter awen frath/
+likwe denger malwa    tholda thum smiwra./
+«Hem inwe hreth, mi nawen.    Denger komwe thurwe eoth./
+Wemi thum heith hem harve.»    Vird hem wenga inwe watra.
+
+Drewra hem utwe mi hrosk,    hrosk twerwe isra,/
+hrosk othil na meld,    vird ladra stord orwe hem,/
+vird hem komwe utwe fran hreth,    likwe wredri verel,/
+vird erthwa threm dagren,    vird ku weir hemwen.
+
+Ladra hem inwe raldra,    hruva husra watra./
+Hemwen ladra inwe    stenra orwe wulra,/
+derwen nawen hraldi,    vird wethan eoth halwen Brunjulf/
+ladra twerwe bruweth,    likwe et hem frawna erthra.
+
+Wenga rewa feor Balthgar,    glarna hem orwe raldra/
+mi brold, likwe hildwar,    vird Hildrik glarna sider,/
+vird brenth virwe hrum    rend eom er wemi et woldra,/
+vird eoth thum Dorghróm, hrum,    vird hreth harve hem fran theira.
+
+Nefra hem orwe raldra.    Frodhelm selra nefren/
+likwe drungwar, mi waru,    vird frath malwen nather./
+Brunjulf. Hringwef, heith inwe.    Hringra, wurl inwe./
+Hem wenga niwer mi nawen nefren,    howen mi nefren, hreth.
+
+Hrum er wemi nuwa.    Dorgbán legwe inwe,/
+othren halwen lartim,    erthra er raldra howra,/
+vird nivre awen hemwen,    hruva husra watra,/
+denger frawna erthra,    vird nemra hem, vird nemra andwe.
+
+Andwe thum halwen.    Hruda heira hem renwa./
+Et Weskskald, et othren malwen    wredri inwe dunra,/
+eldri malwen rend eom,    frar welri nefren, farwen./
+«Mawen inwe hreth.    Mawen nivre awen./
+Mawen mi nawen nefren,    nawen nefren er wemi.»
+
+Brunjulf malwen hem rend eom    et raldra, inwe snewra,/
+vird nefren er farwen nather,    Brunjár, rewa mi hrafel,/
+vird Balthgar nather, vird Hildrik,    vird frath malwen nather,/
+vird glarth swefra eoth nathra,    vird glor theora et merga.
+
+Ku twerwe et wathra.    Nawen ferwa hemwen./
+Komwe niwer ter hreth,    stanwe inwe ter renka/
+theora dorg drul,    vird komwe ter raldra er wemi,/
+vird eoth thum rothra ku,    Dorgbán halwen buwra.
+
+Mawreth twerwe watra.    Na eoth grema, nathwi grema./
+Komwe twerwe et Dorghreth    mi ku rewra hemwen,/
+vird graswen rewra ku,    vird graswen na felwa hemwen,/
+vird nawen elra er wemi    stanwe et fladwen mi hemla.
+
+Dorgbán malwen dorg    et hrewen er wredri er hemwen./
+Wemi twerwe graswen    komwe ter eith forni woldra,/
+vird andwe mawen halwen hem    et wemi komwe theora—.
+
+[Hewra drungwar er Dunkelwald riwra, likwe wanra er wenreth luwda hem, vird halwen timra er hem selwen mi fendar orwe faskel.]{.direction}
+
+[Drungwar er Dunkelwald.]{.speaker}/
+Graswen? Wemi weir graswen er thri.    Wemi malwen hem et Weskskald,/
+hrosk virwe ku    vird himra niwer ter erthra,/
+et glarth, eom nathra,    likwe andwe malwa,/
+vird othil hru thewen,    vird nawen malwen heini.
+
+Hewra thum andwe,    thri steld theora, feor badra./
+Utwe fran eikra, werun,    likwe wredri inwe./
+Weskár er thri malwen wredri    wenga inwe weskgrund,/
+inwe erthra, werla,    heith inwe komwe utwe.
+
+Vird dorg. Hruda heith thri malwen    vird malwen hem gendre sulwi./
+Ter renka inwe hreth.    Ku komwe ter hemwen./
+Drumi, helwa, stanwe.    Hemwen weir lartim./
+Na hraldi, na warwa, falwe,    sulwi, theira awen.
+
+Eoth eikra. Thri selra eikra    vird ladra wethan orwe./
+Werla, forni girwen,    stanwe inwe hreth,/
+eikra drul et watra.    Junri ladra gerth,/
+vird threm dagren erthwa,    likwe werun er eikra.
+
+Hrum er thri. Wemi weir.    Hem orwe raldra et hreth/
+mi werun wenga inwe    likwe werun et hrum,/
+vird thri malwen dorg nivre.    Wemi malwen eikra,/
+vird wemi eom, thri andwen,    vird hrum na malwen, nawen.
+
+Forni hrum er Vethwald    durna salra et vathren,/
+vird harven er thei slawen    inwe eom erthra,/
+vird Weskár ludra salra    frar heini legwe niwri./
+Hrum halwen heith hem halwen.    Eoth thum wilwen er hrum.
+
+Na glawra et malwa feor wredri.    Nawen et Vethwald glawra./
+Wredri orwe eikra er thri.    Malwen eikra rend eom./
+Eoth thum rethwi ordren.    Malwen er wemi sider,/
+likwe wemi malwen er thri.    Thri komwe ter forni werla,/
+vird thri komwe utwe owren,    utwe fran werun er eikra.
+
+Wi malwen, vird fendar    riwra fran faskel.
+
+[Drungwar er Dorgbán.]{.speaker}/
+…vird wemi halwen hem fran theira,    vird ladra hrum er wemi/
+orwe heith wemi finwe,    malwen rend eom et dunra,/
+mi greth wethan er dorg    buwra orwe bruweth.
+
+Drunga er hreth thum halwen.    Skarwen harve faskel./
+Barer rewra wi, skurth frar wi,    vird badra et moreth,/
+warwa hruhorn feor badra,    vird badra na widra mawen./
+Hruda nathwi jaren,    heir wivre. Wi harve samri.
 :::
 
 ## See Also
