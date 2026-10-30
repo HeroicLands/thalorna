@@ -453,8 +453,8 @@ lúrgathen geisna. Auran thréinathen,/
 Rith gaema dárkathen tose gaeron./
 Uk ágron gournar tose, geiri kérnar,/
 rith mundri arlathon en anhernar./
-Mundri greisand griene nond drénathen,/
-gyese nond tose gene kénathen.»/
+Mundri genta griene uken lénathen,/
+rith sórvanda, gyese tose kénathen.»/
 «Rith miron thréinathen tosri géilalon, dúlkathen mundri tírvale.»/
 Ryenathen giethe Hendron threl írvale./
 «Ánseve, giethe munde‼» Nond gaernar/

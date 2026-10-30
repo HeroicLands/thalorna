@@ -157,8 +157,8 @@ Al leithon geildar gársar, grienar,/
 Ryenathen geildar, nonduk tharnis,/
 reik grend, reik grend, gonde sarnis.
 
-Marlar angeildar, tenar uk kirlis/
-rith halnis. Gonde, rith mirlis.
+Angeildar, tenar sendrel tose rith halnis./
+Dren tose, nonduk dárkathen thalnis.
 
 Anmougathen arlathon al telgenon,/
 nond geisin to óssenda en al ryenon.
