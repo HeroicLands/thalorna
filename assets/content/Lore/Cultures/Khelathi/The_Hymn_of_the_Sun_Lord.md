@@ -37,486 +37,679 @@ The copy given here is cut in the sacred hand on the wall of the tomb of [Khelan
 
 : The Dedication {#dedication}
 
-Unpointed phonetic transcription (plain-letter Khelathi; sacred-hand original).
+Qalezu transcription of the sacred-hand text.
 
 ::: {.verse form=prose lang=en work=the-hymn-of-the-sun-lord-1}
-Cut for Zemelu Khelansi Zu'Amqeletu, Overseer of the God's Granaries, Keeper of the Door Seals, Counter of the Measure at Noon, Reader of the Coming-Forth Tally, kinsman to Gar-Au Anlagh'el'Qar. The whole eastern-face hymn, as sung by the temple, for singing over him every dawn while this wall endures and its name is spoken.
+Cut for the Zemelu Khelansi Zu'Amqeletu, Overseer of the Granaries of the God, Keeper of the Seal on the Doors of the God, Counter of the Measure at the Height, Reader of the Tally at the Coming-Forth, kinsman of the Gar-Au Anlagh'el'Qar: the hymn of the eastern face, whole, as the temple sings it, so that it is sung over him at every dawn while the wall stands and the name on it is said.
 :::
 
-::: {.verse form=prose lang=khel work=the-hymn-of-the-sun-lord-1}
-qelzat qedlar eqar ez zemelu khelansi zu'amqeletu lagathar elu habtun elu nelgir lagathar elu qathur az galmun elu nelgir mazathar elu mazelnet az zarat zethular elu mazret az yarathnet talqar elu gar-au anlagh'el'qar zamlet elu qenmar elu qetgar telnethet qel shelun galar elu nelgir qu agu shelun naru qu zamar saru ezu zarun temun qethel tharel galzat ta thalal raznet elu rethan az qu
+::: {.verse form=prose lang=khel enc=khelqalezuenc work=the-hymn-of-the-sun-lord-1}
+zemelu khelansi zu'amqeletu. wanel saru qarmun talen elu gar-au anlagh'el'qar. lagathar elu habtun elu nelgir. lagathar elu qathur az galmun elu nelgir. mazathar elu mazgar az thelmer. zethular elu mazret az yalnet. qelzat qedlarar zamlet eqar ez saru. wanel qu zamlet elu qenmar elu qetgar, telnethet, qel zameth galar elu nelgir qu. agu zameth naru qu zamar saru ezu zarun temun, qethel tharel galzat ta razel genar rethan az qu.
 :::
 
 : Zamlet elu Uqa'a {#hymn}
 
-Unpointed phonetic transcription (plain-letter Khelathi; sacred-hand original).
+Qalezu transcription of the sacred-hand text.
 
 ::: {.verse form=zamlet lang=en work=the-hymn-of-the-sun-lord-2}
-[Sing at the Great Temple's east face before sunrise along the road. The fire-tender taps the altar step with a rod to keep count. Sing each divine name in two breaths, stopping between. Hold that rest for three rod strokes, singing nothing. Keep this divine rest at every naming, first through last, and for other Twelve names appearing here. It differs from the other silence, which arrives on the night road as a withheld name.]{.direction}/
+_\[Sung at the eastern face of the Great Temple before the sun is up the road. The fire-tender keeps the count with a rod on the altar step. The name of the god is sung in two breaths, and between the breaths the singers stop. The rest is held for three strokes of the rod, and nothing is sung in it. This is the god's rest, and it is kept at every naming, at the first and at the last, and at the names of the others of the Twelve where the hymn sings them. It is not the other silence. The other silence comes on the road at night, and it is a name not given.\]_/
+
 Uqa'a./
-Fire upon earliest ground./
-Fire above the mound when it comprised the world,/
-before water had banks or anything stood to count./
-Master of dried brick and dried ink,/
-master of the visible and the writing visibility lets us read,/
-ascending the road./
-We stand eastward; courtyard fire burns behind us./
-The straight road reaches away into the living city./
-At its end the sky resembles unfired potter's clay./
-Its line stands clear./
-Ascend the road./
+Fire on the first ground./
+Fire over the mound when the mound was the whole of the world,/
+and the water had no bank, and nothing stood in it to be counted./
+Lord of the dry brick, lord of the dry ink,/
+lord of what can be seen, and of what can be read because it is seen,/
+who comes up the road./
+
+We are on the eastern face. The fire is behind us in the court./
+The road runs away from us into the living city, straight,/
+and at the end of it the sky is the color of a potter's clay before the kiln./
+Nothing stands in the line./
+Come up the road./
+
 Uqa'a,/
-present in the first king standing on the mound,/
-present in Anlagh'el'Qar measuring the road by walking,/
-present in the dawn-to-dusk cord,/
-present in the two stakes for longest and shortest days,/
-speaking through him: The line remains clear./
-Whatever occupies it must descend; its owner carries the stone./
-He drew the road like one continuous reed-stroke./
-He walked and cleared your road./
-Ascend it./
-A lord's ancient gated High City wall first obstructed the line./
-Whatever occupies it must descend; its owner carries the stone./
-The lord carried his stones. His gate now serves the river wall./
-A shrine came second. Its god was consulted and moved./
-Third came your own granary, demolished like the wall./
-The city watched it fall. Since then the line has stayed clear./
-Your names in the eastern face's singing order:/
-Fire upon earliest ground./
-Riser above the mound./
-Burner of the soldier's stain as he stands in your eastern light./
-Burner of lies before a mouth completes them./
-Drier of brick and ink./
-Drier of poor pit-grave dead, free and better than natron./
-Maker of readable entries./
-Present within the Gar-Au./
-Present at the noon altar./
-Departing the western face./
-Descending on feet./
-Passing beneath floors./
-Struck at, never swallowed./
-Ascending the road./
-Named by all these names, beyond each, the fire,/
+who was in the first Gar-Au when he stood upon the mound,/
+who was in Anlagh'el'Qar when he walked the road out,/
+who was in the cord he stretched from the dawn edge to the dusk edge,/
+who was in the two stakes, the one for the longest day and the one for the shortest,/
+who said through him, "Nothing stands in the line./
+What stands in it comes down, whoever owns it, and the owner carries the stone."/
+He drew the road in one breath, as a scribe draws a sign, without lifting the reed./
+The road is yours. He walked it out and cleared the way./
+Come up it./
+
+The first thing that stood in the line was a wall of the High City, a lord's wall, old, with a gate in it./
+What stands in it comes down, whoever owns it, and the owner carries the stone./
+The lord carried his, and the gate is in the river wall now./
+The second thing that stood in the line was a shrine, and the god of the shrine was asked, and moved./
+The third thing was a granary of the god's own, and it came down like the wall./
+Since the granary nothing has stood in the line, because the city saw the granary come down./
+
+Your names, as the eastern face sings them, in the order it sings them:/
+Fire on the first ground./
+Who rose over the mound./
+Who burns the stain off the soldier who stands in you at the eastern face./
+Who burns the lie out of the mouth before the mouth has finished it./
+Who dries the brick, who dries the ink,/
+who dries the dead of the poor in the pit-graves for nothing, better than natron./
+Who makes the entry readable./
+Who is in the Gar-Au./
+Who is on the altar at the height./
+Who goes out of the western face./
+Who goes down on foot./
+Who goes under the floor./
+Who is struck at and not swallowed./
+Who comes up the road./
+Who is called by all of these, and is none of them, and is the fire, and is/
 Uqa'a./
-You rise./
-Your first light touches electrum obelisk tips./
-The court stays dark. The tender extends his rod to see it./
-Island walls whiten until boatmen turn their eyes./
-Then High City roofs, oldest and highest houses./
-Then its brown river arm carrying one boat./
-Then low-quarter roofs: yearly water sends their people up to kin./
-Then fields./
-In Flood you light courtyard water touching the second step,/
-the lone mound above it as before all other things./
-You light the Measure's Wazu reading your cubit and carrying it upward./
-A dark-read cubit is guessed./
-You light stone barges floating to desert margins while water reaches them./
-You light dyke workers, their dole, its counting counter./
-In Emergence you light the hoe-bearing farmer and preceding dog./
-You light the knotted survey cord between two stakes,/
-the flood-moved stone resting in its deposited place,/
-until cord and last year's entry order another place and someone carries it./
-You light the prevailing entry./
-In Harvest you light opening roads and caravans,/
-envoys and levies hauling bundled spears on carts./
-You light all three seasons and five monthless ending days./
-You light granary doors and seals,/
-overseer's hand and jarred tally sticks./
-You light the queue before its counter opens:/
-jar-bearing woman, boy fetching grandfather's grain,/
-old man arriving daily without a claim, wanting to be counted./
-You light measure, piled grain, leveling rod./
-You light both prices: one qelu per measure in full years, three in short years./
-You light the open counter ledger and scribe wetting his palette,/
-finding cracked black pigment, cursing, using it./
-You light steaming brewing vats and pottery kiln,/
-the woman bringing her loom to her door for you./
-You light precinct schoolboys copying tablets,/
-their Keeper reading mistakes across their shoulders./
-You light the house-door physician making the required early declaration./
-You light ferryside embalmers, natron sacks, hanging linen,/
-dead crossing on the first boat beside their tablets./
-You light quay factors using their own term, then ours,/
-the changer questioning no old gold. You light the gold./
-You light the upstream boatman poling beneath a hanging sail./
-You light knee-deep marsh reed cutters and quarry-face stoneworkers,/
-estate bondsmen counted beside oxen./
-You light the donkey beneath the High City, seated in darkness under its load,/
-refusing stick and crying boy alike,/
-and boy and stick./
-You light western herders omitting denials,/
-eastern hill people, northern sea people unfamiliar with our count,/
-in their countries at our hour, with our fire, as though ours./
-You light bread on kin-tomb tables among streets,/
-laid before your arrival for your arrival./
-You light the road-head king bearing first grain in both hands,/
-your fire within him, waiting like us./
-One breath lights everything, as one breath drew the road./
-Here the road turns. Here a name might stand./
-Chronicles omit it; the turn's singing omits it./
-We sing your name, holding its rest./
+
+You come up./
+The first of you is on the electrum of the obelisk tips,/
+and the court is still dark, and the fire-tender puts out his rod to see it./
+Then the wall of the island, white, so that the boatmen look away from it./
+Then the roofs of the High City, where the houses are oldest and stand highest./
+Then the arm of the river that runs through the High City, brown, with one boat on it./
+Then the roofs of the low quarters, where the water comes every year and the people go up to their kin./
+Then the fields./
+
+In the flood you light the water in the outer court, lapping the second step,/
+and the mound alone above the water, as it was before anything else was./
+You light the Wazu on the stair of the Measure, who reads the cubit by you and carries it up./
+A cubit read in the dark is a cubit guessed./
+You light the barges with the stone on them, floated to the desert edge while the water reaches it./
+You light the work gangs on the dike, and the dole they are fed from, and the counter it is counted at./
+In the emergence you light the tiller going out with the hoe on his shoulder and the dog ahead of him./
+You light the surveyor's cord between two stakes, and the knots on it,/
+and the stone the flood moved, standing where the flood left it,/
+which stands there until the cord and last year's entry say otherwise, and then it is carried./
+You light the entry, which wins./
+In the harvest you light the roads when they open, and the caravans on them,/
+and the embassies, and the levy going out with its spears in a bundle on a cart./
+You light all three, and you light the five days at the end that belong to no month./
+
+You light the doors of the god's granaries and the seal on the doors,/
+and the overseer's hand on the seal, and the tally sticks in their jar./
+You light the queue at the counter before the counter is open:/
+the woman with the jar, the boy sent for his grandfather's measure,/
+the old man who stands in it every morning and is owed nothing and comes to be counted./
+You light the measure, and the grain heaped in it, and the rod drawn across the heap./
+You light the price, a qelu the measure in a full year and three in a short one, and you light both prices./
+You light the ledger opened on the counter, and the scribe who wets his palette/
+and finds the cake of black cracked across, and swears, and uses it./
+You light the brewer's vats and the steam off them, and the potter's kiln,/
+and the weaver who has carried her loom to the door for you./
+You light the boys in the school of the precinct copying the tablets,/
+and the Keeper reading over their shoulders what they have got wrong./
+You light the physician at the door of a house, saying early what must be said early./
+You light the embalmers' quarter by the ferry, the natron in its sacks and the linen on its lines,/
+and the dead going over the water on the first boat, with their tablets./
+You light the factors at the quay, who keep their own word for a thing and put ours after it,/
+and the changer at the quay who asks no questions of old gold. You light the gold./
+You light the boatman poling up against the water with his sail hanging./
+You light the reed-cutter in the marsh to the knee, and the quarryman on the face,/
+and the bondsman at the estate gate who is counted in with the oxen./
+You light the donkey at the foot of the High City that sat down in the dark under its load/
+and will not get up for the stick, and will not get up for the boy's crying,/
+and the boy, and the stick./
+You light the herders of the west with their beasts, who do not say the denials,/
+and the hill people of the east, and the sea people of the north who do not know the count,/
+in their own countries, in the same hour, with the same fire, as if they were ours./
+You light the bread set out on the tables in the kin-tombs among the streets,/
+set there before you came, so that it is there when you come./
+You light the Gar-Au at the head of the road with the first grain in his two hands,/
+in whom your fire is, who waits for you as the rest of us wait./
+You light all of it in one breath, as the road was drawn./
+
+..The road turns here, and a name would stand here./
+..It is not written at the head of the chronicle. It is not sung at the turn of the road./
+..We sing yours, with the rest in it./
+..Uqa'a./
+
+You are at the height./
+You stand over the court and there is nothing in it with a shadow:/
+not the pylon, not the obelisk, not the priest, not the rod in the fire-tender's hand./
+The beam climbs the altar as it climbed the first altar./
+Every door in the city says the denials now, with you overhead./
+"I have left open no entry I could close."/
+"I have taken no stranger's word without a witness."/
+"I have not let the dead go hungry at the shrine."/
+[[lore-qearetdty|Qe'aret]] keeps the scale. You keep the light the scale is read by./
+What the scribe wrote, you light./
+What the scribe did not write, the gods keep, and we do not ask you for it on the eastern face./
+
+The judge sits in the forecourt with the two parties before him and the witness between them,/
+and the witness says what he saw, in front of you, and does not say what he was told./
+The overseer counts the god's grain at the height and at no other hour./
+At the height you stand straight down into the measure,/
+and no shadow lies along the inside of it to hide a short heap./
+A measure counted in the morning has a shadow in it the width of a hand./
+A measure counted at the height has none./
+Whoever counts at the height counts in front of you./
+
+Your names at the height, as the court sings them with no shadow in it:/
+Who stands over the measure./
+Who stands over the witness./
+Who stands over the scale, and does not touch it./
+Who stands over the Gar-Au, who is yours./
+Who stands over the herders and the hill people and the sea people, and over us, the same./
+Who stands over the river, and the river goes brown under you and does not stop./
+Who stands over the one not written, who is in the deep at this hour and cannot look up./
+Who is at the height, and does not stay there, and is/
 Uqa'a./
-You reach noon./
-Above the court you leave nothing shadowed:/
-neither pylon, obelisk, priest, nor tender's rod./
-Light climbs this altar as the earliest altar./
-Every city door speaks denials beneath you:/
-I left no closable entry open./
-I took no unwitnessed stranger's word./
-I let no dead person hunger at the shrine./
-Qe'aret guards the scale. You guard its reading light./
-You illuminate the scribe's writing./
-The gods keep his omissions. The eastern face requests none of them./
-Judge sits before two parties with witness between./
-Before you the witness reports sight, excluding hearsay./
-The overseer counts divine grain at noon alone./
-You shine vertically into its measure,/
-leaving no internal shadow concealing a short heap./
-Morning counting leaves a hand-wide shadow./
-Noon counting leaves none./
-The noon counter counts before you./
-Your noon names, sung by the shadowless court:/
-Standing above measure./
-Standing above witness./
-Standing above scales without touching them./
-Standing above your king./
-Standing equally above herders, hill people, sea people, us./
-Standing above the moving brown river./
-Standing above the unwritten one, deep now, unable to look up./
-Present at noon without remaining there,/
-Uqa'a./
+
 […]/
-Here the road turns. Here a name might stand./
-Chronicles omit it; the turn's singing omits it./
-We sing your name, holding its rest./
+
+..The road turns here, and a name would stand here./
+..It is not written at the head of the chronicle. It is not sung at the turn of the road./
+..We sing yours, with the rest in it./
+..Uqa'a./
+
+You go down./
+The shadows come back into the court from the west side first./
+The Thaz'Lekhau goes in to the small dark room and shuts the door on your image./
+Sun-lord, hidden in the sanctuary./
+Hidden there, you are on the road./
+You go out of the western face, over the water, up onto the shelf,/
+down the road on the shelf, which is new, and nobody lies beside it yet./
+The first Way is cut across it near the water, and off the Way the masons are cutting the Gar-Au's house,/
+and he is alive, and his house waits for him beside the road and not across it./
+You go to the end of the road, and into the ground at the end of it./
+On the shortest day you go down the middle of it./
+On every other day you go down to one side, and the road holds the line for the day it was drawn for./
+On the shortest day we sing you down from the western face, and that is the other hymn, and it is not this one./
+The light goes off the obelisk tips last, as it came onto them first./
+The masons cross back on the last ferry as you go down, and the guard has the shelf,/
+and nobody sleeps on it without cause./
+The fire-tender puts away his rod. The fire in the court is the only fire./
+
+Under the city you go./
+The dead in the kin-tombs among the streets hear you under the floor/
+and stand up on their walls, where they are painted standing,/
+and the men painted beside them stand up, who answer for them when they are called./
+The Overseer of the Granaries of the God, Khelansi, stands up with the seal in his hand./
+They hear you pass under, and they say your name,/
+which is what you fight with./
+They stand while you pass and they sit when you have passed,/
+and the bread on their tables is counted to them in the dark./
+
+[[lore-rethsaardty|Reth'Sa'ar]] walks with you to the first gate and no farther./
+He has the names of the gates on his tablet, and he gives them to you one by one,/
+and you say them, and the gates stand open, and he goes back to his library./
+The dead who went down this year are on the road ahead of you with their tablets under their arms./
+They walk your road without you. They do not see you./
+They hear you behind them and stand to the side, as a queue stands aside for the overseer,/
+and you go by them, and they go on to the hall where the accounts are opened,/
+and what is said in the hall is not sung here./
+
+We do not see you from the eastern face. We have the count./
+The night is long and the hymn is short, and the rod counts the night into the hymn./
+The fire-tender takes up his rod again at the first gate, and we sing you where the rod says:/
+at the first hundred strokes you are at the first gate, and we sing the gate open;/
+at the fourth hundred you are among the dead on the road, and we sing them to the side;/
+at the seventh hundred you are at the deepest, and we sing the turn,/
+and at the turn we sing no name, and after the turn we sing yours./
+Whoever sleeps, the rod does not. Whoever sings wrong, the rod puts right./
+A night sung short is a night not finished, and the rod does not allow it./
+
+The road goes down, and the dark on it has no bank./
+It is the water from before the mound. It was never counted. It is still there./
+Across the road, in the deepest of it, the other lies./
+
+..The road turns here, and a name would stand here./
+..It is not written at the head of the chronicle. It is not sung at the turn of the road./
+..We sing yours, with the rest in it./
+..Uqa'a./
+
+You do not go round. There is no round./
+You go at it on your feet, with the fire in your two hands as the Gar-Au carries the grain./
+It opens. It is longer than the road. It is darker than the road./
+It has you in its mouth to the shoulders,/
+and the fire is in its mouth with you, and it cannot close on the fire./
+It lets go. It is thrown down. It is driven back into what it came out of./
+It is not destroyed. It will be across the road tomorrow night, in the same place./
+It was there last night. It was there the night the road was drawn, and the night before the mound./
+Every night it is thrown down, and every morning is the morning after that./
+You come on./
+You come on with the fight on you, and nobody anoints you at the eastern face./
+The soldier who has killed stands in you until the stain is gone. You stand in nothing./
+What is on you from the road burns off on the road./
+The road comes up. The dark on it gets a bank again, the near one first,/
+and then the far one, and then it is a road with two banks and a sky at the end of it./
+The dead behind you on it do not see the sky. They have their own door./
+You have yours./
+
+Galezkara, city on the line./
+Your streets go where they please. They are mud; they go down in the water and come up somewhere else./
+Your road does not go where it pleases. It goes where he goes./
+Nothing stands in his line between the temple and the dawn edge, between the temple and the dusk edge./
+What stands in it comes down, whoever owns it, and the owner carries the stone./
+The kings will lie to either side of it and leave it open./
+Your road will be full while the god crosses:/
+full of the image carried on the longest day, full of the people at the sides of it,/
+full of the first grain, full of the queue, full of the tiller with the hoe and the boy with the stick./
+Nothing stands in the line./
+
+He is at the dawn edge./
+The sky at the end of the road is the color of a potter's clay before the kiln./
+The fire-tender puts out his rod. The first of him is on the electrum./
+He was in the ground, and he is on the road. Nothing stands in the line./
 Uqa'a./
-You descend./
-Western shadows return to the court first./
-The high priest enters a little dark chamber and shuts your image inside./
-Sun-lord concealed in sanctuary./
-Concealed there, traveling here./
-You leave the western face, cross water, climb the shelf,/
-follow its new road beside which nobody yet lies./
-Near water its first Way crosses it; masons carve the king's house from that Way./
-He lives. His house waits beside the road, leaving the road open./
-You reach its end and enter ground./
-On the shortest day your descent follows its center./
-Other days use a side; the road preserves its appointed day's line./
-The shortest-day western descent has another hymn./
-Electrum tips lose light last, having gained it first./
-Masons take the final ferry home at your descent. Guards hold the shelf./
-Nobody sleeps there without cause./
-The tender stores his rod. Courtyard fire becomes the only fire./
-You pass beneath the city./
-Street kin-tomb dead hear beneath their floors/
-and rise upon their painted-standing walls./
-Their painted answering men rise beside them./
-Khelansi, Granary Overseer of the God, rises holding his seal./
-They hear your passage and speak your name,/
-your fighting weapon./
-They stand through your passage, sit afterward./
-Their table bread is counted to them in darkness./
-Reth'Sa'ar accompanies you only to the first gate./
-His tablet supplies gate names in sequence./
-You speak them; gates open; he returns to his library./
-This year's dead walk ahead carrying tablets beneath arms./
-They follow your road without seeing you./
-Hearing you behind, they move aside like a queue for an overseer./
-You pass. They continue to the account-opening hall./
-This hymn omits its proceedings./
-The eastern face cannot see you. We have the count./
-A short hymn contains a long night through the rod's counting./
-The tender resumes his rod at the first gate. Its count places our song:/
-hundredth stroke, first gate; we sing its opening;/
-four-hundredth, road's dead; we sing them aside;/
-seven-hundredth, deepest point; we sing the turn./
-There we withhold a name, then sing yours./
-Sleepers leave the rod awake; wrong singers receive its correction./
-A shortened night remains unfinished. The rod forbids it./
-The road descends into bankless darkness,/
-water predating the mound, uncounted and remaining./
-At the deepest place the other lies across the road./
-Here the road turns. Here a name might stand./
-Chronicles omit it; the turn's singing omits it./
-We sing your name, holding its rest./
-Uqa'a./
-You approach directly. No way around exists./
-On foot you carry fire in both hands like royal grain./
-It opens, longer and darker than the road./
-Its mouth holds you shoulder-deep,/
-holding your fire too, unable to close upon it./
-It releases you, falls, retreats into its origin./
-It survives to block tomorrow's road at the same place./
-It lay there last night, the road's first night, the night before the mound./
-Nightly it falls. Every morning follows that fall./
-You advance./
-You advance bearing combat, receiving no eastern anointing./
-A killer stands in you until stain departs. You stand in nothing./
-The road burns its own residue from you./
-The road rises. Darkness gains banks again, near first,/
-far second, then two banks and a sky beyond./
-The following dead cannot see that sky. Their door belongs to them./
-Yours belongs to you./
-Galezkara, city upon the line./
-Mud streets choose their courses, drown, return elsewhere./
-Your road follows his course./
-Nothing obstructs his temple-to-dawn or temple-to-dusk line./
-Whatever occupies it must descend; its owner carries the stone./
-Kings shall rest on either side, keeping it clear./
-It fills while the god crosses:/
-longest-day carried image, people alongside,/
-first grain, queue, hoe-bearing farmer, stick-bearing boy./
-Its line stays clear./
-He reaches dawn's edge./
-Road-end sky resembles unfired potter's clay./
-The tender extends his rod. First light touches electrum./
-Ground has yielded him to road. Its line stays clear./
-Uqa'a./
-Fire upon earliest ground./
-Fire above the mound when it comprised the world./
-Master of dried brick and ink./
-Down the road and up again./
-Counted: another day, another, this one./
-[At the final naming hold the first naming's rest. Singers enter toward fire. Hymn ended; day counted.]{.direction}
+Fire on the first ground./
+Fire over the mound when the mound was the whole of the world./
+Lord of the dry brick, lord of the dry ink./
+Who went down the road and came up it./
+It is counted. It is one more day, and one more, and this one./
+
+_\[At the last naming the rest is held as at the first. The singers go in to the fire. The hymn is ended, and the day is in the count.\]_
 :::
 
-::: {.verse form=zamlet lang=khel work=the-hymn-of-the-sun-lord-2}
-[shelun naru qu az qenmar elu qetgar elu galar thazet mar yaler thelqen zar ezu hodir lagath lagathar elu thalu mazret qer elu lagun az zengel elu qelnet shelun naru rethan elu nelgir ezu khalat khul thalet naru qarmath khalat walet naru thalalnet khemu qezirnet elu lagun khez shelun naru temun ezu qu wanel eqar thalalnet elu nelgir lagath naru qu az raznannet temun az lazret ta az telnethet lagath naru qu az rethan elu leqar elu 12 ezu zamlet khez wanel qu khashat elqar leqar yaler leqar ezu hodir az qeznar wanel qu rethan khez nelaznet]{.direction}/
-uqa'a/
-thalu az gharen lazret/
-thalu zar yathar ezu kalun elu yathar gharen zamat/
-khez qamar qalu galthar khez tharel temun ezu qu ez mazath/
-lemunar elu galqat qezlet lemunar elu zethqur qezlet/
-lemunar elu zuran ta zethulnet qer elu zuran/
-yaler saru zar ezu hodir/
-wanel nazun az qenmar elu qetgar wanel thalu nazar nazun ezu galzamar/
-yarul hodir nyar nazun ez galnat alget qenlet/
-wanel khalqar az telnet elu qu qel qedmal elu gethar mar temthar/
-khez tharel temun ezu qernet/
-yaler telu zar ezu hodir/
-uqa'a/
-wanel saru ezu gar-au lazret ezu tharelnet az yathar/
-wanel saru ezu anlagh'el'qar ezu tarulnet elu hodir/
-wanel saru ezu shanur nyar telnet elu zarun ez telnet elu hesqar/
-wanel saru ezu lagqet khul lazen ez tharen thalen tazir shar tharen temun ta lazen ez tharen qezil tazir/
-razel saru qazir saru khez tharel temun ezu qernet/
-yarul temun nyar qu nizar khez qemet qamnet tuqath qamnetar qedlar/
-zethal saru hodir ezu khalat lazen qel zethmin elu zethuar khez qalthaz sheqet/
-wanel hodir elu telu tarul saru qu ta lagar saru temun nyar qu/
-yaler telu zar ezu qu/
-wanel temun lazret ezu qernet galzat elu galnat zar galzat thelin elu lemunar ta galmun/
-yarul temun nyar qu nizar khez qemet qamnet tuqath qamnetar qedlar/
-tuqath lemunar elu saru wanel galmun ezu galzat elu igelu kalzu/
-wanel temun khulret nelgalar razal genar nelgir elu qu qalur qu/
-wanel khemu habtun elu nelgir qezunet yarul qu nizar qel galzat/
-khez tharel temun ezu qernet narel habtun zuren galnat yarulnet elu habtun nizar/
-rethan elu telu qel qenmar elu qetgar ezu qernet elu shelun/
-thalu az gharen lazret/
-yaler saru zar yathar/
-thumath saru shazqet nyar meglarar tharel saru ezu telu az qenmar elu qetgar/
-thumath saru razqet nyar lamur mar telath lamur qu/
-qezlar saru galqat qezlar saru zethqur/
-qezlar saru wathet khez qamret ezu qelgar khez qazemnet leqet tazir shar nezqet/
-temal saru zethat zuret/
-wanel saru ezu gar-au/
-wanel saru az qelnet az zarat/
-yarath saru nyar qenmar elu ithnar/
-yarul saru nizar ezu pedar/
-yarul saru nuqar gharen/
-qezir leqar saru khez tamul qu saru/
-yaler saru zar ezu hodir/
-razer genar saru qer elu rethan temun eqar khez wanel saru lazen elu naru wanel saru thalu wanel saru/
-uqa'a/
-yaler telu zar/
-wanel lazret elu telu az qelwaz elu qarnet elu qedzun/
-thalal galzamar zekhot qalthaz lagathar elu thalu lagun ez zurat qu/
-tharun galzat elu galuqet wazet yaleth shebigelar qenmar nyar qu/
-tharun galzur elu galnat zar wanel galar thelin tazir ta zarat tazir/
-tharun thulun elu igelu qazir galnat zar qezwan ta shebigel lazen az qu/
-tharun galzur elu galnet qezil yaler qalu ez naru ezu kalzet temun yarul atmeru zar ez talen/
-tharun zegaru/
-ezu azlet faelath telu qalu ezu galzamar nazar thaluz qu zengel khulret/
-ta yathar laz az zar elu qalu qel mar temun temun/
-faelath telu wazu az zengel elu mazelnet mazel saru mazgar qer elu telu tuqel saru qu zar/
-wanel mazgar elu zethulnet ezu zekhot mazgar elu qerzel/
-faelath telu qaltaru ta qedlar tuqath qalu naru ez qelzar elu amqar ezu kalun elu yalathnet elu qalu/
-faelath telu tamelar az qalthar ta tamzel elu naru ta zethgal elu mazret elu qu/
-ezu gelet faelath telu zegarar ta qezzal az qalmer ta khanur zamar saru/
-faelath telu shanur elu mazelar qarmath lagqet khul ta qelqen az qu/
-ta qedlar elu qalurnet elu azlet az garel elu tethet elu azlet/
-thalel qu zun qethel rethet elu shanur ta zethat elu kalzet mar qu tharun tuqath genar qu/
-faelath telu zethat qerath qu/
-ezu shelu faelath telu hodir galut ta zewaret az naru/
-ta razethar elu galnat ta meglar ta qezgath ezu qelqath az balvel/
-faelath telu khemu temun ta tharen chalen az telnet khez menqet/
-faelath telu galmun elu habtun elu nelgir ta qathur az naru/
-ta thalmu elu lagathar az qathur ta lagun elu mazret ezu qallun/
-faelath telu qernet az zethgal mar galuthnet elu qu/
-ghunet ta qallun malen qarenar ez mazgar elu qathun elu talqar/
-genar qarnethet ezu qernet ezu zarun temun khez qamar saru zeqat ez saru yaler saru ez mazathnet/
-faelath telu mazgar ta mazgar qalthaz ezu qu ta lagun zar qalmar/
-faelath telu qenmet qelu lazen ez mazgar ezu kalzet telnethet ta khemu ezu kalzet khez qemet faelath telu khul/
-faelath telu halzi galut az zethgal ta zethuar elu wethet elu zethqal/
-heurath saru qelqez qelthez elu zethqur khamet qarazel saru tamel saru qu/
-faelath telu qalnazgar ta khalzun zar naru ta temthar elu gethar/
-ta githarar tuqath sari githar ez galmun ez telu/
-faelath telu malen qarenar ezu rethgal elu galnet zethal naru zelqet elu zethqen/
-ta lagathar zethul saru qaznel elu naru zar qalmer/
-faelath telu zalethar az galmun elu galar razel saru temun mar qeznar elu qelamet/
-faelath telu garun elu wathetar qarmel shebigel ta nezqet ezu sharmet ta shenqet az shanur/
-ta wathet qazir qalu ezu shebigel lazret ta zethqen/
-faelath telu zelqenar az limqet walet naru raznet elu qezunet ez temun qalath naru elu nazun mer qu/
-ta zewarar az limqet khez razal saru temun qaral qenuwa thelin faelath telu qenuwa/
-faelath telu shebigelar qelzuth saru zar ez qalu ta shalar elu anqar thalun/
-faelath telu shebar ezu qelmaru qethel qelun ta qedlarar az qenmar/
-ta genar qamur az galmun elu lutu mazath genar saru ta tharqat/
-faelath telu qaldun az pedar elu galnat zar galel qu ezu zekhot nuqar tuqathnet/
-khez tharel qu qaral lagun khez tharel qu qaral qelmar elu malen/
-ta malen ta lagun/
-faelath telu meglu elu ithnar ta ternu khez razel naru halzunet/
-ta atmeru elu qedgel elu qetgar ta atmeru elu qalzar elu miglar khez rethal naru mazret/
-ezu gharen elu qezunet ezu horqet qemel qer elu thalu qemel qel wanel naru elu nazun/
-faelath telu tamzel az telzar ezu qalwat elu talen qarmath hodir/
-qalath genar qu zun mar yalnet elu telu alqar qu az yalnet elu telu/
-faelath telu gar-au az qarnet elu hodir ta mazgar lazret ezu thalmu khul/
-wanel thalu elu telu ezu saru yalmet saru telu qel nazun/
-faelath telu zamat ezu khalat lazen qel zethalnet elu hodir/
-yaleth hodir zun agu tharel rethan zun/
-khez zethal genar qu az qarnet elu zelqet elu kalzet khez shelun naru qu az yalethnet elu hodir/
-shelun nazun elu telu ta thalalnet elu qu/
-uqa'a/
-wanel telu az zarat/
-tharel telu zar galzamar khez qamar temun ezu qu khalqet/
-khez galmun thazet khez qedzun khez lem'nelgir khez lagun ezu thalmu elu lagathar elu thalu/
-yaler fael zar qelnet qel yaler qu zar qelnet lazret/
-razel galmun temun ezu galnat halzunet kalzu wanel telu zar nazun/
-khez thalal nazu zethat galut qamaru dunel nazu galath qu/
-khez lamath nazu raznet elu rethnar khez zurenar/
-khez lemath nazu wathet khanar az nelgalar/
-lagath qe'aret halzat lagath telu fael elu zethulnet elu halzat/
-faelath telu zethalnet elu zethuar/
-lagath nelgiru temun khez zethal zethuar khez razal nazun telu qu az qenmar elu qetgar/
-galel qerathar ezu galzamar qelathar khul zamar saru zurenar qarmath naru/
-razel zurenar zurnet elu saru zamar telu khez razel saru khashelnet/
-mazath lagathar mazgar elu nelgir az zarat khez az horqet leqar/
-yaler telu qenlet nizar ezu mazgar az zarat/
-khez kelath khalqet ezu qu ez qamzel qalmar khez qemet/
-qamar mazgar elu zarun khalqet ezu qu elu pathet elu thalmu/
-khez qamar mazgar elu zarat qu/
-mazath mazathar az zarat zamar telu/
-rethan elu telu az zarat qel shelun galzamar khez khalqet/
-tharel saru zar mazgar/
-tharel saru zar zurenar/
-tharel saru zar halzat khez thaluz saru qu/
-tharel saru zar gar-au wanel saru elu telu/
-tharel saru zar meglu ta atmeru elu qedgel ta atmeru elu qalzar ta nazun qemel/
-tharel saru zar igelu yarul igelu qezwan nuqar telu khez thalet qu/
-tharel saru zar genar khez ezu zethu wanel leqar ezu qezgar ezu horqet eqar khez dunel qu zurat zar/
-wanel saru az zarat khez thalel saru zun wanel saru/
-uqa'a/
-[…]{lang=zxx}/
-yaleth hodir zun agu tharel rethan zun/
-khez zethal genar qu az qarnet elu zelqet elu kalzet khez shelun naru qu az yalethnet elu hodir/
-shelun nazun elu telu ta thalalnet elu qu/
-uqa'a/
-yarul telu nizar/
-yaler khalqet yalret ezu galzamar nyar tarmil elu ithnar lazret/
-galun thaz'lekhau domet thazit zekhot galath saru galmun az zelmit elu telu/
-uqa'a khez zuret ezu galar elu nelgir/
-khez zuret telu zun wanel telu ezu hodir/
-yarath telu nyar qenmar elu ithnar zar qalu zar ez gharen zar/
-nizar ezu hodir elu gharen zar wanel qu nevar khez kelath genar qarmel qu ethel/
-qelzat genar khalnet lazret qazir qu qaril qalu qelzat qedlarar galar elu gar-au nyar qu/
-wanel saru alget yalmet galar saru qarmel hodir khez qazir qu/
-yarul telu ez telnet elu hodir ta ezu gharen az telnet/
-ezu tharen qezil tazir yarul telu nizar ezu qarmen elu qu/
-ezu tharen leqar temun yarul telu nizar az tarmil lazen lagath hodir qernet elu tharen elu temalnet elu qu/
-ezu tharen qezil tazir shelun nazun yarulnet elu telu nyar qenmar elu ithnar wanel eqar zamlet leqar khez wanel qu eqar/
-yarath fael nyar qarnet elu qedzun telnethet qel yalath qu lazret/
-qazir qedlarar igelu ezu shebigel telnethet ezu yarulnet elu telu nizar lagath meglar gharen zar/
-khez shamel genar az qu khez qaran/
-qalath lagathar elu thalu lagun ezu garel elu qu wanel thalu ezu galzamar laz thalu/
-yarul telu nuqar galnat/
-khashath wathet elu qalwat elu talen qarmath hodir telu nuqar gharen/
-tharel naru az galzat elu qezunet zagath genar naru tharel/
-tharel genar zaget qarmel naru tan qamar naru qelqet az garel elu naru ezu razernet/
-tharel lagathar elu habtun elu nelgir khelansi ta qathur ezu thalmu/
-khashath naru tarulnet elu telu nuqar naru razel naru rethan elu telu/
-makhal telu qer elu qu/
-tharel naru ezu tarulnet elu telu galel naru mer qu/
-mazath genar tamzel az telzar elu naru ez naru ezu zekhot/
-tarul reth'sa'ar ta telu ez galmun lazret khez tazir/
-qamar saru rethan elu galmun az zethqen nelaz saru naru ez telu lazen mer lazen/
-razel telu naru galuth galmun yalen saru ez galar elu zethu/
-wanel wathet elu kalzet eqar zamar telu ezu hodir ta zethqen nuqar thulun/
-tarul naru hodir elu telu khez telu khez zuren naru telu/
-khashath naru telu nazar naru tharel naru qarmel qel qernet qarmel ez lagathar/
-yarul telu qarmel naru yarul naru ez harun elu galuthnet elu halzi/
-khez shelun genar raznet elu harun zun/
-khez zuren nazun telu nyar qenmar elu qetgar qamar nazun mazret/
-wanel qeznar thalen wanel zamlet qezil tegul lagun qeznar ezu zamlet qer elu mazret/
-lamath lagathar elu thalu lagun yalret az galmun lazret shelun nazun telu az garel elu rethet elu lagun/
-az qezirnet 100 wanel telu az galmun lazret shelun nazun galuthnet/
-az qezirnet 400 wanel telu qarmath wathet ezu hodir shelun nazun naru qarmel/
-az qezirnet 700 wanel telu nizar tazir shar garel leqar shelun nazun yalethnet/
-khez shelun nazun rethan az yalethnet shelun nazun elu telu mer qu/
-shamel genar khez shamel lagun shelun genar khez qenlet qenlar lagun/
-wanel qeznar elu shelunnet qezil qeznar khez telnethet khez lemath lagun qu/
-yarul hodir nizar khez qamar zekhot az qu galthar/
-wanel qu qalu mar yathar khez mazath genar qu thalal qu zun/
-kelath leqar qazir hodir az qezgar/
-yaleth hodir zun agu tharel rethan zun/
-khez zethal genar qu az qarnet elu zelqet elu kalzet khez shelun naru qu az yalethnet elu hodir/
-shelun nazun elu telu ta thalalnet elu qu/
-uqa'a/
-khez yarul telu qazur khez alqar garun qazur/
-yarul telu ez qu ezu pedar ta thalu ezu thalmu khul qel mazgar elu gar-au/
-galuth qu wanel qu thalen shar hodir wanel qu zekhot tazir shar hodir/
-qamar qu telu ezu lamur qethel qalmer/
-wanel thalu ezu lamur ta telu khez dunel qu galath ez thalu/
-wazal qu telu qezir telu qu nizar lagar telu qu yalret ezu garun elu qu/
-khez qezath genar qu agu kelath qu qazir hodir ezu qeznar mer kalzu az garel qemel/
-alqar qu zun ezu qeznar mar kalzu ezu qeznar elu temalnet elu hodir ezu qeznar mar yathar/
-qezir telu qu nizar ezu qeznar temun wanel zarun temun zarun mer qu/
-yaler telu zamar/
-yaler telu zamar ta makhalnet khez lazqath genar telu az qenmar elu qetgar/
-tharel meglarar elu qezathnet ezu telu qethel yarul shazqet tharel telu ezu khezan/
-thumath tamelnet elu hodir nyar telu az hodir/
-yaler hodir zar qamar zekhot galthar yalret qaril lazret/
-tharun qeril tharun hodir ta galthar khul ta khalqar az telnet/
-khez zuren wathet nazar telu khalqar qamar naru galmun elu qezunet/
-qamar telu elu telu/
-galezkara galnat az qernet/
-yarul hodir elu telu qel qaruth naru wanel naru qedmal yarul naru nizar ezu qalu yaler naru zar az garel leqar/
-khez yarul hodir elu telu qel qaruth qu yarul qu az garel elu saru/
-khez tharel temun ezu qernet elu saru qarmath galar elu nelgir ta telnet elu zarun qarmath qu ta telnet elu hesqar/
-yarul temun nyar qu nizar khez qemet qamnet tuqath qamnetar qedlar/
-agu kelath gar-auu az tarmil khul elu qu thalal naru qu galut/
-wanel hodir elu telu tamen ezu qazirnet elu nelgir/
-tamen elu zelmit elu tharen thalen tazir tamen elu atmeru qarmel/
-tamen elu mazgar lazret tamen elu qernet tamen elu zegarar ta qezzal ta malen ta lagun/
-khez tharel temun ezu qernet/
-wanel saru az telnet elu zarun/
-wanel khalqar az telnet elu hodir qel qedmal elu gethar mar temthar/
-qalthaz lagathar elu thalu lagun wanel lazret elu saru az qelwaz/
-wanel saru ezu gharen wanel saru ezu hodir khez tharel temun ezu qernet/
-uqa'a/
-thalu az gharen lazret/
-thalu zar yathar ezu kalun elu yathar gharen zamat/
-lemunar elu galqat qezlet lemunar elu zethqur qezlet/
-yarul saru nizar ezu hodir yaler saru zar ezu qu/
-wanel qu ezu mazret tharen lazen tan ta lazen tan ta eqar/
-[az raznannet telnethet walet shelunar thalalnet qel lazret galun shelunar ez thalu telnethet zamlet wanel tharen ezu mazret]{.direction}
+::: {.verse form=zamlet lang=khel enc=khelqalezuenc work=the-hymn-of-the-sun-lord-2}
+[zameth naru az qenmar elu qetgar elu galar thazet mar yaler thelqen zar ezu hodir. qezir lagathar elu thalu zengel elu qelnet qer elu lagun. ezu rethan elu nelgir, khalat khul. thalet shelunar qarmath khalat. walet naru thalalnet ez qezirnet khemu. khez zameth naru temun ezu qu. wanel qu thalalnet elu nelgir az raznannet lazret ta telnet, ta az rethan elu leqar elu gerun ta khul. khez wanel eqar khashat elqar elu hodir az qeznar. wanel leqar rethan khez nelaznet.]{.direction}
+
+uqa'a. thalu az gharen lazret./
+galqat qezlet. zethqur qezlet./
+lemunar elu zuran zamat,/
+lemunar elu zethulnet zamat./
+yathar lazen. gharen zamat./
+khez qamar qalu galthar ethel./
+khez tharel temun ezu mazret./
+thalu zar qu. yaler saru ez hodir.
+
+az qenmar elu qetgar, nazun./
+thalu nazar nazun ezu galzamar./
+hodir qenlet ez galnat alget./
+nyar nazun ez khalqar az telnet./
+qedmat elu gethar mar temthar./
+wanel khalqar qel qedmat eqar./
+khez tharel temun ezu qeznur./
+yaler telu zar ezu hodir.
+
+uqa'a ezu gar-au lazret./
+tharel saru az yathar lazret./
+uqa'a ezu anlagh'el'qar./
+tarul saru. mazel saru hodir./
+nyar zarun ez hesqar, shanur./
+lagqet khul, lazen ezu lazet./
+ez tharen kalmet tazir, lazen./
+ez tharen kalmit tazir, lazen./
+khez qalthaz saru shequn az hodir./
+zethmin lazen. khalat lazen./
+qel zethuar, zethal saru hodir./
+razel telu qazir lamur elu saru./
+khez tharel temun ezu qeznur./
+khez qemet qamnet ezu qeznur./
+yarul qu nizar. tuqath qamnetar qedlar./
+tarul saru qu. lagar saru temun./
+hodir elu telu. yaler telu zar.
+
+zuren galnat habtun yarul nizar./
+habtun elu telu. galzat mar qu./
+khez tharel temun ezu qeznur./
+lemunar ta galzat thelin, lazret./
+galmun ezu qu. thalun galzat./
+khez qemet qamnet ezu qeznur./
+yarul qu nizar. tuqath qamnetar qedlar./
+tuqath lemunar qedlar elu saru./
+galmun ezu galzat elu igelu./
+nelgalar khulret. razal genar nelgir./
+qalur naru nelgalar nyar qeznur./
+habtun khemret, elu nelgir qezunet./
+yarul qu nizar qel galzat./
+mazret khemu. qeznur galut./
+narel habtun, khez tharel temun.
+
+ezu qernet elu qenmar elu qetgar,/
+rethan elu telu. lamur elu nazun./
+uqa'a. thalu az gharen lazret./
+thalu zar yathar. tharath saru./
+meglarar az qenmar ezu telu./
+thumath shazqet ezu telu./
+thumath razqet ezu lamur,/
+mar telath lamur raznet elu qu./
+qezlar saru galqat ta zethqur./
+qezlar saru wathet khez qamret./
+qelgar elu naru. khez qazemnet./
+leqet tazir shar nezqet, telu./
+zethat zuret, qer elu telu./
+uqa'a ezu gar-au, ezu qelnet./
+az thelmer. yarath saru ez ithnar./
+yarul saru nizar ezu pedar./
+yarul saru nuqar galqen./
+qezir genar saru. khez tamul qu saru./
+yaler saru zar ezu hodir./
+rethan zamat. khez lazen elu naru./
+wanel saru thalu. uqa'a.
+
+yaler telu zar. galzamar zekhot ethel./
+qelwaz az qaren elu qedzun, lazret./
+qalthaz lagathar lagun ez zurat./
+galzat elu galuqet, wazet mer qu./
+yaleth shebigelar qenmar nyar qu./
+galzur thelin, galzur zarat./
+galnat zar. tharun igelu,/
+thulun qezwan ta shebigel lazen./
+galzur qezil. yaler qalu ez naru./
+yarul atmeru zar ez talen./
+yarul naru ezu kalzet temun./
+tharun zegaru. yaler telu zar.
+
+faelath telu azlet ta gelet,/
+shelu, tharen chalen khez menqet./
+qalu az zengel khulret, ezu galzamar./
+yathar laz zar qu, qel lazret./
+wazu az zengel elu mazelnet./
+mazel saru qemul qer elu telu./
+tuqath saru mazret zar ezu zengel./
+qemul ezu zekhot, qerzel laz./
+faelath telu qaltaru ta qedlar./
+qalu ez amqar. qedlar ez amqar./
+tuqath qalu naru. thalel qu zanu./
+tamelar az qalthar, tamzel, zethgal./
+mazath genar tamzel. faelath telu qu./
+faelath telu zegarar elu gelet./
+qezzal az qalmer. khanur zamar saru./
+shanur ta qelqen, lagqet khul./
+qedlar az tethet elu azlet./
+razel shanur ta zethat leqar./
+zethat elu kalzet mar eqar./
+tuqath genar qedlar ez garel elu qu./
+faelath telu zethat. qeran qu./
+faelath telu hodir elu shelu./
+galuth hodir. zewaret ta razethar./
+meglar ta qezgath ezu qelqath./
+qelqath az balvel. yarul naru./
+kalqet khemu. tharen chalen./
+khez qamar menqet tharen chalen.
+
+faelath telu mazgar ta lagun./
+qalmur ezu qu. lagun zaqar qu./
+qelu lazen ezu kalzet telnethet./
+qelu khemu ezu kalzet khez qemet./
+khul qenmet. faelath telu khul./
+qathur az galmun elu habtun./
+thalmu elu lagathar az qathur./
+lagun elu mazret ezu qallun./
+qarzel az zethgal, mar galuth qu./
+mathenar ta qallun. malen ta mazgar./
+mazgar elu qathun elu talqar./
+genar qarnethet. khez zeqat ez saru./
+yaler saru ez mazathnet elu saru./
+az zarun temun. faelath telu saru./
+zethuar ta zethqal. halzi galut./
+wethet, qelqez khamet, qezet./
+qazmel saru. tamel saru qu./
+faelath telu temthar elu gethar./
+qalnazgar ta khalzun elu naru./
+githar az galmun, ez telu./
+tuqel githarar githar ez galmun./
+malen ezu rethgal elu nelgir./
+zethqen zamar naru. lagathar nazar./
+zethul saru qaznel zar qalmer./
+faelath telu zalethar az galar./
+raznet qelamet, mar kalun qemet./
+wathetar qarmel shebigel./
+nezqet ezu sharmet. shenqet az shanur./
+wathet ta zethqen ezu shebigel lazret./
+faelath telu limqet elu zelqenar./
+raznet elu naru, elu nazun mer qu./
+zewarar ta qenuwa thelin./
+khez razal saru. faelath telu qenuwa./
+shebigelar. shaleth qelzun elu saru./
+qelzuth saru zar, qemrat qalu./
+shebar ezu qelmaru qethel qelun./
+qedlarar az qedlar. lemzu az lutu./
+mazath genar saru qarmath tharqat./
+qaldun az pedar elu galnat zar./
+galel qu ezu zekhot nuqar tuqathnet./
+qezir lagun qu. khez tharel qu./
+qamar malen zurlat. khez tharel qu./
+faelath telu malen ta lagun./
+meglu elu ithnar ta ternu./
+khez razel naru halzunet elu nazun./
+atmeru elu qedgel elu qetgar./
+atmeru elu qalzar elu miglar./
+khez rethal naru mazret elu nazun./
+ezu gharen elu naru qezunet./
+horqet qemel. thalu qemel./
+qel elu nazun. faelath telu naru./
+tamzel ezu qalwat elu talen./
+az telzar, qarmath hodir, mar yaler telu./
+yaler telu. alqar tamzel zanu./
+gar-au az qaren elu hodir./
+mazget lazret ezu thalmu khul./
+thalu ezu saru. yalmet saru./
+yalmet saru telu qel nazun./
+zethmin lazen. khalat lazen./
+faelath telu zamat ezu qu.
+
+yaleth hodir zun. garun elu rethan./
+khez zethal genar qu. khez zameth nazun qu./
+zameth nazun elu telu ta thalalnet./
+uqa'a.
+
+thelmer. khez khalqet ezu galzamar./
+galmun thazet, qedzun, lem'nelgir./
+lagun elu lagathar. khez khalqet./
+qelzur zar qelnet, qel qelnet lazret./
+az galmun temun, halzunet./
+wanel telu zar naru zamat./
+khez thalal nazu zethat galut,/
+qamaru dunel nazu galath qu./
+khez lamath nazu raznet elu rethnar,/
+qamaru khez alqar zurenar./
+khez lemath nazu wathet khanar,/
+az nelgalar, khez khanar wathet./
+lagath qe'aret halzat, thelmer./
+lagath telu qelzur elu zethulnet./
+faelath telu zethalnet elu zethuar./
+khez zethal zethuar temun zamat./
+lagath nelgiru temun leqar./
+khez razal nazun qu nyar telu,/
+az qenmar elu qetgar, thelmer.
+
+khalqet elu zarun, pathet elu thalmu./
+khalqet ezu mazgar. thelmer, khezan./
+lagathar elu mazgar elu nelgir,/
+mazath saru az thelmer laz./
+nizar qenlet, telu ezu mazgar./
+khez qamzel khalqet qalmur khez qemet./
+mazath saru zamar telu kalzu./
+qelathar khul zamar qerathar./
+zurenar qarmath naru, zamar telu./
+razel saru zurnet, khez khashelnet./
+galel qerathar ezu galzamar./
+khez khalqet ezu mazret eqar.
+
+rethan elu thelmer, khez khalqet./
+razel galzamar rethan elu telu./
+tharel saru zar mazgar ta zurenar./
+halzat nuqar saru. khez thaluz saru qu./
+tharel saru zar gar-au elu telu./
+meglu. atmeru elu qedgel./
+atmeru elu qalzar. ta nazun./
+tharel saru zar naru qemel./
+tharel saru zar igelu qezwan./
+yarul igelu. khez thalet qu./
+tharel saru zar leqar khez zethat./
+wanel leqar khumar ezu horqet eqar./
+khez dunel qu zurat zar ez telu./
+az thelmer, khez thalel saru zanu./
+uqa'a. yarul saru nyar thelmer.
+
+[\[…\]]{lang=zxx}
+
+yaleth hodir zun. garun elu rethan./
+khez zethal genar qu. khez zameth nazun qu./
+zameth nazun elu telu ta thalalnet./
+uqa'a.
+
+khalqet nyar ithnar, ezu galzamar./
+yarul telu nizar. yaler naru yalret./
+thaz'lekhau ezu domet thazit zarqet./
+zelmit elu telu. galmun galet./
+uqa'a qamzet ezu gazlet./
+qamzet zanu. ezu hodir zun./
+qalu. gharen zar. hodir nevar./
+khez kelath genar qarmel qu ethel./
+qarmel qalu, khalnet lazret./
+qelzat genar qu zathar hodir./
+qelzat qedlarar galar elu gar-au./
+algun saru. yalmet galar saru./
+galar qarmel hodir, khez qazir qu./
+yarul telu ez telnet elu hodir./
+galun telu gharen az telnet./
+tharen kalmit tazir, qarmen elu hodir./
+tharen leqar, tarmil lazen./
+lagath hodir qeznur elu tharen kalmit./
+zameth nazun nyar qenmar elu ithnar./
+az tharen kalmit, zamlet leqar./
+khez eqar zamlet. yarul telu nizar./
+qaren elu qedzun, qelzur telnet./
+qelzur lazret, qelzur telnet./
+qedlarar ezu shebigel telnet./
+yaler naru yalret. meglar az gharen zar./
+khez shamel genar zanu khez qaran./
+lagun ezu garel elu lagathar./
+thalu ezu galzamar. thalu lazen.
+
+khelansi ta qathur ezu thalmu./
+tharel saru az galzat elu qu./
+lagathar elu habtun elu nelgir./
+wathet ezu qalwat elu talen./
+khashul naru telu nuqar galqen./
+zagath genar naru tharel az galzat./
+tharel naru. genar zaget qarmel./
+az garel elu wathet, genar zaget./
+ezu razernet, razath naru./
+razel naru rethan elu telu./
+makhal telu qer elu rethan./
+yarul telu. tharel wathet./
+galel naru mer qazirnet eqar./
+tamzel az telzar, mazret ezu zekhot./
+yarul telu nuqar galnat, ezu zekhot.
+
+zethqen nuqar thulun elu wathet./
+wathet elu kalzet eqar, zamar telu./
+khez zuren naru telu ezu hodir./
+tarul naru hodir elu telu./
+reth'sa'ar, zethqen ezu thalmu./
+galmun lazret. tarul saru ta telu./
+khez tazir. rethan, lazen mer lazen./
+razel telu naru. galmun galut./
+yalen saru ez galar elu zethu./
+khashul wathet telu nazar naru./
+qel qarzel, tharel naru qarmel./
+ez lagathar, qarmel. ez telu, qarmel./
+yarul telu. yarul naru ez harun./
+galuth genar halzi ezu harun eqar./
+khez zameth nazun raznet elu harun.
+
+zuran khez telu. mazret elu nazun./
+zamlet kalmit. qeznar kalmet./
+mazath lagun qeznar ezu zamlet./
+lagun khez shamul, lagun khez razqet./
+shamel genar. khez shamel lagun./
+qaznel ezu zamlet. qenlar lagun./
+khez lemath lagun qeznar khez telnethet./
+galmun lazret. lagun ezu thalmu yalret./
+qel razel lagun, zameth nazun telu./
+qezirnet khen. galmun lazret galut./
+zameth nazun galuthnet elu qu./
+qezirnet khen ta khen ta khen ta khen./
+wathet ezu hodir, qel razel lagun./
+zameth nazun. tharel naru qarmel./
+qezirnet khen ta khen ta khen/
+ta khen ta khen ta khen ta khen./
+qezgar khumar tazir. yaleth hodir./
+zameth nazun yalethnet elu hodir./
+rethan khezan. tharun rethan elu telu./
+qeznar telnethet ezu zamlet kalmit.
+
+qalu mar yathar, khez galthar./
+khez mazath genar qu. thalel qu./
+yarul hodir nizar ezu zekhot./
+khumar tazir, leqar zathar hodir.
+
+yaleth hodir zun. garun elu rethan./
+khez zethal genar qu. khez zameth nazun qu./
+zameth nazun elu telu ta thalalnet./
+uqa'a.
+
+lamur galut. khez alqar hodir leqar./
+ezu pedar, yarul telu ez qu./
+thalu ezu thalmu khul, qel gar-au./
+mazget ezu thalmu elu saru./
+wanel qu thalen tazir shar hodir./
+wanel qu zarqet tazir shar hodir./
+telu ezu lamur qethel qalmer./
+thalu ezu lamur, qarmel telu./
+khez dunel qu galath ez thalu./
+galen telu nyar lamur. qaluth qu nizar./
+lagar telu qu ez qarnun elu qu./
+khez wathal qu. khez qezathun telu qu./
+qeznar mer kalzu. garun qemel./
+leqar zathar hodir, qel qeznar eqar./
+qeznar mar eqar, qeznar elu hodir/
+lazret. qeznar mar yathar. garun qemel./
+qaluth qu nizar ezu qeznar temun./
+mer qalqathnet, zarun temun./
+yaler telu zamar ta makhalnet./
+khez lazqath genar telu az qetgar./
+meglarar ezu telu, qethel khez shazqet./
+khez tharel telu ezu temun./
+thumath shazqet elu hodir az hodir./
+tharath hodir. galthar qaril./
+galthar qeril. khalqar az telnet./
+khez zuren wathet khalqar eqar./
+nazar telu, galmun elu naru./
+zamar telu, galmun elu telu.
+
+qedmal elu hodir elu galezkara./
+yarul naru nizar ezu qalu./
+yaler naru zar az garun leqar./
+qeznur elu hodir elu galezkara./
+khez qerel hodir garel elu qu./
+yarul qu az garel elu nelgir./
+qarmath galar ta telnet elu zarun./
+qarmath galar ta telnet elu hesqar./
+khez tharel temun ezu qeznur./
+khez qemet qamnet ezu qeznur./
+yarul qu nizar. tuqath qamnetar qedlar./
+kelath gar-auu qarmel tarmil khul./
+khez galath gar-auu hodir./
+qelthat zelmit hodir, az tharen kalmet./
+qelthat genzar tarmil khul elu qu./
+mazget lazret ta qarzel ta zegarar./
+qezzal ta malen ta lagun ezu qu./
+yarul nelgir qazir hodir./
+khez tharel temun ezu qeznur.
+
+qelwaz lazret. lagun az thalmu./
+khalqar az telnet elu hodir,/
+qedmat elu gethar mar temthar./
+nyar gharen ez hodir, yaler saru./
+khez tharel temun ezu qeznur./
+uqa'a. thalu az gharen lazret./
+yathar lazen. gharen zamat./
+thalu zar yathar, qel lazret./
+galqat qezlet. zethqur qezlet./
+lemunar elu khul, uqa'a./
+yarul saru nizar. yaler saru zar./
+mazath nazun qu. tharen lazen tan./
+lazen tan. ta tharen eqar.
+
+[az raznannet telnet walet shelunar thalalnet qel lazret. galun naru ez thalu. telath zamlet. wanel tharen ezu mazret.]{.direction}
 :::
 
 : The Graffito {#graffito}
 
 ::: {.verse form=prose lang=en work=graffito}
-Year nine of Gar-Au Meqes II, Harvest's second month. Qedut ez Gar-Legulu, granary tally scribe, entered this store to collect the brewer's tally and discovered this wall. Its sacred hand is one I know. I read it aloud completely, continuing across the cut doorway. The brewer identifies his father as its cutter. I spoke Khelansi's name, Overseer of the God's Granaries, so the name remains spoken. Nobody here knew it; I asked. The brewer charged two qelu for lamplight. Beneath Khelansi I enter my name and town. Qedut ez Gar-Legulu. Gar-Legulu.
+Year 9 of Gar-Au Meqes II, the second month of [[lore-sheluessn|Shelu]]. [Qedut ez Gar-Legulu]{.name data-type="being/npc"}, scribe of the tally for the granary of the god, came into this storeroom to take the brewer's tally and found this wall. It is in the sacred hand, which I have, and I read what is on it aloud from the beginning to the end. Where the door is cut through it I read on the far side of the door. The brewer's father cut the door; the brewer says so. I said the name of Khelansi, Overseer of the Granaries of the God, so that it is said. Nobody in this house knew it. I asked them. The brewer took two qelu for the lamp. I have written my name under Khelansi's, and my town. Qedut ez Gar-Legulu. Gar-Legulu.
 :::
 
 ::: {.verse form=prose lang=khel enc=khelqalezuenc work=graffito}
-qazlun qanu elu gar-au meqes khulret, menqet khulret elu shelu. yalen qedut ez gar-legulu, zethuar elu mazret elu habtun elu nelgir, ezu habtun eqar ez lamath mazret elu temalar elu qalnaz. heurath nazu galzat eqar. wanel qu ezu khelathi-zethu. qamar nazu thalmu eqar. zethul nazu qu khazul nyar lazret ez telnethet. az garun elu galmun zethul nazu ezu tarmil leqar elu qu. qelzat qathun elu temalar elu qalnaz galmun. razel temalar eqar. razel nazu rethan elu khelansi lagathar elu habtun elu nelgir ez qarun elu thalalnet elu rethan. khez rethal genar ezu garqen eqar qu. razal nazu naru. lamath temalar qelu khul qaral qelnet. zethal nazu rethan elu nazu ta galnat nuqar elu khelansi. qedut ez gar-legulu. gar-legulu.
+qazlun qanu elu gar-au meqes khulret, menqet khulret elu shelu. qedut ez gar-legulu, zethuar elu mazret elu habtun elu nelgir. yaler nazu ez habtun elu temalar elu qalnaz ez lamath mazret. heurath nazu galzat eqar. qamar nazu khelathi-zethu. zethul nazu zamat khazul, nyar lazret ez telnet. qelzat genar galmun ezu galzat. zethul nazu qu az tarmil leqar elu galmun. razel temalar elu qalnaz, qelzat qathun elu saru galmun. khez rethal garqen rethan elu khelansi. razal nazu naru. razel nazu qu. khelansi, lagathar elu habtun elu nelgir. ez qarun elu raznet elu rethan, razel nazu qu. lamath temalar qelu khul. wanel qu qenmet elu thallar. nuqar rethan elu khelansi, zethal nazu rethan elu nazu ta galnat elu nazu. qedut ez gar-legulu. gar-legulu.
 :::
 
 ## See Also

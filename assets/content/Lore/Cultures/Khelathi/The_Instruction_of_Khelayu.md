@@ -33,544 +33,672 @@ The copy given here is a school roll of the age of [[lore-akhhsmeqes|the House o
 
 ## The Prologue
 
-Keeper of the King-Lists Khelayu, Lem'Nelgir of Reth'Sa'ar, who copied the list for twenty-six years and has kept it for seven, who holds the master copy in the god's precinct on Yath-Telgu and answers for the second copy at [[place-khelunu|Khelunu]], who entered [[lore-hillhouse|the closing of the hill house]] in the year the house closed, says this to his son Zinuri, Lem'Nelgir of Reth'Sa'ar, ordained copyist, on the day of his ordination, in Year 30 of Gar-Au Gez'el'Retha III, in the first month of [[lore-sheluessn|Shelu]], with the roads open.
+::: {.verse form=rethet lang=en work=the-instruction-of-khelayu-1}
+Keeper of the King-Lists Khelayu, Lem'Nelgir of Reth'Sa'ar, who copied the list for twenty-six years and has kept it for seven, who holds the master copy in the god's precinct on Yath-Telgu and answers for the second copy at [[place-khelunu|Khelunu]], who entered [[lore-hillhouse|the closing of the hill house]] in the year the house closed, says this to his son Zinuri, Lem'Nelgir of Reth'Sa'ar, ordained copyist, on the day of his ordination, in Year 30 of Gar-Au Gez'el'Retha III, in the first month of [[lore-sheluessn|Shelu]], with the roads open./
 
-Sit, and do not copy anything yet. I said that to you this morning in front of the others, because it is what the Keeper says, and I say it again here, with the door shut. You will copy this list for forty years. First learn to read it. It does not say what it means, and the house has never once corrected it.
+Sit, and do not copy anything yet. I said that to you this morning in front of the others, because it is what the Keeper says, and I say it again here, with the door shut. You will copy this list for forty years. First learn to read it. It does not say what it means, and the house has never once corrected it./
 
 What follows is not the list. It is what I know that is not on it. A Keeper writes one of these for his son if his son is ordained, and most sons burn it, which is lawful. Keep this one or do not. It is entered nowhere, and it is not read at my Reading, which is why I can put in it what I have put in it.
-
-::: {.verse form=rethet lang=en work=the-instruction-of-khelayu-1}
-Khelayu, Keeper of the King-Lists and Lem'Nelgir of Reth'Sa'ar, addresses his son Zinuri. He copied the list for twenty-six years and has guarded it for seven. He holds its exemplar in the god's precinct at Yath-Telgu, answers for Khelunu's second copy, and entered the hill house's closure in its closing year. Zinuri, Lem'Nelgir of Reth'Sa'ar, has today been ordained copyist. Year thirty of Gar-Au Gez'el'Retha III, Harvest's first month, roads open.
-
-Sit without copying yet. I said that publicly this morning because Keepers say it. I repeat it behind a shut door. Forty years of copying await you. First learn the reading. The list's words differ from their meaning; the house has never corrected it.
-
-Here is knowledge outside the list. A Keeper writes such instruction for an ordained son. Most sons burn theirs, lawfully. Preserve this or destroy it. No archive enters it; no Reading of mine recites it. That freedom permits its contents.
 :::
 
 ::: {.verse form=rethet lang=khel enc=khelqalezuenc work=the-instruction-of-khelayu-1}
-razel lagathar elu zethqen elu gar-auu khelayu, lem'nelgir elu reth'sa'ar, ez malen qarenar elu saru zinuri. zethal khelayu zelqet elu zethqen ezu kalzet 26. lagath saru naru ezu kalzet salet. walet saru zelqet lazret az galnet elu nelgir az yath-telgu. qamar saru qelqet elu zelqet khulret az khelunu. zethal saru galathnet elu galar elu qedgel ezu qazlun elu galathnet elu qu. wanel zinuri lem'nelgir elu reth'sa'ar ta zethalar elu lekhathnet. wanel eqar tharen elu lekhathnet elu saru. qazlun 30 elu gar-au gez'el'retha ezu garel elu khemu, menqet lazret elu shelu, hodir galut.
+razel khelayu ez zinuri, malen qarenar elu saru, az tharen elu lekhathnet elu saru./
+wanel khul lem'nelgir elu reth'sa'ar./
+wanel zinuri zethalar elu lekhathnet./
+wanel khelayu lagathar elu zethqen elu gar-auu./
+zethal saru naru ezu kalzet gerun khul ta chun. lagath saru naru ezu kalzet salet./
+walet saru lazret az galnet elu nelgir az yath-telgu. qamar saru qelqet elu khulret az khelunu./
+zethal saru galathnet elu galar elu qedgel ezu qazlun elu galathnet./
+qazlun gerun khul ta gerun elu gar-au gez'el'retha ezu garel elu khemu. menqet lazret elu shelu. hodir galut.
 
-galel telu. khez zethal telu temun ethel. razel nazu eqar ez telu az zarun zamar leqar qaral wanel eqar rethet elu lagathar. razel nazu qu yalret zun ta galmun galet. agu zethal telu zelqet elu zethqen eqar ezu kalzet 40. rethun telu zethul lazret. khez razel qu qaruthnet elu qu. khez qenlar galar qu az kalet lazen.
+galmun galet. galel telu‼ khez zethal telu ethel‼/
+razel nazu eqar ez telu az zarun zamar leqar. wanel eqar raznet elu lagathar. razel nazu qu yalret zun./
+agu zethal telu zelqet ezu kalzet gerun khul ta gerun khul. rethun telu zethul mar qu‼/
+khez razel zethqen qaruthnet elu naru. khez qenlar galar naru az kalet lazen.
 
-khez wanel eqar zethqen elu gar-auu. wanel eqar rethnet elu nazu khez ezu naru. zethal lagathar rethet qel eqar ez malen qarenar qamaru lekhath genar saru. thumath malen qarenar tazir shar malen temun qu. wanel eqar lemet. lagath telu eqar lu khez lagath telu. khez alqar qu ezu zethu az garun temun. khez zethul zethular qu az zethulnet elu nazu. wanel eqar qarun elu dunel nazu zethal temun elu nazu az qu.
+khez wanel eqar zethqen. wanel qu rethnet khez ezu zethqen./
+zethal lagathar rethet ez malen qarenar qamaru lekhath genar saru./
+thumath malen qarenar tazun qu. wanel eqar lemet./
+lagath telu eqar lu khez lagath telu‼ khez zethal genar qu az garun leqal./
+khez zethul genar qu az zethulnet elu nazu. qalar dunel nazu zethal eqar.
 :::
 
 : The Instruction {#instruction}
 
 ::: {.verse form=rethet lang=en work=instruction}
-Record only what is so. He reads across your shoulder./
-They taught the first lesson when you were seven./
-The second is withheld at seven:/
-what is so has witnesses and an entry./
-Knowledge without a witness belongs to you./
-Preserve it outside the record.
+Write only what is so. He is reading over your shoulder./
+The first lesson; they gave it to you at seven./
+Here is the second, which they do not give at seven:/
+what is so is what was witnessed and entered./
+What you know and nobody witnessed is not so. It is yours./
+Keep it. Do not enter it./
 
-The tablets belong to the god. Houses do not correct gods./
-Earliest reigns are long, rounded, adding neatly together./
-Foreigners visit Khelunu and count on fingers./
-Allow them. Those fingers belong to them./
-Teacher's marginal hand. Gari wrote The house corrects the god. Scrape it away. The house does not correct the god. Ten repetitions on the sherd.
+The tablets are the god's. The house does not correct the god./
+The first reigns are long and round, and they add end to end./
+Foreigners come to Khelunu and count them on their fingers./
+Let them count. The fingers are theirs./
+_\[In the margin, the teacher's hand: Gari has written "the house corrects the god." Scrape it out. The house does not correct the god. Ten times, on the sherd.\]_/
 
-Foreign scholars ask the first Gar-Au's name after reading Khelunu's list./
-Give his title: the first Gar-Au./
-They repeat the question. Repeat the identical reply./
-On their third attempt serve beer. Their journey was long; the answer will stay.
+The foreign scholars read the list at Khelunu and ask what the first Gar-Au was called./
+Tell them: the first Gar-Au, by his title./
+They ask again. Tell them again, in the same words./
+The third time, give them beer. They have come a long way, and the answer is not going to change./
 
-Zu-Ger farmers plow around stones belonging to the First House./
-Explain nothing. They know their field.
+The farmers of [[place-zugernome|Zu-Ger]] plow round the stones. The stones are the [First House]{.name data-type="affiliation/lineage" lang=en}./
+Do not tell the farmers what the stones are. They know, and it is their field./
 
-Learn your assigned hand./
-You learned sacred writing; the quay clerk learned ordinary writing./
-His wall is unreadable to him; his manifest is unreadable to you./
-Neither failure makes a fool. Avoid reading his manifest at him./
-Readers of both hands are either very senior or suspect./
-Become very senior.
+Learn the hand you were given./
+You were taught the sacred hand; the clerk at the quay was taught the other./
+He cannot read the wall behind him. You cannot read his manifest./
+Neither of you is a fool. Do not read his manifest at him./
+A man who reads both hands is very senior or under suspicion./
+Be very senior./
 
-Cut green-stemmed reeds in Gelet; dry them on the roof./
-Azlet reeds drink ink and split at the first stroke./
-Sharpen your knife. Dull knives produce thick pens,/
-thick pens fat signs, fat signs different readings,/
-different signs different reigns./
-Mix red pigment with gum. Water-mixed red/
-runs during inundation,/
-leaving a roll pink for a thousand years.
+Cut your reeds in [[lore-geletssn|Gelet]], when the stem is green, and dry them on the roof./
+A reed cut in [[lore-azletssn|Azlet]] drinks the ink and splits at the first stroke./
+Keep the knife sharp. A dull knife makes a thick pen,/
+a thick pen makes a fat sign, a fat sign reads as another sign,/
+and another sign is another reign./
+Mix the red with gum. A boy who mixes the red with water/
+writes a rubric that runs in the flood season,/
+and the roll is read with pink in it for a thousand years./
 
-A marsh-paper roll costs a goat./
-Use sherds until your writing deserves paper./
-Free, unread sherds can hold your mistakes./
-The roll holds what is so.
+A roll of marsh paper costs what a goat costs./
+Do not write on it until you can write on a sherd without shame./
+A sherd costs nothing and nobody reads it. Put your errors there./
+The roll is for what is so./
 
-Tablets occupy their established order./
-Earliest ones lie left and behind, beyond lamplight: nobody needs them./
-The reigning house lies right beside the door,/
-ready for the high priest's messenger without passing the others./
-Replace each tablet exactly, edge toward the wall./
-Replace each tablet exactly, edge toward the wall./
-Teacher's marginal hand. Twice. Gari left to eat./
-Misordered tablets misorder reigns;/
-misordered reigns get boys beaten. That boy is you./
-Dust shelves in dry Harvest air. In Azlet dust returns wet; leave it.
+The tablets lie in the order the tablets keep./
+The first are on the left, at the back, where the lamp does not reach, because nobody needs to read them./
+The reigning house is on the right, by the door,/
+where the messenger of the Thaz'Lekhau can be handed it without walking past the rest./
+Put every tablet back where it lay, with the edge to the wall./
+Put every tablet back where it lay, with the edge to the wall./
+_\[In the margin, the teacher's hand: Twice. Gari went to eat.\]_/
+A tablet out of order is a reign out of order,/
+and a reign out of order is a boy beaten, and the boy is you./
+Dust the shelves in Shelu, when the air is dry. Dust nothing in Azlet; it comes back wet./
 
-Three things receive entries; three do not./
-Sales, leases, and strangers' debts receive entries./
-Sons' debts to mothers do not./
-Your debt to me does not./
-Your debt to the god does not./
-Keep those last three away from the counter./
-No cabinet there holds them./
-Attest writing; petition for the unwritten.
+Three things are entered and three are not./
+The sale is entered; the lease is entered; the debt between strangers is entered./
+What a son owes his mother is not entered./
+What you owe me is not entered./
+What you owe the god is not entered./
+Do not carry the second three to the counter./
+The counter has no cabinet for them./
+Attest the written; petition the unwritten./
 
-The archive queue remains a queue./
-The governor's steward stands holding his seal./
-A man read ahead of his turn has paid for something./
-That purchase has an entry somewhere under a name./
-Discover the name without speaking it.
+At the archive counter the queue is the queue./
+The Halzi'a's steward stands in it with his seal in his hand./
+A man read before his turn has bought something,/
+and what he bought is entered somewhere, under some name./
+Find the name. Do not say it./
 
-Now read the list before copying./
-He stood upon the mound. Year one. Head your sheet./
-He went west in his ninth year. Death, nothing further./
-The most frequent line is the kindest./
-He went west in the night. A death left undescribed by the house./
-Keep it undescribed. You were absent; no present witness appears on the tablet./
-His year remained incomplete. Inspect the next crowned person./
-Look without entering your observation./
-A child of five floods, beside the name of his standing companion./
-Enter year, child, companion. Nothing further./
-You will desire additions./
-Since the First Tablets the list has desired them and refrained./
-The throne passed to its standing companion./
-Read the preceding line. Reread this one./
-The house is closed. Four signs. Write them closed./
-His deeds belong to the god. Nothing. Write nothing skillfully./
-Teacher's marginal hand. Gari omitted Read the preceding line. Gari will read it.
+Now the list. Read it before you copy it./
+_He stood upon the mound._ Year 1. Head the sheet./
+_He went to the West in his ninth year._ A death, and nothing more./
+It is the commonest line, and the kindest./
+_He went to the West in the night._ A death the house does not describe./
+Do not describe it. You were not there, and nobody who was there is on the tablet./
+_His year was not completed._ Look at who was crowned next./
+Look. Do not write what you see./
+_A child of five floods_, and the name of the one who stood beside him./
+Write the year, the child and the one who stood. Write nothing else./
+You will want to write more./
+The list has wanted to since the [[lore-akhfirsttab|First Tablets]], and has not./
+_The throne passed to the one who stood beside it._/
+Read the line above it. Then read this line again./
+_The house is closed._ Four signs. Write them shut./
+_His deeds are the god's._ Nothing. Write nothing well./
+_\[In the margin, the teacher's hand: Gari has left out "Read the line above it." Gari reads the line above it.\]_/
 
-I have discovered and corrected these copies:/
-nine years entered as ninety through a misplaced breath;/
-one house closed twice after a meal interrupted the copyist's reading;/
-a missing throne-name seam turning a king into a goat herder;/
-a flood cubit entered in a reign column;/
-a coronation in the father's death year, correctly,/
-altered by a diligent boy to the following year, incorrectly;/
-First Tablets with a tiny comment underneath beginning But;/
-my own twenty-year-old hand, rounding./
-Successive copyists copied every one./
-Read before copying.
+I have seen these things in copies, and corrected them:/
+a reign of nine years written as ninety, because a boy breathed in the wrong place;/
+a house closed twice, because the copyist went to eat and came back and did not read;/
+a throne name with the seam left out, so that a Gar-Au became a goatherd;/
+the cubit of a flood written in the column of a reign;/
+a Gar-Au crowned in the year his father died, which is so,/
+corrected by a careful boy to the year after, which is not;/
+a line of the First Tablets with a comment under it, in a small hand, beginning "but";/
+and my own hand, at twenty, rounding./
+Every one of them was copied by the next copyist, and by the next./
+Read it before you copy it./
 
-Copy the exemplar instead of your own copy./
-Copies of copies resemble a boy remembering a boy's memory.
+Copy from the exemplar, never from your own copy./
+A copy of a copy is a boy's memory of a boy's memory./
 
-When priests strike a name, its Keeper scrapes the copy./
-Only Uqa'a's high priest stands beside him./
-When handed that scraper, hold it through a recitation of the denials./
-Then scrape. Judgment belongs to the priests. The hand judges no second time.
+If the priesthood ever strikes a name, the Keeper scrapes it from the copy,/
+with the Thaz'Lekhau of [[lore-uqaadty|Uqa'a]] standing at his shoulder, and nobody else./
+If the scraper is ever put in your hand, hold it for the time it takes to say the denials./
+Then use it. The priesthood has judged. You are the hand, and the hand does not judge twice./
 
-A throne name opens a reign and addresses you./
-Gez'el'Retha III. The second wore it in Azlet'Kutu./
-Almost seven hundred tablet-years separate them./
-Its assertion: the crown is the old crown./
-It says nothing about the preceding sixty years./
-The list describes them: one house, four reigns, closed./
-Enter sixty years. Names erase none;/
-neither did the priests./
-Write and allow its words.
+A throne name is the first thing a reign says, and it is said to you./
+Gez'el'Retha, the third. The second wore it in [Azlet'Kutu]{.name data-type="affiliation/lineage"},/
+and between the second and the third lie nearly seven hundred years of tablets./
+The name said: the crown is the old crown./
+It did not say what the sixty years before it were./
+The list says what they were: a house, four reigns, closed./
+Enter the sixty years. A name does not strike them,/
+and the priesthood did not./
+Write it, and let it say what it says./
 
-I entered the hill house's closure in my fourth desk year./
-The Keeper placed its tablet before me: House closed. Enter./
-I entered four reigns, fifty-nine years, and the formula./
-Its first crowned name was Kuz'Uqa; its fourth, Legir'Uzner I,/
-fair of the healer, chosen for a hill man rather than by him./
-Enter the worn name. A worn name is so./
-Nobody struck the house. I received no explanation and sought none./
-Seven keeping years have supplied none./
-Neither that tablet nor this one contains it./
-A priest-closed, unstruck house receives the ordinary entry:/
-Closed. Write it shut, free of wondering./
-Write and allow its words.
+I entered the closing of the hill house. I was in my fourth year at the desk./
+The Keeper put the tablet in front of me and said, "The house is closed. Enter it."/
+I entered it: four reigns, fifty-nine years, and the formula./
+The first of them was crowned [Kuz'Uqa]{.name data-type="being/npc"}. The fourth was crowned [Legir'Uzner]{.name data-type="being/npc"}, the first,/
+fair of the healer, a name no hill-man would have chosen. It was chosen for him./
+Enter the name. The name was worn, and a worn name is so./
+Nobody struck the house. I was not told why, and I did not ask,/
+and I have kept the list seven years and nobody has told me since./
+It is not on the tablet. It is not on this one./
+A house the priesthood closed and did not strike is entered as any house is entered:/
+closed. Write it shut. Do not write it wondering./
+Write it, and let it say what it says./
 
-Pause where the god pauses when entering his name./
-Reth'Sa'ar lifts the reed twice. His pause belongs to him./
-Hurrying through writes somebody else's clerk./
-Speak every written name for fourteen years. Mouth trains hand./
-Teacher's marginal hand. Fourteen. The Keeper wrote forty. Gari must likewise write forty ten times on the sherd.
+When you write the god's name, stop where the god stops./
+Reth'Sa'ar: the reed lifts twice. The pause is his, and you do not own it./
+A boy who hurries through it has written somebody's clerk./
+Say it as you write it, every time, for fourteen years. The mouth teaches the hand./
+_\[In the margin, the teacher's hand: Fourteen. The Keeper wrote forty. So does Gari, ten times, on the sherd.\]_/
 
-Seek no stranger's near name: asking takes what is not yours./
-Never write your mother's. Try a sherd once and inspect the reed's result:/
-another woman's beginning, or nobody's./
-Neither hand carries unfinished speech. They were made that way./
-Unfinished speech belongs to mouths and people bound by ties./
-Those ties also remain unwritten.
+Never ask a stranger for his near name. It is not yours, and asking takes it./
+Never write your mother's. Try it once on a sherd, and see what the reed makes of it:/
+the opening of some other woman, or of nobody./
+Neither hand carries a word that stops short. The hand was made so./
+What stops short is for the mouth, and for the people the tie binds,/
+and the tie is not entered either./
 
-Marry someone able to read a weight./
-Her account belongs to her. Keep it outside your own./
-Every year the court hears that attempt. The wife never loses./
-A wife closing well makes a house close well.
+Marry a woman who can read a weight./
+Her account is her own. Do not try to enter it under yours./
+The Genzet hears that case every year, and it is never the wife who loses./
+A wife who closes well is a house that closes well./
 
-Pay the burial club before beer./
-A precinct copyist reaches the West wrapped; his precinct ensures it./
-Pay anyway. Your mother never copied for that god.
+Pay the club. Pay it before the beer./
+A copyist of the god's precinct goes to the West wrapped, and the precinct sees to it./
+Pay the club anyway. Your mother did not copy for the god./
 
-Drink at divine feasts. Thuba'i's priests call pleasure gratitude./
-Keep copying days sober.
+Drink at the god's feast. Pleasure is gratitude; the priests of [[affiliation-thubai|Thuba'i]] say so./
+Do not drink on a copying day./
 
-Purchase plain zaglu early./
-They answer for you without needing faces.
+Buy your zaglu early, and buy them plain./
+A zaglu answers for you. It does not need a face./
 
-Witness what you saw,/
-including the hour, without claiming everything present./
-If you saw a seal without its placement, say both./
-The scribe enters both truths./
-A witness who rounds becomes a walking false entry.
+When you stand as a witness, say what you saw./
+Not what was there. What you saw, and the hour you saw it./
+If you saw the seal and did not see it set, say: I saw the seal; I did not see it set./
+The scribe writes both. Both are so./
+A witness who rounds up is a false entry with legs./
 
-Inspect the seal before its name: a seal warrants./
-Names are easy; seals require possession./
-Wear yours corded at the neck beneath linen. Bathe wearing it./
-An abandoned table seal amounts to an unread contract.
+A seal is a warrant. Look at the seal before you look at the name./
+A name is easy. A seal is a thing a man had to have in his hand./
+Wear your own on a cord at the neck, under the linen, and bathe with it on./
+A seal left on a table is a contract you did not read./
 
-Yearly floods take boundary stones and return silt./
-Gelet surveyors retrace boundaries. The entry prevails:/
-the stone belongs wherever the roll places it./
-Learn rod and cubit despite never holding the rod./
-Its holder eventually visits your counter. Recognize any added cubit.
+The flood takes every boundary stone in the valley once a year and gives back silt./
+The surveyors walk the lines again in Gelet, and the entry wins:/
+the stone is where the roll says it is./
+Learn the rod and the cubit, though you will never hold the rod./
+The man who holds it comes to your counter one day. When he adds a cubit, know which cubit./
 
-Below Lenen-Nezut lies the unsurveyed field./
-No roll gives it boundaries. Supply none./
-An unsurveyed boundary falsifies an entry regardless of requester./
-Pity moves nothing untouched by the rod.
+Below [[place-lenennezut|Lenen-Nezut]] there is a field the surveyors do not walk,/
+and the roll has no line for it. Do not give it one./
+A line nobody walked is a false entry, whoever asks you for it./
+Pity does not move what the rod did not touch./
 
-Speak noon denials at the counter before the queue,/
-in the boat before its boatman./
-Speak as though heard. Unreadable places enter them;/
-their scribe never hurries a name.
+At noon say the denials. Say them at the counter with the queue behind you./
+Say them in the boat with the boatman listening./
+Say them as if they were heard. They are entered where you cannot read them,/
+and the one who enters them does not hurry through a name./
 
-In Azlet, labor leaves for public works and water stands beside walls./
-The precinct quiets; lamps light at hour four./
-Copy by them. Tonight Uqa'a fights beneath ground along his road./
-You copy. Copy./
-Stop when tired hands begin rounding signs./
-The next copyist copies that tired boy's rounded sign.
+In Azlet, when the labor goes to the works and the water stands at the wall,/
+the precinct is quiet, and the lamps are lit at the fourth hour./
+Copy by lamp. Uqa'a is under the ground tonight, on the road, fighting./
+You are not fighting. You are copying. Copy./
+Stop at the hour when your hand begins to round the signs./
+A rounded sign is a tired boy's sign, and the next copyist copies the tired boy./
 
-Enter nothing during the five days outside months./
-No year's account holds their happenings.
+On the five days that belong to no month, enter nothing./
+Nothing happens on them that a year can hold./
 
-Khelunu keeps a second copy. Every Harvest two copyists travel upstream to read it,/
-line by line aloud, reader and listener, comparing the exemplar./
-At discrepancies the exemplar decides./
-It has never erred. Nobody has proved an error.
+A second copy is kept at Khelunu. Each Shelu two copyists go up the river and read it there,/
+line by line, aloud, one reading and one listening, against what the master says./
+Where the two differ, the master decides./
+The master has never once been wrong. Nobody has ever been able to prove it./
 
-In the lean month feed a neighbor who will never repay./
-He understands your motive and eats./
-The bread has no defect./
-Close debts you owe; leave your claims open./
-Descend as creditor. That life-shape was taught at seven.
+Give bread in the lean month to the neighbor who will not repay it./
+He knows why you give it. He eats it./
+There is no flaw in the bread./
+Close what you owe; leave open what is owed to you./
+Go down owed. It is the shape of a life, and they taught you the shape at seven./
 
-Accept the steward's assigned seat at a governor's table./
-If he claims a royal grandfather, affirm the list's agreement./
-It agrees. Suppress its further statements. He has not read it; you have./
-Lenen-Nezut has a long forecourt and a little town./
-Walk its forecourt as a guest without counting paces aloud.
+At a Halzi'a's table sit where the steward puts you, and do not look at the seat above./
+If he tells you his grandfather was a Gar-Au, say that the list says so./
+The list says so. Do not say what else the list says. He has not read it. You have./
+At Lenen-Nezut the forecourt is long and the town is small./
+Walk the forecourt as a guest walks it. Do not count the paces aloud./
 
-Some years carried two crowned men, one at each river end./
-The list assigns those years to one. Copy its assignment.
+There were years when two men wore the crown, one at each end of the river./
+The list gives the years to one of them. Copy the years as they stand./
 
-A request for release remains a request. Weigh it./
-Weigh the dead man's debt and his household's capacity before answering./
-Four doors close entries. No fifth exists./
-Every year you will be offered a fifth: Let it lie.
+When you are asked to release, you are asked. Weigh it./
+Weigh what the dead man owed and what his house can bear, and then answer./
+Four doors shut an entry, and there is no fifth./
+You will be offered a fifth every year of your life. It is called "let it lie."/
 
-If you may have wronged me without knowing, avoid the counter./
-Approach the god. Give, ask, listen. Religion requires that morning.
+When you have done wrong by me and cannot know it, do not come to the counter./
+Go to the god. Give; ask; listen. That is the whole of religion, and it takes a morning./
 
-Year nine of an unnumbered name dates a document to nobody./
-Write its numeral, the entire practical purpose of a name.
+A document dated "Year 9 of" a name with no numeral is dated to nobody./
+Write the numeral. The numeral is the whole of a name's use./
 
-Keep the Twelve at feasts, provincial gods at temples, household dead at shrines,/
-and Reth'Sa'ar beside your desk, your most frequent temple.
+Keep the Twelve at the festivals, the selat's god at his temple, the house's dead at the shrine,/
+and Reth'Sa'ar at the desk. The desk is the temple you are in most./
 
-Now the promised thing./
-Thirty years ago, the year before I entered the closure, I attended a Reading./
-Asked as creditor, I held a barley measure, a season's little loan./
-Angry, I refused. The scribe entered refusal./
-The reader pronounced Open. Tablets descended with the man, who entered short./
-His name remains where it belongs, outside this instruction./
-A temple carries releases to the other side./
-I know that road. My seat occupies its end./
-I have never traveled it./
-Ask no reason. Release embodies the giver. Nobody gives mine for me./
-At my Closing you will hear my called-in and open claims/
-alongside the household, like anyone else, never beforehand./
-I enter this so it exists somewhere. The list holds enough undescribed things.
+Now the thing I said I would put here./
+Thirty years ago, in the year before I entered the closing, I stood at a Reading./
+I was asked. I was owed: a lagar of barley, a season's loan, a small thing./
+I was angry. I said no, and the scribe wrote my no./
+The reader said _open_, and the tablets went down with him. He went in short on it./
+I do not write his name here. It is entered where it belongs./
+The temple carries a release to the other side./
+I know the road. I sit at the end of it./
+I have not gone./
+Do not ask me why. A release is the man himself. Nobody gives mine for me./
+At my Closing you will hear what I call in and what I leave open,/
+with the household, as anyone hears it, and not before./
+I have put it here so that it is somewhere. The list has enough in it that nobody describes./
 
 Enough. Cut your reed./
-When my successor places a tablet before you and commands entry, enter./
-When he declares House closed, write closed./
-When Uqa'a's high priest summons the list across the court,/
-send the copy, accompany it, stand through his reading,/
-and leave its unsaid things unsaid./
-Write and allow its words./
-When a governor's steward offers a goat for a line, […]
+When the Keeper after me puts a tablet in front of you and says "Enter it," enter it./
+When he says "The house is closed," write it shut./
+When the Thaz'Lekhau of Uqa'a sends across the court for the list,/
+send the copy and go with it, and stand while he reads,/
+and say nothing of what the list does not say./
+Write it, and let it say what it says./
+When a Halzi'a's steward offers you a goat for a line, […]/
 
-[Below the break, pupil's hand:]{.direction}/
-Completed in good order by pupil Gari ez Chegu, year ten of Gar-Au Meqes XVI,/
-Azlet's third month. His hand is tired. He prefers herding goats./
-[Teacher's hand underneath.]{.direction} Not in good order. Copy again after inundation.
+_\[Below the break, the pupil's hand:\]_/
+Finished, in good order, by Gari ez [[place-chegu|Chegu]], pupil, in Year 10 of Gar-Au [[being-garaumeqesxv|Meqes XVI]],/
+the third month of Azlet, whose hand is tired, who would rather herd goats./
+_\[Beneath it, the teacher's hand: Not in good order. Copy it again after the flood.\]_
 :::
 
 ::: {.verse form=rethet lang=khel enc=khelqalezuenc work=instruction}
-zethal telu laz qenat. zethul saru zar qalmer elu telu./
-wanel eqar rethet lazret. nelaz naru qu ez telu az kalzet salet./
-wanel eqar khulret. khez nelaz naru qu az salet./
-wanel qenat mervel ta zethat./
-qamaru rethal telu temun ta khez zuren zurenar qu, khez wanel qu qenat. wanel qu elu telu./
-lagath telu qu. khez zethal telu qu·
+zuren zurenar qu. zethal zethuar qu./
+wanel eqar qenat az zethgal./
+nelaz naru rethet lazret ez telu az kalzet salet./
+zethul saru zar qalmer elu telu./
+kalzu khulret. khez nelaz naru eqar az salet./
+rethal telu temun. khez zuren zurenar qu./
+wanel qu elu telu. lagath telu rethnet eqar‼ khez zethal telu qu‼/
+zethal telu laz qenat‼/
 
-qamarun zethqen ez nelgir. khez qenlar galar nelgir./
-wanel qazlun lazret thalen ta galur. mazath genar naru qemel temun./
-yaler rethnar ez khelunu. mazath naru naru qer elu thalmin./
-lemath telu naru mazath. wanel thalmin elu naru·/
-az zelmar thalmu elu rethamar. zethal gari qenlar galar nelgir. qelgar telu qu. khez qenlar galar nelgir. az kalet gerun az qalshar.
+khez qenlar galar nelgir./
+qamarun zethqen ez nelgir./
+kelath qazlun lazret thalen ta galur./
+mazath genar naru nyar telnet ez telnet./
+yaler rethnar ez khelunu. mazath rethnar qazlun qer elu thalmin./
+lemath telu naru mazath‼ qamarun thalmin ez naru./
+[az zelmar. thalmu elu rethathar. zethal gari «qenlar galar nelgir.» qelgar telu qu‼ khez qenlar galar nelgir. zethal telu eqar az kalet gerun az qalshar‼]{.direction}/
 
-zethul rethnar elu rethnet zethqen az khelunu. razal naru rethan elu gar-au lazret./
-razeth telu ez naru. gar-au lazret qer elu rethlet./
-razal naru yalret. razeth telu yalret qer elu raznet qemel./
-az kalet ezu garel elu khemu nelaz telu qalnaz ez naru. yaler naru nyar qeril. khez thezel zetqen·
+razal rethnar elu rethnet az khelunu./
+wanel rethan elu gar-au lazret sher./
+razath telu. gar-au lazret./
+razel telu rethlet‼ khez thezel telu raznet‼/
+razal naru yalret. razath telu yalret./
+az kalet khemret nelaz telu qalnaz‼/
+yaler naru nyar qeril. khez thezel zetqen./
 
-tarul zegarar elu zu-ger qazur qedlar. wanel qedlar garqen lazret./
-khez razeth telu sher wanel qedlar ez zegarar. rethal naru qu. wanel zegaru elu naru·
+wanel zegaru elu zegarar elu zu-ger./
+wanel qedlar galar lazret./
+qaleth qedlar. qedath zegarar qazur naru./
+rethal zegarar qu. khez razeth telu ez naru‼/
 
-rethun telu thalmu elu rethathnet elu telu./
-rethath genar telu khelathi-zethu. rethath genar zethuar az galthar qalezu./
-khez dunel saru zethul galzat nazar saru. khez dunel telu zethul zethqalnet elu saru./
-khez wanel genar lazen nyar telu khul qelmarar. khez zethul telu zethqalnet elu saru ez saru./
-wanel genar elu thalmu khul qarnethet tazir lu ezu khaznet./
-wanel telu qarnethet tazir·
+khelathi-zethu ez telu. qalezu ez zethuar az limqet./
+rethath genar thalmu lazet ez lazet./
+khez dunel saru zethul galzat nazar saru./
+khez dunel telu zethul zethqalnet elu saru./
+khez wanel telu qelmarar. khez wanel saru qelmarar./
+khez zethul telu zethqalnet ez saru‼/
+rethun telu thalmu elu telu‼/
+thalmu khul. qelarnet tazir lu khaznet./
+wanel telu qelarnet tazir‼/
 
-tegul telu sheqet ezu gelet. wanel lagar elu qu wazel. qezlar telu naru az galzur./
-qaler sheqet elu azlet zethqur. qelthez qu az qezirnet lazret./
-lagath telu shalqet qezmin. temal shalqet khez qezmin sheqet qemur./
-temal sheqet qemur zethmin qemur. zethul genar zethmin qemur qel zethmin leqar./
-wanel zethmin leqar qazlun leqar./
-qelmath telu qezmur ta lagqen. qamaru qelmath malen qarenar qezmur ta qalu,/
-tharun yarul qezmur elu saru ezu kalqet elu azlet./
-zethul genar zelqet ta qezminet ezu kalzet qalzun·
+wazel shequn ezu gelet. tegul telu shequn‼/
+qezlar telu naru az galzur‼/
+qaler shequn elu azlet zethqur./
+qezel qu az qezirnet lazret./
+shalqet khez qezmit. shequn qarmet./
+shequn qarmet. zethmin qarmet./
+zethmin leqar. qazlun leqar./
+lagath telu shalqet qezmit‼/
+qelmath telu qezmur ta lagqen‼/
+qelmath malen qarenar qu ta qalu./
+yarul qezmur ezu azlet./
+thalel qezminet ezu zelqet ezu kalzet qalzun./
 
-wanel qenmet elu zelqet elu shenqar qel qenmet elu geqet./
-khez zethal telu az qu qethel dunel telu zethal az qalshar khez zamqet./
-khez qamar qalshar qenmet. khez zethul genar qu. qalath telu qaznel elu telu az qu./
-wanel zelqet ez qenat·
+wanel qenmet elu zelqet qenmet elu geqet./
+wanel qenmet elu qalshar qezan./
+khez zethul genar qalshar./
+qalath telu qaznel az qalshar‼/
+zethal telu az qu khez zamqet./
+tharun zethal telu az zelqet‼/
+wanel zelqet elu qenat./
 
-kelath zethqen ezu qernet elu naru./
-wanel lazret az tarmil ta nazar. khez yalath fael elu qelnet ez naru qaral khez tamral genar zethul naru./
-wanel galar elu kalzu az tarmal qarmel galmun./
-dunel genar nelaz qu ez yalethar elu thaz'lekhau khez tarul qarmel leqar./
-qalath telu zethqen lazet az garel elu kelathnet elu qu. wanel telnet ez galzat./
-qalath telu zethqen lazet az garel elu kelathnet elu qu. wanel telnet ez galzat·/
-az zelmar thalmu elu rethamar. khul az kalet. yarul gari ez tamul./
-wanel zethqen khez qernet qazlun khez qernet./
-wanel qazlun khez qernet malen qarenar elu qezirnet. wanel malen telu./
-qelgar telu konet nyar salqet ezu shelu. wanel khalat qezlet. khez qelgar telu temun ezu azlet. yaler qu yalret qalet·
+az tarmil ta nazar. zethqen lazret./
+khez yalath fael ez naru. khez tamral genar naru./
+az tarmal ta galmun. galar elu kalzu./
+nelaz genar qu ez yalethar elu thaz'lekhau./
+khez tarul saru ez zethqen leqar./
+lagath telu qernet elu zethqen‼/
+qalath telu zethqen lazet az garel elu kelathnet elu qu. telnet ez galzat‼/
+qalath telu zethqen lazet az garel elu kelathnet elu qu. telnet ez galzat‼/
+[az zelmar. thalmu elu rethathar. khul az kalet. yarul gari ez tamul.]{.direction}/
+zethqen khez qernet. qazlun khez qernet./
+qazlun khez qernet. qezirnet elu malen./
+wanel malen telu./
+qezlet khalat ezu shelu. qelgar telu salqet‼/
+khez qelgar telu ezu azlet‼ yalen konet qalet./
 
-alqar temun khemu ezu zethu ta khemu khez zethu./
-wanel zuwret ezu zethu. wanel qamzun ezu zethu. wanel zeqat qarmath rethnar ezu zethu./
-khez wanel zeqat elu malen qarenar ez mathun ezu zethu./
-khez wanel zeqat elu telu ez nazu ezu zethu./
-khez wanel zeqat elu telu ez nelgir ezu zethu./
-khez tuqel telu khemu khulret ez zethgal./
-khez qamar zethgal galqet ez naru./
-rethal telu zethu. razal telu temun khez zethu·
+zuwath genar temun. zethal zethuar qu./
+zethal zethuar qamzun./
+zethal zethuar zeqat qarmath rethnar./
+khemu. qamar zethgal qalzunet ez naru./
+zeqat elu malen ez mathun./
+zeqat elu telu ez nazu./
+zeqat elu telu ez nelgir./
+khemu. khez zethu. khez qalzunet./
+khez tuqel telu naru ez zethgal‼/
+zernath telu zethu‼ razal telu khez zethu‼/
 
-wanel qernet az zethgal elu garzethu qernet./
-tharel lemzabu elu halzi'a ezu qu ta qathur ezu thalmu./
-qamaru zethul zethular halzi elu genar mar garel elu saru, tharun qazet saru temun./
-wanel temun elu qazemnet ezu zethu az garun leqar nuqar rethan leqar./
-heurath telu rethan. khez razel telu qu·
+tharel lemzabu elu halzi'a ezu qarzel./
+walet saru qathur ezu thalmu./
+tharel telu ezu qarzel. wanel qarzel qarzel./
+zethul zethular genar mar garel elu saru./
+qazet genar eqar temun./
+kelath qazemnet ezu zethu. qamar qu rethan./
+heurath telu rethan‼ khez razel telu qu‼/
 
-kalzu zethqen elu gar-auu. zethul telu naru mar zethal zelqet./
-tharel saru az yathar. qazlun lazen. zethal telu qarnet elu shenqar./
-yarul saru ez ithnar ezu qazlun qanu. wathun ta khez tazir./
-wanel qu raznet tazir shar raznet temun ta qelmer tazir./
-yarul saru ez ithnar ezu qeznar. wathun. khez razel galar qaruthnet elu qu./
-khez razel telu qu. khez alqar telu zun. khez wanel genar elu garun eqar az zethqen./
-khez telath qazlun elu saru. zurat telu shel qamar qezthar mer saru./
-zurat telu. khez zethal telu zurnet elu telu./
-malen elu azlet chalen. ta rethan elu neral elu tharel saru./
-zethal telu qazlun, malen, neral elu tharelnet. khez zethal telu leqar./
-tamral telu zethal tazir./
-tamral zethqen eqar narel zethqen lazret. khez tamel naru qu./
-yarul galmar ez neral elu tharelnet qarmel qu./
-zethul telu raznet zar eqar. zethul telu eqar yalret./
-galet galar. zethmin tuzar. zethal telu naru galet./
-wanel tamelnet elu saru elu nelgir. khezan. zethal telu khezan leqet·/
-az zelmar thalmu elu rethamar. khez zethal gari zethul telu raznet zar eqar. zethul gari raznet zar eqar.
+zethul telu zethqen mar zethal telu zelqet‼/
+«tharel saru az yathar.» qazlun lazen./
+zethal telu qu az qaren elu shenqar‼/
+«yarul saru ez ithnar ezu qazlun qanu.»/
+wathun. khez leqar. raznet elu kalet tazun ta qelmer tazir./
+«yarul saru ez ithnar ezu qeznar.»/
+khez rethaz galar wathun eqar./
+khez rethaz telu qu‼ khez alqar telu zun./
+khez alqar genar elu garun eqar az zethqen./
+«khez telnethet qazlun elu saru.»/
+zurat telu genar elu qezthar mer saru‼/
+zurat telu‼ khez zethal telu zurnet‼/
+«malen elu azlet chalen.»/
+zethal telu qazlun ta malen ta rethan elu genar qarmel saru‼/
+khez zethal telu leqar‼/
+tameth telu tazir. tameth zethqen tazir./
+narel zethqen lazret khez zethal naru qu./
+«yarul luzet ez genar qarmel qu.»/
+zethul telu raznet zar eqar. zethul telu eqar yalret‼/
+«galet galar.» zethmin tuzar. zethal telu naru galet‼/
+«qamarun tamelnet elu saru ez nelgir.»/
+zethal telu khezan leqet‼/
+[az zelmar. thalmu elu rethathar. khez zethal gari «zethul telu raznet zar eqar.» zethul gari raznet zar eqar.]{.direction}/
 
-zuren nazu temun eqar ezu zelqet. qenlar nazu naru./
-qazlun qanu kalzet ezu zethu 90. khaler malen qarenar az garel khez qenlet./
-galar galet az kalet khul. yarath zethalar ez tamul. yalen saru yalret. khez zethul saru./
-rethan elu galmar khez qezat. waleth gar-au meglu elu geqet./
-mazgar elu thulun elu azlet ezu qernet elu qazlun./
-gar-au qamar qezthar ezu qazlun elu wathun elu qathun. wanel eqar qenat./
-qenlar malen qarenar qeren qu ez qazlun mer qu. khez wanel eqar qenat./
-raznet elu zethqen lazret ta raznet qemath nuqar qu. wanel lazret raznet thal./
-ta thalmu elu qezunet elu nazu az kalzet 20. qelmul qu./
-zethal zethalar khulret naru temun. zethal leqar mer saru./
-zethul telu qu mar zethal zelqet·
+qenlar nazu temun eqar ezu zelqet./
+zethal malen qarenar kalzet qanu qel kalzet/
+gerun ta gerun ta gerun,/
+ta gerun ta gerun ta gerun,/
+ta gerun ta gerun ta gerun./
+khaler saru az garel khez qenlet./
+galet galar az kalet khul./
+yarul zethalar ez tamul. yalen saru. khez zethul saru./
+rethan elu luzet khez qelzut./
+waleth gar-au meglu elu geqet./
+qemul elu azlet ezu qernet elu qazlun./
+qezthar ezu qazlun elu wathun elu qathun. qenat./
+qenlar malen qeren qu ez qazlun mer qu. khez qenat./
+raznet elu zethqen lazret./
+zethal genar raznet nuqar qu ezu thalmu thazit./
+raznet lazret. «thal.»/
+thalmu elu nazu az kalzet gerun khul. qelmul qu./
+zethal zethalar khulret naru. zethal leqar mer saru./
+zethul telu qu mar zethal telu zelqet‼/
 
-zethal telu nyar zelqet lazret. khez nyar zelqet elu qezunet./
-wanel zelqet elu zelqet rethurun elu malen elu rethurun elu malen·
+zelqet nyar zelqet. rethurun nyar rethurun./
+rethurun elu malen nyar rethurun elu malen./
+zethal telu nyar lazret‼ khez nyar elu telu‼/
 
-qamaru yarul rethan nyar qelqet elu lem'nelgir, qelgar lagathar qu nyar zelqet./
-tharel thaz'lekhau elu uqa'a qarmel qalmer. khez alqar genar leqar./
-qamaru qalath genar qelgaret ezu thalmu elu telu, walet telu qu ezu kalun elu halzunet./
-tamel telu qu tharun. qerath lem'nelgir. wanel telu thalmu. khez qerath thalmu az kalet khul·
+qamaru qelgar lem'nelgir rethan nyar zethu,/
+qelgar lagathar qu nyar zelqet./
+tharel thaz'lekhau elu uqa'a qarmel saru./
+khez alqar genar leqar./
+qalath genar qelgaret ezu thalmu elu telu./
+walet telu qu qethel telath telu halzunet‼/
+tharun tamel telu qu‼/
+qeran lem'nelgir. wanel telu thalmu./
+khez qeran thalmu az kalet khul./
 
-wanel rethan elu galmar lazret raznet elu qazlun. razel qu ez telu./
-gez'el'retha ezu garel elu khemu. qamar khulret qu ezu azlet'kutu./
-kelath qaril nizar kalzet 700 elu zethqen qarmath khulret ta ezu garel elu khemu./
-razel rethan. wanel qezthar qezthar thelin./
-khez razel qu temnar elu kalzet 60 mar qu./
-razel zethqen temnar elu naru. galar. qazlun tuzar. galet./
-zethal telu kalzet 60. khez yarul naru qaral rethan./
+wanel rethan elu luzet raznet lazret elu qazlun./
+gez'el'retha ezu garel elu khemu./
+qamar khulret rethan eqar ezu azlet'kutu./
+kelath zethqen qaril nizar khen ta khen ta khen ta khen ta khen ta khen ta khen qarmath naru./
+razel rethan ez telu. qezthar thelin./
+razel zethqen ez telu. galar. qazlun tuzar. galet./
+khez razel rethan kalzet gerun khul ta gerun khul ta gerun khul mar qu./
+khez lamath rethan naru nyar zethu./
 khez lamath lem'nelgir naru nyar zethu./
-zethal telu qu. lemath telu qu razel raznet elu qu·
+zethal telu kalzet gerun khul ta gerun khul ta gerun khul‼/
+zethal telu qu. lemath telu qu razel raznet elu qu‼/
 
-zethal nazu galathnet elu galar elu qedgel. wanel nazu ezu kalzet tuzar az zethgal./
-qalath lagathar zethqen zamar nazu. razel saru. galet galar. zethal telu qu./
-zethal nazu qu. qazlun tuzar. kalzet 59. ta raznet./
-qamar lazret qezthar ta rethan kuz'uqa. qamar ezu garel elu tuzar qezthar ta rethan legir'uzner ezu garel elu lazen./
-leqet elu uzn'era. khez tamral genar elu qedgel rethan eqar. temal genar leqar qu ez saru./
-zethal telu rethan. qamar saru rethan. wanel rethan elu qamnet qenat./
-khez lamath genar galar nyar zethu. khez razeth genar ez nazu qaran. khez razal nazu./
-lagath nazu zethqen ezu kalzet salet. khez razeth genar ez nazu narel qu./
-khez alqar qu az zethqen. khez alqar qu az eqar tan./
-galath lem'nelgir galar. khez lamath naru qu nyar zethu. zethal zethuar qu qel galar temun./
-galet. zethal telu qu galet. khez zethal telu rethmet ezu qu./
-zethal telu qu. lemath telu qu razel raznet elu qu·
+kalzet tuzar elu nazu az zethgal./
+qalath lagathar zethqen zamar nazu./
+«galet galar. zethal telu qu.»/
+zethal nazu galathnet elu galar elu qedgel./
+qazlun tuzar. kalzet gerun khul ta gerun khul ta gerun ta qanu. raznet./
+qamar lazret qezthar ta rethan kuz'uqa./
+qamar ezu garel elu tuzar qezthar ta rethan legir'uzner, lazret elu rethan./
+leqet elu uzn'era./
+khez qerel genar elu qedgel rethan eqar ez qezunet./
+qerel genar leqar qu ez saru./
+qamar saru rethan. wanel qu qenat./
+zethal telu rethan‼/
+khez lamath genar galar nyar zethu./
+khez razeth genar ez nazu qaran. khez razal nazu./
+lagath nazu zethqen ezu kalzet salet./
+khez razeth genar ez nazu narel qu./
+khez alqar qaran az zethqen. khez alqar qu az eqar./
+galath lem'nelgir galar. khez lamath naru qu nyar zethu./
+zethal zethuar qu qel galar leqar. galet./
+zethal telu qu galet‼ khez zethal telu rethmet‼/
+zethal telu qu. lemath telu qu razel raznet elu qu‼/
 
-ezu zethalnet elu rethan elu nelgir thalet telu az qezat elu nelgir./
-reth'sa'ar. yaler sheqet zar az kalet khul. wanel qezat elu saru. khez qamarun qu ez telu./
-qamaru qezlun malen qarenar qu, tharun zethal saru zethuar elu genar leqar./
-razel telu qu ezu zethalnet, az kalet temun, ezu kalzet 14. rethath lamur thalmu·/
-az zelmar thalmu elu rethamar. 14. zethal lagathar 40. zethal gari qel qu az kalet gerun az qalshar.
+reth'sa'ar. qalthaz telu shequn az kalet khul‼/
+qamarun qelzut ez saru. khez ez telu./
+thalet telu az garel elu thalet nelgir‼/
+qezlun malen qarenar qu. zethal saru zethuar elu genar zamun./
+razel telu rethan ezu zethalnet lazet‼/
+ezu kalzet gerun ta tuzar./
+rethath lamur thalmu./
+[az zelmar. thalmu elu rethathar. gerun ta tuzar. zethal lagathar gerun khul ta gerun khul. zethal gari qu az kalet gerun az qalshar tan.]{.direction}/
 
-khez razal telu rethan qaril nyar rethnar. khez wanel qu elu telu. lamath razalnet qu./
-khez zethal telu rethan qaril elu mathun. tamath telu lazen az qalshar. zurat telu temal sheqet sher./
-lazret elu ghunet leqar, lu elu khezan./
-khez tuqath thalmu lazen nyar khul raznet khez telnethet. temal genar thalmu qel eqar./
-wanel raznet khez telnethet elu lamur ta elu genar elu halzel./
-khez wanel halzel ezu zethu tan·
+lamath razalnet rethan qaril./
+khez qamarun rethan elu rethnar ez telu./
+khez razal telu qu‼ khez zethal telu elu mathun‼/
+tamath telu az kalet lazen az qalshar. zurat telu shequn‼/
+wanel qu temnet elu ghunet leqar lu elu khezan./
+khez dunel thalmu khul tuqath raznet khez telnethet./
+temal genar naru qel eqar./
+wanel raznet khez telnethet elu lamur ta genar elu halzel./
+wanel halzel khez zethu tan./
 
-merath telu genar mathenar. dunel sari mazel gezan./
-wanel halzi elu sari elu sari. khez tamath telu zethal qu nuqar elu telu./
-khashel genzet genzat eqar ezu kalzet temun. khez zerath merun mathenar qu./
-wanel merun mathenar elu galathnet leqet garqen elu galathnet leqet·
+qamarun halzi elu merun mathenar ez sari./
+khez zethal telu qu nuqar elu telu‼/
+merath telu genar mathenar‼ dunel sari mazel gezan./
+khashath genzet genzat eqar ezu kalzet lazet./
+khez zerath merun mathenar qu./
+galathnet leqet elu merun. galathnet leqet elu garqen./
 
-qazet telu zelarun. qazet telu qu mar qalnaz./
-yarul zethalar elu galnet elu nelgir ez ithnar shalath. lagath galnet eqar./
-qazet telu zelarun tharun. khez zethal mathun elu telu zelqet ez nelgir·
+qazet telu zelarun mar qalnaz‼/
+lagath galnet elu nelgir shalathnet elu zethalar./
+yarul saru ez ithnar. shalath galnet saru./
+thal khez zethal mathun elu telu zelqet ez nelgir./
+qazet telu zelarun tan‼/
 
-qaler telu az qelmar elu nelgir. wanel lamzu remaz. razel lem'nelgir elu thuba'i eqar./
-khez qaler telu ezu tharen elu zethalnet·
+lamzu. remaz. razel lem'nelgir elu thuba'i qu./
+qaler telu az qelmar elu nelgir‼/
+zethal telu az tharen elu zethalnet‼ khez qaler telu‼/
 
-qazet telu zaglu mar qemet. qazet telu zaglu khez qeznet./
-qamar zaglu qelqet az garel elu telu. khez tamral qu qenmar·
+khez tamral zaglu qenmar./
+razath qu az garel elu telu./
+zuwel telu zaglu mar kalun qemet‼/
+zuwel telu naru khez qeznet‼/
 
-ezu tharelnet elu zurenar razel telu zurnet elu telu./
-khez razel telu alqarnet. razel telu zurnet ta horqet elu qu./
-qamaru zuren telu qathur ta khez zuren telu qatheznet, razel telu. zuren nazu qathur. khez zuren nazu qatheznet./
-zethal zethu khul. wanel khul qenat./
-wanel zurenar elu qelmul zethat khez qenlet ta pedar·
+zurnet elu telu. horqet elu zurnet./
+wanel eqar raznet elu zurenar./
+khez wanel qu alqarnet./
+«zuren nazu qathur. khez zuren nazu qatheznet.»/
+zethal zethuar khul. wanel khul qenat./
+razel telu zurnet‼/
+wanel zurenar elu qelmul zethat khez qenet ta thaqur./
 
-wanel qathur qelqet elu qatheznet. zurat telu qathur mar rethan./
-wanel rethan ralzet. wanel qathur temun elu thalmu elu genar./
-walet telu elu telu az shanur az nazret nuqar shenqet. qalbath telu ta qu./
-wanel qathur az telzar qelqet khez zethulnet elu telu·
+wanel qathur qathur./
+ralzet rethan. qathur ezu thalmu./
+qelamet thalmu ez qatheznet./
+zurat telu qathur mar rethan‼/
+walet telu elu telu nuqar shenqet‼/
+shanur az nazret. qalbath telu ta qu‼/
+kelath qathur az telzar./
+wanel qu qelqet khez zethul telu qu./
 
-lamath azlet qedlar temun elu qernet ezu igelar az kalet lazen ezu kalzet. nelaz qu qethmal yalret./
-tarul mazelar qernet yalret ezu gelet. qerath zethat./
-wanel qedlar az garel elu zelqet./
-rethun telu mazelqet ta mazgar elu thulun, thalamun khez walet telu mazelqet./
-yaler waletar elu qu ez zethgal elu telu az kalun lazen. qamaru nelaz saru mazgar elu thulun tan, rethal telu mazgar shal·
+nelaz azlet qethmal. lamath qu qedlar./
+lamath qu qedlar lazet elu qenret ezu qedzar ezu kalzet lazet./
+tarul mazelar qenret yalret ezu gelet./
+razel zelqet garel. kelath qedlar zun./
+qeran zethat./
+rethun telu mazelqet ta qemul‼/
+khez walet telu mazelqet./
+yaler waletar elu qu ez zethgal elu telu./
+nelaz saru qemul tan./
+rethal telu qemul shal‼/
 
-alqar zegaru nizar lenen-nezut. khez tarul mazelar qu./
-khez qamar zelqet qernet ez qu. khez nelaz telu lazen./
-wanel qernet khez tarulnet zethat khez qenlet. khez qemet shel razal telu qu./
-khez qalur hamret elu alghen temun khez thaluz mazelqet·
+khez thaluz mazelqet qu./
+khez qalur halnur elu genar qu./
+khez tarul mazelar zegaru nizar lenen-nezut./
+khez qamar zelqet qenret ez qu./
+khez nelaz telu lazen‼/
+qenret khez tarulnet. zethat khez qenet./
+khez qemet rethan elu razalar./
 
-razel telu halzunet az qeznar lazret. razel telu naru az zethgal ta qernet nazar telu./
-razel telu naru ezu shebigel. khashath shebigelar./
-razel telu naru qel khashath genar. wanel naru ezu zethu az garun khez dunel telu zethul./
-khez qezlun zethalar elu naru rethan·
+az zethgal. qarzel nazar telu./
+ezu shebigel. khashath shebigelar./
+razel telu halzunet az thelmer‼/
+razel telu naru qel khashul genar naru‼/
+zethal genar naru az garun khez dunel telu zethul./
+khez qezlun zethalar rethan./
 
-ezu azlet yarul tamelar ez muzannet. tharel qalu az galzat./
-wanel galnet elu nelgir khazil. qamar genar fael elu qelnet az horqet tuzar./
-zethal telu qer elu fael elu qelnet. wanel uqa'a nuqar gharen ezu qeznar eqar. makhal saru ezu hodir./
-khez makhal telu. zethal telu zelqet. zethal telu./
-thalet telu az horqet elu qelmulnet elu thalmu./
-wanel zethmin qelmul elu malen qarenar kamel. zethal zethalar khulret zelqet elu malen kamel·
+azlet. qalu az galzat. tamelar az muzannet./
+khazil galnet elu nelgir. horqet tuzar. fael./
+makhal uqa'a nuqar gharen ezu qeznar./
+makhal saru az hodir. khez makhal telu./
+zethal telu qer elu fael. zethal telu‼/
+qelmul thalmu zethmin. thalet telu‼/
+wanel zethmin qelmul elu malen kamel./
+zethal khulret zelqet elu malen kamel./
 
-khez zethal telu temun ezu tharen chalen khez menqet./
-khez alqar temun ezu naru ez walet elu kalzet·
+chalen tharen. khez menqet./
+khez dunel kalzet walet temun ezu naru./
+khez zethal telu temun az naru‼/
 
-lagath genar zelqet khulret az khelunu. ezu shelu temun yarul zethalar khul zar ezu igelu. zethul naru qu zun./
-raznet nyar raznet, khazul. zethul lazen. khashath leqar. mazel naru qu qarmath qu ta zelqet lazret./
-qamaru khez qemel khul, tharun qerath lazret./
-khez wanel lazret khez qenlet az kalet lazen. khez dunel genar zelath qu az kalet lazen·
+ezu shelu lazet yarul zethalar khul zar ezu igelu./
+lagath genar zelqet khulret az khelunu./
+zethul lazen raznet lazet khazul./
+khashath leqar. walet saru lazret./
+qamaru khez qemel khul, tharun qeran lazret./
+khez wanel lazret khez qenlet az kalet lazen./
+khez dunel genar zelath qaznel elu qu az kalet lazen./
 
-nelaz telu tamzel ezu menqet tazis ez garqelar. khez qazet saru qu yalret./
-rethal saru qaran elu nelmat. tamul saru qu./
+tamul garqelar tamzel. rethal saru qaran elu nelmat./
+khez qazet saru qu yalret./
+nelaz telu qu ezu menqet elu tamlat‼/
 khez alqar qaznel ezu tamzel./
-galath telu zeqat elu telu. thalal zeqat ez telu galut./
-yarul telu nizar zeqatar. wanel eqar qeznet elu algunet. rethath naru telu qeznet az kalzet salet·
+galath telu zeqat elu telu‼ thalal telu zeqat ez telu galut‼/
+yarul telu nizar zeqatar‼/
+wanel eqar qeznet elu algunet./
+rethath genar telu qeznet az kalzet salet./
 
-galel telu az telzar elu halzi'a az garel elu lemzabu. khez zurat telu galmel zar qu./
-qamaru razel saru wanel qathun elu talqar elu saru gar-au, razel telu. razel zethqen eqar./
-razel zethqen eqar. khez razel telu raznet leqar elu zethqen. khez zethul saru naru. zethul telu naru./
-wanel galzamar thalen az lenen-nezut. wanel galnat thazit./
-tarul telu galzamar qel rethnar ezu galmer. khez mazath telu tarulnet khazul·
+qalath lemzabu telu az galmel az telzar elu halzi'a./
+galel telu zun‼/
+khez zurat telu galmel zar qu‼/
+razel halzi'a qathun elu talqar elu saru gar-au./
+razath telu. razel zethqen eqar./
+razel zethqen eqar. khez razel telu leqar‼/
+zethul telu naru. khez zethul saru naru./
+thalen galzamar elu lenen-nezut. thazit galnat./
+tarul telu qu qel galmer‼ khez mazath telu tarulnet khazul‼/
 
-alqar kalzet elu qezthar elu genar khul, lazen az telnet lazet elu igelu./
-nelaz zethqen kalzet ez lazen elu naru. zethal telu kalzet qel zethu·
+genar khul. qezthar lazen az telnet lazet elu igelu./
+kalzet qemel. nelaz zethqen kalzet ez lazen./
+zethal telu kalzet qel zethu‼/
 
-qamaru razal genar telu wazal, wanel eqar razalnet. halzath telu qu./
-halzath telu zeqat elu wathet ta dunelnet elu garqen. razal telu mer qu./
+zeqat elu wathet. dunelnet elu garqen./
+halzath telu khul mar zetqen‼/
+razal genar telu wazal. wanel qu razalnet./
 galath galmun tuzar zethat. khez alqar chalen./
-nelaz genar chalen ez telu ezu kalzet temun elu algunet. wanel rethan elu qu lemath qu kelath·
+nelaz genar chalen ez telu ezu kalzet lazet elu algunet elu telu./
+«lemath telu qu kelath.» wanel eqar rethan elu qu./
 
-qamaru tamel telu laqet ez nazu ta khez dunel telu rethal qu, khez yaler telu ez zethgal./
-yarul telu ez nelgir. nelgen telu. razal telu. khashath telu. wanel eqar alqarun elu nelgiru temun. qamar qu zarun lazen·
+qamaru tamel telu laqet ez nazu ta khez dunel telu rethal qu,/
+tharun khez yaler telu ez zethgal‼/
+yarul telu ez nelgir‼ nelgen telu. razal telu. khashath telu‼/
+zarun lazen. alqarun telnethet./
 
-wanel zethu qazlun qanu elu rethan khez mazret zethu ez khezan./
-zethal telu mazret. wanel mazret qarun zamat elu kesnet elu rethan·
+«qazlun qanu elu» rethan khez mazret./
+zethu ez khezan./
+zethal telu mazret‼/
+mazret. kesnet zamat elu rethan./
 
-lagath telu 12 ezu qelmar. lagath telu nelgir elu selat ezu galar elu saru. lagath telu wathet elu garqen az nelgalar./
-lagath telu reth'sa'ar az zethgal. wanel zethgal galar elu nelgir elu kalun tazir shar leqar·
+nelgir elu selat az galar elu saru./
+wathet elu garqen az nelgalar./
+gerun ta khul az qelmar./
+lagath telu naru lazet‼/
+lagath telu reth'sa'ar az zethgal‼/
+wanel zethgal galar elu nelgir elu kalun tazir shar leqar./
 
-kalzu temun elu qelqet elu nazu ez zethal zun./
-mar kalzet 30, ezu qazlun mar zethalnet elu nazu elu galathnet, tharel nazu az zethulnet./
-razal genar nazu. wanel nazu zeqatar. mazgar lazen elu barqet. danet elu kalqet lazen. temun thazit./
-qamar nazu khazmer. razel nazu khe. zethal zethu khe elu nazu./
-razel zethular galut. yarul zethqen nizar ta saru. yaler saru khez qemet elu qu./
-khez zethal nazu rethan elu saru zun. wanel qu ezu zethu az garel elu qu./
-tuqath galar elu nelgir wazlat ez leqar tarmil./
 rethal nazu hodir. galel nazu az telnet elu qu./
 khez yarul nazu./
-khez razal telu nazu qaran. wanel wazlat genar qezunet. khez nelaz genar leqar elu nazu ez nazu./
-az galathal elu nazu khashath telu zeqmar elu nazu ta zeqat galut elu nazu./
-ta garqen, qel genar temun, khez mar qu./
-zethal nazu qu zun ez qarun elu alqar qu az garun lazen. qamar zethqen temun tazun khez raznet elu genar·
+wanel eqar temun elu qelqet elu nazu ez zethal zun./
+mar kalzet gerun khul ta gerun, mar qazlun elu galathnet, tharel nazu az zethulnet./
+razal genar nazu. zeqel wathet nazu mazgar lazen elu barqet./
+danet elu kalqet lazen. thazit./
+qamar nazu khazmer. razel nazu khe./
+zethal zethuar khe. razel zethular galut./
+yarul zethqen nizar ta wathet. yaler wathet khez qemet./
+khez zethal nazu rethan zun. zethal genar qu az garel elu qu./
+tuqath galar elu nelgir wazlat ez leqar tarmil./
+wanel wazlat genar qezunet. nelaz nazu elu nazu. khez nelaz leqar qu./
+khez razal telu nazu qaran‼/
+az galathal elu nazu khashath telu zeqmar ta galut./
+ta garqen, qel genar leqar. khez mar qu./
+zethal nazu eqar ez qarun elu alqar qu az garun./
+qamar zethqen temun tazun khez raznet./
 
-qemet. tegul telu sheqet./
-qamaru qalath lagathar mer nazu zethqen zamar telu ta razel saru zethal telu, zethal telu./
-qamaru razel saru galet galar, zethal telu qu galet./
-qamaru razer thaz'lekhau elu uqa'a zethqen nyar leqar tarmil elu galzamar,/
-nelaz telu zelqet ta yarul telu ta qu. tharel telu ezu kalun elu zethulnet elu saru./
-khez razel telu temun khez ezu zethqen./
-zethal telu qu. lemath telu qu razel raznet elu qu./
-qamaru nelaz lemzabu elu halzi'a geqet ez telu qaral raznet, […]{lang=zxx}·
+qemet. tegul telu shequn‼/
+qalath lagathar mer nazu zethqen zamar telu./
+«zethal telu qu.» zethal telu qu‼/
+«galet galar.» zethal telu qu galet‼/
+razer thaz'lekhau elu uqa'a zethqen./
+nelaz telu zelqet qazir galzamar‼ yarul telu ta qu‼/
+tharel telu ezu kalun elu zethulnet elu saru‼/
+khez razel telu temun khez razel zethqen‼/
+zethal telu qu. lemath telu qu razel raznet elu qu‼/
+nelaz lemzabu elu halzi'a geqet ez telu qaral raznet, [\[…\]]{lang=zxx}/
 
-[nuqar qeltheznet thalmu elu malen]{.direction}/
-telnethet ezu qernet leqet qer elu gari ez chegu rethunar ezu qazlun gerun elu gar-au meqes ezu garel elu 16,/
-ezu menqet khemu elu azlet kamel thalmu elu saru tamral saru meglu elu geqet tazir·/
-[nuqar eqar thalmu elu rethamar.]{.direction} khez ezu qernet leqet. zethal telu zelqet yalret mer azlet.
+[nuqar qeltheznet. thalmu elu rethunar.]{.direction}/
+telnethet ezu qernet leqet./
+zethal gari ez chegu qu, rethunar,/
+ezu qazlun gerun elu gar-au meqes ezu garel elu gerun ta chun,/
+menqet khemu elu azlet./
+kamel thalmu elu saru. qerul saru lagath geqet./
+[nuqar qu. thalmu elu rethathar. khez ezu qernet leqet. zethal telu qu yalret mer azlet‼]{.direction}
 :::
 
 ## See Also

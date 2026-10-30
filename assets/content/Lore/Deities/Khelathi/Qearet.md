@@ -20,17 +20,17 @@ Her theology rests on one overwhelming doctrine: [The Weighing]{.name data-type=
 : The Weighing
 
 ::: {.verse form=litany lang=en work=qearet-1}
-Both accounts open before the gathered gods./
-Ours is read exactly; they place theirs beside it./
-Tablets rest level on the beam. Payment buys nothing there./
-A lord's late temple endowment leaves his reading equal to his tenant's.
+Before the assembled gods both accounts are opened./
+Ours is read as it stands; theirs is set beside it./
+The tablets lie level on the beam, and nothing is bought at the beam./
+The lord who endowed a temple late is read as his tenant is read.
 :::
 
 ::: {.verse form=litany lang=khel enc=khelqalezuenc work=qearet-1}
-wanel halzi khul galut zamar nelgiru elu sumetnet./
-zethul zethular halzi elu nazun qel wanel qu. qalath nelgiru elu naru qarmel qu./
-wanel zethqen qemlun az halzathal. khez qazet genar temun az halzathal./
-zethul zethular halzi elu lemunar qel halzi elu qamzunar elu saru. nelaz lemunar qamret ez galar elu nelgir merqet·
+galuth nelgiru halzi khul zamar genzet./
+zethul naru elu nazun qel qu. qalath naru elu naru qarmel qu./
+kelath zethqen qemlun az halzathal. khez zuwel genar temun zun./
+nelgen zabu ez galar mer kalun qemet. zethul nelgiru saru qel qamzunar elu saru.
 :::
 
 That judgment is the foundation of [[lore-khelathiclt|Khelathi]] ethics, and its force comes from one feature above all: _wealth cannot buy a favorable verdict_. A written entry can be closed late or bought out; the unwritten account can only be met, and nobody holds a copy to consult. Even the powerful fear it, which makes it a real if imperfect check on the worst abuses of power in a civilization otherwise steeply unequal.

@@ -66,65 +66,28 @@ data:
 
 ![[image-khelathubnr|The memorial of Meqes VI, carved in Khelathi-zethu]]{size=full-width}
 
-_Phonetic transcription (unpointed plain-letter Khelathi; the carved sacred hand is preserved above)._
+_Qalezu transcription of the sacred-hand text; the carved original is preserved above._
 
 ::: {.verse form=memorial lang=en work=khelathi-1}
-Year one of Gar-Au Meqes, seventh of that name, alive, enduring, strong./
-Gar-Au Meqes, sixth of the name, has gone west: lord of river and both banks, Uqa'a's beloved, Uqa'a's fire upon the mound./
-He stood and received the crown, master of the count, his seal upon the storehouse, his grain borne by barges./
-The gods gave him life like the sun for all time./
-It was his twenty-seventh year./
-His account is read aloud.
+Year 1 of the Gar-Au Meqes, the seventh of the name, living, enduring, strong. Went to the West the Gar-Au Meqes, the sixth of the name, Lord of the River and of the Two Banks, beloved of Uqa'a, fire of Uqa'a upon the mound, who stood, who was crowned, lord of the count, whose seal is on the granary, whose grain the barges carry, given life like the sun forever, in his twenty-seventh year. His account is read./
 
-Uzn'era formed him in the womb, a child of Zu'Meku's house./
-He stood on the mound at Yath-Telgu./
-Uqa'a's priests crowned him and bestowed his name, Meqes./
-Every contract of the year receives its date under that name./
-Qe'aret placed truth in his mouth./
-Reth'Sa'ar entered his name in the house of writings./
-The gods bestowed life and dominion like the sun's.
+Shaped him Uzn'era in the womb, a child of the house of Zu'Meku. Stood he upon the mound at Yath-Telgu; the priesthood of Uqa'a set the crown on him, and gave him his name, Meqes; by this name every contract of the year is dated. Qe'aret set truth in his mouth, and Reth'Sa'ar wrote his name in the house of books. The gods gave him life and dominion, like the sun./
 
-His Majesty Gar-Au Meqes descended, Uqa'a's beloved, lord of river and both banks./
-The gods gave him life like the sun for all time./
-He came against the hill people of the western margins./
-Chaq'ur's wrath went before him like a storm./
-He struck their leaders and seized their herds./
-He brought their princes back bound beneath his sandals./
-The margins belonged to the Gar-Au.
+Came down His Majesty, the Gar-Au Meqes, beloved of Uqa'a, Lord of the River and of the Two Banks, given life like the sun forever, upon the hill-men of the western margins, and Chaq'ur raged before him like the storm. Smote he their chieftains, took he their herds, and brought back their princes bound beneath his sandals. The margins were the Gar-Au's./
 
-Gar-Au Meqes sailed against the northern sea's raiders, beloved of Uqa'a./
-The gods gave him life like the sun for all time./
-Uqa'a's fire went against their ships./
-The river lay peaceful./
-Barges ascended bearing gold, cedar, horses, and enslaved people./
-The river belonged to the Gar-Au.
+Sailed he, the Gar-Au Meqes, beloved of Uqa'a, given life like the sun forever, against the raiders of the northern sea, and the fire of Uqa'a went out against their ships. The river was at peace, and the barges came up laden: gold, cedar, horses and slaves. The river was the Gar-Au's./
 
-Gar-Au Meqes rode out, Uqa'a's beloved, lord of river and both banks, against lions and river-horses./
-They had damaged herds and fields./
-The captured beasts were counted./
-During low-river years he opened the god's storehouses beneath his seal./
-He had filled them in flood years./
-None of his people went hungry.
+Rode he out, the Gar-Au Meqes, beloved of Uqa'a, Lord of the River and of the Two Banks, against the lions and the river-horses that ravaged the herds and the fields, and the beasts taken were counted. In the years of the low river he opened the god's granaries under his seal, which he had filled in the years of the flood, and none of his people hungered./
 
-Gar-Au Meqes, beloved of Uqa'a, rebuilt Uqa'a's house./
-He gave it golden altars and endowed it with fields and herds./
-At Zu-Gezer he raised his Way at the death-road's head./
-Uqa'a speaks: fire on the earliest ground, lord of dry ink, ascending the road./
-My beloved son, I give you every land./
-Every foreign country bows beneath your sandals./
-I give you the sun's years upon the mound's throne./
-Before the gods his tablets rested level on the weighing beam./
-His debts were closed, leaving nothing./
-Claims owed him remained open./
-He descended as a creditor.
+The Gar-Au Meqes, beloved of Uqa'a, built anew the house of Uqa'a, gave it altars of gold, and endowed it with fields and herds. He raised his Way at the head of the death-road at Zu-Gezer. Words spoken by Uqa'a, fire on the first ground, lord of the dry ink, who comes up the road: "My beloved son, I give you every land, every foreign country bowed beneath your sandals; I give you the years of the sun upon the throne of the mound." Before the gods the tablets lay level on the beam: what he owed was closed, and nothing remained; what was owed to him stood open. He went down owed.
 :::
 
-::: {.verse form=memorial lang=khel work=khelathi-1}
+::: {.verse form=memorial lang=khel enc=khelqalezuenc work=khelathi-1}
 wanel qazlun lazen elu gar-au meqes ezu garel elu salet alget thalun qazul/
-yarul gar-au meqes ezu garel elu chun ez ithnar lemunar elu igelu ta galthar khul meral elu uqa'a thalu elu uqa'a az yathar/
+yarul gar-au meqes ezu garel elu chun ez ithnar lemunar elu igelu ta galthar khul elu amzel elu uqa'a thalu elu uqa'a az yathar/
 tharel saru ta qamar saru qezthar wanel saru lemunar elu mazret wanel qathur elu saru az habtun tuqath qaltaru mazgar elu saru/
 nelaz nelgiru algunet ez saru qel thelqen az kalet khez telnet/
-wanel qazlun elu saru 27/
+wanel qazlun elu saru gerun khul ta salet/
 zethul zethular halzi elu saru
 
 temal uzn'era saru ezu melqar wanel saru malen elu zu'meku/
@@ -135,7 +98,7 @@ qalath qe'aret qenat ezu lamur elu saru/
 zethal reth'sa'ar rethan elu saru ezu galar elu zethu/
 nelaz nelgiru algunet ta laqethet ez saru qel thelqen
 
-yaler nizar gar-au meqes meral elu uqa'a lemunar elu igelu ta galthar khul/
+yaler nizar gar-au meqes elu amzel elu uqa'a lemunar elu igelu ta galthar khul/
 nelaz nelgiru algunet ez saru qel thelqen az kalet khez telnet/
 yarul saru ez genar elu qedgel elu qelzar elu ithnar/
 qamar chaq'ur khazmer zamar saru qel khalzar/
@@ -143,27 +106,27 @@ qezir saru laqethar elu naru ta lamath saru malqar elu naru/
 tuqel saru zabu elu naru qeltheth nizar pedil elu saru/
 qamarun qelzar ez gar-au
 
-qelzun gar-au meqes meral elu uqa'a ez qezetar elu qelmu elu miglar/
+yarul gar-au meqes elu amzel elu uqa'a ezu qaltar ez qezetar elu qelmu elu miglar/
 nelaz nelgiru algunet ez saru qel thelqen az kalet khez telnet/
 yarul thalu elu uqa'a ez qaltar elu naru/
 wanel igelu ezu leget/
 yaler qaltaru zar ta qenuwa ta selqet ta tulqat ta genar qamur/
 qamarun igelu ez gar-au
 
-yarul gar-au meqes meral elu uqa'a lemunar elu igelu ta galthar khul ez qarnu ta igelzut/
+tulqel gar-au meqes elu amzel elu uqa'a lemunar elu igelu ta galthar khul ez qarnu ta igelzut/
 hazath naru malqar ta zegaru/
 mazath mazelar ternu elu lamnet/
 ezu kalzet elu igelu qezil galuth saru habtun elu nelgir nuqar qathur elu saru/
 qelthat saru naru ezu kalzet elu azlet/
 khez khanar genar elu saru
 
-muzan gar-au meqes meral elu uqa'a galar elu uqa'a yalret/
+muzan gar-au meqes elu amzel elu uqa'a galar elu uqa'a yalret/
 nelaz saru qelnet elu qenuwa ez qu ta qamret elu zegaru ta malqar/
 muzan saru khalnet elu saru az zamar elu hodir elu wathet az zu-gezer/
 razel uqa'a thalu az gharen lazret lemunar elu zethqur qezlet yaler saru zar ezu hodir/
-malen qarenar meral elu nazu nelaz nazu gharen temun ez telu/
+malen qarenar elu amzel elu nazu nelaz nazu gharen temun ez telu/
 wanel gharen elu genar leqar nizar pedil elu telu/
-nelaz nazu kalzet elu thelqen ez telu az galmar elu yathar/
+nelaz nazu kalzet elu thelqen ez telu az luzet elu yathar/
 wanel zethqen qemlun az halzathal zamar nelgiru/
 galet zeqat elu saru ta khez thalel temun/
 galut zeqat ez saru/
@@ -309,21 +272,21 @@ Two decisions are made aloud at a Closing and the household hears both. The dyin
 : The Asking
 
 ::: {.verse form=litany lang=en work=khelathi-2}
-Stand, creditor of the dead, and hear our question./
-Will you say, I need nothing further? The scribe enters it./
-Will you refuse? Refusal is lawful, and the scribe enters it./
-Your refusal takes nothing from you. It enters the record./
-Your assent gives up the debt. We remember your name./
-..Open or shut, according to your words.
+You to whom the dead owes: stand, and be asked./
+Will you say _I require no more_? The scribe writes it./
+Will you say no? It is lawful, and the scribe writes it./
+Your no costs you nothing, and your no is entered./
+Your yes costs you what was owed, and your name is remembered./
+..Open, or closed, as you have said.
 :::
 
 ::: {.verse form=litany lang=khel enc=khelqalezuenc work=khelathi-2}
-tharel telu zeqatar elu genar wathet ta razal nazun telu./
-qe razel telu khez tamral nazu tazir. zethal zethu eqar./
-qe razel telu khe. wanel eqar lemet ta zethal zethu eqar./
-khez zerath telu temun qaral khe elu telu. wanel khe elu telu ezu zethu./
-zerath telu zeqat qaral enu elu telu. rethur nazun rethan elu telu./
-..galut lu galet qel razel telu·
+tharel telu, zeqatar elu wathet‼ razal nazun telu./
+qe razel telu «khez tamral nazu tazir»? zethal zethuar qu./
+qe razel telu khe? wanel khe lemet. zethal zethuar qu./
+khez zerath telu temun. zethal zethuar khe elu telu./
+zerath telu zeqat. rethur nazun rethan elu telu./
+..galut lu galet, qel razel telu.
 :::
 
 ## When a Person Cannot Close

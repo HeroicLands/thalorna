@@ -72,7 +72,12 @@ test("every ordinary Khelathi entry retains its real class and all published sen
 });
 test("Khelathi preserves all original meanings, optional writings and name interpretations", () => {
     const before = beforeEncodingMigration(language.file);
-    assertEncodingMigrationPreserved(language, before);
+    // The phrase-list spelling follows the lexicon's hearing formula.
+    const spellingBefore = {
+        ...before,
+        raw: before.raw.replace(/^Shelmu zetem$/mu, "Shelmu zeten"),
+    };
+    assertEncodingMigrationPreserved(language, spellingBefore);
     assertPublicLanguageProjections(language, before, 156);
     assert.equal(
         contentHash(before.fm.data.words.slice(0, 156).map(({ concept, ...rest }) => rest)),

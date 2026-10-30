@@ -23,181 +23,182 @@ Among the [[lore-khelathiclt|Khelathi]], temple scribes keep The Reading at the 
 : The Reading at the Weighing {#reading}
 
 ::: {.verse form=litany lang=en work=reading}
-Let the followers hear./
-Let the household enter. Let the creditor enter./
-[The reader names the year of the reign, the season, the day, and the dead.]{.direction}/
-One person of this household goes down to the West./
-The reader carries the account that remains out of Gar-Halzi./
-Here the reader reads only the writing. He reads nothing unwritten./
-..In the record.
+_Shelmu zeten._ Let those who follow hear./
+Let the household come in; let the creditor come in./
+_\[The reader names the year of the reign, the season, the day, and the dead.\]_/
+One of this house has gone down to the West./
+The account that stays behind is carried out of the temple./
+What is written is read here; nothing unwritten is read./
+..Entered./
 
-Two accounts stand open at the Weighing./
-Gar-Halzi keeps one. The gods keep the other./
-A witness sees the first account. A scribe writes it./
-No witness sees the second. No tablets hold it./
-The reader reads the first before you. He does not read the second here./
-The gods place their account beside ours and read it./
-..In the record.
+Two accounts are opened when the heart is weighed./
+One is kept by the temple; one is kept by the gods./
+The first a witness saw, and a scribe took it down./
+The second no witness saw, and no tablet holds it./
+The first is read before you; the second is not read here./
+The gods set theirs beside ours, and the gods read it./
+..Entered./
 
-A witness sees the promise; a scribe writes it. The entry opens./
-A witness sees the outcome; a scribe writes it. The entry closes./
-If the promiser performs, the entry closes. If he settles the debt, it closes./
-If the creditor releases the promiser, it closes. If another takes on the debt, it closes./
-A pending entry is not closed. If no one knows the outcome, the entry is not closed./
-Four doors close an entry. There is no fifth door./
-..In the record.
+An entry is opened when the promise is witnessed and written./
+An entry is closed when the outcome is witnessed and written./
+It closes when he performs; it closes when he settles./
+It closes when he is released; it closes when another assumes./
+What hangs does not close; what no one can account for does not close./
+Four doors shut an entry, and there is no fifth./
+..Entered./
 
-A lease may go to a son. A dyke may go to a daughter./
-A debt may go to a brother. A fostering may go to a sister./
-A marriage may not pass. A promise of silence may not pass./
-No other person can carry the promiser’s undertaking about their own being in the promiser’s place./
-Such an undertaking closes only through performance or release. Through nothing else./
-..In the record.
+A lease may pass to a son; a dyke may pass to a daughter./
+A debt may pass to a brother; a fostering may pass to a sister./
+A marriage does not pass; a silence kept does not pass./
+What a man undertook to be, no other may carry for him./
+Those close by performing, or by release, and by nothing else./
+..Entered./
 
-[Here the reader takes up the tablets and reads the entries by their dates, the oldest first.]{.direction}/
-For each entry the reader reads its date, its promiser and its creditor./
-For each entry he reads its promise and its outcome./
-He also reads the grain in Gar-Halzi’s storehouse under the dead person’s name./
-He also reads the grain represented by a chit under Gar-Halzi’s seal./
-If the outcome is in the writing, the reader says:/
+_\[Here the reader takes up the tablets and reads the entries by their dates, the oldest first.\]_/
+Of each entry the date is read, and the parties to it./
+Of each entry the promise is read, and what became of it./
+What the granary holds in the name of the dead is read with the rest./
+What a chit bears under a temple's seal is read with the rest./
+Where the outcome is written, the reader says:/
 ..Closed./
-If the outcome is absent from the writing, the reader says:/
-..Open.
+Where the outcome is blank, the reader says:/
+..Open./
 
-[At an open entry the reader stops, and the party is called.]{.direction}/
-Stand, creditor of the dead. We ask you./
-Do you say, I need no more? The scribe writes this./
-Do you say no? That is permitted. The scribe writes this./
-You lose nothing for your no. Your no is in the record./
-You give up the debt for your yes. We remember your name./
-..Open or closed, as you say.
+_\[At an open entry the reader stops, and the party is called.\]_/
+You to whom the dead owes: stand, and be asked./
+Will you say _I require no more_? The scribe writes it./
+Will you say no? It is lawful, and the scribe writes it./
+Your no costs you nothing, and your no is entered./
+Your yes costs you what was owed, and your name is remembered./
+..Open, or closed, as you have said./
 
-If the dead person’s property is insufficient, we call the heir./
-The creditor stands beside him. The household watches him./
-Do you take on the debt that the property cannot cover?/
-If you take it on, the entry closes in the dead person’s account and opens in yours./
-If you refuse, the dead person goes down short on this. That too is permitted./
-A father’s fault is not a son’s fault. A debt goes to an heir only through the heir’s consent./
-..In the record.
+Where the estate falls short, the heir is called./
+The creditor stands with him, and the household watches him./
+Will you assume what the estate could not cover?/
+If you assume, it closes in the dead's account and opens in yours./
+If you decline, the dead goes in short on it, and that too is lawful./
+A father's failure is no flaw in a son; a debt descends by consent./
+..Entered./
 
-If the dead person calls in a debt at the Closing, it passes to the heirs./
-An open debt goes down to the West with the dead person. They did not call it in at the Closing./
-Bread given in a bad cold season stands to the giver’s credit./
-Kindness that does not return stands to the giver’s credit./
-Close a debt you owe. Do not close a debt another owes you./
-We wish someone to say of her, she closes well; of him, he goes down with a debt owed to him./
-..In the record.
+What the dead called in at the [Closing]{.name data-type="lore/custom" lang=en} passes to the heirs./
+What the dead left open at the Closing goes down with the dead./
+The bread given in a bad winter stands to the credit of the giver./
+The kindness never returned stands to the credit of the giver./
+Close what you owe; leave open what is owed to you./
+May it be said of her, _she closed well_; of him, _he went down owed_./
+..Entered./
 
-The reading ends. The tablets and the dead person go down into the coffin./
-Gold runs out in the West. The tablets keep paying./
-We place property in the coffin for life there. We place the account there for the Weighing./
-A hand lifts the gold. The dead person becomes poor./
-A hand lifts the tablets. The hand destroys the dead person./
-..In the record.
+The reading is ended, and the tablets go down with the body./
+Gold runs out in the West; the tablets go on paying./
+The goods were put in for the life there; the account was put in for the scale./
+A hand that lifts the gold makes the dead poor./
+A hand that lifts the tablets unmakes the dead./
+..Entered./
 
-Both accounts stand open before the council of the gods./
-The gods read our account as it is. They place theirs beside it./
-The tablets lie on the level beam. No one buys anything at the beam./
-A lord gives property to Gar-Halzi late. The gods read his account as they read his tenant’s./
-If either account is short, Algit takes the dead person. Algit, Devourer of the Dead./
-If both are closed, the dead person goes onward and enters the Zulaten./
-..In the record.
+Before the assembled gods both accounts are opened./
+Ours is read as it stands; theirs is set beside it./
+The tablets lie level on the beam, and nothing is bought at the beam./
+The lord who endowed a temple late is read as his tenant is read./
+Short on either, Algit takes the dead; Algit, the Devourer of the Dead./
+Closed on both, the dead passes on; the dead passes into the Zulaten./
+..Entered./
 
-Let the followers hear. Let the followers leave./
-Let the creditor return home. Let the heir return home./
-Today’s closed entry is closed. An open entry is open./
-The account goes West. The beam does not belong to us./
-Close a debt you owe. Do not close a debt another owes you./
-..Read and in the record.
+_Shelmu zeten._ Let those who followed go out./
+Let the creditor go home; let the heir go home./
+What was closed today is closed; what is open is open./
+The account goes West, and the scale is not ours to hold./
+Close what you owe; leave open what is owed to you./
+..Read, and entered.
 :::
 
 ::: {.verse form=litany lang=khel enc=khelqalezuenc work=reading}
 shelmu zeten./
-galun garqen. galun zeqatar./
-[raznan zethular qazlun, kalqet, tharen ta genar wathet.]{.direction}/
-yarul genar lazen elu garqen nizar ez ithnar./
-tuqath zethular halzi, thalel qu, nyar gar-halzi./
-zethul zethular laz zethu zun. khez zethul saru temun khez zethu./
-..ezu zethu·
+galun garqen‼ galun zeqatar‼/
+[raznan zethular qazlun, kalqet, tharen ta wathet.]{.direction}/
+nyar garqen eqar, lazen ez ithnar./
+nyar galar elu nelgir, halzi ez zun./
+zethul nazun laz zethu. khez zethul nazun leqar./
+..ezu zethu.
 
-wanel halzi khul galut ezu kalun elu halzat./
-lagath gar-halzi lazen, lagath nelgiru leqar lazen./
-zuren zurenar halzi lazret. zethal zethu qu./
-khez zuren zurenar leqal halzi khulret. khez walet zethqen qu./
-zethul zethular halzi lazret zamar telu. khez zethul saru halzi khulret zun./
-qalath nelgiru halzi elu naru qarmel halzi elu nazun. zethul naru qu./
-..ezu zethu·
+ezu halzat elu halzi, halzi khul./
+lagath nelgiru lazen. lagath galar leqar./
+qu elu galar, zuren zurenar qu. zethal zethuar qu./
+qu elu nelgiru, khez zurenar, khez zethqen./
+zethul nazun laz lazret zamar telu./
+qalath nelgiru elu naru qarmel elu nazun. zethul naru qu./
+..ezu zethu.
 
-zuren zurenar qelqet, zethal zethu qu. wanel zethat galut./
-zuren zurenar qelqarnat, zethal zethu qu. wanel zethat galet./
-qamaru qelaz qelathar qelqet, tharun galath zethat. qamaru qazet saru zeqat, tharun galath zethat./
-qamaru wazal zeqatar qelathar, tharun galath zethat. qamaru zeqath genar leqar zeqat, tharun galath zethat./
-khez wanel zethat qelmar galet. qamaru khez rethal genar leqal qelqarnat, tharun khez wanel zethat galet./
-galath galmun tuzar zethat. khez alqar galmun elu chalen./
-..ezu zethu·
+zuren zurenar qelqet. zethal zethuar qu. galut./
+zuren zurenar qelqarnat. zethal zethuar qu. galet./
+qelaz saru. qazet saru. galet./
+wazal zeqatar saru. zeqath leqar qu. galet./
+khez galath qelmar. khez galath temun khez mazret./
+galmun tuzar ez galathnet. khez alqar chalen./
+..ezu zethu.
 
-lemel qamzun yarul ez malen qarenar. lemel qalthar yarul ez malen mathenar./
-lemel zeqat yarul ez linetun. lemel malqel yarul ez linetar./
-khez lemel mernet yarul. khez lemel qelqet elu khashat elqar yarul./
-khez dunel genar leqar tuqath halqel elu qelathar az garel elu qelathar./
-wanel halqel galet laz qer elu qelaznet lu wazlat. khez qer elu temun leqar./
-..ezu zethu·
+qamzun ez malen qarenar. qalthar ez malen mathenar./
+zeqat ez linetun. malqel ez linetar./
+mernet? khez zeqath leqar qu. khashat elqar? khez zeqath leqar qu./
+halqel elu genar, laz saru tuqath qu./
+laz qelaznet, laz wazlat ez galathnet./
+..ezu zethu.
 
-[qathal zethular zethqen zun. zethul saru zethat lazet ta tharen elu qu.]{.direction}/
-zethul zethular tharen elu zethat lazet ta qelathar ta zeqatar./
-zethul saru qelqet elu zethat lazet ta qelqarnat elu qu./
-zethul saru tan mazgar ezu habtun elu gar-halzi elu rethan elu genar wathet./
-zethul saru tan mazgar elu zethqel nuqar qathur elu gar-halzi./
-qamaru alqar qelqarnat ezu zethu, tharun razel zethular./
-..galet·/
-qamaru khez alqar qelqarnat ezu zethu, tharun razel zethular./
-..galut·
+[qalzel zethular zethqen. zethul saru thelin lazret.]{.direction}/
+qazlun ta qelathar, qelqet ta qelqarnat./
+zethul saru lazet az qazlun elu qu./
+mazgar az habtun ezu rethan elu wathet, ta leqar./
+zethqel nuqar qathur elu galar, ta leqar./
+qelqarnat ezu zethu. razel zethular./
+..galet./
+khez qelqarnat ezu zethu. razel zethular./
+..galut.
 
-[az zethat galut thalet zethular. razer saru zeqatar.]{.direction}/
-tharel telu, zeqatar elu genar wathet. razal nazun telu./
-qe razel telu khez tamral nazu tazir. zethal zethu eqar./
-qe razel telu khe. wanel eqar lemet. zethal zethu eqar./
-khez zerath telu temun qaral khe elu telu. wanel khe elu telu ezu zethu./
-zerath telu zeqat qaral enu elu telu. rethur nazun rethan elu telu./
-..galut lu galet, qel razel telu·
+[thalet zethular az zethat galut. razer saru zeqatar.]{.direction}/
+tharel telu, zeqatar elu wathet‼ razal nazun telu./
+qe razel telu «khez tamral nazu tazir»? zethal zethuar qu./
+qe razel telu khe? wanel khe lemet. zethal zethuar qu./
+khez zerath telu temun. zethal zethuar khe elu telu./
+zerath telu zeqat. rethur nazun rethan elu telu./
+..galut lu galet, qel razel telu.
 
-qamaru khez wanel qamret elu genar wathet qemet, tharun razer nazun qamretar./
+khez qemet qamret. razer telu qamretar‼/
 tharel zeqatar qarmel saru. zurat lagath garqen saru./
-qe zeqath telu zeqat, khez wanel qamret qemet./
-qamaru zeqath telu qu, tharun wanel zethat galet ezu halzi elu genar wathet ta wanel zethat galut ezu halzi elu telu./
-qamaru khezel telu, tharun yarul genar wathet nizar ez ithnar khez qemet ezu eqar. wanel tan eqar lemet./
-khez wanel qaznel elu qathun qaznel elu malen qarenar. yarul zeqat ez qamretar laz qer elu qerethalnet elu saru./
-..ezu zethu·
+qe zeqath telu zeqat, khez qemet qamret?/
+enu. galet ezu halzi elu wathet. galut ezu elu telu./
+khe. yarul wathet khez qemet. wanel khe lemet tan./
+khez wanel qaznel elu qathun qaznel elu malen./
+laz qerethalnet, zeqat ez qamretar./
+..ezu zethu.
 
-qamaru zeqmar genar wathet zeqat ezu kalun elu galathal, tharun yarul qu ez qamretar./
-yarul zeqat galut ta genar wathet nizar ez ithnar. khez zeqmar genar wathet qu ezu kalun elu galathal./
-wanel tamzel elu nelmat ezu kalqet khumil laqet halqat elu nelazar./
-wanel amzel, khez yalun qu, halqat elu nelazar./
-galath telu zeqat, zeqel telu qu. khez galath telu zeqat, zeqel genar leqar qu ez telu./
-tamren nazun razel genar galath sari leqet. tamren nazun razel genar yarul saru nizar ez ithnar, zeqat ez saru./
-..ezu zethu·
+zeqmar wathet qu az galathal, qu ez qamretar./
+thalal wathet qu galut, qu ez ithnar ta saru./
+tamzel elu nelmat az kalqet khumil laqet, halqat elu nelazar./
+amzel khez yalret, halqat elu nelazar./
+galath telu zeqat elu telu‼ thalal telu zeqat ez telu galut‼/
+razel genar «galath sari leqet». razel genar «yarul saru nizar, zeqat ez saru»./
+..ezu zethu.
 
-telath zethulnet. yarul zethqen ta genar wathet nizar ez zelzin./
+telath zethulnet. zethqen ta malqat ez zelzin./
 telath qenuwa ezu ithnar. thalal zethqen qazet./
-qalath nazun qamret az zelzin ez qarun elu algunet zanu. qalath nazun halzi az zelzin ez qarun elu halzat./
-qalzel thalmu qenuwa. waleth genar wathet qenzil./
-qalzel thalmu zethqen. qezathun thalmu genar wathet./
-..ezu zethu·
+qamret ez algunet. halzi ez halzat./
+lamath thalmu qenuwa. waleth wathet qenzil./
+lamath thalmu zethqen. qezathun thalmu wathet./
+..ezu zethu.
 
-wanel halzi khul galut zamar genzet elu nelgiru./
-zethul nelgiru halzi elu nazun qel qu. qalath naru halzi elu naru qarmel qu./
-qaleth zethqen elu halzathal qemlun. khez zuwel genar temun az halzathal./
-nelaz zabu qamret ez gar-halzi mer kalun qemet. zethul nelgiru halzi elu saru qel halzi elu qamzunar elu saru./
-qamaru wanel lazen elu khul khez qemet, tharun qathal algit genar wathet. algit, tamular elu genar wathet./
-qamaru wanel khul zamat galet, tharun yarul genar wathet zamar. galun genar wathet ezu zulaten./
-..ezu zethu·
+galuth nelgiru halzi khul zamar genzet./
+zethul naru elu nazun qel qu. qalath naru elu naru qarmel qu./
+kelath zethqen qemlun az halzathal. khez zuwel genar temun zun./
+nelgen zabu ez galar mer kalun qemet. zethul nelgiru saru qel qamzunar elu saru./
+khez qemet lazen elu khul. qathal algit wathet. algit, tamular elu wathet./
+galet khul zamat. yarul wathet zamar, ezu zulaten./
+..ezu zethu.
 
-shelmu zeten. galen laqenar./
-yalun zeqatar ez galar. yalun qamretar ez galar./
-wanel zethat galet elu tharen elu kalzu galet. wanel zethat galut galut./
-yarul halzi ez ithnar. khez qamarun halzathal ez nazun./
-galath telu zeqat, zeqel telu qu. khez galath telu zeqat, zeqel genar leqar qu ez telu./
-..zethulnet ta ezu zethu·
+shelmu zeten. galen laqenar‼/
+zeqatar ez galar. qamretar ez galar./
+galet elu tharen elu kalzu, galet. galut, galut./
+halzi ez ithnar. khez qamarun halzathal ez nazun./
+galath telu zeqat elu telu‼ thalal telu zeqat ez telu galut‼/
+..zethulnet ta ezu zethu.
 :::
 
 ## See Also

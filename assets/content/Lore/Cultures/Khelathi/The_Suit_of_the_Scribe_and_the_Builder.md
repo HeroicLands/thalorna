@@ -30,52 +30,52 @@ The players of [[affiliation-linshelunthb|Lin'Shelun elu Thuba'i]] play **The Su
 
 The suit is the gods' own. Saq'aru raised the first house on [[place-yathtelgu|Yath-Telgu]] before there was anyone to live in it, Reth'Sa'ar entered it as his, and [[lore-qearetdty|Qe'aret]] heard the two of them. The players hold the two gods to be brothers, where the temples call them complements in constant and productive argument, and the whole of the comedy is procedure: who may witness, which hand, the weight of a brick against the weight of a tablet, and the four doors through which an entry closes.
 
-The text below is the collective's working roll, cues and all, with the drum's rests marked at the stop in each name of the Twelve, a scene cut and marked as not to be played before the Thaz'Lekhau of [[affiliation-thubai|Thuba'i]], and a note in a player's hand. The suit dates nothing and belongs to no reign. The roll is of this age, [[lore-akhhsmeqes|the House of Meqes]], and the suit is played every Harvest in it.
+The text below is the collective's working roll, cues and all, with the drum's rests marked at the stop in each name of the Twelve, a scene cut and marked as not to be played before the Thaz'Lekhau of [[affiliation-thubai|Thuba'i]], and a note in a player's hand. The suit dates nothing and belongs to no reign. The roll is of this age, [[lore-akhhsmeqes|the House of Meqes]], and the suit is played every Harvest in it. The Khelathi song holds sixteen syllables to a line; the repeated shoulder response divides into two equal bars.
 
-_\[The working roll of Lin'Shelun elu Thuba'i for Harvest feasts. Throughout, the drum pauses at the catch in every name of the Twelve. Players must give it time. Serve beer to the front benches before the Speaker rises. Leave the song until last to keep people here.\]_
+_\[The roll of the players of Lin'Shelun elu Thuba'i, for the Harvest feasts. The drum rests at the stop in every name of the Twelve, here and throughout, and the players do not hurry it. The beer goes to the front benches before the Speaker stands. The song is at the end, so nobody leaves.\]_
 
 ## The Speaker
 
-_\[Standing on a bench, cup in hand, the Speaker reads the roll. He remains standing until the Scale leaves.\]_
+_\[The Speaker stands on a bench with a cup in his hand and reads from the roll. He does not sit until the Scale has been carried out.\]_
 
 ::: {.verse form=genzat lang=en work=the-suit-of-the-scribe-and-the-builder-1}
-Shelmu zeten. Hear, everyone who has eaten; everyone still eating, chew softly. Here is a genzat, a lawsuit. Its parties are gods, perfectly able to stand for themselves. They will stand for a considerable time tonight. Saq'aru makes things. Reth'Sa'ar records their making. Between them Qe'aret operates the scale. This earliest suit was heard on the earliest ground: the river mound at Galezkara before Galezkara surrounded it, before the valley had anyone capable of losing it. You have all lost lawsuits. Tonight two gods lose the same lawsuit. [Wait.]{.direction}
+_Shelmu zeten._ Let those who have eaten hear, and let those still eating chew quietly. This is a _genzat_, a suit, and the parties are gods, so nobody here need stand for them; they can stand for themselves, and tonight they will stand a long time. Saq'aru, who shapes a thing. Reth'Sa'ar, who writes down that it was shaped. Between them Qe'aret, who does the scale. It is the first suit there ever was, and it was heard on the first ground, on the mound in the river at [[place-galezkara|Galezkara]] before there was a Galezkara to put round it, and before there was anybody in the valley to lose it. Every one of you has lost a suit. Tonight you will watch two gods lose the same one. _\[Wait for it.\]_/
 
-The song comes last. The beer is here already. To get one, you must sit through the other.
+The song is at the end. The beer is already here. Nobody gets the one without sitting through the other.
 :::
 
 ::: {.verse form=genzat lang=khel enc=khelqalezuenc work=the-suit-of-the-scribe-and-the-builder-1}
-shelmu zeten. khashath genar elu tamnet telnethet. tamul genar elu tamnet khazil. wanel eqar genzat. wanel qelathar nelgiru. khez qelan genar zun tharel az garel elu naru. dunel naru tharel qezunet. agu tharel naru ezu kalun thalen ezu qeznar eqar. saq'aru, temal saru temun. reth'sa'ar, zethal saru temalnet elu qu. qarmath naru qe'aret. tamel sari halzat. wanel eqar genzat lazret elu kalun temun. khashel genzet qu az gharen lazret az yathar ezu igelu az galezkara. khez alqar galezkara az kalun eqar. khez alqar genar ezu igelar ez zerath qu. zerath telu temun genzat. zuren telu nelgir khul zerath genzat qemel ezu qeznar eqar. [yalmet telu.]{.direction}
+shelmu zeten. khashath genar elu tamnet telnethet. tamul genar elu tamnet khazil. wanel eqar genzat. wanel qelathar nelgiru. khez qelan genar zun tharel az garel elu naru. dunel naru tharel qezunet. agu tharel naru ezu kalun thalen ezu qeznar eqar. saq'aru, temal saru temun. reth'sa'ar, zethal saru temalnet elu qu. qarmath naru qe'aret. tamel sari halzat. wanel eqar genzat lazret elu kalun temun. khashath genzet qu az gharen lazret az yathar ezu igelu az galezkara. khez alqar galezkara az kalun eqar. khez alqar genar ezu qedzar ez zerath qu. zerath telu temun genzat. zuren telu nelgir khul zerath genzat qemel ezu qeznar eqar. [yalmet telu.]{.direction}
 
 wanel shelun az telnet. wanel qalnaz zun kalzu. khez lamath genar lazen nyar khashat elu leqar.
 :::
 
 ## The House
 
-_\[The mound consists of three steps and a plank, surrounded by cloth painted as water. The Builder climbs with one brick under each arm and a third between his teeth. Drum, with the pause at his name.\]_
+_\[The mound: three steps and a plank, with the water painted on cloth around it. The Builder enters up the steps with a brick under each arm and a third in his teeth. The drum, and the drum rests at his name.\]_
 
 ::: {.verse form=genzat lang=en work=the-suit-of-the-scribe-and-the-builder-2}
-Saq'aru rose from water onto new, wet, unoccupied ground. He disliked its emptiness. He walked its length and measured it with his forearm, elbow to middle fingertip. No other cubit existed: his arm became the cubit, and every valley survey rod copies it. He took bank mud, pressed it into the frame of his hands, and set it in sunlight. The sun dried the first brick. He made another, then thirty, another thirty, and thirty above them, counting throughout. A builder who omits counting merely owns a heap.
+Saq'aru came up out of the water onto the new ground, and the ground was wet, and there was nothing on it, and he did not like that. He walked the mound end to end. He measured it with his arm from the elbow to the end of the middle finger, there being no other cubit, so that his arm is the cubit and every survey rod in the valley is a copy of his forearm. He took the mud of the bank and pressed it in a frame he made of his two hands, and set it in the sun, and the sun dried it, and that was a brick. He made another. He made thirty, and thirty, and thirty on those, and he counted them as he went, because a builder who does not count is a man with a heap.
 :::
 
 ::: {.verse form=genzat lang=khel enc=khelqalezuenc work=the-suit-of-the-scribe-and-the-builder-2}
-yaler saq'aru zar nyar qalu ez gharen nevar. wanel gharen qalet. khez alqar temun az qu. khez qamar saru zamet elu eqar. tarul saru nyar telnet lazen elu yathar ez leqar. mazel saru qu qer elu thulun elu saru nyar thulqet ez telnet elu thalmin qarmen. khez alqar mazgar elu thulun leqar. wanel thulun elu saru mazgar. wanel mazelqet temun ezu igelar zelqet elu thulun elu saru. lamath saru qedmal elu galthar. qezmel saru qu ezu qezqar elu thalmu khul elu saru. qalath saru qu az thelqen. qezlar thelqen qu. wanel qu galqat. temal saru leqar. temal saru 30 ta 30 ta 30 zar naru. mazath saru naru ezu kalun elu temalnet. qamaru khez mazath muzanar, wanel saru genar elu qalmar.
+yaler saq'aru zar nyar qalu ez gharen nevar. wanel gharen qalet. khez alqar temun az qu. khez qamar saru zamet elu eqar. tarul saru nyar telnet lazen elu yathar ez leqar. mazel saru qu qer elu thulun elu saru nyar thulqet ez telnet elu thalmin qarmen. khez alqar qemul leqar. wanel thulun elu saru mazgar. wanel mazelqet temun ezu qedzar zelqet elu thulun elu saru. lamath saru qedmal elu galthar. qezmel saru qu ezu qezqar elu thalmu khul elu saru. qalath saru qu az thelqen. qezlar thelqen qu. wanel qu galqat. temal saru leqar. temal saru gerun khul ta gerun ta gerun khul ta gerun ta gerun khul ta gerun zar naru. mazath saru naru ezu kalun elu temalnet. qamaru khez mazath muzanar, wanel saru genar elu qalmar.
 :::
 
-_\[He lays bricks while speaking. Boys behind the painted-cloth wall raise its frame with the count. An actual door in an actual frame is carried in by a man who stays inside it throughout.\]_
+_\[He lays the bricks as he speaks. The wall is a painted cloth on a frame, raised from behind by the boys as the count goes up. The door is a real door in a real frame, carried on by a man who stays inside it for the whole play.\]_
 
 : The Builder's Boast {#boast}
 
 ::: {.verse form=genzat lang=en work=boast}
-My forearm measured the ground, elbow to fingertip./
-No other cubit existed. The cubit is mine./
-I took bank mud and pressed it between my framing hands./
-Sun dried it into a brick, the first anyone had seen./
-Thirty, thirty, thirty above. I counted. They form a wall./
-Four standing walls, roofed with reeds to exclude rain./
-Rain has yet to exist. The roof excludes it anyway; that is its purpose./
-A front door admits you. The back has none./
-Nobody has thought of departure.
+I measured the ground with my arm, from the elbow to the end of the finger./
+There was no other cubit. Mine is the cubit./
+I took the mud of the bank and I pressed it; I pressed it in a frame of my hands,/
+and the sun dried it, and that is a brick, and nobody had seen one before./
+Thirty bricks and thirty, and thirty on those. I counted them. They are a wall./
+Four walls, and they stand. A roof of reed on the walls, and it keeps off the rain,/
+there being as yet no rain. It keeps it off anyway. That is what a roof is for./
+A door at the front, for going in. There is no door at the back./
+Nobody has yet thought of leaving.
 :::
 
 ::: {.verse form=genzat lang=khel enc=khelqalezuenc work=boast}
@@ -83,8 +83,8 @@ mazel nazu gharen qer elu thulun, nyar thulqet ez telnet elu thalmin./
 khez alqar mazgar leqar. wanel elu nazu mazgar./
 lamath nazu qedmal elu galthar. qezmel nazu qu ezu qezqar elu thalmu./
 qezlar thelqen qu. wanel qu galqat. khez zuren genar qu mar eqar./
-30 galqat ta 30 ta 30 zar naru. mazath nazu naru. wanel naru galzat./
-tharel galzat tuzar. wanel galzur elu sheqet zar naru. lagath qu galar nyar shazal./
+gerun khul ta gerun galqat ta gerun khul ta gerun ta gerun khul ta gerun zar naru. mazath nazu naru. wanel naru galzat./
+tharel galzat tuzar. wanel galzur elu shequn zar naru. lagath qu galar nyar shazal./
 khez alqar shazal ethel. thal lagath qu galar. wanel eqar qarun elu galzur./
 wanel galmun az zamar ez qarun elu galun. khez alqar galmun az nazar./
 khez rethas genar yarath ethel.
@@ -93,9 +93,9 @@ khez rethas genar yarath ethel.
 _\[…\]_
 
 ::: {.verse form=genzat lang=en work=the-suit-of-the-scribe-and-the-builder-4}
-Look at this house. Where none existed, one exists./
-Let anyone claim it stood before. Nobody stood here before./
-I stood here before. I say it did not.
+Behold the house. There was none, and there is one./
+Let anyone say it was there before. Nobody was there before./
+I was there before, and I say that it was not.
 :::
 
 ::: {.verse form=genzat lang=khel enc=khelqalezuenc work=the-suit-of-the-scribe-and-the-builder-4}
@@ -104,10 +104,10 @@ razel shel wanel qu zun mar eqar. khez alqar shel zun mar eqar./
 alqar nazu zun mar eqar. razel nazu khez alqar qu·
 :::
 
-_\[He tries the sticking door, pushes his shoulder against it, and opens it. Wait for laughter.\]_
+_\[He tries the door. It sticks. He puts his shoulder to it. It opens. Laughter here; wait for it.\]_
 
 ::: {.verse form=genzat lang=en work=the-suit-of-the-scribe-and-the-builder-5}
-He had hung the door before its lintel dried: earth's first hurried job. A shoulder opened it. He entered, came out, folded his arms before his house, and waited for someone to admire it. Nobody existed. He waited longer.
+The door stuck, because he hung it before the lintel had dried, and that was the first thing on this earth that was done in a hurry. He put his shoulder to it and it opened, and he went in, and he came out again, and he stood in front of his house with his arms folded and waited for somebody to see it. There was nobody. He waited some more.
 :::
 
 ::: {.verse form=genzat lang=khel enc=khelqalezuenc work=the-suit-of-the-scribe-and-the-builder-5}
@@ -116,190 +116,292 @@ qezmer galmun qaral qalath saru qu mar qezlar lintar. wanel eqar tamelnet lazret
 
 ## The Entry
 
-_\[Throughout, the Scribe has sat at the mound's edge, feet dangling into painted water, writing on a tablet on his knee. He looks up only at the Builder's shout.\]_
+_\[The Scribe has been sitting on the edge of the mound the whole time, with his feet over the side in the painted water and a tablet on his knee, writing. He does not look up until the Builder shouts.\]_
 
 ::: {.verse form=genzat lang=en work=the-suit-of-the-scribe-and-the-builder-6}
-Reth'Sa'ar had sat there writing since the ground rose. With his tablet bag, palette, and reed he had produced one entry: Ground. Empty.
+Reth'Sa'ar was sitting on the edge of the mound with his feet in the water, writing. He had been there since the ground came up. He had a satchel of tablets, a palette, and a reed, and he had made one entry, and it said: _Ground. Empty._/
 
-Builder. Record it./
-Scribe. Already recorded. I entered the mound: Ground. Empty. Yesterday's entry. Today I intended Ground. Still empty. I look up and find a house./
-Builder. Enter the house, then./
-Scribe. Who witnessed it?/
-Builder. You, sitting there./
-Scribe. I was writing. Writing makes a scribe; watching makes a witness. One man cannot perform both simultaneously, or every valley scribe could witness his own entries and no tablet anywhere along the river would deserve trust. There is one of me. I was the scribe. No witness means no entry. Without an entry, your thing stands on ground entered as empty./
-Builder. And?/
-Scribe. And my tablets are wetting. A roof covers empty ground. A roof over empty ground is a roof.
+"Write it down," said the Builder./
+
+"I have written it down," said the Scribe. "I wrote the mound. _Ground. Empty._ That was yesterday. Today I was going to write _Ground. Still empty_, and I look up, and there is a house on it."/
+
+"Then write the house."/
+
+"Who witnessed it?"/
+
+"You did. You were sitting there."/
+
+"I was writing. A man who is writing is a scribe. A man who is watching is a witness. I cannot be both at once, or every scribe in the valley would be the witness to his own entries, and you could not trust a tablet from one end of the river to the other. There is one of me, and I was the scribe. So there was no witness, and what has no witness is not entered, and what is not entered stands on ground that is entered as empty."/
+
+"And?"/
+
+"And my tablets are getting wet, and there is a roof on the empty ground, and a roof on empty ground is a roof."
 :::
 
 ::: {.verse form=genzat lang=khel enc=khelqalezuenc work=the-suit-of-the-scribe-and-the-builder-6}
-galel reth'sa'ar az telnet elu yathar ta wanel pedar ezu qalu. zethal saru narel yaler gharen zar. qamar saru shenar elu zethqen, zethqal ta sheqet. zethal saru zethat lazen. razel qu. gharen. khez temun.
+galel reth'sa'ar az telnet elu yathar ta wanel pedar ezu qalu. zethal saru narel yaler gharen zar. qamar saru shenar elu zethqen, zethqal ta shequn. zethal saru zethat lazen. razel qu. gharen. khez temun.
 
 razel muzanar. zethal telu qu./
+
 razel zethuar. telath nazu zethal qu. zethal nazu yathar. gharen. khez temun. wanel eqar tharen mar tharen elu kalzu. qaruth nazu zethal kalzu. gharen. thalal khez temun. zuren nazu zar. wanel galar az qu./
+
 razel muzanar. zethal telu galar tharun./
+
 razel zethuar. zuren shel qu./
+
 razel muzanar. telu. galel telu zun./
-razel zethuar. zethal nazu. wanel zethuar zethuar. wanel zurenar zurenar. khez dunel nazu khul ezu kalun qemel. qamaru dunel nazu, tharun wanel zethuar lazet ezu igelar zurenar elu zethat elu qezunet. khez dunel telu qelmun zethqen nyar telnet elu igelu ez leqar. alqar nazu lazen. wanel nazu zethuar. khez alqar zurenar. khez zethal nazun temun khez zurenar. wanel temun khez zethat az gharen. wanel zethat elu gharen khez temun./
+
+razel zethuar. zethal nazu. wanel zethuar zethuar. wanel zurenar zurenar. khez dunel nazu khul ezu kalun qemel. qamaru dunel nazu, tharun wanel zethuar lazet ezu qedzar zurenar elu zethat elu qezunet. khez dunel telu qelmun zethqen nyar telnet elu igelu ez leqar. alqar nazu lazen. wanel nazu zethuar. khez alqar zurenar. khez zethal nazun temun khez zurenar. wanel temun khez zethat az gharen. wanel zethat elu gharen khez temun./
+
 razel muzanar. ta sher./
+
 razel zethuar. waleth zethqen elu nazu qalet. alqar galzur az gharen khez temun. wanel galzur az gharen khez temun galzur.
 :::
 
-_\[The Scribe collects his bag, shoulders the door open, and enters. The Builder remains outside his house. Wait for laughter; let him look at the benches throughout it.\]_
+_\[The Scribe gathers his satchel, goes to the door, and puts his shoulder to it, and goes in. The Builder stands outside his house. Laughter here; wait for it, and let the Builder look at the benches while it runs.\]_
 
 ::: {.verse form=genzat lang=en work=the-suit-of-the-scribe-and-the-builder-7}
-He waited outside for a brick's drying time, knocked, and received no answer: another first./
-Builder, through the door. Come out. Record my building and ownership. I will witness./
-Scribe. Parties cannot witness./
-Builder. Record it without a witness. Between us./
-Scribe. Between brothers?/
-Builder. We are brothers./
-Scribe. Brothers write nothing between themselves. Their tie holds it. Give you a tablet for your own house, and you could rightly throw it at my head./
-Builder. Something is going toward your head./
-Scribe. Throw it. Brothers do that too, without recording it.
+The Builder stood outside his house for the time it takes a brick to dry. Then he knocked, and nobody answered, and that was the first of those./
 
-The Builder sat on his step and thought like a builder: he inspected the problem from four sides./
-Builder. Make me a stranger. Enter two strangers: one built a house, one occupied it. A lawsuit./
-Scribe. You cannot be a stranger. You are my brother./
-Builder. Since when?/
-Scribe. Before when existed. Look it up./
-Builder. Where?/
-Scribe. Nowhere. I never wrote it. The world's two entries include one wrong entry. The mound entry is correct./
-Builder. Then to the scale./
-Scribe. No court exists./
-Builder. She can sit on ground. Before ground she sat on water. A mound will do.
+"Come out," he said through the door. "Write that I built it, and that it is mine, and I will witness it."/
+
+"A party cannot witness."/
+
+"Then write it without a witness. Between the two of us."/
+
+"Between the two of us? We are brothers."/
+
+"We are."/
+
+"And between brothers nothing is written. The tie holds it. If I wrote you a tablet for your own house you would be right to throw it at my head."/
+
+"I am going to throw something at your head."/
+
+"Then throw it. That is between brothers also, and nobody writes that down either."/
+
+The Builder sat on his own step. He thought about it as a builder thinks, which is to say he looked at it from four sides./
+
+"Then I am a stranger," he said. "Enter me as a stranger. A stranger built a house and a stranger moved into it, and there is a suit."/
+
+"You cannot be a stranger. You are my brother."/
+
+"Since when?"/
+
+"Since before there was a when. Look it up."/
+
+"In what?"/
+
+"In nothing. I have not written it. There are two entries in the world and one of them is wrong, and it is not the one about the mound."/
+
+"Then we go to the scale."/
+
+"There is no court."/
+
+"Then she will sit on the ground. She sat on the water before there was ground. She will manage a mound."
 :::
 
 ::: {.verse form=genzat lang=khel enc=khelqalezuenc work=the-suit-of-the-scribe-and-the-builder-7}
 tharel muzanar nazar galar elu saru qethel qezlar galqat. qezir saru galmun. khez razal genar qu. wanel eqar lazret elu temnar eqar./
+
 razel saru qazir galmun. yarath telu. zethal telu muzan nazu qu ta qamarun qu ez nazu. agu zuren nazu qu./
+
 razel zethuar. khez dunel qelathar zuren qelqet./
+
 razel muzanar. zethal telu khez zurenar. qarmath nazun khul./
+
 razel zethuar. qarmath nazun khul. wanel nazun linetun./
+
 razel muzanar. enu./
-razel zethuar. khez zethal nazun temun qarmath linetun. lagath halzel qu. qamaru zethal nazu zethqen ez telu qaral galar elu qezunet, tharun wanel qezqath elu telu ez qarnet elu nazu qenqethet./
-razel muzanar. qaruth nazu qezqath temun ez qarnet elu telu./
+
+razel zethuar. khez zethal nazun temun qarmath linetun. lagath halzel qu. qamaru zethal nazu zethqen ez telu qaral galar elu qezunet, tharun wanel qezqathnet elu telu ez qaren elu nazu qenqethet./
+
+razel muzanar. qaruth nazu qezqath temun ez qaren elu telu./
+
 razel zethuar. qezqath telu qu. wanel eqar tan qarmath linetun. khez zethal genar qu tan.
 
 galel muzanar az zengel elu qezunet. rethas saru qu qel muzanar, renan zurat saru qu nyar tarmil tuzar./
+
 razel saru. wanel nazu rethnar tharun. zethal telu nazu rethnar. muzan rethnar galar. galun rethnar qu. alqar genzat./
+
 razel zethuar. khez dunel telu wanel rethnar. wanel telu linetun elu nazu./
+
 razel muzanar. narel sher kalun./
+
 razel zethuar. narel kalun mar alqar kalun. zurat telu qu ezu zethu./
+
 razel muzanar. ezu sher./
+
 razel zethuar. ezu khezan. khez zethal nazu qu. alqar zethat khul ezu gharen temun. khez wanel lazen qenlet. khez wanel qu zethat elu yathar./
+
 razel muzanar. yarul nazun ez halzat tharun./
+
 razel zethuar. khez alqar genzet./
+
 razel muzanar. galel sari az gharen tharun. galel sari az qalu mar alqar gharen. dunel sari tamel yathar.
 :::
 
 ## The Court
 
-_\[Two boys carry the Scale's chair with its beam on a pole between them. They set it down and remain motionless, one on either side, for the entire hearing. The Scale also stays motionless. Her player drinks nothing before the song. The drum pauses at her name longer than at others.\]_
+_\[The Scale's chair is carried in: two boys with the beam on a pole between them, who set it down and then stand either side of the chair for the whole hearing and do not move. The Scale does not move either. Whoever plays the Scale does not drink until the song. The drum rests at her name, and rests longer than at the others.\]_
 
 ::: {.verse form=genzat lang=en work=the-suit-of-the-scribe-and-the-builder-8}
-Qe'aret sat on the mound, beam before her, two tablets level upon it. She had placed law upon darkness before ground existed. A mound was ground enough. Both brothers approached. So did the door, its man still inside.
+Qe'aret came and sat on the mound with the beam before her and the two tablets level on it. She had laid law on the dark before there was ground to lay it on, and a mound was ground, and ground would do. The two brothers came before her, and the door came too, because the man was still in it./
 
-Scale. Who brings the claim?/
-Both. He does./
-Scale. Which hand?/
-Builder. Right./
-Scribe. She asks the entry's hand: sacred or ordinary./
-Builder. There is one hand. Yours. Unused./
-Scribe. There are two. I distinguish them./
-Scale. The entry./
-Scribe. None exists./
-Scale. Then what stands before me?/
-Builder. A house./
-Scale. An entry stands before me, or nothing. Who wrote it?/
-Scribe. Nobody. I am a party./
-Scale. The gods' scribe is a party?/
-Scribe. Today./
-Scale. Then nobody can write today./
-Builder. Make him cease being a party./
-Scale. I operate the scale; I make nothing. Stand in your places. Plaintiff on my right, defendant on my left.
+"Who is the plaintiff?"/
+
+"He is," said both of them./
+
+"Which hand?"/
+
+"The right," said the Builder./
+
+"She means the hand the entry is in," said the Scribe. "The sacred hand or the people's."/
+
+"There is one hand," said the Builder, "and it is yours, and you have not used it."/
+
+"There are two," said the Scribe, "and I keep them apart."/
+
+"The entry," said the Scale./
+
+"There is no entry," said the Scribe./
+
+"Then what is before me?"/
+
+"A house," said the Builder./
+
+"A house is not before me. An entry is before me, or nothing is. Who wrote the entry?"/
+
+"Nobody. I am a party."/
+
+"The scribe of the gods is a party."/
+
+"Today."/
+
+"Then nobody can write today."/
+
+"Then make him not a party," said the Builder./
+
+"I do not do making. I do the scale. Stand where you belong. The plaintiff on my right. The defendant on my left."
 :::
 
 ::: {.verse form=genzat lang=khel enc=khelqalezuenc work=the-suit-of-the-scribe-and-the-builder-8}
 yaler qe'aret ta galel sari az yathar. wanel halzathal zamar sari. wanel zethqen khul qemlun az qu. qalath sari qathnetun az zekhot mar alqar gharen ez qalath qu. wanel yathar gharen. wanel gharen qemet. yaler linetun khul zamar sari. yaler galmun tan qaral thalal genar ezu qu.
 
 razel halzat. wanel genar elu qarazel shel./
+
 razel naru khul. saru./
+
 razel halzat. thalmu shal./
+
 razel muzanar. tarmal./
+
 razel zethuar. qaruth sari thalmu elu zethat. khelathi-zethu lu qalezu./
+
 razel muzanar. alqar thalmu lazen. wanel qu elu telu. khez tamel telu qu./
+
 razel zethuar. alqar khul. lagath nazu naru khezan qemel./
+
 razel halzat. zethat./
+
 razel zethuar. khez alqar zethat./
+
 razel halzat. alqar sher zamar nazu tharun./
+
 razel muzanar. galar./
+
 razel halzat. khez alqar galar zamar nazu. alqar zethat zamar nazu, lu khezan. zethal shel zethat./
+
 razel zethuar. khezan. wanel nazu qelathar./
+
 razel halzat. wanel zethuar elu nelgiru qelathar./
+
 razel zethuar. kalzu./
+
 razel halzat. khez dunel genar zethal kalzu tharun./
+
 razel muzanar. temal telu saru khez qelathar tharun./
+
 razel halzat. khez temal nazu. tamel nazu halzat. tharel telu az garel elu telu. genar elu qarazel az tarmal elu nazu. genar elu qaraznet az tarmil elu nazu.
 :::
 
-_\[Both move right, then left, around the chair's back, and meet. The beam-boys remain still.\]_
+_\[They go to her right. They go to her left. They go round the back of the chair and meet. The beam-boys do not move.\]_
 
 ::: {.verse form=genzat lang=en work=the-suit-of-the-scribe-and-the-builder-9}
-Scale. Stay still. You occupy both my sides. I have two./
-Builder. Summon the witness./
-Scribe. Nobody exists anywhere. You keep forgetting./
-Builder. I summon the door.
+"Stand still," said the Scale. "You are on both sides of me, and I have two."/
+
+"Call the witness," said the Builder./
+
+"There is nobody," said the Scribe. "There is nobody anywhere. You keep forgetting that."/
+
+"I call the door."
 :::
 
 ::: {.verse form=genzat lang=khel enc=khelqalezuenc work=the-suit-of-the-scribe-and-the-builder-9}
 razel halzat. tharel telu khez qalur. wanel telu az tarmil ta tarmal elu nazu. qamar nazu khul./
+
 razel muzanar. razer telu zurenar./
+
 razel zethuar. khez alqar genar. khez alqar genar az garun temun. rethuth telu eqar yalret./
+
 razel muzanar. razer nazu galmun.
 :::
 
-_\[Its man advances and sets the frame before the chair. The Scale inspects it. When questioned, the door sticks, opens under a shoulder, and creaks its evidence. Hold through laughter.\]_
+_\[The man with the door-frame comes forward and sets it down before the chair. The Scale looks at it. When it is asked, the door is opened, and it sticks, and it is opened with a shoulder, and it creaks. That is its evidence. Hold it while the laughter runs.\]_
 
 ::: {.verse form=genzat lang=en work=the-suit-of-the-scribe-and-the-builder-10}
-Scale. We have heard the door. It speaks as doors do./
-Scribe. Doors cannot attest. None can stand at a Reading and say, I need nothing further./
-Scale. Nobody seeks its release of a person. We asked whether it was hung. It was. You heard./
-Scribe. Then I summon the brick. It will admit being handmade without identifying the hands. No brick distinguishes divine hands; neither does anyone else./
-Scale. We have heard the brick. Set your evidence on the scale for weighing. We shall see.
+"The door is heard," said the Scale. "It says what a door says."/
+
+"A door cannot attest," said the Scribe. "A door cannot stand at a Reading and say _I require no more_."/
+
+"Nobody is asking it to release anybody. It is asked whether it was hung. It was hung. You heard it."/
+
+"Then I call the brick, which will say that it was made by hands, and will not say whose, because a brick cannot tell one god's hands from another's and neither can anybody else."/
+
+"The brick is heard," said the Scale. "Lay your evidence on the scale, and I will weigh it, and we will see."
 :::
 
 ::: {.verse form=genzat lang=khel enc=khelqalezuenc work=the-suit-of-the-scribe-and-the-builder-10}
 razel halzat. khashath nazun galmun. razel qu qel galmun./
+
 razel zethuar. khez dunel galmun rethal. khez dunel galmun tharel az zethulnet ta razel khez tamral nazu tazir./
+
 razel halzat. khez razal genar qu wazal genar. razal genar qe qalath genar qu az qezqar. qalath genar qu. khashath telu qu./
+
 razel zethuar. razer nazu galqat tharun. agu razel qu temal thalmu qu. khez razel qu elu shel. khez dunel galqat rethal thalmu elu nelgir lazen nyar leqar. khez dunel genar leqar tan./
+
 razel halzat. khashath nazun galqat. qalath telu mervel az halzat. agu halzath nazu qu. agu zuren nazun.
 :::
 
-_\[Builder places a brick in the left pan; Scribe places a tablet in the right. Beam-boys tip toward the brick and hold there.\]_
+_\[The Builder lays a brick in the left pan. The Scribe lays a tablet in the right. The beam-boys tilt the pole to the brick's side, and keep it there.\]_
 
 ::: {.verse form=genzat lang=en work=the-suit-of-the-scribe-and-the-builder-11}
-The brick outweighed the tablet. The Scribe inspected both pans, retrieved his tablet, added quantities of tiny writing, and replaced it. The beam stayed tilted./
-Scale. Clay is weighed. Words are not./
-Scribe. Then your scale cannot read./
-Scale. Reading is outside its business. Its business is weighing.
+The brick was heavier than the tablet. The Scribe looked at the pans, and then he took the tablet back, and wrote a great deal more on it, very small, and put it back. The beam stayed where it was./
 
-The Builder added a second brick, the Scribe a second tablet; a third brick followed, answered by three lighter tablets. Pans descended to the mound floor while their stacks rose. The beam refused to settle. The mound started tipping toward the greater weight.
+"The scale weighs the clay," said the Scale. "It does not weigh the words."/
+
+"Then the scale cannot read."/
+
+"The scale does not read. The scale does the scale."/
+
+So the Builder laid a second brick on the first, and the Scribe laid a second tablet on the first, and the Builder laid on a third, and the Scribe laid on three more because they were lighter, and the pans came down to the floor of the mound and the stacks went up from them, and the beam would not settle, and the mound began to tilt toward the heavier side.
 :::
 
 ::: {.verse form=genzat lang=khel enc=khelqalezuenc work=the-suit-of-the-scribe-and-the-builder-11}
 wanel galqat qemur shar zethqen. zurat zethuar qalqat. lamath saru zethqen yalret. zethal saru temun tazun az qu qemath qelzuthil. qalath saru qu yalret. thalal halzathal az garel qemel./
+
 razel halzat. halzath halzat qedmal. khez halzath qu raznet./
+
 razel zethuar. khez dunel halzat zethul tharun./
+
 razel halzat. khez zethul halzat. tamel halzat halzat.
 
 qalath muzanar galqat khulret zar lazret. qalath zethuar zethqen khulret zar lazret. qalath muzanar galqat ezu garel elu khemu. qalath zethuar zethqen khemu tan qaral qemir naru. yaler qalqat nizar ez gharen elu yathar. yaler qalmar zar nyar naru. khez qemaz halzathal. thaleth yathar ez tarmil qemur.
 :::
 
-_\[Boys behind the painted water tilt its cloth. Every player leans. Front benches lean spontaneously. Leaning beam-boys receive no pay.\]_
+_\[The boys behind the painted water lean the cloth. All the players lean. The front benches lean of themselves. If the beam-boys lean, they are not paid.\]_
 
 ::: {.verse form=genzat lang=en work=the-suit-of-the-scribe-and-the-builder-12}
-Scale. Plead before the ground overturns. Scribe first: earliest arrival, with documentary proof.
+"Plead," said the Scale, "before the ground goes over. The Scribe first, because he was here first, and has the tablets to prove it."
 :::
 
 ::: {.verse form=genzat lang=khel enc=khelqalezuenc work=the-suit-of-the-scribe-and-the-builder-12}
@@ -309,99 +411,102 @@ razel halzat. razel telu qarazel mar qarnel gharen. zethuar lazret qaral alqar s
 : The Scribe's Pleading {#pleading-scribe}
 
 ::: {.verse form=genzat lang=en work=pleading-scribe}
-Read the account exactly. Read nothing unwritten./
-Entry one. Ground. Empty./
-Water witnessed it, being present, and does not qualify./
-Entry two. Ground. Still empty. Roof above. Scribe resident./
-No house entry: neither party, witness, promise, nor outcome./
-An unentered thing stands outside this court./
-A thing outside this court is no house./
-A roofed thing that is no house is a roof./
-A roof on vacant ground is a roof on vacant ground./
-I am beneath it. My tablets stay dry./
-Show the entry; I will identify its closing door./
-His mouth claims he built it. Where is the tablet?/
-I could have written. Nobody asked. I was writing./
-If making established ownership, who would need me?/
-Every valley bricklayer would own his buildings./
-Their lords would sleep on roads beside their dogs./
-Find the ground vacant and the roof mine./
-Find my brother a stranger for this hearing alone./
-We must eat together afterward.
+Let the account be read as it stands, and let nothing unwritten be read./
+First entry. Ground. Empty./
+Witnessed by the water, which was there, and does not count./
+Second entry. Ground. Still empty. A roof on it. The scribe in residence./
+Of the house, no entry: no party, no witness, no promise, no outcome./
+What is not entered is not before the court./
+What is not before the court is not a house./
+What is not a house, and has a roof, is a roof,/
+and a roof on empty ground is a roof on empty ground,/
+and I am under it, and my tablets are dry./
+Show me the entry, and I will show you which door shuts it./
+He says he built it. He says it with his mouth. Where is the tablet?/
+I would have written it. I was not asked. I was writing./
+If making a thing made it yours there would be no need of me,/
+and every bricklayer in the valley would own the house he laid,/
+and the lord of it would be sleeping in the road with his dogs./
+Let the court find that the ground is empty, and the roof is mine,/
+and that my brother is a stranger for the length of this hearing and no longer,/
+since I have to eat with him afterward.
 :::
 
 ::: {.verse form=genzat lang=khel enc=khelqalezuenc work=pleading-scribe}
-zethul telu halzi qel wanel qu. khez zethul telu temun khez zethu./
+wanel zethqen elu nazu qezlet. wanel nazu nuqar galzur./
+wanel gharen ezu zethu khez temun. zethul telu laz qu‼/
 zethat lazret. gharen. khez temun./
-zuren qalu qu. alqar qalu zun. khez qemet qu./
-zethat khulret. gharen. thalal khez temun. galzur az qu. algun zethuar ezu qu./
-khez alqar zethat elu galar. khez qelathar, khez zurenar, khez qelqet, khez qelqarnat./
-khez wanel temun khez zethat zamar genzet./
-khez wanel temun khez zamar genzet galar./
-wanel temun khez galar ta qamar galzur galzur./
+zuren qalu qu. khez qemet zurenar eqar./
+zethat khulret. gharen. khez temun ethel./
+galzur az qu. zethuar ezu qu./
+galar? khez qelathar, khez zurenar, khez qelqet, khez qelqarnat./
+khez zethat. khez alqar temun zamar genzet./
+khez genzet, khez galar. laz galzur./
 wanel galzur az gharen khez temun galzur az gharen khez temun./
-wanel nazu nuqar qu. wanel zethqen elu nazu qezlet./
-zelath telu zethat ez nazu. agu zelath nazu galmun. galath qu zethat ez telu./
-razel saru muzan saru qu. razel saru qer elu lamur. wanel zethqen az sher garun./
-agu zethal nazu qu. khez razal genar nazu. zethal nazu./
-qamaru qamnet yarul ez temalar, tharun khez tamral genar nazu./
-qamarun galar temun ezu igelar ez galthar elu galqat./
-shamel lemunar elu qu ezu hodir ta khanur elu saru./
-wanel qarun elu nazu ez genzet. gharen khez temun. galzur elu nazu./
-wanel linetun elu nazu rethnar laz ezu kalun elu khashnet eqar./
-qelan nazu tamul ta saru mer qu·
+zelath telu zethat‼ zelath nazu galmun elu galathnet./
+razel muzanar «muzan nazu». lamur elu saru. khez zethqen./
+zethal nazu temun leqal, qamaru razal genar nazu./
+khez razal genar. zethal nazu./
+qamaru qamarun temun ez temalar, tamral shel nazu?/
+qamarun galar ez muzanar elu galqat./
+shamel lemunar ezu hodir ta khanur elu saru./
+qeran telu «gharen khez temun. galzur elu nazu»‼/
+wanel linetun rethnar laz ezu khashnet eqar./
+qelan nazu tamul ta saru mer qu.
 :::
 
 : The Builder's Pleading {#pleading-builder}
 
 ::: {.verse form=genzat lang=en work=pleading-builder}
-I made it. He handles writing./
-Brick on brick, then another above them./
-The wall witnessed everything, standing throughout./
-Ask who built it. It stays silent, a loyal wall./
-The door has spoken. It sticks equally for both, honestly./
-He demands an entry. Made by whom? He embodies entry-making./
-Feet in water, he wrote Empty/
-while I carried mud behind his head thirty times./
-Thirty, thirty, thirty above: every time he saw me./
-He denies seeing because he was writing./
-A god entering Empty while a wall rises behind him enters a lie./
-The record's god owns the record's first lie./
-Enter that. Have him enter it./
-Find the house mine: none existed until I made one./
-Find the ground occupied: I stand here carrying bricks./
-Weigh one brick against all his possessions./
-Watch which way it moves.
+I did not write it. I made it. Writing is his./
+I set a brick on a brick, and a brick on those./
+The wall is the witness. It stood there the whole time./
+Ask the wall who laid it. The wall says nothing. The wall is loyal./
+Ask the door. The door has spoken. It sticks for me and it sticks for him. It is an honest door./
+He says I should have had it entered. By whom? He is the entering./
+He sat with his feet in the water and wrote _empty_/
+while I carried mud past the back of his head thirty times./
+Thirty times, and thirty, and thirty on those. He saw me each time./
+He says he did not see. He says he was writing./
+A god who writes _empty_ with a wall going up behind him has written a lie,/
+and he is the god of the record, and the first lie in the record is his,/
+and I want that entered, and I want it entered by him./
+Let the court find that the house is mine, since there was no house and then I had made one./
+Let it find that the ground is not empty, since I am standing on it, with bricks./
+And let the scale weigh one brick against whatever he has got,/
+and see which way it goes.
 :::
 
 ::: {.verse form=genzat lang=khel enc=khelqalezuenc work=pleading-builder}
-khez zethal nazu qu. temal nazu qu. wanel zethalnet elu saru./
-qalath nazu galqat zar galqat ta galqat zar naru./
-wanel galzat zurenar. tharel qu zun ezu kalun temun./
-razal telu galzat shel qalath qu. khez razel galzat temun. wanel qu qelmunet./
-razal telu galmun. razel qu. qezmer qu ez nazu ta ez saru. wanel qu galmun qenlet./
-razel saru qelan nazu zethal qu. zethal shel. wanel saru zethalnet./
-galel saru ta wanel pedar ezu qalu. zethal saru khez temun./
-tuqath nazu qedmal nazar qarnet elu saru az kalet 30./
-30 az kalet ta 30 ta 30 zar naru. zuren saru nazu az kalet temun./
-razel saru khez zuren saru. razel saru zethal saru./
-zethal nelgir razqet, wanel galzat zar nazar saru ta zethal saru khez temun./
-wanel saru nelgir elu zethu. wanel razqet lazret ezu zethu elu saru./
-tamral nazu zethalnet elu eqar. tamral nazu zethal saru qu./
-wanel qarun elu nazu ez genzet. galar elu nazu, qaral khez alqar galar mar muzan nazu lazen./
-wanel gharen khez khez temun, qaral tharel nazu az qu ta galqat./
-halzath halzat galqat lazen qarmath qu ta temun elu saru./
-zuren nazun yarul halzathal ez tarmil shal·
+khez zethal nazu qu. muzan nazu qu./
+zethal saru. tharel galzat. wanel galzat zurenar./
+khez razel galzat temun. wanel galzat elu qelmunet./
+razal telu galmun‼ telath galmun razel./
+qezmer qu ez nazu. qezmer qu ez saru. wanel qu razqen./
+razel saru «zethal telu qu». zethal shel? wanel saru zethuar./
+pedar ezu qalu. raznet ezu zethqen. «khez temun»./
+nazu ta qedmal, nazar qaren elu saru./
+gerun khul ta gerun, ta gerun khul ta gerun, ta gerun khul ta gerun./
+zuren saru nazu az kalet temun. razel saru «khez zuren nazu»./
+razel saru «zethal nazu». wanel zethat elu saru razqet./
+qalthaz nazu galzat. zethal saru «khez temun»./
+wanel saru nelgir elu zethu. wanel razqet lazret elu saru./
+zethal telu qu, telu qezunet‼/
+khez alqar galar. muzan nazu lazen. qamarun qu ez nazu./
+tharel nazu az gharen ta galqat. khez wanel gharen khez temun./
+qalath telu galqat lazen az halzat‼/
+qalath telu temun elu saru az leqar qalqat‼/
+zurat telu yarnet elu halzathal‼
 :::
 
 ## The Beer
 
-_\[Thuba'i enters from the kitchen with jars against both hips. A boy follows with the third. Use the collective's fattest player, padding him if necessary. Address benches as readily as court. Pause the drum at his name. He waits because he enjoys it.\]_
+_\[Thuba'i enters from the kitchen side with a jar on each hip and a boy behind him with a third. He is the fattest player the collective has, and if he is not fat he is padded. He speaks to the benches as much as to the court. The drum rests at his name, and he waits for it, because he likes it.\]_
 
 ::: {.verse form=genzat lang=en work=the-suit-of-the-scribe-and-the-builder-15}
-Thuba'i had heard the pleading from his kitchen and emerged to inspect the purchase.
+[[lore-thubaidty|Thuba'i]] had heard the pleading from the kitchen, where he was, and he came out to see what was being bought./
 
-Thuba'i. A hearing? I hear it from the kitchen. Dry pleading shuts the throat and loses the case. Builder, a jar, on account. Scribe, another, on account. You know how to enter it.
+"Is this a hearing? I can hear it from the kitchen. Nobody pleads dry; the throat closes and the case goes with it. Builder, a jar. It is on account. Scribe, a jar. On account. You will know how to enter it."
 :::
 
 ::: {.verse form=genzat lang=khel enc=khelqalezuenc work=the-suit-of-the-scribe-and-the-builder-15}
@@ -410,60 +515,62 @@ khashath thuba'i qarazelnet nyar temgal. yarath saru ez zuren sher qamar qenmet.
 razel saru. qe wanel eqar khashnet. dunel nazu khashath qu nyar temgal. khez razel genar qarazel qezlet. galath lazmar ta yarul genzat ta qu. muzanar, qallun. ezu halzi. zethuar, qallun. ezu halzi. rethal telu zethal qu.
 :::
 
-_\[The Builder pays.\]_
+_\[He is paid by the Builder.\]_
 
 ::: {.verse form=genzat lang=en work=the-suit-of-the-scribe-and-the-builder-16}
-Thuba'i. I side with the Builder. Those arms! Carry mud behind a brother's head thirty times and you can carry a feast.
+"I am with the Builder. Look at those arms. A god who can carry mud past his brother's head thirty times is a god who can carry a feast."
 :::
 
 ::: {.verse form=genzat lang=khel enc=khelqalezuenc work=the-suit-of-the-scribe-and-the-builder-16}
-razel thuba'i. wanel nazu ta muzanar. zurat telu thulun eqar. wanel nelgir. tuqath saru qedmal nazar qarnet elu linetun az kalet 30 nelgir. dunel saru tuqath qelmar.
+razel thuba'i. wanel nazu ta muzanar. zurat telu thulun eqar. wanel nelgir. tuqath saru qedmal nazar qaren elu linetun az kalet gerun khul ta gerun nelgir. dunel saru tuqath qelmar.
 :::
 
-_\[The Scribe pays.\]_
+_\[He is paid by the Scribe.\]_
 
 ::: {.verse form=genzat lang=en work=the-suit-of-the-scribe-and-the-builder-17}
-Thuba'i. I side with the Scribe. That bag! A god recording everything knows your debts. There is someone worth sitting beside.
+"I am with the Scribe. Look at that satchel. A god who writes everything down is a god who knows what you owe him, and that is the only kind worth sitting next to."
 :::
 
 ::: {.verse form=genzat lang=khel enc=khelqalezuenc work=the-suit-of-the-scribe-and-the-builder-17}
 razel thuba'i. wanel nazu ta zethuar. zurat telu shenar eqar. rethal nelgir. zethal saru temun temun zeqat ez saru. wanel saru laz genar elu qenmet elu galelnet qarmel.
 :::
 
-_\[He stands between pans, a jar in either hand.\]_
+_\[He stands between the two pans with a jar in each hand.\]_
 
 ::: {.verse form=genzat lang=en work=the-suit-of-the-scribe-and-the-builder-18}
-Thuba'i. I side with both. See the level beam at last! Better than their brick wall and library managed. Scale, none? No. She handles scales, never beer. A god sitting all day with nothing entering or leaving resembles a lidded pot. My complaint concerns the lid.
+"I am with both of them, and look: there is the beam level at last, which is more than the two of them managed with a wall of bricks and a library. Scale, nothing for you? No. She does not do beer. She does the scale. A god who sits all day with nothing going in and nothing coming out is a pot with the lid on. I say nothing against the pot. I say it against the lid."
 :::
 
 ::: {.verse form=genzat lang=khel enc=khelqalezuenc work=the-suit-of-the-scribe-and-the-builder-18}
 razel thuba'i. wanel nazu ta khul. zurat telu. wanel halzathal qemlun kalzu. wanel eqar tazir shar temalnet elu naru khul qer elu galzat elu galqat ta galar elu zethu. halzat, qe tamral telu qalnaz. khe. khez tamel sari qalnaz. tamel sari halzat. wanel nelgir. galel saru tharen temun khez lamnet ta khez yarathnet qalmetun ta qelzar. khez razel nazu qarazel ez qalmetun. razel nazu ez qelzar.
 :::
 
-_\[Laughter. Let the Scale stare until silence. The lid joke also lies outside her business.\]_
+_\[Laughter here. Let the Scale look at him until it stops. She does not do the lid-joke either.\]_
 
-_\[A different hand's marginal note. Scale player: she offers neither mercy nor laughter. They test you at the brick and lid, hardest at the wall. Watch the beam. Let beam-boys laugh; nobody watches them. Lemjen ez Galezkara, her player for nine Harvests.\]_
+_\[In another hand, in the margin here: Whoever plays the Scale, she does not do mercy and she does not do laughing. They will try you at the brick, and here at the lid, and worst at the wall; look at the beam. Let the beam-boys laugh; nobody is watching them. [Lemjen ez Galezkara]{.name data-type="being/npc"}, who played her nine Harvests.\]_
 
 ::: {.verse form=genzat lang=en work=the-suit-of-the-scribe-and-the-builder-19}
-Turning toward the Scribe, Thuba'i lowered his voice enough for everyone to hear./
-Thuba'i. Enter beer however you please, wall-man's brother. It exits identically whatever the tablet says. At that exit you need a wall. His wall, around the back without a door. Humanity's first discovered wall use; he imagines it keeps off rain.
+He turned to the Scribe, and he lowered his voice, which in Thuba'i is a thing everyone in the hall can hear./
+
+"Enter the beer however you like, brother of the man with the wall. It goes out the same way whatever the tablet says, and when it does you will not want a tablet; you will want a wall. His wall. Round the back, where there is no door. The first use anybody ever found for a wall, and he thinks it was for keeping the rain off."
 :::
 
 ::: {.verse form=genzat lang=khel enc=khelqalezuenc work=the-suit-of-the-scribe-and-the-builder-19}
-yaleth thuba'i ez zethuar. razel saru qemir khazul, renan khashel genar temun ezu harun elu thuba'i qu./
+qalur thuba'i qenmar ez zethuar. razel saru khazil. khashul genar zamat ezu harun qu./
+
 razel saru. zethal telu qalnaz qel qaruth telu, linetun elu genar elu galzat. yarath qu qer qemel sher razel zethqen. ezu kalun elu yarathnet elu qu khez tamral telu zethqen. tamral telu galzat. galzat elu saru. az nazar, khez galmun. wanel eqar kesnet lazret elu galzat elu heurathnet elu genar. rethas saru qarun elu qu wanel lagath nyar shazal.
 :::
 
-_\[Laughter. Keep the jar raised until silence. Drink.\]_
+_\[Laughter here. Hold the jar up until it stops, and then drink from it.\]_
 
 ## The Water
 
-_\[Two boys behind the mound pour jars over its plank until parties and pans stand ankle-deep. Uzn'era crosses behind the chair from kitchen to far side without pausing. Nobody addresses her; she says nothing. Alone among this play's gods, she receives no request.\]_
+_\[Here the water: two boys at the back of the mound with jars, poured over the plank so that the parties stand in it to the ankle, and the pans with them. [[lore-uzneradty|Uzn'era]] crosses behind the chair from the kitchen side to the far side and does not stop. She is not addressed and she says nothing. She is the only one of the gods in the play whom nobody asks for anything.\]_
 
 ::: {.verse form=genzat lang=en work=the-suit-of-the-scribe-and-the-builder-20}
-As the Builder recounted bricks aloud and the Scribe requested the court's copy of water's evidence, the river flooded the floor ankle-deep. Uzn'era had crossed behind the chair en route elsewhere; the river follows her. Litigants cooled in it. Left-pan bricks soaked, gaining weight while still bricks, then becoming mud. Right-pan tablets were unfired: neither kiln nor operator yet existed. Water erased them while they were tablets, then made them mud. Equal contents leveled both pans.
+While the Builder was counting his bricks a second time out loud and the Scribe was asking whether the court had a copy of the water's testimony, the river came up over the floor of the court to the ankle, because Uzn'era had crossed behind the chair on her way to somewhere else, and the river goes where she goes. The litigants stood in it and were cooler. The bricks in the left pan stood in it too, and a brick in water is a heavier brick for as long as it is a brick, and then it is mud. The tablets in the right pan were not fired, there being no kiln yet and nobody to work one, and a tablet in water is a blank tablet for as long as it is a tablet, and then it is mud. The two pans came up level with the same thing in each./
 
-Scale. Level: mud beside mud. Nothing readable or weighable remains. I shall try the doors in their order, because order exists.
+"The scale is level," said the Scale. "Mud against mud. There is nothing to read on either side, and nothing to weigh, and so I will go through the doors, and I will go through them in order, because that is the order."
 :::
 
 ::: {.verse form=genzat lang=khel enc=khelqalezuenc work=the-suit-of-the-scribe-and-the-builder-20}
@@ -475,84 +582,105 @@ razel halzat. wanel halzat qemlun. qedmal qarmath qu ta qedmal. khez alqar temun
 : The Scale Tries the Doors {#doors}
 
 ::: {.verse form=genzat lang=en work=doors}
-Four doors. Each tried in sequence./
-Perform: what promise? None. Nothing performable. Door shut./
-Settle: what debt could receive another payment? None. Door shut./
-Release: who can say, I need nothing further? Nobody requested anything. Door shut./
-Assume: who takes it onto his account? No account, no entry. Door shut./
-Four doors close an entry. No fifth exists./
-Your house has brought me one sticking door.
+There are four doors, and I will try each, and I will try them in order./
+Perform. What was promised? Nothing was promised. There is nothing to perform. The door is shut./
+Settle. What is owed, that something else might be given for it? Nothing is owed. The door is shut./
+Release. Who stands here to say _I require no more_? Nobody required anything. The door is shut./
+Assume. Who takes this onto his account? There is no account. There is no entry. The door is shut./
+Four doors shut an entry, and there is no fifth,/
+and you have brought me a house whose one door sticks./
 
-Scale. Nothing stands before me. Nothing admits no decision, so I refuse one. I shall create an entry and decide that. Accept what results./
-Scribe. Courts cannot write./
-Scale. I speak. You write. You are scribe./
-Scribe. I am party./
-Scale. Scribe first. That office predates your partyhood. Entries bear dates; precedence follows dates. Witness?/
-Thuba'i. Me. I saw everything through a cup's bottom, the common viewing place./
-Scale. He is no party. Both paid him, placing him on neither side. Closest this court gets to a witness today. Brothers write nothing between themselves, and I intend writing. Become strangers for this entry's duration. Turn away from one another. Exchange names as if unheard before.
+"There is nothing before me," said the Scale, "and nothing cannot be decided. So I will not decide it. I will make an entry, and then I will decide the entry, and you will take what you get."/
+
+"You cannot write," said the Scribe. "You are the court."/
+
+"I will say it. You will write it. You are the scribe."/
+
+"I am a party."/
+
+"You are the scribe first. You were the scribe before you were a party, and entries are dated, and seniority runs by date. Who witnesses?"/
+
+"I do," said Thuba'i, "I have seen everything, from the bottom of a cup, which is where most things are seen from."/
+
+"He is not a party," said the Scale. "He has been paid by both, so he stands on neither side, and that is as near as this court will get to a witness today. Now. Between brothers nothing is written, and I am going to write. So for the length of the entry you are strangers. Turn your backs on one another. Say your names to each other as if you had not heard them."
 :::
 
 ::: {.verse form=genzat lang=khel enc=khelqalezuenc work=doors}
-alqar galmun tuzar. agu tamath nazu lazet ezu qernet./
-qelaz. wanel qelqet sher. khez qelath genar temun. khez alqar temun ez qelaz. galath galmun./
-qazet. wanel zeqat sher ez nelaz temun leqar az garel elu qu. khez alqar zeqat. galath galmun./
-wazal. tharel shel zun ez razel khez tamral nazu tazir. khez tamral genar temun. galath galmun./
-zeqath. lamath shel eqar ezu halzi elu qezunet. khez alqar halzi. khez alqar zethat. galath galmun./
-galath galmun tuzar zethat. khez alqar galmun elu chalen./
-tuqel telu galar ez nazu. qezmer galmun lazen elu qu·
+qamar galar elu telu galmun lazen. qezmer qu./
+qamar nazu galmun tuzar. agu tamath nazu naru ezu qernet./
+qelaz‼ wanel qelqet sher? khez qelqet. khez qelaznet. galet galmun./
+qazet‼ zeqel genar sher? khez zeqat. khez zamat ez zuwret. galet galmun./
+wazal‼ razel shel «khez tamral nazu tazir»? khez tamral genar temun. galet galmun./
+zeqath‼ ez halzi elu shel? khez halzi, khez zethat. galet galmun./
+galmun tuzar ez galathnet. khez alqar chalen./
+galmun lazen elu galar, ta qezmer qu.
 
-razel halzat. khez alqar temun zamar nazu. khez dunel genar qerath khezan. khez qerath nazu qu tharun. temal nazu zethat. agu qerath nazu zethat. lamath telu temun elu lamnet elu telu./
+razel halzat. khez alqar temun zamar nazu. khez dunel genar qeran khezan. khez qeran nazu qu tharun. temal nazu zethat. agu qeran nazu zethat. lamath telu temun elu lamnet elu telu./
+
 razel zethuar. khez dunel telu zethal. wanel telu genzet./
+
 razel halzat. razel nazu qu. agu zethal telu qu. wanel telu zethuar./
+
 razel zethuar. wanel nazu qelathar./
+
 razel halzat. wanel telu zethuar mar eqar. wanel telu zethuar mar waleth telu qelathar. qamar zethat tharen. yarul garel qer elu tharen. zuren shel./
+
 razel thuba'i. nazu. zuren nazu temun temun nyar nizar elu qalret. wanel eqar garun elu zuren elu genar az kalet tazun./
-razel halzat. khez wanel saru qelathar. qazet khul saru. khez wanel saru az tarmil lazen elu naru. wanel eqar qaril zurenar qel dunel genzet eqar kalzu. kalzu. khez zethal genar qarmath linetun. agu zethal nazu. wanel telu rethnar ezu kalun elu zethat. yaleth telu qazun ez qezunet. razel telu rethan ez qezunet qel khez khashel telu naru.
+
+razel halzat. khez wanel saru qelathar. qazet khul saru. khez wanel saru az tarmil lazen elu naru. wanel eqar qaril zurenar qel dunel genzet eqar kalzu. kalzu. khez zethal genar qarmath linetun. agu zethal nazu. wanel telu rethnar ezu kalun elu zethat. qalur telu qazun ez leqar. razel telu rethan ez qezunet qel khez khashul telu naru.
 :::
 
-_\[They turn backs and bow across shoulders. Each gives his name with its catch, drum pausing there. Builder rushes and joins his together. Scribe demands a repeat with the pause: entries preserve the spoken name. Laughter targets the hurried Builder, never the name.\]_
+_\[They turn their backs and bow to one another over their shoulders. Each says his own name with its stop in it, and the drum rests on it. The Builder hurries his and runs it together, and the Scribe makes him say it again, with the rest in it, because the entry carries the name as it is said. Laughter here, and it is at the Builder, who cannot say a thing slowly; it is never at the name.\]_
 
 ::: {.verse form=genzat lang=en work=the-suit-of-the-scribe-and-the-builder-22}
-Builder, second attempt, with pause. Saq'aru. Stranger. I own a house./
-Scribe. Reth'Sa'ar. Stranger. I occupy it.
+"Saq'aru," said the Builder, the second time, with the rest in it. "A stranger. I have a house."/
+
+"Reth'Sa'ar," said the Scribe. "A stranger. I am in it."
 :::
 
 ::: {.verse form=genzat lang=khel enc=khelqalezuenc work=the-suit-of-the-scribe-and-the-builder-22}
 razel muzanar az kalet khulret ta qelzut. saq'aru. rethnar. qamar nazu galar./
+
 razel zethuar. reth'sa'ar. rethnar. wanel nazu ezu qu.
 :::
 
 ## The Lease
 
-_\[Scale speaks. Scribe writes on a brick, the tablets having become mud.\]_
+_\[The Scale speaks. The Scribe writes on a brick, because the tablets are mud.\]_
 
 : The First Lease {#lease}
 
 ::: {.verse form=genzat lang=en work=lease}
-Entered on first ground, the day of one house./
-Parties: Builder, stranger; Scribe, stranger;/
-and myself, operating the scale./
-Witness: Thuba'i, paid by both, aligned with neither./
-Concerning the mound house, unwitnessed and unentered:/
-occupancy goes to its resident and maintainer for one term./
-From this water to the next water, no longer./
-At next water both appear before me for renewal or its refusal./
-The resident preserves its roof and door./
-The builder receives payment for building through that maintenance./
-Enter the underlying ground as occupied: a house's purpose./
-Scribe, write. Builder, mark./
-Thuba'i, mark, if your hands can hold a reed./
-The beam is level. Take your mud away.
+Entered on the first ground, on the day there was one house./
+Parties: the Builder, who is a stranger; the Scribe, who is a stranger;/
+and I, who do the scale./
+Witness: Thuba'i, who was paid by both, and is therefore on neither side./
+Of the house on the mound, which no one witnessed and no one entered:/
+it goes to the one who lives in it and keeps it up, for a term,/
+and the term is from this water to the next water, and no longer,/
+and at the next water the two parties come before me, and it is renewed, or it is not./
+The one who lives in it keeps the roof on, and keeps the door./
+The one who built it is owed for the building, and is paid in the keeping./
+The ground under it is entered as not empty, which is what a house is for./
+Scribe, write it. Builder, make your mark./
+Thuba'i, make yours, if you can hold the reed./
+The scale is level. Take your mud and go./
 
-Scribe. Write on what? The tablets are mud./
-Builder. A brick. He produced a dry brick kept beneath his arm throughout the hearing, never near the scale. Nobody commented./
-Scribe. Which hand?/
-Builder. Right./
-Scale. His taught hand./
-Scribe. Only one yet exists./
-Scale. Use that one. Anyone unable to read can ask. It will occupy them.
+"On what?" said the Scribe. "The tablets are mud."/
 
-With reed and tiny sacred-hand writing, the Scribe entered the lease on the brick. Only that hand existed. He exhausted the surface at Next water and finished along its side. Builder marked a square, newly invented. Thuba'i marked a wet circle. The Scale inspected side-writing and wet mark without comment.
+"On a brick," said the Builder, and took a dry one from under his arm, where it had been the whole hearing and had never gone near the scale, and nobody said anything about that./
+
+"In which hand?"/
+
+"The right," said the Builder./
+
+"In the hand he was taught," said the Scale./
+
+"There is only the one, as yet."/
+
+"Then it is in that one, and whoever cannot read it can ask, and that will give them something to do."/
+
+The Scribe wrote the lease on the brick in the sacred hand, which was the only hand, with the reed, small, and ran out of brick at _the next water_ and finished it on the side. The Builder made his mark, which was a square, because he had just invented it. Thuba'i made his, which was round, and wet. The Scale looked at the brick and said nothing about the writing on the side, and she said nothing about the mark being wet.
 :::
 
 ::: {.verse form=genzat lang=khel enc=khelqalezuenc work=lease}
@@ -568,24 +696,30 @@ lagath genar. algun saru ezu qu galzur ta galmun./
 zeqel genar zeqat ez muzanar qaral muzannet. qazet saru qu qer elu lagathnet./
 zethal zethu gharen nuqar qu khez khez temun. wanel eqar qarun elu galar./
 zethuar, zethal telu qu. muzanar, temal telu zurmeth./
-thuba'i, temal telu elu telu qamaru dunel telu walet sheqet./
+thuba'i, temal telu elu telu qamaru dunel telu walet shequn./
 wanel halzat qemlun. lamath telu qedmal elu telu ta yarul telu·
 
 razel zethuar. az sher. wanel zethqen qedmal./
+
 razel muzanar. az galqat. lamath saru lazen qezlet nyar nuqar thulun. wanel qu zun ezu khashnet temun. khez yarul qu qaril halzat. khez razel genar temun qaral eqar./
+
 razel zethuar. ezu thalmu shal./
+
 razel muzanar. tarmal./
+
 razel halzat. ezu thalmu elu rethathar elu saru./
+
 razel zethuar. alqar lazen laz ethel./
+
 razel halzat. ezu qu tharun. dunel genar khez zethulnet razal. nelaz eqar temun ez tamel ez naru.
 
-zethal zethuar qamzun az galqat ezu khelathi-zethu, laz thalmu, qer elu sheqet ta qemath. khez qamar galqat garun tazir az qalu khulret. zethal saru telnet az tarmil elu galqat. temal muzanar zurmeth, tuzar tarmil, qaral telath saru temul qu. temal thuba'i elu saru galur ta qalet. zurat halzat galqat. khez razel sari temun qaral zethu az tarmil lu zurmeth qalet.
+zethal zethuar qamzun az galqat ezu khelathi-zethu, laz thalmu, qer elu shequn ta qemath. khez qamar galqat garun tazir az qalu khulret. zethal saru telnet az tarmil elu galqat. temal muzanar zurmeth, tuzar tarmil, qaral telath saru temul qu. temal thuba'i elu saru galur ta qalet. zurat halzat galqat. khez razel sari temun qaral zethu az tarmil lu zurmeth qalet.
 :::
 
-_\[Speaker pauses for a drink. Let the hall assume the ending. It is premature.\]_
+_\[The Speaker stops here and drinks, and lets the hall take it for the end. It is not the end.\]_
 
 ::: {.verse form=genzat lang=en work=the-suit-of-the-scribe-and-the-builder-24}
-Thus the first lease spans one water to the next, no longer. It has renewed at every water since. Nobody has let it lapse. Nobody has moved out.
+That was the first lease, and it runs from one water to the next and no longer. It has been renewed at every water since; nobody has yet let it lapse, and nobody has yet moved out.
 :::
 
 ::: {.verse form=genzat lang=khel enc=khelqalezuenc work=the-suit-of-the-scribe-and-the-builder-24}
@@ -594,81 +728,89 @@ wanel eqar qamzun lazret. yarul qu nyar qalu lazen ez qalu khulret, khez tazir. 
 
 ## The Going Out
 
-_\[Builder and Scribe descend arm in arm, arguing already. Builder carries the brick. The door accompanies them, its man walking the frame off behind.\]_
+_\[The Builder and the Scribe go off down the steps arm in arm, the Builder with the brick under his arm, already arguing. The door goes with them. The man in the door-frame walks it off at the back.\]_
 
 ::: {.verse form=genzat lang=en work=the-suit-of-the-scribe-and-the-builder-25}
-Builder. Still sticking./
-Scribe. Entered as sticking./
-Builder. That opens nothing./
-Scribe. No record opens anything. It states whether things are open./
-Builder. State Open, then come shoulder it.
+"The door still sticks," said the Builder./
 
-They descended from mound to water, disputing the door. The sun walked west to his night's labor, which feasts leave unplayed.
+"It is entered as sticking."/
+
+"That does not open it."/
+
+"Nothing in the record opens anything. The record says whether it is open."/
+
+"Then say it is open, and come and put your shoulder to it."/
+
+They went off the mound and down into the water, arguing about the door, and the sun went off down the west road on foot to his night's work, which is not played at a feast.
 :::
 
 ::: {.verse form=genzat lang=khel enc=khelqalezuenc work=the-suit-of-the-scribe-and-the-builder-25}
 razel muzanar. thalal galmun qezmer./
+
 razel zethuar. zethal zethu qu qezmer./
+
 razel muzanar. khez galuth eqar qu./
+
 razel zethuar. khez galuth zethu temun. razel zethu qe galut qu./
+
 razel muzanar. razel telu galut qu tharun. yaler telu ta qalath telu qalmer ez qu.
 
 yarul naru nyar yathar nizar ezu qalu. qarazel naru qaral galmun. yarul thelqen nizar ezu hodir elu ithnar ezu pedar ez tamelnet elu qeznar elu saru. khez shelun nazun qu az qelmar.
 :::
 
-_\[Carry the Scale out as she arrived: beam-boys and pole, chair following. Her player cannot laugh before the chair passes the kitchen door.\]_
+_\[The Scale is carried out as she came, the beam-boys with the pole and the chair after. Whoever plays her does not laugh until the chair is through the kitchen door.\]_
 
-_\[The Library scene belonged here, and belongs to the Scribe. Exclude it before Thuba'i's Thaz'Lekhau and at Harvest. Cut. Proceed directly to song.\]_
+_\[Here stood the scene of the Library, which is the Scribe's. It is not to be played before the Thaz'Lekhau of Thuba'i, and it is not played at the Harvest. Cut. Go straight to the song.\]_
 
 ## The Song
 
-_\[Thuba'i raises his jar toward the benches. They answer each line with the door's shoulder response. Players lead the two altered answers so everyone knows them by the second Harvest. Drum maintains the shoulder rhythm.\]_
+_\[Thuba'i, to the benches, the jar up. The benches answer every line with the shoulder-line, which they have from the door, and the players sing the two answers that differ so that the hall has them by the second Harvest. The drum keeps the shoulder-line.\]_
 
 : The Song of the First Rent {#song}
 
 ::: {.verse form=genzat lang=en work=song}
-The Builder made it. The door jammed./
-..Shoulder it open. Shoulder it open./
-The Scribe entered and recorded afterward./
-..Shoulder it open. Shoulder it open./
-Who owns the house? Whoever occupies it./
-..Who pays its rent? Whoever occupies it./
-The Scale sat and refused her drink./
-..She handles the scale. She refuses her drink./
-One water until next water; then return./
-..Shoulder it open. Shoulder it open./
-Bring brick, bring mark, bring brother./
-..Shoulder it open. Shoulder it open./
-Its witness? The jar-holder./
-..Shoulder it open. Shoulder it open./
-His payers? Both. Fill the jar./
-..Shoulder it open. Shoulder it open./
-House recorded; door still jammed./
-..Shoulder it open. Shoulder it open.
+The Builder built it, and the door stuck./
+..Put your shoulder to it. Put your shoulder to it./
+The Scribe moved in, and he wrote it after./
+..Put your shoulder to it. Put your shoulder to it./
+Who owns the house? The one who is in it./
+..Who pays the rent? The one who is in it./
+The Scale sat down and she did not drink./
+..She does the scale. She does not drink./
+From one water to the next, and then come back./
+..Put your shoulder to it. Put your shoulder to it./
+Bring your brick. Bring your mark. Bring your brother./
+..Put your shoulder to it. Put your shoulder to it./
+Who witnessed it? The one with the jar./
+..Put your shoulder to it. Put your shoulder to it./
+Who paid him? Both of them. Fill it./
+..Put your shoulder to it. Put your shoulder to it./
+The house is entered, and the door still sticks./
+..Put your shoulder to it. Put your shoulder to it.
 :::
 
 ::: {.verse form=genzat lang=khel enc=khelqalezuenc work=song}
-muzan muzanar qu. qezmer galmun./
-..qalath telu qalmer ez qu. qalath telu qalmer ez qu·/
-galun zethuar. zethal saru mer qu./
-..qalath telu qalmer ez qu. qalath telu qalmer ez qu·/
-qamarun galar ez shel. genar elu ezu qu./
-..qazet shel qamzun. genar elu ezu qu·/
-galel halzat. khez qaler sari./
-..tamel sari halzat. khez qaler sari·/
-nyar qalu lazen ez qalu khulret. yaler telu yalret./
-..qalath telu qalmer ez qu. qalath telu qalmer ez qu·/
-tuqel telu galqat. tuqel telu zurmeth. tuqel telu linetun./
-..qalath telu qalmer ez qu. qalath telu qalmer ez qu·/
-zuren shel qu. genar elu qallun./
-..qalath telu qalmer ez qu. qalath telu qalmer ez qu·/
-qazet shel saru. khul. qelthat telu qu./
-..qalath telu qalmer ez qu. qalath telu qalmer ez qu·/
-wanel galar ezu zethu. thalal galmun qezmer./
-..qalath telu qalmer ez qu. qalath telu qalmer ez qu·
+muzan saru galar eqar. qezmer galmun elu saru./
+..qalath telu qalmer ez qu‼ qalath telu qalmer ez qu‼/
+galun zethuar ezu qu. zethal saru qu mer eqar./
+..qalath telu qalmer ez qu‼ qalath telu qalmer ez qu‼/
+qamarun galar ez genar shal? wanel saru ezu qu./
+..qazet shel qamzun elu qu? genar ezu galar eqar./
+galel sari az galmel elu halzat. khez qaler sari./
+..tamel sari laz halzat. khez qaler sari ezu genzet./
+nyar qalu ez qalu yalret. yaler telu‼ yaler yalret‼/
+..qalath telu qalmer ez qu‼ qalath telu qalmer ez qu‼/
+tuqel telu galqat‼ tuqel telu zethmin‼ ta linetun‼/
+..qalath telu qalmer ez qu‼ qalath telu qalmer ez qu‼/
+zuren shel eqar? wanel zurenar genar elu qallun./
+..qalath telu qalmer ez qu‼ qalath telu qalmer ez qu‼/
+qazet shel saru? khul zamat. qelthat telu qallun eqar‼/
+..qalath telu qalmer ez qu‼ qalath telu qalmer ez qu‼/
+zethal genar galar eqar. qezmer galmun. qezmer yalret./
+..qalath telu qalmer ez qu‼ qalath telu qalmer ez qu‼
 :::
 
-_\[Jars circulate. No speech follows. The Scale's player may drink.\]_
+_\[The jars go round. Nobody speaks after the song. The Scale's player may drink now.\]_
 
 ## See Also
 

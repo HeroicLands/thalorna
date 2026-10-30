@@ -7976,6 +7976,128 @@ data:
       field: Everyday speech
       gloss: royal guard, a soldier in the ruler's levy
       source: {kind: coined}
+    - form: zernath
+      class: v
+      field: The written and the recited
+      gloss: attest an account entry as an eyewitness
+      source: {kind: coined}
+    - form: qalzunet
+      class: n
+      field: Counting-house and water-works
+      gloss: cabinet for storing tablets or rolls
+      source: {kind: coined}
+    - form: qelarnet
+      class: adj
+      field: The written and the recited
+      gloss: senior in office or professional standing
+      source: {kind: coined}
+    - {form: qedath, class: v, field: Doing, gloss: plough soil, source: {kind: coined}}
+    - form: qezmit
+      class: adj
+      field: Everyday speech
+      gloss: sharp, of a cutting edge
+      source: {kind: coined}
+    - form: qarzel
+      class: n
+      field: Counting-house and water-works
+      gloss: queue of people waiting their turn
+      source: {kind: coined}
+    - form: luzet
+      class: n
+      field: Temple, arcane and cosmology
+      gloss: throne; the seat of the Gar-Au
+      source: {kind: coined}
+    - form: qelzumar
+      class: n
+      field: Everyday speech
+      gloss: a patrol; a party sent out to watch a frontier or route
+      source: {kind: coined}
+    - form: qenret
+      class: n
+      field: Everyday speech
+      gloss: a surveyed boundary line
+      source: {kind: coined}
+    - form: zethlet
+      class: n
+      field: The written and the recited
+      gloss: a row of an inscription
+      source: {kind: coined}
+    - form: qalthun
+      class: n
+      field: Counting-house and water-works
+      gloss: a sluice; the gate controlling water in a canal
+      source: {kind: coined}
+    - form: mazqat
+      class: n
+      field: Everyday speech
+      gloss: a threshing floor
+      source: {kind: coined}
+    - {form: tulqel, class: v, field: Doing, gloss: ride a horse, source: {kind: coined}}
+    - form: qelzen
+      class: n
+      field: Everyday speech
+      gloss: a fitting; a piece of metal hardware joining or fastening a thing
+      source: {kind: coined}
+    - form: tulzarat
+      class: n
+      field: Occupations
+      gloss: a breeder of horses
+      source: {kind: coined}
+    - form: qaldunar
+      class: n
+      field: Occupations
+      gloss: a donkey driver
+      source: {kind: coined}
+    - form: shequn
+      class: n
+      field: Everyday speech
+      gloss: a reed; a cut reed used as a writing pen
+      source: {kind: coined}
+    - form: zethlun
+      class: n
+      field: The written and the recited
+      gloss: a column in a written record
+      source: {kind: coined}
+    - form: zameth
+      class: v
+      field: Everyday speech
+      gloss: sing; give words a sung melody
+      source: {kind: coined}
+    - form: qeznur
+      class: n
+      field: Everyday speech
+      gloss: a straight sightline kept clear between two points
+      source: {kind: coined}
+    - form: qelzur
+      class: n
+      field: Everyday speech
+      gloss: light; illumination by which a thing is seen, and a ray carrying it
+      source: {kind: coined}
+    - form: qalmur
+      class: n
+      field: Everyday speech
+      gloss: a heap; loose material piled above its surroundings
+      source: {kind: coined}
+    - form: qazmel
+      class: v
+      field: Everyday speech
+      gloss: swear in anger; utter abusive or imprecatory words
+      source: {kind: coined}
+    - form: shaleth
+      class: v
+      field: Everyday speech
+      gloss: hang; remain suspended from a support
+      source: {kind: coined}
+    - form: mazget
+      class: n
+      field: Everyday speech
+      gloss: grain; harvested cereal grain
+      source: {kind: coined}
+    - form: yaleth
+      class: v
+      field: Everyday speech
+      gloss: turn; change direction or facing
+      source: {kind: coined}
   retired:
     - {form: Chelsuk, instead: Chelsur, why: "ends in none of a vowel, n, t, s, r, l, z or th"}
     - {form: Wal'Enrauqo, instead: Wal'Enraku, why: a house name that does not end in `-u`}
@@ -8467,7 +8589,7 @@ Erlem ez luzet
 Zab melet agu khelath
 : _Mercantile oath; "The lord's goods shall prosper"_
 
-Shelmu zetem
+Shelmu zeten
 : _Sacred command; "Let the followers hear" (used to introduce proclamations)_
 
 The particles are _elu_ (of, upon), _ezu_ (in), _ez_ (to, toward) and _agu_
