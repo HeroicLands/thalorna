@@ -29,211 +29,301 @@ data:
 : The Ferryman at the Ford {#telling}
 
 ::: {.verse form=prose lang=en work=telling}
-Tonight the rope lies on our bank and the boat is tied up. No one crosses. Listen now: this is its night, and the children who missed the story last year have grown a year older./
-There was a ford here before this river had a king. It remains there; all of you have watered cattle at it. It was a broad gravel crossing, just as it is today. In the dry months a child could walk across in knee-deep water. In the rains there was no crossing. The villages on its banks were one people divided by a river. When the water rose they became two peoples, and the side holding that year's grain ate./
-A man kept a flat boat and rope at the ford. He was Karmija, born to work as most of us were, from a household no one downstream remembers hearing of. Whenever someone needed to cross, he poled the boat over. Whenever the rope frayed, he repaired it. He accepted what people gave: some grain, a cooked meal, occasionally nothing. He kept no count. The villages have forgotten the name his mother used. The ford named him [Taranpal]{.name data-type="being/npc"}, keeper of the crossing. That is our name for him. A mother does not give that name. His work gave it.
+The rope is on our bank tonight, and the boat is tied. Nobody crosses. Now listen, because this is the night for it, and the children who did not hear it last year are a year older.
+
+Before there was a king on this river there was a ford, and the ford is still there, and you have all watered cattle at it. It was a wide gravel crossing then as it is now, and in the dry months a child could walk it with the water at her knees. In the rains it was no ford at all. The villages on the two banks were one people with a river through them, and when the river was up they were two peoples, and whichever had the grain that year ate.
+
+There was a man who kept a flat boat and a rope at the crossing. He was a _Karmija_, born to labor like most of us, of a household nobody downriver has ever heard of. He poled the boat across when there was someone to cross and mended the rope when it frayed, and he took what he was given, which was a measure of grain here and a cooked dish there and now and then nothing, and he did not count it. What his mother called him, the villages do not keep. The ford called him [Taranpal]{.name data-type="being/npc"}, the keeper of the crossing, and that is the name we have for him, and it is not a name a mother gives. It is what he did.
 :::
 
 ::: {.verse form=prose lang=vedy enc=vedyvedyaksharaenc work=telling}
-ehu ghaul bhe mahvasultu mova ro tirsa pa orsa, le nau banduna bhe orsa. nortu janru trel chambu. kenu nu nyura bhinu, drunem ehu vi druk ghaul orsa, le orkhu anra vi uvas bhinu ro lam aisu orkhu bram puratra orsa./
-ehu nodra pa rajva orsa anra torona orsa. torona nyuru uhu stalu bhe orsa, le nu sartu vi bhe pasru jalka pomu. vi kenu ro samnu pantra shem mavru letshilsa ro torona orsa. bherka menka bhe lam jalka pertajortu bhe shem vi padsun grenu. borsha bhe vi torona kartul uvas orsa. birsa tirsa ro grima aisu janra orsa, nodra vena minra. nodra utru ro kalda bhe vena birsa janra navra, le uhu orkhu danna ushta ro janra ghuma./
-aisu janru torona bhe nartalka nau le mahvasultu ushta. ve karmija orsa, mova ro barnu janru shem karmu druk prabhana. ve ro kobala ro tirma nortu nitar nodra ro janru bhinu. keru janru trel chambu kamva ushta, ve nau dandra shem tarpu. mahvasultu sutka navra, ve vi navrak. ve brel tral pomu ro varsu adnu, ehu stalu bhe danna ro umbra, uhu stalu bhe pakghomra, le keru demrak bhe nortu varsu. ve vi uvas ganu. ve ro matva ve kevu tirmun, grima uvas ushta. torona ve taranpal tirmun, torona ro palda. mova ve druk uhu tirma ushta. vi matva pomu ro tirma uvas orsa. vi ve ro karmu orsa.
+ehu ghaul bhe dorpa mova ro tirsa pa orsa, le nau gentru orsa. nortu janru trel chambu. kenu nu nyura bhinu, drunem ehu vi ro ghaul orsa, le orkhu anra vi uvas bhinu ro lam kenu aisu orkhu bram puratra orsa‼
+
+ehu nodra pa rajva orsa anra, torona orsa, le torona nyuru uhu stalu bhe orsa, le nu sartu vi bhe pasru tral jalka pomu. uhu kalda bhe vi kenu samrek mavru letshilsa ro torona orsa, le bherka ritru bhe lam vi trel padsun grenu, jalka ve ro pertajortu bhe. borsha bhe vi kartul torona uvas orsa. birsa tirsa ro grima aisu janra orsa, nodra vena pral, le nodra utru ro kalda bhe vena birsa janra orsa, le uhu orkhu danva ushta ro janra ghuma.
+
+torona bhe aisu janru nartalka nau le dorpa ushta. ve karmija orsa, mova ro barnu janru samrek karmu druk lamprabhana, nitar nodra bhe nortu janru bhinu ro kobala trum. trel chambu ro janru orsa ro kalda bhe ve nau dandra shem tarpu, le dorpa sutka sutka navra ro kalda bhe ve vi navrak, le ve tral pomu ro varsu ve adnu, ehu stalu bhe danva ro umbra, uhu stalu bhe pakghomra, le keru demrak bhe nortu, le ve vi uvas ganu. ve ro matva ve kevu tirmun, grima uvas ushta. torona ve taranpal tirmun, torona ro palda, le mova ve druk uhu tirma ushta, le vi matva pomu ro tirma uvas orsa. vi ve karmak ro varsu orsa.
 :::
 
-## The Year of the Early Water
+## The Year the Water Came Early
 
 ::: {.verse form=prose lang=en work=the-ferryman-at-the-ford-2}
-That year spring was warm upon the wall. The river rose three weeks before anyone had planted in preparation. You know what that means. It happened in your grandmothers' lives and will happen in yours. Seed planted by the old reckoning drowned underground. This year was worse: the water came by night, suddenly, as though the ice had opened a door. The village across the river stood on a mound, as every village here does. It woke to water in the lanes./
-It had no boats. That bank has never kept boats; the pilgrim road follows it, and pilgrims walk. The villagers climbed. Above them rose a hill with five terraces, faced with stone laid before anyone's memory. In darkness the entire village climbed, carrying whatever it could. They stood on the highest terrace in rain and watched the water take their mound./
-Taranpal's boat was on our bank. He had tied it high: someone who keeps a boat understands the river better than those planting beside it. He heard the villagers before seeing them. You have heard a flooded river. You know a voice cannot carry across it. He heard because two hundred people were shouting together./
-He stretched the rope across. Understand what that means. A ferry rope is secured on both banks. The boat follows it. In flood the rope holds the boat against the current. Without it, boat and ferryman travel downstream together. The rope was secured on our side. Its far end lay underwater, tied to a post now in midriver. He could not reach it. He tied the near end to the great tree, still there, still called the rope tree. He took the other end into his boat and poled across a rushing river a mile wide, letting the rope out behind him. He tied it to the lowest terrace wall. The far-bank village says he did it in darkness without shouting once. Our bank says he shouted all the way. Both villages witnessed it. Believe the bank you were born on, if you wish.
+In the year this happened the spring on the wall was warm, and the river came up three weeks before anyone had planted for it. You know what that means, because it has happened in your grandmothers' time and it will happen in yours. The seed of whoever planted by the old reckoning drowned in the ground. That year it was worse. The water came at night and it came all at once, as if the ice had opened a door, and the far-bank village, which stood on its mound as every village on this river stands on a mound, woke with the water in the lanes.
+
+They had no boats. The far bank has never been a boat bank; it is the bank the pilgrim road runs along, and a pilgrim walks. They climbed. Above the village stood the hill with the terraces on it, five of them, faced in stone that nobody laid in anyone's memory, and the whole village went up those terraces in the dark with what it could carry, and stood on the top one in the rain, and watched the water take the mound.
+
+Taranpal had the boat on our bank. He had tied it high, because a man who keeps a boat knows the river better than the men who plant by it. He heard them across the water before he saw them. You have heard the river in flood; you know that a voice does not carry over it. He heard them because there were two hundred of them and they were all shouting at once.
+
+He put the rope across. Understand what that is. A ferry rope is fixed at both banks, and the boat runs along it, and when the river is up the rope is what holds the boat against the current; without it the boat goes downstream and the man in it goes with it. The rope was fixed on our bank and the far end was on the far bank, under the water, tied to a post that was now in the middle of the river. He could not reach it. So he tied the near end to the great tree, which is still there and is still called the rope tree, and he took the far end in the boat with him, and he poled across a river that was a mile wide and running, with the rope paying out behind him, and he tied it to the lowest terrace wall. The far-bank village says he did it in the dark and did not shout once. The near-bank village says he shouted the whole way. Both villages were there, and you may believe whichever bank you were born on.
 :::
 
 ::: {.verse form=prose lang=vedy enc=vedyvedyaksharaenc work=the-ferryman-at-the-ford-2}
-ehu karmu ro orkhu bhe ludra pa antaritu taprin orsa. janru brel ro shamona karmak anra tre saptu nodra utru. nu ehu ro shaltun jnenuk, drunem nu ro sorhumatva ro kalda bhe vi narta le nu ro kalda bhe vi narta. puratra ganona shem shamona karmak ro janru ro bijra bhumri rinru jalka bhe daushu. uhu orkhu bram branu orsa. jalka ghaul bhe hauvu, le aisul kalda bhe hauvu, himjalka dvarna muku ro samnu pantra shem. navu tirsa ro grima sartu ehu nodra ro grima shem miratutru pa orsa. vi nivra, le jalka purpantra bhe orsa./
-vena nau uvas ushta. navu tirsa nortu demrak bhe nau ro tirsa orsa. vi margin ro margha ro tirsa orsa, le margin padsun. vena utrak chambu. grima utrak domsa orsa, vi pa kunsha bhumitala. shilsa vena ro mirmu kavru, le vena stanru ro janru nortu smiriti bhe orsa. sartu grima ghauru bhe vena utrak chambu, brel grenu bhornu ro varsu shem. vena utrakilta bhe borsha nitar stambhu, le jalka miratutru adnu nyura darka./
-taranpal mova ro tirsa pa nau ushta. ve vi utrak banduk, drunem nau ushta ro janru shamona karmak ro janru vrun bram nodra jnenuk. ve vena darka anra jalka trel vena bhinu. nu jalmavru bhe nodra bhinu. nu ravha vi utrak uvas grenu chambu jnenuk. ve vena bhinu, drunem 200 janru orsa, le vena sartu aisul kalda bhe bravul lampu./
-ve mahvasultu trel stanru. nu ehu jnenru. nau ro mahvasultu birsa tirsa bhe banduna orsa. nau vi anva chambu. nodra utru, mahvasultu nau jalchamru anvrak ushta. vi uvas orsa, nau nodra nitar chambu, le nau rinru janru levu. mahvasultu mova ro tirsa bhe banduna orsa, le navu kalduna navu tirsa bhe jalka nitar orsa. vi aisu stumbha tral banduna orsa, le stumbha kenu nodra ro minru bhe orsa. ve vi uvas grenu partu. drunva ve anshe kalduna mahva ferka tral banduk. ferka nyuru uhu stalu bhe orsa, le kenu levu vi mahvasultu ro ferka tirma ushta. ve duruk kalduna nau bhe brel shem adnu, le ve milka mavru praksun nodra trel dandra shem chambu. mahvasultu ve ro kirnu bhe nyuru muku. ve vi nitrak bhumitala ro ludra tral banduk. navu tirsa ro grima ve ghauru bhe ehu karmak le aisu demrak levu uvas bravul lampu lampu. anshe tirsa ro grima ve sartu pantra bhe bravul lampu lampu. birsa grima uhu stalu bhe orsa. nu nu ro prabhana ro tirsa vrenuk vranu.
+ehu narta ro orkhu bhe ludra pa antaritu taprin orsa, le janra shamona karmak anra tre saptu nodra utru. nu ehu ro shaltun jnenuk, drunem vi nu ro sorhumatva ro kalda bhe narta, le nu ro kalda bhe narta grenem. puratra ganona shem shamona karmak ro janru ro bijra bhumri bhe jalka bhe daushu. uhu orkhu bram branu orsa. jalka ghaul bhe hauvu, le aisu kalda bhe hauvu, himrak dvarna muku samrek, le navu tirsa ro grima, ehu nodra pa sartu grima samrek miratutru pa stambhu ro, nivra, le jalka purpantra bhe orsa.
+
+vena nau uvas ushta. navu tirsa nortu demrak bhe nau ro tirsa orsa. vi margin ro margha ro tirsa orsa, le margin padsun. vena utrak chambu. grima utrak domsa orsa, vi pa bhumitala, kunsha, le nortu janru ro smiriti bhe stanru ro shilsa vena ro mirmu kavru, le sartu grima ghauru bhe grenu bhornu ro varsu shem ehu bhumitala utrak chambu, le utrakilta pa borsha bhe stambhu, le jalka miratutru adnu nyura darmu.
+
+taranpal mova ro tirsa pa nau ushta. ve vi utrak gentak, drunem nau ushta ro janru, nodra anshe shamona karmak ro janra vrun, nodra bram jnenuk. ve vena darka anra, jalka trel vena bhinu. nu jalmavru bhe nodra bhinu. nu jnenuk, ravha vi trel uvas chambu. ve vena bhinu, drunem vena birsagolsa orsa, le sartu aisu kalda bhe bravul lampu.
+
+ve dorpa trel stanru. nu ehu kevu orsa jnenru‼ naupalda ro dorpa birsa tirsa bhe gentru orsa, le nau vi anva chambu, le nodra utru ro kalda bhe dorpa nau jalchamru vrun ushta. vi uvas orsa, nau nodra nitar chambu, le nau bhe ro janru vi shem chambu. dorpa mova ro tirsa bhe gentru orsa, le navu kalduna navu tirsa bhe orsa, jalka nitar, aisu stumbha tral gentru, le stumbha kenu nodra ro minru bhe orsa. ve vi uvas grenu partu. drunva ve anshe kalduna mahva ferka tral gentak, le ferka nyuru uhu stalu bhe orsa, le kenu levu dorpa ro ferka tirmun, le ve duruk kalduna nau bhe brel shem adnu, le aisu milka mavru le praksun ro nodra trel dandra shem chambu, dorpa ve anval muku kaldem, le ve vi nitrak bhumitala ro ludra tral gentak. navu tirsa ro grima lampu, ve vi ghauru bhe karmak le aisu demrak levu uvas bravul lampu. anshe tirsa ro grima lampu, ve sartu pantra bhe bravul lampu. birsa grima uhu stalu bhe orsa, le nu lamprabhana ro tirsa vrenuk vranu.
 :::
 
-## Nine Crossings
+## The Nine Crossings
 
 ::: {.verse form=prose lang=en work=the-ferryman-at-the-ford-3}
-Then he began crossing. A flat boat on a rope takes twelve people, or fifteen children. He took children first. That is the order: children, old people, pregnant women, everyone remaining, the headman last. The headman objected. Taranpal told him a headman who left first would have no village left to head. He stayed./
-He crossed nine times. The story counts them. Count with me, because the count is the story./
-First came the smallest children and a woman to hold them. He brought them to our bank. Our village's women carried them up to the houses and kindled fires./
-Second came the remaining children, including a boy of twelve who refused to count as a child. He helped pole the boat. From that night he counted as a man./
-Third came the old people. One woman died aboard. He did not pause to sound anything for her: he had nothing to sound, and no lamp could stay lit. Later the far-bank priest said the river had served as both her lamp and pyre, and the threshold god would understand a flood. That was the far-bank priest's judgment. You may make your own./
-Fourth came the pregnant women. Two gave birth on our bank before morning. The babies were called the ferry children throughout their lives. Their grandchildren still bear that name./
-Fifth came the men unable to swim. There were more of them than the swimmers would have wanted anyone to know./
-Sixth came the swimmers, who had announced they would swim, looked at the river, and stayed out of it./
-Seventh came the far village's grain: all they had carried up in sacks. Carry a village over a river with nothing to eat afterward, and you have merely carried it toward a slower death. He took grain ahead of the last people. Some call that wrong. The headman called it wrong loudly from the terrace. Taranpal answered that grain could not climb a tree, whereas a headman could./
-Eighth came the far-bank priest, carrying the temple's written leaves in a jar: genealogies, boundary records, the list of debts. A village losing its record loses its fields twice. He held the jar overhead throughout the crossing and never bailed. The twelve-year-old boy bailed for both of them./
-Then the rope came away./
-It was the far end, tied to the terrace wall in darkness. A terrace wall built before living memory is no post. The water had worked at its stones all night. The rope pulled away with three stones. The boat was on our bank; it swung into the current. Man and boy held it against the bank by sheer strength, the rope streaming downstream. After they secured the boat to the rope tree again, there was no far end left to fasten./
-Four people remained on the terrace: the headman, his wife, a girl of his household, and a man nobody has ever named. The far bank still finds that amusing, for he was the one who argued over it. Water had reached the third terrace and was rising./
-Taranpal crossed without the rope./
-You have seen the river flood. You know what a flat boat does without a rope. It goes downstream fast. The man with the pole is arguing with it rather than steering. He and the boy dragged the boat upstream along our bank as far above the hill as they could. He launched it there and let the river take it, working his pole against the current throughout. The river carried him a mile down and across. He fetched against the second terrace, half a boatful of water aboard and his pole broken. The four climbed in. He took one broken half of the pole; the headman took the other. These two men, who had argued across the river all night, brought the boat two more miles downstream and across to our bank. In the morning they walked it upstream along the shore, the rope tree visible the entire way./
-That makes nine. The count is the story./
-When they reached the houses, the far village was eating our grain at our fires. Its own grain stood stacked in our granary. The children slept. The priest had his jar. Taranpal sat beside the first fire he reached. Someone put a dish before him. He ate, asking nothing. Then he slept. The story gives him a day and a night of sleep. On waking, he went down to inspect his boat.
+Then he crossed. A flat boat on a rope carries twelve, or fifteen if they are children, and he took the children first, because that is the order: children, then the old, then the women with child, then whoever is left, and the headman last, which the headman did not like and said so, and Taranpal said that a headman who went first would have no village to be headman of, and the headman stayed.
+
+He crossed nine times. The telling counts them, and you will count them with me, because the count is the telling.
+
+The first crossing was the small children, and a woman to hold them, and he brought them to our bank and the women of our village took them up to the houses and lit the fires.
+
+The second crossing was the rest of the children, and a boy of twelve who would not be counted a child and poled with him, and was counted a man from that night.
+
+The third crossing was the old, and one of them died in the boat, and he did not stop to sound anything for her, because there was nothing to sound and no lamp that would stay lit, and the far-bank priest said afterward that the river was her lamp and her pyre both and that the god of the threshold would understand a flood. That is the far-bank priest's opinion and you may hold your own.
+
+The fourth crossing was the women with child, and two were delivered on our bank before morning, and those two were called the ferry children all their lives and their children's children still are.
+
+The fifth crossing was the men who could not swim, and there were more of them than the men who could would have liked anyone to know.
+
+The sixth crossing was the men who could swim, who had said they would swim and had looked at the water and not swum.
+
+The seventh crossing was the far-bank village's grain, as much of it as had been carried up the terraces in sacks, because a village that has been carried across a river and has nothing to eat on the other side has only been carried to a slower death. He took the grain before the last people. Some say that was wrong. The headman said it, loudly, from the terrace. Taranpal said that the grain could not climb a tree and the headman could.
+
+The eighth crossing was the far-bank priest with the temple's leaves in a jar, the genealogies and the boundary register and the list of who owed what, because a village that has lost its record has lost its fields twice. The priest held the jar above his head the whole way across and did not bail, and the boy of twelve bailed for both of them.
+
+And then the rope went.
+
+It was the far end, where he had tied it to the terrace wall in the dark, and a terrace wall that nobody laid in anyone's memory is not a post, and the water had been working at the stones all night. The rope came away with three of them, and the boat, which was on our bank, swung out on the current and he and the boy held it to the bank by main strength while the rope trailed downstream, and when they had it tied again to the rope tree there was no far end to tie to anything.
+
+On the terrace there were four people left: the headman, the headman's wife, a girl of the headman's household, and a man nobody has ever been able to name, which the far bank finds funny to this day, because he was the one who argued about it. The water was at the third terrace and rising.
+
+Taranpal went across without the rope.
+
+You have seen the river in flood. You know what a flat boat does on a river in flood without a rope. It goes downstream, and it goes fast, and the man poling it is not steering it, he is arguing with it. He put the boat in above the hill, as far above as he could drag it along our bank with the boy, and he let the river take it, and he poled against the river the whole way, and the river carried him down a mile and across, and he fetched up against the second terrace with the boat half full of water and the pole broken. The four got in. He had no pole. He took one of the broken halves and the headman took the other, and the two of them, who had quarreled across the water all night, brought the boat down the river two miles more and across to our bank, and walked it back up along the bank in the morning with the rope tree in sight the whole way.
+
+That is nine. The count is the telling.
+
+When they came up to the houses the far-bank village was eating our grain by our fires with its own grain stacked in our granary, and the children were asleep, and the far-bank priest had his jar. Taranpal sat down by the first fire he came to and somebody put a dish in front of him. He ate it. He asked for nothing. Then he slept, and the telling says he slept a day and a night, and when he woke he went down to the river to look at his boat.
 :::
 
 ::: {.verse form=prose lang=vedy enc=vedyvedyaksharaenc work=the-ferryman-at-the-ford-3}
-uhu kalda bhe ve trel chambu. mahvasultu pa nartalka nau 12 janru bhornu, vau 15 vren vena lam orsa. ve ganstal aisu bhe lam adnu, drunem ehu rinda orsa. lam, anva stovira, anva lamnyur ushta ro nirnak jannuk, anva sartu navu, le grimapavi kaldunganstal. grimapavi ehu uvas kamva ushta le lampu. taranpal ganstal aisu bhe chambu ro grimapavi pavi orsa druk grima uvas ushta lampu. le grimapavi nyuru orsa./
-ve jaum demrak bhe trel chambu. katha vena ganu, le nu mo shem ganu, drunem ganona katru orsa./
-ganstal aisu torona bhe letrak lam le vena ushta druk nirnak jannuk orsa. ve vena mova ro tirsa tral shem hauvu. mova ro grima ro nirnak jannuk vena groha tral utrak adnu le agmi jvelak./
-ganstal birsa bhe navu lam orsa, le 12 orkhu ro kema. ve brel lam ro ganona nuvrak, le ve taranpal shem dandra shem nau tarpu. uhu ghaul trum vena ve jannuk ro ganona bhe stanru./
-ganstal tre bhe stovira orsa. aisu nau bhe daushu. taranpal ve druk bremu pomu uvas brondu, drunem bremu pomu druk varsu uvas orsa le nyuru surkin ro jvelaka uvas orsa. navu tirsa ro jvelita kenu anva nodra ve ro jvelaka le dahanashila, sartu birsa, orsa lampu, le dvarna ro devra jalmavru jnenru lampu. ehu navu tirsa ro jvelita ro vinsa orsa. nu brel ro vinsa ushta vranu./
-ganstal sotra bhe lamnyur ushta ro nirnak jannuk orsa. dopranu anra birsa lam mova ro tirsa pa prabhana bhe orsa. sartu vena ro ormona bhe janru vena torona ro lam tirmun, le vena ro lamlam kenu levu uhu tirma ushta./
-ganstal kunsha bhe jalka bhe pralnu uvas grenu ro tarnak jannuk orsa. vena ro ganru pralnu grenu ro janru kamva ushta ro ganru vrun bram barnu orsa. vena navu janru ehu jnenuk uvas kamva ushta./
-ganstal shauka bhe pralnu grenu ro tarnak jannuk orsa. vena brel pralnu lampu, le jalka darka, le uvas pralnu./
-ganstal netu bhe navu tirsa ro grima ro danna orsa. sartu danna vena chelkoda bhe bhumitala utrak bhornu orsa. drunem janra nodra trel bhornu, le navu tirsa bhe ghomra uvas ushta, vena aisul bram nirmak kalda tral bhornu. ve kaldunganstal janru anra danna adnu. keru janru ehu uvas dormin orsa lampu. grimapavi bhumitala trum vi bravul lampu. taranpal danna ferka utrak chambu uvas grenu, le grimapavi grenu orsa lampu./
-ganstal daum bhe navu tirsa ro jvelita orsa, ombhala ro lipu koda bhe. sutka ro lipu, khondra ro lipu, le jahu kevu ro anvaru ushta ro lipu. drunem grima brel ro lipu nelnu, vi birsa demrak bhe brel ro shetka nelnu. sartu torona bhe jvelita koda brel ro shirnu utrak ushta, le nau trum jalka uvas pruku. 12 orkhu ro kema sartu birsa druk jalka pruku./
-le uhu kalda bhe mahvasultu chambu./
-vi duruk kalduna orsa. ve ghauru bhe vi bhumitala ro ludra tral banduk. nortu smiriti bhe janru stanru ro bhumitala ro ludra stumbha uvas orsa. sartu ghaul bhe jalka shilsa chamru. mahvasultu tre shilsa shem durul hauvu. nau mova ro tirsa bhe orsa. vi jalchamru pa turu vartuk. ve le kema kartul dranku shem vi tirsa anshe ushta. mahvasultu nodra nitar nyuru orsa. vena nau vramul mahvasultu ro ferka tral banduk, uhu kalda bhe vrel varsu tral banduk druk navu kalduna uvas orsa./
-bhumitala pa sotra janru nyuru orsa. grimapavi, ve ro nipran, ve ro kobala ro nirnak lam, le nortu janru tirma pomu grenu ro tarnak jannuk. kenu levu navu tirsa ehu drun gelnu, drunem ehu janru ehu drun preska ushta ro janru orsa. jalka ganstal tre ro bhumitala bhe orsa, le nyuru utru./
-taranpal mahvasultu uvas shem trel chambu./
-nu jalmavru bhe nodra darka. nu mahvasultu uvas ro nartalka nau ro karmu jnenuk. vi nodra nitar chambu, le praksun chambu. dandra shem tarpu ro janru vi uvas nayu, ve vi shem preska karmak. ve domsa utrak bhe nau jalka bhe stanru. ve kema shem mova ro tirsa anva grenu duruk utrak vi pruku. ve nodra vi adnu vrannuk. sartu pantra bhe ve dandra shem nodra anvrak tarpu. nodra ve aisu milka nitar le trel bhornu. ve ganstal birsa ro bhumitala anshe brondu, nau khondra ro birsa jalka shem purku le dandra brakru. sotra janru rinu chambu. ve dandra uvas ushta. ve aisu brakru khondra adnu, grimapavi navu khondra adnu. birsa janru sartu ghaul jalka trel preska karmak, vena nau nodra nitar birsa milka navu le mova ro tirsa trel shem hauvu. dopranu bhe vena nau tirsa anva utrak padsun shem vramu. sartu pantra bhe mahvasultu ro ferka darsin orsa./
-ehu jaum orsa. ganona katru orsa./
-vena groha tral utrak hauvu, navu tirsa ro grima mova ro agmi anshe mova ro danna ghuma. vena ro danna mova ro ghomrastonu bhe stanru orsa. lam nidu. navu tirsa ro jvelita ve ro koda ushta. taranpal ganstal aisu agmi anshe sadnu. keru janru ve pravun pakghomra stanru. ve vi ghuma. ve nortu varsu jahnuk. uhu kalda bhe ve nidu. katha ve aisu demu le aisu ghaul nidu lampu. ve nivra, ve ve ro nau darmu druk nodra tral nitar chambu.
+uhu kalda bhe ve trel chambu. dorpa pa nartalka nau teskabirsa janru bhornu, vau teskakunsha vren vena lam orsa, le ve ganstal aisu bhe lam adnu, drunem ehu rinda orsa, lam, anva stovira, anva lamnyur ushta ro nirnak jannuk, anva sartu navu, le grimapavi kaldunganstal bhe, le grimapavi ehu uvas kamva ushta le vi lampu, le taranpal lampu, ganstal aisu bhe chambu ro grimapavi druk grima nortu orsa, le grimapavi nyuru orsa.
+
+ve jaum demrak bhe trel chambu. katru vena ganu, le nu mo shem ganu, drunem ganona katru orsa.
+
+ganstal aisu torona letrak lam orsa, le vena ushta druk aisu nirnak jannuk, le ve vena mova ro tirsa tral shem hauvu, le mova ro grima ro nirnak jannuk vena groha tral utrak bhornu le agmi jvelak.
+
+ganstal birsa torona navu lam orsa, le teskabirsa orkhu ro aisu kema, ve lam ro ganona nuvrak le taranpal shem nau dandra shem tarpu, le uhu ghaul trum vena ve jannuk ganu.
+
+ganstal tre torona stovira orsa, le vena trum aisu nau bhe daushu, le ve vi druk keru varsu bremu karmak druk uvas brondu, drunem bremu karmak druk nortu orsa le nyuru dahu ro jvelaka nortu orsa, le navu tirsa ro purohata anva lampu, nodra vi ro jvelaka le vi ro dahanashila orsa, sartu birsa, le dvarnavoli ro devra jalmavru jnenru. ehu navu tirsa ro purohata ro montra orsa, le nu brel ro montra ushta vranu.
+
+ganstal sotra torona lamnyur ushta ro nirnak jannuk orsa, le dopranu anra birsa mova ro tirsa pa lam pomu, le uhu birsa lam vena ro sartu ormona bhe torona ro lam tirmun, le vena ro lamlam ro lam kenu levu.
+
+ganstal kunsha torona pralnu uvas grenu ro tarnak jannuk orsa, le vena pralnu grenu ro janra kamva ushta ro vrun bram barnu orsa.
+
+ganstal shauka torona pralnu grenu ro tarnak jannuk orsa, pralnu druk lampu, le jalka darmu, le uvas pralnu ro.
+
+ganstal netu torona navu tirsa ro grima ro danva orsa, chelkoda bhe bhumitala utrak bhornu ro sartu danva, drunem nodra trel bhornu ro grima, le navu tirsa pa ghuma druk nortu ushta ro, aisul bram nirmak daushona tral bhornu orsa. ve kaldunganstal janra anra danva adnu. keru janru lampu, vi uvas dormin orsa. grimapavi vi lampu, bravul, bhumitala trum. taranpal lampu, danva ferka utrak chambu uvas grenu, le grimapavi grenu.
+
+ganstal daum torona navu tirsa ro purohata orsa, ombhala ro kodri kodra bhe shem, sutka, le khondra ro gennu, le jahu kevu anvaru ushta ro gennu, drunem brel ro lipu nelnu ro grima brel ro shetka birsa demrak bhe nelnu. sartu torona bhe purohata kodra brel ro shirnu utrak ushta le jalka uvas praksu, le teskabirsa orkhu ro kema sartu birsa druk jalka praksu.
+
+le uhu kalda bhe dorpa chambu.
+
+vi duruk kalduna orsa, ve vi ghauru bhe bhumitala ro ludra tral gentak ro stalu, le nortu janru ro smiriti bhe stanru ro bhumitala ro ludra stumbha uvas orsa, le sartu ghaul jalka shilsa pa karmak. dorpa tre shilsa shem durul hauvu, le nau, mova ro tirsa bhe orsa ro, jalchamru pa turu vartuk, le ve le kema kartul dranku shem vi tirsa anshe ushta, kaldem dorpa nodra nitar chambu, le vena vi vramul dorpa ro ferka tral gentak ro kalda bhe, vrel varsu tral gentak druk navu kalduna nortu orsa.
+
+bhumitala pa sotra janru nyuru orsa, grimapavi, grimapavi ro nipran, grimapavi ro kobala ro nirnak lam, le aisu tarnak jannuk, nortu janru ve ro tirma lampu grenu, le navu tirsa ehu drun kenu levu gelnu, drunem ehu drun preska karmak ro janru ve orsa. jalka ganstal tre bhumitala bhe orsa, le nyuru utru.
+
+taranpal dorpa uvas trel chambu.
+
+nu jalmavru bhe nodra darka. nu dorpa uvas ro nartalka nau jalmavru ro nodra pa kevu karmak jnenuk. vi nodra nitar chambu, le praksun chambu, le dandra shem vi tarpu ro janru vi uvas nayu, ve vi shem preska karmak. ve domsa utrak nau jalka bhe stanru, kema shem mova ro tirsa anva grenu ro sartu duruk utrak pruku, le nodra vi adnu vrannuk, le sartu pantra bhe dandra shem nodra vrun tarpu, le nodra ve aisu milka nitar le trel bhornu, le ve ganstal birsa bhumitala anshe brondu, nau khondra ro birsa jalka shem purku le dandra brakru. sotra janru rinu chambu. ve dandra uvas ushta. ve aisu brakru khondra adnu le grimapavi navu adnu, le uhu birsa janru, sartu ghaul jalka trel preska karmak ro, nau nodra nitar bram birsa milka le mova ro tirsa trel shem hauvu, le dopranu bhe tirsa anva utrak padsun shem vramu, sartu pantra bhe dorpa ro ferka darsin.
+
+ehu jaum orsa. ganona katru orsa.
+
+vena groha tral utrak hauvu ro kalda bhe navu tirsa ro grima mova ro agmi anshe mova ro danva ghuma, brel ro danva mova ro ghomrastonu bhe stanru, le lam nidu, le navu tirsa ro purohata brel ro kodra ushta. taranpal hauvu ro ganstal aisu agmi anshe sadnu le keru janru ve pravun pakghomra stanru. ve vi ghuma. ve nortu jahnak. uhu kalda bhe ve nidu, le katru lampu, ve aisu demu le aisu ghaul nidu, le ve nivra ro kalda bhe ve brel ro nau darmu druk nodra tral nitar chambu.
 :::
 
-## Three Requests
+## The Three Askings
 
 ::: {.verse form=prose lang=en work=the-ferryman-at-the-ford-4}
-The river fell in its own time. The other village went home to its mound, found what you find, rebuilt what you rebuild, and planted late. Something had happened on the terraces which the villages could not plant over: for a whole night two villages had looked to one man and one rope. They understood that nobody owned the ford./
-The temples own the fields. You know that; it is our oldest arrangement. A village holds its land through its temple. The temple keeps water, records and granary. Households sit in the hall. Yet neither temple owns the crossing between two villages. The rope across it belongs to nobody. When the river rises and that rope alone stands between a village and the water, nobody's is insufficient./
-The two villages met on the hill's top terrace, inside the old ring of stone which remains there, built before anyone remembers. They summoned Taranpal and asked him./
-First they asked him to keep the ford: maintain boat and rope throughout dry months when nobody needed them and wet months when everyone did; announce when crossing was safe and unsafe, and have his decision obeyed. Both villages would feed him: a measure from each household at every harvest, whether anyone had crossed that year or not./
-He declined. He already kept the ford and already ate. A man paid at every harvest regardless of crossings would eventually cease to care whether anyone crossed./
-They asked again. This time four villages stood on the terrace. The two upstream villages had heard and considered their own crossings. They asked him to keep this ford and teach a man at each other crossing, giving the upper river keepers throughout. Every village with a crossing would feed him./
-He declined. He could teach someone to pole a boat. He could not teach someone to cross without a rope. A village paying for a keeper and receiving a man unwilling to cross without the rope would have bought nothing and deserved its purchase./
-They asked a third time. The far-bank priest asked differently. He said: we do not ask you to keep the ford. We ask you to become the man all the villages feed, so there is one such man upon this river. The ford will be the first thing you hold for us together. Others will follow. There is the pilgrim road, kept by no village, where every pilgrim is robbed. There is the channel above the fields, disputed by two villages for three generations because neither grants the other permission to clear it. There is the year raiders descend the valley and each village shuts its gate to watch the next burn. We are proud of the janpoda, a village and its temple. It is the right size for everything except what lies between villages. Those things require a man between villages. We will feed him. We will declare it before the god./
-Taranpal asked: what of the day he holds the ford for himself?/
-The priest answered: that day it belongs to us again. We will declare that before the god as well./
-They swore it, every village present, each in turn. The oath alone in this story has changed by no word. It is sworn. Change an oath and you have another oath.
+The river went down in its time, as it does. The far-bank village went home to its mound and found what you find, and rebuilt what you rebuild, and planted late. But a thing had happened on the terraces that the villages could not plant over, which was that two villages had looked at one man and one rope for a whole night and understood that the ford did not belong to anyone.
+
+The temples own the fields. You know this; it is the oldest thing we have. A village owns its land through its temple, and the temple keeps the water and the record and the granary, and the households sit in the hall. But the crossing between two villages belongs to neither temple, and a rope across it is nobody's, and when the river is up and the rope is the only thing between a village and the water, nobody's is not enough.
+
+So the two villages met on the top terrace of the hill, inside the ring of stone that is still there and that nobody laid in anyone's memory, and they sent for Taranpal, and they asked him.
+
+They asked him the first time to keep the ford. To keep a boat and a rope always, through the dry months when nobody needed them and the wet ones when everybody did; to say when the river could be crossed and when it could not, and to be obeyed in it; and to be fed for it by both villages, a measure from every household at every harvest, whether or not anybody had crossed that year.
+
+He refused. He said that he kept the ford already, and was fed already, and that a man who is paid a measure at every harvest whether or not anyone crosses will one day stop caring whether anyone crosses.
+
+They asked him the second time, and the second time there were four villages on the terrace, because the two above the ford had heard, and the villages above the ford have a crossing of their own and had thought about it. They asked him to keep this ford and to teach a man at each of the others, so that the river would have keepers along its whole upper reach, and to be fed for it by every village that had a crossing.
+
+He refused. He said that he could teach a man to pole a boat, and could not teach him to go across without the rope, and that a village that paid a keeper and got a man who would not go across without the rope would have paid for nothing and would deserve what it got.
+
+They asked him the third time, and the third time the far-bank priest asked it, and he asked it differently. He said: we are not asking you to keep the ford. We are asking you to be the man the villages feed so that there is one man on this river whom all the villages feed. The ford is the first thing you will hold for all of us. There will be others. There is the pilgrim road, which no village keeps and every pilgrim is robbed on. There is the channel above the fields that two villages have quarreled over for three generations because neither will give the other the right to clear it. There is the year the raiders come down the valley and each village shuts its gate and watches the next one burn. A janpoda is a village and its temple, and we are proud of it, and it is the right size for everything except the things that are between the villages. For those we need a man who is between the villages. We will feed him. We will say so in front of the god.
+
+And Taranpal said: and the day the man holds the ford for himself?
+
+And the priest said: that day it is ours again. We will say that in front of the god too.
+
+Then they swore it. Every village that was on the terrace swore it, each in its turn, and the oath is the thing in this telling that has not changed by a word, because it is sworn, and an oath that changes is a different oath.
 :::
 
 ::: {.verse form=prose lang=vedy enc=vedyvedyaksharaenc work=the-ferryman-at-the-ford-4}
-nodra brel ro kalda bhe nitar chambu, samnu pantra shem. navu tirsa ro grima brel ro miratutru tral vramu, le nu kretu ro varsu kretu, le nu navrak ro varsu navrak, le sandul shamona karmak. nel bhumitala pa aisu karmu narta. grima vi pa shamona grenu uvas karmak. birsa grima sartu ghaul bhe aisu janru le aisu mahvasultu darka, le torona vrel janru ro uvas orsa jnenru./
-ombhala shetka ro ronyur ushta. nu ehu jnenuk. vi mova ro sartu navu vrun bram puratra varsu orsa. grima ombhala pral brel ro bhumri ushta. ombhala jalka, lipu le ghomrastonu ushta. kobala shalda bhe sadnu. nel birsa grima minra torona uvas aisu ombhala ro orsa. vi trel mahvasultu nortu janru ro orsa. nodra utru, le mahvasultu grima le jalka minra aisul varsu orsa, uhu kalda bhe nortu janru ro uvas saprul orsa./
-drunva birsa grima domsa ro utrakilta bhe sanguk, shilsa ro mondala rinru. vi nyuru uhu stalu bhe orsa, le nortu smiriti bhe janru vi stanru. vena taranpal ravhu, le ve jahnuk./
-ganstal aisu bhe vena ve torona ushta jahnuk. sartu kalda bhe nau le mahvasultu ushta, bherka menka bhe nortu janru vena nyaku le jalkru menka bhe sartu janru nyaku. nodra trel chambu vranu ro kalda le uvas vranu ro kalda lampu, le janra ve ro shaltu bhinu nyak. birsa grima ve druk ghomra pomu, sartu danna ro adnu bhe sartu kobala trum aisu umbra, uhu orkhu janru trel chambu vau uvas chambu./
-ve nuvrak. ve torona prenu ushta le ghomra prenu adnu lampu. ve lampu, sartu danna ro adnu bhe aisu umbra adnu ro janru, janru trel chambu vau uvas chambu, aisu demu bhe janru trel chambu vau uvas chambu ro nyura nelnu./
-ganstal birsa bhe vena ve jahnuk. ehu demrak bhe bhumitala pa sotra grima orsa. torona utrak ro birsa grima bhinu, le brel ro torona ushta, le vi drun montru. vena ve ehu torona ushta, le sartu navu bhe aisu janru gorvun jahnuk, nodra ro sartu uttarka bhe palda orsa druk. sartu torona ushta ro grima ve tral ghomra pomu./
-ve nuvrak. ve aisu janru dandra shem nau tarpu gorvun grenu lampu, nel ve vi mahvasultu uvas shem trel chambu uvas grenu gorvun. palda tral orgha pomu ro grima, ve mahvasultu uvas shem trel chambu uvas kamvin ro janru adnu, vi nortu varsu druk pomu, le vi brel ro adnu vardun ushta lampu./
-ganstal tre bhe vena ve jahnuk. ehu demrak bhe navu tirsa ro jvelita jahnuk, le ve navu pantra shem jahnuk. ve lampu, mova nu torona ushta uvas jahnuk. mova nu grima ghomra pomu ro janru navra jahnuk, ehu nodra pa sartu grima ghomra pomu ro aisu janru orsa druk. torona nu mova sartu druk ushta ro ganstal aisu varsu orsa. navu varsu orsa. margin ro margha orsa, nortu grima vi ushta, le sartu margin bhe stolnu narta. shetka utrak jalpantra orsa. birsa grima tre sutkalda bhe vi drun preska karmak, drunem aisu navu tral vi marknu ro vranu uvas pomu. aisu orkhu bhe lutra daun nitar hauvu, le sartu grima brel ro dvarna brondu le navu grima dahu nyura darka. janpoda aisu grima le ve ro ombhala orsa. mova vi drun barda ushta. vi sartu varsu druk samrin mavru orsa, aisul grima minra ro varsu druk uvas. uhun druk mova grima minra ro aisu janru nyaku. mova ve tral ghomra pomu. mova devra pravun ehu lampu./
-le taranpal lampu, le janru brel druk torona ushta ro demu./
-le jvelita lampu, uhu demu bhe vi vramul mova ro orsa. mova devra pravun ehu levu lampu./
-uhu kalda bhe vena kortu pomu. bhumitala pa sartu grima brel ro varta bhe kortu pomu. kortu ehu katru bhe aisu akshora levu uvas navrun ro varsu orsa, drunem vi kortu orsa. navrun ro kortu navu kortu orsa.
+nodra brel ro kalda bhe nitar chambu, vi ro pantra shem. navu tirsa ro grima brel ro miratutru tral vramu, le nu kretu ro varsu kretu, le nu navrak ro varsu navrak, le sandul shamona karmak. nel bhumitala pa aisu varsu narta, le grima vi pa shamona karmak uvas grenu, birsa grima kartum ghaul bhe aisu janru le aisu dorpa darmu, le torona nortu janru ro orsa jnenru.
+
+ombhala shetka ushta. nu ehu jnenuk, vi mova ro sartu navu vrun bram puratra varsu orsa. grima ombhala pral brel ro bhumri ushta, le ombhala jalka, lipu le ghomrastonu ushta, le kobala shalda bhe sadnu. nel birsa grima minra ro torona aisu ro birsa ombhala ro uvas orsa, le vi trel dorpa nortu janru ro orsa, le nodra utru le dorpa grima le jalka minra aisul varsu orsa ro kalda bhe, nortu janru ro narduk uvas orsa.
+
+drunva birsa grima domsa ro utrakilta bhe sanguk, shilsa ro mondala rinru, vi nyuru uhu stalu bhe orsa le nortu janru ro smiriti bhe vi stanru, le vena taranpal ravhu, le ve jahnak.
+
+ganstal aisu demrak bhe vena ve torona ushta jahnak, sartu kalda bhe nau le dorpa ushta, bherka ritru bhe nortu janru vena nyaku ro kalda bhe le jalkru ritru bhe sartu janru nyaku ro kalda bhe, nodra trel chambu vranu ro kalda le uvas vranu ro kalda lampu, le najruka vi bhe adnu, le birsa grima trum vi druk ghomra adnu, sartu ghomrakhondra bhe sartu kobala trum aisu umbra, uhu orkhu keru janru trel chambu vau uvas chambu.
+
+ve nuvrak. ve lampu, ve torona prenu ushta, le ghomra prenu adnu, le sartu ghomrakhondra bhe aisu umbra adnu ro janru, keru janru trel chambu vau uvas chambu, aisu demu bhe vren keru janru trel chambu vau uvas chambu uvas montru.
+
+ganstal birsa demrak bhe vena ve jahnak, le ganstal birsa demrak bhe bhumitala pa sotra grima orsa, drunem torona utrak ro birsa grima vi bhinu, le torona utrak ro grima brel ro torona ushta, le vi drun montru. vena ve ehu torona ushta jahnak, le sartu navu torona bhe aisu janru gorvun, nodra ro sartu uttarka bhe palda orsa druk, le torona ushta ro sartu grima trum vi druk ghomra adnu.
+
+ve nuvrak. ve lampu, ve aisu janru dandra shem nau tarpu gorvun grenu, le dorpa uvas trel chambu uvas grenu gorvun, le palda tral pomu ro le dorpa uvas trel uvas chambu ro janru adnu ro grima nortu druk pomu, le vi adnu ro varsu vardun.
+
+ganstal tre demrak bhe vena ve jahnak, le ganstal tre demrak bhe navu tirsa ro purohata jahnak, le ve navu pantra shem jahnak. ve lampu, «mova nu torona ushta uvas jahnak. mova nu grima ghomra pomu ro janru navra jahnak, ehu nodra pa sartu grima ghomra pomu ro aisu janru orsa druk. torona nu sartu mova druk ushta ro ganstal aisu varsu orsa. navu varsu levu orsa. margin ro margha orsa, nortu grima vi ushta, le sartu margin vi pa lutra bhe stolnu. shetka utrak ro jalpantra orsa, birsa grima tre sutkalda bhe vi drun preska karmak, drunem aisu ro birsa navu tral vi marknu ro vranu uvas pomu. lutra daun nitar hauvu ro orkhu orsa, le sartu grima brel ro dvarna brondu le anvaganstal grima dahu nyura darmu. janpoda aisu grima le vi ro ombhala orsa, le mova vi drun barda ushta, le vi sartu varsu druk samrin orsa, grima minra orsa ro varsu nuvrek. uhun druk mova grima minra orsa ro aisu janru nyaku. mova ve tral ghomra pomu. mova devra pravun vi lampu.»
+
+le taranpal lampu, «le janru brel druk torona ushta ro demu?»
+
+le purohata lampu, «uhu demu bhe vi vramul mova ro orsa. mova devra pravun uhu levu lampu.»
+
+uhu kalda bhe vena kortu pomu. bhumitala pa orsa ro sartu grima kortu pomu, sartu aisu brel ro stanra bhe, le ehu katru bhe kortu aisu shaltu levu uvas navrun ro varsu orsa, drunem vi kortu orsa, le navrun ro kortu navu kortu orsa.
 :::
 
 : The Oath on the Terrace {#oath}
 
 ::: {.verse form=oath lang=en work=oath}
-We feed the man keeping the ford for everyone./
-.One measure from every hearth,/
-with the river high or low,/
+We feed the man who holds the ford for all./
+.A measure from each hearth,/
+whether the river is up or down,/
 .whether we cross or stay./
-He tells when crossing is permitted./
-.We hear him and go./
-He keeps ford, road and channel,/
-.the gate the raiders approach,/
-all that lies between the villages,/
-.belonging to none./
-We feed him. We declare it before the god.
+He says when the water may be crossed./
+.We hear him and we go./
+He holds the crossing, the road, the channel,/
+.the gate the raiders come to,/
+everything that lies between the villages/
+.and belongs to none of them./
+We feed him. We say it before the god.
 
-When he keeps the ford for himself,/
-.it belongs to us again./
-When the measure feeds his household/
-.instead of the rope,/
-when he says the water can be crossed/
-.and will not go,/
-that day we stop the measure and declare it./
-.We declare it before the god.
+The day he holds the ford for himself,/
+.the ford is ours again./
+The day the measure feeds his house/
+.and not the rope,/
+the day he says the water may be crossed/
+.and does not go,/
+that day we stop the measure, and we say so,/
+.and we say it before the god.
 
-That is the oath. You have all spoken it. Speak it again, children as well. Good.
+That is the oath. You have all said it. Say it again now, the children too. Good.
 
-They consecrated him afterward. Listen to how: the manner matters. The terrace had no altar, only the stone ring and a hollow at its center. The far-bank priest took the boat's bailing bowl down to the river, filled it, and climbed back over five terraces. He poured river water over Taranpal's head in the hollow. The villages spoke his name. That was his consecration: river water from a bailing bowl, poured by a village priest, inside a ring nobody had built. The far bank says he laughed afterward. Our bank says he wrung his hair out and asked if that was everything. Both accounts are true.
+Then they hallowed him, and I will tell you how, because the way they did it is the point. There was no altar on the terrace. There was a ring of stone and a hollow in the middle of it, and the far-bank priest went down to the river with the boat's bailing bowl and came back up five terraces with it full, and poured the river over Taranpal's head in the hollow, and the villages said his name. That was the hallowing. The river, out of a bailing bowl, by a village priest, in a ring nobody built. The far bank says that afterward he laughed, and the near bank says he wrung out his hair and asked whether that was all, and both are true.
 
-Later the villages cut a stone for the hollow, so the next man would have something to stand on at consecration. This is the story's first object made by someone whose name we know: the mason was the twelve-year-old boy, now grown. He left it plain. A stone destined to receive poured river water, he said, required no carving.
+Afterward the villages cut a stone and set it in the hollow, so that the next man could be hallowed on something, and the stone is the first thing in this telling that was made by anyone whose name we know, because the mason was the boy of twelve, grown. He cut it plain. He said a stone that was going to have the river poured on it did not want carving.
 :::
 
 ::: {.verse form=oath lang=vedy enc=vedyvedyaksharaenc work=oath}
-mova sartu druk torona ushta ro janru ghomra pomu./
-.sartu agmistalu trum aisu umbra,/
-nodra utrak vau nitar orsa,/
-.mova trel chambu vau nyuru orsa./
-ve jalka trel chambu vranu ro kalda lampu./
-.mova ve bhinu le chambu./
-ve torona, margha, jalpantra ushta,/
-.lutra hauvu ro dvarna,/
-sartu grima minra orsa ro varsu,/
-.le vena ro nortu grima ro varsu./
-mova ve tral ghomra pomu, mova devra pravun lampu.
+sartu druk torona ro palda tral,/
+.sartu groha umbra,/
+vau nodra utrak, vau nodra nitar,/
+.trel chambu vau nyuru./
+ve kalda lampu, jalka trel vranuk,/
+.mova bhinu, chambu./
+torona, margha, jalpantra ushta,/
+.le lutra hauvu ro/
+dvarna, le grima minra ro sartu,/
+.vi nortu grima ro./
+ve tral ghomra pomu, devra pravun.
 
-ve brel druk torona ushta ro demu,/
-.torona vramul mova ro orsa./
-umbra ve ro groha ghomra pomu ro demu,/
-.le mahvasultu uvas,/
-ve jalka trel chambu vranu lampu ro demu,/
+brel druk torona ushta ro demu,/
+.vi vramul mova ro./
+umbra ve ro groha tral ro demu,/
+.le dorpa tral uvas,/
+jalka trel vranuk lampu ro demu,/
 .le ve uvas chambu,/
-uhu demu bhe mova umbra brondu, le vi lampu,/
-.le mova devra pravun vi lampu.
+uhu demu mova umbra brondu,/
+.lampu, devra pravun.
 
-ehu kortu orsa. nu sartu vi lampu. kenu nu vi vramul lampu, lam levu. vardak.
+ehu kortu orsa. nu sartu vi prenu lampu. kenu nu vramul lampu, lam levu‼ vardak.
 
-uhu kalda bhe vena ve votra karmak. mo nu tral pantra lampu, drunem vena ro pantra vi ro shaltun orsa. bhumitala pa dorna uvas orsa. shilsa ro mondala le vi ro minru bhe kholma orsa. navu tirsa ro jvelita nau ro jalprukoda shem nodra tral nitar chambu. ve vi purku shem kunsha bhumitala utrak vramu. ve kholma bhe taranpal ro shirnu pa nodra ro jalka sulnu. grima ve ro tirma lampu. uhu votra ro karmu orsa. nodra, nau ro jalprukoda trum, grima ro jvelita shem, nortu janru karmak ro mondala rinru. navu tirsa ve anva gelnu lampu. anshe tirsa ve brel ro ralmu jalka pruku le ehu sartu orsa su jahnuk lampu. le sartu birsa sotyak orsa.
+uhu kalda bhe vena ve votra karmak, le mo nu tral vi ro pantra lampu, drunem pantra vi ro shaltun orsa. bhumitala pa dorna uvas orsa. shilsa ro mondala le vi ro minru bhe kholma orsa, le navu tirsa ro purohata nau ro jalprukoda shem nodra tral nitar chambu, le vi purku shem kunsha bhumitala utrak vramu, le kholma bhe taranpal ro shirnu pa nodra sulnu, le grima ve ro tirma lampu. uhu votra karmuna orsa. nodra, jalprukoda trum, grima ro purohata shem, nortu janru kotrak ro mondala rinru. navu tirsa lampu, ve anva gelnu, le anshe tirsa lampu, ve brel ro ralmu trum jalka pruku le ehu sartu su jahnuk, le sartu birsa sotyak orsa.
 
-anva grima aisu shilsa chinu le kholma bhe stanru, anvaganstal ro janru varsu pa votra karmak druk. shilsa ehu katru bhe mova tirma jnenuk ro janru karmak ro ganstal aisu varsu orsa. drunem shilsakartu puratra 12 orkhu ro kema orsa, kenu jannuk. ve vi trena chinu. ve lampu, nodra pa sulnu ro shilsa alekhra uvas nyaku.
+anva grima aisu shilsa chinu le kholma bhe stanru, anvaganstal janru keru varsu pa votra navra druk, le shilsa ehu katru bhe mova tirma jnenuk ro janru karmak ro ganstal aisu varsu orsa, drunem shilsakartu teskabirsa orkhu ro uhu kema orsa, jannuk navra. ve vi lipruk chinu. ve lampu, nodra vi pa sulnu ro shilsa alekhra uvas nyaku.
 :::
 
-## What He Kept
+## What He Held
 
 ::: {.verse form=prose lang=en work=the-ferryman-at-the-ford-6}
-Taranpal kept the ford thirty years. He maintained boat and rope; the villages fed him. Twice more in those years he crossed without the rope, once for a woman, once for a cow. The banks still dispute which crossing he made faster. Keeping the pilgrim road meant walking it with a staff until robbers recognized him and moved elsewhere. He cleared the disputed channel himself, with his own hands, while both villages watched. Then he asked which village wanted to deny his right. When raiders came, he held the gate with men of four villages behind him. They had never stood behind one man before. The raiders retreated up the valley. They never returned during his life./
-He built no larger house than anyone else and accepted no second measure. Consecrated with a bailing bowl in a hollow, he died in a bed, in a house a Karmija would recognize. The villages lit his lamp, sounded his conch, and burned him that same day on our bank, where he had secured the rope. The ferry children carried the fire./
-His son kept the ford afterward. The villages fed him, and he kept it well. His grandson kept ford, road, channel and gate. They fed him; he kept them well. He was consecrated on the stone in the hollow with river water poured over his head. The villages spoke his name. It was longer than his grandfather's./
-Listen carefully. The story turns here. I will not soften it./
-His descendants held more than the ford. They held the upper river and its fields. A measure from every hearth became a measure from every field, then a measure of every field. The man villages fed became a man villages owed. What they had made to stand between them came to stand above them. All were consecrated on the stone in the hollow with river water from a bowl. All spoke the oath; the villages answered it. No word of the oath changed. The speaker changed. The story names no generation when the turn happened. It says the change came like a river's turn: a little each year, then suddenly in one night./
-One year the king failed to come upstream for consecration on the hill. He was a king by then, and had been longer than anyone could reckon backward. He sent for the villages to come down to him. He had built a town upon the kingdom's fields where the river ran broad and slow. Beside his palace he had built a Shaper's temple, with a new sandstone altar. A Shaper's priest would consecrate him there with oil instead of river water. He called the altar very beautiful. It is. You have seen it. Every later king in that lineage was consecrated there, to the last./
-The villages refused to go down. They all climbed to the top terrace instead. They lifted the stone the twelve-year-old boy had cut from its hollow and carried it to the second terrace. They laid it face-down beneath turf and spoke the entire oath over it, its second half louder than the first. They did not break it. A stone which had received poured river water needed no breaking. They turned it over so village hands would consecrate nobody upon it again, and so it would remain there, face-down, if needed./
-That is why the hollow above is empty and goats graze there. That is why scholars coming from Rajepur to ask for the first kings' altar cannot find it. They look in the hollow. It is not there.
+Taranpal kept the ford for thirty years. He kept the boat and the rope, and the villages fed him, and he went across without the rope twice more in those thirty years, once for a woman and once for a cow, and the two banks still argue over which he was quicker about. He kept the pilgrim road, which means that he walked it with a staff and the robbers learned his face and went to rob somewhere else. He cleared the channel above the fields himself, with his own hands, with both quarreling villages watching, and then asked them which of them wanted to tell him he had no right to. He held the gate the year the raiders came, with the men of four villages behind him who had never before stood behind one man, and the raiders went back up the valley and did not come down it again in his life.
+
+He did not build a house larger than anyone else's. He did not take a second measure. He was hallowed in a hollow by a bailing bowl and he died in a bed in a house a _Karmija_ would recognize, and the villages lit his lamp and sounded his conch and burned him within the day on the near bank, where he had tied the rope, and the ferry children carried the fire.
+
+His son kept the ford after him, and the villages fed him, and he kept it well. His son's son kept the ford and the road and the channel and the gate, and the villages fed him, and he held them well, and he was hallowed on the stone in the hollow with the river poured over his head, and the villages said his name, and it was a longer name than his grandfather's.
+
+Now listen, because here is where the telling turns, and I will not soften it for you.
+
+The sons of his sons held more than the ford. They held the upper river and its fields. The measure from every hearth became a measure from every field, and then a measure of every field, and the man the villages fed became a man the villages owed, and the thing the villages had made so that there would be someone between the villages became a thing that stood over them. Every one of them was hallowed on the stone in the hollow, with the river out of a bowl, and every one of them said the oath, and the villages said it back, and the oath did not change by a word, and the man who said it did. The telling does not say which generation it turned in. The telling says it turned the way the river turns, by a little every year and then all at once in a night.
+
+And one year the king, for he was a king by then and had been for longer than anyone could count back, did not come up the river to the hill to be hallowed. He sent word that the villages were to come down to him, to a new town he had built on the kingdom's fields where the river was wide and slow, and that he had cut a new altar there, of sandstone, in a temple he had raised beside his palace, and that he would be hallowed on that, by a priest of the shaper, with oil and not with river water, and that it was a very fine altar, and so it is. You have seen it. Every king of the line after him was hallowed on it, down to the last.
+
+The villages did not go down. They went up the hill instead, all of them, to the top terrace, and they lifted the stone the boy of twelve had cut out of its hollow, and they carried it down to the second terrace, and they laid it face-down under the turf, and they said the oath over it, the whole oath, the second half louder than the first. They did not break it. A stone that had had the river poured on it did not want breaking. They turned it over, so that nobody would be hallowed on it again by the villages' hand, and so that it would be there, face-down, when it was wanted.
+
+That is why the hollow on the top terrace is empty. That is why the goats graze there. That is why the scholars who come up from Rajepur asking for the first kings' altar do not find it, because they are looking in the hollow, and it is not in the hollow.
 :::
 
 ::: {.verse form=prose lang=vedy enc=vedyvedyaksharaenc work=the-ferryman-at-the-ford-6}
-taranpal 30 orkhu torona ushta. ve nau le mahvasultu ushta, grima ve tral ghomra pomu. uhu 30 orkhu bhe ve birsa demrak navu mahvasultu uvas shem trel chambu, aisu nirnak jannuk druk le aisu gaukra druk. birsa tirsa kren druk ve bram praksun orsa nyuru preska karmak. ve margin ro margha ushta. vi ro shaltun, ve dandra shem vi padsun. stolnu ro janru ve ro mirmu vidsun, le navu stalu bhe stolnu druk chambu. ve brel ro pomba shem shetka utrak jalpantra marknu. birsa preska ro grima nyura darka. uhu kalda bhe ve vena minra kren ve marknu druk vranu uvas ushta lampu kamva ushta jahnuk. lutra hauvu ro orkhu bhe ve dvarna ushta, sotra grima ro tarnak jannuk ve ro kirnu bhe. vena anra aisu janru ro kirnu bhe nortu demrak bhe stambhu. lutra daun utrak vramu, le ve ro ormona bhe vramul nitar uvas hauvu./
-ve navu janru ro groha vrun bram mahva groha uvas kotrak. ve ganstal birsa umbra uvas adnu. ve kholma bhe jalprukoda shem votra karmuna orsa. ve karmija smirdak grenu ro groha bhe nidvastonu pa daushu. grima ve ro jvelaka jvelak, ve ro shonkha bremu karmak, le samnu demu bhe anshe tirsa pa ve dahu, mahvasultu banduk ro stalu bhe. torona ro lam agmi bhornu./
-ve ro kema ve anva torona ushta. grima ve tral ghomra pomu, le ve vardak ushta. ve ro kema ro kema torona, margha, jalpantra le dvarna ushta. grima ve tral ghomra pomu. ve vena vardak ushta. ve kholma bhe shilsa pa votra karmuna orsa, nodra ve ro shirnu pa sulnu. grima ve ro tirma lampu, le vi ve ro sorhutobu ro tirma vrun bram drau orsa./
-kenu nu nyura bhinu. ehu stalu bhe katru vartuk. mo nu druk vi nelka uvas karmak./
-ve ro kema ro kema torona vrun bram barnu ushta. vena uttarka nodra le ve ro shetka ushta. sartu agmistalu trum umbra sartu shetka trum umbra navra, le anva sartu shetka ro umbra navra. grima ghomra pomu ro janru grima anvaru pomu ro janru navra. grima minra keru janru orsa druk grima karmak ro varsu vena utrak stambhu ro varsu navra. sartu janru kholma bhe shilsa pa votra karmuna orsa, koda trum nodra shem. sartu janru kortu lampu. grima vi vramul lampu. kortu aisu akshora levu uvas navrun. vi lampu ro janru navrun. katha kren sutkalda bhe vi vartuk uvas lampu. katha vi nodra ro varta ro samnu pantra shem vartuk lampu, sartu orkhu bhe let, le anva aisu ghaul bhe aisul kalda bhe./
-le aisu orkhu bhe rajva, drunem ve kenu rajva orsa, le nortu janru ganona vramu grenu ro drau kalda bhe rajva orsa, votra karmak druk nodra utrak domsa tral uvas hauvu. ve grima brel tral nitar hauvu nyak ro shaltu pomu. ve rajbhumri ro shetka pa navru pur kotrak, nodra mavru le nirmak ro stalu bhe. ve uhu stalu bhe ve ro rajgroha anshe kartu ro ombhala kotrak, le vi bhe vausshilsa ro navru dorna chinu. ve vi pa kartu ro jvelita shem, tailka shem, nodra ro jalka uvas shem, votra karmuna orsa lampu. ve dorna mahrul sundora orsa lampu, le vi sundora orsa. nu vi darka. ve anva sutka ro sartu rajva vi pa votra karmuna orsa, kaldunganstal grun./
-grima nitar uvas chambu. navul vena sartu domsa utrak chambu, utrakilta tral. vena 12 orkhu ro kema chinu ro shilsa kholma trum utrak tarpu. vena vi ganstal birsa ro bhumitala tral nitar bhornu. vena vi trina nitar mirmu nitar stanru. vena vi utrak sartu kortu lampu, ganstal birsa khondra ganstal aisu vrun bram bravul. vena vi uvas braku. nodra pa sulnu ro shilsa brak nyaku uvas orsa. vena vi anvrak vartuk, grima ro pomba shem vramul nortu janru vi pa votra karmuna orsa druk, le vi nyaku ro demu bhe vi uhu stalu bhe mirmu nitar orsa druk./
-ehu drun utrakilta pa kholma shonya orsa. ehu drun gautra uhu stalu bhe trina ghuma. ehu drun rajepur trum utrak hauvu ro bedrajnenin ganstal aisu rajva ro dorna jahnuk, le vi uvas kretu. vena kholma bhe kresak, le vi kholma bhe uvas orsa.
+taranpal treteska orkhu torona ushta. ve nau le dorpa ushta, le grima ve tral ghomra pomu, le uhu treteska orkhu bhe ve birsa demrak bram dorpa uvas trel chambu, aisu demrak nirnak jannuk druk le aisu demrak gaukra druk, le birsa tirsa kren druk ve bram praksun orsa nyuru preska karmak. ve margin ro margha ushta, le vi ro shaltun, ve vi dandra shem padsun, le lutra ve ro mirmu vidsun le navu stalu bhe stolnu druk chambu. ve shetka utrak ro jalpantra brel marknu, brel ro pomba shem, preska karmak ro birsa grima nyura darmu kaldem, le anva vena jahnuk, «nu minra jahu mo vranru lampu kamva ushta?» lutra hauvu ro orkhu bhe ve dvarna ushta, sotra grima ro tarnak jannuk ve ro kirnu bhe, le vena anra nortu demrak bhe aisu janru ro kirnu bhe stambhu, le lutra daun utrak vramu le ve ro ormona bhe vramul nitar uvas hauvu.
+
+ve navu janru ro groha vrun bram mahva groha uvas kotrak. ve ganstal birsa umbra uvas adnu. ve kholma bhe jalprukoda shem votra karmuna orsa, le karmija smirdak ro groha bhe nidvastonu pa daushu, le grima ve ro jvelaka jvelak le ve ro shonkha bremu karmak le samnu demu bhe anshe tirsa pa ve dahu, ve dorpa gentak ro stalu bhe, le torona ro lam agmi bhornu.
+
+ve ro kema ve anva torona ushta, le grima ve tral ghomra pomu, le ve vi vardak ushta. ve ro kema ro kema torona, margha, jalpantra le dvarna ushta, le grima ve tral ghomra pomu, le ve vena vardak ushta, le ve kholma bhe shilsa pa votra karmuna orsa, nodra ve ro shirnu pa sulnu, le grima ve ro tirma lampu, le vi ve ro sorhutobu ro tirma vrun bram drau orsa.
+
+kenu nu nyura bhinu, drunem ehu stalu bhe katru vartuk, le mo nu druk vi nelka uvas karmak‼
+
+ve ro kema ro kema torona vrun bram barnu ushta. vena uttarka nodra le vi ro shetka ushta. sartu agmistalu trum umbra sartu shetka trum umbra navra, le anva sartu shetka ro umbra, le grima ghomra pomu ro janru grima anvaru pomu ro janru navra, le grima minra keru janru orsa druk grima karmak ro varsu vena utrak stambhu ro varsu navra. sartu aisu kholma bhe shilsa pa votra karmuna orsa, koda trum nodra shem, le sartu aisu kortu lampu, le grima vi vramul lampu, le kortu aisu shaltu levu uvas navrun, le vi lampu ro janru navrun. katru kren sutkalda bhe vi vartuk uvas lampu. katru lampu, vi nodra samrek vartuk, sartu orkhu bhe let, le anva aisu ghaul bhe sartu.
+
+le aisu orkhu bhe rajva, drunem ve uhu kalda bhe rajva orsa le nortu janru ganona grenu ro vrun bram drau kalda bhe rajva orsa, votra navra druk nodra utrak domsa tral uvas hauvu. ve shaltu pomu, grima ve tral nitar hauvu nyak, navru pur tral, ve rajbhumri ro shetka pa kotrak, nodra mavru le nirmak orsa ro stalu bhe, le ve uhu stalu bhe navru dorna chinu, vausshilsa ro, brel ro rajgroha anshe ve utrak karmak ro ombhala bhe, le ve vi pa kartu ro yashuka shem votra navra, tailka shem, nodra ro jalka shem uvas, le vi mahrul sundora dorna orsa, le vi sotyal sundora orsa. nu vi darka. anva sutka ro sartu rajva vi pa votra karmuna orsa, kaldunganstal grun.
+
+grima nitar uvas chambu. navul vena sartu domsa utrak chambu, utrakilta tral, le teskabirsa orkhu ro kema chinu ro shilsa kholma trum utrak tarpu, le vi ganstal birsa bhumitala tral nitar bhornu, le vi trina nitar mirmu nitar stanru, le vi utrak kortu lampu, kartum kortu, ganstal birsa khondra ganstal aisu khondra vrun bram bravul. vena vi uvas braku. nodra vi pa sulnu ro shilsa brak uvas nyaku. vena vi anvrak vartuk, grima ro pomba shem nortu janru vi pa vramul votra navra druk, le vi nyaku ro demu bhe uhu stalu bhe mirmu nitar orsa druk.
+
+ehu drun utrakilta pa kholma shonya orsa. ehu drun gautra uhu stalu bhe trina ghuma. ehu drun rajepur trum utrak hauvu le ganstal aisu rajva ro dorna kresak ro bedrajnenin vi uvas kretu, drunem vena kholma bhe kresak, le vi kholma bhe uvas orsa.
 :::
 
-## Why We Stay Tonight
+## Why We Do Not Go Down Tonight
 
 ::: {.verse form=prose lang=en work=the-ferryman-at-the-ford-7}
-For a long time afterward, kings governed the river from the new town. Some governed well. The recitation gives those kings their places; we do not begrudge them. This story concerns a much later night. The upper-river villages went down with whatever they carried to Taranpal's ford, hoping to be heard by a king who had ceased to hear them./
-They were keeping the oath. Understand. The day he permits a crossing and will not go. The day the measure feeds his house instead of the rope. That day we stop the measure and declare it. They went to declare it. They brought no army: the oath says nothing about armies. It says we declare it before the god. They went to speak before the god at the river's one crossing shared by every village./
-The king met them there with his host. He would not hear. Then he denied them fire./
-We do not speak his name at this hearth. Rajepur's chronicle holds it and can keep it. His own scribes wrote that chronicle; let them keep him. We say he did this at the ford a ferryman crossed nine times without being asked, once without a rope. We say he left men in the gravel through a monsoon: sons of villages which had fed the ferryman's house longer than the king could reckon backward. When bones rise from the ford in low-water months, the village above returns them to the river. It never gives them fire. Fire is the one thing this ford has never been permitted. That is the king's work, not ours./
-Sixty years later the kingdom ended. Rajepur's sabhra sat forty days to end it. The decree gives full honor to the lineage's better generations. We accept the decree. We sent delegates to those forty days and send them to every session. We drink river water with everyone on Dissolution Day. The river they drink is ours. But we remain on our bank tonight. This is the anniversary of the villages keeping the oath at the ford while the king broke it. A village that kept its oath does not go down to hear a Memory-Keeper recite its oath-breaker./
-Each generation the Memory-Keeper records a name: whoever would have been consecrated had the lineage continued. We honor his office. He has never asked us for the name. We have never offered it. Recently an upper-river household bought the hill opposite. It gives no reason. With children beside the fire, that is all I will say./
-The stone lies on the second terrace, face-down beneath turf. River water has been poured upon it. It will not have broken. If it is ever required, it is there./
-Tonight the rope lies on our bank and the boat is tied up. No one crosses. Put the children to bed.
+The kings held the river from the new town for a long time after that, and some of them held it well, and the recitation names those at their places, and we do not grudge them their places. The telling is not about them. The telling is about a night a long time after, when the villages of the upper river went down to the ford that Taranpal had kept, with whatever they carried, to be heard by a king who had stopped hearing them.
+
+They were keeping the oath. Understand that. The day he says the water may be crossed and does not go. The day the measure feeds his house and not the rope. That day we stop the measure, and we say so. They went down to say so. They had no army because the oath does not say anything about an army; it says we say so, before the god, and they went down to say it before the god at the one crossing on the river that every village had a share in.
+
+The king met them at the ford with the host. He did not hear them. Then he forbade them the fire.
+
+We do not say his name at this hearth. The chronicle at Rajepur has it, and the chronicle may keep it; it was written by his scribes and they may have the keeping of him. We say that the ford he did it at was the ford a ferryman crossed nine times without being asked and once without a rope, and that the men he left in the gravel through a monsoon were the sons of the villages that had fed the ferryman's house for longer than the king could count back, and that the bones that come up out of the ford in the low-water months are put back in the river by the village above it and never given fire, because the one thing that ford has never been allowed is a fire, and that is the king's doing and not ours.
+
+Sixty years later the kingdom ended, and the sabhra at Rajepur sat forty days to end it, and the decree says the line ended with full honor for its better generations, and we do not quarrel with the decree. We sent our delegates to the forty days. We send them to every session. We drink the river on the [Day of the Dissolution]{.name data-type="lore/gathering"} with everyone else, and it is our river they are drinking. But on this one night we stay on our bank, because this is the night the oath was kept at the ford by the villages and not by the king, and a village that kept its oath at the ford does not go down to hear a Memory-Keeper recite the man who broke his.
+
+The Memory-Keeper enters a name in the roll each generation, the name of the one who would have been hallowed had the line gone on. That is his office and we honor it. He has never asked us for the name and we have never offered it, and the hill across the river has lately been bought by a household of the upper river that does not say why, and that is all I will say about that, with children at the fire.
+
+The stone is on the second terrace, face-down, under the turf. It has had the river poured on it. It will not have broken. If it is ever wanted, it is there.
+
+The rope is on our bank tonight, and the boat is tied. Nobody crosses. Put the children to bed.
 :::
 
 ::: {.verse form=prose lang=vedy enc=vedyvedyaksharaenc work=the-ferryman-at-the-ford-7}
-anva rajva navru pur trum drau kalda bhe nodra ushta. keru vardak ushta, le rumbha vena brel ro stanra bhe tirmun, le mova vena ro stanra drun krevna uvas ushta. katha vena drun uvas orsa. katha drau anva ro aisu ghaul drun orsa. uttarka nodra ro grima brel bhornu ro varsu shem taranpal ushta ro torona tral nitar chambu, vena bhinu ro karmu brondu ro rajva vena bhinu druk./
-vena kortu ushta. nu ehu jnenru. ve jalka trel chambu vranu lampu le uvas chambu ro demu. umbra ve ro groha ghomra pomu le mahvasultu uvas ro demu. uhu demu bhe mova umbra brondu le vi lampu. vena vi lampu druk nitar chambu. vena senta uvas ushta, drunem kortu senta ro nortu shaltu lampu. vi mova devra pravun vi lampu lampu. vena nodra pa sartu grima aisu khondra ushta ro aisul torona bhe devra pravun lampu druk nitar chambu./
-rajva senta shem torona bhe vena sanguk. ve vena uvas bhinu. uhu kalda bhe ve vena druk agmi vranbrak./
-mova ehu agmistalu bhe ve ro tirma uvas lampu. rajepur ro lipu vi ushta, le lipu vi ushta vranu. ve ro lepika vi lipak, le vena ve ro ushtona ushta vranu. mova vi karmak ro torona, naupalda jahnona uvas shem jaum demrak trel chambu ro torona orsa lampu, le aisu demrak mahvasultu uvas shem. rajva aisu varsharetu bhe letshilsa minra taryu ro tarnak jannuk, naupalda ro groha tral ghomra pomu ro grima ro kema orsa. vena rajva ganona vramu grenu ro kalda vrun bram drau kalda bhe vi pomu. bherka jalka ro menka bhe torona trum utrak hauvu ro dakta, torona utrak ro grima vena nodra bhe vramul stanru. vena tral agmi nortu demrak bhe pomu. drunem uhu torona druk aisu varsu nortu demrak bhe vranuk uvas orsa, agmi. ehu rajva ro karmu orsa, mova ro uvas./
-60 orkhu anva rajbhumri kaldun. rajepur bhe sabhra vi kaldun druk 40 demu sadnu. najru sutka brel ro bram vardak sutkalda druk purku orta shem kaldun lampu. mova najru shem preska uvas karmak. mova mova ro dutsa 40 demu tral pomu. mova vena sartu sabhra ro sadona tral pomu. mova kalduna ro vura bhe sartu navu shem nodra jalka jalnu, le vena mova ro nodra jalnu. nel ehu aisul ghaul bhe mova mova ro tirsa pa nyuru orsa. drunem ehu ghaul bhe grima torona bhe kortu ushta, rajva uvas. torona bhe brel ro kortu ushta ro grima, brel ro kortu braku ro janru smirtipalda rumbha bhinu druk nitar uvas chambu./
-smirtipalda sartu sutkalda bhe aisu tirma lipu bhe stanru. vren sutka nyuru orsa, anven uhu tirma ro janru votra karmuna orsa. ehu ve ro karmu orsa, le mova vi orta pomu. ve mova tirma nortu demrak bhe jahnuk, le mova vi nortu demrak bhe pomu. kenu anra uttarka nodra ro aisu kobala nodra trel ro domsa orgha pomu. ve kevu karun drun uvas lampu. le ehu mo vi drun sartu lampu ro shaltu orsa, lam agmi anshe shem./
-shilsa ganstal birsa ro bhumitala pa orsa, mirmu nitar, trina nitar. nodra vi pa sulnu orsa. vi brakru uvas navra. vren vi vrel demrak bhe nyaku, vi uhu stalu bhe orsa./
-ehu ghaul bhe mahvasultu mova ro tirsa pa orsa, le nau banduna bhe orsa. nortu janru trel chambu. nu lam nidvastonu tral stanru.
+anva rajva navru pur trum drau kalda bhe nodra ushta, le keru vena vardak ushta, le rumbha vena brel ro stanra bhe tirmun, le mova vena ro stanra drun krevna uvas ushta. katru vena drun uvas orsa. katru mahrul anva aisu ghaul drun orsa, uttarka nodra ro grima brel bhornu ro varsu shem taranpal ushta ro torona tral nitar chambu, vena bhinu ro brondu ro rajva vena bhinu druk.
+
+vena kortu ushta. nu ehu jnenru‼ jalka trel vranuk lampu ro demu, le ve uvas chambu. umbra ve ro groha tral ro demu, le dorpa tral uvas. uhu demu mova umbra brondu, lampu. vena lampu druk nitar chambu. vena senta uvas ushta, drunem kortu senta drun nortu lampu, vi lampu, mova lampu, devra pravun, le vena devra pravun lampu druk nodra pa sartu grima khondra ushta ro aisul torona tral nitar chambu.
+
+rajva senta shem torona bhe vena sanguk. ve vena uvas bhinu. uhu kalda bhe ve vena druk agmi vranbrak.
+
+mova ehu agmistalu bhe ve ro tirma uvas lampu. rajepur ro lipu vi ushta, le lipu vi ushta vranu, ve ro lepika vi lipak, le vena ve ro ushtona vranu. mova lampu, ve vi karmak ro torona naupalda jahnona uvas jaum demrak bhe le dorpa uvas aisu demrak trel chambu ro torona orsa, le ve aisu borsha kalda pral letshilsa minra taryu ro tarnak jannuk, rajva ganona grenu ro vrun bram drau kalda bhe naupalda ro groha tral ghomra pomu ro grima ro kema orsa, le bherka jalka ro kalda bhe torona trum utrak hauvu ro dakta torona utrak ro grima nodra bhe vramul stanru le vena tral agmi nortu demrak bhe pomu, drunem uhu torona druk aisu varsu nortu demrak bhe vranuk orsa, agmi, le ehu rajva ro karmu orsa, mova ro uvas.
+
+shaukateska orkhu anva rajbhumri kaldun, le rajepur bhe sabhra vi kaldun druk sotrateska demu sadnu, le najru lampu, sutka brel ro bram vardak sutkalda druk purku orta shem kaldun, le mova najru shem preska uvas karmak. mova mova ro dutsa sotrateska demu tral pomu. mova vena sartu sadona tral pomu. mova kalduna ro demu bhe sartu navu shem nodra jalnu, le vena mova ro nodra jalnu. nel ehu aisul ghaul bhe mova mova ro tirsa pa nyuru orsa, drunem ehu ghaul bhe grima torona bhe kortu ushta, rajva uvas, le torona bhe brel ro kortu ushta ro grima, brel ro kortu braku ro janru smirtipalda rumbha bhe bhinu druk nitar uvas chambu.
+
+smirtipalda sartu sutkalda bhe aisu tirma lipu bhe stanru, vren sutka nyuru orsa anven votra navra ro janru ro tirma. ehu ve ro karmu orsa, le mova vi orta pomu. ve mova tirma nortu demrak bhe jahnak, le mova vi nortu demrak bhe pomu, le kenu anra uttarka nodra ro aisu kobala nodra trel ro domsa orgha pomu, le kevu karun drun uvas lampu, le mo uhu drun ehu aisul lampu, lam agmi anshe.
+
+shilsa ganstal birsa bhumitala pa orsa, mirmu nitar, trina nitar. nodra vi pa sulnu orsa. vi uvas brakru. vren vi vrel demrak bhe nyaku, vi uhu stalu bhe orsa.
+
+ehu ghaul bhe dorpa mova ro tirsa pa orsa, le nau gentru orsa. nortu janru trel chambu. nu lam nidvastonu tral stanru‼
 :::
 
 ## See Also

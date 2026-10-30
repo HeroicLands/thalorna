@@ -21,12 +21,12 @@ The [[lore-rcitkngsmhnd|Recitation of the Kings of Mahanodi]] names the altar at
 : Each King Hallowed There {#recitation-excerpt}
 
 ::: {.verse form=recitation lang=en work=recitation-excerpt}
-The altar here was cut for that lineage./
-.Every king was consecrated there.
+The altar of this hall was cut for them;/
+.each king was hallowed there.
 :::
 
 ::: {.verse form=recitation lang=vedy enc=vedyvedyaksharaenc work=recitation-excerpt}
-ehu dorna vena druk chintuna,/
+shalda ro dorna ve druk chintuna,/
 .sartu rajva votra.
 :::
 

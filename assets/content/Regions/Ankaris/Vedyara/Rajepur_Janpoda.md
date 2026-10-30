@@ -104,15 +104,15 @@ They asked for no king.
 :::
 
 ::: {.verse form=recitation lang=vedy enc=vedyvedyaksharaenc work=forty-days-excerpt}
-vena rajva uvas jahnuk.
+vena rajva uvas jahnak.
 :::
 
 ::: {.verse form=prose lang=en work=rajepur-janpoda-2}
-Gloss. Those final four words contain the entire matter. The chronicler entered them without comment.
+_Gloss._ The last four words are the whole of the matter, and the chronicler wrote them without comment.
 :::
 
 ::: {.verse form=prose lang=vedy enc=vedyvedyaksharaenc work=rajepur-janpoda-2}
-shaltun. kaldunganstal sotra shaltu sartu karmu ro shaltun orsa. lipu ro kartu vena vinsa uvas shem lipak.
+shaltun. kaldunganstal sotra shaltu kartum varsu orsa, le lepika vena nortu navu shaltu shem lipak.
 :::
 
 ## The Memory-Keeper
@@ -129,17 +129,17 @@ Each session's [[lore-rcitkngsmhnd|Recitation of the Kings of Mahanodi]] closes 
 : The Acknowledgment {#recitation-excerpt}
 
 ::: {.verse form=recitation lang=en work=recitation-excerpt}
-The Mahanodi kingdom is gone./
-.It ended with its due./
+The Mahanodi kingdom is no more;/
+.it ended with its due./
 The janpoda governs in its place,/
-.with your permission.
+.and does so by your leave.
 :::
 
 ::: {.verse form=recitation lang=vedy enc=vedyvedyaksharaenc work=recitation-excerpt}
-mahanodi rajbhumri uvas,/
+mahanodi ro rajbhumri uvas,/
 .anvaru shem kaldun./
-janpoda vi navul rajva ro karmu karmak,/
-.nu ro vranu shem vi.
+janpoda vi ro stanra bhe nayu,/
+.nu samrak, vi nayu.
 :::
 
 The Memory-Keepers are one of the most respected scholarly families in the inland part of the [[place-vedyarargn|Vedyara Region]]. Historians from across the region consult their library, their authority on Vedyari political history has no rival, and their ceremonial role in the sabhra is taken with great seriousness. The present Memory-Keeper, [Ramavahan Smiritibhara]{.name data-type="being/npc"}, is a quiet scholar in his late fifties and the author of the most respected modern commentary on the dissolution.

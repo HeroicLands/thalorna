@@ -29,215 +29,215 @@ The verses are in couplets of ten and six syllables.
 : The Opening {#opening}
 
 ::: {.verse form=recitation lang=en work=opening}
-In this hall, before the stone altar,/
-.the sabhra meets again./
-Today, in the year our reckoning names,/
+In this hall, before the altar of stone,/
+.the sabhra sits again./
+On this day, in the year the count has reached,/
 .the priest has called it here./
-Before considering a word, it hears the lineage./
-.I hold it and speak it./
-I sit with you. I have no vote./
-.The record is my duty.
+Before it weighs a word, it hears the line;/
+.I keep it, and I speak./
+I sit among you and I cast no vote;/
+.the record is my charge.
 
-The ancestor stands first in the line,/
-.remembered for their virtue./
-The altar here was cut for that lineage./
-.Every king was consecrated there./
-They held the upper river country,/
-.filling the temples./
-The chronicles call some of them just./
-.I name each in their place.
+First stands the ancestor from whom it comes,/
+.whose virtue is the tale./
+The altar of this hall was cut for them;/
+.each king was hallowed there./
+They held the upper river and its fields,/
+.and kept the temples full./
+And some the chronicles hold up as just;/
+.I name them at their place.
 
-Here the Memory-Keeper recites each king in order, from the ancestor's heir to the seventh king before the end, including the justice of those remembered as just.
+_Here the line is recited king by king, from the ancestor's heir to the seventh king from the end, each at his place and the just ones with their justice._
 :::
 
 ::: {.verse form=recitation lang=vedy enc=vedyvedyaksharaenc work=opening}
-ehu shalda bhe shilsa ro dorna/
-.pravun sabhra sadnu./
-ehu demu bhe ganu ro orkhu/
-.jvelita vi ravhu./
+shalda bhe shilsa ro dorna pravun/
+.sabhra vramul sadnu./
+orkhu ganru bhe, ehu demu bhe,/
+.yashuka vi ravhu./
 shaltu tulu anra sutka bhinu,/
-.mo ushta le lampu./
-mo nu minra sadnu, vinsa uvas,/
+.mo ushta, mo lampu./
+mo nu minra sadnu, uvas kertuk,/
 .lipu mo ro bhora.
 
-ganstal aisu bhe sorhu stambhu,/
-.ve ro dormin katru./
-ehu dorna vena druk chintuna,/
+pravun sorhu stambhu, vi ro mulka,/
+.ve ro dorma katru./
+shalda ro dorna ve druk chintuna,/
 .sartu rajva votra./
-vena uttarka nodra ushta,/
-.ombhala purku bhe./
-keru rajva lipu bhe dormin,/
-.mo stanra bhe lampu.
+uttarka nodra le shetka ushta,/
+.le ombhala purku./
+le keru rajva lipu bhe dormin,/
+.mo stanra bhe tirmun.
 
-ehu stalu bhe smirtipalda sorhu ro anvalam trum kalduna anra ganstal netu ro rajva grun, sartu rajva ve ro stanra bhe lampu. dormin rajva ro dormin levu lampu.
+ehu stalu bhe sutka rajva anva rajva lampu, sorhu ro hetka trum kalduna trum ganstal netu ro rajva grun, sartu aisu brel ro stanra bhe, le dormin janra vena ro samrudorma shem.
 :::
 
 : The Six {#six}
 
 ::: {.verse form=recitation lang=en work=six}
-Now the six arrive, each worse than the last./
-.The kingdom endured them all.
+Now come the six, each worse than him before;/
+.the kingdom bore them all.
 
-The first took up every art,/
-.leaving each unfinished./
-He tried drum, chisel and poetry./
-.He mastered none./
-Petitioners waited at his gate,/
-.going home without an answer.
+The first of them took up each art and left/
+.each one before its end./
+He tried the drum, the chisel and the verse,/
+.and mastered none of them./
+Petitions waited on him at the gate/
+.and went home without word.
 
-The second king was cruel./
-.Fear was his only law./
-He judged angrily and in haste,/
-.calling his judgments just.
+The second was a cruel man, and fear/
+.was all the law he kept./
+He judged in anger and he judged in haste,/
+.and called the judging just.
 
-The third did not understand keeping a kingdom./
-.He let the channels clog./
-The tax was reckoned incorrectly./
-.The dykes softened. Nobody repaired them.
+The third did not know how a realm is kept;/
+.he let the channels fill./
+The tax was counted wrong, the dykes went soft,/
+.and no one set them right.
 
-The fourth saw poison in every cup,/
-.knives behind each door./
-He dismissed the people who served him well,/
-.keeping those who lied.
+The fourth saw poison in each cup he held/
+.and knives behind each door./
+He sent away the ones who served him well/
+.and kept the ones who lied.
 
-The fifth was crowned a child and governed as one./
-.Nobody dared refuse him./
-He wanted: the treasury was his./
-.He raged: his rage was law.
+The fifth was crowned a child and ruled a child,/
+.and no one dared say no./
+He wanted, and the treasury was his;/
+.he raged, and it was law.
 
-The sixth was drunk from waking to sleep,/
-.drunk through the famine./
-The crop failed. Villages dwindled./
-.The granaries stayed full./
-His guards left their barracks for the grain./
-.He stayed seated in the hall./
-His cook knew neighbors in the hungry lanes,/
-.unable to bear their cries./
-The tradition tells it this way:/
-.the kitchen's cup was his last./
-He left no son to stand before the stone./
-.The bare altar waited.
+The sixth was drunk from waking until sleep,/
+.and drunk in famine time./
+The harvest failed; the villages went thin;/
+.the granaries were full./
+His guard went from the barrack to the grain/
+.while he sat in the hall./
+His cook had neighbors in the hungry lanes/
+.and could not bear their cry./
+So the tradition runs: the kitchen's cup/
+.was the last the king drank./
+He left no son to stand before the stone;/
+.the altar waited, bare.
 :::
 
 ::: {.verse form=recitation lang=vedy enc=vedyvedyaksharaenc work=six}
-kenu shauka hauvu, bram branu,/
-.rajbhumri sartu sahu.
+kenu shauka hauvu, bram bram branu,/
+.bhumri vena bhornu.
 
-ganstal aisu sartu shilpra adnu,/
-.kartuma anra taryu./
-ve ghom, chinta le solma pravru,/
-.sartu bhe niksun uvas./
-jahnona dvarna bhe ve nirpak,/
-.shaltu uvas vramu.
+ganstal aisu sartu shilpra prabnu,/
+.kaldun anra taryu./
+ve ghom pravru, le chinta, le solma,/
+.aisu uvas niksun./
+jahnona dvarna bhe ve druk nirpak,/
+.shaltu nortu, vramu.
 
-ganstal birsa janru krurak orsa,/
-.bhaur aisul dorma./
-ve tranka le praksun bhe vinsak,/
+ganstal birsa krurak janru orsa,/
+.ve bhaur dorma ushta./
+ve tranka shem vinsak, praksun vinsak,/
 .vinsa dormin lampu.
 
-ganstal tre rajbhumri uvas jnenru,/
-.jalpantra purku bhe./
-karva ganona samrin uvas,/
-.tirbrond nelka, navrak uvas.
+ganstal tre rajbhumri uvas jnenuk,/
+.ve jalpantra taryu./
+ganru uvas samrin, tirbrond nelka,/
+.nortu janru navrak.
 
-sotra sartu kulka bhe vishra darka,/
-.dvarna kirnu chinrak./
-vardak seboka ve durul pomu,/
-.bosha ro janru ushta.
+ganstal sotra jalpu vishra darka,/
+.sartu dvarna chinrak./
+ve sotyin seboka durul chamru,/
+.uvas sotyin ushta.
 
-kunsha lam ro rajva, lam ro karmu,/
-.nortu nuk lampu bhranu./
-ve kamva ushta, koshra ve ro,/
-.ve tranka, vi dorma.
+ganstal kunsha lam votra, lam nayu,/
+.le nortu nuk bhranu./
+ve kamva ushta, le koshra ve ro,/
+.tranka ushta, dorma.
 
-shauka nivra trum nidva grun matru,/
+ganstal shauka nyuru matru orsa,/
 .dukghomra bhe matru./
-ghomrakhondra uvas, grima neldak,/
+ghomrakhondra nelnu, grima neldak,/
 .ghomrastonu purku./
-ve ro palda nidgroha trum chambu,/
-.ghomra tral, ve sadnu./
-ve ro pachoka bhukhpantra ro narma,/
-.ravha sahu uvas./
-sampradeya ehu pantra lampu,/
-.kulka kaldungalnu./
-ve dorna pravun kema uvas taryu,/
+palda nidgroha taryu, danva tral,/
+.ve shalda bhe sadnu./
+pachoka ro anshegrohin ghomrin,/
+.ravha uvas sahu./
+katru lampu, pachgroha ro jalpu,/
+.rajva kaldungalnu./
+shilsa pravun kema uvas taryu,/
 .dorna shonya nirpak.
 :::
 
 : The Forty Days {#forty-days}
 
 ::: {.verse form=recitation lang=en work=forty-days}
-The people sought no new king./
-.They came to this door./
-They asked the priest who kept the Shaper's house/
-.to summon the sabhra./
-He called it. It sat for forty days./
-.On the last day it spoke.
+The people did not look for one to crown;/
+.they came here, to this door./
+They asked the priest who kept the shaper's house/
+.to call the sabhra here./
+He called it, and it sat for forty days;/
+.on the last day, it spoke.
 
-It declared the kingdom and lineage ended,/
-.honoring their best./
-It gave palace stones to these walls,/
-.to bear something's weight./
-It opened the royal granaries to everyone./
-.They stand beside us now./
-It sent soldiers home with fields to cultivate,/
-.taking their spears./
-It kept the council room and its written leaves./
+It spoke the kingdom ended and the line,/
+.with honor for its best./
+It gave the palace stones into these walls,/
+.that they hold something up./
+It opened the king's granaries to all;/
+.they stand beside us now./
+It sent the soldiers home with land to till,/
+.and took away their spears./
+It kept the council-chamber and its leaves;/
 .I keep them there today./
-It bound the villages to this hall,/
-.to answer when called.
+It bound the villages to this one hall,/
+.to answer when it calls.
 :::
 
 ::: {.verse form=recitation lang=vedy enc=vedyvedyaksharaenc work=forty-days}
 janra navu rajva uvas kresak,/
-.ehu dvarna hauvu./
-vena kartu ro groha ro palda,/
-.jvelita jahnuk./
-ve sabhra ravhu, 40 demu sadnu,/
+.le dvarna tral hauvu./
+kartu ro groha ro palda jahnak,/
+.sabhra ehu ravhu./
+ravhu, sotrateska demu sadnu,/
 .kaldunganstal lampu.
 
-vi rajbhumri le sutka kaldun,/
-.shroshta tral orta bhe./
-vi rajgroha ro shilsa ehu pomu,/
-.ludra ushta druk./
-vi rajva ro ghomrastonu muku,/
+rajbhumri kaldun, le sutka kaldun,/
+.orta shem, shroshta druk./
+rajgroha shilsa ludra tral pomu,/
+.varsu utrak tarpu./
+vi ghomrastonu sartu druk muku,/
 .kenu mova anshe./
-vi senta groha tral shetka pomu,/
-.potka vena trum adnu./
-vi montra ro groha le lipu ushta,/
-.mo kenu uhu ushta./
-vi grima ehu shalda bhe banduk,/
-.ravha bhe lampur druk.
+senta shetka shem groha tral vramu,/
+.potka durul adnu./
+montra ro koshta le kodri ushta,/
+.mo vi kenu ushta./
+vi grima ehu shalda tral gentak,/
+.ravhu, vena lampur.
 :::
 
 : The Roll and the Acknowledgment {#acknowledgment}
 
 ::: {.verse form=recitation lang=en work=acknowledgment}
-The roll continues. No king approaches the stone./
+The roll runs on; no king comes to the stone./
 .This generation's name:
 
-Here the Memory-Keeper says the name recorded in the genealogy for this generation: the person who would have inherited if the kingdom had continued. After saying the name, the keeper closes.
+_Here the keeper speaks the name entered in the genealogy for this generation, the one who would have inherited had the line gone on, and closes._
 
-What ended once can end again. This too,/
-.should it deserve to end./
-The Mahanodi kingdom is gone./
-.It ended with its due./
+What ended once may end again: this too,/
+.if it should earn its end./
+The Mahanodi kingdom is no more;/
+.it ended with its due./
 The janpoda governs in its place,/
-.with your permission.
+.and does so by your leave.
 :::
 
 ::: {.verse form=recitation lang=vedy enc=vedyvedyaksharaenc work=acknowledgment}
-lipu nyuru, rajva shilsa uvas,/
-.ehu sutkalda tirma.
+lipu nyuru, nortu rajva hauvu,/
+.sutkalda ro tirma.
 
-ehu stalu bhe smirtipalda ehu sutkalda druk sutka ro lipu bhe stanru ro tirma lampu. vren rajbhumri nyuru orsa, anven ehu janru rajva navra. ve ehu tirma lampu le vi kaldun.
+ehu stalu bhe smirtipalda ehu sutkalda druk sutka ro lipu bhe stanru ro tirma lampu, vren sutka nyuru orsa anven hetka navra ro janru, le kaldun.
 
-aisu kalduna vramul grenu,/
-.ehu levu, vardun./
-mahanodi rajbhumri uvas,/
+vramul kaldun grenem, ehu levu,/
+.vren anvaru orsa./
+mahanodi ro rajbhumri uvas,/
 .anvaru shem kaldun./
-janpoda vi navul rajva ro karmu karmak,/
-.nu ro vranu shem vi.
+janpoda vi ro stanra bhe nayu,/
+.nu samrak, vi nayu.
 :::
 
 ## See Also

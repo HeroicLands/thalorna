@@ -27,21 +27,21 @@ The [[lore-rcitkngsmhnd|Recitation of the Kings of Mahanodi]] sets the last reig
 : The Barrack, the Hall and the Kitchen {#recitation-excerpt}
 
 ::: {.verse form=recitation lang=en work=recitation-excerpt}
-His guards left their barracks for the grain./
-.He stayed seated in the hall./
-His cook knew neighbors in the hungry lanes,/
-.unable to bear their cries./
-The tradition tells it this way:/
-.the kitchen's cup was his last.
+His guard went from the barrack to the grain/
+.while he sat in the hall./
+His cook had neighbors in the hungry lanes/
+.and could not bear their cry./
+So the tradition runs: the kitchen's cup/
+.was the last the king drank.
 :::
 
 ::: {.verse form=recitation lang=vedy enc=vedyvedyaksharaenc work=recitation-excerpt}
-ve ro palda nidgroha trum chambu,/
-.ghomra tral, ve sadnu./
-ve ro pachoka bhukhpantra ro narma,/
-.ravha sahu uvas./
-sampradeya ehu pantra lampu,/
-.kulka kaldungalnu.
+palda nidgroha taryu, danva tral,/
+.ve shalda bhe sadnu./
+pachoka ro anshegrohin ghomrin,/
+.ravha uvas sahu./
+katru lampu, pachgroha ro jalpu,/
+.rajva kaldungalnu.
 :::
 
 Once a year, at the [Day of the Dissolution]{.name data-type="lore/gathering"}, the recitation is given in the temple precinct and not here. The Rajapuri position is that the cellars are not a monument and are not to be treated as one.

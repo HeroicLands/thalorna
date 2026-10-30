@@ -1103,6 +1103,11 @@ data:
       class: "n"
       field: "Gods, rites and the temple"
       gloss: "a household priest"
+    - form: yashuka
+      class: n
+      field: "Gods, rites and the temple"
+      gloss: "a priest; one who serves at a rite of any order"
+      built: [yashu, "-ka"]
     - form: gorva
       class: n
       field: Gods, rites and the temple
@@ -1423,6 +1428,51 @@ data:
       field: Numbers and grammar words
       gloss: "ten thousand"
       built: [teska, mursha]
+    - form: teskaisu
+      class: num
+      field: Numbers and grammar words
+      gloss: eleven
+      built: [teska, aisu]
+    - form: teskabirsa
+      class: num
+      field: Numbers and grammar words
+      gloss: twelve
+      built: [teska, birsa]
+    - form: teskakunsha
+      class: num
+      field: Numbers and grammar words
+      gloss: fifteen
+      built: [teska, kunsha]
+    - form: treteska
+      class: num
+      field: Numbers and grammar words
+      gloss: thirty
+      built: [tre, teska]
+    - form: sotrateska
+      class: num
+      field: Numbers and grammar words
+      gloss: forty
+      built: [sotra, teska]
+    - form: shaukateska
+      class: num
+      field: Numbers and grammar words
+      gloss: sixty
+      built: [shauka, teska]
+    - form: birsagolsa
+      class: num
+      field: Numbers and grammar words
+      gloss: two hundred
+      built: [birsa, golsa]
+    - form: tregolsa
+      class: num
+      field: Numbers and grammar words
+      gloss: three hundred
+      built: [tre, golsa]
+    - form: sotragolsa
+      class: num
+      field: Numbers and grammar words
+      gloss: four hundred
+      built: [sotra, golsa]
     - form: sartu
       class: adj
       field: Numbers and grammar words
@@ -7363,6 +7413,31 @@ data:
       field: Kin, household and the person
       gloss: watch or guarding
       source: {kind: coined}
+    - form: jahnak
+      class: v
+      field: "Speech, learning and the written word"
+      gloss: "to ask for; to request a thing"
+      source: {kind: coined}
+    - form: daushona
+      class: n
+      field: "Death, the dead and the ancestors"
+      gloss: "a death; the dying of one person"
+      source: {kind: coined}
+    - form: bhinru
+      class: adj
+      field: "Speech, learning and the written word"
+      gloss: "heard; given a hearing"
+      source: {kind: coined}
+    - form: gentak
+      class: v
+      field: "Doing, going and being"
+      gloss: "to tie; to fasten with a knot"
+      source: {kind: coined}
+    - form: gentru
+      class: adj
+      field: "Doing, going and being"
+      gloss: "tied; fastened with a knot"
+      source: {kind: coined}
   icon: icon-speaking
   templatePriority: null
   packFolder: language
@@ -7734,6 +7809,7 @@ data:
     - {name: Keeper of the Dream-Record, tongue: translation}
     - {name: Chamber-Warden, tongue: translation}
     - {name: triyanga-sampradeya, tongue: vedyari, built: [tre, angha, sampradeya]}
+    - {name: triyanga, tongue: vedyari, built: [tre, angha]}
     - {name: Tradition of the Three Forms, tongue: translation}
     - {name: Triyanga Tradition, tongue: translation}
     - {name: seboka, tongue: vedyari, built: [seboka]}
@@ -7919,6 +7995,7 @@ data:
     - {name: Chendrapur Land, tongue: translation}
     - {name: danurkot, tongue: vedyari, built: [danur, kotra]}
     - {name: danurkot janpoda, tongue: vedyari, built: [danur, kotra, janra, padu]}
+    - {name: janpoda, tongue: vedyari, built: [janra, padu]}
     - {name: The Janpoda of the Bow-Fort, tongue: translation}
     - {name: sabhasadaka, tongue: vedyari, built: [sabhra, sad-, -oka]}
     - {name: sabhapavi, tongue: vedyari, built: [sabhapavi]}
@@ -8358,6 +8435,8 @@ Vedyari has two registers, and they sound alike but end differently. The classic
 **Endings.** A classical word ends on a vowel, most often _-a_: the gods _Rasikara_ and _Kalavrata_, the titles _maharava_ and _senapavi_, the words _dorma_ "duty" and _janpoda_. A person or a thing done ends in _-ona_, _-ika_, _-in_, _-ini_ or _-ija_, and a lord or a god in _-endra_, _-esha_ or _-deva_. The spoken word may close on one consonant, _n_, _r_, _t_, _k_, _s_, _l_, _m_ or _d_, or on _nd_: _lam_ "a child", _ghal_ "a sword", _daum_ "eight". A place people travel to closes the same way: a town in _-pur_, a village in _-gram_, a landing in _-ghat_, a fort in _-kot_, a pass in _-dvar_, a peak in _-shikhar_, a grove in _-ban_, a ground in _-stal_, a seat in _-stan_, a bank in _-tir_, and a keeper's land in _-pal_; a hero's name ends in _-bir_ or _-bira_; a weekday ends in _-var_. A given name ends on _-a_, _-i_ or a consonant (_Chandreli_, _Shilabir_, _Jayanit_); a clan name more often on a vowel.
 
 **Built names.** A name is one word or two joined, seldom three: _Chandreli_ is _chendra_ and _sundeli_, "moon, the beautiful", and _Danurkirti_ is "bow-fame". A name of five syllables or more is an old name or a title.
+
+**Verse.** Vedyari verse counts syllables, by the count given under calling names below, and does not rhyme. Most of its forms are couplets (_poksa_), a long line answered by a short one: the recitation and the sworn oath of ten and six, the catechism of twelve and eight, the dialogue of fourteen and seven, and the epic couplet of sixteen and eight, whose long line breaks near its middle. The laments of the march companies keep one short line of seven, and their spoken close stands outside the count. The craft is in return and echo: a refrain the hearers answer, a close repeated with one word changed, a formula that comes back through a catalogue, and a sound doubled within a line, as in _jvelaka jvelak_, "kindles the lamp".
 
 **What Vedyari leaves out.** It has no _th_ and no _dh_, since the guide reads both as the sounds of _thin_ and _this_, and no _ph_; the sound of _f_ is written _f_. It avoids _lv_ and the endings of [[skill-helonclng|Helonic Language]], _-os_ and _-is_. No word closes on two consonants but _nd_, and none closes on _sh_, _kh_, _bh_, _v_ or _h_.
 

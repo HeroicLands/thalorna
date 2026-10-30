@@ -28,627 +28,627 @@ What the song shares with the record is the season and its shape: the slaughter 
 : The Opening {#opening}
 
 ::: {.verse form=epic lang=en work=opening}
-Tonight many vessels kindle a single fire./
-.Each will carry a share home./
-Hold yours toward the pile. Give it time./
-.First hear its beginning./
-It came from a Mahanodi ford, from a borrowed lamp,/
-.passing through one man's hands./
-He arrived wearing ash and left wearing more./
-.We name him Bhasmadasa, servant of ash./
-The song forgets the name his mother gave him./
-.Ash kept him. We keep ash./
-A king appears here. The chronicle records his name./
-.We do not speak it beside our fire.
+Tonight we light one fire out of many vessels,/
+.and every vessel goes home with a piece of it./
+Hold yours to the pile. Do not hurry it./
+.Hear first where it came from./
+It came off a ford of the Mahanodi. It came out of a borrowed lamp./
+.It came through one man's hands./
+He wore ash when he came and he wore more when he went,/
+.and we call him Bhasmadasa, the servant of ash./
+What his mother called him is not in the song./
+.The ash kept him. We keep the ash./
+There is a king in the song. The chronicle has his name./
+.We do not say it at the fire.
 :::
 
 ::: {.verse form=epic lang=vedy enc=vedyvedyaksharaenc work=opening}
-ehu ghaul bhe mova barnu koda trum aisu agmi jvelak,/
-.le sartu koda vi ro khondra shem groha tral vramu./
-nu brel ro koda agmisangra tral ushta, nu praksun uvas karmak./
-.ganstal aisu bhe vi ro prabhana bhinu./
-vi mahanodi ro torona trum hauvu, vi olgu ro jvelaka trum hauvu./
-.vi aisu janru ro pomba pral hauvu./
-ve hauvu ro kalda bhe bhosma kavru, le turu chambu ro kalda bhe bram barnu,/
-.le mova ve bhasmadasa tirmun, bhosma ro dasu./
-ve ro matva ve kevu tirmun, vi solma bhe uvas orsa./
-.bhosma ve ushta, mova bhosma ushta./
-solma bhe aisu rajva orsa, lipu ve ro tirma ushta./
-.mova agmi anshe vi uvas lampu.
+barnu koda trum ehu ghaul, aisu agmi mova jvelak,/
+.sartu koda angra bhornu./
+nu koda agmisangra tral ushta‼ nirmak, uvas praksun‼/
+.kevu trum hauvu, nu bhinu‼/
+mahanodi torona trum, olgu jvelaka trum hauvu,/
+.aisu janru ro pomba pral./
+ve bhosma kavru hauvu, le ve bram bhosma kavru chambu,/
+.mova bhasmadasa tirmun./
+ve ro matva pomu ro tirma, solma bhe uvas orsa,/
+.bhosma ve ushta, mova vi./
+solma bhe rajva orsa, le lipu ve ro tirma ushta,/
+.agmi anshe uvas lampu.
 :::
 
 : The Lamp {#lamp}
 
 ::: {.verse form=epic lang=en work=lamp}
-He followed the river road down from the hills, the villagers' route,/
-.ten years afterward./
-Staff, bowl, cloth, ash on arms and forehead./
-.No fire. A homeless man has no fire./
-The last village above the ford has twelve houses and a well./
-.At dusk it closes its riverside doors./
-At dusk he stood at a door. It opened,/
-.being a door in [[place-vedyarargn|Vedyara]]./
-Padmika kept that house, a widow since winter./
-.She served millet before asking questions./
+He came down the river road out of the hills, the way the villages came,/
+.ten years behind them./
+A staff, a bowl, a cloth, and ash on his arms and his brow./
+.No fire. A man with no house has no fire./
+The last village above the ford is a dozen houses and a well,/
+.and it shuts its doors at dusk on the river side./
+He stood at a door at dusk and the door opened,/
+.because it was a door in [[place-vedyarargn|Vedyara]]./
+The woman of the house was Padmika, a widow since the winter./
+.She set millet before him before she asked./
 He ate. She asked. He said: I am going down to the ford./
-.She answered: not tonight./
-Tonight, he said. I have no fire. Lend me light./
-.For a while she said nothing./
-She lowered the lamp from the beam above the door,/
-.a clay lamp with a blackened lip. She held it back./
-This is our threshold lamp, she said./
-.It burned for my husband in winter./
-Four nights beside his bed, with the house silent./
-.The conch sounded. By noon the pyre was lit./
-One death in this house completed as death should be./
-.The house has two more at the ford./
-Two sons took this road with the others, carrying sickle and staff./
-.Their household was forbidden to approach./
-Rain came. Spears barred us throughout the rains./
-.Afterward nothing remained to burn./
-Take it. The lamp has served one death and owes two./
-.While it is away the house will stay silent./
-Nobody beneath this roof will shout or quarrel/
-.until the lamp returns to its beam./
-He said: that silence may be long./
-.She said: it has been ten years./
-She filled it, giving him an oil jar and a lidded pot,/
-.the pot which carried the hearth coal to the pyre./
-If a fire takes, she said, you will need somewhere to keep it./
-.Return the lamp./
-He left with it burning. The door closed./
-.Behind him the household fell silent.
+.She said: Not tonight./
+He said: Tonight. I have no fire. Lend me a light./
+.She said nothing for a while./
+Then she took the lamp down from the beam above the door,/
+.a clay lamp, black at the lip, and she held it and did not give it./
+She said: This is the threshold lamp of this house./
+.It burned for my husband in the winter./
+Four nights it burned by his bed while the house kept quiet./
+.The conch was sounded. The pyre was lit by noon./
+That is one death of this house done as a death is done./
+.The house had two more at the ford./
+Two sons went down this road with the others, with a sickle and a staff./
+.The house was not let near them./
+It rained. We were kept off by spears through the rains./
+.There was nothing after to burn./
+Take the lamp. It has done one and it has two owing./
+.The house will keep the quiet while it is gone./
+Nobody under this roof will raise a voice or quarrel/
+.until the lamp is back on the beam./
+He said: It may be a long quiet./
+.She said: It has been ten years./
+She filled it. She gave him the oil-jar, and a pot with a lid,/
+.the pot the hearth-coal went to the pyre in./
+She said: If anything takes, you will want somewhere to put it./
+.Bring the lamp back./
+He went out of the door with the lamp lit, and the door shut,/
+.and the house went quiet behind him.
 :::
 
 ::: {.verse form=epic lang=vedy enc=vedyvedyaksharaenc work=lamp}
-ve domsa trum nodra ro margha nitar hauvu, grima ro samnu pantra shem,/
+ve domsa trum margha nitar, grima ro pantra shem hauvu,/
 .vena anva teska orkhu./
-dandra, koda, chel, le pardun le mirtan pa bhosma./
-.agmi uvas, groha uvas ushta ro janru agmi uvas ushta./
-torona utrak kaldunganstal grima 12 groha le aisu kupra orsa,/
-.le sandva bhe vi nodra ro anshe bhe dvarna brondu./
-ve sandva bhe dvarna pravun stambhu, le dvarna muku,/
-.drunem vi vedyara bhe dvarna orsa./
-groha ro nirnak jannuk padmika orsa, shitaritu trum nusha./
-.ve jahnuk anra ve pravun kannu stanru./
-ve ghuma, ve jahnuk, ve lampu, mo torona tral nitar chambu./
-.ve lampu, ehu ghaul uvas./
-ve lampu, ehu ghaul, mo agmi uvas ushta, mo tral kirtu olgu pomu./
-.ve let kalda bhe nortu shaltu lampu./
-uhu kalda bhe ve dvarna utrak ro darva trum jvelaka nitar adnu,/
-.miratka ro jvelaka, mukhvalet bhe karnu, le ve vi ushta le uvas pomu./
-ve lampu, ehu groha ro dvarna ro jvelaka orsa./
-.vi shitaritu bhe mo ro vandran druk dahu./
-sotra ghaul bhe vi ve ro nidvastonu anshe dahu, groha nimrona ushta./
-.shonkha bremu karmak, dahanashila surtaminru grun jvelak./
-ehu groha ro aisu kalda samrin ro pantra shem karmuna orsa./
-.groha torona bhe birsa navu ushta./
-birsa kema ehu margha nitar navu janru shem chambu, lunka le dandra shem./
-.groha vena anshe chambu uvas vranu./
-borsha narta, sartu borsha bhe potka mova durul ushta./
-.anva dahu druk nortu varsu orsa./
-nu jvelaka adnu, vi aisu karmak, le birsa ro anvaru ushta./
-.vi durul orsa ro kalda bhe groha nimrona ushta./
-ehu grohashirnu nitar nortu janru bravul lampu vau preska karmak,/
-.jvelaka darva pa vramu grun./
-ve lampu, dvirnul drau nimrona orsa./
-.ve lampu, teska orkhu prenu orsa./
-ve vi purku karmak, ve tral tailka ro stamnka le kavrabhat ro koda pomu,/
-.agmistalu ro angra dahanashila tral bhornu ro koda./
-ve lampu, vren keru varsu agmi adnu, anven nu vi stanru druk stalu kamva ushta./
-.nu jvelaka vramul shem hauvu./
-ve surkin jvelaka shem dvarna turu chambu, le dvarna brondu,/
-.le ve ro kirnu bhe groha nimrona navra.
+dandra, ghomrakoda, chel, le bhosma pardun le mirtan pa,/
+.groha uvas, agmi uvas./
+kaldunganstal grima, teskabirsa groha, aisu kupra,/
+.vi sandva bhe dvarna brondu./
+ve sandva bhe aisu dvarna pravun stambhu, le vi muku,/
+.vedyara ro dvarna orsa./
+groha ro matva padmika, shitaritu trum ve nusha,/
+.jahnuk anra kannu stanru./
+ve ghuma. ve jahnuk. ve lampu, «mo torona tral chambu.»/
+.ve lampu, «ehu ghaul uvas.»/
+ve lampu, «ehu ghaul. agmi uvas. nu mo tral jvel pomu‼»/
+.ve let kalda nortu lampu./
+le dvarna utrak darva trum miratka jvelaka adnu,/
+.vi ushta, le uvas pomu./
+ve lampu, «ehu groha ro dvarnavoli ro jvelaka,/
+.vi mo ro vandran druk dahu./
+sotra ghaul dahu, groha nimrona ushta, shonkha bremu,/
+.surtaminru bhe dahona./
+vi ehu groha ro aisu daushona, dorma shem kartum,/
+.torona bhe birsa ushta./
+birsa kema ehu margha chambu, lunka le dandra shem,/
+.vena anshe groha vranru./
+borsha narta, le borsha pral potka mova durul ushta,/
+.anva dahona druk nortu./
+nu jvelaka adnu‼ aisu karmak, birsa olgu ushta,/
+.groha nimra kaldem durul./
+ehu grohashirnu nitar nortu ravha, nortu preska,/
+.jvelaka darva vramu grun.»/
+ve lampu, «ehu nimrona dvirnul drau kalda ro orsa.»/
+.nusha lampu, «teska orkhu.»/
+ve purku karmak, tailka kodra, kavrabhat koda pomu,/
+.dahona tral angra koda./
+nusha lampu, «vren keru agmi nyuru, nu stanra nyaku./
+.le nu jvelaka shem vramu‼»/
+ve jvelaka shem dvarna turu chambu, le dvarna brondu,/
+.anval groha nimra navra.
 :::
 
 : The West Bank {#west-bank}
 
 ::: {.verse form=epic lang=en work=west-bank}
-Nobody enters the west bank at dusk./
-.He went at dusk, carrying the lamp./
-First he built a fire above the east bank, where drovers' fires burn,/
-.leaving it alight as he crossed the gravel with his lamp./
-West-bank grass reached his chest, dry that season./
-.It stayed motionless as he passed./
-Within a breath of the grass, the lamp died./
-.He stood in darkness holding it./
-Cold rose through his feet, as it rises through everyone there,/
-.settled in his chest, and belonged to someone else./
-Men moaned in the grass where no men stood./
-.He did not run. That is what we sing./
-He descended through grass to gravel. Beside the water/
-.figures stood in the shallows./
-Knee-deep they stood, looking upstream/
-.toward villages and doors./
-Every drover hears the warning: never answer a call at the ford./
+Nobody goes onto the west bank at dusk./
+.He went at dusk, with the lamp./
+First he made a fire on the road above the east bank, where a drover's fire draws,/
+.and left it burning, and went over the gravel with the lamp./
+The grass stands to the chest on the west bank, and it was dry in that season,/
+.and it did not move when he moved through it./
+The lamp went out within a breath of the grass./
+.He stood in the dark with a dead lamp./
+The cold came up through his feet, as it comes to everyone there,/
+.and sat in his chest, and it was not his./
+Men were moaning in the grass where no men were./
+.He did not run. We sing that he did not run./
+He went down through the grass to the gravel, and at the water/
+.there were figures standing in the shallows./
+They stood in the shallows to the knee and looked upstream,/
+.toward the villages, toward the doors./
+Every drover is told at the ford: do not answer what calls./
 .They called. He answered./
-We belong to the villages above, they said./
+They said: We are of the villages above the ford./
 .We came down to be heard./
-We had gone to the gate and been sent home unanswered./
-.We came carrying what we had./
-Here we are. Our households were barred. Rain came./
-.We ask for fire./
-We ask what the king denied, and nothing else./
+We had been to the gate, and the gate sent us home without word,/
+.so we came with what we had in our hands./
+We are here. Our houses were kept off. It rained./
+.We ask the fire./
+We ask what the king refused. We ask nothing else./
 .Hear us./
-He said: I hear./
-.He repeated the entire petition, as petitions are repeated./
-You belong to the villages above. You came to be heard./
-.You request fire. Your request is heard./
-He had no leaf to record it, no fire to kindle./
-.He had declared it heard./
-Across the gravel he returned to the roadside fire and relit the lamp./
-.He crossed again and applied it to the grass./
-The fire died at the ford./
-.He kindled it again./
-He crossed, lit it, returned, touched grass. It died./
-.He crossed, lit it, returned./
-He continued until daylight, then slept on the road./
-.They entered his sleep. He woke remembering./
-The fire died at the ford./
-.He kindled it again.
+He said: I hear it./
+.And he said it back to them, all of it, as a petition is said back./
+He said: You are of the villages above the ford. You came to be heard./
+.You ask the fire. It is heard./
+He had no leaf to enter it on. He had no fire to light./
+.He had said it was heard./
+He went back over the gravel to the road-fire and lit the lamp at it,/
+.and came back over, and put the lamp to the grass./
+The fire went out on the ford./
+.He lit it again./
+He went over, and lit it, and came back, and put it to the grass, and it died,/
+.and he went over, and lit it, and came back./
+He did that until it was light, and slept on the road,/
+.and they came into his sleep, and he woke remembering them./
+The fire went out on the ford./
+.He lit it again.
 :::
 
 ::: {.verse form=epic lang=vedy enc=vedyvedyaksharaenc work=west-bank}
-sandva bhe nortu janru pachru ro tirsa pa chambu./
-.ve sandva bhe chambu, jvelaka shem./
-ganstal aisu bhe ve purvu ro tirsa utrak margha pa agmi karmak, pashupalda ro agmi surkin orsa ro stalu bhe,/
-.le vi surkin taryu, le jvelaka shem letshilsa trel chambu./
-pachru ro tirsa pa trina torva grun orsa, le uhu ritru bhe bherka,/
-.le ve vena pral chamru, vena uvas chamru./
-trina ro aisu nimran ro kalda bhe jvelaka brondu./
-.ve ghauru bhe surkin uvas ro jvelaka shem stambhu./
-shet ve ro padsa pral utrak hauvu, sartu janru tral uhu stalu bhe samnu,/
-.le ve ro torva bhe sadnu, le vi ve ro uvas orsa./
-trina bhe tarnak jannuk ro duravha orsa, tarnak jannuk uvas ro stalu bhe./
-.ve uvas dramu, mova ve uvas dramu gana./
-ve trina pral letshilsa tral nitar chambu, le jalka anshe/
-.letrak jalka bhe dirmu stambhu./
-vena pertajortu grun jalka bhe stambhu le nodra utrak darmu,/
-.grima tral, dvarna tral./
-sartu pashupalda torona bhe gorvona adnu, ravhu ro varsu nu uvas lampur./
-.vena ravhu, ve lampur./
-vena lampu, mova torona utrak ro grima ro orsa./
-.mova bhinu ro karmu druk nitar hauvu./
-mova dvarna tral prenu chambu, le dvarna mova shaltu uvas shem groha tral pomu,/
-.drunva mova pomba bhe ushta ro varsu shem hauvu./
-mova ehu stalu bhe orsa, mova ro groha durul ushta, borsha narta./
-.mova agmi jahnuk./
-mova rajva nuvrak ro varsu jahnuk, mova navu varsu uvas jahnuk./
-.nu mova bhinu./
-ve lampu, mo vi bhinu./
-.le ve sartu vi vena tral vramul lampu, jahnona ro samnu pantra shem./
-ve lampu, nu torona utrak ro grima ro orsa, nu bhinu druk hauvu./
-.nu agmi jahnuk, vi bhinu bhe orsa./
-ve vi lipak druk lipu uvas ushta, ve jvelak druk agmi uvas ushta./
-.ve vi bhinu bhe orsa lampu./
-ve letshilsa trel margha ro agmi tral vramu, le vi shem jvelaka jvelak,/
-.le trel vramu, le jvelaka trina tral stanru./
-agmi torona bhe brondu./
-.ve vi vramul jvelak./
-ve trel chambu, jvelak, vramu, trina tral stanru, le vi brondu,/
-.le ve trel chambu, jvelak, vramu./
-ve kirtu hauvu grun ehu karmak, le margha pa nidu,/
-.le vena ve ro nidva rinru hauvu, le ve vena smirtu shem nivra./
-agmi torona bhe brondu./
-.ve vi vramul jvelak.
+sandva bhe gaurtir tirsa pa nortu janru rinu chambu,/
+.ve uhu sandva bhe chambu./
+pratir margha pa, pashupalda agmi bhe, agmi karmak,/
+.dahu taryu, letshilsa trel./
+gaurtir bhe trina torva tral utru, le vi bherka orsa,/
+.ve chamru, vi uvas chamru./
+trina anshe, aisu nimran bhe, jvelaka dauru navra,/
+.ghauru bhe, dauru jvelaka./
+himra ve ro padsa pral utru, sartu janru tral samnu,/
+.le torva bhe nuvar sadnu./
+trina bhe janra ro duravha, le nortu janru orsa,/
+.uvas dramu, solma lampu./
+ve trina pral letshilsa tral nitar chambu, le jalka bhe/
+.nitrak bhe ormoka stambhu./
+jalka pertajortu tral, le vena nodra utrak darmu,/
+.grima pantru, dvarna pantru./
+sartu pashupalda bhinu, ravhu ro nyak uvas lampur,/
+.vena ravhu, le ve lampur./
+vena lampu, «mova torona utrak grima ro janra,/
+.jahnona shem nitar hauvu./
+mova dvarna tral chambu, le dvarna shaltu nortu, vramu,/
+.pomba ro varsu shem hauvu./
+mova ehu stalu bhe, groha vranru, le borsha narta,/
+.kenu mova agmi jahnak./
+rajva nuvrak ro varsu jahnak, le navu uvas jahnak,/
+.nimbra shem, nu mova bhinu‼»/
+ve lampu, «mo bhinu.» le jahnona samrek vramul lampu,/
+.«nu torona utrak grima/
+ro janra. jahnona shem nitar hauvu. nu agmi jahnak./
+.vi bhinru.» ve sartu lampu./
+lipak druk kodri uvas ushta, jvelak druk agmi uvas,/
+.nel ve prenu bhinru lampu./
+letshilsa trel margha agmi tral vramu, jvelaka jvelak,/
+.le jvelaka trina partu./
+torona bhe agmi kaldun, agmi torona bhe kaldun,/
+.le ve agmi vramul jvelak./
+trel chambu, le jvelak, le vramu, trina partu, vi daushu,/
+.le trel chambu, jvelak, vramu./
+dopra grun ve ehu karmak, le anva margha pa nidu,/
+.vena nidva bhe, ve smirtu./
+torona bhe agmi kaldun, agmi torona bhe kaldun,/
+.le ve agmi vramul jvelak.
 :::
 
 : The Fires {#fires}
 
 ::: {.verse form=epic lang=en work=fires}
-Twelve lines the first night. Twelve extinguished./
-.A hundred by day nine./
-On day nine a priest followed the river road from Rajepur, the king's town:/
-.Dormanata, Triyanga Achorya, without a soldier./
-In the heat above the east bank he presented the case./
-.A true case. We sing every part./
-The dead belong to Kalavrata. He takes each soul onward, asked or not./
+Twelve lines the first night, and twelve out./
+.A hundred by the ninth day./
+On the ninth day a priest came up the river road from Rajepur, the king's town,/
+.Dormanata, an Achorya of [[affiliation-triyangasampradeya|the Triyanga]], with no soldier behind him./
+He stood on the road above the east bank in the heat and he put the case,/
+.and it is a true case, and we sing it whole./
+He said: The dead are Kalavrata's. He takes every soul on, asked or not./
 .He is not asked. You are asking./
-Bhasmadasa answered: I ask him nothing. The conch is his./
-.Lamp and pyre belong to the household./
-He did not kindle your father's pyre. Your brother carried its coal./
-.These people had households. Spears barred them./
-What remains to them is a stranger./
-.I am that stranger./
-Dormanata said: the king prohibited a pyre here./
-.Light what he prohibited and you become the rebels' priest./
-Bhasmadasa said: I am nobody's priest. I have a bowl./
-.What did the king guarantee these people?/
-A king is owed last, and only what he gave. He gave a day and a ford./
-.A day and a ford are owed. Paid./
-Dormanata said: Rasikara burns nothing that has not earned it./
-.You have judged what earned burning. That judgment is a god's, not a beggar's./
-Bhasmadasa said: I have judged nothing. Look at the grass./
-.I offer fire. He rejects it. He has rejected it a hundred times./
-I accept rejection. I will offer again. He may reject again./
-.That is a petition, not a judgment./
-It is the one thing this kingdom cannot receive./
-.I bring it regardless./
-[[lore-vahratidty|Vahrati]], fire's gentle sister, takes whatever yields by itself./
-.Ten years. This has not yielded./
-Dormanata said: hear the final count, the sharpest./
-.The field learns from each fire you light and lose./
-It learns refusal is allowed. You teach the grass to refuse./
-.You came to close a door. You hold it open./
-For a long while Bhasmadasa gave no answer./
-.The grass stayed still./
-Then I have worsened it, he said. The debt belongs to me,/
-.in this life, or whichever life receives it./
-I will remain until it is paid./
-.Dormanata said: then fast upon it./
-He used the saying at a gate: if a house stays shut, sit at its door and fast./
-.He intended a challenge. The servant of ash received instruction./
-He ate no more upon the ford./
-.The priest returned in daylight, as a wise man does.
+Bhasmadasa said: I ask him nothing. The conch is his./
+.The lamp is the house's, and the pyre is the house's./
+He did not light your father's pyre. Your brother carried the coal./
+.These had a house, and the house was kept off with spears./
+What they have is a stranger./
+.I am the stranger./
+Dormanata said: The king forbade the pyre on this ground./
+.A man who lights what the king forbade is the rebels' priest./
+Bhasmadasa said: I am no one's priest. I have a bowl./
+.And what did the king guarantee them?/
+A king is owed last, and only what he gave. He gave them a day and a ford./
+.They owe him a day and a ford. It is paid./
+Dormanata said: Rasikara does not burn what has not earned burning./
+.You have decided what has earned it. That is the god's to say, and not a beggar's./
+Bhasmadasa said: I have decided nothing. Look at the grass./
+.I set the fire and he refuses it. A hundred times he has refused it./
+I take the refusal. I will set it again, and he may refuse it again./
+.That is not deciding. That is a petition./
+It is the one thing this kingdom does not know how to receive./
+.I bring it anyway./
+And [[lore-vahratidty|Vahrati]], the gentle sister of the fire, takes what yields of itself./
+.Ten years. It has not yielded./
+Dormanata said: Then hear the last, and it is the sharpest./
+.Every fire you light here and lose, the field learns from./
+It learns that it may refuse. You are teaching the grass to say no./
+.You came to shut a door, and you are propping it./
+Bhasmadasa did not answer that for a long time./
+.The grass did not move./
+He said: Then I have made it worse, and the debt is mine,/
+.in this life, or in the one it falls into./
+I will stay until it is paid./
+.Dormanata said: Then fast on it./
+He said it as it is said at a gate: if the house will not open, sit at the door and fast./
+.He said it as a dare, and the servant of ash took it as a teaching./
+He did not eat again on the ford./
+.The priest went back by day, as a wise man goes.
 
-He sat on west-bank gravel, the dead lamp between his knees,/
-.speaking the kingdom's wrongs aloud, one after another,/
-as we still speak a district's wrongs before the vessel./
-.After each he crossed, relit the lamp, crossed, and offered it to grass./
-Petitions sent home from the gate without an answer, he said./
-.He crossed, relit it, offered it to grass./
-The fire died at the ford./
-.He kindled it again./
-Judgment in anger. Judgment in haste. Calling it just./
-.He crossed, relit it, offered it to grass./
-The fire died at the ford./
-.He kindled it again./
-A sickle brought to the gate instead of a third petition./
-.The figures never turned. He crossed, relit it, offered it./
-The fire died at the ford./
-.He kindled it again./
-The ford. The day's work./
-.He crossed, his feet now cut by gravel, and offered it to grass./
-The fire died at the ford./
-.He kindled it again./
-Conch forbidden. Lamp forbidden. Pyre forbidden./
-.He crossed, relit it, offered it. It died before he stood./
-The fire died at the ford./
-.He kindled it again./
-Households held away by spears throughout the rains./
-.Thinner now, he crossed, relit it, offered it./
-The fire died at the ford./
-.He kindled it again./
-The host holding those spears, returning home to kindle its own hearths./
-.In the moon's darkness he crossed, relit it, offered it./
-The fire died at the ford./
-.He kindled it again./
-The house beside the palace, making kings and saying nothing./
-.He crossed, relit it, offered it. Smoke rose straight and vanished./
-The fire died at the ford./
-.He kindled it again./
-Downstream villages hearing of it and continuing to plow./
-.He crossed, relit it, offered it. East-bank crows watched./
-The fire died at the ford./
-.He kindled it again./
-I heard on the road in the year it happened. I did not turn./
-.Ten years. He crossed, relit it, offered it to grass./
-The fire died at the ford./
-.He kindled it again./
-That was the last. He had nothing left to name./
-.The grass possessed all and returned nothing.
+Then he sat on the gravel of the west bank with the dead lamp between his knees,/
+.and said the kingdom's sins aloud, one at a time,/
+as we say the district's sins before the vessel to this day,/
+.and after each one he crossed, and lit the lamp, and crossed, and set it to the grass./
+He said: The petitions that went home from the gate without word./
+.He crossed, and lit it, and set it to the grass./
+The fire went out on the ford./
+.He lit it again./
+He said: The judging in anger. The judging in haste. The calling of it just./
+.He crossed, and lit it, and set it to the grass./
+The fire went out on the ford./
+.He lit it again./
+He said: The sickle carried to the gate in place of a third petition./
+.The figures in the shallows did not turn. He crossed, and lit it, and set it./
+The fire went out on the ford./
+.He lit it again./
+He said: The ford. The day's work./
+.He crossed. The gravel had opened his feet by then. He set it to the grass./
+The fire went out on the ford./
+.He lit it again./
+He said: The conch forbidden. The lamp forbidden. The pyre forbidden./
+.He crossed, and lit it, and set it, and it was out before he stood./
+The fire went out on the ford./
+.He lit it again./
+He said: The houses kept off by spears through the rains./
+.He crossed, thinner, and lit it, and set it./
+The fire went out on the ford./
+.He lit it again./
+He said: The host that held the spears, and went home, and lit its own hearths./
+.He crossed in the dark of the moon, and lit it, and set it./
+The fire went out on the ford./
+.He lit it again./
+He said: The house beside the palace that made the kings and said nothing./
+.He crossed, and lit it, and set it, and the smoke stood straight up and was gone./
+The fire went out on the ford./
+.He lit it again./
+He said: The villages downstream that heard of it and went on plowing./
+.He crossed, and lit it, and set it. The crows watched from the east bank./
+The fire went out on the ford./
+.He lit it again./
+He said: I heard of it on the road in the year it was done, and I did not turn./
+.Ten years. He crossed, and lit it, and set it to the grass./
+The fire went out on the ford./
+.He lit it again./
+That was the last of them. He had none left to say./
+.The grass had all of them and gave nothing back.
 
-Count the fires with me as the song counts,/
-.plainly, as a keeper does./
-Daylight, full sun, a drover's fire burning on the road above./
+Now count the fires with me, as the song counts them./
+.Plain, as a keeper counts./
+By day, in the full sun, when a drover's fire draws on the road above./
 .Out./
-Night, no other light within a mile./
+By night, when there was nothing else lit for a mile./
 .Out./
-Dry hill wind before the rains, carrying a spark across a district./
+In the dry wind off the hills before the rains, that carries a spark across a district./
 .Out in the wind./
-Lamp applied to grass./
+From the lamp set to the grass./
 .Out./
-Grass applied to grass, a blazing handful carried./
+From the grass set to the grass, a burning handful carried./
 .Out in the hand./
-Walking lines with lamp held low, lines as long as the bank./
+In lines walked, the lamp held low, a line as long as the bank./
 .Out behind him as he walked./
-Dragging lines, twisted grass rope lit at one end and drawn through the stand./
-.Out before the rope died./
-West bank. East bank. Shallows between, upon a reed mat./
+In lines dragged, a rope of twisted grass lit at one end and drawn through the stand./
+.Out before the rope was./
+On the west bank. On the east bank. In the shallows between, on a mat of reeds./
 .Out./
-Three hundred by the month's turn. Then he abandoned counting./
-.We count for him: more fires than village men at the ford./
-Every one extinguished./
+Three hundred by the turn of the month, and then he stopped counting,/
+.and we count for him: more fires than the villages had men at the ford,/
+and every one of them out./
 .Every one./
-The fire died at the ford./
-.He kindled it again.
+The fire went out on the ford./
+.He lit it again.
 
-He grew thin. The village left millet and oil on the east-bank road./
-.He took oil. Crows took millet./
-The river reached its lowest. Bones rose from gravel,/
-.as they do in that month each year./
-He left them untouched. At noon the village returned them to water./
-.He allowed the village its work./
-One evening the first cloud stood on the upstream hills./
-.Afterward it stood there every evening./
-After rain there would be no dry grass until another year./
-.The lamp must be returned.
+He got thin. The village left millet and oil on the road above the east bank./
+.He took the oil. The crows had the millet./
+The river dropped to its lowest, and the bones came up out of the gravel,/
+.as they come up in that month every year./
+He did not touch them. The village came down at noon and put them back in the water,/
+.and he let the village do it./
+The first cloud stood on the hills upstream in the evening./
+.Then it stood there every evening./
+After the rains there is no dry grass until the next year,/
+.and the lamp was owed back.
 :::
 
 ::: {.verse form=epic lang=vedy enc=vedyvedyaksharaenc work=fires}
-ganstal aisu ghaul bhe 12 avoli, le 12 brondu./
+ganstal aisu ghaul teskabirsa avoli, sartu kaldun,/
 .ganstal jaum demu grun golsa./
-ganstal jaum demu bhe jvelita rajepur trum nodra ro margha utrak hauvu, rajva ro pur,/
-.dormanata, triyanga ro achorya, ve ro kirnu bhe senta uvas./
-ve tapru bhe purvu ro tirsa utrak margha pa stambhu le vinsa lampu,/
-.le vi sotyak vinsa orsa, le mova sartu vi gana./
-ve lampu, dauru janra kalavrata ro orsa, ve sartu jitru pravul adnu, jahnuk vau uvas./
-.ve jahnona uvas adnu, nu jahnuk./
-bhasmadasa lampu, mo ve nortu varsu jahnuk, shonkha ve ro orsa./
-.jvelaka groha ro orsa, le dahanashila groha ro orsa./
-ve nu ro tobu ro dahanashila uvas jvelak, nu ro bhaul angra bhornu./
-.ehun groha ushta, le potka groha durul ushta./
-vena aisu nuvar ushta./
-.mo uhu nuvar orsa./
-dormanata lampu, rajva ehu stalu pa dahanashila vranbrak./
-.rajva vranbrak ro varsu jvelak ro janru arhun ro janra ro jvelita orsa./
-bhasmadasa lampu, mo nortu janru ro jvelita orsa, mo koda ushta./
-.le rajva vena tral kevu ro vreta pomu./
-rajva kaldunganstal anvaru adnu, le aisul ve pomu ro varsu, ve vena tral aisu demu le aisu torona pomu./
-.vena ve tral aisu demu le aisu torona ro anvaru ushta, vi pomu bhe orsa./
-dormanata lampu, rasikara dahu druk anvaru uvas ushta ro varsu uvas dahu./
-.nu dahu druk anvaru vinsak, uhu devra ro shaltu orsa, bhikra ro uvas./
-bhasmadasa lampu, mo nortu varsu vinsak, nu trina darmu./
-.mo agmi stanru, le ve vi nuvrak, golsa demrak bhe ve vi nuvrak./
-mo nuvrak adnu, mo vramul stanru, le ve vi vramul nuvrak grenem./
-.ehu vinsa uvas orsa, ehu jahnona orsa./
-ehu rajbhumri adnu ro pantra uvas jnenuk ro aisul varsu orsa./
-.mo nyurul vi bhornu./
-le vahrati, agmi ro nimra bhauli, brel trum nelka navra ro varsu adnu./
-.teska orkhu, vi uvas nelka navra./
-dormanata lampu, anven kaldunganstal nu bhinu, le vi sartu navu vrun bram kharnu orsa./
-.nu ehu bhe jvelak le nelnu ro sartu agmi trum shetka vidsun./
-vi brel nuvrak vranu vidsun, nu trina nuk lampu gorvun./
-.nu aisu dvarna brondu druk hauvu, le nu vi mukru ushta./
-bhasmadasa drau kalda bhe vi uvas lampur./
-.trina uvas chamru./
-ve lampu, anven mo vi bram branu karmak, le olgu mo ro orsa,/
-.ehu ormona bhe vau vi patru ro navu ormona bhe./
-mo vi pomu bhe orsa grun nyuru orsa./
-.dormanata lampu, anven vi pa ghomrabrond karmak./
-ve dvarna bhe lampu ro pantra shem lampu, vren groha uvas muku, nu dvarna anshe sadnu le ghomrabrond karmak./
-.ve vi bhranu ro ravha shem lampu, le bhosma ro dasu vi gorvona shem adnu./
-ve torona pa vramul uvas ghuma./
-.jvelita demu bhe vramu, jnenin ro samnu pantra shem.
+ganstal jaum demu bhe rajepur trum, senta uvas, hauvu,/
+.dormanata, triyanga ro./
+pratir tirsa utrak margha pa, tapru bhe, vadsa lampu,/
+.vadsa sotyak, kartum lampu./
+«dauru kalavrata ro, sartu adnu, jahnak vau uvas,/
+.nortu ve jahnak. nu jahnak.»/
+ve lampur, «mo ve nortu jahnak. shonkha ve ro. jvelaka,/
+.dahona levu, groha ro./
+tobu ro dahona ve uvas jvelak, bhaul angra bhornu,/
+.groha orsa, potka durul./
+vena kevu ushta? aisu nuvar ushta, aisul nuvar,/
+.mo, mo uhu nuvar orsa.»/
+«rajva ehu shetka dahona vranbrak. vranru jvelak ro/
+.arhun ro janra yashuka.»/
+ve lampur, «mo nortu ro yashuka. ghomrakoda ushta./
+.rajva kevu vreta pomu?/
+rajva ro anvaru kaldunganstal, ve pomu ro aisul,/
+.demu, torona. olgu shon.»/
+«rasikara anvaru ro aisul dahu. nu vi vinsak,/
+.devra vinsak, bhikra uvas.»/
+bhasmadasa lampu, «mo nortu vinsak. nu trina darmu‼/
+.mo jvelak, ve nuvrak, golsa./
+mo vi adnu. mo vramul jvelak, ve vramul nuvrak grenem,/
+.vinsa nuk. ehu jahnona./
+ehu rajbhumri adnu uvas jnenuk ro aisu varsu,/
+.nyurul jahnona shem hauvu./
+vahrati, agmi ro nelka bhauli, brel nelka ro adnu,/
+.teska orkhu, nelka uvas.»/
+«nu kaldunganstal bhinu‼ vi sartu navu vrun bram kharnu./
+.sartu agmi jvelak, nelnu,/
+shetka vi nuvrak vranu vidsun, le nu trina nuk gorvun,/
+.nu dvarna brondu druk, muku.»/
+bhasmadasa ehu shaltu tral drau kalda uvas lampur,/
+.trina kartul uvas chamru./
+ve lampu, «anven mo vi bram branu karmak, olgu mo ro,/
+.ehu ormona vau navu./
+olgu shon navra grun, mo ehu stalu bhe nyuru orsa.»/
+.«anven nu ghomrabrond karmak‼»/
+dvarna bhe samrek, «vren groha brondu, dvarna bhe ghomrabrond‼»/
+.ve bhranu. dasu vi vidsun./
+uhu anva torona bhe ve nortu demrak bhe ghuma,/
+.le jnenin demu bhe vramu.
 
-uhu kalda bhe ve pachru ro tirsa ro letshilsa pa sadnu, surkin uvas ro jvelaka pertajortu minra,/
-.le rajbhumri ro uvas dormin karmu bravul lampu, aisu anva aisu,/
-kenu grun mova koda pravun bhumri ro uvas dormin karmu lampu ro samnu pantra shem,/
-.le sartu aisu anva ve trel chambu, jvelaka jvelak, trel chambu, le trina tral stanru./
-ve lampu, dvarna trum shaltu uvas shem groha tral vramu ro jahnona./
-.ve trel chambu, vi jvelak, le trina tral stanru./
-agmi torona bhe brondu./
-.ve vi vramul jvelak./
-ve lampu, tranka bhe vinsa, praksun bhe vinsa, vi dormin tirmun./
-.ve trel chambu, vi jvelak, le trina tral stanru./
-agmi torona bhe brondu./
-.ve vi vramul jvelak./
-ve lampu, ganstal tre jahnona navul dvarna tral bhornu ro lunka./
-.let jalka bhe dirmu uvas vartuk, ve trel chambu, jvelak, le stanru./
-agmi torona bhe brondu./
-.ve vi vramul jvelak./
-ve lampu, torona, demu ro karmu./
-.ve trel chambu, uhu kalda grun letshilsa ve ro padsa chinu, ve vi trina tral stanru./
-agmi torona bhe brondu./
-.ve vi vramul jvelak./
-ve lampu, shonkha vranbrak, jvelaka vranbrak, dahanashila vranbrak./
-.ve trel chambu, jvelak, stanru, le ve stambhu anra vi brondu./
-agmi torona bhe brondu./
-.ve vi vramul jvelak./
-ve lampu, borsha bhe potka groha durul ushta./
-.ve trel chambu, bram neldak, jvelak, le stanru./
-agmi torona bhe brondu./
-.ve vi vramul jvelak./
-ve lampu, potka ushta ro senta, le groha tral vramu, le brel ro agmistalu jvelak./
-.ve chendra ro ghauru bhe trel chambu, jvelak, le stanru./
-agmi torona bhe brondu./
-.ve vi vramul jvelak./
-ve lampu, rajgroha anshe ro groha, vi rajva karmak le nortu shaltu lampu./
-.ve trel chambu, jvelak, le stanru, le dumra nartuk utrak stambhu le durul navra./
-agmi torona bhe brondu./
-.ve vi vramul jvelak./
-ve lampu, nodra nitar ro grima vi bhinu le nyuru karshak./
-.ve trel chambu, jvelak, le stanru, karnatubi purvu ro tirsa trum nyura darka./
-agmi torona bhe brondu./
-.ve vi vramul jvelak./
-ve lampu, mo vi karmu ro orkhu bhe margha pa vi bhinu, le mo uvas vartuk./
-.teska orkhu, ve trel chambu, jvelak, le trina tral stanru./
-agmi torona bhe brondu./
-.ve vi vramul jvelak./
-uhu kaldunganstal orsa, ve lampu druk navu varsu uvas ushta./
-.trina sartu vi ushta le nortu varsu vramul pomu.
+gaurtir pa sadnu, dauru jvelaka pertajortu minra,/
+.rajbhumri brak, aisu aisu,/
+mova kenu koda pravun janpoda brak lampu samrek,/
+.anva trel, jvelak, trel, partu./
+ve lampu, «dvarna trum shaltu nortu vramu ro jahnona.»/
+.ve trel chambu, jvelak, partu./
+torona bhe agmi kaldun, agmi torona bhe kaldun,/
+.le ve agmi vramul jvelak./
+ve lampu, «tranka ro vinsa. praksun vinsa. dormin lampu.»/
+.ve trel chambu, jvelak, partu./
+torona bhe agmi kaldun, agmi torona bhe kaldun,/
+.le ve agmi vramul jvelak./
+ve lampu, «ganstal tre jahnona navul dvarna tral lunka.»/
+.ormoka nyuru, trel, jvelak./
+torona bhe agmi kaldun, agmi torona bhe kaldun,/
+.le ve agmi vramul jvelak./
+ve lampu, «torona le demu ro karmu.» ve trel chambu,/
+.padsa prenu chintak, partu./
+torona bhe agmi kaldun, agmi torona bhe kaldun,/
+.le ve agmi vramul jvelak./
+lampu, «shonkha vranru. jvelaka vranru. dahona vranru.»/
+.jvelak, partu, prenu dauru./
+torona bhe agmi kaldun, agmi torona bhe kaldun,/
+.le ve agmi vramul jvelak./
+ve lampu, «borsha pral potka shem durul ushta ro groha.»/
+.bram neldak trel, jvelak, partu./
+torona bhe agmi kaldun, agmi torona bhe kaldun,/
+.le ve agmi vramul jvelak./
+ve lampu, «potka senta groha vramu, brel agmi jvelak.»/
+.navchendra bhe ve trel jvelak./
+torona bhe agmi kaldun, agmi torona bhe kaldun,/
+.le ve agmi vramul jvelak./
+«rajgroha anshe ro groha, rajva karmak, nortu lampu.»/
+.agmirusha utru, nortu./
+torona bhe agmi kaldun, agmi torona bhe kaldun,/
+.le ve agmi vramul jvelak./
+ve lampu, «nitar ro grima, vi bhinu, le nyuru karshak.»/
+.karnatubi nyura darmu./
+torona bhe agmi kaldun, agmi torona bhe kaldun,/
+.le ve agmi vramul jvelak./
+ve lampu, «uhu orkhu mo bhinu, le mo uvas vartuk.»/
+.teska orkhu. jvelak, partu./
+torona bhe agmi kaldun, agmi torona bhe kaldun,/
+.le ve agmi vramul jvelak./
+uhu kaldunganstal orsa. ve lampu druk nortu nyuru,/
+.trina sartu adnu, nortu.
 
-kenu solma ganu ro pantra shem nu mo shem agmi ganu./
-.nartuk, palda ganu ro samnu pantra shem./
-demu bhe, purku surta bhe, pashupalda ro agmi utrak margha pa surkin orsa./
-.brondu./
-ghaul bhe, aisu milka ro durun bhe navu surkin varsu uvas./
-.brondu./
-borsha anra domsa trum bherka pavanda bhe, vi aisu bhumri trel anglet bhornu./
-.pavanda bhe brondu./
-jvelaka trina tral stanru trum./
-.brondu./
-trina trina tral stanru trum, dahu ro pomba ro khondra bhornu./
-.pomba bhe brondu./
-padsun ro avoli bhe, jvelaka nitar ushta, avoli tirsa ro drau shem samru./
-.ve padsun ro kalda bhe ve ro kirnu bhe brondu./
-pruku ro avoli bhe, charkuna trina ro sultu aisu kalduna bhe jvelak le trina pral pruku./
-.sultu brondu anra brondu./
-pachru ro tirsa pa, purvu ro tirsa pa, minra ro let jalka bhe shirka ro talchel pa./
-.brondu./
-menka ro varta grun 300, le uhu kalda bhe ve ganu brondu,/
-.le mova ve druk ganu, torona bhe grima ro janru vrun bram barnu agmi,/
-le sartu aisu brondu./
-.sartu aisu./
-agmi torona bhe brondu./
-.ve vi vramul jvelak.
+kenu nu mo shem agmi ganu, solma vi ganu samrek,/
+.samrul, palda ganu samrek‼/
+demu bhe, purku surta, margha pa pashupalda agmi,/
+.agmi kaldun, agmi kaldun./
+ghaul ro ghauru bhe, aisu milka bhe nortu navu agmi,/
+.agmi kaldun, agmi kaldun./
+bherka pavanda domsa trum, janpoda trel anglet bhornu,/
+.pavanda bhe agmi kaldun./
+olgu dvarnavoli jvelaka trum, trina pa stanru ro,/
+.agmi kaldun, agmi kaldun./
+trina tral stanru ro trina trum, dahu ro pomba bhornu,/
+.pomba bhe, pomba bhe kaldun./
+padsun ro avoli, jvelaka nitrak, tirsa samru drau,/
+.padsun kaldem, anval kaldun./
+pruku avoli, charkuna trina sultu, jvelak, pruku,/
+.sultu anra agmi kaldun./
+gaurtir bhe. pratir bhe. nitrak jalka bhe shirka talchel pa,/
+.agmi kaldun, agmi kaldun./
+kalda vartuk grun tregolsa, uhu anva ganu brondu,/
+.mova ve druk ganu kenu./
+torona bhe grima janra vrun bram agmi, sartu kaldun,/
+.sartu aisu, sartu aisu./
+torona bhe agmi kaldun, agmi torona bhe kaldun,/
+.le ve agmi vramul jvelak./
 
-ve neldak navra, grima purvu ro tirsa utrak margha pa kannu le tailka stanru./
-.ve tailka adnu, karnatubi kannu adnu./
-nodra brel ro sartu navu vrun nyem stanra tral nitar chambu, le dakta letshilsa trum utrak hauvu,/
-.sartu orkhu uhu menka bhe samnu pantra shem./
-ve vena uvas partu, grima surtaminru bhe nitar hauvu le vena vramul jalka bhe stanru,/
-.le ve grima vi karmak vrannuk./
-ganstal aisu meghra sandva bhe nodra utrak domsa pa stambhu./
-.uhu kalda trum sartu sandva bhe vi uhu stalu bhe stambhu./
-borsha anva anvaganstal orkhu grun bherka trina uvas orsa,/
-.le jvelaka vramu ro anvaru ushta.
+ve neldak navra. grima margha pa kannu, tailka taryu,/
+.tailka adnu, tubi kannu./
+nodra kartul nitrak navra, letshilsa trum dakta utru,/
+.sartu orkhu samnu kalda./
+ve uvas partu, grima vena jalka bhe vramul stanru,/
+.ve grima vi karmak vrannuk./
+sandva bhe, utrak domsa pa, ganstal aisu meghra stambhu,/
+.sartu sandva bhe vi stambhu./
+borsha anva le navu orkhu grun, bherka trina uvas,/
+.le jvelaka olgu orsa.
 :::
 
 : The One That Took {#one-that-took}
 
 ::: {.verse form=epic lang=en work=one-that-took}
-Late in the season, cloud on the hills each evening,/
-.he relit the lamp at the roadside fire at dusk./
-He descended into east-bank grass, the near half,/
-.the half village cattle refused to graze./
-An hour earlier he had walked a line upward from the water./
-.Like the others, it died./
-He knelt with the lamp above the bank beside the drovers' path./
-.He did not apply it to grass./
-He placed it in the grass and withdrew his hands,/
-.as one leaves something at a door./
-The grass caught./
-.It caught from the lamp. We sing the lamp./
-Some say his earlier line had never died completely./
-.That line ran, with the lamp sitting within it./
-Wind came from the hills that night./
+Late in the season, with the cloud on the hills every evening,/
+.he lit the lamp at the road-fire at dusk./
+He went down into the east bank grass, the near half,/
+.the half the village's cattle would not graze./
+He had walked a line up from the water there an hour before./
+.It had gone out, as they went out./
+He knelt at the top of the bank beside the drovers' path with the lamp./
+.He did not hold it to the grass./
+He set it down in the grass and took his hands away,/
+.as a thing is set down at a door./
+The grass took./
+.It took from the lamp. We sing the lamp./
+Some say the line he had walked was not all the way out,/
+.and it was the line that ran, and the lamp sat in it./
+The wind was off the hills that night./
 .We sing the lamp./
-Fire moved down the bank toward water, slowly as fire moves downhill,/
-.into the wind, without stopping./
-It consumed the stand to the gravel. Gravel checked it./
-.It burned down to water./
-It burned all night. He stood on the road above./
-.No dead entered his sleep. He never slept./
-Morning showed the east bank black to the water, smoke in the stubble./
-.The lamp lay black and whole in ash./
-A heron stood in the eastern shallows watching water./
-.It did not look upstream. That is how we know./
-Across the water, west-bank grass stood chest-high and dry./
-.Nothing there had changed./
-He had one fire, a mile of grass, approaching rain./
-.Coals carried west die. He had carried a season's worth./
-He did not recross./
+It ran down the bank toward the water, the way fire runs downhill, slowly,/
+.into the wind, and it did not stop./
+It took the stand to the gravel, and the gravel stopped it./
+.It burned down to the water./
+It burned the whole of the night, and he stood on the road above it,/
+.and the dead did not come into his sleep, because he did not sleep./
+In the morning the east bank was black to the water, with smoke in the stubble,/
+.and the lamp was in the ash, black, whole./
+A heron stood in the east shallows and looked at the water./
+.It was not looking upstream. That is how we know./
+The west bank stood across the water in its grass, to the chest, dry,/
+.and nothing on it had changed./
+He had one fire and a mile of grass and the rain coming./
+.A coal carried onto the west bank goes out. He had carried a season of them./
+He did not cross back./
 .He kept it./
-He took the pot into the stubble, the hearth-coal's pyre pot,/
-.scraped a coal into it from beneath ash and closed the lid./
-No song calls him happy./
-.He fed it. That was all he did that day./
-Days later the rains left the hills and descended the river,/
-.falling upon the west bank, finding nothing to extinguish.
+He went down into the stubble with the pot, the pot the hearth-coal went to the pyre in,/
+.and scraped a coal into it from under the ash, and shut the lid./
+Nobody sings that he was glad./
+.He fed it. That is all he did that day./
+The rains came out of the hills some days after and down the river,/
+.and fell on the west bank, and found nothing there to put out.
 :::
 
 ::: {.verse form=epic lang=vedy enc=vedyvedyaksharaenc work=one-that-took}
-ritru ro kalduna bhe, sartu sandva bhe domsa pa meghra shem,/
-.ve sandva bhe margha ro agmi shem jvelaka jvelak./
-ve purvu ro tirsa ro trina rinru nitar chambu, anshe khondra ro birsa,/
-.grima ro pasru ghuma uvas kamvin ro khondra ro birsa./
-aisu hora anra ve jalka trum utrak aisu avoli padsun./
-.vi brondu, sartu navu ro samnu pantra shem./
-ve pashupalda ro pantra anshe tirsa utrak jvelaka shem pertajortu pa sadnu./
-.ve vi trina tral uvas ushta./
-ve vi trina bhe nitar stanru le brel ro pomba durul adnu,/
-.varsu dvarna anshe stanru ro samnu pantra shem./
-trina agmi adnu./
-.vi jvelaka trum adnu, mova jvelaka gana./
-keru janru ve padsun ro avoli kartul uvas brondu lampu,/
-.le uhu avoli dramu, le jvelaka vi minra sadnu./
-uhu ghaul bhe pavanda domsa trum hauvu./
-.mova jvelaka gana./
-vi tirsa nitar jalka tral dramu, agmi nitar dramu ro pantra shem, nirmak,/
-.pavanda anvrak, le vi uvas brondu./
-vi trina letshilsa grun adnu, le letshilsa vi brondu./
-.vi jalka grun nitar dahu./
-vi sartu ghaul dahu, le ve vi utrak margha pa stambhu,/
-.le dauru janra ve ro nidva rinru uvas hauvu, drunem ve uvas nidu./
-dopranu bhe purvu ro tirsa jalka grun karnu orsa, trinalet bhe dumra,/
-.le jvelaka bhosma bhe orsa, karnu, kartum./
-aisu jaltubi purvu ro let jalka bhe stambhu le jalka darmu./
-.vi nodra utrak uvas darmu, ehu pantra shem mova jnenuk./
-pachru ro tirsa jalka trel brel ro trina bhe stambhu, torva grun, bherka,/
-.le vi pa nortu varsu navrun./
-ve aisu agmi le aisu milka trina le hauvu ro borsha ushta./
-.pachru ro tirsa pa bhornu ro angra brondu, ve aisu ritru vena bhornu./
-ve trel vramul uvas chambu./
-.ve vi ushta./
-ve koda shem trinalet rinru nitar chambu, agmistalu ro angra dahanashila tral bhornu ro koda,/
-.le ve bhosma nitar trum aisu angra vi rinru kharaknu, le kavrabhat brondu./
-nortu janru ve anonda ushta gana./
-.ve vi ghomra pomu, uhu demu bhe vi ve ro aisul karmu orsa./
-keru demu anva borsha domsa trum le nodra nitar hauvu,/
-.le pachru ro tirsa pa patru, le vi brondu druk nortu varsu kretu.
+ritru sandul, sartu sandva bhe meghra domsa pa stambhu,/
+.ve margha agmi trum jvelak./
+ve pratir trina rinu chambu, anshe khondra ro birsa,/
+.grima gho vi uvas ghuma./
+ve jalka trum utrak avoli padsun, let kalda anra,/
+.kaldun, sartu kaldun samrek./
+pashupalda pantra anshe ve pertajortu pa sadnu,/
+.trina tral vi uvas ushta./
+ve vi trina bhe nitar stanru, le pomba durul adnu,/
+.dvarna pravun stanru samrek./
+trina adnu, vi adnu. jvelaka trum vi agmi adnu,/
+.mova jvelaka lampu, vre./
+keru lampu, avoli kartul uvas kaldun, vi dramu,/
+.le jvelaka vi bhe sadnu./
+uhu ghaul bhe pavanda domsa trum hauvu, nodra pantru,/
+.mova jvelaka lampu, vre./
+vi tirsa nitar dramu, nirmak, pavanda tral, jalka tral,/
+.nirpak uvas, brondu uvas./
+vi letshilsa tral trina adnu, le letshilsa vi brondu,/
+.vi jalka tral nitar dahu./
+kartum ghaul bhe vi dahu, le ve utrak margha pa stambhu,/
+.nidva uvas, dauru uvas./
+dopranu bhe pratir karnu, trinalet bhe agmirusha,/
+.bhosma bhe jvelaka kartum./
+pratir nitrak jalka bhe jaltubi stambhu, jalka darmu,/
+.utrak uvas. mova jnenuk./
+gaurtir jalka trel stambhu, brel trina bhe, torva tral, bherka,/
+.vi pa nortu varsu navrun./
+ve aisu agmi, aisu milka trina, le borsha hauvu,/
+.gaurtir angra sartu kaldun./
+ve jalka trel gaurtir tral nortu demrak bhe vramul chambu,/
+.ve agmi ushta, vi ushta./
+trinalet rinu chambu, dahona tral angra koda shem,/
+.bhosma trum angra kharaknu./
+nortu solma lampu, uhu demu bhe anonda ushta,/
+.ve vi ghomra pomu, aisul./
+keru demu anva borsha domsa trum, nodra pral, hauvu,/
+.gaurtir pa, brondu druk nortu.
 :::
 
 : The Ember {#ember}
 
 ::: {.verse form=epic lang=en work=ember}
-He walked upriver to the last village, pot cradled in his arm,/
-.lamp in hand./
-He returned Padmika's lamp. She restored it to the door beam./
-.For the first time that season, ordinary voices filled the house./
-Half, he said./
-.Which half, she asked./
-The east./
-.Silence for a while. Then: keep the pot./
-In her time they lowered the lamp again, for her./
-.It burned beside her bed while the house stayed silent./
-The conch sounded. Before noon hearth fire kindled the pyre./
-.She passed through the door. It closed behind her./
-That is death. That is what death means./
-.The lamp served the one it waited for./
-He took the pot down the other road, feeding it each morning,/
-.naming that day's work before it, as we do./
-He went where summoned and burned what was shown him./
-.He never returned west. Nobody has burned that bank./
-Men joined his walking. He gave them coals from the pot./
-.They took other roads and fed them./
-Coals died upon the road, as coals do, in rain and bad nights./
-.They relit them from companions walking beside them./
-The fire died at the ford./
-.He kindled it again./
-This is that ember. Pass it onward,/
-.hand to hand, as it traveled./
-Tonight every vessel here takes fire from this one./
-.This one takes fire from every vessel here./
-Take your coal, close the lid, carry it onto the road./
-.Feed it every morning./
-A mile from this fire the west bank stands in grass and darkness./
+He walked up the river road to the last village with the pot in the crook of his arm,/
+.and the lamp in his hand./
+He gave Padmika the lamp. She put it back on the beam above the door,/
+.and the house spoke in its ordinary voice for the first time in a season./
+He said: Half./
+.She said: Which half?/
+He said: The east./
+.She said nothing for a while. Then she said: Keep the pot./
+In her time the lamp came down off the beam again, for her,/
+.and burned by her bed while the house kept quiet,/
+and the conch sounded, and the pyre was lit by noon from the hearth,/
+.and she went through the door, and the door shut behind her./
+That is a death. That is what a death is./
+.The lamp did the one it was kept for./
+He went down the road the other way with the pot, and fed it in the mornings,/
+.and named the day's work to it, as we do./
+He went where he was sent for. He burned what was shown to him./
+.He did not go back to the west bank. Nobody has burned it./
+Men came to walk with him and he gave them coals out of the pot,/
+.and they went by other roads and fed them,/
+and their coals went out on the road, as coals do, in rain, in a bad night,/
+.and were lit again from the one walking beside them./
+The fire went out on the ford./
+.He lit it again./
+This is that ember. Pass it./
+.Hand to hand, the way it came./
+Every vessel here is lit off this one tonight,/
+.and this one is lit off every vessel here./
+Take your coal and shut the lid and go out on the road with it./
+.Feed it in the mornings./
+The west bank is a mile from this fire, in the grass, in the dark./
 .It has not changed.
 :::
 
 ::: {.verse form=epic lang=vedy enc=vedyvedyaksharaenc work=ember}
-ve nodra ro margha utrak kaldunganstal grima tral padsun, koda pardun ro jortu bhe,/
-.le jvelaka pomba bhe./
-ve padmika tral jvelaka pomu, ve vi dvarna utrak darva pa vramul stanru,/
-.le aisu ritru bhe ganstal aisu demrak groha brel ro samnu ravha shem lampu./
-ve lampu, khondra ro birsa./
-.ve lampu, kren khondra ro birsa./
-ve lampu, purvu./
-.ve let kalda bhe nortu shaltu lampu, uhu kalda bhe lampu, nu koda ushta./
-ve ro kalda bhe jvelaka darva trum vramul nitar hauvu, ve druk,/
-.le ve ro nidvastonu anshe dahu, groha nimrona ushta,/
-le shonkha bremu karmak, le surtaminru grun dahanashila agmistalu trum jvelak,/
-.le ve dvarna pral chambu, le dvarna ve ro kirnu bhe brondu./
-ehu kalda orsa, ehu kalda ro dirmu orsa./
-.jvelaka brel ushta druk aisu karmak./
-ve koda shem navu pantra margha nitar chambu, le sartu dopranu bhe vi ghomra pomu,/
-.le vi tral demu ro karmu tirmun, mova ro samnu pantra shem./
-ve ravhu ro stalu tral chambu, ve darsin karmak ro varsu dahu./
-.ve pachru ro tirsa tral uvas vramu, nortu janru vi dahu./
-tarnak jannuk ve shem padsun druk hauvu, le ve vena tral koda trum angra pomu,/
-.le vena navu margha pa chambu le vena ghomra pomu,/
-le vena ro angra margha pa brondu, angra ro samnu pantra shem, borsha bhe, branu ghaul bhe,/
-.le anshe padsun ro janru trum vramul jvelak./
-agmi torona bhe brondu./
-.ve vi vramul jvelak./
-ehu uhu angra orsa, nu vi parnuk./
-.pomba trum pomba tral, vi ro hauvu ro pantra shem./
-ehu ghaul bhe ehu stalu bhe sartu koda ehu trum jvelak,/
-.le ehu ehu stalu bhe sartu koda trum jvelak./
-nu brel ro angra adnu le kavrabhat brondu le vi shem margha pa turu chambu./
-.dopranu bhe vi ghomra pomu./
-pachru ro tirsa ehu agmi trum aisu milka orsa, trina bhe, ghauru bhe./
-.vi uvas navrun.
+margha utrak kaldunganstal grima tral, koda shem, padsun,/
+.jvelaka ve ro pomba bhe./
+padmika tral jvelaka pomu, ve vi darva pa stanru,/
+.ritru anva groha lampu./
+ve lampu, «khondra ro birsa.» ve jahnuk, «kren khondra orsa?»/
+.bhasmadasa lampu, «pratir.»/
+nusha let kalda bhe nortu lampu, groha samrek nimra,/
+.ve lampu, «nu koda ushta‼»/
+uhu kalda bhe darva trum jvelaka hauvu, nusha druk,/
+.nidvastonu anshe dahu,/
+groha nimrona ushta, shonkha bremu, agmistalu trum,/
+.surtaminru bhe dahona./
+dvarna pral chambu, dvarna brondu. ehu daushona orsa,/
+.jvelaka vi aisu karmak./
+ve navu pantru chambu, dopranu bhe vi ghomra pomu,/
+.demu karmu vi tral lampu./
+ve ravhu ro stalu tral chambu, darsin ro varsu dahu,/
+.gaurtir uvas. nortu dahu./
+janra ve shem padsun hauvu, ve koda trum angra pomu,/
+.navu margha, ghomra pomu,/
+angra margha pa kaldun, angra samrek, borsha bhe, ghaul bhe,/
+.anshe padsun ro trum jvelak./
+torona bhe agmi kaldun, agmi torona bhe kaldun,/
+.le ve agmi vramul jvelak./
+ehu uhu angra orsa. nu vi parnuk, nu vi parnuk,/
+.pomba pomba, hauvu samrek‼/
+ehu ghaul sartu koda ehu aisu angra trum jvelak,/
+.le ehu sartu koda trum./
+nu angra adnu, kavrabhat brondu, vi shem margha chambu‼/
+.dopranu, nu ghomra pomu‼/
+gaurtir ehu agmi trum aisu milka, trina bhe, ghaul bhe,/
+.vi nyuru, vi uvas navrun.
 :::
 
 ## See Also

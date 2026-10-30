@@ -4,4 +4,4 @@
 
 **Literature and verse**
 
-- The Vedyara literary works and recitation excerpts set their Vedyari originals beside fresh modern English and Roman readings, preserving their spoken accounts, directions, oaths, variants and withheld passages.
+- The Vedyara songs, recitations and tellings set Vedyari originals beside the English, in counted measures of their own: the ferry oath, the Borrowed Lamp's refrain and the Measuring Cord's catechism among them.

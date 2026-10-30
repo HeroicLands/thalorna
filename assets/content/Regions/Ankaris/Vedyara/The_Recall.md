@@ -29,758 +29,724 @@ The verses are set as a long line answered by a short one.
 : The Reading {#reading}
 
 ::: {.verse form=dialogue lang=en work=reading}
-Here in the court before the goddess's scale,/
-.the bows have returned./
-Stand in your places, grip in your left hand,/
-.string removed from the horn./
-You ate the salt of six kingdoms this year./
-.Here you are counted./
-Before the gate opens, hear its meaning:/
-.the duty that precedes others./
-A bow leaves this fort under contract./
-.A word brings it home./
-This is that word, the night it traveled,/
-.two men who heard it./
-One has a name. The roll records it./
-.The other occupies a place/
-as a missing stone occupies its place in a standing wall./
-.The wall remains./
-Hear the couplets in the fort's keeping./
+In this court, before the scale of the goddess,/
+.the bows have come home./
+Stand where you stand, the grip in the left hand,/
+.the string off the horn./
+You have eaten the salt of six kingdoms this year/
+.and you are counted here./
+Before the gate is opened, hear what the gate is:/
+.the duty that comes first./
+A bow goes out of this fort on a contract./
+.It comes back on a word./
+This is the word, and the night it was carried,/
+.and two who heard it./
+One of them is named. The roll names him./
+.The other is in the roll/
+as the place of a stone is in a wall when the stone is out,/
+.and the wall stands./
+Hear the couplets as the fort keeps them./
 .I read. I do not weigh.
 :::
 
 ::: {.verse form=dialogue lang=vedy enc=vedyvedyaksharaenc work=reading}
-ehu angala bhe, devri ro umbra pravun,/
+ehu angala bhe, mahajaya umbra pravun,/
 .danur groha tral vramu./
-nu nu ro stanra bhe stambhu, leru pomba bhe danushta,/
-.sultu danoshru trum durul./
-ehu orkhu bhe nu shauka rajbhumri ro shimra ghuma,/
-.le nu ehu stalu bhe ganona bhe orsa./
-dvarna muku anra, nu dvarna ro shaltun bhinu,/
-.ganstal aisu ro dorma./
-danur ehu kotra trum karmuklipu shem turu chambu./
-.vi aisu shaltu pa vramu./
+nu stalu bhe stambhu, danushta leru pomba bhe,/
+.le sultu danoshru trum‼/
+ehu orkhu shauka rajbhumri ro shimra ghuma,/
+.ehu stalu bhe ganu./
+dvarna muku anra, nu vi kevu orsa bhinu,/
+.ganstal aisu ro dorma‼/
+danur ehu kotra trum karmuklipu shem chambu,/
+.aisu shaltu shem vramu./
 ehu uhu shaltu orsa, le vi bhornu ro ghaul,/
-.le birsa janru vi bhinu./
-aisu tirma ushta, lipu ve ro tirma ushta./
-.navu lipu bhe orsa,/
-shilsa turu adnu, ve ro stanra ludra bhe orsa ro samnu pantra shem,/
-.le ludra stambhu./
-nu kotra ro poksa bhinu./
-.mo gratuk, mo uvas tulu.
+.le vi bhinu ro birsa./
+aisu tirma ushta. avoli ve tirmun. navu/
+.le avoli bhe orsa,/
+ludra bhe shilsa ro stanra samrek, shilsa durul,/
+.le ludra nyuru stambhu./
+kotra vena ushta ro poksa, nu nyura bhinu‼/
+.mo gratuk, uvas tulu.
 :::
 
 : The Camp {#camp}
 
 ::: {.verse form=dialogue lang=en work=camp}
-Below the gold road, the valley king's fires/
-.lined the shale./
-His bow companies slept beside their staves./
-.Our mark was cut on their grips./
-Two men of the reed village lay at one fire,/
+Below the gold road the valley king's fires/
+.stood in rows on the shale./
+His companies of the bow slept by their staves,/
+.and the mark on the grips was ours./
+Two of the reed village lay at one fire,/
 .one mother, one kulpa:/
-the elder, eleven years drawing for royal pay,/
-.Sharabira, two.
+the elder, eleven years drawn for the king's pay,/
+.and Sharabira, two.
 
-A runner arrived at the third watch,/
-.no lamp, four seals./
-He had followed the river path from the fort./
-.His feet were cut open./
-He asked for the marked grips,/
-.never asking for the king./
-Bowmen left their blankets for the fire./
-.Standing, he gave the message.
+At the third watch a runner came up the road/
+.with no lamp and four seals./
+He had come by the river path from the fort/
+.and his feet were open./
+He did not ask for the king. He asked for the grips/
+.with the mark cut in them,/
+and the bowmen came out of their blankets to the fire,/
+.and he spoke it standing:
 
-[dhanurpala]{.name data-type="being/npc" lang=vedy} of the High Draw declares it./
-.The three declare it with him./
-The bow was given at the gate, never sold./
-.Its grip bears our mark./
-Danurkot has no quarrel with the gold mountain,/
-.or any neighbor./
-The janpoda calls home what it gave./
-.Every bow held by the valley king:/
-come down to Bharyastan's horse./
-.Stand beside them at the mouth./
-Whoever comes belongs to us. Whoever stays—/
-.the runner paused,/
-knowing the word had an ending./
-.He delivered it: —does not.
+"[Dhanurpala]{.name data-type="being/npc"} of the High Draw says it,/
+.and the three say it with him./
+The bow was given at the gate. It was not sold./
+.The mark on the grip is ours./
+Danurkot has no quarrel with the gold mountain/
+.and none with any neighbor./
+What the janpoda gave, the janpoda calls home./
+.Every bow in the valley king's hand:/
+come down to the horse at Bharyastan/
+.and stand with them at the mouth./
+Who comes is ours. Who stays—"/
+.and the runner stopped,/
+because the word had an end and he knew it,/
+.and he gave it: "—is not."
 
-He drank and moved to the next fire./
-.At ours nobody spoke./
-The elder added a stick, sat back,/
-.and spoke first.
+He drank, and went on to the next fire./
+.Nobody at ours spoke./
+The elder put a stick on and sat back from it/
+.and said the first word.
 
-The elder.
+The elder:/
+I have eaten the valley king's salt eleven years./
+.Salt is not a loan./
+It is in the blood. You cannot hand it back/
+.at a gate, at night, to a boy with his feet open.
 
-For eleven years I ate the valley king's salt./
-.Salt is no loan./
-It enters the blood. You cannot give it back/
-.at a gate at night to a boy with bleeding feet.
+Sharabira:/
+Salt he guaranteed, and bread, and silver at the new moon,/
+.and we have had them./
+A king is owed what he guaranteed and nothing past it./
+.He did not guarantee the gold./
+He guaranteed our pay to shoot where he pointed./
+.He did not say: at the mountain.
 
-Sharabira.
+The elder:/
+He did not say it because nobody says it./
+.Who writes "not at the gold"?/
+A contract is for whom the king chooses, and he has chosen./
+.Choose for him, and who hires?/
+Who hires a bow that reads its contract by firelight/
+.and is gone before the light?/
+The fort lives on hire. The reed village lives on hire./
+.Our mother's roof is hire.
 
-He guaranteed salt, bread, silver at each new moon./
-.We received them./
-A king is owed his guarantee, nothing beyond it./
-.Gold was no part of his guarantee./
-He promised pay for shooting where he pointed./
-.He never said: at the mountain.
+Sharabira:/
+The fort lives on the bow being the fort's./
+.That is the thing hired./
+A bow that goes where the salt goes is a bow any man can buy/
+.and no king pays for./
+The valley king hired Danurkot's word in us./
+.The word has come up the road.
 
-The elder.
+The elder:/
+I cut an oath with the company on the stone at the valley gate,/
+.a _kortu_, before witnesses:/
+to stand where they stand. Forty men know my face./
+.The man on my left is from the valley./
+He cannot shoot. I shoot for him. If I go down the road/
+.the arrow that was mine comes to him./
+Tell me the duty that lets that arrow through./
+.Name it in its order.
 
-He never said it because nobody does./
-.Who writes: except the gold?/
-The contract serves the king's choice. He has chosen./
-.Choose in his place. Who will hire you?/
-Who hires a bow studying its contract at a fire,/
-.gone before daylight?/
-Hire feeds the fort. Hire feeds the reed village./
-.Hire roofs our mother.
+Sharabira:/
+In order: the household, the kulpa, the village and its sabhra,/
+.the temple, and the king./
+Your company is in the king's place. It is last./
+.You swore it under his salt./
+The man on your left has a king. Let the king stand on his left./
+.I am not his kulpa.
 
-Sharabira.
-
-The fort lives because its bow remains its own./
-.That is what people hire./
-Anyone can purchase a bow that follows salt./
-.No king pays for it./
-The valley king hired Danurkot's word through us./
-.That word has traveled up the road.
-
-The elder.
-
-I cut a company oath at the valley gate's stone,/
-.a kortu, witnessed:/
-stand where they stand. Forty men know me./
-.A valley man stands on my left./
-He cannot shoot. I shoot for him. If I leave,/
-.my arrow comes to him./
-Tell me which duty lets that arrow through./
-.Give its place in the order.
-
-Sharabira.
-
-In order: household, kulpa, village and assembly,/
-.temple, king./
-The company takes the king's place, last./
-.His salt governed your oath./
-Your left-hand man has a king. Let his king stand there./
-.He is outside my kulpa.
-
-The elder.
-
-Four old men wrote on a leaf in a fort./
+The elder:/
+Four old men in a fort wrote on a leaf./
 .No god spoke./
-Mahajaya never brought a lamp up the gold road./
-.A runner came with cut feet./
-Her scale stays in the temple. No thumb touched it tonight./
-.Show me a god in that leaf.
+Mahajaya did not come up the gold road with a lamp;/
+.a runner came, with his feet open./
+Her scale is in the temple. Nobody put a thumb on it tonight./
+.Show me the god in the leaf.
 
-Sharabira.
-
-The four sit together and answer together in war./
-.They are the janpoda's mouth./
-No god spoke when the master put a bow in my hand./
-.The master spoke. He gave it./
-Her scale stands at the mountain. Her gold is weighed upon it,/
-.openly, by weight, every new moon./
-Three equal temples surround it, keeping it from one hand./
-.That is the gold we marched toward./
-Find an arrow for her scale and shoot it./
+Sharabira:/
+The four sit together and answer together on war./
+.That is the janpoda's mouth./
+No god spoke when the master put the bow in my hand;/
+.the master spoke, and it was given./
+And her scale is at the mountain. Her gold is weighed on it/
+.every new moon, in the open, by weight./
+Three temples of hers stand round it, equal, so no one hand holds it./
+.That is the gold we were marching to./
+Shoot at her scale if you can find the arrow for it./
 .I cannot.
 
-The elder.
-
-The fort ate his salt before we did./
-.Every spring his retainer comes upriver,/
-into the temple chest. The four sit on that chest./
-.They eat his silver and send a boy/
-to tell me to spit his salt into fire./
+The elder:/
+The fort ate his salt before either of us did./
+.His retainer comes up the river road every spring/
+and goes into the temple chest, and the four sit on the chest./
+.They eat his silver and send me a boy/
+to tell me to spit his salt in the fire./
 .Answer that.
 
-Sharabira.
-
-The retainer purchased officers from the halls./
-.It never purchased the mountain./
-The fort will tell him what it owes to his face,/
+Sharabira:/
+The retainer bought him officers out of the halls./
+.It did not buy him the mountain./
+What the fort owes him for it, the fort will say to his face/
 .at the Melka, and pay./
-I have paid what I owe through the new moon./
-.I owe nothing for the next.
+What I owe him is paid to the new moon./
+.I owe him the next moon nothing.
 
-The elder.
+The elder:/
+The manuals say a Sentija who refuses the host's call/
+.is not a Sentija./
+We stand as Sentija by the fort's own grant, you and I,/
+.reed-cutters' sons./
+The host is called. Go down the road, and by the fort's own law/
+.you are a reed-cutter with a bow.
 
-The manuals deny a Sentija who refuses a host's summons/
-.the standing of Sentija./
-The fort made us Sentija, you and me,/
-.reed cutters' sons./
-The host is summoned. Leave, and the fort's own law makes you/
-.a reed cutter with a bow.
+Sharabira:/
+The host the manuals mean is the janpoda's host,/
+.the one the sabhra raises./
+The valley king's companies are a contract and a sack of salt./
+.The grant was the fort's./
+What the fort's law gave, the fort's law can call back./
+.That is what the leaf says./
+A Danurkot does not shoot at Danurkot's neighbor./
+.That is all it says.
 
-Sharabira.
+The elder:/
+There is silver in my blanket for eleven years,/
+.and the half of it is hers./
+The roof in the marsh is a contract roof. Strike my name./
+.It keeps the rain off her./
+The household first, you said. Say it again,/
+.and then say who feeds it.
 
-The manuals mean the janpoda's host,/
-.raised by its assembly./
-The valley companies mean a contract and sack of salt./
-.The fort granted our standing./
-Its law can recall what its law gave./
-.That is the leaf's message./
-A Danurkot never shoots Danurkot's neighbor./
-.It says nothing more.
+Sharabira:/
+The household first. Here is my silver. Two years./
+.It was earned under his salt until tonight./
+Take it down to her with yours. The kulpa feeds her after;/
+.that is what a kulpa is for./
+The silver stays with you. The name goes home with me./
+.Both are hers.
 
-The elder.
+The fire went down. Neither put a stick on it./
+.Up the road the other fires were moving./
+Men were coming out of blankets with staves in their hands/
+.and going down past the pickets/
+without a word to the pickets, and the pickets let them,/
+.because their grips had the mark too./
+The elder watched them go. He did not count them./
+.Then he said the name.
 
-Eleven years' silver lies in my blanket./
-.Half belongs to her./
-The marsh roof is a contract roof. Strike my name./
-.It keeps her dry./
-You said: household first. Repeat it./
-.Then name who feeds it.
-
-Sharabira.
-
-Household first. Here is my silver: two years./
-.Earned beneath his salt until tonight./
-Carry mine with yours to her. The kulpa feeds her afterward./
-.That is a kulpa's purpose./
-The silver stays with you. The name returns with me./
-.Both belong to her.
-
-The fire sank. Neither added wood./
-.Other fires stirred along the road./
-Men emerged from blankets carrying staves,/
-.going down past sentries,/
-saying nothing. The sentries let them pass:/
-.their own grips bore the mark./
-The elder watched. He kept no count./
-.Then he used the name.
-
-The elder.
-
+The elder:/
 Sharu./
-.Stay on my left./
-Let them strike both names from the roll together./
-.The roof stays whole./
-Since the marsh I have never used that name./
-.I am using it now.
+.Stay at my left./
+Let them cut us both out of the roll, two names in one place,/
+.and the roof whole./
+I have not said that name since the marsh./
+.I am saying it.
 
-Sharabira.
+Sharabira:/
+The roll says Sharabira Sharakirti of Shiraban./
+.Say what the roll says.
 
-The roll names Sharabira Sharakirti of Shiraban./
-.Use the roll's name.
+He took the bow from the rack and the string from his neck/
+.and the quiver, which was reed from the dead channel,/
+and he broke nothing at that fire, because nothing at it was his./
+.The light came up gray on the shale./
+The elder turned the silver over and put it inside his shirt./
+.The king's salt was in its sack by the fire./
+He left it where it was, as he had said he would./
+.He did not stand to watch the road.
 
-He took his bow from the rack, its string from his neck,/
-.his quiver of reeds from the dead channel./
-He broke nothing at that fire. Nothing there belonged to him./
-.Grey light rose upon the shale./
-The elder turned the silver over and put it beneath his shirt./
-.The king's salt stood bagged beside the fire./
-As promised, he left it there./
-.He never stood to watch the road.
-
-Most marked grips in that camp/
-.took the road down before sunrise./
-The remainder stayed beside their fires. The fort gives no count./
-.It says: the remainder.
+Of the grips in that camp with the mark cut in them/
+.most went down the road before the sun./
+The rest stayed by the fires. The fort does not count them./
+.It says: the rest.
 :::
 
 ::: {.verse form=dialogue lang=vedy enc=vedyvedyaksharaenc work=camp}
-hirenya ro margha nitar daun ro rajva ro agmi/
-.shilpatra pa avoli bhe stambhu./
-ve ro danur ro senta danudarva anshe nidu,/
-.le danushta pa darsu mova ro orsa./
-birsa shiraban ro janru aisu agmi anshe nidru,/
-.aisu matva, aisu kulpa./
-stovira 11 orkhu rajva ro misra druk danpruku,/
-.le sharabira birsa.
+suvorna margha nitar, daun bhe, rajva ro agmi/
+.shilpatra pa avoli./
+ve ro danurin brel danudarva anshe nidu,/
+.mudva mova ro orsa./
+shiraban ro birsa aisu agmi anshe nidru,/
+.aisu matva le kulpa,/
+puratra, teskaisu orkhu rajva druk danpruku,/
+.le sharabira, birsa.
 
-ganstal tre ro ghaulrakha bhe dramoka margha utrak hauvu,/
-.jvelaka uvas, sotra mudva shem./
-ve kotra trum nodra ro pantra anva hauvu,/
-.le ve ro padsa petsa ushta./
-ve rajva uvas jahnuk, ve danushta jahnuk,/
-.vena pa darsu chintuna orsa,/
-le danurin kambra turu agmi tral hauvu,/
-.le ve stambhu shem lampu.
+ganstal tre ghaulrakha bhe, jvelaka nuk, dramoka/
+.hauvu, sotra mudva shem./
+ve kotra trum nodra ro pantra pral prenu hauvu,/
+.le ve ro padsa chintak./
+rajva uvas jahnak, mudva ro danushta jahnak,/
+.le vi pa mudva chinva,/
+le danurin kambra trum turu, agmi tral hauvu,/
+.ve stambhu kaldem lampu,
 
-utradanpruk ro dhanurpala ehu lampu,/
-.le tre ve shem lampu./
-dvarna bhe danur pomu bhe orsa, vi orgha pomu bhe uvas orsa./
-.danushta pa darsu mova ro orsa./
+«dhanurpala, utradanpruk ro achorya, lampu,/
+.tre ve shem levu lampu./
+dvarna bhe danur pomu, vi orgha uvas adnu./
+.mudva mova ro orsa./
 danurkot hirengirka shem preska uvas ushta,/
-.le vrel anshegrohin shem uvas./
-janpoda varsu pomu, janpoda vi groha tral ravhu./
-.daun ro rajva ro pomba bhe sartu danur,/
-nu bharyastan ro oshka tral nitar hauvu,/
-.le vena shem mukhva bhe stambhu./
-hauvu ro janru mova ro orsa, nyuru orsa ro janru,/
-.le dramoka brondu,/
-drunem shaltu kalduna ushta, le ve vi jnenuk,/
-.le ve vi pomu, mova ro uvas orsa.
+.nukva anshegrohin shem./
+janpoda pomu ro, janpoda groha tral ravhu./
+.daun rajva ro danurin,/
+sartu, bharyastan ro oshka tral hauvu, vena shem,/
+.le mukhva bhe nu stambhu‼/
+hauvu ro, mova ro. nyuru ro—.» dramoka brondu,/
+.drunem shaltu kalduna/
+ushta, ve vi jnenuk, le kaldunganstal vi pomu,/
+.«…mova ro uvas orsa.»
 
-ve jalnu, le anvaganstal agmi tral chambu./
-.mova ro agmi anshe nortu janru lampu./
-stovira ferkakhondra vi pa stanru le durul sadnu,/
-.le ganstal aisu shaltu lampu.
+ve jalnu, le ve anvaganstal agmi tral chambu./
+.mova ro agmi nimra./
+puratra ferkakhondra stanru, le anval sadnu,/
+.le ganstal aisu lampu.
 
-stovira.
+puratra lampu,/
+mo teskaisu orkhu daun rajva ro shimra ghuma./
+.le shimra olgu uvas./
+vi shoru bhe. nu vi vramul uvas grenu pomu,/
+.ghaul bhe, dvarna bhe, lam tral.
 
-mo daun ro rajva ro shimra 11 orkhu ghuma./
-.shimra olgu uvas orsa./
-vi shoru rinru orsa, nu vi vramul uvas grenu pomu,/
-.dvarna bhe, ghaul bhe, petsa ro padsa ushta ro kema tral.
-
-sharabira.
-
-ve shimra, apra le navchendra bhe rajta ro vreta pomu,/
+sharabira lampu,/
+shimra, apra, navchendra bhe rajta vreta pomu,/
 .le mova vena adnu./
-rajva ve ro vreta ro varsu ro anvaru ushta, le navu varsu uvas./
-.ve hirenya ro vreta uvas pomu./
-ve ro pomba pantru tral shirka muku druk misra ro vreta pomu./
-.ve girka tral uvas lampu.
+rajva tral vreta pomu ro olgu, pordun nortu./
+.suvorna vreta uvas./
+vreta pomu, mova ve ro najru shem danpruku,/
+.uvas lampu, girka tral.
 
-stovira.
+puratra lampu,/
+ve uvas lampu, drunem nortu janru vi lampu./
+.jahu lipak, «girka nuk.»?/
+karmuklipu rajva kertuk ro druk, le ve kertuk./
+.nu kertuk? jahu karmuk?/
+ghaul bhe karmuklipu gratuk, dopra anra chambu/
+.ro danur jahu karmuk?/
+kotra karmuna pa ormu, le shiraban levu./
+.matva groha karmuna.
 
-ve vi uvas lampu, drunem nortu janru vi lampu./
-.jahu hirenya tral uvas lipak./
-karmuklipu rajva ro kertuna druk orsa, le ve kertuk./
-.nu ve druk kertuk, le jahu karmuk./
-jahu danur karmuk, vi agmi ro kirtu bhe karmuklipu gratuk,/
-.le kirtu anra durul chambu./
-kotra karmuna pa ormu, shiraban karmuna pa ormu./
-.mova ro matva ro grohashirnu karmuna orsa.
+sharabira lampu,/
+kotra ormu, danur kotra ro varsu orsa drun./
+.uhu karmuk ro varsu./
+shimra anva ro danur, mahvel nuvar vi adnu,/
+.rajva druk shon orgha ro./
+daun rajva danurkot ro shaltu mova bhe karmuk./
+.shaltu margha pral hauvu.
 
-sharabira.
+puratra lampu,/
+daun ro dvarna bhe senta shem kortu chinu, vena/
+.ro stalu bhe stambhu druk,/
+darshin pravun. sotrateska mo ro mirmu jnenuk./
+.mo ro leru ro janru/
+daun trum. ve uvas grenu, le mo ve druk danpruku./
+.vren mo margha tral chambu,/
+mo ro shirka ve tral hauvu. nu vrannuk ro dorma/
+.lampu‼ rinda bhe tirmun‼
 
-kotra kotra ro danur pa ormu./
-.uhu varsu karmuna bhe orsa./
-danur shimra anva chambu, vrel janru vi orgha pomu grenu,/
-.le nortu rajva vi druk orgha pomu./
-daun ro rajva mova rinru danurkot ro shaltu karmuk./
-.shaltu margha utrak hauvu.
+sharabira lampu,/
+rinda, kobala, kulpa, grima le vi ro sabhra,/
+.ombhala, anva rajva./
+nu ro senta rajva ro stanra bhe. kaldunganstal./
+.nu shimra kortu pomu./
+leru ro rajva ushta. rajva ve ro leru bhe‼/
+.mo ve ro kulpa uvas.
 
-stovira.
+puratra lampu,/
+sotra stovira kotra bhe kodri pa vi lipak./
+.nortu devra vi lampu./
+mahajaya jvelaka shem margha uvas hauvu./
+.dramoka, chintak padsa./
+ve ro umbra ombhala bhe, ghaul bhe nortu pomba./
+.kodri bhe devra kevu?
 
-mo senta shem daun ro dvarna bhe shilsa pa kortu chinu,/
-.darshin pravun kortu./
-vena stambhu ro stalu bhe stambhu, 40 janru mo ro mirmu jnenuk./
-.mo ro leru bhe janru daun ro orsa./
-ve shirka muku uvas grenu, mo ve druk muku, vren mo margha nitar chambu,/
-.anven mo ro shirka ve tral hauvu./
-uhu shirka pral chambu vrannuk ro dorma mo tral lampu./
-.vi ro rinda bhe tirma lampu.
+sharabira lampu,/
+sotra shem sadnu, le sentakarmu pa shem lampur./
+.uhu janpoda mukhva./
+achorya danur pomu, le nortu devra lampu./
+.achorya lampu, pomu./
+ve ro umbra girka bhe. ve ro suvorna vi pa/
+.sartu navchendra tulu./
+tre ombhala vi mon samru, nortu pomba ushta./
+.mova uhu tral chambu./
+vren nu shirka kretu, ve ro umbra tral danpruku./
+.mo ehu uvas grenu.
 
-sharabira.
+puratra lampu,/
+kotra ve ro shimra mova birsa anra ghuma./
+.le ve ro karmunolgu/
+sartu antaritu danhakoshta rinu chambu,/
+.le sotra vi pa sadnu./
+vena rajta ghuma, lam chamru, «shimra sipitnu‼»/
+.nu mo tral ehu lampur‼
 
-rinda bhe kobala, kulpa, grima le vi ro sabhra,/
-.ombhala le rajva./
-nu ro senta rajva ro stanra bhe orsa, vi kaldunganstal orsa./
-.nu ve ro shimra nitar kortu pomu./
-nu ro leru bhe janru rajva ushta, rajva ve ro leru bhe stambhu./
-.mo ve ro kulpa uvas orsa.
+sharabira lampu,/
+karmunolgu ve tral senaneka orgha pomu./
+.nel girka uvas adnu./
+kotra ve tral ushta ro olgu, kotra melka bhe/
+.ve pravun lampu, pomu./
+mo ro olgu ve tral navchendra grun prenu pomu./
+.navu chendra bhe nortu.
 
-stovira.
+puratra lampu,/
+gorvakodri, senta ravha nuvrak ro sentija/
+.sentija uvas orsa./
+kotra ro pomon shem mova sentija, nu le mo,/
+.shirka chinu ro kema./
+senta ravhu. nu margha chambu‼ kotra ro dorma/
+.danur shem shirka chinu.
 
-sotra puratra janru kotra bhe lipu pa lipak./
-.nortu devra lampu./
-mahajaya jvelaka shem hirenya ro margha utrak uvas hauvu,/
-.dramoka hauvu, petsa ro padsa shem./
-ve ro umbra ombhala bhe orsa, ehu ghaul bhe nortu janru vi pa mahva pombasutka stanru./
-.lipu bhe devra mo tral darsin karmak.
-
-sharabira.
-
-sotra aisu kalda bhe sadnu le sentakarmu pa aisu lampur pomu./
-.uhu janpoda ro mukhva orsa./
-gorva mo ro pomba bhe danur stanru, nortu devra lampu,/
-.gorva lampu, le vi pomu bhe orsa./
-le ve ro umbra girka bhe orsa, ve ro hirenya vi pa umbrona bhe orsa,/
-.sartu navchendra bhe, darsin, umbra shem./
-ve ro tre ombhala samru vi mon orsa, drunva aisu pomba vi uvas ushta./
-.uhu hirenya tral mova chambu./
-vren nu vi druk shirka kretu, anven ve ro umbra tral muku./
-.mo uvas grenu.
-
-stovira.
-
-mova ro birsa janru anra kotra ve ro shimra ghuma./
-.sartu antaritu bhe ve ro karmunolgu nodra ro margha utrak hauvu,/
-le ombhala ro danhakoshta rinru chambu, le sotra koshta pa sadnu./
-.vena ve ro rajta ghuma le mo tral kema pomu,/
-ve mo ve ro shimra agmi bhe sipitnu lampu druk./
-.nu vi lampur.
-
-sharabira.
-
-karmunolgu ve druk shalda trum senaneka orgha pomu./
-.vi ve druk girka uvas orgha pomu./
-kotra ve tral kevu ro anvaru ushta, kotra ve ro mirmu pravun vi lampu,/
-.melka bhe, le pomu./
-mo ve tral ro anvaru navchendra grun pomu bhe orsa./
-.mo anvaganstal chendra druk ve tral nortu varsu ro anvaru ushta.
-
-stovira.
-
-gorvakodri lampu, sentija senta ro ravha nuvrak,/
-.ve sentija uvas orsa./
-nu le mo kotra ro pomon shem sentija ro stanra ushta,/
-.shirka chinu ro janru ro kema./
-senta ravhu bhe orsa, nu margha nitar chambu, le kotra ro dorma shem/
-.nu danur shem shirka chinu ro janru orsa.
-
-sharabira.
-
-gorvakodri ro senta janpoda ro senta orsa,/
-.sabhra vi ravhu./
-daun ro rajva ro senta karmuklipu le shimra ro chelkoda orsa./
+sharabira lampu,/
+gorvakodri senta janpoda ro senta orsa,/
+.sabhra utru karmak ro./
+daun rajva ro senta karmuklipu, shimra koda./
 .pomon kotra ro orsa./
-kotra ro dorma varsu pomu, kotra ro dorma vi vramul ravhu grenu./
-.lipu ehu lampu./
-danurkot danurkot ro anshegrohin tral shirka uvas muku./
+kotra dorma pomu ro, vi vramul grenu ravhu./
+.ehu kodri ro shaltu./
+danurkot ro anshegrohin tral uvas danpruku./
 .vi aisul ehu lampu.
 
-stovira.
+puratra lampu,/
+mo kambra bhe teskaisu orkhu ro rajta ushta,/
+.khondra ro birsa ve ro./
+ve ro groha karmuna. nu mo ro tirma chinu‼/
+.vi borsha durul ushta./
+kobala ganstal aisu, nu lampu. vramul lampu,/
+.jahu vi ghomra pomu‼
 
-mo ro kambra bhe 11 orkhu ro rajta orsa,/
-.le khondra ro birsa matva ro orsa./
-jalkshetka bhe grohashirnu karmuklipu ro grohashirnu orsa, mo ro tirma chinu./
-.vi matva trum borsha durul ushta./
-kobala ganstal aisu, nu lampu, nu vramul lampu,/
-.le jahu vi ghomra pomu lampu.
+sharabira lampu,/
+kobala ganstal aisu. rajta, birsa orkhu ro,/
+.ve ro shimra nitar ro./
+nu, nu ro rajta shem, ve tral bhornu‼ kulpa ve tral/
+.ghomra pomu. ehu druk./
+rajta nu shem nyuru. tirma mo shem groha vramu./
+.sartu birsa matva ro.
 
-sharabira.
+agmi nitar chambu. nortu ferkakhondra stanru,/
+.le navu agmi chamru./
+janra kambra trum danudarva shem turu hauvu,/
+.rakhapal anshe nitar,/
+rakhapal tral nortu shaltu, le rakhapal vrannuk,/
+.vena pa mudva levu./
+puratra vena nyura darmu. ve uvas ganu./
+.anva ve tirma lampu.
 
-kobala ganstal aisu, ehu mo ro rajta, birsa orkhu./
-.ehu ghaul grun ve ro shimra nitar misra adnu./
-nu brel ro shem vi matva tral nitar bhornu, anva kulpa ve tral ghomra pomu./
-.uhu kulpa ro prabru orsa./
-rajta nu shem nyuru orsa, tirma mo shem groha tral chambu./
-.sartu birsa matva ro orsa.
+puratra lampu,/
+sharu. nu mo ro leru bhe nyuru‼ avoli trum/
+.le vena mova chinu,/
+birsa tirma aisu stanra bhe, le groha kartum‼/
+.mo vi jalkshetka anva/
+uvas lampu. le kenu mo uhu tirma lampu./
+.sharu, sharu, mo lampu.
 
-agmi nitar chambu, nortu janru ferkakhondra vi pa stanru./
-.margha utrak navu agmi chamru./
-janru kambra turu hauvu, danudarva pomba bhe,/
-.le rakhapal nitar trum nitar chambu,/
-rakhapal tral aisu shaltu uvas, le rakhapal vena vrannuk,/
-.drunem vena ro danushta levu darsu ushta./
-stovira vena chambu nyura darka, ve vena uvas ganu./
-.uhu kalda bhe ve tirma lampu.
+sharabira lampu,/
+avoli, «sharabira sharakirti, shiraban.»/
+.nu avoli shem lampu‼
 
-stovira.
+danustonu trum danur, kandru trum sultu adnu,/
+.le shirkakoshta adnu,/
+dauru jalpantra shirka. agmi bhe nortu braku,/
+.drunem vi nortu ve ro./
+shilpatra pa bhosmak kirtu utru. le puratra/
+.rajta angchel bhe stanru./
+rajva shimra agmi anshe orsa. ve vi taryu./
+.ve margha uvas darmu.
 
-sharu./
-.mo ro leru bhe nyuru orsa./
-vena mova birsa lipu trum chinu, aisu stanra bhe birsa tirma,/
-.le grohashirnu kartum./
-jalkshetka trum mo uhu tirma uvas lampu./
-.mo kenu vi lampu.
-
-sharabira.
-
-lipu sharabira sharakirti ro shiraban lampu./
-.lipu ro shaltu nu lampu.
-
-ve danur danustonu trum adnu, le sultu kandru trum,/
-.le shirkakoshta, vi dauru jalpantra ro shirka orsa,/
-le ve uhu agmi anshe nortu varsu braku, drunem vi anshe nortu varsu ve ro orsa./
-.kirtu shilpatra pa ruknu utrak hauvu./
-stovira rajta vartuk le brel ro angchel rinru stanru./
-.rajva ro shimra agmi anshe brel ro chelkoda bhe orsa./
-ve vi uhu stalu bhe taryu, ve ro prenu shaltu shem samru./
-.ve margha nyura darmu druk uvas stambhu.
-
-uhu nidstalu bhe danushta darsu ushta, vena ro bram barnu/
-.surta anra margha nitar chambu./
-navu janru agmi anshe nyuru orsa, kotra vena uvas ganu./
-.vi navu janru lampu.
+uhu nidstalu bhe mudva ro danushta, barnu/
+.surta anra margha pral./
+navu agmi anshe. kotra vena uvas ganu./
+.vi aisul lampu, navu.
 :::
 
 : The Gorge {#gorge}
 
 ::: {.verse form=dialogue lang=en work=gorge}
-Sharabira.
-
-Three days down, staves on our backs, no fires,/
-.keeping the reeds dry./
-Bharyastan's horse already waited in the yard:/
-.four hundred, saddled, fed barley./
-Gold had summoned them through the old treaty,/
-.as it had summoned their fathers./
-One of the king's household stayed behind./
-.The council remembers./
-We reached the mouth at the second night's end./
+Sharabira:/
+Three days down with the staves on our backs and no fires,/
+.and the reed kept dry./
+At Bharyastan the horse were already in the yard,/
+.four hundred, saddled, barley-fed,/
+because the gold had called them under the old treaty/
+.as it had called their fathers./
+One of the king's house did not ride./
+.The council has remembered it./
+We came to the mouth at the end of the second night./
 .The gorge is two carts wide./
-The gold road descends through it from the hills,/
-.opening onto stones below./
-Horse waited on the flat left of the mouth,/
-.with room to turn./
-In darkness we climbed both jaws, long bows/
-.bound for shelves above the road./
-The Patient Eye went higher and farther in, one arrow each,/
-.lying motionless./
-Nobody saw [[place-hiddenstring|the Hidden String]]'s route./
+The gold road comes down out of the hills through it/
+.and opens on the stones of the floor./
+The horse stood off on the flat to the left of the mouth,/
+.where a horse can turn./
+We went up the two jaws in the dark, the long bows/
+.to the shelves above the road,/
+[[place-patienteye|the Patient Eye]] higher and farther in, one arrow each,/
+.lying still./
+Where [[place-hiddenstring|the Hidden String]] went, nobody saw./
 .Nobody looks./
-We told each other: the fort's priests are awake tonight./
-.Lamps stand before the scale./
-We could not see. We said it to one another/
-.as you say the well is there./
-They keep it for every marked grip./
-.That night all the grips still had the mark./
-At first grey I touched the sun disc at my throat,/
-.fastening the string to its horn.
+That night, we said, the priests are awake in the fort./
+.The lamps are up before the scale./
+We could not see it. We said it to each other/
+.the way you say the well is there./
+They keep it for every grip with the mark on it,/
+.and that night every grip still had the mark./
+At first gray I touched the sun-disc at my throat/
+.and set the string on the horn.
 
-The host climbed the road with light behind,/
-.spears first, two carts wide./
-Behind the spears came bow companies,/
-.tall staves./
-A long bow draws to the ear. You cannot conceal it./
-.The elbow rises./
-Every man with a year's practice beneath the north wall/
-.reaches the ear his own way./
-You recognize your brother's draw as you recognize his walk/
-.uphill from the marsh with bundles./
-I had eleven arrows. My first went where the master teaches/
-.a first arrow belongs:/
-into the spears, toward the man looking up./
-.He never looked again./
-The gorge did the rest: two carts wide./
-.Nobody turns there./
-The front could not retreat. The rear pressed forward./
-.We held the shelves./
-It was short. The chronicle calls it short, correctly./
-.Eleven arrows long./
-At the eighth or ninth I saw a draw/
-.rise toward an ear,/
-on the road below among the royal companies,/
-.elbow high, lifted his way./
-I do not call it him. I say I saw that draw./
-.I released the ninth./
-I cannot say where it went. Men filled the road./
-.Something passed my cheek,/
-broke against the rock behind, fell beside my heel:/
-.a reed shaft with grey feathers./
-Reeds are cut in a hundred marshes./
-.Every marsh has grey herons./
-I left it lying. I released the tenth./
+The host came up the road with the light behind it,/
+.spears first, two carts wide,/
+and behind the spears the bowmen in their companies,/
+.and the staves were tall./
+A long bow is drawn to the ear. There is no hiding it./
+.The elbow goes up./
+Every man who has pulled one for a year on the ground under the north wall/
+.comes to the ear his own way,/
+and you know your brother's as you know his walk/
+.coming up from the marsh with the bundles./
+I had eleven arrows. The first went where the master says/
+.a first arrow goes:/
+at the spears, at the man who had looked up,/
+.and he did not look again./
+The gorge did the rest. It is two carts wide./
+.Nobody turns in it./
+The front could not go back and the back came on,/
+.and the shelves were ours./
+It was short. The chronicle says short, and it is right./
+.It was eleven arrows long./
+Somewhere in the eighth or the ninth I saw a draw/
+.come up to the ear/
+on the road below, in the king's companies,/
+.the elbow high, the way he brought it up./
+I do not say it was he. I say I saw the draw./
+.I loosed the ninth./
+I do not know where it went. The road was full of men./
+.Something came past my cheek/
+and broke on the rock behind me and dropped at my heel,/
+.a reed shaft, gray-fletched,/
+and reed is cut in a hundred marshes/
+.and the herons are gray in all of them./
+I did not pick it up. I loosed the tenth./
 .I kept the eleventh./
-The horse struck their flank from the flat./
-.The road emptied downhill./
-Sun had yet to reach the stones. That was the war./
-.Some lay upon the road./
-Few. The chronicle calls them few, correctly./
-.I counted those visible from my shelf./
-They retreated beyond bowshot and stood./
-.Nobody released an arrow./
-They returned for their people with carts abreast, filling the road./
-.We carried ours up the slope./
-Conches sounded on road and shelf./
-.Each side took its own home for burning./
-Nobody remained at the mouth./
-.By noon the stream ran clear./
-Before their carts arrived I went down and studied faces./
-.I will admit it. I looked./
-He was absent from the dead on the road./
-.That is all I know./
-A man absent from the road retreated from the mouth,/
+The horse came in off the flat into the side of them/
+.and the road emptied downhill,/
+and the sun was not yet on the stones. That was the war./
+.Some lay on the road./
+Few. The chronicle says few, and the chronicle is right;/
+.I counted the ones I could see from the shelf./
+They drew off down the road out of bowshot and stood,/
+.and nobody loosed./
+They came back for theirs with carts, two abreast, which is the road,/
+.and we carried ours up the slope./
+The conch was sounded on the road and on the shelf,/
+.and each side carried its own home to burn./
+Nobody was left at the mouth./
+.The stream ran clear by noon./
+I went down to the road before their carts came/
+.and looked at the faces. I will say that. I looked./
+He was not among them on the road./
+.That is all I know of him./
+A man who is not on the road went back out of the mouth/
 .or never drew there./
-I possess the draw. Nothing else./
-.I possess the eleventh arrow.
+I have the draw. I have nothing else./
+.I have the eleventh arrow.
 :::
 
 ::: {.verse form=dialogue lang=vedy enc=vedyvedyaksharaenc work=gorge}
-sharabira.
-
-tre demu nitar, danudarva kirnu pa, agmi uvas,/
+sharabira lampu,/
+tre demu, danudarva kirnu pa, agmi uvas,/
 .le shirka bherka ushta./
-bharyastan bhe oshka angala bhe prenu orsa,/
-.400, sadelkavru, yavu ghuma,/
-drunem hirenya puratra samkortu nitar vena ravhu,/
-.vena ro tobu ro samnu pantra shem./
-rajva ro kobala ro aisu janru uvas oshka pa chambu./
-.sabhra vi smirtu./
-mova ganstal birsa ghaul ro kalduna bhe mukhva tral hauvu./
-.girgharsa birsa shokot mavru orsa./
-hirenya ro margha domsa trum vi pral nitar hauvu,/
-.le nitar ro shilsa pa muku./
-oshka mukhva ro leru bhe talka pa durul stambhu,/
-.uhu stalu bhe oshka vartuk grenu./
-mova ghauru bhe birsa girkandru utrak chambu, drau danur/
-.margha utrak ro shilstonu tral,/
-nirpadiku bram utrak le bram rinu, sartu janru aisu shirka,/
-.nyuru nidru./
-dikbrondsultu kevu stalu tral chambu, nortu janru darka./
-.nortu janru darmu./
-uhu ghaul bhe, mova lampu, kotra bhe jvelita nivre orsa./
-.umbra pravun jvelaka utrak orsa./
-mova vi uvas grenu darka, mova vi aisu navu tral lampu,/
-.kupra uhu stalu bhe orsa lampu ro pantra shem./
-vena darsu ro sartu danushta druk vi ushta,/
-.le uhu ghaul bhe sartu danushta nyuru darsu ushta./
-ganstal aisu ruknu bhe mo kandrupantra pa surtamonda partu,/
-.le sultu danoshru pa stanru.
+bharyastan ro angala bhe sotragolsa oshka,/
+.sadelkavru, yavu shem,/
+suvorna puratra samkortu shem vena ravhu,/
+.vena ro tobu samrek./
+rajgroha ro aisu janru oshka uvas adnu./
+.sabhra vi nyuru smirtu./
+ganstal birsa ghaul kalduna bhe mukhva tral hauvu./
+.girgharsa birsa shokot./
+suvorna margha domsa trum vi pral nitar hauvu,/
+.daun ro shilsa pa muku./
+oshka mukhva leru bhe talka pa durul stambhu,/
+.le oshka vartuk grenu./
+ghauru bhe mova birsa girkandru utrak chambu,/
+.drau danur shilstonu tral,/
+nirpadiku bram utrak, bram rinru, aisu shirka,/
+.nimra le nyuru nidru./
+dikbrondsultu kren stalu tral chambu, nortu darka./
+.nortu janru vi darmu./
+ghaul bhe, mova lampu, kotra bhe yashuka nivre,/
+.umbra pravun jvelaka./
+vi uvas darka. mova aisu aisu tral lampu,/
+.kupra uhu bhe, samrek./
+vena mudva ro sartu danushta druk vi ushta,/
+.uhu ghaul mudva nyuru./
+dopra bhe kandrupantra pa surtamonda partu,/
+.le sultu danoshru pa.
 
-senta margha utrak hauvu, kirtu vena ro kirnu bhe,/
-.potka ganstal aisu, birsa shokot mavru,/
-le potka ro kirnu bhe danurin senta bhe,/
-.le danudarva drautrak orsa./
-drau danur bhinra grun pruku, vi dikbrond ro pantra uvas orsa./
-.pardunjortu utrak chambu./
-sartu janru uttarka ludra nitar stalu pa aisu orkhu vi pruku,/
-.ve brel ro pantra bhe bhinra grun hauvu,/
-le nu nu ro bhaul ro pantra ve ro padsun shem samru smirdak,/
-.ve jalkshetka trum bandakhondra shem utrak hauvu./
-mo 11 shirka ushta, ganstal aisu gorva lampu ro stanra tral chambu,/
-.ganstal aisu shirka ro stanra,/
-potka tral, utrak darmu ro janru tral,/
-.le ve vramul uvas darmu./
-girgharsa navu karmu karmak, vi birsa shokot mavru orsa./
-.nortu janru vi bhe vartuk./
-pravun ro janra vramul uvas grenu chambu, kirnu ro janra nyuru hauvu,/
-.le shilstonu mova ro orsa./
-vi dralet orsa, lipu dralet lampu, le vi samrin orsa./
-.vi 11 shirka ro drau orsa./
-ganstal daum vau jaum bhe mo danpruk darka,/
-.vi bhinra tral utrak hauvu,/
-nitar ro margha pa, rajva ro senta bhe,/
-.pardunjortu utrak, ve ro samnu pantra./
-mo vi ve orsa uvas lampu, mo danpruk darka lampu./
-.mo ganstal jaum muku./
-mo vi kevu stalu tral chambu uvas jnenuk, margha janru shem purku orsa./
-.keru varsu mo ro mirmumardu anshe pral hauvu,/
-le mo ro kirnu bhe shilsa pa braku, le mo ro padsakirnu anshe patru,/
-.shirka ro darva, ruknu perka shem,/
-le golsa jalkshetka bhe shirka chinu,/
-.le sartu vena bhe jaltubi ruknu orsa./
-mo vi uvas adnu, mo ganstal teska muku./
-.mo ganstal 11 ushta./
-oshka talka trum vena ro anshe rinru hauvu,/
-.le margha nitar ro pantra bhe shonya navra,/
-le surta shilsa pa uvas orsa renuk, uhu sentakarmu orsa./
-.keru janru margha pa nidru./
-letru, lipu letru lampu, le lipu samrin orsa./
-.mo shilstonu trum darka grenu ro janru ganu./
-vena margha nitar danur ro durun pordun durul chambu le stambhu,/
+senta, kirtu anval, margha utrak hauvu, potka/
+.pravun, birsa shokot ro,/
+le potka anval danurin vena ro senta bhe,/
+.le danudarva drautrak./
+drau danur bhinra tral pruku. uvas grenu dikbrond./
+.le pardunjortu utru./
+uttarka ludra nitar orkhu pruku ro janru/
+.brel ro pantra bhinra tral,/
+nu brel ro bhaul ro pruk smirdak, ve ro padsun samrek,/
+.bandakhondra shem hauvu./
+mo teskaisu shirka ushta. ganstal aisu chambu,/
+.achorya lampu samrek,/
+le potka tral, utrak darmu ro aisu janru tral,/
+.ve vramul uvas darmu./
+girgharsa navu karmak. vi birsa shokot mavru./
+.le vi bhe nortu vartuk./
+pravun vramu uvas grenu, anval nyuru hauvu,/
+.le shilstonu mova ro./
+vi let kalda ro. lipu lampu, let, le vi samrin./
+.vi teskaisu shirka drau./
+le ganstal daum vau jaum bhe mo aisu danpruk darka/
+.bhinra tral utrak hauvu,/
+margha pa, rajva senta bhe, pardunjortu utrak,/
+.ve vi utru ro pantra./
+ve orsa, uvas lampu. danpruk darka, mo lampu./
+.ganstal jaum shirka muku./
+vi kevu tral, uvas jnenuk. margha janra purku./
+.keru mo mirmu anshe/
+anval shilsa pa braku, padsakirnu bhe patru,/
+.shirka, bhosmak perka shem,/
+drunem golsa jalkshetka bhe janra shirka chinu,/
+.jaltubi sartu bhosmak./
+mo vi uvas utrak adnu. ganstal teska muku./
+.kaldunganstal mo ushta./
+oshka talka trum senta ro anshe rinu hauvu,/
+.le margha nitar shonya,/
+surta renuk uvas. uhu sentakarmu orsa./
+.keru margha pa nidru./
+letru. lipu lampu, letru. lipu samrin orsa./
+.shilstonu trum mo ganu./
+vena margha nitar, shirka pordun, durul stambhu,/
 .le nortu janru muku./
-vena brel ro janru druk shokot shem vramu, birsa aisu avoli bhe, margha ro mavru,/
-.le mova mova ro janru girkandru utrak bhornu./
+vena shokot shem brel ro druk vramu, birsa birsa,/
+.mova ro utrak bhornu./
 margha pa le shilstonu pa shonkha bremu karmak,/
-.le sartu anshe brel ro janru groha tral dahu druk bhornu./
-mukhva bhe nortu janru taryuna orsa./
-.surtaminru grun derka lefru orsa./
-vena ro shokot hauvu anra mo margha tral nitar chambu,/
-.le mirmu darmu, mo ehu lampu, mo darmu./
-ve margha pa vena minra uvas orsa./
-.mo ve drun aisul ehu jnenuk./
-aisu janru margha pa uvas orsa, ve mukhva turu vramu,/
-.vau ve uhu stalu bhe nortu demrak danpruku./
-mo danpruk ushta, mo navu varsu uvas ushta./
-.mo ganstal 11 ro shirka ushta.
+.sartu brel ro dahu druk./
+mukhva bhe nortu nyuru, le surtaminru anra/
+.le derka lefru navra./
+vena shokot anra mo margha tral nitar chambu,/
+.mirmu darmu. vre, darmu./
+margha pa vena minra ve uvas orsa. ehu/
+.ve drun mo aisul jnenuk./
+margha pa uvas ro janru mukhva trum vramu, vau/
+.uhu bhe uvas pruku./
+mo danpruk ushta. mo navu varsu nortu ushta,/
+.le kaldunganstal shirka.
 :::
 
 : The Cairn {#cairn}
 
 ::: {.verse form=dialogue lang=en work=cairn}
-Each autumn bows return from six kingdoms,/
-.along the roads of their service./
-The river-country road bypasses the mouth./
-.Some take a detour there./
-Beside the road where the gorge opens onto stones/
-.stands a heap of broken reeds,/
-waist-high, lowest shafts bearing lichen./
-.Beside it, a niche and ledge./
-The nearest village keeps a lamp on the ledge alight,/
-.whether travelers come or not./
+Every autumn the bows come down out of six kingdoms/
+.by whatever road they served./
+The road from the river country does not pass the mouth./
+.Some come round by it./
+At the side of the road where the gorge opens on the stones/
+.there is a heap of broken reed,/
+waist-high, lichen on the lowest shafts,/
+.and beside it a niche with a ledge,/
+and a lamp on the ledge the nearest village keeps lit/
+.whether anyone is coming./
 Nobody lies at the mouth. The lamp is a lamp,/
-.never a watch upon a door./
-A bow stops, draws one arrow from the quiver,/
-.breaks it over a knee,/
-places it on the heap pointing toward the hills,/
-.naming no one./
-The first shaft laid there came from the dead channel,/
-.grey-feathered, carried a year./
-The fort tells it so. Nobody has looked beneath the heap.
+.and not a watch on a door./
+A bow stops there, takes one arrow from the quiver,/
+.breaks it across the knee,/
+lays it on the heap with the point toward the hills,/
+.and does not say for whom./
+The first shaft laid on the stones there was reed from the dead channel,/
+.gray-fletched, carried a year;/
+so the fort tells it, and nobody has looked under the heap.
 
-They climb to this court in the month of Returning,/
-.grips in their left hands,/
-stand before the scale, hear the roll./
-.First, that year's roll./
-The High Draw's master reads from the leaf:/
-.name, clan, village./
-For every returning man the court answers: Home./
-.It reaches Sharabira/
-Sharakirti of Shiraban. Home, answers the court./
-.It reaches a place/
-where a knife has struck a line through a name./
-.The name remains underneath./
-The master pauses for a name's length,/
-.silent, then continues./
-The silence belongs to the roll. It is no omission./
-.The leaf preserves the place./
-While a master reads the leaf, that place is read./
-.Nothing is said there./
-Then the current roll, the gate, bows passing through/
-.one by one, held by the fort.
+Then they come up the slope to this court in the month of the Returning,/
+.the grip in the left hand,/
+and stand before the scale, and the roll is read./
+.First the roll of that year./
+The master of the High Draw reads it from the leaf,/
+.name and clan and village,/
+and the court answers for each who came home: Home./
+.It comes to Sharabira/
+Sharakirti of Shiraban, and the court says: Home./
+.It comes to a place/
+where a line has been cut through the name with a knife,/
+.and the name is under the line,/
+and the master stops for the length of a name/
+.and says nothing, and goes on./
+That silence is in the roll. It is not a gap in it./
+.The leaf keeps the place./
+As long as a master reads the leaf, the place is read,/
+.and nothing is said at it./
+Then this year's roll, and the gate, and the bows go in by it/
+.one by one, and the fort has them.
 
-Every later autumn he detoured to the mouth from wherever he served./
-.His service was in river country./
-He broke a reed upon the heap, pointing toward the hills,/
-.naming no one./
-The village lit its lamp./
-.He climbed the slope.
+He came round by the mouth every autumn after, from wherever he had served,/
+.and his service was in the river country,/
+and broke a reed on the heap and laid it point to the hills/
+.and did not say for whom./
+The village lit the lamp./
+.He went up the slope.
 
-Here in the court before the goddess's scale,/
-.the bows have returned.
+In this court, before the scale of the goddess,/
+.the bows have come home.
 :::
 
 ::: {.verse form=dialogue lang=vedy enc=vedyvedyaksharaenc work=cairn}
-sartu hiranyaritu bhe danur shauka rajbhumri trum nitar hauvu,/
-.brel ro karmuna ro margha anva./
-nodra ro bhumri trum margha mukhva pral uvas chambu./
-.keru vi mon hauvu./
-margha anshe girgharsa shilsa pa muku,/
-.uhu stalu bhe brakru shirka ro sangra orsa,/
-kertu grun utrak, nitar ro darva pa shiltrina,/
-.le anshe shilkhondra, vi bhe letrak stonu,/
-le stonu pa jvelaka, anshe ro grima vi surkin ushta,/
-.janru hauvu vau uvas hauvu./
-mukhva bhe nortu janru nidru, jvelaka aisu jvelaka orsa,/
-.le dvarna pa rakha uvas orsa./
-aisu danur uhu stalu bhe brondu, shirkakoshta trum aisu shirka adnu,/
-.pertajortu pa vi braku,/
-vi sangra pa stanru, agru domsa tral,/
-.le jahu druk uvas lampu./
-shilsa pa ganstal aisu stanru ro darva dauru jalpantra ro shirka orsa,/
-.ruknu perka shem, aisu orkhu bhornu,/
-kotra ehu lampu, le nortu janru sangra nitar darmu.
+sartu vramukalda danur shauka rajbhumri trum/
+.brel ro margha shem hauvu./
+nodra bhumri ro margha mukhva pral uvas chambu./
+.keru mukhva mon chambu./
+girgharsa muku ro margha anshe shirkasangra,/
+.kertu shem samru drautrak,/
+nitrak shirka pa shiltrina, vi anshe shilkhondra,/
+.aisu utrastonu shem,/
+le vi pa anshe grima jvelaka jvelak ushta,/
+.keru hauvu vau uvas./
+mukhva nortu nidru. jvelaka jvelaka orsa,/
+.dvarna pa rakha uvas./
+danurin brondu, shirkakoshta trum aisu adnu,/
+.pertajortu pa braku,/
+vi shirkasangra pa stanru, kalduna domsa tral,/
+.jahu druk uvas lampu./
+ganstal aisu shirka dauru jalpantra ro shirka,/
+.bhosmak perka, orkhu drau./
+kotra lampu, nortu shirkasangra nitar darmu.
 
-uhu kalda bhe vena vramukalda bhe girkandru utrak ehu angala tral hauvu,/
-.danushta leru pomba bhe,/
-le umbra pravun stambhu, le lipu gratona bhe orsa./
-.ganstal aisu bhe uhu orkhu ro lipu./
-utradanpruk ro gorva vi lipu trum gratuk,/
-.tirma le kulpa le grima,/
-le sartu groha tral vramu ro janru druk angala lampur, groha./
-.vi sharabira tral hauvu,/
-sharakirti ro shiraban, le angala lampu, groha./
-.vi aisu stanra tral hauvu,/
-chinrak tirma trel aisu avoli chinu,/
-.le tirma avoli nitar orsa,/
-le gorva tirma ro drau kalda bhe brondu,/
-.le nortu shaltu lampu, le nyuru chambu./
-uhu nimrona lipu bhe orsa, vi lipu bhe minrakhondra uvas orsa./
-.lipu stanra ushta./
-gorva lipu gratuk grun, stanra gratona bhe orsa,/
-.le vi bhe nortu shaltu lampu./
-anva ehu orkhu ro lipu, le dvarna, le danur vi pral rinu chambu,/
-.aisu anva aisu, le kotra vena ushta.
+anva vena ehu angala tral utrak hauvu,/
+.danushta leru pomba,/
+le umbra pravun stambhu, le avoli gratona./
+.anra uhu orkhu ro./
+utradanpruk ro achorya kodri trum vi gratuk,/
+.tirma, kulpa, le grima,/
+le angala sartu vramu ro druk lampur, «groha.»/
+.sharabira tral hauvu,/
+sharakirti, shiraban, angala lampu, «groha.»/
+.aisu stanra tral hauvu,/
+uhu bhe chinrak shem tirma pral avoli chinva,/
+.tirma avoli nitar,/
+le achorya tirma ro drau brondu, nortu lampu,/
+.le pravul nyuru chambu./
+nimrona avoli bhe orsa, minrakhondra nuk./
+.kodri vi stanra ushta./
+kaldem achorya kodri gratuk, stanra gratona,/
+.le vi bhe nortu lampu./
+ehu orkhu avoli, le dvarna, le danur pral,/
+.le kotra vena ushta.
 
-anva sartu hiranyaritu bhe ve mukhva mon hauvu, vrel karmuna ro stalu trum,/
-.le ve ro karmuna nodra ro bhumri bhe orsa,/
-le sangra pa aisu shirka braku le agru domsa tral stanru,/
-.le jahu druk uvas lampu./
-grima jvelaka jvelak./
-.ve girkandru utrak chambu.
+uhu anva sartu orkhu ve mukhva mon hauvu,/
+.ve nodra ro bhumri trum,/
+shirka braku, vi pa stanru, kalduna domsa tral,/
+.jahu druk uvas lampu./
+anshe ro grima nyuru uhu jvelaka jvelak./
+.girkandru utrak chambu.
 
-ehu angala bhe, devri ro umbra pravun,/
+ehu angala bhe, mahajaya umbra pravun,/
 .danur groha tral vramu.
 :::
 
