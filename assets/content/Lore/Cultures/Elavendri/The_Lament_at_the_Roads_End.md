@@ -31,367 +31,367 @@ The poem is in common metre, rhymed ABCB.
 : The Lament at the Road's End {#lament}
 
 ::: {.verse form=nelthava lang=en work=lament}
-Come down, come to the road's foot./
-You who climbed for the fair./
-Cheese is sold and hides are sold./
-Lamps are burning down there.
+Come down, come down to the road's foot,/
+you that came up for the fair./
+The cheese is sold, the hides are sold,/
+the lamps are lit down there.
 
-This is the ore road's ending./
-It broke before completion./
-Look up where it turns to grass,/
-and the stones the king's people set.
+Here is the end of the ore-road/
+that broke before it was made./
+Look up it, where it goes to grass/
+and the stones the king's men laid.
 
-No cairn stands for the dead I sing./
-No house sings their roll./
-I sing here, where the road comes down./
-The road is all their mark.
+There is no cairn for the ones I sing,/
+and no house sings their line;/
+so I sing here, where the road comes down,/
+and the road is all the sign.
 
-Three years rain came wrongly in hills./
-Three years barley lay./
-Every year the silver went/
-east on [[place-valdun|Valdun]]'s road.
+Three years the rain came wrong in the hills,/
+three years the barley lay;/
+and every year the silver went/
+east on the Valdun way.
 
-The queen promised it at [[place-valdun|Valdun]]/
-with the legion in the hills./
-Our law, our roll, and silver paid./
-We owed that silver still.
+For the queen had sworn it at Valdun,/
+when the legion was in the hill:/
+our law, our line, and silver paid./
+And the silver was owing still.
 
-[Orethan]{.name data-type="affiliation/lineage" lang=elav}'s descent ended./
-The Circle chose a king./
-[Hóuradel]{.name data-type="being/npc"} of [Kírethel]{.name data-type="affiliation/lineage" lang=elav}./
-He could not pay the debt.
+The line of [Orethan]{.name data-type="affiliation/lineage" lang=elav} ran out,/
+and the Circle chose a king,/
+Hóuradel of [Kírethel]{.name data-type="affiliation/lineage" lang=elav},/
+who could not pay the thing.
 
-He looked toward mountains,/
-toward silver within stone./
-Gold and shining stones/
-that tribes had left untouched.
+He looked up at the mountains then,/
+at the silver in the stone,/
+and the gold, and the bright stones that the tribes/
+had always let alone.
 
-The crier spoke at [[place-beravel|Péravel]],/
-at [[place-valdun|Valdun]] and the fords./
-Silver in hand for a strong back./
-Bread and the king's own word.
+The crier cried at [[place-beravel|Péravel]],/
+at Valdun, at the fords:/
+"Silver in hand for a strong back,/
+and bread, and the king's own word."
 
-[Dalren]{.name data-type="being/npc"} came, the drover's son./
-His father's animals were dead./
-[Moren]{.name data-type="being/npc"} banked his [[place-valdun|Valdun]] forge./
-He sold his tongs for bread.
+Then Dalren came, the drover's son,/
+whose father's beasts were dead;/
+and Moren banked his Valdun forge/
+and sold his tongs for bread.
 
-[Naldor]{.name data-type="being/npc"} and [Tenral]{.name data-type="being/npc"} came, brothers,/
-down from charcoal hearths./
-[Orlen]{.name data-type="being/npc"} brought his mules./
-His last remaining worth.
+Naldor and Tenral, brothers, came/
+down from the charcoal hearth;/
+and Orlen brought his mules, the last/
+he had of all his worth.
 
-[Denrik]{.name data-type="being/npc"} came, owing more/
-than a drover's yearly pay./
-[Salten]{.name data-type="being/npc"} left the barges./
-They stood throughout the day.
+And Denrik came, for he owed more/
+than a drover's year could pay;/
+and Salten left the barges, when/
+the barges stood all day.
 
-[Halden]{.name data-type="being/npc"} kissed his wife and left,/
-giving her all he held./
-[Kelda]{.name data-type="being/npc"} went to bake their bread./
-She carried [Arvend]{.name data-type="being/npc"}, her son.
+And Halden kissed his wife and went,/
+and left her all he had;/
+and Kelda went to bake their bread,/
+and took Arvend, her lad.
 
-[Arvend]{.name data-type="being/npc"} was fourteen that spring./
-They paid him a man's wage./
-[Jeldor]{.name data-type="being/npc"} went to show the places,/
-setting rods and cords.
+Arvend was fourteen years that spring,/
+and a man's wage he was paid;/
+and Jeldor went to show them where,/
+with the rods and lines he laid.
 
-They went up beyond [[place-elanmere|Elanmere]],/
-beyond the ending farms./
-Through birch and past the tree line./
-Nobody turned back.
+They went up past Elanmere/
+and past where the farms give out,/
+up through the birch and past the line,/
+and none of them turned about.
 
-They burned no birch. [Jeldor]{.name data-type="being/npc"} knew that./
-The brothers with the craft/
-bore charcoal upon their backs/
-from hearths where they made it.
+They burned no birch. Jeldor knew that much./
+The brothers, that had the trade,/
+carried the charcoal up on their backs/
+from the hearths where it was made.
 
-Above trees stood the mountain,/
-gray to clouds and old./
-They cut first into white stone./
-They found silver and gold.
+Above the trees the mountain stood,/
+grey to the cloud, and old./
+They cut the first cut in the white stone,/
+and they found the silver, and gold.
 
-A Warden came upon the spoil./
-He looked and spoke./
-This is not yours. I say it once./
-Go down. He turned his head.
+Then a Warden came and stood on the spoil/
+and looked at them, and said,/
+"This is not yours. I say it once./
+Go down." And turned his head.
 
-[Jeldor]{.name data-type="being/npc"} said the king ordered digging./
-[Halden]{.name data-type="being/npc"} said they were paid./
-[Kelda]{.name data-type="being/npc"} watched the Warden's leaving./
-[Kelda]{.name data-type="being/npc"} held fear.
+And Jeldor said, "The king says dig."/
+And Halden said, "We're paid."/
+And Kelda looked where the Warden went,/
+and Kelda was afraid.
 
-Once. He spoke once./
-He did not return./
-Picks entered stone next day,/
-then the next, within rain.
+"I say it once." He said it once./
+He did not come again./
+The picks went in the stone next day,/
+and next, and in the rain.
 
-One season. That was all the time./
-One season, cut after cut./
-The mountain closed like a hand./
-It closed. It was shut.
+One season. That is all it took,/
+one season, cut by cut;/
+the mountain closed the way a hand/
+closes, and it was shut.
 
-Nobody came to name what closed it./
-A few came down, long dead now./
-They never told, sat by the lake/
-and turned their heads.
+What closed it, no one came to say./
+Some few came down. They're dead/
+long since, and never told, and sat/
+by the lake, and shook their head.
 
-Someone sealed the deepest cut/
-with more than stone. That is known./
-With what, those returning do not say./
-The Lodge keeps its own.
+The deepest cut was sealed with more/
+than stone. That much is known./
+With what, the ones who came down won't say,/
+and [[place-eshalshldg|the Lodge]] keeps its own.
 
-[Dalren]{.name data-type="being/npc"}, [Moren]{.name data-type="being/npc"}, [Naldor]{.name data-type="being/npc"}, [Tenral]{.name data-type="being/npc"}./
-[Orlen]{.name data-type="being/npc"}, [Denrik]{.name data-type="being/npc"}, [Salten]{.name data-type="being/npc"}./
-[Halden]{.name data-type="being/npc"}, [Kelda]{.name data-type="being/npc"}, [Arvend]{.name data-type="being/npc"}, [Jeldor]{.name data-type="being/npc"}./
-Not one came down again.
+Dalren, Moren, Naldor, Tenral,/
+Orlen, Denrik, Salten,/
+Halden, Kelda, Arvend, Jeldor:/
+none of them came down again.
 
-Then the guides returned home. No ford,/
-no pass, no path/
-could the king's people find with rods and cords./
-The mountain turned them around.
+And then the guides went home. No ford,/
+no pass, no trail was found/
+by the king's men with their rods and lines./
+The mountain turned them round.
 
-The king climbed unasked./
-He came down. The others,/
-called up by the crier's voice,/
-are up there today.
+The king went up, and no one asked,/
+and he came down. And they,/
+who were asked up by the crier's cry,/
+are up there to this day.
 
-He closed the cuts and swore the oath/
-again, upon [[place-eshalshldg|the Lodge]]'s word./
-The crown learned where its road ends./
-The diggers learned first.
+He closed the cuts. He swore the oath/
+again, on the Lodge's word./
+And the crown learned where its road gives out,/
+and the diggers learned it first.
 
-Tribes camp along the shore./
-They do not come to hear this feast./
-They closed the mountain once./
-They would close it again another year.
+The tribes are camped along the shore./
+They will not come to hear./
+They closed the mountain once. They'd close/
+it again, another year.
 
-Then the houses paid bards./
-Every great house./
-Prove descent ran up the hill/
-to old blood, father and son.
+And then the houses paid the bards,/
+the great houses, every one,/
+to prove their lines ran up the hill/
+to the old blood, sire and son.
 
-Bards traveled up and down the rolls./
-They proved them all./
-The rolls ran cleanly up the mountain,/
-around the cut, and onward.
+And the bards went up and down the lines/
+and proved them, every one,/
+and the lines ran up the mountain clean,/
+and round the cut, and on.
 
-[Dalren]{.name data-type="being/npc"} had no roll for proving./
-Nor [Kelda]{.name data-type="being/npc"}, nor her son./
-The road is their roll. It comes down here./
-It is short. It is complete.
+And Dalren had no line to prove,/
+nor Kelda, nor her son./
+The road's their line. It runs down here./
+It's short, and it is done.
 
-Eleven rowans stand at the road's foot,/
-a row along the shore./
-Mothers planted them, and wives,/
-for people who climbed before.
+At the road's foot eleven rowans stand/
+in a row along the shore./
+Their mothers set them, and their wives,/
+for the ones gone up before.
 
-[Halden]{.name data-type="being/npc"}'s wife climbed every year,/
-left a loaf upon the stone./
-She did not wait to see it taken./
-She went home alone.
+Halden's wife came up each year/
+and left a loaf on the stone,/
+and did not wait to see it gone,/
+and went back down alone.
 
-Someone leaves bread there still,/
-the fair's first night./
-Nobody sees the giver. Nobody asks./
-It is here.
+And someone leaves a loaf there yet,/
+the first night of the fair./
+Nobody sees who sets it down./
+Nobody asks. It's there.
 
-The coast sings thirteen. We sing here/
-eleven as we were taught./
-If you know more, sing them here./
-Someone keeps a name, or does not.
+The coast sings thirteen. Here we sing/
+eleven, as we were taught./
+If you know more, then sing them here./
+A name's kept, or it's not.
 
-[Dalren]{.name data-type="being/npc"}, [Moren]{.name data-type="being/npc"}, [Naldor]{.name data-type="being/npc"}, [Tenral]{.name data-type="being/npc"}./
-[Orlen]{.name data-type="being/npc"}, [Denrik]{.name data-type="being/npc"}, [Salten]{.name data-type="being/npc"}./
-[Halden]{.name data-type="being/npc"}, [Kelda]{.name data-type="being/npc"}, [Arvend]{.name data-type="being/npc"}, [Jeldor]{.name data-type="being/npc"}./
-Come down the road again.
+Dalren, Moren, Naldor, Tenral,/
+Orlen, Denrik, Salten,/
+Halden, Kelda, Arvend, Jeldor:/
+come down the road again.
 
-They do not come. The road comes down,/
-stops here beside the lake./
-Sing them before sleep./
-Sing them when you wake.
+They do not come. The road comes down/
+and stops here by the lake./
+Sing them before you go to sleep,/
+and sing them when you wake.
 :::
 
 ::: {.verse form=nelthava lang=elav enc=elavsemaronenc work=lament}
-Árnathen lourth. árnathen gierth al tírvale thoudron./
-Tose. árnathen griene gierth al kurnand rith al kirdis./
-Deisgethen al kárnis. deisgethen al lúmrisa./
-Théinathen al henthra lourth. árnathen al kurnis.
+Árnathen lourth gierth al thoudron,/
+tose, gierth kurnand árnathen‼/
+Deisgethen kárnis reik lurmon./
+Lourth goure henthra hárnathen.
 
-En ti al kérthon tírvale dyelon./
-Rákathen gene. nond háelathen tengar al úrkenon./
-Durnathen griene. térgathen gene gierna./
-Reik al kergis. légathen al auran kendonalon.
+Tis dúlkathen kérthon tírvale,/
+rákar thren gene thernon./
+Durnathen griene‼ Gierna, kergis/
+thíldathen tharan kérnon.
 
-Nond elnathen groumon gierth al óllevine. lyero munde./
-Nond lyero uk halthon al geinra sírnerne rith al kirdis./
-Gaernin lyero munde tis. árnathen al tírvale lourth./
-En al tírvale alnar al kernon. salkathen al kurnis.
+Nond groumon dárkathen geinra,/
+nond halthon geinra lyernon./
+Tis lyero munde. Al tírvale/
+en alnar al kernon.
 
-Ha kirdon árnathen al ravale andaernar rith al áuldalon./
-Ha kirdon górnathen al pirnon rith al kirdis./
-Ukal kirdon róugathen al ánhrason/
-Írvaloste greile al Valdun tírvale. en to al írvaloste.
+Ha kirdon ravale angeildar,/
+ha kirdon pirnon gelgarnar,/
+reik ukal kirdon, Valdun sénthron,/
+ánhrason írvaloste varnar.
 
-Nolgrathen al auranra gene rith Valdun./
-En al legyon rith al aulde rith al kirdis./
-Nusri vornon. nusri sírnerne. ánhrason rith déisnon./
-Mólthathen nyes al ánhrason tis.
+Nolgrathen auranra rith Valdun,/
+sendrel legyon rith aulde./
+«Vornon, kenrison, ánhrason.»/
+Ánhrason en taulde.
 
-Dúlkathen al Orethan kenrison./
-Dalgathen al Rontha uk auran rith al kirdon./
-Hóuradel threl Kírethel./
-Nond geindathen gene déisnathen al molthon.
+Dúlkathen Orethan. Al Rontha/
+náemathen, rith daeron,/
+Hóuradel, gene threl Kírethel,/
+nond geindathen déisnathen gaeron.
 
-Nóurethen gene griene gierth al sórvanda./
-Gierth al ánhrason rith al kergis. al gársalon./
-Al éltheson. al éllive kergis./
-Géilathen al kenralon geinra. nond gríethathen al kenron.
+Gonde nóurethen gene sórvanda,/
+al ánhrason doldar,/
+éltheson, kergis éllive,/
+threl kenralon nond góldar.
 
-Ryenathen al soldand rith Péravel./
-Rith Valdun. rith al thalgan. ryenathen soldar al kurnis./
-Ánhrason rith thraemis gierth uk geindar ránthemon./
-Reik tárneve reik al auran leithon. en to al laegnis.
+Ryenathen kénand rith Valdun,/
+Péravel, ruthon, galnis/
+«Tárneve, al auran leithon,/
+ánhrason gierth geindar thalnis‼»
 
-Árnathen Dalren. al gurnand helnor./
-En al daethar gurnon sélvorosa. mólthathen al kirdis./
-Géilathen Moren al Valdun dúrgala henda saldren./
-Deisgethen gene al gúrvel gierth tárneve rith al kurnis.
+Árnathen Dalren, gurnand helnor,/
+sélvorosa daethar gurnon,/
+súndathen Moren Valdun dúrgala,/
+tárneve gerth gúrvel, durnon.
 
-Árnathen Naldor reik Tenral. al ondren./
-Lourth threl al hendulon hendron./
-Thélkathen Orlen al muland./
-Al dyelar telgon. nond dárkathen gene derar gaeron.
+Árnathen Naldor reik Tenral,/
+lourth, al ondren henduland,/
+reik thélkathen Orlen alnar/
+gulnis, al dyelar muland.
 
-Árnathen Denrik. dárkathen gene al nézora geirin/
-Thinar uk gurnand kirdon déisnon./
-Róugathen Salten threl al lánthevron./
-Théndathen al lánthevron alnar al kieron.
+Árnathen Denrik, mólthathen geirin/
+thinar gurnand kirdon hernar,/
+reik ránathen Salten lánthevron,/
+ukal kieron nond gérnar.
 
-Méldathen Halden al thálmanda. róugathen gene./
-Láegathen gene alnar telgon gierth gene rith al kirdis./
-Róugathen Kelda gierth tárnathen al tárneve./
-Thélkathen gene Arvend. al helnor. rith al írvaloste.
+Méldathen Halden thálmanda,/
+róugathen, láegathen alnar./
+Róugathen Kelda, seis tárnathen,/
+góldathen gene Arvend, valnar.
 
-En Arvend 14 kirdon rith to kélvase kirgon./
-Déisnathen geinra gene uk tharan déisnon./
-Róugathen Jeldor gierth sélkathen al miron./
-Légathen gene al méthron reik al lordis.
+Arvend rith delnis, taehes reik ordur/
+kirdon, tharan déisnon thélkathen./
+Róugathen Jeldor lóthe méthron/
+reik lordis, seis sélkathen.
 
-Róugathen geinra griene gouthe Elanmere./
-Gouthe al mirlathon dyelon. gouthe al kenron./
-Griene greile al kálve reik gouthe al salverth./
-Nond térgathen uk gene gire rith ránelon. géilathen al mougon.
+Róugathen gouthe Elanmere,/
+gouthe ilmis, antherar,/
+greile kálve, salverth. Térgathen/
+lourth nond uk, nond derar.
 
-Nond hendathen geinra al kálve. Sárgathen Jeldor to./
-Al ondren. dárkathen al gársalon./
-Thélkathen geinra al hendulon griene gaele al ránthemon./
-Threl al hendron. gársathen geinra gene. rith al halthon.
+Sárgathen Jeldor. Nond hendathen/
+kendar uk pattel kálve./
+Thélkathen al ondren hendulon/
+griene, threl giethe salve.
 
-Gouthe al salve théndathen al sórvanda./
-Géstaren gierth al pelvai. mouglar rith al kirdon./
-Thárnathen geinra al treinen graethon rith halmon./
-Pínathen geinra ánhrason reik éltheson.
+Gouthe al salve, al sórvanda,/
+géstaren gierth pelvai, urnar./
+Rith halmon graethon treinen. Pínathen/
+ánhrason, éltheson gurnar.
 
-Árnathen uk darthand. théndathen gene gaele al rapalon./
-Nóurethen gene geinra. ryenathen gene al mougon./
-Nond en ti tosri. Ryenathen munde nal uk kirdin./
-Róugathen tose lourth. Térgathen gene al gouran.
+Árnathen darthand gaele rapalon,/
+véinathen, geinra nóurethen./
+Ryenathen «Nond tosri. Uk leithon./
+Róugathen lourth‼» Lóurethen.
 
-Ryenathen Jeldor. dróusathen al auran al kérathen./
-Ryenathen Halden. déisnathen geinra nyes rith al kirdis./
-Nóurethen Kelda al darthand róugathen miron./
-Dárkathen Kelda douris. en to al menris.
+Jeldor «Kérathen‼ Ryenathen auran.»/
+Halden «Déisnon en al gouris.»/
+Nóurethen Kelda gierth darthand,/
+dárkathen Kelda douris.
 
-Nal uk kirdin. Ryenathen gene nal uk kirdin./
-Nond árnathen gene grend gierth al gársalon./
-Róugathen al kéldron rith al kergis nal al dáelamen kieron./
-Reik al dáelamen. rith al ravale rith al kirdon.
+«Uk leithon.» Ryenathen gene uk./
+Nond árnathen gene grend./
+Róugathen kéldron rith kergis,/
+kieron reik ravale thend.
 
-Uk kirgon. En to alnar al kirdis./
-Uk kirgon. graethon gonde graethon rith al gársalon./
-Súndathen al sórvanda gaethe uk thraemis./
-Súndathen gene. en gene súndar. dúlkathen al mougon.
+En to alnar. Graethon, graethon,/
+tarnathen uk kirgon./
+Súndathen sórvanda gaethe/
+thraemis, súndar, uk nirgon.
 
-Nond árnathen kendar ryenathen gere súndathen gene./
-Árnathen kren lourth. en geinra sélvorosa greinde al mouglar kirdis./
-Nond ryenathen geinra. hóuthathen geinra rith al dulnon./
-Térgathen geinra al gouran. nond láegathen al menris.
+Gere súndathen? Nond ryenathen./
+Kren lourth, nal dulnon kerlis,/
+sélvorosa geinde, hóuthathen,/
+térgathen gouran, nonduk merlis.
 
-Súndathen kendar al geirin móllursa graethon/
-Rith geirin thinar kergis. En to al sargon./
-Rith gere. nond ryenathen geinra. árethathen geinra lourth./
-Géilathen al [Lodge]{lang=en} al telgon.
+Súndar graethon móllursa, sárgar,/
+gouthe kergis, uk grundis./
+Lóthe gere? Nond ryenathen kren lourth./
+Géilathen al halthon rundis.
 
-Dalren. Moren. Naldor. Tenral./
-Orlen. Denrik. Salten./
-Halden. Kelda. Arvend. Jeldor./
-Nond árnathen uk threl geinra lourth grend.
+Dalren, Moren, Naldor, Tenral,/
+Orlen, Denrik, Salten,/
+Halden, Kelda, Arvend, Jeldor,/
+nond árnathen uk dalten.
 
-Gonde árethathen al úldand gierth halthon. Nonduk thalgan./
-Nonduk gandurth. nonduk sénthron rith al kirdis./
-Nond pínathen al auran kendonalon rith méthron reik lordis./
-Térgathen al sórvanda geinra gournar. en to al menris.
+Róugathen úldand gierth halthon./
+Ruthon, sénthron nond pínathen/
+gierth auran méthron, lordis. Sórvanda/
+geinra dalten línathen.
 
-Róugathen al auran griene. nond kérnathen kendar gene./
-Árnathen gene lourth. Reik al derar kendonalon./
-Kérnathen al soldand geinra griene rith al rundis./
-En geinra griene tis kieron. géilathen al mougon.
+Róugathen auran, nond kérnar,/
+reik lourth árnathen, drengin./
+Geinra, kérnar griene threl kénand,/
+griene goure tengin.
 
-Súndathen gene al graethon. Nolgrathen gene al nolgra/
-Grend. rith al [Lodge]{lang=en} leithon./
-Gélnathen al kérnon al tírvale dyelon miron./
-Gélnathen al kérand gene nal treinen. dárkathen al gársalon.
+Súndathen graethon. Gaele leithon/
+halthon, grend nolgrathen kérnon./
+Treinen kérand, gonde auran,/
+sárgathen al thernon.
 
-En al kenralon rith al lirve óssengal./
-Nond árnathen geinra salkathen ti kurnis./
-Súndathen geinra al sórvanda nal uk kirdin./
-Súndathen geinra gene grend rith uk derar kirdis.
+Al kenralon gaele al lirve/
+nond salkathen uk mirdon./
+Uk kirdin súndathen sórvanda./
+Grend, uk derar kirdon.
 
-Gonde déisnathen al halthon al lyeronno./
-Al gaernar halthon. ukal rith al kirdon./
-Saenathen geinra al kenrison griene gierth al aulde./
-Gierth al mouglar ryedamis. daethar reik helnor threl al kenron.
+Déisnathen gorth halthon lyeronno,/
+ukal halthon gaethar,/
+seis saenathen kenrison griene/
+threl helnor gierth mouglar daethar.
 
-Róugathen al lyeronno griene reik lourth al sírnerne./
-Saenathen geinra geinra. alnar. rith al kirdon./
-Róugathen al sírnerne griene al sórvanda. thar./
-Gyethe al graethon. reik gouthe. rith al mougon.
+Róugathen lyeronno griene, lourth,/
+ukal kenrison saenar,/
+talar, griene al sórvanda,/
+krel al graethon, gouthe, laenar.
 
-Nond dárkathen Dalren uk sírnerne gierth saenathen./
-Nond Kelda. nond al helnor. rith al kirdis./
-En al tírvale al geinra sírnerne. Árnathen gene lourth tis./
-En gene kurnar. en gene tengar. en to al menris.
+Nond Dalren, nond Kelda, nond kenlon/
+saenathen gaethe gurnar./
+Al tírvale en geinra kenrison./
+Lourth tis. Dúlkathen kurnar.
 
-Théndathen 11 réinsalve rith al kérthon tírvale thoudron./
-Rith uk lanris greile al lirve. rith al kirdis./
-Sálnathen al ámmira geinra. reik al thálmanda./
-Gierth al kendonalon. róugathen griene mougre. rith al írvaloste.
+Tis, taehes reik uk réinsalve,/
+lanris, lirve sélgathen./
+Sálnathen ámmira, thálmanda,/
+kendar geinra gélgathen.
 
-Árnathen al Halden thálmanda griene ukal kirdon./
-Légathen gene uk tárnevine gaele al kergis gierth al úrkenon./
-Nond gaeldathen gene nóurethen góldathen kendar gene./
-Róugathen gene lourth ukar. gierth al halthon.
+Ukal kirdon Halden thálmanda/
+légathen tárneve alnar/
+gaele kergis. Nond gaeldathen,/
+róugathen lourth, nonduk valnar.
 
-Légathen kendar uk tárnevine goure geinde./
-Rith al kurnand treinen óssenda. rith al kirdis./
-Nond nóurethen kendar al laegand. Nond kérnathen kendar./
-En gene tis. géilathen al kurnis.
+Kendar légathen tárnevine/
+sendrel kurnand thréinathen./
+Nond nóurethen kendar gese./
+Nonduk kérnis. Véinathen.
 
-Lyero al lirve 13. Lyero nyes tis/
-11. gaethe sáuminathen nyes al mougon./
-Gyese sárgathen tose geirin. lyero geinra tis./
-Géilathen kendar al lenthon. gose nond. rith al kirdon.
+Lyero lirve taehes reik ha,/
+tis taehes reik uk, varnar./
+Gyese geirin, lyero‼ Al lenthon en/
+géilar gose gelgarnar.
 
-Dalren. Moren. Naldor. Tenral./
-Orlen. Denrik. Salten./
-Halden. Kelda. Arvend. Jeldor./
-Árnathen lourth al tírvale grend.
+Dalren, Moren, Naldor, Tenral,/
+Orlen, Denrik, Salten,/
+Halden, Kelda, Arvend, Jeldor,/
+árnathen lourth, dalten‼
 
-Nond árnathen geinra. Árnathen al tírvale lourth./
-Taldathen gene tis rith al dulnon rith al kirdis./
-Lyero geinra mougre tosri dursa./
-Lyero geinra gyese váknathen tose. géilathen al kurnis.
+Nond árnathen geinra. Tírvale/
+lourth tis, nal dulnon thernon./
+Lyero geinra thren dursa,/
+reik nal sírrelure, lyernon‼
 :::
 
 ## See Also

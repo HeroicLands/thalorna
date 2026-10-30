@@ -1545,6 +1545,11 @@ data:
       field: "The crown, the law and the University"
       gloss: "a prelate of the Order"
       source: {kind: borrowed, language: skill-vylarilng, form: holmarendos}
+    - form: Thórdimalon
+      class: n
+      field: "The crown, the law and the University"
+      gloss: "the Order; the Arcane Order, the Thordimalon"
+      source: {kind: borrowed, language: skill-vylarilng, form: thordimalon}
     - form: zúlethalon
       class: n
       field: "The crown, the law and the University"
@@ -5112,7 +5117,7 @@ data:
     - form: haltha
       class: n
       field: The hall and the guest
-      gloss: "household as the assembledhearers"
+      gloss: "household as the assembled hearers"
 
     - {form: saenar, class: adj, field: "Doing, going and being", gloss: "proved"}
 
@@ -5168,9 +5173,9 @@ data:
 
     - {form: pirnalhalthon, class: n, field: The bard and the word, gloss: "harp hall"}
 
-    - {form: Rontha, class: n, field: The bard and the word, gloss: "Circle, bardicbody"}
+    - {form: Rontha, class: n, field: The bard and the word, gloss: "Circle; a bardic body"}
 
-    - {form: Sáumirand, class: n, field: The bard and the word, gloss: "College, bardicbody"}
+    - {form: Sáumirand, class: n, field: The bard and the word, gloss: "College; a bardic body"}
 
     - {form: saenathen, class: v, field: "Doing, going and being", gloss: "prove a descent"}
 
@@ -5191,7 +5196,7 @@ data:
     - form: kendonend
       class: n
       field: The hall and the guest
-      gloss: "people beingfed, communalhearers"
+      gloss: "people being fed; communal hearers"
 
     - {form: malmar, class: adj, field: The hall and the guest, gloss: "fed"}
 
@@ -5221,7 +5226,7 @@ data:
     - form: Sálmendis
       class: n
       field: Craft, coin and the market
-      gloss: "Grove Council, individualinstitutionword"
+      gloss: "Grove Council; the name of that one institution"
 
     - {form: méilthande, class: n, field: "Craft, coin and the market", gloss: "hedge wife"}
 
@@ -5259,6 +5264,7 @@ data:
       class: pron
       field: Doing, going and being
       gloss: each; every; each member of the set taken individually
+      source: {kind: borrowed, language: skill-aelendlng, form: ukal}
       concept: [each, every]
     - {form: ansóldaris, class: adj, field: "Doing, going and being", gloss: "unheard"}
 
@@ -5321,7 +5327,7 @@ data:
     - form: thárnathen
       class: v
       field: Doing, going and being
-      gloss: "cut (distinctfromexistingtargathen must)"
+      gloss: "to cut; to make a cut in a thread, a stone or a name"
 
     - {form: sélgathen, class: v, field: "Doing, going and being", gloss: "follow"}
 
@@ -5444,7 +5450,7 @@ data:
     - form: drungailand
       class: n
       field: Craft, coin and the market
-      gloss: pony herdkeeper
+      gloss: "pony herd keeper"
       source: {kind: coined}
     - form: ránathen
       class: v
@@ -5492,7 +5498,7 @@ data:
     - form: menthar
       class: adj
       field: Colour and the look of things
-      gloss: [heavy; great in weight, heavy]
+      gloss: "heavy; great in weight"
       source: {kind: coined}
       concept: heavy
     - {form: lanris, class: n, field: The land in keeping, gloss: "row", source: {kind: coined}}
@@ -5550,7 +5556,7 @@ data:
     - form: tárnon
       class: n
       field: Craft, coin and the market
-      gloss: grain (actualgurnis=testiclekeptunchanged)
+      gloss: "grain; the seed of the cereal, ground for bread"
       source: {kind: coined}
     - form: nésorthis
       class: n
@@ -5610,7 +5616,7 @@ data:
     - form: ránelon
       class: n
       field: The land in keeping
-      gloss: "rear region; front/backusages useexistingrith+locationnoun, notnewcases/prepositions"
+      gloss: "rear region; the back of a place or a company"
       source: {kind: coined}
 
     - form: ríenar
@@ -5633,7 +5639,7 @@ data:
     - form: Kérnalon
       class: n
       field: The bard and the word
-      gloss: "the Asking, ritualactofasking"
+      gloss: "the Asking; the ritual act of asking"
       source: {kind: coined}
 
     - form: láethathen
@@ -5656,6 +5662,12 @@ data:
     - {form: ólken, class: n, field: The hall and the guest, gloss: "fox", source: {kind: coined}}
 
     - {form: pirnal, class: n, field: The bard and the word, gloss: "harp", source: {kind: coined}}
+
+    - form: pirnose
+      class: n
+      field: The bard and the word
+      gloss: "a harp string; one of the strung lines of a harp"
+      source: {kind: coined}
 
     - form: sárgar
       class: adj
@@ -5691,7 +5703,7 @@ data:
     - form: saenon
       class: n
       field: The hall and the guest
-      gloss: "proof ofdescent"
+      gloss: "proof of descent"
       source: {kind: coined}
 
     - form: Thílandand
@@ -5789,7 +5801,7 @@ data:
     - form: geindathar
       class: adj
       field: Colour and the look of things
-      gloss: able tobear orperform
+      gloss: "able to bear or perform"
       source: {kind: coined}
     - form: targonar
       class: adj
@@ -5806,7 +5818,7 @@ data:
     - form: delnon
       class: n
       field: The hall and the guest
-      gloss: "doorcatch"
+      gloss: "door catch"
       source: {kind: coined}
 
     - form: salverth
@@ -5836,7 +5848,7 @@ data:
     - form: giethon
       class: n
       field: The bard and the word
-      gloss: "foot orlowerpart ofapage"
+      gloss: "foot or lower part of a page"
       source: {kind: coined}
 
     - form: móuren
@@ -5848,7 +5860,7 @@ data:
     - form: thoudron
       class: n
       field: The land in keeping
-      gloss: "foot orbaseof a road"
+      gloss: "foot or base of a road"
       source: {kind: coined}
 
     - form: kárnis
@@ -5952,7 +5964,7 @@ data:
     - form: mirlathron
       class: n
       field: The wood and its weather
-      gloss: "plough/furrow, a ploughedline in soil"
+      gloss: "a furrow; a ploughed line in soil"
       source: {kind: coined}
 
     - form: sirláth
@@ -6163,6 +6175,271 @@ data:
       class: n
       field: Colour and the look of things
       gloss: colour; the visible hue of a thing
+      source: {kind: coined}
+    - form: véinathen
+      class: v
+      field: Doing, going and being
+      gloss: to stand; to remain standing where it was set, said of a tree, a stone or a bridge
+      source: {kind: coined}
+    - form: lóuvathen
+      class: v
+      field: Doing, going and being
+      gloss: to stay; to remain in the place one has come to
+      source: {kind: coined}
+    - form: lóthe
+      class: part
+      field: Numbers and grammar words
+      gloss: with; in the company of; precedes the person or thing that goes along
+      source: {kind: coined}
+    - form: rákar
+      class: adj
+      field: Doing, going and being
+      gloss: broken; parted by force, said of a thread or a cord
+      source: {kind: coined}
+    - form: lúrgar
+      class: adj
+      field: The wood and its weather
+      gloss: fallen; felled, said of a tree that lies where it came down
+      source: {kind: coined}
+    - form: láegar
+      class: adj
+      field: The hall and the guest
+      gloss: offered; set before a guest to be taken, said of food, a seat or an answer
+      source: {kind: coined}
+    - form: pírnesse
+      class: n
+      field: Craft, coin and the market
+      gloss: a spinning bee; the women's winter gathering to spin together and tell in turns
+      source: {kind: coined}
+    - form: kénand
+      class: n
+      field: The crown, the law and the University
+      gloss: a crier; one who calls a lord's word aloud at the fords and the fairs
+      source: {kind: coined}
+    - form: lyernon
+      class: n
+      field: "The bard and the word"
+      gloss: "a sung line; one line of a song, a lay or a recited lineage, as it is sung"
+      source: {kind: coined}
+    - form: dalten
+      class: adv
+      field: "Numbers and grammar words"
+      gloss: "homeward; back down to one's own valley and house"
+      source: {kind: coined}
+    - form: ruthon
+      class: n
+      field: "The wood and its weather"
+      gloss: "a ford; a shallow place where a river is crossed on foot"
+      source: {kind: coined}
+    - form: géiranda
+      class: n
+      field: "Craft, coin and the market"
+      gloss: "a loan; a thing lent for a term and owed back"
+      source: {kind: coined}
+    - form: valthon
+      class: n
+      field: "The Pact, the oath and the judgment"
+      gloss: "restitution; a giving back of what was taken to the one it was taken from"
+      source: {kind: coined}
+    - form: thernon
+      class: n
+      field: "The land in keeping"
+      gloss: "road's end; the point where a road stops and goes no farther"
+      source: {kind: coined}
+    - form: doldar
+      class: adj
+      field: "Mountain, water and stone"
+      gloss: "deep; lying far below the surface, as ore in rock or water in a tarn"
+      source: {kind: coined}
+    - form: taulde
+      class: n
+      field: "Craft, coin and the market"
+      gloss: "arrears; what is still owed after the term for paying it has passed"
+      source: {kind: coined}
+    - form: vernis
+      class: n
+      field: "Mountain, water and stone"
+      gloss: "a pass; a way over or through a range of mountains"
+      source: {kind: coined}
+    - form: valnar
+      class: n
+      field: "The house and the old blood"
+      gloss: "near kin; those of one's own blood, nearest in a house"
+      source: {kind: coined}
+    - form: haldren
+      class: n
+      field: "The bard and the word"
+      gloss: "a blank; the white left unwritten on a page"
+      source: {kind: coined}
+    - form: saethar
+      class: adj
+      field: "The house and the old blood"
+      gloss: "kin; seated as one of the blood, said of one a house takes in who was not born to it"
+      source: {kind: coined}
+    - form: léiranda
+      class: n
+      field: "The hall and the guest"
+      gloss: "the open; all the ground beyond a door, under the sky"
+      source: {kind: coined}
+    - form: velnon
+      class: n
+      field: "The Pact, the oath and the judgment"
+      gloss: "an arrangement; an understanding between two houses that neither has yet sealed"
+      source: {kind: coined}
+    - form: vendron
+      class: n
+      field: "The Pact, the oath and the judgment"
+      gloss: "a spoken oath; words sworn aloud and written nowhere"
+      source: {kind: coined}
+    - form: dielve
+      class: n
+      field: "Mountain, water and stone"
+      gloss: "a fold; a hollow where a valley bends in among its hills"
+      source: {kind: coined}
+    - form: mendon
+      class: n
+      field: "The hall and the guest"
+      gloss: "the hall-ring; the company seated about a hall's fire, each in a fixed place"
+      source: {kind: coined}
+    - form: liron
+      class: n
+      field: "The hall and the guest"
+      gloss: "a seat; a place on a hall's bench, given by right"
+      source: {kind: coined}
+    - form: varnar
+      class: adj
+      field: "The bard and the word"
+      gloss: "handed on; passed from one keeper to the next, as a song or a charge"
+      source: {kind: coined}
+    - form: gelgarnar
+      class: adj
+      field: "Doing, going and being"
+      gloss: "lost; gone out of keeping, as a name nobody sings"
+      source: {kind: coined}
+    - form: venri
+      class: adj
+      field: "The bard and the word"
+      gloss: "heedful; listening with the whole attention, as a student before the Master"
+      source: {kind: coined}
+    - form: vargar
+      class: adj
+      field: "Doing, going and being"
+      gloss: "tried; put to the test"
+      source: {kind: coined}
+    - form: telgenon
+      class: n
+      field: "The Pact, the oath and the judgment"
+      gloss: "the rightful party; the one a court finds holds the right"
+      source: {kind: coined}
+    - form: lurnis
+      class: n
+      field: Numbers and grammar words
+      gloss: "the least; the smallest part or amount that will serve"
+      source: {kind: coined}
+    - form: velkon
+      class: n
+      field: Arms and the border
+      gloss: "a cut; the mark a blade leaves in a thing or a name"
+      source: {kind: coined}
+    - form: venthon
+      class: n
+      field: "The Pact, the oath and the judgment"
+      gloss: "disgrace; shame sung or spoken on a house before others"
+      source: {kind: coined}
+    - form: léimathen
+      class: v
+      field: The bard and the word
+      gloss: "to know by heart; to hold a song in memory without writing it"
+      source: {kind: coined}
+    - form: melgan
+      class: n
+      field: "Craft, coin and the market"
+      gloss: "a cost; what a thing takes from the one who gives it"
+      source: {kind: coined}
+    - form: sóugathen
+      class: v
+      field: The body and the dead
+      gloss: "to keen; to sing the lament at a cairn"
+      source: {kind: coined}
+    - form: hárnathen
+      class: v
+      field: The hall and the guest
+      gloss: "to light a lamp"
+      source: {kind: coined}
+    - form: lóurethen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to turn away; to turn one's face from someone"
+      source: {kind: coined}
+    - form: nirgon
+      class: n
+      field: The body and the dead
+      gloss: "a fist; a closed hand"
+      source: {kind: coined}
+    - form: línathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to turn back; to send someone back the way he came"
+      source: {kind: coined}
+    - form: laenar
+      class: adj
+      field: "Doing, going and being"
+      gloss: "unbroken; running on without a gap, as a line or a thread"
+      source: {kind: coined}
+    - form: méinathen
+      class: v
+      field: The house and the old blood
+      gloss: "to bear a name; to be called by a name as one's own"
+      source: {kind: coined}
+    - form: dargar
+      class: adj
+      field: Arms and the border
+      gloss: "unstrung; slack, said of a bow or a harp"
+      source: {kind: coined}
+    - form: lénathen
+      class: v
+      field: The hall and the guest
+      gloss: "to come when called; to answer a summons in person"
+      source: {kind: coined}
+    - form: dóuvathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to keep to a path; to go on along a way without leaving it"
+      source: {kind: coined}
+    - form: délgathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to go with; to accompany someone"
+      source: {kind: coined}
+    - form: líethathen
+      class: v
+      field: The bard and the word
+      gloss: "to recount; to tell what happened, long after"
+      source: {kind: coined}
+    - form: vérgathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to appear; to come into sight"
+      source: {kind: coined}
+    - form: tóugathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to lure; to draw someone on after oneself"
+      source: {kind: coined}
+    - form: dúrgathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to vanish; to go out of sight"
+      source: {kind: coined}
+    - form: márnathen
+      class: v
+      field: The land in keeping
+      gloss: "to walk a bound; to tread a boundary to fix it"
+      source: {kind: coined}
+    - form: seivar
+      class: adj
+      field: The bard and the word
+      gloss: "unchanged; kept as it was received, said of a song or a word"
       source: {kind: coined}
   icon: icon-speaking
   templatePriority: null

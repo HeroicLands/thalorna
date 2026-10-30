@@ -31,399 +31,503 @@ The verses are in iambic tetrameter, rhymed in couplets.
 : The Door {#door}
 
 ::: {.verse form=saunarine lang=en work=door}
-[The Master]{.speaker} Who asks us to listen?/
-I have kept the songs and come with their recital./
-I ask, sitting outside the house./
-[The Master]{.speaker} Come inside.
+[The Master:]{.speaker} Who asks to be heard?
+
+One who has held the songs, and comes/
+to ask, and sits outside the rooms.
+
+[The Master:]{.speaker} Come in.
 :::
 
 ::: {.verse form=saunarine lang=elav enc=elavsemaronenc work=door}
-[Al Geithand]{.speaker} Kérnathen gese. salkathen nyes gene./
-Géilathen munde al ólnare. árnathen munde al mougon./
-Kérnathen munde. hóuthathen munde gounel al halthon./
-[Al Geithand]{.speaker} Árnathen tose rith.
+[Al Geithand.]{.speaker} Gese kernathen seis salkathen nyes gene?
+
+Kendar, ólnare géilar rith thalnis,/
+kernathen, hóuthathen gounel halnis.
+
+[Al Geithand.]{.speaker} Róugathen tose rith‼
 :::
 
 : The Room of the Oldest Song {#oldest}
 
 ::: {.verse form=saunarine lang=en work=oldest}
-[The Master]{.speaker} What is the oldest song?/
-The oldest song is [[lore-theasking|the Asking]], the high descent./
-They came across snow and chose outside the house./
-They sat outside wood, asking courtesy./
-They waited for invitation; that is its work./
-It sets the courtesy of your sitting through time./
-How you ask and keep your asking./
-[The Master]{.speaker}/
-Sing the recital as it was given./
-A repaired song is new; someone holds it./
-Sing a line wrongly and it keeps the wrong./
-The fox eats from that song too.
+[The Master:]{.speaker} What is the oldest song?
+
+The oldest song is [[lore-theasking|the Asking]]: those/
+who came over the snow, and chose/
+to sit outside the wood, and ask,/
+and wait to be called in. The task/
+it sets is manners: how you sit,/
+and how you ask, and keep to it.
+
+[The Master:]{.speaker}/
+Sing it as it was given you./
+A mended song is someone's new.
+
+A line sung wrong is kept sung wrong./
+The fox still eats out of that song.
 :::
 
 ::: {.verse form=saunarine lang=elav enc=elavsemaronenc work=oldest}
-[Al Geithand]{.speaker} En al geirin mouglar ólnare gere./
-En al mouglar ólnare al Kérnalon. al gorth kenron./
-Árnathen geinra geth neilis. dalgathen gounel halthon./
-Hóuthathen geinra gounel al lonke. kérnathen al laegnis./
-Gaeldathen geinra gierth láethathen. en to al gársalon./
-Géithathen gene al laegnis. hóuthathen tose rith al kirdis./
-Kérnathen tose. géilathen tose al kérnis./
-[Al Geithand]{.speaker}/
-Lyero tose gaethe láegathen kendar al mougon./
-En al shéirthar ólnare néivar. dárkathen kendar gene rith halthon./
-Gyese lyero tose uk lanris andaernar. géilathen gene al angeildar kirdis./
-Málmathen al ólken threl to ólnare reik. en to al kérnis.
+[Al Geithand.]{.speaker} Gere en al geirin mouglar ólnare?
+
+Al Kérnalon, ólnare al kérnis./
+Árnathen geth neilis, greile vernis,/
+hóuthathen gounel lonke, kernathen tendar,/
+gaeldathen tend rith kénathen kendar./
+Sáuminathen laegnar daeron, grienar,/
+geisin hóuthathen, kernathen, ríenar.
+
+[Al Geithand.]{.speaker}/
+Lyero gene gaethe láegar, seivar‼/
+Kendar telgathen. Shéirthar en néivar.
+
+Lyernon angeildar, shéirthar nengin./
+Threl to málmathen al ólken tengin.
 :::
 
 : The Room of the Harp {#harp}
 
 ::: {.verse form=saunarine lang=en work=harp}
-[The Master]{.speaker} What is the harp's purpose?/
-The harp keeps known recital still./
-The voice goes alone within the unknown house./
-If it loses itself there, it finds the hand./
-The hand keeps truth; the voice returns./
-[The Master]{.speaker}/
-Tune within the house where you sing the feast./
-The road has changed the second harp string./
-If a harp is untuned, it tells the house./
-The secret you kept within the recital is out.
+[The Master:]{.speaker} What is the harp for?
+
+The harp holds still the thing that's known/
+so that the voice can go alone/
+into the thing that isn't, and,/
+when it is lost there, find the hand.
+
+[The Master:]{.speaker}/
+Tune in the hall where you will sing./
+The road has changed the second string.
+
+A harp that's out of tune will tell/
+the hall the thing you hid so well.
 :::
 
 ::: {.verse form=saunarine lang=elav enc=elavsemaronenc work=harp}
-[Al Geithand]{.speaker} En al pirnal deirnis gere./
-Géilathen al pirnal saldren al sárgar mougon./
-Róugathen al rundis uk rith al ansárgar halthon./
-Gyese gélgathen gene gire goure. pínathen gene al thraemis./
-Géilathen al thraemis al tenar. árnathen al rundis./
-[Al Geithand]{.speaker}/
-Ríelathen tose rith al halthon. lyero tose al kurnis./
-Térgathen al tírvale al dáelamen pirnal lordis./
-Gyese en al pirnal anríelar. ryenathen gene gierth al halthon./
-En al thalkon gounel. géilathen tose gene rith al mougon.
+[Al Geithand.]{.speaker} Gere deirnis dárkathen al pirnal?
+
+Géilathen sárgar giethe lundis,/
+seis róugathen ukar al rundis/
+gierth ansárgar, gire gélgathen,/
+reik gene al thraemis sélgathen.
+
+[Al Geithand.]{.speaker}/
+Ríelathen rith halthon lyero tose‼/
+Tergathen sénthron dáelamen pirnose.
+
+Pirnal anríelar ryenathen gierth halnis/
+gere thalkathen tose rith thalnis.
 :::
 
 : The Room of the Word {#word}
 
 ::: {.verse form=saunarine lang=en work=word}
-[The Master]{.speaker} Why must a thing be spoken well?/
-Because more than one speaks the word./
-The third takes the plain word; another's recital now./
-The well made word endures and returns to the feast./
-You hear it as first; time has not changed it./
-[The Master]{.speaker}/
-Speak well and someone believes once./
-They speak it again, again, through time./
-Speak badly and it is true within the room./
-You leave; belief ends./
-The court forgets who had the right./
-It remembers the night's speech./
-Speak toward the house's lower end./
-The upper end hears even there./
-&#91;[The coast:]{.direction} The upper end already listened.&#93;
+[The Master:]{.speaker} Why must a thing be said well?
+
+Because it's said by more than one./
+The plain word, when the third has done/
+with it, is someone else's word./
+The well-made one comes back as heard.
+
+[The Master:]{.speaker}/
+Said well, it's believed once, and then/
+it's said again, and said again.
+
+Said badly, it is true while you/
+are in the room, and then it's through.
+
+The court forgets who had the right,/
+and not how it was said that night.
+
+Speak to the bottom of the hall./
+The top will hear it, after all./
+&#91;[The coast:]{.direction} The top was listening after all.&#93;
 :::
 
 ::: {.verse form=saunarine lang=elav enc=elavsemaronenc work=word}
-[Al Geithand]{.speaker} Gere gouris targathen ryenathen al gaeron geildar./
-Gaernen ryenathen geirin thinar uk al leithon./
-Góldathen al háerinen al talar. en gene derar mougon./
-En al geildar gársar leithon tenthar. árnathen gene grend al kurnis./
-Salkathen tose gene gaethe al treinen. nond térgathen al kirdis./
-[Al Geithand]{.speaker}/
-Gyese ryenathen tose geildar. dárkathen kendar sarnis nal uk kirdin./
-Ryenathen gene grend. reik grend. rith al lárgar kirdin./
-Gyese ryenathen tose angeildar. en to tenar rith al halnis./
-Róugathen tose gourthe. dúlkathen al sarnis./
-Anmougathen al arlathon al telgonalon./
-Mougathen gene al óssenda ryenon./
-Ryenathen tose gierth al halthon lourth./
-Salkathen al gorth mirdon. geiri goure./
-[Rith al lirve.]{.direction} Salkathen al gorth mirdon geinde.
+[Al Geithand.]{.speaker} Gere gouris targathen nyes ryenathen uk gaeron geildar?
+
+Gaernen nond uk ryenathen, sendar,/
+al talar leithon, dren ha, ankendar./
+Al leithon geildar gársar, grienar,/
+árethathen gierth kendar ríenar.
+
+[Al Geithand.]{.speaker}/
+Ryenathen geildar, nonduk tharnis,/
+reik grend, reik grend, gonde sarnis.
+
+Marlar angeildar, tenar uk kirlis/
+rith halnis. Gonde, rith mirlis.
+
+Anmougathen arlathon al telgenon,/
+nond geisin to óssenda en al ryenon.
+
+Ryenathen gierth giethar kendon‼/
+Salkathen reik al gorth rith mendon./
+[Rith al lirve.]{.direction} Geinde salkathen al gorth rith mendon.
 :::
 
 : The Room of the Line {#line}
 
 ::: {.verse form=saunarine lang=en work=line}
-[The Master]{.speaker} What proves descent?/
-A roll within the mouth, from name to name./
-Up to the hill, the same recital./
-We sing it where the other people sit./
-They could sing differently; the house hears./
-[The Master]{.speaker} If it is not true?/
-Then we keep it, keep it courteously./
-Time gives it place; the feast does not ask./
-The house does not ask, neither does our kin./
-That is courtesy too; the recital endures./
-[The Master]{.speaker}/
-Sing proof to friends: a feast./
-Sing it at the fair: proof in its time./
-Where the roll crosses from tongue to tongue,/
-the harp is louder. Keep your mouth; hear the recital./
-&#91;[The coast:]{.direction} The harp is louder; listen long.&#93;/
-Courtesy kept long turns into blood./
-Nobody asks its first place./
-The Archivist keeps every house's proof./
-And its payment, under one roof.
+[The Master:]{.speaker} What is a proof of descent?
+
+A line kept in the mouth from name/
+to name, up to the hill, the same/
+each time it's sung; and sung where those/
+who'd sing it otherwise sit close.
+
+[The Master:]{.speaker} And if it is not true?
+
+Then it is kept, and kept with grace,/
+and time has given it a place,/
+and the hall does not ask, and we/
+do not. That too is courtesy.
+
+[The Master:]{.speaker}/
+Sung to your friends, a proof's a feast./
+Sung at the fair, it's proved, at least.
+
+Where a line goes from tongue to tongue,/
+the harp is loudest. Hold your tongue./
+&#91;[The coast:]{.direction} the harp is loudest. Listen long.&#93;
+
+Grace kept long enough is blood./
+Nobody asks where it first stood.
+
+The Archivist keeps each house's proof,/
+and what it paid, under one roof.
 :::
 
 ::: {.verse form=saunarine lang=elav enc=elavsemaronenc work=line}
-[Al Geithand]{.speaker} En al kenrison saenon gere./
-Uk sírnerne rith al gaema. threl lenthon gierth lenthon./
-Griene gierth al aulde. ríenar rith al mougon./
-Lyero nyes gene rith al miron. hóuthathen al derar kendon./
-Geindathen geinra lyero derar. salkathen al halthon./
-[Al Geithand]{.speaker} Gyese nond en gene tenar. Eldathen gere./
-Gonde géilathen nyes gene. géilathen rith al laegnis./
-Láegathen al kirdis uk miron. nond kérnathen al kurnis./
-Nond kérnathen al halthon. nond kérnathen nyes al kenron./
-En to al laegnis reik. tenthar al mougon./
-[Al Geithand]{.speaker}/
-Lyero al saenon gierth ánseve. en gene uk kurnis./
-Lyero gene rith al kurnand. en gene saenar rith al kirdis./
-Gyese róugathen al sírnerne threl óstila gierth óstila rith al úrkenon./
-En al pirnal geirin soldar. géilathen al gaema. salkathen al mougon./
-[Rith al lirve.]{.direction} En al pirnal geirin soldar. salkathen lárgar kirdis./
-Térgathen al lárgar géilar laegnis ryedamis./
-Nond kérnathen kendar al treinen miron gierth gene kirdis./
-Géilathen al Thílandand ukal halthon saenon./
-Reik al déisnon. rith uk heldon.
+[Al Geithand.]{.speaker} Gere en uk saenon?
+
+Sírnerne géilar rith gaema, lenthon/
+dren lenthon gierth aulde, ríenar menthon,/
+lyero ukal kirdin thes kendar «Rulnis.»/
+Hóuthathen gene rith rindulnis.
+
+[Al Geithand.]{.speaker} Reik gyese nond en gene tenar?
+
+Géilathen nyes gene, lóthe mirdis,/
+reik miron láegathen al kirdis,/
+reik nond kernathen halthon gaeron./
+Nond nyes. En to laegnar daeron.
+
+[Al Geithand.]{.speaker}/
+Gierth ánseve, saenon ternathen kurnis./
+Nal kurnand saenar en gene, rith lurnis.
+
+Rith miron gaema gierth gaema sárgar,/
+soldar pirnal. Gaema súndar, lárgar‼/
+[Rith al lirve.]{.direction} soldar pirnal. Salkathen lárgar‼
+
+Laegnar géilar lárgar, ryedamis véinathen./
+Gese kernathen gere thréinathen?
+
+Géilathen Thílandand saenon rith thalnis,/
+ukal halthon, déisnon, rith uk halnis.
 :::
 
 : The Room of the Blade {#blade}
 
 ::: {.verse form=saunarine lang=en work=blade}
-[The Master]{.speaker} What is satire?/
-A blade the law names blade./
-It cuts a name; the cut enters the old descent./
-It goes down to every heir through time./
-It does not heal. It stays here./
-[The Master]{.speaker}/
-Draw once. Twice in a year,/
-you are a scold. The law does not hear./
-Cut the deed, not the face at the feast./
-The face has children here./
-Before singing a house to shame,/
-know all its roll. You cut a name./
-Satire is a weapon; its hand is known./
-Name your work; the judgment is yours.
+[The Master:]{.speaker} What is a satire?
+
+A blade the law has called a blade./
+It cuts a name. The cut, once made,/
+goes down the line to every heir/
+and does not heal. It's always there.
+
+[The Master:]{.speaker}/
+Draw it once. Who draws it twice a year/
+is a scold, and the law won't hear.
+
+Cut at the deed and not the face./
+The face has children in this place.
+
+Before you sing a house to shame,/
+learn its whole line. You'll cut the name.
+
+A satire's a weapon, and it's known/
+whose hand was on it. Sign your own.
 :::
 
 ::: {.verse form=saunarine lang=elav enc=elavsemaronenc work=blade}
-[Al Geithand]{.speaker} En al gurmougon gere./
-Uk delkon. náemathen al vornon gene delkon./
-Thárnathen gene al lenthon. en al graethon rith al úrkenon./
-Róugathen gene lourth gierth ukal nyerendar rith al kirdis./
-Nond sáernathen gene. en gene tis./
-[Al Geithand]{.speaker}/
-Thílathen gene nal uk kirdin. Gyese nal ta kirdin rith uk kirdon./
-En tose uk soldand. nond salkathen al vornon./
-Thárnathen al gársalon. nond al gélmira rith al kurnis./
-Dárkathen al gélmira kenlon tis./
-Gyese lyero tose uk halthon gierth gaeldis rith al mougon./
-Sárgathen alnar al sírnerne. thárnathen tose al lenthon./
-En al gurmougon uk greilmon. sárgathen kendar al thraemis./
-Náemathen tose tosri gársalon. en gene tosri thargnis.
+[Al Geithand.]{.speaker} Gere en uk gurmougon?
+
+Delkon vórnalon lenthathen delkon./
+Thárnathen lenthon uk kirdin. Al velkon/
+lourth gierth ukal nyerendar, nond sáernathen,/
+algin, gaethe ruskon, láernathen.
+
+[Al Geithand.]{.speaker}/
+Uk kirdin thílathen‼ Nal ta rith kirdon,/
+soldand. Salkathen vórnalon nonduk mirdon.
+
+Thárnathen gársalon, nond kendar‼/
+Tis dárkathen gélmira nyerendar.
+
+Sarnathen, thren lyero gierth halthon venthon,/
+alnar kenrison‼ Thárnathen lenthon.
+
+Uk gurmougon en greilmon rith halnis./
+Náemathen gire‼ Sárgar geisri thalnis.
 :::
 
 : The Room of the Art {#art}
 
 ::: {.verse form=saunarine lang=en work=art}
-[The Master]{.speaker} What is the art?/
-We ask the art; the house is shown nothing./
-We do it as courtesy within the recital./
-Exact, for its intended person, in its time./
-Quiet, then nothing else; that is its work./
-[The Master]{.speaker}/
-Displayed power is coarse among people./
-Exact requested power is praised within recital./
-At table, when they speak of art,/
-follow well. You need not begin speaking./
-[[affiliation-ordoarcanis|The Order]] writes it. We sing the recital./
-Ask which forgets the thing./
-If an old being of the wood is near,/
-your art is little. Be little; listen.
+[The Master:]{.speaker} What is the art?
+
+The art is asked for, not displayed./
+It's done the way a courtesy's made:/
+exact, and to the one it's for,/
+and quiet, and then nothing more.
+
+[The Master:]{.speaker}/
+Power shown is vulgar. Power laid/
+exactly where it's asked is praised.
+
+At table, when they talk of the art,/
+follow it well. You need not start.
+
+[[affiliation-ordoarcanis|The Order]] writes it down. We sing./
+Ask which of us forgets the thing.
+
+When an old one of the wood is near,/
+your art is small. Be small, and hear.
 :::
 
 ::: {.verse form=saunarine lang=elav enc=elavsemaronenc work=art}
-[Al Geithand]{.speaker} En al simme gere./
-Kérnathen nyes al simme. nond nóurethen al halthon./
-Gársathen nyes gene gaethe laegnis rith al mougon./
-Thénnar. gierth al gene deirnar elthon. rith al kirdis./
-Saldren. gonde nonduk derar. en to al gársalon./
-[Al Geithand]{.speaker}/
-En al nóurar geindalon herdar rith al kentalon./
-En al thénnar kérnar geindalon hanar rith al mougon./
-Rith al mórvalis. gyese ryenathen geinra al simme rith al kurnis./
-Sélgathen tose gene geildar. Nond targathen tose thréinathen al leithonis./
-Séimathen al [Ordo Arcanis]{lang=en} gene. Lyero nyes al mougon./
-Kérnathen tose. anmougathen gise al gaeron./
-Gyese en uk mouglar elthon threl al lonke rith al rindulnis./
-En tosri simme lunnar. Óunathen tose lunnar. salkathen al kirdis.
+[Al Geithand.]{.speaker} Gere en al simme?
+
+Nond nóurar, al simme en kérnar./
+Gársar gaethe laegnar, gérnar,/
+thénnar, gierth uk, nond gierth gurnar,/
+lóthe saldren. Gonde nonduk. Kurnar.
+
+[Al Geithand.]{.speaker}/
+Geindalon nóurar en giethar./
+Thénnar nal kérnar, hanar, riethar.
+
+Nal mórvalis, gyese simme en ryenon,/
+sélgathen geildar‼ Nond tosri al threnon.
+
+Lyero nyes. Thórdimalon séimathen./
+Kernathen‼ Gise nyes nond léimathen?
+
+Nal uk mouglar lonke elthon kenri,/
+lunnar tosri simme. En lunnar, venri‼
 :::
 
 : The Room of the Guest {#guest}
 
 ::: {.verse form=saunarine lang=en work=guest}
-[The Master]{.speaker} Who is the guest who takes?/
-He sits by guest right and leaves the house./
-He takes what he most desires and names it study./
-Seat him. Feed him well./
-Do not show him what you need./
-[The Master]{.speaker}/
-Do not dispute guest right./
-Do not dispute the plain fact of a closed door./
-Courtesy to the Order costs you nothing./
-Afterward count the loss from the house./
-The crown's guides are excellent; they show knowledge./
-What the guest can bear to hold within recital./
-&#91;[The coast:]{.direction} What the crown can bear to give him to know.&#93;
+[The Master:]{.speaker} Who is the guest who takes?
+
+The one who sits by right of guest/
+and leaves with what he liked the best,/
+and calls it study. Seat him. Feed/
+him well. Show him nothing you need.
+
+[The Master:]{.speaker}/
+Guest-right is never argued. Nor/
+is the plain fact of a shut door.
+
+Courtesy to the Order costs/
+nothing. Count, after, what was lost.
+
+The crown's guides are excellent. They show/
+the guest all he can bear to know./
+&#91;[The coast:]{.direction} all that the crown can bear him to know.&#93;
 :::
 
 ::: {.verse form=saunarine lang=elav enc=elavsemaronenc work=guest}
-[Al Geithand]{.speaker} En al laegkon. góldathen gene. gese./
-Hóuthathen gene rith al háelalon. róugathen gounel al halthon./
-Góldathen gene al geirin ilnar gaeron. náemathen gene gélnon./
-Máldathen tose gene. gírathen tose gene rith al tamris./
-Nond sélkathen tose gene al gaeron. targathen tose rith al kirdis./
-[Al Geithand]{.speaker}/
-Nond ágrathen tose al háelalon./
-Nond ágrathen tose al súndar ganda tenar gaeron./
-Nond deisathen al [Ordo Arcanis]{lang=en} laegnis tosri gaeron./
-Gonde deilnathen al gélgan. en gene threl al halthon./
-En al kérnon úldand gaeri geildar. sélkathen geinra al sargon./
-Al geindathar. dárkathen al laegkon al sáunarine gierth al mougon./
-[Rith al lirve.]{.direction} Al geindathar. dárkathen al kérnon láegathen gene al sargon.
+[Al Geithand.]{.speaker} Gese en al laegkon góldathen?
+
+Hóuthathen rith háelalon, gouthe delnon,/
+lóthe geirin geildar, ryenathen gélnon./
+Gírathen geildar, máldathen rith árnar‼/
+Nonduk sélkathen gene tosri tarnar‼
+
+[Al Geithand.]{.speaker}/
+Háelalon nengin ráethathen drenar,/
+nond súndar ganda, talar, tenar.
+
+Laegnar gierth al Thórdimalon, nonduk melgan./
+Dren, deilnathen tose al gélgan‼
+
+Al úldand al kérnon, geildar, tenthar,/
+sélkathen laegkon alnar nond menthar./
+[Rith al lirve.]{.direction} alnar gierth kérnon nond menthar.
 :::
 
 : The Room of the Open Question {#open}
 
 ::: {.verse form=saunarine lang=en work=open}
-[The Master]{.speaker} When is a question closed?/
-When both paths are sung through long time,/
-one path proves the song; that is its work./
-Not before, not through you./
-Meaning arrives when the recital is due./
-[The Master]{.speaker}/
-Name no day. Keep the thing./
-A named day lies beyond your hand./
-An utterance is an honor debt not yet due./
-Take it early and it is untrue at the feast./
-Set the arrangement on the latch./
-Let the other house close the door's catch./
-A plain answer to an open question/
-is the coarsest word a guest brings here.
+[The Master:]{.speaker} When is a question closed?
+
+When it's been sung both ways so long/
+that one of them has proved the song;/
+and not before, and not by you./
+What a thing meant comes when it's due.
+
+[The Master:]{.speaker}/
+Name no day. Leave the thing to stand./
+A day once named is out of hand.
+
+An utterance is a debt not due./
+Collect it early, it's not true.
+
+Leave the arrangement on the latch./
+Let the other house close the catch.
+
+The plain answer to an open thing/
+is the rudest word a guest can bring.
 :::
 
 ::: {.verse form=saunarine lang=elav enc=elavsemaronenc work=open}
-[Al Geithand]{.speaker} Nal gere kirdis en uk kérnis súndar./
-Gyese lyero geinra reik sénthron reik derar sénthron rith al lárgar kirdis./
-Saenathen uk sénthron al ólnare. en to al gársalon./
-Nond mougre. nond threl tose rith al kirdon./
-Árnathen al menris nal al targonar mougon./
-[Al Geithand]{.speaker}/
-Nond náemathen tose uk kieron. Géilathen al gaeron./
-Gyese náemathen gene. en al kieron gouthe tosri thraemis./
-En uk leveson uk nond geinde molthon rith al kirdis./
-Gyese góldathen tose gene móuren. nond en gene tenar rith al kurnis./
-Légathen al geirdnol gaele al súndel./
-Gaelgethen al derar halthon súndathen al ganda gierth al delnon./
-En al talar sáunarine gierth uk órnar kérnis/
-Al geirin herdar leithon. thélkathen uk laegkon tis.
+[Al Geithand.]{.speaker} Gere kirdis en uk kérnis súndar?
+
+Gyese lyero thend, gurnar kirdon,/
+tend al ólnare saenar threl uk mirdon./
+Nond geinde. Nond tose sárnathen./
+Al menris nal kirdis árnathen.
+
+[Al Geithand.]{.speaker}/
+Nond náemathen kieron‼ Gaeron véinathen‼/
+Náemathen kieron? Goulnar théinathen.
+
+Leveson en nézora nond threnar./
+Góldathen geinde? Nond tenar.
+
+Gaele súndel lóuvathen velnon‼/
+Súndathen derar halthon al delnon.
+
+Gierth órnar kérnis talar sélkathen,/
+geirin angeildar laegkon thélkathen.
 :::
 
 : The Room of the Tree Line {#treeline}
 
 ::: {.verse form=saunarine lang=en work=treeline}
-[The Master]{.speaker} Where does the crown stop?/
-At the tree line. The first king spoke at [[lore-tenaspr|the Hearth]]./
-No writing; he spoke the recital./
-Where your keeping begins, my road ends./
-We keep it; we owe it still./
-[The Master]{.speaker}/
-Going up, leave the harp below the gathering./
-They have their harp; it is no display./
-Sing a song beyond the tree line at the feast/
-as it came down, in the same tongue./
-Every crown tests the tree line, seeking its stop./
-It stops. Leave it; keep the recital.
+[The Master:]{.speaker} Where does the crown stop?
+
+At the tree line. The first king said/
+it at [[lore-tenaspr|the Hearth]], and nothing read:/
+"Where your keeping starts, my road/
+will end." It's kept. It is still owed.
+
+[The Master:]{.speaker}/
+When you go up, leave the harp below./
+They have their own, and not for show.
+
+A song from over the line is sung/
+as it came down, in its own tongue.
+
+Each crown has tried the line to see/
+just where it stops. It stops. Let be.
 :::
 
 ::: {.verse form=saunarine lang=elav enc=elavsemaronenc work=treeline}
-[Al Geithand]{.speaker} Rith gere miron taldathen al kérnon./
-Rith al salverth. Ryenathen al treinen auran gene rith al Hendron./
-Nonduk séimon. ryenathen gene al mougon./
-Rith al treinen géilalon threl tose. dúlkathen mundri tírvale gierth al kirdis./
-Géilathen nyes gene. mólthathen nyes gene tis./
-[Al Geithand]{.speaker}/
-Gyese róugathen tose griene. légathen al pirnal giethe al kentalon./
-Dárkathen geinra al pirnal. nond gierth al nóurethen rith al mougon./
-Lyero al ólnare threl gouthe al salverth rith al kurnis./
-Gaethe árnathen gene lourth. rith al ríenar óstila gierth al kirdis./
-Geirnathen ukal kérnon al salverth. gierth nóurethen al táldon./
-Taldathen gene. Gaelgethen gene gire. géilathen al mougon.
+[Al Geithand.]{.speaker} Gere miron dúlkathen al kérnon?
+
+Nal salverth. Auran treinen, nal Hendron,/
+ryenathen, nond lesathen, uk vendron/
+«Rith miron thréinathen tosri géilalon, dúlkathen mundri tírvale.»/
+Géilar. Mólthathen greinde írvale.
+
+[Al Geithand.]{.speaker}/
+Gyese griene, pirnal lourth, nond thélkathen‼/
+Dárkathen geinra pirnal, nond sélkathen.
+
+Ólnare gouthe salverth lourth árnathen,/
+lyero rith gire óstila, nond thárnathen.
+
+Geirnathen salverth ukal kérnon./
+Légathen‼ Dúlkathen tis, al thernon.
 :::
 
 : The Room of the Dead {#dead}
 
 ::: {.verse form=saunarine lang=en work=dead}
-[The Master]{.speaker} Where are the dead kept?/
-[[lore-selmorosdty|Sélmoros]] keeps them beyond the gate./
-The feast keeps them here, on this side./
-Early or late, every name is sung at the feast./
-Least, best, in the house's tongue through time./
-[The Master]{.speaker}/
-Leave a name unsung at the feast: kin owe it./
-The roll gives it at the next recital./
+[The Master:]{.speaker} Where are the dead kept?
+
+[[lore-selmorosdty|Sélmoros]] keeps them past the gate./
+The feast keeps them this side. And late/
+or early, every name is sung,/
+the least, the best, in the house's tongue.
+
+[The Master:]{.speaker}/
+A name left out at the feast is owed./
+The line will pay it down the road.
+
 Sing the dead first to their own blood./
-They repair your recital; the repair is good./
-Plant a tree; sing the lament./
-Leave the cairn. They did not go there./
-The roll is the house's dead standing at feast./
-The house feeds them and gives their place.
+They'll mend you, and the mending's good.
+
+Plant the tree and sing the lament./
+Then leave the cairn. That's not where they went.
+
+The line is the dead of the house, stood/
+up in the hall, and given food.
 :::
 
 ::: {.verse form=saunarine lang=elav enc=elavsemaronenc work=dead}
-[Al Geithand]{.speaker} Rith gere miron géilathen kendar al óllevine./
-Géilathen Sélmoros geinra gouthe al gandon./
-Géilathen al kurnis geinra tis. rith ti mirdon./
-Móuren gose nathar. lyero ukal lenthon rith al kurnis./
-Al thienen. al geirin geildar. rith al halthon óstila rith al kirdis./
-[Al Geithand]{.speaker}/
-Gyese nond lyero tose uk lenthon rith al kurnis. mólthathen al kenron./
-Láegathen al sírnerne gene. rith al dáelamen mougon./
-Lyero al óllevine gierth al geinra ryedamis treinen. gierth al laegnis./
-Shéirthathen geinra tosri mougon. en al shéirthon geildar rith al kirdis./
-Sálnathen al salve. lyero al nélthava rith al kirdon./
-Róugathen tose threl al groumon. nond róugathen geinra goure rith al dyelon./
-En al sírnerne al halthon óllevine. théndathen rith al kurnis./
-Gírathen al halthon geinra. dárkathen geinra al taldis.
+[Al Geithand.]{.speaker} Gere miron géilathen geinra al óllevine?
+
+Géilathen Sélmoros gouthe elthis,/
+géilathen kurnis tis, lóthe melthis./
+Threngin gose nathar, lyero geinra alnar,/
+al lunnar, al geildar, rith óstila valnar.
+
+[Al Geithand.]{.speaker}/
+Lenthon gounel kurnis en taulde./
+Kenrison déisnathen, lourth threl aulde.
+
+Lyero geinra treinen gierth valnar‼/
+Shéirthathen geinra tose alnar.
+
+Sálnathen salve, nélthava sóugathen‼/
+Ránathen groumon‼ Nond goure róugathen.
+
+Sírnerne, óllevine, hálmathen/
+al halthon griene, reik málmathen.
 :::
 
 : The Last Question {#last}
 
 ::: {.verse form=saunarine lang=en work=last}
-[The Master]{.speaker} When does the kingdom end?/
-When a crown goes up and someone invites it within./
-It sits below the eldest, of one kin./
-The white at the page's foot is filled./
-The roll is closed; the harp is quiet within the telling./
-&#91;[The coast:]{.direction} When a crown goes up and nobody invites it within.&#93;/
-[The Master]{.speaker} How should it be read?/
-[The candidate]{.speaker} It is not closed./
-[The Master]{.speaker} Now you are a Bard of this College. Take the harp.
+[The Master:]{.speaker} When does the kingdom end?
+
+When a crown goes up, and is asked in,/
+and sits below the eldest, kin,/
+and the white at the page's foot is filled,/
+the line is closed, and the harp is stilled./
+&#91;[The coast:]{.direction} When a crown goes up, and is not asked in.&#93;
+
+[The Master:]{.speaker} How is it to be read?
+
+[The candidate:]{.speaker} It is not closed.
+
+[The Master:]{.speaker} Then you are a Bard of this College. Take the harp.
 :::
 
 ::: {.verse form=saunarine lang=elav enc=elavsemaronenc work=last}
-[Al Geithand]{.speaker} Nal gere kirdis dúlkathen al thargalon./
-Gyese róugathen uk kérnon griene. láethathen kendar gene rith./
-Hóuthathen gene giethe al treinen uron. érnavisa rith al kirdis./
-Hréinathen al halmar rith al thílsel giethon./
-En al sírnerne súndar. en al pirnal saldren rith al mougon./
-[Rith al lirve.]{.direction} Gyese róugathen uk kérnon griene. nond láethathen kendar gene rith./
-[Al Geithand]{.speaker} Geisin targathen lesathen gene./
-[Al Gélnand]{.speaker} Nond en gene súndar./
-[Al Geithand]{.speaker} En tose uk Lyeronno threl ti Sáumirand gine. Góldathen tose al pirnal.
+[Al Geithand.]{.speaker} Gere kirdis dúlkathen al thargalon?
+
+Gyese griene kérnon, laethar,/
+hóuthathen giethe al uron, saethar,/
+reik hálmathen geinra al haldren,/
+súndar sírnerne, pirnal rith saldren./
+[Rith al lirve.]{.direction} Gyese griene kérnon, nond laethar.
+
+[Al Geithand.]{.speaker} Geisin targathen nyes lesathen gene?
+
+[Al Gélnand.]{.speaker} Nond en gene súndar.
+
+[Al Geithand.]{.speaker} Gonde en tose uk lyeronno threl ti Sáumirand. Góldathen al pirnal‼
 :::
 
 ## See Also

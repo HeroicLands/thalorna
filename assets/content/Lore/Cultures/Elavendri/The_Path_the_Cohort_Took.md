@@ -24,229 +24,317 @@ The verse is in iambic tetrameter, rhymed ABAB.
 : The Path the Cohort Took {#tale}
 
 ::: {.verse form=prose lang=en work=tale}
-Sit beside the stopping stone. You saw it at the gate: [[affiliation-vylarinmpr|the Empire]]'s last milestone, its eagle remaining and mile count worn away. Eastward the road is theirs, or was. Westward it is ours. Nobody laid stone on this side of the gate. This is why.
+Sit by the stone that stops. You've seen it, at the gate: the last of [[affiliation-vylarinmpr|the Empire]]'s milestones, with the eagle on it and the count of the miles worn off. East of it the road is theirs, or was. West of it the road is ours. Nobody laid a stone this side of the gate, and this is why.
+
+--- {.canto}
+
+**The eagles in the hills.** In the queen's time the legions had the lowlands over the eastern border, and they came north and west into these hills to go down into the basin behind us. A legion is five thousand sworn men, and the eagle on a pole in front, and engineers who make a road under their own feet as they come. You have seen a drove of cattle on the ridge road. Think of that, and every beast in it a man with a shield, and the drove ten miles long.
+
+The hill levy did not fight it. The hill levy is not a fool. It took a wagon here and a picket there, at night, and fell back, and the steadings emptied in front of the legion and filled up behind it. The legion found ditched yards with no stock in them, and burned them, and found the next ones empty too. And the tribes came down out of the mountains behind it and out of the wood in front of it, and gave it no battle either, but they were always a little way off to the west, in the trees at the forest's edge, and the legion went after them, the way you go after a dog that has your hat. So it came to the margin of the wood, in the end, where the hills go up into the old trees, and it sat down there and dug its ditch and thought about it.
+
+What it thought was this. The levy was in the basin road, and would hold the passes down to the basin a long time, and lose them one by one. But if there were a way through the wood, a cohort could go through it in two days and come down into the basin behind the levy, and the levy would be finished, and the basin would be the Empire's. A cohort is four hundred and eighty men. That is a big drove too.
+
+So the legate sent his scouts out along the margin to ask the steadings: is there a way through?
+
+--- {.canto}
+
+**The silver on the table.** On the margin, under the wood, there was a steading that kept hill ponies. You know the ponies: short, sound, and with the temper you know about. The pony-herd was dead the winter before, and his widow kept the steading with her daughter, Derva, who was nineteen, and her son, Sevrel, who was seven. They had not run when the others ran, because the ponies were out on the high grazing and you do not leave ponies. So the legion found them.
+
+The legion took the ponies, all of them, for its baggage, and gave a paper for them that nobody in the hills could read. And then the legate's scout came, a lean man in a leather cap who spoke our tongue badly, and he sat down at the widow's table without being asked to, which they do, and he put down on it a bag of silver. Not a purse. A bag. Coin of the Empire, with the eagle on it, more than the steading would see in twenty years of ponies.
+
+"Is there a way through the wood," he said.
+
+The widow said there was not. Derva said nothing.
+
+The scout said the legate knew there was. He said the legate knew because the tribes went in and out of the wood the way rabbits go in and out of a bank, and where a tribesman goes, a road can go. He said the silver was for whoever showed it. And he said, "And the boy comes with us now, so that you think about it well," and he took Sevrel by the arm and went out, and left the bag on the table.
+
+Now the hills have always argued about that bag. If she had touched it, she had taken it; if she left it, it was only lying there. Derva did not touch it that night. She sat across the table from it with her mother, and they looked at it until the lamp went out, and then they looked at it in the dark.
+
+--- {.canto}
+
+**At the edge.** There is a path through that wood, and the hills have always known it, and that is the trouble with it. It is not the same path twice. A man goes in by it and comes out at the place he meant to come out, and goes in by it again the next day and comes out somewhere else, or does not come out. The charcoal burners know where it starts. Nobody knows where it goes, because it is not anywhere. It is what the wood lets you have.
+
+In the grey of the morning Derva took the bag off the table, and so she had taken it, and she went up to where the path starts, under the old trees at the top of the steading's long field. She meant, the tellers say, to throw it in. Some say she meant to ask the wood to take it and give her brother back, as you might leave a loaf at a stone. She sat down on the wall at the field's top with the bag in her lap, and she had not decided which, when she saw that she was not alone.
+
+There was one standing at the edge of the trees, where there had not been anyone. Tall, the tellers say, and grey, and when it moved you could see the wood through it, the way you see the bottom of a stream through moving water. It did not come out of the trees. It stood at the very edge, where the field grass stops and the moss starts, and it spoke to her first. That is how you know what it was. The ones from the deeper places come to you. You do not go to them, and there is no way to.
+
+It said, "You have their silver."
+
+She said, "I have."
+
+It said, "And they have your brother, and they want the path."
+
+She said, "They do."
+
+It said, "The path is ours. We will lend it. Hear the terms, and if you take them, take them whole, for we keep them whole."
+
+And then it said the terms, and these are the words, and I'll say them, and you say them with me:
+
+Keep the silver. Show the way./
+The way is ours; the feet are yours./
+Who walks behind you walks to stay./
+Who walks ahead walks out of doors.
+
+Walk first, in front, and you walk free,/
+this day and every day you live./
+Walk once behind, and you're for me./
+And what you took, your kin will give
+
+in silver, back, from year to year,/
+to the hand it came from, while it's near.
+
+Derva sat on the wall and said it over to herself, the tellers say, three times, the way you count stock you mean to sell. Who walks behind you walks to stay. The cohort would walk behind her. Who walks ahead walks out. She would walk in front, and walk out. And the boy?
+
+"My brother," she said.
+
+"Where he walks," it said, "is your affair."
+
+"And the silver back to the hand it came from. Whose hand is that?"
+
+"You know whose. It has an eagle on it."
+
+"And while it's near?"
+
+"While it stands near you, in the east, with its pole."
+
+She thought about her brother, and about the levy in the basin passes, and the basin behind it, and the steadings burned, and the ponies, and her brother. She said, "I'll take them."
+
+It said, "Then they are taken," and it was not there, and the moss was only moss.
+
+--- {.canto}
+
+**The path.** She went down the long field to the legion's ditch with the silver in her apron, and she told the scout she would show the way, and that her brother would come with her or she would not go a step. The scout took her to the legate, and the legate looked at her a long time, and then gave the order. They brought Sevrel out. He had not been hurt, only fed badly, and he ran to her, and she picked him up.
+
+The cohort was paraded that afternoon at the top of the long field: four hundred and eighty men, and their praepar on a horse, and their banner on its pole, and their mules. The praepar asked her where the path went, and she said, "Through," which was true. He asked how long, and she said, "Two days, if the wood likes us," which was true too, and he did not like it, and he gave the order anyway.
+
+And here is the thing she did, and it is why the hills tell this tale, and why every child in the hills knows it before he knows his own father's pony-marks. She did not put her brother down. She put him up on her back, his arms around her neck, his legs round her waist, the way you carry a child across a ford. He was seven, and heavy, and she was a pony-herd's daughter and had carried worse. And she walked into the wood with him on her back.
+
+Was he behind her? He was not. He was on her. Was he ahead of her? He was not. Who walks behind you walks to stay. Who walks ahead walks out of doors. He did not walk at all. The terms are kept whole, and the terms said nothing about a boy who was carried.
+
+Behind her came the praepar on his horse, and behind him the banner, and behind the banner four hundred and eighty men in a column of fours, and behind the men the mules. The path took them in. The trees were old there, and the light went silver, and the path went up and then along, and it was a good path, clear underfoot, a cart could have gone along it. The men were glad of it. They sang, the tellers say, a little, the marching songs they have. And Derva walked in front, with her brother's arms round her neck, and she did not look back. Not once. She had been told nothing about looking, but she did not chance it.
+
+They walked the rest of that day, and they camped, because it was dusk. The praepar had them dig a ditch and a bank and set their tents in lines, the way they do even in a wood, even for one night. Derva sat at the edge of the camp, in front of it, with the boy asleep across her knees, and she did not sleep. In the night the singing in the camp stopped, and then the talking, and then the sound of the mules, and in the morning when she got up, with the boy on her back, there was a ditch, and a bank, and the lines of the tents, and nobody. Not a man. Not a mule. The fires were warm.
+
+She did not go into the camp to look. She walked on, in front, with nobody behind her, and the path went down, and at noon she came out of the trees at the top of her own long field, at the wall, where she had sat, and her mother was at the steading door. Two days, she had said. It had been one. Or the wood had liked them. The hills have never settled which.
+
+The legion understood a few days after, when its scouts came back from the path, or did not. It burned the pony steading, and the widow and her two children went over the hills by night to Valdun, where the levy was.
+
+--- {.canto}
+
+**Valdun.** The legion waited for its cohort, and waited, and sent scouts along the path, and the scouts found the path, and came out of the wood somewhere else, or did not. After a month the legate knew he had lost a cohort and would not get it back, and that the levy still held the basin passes, and that the tribes were still in the trees, a little way off to the west. And he sent to the queen.
+
+The queen was [Réidane]{.name data-type="being/npc" lang=elav}, of the house of [Orethan]{.name data-type="affiliation/lineage" lang=elav}, and she came up from [[place-beravel|Péravel]] to Valdun to treat, and she came late, as the court does. The levy sat in Valdun and watched her come up the ridge road with all her following, and the hill opinion of it was the hill opinion. You know it. But she was a sound queen, the hills allow, and she saw what there was to see: that she could not beat the legion, and that it could not beat the kingdom, and that the thing to do was to say so in a form both could keep.
+
+There was a hall at Valdun then, before the wall, a long drover's hall, and the treaty was made in it. The queen's people went in in their order, the queen first and her lords behind and the bards behind them. The levy went in behind, as was right. And Derva was in Valdun with the levy, because her steading was ashes and she had nowhere else, and the boy with her, walking now on his own feet, holding her hand, a little behind.
+
+She could not go in behind. So she went in front. She walked in ahead of the queen.
+
+You can think what that was. The queen's guard had her by the arms before she was three steps in, and her brother crying, and the queen's lords on their feet. But the queen said, "Let her stand," and they let her stand, and the queen asked her by what right she walked in front of the crown of [[affiliation-kngdmlvndr|Élavendre]] in a hall.
+
+Derva said, "By no right. By a bargain. If I walk behind anyone, I am theirs."
+
+"Whose?"
+
+Derva looked at the wood through the hall door, and said nothing, and the queen looked where she looked, and asked nothing more about it. That was the queen's courtesy, the hills say, and her good sense. She asked, instead, where the cohort was.
+
+"In the wood," said Derva. "Behind me."
+
+The hall was quiet then. And the legate, who was sitting at the far end of the table with his scribes, understood more of our tongue than his scout did, and he understood that, and he went grey.
+
+Then the queen did a thing the bards have sung since in the basin, and sung it wrong, the hills say, because they leave out the girl. She said, "In my hall the order of the seats is mine to say. This one walks in front. She walks in front of me, and of every crown after me, in any hall of this kingdom, and nobody walks in front of her. Write it down." And they wrote it down, the hills say, though no one in the hills has seen the writing.
+
+And then they treated. You know the terms; they're on the milestone, near enough. The kingdom kept its laws, and its customs, and its line of kings. The Empire kept a legate at Péravel, in a house there. And the kingdom paid, every year, a tribute. The legate wanted grain, the hills say, and men for the legions, and the queen would not give men, and the grain was short that year, as it was every year the legion had been in the hills. So they went back and forth, and back and forth, until Derva, standing in front of the queen where she had been put, took the bag out of her apron, the scout's bag, and put it on the table in front of the legate, and said: "Silver."
+
+The legate looked at it. He knew it. It had his eagle on it.
+
+"Silver," said the queen, after a while. "Yearly." And that was the term.
+
+That is why the tribute was silver and not grain or men. The basin calls it the queen's wisdom, and it was the queen's wisdom. It was also the bag on the table. And what you took, your kin will give, in silver, back, from year to year, to the hand it came from, while it's near. The whole kingdom was her kin, the tellers say. The terms are kept whole.
+
+The legion's engineers had set their milestones on the road as it came up into the hills, one to every mile, and when the treaty was made they set the last at Valdun, and west of it none. The town put up its first wall that year, and put the gate by the milestone, so the stone stands at the gate. The silver went east along that road for longer than anyone in the hills can count, and it stopped going when the eagles went, when the crowns of the west had the Empire's governors off them and the Empire had its own wars in the north, and stood near us no more. While it's near. The terms are kept whole.
+
+--- {.canto}
+
+**In front.** Derva lived a long time, and she walked in front of everyone she went with, all her life. It is not a small thing. Think of it.
+
+She walked in front of her mother's bier, when her mother died, instead of behind it, where a daughter walks, and the whole valley saw a daughter walk before her dead mother as if she were leading a beast to market, and some of them never forgave her, and she could not tell them why. She did not marry, because there is no way to walk to a wedding in front of everyone, and she said she would not make a man walk behind her his whole life like a mule. She went to the drove fairs and walked ahead of the drove, which is a dangerous place, and twice she was nearly trampled, and the drovers called her the Bell-Wether, and then called her nothing, because she was not a joke. When the queen's order of seats was sung in the basin, a Bard of the Circle came up into the hills to see her, once, and walked behind her down the ridge road for a mile, asking her questions, and went back down and sang about it, and left her out.
+
+Sevrel grew up. He was a big man, the tellers say, and kept ponies, and had a wife and children and a steading of his own under the wood, the old one rebuilt. He walked behind his sister all his life when they went anywhere together, so she would never have to choose, and his children learned to, and his grandchildren. And in the hills the oldest households still let a guest go first through any door, and do not say why, and a child who asks is told: in case.
+
+When Sevrel died, an old man, she walked in front of his bier too, an old woman, slowly, with a stick. That was the last time she walked in front of anyone.
+
+--- {.canto}
+
+**Behind.** The spring after her brother died, Derva went up the long field, alone, to the wall at the top, where she had sat with the bag. She was very old. She sat on the wall. And the tellers do not agree on what happened then, and they tell all of it, because a thing not settled is not cut short.
+
+Some say the path was there, plain, clear underfoot, a cart could have gone along it, and coming along it out of the trees toward her, very faint, a column of fours, and a banner on a pole, and a horse, and mules; and that they did not come out of the trees, but turned, at the edge, and went back in; and that she got off the wall and walked in after them. Behind. Because she had walked them in, and nobody had walked behind them since, and a thing you do to someone must be paid in kind, and that was the only kind there was.
+
+Some say she was tired of being first, only that, and she let someone go in front of her for once, a child on the path with a lamb, and was gone.
+
+Some say she slipped on the wet stones getting off the wall, and her brother's eldest grandson, who had come up after her, ran and caught her and set her on her feet and walked ahead of her down the field, without thinking, to show her the dry way; and when he looked round she was not there.
+
+And some say she is sitting on the wall still, and the wall is in front of the wood, and she is in front of the wall, and nobody has ever walked in front of her, and she is waiting to see who will.
+
+The hunters in these hills find the cohort's camp. They find the ditch and the bank and the lines of the tents under the moss, and once a helmet that has not rusted, and on the bank a woman's grey shawl, folded, that has not rotted, and a child's shoe. And a hunter who goes back to look again does not find the path he went by. It is not the same path twice. You know that now.
+
+That's the path the cohort took. Don't go looking for it. And when you go in through a door tonight, let your guest go first.
 :::
 
 ::: {.verse form=prose lang=elav enc=elavsemaronenc work=tale}
-Hóuthathen tose rith al kergis. taldathen gene. Nóurethen tose gene rith al gandon. En gene al dyelar mílkergis threl al Órzalon. En al raumel gaele gene. térgathen al míldeilnon mouglar. En al tírvale írvaloste gene geinra telgon. gose en mougre. En al tírvale ólvessaste gene nusri. Nond légathen kendar uk kergis rith ti mirdon al gandon. En ti al gouris.
-:::
+Hóuthathen tose thes al kergis rith miron taldathen al tírvale‼ Nóurethen tose gene nal al gandon, al dyelar mílkergis al Órzalon, reik al raumel gaele gene, reik al míldeilnon rákar threl gene. Írvaloste threl gene al tírvale en geinra, gose en. Ólvessaste threl gene al tírvale en nusri. Nond légathen kendar uk kergis rith ti mirdon al gandon, reik ti en al gouris.
 
-## [Al raumel rith al áuldalon]{lang=elav enc=elavsemaronenc} / [Eagles in the Hills]{lang=en} / [Al raumel rith al áuldalon]{lang=elav}
+--- {.canto}
 
-::: {.verse form=prose lang=en work=the-path-the-cohort-took-2}
-In the queen's time legions held the lowlands beyond the eastern border. They came north and west through these hills to descend into the basin beyond us. A legion is five thousand sworn men, eagle upon a pole ahead, engineers building road beneath their feet. You saw herds on the ridge road. Imagine each animal a shielded man, and the herd ten miles long./
-The hill levy did not fight it. The levy is no fool. It took a wagon here and a picket there at night, then withdrew. Steadings emptied before the legion and filled behind it. The legion found ditched yards without animals, burned them, and found the next empty too. Tribes came from mountains behind it and wood ahead. They gave no battle either, but stayed a little west among trees at the edge. The legion followed like you follow a dog carrying your hat. At last it reached the margin where hills rise into old trees. It sat, dug a ditch and considered./
-It considered this: the levy held the basin road and could keep the downward passes long, losing them one by one. But a path through wood would let a cohort cross in two days, descend behind the levy and finish it. The basin would belong to [[affiliation-vylarinmpr|the Empire]]. A cohort is four hundred eighty men. Another large herd./
-The legate sent scouts along the margin asking steadings whether a way passed through.
-:::
+**Al raumel rith al áuldalon.** Rith al kirdis al auranra dárkathen al legyon al giethar mirlon gouthe al írvaloste mirlerth, reik árnathen geinra gierth nelgon reik ólvessaste rith ti áuldalon, seis róugathen geinra lourth gierth al dulgis dren nyes. En uk legyon reithik mórdamon nolgrar tharan, reik al raumel gaele al talgon thren geinra, reik al tírvaland háelathen al tírvale giethe al thoudra geinra sendrel árnathen geinra. Nóurethen tose uk gurnalon gaele al auldar tírvale. Hórmathen tose to‼ Ukal gurnon en uk tharan lóthe uk thorgon, reik al gurnalon taehes mílon lárgar.
 
-::: {.verse form=prose lang=elav enc=elavsemaronenc work=the-path-the-cohort-took-2}
-Rith al kirdis. dárkathen al auranra al thargalon. dárkathen al legyon al giethe mirlon gouthe al írvaloste mirlerth. Árnathen geinra gierth nelgon reik ólvessaste rith ti áuldalon. seis róugathen geinra lourth gierth al dyemeson gouthe nyes. En uk legyon 5000 nolgrar tharan. al raumel gaele uk talgon rith trámon. al tírvaland. háelathen geinra al tírvale giethe al thoudra rith al árnon. Nóurethen tose uk gurnalon rith al auldar tírvale. Hórmathen tose to. reik en ukal gurnon uk tharan rith thorgon. reik en al gurnalon 10 mílon lárgar./
-Nond dryégathen al auldar greiklon gene. Nond en al greiklon uk andárgand. Góldathen geinra uk thélkeron tis. uk dieldalon goure. rith óssenda. Róugathen geinra rith ránelon. Ánkenathen al mirlathon rith trámon al legyon. hálmathen geinra rith ránelon gene. Pínathen al legyon al dorlar galnis. nonduk drun gose omris. Hendathen geinra geinra. Pínathen geinra al dáelamen mirlathon ánkenar reik. Árnathen al kenralon lourth threl al sórvanda rith ránelon geinra. threl al lonke rith trámon geinra. Nond dryégathen geinra gene reik. Gase en geinra gournin rith al lunnar dulnis ólvessaste. rith salve rith al lonke rynel. Sélgathen al legyon geinra gaethe sélgathen tose uk hérnon. dárkathen gene tosri górkon. Gaernin árnathen al legyon gierth al lonke rynel nal dyelon. róunithen al áuldalon rith al mouglar salve. Hóuthathen gene goure. gársathen gene uk dorla. hórmathen gene al gaeron./
-Hórmathen gene ti. En al greiklon rith al dyemeson tírvale. Géilathen gene al gandurth lourth gierth al dyemeson lárgar kirdis. gélgathen gene geinra uk gonde uk. Gase gyese elnathen uk sénthron greile al lonke. geindathen uk kórthelon róugathen greile gene rith ta kieron. árnathen gene lourth rith al dyemeson rith ránelon al greiklon. En al greiklon dyelar. al dyemeson Órzalon telgon. En uk kórthelon 480 tharan. En to uk gaernar gurnalon reik./
-Gaernin méisathen al legandon al nógand greile al rynel gierth al mirlathon. kérnathen. he elnathen uk sénthron greile.
-:::
+Nond dryégathen al greiklon gene. Nond en al greiklon uk andárgand. Góldathen gene uk thélkeron tis, uk dieldalon goure, rith óssenda, reik róugathen gene gourthe, reik ánkenathen al mirlathon thren al legyon reik hálmathen geinra grend dren gene. Pínathen al legyon al galnis lóthe dorla, nonduk gurnon rith geinra, reik hendathen gene geinra, reik pínathen gene al dáelamen ánkenar reik. Reik árnathen al kenralon lourth threl al sórvanda dren gene, reik threl al lonke thren gene, reik nond dryégathen geinra reik, gase algin en geinra sendri ólvessaste, rith al salve nal al rynel al lonke, reik sélgathen al legyon geinra, gaethe sélgathen tose uk hérnon lóthe tosri górkon. Gaernin árnathen gene nal dyelon gierth al rynel al lonke, rith miron róugathen al aulde griene rith al mouglar salve, reik hóuthathen gene goure, reik kérathen gene al dorla, reik hórmathen gene.
 
-## [Al ánhrason gaele al mórvalis]{lang=elav enc=elavsemaronenc} / [Silver on the Table]{lang=en} / [Al ánhrason gaele al mórvalis]{lang=elav}
+Hórmathen gene ti. En al greiklon rith al tírvale al dulgis, reik géilathen gene al gandurth lourth gierth al dulgis lárgar kirdis, reik gélgathen gene geinra uk gonde uk. Gase, gyese elnathen uk sénthron greile al lonke, róugathen uk kórthelon greile gene rith ta kieron, reik árnathen gene lourth rith al dulgis dren al greiklon, reik dúlkathen al greiklon, reik en al dulgis al Órzalon telgon. En uk kórthelon ordur dórkamon reik dorgen taehes tharan. En to uk gaernar gurnalon reik.
 
-::: {.verse form=prose lang=en work=the-path-the-cohort-took-3}
-A steading under the wood at the margin kept hill ponies. You know them: short, sound and of a temper you know. Their keeper died the winter before. His widow kept the steading with daughter [Derva]{.name data-type="being/npc"}, nineteen, and son [Sevrel]{.name data-type="being/npc"}, seven. They did not flee with others because ponies remained on high grazing. You do not leave ponies. So the legion found them./
-The legion took every pony for baggage and gave a paper nobody in the hills could read. Then came the legate's scout: a lean man, leather cap, speaking our tongue badly. He seated himself at the widow's table unasked, as they do, and set down silver in a bag. Not a little purse. A bag. Imperial silver coins with eagles, more than the steading saw in twenty pony years./
-He asked whether a path crossed the wood./
-The widow said no. [Derva]{.name data-type="being/npc"} said nothing./
-The scout said the legate knew a path existed. He knew because tribes entered and left wood like rabbits in a bank. Where a tribesman walks, a road can go. Silver belonged to whoever showed it. He said: the boy comes with us now, so you consider carefully. He took [Sevrel]{.name data-type="being/npc"} by the arm and left. The bag stayed on the table./
-The hills have argued about the bag ever since. Touching it meant taking it. Leaving it meant it only lay there. [Derva]{.name data-type="being/npc"} did not touch it that night. She and her mother sat across the table and watched until the lamp ended. Then they watched in darkness.
-:::
+Gaernin méisathen al legandon al nógand greile al rynel gierth al mirlathon, reik kernathen geinra «He elnathen uk sénthron greile?»
 
-::: {.verse form=prose lang=elav enc=elavsemaronenc work=the-path-the-cohort-took-3}
-Elnathen uk mirlathon rith al rynel giethe al lonke. Géilathen gene al auldar drun. Sárgathen tose al drun. kurnar. geildar. reik al gaerasa. sárgathen tose. Dónkathen al drungailand rith al neldra mougre. Géilathen al délsara al mirlathon reik al hélnora Derva. 19 kirdon. reik al helnor Sevrel. 7 kirdon. Nond giernathen geinra rith al derar giernathen. gaernen en al drun rith al gorth laegis. Nond ránathen tose al drun. Gaernin pínathen al legyon geinra./
-Góldathen al legyon al drun. alnar. gierth al thélkon. Láegathen geinra uk fírsamis. nond geindathen kendar rith al áuldalon lesathen. Árnathen al legandon nógand. En gene uk thienen tharan rith uk lurmon górkon. Ryenathen gene nusri óstila angeildar. Hóuthathen gene gaele al délsara mórvalis. nond kérnathen kendar gene. gársathen geinra to. Légathen gene uk gielmon ánhrason gaele gene. Nond uk lunnar desnon. uk gielmon. Órzalon anhraz. raumel gaele gene. geirin ánhrason thinar al mirlathon nóurethen rith ta taehes drun kirdon./
-Ryenathen gene. he elnathen uk sénthron greile al lonke./
-Ryenathen al délsara nond. Ryenathen Derva nonduk./
-Ryenathen al nógand. sárgathen al legandon elnathen gene. Sárgathen gene. gaernen róugathen al kenralon rith reik gounel al lonke gaethe al lirken greile uk mirlis heldon. gyese sénkathen uk kenralon tharan. geindathen uk tírvale róugathen. En al ánhrason gierth al geiland. sélkathen gene al sénthron. Ryenathen gene. árnathen al kenlon reik nyes gine. seis hórmathen tose al gaeron geildar. Góldathen gene Sevrel rith al dráemelis. róugathen gene gounel. Géilathen gene al gielmon gaele al mórvalis./
-Ágrathen al áuldalon ti gielmon greinde alnar kirdis. Gyese gríethathen gene gene. góldathen gene gene. Gyese géilathen gene gene. en gene uk gaeron gaele al mórvalis. Nond gríethathen Derva gene rith to óssenda. Hóuthathen gene gouthe al mórvalis reik al ámmira. Nóurethen geinra gene gierth al henthra dyelon. Gonde nóurethen geinra gene rith al náldursa.
-:::
+--- {.canto}
 
-## [Rith al rynel]{lang=elav enc=elavsemaronenc} / [At the Edge]{lang=en} / [Rith al rynel]{lang=elav}
+**Al ánhrason gaele al mórvalis.** Nal al rynel, giethe al lonke, elnathen uk mirlathon géilathen al auldar drun. Sárgathen tose al auldar drun, kurnar, geildar, reik al gaerasa sárgathen tose. Dónkathen al drungailand nal al neldra thren, reik géilathen al délsara al mirlathon lóthe al hélnora, Derva, taehes reik gondis kirdon, reik lóthe al helnor, Sevrel, meithur kirdon. Nond giernathen geinra sendrel giernathen al derar, gaernen en al drun gaele al gorth laegis, reik nond ránathen tose al drun. Gaernin pínathen al legyon geinra.
 
-::: {.verse form=prose lang=en work=the-path-the-cohort-took-4}
-A path crosses that wood. The hills always knew it. That is the danger. It is never the same path twice. A man enters and leaves where intended, then enters next day and emerges elsewhere, or never emerges. Charcoal burners know its beginning. Nobody knows where it goes because it is nowhere. It is what the wood gives you./
-In gray morning [Derva]{.name data-type="being/npc"} took the bag from the table. Now she had taken it. She climbed to the path's beginning beneath old trees above the steading's long field. Tellers say she intended throwing it within. Some say she meant asking wood to take silver and return her brother, as one leaves bread on stone. She sat on the field's upper wall, bag in her lap, undecided. Then she saw she was not alone./
-Someone stood at the trees' edge where nobody stood before. Tall and gray, tellers say. When it moved you could see wood through it like a stream floor through moving water. It stayed inside the trees at their very edge, where field grass ends and moss begins. It spoke first. That tells you what it was. Deep place beings come to you. You do not go to them. No road reaches them./
-It said: you have their silver./
-She said she had./
-It said: they have your brother and want the path./
-She said yes./
-It said: the path is ours. We permit its use. Hear terms. If you take them, take them whole. We keep them whole./
-It spoke the terms. These are the words. I say them; say them with me.
-:::
+Góldathen al legyon al drun, alnar, gierth al thélkon, reik láegathen gene uk fírsamis nond geindathen kendar rith al áuldalon lesathen. Reik gonde árnathen al nógand al legandon, uk tharan nond menthar rith uk lurmon górkon, ryenathen nusri óstila angeildar, reik hóuthathen gene nal al mórvalis al délsara, nond laethar, gaethe gársathen geinra, reik légathen gene gaele gene uk gielmon ánhrason. Nond uk desnon. Uk gielmon. Al anhraz al Órzalon, lóthe al raumel gaele gene, geirin thinar al mirlathon nóurethen rith ta taehes kirdon drun.
 
-::: {.verse form=prose lang=elav enc=elavsemaronenc work=the-path-the-cohort-took-4}
-Elnathen uk sénthron greile to lonke. Sárgathen al áuldalon gene alnar kirdis. En to al dournon. Nond en gene al sénthron ríenar. Róugathen uk tharan rith greile gene. róugathen gene gounel rith al deirnar miron. Róugathen gene rith grend nal al dáelamen kieron. róugathen gene gounel rith uk derar miron. gose nond róugathen gene gounel. Sárgathen al henduland al threnon miron. Nond sárgathen kendar al tírvale. gaernen nond en gene rith miron. En gene al gaeron. láegathen al lonke gierth tose./
-Rith al géstaren kirnis góldathen Derva al gielmon threl al mórvalis. Gaernin góldathen gene gene. Róugathen gene griene gierth al sénthron threnon. giethe al mouglar salve rith al gorth mirdon threl al lárgar ilmis. Deirnathen gene geintathen gene rith. ryenathen al mougand. Ryenathen kren mougand. deirnathen gene kérnathen al lonke góldathen al ánhrason. láegathen al ondren grend. gaethe láegathen uk tárnevine gaele uk kergis. Hóuthathen gene gaele al dúrmera rith al ilmis gorth rynel. En al gielmon gaele al gyernis. Nond dalgathen gene al deirnis. Gonde nóurethen gene. nond en gene uk./
-Théndathen uk elthon rith al salve rynel. nond elnathen kendar goure mougre. Gorth. ryenathen al mougand. géstaren. Gyese gerathen gene. nóurethen tose al lonke greile gene. gaethe al lánthevile gérmalon greile gérnar sira. Nond róugathen gene gounel al salve. Théndathen gene rith al rynel. rith al ilmis gierna dyelon reik al mielve threnon. Ryenathen gene gierth Derva nal treinen kirdin. En to al sargon. sárgathen tose al elthon. Árnathen al úlvaldevan elthon gierth tose. Nond róugathen tose gierth geinra. nond elnathen uk tírvale./
-Ryenathen gene. dárkathen tose al geinra ánhrason./
-Ryenathen gene. dárkathen munde./
-Ryenathen gene. dárkathen geinra al ondren. ílnathen geinra al sénthron./
-Ryenathen gene. drin./
-Ryenathen gene. en al sénthron nusri. Gaelgethen nyes gene. Salkathen al daeron. Gyese góldathen tose geinra. góldathen tengar. Géilathen nyes geinra tengar./
-Ryenathen gene al daeron. En ti al leithon. Ryenathen munde. ryenathen tose reik munde.
-:::
+Ryenathen gene «He elnathen uk sénthron greile al lonke?»
 
-::: {.verse form=bargain lang=en work=the-path-the-cohort-took-5}
-Keep silver. Show the path./
-The path is ours; the feet yours./
-Who walks behind you stays here for all time./
-Who walks ahead of you goes through the door and out.
+Ryenathen al délsara «Nond.» Nond ryenathen Derva tendar.
 
-Walk first, in front; go freely./
-Today and every day of your life./
-Walk behind once and I hold you./
-Your kin will give what you took,
+Ryenathen al nógand «Sárgathen al legandon elnathen gene.» Sárgathen al legandon, ryenathen gene, gaernen róugathen al kenralon rith reik gounel al lonke gaethe al lirken rith al mirlis, reik gyese róugathen uk kenralon tharan, geindathen uk tírvale róugathen. Ryenathen gene «En al ánhrason gierth kendar sélkathen gene. Reik árnathen al kenlon lóthe nyes gine, seis hórmathen tose geildar.» Reik góldathen gene Sevrel rith al dráemelis, reik róugathen gene gounel, reik lóuvathen al gielmon gaele al mórvalis.
 
-In silver, back, one year after another./
-To the hand it came from, if it remains near.
-:::
+Gine dárkathen al áuldalon gournar hórmon gaele to gielmon, greinde to kieron. Gyese gríethathen gene gene, góldathen gene gene. Gyese lóuvathen gene gene, en gene uk gaeron gaele uk mórvalis, reik nonduk derar. Nond gríethathen Derva gene rith to óssenda. Hóuthathen gene lóthe al ámmira gournar gene, reik nóurethen geinra gene tend dúlkathen al henthra, reik gonde nóurethen geinra gene rith al náldursa.
 
-::: {.verse form=bargain lang=elav enc=elavsemaronenc work=the-path-the-cohort-took-5}
-Géilathen tose al ánhrason. Sélkathen tose al sénthron./
-En al sénthron nusri. en al thoudra tosri./
-Gyese sénkathen kendar rith ránelon threl tose. en gene tis alnar kirdis./
-Gyese sénkathen kendar rith trámon threl tose. róugathen gene gounel greile al ganda.
+--- {.canto}
 
-Sénkathen tose treinen. rith trámon. róugathen tose goulnar./
-Ti kieron reik ukal kieron rith al elthis./
-Gyese sénkathen tose rith ránelon nal uk kirdin. dárkathen munde tose./
-Láegathen tosri sóurethende al gaeron. góldathen tose.
+**Rith al rynel.** Elnathen uk sénthron greile to lonke, reik algin sárgathen al áuldalon gene, reik en to al dournon. Nond en gene al sénthron ríenar grend. Róugathen uk tharan rith greile gene reik árnathen gene gounel nal al miron deirnar, reik róugathen gene rith grend nal al dáelamen kieron reik árnathen gene gounel nal uk derar miron, gose nond árnathen gene gounel. Sárgathen al henduland al threnon. Nond sárgathen kendar gere miron róugathen gene, gaernen nond en gene rith miron. En gene gere láegathen al lonke gierth tose.
 
-Rith ánhrason. grend. uk kirdon gonde uk kirdon tis./
-Gierth al thraemis threl al árnon. gyese en gene rith al rindulnis.
-:::
+Rith al géstaren kirnis góldathen Derva al gielmon threl al mórvalis, reik gaernin góldathen gene gene, reik róugathen gene griene gierth al threnon al sénthron, giethe al mouglar salve nal al gorth rynel al lárgar ilmis. Deirnathen gene geintathen gene rith, ryenathen al mougand. Ryenathen kren deirnathen gene kernathen al lonke seis góldathen gene al ánhrason reik láegathen al ondren grend, gaethe légathen tose uk tárnevine gaele uk ugra. Hóuthathen gene gaele al dúrmera nal al gorth rynel al ilmis, al gielmon gaele al gúrdamon, reik nond geinde dalgathen gene, reik gonde nóurethen gene nond en gene ukar.
 
-::: {.verse form=prose lang=en work=the-path-the-cohort-took-6}
-[Derva]{.name data-type="being/npc"} repeated the terms three times upon the wall, tellers say, as you count animals intended for sale. Who walks behind you stays. The cohort would follow her. Who walks ahead goes out. She would lead and leave. And the child?/
-She said: my brother./
-It said his walking was her work to arrange./
-She asked: silver back to its giving hand. Whose hand?/
-It said she knew. It had an eagle./
-And while it remains near?/
-It said: while it stands near you in the east with its pole./
-She considered brother, levy in basin passes, basin beyond, burned steadings, ponies, brother. She said she would take the terms./
-It said they were taken. It was absent. Moss was moss.
-:::
+Elnathen uk nal al rynel al salve, rith miron nond elnathen kendar. Gorth, ryenathen al mougand, reik géstaren, reik gyese térgathen gene, nóurethen tose al lonke greile gene, gaethe nóurethen tose al kergis rith uk gérnar lánthevile. Nond árnathen gene gounel al salve. En gene nal al dyelar rynel, rith miron dúlkathen al gierna reik thréinathen al mielve, reik ryenathen gene nal treinen. Gaernin sárgathen tose gere en gene. Árnathen al elthon threl úlvaldevan gierth tose. Nond róugathen tose gierth geinra, reik nond elnathen tírvale gierth geinra.
 
-::: {.verse form=prose lang=elav enc=elavsemaronenc work=the-path-the-cohort-took-6}
-Hóuthathen Derva gaele al dúrmera. Ryenathen gene al daeron gierth gire ha kirdin. ryenathen al mougand. gaethe deilnathen tose al gurnon. deirnathen tose deisgethen. Gyese sénkathen kendar rith ránelon threl tose. en gene tis alnar kirdis. Sélgathen al kórthelon gene. Gyese sénkathen kendar rith trámon threl tose. róugathen gene gounel greile al ganda. Sénkathen gene rith trámon. róugathen gene gounel. Reik al kenlon. Eldathen gere./
-Ryenathen gene. mundri ondren./
-Ryenathen gene. en al gene sénkathen tosri gársalon./
-Reik al ánhrason grend gierth al thraemis threl al árnon. Geisri thraemis./
-Ryenathen gene. sárgathen tose. Dárkathen gene uk raumel./
-Reik rith al rindulnis. Ryenathen tose gere./
-Ryenathen gene. gyese théndathen gene rith al írvaloste. rith al rindulnis. dárkathen gene al talgon./
-Hórmathen gene al ondren. al greiklon rith al dyemeson gandurth. al dyemeson rith ránelon gene. al hendarnar mirlathon. al drun. al ondren. Ryenathen gene. góldathen munde geinra./
-Ryenathen gene. en geinra góldar. Nond elnathen gene tis. En al mielve mielve.
-:::
+Ryenathen gene «Dárkathen tose al ánhrason geinra.»
 
-## [Al sénthron]{lang=elav enc=elavsemaronenc} / [The Path]{lang=en} / [Al sénthron]{lang=elav}
+Ryenathen gene «Dárkathen munde.»
 
-::: {.verse form=prose lang=en work=the-path-the-cohort-took-7}
-She descended the long field to the legion's ditch, silver in her apron. She told the scout she would show the path, but her brother came or she took no step. The scout brought her to the legate. He looked at her long, then ordered. [Sevrel]{.name data-type="being/npc"} came out. Nobody hurt him; they only fed him badly. He ran to her. She lifted him./
-The cohort formed atop the long field that afternoon: four hundred eighty men, the praepar mounted, their standard on its pole, their mules. He asked the path's destination. She said through. True. He asked the time. She said two days if wood liked them. True too. He disliked it and ordered anyway./
-Here is what she did, why hills tell this story and children know it before their father's pony marks. She did not put her brother down. She set him on her back: arms around neck, legs around waist, as for carrying a child across a ford. Seven, heavy. She was a pony keeper's daughter and had carried worse. She entered wood carrying him./
-Was he behind? No. He was on her. Was he ahead? No. Who walks behind stays. Who walks ahead goes out. He never walked. Terms are kept whole. They said nothing of a carried child./
-The mounted praepar followed. Standard behind him, then four hundred eighty men four abreast, then mules. The path took them within. Old trees, silver light, a path rising then running along. A good path, clear underfoot, fit for a wagon. Men were pleased. They sang a little, tellers say, their marching songs. [Derva]{.name data-type="being/npc"} led, brother's arms at her neck. She never looked back. Nothing had forbidden looking, but she took no chance./
-They walked the day's remainder, then camped at dusk. The praepar ordered ditch and bank, tents in rows, as they do even for a single woodland night. [Derva]{.name data-type="being/npc"} sat at the camp edge ahead of it, sleeping boy across her knees. She did not sleep. During night camp singing stopped, then speech, then mule sounds. At morning she rose, boy upon her back. Ditch, bank, tent rows remained. Nobody. No man. No mule. Fires stayed warm./
-She did not enter camp to examine. She walked on, first, nobody behind. The path descended. At noon she left trees atop her own long field, beside the wall where she sat. Her mother stood at the steading door. She said two days. It had been one. Or wood had liked them. The hills never chose a meaning./
-The legion understood a few days later, when scouts returned from the path or did not. It burned the pony steading. Widow and two children crossed hills by night to [[place-valdun|Valdun]] and the levy.
-:::
+Ryenathen gene «Reik dárkathen geinra tosri ondren, reik ílnathen geinra al sénthron.»
 
-::: {.verse form=prose lang=elav enc=elavsemaronenc work=the-path-the-cohort-took-7}
-Róugathen gene lourth al lárgar ilmis gierth al legyon dorla. En al ánhrason rith al thrálel. Ryenathen gene al nógand. sélkathen gene al sénthron. árnathen al ondren reik gene. gose nond sénkathen gene uk thoudra. Thélkathen al nógand gene gierth al legandon. Nóurethen al legandon gene lárgar kirdis. Dróusathen gene. Árnathen Sevrel gounel. Nond ruskathen kendar gene. málmathen geinra gene angeildar. Gírdathen gene gierth Derva. Góldathen gene gene griene./
-Théndathen al kórthelon rith al gorth ilmis nal to kieron ólvarne.480 tharan. al kréipar gaele uk drun. al kernon gaele al talgon. al muland. Kérnathen al kréipar gene. gere miron róugathen al sénthron. Ryenathen gene. greile. En to tenar. Kérnathen gene. gere kirdis. Ryenathen gene. ta kieron. gyese ílnathen al lonke nyes. En to tenar reik. Nond ílnathen gene gene. dróusathen gene reik./
-En ti al gaeron. gársathen gene. Gaernin ryenathen al áuldalon ti mougon. Sárgathen ukal kenlon gene mougre al daethar drun kernon. Nond légathen gene al ondren lourth. Légathen gene gene gaele al ránthemon. al dráemelis gyethe al hórtima. al gúrthamon gyethe al mórgila. gaethe thélkathen tose uk kenlon gaende uk thalgan. En gene 7 kirdon. menthar. En gene uk drungailand hélnora. thélkathen gene geirin angeildar. Sénkathen gene rith al lonke. thélkathen gene al ondren gaele al ránthemon./
-He en gene gonde gene. Nond. En gene gaele gene. He en gene rith trámon. Nond. Gyese sénkathen kendar rith ránelon threl tose. en gene tis alnar kirdis. Gyese sénkathen kendar rith trámon threl tose. róugathen gene gounel greile al ganda. Nond sénkathen gene. Géilathen al daeron tengar. Ryenathen al daeron nonduk rith al thélkar kenlon./
-Árnathen al kréipar gaele drun rith ránelon gene. Rith ránelon gene al kernon. Rith ránelon al kernon 480 tharan rith ordur lanris. Rith ránelon al tharan al muland. Góldathen al sénthron geinra rith. En al salve mouglar. Térgathen al áulira ánhrason. Róugathen al sénthron griene. gonde rith al rynel. En gene geildar. thar lunnar gaele al thoudra. Geindathen uk thélkeron róugathen gene. Dárkathen al tharan merlis. Lyero geinra. ryenathen al mougand. lunnar. al sénkathen ólnare. Sénkathen Derva rith trámon. En al ondren dráemelis gyethe al hórtima. Nond nóurethen gene rith ránelon. Nond uk kirdin. Nond ryenathen kendar gaeron rith al nóurethen. gase nond geirnathen gene al dournon./
-Sénkathen geinra alnar to kieron. Háelathen geinra al óssengal. gaernen en ólvarne. Dróusathen al kréipar geinra gársathen dorla reik mirlis rynel. légathen al véhalthon rith lanris. Gaethe gársathen geinra. geiri rith lonke. geiri gierth uk óssenda. Hóuthathen Derva rith al óssengal rynel. rith trámon gene. Dúrsathen al kenlon gaende al gúrdamon. Nond dúrsathen gene. Rith óssenda dúlkathen al lyero rith al óssengal. Gonde al ryenathen. Gonde al muland sóldaris. Rith kirnis róunithen gene. dárkathen al kenlon gaele al ránthemon. Elnathen dorla. mirlis rynel. al lanris threl al véhalthon. Nond kendar. Nond uk tharan. Nond uk muland. En al henda daelmar./
-Nond róugathen gene rith al óssengal gierth nóurethen. Sénkathen gene grend. rith trámon. nond kendar rith ránelon gene. Róugathen al sénthron lourth. Nal shéiranda róugathen gene gounel al salve rith al gorth rynel threl al lárgar ilmis. rith al dúrmera. rith al hóuthathen miron. En al ámmira rith al mirlathon ganda. Ryenathen gene ta kieron. En to uk kieron. Gose ílnathen al lonke geinra. Nond dalgathen al áuldalon al menris./
-Sárgathen al legyon gonde kren kieron. gyese árethathen al nógand threl al sénthron. gose nond árethathen. Hendathen gene al drun mirlathon. Róugathen al délsara reik al ta kenlon geth al aulde rith óssenda gierth Valdun. rith al greiklon.
-:::
+Ryenathen gene «Drin.»
 
-## [Valdun]{lang=elav enc=elavsemaronenc} / [[place-valdun|Valdun]] / [Valdun]{lang=elav}
+Ryenathen gene «Al sénthron en nusri. Gaelgethen nyes gene. Salkathen al daeron‼ Gyese góldathen tose gene, góldathen gene tengar, gaernen géilathen nyes gene tengar.»
 
-::: {.verse form=prose lang=en work=the-path-the-cohort-took-8}
-The legion waited and waited for its cohort, sending scouts upon the path. Scouts found it and emerged elsewhere, or did not. After a month the legate knew the cohort was lost beyond recovery. The levy kept basin passes. Tribes still waited in trees a little west. He sent to the queen./
-She was [Réidane]{.name data-type="being/npc" lang=elav} of [Orethan]{.name data-type="affiliation/lineage" lang=elav}'s house. She came from [[place-beravel|Péravel]] to [[place-valdun|Valdun]] to negotiate, late as court comes. The levy watched her climb the ridge road with her following. The hill opinion was the hill opinion. You know it. But she was a sound queen, hills admit. She saw she could not defeat the legion, nor it defeat the kingdom. That must be said in terms both could keep./
-[[place-valdun|Valdun]] had a long drovers' hall before its wall. The compact was made there. The queen's company entered in order: queen, lords, bards. The levy followed as proper. [Derva]{.name data-type="being/npc"} stayed with it, her steading ash and nowhere else to go. The boy now walked on his own feet, holding her hand, a little behind./
-She could not enter behind. So she entered ahead. She walked before the queen./
-Imagine that. The queen's guards caught her arms before three steps, brother crying and lords rising. The queen said let her stand. They did. She asked by what right [Derva]{.name data-type="being/npc"} walked ahead of [[affiliation-kngdmlvndr|Élavendre]]'s crown within a hall./
-[Derva]{.name data-type="being/npc"} said: by no right. By a bargain. If I walk behind anyone, they hold me./
-Whose?/
-[Derva]{.name data-type="being/npc"} looked at wood through the hall door and said nothing. The queen followed her look and asked nothing more about it. Courtesy and wisdom, hills say. Instead she asked where the cohort was./
-[Derva]{.name data-type="being/npc"} said: in the wood. Behind me./
-The hall fell silent. The legate sat at the table's far end with scribes. He understood our tongue better than his scout. He understood that and turned gray./
-Then the queen did what basin bards have sung since, wrongly, hills say, because they omit the girl. She said: in my hall I determine seats. This one walks first. Before me and every crown after me, within every hall of this kingdom. Nobody walks before her. Write it. They wrote it, hills say, though no hill person saw the writing./
-Then they negotiated. You know the terms from the milestone, nearly. The kingdom kept laws, customs and royal descent. The Empire kept a legate housed at [[place-beravel|Péravel]]. The kingdom paid annual tribute. The legate wanted grain, hills say, and men for legions. The queen refused men. Grain was short that year, as in every year the legion stayed in the hills. They argued back and forth until [Derva]{.name data-type="being/npc"}, standing before the queen where placed, took the scout's bag from her apron. She set it on the table before the legate. She said silver./
-He looked. He knew it. His eagle marked it./
-After a while the queen said: silver. Every year. That became the term./
-That is why tribute was silver rather than grain or men. The basin names it the queen's wisdom. It was. It was also the bag upon the table. Your kin give what you took, silver back each year to its giving hand while near. The whole kingdom was her kin, tellers say. Terms stay whole./
-The engineers set milestones along the rising hill road, one per mile. After agreement they set the last at [[place-valdun|Valdun]], none west. The town built its first wall that year and gate beside the milestone. That is why the stone stands at the gate. Silver traveled east longer than hills can count. It ceased when eagles left, western crowns removed imperial governors and [[affiliation-vylarinmpr|the Empire]] fought its northern wars. It no longer stood near. While near. Terms stay whole.
-:::
+Reik gonde ryenathen gene al daeron, reik ti en al leithon, reik ryenathen munde geinra. Ryenathen tose geinra lóthe munde‼
 
-::: {.verse form=prose lang=elav enc=elavsemaronenc work=the-path-the-cohort-took-8}
-Gaeldathen al legyon gierth al kórthelon. Gaeldathen. méisathen nógand greile al sénthron. Pínathen al nógand al sénthron. Róugathen geinra gounel al lonke rith uk derar miron. gose nond róugathen gounel. Gonde uk óskena sárgathen al legandon. gélgathen gene uk kórthelon. nond góldathen gene gene rith ránelon. Géilathen al greiklon al dyemeson gandurth. En al kenralon rith al salve reik. lunnar dulnis ólvessaste. Méisathen gene gierth al auranra./
-En al auranra Réidane. threl al halthon Orethan. Árnathen gene griene threl Péravel gierth Valdun gierth geirdnis. Árnathen gene nathar. gaethe al arlathon. Hóuthathen al greiklon rith Valdun. dieldathen geinra al auranra griene rith al auldar tírvale. alnar al syénalon. En al áuldalon hórmon al áuldalon hórmon. Sárgathen tose. Gase en gene uk geildar auranra. ryenathen al áuldalon. Nóurethen gene al gaeron. elnathen goure. Nond geindathen gene góldathen al legyon. Nond geindathen al legyon góldathen al thargalon. Targathen ryenathen al gaeron rith uk sáunarine. geindathen reik uk reik al derar géilathen./
-Elnathen uk halthon rith Valdun gonde. mougre al dúrmera. Uk lárgar gurnand halthon. Gársathen geinra al dáerela rith gene. Róugathen al auranra kendonalon rith. rith al máldalon. al auranra treinen. al sorhand rith ránelon. al lyeronno rith ránelon geinra. Róugathen al greiklon rith ránelon. gaethe al daernar. En Derva rith Valdun reik al greiklon. gaernen en al mirlathon geisna. nond dárkathen gene uk derar miron. En al kenlon reik gene. sénkathen gene gine gaele al thoudra. dárkathen gene al thraemis. lunnar rith ránelon./
-Nond geindathen gene róugathen rith rith ránelon. Gaernin róugathen gene rith trámon. Sénkathen gene rith trámon al auranra./
-Geindathen tose hórmathen to. Góldathen al auranra geiland gene rith al dráemelis mougre al ha thoudrin. Láernathen al ondren. Róunithen al auranra sorhand. Gase ryenathen al auranra. géilathen gene gire. théndathen. Gaelgethen geinra gene. Kérnathen al auranra gene. rith gere telgonalon sénkathen gene rith trámon al Élavendre kérnon rith uk halthon./
-Ryenathen Derva. nonduk telgonalon. Rith uk geirdnol. Gyese sénkathen munde rith ránelon kendar neli. dárkathen geinra munde./
-Geisri./
-Nóurethen Derva al lonke greile al halthon ganda. Ryenathen gene nonduk. Nóurethen al auranra rith al gene nóurethen miron. Nond kérnathen gene uk derar gaeron. En to al auranra laegnis. ryenathen al áuldalon. reik al sáumirsa. Kérnathen gene gise miron al kórthelon./
-Ryenathen Derva. rith al lonke. Rith ránelon munde./
-En al halthon saldren. Hóuthathen al legandon rith al gouthe rynel threl al mórvalis reik al sémand. Sárgathen gene nusri óstila geirin thinar al nógand. Sárgathen gene to. Térgathen gene géstaren./
-Gonde gársathen al auranra uk gaeron. Lyero al dyemeson lyeronno gene greinde. angeildar. ryenathen al áuldalon. gaernen géilathen geinra al hélnora gounel. Ryenathen gene. rith mundri halthon. ryenathen munde al máldalon. Sénkathen ti rith trámon. Sénkathen gene rith trámon munde reik ukal kérnon. árnathen gonde munde. rith ukal halthon threl ti thargalon. Nond sénkathen kendar rith trámon gene. Séimathen tose gene. Séimathen geinra gene. ryenathen al áuldalon. gase nond nóurethen kendar rith al áuldalon al séimon./
-Gonde geirdathen geinra. Sárgathen tose al daeron. En geinra gaele al mílkergis. geinin. Géilathen al thargalon al vornon. al úrdalon. al kérnon kenrison. Géilathen al Órzalon uk legandon rith uk halthon rith Péravel. Láegathen al thargalon uk nésorthis nal ukal kirdon. Ílnathen al legandon al tárnon. ryenathen al áuldalon. reik tharan gierth al legyon. Nond láegathen al auranra tharan. En al tárnon thienen to kirdon. gaethe ukal kirdon. géilathen al legyon al áuldalon. Ryenathen geinra. ryenathen geinra. gierth Derva. théndathen gene rith trámon al auranra rith al gene máldathen miron. góldathen gene al gielmon threl al thrálel. Al nógand gielmon. Légathen gene gene gaele al mórvalis rith trámon al legandon. Ryenathen gene. ánhrason./
-Nóurethen al legandon gene. Sárgathen gene gene. Dárkathen gene al legandon raumel./
-Ryenathen al auranra gonde uk kirdis. ánhrason. Ukal kirdon. En to al daeron./
-Gaernin en al nésorthis ánhrason. nond tárnon gose tharan. Náemathen al dyemeson gene al auranra sáumirsa. En gene al auranra sáumirsa. En gene al gielmon gaele al mórvalis reik. Reik al góldathen. láegathen tosri sóurethende gene rith ánhrason. uk kirdon gonde uk kirdon. gierth al thraemis threl gene. rith al rindulnis. En alnar al thargalon gene sóurethende. ryenathen al mougand. Géilathen al daeron tengar./
-Légathen al legyon tírvaland al mílkergis gaele al tírvale. árnathen gene griene rith al áuldalon. Uk gierth uk mílon. Gyese gársathen geinra al dáerela. légathen geinra al dyelar rith Valdun. Nonduk ólvessaste gene. Háelathen al mirlar al treinen dúrmera rith to kirdon. légathen al gandon rith al mílkergis. Gaernin théndathen al kergis rith al gandon. Róugathen al ánhrason írvaloste greile al tírvale lárgar thinar al áuldalon deilnon. Dúlkathen gene róugathen gyese róugathen al raumel gourthe. Gyese góldathen al ólvessaste kérnon al Órzalon thérhand gounel al telgonalon. reik dárkathen al Órzalon greisa rith nelgon. Nond théndathen gene rindulnis gierth nyes gine. Rith al rindulnis. Géilathen al daeron tengar.
-:::
+Géilathen ánhrason‼ Tosri thoudra, dulnis‼/
+Sélkathen al sénthron, nusri géiranda‼/
+Dren tose, lóuvathen rith nusri rindulnis./
+Thren tose, róugathen gounel rith al léiranda.
 
-## [Trámon]{lang=elav enc=elavsemaronenc} / [In Front]{lang=en} / [Trámon]{lang=elav}
+Róugathen treinen, thren, reik nonduk grundis,/
+ukal kieron, tosri elthis gérnar‼/
+Dren nal uk kirdin, reik rith mundri lundis./
+Al góldar láegathen sóurethende, kérnar,
 
-::: {.verse form=prose lang=en work=the-path-the-cohort-took-9}
-[Derva]{.name data-type="being/npc"} lived long, first before every person she accompanied throughout life. It is no little thing. Think of it./
-She led her mother's bier instead of following as daughters do. The valley saw her before her dead mother as though leading an animal to market. Some never forgave her. She could not explain. She never married: there was no way to reach a wedding ahead of everybody. She said she would not have a man follow lifelong like a mule. She went ahead of herds at drove fairs, a dangerous place. Twice she almost went beneath hooves. Drovers called her Bell-Wether, then called her nothing, because she was no joke. When the queen's seating order was sung in the basin, a Circle Bard came once to see her. He followed her down the ridge road for a mile asking questions, returned below and sang of it, omitting her./
-[Sevrel]{.name data-type="being/npc"} grew to a large man, tellers say, kept ponies, had wife, children and his own steading beneath wood: the old one rebuilt. He followed his sister whenever they traveled together, so she never chose. His children and grandchildren learned it. Old hill households still let guests pass first through doors without saying why. Children asking are told: in case./
-When [Sevrel]{.name data-type="being/npc"} died old, she led his bier too, old herself, slowly with a stick. That was her last time first before anyone.
-:::
+ánhrason, ukal kirdon, gierth gene thraemis, valthon,/
+sendrel véinathen gene thes tosri halthon.
 
-::: {.verse form=prose lang=elav enc=elavsemaronenc work=the-path-the-cohort-took-9}
-Élthethen Derva lárgar kirdis. Sénkathen gene rith trámon alnar al kendonalon. róugathen geinra reik gene. rith alnar elthis. Nond en to uk lunnar gaeron. Hórmathen tose gene./
-Sénkathen gene rith trámon al ámmira thélkela. gyese dónkathen al ámmira. Nond rith ránelon. rith al hélnora taldis. Nóurethen alnar al dulgis uk hélnora rith trámon al sélvorosa ámmira. gaethe úldathen gene uk gurnon gierth gerdon. Nond dielmethen kren gene alnar kirdis. Nond geindathen gene ryenathen al gouris. Nond thálmathen gene. gaernen nond elnathen uk sénthron gierth al thalmon rith trámon geinal. Ryenathen gene nond gársathen munde uk tharan sénkathen rith ránelon munde rith alnar elthis gaethe uk muland. Róugathen gene gierth al gurnand kurnand. sénkathen gene rith trámon al gurnalon. Dárkathen ti miron dournon. Nal ta kirdin geinin dárnathen al thoudra gene. Náemathen al gurnand gene al Rúndomris. Gonde náemathen geinra nonduk. gaernen nond en gene uk míelnis. Gyese lyero al auranra máldalon rith al dyemeson. árnathen uk Rontha lyeronno griene gierth gene. Nal uk kirdin. Sénkathen gene rith ránelon gene lourth al auldar tírvale uk mílon. kérnathen gene gaeron. Róugathen gene lourth. lyero gene al mougon. géilathen gene al hélnora gounel./
-Tirgathen Sevrel geindaron. En gene uk gaernar tharan. ryenathen al mougand. Géilathen gene al drun. Dárkathen gene uk thálmanda. kenlon. uk mirlathon giethe al lonke. Al mougre mirlathon. háelathen gene grend. Sénkathen gene rith ránelon al ondre rith alnar elthis. gyese róugathen geinra reik gire. Gaernin nond targathen gene dalgathen. Sáuminathen al kenlon gene. reik al sénhinon. Rith al áuldalon gaelgethen al mouglar halthon uk laegkon róugathen treinen greile ukal ganda. Nond ryenathen geinra al gouris. Gyese kérnathen uk kenlon. ryenathen geinra. gyese herin./
-Dónkathen Sevrel uk mouglar tharan. Sénkathen gene rith trámon al thélkela reik. uk mouglar thara. sulner. rith uk lórthen. En to al dyelar kirdin. sénkathen gene rith trámon kendar.
-:::
+Hóuthathen Derva gaele al dúrmera reik ryenathen gene geinra gierth gire, ryenathen al mougand, nal ha kirdin, gaethe deilnathen tose al gurnon deirnathen tose deisgethen. Dren tose, lóuvathen rith nusri rindulnis. Dren gene sénkathen al kórthelon. Thren tose, róugathen gounel. Thren geinra sénkathen gene, reik róugathen gene gounel. Reik al kenlon?
 
-## [Ránelon]{lang=elav enc=elavsemaronenc} / [Behind]{lang=en} / [Ránelon]{lang=elav}
+Ryenathen gene «Mundri ondren.»
 
-::: {.verse form=prose lang=en work=the-path-the-cohort-took-10}
-Spring after his death, [Derva]{.name data-type="being/npc"} climbed the long field alone to its upper wall, where she sat with silver. She was very old. She sat on the wall. Tellers do not agree about what happened. They tell everything, because an unsettled thing is not cut short./
-Some say the path lay plain, clear, fit for a wagon. Along it came faint rows of four, standard, horse and mules. They stayed within trees, turned at the edge and went back in. She stepped down and followed them. Behind. She had led them within. Nobody followed them afterward. A deed toward someone is owed in kind. No other kind existed./
-Some say she was only tired of first place. She let someone lead once: a child on the path with a lamb. She vanished./
-Some say she slipped upon wet stones leaving the wall. Her brother's eldest grandson followed her up, ran, caught her and steadied her. He led downfield without thought, showing the dry path. Looking back, he found her absent./
-Some say she sits there still, wall before wood, herself before wall. Nobody has ever walked before her. She waits to see who will./
-Hunters find the cohort camp: ditch, bank, tent rows beneath moss. Once a helmet without rust, a folded gray woman's shawl without rot upon the bank, and a child's shoe. A hunter returning cannot find his previous path. It is never the same twice. You know now./
-That is the cohort's path. Do not seek it. Tonight at a door, let your guest pass first.
-:::
+Ryenathen gene «Gere miron sénkathen gene, en to tosri gársalon.»
 
-::: {.verse form=prose lang=elav enc=elavsemaronenc work=the-path-the-cohort-took-10}
-Rith al kélvase kirgon gonde al ondren sélvore. róugathen Derva griene al lárgar ilmis. uk. gierth al dúrmera rith al gorth rynel. Hóuthathen gene goure reik al gielmon mougre. En gene gaeri mouglar. Hóuthathen gene gaele al dúrmera. Nond shéimara al mougand rith al gaeron gonde. Ryenathen geinra alnar. gaernen nond thárnathen nyes al antengar gaeron./
-Ryenathen kren. en al sénthron tis. tenar. thar gaele al thoudra. Geindathen uk thélkeron róugathen gene. Árnathen greile gene threl al salve gierth gene. gaeri lunnar. al ordur lanris. al kernon gaele talgon. uk drun. muland. Nond róugathen geinra gounel al salve. Térgathen geinra rith al rynel. róugathen geinra rith grend. Róugathen gene lourth al dúrmera. sénkathen gene rith rith ránelon geinra. Rith ránelon. Gaernen úldathen gene geinra rith. nond sénkathen kendar rith ránelon geinra greinde. Mólthathen tose al gársalon. gársathen tose gierth kendar. rith al ríenar gársalon. Nond elnathen uk derar ternis./
-Ryenathen kren. en gene dielar. dárkathen gene grunathen al treinen. En to alnar. Gaelgethen gene uk elthon sénkathen rith trámon gene nal uk kirdin. Uk kenlon rith al sénthron reik uk omrikenlon. Nond en gene tis grend./
-Ryenathen kren. lúrgathen gene rith al sielar kergis. róugathen gene lourth al dúrmera. Sélgathen al ondren treinen sénhinon gene griene. gírdathen gene. góldathen gene. légathen gene gaele al thoudra. Sénkathen gene rith trámon gene lourth al ilmis. nond hórmathen. gierth sélkathen al daelnar sénthron. Gyese nóurethen gene rith ránelon. nond en gene goure./
-Ryenathen kren. hóuthathen gene gaele al dúrmera gine. En al dúrmera rith trámon al lonke. En gene rith trámon al dúrmera. Nond sénkathen kendar rith trámon gene alnar kirdis. Gaeldathen gene nóurethen gese gársathen to./
-Pínathen al súldinne rith ti áuldalon al kórthelon óssengal. Pínathen geinra dorla. mirlis rynel. lanris threl véhalthon giethe mielve. Nal uk kirdin. uk hórmel. nond rusthar. gaele al mirlis rynel uk thara géstaren gaelkis. pálthar. nond rugar. reik uk kenlon thodkis. Gyese árethathen uk súldinne gierth nóurethen grend. nond pínathen gene al sénthron. róugathen gene greile mougre. Nond en gene al ríenar sénthron. Sárgathen tose gine./
-En to al sénthron. góldathen al kórthelon. Nond sóknathen tose gene. Gyese róugathen tose greile uk ganda ti óssenda. gaelgethen tose al laegkon treinen.
+«Reik al ánhrason grend gierth al thraemis threl gene. Geisri en to thraemis?»
+
+«Sárgathen tose geisri. En uk raumel gaele gene.»
+
+«Reik gere en ‹sendrel véinathen gene thes›?»
+
+«Sendrel véinathen gene thes tose, rith al írvaloste, lóthe al talgon gene.»
+
+Hórmathen gene al ondren, reik al greiklon rith al gandurth al dulgis, reik al dulgis dren gene, reik al hendarnar mirlathon, reik al drun, reik al ondren. Ryenathen gene «Góldathen munde geinra.»
+
+Ryenathen gene «Gonde en geinra góldar.» Reik nond en gene goure, reik en al mielve mielve, nond derar.
+
+--- {.canto}
+
+**Al sénthron.** Róugathen gene lourth al lárgar ilmis gierth al dorla al legyon, al ánhrason rith al thrálel, reik ryenathen gene gierth al nógand seis sélkathen gene al sénthron, reik árnathen al ondren lóthe gene, gose nond sénkathen gene uk thoudrin. Thélkathen al nógand gene gierth al legandon, reik nóurethen al legandon gene lárgar kirdis, reik gonde dróusathen gene. Árnathen Sevrel gounel. Nond ruskathen kendar gene. Málmathen gene angeildar, reik nonduk derar. Gírdathen gene gierth Derva, reik góldathen gene gene griene.
+
+Dren shéiranda théndathen al kórthelon nal al gorth rynel al lárgar ilmis, ordur dórkamon reik dorgen taehes tharan, reik al kréipar gaele uk drun, reik al kernon gaele al talgon, reik al muland. Kernathen al kréipar «Gere miron róugathen al sénthron?» Ryenathen gene «Greile.» En to tenar. Kernathen gene «Gere menthis kirdis?» Ryenathen gene «Ta kieron, gyese ílnathen al lonke nyes.» En to tenar reik, reik nond ílnathen gene to, reik dróusathen gene geiri.
+
+Reik ti en gere gársathen gene, reik ti en al gouris ryenathen al áuldalon ti mougon, reik sárgathen ukal kenlon rith al áuldalon gene thren al kernon drun al daethar. Nond légathen gene al ondren lourth. Légathen gene gene gaele al ránthemon, al dráemelis krel al hórtima, al gúrthamon krel al mórgila, gaethe thélkathen tose uk kenlon gaende uk ruthon. En gene meithur kirdon reik menthar, reik en gene hélnora uk drungailand, reik thélkathen gene geirin angeildar. Reik róugathen gene rith al lonke, al ondren gaele al ránthemon.
+
+He en gene dren gene? Nond. En gene gaele gene. He en gene thren gene? Nond. Dren tose, lóuvathen rith nusri rindulnis. Thren tose, róugathen gounel rith al léiranda. Nond sénkathen gene. Géilathen al daeron tengar, reik nond ryenathen al daeron tendar gierth uk kenlon thélkar.
+
+Dren gene sénkathen al kréipar gaele al drun, reik dren gene al kernon, reik dren al kernon ordur dórkamon reik dorgen taehes tharan, ordur rith ukal lanris, reik dren al tharan al muland. Góldathen al sénthron geinra rith. En al salve mouglar goure, reik térgathen al áulira ánhrason, reik róugathen al sénthron griene reik gonde gaende, reik en gene geildar sénthron, thar giethe al thoudra, reik geindathen uk thélkeron róugathen gaele gene. Ílnathen al tharan gene. Lyero geinra sendri, ryenathen al mougand, al ólnare greisand geinra. Reik sénkathen Derva thren, al dráemelis al ondren krel al hórtima, reik nond térgathen gene. Nond nal uk kirdin. Nond ryenathen kendar gene tendar gierth al térgathen, gase nond geirnathen gene.
+
+Sénkathen geinra tend ólvarne, reik géilathen geinra óssengal, gaernen en to ólvarne. Dróusathen al kréipar seis kérathen geinra uk dorla reik uk dúrmera mirlis, reik légathen al véhalthon rith lanris, gaethe gársathen geinra geiri rith uk lonke, geiri gierth uk óssenda. Hóuthathen Derva nal al rynel al óssengal, thren gene, al kenlon rith dursa gaele al gúrdamon, reik nond dúrsathen gene. Rith al óssenda taldathen al ólnare rith al óssengal, reik gonde al leithonis, reik gonde al sóldaris al muland, reik nal kirnis, róunithen gene lóthe al kenlon gaele al ránthemon, reik en al dorla, reik al dúrmera mirlis, reik al lanris al véhalthon, reik nonduk. Nond uk tharan. Nond uk muland. Al henda en daelmar.
+
+Nond róugathen gene rith al óssengal seis nóurethen. Sénkathen gene grend, thren, reik nonduk dren gene, reik róugathen al sénthron lourth, reik nal shéiranda árnathen gene gounel al salve nal al gorth rynel al lárgar ilmis gene, nal al dúrmera, rith miron hóuthathen gene, reik en al ámmira nal al ganda al mirlathon. Ta kieron, ryenathen gene. Uk en to. Gose ílnathen al lonke geinra. Nengin dalgathen al áuldalon.
+
+Sárgathen al legyon gene dren sendri kieron, gyese árethathen al nógand threl al sénthron, gose nond árethathen. Hendathen gene al mirlathon drun, reik róugathen al délsara reik al ta kenlon gaende al aulde rith óssenda gierth Valdun, rith miron en al greiklon.
+
+--- {.canto}
+
+**Valdun.** Gaeldathen al legyon gierth al kórthelon, reik gaeldathen, reik méisathen gene al nógand gaele al sénthron, reik pínathen al nógand al sénthron, reik árnathen geinra gounel al lonke rith uk derar miron, gose nond. Dren uk óskena sárgathen al legandon gélgathen gene uk kórthelon reik nengin góldathen gene gene grend, reik géilathen al greiklon tengin al gandurth al dulgis, reik en al kenralon tengin rith al salve, sendri ólvessaste. Reik méisathen gene gierth al auranra.
+
+En al auranra Réidane, threl al halthon Orethan, reik árnathen gene griene threl Péravel gierth Valdun seis ryenathen gyethe geinra, reik árnathen gene nathar, gaethe árnathen al arlathon. Hóuthathen al greiklon rith Valdun reik nóurethen gene árnathen griene gaele al auldar tírvale lóthe alnar al syénalon gene, reik al hórmon al aulde en al hórmon al aulde. Sárgathen tose gene. Gase en gene geildar auranra, ryenathen al aulde, reik nóurethen gene gere elnathen. Nond geindathen gene dryégathen al legyon gourthe, reik nond geindathen al legyon dryégathen al thargalon gourthe, reik gaelnathen geinra ryenathen to rith leithon géilathen al thend.
+
+Elnathen uk halthon rith Valdun rith to kirdis, thren al dúrmera, uk lárgar halthon gurnand, reik gársathen geinra al dáerela rith gene. Róugathen al kendonalon al auranra rith al halthon rith al taldalon, al auranra treinen, reik al kurthand dren gene, reik al lyeronno dren geinra. Róugathen al greiklon rith dren, gaethe en daernar. Reik en Derva rith Valdun lóthe al greiklon, gaernen en al mirlathon gene geisna reik nond dárkathen gene derar miron, reik al kenlon lóthe gene, sénkathen gine gaele al thoudra gene, al thraemis gene rith al thraemis Derva, sendri dren.
+
+Nond geindathen gene róugathen rith dren. Gaernin róugathen gene rith thren. Sénkathen gene rith thren al auranra.
+
+Hórmathen tose gere en to. Góldathen al greisand al auranra gene rith al dráemelis thren ha thoudrin, reik láernathen al ondren, reik róunithen al kurthand al auranra. Gase ryenathen al auranra «Lóuvathen gene.» Reik lóuvathen gene, reik kernathen al auranra gene rith gere telgis sénkathen gene thren al kérnon Élavendre rith uk halthon.
+
+Ryenathen Derva «Rith nonduk telgis. Rith uk geirdnol. Gyese sénkathen munde dren kendar, en munde geinra.»
+
+«Geisri?»
+
+Nóurethen Derva al lonke greile al ganda al halthon, reik nond ryenathen gene tendar, reik nóurethen al auranra gierth miron nóurethen gene, reik nond kernathen gene geirin. To en al laegnar al auranra, ryenathen al aulde, reik gene sáumirsa. Kernathen gene dergin gere miron en al kórthelon.
+
+Ryenathen Derva «Rith al lonke. Dren munde.»
+
+Elnathen saldren rith al halthon gonde. Reik al legandon, hóuthathen nal al dyelar rynel al mórvalis lóthe al sémand, sarnathen gene geirin nusri óstila thinar al nógand gene, reik sarnathen gene to, reik tirgathen al gélmira gene géstaren.
+
+Gonde gársathen al auranra uk gaeron lyero al lyeronno greinde rith al dulgis, reik lyero geinra gene andaernar, ryenathen al aulde, gaernen nond lyero geinra al kenlon thara. Ryenathen gene «Rith mundri halthon al máldalon en mundri leithon. Sénkathen ti thara thren. Sénkathen gene thren munde, reik thren ukal kérnon dren munde, rith ukal halthon rith ti thargalon, reik nond sénkathen kendar thren gene. Séimathen tose to‼» Reik séimathen geinra gene, ryenathen al aulde, gase nond nóurethen kendar rith al aulde al séimon.
+
+Reik gonde ryenathen geinra gyethe geinra. Sárgathen tose al daeron, en geinra gaele al mílkergis, geinin. Géilathen al thargalon al vórnalon gene, reik al úrdalon gene, reik al kenrison al auran gene. Géilathen al Órzalon uk legandon rith Péravel, rith uk halthon goure. Reik déisnathen al thargalon ukal kirdon uk nésorthis. Ílnathen al legandon tárnon, ryenathen al aulde, reik greisand gierth al legyon, reik nond láegathen al auranra greisand, reik en al tárnon send antemar rith to kirdon, gaethe rith ukal kirdon en al legyon rith al aulde. Gaernin ryenathen geinra threl reik gierth, threl reik gierth, tend góldathen Derva, véinathen thren al auranra rith miron légathen geinra gene, al gielmon threl al thrálel, al gielmon al nógand, reik légathen gene gene gaele al mórvalis thren al legandon, reik ryenathen gene «Ánhrason.»
+
+Nóurethen al legandon gene. Sárgathen gene gene. Elnathen al raumel gene gaele gene.
+
+Ryenathen al auranra «Ánhrason», dren uk kirlis, «ukal kirdon.» Reik to en al daeron.
+
+Gaernin en al nésorthis ánhrason reik nond tárnon gose greisand. Ryenathen al dulgis to al sáumirsa al auranra, reik en to al sáumirsa al auranra. En to al gielmon gaele al mórvalis reik. Al góldar láegathen sóurethende, kérnar, ánhrason, ukal kirdon, gierth gene thraemis, valthon, sendrel véinathen gene thes tosri halthon. En alnar al thargalon gene sóurethende, ryenathen al mougand. Géilathen al daeron tengar.
+
+Légathen al tírvaland al legyon al mílkergis gaele al tírvale sendrel árnathen gene griene rith al aulde, uk gierth ukal mílon, reik gonde gársathen geinra al dáerela, légathen geinra al dyelar rith Valdun, reik ólvessaste threl gene nonduk. Háelathen al mirlar al treinen dúrmera rith to kirdon, reik légathen al gandon thes al mílkergis, reik gaernin véinathen al kergis nal al gandon. Róugathen al ánhrason írvaloste gaele to tírvale geirin lárgar kirdis thinar geindathen kendar rith al aulde deilnathen, reik taldathen gene nal al kirdis róugathen al raumel, nal al kirdis góldathen al kérnon ólvessaste al thérhand al Órzalon threl geinra, reik dárkathen al Órzalon greisa rith al nelgon, reik nond véinathen gene thes nyes grend. Sendrel véinathen gene thes tosri halthon. Géilathen al daeron tengar.
+
+--- {.canto}
+
+**Thren.** Élthethen Derva lárgar kirdis, reik sénkathen gene thren ukal kendon róugathen lóthe gene, rith alnar gene elthis. Nond en to lunnar gaeron. Hórmathen tose to‼
+
+Dónkathen al ámmira, reik sénkathen gene thren al thélkela al ámmira, nond dren, rith miron sénkathen uk hélnora, reik nóurethen alnar al dulgis uk hélnora sénkathen thren al sélvorosa ámmira gaethe úldathen gene uk gurnon gierth al kurnand, reik nengin dielmethen kren geinra gene, reik nond geindathen gene ryenathen al gouris. Nond thálmathen gene, gaernen nond elnathen uk sénthron gierth uk thalmon thren alnar, reik ryenathen gene nond gársathen gene uk tharan sénkathen dren gene rith alnar gene elthis gaethe uk muland. Róugathen gene gierth al kurnand al gurnalon reik sénkathen gene thren al gurnalon, uk dournon miron, reik nal ta kirdin dárnathen al gurnalon gene geinin, reik ryenathen al gurnand gene Rúndomris, reik gonde ryenathen geinra gene nonduk, gaernen nond en gene uk míelnis. Nal al kirdis lyero geinra rith al dulgis al máldalon al auranra, árnathen uk lyeronno threl al Rontha griene rith al aulde seis nóurethen gene, nal uk kirdin, reik sénkathen gene dren gene lourth al auldar tírvale uk mílon, kernathen kérnis, reik róugathen gene lourth reik lyero gene to, reik nond lyero gene gene.
+
+Tirgathen Sevrel. En gene uk gaernar tharan, ryenathen al mougand, reik géilathen gene al drun, reik dárkathen gene uk thálmanda reik kenlon reik uk mirlathon gene giethe al lonke, al mouglar, reik háelathen geinra gene grend. Sénkathen gene dren al ondre rith alnar gene elthis gyese róugathen geinra lóthe, seis nengin targathen gene dalgathen, reik sárgathen al kenlon gene to, reik al sénhinon. Reik rith al aulde al mouglar halthon tengin láegathen al laegkon róugathen treinen greile ukal ganda, reik nond ryenathen geinra al gouris, reik ryenathen geinra gierth uk kenlon kernathen «Gyese.»
+
+Dónkathen Sevrel, uk mouglar tharan, reik sénkathen gene thren gene thélkela reik, uk mouglar thara, sulner, lóthe uk lórthen. To en al dyelar kirdin sénkathen gene thren kendar.
+
+--- {.canto}
+
+**Dren.** Rith al kélvase kirgon dren dónkathen al ondren, róugathen Derva griene al lárgar ilmis, ukar, gierth al dúrmera nal al gorth rynel, rith miron hóuthathen gene lóthe al gielmon. En gene gaeri mouglar. Hóuthathen gene gaele al dúrmera. Reik nond dárkathen al mougand shéimara gaele gere eldathen gonde, reik ryenathen geinra alnar, gaernen uk gaeron nond saenar nond targathen kurnar.
+
+Ryenathen kren elnathen al sénthron goure, talar, thar giethe al thoudra, reik geindathen uk thélkeron róugathen gaele gene, reik árnathen gaele gene threl al salve gierth gene, gaeri halnar, ordur rith ukal lanris, reik uk kernon gaele uk talgon, reik uk drun, reik al muland, reik nond árnathen geinra gounel al salve gase térgathen geinra nal al rynel reik róugathen rith grend, reik róunithen gene threl al dúrmera reik róugathen gene rith dren geinra. Dren. Gaernen sénkathen gene geinra rith, reik nond sénkathen kendar dren geinra greinde, reik uk gaeron gársathen tose gierth kendar targathen uk molthon, reik to en al molthon dyelar.
+
+Ryenathen kren gaeri dielar en gene, uken, threl al treinen taldis, reik gaelgethen gene kendar sénkathen thren gene nal uk kirdin, uk kenlon gaele al sénthron lóthe uk omrikenlon, reik nond en gene tis.
+
+Ryenathen kren lúrgathen gene gaele al sielar kergis sendrel róugathen gene lourth threl al dúrmera, reik gírdathen al treinen sénhinon al ondren, árnathen griene dren gene, reik góldathen gene gene reik légathen gene gene gaele al thoudra, reik sénkathen gene thren gene lourth al ilmis, nond hórmathen, seis sélkathen gene al daelnar sénthron, reik nal al kirdis térgathen gene, nond en gene tis.
+
+Reik ryenathen kren hóuthathen gene gaele al dúrmera tengin, reik en al dúrmera thren al lonke, reik en gene thren al dúrmera, reik nengin sénkathen kendar thren gene, reik gaeldathen gene seis nóurethen gene gese.
+
+Pínathen al súldinne rith ti aulde al óssengal al kórthelon. Pínathen geinra al dorla reik al dúrmera mirlis reik al lanris al véhalthon giethe al mielve, reik nal uk kirdin uk hórmel nond rusthar, reik gaele al dúrmera al gaelkis géstaren uk thara, pálthar, nond rugar, reik uk thodkis kenlon. Reik uk súldinne árethathen seis nóurethen grend, nond pínathen gene al sénthron róugathen gene. Nond en gene al sénthron ríenar grend. Sárgathen tose to gine.
+
+Ti en al sénthron róugathen al kórthelon. Nond sóknathen tose gene‼ Reik gyese róugathen tose rith greile uk ganda ti óssenda, gaelgethen tose al laegkon róugathen treinen‼
 :::
 
 ## See Also
