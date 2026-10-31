@@ -97,13 +97,13 @@ The Maple People value most the open word, the agreement everyone has reached, t
 
 ## The Man Admired
 
-[Skahniotiaro]{.name data-type="being/npc"} of the Elk clan is a speaker of the Birch People in the western forest, and the western villages name him when they say what a man should be. He was born among the Grass People and taken in a mourning war at nine. An Elk clan mother whose son had drowned that spring adopted him, raised her son's name onto him, and he became her son in full: he hunted for her longhouse, cleared her daughters' fields, and grew up speaking two tongues. Six years ago she named him her clan's speaker.
+[Skahniotiaro]{.name data-type="being/npc"} of the Elk clan is a speaker of the Birch People at [[place-kaniestraten|Birches]] in the western forest, and the western villages name him when they say what a man should be. He was born among the Grass People and taken in a mourning war at nine. An Elk clan mother whose son had drowned that spring adopted him, raised her son's name onto him, and he became her son in full: he hunted for her longhouse, cleared her daughters' fields, and grew up speaking two tongues. Six years ago she named him her clan's speaker.
 
 The western villages admire three things in him, and all three are the open word in practice. He keeps nothing: every hide he brings home goes to the longhouse, and he is the poorest man in his village and the best fed. He carries the council's word without adding to it, and he has never been caught saying more than was agreed. And he has twice carried a compact pipe to his birth people, standing in their camp as a Maple speaker and talking in their own tongue, and twice brought back a truce. His cost is that no one, including Skahniotiaro, can say which people he would stand with if a truce failed. Some in his village still watch him, after thirty years.
 
 ## The Woman Admired
 
-[Tsiorhensiwen]{.name data-type="being/npc"} of the Loon clan is the clan mother of [Tsiorhenten]{.name data-type="place/settlement"}, the Dawn Place, a village of the Dawn People on the eastern shore. Last summer a boat of men came out of the sea, men of a kind no one in the Grove has a name for, and fell on her village. They were fought off the shore, but they burned the longhouses nearest the water, killed six of her people and carried four away over the sea.
+[Tsiorhensiwen]{.name data-type="being/npc"} of the Loon clan is the clan mother of [[place-tsiorhenten|Tsiorhenten]], the Dawn Place, a village of the Dawn People on the eastern shore. Last summer a boat of men came out of the sea, men of a kind no one in the Grove has a name for, and fell on her village. They were fought off the shore, but they burned the longhouses nearest the water, killed six of her people and carried four away over the sea.
 
 The village's young men demanded a mourning war to raise the six names. There was no one to take captives from. The men from the water had gone back into the sea, and the only people within reach were the hunting bands of the northern woods, who had done the Dawn People no harm. Tsiorhensiwen refused the war. She raised two of the six names onto children born that winter and left the other four lying down until there was a better answer. The four who were taken she did not count as dead, and she has kept their names, neither lying down nor given, in a way no clan mother of the Grove has had to before. Then she moved the village inland, a year early, out of sight of the sea.
 
@@ -121,7 +121,7 @@ The Maple People write nothing down, and what holds them together is spoken, str
 
 ## The Day Kept
 
-On an ordinary day the religion is the pot and the fire. The first spoonful of every meal goes into the fire for the dead of the house, who are still near and still hungry. The corn soup (_ohsterio_) is always on, and anyone who walks into a longhouse is fed from it before anyone asks what they want. A woman spends her day in the fields with her sisters and her daughters, hoeing the hills where corn, beans and squash grow together; a man spends his away from the village, hunting, fishing, trading by canoe or clearing the ground for the next village site.
+On an ordinary day the [[lore-tiatorenhsa|Answering]], the faith of the Grove, is the pot and the fire. The first spoonful of every meal goes into the fire for the dead of the house, who are still near and still hungry. The corn soup (_ohsterio_) is always on, and anyone who walks into a longhouse is fed from it before anyone asks what they want. A woman spends her day in the fields with her sisters and her daughters, hoeing the hills where corn, beans and squash grow together; a man spends his away from the village, hunting, fishing, trading by canoe or clearing the ground for the next village site.
 
 Dreams are the other daily practice. The Maple People hold that a dream (_kahsentsia_) is the soul (_ohnionsaro_) saying what it wants, and a want unmet makes the soul sick and then the body. A person who wakes from a strong dream tells it at the fire, and the household does what it can to give the dreamer what the dream asked: a food, a visit, a name, a gift. A dream nobody can read goes to the healers (_ehniatehen_), the society of those who were once sick and were healed, who read it and answer it.
 
@@ -219,6 +219,15 @@ The Dawn People have asked the Grove for help, and the great council is still bo
 
 [[place-ostakaten|Ostakaten]]
 : the Kettle, the village where the Grove's great council sits
+
+[[lore-tiatorenhsa|Answering]]
+: the faith of the Grove: the powers, the Faces and the healers
+
+[[place-tsiorhenten|Tsiorhenten]]
+: the Dawn Place, the village the men from the water burned
+
+[[place-tsinikasiwa|First Sugar]]
+: the Rapids People's village beside the sugar bush where the Grove began
 
 [[affiliation-redstncmpct|Red Stone Compact]]
 : the peace the Maple People keep, and remember, for the other northern nations
