@@ -1778,6 +1778,29 @@ data:
       gloss: "a healer; one of the society of those who were healed"
       built: ["ehniate", "-hen"]
       source: {kind: coined}
+    - form: "ostakahen"
+      class: n
+      field: "Clan and council"
+      gloss: "the keeper of the kettle: the speaker of the host nation, who opens and closes a great council and tends its fire"
+      built: ["ostaka", "-hen"]
+      source: {kind: coined}
+    - form: "tsiotsi okwaria"
+      class: n
+      field: "Clan and council"
+      gloss: "a sapling; one the great council lets sit and speak without a line's title, for as long as he lives"
+      built: ["tsiotsi", "okwaria"]
+      source: {kind: coined}
+    - form: "tsiotarie"
+      class: n
+      field: "Clan and council"
+      gloss: "a power; a spirit; anything that wants, and can be answered"
+      source: {kind: coined}
+    - form: "tiatorenhsa"
+      class: n
+      field: "Clan and council"
+      gloss: "an answering; the giving of what a dream, a power or the dead ask for; the faith of the Grove"
+      built: ["tiatoren", "-hsa"]
+      source: {kind: coined}
     - form: "tsahsiren"
       class: n
       field: "Clan and council"
@@ -6205,6 +6228,12 @@ data:
         - "ohnakenrahion"
         - "ohsientasterio"
         - "kiontsatienha"
+        - "kwentsatiatoren"
+        - "tsihkwakariote"
+        - "kenrisatsiotie"
+        - "otsitsentiotenha"
+        - "kaniestrakerens"
+        - "osetarahion"
       male:
         - "siwenkatiro"
         - "skahniotiaro"
@@ -6214,6 +6243,12 @@ data:
         - "atoniatienha"
         - "otsenrakahtiron"
         - "tsitaratiaro"
+        - "tsikenhakahtiron"
+        - "okwiahasterio"
+        - "taroskwakerens"
+        - "tiahwentahkon"
+        - "kahsiotakariote"
+        - "ohnakensakwenta"
     clan:
       - "tiahwenkona"
       - "tsihkwakona"
@@ -6221,6 +6256,158 @@ data:
       - "otsitsenkona"
       - "tsianihakona"
       - "taroskwakona"
+  elements:
+    - form: kiontsa-
+      position: opening
+      sense: sap
+      word: kiontsa
+      examples: [kiontsarosta, kiontsatienha]
+    - {form: kahnion-, position: opening, sense: a lake, word: kahnion, examples: [kahnionsiwen]}
+    - form: tsiorhen-
+      position: opening
+      sense: the dawn country
+      word: tsiorhen
+      examples: [tsiorhensiwen]
+    - form: kwentsa-
+      position: opening
+      sense: the moon
+      word: kwentsa
+      examples: [kwentsatsiotie, kwentsatiatoren]
+    - {form: ehtsira-, position: opening, sense: the sun, word: ehtsira, examples: [ehtsiratiaro]}
+    - form: ohnaken-
+      position: opening
+      sense: corn
+      word: ohnaken
+      examples: [ohnakenrahion, ohnakensakwenta]
+    - form: ohsienta-
+      position: opening
+      sense: a cloud
+      word: ohsienta
+      examples: [ohsientasterio]
+    - {form: skahnio-, position: opening, sense: an elk, word: skahnio, examples: [skahniotiaro]}
+    - form: katsiowa-
+      position: opening
+      sense: a canoe
+      word: katsiowa
+      examples: [katsiowasterio]
+    - form: tsikahse-
+      position: opening
+      sense: a star
+      word: tsikahse
+      examples: [tsikahserahion]
+    - form: ohwaria-
+      position: opening
+      sense: the wind
+      word: ohwaria
+      examples: [ohwariatahkon]
+    - {form: atonia-, position: opening, sense: a bow, word: atonia, examples: [atoniatienha]}
+    - {form: otsenra-, position: opening, sense: fire, word: otsenra, examples: [otsenrakahtiron]}
+    - {form: tsitara-, position: opening, sense: a pine, word: tsitara, examples: [tsitaratiaro]}
+    - {form: tsihkwa-, position: opening, sense: a loon, word: tsihkwa, examples: [tsihkwakariote]}
+    - {form: kenrisa-, position: opening, sense: snow, word: kenrisa, examples: [kenrisatsiotie]}
+    - form: otsitsen-
+      position: opening
+      sense: a sturgeon
+      word: otsitsen
+      examples: [otsitsentiotenha]
+    - form: kaniestra-
+      position: opening
+      sense: a birch
+      word: kaniestra
+      examples: [kaniestrakerens]
+    - form: oseta-
+      position: opening
+      sense: the sugar maple
+      word: oseta
+      examples: [osetarahion]
+    - form: tsikenha-
+      position: opening
+      sense: copper
+      word: tsikenha
+      examples: [tsikenhakahtiron]
+    - {form: okwiaha-, position: opening, sense: a bear, word: okwiaha, examples: [okwiahasterio]}
+    - form: taroskwa-
+      position: opening
+      sense: a crane
+      word: taroskwa
+      examples: [taroskwakerens]
+    - form: tiahwen-
+      position: opening
+      sense: an otter
+      word: tiahwen
+      examples: [tiahwentahkon]
+    - form: kahsiota-
+      position: opening
+      sense: a falls
+      word: kahsiota
+      examples: [kahsiotakariote]
+    - form: siwen
+      position: either
+      sense: sweet
+      word: siwen
+      examples: [siwenkatiro, kahnionsiwen, tsiorhensiwen]
+    - {form: -rosta, position: closing, sense: boils, word: rosta, examples: [kiontsarosta]}
+    - form: -tsiotie
+      position: closing
+      sense: walks
+      word: tsiotie
+      examples: [kwentsatsiotie, kenrisatsiotie]
+    - form: -tiaro
+      position: closing
+      sense: looks
+      word: tiaro
+      examples: [ehtsiratiaro, skahniotiaro, tsitaratiaro]
+    - form: -rahion
+      position: closing
+      sense: gives
+      word: rahion
+      examples: [ohnakenrahion, tsikahserahion, osetarahion]
+    - form: -sterio
+      position: closing
+      sense: watches
+      word: sterio
+      examples: [ohsientasterio, katsiowasterio, okwiahasterio]
+    - form: -tienha
+      position: closing
+      sense: takes
+      word: tienha
+      examples: [kiontsatienha, atoniatienha]
+    - form: -tahkon
+      position: closing
+      sense: comes
+      word: tahkon
+      examples: [ohwariatahkon, tiahwentahkon]
+    - form: -kahtiron
+      position: closing
+      sense: holds
+      word: kahtiron
+      examples: [otsenrakahtiron, tsikenhakahtiron]
+    - {form: -katiro, position: closing, sense: a word, word: katiro, examples: [siwenkatiro]}
+    - form: -tiatoren
+      position: closing
+      sense: answers
+      word: tiatoren
+      examples: [kwentsatiatoren]
+    - form: -kariote
+      position: closing
+      sense: speaks
+      word: kariote
+      examples: [tsihkwakariote, kahsiotakariote]
+    - form: -tiotenha
+      position: closing
+      sense: waits
+      word: tiotenha
+      examples: [otsitsentiotenha]
+    - form: -kerens
+      position: closing
+      sense: hears
+      word: kerens
+      examples: [kaniestrakerens, taroskwakerens]
+    - form: -sakwenta
+      position: closing
+      sense: remembers
+      word: sakwenta
+      examples: [ohnakensakwenta]
   sounds:
     edges:
       - {edge: openCluster, sounds: [kw, ts, sk, st]}
@@ -6306,6 +6493,58 @@ data:
     - {name: otsitsenkona, tongue: osetakona, built: [otsitsen, -kona]}
     - {name: tsianihakona, tongue: osetakona, built: [tsianiha, -kona]}
     - {name: taroskwakona, tongue: osetakona, built: [taroskwa, -kona]}
+    - {name: kwentsatiatoren, tongue: osetakona, built: [kwentsa, tiatoren]}
+    - {name: tsihkwakariote, tongue: osetakona, built: [tsihkwa, kariote]}
+    - {name: kenrisatsiotie, tongue: osetakona, built: [kenrisa, tsiotie]}
+    - {name: otsitsentiotenha, tongue: osetakona, built: [otsitsen, tiotenha]}
+    - {name: kaniestrakerens, tongue: osetakona, built: [kaniestra, kerens]}
+    - {name: osetarahion, tongue: osetakona, built: [oseta, rahion]}
+    - {name: tsikenhakahtiron, tongue: osetakona, built: [tsikenha, kahtiron]}
+    - {name: okwiahasterio, tongue: osetakona, built: [okwiaha, sterio]}
+    - {name: taroskwakerens, tongue: osetakona, built: [taroskwa, kerens]}
+    - {name: tiahwentahkon, tongue: osetakona, built: [tiahwen, tahkon]}
+    - {name: kahsiotakariote, tongue: osetakona, built: [kahsiota, kariote]}
+    - {name: ohnakensakwenta, tongue: osetakona, built: [ohnaken, sakwenta]}
+    - {name: kahsiotaten, tongue: osetakona, built: [kahsiota, -ten]}
+    - {name: Falls Country, tongue: translation}
+    - {name: kahnionten, tongue: osetakona, built: [kahnion, -ten]}
+    - {name: Western Lakes, tongue: translation}
+    - {name: tsiorhen, tongue: osetakona, built: [tsiorhen]}
+    - {name: Dawn Shore, tongue: translation}
+    - {name: tsitaraten, tongue: osetakona, built: [tsitara, -ten]}
+    - {name: Pine Country, tongue: translation}
+    - {name: tionhseka ohiatse, tongue: osetakona, built: [tionhseka, ohiatse]}
+    - {name: Southern Rivers, tongue: translation}
+    - {name: kahnekwaroten, tongue: osetakona, built: [kahnekwaro, -ten]}
+    - {name: Hammerstone, tongue: translation}
+    - {name: tsinikwen kasiwa, tongue: osetakona, built: [tsinikwen, kasiwa]}
+    - {name: First Sugar, tongue: translation}
+    - {name: tsinikwen osetaten, tongue: osetakona, built: [tsinikwen, osetaten]}
+    - {name: First Grove, tongue: translation}
+    - {name: tsiontaha tahsiren, tongue: osetakona, built: [tsiontaha, tahsiren]}
+    - {name: New Clearing, tongue: translation}
+    - {name: kaniestraten, tongue: osetakona, built: [kaniestra, -ten]}
+    - {name: Birches, tongue: translation}
+    - {name: kenrisaten, tongue: osetakona, built: [kenrisa, -ten]}
+    - {name: Snow Place, tongue: translation}
+    - {name: ostakahen, tongue: osetakona, built: [ostaka, -hen]}
+    - {name: Keeper of the Kettle, tongue: translation}
+    - {name: tsiotsi okwaria, tongue: osetakona, built: [tsiotsi, okwaria]}
+    - {name: Sapling, tongue: translation}
+    - {name: otsiskwen ostaka, tongue: osetakona, built: [otsiskwen, ostaka]}
+    - {name: Cold Pot, tongue: translation}
+    - {name: tiatorenhsa, tongue: osetakona, built: [tiatoren, -hsa]}
+    - {name: Answering, tongue: translation}
+    - {name: otsiterie, tongue: osetakona, built: [otsiterie]}
+    - {name: Grandmother, tongue: translation}
+    - {name: teria tsiaken, tongue: osetakona, built: [teria, tsiaken]}
+    - {name: Warm Brother, tongue: translation}
+    - {name: otsiskwen tsiaken, tongue: osetakona, built: [otsiskwen, tsiaken]}
+    - {name: Cold Brother, tongue: translation}
+    - {name: otsitsen kahten, tongue: osetakona, built: [otsitsen, kahten]}
+    - {name: Great Sturgeon, tongue: translation}
+    - {name: tsiakwen, tongue: osetakona, built: [tsiakwen]}
+    - {name: Faces, tongue: translation}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -6417,13 +6656,13 @@ The Maple People have heard of the south's glyphs from the One Fire's traders an
 
 A name belongs to a clan, not to the person who carries it. Each clan holds a stock of names, and a name is carried by one living person at a time. When the carrier dies, the name lies down (_ohsiren tsiatak_), and the clan is a person short until the name is raised (_ohsiren tsieren_) and given to someone new: a child, or an adopted captive who takes the dead person's place in the house along with the name. A child is named by its clan mother at the next Green Corn or Long Night after its birth, from the names lying down.
 
-A name is two words of the dictionary set together, most often a thing and what it does: _Kiontsarosta_, Boils the Sap; _Skahniotiaro_, Watches the Elk. A child carries a child's name until its youth, and then takes an adult name from the same stock. A speaker's title is a name too, and the one name that is never left lying down.
+A name is two words of the dictionary set together, most often a thing and what it does: _Kiontsarosta_, Boils the Sap; _Skahniotiaro_, Watches the Elk. [Making names](#making-names) gives the parts a new name is built from. A child carries a child's name until its youth, and then takes an adult name from the same stock. A speaker's title is a name too, and the one name that is never left lying down.
 
 ### Name Lists
 
-**Women's names:** Kiontsarosta, Kahnionsiwen, Tsiorhensiwen, Kwentsatsiotie, Ehtsiratiaro, Ohnakenrahion, Ohsientasterio, Kiontsatienha
+**Women's names:** Kiontsarosta, Kahnionsiwen, Tsiorhensiwen, Kwentsatsiotie, Ehtsiratiaro, Ohnakenrahion, Ohsientasterio, Kiontsatienha, Kwentsatiatoren, Tsihkwakariote, Kenrisatsiotie, Otsitsentiotenha, Kaniestrakerens, Osetarahion
 
-**Men's names:** Siwenkatiro, Skahniotiaro, Katsiowasterio, Tsikahserahion, Ohwariatahkon, Atoniatienha, Otsenrakahtiron, Tsitaratiaro
+**Men's names:** Siwenkatiro, Skahniotiaro, Katsiowasterio, Tsikahserahion, Ohwariatahkon, Atoniatienha, Otsenrakahtiron, Tsitaratiaro, Tsikenhakahtiron, Okwiahasterio, Taroskwakerens, Tiahwentahkon, Kahsiotakariote, Ohnakensakwenta
 
 **Clans:** Tiahwenkona (Otter), Tsihkwakona (Loon), Skahniokona (Elk), Otsitsenkona (Sturgeon), Tsianihakona (Porcupine), Taroskwakona (Crane)
 
@@ -6554,7 +6793,18 @@ ORDER BY position
 
 ## Making names {#making-names}
 
-**A person** carries a name from the clan's stock, two words set together: _kiontsarosta_ is _kiontsa_, sap, and _rosta_, to boil. **A clan** and **a nation** are a word with _-kona_: _tiahwenkona_, the Otter clan, and _tsikenhakona_, the Copper People. **A place** names what it is or what stands there: _ostakaten_ is the place of the pot, the Kettle, and _tsikenha kahnion_ is the Copper Lake.
+**A person** carries a name from the clan's stock, two words set together: _kiontsarosta_ is _kiontsa_, sap, and _rosta_, to boil.
+
+A new name is made when a clan mother adds one to her clan's stock, which she does when the clan has grown and the names lying down run short. She takes a thing of the lake, the forest or the sky and sets after it what it does, both words whole and unchanged: _tsihkwa_ (a loon) and _kariote_ (to speak) make _Tsihkwakariote_, Loon Speaks, and _tsikenha_ (copper) and _kahtiron_ (to hold) make _Tsikenhakahtiron_, Holds Copper. A name is the same for a girl or a boy, and _siwen_ (sweet) may stand at either end. The parts below are the ones the clan stocks already use.
+
+```sql
+SELECT '`' || form || '`' AS "Element",
+       CASE element_position WHEN 'opening' THEN 'first' WHEN 'closing' THEN 'last' ELSE 'first or last' END AS "Stands",
+       sense AS "Sense", array_to_string(examples, ', ') AS "Example"
+FROM elements WHERE language = 'thalorna-note-skill-osetakonalng' ORDER BY position
+```
+
+**A clan** and **a nation** are a word with _-kona_: _tiahwenkona_, the Otter clan, and _tsikenhakona_, the Copper People. **A place** names what it is or what stands there: _ostakaten_ is the place of the pot, the Kettle, and _tsikenha kahnion_ is the Copper Lake. A country is named with _-ten_ for what fills it, as _kahsiotaten_, the Falls Country, and _tsitaraten_, the Pine Country. A village keeps its name when it moves, so _tsiorhenten_, the Dawn Place, still carries the name of the shore it can no longer see.
 
 **The people** are _osetakona_, the people of the maple, and the name these pages give them is the Maple People. They picture their league as a sugar bush (_osetaten_), many trees tapped for one sugar, and call it the Grove. The south calls them _Shik'ul Ch'akal_, after the great lakes of their country, and its traders call them the Otter People, after the otters carved on their canoe prows.
 

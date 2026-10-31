@@ -36,6 +36,32 @@ test("Osetakona words keep the palette: lowercase, no sound made with the lips, 
         }
 });
 
+/** An Osetakona form uses no sound made with the lips or left out, and closes on a vowel, `n`, `s` or `k`. */
+const keepsPalette = (bare) =>
+    !/[bcdfgjlmpquvxz]|sh|th|kh/u.test(bare) && /(?:[aeio]|n|s|k)$/u.test(bare);
+
+test("Osetakona names are two whole words of the language and keep the palette", () => {
+    const { elements, names } = language.data;
+    const bare = (e) => e.form.replace(/^-|-$/gu, "");
+    const firsts = elements.filter((e) => e.position !== "closing").map(bare);
+    const lasts = elements.filter((e) => e.position !== "opening").map(bare);
+    for (const e of elements) {
+        assert.equal(bare(e), e.word, `${e.form}: the element is the whole word`);
+        assert(
+            words.some((w) => w.form === e.word),
+            `${e.form}: ${e.word} is not a word of the language`,
+        );
+    }
+    const built = (name) => firsts.some((a) => lasts.some((b) => name === a + b));
+    for (const e of elements)
+        for (const example of e.examples ?? [])
+            assert(built(example), `${example} is not a first and a last element`);
+    for (const name of [...names.given.female, ...names.given.male]) {
+        assert(built(name), `${name} is not built from the elements`);
+        assert(keepsPalette(name), name);
+    }
+});
+
 test("Osetakona states each form once", () => {
     const seen = new Set();
     for (const { form } of words) {
