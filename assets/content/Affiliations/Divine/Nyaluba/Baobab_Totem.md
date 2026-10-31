@@ -31,7 +31,7 @@ data:
       - level: 3
         title: Spirit-Speaker
         description: >-
-          The kwendari zohiring—permitted to perceive, address and negotiate with the spirits on the clan's behalf, and answerable for what is asked of them.
+          The zherami nyende—permitted to perceive, address and negotiate with the spirits on the clan's behalf, and answerable for what is asked of them.
       - level: 4
         title: Elder Shaman
         description: >-
@@ -41,7 +41,7 @@ data:
         Custodian of one ancient tree and the town gathered around it; by custom the senior griot of that town holds the office.
       Senior Griot: >-
         Keeper of the Long Pact and of the genealogies of all five clans—the office on which the confederation's memory rests.
-      Kwendari Zohiring: >-
+      Zherami Nyende: >-
         Spirit-Speaker of the baobab, who addresses the guide at the seasons and at every gathering held beneath it.
       Keeper of the Tally: >-
         Recorder of the offerings owed by each household of the town to its tree.

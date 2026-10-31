@@ -31,7 +31,7 @@ data:
       - level: 3
         title: Spirit-Speaker
         description: >-
-          The kwendari zohiring—permitted to perceive, address and negotiate with the spirits on the clan's behalf, and answerable for what is asked of them.
+          The zherami nyende—permitted to perceive, address and negotiate with the spirits on the clan's behalf, and answerable for what is asked of them.
       - level: 4
         title: Elder Shaman
         description: >-
@@ -39,7 +39,7 @@ data:
     offices:
       Guardian of a Crossing: >-
         Warden of one dangerous reach or ford and of who may enter it; a different Spirit-Speaker holds each, and none holds two.
-      Kwendari Zohiring: >-
+      Zherami Nyende: >-
         Spirit-Speaker of the crocodile—the most sought of any clan's, called across the savannahs for judgment, healing and the negotiation of difficult spirits.
       Griot of the Kolembozi: >-
         Keeper of the river genealogies, which name the crocodiles as well as the people.
@@ -59,7 +59,7 @@ sohl: {system: {commonSkills: [crocodilekolembozisprt]}}
 
 The **Crocodile Totem** centers on the [[lore-crocodilekolembozispr|Crocodile Spirit]], the guide of the [[affiliation-nylbtrblntn|Kolembozi]], the river-people of the eastern wetlands. Of the five guides it is the one most often **appeased** rather than venerated—approached with exact observance and formal gift, its protocols followed without error, because the river-spirits of Kolembozi country are numerous and unforgiving and the crocodile is first among them.
 
-The Kolembozi maintain the most elaborate shamanic practice of any Nyáluba clan, and it is the crocodile that requires it. Their _kwendari zohiring_ are sought across the savannahs for matters of judgment, healing, and the negotiation of difficult spirits, and their standing rests on a simple demonstration: they deal daily with a guide that kills, and they keep their people alive doing it.
+The Kolembozi maintain the most elaborate shamanic practice of any Nyáluba clan, and it is the crocodile that requires it. Their _zherami nyende_ are sought across the savannahs for matters of judgment, healing, and the negotiation of difficult spirits, and their standing rests on a simple demonstration: they deal daily with a guide that kills, and they keep their people alive doing it.
 
 Kinship here is literal to a degree outsiders find disturbing. A Kolembozi who loses a relative to a crocodile speaks of that crocodile by name and by lineage, and considers the matter a family affair—to be settled, not avenged.
 

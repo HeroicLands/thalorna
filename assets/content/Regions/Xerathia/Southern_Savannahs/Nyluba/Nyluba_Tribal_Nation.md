@@ -103,7 +103,7 @@ Each clan is a nation of its own, sharply distinct in culture and politics, and 
 
 Ruwozi—the lion-clan. The most numerous of the five clans (perhaps eight hundred thousand people), the cattle-herders of the central plains, traditionally the first among the clans because the original Long Pact was sworn in Ruwozi country by [Nyoli Ruwozi]{.name data-type="being/npc"} herself. The Ruwozi paramount—by long custom a daughter of the senior Ruwozi lineage—convenes the Great Lubemo and bears the responsibility of speaking last when consensus is sought. Ruwozi men wear a single lion-tooth necklace at adulthood; Ruwozi women braid their hair in patterns that record their lineage genealogy. Their wealth is cattle. Their courage is their watchword. Their humor, when they have any, is dry as the dry season.
 
-Kolembozi—the crocodile-clan. The river-people of the eastern wetlands, expert in the navigation of the channels and the ritual handling of the river-spirits. Smaller in numbers than the Ruwozi (perhaps three hundred and fifty thousand) but enormously influential because the great rivers that water all of Nyáluba country pass through Kolembozi territory before reaching the sea. The Kolembozi maintain the most elaborate shamanic tradition of any clan; their _kwendari zohiring_ are sought across the savannahs for matters of judgment, healing, and the negotiation of difficult spirits. A Kolembozi who has lost a relative to a crocodile speaks of that crocodile by name and lineage and considers the matter a family affair.
+Kolembozi—the crocodile-clan. The river-people of the eastern wetlands, expert in the navigation of the channels and the ritual handling of the river-spirits. Smaller in numbers than the Ruwozi (perhaps three hundred and fifty thousand) but enormously influential because the great rivers that water all of Nyáluba country pass through Kolembozi territory before reaching the sea. The Kolembozi maintain the most elaborate shamanic tradition of any clan; their _zherami nyende_ are sought across the savannahs for matters of judgment, healing, and the negotiation of difficult spirits. A Kolembozi who has lost a relative to a crocodile speaks of that crocodile by name and lineage and considers the matter a family affair.
 
 Ngonzi—the eagle-clan. The highland people, herders and goldsmiths and inheritors of the Old Hetos. About three hundred thousand. They are the only Nyáluban clan that regularly works stone—small structures, livestock walls, ceremonial platforms—and the only one with any direct knowledge of the techniques the lost stone-builders used. Their relationship to the Old Hetos is intimate, lineal, and largely opaque to outsiders, including to other Nyáluban clans. Ngonzi gold (alluvial, panned from the highland rivers, then worked by hammer and bone-tool into ornaments and ingots) is the only Nyáluban export that reaches the northern civilizations in any quantity.
 
@@ -134,22 +134,28 @@ The lion cult's memory-song, [[lore-swearbaobab|The Swearing Under the Baobab]],
 Transcription of an oral recitation.
 
 ::: {.verse form=praise lang=en work=nyluba-tribal-nation-1}
-Now the terms. Count on one hand./
+Now the terms. Count them on one hand./
 ._One hand, five fingers._/
-First, the five raise no weapon against the five./
-They lay old cattle feuds down and never take them up again./
-._Laid down. Never taken up again._/
-Second, a spear against one is a spear against five./
+First: the five do not lift a weapon against the five,/
+and the old cattle-feuds are put down and not picked up./
+._Put down, and not picked up._/
+Second: a spear against one is a spear against five./
 ._Against one, against five._
 :::
 
-::: {.verse form=praise lang=nyal work=nyluba-tribal-nation-1}
-ndebya nyemawa. enyi ndeyabe weyu mbeyi labwe ndawa./
+::: {.verse form=praise lang=nyal work=nyluba-tribal-nation-1 scan=tetrameter}
+ndayema nyemawa. ndeyabe weyu‼/
+ndeyabe mbeyi labwe ndawa‼/
 .labwe ndawa, labye ndaweya./
-ndebyo ndeleyo ndawa, nyemoli ndaweya shewe labweyelo mbeyosha liye nyemoli ndaweya,/
-ngwi weyu labweyemi mboyela nduloba ndebyo ngalebya, ngwi weyu shewe mbeye lowa ndayelya./
-.labweyemi ndebyo ngalebya, ngwi shewe mbeye ndayelya./
-ndebyo ndeleyo ndawi, pabweya liye ndawa lome pabweya liye ndaweya./
+labye ndawa, nyemawa ndawa,/
+ndaweya shewe labweyelo mbeyosha/
+liye ndaweya, liye ndaweya,/
+labweyemi mboyela nduloba ndebwalo,/
+ngwi shewe labweyelo lowa ndebwale./
+.labweyemi ndebwalo, shewe labweyelo./
+labye ndawi, nyemawa ndawi,/
+pabweya liye ndawa lome/
+pabweya liye ndaweya ndaza./
 .liye ndawa, liye ndaweya.
 :::
 
@@ -215,7 +221,7 @@ To the **south and southeast**, beyond the Kolembozi wetlands and the Ngonzi hig
 
 [Bonzimbe]{.name data-type="being/npc"} of the Lobwezi, senior griot of the Long Pact. The official memory-bearer of the Pact's terms, the genealogies of all five paramounts, and the recorded judgments of the previous twenty-three Lubemos. Approximately seventy years old, blind, and considered by all five clans to be the closest living thing to a neutral arbiter the Nyáluba possess.
 
-[Lusheya nu Kolembozi]{.name data-type="being/npc"}, senior _kwendari zohiring_ of the Kolembozi, said to have walked into a particular Old Heto during her initiation and emerged speaking [The Stone Tongue]{.name data-type="skill/language"}—the language no living Nyáluban understands but which the Ngonzi elders say was the speech of the lost stone-builders. The Ngonzi confirm the report; the Lobwezi griots have entered it into the Lubemo record. What the Stone Tongue is for, no one will say.
+[Lusheya nu Kolembozi]{.name data-type="being/npc"}, senior _zherami nyende_ of the Kolembozi, said to have walked into a particular Old Heto during her initiation and emerged speaking [The Stone Tongue]{.name data-type="skill/language"}—the language no living Nyáluban understands but which the Ngonzi elders say was the speech of the lost stone-builders. The Ngonzi confirm the report; the Lobwezi griots have entered it into the Lubemo record. What the Stone Tongue is for, no one will say.
 
 The griots' recital of the record, set beside a fireside telling in [[lore-stonetongue|The Stone Tongue]], keeps the entry short:
 
@@ -224,12 +230,14 @@ The griots' recital of the record, set beside a fireside telling in [[lore-stone
 Transcription of an oral recitation.
 
 ::: {.verse form=prose lang=en work=nyluba-tribal-nation-2}
-During her initiation she entered an Old Heto. She emerged speaking the Stone Tongue./
-The record gives no purpose for the Stone Tongue.
+In her initiation she walked into an Old Heto, and she came out of it speaking the Stone Tongue.
+
+What the Stone Tongue is for is not entered.
 :::
 
 ::: {.verse form=prose lang=nyal work=nyluba-tribal-nation-2}
-ndayembo nyabelomi, weyi kabolemi heto nduloba, ngwi weyi ndeyomi ndeyoma lowa, weyi nyende ngende ngabeli./
+ndayembo nyabelomi liwe weyi, weyi kabolemi heto, ngwi weyi kabolemo lowa, nyende ngende ngabeli.
+
 ndeyamo liwe ngende ngabeli shewe lome ndebyo nyendemoshi.
 :::
 

@@ -31,7 +31,7 @@ data:
       - level: 3
         title: Spirit-Speaker
         description: >-
-          The kwendari zohiring—permitted to perceive, address and negotiate with the spirits on the clan's behalf, and answerable for what is asked of them.
+          The zherami nyende—permitted to perceive, address and negotiate with the spirits on the clan's behalf, and answerable for what is asked of them.
       - level: 4
         title: Elder Shaman
         description: >-
@@ -41,8 +41,8 @@ data:
         Keeper of the genealogies, the standing pacts and the memory-songs—a people who do not write keep their whole record in this office.
       Drum-Speaker: >-
         Carries word across the drum-network, and keeps the ceremonial drumming without which the rites do not begin.
-      Kwendari Zohiring: >-
-        "Teacher of the spirit"—the Spirit-Speaker who addresses the spirits for the clan and reports what they answer.
+      Zherami Nyende: >-
+        The Spirit-Speaker who addresses the spirits for the clan and reports what they answer.
       Elder Shaman: >-
         Of the council whose judgment settles what the younger Spirit-Speakers dispute; the tradition's nearest thing to authority, and it is collective.
       Guardian of a Sacred Site: >-
@@ -131,7 +131,7 @@ function is distributed across four roles, and individuals commonly hold more th
   [[skill-nyalbnlng|Nyáluban tongue]]. They call a clan to assembly, summon a distant shaman, and
   carry announcement across many miles; in religious life they keep the ceremonial drumming
   without which the rites do not begin.
-- **Spirit-Speakers** (_kwendari zohiring_, "teachers of the spirit")—those taken through the
+- **Spirit-Speakers** (_zherami nyende_, "speakers with the spirits")—those taken through the
   ordeal and trained to perceive, address and negotiate with the guides on the clan's behalf.
   Each allied guide is met through its own discipline; the Lion is not addressed as the Crocodile
   is.

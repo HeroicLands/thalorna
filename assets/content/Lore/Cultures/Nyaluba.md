@@ -54,17 +54,18 @@ The lion cult's memory-song, [[lore-swearbaobab|The Swearing Under the Baobab]],
 Transcription of an oral recitation.
 
 ::: {.verse form=praise lang=en work=nyaluba-1}
-Nine generations. The five return./
-Every one may say no. None has ever said it./
-That makes the yes precious, worth carrying./
-._None has ever said it._
+Nine generations, and the five come back./
+Each could say no. None of them has said it./
+That is why the yes is worth carrying./
+._None of them has said it._
 :::
 
-::: {.verse form=praise lang=nyal work=nyaluba-1}
-nyolawa ndaweyu, ngwi nyemoli ndaweya ndeyomo./
-ndaza ndawolu nyenda nyewemo. weyu shewe nyenda lowa ndebyo ndayebya./
-ngoyi nyewema lome mbeyami, ngwi mewo labweyela lowa./
-.weyu shewe nyenda lowa ndebyo ndayebya.
+::: {.verse form=praise lang=nyal work=nyaluba-1 scan=tetrameter}
+nyolawa ndaweyu, ngwi ndaweya ndeyomo./
+ndeyelo ndawule nyenda nyewemo./
+ndewola ndayelyo nyenda lowa./
+ngoyi nyewema lome mbeyami./
+.ndewola ndayelyo nyenda lowa.
 :::
 
 ## Five Nations, One Grammar
@@ -166,7 +167,7 @@ That is why an ordinary day looks as it does. A person speaks carefully, because
 
 ## Reaching the Dead
 
-The living reach the dead through the spirit-speaker and the griot. The spirit-speaker (_kwendari zohiring_) has been taken through the ordeal and trained to perceive, address and negotiate with the guides, each by its own discipline: the lion is not addressed as the crocodile is. The griot who holds a genealogy keeps the line to the ancestors alive by reciting it. The cost is the offering the pact names, in the season it names, and exactness: a pact misremembered is a pact broken. The ancestor-shrine of a lineage is where the offerings go. The dead reach the living in the same way as the guides, through consequence and through the spirit-speaker who reads it.
+The living reach the dead through the spirit-speaker and the griot. The spirit-speaker (_zherami nyende_) has been taken through the ordeal and trained to perceive, address and negotiate with the guides, each by its own discipline: the lion is not addressed as the crocodile is. The griot who holds a genealogy keeps the line to the ancestors alive by reciting it. The cost is the offering the pact names, in the season it names, and exactness: a pact misremembered is a pact broken. The ancestor-shrine of a lineage is where the offerings go. The dead reach the living in the same way as the guides, through consequence and through the spirit-speaker who reads it.
 
 The stone-builder dead are another matter. They are not party to the Pact and not certainly anyone's ancestors, and the eagle-guide deals with them anyway. Entry to an Old Heto is refused to everyone but the Ngonzi, and the Ngonzi and the baobab griots hold different answers on whose dead they are.
 

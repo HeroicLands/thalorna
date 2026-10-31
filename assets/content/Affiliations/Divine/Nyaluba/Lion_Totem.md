@@ -32,7 +32,7 @@ data:
       - level: 3
         title: Spirit-Speaker
         description: >-
-          The kwendari zohiring—permitted to perceive, address and negotiate with the spirits on the clan's behalf, and answerable for what is asked of them.
+          The zherami nyende—permitted to perceive, address and negotiate with the spirits on the clan's behalf, and answerable for what is asked of them.
       - level: 4
         title: Elder Shaman
         description: >-
@@ -40,7 +40,7 @@ data:
     offices:
       Guardian of the Pact-Baobab: >-
         Warden of the tree in central Ruwozi country under which Nyoli Ruwozi swore the Long Pact, and of who may approach it.
-      Kwendari Zohiring: >-
+      Zherami Nyende: >-
         Spirit-Speaker of the lion, who addresses the guide on the clan's behalf at the cattle-seasons and before any open challenge.
       Griot of the Ruwozi: >-
         Keeper of the lion genealogies and of the memory-song of the Pact's swearing.
@@ -71,17 +71,19 @@ The cult's memory-song, [[lore-swearbaobab|The Swearing Under the Baobab]], hold
 Transcription of an oral recitation.
 
 ::: {.verse form=praise lang=en work=lion-totem-1}
-Who watched?/
+And who watched?/
 ._The lion watched._/
-The song says witness. It makes no other claim./
-._Witness. No other claim._
+The song says witness. It says no more than witness./
+._No more than witness._
 :::
 
-::: {.verse form=praise lang=nyal work=lion-totem-1}
-ngwi nyewaba lashemi./
-.ruwo lashemi./
-nyembe nyenda selemba. nyembe shewe nyenda nyendele ndeyemo./
-.selemba, nyeme nyendele ndeyemo.
+::: {.verse form=praise lang=nyal work=lion-totem-1 scan=tetrameter}
+ngwi nyewaba lashemi lowa ndebyi?/
+.ruwo lashemi, ruwo lashemi./
+lewi nyembe nyenda selemba./
+lowa shewe nyenda ndayela,/
+shewe ndayela ndeyemi selemba./
+.shewe ndayela ndeyemi selemba.
 :::
 
 ## Veneration

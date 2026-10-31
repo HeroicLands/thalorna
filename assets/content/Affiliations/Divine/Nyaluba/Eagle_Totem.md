@@ -31,7 +31,7 @@ data:
       - level: 3
         title: Spirit-Speaker
         description: >-
-          The kwendari zohiring—permitted to perceive, address and negotiate with the spirits on the clan's behalf, and answerable for what is asked of them.
+          The zherami nyende—permitted to perceive, address and negotiate with the spirits on the clan's behalf, and answerable for what is asked of them.
       - level: 4
         title: Elder Shaman
         description: >-
@@ -39,7 +39,7 @@ data:
     offices:
       Guardian of an Old Heto: >-
         Warden of one ruin of the stone-builders and of who may enter it; held by a different Spirit-Speaker for each, and by no outsider ever.
-      Kwendari Zohiring: >-
+      Zherami Nyende: >-
         Spirit-Speaker of the eagle, who carries word between the living clan and the dead who built in stone.
       Griot of the Ngonzi: >-
         Keeper of the highland genealogies, including the contested descent from the stone-builders.

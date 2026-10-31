@@ -31,7 +31,7 @@ data:
       - level: 3
         title: Spirit-Speaker
         description: >-
-          The kwendari zohiring—permitted to perceive, address and negotiate with the spirits on the clan's behalf, and answerable for what is asked of them.
+          The zherami nyende—permitted to perceive, address and negotiate with the spirits on the clan's behalf, and answerable for what is asked of them.
       - level: 4
         title: Elder Shaman
         description: >-
@@ -39,7 +39,7 @@ data:
     offices:
       Guardian of a Forest Path: >-
         Warden of one route into the rainforest margin and of the observances a party must keep upon it.
-      Kwendari Zohiring: >-
+      Zherami Nyende: >-
         Spirit-Speaker of the leopard, who addresses the guide before a trading party departs and on its return.
       Griot of the Sengala: >-
         Keeper of the trade genealogies, and of which foreign peoples the clan stands in what relation to.

@@ -6161,6 +6161,16 @@ data:
       field: Everyday speech
       gloss: "shorter than the stated length"
       source: {kind: coined}
+    - form: nyendo
+      class: n
+      field: Everyday speech
+      gloss: "a word; something said, including a word given and held to"
+      source: {kind: coined}
+    - form: ndeyalwu
+      class: adj
+      field: Everyday speech
+      gloss: "fourth; occupying position four in an ordered sequence, and with ndeyelo every fourth in a recurring count"
+      source: {kind: coined}
   icon: icon-speaking
   templatePriority: null
   packFolder: language
@@ -6402,6 +6412,7 @@ data:
     - {name: Kolembozi Crocodile, tongue: translation}
     - {name: Kolembozi Totem, tongue: translation}
     - {name: kwendari zohiring, tongue: kept}
+    - {name: zherami nyende, tongue: nyaluban, built: [zherami, nyende]}
     - {name: Lawkeeper, tongue: translation}
     - {name: Leopard of the Sengala, tongue: translation}
     - {name: Leopard Spirit, tongue: translation}
@@ -6608,6 +6619,8 @@ Nyáluban is pitched and even, spoken as readily as it is drummed.
 **Clusters.** _ng_, _mb_, _nd_ and _nk_ open syllables. A short hum before the consonant, as in _um-BU-ka_, or the consonant alone, is always fine.
 
 **Endings.** Nyáluban words end in a vowel, as in _ruwo_, _nyoli_ and _Lusheya_.
+
+**Verse.** A memory-song is called by a griot and answered by those gathered, and it does not rhyme: every Nyáluban word closes on a vowel, so a rhyme costs nothing and proves nothing. Its line has four beats. Every word stresses its first syllable, so every word of two syllables or more carries one beat, and the small joining words _ngwi_, _nu_, _nde_ and _ngo_ carry none. The gathered answer is a line of four beats too, most often a two-word phrase said twice, as in _ruwo lashemi, ruwo lashemi_, "the lion watched, the lion watched". The craft is in return: a line that opens on the words the line before closed on, a run of lines that each open on the same word, and a refrain that comes back with one word changed. A clan is praised by its name and the things it stands with, as in _ngonzi mbeyi ngayela nzabi_, "Ngonzi with the red escarpment". A count is kept on the fingers, _labye ndawa_, _labye ndawi_, "finger one, finger two", until the hand is whole.
 
 **What Nyáluban leaves out.** Common spelling leaves tone unwritten, uses at most one mark in a word and has no closed syllable. A reader need not learn rising or falling tones to say a name or read a passage aloud.
 
@@ -6909,6 +6922,8 @@ Foreign scholars and traders may transcribe Nyáluban in their own writing syste
 The parallel readings on these pages are transcriptions of oral performances accompanied by translations. The vowels and stress marks help readers pronounce the words. No written original is implied.
 
 These transcriptions use full stops for sentence endings and commas for pauses. Questions use the documented question words or the clause-final _nyewala_; a rising delivery does not replace them. Make spoken attribution clear in the wording instead of depending on quotation marks. Separate and indent the gathered answer in a call-and-response. These readings need no additional pitch or verse-end signs.
+
+They follow the standard roman punctuation of every tongue on these pages, so a question also ends with `?`, a command with `‼`, and quoted speech stands between `«` and `»` as well as being named in the wording.
 
 ## Historical Development
 
