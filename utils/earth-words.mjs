@@ -94,6 +94,8 @@ export const SOURCES = {
     "Helonic.md": ["ancient-greek"],
     "Jurthat.md": ["japanese"],
     // The word lists hold no kwakwala or nuu-chah-nulth list, so a Kelwanuk coinage is checked by reading.
+    // The word lists hold no cree list, and the Kawiskak note states names only, so its coinages are checked by reading.
+    "Kawiskak.md": ["cree"],
     "Kelwanuk.md": ["kwakwala", "nuu-chah-nulth"],
     "Khazari.md": ["khuzdul"],
     "Tellumi.md": ["sogdian", "tajik", "hebrew"],

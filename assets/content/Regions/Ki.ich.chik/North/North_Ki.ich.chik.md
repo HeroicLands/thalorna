@@ -72,7 +72,7 @@ Whether a danger to one nation is a danger to all is the question the compact ar
 
 The [Red Quarry]{.name data-type="place/site"}, where the compact's council meets, lies on the prairie where the lands of the Grass People, the Maple People and the One Fire meet. No blood may be shed there.
 
-North of the Maple People and the grasslands, the boreal forest runs out into tundra. It is sparse hunting country, held by small bands of caribou hunters at the edge of the Maple People's reach and the Ice-Coast Hunters' coast.
+North of the Maple People and the grasslands lies the [[place-kawiskakrgn|Kawiskak Region]], the boreal forest of spruce, rock and lakes, which runs out into tundra at the treeline. It is sparse hunting country, held by the family bands of the [[lore-kawiskakclt|Spruce People]], who meet at the fishing lakes in summer and trade furs and copper south at the forest's edge. Beyond the treeline small bands of caribou hunters live on the barren grounds, between the Maple People's reach and the Ice-Coast Hunters' coast.
 
 ## See Also
 
@@ -87,6 +87,9 @@ North of the Maple People and the grasslands, the boreal forest runs out into tu
 
 [[place-hanalxilanrgn|Ha'nal Shi'lan]]
 : the contested river frontier
+
+[[place-kawiskakrgn|Kawiskak Region]]
+: the boreal forest of the Spruce People, north of the grass
 
 [[place-chakultzklrgn|Ch'akul Tsa'kul]]
 : the desert between north and south

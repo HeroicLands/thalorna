@@ -27,6 +27,7 @@ languages:
     khaz: { tag: art-x-khaz, note: skill-khazarlng }
     khel: { tag: art-x-khel, note: skill-khelathlng }
     kiichek: { tag: art-x-kiichek, note: skill-kiichek }
+    kwsk: { tag: art-x-kwsk, note: skill-kawiskaklng }
     nord: { tag: art-x-nord, note: skill-nordmalng }
     nyal: { tag: art-x-nyal, note: skill-nyalbnlng }
     okha: { tag: art-x-okha, note: skill-okharclng }
