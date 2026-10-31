@@ -1,9 +1,9 @@
 ---
-shortcode: drmndtrb
-name: {full: Durmand}
+shortcode: kndrtrb
+name: {full: Kenodur}
 type: affiliation
 subType: polity
-description: "A horse-breeding tribe of the eastern grass whose wells held in a drought year and whose traders sell to every camp."
+description: "A raiding tribe of the southern steppe that takes captives for ransom and measures its neighbors by what they cannot defend."
 tags: [draft]
 data:
   culture: sowidesclt
@@ -14,7 +14,7 @@ data:
   governance:
     model: council
     summary: >-
-      A dovaq chosen by the elders, a moot of elders, and a class of horse-traders who keep the tribe's credit with every camp they deal with.
+      A dovaq chosen by the elders, a moot of elders, and a warband that raids distant grazing and holds captives for ransom.
     ranks:
       - level: 0
         title: Kinless
@@ -53,34 +53,34 @@ data:
   economy: [lore-bartercnmy, lore-kinhalcrdt]
   lore: [humanflk]
   parents: []
-  relations: {zrnshtrb: rival}
+  relations: {ksrrtrb: nemesis}
   packFolder: khazryndesert
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
 
-The **Durmand** hold the eastern grass beyond the [[affiliation-zrnshtrb|Zarnush]], and their wells held in the drought that broke the Zarnush. They breed the horses the central steppe rides: long-legged, hard in the hoof and trained to run from a standing start. A [[lore-sowidesclt|Sovidur]] rider who owns a Durmand horse knows it by the brand on the shoulder and the price he paid.
+The **Kenodur** hold the grass south of the [[affiliation-ksrrtrb|Koserur]], and they take what the Koserur cannot defend. They are the [[lore-sowidesclt|Sovidur]] tribe that the others point to as raiding done as a trade: a riding party strikes a distant graze, drives off the herds and takes the people who tend them, then sends a rider with the price. A captive among the Kenodur is fed and not harmed, and a captive whose kin cannot pay is married into the tribe.
 
-## Horses and Credit
+## The Price
 
-The Durmand trade as much as they raid. A Durmand horse-trader carries the tribe's credit in his head and sells on loan to riders he trusts, and debt is how the Durmand bind other tribes to them. A rider in debt to a Durmand trader fights beside the Durmand and sells them news, and the trader keeps the account.
+The Kenodur's demand on the Koserur is fifty horses, a share of the central well at [Shir-Van]{.name data-type="place/site"} and permanent grazing on the southern steppe, in return for eight people taken from a southern graze. The Koserur dovaq has refused. The Kenodur are in no hurry: each season the captives spend in a Kenodur camp makes them more Kenodur, and a price the Koserur cannot pay today only rises as they have less left to lose.
 
-## The Raid
+## The Marriage Offer
 
-In the year the Zarnush wells failed, a Durmand riding party drove off nearly a third of the Zarnush horses and killed two warriors. The Durmand call it a dry-year bargain and say they have no quarrel with the Zarnush. The Zarnush call it an insult they cannot yet answer. The Durmand horse-trader [Shabar Goravan]{.name data-type="being/npc"} now holds a Zarnush archer's debt and wants it repaid in information about the Zarnush wells.
+The Kenodur have offered a captive girl, the daughter of the Koserur war captain's blood-brother, in marriage to the son of their dovaq. They present it as generosity, and it is a way to end the quarrel without a ransom: the girl joins the dovaq's line, and the Koserur have no claim to take her back. The offer expires on a day the Kenodur have named, and the Koserur are divided on whether to accept.
 
 ## Caravans
 
-A caravan that crosses Durmand grass pays in horses or in goods the Durmand can trade onward, and it buys a guide from the tribe. The Durmand prefer paid passage to plunder, because a caravan that returns next year is worth more than one stripped once.
+The Kenodur sell passage to anyone who can pay and do not sell it twice. A caravan that crosses their grass uninvited pays the price in goods, and its guards pay in the trouble of being searched. The tribe takes caravan tolls as its right and the Koserur's herds as its sport.
 
 ## See Also
 
 [[lore-sowidesclt|Sovidur]]
 : the steppe tribes and what they hold a person owes
 
-[[affiliation-zrnshtrb|Zarnush]]
-: the tribe the Durmand raided
+[[affiliation-ksrrtrb|Koserur]]
+: the tribe whose people the Kenodur hold
 
-[[affiliation-zrdntrb|Azardan]], [[affiliation-shrzrtrb|Shirzari]]
+[[affiliation-jbzrtrb|Jobizur]], [[affiliation-qbdrtrb|Qibudur]]
 : the other great tribes of the central steppe
 
 [[place-khzryndsrtrgn|Khazryn Desert Region]]

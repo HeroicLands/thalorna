@@ -12,7 +12,7 @@ data:
   lore: []
   culture: sowidesclt
   homes: [kethramir]
-  affiliations: {zrdntrb: {rank: 4, office: Shaman}, zurathra: {rank: 3}}
+  affiliations: {jbzrtrb: {rank: 4, office: Shaman}, zurathra: {rank: 3}}
   gender: female
   species: humanflk
   born: 686.235

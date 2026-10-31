@@ -1,9 +1,9 @@
 ---
-shortcode: zrdntrb
-name: {full: Azardan}
+shortcode: qbdrtrb
+name: {full: Qibudur}
 type: affiliation
 subType: polity
-description: "The largest tribe of the central steppe, holding the northern grass and taking in the families of smaller tribes in bad years."
+description: "A horse-breeding tribe of the eastern grass whose wells held in a drought year and whose traders sell to every camp."
 tags: [draft]
 data:
   culture: sowidesclt
@@ -14,7 +14,7 @@ data:
   governance:
     model: council
     summary: >-
-      A dovaq chosen by the elders, a moot of elders that settles what custom does not already answer, and a circle of shamans consulted before the tribe moves.
+      A dovaq chosen by the elders, a moot of elders, and a class of horse-traders who keep the tribe's credit with every camp they deal with.
     ranks:
       - level: 0
         title: Kinless
@@ -53,34 +53,34 @@ data:
   economy: [lore-bartercnmy, lore-kinhalcrdt]
   lore: [humanflk]
   parents: []
-  relations: {zrnshtrb: unaligned}
+  relations: {ksrrtrb: rival}
   packFolder: khazryndesert
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
 
-The **Azardan** are the largest of the tribes that share the central steppe, and the one smaller tribes look to when a drought comes. They hold the northern grass of the [[place-khzryndsrtrgn|Khazryn]] and more wells than the [[affiliation-zrnshtrb|Zarnush]] to their south can count. A [[lore-sowidesclt|Sovidur]] tribe with that much water does not have to raid, and the Azardan seldom do.
+The **Qibudur** hold the eastern grass beyond the [[affiliation-ksrrtrb|Koserur]], and their wells held in the drought that broke the Koserur. They breed the horses the central steppe rides: long-legged, hard in the hoof and trained to run from a standing start. A [[lore-sowidesclt|Sovidur]] rider who owns a Qibudur horse knows it by the brand on the shoulder and the price he paid.
 
-## How the Tribe Lives
+## Horses and Credit
 
-The Azardan keep horses first and camels second. The tribe moves in a long north-south circuit, wintering at the stone wells and summering on the high grass, and its scouts ride the borders with the Zarnush and the other neighbors every season. The scouts probe and do not strike, and the Zarnush read the pressure as a reminder of who could.
+The Qibudur trade as much as they raid. A Qibudur horse-trader carries the tribe's credit in his head and sells on loan to riders he trusts, and debt is how the Qibudur bind other tribes to them. A rider in debt to a Qibudur trader fights beside the Qibudur and sells them news, and the trader keeps the account.
 
-A circle of shamans advises the dovaq on the weather, the rites and the moving of the camps, and the circle can halt a migration for an omen. [[being-rznshmrvrn|Razanash Mervaran]], a shaman of the tribe, is its best-known healer and diviner in the south, where the oasis cities hold few of her own people.
+## The Raid
 
-## Taking In
+In the year the Koserur wells failed, a Qibudur riding party drove off nearly a third of the Koserur horses and killed two warriors. The Qibudur call it a dry-year bargain and say they have no quarrel with the Koserur. The Koserur call it an insult they cannot yet answer. The Qibudur horse-trader [Shabar Goravan]{.name data-type="being/npc"} now holds a Koserur archer's debt and wants it repaid in information about the Koserur wells.
 
-The Azardan grow by receiving. Three Zarnush families who left in the last bad year found land, herds and a seat in the moot waiting for them, and the Azardan are now in quiet talks with the Zarnush dovaq about a protection that would end the Zarnush's independence in all but name. The Sovidur write nothing, so the terms are spoken before witnesses and held in their memory, and a witnessed term is harder to break than a written one.
+## Caravans
 
-Riders on other wells watch the pattern with unease. A tribe that takes in vassals one family at a time resembles an orkun before he has a banner, and the tribes that remember the last orkun watch an Azardan dovaq who counts his dependents.
+A caravan that crosses Qibudur grass pays in horses or in goods the Qibudur can trade onward, and it buys a guide from the tribe. The Qibudur prefer paid passage to plunder, because a caravan that returns next year is worth more than one stripped once.
 
 ## See Also
 
 [[lore-sowidesclt|Sovidur]]
 : the steppe tribes and what they hold a person owes
 
-[[affiliation-zrnshtrb|Zarnush]]
-: the middling tribe to the south that the Azardan may absorb
+[[affiliation-ksrrtrb|Koserur]]
+: the tribe the Qibudur raided
 
-[[affiliation-shrzrtrb|Shirzari]], [[affiliation-drmndtrb|Durmand]]
+[[affiliation-jbzrtrb|Jobizur]], [[affiliation-kndrtrb|Kenodur]]
 : the other great tribes of the central steppe
 
 [[place-khzryndsrtrgn|Khazryn Desert Region]]

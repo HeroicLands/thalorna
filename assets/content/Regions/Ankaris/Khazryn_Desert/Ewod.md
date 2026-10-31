@@ -45,4 +45,4 @@ A salt-cutter's son, working a canal bank a half day from the nearest cutting, p
 : the shore-dune hunter
 
 [[lore-waterunder|The Buried Water]]
-: the Sahri star-song of the lake that went down
+: the Oroqidur star-song of the lake that went down

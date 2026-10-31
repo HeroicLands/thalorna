@@ -116,10 +116,10 @@ Nothing is owed to a tribe that is not your own, to a stranger without a sponsor
 [[skill-sowideslng|Sovidur Language]]
 : the tongue, and the signs cut over the wells
 
-[[affiliation-zrnshtrb|Zarnush]], [[affiliation-zrdntrb|Azardan]], [[affiliation-shrzrtrb|Shirzari]], [[affiliation-drmndtrb|Durmand]]
+[[affiliation-ksrrtrb|Koserur]], [[affiliation-jbzrtrb|Jobizur]], [[affiliation-kndrtrb|Kenodur]], [[affiliation-qbdrtrb|Qibudur]]
 : four neighboring tribes of the central steppe
 
-[[affiliation-sahritrb|Sahri]] and [[affiliation-rwlstrb|Uruvolur]]
+[[affiliation-rqdrtrb|Oroqidur]] and [[affiliation-rwlstrb|Uruvolur]]
 : the bands that keep hidden water in the deep desert
 
 [[lore-hndrdbnnrs|The Storm of the Hundred Banners]]
@@ -132,7 +132,7 @@ Nothing is owed to a tribe that is not your own, to a stranger without a sponsor
 : the names of a killed tribe, held and not said at the water
 
 [[lore-waterunder|The Buried Water]]
-: the Sahri star-song of the lake under the sand
+: the Oroqidur star-song of the lake under the sand
 
 [[lore-roadnights|The Nights of the Road]]
 : the tales a caravan-master tells on the crossing

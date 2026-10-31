@@ -53,7 +53,7 @@ data:
   economy: [lore-bartercnmy, lore-kinhalcrdt]
   lore: [humanflk]
   parents: []
-  relations: {sahritrb: aligned}
+  relations: {rqdrtrb: aligned}
   packFolder: khazryndesert
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
@@ -77,7 +77,7 @@ The Uruvolur stay out of the quarrels of the grass tribes. A band that refuses t
 [[lore-sowidesclt|Sovidur]]
 : the steppe tribes and what they hold a person owes
 
-[[affiliation-sahritrb|Sahri]]
+[[affiliation-rqdrtrb|Oroqidur]]
 : the best-known Uruvolur band
 
 [[place-khzryndsrtrgn|Khazryn Desert Region]]

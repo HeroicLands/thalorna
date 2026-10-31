@@ -190,6 +190,28 @@ function withOneAccentRespellings(fm, file) {
     return walk(fm);
 }
 
+/** Register rows renamed by a ruling, by file: each baseline name, its tongue and the replacement name. */
+const registerRenames = new Map([
+    [
+        "assets/content/Skills/Languages/Dunhari.md",
+        [{ from: "sahri", tongue: "sovidur", to: "oroqidur" }],
+    ],
+]);
+
+/** The baseline with each such register row carrying its replacement name. */
+function withRegisterRenames(fm, file) {
+    const renames = registerRenames.get(file);
+    if (!renames || !Array.isArray(fm.data?.register)) return fm;
+    const copy = structuredClone(fm);
+    copy.data.register = copy.data.register.map((row) => {
+        const rename = renames.find(
+            (item) => item.from === row?.name?.toLowerCase() && item.tongue === row?.tongue,
+        );
+        return rename ? { ...row, name: rename.to } : row;
+    });
+    return copy;
+}
+
 /** Languages whose English name lists moved under `names.en`, which the encoding never reads. */
 const englishNameLists = new Map([["assets/content/Skills/Languages/Nordmal.md", ["epithet"]]]);
 
@@ -269,10 +291,13 @@ export function assertEncodingMigrationPreserved(
     const file = current.file;
     const actual = canonical(current.fm, file),
         expected = canonical(
-            withRegisterSplits(
-                withEnglishNameLists(
-                    withOneAccentRespellings(
-                        withTranslationRetags(withNameForms(before.fm, current.fm), file),
+            withRegisterRenames(
+                withRegisterSplits(
+                    withEnglishNameLists(
+                        withOneAccentRespellings(
+                            withTranslationRetags(withNameForms(before.fm, current.fm), file),
+                            file,
+                        ),
                         file,
                     ),
                     file,

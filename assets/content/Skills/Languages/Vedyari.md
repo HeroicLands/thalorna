@@ -8331,7 +8331,7 @@ data:
     - {name: jalavira, tongue: vedyari}
     - {name: meghavira, tongue: vedyari}
     - {name: kavrabira, tongue: vedyari}
-    - {name: dhanurpala, tongue: vedyari}
+    - {name: danurpala, tongue: vedyari}
     - {name: ashvakirti, tongue: vedyari}
     - {name: bhasmadasa, tongue: vedyari}
     - {name: devopala, tongue: vedyari}

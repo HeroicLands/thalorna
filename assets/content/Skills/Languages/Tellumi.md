@@ -6511,11 +6511,6 @@ data:
     - {name: The Flame-born, tongue: gloss}
     - {name: The Twelve Tribes, tongue: gloss}
     - {name: The Twelve Years, tongue: gloss}
-    - {name: Azardan, tongue: older}
-    - {name: Durmand, tongue: older}
-    - {name: Sahri, tongue: older}
-    - {name: Shirzari, tongue: older}
-    - {name: Zarnush, tongue: older}
     - {name: Hidden-Water Bands, tongue: gloss}
     - {name: The Song of the Lost Town, tongue: gloss, built: [Veshkunrelum]}
     - {name: Veshkunrelum, tongue: tellumi, built: [veshkun, relum]}
@@ -6590,11 +6585,6 @@ data:
     - {form: Razanash Mervaran}
     - {form: Sharminah Tahvan}
     - {form: Zevarad Dathvarun}
-    - {form: Azardan}
-    - {form: Durmand}
-    - {form: Sahri}
-    - {form: Shirzari}
-    - {form: Zarnush}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"

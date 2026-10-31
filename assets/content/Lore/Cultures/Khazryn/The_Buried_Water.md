@@ -3,7 +3,7 @@ shortcode: waterunder
 name: {full: The Buried Water, sovi: [Uruvolkuyad]}
 type: lore
 subType: literature
-description: "The Sahri star-song of the lake under the sand: the lake people and their canals, the wells dug down toward their dead, the water that went to ground to find them, the well-mother at the bottom of the stair, the kings in their stone houses, and the day the water comes up again, sung at the hidden oasis on the first night of the grass with a star to every stanza."
+description: "The Oroqidur star-song of the lake under the sand: the lake people and their canals, the wells dug down toward their dead, the water that went to ground to find them, the well-mother at the bottom of the stair, the kings in their stone houses, and the day the water comes up again, sung at the hidden oasis on the first night of the grass with a star to every stanza."
 tags: [draft, khazryn]
 data:
   packFolder: settinglore
@@ -14,15 +14,15 @@ data:
     - place-ewod
     - place-qelod
     - place-osikor
-    - affiliation-sahritrb
+    - affiliation-rqdrtrb
     - lore-sowidesclt
     - place-hskrrgn
   lang: sovi
 ---
 
-**The Buried Water**, _Uruvolkuyad_, is a song (_koyoz_) of the [[affiliation-sahritrb|Sahri]], the small [[lore-sowidesclt|Sovidur]] tribe of the deep desert that keeps a hidden oasis and holds prophecies in song tied to the movements of the stars. A _koyoz_ is unrhymed and sung without an instrument, and each of its stanzas opens on the thing it is about and closes on the same phrase; in a star-song the thing is a star, and the stanzas follow the stars up through the year. The eldest of the Sahri sings this one at the hidden oasis on the first night of the grass, with the tribe round the pool and the children told to watch the sky and not the singer, because the song is a way of learning where the stars stand.
+**The Buried Water**, _Uruvolkuyad_, is a song (_koyoz_) of the [[affiliation-rqdrtrb|Oroqidur]], the small [[lore-sowidesclt|Sovidur]] tribe of the deep desert that keeps a hidden oasis and holds prophecies in song tied to the movements of the stars. A _koyoz_ is unrhymed and sung without an instrument, and each of its stanzas opens on the thing it is about and closes on the same phrase; in a star-song the thing is a star, and the stanzas follow the stars up through the year. The eldest of the Oroqidur sings this one at the hidden oasis on the first night of the grass, with the tribe round the pool and the children told to watch the sky and not the singer, because the song is a way of learning where the stars stand.
 
-What it tells is the steppe's account of the ground it rides on. The heart of the sands was a lake, and a people the tribes call [[lore-basinbldrs|the Basin Builders]] and the song calls the lake people farmed its shore, cut canals, raised stepped mounds of brick and dug wells far below a lake that already gave water. The tribes hold that the lake did not dry but went down, into the ground, to find its people, and that it will come up again where the last of the builders' blood is paid for; the song gives that belief its full shape, with [[place-ewod|Evod]] the salt bed, [[place-qelod|Kelod]] the stair, the well-mother [Kelodekon]{.name data-type="being/creature"} who keeps the bottom of it, and the painted tombs of [[place-osikor|Oshiqor]] in the stone to the north. The stars are named in the song's own words, and one of them, [Khamaqjivoq]{.name data-type="lore"}, the Skull-pole, is the star the Sahri steer by. The common transcription and translation below preserve the oral song given by a Sahri ranger to a Tellumi clerk of [[place-kethramir|Kethramír]] in return for a service the clerk does not describe; where the tribes' sentence is quoted, it is the sentence every tribe of the sands teaches its children, "the water went to ground to find its people."
+What it tells is the steppe's account of the ground it rides on. The heart of the sands was a lake, and a people the tribes call [[lore-basinbldrs|the Basin Builders]] and the song calls the lake people farmed its shore, cut canals, raised stepped mounds of brick and dug wells far below a lake that already gave water. The tribes hold that the lake did not dry but went down, into the ground, to find its people, and that it will come up again where the last of the builders' blood is paid for; the song gives that belief its full shape, with [[place-ewod|Evod]] the salt bed, [[place-qelod|Kelod]] the stair, the well-mother [Kelodekon]{.name data-type="being/creature"} who keeps the bottom of it, and the painted tombs of [[place-osikor|Oshiqor]] in the stone to the north. The stars are named in the song's own words, and one of them, [Khamaqjivoq]{.name data-type="lore"}, the Skull-pole, is the star the Oroqidur steer by. The common transcription and translation below preserve the oral song given by a Oroqidur ranger to a Tellumi clerk of [[place-kethramir|Kethramír]] in return for a service the clerk does not describe; where the tribes' sentence is quoted, it is the sentence every tribe of the sands teaches its children, "the water went to ground to find its people."
 
 : The Buried Water {#song}
 
@@ -73,7 +73,7 @@ People with a lake to drink do not dig for water. They dug for something else./
 The water lies underneath. We ride upon its roof.
 
 [The Blind Eye]{.name data-type="lore"}. One pale star after the Well; the heat makes it tremble./
-The Sahri say they dug for this. Other tribes disagree./
+The Oroqidur say they dug for this. Other tribes disagree./
 They dug toward their dead. Their dead went downward,/
 as all the dead go down who are not laid beneath the sky./
 The lake people loved their dead and would not have them descend alone./
@@ -95,7 +95,7 @@ This is the tribes' sentence; every tribe of the sands says the same words:/
 the water went into the ground to find its people./
 It did not dry. The sky-father did not drink it. It went down./
 When the debt for the last lake people's blood is paid, it will rise./
-No two tribes agree where that debt stands. The Sahri do not say./
+No two tribes agree where that debt stands. The Oroqidur do not say./
 A well yielding sweet water in drought is a small part of the debt falling due./
 The water lies underneath. We ride upon its roof.
 
@@ -112,7 +112,7 @@ The water lies underneath. We ride upon its roof.
 The herders of the stone's southern edge, with their one god and flame,/
 hold the eleven ravines unclean, and burn with fire a man who wanders into one./
 We leave their name out of this song: this song belongs to us./
-Yet in one thing they are right, the Sahri say: do not descend those stairs./
+Yet in one thing they are right, the Oroqidur say: do not descend those stairs./
 A passage clear last year is heaped with stone this year, a party stranded beyond it./
 Below the third chamber in any of the eleven, the kings get up./
 The water lies underneath. We ride upon its roof.
@@ -157,10 +157,10 @@ The water lies underneath. We ride upon its roof.
 [The Four Winds]{.name data-type="lore"}. These are no stars. Here the song turns to the quarters, as a calling does./
 Wind from grass, once you were the lake's breath. Wind from heat, you dried the mud it left./
 Wind from stone, you carried the kings' names up to the ravines and left them there./
-Wind from cold, the Sahri watch you: you come from the north where the Litter stands./
+Wind from cold, the Oroqidur watch you: you come from the north where the Litter stands./
 When you arrive warm—when the cold wind comes warm from the stone range in the heart of cold—/
-the Sahri say the debt is nearly paid and the water is rising./
-It has not yet come warm. The Sahri have watched longer than the song has lived./
+the Oroqidur say the debt is nearly paid and the water is rising./
+It has not yet come warm. The Oroqidur have watched longer than the song has lived./
 The water lies underneath. We ride upon its roof.
 
 The Rider returns. Out of the western dune he stands; a year has circled underneath him./
@@ -169,7 +169,7 @@ The water will rise. From the sky? No. From underneath./
 In a night the wells will fill from below, the salt soften, the basin become lake again:/
 three days' ride round, with brick stairs standing in it up to their heads./
 The tribes of the sands will be below it, or above it in boats like the cold forest hunters./
-The Sahri do not say which. The sky-father has not spoken. We watch the north wind./
+The Oroqidur do not say which. The sky-father has not spoken. We watch the north wind./
 This ends the song. It ends nothing else./
 The water lies underneath. We ride upon its roof.
 :::
@@ -221,7 +221,7 @@ Orolqi evod ghunir qonir ghanim qaduch uruvol zodin zevik jözir. Qaduch ghozuch
 Uruvol qozabum jochun. Zilich khacham qadiz jiven khödir kodu chovin qavun.
 
 [Jelüd Chunikh]{.name data-type="lore"}. Tijod zidun joruy, Kelod zömem, orqaz qadiz zökhil qazodir./
-Sahri jidir qaduch ghozuch khizin zodin jözir zökhen javal. soqir zulod jübüz./
+Oroqidur jidir qaduch ghozuch khizin zodin jözir zökhen javal. soqir zulod jübüz./
 Qaduch vomek qaduch jiven züchir jözir. Vomek qaduch jiven jaziy qavun,/
 vomek zokhun orolqi qaduch evur qozabum zevik qodol zökhen jorun chübish,/
 jiviz orolqi evod jiven vomek qaduch jiven ghavun qonir, qaduch ghuchon jaziy qavun zevik khüket,/
@@ -243,7 +243,7 @@ Khizin yemok soqir jiven jochun, soqir khoshiq jiven zokhir yemok chüyözükh j
 uruvol orolqi qadiz jiven jeyes zodin jonkhiq qotur jaziy qavun./
 Qadiz zevik jütin zuruch. Akhaq evur qadiz zevik ghunir. Qadiz jaziy qavun./
 Jivun orolqi evod jiven jiven uruukhiq qoqam jiven jibun qojom, qazul qadiz zubosh jodur./
-Soqir chovur zusoz jibun qazukh khödir zevik khulol. Sahri zevik javal./
+Soqir chovur zusoz jibun qazukh khödir zevik khulol. Oroqidur zevik javal./
 Kelod zokhun zaqin ghuzum ghuyuz qadiz uruvol ghonor zovad zökhen jibun choboch chekil qojom jochun./
 Uruvol qozabum jochun. Zilich khacham qadiz jiven khödir kodu chovin qavun.
 
@@ -260,7 +260,7 @@ Uruvol qozabum jochun. Zilich khacham qadiz jiven khödir kodu chovin qavun.
 Orolqi zokhun qaduch diqraq vaayaq jiven khübüsh zökir mirjol jalud zökhen chobid evur jiven zidun jiviz chütiy qonir,/
 qaduch jidir khudad zoton qozur jiviz zidun qojid jochun zökhen jozachosh, qovikh zokhun qadir zidun jömik jekes zökhen qaduch otviil chovin zozonun,/
 jiviz zilich koyoz khizin jömik jilin qaduch jiven zevik javal, qavar khizin koyoz qaduch jiven zevik jochun./
-Khazur ghozuch zidun khödir qaduch quchich jochun, Sahri khizin javal, khilin jözel qazuch jaziy zevik qavun zödir./
+Khazur ghozuch zidun khödir qaduch quchich jochun, Oroqidur khizin javal, khilin jözel qazuch jaziy zevik qavun zödir./
 Koser zokhun zaqin jorukhoz qadiz khalal jochun zökhen zaqin khizin diqraq qorukh jochun, orolqi zulod choboch khödir./
 Jiviz khudad qozur jiviz zidun zanim jiven qokhoch jilar qazin zönekh qovor khevel./
 Uruvol qozabum jochun. Zilich khacham qadiz jiven khödir kodu chovin qavun.
@@ -305,10 +305,10 @@ Uruvol qozabum jochun. Zilich khacham qadiz jiven khödir kodu chovin qavun.
 [Uruvaq Shokhun]{.name data-type="lore"}. Tijod zevik. Chikin koyoz ghovikhaz shokhun qotur chaghoy, oqod chübish./
 Uruvaq volket ghozun, ghoghinoz khilin qunut evod jiven jochun. Uruvaq orqaz ghozun, khilin khödüt zokhun qadiz qadiz khoqoz zökhen jütin qazodir./
 Uruvaq diqraq ghozun, khilin jilin qovor jiven khudad zoton qotur zubosh qomat, qaduch qoduyuz khoqoz./
-Uruvaq votri ghozun, Sahri khilin zenökh, qavar khilin dolqon ghozun jodur, zokhun Jönek jochun zökhen,/
+Uruvaq votri ghozun, Oroqidur khilin zenökh, qavar khilin dolqon ghozun jodur, zokhun Jönek jochun zökhen,/
 jiviz jivun khilin ghaqom jodur, jivun uruvaq votri qodiror diqraq ghozun ghaqom jodur, votri zazim zotidikh ghuyuz,/
-qazul Sahri jidir jibun jölön qojom jiviz uruvol zubosh jodur zökhen javal./
-Qadiz ghaqom qusish zevik jodur. Sahri qadiz koyoz ghozir zukhaloq qazod zenökh./
+qazul Oroqidur jidir jibun jölön qojom jiviz uruvol zubosh jodur zökhen javal./
+Qadiz ghaqom qusish zevik jodur. Oroqidur qadiz koyoz ghozir zukhaloq qazod zenökh./
 Uruvol qozabum jochun. Zilich khacham qadiz jiven khödir kodu chovin qavun.
 
 Sovid zömin. Qadir jörüsikh chaghoy. Qadir joghur ghozun orjaz jömik zovuz. zaqin qadir qozabum jörüsikh qavun./
@@ -317,7 +317,7 @@ Uruvol zubosh jodur. Evur ghozun zevik. Qozabum ghozun./
 Numaq zidun ghuyuz kelod zönekh ghozun zovot zuruch, yolaq zorotoq zuruch, khudad yaqnar evod zömin zuruch,/
 yodvir qazin kodu chovin jörüsikh qavun, jözel zövek jiven qadiz jömik junosh qaduch jiven ghunolil zovuz,/
 jiviz soqir khoshiq jiven qadiz qozabum jochun, zovul qadiz khödir zömol jömik, yiqnotud ghotaq votri jiven chübish,/
-jiviz Sahri zikir zevik javal, akhaq evur zevik javal, zilich uruvaq dolqon jiven zenökh./
+jiviz Oroqidur zikir zevik javal, akhaq evur zevik javal, zilich uruvaq dolqon jiven zenökh./
 Khizin joyut koyoz jiven jochun. khizin ghozuch zulod jiven joyut zevik jochun./
 Uruvol qozabum jochun. Zilich khacham qadiz jiven khödir kodu chovin qavun.
 :::
@@ -336,7 +336,7 @@ Uruvol qozabum jochun. Zilich khacham qadiz jiven khödir kodu chovin qavun.
 [[place-osikor|Oshiqor]]
 : the painted tombs in the stone, and the kings who are not asleep
 
-[[affiliation-sahritrb|Sahri]]
+[[affiliation-rqdrtrb|Oroqidur]]
 : the tribe that sings it, and reads the stars for the day
 
 [[lore-sowidesclt|The Sovidur]]

@@ -261,7 +261,7 @@ export const RETIRED = [
         scope: [
             "assets/content/Affiliations/Divine/Dunhara/Storm_Cults_of_Bahramish.md",
             "assets/content/Affiliations/Organizations/Vylarian/Dunhara_Warriors_Circle.md",
-            "assets/content/Affiliations/Social/Companies/TighSavaran_of_the_Zarnush.md",
+            "assets/content/Affiliations/Social/Companies/TighSavaran_of_the_Koserur.md",
             "assets/content/Lore/History/The_Storm_of_the_Hundred_Banners.md",
             "assets/content/Regions/Ankaris/Hellad/Byzaria/Eastern_March.md",
             "assets/content/Regions/Ankaris/Hellad/Byzaria/Northern_March.md",

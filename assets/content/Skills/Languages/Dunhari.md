@@ -6016,6 +6016,7 @@ data:
     - {name: amradad, tongue: dunhari}
     - {name: Amradad Region, tongue: translation}
     - {name: atazkharu, tongue: sovidur}
+    - {name: oroqidur, tongue: sovidur}
     - {name: azardan, tongue: dunhari}
     - {name: baharami-vadukesh, tongue: dunhari}
     - {name: barmandan, tongue: dunhari}
@@ -6091,7 +6092,6 @@ data:
     - {name: rosharan, tongue: dunhari}
     - {name: rudavah, tongue: dunhari}
     - {name: ruzhogar, tongue: dunhari, built: [ruzh-, -ogar]}
-    - {name: sahri, tongue: sovidur}
     - {name: sehvogar, tongue: dunhari, built: [sehv-, -ogar]}
     - {name: shadezan, tongue: dunhari}
     - {name: shavan, tongue: dunhari}
