@@ -5910,9 +5910,9 @@ data:
         - "shiran"
         - "deyena"
         - "farvan"
-        - "nushir"
+        - "nushiran"
         - "khozura"
-        - "zarham"
+        - "zarman"
         - "parivin"
         - "biban"
         - "khavari"
@@ -5932,7 +5932,7 @@ data:
         - "pashman"
         - "barmokh"
         - "artavin"
-        - "farhazar"
+        - "farazar"
         - "torvash"
         - "sivanash"
         - "shuvar"
@@ -6838,15 +6838,15 @@ In courtly settings, individuals may employ extended genealogical introductions 
 
 ### Male Given Names
 
-Razashar, Vahdarun, Tirsad, Korushan, Mehrun, Khordesh, Yazharan, Pashman, Barmokh, Artavin, Farhazar, Torvash, Sivanash, Shuvar, Kavezhan, Rostadar, Samardan, Harumaz, Kamid, Goshanad, Jamaris, Zarvash, Valhamin, Nersad, Darizhan, Ahrash, Khoshar, Bashvard, Tahruz, Khorman, Shabar, Azarvan, Pardisak, Kayvonad, Mahvarad, Shurnav, Eskaram, Parvuzhan, Behfard, Arshanak, Darmun, Rostash, Vardun, Firanash, Tirashan, Khorvaz, Qarmuz, Armanad, Firavad, Saidan, Venrad, Maneshir, Jamrosh, Fakhrad, Nimrash, Tavishar, Farazun, Zarmav, Nevaran, Rushak, Rezhad, Sezhakh, Parmor, Siram, Tohmar, Bahrazad, Parvash, Ashudar, Asfar, Givandar, Qavadar, Hamzun, Razan, Bafraz, Shahran, Pirvand, Davuran, Zamirad, Afshanar, Timan, Hurdan, Nemver, Farzahan, Bazudar, Damoz, Ramuz, Siaran, Azardam, Varinash, Shadezan, Khavend, Dashir, Tarnav, Eskiran, Zimran, Khizhor, Zandarud, Mehrunash, Hadushan, Kemudan
+Razashar, Vahdarun, Tirsad, Korushan, Mehrun, Khordesh, Yazharan, Pashman, Barmokh, Artavin, Farazar, Torvash, Sivanash, Shuvar, Kavezhan, Rostadar, Samardan, Harumaz, Kamid, Goshanad, Jamaris, Zarvash, Valhamin, Nersad, Darizhan, Ahrash, Khoshar, Bashvard, Tahruz, Khorman, Shabar, Azarvan, Pardisak, Kayvonad, Mahvarad, Shurnav, Eskaram, Parvuzhan, Behfard, Arshanak, Darmun, Rostash, Vardun, Firanash, Tirashan, Khorvaz, Qarmuz, Armanad, Firavad, Saidan, Venrad, Maneshir, Jamrosh, Fakhrad, Nimrash, Tavishar, Farazun, Zarmav, Nevaran, Rushak, Rezhad, Sezhakh, Parmor, Siram, Tohmar, Bahrazad, Parvash, Ashudar, Asfar, Givandar, Qavadar, Hamzun, Razan, Bafraz, Shahran, Pirvand, Davuran, Zamirad, Afshanar, Timan, Hurdan, Nemver, Farzahan, Bazudar, Damoz, Ramuz, Siaran, Azardam, Varinash, Shadezan, Khavend, Dashir, Tarnav, Eskiran, Zimran, Khizhor, Zandarud, Mehrunash, Hadushan, Kemudan
 
 ### Female Given Names
 
-Fazhina, Rosharan, Azadam, Shavineh, Dehna, Mazinan, Mizhara, Tavura, Sharanaz, Sameza, Azarin, Delanash, Golran, Yesera, Zaranah, Ashfan, Kharanah, Dervun, Layah, Nahedan, Sormina, Mahrush, Shiran, Deyena, Farvan, Nushir, Khozura, Zarham, Parivin, Biban, Khavari, Shirnah, Forreh, Rushanah, Parnava, Givanu, Sarnish, Milasah, Razanash, Zaraneh, Marvinah, Gulranah, Tevuran, Mahsara, Arinah, Nazira, Khorsash, Tashneh, Rudavah, Bazharam, Girandan, Parvanan, Dunash, Afzandah, Shafin, Yesre, Aradun, Shosra, Golbara, Kaminah, Nirah, Paryan, Tizhva, Tuvan, Salmara, Girnah, Tizhas, Nomena, Parvarin, Sharminah, Sarmanaz, Mazanash, Zaribah, Shazin, Azanin, Borvah, Darzash, Lemeza, Durnash, Komena, Asharan, Divaran, Kavakht, Shakivah, Turanah, Banush, Menuna, Zalaran, Kamrin, Rozina, Farara, Gidana, Narzhi, Tarasha, Mardanah, Eshro, Shavri, Divanah, Shandara, Nevuna
+Fazhina, Rosharan, Azadam, Shavineh, Dehna, Mazinan, Mizhara, Tavura, Sharanaz, Sameza, Azarin, Delanash, Golran, Yesera, Zaranah, Ashfan, Kharanah, Dervun, Layah, Nahedan, Sormina, Mahrush, Shiran, Deyena, Farvan, Nushiran, Khozura, Zarman, Parivin, Biban, Khavari, Shirnah, Forreh, Rushanah, Parnava, Givanu, Sarnish, Milasah, Razanash, Zaraneh, Marvinah, Gulranah, Tevuran, Mahsara, Arinah, Nazira, Khorsash, Tashneh, Rudavah, Bazharam, Girandan, Parvanan, Dunash, Afzandah, Shafin, Yesre, Aradun, Shosra, Golbara, Kaminah, Nirah, Paryan, Tizhva, Tuvan, Salmara, Girnah, Tizhas, Nomena, Parvarin, Sharminah, Sarmanaz, Mazanash, Zaribah, Shazin, Azanin, Borvah, Darzash, Lemeza, Durnash, Komena, Asharan, Divaran, Kavakht, Shakivah, Turanah, Banush, Menuna, Zalaran, Kamrin, Rozina, Farara, Gidana, Narzhi, Tarasha, Mardanah, Eshro, Shavri, Divanah, Shandara, Nevuna
 
 ### Clan and Tribal Names
 
-Afsheran, Ferudan, Vardozan, Tamaran, Khavar, Zandun, Barmandan, Qarush, Kaveran, Razdanak, Durmand, Parivan, Azardan, Girani, Shadavan, Vahdrak, Zarnush, Gholshan, Darvarid, Nemud, Golshani, Paresak, Serdom, Khorzand, Zarid, Bazakan, Afrun, Mazanid, Goravan, Parvandar, Sarani, Turvand, Parvaran, Mahvaran, Shamayan, Razhak, Khonash, Varakan, Kaviran, Mazhen, Shiradar, Darvani, Khozrun, Gorgaz, Shirzari, Zarmana, Perudan, Gazvan, Farumak, Baravi, Tamiran, Dargan, Shivash, Mervaran, Goharan, Bakarin, Nazari, Padvan, Narshad, Sivadar, Arshin, Tamirh, Sobukan, Sahaz, Bazhon, Mahkun, Tavrud, Ashazad, Khavandar, Varidan, Kamruz, Tahvan, Darush, Shahran, Farrud, Padeshun, Khareman, Namirun, Shahrun, Gavandar, Narsafi, Mehrun, Shavan, Parnazar, Sharman, Bergoz, Zanavi, Beluri, Khafur, Khormaz, Shirana, Farumaz, Darkaran, Mushtan, Tahridan, Gildash, Namiran, Khusham, Sazadar, Parkad
+Afsheran, Ferudan, Vardozan, Tamaran, Khavar, Zandun, Barmandan, Qarush, Kaveran, Razdanak, Durmand, Parivan, Azardan, Girani, Shadavan, Vahdrak, Zarnush, Gholshan, Darvarid, Nemud, Golshani, Paresak, Serdom, Khorzand, Zarid, Bazakan, Afrun, Mazanid, Goravan, Parvandar, Sarani, Turvand, Parvaran, Mahvaran, Shamayan, Razhak, Khonash, Varakan, Kaviran, Mazhen, Shiradar, Darvani, Khozrun, Gorgaz, Shirzari, Zarmana, Perudan, Gazvan, Farumak, Baravi, Tamiran, Dargan, Shivash, Mervaran, Goharan, Bakarin, Nazari, Padvan, Narshad, Sivadar, Arshin, Tamirun, Sobukan, Sahaz, Bazhon, Mahkun, Tavrud, Ashazad, Khavandar, Varidan, Kamruz, Tahvan, Darush, Shahran, Farrud, Padeshun, Khareman, Namirun, Shahrun, Gavandar, Narsafi, Mehrun, Shavan, Parnazar, Sharman, Bergoz, Zanavi, Beluri, Khafur, Khormaz, Shirana, Farumaz, Darkaran, Mushtan, Tahridan, Gildash, Namiran, Khusham, Sazadar, Parkad
 
 ## Dunhari Lexicon {#lexicon}
 

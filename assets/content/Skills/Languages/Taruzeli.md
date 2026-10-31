@@ -6520,8 +6520,8 @@ data:
         - "Muluya"
         - "Shamaya"
         - "Pelitum"
-        - "Libanu"
-        - "Salumu"
+        - "Libuna"
+        - "Salmuya"
         - "Anasha"
         - "Lamuna"
         - "Kadumuya"
@@ -6556,7 +6556,7 @@ data:
         - "Damina"
         - "Parza"
         - "Girratu"
-        - "Sallimu"
+        - "Sallina"
         - "Durim"
         - "Kashmuna"
         - "Ludina"
@@ -6608,7 +6608,7 @@ data:
         - "Shamut"
         - "Lartush"
         - "Adunan"
-        - "Gabbaru"
+        - "Gabbarim"
         - "Edrum"
         - "Ashku"
         - "Berinu"
@@ -6627,7 +6627,7 @@ data:
         - "Petum"
         - "Pushutan"
         - "Rudam"
-        - "Attunu"
+        - "Attuman"
         - "Namzu"
         - "Dammush"
         - "Sharuk"
@@ -6646,7 +6646,7 @@ data:
       - "Kumuni"
       - "Rusakuni"
       - "Funatum"
-      - "Kassuru"
+      - "Kassuruni"
       - "Paltiram"
       - "Nimkushi"
       - "Shamiru"
@@ -7151,15 +7151,15 @@ Taruzeli merchants in Kalihara and other port cities maintain given names and fa
 
 ### Male Given Names
 
-Rumukush, Pazasan, Iddinash, Zabanu, Tanadan, Nadumar, Tarruk, Samarum, Bibudan, Mugilush, Taziru, Mesaku, Damashu, Lushar, Shabaru, Rukhum, Dapuman, Danashu, Pazira, Almarum, Setushar, Nirabu, Rimash, Hamurim, Bilgun, Jatumu, Laziru, Shatum, Idanu, Matun, Zabuzum, Niburan, Zarutan, Kadush, Ulamar, Nabazir, Tumari, Ekuran, Yutalush, Numaru, Jiraman, Mardum, Samran, Qatush, Kusadan, Sharrush, Belginu, Abarash, Ittarum, Kubasan, Shamut, Kaduzu, Lartush, Adunan, Kaltun, Gabbaru, Udarim, Edrum, Ashku, Gadarun, Berinu, Piltumu, Lamashar, Bissush, Zakun, Tukuram, Ashuraz, Amarru, Maranu, Shattu, Bammul, Zilmar, Parush, Kadishar, Azunum, Ushmun, Delzuru, Gadun, Lurum, Baqkur, Arzam, Petum, Durzanu, Pushutan, Rudam, Shattar, Attunu, Eldum, Namzu, Dammush, Khurutush, Sharuk, Akatu, Tumran, Kitum, Zazuran, Zadunu, Rasunum
+Rumukush, Pazasan, Iddinash, Zabanu, Tanadan, Nadumar, Tarruk, Samarum, Bibudan, Mugilush, Taziru, Mesaku, Damashu, Lushar, Shabaru, Rukhum, Dapuman, Danashu, Pazira, Almarum, Setushar, Nirabu, Rimash, Hamurim, Bilgun, Jatumu, Laziru, Shatum, Idanu, Matun, Zabuzum, Niburan, Zarutan, Kadush, Ulamar, Nabazir, Tumari, Ekuran, Yutalush, Numaru, Jiraman, Mardum, Samran, Qatush, Kusadan, Sharrush, Belginu, Abarash, Ittarum, Kubasan, Shamut, Kaduzu, Lartush, Adunan, Kaltun, Gabbarim, Udarim, Edrum, Ashku, Gadarun, Berinu, Piltumu, Lamashar, Bissush, Zakun, Tukuram, Ashuraz, Amarru, Maranu, Shattu, Bammul, Zilmar, Parush, Kadishar, Azunum, Ushmun, Delzuru, Gadun, Lurum, Baqkur, Arzam, Petum, Durzanu, Pushutan, Rudam, Shattar, Attuman, Eldum, Namzu, Dammush, Khurutush, Sharuk, Akatu, Tumran, Kitum, Zazuran, Zadunu, Rasunum
 
 ### Female Given Names
 
-Tulina, Azara, Nimzaya, Belgina, Tirmana, Genira, Muluya, Ishtaruna, Shamaya, Pelitum, Rushana, Libanu, Nadiya, Salumu, Anasha, Tishmiya, Lamuna, Kadumuya, Asuya, Zattuya, Visiza, Ellamuna, Katira, Dimruni, Shezuya, Taluna, Zarmuta, Eziyana, Shidura, Mukamu, Amarra, Pallitu, Ninuri, Urduya, Pashtum, Termuza, Zaburi, Simruya, Irkuna, Saduya, Razzina, Pimuya, Bashimuya, Illura, Gashmuna, Alamia, Karuya, Beshura, Zuramu, Shammaya, Tushina, Eluza, Nimratu, Teshuda, Eshaya, Zubura, Tamuya, Lashira, Nazzuna, Kharruna, Shalimu, Iltuna, Naguya, Pakuya, Tershuna, Damina, Parza, Ushmuya, Girratu, Hushaduya, Sallimu, Durim, Tirimu, Kashmuna, Betum, Ludina, Shimuna, Zammara, Elzina, Tubiya, Niraya, Ammashi, Darzura, Silmuna, Naduya, Pashmu, Urumi, Attuna, Lamazi, Ashtari, Lataruya, Pasira, Shamuni, Kutunu, Asuya, Dalura, Lizina, Mirmura, Nabuya
+Tulina, Azara, Nimzaya, Belgina, Tirmana, Genira, Muluya, Ishtaruna, Shamaya, Pelitum, Rushana, Libuna, Nadiya, Salmuya, Anasha, Tishmiya, Lamuna, Kadumuya, Asuya, Zattuya, Visiza, Ellamuna, Katira, Dimruni, Shezuya, Taluna, Zarmuta, Eziyana, Shidura, Mukamu, Amarra, Pallitu, Ninuri, Urduya, Pashtum, Termuza, Zaburi, Simruya, Irkuna, Saduya, Razzina, Pimuya, Bashimuya, Illura, Gashmuna, Alamia, Karuya, Beshura, Zuramu, Shammaya, Tushina, Eluza, Nimratu, Teshuda, Eshaya, Zubura, Tamuya, Lashira, Nazzuna, Kharruna, Shalimu, Iltuna, Naguya, Pakuya, Tershuna, Damina, Parza, Ushmuya, Girratu, Hushaduya, Sallina, Durim, Tirimu, Kashmuna, Betum, Ludina, Shimuna, Zammara, Elzina, Tubiya, Niraya, Ammashi, Darzura, Silmuna, Naduya, Pashmu, Urumi, Attuna, Lamazi, Ashtari, Lataruya, Pasira, Shamuni, Kutunu, Asuya, Dalura, Lizina, Mirmura, Nabuya
 
 ### Family Names
 
-Jakuduni, Tanaduni, Pasharuni, Zadduni, Bilulum, Shamurin, Tazirish, Girmali, Pilmuni, Arshumi, Hitusuni, Yushudum, Ashudi, Kumuni, Beshuni, Rusakuni, Funatum, Gazirani, Kassuru, Elkamuni, Paltiram, Nimkushi, Edduni, Shamiru, Urrani, Kadira, Balinuni, Marruni, Telmush, Genirum, Lartuni, Eshkarum, Gashumi, Ilammu, Punami, Shilmuni, Padduni, Rakumu, Shaduni, Libarum, Tumani, Iltashi, Bibudi, Kerruni, Pushutum, Parushi, Ezzinu, Fusanuni, Kubasuni, Kalurum, Tarmumi, Badushi, Pirsuni, Gimruni, Kusaduni, Zukuni, Gatituni, Khazumi, Sudram, Ashamu, Urdinu, Giruni, Kazuram, Ilzishi, Qurashi, Qizikuni, Belginum, Shulami, Barumi, Ilammuni, Tamziru, Shaduni, Garimuni, Dupari, Shemulan, Pasharu, Lamziru, Zupumi, Mimumi, Khamisuni, Narumi, Bammulam, Ashmuri, Pulamu, Tarshuni, Laddush, Urganu, Elmirum, Gazzuni, Telmuni, Teraku, Temadum, Ashuruni, Elduni, Helaruni, Daruzi, Kassumi, Dumani, Parimu, Illuram
+Jakuduni, Tanaduni, Pasharuni, Zadduni, Bilulum, Shamurin, Tazirish, Girmali, Pilmuni, Arshumi, Hitusuni, Yushudum, Ashudi, Kumuni, Beshuni, Rusakuni, Funatum, Gazirani, Kassuruni, Elkamuni, Paltiram, Nimkushi, Edduni, Shamiru, Urrani, Kadira, Balinuni, Marruni, Telmush, Genirum, Lartuni, Eshkarum, Gashumi, Ilammu, Punami, Shilmuni, Padduni, Rakumu, Shaduni, Libarum, Tumani, Iltashi, Bibudi, Kerruni, Pushutum, Parushi, Ezzinu, Fusanuni, Kubasuni, Kalurum, Tarmumi, Badushi, Pirsuni, Gimruni, Kusaduni, Zukuni, Gatituni, Khazumi, Sudram, Ashamu, Urdinu, Giruni, Kazuram, Ilzishi, Qurashi, Qizikuni, Belginum, Shulami, Barumi, Ilammuni, Tamziru, Shaduni, Garimuni, Dupari, Shemulan, Pasharu, Lamziru, Zupumi, Mimumi, Khamisuni, Narumi, Bammulam, Ashmuri, Pulamu, Tarshuni, Laddush, Urganu, Elmirum, Gazzuni, Telmuni, Teraku, Temadum, Ashuruni, Elduni, Helaruni, Daruzi, Kassumi, Dumani, Parimu, Illuram
 
 ## Taruzeli Lexicon {#lexicon}
 

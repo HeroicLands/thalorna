@@ -153,8 +153,26 @@ function withTranslationRetags(fm, file) {
     return copy;
 }
 
-/** Names respelled to carry one accent, the first, by file: each baseline spelling and its replacement. */
+/** Names respelled since the baseline, by file: each baseline spelling and its replacement. */
 const oneAccentRespellings = new Map([
+    [
+        "assets/content/Skills/Languages/Dunhari.md",
+        [
+            ["nushir", "nushiran"],
+            ["zarham", "zarman"],
+            ["farhazar", "farazar"],
+            ["tamirh", "tamirun"],
+        ],
+    ],
+    [
+        "assets/content/Skills/Languages/Osket.md",
+        [
+            ["rhankel", "rankel"],
+            ["rhandug", "randug"],
+        ],
+    ],
+    ["assets/content/Skills/Languages/Nordmal.md", [["gnuldurthann", "gnuldurvir"]]],
+    ["assets/content/Skills/Languages/Varokhi.md", [["vithár", "wíthar"]]],
     ["assets/content/Skills/Languages/Atarzadi.md", [["atárzádegan", "atárzadegan"]]],
     [
         "assets/content/Skills/Languages/Nyaluban.md",
@@ -171,7 +189,9 @@ function respell(text, file) {
     const upper = (word) => word[0].toUpperCase() + word.slice(1);
     let out = text;
     for (const [from, to] of oneAccentRespellings.get(file) ?? [])
-        out = out.replaceAll(from, to).replaceAll(upper(from), upper(to));
+        out = out
+            .replace(new RegExp(`(?<!\\p{L})${from}`, "gu"), to)
+            .replace(new RegExp(`(?<!\\p{L})${upper(from)}`, "gu"), upper(to));
     return out;
 }
 

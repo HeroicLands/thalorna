@@ -1,6 +1,6 @@
 ---
-shortcode: vthrhldvth
-name: {full: Vithár yra Hildvith wur Waldburg}
+shortcode: wthrhldvth
+name: {full: Wíthar yra Hildvith wur Waldburg}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -396,13 +396,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Vithár yra Hildvith wur Waldburg is a 47-year-old man who stands 6'3" tall and is broad and solidly built. He has an angular face with defined cheekbones, a wide forehead, and a heavy jaw that leads to a broad chin. His large brown eyes sit beneath prominent brows, lending him an expressive gaze. A strong nose and expressive lips complete his features. He has fair skin with a sun-tanned complexion. His dark brown hair is thick and unkempt.
+Wíthar yra Hildvith wur Waldburg is a 47-year-old man who stands 6'3" tall and is broad and solidly built. He has an angular face with defined cheekbones, a wide forehead, and a heavy jaw that leads to a broad chin. His large brown eyes sit beneath prominent brows, lending him an expressive gaze. A strong nose and expressive lips complete his features. He has fair skin with a sun-tanned complexion. His dark brown hair is thick and unkempt.
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vristwald]] region to a freeman family of [[lore-varokhiclt|Varokhi]] heritage, Vithár came into the world of the weaponcrafter (armorer) through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vristwald]] region to a freeman family of [[lore-varokhiclt|Varokhi]] heritage, Wíthar came into the world of the weaponcrafter (armorer) through a combination of circumstance and aptitude.
 
-Vithár grew up in a small village, where he learned the basics of blacksmithing from his father. He later ventured into weaponcrafting and developed a reputation for crafting sturdy, reliable weapons. Vithár focuses on creating functional weapons with no frills, catering mainly to soldiers and mercenaries. He is practical and down-to-earth but often clashes with weaponcrafters who emphasize aesthetics over durability.
+Wíthar grew up in a small village, where he learned the basics of blacksmithing from his father. He later ventured into weaponcrafting and developed a reputation for crafting sturdy, reliable weapons. Wíthar focuses on creating functional weapons with no frills, catering mainly to soldiers and mercenaries. He is practical and down-to-earth but often clashes with weaponcrafters who emphasize aesthetics over durability.
 
 ## Psyche
 
@@ -412,7 +412,7 @@ Lacks creativity in design, tends to be dismissive of ornamental work.
 
 ### Motivation
 
-Vithár is driven by the desire to master his craft and secure a stable future. The uncertainties of life in weaponcrafter (armorer) work keep him vigilant and adaptable.
+Wíthar is driven by the desire to master his craft and secure a stable future. The uncertainties of life in weaponcrafter (armorer) work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -420,7 +420,7 @@ Skilled at forging durable weapons, strong work ethic, reliable.
 
 ## Social
 
-Vithár forges arms for [[place-waldburg|Waldburg]]’s households and visiting war-bands. His standing comes from the blades that survive use and the bargains he keeps with each buyer.
+Wíthar forges arms for [[place-waldburg|Waldburg]]’s households and visiting war-bands. His standing comes from the blades that survive use and the bargains he keeps with each buyer.
 
 ## Companions
 
@@ -435,16 +435,16 @@ Blacksmiths who specialize in decorative weapons.
 ## Plot Hooks
 
 The Weaponcrafter (Armorer)'s Dilemma
-: Vithár faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vristwald.
+: Wíthar faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vristwald.
 
 Old Grudges
 : Blacksmiths who specialize in decorative weapons. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
 Echoes of the Past
-: Something from Vithár's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+: Something from Wíthar's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
 Shifting Winds
-: Political changes in Vristwald threaten to upend the social order that Vithár depends upon. He must decide whether to adapt, resist, or flee.
+: Political changes in Vristwald threaten to upend the social order that Wíthar depends upon. He must decide whether to adapt, resist, or flee.
 
 The Opportunity
-: A chance encounter offers Vithár the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+: A chance encounter offers Wíthar the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

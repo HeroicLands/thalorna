@@ -6635,7 +6635,7 @@ data:
         - "Belkhat"
         - "Yulmum"
         - "Uchom"
-        - "Rhankel"
+        - "Rankel"
         - "Ghuqom"
         - "Shogme"
         - "Ubren"
@@ -6656,7 +6656,7 @@ data:
         - "Belkhat"
         - "Yulmum"
         - "Uchom"
-        - "Rhankel"
+        - "Rankel"
         - "Ghuqom"
         - "Shogme"
         - "Ubren"
@@ -6675,7 +6675,7 @@ data:
       - "Qarsolt"
       - "Utenkhar"
       - "Shomber"
-      - "Rhandug"
+      - "Randug"
   sounds:
     edges:
       - {edge: openCluster, sounds: [sk, st, kr, gr, bl, tr]}
@@ -6972,9 +6972,9 @@ A personal name is a single word, most often two syllables, drawn from weather, 
 
 ### Name Lists
 
-**Given Names:** Tsum, Orghat, Nushang, Nashken, Urtal, Ghomse, Belkhat, Yulmum, Uchom, Rhankel, Ghuqom, Shogme, Ubren, Kharsel, Yolte, Sunash, Omker, Tselbat, Nureg, Golkash
+**Given Names:** Tsum, Orghat, Nushang, Nashken, Urtal, Ghomse, Belkhat, Yulmum, Uchom, Rankel, Ghuqom, Shogme, Ubren, Kharsel, Yolte, Sunash, Omker, Tselbat, Nureg, Golkash
 
-**Hearth Names:** Tsokhar, Oskhelt, Ghelmun, Burnakh, Qarsolt, Utenkhar, Shomber, Rhandug
+**Hearth Names:** Tsokhar, Oskhelt, Ghelmun, Burnakh, Qarsolt, Utenkhar, Shomber, Randug
 
 ## Osket Lexicon {#lexicon}
 

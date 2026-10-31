@@ -165,7 +165,6 @@ data:
         - "Vandhelm"
         - "Vethar"
         - "Vethgar"
-        - "Vithár"
         - "Vithmund"
         - "Vithskorn"
         - "Vristmund"
@@ -173,6 +172,7 @@ data:
         - "Waldarik"
         - "Waldhár"
         - "Waldulf"
+        - "Wíthar"
         - "Wítharik"
         - "Wulfbán"
         - "Wulfrád"
@@ -306,7 +306,7 @@ data:
       examples: ["Thornak", "Edrak"]
     - form: "-ar"
       gloss: "the one who does or bears what the opening names"
-      examples: ["Hrodar", "Vithár", "Brunjár", "Skaldár", "Vethar"]
+      examples: ["Hrodar", "Wíthar", "Brunjár", "Skaldár", "Vethar"]
     - {form: "-bán", gloss: "a slayer, one who deals a death", examples: ["Frodbán", "Wulfbán"]}
     - {form: "-burg", gloss: "a stronghold", examples: ["Waldburg"]}
     - {form: "-drá", gloss: "strength, said of a woman", examples: ["Thaldrá"]}
@@ -5113,7 +5113,7 @@ data:
       variants: [wíth-]
       position: opening
       sense: "valor, what withstands"
-      examples: [Vithár, Vithrúnd, Wítharik]
+      examples: [Wíthar, Vithrúnd, Wítharik]
     - form: vrist-
       position: opening
       sense: "free, held by nobody"
@@ -5255,7 +5255,7 @@ data:
     - {name: Hildwin, tongue: varokhi}
     - {name: Domrik, tongue: varokhi}
     - {name: Dómrika, tongue: varokhi}
-    - {name: Vithár, tongue: varokhi}
+    - {name: Wíthar, tongue: varokhi}
     - {name: Vithilda, tongue: varokhi}
     - {name: Waldrún, tongue: varokhi}
     - {name: Skathrún, tongue: varokhi}
@@ -5482,7 +5482,7 @@ Varokhi naming practices emphasize the meaning and power of names. A name is con
 
 The practice of _eth-kethrun_ (taking a true name) marks the transition to adulthood. A young person earns their true name through a deed of significance, and thereafter this becomes their primary identifier. Some individuals hold multiple names from different periods of their life, each encoding a chapter of their biography.
 
-Compound names are common, combining elemental roots (valor, battle, counsel, the forest) with closings that carry a sense of their own. The structure is transparent to speakers: _Vithár_ combines _vith-_ (valor) and `-ar` (the one who bears it), naming a man by what he withstands. Similarly, _Radrún_ combines _rád-_ (counsel) and `-rún` (a secret kept), naming a woman who holds what the kindred has decided.
+Compound names are common, combining elemental roots (valor, battle, counsel, the forest) with closings that carry a sense of their own. The structure is transparent to speakers: _Wíthar_ combines _vith-_ (valor) and `-ar` (the one who bears it), naming a man by what he withstands. Similarly, _Radrún_ combines _rád-_ (counsel) and `-rún` (a secret kept), naming a woman who holds what the kindred has decided.
 
 A Varokh carries a clan name beside the given name, and a village beside both. The clan is the kindred and the village is the ground, and the two are never the same thing: a village holds several kindreds, and a kindred that has split holds ground in more than one village. § _A person's name in full_ below sets out how the three are joined.
 
@@ -5611,7 +5611,7 @@ The particle `vird` is a word and no element is spelled the same way, so a sente
 
 ## Male Given Names
 
-Armund, Arnmund, Arnrád, Athalrik, Athalwin, Balthgar, Balthrith, Balthulf, Brunjár, Brunjulf, Dagbán, Dagrith, Domrik, Domvith, Domwin, Dorghár, Dorgulf, Druthrik, Druthulf, Edrarith, Edrigar, Ermarik, Erthmund, Erthran, Erthrik, Erthulf, Falkwin, Frithgár, Frithrád, Frodhelm, Frodrik, Garbán, Garstein, Garulf, Grimbán, Grimhár, Grimrik, Harmund, Harskald, Hildrik, Hildwin, Hrodar, Hrodmund, Mahnrád, Mahnulf, Othgar, Othwin, Radwin, Rikmund, Skaldár, Skaldwin, Skathrik, Skathulf, Sundgar, Sundrith, Sundrik, Thalrith, Thalwin, Theodbán, Theodhár, Theodmund, Thornak, Thornulf, Thragrim, Thrastein, Thrawald, Vandarik, Vandhelm, Vethar, Vethgar, Vithár, Vithmund, Vithskorn, Vristmund, Vristulf, Waldarik, Waldhár, Waldulf, Wítharik, Wulfbán, Wulfrád, Wulfstein
+Armund, Arnmund, Arnrád, Athalrik, Athalwin, Balthgar, Balthrith, Balthulf, Brunjár, Brunjulf, Dagbán, Dagrith, Domrik, Domvith, Domwin, Dorghár, Dorgulf, Druthrik, Druthulf, Edrarith, Edrigar, Ermarik, Erthmund, Erthran, Erthrik, Erthulf, Falkwin, Frithgár, Frithrád, Frodhelm, Frodrik, Garbán, Garstein, Garulf, Grimbán, Grimhár, Grimrik, Harmund, Harskald, Hildrik, Hildwin, Hrodar, Hrodmund, Mahnrád, Mahnulf, Othgar, Othwin, Radwin, Rikmund, Skaldár, Skaldwin, Skathrik, Skathulf, Sundgar, Sundrith, Sundrik, Thalrith, Thalwin, Theodbán, Theodhár, Theodmund, Thornak, Thornulf, Thragrim, Thrastein, Thrawald, Vandarik, Vandhelm, Vethar, Vethgar, Wíthar, Vithmund, Vithskorn, Vristmund, Vristulf, Waldarik, Waldhár, Waldulf, Wítharik, Wulfbán, Wulfrád, Wulfstein
 
 ## Female Given Names
 

@@ -4375,7 +4375,7 @@ data:
     pattern: "{given} {hearth}"
     given:
       female:
-        - "Hvrel"
+        - "Hevrel"
         - "Tsevrel"
         - "Rhanvi"
         - "Delzh"
@@ -4387,7 +4387,7 @@ data:
         - "Klemsi"
         - "Rhevzhen"
         - "Tudzelv"
-        - "Vnesh"
+        - "Venesh"
         - "Melerhu"
         - "Dzorin"
         - "Habvern"
@@ -4396,7 +4396,7 @@ data:
         - "Ovru"
         - "Rhistne"
       male:
-        - "Hvrel"
+        - "Hevrel"
         - "Tsevrel"
         - "Rhanvi"
         - "Delzh"
@@ -4408,7 +4408,7 @@ data:
         - "Klemsi"
         - "Rhevzhen"
         - "Tudzelv"
-        - "Vnesh"
+        - "Venesh"
         - "Melerhu"
         - "Dzorin"
         - "Habvern"
@@ -4552,7 +4552,7 @@ A person carries a given name and a hearth name, and the hearth name changes if 
 
 ### Name Lists
 
-**Given Names:** Hvrel, Tsevrel, Rhanvi, Delzh, Vurn, Shemli, Berdnu, Zhavel, Ourn, Klemsi, Rhevzhen, Tudzelv, Vnesh, Melerhu, Dzorin, Habvern, Sulzhe, Termen, Ovru, Rhistne
+**Given Names:** Hevrel, Tsevrel, Rhanvi, Delzh, Vurn, Shemli, Berdnu, Zhavel, Ourn, Klemsi, Rhevzhen, Tudzelv, Venesh, Melerhu, Dzorin, Habvern, Sulzhe, Termen, Ovru, Rhistne
 
 **Hearth Names:** Nurvharn, Tsedvern, Rhonzhel, Klemverd, Hvurnash, Dzelbern, Vrestun, Shulner
 
@@ -4605,7 +4605,7 @@ The long house at [[place-nurvhrn|Nurvharn]] is _vharn_, the roof that holds the
 
 ## Making names {#making-names}
 
-**A person** carries a given name and a hearth name, the given name first: _Hvrel, of the Klemverd hearth_. A given name comes off the roll, so it is as old as the person it remembers and is not built from the words on this page. A hearth name is the winter house's, and changes when a person is taken into another hearth.
+**A person** carries a given name and a hearth name, the given name first: _Hevrel, of the Klemverd hearth_. A given name comes off the roll, so it is as old as the person it remembers and is not built from the words on this page. A hearth name is the winter house's, and changes when a person is taken into another hearth.
 
 **An office** of the winter council is a compound of what the holder handles and what he does with it, as _dzevdpoudz_, the bone-bringer, is. The notes give the offices in the reader's tongue, and the register tags them so.
 

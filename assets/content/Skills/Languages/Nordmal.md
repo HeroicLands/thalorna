@@ -150,7 +150,7 @@ data:
         - "gnarthorv"
         - "gnildurmil"
         - "gnirthvir"
-        - "gnuldurthann"
+        - "gnuldurvir"
         - "gnurthmil"
         - "hlarthvir"
         - "hlaskorv"
@@ -6513,7 +6513,7 @@ Five names are older than the stem system and are not formed by any rule in it: 
 
 ## Male Given Names
 
-Althmil, Braldvir, Brildmil, Bruldthann, Draskmil, Driskthann, Druskorv, Dvalgmil, Dvarnvir, Dvilgthann, Dvirnmil, Dvulgorv, Dvurnthann, Anthorv, Flarnthann, Flirnorv, Flurnvir, Glarvorv, Glirvir, Glurvmil, Gnaldurvir, Gnarthorv, Gnildurmil, Gnirthvir, Gnuldurthann, Gnurthmil, Hlarthvir, Hlaskorv, Hlirthmil, Hliskvir, Hlurthann, Hlusmil, Hnarvir, Hnirmil, Hnurvthann, Hrandorv, Hrindvir, Hrundmil, Hvalgmil, Hvarnthann, Hvilgthann, Hvirnorv, Hvulgorv, Hvurnvir, Ilthann, Inthvir, Knalthann, Knarvmil, Knilthorv, Knirvthann, Knulthvir, Knurvorv, Kralmil, Krildthann, Kruldorv, Marvorv, Mirvir, Murvmil, Nalthvir, Nilthmil, Nulthann, Ralthann, Rilthorv, Rulthvir, Skalforv, Skilfvir, Skraldvir, Skrilmil, Skruldthann, Skulfmil, Snalthmil, Snarvthann, Snilthann, Snirvorv, Snulthorv, Snurvir, Svalthvir, Svilthmil, Svulthann, Thalmthann, Thilmorv, Thraldorv, Thraskvir, Thrildvir, Thriskmil, Thruldmil, Thruskthann, Thulmvir, Tvalgthann, Tvarnorv, Tvilgorv, Tvirnvir, Tvulgvir, Tvurnmil, Ulthorv, Unthmil, Vraldmil, Vrathann, Vrildthann, Vrithorv, Vruldorv, Vruthvir
+Althmil, Braldvir, Brildmil, Bruldthann, Draskmil, Driskthann, Druskorv, Dvalgmil, Dvarnvir, Dvilgthann, Dvirnmil, Dvulgorv, Dvurnthann, Anthorv, Flarnthann, Flirnorv, Flurnvir, Glarvorv, Glirvir, Glurvmil, Gnaldurvir, Gnarthorv, Gnildurmil, Gnirthvir, Gnuldurvir, Gnurthmil, Hlarthvir, Hlaskorv, Hlirthmil, Hliskvir, Hlurthann, Hlusmil, Hnarvir, Hnirmil, Hnurvthann, Hrandorv, Hrindvir, Hrundmil, Hvalgmil, Hvarnthann, Hvilgthann, Hvirnorv, Hvulgorv, Hvurnvir, Ilthann, Inthvir, Knalthann, Knarvmil, Knilthorv, Knirvthann, Knulthvir, Knurvorv, Kralmil, Krildthann, Kruldorv, Marvorv, Mirvir, Murvmil, Nalthvir, Nilthmil, Nulthann, Ralthann, Rilthorv, Rulthvir, Skalforv, Skilfvir, Skraldvir, Skrilmil, Skruldthann, Skulfmil, Snalthmil, Snarvthann, Snilthann, Snirvorv, Snulthorv, Snurvir, Svalthvir, Svilthmil, Svulthann, Thalmthann, Thilmorv, Thraldorv, Thraskvir, Thrildvir, Thriskmil, Thruldmil, Thruskthann, Thulmvir, Tvalgthann, Tvarnorv, Tvilgorv, Tvirnvir, Tvulgvir, Tvurnmil, Ulthorv, Unthmil, Vraldmil, Vrathann, Vrildthann, Vrithorv, Vruldorv, Vruthvir
 
 ## Female Given Names
 

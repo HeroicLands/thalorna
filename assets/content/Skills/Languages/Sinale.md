@@ -7306,7 +7306,7 @@ data:
         - "lovala"
         - "lovatta"
         - "lonkula"
-        - "lonkutta"
+        - "lonkitta"
         - "hyssele"
         - "hyssette"
         - "ilvytte"
@@ -8117,7 +8117,7 @@ Nuuvatti, Kalpitti, Mollutti, Molluvo, Toimutti, Toimuvo, Oltessavo, Olmasitti, 
 
 ### Female Given Names
 
-Nuuvala, Nuuvatta, Kalpila, Kalpitta, Mollutta, Toimula, Oltessala, Oltessatta, Olmasila, Olmasitta, Unturola, Esselitta, Hallesila, Tirvalitta, Almarila, Lapurila, Masserila, Ropelitta, Porkitta, Lorramila, Lorramitta, Ansorula, Huomala, Huomatta, Lantavola, Lantavotta, Porkila, Kelkasila, Kelkasitta, Solmerila, Nelyvele, Talvela, Talvetta, Nuomila, Nuomitta, Lovala, Lovatta, Hallesitta, Lonkula, Lonkutta, Hyssele, Hyssette, Ilvyle, Ilvytte, Tellakila, Tellakitta, Eilavala, Eilavatta, Rivyle, Rivytte, Nelyvette, Pelvaila, Pelvaitta, Tilvaila, Tilvaitta, Elvyrile, Kilpele, Ilevala, Ilevatta, Lentila, Kilpette, Selkile, Selkitte, Nylkile, Nylkitte, Sulmela, Sulmetta, Liserila, Kinsala, Kinsatta, Telvitte, Olmarnala, Olmarnatta, Ressila, Ressitta
+Nuuvala, Nuuvatta, Kalpila, Kalpitta, Mollutta, Toimula, Oltessala, Oltessatta, Olmasila, Olmasitta, Unturola, Esselitta, Hallesila, Tirvalitta, Almarila, Lapurila, Masserila, Ropelitta, Porkitta, Lorramila, Lorramitta, Ansorula, Huomala, Huomatta, Lantavola, Lantavotta, Porkila, Kelkasila, Kelkasitta, Solmerila, Nelyvele, Talvela, Talvetta, Nuomila, Nuomitta, Lovala, Lovatta, Hallesitta, Lonkula, Lonkitta, Hyssele, Hyssette, Ilvyle, Ilvytte, Tellakila, Tellakitta, Eilavala, Eilavatta, Rivyle, Rivytte, Nelyvette, Pelvaila, Pelvaitta, Tilvaila, Tilvaitta, Elvyrile, Kilpele, Ilevala, Ilevatta, Lentila, Kilpette, Selkile, Selkitte, Nylkile, Nylkitte, Sulmela, Sulmetta, Liserila, Kinsala, Kinsatta, Telvitte, Olmarnala, Olmarnatta, Ressila, Ressitta
 
 ### Lineage Names (Inherited Matrilineally)
 

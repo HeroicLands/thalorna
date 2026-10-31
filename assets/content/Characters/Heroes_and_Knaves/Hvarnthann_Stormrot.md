@@ -478,8 +478,8 @@ Emotional Distance
 
 ### Patrons
 
-Captain [[being-gnuldurthanni|Gnuldurthann Ilthumak]]
-: A grizzled merchant captain whose aging vessel has become famous across the northern routes. He brings Hvarnthann aboard whenever his schedule allows, calling him "the best navigator in Vithgard's service." Gnuldurthann has twice promoted Hvarnthann to first mate, though Hvarnthann has refused permanent rank.
+Captain [[being-gnuldurviri|Gnuldurvir Ilthumak]]
+: A grizzled merchant captain whose aging vessel has become famous across the northern routes. He brings Hvarnthann aboard whenever his schedule allows, calling him "the best navigator in Vithgard's service." Gnuldurvir has twice promoted Hvarnthann to first mate, though Hvarnthann has refused permanent rank.
 
 Merchant Princess [[being-thruldselda|Thruldselda]]
 : A wealthy trading magnate who contracts sailors for her extensive merchant fleet. She has offered Hvarnthann command of her flagship multiple times, recognizing his value and offering wages that would set him for life. His refusals perplex and intrigue her.

@@ -25,10 +25,30 @@ const read = (file, raw = fs.readFileSync(file, "utf8")) => ({
 // The baseline commit holds Tellumi as Khazri.md with shortcode khazrilng.
 const baselinePath = (file) =>
     file.endsWith("/Tellumi.md") ? file.replace("Tellumi.md", "Khazri.md") : file;
+// Taruzeli names respelled since the baseline.
+const taruzeliRespellings = [
+    ["Libanu", "Libuna"],
+    ["Salumu", "Salmuya"],
+    ["Sallimu", "Sallina"],
+    ["Gabbaru", "Gabbarim"],
+    ["Attunu", "Attuman"],
+    ["Kassuru", "Kassuruni"],
+];
+const respelled = (file, raw) =>
+    file.endsWith("/Taruzeli.md") ?
+        taruzeliRespellings.reduce(
+            (text, [from, to]) =>
+                text.replace(new RegExp(`(?<!\\p{L})${from}(?!\\p{L})`, "gu"), to),
+            raw,
+        )
+    :   raw;
 const fromBaseline = (file) =>
-    execFileSync("git", ["show", `${baseline}:${baselinePath(file)}`], {
-        encoding: "utf8",
-    }).replaceAll("khazrilng", "tellumilng");
+    respelled(
+        file,
+        execFileSync("git", ["show", `${baseline}:${baselinePath(file)}`], {
+            encoding: "utf8",
+        }).replaceAll("khazrilng", "tellumilng"),
+    );
 // Older names the steppe-tribe rulings replaced: the register rows and the
 // older-name list entries no longer exist, by file.
 const replacedOlderNames = new Map([

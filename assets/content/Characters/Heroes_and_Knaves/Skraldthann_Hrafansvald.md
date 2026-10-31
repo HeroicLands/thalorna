@@ -482,7 +482,7 @@ Secretive Nature
 
 ### Patrons
 
-Lady Viscountess [[being-thraskrinnag|Thraskrinna Gnuldurthanndottir]]
+Lady Viscountess [[being-thraskrinnag|Thraskrinna Gnuldurvirdottir]]
 : A powerful noblewoman who has been Skraldthann's most consistent and influential patron for twenty years. She wears his designs to every significant event and has championed his work in the highest circles.
 
 Duke [[being-svalthvirhna|Svalthvir Hnarvaruk]]

@@ -77,7 +77,7 @@ test("Osket preserves all original meanings, optional writings and name interpre
     // The new repertoire is checked independently by roman-inventories.test.mjs.
     delete fm.data.roman;
     assert.equal(fm.data.fields.pop().name, "Everyday speech");
-    assert.equal(hash(fm), "0787cec2744eae6a2e569a982a3d30fa0913ced9423bc8353efba8ef98e9920c");
+    assert.equal(hash(fm), "e18f295a2c493e621b9435e45426a305de925d85a7b9c425722ef680458acf4c");
     const body = splitFrontmatter(language.raw).body.replace(
         /## Everyday speech\n[\s\S]*?(?=## Script & Literacy\n)/u,
         "",
@@ -85,7 +85,7 @@ test("Osket preserves all original meanings, optional writings and name interpre
     // The fingerprint is of the body linking the Tellumi note as skill-khazrilng.
     assert.equal(
         hash(body.replaceAll("skill-tellumilng", "skill-khazrilng")),
-        "1b0779ffba8fd49a06d9d80f41764eeca85ed3ad846bbc2ad9c0b8db135e34e9",
+        "ef42d4dd43a3b81ec7b194881ea4e4165be925680a6a9eaee692806da457fad0",
     );
     assert(ids(words.find((w) => w.form === "goich")).includes("hearth"));
     assert(ids(words.find((w) => w.form === "shom")).includes("door"));

@@ -1,6 +1,6 @@
 ---
 shortcode: thraskrinnag
-name: {full: Thraskrinna Gnuldurthanndottir, en: [Lady Viscountess Thraskrinna Gnuldurthanndottir]}
+name: {full: Thraskrinna Gnuldurvirdottir, en: [Lady Viscountess Thraskrinna Gnuldurvirdottir]}
 type: being
 subType: npc
 description: A powerful noblewoman, styled Lady Viscountess, who is Skraldthann Hrafansvald's most consistent patron.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Thraskrinna Gnuldurthanndottir is a 46-year-old woman who stands 5'5" tall with a medium build. She has tanned skin, freckled complexion, dark blonde hair, and blue eyes.
+Thraskrinna Gnuldurvirdottir is a 46-year-old woman who stands 5'5" tall with a medium build. She has tanned skin, freckled complexion, dark blonde hair, and blue eyes.
 
 # Dossier {#dossier}
 
-Thraskrinna Gnuldurthanndottir is a powerful noblewoman, styled Lady Viscountess, who is [[being-skrldthnhrfnsvld|Skraldthann Hrafansvald]]'s most consistent patron. She has been Skraldthann's patron for twenty years.
+Thraskrinna Gnuldurvirdottir is a powerful noblewoman, styled Lady Viscountess, who is [[being-skrldthnhrfnsvld|Skraldthann Hrafansvald]]'s most consistent patron. She has been Skraldthann's patron for twenty years.

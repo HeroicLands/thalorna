@@ -1,6 +1,6 @@
 ---
-shortcode: gnuldurthanni
-name: {full: Gnuldurthann Ilthumak, en: [Captain Gnuldurthann Ilthumak]}
+shortcode: gnuldurviri
+name: {full: Gnuldurvir Ilthumak, en: [Captain Gnuldurvir Ilthumak]}
 type: being
 subType: npc
 description: A grizzled merchant captain whose aging vessel is famous across the northern routes, named in Hvarnthann Stormrót.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Gnuldurthann Ilthumak is a 25-year-old man who stands 5'10" tall with a medium build. He has tanned skin, ruddy complexion, dark brown hair, and hazel eyes.
+Gnuldurvir Ilthumak is a 25-year-old man who stands 5'10" tall with a medium build. He has tanned skin, ruddy complexion, dark brown hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Gnuldurthann Ilthumak is a grizzled merchant captain whose aging vessel is famous across the northern routes. He brings [[being-hvrnthnstrmrt|Hvarnthann]] aboard whenever his schedule allows, calling Hvarnthann "the best navigator in [[affiliation-kngdmvthgrd|Vithgard]]'s service". Gnuldurthann Ilthumak is named in Hvarnthann Stormrót.
+Gnuldurvir Ilthumak is a grizzled merchant captain whose aging vessel is famous across the northern routes. He brings [[being-hvrnthnstrmrt|Hvarnthann]] aboard whenever his schedule allows, calling Hvarnthann "the best navigator in [[affiliation-kngdmvthgrd|Vithgard]]'s service". Gnuldurvir Ilthumak is named in Hvarnthann Stormrót.

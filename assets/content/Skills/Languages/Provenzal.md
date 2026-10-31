@@ -7152,7 +7152,7 @@ data:
         - "Satere"
         - "Lordeme"
         - "Aurente"
-        - "Chadzime"
+        - "Chalzime"
         - "Bruteve"
         - "Kolmete"
         - "Tolveze"
@@ -7161,7 +7161,7 @@ data:
         - "Kalzote"
         - "Gredale"
         - "Gaimele"
-        - "Tambe"
+        - "Talvene"
         - "Velzore"
         - "Jentize"
         - "Lentize"
@@ -7450,8 +7450,8 @@ data:
     - {name: Aurente Ortemandis, tongue: provenzal}
     - {name: Lord Aurente Ortemandis, tongue: translation}
     - {name: Lord Aurente, tongue: translation}
-    - {name: Chadzime Cholsamis, tongue: provenzal}
-    - {name: Merchant-Prince Chadzime Cholsamis, tongue: translation}
+    - {name: Chalzime Cholsamis, tongue: provenzal}
+    - {name: Merchant-Prince Chalzime Cholsamis, tongue: translation}
     - {name: Kirama Iltoris, tongue: provenzal}
     - {name: Countess Kirama Iltoris, tongue: translation}
     - {name: Lordeme Kórisvar, tongue: provenzal}
@@ -7788,7 +7788,7 @@ The tradition of "love names" is widespread: a person might grant an intimate fr
 
 #### Male Names
 
-Solmere, Revote, Zedime, Orteme, Malvote, Talote, Kirame, Melvare, Tuleme, Solkime, Elvane, Iltore, Aiteve, Dirave, Satere, Lordeme, Aurente, Chadzime, Bruteve, Kolmete, Tolveze, Karalze, Olzate, Kalzote, Gredale, Gaimele, Tambe, Velzore, Jentize, Lentize, Palveze, Chezile, Lorrame, Taroze, Selvare
+Solmere, Revote, Zedime, Orteme, Malvote, Talote, Kirame, Melvare, Tuleme, Solkime, Elvane, Iltore, Aiteve, Dirave, Satere, Lordeme, Aurente, Chalzime, Bruteve, Kolmete, Tolveze, Karalze, Olzate, Kalzote, Gredale, Gaimele, Talvene, Velzore, Jentize, Lentize, Palveze, Chezile, Lorrame, Taroze, Selvare
 
 #### Female Names
 
