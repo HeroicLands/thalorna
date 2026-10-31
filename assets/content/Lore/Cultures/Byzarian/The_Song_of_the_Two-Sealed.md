@@ -29,463 +29,513 @@ The monks of the eastern rite hold that the Collector is no god and no servant o
 : The Song of the Two-Sealed {#song}
 
 ::: {.verse form=borderer-song lang=en work=song}
-Sit beside the fort fire, borderers guarding the springs,/
-and you grassland people wintering here under truce./
-Snow closes the pass. Nobody crosses the gate tonight./
-Sentries hold the wall. Barley fills the loft./
-Here is the final song of Kezvunash, the Two-Sealed,/
-hawk of the third spring, son of two peoples' seals:/
-the threshing-floor song, and the rider who climbed the road/
-at dusk with a book beneath his arm: the Collector on a black horse.
+Sit down by the fire of the fort, you borderers of the springs,/
+and you who come in from the grass to winter under the truce./
+The pass is shut with the snow; nothing crosses the gate tonight./
+The watch is up on the wall, the barley is in the loft,/
+and here is the last of the songs of Kezvunash the Two-Sealed,/
+the hawk of the third spring, the son of two peoples' seals:/
+the song of the threshing-floor, and the one who came up the road/
+at dusk with a book on his arm, the Collector, the black-horsed one.
 
-You know his mother, Dezhbalara of the third spring,/
-the captain's daughter carrying water to the wall,/
-two jars against her hips and another on her head./
-You know his father, a rider from the camps,/
-a winter-grass man whose name the fort never sings./
-The camps keep that name. A name belongs where it is tended./
-They met beside the spring when women drew water and horses drank./
-The fort refused. The camp refused. The spring kept silent./
-She left with the autumn camps and returned in spring with a son./
-The captain stood at his gate, refused to open, then opened it.
+You know who his mother was: Dezhbalara of the third spring,/
+the captain's daughter, who carried the water up to the wall,/
+who carried two jars on her hips and a third one on her head./
+You know who his father was: a rider out of the camps,/
+a man of the winter grass whose name the fort does not sing,/
+because the camps keep his name, and a name belongs where it is kept./
+They met at the spring at the hour the women draw and the horses drink./
+The fort said no. The camp said no. The spring said nothing at all./
+She went in the autumn with the camps, she came home in spring with a son,/
+and the captain stood in his gate and would not open, and then he opened.
 
-Listen to the boy's sealing, the hinge of this song./
-The captain entered him in the fort's roll,/
-the roll taken to the Hall when conscripts are counted./
-He pressed the fort die into wax and said, He belongs to us./
-At the year's turning the rider descended from camp/
-and cut its mark in a foal's ear, a gray filly./
-He put her rope in the boy's little hand and spoke in the grass language:/
-He belongs to us. Wax and ear sealed the boy twice,/
-wall and grass, his mother's people and his father's./
-The fort called him Kezvunash, hawk, because hawks cross boundaries./
-The camp gave its own name. The fort never asked for it./
-Two seals upon one bond, borderers. Two seals must close a twice-sealed bond./
-The Hall's law says so. The grassland law agrees./
-Remember. Before the song ends, you will need that rule.
+Hear how the boy was sealed, for the song turns on the sealing./
+The captain wrote him into the roll, the roll of the fort,/
+the roll that is carried down to the Hall when the conscripts are counted,/
+and he pressed the fort's die in the wax and said: this one is ours./
+And the rider came down from the camp at the turning of the year/
+and cut the camp's mark in the ear of a foal, the grey filly,/
+and put the filly's rope in the boy's small hand, and said in the grass-tongue:/
+this one is ours. So the boy was sealed twice, with the wax and the ear,/
+by the wall and the grass, by his mother's people and his father's./
+The fort called him Kezvunash, the hawk, because the hawk goes over the line./
+The camp called him by a name of its own, and the fort did not ask it./
+Two seals on one bond, borderers. A bond with two seals is closed with two./
+That is the law in the Hall, and the law of the grass is no different./
+Remember it now. The song will ask it of you before the end.
 
-Who defended the fourth spring alone when riders emerged from dust,/
-nine of one tribe, while its garrison was on the road?/
-Kezvunash, the Two-Sealed, went out beside the wall./
-He spoke the grass language and asked whose herds had brought them riding./
-He named their mothers' camps and fathers' forefathers back five generations./
-They turned their horses away. The fourth spring flowed and stayed ours./
-Who recovered the upland ewes driven off by mule-path thieves,/
-three hundred, with a plateau house mark burned into their wool?/
-Kezvunash, the Two-Sealed, followed the thieves for six days./
-At the pass-fort gate he counted them. Three hundred entered./
-Who stood in the opening beside the river ford when the captain rode to burn/
-winter camps for a horse none of their people had stolen?/
-Kezvunash, the Two-Sealed, stood there on the gray mare./
-Name an arbitrator, he told the captain, and I will name him too./
-The captain named a pass monk. The monk found the horse inside the fort./
+Who held the fourth spring alone when the raiders came out of the dust,/
+nine riders of one tribe, and the garrison out on the road?/
+Kezvunash held it, the Two-Sealed. He went out to them at the wall,/
+and spoke to them in the grass-tongue, and asked whose herds they were riding for,/
+and named their mothers' camps and their fathers' fathers back to the fifth,/
+and they turned their horses and went, and the fourth spring ran, and was ours./
+Who brought the upland ewes back down that the mule-track thieves had driven,/
+three hundred ewes with the mark of a plateau house burned in the fleece?/
+Kezvunash brought them back, the Two-Sealed. He followed the thieves for six days,/
+and he counted the ewes at the pass-fort gate, and three hundred went in./
+Who stood in the gap at the river ford when the captain rode out to burn/
+the winter camps for a stolen horse that nobody in them had stolen?/
+Kezvunash stood in the gap, the Two-Sealed, with the grey mare under him,/
+and said to the captain: name me an arbitrator, and I will name him too,/
+and the captain named a monk of the pass, and the monk found the horse in the fort./
 Who paid for a camp child's pony at the outer caravanserai/
-when the collector counted twice and the father had no silver?/
-Kezvunash, the Two-Sealed, paid and requested the count read again./
-The collector refunded him. The child rode inside, happy./
-Who carried the brothers' fever bark across the snowy pass/
-when coughing struck the winter camps and they lacked a healer,/
-with the winter gate shut and the captain refusing to open it?/
-Kezvunash, the Two-Sealed, left by the mule path./
-The brothers recorded his load. The camp elder counted it./
-He returned along the path with the elder's mark on the tally./
-Who married from the plateau with a written, sealed dowry,/
-and paid the camps' horse bride-price too, both within one month,/
-so neither his mother's nor his father's people remained owed?/
-Kezvunash, the Two-Sealed, married her twice:/
-once in the fort chapel, once in felt beside the river./
-She died in her bed long before him. Her keeping is paid./
-Those are the earlier songs. You know them. Sing them another night.
+when the collector counted it twice, and the child's father had no silver?/
+Kezvunash paid it, the Two-Sealed, and then he had the count read over,/
+and the collector paid him back, and the child rode in, and was glad./
+Who carried the brothers' fever-bark over the pass in the snow/
+when the cough came into the winter camps and the camps had no healer,/
+and the gate was shut for the winter, and the captain would not open it?/
+Kezvunash carried it, the Two-Sealed. He went out by the mule-track,/
+and the brothers wrote what he carried, and the camp's elder counted it,/
+and he came back by the mule-track with the elder's mark on the tally./
+Who took a wife from the plateau with a dowry written and sealed,/
+and paid the bride-price the camps ask in horses, both, in one month,/
+so that neither his mother's people nor his father's was owed on the day?/
+Kezvunash took her, the Two-Sealed, and the wedding was kept twice,/
+once in the fort's chapel and once in the felt tent at the river,/
+and she died in her bed long before him, and her keeping is paid./
+These are the songs before this song. You know them. Sing them another night.
 
-Listen now. He had grown old, his beard gray as his mare./
-She was the gray filly's daughter, from the camps like him./
-In the low-springs month, foothill grass becomes dust,/
-springs flow a finger wide, and forts count water./
-At dusk a rider climbed the road on a horse black as a die./
-Its hooves raised no dust. Its harness bells made no sound./
-He carried a book under one arm, pen and knife at his belt./
-A sentry called. The gate shut. The rider passed through it./
-He passed the fort gate as debt passes a door./
-He dismounted beside the barley threshing floor/
-and requested Kezvunash, the Two-Sealed, hawk of the third spring./
-The garrison stood on the wall without answering.
+Now hear it. He was old, his beard was grey as the mare he rode,/
+and the mare was the grey filly's daughter, out of the camps, as he was./
+It was the month of the low springs, when the foothill grass is dust/
+and the springs run a finger wide and the forts keep count of the water./
+At dusk a rider came up the road on a horse as black as a die,/
+and no dust rose from its hooves, and the bells on its harness were silent,/
+and he carried a book on his arm, and a pen and a knife at his belt,/
+and the watch on the wall called out, and the gate was shut, and he came through it./
+He came through the gate of the fort as a debt comes through a door,/
+and he got down by the threshing-floor where the barley is beaten out,/
+and he asked for Kezvunash the Two-Sealed, the hawk of the third spring,/
+and the garrison stood on the wall and did not answer him.
 
-Kezvunash left the barracks wearing only his shirt./
-He brought neither sword nor bow. Who takes a sword to a creditor?/
-He said, Who passes a shut gate and pays no toll?/
-The rider answered, I am the Collector, from the black gate,/
-sent by the Silent Judge, who accepts no offering and hears no petition./
-Your thread has reached its measured length on the [[lore-lusiniadty|Weaver]]'s wheel, Two-Sealed./
-I have come to close your account. Come. Our road is long./
-Kezvunash answered, Show the document. No man of the five cities/
-travels with a stranger merely on a stranger's claim of written terms.
+Kezvunash came out of the barracks. He came out in his shirt./
+He did not bring his sword or his bow. You do not bring a sword to a creditor./
+He said: who are you, who come through a shut gate without paying the toll?/
+The rider said: I am the Collector. I come from the black gate,/
+from the Silent Judge, who takes no offer and hears no plea./
+Your thread is run to its length on the [[lore-lusiniadty|Weaver]]'s wheel, Two-Sealed,/
+and I am sent to close your account. Come with me. The road is long./
+Kezvunash said: show me the paper. No man in the five cities/
+goes on a road with a stranger because the stranger says there is a paper.
 
-The Collector opened his book. The fort's brother descended from the wall,/
-a literate monk of the pass. Kezvunash placed him beside the fire./
-Brother, read it aloud, as a document is read before sealing./
-The brother read: the thread had reached its length,/
-that length was recorded, and its end was that very day./
-Beneath it lay a seal, the black gate in black wax./
-One seal, borderers. Remember: the document carried one.
+The Collector opened the book, and the fort's brother came down from the wall,/
+a monk of the pass, who reads, and Kezvunash stood him by the fire/
+and said: read it aloud to me, brother, as the paper is read before sealing./
+The brother read it aloud. The thread was spun to its length,/
+and the length was written there, and the length was that same day,/
+and under the length was the seal, the black gate in the black wax,/
+and there was one seal, borderers. Mark it. On the paper there was one seal.
 
-Kezvunash said, One seal. I was sealed twice, Collector./
-The captain used wax; the rider used the ear./
-I belong to fort and camp. Two seals close a twice-sealed bond./
-Bring the other seal and I will follow you down the road./
-The Collector said, The camps' dead are beyond my power to place./
-The grass rite is never spoken at the black gate. I cannot bring it./
-Kezvunash answered, Then you can close only half of me./
-The other half will wander these foothills with nobody keeping it,/
-dry-mouthed as the army that died between the field's springs,/
-drinking travelers' skins empty, draining jars before morning./
-I refuse that journey. All my life I honored two peoples' terms./
-Neither shall close me while the other leaves me open.
+Kezvunash said: that is one seal. I was sealed twice, Collector./
+The captain sealed me with wax, and the rider sealed me in the ear,/
+and I am the fort's and the camp's. A bond with two seals is closed with two./
+Bring me the other seal, and I will come with you down the road./
+The Collector said: the camps' dead are not mine to place./
+The rite of the grass is not said at the black gate. I cannot bring it./
+Kezvunash said: then you can close half of me and no more,/
+and the other half of me walks the foothills with no one to keep it,/
+dry-mouthed, like the host that died between the springs in the field,/
+and drinks from the skins of travelers, and empties the jars by morning./
+I will not go so. I have kept two peoples' terms all my life./
+I will not be closed by one of them and left unclosed by the other.
 
-The Collector said, I will take my own and leave the remainder./
-Kezvunash answered, Then a dispute exists. An arbitrator hears disputes./
-Name one, Collector, and I shall name him too./
-We will bring two seals and one document and obey his ruling./
-The Collector laughed, his first sound that night./
-Name one, he said. Every arbitrator in the five cities/
-takes his thread from the Weaver's wheel. I hold the knife at its end./
-Everyone who could hear this dispute owes me./
-Kezvunash said, Then we have no arbitrator. This one dispute/
-must leave the document, as none of mine ever has./
-Come to the threshing floor, Collector. Remove your belt.
+The Collector said: then I will take what is mine and leave the rest./
+Kezvunash said: then we have a quarrel, and a quarrel goes to the arbitrator./
+Name me an arbitrator, Collector, and I will name him too,/
+and we will take him the two seals and the one paper, and stand by his ruling./
+The Collector laughed, and it was the first sound he had made that night./
+He said: name me one. Every arbitrator of the five cities/
+holds his thread from the Weaver's wheel, and I hold the knife at its end./
+There is no man who can hear this quarrel who does not owe me./
+Kezvunash said: then there is no arbitrator. Then this one quarrel/
+goes out of the paper, as no quarrel of mine has ever gone out of it./
+Come down onto the threshing-floor, Collector. Take off your belt.
 
-They descended onto the barley-threshing stone./
-The garrison left the wall and gathered around it in darkness./
-Herders came from the spring. The riverside camp sent riders./
-At the light's edge the riders watched from their horses./
-They gripped. The Collector felt cold as winter iron./
-Kezvunash felt a living man's warmth. They circled./
-They circled throughout the night; stone rang beneath their heels./
-At first gray light the Two-Sealed lifted him and threw him down./
-The Collector lay on the floor. No dust rose./
-He stood, took his book, and wrote, Thrown, first day./
-Tomorrow, he said, and sat beside the spring without drinking.
+They went down onto the threshing-floor, onto the stone where the barley is beaten,/
+and the garrison came down off the wall and stood around it in the dark,/
+and the herders came up from the spring, and the camp at the river sent riders,/
+and the riders sat their horses at the edge of the light and watched./
+They took hold. The Collector was cold, as the iron is cold in winter./
+Kezvunash was warm, as a man is warm. They went round the floor./
+They went round the floor all night, and the stone rang under their heels,/
+and at the first grey the Two-Sealed lifted him, and threw him down on the stone,/
+and the Collector lay on the threshing-floor, and the dust did not rise./
+He got up. He took his book and wrote in it: thrown, the first day./
+He said: tomorrow. And he sat down by the spring, and did not drink.
 
-On the second night they descended onto that stone./
-Garrison, herders, and camp riders stood around them./
-They gripped. The Collector felt colder, like midwinter iron./
-Kezvunash had an old man's weariness. They circled./
-They circled throughout the night; stone rang beneath their heels./
-At first gray light the Two-Sealed lifted him and threw him down./
-The Collector lay on the floor. No dust rose./
-He stood, took his book, and wrote, Thrown, second day./
-Tomorrow, he said, and sat beside the spring without drinking.
+The second night they went down onto the threshing-floor, onto the stone,/
+and the garrison stood around it, and the herders, and the riders of the camp./
+They took hold. The Collector was colder, as the iron is colder at midwinter./
+Kezvunash was tired, as a man is tired who is old. They went round the floor./
+They went round the floor all night, and the stone rang under their heels,/
+and at the first grey the Two-Sealed lifted him, and threw him down on the stone,/
+and the Collector lay on the threshing-floor, and the dust did not rise./
+He got up. He took his book and wrote in it: thrown, the second day./
+He said: tomorrow. And he sat down by the spring, and did not drink.
 
-On the third night they descended onto that stone./
-Garrison, herders, and camp riders stood around them./
-Before the grip the Collector spoke. The brother heard./
-Later he said the words were delivered like a clause being read./
-Throw me a third time, Two-Sealed, and your thread continues without a length./
-An unmeasured thread has no term. A thing without terms has no agreement./
-You will ride the margin with the [[lore-karnavosdty|Wild Beast]], who refused his seal,/
-belonging to neither fort nor camp, sealed by neither, kept by nobody./
-That is the exchange a third throw brings. I declare it before your purchase.
+The third night they went down onto the threshing-floor, onto the stone,/
+and the garrison stood around it, and the herders, and the riders of the camp,/
+and before they took hold the Collector spoke, and the fort's brother heard it,/
+and the brother said afterward that it was spoken as a clause is read:/
+Throw me a third time, Two-Sealed, and the thread runs on with no length./
+A thread with no length is no term, and a thing with no term is unagreed./
+You will ride at the margin with the [[lore-karnavosdty|Wild Beast]], who would not seal,/
+the fort's no more, and the camp's no more, sealed by neither, kept by none./
+That is what a third throw buys you. I declare it before you buy it.
 
-Kezvunash stood on the floor and looked around:/
-garrison carrying torches, herders carrying crooks,/
-winter-camp riders mounted at the edge,/
-the hilltop fort, the grass extending into darkness./
-He said, Two seals were given me for two keepings. I refuse to have none./
-I will settle this, Collector. Hear my terms.
+Kezvunash stood on the threshing-floor and looked at the people round it,/
+at the garrison with their torches, at the herders with their crooks,/
+at the riders of the winter camp who sat their horses at the edge,/
+at the fort on its hill and the grass going out to the dark./
+He said: I was sealed twice to be twice kept, not to be kept by no one./
+I will not win this, Collector. I will settle it. Hear my terms.
 
-Write that the fort's brother shall speak over me/
-its gate rite in its own fashion, and the black gate shall open to it./
-Write that the camp elder shall speak its grass rite over me/
-in its own fashion. Our fort never sings it; it belongs beyond our singing./
-Write that I shall lie beside the third spring between wall and winter grass,/
-head toward the fort, feet toward camp, spring between,/
-and both shall draw that spring's water at one place:/
-fort jars and camp skins, one trough, one hour./
-Write and seal it, Collector. On the third throw I will fall.
+Write in your book, Collector, that the fort's brother says over me/
+the rite of the gate, as the fort says it, and the black gate opens to it;/
+and write that the camp's own elder says over me the rite of the grass,/
+as the grass says it, which the fort does not sing, for it is not ours to sing;/
+and write that I lie at the third spring, between the wall and the winter grass,/
+with my head to the fort and my feet to the camp, and the spring between,/
+and that the water of the spring is drawn from that one place by both,/
+the fort's jars and the camp's skins, at the one trough, at the one hour./
+Write that, Collector, and seal it, and I will go down on the third throw.
 
-The Collector wrote. The brother read the entire clause aloud/
-in the fort language. A camp rider dismounted/
-and repeated it in the grass language for the camp to hear./
-The Collector pressed the black gate into black wax./
-Then the third-spring captain stepped out from the torches/
-and pressed the fort die beside it. The camp elder/
-walked from the darkness and incised the camp mark in the margin./
-Three seals, borderers. Count: fort, camp, gate./
-They gripped a third time and circled once./
-The Two-Sealed went down like a bale descending onto a balance,/
-under its own weight, and lay still. The Collector stood above him.
+The Collector wrote it. The fort's brother read it aloud, the clause entire,/
+in the tongue of the fort, and a rider of the camp got down from his horse/
+and said it over in the grass-tongue, so that the camp heard it read,/
+and the Collector put the black gate on it in the black wax./
+Then the captain of the third spring came forward out of the torches,/
+and pressed the fort's die in the wax beside it. And the elder of the camp/
+came forward out of the dark on foot, and cut the camp's mark in the margin./
+Three seals on the paper, borderers. Count them. The fort's, the camp's, the gate's./
+Then they took hold for the third time, and went once round the floor,/
+and the Two-Sealed went down on the stone as a bale goes onto the balance,/
+of its own weight, and was still, and the Collector stood up over him.
 
-His death came later, in his bed within the fort,/
-as a five-cities man dies, with accounts settled aloud./
-Garrison and riders carried him inside by arms and legs./
-The captain stood at his head; the elder stood at his feet./
-The brother sat with the book on his knee, writing the words./
-He called for debts owed him: none. He had lent nothing./
-He acknowledged his debts: to the fort, the month's pay already drawn;/
-to the camp, the gray mare, the gray filly's daughter, to return home;/
-to his mother's grave, keeping, with named money and named keeper;/
-to the Collector, his thread. Then he said, The account is shut./
-The brother wrote and read it aloud. The captain sealed./
-The elder incised his mark in the margin. At first gray light Kezvunash died.
+He did not die on the threshing-floor. He died on his bed in the fort,/
+the way a man of the five cities dies, with his accounts settled aloud./
+They carried him in, the garrison and the riders, by the arms and legs,/
+and the captain stood at his head and the elder of the camp at his feet,/
+and the brother sat with the book on his knee to write what was said./
+He called in what was owed him, and it was nothing. He had lent no one./
+He owned what he owed. To the fort, his pay for the month, which he had drawn./
+To the camp, the grey mare, the grey filly's daughter, to go home./
+To his mother's tomb, a keeping, and he named the coin and the keeper./
+To the Collector, his thread. Then he said: the account is closed,/
+and the brother wrote it, and read it aloud, and the captain sealed,/
+and the elder cut the mark in the margin, and at the first grey he died.
 
-The brother spoke the fort's gate rite in its fashion./
-The elder spoke the grass rite in its fashion./
-The fort never sings that rite. It stood silent while he spoke./
-They buried Kezvunash beside the third spring between wall and winter grass,/
-head toward the fort, feet toward camp, spring between./
-The Collector stood at the grave until both rites ended./
-He mounted his black horse and rode down the pass road./
-Its hooves raised no dust. Its harness bells made no sound.
+The brother said the rite of the gate over him, as the fort says it,/
+and the elder said the rite of the grass, as the grass says it,/
+which the fort does not sing, and the fort stood by in silence while it was said./
+They buried him at the third spring, between the wall and the winter grass,/
+with his head to the fort and his feet to the camp, and the spring between,/
+and the Collector stood at the grave until both rites were said,/
+and then he got up on the black horse and rode down the pass road,/
+and no dust rose from its hooves, and the bells on its harness were silent.
 
-The fort women lamented from the wall in the fort's fashion,/
-naming his pay, his roll, his defended springs, his recovered ewes./
-The camp women lamented from the grass in the camp's fashion,/
-naming their own names, beyond the fort's singing./
-Two laments crossed the spring and met over the grave./
-The brother standing between them says they never disputed./
-The captain's wife set a spring-water jar at his head./
-The elder's wife set a spring-water skin at his feet./
-At morning both remained full,/
-because he was kept, borderers, kept twice. The tended dead know no thirst.
+The women of the fort keened him from the wall, as the fort keens,/
+naming his pay and his roll and the springs he held and the ewes he brought,/
+and the women of the camp keened him from the grass, as the camp keens,/
+naming whatever they name, which the fort does not sing./
+The two laments went over the spring and met above the grave,/
+and the brother, who stood between them, says they did not quarrel./
+The captain's wife put a jar of the spring's water at his head,/
+and the elder's wife put a skin of the spring's water at his feet,/
+and in the morning the jar was full and the skin was full,/
+because he was kept, borderers, twice kept, and the dead who are kept are not thirsty.
 
-That is why the third spring alone among the March's springs/
-fills fort jars and camp skins at one trough, one hour./
-Winter-camp riders water their horses beside the garrison's mules./
-Nobody counts water there. Elsewhere the forts count it all./
-The camps sing this in the grass language. Their hero belongs to them./
-His mother is a soldier's daughter. Their fort carries another name./
-Let them sing. The grave is the same. Both songs end at one spring./
-That is Kezvunash the Two-Sealed's song, hawk of the third spring./
-Add wood to the fire. The watch changes. Nobody crosses tonight.
+And this is why at the third spring, and at no other spring of the March,/
+the fort's jars and the camp's skins are filled at the one trough at the one hour,/
+and the riders of the winter camps water their horses with the garrison's mules,/
+and no one counts the water there, though the forts count it everywhere else./
+The camps sing this in the grass-tongue, and in their song the hero is theirs,/
+and his mother is a soldier's daughter, and the fort has a different name./
+Let them sing it. It is the same grave. Both songs end at the one spring./
+That is the song of Kezvunash the Two-Sealed, the hawk of the third spring./
+Put a stick on the fire. The watch changes. Nothing crosses tonight.
 :::
 
 ::: {.verse form=borderer-song lang=biza enc=bizahelonikaenc work=song}
-Parzhelir er krenir, katelarin parza itrin er parzhel./
-Toum er arzhel, er érkharin prel krumvar katet eirenet, katelarin./
-Kionir kleitarin vezhrel. Medinántimor érkharin dres pilin en heum nikhtir./
-Melvar ésharin hut teikhir. Barzhel ésharin en hurvel./
-Enit telest varzhel er Kezvunash Drinsfradel,/
-kezvun er trel krenir, huyir er sfradin er drin antmerin./
-Varzhel er alvel. Varzhel er hikatin er anerit dres hodis./
-En hespetin heir féranin kitvar en brakin. Varzhar frun melvar tulvaz.
+Parzhelir, katelarin ern itrin er heum parzhel,/
+koum toum er arzhel, en krumvar hupor spondhelin‼/
+Kleitarin vezhrel nunet, kionir. Vezh dres pilin./
+Melvar esh epir teikhir, koum barzhel en hurvel,/
+koum enit telest varzhel er Kezvunash Drinsfradel,/
+kezvun er krenir trel, huyir, sfradin er drin fulatin,/
+varzhel er alvel, koum er tulvazar anet hodis/
+en hespetin frun biblatin, Varzhar, er melvar tulvaz.
 
-Toum epistémarin matira er heir. Dezhbalara er trel krenir./
-Tighir er arsher. Heira féranin hidir prou teikhir./
-Drin kalzhel en iskhelin, trel kalzhel en kefalir./
-Toum epistémarin tokhir er heir. Tulvazar afor orzhel./
-Anerit er arzhel er krumvar. Parzhel uf rétasin ónomir er heir./
-Deir orzhel valzarin ónomir. Ónomir ésharin er teselin er valzin er autel./
-Helin sumetarin parza krenir. Ghunet féranin hidir. Tulvaz potarin./
-Parzhel rétasin noir. Orzhel rétasin noir. Krenir rétasin medin./
-Heira érkharin frun orzhel en autumnar. Heira nostarin frun huyir en krenhar./
-Arsher statarin en pilin. Heir arneitarin anoigharin. Efet heir anoigharin.
+Toum epistémarin, tirm matira er heir esh./
+Dezhbalara er krenir trel, tighir er heun arsher,/
+er féranin hidir anet, drin kalzhel en iskhelin,/
+koum meun en kefalir. Toum epistémarin/
+tokhir er heir, tulvazar afor orzhel er arzhel,/
+anerit er arzhel krumvar, ónomir uf sorarin./
+Orzhel sotharin ónomir, ónomir esh er orzhel./
+Drin sumetarin ern krenir, potet tulvaz potarin./
+Parzhelir rétasin, «Noir.» Orzhel rétasin, «Noir.»/
+Krenir uf rétasin hostin. Heira esh frun orzhel,/
+koum nostarin en krenhar frun huyir, koum arsher/
+statarin en pilin koum arneitarin, efet/
+anoigharin pilin prel heira koum huyir.
 
-Akrotarin sfradin er paidelir. Sfradin ésharin aitelin er varzhel./
-Arsher zervarin heir en kitvar er parzhel./
-Kitvar érkharin katet prou Harvel potet herin aritmarin parzhelir er vardin./
-Heir zharzarin neshar er parzhel en cherzin. Heir rétasin. Heum ésharin er herin./
-Tulvazar érkharin katet afor orzhel en nevrash er eniautin./
-Heir zharvarin neshar er orzhel en otarin er tevir er tulvaz, politir tighir./
-Heir tetarin narvel er tighir tulvaz en mikrir keirin er paidelir. Heir rétasin en retin er arzhel./
-Heum ésharin er herin. Drel paidelir ekhárin drin sfradin. Cherzin frun otarin./
-Teikhir frun arzhel. Antmerin er matira frun er tokhir./
-Parzhel kaleitarin heir Kezvunash, kezvun, deir kezvun érkharin hut telzhel er ghéranis./
-Orzhel kaleitarin heir frun ónomir er autel. Parzhel uf erotarin hein./
-Drin sfradin en meun deshvar, parzhelir. Drin sfradin kleitarin deshvar er drin sfradin./
-Heum ésharin nomashir en Harvel. Nomashir er arzhel uf ésharin heter./
-Toum velzarin nunet. Varzhel erotarin heum afor toum prez teltin.
+Akherin heum, parzhelir, sfradin er paidelir‼/
+Sfradin esh zarzvel er varzhel. Arsher zervarin heir/
+epir kathalir er parzhel, féranin prou Harvel/
+potet aritmarin vardin, koum zharzarin sfradin/
+er parzhel en cherzin. Heir taret, «Heum er herin.»/
+Koum tulvazar érkharin afor orzhel en zarzvel,/
+zharvarin neshar er orzhel en otarin er tulvaz,/
+politir koum trar mikrir, koum tetarin narvel/
+epir keirin er tevir, en lékhisir er arzhel,/
+«Heum er herin.» Drel tevir esh sfradarin drinhorat,/
+frun cherzin koum otarin, teikhir koum arzhel,/
+frun fulatin er matira koum tokhir er heir./
+Parzhel ónomarin heir Kezvunash, deir kezvun/
+érkharin hut teltin. Orzhel dorasarin ónomir,/
+koum parzhel uf akherin. Drin sfradin, meun deshvar./
+Deshvar ekhárin drin sfradin, kleitarin drinhorat./
+Heum nomashir en Harvel, koum er arzhel homet./
+Velzarin heum, parzhelir‼ Prez teltin erotarin.
 
-Tirm sotharin vesmor krenir monet autel, potet varzhelir érkharin afor konetin./
-9 tulvazar er meun fulatin. Parzhen ésharin en hodis./
-Kezvunash sotharin hein, Drinsfradel. Heir érkharin prou helin parza teikhir./
-Heir rétasin retin er arzhel. Heir erotarin. Er tirm eritin ésharin aitelin er tulvazar er toum./
-Heir kaleitarin orzhel er matira er helin, tokhir er tokhir er helin, prou plem zhalven er ghentir./
-Helin allatarin tulvaz. Helin érkharin apet. Vesmor krenir reshir. Hein ésharin er herin./
-Tirm féranin erin er vezhnur katet paler, er vazhel er mulvar hodis féranin apet./
-300 erin frun neshar er domin er vezhnur en eritin er helin./
-Kezvunash féranin paler, Drinsfradel. Heir nuzvarin vazhel prel 6 hemerin./
-Heir aritmarin erin parza pilin er parzhel er vezhrel. 300 érkharin dres pilin./
-Tirm statarin en merzhel parza badelvar er fótamir, potet arsher érkharin prel itrarin/
-orzhel er krumvar deir apetin er tulvaz. Medinántimor en orzhel lámbarin tulvaz./
-Kezvunash statarin en merzhel, Drinsfradel. Politir matira er tulvaz ésharin katet heir./
-Heir rétasin prou arsher. Toum kaleitarin marzhar prel egh. Egh kaleitarin heir prostet./
-Arsher kaleitarin munzhar er vezhrel. Munzhar heurarin tulvaz en parzhel./
-Tirm zharparin prel mikrir tulvaz er tevir er orzhel parza apet karvashvel./
-Potet tolzhar aritmarin hein drinhorat. Tokhir er tevir uf ekhárin argirin./
-Kezvunash zharparin, Drinsfradel. Efet heir erotarin darzarin er aritmas paler./
-Tolzhar nostarin nomisin prel heir. Tevir tulvazarin dres pilin frun karil./
-Tirm féranin derzhel er noselin er adelir dres vezhrel en kionir./
-Potet korzhel érkharin prou orzhel er krumvar. Orzhel uf ekhárin iatar./
-Pilin kleitarin prel krumvar. Arsher arneitarin anoigharin./
-Kezvunash féranin, Drinsfradel. Heir érkharin apet dres mulvar hodis./
-Adelir zervarin edin er iatar er heir féranin. Geratir er orzhel aritmarin hein./
-Heir nostarin dres mulvar hodis frun neshar er geratir en zharvel er aritmas./
-Tirm lámbarin gemetira afor vezhnur frun gemetvar er zervarin, er sfradarin./
-Heir zharparin zharpin er gemetira er orzhel erotarin en tulvaz. Drin en meun menetin./
-Drel antmerin er matira, antmerin er tokhir uf ekhárin vardesh en hemerin er gemetrin./
-Kezvunash lámbarin heira, Drinsfradel. Helin pratarin gemetrin drinhorat./
-Meunhorat en mikrir theshel er parzhel. Meunhorat en selvazh parza fótamir./
-Heira tanearin en klinetin er heira makrir kronin prez heir. Valzin er heira ekhárin zharpin./
-Heum ésharin varzhel prez heum varzhel. Toum epistémarin. Toum rétasin en heter nikhtir.
+Tirm sotharin krenir vesmor, monet, potet varzhelir/
+érkharin afor konetin, ennevir er fulatin,/
+parzhen esh apet en hodis? Kezvunash Drinsfradel esh./
+Érkharin prou teikhir, en lékhisir er arzhel/
+erotarin prel tirm helin tulvazarin en arzhel,/
+ónomarin plum matira koum tokhir mekhir plem./
+Helin allatarin tulvaz. Krenir vesmor er herin./
+Tirm féranin erin paler afor vazhel er hodis,/
+trel hentor erin frun neshar er domin en eritin?/
+Kezvunash féranin helin, Drinsfradel, koum heir/
+nuzvarin zemor hemerin, aritmarin ern pilin/
+er parzhel er vezhrel, koum esor trel hentor erin./
+Tirm statarin ern badelvar, potet arsher érkharin/
+prel itrarin orzhel krumvar deir tulvaz er vazhin,/
+kaiter hostir en orzhel medinkronin lámbarin?/
+Kezvunash statarin, heir, Drinsfradel, epir tulvaz./
+«Ónomarin marzhar, arsher, egh ónomarin heir.»/
+Arsher ónomarin munzhar er vezhrel, koum munzhar/
+heurarin heun tulvaz epir darvel er parzhel./
+Tirm zharparin ern karvashvel tolzát er mikrir tulvaz/
+er tevir er orzhel, potet tolzhar aritmarin drin,/
+koum tokhir uf ekhárin argirin? Kezvunash esh,/
+Drinsfradel, koum zharparin, erotarin aritmas./
+Tolzhar nostarin argirin, tevir esor frun karil./
+Tirm féranin derzhel anet dres vezhrel en kionir,/
+potet korzhel esh en orzhel, medin iatar, pilin/
+kleitarin en kionir, arsher arneitarin?/
+Kezvunash féranin hein, Drinsfradel, koum mulvar./
+Adelir zervarin hein, geratir aritmarin./
+Heir nostarin frun neshar er geratir en zharvel./
+Tirm lámbarin gemetira frun gemetvar sfradarin,/
+koum zharparin en tulvaz, drin en meun menetin,/
+prel medinerdrin ekhárin vardesh? Heir, Drinsfradel./
+Heum gemetrin, drinhorat, en theshel er parzhelir/
+koum selvazh ern fótamir. Heira tanearin/
+epir klinetin prez heir, koum zharparin valzin./
+Helin esh varzhel prez heum. Toum epistémarin./
+En heter nikhtir sorarin helin, uf heum nikhtir‼
 
-Nunet akrotarin. Heir ésharin geratir. Genvar er heir ésharin politir houm matira er tulvaz er heir./
-Matira er tulvaz ésharin tighir er politir tevir er tulvaz. Afor orzhel, houm heir./
-Hein ésharin menetin er kamelir krenir. Arzhel er vezhnur ésharin konetin./
-Krenir reshir en platelin er meun dakhelin. Parzhel aritmarin hidir./
-En hespetin tulvazar érkharin anet dres hodis. Tulvaz ésharin melvar houm neshar./
-Medin konetin airatarin afor navrel er tulvaz. Chirnal en dezhel ésharin uf tarir./
-Kitvar ésharin en brakin er heir. Zervel frun makhel ésharin en zostir./
-Melvar hut teikhir kaleitarin. Pilin kleitarin. Heir érkharin dres hein./
-Heir érkharin dres pilin er parzhel houm vardesh érkharin dres turin./
-Heir érkharin katet parza alvel. Parzhen pratarin teletin er barzhel ekesh./
-Heir erotarin Kezvunash Drinsfradel, kezvun er trel krenir./
-Parzhen statarin hut teikhir. Helin uf ameitarin.
+Heir esh geratir nunet, politir houm tulvaz,/
+tighir er heun politir, er orzhel, houm heir./
+Krenir esh kamelir, arzhel esh konetin en lofir,/
+parzhel aritmarin hidir, krenir houm dakhelin./
+En hespetin fom tulvazar érkharin anet hodis/
+epir tulvaz, melvar houm sfradin, koum konetin/
+uf airatarin hupor, chirnal er dezhel sighet,/
+koum biblatin en brakin, zervel, makhel en zostir./
+Melvar erotarin, «Tirm esh?» Pilin esh kleitarin./
+Heir érkharin dres hein, houm vardesh dres turin,/
+koum katet parza alvel, ekesh herin tufarin,/
+erotarin prel Kezvunash, Drinsfradel er krenir trel./
+Parzhen statarin en melvar, medin ameitarin.
 
-Kezvunash érkharin apet afor dometin er parzhelir. Heir ekhárin kitonir monet./
-Heir uf féranin zirvel eil tokhel. Toum uf féranin zirvel prou vardeshar./
-Heir rétasin. Tirm ésharin toum. Toum érkharin dres kleitarin pilin uf frun tolzát./
-Tulvazar rétasin. Egh ésharin Varzhar. Egh érkharin afor melvar pilin./
-Afor Sighelin Dikaser. Heir arneitarin dorashin. Heir uf akrotarin erotarin./
-Nematin er toum ésharin teletin en kervel er Nemvara, Drinsfradel./
-Egh érkharin prel kleitarin kitvar er toum. Toum érkharin frun egh. Hodis ésharin makrir./
-Kezvunash rétasin. Toum zhelvarin papirin prel egh. Medin anerit er 5 pólitar/
-érkharin dres hodis frun ksenetir deir monet retin er ksenetir er papirin.
+Kezvunash érkharin ekor, frun kitonir, uf zirvel./
+Medinántimor féranin zirvel prou vardeshar./
+Heir erotarin, «Tirm esh toum, esor dres pilin/
+kleitarin, uf frun tolzát?» Rétasin, «Egh esh Varzhar,/
+Varzhar afor melvar pilin er Sighelin Dikaser,/
+er lámbarin medin pubrin, uf akherin erotin./
+Kezvun, nematin er toum esh olashin en kervel./
+Nemvara nemzarin hein. Egh kleitarin kitvar./
+Érkharin frun egh, Drinsfradel‼ Hodis ésharin makrir.»/
+Kezvunash rétasin, «Toum zhelvarin egh papirin‼/
+Anerit er plem pólitar uf nuzvarin ksenetir/
+deir ksenetir rétasin, ‹Ekhárin egh papirin.›»
 
-Varzhar anoigharin kitvar. Adelir er parzhel érkharin katet afor teikhir./
-Munzhar er vezhrel. Heir darzarin. Kezvunash tetarin heir parza itrin./
-Heir rétasin. Adelir, toum darzarin hein taret prel egh, houm papirin prez sfradarin./
-Adelir darzarin taret. Nematin ésharin teletin en makrin er autel./
-Makrin ésharin zervarin ekesh. Makrin ésharin homet hemerin./
-Katet makrin ésharin sfradin. Melvar pilin en melvar cherzin./
-Meun sfradin, parzhelir. Toum velzarin. Meun sfradin en papirin.
+Varzhar delarin biblatin, koum munzhar er vezhrel/
+katet, er darzarin, koum Kezvunash, parza itrin,/
+tetarin heir, rétasin, «Darzarin hein taret,/
+adelir, houm papirin esh darzarin prez sfradin.»/
+Adelir darzarin taret. Nematin esh olashin,/
+koum makrin en biblatin, makrin, heum hemerin,/
+koum hupor makrin sfradin, melvar pilin en cherzin,/
+meun sfradin esh. Velzarin‼ Papirin, meun sfradin.
 
-Kezvunash rétasin. Heum ésharin meun sfradin. Egh ekhárin drin, Varzhar./
-Arsher sfradarin egh frun cherzin. Tulvazar sfradarin egh en otarin./
-Egh ésharin er parzhel, er orzhel. Drin sfradin kleitarin deshvar er drin sfradin./
-Toum féranin heter sfradin prel egh. Toteir egh érkharin frun toum katet dres hodis./
-Varzhar rétasin. Tanor er orzhel uf ésharin er egh prel tetarin./
-Ieresin er arzhel uf ésharin rétasin parza melvar pilin. Egh uf dunatarin féranin hein./
-Kezvunash rétasin. Drel toum dunatarin kleitarin hemetin er egh. Monet hemetin./
-Heter hemetin er egh badelin en vezhnur. Medinántimor valzarin hein./
-Stomir ésharin zerhir. Houm poletar er tanearin meteir krenir en pedin./
-Heir potarin afor skitin er badelar. Heir pautarin hidir er kalzhel prez ortrin./
-Egh uf érkharin houm heum. Egh sotharin deshvel er drin antmerin plum zelarin er egh./
-Egh uf dorasarin efir prel meun kleitarin, prel heter uf kleitarin.
+Kezvunash rétasin, «Heum esh meun sfradin, Varzhar./
+Egh esh sfradarin drinhorat. Arsher, en cherzin, koum/
+tulvazar en otarin. Egh esh er parzhel, er orzhel./
+Deshvar ekhárin drin sfradin, kleitarin drinhorat./
+Féranin egh sfradin heter, egh érkharin frun toum.»/
+Varzhar ameitarin, «Egh uf valzarin en orzhel./
+Ieresin er arzhel uf esh en pilin er tanor.»/
+Kezvunash rétasin, «Toum kleitarin hemetin,/
+koum hemetin badelin en lofir, uf frun valzin,/
+houm poletar er tanor parza krenir en pedin,/
+potarin afor badelar, kalzhel maník en ortrin./
+Egh arneitarin heum. Sotharin deshvel er drin/
+fulatin en plum zelira. Neur kleitarin egh/
+frun meun fulatin, koum heter uf kleitarin.»
 
-Varzhar rétasin. Drel egh lámbarin kemetin er egh. Egh tetarin heter enit./
-Kezvunash rétasin. Drel herin ekhárin prakhel. Prakhel érkharin prou marzhar./
-Toum kaleitarin marzhar prel egh, Varzhar. Egh kaleitarin heir prostet./
-Herin féranin drin sfradin, meun papirin prou heir. Herin peitir kritin er heir./
-Varzhar ghélarin. Hein ésharin meun tarakin er heir en heun nikhtir./
-Heir rétasin. Toum kaleitarin meun. Plum marzhar er 5 pólitar/
-ekhárin nematin afor kervel er Nemvara. Egh ekhárin makhel en teltin er hein./
-Vezh anerit prel akrotarin er heum prakhel uf frun vardesh prel egh./
-Kezvunash rétasin. Drel vezh marzhar. Drel heum meun prakhel/
-érkharin apet afor papirin. Medin heter prakhel er egh érkharin houm hein./
-Toum érkharin katet prou alvel, Varzhar. Toum otelarin zostir er autel.
+Varzhar rétasin, «Toteir lámbarin teir er egh.»/
+Kezvunash rétasin, «Herin ekhárin prakhel, Varzhar,/
+koum prakhel prou marzhar. Ónomarin egh marzhar,/
+egh prostet. Herin féranin drin sfradin prou heir,/
+papirin. Toteir herin statarin opit kritin.»/
+Varzhar ghélarin en nikhtir, prinet plum akhein esh./
+«Ónomarin meun, kezvun‼ Plum marzhar er pólitar/
+ekhárin nematin afor kervel, koum egh makhel./
+Vezh anerit prel akherin er uf ekhárin vardesh.»/
+Kezvunash rétasin, «Drel vezh marzhar. Drel heum prakhel/
+érkharin afor papirin, uf houm heter er egh./
+Katet epir alvel, Varzhar‼ Tetarin zostir apet‼»
 
-Helin érkharin katet prou alvel. Litorin er teletin er barzhel./
-Parzhen érkharin katet afor teikhir. Helin statarin perel hein en skotelir./
-Erinvar érkharin anet afor krenir. Orzhel parza fótamir féranin tulvazar./
-Tulvazar katelarin en tulvaz parza teltin er faelin. Helin meltarin./
-Helin ekhárin heter en keirin. Varzhar ésharin krumir houm siderin en krumvar./
-Kezvunash ésharin termir houm anerit. Helin kinetarin perel alvel./
-Plum nikhtir helin kinetarin perel. Litorin rétasin katet pelmatin./
-En meun politir faelin Drinsfradel airatarin heir. Heir riptarin heir katet prou litorin./
-Varzhar kelrin en alvel. Konetin uf airatarin./
-Heir statarin. Heir lámbarin kitvar. Heir zervarin. Egh piptarin. Meun hemerin./
-Heir rétasin. Aurit. Heir katelarin parza krenir. Heir uf potarin.
+Heir koum Varzhar katet epir alvel, litorin,/
+parzhen katet, en skotelir, statarin perel alvel,/
+erinvar er krenir, koum tulvazar afor orzhel/
+statarin ern teltin, koum meltarin epir tulvaz./
+Helin lámbarin. Varzhar esh krumir houm siderin,/
+Kezvunash esh termir houm anerit. Perel alvel/
+plum nikhtir, koum litorin tarir hupor podelin./
+En eotira Drinsfradel airatarin heir,/
+riptarin heir en alvel. Medin konetin anet./
+«Riptarin, hemerin meun,» Varzhar zervarin hein./
+«Aurit,» heir rétasin. Ern krenir, uf potarin.
 
-En drin nikhtir helin érkharin katet prou alvel, prou litorin./
-Parzhen statarin perel, frun erinvar, frun tulvazar er orzhel./
-Helin ekhárin heter en keirin. Varzhar ésharin pletir krumir houm siderin en meshir er krumvar./
-Kezvunash ésharin kamir houm geratir anerit. Helin kinetarin perel alvel./
-Plum nikhtir helin kinetarin perel. Litorin rétasin katet pelmatin./
-En meun politir faelin Drinsfradel airatarin heir. Heir riptarin heir katet prou litorin./
-Varzhar kelrin en alvel. Konetin uf airatarin./
-Heir statarin. Heir lámbarin kitvar. Heir zervarin. Egh piptarin. Drin hemerin./
-Heir rétasin. Aurit. Heir katelarin parza krenir. Heir uf potarin.
+En nikhtir drin, koum helin érkharin epir alvel,/
+parzhen esh perel, erinvar, tulvazar afor orzhel./
+Helin lámbarin. Varzhar esh pletir krumir, siderin,/
+Kezvunash esh kamir houm geratir. Perel alvel/
+plum nikhtir, koum litorin tarir hupor podelin./
+En eotira Drinsfradel airatarin heir,/
+riptarin heir en alvel. Medin konetin anet./
+«Riptarin, en hemerin drin,» Varzhar zervarin hein./
+«Aurit,» heir rétasin. Ern krenir, uf potarin.
 
-En trel nikhtir helin érkharin katet prou alvel, prou litorin./
-Parzhen statarin perel, frun erinvar, frun tulvazar er orzhel./
-Prez keirin er helin Varzhar rétasin. Adelir er parzhel akherin./
-Efet adelir rétasin. Retin ésharin houm darzarin er keletin./
-Toum riptarin egh trelhorat, Drinsfradel. Toteir nematin menetarin uf frun makrin./
-Nematin uf frun makrin uf ésharin deshvel. Pratin uf frun deshvel uf ekhárin harmodin./
-Toum tulvazarin en zelvar frun Varzhel Ternin. Heir arneitarin sfradarin./
-Toum uf ésharin er parzhel, er orzhel. Medinerdrin sfradarin toum. Medinántimor valzarin./
-Heum ésharin ameitin er trel riptarin. Egh rétasin zerpel prez agorarin er toum.
+En nikhtir trel, koum helin érkharin epir alvel,/
+parzhen esh perel, erinvar, tulvazar afor orzhel,/
+koum prez lámbarin, Varzhar rétasin, koum munzhar/
+akherin houm keletin en papirin darzarin./
+«Eif toum riptarin egh en trelhorat, Drinsfradel,/
+nematin uf pautarin, ekhárin medin makrin./
+Nematin frun medin makrin ésharin medin deshvel,/
+koum praghin uf frun deshvel ésharin Uf-Harmodin./
+Ern zelvar toum badelin, koum frun Varzhel Ternin,/
+er arneitarin sfradin, uf er parzhel, uf orzhel,/
+frun medin sfradin, koum toum en valzin er medin./
+Heum toum agorarin frun riptarin trelhorat./
+Egh rétasin heum zerpin prez toum agorarin.»
 
-Kezvunash statarin en alvel. Heir meltarin antmerin perel./
-Parzhen frun delin. Erinvar frun klevel./
-Tulvazar er orzhel er krumvar katelarin en tulvaz parza teltin./
-Parzhel hut lofir. Arzhel érkharin prou skotelir./
-Heir rétasin. Egh ekhárin drin sfradin prel drin valzin. Uf prel medin valzin./
-Egh uf kérdarin heum, Varzhar. Egh pratarin telvar. Toum akrotarin deshvel er egh.
+Kezvunash statarin epir alvel koum meltarin/
+parzhen frun delin, erinvar frun klevel, koum orzhel/
+epir tulvaz, parzhel epir lofir, arzhel érkharin/
+apet en skotelir. Heir rétasin taret, kezvun,/
+«Egh esh sfradarin drinhorat prel ésharin en valzin,/
+koum uf prel medin valzin. Egh uf kérdarin heum./
+Egh pratarin telvar, Varzhar. Akherin deshvel er egh‼»
 
-Toum zervarin en kitvar er toum, Varzhar. Adelir er parzhel rétasin prez egh/
-ieresin er pilin houm parzhel rétasin. Melvar pilin anoigharin prel hein./
-Toum zervarin. Geratir er orzhel rétasin prez egh ieresin er arzhel./
-Houm arzhel rétasin. Parzhel uf rétasin hein. Hein uf ésharin er herin prel rétasin./
-Toum zervarin. Egh kelrin parza trel krenir, meteir teikhir frun arzhel er krumvar./
-Kefalir er egh prou parzhel. Podelin prou orzhel. Krenir meteir./
-Drinolashin féranin hidir er krenir afor meun teselin./
-Kalzhel er parzhel, skitin er orzhel, parza meun hidirvel, en meun horat./
-Toum zervarin, Varzhar. Toum sfradarin. Egh piptarin en trel riptarin.
+«Zervarin, munzhar er parzhel rétasin ieresin/
+er pilin epir egh, houm parzhel rétasin hein,/
+drel pilin anoigharin prou hein. Zervarin‼/
+Koum geratir er orzhel rétasin ieresin/
+er arzhel epir egh, houm arzhel rétasin hein,/
+koum parzhel uf sorarin, hein uf esh er herin./
+Zervarin‼ Egh menetarin en tanvel ern krenir trel,/
+kelrin meteir teikhir koum arzhel er krumvar,/
+kefalir huzarin parzhel, podelin prou orzhel,/
+koum krenir meteir drin. Hidir er heum krenir,/
+kalzhel er parzhel koum skitin er orzhel, lámbarin/
+afor meun teselin, ern hidirvel, meun horin./
+Zervarin heum, Varzhar, koum sfradarin en cherzin,/
+koum egh piptarin katet en riptarin trelhorat.»
 
-Varzhar zervarin hein. Adelir er parzhel darzarin taret. Keletin olashin./
-En retin er parzhel. Tulvazar er orzhel érkharin katet afor tulvaz./
-Heir rétasin hein paler en retin er arzhel. Orzhel akherin darzarin./
-Varzhar tetarin melvar pilin en melvar cherzin./
-Efet arsher er trel krenir érkharin prostel afor delin./
-Heir zharzarin neshar er parzhel en cherzin parza hein. Geratir er orzhel/
-érkharin prostel afor skotelir, en podelin. Heir zharvarin neshar er orzhel en zelvar./
-Trel sfradin en papirin, parzhelir. Toum aritmarin. Parzhel. Orzhel. Pilin./
-Efet helin ekhárin heter en keirin trelhorat. Helin kinetarin perel alvel meunhorat./
-Drinsfradel piptarin prou litorin houm zalvin prou zighir./
-Deir zighrel er autel. Heir uf kinetarin. Varzhar statarin hut heir.
+Varzhar zervarin hein. Adelir darzarin taret/
+keletin olashin, en lékhisir er parzhel, koum/
+tulvazar er orzhel érkharin katet afor tulvaz/
+koum rétasin en lékhisir er arzhel, prel orzhel/
+akherin hein. Varzhar tetarin sfradin er pilin/
+koum en melvar cherzin. Efet arsher er krenir trel/
+érkharin afor delin, zharzarin neshar er parzhel/
+en cherzin parza hein. Koum geratir er orzhel/
+érkharin en skotelir, zharvarin neshar en zelvar./
+Trel sfradin epir papirin, parzhelir. Aritmarin‼/
+Er parzhel, er orzhel, er melvar pilin. Efet helin/
+lámbarin trelhorat, érkharin meunhorat perel/
+alvel, koum Drinsfradel piptarin epir litorin/
+houm zalvin en zighir, frun baretin er autel,/
+koum kelrin en sighelin, koum Varzhar hut heir.
 
-Heir uf tanearin en alvel. Heir tanearin en klinetin en parzhel./
-Houm anerit er 5 pólitar. Kitvar er heir ekhárin telvar en taret retin./
-Parzhen frun tulvazar féranin heir en dometin frun brakin frun podelin./
-Arsher statarin parza kefalir er heir. Geratir er orzhel parza podelin./
-Adelir katelarin. Kitvar en gonetir er heir prel zervarin er retin./
-Heir kaleitarin vardesh prel autel. Hein ésharin medin. Heir uf danizh prel hostir./
-Heir rétasin vardesh er autel. Prel parzhel, zharpin er menetin. Heir edet lámbarin hein./
-Prel orzhel, politir matira er tulvaz, tighir er politir tevir er tulvaz, prel nostarin./
-Prel tanvel er matira er heir, valzin. Heir kaleitarin nomisin frun valzar./
-Prel Varzhar, nematin er heir. Efet heir rétasin. Kitvar kleitarin./
-Adelir zervarin, darzarin taret. Arsher sfradarin./
-Geratir zharvarin neshar en zelvar. En meun politir faelin heir tanearin.
+Uf tanearin epir alvel. Heir tanearin/
+epir klinetin, houm anerit er plem pólitar,/
+frun telvar rétasin taret. Parzhen koum tulvazar/
+féranin heir esor, frun brakin koum frun skelir,/
+arsher ern kefalir, koum geratir ern podelin,/
+munzhar frun biblatin epir gonetir prel zervarin./
+Heir kaleitarin vardesh. Medin. Heir danizh/
+medinántimor. Heir rétasin vardesh er heir./
+Prel parzhel, zharpin er menetin, er heir lámbarin./
+Prel orzhel, tulvaz, tighir er politir, prel nostarin./
+Prel tanvel er matira, valzin, frun nomisin, valzar./
+Prel Varzhar, nematin er heir. Toteir rétasin,/
+«Kitvar kleitarin.» Adelir zervarin, darzarin,/
+arsher sfradarin, geratir neshar en zelvar, koum/
+en eotira er hemerin heir tanearin.
 
-Adelir rétasin ieresin er pilin prez heir, houm parzhel rétasin./
-Geratir rétasin ieresin er arzhel, houm arzhel rétasin./
-Parzhel uf rétasin hein. Parzhel statarin uf frun retin hoset ieresin./
-Helin tetarin somir parza trel krenir, meteir teikhir frun arzhel er krumvar./
-Kefalir prou parzhel. Podelin prou orzhel. Krenir meteir./
-Varzhar statarin parza tanvel hoset drin ieresin./
-Efet heir érkharin anet en melvar tulvaz, katet dres hodis er vezhrel./
-Medin konetin airatarin afor navrel er tulvaz. Chirnal en dezhel ésharin uf tarir.
+Munzhar rétasin ieresin er pilin prel heir,/
+houm parzhel rétasin hein, geratir er orzhel/
+ieresin er arzhel, parzhel uf sorarin hein./
+Parzhel statarin sighet, hoset geratir rétasin./
+Helin tetarin heir en tanvel parza krenir trel,/
+kelrin meteir teikhir koum arzhel er krumvar,/
+kefalir huzarin parzhel, podelin prou orzhel,/
+koum krenir meteir. Varzhar statarin ern tanvel/
+mekhir drin ieresin rétasin. Toteir heir/
+anabherin epir tulvaz koum érkharin katet/
+dres hodis er vezhrel. Konetin uf airatarin/
+hupor navrel, koum chirnal er dezhel uf rétasin.
 
-Ghunet er parzhel rétasin lufin afor teikhir, houm parzhel./
-Helin kaleitarin zharpin, kitvar, krenir er heir sotharin, erin er heir féranin./
-Ghunet er orzhel rétasin lufin afor arzhel, houm orzhel./
-Helin kaleitarin ónomir er autel. Parzhel uf rétasin./
-Drin varzhel er lufin érkharin hut krenir. Helin sumetarin hut tanvel./
-Adelir statarin meteir. Heir rétasin. Helin uf pratarin prakhel./
-Gemetira er arsher tetarin kalzhel er hidir er krenir parza kefalir./
-Gemetira er geratir tetarin skitin er hidir er krenir parza podelin./
-En ortrin kalzhel ésharin plir. Skitin ésharin plir./
-Deir heir ésharin en valzin, parzhelir. Drin valzin. Tanor en valzin uf sestarin difelin.
+Ghunet er parzhel threnarin heir afor teikhir,/
+houm parzhel threnarin, rétasin zharpin, kathalir,/
+krenir er heir sotharin, koum erin féranin./
+Koum ghunet er orzhel threnarin heir en arzhel,/
+houm orzhel threnarin, ónomarin teir helin,/
+er parzhel uf sorarin. Drin threnarin érkharin hut/
+krenir koum sumetarin hut tanvel, koum munzhar,/
+er statarin meteir helin, rétasin, «Vezh prakhel.»/
+Ghunet er arsher tetarin kalzhel parza kefalir,/
+ghunet er geratir tetarin skitin ern podelin,/
+koum en ortrin kalzhel esh plir koum skitin esh plir,/
+deir heir esh en valzin, esh drinhorat en valzin,/
+koum plum tanor en valzin uf ekhárin difelin.
 
-Heum ésharin aitelin parza trel krenir. Uf parza hostin heter krenir er [March]{lang=en}./
-Kalzhel er parzhel, skitin er orzhel lámbarin hidir parza meun hidirvel, en meun horat./
-Tulvazar er orzhel er krumvar dorasarin hidir prel tulvaz frun mulvar er parzhen./
-Medinántimor aritmarin hidir ekesh. Parzhel aritmarin hein en plum heter teselin./
-Orzhel rétasin heum en retin er arzhel. En varzhel er helin kléandir ésharin er helin./
-Matira er heir ésharin tighir er parzhelir. Ónomir er parzhel ésharin heter./
-Helin rétasin. Hein ésharin homet tanvel. Drin varzhel pautarin parza meun krenir./
-Heum ésharin varzhel er Kezvunash Drinsfradel, kezvun er trel krenir./
-Toum tetarin hulitin en itrin. Melvar allatarin. Medinántimor érkharin dres pilin en heum nikhtir.
+Koum drel ern krenir trel, koum medin heter krenir,/
+kalzhel er parzhel koum skitin er orzhel lámbarin/
+hidir ern meun hidirvel, meun horin. Tulvazar/
+er orzhel dorasarin hidir prel tulvaz frun mulvar,/
+koum medinántimor aritmarin hidir ekesh,/
+kaiter parzhel aritmarin hein plum tofelin./
+Plum orzhel sorarin heum en lékhisir er arzhel,/
+koum en varzhel er helin kléandir esh er helin,/
+koum matira er heir esh tighir er parzhelir,/
+parzhel ekhárin heter ónomir. Efarin helin‼/
+Homet tanvel, homet krenir. Drin varzhel pautarin./
+Varzhel er Kezvunash Drinsfradel, kezvun er krenir trel./
+Tetarin hulitin en itrin‼ Melvar allatarin./
+Medinántimor érkharin dres pilin heum nikhtir.
 :::
 
 ## See Also

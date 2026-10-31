@@ -3116,6 +3116,72 @@ data:
     - {form: agorar, class: n, field: Everyday expression, gloss: buyer}
     - {form: plunar, class: pron, field: Everyday expression, gloss: everything; all things}
     - {form: peitir, class: adj, field: Everyday expression, gloss: "faithful, kept as promised"}
+    - {form: polar, class: n, field: "Trade, coin, goods and the road", gloss: a seller}
+    - form: danizhin
+      class: n
+      field: "Trade, coin, goods and the road"
+      gloss: "a loan; a thing lent, owed back to the lender"
+    - form: zerpin
+      class: n
+      field: "Trade, coin, goods and the road"
+      gloss: "a defect or fault in goods, a bond or a body, declared or hidden"
+    - form: koinel
+      class: adj
+      field: "Trade, coin, goods and the road"
+      gloss: "general; stated for every case and binding none exactly"
+    - form: hupeskhin
+      class: n
+      field: "Trade, coin, goods and the road"
+      gloss: a promise; what someone has bound himself to in speech
+    - form: durmel
+      class: n
+      field: "Trade, coin, goods and the road"
+      gloss: "a misfortune; a loss that is no one's fault"
+    - form: kaluptir
+      class: adj
+      field: Everyday expression
+      gloss: hidden; kept out of sight or knowledge
+    - form: baretin
+      class: n
+      field: Everyday expression
+      gloss: "weight, the heaviness of a thing"
+    - form: erotin
+      class: n
+      field: Everyday expression
+      gloss: a plea; a request put to someone who may refuse it
+    - {form: tirvel, class: n, field: Everyday expression, gloss: an arrow}
+    - form: kelvash
+      class: n
+      field: "The gods, the stage and the assembly"
+      gloss: "a bell of a temple or a tower, struck to mark the hours"
+    - form: pilvel
+      class: n
+      field: "The gods, the stage and the assembly"
+      gloss: "a threshold, the stone under a gate; Pilvel, the Feast of Thresholds, when the year turns"
+    - form: dorasvar
+      class: n
+      field: "The gods, the stage and the assembly"
+      gloss: "a giver; the one who gives, in a gift or a bargain, as the _lamvar_ takes"
+    - form: sterzhir
+      class: adj
+      field: "The gods, the stage and the assembly"
+      gloss: stern; unbending toward the one who takes or owes
+    - form: biblatin
+      class: n
+      field: "Thought, measure and the schools"
+      gloss: "a book; the Bizarian form of _biblathin_"
+    - {form: zekhormeun, class: num, field: Grammar words, gloss: eleven, built: [zekhor, meun]}
+    - form: zekhordrin
+      class: num
+      field: Grammar words
+      gloss: "twelve; Zekhordrin, the Twelve, the gods of the pantheon"
+      built: [zekhor, drin]
+    - form: plum
+      class: num
+      field: Grammar words
+      gloss: "all, every; the feminine _pluma_ stands in the bazaar's _pef fótamir, pluma reshir_"
+      variants: [pluma]
+      concept: [all, every, each]
   sounds: {stress: {two: first, longer: penultimate, mark: acute}}
   icon: icon-speaking
   templatePriority: null
@@ -3536,6 +3602,30 @@ Zhe danizh, kérdanir vezh
 
 Frun émfarin, lefir kérdanir
 : "With the merchant, profit is clear" (_frun_ + acc. from Hel. _frun_, _lefir_ and _kérdanir_ from Hel. _lefir_ and _kérdhanir_)
+
+## Verse
+
+Bizarian verse is made to be heard, in a church, a hall or round a fort's fire, and it keeps its forms as exactly as a contract keeps its terms. It does not rhyme: so many of its words close on _-in_, _-ar_ and _-ir_ that a rhyme costs nothing. A line holds by its count and by return instead: a refrain the hearers answer, a formula that comes back with one word changed, a term said twice so that no one can claim not to have heard it.
+
+Most forms count beats, the stressed syllables of a line, by the stress rule under Phonology. The borderers' song counts syllables.
+
+The kumetin
+: The hymn of the eastern rite, in lines of five beats. A cantor sings each stanza alone and the whole church closes it with the refrain _koum herin statarin opit sfradin_, "and we stand behind the seal". The first letters of the stanzas after the prelude spell the cantor's name down the margin, as a scribe signs small.
+
+The account-song
+: The lament the women of the merchant houses sing over a chamber of the dead, in lines of five beats, most answered by an indented line. It reads the dead off the lintel with what each owed and was owed, sets down debts, counts and grades as a schedule does, and comes back after each to its question.
+
+The sayings
+: The counting-house's instruction, set as clauses: a saying of five beats, answered by one or more indented lines of five that gloss, limit or price it, as a schedule answers a bond.
+
+The declaration
+: A text said back line by line, in lines of five beats. Each line states a term, and the answering line repeats its formula unchanged.
+
+The borderer's line
+: The song of the road-forts, in long lines of fifteen syllables broken hard after the eighth. Where a name or a term will not divide there, the singer moves the break by one syllable. The catalogue asks and answers: _Tirm sotharin krenir vesmor? Kezvunash Drinsfradel esh._
+
+The telling
+: Prose, said by a clerk and set out by paragraph, carrying its formulas whole: the declarations, the four bindings and the policy of the League are given in the words the apprentices learn.
 
 ## Related Languages
 

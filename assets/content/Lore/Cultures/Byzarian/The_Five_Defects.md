@@ -29,297 +29,397 @@ It is the story of [[lore-heladcompact|the Compact of the Five]], sworn in 157 B
 ## The Clerk's Opening
 
 ::: {.verse form=prose lang=en work=the-five-defects-1}
-Apprentices, sit here on the Hall floor. Before becoming masters you will stand on it often; today alone you sit. The priests have blessed you, your masters have sealed your indentures, and before they take you home you must hear why the Hall occupies this place. Its clerk owes the telling; an apprentice of Krusteikhos owes the knowledge. A clerk told me here, having heard it from another clerk. I repeat what I heard. Repeat what you hear, adding nothing. At the end you will give me the Declaration back. Listen for it.
+Sit, apprentices, on the floor where you are, the floor of the Hall. You will stand on it a great deal before you are masters and sit on it only today. The priests have blessed you and your masters have signed your indentures, and before you go home with them you will hear why this Hall stands where it stands, which is a thing a clerk of the Hall is bound to tell and an apprentice of Krusteikhos is bound to know. It was told to me on this floor by a clerk who was told it by a clerk, and I tell it as I heard it, and you will tell it as you hear it, adding nothing. At the end you will say the Declaration back to me. Listen for it.
 :::
 
 ::: {.verse form=prose lang=biza enc=bizahelonikaenc work=the-five-defects-1}
-Matelir, toum katelarin en ghéranis er Harvel en teselin er autel. Toum statarin en hein polirhorat prez bizvar er toum. Monet heum hemerin toum katelarin en hein. Iereshar dorasarin aghatin prel toum. Bizvar sfradarin matelvar er toum. Prez nostarin prou domin frun helin toum akrotarin aitelin er Harvel en heum teselin. Seketar er Harvel ekhárin vardesh er rétasin heum. Matelir er Krusteikhos ekhárin vardesh er epistémarin. Seketar rétasin heum prel egh en heum ghéranis. Heter seketar rétasin heum prel heir. Egh rétasin houm egh akherin. Toum rétasin houm toum akherin, uf frun hostin prostet. En teltin toum rétasin zervash paler prel egh. Toum akrotarin prel hein.
+Matelir, katelarin enit, epir ghéranis er Harvel‼ Toum statarin epir hein polirhorat prez toum esh bizvar, koum katelarin epir hein monet heum hemerin. Iereshar dorasarin aghatin prel toum, koum bizvar er toum sfradarin matelvar er toum, koum prez helin féranin toum prou domin, toum akherin diat heum Harvel statarin enit. Seketar er Harvel ekhárin vardesh prel rétasin hein, koum matelir er Krusteikhos ekhárin vardesh prel epistémarin hein. Seketar rétasin hein prel egh epir heum ghéranis, koum seketar heteret rétasin hein prel heir. Egh rétasin hein houm egh akherin hein. Toum rétasin hein houm toum akherin hein, koum tetarin medin‼ En teltin toum rétasin Zervash paler prel egh. Akrotarin prel hein‼
 :::
 
 ## The Springs
 
 ::: {.verse form=prose lang=en work=the-five-defects-2}
-You know the dry east, the few springs beneath its passes, and their low water at summer's end. Learn that an army knows these things too./
-The year before the Compact, an army crossed from the steppe at summer's end, when water was lowest. Its riders outnumbered any one city's men. The east remembers neither its commander nor his tribe: an army failing to return leaves nobody to tell. It crossed knowing it could not carry its own water and intending to seize ours./
-Each of the five cities sent its available men. They placed all under one commander, having no time to dispute precedence. He was Strátimos Ghéranides of the pass-city you call Argirteikhos. Remember him. Every city's version gives this one name alike./
-Strátimos avoided meeting that army on grass, where every enemy horse would count against him. He enclosed the springs. Every foothill spring received a stone-and-turf fort, every fort men from two cities, leaving none under one city's ownership. Descending from the passes, the army found all reachable water beneath the bows of men whom one city's dispute could not buy. It attacked for eleven days and captured nothing. Horses died from arrows beside the walls and from thirst between the forts. Their death field is where the [[place-eastrnmrch|March]] garrison tends its jar; an east-trading master will tell you of it. The survivors retreated along their arrival road./
-Before our telling begins, take the first lesson: strength does not kill an army. Its lack does.
+You know that the east is dry. You know that the foothills below the passes have few springs, and that they run lowest at the end of summer. Learn now that a host knows it too.
+
+In the year before the Compact a host came out of the steppe and over the passes at the end of summer, when the springs were lowest. It was a great host, more riders than any city of ours had men, and the east does not remember who led it or what tribe he was, because a host that does not go home leaves no one to say. It came over the passes knowing that it could not carry its water, and meaning to take ours.
+
+The five cities each sent what men they had, and they put them under one man, because there was no time to quarrel about who should command, and the man was Strátimos Ghéranides of the pass-city, which you call Argirteikhos. Remember his name. It is the one name in this telling that every city tells alike.
+
+Strátimos did not go out to meet the host on the grass, where every horse it rode would have counted against him. He walled the springs. Every spring in the foothills he ringed with a fort of stone and turf, and he put men from two cities in every fort, so that no fort was any one city's, and the host came down out of the passes and found every water it could reach under the arrows of men who could not be bought by any one city's quarrel. It went at the forts for eleven days and took none. Its horses died at the walls of arrows, and in the ground between the forts of thirst, and the field where they died is the field the [[place-eastrnmrch|March]] garrison keeps the jar at, which you will hear about if your master trades east. What was left of the host went back the way it had come.
+
+Here is the first lesson, apprentices, before the telling begins: a host does not die of its strength. It dies of what it lacks.
 :::
 
 ::: {.verse form=prose lang=biza enc=bizahelonikaenc work=the-five-defects-2}
-Toum epistémarin eotin ésharin zerhir. Toum epistémarin vezhnur katet vezhrel ekhárin olighet krenir. Krenir ésharin kamelir eil er plum heter kronin en teltin er therzin. Nunet toum matelarin. Poletar epistémarin prostet./
-En eniautin prez Penthar poletar érkharin afor arzhel dres vezhrel en teltin er therzin. Krenir ésharin kamelir eil er plum heter kronin. Poletar ésharin trar meghar. Tulvazar er hein ésharin pletir eil er plum anerit er hostin meun pólitar er herin. Eotin uf velzarin tirm ághrarin heir, er potel fulatin. Deir poletar er uf nostarin prou domin uf féranin fomántimor prel rétasin. Heir érkharin dres vezhrel. Heir epistémarin uf dunatarin féranin hidir er autel. Heir bouletarin lámbarin er herin./
-Plum er 5 pólitar féranin anerit er autel. Helin tetarin helin katet meun anerit. Vezh kronin prel prakhel er tirm árshidin. Anerit ésharin Strátimos Ghéranides er pólitar er vezhrel, er toum kaleitarin Argirteikhos. Toum velzarin ónomir er heir. Heum ésharin monet ónomir er plum pólitar rétasin homet en heum varzhel./
-Strátimos uf érkharin prou poletar en arzhel. Ekesh plum tulvaz er poletar ésharin kasir prel heir. Heir tetarin teikhir perel krenir. Perel plum krenir en vezhnur heir pratarin parzhel er litorin frun ghéranis frun arzhel. Heir tetarin anerit er drin pólitar en plum parzhel. Drel medin parzhel ésharin er meun pólitar. Poletar érkharin katet afor vezhrel. Plum hidir er dunelir ésharin katet tokhel er anerit. Prakhel er meun pólitar uf dunatarin agorarin helin. Poletar makhetarin parzhel prel 11 hemerin. Heir uf lámbarin meun. Tulvaz er heir tanearin parza teikhir deir tokhel, en ghéranis meteir parzhel deir difelin. Pedin er tanearin er helin ésharin pedin er parzhen er [March]{lang=en} valzarin kalzhel. Toum akherin heum eif bizvar er toum emforarin prou eotin. Meretin er poletar nostarin dres homet hodis./
-Enit meun didakhin, matelir, prez arkhin er varzhel. Poletar uf tanearin deir dunelira er autel. Heir tanearin deir apetin er kemetin er autel.
+Toum epistémarin, eotin esh zerhir. Toum epistémarin, lofir hupor vezhrel ekhárin olighir krenir, koum krenir esh kamelir eil er plum en teltin er therzin. Matelarin nunet, poletar epistémarin hein prostet.
+
+En eniautin prez Penthar meun poletar érkharin afor arzhel, anet dres vezhrel en teltin er therzin, potet krenir esh kamelir eil er plum. Meghar poletar esh, pletir tulvazar eil er anerit en meun pólitar er herin, koum eotin uf velzarin tirm ághrarin hein eil potel fulatin. Poletar er uf nostarin prou domin uf tetarin medinántimor prel rétasin. Heir érkharin dres vezhrel koum epistémarin, heir uf dunatarin féranin hidir er autel. Heir bouletarin lámbarin hidir er herin.
+
+Plem pólitar dorasarin anerit er autel, koum tetarin helin hupor meun anerit, deir vezh kronin prel prakhel er tirm árshidin. Heum anerit esh Strátimos Ghéranides er pólitar er vezhrel, er toum ónomarin Argirteikhos. Velzarin ónomir er heir‼ Heum ónomir monet en varzhel plum pólitar rétasin homet.
+
+Strátimos uf érkharin prou poletar epir arzhel, ekesh plum tulvaz er hein meltarin kasir prel heir. Heir pratarin teikhir perel krenir. Perel plum krenir en lofir heir domarin parzhel er litorin koum ghéranis, koum en plum parzhel heir tetarin anerit er drin pólitar, drel medin parzhel esh er meun pólitar. Poletar érkharin katet afor vezhrel koum heurarin plum hidir hupor tirvel er anerit er medin prakhel er meun pólitar dunatarin agorarin. Zekhormeun hemerin heir makhetarin parzhel, koum lámbarin medin. Tulvaz er heir tanearin parza teikhir deir tirvel, koum meteir parzhel deir difelin. Ghéranis ekesh helin tanearin esh ghéranis ekesh parzhen er parzhelir sotharin kalzhel, koum toum akherin er hein, eif bizvar er toum emforarin prou eotin. Meretin er poletar er menetarin nostarin dres homet hodis.
+
+Enit didakhin prinet plum, matelir, prez varzhel árshidin. Poletar uf tanearin deir dunelira er autel. Heir tanearin deir teir heir uf ekhárin.
 :::
 
 ## The Winter of the Garrisons
 
 ::: {.verse form=prose lang=en work=the-five-defects-3}
-The army departed. Five cities' men remained in spring forts. Winter came, and they needed food./
-Who would feed them? Nesthiros called the springs distant foothill concerns: why should a harbor pay mountain soldiers? Argirteikhos said they lay below its walls; after holding the passes alone beyond memory, it deserved payment. Órashion demanded payment for making the arrowheads. Karvashion said its caravans could not cross while every fort demanded a water toll. Krusteikhos said nothing, apprentices. Krusteikhos was a mule yard./
-Hear it without offense. We take none. In the Compact's year, Krusteikhos was a town of mule yards and toll houses atop the last escarpment. The straits' lowland road rose there onto the plateau; bales transferred from ships' carts to mules. It had a well, market, mud-brick wall and gate, and a council of mule masters and toll farmers. Its only saleable asset was location. Every eastbound sea bale and westbound mountain bale passed its gate. Tolls sustained it. Nobody sought its opinion because nobody had ever needed it./
-Councils sent letters throughout winter. Letters crossed through snow; payments never came. In spring Strátimos sent all five councils the same short letter. Clerks preserve its words: I walled your springs. I refuse to hold them for five cities refusing my pay. Send a man to the road's summit, where roads meet, before barley harvest. Otherwise I bring the garrisons home, and the next army drinks wherever it pleases./
-He chose that summit because it belonged to no consequential city. No envoy could complain of being summoned to a rival. Krusteikhos was chosen for its lack of weight, apprentices.
+The host was gone, and the forts stood on the springs with the men of five cities in them, and the winter came, and the forts had to be fed.
+
+Who would feed them? Nesthiros said the springs were in the foothills, a long way from Nesthiros, and that a harbor city had no business paying for soldiers on a mountain. Argirteikhos said the springs were below its walls, and that it had held the passes alone for longer than anyone could count, and that it was time somebody paid it for doing so. Órashion said it had made the arrowheads and was owed for them. Karvashion said that its caravans could not cross the foothills with garrisons in every fort charging a toll for the water. And Krusteikhos, apprentices, said nothing, because Krusteikhos was a mule-yard.
+
+Hear that, and do not be offended at it; we are not. In the year of the Compact, Krusteikhos was a town of mule-yards and toll-houses at the top of the last escarpment, where the lowland road from the straits comes up onto the plateau and the bales change from the ships' carts to the mules. It had a well, a market, a wall of mud brick with a gate in it, and a council of mule-masters and toll-farmers. It had nothing to sell but the place it stood in. Every bale that went east from the sea came through its gate, and every bale that went west from the mountains, and it lived on the toll, and it had no say in anything, because nobody had ever needed to ask it.
+
+All winter the councils sent letters, and the letters crossed in the snow, and nothing was paid. In the spring Strátimos sent a letter of his own, the same letter to all five councils, and the clerks have kept its words, which are few: _I walled your springs. I will not hold them for five cities that will not pay me. Send a man to the top of the road, where the roads meet, before the barley is cut, or I will bring the garrisons home and the next host may drink where it likes._
+
+He named the top of the road because it was the one place on the map that belonged to no city that mattered, and so no envoy could say he was being made to travel to a rival. That is how Krusteikhos came to be chosen, apprentices. Not for its wealth. For its lack of weight.
 :::
 
 ::: {.verse form=prose lang=biza enc=bizahelonikaenc work=the-five-defects-3}
-Poletar ésharin apet. Parzhel statarin hut krenir frun anerit er 5 pólitar. Krumvar érkharin. Parzhel deetarin edin./
-Tirm dorasarin edin. Nesthiros rétasin. Krenir ésharin en vezhnur, makrir diastelin afor Nesthiros. Pólitar er limenir uf ekhárin vardesh er zharparin parzhelir en órasin. Argirteikhos rétasin. Krenir ésharin katet teikhir er autel. Heir sotharin vezhrel monet autel prel kronin er uf dunatarin aritmarin. Nunet heter preitarin zharparin heir. Órashion rétasin. Heir pratarin makrin er tokhel. Heir ekhárin vardesh prel autel deir hein. Karvashion rétasin. Karvash er autel uf dunatarin érkharin dres vezhnur frun parzhen en plum parzhel er erotarin tolzát prel hidir. Krusteikhos, matelir, uf rétasin. Deir Krusteikhos ésharin darvel er mulvar./
-Toum akrotarin. Toum uf sestarin aidira prel heum. Herin uf sestarin. En eniautin er Penthar Krusteikhos ésharin mikrir pólitar er darvel er mulvar, er domin er tolzát, en hut teltin er telest litorvel. Hodis er kamelir ghéranis afor stravel érkharin anet prou vezhnur ekesh. Zalvin érkharin afor balvel er navzhel prou mulvar. Pólitar ekhárin dezhbal, bazhar, teikhir er ghéranisfrunhidir frun pilin, bulorin er bizvar er mulvar frun tolzhar. Hein uf ekhárin hostin prel polarin antel teselin er autel. Plum zalvin prou eotin afor tálimir érkharin dres pilin er hein. Plum zalvin prou veshtin afor órasin érkharin dres hein. Hein zelarin deir tolzát. Hein uf ekhárin retin en hostin. Medinántimor medinkronin deetarin erotarin heir./
-Plum krumvar bulorin féranin papirin. Papirin érkharin dres kionir. Medin zharpin érkharin. En krenhar Strátimos féranin papirin er autel, homet prel 5 bulorin. Seketar valzarin retin er hein. Retin ésharin olighet. Egh tetarin teikhir perel krenir er toum. Egh uf sotharin helin prel 5 pólitar er arneitarin zharparin egh. Toum féranin anerit prou hut teltin er hodis, prou sumetin er hodis, prez teletin er barzhel. Heteret egh féranin parzhen prou domin. Efet poletar dunatarin potarin en oratin er autel./
-Heir kaleitarin hut teltin er hodis deir hein ésharin monet teselin en zherzhel er ghéranis uf er dunelir pólitar. Drel medin zhelzar dunatarin rétasin. Herin érkharin prou mistir. Houm heum Krusteikhos ésharin kritarin, matelir. Uf deir krémashin. Deir apetin er zighrel.
+Poletar érkharin apet, koum parzhel statarin epir krenir frun anerit er plem pólitar en helin, koum krumvar érkharin, koum parzhel deetarin edin.
+
+Tirm dorasarin edin? Nesthiros rétasin, krenir esh en lofir, telir afor Nesthiros, koum pólitar er limenir uf ekhárin vardesh prel zharparin parzhelir epir órasin. Argirteikhos rétasin, krenir esh hupor teikhir er autel, koum heir sotharin vezhrel monet pletir eil er medinántimor dunatarin aritmarin, koum nunet fomántimor preitarin zharparin heir. Órashion rétasin, heir pratarin kefalir er tirvel, koum vardesh esh prel heir. Karvashion rétasin, karvash er autel uf dunatarin érkharin dres lofir, deir plum parzhel erotarin tolzát prel hidir. Koum Krusteikhos, matelir, uf rétasin hostin, deir Krusteikhos esh darvel er mulvar.
+
+Akherin heum, koum neur sestarin aidira‼ Herin uf sestarin. En eniautin er Penthar Krusteikhos esh mikrir pólitar er darvel er mulvar koum domin er tolzát ern teltin er telest litorvel, ekesh hodis afor stravel érkharin anet epir hupsel pedin, koum zalvin allatarin afor balvel er navzhel prou mulvar. Hein ekhárin dezhbal, agorin, teikhir er ghéranisfrunhidir frun pilin, koum bulorin er bizvar er mulvar koum tolzhar. Hein ekhárin hostin prel polarin plor teselin er hein. Plum zalvin er érkharin prou eotin afor tálimir érkharin dres pilin er hein, koum plum zalvin er érkharin prou veshtin afor órasin. Hein zelarin deir tolzát, koum hein uf ekhárin retin en hostin, deir medinántimor medinkronin deetarin erotarin hein.
+
+Plum krumvar bulorin féranin papirin, koum papirin érkharin parza heter en kionir, koum medinántimor zharparin. En krenhar Strátimos féranin papirin er autel, homet papirin prel plem bulorin, koum seketar velzarin lékhisir er hein, er esh olighir, «Egh pratarin teikhir perel krenir er toum. Egh uf sotharin helin prel plem pólitar er uf zharparin egh. Féranin anerit prou teltin er hodis, ekesh hodis sumetarin, prez terishin er barzhel‼ Heteret egh féranin parzhen prou domin, koum efet poletar potarin ekesh heir oratarin.»
+
+Heir ónomarin teltin er hodis deir hein esh monet teselin en zherzhel er medin pólitar er baretir, drel medin zhelzar dunatarin rétasin, «Heir kaleitarin egh prou mistir.» Drel Krusteikhos esh kritarin, matelir. Uf deir krémashin. Deir apetin er baretir.
 :::
 
 ## The Five at the Top of the Road
 
 ::: {.verse form=prose lang=en work=the-five-defects-4}
-Five envoys arrived before barley harvest, each bringing a scribe, servants, and his city's die. They lodged in the mule-yard town's toll houses. Before asking anything, its council served bread, wine, and roast kid. Mule masters feed a caravan master before stating a price. Their custom became the Hall's./
-Nesthiros sent Ánevkar, shipowner, wind in his name and sea in his walk. He disliked the mules./
-Argirteikhos sent Teíkhazur, wall captain through those eleven days. He let nobody forget them./
-Órashion sent Órashazur, forge master, black in the creases washing cannot reach. He spoke slowly and meant every word./
-Karvashion sent Tchirnalash, caravan master with the customary belt bell. He smiled at everything and agreed to nothing./
-Krusteikhos, the town hosting them, sent Agórankar, warden of the mule market. Youngest and poorest of the five, he poured wine./
-Strátimos descended from the springs with two soldiers and sat at the table's end. He denied being an envoy, promised silence until asked, and refused departure before their seals.
+They came before the barley was cut, five envoys, each with his scribe and his servants and his city's die, and they lodged in the toll-houses of the mule-yard town, and the town's council gave them bread and wine and roast kid before it asked them anything, because it was the custom of the mule-masters to feed a caravan-master before naming him a price, and the custom of the mule-masters is the custom of the Hall.
+
+From Nesthiros came Ánevkar, a ship-owner, who had the wind in his name and the sea in his walk, and who did not like the mules.
+
+From Argirteikhos came Teíkhazur, a captain of the wall, who had stood on it through the eleven days and did not let anyone forget it.
+
+From Órashion came Órashazur, a master of the forges, black in the creases of his hands where no washing reaches, who spoke slowly and meant everything.
+
+From Karvashion came Tchirnalash, a caravan-master, who had a bell on his belt as caravan-masters do, and who smiled at everything and agreed to nothing.
+
+From Krusteikhos, which was the town they were sitting in, came Agórankar, the warden of the mule-market, who was the youngest of the five and the poorest, and who poured the wine.
+
+And Strátimos came down from the springs with two soldiers and sat at the end of the table, and said he was not an envoy, and would not speak until he was asked, and would not leave until they had sealed.
 :::
 
 ::: {.verse form=prose lang=biza enc=bizahelonikaenc work=the-five-defects-4}
-Helin érkharin prez teletin er barzhel. 5 zhelzar. Plum frun seketar er autel, douletin er autel, neshar er pólitar er autel. Helin kelrin en domin er tolzát en pólitar er darvel er mulvar. Bulorin er pólitar dorasarin arthel, oinel, tevir er gevar er itrarin prez erotarin er hostin. Heum ésharin nomashir er bizvar er mulvar. Heir dorasarin edin prel karvashkar prez rétasin er zharpin. Nomashir er bizvar er mulvar ésharin nomashir er Harvel./
-Ánevkar érkharin afor Nesthiros. Heir ekhárin navzhel. Ánevir ésharin en ónomir er heir. Tálimir ésharin en badelin er heir. Heir uf neratin mulvar./
-Teíkhazur érkharin afor Argirteikhos, arsher er teikhir. Heir statarin hut hein plum 11 hemerin. Heir uf dorasarin efir prel hostir letarin./
-Órashazur érkharin afor Órashion, bizvar er zirzhel. Keirin er heir ésharin melvar en merzhel er uf dunelir neirarin. Heir rétasin bradelir. Plum retin ekhárin bouletarin er heir./
-Tchirnalash érkharin afor Karvashion, karvashkar. Chirnal ésharin en zostir er heir houm karvashkar. Heir melarin prel plum. Heir harmodarin prel medin./
-Agórankar érkharin afor Krusteikhos, pólitar er katelarin er helin. Heir ésharin varden er bazhar er mulvar. Heir ésharin nevar eil er plum heter, penetir eil er plum heter. Heir féranin oinel./
-Strátimos érkharin katet afor krenir frun drin parzhelir. Heir katelarin en teltin er telzhel. Heir rétasin. Egh uf ésharin zhelzar. Egh uf rétasin prez erotarin er toum. Egh uf érkharin apet prez sfradin er toum.
+Helin érkharin prez terishin er barzhel, plem zhelzar, plum frun seketar, douletin koum sfradin er pólitar er autel, koum kelrin en domin er tolzát en pólitar er darvel er mulvar. Bulorin er pólitar dorasarin arthel, oinel koum khosir itrarin prez erotarin hostin, deir nomashir er bizvar er mulvar esh dorasarin edin prel karvashkar prez rétasin zharpin, koum nomashir er bizvar er mulvar esh nomashir er Harvel.
+
+Afor Nesthiros érkharin Ánevkar, kemetvar er navzhel, frun ánevir en ónomir er autel koum tálimir en badelin er autel, koum heir uf neratin mulvar.
+
+Afor Argirteikhos érkharin Teíkhazur, arsher er teikhir, er statarin epir hein zekhormeun hemerin, koum uf efarin hostir letarin heum.
+
+Afor Órashion érkharin Órashazur, bizvar er zirzhel, melvar en merzhel er keirin ekesh neirarin uf hikarin, er rétasin bradelir koum semanarin plunar.
+
+Afor Karvashion érkharin Tchirnalash, karvashkar, frun chirnal epir zostir houm karvashkar, er melarin prel plunar koum harmodarin prel hostin.
+
+Afor Krusteikhos, er esh pólitar ekesh helin katelarin, érkharin Agórankar, agóranir er bazhar er mulvar, nevar eil er plum koum penetir eil er plum, koum heir féranin oinel.
+
+Koum Strátimos érkharin katet afor krenir frun drin parzhelir, koum katelarin ern teltin er telzhel, koum rétasin, «Egh uf esh zhelzar. Egh uf rétasin mekhir toum erotarin egh. Egh uf érkharin apet mekhir toum sfradarin.»
 :::
 
 ## The First Day: Who Speaks First
 
 ::: {.verse form=prose lang=en work=the-five-defects-5}
-They spent the first day unable to choose the first speaker./
-Ánevkar claimed precedence for Nesthiros: oldest, largest, and carrier of the original settlers from the straits. Teíkhazur claimed it for Argirteikhos, whose passes had preserved cities capable of speaking. Órashazur claimed it for the arrow-makers, without whom no pass could have held. Smiling, Tchirnalash offered to speak last if all first agreed to toll-free caravans at the springs; then he need not speak at all. Agórankar kept silent and poured wine./
-They disputed until lamps appeared. Nobody spoke first. Each knew the first speaker would reveal his desire, letting the others recognize and withhold it. They went to bed. The mule-yard town served supper.
+On the first day they could not agree who should speak first.
+
+Ánevkar said Nesthiros should speak first, because it was the oldest city and the largest and its ships had brought the first settlers up from the straits. Teíkhazur said Argirteikhos should speak first, because it had held the passes, and without the passes there would be no cities to speak. Órashazur said that the city that made the arrows should speak first, since without arrows the passes would not have been held. Tchirnalash said, smiling, that he would gladly speak last, if the others would only agree that the caravans should pay no toll at the springs, and then he would not need to speak at all. Agórankar said nothing, and poured the wine.
+
+They argued until the lamps were lit, and nobody spoke first, because each of them knew that whoever spoke first would say what he wanted, and the others would know it, and would not give it to him. They went to bed. The mule-yard town fed them supper.
 :::
 
 ::: {.verse form=prose lang=biza enc=bizahelonikaenc work=the-five-defects-5}
-En meun hemerin helin uf harmodarin tirm rétasin prinet plum./
-Ánevkar rétasin Nesthiros preitarin rétasin prinet plum. Hein ésharin palaisir eil er plum, meghar eil er plum. Navzhel er hein féranin meun ántimor afor stravel. Teíkhazur rétasin Argirteikhos preitarin rétasin prinet plum. Hein sotharin vezhrel. Uf frun vezhrel vezh pólitar prel rétasin. Órashazur rétasin pólitar er makrin er tokhel preitarin rétasin prinet plum. Uf frun tokhel vezhrel uf ésharin sotharin. Tchirnalash rétasin frun melarin. Egh rétasin telest frun karil, eif heter harmodarin karvash uf zharparin tolzát parza krenir. Toteir egh uf deetarin rétasin hostin. Agórankar uf rétasin. Heir féranin oinel./
-Helin pratarin prakhel hoset hikatin er lavzhel. Medinántimor rétasin prinet plum. Plum epistémarin. Meun retin zhelvarin oratin er autel. Heter epistémarin hein. Heter uf dorasarin hein. Helin érkharin prou klinetin. Pólitar er mulvar dorasarin edin er hespetin.
+En meun hemerin helin uf harmodarin tirm rétasin prinet plum.
+
+Ánevkar rétasin, Nesthiros rétasin prinet plum, deir hein esh palaisir eil er plum koum meghar eil er plum, koum navzhel er hein féranin meun antmerin afor stravel. Teíkhazur rétasin, Argirteikhos rétasin prinet plum, deir hein sotharin vezhrel, koum uf frun vezhrel vezh pólitar prel rétasin. Órashazur rétasin, pólitar er pratarin tirvel rétasin prinet plum, deir uf frun tirvel medinántimor sotharin vezhrel. Tchirnalash rétasin frun melarin, egh rétasin telest frun karil, eif heter harmodarin, karvash uf zharparin tolzát parza krenir, koum toteir egh uf deetarin rétasin hostin. Agórankar uf rétasin, koum féranin oinel.
+
+Helin pratarin prakhel mekhir lavzhel itrarin, koum medinántimor rétasin prinet plum, deir plum epistémarin, anerit er rétasin prinet plum rétasin teir heir oratarin, koum heter epistémarin hein, koum uf dorasarin hein prel heir. Helin érkharin prou klinetin. Pólitar er darvel er mulvar dorasarin hespedhin.
 :::
 
 ## The Second Day: Who Writes
 
 ::: {.verse form=prose lang=en work=the-five-defects-6}
-On the second day they permitted everyone to speak simultaneously through his scribe. Each scribe would record the agreement; five copies could be compared that evening./
-Scribes worked all day. At evening the copies were read aloud successively in the toll house. Five different bonds emerged. Nesthiros assigned spring costs to nearby cities. Argirteikhos retained the passes while assigning their costs to the other four. Órashion required weapons bought from it at a stated price. Karvashion omitted spring tolls and included numerous caravan clauses. Agórankar's scribe produced the sole copy making all five pay something, and the shortest. Nobody listened because it came from Krusteikhos./
-They disputed until lamps appeared, went to bed, and received the town's supper. Clerks say Agórankar paid these suppers from the market chest, while its council asked how long this would continue.
+On the second day they agreed to let every man speak at once, through his scribe, and to have each scribe write down what was agreed, so that the five copies could be compared at evening.
+
+The scribes wrote all day. At evening the five copies were read aloud, one after the other, in the mule-yard toll-house, and they were five different bonds. Nesthiros's copy had the springs paid for by the cities nearest them. Argirteikhos's copy had the passes held by Argirteikhos and paid for by the other four. Órashion's copy had the arms bought from Órashion at a stated price. Karvashion's copy had no toll at the springs and a great many clauses about caravans. And Krusteikhos's copy, which Agórankar's scribe had written, was the only one in which all five cities paid something, and it was the shortest, and nobody listened to it, because it was Krusteikhos's.
+
+They argued until the lamps were lit. They went to bed. The mule-yard town fed them supper. The clerks say Agórankar paid for the suppers out of the market's own chest, and that the market's council asked him how long it was going to go on.
 :::
 
 ::: {.verse form=prose lang=biza enc=bizahelonikaenc work=the-five-defects-6}
-En drin hemerin helin harmodarin plum rétasin en homet kronin dres seketar er autel. Plum seketar zervarin harmodin er helin. En hespetin helin dunatarin merzarin 5 zelvash./
-Seketar zervarin plum hemerin. En hespetin darzar darzarin 5 zelvash taret, meun. Efet meun, en domin er tolzát er pólitar er mulvar. Helin ésharin 5 heter deshvar. Zelvash er Nesthiros tetarin zharpin er krenir prel pólitar er mikrir diastelin. Zelvash er Argirteikhos tetarin valzin er vezhrel prel Argirteikhos, zharpin prel 4 heter. Zelvash er Órashion tetarin agorarin er tokhel afor Órashion en rétasin zharpin. Zelvash er Karvashion uf ekhárin tolzát parza krenir, ekhárin polir keletin prel karvash. Zelvash er Krusteikhos, er seketar er Agórankar zervarin, ésharin monet zelvash er plum 5 pólitar zharparin hostin. Hein ésharin brakhelir eil er plum heter. Medinántimor akrotarin hein deir hein ésharin er Krusteikhos./
-Helin pratarin prakhel hoset hikatin er lavzhel. Helin érkharin prou klinetin. Pólitar er mulvar dorasarin edin er hespetin. Seketar rétasin. Agórankar zharparin edin afor zhervel er bazhar. Bulorin er bazhar erotarin heir. Heum menetarin prel teir kronin.
+En hemerin drin helin harmodarin, plum rétasin homet kronin dres seketar er autel, koum plum seketar zervarin teir esh harmodin, prel helin merzarin plem zelvash en hespetin.
+
+Seketar zervarin plum hemerin. En hespetin helin darzarin plem zelvash taret, meun efet meun, en domin er tolzát, koum helin esh plem heter deshvar. Zelvash er Nesthiros tetarin zharpin er krenir prel pólitar enghir er helin. Zelvash er Argirteikhos tetarin vezhrel en keirin er Argirteikhos, koum zharpin prel heter vesmor. Zelvash er Órashion tetarin agorarin hoplarin afor Órashion en zharpin er deshvel. Zelvash er Karvashion ekhárin medin tolzát parza krenir koum huthikanir keletin er karvash. Koum zelvash er Krusteikhos, er seketar er Agórankar zervarin, esh monet zelvash ekesh plum plem pólitar zharparin hostin, koum hein esh brakhelir eil er plum, koum medinántimor akrotarin, deir hein esh er Krusteikhos.
+
+Helin pratarin prakhel mekhir lavzhel itrarin. Helin érkharin prou klinetin. Pólitar er darvel er mulvar dorasarin hespedhin. Seketar rétasin, Agórankar zharparin hespedhin afor zhervel er bazhar, koum bulorin er bazhar erotarin heir, «Teir posetin er kronin heum menetarin?»
 :::
 
 ## The Third Day: Who Seals First
 
 ::: {.verse form=prose lang=en work=the-five-defects-7}
-Weary of disputes, on the third day they agreed to a text by deleting from all five copies every clause any man rejected. Almost nothing survived: five cities were friends and would discuss the springs./
-Then came sealing. Nobody would go first./
-Learn this daily working fact, apprentices. The first sealer becomes bound before everyone else. Until the last seal lands, his bond binds him alone. Others can reread, reconsider, and demand another clause. He has exhausted his bargaining by already pledging his word. Anyone able to avoid sealing first does so. Ánevkar refused, Teíkhazur refused, Órashazur refused, Tchirnalash refused. Nobody asked Agórankar./
-They sat with the short text between them and dies in hand. Nobody moved. Lamps arrived; supper arrived; nobody moved. At last Strátimos Ghéranides rose at the table's end. He said they had asked him. Nobody had, but he had heard enough.
+On the third day, tired of arguing, they agreed on a text. They did it by striking out of all five copies every clause that any one of them would not accept, and what was left was so short that it said almost nothing: that the five cities were friends, and would discuss the springs.
+
+Then it came to the seals, and nobody would seal first.
+
+Apprentices, you will meet this every day of your working lives, so learn it now. The man who seals first is bound before the others are. Until the last seal goes down he is holding a bond that binds him and nobody else, and the others may read it over, and think again, and ask for one clause more, and he has nothing to bargain with, because he has already given his word. So nobody seals first who can help it. Ánevkar would not, nor Teíkhazur, nor Órashazur, nor Tchirnalash, and Agórankar was not asked.
+
+They sat at the table with the short text between them and their dies in their hands, and nobody moved, until the lamps were lit and the town's servants came in with supper, and still nobody moved. Then Strátimos Ghéranides stood up at the end of the table, and said he had been asked, though nobody had asked him, because he had heard enough.
 :::
 
 ::: {.verse form=prose lang=biza enc=bizahelonikaenc work=the-five-defects-7}
-En trel hemerin helin ésharin kamir deir prakhel. Helin harmodarin zelvash. Helin otelarin plum keletin er hostir arneitarin afor 5 zelvash. Meretin er menetarin ésharin trar brakhelir. Hein rétasin olighet. 5 pólitar ésharin helfir. Helin rétasin prel krenir./
-Efet sfradin érkharin. Medinántimor oratarin sfradarin prinet plum./
-Matelir, toum sumetarin heum plum hemerin er pratin er toum. Toum matelarin nunet. Anerit er meun sfradin ekhárin deshvar prez heter. Hoset telest sfradin uf ésharin en cherzin, deshvar tetarin vardesh prel heir, prel medin heter. Heter dunatarin darzarin paler, fantelin paler, erotarin meun keletin prostet. Heir uf ekhárin hostin prel ameitin deir heir edet dorasarin retin er autel. Drel medinántimor sfradarin prinet plum eif heir dunatarin arneitarin. Ánevkar arneitarin. Teíkhazur arneitarin. Órashazur arneitarin. Tchirnalash arneitarin. Helin uf erotarin Agórankar./
-Helin katelarin parza telzhel. Brakhelir zelvash ésharin meteir helin. Neshar ésharin en keirin. Medinántimor kinetarin. Lavzhel érkharin. Douletin er pólitar féranin edin er hespetin. Etir medinántimor kinetarin. Efet Strátimos Ghéranides statarin en teltin er telzhel. Heir rétasin. Toum erotarin egh. Medinántimor erotarin heir. Almon heir akherin huthikanir.
+En hemerin trel, kamir er prakhel, helin harmodarin deshvar. Helin otelarin afor plem zelvash plum keletin er meun anerit arneitarin, koum teir menetarin esh brakhelir houm medin. Plem pólitar esh helfir, koum helin rétasin prel krenir.
+
+Efet érkharin sfradin, koum medinántimor sfradarin prinet plum.
+
+Matelir, toum sumetarin heum plum hemerin er pratin er toum, drel matelarin hein nunet‼ Anerit er sfradarin prinet plum esh en deshvar prez heter. Mekhir telest sfradin piptarin, heir ekhárin deshvar er desmarin monet heir, koum heter dunatarin darzarin hein paler, dókhanir paler, erotarin meun keletin pletir, koum heir ekhárin medin prel antithmarin, deir heir edet dorasarin lékhisir er autel. Drel medinántimor sfradarin prinet plum eif dunatarin heteret. Ánevkar arneitarin, Teíkhazur arneitarin, Órashazur arneitarin, Tchirnalash arneitarin, koum medinántimor erotarin Agórankar.
+
+Helin katelarin parza telzhel frun brakhelir deshvar meteir helin koum sfradin en keirin, koum medinántimor kinetarin, mekhir lavzhel itrarin koum douletin er pólitar féranin hespedhin, koum etir medinántimor kinetarin. Toteir Strátimos Ghéranides statarin ern teltin er telzhel koum rétasin, «Toum erotarin egh,» kaiter medinántimor erotarin heir, deir heir akherin hikanir.
 :::
 
 ## What Strátimos Said
 
 ::: {.verse form=prose lang=en work=the-five-defects-8}
-The clerks preserve the spring commander's speech. You will hear it again on completing your indenture, at your master's examination, and, should you ever sit on a council, there too./
-I have sat here three days, he said, watching five men conceal something from one another. I recognize it: last summer I watched an army die of it. Our arrows did not kill that army. Thirst killed it. Lacking water, it concealed the lack and crossed as though carrying its own. Had it announced at the summit, We lack water, it could have negotiated or returned home. It stayed silent and died between springs./
-You each lack something and conceal it. That explains the refusal to seal first. You fear the others will discover your city's need and charge for it. They will. By the first winter they will discover it anyway. A bond sealed over a concealed defect is a bale with hidden bottom rot. It holds until discovery; then comes a dispute fought across my springs./
-Declare it. Before sealing, each man must say aloud before the others what his city cannot accomplish without them. With everyone's lack known, nobody binds himself blindly, and nobody can charge one man's lack more dearly than the others'. A stated defect does not injure a bargain. I shall hear every man. I remain at this table until all five speak.
+This is what the commander of the springs said, as the clerks keep it, and you will hear it again at the end of your indenture, and at your examination for master, and when you sit on a council, if you ever do.
+
+"I have sat here three days," he said, "and I have watched five men hide a thing from one another, and I know what it is, because I watched a host die of it last summer. The host did not die of our arrows. It died of thirst, because it lacked water and hid that it lacked it, and came over the passes as if it carried its own. If it had said at the top of the pass, we have no water, it would have bargained for it, or gone home. It said nothing, and it died between the springs.
+
+"Each of you lacks something, and each of you is hiding it, and that is why none of you will seal first. You think that if you seal first the others will find out what your city lacks and make you pay for it. They will. They will find out anyway, the first winter. A bond sealed with a defect hidden is a bale sold with the rot at the bottom, and it holds until the rot is found, and then it is a quarrel, and the quarrel will be fought on my springs.
+
+"So declare it. Each of you, before he seals, will say aloud in front of the others what his city cannot do without the rest. Then nobody is bound blind, because everybody knows what everybody else lacks, and nobody can be made to pay more for his lack than the others for theirs. A defect declared is no defect in the bargain. I will hear each of you, and I will not leave this table until all five have spoken."
 :::
 
 ::: {.verse form=prose lang=biza enc=bizahelonikaenc work=the-five-defects-8}
-Heum ésharin retin er arsher er krenir, houm seketar valzarin. Toum akherin hein paler en teltin er matelvar, en merzarin prel bizvar, en katelarin en bulorin eif toum katelarin ekesh./
-Egh katelarin enit prel 3 hemerin, heir rétasin. Egh meltarin 5 anerit kaluptarin hostin afor heter. Egh epistémarin hein deir egh meltarin tanearin er poletar deir hein en paretin therzin. Poletar uf tanearin deir tokhel er herin. Heir tanearin deir difelin. Heir uf ekhárin hidir. Heir kaluptarin apetin. Heir érkharin dres vezhrel houm heir féranin er autel. Eif heir rétasin en hut teltin er vezhrel, herin uf ekhárin hidir, heir pratarin ameitin prel hein, eil nostarin prou domin. Heir uf rétasin. Heir tanearin meteir krenir./
-Plum er toum uf ekhárin hostin. Plum kaluptarin hein. Heum ésharin aitelin er arneitarin er meun sfradin. Toum pestarin. Eif egh sfradarin prinet plum, heter heurarin apetin er pólitar er egh. Helin pratarin zharpin prel egh deir hein. Helin pratarin heum. Helin heurarin hein en meun krumvar kaiet uf frun heum. Deshvar frun kaluptarin zerpel ésharin zalvin frun zhulvin en kamelir meretin. Hein menetarin hoset heurarin er zhulvin. Efet hein ésharin prakhel. Prakhel ésharin makhetarin parza krenir er egh./
-Drel toum rétasin. Plum prez sfradin rétasin taret prez heter. Teir pólitar er autel uf dunatarin pratarin uf frun heter. Toteir medinántimor ésharin en deshvar houm ameltir. Plum epistémarin apetin er plum heter. Medinántimor dunatarin ekhárin pletir zharpin deir apetin er autel eil er heter deir er helin. Zerpel er rétasin uf ésharin zerpel en ameitin. Egh akrotarin plum. Egh uf érkharin apet afor heum telzhel hoset 5 retin.
+Heum esh teir arsher er krenir rétasin, houm seketar sotharin hein, koum toum akherin hein paler en teltin er matelvar er toum, en merzarin prel bizvar, koum en bulorin, eif toum medinkronin katelarin ekesh.
+
+«Egh katelarin enit trel hemerin,» heir rétasin, «koum egh meltarin plem anerit kaluptarin meun praghin afor heter, koum egh epistémarin teir hein esh, deir egh meltarin poletar tanearin deir hein en therzin heun. Poletar uf tanearin deir tirvel er herin. Heir tanearin deir difelin, deir heir uf ekhárin hidir koum kaluptarin heum, koum érkharin dres vezhrel houm heir féranin hidir er autel. Eif heir rétasin ern teltin er vezhrel, ‹Herin ekhárin medin hidir,› heir antithmarin prel hein, eil nostarin prou domin. Heir rétasin medin, koum tanearin meteir krenir.»
+
+«Plum er toum uf ekhárin meun praghin, koum plum kaluptarin hein, koum drel medinántimor sfradarin prinet plum. Toum dókhanir, eif toum sfradarin prinet plum, heter heurarin teir pólitar er toum uf ekhárin, koum pratarin toum zharparin prel hein. Helin heurarin. Helin heurarin hein kaiet, en krumvar prinet plum. Deshvar sfradarin frun zerpin kaluptir esh zalvin polarin frun zhulvin en kamelir meretin, koum hein menetarin mekhir zhulvin esh heurarin, koum toteir hein esh prakhel, koum prakhel makhetarin epir krenir er egh.»
+
+«Drel rétasin hein‼ Plum er toum, prez sfradarin, rétasin taret prez heter teir pólitar er heir uf dunatarin pratarin uf frun heter. Toteir medinántimor esh en deshvar houm ameltir, deir plumántimor epistémarin teir plumántimor uf ekhárin, koum medinántimor zharparin pletir prel apetin er heir eil heter prel apetin er autel. Zerpel uf esh zerpin en ameitin. Egh akherin plum er toum, koum egh uf érkharin apet afor heum telzhel mekhir plem rétasin.»
 :::
 
 ## The Declarations
 
 ::: {.verse form=prose lang=en work=the-five-defects-9}
-They resisted. Clerks describe a long silence during which lamps were trimmed./
-Then slow-speaking Órashazur placed his die before him. Every word of his mattered. Clerks explain that a smith habitually names iron's defects before receiving payment for a blade./
-Órashion has iron without a road. Our weapons travel nowhere without your ships and mules. Close the passes or road, and we can forge swords until the mountain is hollow, with nobody carrying one away. That is our lack./
-Next Teíkhazur, Argirteikhos's wall captain, set his die down./
-Argirteikhos has passes and silver without bread. Mines feed nobody. Unless the plateau sends grain up the road, silver can hold our pass one winter. In the second we open to anyone bringing bread. That is our lack./
-Tchirnalash, who smiled at everything, stopped smiling and set down his die./
-Karvashion has caravans without walls the steppe respects. Our markets open on every side; that is a market's nature. When an army descends, we sell it water until the water ends. Then it takes the rest. That is our lack./
-Last among those four, Ánevkar of the sea-going walk laid down Nesthiros's die. Clerks compare it to surrendering a card one hoped to retain./
-Nesthiros has the sea without the plateau. Ships stop at the harbor. A galley cannot carry a bale up the escarpment or defend a pass. Close the road above and our harbor fills with ships having nothing to carry. That is our lack./
-They turned toward Agórankar, youngest and poorest, who had spent three days pouring wine and answering no questions. Strátimos said, You too./
-Agórankar laid down the mule-market die: plain brass incised with a mule. The clerks still possess it./
-Krusteikhos has only the meeting of your roads. Without those roads we are a mule yard. That is our lack, and it is everything.
+They did not want to. The clerks say there was a long silence, and that the lamps were trimmed during it.
+
+Then Órashazur of Órashion, who spoke slowly and meant everything, put his die on the table in front of him and spoke, because, the clerks say, a smith is used to saying what is wrong with the iron before he is paid for the blade.
+
+"Órashion has iron and no road. Our arms go nowhere without your mules and your ships. If the passes close, or the road, we can make swords until the mountain is hollow and nobody will carry one of them away. That is what we lack."
+
+Then Teíkhazur of Argirteikhos, the captain of the wall, put his die on the table.
+
+"Argirteikhos has the pass and the silver, and no bread. Our mines feed nobody. If the plateau does not send grain up the road we can hold the pass with silver for one winter, and the second winter we will open the gate to anyone who brings bread. That is what we lack."
+
+Then Tchirnalash of Karvashion, who smiled at everything, stopped smiling and put his die on the table.
+
+"Karvashion has the caravans and no wall that the steppe respects. Our bazaars are open on every side, because that is what a bazaar is. If a host comes down the road to us, we will sell it water until we have none, and then it will take the rest. That is what we lack."
+
+Then Ánevkar of Nesthiros, who had the sea in his walk, put his die on the table last of the four, and the clerks say he did it as a man lays down a card he hoped to keep.
+
+"Nesthiros has the sea and no plateau. Our ships end at the harbor. A galley cannot carry a bale up the escarpment or hold a pass. If the road above us closes, we are a harbor full of ships with nothing to carry. That is what we lack."
+
+Then they looked at Agórankar of Krusteikhos, the youngest and the poorest, who had poured the wine for three days and had not been asked anything, and Strátimos said: "And you."
+
+Agórankar put the mule-market's die on the table, which was a die of plain brass with a mule cut in it, and the clerks have it still.
+
+"Krusteikhos has nothing but the place where your roads meet. Without your roads we are a mule-yard. That is what we lack, and it is everything."
 :::
 
 ::: {.verse form=prose lang=biza enc=bizahelonikaenc work=the-five-defects-9}
-Helin uf oratarin. Seketar rétasin. Sighelin kronin ésharin makrir. Ántimor pratarin kresir nematin er lavzhel en hein./
-Efet Órashazur er Órashion tetarin neshar en telzhel prez autel. Heir rétasin bradelir. Plum retin ekhárin bouletarin. Seketar rétasin. Zirzhar aeit rétasin zerpel er siderin prez zharpin er zirvel./
-Órashion ekhárin siderin. Hein uf ekhárin hodis. Tokhel er herin érkharin prou medintofelin uf frun mulvar er toum, navzhel er toum. Eif vezhrel kleitarin, eil hodis, herin pratarin zirvel hoset órasin ésharin maník. Medinántimor féranin meun apet. Heum ésharin apetin er herin./
-Efet Teíkhazur er Argirteikhos, arsher er teikhir, tetarin neshar en telzhel./
-Argirteikhos ekhárin vezhrel, argirin. Hein uf ekhárin arthel. Zalzhel er herin uf dorasarin edin prel hostir. Eif vezhnur uf féranin sithel anet dres hodis, herin sotharin vezhrel frun argirin prel meun krumvar. En drin krumvar herin anoigharin pilin prel hostir frun arthel. Heum ésharin apetin er herin./
-Efet Tchirnalash er Karvashion, er melarin prel plum, pautarin melarin. Heir tetarin neshar en telzhel./
-Karvashion ekhárin karvash. Hein uf ekhárin teikhir er arzhel dokharin. Bazhar er herin ésharin anoigharin en plum meretin. Heum ésharin bazhar. Eif poletar érkharin katet dres hodis prou herin, herin polarin hidir prel heir hoset medin hidir. Toteir heir lámbarin heter. Heum ésharin apetin er herin./
-Efet Ánevkar er Nesthiros, frun tálimir en badelin er autel, tetarin neshar en telzhel. Telest er 4. Seketar rétasin. Heir pratarin houm anerit tetarin zherpel er heir bouletarin sotharin./
-Nesthiros ekhárin tálimir. Hein uf ekhárin vezhnur. Navzhel er herin pautarin parza limenir. Tririr uf dunatarin féranin zalvin anet litorvel eil sotharin vezhrel. Eif hodis hut herin kleitarin, herin ésharin limenir plir er navzhel, uf frun hostin prel féranin. Heum ésharin apetin er herin./
-Efet helin meltarin Agórankar er Krusteikhos. Nevar eil er plum, penetir eil er plum. Heir féranin oinel prel 3 hemerin. Medinántimor erotarin heir hostin. Strátimos rétasin. Toum prostet./
-Agórankar tetarin neshar er bazhar er mulvar en telzhel. Hein ésharin zharbin uf frun zhevar. Mulvar ésharin zharvar en hein. Seketar ekhárin hein etir./
-Krusteikhos ekhárin monet teselin er sumetin er hodis er toum. Uf frun hodis er toum herin ésharin darvel er mulvar. Heum ésharin apetin er herin. Hein ésharin plum.
+Helin uf oratarin. Seketar rétasin, sighelin esh makrir, koum douletin pratarin lavzhel paler en hein.
+
+Toteir Órashazur er Órashion, er rétasin bradelir koum semanarin plunar, tetarin sfradin er autel epir telzhel prez heir koum rétasin, deir, seketar rétasin, zirzhar aeit rétasin teir esh kasir en siderin prez lámbarin zharpin prel zirvel.
+
+«Órashion ekhárin siderin koum medin hodis. Hoplarin er herin érkharin medintofelin uf frun mulvar er toum koum navzhel er toum. Eif vezhrel kleitarin, eil hodis, herin pratarin zirvel mekhir órasin esh maník, koum medinántimor féranin meun apet. Heum esh teir herin uf ekhárin.»
+
+Toteir Teíkhazur er Argirteikhos, arsher er teikhir, tetarin sfradin epir telzhel.
+
+«Argirteikhos ekhárin vezhrel koum argirin, koum medin arthel. Zalzhel er herin dorasarin edin prel medinántimor. Eif hupsel pedin uf féranin sithel anet dres hodis, herin sotharin vezhrel frun argirin meun krumvar, koum en krumvar zikai herin anoigharin pilin prel hostir er féranin arthel. Heum esh teir herin uf ekhárin.»
+
+Toteir Tchirnalash er Karvashion, er melarin prel plunar, pautarin melarin koum tetarin sfradin epir telzhel.
+
+«Karvashion ekhárin karvash, koum medin teikhir er arzhel dokhazin. Bazhar er herin esh anoigharin en plum meretin, deir heum esh bazhar. Eif poletar érkharin katet epir hodis prou herin, herin polarin hidir prel heir mekhir herin ekhárin medin, koum toteir heir lámbarin teir menetarin. Heum esh teir herin uf ekhárin.»
+
+Toteir Ánevkar er Nesthiros, frun tálimir en badelin er autel, tetarin sfradin epir telzhel telest er vesmor, koum seketar rétasin heir pratarin hein houm anerit er tetarin zherpel er heir oratarin sotharin.
+
+«Nesthiros ekhárin tálimir koum medin hupsel pedin. Navzhel er herin pautarin en limenir. Tririr uf dunatarin féranin zalvin anet litorvel eil sotharin vezhrel. Eif hodis hut herin kleitarin, herin esh limenir plir er navzhel frun medin prel féranin. Heum esh teir herin uf ekhárin.»
+
+Toteir helin meltarin Agórankar er Krusteikhos, nevar eil er plum koum penetir eil er plum, er féranin oinel trel hemerin koum medinántimor erotarin hostin, koum Strátimos rétasin, «Koum toum.»
+
+Agórankar tetarin sfradin er bazhar er mulvar epir telzhel, sfradin er zharbin aplir frun mulvar zharvarin en hein, koum seketar ekhárin hein etir.
+
+«Krusteikhos ekhárin hostin plor teselin ekesh hodis er toum sumetarin. Uf frun hodis er toum herin esh darvel er mulvar. Heum esh teir herin uf ekhárin, koum heum apetin esh plunar.»
 :::
 
 ## The Four Bindings
 
 ::: {.verse form=prose lang=en work=the-five-defects-10}
-After all five declarations, clerks say the room became easier: nothing remained to discover. In one evening, through one scribe, they redrafted from the beginning and read the result aloud once. It was the Compact preserved in the Hall./
-Four bindings, apprentices. Learn them as history preserves them, until you can recite them in your sleep:/
-Common tariff rates prevent cities undercutting one another at the passes./
-A joint muster assembles against the next army before it arrives./
-A council holds the passes, with every city represented and none holding alone./
-Intercity disputes go to that council instead of the battlefield./
-Hear each answer. Órashion's missing road received equal tariff prices. Argirteikhos's missing bread came with mustered men. Karvashion's missing walls were supplied by shared defense of passes. Nesthiros's missing plateau became a harbor voice on the mountain council. Krusteikhos lacked everything except location, so received what a location can hold: the others' meeting table.
+When the five had declared, the clerks say the room was easier, because there was nothing left in it for anybody to find out, and they wrote the bond again from the beginning in one evening, through one scribe, and read it aloud once, and it was the Compact as the Hall keeps it.
+
+They bound themselves in four things, apprentices, and you will learn them now as the history keeps them, and you will learn them so that you could say them in your sleep:
+
+**Common tariffs**, so that no city undercut another at the passes./
+**A joint muster**, so that the force raised for the next host would not be raised in the middle of it./
+**The passes held by a council**, in which each city sat, and no city alone./
+**Disputes between cities brought to that council**, and not carried to the field.
+
+Hear what each binding answers. Órashion lacked a road, and the tariffs kept the road the same price for everyone. Argirteikhos lacked bread, and the muster brought bread up with the men. Karvashion lacked walls, and the passes held in common kept the host off its bazaars. Nesthiros lacked the plateau, and a council in which each city sat gave the harbor a voice on the mountain. And Krusteikhos lacked everything but the place, so it was given the one thing a place can hold: the table at which the others sat.
 :::
 
 ::: {.verse form=prose lang=biza enc=bizahelonikaenc work=the-five-defects-10}
-Potet 5 rétasin zervash, seketar rétasin dometin ésharin radelir. Vezh hostin prel heurarin. En meun hespetin helin zervarin deshvar paler afor arkhin, dres meun seketar. Helin darzarin taret meunhorat. Hein ésharin Penthar houm Harvel valzarin./
-Helin tetarin 4 deshvel prel autel, matelir. Toum matelarin nunet houm paradelin valzarin. Toum matelarin prel rétasin kaiet en hufin./
-Homet telzhar er tolzát. Medin pólitar dunatarin polarin meitir er heter en vezhrel./
-Meun merzhen. Poletar prel efet mistir uf árshidin en kronin er hikatin er heir./
-Bulorin sotharin vezhrel. Plum pólitar katelarin en bulorin. Medin meun pólitar sotharin monet autel./
-Prakhel meteir pólitar érkharin prou bulorin. Hein uf érkharin prou pedin./
-Toum akrotarin zhetelin er plum deshvel. Órashion uf ekhárin hodis. Homet tolzát tetarin homet zharpin prel plum. Argirteikhos uf ekhárin arthel. Merzhen féranin arthel anet frun anerit. Karvashion uf ekhárin teikhir. Homet valzin er vezhrel otelarin poletar afor bazhar er hein. Nesthiros uf ekhárin vezhnur. Bulorin frun plum pólitar dorasarin retin prel limenir en órasin. Krusteikhos uf ekhárin hostin antel teselin. Drel helin dorasarin monet hostin er teselin dunatarin ekhárin. Telzhel er katelarin er heter.
+Potet plem rétasin zervash, seketar rétasin, dometin esh radelir, deir hostin uf menetarin en hein prel heurarin, koum helin zervarin deshvar paler afor arkhin en meun hespetin, dres meun seketar, koum darzarin hein taret meunhorat, koum hein esh Penthar houm Harvel sotharin hein.
+
+Helin desmarin autel en vesmor deshvel, matelir, koum toum matelarin helin nunet houm paradelin sotharin helin, koum toum matelarin helin prel toum dunatarin rétasin helin en hufin.
+
+Homet telzhar, prel medin pólitar polarin meitir eil er heter parza vezhrel./
+Meun merzhen, prel poletar uf ésharin kaleitarin en mesetin er efet poletar./
+Vezhrel en keirin er bulorin, ekesh plum pólitar katelarin, koum medin pólitar monet./
+Prakhel meteir pólitar féranin prou heun bulorin, koum uf féranin prou pedin.
+
+Akherin teir plum deshvel ameitarin. Órashion uf ekhárin hodis, koum telzhar sotharin hodis homet zharpin prel plumántimor. Argirteikhos uf ekhárin arthel, koum merzhen féranin arthel anet frun anerit. Karvashion uf ekhárin teikhir, koum vezhrel en keirin er plum otelarin poletar afor bazhar er hein. Nesthiros uf ekhárin hupsel pedin, koum bulorin ekesh plum pólitar katelarin dorasarin retin prel limenir epir órasin. Koum Krusteikhos uf ekhárin hostin plor teselin, drel helin dorasarin heir meun praghin er teselin dunatarin ekhárin, telzhel ekesh heter katelarin.
 :::
 
 ## The Order of the Seals
 
 ::: {.verse form=prose lang=en work=the-five-defects-11}
-They sealed in declaration order at Strátimos's request. After speaking, nobody could face another dispute with him. Órashion first, since Órashazur had declared first. Argirteikhos next, Karvashion next, Nesthiros next. Krusteikhos last./
-Learn the last seal's function: it closes the bond. Before it, the other parties are bound but the bond remains incomplete. After it, the whole bond stays where that seal landed, in that sealer's care, unless the parties agree otherwise. It remained with Agórankar in the mule-yard town. His seal was last. The four never agreed to move it because none would let another take it home. They built its room, then a hall around that room. Five councils met there because their bond was there. That is this Merchant Hall, apprentices, whose floor you occupy./
-Krusteikhos held only a place and acquired the table by declaring it had nothing and sealing last.
+Then they sealed, and they sealed in the order they had declared, because that was what Strátimos asked, and nobody had the face to argue with him after the declarations. Órashion first, because Órashazur had declared first. Then Argirteikhos, then Karvashion, then Nesthiros. And Krusteikhos last.
+
+Learn this too: the last seal closes the bond. Until it goes down the others are bound and the bond is not; when it goes down, the bond is whole, and it stays where the last seal was struck, in the keeping of the one who struck it, until the parties agree otherwise. The bond stayed in the mule-yard town, in Agórankar's keeping, because his seal went down last, and the four did not agree otherwise, because no one of them would let another take it home. So it stayed. They built a room for it, and then a hall around the room, and then the five councils met in the hall, because that was where the bond was, and that is the Merchant Hall, apprentices, and you are sitting on its floor.
+
+That is how Krusteikhos, which had nothing but the place, came to hold the table. Not by being first. By declaring that it had nothing, and sealing last.
 :::
 
 ::: {.verse form=prose lang=biza enc=bizahelonikaenc work=the-five-defects-11}
-Efet helin sfradarin en taketin er zervash. Strátimos erotarin heum. Medinántimor deetarin prakhel frun heir. Zervash edet ésharin rétasin. Órashion prinet plum deir Órashazur rétasin zervash prinet plum. Efet Argirteikhos. Efet Karvashion. Efet Nesthiros. Krusteikhos telest./
-Toum matelarin prostet. Telest sfradin kleitarin deshvar. Prez hein heter ésharin en deshvar. Deshvar uf ésharin olashin. Potet telest sfradin érkharin en cherzin, deshvar ésharin olashin. Hein menetarin en teselin er telest sfradin, en valzin er anerit er sfradarin telest, hoset heter harmodin. Deshvar menetarin en pólitar er mulvar, en valzin er Agórankar, deir sfradin er heir ésharin telest. Vesmor uf harmodarin heter. Medin meun dorasarin efir prel heter féranin hein prou domin. Drel hein menetarin. Helin pratarin dometin prel hein. Efet helin pratarin harvel perel dometin. Efet 5 bulorin sumetarin en harvel deir deshvar ésharin ekesh. Heum ésharin Harvel, matelir. Toum katelarin en ghéranis er hein./
-Houm heum Krusteikhos ekhárin telzhel, er heir ekhárin monet teselin. Heir uf ésharin meun. Heir rétasin medin kemetin er autel. Heir sfradarin telest.
+Toteir helin sfradarin, koum sfradarin en taketin er zervash, deir Strátimos erotarin heum, koum huster zervash medinántimor ekhárin prosarin prel prakhel frun heir. Órashion prinet plum, deir Órashazur rétasin prinet plum. Efet Argirteikhos, efet Karvashion, efet Nesthiros. Koum Krusteikhos telest.
+
+Matelarin heum prostet‼ Telest sfradin kleitarin deshvar. Mekhir hein piptarin, heter esh en deshvar koum deshvar uf esh olashin. Potet hein piptarin, deshvar esh olashin, koum hein menetarin ekesh telest sfradin piptarin, en keirin er sfradar, mekhir anerit er deshvar harmodarin heteret. Deshvar menetarin en pólitar er darvel er mulvar, en keirin er Agórankar, deir sfradin er heir piptarin telest, koum vesmor uf harmodarin heteret, deir medin er helin efarin heter féranin hein prou domin. Drel hein menetarin. Helin domarin dometin prel hein, koum efet harvel perel dometin, koum efet plem bulorin sumetarin en harvel, deir deshvar esh ekesh, koum heum esh Harvel, matelir, koum toum katelarin epir ghéranis er hein.
+
+Poser Krusteikhos, er ekhárin monet teselin, lámbarin telzhel. Uf houm prinet plum. Houm pólitar er rétasin, «Herin ekhárin medin,» koum sfradarin telest.
 :::
 
 ## The Republic's Envoy
 
 ::: {.verse form=prose lang=en work=the-five-defects-12}
-You will ask what the [Republic]{.name data-type="affiliation/polity" lang=en} did. In those years this was its country, or so it believed./
-The following summer its envoy arrived with a small escort and a large letter. The five cities received him in the new, already roofed hall. He read aloud that their unauthorized league must dissolve and its passes submit to Republican officers./
-Agórankar, custodian of the bond, fed him first according to custom. Then he asked how many officers the Republic could send that year. The envoy gave no number. The cities knew: factions needed suppressing, Riders needed training, and no spare men remained for eastern war. They offered an annual payment instead of the passes, stated its amount, and declared its defect before he could discover it: the payment was below the passes' value to the Republic and above that year's cost of war. The envoy accepted. The Republic accepted yearly thereafter, leaving eastern cities free from its officers and garrisons for three hundred fifty years./
-That is our League's foreign policy from that summer to today. Be more valuable paying than conquered. Declare your offer's defect. Feed the envoy first.
+You will want to know what the [Republic]{.name data-type="affiliation/polity" lang=en} did. It was the Republic's country, after all, in those years, or it thought so.
+
+In the summer after the Compact an envoy of the Republic came east with a small escort and a large letter, and the five cities received him in the new hall, which had a roof by then, and he read the letter aloud. It said that the cities had made a league without leave, and that the Republic required them to dissolve it and submit their passes to the Republic's officers.
+
+Agórankar, who held the bond, fed the envoy first, because that is the custom, and then asked him how many officers the Republic could send to the passes that year. The envoy did not say. The cities knew, because the Republic had its own factions to put down that year and its Riders to train, and no men to spare for a war in the east. So the five offered him a yearly payment instead of the passes, and named the sum, and declared the defect in the offer before he could find it, which was that the sum was less than the passes were worth to the Republic and more than a war would cost it that year. The envoy took the payment, and the Republic took it every year after, and left the eastern cities free of its officers and its garrisons for three and a half centuries.
+
+That is the League's foreign policy, apprentices, from that summer to this one. Be worth more paid than conquered. Declare the defect in the offer. Feed the envoy first.
 :::
 
 ::: {.verse form=prose lang=biza enc=bizahelonikaenc work=the-five-defects-12}
-Toum oratarin epistémarin pratin er Kervash. En heun eniautin ghéranis ésharin er Kervash. Eil Kervash pestarin heum./
-Penthar ésharin edet. En therzin zhelzar er Kervash érkharin prou eotin frun mikrir parzhen, meghar papirin. 5 pólitar lámbarin heir en nevar harvel. Hein edet ekhárin stevrel. Heir darzarin papirin taret. Papirin rétasin. Pólitar pratarin [League]{lang=en} uf frun efir. Kervash erotarin pautarin er [League]{lang=en}, parádarin er vezhrel prou dikasar er Kervash./
-Agórankar, er valzarin deshvar, dorasarin edin prel zhelzar prinet plum, houm nomashir. Efet heir erotarin. Teir posetin er dikasar Kervash dunatarin féranin prou vezhrel heum eniautin. Zhelzar uf rétasin. Pólitar epistémarin. Kervash deetarin pautarin prakhel er meretin er autel en heum eniautin, didakhin tulvazar er autel. Vezh anerit prel poletin en eotin. Drel 5 pólitar dorasarin zharpin plum eniautin antel vezhrel. Helin rétasin posetin. Helin rétasin zerpel prez zhelzar heurarin. Posetin ésharin meitir eil er kérdanir er vezhrel prel Kervash, pletir eil er zharpin er poletin prel hein en heun eniautin. Zhelzar lámbarin zharpin. Kervash lámbarin hein plum efet eniautin. Hein tetarin pólitar er eotin eleuter afor dikasar er autel, afor parzhen er autel, prel 350 eniautin./
-Heum ésharin pratin er [League]{lang=en} prel heter pólitar, matelir, afor heun therzin prou nunet. Toum ésharin pletir kresir frun zharpin eil er desmetin. Toum rétasin zerpel en dorashin. Toum dorasarin edin prel zhelzar prinet plum.
+Toum oratarin epistémarin teir Kervash pratarin. Ghéranis esh er Kervash en heun eniautin, eil Kervash pestarin heum.
+
+En therzin huster Penthar zhelzar er Kervash érkharin prou eotin frun mikrir parzhen koum meghar papirin, koum plem pólitar lámbarin heir en nevar harvel, er ekhárin stevrel edet, koum heir darzarin papirin taret. Papirin rétasin, pólitar pratarin Penthar uf frun efir, koum Kervash erotarin helin klastarin hein koum parádarin vezhrel prou dikasar er Kervash.
+
+Agórankar, er sotharin deshvar, dorasarin edin prel zhelzar prinet plum, deir heum esh nomashir, koum toteir erotarin heir teir posetin er dikasar Kervash dunatarin féranin prou vezhrel en heum eniautin. Zhelzar uf rétasin. Pólitar epistémarin, deir Kervash ekhárin meretin er autel prel klastarin en heun eniautin koum tulvazar prel didakhin, koum medin anerit prel poletin en eotin. Drel plem dorasarin heir zharpin plum eniautin antel vezhrel, koum rétasin posetin, koum rétasin zerpin en pubrin prez heir heurarin hein. Posetin esh meitir eil er vezhrel esh eutalir prel Kervash, koum pletir eil er zharpin er poletin prel hein en heun eniautin. Zhelzar lámbarin zharpin, koum Kervash lámbarin hein plum eniautin efet, koum tetarin pólitar er eotin eleuter afor dikasar koum parzhen er autel trel hentor eniautin koum hemetin er hentor.
+
+Heum esh pratin er Penthar prel heter pólitar, matelir, afor heun therzin prou heum. Esh pletir eutalir frun zharpin eil frun desmetin‼ Rétasin zerpin en pubrin‼ Dorasarin edin prel zhelzar prinet plum‼
 :::
 
 ## Where the Other Cities Part
 
 ::: {.verse form=prose lang=en work=the-five-defects-13}
-Elsewhere you will hear this tale differently. Stay silent: guests do not correct a host's history at his table. Still, recognize what you hear./
-Nesthiros has Ánevkar declare first and confess no lack, since the sea lacks nothing. Everyone else declares to him. Its version leaves the bond in Krusteikhos because Agórankar refused to return it./
-Argirteikhos scarcely needs envoys. Strátimos does everything: walls springs, writes letters, summons the meeting, and makes the five declare like schoolboys. In that version schoolboys they are, and the bond belongs to him./
-Órashion tells nearly our version, proudly claiming Órashazur's first declaration. Its pride is justified./
-Karvashion adds a sixth defect. They say Tchirnalash declared the market's exposed walls but withheld another lack he has never named. Their caravan masters smile at questions. We disbelieve them, apprentices. Concealing a defect is no joke: the entire telling opposes it. Ask your master the value of a caravan master's smile.
+You will hear this telling in other cities, and you will hear it told otherwise, and you will keep your mouth shut, because a guest does not correct his host's history at his host's table. But you should know what you are hearing.
+
+In Nesthiros they tell it with Ánevkar declaring first, and declaring nothing at all, because the sea lacks nothing, and the others declaring their lacks to him. In Nesthiros the bond stays in Krusteikhos because Agórankar would not give it back.
+
+In Argirteikhos there are no envoys in the telling to speak of. Strátimos does everything. He walls the springs, he writes the letter, he calls the meeting and he makes the five declare like schoolboys, and the five are schoolboys in that telling, and the bond is his.
+
+In Órashion they tell it almost as we do, and they are proud that Órashazur declared first, and they are right to be.
+
+In Karvashion they tell it with a sixth defect. Tchirnalash, they say, declared the bazaar's open walls and kept back one more thing that Karvashion lacked, and has never said what it was, and the caravan-masters of Karvashion smile when you ask. We do not believe them, apprentices. A defect kept back is not a joke. It is the thing the whole telling is against. Ask your master what a caravan-master's smile is worth.
 :::
 
 ::: {.verse form=prose lang=biza enc=bizahelonikaenc work=the-five-defects-13}
-Toum akherin heum varzhel en heter pólitar. Heir ésharin heter. Toum uf rétasin. Ksenetir uf allatarin paradelin er ksenodir parza telzhel er ksenodir. Almon toum preitarin epistémarin retin er toum akherin./
-En Nesthiros helin rétasin Ánevkar rétasin zervash prinet plum. Heir rétasin medin apetin, deir tálimir uf ekhárin apetin. Heter rétasin apetin prel heir. En Nesthiros deshvar menetarin en Krusteikhos deir Agórankar arneitarin nostarin hein./
-En Argirteikhos vezh zhelzar er kresir en varzhel. Strátimos pratarin plum. Heir tetarin teikhir perel krenir, zervarin papirin, kaleitarin sumetin, pratarin 5 rétasin zervash houm matelir. En heun varzhel 5 ésharin matelir. Deshvar ésharin er heir./
-En Órashion helin rétasin houm herin, olashin. Helin ekhárin huferin deir Órashazur rétasin zervash prinet plum. Helin ésharin ortelir en heum./
-En Karvashion helin rétasin frun zemor zerpel. Helin rétasin Tchirnalash rétasin anoigharin teikhir er bazhar, sotharin meun heter apetin er Karvashion. Heir medinkronin rétasin hein. Karvashkar er Karvashion melarin potet toum erotarin. Herin uf pestarin helin, matelir. Kaluptarin zerpel uf ésharin pratin prel karil. Heum ésharin pratin er varzhel arneitarin. Toum erotarin bizvar er toum. Teir ésharin zharpin er melarin er karvashkar.
+Toum akherin heum varzhel en heter pólitar, koum toum akherin hein heteret, koum toum uf rétasin, deir ksenir uf orthelinarin paradelin er ksenodir parza telzhel er ksenodir. Almon toum preitarin epistémarin teir toum akherin.
+
+En Nesthiros helin rétasin Ánevkar rétasin prinet plum, koum rétasin medin, deir tálimir ekhárin medin apetin, koum heter rétasin apetin er autel prel heir. En Nesthiros deshvar menetarin en Krusteikhos deir Agórankar arneitarin dorasarin hein paler.
+
+En Argirteikhos vezh zhelzar en varzhel prel rétasin. Strátimos pratarin plunar. Heir pratarin teikhir perel krenir, zervarin papirin, kaleitarin sumetin, koum pratarin plem rétasin zervash houm paidelir en mathelion, koum plem esh paidelir en heun varzhel, koum deshvar esh er heir.
+
+En Órashion helin rétasin hein houm herin, olighet, koum helin ekhárin huferin deir Órashazur rétasin zervash prinet plum, koum huferin er helin esh dikhelir.
+
+En Karvashion helin rétasin hein frun zerpin in aritmas zemor. Tchirnalash, helin rétasin, rétasin teikhir anoigharin er bazhar koum sotharin meun praghin pletir er Karvashion uf ekhárin, koum medinkronin rétasin teir, koum karvashkar er Karvashion melarin potet toum erotarin. Herin uf pestarin helin, matelir. Zerpin kaluptir uf esh praghin er ghélarin. Heum esh praghin er olashin varzhel otelarin. Erotarin bizvar er toum teir esh eutalir melarin er karvashkar‼
 :::
 
 ## The Reading
 
 ::: {.verse form=prose lang=en work=the-five-defects-14}
-The League council's chair opens each Hall session by reading the Compact aloud. Clerks know its old wording well enough to detect an inserted clause. Whether that copy bears the five original seals or was made afterward, the Hall has never said. Clerks call it the same weight, as clerks do./
-As masters standing here on a session day, listen for the four bindings. You will hear no five defects. They never entered the Compact; they were spoken before sealing, which explains its endurance. They live in you. Here is their keeping.
+The chair of the League's council opens every session in this Hall by reading the Compact aloud, and the clerks know the old text well enough to hear a clause go by that is not in it. Whether the copy he reads is the one the five sealed at the top of the road, or a copy made since, the Hall has never said, and the clerks say it is the same weight, which is what a clerk says.
+
+When you are masters, and stand on this floor on a session day, you will hear it read. Listen for the four bindings. You will not hear the five defects in it. The defects are not in the Compact, apprentices. They were said before it was sealed, which is why it holds. They are in you, and here is where they are kept.
 :::
 
 ::: {.verse form=prose lang=biza enc=bizahelonikaenc work=the-five-defects-14}
-Árshir er bulorin er [League]{lang=en} árshidin plum sumetin en heum Harvel frun darzarin er Penthar taret. Seketar epistémarin palaisir papirin. Helin akherin keletin er uf ésharin en hein. Zhe zelvash er darzarin ésharin er 5 sfradarin en hut teltin er hodis, eil zelvash er husteret kronin, Harvel medinkronin rétasin. Seketar rétasin hein ésharin homet zighrel. Heum ésharin retin er seketar./
-Potet toum ésharin bizvar, statarin en heum ghéranis en hemerin er sumetin, toum akherin darzarin. Toum akrotarin prel 4 deshvel. Toum uf akherin 5 zerpel en hein. Zerpel uf ésharin en Penthar, matelir. Helin rétasin prez sfradarin er hein. Heum ésharin aitelin er menetarin er hein. Helin ésharin en toum. Enit valzin er helin.
+Árshir er bulorin er Penthar árshidin plum sumetin en heum Harvel frun darzarin Penthar taret, koum seketar epistémarin palaisir lékhisir houm hikanir prel akherin keletin er uf esh en hein. Zhe eil zelvash er hein darzarin ésharin homet zelvash er plem sfradarin ern teltin er hodis, eil zelvash er husteret kronin, Harvel medinkronin rétasin, koum seketar rétasin hein ekhárin homet zighrel, houm seketar rétasin.
+
+Potet toum esh bizvar, koum statarin epir heum ghéranis en hemerin er sumetin, toum akherin darzarin. Akrotarin prel vesmor deshvel‼ Toum uf akherin plem zerpin en hein. Zerpin uf esh en Penthar, matelir. Helin rétasin zerpin prez helin sfradarin Penthar, koum drel Penthar menetarin. Helin esh en toum, koum enit esh valzin er helin.
 :::
 
 ## The Declaration
 
 ::: {.verse form=prose lang=en work=the-five-defects-15}
-Stand and repeat each line after me. Know it by the next Dedication. Teach it to your own apprentices when masters. Say it to yourselves on any morning you feel tempted to seal over a bale's hidden bottom rot.
+Stand up now, and say it back to me, a line at a time. You will know it by the next Dedication, and you will say it to your own apprentices when you are masters, and you will say it to yourselves on the morning you are tempted to seal a bond with the rot at the bottom.
 :::
 
 ::: {.verse form=prose lang=biza enc=bizahelonikaenc work=the-five-defects-15}
-Nunet toum statarin. Toum rétasin prel egh, meun retin, efekt meun. Toum epistémarin heum prez efet Marendas. Toum rétasin prel matelir er toum potet toum ésharin bizvar. Toum rétasin prel autel en ortrin er oratin er sfradarin er deshvar frun zhulvin en kamelir meretin.
+Statarin nunet, koum rétasin hein paler prel egh, meun lékhisir efet meun‼ Toum epistémarin hein prez efet Pilvel er matelir, koum toum rétasin hein prel matelir er toum potet toum esh bizvar, koum toum rétasin hein prel autel en ortrin potet toum oratarin sfradarin deshvar frun zhulvin en kamelir meretin.
 :::
 
 : The Declaration {#declaration}
 
 ::: {.verse form=legend lang=en work=declaration}
-Órashion has iron without a road./
-.That is our lack./
-Argirteikhos has passes and silver without bread./
-.That is our lack./
-Karvashion has caravans without walls the steppe respects./
-.That is our lack./
-Nesthiros has the sea without the plateau./
-.That is our lack./
-Krusteikhos has only the meeting place of roads./
-.That is our lack, and it is everything./
-The defect is stated. Nobody binds himself blindly./
-.Tariff rates are common. The muster is joint./
-The council holds the passes. Disputes come to the table./
-.The final seal closes the bond, which stays where it closed./
-This is the Hall. We sit on its floor./
-.We shall stand here until we become masters.
+Órashion has iron and no road./
+.That is what we lack./
+Argirteikhos has the pass and the silver, and no bread./
+.That is what we lack./
+Karvashion has the caravans, and no wall the steppe respects./
+.That is what we lack./
+Nesthiros has the sea, and no plateau./
+.That is what we lack./
+Krusteikhos has nothing but the place where the roads meet./
+.That is what we lack, and it is everything./
+The defect is declared. Nobody is bound blind./
+.The tariffs are common. The muster is joint./
+The passes are held by the council. The quarrel goes to the table./
+.The last seal closes the bond, and the bond stays where it closed./
+This is the Hall. We are sitting on its floor./
+.We will stand on it until we are masters.
 
-Sit. Return home with your masters. You are apprentices of Krusteikhos, and you know its lack.
+Sit down. Go home with your masters. You are apprentices of Krusteikhos, and you know what it lacks.
 :::
 
-::: {.verse form=legend lang=biza enc=bizahelonikaenc work=declaration}
-Órashion ekhárin siderin. Hein uf ekhárin hodis./
-.Heum ésharin apetin er herin./
-Argirteikhos ekhárin vezhrel frun argirin. Hein uf ekhárin arthel./
-.Heum ésharin apetin er herin./
-Karvashion ekhárin karvash. Hein uf ekhárin teikhir er arzhel dokharin./
-.Heum ésharin apetin er herin./
-Nesthiros ekhárin tálimir. Hein uf ekhárin vezhnur./
-.Heum ésharin apetin er herin./
-Krusteikhos ekhárin monet teselin er sumetin er hodis./
-.Heum ésharin apetin er herin. Hein ésharin plum./
-Zerpel ésharin rétasin. Medinántimor ésharin en deshvar houm ameltir./
-.Telzhar er tolzát ésharin homet. Merzhen ésharin meun./
-Bulorin sotharin vezhrel. Prakhel érkharin prou telzhel./
-.Telest sfradin kleitarin deshvar. Deshvar menetarin en teselin er kleitarin er hein./
-Heum ésharin Harvel. Herin katelarin en ghéranis er hein./
-.Herin statarin en hein hoset herin ésharin bizvar.
+::: {.verse form=legend lang=biza enc=bizahelonikaenc work=declaration scan=pentameter}
+Órashion, siderin, koum medin hodis./
+.Heum esh teir herin uf ekhárin./
+Argirteikhos, vezhrel, argirin, medin arthel./
+.Heum esh teir herin uf ekhárin./
+Karvashion, karvash, teikhir er arzhel uf dokhazin./
+.Heum esh teir herin uf ekhárin./
+Nesthiros, tálimir, medin hupsel pedin./
+.Heum esh teir herin uf ekhárin./
+Krusteikhos, monet teselin er sumetin er hodis./
+.Heum esh teir herin uf ekhárin,/
+.koum heum apetin esh plunar./
+Herin rétasin zerpin. Medinántimor ameltir./
+.Homet telzhar, koum meun merzhen./
+Vezhrel en bulorin. Prakhel prou telzhel./
+.Telest sfradin kleitarin deshvar,/
+.deshvar menetarin ekesh kleitarin./
+Heum Harvel. Herin katelarin enit./
+.Herin statarin enit mekhir bizvar.
 
-Toum katelarin. Toum nostarin prou domin frun bizvar er toum. Toum ésharin matelir er Krusteikhos. Toum epistémarin apetin er hein.
+Katelarin‼ Nostarin prou domin frun bizvar‼/
+Toum esh nunet matelir er Krusteikhos,/
+toum epistémarin teir hein uf ekhárin.
 :::
 
 ## See Also
