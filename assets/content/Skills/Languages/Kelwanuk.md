@@ -88,6 +88,17 @@ data:
       gloss: "a beach; the shore before a village"
       concept: shore
       source: {kind: coined}
+    - form: "yatsu"
+      class: n
+      field: "Sea, river and sky"
+      gloss: "an island"
+      source: {kind: coined}
+    - form: "yatsala"
+      class: n
+      field: "Sea, river and sky"
+      gloss: "a gathering of islands; the great islands off the coast"
+      built: ["yatsu", "-ala"]
+      source: {kind: coined}
     - form: "tuklas"
       class: n
       field: "Sea, river and sky"
@@ -990,6 +1001,12 @@ data:
       gloss: "a witness; a guest paid at a feast to see and remember"
       built: ["nilkwa", "-mis"]
       source: {kind: coined}
+    - form: "tukwamis"
+      class: n
+      field: "Names, gifts and rank"
+      gloss: "a seat holder; the noble who holds the coast's seat at the council of the Red Stone Compact"
+      built: ["tukwa", "-mis"]
+      source: {kind: coined}
     - form: "tsapis"
       class: n
       field: "Names, gifts and rank"
@@ -1276,6 +1293,18 @@ data:
       class: n
       field: "Winter dances and the dead"
       gloss: "the Wild One; a dancer whom a forest power has taken and the songs bring back"
+      source: {kind: coined}
+    - form: "gunismis"
+      class: n
+      field: "Winter dances and the dead"
+      gloss: "a keeper of the masks; the head of a winter dance society, who rules the house in the dancing season"
+      built: ["gunis", "-mis"]
+      source: {kind: coined}
+    - form: "nakpulalas"
+      class: n
+      field: "Winter dances and the dead"
+      gloss: "a meeting; the first meeting of an ancestor with a power, and the faith that keeps those meetings"
+      built: ["nakpula", "-las"]
       source: {kind: coined}
     - form: "tsulayekwa"
       class: n
@@ -5726,8 +5755,32 @@ data:
   names:
     pattern: ["{given}", "{given} of the {clan}"]
     given:
-      female: ["kalunukwas", "kelwakita", "melumkita", "tsawanukwas", "pelaskita", "gelemtalwa"]
-      male: ["lukwahakwa", "kwemulkita", "kwemlatsuma", "malkistalwa", "tumlahakwa", "yakwiskita"]
+      female:
+        - "kalunukwas"
+        - "kelwakita"
+        - "melumkita"
+        - "tsawanukwas"
+        - "pelaskita"
+        - "gelemtalwa"
+        - "dimasnilkwa"
+        - "tsamalkalu"
+        - "melumniksala"
+        - "tsuyesnilkwa"
+        - "lebiskita"
+        - "hulisniksala"
+      male:
+        - "lukwahakwa"
+        - "kwemulkita"
+        - "kwemlatsuma"
+        - "malkistalwa"
+        - "tumlahakwa"
+        - "yakwiskita"
+        - "yaldukita"
+        - "dusdoltalwa"
+        - "tuklaskapala"
+        - "gunistalwa"
+        - "kelwatsuma"
+        - "ulsemhakwa"
     clan:
       - "tsilkasanuk"
       - "malkisanuk"
@@ -5736,6 +5789,73 @@ data:
       - "lamekanuk"
       - "telikanuk"
       - "gwemlasanuk"
+  elements:
+    - {form: kalu, position: either, sense: counts, word: kalu, examples: [kalunukwas, tsamalkalu]}
+    - form: kelwa-
+      position: opening
+      sense: cedar
+      word: kelwa
+      examples: [kelwakita, kelwatsuma]
+    - form: melum-
+      position: opening
+      sense: grease
+      word: melum
+      examples: [melumkita, melumniksala]
+    - {form: tsawa-, position: opening, sense: the sea, word: tsawa, examples: [tsawanukwas]}
+    - {form: pelas-, position: opening, sense: a blanket, word: pelas, examples: [pelaskita]}
+    - {form: gelem-, position: opening, sense: winter, word: gelem, examples: [gelemtalwa]}
+    - {form: lukwa-, position: opening, sense: a copper, word: lukwa, examples: [lukwahakwa]}
+    - {form: kwemul-, position: opening, sense: a whale, word: kwemul, examples: [kwemulkita]}
+    - {form: kwemla-, position: opening, sense: a crest, word: kwemla, examples: [kwemlatsuma]}
+    - {form: malkis-, position: opening, sense: an orca, word: malkis, examples: [malkistalwa]}
+    - {form: tumla-, position: opening, sense: a harpoon, word: tumla, examples: [tumlahakwa]}
+    - {form: yakwis-, position: opening, sense: a war canoe, word: yakwis, examples: [yakwiskita]}
+    - {form: dimas-, position: opening, sense: a dream, word: dimas, examples: [dimasnilkwa]}
+    - {form: tsamal-, position: opening, sense: a salmon, word: tsamal, examples: [tsamalkalu]}
+    - {form: tsuyes-, position: opening, sense: the moon, word: tsuyes, examples: [tsuyesnilkwa]}
+    - {form: lebis-, position: opening, sense: cedar bark, word: lebis, examples: [lebiskita]}
+    - {form: hulis-, position: opening, sense: the eulachon, word: hulis, examples: [hulisniksala]}
+    - {form: yaldu-, position: opening, sense: wealth, word: yaldu, examples: [yaldukita]}
+    - {form: dusdol-, position: opening, sense: thunder, word: dusdol, examples: [dusdoltalwa]}
+    - {form: tuklas-, position: opening, sense: a mountain, word: tuklas, examples: [tuklaskapala]}
+    - {form: gunis-, position: opening, sense: a mask, word: gunis, examples: [gunistalwa]}
+    - {form: ulsem-, position: opening, sense: fire, word: ulsem, examples: [ulsemhakwa]}
+    - form: -nukwas
+      position: closing
+      sense: the tide
+      word: nukwas
+      examples: [kalunukwas, tsawanukwas]
+    - form: -kita
+      position: closing
+      sense: gives
+      word: kita
+      examples: [kelwakita, melumkita, pelaskita, kwemulkita, yakwiskita, lebiskita, yaldukita]
+    - form: -talwa
+      position: closing
+      sense: speaks
+      word: talwa
+      examples: [gelemtalwa, malkistalwa, dusdoltalwa, gunistalwa]
+    - form: -hakwa
+      position: closing
+      sense: lifts
+      word: hakwa
+      examples: [lukwahakwa, tumlahakwa, ulsemhakwa]
+    - form: -tsuma
+      position: closing
+      sense: carves
+      word: tsuma
+      examples: [kwemlatsuma, kelwatsuma]
+    - form: -nilkwa
+      position: closing
+      sense: sees
+      word: nilkwa
+      examples: [dimasnilkwa, tsuyesnilkwa]
+    - form: -niksala
+      position: closing
+      sense: carries
+      word: niksala
+      examples: [melumniksala, hulisniksala]
+    - {form: -kapala, position: closing, sense: returns, word: kapala, examples: [tuklaskapala]}
   sounds:
     edges:
       - {edge: openCluster, sounds: [kw, gw, ts]}
@@ -5791,6 +5911,49 @@ data:
     - {name: malkistalwa, tongue: kelwanuk, built: [malkis, talwa]}
     - {name: tumlahakwa, tongue: kelwanuk, built: [tumla, hakwa]}
     - {name: yakwiskita, tongue: kelwanuk, built: [yakwis, kita]}
+    - {name: dimasnilkwa, tongue: kelwanuk, built: [dimas, nilkwa]}
+    - {name: tsamalkalu, tongue: kelwanuk, built: [tsamal, kalu]}
+    - {name: melumniksala, tongue: kelwanuk, built: [melum, niksala]}
+    - {name: tsuyesnilkwa, tongue: kelwanuk, built: [tsuyes, nilkwa]}
+    - {name: lebiskita, tongue: kelwanuk, built: [lebis, kita]}
+    - {name: hulisniksala, tongue: kelwanuk, built: [hulis, niksala]}
+    - {name: yaldukita, tongue: kelwanuk, built: [yaldu, kita]}
+    - {name: dusdoltalwa, tongue: kelwanuk, built: [dusdol, talwa]}
+    - {name: tuklaskapala, tongue: kelwanuk, built: [tuklas, kapala]}
+    - {name: gunistalwa, tongue: kelwanuk, built: [gunis, talwa]}
+    - {name: kelwatsuma, tongue: kelwanuk, built: [kelwa, tsuma]}
+    - {name: ulsemhakwa, tongue: kelwanuk, built: [ulsem, hakwa]}
+    - {name: tuyala hapas, tongue: kelwanuk, built: [tuyala, hapas]}
+    - {name: Long Inlets, tongue: translation}
+    - {name: tsawis yumis, tongue: kelwanuk, built: [tsawis, yumis]}
+    - {name: Outer Beaches, tongue: translation}
+    - {name: yatsala, tongue: kelwanuk, built: [yatsu, -ala]}
+    - {name: Outer Islands, tongue: translation}
+    - {name: gwemlasis, tongue: kelwanuk, built: [gwemlas, -is]}
+    - {name: Thunderbird Beach, tongue: translation}
+    - {name: mukwasis, tongue: kelwanuk, built: [mukwas, -is]}
+    - {name: Wolf Beach, tongue: translation}
+    - {name: lamekis, tongue: kelwanuk, built: [lamek, -is]}
+    - {name: Bear Beach, tongue: translation}
+    - {name: gonala gwelu, tongue: kelwanuk, built: [gonala, gwelu]}
+    - {name: South River, tongue: translation}
+    - {name: nakpulalas, tongue: kelwanuk, built: [nakpula, -las]}
+    - {name: Meeting, tongue: translation}
+    - {name: tsawa hemkis, tongue: kelwanuk, built: [tsawa, hemkis]}
+    - {name: Sea Chief, tongue: translation}
+    - {name: lak temkwas, tongue: kelwanuk, built: [lak, temkwas]}
+    - {name: Hungry Power, tongue: translation}
+    - {name: gunismis, tongue: kelwanuk, built: [gunis, -mis]}
+    - {name: Keeper of the Masks, tongue: translation}
+    - {name: tukwamis, tongue: kelwanuk, built: [tukwa, -mis]}
+    - {name: Seat Holder, tongue: translation}
+    - {name: Eagle Beach, tongue: translation}
+    - {name: Grease Trail, tongue: translation}
+    - {name: Bringing Back, tongue: translation}
+    - {name: Village of the Dead, tongue: translation}
+    - {name: Thunderbird House, tongue: translation}
+    - {name: Wolf House, tongue: translation}
+    - {name: Bear House, tongue: translation}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -5900,13 +6063,13 @@ What the coast needs to keep, it keeps in memory. A house's Keeper of the Count 
 
 A name on the coast is property. Each house owns its names, and each name carries a seat at the feasts, a set of crests, and rights to particular fishing places, songs and dances. A person holds a series of names through a life. A child is given a small name at its first year; a young person takes a second name at a feast that its parents give; an adult claims the names of the house that come to it, by inheritance from either parent or through marriage, and each claim is made good with a giving feast. When a person dies, the name waits for an heir to lift it.
 
-A name is made from the words of the dictionary, most often a thing of the house's crests or its wealth and a thing it does: _Lukwahakwa_ is Copper Lifted, _Kalunukwas_ is Counts the Tides. A house keeps some names for women and some for men, and a name passes from a man to a woman or the other way where the house has no other heir. A house's people are named with _-anuk_ on its crest: the _Tsilkasanuk_ are the Eagle House.
+A name is made from the words of the dictionary, most often a thing of the house's crests or its wealth and a thing it does: _Lukwahakwa_ is Copper Lifted, _Kalunukwas_ is Counts the Tides. [Making names](#making-names) gives the parts a new name is built from. A house keeps some names for women and some for men, and a name passes from a man to a woman or the other way where the house has no other heir. A house's people are named with _-anuk_ on its crest: the _Tsilkasanuk_ are the Eagle House.
 
 ### Name Lists
 
-**Women's names:** Kalunukwas, Kelwakita, Melumkita, Tsawanukwas, Pelaskita, Gelemtalwa
+**Women's names:** Kalunukwas, Kelwakita, Melumkita, Tsawanukwas, Pelaskita, Gelemtalwa, Dimasnilkwa, Tsamalkalu, Melumniksala, Tsuyesnilkwa, Lebiskita, Hulisniksala
 
-**Men's names:** Lukwahakwa, Kwemulkita, Kwemlatsuma, Malkistalwa, Tumlahakwa, Yakwiskita
+**Men's names:** Lukwahakwa, Kwemulkita, Kwemlatsuma, Malkistalwa, Tumlahakwa, Yakwiskita, Yaldukita, Dusdoltalwa, Tuklaskapala, Gunistalwa, Kelwatsuma, Ulsemhakwa
 
 **Houses:** Tsilkasanuk (Eagle), Malkisanuk (Orca), Telukanuk (Raven), Mukwasanuk (Wolf), Lamekanuk (Bear), Telikanuk (Frog), Gwemlasanuk (Thunderbird)
 
@@ -6057,7 +6220,18 @@ ORDER BY position
 
 ## Making names {#making-names}
 
-**A person** carries a name of two words set together, owned by a house: _lukwahakwa_ is _lukwa_, a copper, and _hakwa_, to lift. **A house** is its crest with _-anuk_: _tsilkasanuk_, the Eagle House. **A village** is named for its beach with _-is_: _tsilkasis_ is _tsilkas_, an eagle, and _-is_, the shore of it, Eagle Beach, where the first Tsilkas came ashore.
+**A person** carries a name of two words set together, owned by a house: _lukwahakwa_ is _lukwa_, a copper, and _hakwa_, to lift.
+
+A house makes a new name when it has more heirs than names, and the chief who makes it gives a feast to show it to the coast, because a name nobody has witnessed is no name. The new name sets a thing of the house's crests, its catch or its wealth before what it does, both words whole and unchanged: _yaldu_ (wealth) and _kita_ (to give) make _Yaldukita_, Gives Wealth, and _tuklas_ (a mountain) and _kapala_ (to return) make _Tuklaskapala_, Returns from the Mountain. Now and then the act comes first, as in _Kalunukwas_, Counts the Tides. A name is not a woman's or a man's by its parts; a house keeps some of its names for women and some for men. The parts below are the ones the houses' names already use.
+
+```sql
+SELECT '`' || form || '`' AS "Element",
+       CASE element_position WHEN 'opening' THEN 'first' WHEN 'closing' THEN 'last' ELSE 'first or last' END AS "Stands",
+       sense AS "Sense", array_to_string(examples, ', ') AS "Example"
+FROM elements WHERE language = 'thalorna-note-skill-kelwanuklng' ORDER BY position
+```
+
+**A house** is its crest with _-anuk_: _tsilkasanuk_, the Eagle House. **A village** is named for its beach with _-is_: _tsilkasis_ is _tsilkas_, an eagle, and _-is_, the shore of it, Eagle Beach, where the first Tsilkas came ashore. Every village of the coast is named this way, for the crest of the house that first came ashore there, so _gwemlasis_ is Thunderbird Beach and _lamekis_ Bear Beach, whatever houses live there now. **A country** is named for what it is, with the word that describes it first: _tuyala hapas_, the Long Inlets, and _tsawis yumis_, the seaward beaches, the Outer Beaches.
 
 **The people** are _kelwanuk_, the people of the cedar, and the name these pages give them is the Cedar People. The south calls them _Ish'bal Ki'ahk_, after the eagles carved on the poles at Eagle Beach, where its traders first met them.
 
