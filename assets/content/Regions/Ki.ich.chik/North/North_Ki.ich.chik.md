@@ -17,7 +17,7 @@ data:
 
 ## Overview
 
-Northern Ki'ich'chik is the part of the continent that the southern city-states do not rule and barely know: everything north of the desert of [[place-chakultzklrgn|Ch'akul Tsa'kul]], from the lake country of the northeast to the cedar coast of the west. Five nations hold most of it, rivals with standing grievances who are bound by one agreement, the [[affiliation-redstncmpct|Red Stone Compact]], to stand together when an outsider comes. Two smaller peoples on the western coast and in the far northwest stay outside it. About 3,500,000 people live in the north: the One Fire holds 1,500,000 of them and the Maple People 750,000, the Shell-Bead Towns 350,000, the Grass People 300,000, the Cedar People 200,000, the Turquoise People 150,000 and the Ice-Coast Hunters 50,000, while about 200,000 more live in boreal and other bands outside every polity.
+Northern Ki'ich'chik is the part of the continent that the southern city-states do not rule and barely know: everything north of the desert of [[place-chakultzklrgn|Ch'akul Tsa'kul]], from the lake country of the northeast to the cedar coast of the west. Five nations hold most of it, rivals with standing grievances who are bound by one agreement, the [[affiliation-redstncmpct|Red Stone Compact]], to stand together when an outsider comes. Two smaller peoples on the western coast and in the far northwest stay outside it. About 3,500,000 people live in the north: the One Fire holds 1,500,000 of them and the Maple People 750,000, the Shell-Bead Towns 350,000, the Grass People 300,000, the Cedar People 200,000, the Turquoise People 150,000 and the [[affiliation-tikupilarit|Ice-Edge People]] 50,000, while about 200,000 more live in boreal and other bands outside every polity.
 
 The north is a land of copper and maize, longhouse and mound, buffalo jump and great house, and none of it is written. Its peoples keep their law, their treaties and their histories in memory, and they refuse the speech and the glyphs of the south.
 
@@ -44,7 +44,7 @@ Each nation is a confederacy of many towns or bands that share a family of langu
 
 The [Shell-Bead Towns]{.name data-type="lore/culture"} stand on the western coast south of the Cedar People and in the oak valleys behind it. They are dozens of independent towns, rich in fish and acorns, with plank canoes that cross to the offshore islands and a currency of drilled shell beads. Mountains and desert shelter them, so they see no need for the compact, and the Cedar People and the Turquoise People both trade with them and court them.
 
-The [Ice-Coast Hunters]{.name data-type="lore/culture"} of the far northwest take seal, walrus and whale from skin boats along the frozen coasts. They are remote, self-sufficient and uninterested in the quarrels of the south.
+The Ice-Edge People, the Tikupilarit in their own tongue, live on the far northwestern coast beyond the Cedar People's fjords, where the sea freezes every winter. They are some two hundred villages of sea hunters, each ruled by the talk of its men's house, who take seal, walrus and whale from kayaks and skin boats with toggling harpoons. They are remote, self-sufficient and uninterested in the quarrels of the south, and they barely know the compact's name.
 
 ## The Desert and the South
 
@@ -62,7 +62,7 @@ Three dangers press on the north, and each falls on one nation first.
 
 - **The south.** Expeditions probing north across Ch'akul Tsa'kul reach the Turquoise People first and the One Fire after them.
 - **The sea raiders.** [[lore-nordheimnclt|Nordmen]] from the [[place-nrdlndsrgn|Nordlands]] have crossed the eastern ocean in longships three times in twenty-one years, and the last time was a year ago. The Maple People watched two of the crossings from their coast and understand neither the men nor their purpose ([[lore-westrnvoyages|The Western Voyages]]).
-- **The newcomers from the ice.** Kin of the Ice-Coast Hunters are moving east along the arctic coasts with better boats and harpoons than the peoples they find there, and those older peoples are pushed south toward the Maple People's northern edge.
+- **The newcomers from the ice.** Kin of the Ice-Edge People are moving east along the arctic coasts with better boats and harpoons than the peoples they find there, and those older peoples are pushed south toward the Maple People's northern edge.
 
 Whether a danger to one nation is a danger to all is the question the compact argues every summer and has never settled.
 
@@ -72,12 +72,15 @@ Whether a danger to one nation is a danger to all is the question the compact ar
 
 The [Red Quarry]{.name data-type="place/site"}, where the compact's council meets, lies on the prairie where the lands of the Grass People, the Maple People and the One Fire meet. No blood may be shed there.
 
-North of the Maple People and the grasslands, the boreal forest runs out into tundra. It is sparse hunting country, held by small bands of caribou hunters at the edge of the Maple People's reach and the Ice-Coast Hunters' coast.
+North of the Maple People and the grasslands, the boreal forest runs out into tundra. It is sparse hunting country, held by small bands of caribou hunters at the edge of the Maple People's reach and the Ice-Edge People's coast.
 
 ## See Also
 
 [[affiliation-redstncmpct|Red Stone Compact]]
 : the agreement that binds the five nations
+
+[[affiliation-tikupilarit|Tikupilarit]]
+: the Ice-Edge People, the sea hunters of the far northwest outside the compact
 
 [[place-kiichchik|Ki'ich'chik Continent]]
 : the continent

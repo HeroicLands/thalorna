@@ -37,7 +37,7 @@ A village is a single row of plank houses facing a beach, with the canoes drawn 
 
 The coast trades with itself first: grease, dried salmon, cedar boxes, blankets and canoes move between the houses, and much of it changes hands at giving feasts. To the south the Cedar People trade along the coast with the [Shell-Bead Towns]{.name data-type="lore/culture"}, and in summer their traders cross the passes to the Grass People and the Turquoise People, from whom a few southern goods reach the coast. The high passes close in winter, so inland trade is seasonal and its prices volatile.
 
-To the north, beyond the last villages, the [Ice-Coast Hunters]{.name data-type="lore/culture"} trade ivory and the furs of animals unknown farther south, and bone carved in their own style, for cedar boxes and grease.
+To the north, beyond the last villages, the [[affiliation-tikupilarit|Ice-Edge People]] of the [[place-tikumanikrgn|Ice Coast]] trade ivory and the furs of animals unknown farther south, and bone carved in their own style, for cedar boxes and grease.
 
 ## See Also
 

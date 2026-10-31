@@ -106,13 +106,13 @@ The question the compact exists to answer is the one it answers worst: when one 
 
 - **The south.** Probes from the southern city-states cross [[place-chakultzklrgn|Ch'akul Tsa'kul]] and strike the Turquoise People first, and after them the One Fire. A southern war party carries steel blades and iron-headed spears against warriors whose best metal is hammered copper, so no single nation expects to stop one alone. The Turquoise People ask for warriors, and the Maple People, who have never seen a southern soldier, ask why they should send them.
 - **The sea raiders.** Crews of [[lore-nordheimnclt|Nordmen]] have sailed longships across the eastern ocean from the [[place-nrdlndsrgn|Nordlands]] three times in twenty-one years, and the Maple People's coast was raided a year ago. The Maple People ask for help, and the Grass People, who have never seen the sea, ask why they should give it.
-- **The newcomers from the ice.** Kin of the [Ice-Coast Hunters]{.name data-type="lore/culture"} are moving east along the frozen coasts with better boats and better harpoons, and the older peoples of the arctic fringe fall back south before them, into the hunting country at the Maple People's northern edge.
+- **The newcomers from the ice.** Kin of the [[affiliation-tikupilarit|Ice-Edge People]] are moving east along the frozen coasts with better boats and better harpoons, and the older peoples of the arctic fringe fall back south before them, into the hunting country at the Maple People's northern edge.
 
 The compact has one strong answer: a nation under attack can send Pipe Bearers to every other nation, and any nation that smokes with them has accepted the danger as its own. Every nation can also refuse the pipe, and a refusal is remembered. Most councils end with some nations smoking and some declining, and the Rememberers recite both.
 
 ## Outside the Compact
 
-Two peoples of the north stand outside the compact. The [Shell-Bead Towns]{.name data-type="lore/culture"} of the southwestern coast are rich, crowded and walled off by mountains and desert, and they see no need for it; the Cedar People and the Turquoise People both trade with them and court them. The Ice-Coast Hunters of the far northwest are remote, self-sufficient and uninterested in southern quarrels. A pipe kinsman of the compact has no standing with either.
+Two peoples of the north stand outside the compact. The [Shell-Bead Towns]{.name data-type="lore/culture"} of the southwestern coast are rich, crowded and walled off by mountains and desert, and they see no need for it; the Cedar People and the Turquoise People both trade with them and court them. The Ice-Edge People of the far northwest are remote, self-sufficient and uninterested in southern quarrels. A pipe kinsman of the compact has no standing with either.
 
 ## See Also
 
@@ -133,3 +133,6 @@ Two peoples of the north stand outside the compact. The [Shell-Bead Towns]{.name
 
 [[affiliation-kelwanuk|Kelwanuk]]
 : the Cedar People
+
+[[affiliation-tikupilarit|Tikupilarit]]
+: the Ice-Edge People, outside the compact, whose kin press east along the ice
