@@ -41,7 +41,6 @@ import { continents, countries, languages } from "countries-list";
 import YAML from "yaml";
 
 const CONTENT_DIR = "assets/content";
-const DATA_FILES = ["utils/nordmal-concordance.json"];
 
 const PRONUNCIATION_GUIDE = "assets/content/Lore/Pronouncing_Thalorna.md";
 // These technical references explain the reader's spelling and pronunciation conventions.
@@ -57,13 +56,6 @@ const EXEMPT_FILES = new Set([
     // Technical pronunciation references necessarily name reference languages.
     ...PRONUNCIATION_REFERENCES,
 ]);
-
-/**
- * The concordance records every name the corpus replaced, Earth or not; these keys
- * hold the replaced name or the path it sat at, which is the record's whole purpose.
- */
-const RECORDED_KEY = /^\s*(?:"(?:oldName|oldAliases|oldPath|oldRefPaths)"|"[0-9a-f]{7,}:assets\/)/;
-const CONCORDANCE = "utils/nordmal-concordance.json";
 
 /**
  * A language note lists the forms it refuses in `data.retired`, so each entry's
@@ -884,7 +876,6 @@ export function findEarthNames(file, text, names = earthMatcher()) {
         for (const pattern of CONTEXTUAL_HOMOGRAPHS)
             line = line.replace(pattern, (word) => " ".repeat(word.length));
         const exempt = exemptFile || ANALOG_LINE.test(line);
-        if (file === CONCORDANCE && RECORDED_KEY.test(line)) return [];
         const hits = [];
         for (const [re, what, subject] of [
             ...(PRONUNCIATION_REFERENCES.has(file) ?
@@ -926,7 +917,7 @@ function walk(dir) {
 
 /** @returns {string[]} every finding across the scanned corpus */
 export function scan() {
-    const files = [...walk(CONTENT_DIR).filter((f) => /\.(md|json|ya?ml)$/.test(f)), ...DATA_FILES];
+    const files = [...walk(CONTENT_DIR).filter((f) => /\.(md|json|ya?ml)$/.test(f))];
     return files.flatMap((f) => findEarthNames(f, fs.readFileSync(f, "utf8")));
 }
 

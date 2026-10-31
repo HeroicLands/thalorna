@@ -75,8 +75,7 @@
         "lint:veldikko": "node utils/veldikko-guard.mjs",
         "lint:affix-replaces": "node utils/affix-replaces.mjs",
         "build:module": "package-build manifest",
-        "lint:retired": "node utils/nordmal-drift.mjs && node --test utils/retired-names.test.mjs",
-        "lint:nordmal-concordance": "node utils/nordmal-concordance-check.mjs",
+        "lint:retired": "node --test utils/retired-names.test.mjs",
         "lint:roman": "node utils/roman-coverage.mjs"
     },
     "devDependencies": {

@@ -613,8 +613,7 @@ every coinage**, so the workflow is propose, approve, apply.
 4. **It is readable.** See [Readable beats correct](#readable-beats-correct).
 5. **It is not a form the setting has retired.** `data.retired` in the language
    note lists the forms the setting does not write, each with what is written
-   instead. `npm run lint:retired` sweeps prose for the names in its table and in
-   the Nordmal concordance.
+   instead. `npm run lint:retired` sweeps prose for the names in its table.
 6. **It enters `data.words` before it is used.** A passage never uses a word
    the lexicon does not hold.
 
@@ -1508,8 +1507,7 @@ continuous integration; it reads every note and takes minutes.
 | `npm run lint:observer`                                       | The banned sentence shape: a fact followed by a hypothetical person who notices, judges or corrects it                                                           | End the sentence at the fact, or make the consequence the subject                                                   |
 | `npm run lint:verse`                                          | No `poetry` fence                                                                                                                                                | Write the fence as `verse`                                                                                          |
 | `npm run lint:affix-replaces`                                 | An affix whose `attaches` prose says it replaces a closing sound but states no `replaces`                                                                        | Add `replaces: vowel` or the letters it takes the place of                                                          |
-| `npm run lint:retired`                                        | Retired names do not survive in prose; the Nordmal drift sweep                                                                                                   | A retired name stands where its replacement belongs                                                                 |
-| `npm run lint:nordmal-concordance`                            | The Nordmal concordance table agrees with the tree                                                                                                               | A row the tree contradicts                                                                                          |
+| `npm run lint:retired`                                        | Retired names do not survive in prose                                                                                                                            | A retired name stands where its replacement belongs                                                                 |
 | `npm run lint:chronology`, `lint:reference-people`            | Dates and people in notes                                                                                                                                        | A date out of order, a person unresolved                                                                            |
 | `npm run lint:lang`                                           | The localization files in `lang/` (not the tongues)                                                                                                              | A localization file fault                                                                                           |
 | `npx package-build transliterate <map> --lang <lang> --hex …` | The conversion of a passage, as the build makes it                                                                                                               | A fault names the unknown map, language or face                                                                     |
