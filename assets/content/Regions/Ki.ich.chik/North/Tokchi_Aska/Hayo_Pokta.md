@@ -8,7 +8,7 @@ tags: [city, draft]
 data:
   demonym: null
   lore: []
-  parents: [tokchiaskargn]
+  parents: [hokpargn]
   population: 15000
   government: tokchiaska
   packFolder: tokchiaska
@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-From the river the first thing a traveler sees of Hayo Pokta is the great mound: a flat-topped hill of earth higher than any tree on the floodplain, with the Great Sun's house on its summit and the smoke of the temple fire rising beside it. The name means the Sun's Mound. It is the seat of [[affiliation-tokchiaska|Tokchi Aska]], the One Fire, and the largest town in the north, with about 15,000 people on the floodplain of the great river. The south calls it Ts'uma No'tun, after the nation.
+From the river the first thing a traveler sees of Hayo Pokta is the great mound: a flat-topped hill of earth higher than any tree on the floodplain, with the Great Sun's house on its summit and the smoke of the temple fire rising beside it. The name means the Sun's Mound. It is the seat of [[affiliation-tokchiaska|Tokchi Aska]], the One Fire, and the largest town in the north, with about 15,000 people on the floodplain of the great river in the [[place-hokpargn|River Valley]]. The south calls it Ts'uma No'tun, after the nation.
 
 The town is young by the standards of its people. The Great Sun [Tamoska]{.name data-type="being/npc"} the Gatherer founded it five Great Suns ago on a site no earlier Sun had used, and the great mound was raised in his lifetime, by the towns that had just taken his coal. The [[lore-tokchiliclt|Tokchili]] point out that the mound of the Second Gathering, a day's paddle downriver, took four lifetimes to build and is now empty.
 
@@ -49,6 +49,12 @@ Two Shell Chiefs have already sent canoes down the gulf coast, farther than any 
 
 [[place-tokchiaskargn|Tokchi Aska Region]]
 : the river valley, the ranges and the coasts
+
+[[place-hokpargn|River Valley]]
+: the heartland around the Sun Mound
+
+[[lore-tokchihapaka|Fire-Keeping]]
+: the faith whose fire the Keepers tend on the great mound
 
 [[lore-tokchiliclt|Tokchili]]
 : the culture of its people

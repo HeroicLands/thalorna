@@ -52,6 +52,8 @@ data:
         A Shell Chief: the hereditary head of a coastal shell town, a Noble by courtesy, who collects tribute from the smaller coastal towns, sends part of it up the river in shell, fish and canoes, and recites the Shell Promise at every New Fire.
       Sakko Hapilo: >-
         A Keeper of the Yard: the Noble or Honored who keeps a town's yard for the rolling-stone game, holds the wagers and judges the throws.
+      Tako Wasilo: >-
+        A Coal Bearer: an Honored runner of the Great Sun's household who carries the New Fire's coal to the towns and the Great Sun's word between New Fires. A Coal Bearer is under the fire's protection, and a town that harms one has put out its own fire.
   seat: hayopokta
   population: 1500000
   economy: []
@@ -79,7 +81,7 @@ The One Fire looks like a kingdom and works like a gathering. A town belongs to 
 
 **The Sun Mother** chooses him. The Hayo Hanna, the eldest woman of the Suns, names each Great Sun from among her sons and her sisters' sons, and her choice is final. Rank passes through the mother, so a Sun woman's children are Suns and a Sun man's children are Nobles; the Sun Mother's line is the nation's line, and she is the most powerful person on the mound who never holds a war club.
 
-**The Keepers of the Fire** conduct the rites. The Tokchi Hapilo are a hereditary priesthood of Noble rank who feed the fire on the great mound, keep the temple where the bones of the dead Suns lie, recite the line of the Suns at each New Fire and conduct every funeral. The Great Sun cannot hold the New Fire without them, and a Great Sun who quarrels with the Keepers finds the omens bad.
+**The Keepers of the Fire** conduct the rites of the [[lore-tokchihapaka|Fire-Keeping]], the faith of the fire. The Tokchi Hapilo are a hereditary priesthood of Noble rank who feed the fire on the great mound, keep the temple where the bones of the dead Suns lie, recite the line of the Suns at each New Fire and conduct every funeral. The Great Sun cannot hold the New Fire without them, and a Great Sun who quarrels with the Keepers finds the omens bad.
 
 **The Mound Chiefs** govern the towns. A Poktimala holds a town from the house on its mound, collects its maize and its baskets of earth, judges between its clans, leads its warriors and opens its granary in a bad year. The clan mothers of the town settle what they can before it reaches him.
 
@@ -93,6 +95,44 @@ The nation argues over the practice and has always argued. At the end of the Sec
 
 The present Great Sun, [Opahiko]{.name data-type="being/npc"}, is old. The Keepers want him buried with a full following. The Shell Chiefs say that one coastal death, even a volunteer's, breaks the Shell Promise. The Sun Mother [Shimaya]{.name data-type="being/npc"} has not yet named his heir, and both sides are waiting to see whom she chooses.
 
+## How the One Fire Decides
+
+The Great Sun decides, and the black drink is where he hears what he is deciding. When a matter touches more than one town, he calls the Nobles of the great mound and the Mound Chiefs who are at Hayo Pokta to the council house on the plaza. The black drink goes round, every man vomits it up to come clean, and then each speaks in order of rank while the Great Sun listens and says nothing. He gives his decision the next morning, from the summit of the great mound, through the Eldest Keeper. A Great Sun who decides without the council is within his right, and the towns notice.
+
+The great council of the year is held in the Stone Season, when the Mound Chiefs of every town are at Hayo Pokta for the great matches. It sets the tribute each town owes, hears the quarrels between towns, and hears whether the Great Sun means to make war. A war needs the towns: the Great Sun can order the Falcon Chief to raise one, and the Falcon Chief raises it town by town, from Mound Chiefs who each decide how many of their young men to send.
+
+## How It Is Enforced
+
+The One Fire has no standing army and no officers of the Great Sun's in the towns. It holds together by four means, in rising order.
+
+- **The word.** The Coal Bearers, the _Tako Wasilo_, carry the Great Sun's word to the towns between New Fires. A Coal Bearer is an Honored runner of the Great Sun's household, under the fire's protection, and a town that turns one away has refused the Great Sun himself.
+- **The coal.** A town that defies the Great Sun is warned that it may not be given the coal at the next New Fire, and a Mound Chief who hears that warning usually finds a way to comply. The coal can also be withheld from one household, which is putting out, the gravest punishment of the nation short of death.
+- **The Keepers.** Oaths are sworn before the fire, and a Mound Chief who breaks an oath to the Great Sun answers to the Keepers, who can declare his fire unclean and his town's offerings unacceptable until he makes amends.
+- **The Falcon Chief.** Against a town that refuses the coal outright, the Great Sun can send the Falcon Chief with the warriors of the towns that stay loyal. He does it rarely, since every such war is a Scattering beginning, and the towns he would march with know it.
+
+Within a town the Mound Chief enforces, with the town's own warriors and the town's clan mothers behind him. A thief is shamed by the clan mothers, a killer is answered by the victim's clan, and only what the clans cannot settle reaches the house on the mound.
+
+## Succession
+
+**The Great Sun** is chosen by the Sun Mother from among her sons and her sisters' sons, and her choice is final. She names him at the dead Great Sun's funeral, on the great mound, once the attendants are dead and the Keepers have closed the burial. Until then the Keepers hold the fire and nobody holds the nation, and the month of a Great Sun's funeral is the month when towns decide whether they will take the next coal. The Sun Mother can name no one if she judges none of the candidates fit, and the nation has waited a whole year for a Great Sun before.
+
+**The Sun Mother** is simply the eldest living woman of the Suns. Nobody chooses her, and the office passes at her death.
+
+**A Mound Chief** is named by the Great Sun from the Noble lineage that holds the town, almost always the dead chief's sister's son. The town's clan mothers can refuse the man he names by refusing to send their households' earth to the mound, and a Great Sun who names a chief a town has refused has named a chief of an empty mound.
+
+**A Shell Chief** is hereditary in his town, from mother's brother to sister's son, and the Great Sun confirms him by sending the coal. Since the Shell Promise was made, the Sun Mother has also sent one boy of the Suns to be raised at [[place-koyohasko|Koyo Hasko]] as its pledge, from his seventh year to his twentieth.
+
+Two Suns stand out for the coming choice. [Naksochi]{.name data-type="being/npc"}, the Falcon Chief, is the Sun Mother's son, a war leader the Keepers favor and the western towns love. [Sohiyo]{.name data-type="being/npc"}, her sister's son, was the coast's pledge at Koyo Hasko for thirteen years, and the Shell Chiefs call him their own. Each man's friends say what the other's choice would cost the nation.
+
+## The Towns
+
+The One Fire's towns stand in four countries, and the [[place-tokchiaskargn|Tokchi Aska Region]] describes them together.
+
+- **The [[place-hokpargn|River Valley]]**, the heartland, holds Hayo Pokta; [[place-hokpahosa|Hokpa Hosa]], Two Rivers, the northern gate where the copper of the north comes in; and [[place-kiyopokta|Kiyo Pokta]], the Falcon Mound, the western muster town against the plains.
+- **The [[place-poktaskorgn|Old Ranges]]** hold the hill towns, chief among them [[place-tokchihinch|Tokchi Hinchaka]], the Other Fire, which kept a rival Sun through the Scattering.
+- **The [[place-wikopihirgn|Dark Water]]**, the swamps below the ranges, holds [[place-ishochi|Ishochi]], Ash, which takes in the households whose fires were put out.
+- **The [[place-koyalorgn|Shell Coast]]** holds the shell towns, chief among them Koyo Hasko, the Great Shell, and [[place-koyalolint|Koyalo Lintako]], the Last Shore, farthest south.
+
 ## Public Life
 
 The rolling-stone game is the nation's spectacle and much of its politics. Two players run down a long yard of beaten clay, one bowls a polished stone disk ahead of them, and each throws a pole at where he thinks it will stop. Whole towns gather to watch, and wagers run from a basket of maize to a copper plate to a man's own freedom. Nobles settle rivalries through their champions, and the Sakko Hapilo, the Keeper of the Yard who holds the wagers, holds a share of each town's power. In the Stone Season after the harvest the towns send their champions to Hayo Pokta to play before the Great Sun, and a Mound Chief whose town loses badly comes home weaker.
@@ -104,6 +144,8 @@ Before a war the Falcon Chief, the Kiyo Imala, leads the falcon dancers through 
 The other nations see the One Fire as rich, arrogant and expansionist, and the One Fire sees them as poor. It contests [[place-hanalxilanrgn|Ha'nal Shi'lan]], the wooded river frontier to the northeast, with the [[affiliation-osetakona|Maple People]], who tell the Suns at every council that hereditary rule is what their own councils exist to prevent. Its western towns suffer the raids of the [[affiliation-tenlaya|Grass People]] and trade with them in the same season.
 
 In the [[affiliation-redstncmpct|Red Stone Compact]] the One Fire sends Nobles of the Sun's house as its delegates. It brings the compact what no other nation can: population, a granary that can feed an army, and the coast towns' canoes, which are the north's only navy on the gulf. Of all the compact's nations it is the one most tempted to make a private bargain with the south, and the others watch it for that.
+
+The Great Sun names the delegates each spring at the black drink, and the Sun Mother approves them, so that no Noble goes to the [Red Quarry]{.name data-type="place/site"} without both houses of the great mound behind him. They go up the great river from the landing at Hokpa Hosa, and they can promise only what the black drink council agreed before they left. The One Fire values the compact for its pipe: a trader of the One Fire with a compact pipe in his bag is fed in every town from the lakes to the mesas. It values the council less, because the council is where the Maple People's speakers tell the Suns what is wrong with Suns, and its delegates are the ones the Rememberers most often remind of the One Fire's breach of the quarry's peace. The south is the danger the One Fire fears most, since southern expeditions strike the Turquoise People first and the One Fire second. The Nordmen across the eastern ocean are a danger the One Fire has never seen, and its delegates answer the Maple People's calls for help against them as coolly as the Grass People do.
 
 ## Commerce and Currency
 
@@ -124,6 +166,9 @@ The heartland's craftsmen work copper brought from the Maple People's lake count
 
 [[skill-tokchilng|Tokchili Language]]
 : the unwritten tongue of the fire
+
+[[lore-tokchihapaka|Fire-Keeping]]
+: the faith of the fire, its Keepers and its knowers
 
 [[affiliation-redstncmpct|Red Stone Compact]]
 : the compact the One Fire keeps with the other four nations
