@@ -56,7 +56,7 @@ Witnessed at the second sitting: the seven.
 :::
 
 ::: {.verse form=filnath lang=khaz enc=khazpirzathenc work=the-quarrel-of-the-clans-2}
-zagíth vadhal 1#2, talz davan 13, savam durám nalív, kolg lagan. lagan, bavath dalk zi thuláv, tav khazárez furákh bavath, vem dulákez, bep favad nuláv vog.
+zagíth vadhal 1#2, talz davan 13, savam durám nalív, kolg lagan. lagan, bavath dalk zi thuláv, tav khazarez furákh bavath, vem dulakez, bep favad nuláv vog.
 
 salath hamk-dunák gunádh dhanív nuzám garz-vulád. «darb 4 guláp tob fadhaz tanv pes 906», vog gunádh. «darb 7 guláp tob fadhaz pes 2@0. fadhaz, fadhaz.» darb 4, vog gunádh, gunát fadhaz duráv nalp davan 29, tavíz vadhal khozum vadhalez. makasez thunáz khapav, bep vagathez darb 4 huráp vogun talz. lamv lumáv havaz tavíz vadhal, bep zurám vog tavíz vadhal. «havaz zi lamv zurám khozum kalatez, havaz.» vog thubágh, fadhaz pes tavíz maval. hiz thuf, vog thubágh tamdhez kolg sadív mald khavam, pes darb 4, 64 tafanez faríkh zi tamur tanv thuf budár, gez vog dazík talz. lamvir lumáv bozd gandhez vog, malg. «gazam pes tavíz maval.»
 
@@ -326,7 +326,7 @@ At the turning of that year the galleries of the fourth tower above the ninth st
 :::
 
 ::: {.verse form=filnath lang=khaz enc=khazpirzathenc work=the-quarrel-of-the-clans-12}
-vadhalez nuzám, filnath durákh savamez pabarez vagathez, bep hartir hurát vogun gol vadhal-lumávez bep thuf kelg, gev kedz.
+vadhalez nuzám, filnath durákh savamez pabarez vagathez, bep hartir hurát vogun gol vadhal-lumavez bep thuf kelg, gev kedz.
 
 zagíth vadhal 1$4, thanpez zi thuláv, vem nasvez dalk-thumár, kurám samíd fanth darb 3 kolg gavar mazk, bep tamban ramk-sumád fuvád vog.
 

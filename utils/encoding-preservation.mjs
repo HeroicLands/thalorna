@@ -332,7 +332,13 @@ export function assertEncodingMigrationPreserved(
     }
     contains(actual, expected, file);
     let body = splitFrontmatter(current.raw).body;
-    const originalBody = respell(splitFrontmatter(before.raw).body, file);
+    let originalBody = respell(splitFrontmatter(before.raw).body, file);
+    // The one baseline sentence whose writing direction follows the shared Qalezu script.
+    if (file.endsWith("/Dunhari.md"))
+        originalBody = originalBody.replace(
+            "the consonantal alphabet of Au'Khelathu, from left to right.",
+            "the consonantal alphabet of Au'Khelathu, from right to left.",
+        );
     if (roles.length && file.endsWith("/Atarzadi.md")) {
         const addition =
             " The derived-word titles _toqel_, _zhudek_, _rezhul_ and _shekhul_ stand with their meanings and derivations in the name register.";

@@ -6742,7 +6742,7 @@ their recorded uses.
 
 ## Script and Literacy
 
-Dunhari is an oral tongue. The tribes keep law, genealogy and treaty in memory and recite them, and a tribe's archive is what its people remember. Where Dunhari is set down at all, in the courts and cities of settled Amradad and the oasis belt, it is written in [[skill-qalzscrscrpt|Qalezu]], the consonantal alphabet of Au'Khelathu, from left to right.
+Dunhari is an oral tongue. The tribes keep law, genealogy and treaty in memory and recite them, and a tribe's archive is what its people remember. Where Dunhari is set down at all, in the courts and cities of settled Amradad and the oasis belt, it is written in [[skill-qalzscrscrpt|Qalezu]], the consonantal alphabet of Au'Khelathu, from right to left.
 
 Literacy among Dunhari nomadic populations centers on oral transmission; written literacy is highest in settled urban communities and courtly contexts. The primary literary form remains poetry and song, which are memorized and transmitted orally through generations.
 

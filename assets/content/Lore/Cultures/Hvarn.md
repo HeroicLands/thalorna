@@ -74,7 +74,7 @@ A Hvarn carries a given name and a hearth name, and the hearth name changes if h
 
 There is no script and there is no cord. What the Hvarn keep, they keep by recitation. The tongue is not related to [[skill-osketlng|Osket]], which surprises everyone who has assumed it must be: the two peoples live three hundred miles apart along the same wall, do much the same work, marry across the gap occasionally, and speak languages with no demonstrable common stock. Both peoples state this without interest, and lowland scholars find it difficult to accept.
 
-Hvarn words are short and heavy, and a word may be spoken with no vowel in it at all. The people's own word for themselves has none. The vowel a lowlander hears in it is the one he supplied.
+Hvarn words are short and heavy, and every word has a vowel. The people's own word for themselves, _hvarn_, is no exception.
 
 ## What Is Good, and What Succeeds
 

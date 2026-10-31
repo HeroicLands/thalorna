@@ -70,6 +70,7 @@ data:
       root: "d-l-k"
       frame: worker
     - form: dulák
+      variants: [dulakez]
       class: v
       field: Stone and metal
       gloss: "to cut stone; the cutting of stone"
@@ -783,6 +784,7 @@ data:
       root: "g-r-p"
       frame: worker
     - form: guráp
+      variants: [gurapez]
       class: v
       field: Craft and the forge
       gloss: "to whet"
@@ -2733,7 +2735,7 @@ data:
       root: "kh-s-p"
       frame: bare
     - form: khasíp
-      variants: [khasípev]
+      variants: [khasipev]
       class: adj
       field: Listening and the cut
       gloss: "restrained, sparing"
@@ -2989,7 +2991,7 @@ data:
       root: "kh-t-b"
       frame: bare
     - form: khatíb
-      variants: [khatíbez]
+      variants: [khatibez]
       class: adj
       field: Listening and the cut
       gloss: "ruled, straight, forced"
@@ -3915,6 +3917,7 @@ data:
       root: "l-m-v"
       frame: worker
     - form: lumáv
+      variants: [lumavez]
       class: v
       field: "Oath, law and measure"
       gloss: "to record"
@@ -4252,7 +4255,7 @@ data:
       root: "s-b-z"
       frame: bare
     - form: sabíz
-      variants: [sabízez]
+      variants: [sabizez]
       class: adj
       field: Letters and writing
       gloss: "chalked, white-marked"
@@ -4620,7 +4623,7 @@ data:
       root: "g-n-dh"
       frame: bare
     - form: gunádh
-      variants: [gunádhez]
+      variants: [gunadhez]
       class: v
       field: Song and telling
       gloss: "to speak, to say"
@@ -5140,7 +5143,7 @@ data:
       root: "b-g-n"
       frame: bare
     - form: bagín
-      variants: [bagínez]
+      variants: [baginez]
       class: adj
       field: War and the guarding
       gloss: "sealed"
@@ -5497,7 +5500,7 @@ data:
       root: "d-b-z"
       frame: bare
     - form: dabíz
-      variants: [dabízez]
+      variants: [dabizez]
       class: adj
       field: Death and memory
       gloss: "still"
@@ -5824,7 +5827,7 @@ data:
       root: "kh-g-l"
       frame: bare
     - form: khagíl
-      variants: [khagílez]
+      variants: [khagilez]
       class: adj
       field: The Shadow and what rises
       gloss: "dreadful, to be dreaded"
@@ -6447,7 +6450,7 @@ data:
       root: "r-v-z"
       frame: bare
     - form: ravíz
-      variants: [ravizez, ravízez]
+      variants: [ravizez]
       class: adj
       field: Grammar words
       gloss: "many, much"
@@ -6485,7 +6488,7 @@ data:
       root: "kh-p-v"
       frame: bare
     - form: khapív
-      variants: [khapivez, khapívez, khapivev]
+      variants: [khapivez, khapivev]
       class: adj
       field: Grammar words
       gloss: "other"
@@ -6499,7 +6502,7 @@ data:
       root: "l-dh-p"
       frame: bare
     - form: ladhíp
-      variants: [ladhipez, ladhípez]
+      variants: [ladhipez]
       class: adj
       field: Grammar words
       gloss: "same, alike"
@@ -6525,7 +6528,7 @@ data:
       root: "dh-n-v"
       frame: bare
     - form: dhanív
-      variants: [dhanivez, dhanivev, dhanívez]
+      variants: [dhanivez, dhanivev]
       class: adj
       field: Grammar words
       gloss: "first"
@@ -6715,7 +6718,7 @@ data:
       frame: bare
       concept: table
     - form: nalív
-      variants: [nalívez]
+      variants: [nalivez]
       class: adj
       field: The grain of the rock
       gloss: "lower, underlying; low"
@@ -6812,7 +6815,7 @@ data:
       root: "f-r-kh"
       frame: adjective
     - form: dazík
-      variants: [dazíkez]
+      variants: [dazikez]
       class: adj
       field: The grain of the rock
       gloss: "wet"
@@ -7106,7 +7109,7 @@ data:
       root: "p-l-t"
       frame: deed
     - form: palít
-      variants: [palitez, palítez]
+      variants: [palitez]
       class: adj
       field: Craft and the forge
       gloss: "laid ready or laid away"
@@ -7574,7 +7577,7 @@ data:
       root: "g-v-l"
       frame: bare
     - form: narív
-      variants: [narívez]
+      variants: [narivez]
       class: adj
       field: "Motion and holding"
       gloss: "long"
@@ -7719,7 +7722,7 @@ data:
       root: "n-g-dh"
       frame: deed
     - form: napík
-      variants: [napíkez]
+      variants: [napikez]
       class: adj
       field: "Body and person"
       gloss: "small in physical size"
@@ -7800,7 +7803,7 @@ data:
       root: "m-v-l + k-m-v"
       frame: bare
     - form: parím
-      variants: [parimez, parímez]
+      variants: [parimez]
       class: adj
       field: "Other peoples and the larder"
       gloss: "living, alive"
@@ -8181,7 +8184,11 @@ data:
       concept: [roof, ceiling]
       root: "d-k-m"
       frame: bare
-    - {"form": "khazár", "class": "n", "field": "Kin and the house", "gloss": "one of the people"}
+    - "form": "khazár"
+      "variants": ["khazarez"]
+      "class": "n"
+      "field": "Kin and the house"
+      "gloss": "one of the people"
     - "form": "garzir"
       "class": "n"
       "field": "War and the guarding"

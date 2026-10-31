@@ -28,12 +28,12 @@ The sacred southern reach belongs to the Halzi'a in law and to Igelnaru in spiri
 
 ## The River-Beasts
 
-Crocodiles bask on the mud banks and hippopotami bellow in the marshes, and both kill farmers every year. Two bodies answer for that, on terms they have worked out between themselves. [[affiliation-zeghetnelgu|Zeghet'Nelgu]] holds the Gar-Au's Steersman's charter over some eighty miles of the southern water, a grant the [Khetai]{.name data-type="affiliation/lineage"} family has kept for seven generations and which covers ritual hunting as much as control. [[affiliation-garnuw|Gar'Nuw]] licenses the professional cullers who answer when a village is losing people, and keeps chapter halls the length of the river.
+Crocodiles bask on the mud banks and hippopotami bellow in the marshes, and both kill farmers every year. Two bodies answer for that, on terms they have worked out between themselves. [[affiliation-zeghetnelgu|Zeghet'Nelgu]] holds the Gar-Au's Steersman's charter over some eighty miles of the southern water, a grant the [Khetai]{.name data-type="affiliation/lineage"} family has kept for seven generations and which covers ritual hunting as much as control. [[affiliation-garnul|Gar'Nul]] licenses the professional cullers who answer when a village is losing people, and keeps chapter halls the length of the river.
 
 The doctrine both hold is that wantonness in the killing offends the gods as much as it offends the guild, and that a hunt is a religious act performed at need. What neither will discuss with an outsider is what happens when the beasts are thriving, the priesthood is asking questions about the cull, and the charter-holder's tenure depends on the answer.
 
 ## See Also
 
 - [[place-aukhelathrgq|Au'Khelathu Region]] · [[affiliation-empireakhlth|Empire of Au'Khelathu]] · [[lore-khelathiclt|Khelathi culture]]
-- [[lore-igelnarudty|Igelnaru]] · [[affiliation-zeghetnelgu|Zeghet'Nelgu]] · [[affiliation-garnuw|Gar'Nuw]]
+- [[lore-igelnarudty|Igelnaru]] · [[affiliation-zeghetnelgu|Zeghet'Nelgu]] · [[affiliation-garnul|Gar'Nul]]
 - [[affiliation-deltaselatu|The Delta Selatu]] · [[affiliation-upperrivrslt|the Upper River Selatu]]

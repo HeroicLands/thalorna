@@ -129,7 +129,7 @@ A guild master's seal is a brass die carrying his personal mark and the cartouch
 - [[affiliation-genzetgarau|Genzet'Gar-Au]] is patron and final authority. The two depend on each other heavily and bargain quietly over privileges.
 - The Imperial Military Quartermaster's Office is the primary client. The quartermasters hold leverage through procurement but cannot easily replace the guild.
 - The temples of [[affiliation-psaqaru|Faith of Saq'aru]] and [[affiliation-gewaatis|Faith of Gewa'atis]] are the guild's religious foundation, and senior elevations are conducted in temple rite.
-- [[affiliation-garnuw|Gar'Nuw]], the hunters' guild, and the other Khelathi trade guilds are peers. Relations are cordial and governed by the inter-guild conventions agreed at the imperial guildhall.
+- [[affiliation-garnul|Gar'Nul]], the hunters' guild, and the other Khelathi trade guilds are peers. Relations are cordial and governed by the inter-guild conventions agreed at the imperial guildhall.
 - Foreign traditions. The guild regards the Vylarian armory tradition with professional respect, the [[lore-khazrynclt|Khazryn]] smithing schools with cautious interest and the [[place-nrdlndsrgn|Nordlands traditions]] with curiosity. A foreign smith working in Au'Khelathu must obtain the guild's permission to seal work, and permission is rarely granted.
 
 ## Plot Hooks
@@ -141,7 +141,7 @@ A guild master's seal is a brass die carrying his personal mark and the cartouch
 
 ## See Also
 
-[[affiliation-garnuw|Gar'Nuw]]
+[[affiliation-garnul|Gar'Nul]]
 : The hunters' guild, sibling imperial chartered guild
 
 [[affiliation-garhalzi|Gar-Hálzi]]
