@@ -5778,7 +5778,6 @@ data:
     - {name: Great Water, tongue: translation}
     - {name: Cedar Woman, tongue: translation}
     - {name: Welcoming, tongue: translation}
-    - {name: Shell-Bead Towns, tongue: translation}
     - {name: Ice-Coast Hunters, tongue: translation}
     - {name: kalunukwas, tongue: kelwanuk, built: [kalu, nukwas]}
     - {name: kelwakita, tongue: kelwanuk, built: [kelwa, kita]}
@@ -5811,7 +5810,7 @@ The Kelwanuk Language is the tongue of the [[affiliation-kelwanuk|Kelwanuk]], th
 
 Every village of the Cedar People speaks the Kelwanuk Language, and every house speaks it a little differently. The fjord villages of the north close more of their words on a consonant and say them quickly. The villages of the outer beaches in the south let more words end on a vowel and draw them out, and a fjord speaker hears them as slow. Speech at a feast is a register of its own. A chief's Speaker uses the long, built-up forms, says every name in full with its house, and never uses the short words of the beach, and a commoner who copies the feast speech in ordinary talk is laughed at for putting on airs.
 
-The tongue is related to nothing in the south and to nothing spoken over the mountains. A trader of the [[affiliation-tenlaya|Grass People]] who comes over the passes in summer bargains with signs and with the few dozen words each side has learned of the other's speech, and the coast does the same with the [Shell-Bead Towns]{.name data-type="lore/culture"} to the south.
+The tongue is related to nothing in the south and to nothing spoken over the mountains. A trader of the [[affiliation-tenlaya|Grass People]] who comes over the passes in summer bargains with signs and with the few dozen words each side has learned of the other's speech, and the coast does the same with the [[affiliation-shuqash|Shell-Bead People]] to the south.
 
 Nobody writes it. The Cedar People keep their names, their histories and their debts in memory, and the carving on a crest pole shows a house's crests without spelling a word.
 

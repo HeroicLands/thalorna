@@ -33,6 +33,7 @@ languages:
     oset: { tag: art-x-oset, note: skill-osetakonalng }
     oske: { tag: art-x-oske, note: skill-osketlng }
     prov: { tag: art-x-prov, note: skill-provnzlng }
+    shuq: { tag: art-x-shuq, note: skill-shuqashlng }
     sina: { tag: art-x-sina, note: skill-sinalelng }
     sovi: { tag: art-x-sovi, note: skill-sowideslng }
     tant: { tag: art-x-tant, note: skill-tantsoulng }

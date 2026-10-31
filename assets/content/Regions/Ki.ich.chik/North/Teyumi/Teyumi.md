@@ -83,6 +83,8 @@ In the [[affiliation-redstncmpct|Red Stone Compact]], the Turquoise People are r
 
 Every trader and pilgrim who survives the crossing of [[place-chakultzklrgn|Ch'akul Tsa'kul]] comes first to [[place-kwatuhosa|Kwatuhosa]], the South House. Its Keeper of the South Road (_kwatuyo_) receives them, decides what goes north and at what price, and hears what they say of the south. The southern goods are few and precious: cacao, drunk by elders at the great feasts; scarlet macaws, kept alive in the great house plazas for the feathers the cloud dancers wear; and cast copper bells, worn at the dancers' knees. Turquoise goes south in return. The Turquoise People pass the southern goods on to the other nations at their own price.
 
+To the west, over the mountains and a trail of desert springs, the towns' traders go to the [[affiliation-shuqash|Shell-Bead People]] of the western coast for shell beads and abalone shell, which the cloud dancers wear beside the macaw feathers. They pay in turquoise and cotton cloth, and they press the coast's chiefs to join the compact. The chiefs have not joined.
+
 The rain dances cannot be danced without the macaw feathers, and some elders say the people are sending their rain away in turquoise to buy the masks they call it with. The word for the Keeper of the South Road means, in plain speech, the southerner.
 
 ## Drought
@@ -114,3 +116,6 @@ Drought is the Turquoise People's great fear. A town's fields, its canals and th
 
 [[affiliation-kelwanuk|Kelwanuk]]
 : the Cedar People, a trading partner on the far western coast
+
+[[affiliation-shuqash|Shuqash]]
+: the Shell-Bead People, courted for their beads over the western mountains

@@ -112,7 +112,7 @@ The compact has one strong answer: a nation under attack can send Pipe Bearers t
 
 ## Outside the Compact
 
-Two peoples of the north stand outside the compact. The [Shell-Bead Towns]{.name data-type="lore/culture"} of the southwestern coast are rich, crowded and walled off by mountains and desert, and they see no need for it; the Cedar People and the Turquoise People both trade with them and court them. The Ice-Coast Hunters of the far northwest are remote, self-sufficient and uninterested in southern quarrels. A pipe kinsman of the compact has no standing with either.
+Two peoples of the north stand outside the compact. The [[affiliation-shuqash|Shell-Bead People]] of the southwestern coast are rich, crowded and walled off by mountains and desert, and they see no need for it; the Cedar People and the Turquoise People both trade with them and court them. The Ice-Coast Hunters of the far northwest are remote, self-sufficient and uninterested in southern quarrels. A pipe kinsman of the compact has no standing with either.
 
 ## See Also
 

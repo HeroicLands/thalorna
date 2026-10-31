@@ -87,7 +87,7 @@ The Cedar People are the compact's sea power on the western coast, a month's jou
 
 ## Trade
 
-The coast trades with itself first: grease, dried salmon, cedar boxes, blankets and canoes move between the houses, and most of it changes hands at feasts. To the south the Cedar People trade along the coast with the [Shell-Bead Towns]{.name data-type="lore/culture"}, whom they court for their shell money and raid for slaves, and neither side forgets either. In summer their traders cross the mountain passes to the [[affiliation-tenlaya|Grass People]] and the [[affiliation-teyumi|Turquoise People]], and through the Turquoise People a few southern goods reach the coast: a macaw feather on a dancer's mask is something a chief shows his guests. The passes close in winter. To the north, beyond the last villages, the [Ice-Coast Hunters]{.name data-type="lore/culture"} trade ivory and the furs of animals unknown farther south for cedar boxes and grease.
+The coast trades with itself first: grease, dried salmon, cedar boxes, blankets and canoes move between the houses, and most of it changes hands at feasts. To the south the Cedar People trade along the coast with the [[affiliation-shuqash|Shell-Bead People]], whom they court for their shell money and raid for slaves, and neither side forgets either. In summer their traders cross the mountain passes to the [[affiliation-tenlaya|Grass People]] and the [[affiliation-teyumi|Turquoise People]], and through the Turquoise People a few southern goods reach the coast: a macaw feather on a dancer's mask is something a chief shows his guests. The passes close in winter. To the north, beyond the last villages, the [Ice-Coast Hunters]{.name data-type="lore/culture"} trade ivory and the furs of animals unknown farther south for cedar boxes and grease.
 
 ## See Also
 
@@ -111,3 +111,6 @@ The coast trades with itself first: grease, dried salmon, cedar boxes, blankets 
 
 [[affiliation-tenlaya|P'enqal Ch'akal]]
 : the Grass People, across the mountains to the east
+
+[[affiliation-shuqash|Shuqash]]
+: the Shell-Bead People, customers and captives to the south

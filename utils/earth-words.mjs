@@ -105,6 +105,8 @@ export const SOURCES = {
     // The word lists hold no mohawk or seneca list, so an Osetakona coinage is checked by reading.
     "Osetakona.md": ["mohawk", "seneca"],
     "Provenzal.md": ["occitan", "galician", "portuguese"],
+    // The word lists hold no chumash list, so a Shuqash coinage is checked by reading.
+    "Shuqash.md": ["barbareno-chumash", "ventureno-chumash"],
     "Sinale.md": ["finnish"],
     "Sowides.md": ["mongolian", "turkish"],
     "Tantsou.md": ["chinese"],
