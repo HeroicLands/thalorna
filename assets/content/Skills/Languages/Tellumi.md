@@ -85,6 +85,7 @@ data:
       - "Kervishun"
       - "Budemun"
   sounds:
+    stress: {two: first, longer: first}
     syllables:
       onsets: single
       codas: [l, m, n, r, t, d, k, s, sh]
@@ -125,6 +126,9 @@ data:
     - tag: older
       meaning: "a name older than the rules, kept as it stands; it is listed under Names older than the rules"
     - {tag: pending, meaning: a name that keeps no rule of the three tongues}
+    - tag: rendered
+      meaning: "a name of another tongue as Tellumi speakers say it, respelled to Tellumi sounds"
+      language: skill-tellumilng
   scope:
     folders: [khazryndesert, ankariskhazryndesert]
     cultures: [khazrynclt]
@@ -6456,8 +6460,79 @@ data:
       field: Ordinary usage
       gloss: "light or illumination"
       source: {kind: coined}
+    - {form: bermet, class: n, field: Ordinary usage, gloss: "a tool", source: {kind: coined}}
+    - form: limvar
+      class: n
+      field: Ordinary usage
+      gloss: "the handle or haft of a tool"
+      source: {kind: coined}
+    - form: timdur
+      class: n
+      field: Ordinary usage
+      gloss: "a generation of a family or house"
+      source: {kind: coined}
+    - form: vulber
+      class: v
+      field: Ordinary usage
+      gloss: "to breed animals"
+      source: {kind: coined}
+    - form: narsun
+      class: n
+      field: Ordinary usage
+      gloss: "a commentary written on the tablets"
+      source: {kind: coined}
+    - form: harmel
+      class: n
+      field: Ordinary usage
+      gloss: "an edge or rim, as of land where the water gives out"
+      source: {kind: coined}
+    - {form: hushver, class: v, field: Ordinary usage, gloss: "to sweep", source: {kind: coined}}
+    - form: hagmen
+      class: n
+      field: Ordinary usage
+      gloss: "a keeper; in _tenyut hagmen_, a keeper of the tablets"
+      source: {kind: coined}
+    - {form: narshun, class: n, field: Ordinary usage, gloss: "a petition", source: {kind: coined}}
+    - form: varmesh
+      class: n
+      field: Ordinary usage
+      gloss: "a junction where a passage branches"
+      source: {kind: coined}
+    - {form: nurmen, class: n, field: Ordinary usage, gloss: "darkness", source: {kind: coined}}
+    - form: velmi
+      class: adj
+      field: Ordinary usage
+      gloss: "flat or level"
+      source: {kind: coined}
+    - {form: dalmir, class: n, field: Ordinary usage, gloss: "a climber", source: {kind: coined}}
+    - form: vermesh
+      class: n
+      field: Ordinary usage
+      gloss: "a house's champion, its sworn defender"
+      source: {kind: coined}
+    - form: geshver
+      class: v
+      field: Ordinary usage
+      gloss: "to send someone"
+      source: {kind: coined}
+    - {form: hurlish, class: adj, field: Ordinary usage, gloss: "wise", source: {kind: coined}}
+    - form: vartish
+      class: adj
+      field: Ordinary usage
+      gloss: "open, not shut"
+      source: {kind: coined}
+    - {form: gurhem, class: n, field: Ordinary usage, gloss: "a victory", source: {kind: coined}}
   register:
     - {name: Atarzád, tongue: faith}
+    - name: Shukarud
+      tongue: rendered
+      why: "the Tellumi rendering of the Atárzadi tribe name Zhoqarod"
+    - name: Tegumud
+      tongue: rendered
+      why: "the Tellumi rendering of the Atárzadi tribe name Teghumod"
+    - name: Tushirud
+      tongue: rendered
+      why: "the Tellumi rendering of the Atárzadi tribe name Tozhirod"
     - {name: Ahurdaen, tongue: faith}
     - {name: Tellumi Language, tongue: gloss, built: [Tellumi]}
     - {name: Tellumi, tongue: tellumi, built: [te, lu, -mi]}
@@ -6685,6 +6760,13 @@ A Tellumi name is built in the same few moves as any other word, and it can be r
 | Lisena      | _lisen_ + _-a_              | a woman's name: moon           |
 
 **Places** take _-ash_ for a city or town and _-el_ for a land, after one or two stems that say what the place has: its water, its height, its tower. **Houses** take _-un_ after the stem of a founder's name or the house's emblem. **Given names** take _-ay_ for a man and _-a_ for a woman, after one stem; a second stem in front of it is a mark of an old house.
+
+## Verse
+
+Tellumi verse counts beats, six to the line, and every word of two syllables or more carries one: a line is six words long, give or take the short words that carry no beat. The line falls into two halves of three beats at a pause that is not written. Two forms are kept.
+
+- **The _tsemhat_, the recitation**, is said standing and does not rhyme. Its craft is parallelism: the second half of a line, or the line after it, answers the one before by keeping its frame and changing one term (_nemur palen nilsem nali dimal nedim_, then _nemur neven velnur nali dimal nedim_: "took more of the dying than all the others", then "took less of the land than all the others"), or by turning it into its opposite. Formulas return unchanged wherever the case needs them, so that _nul miran perner pernil_, "no one lit the lamps", is heard as the same words each time. A roll, of peaks, springs or names, is a _tsemhat_: in the roll of the seven peaks the reciter calls each peak's name alone, and the house answers with the name of its city, and the call and the answer stand outside the count.
+- **The _lavun_, the cloth telling**, is sung in couplets of the same six-beat line, and the two lines of a couplet close on the same final consonant, or on the same vowel where they end open. The vowel before that consonant may change, so _denem_ answers _nilshem_ and _varter_ answers _miver_; a full rhyme, vowel and all, is the ornament a good teller reaches for. A couplet may run across the teller's spoken asides to the yard, which are not sung. An oath or a saying quoted in a _lavun_ keeps its own words and stands outside the rhyme, though not outside the beat, and a roll sung inside one keeps the unrhymed lines of the _tsemhat_.
 
 ## Writing
 
