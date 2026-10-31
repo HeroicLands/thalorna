@@ -29,9 +29,25 @@ The Cedar People live on the beaches and the rivers and leave the high country a
 
 The Cedar People's land ends at the crest of the spine. East of the passes, where the cedar gives way to spruce and pine and the land falls toward the plateaus, the country belongs to the hunting bands of the Grass People in the north and to the Turquoise People in the south, and the Cedar People's traders go there only in summer, by the few passes they know.
 
+## Countries
+
+The coast falls into three countries.
+
+- **The [[place-hapasrgn|Long Inlets]]**, about 90,000 people, the northern fjords, where the eulachon rivers run and the house that sits first lives.
+- **The [[place-yumisrgn|Outer Beaches]]**, about 80,000, the southern surf coast and the mouth of the [South River]{.name data-type="place/feature"}, where the whalers live and the beads of the south come in.
+- **The [[place-yatsalargn|Outer Islands]]**, about 30,000, the great islands across the strait, where the war canoes are built.
+
 ## Villages
 
-A village is a single row of plank houses facing a beach, with the canoes drawn up before them and the crest poles standing at their doors. Most hold a few hundred people in four to ten houses, each house a lineage of its own. The largest is [[place-tsilkasis|Tsilkasis]], Eagle Beach, at the mouth of a salmon river on a northern fjord, where the house that sits first on the coast lives. [Malkisis]{.name data-type="place/settlement"}, Orca Beach, the village of the Orca House, stands on the outer coast to the south. Most villages keep a refuge on a steep headland nearby, walled with logs, where the people go when raiders come.
+A village is a single row of plank houses facing a beach, with the canoes drawn up before them and the crest poles standing at their doors. Most hold a few hundred people in four to ten houses, each house a lineage of its own. The largest is [[place-tsilkasis|Tsilkasis]], Eagle Beach, at the mouth of a salmon river on a northern fjord, where the house that sits first on the coast lives. [[place-malkisis|Malkisis]], Orca Beach, the village of the Orca House, stands on the outer coast to the south. The houses that matter most to the coast are these.
+
+- [[place-tsilkasis|Tsilkasis]], Eagle Beach, about 3,000, in the Long Inlets: the Eagle House, which holds the first seat.
+- [[place-malkisis|Malkisis]], Orca Beach, about 2,400, on the Outer Beaches: the Orca House, which keeps the count and frees slaves.
+- [[place-gwemlasis|Gwemlasis]], Thunderbird Beach, about 1,800, on the Outer Islands: the Thunderbird House, the canoe builders.
+- [[place-lamekis|Lamekis]], Bear Beach, about 1,500, at the mouth of the South River: the Bear House, which receives the beads of the south and challenges for the first seat.
+- [[place-mukwasis|Mukwasis]], Wolf Beach, about 1,200, in the Long Inlets: the Wolf House, at the foot of the Grease Trail over the mountains.
+
+Most villages keep a refuge on a steep headland nearby, walled with logs, where the people go when raiders come.
 
 ## Trade
 
@@ -49,3 +65,12 @@ To the north, beyond the last villages, the [[affiliation-tikupilarit|Ice-Edge P
 
 [[place-tsilkasis|Tsilkasis]]
 : Eagle Beach, the village of the house that sits first
+
+[[place-hapasrgn|Long Inlets]]
+: the northern fjords
+
+[[place-yumisrgn|Outer Beaches]]
+: the southern surf coast
+
+[[place-yatsalargn|Outer Islands]]
+: the great islands across the strait

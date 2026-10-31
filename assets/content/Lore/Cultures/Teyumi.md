@@ -42,6 +42,16 @@ data:
     - {name: "matsau", definition: "A bear, the healer and guardian painted on chamber walls."}
     - {name: "ponu", definition: "A road; one of the straight roads between great houses."}
     - {name: "kenuva", definition: "A canal of the lowland towns."}
+    - name: "kenuvamota"
+      definition: "A canal chief, who names the water turns on a lowland canal."
+    - name: "tahemota"
+      definition: "A war chief, who commands a town only while its ladders are drawn up."
+    - name: "matsauyo"
+      definition: "A bear doctor, an initiate of the Bear chamber who sucks out sickness and names who sent it."
+    - {name: "kowayo", definition: "A fire keeper, who keeps a signal station on a high mesa."}
+    - {name: "ponuyo", definition: "A runner, who carries word along the straight roads."}
+    - name: "pohiwa"
+      definition: "A snake; the Water Serpent who lives under the springs and rivers."
   appearanceProfile:
     frame: {light: 3, medium: 6, heavy: 1}
     eye_color: {dark_brown: 7, brown: 3}
@@ -59,7 +69,7 @@ The Turquoise People live where the desert of [[place-chakultzklrgn|Ch'akul Tsa'
 
 The Turquoise People say that their grandmothers' grandmothers lived farther south, in country that is desert now, and built the first great houses there. The ruins that travelers find in Ch'akul Tsa'kul, stone walls standing in sand with no water for days in any direction, are the [Old Houses]{.name data-type="place/site"} in their telling, and no Teyumi crosses the desert without leaving cornmeal at one. When the rain left that country, the people walked north carrying their seed corn and their turquoise. [Teyuwesa]{.name data-type="being/npc"}, whose name means Turquoise Walking, led them, and the songs say he stopped at every spring and asked whether the rain lived there.
 
-He stopped at last in [Hosa Oyala]{.name data-type="place/region"}, the Canyon of Houses, where the cliffs let a watcher read the sunrise against a single notch in the rim and where a summer storm still filled the washes. The first great houses of the north rose there, and the straight roads still leave it in every direction. Every town of the Turquoise People counts itself a daughter of that canyon, and its feast each autumn is the one gathering every town attends.
+He stopped at last in the [[place-hosaoyalargn|Canyon of Houses]], Hosa Oyala, where the cliffs let a watcher read the sunrise against a single notch in the rim and where a summer storm still filled the washes. The first great houses of the north rose there, and the straight roads still leave it in every direction. Every town of the Turquoise People counts itself a daughter of that canyon, and its feast each autumn is the one gathering every town attends.
 
 The rest of their history is the history of the rain. Wet generations filled the storerooms, and the towns added stories to their great houses and dug canals into the lowlands toward the desert. Dry generations emptied them, and the worst of the dry runs is the one the Turquoise People still argue about, the [Year of Shut Doors]{.name data-type="lore/history"}, told below.
 
@@ -116,7 +126,7 @@ The sun watcher (_waimayo_) names every day of the year that matters, and the to
 - **The planting** is named in spring, on a sunrise the sun watcher reads off the wall. The women grind seed meal, the men plant, and the chamber elders sing over the first field. It is for beginning the year's work together.
 - **The rain dances** fill the high summer. The cloud dancers (_omaloyo_) come up out of the chambers in masks and macaw feathers, with copper bells at their knees, and dance in the plaza as the dead come back as rain. The clowns (_pukiya_) dance among them and mock, by name, whoever has misbehaved since spring. It is for calling the rain, and for shaming the town into a calm heart before it comes.
 - **The canyon feast** follows the harvest. Pilgrims from every town walk the straight roads to the Canyon of Houses, carrying corn, pots and turquoise. The great houses there feed them, the elders drink cacao from tall painted jars, and at the end of the feast the pilgrims break the pots they carried on the great mound outside the walls. It is for renewing the bond between the towns, and for settling what the towns quarrel about.
-- **The [Far Rising]{.name data-type="lore/gathering"}** comes about once in a generation, when the moon rises farther north along the rim than anyone under forty can remember. The towns add a story or a wing to a great house that year. It is for marking the generations.
+- **The [Far Rising]{.name data-type="lore/gathering"}** comes about once in a generation, when the moon rises farther north along the rim than anyone under forty can remember, and at [[place-yaluhepu|Yaluhepu]], the Moon Door, it rises between two pillars of rock. The towns add a story or a wing to a great house that year. It is for marking the generations.
 
 ## Praise, Shame and the Dry
 
@@ -174,7 +184,7 @@ The age ladder is plain. A child is a _walayo_ and is carried, then sent to fetc
 
 The sin the Turquoise People committed is the Year of Shut Doors. It came at the end of a long dry run, generations ago, and lasted not one year but nine. As the storerooms emptied, the great houses of the canyon kept back what was left: first for the rites, because the rain chiefs held that the rain would not come to a town that let its dances lapse; then for the great-house kin, because the rites needed them. The households outside the walls were turned away at the ladders. Many starved, and many walked north and east and never came back.
 
-The chamber elders looked, as their teaching told them to, for the dry hearts that were keeping the rain away. They found them among the hungry, who were angry, and among the old, who could not work. Those named were driven out as the Dry, and some were killed. [Hepuluma]{.name data-type="being/npc"}, whose name means Rain at the Door, was the head of a great house in the canyon. In the ninth year she let down the ladders of her own house and opened its storerooms to everyone below the walls. The rain came the next summer, and the Turquoise People still dispute whether the two are connected. The oath every house head swears comes from her.
+The chamber elders looked, as their teaching told them to, for the dry hearts that were keeping the rain away. They found them among the hungry, who were angry, and among the old, who could not work. Those named were driven out as the Dry, and some were killed. [Hepuluma]{.name data-type="being/npc"}, whose name means Rain at the Door, was the head of a great house in the canyon. In the ninth year she let down the ladders of her own house, [[place-hepuhosa|Hepuhosa]], and opened its storerooms to everyone below the walls. The rain came the next summer, and the Turquoise People still dispute whether the two are connected. The oath every house head swears comes from her.
 
 The blind spot is still there, and thoughtful Teyumi argue over it. The doctrine of the dry heart holds that drought comes from bitterness, so a dry year always ends with the search for whose heart is at fault, and the search always lands on the hungry, the angry, the odd and the old. The town that puts one of them out has one mouth fewer and someone to blame. Some elders hold that this is how the rain is kept, and that the Year of Shut Doors was a failure of the great houses and not of the doctrine. Others answer that the doctrine has never once named a great-house kinsman, and ask what the rain is supposed to be answering. The last three summers have been short of rain.
 
@@ -193,6 +203,18 @@ A second argument runs alongside it. Turquoise flows south through Kwatuhosa, an
 
 [[place-kwatuhosa|Kwatuhosa]]
 : the South House, the great house at the desert's gate
+
+[[lore-lumaponu|Rain Road]]
+: the faith: the powers, the chambers, the bear doctors and the Dry Search
+
+[[place-hosaoyalargn|Canyon of Houses]]
+: the mother country, where the canyon feast is held
+
+[[place-yaahosa|Yaahosa]]
+: the Grandmother House, the first great house of the north
+
+[[place-hepuhosa|Hepuhosa]]
+: the Door House, where Hepuluma opened her storerooms
 
 [[affiliation-redstncmpct|Red Stone Compact]]
 : the peace the Turquoise People keep with the other northern nations

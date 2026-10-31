@@ -44,6 +44,10 @@ data:
         War canoe captain: a noble who commands a seagoing war canoe and its crew on a raid.
       tsumamis: >-
         Master carver: a commoner or noble commissioned by a chief to carve a house's posts and crest poles and the masks for the winter dances.
+      gunismis: >-
+        Keeper of the Masks: the head of a village's winter dance society, often a commoner, who rules the dance house and orders the village in the winter season while the summer names are put away.
+      tukwamis: >-
+        Seat Holder: a noble of the house that sits first, sent each summer with a Speaker to hold the coast's seat at the council of the Red Stone Compact; he can promise only what the first seat has agreed.
   seat: tsilkasis
   population: 200000
   economy: []
@@ -71,6 +75,29 @@ Every house is sharply ranked. Its nobles (_yekwamis_) hold its hereditary names
 
 Above the houses there is only the order of seats. Every name on the coast has its place in one order, from the first seat of the first house to the last seat of the least, and every feast seats and serves its guests in that order. The chief of the house that sits first holds the first seat (_kenwatukwa_). He speaks first at any council of chiefs, is served first at any feast, and leads when the houses go to war together. That is the whole of his authority. His house keeps the first seat while its gifts are the greatest on the coast, and another house takes it when they are not. The [Eagle House]{.name data-type="affiliation/lineage"} of Tsilkasis has held it for four generations of chiefs.
 
+## How the Coast Decides
+
+The coast has no council that sits. When a chief wants the houses to act together, to go to war, to settle a feud between two other houses, or to answer a call from the compact, he gives a feast and puts the matter while the guests are in his house. The guests sit in the order of seats, and their Speakers answer in that order, from the highest seat down, each speaking for his chief. Nobody votes. When the talking is done the host gives his gifts, and a chief who takes the host's gifts has agreed to what was put. A chief who disagrees leaves before the blankets are brought out, and is not bound. Walking out before the blankets is the coast's only dissent, and it costs face, because a chief who walks out has also refused the host's claim.
+
+The first seat (_kenwatukwa_) calls the feast that decides war for the whole coast, and the houses that eat at it go to war together under him. A house that does not come does not fight. In winter the order is suspended: the dance societies rule each village, and their Keepers of the Masks (_gunismis_) settle what needs settling in the dance house, where a chief may sit lower than his own commoners.
+
+## How It Is Enforced
+
+No one on the coast can command another house. What holds the houses to an agreement is the feast, in four ways, from the mildest to the gravest.
+
+- **The count.** Every agreement made at a feast is a gift accepted, and the Keepers of the Count of both houses remember it. A house that breaks it hears its Keeper's count read back at the next feast, before witnesses.
+- **The song.** A host may have a song made against a guest who broke his word, naming what he did, and sing it at a feast where the guest is seated. Only a gift wipes it away.
+- **The empty floor.** The houses may stop coming to a chief's feasts. A chief whose guests do not come cannot make any claim good, cannot lift a name or raise a pole, and his house falls down the order of seats each year that the floor stays empty. It is the gravest thing the coast can do to a house without war, and it has emptied two floors in living memory.
+- **War.** A wrong that payment does not settle is answered by a raid, house against house, until the Speakers agree a payment.
+
+Within a house the chief enforces. He decides who fishes where, and a person who defies him loses a fishing place, then a name, and at last the house itself.
+
+## How Names Pass
+
+A chief's name passes like any other name. The dying chief names his heir aloud before witnesses, a son, a daughter's son, a nephew or a niece, and the heir lifts the name at a feast, giving enough that the guests accept it. Where two claimants come forward, each gives a feast, and the name goes to the one whose gifts the coast accepts. The losing claimant keeps the gifts he received and the debts he made.
+
+The first seat passes in the same way, without anyone deciding it. When another house gives a feast greater than the first house can answer within a year, the next feast of the coast seats the challenger first, and the Keepers of the Count of the great houses say so aloud. The Eagle House has answered every challenge for four generations of chiefs. The [Bear House]{.name data-type="affiliation/lineage"} of [[place-lamekis|Lamekis]] has made two in four years that it has not answered, and this winter it makes a third.
+
 ## The Giving Feast
 
 Rank on the coast is claimed and confirmed at the giving feast (_kitala_). A chief who takes a new name, raises a pole, marries his daughter or lifts the name of a dead predecessor invites the other houses, feeds them for days, and gives away or destroys a fortune in blankets, canoes, grease and copper before them. His Keeper of the Count (_kalumis_) says the count of every gift aloud, and the guests paid as witnesses (_nilkwamis_) remember it. The guests' acceptance of the gifts is their acknowledgment of his claim. Every gift is a debt (_humkwa_) that the receiver must answer with a greater one at a feast of his own, and a house that cannot answer falls down the order of seats. Rival chiefs ruin their houses trying.
@@ -84,6 +111,18 @@ In winter the houses put away their summer names and hold the winter dances (_hi
 The Cedar People's war canoes (_yakwis_) are great seagoing dugouts, each cut from a single cedar, that carry thirty or forty warriors along the coast. A war canoe captain (_yakwismis_) commands each. The houses raid each other in feuds, and they raid distant coasts for slaves, most of all to the south.
 
 The Cedar People are the compact's sea power on the western coast, a month's journey from the quarry and the other four nations. They keep the [[affiliation-redstncmpct|Red Stone Compact]] for the prestige of a seat at its council, and the house that holds the first seat sends one of its nobles with a Speaker to talk for him. A seat is a thing the Cedar People understand.
+
+The noble sent is the Seat Holder (_tukwamis_), and for six summers he has been [Tuklaskapala]{.name data-type="being/npc"}, Returns from the Mountain, a nephew of the chief of the Eagle House. He walks to the [Red Quarry]{.name data-type="place/site"} over the [Grease Trail]{.name data-type="place/feature"} from [[place-mukwasis|Mukwasis]] with the grease carriers, and on across the plains, and he can promise nothing but what the first seat agreed before he left, which is usually nothing. The coast has never smoked a pipe of help: its war canoes cannot cross the mountains, and nobody has asked it for anything they could carry. At the last council the Turquoise People's delegates asked Tuklaskapala what the Cedar People would do if the [Shell-Bead People]{.name data-type="affiliation/polity"} smoked the compact's pipe and became pipe kin of every nation, the Cedar People included. He had no answer to give, and he has carried the question home.
+
+## The Towns
+
+The houses' villages stand in three countries, which the [[place-kelwanukrgn|Kelwanuk Region]] describes together.
+
+- **The [[place-hapasrgn|Long Inlets]]**, the northern fjords, hold [[place-tsilkasis|Tsilkasis]], the Eagle House's village, and [[place-mukwasis|Mukwasis]], the Wolf House's, at the foot of the Grease Trail.
+- **The [[place-yumisrgn|Outer Beaches]]**, the southern coast, hold [[place-malkisis|Malkisis]], the Orca House's whaling village, and [[place-lamekis|Lamekis]], the Bear House's, at the mouth of the South River.
+- **The [[place-yatsalargn|Outer Islands]]** hold [[place-gwemlasis|Gwemlasis]], the Thunderbird House's village, where the war canoes are built.
+
+The faith of the houses, the [[lore-nakpulalas|Meeting]], has its own page.
 
 ## Trade
 
@@ -102,6 +141,12 @@ The coast trades with itself first: grease, dried salmon, cedar boxes, blankets 
 
 [[place-tsilkasis|Tsilkasis]]
 : Eagle Beach, the village of the house that sits first
+
+[[place-lamekis|Lamekis]]
+: Bear Beach, the house that challenges for the first seat
+
+[[lore-nakpulalas|Meeting]]
+: the faith of the coast: the powers, the healers and the winter dances
 
 [[affiliation-redstncmpct|Red Stone Compact]]
 : the compact the Cedar People keep with the other four nations

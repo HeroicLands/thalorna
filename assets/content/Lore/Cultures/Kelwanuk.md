@@ -46,6 +46,15 @@ data:
       definition: "The Wild One: a young dancer whom a forest power has taken, and whom the songs bring back."
     - name: "tsulayekwa"
       definition: "A cold name: the name of the dead, waiting for an heir to lift it."
+    - name: "temkwas"
+      definition: "A power of the sea or the forest; a being that met a first ancestor and gave a house its crest."
+    - {name: "hemnis", definition: "A healer, whom a power has taught."}
+    - name: "nakpulalas"
+      definition: "The Meeting: the first meeting of an ancestor with a power, and the faith that keeps those meetings."
+    - name: "gunismis"
+      definition: "A Keeper of the Masks, the head of a winter dance society, who rules the village in the dancing season."
+    - name: "tukwamis"
+      definition: "The Seat Holder, the noble who holds the coast's seat at the council of the Red Stone Compact."
   appearanceProfile:
     frame: {light: 2, medium: 5, heavy: 3}
     eye_color: {dark_brown: 7, brown: 3}
@@ -61,7 +70,7 @@ The Cedar People live on the western coast of the north, between the sea and a w
 
 ## Where They Came From
 
-The Cedar People say that in the first days the sea rose over the whole land. The first people tied their canoes to the highest peaks and waited, and the time they waited is called the [Great Water]{.name data-type="lore/history"}. When the sea fell, beings of the sea and the sky came down to the empty beaches, took off their masks of feathers or fin, and became the first chiefs. The first [Tsilkas]{.name data-type="being/npc"} came down as an eagle to the beach that bears his name, and an orca walked out of the sea at [Malkisis]{.name data-type="place/settlement"}, Orca Beach. Every house descends from one of those beings, and its crest (_kwemla_) is the right to carve, wear and dance the being its first ancestor met.
+The Cedar People say that in the first days the sea rose over the whole land. The first people tied their canoes to the highest peaks and waited, and the time they waited is called the [Great Water]{.name data-type="lore/history"}. When the sea fell, beings of the sea and the sky came down to the empty beaches, took off their masks of feathers or fin, and became the first chiefs. The first [Tsilkas]{.name data-type="being/npc"} came down as an eagle to the beach that bears his name, and an orca walked out of the sea at [[place-malkisis|Malkisis]], Orca Beach. Every house descends from one of those beings, and its crest (_kwemla_) is the right to carve, wear and dance the being its first ancestor met.
 
 The first people were cold that first winter, and naked, and they had nothing to build with. A woman of the first houses, the [Cedar Woman]{.name data-type="being/npc"}, walked into the forest and stood there until she became a tree. Her hair became the bark the people weave, her bones the planks of their houses, and her arms the hulls of their canoes, and she asked nothing back. She is the first cedar (_kelwa_), and her gift is the reason the Cedar People hold giving to be the first good. A carver who cuts a cedar still speaks to it first, tells it what it will become and asks it to give.
 
@@ -107,7 +116,7 @@ The Cedar People write nothing down, and what holds them together is carved, own
 
 ## The Day Kept
 
-On an ordinary day the religion is courtesy to the things that feed the house. A woman stripping cedar bark in spring takes only a strip from each tree and thanks the tree as she pulls it. The bones of the first salmon of each run go back into the river whole, so that the salmon can rise again and return next year. Every evening, before the house eats, a little of the meal goes into the fire for the dead. Every morning before dawn, young men and the men who hunt sea game bathe in the sea and scrub themselves with hemlock branches until their skin is raw, for strength and to be clean before the powers of the sea.
+On an ordinary day the [[lore-nakpulalas|Meeting]], the faith of the coast, is courtesy to the things that feed the house. A woman stripping cedar bark in spring takes only a strip from each tree and thanks the tree as she pulls it. The bones of the first salmon of each run go back into the river whole, so that the salmon can rise again and return next year. Every evening, before the house eats, a little of the meal goes into the fire for the dead. Every morning before dawn, young men and the men who hunt sea game bathe in the sea and scrub themselves with hemlock branches until their skin is raw, for strength and to be clean before the powers of the sea.
 
 Nobody says the name of a person who has died until an heir has lifted it, because a cold name (_tsulayekwa_) spoken aloud calls its dead owner back hungry. People who must speak of the dead say "the one who held the name" and let the listener work it out.
 
@@ -202,6 +211,12 @@ A second argument runs alongside it. The commoners of a house do the fishing, th
 
 [[place-tsilkasis|Tsilkasis]]
 : Eagle Beach, the village of the house that sits first
+
+[[place-malkisis|Malkisis]]
+: Orca Beach, the Orca House's village, where the count is kept and slaves are freed
+
+[[lore-nakpulalas|Meeting]]
+: the faith of the coast: the powers, the healers and the winter dances
 
 [[affiliation-redstncmpct|Red Stone Compact]]
 : the peace the Cedar People keep with the other northern nations

@@ -40,6 +40,18 @@ data:
       definition: "A lodge owner: the woman who owns an earth lodge, its fields and its stores."
     - {name: "tewiya", definition: "An outcast, who eats with the dogs and is fed by no lodge."}
     - {name: "wechan", definition: "A scaffold on which the dead are laid under the sky."}
+    - name: "chitenka"
+      definition: "One with a name: a person whose deeds have been told at a giveaway, who may sit in council."
+    - name: "pichishika"
+      definition: "A crier, who walks the camp at dawn calling out what the council decided."
+    - {name: "teyenka", definition: "A scout, sent ahead of a band, a drive or a raid."}
+    - name: "machonka"
+      definition: "A doctor, whose vision gave a power to heal, and who finds the rule a sick person broke."
+    - name: "kewitaka"
+      definition: "A contrary: one who has dreamed of the Thunders, and speaks and acts backward until freed."
+    - {name: "kopen", definition: "Flint, dug from the pits in the bluffs above the upper river."}
+    - name: "tunse"
+      definition: "Holy: full of the earth's breath, as a bundle, a pipe or a herd is."
   appearanceProfile:
     frame: {light: 2, medium: 6, heavy: 2}
     eye_color: {dark_brown: 7, brown: 3}
@@ -55,7 +67,7 @@ In autumn the scouts come in at a run, the shout _tanshe stuhan_ goes down the c
 
 ## Where They Came From
 
-The Grass People tell two beginnings, and they keep both. The bands say that the people lived under the earth in the dark until the bison found the way out, through the [Breathing Hole]{.name data-type="place/feature"}, a cave in the western hills that still breathes warm air in winter and cold air in summer. The herds went up first, and the people followed them into the light, and have been following them since. The villages say that the people walked up the rivers from the east carrying seed corn, which the women of the first villages had been given in a dream, and that they planted it on the first river bottom where the soil was soft enough to dig with a bone.
+The Grass People tell two beginnings, and they keep both. The bands say that the people lived under the earth in the dark until the bison found the way out, through the [Breathing Hole]{.name data-type="place/feature"}, a cave in the western hills of the [[place-wehioshtergn|Cairn Plain]] that still breathes warm air in winter and cold air in summer. The herds went up first, and the people followed them into the light, and have been following them since. The villages say that the people walked up the rivers from the east carrying seed corn, which the women of the first villages had been given in a dream, and that they planted it on the first river bottom where the soil was soft enough to dig with a bone.
 
 Both stories end the same way, with one people who lived two ways. A band and a village speak the same tongue, smoke the same pipe and dance the same summer dances, and most families have kin in both. A band son marries into a village and lives in his wife's lodge; a village family whose fields fail goes out to the bands for a winter, and sometimes stays.
 
@@ -133,7 +145,7 @@ Punishment runs from laughter to the dogs. The first and most common is teasing 
 
 The Grass People have no government that lasts longer than its work. A band is governed by a council of its respected men and women, who name a hunt chief for the drives and accept a war leader (_yashenka_) for a raid, and both lose their authority when the season or the raid ends. A village is governed by its council and by its lodge owners (_moshenka_), the women who own the earth lodges and the fields and decide who eats from the cache pits. Each village chooses a village speaker (_hoyanka_) to bargain with the bands at the autumn trading.
 
-Religion has keepers and no rulers. A bundle keeper (_chekanka_) holds a village's or a band's bundle and its songs, a year-robe keeper (_keshunka_) holds its history, and a person who has had a strong vision may doctor the sick or find the herds. Their word carries weight in council, and none of them commands. When the bundle keeper says the signs are wrong for a drive and the hunt chief wants to go, the drive waits, because a hunt chief who drives against the bundle and fails is finished.
+Religion has keepers and no rulers. A bundle keeper (_chekanka_) holds a village's or a band's bundle and its songs, a year-robe keeper (_keshunka_) holds its history, and a person who has had a strong vision may doctor the sick or find the herds. The powers they deal with, and the doctors and contraries who serve them, are set out in [[lore-nipanheshehin|Earth's Breath]]. Their word carries weight in council, and none of them commands. When the bundle keeper says the signs are wrong for a drive and the hunt chief wants to go, the drive waits, because a hunt chief who drives against the bundle and fails is finished.
 
 Nobody keeps records except on the robes. The year-robe keeper keeps the years, the society songs keep the law, and the council remembers what it decided. Disputes inside a band go to the council and are settled with gifts; disputes between bands go to the summer gathering; disputes between a band and a village go to the autumn trading, under the Corn Pipe. Nobody collects anything. After a drive the hunt chief divides the meat by lodges, and every lodge's share is the same, the widows' first.
 
@@ -187,7 +199,7 @@ The age ladder is plain. A child is named on its fourth day and carried, then se
 
 The sin the Grass People committed is the Winter of the Ditch. It came at the end of a run of dry years, generations ago, when the grass failed, the herds went far to the west and the bands went hungry for three winters running. The villages were hungry too, and in the third autumn the village now called the [Burned Village]{.name data-type="place/site"} kept its corn in its cache pits and refused the bands at the trading. The bands camped outside it for a month. In the first deep snow, the societies of four bands went over its ditch at night, burned its lodges and killed nearly everyone inside, close to five hundred people, men, women and children, and took the corn. They left the dead in the ditch, unburied and unreleased.
 
-The Grass People tell it as two wrongs in one winter, and as the worst they know: the village had closed its hand, and the bands had killed their own people. [Loshitayu]{.name data-type="being/npc"}, Corn Dream, was a girl of the burned village, taken captive that night and adopted into one of the bands that burned it. She grew up in the band, married a society head, and when she was a grown woman she walked to the river villages carrying her band's pipe and offered it to every village speaker in turn. The peace she made is the autumn trading as it is kept now: the bands come in, a society keeps the peace of the trading camp, and every village opens its cache pits to the hungry before it sets a price. Its pipe is the Corn Pipe, kept at Tanshe Yawa, and smoked at the opening of every trading.
+The Grass People tell it as two wrongs in one winter, and as the worst they know: the village had closed its hand, and the bands had killed their own people. [Loshitayu]{.name data-type="being/npc"}, Corn Dream, was a girl of the burned village, taken captive that night and adopted into one of the bands that burned it. She grew up in the band, married a society head, and when she was a grown woman she walked to the river villages carrying her band's pipe and offered it to every village speaker in turn. The peace she made is the autumn trading as it is kept now: the bands come in, a society keeps the peace of the trading camp, and every village opens its cache pits to the hungry before it sets a price. Its pipe is the Corn Pipe, kept at Tanshe Yawa, and smoked at the opening of every trading. This year the lodge owners of [[place-henushewan|Henu Shewan]], the Forks, burned in answer to a raid, have said they will shut their cache pits against the band that made it.
 
 The blind spot the Grass People argue over is the raid. A man's standing rests on coups and gifts, and the surest way to both is a raid. A young man with no coup has no name, no society and few prospects of a wife, and so the young men raid: the western towns of the [[affiliation-tokchiaska|One Fire]], the western villages of the [[affiliation-osetakona|Maple People]], and other bands of their own people. The raiders come home with names. The towns they raid strike back, and they strike back at what does not move: the river villages, whose lodges and fields stand where they stood. Some elders say that the open hand needs something to give, and that a people without raids would be a people without names. The lodge owners of the villages answer that the bands make the names and the villages pay for them, and ask how many coups the Winter of the Ditch was worth. [Kanwesawi]{.name data-type="being/npc"}, Coyote Runs, the war leader killed at the [Red Quarry]{.name data-type="place/site"} by a One Fire noble, is remembered as a hero by the bands. The villages remember the One Fire's raids that came after his death.
 
@@ -204,6 +216,21 @@ The blind spot the Grass People argue over is the raid. A man's standing rests o
 
 [[place-tansheyawa|Tanshe Yawa]]
 : the largest of the river villages, where the Corn Pipe is kept
+
+[[place-hesunshewanrgn|Village River]]
+: the valley of the earth-lodge villages
+
+[[place-wehioshtergn|Cairn Plain]]
+: the high western grass of the drive lanes and the Breathing Hole
+
+[[place-watotenlargn|Long Grass]]
+: the wet eastern prairie of the raiding bands
+
+[[place-potontayuntorgn|Root Fields]]
+: the dry country beyond the mountains
+
+[[lore-nipanheshehin|Earth's Breath]]
+: the faith: the breathing earth, the Herd Mother, the Thunders and the contraries
 
 [[affiliation-redstncmpct|Red Stone Compact]]
 : the peace the Grass People keep with the other northern nations

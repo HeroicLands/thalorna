@@ -152,6 +152,11 @@ data:
       gloss: "a stone"
       concept: stone
       source: {kind: coined}
+    - form: "kopen"
+      class: n
+      field: "Grass and sky"
+      gloss: "flint: the hard stone that flakes to an edge, dug from the pits above the upper river"
+      source: {kind: coined}
     - form: "yawa"
       class: n
       field: "Grass and sky"
@@ -907,6 +912,18 @@ data:
       gloss: "a year-robe keeper: the one who paints a picture for each winter on a band's robe and tells them in order"
       built: ["keshun", "-ka"]
       source: {kind: coined}
+    - form: "machonka"
+      class: n
+      field: "Pipe and vision"
+      gloss: "a doctor: one whose vision gave a power to heal, who doctors with songs and roots"
+      built: ["machon", "-ka"]
+      source: {kind: coined}
+    - form: "kewitaka"
+      class: n
+      field: "Pipe and vision"
+      gloss: "a contrary: one who has dreamed of the Thunders, and says and does everything backward until he is freed"
+      built: ["kewita", "-ka"]
+      source: {kind: coined}
     - form: "nashe chekan"
       class: n
       field: "Pipe and vision"
@@ -946,6 +963,24 @@ data:
       field: "Band and kin"
       gloss: "a hunt chief: the one named for a season to lead the drives"
       built: ["yuchan", "-ka"]
+      source: {kind: coined}
+    - form: "teyenka"
+      class: n
+      field: "Band and kin"
+      gloss: "a scout: one sent ahead of a moving band or a raid to find the herds and the enemy"
+      built: ["teyen", "-ka"]
+      source: {kind: coined}
+    - form: "pichishika"
+      class: n
+      field: "Band and kin"
+      gloss: "a crier: the one who walks the camp at dawn and calls out what the council decided"
+      built: ["pichishi", "-ka"]
+      source: {kind: coined}
+    - form: "chitenka"
+      class: n
+      field: "Band and kin"
+      gloss: "one with a name: a person whose deeds and gifts have been told at a giveaway, and who may sit in council"
+      built: ["chiten", "-ka"]
       source: {kind: coined}
     - form: "yashenka"
       class: n
@@ -5845,6 +5880,14 @@ data:
         - "tenlatuta"
         - "hetantayu"
         - "wonatuta"
+        - "wenpuntayu"
+        - "ukanatuta"
+        - "shewantiyu"
+        - "loshiwinte"
+        - "mahintayu"
+        - "yashkituta"
+        - "kiyawatayu"
+        - "skumatiyu"
       male:
         - "kuntonwiwan"
         - "keshunwinte"
@@ -5854,7 +5897,25 @@ data:
         - "tashunipo"
         - "tansheyawo"
         - "skumawiwan"
-    band: ["kanweya", "kohaya", "shewanya", "hetanya", "wehiya", "tosheya"]
+        - "kiyawasawi"
+        - "kanwewiwe"
+        - "mitenwiwan"
+        - "tashusawi"
+        - "kohanipo"
+        - "toshewiwan"
+        - "kuntonsawi"
+        - "hetanwinte"
+    band:
+      - "kanweya"
+      - "kohaya"
+      - "shewanya"
+      - "hetanya"
+      - "wehiya"
+      - "tosheya"
+      - "kopenya"
+      - "kiyawaya"
+      - "wonaya"
+      - "chatunya"
   sounds:
     edges: [{edge: openCluster, sounds: [sk, sp, st]}, {edge: closeConsonant, sounds: [n]}]
     clusters: {max: 2}
@@ -5868,6 +5929,15 @@ data:
       - skill-tenlayalng
       - place-tenlayargn
       - place-tansheyawa
+      - place-hesunshewanrgn
+      - place-wehioshtergn
+      - place-watotenlargn
+      - place-potontayuntorgn
+      - place-kopenmokin
+      - place-henushewan
+      - place-kuntontoshe
+      - place-hiyespito
+      - lore-nipanheshehin
   tongues:
     - {tag: tenlaya, meaning: a Tenlaya name, language: skill-tenlayalng}
     - {tag: translation, meaning: a name given in the language of these pages}
@@ -5905,6 +5975,50 @@ data:
     - {name: hetanya, tongue: tenlaya, built: [hetan, -ya]}
     - {name: wehiya, tongue: tenlaya, built: [wehi, -ya]}
     - {name: tosheya, tongue: tenlaya, built: [toshe, -ya]}
+    - {name: hesun shewan, tongue: tenlaya, built: [hesun, shewan]}
+    - {name: Village River, tongue: translation}
+    - {name: wehi oshte, tongue: tenlaya, built: [wehi, oshte]}
+    - {name: Cairn Plain, tongue: translation}
+    - {name: wato tenla, tongue: tenlaya, built: [wato, tenla]}
+    - {name: Long Grass, tongue: translation}
+    - {name: potonta yunto, tongue: tenlaya, built: [potonta, yunto]}
+    - {name: Root Fields, tongue: translation}
+    - {name: kopen mokin, tongue: tenlaya, built: [kopen, mokin]}
+    - {name: Flint Hill, tongue: translation}
+    - {name: henu shewan, tongue: tenlaya, built: [henu, shewan]}
+    - {name: The Forks, tongue: translation}
+    - {name: kunton toshe, tongue: tenlaya, built: [kunton, toshe]}
+    - {name: Thunder Cliff, tongue: translation}
+    - {name: hiye spito, tongue: tenlaya, built: [hiye, spito]}
+    - {name: Falling Water, tongue: translation}
+    - {name: nipan heshehin, tongue: tenlaya, built: [nipan, heshehin]}
+    - {name: "Earth's Breath", tongue: translation}
+    - {name: loshi sheki, tongue: tenlaya, built: [loshi, sheki]}
+    - {name: Corn Grandmother, tongue: translation}
+    - {name: tanshe kuhashi, tongue: tenlaya, built: [tanshe, kuhashi]}
+    - {name: Herd Mother, tongue: translation}
+    - {name: Cottonwood Bend, tongue: translation}
+    - {name: Winter the Meat Spoiled, tongue: translation}
+    - {name: wenpuntayu, tongue: tenlaya, built: [wenpun, tayu]}
+    - {name: ukanatuta, tongue: tenlaya, built: [ukana, tuta]}
+    - {name: shewantiyu, tongue: tenlaya, built: [shewan, tiyu]}
+    - {name: loshiwinte, tongue: tenlaya, built: [loshi, winte]}
+    - {name: mahintayu, tongue: tenlaya, built: [mahin, tayu]}
+    - {name: yashkituta, tongue: tenlaya, built: [yashki, tuta]}
+    - {name: kiyawatayu, tongue: tenlaya, built: [kiyawa, tayu]}
+    - {name: skumatiyu, tongue: tenlaya, built: [skuma, tiyu]}
+    - {name: kiyawasawi, tongue: tenlaya, built: [kiyawa, sawi]}
+    - {name: kanwewiwe, tongue: tenlaya, built: [kanwe, wiwe]}
+    - {name: mitenwiwan, tongue: tenlaya, built: [miten, wiwan]}
+    - {name: tashusawi, tongue: tenlaya, built: [tashu, sawi]}
+    - {name: kohanipo, tongue: tenlaya, built: [koha, nipo]}
+    - {name: toshewiwan, tongue: tenlaya, built: [toshe, wiwan]}
+    - {name: kuntonsawi, tongue: tenlaya, built: [kunton, sawi]}
+    - {name: hetanwinte, tongue: tenlaya, built: [hetan, winte]}
+    - {name: kopenya, tongue: tenlaya, built: [kopen, -ya]}
+    - {name: kiyawaya, tongue: tenlaya, built: [kiyawa, -ya]}
+    - {name: wonaya, tongue: tenlaya, built: [wona, -ya]}
+    - {name: chatunya, tongue: tenlaya, built: [chatun, -ya]}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -6010,15 +6124,17 @@ Warriors paint their coups on their robes and lodge covers in the same way, and 
 
 A child is named on the fourth day of its life by a grandparent or a respected elder, and the name is two words of the dictionary set together, most often a thing of the land or the sky and a thing it does: _Kuntonwiwan_, Stands in Thunder, _Shiwetuta_, Bright Moon. A first name is a hope. A person who does something worth telling takes a new name for it, given at a giveaway or a society dance, and a man who has counted many coups may have had four or five names by the time he is old. _Keshunwinte_, Gives Robes, is a name earned that way.
 
+A place is named the same way, with two words set side by side, the first saying which: a thing and what is known of it, or what stands there and where. _Tanshe Yawa_ is Bison Ford, _Henu Shewan_, two rivers, the Forks, _Kunton Toshe_ Thunder Cliff and _Kopen Mokin_ Flint Hill. A country is named for what it gives: _Wehi Oshte_, the Cairn Plain, is the country of the drive lanes, and _Potonta Yunto_, the Root Fields, the country where the western bands dig roots.
+
 A band is named with _-ya_ on something it is known for: the _Kanweya_ are the Coyote band and the _Wehiya_ the Cairn band. A person is said to be "of" the band they hunt with, and can change bands by moving their lodge.
 
 ### Name Lists
 
-**Women's names:** Moshentiyu, Loshitayu, Shiwetuta, Yashkiwoya, Skumawinte, Tenlatuta, Hetantayu, Wonatuta
+**Women's names:** Moshentiyu, Loshitayu, Shiwetuta, Yashkiwoya, Skumawinte, Tenlatuta, Hetantayu, Wonatuta, Wenpuntayu, Ukanatuta, Shewantiyu, Loshiwinte, Mahintayu, Yashkituta, Kiyawatayu, Skumatiyu
 
-**Men's names:** Kuntonwiwan, Keshunwinte, Hetansawi, Kanwesawi, Moshawiwe, Tashunipo, Tansheyawo, Skumawiwan
+**Men's names:** Kuntonwiwan, Keshunwinte, Hetansawi, Kanwesawi, Moshawiwe, Tashunipo, Tansheyawo, Skumawiwan, Kiyawasawi, Kanwewiwe, Mitenwiwan, Tashusawi, Kohanipo, Toshewiwan, Kuntonsawi, Hetanwinte
 
-**Bands:** Kanweya (Coyote), Kohaya (Mountain), Shewanya (River), Hetanya (Sun), Wehiya (Cairn), Tosheya (Cliff)
+**Bands:** Kanweya (Coyote), Kohaya (Mountain), Shewanya (River), Hetanya (Sun), Wehiya (Cairn), Tosheya (Cliff), Kopenya (Flint), Kiyawaya (Eagle), Wonaya (Snow), Chatunya (Pound)
 
 ## Tenlaya Lexicon {#lexicon}
 

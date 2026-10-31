@@ -21,13 +21,15 @@ data:
 
 Tenlaya Region is the land of the [[affiliation-tenlaya|Tenlaya]], the Grass People, and lies within [[place-northkiichchik|Northern Ki'ich'chik]] on the [[place-kiichchik|Ki'ich'chik Continent]]. It is a sea of grass and sky at the center of the north, where the horizon runs out of sight in every direction and the herds move across it by the tens of thousands. About 300,000 people live in it, most of them in hunting bands that follow the herds and the rest in villages of earth lodges on the river bottoms. Beyond the western mountains it runs on into dry plateaus and basins, which the western bands hold.
 
+The region holds four countries. The [[place-hesunshewanrgn|Village River]] runs through its middle, with the earth-lodge villages on its terraces. The [[place-wehioshtergn|Cairn Plain]] is the high, dry grass under the western mountains, crossed by the drive lanes. The [[place-watotenlargn|Long Grass]] is the wet eastern prairie toward the eastern forests and the valley of the great river. Beyond the mountains lie the [[place-potontayuntorgn|Root Fields]], the dry plateaus of the western bands.
+
 ## Geography
 
 The plains look simple and are not. They rise gently westward from the river valleys toward the mountains, and the grass changes as they rise: tall and thick in the wetter east, short and sparse in the dry west under the mountains. Rivers cross them from west to east in wide, wooded valleys, and those valleys are where the villages stand, on terraces above the floodplain fields, each inside its ditch and palisade. The greatest of the rivers runs down out of the northwest through the middle of the grass, and most of the villages stand along it and its tributaries. Spring brings floods and a rapid greening, summer bakes the grass golden, and winter on the open plain kills the unprepared.
 
 The herds are the plains' defining feature. Bison and elk move across the grass on routes worn by centuries, toward water and new grass, and the bands know every crossing, every spring and every cliff edge along them. The cliffs matter most: a band that can steer a herd to a known drop or into a pound of logs and stone eats through the winter. Lines of stone cairns run for miles across the grass toward the best of the drops, and are older than any band that uses them. Knowing where the herds are and where they are going is the first thing a band child learns, before the bow.
 
-In the western hills is the [Breathing Hole]{.name data-type="place/feature"}, a cave that breathes warm air in winter and cold air in summer, from which the bands say the herds and the people first came up into the light. Bands camp near it and leave gifts at its mouth, and nobody goes far inside.
+In the western hills is the [Breathing Hole]{.name data-type="place/feature"}, a cave that breathes warm air in winter and cold air in summer, from which the bands say the herds and the people first came up into the light, and which the faith of [[lore-nipanheshehin|Earth's Breath]] calls the earth breathing. Bands camp near it and leave gifts at its mouth, and nobody goes far inside.
 
 ## Beyond the Mountains
 
@@ -51,6 +53,18 @@ The bands trade with the villages above all: meat, fat, robes and hides for corn
 
 [[place-northkiichchik|Northern Ki'ich'chik]]
 : the enclosing region
+
+[[place-hesunshewanrgn|Village River]]
+: the valley of the villages
+
+[[place-wehioshtergn|Cairn Plain]]
+: the high western grass of the drive lanes
+
+[[place-watotenlargn|Long Grass]]
+: the wet eastern prairie of the raiding bands
+
+[[place-potontayuntorgn|Root Fields]]
+: the plateaus beyond the mountains
 
 [[place-tansheyawa|Tanshe Yawa]]
 : the largest of the river villages, where the herds ford the river

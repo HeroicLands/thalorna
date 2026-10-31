@@ -31,6 +31,8 @@ The Keeper of the South Road (_kwatuyo_) lives here, a man of the house's great-
 
 What the traders say of the south is carried north along the roads, and the house hears first when a southern expedition is on the way. The other towns say that the South House has heard the south for so long that it has begun to sound like it. The house's own people say that somebody has to listen.
 
+This winter the Keeper's monopoly has a crack in it. A southern trader came up out of the desert by a western route to [[place-kenuvahosa|Kenuvahosa]], the Canal House on the lowland canals, sold his cacao and copper bells there, and went home with turquoise without ever coming to the South House. The Keeper has sent a runner (_ponuyo_) to the Canal House to ask why, and the canal chief has answered that a guest who comes to the door is fed.
+
 ## See Also
 
 [[affiliation-teyumi|Teyumi]]
@@ -38,6 +40,9 @@ What the traders say of the south is carried north along the roads, and the hous
 
 [[place-teyumirgn|Teyumi Region]]
 : the mesas, canyons and canal lowlands
+
+[[place-kenuvahosa|Kenuvahosa]]
+: the Canal House, where a southern trader went instead
 
 [[place-chakultzklrgn|Ch'akul Tsa'kul]]
 : the desert whose routes end here
