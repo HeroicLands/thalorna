@@ -32,411 +32,459 @@ The schools have argued with the first half since there have been schools. Its g
 : The Measures of the Terraces {#poem}
 
 ::: {.verse form=didactic-verse lang=en work=poem}
-[[lore-lusiniadty|Weaver]] at wheel. You, Keeper of Book with stars around./
-I am a high-terrace man with no learning except year./
-I sing year, and before year the thing making it:/
-measure, measure’s arrival, those there and those absent./
-You too, Euthalos, my brother. Father names you for his hope./
-Listen. Stop listening to city men with long sleeves.
+[[lore-lusiniadty|Weaver]] at the wheel, and you, [[lore-marendasdty|Keeper of the book with the stars around it]],/
+I am a man of the high terraces, and I have no learning but the year,/
+and I will sing the year, and before the year the thing that made it,/
+the measure, and how the measure came, and who was there, and who was not./
+And you, Euthalos, my brother, whom our father named for his hope of you,/
+listen to this, and stop listening to the men in the city with the long sleeves.
 
-Before world, Unmeasured. I tell its being./
-No length. A thing inside never stops anywhere. Therefore no thing./
-No weight. Nothing heavier than another./
-Stone and feather lie together. Nobody distinguishes them./
-No hour. Nothing comes before or after. Therefore nothing comes./
-Some say dark. Never dark. Darkness measures light./
-Some say cold. Never cold. Cold measures fire./
-Like a field in fog before high-terrace dawn,/
-when you go to wall and cannot see hand or wall,/
-never know whether wall stands one step or one day away,/
-and stand still. Walking chooses distance. You cannot.
+Before the world there was the Unmeasured, and I will tell you what it was./
+It had no length. A thing in it did not stop anywhere, so it was not a thing./
+It had no weight. Nothing in it was heavier than anything else,/
+and a stone and a feather lay together and could not be told apart./
+It had no hour. Nothing in it came before or after, so nothing in it came./
+Some say it was dark. It was not dark. Dark is a measure of the light./
+Some say it was cold. It was not cold. Cold is a measure of the fire./
+It was the way a field is in the fog before dawn on the high terraces,/
+when you go out to the wall and cannot see your hand or the wall,/
+and you do not know if the wall is a step away or a day away,/
+and you stand still, because to walk is to choose a distance, and you cannot.
 
-Twelve were within. Not twelve yet: twelve is number./
-Like trees in fog, there, not visible yet./
-Weaver with wheel. She spins. That is her work./
-Thread flows off wheel, never ends, lies in Unmeasured./
-Useless. Endless thread makes no cloth./
-Keeper of Sacred Wisdom with her book. Cannot open./
-Without measure, no knowledge. Without knowledge, no writing./
-Forge-Lord has fire, neither hot nor cold. Wayfarer walks,/
-arrives nowhere. No place farther than another./
-Thunderer cannot distinguish thunder from silence. Bountiful One/
-has plenty, cannot count. Uncounted plenty is no plenty./
-Keeper of Gates stands two-faced. Has no doorway./
-[[lore-selmorosdty|Silent Judge]] is there, silent. Nothing comes to him.
+And in it were the Twelve, and they were not yet the Twelve, for twelve is a count./
+They were in it as the trees are in the fog, there and not yet shown./
+The Weaver was there with a wheel, and she spun, for spinning is what she does,/
+and the thread ran off the wheel and did not end, and lay in the Unmeasured,/
+and it was no use. A thread that does not end will not make a cloth./
+The Keeper of Sacred Wisdom was there with her book and could not open it,/
+for what is not measured cannot be known, and what is not known cannot be written./
+[[lore-ustarondty|The Forge-Lord]] had a fire that was neither hot nor cold. [[lore-pozerasdty|The Wayfarer]] walked,/
+and arrived nowhere, for nowhere was any farther than anywhere else./
+[[lore-brazemasdty|The Thunderer]] could not tell his thunder from the quiet. [[lore-olveniadty|The Bountiful One]]/
+had plenty and could not count it, and plenty that is not counted is not plenty./
+[[lore-ardavondty|The Keeper of the Gates]] stood with his two faces and had no door to stand in./
+And the [[lore-selmorosdty|Silent Judge]] was there, and was silent, and nothing came to him.
 
-Then Keeper of Sacred Wisdom speaks first word. A question./
-She is the asker. Cities keeping her still ask./
-She says: We cannot continue thus. Have measure, or have none?/
-That is first word. Remember, Euthalos. No command. A motion.
+Then the Keeper of Sacred Wisdom spoke, the first word, and the word was a question,/
+for she is the one who asks, and the cities that keep her ask still./
+She said: "We cannot go on like this. Shall we have a measure, or shall we not?"/
+That was the first word. Mark it, Euthalos. It was not a command. It was a motion.
 
-Gods argue like elders at assembly,/
-when oil price falls, herald calls levy, nobody wants to go./
-Long and loud. Same matter from twelve mouths./
-Bountiful One says: Give me measure. Let me know my plenty./
-Thunderer says: Give none. Measuring storm makes small rain./
-Nurturer says: Give measure. Child must be carried for time./
-Mistress of Waning Moon says: Give measure. Give it an end./
-I am waning. No end, no work for me./
-Forge-Lord says: Give measure. Lengthless sword is no sword./
-Dreamer says nothing. Sleeps. Imagines measure’s being./
-Silent Judge says nothing, as he does. Waits./
-Wild Beast says: Give none. I run. I want no fence or gate./
-Measure world, measure me. I refuse my measuring.
+And the gods argued. They argued the way the old men argue in the assembly,/
+when the price of oil is down and the levy is called and nobody wants to go,/
+for a long time and loudly, with the same thing said by twelve mouths./
+The Bountiful One said: give me a measure, so that I can know my plenty./
+The Thunderer said: give me none, for a storm that is measured is a shower./
+[[lore-lizelasdty|The Nurturer]] said: give me a measure, for a child must be carried a time./
+[[lore-morvanadty|The Mistress of the Waning Moon]] said: give me a measure, and give it an end,/
+for I am the waning, and without an end there is nothing for me to do./
+The Forge-Lord said: give me a measure, for a sword without a length is no sword./
+[[lore-zunelasdty|The Dreamer]] said nothing, and slept, and dreamed what the measure would be./
+The Silent Judge said nothing, for he says nothing, and waited./
+And the Wild Beast said: give me none. I run. I want no fence and no gate./
+If you measure the world you will measure me, and I will not be measured.
 
-Then Keeper of Gates says: Decide by stones./
-Each god takes stone. White for measure, black against./
-They throw into jar as we throw into voting jar now./
-Keeper of Gates pours jar, counts stones./
-Eleven white stones. Eleven. No black inside./
-Wild Beast takes his black stone. Never throws inside./
-Turns direction. Throws into Unmeasured with all strength./
-It still falls, Euthalos. Never arrives. Never will./
-That is world’s margin, where measure cannot arrive:/
-forest beyond last terrace, wolf, hail in harvest month,/
-fever killing strong boy, leaving old man coughing./
-Things come from margin, black stone falling there. Uncounted.
+Then the Keeper of the Gates said: let us put it to the stones./
+And each of them took a stone, a white stone for measure and a black against,/
+and they cast them into a jar, the way we cast them now at the urn,/
+and the Keeper of the Gates poured out the jar and counted them,/
+and eleven stones were white. Eleven. And there was no black stone in the jar./
+For the Wild Beast had taken his stone, the black one, and had not cast it,/
+but turned and threw it out into the Unmeasured as hard as he could throw,/
+and it is falling still, Euthalos. It has not landed. It will not land./
+That is why there is a margin to the world where the measure does not reach,/
+the wood beyond the last terrace, the wolf, the hail in the month of the harvest,/
+the fever that takes the strong boy and leaves the old man coughing./
+Things come out of the margin, where the black stone is falling, and are not counted.
 
-After counting, Keeper of Sacred Wisdom opens book./
-Writes: Motion wins by eleven. Twelfth does not vote. Then measures./
-Takes Weaver’s endless thread. Measures length./
-Weaver cuts there. That length is world’s length./
-Keeper of Gates sets doors inside: day and night,/
-summer and winter, living and dead./
-He stands in every door, serene face inward, hard face outward./
-Forge-Lord strikes mountains with hammer, each measured high./
-Thus highlands stand in groups. Thus terraces hold./
-Wayfarer walks one end of world to other, counts steps./
-That is road’s length. Thunderer carries storms to winter./
-Sometimes may leave winter. Returns when called./
-Nurturer takes spring. Bountiful One autumn./
-Mistress of Waning Moon takes each season’s end./
-Dreamer takes night, day’s measure turned about./
-Silent Judge takes last door, dead’s door. Stands inside.
+When the stones were counted the Keeper of Sacred Wisdom opened her book,/
+and wrote in it: carried, by eleven, the twelfth abstaining. And then she measured./
+She took the Weaver's thread, that had no end, and measured off a length,/
+and the Weaver cut it there, and that length is the length of the world./
+The Keeper of the Gates set the doors in it: the door of the day and the night,/
+the door of the summer and the winter, the door of the living and the dead,/
+and he stands in all of them, with his serene face turned in and his stern face out./
+The Forge-Lord beat out the mountains with his hammer, each a measured height,/
+and that is why the highlands stand in ranks, and why the terraces hold./
+The Wayfarer walked from one end of the world to the other and counted his steps,/
+and that is the length of a road. The Thunderer took his storms to the winter,/
+and is let out of the winter now and then, and comes back when he is called./
+The Nurturer took the spring and the Bountiful One took the autumn,/
+and the Mistress of the Waning Moon took the end of every one of them,/
+and the Dreamer took the night, which is the measure of the day turned over./
+And the Silent Judge took the last door, the door of the dead, and stood in it.
 
-Last Weaver spins mortals, us, brother, you and me./
-Each a thread. Keeper of Sacred Wisdom measures each./
-Some long, some short, as thread is. Weaver cuts./
-Thus we die. No punishment. Length./
-A lengthless person stands in margin with Beast and falling stone,/
-running, nobody owing him, nobody at door to receive./
-Silent Judge receives thread-ends. Says nothing over them./
-The city of thread’s cloth speaks words for him.
+Last of all the Weaver spun the mortals, us, my brother, you and me,/
+each a thread, and the Keeper of Sacred Wisdom measured each one off,/
+some long and some short, as the thread was, and the Weaver cut them./
+That is why we die. It is not a punishment. It is the length./
+A man without a length would be in the margin with the Beast and the falling stone,/
+running, and nothing owed to him, and no one at the door to receive him./
+The Silent Judge receives the ends of the threads, and says nothing over them,/
+and the city that the thread was woven into says the words for him.
 
-Gods give mortals one more thing. Animals never receive it./
-A voice for arguing, voice of gods’ first deed./
-So mortals can do gods’ work, hold assembly,/
-cast stones for a matter, count, speak number aloud./
-Ox has no assembly. Wolf none. They were in fog at stone-casting./
-We have assembly: gods vote world. We belong to world./
-Enough of gods, Euthalos. Schools call me incorrect./
-Let them. Listen to other thing. It feeds you.
+And the gods gave the mortals one thing more, that the beasts were not given./
+They gave them the voice to argue with, the voice the gods used first,/
+so that the mortals could do what the gods had done, and hold an assembly,/
+and put a thing to the stones, and count them, and say the count aloud./
+The ox has no assembly. The wolf has none. They were in the fog when the stones were cast./
+We have one, because the world was voted, and we are the world's own./
+So much for the gods, Euthalos. The schools will tell you I have it wrong./
+Let them. Now listen to the other thing, for the other thing will feed you.
 
-You carry father’s terraces to city. Long-sleeved men/
-take them from you, high and low, old wall and new./
-They take by speaking. You pay their opposed speeches./
-I never forbid speaking. Gods speak first. Speak in assembly,/
-where each man hears, where count is loud and twice,/
-not room of three speakers with fourth paying all./
-One terrace remains, steep under ridge, old trees./
-Here is keeping it, eating from it, dying upon it in your bed.
+You took our father's terraces to the city, and the men with the long sleeves/
+took them from you, the upper and the lower, the old wall and the new,/
+and they took them by speaking, and you paid them to speak against each other./
+I do not say do not speak. The gods spoke first. I say speak in the assembly/
+where every man can hear you and the count is made aloud and twice,/
+and not in a room where three men speak and the fourth man pays all three./
+You have one terrace left, the steep one under the ridge, with the old trees./
+Here is how to keep it, and how to eat from it, and how to die on it in your bed.
 
-Winter: Thunderer leaves. Rain descends ridge./
-Climb. See wall. Never wait for wall’s falling speech./
-Wall speaks when falling. Then stone-pile, soil in valley./
-Climb with basket in rain. Find moving stone,/
-leaning like old man asleep on bench. Take it out./
-Set again, long face inward hill, outward face toward rain and wind./
-Terrace is wall with field above. Keep wall. Field keeps itself.
+In the winter, when the Thunderer is let out and the rain comes down the ridge,/
+go up and look at the wall. Do not wait for the wall to tell you it is falling./
+A wall tells you when it falls, and then it is a heap and the soil is in the valley./
+Go up with a basket in the rain and find the stone that has moved,/
+the one that leans out like an old man asleep on a bench, and take it out,/
+and set it again, with its long side into the hill and its face to the weather./
+A terrace is a wall with a field on it. Keep the wall and the field keeps itself.
 
-Cranes cross northward. Spring arrives. Cut then./
-Cut straight-upward growth. It carries no fruit, takes water./
-Cut crossing wood. Two branches rub each other raw in one place./
-Leave outward wood, low and sideways like man’s reach for cup./
-Ask old trees for old trees, never young. They bear.
+When the cranes go over going north, the spring is coming. Prune then./
+Cut the wood that grew straight up, for it bears nothing and it takes the water./
+Cut the wood that crosses, for two branches in one place rub each other raw./
+Leave the wood that reaches out, low and sideways, as a man reaches for his cup./
+Do not ask the old trees to be young. Ask them to be old trees, and they will bear.
 
-Summer sea is open, ships’ season, sailing season./
-Men descend to harbor with oil jars. Return silver./
-Go if necessary. I do not love it. Go at summer’s middle,/
-wind steady from one direction, sea smooth as threshing floor./
-Return before southbound cranes. Winter follows./
-Winter water belongs to Thunderer. He does not share./
-I see jars return without man. Measure cargo./
-Carry measure aboard, never beyond, as gods measure world.
+In the summer the sea is open. That is the season of the ships, the season of the sailing,/
+and men go down to the harbor with jars of oil and come back with silver./
+Go if you must. I do not love it. But if you go, go in the middle of the summer,/
+when the wind is steady and from one quarter and the sea is flat as a threshing-floor,/
+and come home before the cranes come back going south, for after that the winter,/
+and the winter on the water is the Thunderer's, and he does not share it./
+I have seen the jars come home and the man not with them. Measure your cargo./
+Load the ship to the measure and not over, as the gods measured the world.
 
-Autumn olives. Never strike tree. Struck tree remembers./
-Cover earth with cloth. Comb branch with fingers. Let ripe fruit fall./
-Unfallen fruit is unripe. Its day next week./
-Carry to press on picking day, never next day./
-Olive waiting one day sours like quarrel waiting one year./
-First pressing gods, second house, third lamp.
+In the autumn the olives. Do not beat the tree. A beaten tree remembers./
+Spread the cloth and comb the branch with your fingers, and let the ripe ones fall,/
+and the ones that do not fall are not ripe, and their day is next week./
+Take them to the press the day you pick them, not the day after./
+An olive that waits a day goes sour, as a quarrel goes sour that waits a year./
+The first pressing is for the gods and the second is for the house and the third is for the lamp.
 
-Honor gods. Give first pressing, fruit, kid./
-Speak as a man, Euthalos, never slave to master./
-When Bountiful One gives bad year, speak at her altar./
-Say: I give first pressing. You give hail. What do you mean?/
-She never answers. They never answer. She hears./
-God hearing before neighbors thinks twice.
+Honor the gods. Give them the first pressing and the first fruit and the first kid./
+But speak to them as a man, Euthalos, not as a slave to a master./
+When the Bountiful One gives you a bad year, tell her so at her altar./
+Say: I gave you the first pressing and you gave me hail. What is the meaning of this?/
+She will not answer. They do not answer. But she will have heard it said,/
+and a god who has heard it said in front of the neighbors will think twice.
 
-Go to assembly with nothing to say. Listen./
-Go with words. Speak. Sit./
-Man refusing to rise and face questions is coward./
-Man rising with nothing defensible is wanderer,/
-from opinion to opinion like unshepherded hill-goat./
-Have first principle. Stand upon it. Argue from it. Stand again.
+Go to the assembly. Go when you have nothing to say and listen./
+Go when you have something to say, and say it, and sit down./
+The man who will not stand up and be asked about what he says is a coward,/
+and the man who stands up and says nothing he can defend is a wanderer,/
+going from one opinion to the next like a goat on a hill without a herdsman./
+Have a first thing you hold to. Stand on it. Argue from it. Stand on it again.
 
-Bind friend in old way before gods, with salt./
-Do him good. Let him do good. Never count./
-Count oil, jars, moon’s days. Never friend./
-At your death friend stands at rites, speaks your being./
-If he knows nothing, nobody knows. Thread without surrounding cloth.
+Bind a friend to you in the old way, before the gods, with salt./
+Do him a good turn and let him do you one, and do not count them./
+Count the oil, and count the jars, and count the days of the moon. Do not count a friend./
+When you die it will be your friend who stands at the rites and says who you were,/
+and if he does not know, no one will, and you will be a thread with no cloth around it.
 
-Take wife at thirty, younger than you, from next valley./
-Know her mother. See her father’s wall in rain./
-Never take her for terraces: terraces go to law. Take hands,/
-and tongue she needs in your house, as you need yours./
-Good wife keeps jar-count, knows last jar,/
-speaks before winter, not after. Listen./
-Bad wife leans like wall, never tells. Such exist./
-See mother’s wall first. Then see her a long time.
+Take a wife when you are thirty and she is younger, from the next valley,/
+whose mother you know and whose father's wall you have seen in the rain./
+Do not take her for her terraces. Terraces go to law. Take her for her hands,/
+and for her tongue, for she will need it in your house, as you will need yours./
+A good wife keeps the count of the jars, and knows which one is the last one,/
+and says so before the winter, not after. Listen to her when she says so./
+A bad wife is a wall that leans and does not tell you. There are such./
+Look at her mother's wall before you look at her. Then look at her a long time.
 
-Herald arrives up valley, calls levy. Descend with spear./
-Never hide in olives. City is terraces’ supporting wall./
-It falls, every valley terrace moves down to sea./
-Stand in shield-line where placed. Keep shield for left-hand man./
-Right-hand man keeps his for you. Whole art./
-If you fall, herald walks field after fighting./
-Asks for you. They surrender you. Our custom. You return./
-Friend speaks your being. They lay you beside our father./
-Fall well if you fall. Face line’s direction. Fall where found./
-A fleeing man dies in scrub. Herald searches long./
-I prefer your homecoming. Terrace needs man, wall repair./
-Come home, Euthalos. No glory on steep terrace. Oil.
+When the herald comes up the valley and calls the levy, go down with your spear./
+Do not hide in the olives. The city is the wall that the terraces lean on,/
+and if it falls, every terrace in the valley slides down to the sea./
+Stand in the line where they put you, and hold your shield for the man on your left,/
+for the man on your right holds his for you, and that is the whole of the art./
+If you fall, the herald will walk out on the field when the fighting is over/
+and ask for you, and they will give you up, for that is what we do, and you will come home,/
+and your friend will say who you were, and they will lay you by our father./
+So fall well, if you fall. Fall facing the way the line faced. Fall where they can find you./
+A man who dies running dies in the brush, and the herald looks for him a long time./
+But I would rather you came home. The terrace needs a man and the wall needs mending./
+Come home, Euthalos. There is no glory on the steep terrace. There is oil.
 
-Moon’s days: first begins a wall./
-Fifth is bad. Beast’s stone passes moon on fifth./
-Sign nothing fifth. Never marry or sail. Repair basket./
-Ninth good for sowing, tenth for taking wife./
-Twelfth for gods, all twelve. Man does no work then,/
-only altar, assembly if one exists, arguing there./
-Moon’s last day is Mistress’s. Pick nothing. Throw nothing out.
+Of the days of the moon: the first day is for beginning a wall./
+The fifth day is a bad day, for the Wild Beast's stone went past the moon on the fifth./
+Do not sign anything on the fifth. Do not marry. Do not sail. Mend a basket./
+The ninth is good for planting and the tenth for taking a wife./
+The twelfth day is for the gods, all twelve, and on that day a man does no work/
+but goes to the altar, and to the assembly if there is one, and argues there./
+The last day of the moon is the Mistress's. Pick nothing on it. Throw nothing out.
 
-You ask, Euthalos, having learned asking in city,/
-world’s ending, measured world. Schools ask too./
-I tell my little knowledge. Then stop./
-World has length like you. Weaver cuts it. It ends./
-Some say Weaver spins again at end. Twelve sit./
-Stones cast again. Second count might differ./
-Some say black stone finally arrives where Unmeasured stands./
-Then no margin. Or nothing but margin./
-I do not know. Neither I nor schools see thread’s ending./
-I know ridge’s wall has stone leaning like old man./
-Rain arrives. Cranes already cross. First moon-day./
-I climb to wall, brother. Come if coming. Bring basket.
+You will ask me, Euthalos, because you went to the city and learned to ask,/
+how it ends, the world that was measured. The schools ask me that too./
+I will tell you what I know, and it is little, and then I will stop./
+The world has a length, as you do. The Weaver cut it. So it ends./
+Some say that at the end the Weaver will spin again, and the Twelve will sit,/
+and the stones will be cast again, and the count may be different the second time./
+Some say the black stone will land at last, wherever the Unmeasured is,/
+and then there will be no margin, or there will be nothing but margin./
+I do not know. I have not seen the end of the thread, and nor have the schools./
+I know that the wall under the ridge has a stone leaning out like an old man,/
+and the rains are coming, and the cranes are over, and it is the first day of the moon./
+I am going up to the wall, my brother. Come, if you are coming. Bring the basket.
 :::
 
-::: {.verse form=didactic-verse lang=helo enc=helohelonikaenc work=poem}
-Nemathir enth khulithin. Koum thu Filir er Biblathin frun astrin perith./
-Egh ésarin anerith er hupsel poltharin. Egh ekhárin medhin mathelin plor eniauthin./
-Egh sorarin eniauthin. Koum prineth eniauthin praghin er pratharin hein./
-Métharin. Koum hikathin er métharin. Koum ánthimor eketh koum ánthimor uf eketh./
-Koum thu Euthalos adhelir er egh. Parikhor ónomarin thu pir elmirin er heir pir thu./
-Akrotharin heum. Pautharin akrotharin anerith in pólithar frun makrir kramelin.
+::: {.verse form=didactic-verse lang=helo enc=helohelonikaenc work=poem scan=hexameter}
+Nemathir enth khulithin, koum thu, Filir er biblathin frun astrin perith,/
+egh anerith er poltharin, medhin mathelin ekhárin plor eniauthin,/
+koum egh sorarin eniauthin, koum prineth eniauthin praghin er pratharin hein,/
+métharin, koum poseth métharin hikarin, koum thir ésarin, koum thir uf ésarin./
+Koum thu, Euthalos, adhelir er egh, parikhor ónomarin thu pir elmirin er heir,/
+akrotharin heum, koum neur anerith er makrir kramelin‼
 
-Prineth kosamir Amethrin ésarin. Egh rhéthasin pir thu onthin er hein./
-Hein ekhárin medhin perathin. Praghin in hein uf pautharin enth hosthir tofelin. Der hein uf ésarin praghin./
-Hein ekhárin medhin barethin. Praghin in hein uf ésarin plethir barethir eil er heter praghin./
-Lithorin koum pterin khelrin frun. Anthmerin uf dunatharin nemarin meun afor heter./
-Hein ekhárin medhin horin. Praghin in hein uf érkharin prineth eil huster. Der medhin praghin érkharin./
-Fom ánthimor rhéthasin hein ésarin skothelir. Hein uf ésarin skothelir. Skothelir ésarin métharin er kirathin./
-Fom ánthimor rhéthasin hein ésarin krumir. Hein uf ésarin krumir. Krumir ésarin métharin er ithrin./
-Hein ésarin hoth aghelin in foghelin prineth eothira enth hupsel poltharin./
-Hoseth thu érkharin ekor prou teikhir. Thu uf dunatharin meltharin kheirin er thu eil teikhir./
-Thu uf epistémarin rheth teikhir ésarin meun badhin eil meun hemerin telir./
-Thu statharin. Dheir badhelin ésarin hairelarin diasthelin. Thu uf dunatharin.
+Prineth kosamir ésarin Amethrin, koum egh rhéthasin thin hein ésarin./
+Uf perathin. Praghin in hein pautharin medhin tofelin, der uf praghin./
+Uf barethin. Medhin praghin in hein barethir eil er hosthin heter,/
+koum lithorin koum pterin khelrin pef, meun, hometh, uf heterir./
+Uf horin. Medhin prineth eil huster, der medhin hikathin./
+Fom ánthimor rhéthasin «Skothelir.» Noir. Olthelin métharin er kirathin./
+Fom ánthimor rhéthasin «Krumir.» Noir. Krumira métharin er ithrin./
+Hoth aghelin in foghelin prineth eothira, enth poltharin,/
+hoseth thu érkharin prou teikhir koum uf meltharin kheirin eil teikhir,/
+koum uf epistémarin, meun badhin eil meun hemerin apeth,/
+koum thu statharin, dheir badhelin ésarin hairelarin diasthelin, koum thu uf dunatharin.
 
-Koum in hein ésarin 12. Helin uf ésarin 12 meil. Dheir 12 ésarin arithmas./
-Helin ésarin in hein hoth dhendhir in foghelin. Eketh koum uf melthir meil./
-Nemathir ésarin eketh frun khulithin. Heira nematharin. Heum ésarin prathin er heira./
-Nemathin rhézarin afor khulithin. Hein uf pautharin. Hein khelrin in Amethrin./
-Hein uf ésarin khresir. Nemathin frun medhin telthin uf pratharin hufasin./
-Filir er Thásira Sothira ésarin eketh frun biblathin er heira. Heira uf dunatharin anoigharin hein./
-Praghin er uf métharin uf dunatharin epistémarin. Praghin er uf epistemin uf dunatharin grafarin./
-Andáhr er Khamethin ekhárin ithrin. Ithrin uf ésarin thermir koum uf krumir. Hodhir badhelin./
-Koum hikarin medhin tofelin. Dheir medhin tofelin ésarin telir eil er heter tofelin./
-Bronthir uf dunatharin nemarin bronthin afor sighelin. Dorasir./
-Ekhárin polir praghin. Uf dunatharin arithmarin hein. Uf arithmarin polir uf ésarin polir./
-Filir er Pilin statharin frun drin prosarin. Heir ekhárin medhin thurin pir statharin./
-Koum Sighelir Dikhar ésarin eketh. Heir sotharin sighelin. Medhin praghin érkharin prou heir.
+Koum in hein ésarin Zekhor koum Drin, uf meil, dheir arithmas zekhor koum drin./
+Helin ésarin in hein hoth dhendhir in foghelin, eketh koum uf meil melthir./
+Nemathir frun khulithin nematharin, dheir heum pratharin heira,/
+koum nemathin rhézarin afor hein, uf pautharin, koum khelrin in Amethrin,/
+koum uf khresir. Nemathin frun medhin telthin uf pratharin hufasin./
+Filir er Thásira Sothira frun biblathin, koum uf dunatharin anoigharin,/
+dheir uf métrarin, uf epistémarin, koum uf epistémarin, uf grafarin./
+Andáhr er Khamethin ekhárin ithrin, uf thermir, uf krumir./
+Hodhir badhelin, medhin hikarin, dheir medhin telir./
+Bronthir uf dunatharin nemarin bronthin afor sighelin./
+Dorasir ekhárin polir, koum uf dunatharin arithmarin hein,/
+koum polir uf arithmarin, uf ésarin polir, uf polir./
+Filir er Pilina, drin prosarin, koum thurin medhin./
+Koum Sighelir Dikhar eketh, sighelir, koum medhin hikarin prou heir.
 
-Tothel Filir er Thásira Sothira rhéthasin in arithmas meun lékhisir. Lékhisir ésarin pethin./
-Dheir heira ésarin heira er erotharin. Pólithar er sotharin heira ethel erotharin./
-Heira rhéthasin. Herin uf dunatharin sunekharin hoth heum. Rheth herin ekhárin métharin eil uf ekhárin métharin./
-Heum ésarin in arithmas meun lékhisir. Nemorarin Euthalos. Hein uf ésarin kelethein. Hein ésarin hupethin.
+Tothel Filir er Thásira Sothira rhéthasin fom pethin,/
+dheir heira erotharin, koum pólithar er heira erotharin ethel./
+Heira rhéthasin, «Herin uf dunatharin sunekharin hoth heum./
+Herin ekhárin métharin, eil herin ekhárin medhin?»/
+Heum, lékhisir in arithmas meun. Nemorarin hein‼/
+Hein uf ésarin kelethein, Euthalos. Hein ésarin hupethin.
 
-Koum thásirin antilekharin. Hoth gerathir anerith in agelon./
-Hoseth mothin er krenethin ésarin khamelir. Kerukhir kaleitharin hoplothin. Medhin ánthimor oratharin érkharin./
-Makrir er khronin. Thareth. Hometh praghin afor 12 stomir./
-Dorasir rhéthasin. Dorasarin métharin pir egh. Der egh dunatharin epistémarin polir er egh./
-Bronthir rhéthasin. Neur dorasarin métharin. Dheir métharin er khemin pratharin mikrir ombrin./
-Auksathir rhéthasin. Dorasarin métharin. Tekir ésarin anaghelir féranin pir khronin./
-Andáhr er Meitharin er Selenir rhéthasin. Dorasarin métharin. Koum dorasarin telthin pir hein./
-Dheir egh ésarin Meitharin. Frun medhin telthin egh ekhárin medhin prathin./
-Andáhr er Khamethin rhéthasin. Dorasarin métharin. Kadzarin frun medhin perathin uf ésarin kadzarin./
-Oneirir rhéthasin medhin. Heir hufarin. Heir fanthelin onthin er métharin./
-Sighelir Dikhar rhéthasin medhin. Dheir heir rhéthasin medhin. Heir menarin./
-Agrin Thernin rhéthasin. Neur dorasarin métharin. Egh drametharin. Egh uf oratharin kadrin eil pilin./
-Eith thu métrarin kosamir. Thu métrarin egh. Egh arneitharin métharin pir egh.
+Koum thásirin antilekharin, hoth gerathir anerith in agelon,/
+hoseth mothin er krenethin kateth, koum hoplothin kaleitharin,/
+koum medhin oratharin érkharin, makrir khronin koum thareth,/
+hometh lékhisir afor zekhor koum drin stomir./
+Dorasir rhéthasin, «Dorasarin métharin pir egh, der egh epistémarin polir er egh.»/
+Bronthir, «Dorasarin medhin, dheir khemin er métharin, ombrin.»/
+Auksathir, «Dorasarin métharin, dheir tekir féranin fom khronin.»/
+Andáhr er Meitharin er Selenir rhéthasin, «Dorasarin métharin,/
+koum dorasarin telthin pir métharin, dheir egh ésarin Meitharin,/
+koum frun medhin telthin egh ekhárin medhin praghin pir pratharin.»/
+Andáhr er Khamethin rhéthasin, «Dorasarin métharin,/
+dheir kadzarin frun medhin perathin, kadzarin medhin ésarin.»/
+Oneirir rhéthasin medhin, hufarin, oneirarin métharin./
+Sighelir Dikhar rhéthasin medhin, hoth aeith, koum menarin./
+Koum Agrin Thernin rhéthasin, «Dorasarin medhin. Egh drametharin./
+Egh uf oratharin kadrin, egh uf oratharin pilin./
+Eith thu métrarin kosamir, thu métrarin egh prostheth, koum egh uf efarin heum.»
 
-Tothel Filir er Pilin rhéthasin. Herin kritharin hein frun lithorin./
-Plum thásirin lámbarin lithorin. Leukhelir pir métharin. Melanir pir arneitharin./
-Helin rhiptharin lithorin in stamnin. Hoth herin rhiptharin nuneth in stamnin er thresos./
-Filir er Pilin sulathin stamnin. Heir arithmarin lithorin./
-11 lithorin ésarin leukhelir. 11. Medhin melanir lithorin in stamnin./
-Agrin Thernin lámbarin lithorin er heir. Melanir. Koum uf rhiptharin hein in stamnin./
-Heir allatharin trofelin. Heir rhiptharin ekor in Amethrin frun plum stenir er heir./
-Hein ethel piptharin Euthalos. Hein uf hikarin. Hein uf hikarin in mellin./
-Heum ésarin aithelin er khrosin er kosamir. Métharin uf hikarin prou hein./
-Drumin perol telesth poltharin. Leukhor. Khruthin in menethin er cholsama./
-Nosathin kenarin stenir paidhelir. Koum leiparin gerathir anerith sulkarin./
-Praghin érkharin ekor afor khrosin. Eketh melanir lithorin piptharin. Helin uf ésarin arithmarin.
+Tothel Filir er Pilina rhéthasin, «Thetharin hein prou lithorin‼»/
+Plum lámbarin leukhelir pir métharin koum melanir enanthelir,/
+koum rhiptharin helin in stamnin, hoth herin nuneth enth stamnin,/
+koum Filir er Pilina anoigharin stamnin koum arithmarin helin,/
+koum zekhor koum meun ésarin leukhelir. Zekhor koum meun!/
+Koum medhin lithorin melanir ésarin in stamnin eketh./
+Dheir Agrin Thernin lámbarin melanir er authel, koum uf rhiptharin,/
+almon huzarin koum rhiptharin hein esor Amethrin, hoth heir dunatharin,/
+koum piptharin ethel, Euthalos. Uf hikarin. Medhin khronin./
+Der kosamir ekhárin khrosin, enth métharin uf hikarin eketh,/
+drumin perol poltharin, leukhor, khruthin in thérisin,/
+nosathin lámbarin stenir paidhelir, gerathir sulkarin./
+Afor khrosin, enth melanir lithorin piptharin ethel,/
+praghin érkharin, koum medhin arithmarin helin.
 
-Huster arithmarin lithorin Filir er Thásira Sothira anoigharin biblathin./
-Heira grafarin in hein. Hupethin nikharin frun 11. In arithmas 12 uf sfratharin. Tothel heira métrarin./
-Heira lámbarin nemathin er Nemathir. Hein ekhárin medhin telthin. Heira métrarin perathin./
-Nemathir thametharin hein eketh. Heun perathin ésarin perathin er kosamir./
-Filir er Pilin thetharin thurin in hein. Thurin er hemerin koum nikhtir./
-Thurin er thérimos koum khemon. Thurin er zelir koum thaner./
-Heir statharin in plum thurin. Hesu prosarin prou esor. Sterir prosarin prou ekor./
-Andáhr er Khamethin tufarin órasin frun sfurelin. Plum órasin ekhárin métharin er hupsel./
-Der hupsel ghéranis statharin in homelin. Der poltharin sotharin./
-Hodhir badhelin afor meun telthin er kosamir prou heter telthin. Heir arithmarin badhin./
-Heum ésarin perathin er hodhis. Bronthir féranin khemin prou khemon./
-Heir ekhárin efir érkharin ekor afor khemon fom khronin. Heir nostharin hoseth kaleitharin./
-Auksathir lámbarin ánthira. Dorasir lámbarin trúghira./
-Andáhr er Meitharin er Selenir lámbarin telthin er plum horathin./
-Oneirir lámbarin nikhtir. Heum ésarin métharin er hemerin allatharin trofelin./
-Sighelir Dikhar lámbarin telesth thurin. Thurin er thaner. Heir statharin in hein.
+Tothel Filir er Thásira Sothira anoigharin biblathin,/
+koum grafarin heum in biblathin, «Thresarin frun zekhor koum meun,/
+in arithmas zekhor koum drin uf sfratharin.» Heira métrarin./
+Heira lámbarin nemathin er Nemathir, koum métrarin perathin,/
+koum Nemathir thametharin eketh. Heun perathin er kosamir./
+Filir er Pilina thetharin thurin er hemerin koum er nikhtir,/
+thurin er thérimos koum khemon, thurin er zelir koum thaner./
+Heir statharin eketh, hesu esor, sterir ekor./
+Andáhr er Khamethin tufarin órasin frun sphurin, métrarin,/
+der hupsel ghéranis statharin in estralin, koum poltharin sotharin./
+Hodhir badhelin telthin prou telthin, koum arithmarin badhin,/
+perathin er hodhin. Bronthir féranin khemin prou khemon,/
+fom khronin érkharin ekor, koum nostharin hoseth kaleitharin heir./
+Auksathir lámbarin ánthira, koum Dorasir lámbarin trúghira,/
+koum Andáhr er Meitharin er Selenir lámbarin telthin er plum,/
+koum Oneirir lámbarin nikhtir, métharin er hemerin opisthe./
+Koum Sighelir Dikhar lámbarin telesth thurin er thaner.
 
-Telesth Nemathir nematharin telethanir. Herin. Adhelir er egh. Thu koum egh./
-Plum meun nemathin. Filir er Thásira Sothira métrarin plum meun./
-Fom makrir. Fom brakhelir. Hoth nemathin ésarin. Nemathir thametharin helin./
-Heum ésarin aithelin er thanearin er herin. Hein uf ésarin kolathin. Hein ésarin perathin./
-Ánthimor frun medhin perathin ésarin in khrosin frun Agrin Thernin koum piptharin lithorin./
-Drametharin. Medhin ánthimor ekharin ofeilin prou heir. Medhin ánthimor enth thurin pir lámbarin heir./
-Sighelir Dikhar lámbarin telthin er nemathin. Heir rhéthasin medhin epir helin./
-Pólithar er hufasin er nemathin rhéthasin lékhisir pir heir.
+Telesth Nemathir nematharin telethanir, herin, adhelir, thu koum egh,/
+meun nemathin, koum Filir er Thásira Sothira métrarin,/
+fom makrir, fom brakhelir, hoth nemathin ésarin, koum Nemathir thametharin./
+Der herin thanearin. Uf kolathin ésarin. Perathin ésarin./
+Anerith frun medhin perathin ésarin in khrosin frun Thernin,/
+koum lithorin er piptharin, drametharin, koum medhin ofeilin pir heir ésarin,/
+koum medhin ánthimor enth thurin er thaner pir lámbarin heir eketh./
+Sighelir Dikhar lámbarin telthina, koum rhéthasin medhin,/
+koum pólithar thin nemathin érkharin esor rhéthasin lékhisir pir heir.
 
-Koum thásirin dorasarin meun heter praghin prou telethanir. Thernin uf lámbarin hein./
-Helin dorasarin rhethin pir antilekharin. Rhethin er prineth plum prathin er thásirin./
-Der telethanir dunatharin pratharin prathin er thásirin. Koum ekhárin agelon./
-Koum rhiptharin lithorin pir praghin. Arithmarin helin. Rhéthasin arithmas thareth./
-Oukhthor ekhárin medhin agelon. Leukhor ekhárin medhin. Helin ésarin in foghelin hoseth thásirin rhiptharin lithorin./
-Herin ekhárin agelon. Dheir thásirin sfratharin kosamir. Herin ésarin er kosamir./
-Hikanir pir thásirin Euthalos. Mathelion rhéthasin egh ésarin uf orthelir./
-Efarin helin. Nuneth akrotharin heter praghin. Hein edharin thu.
+Koum thásirin dorasarin pir telethanir meun praghin plethir,/
+uf pir thernin, rhethin pir antilekharin, rhethin er thásirin,/
+der telethanir pratharin thin thásirin pratharin, koum ekhárin agelon,/
+koum thetharin prou lithorin, arithmarin, koum rhéthasin arithmas thareth./
+Oukhthor uf ekhárin agelon, koum uf leukhor. Helin in foghelin/
+hoseth lithorin rhiptharin. Herin ekhárin agelon,/
+dheir kosamir thresarin, koum herin ésarin er kosamir authel./
+Hikanir thásirin, Euthalos. Mathelion rhéthasin egh uf orthelir./
+Efarin helin‼ Nuneth akrotharin heter praghin,/
+dheir heum heter praghin dorasarin edhin pir thu.
 
-Thu féranin poltharin er parikhor er herin prou pólithar. Anerith frun makrir kramelin./
-Lámbarin poltharin afor thu. Hupsel koum khamelir. Palaisir teikhir koum nevaros./
-Helin lámbarin frun rhéthasin. Thu mistharin helin pir rhéthasin meun antheth heter./
-Egh uf rhéthasin neur rhéthasin. Thásirin rhéthasin prineth plum. Egh rhéthasin. Rhéthasin in agelon./
-Plum anerith dunatharin akherin thu. Arithmarin thareth koum drin horath./
-Uf in domethin. Trel anerith rhéthasin. In arithmas vesmor mistharin pir trel olasin./
-Thu ekhárin meun poltharin ethel. Steir poltharin hupor thornir. Palaisir dhendhir./
-Heum ésarin trofelin pir sotharin hein. Pir edharin afor hein. Pir thanearin epir hein in klinethin er thu.
+Thu féranin poltharin er parikhor er herin prou dikathin er pólithar,/
+koum anerith frun makrir kramelin lámbarin helin afor thu,/
+poltharin hupsel koum khamelir, palaisir teikhir koum nevaros,/
+frun lékhisir, koum thu mistharin helin pir antilekharin meun prou heter./
+Egh uf rhéthasin «Neur rhéthasin‼» Thásirin rhéthasin prineth./
+Egh rhéthasin «Rhéthasin in agelon‼», enth plum anerith akherin thu,/
+koum arithmas rhéthasin thareth koum drin horath, uf in domethin/
+enth trel rhéthasin, koum vesmor mistharin pir plum trel./
+Meun poltharin er thu, steir, hupor thornir, frun dhendhir./
+Enith poseth sotharin hein, poseth edharin afor hein,/
+koum poseth thanearin epir hein, in klinethin er thu, gerathir anerith.
 
-In khemon hoseth Bronthir érkharin ekor. Ombrin érkharin kateth thornir./
-Anabherin. Meltharin teikhir. Neur menarin mekhir teikhir rhéthasin piptharin./
-Teikhir rhéthasin hoseth piptharin. Tothel hein ésarin homelin er lithorin. Ghéranis pir auksarin ésarin in aulonin./
-Anabherin frun kalethin in ombrin. Heurarin lithorin er kinetharin./
-Hein klinorarin ekor hoth gerathir anerith hufarin epir makrir kathelin. Lámbarin hein ekor./
-Thetharin hein paleth. Makrir prosarin esor lofir. Prosarin prou ombrin koum ánevir./
-Poltharin ésarin teikhir frun aghelin epir hein. Sotharin teikhir. Aghelin sotharin authel.
+In khemon, Bronthir ekor, ombrin kateth thornir,/
+meltharin teikhir‼ Neur menarin lékhisir er teikhir‼/
+Teikhir rhéthasin eith piptharin, tothel ghéranis in aulonin./
+Anabherin frun kalethin in ombrin, koum heurarin lithorin thin kinetharin,/
+klinorarin ekor hoth gerathir hufarin epir kathelin./
+Lámbarin hein, thetharin paleth, perathin esor lofir,/
+koum prosarin prou ombrin‼ Poltharin ésarin teikhir frun aghelin./
+Sotharin teikhir‼ Tothel aghelin sotharin authel.
 
-Hoseth kranir érkharin dian prou borethin. Ánthira hikarin. Thametharin tothel./
-Thametharin hulithin er auksarin orthin aneth. Hein féranin medhin karfelin. Hein lámbarin hidhir./
-Thametharin dian hulithin. Drin kladherin in meun tofelin hestharin authel trakhir./
-Leiparin hulithin er féranin ekor. Khamelir koum pef. Hoth anerith féranin kheirin prou kulithin./
-Neur erotharin palaisir dhendhir pir nevaros. Erotharin palaisir dhendhir pir palaisir dhendhir. Helin féranin karfelin.
+Kranir prou borethin, ánthira hikarin. Thametharin tothel‼/
+Thametharin orthin‼ Féranin medhin, lámbarin hidhir./
+Thametharin dian kladherin‼ Drin hestharin authel./
+Leiparin kladherin ekor khamelir, hoth anerith prou kulithin‼/
+Neur erotharin gerathir dhendhir pir ghígnarin nevaros‼/
+Erotharin helin ésarin gerathir, koum helin féranin.
 
-In thérimos thálimir ésarin anoigharin. Horathin er naukir. Horathin er pléarin./
-Anerith érkharin kateth prou limenir frun stamnin er krenethin. Helin nostharin frun argirin./
-Érkharin eith anaghelir. Egh uf nerathin hein. Almon eith thu érkharin. Érkharin in mesin er thérimos./
-Hoseth ánevir ésarin stathir. Afor meun trofelin. Thálimir ésarin lisar hoth dafelin er áloh./
-Koum nostharin prou domin prineth kranir nostharin prou nothein. Huster heun khemon./
-Khemon epir hidhir ésarin er Bronthir. Heir uf nemetharin hein./
-Egh meltharin stamnin nostharin prou domin. Anerith uf frun helin. Métrarin barthin er thu./
-Féranin in naukir métharin. Neur huth hein. Hoth thásirin métrarin kosamir.
+In thérimos thálimir anoigharin. Heum horathin er naukir,/
+horathin er pléarin, koum anerith érkharin kateth prou limenir/
+frun stamnin er krenethin, koum nostharin frun stamnin plir er argirin./
+Érkharin, eith thu deetharin érkharin‼ Egh uf ekhárin nerathin pir heum./
+Almon eith thu érkharin, érkharin moneth in mesin er thérimos‼/
+Ánevir stathir, meun trofelin, thálimir hoth pedhin,/
+koum nostharin prineth kranir prou nothein, dheir huster khemon,/
+koum khemon epir thálimir ésarin er Bronthir, koum heir uf nemetharin hein./
+Egh meltharin stamnin nostharin, uf anerith. Métrarin barthin er thu‼/
+Barthin mekhir métharin, hoth thásirin métrarin kosamir‼
 
-In trúghira elaisir. Neur tufarin dhendhir. Dhendhir er tufarin nemorarin./
-Kalufarin ghéranis frun hufasin. Pethmarin kladherin frun dakhelin. Efarin tethrin piptharin./
-Karfelin er uf piptharin uf ésarin tethrin. Hemerin er helin ésarin in efeth dheren./
-Féranin helin prou thlifarin in hemerin er lampsarin. Uf in efeth hemerin./
-Elaisir menarin meun hemerin ghígnarin oksarin. Hoth preskon menarin meun eniauthin ghígnarin oksarin./
-In arithmas meun thlifin ésarin pir thásirin. In arithmas drin pir domin. In arithmas trel pir lukhnir.
+Trúghira, elaisir. Neur tufarin‼ Dhendhir nemorarin./
+Thetharin hufasin, pethmarin, efarin tethrin piptharin‼/
+Koum thin uf piptharin uf tethrin, hemerin er helin dheren efeth./
+Féranin helin prou thlifarin hemerin thu lampsarin, uf efeth‼/
+Elaisir menarin meun hemerin, oksarin ghígnarin,/
+hoth preskon oksarin ghígnarin menarin meun eniauthin./
+Thlifin in arithmas meun ésarin pir thásirin aeith,/
+in arithmas drin pir domin, in arithmas trel pir lukhnir.
 
-Dokhazin thásirin. Dorasarin helin prineth plum thlifin koum karfelin koum khosir./
-Almon rhéthasin pir helin hoth anerith Euthalos. Uf hoth doulir prou andáhr./
-Hoseth Dorasir dorasarin khasir eniauthin pir thu. Rhéthasin heum enth kor er heira./
-Rhéthasin. Egh dorasarin thu prineth plum thlifin. Thu dorasarin egh khruthin. Thu semanarin thin./
-Heira uf ameitharin. Helin uf ameitharin. Almon heira akherin heum./
-Thásirin akherin heum tror geitonir. Heira dókhanir drin horath.
+Dokhazin thásirin‼ Dorasarin prineth plum thlifin,/
+karfelin prineth plum, koum khosir prineth plum‼/
+Almon rhéthasin hoth anerith, Euthalos, uf hoth doulir prou andáhr‼/
+Eith Dorasir dorasarin pir thu khasir eniauthin,/
+rhéthasin heum prou heira enth kor er heira authel‼/
+Rhéthasin «Egh dorasarin thlifin prineth plum, koum thu khruthin pir egh./
+Thin semanarin heum?» Heira uf ameitharin./
+Helin uf ameitharin. Almon heira akherin hein rhéthasin,/
+koum thásirin akherin hein tror geitonir dókhanir drin horath.
 
-Érkharin prou agelon. Hoseth thu ekhárin medhin lékhisir. Érkharin koum akrotharin./
-Hoseth thu ekhárin lékhisir. Érkharin. Rhéthasin. Kathelarin./
-Anerith uf oratharin eghelarin koum ekhárin pethin pir lékhisir er heir ésarin kerdhelir./
-Anerith eghelarin koum rhéthasin medhin praghin er dunatharin sotharin ésarin planthis./
-Érkharin afor meun dokhin prou heter hoth guzethir epir lofir frun medhin herderin./
-Ekhárin arkhidhin. Statharin epir hein. Antilekharin afor hein. Statharin epir hein paleth.
+Érkharin prou agelon‼ Érkharin frun medhin lékhisir, koum akrotharin‼/
+Érkharin frun fom lékhisir, rhéthasin hein, koum kathelarin paleth‼/
+Anerith uf eghelarin pir lámbarin pethin er lékhisir,/
+kerdhelir ésarin, koum anerith eghelarin koum rhéthasin/
+medhin praghin heir dunatharin sotharin, planthis ésarin,/
+érkharin afor meun dokhin prou efeth dokhin,/
+hoth guzethir epir lofir thin medhin herderin ekhárin./
+Ekhárin arkhidhin‼ Statharin epir hein‼ Antilekharin afor hein‼/
+Statharin epir hein paleth, Euthalos, statharin‼
 
-Desmarin helfir prou thu in palaisir trofelin. Tror thásirin. Frun halthin./
-Pratharin aghathin pir heir. Efarin heir pratharin aghathin pir thu. Neur arithmarin helin./
-Arithmarin krenethin. Arithmarin stamnin. Arithmarin hemerin er selenir. Neur arithmarin helfir./
-Hoseth thu thanearin. Helfir statharin enth ieresin. Heir rhéthasin onthin er thu./
-Eith heir uf epistémarin. Medhin ánthimor epistémarin. Thu ésarin nemathin frun medhin hufasin perith.
+Desmarin helfir prou thu hoth palaisir tokhir, tror thásirin, frun halthin‼/
+Pratharin aghathin pir heir, efarin heir pratharin, neur arithmarin‼/
+Arithmarin krenethin, stamnin, hemerin er selenir‼/
+Neur arithmarin helfir, Euthalos, medhin khronin‼/
+Hoseth thu thanearin, helfir statharin enth ieresin koum rhéthasin thir thu,/
+koum eith heir uf epistémarin, medhin ánthimor epistémarin,/
+koum tothel thu ésarin nemathin frun medhin hufasin perith.
 
-Lámbarin gemethira hoseth thu ekhárin 30 eniauthin. Heira ésarin nevaros eil er thu. Afor efeth aulonin./
-Thu epistémarin mathira er heira. Thu meltharin teikhir er parikhor er heira in ombrin./
-Neur lámbarin heira pir poltharin er heira. Poltharin érkharin prou nomasir. Lámbarin pir kheirin er heira./
-Koum pir grothin er heira. Heira deetharin hein in domin er thu. Thu deetharin er thu./
-Aghathin gemethira sotharin arithmas er stamnin. Koum epistémarin pothel ésarin telesth./
-Heira rhéthasin prineth khemon. Uf huster. Akrotharin heira hoseth rhéthasin./
-Khasir gemethira ésarin teikhir er klinorarin koum uf rhéthasin pir thu. Heunir ésarin./
-Meltharin teikhir er mathira er heira prineth meltharin heira. Huster meltharin heira makrir khronin.
+Lámbarin gemethira enth trel zekhor eniauthin, nevaros,/
+afor aulonin efeth, mathira er heira thu epistémarin,/
+koum teikhir er parikhor er heira thu edheth meltharin in ombrin./
+Neur lámbarin pir poltharin‼ Poltharin érkharin prou dikathin./
+Lámbarin heira pir kheirin er heira, koum pir grothin er heira,/
+dheir heira deetharin grothin in domin er thu, koum thu deetharin hometh./
+Kelir gemethira ekhárin arithmas er plum stamnin,/
+koum epistémarin pothel ésarin telesth, koum rhéthasin heum/
+prineth khemon, uf huster. Akrotharin heira‼/
+Khasir gemethira ésarin teikhir thin klinorarin koum uf rhéthasin./
+Heumir ésarin. Meltharin teikhir er mathira prineth‼/
+Tothel meltharin heira, makrir khronin meltharin‼
 
-Hoseth kerukhir hikarin aneth aulonin. Heir kaleitharin hoplothin. Érkharin kateth frun grerin./
-Neur krufarin in elaisir. Pólithar ésarin teikhir er klinorarin er poltharin./
-Eith hein piptharin. Plum poltharin in aulonin kinetharin kateth prou thálimir./
-Statharin in sothkadrin. Enth tofelin er thetharin er anthmerin. Sotharin khalithin pir anerith enth arister./
-Dheir anerith enth deksir sotharin khalithin pir thu. Heum ésarin olasin tekhnin./
-Eith thu piptharin. Kerukhir badhelin ekor epir aghelin huster telthin er makhetharin./
-Heir erotharin pir thu. Helin parádharin thu. Heum ésarin prathin er herin. Thu nostharin prou domin./
-Helfir rhéthasin onthin er thu. Helin thetharin thu pef parikhor er herin./
-Der piptharin aghathin eith piptharin. Huzarin trofelin er sothkadrin. Piptharin enth heurarin er anthmerin./
-Anerith thanearin in drametharin thanearin in gruzethin. Kerukhir zethelarin heir makrir khronin./
-Almon egh hairelarin malth thu nostharin prou domin. Poltharin deetharin anerith. Teikhir deetharin skeuarin./
-Nostharin prou domin Euthalos. Medhin dokharin epir steir poltharin. Krenethin ésarin.
+Hoseth kerukhir anabherin aulonin koum kaleitharin hoplothin,/
+érkharin kateth frun grerin er thu‼ Neur krufarin in elaisir‼/
+Pólithar ésarin teikhir, poltharin klinorarin epir hein,/
+koum eith hein piptharin, plum poltharin rhézarin kateth prou thálimir./
+Statharin in sothkadrin enth tofelin thin helin dorasarin‼/
+Ekhárin khalithin aneth pir anerith enth arister, adhelir‼/
+Dheir anerith enth deksir ekhárin hein pir thu. Heum, olasin tekhnin./
+Eith thu piptharin, kerukhir érkharin ekor huster makhethin,/
+koum erotharin pir thu, koum helin dorasarin thu, dheir heum/
+herin pratharin, koum thu nostharin prou domin, prou poltharin er herin,/
+koum helfir er thu rhéthasin thir thu, helin thetharin thu pef parikhor er herin./
+Der piptharin kelir, eith piptharin‼ Huzarin hoth sothkadrin huzarin‼/
+Piptharin enth tofelin thin helin dunatharin heurarin thu‼/
+Anerith drametharin thanearin in futherin er gruzethin,/
+koum kerukhir zethelarin heir eketh makrir khronin./
+Almon egh hairelarin malth thu nostharin. Poltharin deetharin anerith,/
+koum teikhir deetharin skeuarin. Nostharin, Euthalos‼/
+Medhin dokharin epir steir poltharin. Krenethin.
 
-Pir hemerin er selenir. In arithmas meun hemerin ésarin pir ársidhin teikhir./
-In arithmas plem ésarin khasir. Lithorin er Agrin Thernin érkharin perol selenir in arithmas plem./
-Neur satharin hosthin in arithmas plem. Neur gemetharin. Neur pléarin. Skeuarin kalethin./
-In arithmas ennevir ésarin aghathin pir spórin. In arithmas zekhor pir lámbarin gemethira./
-In arithmas 12 hemerin ésarin pir thásirin. Plum 12. In heun hemerin anerith pratharin medhin prathin./
-Moneth érkharin prou kor. Prou agelon eith agelon ésarin. Antilekharin eketh./
-Telesth hemerin er selenir ésarin er Andáhr. Neur lampsarin hosthin. Neur rhiptharin hosthin ekor.
+Hemerin er selenir. In arithmas meun, pir ársidhin teikhir./
+In arithmas plem, khasir hemerin, dheir lithorin er Thernin/
+érkharin perol selenir in hemerin in arithmas plem./
+Enth heun neur satharin hosthin‼ Neur gemetharin‼/
+Neur pléarin‼ Skeuarin kalethin, koum menetharin in domin‼/
+Hemerin in arithmas ennevir ésarin kelir pir spórin,/
+koum hemerin in arithmas zekhor ésarin pir lámbarin gemethira./
+In arithmas zekhor koum drin, pir plum zekhor koum drin,/
+koum enth heun hemerin anerith pratharin medhin praghin,/
+almon érkharin prou kor, koum prou agelon, koum antilekharin eketh./
+Hemerin telesth er selenir ésarin er Andáhr er Meitharin./
+Neur lampsarin‼ Neur rhiptharin hosthin ekor‼
 
-Thu erotharin egh Euthalos. Dheir thu érkharin prou pólithar koum mathelarin erotharin./
-Pir telthin er kosamir. Métharin er kosamir. Mathelion erotharin egh prostheth./
-Egh rhéthasin epistemin er egh. Hein ésarin olighir. Huster egh pautharin./
-Kosamir ekhárin perathin hoth thu. Nemathir thametharin hein. Der hein pautharin./
-Fom ánthimor rhéthasin. Enth telthin Nemathir nematharin paleth. 12 kathelarin./
-Lithorin rhiptharin paleth. Arithmas zikai ésarin heterir in arithmas drin horath./
-Fom ánthimor rhéthasin. Melanir lithorin hikarin telesth. Enth tofelin er Amethrin./
-Tothel medhin khrosin. Eil medhin praghin plor khrosin./
-Egh uf epistémarin. Egh uf meltharin telthin er nemathin. Koum mathelion uf meltharin./
-Egh epistémarin teikhir hupor thornir ekhárin lithorin er klinorarin ekor hoth gerathir anerith./
-Ombrin hikarin. Kranir dian edheth. In arithmas meun hemerin er selenir ésarin./
-Egh anabherin prou teikhir adhelir er egh. Érkharin eith thu érkharin. Féranin kalethin.
+Thu erotharin egh, Euthalos, dheir thu érkharin prou pólithar koum mathelarin erotharin,/
+poseth kosamir pautharin. Mathelion erotharin prostheth./
+Egh rhéthasin thin egh epistémarin, koum hein olighir, koum tothel egh pautharin./
+Kosamir ekhárin perathin, hoth thu. Nemathir thametharin hein. Der hein pautharin./
+Fom ánthimor rhéthasin enth telthin Nemathir nematharin paleth,/
+koum Zekhor koum Drin kathelarin, koum lithorin rhiptharin paleth,/
+koum arithmas dunelir heterir in arithmas drin horath./
+Fom ánthimor rhéthasin melanir lithorin hikarin telesth,/
+enth Amethrin, koum tothel medhin khrosin, eil medhin plor khrosin./
+Egh uf epistémarin. Egh uf meltharin telthin er nemathin, koum uf mathelion./
+Egh epistémarin teikhir hupor thornir ekhárin lithorin/
+klinorarin ekor hoth gerathir anerith, koum ombrin érkharin,/
+koum kranir érkharin huth, koum hemerin in arithmas meun er selenir./
+Egh érkharin aneth prou teikhir nuneth, Euthalos, adhelir./
+Érkharin, eith thu érkharin‼ Féranin kalethin pir lithorin er teikhir‼
 :::
 
 ## See Also

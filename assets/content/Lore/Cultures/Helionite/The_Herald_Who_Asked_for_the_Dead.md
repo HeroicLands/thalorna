@@ -29,187 +29,253 @@ The legend is told in prose, as the priests tell it, with the words of the askin
 ## Before the Asking
 
 ::: {.verse form=prose lang=en work=the-herald-who-asked-for-the-dead-1}
-You who come to the altar, sit and listen to the first return of the dead./
-When the Games were new, cities promised truce for the meeting’s days alone. A herald entering the sanctuary during the Games’ month was inviolable. His body belonged to the gods while the runners ran. After the month, returning home, he was a man like any other. A spear entered him as it entered anyone./
-The cities still fought as always, for flocks on high pasture where their lands joined and nobody could name the grass’s owner. In summer the flocks climbed. Young men drove away another city’s sheep. The other young men followed with spears. Levies came out. Battle followed. That was their way. The Games changed nothing but one month when this did not happen./
-Listen to their treatment of the dead, worse than fighting./
-After battle the victors held the field with both cities’ dead upon it. They lifted their own and carried them home. The defeated remained where they fell. Victors took weapons and cloaks, then left them: weapons proved victory. The defeated could not abandon them. A city leaving its dead on another’s ground has neither rites to speak nor a place to lay them. Nobody receives the dead. They have no rest. The defeated returned with spears the next day or the third, to carry their dead away by force. A second battle rose above the first battle’s bodies, killing more. Its dead lay with the first. Sometimes a third followed./
-The old priests here said more men died for bodies than sheep in those years. You from the cities know it is true. All your songs contain it.
+You who have come to the altar, sit and hear how the dead first came home.
+
+In the years when the Games were new, the cities had sworn the truce for the days of the meeting and for no longer. A herald who came to the sanctuary in the month of the Games could not be touched, and his person was the gods' while the runners ran. When the month was over and he had gone home, he was a man like other men, and a spear went into him as into anyone.
+
+And the cities still fought, as they had always fought, over the flocks on the high pastures where one city's land runs into another's and no one can say whose grass it is. They fought in the summer when the flocks went up, and the young men of one city drove off the sheep of another, and the young men of the other went after them with spears, and the levies came out, and there was a battle. That was how it was. The Games had not changed it. The Games had only made a month in the year when it did not happen.
+
+Hear what was done with the dead in those years, for it was worse than the fighting.
+
+When a battle was over the winners held the field, and the dead of both cities lay on it. The winners took up their own and carried them home. The losers' dead stayed where they fell, and the winners stripped them of their arms and their cloaks and left them, for the arms were the proof of the victory. And the losers could not leave them there. A city that leaves its dead on another city's ground has no rites to say over them and no place to lay them, and the dead are not received, and they do not rest. So the losers came back. They came back with their spears, the next day or the day after, to carry off their dead by force, and there was a second battle over the bodies of the first, and the second killed more than the first had, and the dead of the second lay on the field with the dead of the first. And sometimes there was a third.
+
+The old priests of this altar said that more men died over the dead in those years than over the sheep. You who have come from the cities, you know that this is so, for it is in all your songs.
 :::
 
 ::: {.verse form=prose lang=helo enc=helohelonikaenc work=the-herald-who-asked-for-the-dead-1}
-Thu hikarin prou kor. Kathelarin koum akrotharin trofelin er prineth plum nostharin er thaner prou domin./
-In eniauthin er nevaros Theldir. Pólithar hupeskharin spondhelin pir hemerin er sumetharin. Pir medhin khronin mazeron. Kerukhir hikarin prou sothathin in menethin er Theldir ésarin athikhelir. Somir er heir ésarin er thásirin hoseth drametharir drametharin. Huster menethin. Kerukhir nostharin prou domin. Heir ésarin anerith hoth heter anerith. Grerin érkharin esor heir hoth hosthir ánthimor./
-Koum pólithar makhetharin hoth aeith. Pir homelin er khedhin epir hupsel botherin. Ghéranis er meun pólithar érkharin in ghéranis er heter. Medhin ánthimor dunatharin rhéthasin kemethira er klorin. In thérimos khedhin érkharin aneth. Nevaros anerith er meun pólithar aghrarin khedhin er heter apeth. Nevaros er heter akolarin frun grerin. Hoplothin hikarin ekor. Makhethin ésarin. Heum ésarin trofelin. Theldir uf allatharin hein. Theldir moneth pratharin meun menethin er eniauthin frun medhin heum prathin./
-Akrotharin prathin er thaner in heun eniauthin. Hein ésarin kheirir eil er makhetharin./
-Huster makhethin. Nikhathir sotharin aghelin. Thaner er drin pólithar khelrin epir hein. Nikhathir airatharin er authel. Féranin prou domin. Thaner er hetthelin menetharin enth piptharin. Nikhathir lámbarin hoplarin koum khalnir afor helin. Leiparin helin. Dheir hoplarin ésarin deighmin er nikharin. Hetthelin uf dunatharin leiparin helin eketh. Pólithar leiparin thaner epir ghéranis er heter pólithar ekhárin medhin ieresin pir rhéthasin epir helin. Medhin tofelin pir thetharin helin. Medhin ánthimor lámbarin thaner. Thaner uf ekhárin anafelin. Der hetthelin nostharin. Frun grerin. Efeth hemerin eil in arithmas trel. Pir féranin thaner afor eketh frun stenir. Ésarin in arithmas drin makhethin epir somir er prineth plum. In arithmas drin kenarin plethir eil er prineth plum. Thaner er in arithmas drin khelrin frun prineth plum. Fom khronin ésarin in arithmas trel./
-Gerathir sarkhir er heum kor rhéthasin. Plethir anerith thanearin pir thaner eil er khedhin in heun eniauthin. Thu hikarin afor pólithar. Thu epistémarin heum ésarin alethir. Hein ésarin in plum sorathin er thu.
+Thu er hikarin enth kor, kathelarin koum akrotharin poseth thaner nostharin prineth plum prou domin‼
+
+In eniauthin hoseth Theldir nevaros ésarin, pólithar orkharin spondhelin pir hemerin er Theldir, koum uf mazeron. Kerukhir er hikarin prou sothathin in theldin athikhelir ésarin, koum somir er heir ésarin er thásirin hoseth drametharir drametharin. Huster theldin, hoseth heir nostharin prou domin, heir ésarin anerith hoth heter anerith, koum grerin érkharin esor heir hoth esor hosthir ánthimor.
+
+Koum pólithar makhetharin ethel, hoth aeith, pir khedhin epir hupsel botherin, enth ghéranis er meun pólithar érkharin esor ghéranis er heter, koum medhin ánthimor dunatharin rhéthasin klorin er thir. Helin makhetharin in thérimos, hoseth khedhin anabherin, koum nevaros anerith er meun pólithar aghrarin apeth khedhin er heter, koum nevaros anerith er heter akolarin frun grerin, koum hoplothin érkharin ekor, koum makhethin tukharin. Heum ésarin. Theldir uf allatharin hein. Theldir moneth pratharin meun menethin in eniauthin, koum in heun menethin makhethin uf tukharin.
+
+Akrotharin thin ánthimor pratharin frun thaner in heun eniauthin‼ Dheir hein ésarin kheirir eil er makhethin.
+
+Huster makhethin, nikhathir ekhárin aghelin, koum thaner er drin pólithar khelrin epir hein. Nikhathir airatharin thaner er authel koum féranin helin prou domin. Thaner er hetthelin menetharin enth tofelin er piptharin, koum nikhathir lámbarin hoplarin er helin koum khalnir er helin, koum leiparin helin, dheir hoplarin ésarin deighmin er nikharin. Koum hetthelin uf dunatharin leiparin helin eketh. Eith pólithar leiparin thaner er authel epir ghéranis er heter pólithar, medhin ieresin rhéthasin epir helin, koum medhin tofelin pir thetharin helin, koum medhin ánthimor lámbarin thaner, koum thaner medhin anafelin ekhárin. Der hetthelin nostharin. Helin nostharin frun grerin, in efeth hemerin eil in hemerin huster heun, pir féranin thaner er authel frun grerin, koum makhethin in arithmas drin tukharin epir somir er makhethin in arithmas meun, koum makhethin in arithmas drin kenarin plethir eil er makhethin in arithmas meun, koum thaner er makhethin in arithmas drin khelrin epir aghelin frun thaner er makhethin in arithmas meun. Koum fom khronin, makhethin in arithmas trel.
+
+Gerathir sarkhir er heum kor rhéthasin heum, plethir anerith thanearin pir thaner in heun eniauthin eil er pir khedhin. Thu er hikarin afor pólithar, thu epistémarin heum alethir ésarin, dheir hein ésarin in plum sorathin er thu.
 :::
 
 ## The Hillside
 
 ::: {.verse form=prose lang=en work=the-herald-who-asked-for-the-dead-2}
-In the third year, or the fifth—the priests disagree—two cities fought over high pasture. The priests do not name them./
-One city’s herald was Agelis. He attended the first meeting here and promised truce at this altar, hand on the stone where your hands rest tomorrow. He had forty years, old for a herald then: the rank went to young men with loud voices. His voice was loud. His only son also served in the levy, seventeen years old./
-The other city’s commander was Tálanos. He attended the first meeting as a wrestler, throwing everyone who faced him, receiving his crown at this altar. Large, broad-necked, slow-speaking, he could lead his young men anywhere: nobody threw him./
-At midsummer the levies met on the slope beneath the high grass. Tálanos broke the other force, drove it down the hill and across the stream below. Agelis’s city returned by night without its dead. Thirty-one lay on the hillside. Agelis’s son was among them; he did not know yet./
-That night the returning young men sharpened spears for the customary return. Elders counted tomorrow’s further deaths. Women already lamented, knowing the course of it.
+In the third year, or the fifth, for the priests do not agree, there was a fight over the high pasture between two cities, and the priests do not say which.
+
+One of them had a herald named Agelis, who had come to the first meeting at this sanctuary and sworn the truce at this altar, with his hand on the stone where your hands will be in the morning. He was a man of forty, which in those years was old for a herald, for the office was given to young men with loud voices. He had a loud voice. He also had a son in the levy, a boy of seventeen, his only son.
+
+The other city had a strátimor named Tálanos, who had come to the first meeting as a wrestler and thrown every man who stood against him, and had been crowned at this altar. He was a big man, broad in the neck and slow in his speech, and the young men of his city would follow him anywhere because he had never been thrown.
+
+The levies met on the hillside under the high pasture at midsummer, and the levy of Tálanos broke the other, and drove it down the hill and over the stream at the bottom, and the levy of Agelis's city went home in the night without its dead. Thirty-one of them lay on the hillside. Among them, though Agelis did not know it yet, was his son.
+
+In the city that night the young men who had come home were sharpening their spears to go back, as the custom was, and the old men were counting how many more would die on the hillside tomorrow, and the women were already keening, for the women knew how it would go.
 :::
 
 ::: {.verse form=prose lang=helo enc=helohelonikaenc work=the-herald-who-asked-for-the-dead-2}
-In arithmas trel eniauthin. Eil in arithmas plem. Sarkhir uf harmodharin. Drin pólithar makhetharin pir hupsel klorin. Sarkhir uf ónomarin pothel pólithar./
-Meun pólithar ekhárin kerukhir er ónomir Agelis. Heir hikarin prou prineth plum sumetharin enth heum sothathin. Hupeskharin spondhelin enth heum kor. Kheirin epir lithorin er kheirin er thu aurith. Heir ésarin anerith er 40 eniauthin. In heun eniauthin gerathir pir kerukhir. Dheir takhelin ésarin pir nevaros anerith frun tharir rhethin. Heir ekhárin tharir rhethin. Prostheth heir ekhárin huyir in hoplothin. Paidhelir er 17 eniauthin. Moneth huyir er heir./
-Heter pólithar ekhárin strátimor er ónomir Tálanos. Heir hikarin prou prineth plum sumetharin hoth palaithir. Palaitharin plum anerith er statharin tror heir. Heir ekhárin stephanin enth heum kor. Heir ésarin meghar anerith. Plathelir trakhelin. Bradhelir in lékhisir. Nevaros anerith er pólithar er heir akolarin heir prou hosthin tofelin. Dheir medhin ánthimor palaitharin heir./
-Hoplothin sumetharin epir klinathin hupor hupsel klorin. In mesin er thérimos. Hoplothin er Tálanos klastharin heter. Aghrarin helin kateth lofir. Dian mikrir fótamir enth telthin. Hoplothin er pólithar er Agelis nostharin prou domin in nikhtir frun medhin thaner. 31 khelrin epir klinathin. Enmes helin huyir er Agelis. Agelis uf epistémarin hein meil./
-In pólithar in heun nikhtir nevaros anerith er nostharin akmetharin grerin pir nostharin. Hoth nomasir. Gerathir arithmarin posethin er plethir thaner epir klinathin aurith. Ghuneth edheth threnarin. Dheir ghuneth epistémarin trofelin er hein.
+In eniauthin in arithmas trel, eil in arithmas plem, dheir sarkhir uf harmodharin, drin pólithar makhetharin pir hupsel botherin, koum sarkhir uf rhéthasin pothel.
+
+Meun er helin ekhárin kerukhir, koum Agelis ésarin ónomir er heir. Heir hikarin prou Theldir in arithmas meun enth heum sothathin, koum orkharin spondhelin enth heum kor, frun kheirin epir lithorin, enth tofelin thu thetharin kheirin er thu in orthrin. Heir ésarin anerith er vesmor zekhor eniauthin, koum in heun eniauthin heum gerathir ésarin pir kerukhir, dheir anthmerin dorasarin takhelin prou nevaros anerith frun tharir rhethin. Heir ekhárin tharir rhethin. Heir ekhárin prostheth huyir in hoplothin, paidhelir er zekhor koum hepthor eniauthin, moneth huyir er heir.
+
+Heter pólithar ekhárin strátimor, koum Tálanos ésarin ónomir er heir. Heir hikarin prou Theldir in arithmas meun hoth palaithir, koum palaitharin plum anerith er statharin tror heir, koum lámbarin stephanin enth heum kor. Heir ésarin meghar anerith, plathelir er trakhelin, bradhelir in lékhisir, koum nevaros anerith er pólithar er heir akolarin heir prou plum tofelin, dheir medhin khronin ánthimor palaitharin heir.
+
+Hoplothin sumetharin epir klinathin hupor hupsel botherin, in mesin er thérimos, koum hoplothin er Tálanos klastharin heter, koum aghrarin hein kateth lofir koum dian mikrir fótamir enth telthin, koum hoplothin er pólithar er Agelis nostharin prou domin in nikhtir frun medhin thaner er authel. Trel zekhor koum meun khelrin epir klinathin. Enmes helin, koum Agelis uf epistémarin hein meil, huyir er heir.
+
+In pólithar in heun nikhtir nevaros anerith er nostharin akmetharin grerin pir nostharin, hoth nomasir. Gerathir anerith arithmarin posethin er plethir thaner epir klinathin aurith. Koum ghuneth edheth threnarin, dheir ghuneth epistémarin poseth hein tukharin.
 :::
 
 ## The Staff
 
 ::: {.verse form=prose lang=en work=the-herald-who-asked-for-the-dead-3}
-Agelis sharpened no spear. At home he took his sanctuary staff from the wall, the herald’s staff wrapped in truce-white wool. He went before the council: I climb alone tomorrow morning to ask for them./
-The council said: Truce belongs to the Games’ month. This is midsummer. The month ends. They kill you./
-Agelis said: Perhaps. Then one more dead on the hillside, where you expect more than one. Let me climb first. If I fail to return by noon, sharpen spears./
-They allowed it. They saw no danger except his own.
+Agelis did not sharpen a spear. He went to his house and took down from the wall the staff he had carried at the sanctuary, the herald's staff, wound with the white wool of the truce, and he went to the council and said: I will go up the hill alone in the morning and ask for them.
+
+The council said: the truce is for the month of the Games. It is midsummer. The month is over. They will kill you.
+
+Agelis said: perhaps. Then you will have one more dead on the hillside, and you were going to have many more than one. Let me go up first. If I do not come back by noon, sharpen your spears.
+
+And the council let him go, for they could see no harm in it but to him.
 :::
 
 ::: {.verse form=prose lang=helo enc=helohelonikaenc work=the-herald-who-asked-for-the-dead-3}
-Agelis uf akmetharin grerin. Heir érkharin prou domin. Lámbarin skathir afor teikhir. Skathir er féranin enth sothathin. Skathir er kerukhir. Frun leukhelir erithin er spondhelin perith. Heir érkharin prou bulorin. Rhéthasin. Egh anabherin lofir moneth egh in orthrin. Koum erotharin pir helin./
-Bulorin rhéthasin. Spondhelin ésarin pir menethin er Theldir. Nuneth mesin er thérimos. Menethin pautharin. Helin kenarin thu./
-Agelis rhéthasin. Takhon. Tothel thu ekhárin meun plethir thaner epir klinathin. Thu ekhárin plethir eil er meun. Efarin egh anabherin prineth plum. Eith egh uf nostharin mekhir mesin er hemerin. Akmetharin grerin./
-Bulorin efarin heir érkharin. Dheir helin meltharin medhin kindhelin plor pir heir.
+Agelis uf akmetharin grerin. Heir érkharin prou domin er heir, koum lámbarin kateth skathir er heir, skathir er kerukhir thin heir féranin enth sothathin, perith frun leukhelir erithin er spondhelin, koum érkharin prou bulorin koum rhéthasin «Egh anabherin lofir moneth in orthrin, koum erotharin pir helin.»
+
+Bulorin rhéthasin «Spondhelin ésarin pir theldin. Nuneth mesin er thérimos. Menethin pautharin. Helin kenarin thu.»
+
+Agelis rhéthasin «Takhon. Tothel thu ekhárin meun thaner plethir epir klinathin, koum thu edheth ekhárin polir plethir eil er meun. Efarin egh anabherin prineth plum‼ Eith egh uf nostharin mekhir mesin er hemerin, akmetharin grerin er thu‼»
+
+Koum bulorin efarin heir érkharin, dheir helin uf meltharin kindhelin in hein plor pir heir.
 :::
 
 ## The Asking
 
 ::: {.verse form=prose lang=en work=the-herald-who-asked-for-the-dead-4}
-He climbed in morning before both armies. Tálanos’s levy still camped on the high grass, holding the field. He climbed slowly: steep hill, forty years. In his right hand he raised the staff to show white wool. His left held nothing. He passed among the bodies without looking, reached Tálanos’s spear-line, and stopped./
-The spears levelled toward him. He did not stop for spears. He stopped at the line. He raised the staff and spoke loudly enough for both armies, the words heralds still speak. Heralds, speak them with me when I reach them.
+He went up the hill in the morning in the sight of both armies, for Tálanos's levy was still camped on the high pasture, holding the field. He went up slowly, because the hill was steep and he was forty. He carried the staff in his right hand, held up, so that the white wool could be seen. He carried nothing in his left. He came up the hillside among the dead and did not look at them, and he came to the line of Tálanos's levy, where the spears were, and he stopped.
+
+The spears came down level at him. He did not stop for the spears. He had stopped because he had come to the line. And he lifted the staff, and said in his loud voice, so that both armies heard it, the words that the heralds say to this day. Say them with me, heralds, as I come to them.
 :::
 
 ::: {.verse form=prose lang=helo enc=helohelonikaenc work=the-herald-who-asked-for-the-dead-4}
-Heir anabherin lofir in orthrin. Drin estrathin meltharin heir. Dheir hoplothin er Tálanos ethel khelrin epir hupsel klorin. Sotharin aghelin. Heir anabherin bradhelir. Dheir lofir ésarin steir. Heir ekhárin 40 eniauthin. Heir féranin skathir in deksir kheirin. Hupsel. Der leukhelir erithin ésarin melthir. Medhin praghin in arister. Heir anabherin enmes thaner. Uf meltharin helin. Heir hikarin prou sothkadrin er hoplothin er Tálanos. Enth grerin. Heir pautharin./
-Grerin ghígnarin isethir prou heir. Heir uf pautharin pir grerin. Heir pautharin dheir heir hikarin prou sothkadrin. Heir airatharin skathir. Rhéthasin in tharir rhethin. Drin estrathin akherin. Lékhisir er kerukhir rhéthasin mekhir heum hemerin. Rhéthasin helin frun egh kerukhir hoseth egh hikarin prou helin.
+Heir anabherin lofir in orthrin, tror drin olasin estrathin, dheir hoplothin er Tálanos ethel menetharin epir hupsel botherin, koum ekhárin aghelin. Heir anabherin bradhelir, dheir lofir steir ésarin, koum heir ekhárin vesmor zekhor eniauthin. Heir féranin skathir in deksir, aneth, der leukhelir erithin ésarin melthir. In arister heir féranin medhin. Heir anabherin enmes thaner koum uf meltharin helin, koum hikarin prou sothkadrin er hoplothin er Tálanos, enth grerin, koum pautharin.
+
+Grerin érkharin kateth prou heir. Heir uf pautharin pir grerin. Heir pautharin dheir heir hikarin prou sothkadrin. Koum heir airatharin skathir, koum rhéthasin in tharir rhethin er heir, der drin olasin estrathin akherin, lékhisir thin kerukhir rhéthasin mekhir heum hemerin. Rhéthasin helin frun egh, kerukhir, hoseth egh hikarin prou helin‼
 :::
 
 : The Asking {#asking}
 
 ::: {.verse form=legend lang=en work=asking}
-I am my city’s herald. My person belongs to the gods./
-I promised at the Games’ altar. I carry my promising staff./
-The field is yours. You win it. Nobody here refuses that./
-The dead are ours. They belong only to their city./
-Give us our dead, so they return home to their own rites./
-When your turn comes, ask. You have your own dead.
+I am the herald of my city, and my person is the gods'./
+I swore at the altar of the Games, and I carry the staff I swore with./
+The field is yours. You have won it, and no one here denies it./
+The dead are ours. They are no one's but their city's./
+Give us our dead, that they may go home to their own rites./
+And when it is your turn, ask, and you shall have yours.
 :::
 
-::: {.verse form=legend lang=helo enc=helohelonikaenc work=asking}
-Egh ésarin kerukhir er pólithar er egh. Somir er egh ésarin er thásirin./
-Egh hupeskharin enth kor er Theldir. Egh féranin skathir er hupeskharin er egh./
-Aghelin ésarin er thu. Thu nikharin hein. Medhin ánthimor enith arneitharin heum./
-Thaner ésarin er herin. Helin ésarin er pólithar er helin moneth./
-Dorasarin herin thaner er herin. Der helin nostharin prou domin prou ieresin er helin./
-Hoseth horath er thu hikarin. Erotharin. Thu ekhárin thaner er thu.
+::: {.verse form=legend lang=helo enc=helohelonikaenc work=asking scan=hexameter}
+Egh ésarin kerukhir er pólithar er egh, koum somir er egh ésarin er thásirin./
+Egh orkharin enth kor er Theldir, koum féranin skathir er orkhin er egh./
+Aghelin er thu. Thu nikharin hein, koum medhin ánthimor enith antilekharin./
+Thaner er herin, er medhin ánthimor plor er pólithar er helin./
+Dorasarin thaner er herin, pir nostharin prou ieresin er authel‼/
+Koum hoseth horath er thu, erotharin‼ Thu ekhárin thaner er thu.
 :::
 
 ## The First Refusal
 
 ::: {.verse form=prose lang=en work=the-herald-who-asked-for-the-dead-6}
-Tálanos’s young men did not wait. One left the line, placed his spear-point under Agelis’s beard at his throat. Your truce belongs to the Games’ month, he said. This is midsummer. Descend, or remain with the others./
-Agelis never moved backward. I promised truce at the altar, hand on stone, he said. Your commander promised too, his hand beside mine. The watching gods watch now. The month ends. The gods do not./
-He repeated every word, first to last, in the same voice. The point at his throat moved with his speaking./
-Tálanos came out and moved the young man’s spear aside with his hand. He gave no reason. The priests say he thought of the altar and his crown. A crowned man did not want his levy known for killing a herald carrying the Games’ staff. They also say he feared, despite his undefeated wrestling: something unprecedented happened on the hill, and he did not know its ending.
+The young men of Tálanos's levy did not wait for Tálanos. One of them came out of the line with his spear and put the point of it against the herald's throat, under the beard, and said: your truce was for the month of the Games. It is midsummer. Go down the hill or stay on it with the others.
+
+Agelis did not move back from the spear. He said: I swore the truce at the altar with my hand on the stone, and so did your strátimor, with his hand beside mine. The gods who watched us swear are watching now. The month is over, and the gods are not.
+
+And he said the words again, all of them, from the first to the last, in the same voice, with the spear against his throat, so that the point moved when he spoke.
+
+Then Tálanos came out of the line, and put his hand on the young man's spear, and moved it aside. He did not say why. The priests say that he was thinking of the altar, and of the crown he had been given there, and that a man who had been crowned at the Games did not want it said that his levy had killed a herald who carried the Games' staff. The priests say also that he was afraid, though he had never been thrown, because a thing was happening on the hillside that had never happened, and he did not know how it ended.
 :::
 
 ::: {.verse form=prose lang=helo enc=helohelonikaenc work=the-herald-who-asked-for-the-dead-6}
-Nevaros anerith er hoplothin er Tálanos uf menarin Tálanos. Meun érkharin ekor sothkadrin frun grerin. Heir thetharin kenthelin prou laurin er kerukhir. Hupor pogonir. Heir rhéthasin. Spondhelin er thu ésarin pir menethin er Theldir. Nuneth mesin er thérimos. Érkharin kateth lofir. Eil menetharin epir hein frun heter./
-Agelis uf kinetharin opisthe afor grerin. Heir rhéthasin. Egh hupeskharin spondhelin enth kor. Kheirin epir lithorin. Strátimor er thu hupeskharin prostheth. Kheirin er heir pef er egh. Thásirin filarin herin hupeskharin. Helin filarin nuneth. Menethin pautharin. Thásirin uf pautharin./
-Heir rhéthasin lékhisir paleth. Olasin. Afor prineth plum prou telesth. Hometh rhethin. Grerin prou laurin. Kenthelin kinetharin hoseth heir rhéthasin./
-Tothel Tálanos érkharin ekor sothkadrin. Thetharin kheirin epir grerin er nevaros. Kinetharin hein pef. Heir uf rhéthasin aithelin. Sarkhir rhéthasin heir dókhanir kor koum stephanin er dorasin eketh. Ánthimor er stephanin er Theldir uf oratharin akherin heum lékhisir. Hoplothin er heir kenarin kerukhir frun skathir er Theldir. Sarkhir prostheth rhéthasin heir ekhárin felin. Kaither medhin ánthimor palaitharin heir. Dheir praghin tukharin epir klinathin. Hein tukharin medhin khronin prineth. Heir uf epistémarin telthin er hein.
+Nevaros anerith er hoplothin er Tálanos uf menarin Tálanos. Meun er helin érkharin ekor sothkadrin frun grerin er heir, koum thetharin kenthelin prou laurin er kerukhir, hupor pogonir, koum rhéthasin «Spondhelin er thu ésarin pir theldin. Nuneth mesin er thérimos. Érkharin kateth lofir, eil menetharin epir hein frun heter‼»
+
+Agelis uf kinetharin opisthe afor grerin. Heir rhéthasin «Egh orkharin spondhelin enth kor, frun kheirin epir lithorin, koum strátimor er thu prostheth, frun kheirin er heir pef kheirin er egh. Thásirin filarin herin hoseth herin orkharin, koum helin filarin nuneth. Menethin pautharin, koum thásirin uf pautharin.»
+
+Koum heir rhéthasin lékhisir paleth, olasin, afor arkhidhin mekhir telthin, in hometh rhethin, frun kenthelin enth laurin, der kenthelin kinetharin hoseth heir rhéthasin.
+
+Tothel Tálanos érkharin ekor sothkadrin, koum thetharin kheirin epir grerin er nevaros anerith, koum kinetharin hein pef. Heir uf rhéthasin aithelin. Sarkhir rhéthasin heir dókhanir kor, koum stephanin heir lámbarin eketh, koum anerith er stephanin er Theldir uf oratharin anthmerin rhéthasin hoplothin er heir kenarin kerukhir frun skathir er Theldir. Sarkhir rhéthasin prostheth heir ekhárin felin, kaither medhin ánthimor palaitharin heir, dheir fom praghin tukharin epir klinathin, praghin er medhin khronin tukharin prineth, koum heir uf epistémarin telthin er hein.
 :::
 
 ## The Second Refusal
 
 ::: {.verse form=prose lang=en work=the-herald-who-asked-for-the-dead-7}
-Tálanos thought long before speaking slowly. Your dead’s arms are ours, he said. We take them as proof of victory. Their bodies are useless to us. I sell them. Bring a hundred sheep from your high grass and the grass itself. Then take your dead./
-By that age’s custom the offer was fair. Both armies knew. His young men praised it loudly. A hundred sheep and grass is a victory cities can count./
-Agelis said: A city never buys its own. Pay you, and they belong to you. You sell them. They return as goods, not citizens. We cannot speak rites above a purchased thing. I come for asking, not bargaining./
-He repeated every word, first to last, in the same voice.
+Tálanos was a slow speaker, and he thought a long time before he spoke. Then he said: the arms of your dead are ours. We have taken them. They are the proof that we won. But the bodies are no use to us. I will sell you the bodies. Bring me a hundred sheep from your high pasture, and the pasture with them, and you may take your dead.
+
+That was a fair offer by the custom of those years, and both armies knew it. The young men of Tálanos's levy cheered it, for a hundred sheep and a pasture is a victory a city can count.
+
+Agelis said: the city does not buy its own. If I pay you for them, they are yours, and you sold them, and they go home as goods and not as citizens, and the rites cannot be said over a thing that was bought. I did not come to bargain. I came to ask.
+
+And he said the words again, all of them, from the first to the last, in the same voice.
 :::
 
 ::: {.verse form=prose lang=helo enc=helohelonikaenc work=the-herald-who-asked-for-the-dead-7}
-Tálanos ésarin bradhelir in lékhisir. Heir dókhanir makrir khronin prineth rhéthasin. Tothel heir rhéthasin. Hoplarin er thaner er thu ésarin er herin. Herin lámbarin helin. Helin ésarin deighmin er nikharin er herin. Almon somir uf ésarin khresir pir herin. Egh polarin somir prou thu. Féranin egh henthor khedhin afor hupsel klorin er thu. Koum klorin frun helin. Tothel thu lámbarin thaner er thu./
-Heum ésarin isethir pubrin frun nomasir er heun eniauthin. Drin estrathin epistémarin hein. Nevaros anerith er hoplothin er Tálanos thareth dokhazin hein. Dheir henthor khedhin koum klorin ésarin nikharin er pólithar dunatharin arithmarin./
-Agelis rhéthasin. Pólithar uf agorarin er authel. Eith egh mistharin thu pir helin. Helin ésarin er thu. Thu polarin helin. Helin nostharin prou domin hoth khrémasin. Uf hoth pólithir. Herin uf dunatharin rhéthasin ieresin epir praghin er agorarin. Egh uf hikarin pir antithmarin. Egh hikarin pir erotharin./
-Heir rhéthasin lékhisir paleth. Olasin. Afor prineth plum prou telesth. Hometh rhethin.
+Tálanos ésarin bradhelir in lékhisir, koum dókhanir makrir khronin prineth rhéthasin. Tothel heir rhéthasin «Hoplarin er thaner er thu ésarin er herin. Herin lámbarin helin. Helin ésarin deighmin er nikharin er herin. Almon somir uf ésarin khresir pir herin. Egh polarin somir prou thu. Féranin prou egh henthor khedhin afor hupsel botherin er thu, koum botherin frun helin‼ Tothel thu ésarin efir lámbarin thaner er thu.»
+
+Heum ésarin dikhelir pubrin frun nomasir er heun eniauthin, koum drin olasin estrathin epistémarin hein. Nevaros anerith er hoplothin er Tálanos thareth rhéthasin pir hein, dheir henthor khedhin koum botherin ésarin nikharin thin pólithar dunatharin arithmarin.
+
+Agelis rhéthasin «Pólithar uf agorarin thin ésarin er authel. Eith egh mistharin pir helin prou thu, helin ésarin er thu, koum thu polarin helin, koum helin nostharin prou domin hoth khrémasin, uf hoth pólithir, koum medhin ánthimor dunatharin rhéthasin ieresin epir praghin er agorarin. Egh uf hikarin pir antithmarin. Egh hikarin pir erotharin.»
+
+Koum heir rhéthasin lékhisir paleth, olasin, afor arkhidhin mekhir telthin, in hometh rhethin.
 :::
 
 ## The Third Asking
 
 ::: {.verse form=prose lang=en work=the-herald-who-asked-for-the-dead-8}
-Tálanos held silence longer than before. Both armies waited. Then he spoke as man to man, not commander to herald, heard only nearby: Why should I do this?/
-Agelis lowered the staff for the first time since climbing. Answered as man to man./
-Because one day you lie here, he said, or your son. The field belongs to us. Your herald climbs as I do. I remember today’s deed. The dead are neither yours to give nor mine to take. They belong to their city. Their city asks. I am its asking voice. And because I never wrestle at the Games or receive a crown at an altar, but I stand beside you at that altar during your crowning. I see your face. I do not believe that man abandons thirty-one boys to crows so he can kill another hundred tomorrow./
-He raised the staff and spoke the third asking, every word first to last, same voice./
-Tálanos said: Take them. Then loudly for both armies: When our turn comes, we ask./
-That is the answer, heralds. Speak it when asked, as he did. Take them. When our turn comes, we ask.
+Then Tálanos was quiet for a long time, longer than before, and both armies waited. Then he said, and he said it not as a strátimor to a herald but as one man to another, so that only the men nearest heard it: why should I?
+
+And Agelis lowered the staff, for the first time since he had come up the hill, and answered him as one man to another.
+
+He said: because you will be on this hillside one day, or your son will, and the field will be ours, and your herald will come up the hill as I have, and I will remember what you did today. Because the dead are not yours to give and not mine to take. They belong to their city, and their city is asking, and I am only the voice it asks with. And because I wrestled at no Games and was crowned at no altar, but I stood at that altar beside you while you were crowned, and I saw your face, and I do not believe the man I saw there will leave thirty-one boys on a hillside for the crows so that tomorrow he can kill a hundred more.
+
+Then he lifted the staff again, and said the words a third time, all of them, from the first to the last, in the same voice.
+
+And Tálanos said: take them. And he said, so that both armies heard: and when it is our turn, we will ask.
+
+That is the answer, heralds, and you say it when you are asked, as he said it. _Take them. When it is our turn, we will ask._
 :::
 
 ::: {.verse form=prose lang=helo enc=helohelonikaenc work=the-herald-who-asked-for-the-dead-8}
-Tothel Tálanos sotharin sighelin makrir khronin. Makrir eil er prineth. Drin estrathin menarin. Tothel heir rhéthasin. Uf hoth strátimor prou kerukhir. Hoth meun anerith prou heter. Moneth enghir anerith akherin. Diath egh preitharin pratharin heum./
-Agelis thetharin skathir kateth. In arithmas meun horath afor anabherin er lofir. Heir ameitharin hoth meun anerith prou heter./
-Heir rhéthasin. Dheir thu ésarin epir heum klinathin in meun hemerin. Eil huyir er thu. Aghelin ésarin er herin. Kerukhir er thu anabherin hoth egh. Egh nemorarin prathin er thu heum hemerin. Dheir thaner uf ésarin er thu pir dorasarin. Uf er egh pir lámbarin. Helin ésarin er pólithar er helin. Pólithar er helin erotharin. Egh ésarin rhethin er erotharin moneth. Koum dheir egh uf palaitharin enth Theldir. Egh uf ekhárin stephanin enth hosthin kor. Almon egh statharin enth heun kor pef thu hoseth thu ekhárin stephanin. Egh meltharin prosarin er thu. Egh uf pestharin anerith er meltharin er egh eketh leiparin 31 paidhelir epir klinathin pir krounir. Der aurith heir kenarin henthor plethir./
-Tothel heir airatharin skathir paleth. Rhéthasin lékhisir in arithmas trel horath. Olasin. Afor prineth plum prou telesth. Hometh rhethin./
-Tálanos rhéthasin. Lámbarin helin. Koum heir rhéthasin pir akherin er drin estrathin. Hoseth horath er herin hikarin. Herin erotharin./
-Heum ésarin pethrin kerukhir. Thu rhéthasin hein hoseth thu ekhárin pethin. Hoth heir rhéthasin. Lámbarin helin. Hoseth horath er herin hikarin. Herin erotharin.
+Tothel Tálanos ekhárin sighelin makrir khronin, mazeron eil er prineth, koum drin olasin estrathin menarin. Tothel heir rhéthasin, uf hoth strátimor prou kerukhir, almon hoth anerith prou anerith, der moneth anerith enghir akherin «Diath egh pratharin heum?»
+
+Koum Agelis kateth thetharin skathir, in arithmas meun horath afor heir anabherin lofir, koum ameitharin heir hoth anerith prou anerith.
+
+Heir rhéthasin «Dheir thu ésarin epir heum klinathin fom hemerin, eil huyir er thu, koum aghelin ésarin er herin, koum kerukhir er thu anabherin lofir hoth egh, koum egh nemorarin thin thu pratharin heum hemerin. Dheir thaner uf ésarin er thu pir dorasarin, koum uf er egh pir lámbarin. Helin ésarin er pólithar er helin, koum pólithar er helin erotharin, koum egh moneth rhethin ésarin, frun hein pólithar erotharin. Koum dheir egh palaitharin enth medhin Theldir koum lámbarin stephanin enth medhin kor, almon egh statharin enth heun kor pef thu hoseth thu lámbarin stephanin, koum egh meltharin prosarin er thu, koum egh uf pestharin anerith thin egh meltharin eketh leiparin trel zekhor koum meun paidhelir epir klinathin pir krounir, der aurith heir dunatharin kenarin henthor plethir.»
+
+Tothel heir airatharin skathir paleth, koum rhéthasin lékhisir in arithmas trel horath, olasin, afor arkhidhin mekhir telthin, in hometh rhethin.
+
+Koum Tálanos rhéthasin «Lámbarin helin‼» Koum heir rhéthasin, der drin olasin estrathin akherin, «Koum hoseth horath er herin, herin erotharin.»
+
+Heum ésarin pethrin, kerukhir, koum thu rhéthasin hein hoseth ánthimor erotharin thu, hoth heir rhéthasin hein. «Lámbarin helin‼ Hoseth horath er herin, herin erotharin.»
 :::
 
 ## The Carrying
 
 ::: {.verse form=prose lang=en work=the-herald-who-asked-for-the-dead-9}
-Agelis climbed alone. Thirty-one dead lay there. One man cannot carry thirty-one downhill. Among them he stood without knowing his next deed. The priests call it his only uncertainty in the legend./
-Tálanos summoned the young spearman and thirty others from his line. Carry them down to the stream, he said. Never cross. His young men laid spears on the hillside, each lifted one body of the other city, and descended in line with Agelis and his staff before them./
-Descending, Agelis turned to count as a herald must: a herald must report how many he brings home. He counted aloud as they passed. At nineteen he saw the face. His son./
-He did not stop counting. Hear this, heralds, hardest thing in the legend, your promised duty. He never stopped, never wept, never took his son from the young carrier. He said nineteen as he said eighteen, then twenty, through thirty-one. On the field a herald’s face belongs to his city, not himself. His city came for asking, not weeping on the hill./
-At the stream Tálanos’s young men laid the bodies down and returned uphill. Agelis’s levy approached the far bank. They watched everything from across, their sharpened spears unused. They crossed, lifted bodies, carried them home./
-Agelis crossed last. Across the stream on his own city’s land, unseen from the hill, he sat beside the nineteenth body, touched the boy’s face, and wept. The priests say he wept until sunset. The levy waited on the road. Nobody pressed him.
+Agelis had come up the hill alone, and there were thirty-one dead, and one man cannot carry thirty-one dead down a hill. He stood among them and did not know what to do. The priests say this is the only time in the legend that he did not know what to do.
+
+Then Tálanos called out of his line the young man who had put the spear to the herald's throat, and thirty others with him, and he said to them: carry them down. Carry them to the stream. Do not cross it. And the young men of Tálanos's levy laid down their spears on the hillside and took up the dead of the other city, one each, and carried them down the hill in a line, with the herald walking in front with his staff.
+
+And on the way down, Agelis turned to count them, as a herald counts, for a herald must be able to say how many he brought home. He counted them aloud as they passed him, and at the nineteenth he saw the face, and it was his son.
+
+He did not stop counting. Hear this, heralds, for it is the hardest thing in the legend and the thing you are sworn to. He did not stop counting, and he did not weep, and he did not take the body from the young man who carried it. He said: nineteen, in the same voice he had said eighteen, and then twenty, and on to thirty-one. For on the field the herald's face is not his own face. It is his city's face, and his city had not come to weep on that hillside. It had come to ask.
+
+At the stream the young men of Tálanos's levy laid the dead down on the bank, and went back up the hill. And the levy of Agelis's city came down to the far bank, for they had watched it all from the other side, with their spears sharpened and unused, and they crossed the stream and took up the dead and carried them home.
+
+Agelis crossed last. When he was across the stream, on his own city's ground, with no one from the hillside to see him, he sat down on the bank next to the nineteenth body and put his hand on the boy's face, and then he wept. The priests say he wept until the sun went down, and the levy waited for him on the road, and nobody hurried him.
 :::
 
 ::: {.verse form=prose lang=helo enc=helohelonikaenc work=the-herald-who-asked-for-the-dead-9}
-Agelis anabherin moneth authel. Ésarin 31 thaner. Meun anerith uf dunatharin féranin 31 thaner kateth lofir. Heir statharin enmes helin. Uf epistémarin prathin. Sarkhir rhéthasin heum ésarin moneth horath in histharin er uf epistemin er heir pir prathin./
-Tothel Tálanos kaleitharin nevaros anerith afor sothkadrin. Heir er thetharin grerin prou laurin er kerukhir. Koum 30 heter frun heir. Tálanos rhéthasin pir helin. Féranin helin kateth. Prou mikrir fótamir. Neur dian hein. Nevaros anerith er hoplothin er Tálanos thetharin grerin epir klinathin. Airatharin thaner er heter pólithar. Meun pir plum anerith. Féranin kateth lofir in homelin. Kerukhir badhelin prosthe frun skathir./
-Epir hodhis kateth Agelis allatharin trofelin pir arithmarin helin. Hoth kerukhir arithmarin. Dheir kerukhir ésarin anaghelir dunatharin rhéthasin posethin er féranin prou domin. Heir arithmarin thareth hoseth helin érkharin pef heir. In arithmas 19 heir meltharin prosarin. Heum ésarin huyir er heir./
-Heir uf pautharin arithmarin. Akrotharin heum kerukhir. Heum ésarin khalepir eil er plum heter praghin in histharin. Koum heum er hupeskharin er thu. Heir uf pautharin arithmarin. Uf kratharin. Uf lámbarin somir afor nevaros er féranin. Heir rhéthasin. 19. In hometh rhethin er 18. Huster 20. Mekhir 31. Dheir epir aghelin prosarin er kerukhir uf ésarin prosarin er authel. Hein ésarin prosarin er pólithar er heir. Pólithar er heir uf hikarin pir kratharin epir klinathin. Hein hikarin pir erotharin./
-Enth mikrir fótamir nevaros er hoplothin er Tálanos thetharin thaner epir ghéranis pef hidhir. Nostharin aneth lofir. Hoplothin er pólithar er Agelis érkharin kateth prou heter frelin. Dheir helin filarin plum praghin afor heter solten. Frun grerin er akmetharin. Uf pratharin helin. Helin dian mikrir fótamir. Airatharin thaner. Féranin prou domin./
-Agelis dian telesth. Hoseth heir ésarin perol mikrir fótamir epir ghéranis er pólithar er authel. Medhin ánthimor afor klinathin pir meltharin heir. Heir kathelarin epir ghéranis pef in arithmas 19 somir. Thetharin kheirin epir prosarin er paidhelir. Tothel heir kratharin. Sarkhir rhéthasin heir kratharin mekhir faenir piptharin. Hoplothin menarin heir epir hodhis. Medhin ánthimor othelarin heir pir takhir.
+Agelis anabherin lofir moneth, koum thaner ésarin trel zekhor koum meun, koum meun anerith uf dunatharin féranin trel zekhor koum meun thaner kateth lofir. Heir statharin enmes helin koum uf epistémarin thin pratharin. Sarkhir rhéthasin heum ésarin moneth horath in histharin thin heir uf epistémarin thin pratharin.
+
+Tothel Tálanos kaleitharin afor sothkadrin heun nevaros anerith er grerin enth laurin er kerukhir, koum trel zekhor heter frun heir, koum rhéthasin pir helin «Féranin helin kateth‼ Féranin helin prou mikrir fótamir‼ Neur érkharin dian hein‼» Koum nevaros anerith er hoplothin er Tálanos thetharin grerin epir klinathin, koum airatharin thaner er heter pólithar, meun pir plum anerith, koum féranin helin kateth lofir in estralin, koum kerukhir badhelin prosthe frun skathir.
+
+Koum epir hodhis kateth, Agelis allatharin trofelin pir arithmarin helin, hoth kerukhir arithmarin, dheir kerukhir deetharin dunatharin rhéthasin thin posethin heir ambarin prou domin. Heir arithmarin helin thareth hoseth helin érkharin pef heir, koum in arithmas zekhor koum ennevir heir meltharin prosarin, koum heum ésarin huyir er heir.
+
+Heir uf pautharin arithmarin. Akrotharin heum, kerukhir‼ Heum ésarin khalepir eil er plum heter praghin in histharin, koum heum thu orkharin. Heir uf pautharin arithmarin, koum uf kratharin, koum uf lámbarin somir afor nevaros anerith thin féranin hein. Heir rhéthasin «zekhor koum ennevir» in rhethin hometh hoth «zekhor koum okther», koum tothel «dhakor», koum mekhir «trel zekhor koum meun». Dheir epir aghelin prosarin er kerukhir uf ésarin prosarin er authel. Hein ésarin prosarin er pólithar er heir, koum pólithar er heir uf hikarin pir kratharin epir heun klinathin. Hein hikarin pir erotharin.
+
+Enth mikrir fótamir nevaros anerith er hoplothin er Tálanos thetharin thaner epir solten, koum nostharin aneth lofir. Koum hoplothin er pólithar er Agelis érkharin kateth prou heter solten, dheir helin filarin pluma afor heter solten, frun grerin akmetharin koum uf khresir, koum helin érkharin dian mikrir fótamir, koum airatharin thaner, koum féranin helin prou domin.
+
+Agelis érkharin dian telesth. Hoseth heir ésarin perol mikrir fótamir, epir ghéranis er pólithar er authel, koum medhin ánthimor afor klinathin pir meltharin heir, heir kathelarin epir solten pef somir in arithmas zekhor koum ennevir, koum thetharin kheirin epir prosarin er paidhelir, koum tothel heir kratharin. Sarkhir rhéthasin heir kratharin mekhir faenir piptharin, koum hoplothin menarin heir epir hodhis, koum medhin ánthimor kaleitharin heir.
 :::
 
 ## What the Asking Left
 
 ::: {.verse form=prose lang=en work=the-herald-who-asked-for-the-dead-10}
-All thirty-one returned. Their priests spoke their rites at their own altars. Their city received them. Agelis’s son lay in his grandfather’s earth./
-Next summer sheep climbed again and levies met again. Asking never ended fighting; the priests never claim it did. This time Agelis’s city held the field, Tálanos’s dead the hillside. Next morning a lone herald climbed from Tálanos’s city, staff wrapped white, speaking the words. Agelis stood in his own line, now old. He went out and said: Take them. When our turn comes, we ask./
-The custom passed from those cities to the others, one by one. Every city has heralds and dead. Over the following hundred years every city received it. Heralds promised here that the staff held at all times, beyond the Games’ month. Every city wrote it into the herald’s office. Law excludes a city harming a herald from the Games. This never happens.
+The dead came home and the rites were said over them, all thirty-one, by their own priests at their own altars, and they were received. Agelis's son was laid in his grandfather's ground.
+
+The next summer the flocks went up to the high pasture again, and the levies met again, for the asking did not end the fighting and the priests do not say it did. This time the levy of Agelis's city held the field, and Tálanos's dead lay on the hillside. And in the morning a herald came up the hill from Tálanos's city with a staff wound with white wool, alone, and said the words. And Agelis was standing in his own city's line, an old man now, and he went out to the herald and said: take them. When it is our turn, we will ask.
+
+And it went from those two cities to the others, one by one, for every city has a herald and every city has dead, and over the next hundred years every city came to it. The heralds swore at this altar that the staff should hold at every time and not only in the month of the Games, and every city wrote it into its herald's office. A city that harms a herald is struck out of the Games, and none has been.
 :::
 
 ::: {.verse form=prose lang=helo enc=helohelonikaenc work=the-herald-who-asked-for-the-dead-10}
-Thaner nostharin prou domin. Sarkhir er helin rhéthasin ieresin epir helin. Plum 31. Enth kor er helin. Pólithar er helin lámbarin helin. Huyir er Agelis khelrin in ghéranis er parikhor er tokhir./
-Efeth thérimos khedhin érkharin aneth prou hupsel klorin paleth. Hoplothin sumetharin paleth. Dheir erotharin uf pautharin makhetharin. Sarkhir uf rhéthasin heum. In heum horath hoplothin er pólithar er Agelis sotharin aghelin. Thaner er Tálanos khelrin epir klinathin. In orthrin kerukhir afor pólithar er Tálanos anabherin. Moneth authel. Skathir frun leukhelir erithin. Heir rhéthasin lékhisir. Agelis statharin in sothkadrin er pólithar er authel. Nuneth gerathir. Heir érkharin ekor prou kerukhir. Rhéthasin. Lámbarin helin. Hoseth horath er herin hikarin. Herin erotharin./
-Nomasir érkharin afor heun drin pólithar prou heter. Meun ethor meun. Dheir plum pólithar ekhárin kerukhir. Plum pólithar ekhárin thaner. In efeth henthor eniauthin plum pólithar lámbarin hein. Kerukhir hupeskharin enth heum kor. Skathir sotharin in plum khronin. Uf moneth in menethin er Theldir. Plum pólithar grafarin heum in nomasir er takhelin er kerukhir. Nomasir aphelin pólithar er algharin kerukhir afor Theldir. Heum tukharin medhin khronin.
+Thaner nostharin prou domin, koum sarkhir er authel rhéthasin ieresin epir helin enth kor er authel, plum trel zekhor koum meun, koum pólithar lámbarin helin. Huyir er Agelis khelrin in ghéranis er parikhor er tokhir er heir.
+
+In thérimos efeth khedhin anabherin paleth prou hupsel botherin, koum hoplothin sumetharin paleth, dheir erotharin uf pautharin makhethin, koum sarkhir uf rhéthasin heum. In heun horath hoplothin er pólithar er Agelis ekhárin aghelin, koum thaner er Tálanos khelrin epir klinathin. Koum in orthrin kerukhir afor pólithar er Tálanos anabherin lofir, moneth, frun skathir perith frun leukhelir erithin, koum rhéthasin lékhisir. Koum Agelis statharin in sothkadrin er pólithar er authel, nuneth gerathir anerith, koum érkharin ekor prou kerukhir koum rhéthasin «Lámbarin helin‼ Hoseth horath er herin, herin erotharin.»
+
+Koum hein érkharin afor heun drin pólithar prou heter, meun ethor meun, dheir plum pólithar ekhárin kerukhir, koum plum pólithar ekhárin thaner, koum in henthor eniauthin efeth plum pólithar hikarin prou hein. Kerukhir orkharin enth heum kor, skathir sotharin in plum khronin, koum uf moneth in theldin, koum plum pólithar grafarin hein in takhelin er kerukhir er authel. Eith pólithar algharin kerukhir, sothathin aphelin hein, koum sothathin aphelin medhin meil.
 :::
 
 ## The Close
 
 ::: {.verse form=prose lang=en work=the-herald-who-asked-for-the-dead-11}
-Now you know why your person belongs to gods at every time, heralds, beyond this month. Why the words stay the same. A man climbed a hill with a spear at his throat, spoke three times identically, and an undefeated man yielded. Change one word and you do not speak Agelis’s words. Your staff is wood./
-You ask his city. Every city asks at this altar since its beginning. Yours calls him yours. Your neighbor herald’s city does the same. The altar never answers, never will. No city owns it. No city owns the words. They are owed to the dead./
-Hands on stone, heralds. You promise in morning.
+Now you know why your person is the gods' at every time, heralds, and not only in this month. Now you know why the words do not change. A man went up a hill with a spear at his throat and said them three times, the same each time, and a man who had never been thrown gave way to them. If you change one word, you are not saying what Agelis said, and the staff in your hand is a stick.
+
+You will ask which city he was from. Every city has asked it at this altar since there was an altar. Your city will tell you he was yours. So will the city of the herald beside you. The altar does not say, and will not, because the altar is not any city's, and the words are not any city's either. They are what the dead are owed.
+
+Put your hands on the stone, heralds. In the morning you swear.
 :::
 
 ::: {.verse form=prose lang=helo enc=helohelonikaenc work=the-herald-who-asked-for-the-dead-11}
-Nuneth thu epistémarin aithelin er somir er thu ésarin er thásirin in plum khronin kerukhir. Uf moneth in heum menethin. Nuneth thu epistémarin aithelin er hometh lékhisir. Anerith anabherin lofir frun grerin prou laurin. Heir rhéthasin trel horath. Hometh plum horath. Anerith er medhin palaitharin er heter efarin lékhisir. Eith thu allatharin meun lékhisir. Thu uf rhéthasin lékhisir er Agelis. Skathir in kheirin er thu ésarin hulithin./
-Thu erotharin pólithar er heir. Plum pólithar erotharin enth heum kor afor ársidhin er kor. Pólithar er thu rhéthasin heir ésarin er thu. Pólithar er kerukhir pef thu rhéthasin hometh. Kor uf rhéthasin. Hein uf rhéthasin in mellin. Dheir kor uf ésarin er hosthir pólithar. Koum lékhisir uf ésarin er hosthir pólithar. Helin ésarin ofeilin prou thaner./
-Thetharin kheirin epir lithorin kerukhir. In orthrin thu hupeskharin.
+Nuneth thu epistémarin diath somir er thu ésarin er thásirin in plum khronin, kerukhir, koum uf moneth in heum menethin. Nuneth thu epistémarin diath lékhisir uf allatharin. Anerith anabherin lofir frun grerin enth laurin, koum rhéthasin helin trel horath, hometh in plum horath, koum anerith er medhin ánthimor palaitharin kinetharin pef pir helin. Eith thu allatharin meun lékhisir, thu uf rhéthasin thin Agelis rhéthasin, koum skathir in kheirin er thu ésarin hulithin.
+
+Thu erotharin pothel pólithar heir ésarin. Plum pólithar erotharin heum enth heum kor afor khronin er kor. Pólithar er thu rhéthasin pir thu heir ésarin er thu. Hometh pólithar er kerukhir pef thu. Kor uf rhéthasin, koum medhin khronin rhéthasin, dheir kor uf ésarin er hosthir pólithar, koum lékhisir uf ésarin er hosthir pólithar. Helin ésarin ofeilin pir thaner.
+
+Thetharin kheirin er thu epir lithorin, kerukhir‼ In orthrin thu orkharin.
 :::
 
 ## See Also

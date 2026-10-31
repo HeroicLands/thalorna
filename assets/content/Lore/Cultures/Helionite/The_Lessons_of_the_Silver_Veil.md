@@ -24,203 +24,271 @@ The sayings name no opponent and no master. A graduate quoting them at a governo
 : The First Year, at Twelve {#first}
 
 ::: {.verse form=precepts lang=en work=first}
-Remember the words at dinner and their speaker./
-Remember the silence and whose it was./
+Remember what was said at dinner, and by whom./
+Remember what was not said, and by whom it was not said./
 A word is a guest. Know its name before it leaves the house./
-The cup circles three times. Count cups, not words./
-Listen to the last speaker. He has already waited./
-Listen to the silent man. He still waits./
-Do not write it. Writing can be read./
-Say it to yourself before sleep. It belongs to you./
-A girl who forgets is a girl who does not listen./
-A girl remembering everything has no place to put it. Choose./
-The slave pouring wine hears the same words you hear. Have compassion for her./
-You have twelve years. You know nothing. Remember that first.
+The cup goes round three times. Count the cups and not the words./
+Listen to the man who speaks last. He has been waiting./
+Listen to the man who does not speak. He is waiting still./
+Do not write it down. A thing written can be read./
+Say it over to yourself before you sleep, and it is yours./
+A girl who forgets is a girl who was not listening./
+A girl who remembers everything has nowhere to put it. Choose./
+The slave who pours the wine hears what you hear. Be kind to her./
+You are twelve. You know nothing. That is the first thing to remember.
 :::
 
-::: {.verse form=precepts lang=helo enc=helohelonikaenc work=first}
-Nemorarin lékhisir enth hespedhin koum ánthimor er lékhisir./
-Nemorarin uf rhéthasin koum ánthimor er sighelin./
-Lékhisir ésarin ksenir. Epistémarin ónomir er hein prineth leiparin domin./
-Kulithin érkharin perith trel horath. Arithmarin kulithin neur lékhisir./
-Akrotharin anerith er telesth rhéthasin. Heir menarin edheth./
-Akrotharin anerith er uf rhéthasin. Heir ethel menarin./
-Neur grafarin hein. Anagharin praghin er grafarin ésarin dunelir./
-Rhéthasin hein prou authel prineth hufarin. Hein ésarin er thu./
-Paidhelira letharin. Paidhelira uf akrotharin./
-Paidhelira nemorarin plum praghin. Heira ekhárin medhin tofelin pir thetharin. Hairelarin./
-Doulir sulathin amphelin. Heira akherin hometh lékhisir er thu. Sunelira pir heira./
-Thu ekhárin 12 eniauthin. Thu epistémarin medhin praghin. Heum ésarin in arithmas meun pir nemorarin.
+::: {.verse form=precepts lang=helo enc=helohelonikaenc work=first scan=tetrameter}
+Nemorarin lékhisir er hespedhin, nemorarin thir‼/
+Nemorarin thin uf rhéthasin, koum thir uf rhéthasin‼/
+Lékhisir ésarin ksenir er domin./
+Epistémarin ónomir prineth leiparin‼/
+Kulithin perith trel horath./
+Arithmarin kulithin, neur lékhisir‼/
+Akrotharin anerith, heir rhéthasin telesth‼/
+Heir menarin edheth makrir khronin./
+Akrotharin anerith, heir uf rhéthasin‼/
+Heir menarin ethel makrir khronin./
+Neur grafarin‼ Grafarin, anagharin./
+Prou authel rhéthasin hein prineth hufarin‼ Er thu./
+Paidhelira letharin, der paidhelira uf akrotharin./
+Paidhelira pluma nemorarin./
+Medhin tofelin ekhárin. Hairelarin‼/
+Doulir sulathin, hometh akherin./
+Ekhárin sunelira pir heira‼/
+Thu zekhor koum drin. Thu epistémarin medhin./
+Heum, in arithmas meun pir nemorarin.
 :::
 
 : The Second Year, at Thirteen {#second}
 
 ::: {.verse form=precepts lang=en work=second}
-The left hand works the lyre. The right only strikes./
-The song lives in stopping the string, not striking it./
-Sing below conversation, not above. A guest need not raise his voice./
-Stop when conversation stops. When it begins again, begin below it./
-Learn the requested songs. Then learn the songs for next year./
-A man weeping at a song tells you what he does not say./
-Do not sing that song twice. Once he forgives. Twice he remembers./
-Tune before guests arrive. A girl tuning at table is a carpenter./
-Your voice belongs to you. Your face belongs to the Academy. Preserve both./
-The [[lore-zunelasdty|Veiled Dreamer]] gives night to the singer. Give evening to guests.
+The lyre is played with the left hand. The right only strikes./
+A song is in the stopping of the string, not the striking./
+Sing below the talk, not over it. A guest should not have to raise his voice./
+When the talk stops, stop. When it begins again, begin under it./
+Learn the songs men ask for. Then learn the songs they will ask for next year./
+A man who weeps at a song has told you what he will not say./
+Do not sing the song he weeps at twice. Once he forgives. Twice he remembers./
+Tune the lyre before the guests come. A girl who tunes at table is a carpenter./
+Your voice is your own. Your face is the Academy's. Keep both./
+The [[lore-zunelasdty|Veiled Dreamer]] gave the singer the night. Give the guests the evening.
 :::
 
-::: {.verse form=precepts lang=helo enc=helohelonikaenc work=second}
-Kheirin arister pratharin lirathin. Kheirin deksir moneth tufarin./
-Sorathin ésarin in pautharin nemir. Uf in tufarin./
-Sorarin hupor homethin neur huth. Ksenir uf deetharin airatharin rhethin./
-Hoseth homethin pautharin. Pautharin. Hoseth homethin ársidhin paleth. Ársidhin hupor hein./
-Mathelarin sorathin er erotharin er anerith. Huster mathelarin sorathin pir efeth eniauthin./
-Anerith kratharin enth sorathin. Heir rhéthasin pir thu praghin er uf rhéthasin er heir./
-Neur sorarin sorathin er kratharin er heir drin horath. Meun horath heir lusarin. Drin horath heir nemorarin./
-Harmin lirathin prineth hikarin er ksenir. Paidhelira harmin enth trapehin ésarin tekhthir./
-Rhethin er thu ésarin er thu. Prosarin er thu ésarin er epistémion. Sotharin drin olasin./
-Kelathir er Oneirin dorasarin nikhtir prou sorir. Dorasarin hesperin er hemerin prou ksenir.
+::: {.verse form=precepts lang=helo enc=helohelonikaenc work=second scan=tetrameter}
+Kheirin arister lirathin lirarhin./
+Kheirin deksir moneth tufarin./
+Sorathin in pautharin nemir, uf in tufarin./
+Sorarin hupor homethin, neur huth‼/
+Ksenir uf deetharin airatharin rhethin./
+Eith homethin pautharin, pautharin sorathin‼/
+Eith ársidhin paleth, ársidhin hupor hein‼/
+Mathelarin sorathin thin anthmerin erotharin‼/
+Tothel thin erotharin efeth eniauthin‼/
+Kratharin anerith hoseth thu sorarin,/
+rhéthasin pir thu thin medhin khronin rhéthasin./
+Neur hein sorarin drin horath‼/
+Meun, heir lusarin. Drin, heir nemorarin./
+Harmin lirathin prineth ksenir‼/
+Paidhelira harmin enth trapehin, tekhthir./
+Rhethin er thu, er thu. Prosarin er thu, er mathelion./
+Sotharin rhethin, sotharin prosarin‼/
+Kelathir dorasarin nikhtir prou sorir./
+Dorasarin hesperin er hemerin prou ksenir‼
 :::
 
 : The Third Year, at Fourteen {#third}
 
 ::: {.verse form=precepts lang=en work=third}
-Learn the [Song of the Ships]{.name data-type="lore/literature" lang=en} as each city sings it./
-Learn the first arrival at Thirenae and [[affiliation-pelagora|Pelagora]]. Speak each in its own house./
-Never announce the first arrival. Ask. Permit the guest to tell you./
-Learn every city’s founders, the seven and their later colonies,/
-and the old clans’ names, and which sits beside which in the theater./
-A man delights in his grandfather’s deed from a stranger’s mouth./
-More delight if the stranger is slightly wrong and he can correct her./
-Be slightly wrong./
-Learn the poets schools despise. Guests do not despise them./
-Learn the failed plays. Their paying man sits at table./
-A song is the city’s oldest record. Read it as a record.
+Learn the [Song of the Ships]{.name data-type="lore/literature" lang=en} as every city sings it./
+Learn which ship came first in Thirenae, and in [[affiliation-pelagora|Pelagora]], and say each in its house./
+Never say which ship came first. Ask. Let the guest tell you./
+Learn the founders of every city, the seven and the colonies after them,/
+and the names of the old clans, and which clan sits beside which in the theater./
+A man is pleased to hear his grandfather's deed from a stranger's mouth./
+He is more pleased if the stranger has it slightly wrong, so that he may correct her./
+Have it slightly wrong./
+Learn the poets the schools despise. The guests do not despise them./
+Learn the plays that lost. The man who paid for one is at the table./
+A song is the oldest record a city keeps. Read it as a record.
 :::
 
-::: {.verse form=precepts lang=helo enc=helohelonikaenc work=third}
-Mathelarin Sorathin er Naukir hoth plum pólithar sorarin hein./
-Mathelarin naukir er prineth plum hikathin in Thirenae koum in Pelagora. Rhéthasin heum in domin er hein./
-Medhin khronin rhéthasin naukir er prineth plum hikathin. Erotharin. Efarin ksenir rhéthasin pir thu./
-Mathelarin zerthir er plum pólithar. Hepthor koum apoikin huster helin./
-Koum ónomir er palaisir ghenthir. Koum ghenthir er kathelarin pef heter ghenthir in theathelin./
-Anerith ekhárin hedhirin er akherin prathin er parikhor er tokhir afor stomir er ksenethir./
-Heir ekhárin plethir hedhirin eith ksenethir ekhárin maleth uf orthelir lékhisir. Der heir dunatharin orthelinarin heira./
-Ekhárin maleth uf orthelir lékhisir./
-Mathelarin poiethelir er katheir er mathelion. Ksenir uf katheir helin./
-Mathelarin dramin er skalin. Anerith er mistharin pir dramin ésarin enth trapehin./
-Sorathin ésarin palaisir kathalir eil er plum heter kathalir er pólithar. Anagharin hein hoth kathalir.
+::: {.verse form=precepts lang=helo enc=helohelonikaenc work=third scan=tetrameter}
+Mathelarin Sorathin er Naukir,/
+hoth plum pólithar sorarin hein in domin‼/
+Mathelarin naukir prineth plum,/
+in Thirenae koum in Pelagora‼/
+Koum rhéthasin meun in domin er meun‼/
+Medhin khronin rhéthasin pothel‼/
+Erotharin‼ Efarin ksenir rhéthasin‼/
+Mathelarin zerthir er plum pólithar,/
+hepthor, koum apoikin huster helin,/
+ónomir er plum palaisir ghenthir,/
+koum pothel kathelarin pef pothel in theathelin‼/
+Anerith ekhárin hedhirin, akherin/
+kelir prathin er parikhor er tokhir,/
+akherin afor stomir er ksenethir./
+Plethir hedhirin, eith ksenethir rhéthasin/
+maleth uf orthelir, der heir orthelinarin heira./
+Ésarin maleth uf orthelir, maleth‼/
+Mathelarin poiethelir er katheir er mathelion‼/
+Ksenir uf ekhárin katheir pir helin./
+Mathelarin dramin er skalin‼/
+Anerith mistharin pir meun, heir enth trapehin./
+Sorathin thar palaisir kathalir er pólithar./
+Anagharin sorathin hoth kathalir‼
 :::
 
 : The Fourth Year, at Fifteen {#fourth}
 
 ::: {.verse form=precepts lang=en work=fourth}
-Argue either side. Then argue the third nobody sees./
+Argue either side. Then argue the third side, which no one has seen./
 Never win at dinner what you can win tomorrow at the door./
-A man defeated before friends is an enemy. Alone, a student./
-Ask the question whose answer you know. Ask as though unknowing./
-Agree with his first half. He gives you the other half./
-A first principle is a floor. Know your floor. Do not reveal it./
-Do not wander. A floorless girl falls through the house./
-When wrong, say so immediately and smile. It costs nothing. People remember./
-When he is wrong, permit discovery. Help him discover. Be absent at discovery./
-The assembly is not yours. Dinner before assembly is yours.
+A man defeated in front of his friends is an enemy. Alone, he is a pupil./
+Ask the question to which you know the answer. Ask it as though you did not./
+Agree with the first half of what he says. He will give you the second./
+A first principle is a floor. Know what yours is. Do not show it./
+Do not be a wanderer. A girl with no floor falls through the house./
+When you are wrong, say so at once and smile. It costs nothing and is remembered./
+When he is wrong, let him find it. Help him find it. Do not be there when he does./
+The assembly is not yours. The dinner before the assembly is.
 :::
 
-::: {.verse form=precepts lang=helo enc=helohelonikaenc work=fourth}
-Antilekharin meun er drin. Huster antilekharin in arithmas trel. Medhin ánthimor meltharin hein./
-Medhin khronin nikharin enth hespedhin praghin er dunatharin nikharin aurith enth thurin./
-Anerith hetthelir tror helfir ésarin misthir. Moneth authel heir ésarin mathelir./
-Erotharin pethin er epistemin er thu. Erotharin hoth uf epistémarin./
-Harmodharin frun in arithmas meun hemethin er lékhisir er heir. Heir dorasarin heter hemethin pir thu./
-Arkhidhin ésarin dafelin. Epistémarin dafelin er thu. Neur delarin hein./
-Neur ésarin planthis. Paidhelira frun medhin dafelin piptharin dres domin./
-Hoseth thu ésarin uf orthelir. Rhéthasin hein nuneth koum meidarhin. Hein deetharin medhin mistharin koum anthmerin nemorarin hein./
-Hoseth heir ésarin uf orthelir. Efarin heir heurarin hein. Ofelin heir heurarin hein. Neur ésarin eketh hoseth heir heurarin./
-Agelon uf ésarin er thu. Hespedhin prineth agelon ésarin er thu.
+::: {.verse form=precepts lang=helo enc=helohelonikaenc work=fourth scan=tetrameter}
+Antilekharin meun er drin‼/
+Tothel solten in arithmas trel./
+Medhin ánthimor meltharin hein edheth./
+Medhin khronin nikharin enth hespedhin/
+thin thu dunatharin nikharin aurith enth thurin‼/
+Hetthelir tror helfir, misthir ésarin./
+Hetthelir moneth, mathelir ésarin./
+Erotharin thin thu edheth epistémarin‼/
+Erotharin hoth thu uf epistémarin‼/
+Harmodharin frun hemethin in arithmas meun‼/
+Heir dorasarin pir thu in arithmas drin./
+Arkhidhin ésarin dafelin er domin./
+Epistémarin arkhidhin er thu‼ Neur delarin‼/
+Neur planthis, frun medhin dafelin‼/
+Paidhelira piptharin dres domin./
+Eith thu uf orthelir, rhéthasin nuneth koum meidarhin‼/
+Thu mistharin medhin, koum anthmerin nemorarin hein./
+Eith heir uf orthelir, efarin heir heurarin hein, ofelin heir‼/
+Neur ésarin eketh eith heir heurarin‼/
+Agelon uf er thu. Hespedhin prineth agelon, er thu.
 :::
 
 : The Fifth Year, at Sixteen {#fifth}
 
 ::: {.verse form=precepts lang=en work=fifth}
-Know each guest’s seat before he sits./
-The host places the man he fears at his right. Watch that man./
-An early guest wants something. A late guest already has it./
-Greet wife before husband. She is asked about you that night./
-Rise for elders. Rise for herald. No other, however high./
-You are a companion, no servant. Pour only for yourself./
-You are a companion, not for sale. Say it once. Never repeat./
-A man mistaking the house is shown the door courteously./
-Wear the veil outside. Silver, meant to be seen./
-In a foreign city eat the food before you. Remember who puts it there.
+Know the seat of every guest before he sits in it./
+The host puts the man he fears on his right. Watch the man on his right./
+A guest who comes early wants something. A guest who comes late has it already./
+Greet the wife before the husband. She will be asked about you that night./
+Rise for the old. Rise for the herald. Rise for no one else, however high./
+You are a companion. You are not a servant. Pour for no one but yourself./
+You are a companion. You are not for sale. Say it once, and then never again./
+A man who mistakes the house is shown the door, and the door is shown politely./
+Wear the veil when you go out. It is silver, and it is to be seen./
+In a strange city eat what is put before you, and remember who put it there.
 :::
 
-::: {.verse form=precepts lang=helo enc=helohelonikaenc work=fifth}
-Epistémarin kathelin er plum ksenir prineth kathelarin er heir./
-Ksenodhir thetharin anerith er felin er heir enth deksir. Filarin anerith enth deksir./
-Ksenir hikarin proimeth oratharin praghin. Ksenir hikarin opseir ekhárin hein edheth./
-Khaireth prou gemethira prineth gemethir. Anthmerin erotharin pir thu prou heira in heun nikhtir./
-Eghelarin pir gerathir. Eghelarin pir kerukhir. Medhin heter kaieth hupsel./
-Thu ésarin hetairin. Thu uf ésarin doulethin. Sulathin moneth pir authel./
-Thu ésarin hetairin. Thu uf ésarin pir polarin. Rhéthasin meun horath. Huster medhin khronin paleth./
-Anerith uf nemarin domin. Ánthimor vagharin thurin prou heir. Ánthimor vagharin thurin eughelreth./
-Endharin kelathin hoseth érkharin ekor. Hein ésarin argirin. Hein ésarin pir meltharin./
-In heterir pólithar edharin edhin tror thu. Nemorarin ánthimor er thetharin hein eketh.
+::: {.verse form=precepts lang=helo enc=helohelonikaenc work=fifth scan=tetrameter}
+Epistémarin kathelin er plum ksenir/
+prineth ksenir kathelarin epir hein‼/
+Anerith felin er ksenodhir, enth deksir./
+Filarin anerith enth deksir er ksenodhir‼/
+Ksenir proimeth, fom praghin oratharin./
+Ksenir opseir, edheth ekhárin hein./
+Khaireth prou gemethira prineth gemethir‼/
+Heira lámbarin pethin er thu in nikhtir./
+Eghelarin pir gerathir‼ Eghelarin pir kerukhir‼/
+Pir medhin heter, kaieth hupsel‼/
+Thu hetairin ésarin. Thu uf doulethin ésarin./
+Sulathin pir medhin ánthimor plor authel‼/
+Thu hetairin ésarin. Thu uf ésarin pir polarin./
+Rhéthasin meun, neur paleth‼/
+Eith anerith domin uf sunetharin,/
+vagharin thurin pir heir, eughelreth vagharin./
+Endharin kelathin, érkharin ekor‼/
+Argirin ésarin, koum ésarin pir meltharin./
+In heter pólithar, edharin edhin tror thu,/
+koum nemorarin thir thetharin hein eketh‼
 :::
 
 : The Sixth Year, at Seventeen {#sixth}
 
 ::: {.verse form=precepts lang=en work=sixth}
-Learn the whole garden: root, leaf, seed./
-Learn what cools fever, eases birth, brings sleep./
-Learn what brings endless sleep, so you recognize it in a cup./
-A companion unable to recognize a cup’s contents drinks them./
-Grow no plant you would be ashamed to have discovered in your room./
-Your hands heal. Say it. Let them see you heal a slave’s burn at table./
-The healing plant and killing plant are often the same. So are words./
-The [[lore-morvanadty|Mistress of the Waning Moon]] preserves every growing thing’s ending. Honor her./
-Give no sleeping draught without request. Then ask again.
+Learn the garden. Learn it all, the root and the leaf and the seed./
+Learn what cools a fever, and what eases a birth, and what brings sleep./
+Learn what brings a sleep that does not end. Learn it so that you know it in a cup./
+A companion who cannot tell what is in a cup is a companion who drinks it./
+Grow nothing you would be ashamed to have found in your room./
+Your hands heal. Say so. Let them see you heal a slave's burn at table./
+The herb that cures and the herb that kills are often one herb. So are words./
+The [[lore-morvanadty|Mistress of the Waning Moon]] keeps the end of every growing thing. Respect her./
+Do not give a man a sleeping draught unless he asks for it. Then ask him again.
 :::
 
-::: {.verse form=precepts lang=helo enc=helohelonikaenc work=sixth}
-Mathelarin horghin. Olasin horghin. Rhizin koum fullerin koum sperin./
-Mathelarin praghin er krumarthin nosathin. Koum praghin er rhadhelarin tekin. Koum praghin er féranin hufin./
-Mathelarin praghin er féranin hufin frun medhin telthin. Mathelarin pir nemarin hein in kulithin./
-Hetairin uf dunatharin nemarin praghin in kulithin. Hetairin potharin hein./
-Neur auksarin futherin pir aidhira in heurarin er domethin er thu./
-Kheirin er thu iatharin. Rhéthasin heum. Efarin helin meltharin thu iatharin ithralghin er doulir enth trapehin./
-Futherin er iatharin koum futherin er kenarin ésarin pollath hometh futherin. Koum lékhisir./
-Andáhr er Selenir er Meitharin sotharin telthin er plum auksarin praghin. Dokhazin heira./
-Neur dorasarin hupothin prou anerith eith heir uf erotharin hein. Huster erotharin heir paleth.
+::: {.verse form=precepts lang=helo enc=helohelonikaenc work=sixth scan=tetrameter}
+Mathelarin horghin, mathelarin hein olasin‼/
+Rhizin koum fullerin koum sperin, mathelarin‼/
+Mathelarin thin krumarthin nosathin,/
+thin rhadhelarin tekin, thin féranin hufin‼/
+Mathelarin hufin frun medhin telthin‼/
+Mathelarin hein, pir nemarin hein in kulithin‼/
+Hetairin uf dunatharin nemarin/
+thin ésarin in kulithin, koum heira potharin hein./
+Neur spórarin praghin er aidhira,/
+eith ánthimor heurarin hein in domethin er thu‼/
+Kheirin er thu iatharin. Rhéthasin heum‼/
+Efarin helin meltharin enth trapehin/
+thu iatharin frun kheirin ithralghin er doulir‼/
+Futherin er iatharin koum futherin er kenarin,/
+meun pollath. Lékhisir hometh./
+Dokhazin Andáhr er Meitharin er Selenir‼/
+Er heira telthin er plum auksarin./
+Neur dorasarin hupothin prou anerith/
+eith uf heir erotharin‼ Tothel erotharin paleth‼
 :::
 
 : The Seventh Year, at Eighteen {#seventh}
 
 ::: {.verse form=precepts lang=en work=seventh}
-Learn your city’s law, the seven’s, the sea’s./
-Learn the arriving house’s law, unwritten and older./
-Know a metic’s property, a freedman’s permitted speech, a slave’s prohibition./
-Know the auditor’s hold, honor-trial, stripping of honor./
-Know law’s ending-place. A companion stands there without fear./
-Law speaks prohibition. Your boundaries speak what you do not do./
-Preserve boundaries among people. Nobody asks about them privately./
-A man asking you across a boundary tells you his own crossing./
-Never speak your purpose. Speak your being: companion of the Silver Veil./
-If a man calls you an instrument, laugh. Ask who plays it./
-He does not know. You do not know either. That is correct.
+Learn the law of your own city, and of the seven, and of the sea./
+Learn the law of the house you go to, which is not written, and is older./
+Know what a metic may own, and what a freedman may say, and what a slave may not./
+Know the auditor's hold, and the honor-trial, and the stripping of honor./
+Know where the law ends. A companion stands where the law ends and is not afraid./
+The law says what you may not do. Your boundaries say what you will not./
+Keep your boundaries in public. Then no one asks about them in private./
+A man who asks you to cross one is telling you what he has crossed./
+Never say what you are for. Say what you are: a companion of the Silver Veil./
+If a man calls you an instrument, laugh, and ask him who plays it./
+He will not know. Nor will you. That is right.
 :::
 
-::: {.verse form=precepts lang=helo enc=helohelonikaenc work=seventh}
-Mathelarin nomasir er pólithar er thu. Koum er hepthor. Koum er thálimir./
-Mathelarin nomasir er domin er hikathin er thu. Hein uf ésarin grafarin koum ésarin palaisir./
-Epistémarin kemethin er methekir. Koum lékhisir er efir er lutherin. Koum apaghelir er doulir./
-Epistémarin euthenkarin. Koum timin. Koum dokhafin./
-Epistémarin tofelin er telthin er nomasir. Hetairin statharin enth telthin er nomasir koum uf ekhárin felin./
-Nomasir rhéthasin praghin er apaghelir. Nomethin er thu rhéthasin praghin er thu uf pratharin./
-Sotharin nomethin er thu enmes anthmerin. Huster medhin ánthimor erotharin pir hein in krufin./
-Anerith erotharin thu badhelin dian nomethin. Heir rhéthasin pir thu prathin er dian er heir./
-Medhin khronin rhéthasin skofelin er thu. Rhéthasin onthin er thu. Hetairin er Argirin Kelathin./
-Eith anerith ónomarin thu organir. Gelarin koum erotharin thir lirarhin organir./
-Heir uf epistémarin. Thu prostheth uf epistémarin. Heum ésarin orthelir.
+::: {.verse form=precepts lang=helo enc=helohelonikaenc work=seventh scan=tetrameter}
+Mathelarin nomasir er pólithar er thu,/
+nomasir er hepthor, nomasir er thálimir‼/
+Mathelarin nomasir er domin, thu érkharin prou hein‼/
+Medhin grafarin hein. Hein palaisir eil er nomasir./
+Epistémarin thin methekir efir ekhárin,/
+thin lutherin ésarin efir rhéthasin,/
+koum thin doulir uf ésarin efir pratharin‼/
+Epistémarin euthenkarin, koum timin, koum dokhafin‼/
+Epistémarin poith nomasir pautharin‼/
+Hetairin statharin, koum uf ekhárin felin./
+Nomasir rhéthasin thin uf ésarin efir./
+Nomethin er thu rhéthasin thin thu uf bouletharin./
+Sotharin nomethin enmes anthmerin‼/
+Medhin erotharin pir helin in krufin./
+Eith anerith erotharin badhelin dian,/
+rhéthasin pir thu thin heir edheth badhelin dian./
+Medhin khronin rhéthasin pir thin thu ésarin‼/
+Rhéthasin‼ Hetairin er Kelathin er Argirin./
+Eith anerith ónomarin thu organir, gelarin‼/
+Erotharin thir lirarhin organir‼/
+Heir uf epistémarin. Koum uf thu. Heum ésarin orthelir.
 :::
 
 : The Eighth Year, at Nineteen {#eighth}
@@ -228,15 +296,15 @@ Heir uf epistémarin. Thu prostheth uf epistémarin. Heum ésarin orthelir.
 ::: {.verse form=precepts lang=en work=eighth}
 […]
 
-The city could not preserve freedom with arms,/
-and intended to preserve it with conversation.
+The city could not keep its freedom by arms,/
+and would keep it by conversation.
 :::
 
 ::: {.verse form=precepts lang=helo enc=helohelonikaenc work=eighth}
 […]{lang=zxx}
 
-Pólithar uf dunatharin sotharin eleutherira frun hoplarin./
-Koum bouletharin sotharin hein frun homethin.
+Pólithar uf dunatharin sotharin eleutherira er authel frun hoplarin,/
+koum bouletharin sotharin eleutherira frun homethin.
 :::
 
 ## See Also
