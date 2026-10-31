@@ -6,9 +6,13 @@
 /**
  * The Earth-word guard (`npm run lint:earth-words`).
  *
- * Every word of a language note (`data.words[]`) is compared with word lists
- * the person running the check keeps locally. The repository holds no list and
- * no word of any real language.
+ * Every native form of a language note is compared with word lists the person
+ * running the check keeps locally: the words (`data.words[].form`), every name
+ * in the name lists (`data.names`, apart from `pattern`, `metadata` and the
+ * English lists under `en`), and the register names whose tongue is the
+ * language's own (`data.register[].name`; the tongues `translation`, `gloss`,
+ * `kept`, `exonym…` and `other…` name forms that are not native and are left
+ * out). The repository holds no list and no word of any real language.
  *
  * - **An Earth collision is an error.** The word's normalized form equals a
  *   whole word in a list of the language its culture is modelled on
@@ -28,15 +32,17 @@
  * in the second column identify roots and affixes; only free senses contribute
  * words and glosses. An unclassified text-only form is retained. Classification
  * happens before lists from different directories merge, so a free homonym in
- * either source remains a word. A form of fewer than three letters is not
- * compared.
+ * either source remains a word. A form of any length is compared, one letter
+ * included.
  *
  * **Meaning.** Where it is required, two glosses mean the same when they share content words: each
  * gloss is lowercased, its marks stripped and split into words of letters,
  * cleared of the function words and dictionary labels in `GLOSS_STOPWORDS`, and
  * a plural `-s`, `-es` or `-ies` reduced to its singular. The glosses agree
  * when the words they share are at least half the shorter gloss's words. A form
- * with several senses agrees when any one does.
+ * with several senses agrees when any one does. A name or register name has no
+ * gloss unless its register row states one, so in those two languages it
+ * collides only when it has one.
  *
  * **The directories** are each `--wordlists <dir>`, else the `KHAZRYN_WORDLISTS`
  * environment variable (paths joined by the platform's delimiter), else
@@ -59,8 +65,14 @@ import YAML from "yaml";
 /** Where the language notes live. */
 const LANGUAGES_DIR = "assets/content/Skills/Languages";
 
-/** The shortest normalized form compared with the whole-word lists. */
-const MIN_LENGTH = 3;
+/** The list whose `j` is said `h`. */
+const J_AS_H = "yucatec-maya";
+
+/** Register tongues whose names are not native forms of the language. */
+const NON_NATIVE_TONGUE = /^(?:translation|gloss|kept|exonym|other)(?::|$)/;
+
+/** Keys under `data.names` that hold no name. */
+const NOT_NAMES = new Set(["pattern", "metadata", "en"]);
 
 /** The share of the shorter gloss's content words two glosses must share to mean the same. */
 const SAME_MEANING = 0.5;
@@ -128,17 +140,19 @@ const GLOSS_STOPWORDS = new Set(
 /**
  * Reduce a form to its comparison shape: lowercase, the letters the spelling
  * guide replaces written as it writes them (`þ` as `th`, `ð` as `dh`, `ŋ` as
- * `ng`, `ß` as `ss`, `æ` as `a`, `ø` as `o`, `œ` as `e`, `ç` as `s`), marks
- * stripped, `q` and a
- * `c` not followed by `h` become `k`, `w` becomes `v`, `ph` becomes `f`, `dh`
- * becomes `d`, `kh` becomes `k`, doubled letters collapse, and anything that is
- * not a letter is dropped. `th`, `gh` and `ch` are kept: a word spelled with one
+ * `ng`, `ß` as `ss`, `æ` as `a`, `ø` as `o`, `œ` as `e`, `ç` as `s`; the
+ * hooked `ɓ`, `ɗ`, `ƙ`, `ƴ`, `ɣ` and `ɛ` as `b`, `d`, `k`, `y`, `g` and `e`),
+ * marks stripped, `q` and a `c` not followed by `h` become `k`, `w` becomes
+ * `v`, `ph` becomes `f`, `dh` becomes `d`, `kh` becomes `k`, doubled letters
+ * stay doubled, and anything that is not a letter is dropped, the apostrophe
+ * letters U+02BC, U+02BB and U+02BF among them. With `jAsH`, `j` becomes `h`. `th`, `gh` and `ch` are kept: a word spelled with one
  * of them is a different word from one spelled with `t`, `g` or `k`.
  *
  * @param {string} form
+ * @param {boolean} [jAsH] - Read `j` as `h`, for a list that writes `h` as `j`.
  * @returns {string}
  */
-export function normalize(form) {
+export function normalize(form, jAsH = false) {
     const s = form
         .toLowerCase()
         .replace(/þ/g, "th")
@@ -149,16 +163,23 @@ export function normalize(form) {
         .replace(/ø/g, "o")
         .replace(/œ/g, "e")
         .replace(/ç/g, "s")
+        .replace(/ɓ/g, "b")
+        .replace(/ɗ/g, "d")
+        .replace(/ƙ/g, "k")
+        .replace(/ƴ/g, "y")
+        .replace(/ɣ/g, "g")
+        .replace(/ɛ/g, "e")
         .normalize("NFD")
         .replace(/\p{M}/gu, "")
         .toLowerCase()
+        .replace(/[\u02BB\u02BC\u02BF]/g, "")
         .replace(/[^\p{L}]/gu, "")
         .replace(/c(?!h)|q/g, "k")
         .replace(/w/g, "v")
         .replace(/ph/g, "f")
         .replace(/dh/g, "d")
         .replace(/kh/g, "k");
-    return s.replace(/(\p{L})\1+/gu, "$1");
+    return jAsH ? s.replace(/j/g, "h") : s;
 }
 
 /**
@@ -222,7 +243,7 @@ export function loadEarth(dirs) {
             const local = new Set();
             for (const line of fs.readFileSync(path.join(dir, name), "utf8").split("\n")) {
                 if (hasBoundary(line)) continue;
-                const n = normalize(line);
+                const n = normalize(line, key === J_AS_H);
                 if (n) local.add(n);
             }
             const bound = new Set();
@@ -233,7 +254,7 @@ export function loadEarth(dirs) {
                 for (const line of fs.readFileSync(tsv, "utf8").split("\n")) {
                     const cells = line.split("\t");
                     if (cells.length < 2) continue;
-                    const n = normalize(cells[0]);
+                    const n = normalize(cells[0], key === J_AS_H);
                     if (!n) continue;
                     const pos = cells.length > 2 ? cells[1].trim().toLowerCase() : "";
                     if (hasBoundary(cells[0]) || boundClasses.has(pos)) {
@@ -305,31 +326,47 @@ export function sameMeaning(a, b) {
 }
 
 /**
- * Every word of a language note, with where it stands.
+ * Every native form of a language note, with where it stands: the words, the
+ * names of the name lists and the native register names.
  *
  * @param {string} text - The note.
  * @returns {{form: string, gloss: string, line: number, column: number}[]}
  */
-export function wordsOf(text) {
+export function formsOf(text) {
     const match = /^---\n([\s\S]*?)\n---/.exec(text);
     if (!match) return [];
     const lineCounter = new YAML.LineCounter();
     const doc = YAML.parseDocument(match[1], { lineCounter });
-    const words = doc.getIn(["data", "words"]);
-    if (!YAML.isSeq(words)) return [];
     const out = [];
-    for (const item of words.items) {
-        const node = YAML.isMap(item) ? item.get("form", true) : null;
-        if (!YAML.isScalar(node) || typeof node.value !== "string") continue;
+    const add = (node, gloss) => {
+        if (!YAML.isScalar(node) || typeof node.value !== "string") return;
         const { line, col } = lineCounter.linePos(node.range[0]);
+        out.push({ form: node.value, gloss, line: line + 1, column: col });
+    };
+    const glossOf = (item) => {
         const gloss = item.get("gloss");
-        out.push({
-            form: node.value,
-            gloss: typeof gloss === "string" ? gloss : "",
-            line: line + 1,
-            column: col,
-        });
-    }
+        return typeof gloss === "string" ? gloss : "";
+    };
+    const words = doc.getIn(["data", "words"]);
+    if (YAML.isSeq(words))
+        for (const item of words.items)
+            if (YAML.isMap(item)) add(item.get("form", true), glossOf(item));
+    const walk = (node) => {
+        if (YAML.isScalar(node)) add(node, "");
+        else if (YAML.isSeq(node)) node.items.forEach(walk);
+        else if (YAML.isMap(node))
+            for (const pair of node.items)
+                if (!NOT_NAMES.has(String(pair.key?.value ?? pair.key))) walk(pair.value);
+    };
+    walk(doc.getIn(["data", "names"], true));
+    const register = doc.getIn(["data", "register"]);
+    if (YAML.isSeq(register))
+        for (const item of register.items) {
+            if (!YAML.isMap(item)) continue;
+            const tongue = item.get("tongue");
+            if (typeof tongue === "string" && NON_NATIVE_TONGUE.test(tongue)) continue;
+            add(item.get("name", true), glossOf(item));
+        }
     return out;
 }
 
@@ -345,10 +382,9 @@ export function wordsOf(text) {
 export function earthHits({ form, gloss }, earth, sources, meaningRequired = false) {
     const out = [];
     if (/^-|-$/.test(String(form).trim())) return out;
-    const n = normalize(form);
-    if (n.length < MIN_LENGTH) return out;
     for (const list of sources) {
-        if (!earth.lists.get(list)?.has(n)) continue;
+        const n = normalize(form, list === J_AS_H);
+        if (!n || !earth.lists.get(list)?.has(n)) continue;
         if (!meaningRequired) {
             out.push({ severity: "error", message: `is a word of the ${list} list` });
             continue;
@@ -402,7 +438,7 @@ export function main(
     for (const file of files) {
         const rel = path.relative(cwd, path.resolve(cwd, file)) || file;
         const sources = SOURCES[path.basename(file)] ?? [];
-        for (const word of wordsOf(fs.readFileSync(path.resolve(cwd, file), "utf8"))) {
+        for (const word of formsOf(fs.readFileSync(path.resolve(cwd, file), "utf8"))) {
             words += 1;
             for (const hit of earthHits(
                 word,
