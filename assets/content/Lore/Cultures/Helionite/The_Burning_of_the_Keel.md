@@ -30,505 +30,532 @@ The rhapsode invokes [[lore-zunelasdty|Zunelas]], the Veiled Dreamer, as the sin
 : The Burning of the Keel {#song}
 
 ::: {.verse form=epic lang=en work=song}
-Veiled Dreamer, daughter of night’s long hours, standing behind the sleeper,/
-lifting veil’s corner, letting him see what he cannot carry,/
-lift it for me at altar before seven cities’ heralds./
-Give me headland’s night, fire, keel, choosing,/
-Ythros’s song, fire-wakeful, giving his ship to burning/
-so others reach land. He never sees valley./
-Begin where singers begin, black ships upon water.
+Veiled Dreamer, daughter of the night's long hours, who stand behind the sleeper/
+and lift the corner of the veil and let him see what he cannot carry,/
+lift it for me now, at the altar, before the heralds of the seven,/
+and give me the night on the headland, and the fire, and the keel, and the choosing,/
+the song of Ythros the fire-wakeful, who gave his ship to the burning/
+so that the others might come to the land, and did not see the valley./
+Begin it where the singers begin, with the black ships on the water.
 
-Seven black-hulled ships came down shore in autumn./
-Full land, people behind, pushed them from north./
-Seven ships, prows south, land always left./
-Land of headlands and gravel. No man meeting them./
-Hear ships, seven cities. Hear whose oar in which water.
+Seven they were, the black-hulled ships, that came down the coast in the autumn,/
+driven out of the north by the land that was full and the peoples behind them,/
+seven ships with their beaks to the south and the land on the left hand always,/
+and the land was a land of headlands and gravel and no man stood on it to meet them./
+Hear the ships, you seven cities. Hear whose oar is in which water.
 
-First Ythros’s ship, fire-wakeful, son of nobody the song knows./
-Broad and slow. Forty oars. Women and barley./
-Northern hearth in clay pot with lid./
-Coals alive on water throughout southern voyage./
-Women feed olive-pits and dung. It never stops./
-From her comes book-city, city of walls preserving libraries.
+First the ship of Ythros, the fire-wakeful, the son of no one the song knows,/
+broad in the beam and slow, with forty oars and the women and the barley,/
+and in her the hearth of the north in a pot of clay with a lid on it,/
+the coals kept alive on the water through the whole of the voyage south,/
+and the women fed it with olive-pits and dung, and it did not go out./
+From her came the city of the books, the city of the walls that kept their libraries.
 
-Next Nikhtis’s ship, steering by stars, narrow and quick./
-Sixty oars, no woman. Oarsmen proud./
-They go ahead by day, return at evening/
-to tell the shore ahead, more loudly than anyone./
-From her comes ship-city, city of assembly’s raised hands.
+Then the ship of Nikhtis, who steers by the stars, the narrow ship and the quick one,/
+with sixty oars and no women at all, and the oarsmen proud of it,/
+who went ahead of the others by day and came back to them at evening/
+to say what the coast was like ahead, and to say it louder than anyone./
+From her came the city of the ships, the city of the hands raised in the assembly.
 
-Next [Krenis]{.name data-type="being/npc" lang=helo}’s ship, dreaming water, painted eyes./
-Captain sleeps at steering-oar, wakes, names next spring./
-Crew digs where he says. Always finds it. Fears him./
-From her comes theater-city, city of patron houses.
+Then the ship of [Krenis]{.name data-type="being/npc" lang=helo}, who dreams the water, the ship with the painted eyes,/
+whose captain slept at the steering-oar and woke and named the next spring,/
+and the crew dug where he said and found it, and found it every time, and feared him./
+From her came the city of the theater, the city of the patron houses.
 
-Next [Arsos]{.name data-type="being/npc" lang=helo}’s ship, beginning count, sitting cross-bench with cord./
-Knot for every person aboard, knot for every seed jar./
-Unties a knot at a death. Cord shortens through autumn./
-From her comes city of oldest books, terraces, colonnades.
+Then the ship of [Arsos]{.name data-type="being/npc" lang=helo}, who began the count, who sat on the cross-bench with a cord/
+and tied a knot for every soul aboard and a knot for every jar of seed,/
+and untied a knot when one of them died, and the cord grew short in the autumn./
+From her came the city of the oldest texts, of the terraces and the colonnades.
 
-Next [Aghris]{.name data-type="being/npc" lang=helo}’s ship, driving furrow, carrying two oxen./
-Only ship carrying yoke and the beasts to bear it./
-Beasts stand amidship, low when sea rises./
-From her comes judges’ city, [[affiliation-ardavon|Keeper]]’s temple city.
+Then the ship of [Aghris]{.name data-type="being/npc" lang=helo}, who drove the furrow, the ship with the two oxen in her,/
+the only ship of the seven that carried a yoke and the beasts to bear it,/
+and the beasts stood in the waist of the ship and lowed when the sea got up./
+From her came the city of the judges, the city of the [[affiliation-ardavon|Keeper]]'s temple.
 
-Next [Timis]{.name data-type="being/npc" lang=helo}’s ship, preserving year, old ship repaired with hide./
-Captain cuts mast-notch for every voyage moon./
-Names moons. Nobody else on water knows which moon./
-From her comes year-naming city, auditors’ city.
+Then the ship of [Timis]{.name data-type="being/npc" lang=helo}, who held the year, the old ship patched with hides,/
+whose captain cut a notch in the mast for every moon of the voyage,/
+and gave the moons their names, and no one else on the water knew what moon it was./
+From her came the city that names its years, the city of the auditors.
 
-Next [Frelos]{.name data-type="being/npc" lang=helo}’s ship, keeping shingle, smallest of seven./
-Twenty oars, hide sail, water entering hull at stern-post./
-Captain drives her onto any shore at dusk. Sleeps on stones beside./
-From her comes small shore-city, city of fishing boats.
+Then the ship of [Frelos]{.name data-type="being/npc" lang=helo}, who held the shingle, the smallest ship of the seven,/
+twenty oars and a sail of hide and a hull that leaked at the stern-post,/
+whose captain ran her up on any beach at dusk and slept on the stones beside her./
+From her came the small city on the shore, the city of the fishing boats.
 
-These are seven, their captains, men of one deed./
-Long years wear names as sea wears stone,/
-until two syllables each, names to shout across harbor./
-Remember them, seven cities. Each comes out of ship.
+These are the seven, and these are their captains, men of a single deed,/
+whose names the long years wore down, as the sea wears down the stone,/
+until each is two syllables long, a name you can shout across a harbor./
+Remember them, you seven cities. Each of you came out of a ship.
 
-Twenty days south. Empty land, kindly sea./
-Twenty-first, western sky turns bruise-color./
-Timis’s elders say: Month of great storms./
-Wind turns from west, pushes them toward land./
-Like year’s-end herdsman on high terraces,/
-seeing cloud over ridge, running slope with goats,/
-hail behind, goats scattering left and right,/
-unable to call all. Hail finds uncalled ones./
-So storm descends on seven ships, scatters them upon water./
-Darkness early. Ships cannot see each other./
-Each oarsman pulls for life. Steersmen shout. Nobody hears.
+Twenty days they went south and the land was empty and the sea was kind,/
+and on the twenty-first the sky in the west went the color of a bruise,/
+and the old men in the ship of Timis said it was the moon of the gales,/
+and the wind came round out of the west and blew them in on the land./
+As when a herdsman at the end of the year on the high terraces/
+sees the cloud come over the ridge, and runs down the slope with his goats,/
+and the hail comes on behind him, and the goats scatter left and right,/
+and he cannot call them all, and the hail finds the ones he does not call,/
+so the storm came down on the seven ships and scattered them on the water,/
+and the dark came early, and the ships could not see one another./
+Each oarsman pulled for his life, and the steersmen shouted, and no one heard.
 
-Ythros at broad ship’s steering-oar, fire-wakeful,/
-sees black headland against sea in last light,/
-sheltered shore beneath, crescent of grey stones, no surf./
-Sets broad prow on shore. Forty oars push inside./
-Keel scrapes stones, stays. Women descend with barley./
-Oarsmen carry oil jars, nets, water skins./
-Carry clay pot, lid, northern hearth inside.
+Ythros was at the steering-oar of the broad ship, the fire-wakeful,/
+and he saw in the last of the light a headland black against the sea,/
+and a beach in the lee of it, a crescent of grey stones, and no surf on it./
+He put the broad ship's beak on the beach, and the forty oars drove her in,/
+and the keel ground on the stones and held, and the women got down with the barley,/
+and the oarsmen carried the jars of oil and the nets and the skins of water,/
+and they carried the pot of clay with the lid, and the hearth of the north was in it.
 
-Ythros stands in shore-rain, looks at sea behind./
-Black and white sea, black water, white breaking./
-Sees not one of six ships, no light, no oar./
-Speaks to crew in rain. Fire-Wakeful’s words:
+Then Ythros stood on the beach in the rain and looked at the sea behind him,/
+and the sea was black and white, the black of the water and the white of its breaking,/
+and he could not see one ship of the six, not one light, not one oar./
+He spoke to his crew in the rain, and this is what the fire-wakeful said:
 
-Friends, we stand on land. Gods give us shore./
-Behind us six ships. Sea breaks on headland./
-None can see this shore. None knows it exists./
-They go upon rocks in darkness, one after one. Sea has them./
-Stars’ ship, eyes’ ship, cord’s ship, oxen,/
-notched mast, little leaking ship. Then we are one ship on shore,/
-forty men, women, barley, alone at world’s end./
-Bring pot, northern coals. We kindle headland-fire.
+"Friends, we are on the land. The gods have given us a beach./
+Behind us there are six ships, and the sea is breaking on the headland,/
+and not one of them can see this beach, and not one of them knows it is here./
+They will go on the rocks in the dark, one by one, and the sea will have them,/
+the ship of the stars and the ship of the eyes, the ship of the cord, the oxen,/
+the notched mast and the little ship that leaks. Then we will be one ship on a beach,/
+forty men and the women and the barley, alone at the end of the world./
+Bring the pot. Bring the coals of the north. We will light a fire on the headland."
 
-They climb in rain, clay pot among them./
-Gather burning goods, little able, rain soaking them./
-Headland brush, shore driftwood, green or wet./
-Break pot-lid, set northern coals upon brush./
-Women kneel, blow. Smoke rises. Fire takes. Burns./
-Like night-house, low lamp, sick child./
-Mother rises in darkness, pours last oil into lamp./
-Flame rises. She sees child’s face, sits beside./
-Thus headland-fire rises. Crew sees each other’s faces.
+So they climbed the headland in the rain with the pot of clay among them,/
+and they gathered what would burn, and little would, for the rain had soaked it,/
+the brush of the headland and the drift of the beach, and the wood was green or wet,/
+and they broke the lid of the pot and tipped the coals of the north on the brush,/
+and the women knelt and blew on it, and it smoked, and it caught, and it burned./
+As when in a house at night the lamp is low and the child is sick,/
+and the mother gets up in the dark and pours the last of the oil in the lamp,/
+and the flame stands up again, and she sees the child's face, and sits down by it,/
+so the fire stood up on the headland, and the crew saw one another's faces.
 
-Whole night headland-fire burns. Rain arrives, leaves./
-They feed brush until headland is only rock./
-Feed driftwood until shore has none./
-Feed broad ship’s oars, forty, one after one./
-Each oar in fire is a man never rowing home./
-Second watch, light answers from water, torch at stern./
-Krenis’s ship arrives with painted eyes./
-Krenis descends stones. Says: I dream fire. Here it is./
-Third watch, horn answers, ram’s horn./
-Oxen low in dark. Aghris’s ship arrives./
-Oxen descend, stand on land, shake themselves./
-Before fourth watch, voice answers, old man counting knots./
-Arsos’s ship arrives. Arsos descends with cord./
-Counts people on shore. Cord as long as at evening.
+All night the fire burned on the headland, and the rain came and went,/
+and they fed it the brush of the headland until the headland was bare rock,/
+and they fed it the drift of the beach until there was no drift on the beach,/
+and they fed it the oars of the broad ship, forty oars, one at a time,/
+and every oar that went on the fire was a man who would not row home./
+And in the second watch a light answered out on the water, a torch at a stern,/
+and the ship of Krenis came in on the beach with her painted eyes,/
+and Krenis got down on the stones and said: I dreamed a fire, and here it is./
+And in the third watch a horn answered out on the water, a ram's horn,/
+and the oxen lowed in the dark, and the ship of Aghris came in,/
+and the oxen walked down off the ship and stood on the land, and shook themselves./
+And before the fourth watch a voice answered, an old man counting knots,/
+and the ship of Arsos came in, and Arsos got down with his cord,/
+and counted his people on the beach, and the cord was the same length as at evening.
 
-Three ships still on water. All oars in fire./
-Headland has no wood. Fire becomes red eye./
-Ythros sits beside red eye. Sleeps after two sleepless days./
-In sleep, Veiled Dreamer stands behind, lifts veil’s corner.
+But three ships were out on the water still, and the oars were all on the fire,/
+and the wood was gone from the headland, and the fire went down to a red eye,/
+and Ythros sat by the red eye and slept, because he had not slept for two days,/
+and in his sleep the Veiled Dreamer stood behind him and lifted the corner of the veil.
 
-Shows two roads, as Dreamer does, one each side of sleeper./
-On left, valley rising from sea to hills,/
-spring at head, olive terrace, house upon terrace./
-Ythros inside, old, grandsons on knees./
-Grandsons ask his name. Their fathers forget./
-On right, headland, fire, keel upon fire,/
-black keelless ship lying like gutted fish,/
-Ythros upon headland, dead in morning./
-Beneath, seven ships, seven peoples, city/
-carrying bones up unseen valley, setting stone above./
-Seven cities’ heralds speak his name at altar. Every one./
-Even those calling him liar speak his name.
+She showed him two roads, as the Dreamer shows them, one on either side of the sleeper./
+On the left hand she showed him a valley that runs up from the sea to the hills,/
+with a spring at its head and a terrace of olives and a house on the terrace,/
+and a man in the house who was Ythros, old, with his grandsons on his knees,/
+and the grandsons were asking his name, because their fathers had forgotten it./
+On the right hand she showed him the headland and the fire and the keel on the fire,/
+and the black ship with no keel lying on the beach like a gutted fish,/
+and a man on the headland who was Ythros, and the man was dead in the morning,/
+and below him on the beach were seven ships, and seven peoples, and a city/
+that carried his bones up a valley he never saw, and set a stone on them,/
+and the heralds of seven cities said his name at an altar, every one of them,/
+even the ones who said he was a liar, even those, they said his name.
 
-Dreamer says nothing, Veiled and speechless./
-Lowers veil. Ythros wakes beside fire’s red eye./
-Rises, calls crew around upon dark headland./
-Krenis’s crew arrives, Aghris’s crew, Arsos with cord.
+And the Dreamer said nothing, because she is the Veiled one and does not speak,/
+and she let down the veil, and Ythros woke by the red eye of the fire./
+He stood up and called his crew around him on the headland in the dark,/
+and the crew of Krenis came, and the crew of Aghris, and Arsos with his cord.
 
-Hear his deed, seven cities. This is song’s deed./
-He never chooses for them. Says: Firewood lies in one place,/
-my ship’s keel, black ship carrying northern hearth./
-Burn keel, fire remains until light. Three ships/
-on water see and arrive. Broad ship never sails again./
-Nobody arriving in her returns north while sea is sea./
-Keep keel, keep ship, three ships go upon rocks./
-I do not choose for you. Mine ship, yours homecoming./
-Bring me stones, two each, black and white, from shore,/
-and pot. Every man and woman sets one stone inside:/
-white to burn keel, black to preserve. We count.
+Hear now what he did, you seven cities, for this is the deed of the song./
+He did not choose for them. He said: there is wood for the fire in one place,/
+and it is the keel of my ship, the black ship that brought the hearth of the north,/
+and if we burn the keel the fire will last until the light comes, and the three ships/
+out on the water will see it, and come in; and the broad ship will never swim again,/
+and no one who came in her will go back north while the sea is the sea./
+And if we do not burn it, we keep a ship, and the three go on the rocks./
+I will not choose this for you. The ship is mine and the going home is yours./
+Bring me stones, one each, a black stone and a white one, from the beach,/
+and a pot, and every man and every woman put one stone in the pot,/
+the white to burn the keel and the black to keep it, and we will count them.
 
-They descend in darkness, take stones by touch./
-Nobody sees black or white on shore./
-Each holds stone beside fire’s red eye to know which./
-Broad ship’s crew, men, women, three other crews./
-Ythros says: You stand on headland. Headland is all of us./
-Aghris’s oxen low while they vote. Arsos counts stones./
-Counts on rock beside fire, white and black,/
-cord in teeth. Counts twice as counters do./
-Nine black. All other stones white./
-Ythros sets his own last, after count. White./
-Says: Count that too, old man. Mine, and keel.
+So they went down to the beach in the dark and picked up stones by feel,/
+because no one could see whether a stone was black or white on that beach,/
+and they held each stone to the red eye of the fire to know which was which,/
+the crew of the broad ship, men and women, and the crews of the three ships too,/
+for Ythros said: you are on this headland, and the headland is all of us,/
+and the oxen of Aghris lowed while they voted, and Arsos counted the stones./
+Arsos counted them out on the rock by the fire, the white and the black,/
+and his cord in his teeth, and he counted twice, as the counters count,/
+and there were nine black stones, and the rest of the stones were white./
+And Ythros put his own stone in last, after the count, and it was white,/
+and he said: count that one too, old man, for it is mine, and it is the keel.
 
-First vote upon that shore. Remember at voting jar./
-Broad ship’s city throws stones as he throws,/
-visibly, before fire, counted twice, number aloud.
+This was the first vote cast on that shore. Remember it at the urn./
+The city that came of the broad ship casts its stones as he cast his,/
+in the open, before the fire, and counted twice, and the count said aloud.
 
-Four crews descend, shoulders toward hull,/
-turn black ship upon stones as worker turns soil./
-Cut planks from keel with forest axes./
-Carry keel up headland on shoulders, forty people,/
-like young men carrying clan-elder’s bier at rites./
-Set it on red eye. Fire takes it, stands./
-High. Northern oak dry at heart despite rain./
-Burns white and loud. Headland lit like noon./
-Rain stops, as sky arrives to see fire.
+Then they went down to the beach, the four crews, and put their shoulders to the hull,/
+and turned the black ship over on the stones as a farmer turns a sod,/
+and cut away the planks from the keel with the axes they had for the forest,/
+and carried the keel up the headland on their shoulders, forty of them,/
+as the young men carry the bier of the old man of the clan at his rites,/
+and laid it on the red eye of the fire, and the fire took it, and stood up./
+High it stood, and the oak of the north was dry in its heart, for all the rain,/
+and it burned white and loud, and the headland was lit as if it were noon,/
+and the rain stopped, as if the sky had come to look at the fire.
 
-On water Timis’s ship sees, old hide-patched ship./
-Elders see from notched mast, steer, arrive./
-Timis descends shore, names moon: Keel’s moon./
-That is gale-month’s name in auditors’ city./
-Frelos’s little ship sees, half-full of sea./
-Arrives on stones, no stern-post, people bailing./
-Frelos drives her ashore, lies beside upon shingle, sleeps.
+And out on the water the ship of Timis saw it, the old ship patched with hides,/
+and the old men saw it from the notched mast, and steered, and came in,/
+and Timis got down on the beach and named the moon: the moon of the keel,/
+and that is the name of the moon of the gales in the city of the auditors./
+And the ship of Frelos saw it, the little ship, half full of the sea,/
+and she came in on the stones with the stern-post gone and her people bailing,/
+and Frelos ran her up the beach and lay down beside her on the shingle and slept.
 
-Nikhtis’s ship does not arrive. Remember, ship-men./
-Nikhtis steering by stars does not arrive at fire./
-Ship-city says: He sees fire, turns away./
-Their ship follows nothing, steering only stars./
-I say no star that night. Bruised sky, hills to sea./
-I say he sees fire, steers by it, sets prow away,/
-finds next shore by its light, calls that star-steering./
-Let ship-man answer afterward upon this stone./
-He answers at every Games. Shore stays in same place.
+But the ship of Nikhtis did not come in. Mark this, you men of the ships./
+The ship of Nikhtis, who steers by the stars, did not come in to the fire./
+They say in the city of the ships that he saw the fire and turned away from it,/
+because a ship of theirs follows nothing, and steers by the stars alone./
+I say there was no star that night. I say the sky was a bruise from the hills to the sea./
+I say he saw the fire and steered by the fire, and steered his beak away from it,/
+and found the next beach by the light of it, and called that steering by the stars./
+Let the man of the ships answer me after, when he stands on this stone./
+He has answered it at every Games, and the beach is where it was.
 
-Grey light over hills. Keel is long ember-bar./
-Six ships on sheltered shore, one on next./
-Peoples descend, stand on morning land./
-Seek Ythros, seated beside keel’s embers,/
-cloak around, head on knees, cold./
-No sleep, no food, two days in rain./
-Fire his work, standing at it. Work complete./
-Krenis climbs, touches him. Says: He dreams./
-Arsos climbs with cord, touches, unties knot.
+When the light came grey over the hills the keel was a long bar of embers,/
+and six ships were on the beach in the lee of the headland, and one on the next,/
+and the peoples got down from the ships and stood on the land in the morning,/
+and they looked for Ythros, and he was sitting by the embers of the keel,/
+with his cloak around him and his head on his knees, and he was cold./
+He had not slept, and he had not eaten, and he had been in the rain two days,/
+and the fire had been his work, and he had stood at it, and the work was done./
+Krenis came up the headland and touched him, and said: he is dreaming./
+Arsos came up with his cord and touched him, and untied a knot.
 
-Then a thing nobody on shore knows how to do./
-Northern clan-dead go to clan’s own rites,/
-spoken by clan-elders at clan-hearth, clan-place./
-Here no place, no hearth but keel-fire,/
-no rites of this land, nobody making rites yet./
-Ythros is first dead on shore. No receiving place.
+Then there was a thing that no one on that beach knew how to do./
+In the north, where they came from, the dead of a clan went to the clan's own rites,/
+said by the clan's old men at the clan's own hearth, in the clan's own place,/
+and here there was no place, and no hearth but a fire made of a keel,/
+and no rites of this land, for no one had made the rites of this land yet./
+Ythros was the first dead on that shore, and there was nowhere to receive him.
 
-Broad ship’s crew stands around, speaks nothing./
-Nothing to say without someone to hear, elders say./
-Then his son stands, Ythros’s son, fire-line’s first./
-Song never names him: roll names him. Roll is enough./
-He speaks to headland crew. Son’s words:
+The crew of the broad ship stood on the headland around him, and said nothing,/
+for there is nothing to say, the old men say, when there is no one to say it to./
+Then his son stood up, the son of Ythros, the first of the line of the fire,/
+whom the song does not name, because he is named in the roll, and the roll is enough./
+And he spoke to the crew on the headland, and this is what the son said:
 
-No city receives him. We make one. It receives him./
-Carry him from sea up valley with spring at head./
-Lay in earth, set keel-burning stone above./
-Around stone make meeting-place for speech,/
-around place city, around city wall, city’s rites./
-After rites complete, speak them over him, first rites./
-He is our city’s first dead, first citizen,/
-first roll-name. Lift stone. We go inland.
+"There is no city to receive him. Then we will make one, and it will receive him./
+We will carry him up from the sea to a valley with a spring at its head,/
+and lay him in the ground, and set the stone the keel burned on above him,/
+and around the stone we will make a place where people meet to talk,/
+and around the place a city, and around the city a wall, and the city's rites,/
+and when the rites are made we will say them over him, the first of them,/
+and he will be the first dead of our city, and the first citizen of it,/
+and the first name on the roll. Pick up the stone. We are going inland."
 
-Like ants at summer’s ending finding reaper’s dropped crumb,/
-too large for one, many gathering around one crumb,/
-lifting, moving upward to nest, little after little,/
-broad ship’s crew lifts keel-stone with Ythros upon it,/
-carries from headland, upward from sea, little after little./
-Other crews watch from shore, their climbing into hills./
-Aghris’s oxen go to first ridge, return.
+As when the ants at the end of summer find the crumb the reaper dropped,/
+too large for one to carry, and they gather around it, many to one crumb,/
+and lift it, and it moves, and goes up the path to the nest a little at a time,/
+so the crew of the broad ship lifted the keel-stone with Ythros on it,/
+and carried it off the headland and up from the sea, a little at a time,/
+and the other crews stood on the beach and watched them go up into the hills./
+And the oxen of Aghris went with them as far as the first ridge, and turned back.
 
-Nine days carrying. Ninth brings them to valley,/
-rising from sea to hills, spring at head,/
-terrace for olive-growing, no house upon it./
-Dreamer’s left-hand valley, valley he never chooses./
-They lay him there. Stone above. Place around stone./
-Place is book-city’s square. Stone inside./
-Arriving stranger is led to stone before library./
-Told: Our first citizen. He burns his ship. He brings you here.
+They carried him up for nine days, and on the ninth they came to a valley/
+that runs up from the sea to the hills, with a spring at its head,/
+and a terrace where olives would grow, and no house on the terrace,/
+the valley the Dreamer showed him on the left hand, the valley he did not choose./
+They laid him there. They set the stone on him. They made a place around it./
+And the place is the agorin of the city of the books, and the stone is in it,/
+and a stranger who comes to the city is taken to the stone before the library,/
+and is told: this is our first citizen. He burned his ship. He brought you here.
 
-That is keel-burning, seven cities, as book-city sings,/
-city of first vote, first dead, first fire./
-Others tell ships now. Let them. They arrive at fire./
-Veiled Dreamer, lower veil. Ships’ singer descends stone.
+That is the burning of the keel, you seven cities, as the city of the books sings it,/
+the city that holds the first vote and the first dead and the first fire./
+The others will tell you their own ships now. Let them. They came in to the fire./
+Veiled Dreamer, let down the veil. The singer of the ships gets down from the stone.
 :::
 
-::: {.verse form=epic lang=helo enc=helohelonikaenc work=song}
-Kelathir er Oneirin. Thighir er makrir horin er nikhtir. Thu statharin opith hufarin ánthimor./
-Thu airatharin zelvethin er kelathin. Efarin heir meltharin praghin er uf dunatharin féranin./
-Airatharin hein pir egh nuneth. Enth kor. Tror kerukhir er hepthor./
-Dorasarin egh nikhtir epir hadrin. Koum ithrin. Koum naukerin. Koum hairelin./
-Sorathin er Ythros egeirir er ithrin. Heir dorasarin naukir prou ithrarin./
-Der heter dunatharin hikarin prou ghéranis. Heir uf meltharin aulonin./
-Ársidhin enth ársidhin er sorir. Frun melanir naukir epir hidhir.
+::: {.verse form=epic lang=helo enc=helohelonikaenc work=song scan=hexameter}
+Kelathir er Oneirin, thighir er makrir horin er nikhtir,/
+thu statharin opith ánthimor er hufarin, koum airatharin zelvethin/
+er kelathin, koum efarin heir meltharin thin heir uf dunatharin féranin,/
+airatharin hein pir egh nuneth, enth kor, tror kerukhir er hepthor,/
+koum dorasarin pir egh nikhtir er hadrin, ithrin, naukerin, hairelin,/
+Ythros egeirir er ithrin, heir dorasarin naukir prou ithrarin,/
+der heter hikarin prou ghéranis, koum heir uf meltharin heun aulonin./
+Ársidhin hoth sorir ársidhin, frun melanir naukir in hidhir‼
 
-Hepthor helin ésarin. Naukir frun melanir stakhon. Helin érkharin kateth frelin in trúghira./
-Ghéranis ésarin plir. Anthmerin opith helin. Helin othelarin helin afor borethin./
-Hepthor naukir. Nauthos prou nothein. Ghéranis aeith enth arister./
-Ghéranis er hadrin koum skirathin. Medhin anerith statharin pir sumetharin helin./
-Akrotharin naukir hepthor pólithar. Akrotharin er thir erethin in pothel hidhir.
+Hepthor naukir melanir érkharin enth frelin in trúghira,/
+afor borethin, ghéranis plir koum anthmerin opith,/
+hepthor nauthos prou nothein, koum ghéranis aeith enth arister,/
+ghéranis er hadrin koum skirathin, koum medhin pir sumetharin helin./
+Akrotharin, hepthor pólithar‼ Erethin er thir in pothel hidhir‼
 
-Prineth plum naukir er Ythros egeirir er ithrin. Huyir er medhin ánthimor er epistemin er sorathin./
-Plathelir koum bradhelir. 40 erethin. Ghuneth koum krithon./
-In heira eskharin er borethin in keramin khitrin frun lekanon./
-Antherin zelir epir hidhir dres olasin pléarin prou nothein./
-Ghuneth fedharin hein frun elaistin koum kofelin. Hein uf pautharin./
-Afor heira érkharin pólithar er biblathin. Pólithar er teikhir er sotharin thelkon.
+Prineth plum naukir er Ythros egeirir er ithrin,/
+huyir er medhin ánthimor thin sorathin epistémarin,/
+plathelir koum bradhelir, naukir frun vesmor zekhor erethin,/
+frun ghuneth koum krithon, koum in heira eskharin er borethin in khitrin/
+er keramin frun lekanon, antherin zelir epir hidhir/
+dres olasin pléarin prou nothein, koum ghuneth fedharin helin/
+frun elaistin koum kofelin, koum ithrin medhin khronin pautharin./
+Afor heira, pólithar er biblathin, er teikhir koum thelkon.
 
-Efeth naukir er Nikhtis. Heir aghrarin frun astrin. Stenelir naukir koum takhir./
-60 erethin. Medhin ghuneth. Erethir ekhárin huferin pir hein./
-Helin érkharin prosthe heter naukir in hemerin. Nostharin prou helin in hesperin./
-Pir rhéthasin frelin prosthe. Pir rhéthasin thareth eil er plum heter ánthimor./
-Afor heira érkharin pólithar er naukir. Pólithar er kheirin er airatharin in agelon.
+Koum naukir er Nikhtis aghrarin frun astrin, stenelir, takhir,/
+zemor zekhor erethin koum medhin ghuneth, koum huferin,/
+prosthe heter in hemerin, koum nostharin prou helin in hespethin,/
+pir rhéthasin frelin prosthe, koum rhéthasin hein thareth eil er plum./
+Afor heira, pólithar er naukir koum kheirin in agelon.
 
-Efeth naukir er Krenis. Heir oneirarin hidhir. Naukir frun khromarin ofthelin./
-Naukhir hufarin enth pedharin. Egeirarin. Ónomarin efeth krenir./
-Nauthorin ertharin enth rhéthasin er heir. Heurarin krenir. Aeith heurarin. Ekhárin felin er heir./
-Afor heira érkharin pólithar er theathelin. Pólithar er domin er ghimarir.
+Koum naukir er Krenis oneirarin hidhir, frun ofthelin khromarin,/
+heir hufarin enth pedharin, egeirarin, ónomarin efeth krenir,/
+nauthorin ertharin, heurarin aeith, koum felin ekhárin er heir./
+Afor heira, pólithar er theathelin, er domin er ghimarir.
 
-Efeth naukir er Arsos. Heir ársidhin arithmas. Kathelarin epir dian makrir kathelin frun mikrir skoirin./
-Heir desmatharin desmin pir plum ánthimor epir naukir. Koum desmin pir plum stamnin er sperin./
-Heir lusmetharin desmin hoseth meun thanearin. Mikrir skoirin ghígnarin brakhelir in trúghira./
-Afor heira érkharin pólithar er palaisir biblathin. Er poltharin koum stíthalon.
+Koum naukir er Arsos ársidhin arithmas, frun mikrir skoirin,/
+desmatharin desmin pir plum ánthimor, koum pir stamnin er sperin,/
+koum lusmetharin desmin hoseth meun thanearin, koum skoirin/
+ghígnarin brakhelir in trúghira. Afor heira, pólithar/
+er biblathin palaisir eil er plum heter, er poltharin koum stíthalon.
 
-Efeth naukir er Aghris. Heir aghrarin holkhon. Naukir frun drin oukhthor./
-Moneth naukir er hepthor féranin zeughin koum thernin pir féranin hein./
-Thernin statharin in mesin er naukir. Mukharin hoseth thálimir eghelarin./
-Afor heira érkharin pólithar er dikhar. Pólithar er sarkhion er Filir.
+Koum naukir er Aghris aghrarin holkhon, frun drin oukhthor,/
+moneth naukir er hepthor frun zeughin, koum thernin pir féranin hein,/
+thernin in mesethin statharin, mukharin eith thálimir eghelarin./
+Afor heira, pólithar er dikhar koum sarkhion er Filir.
 
-Efeth naukir er Timis. Heir sotharin eniauthin. Palaisir naukir skeuarin frun skithin./
-Naukhir thametharin sperakin in speral pir plum selenir er pléarin./
-Heir ónomarin selenir. Medhin heter epir hidhir epistémarin pothel selenir./
-Afor heira érkharin pólithar er ónomarin eniauthin. Pólithar er euthenir.
+Koum naukir er Timis ekhárin eniauthin, palaisir, frun skithin,/
+heir thametharin sperakin in speral pir plum selenir er pléarin,/
+koum ónomarin selenir, koum medhin heter epistémarin pothel./
+Afor heira, pólithar thin ónomarin eniauthin, er euthenir.
 
-Efeth naukir er Frelos. Heir sotharin skirathin. Mikrir eil er plum heter naukir er hepthor./
-20 erethin. Skithin pteralon. Hidhir érkharin esor stakhon enth sternir./
-Naukhir aghrarin heira epir hosthin frelin in hespethin. Hufarin epir lithorin pef heira./
-Afor heira érkharin mikrir pólithar epir frelin. Pólithar er naukir er ikhthir.
+Koum naukir er Frelos ekhárin skirathin, mikrir eil er plum,/
+dhakor erethin, pteralon er skithin, hidhir enth sternir,/
+aghrarin heira epir hosthin frelin in hespethin,/
+koum hufarin epir lithorin pef heira. Afor heira,/
+mikrir pólithar epir frelin, er naukir er retherin.
 
-Heumir ésarin hepthor. Heumir naukhir. Anerith er meun prathin./
-Makrir eniauthin khararin ónomir. Hoth thálimir khararin lithorin./
-Mekhir plum ésarin drin ftonin. Ónomir pir kaleitharin dian limenir./
-Nemorarin helin hepthor pólithar. Plum er thu érkharin ekor afor naukir.
+Heumir hepthor naukhir, anerith er meun prathin,/
+ónomir er helin eniauthin khararin, hoth thálimir lithorin,/
+mekhir plum ónomir drin ftonin ésarin,/
+fom ónomir thu dunatharin thareth rhéthasin dian limenir./
+Nemorarin helin, hepthor pólithar‼ Thu afor naukir.
 
-20 hemerin helin érkharin nothein. Ghéranis mandhelir. Thálimir aghathin./
-In arithmas 21 ouranir in hesperin ghígnarin khrothin er irthon./
-Gerathir in naukir er Timis rhéthasin. Heum ésarin selenir er thar khemin./
-Ánevir allatharin afor hesperin. Heir othelarin helin prou ghéranis./
-Hoth herderin enth telthin er eniauthin epir hupsel poltharin./
-Heir meltharin nefelin perol thornir. Heir drametharin kateth klinathin frun guzethir./
-Khruthin érkharin opith heir. Guzethir sketharin prou arister koum deksir./
-Heir uf dunatharin kaleitharin helin olasin. Khruthin heurarin medhin kaleitharin thernin./
-Hometh khemin érkharin kateth prou hepthor naukir. Hein sketharin helin epir hidhir./
-Olthelin érkharin proimeth. Naukir uf dunatharin meltharin heter naukir./
-Plum erethir helkarin pir zelira. Naukhir thareth rhéthasin. Medhin ánthimor akherin.
+Dhakor hemerin érkharin prou nothein, ghéranis mandhelir,/
+thálimir kelir pir helin, koum in arithmas dhakor koum meun/
+ouranir in hesperin allatharin, ghígnarin khrothin er irthon,/
+koum gerathir in naukir er Timis rhéthasin, «Selenir er ánevir,»/
+koum ánevir afor hesperin othelarin helin prou ghéranis./
+Hoth herderin enth telthin er eniauthin epir hupsel poltharin/
+meltharin nefelin huth thornir, koum drametharin kateth frun guzethir,/
+koum khruthin opith heir, koum guzethir sketharin arister koum deksir,/
+koum heir uf dunatharin kaleitharin plum, koum khruthin heurarin thin heir uf kaleitharin,/
+hometh khemin hepthor naukir sketharin in hidhir,/
+koum olthelin hikarin proimeth, koum naukir uf meltharin heter./
+Eretharin pir zelira, naukhir kaleitharin, medhin akherin.
 
-Ythros ésarin enth pedharin er plathelir naukir. Egeirir er ithrin./
-Heir meltharin in telesth kirathin melanir hadrin tror thálimir./
-Koum frelin er skefelin hupor hadrin. Ghlinir er polithir lithorin. Medhin kurathon./
-Heir thetharin nauthos er plathelir naukir epir frelin. 40 erethin othelarin esor./
-Naukerin kherarin lithorin. Heira menetharin. Ghuneth érkharin kateth frun krithon./
-Erethir féranin stamnin er krenethin. Retherin. Skithin er hidhir./
-Helin féranin keramin khitrin frun lekanon. Eskharin er borethin ésarin in hein.
+Ythros egeirir er ithrin enth pedharin er plathelir naukir,/
+koum meltharin in kirathin telesth hadrin melanir tror thálimir,/
+frelin opith, ghlinir er lithorin, medhin kurathon./
+Thetharin nauthos prou frelin, koum vesmor zekhor erethin/
+othelarin heira, koum naukerin kherarin lithorin koum statharin,/
+koum ghuneth érkharin kateth frun krithon, koum erethir féranin/
+stamnin er krenethin, retherin, koum skithin plir er hidhir,/
+koum féranin khitrin er keramin frun lekanon, eskharin er borethin.
 
-Tothel Ythros statharin epir frelin in ombrin. Heir meltharin thálimir opith authel./
-Thálimir ésarin melanir koum leukhelir. Melanir hidhir. Leukhelir klastharin er hein./
-Heir uf dunatharin meltharin meun naukir er zemor. Medhin kirathin. Medhin erethin./
-Heir rhéthasin prou nauthorin in ombrin. Heum ésarin lékhisir er Egeirir er Ithrin.
+Ythros statharin in ombrin, meltharin thálimir opith heir,/
+melanir koum leukhelir, melanir er hidhir, leukhelir er kurathon,/
+koum heir uf meltharin meun naukir er zemor, uf kirathin, uf erethin./
+Heir rhéthasin pir nauthorin in ombrin, heum, egeirir er ithrin.
 
-Helfir. Herin ésarin epir ghéranis. Thásirin dorasarin herin frelin./
-Opith herin ésarin zemor naukir. Thálimir klastharin epir hadrin./
-Medhin er helin dunatharin meltharin heum frelin. Medhin er helin epistémarin hein ésarin enith./
-Helin érkharin prou lithorin in olthelin. Meun ethor meun. Thálimir ekhárin helin./
-Naukir er astrin. Naukir er ofthelin. Naukir er mikrir skoirin. Oukhthor./
-Speral er sperakin. Mikrir naukir er hidhir esor. Tothel herin ésarin meun naukir epir frelin./
-40 anerith. Ghuneth. Krithon. Moneth herin enth telthin er kosamir./
-Féranin khitrin. Féranin antherin er borethin. Herin karvarin ithrin epir hadrin.
+«Helfir, ghéranis. Thásirin dorasarin pir herin frelin./
+Opith, zemor naukir, koum kurathon epir hadrin,/
+koum medhin er helin meltharin frelin, medhin epistémarin hein./
+Piptharin epir lithorin, meun ethor meun,/
+koum thálimir lámbarin naukir er astrin, naukir er ofthelin,/
+skoirin, oukhthor, sperakin, koum mikrir naukir er hidhir./
+Tothel herin meun naukir epir frelin,/
+vesmor zekhor koum ghuneth, moneth enth khrosin er kosamir./
+Féranin khitrin‼ Féranin antherin er borethin, helfir‼/
+Herin karvarin ithrin aneth epir hadrin.»
 
-Der helin anabherin hadrin in ombrin. Keramin khitrin enmes helin./
-Helin sunatharin khrémasin pir ithrarin. Olighir dunatharin. Dheir ombrin hughrarin helin./
-Gruzethin er hadrin. Karpathin er frelin. Hulithin ésarin klorir eil hughrir./
-Helin klastharin lekanon er khitrin. Helin thetharin antherin er borethin epir gruzethin./
-Ghuneth gonetharin. Nemeirin hein. Kafelin eghelarin. Ithrin lámbarin. Ithrin ithrarin./
-Hoth in domin in nikhtir. Lukhnir khamelir. Tekir noselir./
-Mathira eghelarin in olthelin. Sulathin telesth krenethin in lukhnir./
-Floghir statharin paleth. Heira meltharin prosarin er tekir. Kathelarin pef tekir./
-Hometh ithrin statharin epir hadrin. Nauthorin meltharin prosarin er heter.
+Anabherin hadrin in ombrin, khitrin enmes helin,/
+koum sunatharin thin ithrarin, koum olighir ithrarin, dheir ombrin hughrarin hein,/
+futherin er gruzethin koum karpathin, hulithin klorir eil hughrir,/
+klastharin lekanon, afelarin antherin er borethin epir hein,/
+koum ghuneth gonetharin koum nemeirin, koum kafelin, koum karvarin, koum ithrarin./
+Hoth in domin in nikhtir lukhnir khamelir, koum tekir noselir,/
+koum mathira eghelarin in olthelin, sulathin telesth krenethin,/
+floghir statharin, koum heira meltharin prosarin, kathelarin pef,/
+hometh ithrin statharin, koum nauthorin meltharin prosarin.
 
-Olasin nikhtir ithrin ithrarin epir hadrin. Ombrin hikarin koum leiparin./
-Helin fedharin ithrin frun gruzethin mekhir hadrin ésarin moneth lithorin./
-Helin fedharin frun karpathin mekhir medhin karpathin epir frelin./
-Helin fedharin frun erethin er plathelir naukir. 40 erethin. Meun ethor meun./
-Plum erethin in ithrin ésarin anerith er uf eretharin prou domin./
-In in arithmas drin pazalin kirathin ameitharin afor hidhir. Dhelin enth sternir./
-Naukir er Krenis hikarin epir frelin frun khromarin ofthelin./
-Krenis érkharin kateth epir lithorin. Heir rhéthasin. Egh oneirarin ithrin. Hein ésarin enith./
-In in arithmas trel pazalin gauro ameitharin afor hidhir. Gauro er kanthir./
-Oukhthor mukharin in olthelin. Naukir er Aghris hikarin./
-Oukhthor badhelin kateth afor naukir. Statharin epir ghéranis. Kinetharin authel./
-Prineth in arithmas vesmor pazalin rhethin ameitharin. Gerathir anerith arithmarin desmin./
-Naukir er Arsos hikarin. Arsos érkharin kateth frun mikrir skoirin./
-Heir arithmarin anthmerin er heir epir frelin. Mikrir skoirin ekhárin hometh perathin hoth in hesperin.
+Olasin nikhtir ithrin ithrarin, koum ombrin érkharin,/
+fedharin hein frun gruzethin er hadrin, mekhir hadrin lithorin,/
+koum fedharin hein frun karpathin er frelin, mekhir medhin karpathin,/
+fedharin vesmor zekhor erethin, meun pef meun,/
+plum erethin in ithrin, anerith uf eretharin prou domin./
+In pazalin in arithmas drin, dhelin ameitharin enth sternir,/
+naukir er Krenis hikarin prou frelin frun ofthelin khromarin,/
+koum Krenis kateth rhéthasin, «Egh oneirarin ithrin, koum hein enith.»/
+In pazalin in arithmas trel, gauro er kanthir ameitharin,/
+koum oukhthor mukharin in olthelin, koum naukir er Aghris hikarin,/
+oukhthor kateth, statharin in ghéranis, koum kinetharin authel./
+Prineth pazalin in arithmas vesmor rhethin ameitharin,/
+gerathir arithmarin desmin, koum naukir er Arsos hikarin,/
+Arsos kateth frun skoirin arithmarin anthmerin er heir,/
+koum skoirin ésarin er hometh perathin hoth heun hespethin.
 
-Almon trel naukir ethel epir hidhir. Erethin olasin in ithrin./
-Hulithin uf ésarin epir hadrin. Ithrin ghígnarin meun eruthir ofthelin./
-Ythros kathelarin pef eruthir ofthelin. Hufarin. Dheir heir uf hufarin drin hemerin./
-In hufin er heir Kelathir er Oneirin statharin opith heir. Airatharin zelvethin er kelathin.
+Trel ethel in hidhir, koum plum erethin in ithrin,/
+hulithin apeth, koum ithrin kateth prou eruthir ofthelin,/
+koum Ythros kathelarin pef hein koum hufarin, dheir uf hufarin drin hemerin,/
+koum in hufin Kelathir statharin opith koum airatharin zelvethin.
 
-Heira vagharin drin hodhis. Hoth Oneirir vagharin. Meun enth plum solten er hufarin ánthimor./
-Enth arister heira vagharin aulonin afor thálimir prou lofir./
-Krenir enth kefalir. Poltharin er elaisir. Domin epir poltharin./
-Anerith in domin ésarin Ythros. Gerathir. Frun huyir er tekir epir gonethir./
-Huyir er tekir erotharin ónomir er heir. Dheir parikhor er helin letharin hein./
-Enth deksir heira vagharin hadrin. Ithrin. Naukerin epir ithrin./
-Melanir naukir frun medhin naukerin khelrin epir frelin hoth ikhthir frun medhin enthelin./
-Anerith epir hadrin ésarin Ythros. Anerith ésarin thaner in orthrin./
-Hupor heir epir frelin ésarin hepthor naukir. Hepthor anthmerin. Pólithar./
-Pólithar féranin osthelin er heir aneth aulonin er uf meltharin er heir. Thetharin lithorin epir helin./
-Kerukhir er hepthor pólithar rhéthasin ónomir er heir enth kor. Plum er helin./
-Kaieth ánthimor er rhéthasin heir ésarin apathir. Kaieth helin rhéthasin ónomir er heir.
+Heira vagharin drin hodhin, hoth Oneirir vagharin,/
+meun epir plum solten er ánthimor er hufarin./
+Enth arister, aulonin afor thálimir aneth prou lofir,/
+frun krenir enth kefalir, poltharin er elaisir, domin epir hein,/
+Ythros gerathir in domin, tekir er tekir pef gonethir,/
+koum helin erotharin ónomir er heir, dheir parikhor letharin hein./
+Enth deksir, hadrin koum ithrin, koum naukerin epir ithrin,/
+melanir naukir, medhin naukerin, hoth ikhthir anoigharin,/
+koum Ythros epir hadrin, koum heir thaner ésarin in orthrin,/
+koum hupor heir hepthor naukir, hepthor anthmerin, koum pólithar/
+féranin osthelin er heir prou aulonin thin heir medhin khronin meltharin,/
+koum thetharin lithorin huth helin, koum kerukhir er hepthor pólithar/
+rhéthasin ónomir er heir enth kor, plum ánthimor er helin,/
+kaieth thin rhéthasin «Apathir», heunir thoir, rhéthasin ónomir.
 
-Oneirir rhéthasin medhin. Dheir heira ésarin Kelathir. Heira uf rhéthasin./
-Heira thetharin kelathin kateth. Ythros egeirarin pef eruthir ofthelin er ithrin./
-Heir eghelarin. Kaleitharin nauthorin perith authel epir hadrin in olthelin./
-Nauthorin er Krenis hikarin. Nauthorin er Aghris. Arsos frun mikrir skoirin.
+Koum Oneirir rhéthasin medhin, dheir heira Kelathir koum uf rhéthasin,/
+afelarin kelathin, koum Ythros egeirarin pef eruthir ofthelin./
+Heir eghelarin koum kaleitharin nauthorin perith, in olthelin,/
+koum nauthorin er Krenis érkharin, koum er Aghris, koum Arsos frun skoirin.
 
-Akrotharin prathin er heir hepthor pólithar. Heum ésarin prathin er sorathin./
-Heir uf hairelarin pir helin. Heir rhéthasin. Hulithin pir ithrin ésarin in meun tofelin./
-Naukerin er naukir er egh. Melanir naukir er féranin eskharin er borethin./
-Eith herin ithrarin naukerin. Ithrin menetharin mekhir kirathin. Trel naukir./
-Epir hidhir meltharin hein koum hikarin. Plathelir naukir uf dunatharin pléarin paleth./
-Medhin ánthimor er hikarin in heira nostharin borethin hoseth thálimir ésarin thálimir./
-Eith herin uf ithrarin naukerin. Herin sotharin naukir. Trel naukir érkharin epir lithorin./
-Egh uf hairelarin heum pir thu. Naukir ésarin er egh. Nostharin prou domin ésarin er thu./
-Féranin lithorin pir egh. Plum ánthimor drin. Melanir koum leukhelir afor frelin./
-Koum khitrin. Plum anerith koum plum ghuneth thetharin meun lithorin in khitrin./
-Leukhelir pir ithrarin naukerin. Melanir pir sotharin naukerin. Herin arithmarin helin.
+Akrotharin, hepthor pólithar‼ Heum, prathin er sorathin./
+Heir uf hairelarin pir helin. Rhéthasin, «Hulithin enth meun tofelin,/
+naukerin er naukir er egh, melanir, thin féranin eskharin er borethin,/
+eith herin ithrarin hein, ithrin menetharin mekhir eothira,/
+koum trel naukir in hidhir meltharin hein koum hikarin enith,/
+koum plathelir naukir medhin khronin pléarin paleth,/
+koum medhin er heira nostharin, hoseth thálimir thálimir./
+Eith uf ithrarin, herin ekhárin naukir, trel piptharin./
+Egh uf hairelarin heum pir thu. Naukir ésarin er egh, koum nostharin ésarin er thu./
+Féranin lithorin, meun melanir, meun leukhelir‼/
+Koum khitrin, koum plum anerith koum ghuneth thetharin meun in hein‼/
+Leukhelir pir ithrarin, melanir pir sotharin, koum herin arithmarin.»
 
-Der helin érkharin kateth prou frelin in olthelin. Lámbarin lithorin frun hafarin./
-Dheir medhin ánthimor dunatharin meltharin melanir eil leukhelir epir frelin./
-Helin sotharin plum lithorin pef eruthir ofthelin er ithrin. Pir epistémarin pothel./
-Nauthorin er plathelir naukir. Anerith koum ghuneth. Koum nauthorin er trel naukir./
-Dheir Ythros rhéthasin. Thu ésarin epir heum hadrin. Hadrin ésarin herin olasin./
-Oukhthor er Aghris mukharin hoseth helin sfratharin. Arsos arithmarin lithorin./
-Arsos arithmarin helin epir lithorin pef ithrin. Leukhelir koum melanir./
-Mikrir skoirin in dhontir. Heir arithmarin drin horath. Hoth metrir arithmarin./
-Ennevir lithorin ésarin melanir. Plum heter lithorin ésarin leukhelir./
-Ythros thetharin lithorin er authel telesth. Huster arithmas. Hein ésarin leukhelir./
-Heir rhéthasin. Arithmarin heun prostheth gerathir anerith. Hein ésarin er egh. Hein ésarin naukerin.
+Kateth prou frelin in olthelin, lámbarin lithorin frun hafin,/
+dheir medhin dunatharin meltharin, melanir eil leukhelir,/
+koum airatharin plum lithorin prou eruthir ofthelin pir epistémarin,/
+nauthorin er plathelir, anerith koum ghuneth, koum trel heter,/
+dheir Ythros rhéthasin, «Thu in hadrin, koum hadrin, herin plum,»/
+koum oukhthor er Aghris mukharin hoseth helin sfratharin./
+Koum Arsos arithmarin helin epir lithorin pef ithrin,/
+leukhelir koum melanir, koum mikrir skoirin enmes dhontir er heir,/
+koum arithmarin drin horath, hoth metrir arithmarin,/
+koum ennevir melanir ésarin, koum heter plum leukhelir./
+Ythros thetharin er authel telesth, huster arithmas,/
+koum hein leukhelir ésarin, koum heir rhéthasin, «Arithmarin heum prostheth,/
+gerathir anerith, dheir heum er egh, koum heum ésarin naukerin.»
 
-Heum ésarin prineth plum thresos epir heun frelin. Nemorarin enth stamnin er thresos./
-Pólithar er plathelir naukir rhiptharin lithorin hoth heir rhiptharin./
-Enth melthir tofelin. Tror ithrin. Drin horath arithmarin. Arithmas thareth rhéthasin.
+Thresos in arithmas meun in frelin. Nemorarin hein enth stamnin‼/
+Pólithar afor plathelir naukir sfratharin hoth heir sfratharin,/
+tror ithrin, drin horath arithmarin, koum arithmas thareth.
 
-Tothel helin érkharin kateth prou frelin. Vesmor nauthorin. Helin thetharin omethir prou stakhon./
-Helin allatharin melanir naukir epir lithorin. Hoth erghelir allatharin solten er ghéranis./
-Helin thametharin santhin afor naukerin frun pelakin pir drumin./
-Helin féranin naukerin aneth hadrin epir omethir. 40 ánthimor./
-Hoth nevaros anerith féranin nekrathin er gerathir er ghenthir enth ieresin./
-Helin thetharin hein epir eruthir ofthelin er ithrin. Ithrin lámbarin hein. Ithrin statharin./
-Hupsel ithrin. Dhroun er borethin kserir in kordhin aneuth ombrin./
-Hein ithrarin leukhelir koum tharir. Hadrin ésarin frun kirathin hoth mesin er hemerin./
-Ombrin pautharin. Hoth ouranir hikarin pir meltharin ithrin.
+Vesmor nauthorin érkharin, omethir epir stakhon,/
+koum kamparin melanir naukir, hoth erghelir kamparin holkhon,/
+koum thametharin santhin afor naukerin frun pelakin pir drumin,/
+koum féranin naukerin epir omethir, vesmor zekhor,/
+hoth nevaros anerith féranin nekrathin er gerathir er ghenthir,/
+koum thetharin hein in eruthir ofthelin, ithrin lámbarin, statharin./
+Hupsel statharin. Dhroun er borethin kserir in kordhin./
+Ithrarin leukhelir, thareth, koum hadrin hoth in mesin er hemerin,/
+koum ombrin pautharin, hoth ouranir hikarin pir meltharin ithrin.
 
-Epir hidhir naukir er Timis meltharin hein. Palaisir naukir frun skithin./
-Gerathir anerith meltharin afor speral er sperakin. Helin aghrarin. Helin hikarin./
-Timis érkharin kateth epir frelin. Ónomarin selenir. Selenir er naukerin./
-Heum ésarin ónomir er selenir er khemin in pólithar er euthenir./
-Naukir er Frelos meltharin hein. Mikrir naukir. Hemethin plir er thálimir./
-Heira hikarin epir lithorin. Medhin sternir. Anthmerin humeirin./
-Frelos aghrarin heira epir frelin. Khelrin pef heira epir skirathin. Hufarin.
+Koum in hidhir naukir er Timis meltharin hein, palaisir, frun skithin,/
+gerathir meltharin afor speral, koum aghrarin, koum hikarin,/
+koum Timis kateth ónomarin selenir, «Selenir er naukerin,»/
+koum heum ónomir er selenir er ánevir in pólithar er euthenir./
+Koum naukir er Frelos meltharin hein, mikrir, hemethin thálimir,/
+koum hikarin epir lithorin, sternir apolarin, humeirin./
+Frelos aghrarin heira aneth, khelrin pef, koum hufarin.
 
-Almon naukir er Nikhtis uf hikarin. Nemorarin heum anerith er naukir./
-Naukir er Nikhtis er aghrarin frun astrin uf hikarin prou ithrin./
-Anthmerin in pólithar er naukir rhéthasin. Heir meltharin ithrin. Heir allatharin trofelin apeth./
-Dheir naukir er helin akolarin medhin. Heira aghrarin frun astrin moneth./
-Egh rhéthasin. Medhin astrin in heun nikhtir. Egh rhéthasin. Ouranir ésarin irthon afor lofir prou thálimir./
-Egh rhéthasin. Heir meltharin ithrin. Heir aghrarin frun ithrin. Heir thetharin nauthos apeth afor ithrin./
-Heir heurarin efeth frelin frun kirathin er hein. Heir ónomarin heum aghrarin frun astrin./
-Efarin anerith er naukir ameitharin egh huster. Hoseth heir statharin epir heum lithorin./
-Heir ameitharin in plum theldir. Frelin ésarin enth hometh tofelin.
+Almon Nikhtis uf hikarin. Nemorarin, anerith er naukir‼/
+Naukir er Nikhtis aghrarin frun astrin uf hikarin prou ithrin./
+In pólithar er naukir helin rhéthasin, heir meltharin ithrin/
+koum allatharin trofelin apeth afor hein, dheir naukir er helin/
+akolarin medhin praghin, koum aghrarin frun astrin moneth./
+Egh rhéthasin, medhin astrin ésarin in heun nikhtir./
+Egh rhéthasin, ouranir irthon afor lofir prou thálimir./
+Egh rhéthasin, heir meltharin ithrin, koum aghrarin frun heum ithrin,/
+nauthos apeth, koum heurarin frelin efeth frun kirathin er hein,/
+koum tothel heir ónomarin heum, «Aghrarin frun astrin, moneth.»/
+Efarin anerith er naukir ameitharin egh huster,/
+hoseth heir statharin epir heum lithorin, enith‼/
+Heir ameitharin enth plum Theldir, koum frelin ethel eketh.
 
-Hoseth polithir kirathin hikarin huth lofir. Naukerin ésarin makrir lothelin er antherin./
-Zemor naukir epir frelin er skefelin hupor hadrin. Meun epir efeth frelin./
-Anthmerin érkharin kateth afor naukir. Helin statharin epir ghéranis in orthrin./
-Helin zethelarin Ythros. Heir kathelarin pef antherin er naukerin./
-Khalnir perith heir. Kefalir epir gonethir. Heir ésarin krumir./
-Heir uf hufarin. Uf edharin. In ombrin drin hemerin./
-Ithrin ésarin prathin er heir. Heir statharin enth hein. Prathin ésarin telethin./
-Krenis anabherin hadrin. Hafarin heir. Rhéthasin. Heir oneirarin./
-Arsos anabherin frun mikrir skoirin. Hafarin heir. Lusmetharin desmin.
+Polithir kirathin huth lofir, koum naukerin ésarin lothelin,/
+zemor epir frelin, koum meun epir efeth,/
+anthmerin kateth, statharin epir ghéranis in orthrin,/
+koum zethelarin Ythros, koum heir kathelarin pef lothelin er naukerin,/
+frun khalnir perith heir koum kefalir epir gonethir, koum heir krumir./
+Heir uf hufarin, koum uf edharin, koum ésarin in ombrin drin hemerin,/
+koum ithrin, prathin er heir. Heir statharin pef. Prathin ghígnarin olasin./
+Krenis anabherin hadrin koum hafarin heir, koum rhéthasin, «Heir oneirarin.»/
+Arsos anabherin frun skoirin koum hafarin heir, koum lusmetharin desmin.
 
-Tothel ésarin praghin er medhin ánthimor epistémarin pratharin epir heun frelin./
-In borethin er hikathin er helin. Thaner er ghenthir érkharin prou ieresin er ghenthir./
-Gerathir er ghenthir rhéthasin ieresin enth eskharin er ghenthir. Enth tofelin er ghenthir./
-Enith ésarin medhin tofelin. Medhin eskharin plor ithrin afor naukerin./
-Medhin ieresin er heum ghéranis. Dheir medhin ánthimor pratharin ieresin er heum ghéranis meil./
-Ythros ésarin prineth plum thaner epir heun frelin. Medhin tofelin pir lámbarin heir.
+Tothel fom praghin, koum medhin epistémarin pratharin hein./
+In borethin, thaner er ghenthir érkharin prou ieresin er authel,/
+frun gerathir er ghenthir, enth eskharin er ghenthir, in tofelin er authel,/
+koum enith, medhin tofelin, medhin eskharin plor naukerin,/
+medhin ieresin er ghéranis, dheir medhin pratharin helin meil./
+Ythros, thaner in arithmas meun epir frelin,/
+koum medhin tofelin ésarin, medhin ánthimor pir lámbarin heir.
 
-Nauthorin er plathelir naukir statharin epir hadrin perith heir. Helin rhéthasin medhin./
-Dheir ésarin medhin lékhisir hoseth ésarin medhin ánthimor pir akherin. Gerathir rhéthasin heum./
-Tothel huyir er heir statharin. Huyir er Ythros. Prineth plum er dorthin er ithrin./
-Sorathin uf ónomarin heir. Dheir heir ekhárin ónomir in katalgar. Katalgar ésarin hikanir./
-Heir rhéthasin prou nauthorin epir hadrin. Heum ésarin lékhisir er huyir.
+Nauthorin er plathelir statharin perith heir, rhéthasin medhin,/
+dheir medhin pir rhéthasin, gerathir rhéthasin, eith medhin pir akherin./
+Huyir eghelarin, in arithmas meun er dorthin er ithrin,/
+huyir er Ythros, thin heum sorathin uf ónomarin, dheir katalgar/
+ónomarin heir, koum katalgar ésarin hikanir. Heir rhéthasin pir nauthorin/
+epir hadrin, koum heum ésarin thin huyir rhéthasin.
 
-Medhin pólithar pir lámbarin heir. Tothel herin pratharin meun. Hein lámbarin heir./
-Herin féranin heir aneth afor thálimir prou aulonin frun krenir enth kefalir./
-Thetharin heir in ghéranis. Thetharin lithorin er ithrarin naukerin epir heir./
-Perith lithorin herin pratharin tofelin pir sumetharin anthmerin pir rhéthasin./
-Perith tofelin pólithar. Perith pólithar teikhir. Koum ieresin er pólithar./
-Huster telethin er ieresin herin rhéthasin helin epir heir. Prineth plum ieresin./
-Heir ésarin prineth plum thaner er pólithar er herin. Prineth plum pólithir./
-Prineth plum ónomir in katalgar. Airatharin lithorin. Herin érkharin esor ghéranis.
+«Medhin pólithar pir heir. Herin pratharin meun, koum hein lámbarin heir./
+Herin féranin heir afor thálimir prou aulonin frun krenir,/
+koum thetharin heir in ghéranis, thetharin huth heir lithorin er naukerin ithrarin,/
+perith lithorin pratharin tofelin pir sumetharin koum homethin,/
+perith hein pólithar, perith pólithar teikhir, koum ieresin,/
+koum eith ieresin, rhéthasin helin epir heir prineth plum,/
+heir thaner prineth plum, pólithir prineth plum,/
+koum ónomir prineth plum in katalgar. Airatharin lithorin‼/
+Herin érkharin esor ghéranis, afor thálimir.»
 
-Hoth murmithin enth telthin er thérimos heurarin edhrin er afelarin er thérisir./
-Meghar pir meun féranin. Helin sumetharin perith hein. Polir pir meun edhrin./
-Helin airatharin hein. Hein kinetharin. Anabherin hodhis prou neosthin. Maleth ethor maleth./
-Hometh nauthorin er plathelir naukir airatharin lithorin er naukerin frun Ythros epir hein./
-Helin féranin afor hadrin. Aneth afor thálimir. Maleth ethor maleth./
-Heter nauthorin statharin epir frelin. Filarin helin érkharin aneth prou lofir./
-Oukhthor er Aghris érkharin frun helin mekhir prineth plum thornir. Nostharin.
+Hoth murmithin enth telthin er thérimos heurarin edhrin er thérisir,/
+thar meghar pir meun féranin, koum polir sunatharin perith,/
+koum airatharin, koum hein kinetharin, aneth hodhis prou neosthin,/
+olighir pef olighir. Hometh nauthorin airatharin lithorin/
+er naukerin frun Ythros epir hein, koum féranin hein afor hadrin,/
+koum érkharin aneth afor thálimir, olighir pef olighir,/
+koum heter statharin in frelin, meltharin helin anabherin./
+Oukhthor er Aghris frun helin mekhir thornir, koum nostharin.
 
-Helin féranin heir aneth ennevir hemerin. In arithmas ennevir hikarin prou aulonin./
-Aulonin érkharin aneth afor thálimir prou lofir. Frun krenir enth kefalir./
-Koum poltharin pir auksarin elaisir. Medhin domin epir poltharin./
-Aulonin er Oneirir vagharin enth arister. Aulonin er uf hairelarin er heir./
-Helin thetharin heir eketh. Lithorin epir heir. Tofelin perith lithorin./
-Tofelin ésarin agorin er pólithar er biblathin. Lithorin ésarin in hein./
-Ksenethir hikarin prou pólithar. Anthmerin aghrarin heir prou lithorin prineth thelkon./
-Helin rhéthasin pir heir. Heum ésarin prineth plum pólithir er herin. Heir ithrarin naukir er heir. Heir ambarin thu enith.
+Ennevir hemerin féranin heir aneth, koum in arithmas ennevir/
+aulonin afor thálimir aneth prou lofir, frun krenir/
+enth kefalir, koum poltharin pir elaisir, koum medhin domin epir hein,/
+aulonin thin Oneirir vagharin enth arister, aulonin thin heir uf hairelarin./
+Helin thetharin heir eketh. Thetharin lithorin epir heir./
+Tofelin perith, koum heum agorin er pólithar er biblathin,/
+koum lithorin in hein. Ksenethir hikarin, ambarin prou lithorin tror thelkon,/
+koum rhéthasin pir heir, «Heum, pólithir er herin prineth plum./
+Heir ithrarin naukir er authel. Heir ambarin thu enith, prou herin.»
 
-Heum ésarin ithrarin er naukerin hepthor pólithar. Hoth pólithar er biblathin sorarin hein./
-Pólithar er prineth plum thresos. Prineth plum thaner. Prineth plum ithrin./
-Heter anthmerin narharin naukir er helin nuneth. Efarin helin. Helin hikarin prou ithrin./
-Kelathir er Oneirin. Thetharin kelathin kateth. Sorir er naukir érkharin kateth afor lithorin.
+Heum ithrarin er naukerin, hepthor pólithar, hoth sorarin/
+pólithar er biblathin, thin ekhárin thresos prineth plum,/
+koum thaner prineth plum, koum ithrin prineth plum./
+Heter naukir rhéthasin. Efarin‼ Hikarin prou ithrin./
+Kelathir er Oneirin, afelarin kelathin‼ Sorir er naukir/
+érkharin kateth afor lithorin, tror kerukhir er hepthor.
 :::
 
 ## See Also

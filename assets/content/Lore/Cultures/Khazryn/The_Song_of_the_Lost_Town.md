@@ -27,415 +27,548 @@ The common transcription and translation below give one teller's cloth as a cler
 : The Song of the Lost Town {#song}
 
 ::: {.verse form=lavun lang=en work=song}
-Sit on the wall, in the dust, where the shade comes./
-One copper buys the gate; another, and I show you everything./
-Here is the cloth, here the rim. Where this brown line ends,/
-water stops, grass fails, a road bends toward nowhere./
-This red is Vahurdash. This blue is its drinking water./
-Count the blue with me: nine springs, nine channels. Nine across the banks./
-This was the fifth of the seven cities, placed by the mountains/
-farthest from their snow, last to receive the melt./
-I sing as my master sang; his teaching came from clay./
-Where that clay is broken, I say so plainly./
-_Here. This one. The man in gold._/
-This is the prince, named Gold. His father's name was [Law]{.name data-type="being/npc" lang=en}./
-When the father died, the city's accounting had never broken/
-between what it owed and what others owed it./
-Sunhemay loved the second half. He let the first burn./
-He kept his debt tablets in a doorless room,/
-and read them at evening as a priest reads law./
-Where the town could not pay, he took land, wells and sons,/
-pressing a fresh tablet for each and keeping impression and sums./
-A just prince counts water. A bad prince counts gold./
-So the clay says of Sunhemay. The clay is very old./
-_Here. The man in brown, the spear across his knee._/
-This is the house champion. Berniray, whose name is Oath./
-He swore to the father. The son inherited both,/
-champion and oath. These were its words:/
-_I am the gate of the house of the rim. I stand when the water flees._/
-_I go where the house sends me. I come when the house calls._/
-_My blood is the house's mortar; my bones are in its walls._/
-He spoke it to the father on the day he took the spear./
-He spoke it again to the son. This year you hear it again:/
-the song speaks it twice, as he did. Mark the place./
-The clay holds every word. It does not call him wise./
-_This woman at the hearth, the red shawl: her name is Star._/
-Minesha kept the household clay. No small work:/
-the names, water-hours, debts, children born each spring,/
-the tablets wrapped in palm-fiber on the shelf beside the door,/
+Sit on the wall, sit in the dust, sit where the shade will fall./
+A copper for the gate, a copper more, and I will show you all./
+Here is the cloth. Here is the rim. Here, where the brown line ends,/
+the water stops, the grass gives out, the road to nowhere bends./
+This red is Vahurdash. This blue is what it drank./
+Count the blue with me. Nine springs. Nine channels. Nine, bank to bank./
+That was the fifth of the seven towns, the one the mountains made/
+the farthest from their snow, and the last the melt-water paid./
+I sing it as my master sang, who had it from the clay,/
+and where the clay is broken, I will tell you so, and say.
+
+._Here. This one. The man in gold._
+
+This is the prince. His name was Gold. His father's name was [Law]{.name data-type="being/npc" lang=en},/
+and when his father died the town had never seen a flaw/
+in the count of what it owed and what was owed it in return./
+Sunhemay loved the second half. He let the first half burn./
+He kept the tablets of his debts in a room without a door/
+and read them in the evening as a priest would read the law,/
+and what the town could not pay, he took in land, in wells, in sons,/
+and pressed a fresh tablet for each, and kept the press, and the sums./
+A fair prince counts the water. A bad prince counts the gold./
+The clay says this of Sunhemay, and the clay is very old.
+
+._Here. The man in brown. The one with the spear across his knee._
+
+This is the champion of the house. Berniray, whose name is Oath./
+He swore it to the father, and the son inherited both,/
+the champion and the swearing, and the words of it were these:/
+_I am the gate of the house of the rim. I stand when the water flees./
+I go where the house sends me. I come when the house calls./
+And my blood is the house's mortar, and my bones are in its walls._/
+He said it to the father on the day he took the spear./
+He said it to the son again. You will hear it again this year,/
+for the song says it twice, as he said it twice. Mark where./
+The clay has every word of it. The clay does not say he was wise.
+
+._This woman at the hearth. The red shawl. Her name is Star._
+
+Minesha kept the household's clay, and that is no small thing:/
+the names, the water-hours, the debts, the children born each spring,/
+the tablets in their palm-fiber on the shelf beside the door,/
 baked hard against the day that comes to every house, and more./
-Here at her skirt, holding a wooden sword, stands their son./
-They named him Return. Revunay. I will tell you why./
-In the prince's first year he sent the champion away,/
-to salt and [[place-wstrndscnt|the Descent]], to settle his debts in silver,/
-to stand at caravan heads holding the prince's seal/
-and bring home silver. Seven years: the prince's command./
-Berniray came down to Minesha before the child was born,/
-and said: _I keep the oath. I go. I return. Do not mourn._/
-She said: _Then the child's name is your return, and no other,/
-_so every time I, his mother, call him in, I call you home._/
-That is how Tellumi speak to one another. Yes./
-We are a people of the tablet. We say what we press./
-_A copper. Thank you. Thank you. Here now: the dry year._/
-Seven years. The child grew tall in the prince's gate-shadow,/
-taking spear and burden at fifteen, as his father had./
-He kept his turn at the gate and knew every password./
-The prince looked on the champion's son with pleasure. Mark the wall./
-This gray is the dry year. See the blue drawing back at the rim./
-The melt was thin. The upper spring ran slowly. The gardens darkened./
-The prince read by lamplight and said the water would last:/
-water was absent from his tablets. Gold was written there./
-Now here: this figure at the gate, veiled in dust colors./
-A woman came on foot from the north, from sand, with a pale waterskin,/
-empty, bearing the day's heat, with neither beast nor man./
-At Vahurdash's gate she asked the stranger's due:/
-bread, shade, water, no questions: the guest-right./
-We give it to a thief. At night we give it to an enemy./
-We gave it to the [[affiliation-tribestrzd|Atarzád]] and have not withdrawn it./
-That belongs to another song. Its clay is black./
-_So: the gate. Revunay held it that noon. His was the watch._/
-As drought custom required, he sent for the prince./
-Sunhemay came down himself to see the reason for the noise./
-He looked at the woman, her dust, the waterskin,/
-and his nine thin channels behind him. He said: _We admit nobody./
-_The water is counted. The year is dry. The town is owed its own./
-_Go north. There are wells there._ She said: _I came from stone./
-_The north holds nothing but what you are about to lose./
-_Prince of the rim, I ask. You may refuse./
-_I ask once._ He said: _I refuse._ She turned and left./
-The clay says Revunay watched her go without understanding./
-Over the wall he gave her his own half-full skin, unseen by the prince./
-His tablet holds that deed today. I would have done the same in that boy's place./
-It was not enough. We sing it. The tellers say she was the Mother./
-I say the tellers' tongues say many things,/
-and I receive payment to sing them. She was veiled./
-She drank the half-skin on the road, never looking back. The gardens paled./
-_This bird. Here. Broad wings: the road-vulture. Watch it._/
-Berniray traveled beside the Descent with silver and seal,/
-seven years done, beard gray, the camels' heels sore./
-Three days from the rim a [budaq]{lang=sovi} came over the string and hung there,/
-then settled on the strongest beast, the lead camel, the young one,/
-the one that had never faltered. It sat on the neck and stared/
-north toward the rim, resisting every attempt to drive it off. The drivers feared it:/
-the bird sits on the beast that dies, and this beast was healthy./
-Berniray read the bird as you read a tablet. He remained silent/
-a long moment. Then: _Leave the silver with the string./
-_Three of you, with me, on horses, now. The bird is not the thing./
-_The bird is the reading of the thing._ He rode. Now comes the roll./
-Sing with me if you know it. It descends like stairs, hollow after hollow./
-_The nine springs. Count them on the cloth. Blue turns gray, one by one._/
-First went the upper spring, the spring that fed the hall./
-Dig deeper, the prince said. They dug. It gave them a wall./
-Second went the garden spring. Palms stood dead,/
-fruit still hanging. The prince called it the dry year's pride./
-Third went the potters' spring. Clay cracked in the yard./
-Fourth went the horse-trough spring. The horses left. That was hard./
-Fifth went the weaving-quarter's spring; sixth, the gate's./
-The guard drew from the seventh. The prince said the melt was late./
-Eighth went the spring beneath the record-house. Its keepers stood in dust,/
-looking at a thousand years of clay: We carry what we must, they said./
-They found they could carry nothing. A tablet weighs like stone./
-Ninth went the prince's own spring. When it went, he was alone/
-in his room with the tablets of what he was owed, the lamp and gold./
-He read them. They said he was rich. The clay says he grew old/
-in that single night. In two words it says so. I leave them to him./
-The water went where it was owed. That is the whole meaning./
-_A copper. I know. I know. It is hard. Here is night, and the gate again._/
-Berniray reached the gate at the moon's dark, three men behind him,/
-horses foundered, dust in his mouth, his eyes half-blind/
-from salt and riding. He struck the gate with his spear-butt/
-and shouted the house's words. A voice answered: _Who comes here?/
-_Nobody enters at night in the dry year. The prince commands it._/
-He said: _I am the house's gate. Open the gate._ He heard/
-a boy's voice carrying a man's weight: _The gate is mine tonight./
-_The prince sends no word of a champion. Keep away until daylight._/
-Berniray said: _The town is dying. Open, in the oath's name._/
-The voice said: _I too keep an oath. Stand back._ So both stood,/
-one on each side of a cedar door, an oath on either hand./
-Neither yielded his claim. Neither understood/
-the other was the same oath in another year. Hear that./
-Listen. The clay says it happened. It is no invention of mine. This/
-is the whole reason for our song. Now: the champion went around,/
-through the north wall's breach, where sand already rose high,/
-and came into the gate-court in darkness. The watch came down./
-They fought in the unlit court, the champion against the town./
-The champion's own drill-master had trained the boy. He knew/
-the champion's strokes and used them. The old man knew them too./
-The song says they fought a long time for two men in darkness,/
-and the old man was slower. The young man left his mark/
-on the old man's arm. The old man said: _Enough. Enough. Who taught you that?_/
-The boy came on without a word. The old man killed him/
-with the stroke used against a man who uses your own stroke twice./
-The boy fell with his shield on his arm. The old man knelt. No price/
-_I take no copper here. Sit down. Sit._/
-he could have paid could buy back the moment before he knelt,/
-turned the shield toward the court's one star, read, and felt/
-the signs' cuts with his thumb, as we read in darkness:/
-the name his wife had pressed in clay, the boy had cut in bark/
-on his shield-rim at fifteen, as boys do. Revunay. Return./
-He read it twice, as a man reads a thing he learns/
-and cannot afterward forget. He spoke the name aloud./
-The clay says he spoke it once. The tellers speak it loudly./
-Then he stood, took the gate-keys from his son's belt, went/
-to the inner door and struck it with the spear-butt until it bent./
-He spoke the house's words. Nobody answered. He said:/
-_I am the gate of the house of the rim. I come when the house calls. I have killed/
-_one of the house in its own court. Wake. The water is gone./
-_Wake and walk, or stay and become sand._ He went house to house until dawn./
-_This long gray line: the departure. Count the people. You cannot. Good._/
-Minesha came out with household clay in two baskets on a pole:/
-names, water-hours, debts, children, everything/
-that makes a household when its walls are gone. She looked into the court,/
-saw what lay there, and the shield, and set the pole down. The clay says: _brief._/
-That is the clay's account of her words. The tellers give more./
-I sing the clay. She lifted the pole again. They left by the east door,/
-champion first, people following, record-keepers last./
-The keepers stood at their cellar-mouth and would not leave. Vast/
-rooms of clay lay behind them. They said: _We are the keepers. We keep./
-_Go on to Kethramír. Send camels. We will not sleep._/
-Sand came from the rim on the season's first wind and lay/
-over the cellar-mouth by the third night. The camels came on the seventh day/
-and found the street buried. The keepers' names go unread:/
-the tablets holding their names are the tablets they kept. The dead/
-lie in the record-house with the record. This is spoken/
-at funerals. The Tellumi say it. We say: _as the keepers of the rim._/
-_Here. Last: the prince._/
-And Sunhemay? Some tellers sing that he left with the others and lived,/
-a poor man in a conquered street. Kethramír forgave him,/
-or did not. Others sing that he sat by the lamp until the oil ran out,/
-reading what was owed him until reading was all he possessed./
-On the last tablet he pressed a line with his thumbnail. Nobody knows/
-its words: nobody has found it. Sand holds its place./
-I sing the second ending. It makes the better scene. The cloth holds it. Look:/
-lamp, hall, gold, man, doorless room, the book/
-of clay. Outside, nothing. Moonlight on the long gray wall./
-That is the appearance of a prince who counts the wrong thing. That is all./
-_Now I roll the cloth. But the song has one more line. This is it._/
-Berniray lived and kept his oath. He served the house in Kethramír,/
-keeping a gate for thirty years, never naming the year,/
-the court or the boy. At his death a Delkoshekh read his name/
-from the household clay Minesha saved. The lamps were lit. The same/
-reed pressed beneath it, according to custom, the names of the dead he owed./
-The priest read them, reached one and stopped. The household showed/
-him the shield. He read the shield. That is how it is done./
-This is the song's purpose. The town is a plan filled with sand./
-Its streets are forty feet wide; its houses have no roofs. A man/
+And this one, at her skirt, with the wooden sword, is their son./
+They named him Return. Revunay. I will tell you why that was done./
+For the prince sent the champion away in the first year of his reign,/
+to the salt and [[place-wstrndscnt|the Descent]], to make his debts in silver plain,/
+to stand at the caravans' heads with the prince's seal in his hand/
+and bring the silver home. Seven years. That was the prince's command./
+Berniray went down to Minesha with the child not yet born/
+and said, _I keep the oath. I go. I come back. Do not mourn._/
+And she said, _Then the child's name is your coming back, and no other,/
+so that every time I call him in I call you home, his mother._/
+That is the kind of thing the Tellumi say to each other. Yes./
+We are a people of the tablet. We say what we will press.
+
+._A copper. Thank you. Thank you. Here, now. This is the dry year._
+
+Seven years. The child grew long in the shade of the prince's gate/
+and took the spear at fifteen, as his father had, and the weight,/
+and stood the gate-watch in his turn and knew the pass-words all,/
+and the prince looked at the champion's son and liked him. Mark the wall./
+This gray is the dry year. See, the blue has drawn in at the rim./
+The melt was thin. The upper spring ran slow. The gardens, dim./
+The prince read his tablets by the lamp and said the water would hold,/
+because the water was not written there. What was written was gold./
+Now here. This figure at the gate. The one in the dust-colored veil./
+A woman on foot, from the north, from the sand, with a skin gone pale/
+and empty, and the day's heat on her, and no beast and no man./
+She asked at the gate of Vahurdash for the thing that a stranger can:/
+bread, and shade, and water, and no question asked. The neyin's right./
+We give it to the thief. We give it to the enemy at night./
+We gave it to the [[affiliation-tribestrzd|Atarzád]], and we have not taken it back./
+That is a different song. The clay of that one is black.
+
+._So. The gate. Revunay held the gate that noon. He was the watch._
+
+He sent to the prince, as the custom was, for a stranger in the drought,/
+and Sunhemay came down himself to see what the noise was about,/
+and looked at the woman at his gate, the dust on her, and the skin,/
+and the nine thin channels at his back, and said, _We let no one in./
+The water is counted. The year is dry. The town is owed its own./
+Go north. There are wells in the north._ And she said, _I came from the stone,/
+and there is nothing in the north but what you are about to lose./
+Prince of the rim, I am asking. It is yours to refuse./
+I ask it once._ And he said, _Refused._ And she turned, and she went,/
+and the clay says that Revunay watched her go, and did not know what it meant,/
+and gave her his own skin over the wall, half full, which the prince did not see,/
+and that is on his tablet to this day, and it was true of me/
+if I had been that boy, and it was not enough, and it is sung./
+The tellers say she was the Mother. I say the tellers' tongue/
+says many things, and I am paid to sing them. She was veiled./
+She drank the half skin on the road. She did not look back. The gardens paled.
+
+._This bird. Here. Wide wings. The road-vulture. Watch it._
+
+Berniray was on the road by the Descent with the silver and the seal,/
+seven years done, his beard gone gray, the camels sore in the heel,/
+three days from the rim, when a budaq came over the string and hung/
+and settled on the strongest beast, the lead camel, the young/
+one, the one that had never faltered, and sat on its neck, and stared/
+north, toward the rim, and would not be driven, and the drivers were scared,/
+for the bird sits on the beast that dies, and this beast was not ill./
+And Berniray read the bird the way you read a tablet. He was still/
+a long moment. Then he said, _Leave the silver with the string./
+Three of you with me, on horses, now. The bird is not the thing./
+The bird is the reading of the thing._ And he rode. And this is the roll./
+Sing it with me if you know it. It goes down like a stair, hole by hole.
+
+._The nine springs. Count them on the cloth. The blue goes gray, one by one._
+
+The first to go was the upper spring, the one that fed the hall./
+The prince said, dig it deeper. They dug. It gave them a wall./
+The second was the garden spring. The palms stood up and died/
+with the fruit still on them, and the prince said, this is the dry year's pride./
+The third was the potters' spring. The clay cracked in the yard./
+The fourth was the horse-trough spring. The horses went. That was hard./
+The fifth was the spring of the weaving-quarter, the sixth of the gate./
+The gate-guard drew from the seventh. The prince said, the melt is late./
+The eighth was the spring under the record-house. The keepers stood in the dust/
+and looked at a thousand years of clay and said, we carry what we must,/
+and found that they could carry nothing, for a tablet weighs like a stone,/
+and the ninth was the prince's own, and when it went, the prince was alone/
+in a room with the tablets of what he was owed, and the lamp, and the gold,/
+and he read them, and they said that he was rich. And the clay says he was old/
+in that one night. It says it in two words. I will not say them. They are his./
+The water went where it was owed. That is the whole of what it is.
+
+._A copper. I know. I know. It goes hard. Here is the night. The gate again._
+
+Berniray came to the gate at the dark of the moon with three men behind,/
+the horses foundered, the dust in his mouth, and his eyes gone half blind/
+with the salt and the riding, and he struck the gate with the butt of the spear/
+and shouted the words of the house, and a voice said, _Who comes here?/
+No one comes in at night in the dry year. That is the prince's word._/
+And he said, _I am the gate of the house. Open the gate._ And he heard/
+a boy's voice with a man's weight in it say, _The gate is mine tonight,/
+and the prince has given no word of a champion. Stand off till the light._/
+And Berniray said, _The town is dying. Open, in the name of the oath._/
+And the voice said, _I keep an oath too. Stand off._ And so they stood, both,/
+one on each side of a cedar door, the oath on either hand,/
+and neither one would give, for neither one could understand/
+that the other was the same oath in a different year. Hear that./
+Hear it. The clay says it is so. I did not make it up. That/
+is the whole of why we sing it. Now. The champion went round/
+by the breach in the north wall where the sand was already high on the ground,/
+and came up in the gate-court in the dark, and the watch came down,/
+and they fought in the court with the lamps out, the champion and the town,/
+for the boy had been taught by the champion's own drill-master, and knew/
+the champion's own strokes, and used them, and the old man knew them too,/
+and the song says that they fought a long time for two men in the dark,/
+and that the old man was slower, and the young one left his mark/
+on the old man's arm, and the old man said, _Enough. Enough. Who taught you that?_/
+and the boy said nothing, and came in, and the old man killed him flat/
+with the stroke you use when the other man has used your own stroke twice,/
+and the boy went down with his shield on his arm, and the old man knelt. No price
+
+._I am not taking a copper here. Sit down. Sit._
+
+he could have paid would have bought back the moment before he knelt/
+and turned the shield to the one star in the court, and read, and felt/
+with his thumb along the cut of the signs, the way we read in the dark,/
+the name his wife had pressed in the clay and the boy had cut on the bark/
+of the shield-rim at fifteen, as boys do. Revunay. Return./
+He read it twice. He read it the way you read a thing you learn/
+and cannot afterward not know. He said the name aloud./
+The clay says he said it once. The tellers say it loud./
+Then he stood, and he took the gate-keys from his son's belt, and he went/
+to the inner door and struck it with the spear-butt until it bent,/
+and said the words of the house, and nobody answered him. He said,/
+_I am the gate of the house of the rim. I come when I am called. I have shed/
+the house's blood in the house's court. Wake. The water is gone./
+Wake and walk, or stay and be sand._ And he did it from house to house till dawn.
+
+._This long gray line. This is the going-out. Count the people. You cannot. Good._
+
+Minesha came out with the household clay in two baskets on a pole,/
+the names and the water-hours and the debts, the children, the whole/
+of what a house is when its walls are gone, and she looked at the court,/
+and saw what lay there, and the shield, and set down the pole. The clay says: _short._/
+That is what the clay says of what she said. The tellers say more./
+I sing the clay. She picked the pole up. They went out by the east door,/
+the champion first, and the people after, and the keepers of the record last,/
+and the keepers stood in their cellar-mouth and would not leave. The vast/
+rooms of the clay were behind them, and they said, _We are the keepers. We keep./
+Go on to Kethramír. Send camels. We will not sleep._/
+And the sand came in off the rim in the first wind of the season, and lay/
+on the cellar-mouth by the third night, and the camels came on the seventh day/
+and found the street gone under, and the keepers' names are not read,/
+for the tablets that hold their names are the tablets they kept, and the dead/
+are in the record-house with the record, and that is a thing to say/
+at a funeral, and the Tellumi say it. We say: _as the keepers of the rim._
+
+._Here. Last. The prince._
+
+And Sunhemay? Some tellers sing he came out with the rest, and lived,/
+a poor man in a conquered street, and Kethramír forgave,/
+or did not. Some sing he sat with the lamp till the oil was gone/
+and read what he was owed until the reading was all he had, and on/
+the last tablet he pressed a line with his thumbnail, and nobody knows/
+what it says, for nobody has found it, and the sand is where it goes./
+I sing the second. It is the better scene. The cloth has it. Look:/
+the lamp, the hall, the gold, the man, the room without a door, the book/
+of clay, and outside, nothing, and the moon on the long gray wall./
+That is what a prince looks like who counted the wrong thing. That is all.
+
+._And now I roll the cloth. But the song has one more line, and it is this one._
+
+Berniray lived. He kept the oath. He served the house in Kethramír/
+and stood a gate for thirty years and never named the year/
+or the court or the boy, and when he died a Delkoshekh read his name/
+from the household clay that Minesha saved, and the lamps were lit, and the same/
+reed pressed beneath it, as the custom is, the names of the dead he owed,/
+and the Delkoshekh read them, and came to one, and stopped, and the household showed/
+him the shield, and he read the shield. That is how it is done./
+And this is what the song is for. The town is a sand-filled plan./
+The streets are forty feet wide and the houses have no roofs, and a man/
 can walk from the new wells to the long wall in an hour, over the town,/
-over cellars, over the record-house. Below,/
-beneath his feet, the clay holds the keepers' unread names and the prince's line./
-The returned house drinks from two wells. The wells are good./
-But clay lies beneath the house. The song says, I say, the yard/
-has heard me say: the returning house reads the names first. That is hard./
-The house has not done it. Spiders breed in the cellars./
-So the names go unread, the song is sung, and courtyards still need/
-a teller. I am that teller. I roll the cloth. This is the end./
-The copper is the water's price. Thank you, friend.
+over the cellars, over the record-house, where the clay is, down/
+under his feet, with the keepers' names on it, unread, and the prince's line./
+The house that has come back to the rim drinks from two wells. The wells are fine./
+But the clay is under the house, and the song says, and I say, and the yard/
+has heard me say it: the house that comes back reads the names first. That is hard,/
+and the house has not done it, and the cellars are where the spiders breed,/
+and so the names are not read, and the song is still sung, and the yards still need/
+a teller, and I am he, and I am rolling the cloth, and that is the end,/
+and the copper is the price of the water, and I thank you, friend.
 :::
 
-::: {.verse form=lavun lang=telu work=song}
-Surer nurel gudesh, surer benu bermil, surer tarem yelhut venem./
-Pel tamker peril vartun, pel gerni, lemir miver lasmer dimal dener tiver./
-Hene veme pirsesh. Hene veme nelran. Hene bermal tenesh telver,/
-nelim telnir, mavesh telver, tarlim kurnem dener nul het./
-Heri darher veme Vahurdash. Heri nelvur veme nelim nemi hudem./
-Tavim nelvur mibil miver. Bur lu. Bur yelun. Bur, vanel nelran dener nelran./
-Huri veme nire lem nemi nivun gerhen, dalyim berem hudem/
-palen ferul vanel gilsum nali dimal nedim, hiresh danem nelim dener hudem genur./
-Miver relmer leshim darvem nemi miver relmer. hunen yirhem vanel budem./
-Tarem budem veme turemi, miver narem hudem dener tiver laskel./
-Hene. Heri. Miran benu sunhem./
-Heri veme relvan. Yumesh nemi hunen veme Sunhem. Yumesh nemi bamden nemi hunen veme [Law]{lang=en}./
-Tarem bamden nilver, gerhen tarem nul darem lasem turemi ser/
-benu tavim nemi dushmen nemi shernil lemir dushmen dener shernil./
-Sunhemay hurem lumer dener nire nin ser. Hunen hesver kenbesh ser perven./
-Hunen hager tenyut nemi dushmen dener shernil benu herun mibil nul vartem,/
-lemir hunen tenem diven tarem garhel leshim Delkoshekh tenem nartem./
-Hunen nemur velnur, peshden, bihen, tarem gerhen nesh gaven danem hurshel,/
-lemir hunen buder verli tenyut peril dimel, lemir hager tenesh lemir tavem./
-Narsan relvan tavim nelim. Lemvesh relvan tavim sunhem./
-Budem narem heri nurel Sunhemay. Budem veme darli teyut./
-Hene. Miran benu bermal. Hunen hager kiresh hemun tarten nemi hunen./
-Heri veme vermur nemi narvim. Berniray, yumesh nemi hunen veme Bernir./
-Hunen danem bernir dener bamden. Bihen nemur dimal nin/
-vermur lemir bernir. Heri veme narvun nemi hudem,/
-Miver veme vartun nemi narvim nemi nelran. Miver tursem yernem nelim hertar./
-Miver geshem dener het shenir narvim nardem miver geshem dener hudem virem. Miver venem yernem narvim narkem miver./
-Henhut nemi miver veme henbar nemi narvim. vesut nemi miver veme benu gudesh nemi hudem./
-Hunen narem hudem dener bamden tarem gaben shenir hunen nemur kiresh virem./
-Hunen narem hudem gerni dener bihen. Tiver hunem hudem gerni heri yarnim./
-Relum narem hudem tarem nin darem, leshim hunen narem hudem tarem nin darem. Muresh het./
-Budem hager dimel narvun nemi hudem. Budem nesh narem navel hunen veme hurnil virem./
-Heri nirli kenen tarem perim. Darher pirem. Yumesh nemi hiner veme Minesh./
-Minesha hager budem nemi ninesh. Huri nesh veme nimya beremri,/
-yumesh, yermun nemi nelim, dushmen, timlan shenir diven timber dimel yarnim nemi hiresh virem,/
-tenyut benu sirvem nemi talvut nurel tenvar semel vartem,/
-perven karli peril gaben shenir hudem venem dener dimal ninesh virem, lemir palen./
-Heri, semel piren nemi hiner, mibil varhen pedun, veme bihen nemi diven./
-Diven yumir hunen Revun. Revunay. Miver narsum danel verum./
-Kenbesh yarnim nemi gerun nemi relvan, hunen nardem vermur geshem ferul,/
-dener yisur lemir [[place-wstrndscnt|genbun nemi hemvan]], peril berem dushmen nemi shernil laskel benu nimesh,/
-peril tursem fermil salmir nemi bashgur mibil karsen nemi relvan benu limur/
-lemir berven nimesh dener nineshher. Nivun yarnim. Huri veme nardem nemi relvan./
-Berniray genbun dener Minesha, hiner veme timni, timlan nesh timber nemgi./
-Hunen narem. Miver hager bernir. Miver geshem. Miver revin. Nesh hurem nirhel./
-Hiner narem. Dinir yumesh nemi timlan veme revin nemi tiver, nul nedim,/
-peril miver narkem tiver dener nineshher dimel darem shenir miver, nerir nemi hunen, narkem hunen bennil virem./
-Huri veme denmil nemi narvun shenir Tellumi narem dener nedim virem. Yemi./
-Mener veme dimen nemi tenyut. Mener narem denem shenir mener buder hudem virem./
-Pel tamker. Miver danver tiver. Miver danver tiver. Hene yune. Heri veme derat yarnim./
-Nivun yarnim. Timlan vulmer terli benu yelhut nemi vartun nemi relvan,/
-lemir hunen nemur kiresh tarem nidem lem yarnim, leshim bamden, lemir barmil dushmen./
-Hunen hager vartun tarem ser nemi shernil lemir hurnir dimal narvun nemi vartun./
-Relvan lashem bihen nemi vermur lemir hurem hemli. Lashem gudesh./
-Heri silvar veme derat yarnim. Lashem, nelvur genbun tarem nelran./
-Hiresh veme nevel. Te lu tarsher tarni. Yashgem veme nurmi./
-Relvan tenem tenyut nemi shernil semel pernil lemir narem navel nelim hagen virem,/
-danil nelim nesh veme nurel diven. Tenyut hager sunhem./
-Yune hene. Heri miran tarem vartun, mibil pirnur nemi bermil./
-Nirli kenen tarim vanel tsenmat, vanel tsemkin, mibil vilni neltar/
-nesh hurem nelim, mibil karhum nemi gaben, mibil nul gurnal lemir nul varli kenen./
-Hiner narsher tarem vartun nemi Vahurdash danet nemi neyem,/
-bulam, yelhut, nelim, nul narsher. Nartem nemi neyin./
-Mener danem hudem dener miran shenir hunen nemur hurlen nemi nedim virem. Mener danem dener harsin tarem nurmesh./
-Mener danem hudem dener [[affiliation-tribestrzd|Atarzád]]. Mener nesh nemur hudem bamin./
-Huri veme nedim relum. Budem nemi huri relum veme kulsam./
-Hame. Vartun. Revunay hager vartun huri talhishmerun. Hunen veme vermur./
-Hunen narkem relvan, leshim nartem nemi neyem yeril derat./
-Sunhemay genbun shernil peril lasem danhel nemi hurnesh,/
-hunen lashem nirli kenen tarem vartun, bermil nurel hiner, neltar,/
-lemir bur birni yelun bamir hunen. Hunen narem. Mener hesver nul miran hinter./
-Mener tavim nelim. Yarnim veme derat. Gerhen hurem dushmen dener shernil./
-Geshem dener tsenmat. Peshden veme tarem tsenmat. Hiner narem. Miver venem vanel karvem./
-Nul denem veme tarem tsenmat ternul denem shenir tiver veshner hudem hunnir virem./
-Relvan nemi nelran, miver narsher. Tiver hesir nershem./
-Miver narsher tarem pel darem. Hunen narem. Miver nershem. Hiner vernem vemir lemir tarmer./
-Budem narem navel Revunay lasun hiner tarmer lemir hunen nesh hursel menir nemi hudem virem./
-Hunen danem neltar nemi shernil hemun gudesh dener hiner, ninser nelim, relvan nesh lasem hudem./
-Huri veme nurel tenyut nemi hunen heri gaben. Dinel miver veme huri timlan, dinir miver berem samnil./
-Hudem nesh veme marnil. Mener relmer hudem. Sali miran nemi lavun narem navel hiner veme Nerir virem./
-Miver narem navel narshil nemi miran nemi lavun narem palem denem virem,/
-lemir diven danem hurshel dener miver peril relmer diven. Hiner hurem pirnur./
-Hiner nilsher ninser neltar nurel tarlim. Hiner nesh lashem bamin. Yashgem venmi vilni./
-Heri firvem. Hene. Virel limun. [Budaq]{lang=sovi} nemi tarlim. Lasun hudem./
-Berniray veme nurel tarlim semel genbun mibil nimesh lemir karsen,/
-nivun yarnim temvish, sirmen nemi lasrim venmi silvar, tarhel nemi bashgur hurem harsim./
-Hunen veme tes gaben vanel nelran. [Budaq]{lang=sovi} venem hemun salmir lemir hagen,/
-lemir surer nurel gurnal shenir hudem veme palen birmesh nali dimal nedim virem, kenbesh bashgur, yurmi,/
-shenir hudem tarem nul darem telnir danel birni virem. Hudem surer nurel tirmesh lemir lashem/
-dener tsenmat, dener nelran. Nul miran gaven nardem hudem tarmer. Sali fernem hurem hervesh./
-firvem surer nurel gurnal shenir hudem nilver virem. heri gurnal nesh veme varhesh./
-Berniray tenem firvem leshim tiver tenem tenyut. Hunen hagen hushli/
-yeril durmel yermil. Hame hunen narem. Tarmer nimesh mibil salmir./
-Tes vanel tiver mibil miver, nurel garvan, yune. Firvem nesh veme denem./
-Firvem veme tenem nemi denem. Hunen geshem nurel garvan. Heri veme nerdim./
-Relmer mibil miver dinel tiver hurnir hudem. Hudem genbun leshim ternesh, dimel karhun./
-Bur lu. Tavim diven nurel pirsesh. Nelvur venmi silvar, pel hamun pel./
-Kenbesh shenir hudem tarmer virem veme te lu, shenir hudem danem nelim dener garmesh herun virem./
-Relvan narem. Kargen palen genli. Diven kargen. Hudem danem gudesh dener diven./
-Nire nin veme lu nemi yashgem. Talvut tursem lemir nilver,/
-mibil birel nurel diven. Relvan narem navel hudem veme benvar nemi derat yarnim virem./
-Nire tes veme lu nemi bermir nemi budem. Budem turem benu narhet./
-Nire har veme lu nemi nilshem nemi garvan. Garvan tarmer. Huri veme karmil./
-Nire lem veme lu nemi dimhet nemi pirem, nire yas, nemi vartun./
-Vermur nemur nelim vanel nire nivun. Relvan narem navel hiresh venem hamuli virem./
-Nire val veme lu hamil her nemi tenyut. Sali miran nemi tenyut tursem benu bermil/
-lemir lashem mishen yarnim nemi budem. Diven narem. Mener berven denem shenir mener damer berven hudem virem./
-Diven venhir navel diven gaven berven nul virem. tenyut veme barmil leshim karvem./
-Nire bur veme nemi relvan shernil. Tarem hudem tarmer, relvan veme pel/
-benu herun mibil tenyut nemi dushmen dener hunen, lemir pernil lemir sunhem./
-Hunen tenem diven. diven narem navel hunen hurem sunmer virem. Budem narem navel hunen venmi tenlir/
-benu huri pel nurmesh virem. Hudem narem hudem mibil nin narvun. Miver nesh narem diven. Diven veme nemi hunen./
-Nelim geshem dener het shenir hudem veme dushmen hune virem. Huri veme sumet menir./
-Pel tamker. Miver hurnir. Miver hurnir. Hudem veme karmil. Hene veme nurmesh. Vartun gerni./
-Berniray venmer dener vartun tarem nurmi lisen, mibil tes varli kenen bamir hunen,/
-garvan veme birsun, bermil benu narhum, lasin nemi hunen veme ninser lasnil/
-danel yisur lemir geshem nurel garvan. Hunen tarsem vartun mibil telvem nemi kiresh/
-lemir narem hurlem narvun nemi narvim. Narlem narsel. Verin venem hene?/
-Nul miran hinter tarem nurmesh yeril derat yarnim. Huri veme narvun nemi relvan./
-Hunen narem. Miver veme vartun nemi narvim. Varter vartun. Hunen hunem/
-narlem nemi timlan, mibil barmil narlem nemi kenen. Vartun veme nemi miver heri nurmesh./
-Relvan danem nul narvun nemi vermur. Tursem ferul yermir hulen./
-Berniray narem. Gerhen nilver. Varter, nurel yumesh nemi bernir./
-Narlem narem. Miver lerni hager bernir. Tursem ferul. Dimal nin tursem hame,/
-pel tarem dimel ser nemi varshim vartem, bernir tarem dimel limur,/
-Nul vanel nin nershem lemhur nemi shernil. Nul vanel nin hursel/
-navel nedim veme samnil bernir benu nedim yarnim virem. Hunem hudem./
-Hulim. Budem narem navel heri veme sanhel virem. Miver nesh berem hudem. Heri/
-veme sumet danhel nemi relmer nemi mener. Yune. Vermur geshem rumer/
-tseril turemi ser nemi tsenmat gudesh, tarem tsemkin hageni veme te nurel bermun,/
-lemir venmer benu narhet nemi vartun benu nurmi. Vermur nemi vartun genbun./
-Diven gurmer benu narhet mibil nesh perner pernil, vermur nemi narvim lemir gerhen,/
-Lernem nemi guresh nemi vermur lerhem timlan. hunen hurnir/
-tarsem nemi vermur. hunen berem diven. Tenlir miran lerni hurnir diven./
-Relum narem navel diven gurmer durmel peril nin miran benu nurmi virem,/
-lemir navel tenlir miran veme palen tarni virem. Yurmi miran tsergim tenesh/
-nurel limun nemi tenlir miran. Tenlir miran narem. Marnil. Marnil. Verin lerhem heri dener tiver?/
-Timlan nesh narem. hunen venem fermin. Tenlir miran nilmer hunen/
-mibil tarsem shenir miran berem hudem hamun nedim miran berem tarsem nemi shernil tarem nin darem virem./
-Timlan genmer, budish nurel limun nemi hunen. Tenlir miran tarnim. Nul hurshel/
-Hene miver nesh nemur tamker. Surer. Surer./
-shenir hunen gaven danem hudem virem gaven pernem yermil hamin hunen tarnim/
-lemir vernem budish dener pel minesh nemi narhet, lemir tenem, lemir limer/
-mibil kerlet nemi hunen durnel tenesh, leshim mener tenem benu nurmi,/
-yumesh shenir merish nemi hunen buder hudem benu budem, lemir timlan tsergim hudem nurel varhil/
-nemi nelran nemi budish tarem nidem lem yarnim, leshim timlan berem virem. Revunay. Revun./
-Hunen tenem hudem tarem nin darem. Hunen tenem hudem leshim miran tenem denem shenir hunen yirhem hudem/
-lemir hunen nesh gaven murnesh hudem hamuni virem. Hunen narem yumesh hurlem./
-Budem narem navel hunen narem hudem tarem pel darem virem. Sali miran nemi lavun narem hudem hurlem./
-Hame hunen tursem, nemur kirnem nemi vartun vanel pirtam nemi bihen, lemir geshem/
-dener bennil vartem, lemir tarsem hudem mibil telvem nemi kiresh yermir hudem kurnem./
-Hunen narem narvun nemi narvim. Nul miran narsel hunen. Hunen narem./
-Miver veme vartun nemi narvim nemi nelran. Miver venem yernem narvim narkem miver. Miver nilmer/
-miran nemi narvim benu narhet nemi narvim. Dunvar. Nelim tarmer./
-Dunvar lemir tarim, lemur hagen lemir venmi tsemkin. Hunen berem hudem vanel nineshher dener nineshher yermir hulen./
-Heri tarli silvar tenesh. Heri veme hunver. Tavim dimen. Tiver nesh gaven. Leril./
-Minesha hunver mibil budem nemi ninesh benu nin vimel nurel varhur,/
-yumesh, yermun nemi nelim, dushmen, timlan, sumet/
-denmil nemi ninesh yernem gudesh nemi hudem tarmer. Hiner lashem narhet/
-lemir lasem shelun hune, lemir budish, lemir ladem varhur genil. Budem narem, durmil./
-Huri veme narvun nemi budem nurel narvun nemi hiner. Sali miran nemi lavun narem palen./
-Miver relmer budem. Hiner tever varhur gerni. Diven hunver tseril vengun vartem,/
-vermur kenbesh, dimen felmer, sali miran nemi tenyut genur./
-Sali miran nemi tenyut tursem tarem vartem nemi hernur lemir nesh nemni tarmer. Garmul/
-herun nemi budem veme bamir diven. Diven narem. Mener veme sali miran nemi hager. Mener hager./
-Geshem fermin dener Kethramír. Nardem bashgur venem. Mener nesh dunem./
-Tsemkin venem vanel nelran tarem kenbesh vurse nemi yarnem lemir dunir/
-nurel vartem nemi hernur hamin nire tes nurmesh. Bashgur venem tarem nire nivun gaben/
-lemir venhir tarlim hamil tsemkin. Nul miran tenem yumesh nemi sali miran nemi tenyut,/
-danil tenyut shenir diven hager yumesh nemi diven virem veme tenyut shenir diven hager diven virem. Nilvur/
-veme benu her nemi tenyut mibil tenyut. Huri veme denem peril narem/
-tarem nilhem. Tellumi narem hudem. Mener narem, leshim sali miran nemi hager nemi nelran./
-Hene. Genur. Relvan./
-Lemir Sunhemay? Nemil miran nemi lavun relmer navel hunen hunver mibil nedim lemir hever virem,/
-pel sunmil miran benu tarlim nemi hannem, lemir Kethramír mirver hunen,/
-lemur nesh mirver. Nemil relmer navel hunen surer semel pernil yermir nersum telver virem/
-lemir tenem dushmen dener shernil yermir tenem veme dimal hurlen nemi hunen./
-Nurel genur tenyut hunen buder pel narvun mibil limkesh nemi kerlet. Nul miran hurnir/
-narvun nemi hudem, danil nul miran venhir hudem. Tsemkin hager het nemi hudem./
-Miver relmer nire nin. Hudem veme palen leril lavun. Pirsesh hager hudem. Lashem,/
-pernil, herun, sunhem, miran, herun mibil nul vartem, tenyut/
-nemi budem. varil, nul. lisen nurel tarli silvar gudesh./
-Huri veme laram nemi relvan shenir hunen tavim lemvesh denem virem. Huri veme dimal./
-Yune miver kurnem pirsesh rumer shernil. Damir relum hurem pel nedim narvun. Hudem veme heri./
-Berniray hever. Hunen hager bernir. Hunen berem beremri nemi narvim benu Kethramír/
-lemir hager vartun yeril tes nidem yarnim. Hunen tarem nul darem yumir yarnim/
-lemur narhet lemur timlan. Tarem hunen nilver, Delkoshekh tenem yumesh nemi hunen/
-vanel budem nemi ninesh shenir Minesha vermur hudem virem. Diven perner pernil. Samnil/
-pirvem buder hamil hudem, leshim nartem, yumesh nemi nilvur shenir hunen hurem dushmen dener diven virem./
-Delkoshekh tenem diven. Hunen venmer dener pel, lemir telnir. Ninesh lasmer/
-budish dener hunen. Hunen tenem budish. Huri veme verlim mener berem hudem./
-Heri veme ferhum nemi relum. Gerhen veme nerdim benu tsemkin./
-Tarlim veme har nidem tarmesh virel. sali nineshher hurem nul hurlam. Miran/
-gaven tarim vanel verli peshden dener tarli gudesh benu pel nemun, hemun gerhen,/
-hemun hernur, hemun her nemi tenyut, tarem budem veme genil,/
-hamil tarmesh nemi hunen, yumesh nemi sali miran nemi tenyut veme nurel hudem, nesh tenem, lemir narvun nemi relvan./
-Narvim shenir hudem revin dener nelran virem nilsher vanel nin peshden. Peshden veme leril./
-Damir budem veme hamil narvim. Relum narem, miver narem, narhet/
-hunem miver narem, narvim shenir hudem revin virem tenem yumesh kenbesh. Heri veme karmil./
-Narvim nesh berem hudem nemgi. Sirhel timber benu hernur./
-Danuli nul miran tenem yumesh, danuli mener hagenir relmer relum, sali narhet hagenir marnem/
-miran nemi lavun. Miver veme hunen. Miver kurnem pirsesh rumer shernil. Heri veme telvem./
-Tamker veme hurshel nemi nelim. Miver danver tiver, merin.
+::: {.verse form=lavun lang=telu work=song scan=hexameter}
+Surer nurel gudesh, surer benu bermil,/
+lemir surer tarem yelhut genmer genil‼/
+Tamker peril vartun, lemir tamker palen,/
+lemir miver lasmer dimal dener dimen./
+Hene veme harmel. Hene veme pirsesh./
+Hene bermal sirvem, nelim lemir mavesh/
+telver, lemir tarlim kurnem dener nul denem./
+Darher veme Vahurdash. Nelvur veme nilshem./
+Tavim nelvur‼ Bur lu, bur yelun,/
+bur, vanel sali lu dener vartun./
+Nire lem gerhen, ferul vanel gilsum,/
+genur nemi hiresh. Hulim heri relum‼/
+Miver relmer leshim darvem, vanel budem,/
+dinel budem veme turemi, miver narem.
+
+.[Hene. Heri. Miran benu sunhem.]{.direction}
+
+Heri veme relvan. Hunen veme Sunhem,/
+lemir bamden nemi hunen veme Nartem./
+Yernem Nartem nilver, tavem nemi dushmen/
+veme temvish, vanel gerhen, dener gerhen./
+Sunhemay nemvir nire nin ser. Hunen/
+hesver kenbesh ser nemi tavem perven./
+Dushmen tenyut veme benu herun, nul vartem./
+Hunen tenem diven, leshim Delkoshekh nartem./
+Yernem gerhen nesh gaven danem, hunen nemur/
+sali peshden, sali bihen, lemir velnur,/
+lemir buder verli tenyut peril dimel,/
+hager pirvem, lemir hager sumet tavel./
+Narsan relvan tavim nelim nemi gerhen./
+Lemvesh relvan tavim sunhem nemi hunen./
+Budem narem heri nurel relvan Sunhem./
+Budem veme teyut, teyut leshim karvem.
+
+
+.[Hene. Miran benu bermal. Hunen hager kiresh hemun tarten.]{.direction}
+
+Berniray. Bernir veme yumesh nemi hunen./
+Vermesh, hunen danem bernir dener bamden,/
+lemir bihen nemur vermesh, nemur bernir./
+Heri veme narvun nemi hudem, tsemir./
+«Miver veme vartun nemi harmel narvim./
+Miver tursem hune yernem nelim hertar./
+Miver geshem yernem narvim geshver miver./
+Miver venem yernem narvim narkem miver./
+Henhut nemi miver veme narvim henbar,/
+lemir vesut nemi miver benu gudesh.»/
+Narem dener bamden, gaben nemi kiresh,/
+narem hudem gerni dener bihen. Muresh‼/
+Tiver hunem gerni, danil relum narem/
+tarem nin darem, leshim hunen. Lashem‼/
+Budem hager narvun nemi hudem, temvish,/
+damir budem nesh narem, «Hunen veme hurlish.»
+
+.[Heri nirli kenen tarem perim. Darher pirhel. Yumesh nemi hiner veme Minesh.]{.direction}
+
+Minesha hager sumet budem nemi ninesh,/
+lemir huri nesh veme nimya. Sali yumesh,/
+nelim nemun, dushmen, timlan nemi yarnem,/
+tenyut benu talvut sirvem semel vartem,/
+perven karli peril telvem, lemir palen./
+Heri, mibil varhen pedun, veme bihen./
+Diven yumir hunen Revun, Revunay. Hulim‼/
+Miver narsum danel verum. Kenbesh yarnim/
+Sunhemay geshver vermesh ferul, dener yisur/
+dener genbun nemi hemvan, peril nemur/
+dushmen benu nimesh, mibil relvan karsen,/
+fermil bashgur, berven nimesh dener gerhen./
+Nivun yarnim. Huri veme relvan nardem./
+Berniray geshem dener timni Minesha, narem,/
+«Miver geshem, revin, miver hager bernir./
+Tiver nesh hurem nirhel‼» Hiner narsel, «Dinir/
+yumesh veme revun nemi tiver, nul nedim./
+Narkem bihen, narkem tiver dener perim.»/
+Leshim heri Tellumi narem. Yemi. Mener/
+veme tenyut dimen, narem leshim buder.
+
+
+.[Pel tamker. Miver danver tiver. Miver danver tiver. Hene, yune. Heri veme derat yarnim.]{.direction}
+
+Nivun yarnim. Timlan vulmer benu yelhut/
+nemi relvan vartun, terli leshim talvut./
+Nidem lem, leshim bamden, nemur kiresh,/
+hager vartun, lemir hurnir dimal tenesh./
+Relvan hurem lumer dener hunen. Lashem/
+gudesh‼ Heri silvar veme derat yarnem./
+Lashem‼ Nelvur venmi tarki tarem harmel./
+Te lu tarni, hiresh veme nevel./
+Yashgem venmi vilni. Relvan tenem tenyut,/
+lemir narem, «Nelim hagen yeril yermut.»/
+Nelim nesh veme nurel tenyut, damir sunhem./
+Hene, tarem vartun, lashem heri pirem,/
+nirli kenen, bermil pirnur, vanel tsenmat,/
+vanel tsemkin, neltar nemi hiner derat,/
+karhum nurel hiner, nul gurnal, nul varli kenen./
+Narsher tarem vartun, leshim neyem gaven,/
+bulam lemir yelhut lemir nelim, nul narsher,/
+nartem nemi neyin. Mener danem dener/
+narshim miran, yeril nurmesh dener harsin,/
+lemir dener Atarzád. Mener nesh nemur bamin./
+Huri veme nedim relum, lemir budem/
+nemi hudem veme kulsam leshim persem.
+
+.[Hame. Vartun. Revunay hager vartun huri talhishmerun. Hunen veme vermil.]{.direction}
+
+Narkem relvan, leshim temmur, peril neyem/
+yeril derat. Relvan genbun peril hunem,/
+lashem nirli kenen, bermil nurel hiner,/
+neltar, bur birni yelun. Narem, «Mener/
+hesver nul miran hinter. Yarnim veme derat./
+Nelim veme tavem. Geshem dener tsenmat‼/
+Peshden veme hune.» Hiner narsel, «Miver/
+venem vanel karvem. Benu tsenmat tiver/
+venhir nul denem shenir tiver nesh veshner virem./
+Harmel relvan, miver narsher. Hesir nershem./
+Miver narsher tarem pel darem.» «Nershem.»/
+Hiner tarmer, hiner geshem. Budem narem,/
+«Revunay lasun hiner lemir nesh hursel hudem,/
+danem neltar hemun gudesh, ninser nilshem./
+Relvan nesh lasem.» Tenyut nemi hunen hager/
+hudem yune. Dinel huri veme miver,/
+dinir miver berem samnil, damir nesh marnil,/
+lemir mener relmer hudem. Lavun narshil/
+narem, «Hiner veme Nerir.» Miver narem,/
+«Huri lavun narshil narem palem denem,/
+lemir mener relmer diven peril hurshel.»/
+Hiner hurem pirnur, pirnur nemi pirshel./
+Nilsher nurel tarlim, neltar veme barni./
+Hiner nesh lashem bamin. Yashgem venmi vilni.
+
+
+.[Heri firvem. Hene. Virel limun. Tarlim firvem. Lasun hudem‼]{.direction}
+
+Berniray veme semel genbun mibil nimesh,/
+karsen, silvar sirmen, harsil bashgur tarmesh,/
+nivun yarnim, tes gaben vanel harmel./
+Firvem venem, hagen hemun salmir laskel,/
+genmer nurel bashgur, yurmi lemir birmesh,/
+tarem nul darem birni, surer nurel tirmesh,/
+lashem dener tsenmat, dener harmel, nesh rurem,/
+lemir fernem hurem hervesh nemi hudem./
+Firvem surer nurel gurnal shenir hudem/
+nilver virem. Heri gurnal nesh veme varhesh./
+Berniray tenem firvem leshim tenyut. Hunen/
+hagen hushli. Hame narem, «Nimesh hagen/
+mibil salmir. Tes nurel garvan‼ Firvem/
+nesh veme denem, damir tenyut nemi denem.»/
+Hunen geshem. Lemir heri veme tavem./
+Relmer hudem, dinel tiver hurnir hudem‼/
+Hudem genbun leshim ternesh nemi karhun,/
+karhun hamun karhun, genil dener bermun.
+
+.[Bur lu. Tavim diven nurel pirsesh‼ Nelvur venmi silvar, pel hamun pel.]{.direction}
+
+Pel, te lu, nelim nemi ninesh./
+«Kargen genil‼» Kargen. Hudem danem gudesh./
+Nin, yashgem lu. Sali talvut tursem/
+lemir nilver mibil birel. Relvan narem,/
+«Heri veme benvar nemi derat yarnem.»/
+Tes, lu nemi bermir. Budem turem./
+Har, garvan lu. Garvan tarmer. Karmil./
+Lem, pirem lu. Yas, vartun. Vermil/
+nilsher vanel nivun. Relvan narem, «Hiresh/
+hamuli.» Val, lu hamil tenyut her./
+Hagmen lashem mishen yarnim nemi budem/
+lemir narem, «Mener damer berven hudem.»/
+Diven nesh gaven berven. Tenyut veme karvem./
+Bur, relvan lu, tarmer. Relvan, perni,/
+benu herun mibil tenyut, pernil, sunhem,/
+tenem dushmen tenyut. Diven narem, «Sunmer.»/
+Yeril pel nurmesh hunen venmi tenlir./
+Budem narem hudem mibil nin narvun./
+Miver nesh narem. Diven veme nemi hunen./
+Nelim geshem dener dushmen nemi hudem./
+Huri veme dimal. Huri veme sumet.
+
+
+.[Pel tamker. Miver hurnir. Miver hurnir. Hudem veme karmil. Hene veme nurmesh. Vartun gerni.]{.direction}
+
+Nurmi lisen. Berniray venmer dener vartun,/
+tes miran bamir hunen, garvan birsun,/
+bermil benu narhum, lasin veme varhesh/
+danel yisur. Tarsem vartun mibil kiresh/
+lemir narem hurlem narvun nemi narvim./
+Narlem narsel, «Verin venem? Derat yarnim,/
+nul miran hinter yeril nurmesh. Relvan narem.»/
+«Miver, vartun nemi narvim. Varter hudem‼»/
+Narlem nemi timlan, barmil leshim kenen,/
+lemir narsel, «Tursem ferul yermir hulen‼/
+Vartun veme nemi miver heri nurmesh,/
+lemir relvan danem nul narvun nemi vermesh.»/
+Lemir Berniray narem, «Gerhen nilver. Varter/
+benu yumesh nemi bernir‼» Narsel, «Miver/
+lerni hager bernir. Tursem ferul‼» Diven/
+tursem, vartem terem hunen lemir timlan,/
+bernir benu dimel limur. Nul nemni tarmer,/
+danil nul hursel, «Nedim veme samnil bernir/
+benu nedim yarnim.» Hunem hudem‼ Hunem‼/
+Budem narem, «Sanhel.» Miver nesh murven hudem./
+Yune. Huri veme danhel nemi relum./
+Vermesh geshem rumer, hinter tseril turem/
+nemi gudesh, benu tsemkin, lemir venmer/
+tarem vartun benu nurmen. Diven gurmer,/
+nul miran perner pernil, vermesh lemir gerhen,/
+danil lernem nemi vermesh lerhem timlan/
+tarsem leshim vermesh, lemir tenlir miran/
+lerni hurnir diven, gurmer benu nurmen/
+durmel. Yurmi tsergim limun nemi tenlir./
+Tenlir, «Marnil‼ Marnil‼ Verin lerhem tiver?»/
+Timlan nesh narsel, hinter. Tenlir nilmer hunen/
+mibil telvem tarsem. Budish nurel limun,/
+timlan genmer, lemir tenlir tarnim. Nul hurshel
+
+.[Hene miver nesh nemur tamker. Surer‼ Surer‼]{.direction}
+
+shenir hunen danem virem pernem yermil,/
+hamin tarnim, tever budish dener minesh,/
+tenem, lemir limer mibil kerlet tenesh,/
+leshim mener tenem benu nurmen, yumesh/
+shenir merish buder virem, timlan tenesh/
+tsergim nurel budish tarem nidem lem,/
+leshim yurmi tsergim. Revunay. Revun. Tenem/
+hudem tarem nin darem, leshim yirnem,/
+lemir nesh gaven murnesh hudem. Hunen narem/
+hurlem. Budem narem tarem pel darem./
+Lavun narem hurlem. Hame hunen tursem,/
+nemur kirnem vanel pirtam nemi bihen,/
+lemir geshem dener vartem nemi relvan,/
+tarsem mibil kiresh yermir hudem kurnem,/
+narem narvun nemi narvim. Nul narsel hudem./
+Hunen narem hurlem, tarem nurmi pernil,/
+nurel hernal nemi narvim, hamil karnel,/
+«Miver veme vartun nemi harmel narvim./
+Miver venem yernem narvim narkem miver./
+Henhut nemi narvim genmer vanel miver/
+benu narvim her. Dunvar‼ Nelim tarmer./
+Dunvar, tarim, lemur hagen, venmi tsemkin‼»/
+Narem huri vanel her dener her/
+yermir hulen, gerni, gerni, dener nineshher.
+
+.[Heri tarli silvar tenesh. Diven hunver. Tavim dimen‼ Tiver nesh gaven. Leril.]{.direction}
+
+Minesha hunver mibil budem nemi ninesh,/
+nin vimel nurel varhur, sali yumesh,/
+nelim nemun, dushmen, timlan, dimal denem/
+nemi ninesh mibil nul gudesh. Hiner lashem,/
+lasem shelun lemir budish nurel hernal,/
+lemir ladem varhur. Budem narem, «Durmil.»/
+Budem narem huri. Lavun narem nedim./
+Miver relmer budem. Hiner tever hudem./
+Hunver tseril vengun vartem, vermesh kenbesh,/
+dimen felmer, genur hagmen nemi tenesh./
+Hagmen tursem tarem hernur vartem, nesh tarmer./
+Garmul budem herun bamir. Narem, «Mener/
+veme hagmen. Mener hager. Geshem fermin/
+dener Kethramír, geshver bashgur. Mener hagen.»/
+Tsemkin venem vanel harmel, kenbesh vursem,/
+tes nurmesh, dunir nurel hernur vartem./
+Bashgur venem tarem nire nivun gaben/
+lemir venhir sumet tarlim hamil tsemkin./
+Nul miran tenem yumesh nemi sali hagmen,/
+danil tenyut nemi yumesh nemi diven/
+veme tenyut shenir diven hager virem./
+Nilvur veme benu her nemi budem./
+Narvun nemi nilhem. Tellumi narem hudem,/
+«Leshim hagmen nemi harmel.» Mener narem.
+
+.[Hene. Genur. Relvan.]{.direction}
+
+Lemir Sunhemay? Nemil relmer, «Hunen hunver/
+mibil nedim, hever, lemir Kethramír mirver,/
+lemur nesh mirver.» Nemil relmer, «Hunen surer/
+semel pernil yermir sumet nersum telver,/
+tenem dushmen yermir perni huri hagen,/
+buder narvun nurel genur tenyut. Nul miran/
+hurnir hudem, danil nul miran venhir. Tsemkin/
+hager hudem.» Miver relmer nire nin./
+Palen leril. Pirsesh hager hudem. Lashem‼/
+Pernil, herun, sunhem, relvan, tenyut, nul vartem,/
+lisen nurel tarli gudesh, varil nul denem./
+Relvan tavim lemvesh. Huri veme hudem.
+
+.[Yune miver kurnem pirsesh rumer shernil. Damir relum hurem pel narvun palen, lemir hudem veme heri.]{.direction}
+
+Berniray hever. Hunen hager bernir, lemir/
+veme tarnem nemi narvim benu Kethramír,/
+hager vartun tes nidem yarnim. Hunen/
+tarem nul darem yumir yarnim, het, timlan./
+Yernem hunen nilver, Delkoshekh tenem hudem/
+vanel budem shenir Minesha berven virem,/
+pernil perven, lemir hamil, leshim temmur,/
+pirvem buder yumesh nemi dushmen nilvur./
+Delkoshekh tenem, venmer dener pel yumesh,/
+telnir. Ninesh lasmer budish. Tenem budish./
+Huri veme nartem. Heri veme ferhum/
+nemi relum. Gerhen veme tsemkin nerdim./
+Tarlim veme virel, nul hurlam nurel her./
+Miran tarim pel nemun hemun hernur,/
+hemun tenyut her, budem hamil tarmesh,/
+hagmen yumesh, nesh tenem, lemir relvan tenesh./
+Narvim shenir hudem revin virem nilsher/
+vanel nin peshden, leril peshden. Damir/
+budem veme hamil narvim. Relum narem,/
+lemir miver narem, dimbel hunem hudem,/
+«Narvim shenir hudem revin virem tenem/
+yumesh kenbesh.» Heri veme karmil, lemir/
+narvim nesh berem nemgi. Sirhel benu hernur,/
+danuli nul miran tenem yumesh. Mener hagenir/
+relmer, dimbel hagenir marnem lavun miran./
+Miver kurnem pirsesh. Miver veme hunen./
+Telvem. Hurshel nemi nelim veme tamker./
+Danver tiver, merin. Miver danver tiver.
 :::
 
 ## See Also

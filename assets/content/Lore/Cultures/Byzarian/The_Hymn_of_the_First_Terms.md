@@ -32,553 +32,653 @@ The prelude stands outside the count. The first letters of the stanzas after it 
 : The Hymn of the First Terms {#hymn}
 
 ::: {.verse form=kumetin lang=en work=hymn}
-The year waits at its threshold. The door has two leaves:/
-one is the year owed, the other the year lent./
-Two-faced Keeper of the Gates, calm toward givers, severe toward takers,/
-before morning brings us in to seal again,/
-hear the earliest terms reread as our fathers heard them,/
+The year stands on its threshold, and the door is in two leaves:/
+one leaf is the year that is owed, and one is the year that is lent./
+Keeper of the Gates, of the two faces, serene to the giver, stern to the taker,/
+before we go in at morning to set our seals again,/
+hear the first terms read over, as the fathers heard them read,/
 and we stand behind the seal.
 
-Of the time before speech, the fathers teach:/
-nothing was owed. Hear and properly fear it./
-Without debt, no keeping; without lending, no return./
-No weight existed, for nothing supplied comparison./
-No road existed, for nobody had agreed its destination./
-The Twelve were present, without yet being Twelve./
-A name establishes terms; no terms had been spoken./
-They held claims without counterparties, possessing no wealth./
-The fathers name it Unagreed and refuse its painted image./
-A market full of goods without a single price;/
-an unmarked bale, a die with no wax underneath./
-Today each bale is marked, prices stated, terms read,/
+Of what was before the first word the fathers of the rite say this:/
+that nothing in it was owed. Hear that, and fear it rightly./
+Nothing was owed, so nothing was kept. Nothing was lent, so nothing came back./
+There was no weight, because there was nothing to weigh a thing against./
+There was no road, because no one had agreed where a road should end./
+The Twelve were there, and they were not yet the Twelve,/
+because a name is a term, and no one had stated a term./
+They were claimants with no counterpart, and their wealth was nothing,/
+and the fathers call it the Unagreed and will not paint it on a wall./
+It was a market with every stall full and no price set on anything,/
+a bale with no mark burned in it, a die with no wax beneath./
+Now every bale is marked, and the price is set, and the terms are read,/
 and we stand behind the seal.
 
-Free they were, without anything to be free from./
-[[lore-pozerasdty|The Wayfarer]] lacked a road to leave; the Weaver lacked thread./
-Sacred Wisdom's Keeper owned a book with nothing to enter./
-Speech addresses someone. There was no someone./
-The Forge-Lord owned fire without a shape for it to hold./
-Only the Wild Beast among the Twelve rejoiced./
-He ran through the Unagreed like a horse across unfenced ground./
-He called his running freedom. It was freedom. It was nothing./
-Brothers, attend to both truths before passing on:/
-the freest god was poorest, having no debt owed him./
-The first god to bind himself becomes the first owed./
-Bind us, Keeper. Owe us, and receive our debt,/
+Free they were, and there was nothing they were free of./
+[[lore-pozerasdty|The Wayfarer]] had no road to wander from. The Weaver had no thread./
+The Keeper of Sacred Wisdom had a book and nothing to write in it,/
+because a word is a thing said to someone, and there was no one./
+The Forge-Lord had a fire, and the fire had no shape to hold./
+The Wild Beast was glad of it. Of the Twelve he alone was glad,/
+and he ran in the Unagreed as a horse runs in a field with no fence,/
+and called the running freedom, and it was freedom, and it was nothing./
+Brothers, mark the paradox and do not hurry past it:/
+the freest of the gods was the poorest, because nothing was owed to him,/
+and the god who binds himself first is the first to be owed./
+Bind us, then, Keeper. Owe us, and be owed,/
 and we stand behind the seal.
 
-Then the Gate Keeper rose among them, showing both faces,/
-the calm toward the giver, the severe toward the taker./
-He spoke what none had needed to speak:/
-Nothing shall be made before its terms are stated./
-Listen also to his omission. He did not demand a world./
-He demanded terms for a world, with the world following them,/
-as a master states an indenture before receiving a boy,/
-as a factor names a bale's grade before opening it./
-The gods began with a clause./
-The calm face said, Give the whole of what you give./
-The severe face said, Take the whole and declare its defect./
-Eleven approved the words. The remaining god kept silent,/
+Then the Keeper of the Gates stood up among them with his two faces,/
+the serene one turned to the giver and the stern one to the taker,/
+and said a thing no one had said, because no one had needed it:/
+"Let nothing be made until the terms of it are stated."/
+Hear what he did not say. He did not say, let there be a world./
+He said, let there be terms for a world, and the world after them,/
+as a master states the apprenticeship before the boy is taken in,/
+as a factor states the grade of the bale before the bale is cut open./
+The first act of the gods was not a making. It was a clause./
+The serene face said: what is given, give whole./
+The stern face said: what is taken, take whole, and declare its fault./
+The Eleven said it was well said. The Twelfth said nothing,/
 and we stand behind the seal.
 
-Hear the World-Weaver's reply beside her wheel among vines./
-A term needs length, she said; otherwise it never ends,/
-and an endless thing returns to the Unagreed./
-She turned her wheel, spinning measured thread./
-To every length she cut she assigned a thing whose term it became:/
-this length for cedar, this for ewe, this for gnat,/
-this for a river before silting, a mountain before falling,/
-and this for a man. That length belongs to the thread./
-The Weaver spins without choosing. Her wheel performs her trade, beyond her wishes./
-At birth we say the thread rests on the wheel;/
-at death, that it reached its whole length,/
-however brief: no stated length is short,/
+Hear how the World-Weaver answered him, at her wheel among the vines./
+"A term wants a length," she said, "or it runs to no end,/
+and a thing without an end is the Unagreed again."/
+She set her wheel turning and spun, and the thread came off it measured,/
+and every length she cut she gave a thing to be its term:/
+so long for the cedar, so long for the ewe, so long for the gnat,/
+so long for the river before it silts and the mountain before it falls,/
+and so long for a man; and the length is not his, it is the thread's./
+The Weaver spins and does not choose. The wheel is not her will. It is her trade./
+So at a birth we say, the thread is on the wheel,/
+and at a death, the thread ran its full length,/
+even when it was short, for no length is short that the terms state,/
 and we stand behind the seal.
 
-Even the Forge-Lord arrived carrying what the others had overlooked:/
-a standard, beaten on his anvil beneath protective flame./
-It weighed nothing yet: the first weight, measure of all later things./
-He gave it to the Keeper, who preserves it at the gate./
-Every worldly measure copies that measure./
-A matching copy is honest; a heavy one is false./
-No third possibility belongs to a weight./
-Here is every Merchant Hall's brass, guarded for the god by its Warden./
-When a Warden places two weights before the gathered Hall,/
-his small action repeats the Keeper's act at the world's gate./
-The fathers call that first standard fire held motionless./
-Hold it so, brothers. Cast no heavy weight; file no light one,/
+Even the Forge-Lord came, and brought what the others had not thought to bring:/
+a standard. He beat it on the anvil under the sheltering flame,/
+a weight of nothing yet, the first weight, which everything after is weighed against,/
+and he gave it to the Keeper, who keeps it in the gate./
+Every measure in the world is a copy of that measure,/
+and a copy is honest when it matches and false when it is heavy,/
+and there is no third thing a weight can be./
+This is the brass in every Merchant Hall. The Warden keeps it for the god,/
+and when a Warden sets two weights on the balance before the whole floor/
+he does in little what the Keeper does at the gate of the world./
+The fathers say the Forge-Lord's standard is fire held still./
+Hold it still, brothers. Do not cast it heavy. Do not file it light,/
 and we stand behind the seal.
 
-Lady of the open book, Sacred Wisdom's Keeper, you owned it and wrote./
-The Wayfarer's road clause: roads end at harbors, and harbors receive their due./
-The [[lore-brazemasdty|Thunderer]]'s storm clause: he may break what fails the standard./
-The [[lore-lizelasdty|Nurturer]]'s growth clause: sowing is owed harvest, unless storm intervenes./
-The [[lore-olveniadty|Bountiful One]]'s wealth clause: gains are shared at the stated rate./
-The [[lore-morvanadty|Waning Moon]]'s wear clause: use brings wear, and wear constitutes no theft./
-Small in the margin you entered the [[lore-zunelasdty|Veiled Dreamer]]'s clause:/
-sleep can show a man the terms waking eyes cannot read./
-You placed the Keeper's clause first and the Silent Judge's last,/
-with every worldly clause between, all precisely stated,/
-for deception begins with vague terms,/
+Lady of the open book, Keeper of Sacred Wisdom, the book was yours, and you wrote./
+You wrote the clause of the road, the Wayfarer's: the road ends at the harbor, and the harbor is owed its due./
+You wrote the clause of the storm, the [[lore-brazemasdty|Thunderer]]'s: he may break what is not built to the standard./
+You wrote the clause of increase, the [[lore-lizelasdty|Nurturer]]'s: what is sown is owed its harvest, saving the storm./
+You wrote the clause of plenty, the [[lore-olveniadty|Bountiful One]]'s: what is gained is shared at the rate stated./
+You wrote the clause of wearing, the [[lore-morvanadty|Waning Moon]]'s: whatever is used wears, and the wearing is no theft./
+In the margin, where a scribe writes small, you wrote the [[lore-zunelasdty|Veiled Dreamer]]'s clause:/
+that a man may see in his sleep the terms he cannot read awake./
+You wrote the Keeper's clause first and the Silent Judge's last,/
+and between them every clause of the world, and nothing in general terms,/
+because the general term is where the swindle begins,/
 and you began none,/
 and we stand behind the seal.
 
-Eleven seals descended upon the book in sequence,/
-brass meeting wax like masters sealing a Hall charter:/
-Mask, Wheel, Anvil, Book, Compass, Bolt,/
-Bloom, Fruit, Wilting Flower, Black Gate, Moon and Star./
-Eleven. The twelfth place remained empty as the wax cooled./
-The Wild Beast refused. Seal me, he said, and I become one clause;/
-I was the whole field. He refused, and the Keeper used no force./
-A compelled seal is void. Nobody understands that better than the Keeper./
-The world book therefore bears eleven seals and a vacancy./
-That vacancy occupies the edge of every page./
-There is the border, brothers. There lies the March./
-Pray for the borderers standing beside that vacancy,/
+Eleven seals went down on the book, one under another,/
+brass to the wax, as the masters seal a charter in the Hall:/
+the Mask's, the Wheel's, the Anvil's, the Book's, the Compass's, the Bolt's,/
+the Bloom's, the Fruit's, the Wilting Flower's, the Black Gate's, the Moon and Star's./
+Eleven, and the place for the twelfth was left in the wax, and the wax went cold./
+The Wild Beast would not seal. He said, "Seal me, and I am a clause,/
+and I was the whole field." He would not, and the Keeper did not compel him,/
+because a seal compelled is no seal, and the Keeper knows it best of all./
+So the book of the world bears eleven seals and an empty place,/
+and the empty place is at the edge of every page,/
+and that is the border, brothers. That is where the march is./
+Pray for the borderers, who stand at the empty place,/
 and we stand behind the seal.
 
-And the Keeper announced the defect before selling the world./
-Hold both truths: a stated fault makes a sale sound./
-He concealed no vacancy beneath his thumb like a cheat gripping a bale's torn corner./
-He stood at the gate, book open, addressing every future taker:/
-An unsealed place lies in this world. The Wild Beast runs there./
-What you build beside it can fall. These terms include that./
-When a river overtops a dyke, no fraud occurs./
-When the steppe crosses a pass, no fraud occurs./
-The beginning's reading declared it; we accepted those terms./
-Brothers, a declared defect admits no grievance./
-What remains is labor at the edge, walls around springs,/
-and care for everything sealed,/
+And the Keeper read the defect aloud before the world was sold./
+Hear the paradox and keep it: the fault declared is the soundness of the sale./
+He did not hide the empty place under his thumb, as a cheat holds a bale by its torn corner./
+He stood in the gate with the book open and said to all who would ever take it:/
+"This world has a place unsealed, and the Wild Beast runs in it./
+What you build at its edge may be thrown down, and that is in the terms."/
+So when the river comes over the dyke, it is no cheat./
+When the steppe comes over the pass, it is no cheat./
+It was read aloud at the beginning, and we took the world on those terms./
+Brothers, there is no complaint against a defect declared./
+There is only the work of the edge, and the walling of the springs,/
+and the keeping of what is sealed,/
 and we stand behind the seal.
 
-Still the book lay open, only one party's seals upon it./
-One seal binds its maker alone./
-The gods could not supply their own opposing party,/
-as a man cannot sell himself a horse and call the payment profit./
-The Keeper sought another party. None existed./
-The Weaver supplied thread; the Forge-Lord supplied heat./
-Sacred Wisdom's Keeper supplied a word: the taker's name./
-They made us last, to occupy the page's other side./
-We receive the world as tenants living under terms./
-Our making exists for the second seal. That is its whole purpose./
-No purpose could be humbler or greater:/
-without us, the world promises itself to nobody,/
+Still the book lay open, sealed on one side only. Hear why./
+A bond with one seal binds the one who sealed it and no one else,/
+and the gods could not be their own counterpart, any more than a man/
+can sell a horse to himself and call the price a profit./
+The Keeper looked for the second party, and there was none./
+The Weaver gave a length of thread. The Forge-Lord gave the heat./
+The Keeper of Sacred Wisdom gave a word, and the word was the name of the taker,/
+and they made us, last of all, to be the other side of the page./
+Not the lords of the world: its takers. Not its owners: its tenants, under terms./
+We were made to be the second seal, and that is the whole of our making./
+There is nothing humbler to be made for, and nothing greater,/
+for without us the world is a promise made to no one,/
 and we stand behind the seal.
 
-Two seals raised the world. The fathers compare it to a felt tent/
-held by its second pegged rope, resisting wind beneath its cloth./
-The Keeper reread the terms to us, the first free people,/
-like a scribe reading to a man unable to read./
-We could not read, and he permits no party's unheard seal./
-Our debt: exact observance of written terms,/
-declared defects in our goods, disputes contained within documents./
-What we are owed: the world exactly as written,/
-sun at its hours, sea at its harbors, thread at its length./
-The total matches. We sing what the fathers sang./
-The Keeper set the book at the gate and turned his faces outward,/
-one toward gods, one toward us, calm and severe equally to both,/
+Two seals, and the world stood. The fathers say it stood up like a felt tent/
+when the second rope is pegged, and the wind went in under it and could not lift it./
+The Keeper read the terms over to us, the first freemen,/
+as a scribe reads a bond aloud to a man who cannot read it,/
+because we could not, and the Keeper lets no party seal what he has not heard./
+Here is what we owe: the terms, kept exactly as written;/
+the defect declared in our own goods; the quarrel kept on the paper./
+Here is what we are owed: the world, kept exactly as written;/
+the sun to its hours, the sea to its harbors, the thread to its length./
+The sum is exact. The fathers sang it so, and so we sing it./
+And the Keeper set the book in the gate and turned his faces outward,/
+one to the gods and one to us, serene and stern to both alike,/
 and we stand behind the seal.
 
-Lend your ears, brothers, to the Silent Judge's clause./
-The Weaver owns the thread; he owns the ending shears./
-He cuts without malice and never prematurely./
-He cuts at the written term read aloud at the beginning./
-Death therefore steals nothing. Lament it without naming theft./
-At his black gate beneath vines growing along the bars,/
-he receives the dead man's book and silently reads every line./
-Owed debts are called. Loans are called./
-The account closes or remains open. The gate opens./
-He takes no purchase, endowment, or bargain./
-Of all Twelve he alone refuses offers./
-A lifelong bargaining merchant falls silent before him,/
+Lend me your hearing, brothers, for the clause of the Silent Judge./
+The thread is the Weaver's, and the shears that end it are his,/
+and he does not cut out of malice, and he does not cut early./
+He cuts where the term was written, and the term was read at the beginning./
+So a death is not a theft. Weep for it; do not call it theft./
+At his black gate, under the vines that grow along the bars,/
+he takes the dead man's account and reads it line by line, in silence,/
+and what was owed is called, and what was lent is called,/
+and the account is closed, or it is not closed, and the gate opens./
+He cannot be bought. He takes no endowment. He does not bargain./
+Of all the Twelve he alone will hear no offer,/
+and the merchant who made offers all his life is silent before him,/
 and we stand behind the seal.
 
-Every account closes. Our terror is the account left open./
-Unpaid debts leave an heir a dispute./
-Absence of an heir leaves the gods an unread page./
-So beside our beds we settle aloud before witnesses,/
-calling debts owed us and acknowledging our own./
-So we purchase our dead's keeping in the dead city:/
-it requires payment,/
-as thread requires spinning and a standard requires beating./
-The fathers say the Judge reads the living's care in the dead man's book./
-Its final line is He was kept. We enter that line./
-Enter it, brothers. Pay keepers. Speak names in the year's darkness./
-Leave no account without someone,/
+Every account closes, and the account left open is our dread./
+The man who dies with a debt unpaid leaves his heir a quarrel./
+The man who dies with no heir leaves the gods a page that no one reads./
+So we settle our accounts aloud on the bed, before witnesses,/
+calling in what is owed to us and owning what we owe,/
+and so we buy the keeping of our dead in the city of the dead,/
+not because the keeping is for sale but because it must be paid for,/
+as the thread must be spun and the standard beaten./
+The fathers say the Silent Judge reads the living's keeping in the dead man's book,/
+and the line "he was kept" is the last line, and we are the ones who write it./
+Write it, brothers. Pay the keepers. Speak the names in the dark of the year./
+Leave no account of yours to no one,/
 and we stand behind the seal.
 
-Know that the world also received a term. Hear it fearfully./
-Beneath the Judge's clause, Wisdom's Keeper wrote a final clause:/
-a measured length for everything, the world's own thread,/
-and the day its account is called before the Twelve./
-At the beginning the Keeper read that clause once./
-Gods alone heard; our making had yet to happen./
-Its day lies in the book, the book within the gate,/
-the gate shut to us until that day./
-The fathers say a reading leaves sound in what received it,/
-as a bell leaves a hum in its supporting beam./
-A skilled counter can find the clause's numbers in the world:/
-moon cycles, hours, bell strokes. Count them,/
+Know too that the world was given a term. Hear this with fear./
+The Keeper of Sacred Wisdom wrote a last clause under the Judge's clause,/
+and in it a length for the whole, the world's own thread, measured,/
+and the day of its calling-in, when it is read over before the Twelve./
+The Keeper read that clause aloud once, at the beginning,/
+and no ear heard it but the gods', because we were not yet made./
+The day is in the book, and the book is in the gate,/
+and the gate is shut to us until the day./
+But the fathers say a reading leaves its sound in the thing it was read over,/
+as a bell leaves its hum in the beam it hangs from,/
+and that the numbers of the clause are in the world for a man who can count:/
+in the moon's turning, in the hours, in the strokes of the bell. Count them, then,/
 and we stand behind the seal.
 
-Holy fathers counted the term and entered a year./
-They counted the Weaver's cycles and the Moon and Star's,/
-old hymn stanzas, old gate steps,/
-fixed a year for the account, and wrote it in the margin./
-The year arrived, bells sounded, ships waited in harbor./
-The year passed without the world's account being called./
-They counted again from an improved copy and named a later year./
-It arrived and passed. The world stood./
-They counted a third time from the oldest house's oldest copy./
-That third year arrived. Vigil lasted through the night./
-Morning brought sun at its hour, sea at its harbor./
-The fathers kept their trust and returned to the page,/
+Holy fathers of the rite counted the term, and wrote the year down./
+They counted the days of the Weaver's turning and the Moon and Star's,/
+the stanzas of the old hymns and the steps of the old gates,/
+and set the calling-in at a year, and wrote the year in the margin,/
+and the year came, and the bells were rung, and the ships stayed in the harbor,/
+and the year went by, and the world was not called in./
+They counted again from a better copy, and set a later year,/
+and that year came, and went by, and the world stood./
+They counted a third time, from the oldest copy in the oldest house,/
+and the third year came, and the vigil was kept all night,/
+and at morning the sun came up to its hour and the sea to its harbor,/
+and the fathers did not despair. They went back to the page,/
 and we stand behind the seal.
 
-In that third morning's rereading, they understood./
-The world's bond receives renewal./
-At each Threshold, with the year turning on its hinge,/
-the Twelve reread the world's terms inside the gate./
-They inspect our second seal for soundness./
-Finding it sound, they renew, beginning the term again./
-A year passes because its term is reached, read, renewed./
-The world ends when the second seal becomes void,/
-when takers are removed from the gods' roll/
-for false weights, disputes carried outside documents,/
-and concealed bale defects. The book shuts; Unagreed returns./
-Brothers, that year remains unwritten. We write it,/
+In the third counting's morning they read the page again, and saw./
+The world is not a bond that runs out. It is a bond that is renewed./
+At every Threshold, when the year turns on its hinge,/
+the Twelve read the terms of the world over in the gate/
+and look to the second seal, which is ours, to see whether it is good,/
+and finding it good they renew, and the term begins again./
+That is why the year goes by: it is reached, and read, and renewed./
+The world ends in the year the second seal is found void,/
+the year the takers are struck from the roll of the gods/
+for lying weights, and quarrels carried out of the paper,/
+and faults hidden in the bale. Then the book is shut, and the Unagreed comes back./
+Brothers, that year is not written. We write it,/
 and we stand behind the seal.
 
-So merchants renew at Thresholds as gods renew their own terms./
-Spouses renew vows; masters renew apprentice indentures./
-Every bond in five cities receives the turning morning's reading,/
-a witness's renewed seals, an entry in the register./
-Hall and temple repeat the Twelve's work at the gate./
-Our renewal copies theirs. Honest copies match./
-Brothers, entering at morning with your papers,/
-understand your act: you show the gods their second seal./
-Make it sound. Let your weight match the standard./
-Declare the defect. Bring the dispute to an arbitrator./
-Renew even the bond that has become unfavorable./
-Whoever bends an unfavorable term voids the seal,/
+So the merchant renews his terms at the Threshold, as the gods renew theirs./
+So the spouse renews the vow, and the master the apprentice's indenture./
+So every bond in the five cities is read over on the turning morning,/
+and sealed again before the witness, and written in the record./
+We do in the Hall and the temple what the Twelve do in the gate./
+Our renewing is a copy of theirs, and a copy is honest when it matches./
+Brothers, when you go in at morning with your papers,/
+know what you are doing: you are showing the gods the second seal./
+Let it be good. Let the weight be the standard's weight./
+Let the fault be declared. Let the quarrel go to the arbitrator./
+Let no bond go unrenewed because it has turned against you,/
+for the man who bends a term once it turns is the man who voids the seal,/
 and we stand behind the seal.
 
-At the vacancy the Wild Beast waits, unsealed and unexpelled./
-Brothers, he suffered no expulsion or compulsion. His presence was declared./
-He runs along each page's margin, gnawing its edge./
-We occupy that edge between sea and steppe,/
-mountain and plain, west and east:/
-five road cities, Unagreed surrounding every border,/
-maintaining the page's central terms so the page endures./
-The fathers give borderer and monk one task:/
-the soldier holds the edge against tearing;/
-the monk holds the center for reading./
-Pray for the spring-fort soldier and the monk in his cell./
-Pray also for the Beast the Keeper refused to compel,/
+At the empty place the Wild Beast waits. He does not seal, and he is not cast out./
+He was not cast out, brothers. He was not compelled. He was declared./
+He runs at the margin of every page and gnaws the edge of it,/
+and the edge is where we stand: between the sea and the steppe,/
+between the mountain and the plain, between the west and the east,/
+five cities on a road, with the Unagreed on every border,/
+keeping the terms in the middle of the page so that the page holds./
+The fathers say the borderer and the monk do one work:/
+the soldier holds the edge so that the book is not torn,/
+and the monk holds the middle so that the book is read./
+Pray for the soldier at the spring-fort. Pray for the monk in his cell./
+Pray for the Wild Beast too, whom the Keeper would not compel,/
 and we stand behind the seal.
 
-Since we form the second seal, brothers, we are only a promise./
-I, the least, have honored fewer terms than I sealed./
-I bent unfavorable terms. I spoke vaguely./
-I weighed my fault lightly and my brother's heavily./
-This hymn records my debt and acknowledges it./
-I ask the Keeper to read my page aloud,/
-letting me hear my entire debt before morning./
-I offer nothing to the Judge who accepts no offers./
-I ask only an exact reading of my account, line following line, then closure,/
-with He was kept entered underneath by my brothers./
-Book keepers, preserve no name of mine in this hymn. I sealed it/
-along the page's edge, where scribes leave small marks,/
+Since we are the second seal, brothers, we are nothing but a promise,/
+and I, the least, have kept fewer terms than I have sealed./
+I have bent a term when it turned. I have spoken in general terms./
+I have weighed my own fault light and my brother's heavy./
+I write this hymn as a debt is written: owing, and saying so./
+I do not ask the Keeper to tear the page. I ask him to read it aloud,/
+so that I hear what I owe, all of it, before the morning;/
+and I ask the Silent Judge, who will hear no offer, for no offer,/
+only that my account be read as it stands, line by line, and closed,/
+and the line "he was kept" be written under it by my brothers./
+Keep no name of mine in the hymn, keepers of the book. I have sealed it/
+down the edge of the page, where the scribe writes his mark small,/
 and we stand behind the seal.
 
-Hear us, Gate Keeper, with both faces as the year turns:/
-calm toward everything we have given whole,/
-severe toward everything taken without declaration./
-Hear us, Weaver, Forge-Lord, Sacred Wisdom's Keeper./
-Wayfarer, Thunderer, Nurturer, Bountiful One,/
-Waning Moon's Lady, Veiled Dreamer, Silent Judge./
-Beast at the margin, hear us too: the terms acknowledge you./
-Night ends. Five cities ring their bells./
-Masters descend to temples carrying papers,/
-factors their ledgers, brides their vows./
-Reread the world, Keeper. Find our seal sound./
-Renew it for one more year's turning,/
+Hear us, Keeper of the Gates, with both your faces, at the turning of the year:/
+the serene face to all we have given whole,/
+the stern face to all we have taken and not declared./
+Hear us, Weaver. Hear us, Forge-Lord. Hear us, Keeper of Sacred Wisdom./
+Hear us, Wayfarer, Thunderer, Nurturer, Bountiful One./
+Hear us, Mistress of the Waning Moon, Veiled Dreamer, Silent Judge./
+And you, Wild Beast at the margin, hear us too, for the terms declare you./
+The night is over. The bells are ringing in the five cities./
+The masters are going down to the temples with their papers,/
+the factors with their ledgers, the brides with their vows./
+Read the world over, Keeper, and find our seal good,/
+and renew it for one more turning of the year,/
 and we stand behind the seal.
 :::
 
-::: {.verse form=kumetin lang=biza enc=bizahelonikaenc work=hymn}
-Eniautin statarin parza [Thresholds]{lang=en}. Turin ekhárin drin meretin./
-Meun ésharin eniautin er vardesh. Heter ésharin eniautin er danizh./
-Valzar er Pilin, frun drin prosarin, hikir prel dorasar, sterir prel lamvar,/
-prez érkharin er herin en ortrin prel sfradin paler,/
-toum akrotarin darzarin er meun deshvel, houm tokhir akherin hein./
-Herin statarin opit sfradin.
+::: {.verse form=kumetin lang=biza enc=bizahelonikaenc work=hymn scan=pentameter}
+Eniautin nunet statarin epir pilvel./
+Turin er hein ekhárin drin meretin,/
+meun er vardesh, koum heter er danizhin./
+Filir er Pilin, toum frun drin prosarin,/
+hikir prel dorasvar koum sterzhir prel lamvar,/
+prez ortrin, potet herin nevarin sfradin,/
+akherin darzar darzarin deshvel er arkhin,/
+houm tokhir er ieresin akherin hein,/
+koum herin statarin opit sfradin‼
 
-Er kronin prez meun retin tokhir er ieresin rétasin heum./
-Vezh vardesh en hein. Toum akrotarin. Toum sestarin felin ortelir./
-Vezh vardesh, drel vezh valzin. Vezh danizh, drel vezh nostarin./
-Vezh zighrel. Vezh hostin prel zigharin er hostin frun hein./
-Vezh hodis. Medinántimor harmodarin teltin er hodis./
-12 ésharin ekesh. Helin uf ésharin 12 etir./
-Deir ónomir ésharin deshvel. Medinántimor rétasin deshvel./
-Helin ésharin vardeshar uf frun heter meretin. Krémashin er helin ésharin medin./
-Tokhir kaleitarin hein Uf-Harmodin. Helin arneitarin zhelarin hein en teikhir./
-Hein ésharin bazhar frun plum kemetin en bazvar, uf frun meun zharpin./
-Zalvin uf frun neshar. Neshar uf frun cherzin katet./
-Nunet plum zalvin ekhárin neshar. Zharpin ésharin rétasin. Deshvel ésharin darzarin./
-Herin statarin opit sfradin.
+En kronin prez meun lékhisir, tokhir rétasin,/
+vezh vardesh en hein. Akherin heum, adelir,/
+koum sestarin felin dikhelir prel hein‼/
+Hostin uf ésharin vardesh, drel hostin uf menetarin./
+Hostin uf ésharin danizhin, drel hostin uf nostarin./
+Zighrel uf ésharin, deir vezh hostin prel zigharin./
+Hodis uf ésharin. Medinántimor harmodarin teltin./
+Zekhordrin ésharin ekesh, uf meil Zekhordrin,/
+deir ónomir esh deshvel. Vezh deshvel./
+Helin ésharin vardeshar uf frun heter meretin,/
+koum krémashin er helin ésharin medin./
+Tokhir er ieresin ónomarin hein Uf-Harmodin,/
+koum uf zhelarin hein epir teikhir./
+Bazhar ésharin, plum bazvar plir,/
+uf meun zharpin ésharin, zalvin uf frun neshar,/
+koum sfradin uf frun cherzin hupor hein./
+Nunet plum zalvin ekhárin neshar./
+Rétasin zharpin, koum darzarin deshvel,/
+koum herin statarin opit sfradin.
 
-Rétasin tokhir. Helin ésharin eleuter. Vezh hostin er eleuterira er helin./
-Hodisvar uf ekhárin hodis prel érkharin apet. Nemvara uf ekhárin nematin./
-Valzar er Haghel Sotira ekhárin kitvar. Vezh hostin prel zervarin en hein./
-Deir retin ésharin hostin er rétasin prel fomántimor. Vezh fomántimor./
-Zirzhelir ekhárin itrin. Itrin uf ekhárin morfel prel sotharin./
-Varzhel Ternin ekhárin karil deir heum. Monet heir er 12 ekhárin karil./
-Heir drametarin en Uf-Harmodin houm tulvaz en pedin uf frun varvel./
-Heir kaleitarin drametarin eleuterira. Hein ésharin eleuterira. Hein ésharin medin./
-Adelir, toum velzarin drin aletira. Toum uf érkharin parza hein takhor./
-Tásirin er pletir eleuter eil er plum ésharin penetir eil er plum. Vezh vardesh prel heir./
-Tásirin er tetarin deshvar prel autel prinet plum ésharin meun er vardesh prel autel./
-Valzar, toum tetarin deshvar prel herin. Toum ekhárin vardesh prel herin. Toum lámbarin vardesh er herin./
-Herin statarin opit sfradin.
+Rétasin tokhir, helin ésharin eleuter,/
+koum vezh hostin prel eleuter afor hein./
+Hodisvar uf ekhárin hodis, Nemvara nematin,/
+Filir er Haghel Sotira biblatin uf frun lékhisir,/
+deir lékhisir esh prel fomántimor, vezh fomántimor./
+Zirzhelir ekhárin itrin uf frun morfel prel sotharin./
+Monet Varzhel Ternin ekhárin karil./
+Heir drametarin en Uf-Harmodin houm tulvaz/
+en aghelin uf frun varvel, koum heir rétasin,/
+«Eleuterira.» Aletir, koum medin./
+Velzarin, neur drametarin parza hein‼/
+Pletir eleuter tásirin esh penetir,/
+deir vezh vardesh prel heir. Tásirin er desmarin/
+autel proimet esh vardeshar proimet./
+Desmarin herin, Filir‼ Ekhárin vardesh,/
+koum toum esh vardeshar er herin‼/
+koum herin statarin opit sfradin.
 
-Zervash er Valzar er Pilin érkharin meteir helin. Heir statarin frun drin prosarin./
-Hikir prosarin prou dorasar. Sterir prosarin prou lamvar./
-Heir rétasin hostin er medinántimor rétasin prez heum. Medinántimor deetarin./
-Medin pratin ésharin efir prez rétasin er deshvel er hein./
-Toum akrotarin retin er heir uf rétasin. Heir uf rétasin. Kosamir ésharin anaghelir./
-Heir rétasin. Deshvel er kosamir ésharin anaghelir. Kosamir érkharin efet./
-Houm bizvar rétasin matelvar prez lámbarin er paidelir./
-Houm chelkar rétasin morz er zalvin prez anoigharin er zalvin./
-Meun pratin er tásirin ésharin keletin. Hein uf ésharin pratarin./
-Hikir prosarin rétasin. Dorashin er toum ésharin olashin./
-Sterir prosarin rétasin. Lámbarin er toum ésharin olashin. Toum rétasin zerpel er hein./
-11 rétasin. Retin ésharin kelir. Heter er 12 rétasin medin./
-Herin statarin opit sfradin.
+Zervarin tokhir, Filir statarin en mesetin/
+frun drin prosarin, hikir prou dorasvar,/
+sterzhir prou lamvar. Heir rétasin,/
+«Praghin neur ghignarin mekhir Zekhordrin/
+rétasin deshvel er hein‼» Medinántimor rétasin/
+heum prez heir, deir medinántimor deetarin./
+Akherin, adelir, teir heir uf rétasin‼/
+Heir uf rétasin, «Kosamir esh‼» Almon,/
+«Deshvel prel kosamir esh‼ Kosamir efet.»/
+Houm bizvar rétasin matelvar prez paidelir,/
+houm chelkar rétasin morz prez zalvin,/
+meun pratin er tásirin esh keletin./
+Hikir prosarin rétasin, «Dorasarin olashin‼»/
+Sterzhir, «Lámbarin olashin, rétasin zerpin‼»/
+Zekhormeun rétasin, «Kelir.» Telest uf rétasin,/
+koum herin statarin opit sfradin.
 
-Akrotarin zhetelin er Nemvara er Kosamir parza kervel er heira meteir ámpelir./
-Deshvel deetarin makrin, heira rétasin. Heteret hein menetarin uf frun teltin./
-Hostin uf frun teltin ésharin Uf-Harmodin paler./
-Heira kinetarin kervel. Heira nemzarin. Nematin érkharin frun makrin./
-Prel plum makrin er heira klastarin heira dorasarin hostin. Makrin ésharin deshvel er hein./
-Heum makrin prel selvirin. Heum prel erin. Heum prel merzvin./
-Heum prel fótamir prez ammetin er teltin. Heum prel órasin prez piptarin./
-Heum prel anerit. Makrin uf ésharin er heir. Hein ésharin er nematin./
-Nemvara nemzarin. Heira uf kritarin. Kervel uf ésharin oratin er heira. Hein ésharin tékhar er heira./
-Drel en tekar herin rétasin. Nematin ésharin en kervel./
-En tanerin herin rétasin. Nematin érkharin prou olashin makrin er autel./
-Kaiet brakhelir makrin. Medin makrin ésharin brakhelir eif deshvel rétasin hein./
-Herin statarin opit sfradin.
+Akrotarin Nemvara ern kervel meteir ámpelir‼/
+«Deshvel deetarin makrin,» heira rétasin,/
+«heteret hein drametarin medintofelin,/
+praghin uf frun teltin esh Uf-Harmodin paler.»/
+Heira kinetarin kervel koum nemzarin./
+Nematin érkharin frun metrin, plum makrin/
+er heira pautarin, heira dorasarin praghin/
+houm deshvel er hein. Makrin prel selvirin,/
+makrin prel erin koum makrin prel merzvin,/
+makrin prel fótamir prez ammetin, órasin prez piptarin,/
+makrin prel anerit. Makrin uf esh er heir./
+Hein esh er nematin. Nemvara uf hairelarin./
+Kervel uf oratin, almon tékhar er heira./
+En tekar herin rétasin, «Nematin en kervel,»/
+en tanerin, «Nematin drametarin olashin makrin,»/
+kaiet brakhelir, deir makrin er deshvel/
+medinkronin ésharin brakhelir, adelir,/
+koum herin statarin opit sfradin.
 
-Rétasin tokhir. Kaiet Zirzhelir érkharin frun hostin er heter uf fantelin féranin./
-Zarzhel. Heir zharzarin hein en verzhel katet itrin er sotin./
-Zighrel er medin hostin etir. Meun zighrel. Plum efet ésharin zigharin frun hein./
-Heir dorasarin hein prel Valzar. Valzar sotharin hein en pilin./
-Plum metrin en kosamir ésharin zelvash er heun metrin./
-Zelvash ésharin eitreir potet isetir, pseudel potet baretir./
-Vezh trel meretin prel zighrel./
-Heum ésharin zharbin en plum Harvel. Varden sotharin hein prel tásirin./
-Potet varden tetarin drin zighrel en zighir prez plum ghéranis er Harvel,/
-heir pratarin mikrir pratin er Valzar en pilin er kosamir./
-Tokhir rétasin. Zarzhel er Zirzhelir ésharin itrin er uf kinetarin./
-Toum sotharin hein uf kinetarin, adelir. Toum uf pratarin baretir. Toum uf zhalvarin elvir./
-Herin statarin opit sfradin.
+Rétasin prostet, kaiet Zirzhelir érkharin,/
+féranin teir heter uf féranin, zighrel./
+Tufarin hein en verzhel hupor itrin,/
+meun zighrel er medin. Plum efet/
+zigharin frun hein. Filir lámbarin hein,/
+sotharin hein en pilin. Plum metrin/
+en kosamir esh zelvash er heun metrin,/
+zelvash esh eitreir potet isetir,/
+pseudel potet baretir. Vezh trel praghin./
+Heum esh zharbin en plum Harvel,/
+koum varden sotharin hein prel tásirin./
+Potet varden tetarin drin zighrel/
+epir zighir prez olashin dafelin er Harvel,/
+pratarin en mikrir teir Filir pratarin/
+en pilin er kosamir. Tokhir rétasin heum,/
+zarzhel er Zirzhelir esh itrin er menetarin./
+Sotharin hein‼ Neur pratarin baretir‼/
+Neur zhalvarin hein elvir, adelir‼/
+koum herin statarin opit sfradin.
 
-Valzar er Haghel Sotira, ghunet er anoigharin kitvar, kitvar ésharin er toum. Toum zervarin./
-Toum zervarin keletin er hodis, er Hodisvar. Hodis pautarin parza limenir. Limenir ekhárin vardesh prel autel./
-Toum zervarin keletin er kemin, er Brontar. Heir dunatarin klastarin hostin er uf isetir frun zarzhel./
-Toum zervarin keletin er auksarin, er Auksar. Pratin er sporarin ekhárin vardesh er terishin, eif uf kemin./
-Toum zervarin keletin er krémashin, er Dorzhel. Kérdanir ésharin nemetarin en telzhar er rétasin./
-Toum zervarin keletin er kalvar, er Minzhela. Plum kresin kalvarin. Kalvar uf ésharin vazhin./
-En zelvar, parza mikrir zervarin er seketar, toum zervarin keletin er Zhunel./
-Anerit dunatarin meltarin en hufin deshvel er uf dunatarin darzarin en egeirir./
-Toum zervarin keletin er Valzar prinet plum. Keletin er Sighelin Dikaser telest./
-Meteir helin plum keletin er kosamir. Medin uf akret deshvel./
-Deir apatin árshidin en uf akret deshvel./
-Toum uf árshidin meun./
-Herin statarin opit sfradin.
+Vezh lékhisir en biblatin, Filir er Haghel Sotira,/
+prez toum. Biblatin er toum. Toum zervarin./
+Toum zervarin keletin er Hodisvar, er hodis./
+Hodis pautarin en limenir, vardesh prel limenir./
+Toum zervarin keletin er Brontar, er kemin./
+Efir heir klastarin domin uf er zarzhel./
+Toum zervarin keletin er Auksar, er auksarin./
+Terishin esh vardesh prel sporin, plor kemin./
+Toum zervarin keletin er Dorzhel, er krémashin./
+Teir heurarin, nemetarin en telzhar er deshvel./
+Toum zervarin keletin er Minzhela, er kalvar./
+Plum kalvarin. Kalvar uf esh vazhin./
+En zelvar, houm seketar, toum zervarin/
+keletin er Zhunel. Anerit dunatarin meltarin/
+en hufin deshvel er heir uf darzarin egeirir./
+Zervarin prinet plum keletin er Filir,/
+koum telest keletin er Sighelin Dikaser,/
+meteir helin plum keletin er kosamir,/
+uf meun keletin koinel. Koinel deshvel/
+esh arkhin er apatin. Toum árshidin/
+medin apatin, Filir er Haghel Sotira,/
+koum herin statarin opit sfradin.
 
-En kitvar 11 sfradin érkharin katet, meun. Efet meun./
-Zharbin prou cherzin, houm bizvar sfradarin nemzhel en Harvel./
-Er Marvel. Er Kervel. Er Verzhel. Er Kitvar. Er Rodzhel. Er Brontel./
-Er Antorin. Er Kelvar. Er Antorin er zerharin. Er Melvar Pilin. Er Selenir frun Astrin./
-11. Teselin prel 12 menetarin en cherzin. Cherzin ghignarin krumir./
-Varzhel Ternin arneitarin sfradarin. Heir rétasin. Toum sfradarin egh. Toteir egh ésharin keletin./
-Egh ésharin pedin olashin. Heir arneitarin. Valzar uf drevzarin heir./
-Deir sfradin frun drevzash uf ésharin sfradin. Valzar epistémarin belter eil er plum./
-Drel kitvar er kosamir ekhárin 11 sfradin, maník teselin./
-Maník teselin ésharin parza teltin er plum papirin./
-Heum ésharin telzhel er ghéranis, adelir. Ekesh ésharin [March]{lang=en}./
-Toum erotarin sotin prel parzhelir er statarin parza maník teselin./
-Herin statarin opit sfradin.
+En biblatin zekhormeun sfradin piptarin katet,/
+meun hupor heter, zharbin en cherzin,/
+houm bizvar sfradarin nemzhel en Harvel./
+Marvel, Kervel, Verzhel koum Biblatin,/
+Rodzhel, Brontel, Antorin koum Kelvar,/
+Antorin er zerharin koum Melvar Pilin,/
+koum Selenir frun Astrin. Zekhormeun sfradin./
+Teselin prel heter sfradin menetarin en cherzin,/
+cherzin parza hein ghignarin krumir./
+Varzhel Ternin arneitarin. Heir rétasin,/
+«Eif toum sfradarin egh, egh esh keletin,/
+koum egh ésharin aeit olashin aghelin.»/
+Filir uf drevzarin heir. Sfradin frun drevzash/
+uf esh sfradin. Filir epistémarin heum./
+Drel biblatin er kosamir ekhárin zekhormeun sfradin/
+frun maník teselin ern teltin er plum biblomerin./
+Heum esh teltin er ghéranis, adelir./
+Erotarin prel parzhelir parza maník teselin,/
+koum herin statarin opit sfradin‼
 
-Lefir retin er Valzar rétasin zerpel taret prez polarin er kosamir./
-Toum akrotarin drin aletira. Toum sotharin. Zerpel er rétasin ésharin sotin er polarin./
-Heir uf kaluptarin maník teselin katet dakhelin houm apatar ekhárin zalvin parza klastir meretin./
-Heir statarin en pilin frun anoigharin kitvar. Heir rétasin prel plum er lámbarin efet./
-Heum kosamir ekhárin teselin uf frun sfradin. Varzhel Ternin drametarin en hein./
-Hostin er toum pratarin parza teltin dunatarin piptarin. Heum ésharin en deshvel./
-Drel fótamir érkharin hut hidirvar. Heum uf ésharin apatin./
-Arzhel érkharin hut vezhrel. Heum uf ésharin apatin./
-Valzar darzarin taret en arkhin. Herin lámbarin kosamir frun heum deshvel./
-Adelir, vezh prakhel prel zerpel er rétasin./
-Monet pratin parza teltin. Teikhir perel krenir./
-Sotharin er hostin frun sfradin./
-Herin statarin opit sfradin.
+Lefir Filir darzarin zerpin taret/
+prez heir polarin kosamir. Velzarin heum‼/
+Zerpel, adelir, ésharin sotin er ameitin./
+Heir uf kaluptarin teselin hupor dakhelin,/
+houm apatar zalvin ern klastir meretin./
+Heir statarin en pilin, anoigharin biblatin,/
+koum rétasin prel plum lamvar er hein,/
+«Heum kosamir ekhárin teselin uf frun sfradin,/
+koum Varzhel Ternin drametarin en hein./
+Teir toum domarin ern teltin er hein/
+dunatarin piptarin. Heum esh en deshvel.»/
+Fótamir hut hidirvar? Heum uf esh apatin./
+Arzhel hut vezhrel? Heum uf esh apatin./
+Filir darzarin hein taret en arkhin,/
+herin lámbarin kosamir en heum deshvel./
+Adelir, vezh prakhel prel zerpel, monet pratin/
+ern teltin, koum teikhir perel krenir,/
+koum sotharin er hostin herin sfradarin,/
+koum herin statarin opit sfradin.
 
-Isetir ameitin deetarin drin meretin. Etir kitvar ésharin anoigharin, frun sfradin en meun meretin monet./
-Deshvar frun meun sfradin tetarin vardesh prel sfradar monet./
-Tásirin uf dunatarin ésharin heter meretin er autel. Houm anerit uf dunatarin/
-polarin tulvaz prel autel, kaleitarin zharpin kérdanir./
-Valzar zetelarin drin meretin. Vezh./
-Nemvara dorasarin makrin er nematin. Zirzhelir dorasarin termira./
-Valzar er Haghel Sotira dorasarin retin. Retin ésharin ónomir er lamvar./
-Helin pratarin herin telest er plum, prel heter meretin er papirin./
-Herin ésharin lamvar er kosamir, uf arsir. Nerzvan katet deshvel, uf kemetvar./
-Herin ésharin pratarin prel drin sfradin. Heum ésharin olashin aitelin er pratarin er herin./
-Vezh aitelin pletir kamelir er aidira. Vezh aitelin pletir meghar./
-Uf frun herin kosamir ésharin hupeskharin prel medinántimor./
-Herin statarin opit sfradin.
+In meun meretin biblatin ekhárin sfradin./
+Akherin diat‼ Deshvar frun meun sfradin/
+desmarin monet sfradar koum uf heter./
+Tásirin uf ésharin heter meretin er autel,/
+houm anerit uf polarin tulvaz prel autel/
+koum ónomarin zharpin er hein kérdanir./
+Filir zetelarin heter meretin, koum vezh./
+Nemvara dorasarin nematin, Zirzhelir termira,/
+koum Filir er Haghel Sotira lékhisir./
+Heun lékhisir ésharin ónomir er lamvar,/
+helin pratarin herin telest er plum/
+prel herin ésharin heter meretin er biblomerin./
+Uf arsir er kosamir, almon lamvar er hein./
+Uf kemetvar er hein, almon nerzvan en deshvel./
+Helin pratarin herin prel zikai sfradin,/
+heum esh olashin aitelin er herin./
+Vezh aitelin pletir kamelir, vezh pletir meghar,/
+Kosamir uf frun herin esh hupeskhin prel medinántimor,/
+koum herin statarin opit sfradin.
 
-Nunet drin sfradin. Kosamir statarin. Tokhir rétasin. Hein statarin houm selvazh/
-potet drin narvel ekhárin tevrel en ghéranis. Ánevir érkharin katet hein, uf dunatarin airatarin./
-Valzar darzarin deshvel paler prel herin, meun eleuter anerit,/
-houm seketar darzarin deshvar taret prel anerit er uf dunatarin darzarin./
-Deir herin uf dunatarin. Valzar uf dorasarin efir prel sfradin er uf akherin./
-Enit vardesh er herin. Deshvel er sotharin akret houm papirin./
-Zerpel er rétasin en krémashin er autel. Prakhel en papirin./
-Enit vardesh prel herin. Kosamir er sotharin akret houm papirin./
-Faenir en horat er autel. Tálimir en limenir er autel. Nematin en makrin er autel./
-Olashin aritmas ésharin akret. Tokhir rétasin houm heum. Herin rétasin houm heum./
-Valzar tetarin kitvar en pilin. Heir allatarin prosarin prou apet./
-Meun prou tásirin, meun prou herin. Hikir frun sterir prel drinolashin isetir./
-Herin statarin opit sfradin.
+Nunet drin sfradin. Kosamir statarin,/
+houm selvazh frun zikai narvel en tevrel,/
+ánevir érkharin hupor hein, uf airatarin./
+Filir darzarin paler deshvel prel herin,/
+eleuter antmerin prinet plum, taret,/
+houm seketar darzarin deshvar prel anerit/
+er uf dunatarin darzarin, deir herin uf dunatarin./
+Filir uf efarin sfradarin teir uf akherin./
+Vardesh er herin, sotharin deshvel akret/
+houm biblatin rétasin, rétasin zerpin/
+en krémashin er herin, koum prakhel en papirin./
+Vardesh prel herin, kosamir houm biblatin,/
+faenir en horin er autel, tálimir en limenir,/
+nematin en makrin. Posetin esh akret./
+Tokhir sorarin heum. Herin sorarin./
+Filir tetarin biblatin en pilin telest,/
+koum huzarin prosarin prou apet,/
+meun prel tásirin koum meun prel herin,/
+hikir koum sterzhir prel drin olashin,/
+koum herin statarin opit sfradin.
 
-Lámbarin retin er egh en otarin, adelir, prel keletin er Sighelin Dikaser./
-Nematin ésharin er Nemvara. Kervelmakhel er teltin ésharin er heir./
-Heir uf klastarin deir mistira. Heir uf klastarin proimet./
-Heir klastarin en teselin er zervarin deshvel. Deshvel ésharin darzarin en arkhin./
-Drel tanerin uf ésharin vazhin. Toum rétasin lufin. Toum uf kaleitarin hein vazhin./
-Parza melvar pilin er heir, katet ámpelir er auksarin parza zharvelin,/
-heir lámbarin kitvar er tanor. Heir darzarin meun retin. Efet meun, en sighelin./
-Vardesh ésharin kaleitarin. Danizh ésharin kaleitarin./
-Kitvar kleitarin, eil uf kleitarin. Pilin anoigharin./
-Medinántimor dunatarin agorarin heir. Heir arneitarin velzhar. Heir uf pratarin ameitin./
-Monet heir er 12 uf akrotarin dorashin./
-Émfarin er dorasarin plum zelarin er autel uf rétasin prez heir./
-Herin statarin opit sfradin.
+Lefir akrotarin keletin er Sighelin Dikaser‼/
+Nematin esh er Nemvara, kervelmakhel er heir./
+Heir uf pautarin hein frun mistira, uf proimet./
+Heir pautarin hein ern teselin er deshvel,/
+koum Filir darzarin deshvel en arkhin./
+Drel tanerin uf esh vazhin. Kratharin prel hein‼/
+Neur ónomarin hein vazhin, adelir‼/
+Ern melvar pilin, hupor ámpelir er zharvelin,/
+heir lámbarin kitvar er tanor anerit,/
+darzarin zhalven efet zhalven en sighelin./
+Heir kaleitarin vardesh koum danizhin,/
+koum kitvar kleitarin eil uf kleitarin./
+Pilin anoigharin. Medinántimor agorarin heir./
+Uf velzhar, uf antithmarin. Monet heir er Zekhordrin/
+uf akherin pubrin, koum émfarin er dorasarin/
+pubrin aeit statarin en sighelin prez heir,/
+koum herin statarin opit sfradin.
 
-En teltin plum kitvar kleitarin. Kitvar er uf kleitarin ésharin trar felin er herin./
-Anerit tanearin frun vardesh er uf zharparin. Heir tetarin prakhel prel zhelvar./
-Anerit tanearin uf frun zhelvar. Heir tetarin papirin prel tásirin. Medinántimor darzarin./
-Drel herin rétasin telvar taret en klinetin, prez mervar./
-Herin kaleitarin vardesh prel herin. Herin rétasin vardesh er herin./
-Drel herin agorarin valzin er tanor er herin en pólitar er tanor./
-Aitelin uf ésharin polarin er valzin. Aitelin ésharin anaghelir zharpin./
-Houm nematin ésharin anaghelir prel nemzarin. Zarzhel prel zharzarin./
-Tokhir rétasin. Sighelin Dikaser darzarin valzin er zelarin en kitvar er tanor./
-Retin er heir ekhárin valzin ésharin telest retin. Herin zervarin hein./
-Toum zervarin, adelir. Toum zharparin valzar. Toum rétasin ónomir en skotelir er eniautin./
-Toum uf tetarin kitvar er autel prel medinántimor./
-Herin statarin opit sfradin.
+En teltin plum kitvar kleitarin, adelir,/
+kitvar uf kleitarin esh felin er herin./
+Tanor frun vardesh dorasarin zhelvar prakhel./
+Ántimor tanor uf frun zhelvar dorasarin prel tásirin/
+biblomerin er medinántimor darzarin, adelir./
+Drel herin rétasin telvar epir klinetin/
+prez mervar. Herin kaleitarin vardesh prel herin,/
+koum rétasin taret vardesh er herin./
+Drel herin agorarin valzin er tanor er herin,/
+uf deir valzin esh prel polarin, almon/
+zharpin esh anaghelir, houm nematin/
+houm zarzhel. Sighelin Dikaser darzarin/
+valzin er zelir antmerin en biblatin er tanor,/
+«Heir ésharin en valzin», telest zhalven,/
+herin zervarin hein. Zervarin, adelir‼/
+Zharparin valzar, rétasin ónomir en nikhtir‼/
+Neur tetarin kitvar er toum prel medinántimor‼/
+koum herin statarin opit sfradin.
 
-Kosamir ekhárin deshvel er autel prostet. Toum akrotarin frun felin./
-Valzar er Haghel Sotira zervarin telest keletin katet keletin er Dikaser./
-En hein makrin er olashin. Nematin er kosamir, frun metrin./
-Hemerin er kaleitarin er hein, potet herin darzarin paler prez 12./
-Valzar darzarin heum keletin taret meunhorat en arkhin./
-Monet otarin er tásirin akherin hein. Herin uf ésharin pratarin etir./
-Hemerin ésharin en kitvar. Kitvar ésharin en pilin./
-Pilin ésharin kleitarin prel herin hoset heun hemerin./
-Almon tokhir rétasin. Darzarin tetarin tarakin en hostin er darzarin prou hein./
-Houm chirnal tetarin tarakin er menetarin en hulitin er ezvar./
-Aritmas er keletin ésharin en kosamir prel anerit er dunatarin aritmarin./
-En nevrash er selenir, en horat, en zharzarin er chirnal. Toum aritmarin./
-Herin statarin opit sfradin.
+Kosamir ekhárin deshvel. Akherin frun felin‼/
+Filir er Haghel Sotira zervarin telest/
+meun keletin hupor keletin er Dikaser,/
+koum makrin prel olashin, nematin er kosamir,/
+hemerin potet Zekhordrin kaleitarin hein./
+Filir darzarin hein meunhorat en arkhin,/
+monet otarin er tásirin akherin hein,/
+deir Zekhordrin uf meil pratarin herin./
+Hemerin esh en biblatin, biblatin en pilin,/
+pilin uf anoigharin prel herin mekhir hemerin./
+Almon darzarin tetarin akhein en praghin,/
+houm kelvash tetarin akhein en hulitin,/
+koum aritmas er keletin ésharin en kosamir/
+prel anerit er dunatarin aritmarin hein akret,/
+en allatin er selenir, en plum horin, en kelvash./
+Aritmarin helin, adelir, aritmarin akret,/
+koum herin statarin opit sfradin‼
 
-Haghel tokhir er ieresin aritmarin deshvel. Helin zervarin eniautin./
-Helin aritmarin hemerin er nevrash er Nemvara, er Selenir frun Astrin./
-Zhalven er palaisir kumetin. Zendel er palaisir pilin./
-Helin tetarin kaleitarin en eniautin. Helin zervarin eniautin en zelvar./
-Eniautin érkharin. Chirnal rétasin. Navzhel menetarin en limenir./
-Eniautin érkharin apet. Kosamir uf ésharin kaleitarin./
-Helin aritmarin paler afor belter zelvash. Helin tetarin husteret eniautin./
-Heun eniautin érkharin, érkharin apet. Kosamir statarin./
-Helin aritmarin trelhorat afor palaisir eil er plum zelvash, en palaisir eil er plum domin./
-Trel eniautin érkharin. Helin sotharin melvar plum nikhtir./
-En ortrin faenir érkharin anet en horat er autel. Tálimir érkharin prou limenir er autel./
-Tokhir uf apolarin pitira. Helin nostarin prou papirin./
-Herin statarin opit sfradin.
+Haghel tokhir er ieresin aritmarin deshvel,/
+zervarin eniautin. Helin aritmarin hemerin/
+er kervel er Nemvara, er Selenir koum Astrin,/
+zhalven er kumetin, zendel er palaisir pilin,/
+koum zervarin eniautin er kaleitarin en zelvar./
+Eniautin érkharin, koum kelvash rétasin,/
+koum plum navzhel menetarin en limenir,/
+eniautin érkharin apet, kosamir menetarin./
+Aritmarin paler afor belter zelvash,/
+tetarin husteret eniautin. Hein érkharin,/
+érkharin apet, koum kosamir statarin./
+Trelhorat aritmarin afor palaisir zelvash/
+en palaisir domin. Eniautin in aritmas trel/
+érkharin. Melvar menetarin plum nikhtir,/
+en ortrin faenir en horin, tálimir en limenir./
+Tokhir nostarin prou biblomerin frun elmirin,/
+koum herin statarin opit sfradin.
 
-Isetir papirin. Tokhir darzarin paler en ortrin er trel aritmarin. Helin meltarin./
-Kosamir uf ésharin deshvar er pautarin. Hein ésharin deshvar er nevarin./
-Plum [Thresholds]{lang=en}, potet eniautin allatarin en zarzvel er autel,/
-12 darzarin deshvel er kosamir paler en pilin./
-Helin meltarin drin sfradin. Hein ésharin er herin. Helin merzarin kelir er hein./
-Helin heurarin kelir. Helin nevarin. Deshvel árshidin paler./
-Heum ésharin aitelin er efet eniautin. Hein érkharin, ésharin darzarin, ésharin nevarin./
-Kosamir pautarin en eniautin er drin sfradin ésharin ufontir./
-Eniautin er lamvar ésharin otelarin afor kitvar er tásirin/
-deir pseudel zighrel, prakhel er apet afor papirin,/
-zerpel er kaluptarin en zalvin. Toteir kitvar kleitarin. Uf-Harmodin nostarin./
-Adelir, heun eniautin uf ésharin zervarin. Herin zervarin./
-Herin statarin opit sfradin.
+In ortrin darzarin paler, koum meltarin./
+Kosamir, adelir, uf esh deshvar er pautarin,/
+hein ésharin deshvar er nevarin aeit./
+En plum Pilvel, epir zarzvel er eniautin,/
+Zekhordrin darzarin deshvel er kosamir en pilin,/
+meltarin sfradin er herin, zhe eil kelir./
+Heurarin hein kelir, helin nevarin,/
+deshvel árshidin paler. Drel eniautin érkharin./
+Hein hikarin, Zekhordrin darzarin, nevarin./
+Kosamir pautarin potet zikai sfradin/
+ghignarin ufontir, potet tásirin otelarin/
+lamvar afor kitvar prel pseudel zighrel,/
+prel prakhel ekor afor papirin, prel zerpin/
+kaluptir en zalvin. Toteir biblatin kleitarin,/
+Uf-Harmodin nostarin. Heun eniautin, adelir,/
+medinántimor zervarin. Herin zervarin hein,/
+koum herin statarin opit sfradin.
 
-Sotharin deshvel. Émfarin nevarin er autel en [Thresholds]{lang=en} houm tásirin nevarin er helin./
-Gemetin nevarin zarvel. Bizvar nevarin matelvar er matelir./
-Plum deshvar en 5 pólitar ésharin darzarin paler en ortrin er nevrash,/
-ésharin sfradarin paler prez mervar, ésharin zervarin en kitvar./
-Herin pratarin en Harvel, en theshel, houm 12 en pilin./
-Nevrash er herin ésharin zelvash er er helin. Zelvash ésharin eitreir potet isetir./
-Adelir, potet toum érkharin en ortrin frun papirin,/
-toum epistémarin pratin er autel. Toum zhelvarin drin sfradin prel tásirin./
-Hein ésharin anaghelir kelir. Zighrel ésharin anaghelir isetir frun zarzhel./
-Zerpel ésharin anaghelir rétasin. Prakhel érkharin prou marzhar./
-Medin deshvar ésharin efir prel uf nevrash deir kasir allatin prel toum./
-Anerit er allatarin deshvel deir kasir allatin pratarin sfradin ufontir./
-Herin statarin opit sfradin.
+Sotharin deshvel, émfarin nevarin en Pilvel,/
+houm tásirin nevarin deshvel er autel./
+Gemetin nevarin zarvel, bizvar matelvar./
+En ortrin er zarzvel plem pólitar darzarin/
+plum deshvar, sfradarin paler prez mervar,/
+koum zervarin hein en kathalir er theshel./
+En Harvel koum theshel herin pratarin/
+teir Zekhordrin pratarin en pilin er kosamir./
+Nevrash er herin esh zelvash er heun,/
+zelvash esh eitreir potet isetir./
+Adelir, potet toum érkharin frun papirin,/
+epistémarin heum‼ Toum zhelvarin tásirin/
+zikai sfradin. Hein ésharin kelir‼/
+Zighrel isetir zarzhel‼ Rétasin zerpin‼/
+Prakhel prou marzhar‼ Neur arneitarin/
+nevrash prel deshvar er ghignarin kasir prel toum,/
+deir kamparin deshvel potet allatarin/
+ésharin pratarin olashin sfradin ufontir,/
+koum herin statarin opit sfradin.
 
-Apet, en maník teselin, Varzhel Ternin menetarin. Heir uf sfradarin. Heir uf ésharin otelarin./
-Heir uf ésharin otelarin, adelir. Heir uf ésharin drevzarin. Retin er deshvel kaleitarin heir./
-Heir drametarin parza teltin er plum papirin. Heir edarin teltin./
-Teltin ésharin teselin er herin. Meteir tálimir frun arzhel./
-Meteir órasin frun pedin. Meteir veshtin frun eotin./
-5 pólitar en hodis. Uf-Harmodin en plum telzhel er ghéranis./
-Herin sotharin deshvel en mesetin er papirin prel menetarin er papirin./
-Tokhir rétasin. Parzhelir frun munzhar pratarin meun pratin./
-Parzhelir sotharin teltin. Drel kitvar uf klastarin./
-Munzhar sotharin mesetin. Drel kitvar ésharin darzarin./
-Toum erotarin sotin prel parzhelir parza krenir, prel munzhar en mikrir dometin./
-Toum erotarin sotin prel Varzhel Ternin prostet. Valzar arneitarin drevzarin heir./
-Herin statarin opit sfradin.
+Apet menetarin heir ern maník teselin,/
+Varzhel Ternin, er aeit arneitarin sfradarin./
+Filir uf otelarin, uf drevzarin heir, adelir./
+Filir rétasin heir, houm zerpin./
+Heir drametarin ern zelvar er plum biblomerin,/
+edarin teltin. Ern teltin herin statarin,/
+meteir tálimir frun arzhel, órasin frun pedin,/
+veshtin frun eotin, plem pólitar en hodis,/
+Uf-Harmodin ern plum teltin. Herin sotharin/
+deshvel en mesetin er biblomerin, prel menetarin hein./
+Parzhelir frun munzhar pratarin meun pratin,/
+parzhelir sotharin teltin, biblatin menetarin,/
+munzhar sotharin mesetin, darzarin hein./
+Erotarin prel parzhelir ern krenir, prel munzhar en dometin‼/
+Erotarin prel Varzhel Ternin, er Filir uf drevzarin,/
+koum herin statarin opit sfradin‼
 
-Sfradin er herin ésharin drin. Drel, adelir, herin ésharin monet hupeskharin./
-Egh zarvelin sotharin meitir deshvel eil er egh sfradarin./
-Egh allatarin deshvel deir kasir allatin. Egh rétasin uf akret deshvel./
-Egh zigharin zerpel er autel elvir, zerpel er adelir baretir./
-Egh zervarin heum kumetin houm vardesh. Vardesh ésharin er egh. Egh rétasin heum./
-Egh uf erotarin klastarin er papirin afor Valzar. Egh erotarin darzarin taret./
-Drel egh akherin plum vardesh er egh prez ortrin./
-Egh uf dorasarin dorashin prel Sighelin Dikaser er arneitarin plum dorashin./
-Monet egh erotarin darzarin er kitvar er egh houm hein, meun retin. Efet meun. Kleitarin./
-Adelir er egh zervarin retin er heir ekhárin valzin katet hein./
-Valzar er kitvar, toum uf valzarin ónomir er egh en kumetin. Egh sfradarin hein/
-parza teltin er papirin, parza mikrir neshar er seketar./
-Herin statarin opit sfradin.
+Sfradin zikai ésharin herin, adelir,/
+drel herin esh monet meun hupeskhin./
+Egh, zarvelin, sotharin meitir eil sfradarin./
+Egh kamparin deshvel potet hein allatarin./
+Egh rétasin koinel deshvel. Egh zigharin zerpin/
+er egh elvir koum zerpin er adelir baretir./
+Egh zervarin heum kumetin houm vardesh,/
+ekhárin vardesh koum rétasin heum./
+Egh uf erotarin Filir prel klastarin hein. Egh erotarin/
+darzarin taret, prel egh akherin plum vardesh/
+prez ortrin. Koum egh erotarin Sighelin Dikaser,/
+er uf akherin pubrin, prel medin pubrin, monet/
+darzarin kitvar er egh, zhalven efet zhalven,/
+kleitarin. Adelir zervarin hupor hein/
+«Heir ésharin en valzin.» Filir er biblatin,/
+neur sotharin ónomir er egh en heum kumetin‼/
+Egh sfradarin hein parza teltin er biblomerin,/
+houm seketar zervarin mikrir neshar,/
+koum herin statarin opit sfradin.
 
-Herin kaleitarin toum, Valzar er Pilin, frun drin prosarin, en nevrash er eniautin./
-Hikir prosarin prel plum dorashin er herin er olashin./
-Sterir prosarin prel plum lámbarin er herin uf frun zervash./
-Toum akrotarin herin, Nemvara. Zirzhelir. Valzar er Haghel Sotira./
-Hodisvar. Brontar. Auksar. Dorzhel./
-Minzhela. Zhunel. Sighelin Dikaser./
-Varzhel Ternin parza zelvar, toum akrotarin herin prostet. Deshvel kaleitarin toum./
-Nikhtir pautarin. Chirnal rétasin en 5 pólitar./
-Bizvar érkharin katet prou theshel frun papirin./
-Chelkar frun kitvar. Gemetira frun zarvel./
-Valzar, toum darzarin kosamir paler. Toum heurarin sfradin er herin kelir./
-Toum nevarin hein prel meun nevrash er eniautin prostet./
-Herin statarin opit sfradin.
+Herin kaleitarin toum, Filir er Pilin‼/
+Akherin herin frun drin prosarin ern zarzvel‼/
+hikir prel teir herin dorasarin olashin,/
+sterzhir prel teir herin lámbarin uf frun zervash./
+Akherin herin, Nemvara koum Zirzhelir,/
+Filir er Haghel Sotira, Hodisvar, Brontar,/
+Auksar, Dorzhel, Minzhela koum Zhunel,/
+koum Sighelin Dikaser‼ Varzhel Ternin,/
+akherin prostet‼ Deshvel rétasin toum./
+Nikhtir pautarin. Kelvash rétasin en pólitar./
+Bizvar érkharin prou theshel frun papirin,/
+chelkar frun kitvar, nevar gemetira frun zarvel./
+Darzarin kosamir, Filir, koum heurarin/
+sfradin er herin kelir, nevarin hein/
+prel meun allatin er eniautin, meun pletir,/
+koum herin statarin opit sfradin‼
 :::
 
 ## See Also

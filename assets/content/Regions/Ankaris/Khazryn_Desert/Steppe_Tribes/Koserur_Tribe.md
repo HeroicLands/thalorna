@@ -1,6 +1,6 @@
 ---
-shortcode: zrnshtrb
-name: {full: Zarnush}
+shortcode: ksrrtrb
+name: {full: Koserur}
 type: affiliation
 subType: polity
 description: "A middling steppe tribe of three hundred families on three wells, boxed in by stronger neighbors and sustained by caravan tolls."
@@ -53,40 +53,40 @@ data:
   economy: [lore-bartercnmy, lore-kinhalcrdt]
   lore: [humanflk]
   parents: []
-  relations: {zrdntrb: unaligned, drmndtrb: rival, shrzrtrb: nemesis}
+  relations: {jbzrtrb: unaligned, qbdrtrb: rival, kndrtrb: nemesis}
   packFolder: khazryndesert
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
 
-The **Zarnush** are a [[lore-sowidesclt|Sovidur]] tribe of perhaps three hundred families, living on two hundred square miles of mixed steppe in the middle of the [[place-khzryndsrtrgn|Khazryn]]. They have three wells, and everything about them follows from that number. A tribe with three wells cannot lose one, and it cannot afford to quarrel with anyone who can reach one.
+The **Koserur** are a [[lore-sowidesclt|Sovidur]] tribe of perhaps three hundred families, living on two hundred square miles of mixed steppe in the middle of the [[place-khzryndsrtrgn|Khazryn]]. They have three wells, and everything about them follows from that number. A tribe with three wells cannot lose one, and it cannot afford to quarrel with anyone who can reach one.
 
 ## The Wells
 
-[Karanat]{.name data-type="place/site"} is the northern well, [Shir-Van]{.name data-type="place/site"} the central one and the tribe's gathering place, and [Dubzar]{.name data-type="place/site"} the eastern one, nearest the [[affiliation-drmndtrb|Durmand]]. A fourth camp, [Zamir-Kar]{.name data-type="place/site"}, follows the seasonal water and stands empty when the water fails. In a dry year the Zarnush pack their herds around the three wells, and a raider knows where to look. In a wet year they spread along the circuit and the tribe is hard to find.
+[Karanat]{.name data-type="place/site"} is the northern well, [Shir-Van]{.name data-type="place/site"} the central one and the tribe's gathering place, and [Dubzar]{.name data-type="place/site"} the eastern one, nearest the [[affiliation-qbdrtrb|Qibudur]]. A fourth camp, [Zamir-Kar]{.name data-type="place/site"}, follows the seasonal water and stands empty when the water fails. In a dry year the Koserur pack their herds around the three wells, and a raider knows where to look. In a wet year they spread along the circuit and the tribe is hard to find.
 
 ## Neighbors
 
-Three stronger tribes meet the Zarnush at the edges of their grazing: the [[affiliation-zrdntrb|Azardan]] to the north, the [[affiliation-drmndtrb|Durmand]] to the east and the [[affiliation-shrzrtrb|Shirzari]] to the south. The Zarnush have lasted for generations by marrying a daughter where a quarrel threatened, by selling guides to caravans on good terms and by keeping a warband that makes raiding them cost more than it pays.
+Three stronger tribes meet the Koserur at the edges of their grazing: the [[affiliation-jbzrtrb|Jobizur]] to the north, the [[affiliation-qbdrtrb|Qibudur]] to the east and the [[affiliation-kndrtrb|Kenodur]] to the south. The Koserur have lasted for generations by marrying a daughter where a quarrel threatened, by selling guides to caravans on good terms and by keeping a warband that makes raiding them cost more than it pays.
 
-That arrangement is failing. A drought dried the seasonal water two years ago, the Durmand raided the herds, three families crossed to the Azardan, and the Shirzari now hold eight of the tribe's people.
+That arrangement is failing. A drought dried the seasonal water two years ago, the Qibudur raided the herds, three families crossed to the Jobizur, and the Kenodur now hold eight of the tribe's people.
 
 ## The Dovaq and the Warband
 
-The dovaq is [Timan Zarnush]{.name data-type="being/npc"}, an old man who has held the tribe together by patience and has little taste for a hard stroke. The warband, [[affiliation-tghsvrnzrnsh|the Tigh'Savaran]], is the other half of the tribe's strength, and its captain, [Bahrazad Darush]{.name data-type="being/npc"}, holds the dovaq's leave to act as he sees fit for one season. The tribe has two ways left to survive: to win the captives back by force, or to buy the Azardan's protection with its independence. The dovaq is leaning toward the second and the warband toward the first.
+The dovaq is [Timan Koserur]{.name data-type="being/npc"}, an old man who has held the tribe together by patience and has little taste for a hard stroke. The warband, [[affiliation-tghsvrnksrr|the Tigh'Savaran]], is the other half of the tribe's strength, and its captain, [Bahrazad Darush]{.name data-type="being/npc"}, holds the dovaq's leave to act as he sees fit for one season. The tribe has two ways left to survive: to win the captives back by force, or to buy the Jobizur's protection with its independence. The dovaq is leaning toward the second and the warband toward the first.
 
 ## Caravans
 
-The Zarnush are known for honest dealing, and caravan tolls are their steadiest income. A caravan that buys passage gets a guide, water at all three wells and the tribe's token, and the Zarnush keep the bargain. A lightly guarded caravan of spices and silk crossing their land while the warband needs horses is a temptation some of the riders argue for, and the dovaq has so far refused it.
+The Koserur are known for honest dealing, and caravan tolls are their steadiest income. A caravan that buys passage gets a guide, water at all three wells and the tribe's token, and the Koserur keep the bargain. A lightly guarded caravan of spices and silk crossing their land while the warband needs horses is a temptation some of the riders argue for, and the dovaq has so far refused it.
 
 ## See Also
 
 [[lore-sowidesclt|Sovidur]]
 : the steppe tribes and what they hold a person owes
 
-[[affiliation-tghsvrnzrnsh|Tigh'Savaran of the Zarnush]]
+[[affiliation-tghsvrnksrr|Tigh'Savaran of the Koserur]]
 : the warband, its captain and the crisis it carries
 
-[[affiliation-zrdntrb|Azardan]], [[affiliation-drmndtrb|Durmand]], [[affiliation-shrzrtrb|Shirzari]]
+[[affiliation-jbzrtrb|Jobizur]], [[affiliation-qbdrtrb|Qibudur]], [[affiliation-kndrtrb|Kenodur]]
 : the three neighbors
 
 [[place-khzryndsrtrgn|Khazryn Desert Region]]

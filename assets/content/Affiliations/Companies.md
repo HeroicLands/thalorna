@@ -19,8 +19,8 @@ Companies are among the groups of individuals of note in [[place-worldthlrn|the 
 [[affiliation-thetamzir|The Crew of the Tamzir]]
 : The crew of a weathered coastal trader plying the Vylarian Sea under Captain Zabuzum Jakuduni, a disillusioned war veteran. They juggle legitimate trade with smuggling and contract work that respectable captains refuse—all while harboring the fugitive Serenthis siblings, one of whom possesses extraordinary and dangerous arcane power.
 
-[[affiliation-tghsvrnzrnsh|Tigh'Savaran of the Zarnush]]
-: An elite warband of twelve mounted horse-archers and lancers from the Khazryn steppe, sworn to the Zarnush tribe. Led by the scarred veteran Bahrazad Darush, they face an existential crisis: drought, rival raids, and the kidnapping of women and children by the Shirzari—with one season to set things right or watch their tribe fragment.
+[[affiliation-tghsvrnksrr|Tigh'Savaran of the Koserur]]
+: An elite warband of twelve mounted horse-archers and lancers from the Khazryn steppe, sworn to the Koserur tribe. Led by the scarred veteran Bahrazad Darush, they face an existential crisis: drought, rival raids, and the kidnapping of women and children by the Kenodur—with one season to set things right or watch their tribe fragment.
 
 [[affiliation-wldjgrrndgrskld|Wuljagar of the Garskald]]
 : A tribal hunting company of seven skilled hunters from the central Vristwald, tasked with feeding the Garskald clan of two hundred. Ecological collapse—shifting elk migrations and a mysterious boar plague—is driving them beyond the [[place-blackthornrdg|Blackthorn Ridge]] into wild, uncharted territory where the elders warn of things that are "not animals."

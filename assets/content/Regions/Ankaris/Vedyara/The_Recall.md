@@ -91,7 +91,7 @@ He did not ask for the king. He asked for the grips/
 and the bowmen came out of their blankets to the fire,/
 .and he spoke it standing:
 
-"[Dhanurpala]{.name data-type="being/npc"} of the High Draw says it,/
+"[Danurpala]{.name data-type="being/npc"} of the High Draw says it,/
 .and the three say it with him./
 The bow was given at the gate. It was not sold./
 .The mark on the grip is ours./
@@ -286,7 +286,7 @@ rajva uvas jahnak, mudva ro danushta jahnak,/
 le danurin kambra trum turu, agmi tral hauvu,/
 .ve stambhu kaldem lampu,
 
-«dhanurpala, utradanpruk ro achorya, lampu,/
+«danurpala, utradanpruk ro achorya, lampu,/
 .tre ve shem levu lampu./
 dvarna bhe danur pomu, vi orgha uvas adnu./
 .mudva mova ro orsa./

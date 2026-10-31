@@ -54,6 +54,8 @@ the one who walked in front of them/
 belongs to the city,/
 and I call that one by what was done.
 
+--- {.canto}
+
 It was spring, in the first years of the count,/
 before the light, on the river flats,/
 and the Senator came down from [[place-antel|the Old Hill]]/
@@ -77,6 +79,8 @@ each stake in its place,/
 each row the width of a cart,/
 and no man speaking.
 
+--- {.canto}
+
 Then the Senator turned to the legions and spoke,/
 and the eagles leaned to hear:/
 "Men of the eagles, you brought me here./
@@ -96,6 +100,8 @@ And the legions said nothing, as legions say nothing,/
 and the eagle-bearers grounded the eagles' poles on the flats,/
 and they stood.
 
+--- {.canto}
+
 As when a farmer in the hills of [[place-hylen|Hilen]]{lang=vyl},/
 the morning his eldest goes for a soldier,/
 walks the boy down/
@@ -113,6 +119,8 @@ and did not look back at the legions,/
 and laid a hand on the first white stone,/
 and the priests made fast the cord to it.
 
+--- {.canto}
+
 There at the first stone/
 stood the Keeper of the Gates,/
 as the priests had said,/
@@ -122,6 +130,8 @@ and the Keeper wore the mask of the two faces,/
 the serene and the stern together,/
 and turned the serene face to the Senator first,/
 and the serene face spoke:
+
+--- {.canto}
 
 "Walker of the line, I am the one/
 who keeps the place where in becomes out./
@@ -157,6 +167,8 @@ paved on both sides with the world's defeats./
 This is what will come through the gate./
 Now look at it with the other face."
 
+--- {.canto}
+
 And the Keeper turned the mask,/
 and the stern face looked at the Senator,/
 and it spoke:/
@@ -191,6 +203,8 @@ until the maps are a courtesy./
 This also will go out through the gate./
 I keep the gate. I do not keep the road."
 
+--- {.canto}
+
 Then the Senator asked the god the one thing,/
 as the dying ask the physician:/
 "Will it end?"/
@@ -212,8 +226,12 @@ and the line will hold./
 The line will hold when the frontiers do not./
 That is what a line inside is for."
 
+--- {.canto}
+
 So the god said, and was the stone,/
 and the cord was fast, and the oxen leaned.
+
+--- {.canto}
 
 Hear now the hills, as the setters set them,/
 in the order the line went round./
@@ -251,6 +269,8 @@ and the Senate's hall,/
 and the Senator's own house, and the tombs./
 The line came last to the tombs.
 
+--- {.canto}
+
 For on the Old Hill's southern slope, above the road,/
 stood the tombs of the old houses,/
 the Republic's dead on the Republic's hill,/
@@ -268,6 +288,8 @@ where the father lay, and the father's father,/
 and the founder of the house,/
 and the mother, who was carried there the winter before,/
 and the stone still white.
+
+--- {.canto}
 
 Then the priests said: Walk the line inside the tombs,/
 and leave the slope outside it./
@@ -304,6 +326,8 @@ and nobody helped,/
 because nobody may carry another house's dead,/
 and the Senator's house was the Senator.
 
+--- {.canto}
+
 Then the old houses came down the slope,/
 seeing what was done, and did the same,/
 each house for its own, all day,/
@@ -326,6 +350,8 @@ the Senator carried out the fathers first./
 Remember it, sons of the houses,/
 when you pour the wine at the roadside tombs.
 
+--- {.canto}
+
 Then the line was closed./
 The cord came round to the first stone/
 on the river flats,/
@@ -343,6 +369,8 @@ and asked the Senator what name to cut,/
 the founder's name, for a founder is hallowed,/
 and the crowned mark was already cut on the stone,/
 the mark that waits for a hallowed name.
+
+--- {.canto}
 
 And the Senator stood at the gate-stone and thought,/
 as the Senator thought all day,/
@@ -371,6 +399,8 @@ and set beneath the Founder's feet for a plinth,/
 and the mark is on it,/
 and inside the mark the stone is smooth.
 
+--- {.canto}
+
 But that evening the mason smoothed it,/
 and the Senator walked back in at the gate alone,/
 with no legion and no guard, in the grey gown,/
@@ -383,6 +413,8 @@ and raised the eagles, and shouted, once,/
 as legions shout at a triumph,/
 and then turned, and went to their camp,/
 because they were outside, and it was evening.
+
+--- {.canto}
 
 That is the walking of the line./
 This the god said; this the Founder did;/
@@ -400,368 +432,400 @@ The hallowed boundary I have sung./
 Keeper of the open book, close the page.
 :::
 
-::: {.verse form=epic lang=vyl enc=vylsemaronenc work=line}
-Thiruthriman sorimamen,/
-ul alathas kedis alatha valmazor, ul talothoi/
-lendthoi ir yormalis ol selthur malkothoi/
-pra kembothos us urkis ol alathoi thalezor./
-Thauras ol thilandon olmthon, Marendas,/
-kedis thilthon ul ar thilthon kerazar,/
-voza olmathen thilandon ir alatha pramiza/
-ul voza lorezathen fa en,/
-ul ethorai koroi dokamen‼/
+::: {.verse form=epic lang=vyl enc=vylsemaronenc work=line scan=hexameter}
+Thiruthriman sorimamen, ul alathas kedis alatha valmazor,/
+ul talothoi iltheroi, lendthoi ir yormalis ol selthur malkothoi,/
+pra teremos kembothos ol veramis us urkis ol alathoi thalezor./
+Thauras ol thilandon olmthon, Marendas, kedis thilthon/
+ul ar thilthon kerazar, voza thilandon olmathen, Thilandthauras,/
+ir alatha pramiza ankelimma, holima pramiza ol thrima,/
+voza lorezathen lambizoi fa en, ul ethor koroi dokamen‼/
 Ul voza holimai dokathen holethi harlen ar daimamen‼/
-Olzemon ar daimazor. Ar daimamen./
-Voza sorimathen lendoi ol talothoi,/
-ul sarkenandoi kedis funelai lozezoi,/
-alathas kedis pra alathoi valmazor/
-ol veramis yarezor,/
-ul harlen ol tambandon fa alathas daimamen‼
+Olzemon harlen ar daimazor. En, sorimos, harlen ar daimamen./
+Ar dokamen kedis olzemon ar dokazor. Ar thilamen sethron./
+Voza sorimathen lendoi tharkoi ol talothoi iltheroi,/
+ul sarkenandoi ol Kalpezthauras kedis funelai teremai lozezoi./
+Naren alathas kedis holimos pra alathoi valmazor/
+ol veramis zetimai yarezor, ar ol harlen ves dorthene ol vethis,/
+ul alathas tambandon ol vethis dokamen ir zetimon kanel,/
+ar harlen urkis, holethi tambandon doranthi dokazor.
 
-Kanai luvetha yarezor, ir holimai tharnelai ol zerthazis,/
-pra korvathis, ir zela polthamis,/
-ul Kurthas lokazor zel Antelen,/
-ar kerandar talktholbema,/
-ir elztholbema kedis nurethos kerazor/
-fa tigathen ir zemrolon ol helthos ol vethis,/
-ul ethorai Kurthas/
-sarkenandoi ol Kalpezthauras/
-kona funelai ol vethis,/
-ul ethorai sarkenandoi lendoi,/
-ul trazela ol iltheroi talothoi,/
-ul tavemer dolveroi fa lozethen alatha,/
-ul ir zela polthamis, ir kelezai ol vethis,/
-zel orkaimai ol vethis, thramezoi,/
-thramezoi kedis Kurthas lozezoi/
-us fos Seldan ir ombalon us alathos,/
-thalandar ir elza/
-sa gurimalon ir dorthenoi ol vethis thalezor/
-pra kolsamoi lokazoi,/
-zetima gurima ir sedon ol vethis,/
-zetima dorthene sa trazela,/
-ul ar urkis dokandar.
+--- {.canto}
 
-Ethorai Kurthas ir thramezoi volzazor ul dokazor,/
-ul orkaimai fa thavithen klinezoi./
-«Thramezanoi ol orkaimai, vethor, ir denon en lozezar./
-Ar lokazar ir kedis tigamen./
-Denon nardelon thrima kir malkothoi valmamen,/
-ul ir thrima veramis ol veramis yarezor,/
-ul ir alatha zel kadzimon thramezos ar tigazor,/
-ar ol en, ar urkis, ar fa urkis holethi./
-Ir denon thalezar, ir zela polthamis,/
-ir kedis thrima tigazor,/
-ul holimoi yarezar/
-fa thalethen fos alatha./
-Zetimon koroi pethamen./
-Denon solkimimmon yarezor./
-Voza thaurathen thrima fos alatha‼»/
-Ul thramezoi ar dokazoi, sa thramezoi ar dokazoi,/
-ul orkaimoi orkaimai ir zela polthamis lendazoi,/
-ul thalezoi.
+Kanai luvetha yarezor, ir tharnelai holimai ol zerthazis,/
+pra urzandon ol korvathis, ir zelai polthamoi lan Vilaras ankelimmas,/
+ul Kurthas anralvai fos Antel, malkothos ol helthoi, lokazor,/
+talktholbema ar kerandar, ar thumisa ol talkalon ves orlema,/
+naren ir elztholbema elzen, levra, ar thumisa kerandar,/
+kedis nurethos kurezor fa tigathen ir zemrolon ol helthos./
+Ul ethorai Kurthas, anpra alathas tigandar anklamai,/
+sarkenandoi ol Kalpezthauras, thauras ol kalpezai ol veramis,/
+funelai teremai ir dekazoi ol vethis zundthai lozezoi,/
+ul lendoi anpra sarkenandoi tigazoi, tharkoi ul anklamoi,/
+ul trazela kona talothoi iltheroi, zela ul solteros,/
+ul tavemer dolveroi tharkoi fa trazela zundethen anralvai./
+Ul ir zelai polthamoi thramezoi thalezoi, ir kelezai ol vethis,/
+zel orkaimai ethlai ol vethis, thramezoi ol Kurthas tharkoi,/
+thramezoi kedis Kurthas pra kanel lozezoi ol vethis/
+us fos Seldan ir ombalon thelvarimmon kedis us Seldan yarezor,/
+zetimoi thalandar ir elzen pramiza, ar sedandar ul ar volzandar,/
+sa gurimalon ir luvetha thalezor, zetimai ar thavandon kerandar,/
+pra kolsamoi kona zundolkoi ir sedon ol vethis lokazoi,/
+urzela gurima ir sedon ol vethis thalandar zethai,/
+ul tavir gurimai sa trazela ol kolsama dalmon sedon,/
+ul ar urkis verezos dokazor, ul ar urkis thramezan sedazor.
 
-Sa kan polthos ir malkothoi ol Hilen,/
-ir pramiza kan ankelimmos ol vethis fa thramezan tigazor,/
-nurethos zel valmazor/
-ir talothos ol polthamis/
-ul ar fos talothos,/
-holethi polthamis ol polthos yarezor/
-ul pozera fos alatha ol orkaima yarezor,/
-ul ir talothos thalezor kona dekazu us alathos/
-ul nurethos zel pozera okezor,/
-ul ethorai alathos ar klamezor,/
-holethi klamandon alathos volzazor,/
-ul orfenazor ar volzathen,/
-sa Kurthas ir orthemon ol zela polthamis thalezor/
-ul ethorai ir thramezoi ar okezor,/
-ul dekazu us holimos iltheros talothos lendazor,/
-ul sarkenandoi funela ir alathos zundazoi.
+--- {.canto}
 
-Ir alathon, ir holimos talothos./
-Kalpezthauras thalezor,/
-sa sarkenandoi dokazoi,/
-holethi talothos ol thrima kalpeza yarezor,/
-ul ir zetima kalpeza Thauras thalezor,/
-ul Thauras lavura ol tavemyenthamis kerazor,/
-daya ul solkima, tavemer,/
-ul daya yenthamis holimai ir Kurthas volzazor,/
-ul daya yenthamis dokazor.
+Ethorai Kurthas fir thramezoi volzazor ul dokazor anklamai,/
+ul orkaimai ethlai us tholkezoi ol thramezoi fa thavithen klinezoi./
+«Thramezanoi ol orkaimai, vethor, en ir denon sedon lozezar./
+Lokanthi ir sedon kedis tigamen koroi ar lokazar./
+Denon nardelon thrima kir selthur malkothoi valmamen,/
+ul ir thrima veramis ol veramis yarezor ul ol arurkis verezos,/
+ul ir alatha thramezos zel orkaima kona kadzimoi ar valmazor,/
+ar thramezos ol en, ar urkis alethos, ar fa lathethis ir zetimon kanel./
+Lokanthi ir zelai polthamoi ir denon sedon thalezar,/
+ir sedon kedis thrima ol veramis ethorai tigazor,/
+ul koroi, thramezoi, holimoi yarezar ol zetimoi verezoi/
+fa thalethen fos alatha, fos thrima, sa kembothos teremos ul tharkos./
+Zolmoi lathoi fos koroi pethamen ir kaneloi teremoi./
+Denon solkimimmon ul andunelon yarezor mazer zetimoi./
+Voza thaurathen thrima fos alatha, thramezanoi ol en‼»/
+Ul thramezoi ar dokazoi, sa thramezoi ar dokazoi ir zetimon kanel,/
+ul orkaimoi orkaimai us yoreza ol polthamoi zelai lendazoi,/
+ul thalezoi, tharkoi ul anklamoi, ul ar sedazoi ir zetima pramiza.
 
-«Thrimvalmas, vethor, en yaremen alathas/
-kedis sedon thaurazor ir kedis ir fos yarezor./
-Voza okethen ir dena kalpeza kona en,/
-ul lokanthi alathon ko vakamen kedis ir alatha lokazor‼/
-Pozerai. Fos dena pramiza tigazoi/
-sa funela ir dekazoi ol sarkenandoi,/
-ir ornethe, us ornethe,/
-ir ronethoi, us ronethoi,/
-kona talothoi, kona sozrakoi, kona pozertalothoi,/
-ul pozertalothoi fos denos talothos rozimazoi./
-Tharnela. Therkalar kedis Vilaras ar okezoi/
-tharnelai ol vethis fos dena luvetha rozimazoi,/
-ul thilandoi ol orzalar fos/
-alatha rozimazoi,/
-ir semarzoi ol vethis,/
-teremai ethorai kan orkaimai fos alathoi orzalar ir karalzon tigazoi/
-ul alathoi orzalar alathai anmemrazoi./
-Vornalon. Alathon thilazoi ul krezulazoi,/
-ul krezulon fos nazdalon ir nazdalon urzizor/
-us ir orznazdalon,/
-uthrimen./
-Kurandoi. Thramezoi ir hilthera ul ir aistroi tigazoi/
-ul zela yormalis kurezoi,/
-ul ir pramiza, ir konthalon ol thradinoi,/
-ul thradinoi fa ko thradina kerazoi,/
-ul pozera kedis fos kalpeza gaurazen/
-varthoi ol threnemai kerazor/
-ul tharkeloi ol thrumaroi,/
-karzis karvelon tharnelai ol alathoi, thambezur zirothoi ol alathoi,/
-zetima pozera fos Vilaras ir kalpeza,/
-lendtha ir tavemer dekazoi kona kurandoi ol zetimon./
-Denon yarezor alathon kedis ir kalpeza lokazor./
-Ethorai voza okethen alathon kona ethora yenthamis‼»
+--- {.canto}
 
-Ul Thauras lavura volzazor,/
-ul solkima yenthamis ir Kurthas okezor,/
-ul dokazor./
-«Thrimvalmas, vethor,/
-tavemyenthamis ol kalpeza thauramen./
-Voza okethen alathon kedis fos tigazor‼/
-Lokanthi thulemalon us ornethe tigazor,/
-dayimmon kedis kerazen, ul velzora kerazor,/
-ul anzirothoi orlema fa thrumar ol alathon daimazoi,/
-ul ir karalzon ar lokazor,/
-ul thizaralon neharlon fa alathos daimazor/
-ul ethorai alathon ar thilazor, ul korvela ar thiltha/
-ir volkema orthema yarezor./
-Ul ir karalzon Orzas kalmethazor/
-ul fa urkis harlen ar daimazor,/
-ul karzis orkaimai pra karzis Orzoi lozezoi,/
-tambthai ir urkis thumbalis,/
-ul thramezoi kona thramezoi ir kelbora ol Hilen kordazoi/
-ul kelbora thalandar linkazoi,/
-ul uzmela ar lokazor,/
-ul veramis fos zelai pelthrai us kremezor/
-us Antel ir kedis kanai nurizon yarezen, selthur nardeloi,/
-ul Antel ar urzizor./
-Orkaima ir aistroi ir kaldrema lozezoi/
-ul ethorai fos ulmera lokazor./
-Orkaima us ir ronethoi ir hilthera tigazor/
-ul ir alathon zel nelamis thalezor./
-Orthemoi therkalar urkis ul urkis sistazoi solkatora,/
-sa ankeloi sistazoi thavithen,/
-ar ir urkis nardelon, nizelai zetima nelameza,/
-orthemai korvelai orfenon yarezoi./
-Ul denon fos kalpeza tigazor./
-Kalpeza thauramen. Pozera ar thauramen.»
+Sa kan polthos ankelos, holimos ol zorka, ir malkothoi ol Hilen,/
+ir pramiza kedis ankelimmos nurethos fa thramezan tigazor,/
+kona nurethos ol vethis anralvai valmazor zelai/
+fir talothos ol polthamis, talothos elzen ol helthoi ol vethis,/
+ul fos talothos ar tigazor, ar urkis valma mazeron alathar,/
+holethi polthamis ol polthos yarezor, ol helthos ul ol helthoi,/
+ul pozera terema fos alatha ol orkaima ethla yarezor,/
+ul lan talothos thalezor, kona dekazu ol vethis us alathos,/
+ul nurethos ir pozera terema tigandar silkarezor doranthi,/
+ul ethor nurethos ar klamezor, ar harlen ol alathos dokazor,/
+holethi urkis klamandon alathos volzathen tambazor,/
+ul nurethos tigandar orfenazor ar volzathen, ar urkis kanizon,/
+sa Kurthas ir sedon orthemon ol zelai polthamoi thalezor,/
+ul thramezoi ar silkazor anpra vethis, ar urkis kanizon,/
+ul dekazu ol vethis us holimos talothos iltheros lendazor,/
+ul sarkenandoi funela terema ir alathos zundazoi tharkai.
 
-Ethorai Kurthas ulthas urkis pethazor,/
-sa kalmethandar rithezos pethazoi./
-«Eza vethor orthemon nardelon kerazor?»/
-Ul Thauras lavura nizelai volzazor,/
-tha tavemer yenthamoi okezoi,/
-ul dokazor. «Sedon, vethor, thauramen ir kedis ir fos yarezor./
-Ar dokamen eza teremai sedon thalezor./
-Ul denon dokamen, holethi ir yarezor,/
-lokanthi alathos aistren zel lokazor/
-ir kremtha veramis/
-ul ankra fa thramezoi kedis kona alathos kordazoi daimazor, ul alathoi anorfenazor,/
-ul kembothoi ethorai gaurazor,/
-ul thelvaralon ol alathos veramis gaurazor/
-sa thalezor,/
-ul harlen ol vethis us alatha dremazor,/
-ul thrima kedis denon nardelon valmazen/
-zel alatha veramis doranthi yarezor,/
-ul thrima thalezor./
-Thrima thalezor kan uthrimai ar thalezoi./
-Fa denon thrima ir yarezor.»
+--- {.canto}
 
-Sa ulthas dokazor, ul talothos yarezor,/
-ul funela zundtha yarezor, ul dolveroi klinezoi.
+Ir alathon sedon, lan holimos talothos iltheros ol thrima,/
+Kalpezthauras thalezor, thauras ol kalpezai ol veramis,/
+sa sarkenandoi pra kanel dokazoi, holethi talothos ol thrima/
+kalpeza yarezor ir zetimon kanel, ul kan kalpeza yarezor/
+ir alatha Thauras thalezor, ul Thauras tavemyenthamis kerazor,/
+yenthamis anklama ul yenthamis solkima, tavemer kona,/
+ul yenthamis anklama holimai fir Kurthas volzazor anralvai,/
+ul yenthamis anklama, sa tholmara kan satheros sistazor ir pramiza,/
+dokazor, ul dokela ol alatha lomera ul anklama yarezor.
 
-Voza thavithen malkothoi, sa lendoi alathoi lendazoi,/
-ir zirothalon kedis thrima kir tigazor‼/
-Holimos Nerval us volkema,/
-ir kedis threnemai zundazoi, ul lozandar/
-kona kelbora us tholkezoi ol vethis urzizoi,/
-malkothos zetimoi zirothoi ul ulfis,/
-ul lendoi karzis talothoi us alathos lendazoi,/
-ul lozandar fa okethen sistazoi./
-Ethoros Mernel,/
-ir kedis marendoi ol ankeloi marendalar ol verosalon/
-ir dorkimai kanai krezulazoi,/
-ul krezulazoi kan talothoi zel tigazoi,/
-eza thrima veramis tambathen dunazor,/
-ves vakathen ir kedis veramis yarezor./
-Karzoros Selvin, thernandar ul peleros,/
-kona ventheloi us alathos ul ar thegaimoi,/
-ir kedis thelvaralar lokandar ar lokazoi,/
-ul talothoi ir yormalis zel tigazoi./
+--- {.canto}
+
+«Thrimvalmas, vethor, en yaremen thauras ol alatha sedon/
+ir kedis ir pelzazor fos, tavir zetimoi thernandar ul kolvazoi./
+Voza kona en tir denon kalpeza okethen anralvai,/
+ul ko vakamen lathoi kedis lokanthi tir alatha lokazoi./
+Pozerai holimai. Lokanthi fos denon pramiza ralvazoi,/
+sa funela zundtha ir dekazoi ol sarkenandoi, terema ul levra,/
+fir ornethe ul tavar ornethe, fir ronethoi ul tir ronethoi thalteroi,/
+talothoi lendthoi zel valmai, sozrakis zel pozera ralvandar,/
+ul pozertalothoi lan alathai ir urzelos thambezur valmai,/
+ul zetimoi pozertalothoi fos denon talothos iltheros rozimazoi,/
+holethi denon holimos ol zetimoi talothoi yarezor./
+Tharnela. Verezoi alathar kedis Vilaras ar okezoi/
+zetimai tharnelai ol vethis fos denon luvetha rozimazoi,/
+ul thilandoi ol orzalar alathar, thilthoi ir dekazu ol vethis,/
+fos alatha luvetha rozimthoi yarezoi, ir kaneloi teremoi,/
+ethor kan orkaimai fos alathoi orzalar fir karalzon tigazoi/
+ul ir alathoi orzalar zetimai anmemrthai pelzazoi ethorai./
+Vornalon. Lokanthi vornalon thilthon ul krezulthon yarezor,/
+ul krezulon fos nazdalon fir nazdalon ethoron urzizor anralvai,/
+fir orznazdalon ol Orzas, ombalon orthemon ol vornalon,/
+fos uthrima alathar ol zetimon orzalon, fos alathar salkon./
+Kurandoi. Lokanthi thramezoi fir nembkorvathis ul fir aistron tigazoi,/
+ul yormaloi zelai ul velmiroi zetimoi kurezoi ul thaurazoi,/
+ul fir urzkorvathis tigazoi, fir konthalon ankelos ol thradinoi delamoi,/
+ul thradinoi fa ko zetimai thradinazoi, thradina ul solkimoi lozandar./
+Ul pozera dalma kedis fos kalpeza lokanthi gaurazen/
+tholkezoi kauroi ol korduthrenemai lan alathai kerazor,/
+ul tharkeloi ol orzoi alethoi, tharkeloi ethloi ul ankroi,/
+karzis karvelon tharnelai, thambezur valmai ol alathoi,/
+zetima pozera terema fos Vilaras fir kalpeza ol veramis,/
+lendtha lan tavemer kona kurandoi ol zetimai yormaloi./
+Denon yarezor kedis tir kalpeza lokanthi lokazor./
+Denkanai voza kona yenthamis ethora okethen‼»
+
+--- {.canto}
+
+Ul Thauras tavemyenthamis anralvai volzazor ir pramiza,/
+ul yenthamis solkima Kurthas okezor ir silkimoi ol alathas,/
+ul dokazor, ul dokela ol alatha nelva ul tharka yarezor./
+«Thrimvalmas, vethor, tavemer sedoi ol kalpeza thauramen,/
+ir ul fos tavemer zetimai, sedon ol thernandar ul ol kolvazoi, doranthi./
+Voza okethen alathon kedis fos tigazor tir kalpeza‼/
+Lokanthi thulemalon dayimmon ol ko ornethe tavar tigazor,/
+ul velzora tharka fa alathon yarezor, ul thrumar ol alathon/
+orlema fos dekazoi ankezdoi kurezor ir yormalis alathar,/
+ul fir karalzon ol vethis ar antigazor, ar ir urkis kanel,/
+ul thizaralon harlen ol alathos fos korvela dremazor/
+ul ar thilazor antigai, ul korvela kedis harlen ar kerazor/
+ir volkema orthemathen orfenazor, lan threnemai ul salkon./
+Ul ir veramis Orzas kalmethazor ul kondamos ar daimazor,/
+ul harlen arurkis dokazor ir zunela ol kalmethandon anklamai,/
+ul karzis orkaimai pra karzis ombalar lozthai yarezoi,/
+tambthai ir urkis thumbalis, fos zargon ul thurdimon urkis,/
+ul thramezoi thramezoi kolvazoi ir kelbora velmira ol Hilen,/
+ul kelbora thalandar linkazoi kedis arurkis kurezor,/
+ul uzmela ar lokazor, ul selkora ol veramis kelbora ar kerazor./
+Ul veramis fos zelai pelthrai fir sedon thelvaron kremezor,/
+us Antel kedis ir holimai thernazen, selthur nardeloi,/
+ul Antel ankelos ar urzizor ethorai, ar ir urkis kanel./
+Orkaima fir aistron ir kaldrema kaura lozezoi teremai,/
+ul fos yoreza ul ulmera ol siretha ethorai antigazor./
+Orkaima ir ronethoi ol nembkorvathis urzizor anralvai/
+ul ir alatha sedon zel nelamis dorazor ir zetimon kanel./
+Therkalar alathar ar thavrelazoi, urkis ethor urkis,/
+sa ankeloi thavithen sistazoi, ul sa ankeloi ar thavrelazoi,/
+ar ir urkis kanizon, naren nizelai ir urzela nelameza,/
+fir kanel kan korvelai ol therkalar urthai orfenon yarezoi./
+Kona denon lokanthi fos tir kalpeza tigazor ol veramis./
+Kalpeza thauramen, Thrimvalmas. Pozera ar thauramen, ar pozera.»
+
+--- {.canto}
+
+Ethorai Kurthas ulthas urkis lathon pethazor,/
+sa kalmethandar rithezos pethazoi ir zunela orthema ol vethis./
+«Eza, vethor, veramis orthemazor ir urkis nardelon?»/
+Ul Thauras tavemyenthamis nizelai volzazor ir pramiza,/
+tha tavemer yenthamoi vakazoi, anklama ul solkima kona,/
+ul dokazor. «Sedon, vethor, thauramen ir kedis ir pelzazor fos./
+Ar dokamen eza teremai ves nizelai sedon thalezor./
+Naren denon dokamen ko, holethi ir thrima yarezor./
+Lokanthi verezos aistren fir sedon zelon lokazor/
+fir veramis kremtha ir elza, fir kembothoi kermthoi ul elzen,/
+ul ankra daimazor fa thramezoi kordandar kona alathos,/
+ul alathoi anorfenazor, ul kembothoi teremoi antigai gaurazor,/
+ul thelvaralon ol alathos veramis antigai urzithen tambazor/
+ir okandon kedis denkanai thalezor, ul harlen ol vethis/
+us alatha dremazor, ir dorkima ethor dorkima ol veramis,/
+ul thrima kedis denon nardelon valmazen, Thrimvalmas,/
+zel alatha veramis doranthi yarezor ir zetimon kanel,/
+ul thrima thalezor, ul thrima ar nembezor ir urkis kanizon./
+Thrima thalezor kan uthrimai ar thalezoi ir ronethoi alathar./
+Fa denon yarezor thrima kedis ir veramis yarezor.»
+
+--- {.canto}
+
+Sa ulthas dokazor, ul ulthas talothos ankelos yarezor,/
+ul funela zundtha yarezor, ul dolveroi tharkoi klinezoi.
+
+--- {.canto}
+
+Voza denkanai thavithen malkothoi, sa lendoi lendazoi,/
+ir zirothalon kedis thrima kir veramis valmandar tigazor‼/
+Holimos Nerval, us volkema ol Vilaras ankelimmas,/
+ir kedis threnemai zundthai thalezoi, ul lozandar tharkoi/
+kona kelbora us telkemoi ol vethis tholkezoi urzvalmazoi,/
+malkothos zetimos zirothoi, ul nelthis ol ulfis ir sithrema,/
+ul lendoi karzis talothoi us klivon ol alathos lendazoi,/
+ul lozandar fa okethen sistazoi, kelbora us telkemoi, anklamoi./
+Ethoros Mernel, malkothos ol galethoi ul ol marendoi zenothoi,/
+ir kedis marendoi ol marendalar ankelai ol Kurthemalon/
+ir dorkimai denkanai krezulazoi, sa ir zetimai pramizai,/
+ul doranthi krezulazoi kan talothoi iltheroi ir yoreza tigazoi,/
+eza thrima veramis tambathen dunazor ir yormalis,/
+ves urthai vakathen ir kedis veramis pra kanel yarezor./
+Karzoros Selvin, malkothos velmiros ul peleros ul ar gaurthos,/
+kona ventheloi us alathos, ul ar thegaimos urkis fir denkanai,/
+ir kedis thelvaralar ethorai lokandar fir denkanai ar lokazoi,/
+ul talothoi iltheroi ir poltheza velmira ul lomera tigazoi./
 Felzoros Torvel, malkothos ol ankeloi thelvaralar,/
-ir kedis komrelai ol kurthoi/
-thalezoi zetima ir olthima ol vethis,/
-ul ankeloi fos lokazoi/
-ir kalpezai ol olthimai/
-ir tholbemai ol vethis, ul Kurthas tigandar okezoi,/
-ul ar klinezoi, ul ar dokazoi./
-Yolemoros Arvel, thelvarimmos, ar kerandar,/
-kona satheros urkis us tholkezos,/
-ul zel tholkezos grumbalar kedis verosalon kelthazor,/
-ul urkis ol alathoi ar dokazor,/
-ul thrima kir zel alathos tigazor,/
-ul sarkenandoi funela ar linkazoi./
-Selthoros Antel, orthemos, ir kedis veramis ol verosalon thalezor,/
-ul ombalon ol Seldan,/
-ul thegaimos ol Kurthas, ul zemroloi./
-Thrima orthemai ir zemroloi lokazor.
+ir kedis komrelai ol kurthoi ankeloi solkimoi thalezoi/
+urzela ir olthima ol vethis, zel kormeroi teremoi ul thalteroi,/
+ul ankeloi verezoi fos fenzai ol thegaimoi anralvai lokazoi/
+fir kalpezai ol olthimai ol vethis, ul thalezoi lan kormeroi elzen,/
+ir tholbemai ol vethis, ul Kurthas tigandar silkarezoi,/
+ul tholkezoi ar klinezoi, ul ar dokazoi urkis lambizon fa alathas./
+Yolemoros Arvel, thalterimmos, thelvarimmos, falvandar,/
+ul arurkis us tholkezos ol vethis naren satheros urthai,/
+ul zel tholkezos grumbalar kedis Kurthemalon zundelazor,/
+ul arurkis verezos ol alathoi dokazor, ir zetimon kanel,/
+ul thrima kir klivoi zeloi ol alathos tigazor anralvai,/
+ul sarkenandoi funela lomera ar linkazoi, ar nizelai./
+Selthoros Antel, ir kedis veramis ol Kurthemalon thalezor,/
+ul ombalon ol Seldan, dumva ol veramis ankelimma,/
+ul thegaimos ol Kurthas ol vethis, ul zemroloi ankeloi ol helthoi./
+Thrima orthemai fir zemroloi ol helthoi lokazor anralvai.
 
-Holethi ir klivon ol Antel ir korvathis, us pozera,/
-zemroloi ol ankeloi thelvaralar thalezoi,/
-kalmetharoi ol verosalon ir malkothos ol verosalon,/
-ir selthur malkothoi,/
-ul vornon ol thrima ankelimmos vornon yarezor,/
-ir alatha thernandar, fos alatha kalmetharoi./
-Sarkenandoi kona funela sistazoi./
-Lendoi kona trazela sistazoi./
-Ul Kurthas ir zemroloi okezor,/
-ul ir alathoi zemrolon ol thelvaralon ol Kurthas yarezor,/
-thelvaralon fos kedis Kurthas lokazor,/
-kona kalpeza ol thurdimon/
-ul harlenoi dremthoi us alathon,/
-ir kedis helthos yarezor, ul helthos ol helthos,/
-ul zerthas ol thelvaralon,/
-ul mezara, kedis orthema nelameza ir alathon lozezoi,/
-ul talothos doranthi iltheros.
+--- {.canto}
 
-Ethorai sarkenandoi dokazoi. «Voza valmathen vethor thrima pra zemroloi,/
-ul voza linkathen klivon fos alatha‼»/
-Ul Kurthas dokazor./
-«Antel, vethor, urkis ol selthur yarezor./
-Veramis kona yolemiks malkothoi ar yarezor dena veramis./
-Linkandar fos malkothos ol helthoi ol en/
-fa thaurathen helthoi ol en ir,/
-dorthene fa thelvaralon ol en tambamen./
-Voza lozethen alathoi fos‼» Ul tambandon yarezor,/
-ul Kurthas holimon ol alathon tambazor./
-Kurthas ir kalpeza ol thurdimon ir tigazor/
-ir kauron,/
-ul fos lokazor lozandar/
-kistela ol zerthas ol thelvaralon,/
-ul alatha zel klivon ir pozera valmazor,/
-fos sedon ir kedis thrima tigazor,/
-ul alatha ir pozera ir elza lendazor,/
-ul ethorai us tigazor fa ethora, ul fa ethora,/
-lukemar, ul orthemai mezara./
-Sa kan siretha ir luvetha urzizor/
-us zelai polthamoi ol Hilen/
-ul polthos kelborkistelai lozezor/
-fos zel thegaimos ir thelvaron,/
-urkis ul ethorai urkis,/
-ul ethorai zel ir ulmera tigazor,/
-ir dekazu, ir nethora,/
-ul ar sistazor/
-fa okethen eza thelvaron ulmera yarezor,/
-holethi kelbora tharnela yarezor, sa Kurthas tigazor/
-us ul zel ir klivon ol Antel/
-ir elztholbema,/
-ul urkis zumbros ar yarezor,/
-holethi ar yestharon yarezor lozethen kalmetharoi ol ethora thelvaralon,/
-ul thelvaralon ol Kurthas Kurthas yarezor.
+Holethi ir klivon ol Antel fir zeltron, us pozera terema,/
+zemroloi ol ankeloi thelvaralar thalezoi iltheroi,/
+kolvazoi ol Kurthemalon us malkothos ol Kurthemalon,/
+ir thrima terema kir selthur malkothoi ol veramis lendtha,/
+ul vornon ol thrima ankelimmos zetimoi vornar yarezor,/
+ir alatha thernandar, fos alatha kolvazoi, ir zetimon kanel./
+Sarkenandoi kona funela terema sistazoi anklamai./
+Lendoi kona trazela ul dolveroi tharkoi sistazoi./
+Ul Kurthas zemroloi ol ankeloi thelvaralar okezor,/
+ul zolir alathoi zemrolon ol thelvaralon ol Kurthas yarezor,/
+thelvaralon fos kedis Kurthas pra kanel lokazor,/
+kona fenza ol thurdimon, kaura ul solkima ul kirama,/
+ul harlenoi dremthoi us alathon ir semarzoi solkimoi ul teremoi,/
+ir kedis helthos ankelos nalizor, ul helthos ol helthos,/
+ul zerthas ol thelvaralon ankelimmos ol zetimoi,/
+ul mezara, kedis ir nelameza pra denon lozthos yarezor,/
+ul talothos ol alatha doranthi iltheros ul levros yarezor.
 
-Ethorai ankeloi thelvaralar zel klivon lokazoi,/
-okandar tambandon, ul sa tambazoi,/
-zetimon thelvaralon fa vethis, zetimon nardelon,/
-ul pozera zel ilthera yarezor/
-kona kistelai ol kalmetharoi,/
-ul kambethai ol ankeloi thelvaralar/
-ir pozera thalezoi/
-ir kistelai, ul hilthersorima sorimazoi,/
-ul kambetha ol Kurthas ir alathon ir alathai thalezor,/
-fa kedis sorima ul harlen ar daimazor,/
-ul alatha hilthersorima ar sorimazor,/
-ul ir kistela ol mezara thalezor/
-kona dekazu ol vethis us alatha./
-Ul holethi denon zemroloi ol Orzara/
-ir pozerai fos veramis thalezoi,/
-fos nizelimmon zemrolon/
-ir thegaimos ol thelvarimma dorthene,/
-holethi ir pramiza ol thrima/
-Kurthas holimai helthoi fos lozezor./
-Voza memrathen alathon, nurethoi ol thelvaralar,/
-kan yenthizon ir zemroloi ol pozerai daimazar‼
+--- {.canto}
 
-Ethorai thrima anolmazoi./
-Funela kir ir holimos talothos lokazor/
-ir zela polthamis,/
-ul sarkenandoi alatha zundazoi,/
-ul Kalpezthauras ir alathon ar yarezor,/
-ves talothos yarezor,/
-ul lendoi orthemos talothos lendazoi/
-ir sedon ol holimos,/
-ul thramezoi ir zela polthamis fos alatha/
-zetimon nardelon thalezoi ul ar ombizoi./
-Ul lendgartos kona malkeza ol vethis lokazor/
-ir kalpeztalothos,/
-sa zesima yarezor,/
-ul Kurthas pethazor eza harlen dremathen,/
+Sarkenandoi «Voza, vethor, ir zemroloi thrima valmathen,/
+ul voza klivon kona zemroloi fos alatha linkathen‼»/
+Ul Kurthas kona dokela solkima dokazor anralvai./
+«Antel, vethor, urkis ol selthur malkothoi yarezor./
+Veramis kona yolemiks malkothoi ar yarezor denon./
+Zai denon nardelon malkothos ol helthoi ol en fos thrima linkamen/
+fa thaurathen helthoi ol en ul zetimoi kalmetharoi ir thrima ol veramis,/
+ethorai thrima fa thelvaralon ol en tambamen, ar thrima fa veramis./
+Voza lozethen alathoi fos‼» Ul tambandon tambthon yarezor,/
+ul Kurthas holimon ol alathon tambazor, holimos ol zetimoi./
+Kurthas tir fenza kaura ol thurdimon ir zemrolon tigazor,/
+ir kauron ul anklamon, ir sedon ol kolvazoi ankeloi ul thelvaroi,/
+ul ethorai fos ir pramiza elzen lokazor, us dalmeroi lozandar/
+kistela ol zerthas ol thelvaralon, kolvemoi ankelimmoi,/
+ul alatha fir sedon zelon tir klivon fir pozera lozezor,/
+fos sedon ir kedis thrima ol veramis ethorai tigazor,/
+ul alatha us pozera ir yormela elzen lendazor anralvai,/
+ul antigazor us klivon fa ethora, ul antigai fa ethora,/
+lukemar kaneloi, ul orthemai kistela ol mezara ol vethis./
+Sa kan siretha melvar ir luvetha us salkoi ol vethis urzizor/
+us zelai polthamoi ol Hilen, ul polthamoi ulmera kerazoi,/
+ul polthos kelborkistelai fos dumela zela lozezor/
+fir grendima ol kelbora, us sedon thelvaron ul ar ulmera kerandar,/
+urkis kelborkistela, ul ethorai urkis, ul ethorai urkis,/
+ul antigai fir sedon zelon ir ulmera nelva tigazor,/
+fir klinemon, fir bulmerziron, ir ulmera kaura ul nelva,/
+ul ar sistazor ir urkis kanizon ves ir urkis valma ol vethis/
+fa okethen eza thalteros ves zelos ulmera yarezor,/
+holethi kelborizon tharnela yarezor, sa Kurthas tigazor/
+fir sedon thelvaron ul fir sedon zelon tir klivon ol Antel/
+ir elztholbema elzen, kona yormela ir valmai ol vethis,/
+ul arurkis verezos zumbrazor, ar urkis thelmos ves thrakon,/
+holethi yestharon ar yarezor kolvazoi ol alethos lozethen,/
+ul thelvaralon ol Kurthas, ir alatha nardelon, Kurthas yarezor.
+
+--- {.canto}
+
+Ethorai ankeloi thelvaralar tir klivon zelai lokazoi,/
+okandar tambandon ol Kurthas, ul rozelos urkis tambazoi,/
+urzelos thelvaralon fa kolvazoi ol vethis, zetimon nardelon,/
+ul pozera zela ir zetimon nardelon iltheros yarezor/
+kona kistelai ol kalmetharoi, kistela ethor kistela,/
+ul kambethai ol ankeloi thelvaralar ir pozera zela/
+thalezoi lan kistelai, ul hilthersorima sorimazoi/
+ir pozera kona dokelai teremai, hilthersorima ol helthoi,/
+ul kambetha ol Kurthas zolir alathai thalezor doranthi,/
+kedis sorima harlen ar daimazor, sa ar daimazor Kurthas,/
+ul alatha hilthersorima ar sorimazor, ar urkis lambizon,/
+naren lan kistela ol mezara ol Kurthas solkima thalezor/
+kona dekazu ol vethis us alatha, levrai ul anklamai./
+Ul holethi denon zemroloi ol Orzara, zemrolara teremai,/
+lan pozerai teremai fos veramis thalezoi, fos thrima ol veramis,/
+fos zemrolon nizelimmon ol polthos kedis arurkis kerazor/
+fir zemrolon ol thelvaralon thelvarimmon ul ankelimmon,/
+holethi ir pramiza holima ol thrima, ir luvetha ol zerthazis,/
+Kurthas holimai helthoi ol vethis fos thrima lozezor./
+Voza memrathen alathon, nurethoi ol thelvaralar ol veramis,/
+kan yenthizon thaluron lan zemroloi ol pozerai fa helthoi daimazar‼
+
+--- {.canto}
+
+Ethorai thrima anolmtha yarezor ir hilthera elzen./
+Funela kir veramis fir holimos talothos lokazor antigai/
+ir zelai polthamoi, kedis lan Vilaras ankelimmas thalezoi,/
+ul sarkenandoi funela zundazoi kona dekazoi solkimoi,/
+ul Kalpezthauras ir alathon sedon ar thalezor ir hilthera,/
+ves Kalpezthauras talothos yarezor, ul ar urkis dokazor,/
+ul lendoi tharkoi orthemos talothos lendazoi anralvai/
+ir sedon ol holimos, ul orthemos holimos pelzazor ethorai,/
+ul thramezoi tharkoi ir zelai polthamoi fos thrima doranthi/
+zetimon nardelon thalezoi, ul ar ombizoi ir urkis kanizon./
+Ul lendgartos fir kalpeztalothos lokazor ir hilthera, fa dremathen,/
+gartos solkimos ol lendoi, kona dekazu ankelos,/
+sa zesima ol veramis yarezor fos kanel ol helthoi ankeloi,/
+ul Kurthas pethazor eza harlen dremathen orfenazor,/
 harlen ol zerthas, holethi zerthas ulthas yarezor,/
-ul orlemthumisa us talothos lendoi kanai dremazoi,/
-thumisa kedis fa harlen ol ulthas yarezor.
+ul orlemthumisa us talothos pra kanel dremtha yarezor,/
+thumisa kedis fa harlen ol ulthas sistezor doranthi.
 
-Ul Kurthas ir kalpeztalothos thalezor ul zenothazor,/
-sa Kurthas zetimon nardelon zenothazor,/
-ol urkis kedis verosa avezor,/
-ul Kurthas alathon avezor, sa zetimos avezor,/
-harlen ethorai dokathen. Veramis harlen dokathen./
-Velda kerathen, holethi velda yarezor dokathen./
-Kurthas ol lavurai ir thegaimos zenothazor,/
-ul ol lavura ol zerthas ir tholkezos ol alathai,/
-ul ol nurethos, kedis lavura ol Kurthas/
-ir orthemon ol dorthene ethorai lendazor,/
-ul ol nurethoi ol nurethos,/
-ul ol harlen ir zetimon kalmethandon ol thelvaralon/
-kan thelvaralon thalezor./
-Ul Kurthas fa lendgartos dokazor./
-«Voza dremathen, vethor, thumisa‼ Voza linkathen harlen‼/
+--- {.canto}
+
+Ul Kurthas lan kalpeztalothos thalezor ul zenothazor,/
+sa Kurthas zetimon nardelon zenothazor ir pozera thrimen,/
+ol urkis lathon kedis zetimos verosa avezor,/
+ul Kurthas alathon avezor, sa zetimoi verezoi avezoi,/
+harlen antigai dokthon. Veramis harlen dokathen./
+Velda kerathen, holethi velda dokthon yarezor./
+Kurthas ol lavurai ir thegaimos zenothazor ir dorthene,/
+ul ol lavura ol zerthas, holima zolir alathai thalandar,/
+ul ol nurethos ol vethis, kedis lavura ol Kurthas ethorai/
+ir sedon orthemon ol dorthene lendazor, sa zesima yarezor,/
+ul ol nurethoi ol nurethos, ul nurethoi ol alathoi, dorthene terema,/
+ul ol harlen dokthon ir zetimon kalmethandon ol thelvaralon/
+kan thelvaralon thalezor, ir tharnelai teremai ul zolmai,/
+ul harlen ol Kurthas ir lambizoi ol nurethoi doranthi dorazor./
+Ul Kurthas fa lendgartos solkimos dokazor ir hilthera anklamai./
+«Voza, vethor, thumisa dremathen ul harlen linkathen‼/
 Veramis kedis harlen ol en dokazor thelvaralon ol en yarezor,/
-ul thelvaralon ol en ir pozera kona kalmetharoi ol vethis yarezor./
-Voza veramis veramis dokathen‼/
-Voza tambathen talothos levros ir thumisa, ul voza linkathen alathos levros‼»/
-Ul alathos talothos yarezor/
-kedis Seldan us malkothos lozezor,/
-kan melvar Zerthas urzizor/
-ir rembalis pra pelera kalpeza,/
-ul zel Zerthas fa sedon lendazor,/
-ul thumisa us alathos yarezor,/
-ul ir thumisa talothos levros yarezor.
+ul thelvaralon ol en us pozera kona kalmetharoi ol vethis yarezor./
+Voza veramis veramis dokathen, ul ar urkis harlen‼/
+Voza talothos ir thumisa levros tambathen ul linkathen‼»/
+Ul alathos talothos kedis Seldan us malkothos lozezor,/
+kan Zerthas melvar ol thurdimon thalteros urzithen tambazoi/
+ir rembalis pra kalpeza pelera ol veramis antigai gaurtha,/
+ul talothos zel valmai ol Zerthas, sa sedon ol alathas, lendazoi,/
+ul thumisa us alathos yarezor doranthi, okela fa zetimoi,/
+ul ir thumisa talothos levros yarezor, ir zetimon kanel.
 
-Ul ir alatha hilthera lendgartos alathos levros tambazor,/
-ul Kurthas ethorai ir kalpeza urkis valmazor,/
-ar kona thramezos, ar kona thauralon, ir elztholbema,/
-kona elza ol pozera us alatha,/
-holimas Orzas ol veramis,/
-holimas kedis thramezoi ir karalzon lozethen ar dunazor,/
-ul thramezoi ir zela polthamis fos/
-Thrimvalmas ir tigandar okezoi,/
-ul orkaimai us kerazoi, ul klamezoi, urkis,/
-sa thramezoi ir velzora klamezoi,/
-ul ethorai volzazoi, ul ir zurgalis ol vethis tigazoi,/
-holethi fos yarezoi, ul hilthera yarezor.
+--- {.canto}
 
-Denon yarezor valmandon ol thrima./
+Naren ir hilthera lendgartos talothos levros tambazor,/
+ul Kurthas tir kalpeza ir veramis anralvai antigazor alathon,/
+ar kona thramezos, ar kona thauralon, ir elztholbema elzen,/
+kona yormela ol pozera us tholbema ol vethis ul valmai,/
+holimas Orzas ol veramis, Orzas ol thrima holimas,/
+holimas kedis thramezoi fir karalzon lozethen ar dunazor,/
+ul thramezoi tharkoi ir zelai polthamoi fos thrima thalandar/
+Thrimvalmas ir veramis tigandar silkarezoi anklamoi,/
+ul orkaimai us urzithen tambazoi, ul klamezoi urkis kanel,/
+sa thramezoi ir velzora kirama ol thrumar klamezoi tharkai,/
+ul ethorai volzazoi, ul fir zurgalis ol vethis anralvai tigazoi,/
+holethi fos thrima yarezoi, ul hilthera elzen yarezor.
+
+--- {.canto}
+
+Denon yarezor valmandon ol thrima, valmandon ol Thrimvalmas./
 Denon ulthas dokazor, denon Zerthas tambazor,/
-denon lendgartos linkazor./
+denon lendgartos ir talothos levros linkazor ir hilthera./
 Ul en, kedis alathon sorimamen, veramis oktha keramen/
-kedis alathos aistren ethorai gaurazor,/
-ul harlen ol alathos us dorkimai, dorkima ethorai dorkima,/
-harlen ol gauros,/
-ul talothos ol Zerthas ir rembalis/
-kona orlemthumisa ul levros talothos ir alatha,/
+kedis gauros aistren antigai gaurazor fos elza,/
+ul harlen ol alathos us dorkimai, dorkima ethor dorkima,/
+harlen ol gauros, dremthon ir zetimai pelthrai ol veramis,/
+ul talothos ol Zerthas ir rembalis pra kalpeza pelera ol veramis/
+kona orlemthumisa ul talothos levros ir alatha,/
 ul alathon dokthon keramen kedis ulthas dokazor/
-ul kedis olzemon dokazor,/
-ul mazeron dokthon ar keramen./
-Thiruthriman sorimtha keramen./
-Thilandthauras, voza anolmathen thilandon‼
+ul kedis olzemon dokazor, ir lambizoi zethai ol vethis,/
+ul mazeron dokthon ar keramen, ar urkis lambizon alethon./
+Thiruthriman sorimtha keramen, en sorimos ol veramis./
+Thauras ol thilandon olmthon, voza thilandon anolmathen‼
 :::
 
 ## See Also

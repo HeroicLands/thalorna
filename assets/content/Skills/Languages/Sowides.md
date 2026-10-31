@@ -110,7 +110,6 @@ data:
     - {form: -ud, front: -ud, gloss: one who does}
     - {form: -lun, front: -lun, gloss: a woman's given name, kind: name, given: woman}
   tongues:
-    - {tag: kept, meaning: an older name retained by the Sovidur}
     - tag: sowides
       meaning: "a Sovidur name, built from Sovidur stems"
       language: skill-sowideslng
@@ -326,6 +325,31 @@ data:
       field: Derived words
       gloss: "the water people: the hidden-water bands of the Central Sands"
       built: [uruvol, -ur]
+    - form: Jobizur
+      class: name
+      field: Derived words
+      gloss: "the kin people: the largest steppe tribe, which takes in the families of its neighbours"
+      built: [jobiz, -ur]
+    - form: Qibudur
+      class: name
+      field: Derived words
+      gloss: "the token people: the tribe of the eastern grass, whose riders trade on credit"
+      built: [qibud, -ur]
+    - form: Oroqidur
+      class: name
+      field: Derived words
+      gloss: "the camp people: the small tribe of the deep desert"
+      built: [oroqid, -ur]
+    - form: Kenodur
+      class: name
+      field: Derived words
+      gloss: "the sword people: the raiding tribe of the southern steppe"
+      built: [kenod, -ur]
+    - form: Koserur
+      class: name
+      field: Derived words
+      gloss: "the passage people: the tribe of the central steppe, who live by the tolls of the caravans"
+      built: [koser, -ur]
     - form: Ghotaqor
       class: name
       field: Derived words
@@ -469,7 +493,7 @@ data:
     - form: Uruvolkuyad
       class: name
       field: Derived words
-      gloss: "the buried water: the Sahri star-song of the lake under the sand"
+      gloss: "the buried water: the Oroqidur star-song of the lake under the sand"
       built: [uruvol, kuyad]
     - form: Gorentoliz
       class: name
@@ -509,7 +533,7 @@ data:
     - form: Khilodtoliz
       class: name
       field: Derived words
-      gloss: "a man's name: sun-spear; a rider of the Shirzari"
+      gloss: "a man's name: sun-spear; a rider of the Kenodur"
       built: [khilod, toliz]
     - form: Kelodekon
       class: name
@@ -519,17 +543,17 @@ data:
     - form: Khamaqjivoq
       class: name
       field: Derived words
-      gloss: "the skull-pole: a star the Sahri steer by"
+      gloss: "the skull-pole: a star the Oroqidur steer by"
       built: [khamaq, jivoq]
     - form: Khilodlun
       class: name
       field: Derived words
-      gloss: "a woman's name: sun; the chief of the Azardan"
+      gloss: "a woman's name: sun; the chief of the Jobizur"
       built: [khilod, -lun]
     - form: Kesukyemok
       class: name
       field: Derived words
-      gloss: "a man's name: eagle-oath; a shaman of the Azardan; `Darius` is retired"
+      gloss: "a man's name: eagle-oath; a shaman of the Jobizur; `Darius` is retired"
       built: [kesuk, yemok]
     - form: Khuvankenod
       class: name
@@ -6786,7 +6810,6 @@ data:
       gloss: beard; the hair of the chin
       built: [josaq, chaqur]
   register:
-    - {name: Sahri, tongue: kept}
     - {name: Sovidur Language, tongue: gloss, built: [Sovidur]}
     - {name: Sovidur, tongue: sowides, built: [sovid, -ur]}
     - {name: Ghotaqor, tongue: sowides, built: [ghotaq, -or]}
@@ -6835,6 +6858,11 @@ data:
     - {name: Old Holds of the Northern Taiga, tongue: gloss, built: [Ghotaqor]}
     - {name: The Taiga Holds, tongue: gloss, built: [Ghotaqor]}
     - {name: Uruvolur, tongue: sowides, built: [uruvol, -ur]}
+    - {name: Jobizur, tongue: sowides, built: [jobiz, -ur]}
+    - {name: Qibudur, tongue: sowides, built: [qibud, -ur]}
+    - {name: Oroqidur, tongue: sowides, built: [oroqid, -ur]}
+    - {name: Kenodur, tongue: sowides, built: [kenod, -ur]}
+    - {name: Koserur, tongue: sowides, built: [koser, -ur]}
     - {name: The Calling at Vomek, tongue: gloss, built: [Vomekoqod]}
     - {name: Vomekoqod, tongue: sowides, built: [vomek, oqod]}
     - {name: The Buried Water, tongue: gloss, built: [Uruvolkuyad]}

@@ -386,7 +386,7 @@ pabarez murádh gaz nuv gasv zi vog,/
 gaz muzádh, vesun khumád‼/
 .mazadh nadív./
 gaz khusáp, gaz thuf dugár dalk./
-.vem dulákez satav,/
+.vem dulakez satav,/
 hutanv bep hunagar, kolg dalk zunám satav,/
 .dhapal badhal./
 dulák vem bumár vog, bep tafanez/
@@ -572,11 +572,11 @@ mazk garadez, tanv-mutház, malak bozd,/
 .maltev tob,/
 lazam zik havamez. vem navathez/
 .gaz buráth satav/
-zi gaz dulák nuv vem dulákez,/
+zi gaz dulák nuv vem dulakez,/
 .madan sikarathez,/
 fudhál tanv, bep pulát vog kolg talg./
 .tavíz nadhap/
-gaz buráth lakamev, kos khazárez./
+gaz buráth lakamev, kos khazarez./
 .dunuk vuzám gaz/
 navath vem. vog, makasir, lumáv kedz,/
 .bamur zi vog puvár,/
@@ -625,7 +625,7 @@ khardev thuf puvár hubadar. tanv budár,/
 kodz zi thuláv, taradh zi gaz buráth,/
 .vogun thunáz dhanív./
 gaz thuf mudár vogun. vogun vubák,/
-.kos khazárez khapivez,/
+.kos khazarez khapivez,/
 gaz vurán lanat narív gand,/
 .mithazath thuf zuvák./
 vogun vurán zik, dhapal badhal,/

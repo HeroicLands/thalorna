@@ -6389,7 +6389,7 @@ data:
       gloss: "shed"
       built: ["let", "groha"]
       source: {kind: coined}
-    - form: "banduk"
+    - form: "bandruk"
       class: "v"
       field: "Doing, going and being"
       gloss: "bind or tie physically or by oath"
@@ -6425,7 +6425,7 @@ data:
       field: "Water, rain and the monsoon"
       gloss: "river"
       source: {kind: coined}
-    - form: "gana"
+    - form: "gavra"
       class: "v"
       field: "Doing, going and being"
       gloss: "sing"
@@ -6577,12 +6577,12 @@ data:
       field: "Craft, trade and the counting-house"
       gloss: "quarrel or dispute"
       source: {kind: coined}
-    - form: "jahnu"
+    - form: "jahnir"
       class: "n"
       field: "Speech, learning and the written word"
       gloss: "question"
       source: {kind: coined}
-    - form: "bhada"
+    - form: "bhadru"
       class: "n"
       field: "War, arms and the host"
       gloss: "armed escort and its service"
@@ -6653,7 +6653,7 @@ data:
       field: "Water, rain and the monsoon"
       gloss: "water channel"
       source: {kind: coined}
-    - form: "karva"
+    - form: "karpa"
       class: "n"
       field: "Duty, law and judgment"
       gloss: "tax"
@@ -6669,7 +6669,7 @@ data:
       field: "Craft, trade and the counting-house"
       gloss: "dyke"
       source: {kind: coined}
-    - form: "kulka"
+    - form: "kulda"
       class: "n"
       field: "Craft, trade and the counting-house"
       gloss: "drinking cup"
@@ -6735,7 +6735,7 @@ data:
       field: "Craft, trade and the counting-house"
       gloss: "drawing compass"
       source: {kind: coined}
-    - form: "varta"
+    - form: "vartu"
       class: "n"
       field: "Doing, going and being"
       gloss: "turn or revolution"
@@ -6745,7 +6745,7 @@ data:
       field: "Doing, going and being"
       gloss: "straight in course"
       source: {kind: coined}
-    - form: "danna"
+    - form: "dantra"
       class: "n"
       field: "Crops, beasts and growing things"
       gloss: "grain as a crop or food"
@@ -6874,7 +6874,7 @@ data:
       field: "Crops, beasts and growing things"
       gloss: "cattle collectively"
       source: {kind: coined}
-    - form: "menka"
+    - form: "mentra"
       class: "n"
       field: "Sun, moon, sky and the reckoning of time"
       gloss: "month"
@@ -7087,7 +7087,7 @@ data:
       field: "Craft, trade and the counting-house"
       gloss: "wise person"
       source: {kind: coined}
-    - form: "dumra"
+    - form: "dumbra"
       class: "n"
       field: "Gods, rites and the temple"
       gloss: "smoke"
@@ -7112,7 +7112,7 @@ data:
       field: "Craft, trade and the counting-house"
       gloss: "mat spread beneath something"
       source: {kind: coined}
-    - form: "hora"
+    - form: "horna"
       class: "n"
       field: "Sun, moon, sky and the reckoning of time"
       gloss: "hour"
@@ -7172,7 +7172,7 @@ data:
       field: "War, arms and the host"
       gloss: "bow stave"
       source: {kind: coined}
-    - form: "misra"
+    - form: "mispra"
       class: "n"
       field: "Kin, household and the person"
       gloss: "pay or wages"
@@ -7368,7 +7368,7 @@ data:
       field: "Mountain, forest, field and the shapes of the land"
       gloss: "niche cut in stone"
       source: {kind: coined}
-    - form: "agru"
+    - form: "agdru"
       class: "n"
       field: "War, arms and the host"
       gloss: "point of an arrow"
@@ -8331,7 +8331,7 @@ data:
     - {name: jalavira, tongue: vedyari}
     - {name: meghavira, tongue: vedyari}
     - {name: kavrabira, tongue: vedyari}
-    - {name: dhanurpala, tongue: vedyari}
+    - {name: danurpala, tongue: vedyari}
     - {name: ashvakirti, tongue: vedyari}
     - {name: bhasmadasa, tongue: vedyari}
     - {name: devopala, tongue: vedyari}

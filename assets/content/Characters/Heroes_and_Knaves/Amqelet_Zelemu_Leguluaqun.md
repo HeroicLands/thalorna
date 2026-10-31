@@ -459,7 +459,7 @@ His first stop was [[place-anlaghura|Anlaghura]], an ancient monolithic obelisk 
 
 Amqelet-Zelemu’s journey is fraught with challenges. Rival astrologers and priests who either do not believe in the prophecy or seek to use the event for their own ends send agents to stop him. His journey into the ruins also reveals ancient powers long forgotten—spirits of the desert, creatures bound to the stars, and followers of ancient cults who view the Convergence as an opportunity to usher in a new age of chaos.
 
-Despite these dangers, Amqelet-Zelemu finds unlikely allies along his path. He meets a wandering desert ranger named **[[being-atenhershr|Atazkharu Sahri]], known as “The Silent Jackal,”** who, though initially skeptical of the astrologer’s quest, pledges to protect him after witnessing a celestial omen. Amqelet-Zelemu also encounters a scholar, **[[being-legiretilmyz|Legiret Ilmy-Za]]**, and an exiled priest, **[[being-legezaqu|Legez Aqu]] Anva**, who together join him in his quest to unlock the true power of the Convergence.
+Despite these dangers, Amqelet-Zelemu finds unlikely allies along his path. He meets a wandering desert ranger named **[[being-atenhershr|Atazkharu Oroqidur]], known as “The Silent Jackal,”** who, though initially skeptical of the astrologer’s quest, pledges to protect him after witnessing a celestial omen. Amqelet-Zelemu also encounters a scholar, **[[being-legiretilmyz|Legiret Ilmy-Za]]**, and an exiled priest, **[[being-legezaqu|Legez Aqu]] Anva**, who together join him in his quest to unlock the true power of the Convergence.
 
 ### End Goal
 
@@ -480,7 +480,7 @@ Mystical Encounters
 
 ### Companions
 
-- [[being-atenhershr|Atazkharu Sahri]]
+- [[being-atenhershr|Atazkharu Oroqidur]]
 - [[being-legiretilmyz|Legiret Ilmy-Za]]
 - [[being-legezaqu|Legez Aqu]]
 

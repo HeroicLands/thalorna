@@ -39,4 +39,4 @@ A hard drought has dried every ordinary well within two days of Kelod, and the t
 : the dry lake it once fed from
 
 [[lore-waterunder|The Buried Water]]
-: the Sahri star-song of the stair and the well-mother
+: the Oroqidur star-song of the stair and the well-mother

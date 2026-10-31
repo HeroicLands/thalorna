@@ -1,6 +1,6 @@
 ---
-shortcode: sahritrb
-name: {full: Sahri}
+shortcode: rqdrtrb
+name: {full: Oroqidur}
 type: affiliation
 subType: polity
 description: "A small tribe of the deep desert that keeps a hidden oasis, holds prophecies of the stars and sends its rangers out to find the lost."
@@ -58,19 +58,19 @@ data:
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
 
-The **Sahri** are a small [[lore-sowidesclt|Sovidur]] tribe of the remote reaches of the [[place-khzryndsrtrgn|Khazryn]], counted among the [[affiliation-rwlstrb|Uruvolur]] because they keep waters nobody else knows. Their country lies far from the road and near nothing, and a rider who finds a Sahri camp has been led to it.
+The **Oroqidur** are a small [[lore-sowidesclt|Sovidur]] tribe of the remote reaches of the [[place-khzryndsrtrgn|Khazryn]], counted among the [[affiliation-rwlstrb|Uruvolur]] because they keep waters nobody else knows. Their country lies far from the road and near nothing, and a rider who finds a Oroqidur camp has been led to it.
 
 ## Rangers and the Jackal
 
-The Sahri are known for their rangers, who patrol the tribe's waters on foot and on camel and read the desert as a hunter reads a forest. The best known is [[being-atenhershr|Atazkharu]], called the Silent Jackal, a tracker who found a wanderer deep in the sand after the first of his visions and carried him to a hidden oasis. The Sahri hold the [Jackal Spirit]{.name data-type="lore/spirit"} to be the protector of wanderers, and a ranger who finds a lost traveler acts for the spirit.
+The Oroqidur are known for their rangers, who patrol the tribe's waters on foot and on camel and read the desert as a hunter reads a forest. The best known is [[being-atenhershr|Atazkharu]], called the Silent Jackal, a tracker who found a wanderer deep in the sand after the first of his visions and carried him to a hidden oasis. The Oroqidur hold the [Jackal Spirit]{.name data-type="lore/spirit"} to be the protector of wanderers, and a ranger who finds a lost traveler acts for the spirit.
 
 ## Prophecy
 
-The Sahri keep prophecies of their own, handed down in song and tied to the movements of the stars. A stranger who brings them a vision of the sky is heard with attention, and a vision that matches their lore is treated as a summons. The dovaq weighs such a summons against the tribe's safety, and more than once the Sahri have put a ranger in the visionary's service.
+The Oroqidur keep prophecies of their own, handed down in song and tied to the movements of the stars. A stranger who brings them a vision of the sky is heard with attention, and a vision that matches their lore is treated as a summons. The dovaq weighs such a summons against the tribe's safety, and more than once the Oroqidur have put a ranger in the visionary's service.
 
 ## Strangers
 
-A stranger who reaches a Sahri water without the tribe's leave is held and questioned, and may be killed. A stranger the Sahri carry there themselves is a guest. The difference is the whole of their hospitality, and a man rescued by a Sahri ranger is bound never to tell anyone the way back.
+A stranger who reaches a Oroqidur water without the tribe's leave is held and questioned, and may be killed. A stranger the Oroqidur carry there themselves is a guest. The difference is the whole of their hospitality, and a man rescued by a Oroqidur ranger is bound never to tell anyone the way back.
 
 ## See Also
 
@@ -78,7 +78,7 @@ A stranger who reaches a Sahri water without the tribe's leave is held and quest
 : the steppe tribes and what they hold a person owes
 
 [[affiliation-rwlstrb|Uruvolur]]
-: the hidden-water bands to which the Sahri belong
+: the hidden-water bands to which the Oroqidur belong
 
 [[place-khzryndsrtrgn|Khazryn Desert Region]]
 : the country the tribe keeps

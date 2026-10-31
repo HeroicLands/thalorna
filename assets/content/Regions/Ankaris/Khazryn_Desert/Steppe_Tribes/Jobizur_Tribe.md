@@ -1,9 +1,9 @@
 ---
-shortcode: shrzrtrb
-name: {full: Shirzari}
+shortcode: jbzrtrb
+name: {full: Jobizur}
 type: affiliation
 subType: polity
-description: "A raiding tribe of the southern steppe that takes captives for ransom and measures its neighbors by what they cannot defend."
+description: "The largest tribe of the central steppe, holding the northern grass and taking in the families of smaller tribes in bad years."
 tags: [draft]
 data:
   culture: sowidesclt
@@ -14,7 +14,7 @@ data:
   governance:
     model: council
     summary: >-
-      A dovaq chosen by the elders, a moot of elders, and a warband that raids distant grazing and holds captives for ransom.
+      A dovaq chosen by the elders, a moot of elders that settles what custom does not already answer, and a circle of shamans consulted before the tribe moves.
     ranks:
       - level: 0
         title: Kinless
@@ -53,34 +53,34 @@ data:
   economy: [lore-bartercnmy, lore-kinhalcrdt]
   lore: [humanflk]
   parents: []
-  relations: {zrnshtrb: nemesis}
+  relations: {ksrrtrb: unaligned}
   packFolder: khazryndesert
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
 
-The **Shirzari** hold the grass south of the [[affiliation-zrnshtrb|Zarnush]], and they take what the Zarnush cannot defend. They are the [[lore-sowidesclt|Sovidur]] tribe that the others point to as raiding done as a trade: a riding party strikes a distant graze, drives off the herds and takes the people who tend them, then sends a rider with the price. A captive among the Shirzari is fed and not harmed, and a captive whose kin cannot pay is married into the tribe.
+The **Jobizur** are the largest of the tribes that share the central steppe, and the one smaller tribes look to when a drought comes. They hold the northern grass of the [[place-khzryndsrtrgn|Khazryn]] and more wells than the [[affiliation-ksrrtrb|Koserur]] to their south can count. A [[lore-sowidesclt|Sovidur]] tribe with that much water does not have to raid, and the Jobizur seldom do.
 
-## The Price
+## How the Tribe Lives
 
-The Shirzari's demand on the Zarnush is fifty horses, a share of the central well at [Shir-Van]{.name data-type="place/site"} and permanent grazing on the southern steppe, in return for eight people taken from a southern graze. The Zarnush dovaq has refused. The Shirzari are in no hurry: each season the captives spend in a Shirzari camp makes them more Shirzari, and a price the Zarnush cannot pay today only rises as they have less left to lose.
+The Jobizur keep horses first and camels second. The tribe moves in a long north-south circuit, wintering at the stone wells and summering on the high grass, and its scouts ride the borders with the Koserur and the other neighbors every season. The scouts probe and do not strike, and the Koserur read the pressure as a reminder of who could.
 
-## The Marriage Offer
+A circle of shamans advises the dovaq on the weather, the rites and the moving of the camps, and the circle can halt a migration for an omen. [[being-rznshmrvrn|Razanash Mervaran]], a shaman of the tribe, is its best-known healer and diviner in the south, where the oasis cities hold few of her own people.
 
-The Shirzari have offered a captive girl, the daughter of the Zarnush war captain's blood-brother, in marriage to the son of their dovaq. They present it as generosity, and it is a way to end the quarrel without a ransom: the girl joins the dovaq's line, and the Zarnush have no claim to take her back. The offer expires on a day the Shirzari have named, and the Zarnush are divided on whether to accept.
+## Taking In
 
-## Caravans
+The Jobizur grow by receiving. Three Koserur families who left in the last bad year found land, herds and a seat in the moot waiting for them, and the Jobizur are now in quiet talks with the Koserur dovaq about a protection that would end the Koserur's independence in all but name. The Sovidur write nothing, so the terms are spoken before witnesses and held in their memory, and a witnessed term is harder to break than a written one.
 
-The Shirzari sell passage to anyone who can pay and do not sell it twice. A caravan that crosses their grass uninvited pays the price in goods, and its guards pay in the trouble of being searched. The tribe takes caravan tolls as its right and the Zarnush's herds as its sport.
+Riders on other wells watch the pattern with unease. A tribe that takes in vassals one family at a time resembles an orkun before he has a banner, and the tribes that remember the last orkun watch an Jobizur dovaq who counts his dependents.
 
 ## See Also
 
 [[lore-sowidesclt|Sovidur]]
 : the steppe tribes and what they hold a person owes
 
-[[affiliation-zrnshtrb|Zarnush]]
-: the tribe whose people the Shirzari hold
+[[affiliation-ksrrtrb|Koserur]]
+: the middling tribe to the south that the Jobizur may absorb
 
-[[affiliation-zrdntrb|Azardan]], [[affiliation-drmndtrb|Durmand]]
+[[affiliation-kndrtrb|Kenodur]], [[affiliation-qbdrtrb|Qibudur]]
 : the other great tribes of the central steppe
 
 [[place-khzryndsrtrgn|Khazryn Desert Region]]

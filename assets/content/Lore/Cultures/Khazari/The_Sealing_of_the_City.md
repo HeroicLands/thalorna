@@ -441,7 +441,7 @@ karíth pes tavíz zi guzár bep rugál,/
 daghal durákh davan, navath bep davan./
 .filnath thunáz galnez./
 nuzám, daghal./
-.nuzám, khazárez.
+.nuzám, khazarez.
 
 tav kodz karím, khardevez nuzáv nuv lakamevez,/
 .filnath murádh tavíz,/
@@ -464,7 +464,7 @@ khazár thuf gunádh gandhez sod vogun,/
 
 kolg darb gullád farzez nalipez,/
 .khozum davanez duráv./
-khazárez punád farzirez kolg hugaldez,/
+khazarez punád farzirez kolg hugaldez,/
 .tavíz nuv badík badak./
 galdan, gald-vulád, gatharir hugald,/
 .nuv damg vog,/
@@ -516,7 +516,7 @@ dalkan, dalk-thumár, kolg zald zi vog dulák,/
 delek, kaval-zunáth, zi vagath hupád,/
 .kolg tamb zi vog kurám./
 madak thuláv vog, bep vog thunáp/
-.nuv vem dulákez./
+.nuv vem dulakez./
 khazár thuf gunádh gandhez sod dalkirez,/
 .gandhez daríkh.
 
@@ -530,7 +530,7 @@ rimik, batam-rumák, zi thuvád vanír bamur,/
 .kolg satav, vinrath./
 talgan, talg-hunáth, zi rugháv raghavez,/
 .kolg raghav buvár madak./
-kolg khazartúrn, narív paghazez khatíbez./
+kolg khazartúrn, narív paghazez khatibez./
 .gazun tumás kedz./
 dalk thuf thunáz. gazun dulák vog,/
 .bep favíd vog,/
@@ -594,7 +594,7 @@ kolg darb lummáv, lamvirez dubáz/
 .madan limvathez./
 lakaman, lakam-mulán, durákh lakamev kolg hulamv,/
 .vogun rukáv vog,/
-khasípev bep khalivev, bep lakaman nalív./
+khasipev bep khalivev, bep lakaman nalív./
 .bantan, bant-khubán,/
 zi khubán bantez, dubáz madan vogun./
 .lamav, bant-khubán,/
@@ -611,7 +611,7 @@ vog buvár thanp zi mulág vog,/
 zik vazathez bep vem girm bep fegd/
 .vadhalez nuláv kald,/
 bep vog gunádh, «zardhez bamíg hugharm.»/
-.«khagílez kolg zalv.»/
+.«khagilez kolg zalv.»/
 «vogun thuf fukán. lafadirez thuf batunám.»/
 .«vogun thuf kuvál ravaz.»/
 «vogun thuf puvár kaval.» lanur varn,/
@@ -673,7 +673,7 @@ tev labaz bep zithakath, tev zathak kald/
 vogun furákh tavíz dilkath kolg samd./
 .latab thuf zuvák./
 lamv durákh gatharirez zi rumák vogun/
-.bep dhapal dulákez./
+.bep dhapal dulakez./
 gol samd, gharm rakíd kos hugharm./
 .larg dhuráz fanthez./
 thavan tev thavan, ravath duráv galv,/

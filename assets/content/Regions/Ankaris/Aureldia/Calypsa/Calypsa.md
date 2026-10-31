@@ -35,22 +35,21 @@ data:
         description: >-
           Enrolled in the citizen body, voting in the assembly and serving in the levy. A citizen is not a member of the governing order.
       - level: 5
-        title: Gulmen
+        title: Shipmaster
         description: >-
-          Of the propertied order that meets the census for office, and from which the magistracies are in practice filled.
+          Master or part-owner of a hull large enough to count in the tonnage census, and from which the houses' officers are in practice drawn.
       - level: 6
-        title: Senator
+        title: Councilor
         description: >-
-          Of the ruling council itself, holding a seat for life and deliberating on war, treasury and law.
+          Head of a seafaring house, holding its seat on the Captains' Council and deliberating on war, treasury and Sea-Law.
       - level: 7
-        title: Tavalen
-        lore: formermagrnk
+        title: Past Harbormaster
         description: >-
-          Having held the chief magistracy and vacated it, and speaking with the weight that carries ever after.
+          Having served a term as Harbormaster and stepped down, and speaking with the weight that carries ever after.
       - level: 8
-        title: First Senator
+        title: Harbormaster
         description: >-
-          Presiding over the council and speaking first in it—an office of precedence, held for a term, not a sovereign.
+          Elected by the Council to hold the harbor, the fortifications, the customs and the navy for a single three-year term—an office of precedence, not a sovereign.
     offices:
       Harbormaster: >-
         Executive officer elected by the Captains' Council for three years, and barred from serving consecutive terms. Holds the harbor, the fortifications, the customs and the navy.

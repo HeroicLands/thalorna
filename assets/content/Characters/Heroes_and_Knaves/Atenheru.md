@@ -1,9 +1,9 @@
 ---
 shortcode: atenhershr
 name:
-  full: Atazkharu Sahri
+  full: Atazkharu Oroqidur
   given: Atazkharu
-  clan: Sahri
+  clan: Oroqidur
   en: [The Silent Jackal, The Desert Wanderer]
   dunh: [chuyelqiimod, chuel]
 type: being
@@ -17,7 +17,7 @@ data:
   lore: []
   culture: sowidesclt
   homes: [kherzulakhem]
-  affiliations: {sahritrb: {rank: 3}, korsadra: {rank: 1}}
+  affiliations: {rqdrtrb: {rank: 3}, korsadra: {rank: 1}}
   gender: male
   species: humanflk
   born: 679.59
@@ -428,9 +428,9 @@ Atazkharu stands 6'2\" tall with a medium build. He has olive-tanned skin, dark 
 
 # Dossier {#dossier}
 
-Atazkharu, called Chuyelqiimod, “the Silent Jackal,” on the steppe, and Chuel by those who know him, was a desert ranger from the [[affiliation-sahritrb|Sahri]] nomads, a tribe living in the remote reaches of the [[place-khzryndsrtrgn|Khazryn Desert]]. Skilled in tracking and surviving in one of the harshest environments in the world, Atazkharu developed a connection with the desert and its spiritual forces. During one of his routine desert patrols, Atazkharu stumbled upon [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’akun]], who had wandered deep into the desert after the first of his celestial visions. At the time, Amqelet-Zelemu Legulu’akun was lost, dehydrated, and struggling to interpret the significance of the stars guiding him into the unknown.
+Atazkharu, called Chuyelqiimod, “the Silent Jackal,” on the steppe, and Chuel by those who know him, was a desert ranger from the [[affiliation-rqdrtrb|Oroqidur]] nomads, a tribe living in the remote reaches of the [[place-khzryndsrtrgn|Khazryn Desert]]. Skilled in tracking and surviving in one of the harshest environments in the world, Atazkharu developed a connection with the desert and its spiritual forces. During one of his routine desert patrols, Atazkharu stumbled upon [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’akun]], who had wandered deep into the desert after the first of his celestial visions. At the time, Amqelet-Zelemu Legulu’akun was lost, dehydrated, and struggling to interpret the significance of the stars guiding him into the unknown.
 
-Atazkharu, guided by an instinctual pull from the [Jackal Spirit]{.name data-type="lore/spirit"}—a protector of wanderers in the desert—rescued Amqelet-Zelemu Legulu’akun and brought him to a hidden oasis. It was there, as Amqelet-Zelemu Legulu’akun shared his visions of celestial upheaval, that Atazkharu realized their fates were entwined. The same stars that guided Amqelet-Zelemu Legulu’akun through his visions also aligned with the Sahri’s ancient prophecies. Believing that Amqelet-Zelemu Legulu’akun’s quest might hold the key to understanding the mysteries of the desert and its spiritual protectors, Atazkharu pledged his assistance, convinced that the Jackal Spirit had chosen him to guide the astrologer through the perils of both the desert and his destiny.
+Atazkharu, guided by an instinctual pull from the [Jackal Spirit]{.name data-type="lore/spirit"}—a protector of wanderers in the desert—rescued Amqelet-Zelemu Legulu’akun and brought him to a hidden oasis. It was there, as Amqelet-Zelemu Legulu’akun shared his visions of celestial upheaval, that Atazkharu realized their fates were entwined. The same stars that guided Amqelet-Zelemu Legulu’akun through his visions also aligned with the Oroqidur’s ancient prophecies. Believing that Amqelet-Zelemu Legulu’akun’s quest might hold the key to understanding the mysteries of the desert and its spiritual protectors, Atazkharu pledged his assistance, convinced that the Jackal Spirit had chosen him to guide the astrologer through the perils of both the desert and his destiny.
 
 ## Background
 

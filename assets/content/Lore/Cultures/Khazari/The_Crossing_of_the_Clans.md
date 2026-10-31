@@ -440,7 +440,7 @@ ves thuf dulák, ves thuf ruthák nalív.
 bakat zuvák kolg. zamar bukát thargh,/
 habad gunádh kedz, bep maln nuzám./
 gazun dhuráz kolg duráv karm./
-kolg bakat, khazárez kurág kargez./
+kolg bakat, khazarez kurág kargez./
 karg, kurág. kodz zi vog kurág, dagír./
 dagír, dugár, taghív bamur karg./
 dagar-kurág. tob, kirgath./
@@ -509,7 +509,7 @@ khazár thuf bumáth vog. vog fakír./
 fakarir murádh bagar fakír, gez bagar/
 zuvák duráv fakar, bep nuzám vog./
 gharmez samidez, baval ludháv,/
-bagarez pasivez, dirpathez narívez./
+bagarez pasivez, dirpathez narivez./
 khapivez zuvák kelg duráv gazun, kolg tarmez,/
 bep habad kumáv vogun kos tarmez, kolg.
 
@@ -548,7 +548,7 @@ kamv, parív.
 
 lamv durákh dhanív bagar bep khardev./
 vesun thubágh lamv, bep lamv gunádh‼/
-dulákez dhanív vadhal, bep mardh kob tavíz./
+dulakez dhanív vadhal, bep mardh kob tavíz./
 dhapal gharpez, mardhez kob vogun kald./
 habad thuf hubád vogun. hartir hurát.
 

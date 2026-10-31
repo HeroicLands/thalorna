@@ -29,6 +29,44 @@ const fromBaseline = (file) =>
     execFileSync("git", ["show", `${baseline}:${baselinePath(file)}`], {
         encoding: "utf8",
     }).replaceAll("khazrilng", "tellumilng");
+// Older names the steppe-tribe rulings replaced: the register rows and the
+// older-name list entries no longer exist, by file.
+const replacedOlderNames = new Map([
+    [
+        "assets/content/Skills/Languages/Tellumi.md",
+        new Set(["Azardan", "Durmand", "Sahri", "Shirzari", "Zarnush"]),
+    ],
+]);
+// The five tribes' replacement names, as they stand in prose that names them.
+const tribeRenames = new Map([
+    ["Azardan", "Jobizur"],
+    ["Durmand", "Qibudur"],
+    ["Sahri", "Oroqidur"],
+    ["Shirzari", "Kenodur"],
+    ["Zarnush", "Koserur"],
+]);
+const renameTribes = (text) =>
+    [...tribeRenames].reduce((out, [from, to]) => out.replaceAll(from, to), text);
+// The `kept` tag held the older tribe name Sahri, which the rulings replaced.
+function withoutKeptTag(fm, file) {
+    if (file !== "assets/content/Skills/Languages/Sowides.md") return fm;
+    const copy = structuredClone(fm);
+    copy.data.tongues = copy.data.tongues.filter((item) => item?.tag !== "kept");
+    copy.data.register = copy.data.register.filter((row) => row?.tongue !== "kept");
+    return copy;
+}
+function withoutReplacedOlderNames(fm, file) {
+    const names = replacedOlderNames.get(file);
+    if (!names) return fm;
+    const copy = structuredClone(fm);
+    if (Array.isArray(copy.data?.register))
+        copy.data.register = copy.data.register.filter(
+            (row) => !(row?.tongue === "older" && names.has(row.name)),
+        );
+    if (Array.isArray(copy.data?.older))
+        copy.data.older = copy.data.older.filter((item) => !names.has(item?.form));
+    return copy;
+}
 const ordinary = new Set(
     WORD_CLASS_BASES.filter((item) => item.glossary).map((item) => item.token),
 );
@@ -123,7 +161,16 @@ test("original language entries, metadata and prose are retained", () => {
         const oldWords = before.fm.data.words;
         const newWords = after.fm.data.words;
 
-        for (const oldWord of oldWords) {
+        for (const baselineWord of oldWords) {
+            const oldWord =
+                file.endsWith("/Sowides.md") ?
+                    {
+                        ...baselineWord,
+                        ...(typeof baselineWord.gloss === "string" && {
+                            gloss: renameTribes(baselineWord.gloss),
+                        }),
+                    }
+                :   baselineWord;
             const candidates = newWords.filter(
                 (word) =>
                     word.form === oldWord.form &&
@@ -146,7 +193,12 @@ test("original language entries, metadata and prose are retained", () => {
             );
         }
 
-        const oldMetadata = structuredClone(withNameForms(before.fm, after.fm));
+        const oldMetadata = structuredClone(
+            withoutKeptTag(
+                withoutReplacedOlderNames(withNameForms(before.fm, after.fm), file),
+                file,
+            ),
+        );
         const newMetadata = structuredClone(after.fm);
         delete oldMetadata.data.words;
         delete newMetadata.data.words;

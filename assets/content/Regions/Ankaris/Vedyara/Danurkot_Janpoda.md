@@ -95,7 +95,7 @@ The academies cooperate loosely within the janpoda and compete fiercely for stud
 
 ## The Sabhra
 
-The sabhra has forty-two members, convened by the senior priest of the Mahajaya temple. The constituent villages are represented in proportion to their size, and the masters of the four academies hold reserved seats as **Dhanuracharyas**. The sabhra meets monthly in the campaign season and every second month for the rest of the year, and a major decision needs two-thirds of it. By long convention the four masters sit together at every formal session and answer together on any question of war, and their joint word settles the janpoda's foreign policy.
+The sabhra has forty-two members, convened by the senior priest of the Mahajaya temple. The constituent villages are represented in proportion to their size, and the masters of the four academies hold reserved seats as **Danuracharyas**. The sabhra meets monthly in the campaign season and every second month for the rest of the year, and a major decision needs two-thirds of it. By long convention the four masters sit together at every formal session and answer together on any question of war, and their joint word settles the janpoda's foreign policy.
 
 ## Society
 
