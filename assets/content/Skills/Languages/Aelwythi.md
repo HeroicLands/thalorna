@@ -3827,6 +3827,17 @@ data:
       field: Ordinary speech
       gloss: second-person singular present of call
     - {form: kandlelight, class: n, field: Ordinary speech, gloss: light given by a candle}
+    - form: pine
+      class: n
+      field: Land and living things
+      gloss: a cone-bearing evergreen tree
+      variants: [pines]
+    - {form: oer, class: part, field: Place and time, gloss: "over, across or above"}
+    - form: dekree
+      class: v
+      field: Kindred and society
+      gloss: order with authority
+      variants: [dekreed, dekreeth]
   icon: icon-speaking
   templatePriority: null
   packFolder: language
@@ -5028,6 +5039,28 @@ metre; the vowel readings follow the English-word rules above and the stated
 lexical reading.
 _Who_ here means _whoever_. Both the charm and the harvest song have eight
 syllables to a line.
+
+### Verse forms {#verse-forms}
+
+Aelwythi verse is accentual: a line is counted by its beats, and its words keep
+the readings set out above, so an English-derived word keeps its dictionary
+stress in verse as in speech. Rhyme falls on the stressed vowel and what follows
+it, never on a shared ending alone: _thine_ and _line_ rhyme, _goeth_ and
+_knoweth_ do not.
+
+- **The ballad** is sung in quatrains of four beats and three, alternating,
+  rhymed on the second and fourth lines. A question or a formula comes round
+  again with one word changed, and the change carries the story.
+- **The couplet** pairs rhymed lines of five beats for a boast, a command or a
+  play, where one speaker may close a couplet another opened. Bans and charms
+  take shorter couplets of four beats.
+- **The song** sets five-beat lines in quatrains rhymed on alternate lines.
+- **The lament** is said in unrhymed five-beat lines, each stanza closing on a
+  refrain that names one of the dead.
+- **The carol** runs four beats to the line in a skipping triple time, rhymed
+  in couplets, with a burden sung by everyone after each verse.
+
+The harvest song and the crossroads charm above are four-beat couplets.
 
 ## Naming Traditions {#names}
 

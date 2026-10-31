@@ -31,63 +31,83 @@ The bans, the boast and the last command are rhymed in couplets, and the songs o
 
 : The Telling {#telling}
 
+Trim the candles, and set the loaf by him, and let him have it; he will not eat it, and no more shall we. Now I will tell you of Harmund that kept Koldford, and of his head, and why the loaf goeth to the stone. Fill the cup and hand it round, for it is a long telling and a cold one.
+
+There was a ford in the march, as ye know, that was called Koldford, for the water came down off the high wood so cold that it would stop a horse's heart. On the west bank there were six steadings and a crossroads, where the road to the ford crossed the road along the river, and at the crossroads there was a stone, as there is at every crossroads in this country that is worth the name. On the east bank there was the wood. There was always the wood. Ye have seen it from your own doors, and I need not tell you what dwelleth in it.
+
+In one of those six steadings a boy was born, and he was called Harmund, and when he was a month old his mother carried him to the stone on the morning of his naming, as a mother doth, with a loaf in her apron to lay on the stone for the luck of the child. And when she came to the stone, there was a woman sitting on it.
+
+Some say she was a cunning-woman out of the forest edge, that had come down for bread. Some say she was the woman of the crossroads herself, that dwelleth in the stone and is not seen. I say nothing, for I was not there. But the mother gave her the loaf, for she would not set it on the stone with a woman sitting on it, and the woman took it and broke it and ate of it, and looked at the child a long while. And then she laid the bans on him. These are the words:
+
 ::: {lang=aelw font=serif}
 
-Trim the kandles. and set the loaf by him. and let him have it. he will not eat it. and no more shall we. Now I will tell you of Harmund that kept Koldford. and of his head. and why the loaf goeth to the stone. Fill the kup and hand it round. for it is a long telling and a kold one.
+Trim the kandles, and set the loaf by him, and let him have it‼ He will not eat it, and no more shall we. Now I will tell you of Harmund that kept Koldford, and of his head, and why the loaf goeth to the stone. Fill the kup and hand it round‼ It is a long telling and a kold one.
 
-There was a ford in the march. as ye knowen. that was kalled Koldford. for the water kame down off the high wood so kold that it would stop a horsees heart. On the west bank there were siks steadings and a krossroads. where the road to the ford krossed the road along the river. and at the krossroads there was a stone. as there is at every krossroads in this kountry that is worth the name. On the east bank there was the wood. There was always the wood. Ye haven seen it from your own doors. and I need not tell you what dwelleth in it.
+There was a ford in the march, as ye knowen, that was kalled Koldford, for the water kame down off the high wood so kold that it would stop a horsees heart. On the west bank there were siks steadings and a krossroads, where the road to the ford krossed the road along the river, and at the krossroads there was a stone, as there is at every krossroads in this kountry that is worth the name. On the east bank there was the wood. There was always the wood. Ye haven seen it from your own doors, and I need not tell you what dwelleth in it.
 
-In one of those siks steadings a boy was born. and he was kalled Harmund. and when he was a month old his mother karried him to the stone on the morning of his naming. as a mother doth. with a loaf in her apron to lay on the stone for the luk of the child. And when she kame to the stone. there was a woman sitting on it.
+In one of those siks steadings a boy was born, and he was kalled Harmund, and when he was a month old his mother karried him to the stone on the morning of his naming, as a mother doth, with a loaf in her apron to lay on the stone for the luk of the child. And when she kame to the stone, there was a woman sitting on it.
 
-Some sayen she was a kunning woman out of the forest edge. that had kome down for bread. Some sayen she was the woman of the krossroads herself. that dwelleth in the stone and is not seen. I say naught. for I was not there. But the mother gave her the loaf. for she would not set it on the stone with a woman sitting on it. and the woman took it and broke it and ate of it. and looked at the child a long while. And then she laid the bans on him. These ben the words.
+Some sayen she was a kunning woman out of the forest edge, that had kome down for bread. Some sayen she was the woman of the krossroads herself, that dwelleth in the stone and is not seen. I say naught, for I was not there. But the mother gave her the loaf, for she would not set it on the stone with a woman sitting on it, and the woman took it and broke it and ate of it, and looked at the child a long while. And then she laid the bans on him. These ben the words.
 
 :::
 
 : The Three Bans {#three-bans}
 
 ::: {.verse form=bans lang=en work=three-bans}
-There are three things you must not do, child,/
-As long as you do none of them, your days will go well:/
-Do not pass the stone at the wide crossroads/
-Without leaving bread beside the stone;/
-Do not refuse a portion set before you/
-By a lord at his table, whoever he may be;/
-Do not cross the water toward the sunrise/
-While candles burn at nightfall./
-Keep all three bans, and the ford is yours,/
-And you will hold it, you and your descendants;/
-Break all three bans, and the ford is yours,/
-And it will hold you, and none of your descendants.
+Three things, child, thou shalt not do,/
+And while they're undone, thy days run true:/
+Pass not the stone where the roads divide/
+And leave no bread at the stone's side;/
+Refuse no portion that's set for thee/
+By a lord at his board, whoe'er he be;/
+Cross not the water toward the sun's rise/
+When the candles are lit and the daylight dies./
+Keep the three, and the ford is thine,/
+And thou shalt hold it, thou and thy line;/
+Break the three, and the ford is thine,/
+And it shall hold thee, and no man of thine.
 :::
 
 ::: {.verse form=bans lang=aelw enc=aelwsemaronenc work=three-bans}
-Three things. child. thou shalt not do./
-While none is done. thy days shall run true./
-Pass not the stone at the krossroads wide/
-And leave no bread at the stonees side./
-Refuse no portion set for thee/
-By lord at board. whoever he may be./
-Kross not the water toward dayes first light/
-When kandles burnen at fall of night./
-Keep the three. and the ford is thine./
-And thou shalt hold it. thou and thy line./
-Break the three. and the ford is thine./
-And it shall hold thee. and no man of thine.
+Three things there ben thou shalt not do,/
+And while thou dost none, thy days run true./
+Pass not the stone where the roads do meet/
+And leave no bread at the stonees feet‼/
+Whatever portion a lord shall lay/
+For thee at his board, say thou not nay‼/
+Kross not the water to the rising sun/
+When the kandles ben lit and the day is done‼/
+Keep the three, and the ford is thine,/
+And thou shalt hold it, thou and thy line./
+Break the three, and the ford is thine,/
+And it shall hold thee, and no man of thine.
 :::
+
+And she got down off the stone and went up the river road, and the mother did not see where she went, though the road was straight and there was no tree near it.
+
+Now mark ye the bans, for they are the whole of the tale. The first is easy, and every child in the march keepeth it; ye have kept it yourselves since ye could walk, and I have seen you do it. The second is a strange ban to lay on the son of a small steading, for when should such a one sit at a lord's board? And the third was hard on a boy of Koldford, for the ford was his father's and his grandfather's, and their beasts grazed both banks, and in winter the candles are lit early. But the mother told the boy his bans as soon as he could understand them, and he kept them.
+
+He grew to be a big man and a quiet one. He kept bread in his coat always, and laid a piece on the stone each time he passed, which was every day, so that the birds of Koldford were the fattest in the march. When his father's beasts were on the east bank at dusk he sent his brothers for them, and they laughed at him, and he let them laugh. And when the Grukar came out of the wood, which they did every year, as they do, it was Harmund that stood in the ford and turned them, with a bill and a hide shield and his brothers at his back. In his time Koldford lost no steading. Every other ford in the march lost one in two years or three, and the steward at Kaerwynd wrote them in his book. But he wrote Koldford in it never once, and the men of the march began to say that the ford was Harmund's, and that he held it.
+
+So it came to the ears of the lord of Kaerwynd, and at midwinter the lord sent for him to the feast.
+
+Ye know how it is at a lord's board at midwinter, or ye have heard. The hall is full, and the fire is high, and the beasts are roasted whole, and when the meat is carved the best piece is set by, the chine of the ox, and it is the champion's portion, and it goeth to the best man in the hall. And the best man in the hall is he that can say so, and say it best, so that no man rises to gainsay him. That night there were three that rose for it. The first was a knight of the lord's own household, that had a horse and a mail coat and had been at two of the king's wars against the wood. The second was the lord's huntsman, that knew every deer-path in the march and had slain a Grukar with his knife in the dark. And the third was Harmund, that had never sat in a hall before, and was ashamed, and rose because his neighbours pushed him up.
+
+The knight made his boast, of his horse and his coat and the king's wars, and it was a good boast, and the hall beat on the boards for him. The huntsman made his, of the deer-paths and the knife in the dark, and it was a better, and the hall beat louder. And then Harmund stood with his hands at his sides, and said this, and it is the only boast he ever made:
 
 ::: {lang=aelw font=serif}
 
-And she got down off the stone and went up the river road. and the mother saw not where she went. though the road was straight and there was no tree near it.
+And she got down off the stone and went up the river road, and the mother saw not where she went, though the road was straight and there was no tree near it.
 
-Now mark ye the bans. for they ben the whole of the tale. The first is easy. and every child in the march keepeth it. ye haven kept it yourselves sinse ye kould walk. and I have seen you do it. The sekond is a strange ban to lay on the son of a small steading. for when should such a one sit at a lordes board. And the third was hard on a boy of Koldford. for the ford was his fatheres and his grandfatheres. and their beasts grazed both banks. and in winter the kandles ben lit early. But the mother told the boy his bans as soon as he kould understand them. and he kept them.
+Now mark ye the bans‼ They ben the whole of the tale. The first is easy, and every child in the march keepeth it, ye haven kept it yourselves sinse ye kould walk, and I have seen you do it. The sekond is a strange ban to lay on the son of a small steading, for when should such a one sit at a lordes board? And the third was hard on a boy of Koldford, for the ford was his fatheres and his grandfatheres, and their beasts grazed both banks, and in winter the kandles ben lit early. But the mother told the boy his bans as soon as he kould understand them, and he kept them.
 
-He grew to be a big man and a quiet one. He kept bread in his koat always. and laid a piese on the stone each time he passed. which was every day. so that the birds of Koldford were the fattest in the march. When his fatheres beasts were on the east bank at dusk he sent his brothers for them. and they laughed at him. and he let them laugh. And when the Grukar kame out of the wood. which they did every year. as they doen. it was Harmund that stood in the ford and turned them. with a bill and a hide shield and his brothers at his bak. In his time Koldford lost no steading. Every other ford in the march lost one in two years or three. and the steward at Kaerwynd wrote them in his book. But he wrote Koldford in it never onse. and the men of the march began to say that the ford was Harmundes. and that he held it.
+He grew to be a big man and a quiet one. He kept bread in his koat always, and laid a piese on the stone each time he passed, which was every day, so that the birds of Koldford were the fattest in the march. When his fatheres beasts were on the east bank at dusk he sent his brothers for them, and they laughed at him, and he let them laugh. And when the Grukar kame out of the wood, which they did every year, as they doen, it was Harmund that stood in the ford and turned them, with a bill and a hide shield and his brothers at his bak. In his time Koldford lost no steading. Every other ford in the march lost one in two years or three, and the steward at Kaerwynd wrote them in his book. But he wrote Koldford in it never onse, and the men of the march began to say that the ford was Harmundes, and that he held it.
 
-So it kame to the ears of the lord of Kaerwynd. and at midwinter the lord sent for him to the feast.
+So it kame to the ears of the lord of Kaerwynd, and at midwinter the lord sent for him to the feast.
 
-Ye knowen how it is at a lordes board at midwinter. or ye haven heard. The hall is full. and the fire is high. and the beasts ben roasted whole. and when the meat is karved the best piese is set by. the chine of the oks. and it is the championes portion. and it goeth to the best man in the hall. And the best man in the hall is he that kan say so. and say it best. so that no man riseth to gainsay him. That night there were three that rose for it. The first was a knight of the lordes own household. that had a horse and a mail koat and had been at two of the kinges wars against the wood. The sekond was the lordes huntsman. that knew every deer path in the march and had slain a Grukar with his knife in the dark. And the third was Harmund. that had never sat in a hall before. and was ashamed. and rose bekause his neighbours pushed him up.
+Ye knowen how it is at a lordes board at midwinter, or ye haven heard. The hall is full, and the fire is high, and the beasts ben roasted whole, and when the meat is karved the best piese is set by, the chine of the oks, and it is the championes portion, and it goeth to the best man in the hall. And the best man in the hall is he that kan say so, and say it best, so that no man riseth to gainsay him. That night there were three that rose for it. The first was a knight of the lordes own household, that had a horse and a mail koat and had been at two of the kinges wars against the wood. The sekond was the lordes huntsman, that knew every deer path in the march and had slain a Grukar with his knife in the dark. And the third was Harmund, that had never sat in a hall before, and was ashamed, and rose bekause his neighbours pushed him up.
 
-The knight made his boast. of his horse and his koat and the kinges wars. and it was a good boast. and the hall beat on the boards for him. The huntsman made his. of the deer paths and the knife in the dark. and it was a better. and the hall beat louder. And then Harmund stood with his hands at his sides. and said this. and it is the only boast he ever made.
+The knight made his boast, of his horse and his koat and the kinges wars, and it was a good boast, and the hall beat on the boards for him. The huntsman made his, of the deer paths and the knife in the dark, and it was a better, and the hall beat louder. And then Harmund stood with his hands at his sides, and said this, and it is the only boast he ever made.
 
 :::
 
@@ -95,147 +115,181 @@ The knight made his boast. of his horse and his koat and the kinges wars. and it
 
 ::: {.verse form=boast lang=en work=harmunds-boast}
 I have no horse; I stand upon my feet./
-I have only a wool coat against the sleet./
-I did not go to any king's war; the war came here,/
+I have no coat but wool against the sleet./
+I went to no king's war; the war came here,/
 And stood in Koldford water every year,/
 And every year it went back to the wood./
-Ask your steward where my steadings stood:/
-He has them in his book, and every one/
-Still stands, and has a fire, and has a son./
-I did not kill a Grukar alone in the dark;/
-I killed them in daylight, in front of my own people./
-Give me the meat, my lord, or do not give it to me:/
-The ford is defended, whatever I receive.
+Ask of your steward where my steadings stood:/
+He hath them in his book, and every one/
+Stands yet, and hath a fire, and hath a son./
+I slew no Grukar in the dark alone;/
+I slew them in the day, before my own./
+Give me the meat, my lord, or give it not:/
+The ford is held, whatever I have got.
 :::
 
 ::: {.verse form=boast lang=aelw enc=aelwsemaronenc work=harmunds-boast}
-I have no horse. I stand upon my feet./
-I have no koat but wool against the sleet./
-I went to no kinges war. the war kame here./
-And stood in Koldford water every year./
-And every year it went bak to the wood./
-Ask of thy steward where my steadings stood./
-He hath them in his book. and every one/
-Still standeth. hath a fire. and hath a son./
-I slew no Grukar in the dark alone./
-I slew them in the day. before my own./
-Give me the meat. my lord. or give it not./
-The ford is held. whatever I have got.
+No horse have I. I stand upon my feet./
+No koat I have but wool against the sleet./
+To no kinges war I went. The war kame here,/
+And stood in Koldford water year by year,/
+And year by year it went bak to the wood./
+Ask thou thy steward where my steadings stood‼/
+His book hath all of them, and every one/
+Still standeth, and hath a fire, and hath a son./
+In the dark, alone, no Grukar did I slay./
+Before my own I slew them, in the day./
+My lord, give me the meat or give me none‼/
+The ford is held, whatever I have won.
 :::
+
+And there was no sound in the hall, and then the lord of Kaerwynd laughed and said, "Give him the chine," and they gave it him, and the knight and the huntsman were the first to beat on the boards for him, and that is to their credit, and I tell it so.
+
+Now hear what came after, for the bans were waiting. While Harmund sat with the chine before him, there came a man into the hall all wet to the waist, and he was from the steading on the east bank of the next ford down, and he said that the Grukar had come out of the wood at dusk and burned his steading, and taken his two children, and gone back into the wood with them, and that they were not far in, for he had heard the children crying.
+
+And the lord of Kaerwynd looked down the hall at the man that had the champion's portion before him. And he took up a second piece of the meat, the heart of the ox, that is the portion of him that goeth first into danger, and he set it by Harmund's hand, and said, "Champion of the march, here is thy portion."
+
+Ye see it now. He could not refuse it, for it was a portion set by a lord at his board, and that was the second ban. And if he took it, he must go that night, for that is what the heart of the ox is for, and the ford was the next ford to Koldford, and the wood was on the east bank of it, and the candles in the hall had been lit these four hours.
+
+They say Harmund sat a while with his hand by the heart and did not touch it. Then he said to the lord, "I will take it, my lord, and I know what I take." And he ate of it, and rose, and went out into the dark with his sister's son, that was a boy of fifteen and would not be sent home, and four men of the steadings that would not either.
+
+Their road went by the crossroads at Koldford, and at the stone there was a woman sitting with a child in her arms, and she was one of them that had run from the burned steading, and she had walked all night with nothing in her and the child crying. And Harmund put his hand in his coat for the bread, and there was the one piece, as there always was. And he stood a long while at the stone, they say, with the bread in his hand and the woman looking at him. Then he gave it to her, and she gave it to the child, and he went past the stone and left nothing on it. That was the first ban broken.
+
+Some say the woman at the stone was the same woman that sat there at his naming. I say nothing. His sister's son, that was there, said ever after that she was a woman of the burned steading, and he knew her, and her name was spoken at the [Silent Passage]{.name data-type="lore/gathering" lang=en} that year with the rest of that steading. But I have heard it told both ways at the same wake, and ye may tell it as ye like.
+
+Then they went down to the water at the next ford, and the candles had been lit long since, and Harmund went into the water toward the sun's rising, though the sun was not risen nor near it. And that was the third ban broken. He said to his sister's son, as they went in, "Now I know where it is I am going, and so dost thou; keep close." And they went into the wood.
+
+I will not tell you what they found in the wood, for ye have all heard what is in it, and some of you have seen. They found the children before dawn, and they found the Grukar that had them, and there was fighting among the trees, and two of the four men did not come out. But they came back to the water at first light with both the children living, and the Grukar came after them through the trees, more of them than any man counted, and Harmund stood in the ford, as he always had, and the others went past him to the west bank with the children. And in the middle of the water a spear went into him under the shield, and he went down on his knees in the ford, and the water went red to the west bank.
+
+His sister's son came back into the water and drew him out, and the Grukar stood on the east bank and did not come on, for they had seen what he could do in a ford, and they did not yet know that he was done. And Harmund lay on the bank with his head in the boy's lap, and he said this, and the boy said it after him to every man in the march until he died:
 
 ::: {lang=aelw font=serif}
 
-And there was no sound in the hall. and then the lord of Kaerwynd laughed and said. Give him the chine. and they gave it him. and the knight and the huntsman were the first to beat on the boards for him. and that is to their kredit. and I tell it so.
+And there was no sound in the hall, and then the lord of Kaerwynd laughed and said. Give him the chine‼ And they gave it him, and the knight and the huntsman were the first to beat on the boards for him, and that is to their kredit, and I tell it so.
 
-Now hear what kame after. for the bans were waiting. While Harmund sat with the chine before him. there kame a man into the hall all wet to the waist. and he was from the steading on the east bank of the nekst ford down. and he said that the Grukar had kome out of the wood at dusk and burned his steading. and taken his two children. and gone bak into the wood with them. and that they were not far in. for he had heard the children krying.
+Now hear what kame after‼ The bans were waiting. While Harmund sat with the chine before him, there kame a man into the hall all wet to the waist, and he was from the steading on the east bank of the nekst ford down, and he said that the Grukar had kome out of the wood at dusk and burned his steading, and taken his two children, and gone bak into the wood with them, and that they were not far in, for he had heard the children krying.
 
-And the lord of Kaerwynd looked down the hall at the man that had the championes portion before him. And he took up a sekond piese of the meat. the heart of the oks. that is the portion of him that goeth first into danger. and he set it by Harmundes hand. and said. Champion of the march. here is thy portion.
+And the lord of Kaerwynd looked down the hall at the man that had the championes portion before him. And he took up a sekond piese of the meat, the heart of the oks, that is the portion of him that goeth first into danger, and he set it by Harmundes hand, and said. Champion of the march, here is thy portion.
 
-Ye seen it now. He kould not refuse it. for it was a portion set by a lord at his board. and that was the sekond ban. And if he took it. he must go that night. for that is what the heart of the oks is for. and the ford was the nekst ford to Koldford. and the wood was on the east bank of it. and the kandles in the hall had been lit these four hours.
+Ye seen it now. He kould not refuse it, for it was a portion set by a lord at his board, and that was the sekond ban. And if he took it, he must go that night, for that is what the heart of the oks is for, and the ford was the nekst ford to Koldford, and the wood was on the east bank of it, and the kandles in the hall had been lit these four hours.
 
-They sayen Harmund sat a while with his hand by the heart and touched it not. Then he said to the lord. I will take it. my lord. and I know what I take. And he ate of it. and rose. and went out into the dark with his sisteres son. that was a boy of fifteen and would not be sent home. and four men of the steadings that would not either.
+They sayen Harmund sat a while with his hand by the heart and touched it not. Then he said to the lord. I will take it, my lord, and I know what I take. And he ate of it, and rose, and went out into the dark with his sisteres son, that was a boy of fifteen and would not be sent home, and four men of the steadings that would not either.
 
-Their road went by the krossroads at Koldford. and at the stone there was a woman sitting with a child in her arms. and she was one of them that had run from the burned steading. and she had walked all night with naught in her and the child krying. And Harmund put his hand in his koat for the bread. and there was the one piese. as there always was. And he stood a long while at the stone. they sayen. with the bread in his hand and the woman looking at him. Then he gave it to her. and she gave it to the child. and he went past the stone and left naught on it. That was the first ban broken.
+Their road went by the krossroads at Koldford, and at the stone there was a woman sitting with a child in her arms, and she was one of them that had run from the burned steading, and she had walked all night with naught in her and the child krying. And Harmund put his hand in his koat for the bread, and there was the one piese, as there always was. And he stood a long while at the stone, they sayen, with the bread in his hand and the woman looking at him. Then he gave it to her, and she gave it to the child, and he went past the stone and left naught on it. That was the first ban broken.
 
-Some sayen the woman at the stone was the same woman that sat there at his naming. I say naught. His sisteres son. that was there. said ever after that she was a woman of the burned steading. and he knew her. and her name was spoken at the [Silent Passage]{.name data-type="lore/gathering" lang=en} that year with the rest of that steading. But I have heard it told both ways at the same wake. and ye may tell it as ye liken.
+Some sayen the woman at the stone was the same woman that sat there at his naming. I say naught. His sisteres son, that was there, said ever after that she was a woman of the burned steading, and he knew her, and her name was spoken at the [Silent Passage]{.name data-type="lore/gathering" lang=en} that year with the rest of that steading. But I have heard it told both ways at the same wake, and ye may tell it as ye liken.
 
-Then they went down to the water at the nekst ford. and the kandles had been lit long sinse. and Harmund went into the water toward the sunes rising. though the sun was not risen nor near it. And that was the third ban broken. He said to his sisteres son. as they went in. Now I know where it is I am going. and so dost thou. keep klose. And they went into the wood.
+Then they went down to the water at the nekst ford, and the kandles had been lit long sinse, and Harmund went into the water toward the sunes rising, though the sun was not risen nor near it. And that was the third ban broken. He said to his sisteres son, as they went in. Now I know where it is I am going, and so dost thou. Keep klose‼ And they went into the wood.
 
-I will not tell you what they found in the wood. for ye haven all heard what is in it. and some of you haven seen. They found the children before dawn. and they found the Grukar that had them. and there was fighting among the trees. and two of the four men kame not out. But they kame bak to the water at first light with both the children living. and the Grukar kame after them through the trees. more of them than any man kounted. and Harmund stood in the ford. as he always had. and the others went past him to the west bank with the children. And in the middle of the water a spear went into him under the shield. and he went down on his knees in the ford. and the water went red to the west bank.
+I will not tell you what they found in the wood, for ye haven all heard what is in it, and some of you haven seen. They found the children before dawn, and they found the Grukar that had them, and there was fighting among the trees, and two of the four men kame not out. But they kame bak to the water at first light with both the children living, and the Grukar kame after them through the trees, more of them than any man kounted, and Harmund stood in the ford, as he always had, and the others went past him to the west bank with the children. And in the middle of the water a spear went into him under the shield, and he went down on his knees in the ford, and the water went red to the west bank.
 
-His sisteres son kame bak into the water and drew him out. and the Grukar stood on the east bank and kame not on. for they had seen what he kould do in a ford. and they knew not yet that he was done. And Harmund lay on the bank with his head in the boyes lap. and he said this. and the boy said it after him to every man in the march until he died.
+His sisteres son kame bak into the water and drew him out, and the Grukar stood on the east bank and kame not on, for they had seen what he kould do in a ford, and they knew not yet that he was done. And Harmund lay on the bank with his head in the boyes lap, and he said this, and the boy said it after him to every man in the march until he died.
 
 :::
 
 : Harmund's Last Command {#last-command}
 
 ::: {.verse form=command lang=en work=last-command}
-Take off my head, boy. Do it now, and cleanly./
+Take off my head, boy. Do it now, and clean./
 I cannot keep the ford, and they have seen/
-Me fall; but if they see me still watching,/
-They will stay on that bank. They will stay there./
+Me fall; but if they see me watching still,/
+They'll stand on yonder bank, and stand they will./
 Set it upon a stake by the water's side,/
-Facing the wood, and let the wood wait;/
+Facing the wood, and let the wood abide;/
 Feed me with bread, and I will keep the ford./
-Do it, and do not weep. Do it, and take my sword.
+Do it, and weep not. Do it, and take my sword.
 :::
 
 ::: {.verse form=command lang=aelw enc=aelwsemaronenc work=last-command}
-Take off my head. boy. Do it now. and klean./
-I kannot keep the ford. they haven seen/
-Me fall. but if they seen me watching still./
-On yonder bank they will stand. stand they will./
-Set it upon a stake by the wateres side./
-Fasing the wood. and let the wood abide./
-Feed me with bread. and I will keep the ford./
-Do it. and weep not. Do it. and take my sword.
+Strike off my head, boy, now, and strike it klean‼/
+I kannot hold the ford. The Grukar haven seen/
+Me fall. But if they see me watching still,/
+On yonder bank they stand, and stand they will./
+Set it upon a stake by the wateres side,/
+Its fase to the wood, and let the wood abide‼/
+Feed me with bread, and I will keep the ford./
+Do it, and weep not. Do it, and take my sword‼
 :::
+
+And the boy did it, with his uncle's own knife, and he wept, whatever he was told. And he set the head on a stake on the west bank of Koldford, looking east into the wood, and that night the Grukar came down to the water, and the head opened its eyes and looked at them, and they went back into the wood. And they did not cross at Koldford again while the head was on the stake.
+
+Seven winters it stood there. They brought it bread every day, as Harmund had brought bread to the stone, and laid it at the foot of the stake, and it was gone in the morning, whether the birds had it or the head I cannot tell you. The children were carried to see it, and it knew every one by name. On the nights when the wood was bad, when the fires were seen among the trees and the drums heard, the head sang across the water to the wood, and the Grukar heard it, and the people of the steadings heard it, and this is what it sang:
 
 ::: {lang=aelw font=serif}
 
-And the boy did it. with his unklees own knife. and he wept. whatever he was told. And he set the head on a stake on the west bank of Koldford. looking east into the wood. and that night the Grukar kame down to the water. and the head opened its eyes and looked at them. and they went bak into the wood. And they krossed not at Koldford again while the head was on the stake.
+And the boy did it, with his unklees own knife, and he wept, whatever he was told. And he set the head on a stake on the west bank of Koldford, looking east into the wood, and that night the Grukar kame down to the water, and the head opened its eyes and looked at them, and they went bak into the wood. And they krossed not at Koldford again while the head was on the stake.
 
-Seven winters it stood there. They brought it bread every day. as Harmund had brought bread to the stone. and laid it at the foot of the stake. and it was gone in the morning. whether the birds had it or the head I kannot tell you. The children were karried to see it. and it knew every one by name. On the nights when the wood was bad. when the fires were seen among the trees and the drums heard. the head sang akross the water to the wood. and the Grukar heard it. and the people of the steadings heard it. and this is what it sang.
+Seven winters it stood there. They brought it bread every day, as Harmund had brought bread to the stone, and laid it at the foot of the stake, and it was gone in the morning, whether the birds had it or the head I kannot tell you. The children were karried to see it, and it knew every one by name. On the nights when the wood was bad, when the fires were seen among the trees and the drums heard, the head sang akross the water to the wood, and the Grukar heard it, and the people of the steadings heard it, and this is what it sang.
 
 :::
 
 : The Head Guards the Ford {#head-guards-ford}
 
 ::: {.verse form=song-of-the-head lang=en work=head-guards-ford}
-I see you, wood; you have not got the ford./
-I see the fires you kindle in the trees./
+I see thee, wood; thou hast not got the ford./
+I see the fires thou kindlest in the trees./
 I have no hands to hold a shield or sword;/
-I have my eyes, and I am none of these.
+I have mine eyes, and I am none of these./
 
-Come down, and I will name you to your face;/
-Come to the ford, and I will count you once more./
-I was a man, and I belonged to this place;/
-I am the place, and now I am nothing more.
+Come down, and I will name thee to thy face;/
+Come to the water, and I'll count thee o'er./
+I was a man, and I was of this place;/
+I am the place, and I am nothing more./
 
 The steadings sleep behind me in the dark./
-There are six fires. I count them every night./
+Their fires are six. I count them every night./
 I hear the dog in each one wake and bark,/
-And go to sleep again, as well they might.
+And go to sleep again, as well they might./
 
-You have the deer, the bog, the hill, the fell;/
-You have the march from here to the cold sea;/
-You have the farms the steward cannot count./
-You do not have this water or these six steadings. Look.
+Thou hast the deer, the bog, the hill, the fell;/
+Thou hast the march from here to the cold sea;/
+Thou hast the farms the steward cannot tell./
+This water and these six thou hast not. See.
 :::
 
 ::: {.verse form=song-of-the-head lang=aelw enc=aelwsemaronenc work=head-guards-ford}
-I see thee. wood. thou hast not got the ford./
-I see the fires thou kindlest in the trees./
-I have no hands to hold a shield or sword./
-I have mine eyes. and I am none of these.
+I watch thee, wood. Thou hast not got the ford./
+Thy fires I see, that burn among thy trees./
+Hands have I none to hold a shield or sword./
+Eyes have I yet. And I am none of these.
 
-Kome down. and I will name thee to thy fase./
-Kome to the ford. I will kount thee onse more./
-I was a man. and I was of this plase./
-I am the plase. and now I am naught more.
+Kome down‼ I name thee to thy very fase./
+Kome to the water‼ I will kount thee oer./
+A man I was, and I was of this plase./
+The plase I am now, and I am naught more.
 
-Steadings sleepen behind me in the dark./
-Their fires ben siks. I kount them every night./
-I hear the dog in each one wake and bark./
-And go to sleep again. as well they might.
+The steadings sleep behind me in the dark./
+Siks fires they have. I kount them every night./
+In each I hear the dog awake and bark,/
+And sleep again, as well indeed he might.
 
-Thou hast the deer. the bog. the hill. the fell./
-Thou hast the march from here to the kold sea./
-Thou hast the farms the steward kannot tell./
-This water and these siks thou hast not. See.
+Thine is the deer, the bog, the hill, the fell./
+Thine is the march as far as the kold sea./
+Thine ben the farms the steward kannot tell./
+This water and these siks ben not thine. See‼
 :::
+
+And the people of Koldford were glad of it, and afraid of it, both together. For it is not a thing that is done, to keep a dead man from the gate. Ye know that as well as I. And there were some that said it was against the Judge, and that no good would come of it, and they took their bread to the stake all the same, for the ford was kept.
+
+In the seventh autumn, at the Silent Passage, a priest of the Judge came up the river road from the lowlands, for there had been deaths that year in the steadings above, as there are every year, and the families had asked for the rites. And he came to the crossroads at Koldford in the dusk, and looked down at the ford, and saw what stood on the west bank, and heard it. They say he stood a long while at the stone without a word. Then he laid bread on the stone, for he was a man of the march himself and knew what was owed, and went down to the stake.
+
+The people of the steadings came out of their doors and stood behind him, and they had their bills and their forks in their hands, for they thought he would take the head down and make an end of it, as the priests of the Judge are bound to do with a dead man that is kept. And there were some of them that would have let him, and some that would have killed him, and they did not know which they were until they should see what he did.
+
+He did not touch it. He stood before the stake with his back to the wood and his face to the head, and he asked it. He said, "Harmund of Koldford, thou art dead these seven years, and thou art kept from the gate, and thy name hath not been spoken. Wilt thou go?"
+
+And the head looked past him at the people of the steadings, and at the six fires, and then at the wood. And it said this, and it is the last thing it said:
 
 ::: {lang=aelw font=serif}
 
-And the people of Koldford were glad of it. and afraid of it. both together. For it is not a thing that is done. to keep a dead man from the gate. Ye knowen that as well as I. And there were some that said it was against the Judge. and that no good would kome of it. and they took their bread to the stake all the same. for the ford was kept.
+And the people of Koldford were glad of it, and afraid of it, both together. For it is not a thing that is done, to keep a dead man from the gate. Ye knowen that as well as I. And there were some that said it was against the Judge, and that no good would kome of it, and they took their bread to the stake all the same, for the ford was kept.
 
-In the seventh autumn. at the Silent Passage. a priest of the Judge kame up the river road from the lowlands. for there had been deaths that year in the steadings above. as there ben every year. and the families had asked for the rites. And he kame to the krossroads at Koldford in the dusk. and looked down at the ford. and saw what stood on the west bank. and heard it. They sayen he stood a long while at the stone without a word. Then he laid bread on the stone. for he was a man of the march himself and knew what was owed. and went down to the stake.
+In the seventh autumn, at the Silent Passage, a priest of the Judge kame up the river road from the lowlands, for there had been deaths that year in the steadings above, as there ben every year, and the families had asked for the rites. And he kame to the krossroads at Koldford in the dusk, and looked down at the ford, and saw what stood on the west bank, and heard it. They sayen he stood a long while at the stone without a word. Then he laid bread on the stone, for he was a man of the march himself and knew what was owed, and went down to the stake.
 
-The people of the steadings kame out of their doors and stood behind him. and they had their bills and their forks in their hands. for they thought he would take the head down and make an end of it. as the priests of the Judge ben bound to do with a dead man that is kept. And there were some of them that would have let him. and some that would have killed him. and they knew not which they were until they should see what he did.
+The people of the steadings kame out of their doors and stood behind him, and they had their bills and their forks in their hands, for they thought he would take the head down and make an end of it, as the priests of the Judge ben bound to do with a dead man that is kept. And there were some of them that would have let him, and some that would have killed him, and they knew not which they were until they should see what he did.
 
-He touched it not. He stood before the stake with his bak to the wood and his fase to the head. and he asked it. He said. Harmund of Koldford. thou art dead these seven years. and thou art kept from the gate. and thy name hath not been spoken. Wilt thou go.
+He touched it not. He stood before the stake with his bak to the wood and his fase to the head, and he asked it. He said. Harmund of Koldford, thou art dead these seven years, and thou art kept from the gate, and thy name hath not been spoken. Wilt thou go?
 
-And the head looked past him at the people of the steadings. and at the siks fires. and then at the wood. And it said this. and it is the last thing it said.
+And the head looked past him at the people of the steadings, and at the siks fires, and then at the wood. And it said this, and it is the last thing it said.
 
 :::
 
@@ -244,48 +298,58 @@ And the head looked past him at the people of the steadings. and at the siks fir
 ::: {.verse form=song-of-the-head lang=en work=head-hears-gate}
 I hear the gate. I heard it from the first,/
 Behind me, standing open, without sound./
-It never calls. It is in no hurry and has no thirst./
-It has waited seven years without giving ground.
+It never calls. It hath no haste nor thirst./
+Seven years it hath waited, and given no ground./
 
-No one guards a ford forever. Mine has been guarded/
-For seven winters since I was due at the gate./
+No man keeps a ford for ever. Mine is kept/
+Seven winters past the time the gate was due./
 Tell the six fires I watched them while they slept,/
-And tell the stone about the bread I owe it too.
+And tell the stone the bread I owe it too./
 
-Speak my name for me, priest. Say it clearly and slowly,/
+Speak me my name, priest. Speak it plain and slow,/
 And all the names of Koldford after mine./
-Then lay me with the steadings' dead below,/
-And turn my face west, toward the setting sun.
+Then lay me where the steadings' dead lie low,/
+And turn my face to the west, to the sun's decline.
 :::
 
 ::: {.verse form=song-of-the-head lang=aelw enc=aelwsemaronenc work=head-hears-gate}
-I hear the gate. I heard it from the first./
-Behind me. standing open. without sound./
-It kalleth never. hath no haste nor thirst./
-Seven years it hath waited. and given no ground.
+I hear the gate. I heard it from the first,/
+Open behind me, and it giveth no sound./
+It never kalleth. It hath no haste nor thirst./
+Seven years it waited, and it gave no ground.
 
-No man keepeth a ford for aye. Mine is kept/
-Seven winters past the time the gate was due./
-Tell the siks fires I watched them while they slept./
-And tell the stone the bread I owe it too.
+No man may keep a ford for aye. Mine is kept/
+Seven winters past the day the gate was due./
+Tell the siks fires I watched them while they slept,/
+And tell the stone what bread I owe it too‼
 
-Speak me my name. priest. Speak it plain and slow./
-And all the names of Koldford after mine./
-Then lay me with the steadingses dead below./
-And turn my fase to the west. to the sunes dekline.
+Speak me my name, priest‼ Speak it plain and slow,/
+And all the names of Koldford after mine‼/
+Then lay me with the steadingses dead below,/
+And turn my fase west, where the sun doth dekline‼
 :::
+
+So the priest spoke his name, plain and slow, and all the names of Koldford's dead after it, back as far as the oldest woman could remember. And when he was done the head shut his eyes, and it did not open them again. The priest took it down from the stake with his own hands, and they buried it in the steadings' ground with the face to the west, and the people of Koldford wept for him as if he had died that day, and so he had.
+
+That winter the Grukar did not cross. In the spring they came over the water by night, as they had at every other ford in the march, and two steadings burned, and in the next year two more. And by the fourth spring the people of Koldford had gone west, into the farms below Kaerwynd, and the steward at Kaerwynd wrote Koldford in his book, one line, as he writes every ford in his time. Ye may go and see it if ye can read. The wood hath the ford now, and the steadings, and the stake, and the stone, and the ground where the head lieth.
+
+Now some will tell you the priest did wrong. They say that if he had left the head on the stake it would be watching the water yet, and Koldford would have six fires, and the steward's book would want a line. And some will tell you the priest did right, and that a man is owed the gate when his time is come, and that the head asked him for it with its own mouth, as ye heard. I have heard both said at the same wake, and by the same man, at the beginning of the night and at the end of it. I say nothing. I was not there.
+
+But this I will say. The people of Koldford that went west set up a new stone at the new crossroads below Kaerwynd, and laid bread on it the first morning, and every morning after. And when one of them died, they set a loaf by him through the night, for Harmund's sake, that gave his bread away and kept the ford seven winters without any; and at first light they carried it to the stone. And so do we in this march, and so shall ye with this loaf, and that is the end of the telling.
+
+Trim the candles. Hand the cup round. It wanteth three hours yet of light.
 
 ::: {lang=aelw font=serif}
 
-So the priest spoke his name. plain and slow. and all the names of Koldfordes dead after it. bak as far as the oldest woman kould remember. And when he was done the head shut his eyes. and it opened them not again. The priest took it down from the stake with his own hands. and they buried it in the steadingses ground with the fase to the west. and the people of Koldford wept for him as if he had died that day. and so he had.
+So the priest spoke his name, plain and slow, and all the names of Koldfordes dead after it, bak as far as the oldest woman kould remember. And when he was done the head shut his eyes, and it opened them not again. The priest took it down from the stake with his own hands, and they buried it in the steadingses ground with the fase to the west, and the people of Koldford wept for him as if he had died that day, and so he had.
 
-That winter the Grukar krossed not. In the spring they kame over the water by night. as they had at every other ford in the march. and two steadings burned. and in the nekst year two more. And by the fourth spring the people of Koldford had gone west. into the farms below Kaerwynd. and the steward at Kaerwynd wrote Koldford in his book. one line. as he writeth every ford in his time. Ye may go and see it if ye kan read. The wood hath the ford now. and the steadings. and the stake. and the stone. and the ground where the head lieth.
+That winter the Grukar krossed not. In the spring they kame over the water by night, as they had at every other ford in the march, and two steadings burned, and in the nekst year two more. And by the fourth spring the people of Koldford had gone west, into the farms below Kaerwynd, and the steward at Kaerwynd wrote Koldford in his book, one line, as he writeth every ford in his time. Ye may go and see it if ye kan read. The wood hath the ford now, and the steadings, and the stake, and the stone, and the ground where the head lieth.
 
-Now some will tell you the priest did wrong. They sayen that if he had left the head on the stake it would be watching the water yet. and Koldford would have siks fires. and the stewardes book would want a line. And some will tell you the priest did right. and that a man is owed the gate when his time is kome. and that the head asked him for it with its own mouth. as ye heard. I have heard both said at the same wake. and by the same man. at the beginning of the night and at the end of it. I say naught. I was not there.
+Now some will tell you the priest did wrong. They sayen that if he had left the head on the stake it would be watching the water yet, and Koldford would have siks fires, and the stewardes book would want a line. And some will tell you the priest did right, and that a man is owed the gate when his time is kome, and that the head asked him for it with its own mouth, as ye heard. I have heard both said at the same wake, and by the same man, at the beginning of the night and at the end of it. I say naught. I was not there.
 
-But this I will say. The people of Koldford that went west set up a new stone at the new krossroads below Kaerwynd. and laid bread on it the first morning. and every morning after. And when one of them died. they set a loaf by him through the night. for Harmundes sake. that gave his bread away and kept the ford seven winters without any. and at first light they karried it to the stone. And so doen we in this march. and so shall ye with this loaf. and that is the end of the telling.
+But this I will say. The people of Koldford that went west set up a new stone at the new krossroads below Kaerwynd, and laid bread on it the first morning, and every morning after. And when one of them died, they set a loaf by him through the night, for Harmundes sake, that gave his bread away and kept the ford seven winters without any, and at first light they karried it to the stone. And so doen we in this march, and so shall ye with this loaf, and that is the end of the telling.
 
-Trim the kandles. Hand the kup round. It wanteth three hours yet of light.
+Trim the kandles‼ Hand the kup round‼ It wanteth three hours yet of light.
 
 :::
 
