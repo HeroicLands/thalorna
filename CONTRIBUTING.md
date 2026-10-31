@@ -93,27 +93,6 @@ place through mortal agents. An event can be established while its divine
 cause remains uncertain. Attribute that belief without confirming a miracle or
 dismissing it as necessarily coincidence or fraud.
 
-## Nordmal names
-
-A generic membership title in the reader's tongue can use a concordance `keep`
-row with its exact `literal`, named affiliation `paths`, integer
-`membershipLevel` and explanation in `why`. The drift guard limits this exception to that affiliation's matching rung title. Other levels,
-body types, offices, prose occurrences and paths retain normal validation. The
-exception does not confer a Nordmal name or a social standing beyond membership.
-Run `node --test utils/nordmal-membership-titles.test.mjs` for this contract.
-
-Concordance source citations accept capitalization variants of a recorded name.
-Accents and specified columns remain exact; a note’s full name must match its
-concordance row. A live spelling does not belong in the retired alias list.
-
-A prose-only concordance half may carry its containing note's path without a
-shortcode or address, provided an `oldRefPaths` citation names that exact path.
-This applies independently to each half: a name that gains a note keeps its
-prose source in `oldPath` and records the new note's shortcode, path and address
-together. A half that carries a shortcode or address requires all three fields.
-
-Run `npm run lint:nordmal-concordance` when changing the table.
-
 ## Rank levels
 
 An affiliation's `data.governance.ranks` levels are ordinal within that
@@ -177,7 +156,7 @@ name: { full: Grass People, kiichek: ["P'enqal Ch'akal"], tenl: [tenlaya] }
 of` or `Ritual:`, keeps the bare name under `en` because the printed index
   files a note only under the first word of its full name.
 - A former name is not a form. A note answers to its current name; renames
-  are recorded in the concordance and in git, and links resolve by address.
+  are recorded in git, and links resolve by address.
 
 ## A note's language
 

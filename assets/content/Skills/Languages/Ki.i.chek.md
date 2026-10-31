@@ -12,6 +12,41 @@ data:
   icon: icon-speaking
   templatePriority: null
   packFolder: language
+  names:
+    pattern: ["{given} {second}", "{given} {second} {third}"]
+    given:
+      female:
+        - "Ch'akul"
+        - "K'ankul"
+        - "K'ushi"
+        - "Nelush"
+        - "P'enqal"
+        - "Q'emul"
+        - "Shelem"
+        - "Toshel"
+        - "Tsul"
+        - "Ts'ultel"
+        - "Ish'bal"
+        - "Ishkul"
+        - "Ch'alish"
+        - "Ne'"
+      male:
+        - "Ch'akul"
+        - "K'ankul"
+        - "K'ushi"
+        - "Nelush"
+        - "P'enqal"
+        - "Q'emul"
+        - "Shelem"
+        - "Toshel"
+        - "Tsul"
+        - "Ts'ultel"
+        - "Ish'bal"
+        - "Ishkul"
+        - "Ch'alish"
+        - "Ne'"
+    second: ["Ne'ok", "Ts'alam", "Ne'", "Ishkul", "Q'aptel", "Ishtem", "Ish", "Puq'em"]
+    third: ["Tsul", "Ish'bal", "Ts'ultel", "Shelem", "Q'emul", "K'ushi"]
   fields:
     - name: "Sky, sun and the count of days"
       holds: "The sun, the moon, the stars and the 260-day count run side by side, and the scribe's whole craft is reading where they meet."
@@ -3810,9 +3845,36 @@ The house name follows rank. Kin, the household and people of equal standing use
 
 ## Name Lists
 
-### Male Names
+### Names
 
-Ch'akul Ts'ultel Ish'bal P'enqal K'ushi Ne'ok Ne' Ts'alam Ish Shelem Nelush Puq'em Shelem Ts'alam Q'aptel Ch'alish Ne' Ishkul Tsul Q'aptel Ishtem Ne' Q'emul Ish Ts'ultel Ish'bal Shelem Ne' Tsul Ne'ok Ne' K'ankul K'ushi Toshel Ts'alam Ishkul Nelush Ch'alish Ne' Ish Toshel Ish'bal Ts'ultel Ts'alam K'ankul Shelem Toshel Q'emul Ts'ultel Ch'akul Ne' Ish Ish'bal Q'aptel Ts'ultel Nelush Ish Q'emul Ne' Ne' Ish Ch'alish Tsul Ish'bal Ne' Ch'alish Ish Q'aptel Ts'alam Ishtem Ts'ultel Ish'bal Tsul Q'emul Ch'alish Ish Ch'alish Toshel Ts'ultel Ts'alam Ts'alam Ne'ok K'ushi Ishkul Nelush Tsul Ch'akul Ish Shelem K'ankul K'ushi Ne' Ne' Ts'ultel Ish Toshel Q'aptel Ne' Ts'alam P'enqal Q'emul Tsul Ts'ultel Ish Ts'alam Ts'ultel K'ushi Ne'ok Tsul Ishkul Ne' Ish'bal Ne' Ts'alam Ch'akul Q'aptel Ishkul Ne' Shelem Ish Q'aptel Nelush Ne' Q'emul Ish'bal Ish P'enqal Ch'akal Tsul Ishkul Ts'alam Q'aptel Ts'ultel Ish Shelem Q'aptel P'enqal Shelem Ch'akul Ish'bal Ish K'ankul Ne'ok Nelush Q'aptel Ch'akul Ish'bal Tsul Ne' Shelem Ish Ishkul Ts'ultel Tsul Ch'alish Ne' Ishkul Tsul Ish'bal K'ankul K'ushi Shelem Ts'ultel Tsul Ish Toshel Tsul Ne' Ne'ok Ish K'ankul Ts'ultel Shelem Ts'ultel Q'emul Ts'alam Ish Ch'alish Ts'ultel K'ankul Ishkul Ch'akul Ts'alam Tsul Ish Ts'ultel Ne' Ne'ok Ts'ultel Ish Toshel Ne' Tsul P'enqal Ne' K'ushi Ts'ultel Ishkul Tsul K'ankul Ne' Ch'akul Ishkul Ts'alam Ish Shelem Tsul Ish'bal P'enqal Ne' Ts'ultel Ishkul Tsul Ne' Ch'alish Tsul K'ushi Ts'ultel Ts'alam Ts'alam Tsul P'enqal K'ushi Ne'ok Ish Ts'ultel Ish'bal Tsul Ne' Tsul Ishkul Ish Ish'bal Ts'ultel K'ushi Ish Shelem Ts'alam Ne'ok Ish'bal Ishkul Tsul Q'aptel Nelush Ish'bal Tsul Ts'ultel Q'aptel Ishkul Ne' K'ushi Ts'alam Shelem K'ushi Ish Ishkul Ch'alish Tsul Ts'alam Ts'ultel P'enqal Tsul Shelem Ish K'ankul Ne'ok Ne' Tsul Ish'bal Ch'alish Ts'ultel Ne'ok Toshel Tsul Ishkul Ish'bal Ne' K'ankul Ish Ishkul Ts'alam Ts'ultel Ch'akul Ishkul Tsul Ish'bal Shelem Ch'alish K'ushi Tsul P'enqal Tsul Ish Ts'ultel Ts'alam Ne'ok Ish'bal Ishkul Ne' Ts'alam Ts'ultel Ch'alish Shelem P'enqal Ne'ok K'ankul Ts'ultel Ts'alam Ish'bal Ish Shelem Ts'ultel Ne' Tsul Ne'ok Toshel Ts'alam Ts'ultel Ch'alish Ish Ne'ok Ish'bal Tsul Ts'ultel Tsul Ch'alish Ish'bal Ishkul K'ushi Ne' Tsul Ts'ultel Tsul Ts'ultel Ishkul Ch'alish Shelem Ish K'ankul Tsul K'ankul Ish Ts'ultel P'enqal Ch'akul Tsul Ishkul Ne'ok Ne' Tsul Ts'ultel Ishkul Ch'alish Shelem P'enqal Ish'bal Ch'alish Ish'bal Ts'alam Ishkul Ts'ultel Tsul Ne'ok K'ankul Ts'alam K'ushi Ish Ts'ultel Ch'alish Tsul Ts'ultel Ts'alam P'enqal K'ankul Ne' Ishkul Tsul Q'aptel Ts'ultel Ts'alam Shelem Ch'alish Ishkul Tsul K'ushi Ne'ok Ish'bal Ts'ultel K'ankul Ishkul Tsul Ne' Ne'ok Shelem Ts'alam K'ushi Ishkul Ts'ultel
+Any name suits anyone. Each is built by the structure under Naming Traditions.
+
+- Ne' Ishkul
+- Tsul Ne'ok
+- K'ushi Ts'alam
+- Ts'ultel Ne'
+- Ish'bal Q'aptel
+- Ch'akul Ishtem
+- Shelem Ne'ok
+- Nelush Ts'alam
+- P'enqal Ish
+- Q'emul Puq'em
+- K'ankul Ne'
+- Toshel Ishkul
+- Ch'alish Ne'ok
+- Ish'bal Ts'alam
+- Ishkul Q'aptel
+- Tsul Ishtem
+- Ne' Ts'alam
+- K'ushi Ne'ok Tsul
+- Ts'ultel Ts'alam Ish'bal
+- Ch'akul Ne' Shelem
+- Shelem Q'aptel Q'emul
+- Nelush Ishkul K'ushi
+- Q'emul Ts'alam Ts'ultel
+- K'ankul Ne'ok Ish'bal
+- Toshel Ish Tsul
+- P'enqal Puq'em Shelem
 
 ## External References
 
@@ -3853,17 +3915,13 @@ Stress
 1.  **Structure**:
     - Names often follow a descriptive phrase format: _noun + verb + descriptor_, e.g., “Jaguar prowls beneath the moon.”
 
-2.  **Gendered Themes**:
-    - **Male Names**: Predatory animals, quick motion, violence, great things (e.g., mountains, storms).
-    - **Female Names**: Prey animals, flowers, stillness, peace, gentle natural features.
-
-3.  **House Names**:
+2.  **House Names**:
     - A formal name of three or more elements is shortened for informal use to its first element, whole, as set out under House Names above; a two-element name is not shortened.
 
-4.  **Titles**:
+3.  **Titles**:
     - Titles are appended to names to denote rank or role, e.g., _Q’emulmah_ (Overlord), _Ha’nalmah_ (Landholder).
 
-5.  **Connector Words**:
+4.  **Connector Words**:
     - **Member of Tribe**: _Ts’omalil_ (“One Who Belongs”).
     - **Leader of Tribe**: _Mah’alil_ (“Lord of the Tribe”).
     - **Tq'an**

@@ -23,19 +23,31 @@ The Tokchi Aska Region is the land of [[affiliation-tokchiaska|Tokchi Aska]], th
 
 ## Geography
 
-**The river.** The heartland is the valley of the great river, which the [[lore-tokchiliclt|Tokchili]] call simply the _hokpa_, the river, as though there were no other. It flows south out of the interior to the gulf. Its floodplain is miles wide and renewed by floods every spring, and its soil grows maize in a surplus no other land of the north can match: a household on the bottomland harvests twice what it eats. The towns stand on the higher ground along it, each round its plaza and its mounds, where the backwaters and oxbow lakes give fish and waterfowl as well. The river and its tributaries are the nation's roads, and canoes carry maize, shell, copper and tribute up and down them all summer.
+**The river.** The heartland is the [[place-hokpargn|River Valley]] of the great river, which the [[lore-tokchiliclt|Tokchili]] call simply the _hokpa_, the river, as though there were no other. It flows south out of the interior to the gulf. Its floodplain is miles wide and renewed by floods every spring, and its soil grows maize in a surplus no other land of the north can match: a household on the bottomland harvests twice what it eats. The towns stand on the higher ground along it, each round its plaza and its mounds, where the backwaters and oxbow lakes give fish and waterfowl as well. The river and its tributaries are the nation's roads, and canoes carry maize, shell, copper and tribute up and down them all summer.
 
 The flood is the valley's gift and its danger. A town is sited where the old people say the water has never reached, and the mounds are the last dry ground when it does. The story of the first mound, raised to lift a fire above a flood, is told to every child.
 
-**The old ranges.** East of the valley rise worn ranges of long ridges and rolling, heavily forested hills of oak, hickory and chestnut, with clear streams in the valleys and deer, turkey and bear in plenty. The eastern towns farm the narrow bottomlands between the ridges and hunt the hills, and they are the towns that have most often lit their fires from a rival Sun: the ranges make them hard to reach and easy to lose.
+**The old ranges.** East of the valley rise the [[place-poktaskorgn|Old Ranges]], worn ranges of long ridges and rolling, heavily forested hills of oak, hickory and chestnut, with clear streams in the valleys and deer, turkey and bear in plenty. The eastern towns farm the narrow bottomlands between the ridges and hunt the hills, and they are the towns that have most often lit their fires from a rival Sun: the ranges make them hard to reach and easy to lose.
 
-**The swamps.** South and east of the ranges the lowlands turn to swamp. [Ne' P'uqan]{.name data-type="place/feature"}, the Black Water, and the marshes like it are trackless expanses of cypress, tupelo and saw palm, crossed by sluggish black-water rivers and joined by hidden waterways, rich in fish, waterfowl and alligators. The swamp-edge towns hunt and fish their margins and leave the deep swamps alone.
+**The swamps.** South and east of the ranges the lowlands turn to the swamps of the [[place-wikopihirgn|Dark Water]]. [Ne' P'uqan]{.name data-type="place/feature"}, the Black Water, and the marshes like it are trackless expanses of cypress, tupelo and saw palm, crossed by sluggish black-water rivers and joined by hidden waterways, rich in fish, waterfowl and alligators. The swamp-edge towns hunt and fish their margins and leave the deep swamps alone.
 
-**The shell coast.** Farther south lie the coastal provinces: salt marsh, mangrove, barrier islands and a warm, shallow gulf. Here the towns stand on islands of heaped shell, raised over generations from what their people ate, with canals dug between the heaps so that a canoe can reach every house. The estuaries feed them without farming: oysters, clams, mullet, sea turtles and seabirds in numbers the heartland finds hard to believe. The coast's people are the _koyoli_, the people of the shell, carvers and seafarers who take the Great Sun's coal on their own terms.
+**The shell coast.** Farther south lies the [[place-koyalorgn|Shell Coast]]: salt marsh, mangrove, barrier islands and a warm, shallow gulf. Here the towns stand on islands of heaped shell, raised over generations from what their people ate, with canals dug between the heaps so that a canoe can reach every house. The estuaries feed them without farming: oysters, clams, mullet, sea turtles and seabirds in numbers the heartland finds hard to believe. The coast's people are the _koyoli_, the people of the shell, carvers and seafarers who take the Great Sun's coal on their own terms.
 
 ## Seasons
 
 Summers are long, hot and wet, with thunderstorms most afternoons in the valley and storms off the gulf in late summer that can flatten a shell town's houses in a night. Winters are short and mild in the south and colder in the valley and the ranges, with frost most winter nights and snow in the hills. The floods come in spring. The maize is planted after them and the first green ears are ready at midsummer, which is when the New Fire is held.
+
+## Towns
+
+The great towns of the One Fire are its mound towns, and each country has its own.
+
+- [[place-hayopokta|Hayo Pokta]], the Sun Mound, about 15,000 people, seat of the Great Sun in the River Valley.
+- [[place-tokchihinch|Tokchi Hinchaka]], the Other Fire, about 7,000, chief of the hill towns of the Old Ranges.
+- [[place-hokpahosa|Hokpa Hosa]], Two Rivers, about 6,000, the northern gate where the river from Ha'nal Shi'lan comes in.
+- [[place-kiyopokta|Kiyo Pokta]], the Falcon Mound, about 5,000, the double-walled muster town on the western bank.
+- [[place-koyohasko|Koyo Hasko]], the Great Shell, about 5,000, chief of the shell towns.
+- [[place-koyalolint|Koyalo Lintako]], the Last Shore, about 2,000, the farthest shell town south.
+- [[place-ishochi|Ishochi]], Ash, about 1,500, the swamp-edge town that takes in the put-out.
 
 ## Borders and Trade
 
@@ -51,6 +63,18 @@ To the north the valley opens into [[place-hanalxilanrgn|Ha'nal Shi'lan]], the w
 
 [[place-hayopokta|Hayo Pokta]]
 : the Sun Mound, the seat of the Great Sun
+
+[[place-hokpargn|River Valley]]
+: the heartland on the great river
+
+[[place-poktaskorgn|Old Ranges]]
+: the forested ridges and the hill towns
+
+[[place-wikopihirgn|Dark Water]]
+: the swamps below the ranges
+
+[[place-koyalorgn|Shell Coast]]
+: the shell towns of the gulf
 
 [[place-northkiichchik|Northern Ki'ich'chik]]
 : the enclosing region

@@ -12,7 +12,7 @@ data:
   lore: []
   culture: sowidesclt
   homes: [oasishirvn]
-  affiliations: {sahritrb: {rank: 4, office: Shaman}, korsadra: {rank: 1}}
+  affiliations: {rqdrtrb: {rank: 4, office: Shaman}, korsadra: {rank: 1}}
   gender: female
   species: humanflk
   born: 687.198

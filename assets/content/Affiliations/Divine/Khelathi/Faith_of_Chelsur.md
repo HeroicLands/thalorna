@@ -41,7 +41,7 @@ data:
       Priest of the River-Beast Cult: >-
         Keeps the cult in the eastern marsh, where the crocodile is venerated and the river-beast hunters live off it in the same breath.
       Sanctioner of the Cull: >-
-        The rite that permits the killing of a beast sacred to the god. Gar'Nuw's cullers answer when crocodiles threaten the villages along the Zumelesh, and the guild's own doctrine holds that wantonness in the killing offends the gods as well as the imperial order—so the cull is a religious act before it is a commercial one.
+        The rite that permits the killing of a beast sacred to the god. Gar'Nul's cullers answer when crocodiles threaten the villages along the Zumelesh, and the guild's own doctrine holds that wantonness in the killing offends the gods as well as the imperial order—so the cull is a religious act before it is a commercial one.
   seat: null
   population: null
   economy: []
@@ -60,7 +60,7 @@ sohl: {system: {commonSkills: []}}
 
 The **Priest of the River-Beast Cult** keeps the cult in the eastern marsh, where the crocodile is venerated and the river-beast hunters live off it in the same breath. The **Sanctioner of the Cull** performs the rite that permits the killing of a beast sacred to the god.
 
-A cull therefore takes two parties: the cullers of [[affiliation-garnuw|Gar'Nuw]], who answer when crocodiles threaten the villages along [[place-zumeleshrvr|the Zumelesh]], and the Sanctioner, whose rite is held to make the killing lawful before the god. Gar'Nuw's own doctrine holds that wantonness in the killing offends the gods as well as the imperial order, so the cull is a religious act before it is a commercial one.
+A cull therefore takes two parties: the cullers of [[affiliation-garnul|Gar'Nul]], who answer when crocodiles threaten the villages along [[place-zumeleshrvr|the Zumelesh]], and the Sanctioner, whose rite is held to make the killing lawful before the god. Gar'Nul's own doctrine holds that wantonness in the killing offends the gods as well as the imperial order, so the cull is a religious act before it is a commercial one.
 
 ## Where Else He Is Worshipped
 
@@ -73,7 +73,7 @@ The cult keeps the shared temple ladder; a selat god's Thaz'Lekhau carries real 
 [[lore-chelsurdty|Chelsur]]
 : the god
 
-[[affiliation-garnuw|Gar'Nuw]]
+[[affiliation-garnul|Gar'Nul]]
 : the cullers who answer when the beasts take people
 
 [[affiliation-zeghetnelgu|Zeghet'Nelgu]]

@@ -15,7 +15,7 @@ data:
   governance:
     model: theocracy
     summary: >-
-      One of the two hunt-patrons of Au'Khelathu, whose concern is understood to extend past the taking of the beast to the conduct of the taker. Gar'Nuw, the Gar-Au's chartered guild of hunters, holds this cult and Linkur's as its religious foundation, and conducts its senior elevations as rites at both temples performed in tandem.
+      One of the two hunt-patrons of Au'Khelathu, whose concern is understood to extend past the taking of the beast to the conduct of the taker. Gar'Nul, the Gar-Au's chartered guild of hunters, holds this cult and Linkur's as its religious foundation, and conducts its senior elevations as rites at both temples performed in tandem.
     ranks:
       - level: 0
         title: Rite-Denied
@@ -47,18 +47,18 @@ data:
   economy: []
   lore: [linhurdty]
   parents: [khelathpnthn]
-  relations: {khelathpnthn: aligned, garnuw: aligned, linkur: aligned}
+  relations: {khelathpnthn: aligned, garnul: aligned, linkur: aligned}
   packFolder: regkhaff
 sohl: {system: {commonSkills: []}}
 ---
 
-"Taking the beast cleanly is half of it," a master hunter of [[affiliation-garnuw|Gar'Nuw]] tells a journeyman who is about to be raised. "The other half is who you were while you did it, and [[lore-linhurdty|Linhur]] is the god who asks."
+"Taking the beast cleanly is half of it," a master hunter of [[affiliation-garnul|Gar'Nul]] tells a journeyman who is about to be raised. "The other half is who you were while you did it, and [[lore-linhurdty|Linhur]] is the god who asks."
 
 The Faith of Linhur honors one of the two hunt-patrons of [[affiliation-empireakhlth|Au'Khelathu]], and nobody invokes him alone. His patronage does not end at the kill. The god's concern is understood to reach the conduct of the hunter, which is the religious weight behind the guild's [Hunter's Respect]{.name data-type="lore/custom"}: the beast belongs to the [[lore-garauu|Gar-Au]]'s lands, and wantonness in killing it is held to offend the gods as much as the imperial order. The **Scrutineer of the Hunt** holds that scrutiny as an office.
 
 ## The Elevation
 
-Gar'Nuw, the Gar-Au's chartered guild of hunters, keeps this cult and [[affiliation-linkur|Linkur's]] as its religious foundation. Its senior elevations are rites at both temples, performed in tandem, and neither counts without the other. The **Witness of the Elevation** conducts the Linhur half; the Linkur half has a witness of its own. A hunter who has been raised at one temple and not the other has not been raised.
+Gar'Nul, the Gar-Au's chartered guild of hunters, keeps this cult and [[affiliation-linkur|Linkur's]] as its religious foundation. Its senior elevations are rites at both temples, performed in tandem, and neither counts without the other. The **Witness of the Elevation** conducts the Linhur half; the Linkur half has a witness of its own. A hunter who has been raised at one temple and not the other has not been raised.
 
 Like every selat god's cult, this one keeps the shared temple ladder of Wazu, Lem'Nelgir and Thaz'Lekhau. A selat god's Thaz'Lekhau carries real weight inside the selat and very little outside it.
 
@@ -70,7 +70,7 @@ Like every selat god's cult, this one keeps the shared temple ladder of Wazu, Le
 [[affiliation-linkur|Faith of Linkur]]
 : the paired cult
 
-[[affiliation-garnuw|Gar'Nuw]]
+[[affiliation-garnul|Gar'Nul]]
 : the guild whose elevations the two temples conduct
 
 [[affiliation-khelathpnthn|Khelathi Pantheon]]

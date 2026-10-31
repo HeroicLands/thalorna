@@ -10,12 +10,12 @@ import path from "node:path";
 import test from "node:test";
 import {
     earthHits,
+    formsOf,
     listDirs,
     loadEarth,
     main,
     normalize,
     sameMeaning,
-    wordsOf,
 } from "./earth-words.mjs";
 
 const dir = fs.mkdtempSync(path.join(os.tmpdir(), "earth-words-"));
@@ -82,9 +82,126 @@ test("glosses sharing a content word mean the same, and unrelated ones do not", 
 
 test("words are read with their line and column", () => {
     const file = note("Vylari.md", [["aqua", "water"]]);
-    assert.deepEqual(wordsOf(fs.readFileSync(file, "utf8")), [
+    assert.deepEqual(formsOf(fs.readFileSync(file, "utf8")), [
         { form: "aqua", gloss: "water", line: 5, column: 13 },
     ]);
+});
+
+/** A language note carrying words, name lists and a register. */
+function fullNote(name, { words = "", names = "", register = "" }) {
+    const block = (key, text) => (text ? `  ${key}:\n${text}\n` : "");
+    return write(
+        `notes/${name}`,
+        `---\nshortcode: x\ndata:\n${block("words", words)}${block("names", names)}${block("register", register)}---\nBody\n`,
+    );
+}
+
+test("name lists and native register names are read, with their positions", () => {
+    const file = fullNote("Vylari.md", {
+        names: [
+            '    pattern: "{given} {clan}"',
+            "    given:",
+            "      female:",
+            "        - aqua",
+            "      male:",
+            "        - via",
+            "    clan:",
+            "      - kalos",
+            "    en:",
+            "      - water",
+        ].join("\n"),
+        register: [
+            "    - {name: aquae, tongue: vylari}",
+            "    - {name: Water Road, tongue: translation}",
+            "    - {name: viae, tongue: gloss}",
+            "    - {name: kept, tongue: kept}",
+            "    - {name: exo, tongue: exonym:vylari}",
+            "    - {name: oth, tongue: other}",
+        ].join("\n"),
+    });
+    const forms = formsOf(fs.readFileSync(file, "utf8"));
+    assert.deepEqual(
+        forms.map((f) => [f.form, f.line, f.column]),
+        [
+            ["aqua", 8, 11],
+            ["via", 10, 11],
+            ["kalos", 12, 9],
+            ["aquae", 16, 14],
+        ],
+    );
+});
+
+test("a name-list entry that is a whole Earth word is an error at its position", () => {
+    const file = fullNote("Vylari.md", {
+        names: ["    pattern: x", "    given:", "      female:", "        - Aqua"].join("\n"),
+    });
+    const { status, err } = run(["--wordlists", lists(), file]);
+    assert.equal(status, 1);
+    assert.deepEqual(err, ['notes/Vylari.md:8:11: error: "Aqua" is a word of the latin list']);
+});
+
+test("a native register name is an error and a translation is not", () => {
+    const file = fullNote("Vylari.md", {
+        register: [
+            "    - {name: aqua, tongue: vylari}",
+            "    - {name: via, tongue: translation}",
+        ].join("\n"),
+    });
+    const { status, err } = run(["--wordlists", lists(), file]);
+    assert.equal(status, 1);
+    assert.deepEqual(err, ['notes/Vylari.md:5:14: error: "aqua" is a word of the latin list']);
+});
+
+test("apostrophe-like letters are dropped", () => {
+    for (const mark of ["\u02BC", "\u02BB", "\u02BF", "'", "\u2019"])
+        assert.equal(normalize(`pu${mark}uts`), "puuts", mark);
+});
+
+test("hooked letters fold to their plain base letters", () => {
+    assert.equal(normalize("ɓaɗaƙiƴa"), "badakiya");
+    assert.equal(normalize("ƁƊƘƳ"), "bdky");
+    assert.equal(normalize("ɣɛr"), "ger");
+});
+
+test("a hooked spelling meets its plain spelling in a list", () => {
+    const root = path.join(dir, "hooked");
+    write("hooked/hausa.txt", "ɓaɗaƙa\n");
+    write("hooked/tamazight.txt", "ɣɛrnu\n");
+    const earth = loadEarth([root]);
+    assert.equal(earthHits({ form: "badaka", gloss: "" }, earth, ["hausa"]).length, 1);
+    assert.equal(earthHits({ form: "gernu", gloss: "" }, earth, ["tamazight"]).length, 1);
+});
+
+test("a Yucatec j is read as h in the Yucatec list only", () => {
+    const root = path.join(dir, "yucatec");
+    write("yucatec/yucatec-maya.txt", "janal\npuʼuts\n");
+    write("yucatec/latin.txt", "janal\n");
+    const earth = loadEarth([root]);
+    assert.equal(earthHits({ form: "ha'nal", gloss: "" }, earth, ["yucatec-maya"]).length, 1);
+    assert.equal(earthHits({ form: "janal", gloss: "" }, earth, ["yucatec-maya"]).length, 1);
+    assert.equal(earthHits({ form: "pu'uts", gloss: "" }, earth, ["yucatec-maya"]).length, 1);
+    assert.equal(earthHits({ form: "hanal", gloss: "" }, earth, ["latin"]).length, 0);
+    assert.equal(earthHits({ form: "janal", gloss: "" }, earth, ["latin"]).length, 1);
+    assert.notEqual(normalize("janal"), normalize("hanal"));
+});
+
+test("doubled letters are kept", () => {
+    assert.notEqual(normalize("rumma"), normalize("ruma"));
+    assert.notEqual(normalize("raame"), normalize("rame"));
+    const root = path.join(dir, "doubles");
+    write("doubles/finnish.txt", "ruma\ntupa\n");
+    const earth = loadEarth([root]);
+    assert.deepEqual(earthHits({ form: "rumma", gloss: "" }, earth, ["finnish"]), []);
+    assert.equal(earthHits({ form: "ruma", gloss: "" }, earth, ["finnish"]).length, 1);
+});
+
+test("forms of one and two letters are compared", () => {
+    const root = path.join(dir, "short");
+    write("short/spanish.txt", "en\nko\na\n");
+    const earth = loadEarth([root]);
+    for (const form of ["en", "Ko", "a"])
+        assert.equal(earthHits({ form, gloss: "" }, earth, ["spanish"]).length, 1, form);
+    assert.deepEqual(earthHits({ form: "e", gloss: "" }, earth, ["spanish"]), []);
 });
 
 test("a whole word of the language's own model is an error", () => {

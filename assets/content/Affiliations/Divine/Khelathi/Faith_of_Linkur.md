@@ -15,7 +15,7 @@ data:
   governance:
     model: theocracy
     summary: >-
-      The second of Au'Khelathu's two hunt-patrons, paired with Linhur in every rite that matters. Gar'Nuw's senior elevations are conducted at both temples in tandem, and the god's patronage is understood to cover not merely the hunt's success but the manner of the killing.
+      The second of Au'Khelathu's two hunt-patrons, paired with Linhur in every rite that matters. Gar'Nul's senior elevations are conducted at both temples in tandem, and the god's patronage is understood to cover not merely the hunt's success but the manner of the killing.
     ranks:
       - level: 0
         title: Rite-Denied
@@ -47,16 +47,16 @@ data:
   economy: []
   lore: [linkurdty]
   parents: [khelathpnthn]
-  relations: {khelathpnthn: aligned, garnuw: aligned, linhur: aligned}
+  relations: {khelathpnthn: aligned, garnul: aligned, linhur: aligned}
   packFolder: regkhaff
 sohl: {system: {commonSkills: []}}
 ---
 
 The Faith of Linkur and the [[affiliation-linhur|Faith of Linhur]] teach that [[lore-linhurdty|Linhur]] watches the hunter, and [[lore-linkurdty|Linkur]] watches the killing. The second of the two hunt-patrons of [[affiliation-empireakhlth|Au'Khelathu]], Linkur is paired with Linhur in every rite that matters, and his patronage is understood to cover not only the hunt's success but the manner of the death.
 
-The **Scrutineer of the Kill** holds that scrutiny. A beast is to die with the speed and efficiency its nature permits, because wantonness in the killing is held to offend the gods as much as the imperial order. A culler of [[affiliation-garnuw|Gar'Nuw]] who removes a crocodile from a village's water is held answerable to this god for how quickly it was done.
+The **Scrutineer of the Kill** holds that scrutiny. A beast is to die with the speed and efficiency its nature permits, because wantonness in the killing is held to offend the gods as much as the imperial order. A culler of [[affiliation-garnul|Gar'Nul]] who removes a crocodile from a village's water is held answerable to this god for how quickly it was done.
 
-The pairing gives the two cults their shape. In their teaching, one god watches the man and the other the act, and a hunter answerable to both cannot satisfy either by intention alone. Gar'Nuw's senior elevations are conducted at both temples in tandem, and the **Witness of the Elevation** conducts the Linkur half of the rite. The elevation does not count until the Linhur half has been done too.
+The pairing gives the two cults their shape. In their teaching, one god watches the man and the other the act, and a hunter answerable to both cannot satisfy either by intention alone. Gar'Nul's senior elevations are conducted at both temples in tandem, and the **Witness of the Elevation** conducts the Linkur half of the rite. The elevation does not count until the Linhur half has been done too.
 
 The cult keeps the same temple ladder as every other selat god's.
 
@@ -68,7 +68,7 @@ The cult keeps the same temple ladder as every other selat god's.
 [[affiliation-linhur|Faith of Linhur]]
 : the paired cult
 
-[[affiliation-garnuw|Gar'Nuw]]
+[[affiliation-garnul|Gar'Nul]]
 : the hunters' guild this cult and Linhur's found
 
 [[affiliation-khelathpnthn|Khelathi Pantheon]]

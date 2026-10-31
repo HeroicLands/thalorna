@@ -31,7 +31,7 @@ The forests are mixed: pine and spruce in the north, maple, birch, oak and chest
 
 A village lasts ten to twenty years in one place. Then its fields are worn out and its firewood is a long walk away, and it moves a few miles to a new clearing (_tahsiren_), burned and cut by the men the year before. The forest is full of old village sites: rings of rotted palisade posts, fields gone back to brush, and the low mound of a pit of bones that no one disturbs.
 
-East, the land comes down to the ocean in rocky shores, river mouths and fishing coves. From that ocean twice in twenty-one years have come strange boats, and a year ago one of them burned [[place-tsiorhenten|Tsiorhenten]], a village of the Dawn People, which has since moved inland. North, the forest thins into boreal country and then tundra, held only by small bands of caribou hunters, and from there come the peoples the newcomers from the ice have driven south.
+East, the land comes down to the ocean in rocky shores, river mouths and fishing coves. From that ocean twice in twenty-one years have come strange boats, and a year ago one of them burned [[place-tsiorhenten|Tsiorhenten]], a village of the Dawn People, which has since moved inland. North, the forest thins into the boreal country of the [[place-kawiskakrgn|Kawiskak Region]] and then tundra, held only by small bands of caribou hunters, and from there come the peoples the newcomers from the ice have driven south.
 
 Between the Pine People and the Falls People lies the [Lake of Islands]{.name data-type="place/feature"}, the old country of the Island People. Nobody has built a village on its islands since the Grove broke them, and the Pine People's canoes cross it without stopping.
 

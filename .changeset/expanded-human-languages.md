@@ -11,5 +11,6 @@
 
 **Literature and verse**
 
-- Aelwythi verse pairs automatic Semaron script with clearer modern English readings and the Roman source, numbering every fifth line.
+- The Aelwythi ballad, tale, lament, play and carol keep their English, and each is sung or told again in Aelwythi in its own ballad stanza, couplets, songs and carol, with the Semaron script beside the roman.
+- The Walking of the Line is set in its seventeen cantos, and its Vylari is sung in the six-beat line of the imperial epic.
 - Linked names in parallel verse remain readable in their own language alongside the surrounding prose.

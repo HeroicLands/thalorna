@@ -80,8 +80,8 @@ Every figure here is **derived from the region and polity notes themselves**, ro
 | ----------------------------------------------- | --------------- |
 | [[place-centralkiichchik\|Central Ki'ich'chik]] | ~28,000,000     |
 | [[place-southkiichchik\|Southern Ki'ich'chik]]  | ~3,500,000      |
-| [[place-northkiichchik\|Northern Ki'ich'chik]]  | ~2,000,000      |
-| **Ki'ich'chik subtotal**                        | **~34,000,000** |
+| [[place-northkiichchik\|Northern Ki'ich'chik]]  | ~3,500,000      |
+| **Ki'ich'chik subtotal**                        | **~35,000,000** |
 
 #### Other
 
@@ -99,7 +99,7 @@ Every figure here is **derived from the region and polity notes themselves**, ro
 | Ankaris (west)       | ~72M       |
 | Ankaris (east)       | ~230M      |
 | Zerathia             | ~29M       |
-| Ki'ich'chik          | ~34M       |
+| Ki'ich'chik          | ~35M       |
 | Kalihara & scattered | ~6M        |
 | **World**            | **~370M**  |
 

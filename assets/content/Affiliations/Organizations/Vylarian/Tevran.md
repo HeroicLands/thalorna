@@ -87,7 +87,7 @@ That is the post-imperial commonwealth's central bargain: the Tevran persists be
 ### Influenced but Independent
 
 The [[place-nrthrnfrtlrgn|Northern Fertile Region]]
-: [[place-bethuargn|Bethua Region]], [[place-okharisrgn|Okharis Region]] and [[place-aukhelathrgq|Au'Khelathu Region]]. None was ever a Vylarian province and none is a Tevran member, yet all three have guild structures that visibly borrow from the Vylarian model: multi-tier ranks, formal examinations, registered seals and standing inter-guild councils. The Khelathi houses ([[affiliation-garmelnu|Gar'Melnu]], [[affiliation-garnuw|Gar'Nuw]] and the others) differ in religious framing, but their administrative procedures are plainly Tevran-derived, and so are those of [[affiliation-bthntrdhss|the Bethuan trade-houses]]. Where trades from the region meet the Tevran, in trade negotiations, embassies or a master traveling abroad, the institutions deal with one another as peers.
+: [[place-bethuargn|Bethua Region]], [[place-okharisrgn|Okharis Region]] and [[place-aukhelathrgq|Au'Khelathu Region]]. None was ever a Vylarian province and none is a Tevran member, yet all three have guild structures that visibly borrow from the Vylarian model: multi-tier ranks, formal examinations, registered seals and standing inter-guild councils. The Khelathi houses ([[affiliation-garmelnu|Gar'Melnu]], [[affiliation-garnul|Gar'Nul]] and the others) differ in religious framing, but their administrative procedures are plainly Tevran-derived, and so are those of [[affiliation-bthntrdhss|the Bethuan trade-houses]]. Where trades from the region meet the Tevran, in trade negotiations, embassies or a master traveling abroad, the institutions deal with one another as peers.
 
 ### Untouched
 

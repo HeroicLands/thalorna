@@ -92,7 +92,7 @@ They least value hoarding and loud claims. A noble who keeps maize in his own st
 
 ## The Basket-Carrier
 
-The most admired man of the One Fire is no Sun. He is a commoner who carries his share and more, fights well, keeps his temper at the game and dies with his debts paid. The Tokchili name him in the story of [Pakalo]{.name data-type="being/npc"}, a war chief of the Second Gathering who was raised to Honored for taking captives in three wars. When Lapali died, Pakalo was named among those who would walk with the Great Sun to the sky, an honor that would raise his sister's children for three generations. He refused it. He said on the mound, before the Keepers, that a Sun who needs a war chief in the sky had not used one well on earth, and that night he took a canoe and nine of the coast women down the river, and only three were caught. The Keepers recite him as a traitor. Commoners and the shell towns tell the story as the best thing anyone did that year.
+The most admired man of the One Fire is no Sun. He is a commoner who carries his share and more, fights well, keeps his temper at the game and dies with his debts paid. The Tokchili name him in the story of [Pakalo]{.name data-type="being/npc"}, a war chief of the Second Gathering who was raised to Honored for taking captives in three wars. When Lapali died, Pakalo was named among those who would walk with the Great Sun to the sky, an honor that would raise his sister's children for three generations. He refused it. He said on the mound, before the Keepers, that a Sun who needs a war chief in the sky had not used one well on earth, and that night he took a canoe and nine of the coast women down the river, and only three were caught. The swamp town of [[place-ishochi|Ishochi]] says that the other six reached it and founded it. The Keepers recite him as a traitor. Commoners and the shell towns tell the story as the best thing anyone did that year.
 
 The admired man shares what made Pakalo admired. He works without being told. He keeps his word to his sister's children, who are his heirs, before his own pleasures. He fights for the town and not for loot. He wins at the stone yard without gloating and loses without complaint. And he will say no to a Sun when a Sun is wrong, once, plainly, and take the consequence.
 
@@ -114,7 +114,7 @@ The One Fire writes nothing, so its sacred things are objects and recitations.
 
 ## The Fire Every Day
 
-An ordinary person's religion is daily and small. At sunrise the head of each household steps out of the door, faces east and greets the sun, and the household's first act is to feed the fire before anyone eats. The first maize of the season, the first fish and the first deer are given to the fire, and a little of every meal goes into it.
+An ordinary person's share of the [[lore-tokchihapaka|Fire-Keeping]], the faith of the fire, is daily and small. At sunrise the head of each household steps out of the door, faces east and greets the sun, and the household's first act is to feed the fire before anyone eats. The first maize of the season, the first fish and the first deer are given to the fire, and a little of every meal goes into it.
 
 Men drink the black drink, a bitter tea of holly leaves brewed strong, before councils and before war, and vomit it up to come to the council clean. A man who cannot hold it down long enough for the speeches is mocked.
 
@@ -234,7 +234,7 @@ An ordinary day starts with the greeting to the sun and the feeding of the fire.
 
 The coast is the One Fire's other half, and the _koyoli_, the people of the shell, keep a different life. They have never farmed. Their estuaries are richer than any field: oysters, clams, mullet and sea turtles in such numbers that a town of two thousand eats without planting. Their towns stand on islands of heaped shell, raised over generations from what they ate, with dug canals for their canoes running between the heaps and out to the open water. They carve wood better than anyone in the north, masks, figureheads and animal heads with shell inlay for eyes, and they handle the gulf in dugouts that the heartland cannot match.
 
-Each shell town has its Shell Chief, who collects tribute in shell, fish and labor from the smaller coastal towns around it and sends part of it up the river to the Great Sun. The shell towns take the coal, keep the New Fire and play the stone game, but they speak Tokchili with their own accent and consider the heartland farmers slow, pious and greedy. They remember the Funeral of the Hundred better than the heartland does, since it was their daughters, and they hold the Shell Promise as the condition of their staying. The Great Sun needs their canoes, which are the One Fire's only navy, and they know it.
+Each shell town of the [[place-koyalorgn|Shell Coast]] has its Shell Chief, the greatest of them at [[place-koyohasko|Koyo Hasko]], who collects tribute in shell, fish and labor from the smaller coastal towns around it and sends part of it up the river to the Great Sun. The shell towns take the coal, keep the New Fire and play the stone game, but they speak Tokchili with their own accent and consider the heartland farmers slow, pious and greedy. They remember the Funeral of the Hundred better than the heartland does, since it was their daughters, and they hold the Shell Promise as the condition of their staying. The Great Sun needs their canoes, which are the One Fire's only navy, and they know it.
 
 ## What the One Fire Gets Wrong
 
@@ -260,6 +260,15 @@ The shell towns hold a second road in their hands. The gulf runs south along the
 
 [[place-hayopokta|Hayo Pokta]]
 : the Sun Mound, seat of the Great Sun
+
+[[lore-tokchihapaka|Fire-Keeping]]
+: the faith of the fire, its powers, its Keepers and its knowers
+
+[[place-hokpargn|River Valley]]
+: the heartland of the mound towns
+
+[[place-koyalorgn|Shell Coast]]
+: the shell towns of the gulf
 
 [[skill-tokchilng|Tokchili Language]]
 : the unwritten tongue of the fire

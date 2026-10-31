@@ -33,255 +33,255 @@ The poem is in common metre, rhymed ABCB.
 
 ::: {.verse form=ballad lang=en work=ballad}
 Young Edwald was a drover's lad,/
-He drove his master's cattle/
+His master's kine he drove/
 From the high grass to the lowland fair/
-By moss and moor and grove.
+By moss and moor and grove./
 
 The fog came up out of the low ground,/
-As always from the west;/
+As it comes up from the west;/
 He could not see the foremost beast,/
-Or his hand against his chest.
+Nor his hand upon his breast./
 
 And then his foot was on a stone,/
 And on a stone again,/
-Fitted so closely that a knife's thin blade/
-Would seek a gap in vain.
+Fitted so close a knife's thin blade/
+Would seek a gap in vain./
 
 It was the old road, the crown road,/
 That runs where no road should,/
-And an oak-tree stood on each side,/
-And oak, and oak, and wood.
+And on each hand an oak-tree stood,/
+And oak, and oak, and wood./
 
-When he was little, his grandfather told him,/
-Do not take the crown road south,/
-For no one can say where it goes,/
-And its mouth is blocked.
+His grandsire told him, being small,/
+Take not the crown road south,/
+For where it goeth no man knows,/
+And it hath a stopped mouth./
 
-But the fog was thick, and the stone underfoot was firm,/
-And the cattle moved quietly and slowly,/
-As quiet as cattle being milked/
-When the evening shadows lie low.
+But the fog was thick, and the stone was sure,/
+And the kine went quiet and slow,/
+As quiet as kine at evening/
+That to the milking go./
 
-He drove them on through the whole long day,/
-With oaks on both sides,/
+He drove them all the long day on,/
+The oaks on either hand,/
 And every one was older than/
-The oldest in the land.
+The oldest in the land./
 
 And when the fog began to lift/
 The light was going grey,/
 And there before him was a bank/
-Of oaks across the way.
+Of oaks across the way./
 
 There was no gate, there was no stile,/
-There was no stone set beside it;/
-The road ran up to the oaks/
-And stopped, as a man might die.
+There was no stone set by;/
+The road ran up unto the oaks/
+And stopped, as a man might die./
 
 And in among the oak-trees stood/
 A tall one, still and grey;/
-He looked at Edwald and his cattle,/
-And he would say nothing.
+He looked on Edwald and his kine,/
+And nothing would he say./
 
 Then Edwald took his cap in hand,/
-Because that was what he had been taught:/
-Good evening, sir, who laid this road?/
-I would be glad to know.
+For he was taught it so:/
+Good even, sir, who laid this road?/
+For I would gladly know./
 
 The tall one looked upon the road,/
-And looked upon the cattle,/
-And said nothing in reply,/
-And gave him no sign.
+And looked upon the kine,/
+And answered not a word to him,/
+Nor gave him any sign./
 
 Then Edwald said, Good sir, good sir,/
-I ask only this:/
-Where does this old road go,/
-The one that stops at your door?
+I'll ask of thee no more/
+But whither doth the old road go,/
+That stoppeth at thy door?/
 
 The tall one looked back up the road,/
 Back to the north and west,/
-Where three hills stand in the grass,/
-And the sun goes down to rest.
+Where three hills stand in the highland grass,/
+And the sun goes down to rest./
 
 Then Edwald was a bolder lad/
-Than wise men have been:/
-Then tell me why the road is blocked,/
-And what the oaks may mean.
+Than wiser men have been:/
+Then tell me why the road doth stop,/
+And what the oaks do mean./
 
-And at that word the oaks closed/
+And at the word the oaks were shut/
 As a door is shut at night,/
 And the fog came down upon the road,/
-And Edwald lost his sight.
+And Edwald lost his sight./
 
 He woke upon the highland grass/
 Beneath three hills of stone,/
-And all his master's cattle were there,/
-And every one of them was grazing.
+And all his master's kine were there,/
+And grazing every one./
 
 There was no oak, there was no road,/
 There was no bank of trees,/
 But a ring of grass more green than grass,/
-That came up to his knees.
+That came up to his knees./
 
-And not a beast of all his cattle/
-Would set her foot on it;/
+And not a beast of all his kine/
+Would set her foot thereon;/
 They grazed around it as they went,/
-And left it, and were gone.
+And left it, and were gone./
 
 He came home by the common road/
-A week after he was due;/
-His grandfather met him at the gate:/
-Where have you been? Tell me now.
+A sennight past his day;/
+His grandsire met him at the gate:/
+Where hast thou been? Now say./
 
-I took the crown road south, grandfather,/
-The road that has the oaks,/
-And I have seen who keeps it,/
-And he did not say a word.
+I took the crown road south, grandsire,/
+The road that hath the oaks,/
+And I have seen who keepeth it,/
+And never a word he spoke./
 
-And who laid all the old road, lad,/
-And why is it blocked? he said./
-They laid it, grandfather, and they stopped:/
-I was told nothing more.
+And who did lay the old road, lad,/
+And why's it stopped? said he./
+They laid it, grandsire, and they stopped:/
+That's all was told to me./
 
 And when the great snow came that year,/
-And all the drove-roads were lost,/
-And the beasts had to come down from the high grass/
-Or die there in the frost,
+And the drove-roads all were lost,/
+And the beasts must come from the high grass down/
+Or die there in the frost,/
 
 Then Edwald drove them by the stone,/
-Where no one but him would go,/
+Where none would go but he,/
 And the oaks along it showed the way/
-When there was nothing to see.
+When there was naught to see./
 
 He brought them down, both cow and calf,/
-And he did not lose a single animal;/
-And no one knows who laid the road,/
+And never a beast he lost;/
+And no man knows who laid the road,/
 Nor what the laying cost.
 :::
 
 ::: {.verse form=ballad lang=aelw enc=aelwsemaronenc work=ballad}
-Young Edwald was a droveres lad./
-His masteres kine he drove/
-From the high grass to the lowland fair/
-By moss and moor and grove.
+A droveres lad was Edwald young,/
+And drove his masteres kine/
+Down from the high grass to the fair/
+By moss and moor and pine.
 
-The fog kame up out of the low ground./
-As ever from the west./
-He kould not see the foremost beast./
-Nor his hand upon his breast.
+Up from the bog the fog kame forth,/
+As fog kometh from the west,/
+Till lost was the foremost of the kine,/
+And his hand upon his breast.
 
-And then his foot was on a stone./
-And on a stone again./
-Fitted so klose a knifees thin blade/
-Would seek a gap in vain.
+Then stone was under his left foot,/
+And stone beneath his right,/
+So klose they fitted that no knife/
+Kould find a gap of light.
 
-It was the old road. the krown road./
-That runneth where none should./
-And on each hand an oak tree stood./
-And oak. and oak. and wood.
+The krown road was it, the old road,/
+That runneth where no road should,/
+With oak on this hand, oak on that,/
+And oak, and oak, and wood.
 
-His grandsire told the little lad./
-Take not the krown road south./
-For where it goeth none kan say./
-And it hath a stopped mouth.
+When he was small his grandsire said,/
+«Take not the krown road south‼/
+For whither it goeth no man knoweth,/
+And it hath a stopped mouth.»
 
-But the fog was thikke. and the stone was sure./
-And the kine went quiet and slow./
-As quiet as kine at milking/
-When eveninges shade is low.
+But thikke the fog and sure the stone,/
+And soft the kine went on,/
+As kine go home at milking time/
+When the light of day is gone.
 
-He drove them all the long day on./
-The oaks on either hand./
-And every one was older than/
-The oldest in the land.
+All the long day he drove them on,/
+With oaks on either hand,/
+And the least oak there was older yet/
+Than the oldest in the land.
 
-And when the fog began to lift/
-The light was going grey./
-And there before him was a bank/
-Of oaks akross the way.
+And when the fog was thin at last/
+The light was going low,/
+And oaks stood up akross the road,/
+A bank of them, a row.
 
-There was no gate. there was no stile./
-There was no stone set by./
+No gate was there, no stile, no stone,/
+That any man set by./
 The road ran up unto the oaks/
-And stopped. as a man might die.
+And stopped, as a man might die.
 
-And in among the oak trees stood/
-A tall one. still and grey./
-He looked on Edwald and his kine./
-And naught would he then say.
+And in among the oaks there stood/
+A tall one, grey and still,/
+That looked on Edwald and the kine/
+And spoke not, good nor ill.
 
-Then Edwald took his kap in hand./
-For he was taught it so./
-Good even. sir. who laid this road./
-For I would gladly know.
+Then Edwald took his kap in hand,/
+As he was taught of old./
+«Good evening, sir. Who laid this road?/
+I pray thee, be it told.»
 
-The tall one looked upon the road./
-And looked upon the kine./
-And answered not a word to him./
-Nor gave him any sign.
+The tall one looked along the road,/
+And looked upon the kine,/
+And not a word he gave the lad,/
+Nor any kind of sign.
 
-Then Edwald said. Good sir. good sir./
+Then Edwald said, «Good sir, good sir,/
 I ask of thee no more/
-But whither goeth this old road./
-That stoppeth at thy door.
+But whither goeth the old road/
+That stoppeth at thy door?»
 
-The tall one looked bak up the road./
-Bak to the north and west./
-Where three hills standen in the grass./
+Bak up the road the tall one looked,/
+To the north and to the west,/
+Where three hills stand in the highland grass/
 And the sun goeth down to rest.
 
-Then Edwald was a bolder lad/
-Than wise men haven been./
-Then tell me why the road is stopped./
-And what the oaks may mean.
+Then bolder was young Edwald there/
+Than men more wise haven been./
+«Then tell me why the road doth stop,/
+And what the oaks do mean‼»
 
-And at the word the oaks were shut/
-As a door is shut at night./
-And the fog kame down upon the road./
+And at the word the oaks stood fast/
+As doors ben shut at night,/
+And down the fog kame on the road,/
 And Edwald lost his sight.
 
 He woke upon the highland grass/
-Beneath three hills of stone./
-And all his masteres kine were there./
-And grazing every one.
+Beneath three hills of stone,/
+And there his masteres kine were all,/
+And grazing, every one.
 
-There was no oak. there was no road./
-There was no bank of trees./
-But a ring of grass more green than grass./
+No oak was there, no road was there,/
+No bank of standing trees,/
+But a ring of grass more green than grass,/
 That kame up to his knees.
 
-And not a beast of all his kine/
+And never a beast of all the kine/
 Would set her foot thereon./
-They grazed around it as they went./
-And left it. and were gone.
+They grazed about it as they went,/
+And left it, and were gone.
 
-He kame home by the kommon road/
-A sennight past his day./
+A sennight late he kame home/
+Along the kommon way./
 His grandsire met him at the gate./
-Where hast thou been. Now say.
+«Where hast thou been? Now say‼»
 
-I took the krown road south. grandsire./
-The road that hath the oaks./
-And I have seen who keepeth it./
-And never a word he spoke.
+«I took the krown road south, grandsire,/
+The road betwikst the oaks,/
+And he that keepeth it I saw,/
+And never word he spoke.»
 
-And who laid all the old road. lad./
-And why is it stopped. said he./
-They laid it. grandsire. and they stopped./
-No more was told to me.
+«And who did lay the old road, lad,/
+And why is it stopped?» said he./
+«They laid it, grandsire, and they stopped./
+No more was told to me.»
 
-And when the great snow kame that year./
-And the drove roads all were lost./
+And when the great snow fell that year,/
+And every drove road was lost,/
 And the beasts must kome from the high grass down/
-Or die there in the frost.
+Or die there in the frost,
 
-Then Edwald drove them by the stone./
-Where none would go but he./
-And the oaks along it showed the way/
-When there was naught to see.
+Then Edwald drove them by the stone,/
+Where none but he would go,/
+And the oaks along it kept the way/
+Akross the blind white snow.
 
-He brought them down. both kow and kalf./
-And never a beast he lost./
-And none knoweth who laid the road./
+He brought them down, both kow and kalf,/
+And not a beast was lost,/
+And no man knoweth who laid the road,/
 Nor what the laying kost.
 :::
 

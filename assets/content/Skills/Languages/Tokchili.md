@@ -101,6 +101,12 @@ data:
       gloss: "a Mound Chief; the Noble who holds a town from the house on its mound"
       built: ["pokta", "imala"]
       source: {kind: coined}
+    - form: wasilo
+      class: n
+      field: "Rank and office"
+      gloss: "a carrier; a runner who carries a coal or a message"
+      built: ["wasa", "-ilo"]
+      source: {kind: coined}
     - form: tasko
       class: n
       field: "The stone game and war"
@@ -126,6 +132,12 @@ data:
       field: "The dead"
       gloss: "one who walks with a dead Sun; a funeral attendant who dies with the Sun"
       built: ["tiwa", "-ilo"]
+      source: {kind: coined}
+    - form: iklilo
+      class: n
+      field: "The dead"
+      gloss: "a knower; one called by a dream or an illness to cure, divine and deal with what lies under the river"
+      built: ["ikla", "-ilo"]
       source: {kind: coined}
     - form: koyo
       class: n
@@ -5561,8 +5573,13 @@ data:
     pattern: ["{given}"]
     given:
       female:
+        - "alisaya"
+        - "alopika"
         - "chikoke"
         - "fayanna"
+        - "fochika"
+        - "hayika"
+        - "hoyalaya"
         - "hoyani"
         - "ichasa"
         - "ikohe"
@@ -5574,21 +5591,29 @@ data:
         - "lahile"
         - "ohomi"
         - "onka"
+        - "osakika"
         - "pahese"
+        - "pihkaya"
         - "pishaya"
         - "sastoma"
         - "shayowa"
         - "shimaya"
         - "tahe"
+        - "tasokapa"
         - "tinkapi"
+        - "tokchisa"
         - "yakaska"
       male:
         - "ammafe"
         - "apiyo"
         - "chasise"
+        - "hokpako"
         - "ikinko"
         - "ikoho"
         - "ipasho"
+        - "itakisa"
+        - "kalamako"
+        - "kiyako"
         - "koshali"
         - "lapali"
         - "lilanki"
@@ -5601,7 +5626,122 @@ data:
         - "shiko"
         - "sohiyo"
         - "tamoska"
+        - "tikpolako"
         - "tiloho"
+        - "tokchasko"
+        - "yohakasko"
+  elements:
+    - {form: hay-, position: opening, kind: given, sense: the sun, word: hayo, examples: [hayika]}
+    - form: tokch-
+      position: opening
+      kind: given
+      sense: fire
+      word: tokchi
+      examples: [tokchasko, tokchisa]
+    - {form: osak-, position: opening, kind: given, sense: maize, word: osaki, examples: [osakika]}
+    - {form: kiy-, position: opening, kind: given, sense: a falcon, word: kiyo, examples: [kiyako]}
+    - form: hokp-
+      position: opening
+      kind: given
+      sense: the river
+      word: hokpa
+      examples: [hokpako]
+    - form: alop-
+      position: opening
+      kind: given
+      sense: a deer
+      word: alopa
+      examples: [alopika]
+    - form: kalam-
+      position: opening
+      kind: given
+      sense: a bear
+      word: kalamo
+      examples: [kalamako]
+    - form: yohak-
+      position: opening
+      kind: given
+      sense: a panther
+      word: yohaka
+      examples: [yohakasko]
+    - form: alis-
+      position: opening
+      kind: given
+      sense: the moon
+      word: alisa
+      examples: [alisaya]
+    - form: foch-
+      position: opening
+      kind: given
+      sense: a star
+      word: fochi
+      examples: [fochika]
+    - form: itak-
+      position: opening
+      kind: given
+      sense: a tree
+      word: itako
+      examples: [itakisa]
+    - form: pihk-
+      position: opening
+      kind: given
+      sense: a canoe
+      word: pihko
+      examples: [pihkaya]
+    - form: tasok-
+      position: opening
+      kind: given
+      sense: a bird
+      word: tasoki
+      examples: [tasokapa]
+    - form: tikpol-
+      position: opening
+      kind: given
+      sense: thunder
+      word: tikpola
+      examples: [tikpolako]
+    - form: hoyal-
+      position: opening
+      kind: given
+      sense: the wind
+      word: hoyali
+      examples: [hoyalaya]
+    - form: -ako
+      position: closing
+      kind: given
+      sense: "is strong; a boy's ending"
+      word: ako
+      examples: [kiyako, kalamako, hokpako, tikpolako]
+    - form: -asko
+      position: closing
+      kind: given
+      sense: "is great; a boy's ending"
+      word: hasko
+      examples: [tokchasko, yohakasko]
+    - form: -ika
+      position: closing
+      kind: given
+      sense: "sees; a girl's ending"
+      word: ika
+      examples: [hayika, osakika, alopika, fochika]
+    - form: -aya
+      position: closing
+      kind: given
+      sense: "goes; a girl's ending"
+      word: aya
+      examples: [alisaya, pihkaya, hoyalaya]
+    - form: -apa
+      position: closing
+      kind: given
+      sense: "hopes; a girl's ending"
+      word: apa
+      examples: [tasokapa]
+    - form: -isa
+      position: closing
+      kind: given
+      sense: "gives; for a boy or a girl"
+      word: isapa
+      examples: [tokchisa, itakisa]
   sounds:
     stress: {two: first, longer: penultimate, mark: acute}
     edges:
@@ -5654,40 +5794,87 @@ data:
     - {tag: "exonym:<tongue>", meaning: "a name another people gives, in the tongue named"}
   register:
     - {name: amosi, tongue: tokchili, built: ["amosi"]}
+    - {name: apiyo, tongue: tokchili}
+    - {name: Ash, tongue: translation}
+    - {name: Calling of Thunder, tongue: translation}
+    - {name: chasise, tongue: tokchili}
+    - {name: Coal Bearer, tongue: translation}
+    - {name: Dark Water, tongue: translation}
+    - {name: Eastern Mothers, tongue: translation}
+    - {name: Eastern Sun, tongue: translation}
     - {name: Falcon Chief, tongue: translation}
+    - {name: Falcon Mound, tongue: translation}
+    - {name: Fire-Bringer, tongue: translation}
+    - {name: Fire-Keeping, tongue: translation}
     - {name: Funeral of the Hundred, tongue: translation}
+    - {name: Going to the River, tongue: translation}
+    - {name: Great Shell, tongue: translation}
     - {name: Great Sun, tongue: translation}
     - {name: hayo, tongue: tokchili, built: ["hayo"]}
     - {name: hayo hanna, tongue: tokchili, built: ["hayo", "hanna"]}
     - {name: hayo hasko, tongue: tokchili, built: ["hayo", "hasko"]}
     - {name: hayo pokta, tongue: tokchili, built: ["hayo", "pokta"]}
+    - {name: hokpa hosa, tongue: tokchili, built: ["hokpa", "hosa"]}
+    - {name: hokpa sompiliha, tongue: tokchili, built: ["hokpa", "sompiliha"]}
     - {name: hoyani, tongue: tokchili}
     - {name: ichasa, tongue: tokchili}
+    - {name: ikinko, tongue: tokchili}
+    - {name: iklilo, tongue: tokchili, built: ["ikla", "-ilo"]}
+    - {name: ikoho, tongue: tokchili}
     - {name: ilampo, tongue: tokchili, built: ["ilampo"]}
+    - {name: ipasho, tongue: tokchili}
+    - {name: ishochi, tongue: tokchili, built: ["ishochi"]}
+    - {name: kachima, tongue: tokchili}
     - {name: Keeper of the Fire, tongue: translation}
     - {name: Keeper of the Yard, tongue: translation}
+    - {name: kelkawa, tongue: tokchili}
     - {name: kiyo imala, tongue: tokchili, built: ["kiyo", "imala"]}
+    - {name: kiyo pokta, tongue: tokchili, built: ["kiyo", "pokta"]}
+    - {name: koyalo koyoli, tongue: tokchili, built: ["koyalo", "koyoli"]}
+    - {name: koyalo lintako, tongue: tokchili, built: ["koyalo", "lintako"]}
+    - {name: koyo hasko, tongue: tokchili, built: ["koyo", "hasko"]}
     - {name: koyo imala, tongue: tokchili, built: ["koyo", "imala"]}
     - {name: lapali, tongue: tokchili}
+    - {name: Last Shore, tongue: translation}
+    - {name: liyahi, tongue: tokchili}
+    - {name: lofamme, tongue: tokchili}
     - {name: Mound Chief, tongue: translation}
+    - {name: naksochi, tongue: tokchili}
     - {name: New Fire, tongue: translation}
     - {name: Old Mound, tongue: translation}
+    - {name: Old Ranges, tongue: translation}
     - {name: omika, tongue: tokchili, built: ["omika"]}
     - {name: opahiko, tongue: tokchili}
+    - {name: Other Fire, tongue: translation}
+    - {name: otoki, tongue: tokchili}
     - {name: pakalo, tongue: tokchili}
     - {name: pokta hoshalo, tongue: tokchili, built: ["pokta", "hoshalo"]}
+    - {name: poktasko hoshalo, tongue: tokchili, built: ["poktasko", "hoshalo"]}
     - {name: poktimala, tongue: tokchili, built: ["pokta", "imala"]}
+    - {name: River Valley, tongue: translation}
     - {name: sakko hapilo, tongue: tokchili, built: ["sakko", "hapilo"]}
     - {name: Shell Chief, tongue: translation}
+    - {name: Shell Coast, tongue: translation}
+    - {name: Shell Fair, tongue: translation}
     - {name: Shell Promise, tongue: translation}
     - {name: shimaya, tongue: tokchili}
+    - {name: sohiyo, tongue: tokchili}
     - {name: Sun Mother, tongue: translation}
+    - {name: tako wasilo, tongue: tokchili, built: ["tako", "wasilo"]}
     - {name: tamoli, tongue: tokchili, built: ["tamoli"]}
     - {name: tamoska, tongue: tokchili}
+    - {name: tiloho, tongue: tokchili}
+    - {name: tinkapi, tongue: tokchili}
     - {name: tokchi aska, tongue: tokchili, built: ["tokchi", "aska"]}
     - {name: tokchi falisi, tongue: tokchili, built: ["tokchi", "falisi"]}
+    - {name: tokchi hapaka, tongue: tokchili, built: ["tokchi", "hapa", "-ka"]}
     - {name: tokchi hapilo, tongue: tokchili, built: ["tokchi", "hapilo"]}
+    - {name: tokchi hinchaka, tongue: tokchili, built: ["tokchi", "hinchaka"]}
     - {name: tokchili, tongue: tokchili, built: ["tokchi", "-li"]}
+    - {name: Two Rivers, tongue: translation}
+    - {name: Water Panther, tongue: translation}
+    - {name: wiko pihipo, tongue: tokchili, built: ["wiko", "pihipo"]}
+    - {name: wiko yohaka, tongue: tokchili, built: ["wiko", "yohaka"]}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -5802,7 +5989,7 @@ The parallel readings on these pages transcribe speech. They use the editorial p
 
 ## Naming Traditions
 
-A child is named at the first New Fire after its birth by its mother's brother, who chooses the name and owns the right to change it. A boy's name commonly ends in _-o_ and a girl's in _-a_ or _-i_, but nothing forbids the other ending. A man earns a war name for a deed, and a war name replaces his child's name in public. Nobody uses a Sun's child name after the Sun takes office; a Great Sun is addressed as _Hayo Hasko_ (Great Sun) and spoken of by the name of his mound.
+A child is named at the first New Fire after its birth by its mother's brother, who chooses the name and owns the right to change it. A boy's name commonly ends in _-o_ and a girl's in _-a_ or _-i_, but nothing forbids the other ending; [Making names](#making-names) gives the parts a new name is built from. A man earns a war name for a deed, and a war name replaces his child's name in public. Nobody uses a Sun's child name after the Sun takes office; a Great Sun is addressed as _Hayo Hasko_ (Great Sun) and spoken of by the name of his mound.
 
 Clans are counted through the mother, and each is named for a beast or a power: the Wind (_hoyali_), the Bird (_tasoki_), the Deer (_alopa_), the Bear (_kalamo_) and the Panther (_yohaka_) are the five largest. A clan name is never part of a personal name, and a stranger who asks a person's clan is asking whom the person may marry.
 
@@ -5925,9 +6112,18 @@ ORDER BY position
 
 ## Making names {#making-names}
 
-**A person** carries one given name, and a man who earns a war name carries that instead. The name lists hold the names in use.
+**A person** carries one given name, and a man who earns a war name carries that instead. The name lists hold the names in use, among them many old names whose parts nobody can take apart, such as _Hoyani_ and _Opahiko_.
 
-**A place** is named by a possessor and what it owns, or by a noun and the word that describes it: _Hayo Pokta_ is the Sun's Mound, and _Pokta Hoshalo_ is the Old Mound.
+A new given name is built the way a mother's brother builds one at the New Fire: a thing of the sky, the river or the woods, then what it does. The thing is the word with its last vowel taken off, and the ending begins with a vowel, so the two join cleanly. _Kiyo_ (falcon) and _-ako_ (is strong) make _Kiyako_, Falcon Is Strong. _Alisa_ (moon) and _-aya_ (goes) make _Alisaya_, the Moon Goes. The endings _-ako_ and _-asko_ make boys' names, _-ika_, _-aya_ and _-apa_ make girls' names, and _-isa_ (gives) serves for either. A war name is built the same way from the deed: a man who brought back a captive in a storm might be _Tikpolako_, Thunder Is Strong.
+
+```sql
+SELECT '`' || form || '`' AS "Element",
+       CASE element_position WHEN 'opening' THEN 'first' WHEN 'closing' THEN 'last' ELSE element_position END AS "Stands",
+       sense AS "Sense", array_to_string(examples, ', ') AS "Example"
+FROM elements WHERE language = 'thalorna-note-skill-tokchilng' ORDER BY position
+```
+
+**A place** is named by a possessor and what it owns, or by a noun and the word that describes it: _Hayo Pokta_ is the Sun's Mound, and _Pokta Hoshalo_ is the Old Mound. Most towns are named for what stands there or what the town is known for: _Hokpa Hosa_ is Two Rivers, _Koyo Hasko_ the Great Shell, _Kiyo Pokta_ the Falcon Mound, and _Koyalo Lintako_ the Last Shore. A country is named the same way, as _Hokpa Sompiliha_, the River Valley. A town may also carry a name others gave it, as _Tokchi Hinchaka_, the Other Fire, and _Ishochi_, Ash, both do.
 
 **An office** is named the same way, by the thing kept or led and the word for keeper or chief: _Tokchi Hapilo_, the Keeper of the Fire, and _Koyo Imala_, the Shell Chief.
 

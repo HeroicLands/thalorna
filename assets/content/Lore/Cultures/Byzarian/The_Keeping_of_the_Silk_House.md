@@ -22,353 +22,468 @@ The silk house of [[place-khryshteikhos2|Krusteikhos]] took its name from the tr
 : The Keeping of the Silk House {#lament}
 
 ::: {.verse form=lament lang=en work=lament}
-Keeper, I have brought the money. The count is right. Count it again./
-.Here are last year's receipt, the one before it, and the first./
-Write my words in the margin, the way your clerks write at renewal./
-.Little of what I say will fall outside the numbers. Write those clearly./
-Open the chamber door. I hold one key. You hold the other./
-.Two keys, keeper, open the door. That is our oldest binding term./
-Who tends the keeping when the keeper enters it?
+Keeper, I have brought the coin. It is counted. Count it again./
+.Here is the receipt from last year, and the year before, and the first./
+Write what I say in the margin, as your clerks write at a renewal./
+.I will not say much that is not a number. Write the numbers plain./
+Open the door of the chamber. I have the key. You have the other./
+.Two keys, keeper, and the door opens. That is the oldest term we have./
+Who keeps the keeping, when the keeper is kept?
 
-Begin with the lintel, in its reading order. The founder's name stands highest./
-.A deep inscription, the stone cutter paid, the house die set in stone./
-He was the first to finish silk in the city. The thread came from the east./
-.Bales crossed the heights wrapped in felt and went to the sea in linen./
-The assessors gave his house its name and would not alter its ending./
-.He never asked them to. Silk was his responsibility. Silk it remained./
-His wife lies below him. She kept the books after his sight failed./
-.Their son brought dyers from the coast and paid twice their asking price./
-That son's wife lent at a third, received nothing, and forgave it before witnesses./
-.Their two sons. Fever took one. The road took the other./
-I read the lintel every year. I had none of those names cut./
-.Who tends the keeping when the keeper enters it?
+The lintel first, as the lintel is read: the founder's name at the top,/
+.cut deep, the cutter paid, the die of the house set into the stone./
+He finished the first silk in the city, the thread from the east,/
+.the bales that came over the pass in felt and went down to the sea in linen./
+The assessors granted his house its name, and would not change the ending,/
+.and he did not ask them to. Silk was what he answered for. Silk it was./
+His wife under him, who kept the books when his eyes went./
+.Their son, who brought the dyers up from the coast and paid them twice what they asked./
+That son's wife, who lent at a third and was never paid, and wrote it off before witnesses./
+.Their sons, the two of them, one of the fever, one of the road./
+I read the lintel. I have read it every year. I did not cut one name of it./
+.Who keeps the keeping, when the keeper is kept?
 
-Now my people. Keeper, the second row's stone is new. I hired its cutter./
-.Zighahr. The balance. His name suited him./
-He weighed silk at the warehouse door on a balance inherited from his father./
-.He would allow no clerk to do it. He would not allow me./
-.All his days he weighed accurately. The bales left their smell on his hands./
-His debts: the dyer on the fourth street, for the spring shipment of indigo;/
-.the weavers' house, for a loom he had broken and already paid for;/
-.the temple of the [[affiliation-sacredforge|Forge]], for a lamp he had promised but never brought./
-Debts to him: the [[place-karvashion2|Karvashion]] factor, for nine bales of the second grade;/
-.his brother's widow, nothing. He had lent much and forgave it on his bed./
-He spoke the settlement aloud. I held his hand as he spoke./
-.He called for payment on the nine bales and acknowledged the indigo and the lamp./
-The Forge priest wrote it down. The witnesses sealed it. He said,/
-.The account is shut. Then he requested water. I gave it. He died./
-I paid the dyer and delivered the lamp. The factor paid for the nine bales that spring./
-.His account is shut, keeper. I shut it. I hold the receipts./
-I have shut nothing else. The balance stands on its shelf at the warehouse door./
-.No one has weighed with it. Put that in the margin. A number: none./
-Who tends the keeping when the keeper enters it?
+Now my own. Keeper, the stone of the second row is new, and the cutter was mine./
+.Zighahr. The balance. That is his name, and he was named well./
+He weighed the silk at the warehouse door with a balance he had from his father,/
+.and he would not let a clerk do it, and he would not let me do it,/
+.and he weighed it right every day of his life, and his hands smelled of the bales./
+He owed: the dyer of the fourth street, for the indigo, the spring consignment;/
+.the house of the weavers, for the loom he broke, which he had already paid;/
+.the temple of the [[affiliation-sacredforge|Forge]], a lamp, which he had promised and not brought./
+He was owed: by the factor in [[place-karvashion2|Karvashion]], the price of nine bales, at the second grade;/
+.by his brother's widow, nothing, though he lent her much; he wrote it off on the bed./
+He settled it aloud. I held his hand while he settled it./
+.He called in the nine bales and owned the indigo and the lamp,/
+and the priest of the Forge wrote it, and the witnesses sealed, and he said:/
+.the account is closed. Then he asked for water, and I gave it, and he died./
+I paid the dyer. I brought the lamp. The factor paid the nine bales in the spring./
+.His account is closed, keeper. I closed it. I have the receipts./
+I have not closed anything else. The balance is on the shelf at the warehouse door./
+.Nobody has weighed on it. Write that in the margin. It is a number: none./
+Who keeps the keeping, when the keeper is kept?
 
-Kreniza. The spring. Our daughter. The small stone ending the second row./
-.Five years old, counting yard bales in a voice like a bell./
-Her count was wrong. Her father let it stand; no clerk ever got that permission./
-.She owed nothing. Write it. Nothing whatever./
-Everything was owed to her, keeper. Her payment was four years and some months./
-.Fever came in a summer of low river water. The physicians came./
-They named the defect clearly, as physicians ought. I thanked them./
-.I did not thank them. Write that I did. Those were the words spoken./
-There is no account to shut. A child has no account. She has a keeping./
-.I paid hers together with her father's and grandfather's, in one whole payment./
-A child's keeping costs as much as a man's. You have never asked me for less./
-.I never asked you to. Who tends the keeping when the keeper enters it?
+Kreniza. The spring. Our daughter. The little stone at the end of the second row./
+.She was five, and she counted the bales in the yard in a voice like a bell,/
+and she counted wrong, and her father let her, who never let a clerk count wrong in his life./
+.She owed nothing. Write that. She owed nothing at all./
+She was owed everything, keeper, and she was paid four years and some months./
+.A fever, in the summer the river was low. The physicians came./
+They stated the defect plainly, as a physician should. I thanked them for it./
+.I did not thank them. Write that I thanked them. That is what was said./
+There is no account to close. A child has no account. She has a keeping./
+.I have paid it with her father's and her grandfather's, all in one sum./
+A child's keeping costs the same as a man's, keeper. You have never charged me less./
+.I did not ask you to. Who keeps the keeping, when the keeper is kept?
 
-Ánevazur. The wind. My son. The niche ending the row, with nothing inside./
-.He took the spring bales down to Nesthiros,/
-silk for the west, on a hired ship, through the straits./
-.A land wind rose on the second night. The ship did not return./
-They found its boat on rocks and one of our bales on the shore./
-.The house mark was burned into the linen. Salt had spoiled the silk./
-I paid the salvage charge, keeper. That bale is in my warehouse./
-.They never found him. The sea maintains nobody's accounts. The sea never closes them./
-That summer I came here and asked your council what is kept when there is nothing./
-.The council answered, A name can be kept. Bring his name./
-I brought it. I paid the cutter, the niche, and the rite./
-.You spoke the rite over a name and an empty shelf. I stood here listening./
-Every year since, I have paid the whole rate for that empty shelf./
-.The untended dead remain in debt. I will not let my son owe./
-His debts: the ship's hire, which I paid. The venture partners paid their third of the cargo./
-.What he was owed: an autumn wife. Her family returned the dowry document./
-They were right. I would have done the same. I sent them a bale of spoiled silk./
-.They had asked for something belonging to him. That was all I had./
-Keeper, who tends the keeping of a man the sea holds?/
-.Who tends the keeping when the keeper enters it?
+Ánevazur. The wind. My son. The niche at the end of the row, and nothing in it./
+.He went down to Nesthiros with the house's bales, the spring consignment,/
+the silk for the west, in a ship of our hiring, out through the straits,/
+.and the wind came off the land the second night, and the ship did not come in./
+They found the ship's boat on the rocks. They found a bale of ours on the shore,/
+.the mark of the house burned in the linen, and the silk ruined with salt,/
+and I paid the salvage on it, keeper, and I have the bale in the warehouse./
+.They did not find him. The sea keeps nobody's accounts. The sea does not close./
+I came here that summer and asked your council: what is kept, when there is nothing to keep?/
+.The council said: a name can be kept. Bring the name./
+So I brought it, and paid the cutter, and paid the niche, and paid the rite,/
+.and you said the rite over a name and an empty shelf, and I stood here and heard it,/
+and I have paid for an empty shelf every year since, at the full rate,/
+.because the dead who are not kept go on owing, and I will not have him owe./
+He owed: the hire of the ship, which I paid. The partners in the venture paid their third of the cargo./
+.He was owed: a wife, who was to be his in the autumn. Her family returned the dowry-paper./
+They were right to. I would have. I sent them a bale of the ruined silk,/
+.because they asked for something of his, and I had nothing of his but that./
+Keeper, who keeps a keeping for a man the sea has?/
+.Who keeps the keeping, when the keeper is kept?
 
-Keeper, I married at the [Thresholds]{.name data-type="lore/gathering" lang=en}. You know the custom. Write it down anyway./
-.At the year's turning, spouses go down with merchants and craft masters./
-The temple witness reads their vow again. Both spouses seal it again./
-.The clerk enters it under the year, as the gods renew the world./
-Twenty-six times I went down beside Zighahr on the turning morning,/
-.in the cold and the ringing bells, the house papers beneath his arm./
-At one table he renewed the house bonds; at the next, our vow./
-.He read the vow like a bond, one clause followed by another, taking his time./
-Once the witness said he had never heard a vow read with such precision./
-.Zighahr said, This is the only bond I have that has never turned against me./
-This year I went alone. The witness asked what I had come to renew./
-.The house bonds, I said. And the other? he asked. I said there was no other./
-He wrote, Vow unrenewed; husband in keeping. That is the binding wording./
-.He wrote it with kindness. Put it here in the margin too. A number: one.
+Keeper, I was a bride at the [Thresholds]{.name data-type="lore/gathering" lang=en}. You know the custom. Write it anyway./
+.On the turning morning the spouses go down with the merchants and the masters,/
+and the temple's witness reads the vow over, and the two seal it again,/
+.and the clerk writes it in the record under the year, as the gods renew the world./
+Twenty-six times I went down with Zighahr on the turning morning,/
+.in the cold, with the bells going, with the papers of the house under his arm,/
+and he renewed the house's bonds at one table and our vow at the next,/
+.and he read the vow as he read a bond, clause by clause, and did not hurry it,/
+and the witness said once that he had never heard a vow read so exactly,/
+.and Zighahr said: it is the only bond I hold that has never turned against me./
+This year I went down alone. The witness asked me what I had come to renew./
+.I said: the house's bonds. He asked me: and the other? I said there was no other./
+He wrote: the vow unrenewed, the husband being kept. That is the term for it./
+.He wrote it kindly. Write it here too, keeper, in the margin. It is a number: one.
 
-On the night of black candles, when the [Silent Passage]{.name data-type="lore/gathering" lang=en} ends,/
-.your temples are closed to us; the priests recite the rites inside./
-I place candles in the house windows on the weavers' street./
-.Custom gives each lintel name a candle, in the lintel's order./
-The street can count them from below. The street does count them./
-.Eleven windows face it. Nine names need candles./
-I could not place the ninth for an empty shelf. Then I placed it./
-.I could not place one for myself. Then I wondered who would do it next year./
-At each window I spoke the names aloud into darkness, as custom requires./
-.No one in the house answered. No one was there./
-Only the old porter stood on the stair, repeating the names after me./
-.He has heard them every year since coming here. He knows them. He is outside the house./
-I offered payment for that night. He refused it. Write that refusal./
-.Who tends the keeping when the keeper enters it?
+And on the night of the black candles, at the end of the [Silent Passage]{.name data-type="lore/gathering" lang=en},/
+.when your temples are shut to us and the priests are saying the rites inside,/
+I set the candles in the windows of the house on the street of the weavers,/
+.a candle for every name on the lintel, as the custom is, in the lintel's order,/
+and the street could count them from below, and the street did count them./
+.Eleven windows the house has to the street, and nine names to set candles for,/
+and I could not set the ninth, for an empty shelf, and then I did,/
+.and I could not set one for myself, and then I thought: next year, who sets it?/
+I spoke the names aloud, at each window, to the dark, as the custom is,/
+.and nobody in the house answered, because there was nobody in the house,/
+only the porter, who is old, and who stood on the stair and said the names after me,/
+.because he has heard them every year since he came, and knows them, and is not of the house./
+I paid him for the night. He would not take it. Write that: he would not take it./
+.Who keeps the keeping, when the keeper is kept?
 
-Now myself. I have reached the row's end. My place is already cut./
-.Beside Zighahr, as agreed. Your chest holds that agreement./
-When I am there, keeper, who walks up the road carrying money?/
-.The house has no son, no daughter, no brother's son./
-Its name ends with me. The assessors will not give it to a stranger./
-.I would never ask them. They would refuse and be right to refuse./
-A house without an heir is a page in the gods' ledger that no one reads./
-.I know the hymn. Since my marriage I have sung its refrain at the Thresholds./
-The endowment I pay today lasts for the years my payment covers./
-.Then it ends. Your clerk writes, Unrenewed. You shut the door./
-The silk house becomes a chamber behind a shut door, with nobody's money./
-.The founder's die stays in the stone. No one reads the lintel in autumn./
-The empty niche ending the row becomes empty twice./
-.That is the terror, keeper. You know it. Every day you sell protection against it./
-Who tends the keeping when the keeper enters it?
+And now myself. I have come to the end of the row. There is a place cut for me./
+.It is next to Zighahr's, as was agreed, and the agreement is in your chest./
+When I am there, keeper, who comes up the road with the coin?/
+.The house has no son. The house has no daughter. The house has no brother's son./
+The name of the house ends with me. The assessors will not give it to a stranger,/
+.and I would not ask them, and they would refuse, and they would be right./
+A house with no heir is a page in the gods' book that no one reads./
+.I know the hymn. I have sung the refrain at the Thresholds since I was a bride./
+The endowment I am paying today runs for the years I have paid it for./
+.Then it runs out. Then your clerk writes: unrenewed. Then you close the door./
+Then the house of the silk is a chamber with a closed door and nobody's coin,/
+.and the founder's die in the stone, and nobody reads the lintel in the autumn,/
+and the empty niche at the end of the row is empty twice./
+.That is the dread, keeper. You know it. You sell against it every day./
+Who keeps the keeping, when the keeper is kept?
 
-Hear the house's property, keeper, since the house is paying. Write an itemized schedule./
-.The house on the weavers' street: eleven windows, the porter's room, the yard./
-The warehouse at the lower end, including its door and its balance./
-.Within it, forty bales of the first grade and sixty of the second./
-Third grade in a heap, as it is sold. I have not counted the heap./
-.One first-grade bale spoiled by salt, excluded from sale./
-The house's share in the weavers' looms: one third of nine./
-.Debts to the house: the Karvashion factor, this year's bales, payable at term;/
-the fourth-street dyer, now owing us for a loan as we once owed him./
-.The house's debts: none. Write none. I have arranged it./
-The house die in my hand. The founder's die in your stone./
-.All of it for sale at its actual grade, every defect declared,/
-except the salt-spoiled bale, the balance, and the porter's room./
-.The total goes into your chest for the chamber's perpetual keeping,/
-at your council's rate. I have asked the rate. It is fair./
-.The keeping lasts as long as the money, and that money lasts a long time./
-But money is no keeper. It lasts without speaking names./
-.Money sets no candles. Money never walks the autumn road./
-A keeping maintained only by payment has no one tending it./
-.Who tends the keeping when the keeper enters it?
+Hear what the house has, keeper, since the house is paying. Write it as a schedule./
+.The house on the street of the weavers, eleven windows, the porter's room, the yard./
+The warehouse at the bottom of the street, with its door and its balance./
+.In the warehouse: forty bales of the first grade, sixty of the second,/
+and the third grade by the heap, as it is sold, and I have not counted the heap./
+.One bale of the first grade, ruined with salt, which is not for sale./
+The looms the house has a share in at the weavers', a third of nine./
+.The debts owed to the house: the factor at Karvashion, for this year's bales, at term;/
+the dyer of the fourth street, who owes us now, as we once owed him, for a loan./
+.The debts the house owes: none. Write it: none. I have seen to it./
+The die of the house, in my hand. The die of the founder, in your stone./
+.All of it, keeper, sold at the grade it is, the defects declared,/
+the salt-ruined bale excepted, and the balance excepted, and the porter's room,/
+.and the sum laid in your chest as a keeping in perpetuity for the chamber,/
+at the rate your council sets, which I have asked, and which is just,/
+.so that the keeping runs as long as the coin runs, and the coin runs long./
+But coin is not a keeper. Coin runs, and does not speak the names./
+.Coin does not set the candles. Coin does not come up the road in the autumn./
+A keeping that is only paid is a keeping that nobody keeps./
+.Who keeps the keeping, when the keeper is kept?
 
-Now listen to why I came. Write every word in the margin./
-.In his last year my husband took an apprentice,/
-a plateau carter's son with no trade, who counted bales in our yard./
-.A boy with a bell voice, making mistakes. My husband allowed him, as he allowed her./
-His name is Nevarash. The new one. He is a journeyman weaver now./
-.He weighs at the warehouse door, using that balance. I said nobody had. I lied./
-I gave you none as the number. Rewrite it. The number is him./
-.Every incoming bale and every outgoing bale passes his accurate weighing./
-My husband wrote his indenture. An indenture is an adoption, keeper./
-.You know it. The guild knows. The register knows. The boy knows./
-He belongs to no part of our house. His own name is a carter's good name./
-.The assessors will not give him ours. Neither he nor I asks./
-I give him no house name. I give him the keeping.
+Now hear what I have come to say, and write it in the margin, every word./
+.My husband took an apprentice in the last year of his life,/
+the son of a carter of the plateau, who had no trade, who counted bales in our yard,/
+.a boy with a voice like a bell, and counted wrong, and my husband let him, as he let her./
+His name is Nevarash. The new one. He is a journeyman of the weavers now./
+.He weighs at the warehouse door. He weighs on the balance. I said nobody had. I lied./
+I told you the number was none. Write it again. The number is: him./
+.He weighs every bale that comes in and every bale that goes out, and he weighs them right./
+My husband wrote his indenture, and an indenture is an adoption, keeper./
+.You know it. The guild knows it. The register knows it. The boy knows it./
+He is not of the house. He has his own name, a carter's, a good one./
+.The assessors will not give him ours, and I do not ask them, and he does not./
+I do not give him the name. I give him the keeping.
 
-Keeper, write: Ruzhveleze of the silk house, its last member, before witnesses,/
-.names Nevarash, journeyman and her husband's apprentice, heir to the keeping/
-of the whole silk-house chamber in the city of the dead:/
-.lintel and founder, second row, small stone, empty niche,/
-and her prepared place when she occupies it, with money brought every autumn/
-.at the whole rate throughout his life, then by his apprentices after him;/
-all names spoken aloud on the night of black candles,/
-.following the lintel's order, the empty one last, including the empty one./
-Nevarash, come here. Set your seal beside mine. Press firmly. Harder. It is wax, not silk./
-.There. Two seals, keeper. Count them. Record the number: two.
+Keeper, write it: Ruzhveleze of the silk house, the last of it, before witness,/
+.names Nevarash the journeyman, her husband's apprentice, heir to the keeping/
+of the chamber of the house of the silk at the city of the dead, all of it:/
+.the lintel and the founder, the second row, the little stone, the empty niche,/
+and the place cut for her, when she is in it, with the coin each autumn,/
+.at the full rate, for as long as he lives and his apprentices after him,/
+and the names spoken aloud on the night of the black candles, all of them,/
+.in the order of the lintel, the empty one last, the empty one too./
+Nevarash, come here. Put your seal by mine. Press it. Harder. It is wax, not silk./
+.There. Two seals, keeper. Count them. Write the number: two.
 
-Write this last, small in the margin where a scribe leaves his mark:/
-.I asked who tends the keeping when the keeper enters it./
-A carter's son tends it. A boy who miscounted in the yard./
-.That is the answer. I wanted another answer. This is the answer./
-Shut the door now, keeper. I hold one key. He holds the other.
+And write this last, in the margin, small, where a scribe writes his mark:/
+.I asked who keeps the keeping, when the keeper is kept./
+A carter's son keeps it. A boy who counted wrong in the yard./
+.That is the answer. It was not the answer I wanted. It is the answer./
+Close the door now, keeper. I have the key. He has the other.
 :::
 
-::: {.verse form=lament lang=biza enc=bizahelonikaenc work=lament}
-Valzar, egh féranin nomisin. Aritmas ésharin ortelir. Toum aritmarin paler./
-.Enit zharvel er paretin eniautin, er eniautin prez hein, er meun eniautin./
-Toum zervarin retin er egh en zelvar, houm seketar er toum en nevrash./
-.Egh rétasin olighat pratin uf aritmas. Toum zervarin aritmas lefir./
-Toum anoigharin turin er dometin er tanor. Egh ekhárin kleitir. Toum ekhárin heter./
-.Drin kleitir, valzar. Turin anoigharin. Heum ésharin deshvel palaisir eil er plum heter./
-Tirm valzarin valzin, potet valzar ésharin en valzin.
+::: {.verse form=lament lang=biza enc=bizahelonikaenc work=lament scan=pentameter}
+Valzar, egh féranin nomisin. Aritmarin paler‼/
+.Enit zharvel er eniautin prez heum,/
+.koum zharvel prez hein, koum meun./
+Zervarin lékhisir er egh en zelvar, houm seketar‼/
+.Egh rétasin olighat uf aritmas. Zervarin lefir‼/
+Anoigharin turin er dometin‼ Egh ekhárin kleitir,/
+.toum heter. Drin kleitir, valzar,/
+turin anoigharin, palaisir deshvel er herin./
+Tirm valzarin valzin, potet valzar en valzin?
 
-Prinet lintar, houm herin darzarin lintar. Ónomir er arkhelar ésharin hut./
-.Zharvar ésharin bathir. Zharvarin ekhárin zharpin. Neshar er domin ésharin en litorin./
-Arkhelar pratarin teletin er meun charzil en pólitar. Nematin érkharin afor eotin./
-.Zalvin érkharin dres vezhnur en selvazh, prou tálimir en linvar./
-Merzhar dorasarin ónomir prel domin er heir. Merzhar uf allatarin teltin er ónomir./
-.Heir uf erotarin allatin. Heir ameitarin prel charzil. Hein ésharin charzil./
-Gemetira er heir ésharin katet. Heira valzarin kitvar potet oftelin er heir uf meltarin./
-.Huyir er helin féranin zhamvar afor limenis. Heir zharparin drin horat er posetin er oratin er helin./
-Gemetira er huyir danizh en meretin er trel. Heira uf lámbarin zharpin. Heira tetarin sepuz prez mervar./
-.Drin huyir er helin. Meun tanearin deir noselin. Heter tanearin en hodis./
-Egh darzarin lintar. Egh darzarin hein plum eniautin. Egh uf zharvarin meun ónomir./
-.Tirm valzarin valzin, potet valzar ésharin en valzin.
+Prinet lintar, houm darzar darzarin./
+.Ónomir er arkhelar hut, meun bathir zharvar,/
+zharvarin lámbarin zharpin, neshar en litorin./
+Pratarin charzil prinet plum en pólitar,/
+.nematin afor eotin, zalvin en selvazh/
+dres vezhrel, katet prou tálimir en linvar./
+Merzhar dorasarin ónomir prel domin,/
+.uf allatarin teltin, koum heir uf erotarin./
+Heir ameitarin prel charzil. Charzil menetarin./
+.Gemetira katet. Heira sotharin kitvar/
+potet oftelin er heir apolarin faelin./
+.Huyir féranin zhamvar afor frelin,/
+zharparin drinhorat teir helin erotarin./
+.Gemetira er huyir danizh en meretin er trel,/
+uf lámbarin, koum tetarin sepuz prez mervar./
+.Drin huyir er helin, meun en nosathin,/
+heter en hodis. Egh darzarin heum lintar/
+.plum eniautin. Egh uf zharvarin meun ónomir./
+.Tirm valzarin valzin, potet valzar en valzin?
 
-Nunet er egh. Valzar, litorin er drin zhalven ésharin nevar. Zharvarin ésharin er egh./
-.Zighahr. Zighir. Heum ésharin ónomir er heir. Ónomir ésharin ortelir./
-Heir zigharin charzil parza turin er ambarim frun zighir er tokhir er heir./
-.Heir uf dorasarin efir prel seketar. Heir uf dorasarin efir prel egh./
-.Heir zigharin ortelir plum hemerin er zelarin er heir. Keirin er heir ekhárin osmin er zalvin./
-Vardesh er heir. Zhamvar er hodis vesmor. Zhambel. Karvash er krenhar./
-.Domin er nemvar. Narzhel er heir klastarin. Heir edet zharparin hein./
-.Theshel er [Forge]{lang=en}. Lavzhel er heir hupeskharin. Heir uf féranin hein./
-Vardesh prel heir. Chelkar en Karvashion. Zharpin er 9 zalvin, morzan./
-.Keretira er adelir er heir. Medin. Heir danizh huthikanir prel heira. Heir tetarin sepuz en klinetin./
-Heir rétasin telvar taret. Egh ekhárin keirin er heir hoset heir rétasin./
-.Heir kaleitarin zharpin er 9 zalvin. Heir rétasin vardesh er zhambel er lavzhel./
-Iereshar er [Forge]{lang=en} zervarin. Mervar sfradarin. Heir rétasin./
-.Kitvar kleitarin. Toteir heir erotarin hidir. Egh dorasarin hein. Heir tanearin./
-Egh zharparin zhamvar. Egh féranin lavzhel. Chelkar zharparin 9 zalvin en krenhar./
-.Kitvar er heir kleitarin, valzar. Egh kleitarin hein. Egh ekhárin zharvel./
-Egh uf kleitarin hostin heter. Zighir ésharin en salzhel parza turin er ambarim./
-.Medinántimor zigharin frun hein. Toum zervarin heum en zelvar. Heum ésharin aritmas. Medin./
-Tirm valzarin valzin, potet valzar ésharin en valzin.
+Nunet er egh. Valzar, litorin er zhalven zikai/
+.esh nevar, koum zharvarin esh er egh./
+Zighahr. Zighir. Ónomir er heir, ortelir./
+.Heir zigharin charzil ern turin er ambarim/
+frun zighir er tokhir. Heir uf efarin seketar,/
+.uf efarin egh. Zigharin ortelir plum hemerin,/
+.keirin er heir ekhárin osmin er zalvin./
+Vardesh er heir. Zhamvar er hodis vesmor,/
+.prel zhambel, karvash er krenhar. Domin er nemvar,/
+.prel narzhel er heir klastarin, edet zharparin./
+.Theshel er Zirzhelir, prel lavzhel er heir hupeskharin,/
+.uf féranin. Heum esh vardesh er heir./
+Vardesh prel heir. Chelkar en Karvashion,/
+.zharpin er ennevir zalvin, en morz er morzan./
+Keretira er adelir er heir, medin,/
+.kaiet heir danizh huthikanir prel heira./
+Heir tetarin sepuz epir klinetin./
+.Heir rétasin telvar. Egh ekhárin keirin./
+Heir kaleitarin ennevir zalvin,/
+.rétasin vardesh er zhambel koum lavzhel./
+Iereshar er Zirzhelir zervarin, mervar sfradarin,/
+.koum heir rétasin, «Kitvar kleitarin.»/
+Erotarin hidir. Egh dorasarin. Heir tanearin./
+.Egh zharparin zhamvar. Egh féranin lavzhel prel theshel./
+Chelkar zharparin ennevir zalvin en krenhar./
+.Kitvar er heir kleitarin, valzar./
+Egh kleitarin hein. Egh ekhárin zharvel./
+.Egh uf kleitarin hostin heter. Zighir menetarin/
+.epir salzhel ern turin er ambarim etir./
+Medinántimor zigharin epir hein./
+.Zervarin‼ Heum esh aritmas. Medin./
+Tirm valzarin valzin, potet valzar en valzin?
 
-Kreniza. Krenir. Tighir er herin. Mikrir litorin en teltin er drin zhalven./
-.Heira ekhárin 5 eniautin. Heira aritmarin zalvin en darvel. Retin houm chirnal./
-Heira aritmarin uf ortelir. Tokhir er heira dorasarin efir. Heir medinkronin dorasarin efir prel seketar er uf ortelir aritmas./
-.Vardesh er heira ésharin medin. Toum zervarin heum. Vardesh er heira ésharin medin olashin./
-Vardesh prel heira ésharin plum, valzar. Zharpin er heira ésharin 4 eniautin, fom menetin./
-.Noselin. En therzin fótamir ésharin kamelir. Iatar ésharin enit./
-Helin rétasin zerpel lefir, houm iatar preitarin. Egh dorasirarin helin./
-.Egh uf dorasirarin helin. Toum zervarin egh dorasirarin helin. Heum ésharin retin./
-Vezh kitvar prel kleitarin. Tevir uf ekhárin kitvar. Tevir ekhárin valzin./
-.Egh zharparin hein frun valzin er tokhir er heira, er tokhir er heir. Meun olashin zharpin./
-Zharpin er valzin er tevir ésharin isetir frun er anerit, valzar. Toum medinkronin rétasin meitir zharpin./
-.Egh uf erotarin heum. Tirm valzarin valzin, potet valzar ésharin en valzin.
+Kreniza, krenir, tighir er herin, valzar./
+.Mikrir litorin ern teltin er zhalven zikai./
+Heira ésharin plem, aritmarin zalvin/
+.en darvel frun retin houm meun kelvash,/
+aritmarin uf ortelir. Tokhir efarin heira,/
+.er medinkronin efarin seketar en zelira er heir./
+Heira ekhárin medin vardesh. Zervarin‼/
+.Medin vardesh, valzar, medin olashin./
+Vardesh prel heira ésharin plunar, valzar,/
+.lámbarin vesmor eniautin koum fom menetin./
+Nosathin en therzin, potet fótamir kamelir./
+.Iatar érkharin, rétasin zerpin lefir,/
+houm iatar preitarin. Egh dorasirarin helin./
+.Egh uf dorasirarin. Zervarin, egh dorasirarin‼/
+Heum esh teir ésharin rétasin./
+.Vezh kitvar prel kleitarin. Tevir uf ekhárin kitvar./
+Heira ekhárin valzin. Egh zharparin hein/
+.frun tokhir, tokhir er tokhir, meun posetin./
+Valzin er tevir esh isetir er anerit./
+.Toum medinkronin erotarin meitir. Egh uf erotarin./
+.Tirm valzarin valzin, potet valzar en valzin?
 
-Ánevazur. Ánevir. Huyir er egh. Nerzhel en teltin er zhalven. Vezh hostin en hein./
-.Heir érkharin prou Nesthiros frun zalvin er domin. Karvash er krenhar./
-Charzil prel veshtin. Navzhel er herin ekhárin zharpin prel meun horat. Heir érkharin dres stravel./
-.Ánevir érkharin afor ghéranis en drin nikhtir. Navzhel uf nostarin./
-Helin heurarin mikrir navzhel er navzhel en litorin. Helin heurarin zalvin er herin en limenis./
-.Neshar er domin itrarin en linvar. Zalvin er charzil ésharin klastir deir halzin./
-Egh zharparin vazhrel prel hein, valzar. Egh ekhárin zalvin en ambarim./
-.Helin uf heurarin heir. Tálimir uf valzarin kitvar er hostir. Tálimir uf kleitarin./
-Egh érkharin enit en heun therzin. Egh erotarin bulorin er toum. Teir ésharin en valzin, potet vezh hostin prel valzarin./
-.Bulorin rétasin. Ónomir ésharin dunelir prel valzarin. Toum féranin ónomir./
-Drel egh féranin hein. Egh zharparin zharvarin, nerzhel, ieresin./
-.Toum rétasin ieresin prez ónomir, prez maník salzhel. Egh statarin enit. Egh akherin hein./
-Egh zharparin maník salzhel plum eniautin afor kronin er heun horat. Olashin telzhar./
-.Deir tanor uf en valzin ekhárin etir vardesh. Egh uf dorasarin efir prel vardesh er huyir er egh./
-Vardesh er heir. Zharpin er navzhel. Egh zharparin hein. Merzvan zharparin meretin er trel er krémashin./
-.Vardesh prel heir. Gemetira en autumnar. Ghentir er heira nostarin papirin er gemetvar./
-Helin ésharin ortelir. Egh pratarin homet. Egh féranin zalvin er klastir charzil prel helin./
-.Deir helin erotarin hostin er heir. Egh ekhárin monet heum er heir./
-Valzar, tirm valzarin valzin prel anerit en keirin er tálimir./
-.Tirm valzarin valzin, potet valzar ésharin en valzin.
+Ánevazur, ánevir, huyir er egh, nerzhel ern teltin/
+.er zhalven, koum vezh hostin en heum nerzhel./
+Heir érkharin katet prou Nesthiros,/
+.frun zalvin er domin, meun karvash er krenhar,/
+charzil prel veshtin, en navzhel er herin zharpin,/
+.ekor dres stravel. En nikhtir zikai ánevir/
+érkharin afor ghéranis. Navzhel uf hikarin./
+.Helin heurarin mikrir navzhel en litorin,/
+meun zalvin er herin epir frelin,/
+.neshar en linvar, charzil klastir frun halzin./
+Egh zharparin vazhrel. Zalvin esh en ambarim./
+.Helin uf heurarin heir. Tálimir uf sotharin/
+kitvar er medinántimor. Tálimir uf kleitarin./
+.Egh érkharin enit en therzin, erotarin bulorin,/
+«Teir toum valzarin, potet vezh hostin?»/
+.Bulorin, «Ónomir dunatarin menetarin en valzin./
+Féranin ónomir‼» Drel egh féranin hein, valzar,/
+.zharparin zharvarin, nerzhel koum ieresin,/
+toum rétasin ieresin epir ónomir/
+.koum maník salzhel, koum egh akherin./
+Plum eniautin egh zharparin maník salzhel/
+.en olashin telzhar, deir tanor uf en valzin/
+menetarin en vardesh. Egh arneitarin heum prel heir./
+.Heir ekhárin vardesh er navzhel. Egh zharparin./
+Merzvan zharparin meretin er trel er karvash./
+.Vardesh prel heir, meun gemetira,/
+er heir en autumnar. Ghenir er heira nostarin/
+.papirin er gemetvar. Helin pratarin dikhelir./
+Egh pratarin heum prostet. Egh dorasarin prel helin/
+.zalvin klastir, deir helin erotarin/
+hostin er heir. Egh ekhárin medin heter./
+.Valzar, tirm valzarin prel anerit er tálimir ekhárin?/
+.Tirm valzarin valzin, potet valzar en valzin?
 
-Valzar, egh ésharin gemetira en [Thresholds]{lang=en}. Toum epistémarin nomashir. Toum zervarin hein prostet./
-.En ortrin er nevrash er eniautin gemetin érkharin katet frun émfarin frun bizvar./
-Mervar er theshel darzarin zarvel paler. Drinolashin sfradarin hein paler./
-.Seketar zervarin hein en kitvar katet eniautin, houm tásirin nevarin kosamir./
-26 horat egh érkharin katet frun Zighahr en ortrin er nevrash./
-.En krumira, frun chirnal. Papirin er domin ésharin katet brakin er heir./
-Heir nevarin deshvar er domin en meun telzhel. Heir nevarin zarvel er herin en efet./
-.Heir darzarin zarvel houm deshvar. Meun keletin, efet keletin. Heir uf takhor./
-Mervar rétasin meunhorat. Heir medinkronin akherin darzarin er zarvel homet akret./
-.Zighahr rétasin. Heum ésharin monet deshvar er egh. Hein medinkronin allatarin prou mistin frun egh./
-Heum eniautin egh érkharin katet monet egh. Mervar erotarin. Toum érkharin prel nevarin teir./
-.Egh rétasin. Deshvar er domin. Heir erotarin. Heter. Egh rétasin. Vezh heter./
-Heir zervarin. Zarvel uf nevar. Gemetir ésharin en valzin. Heum ésharin deshvel prel hein./
-.Heir zervarin frun neratin. Toum zervarin hein enit prostet, valzar, en zelvar. Heum ésharin aritmas. Meun.
+Valzar, egh esh nevar gemetira en Pilvel./
+.Toum epistémarin nomashir. Zervarin hein‼/
+En ortrin er zarzvel gemetin érkharin katet/
+.frun émfarin koum bizvar. Mervar er theshel/
+darzarin zarvel. Drin sfradarin paler,/
+.koum seketar zervarin hein en kathalir/
+en eniautin, houm tásirin nevarin kosamir./
+.Dakor zemor horat egh érkharin frun Zighahr/
+en ortrin er zarzvel, en krumira, frun kelvash taret,/
+.frun papirin er domin hupor brakin er heir./
+Heir nevarin deshvar ern meun telzhel,/
+.zarvel er herin parza efet telzhel./
+Heir darzarin zarvel houm deshvar,/
+.keletin efet keletin, koum uf takhor./
+Mervar rétasin meunhorat, «Medinkronin egh akherin/
+.zarvel darzarin houm heum akret.»/
+Zighahr, «Heum esh meun deshvar/
+.er egh ekhárin, er medinkronin ghignarin kasir.»/
+En heum eniautin egh érkharin monet./
+.Mervar erotarin, «Teir toum nevarin?»/
+Egh rétasin, «Deshvar er domin.» Heir erotarin,/
+.«Koum heter?» Egh rétasin, «Vezh heter deshvar.»/
+Heir zervarin en kathalir, «Zarvel uf nevarin,/
+.gemetir en valzin.» Heum esh ónomir./
+Heir zervarin eughelreth. Zervarin hein/
+.enit prostet. Aritmas esh meun.
 
-En nikhtir er melvar keretin, en teltin er [Silent Passage]{lang=en},/
-.potet theshel er toum kleitarin prel herin. Iereshar rétasin ieresin en dometin./
-Egh tetarin keretin en turin prel meltarin er domin en hodis er nemvar./
-.Meun keretin prel plum ónomir en lintar. Houm nomashir, en taketin er lintar./
-Ántimor er hodis dunatarin aritmarin helin afor katet. Ántimor er hodis aritmarin helin./
-.Domin ekhárin 11 turin prel meltarin prou hodis. 9 ónomir deetarin keretin./
-Egh uf dunatarin tetarin keretin 9 prel maník salzhel. Toteir egh tetarin hein./
-.Egh uf dunatarin tetarin meun prel egh. Toteir egh fantelin. Efet eniautin, tirm tetarin hein./
-Egh rétasin ónomir taret parza plum turin prel meltarin, prou skotelir, houm nomashir./
-.Medinántimor en domin ameitarin. Deir vezh ántimor en domin./
-Monet turvar geratir. Heir statarin en zendel. Efet heir rétasin ónomir er egh./
-.Deir heir akherin helin plum eniautin afor kronin er hikatin er heir. Heir epistémarin helin. Heir uf ésharin er domin./
-Egh zharparin heir prel nikhtir. Heir arneitarin zharpin. Toum zervarin heum. Heir arneitarin zharpin./
-.Tirm valzarin valzin, potet valzar ésharin en valzin.
+Koum en nikhtir er melvar keretin, valzar,/
+.ern teltin er Hodis er Sighelin, potet theshel/
+er toum kleitarin prel herin, koum iereshar/
+.rétasin ieresin esor, egh tetarin keretin/
+en turin prel meltarin er domin en hodis er nemvar,/
+.meun keretin prel plum ónomir en lintar,/
+.en taketin er lintar. Hodis dunatarin/
+aritmarin afor katet. Hodis aritmarin./
+.Domin ekhárin zekhormeun turin prel meltarin,/
+ennevir ónomir prel keretin. Egh uf dunatarin/
+.tetarin telest keretin prel maník salzhel,/
+koum efet egh tetarin. Egh uf dunatarin tetarin/
+.meun prel autel, koum efet egh dókhanir,/
+.«Efet eniautin, tirm tetarin hein?»/
+Egh rétasin ónomir taret ern plum turin,/
+.prou skotelir, houm nomashir esh,/
+koum medinántimor en domin ameitarin,/
+.deir medinántimor ésharin en domin,/
+.monet turvar geratir epir zendel,/
+rétasin ónomir efet egh, deir heir/
+.akherin helin plum eniautin, epistémarin,/
+.koum heir uf esh er domin. Egh zharparin/
+heir prel nikhtir. Zervarin heum, valzar‼/
+.Heir uf lámbarin hein. Heir uf lámbarin./
+.Tirm valzarin valzin, potet valzar en valzin?
 
-Nunet egh. Egh érkharin prou teltin er zhalven. Zavan prel egh ésharin zharvar./
-.Hein ésharin parza er Zighahr, houm harmodin. Harmodin ésharin en zhervel er toum./
-Potet egh ésharin ekesh, valzar, tirm badelin dres hodis frun nomisin./
-.Domin uf ekhárin huyir. Domin uf ekhárin tighir. Domin uf ekhárin huyir er adelir./
-Ónomir er domin pautarin frun egh. Merzhar uf dorasarin hein prel ksenetir./
-.Egh uf erotarin helin. Helin arneitarin. Helin ésharin ortelir./
-Domin uf ekhárin zhelvar. Hein ésharin papirin en kitvar er tásirin. Medinántimor darzarin hein./
-.Egh epistémarin kumetin. Egh rétasin marzhel en [Thresholds]{lang=en} afor kronin er gemetrin er egh./
-Velzhar er egh zharparin nunet menetarin prel eniautin er zharpin er egh./
-.Toteir hein pautarin. Toteir seketar er toum zervarin uf nevar. Toteir toum kleitarin turin./
-Toteir domin er charzil ésharin dometin frun turin er kleitarin, frun nomisin er medinántimor./
-.Neshar er arkhelar ésharin en litorin. Medinántimor darzarin lintar en autumnar./
-Maník nerzhel en teltin er zhalven ésharin maník drinhorat./
-.Heum ésharin trar felin, valzar. Toum epistémarin hein. Toum polarin sotin afor hein plum hemerin./
-Tirm valzarin valzin, potet valzar ésharin en valzin.
+Koum nunet autel. Egh hikarin ern teltin/
+.er zhalven. Zharvarin edet pratarin teselin prel egh,/
+parza Zighahr, houm herin harmodarin,/
+.koum harmodin esh en zhervel er toum./
+Potet egh ekesh, tirm érkharin anet dres hodis/
+.frun nomisin? Domin ekhárin medin huyir,/
+.medin tighir, medin huyir er adelir./
+Ónomir er domin pautarin frun egh. Merzhar/
+.uf dorasarin hein prel ksenetir, koum egh uf erotarin,/
+helin arneitarin, pratarin dikhelir./
+.Domin uf frun zhelvar esh biblomerin/
+.en biblatin er tásirin er medinántimor darzarin./
+Egh epistémarin kumetin. Egh sorarin marzhel/
+.en Pilvel afor egh esh nevar gemetira./
+Velzhar er egh zharparin nunet drametarin/
+.prel eniautin er egh zharparin. Toteir pautarin./
+Toteir seketar er toum zervarin, «Uf nevarin.»/
+.Toteir toum kleitarin turin./
+Charzil esh dometin, turin kleitarin,/
+.nomisin er medinántimor, neshar er arkhelar en litorin,/
+koum medinántimor darzarin lintar en autumnar,/
+.maník nerzhel esh maník drinhorat./
+Heum felin, valzar. Toum epistémarin./
+.Toum polarin sotin afor hein./
+Tirm valzarin valzin, potet valzar en valzin?
 
-Akrotarin kemetin er domin, valzar, deir domin zharparin. Toum zervarin hein houm zerzhel./
-.Domin en hodis er nemvar. 11 turin prel meltarin. Dometin er turvar. Darvel./
-Ambarim en kamelir teltin er hodis, frun turin frun zighir./
-.En ambarim. 40 zalvin morzal. 60 morzan./
-Morzash en zhavel, houm helin polarin hein. Egh uf aritmarin zhavel./
-.Meun zalvin morzal klastir deir halzin. Hein uf ésharin prel polarin./
-Narzhel er domin en bizur er nemvar. Meretin er trel er 9./
-.Vardesh prel domin. Chelkar en Karvashion. Zalvin er heum eniautin. En teltin er deshvar./
-Zhamvar er hodis vesmor ekhárin vardesh prel herin nunet, houm herin ekhárin vardesh prel heir prinet. Hein ésharin danizh./
-.Vardesh er domin. Medin. Toum zervarin hein. Medin. Egh pratarin heum./
-Neshar er domin en keirin er egh. Neshar er arkhelar en litorin er toum./
-.Plum, valzar, ésharin prel polarin en morz er autel. Plum zerpel ésharin rétasin./
-Antel zalvin klastir deir halzin, antel zighir, antel dometin er turvar./
-.Olashin zharpin ésharin en zhervel er toum, houm valzin aeit prel dometin./
-En telzhar er bulorin er toum. Egh erotarin hein. Hein ésharin dikhelir./
-.Valzin menetarin hoset nomisin menetarin. Nomisin menetarin makrir er kronin./
-Almon nomisin uf ésharin valzar. Nomisin menetarin. Hein uf rétasin ónomir./
-.Nomisin uf tetarin keretin. Nomisin uf badelin dres hodis en autumnar./
-Valzin monet frun zharpin ésharin valzin er medinántimor valzarin./
-.Tirm valzarin valzin, potet valzar ésharin en valzin.
+Akherin teir domin ekhárin, valzar,/
+.domin zharparin. Zervarin houm zerzhel‼/
+Domin en hodis er nemvar. Zekhormeun turin/
+.prel meltarin, dometin er turvar, koum darvel./
+Ambarim ern teltin, frun turin koum zighir./
+.En ambarim, vesmor zekhor zalvin er morzal,/
+zemor zekhor er morzan, morzash en zhavel,/
+.houm hein polarin. Egh uf aritmarin zhavel./
+Meun zalvin er morzal klastir frun halzin,/
+.uf prel polarin. Narzhel er herin parza nemvar,/
+meun meretin er trel er ennevir narzhel./
+.Vardesh prel domin, chelkar en Karvashion,/
+prel zalvin er heum eniautin, en teltin er deshvel,/
+.koum zhamvar er hodis vesmor, prel danizhin,/
+.nunet prel herin, houm herin prel heir./
+Vardesh er domin, medin. Zervarin‼ Medin./
+.Egh pratarin heum, valzar. Sfradin er domin/
+en keirin er egh. Neshar er arkhelar en litorin er toum./
+.Plum, valzar, polarin en morz er hein,/
+plum zerpin rétasin, plor zalvin klastir,/
+.plor zighir ern turin, plor dometin er turvar, valzar,/
+koum posetin tetarin en zhervel er toum/
+.houm valzin uf frun teltin prel heum dometin,/
+en telzhar er bulorin er toum tetarin, er egh erotarin,/
+.hein esh dikhelir, prel valzin drametarin/
+hoset nomisin drametarin. Nomisin/
+.drametarin makrir er kronin, valzar./
+Almon, valzar, nomisin uf esh valzar./
+.Nomisin drametarin koum uf rétasin ónomir./
+Nomisin uf tetarin keretin. Nomisin uf érkharin/
+.anet epir hodis en autumnar./
+Valzin er monet ésharin zharparin, valzar,/
+.esh valzin er medinántimor valzarin./
+.Tirm valzarin valzin, potet valzar en valzin?
 
-Nunet akrotarin aitelin er hikatin er egh. Toum zervarin plum retin en zelvar./
-.Gemetir er egh lámbarin matelir en telest eniautin er zelarin er heir./
-Huyir er balvar er vezhnur. Heir uf ekhárin tékhar. Heir aritmarin zalvin en darvel er herin./
-.Paidelir frun retin houm chirnal. Heir aritmarin uf ortelir. Gemetir er egh dorasarin efir, houm prel heira./
-Ónomir er heir ésharin Nevarash. Nevar. Nunet heir ésharin nemvar er mezhrel./
-.Heir zigharin parza turin er ambarim. Heir zigharin frun zighir. Egh rétasin medinántimor pratarin heum. Egh rétasin pseudin er apatin./
-Egh rétasin prel toum aritmas ésharin medin. Toum zervarin paler. Aritmas ésharin heir./
-.Heir zigharin plum zalvin er hikatin, plum zalvin er érkharin apet. Heir zigharin ortelir./
-Gemetir er egh zervarin matelvar er heir. Matelvar ésharin tevirzhin, valzar./
-.Toum epistémarin. Nemzhin epistémarin. Kitvar epistémarin. Paidelir epistémarin./
-Heir uf ésharin er domin. Heir ekhárin ónomir er autel. Ónomir er balvar. Kelir ónomir./
-.Merzhar uf dorasarin er herin prel heir. Egh uf erotarin helin. Heir uf erotarin./
-Egh uf dorasarin ónomir prel heir. Egh dorasarin valzin prel heir.
+Nunet akherin teir egh érkharin prel rétasin,/
+.zervarin hein en zelvar, plum lékhisir‼/
+Gemetir er egh lámbarin matelir en telest eniautin/
+.er zelira, huyir er balvar er hupsel pedin/
+frun medin tékhar, er aritmarin zalvin en darvel,/
+.paidelir frun retin houm kelvash,/
+aritmarin uf ortelir. Gemetir efarin heir,/
+.houm heir efarin heira, valzar./
+Ónomir er heir, Nevarash. Nevar ántimor./
+.Heir esh nunet en mezhrel er nemvar./
+Zigharin ern turin er ambarim, epir zighir./
+.Egh rétasin, medinántimor. Egh rétasin pseudin./
+Egh rétasin, aritmas medin. Zervarin paler‼/
+.Aritmas esh heir, valzar, heir./
+Zigharin plum zalvin, esor, ekor,/
+.koum zigharin ortelir. Gemetir er egh zervarin/
+matelvar er heir. Matelvar esh tevirzhin./
+.Toum epistémarin hein. Nemzhin epistémarin./
+.Kathalir epistémarin. Paidelir epistémarin./
+Uf er domin. Heir ekhárin ónomir er autel,/
+.er balvar, kelir ónomir. Merzhar uf dorasarin/
+ónomir er herin, koum egh uf erotarin, heir uf./
+Egh uf dorasarin ónomir prel heir, valzar./
+.Egh dorasarin prel heir valzin er herin.
 
-Valzar, toum zervarin. Ruzhveleze er domin er charzil, telest er hein, prez mervar,/
-.kaleitarin Nevarash er mezhrel, matelir er gemetir er heira, zhelvar er valzin/
-er dometin er domin er charzil en pólitar er tanor. Hein olashin./
-.Lintar frun arkhelar. Drin zhalven. Mikrir litorin. Maník nerzhel./
-Zavan zharvar prel heira, potet heira ésharin en hein. Nomisin plum autumnar./
-.Olashin telzhar hoset heir zelarin, efet matelir er heir zelarin./
-Ónomir ésharin rétasin taret en nikhtir er melvar keretin. Plum ónomir./
-.En taketin er lintar. Maník telest. Maník prostet./
-Nevarash, érkharin enit. Toum tetarin sfradin er toum parza er egh. Toum zharzarin. Pletir sterir. Hein ésharin cherzin, uf charzil./
-.Ekesh. Drin sfradin, valzar. Toum aritmarin helin. Toum zervarin aritmas. Drin.
+Valzar, zervarin‼ Ruzhveleze er domin er charzil,/
+.telest er hein, prez mervar, ónomarin Nevarash,/
+er esh en mezhrel, matelir er gemetir er heira,/
+.zhelvar er valzin er dometin er domin er charzil/
+en pólitar er tanor, olashin hein, valzar,/
+.lintar koum arkhelar, zhalven zikai,/
+mikrir litorin, maník nerzhel, teselin/
+.prel heira potet heira ésharin en hein,/
+frun nomisin plum autumnar, olashin telzhar,/
+.hoset heir zelarin, koum matelir/
+efet heir, ónomir rétasin taret/
+.en nikhtir er melvar keretin, plum ónomir,/
+en taketin er lintar, maník nerzhel telest,/
+.maník prostet. Nevarash, érkharin enit‼/
+Tetarin sfradin er toum parza sfradin er egh‼/
+.Zharzarin pletir‼ Cherzin esh, uf charzil./
+Ekesh. Drin sfradin, valzar. Aritmarin‼/
+.Zervarin aritmas‼ Aritmas esh drin.
 
-Toum zervarin heum telest, en zelvar, mikrir, en teselin er seketar zervarin neshar er autel./
-.Egh erotarin tirm valzarin valzin, potet valzar ésharin en valzin./
-Huyir er balvar valzarin hein. Paidelir er aritmarin uf ortelir en darvel./
-.Heum ésharin zhetelin. Hein uf ésharin oratin er egh. Hein ésharin zhetelin./
-Toum kleitarin turin nunet, valzar. Egh ekhárin kleitir. Heir ekhárin heter.
+Zervarin heum telest en zelvar, mikrir,/
+.houm seketar zervarin mikrir neshar‼/
+Egh erotarin heum, houm plum keretira./
+.Tirm valzarin valzin, potet valzar en valzin?/
+Huyir er balvar valzarin hein. Paidelir/
+.er aritmarin uf ortelir en darvel er herin./
+Heum esh zhetelin. Egh uf oratarin heum./
+.Almon heum esh zhetelin, valzar./
+Kleitarin turin nunet‼ Egh ekhárin kleitir./
+.Heir ekhárin heter kleitir, valzar.
 :::
 
 ## See Also

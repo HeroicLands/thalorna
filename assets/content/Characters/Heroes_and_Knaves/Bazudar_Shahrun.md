@@ -12,7 +12,7 @@ data:
   lore: []
   culture: sowidesclt
   homes: [oasishirvn]
-  affiliations: {drmndtrb: {rank: 3}, zurathra: {rank: 1}}
+  affiliations: {qbdrtrb: {rank: 3}, zurathra: {rank: 1}}
   gender: male
   species: humanflk
   born: 675.38

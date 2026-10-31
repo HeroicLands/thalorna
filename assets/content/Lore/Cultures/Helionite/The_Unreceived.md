@@ -33,379 +33,403 @@ Between the odes, the scenes are given here as the schools summarize them.
 : The Entry of the Levy {#entry}
 
 ::: {.verse form=choral-ode lang=en work=entry}
-Rise from the grey grass, ranks of the Keeper's city./
-Rise from the ground where we lay and no one lifted us./
-Take your place in the line as we did that morning,/
-shield beside shield, the left shield sheltering the brother on the right./
-This is the day. The grass knows. The stones know./
-The day returns each year and finds us on our feet.
+Up from the grey grass, ranks of the city of the Keeper,/
+up from the place where we lay down and were not lifted,/
+stand to the line as we stood in the morning,/
+shield by shield, the left hand's shield covering the right hand's brother./
+This is the day. The grass knows it. The stones know it./
+Every year the day comes round and finds us standing.
 
-We left the gate singing in the first light,/
-the old levy song boys learn on the drill ground./
-Women on the wall threw barley. It fell on our helmets./
-One grain is still in mine, beneath the grey./
-We were citizens. We voted to go./
-Every one of us put his stone in the urn for this road.
+We came out of the gate at the first light, singing,/
+the old song of the levy that the boys learn at the exercise ground,/
+and the women on the wall threw barley, and it fell on our helmets,/
+and a grain of it is in my helmet yet, under the grey./
+We were the citizens. We had voted to come./
+Each of us had cast his stone in the urn for this road.
 
-We took the western road down to the open plain./
-The legion was coming down it, red and in formation./
-We formed across the road in ranks, the city's levy,/
-eight men deep, where the strátimor put us, as our fathers stood./
-Behind us on the rise stood a man we had never voted for./
+We went down the western road to the plain where it opens,/
+and the legion was coming down it, red, in its order,/
+and we drew up across the road in our ranks, the levy of the city,/
+eight deep, as the strátimor placed us, as our fathers stood./
+And behind us on the rise stood a man we had not voted for./
 We did not look at him. We do not look at him now.
 
-The chorus remains in formation. The Temple judge enters and walks around the stones, counting aloud. The stone closest to the road stands a few feet farther out than it did the previous year. He writes this down, writes that he heard nothing, and leaves.
+The chorus stands in its ranks. The judge of the Temple comes on and walks the ring of stones, counting them aloud, and finds the stone nearest the road a few feet farther out than it stood the year before. He records it, and records that he heard nothing, and goes.
 :::
 
-::: {.verse form=choral-ode lang=helo enc=helohelonikaenc work=entry}
-Aneth afor klorin polithir. Estralin er pólithar er Filir./
-Aneth afor ghéranis. Herin khelrin enth heun. Medhin ánthimor airatharin herin./
-Statharin prou estralin. Herin statharin hometh in orthrin./
-Khalithin pef khalithin. Khalithin er kheirin arister kalufarin adhelir enth deksir./
-Heum ésarin hemerin. Klorin epistémarin hein. Lithorin epistémarin hein./
-Plum eniauthin hemerin nostharin koum heurarin herin statharin.
+::: {.verse form=choral-ode lang=helo enc=helohelonikaenc work=entry scan=tetrameter}
+Aneth afor polithir klorin,/
+estralin er pólithar er Filir er Pilina,/
+aneth afor tofelin er khelrin/
+koum medhin airatharin herin,/
+statharin prou sothkadrin hoth herin in orthrin,/
+khalithin pef khalithin, khalithin er arister/
+kalufarin adhelir er deksir‼/
+Heum hemerin. Klorin epistémarin,/
+lithorin prostheth epistémarin./
+Plum eniauthin hemerin nostharin/
+koum heurarin herin statharin.
 
-Herin érkharin ekor thurin enth kirathin prineth plum. Herin sorarin./
-Sorathin palaisir er hoplothin. Paidhelir mathelarin hein enth aghelin er askethin./
-Ghuneth epir teikhir rhiptharin krithon. Hein afelarin epir korufin er herin./
-Meun sperin ethel ésarin in korufin er egh. Hupor polithir./
-Herin ésarin pólithir. Herin thresarin érkharin./
-Plum ánthimor er herin sfratharin lithorin in stamnin pir heum hodhin.
+Herin érkharin dres pilin in eothira,/
+sorarin palaisir sorathin er hoplothin/
+thin paidhelir mathelarin enth ghimarin,/
+koum ghuneth enth teikhir rhiptharin krithon,/
+koum hein piptharin epir korufin er herin,/
+koum meun sperin ethel in korufin er egh,/
+hupor polithir. Herin pólithir./
+Herin edheth thresarin pir érkharin./
+Plum ánthimor lithorin er authel/
+sfratharin in stamnin pir heum hodhin.
 
-Herin badhelin kateth hodhin hesperir prou aghelin plathelir./
-Leghethon badhelin kateth hodhin. Eruthir. In estrathin er hein./
-Herin statharin dian hodhin in estralin er herin. Hoplothin er pólithar./
-Okther ánthimor enth bathin. Strátimor thetharin herin hometh parikhor er herin statharin./
-Opith herin anerith statharin epir klinathin. Herin uf thresarin heir./
-Herin uf meltharin heir. Herin uf meltharin heir nuneth.
+Herin érkharin hodhin hesperir/
+prou pedhin enth tofelin hoseth hein anoigharin,/
+koum leghethon érkharin, eruthir, in takethin,/
+koum herin statharin dian hodhin,/
+in estralin, hoplothin er pólithar er herin,/
+okther bathin, hoth strátimor thetharin,/
+hoth parikhor er herin edheth statharin./
+Koum opith herin epir lofir/
+anerith statharin, herin uf thresarin heir./
+Uf tothel meltharin heir. Uf nuneth meltharin heir.
 
-Kumethos statharin in estralin. Dikhar er sarkhion érkharin koum badhelin perith lithokir. Heir arithmarin lithorin rhéthasin arithmas. Heir heurarin lithorin enghir hodhin. Hein ésarin olighir podhelin ekor afor thetharin er eniauthin prineth. Heir grafarin heum. Heir grafarin heir uf akherin hosthin. Heir leiparin.
+[Kumethos statharin in estralin. Dikhar er sarkhion érkharin esor koum badhelin perith lithokir, koum arithmarin lithorin thareth, koum heurarin lithorin enghir hodhin olighir podhelin perol tofelin er eniauthin prineth. Heir grafarin heum, koum grafarin heir akherin medhin, koum érkharin ekor.]{.direction}
 :::
 
 : The First Ode {#first}
 
 ::: {.verse form=choral-ode lang=en work=first}
-Turn.
-
-The gods placed a limit on fire:/
-how much a man can hold in both hands and stay alive./
-The [[lore-ustarondty|Forge-Lord]] gave the hammer and anvil./
-The [[lore-marendasdty|Keeper of Sacred Wisdom]] gave the book that names fire./
-The book says: this much. No more./
-The man on the rise read the book and turned a page./
-He read beyond the last page, where there are no words,/
+Turn./
+There is a measure the gods set on the fire,/
+how much a man may hold in his two hands and live./
+The [[lore-ustarondty|Forge-Lord]] gave the hammer and the anvil,/
+the [[lore-marendasdty|Keeper of Sacred Wisdom]] gave the book that names the fire,/
+and the book says: so much and no more./
+The man on the rise read the book, and turned the page,/
+and read the page after the last page, where nothing is written,/
 and wrote there.
 
-Answering turn.
-
-The city places a limit on a man:/
-how high he can stand above others and remain a citizen./
-The arsir holds the year, then gives it back./
-The strátimor holds the spear and faces another vote./
-The city says: this high. No higher. An auditor at the end./
+Answering turn./
+There is a measure the city sets on a man,/
+how high he may stand above the others and be a citizen./
+The arsir holds the year and hands it back./
+The strátimor holds the spear and is voted on again./
+The city says: so high and no higher, and an auditor at the end./
 The man on the rise stood on the rise,/
-above the levy, above the city, above the auditor./
-Nobody voted.
+above the levy, above the city, above the auditor,/
+and no one voted.
 
-Stand.
+Stand./
+We felt it go over us. It went over us like heat over a road at noon,/
+and the legion in front of us broke as a jar breaks,/
+all at once, with the noise of it after./
+We shouted. We had won. We shouted the city's name./
+And then the sky behind the legion was full of wings.
 
-We felt it pass over us, like heat above a road at noon./
-The legion before us broke like a jar,/
-all at once. The sound came afterward./
-We shouted. We had won. We shouted our city's name./
-Then the sky behind the legion filled with wings.
-
-Korinthea's herald comes to the ring carrying his staff. He calls across the stones for the dead, using the words heralds speak after every battle between cities. The chorus hears him. The mother has accompanied him. She asks him to cross. He steps over the ring and walks into the grey grass. The scene closes while he is still walking. The next opens at evening: he is standing at the ring again, where he started.
+The herald of Korinthea comes to the ring with his staff. He calls across the stones for the dead, in the words the heralds use after every battle between the cities. The chorus hears him. The mother has come with him, and asks him to cross, and he steps over the ring and walks out into the grey grass; the scene ends with him walking, and the next opens with him standing again at the ring, at evening, where he began.
 :::
 
-::: {.verse form=choral-ode lang=helo enc=helohelonikaenc work=first}
-Allathin.
+::: {.verse form=choral-ode lang=helo enc=helohelonikaenc work=first scan=tetrameter}
+[Kampin.]{.speaker}/
+Thásirin thetharin métharin pir ithrin,/
+posethin anerith ekhárin koum zelarin/
+in drin kheirin. Andáhr er Khamethin/
+dorasarin sphurin koum akmothin,/
+Filir er Thásira Sothira biblathin/
+thin ónomarin ithrin. Biblathin rhéthasin,/
+«Heum posethin, koum medhin plethir.»/
+Anerith epir lofir anagharin/
+biblathin, koum allatharin biblomerin,/
+koum anagharin biblomerin huster telesth,/
+enth medhin grafarin, koum grafarin eketh.
 
-Thásirin thetharin métharin epir ithrin./
-Anerith dunatharin ekhárin olasin heum in drin kheirin koum ésarin zelir./
-Andáhr er Khamethin dorasarin sphurin koum akmothin./
-Filir er Thásira Sothira dorasarin biblathin. Hein kaleitharin onomin er ithrin./
-Biblathin rhéthasin. Heum olasin. Neur malth./
-Anerith epir klinathin anagharin biblathin koum allatharin biblomerin./
-Heir anagharin biblomerin huster biblomerin telesth. Medhin lékhisir ésarin enth heun./
-Heir grafarin enth heun.
+[Kampin er ameitharin.]{.speaker}/
+Pólithar thetharin métharin pir anerith,/
+thin hupsel anerith statharin huth heter/
+koum ésarin pólithir. Arsir ekhárin/
+eniauthin koum parádharin paleth,/
+strátimor ekhárin grerin, koum pólithir/
+thresarin heir paleth. Pólithar rhéthasin,/
+«Heum hupsel, koum medhin plethir,/
+koum euthenir telesth.» Anerith epir/
+lofir statharin epir lofir,/
+huth hoplothin er herin, huth pólithar, huth euthenir,/
+koum medhin ánthimor thresarin, medhin.
 
-Allathin er ameitharin.
+[Statharin.]{.speaker}/
+Herin sestharin hein érkharin huth herin,/
+hoth thermin huth hodhin in mesin er hemerin,/
+koum leghethon tror herin klastharin, hoth stamnin/
+klastharin, meun stighmin olasin,/
+koum tharakin huster. Herin nikharin./
+Thareth rhéthasin ónomir er pólithar./
+Koum tothel ouranir opith leghethon/
+ésarin plir, plir er pterathin.
 
-Pólithar thetharin métharin epir anerith./
-Heir dunatharin statharin hupsel huth heter koum ésarin pólithir mekhir heum./
-Arsir ekhárin eniauthin koum parádharin hein paleth./
-Strátimor ekhárin grerin. Pólithir thresarin heir paleth./
-Pólithar rhéthasin. Hupsel mekhir heum. Neur huth heum. Euthenir enth telesth./
-Anerith epir klinathin statharin epir klinathin./
-Huth hoplothin. Huth pólithar. Huth euthenir./
-Medhin ánthimor thresarin.
-
-Statharin.
-
-Herin noetharin hein érkharin huth herin. Hometh thermin huth hodhin enth mesin er hemerin./
-Leghethon tror herin klastharin hometh stamnin klastharin./
-Plum frun meun khronin. Phonethin érkharin huster./
-Herin kaleitharin steneth. Herin nikharin. Herin kaleitharin onomin er pólithar steneth./
-Tothel ouranir opith leghethon ésarin plerethir frun pterathin.
-
-Kerukhir er Korinthea érkharin prou lithokir frun skathir. Heir kaleitharin dian lithorin pir thaner. Heir rhéthasin lékhisir er kerukhir huster plum makhethin metheir pólithar. Kumethos akherin heir. Mathira érkharin frun heir. Heira erotharin heir badhelin dian lithokir. Heir badhelin dian koum érkharin ekor prou klorin polithir. Heum mérin pautharin. Heir ethel badhelin. Mérin efeth anoigharin. Heir statharin paleth enth lithokir enth hespethin. Enth ghéranis er arkhidhin er badhelin er heir.
+[Kerukhir er Korinthea hikarin prou lithokir frun skathir. Heir kaleitharin dian lithorin pir thaner, frun lékhisir thin kerukhir rhéthasin huster plum makhethin metheir pólithar. Kumethos akherin heir. Mathira hikarin frun heir, koum erotharin heir érkharin dian, koum heir érkharin dian lithokir koum badhelin esor polithir klorin. Mérin pautharin hoseth heir badhelin, koum mérin efeth anoigharin frun heir ethel statharin enth lithokir, in hespethin, enth tofelin er arkhidhin er heir.]{.direction}
 :::
 
 : The Lament at the Ring {#lament}
 
 ::: {.verse form=choral-ode lang=en work=lament}
-Herald.
-
+Herald./
 Men of the levy, the city asks for you./
-I stand at the ring with my staff. The city asks for you.
+I stand at the ring with the staff and the city asks for you.
 
-Chorus.
-
+Chorus./
 We hear you. We have heard you every year./
-Come onto the grass. We are in formation. We are ready.
+Come out on the grass. We are drawn up. We are ready.
 
-Herald.
+Herald./
+I came out on the grass. I walked from noon to evening./
+I am standing at the ring where I started.
 
-I came onto the grass. I walked from noon until evening./
-I stand at the ring, where I began.
-
-Chorus.
-
+Chorus./
 The grass is long. The plain is wide. Walk again./
-We are close. We are one afternoon away.
+We are not far. We are the width of one afternoon.
 
-Mother.
+Mother./
+Which of you is mine? I cannot see you. Which of you is mine?/
+He had a cut on his chin from the razor. He was eighteen.
 
-Which one is mine? I cannot see you. Which is mine?/
-He had nicked his chin shaving. He was eighteen.
+Chorus./
+We are all eighteen. We are all forty. We all have the cut./
+We are grey, mother, and we stand in a rank, and we cannot step out of it.
 
-Chorus.
+Mother./
+Say his name to me and I will say it at the altar./
+I will take it to the Temple and pay what they ask.
 
-We are all eighteen. All forty. We all bear the cut./
-We are grey, mother. We stand in a rank and cannot step out.
+Chorus./
+The Temple is the city's. The rite is the city's./
+The city must say what it did here. Then the name.
 
-Mother.
+Herald./
+The city cannot say it. The city says it was the legion./
+The city says it was the dragons. The city says nothing.
 
-Tell me his name. I will speak it at the altar./
-I will carry it to the Temple and pay whatever they ask.
-
-Chorus.
-
-The Temple belongs to the city. The rite belongs to the city./
-The city must tell what it did here. After that, the name.
-
-Herald.
-
-The city cannot tell it. It says the legion did it./
-It says the dragons did it. It says nothing.
-
-Chorus.
-
+Chorus./
 Then we stand. We have stood a long time./
-We will stand until it speaks.
+We will stand until it says.
 
-Mother.
-
+Mother./
 I will not come again. I cannot come again./
-I am going home to spread his cloak on the bed.
+I am going home, and I will lay out his cloak on the bed.
 
-Chorus.
-
-Go home, mother. Spread out his cloak./
+Chorus./
+Go home, mother. Lay out the cloak./
 We are standing. Tell them we are standing still.
 
-The mother leaves. The herald remains at the ring all night and does not cross again. In the last scene before the second ode, he tells the Temple judge he will go to the assembly and ask it to fund the [[affiliation-selmoros|Silent Judge]]'s rite. The judge says he is free to ask. No one has ever brought it before the assembly, and the families will ensure no one does.
+The mother goes. The herald stays at the ring through the night, and does not cross again. In the last scene before the second ode, he tells the judge of the Temple that he will go to the assembly and ask it to pay for the rite of the [[affiliation-selmoros|Silent Judge]], and the judge tells him that he may ask, that no one has ever put it to the assembly, and that the families will see to it that no one does.
 :::
 
-::: {.verse form=choral-ode lang=helo enc=helohelonikaenc work=lament}
-Kerukhir.
+::: {.verse form=choral-ode lang=helo enc=helohelonikaenc work=lament scan=tetrameter}
+[Kerukhir.]{.speaker}/
+Anerith er hoplothin, pólithar erotharin pir thu./
+Egh statharin enth lithokir, frun skathir aneth,/
+koum pólithar erotharin pir thu paleth.
 
-Anerith er hoplothin. Pólithar erotharin pir thu./
-Egh statharin enth lithokir frun skathir. Pólithar erotharin pir thu.
+[Kumethos.]{.speaker}/
+Herin akherin thu plum eniauthin./
+Érkharin ekor epir klorin‼/
+Herin estralin. Herin hetoir.
 
-Kumethos.
+[Kerukhir.]{.speaker}/
+Egh érkharin ekor epir klorin./
+Egh badhelin afor mesin er hemerin/
+mekhir hespethin. Egh statharin enth lithokir,/
+enth hometh tofelin, egh ársidhin eketh.
 
-Herin akherin thu. Herin akherin thu plum eniauthin./
-Erkharin ekor prou klorin. Herin statharin in estrathin. Herin ésarin hetoir.
+[Kumethos.]{.speaker}/
+Klorin makrir. Pedhin plathelir./
+Badhelin paleth‼ Herin uf telir./
+Afor mesin mekhir hespethin.
 
-Kerukhir.
+[Mathira.]{.speaker}/
+Pothel ésarin er egh? Egh uf dunatharin meltharin./
+Pothel ésarin er egh? Heir ekhárin thamethin/
+epir geneithin afor dhermakhir./
+Heir zekhor koum okther eniauthin.
 
-Egh érkharin ekor prou klorin. Egh badhelin afor mesin er hemerin mekhir hespethin./
-Egh statharin enth lithokir. Enth ghéranis er arkhidhin er badhelin er egh.
+[Kumethos.]{.speaker}/
+Plum herin zekhor koum okther./
+Plum herin vesmor zekhor./
+Plum herin ekhárin thamethin./
+Herin polithir, mathira, koum statharin/
+in estralin, koum uf dunatharin érkharin ekor.
 
-Kumethos.
+[Mathira.]{.speaker}/
+Rhéthasin pir egh ónomir er heir, koum egh rhéthasin hein enth kor‼/
+Egh féranin ónomir prou sarkhion koum mistharin/
+posethin thin sarkhir erotharin.
 
-Klorin ésarin makrir. Aghelin ésarin plathelir. Badhelin paleth./
-Herin uf ésarin telir. Perathin er herin ésarin meun hesperin er hemerin.
+[Kumethos.]{.speaker}/
+Sarkhion er pólithar. Ieresin er pólithar./
+Pólithar deetharin rhéthasin thin pratharin./
+Tothel ónomir, tothel moneth.
 
-Mathira.
+[Kerukhir.]{.speaker}/
+Pólithar uf dunatharin rhéthasin hein./
+Pólithar rhéthasin, «Leghethon pratharin.»/
+Pólithar rhéthasin, «Drakhelina pratharin.»/
+Tothel pólithar rhéthasin medhin.
 
-Pothel er thu ésarin er egh. Egh uf dunatharin meltharin thu. Pothel ésarin er egh./
-Heir ekhárin thamethin epir ghenethin afor dhermakhir. Heir ekhárin 18 eniauthin.
+[Kumethos.]{.speaker}/
+Der herin statharin makrir khronin./
+Herin statharin mekhir hein rhéthasin.
 
-Kumethos.
+[Mathira.]{.speaker}/
+Egh uf érkharin paleth. Egh uf dunatharin/
+érkharin paleth. Egh nostharin prou domin,/
+koum thetharin khalnir er heir epir klinethin.
 
-Plum ánthimor er herin ekhárin 18 eniauthin. Plum ekhárin 40. Plum ekhárin thamethin./
-Herin ésarin polithir mathira. Herin statharin in estralin. Herin uf dunatharin badhelin ekor.
+[Kumethos.]{.speaker}/
+Nostharin, mathira‼ Thetharin khalnir‼/
+Herin statharin. Rhéthasin pir helin/
+herin ethel statharin enith‼
 
-Mathira.
-
-Rhéthasin onomin er heir prou egh. Egh rhéthasin hein enth kor./
-Egh féranin hein prou sarkhion. Egh mistharin olasin er helin erotharin.
-
-Kumethos.
-
-Sarkhion ésarin er pólithar. Ieresin ésarin er pólithar./
-Pólithar rhéthasin pratharin er hein enth heum. Heum ésarin anaghelir. Tothel onomin.
-
-Kerukhir.
-
-Pólithar uf dunatharin rhéthasin hein. Pólithar rhéthasin. Leghethon pratharin hein./
-Pólithar rhéthasin. Drakhelin pratharin hein. Pólithar rhéthasin medhin praghin.
-
-Kumethos.
-
-Totheir herin statharin. Herin statharin makrir khronin./
-Herin statharin mekhir pólithar rhéthasin.
-
-Mathira.
-
-Egh uf érkharin paleth. Egh uf dunatharin érkharin paleth./
-Egh nostharin prou domin. Egh thetharin khalamin er heir epir klinethin.
-
-Kumethos.
-
-Nostharin prou domin mathira. Thetharin khalamin./
-Herin statharin. Rhéthasin prou helin. Herin ethel statharin.
-
-Mathira leiparin. Kerukhir thulatharin enth lithokir plum nikhtir. Heir uf badhelin dian paleth. In mérin telesth prineth sorathin in arithmas drin heir rhéthasin prou dikhar er sarkhion. Heir érkharin prou agelon koum erotharin agelon mistharin ieresin er Sighelir Dikhar. Dikhar rhéthasin. Erotharin er thu ésarin efir. Medhin ánthimor thetharin heum prou agelon prineth. Ghenthir pratharin. Medhin ánthimor thetharin heum.
+[Mathira érkharin apeth. Kerukhir menetharin enth lithokir dres nikhtir, koum uf érkharin dian paleth. In mérin telesth prineth sorathin er kumethos in arithmas drin, heir rhéthasin pir dikhar er sarkhion heir érkharin prou agelon pir erotharin, der agelon mistharin pir ieresin er Sighelir Dikhar. Dikhar rhéthasin pir heir heir ésarin efir erotharin, medhin ánthimor thetharin hein tror agelon medhin khronin, koum ghenir filarin der medhin ánthimor pratharin heum.]{.direction}
 :::
 
 : The Second Ode {#second}
 
 ::: {.verse form=choral-ode lang=en work=second}
-Turn.
+Turn./
+The wrong done in the open is answered in the open./
+A man strikes a man in the agorin, and the agorin saw it,/
+and the court sits, and the judges vote, and it is answered,/
+and the struck man and the striker dine together in a year./
+That is a city. That is what the walls are for./
+But a wrong done where no one could see it/
+has no court, and no judges, and no vote,/
+and no dinner after.
 
-A wrong committed openly receives an open answer./
-A man strikes another in the agorin. The agorin sees it./
-The court sits. The judges vote. An answer is given./
-A year later the man who struck and the man he struck dine together./
-That is a city. That is why it has walls./
-But a wrong committed where no one could see/
-has no court, no judges, no vote,/
-and no dinner afterward.
+Answering turn./
+The wrong done in a city's name and not said is the worst of them./
+The city struck the city, and the city saw it,/
+and the city turned its face to the wall and said: it was the legion./
+And the court has not sat, and the urn is empty,/
+and the city's own sons stand on the grass with their mouths full of it./
+That is a city with its face to the wall./
+And the grass grows grey a few feet every bad year,/
+and the ring goes outward.
 
-Answering turn.
+Stand./
+The man on the rise has no name. We do not say it. The city does not say it./
+We do not say it because we do not look at him. The city/
+does not say it because then it would have to say the rest./
+Say the rest. Say: our own working turned on our own levy./
+Say it once, in the agorin, and the urn will fill.
 
-The worst wrong is one done in a city's name and left unspoken./
-The city struck the city. The city saw./
-It turned its face to the wall and said: the legion did it./
-The court has not sat. The urn is empty./
-The city's sons stand on the grass with grass filling their mouths./
-That is a city facing the wall./
-Every bad year the grey grass grows a few feet,/
-and the ring moves outward.
-
-Stand.
-
-The man on the rise has no name. We do not speak it. Neither does the city./
-We do not speak it because we do not look at him. The city/
-does not speak it because it would then have to tell the rest./
-Tell the rest. Say: our own working turned against our own levy./
-Say it once in the agorin. The urn will fill.
-
-The herald leaves for the city. The judge records the stones and departs. The chorus stands alone on the plain. The light sinks toward the end of the anniversary, and the end of the play.
+The herald leaves for the city. The judge records the stones and goes. The chorus is alone on the plain, and the light goes down to the anniversary's end, which is the play's.
 :::
 
-::: {.verse form=choral-ode lang=helo enc=helohelonikaenc work=second}
-Allathin.
+::: {.verse form=choral-ode lang=helo enc=helohelonikaenc work=second scan=tetrameter}
+[Kampin.]{.speaker}/
+Adikhin tror plum ánthimor pratharin,/
+anthmerin ameitharin tror plum ánthimor./
+Anerith tufarin anerith in agorin,/
+koum agorin meltharin, koum dikathin kathelarin,/
+koum dikhar sfratharin, koum anthmerin ameitharin,/
+koum drin edharin hespedhin pef in eniauthin./
+Heum pólithar. Teikhir pir heum./
+Almon adikhin thin medhin meltharin/
+uf ekhárin dikathin, uf dikhar, uf thresos,/
+koum medhin ánthimor edharin pef huster.
 
-Adikhin enth lefir ghéranis ekhárin ameitharin enth lefir ghéranis./
-Anerith tufarin anerith in agorin. Agorin meltharin hein./
-Dikathin kathelarin. Dikhar thresarin. Ameitharin ésarin./
-Tufarin ánthimor koum ánthimor er tufarin edharin hespedhin frun eniauthin huster./
-Heum ésarin pólithar. Pir heum teikhir ésarin./
-Almon adikhin enth ghéranis er medhin ánthimor dunatharin meltharin/
-Ekhárin medhin dikathin koum medhin dikhar koum medhin thresos./
-Koum medhin hespedhin huster.
+[Kampin er ameitharin.]{.speaker}/
+Adikhin in ónomir er pólithar, uf rhéthasin,/
+ésarin kheirir eil er plum. Pólithar/
+tufarin pólithar, koum pólithar meltharin,/
+koum huzarin prosarin prou teikhir koum rhéthasin,/
+«Leghethon pratharin.» Koum dikathin uf kathelarin,/
+koum stamnin medhin ekhárin, koum huyir/
+er pólithar in klorin statharin, frun stomir/
+plir er hein. Heum pólithar frun prosarin/
+prou teikhir. Koum klorin ghígnarin polithir/
+in khasir eniauthin, koum lithokir ekor.
 
-Allathin er ameitharin.
+[Statharin.]{.speaker}/
+Anerith er lofir, medhin ónomir./
+Herin uf rhéthasin hein. Pólithar uf rhéthasin hein./
+Herin uf rhéthasin dheir herin uf meltharin heir./
+Pólithar uf rhéthasin hein, dheir tothel pólithar/
+deetharin rhéthasin plum heter./
+Rhéthasin heter‼ Rhéthasin «Ergathin/
+er herin allatharin prou hoplothin er herin.»/
+Rhéthasin hein meun horath in agorin,/
+koum stamnin ghígnarin plir er thresos.
 
-Adikhin in onomin er pólithar koum medhin lékhisir er hein ésarin khasir huth plum./
-Pólithar tufarin pólithar. Pólithar meltharin hein./
-Pólithar allatharin prosarin prou teikhir koum rhéthasin. Leghethon pratharin hein./
-Dikathin uf kathelarin. Stamnin ekhárin medhin lithorin./
-Huyir er pólithar statharin epir klorin. Stomir er helin ésarin plerethir frun klorin./
-Heum ésarin pólithar frun prosarin prou teikhir./
-Klorin polithir auksarin olighir podhelin plum eniauthin khasir./
-Lithokir kinetharin ekor.
-
-Statharin.
-
-Anerith epir klinathin ekhárin medhin onomin. Herin uf rhéthasin hein. Pólithar uf rhéthasin hein./
-Herin uf rhéthasin hein dheir herin uf meltharin heir. Pólithar/
-Uf rhéthasin hein dheir tothel rhéthasin er praghin heter ésarin anaghelir./
-Rhéthasin praghin heter. Rhéthasin. Ergathin er herin authel allatharin prosbalin hoplothin er herin authel./
-Rhéthasin hein meun horath in agorin. Stamnin ghígnarin plerethir.
-
-Kerukhir leiparin prou pólithar. Dikhar grafarin lithorin koum leiparin. Kumethos ésarin moneth ánthimor epir aghelin. Kirathin érkharin kateth mekhir telesth er hemerin er nemorarin. Heum ésarin telesth er theathelin.
+[Kerukhir érkharin prou pólithar. Dikhar arithmarin lithorin koum érkharin. Kumethos menetharin moneth epir pedhin, koum kirathin érkharin kateth mekhir telthin er hemerin er eniauthin, heum ésarin telthin er dramin.]{.direction}
 :::
 
 : The Exit {#exit}
 
 ::: {.verse form=choral-ode lang=en work=exit}
-The day passes over us. Light fades along the western road./
-Carters go around us at the bend, looking away./
-Soon we lie in the grey grass for another year./
-Predators come to the boundary. The ring moves outward.
+The day goes over. The light goes down on the western road./
+The carters go round us on the bend, and look the other way./
+Soon we lie down in the grey grass for the year,/
+and the predators come to the edge, and the ring goes outward.
 
-Hear us from this plain, city of the Keeper./
-We are not angry. The dead are beyond anger. We wait./
-We were the levy. We voted to go. We stood where we were put./
-We still stand where we were put.
+Hear us, city of the Keeper, from the plain where we are standing./
+We are not angry. The dead are past anger. We are waiting./
+We were the levy. We voted to come out. We stood where we were placed./
+We are still standing where we were placed.
 
-Some call hope a thing for the living, a lamp on the road home./
-We call hope a rank that holds./
-We call hope the man on your left who has not moved,/
-and the man on your right who has not moved, and the raised shield.
+Some say that hope is a thing for the living, a lamp for the road home./
+We say that hope is a rank that does not break./
+We say that hope is the man on your left who has not moved,/
+and the man on your right, who has not moved, and the shield held up.
 
-The order never came. The order has still not come./
-We take our place in the line as we did that morning./
-When the city speaks, we are ready. We will turn right/
+The order did not come. The order has not come./
+We stand to the line as we stood in the morning./
+When the city says it, we are ready. We will turn to the right/
 and march off the field in our ranks, eight deep, to the rites.
 
-Until then, grey grass. Until then, the ring./
-Until then, a herald with his staff at the ring each year./
+Until then, the grey grass. Until then, the ring./
+Until then, the herald at the ring with his staff, every year./
 Lie down, levy of the Keeper's city. Lie down in your ranks./
-Next year the day returns and finds us on our feet.
+Next year the day comes round, and finds us standing.
 :::
 
-::: {.verse form=choral-ode lang=helo enc=helohelonikaenc work=exit}
-Hemerin érkharin huth herin. Kirathin érkharin kateth epir hodhin hesperir./
-Hamarir badhelin perith herin enth kampon. Helin meltharin prou heter ghéranis./
-Enghir khronin herin khelrin in klorin polithir pir eniauthin./
-Kenathir érkharin prou khrosin. Lithokir kinetharin ekor.
+::: {.verse form=choral-ode lang=helo enc=helohelonikaenc work=exit scan=tetrameter}
+Hemerin érkharin huth. Kirathin kateth/
+enth hodhin hesperir. Hamarir érkharin/
+perith enth kampon, koum meltharin apeth./
+Takhin herin khelrin in klorin/
+polithir pir eniauthin, koum kenathir/
+érkharin prou khrosin, koum lithokir ekor.
 
-Akrotharin herin pólithar er Filir. Afor aghelin er herin statharin./
-Herin uf ésarin orghelir. Thaner ésarin perol orghein. Herin perimenarin./
-Herin ésarin hoplothin. Herin thresarin érkharin ekor. Herin statharin enth thetharin er herin./
-Herin ethel statharin enth thetharin er herin.
+Akrotharin herin, pólithar er Filir,/
+afor pedhin er statharin er herin‼/
+Uf orghelir. Thaner perol thumira./
+Herin menarin. Herin hoplothin./
+Thresarin pir érkharin. Herin statharin/
+enth theselin thin strátimor dorasarin./
+Herin ethel statharin enth theselin.
 
-Fom rhéthasin. Elmirin ésarin praghin pir zelir. Lukhnir pir hodhin prou domin./
-Herin rhéthasin. Elmirin ésarin estralin er uf klastharin./
-Herin rhéthasin. Elmirin ésarin anerith enth arister er thu. Heir uf kinetharin./
-Koum anerith enth deksir er thu. Heir uf kinetharin. Koum khalithin er airatharin.
+Fom ánthimor rhéthasin elmirin ésarin/
+pir zelir, lukhnir pir hodhin prou domin./
+Herin rhéthasin elmirin estralin/
+uf klastharin. Herin rhéthasin elmirin/
+anerith enth arister, uf kinetharin,/
+koum anerith enth deksir, uf kinetharin,/
+koum khalithin thin ánthimor ekhárin aneth.
 
-Kelethein uf érkharin. Kelethein uf érkharin mekhir nuneth./
-Herin statharin prou estralin hometh herin statharin in orthrin./
-Enth khronin er pólithar rhéthasin hein herin ésarin hetoir. Herin allatharin prou deksir/
-Koum badhelin ekor aghelin in estralin er herin. Okther ánthimor enth bathin. Prou ieresin.
+Kelethein uf hikarin. Kelethein uf hikarin meil./
+Statharin prou sothkadrin hoth herin in orthrin./
+Eith pólithar rhéthasin, herin hetoir./
+Herin huzarin prou deksir koum badhelin/
+ekor afor aghelin in estralin,/
+okther bathin, prou ieresin er herin.
 
-Mekhir tothel klorin polithir. Mekhir tothel lithokir./
-Mekhir tothel kerukhir enth lithokir frun skathir. Plum eniauthin./
-Khelrin hoplothin er pólithar er Filir. Khelrin in estralin er thu./
-Eniauthin efeth hemerin nostharin koum heurarin herin statharin.
+Mekhir tothel, polithir klorin./
+Mekhir tothel, lithokir perith./
+Mekhir tothel, kerukhir enth lithokir/
+frun skathir, plum eniauthin./
+Khelrin, hoplothin er pólithar er Filir‼/
+Khelrin in estralin er thu, meun pef meun‼/
+Efeth eniauthin hemerin nostharin/
+koum heurarin herin statharin.
 :::
 
 ## See Also

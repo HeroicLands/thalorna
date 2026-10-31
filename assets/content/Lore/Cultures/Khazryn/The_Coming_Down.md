@@ -27,242 +27,263 @@ Two accounts of the coming down stand among the Tellumi, and the Delkoshekh give
 
 ## The Telling
 
-::: {lang=telu}
-Tiver narsher navel kishnesh nemi miver tursem dener virnil narvim virem. Narsel veme [Shirvan]{.name data-type="affiliation/lineage" lang=telu}. Yune miver danem genur ser nemi narsel dener tiver. Tellumi shenir hunen danem ninser perni virem danem narvesh danel tarmer nedim ser. Surer semel nelim. Heri veme vimher nemi Nerir. Mener berner timlan dener hene hamin har nidem gaben vanel timsen. Heri veme narvun shenir mener narem dener timlan virem. Nul miran muresh navel hunen hunem hudem virem. dimal miran hurnir hudem.
+::: {.verse lang=en work=telling}
+You have asked which house my family stood to, and the answer is [Shirvan]{.name data-type="affiliation/lineage" lang=telu}, and now you will have the rest of the answer, because a Tellumi who gives half of it has given a lie by leaving. Sit by the water. This is the shrine of the Mother, and the child is presented here within forty days, and this is what the child is told, and nobody remembers hearing it, and everybody knows it.
+
+We came down from the mountains. That is the first thing, and it is the thing no conqueror has been able to take out of our name. The range you see to the south, the wall of ice two thousand miles long with the glaciers lying between the peaks, is where we were before we were anywhere, and the belt of springs at its foot is where we came to, and the seven cities stand on the seven springs we came to first. Say the seven, in order: Shirvan, [[place-ashkarad|Ashkarad]], [[place-zargandur|Zargandur]], [[place-kethramir|Kethramír]], [[place-vahurdash|Vahurdash]], [[place-mehrnagord|Mernagord]], [[place-ushtraber|Ushtra-ber]]. A child says them before the child says its own name, because the city is the older name.
+
+Now the peaks. Every old house roots itself in a peak above the belt, and the roll names them. Most of the peaks no living member of the house has seen. That is not a shame. It is the distance we came.
 :::
 
-::: {lang=en}
-You asked which house my family stood to. The answer is [Shirvan]{.name data-type="affiliation/lineage" lang=telu}. Now I give the rest: a Tellumi who gives only half an answer lies by omission. Sit beside the water. This is the Mother's shrine. We bring a child here within forty days of birth and tell the child these words. Nobody remembers hearing them; everybody knows them.
-:::
+::: {.verse lang=telu work=telling}
+Tiver narsher navel kishnesh nemi miver tursem dener virnil narvim virem. Narsel veme [Shirvan]{.name data-type="affiliation/lineage"}. Yune miver danem genur ser nemi narsel dener tiver, danil Tellumi shenir hunen danem ninser perni virem danem narvesh danel tarmer nedim ser. Surer semel nelim‼ Heri veme vimher nemi Nerir. Mener berner timlan dener hene hamin har nidem gaben vanel timsen, lemir heri veme narvun shenir mener narem dener timlan virem. Nul miran muresh navel hunen hunem hudem virem. Dimal miran hurnir hudem.
 
-[Mener genbun vanel dalyim. Huri veme kenbesh denem. nul gerun shenir hunen nemur velnur nemi mener virem gaven nemur hudem vanel yumesh nemi mener. Dalyim shenir tiver lasem hudem dener yendur virem, gudesh nemi silnel shenir hudem veme nin mishen virdun tarli virem, mibil silnel vemun terem tenhur, veme het nemi mener hamin vel nedim het. Mener venem dener sali lu tarem tarmesh nemi hudem. Nivun gerhen tursem nurel nivun lu shenir mener venmer dener diven kenbesh virem. Narem nivun, benu nerdim, Shirvan, ]{lang=telu}[[place-ashkarad|Ashkarad]]{lang=telu}[, ]{lang=telu}[[place-zargandur|Zargandur]]{lang=telu}[, ]{lang=telu}[[place-kethramir|Kethramír]]{lang=telu}[, ]{lang=telu}[[place-vahurdash|Vahurdash]]{lang=telu}[, ]{lang=telu}[[place-mehrnagord|Mernagord]]{lang=telu}[, ]{lang=telu}[[place-ushtraber|Ushtra-ber]]{lang=telu}[. Timlan narem diven hamin yumesh nemi shernil. yumesh nemi gerhen veme palen teyut.]{lang=telu}
+Mener genbun vanel dalyim. Huri veme kenbesh denem, lemir nul miran shenir hunen nemur gerhen virem gaven nemur hudem vanel yumesh nemi mener. Dalyim shenir tiver lasem hudem dener yendur virem, gudesh nemi silnel shenir hudem veme nin mishen virdun tarli virem, mibil silnel vemun dimer sali tenhur, veme het nemi mener hamin vel nedim het. Mener venem dener sali lu tarem tarmesh nemi hudem, lemir nivun gerhen tursem nurel nivun lu shenir mener venmer dener diven kenbesh virem. Narem nivun benu nerdim‼ Shirvan, [[place-ashkarad|Ashkarad]], [[place-zargandur|Zargandur]], [[place-kethramir|Kethramír]], [[place-vahurdash|Vahurdash]], [[place-mehrnagord|Mernagord]], [[place-ushtraber|Ushtra-ber]]. Timlan narem diven hamin yumesh nemi shernil, danil yumesh nemi gerhen veme palen teyut.
 
-::: {lang=en}
-We came down from the mountains. That comes first; no conqueror can take it out of our name. The southern range you see, a wall of ice two thousand miles long with glaciers between its peaks, was our place before any other place. We reached the springs at its foot. The seven cities stand on the seven springs we first reached. Say the seven in order: Shirvan, [[place-ashkarad|Ashkarad]], [[place-zargandur|Zargandur]], [[place-kethramir|Kethramír]], [[place-vahurdash|Vahurdash]], [[place-mehrnagord|Mernagord]], [[place-ushtraber|Ushtra-ber]]. A child speaks them before its own name. The city's name is older.
-:::
-
-::: {lang=telu}
-Yune tenhur. Dimel teyut narvim hager yalnur nemi shernil benu tenhur hemun Tellumel. tsemhat yumir diven. Nul hevuni miran nemi narvim lasem palen ser nemi herin tenhur. Huri nesh veme surnem. Huri veme fernul shenir mener tarim hudem virem.
-:::
-
-::: {lang=en}
-Now the peaks. Each old house roots itself in a peak above the belt; the roll names them. No living member of a house has seen most of these peaks. That brings no shame. It is the distance we came.
+Yune, sali tenhur. Dimel teyut narvim hager yalnur nemi shernil benu tenhur hemun Tellumel, lemir tsemhat yumir diven. Nul hevuni miran nemi narvim lasem palen ser nemi herin tenhur. Huri nesh veme surnem. Huri veme fernul shenir mener tarim hudem virem.
 :::
 
 ### What the old houses tell
 
-::: {lang=telu}
-Teyut narvim narem heri lavun, Shirvan veme palen teyut nali dimal nedim. Miver narem heri lavun. Hamuni miver narem nedim lavun dener tiver. Tselvun hager dimal nin, lemir Delkoshekh hager denem shenir Tselvun hager hudem virem.
+::: {.verse lang=en work=old-houses}
+The old houses, and Shirvan is the oldest, tell it this way, and I tell it this way, and I will tell you the other way after, because the Council keeps both and a Delkoshekh keeps what the Council keeps.
+
+In the first age, before the first tablet, the lineages lived in the high country, on the peaks and under them, and the song does not say how they lived, because the song begins with the leaving. There came a year, or a generation, when the high country would not hold them. The old houses say the snow came and did not go, and the water froze in the passages, and the children were born blue. The lineages went down. They did not go down the face, because the face is ice and no one goes down it. They went down through the mountain.
+
+There is a door in the north face, a morning's walk above the last terrace of the belt, forty feet high and plain, with no carving on it, and behind it a passage slopes up into the mountain at the pitch of a long stair. The floor is worn. The walls are dressed. Where it branches, which it does within a hundred paces, every junction is cut square with a lintel over it. We call it Vurdish, which is the word for a pass. The old houses say the ancestors came down through it, from the peaks, in the dark, in the cold, one lineage after another, each by its own branch, and came out of that door into the sun above the belt and saw the springs below them for the first time.
+
+Who cut the passage, the song does not say, and I do not say, and nobody who tells you otherwise is telling you a Tellumi thing. The door was open before us. The floor was worn before us. The first of Shirvan put his hand on the lintel of the first junction and found it smooth, and that is on the tablet, and that is all that is on the tablet about it. Everything that climbs and branches and climbs again inside that mountain was there, and we came through what was there, and we did not ask it a question, because we were cold.
+
+What the song does say is the sound. The whole way down, the lineages heard water falling on a flat stone, somewhere ahead, faint and regular, and they followed it, because people who have left a frozen country follow the sound of water running, and the sound led them down and out, and when they came out of the door the sound was still ahead of them, below, and it was the great spring breaking from the foot of the pale cliff, and that is Shirvan. Go into Vurdish today and you hear the same sound, faint and regular, like water falling on a flat stone a long way off, and the climbers the exile houses hire say it does not get nearer however far they go up. The old houses say that is because the water it was leading us to is here, at the foot, where we drink it. That is what the old houses say.
+
+And the signs. As each lineage came down its own branch of the passage it cut its house-sign on the lintel of every junction it took, so that the way back could be read. The first of Shirvan cut the sign of the snow peak. The first of [Ashkarad]{.name data-type="affiliation/lineage" lang=telu} cut the sign of the white. And so on down the roll. The signs are there. The climbers have seen them in the first mile, and have seen more above, and have not gone far enough to see where any branch ends, because the cold deepens as you climb and the crag lurkers hunt the first mile from the ceiling and drop on whoever carries the lamp, and above that a pale hound follows at the edge of the light and does not come in until the light fails. A house that can show the sign cut on the lintel of the passage that leads to its own peak has proved a thing the exile houses have been unable to prove since the [Breaking]{.name data-type="lore/history" lang=en}, which is that the peak is theirs, and the Tellumi hold that the owner of a peak owns the water that comes down from it. You see why the houses pay climbers. You see why a rival house pays a party to stop them.
 :::
 
-::: {lang=en}
-This is the account the old houses tell, and Shirvan is the oldest. I tell it this way. Afterward I give you the other account: the Council keeps both, and a Delkoshekh keeps what the Council keeps.
-:::
+::: {.verse lang=telu work=old-houses}
+Teyut narvim narem heri lavun, lemir Shirvan veme palen teyut nali dimal nedim. Miver narem heri lavun. Hamuni miver narem nedim lavun dener tiver, danil Tselvun hager dimal nin, lemir Delkoshekh hager denem shenir Tselvun hager hudem virem.
 
-::: {lang=telu}
-Yeril kenbesh yermun, hamin kenbesh tenyut, sali narvim hever benu te velnur, nurel tenhur lemir hamil diven. Relum nesh narem verlim diven hever. relum kinver mibil tarmer. Pel yarnim venem, lemur yermun nemi pel narvim. te velnur nesh gaven hager diven. Teyut narvim narem navel gilsum venem lemir nesh tarmer, nelim silber benu sulvun, sali timlan timber nelvur virem. Narvim genbun. Diven nesh genbun lasrim nemi dalyim. lasrim veme silnel, nul miran genbun hudem. Diven genbun tseril dalyim.
-:::
+Yeril kenbesh yermun, hamin kenbesh tenyut, sali narvim hever benu te velnur, nurel tenhur lemir hamil diven. Relum nesh narem verlim diven hever, danil relum kinver mibil tarmer. Pel yarnim venem, lemur pel timdur, shenir te velnur nesh gaven hager diven yernel hudem virem. Teyut narvim narem navel gilsum venem lemir nesh tarmer, nelim silber benu sulvun, lemir sali nerir timber nelvur timlan virem. Narvim genbun. Diven nesh genbun nurel lasrim nemi dalyim, danil lasrim veme silnel lemir nul miran genbun nurel hudem. Diven genbun tseril dalyim.
 
-::: {lang=en}
-In the first age, before the first tablet, the lineages lived in the high country, on and below the peaks. The song gives no account of their life; it begins with their leaving. A year came, or a generation, when the high country could not hold them. The old houses say snow came and stayed, water froze in the passages, children were born blue. The lineages descended. They did not descend the mountain face: the face is ice, and nobody goes down it. They came through the mountain.
-:::
+Vartem veme benu tsenmat lasrim, pel hulvir nemi tarim hemun genur telnem nemi Tellumel, har nidem tarmesh terli lemir talnim, mibil nul tenesh nurel hudem. Bamir hudem sulvun dalmer benu dalyim leshim tarli ternesh. Hernal veme limli danel tarmesh. Gudesh veme karvem shenir miran berem hudem limli virem. Sulvun hurem varnil hamin hemut tarim nemi tarmesh, lemir dimel varmesh, miran kargen hudem nesh kurnem, mibil karnel hemun hudem. Mener yumir hudem Vurdish, danil hudem veme vurdish. Teyut narvim narem navel benden genbun tseril hudem vanel tenhur, benu nurmen, benu silum, pel narvim hamun pel, dimel tseril varnil nemi shernil, lemir hunver vanel huri vartem dener talhish hemun Tellumel, lemir lasem lu henil diven tarem kenbesh darem virem.
 
-::: {lang=telu}
-Vartem veme benu tsenmat lasrim, pel hulvir nemi tarim hemun genur telnem nemi Tellumel, har nidem tarmesh terli, talnim, mibil nul tenesh. Bamir hudem sulvun dalmer dener dalyim, leshim tarli ternesh. Hernal veme teyut limli danel tarmesh. Gudesh veme karvem shenir miran berem hudem limli virem. Sulvun hurem varnil hamin hemut tarim nemi tarmesh. dimel terem nemi sulvun veme nesh kurnem, mibil karnel hemun hudem. Mener yumir hudem Vurdish. huri narvun menir vurdish. Teyut narvim narem navel benden genbun tseril hudem vanel tenhur, benu nurmi, benu silum, pel narvim hamun pel, dimel tseril varnil nemi shernil. diven hunver vanel huri vartem dener talhish hemun Tellumel, lemir lasem lu henil diven tarem kenbesh darem virem.
-:::
+Verin kargen sulvun, relum nesh narem. Miver nesh narem. Miran shenir hunen narem nedim dener tiver virem nesh narem Tellumi denem. Hamin mener venem, vartem hageni varter. Hamin mener venem, hernal hageni veme limli. Kenbesh miran nemi Shirvan ladem limur nemi hunen nurel karnel nemi kenbesh varmesh lemir venhir navel hudem veme limli virem. Huri veme nurel tenyut, lemir huri veme dimal narvun nemi tenyut nurel hudem. Dimal denem shenir hudem dalmer, hurem varnil lemir dalmer gerni benu huri dalyim virem hageni veme hune. Mener venem tseril denem shenir hudem hageni veme hune virem, lemir mener nesh narsher hudem denem, danil mener veme silmi.
 
-::: {lang=en}
-There is a door in the north face, a morning's walk above the belt's last terrace: forty feet high, plain, uncarved. Behind it a passage climbs into the mountain like a long stair. Footsteps have worn the floor smooth; the walls are dressed stone. It branches within a hundred paces. Each junction is squared, a lintel above it. We call it Vurdish, the word for a pass. The old houses say the ancestors descended through it from the peaks, cold and in darkness, lineage after lineage, each taking its own branch. They emerged from that door into sunlight above the belt and saw the springs below for the first time.
-:::
+Relum narem hunel. Yeril sumet genbun, narvim hunem nelim genmer nurel velmi karvem, tarem nemil het fermil, hushli lemir samrel benu yermun. Diven felmer hudem, danil dimen shenir diven tarmer silmi velnur virem felmer hunel nemi nelim shenir hudem tarsher virem. Hunel fermer diven genil lemir vannil. Yernem diven hunver vanel vartem, hunel hagenir veme fermil, henil, lemir hudem veme garmesh lu shenir hudem turem vanel tarmesh nemi vilni kervish virem. Huri veme Shirvan. Dinel tiver hinter Vurdish heri gaben, dinir tiver hunem samnil hunel, hushli lemir samrel benu yermun, leshim nelim genmer nurel velmi karvem tarem ferul het. Balem narvim danem hurshel dener sali dalmir, lemir sali dalmir narem navel hunel nesh venmi nerem, damel fernul shenir diven dalmer hudem virem. Teyut narvim narem navel danhel veme heri virem. Nelim shenir hunel fermer mener dener hudem virem veme hene, tarem tarmesh, tarem het shenir mener nilsher hudem virem. Huri veme narvun nemi teyut narvim.
 
-::: {lang=telu}
-Verin tsergim sulvun, relum nesh narem. Miver nesh narem. Miran shenir hunen narem nedim dener tiver virem nesh narem Tellumi denem. Vartem veme varter hamin mener. Hernal veme limli hamin mener. Kenbesh miran nemi Shirvan ladem limur nemi hunen nurel karnel nemi kenbesh terem nemi sulvun lemir venhir navel hudem veme limli virem. Huri veme nurel tenyut. Huri veme dimal narvun nemi tenyut nurel hudem. Dimal denem shenir hudem dalmer, hurem varnil, dalmer gerni benu huri dalyim virem hageni veme hune. Mener venem tseril denem shenir hudem hageni veme virem. Mener nesh narsher hudem denem, danil mener veme silmi.
-:::
-
-::: {lang=en}
-The song does not name the passage's makers. Neither do I. Anyone giving you another answer is giving you something outside Tellumi tradition. The door stood open before us; the floor was worn before us. The first of Shirvan laid his hand on the first junction's lintel and found it smooth. That is on the tablet. That is everything the tablet says of it. All that climbs and branches and climbs again inside the mountain already existed. We came through what was there. We asked it nothing: we were cold.
-:::
-
-::: {lang=telu}
-Relum narem hunel. Yeril sumet genbun, narvim hunem nelim genmer nurel talnim karvem, tarem nemil het fermil, hushli lemir samrel benu yermun. Diven felmer hudem. dimen shenir diven tarmer silber velnur virem felmer hunel nemi tarsher nelim. Hunel fermer diven genil lemir vannil. Tarem diven hunver vanel vartem, hunel hagenir veme fermil, henil. hudem veme garmesh lu shenir hudem turem tarmesh nemi vilni kervish virem. Huri veme Shirvan. Hinter Vurdish heri gaben. tiver hunem samnil hunel, hushli, samrel benu yermun, leshim nelim genmer nurel talnim karvem tarem ferul het. Sali dalmer shenir balem narvim danem hurshel dener diven virem narem navel hunel nesh venmi nerem, damel fernul shenir diven dalmer hudem virem virem. Teyut narvim narem navel danhel veme heri. nelim shenir hudem fermer mener dener hudem virem veme hene, tarem tarmesh, tarem mener nilsher hudem virem. Huri veme narvun nemi teyut narvim.
-:::
-
-::: {lang=en}
-What the song gives is the sound. All through the descent the lineages heard water falling on flat stone somewhere ahead, faint and regular. They followed: people leaving a frozen country follow running water's sound. It led them down and out. Beyond the door the sound remained ahead, below them: the great spring breaking from the pale cliff's foot. That is Shirvan. Enter Vurdish today and you hear it still, faint and regular, like water falling on distant flat stone. Climbers hired by the exile houses say it comes no nearer however far they climb. The old houses explain that the water toward which it led us is here at the foot, where we drink. That is their account.
-:::
-
-::: {lang=telu}
-Lemir sali tenesh. Yeril dimel narvim genbun varnil nemi shernil nemi sulvun, hudem tsergim tenesh nemi shernil nurel karnel nemi dimel terem shenir hudem tarim tseril hudem virem, peril tenem tarlim nemi revin. Kenbesh miran nemi Shirvan tsergim tenesh nemi tenhur nemi gilsum. Kenbesh miran nemi [Ashkarad]{.name data-type="affiliation/lineage" lang=telu} tsergim tenesh nemi vilun. Nedim narvim felmer nerdim nemi tsemhat. Tenesh veme hune. Sali dalmer lasem diven benu kenbesh virdun lemir lasem palen tenil. Diven nesh geshem ferul marnil peril lasem telvem nemi vel varnil. silum vulmer yeril dalmer. Karvash gurver benu kenbesh virdun vanel hurnim. diven genmer nurel miran shenir hunen berven pernil virem. Denir huri het vilni yepish felmer tarem nelran nemi helun, lemir hudem nesh hinter yermir helun telver. Narvim shenir hudem gaven lasmer tenesh nurel karnel nemi sulvun shenir hudem fermer dener tenhur nemi shernil virem virem nerber denem shenir balem narvim nesh gaven nerber hudem yernel [Turem]{.name data-type="lore/history" lang=telu} virem, tenhur veme nemi hudem. Tellumi nurmer navel miran shenir hunen hurem tenhur virem hurem nelim shenir hudem genbun vanel hudem virem virem. Tiver hursel danel verum narvim danem hurshel dener dalmer. Tiver hursel danel verum harsin narvim danem hurshel dener salmir peril telnir diven.
-:::
-
-::: {lang=en}
-And the signs: descending each branch, a lineage cut its house emblem on every junction's lintel so the return road could be read. The first of Shirvan cut the snow peak's sign; the first of [Ashkarad]{.name data-type="affiliation/lineage" lang=telu}, the white peak's. The rest follow the roll. The signs remain. Climbers have seen them in the first mile, and more above. None has reached a branch's end: the cold deepens with the climb. Crag lurkers hunt the first mile from its ceilings, dropping on the lamp-bearer. Beyond, a pale hound follows the light's edge, entering only when light fails. A house able to show the sign on a lintel along the passage to its own peak proves what the exile houses cannot prove since the [Breaking]{.name data-type="lore/history" lang=en}: ownership of that peak. The Tellumi hold that a peak's owner owns its descending water. You understand the climbers' wages, and why a rival house pays a party to stop them.
+Lemir sali tenesh. Yernem dimel narvim genbun tseril varnil nemi shernil nemi sulvun, hudem tsergim tenesh nemi shernil nurel karnel nemi dimel varmesh shenir hudem tarim tseril hudem virem, peril tenem tarlim nemi revin. Kenbesh miran nemi Shirvan tsergim tenesh nemi tenhur nemi gilsum. Kenbesh miran nemi [Ashkarad]{.name data-type="affiliation/lineage"} tsergim tenesh nemi vilun. Nedim narvim felmer nerdim nemi tsemhat. Tenesh veme hune. Sali dalmir lasem diven benu kenbesh virdun, lemir lasem palen tenil, lemir nesh geshem ferul marnil peril lasem telvem nemi vel varnil, danil silum vulmer yernem tiver dalmer, lemir karvash gurver benu kenbesh virdun vanel hurnim lemir genmer nurel miran shenir hunen berven pernil virem, lemir denir huri het vilni yepish felmer tarem harmel nemi helun lemir nesh hinter yermir helun telver. Narvim shenir hudem gaven lasmer tenesh nurel karnel nemi sulvun shenir hudem fermer dener tenhur nemi shernil virem virem nerber denem shenir balem narvim nesh gaven nerber hudem yernel [Turem]{.name data-type="lore/history"} virem, namir tenhur veme nemi hudem. Tellumi nurmer navel miran shenir hunen hurem tenhur virem hurem nelim shenir hudem genbun vanel hudem virem virem. Tiver hursel danel verum narvim danem hurshel dener dalmir. Tiver hursel danel verum harsin narvim danem hurshel dener salmir peril telnir diven.
 :::
 
 ### The roll of the peaks
 
-::: {lang=telu}
-Yune tursem. Mener narem tsemhat tursem. Heri veme lavun nemi tenner nemi narvim tarem nilhem nemi relvan, lemir nemi Delkoshekh tarem kenbesh gaben nemi lavun nemi lem gaben. Narvim narsel dimel tenhur mibil yumesh nemi gerhen nemi shernil.
+::: {.verse lang=en work=stand}
+Now stand, because the roll is said standing, and this is how the eldest of a house says it at a prince's funeral, and how a Delkoshekh says it on the first day of the festival, and the house answers each peak with the name of its city.
 :::
 
-::: {lang=en}
-Stand now: the roll is spoken standing. This is how a house's eldest recites at a prince's funeral, and a Delkoshekh on the first day of the five-day festival. The house answers each peak with its city's name.
+::: {.verse lang=telu work=stand}
+Yune tursem‼ Danil mener narem tsemhat tursem. Heri veme lavun nemi tenner nemi narvim tarem nilhem nemi relvan, lemir lavun nemi Delkoshekh tarem kenbesh gaben nemi lem gaben, lemir narvim narsel dimel tenhur mibil yumesh nemi gerhen nemi shernil.
 :::
 
 : The Roll of the Seven Peaks {#roll}
 
 ::: {.verse form=tsemhat lang=en work=roll}
-Seven peaks, seven springs, seven houses: the order of descent./
-Speak the peak; the house answers with its town./
-Gilsumtenhur. Snow peak. First and highest, where snow never leaves./
-The first lineage descended from it, bringing wet clay with no sign/
-upon its face. They carried it untouched and pressed it at the water with a reed./
-That is the first tablet. It says: _here_. The house keeps it, needing/
-no more words. It settled the great spring beneath the pale cliff: first water, most water./
-_Shirvan._/
-Viluntenhur. White peak. Second, east of the first, white rock in its face./
-The second lineage descended carrying tools alone. The place/
-they settled was a spring edged with clay, copper in its hill. They made the belt's crafts./
-The house keeps the first tool, a bronze adze, its handle gone. Each generation remakes that handle/
-from a palm of its own groves. That is its claim./
-_Ashkarad._/
-Kulsamtenhur. Black peak. Third. It stands alone, the cloud sitting on it./
-The third lineage descended, bringing the horse, the song says. The song leaves its source/
-upon a peak untold; the house does not ask. It settled where the river runs brown/
-in spring, built weirs and bred long-legged horses. Its tablet says: _we stood_. Its city/
-is held by others now. Its peak is not./
-_Zargandur._/
-Talhishtenhur. Sun peak. Fourth, first to catch the morning light on the range./
-The fourth lineage descended carrying the gods' order, the count of days, the changing/
-seasons. It settled three unfailing wells and made the priest-house./
-It keeps the oldest commentary, keeping it in exile. This house suffered most killing and received least/
-land. It recites that without changing its voice./
-_Kethramír._/
-Darhertenhur. Red peak. Fifth. Sunset rests on it; at evening it bleeds./
-The fifth lineage descended to the last spring reached by melt, upon the rim. Its departure/
-belongs to another song, its return to a third. The house sits again/
-among its own stones by acclamation, drinking from two wells. The roll speaks its peak plainly./
-_Vahurdash._/
-Vursettenhur. Wind peak. Sixth, at the west end, where the wall breaks into hills./
-The sixth lineage descended. Some say it came down the hills, without passing through the door./
-That is the other account, this house's. The roll names the peak and leaves the road unsaid./
-It settled beside salt, still holds its city, pays nobody tribute, carries the burden/
+Seven peaks, and seven springs, and seven houses, and the order of the coming down./
+Say the peak, and the house will say the town.
+
+Gilsumtenhur. The snow peak. The first and the highest, where the snow is never gone./
+From it the first lineage came, and brought a tablet of wet clay with nothing pressed upon/
+its face, and carried it down unpressed, and pressed it at the water with a reed,/
+and that is the first tablet, and it says: _here_, and the house keeps it, and does not need/
+to say more. It settled the great spring under the pale cliff, the first water, the most./
+._Shirvan._
+
+Viluntenhur. The white peak. The second, to the east of the first, with the white rock in its face./
+From it the second lineage came, and brought down tools, and no more than the tools, and the place/
+they settled was a spring with clay at its edge and copper in the hill, and they made what the belt makes,/
+and the house keeps the first tool, a bronze adze with the handle gone, and the handle it remakes/
+each generation from a palm of its own groves, and that is its claim./
+._Ashkarad._
+
+Kulsamtenhur. The black peak. The third, that stands alone, and that the cloud sits on./
+From it the third lineage came, and brought down the horse, the song says, though whence the horse was gotten/
+on a peak the song does not say, and the house does not ask, and settled where the river comes down brown/
+in spring, and built the weirs, and bred the long-legged horse, and its tablet says: _we stood._ The town/
+is held by others now. The peak is not./
+._Zargandur._
+
+Talhishtenhur. The sun peak. The fourth, where the light comes first in the morning on the whole range./
+From it the fourth lineage came, and brought down the order of the gods, and the count of the days, and the change/
+of the seasons, and settled the three wells that have never failed, and made the house of the priests,/
+and keeps the oldest commentary, and keeps it in exile, and is the house that took the worst of the killing, and the least/
+of the land, and recites that without a change of voice./
+._Kethramír._
+
+Darhertenhur. The red peak. The fifth, that the sun sets on, and that bleeds at evening./
+From it the fifth lineage came, and settled the last spring the melt-water reaches, on the rim, and the leaving/
+of that spring is another song, and the coming back is a third, and the house is seated again/
+among its own stones, by acclamation, and drinks from two wells, and the roll says its peak, and says it plain./
+._Vahurdash._
+
+Vursettenhur. The wind peak. The sixth, at the western end, where the wall comes apart into hills./
+From it the sixth lineage came, and some say it did not come through the door but down the hills,/
+and that is the other account, and it is this house's, and the roll says the peak and not the road,/
+and the house settled by the salt, and holds its city still, and pays no one, and carries the load/
 of the western gate, and sells salt into two lands./
-_Mernagord._/
-Yermimtenhur. Green peak. Seventh, at the east end under the [[place-estrnreach|Eastern Reach]], a glacier in a green valley./
-The seventh lineage descended last and settled the far spring beneath ice. It keeps the forms, following/
-its own court's manners alone. It sweeps its streets at dawn; the Keeper of the Tablets reads/
-each petition aloud. It holds its city: last of seven, last word spoken./
-_Ushtra-ber._/
+._Mernagord._
+
+Yermimtenhur. The green peak. The seventh, at the eastern end, under the [[place-estrnreach|Eastern Reach]], where a glacier lies in a green valley./
+From it the seventh lineage came, last, and settled the far spring under the ice, and keeps the forms, and will not rally/
+to any court's manners but its own, and sweeps its streets at dawn, and has the Keeper of the Tablets read/
+every petition aloud, and holds its city, and is the last of the seven, and the last word said./
+._Ushtra-ber._
+
 Seven peaks. Seven springs. Seven houses. Four held by others. Three held. Seven claimed./
-A house that loses its peak loses its claim. No peak is lost. We name all seven.
+A house whose peak is lost has lost its claim. No peak is lost. All seven are named.
 :::
 
 ::: {.verse form=tsemhat lang=telu work=roll}
-Nivun tenhur, nivun lu, nivun narvim, nerdim nemi genbun./
-Narem tenhur. narvim narsel mibil yumesh nemi gerhen./
-Gilsumtenhur. Tenhur nemi gilsum. Kenbesh, palen te nali dimal nedim. Gilsum tarem nul darem tarmer./
-Kenbesh narvim genbun vanel hudem, mibil tenyut nemi nelni budem, mibil nul tenesh/
-nurel lasrim nemi hudem. Diven berven hudem nesh buder. diven buder hudem tarem nelim mibil pirvem./
-Huri veme kenbesh tenyut. Hudem narem, hene. Narvim hager hudem. hudem nesh marnem/
-narem palen. Hudem hever semel garmesh lu hamil vilni kervish, kenbesh nelim, palen nali dimal nedim./
-Shirvan./
-Viluntenhur. Vilun tenhur. Nire nin, dener vengun vanel kenbesh, mibil vilun karvut benu lasrim nemi hudem./
-Nire nin narvim genbun vanel hudem, mibil denem nemi beremri perni. Het/
-shenir diven hever hune virem veme lu mibil budem tarem nelran lemir tamker benu dalnim. Diven berem denem nemi Tellumel./
-Narvim hager kenbesh denem nemi beremri, tamnel berbun, varhur nemi hudem veshkun. Dimel yermun nemi narvim diven berem verli varhur/
-vanel talvut nemi yashgem nemi shernil. Huri veme lemhur nemi hudem./
-Ashkarad./
-Kulsamtenhur. Kulsam tenhur. Nire tes. Hudem tursem pel, helmen surer nurel hudem./
-Nire tes narvim genbun vanel hudem lemir berner garvan, relum narem, damir relum nesh narem vanel verhet/
-hunen nemur garvan nurel tenhur. Narvim nesh narsher. Hudem hever tarem vemun genbun bermal/
-yeril hiresh, herem nelgur lemir berem narvim nemi garvan mibil tarli tarven. Tenyut nemi hudem narem, mener tursem. Gerhen/
-veme nemi nedim yune. Tenhur nesh veme nemi nedim./
-Zargandur./
-Talhishtenhur. Tenhur nemi talhish. Nire har. Helun venem kenbesh tarem hulvir nurel hudem benu sumet dalyim./
-Nire har narvim genbun vanel hudem mibil nerdim nemi vurnel, tavim nemi gaben, lemir vernal/
-nemi yarnem. Hudem hever semel tes peshden shenir diven tarem nul darem veme derat virem lemir berem narvim nemi Delkoshekh./
-Hudem hager narsum shenir hudem veme palen teyut nali dimal nedim virem, hudem hager hudem benu balem. Huri narvim nemur palen nilsem nali dimal nedim, neven/
-velnur nali dimal nedim. Hudem narem huri mibil nesh vernem narlem./
-Kethramír./
-Darhertenhur. Darher tenhur. Nire lem. Talhish genbun nurel hudem. hudem henhir tarem garhel./
-Nire lem narvim genbun vanel hudem lemir hever semel genur lu shenir hiresh venmer dener hudem virem, tarem nelran. Tarmer/
-nemi huri lu veme nedim relum, revin veme nire tes. Narvim surer gerni/
-dimer karvem nemi shernil danel dimen narkem hudem, hudem nilsher vanel nin peshden. Tsemhat yumir tenhur nemi hudem, laskel./
-Vahurdash./
-Vursettenhur. Tenhur nemi vurse. Nire yas, tarem hemvan telvem, tarem gudesh turem dener dalnim./
-Nire yas narvim genbun vanel hudem. Nemil narem navel hudem nesh tseril vartem, damir hudem genbun dalnim virem./
-Huri veme nedim lavun, nemi heri narvim. Tsemhat yumir tenhur, hudem nesh yumir tarlim./
-Narvim hever semel yisur, hudem hagenir hager gerhen nemi shernil, danem nemtar dener nul, berven barmil beremri/
-nemi hemvan vartun, lemir pelner yisur dener nin velnur./
-Mernagord./
-Yermimtenhur. Yermim tenhur. Nire nivun, tarem vengun telvem, hamil [[place-estrnreach|Eastern Reach]]{lang=en}, tarem silnel vemun dunir benu yermim damlir./
-Nire nivun narvim genbun vanel hudem, genur, lemir hever semel ferul lu hamil silnel. Hudem hager nartim. hudem nesh felmer/
-temmur nemi vel narhet ternul nemi shernil. Hudem nemur bermil vanel tarlim tarem hulen. Miran nemi Hager nemi Tenyut tenem/
-dimel narsher hurlem. Hudem hager gerhen nemi shernil, genur nemi nivun, genur narvun nemi narem./
-Ushtra-ber./
-Nivun tenhur. Nivun lu. Nivun narvim. Har nemi nedim. Tes hagesh. Nivun lemhur./
-Narvim shenir hudem veshner tenhur nemi shernil virem veshner lemhur nemi shernil. Nul tenhur veme veshkun. Mener yumir dimal nivun.
+Nivun tenhur, nivun lu, nivun narvim,/
+nerdim nemi diven, nerdim nemi genbun./
+Narem tenhur‼ Lemir narvim narsel gerhen.
+
+Gilsumtenhur./
+Kenbesh, palen te nali dimal nedim,/
+tarem nul darem gilsum tarmer vanel hudem./
+Kenbesh narvim genbun vanel heri tenhur,/
+berner nelimbudem tenyut, nul tenesh nurel hudem,/
+diven berven hudem genil, nesh buder hudem,/
+buder hudem tarem nelim mibil pirvem./
+Kenbesh tenyut narem pel narvun, «Hene.»/
+Narvim hager hudem, nesh marnem narem palen./
+Hever semel lu hamil vilni kervish,/
+kenbesh nelim, palen nali dimal nedim./
+.Shirvan.
+
+Viluntenhur./
+Nire nin tenhur, vengun nemi kenbesh,/
+vilun karvut benu lasrim nemi hudem./
+Nire nin narvim genbun vanel hudem,/
+berner sali bermet, perni sali bermet./
+Hever semel lu, budem semel nelim,/
+lemir tamker benu dalnim nemi hudem./
+Berem denem shenir Tellumel berem virem./
+Narvim hager kenbesh bermet, tamnel berbun,/
+lemir limvar nemi hudem veme veshkun./
+Dimel timdur narvim berem limvar gerni/
+vanel talvut nemi yashgem nemi shernil./
+Heri veme lemhur nemi heri narvim./
+.Ashkarad.
+
+Kulsamtenhur./
+Nire tes tenhur, nul tenhur semel hudem,/
+helmen surer nurel helmut nemi hudem./
+Nire tes narvim genbun vanel hudem,/
+lemir berner garvan genil, relum narem./
+Garvan venem vanel verhet, nurel tenhur?/
+Relum nesh narem hudem, narvim nesh narsher hudem./
+Hever semel vemun, bermal yeril hiresh,/
+herem nelgur, vulber tarli tarven garvan./
+Tenyut nemi hudem narem, «Mener tursem.»/
+Nedim hager gerhen yune. Nesh hager tenhur./
+.Zargandur.
+
+Talhishtenhur./
+Nire har tenhur, helun nemi hulvir/
+venem nurel hudem hamin sumet dalyim./
+Nire har narvim genbun vanel hudem,/
+berner genil nerdim nemi sali vurnel,/
+tavem nemi gaben, vernal nemi yarnem./
+Hever semel tes peshden, nelim nesh telver,/
+lemir herem her nemi sali Delkoshekh,/
+hager narsun palen teyut nali nedim,/
+lemir hager hudem benu balem yune./
+Nemur palen nilsem nali dimal nedim,/
+nemur neven velnur nali dimal nedim,/
+narem huri, narlem nemi hudem nesh vernem./
+.Kethramír.
+
+Darhertenhur./
+Nire lem, talhish genbun nurel hudem,/
+lemir hudem henhir tarem dimel garhel./
+Nire lem narvim genbun vanel hudem,/
+hever tarem genur lu, tarem harmel./
+Diven tarmer hudem benu nedim relum,/
+lemir revin benu nire tes relum./
+Surer gerni dimer karvem nemi shernil/
+danel narlem nemi dimen, lemir nilsher/
+vanel nin peshden. Tsemhat yumir tenhur,/
+yumir hudem, lemir yumir hudem laskel./
+.Vahurdash.
+
+Vursettenhur./
+Nire yas, tarem telvem nemi hemvan,/
+tarem gudesh turem dener sali dalnim./
+Nire yas narvim genbun vanel hudem./
+«Nesh tseril vartem, damir tseril sali dalnim.»/
+Huri veme lavun nemi heri narvim./
+Tsemhat yumir tenhur, tsemhat nesh yumir tarlim./
+Hever semel yisur, hagenir hager gerhen,/
+nesh danem hurshel, berven vartun nemi hemvan,/
+lemir pelner yisur dener nin velnur./
+.Mernagord.
+
+Yermimtenhur./
+Nire nivun, tarem telvem nemi vengun,/
+tarem silnel dunir benu yermim damlir./
+Nire nivun narvim genbun vanel hudem,/
+genur. Hever semel lu hamil silnel,/
+hager nartim, nesh felmer temmur nemi nedim,/
+hushver tarlim nemi shernil tarem hulen,/
+Tenyut hagmen tenem dimel narshun hurlem,/
+hager gerhen, veme genur nemi nivun,/
+lemir veme genur narvun nemi tsemhat./
+.Ushtra-ber.
+
+Nivun tenhur, nivun lu, nivun narvim./
+Nedim hager har, mener hager tes,/
+dimal nivun veme lemhur nemi mener./
+Narvim shenir hudem veshner tenhur virem/
+veshner lemhur nemi shernil. Nul veme veshkun./
+Mener yumir dimal nivun, nivun tenhur.
 :::
 
 ### What the Descent houses tell
 
-::: {lang=telu}
-Yune nedim lavun. Miver danem hudem mibil samnil narlem. Tselvun hager hudem benu samnil garmesh herun.
+::: {.verse lang=en work=descent}
+Now the other account, and I give it in the same voice, because the Council keeps it in the same hall.
+
+The houses of the west, [Mernagord]{.name data-type="affiliation/lineage" lang=telu} first among them, and some of the lesser lines, say the lineages did not come through the mountain at all. They say the ancestors came down the Western Descent, the last three hundred miles of the range, where the wall breaks into brown foothills and a loaded camel can walk from the high country to the belt without climbing, which is the one stretch of the whole range that needs no guide. They came down it as a people walks, with their herds and their tablets and their old, over a generation, and settled the springs from west to east as they reached them, and the roll's order is the order of the houses' standing and not of their arrival. The door in the north face, they say, is a door; it was there before us and it is there now, and the old houses found it and wished themselves through it, because a people who came down through a mountain are older than a people who walked round the end of one. A lie told to flatter, the western houses say, and they say it at the Council, to the old houses' faces, and have said it for two thousand years.
+
+The old houses answer that the signs are on the lintels. The western houses answer that a sign can be cut on a lintel in any generation by anyone with a chisel and a grievance. The old houses answer that the sound is in the passage. The western houses answer that the sound is water, and that the mountain is full of it, and that a frozen people would have followed any sound at all. And the Council, which does not govern and only coordinates, has heard both for two thousand years and has never ruled, because a Council that ruled for one account would unseat four houses or three, and the Tellumi have lost enough seats.
+
+What both accounts agree on is this, and it is the law. A house is its peak. A house whose peak is lost, which is to say a house that cannot name its peak and show that the peak is the one its tablets name, has lost its claim, to the peak and to the water the peak sends down and to the city the water made. No house has lost its peak. Four have lost their cities. The roll says all seven peaks every time it is said, in every court, held or exiled, and that is why the exile houses recite it with more care than the ruling ones: it is the part of the claim nobody has been able to take.
 :::
 
-::: {lang=en}
-Now the other account. I give it in the same voice: the Council keeps it in the same hall.
-:::
+::: {.verse lang=telu work=descent}
+Yune nedim lavun. Miver danem hudem mibil samnil narlem, danil Tselvun hager hudem benu samnil garmesh herun.
 
-::: {lang=telu}
-Sali narvim nemi hemvan, [Mernagord]{.name data-type="affiliation/lineage" lang=telu} kenbesh dimer diven, lemir nemil nimya narvim, narem navel narvim nesh venem tseril dalyim benu vel diram virem. Diven narem navel benden genbun genbun nemi hemvan, genur tes hemut virdun nemi dalyim, tarem gudesh turem dener bermal dalnim, lemir bashgur mibil barmil denem gaven tarim vanel te velnur dener Tellumel mibil nesh dalmer virem. Huri veme pel ser nemi sumet dalyim shenir hudem nesh marnem fermer virem. Diven genbun leshim dimen tarim, mibil gurmen nemi shernil, tenyut nemi shernil, tenner nemi shernil, yeril yermun nemi pel narvim. Diven hever semel lu vanel hemvan dener vengun, leshim diven venmer dener diven. Nerdim nemi tsemhat veme nerdim nemi nermil nemi narvim, nesh nerdim nemi venmer. Vartem benu tsenmat lasrim, diven narem, veme vartem. Hudem veme hune hamin mener. hudem veme hune yune. Teyut narvim venhir hudem lemir nemhel navel diven venem tseril hudem virem. dimen shenir diven genbun tseril dalyim virem veme palen teyut nali dimen shenir diven tarim rumer telvem nemi dalyim virem. Narvesh peril benvar, hemvan narvim narem. Diven narem hudem tarem Tselvun, dener lasrim nemi teyut narvim. diven narem hudem yeril nin mishen yarnim.
-:::
+Sali narvim nemi hemvan, [Mernagord]{.name data-type="affiliation/lineage"} kenbesh dimer diven, lemir nemil nimya narvim, narem navel narvim nesh venem tseril dalyim benu vel diram virem. Diven narem navel benden genbun nurel genbun nemi hemvan, genur tes hemut virdun nemi dalyim, tarem gudesh turem dener bermal dalnim, lemir bashgur mibil barmil denem gaven tarim vanel te velnur dener Tellumel mibil nesh dalmer virem. Huri veme pel ser nemi sumet dalyim shenir hudem nesh marnem fermer virem. Diven genbun leshim dimen tarim, mibil gurmen nemi shernil, tenyut nemi shernil, tenner nemi shernil, yeril pel timdur. Diven hever semel sali lu vanel hemvan dener vengun, leshim diven venmer dener diven, lemir nerdim nemi tsemhat veme nerdim nemi nermil nemi narvim, nesh nerdim shenir diven venmer virem. Vartem benu tsenmat lasrim, diven narem, veme vartem. Hudem veme hune hamin mener, lemir hudem veme hune yune. Teyut narvim venhir hudem lemir nemhel navel diven venem tseril hudem virem, danil dimen shenir diven genbun tseril dalyim virem veme palen teyut nali dimen shenir diven tarim rumer telvem nemi dalyim virem. Narvesh peril benvar, hemvan narvim narem. Diven narem hudem tarem Tselvun, dener lasrim nemi teyut narvim, lemir diven narem hudem yeril nin mishen yarnim.
 
-::: {lang=en}
-The western houses, [Mernagord]{.name data-type="affiliation/lineage" lang=telu} foremost, and some lesser lines say the lineages never came through the mountain. Their ancestors descended by the Western Descent, the range's last three hundred miles: brown foothills where a laden camel can walk from the high country to the belt without climbing. Only this stretch needs no guide. They came as people walk, with herds, tablets and elders, over a generation. Reaching the springs from west to east, they settled them in that order. The roll orders houses by standing, not arrival. The north-face door, they say, is a door: it existed before us and exists now. The old houses found it and wished themselves through it. Coming through a mountain makes a people older than walking around its end. A flattering lie, the western houses call it. They say this at Council to the old houses' faces, as they have for two thousand years.
-:::
+Teyut narvim narsel navel tenesh veme nurel karnel virem. Hemvan narvim narsel navel vel miran mibil larnem lemir dernem gaven tsergim tenesh nurel karnel yeril vel timdur virem. Teyut narvim narsel navel hunel veme benu sulvun virem. Hemvan narvim narsel navel hunel veme nelim, lemir dalyim hurem palem nelim, lemir silmi dimen gaven felmer vel hunel virem. Tselvun nesh gerun, perni berem nerdim dimer sali narvim. Hudem hunem dimal nin yeril nin mishen yarnim, lemir tarem nul darem velmer pel, danil Tselvun shenir hudem velmer peril pel lavun virem nemur surun vanel har narvim lemur tes, lemir Tellumi hageni veshner marnil surun.
 
-::: {lang=telu}
-Teyut narvim narsel navel tenesh veme nurel karnel virem. Hemvan narvim narsel navel vel miran mibil larnem lemir dernem gaven tsergim tenesh nurel karnel yeril vel yermun nemi narvim virem. Teyut narvim narsel navel hunel veme benu sulvun virem. Hemvan narvim narsel navel hunel veme nelim, dalyim hurem palem nelim, lemir silber dimen gaven felmer vel hunel virem. Tselvun nesh gerun. hudem berem sali narvim beremri mibil nedim. Hudem hunem dimal nin yeril nin mishen yarnim lemir tarem nul darem velmer pel. Tselvun shenir hudem velmer peril pel lavun virem nemur surun vanel har narvim lemur tes. Tellumi hageni veshner marnil surun.
-:::
-
-::: {lang=en}
-The old houses answer: the signs are on the lintels. The western houses answer: anyone with a chisel and a grievance can cut a lintel sign in any generation. The old houses answer: the sound is in the passage. The western houses answer: the sound is water, the mountain is full of it, and frozen people would follow any sound. The Council governs no one; it coordinates the houses' work. It has heard both accounts for two thousand years without ruling. A ruling for either would unseat four houses or three. The Tellumi have lost enough seats.
-:::
-
-::: {lang=telu}
-Dimal nin lavun samner heri. heri veme nartem. Narvim veme tenhur nemi shernil. Narvim shenir hudem veshner tenhur nemi shernil virem veshner lemhur nemi shernil. Namir, narvim shenir hudem nesh gaven yumir tenhur nemi shernil lemir lasmer navel tenhur veme samnil leshim tenyut nemi hudem yumir virem virem veshner lemhur dener tenhur, dener nelim shenir hudem genbun vanel hudem virem, lemir dener gerhen shenir nelim berem hudem virem. Nul narvim veshner tenhur nemi shernil. Har veshner gerhen nemi shernil. Tsemhat narem dimal nivun tenhur tarem dimel darem nemi narem, benu dimel narhet, hagesh lemur balem. Danuli balem narvim narem hudem mibil palen lasun nali gerun narvim. hudem veme ser nemi lemhur shenir nul miran gaven nemur hudem virem.
-:::
-
-::: {lang=en}
-Both accounts agree here, and this is law. A house is its peak. A house that loses its peak loses its claim. That means a house unable to name its peak and show it is the peak named by its tablets loses title to peak, descending water and the city that water made. No house has lost its peak. Four have lost their cities. Every performance of the roll names all seven peaks in every court, held or exiled. The exile houses therefore recite more carefully than the ruling houses. This part of the claim remains beyond anyone's taking.
+Dimal nin lavun samner heri, lemir heri veme nartem. Narvim veme tenhur nemi shernil. Narvim shenir hudem veshner tenhur virem veshner lemhur nemi shernil. Namir, narvim shenir hudem nesh gaven yumir tenhur nemi shernil lemir lasmer navel tenyut nemi hudem yumir huri tenhur virem virem veshner lemhur dener tenhur, dener nelim shenir tenhur genbun hudem virem, lemir dener gerhen shenir nelim berem hudem virem. Nul narvim veshner tenhur nemi shernil. Har veshner gerhen nemi shernil. Tsemhat narem dimal nivun tenhur tarem dimel darem nemi narem, benu dimel narhet, hagesh lemur balem, lemir danuli balem narvim narem hudem palen tsemir nali narvim shenir diven gerun virem. Hudem veme ser nemi lemhur shenir nul miran gaven nemur hudem virem.
 :::
 
 ### What is at the door now
 
-::: {lang=telu}
-Hame. Tiver venem dener nelim peril lasmer timlan. miver danem sumet narsel dener tiver. Heri veme virdem nemi hudem dener tiver.
+::: {.verse lang=en work=door}
+So. You came to the water for the presentation and you have been given the whole of the answer. Here is what it is worth to you.
+
+The door is a morning's walk above the last terrace. It is cold inside at noon in high summer, and a party that goes in lightly dressed is in trouble by the second junction. The floors are old and cracked and the ice opens new fissures, so that a floor that held last spring falls away this one. The crag lurkers hold the first mile and drop on the lamp. The pale hound holds the dark beyond. Some branches climb to ledges on the face, high above the belt, and are sealed with ice; some run to chambers whose roofs no lamp has found. Nobody has found where any of it ends. In the upper passages are the signs on the lintels, and a house that brings back the right sign from the right branch has proved a peak, and the owner of a peak owns the water, and so the House of Shirvan in exile has hired climbers for ninety years and the [Teqemod]{.name data-type="affiliation/polity"} who hold Shirvan have hired men to see that the climbers do not come back, and a party that goes in now goes in among both.
+
+And the sound is there. Faint and regular, like water falling on a flat stone a long way off. It does not get nearer. The old houses say why. The western houses say why. I have told you both. I am of Shirvan, and I was presented at this water, and when I die the eldest of my house will say the roll over me and the house will answer _Shirvan_ when he says the snow peak, and I have never seen the snow peak and I never will, and that is the distance we came. Now go and tell the child's mother it is done, and give the keeper of the shrine what you owe her, and keep the receipt.
 :::
 
-::: {lang=en}
-So: you came to the water for the presentation and received the whole answer. Here is its value to you.
-:::
+::: {.verse lang=telu work=door}
+Hame. Tiver venem dener nelim peril lasmer timlan, lemir miver danem sumet narsel dener tiver. Heri veme virdem nemi hudem dener tiver.
 
-::: {lang=telu}
-Vartem veme pel hulvir nemi tarim hemun genur telnem. Benu hudem veme silmi tarem talhishmerun yeril merun nemi karhum yarnem. Salmir shenir diven hinter mibil barni pirnem virem hurem harsum hamin nire nin terem nemi sulvun. Sali hernal veme teyut lemir turemi. silnel varter verli turemi ser. Hernal shenir hudem hager miran yeril genur hiresh virem genmer yeril heri hiresh. Karvash hager kenbesh virdun lemir genmer nurel pernil. Vilni yepish hager nurmi denir. Nemil varnil dalmer dener telnem nurel lasrim, darli te hemun Tellumel. silnel vartir diven. Nemil geshem dener herun shenir nul pernil venhir hurnim nemi diven virem. Nul miran venhir telvem nemi vel ser. Benu te sulvun veme tenesh nurel karnel. Narvim shenir hudem berner darmil tenesh vanel darmil varnil virem nerber tenhur. Miran shenir hunen hurem tenhur virem hurem nelim. Danuli balem narvim nemi Shirvan danem hurshel dener dalmer yeril bur nidem yarnim. [teqemod]{lang=atar} shenir diven hager Shirvan virem danem hurshel dener miran peril berem navel dalmer nesh revin virem. Salmir shenir diven hinter yune virem hinter dimer dimal nin.
-:::
+Vartem veme pel hulvir nemi tarim hemun genur telnem. Benu hudem veme silmi tarem talhishmerun yeril merun nemi karhum yarnem, lemir salmir shenir diven hinter mibil barni pirnem virem hurem harsum hamin nire nin varmesh. Sali hernal veme teyut lemir turemi, lemir silnel varter verli turemi ser, danuli hernal shenir hudem hager miran yeril genur hiresh virem genmer yeril heri hiresh. Karvash hager kenbesh virdun lemir genmer nurel pernil. Vilni yepish hager nurmen denir hudem. Nemil varnil dalmer dener telnem nurel lasrim, darli te hemun Tellumel, lemir silnel vartir diven. Nemil geshem dener herun shenir nul pernil venhir hurnim nemi diven virem. Nul miran venhir telvem nemi vel ser. Benu te sulvun veme tenesh nurel karnel, lemir narvim shenir hudem berner darmil tenesh vanel darmil varnil virem nerber tenhur, lemir miran shenir hunen hurem tenhur virem hurem nelim, danuli balem narvim nemi Shirvan danem hurshel dener dalmir yeril bur nidem yarnim, lemir [teqemod]{.name data-type="affiliation/polity" lang=atar} shenir diven hager Shirvan virem danem hurshel dener miran peril berem navel dalmir nesh revin virem, lemir salmir shenir diven hinter yune virem hinter dimer dimal nin.
 
-::: {lang=en}
-The door is a morning's walk above the last terrace. Inside it is cold at noon in high summer. A lightly dressed party meets trouble by the second junction. The old floors are cracked; ice opens fresh fissures. A floor that held last spring falls away this spring. Crag lurkers own the first mile and drop on the lamp. The pale hound owns the darkness beyond. Some branches rise to ledges high above the belt on the face and are sealed with ice. Some reach chambers whose ceilings no lamp has found. Nobody has found any ending. The upper passages hold the lintel signs. Returning the right sign from the right branch proves a peak; owning a peak means owning its water. Shirvan's exile house has paid climbers for ninety years. The [teqemod]{lang=atar} holding Shirvan pay men to prevent their return. A party entering now enters among both.
-:::
-
-::: {lang=telu}
-Lemir hunel veme hune. Hushli, samrel benu yermun, leshim nelim genmer nurel talnim karvem tarem ferul het. Hudem nesh venmi nerem. Teyut narvim narsum danel verum. Hemvan narvim narsum danel verum. Miver narem dimal nin dener tiver. Miver veme nemi Shirvan. Diven lasmer miver tarem heri nelim. Tarem miver nilver, tenner nemi narvim nemi miver narem tsemhat hemun miver. narvim narsel Shirvan tarem hunen narem tenhur nemi gilsum. Miver tarem nul darem lasem tenhur nemi gilsum. miver nesh lasem hudem yeril yermut. Huri veme fernul shenir mener tarim hudem virem. Yune geshem. narem dener nerir nemi timlan navel hudem veme temvish virem. Danem dushmen dener hiner shenir hiner hager vimher virem. Hager pelten.
-:::
-
-::: {lang=en}
-The sound remains: faint, regular, like water falling on flat stone far away. It comes no nearer. The old houses explain why. The western houses explain why. I have told you both. I am of Shirvan, and was presented at this water. At my death my house's eldest will say the roll over me; the house will answer _Shirvan_ when he names the snow peak. I have never seen that peak and will never see it. That is the distance we came. Go tell the child's mother the presentation is complete. Pay the shrine's keeper what you owe her. Keep the receipt.
+Lemir hunel veme hune. Hushli lemir samrel benu yermun, leshim nelim genmer nurel velmi karvem tarem ferul het. Hudem nesh venmi nerem. Teyut narvim narsum danel verum. Hemvan narvim narsum danel verum. Miver narem dimal nin dener tiver. Miver veme nemi Shirvan, lemir diven lasmer miver tarem heri nelim, lemir yernem miver nilver, tenner nemi narvim nemi miver narem tsemhat hemun miver, lemir narvim narsel «Shirvan.» yernem hunen narem tenhur nemi gilsum. Miver tarem nul darem lasem tenhur nemi gilsum, lemir miver nesh lasem hudem yeril yermut, lemir huri veme fernul shenir mener tarim hudem virem. Yune geshem, narem dener nerir nemi timlan navel hudem veme temvish virem, danem dushmen dener hiner shenir hiner hager vimher virem, lemir hager pelten‼
 :::
 
 ## See Also

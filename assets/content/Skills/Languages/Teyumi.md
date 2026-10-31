@@ -359,6 +359,12 @@ data:
       field: "Field and canal"
       gloss: "a canal; a ditch that leads water to a field"
       source: {kind: coined}
+    - form: "kenuvamota"
+      class: n
+      field: "Field and canal"
+      gloss: "a canal chief, who names the water turns on a lowland canal"
+      built: ["kenuva", "mota"]
+      source: {kind: coined}
     - form: "lani"
       class: n
       field: "Field and canal"
@@ -506,6 +512,18 @@ data:
       field: "The house and the road"
       gloss: "the keeper of the south road; the southerner"
       built: ["kwatu", "-yo"]
+      source: {kind: coined}
+    - form: "ponuyo"
+      class: n
+      field: "The house and the road"
+      gloss: "a runner, who carries word along the straight roads"
+      built: ["ponu", "-yo"]
+      source: {kind: coined}
+    - form: "kowayo"
+      class: n
+      field: "The house and the road"
+      gloss: "a fire keeper, who keeps a signal station on a high mesa"
+      built: ["kowa", "-yo"]
       source: {kind: coined}
     - form: "sek"
       class: n
@@ -868,6 +886,17 @@ data:
       class: n
       field: "Chamber and rite"
       gloss: "a bear, the healer and guardian painted on chamber walls"
+      source: {kind: coined}
+    - form: "matsauyo"
+      class: n
+      field: "Chamber and rite"
+      gloss: "a bear doctor, an initiate of the Bear chamber who sucks out sickness and names who sent it"
+      built: ["matsau", "-yo"]
+      source: {kind: coined}
+    - form: "pohiwa"
+      class: n
+      field: "Chamber and rite"
+      gloss: "a snake; the Water Serpent, who lives under the springs and lets the water out of the ground"
       source: {kind: coined}
     - form: "pesayo"
       class: n
@@ -1369,6 +1398,12 @@ data:
       field: "Kin and town"
       gloss: "war"
       concept: war
+      source: {kind: coined}
+    - form: "tahemota"
+      class: n
+      field: "Kin and town"
+      gloss: "a war chief, who commands a town only while its ladders are drawn up"
+      built: ["tahe", "mota"]
       source: {kind: coined}
     - form: "yula"
       class: n
@@ -5781,6 +5816,14 @@ data:
         - "sumihesi"
         - "muvasana"
         - "teyuhesi"
+        - "kwahesi"
+        - "waimasana"
+        - "tseyasana"
+        - "lumakwa"
+        - "teyukwa"
+        - "yalusana"
+        - "sumikwa"
+        - "yaluhesi"
       male:
         - "lumawesa"
         - "teyuwesa"
@@ -5790,7 +5833,25 @@ data:
         - "kowahesi"
         - "ponuwesa"
         - "kenuvawesa"
-    clan: ["omalomi", "tseyami", "lumami", "waimami", "matsaumi", "hesimi"]
+        - "yaluwesa"
+        - "waimawesa"
+        - "lumahalu"
+        - "teyuhalu"
+        - "kowahalu"
+        - "matsauwesa"
+        - "aalohalu"
+        - "tilinhalu"
+    clan:
+      - "omalomi"
+      - "tseyami"
+      - "lumami"
+      - "waimami"
+      - "matsaumi"
+      - "hesimi"
+      - "yalumi"
+      - "muvami"
+      - "kowami"
+      - "aalomi"
   sounds:
     edges:
       - {edge: openCluster, sounds: [kw]}
@@ -5808,6 +5869,15 @@ data:
       - skill-teyumilng
       - place-teyumirgn
       - place-kwatuhosa
+      - place-yaahosa
+      - place-hepuhosa
+      - place-kenuvahosa
+      - place-yaluhepu
+      - place-teyupotama
+      - place-hosaoyalargn
+      - place-kenuvasokorgn
+      - place-wahaulahuvorgn
+      - lore-lumaponu
   tongues:
     - {tag: teyumi, meaning: a Teyumi name, language: skill-teyumilng}
     - {tag: translation, meaning: a name given in the language of these pages}
@@ -5842,6 +5912,47 @@ data:
     - {name: waimami, tongue: teyumi, built: [waima, -mi]}
     - {name: matsaumi, tongue: teyumi, built: [matsau, -mi]}
     - {name: hesimi, tongue: teyumi, built: [hesi, -mi]}
+    - {name: yalumi, tongue: teyumi, built: [yalu, -mi]}
+    - {name: muvami, tongue: teyumi, built: [muva, -mi]}
+    - {name: kowami, tongue: teyumi, built: [kowa, -mi]}
+    - {name: aalomi, tongue: teyumi, built: [aalo, -mi]}
+    - {name: kwahesi, tongue: teyumi, built: [kwa, hesi]}
+    - {name: waimasana, tongue: teyumi, built: [waima, sana]}
+    - {name: tseyasana, tongue: teyumi, built: [tseya, sana]}
+    - {name: lumakwa, tongue: teyumi, built: [luma, kwa]}
+    - {name: teyukwa, tongue: teyumi, built: [teyu, kwa]}
+    - {name: yalusana, tongue: teyumi, built: [yalu, sana]}
+    - {name: sumikwa, tongue: teyumi, built: [sumi, kwa]}
+    - {name: yaluhesi, tongue: teyumi, built: [yalu, hesi]}
+    - {name: yaluwesa, tongue: teyumi, built: [yalu, wesa]}
+    - {name: waimawesa, tongue: teyumi, built: [waima, wesa]}
+    - {name: lumahalu, tongue: teyumi, built: [luma, halu]}
+    - {name: teyuhalu, tongue: teyumi, built: [teyu, halu]}
+    - {name: kowahalu, tongue: teyumi, built: [kowa, halu]}
+    - {name: matsauwesa, tongue: teyumi, built: [matsau, wesa]}
+    - {name: aalohalu, tongue: teyumi, built: [aalo, halu]}
+    - {name: tilinhalu, tongue: teyumi, built: [tilin, halu]}
+    - {name: yaahosa, tongue: teyumi, built: [yaa, hosa]}
+    - {name: hepuhosa, tongue: teyumi, built: [hepu, hosa]}
+    - {name: kenuvahosa, tongue: teyumi, built: [kenuva, hosa]}
+    - {name: yaluhepu, tongue: teyumi, built: [yalu, hepu]}
+    - {name: teyu potama, tongue: teyumi, built: [teyu, potama]}
+    - {name: kenuva soko, tongue: teyumi, built: [kenuva, soko]}
+    - {name: wahaula huvo, tongue: teyumi, built: [wahaula, huvo]}
+    - {name: luma ponu, tongue: teyumi, built: [luma, ponu]}
+    - {name: muva pohiwa, tongue: teyumi, built: [muva, pohiwa]}
+    - {name: Grandmother House, tongue: translation}
+    - {name: Door House, tongue: translation}
+    - {name: Canal House, tongue: translation}
+    - {name: Moon Door, tongue: translation}
+    - {name: Turquoise Hill, tongue: translation}
+    - {name: Canal Plain, tongue: translation}
+    - {name: Cave Mesas, tongue: translation}
+    - {name: Rain Road, tongue: translation}
+    - {name: Water Serpent, tongue: translation}
+    - {name: Grandmother Below, tongue: translation}
+    - {name: Dry Search, tongue: translation}
+    - {name: Feeding the Serpent, tongue: translation}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -5859,7 +5970,7 @@ The Teyumi Language is the tongue of the [[affiliation-teyumi|Teyumi]], the Turq
 
 ## Overview
 
-Every town of the Turquoise People speaks the Teyumi Language, and no two speak it quite alike. The canyon towns around [Hosa Oyala]{.name data-type="place/region"}, the Canyon of Houses, keep the long vowels long and the catch clear. The canal towns of the southern lowlands clip the long vowels short and run their words together, and a canyon elder can tell a lowlander by the third word. Neither form is the correct one, and the songs of the chambers are sung the same way in both.
+Every town of the Turquoise People speaks the Teyumi Language, and no two speak it quite alike. The canyon towns around the [[place-hosaoyalargn|Canyon of Houses]], Hosa Oyala, keep the long vowels long and the catch clear. The canal towns of the southern lowlands clip the long vowels short and run their words together, and a canyon elder can tell a lowlander by the third word. Neither form is the correct one, and the songs of the chambers are sung the same way in both.
 
 The tongue is related to nothing in the south. A southern trader who has learned [[skill-kiichek|Ki'i'chek]] from childhood hears nothing he knows in it, and the Turquoise People take some care that he learns little more. The traders who come out of the desert at [[place-kwatuhosa|Kwatuhosa]] are taught the words for water, corn, price, rest and the road, and the Keeper of the South Road does the rest of the talking himself.
 
@@ -5957,11 +6068,11 @@ A person who is initiated into a chamber takes a second name there, used only in
 
 ### Name Lists
 
-**Women's names:** Tseyahesi, Hepuluma, Omalohesi, Yalutseya, Lumasana, Sumihesi, Muvasana, Teyuhesi
+**Women's names:** Tseyahesi, Hepuluma, Omalohesi, Yalutseya, Lumasana, Sumihesi, Muvasana, Teyuhesi, Kwahesi, Waimasana, Tseyasana, Lumakwa, Teyukwa, Yalusana, Sumikwa, Yaluhesi
 
-**Men's names:** Lumawesa, Teyuwesa, Waimahalu, Omalohalu, Huvowesa, Kowahesi, Ponuwesa, Kenuvawesa
+**Men's names:** Lumawesa, Teyuwesa, Waimahalu, Omalohalu, Huvowesa, Kowahesi, Ponuwesa, Kenuvawesa, Yaluwesa, Waimawesa, Lumahalu, Teyuhalu, Kowahalu, Matsauwesa, Aalohalu, Tilinhalu
 
-**Clans:** Omalomi (Cloud), Tseyami (Corn), Lumami (Rain), Waimami (Sun), Matsaumi (Bear), Hesimi (Star)
+**Clans:** Omalomi (Cloud), Tseyami (Corn), Lumami (Rain), Waimami (Sun), Matsaumi (Bear), Hesimi (Star), Yalumi (Moon), Muvami (Water), Kowami (Fire), Aalomi (Macaw)
 
 ## Teyumi Lexicon {#lexicon}
 

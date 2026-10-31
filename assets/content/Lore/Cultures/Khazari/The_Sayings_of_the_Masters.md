@@ -138,7 +138,7 @@ bep thuf vuzám tafanez tob kalat.
 
 vog gunádh lez, ramk zi duháv khapív ramk pes durákh vog, ramk thuf. ves lumáv vog sakap bep rupál vog.
 
-bep, vem dulákez bep rapal thuf, mazadh. tob girm bep vunth dulákez bep gazav rapal, zanp-lumáv. zik zuvák lanat, ladhíp thanp, bep lanat thuf thudáv thaz vog buráth.
+bep, vem dulakez bep rapal thuf, mazadh. tob girm bep vunth dulakez bep gazav rapal, zanp-lumáv. zik zuvák lanat, ladhíp thanp, bep lanat thuf thudáv thaz vog buráth.
 
 bep, fanth karím tav favíz khazár zi vuzám vog maník thuvál, bep khazár thuf thubágh thaz tamb zuvák kolg.
 
@@ -248,7 +248,7 @@ A span is warranted on the day the first laden carrier crosses it and does not s
 :::
 
 ::: {.verse form=prose lang=khaz enc=khazpirzathenc work=the-sayings-of-the-masters-6}
-nalpan talg-hunáth hunáth halghez. samíd hanthev kedz khardev, madan halgh satav, vog puvár vog, zik dulákez bep gathagh zi dalk guthágh duráv. vog gunádh,
+nalpan talg-hunáth hunáth halghez. samíd hanthev kedz khardev, madan halgh satav, vog puvár vog, zik dulakez bep gathagh zi dalk guthágh duráv. vog gunádh,
 
 hanthev, zavan zi dalk puzáv dalk. ves rukáv kodz zavan. kolg dalk thuf puzáv dalk, ves thuf hunáth. ves bumár satav.
 
@@ -256,7 +256,7 @@ talg rukád khabar pes ves. ves vuzám kolg talg dubáz gamun vem bep kolg talg 
 
 hals puthák kodz zi baval bugár. hiz ves tumás ruthák zavan zi khabar purád, ves puzál nalp zik bep sumág dhanív davan halíd. vog gunádh tev ves, zagín, tob kalat.
 
-hanthev favíd davan zi dhanív barthir fudhál vog bep thuf puzál kolg madan. duráv kodz, zik dulákez bep gathagh.
+hanthev favíd davan zi dhanív barthir fudhál vog bep thuf puzál kolg madan. duráv kodz, zik dulakez bep gathagh.
 :::
 
 ## Kivil of Halb-zumád
@@ -288,7 +288,7 @@ An apprentice copied the whole chain onto one slate and brought it to Kivil to b
 ::: {.verse form=prose lang=khaz enc=khazpirzathenc work=the-sayings-of-the-masters-7}
 kivil halb-zumád zummád halb, bep durákh limvathez vagath vog zik girm bep kabur vadhalez nuzám thanpez duváb. vog gunádh,
 
-kodz zi nabít, khazárez duráz. kodz zi nadík, hartirez hurát.
+kodz zi nabít, khazarez duráz. kodz zi nadík, hartirez hurát.
 
 ves lumáv dulák davan zi ves dulák vog. dulák zi khazár lumáv nalp zik, khapív thanp dulák vog, bep lamv gunádh kedz, gez dulák kolg pabak bamír, gev dulák kolg dalk thuf.
 
@@ -462,11 +462,11 @@ pabar puvár pulát badakez ves. vog thuf puvár pulát gharp. ves kurán thaz z
 
 pabar zi gharíp kob khabar, pabar ves lez kob khapav. ves thuvár dulák. ves durákh khapav.
 
-ves kumáv dulákez duráv ves dulák, bep kumáv hez nuzám. hiz zik kamv burádh, ves lumáv badhal.
+ves kumáv dulakez duráv ves dulák, bep kumáv hez nuzám. hiz zik kamv burádh, ves lumáv badhal.
 
 khatab, zanp-lumáv. vog gunádh, «gaz tumás kedz, bep gaz tuvár vog.»
 
-gharp zi ves guzáp, zik dulákez, gharp bep guzáp. lamv lumáv zik tav khazár rukáv vog, bep khazár rukáv vog.
+gharp zi ves guzáp, zik dulakez, gharp bep guzáp. lamv lumáv zik tav khazár rukáv vog, bep khazár rukáv vog.
 :::
 
 ## Fardan of Hamk-dunák

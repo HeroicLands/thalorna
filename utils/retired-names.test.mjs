@@ -4,11 +4,10 @@
  */
 
 /**
- * Retired names outside the Nordmal concordance stay retired.
+ * Retired names stay retired.
  *
- * The Nordmal drift guard reads `utils/nordmal-concordance.json`, whose scope is
- * the north. A name of another culture that gives way to its culture's own has
- * no row there, so its retired forms are written out here and swept from prose.
+ * A name that gives way to its culture's own has its retired forms written out
+ * here and swept from prose.
  *
  * A row's `scope` is `corpus` for a name no other tongue writes by accident (a
  * theonym, a place), and a list of note paths for a personal name another
@@ -261,7 +260,7 @@ export const RETIRED = [
         scope: [
             "assets/content/Affiliations/Divine/Dunhara/Storm_Cults_of_Bahramish.md",
             "assets/content/Affiliations/Organizations/Vylarian/Dunhara_Warriors_Circle.md",
-            "assets/content/Affiliations/Social/Companies/TighSavaran_of_the_Zarnush.md",
+            "assets/content/Affiliations/Social/Companies/TighSavaran_of_the_Koserur.md",
             "assets/content/Lore/History/The_Storm_of_the_Hundred_Banners.md",
             "assets/content/Regions/Ankaris/Hellad/Byzaria/Eastern_March.md",
             "assets/content/Regions/Ankaris/Hellad/Byzaria/Northern_March.md",

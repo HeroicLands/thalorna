@@ -5238,6 +5238,29 @@ data:
       class: num
       field: Everyday expression
       gloss: second, the second count or occurrence
+    - form: spórarin
+      class: v
+      field: "Doing, going and being"
+      gloss: "to sow seed; to plant a crop"
+      built: ["spór-", "-arin"]
+    - form: orkhin
+      class: n
+      field: "The gods, the stage and the assembly"
+      gloss: "an oath sworn before the gods"
+      built: ["orkh-", "-in"]
+    - form: orkharin
+      class: v
+      field: "The gods, the stage and the assembly"
+      gloss: "to swear an oath before the gods"
+      built: ["orkh-", "-arin"]
+    - form: orkh-
+      class: stem
+      field: "The gods, the stage and the assembly"
+      gloss: "to swear before the gods"
+    - form: kampin
+      class: n
+      field: "The gods, the stage and the assembly"
+      gloss: "a turn; the stanza a chorus sings, and the stanza that answers it"
   icon: icon-speaking
   templatePriority: null
   packFolder: language
@@ -5457,6 +5480,7 @@ data:
       - {edge: closeConsonant, sounds: [n, r, s, m, l, th, sh, z, zh, t, k, d, b, f, gh]}
       - {edge: closeCluster, sounds: [hr]}
     clusters: {max: 3}
+    syllables: {vowelPairs: [ai, ei, oi, au, ou]}
     stress: {two: first, longer: penultimate, mark: acute}
     joining:
       - first: [a, a]
@@ -6388,6 +6412,8 @@ Helonic is the tongue of drama and argument. It is clear-voweled and fond of bre
 **Endings.** Helonic words end in _-os_, _-on_, _-is_, _-in_, _-ir_ or _-ion_.
 
 **What Helonic leaves out.** It has no _zh_, _sh_ or _q_, which belong to Bizarian and [[skill-taruzelilng|Taruzeli]]. It has no _y_ as a vowel, since the guide reads _y_ as in _yes_.
+
+**Verse.** Helonic verse counts beats and does not rhyme. Its nouns and verbs close on a handful of shared endings, so a rhyme would only repeat a grammar ending, and a line is measured by its stressed syllables instead. The rhapsodes' long line has six beats: the epics and the teaching poems are sung in it, and the heralds' asking is said in it. The choral odes of the stage and the sayings of the schools keep a short line of four beats, and a turn and its answering turn have the same number of lines. A telling in prose, such as a legend the priests tell at an altar, is not counted. The craft is in the fixed epithet that returns with a name (_Ythros egeirir er ithrin_, Ythros the fire-wakeful), the formula repeated whole or changed by a single word, the simile opened with _hoth_ and closed with _hometh_, the catalogue, and the same word opening line after line.
 
 ## Phonology
 

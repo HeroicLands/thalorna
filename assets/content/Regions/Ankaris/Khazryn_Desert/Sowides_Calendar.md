@@ -59,7 +59,7 @@ The era left the green oasis nobody camps at, the banner ground at the foot of [
 
 The third orkun rode down the spur in the week of the autumn market. The caravan town of [[place-qimod|Qiimod]] was full, its gate open for the fair, and by nightfall everyone in its walls was dead. The union overran the eastern fringe of [[place-velanthrgn|Velanthia]] and never threatened [[affiliation-tantsouempr|Tantsou]] seriously. It broke up on its orkun's death like the two before it.
 
-The era left a town with its walls whole and nobody in it, a silence that kills anyone who sleeps there and a silence that the [[affiliation-shrzrtrb|Shirzari]] sell water beside. It is the current era, and the tribes expect a fourth union and cannot say when it will come. Its history is told in [[lore-thrdorqwnq|the Third Orkunoq]].
+The era left a town with its walls whole and nobody in it, a silence that kills anyone who sleeps there and a silence that the [[affiliation-kndrtrb|Kenodur]] sell water beside. It is the current era, and the tribes expect a fourth union and cannot say when it will come. Its history is told in [[lore-thrdorqwnq|the Third Orkunoq]].
 
 ## Carrying a Date to the Vylarian Calendar
 

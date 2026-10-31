@@ -3,7 +3,7 @@ shortcode: roadnights
 name: {full: The Nights of the Road, telu: [Tarlimnurmesh]}
 type: lore
 subType: literature
-description: "The tales a caravan-master of Kethramír tells a young factor on his first crossing of the Celestial Road, one at each halt from the first toll-camp to the hand-off at Sovid, with a hidden-water guide, a Shirzari rider and a Tantsou broker taking the fire at Qiiso: a frame-tale of the road, told in the master's reckoning voice and ending on the list he will give the factor when the factor can hold it."
+description: "The tales a caravan-master of Kethramír tells a young factor on his first crossing of the Celestial Road, one at each halt from the first toll-camp to the hand-off at Sovid, with a hidden-water guide, a Kenodur rider and a Tantsou broker taking the fire at Qiiso: a frame-tale of the road, told in the master's reckoning voice and ending on the list he will give the factor when the factor can hold it."
 tags: [draft, khazryn]
 data:
   packFolder: settinglore
@@ -22,13 +22,13 @@ data:
     - place-wemaq
     - lore-towercities
     - affiliation-rwlstrb
-    - affiliation-shrzrtrb
+    - affiliation-kndrtrb
   lang: telu
 ---
 
 **The Nights of the Road**, _Tarlimnurmesh_, is the collection of tales a caravan-master tells on [[lore-celestialroad|the Celestial Road]], one to a halt, to a factor on his first crossing. The master in this telling is [Tarlimay]{.name data-type="being/npc"}, a [[lore-khazrynclt|Tellumi]] of [[place-kethramir|Kethramír]] who has crossed from [[place-bhumipalland|Bhumipal Land]] to the [[place-tantsouregin|Tantsou Region]] and back more times than he says; the factor is a young man of a [[lore-byzarianclt|Bizarian]] backing house, unnamed, who wrote the tales down in the rendering at the end of the crossing, in the order the master told them. No two masters tell them in the same order, and every master tells them to explain a thing the factor has just seen: a bend in the road, a halt within sight of water, a price paid without argument. At [[place-qisomrktcmp|Qiiso]], where the road changes hands, the master gives the fire to other tellers, and their tales sit inside his.
 
-The collection is the caravan peoples' own form, told in a master's reckoning voice, and the places in it are the road's: the first toll-camp, an owned spring of [[place-wlqtrrgn|Volketor]], the fort at [[place-roqid|Oroqid]], the hand-off at [[place-yemokwell|Yemok]], the [Long Dry]{.name data-type="place/feature"}, the towers of [[place-jilaq|Jilaq]] seen lit, the market-camp, the halt within sight of [[place-wemaq|Vomek]], and the hand-off at [[place-sowidwell|Sovid]]. The tellers who take the fire are a guide of the [[affiliation-rwlstrb|Uruvolur]], [Uruvolun]{.name data-type="being/npc"}, a rider of the [[affiliation-shrzrtrb|Shirzari]], [Khilodtoliz]{.name data-type="being/npc"}, and a [[lore-tantsouclt|Tantsou]] silk-broker who gives no name. What each tells of [[place-wilud|Vulud]], [[place-qimod|Qiimod]] and Jilaq is what a teller of that people sells at a fire, and the master says so.
+The collection is the caravan peoples' own form, told in a master's reckoning voice, and the places in it are the road's: the first toll-camp, an owned spring of [[place-wlqtrrgn|Volketor]], the fort at [[place-roqid|Oroqid]], the hand-off at [[place-yemokwell|Yemok]], the [Long Dry]{.name data-type="place/feature"}, the towers of [[place-jilaq|Jilaq]] seen lit, the market-camp, the halt within sight of [[place-wemaq|Vomek]], and the hand-off at [[place-sowidwell|Sovid]]. The tellers who take the fire are a guide of the [[affiliation-rwlstrb|Uruvolur]], [Uruvolun]{.name data-type="being/npc"}, a rider of the [[affiliation-kndrtrb|Kenodur]], [Khilodtoliz]{.name data-type="being/npc"}, and a [[lore-tantsouclt|Tantsou]] silk-broker who gives no name. What each tells of [[place-wilud|Vulud]], [[place-qimod|Qiimod]] and Jilaq is what a teller of that people sells at a fire, and the master says so.
 
 : The Nights of the Road {#nights}
 
@@ -108,7 +108,7 @@ The guide was a woman of the hidden-water bands, Uruvolun, small and quick, with
 
 ### The Rider's Tale: the Silent Market
 
-The Shirzari rider, Khilodtoliz, sat down the second night and did not take tea until he had been paid for the tale, and the master paid him, and said afterward that the Shirzari had never put out a warning that was not for sale and that this was the cheapest way to buy one.
+The Kenodur rider, Khilodtoliz, sat down the second night and did not take tea until he had been paid for the tale, and the master paid him, and said afterward that the Kenodur had never put out a warning that was not for sale and that this was the cheapest way to buy one.
 
 "Four days south of here on the spur," the rider said, "where the track to the belt dips through a gap in the black rock, there is a town with its walls whole. Mud-brick twenty feet high, a gate that stands open, a gatehouse with its roof on. Inside, three hundred houses and a square, and in the square the stalls are up: poles, awnings, a weighing-beam hanging from its hook. It looks like a town that stepped out for the afternoon. It has looked like that for a hundred and seventy-three years. The third banner rode down the spur in the week of the autumn market and the gate was open for the fair, and the town was full of horse-dealers from the belt and spice men from the south and a wine-agent from the west and silk-brokers from the east and a hundred of our own herdsmen come to sell, and by nightfall nobody in the walls was alive, and the host rode on at dawn with the stock and left the people where they lay. Each of them had a rite and none of the rites was done. The belt men had no priest. The southerners had no conch. The eastern men had no shrine. Ours were not laid out and not named.
 
@@ -161,7 +161,7 @@ The ninety-sixth day. Seventeen hundred miles. The last dune ended in a wall of 
 [[place-qimod|Qiimod]] · [[place-wemaq|Vomek]]
 : the silent market and the water nobody camps at
 
-[[affiliation-rwlstrb|Uruvolur]] · [[affiliation-shrzrtrb|Shirzari]]
+[[affiliation-rwlstrb|Uruvolur]] · [[affiliation-kndrtrb|Kenodur]]
 : the guide's people and the rider's
 
 [[affiliation-karvashion|Karvashion]]

@@ -16,7 +16,7 @@ In 2580 ST (470 AF) the child [Kuz'el'Retha III]{.name data-type="being/npc"} we
 
 The house settled in. Under [Meqes VI]{.name data-type="being/npc"} the empire reached the height of this age, and the Gar-Au ordered the older houses carried out from the river-front of [[place-zugezer|Zu-Gezer]] and set the house's own Way at the head of the death-road ([[lore-greatremovl|the Great Removal]], about 2650 ST, 540 AF). The grievance of the removed houses' descendants has outlasted the endowments that paid for their new tombs.
 
-The house chartered the guilds that now date themselves by it: [[affiliation-garnuw|Gar'Nuw]] under [Meqes VII]{.name data-type="being/npc"}, the seventh of the name, and [[affiliation-garmelnu|Gar'Melnu]] under [Meqes XI]{.name data-type="being/npc"}, the eleventh. Under Meqes XI the court also lent [[affiliation-mtrrchybth|Bethua]] gold, engineers and loans for its war of separation from the Helonic metropole ([[lore-bethuasep|the Separation of Bethua]], about 2725 ST, 615 AF). The court of Meqes XVI used the same instruments a century later, in 708 AF, when covert aid carried [[affiliation-cnfdrtntrzlnstts|Taruzel]] out of the [[affiliation-vylarinmpr|Vylarian Empire]] ([[lore-empirdclne|the Decline Begins]]).
+The house chartered the guilds that now date themselves by it: [[affiliation-garnul|Gar'Nul]] under [Meqes VII]{.name data-type="being/npc"}, the seventh of the name, and [[affiliation-garmelnu|Gar'Melnu]] under [Meqes XI]{.name data-type="being/npc"}, the eleventh. Under Meqes XI the court also lent [[affiliation-mtrrchybth|Bethua]] gold, engineers and loans for its war of separation from the Helonic metropole ([[lore-bethuasep|the Separation of Bethua]], about 2725 ST, 615 AF). The court of Meqes XVI used the same instruments a century later, in 708 AF, when covert aid carried [[affiliation-cnfdrtntrzlnstts|Taruzel]] out of the [[affiliation-vylarinmpr|Vylarian Empire]] ([[lore-empirdclne|the Decline Begins]]).
 
 Three reigns of the house were short or children's. The year of [Meqes III]{.name data-type="being/npc"} was not completed; [Meqes VIII]{.name data-type="being/npc"} was a child of four floods with her uncle beside her; and [Meqes XIV]{.name data-type="being/npc"}, a child of two floods, did not complete his year before the uncle beside him took the mound as [Meqes XV]{.name data-type="being/npc"}. The house knows what a succession can cost.
 
@@ -24,7 +24,7 @@ Three reigns of the house were short or children's. The year of [Meqes III]{.nam
 
 - Meqes I (crowned 2580 ST, 470 AF), the founder.
 - Meqes VI (2639 ST, 529 AF; twenty-seven years), who ordered the Great Removal.
-- Meqes VII (2665 ST, 555 AF) and Meqes XI (2710 ST, 600 AF), under whom Gar'Nuw and Gar'Melnu hold their charters.
+- Meqes VII (2665 ST, 555 AF) and Meqes XI (2710 ST, 600 AF), under whom Gar'Nul and Gar'Melnu hold their charters.
 - **Meqes XVI** (2819 ST, 709 AF), the daughter of Meqes XV, who reigns now and has reached her twelfth year.
 - Her nephew [[being-anlaghur|Anlaghur]] stands near enough the succession that the court asks the question seriously.
 

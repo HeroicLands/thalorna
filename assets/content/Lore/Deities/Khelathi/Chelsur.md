@@ -29,5 +29,5 @@ On one stretch of [[place-zumeleshrvr|the Zumelesh]] the same god is held under 
 [[lore-igelnarudty|Igelnaru]]
 : his local name on the southern reach of the Zumelesh, held under a noble family's charter
 
-[[affiliation-garnuw|Gar'Nuw]]
+[[affiliation-garnul|Gar'Nul]]
 : the cullers who answer when the beasts take people

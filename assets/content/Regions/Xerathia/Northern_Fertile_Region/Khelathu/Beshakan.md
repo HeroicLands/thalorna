@@ -14,7 +14,7 @@ Beshakan is desert, and the astrologers of [[place-aukhelathrgq|Au'Khelathu]] co
 
 ## The Pilgrim's Road
 
-The journey is hard and is made for a reason. [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’akun]] went deep into the deserts of Beshakan on his pilgrimage to the empire's ancient astrological sites, and what he met there was not only heat and distance: the desert's ruins hold spirits of the desert, creatures bound to the stars and followers of old cults who see in [The Convergence of the Nine Moons]{.name data-type="lore/history"} the chance to begin an age of chaos. A wandering desert ranger called [[being-atenhershr|Atazkharu Sahri]], the Silent Jackal, became his protector on the road after witnessing a celestial omen.
+The journey is hard and is made for a reason. [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’akun]] went deep into the deserts of Beshakan on his pilgrimage to the empire's ancient astrological sites, and what he met there was not only heat and distance: the desert's ruins hold spirits of the desert, creatures bound to the stars and followers of old cults who see in [The Convergence of the Nine Moons]{.name data-type="lore/history"} the chance to begin an age of chaos. A wandering desert ranger called [[being-atenhershr|Atazkharu Oroqidur]], the Silent Jackal, became his protector on the road after witnessing a celestial omen.
 
 ## See Also
 

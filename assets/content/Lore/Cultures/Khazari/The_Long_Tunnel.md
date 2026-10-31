@@ -106,9 +106,9 @@ The record of the year enters against Dulkun of Khalv-gunáv's name the mark of 
 :::
 
 ::: {.verse form=filnath lang=khaz enc=khazpirzathenc work=the-long-tunnel-1}
-vadhal fakar 135, talz davan 29, gharm nughál. naghal nuzáv hadhak zik, bep butám khozum dankez. vog thuf pugár khabar, vog thuf pugár hadan. vog gudák dakam nask zi buráth basur tev hutabar, 28 mathazez, mathaz 5@ duráv hutabar, bep gadak guzáp khank bavath. khazárez khumád basur fod gadak, ludháv bel gadak, bep nudháp bel madak dev raghav zi khazár thuf rukáv.
+vadhal fakar 135, talz davan 29, gharm nughál. naghal nuzáv hadhak zik, bep butám khozum dankez. vog thuf pugár khabar, vog thuf pugár hadan. vog gudák dakam nask zi buráth basur tev hutabar, 28 mathazez, mathaz 5@ duráv hutabar, bep gadak guzáp khank bavath. khazarez khumád basur fod gadak, ludháv bel gadak, bep nudháp bel madak dev raghav zi khazár thuf rukáv.
 
-hutabar nalív hadanez, kodz navar, 40 fadhazez, taghív. khardev kumáv 22@ khazárez, bep davan gunát tob fadhaz.
+hutabar nalív hadanez, kodz navar, 40 fadhazez, taghív. khardev kumáv 22@ khazarez, bep davan gunát tob fadhaz.
 
 davan 1 nuzám naghal, rakadirez vem vagathez tupák gadak duráv hutabar, tabar-suláth zi bamur vog baval, ramk-sumád bep khalv-gunáv. dakam samíd gadak pakír, taghív gadak bep 14 mathazez tavíz zalv, bep khazár thuf rupál vog. kodz zi khazár rupál, dakam huráp. rakadirez lumáv kedz bep puráz mardhez. dulkun khalv-gunáv, gatharir hukhalv, mardh gazím vadhal, funád dev batím huganv khalv-gunáv, guláv nask bep nalív vog, bep tupák gadak duráv varg, bep khumád basur ludháv favíz vog. lamv durákh kedz.
 
@@ -130,7 +130,7 @@ davan zop, timkin ramk-sumád thubágh, lamv gunádh vog lumáv nadív raghav, b
 
 davan nefk, dhanív dulák kolg favíz batím huganv, kolg labaz dhuráz vog. khirid khard-vurán zulám zalm, kos zalm sod dhanív dulák, bep dulkun thumár. ragad, kabur khalv-gunáv, vem hadhakez, bep lamv murádh vogun. vurun, murgun bep khilvin, hadhak tob. tilig, palaz bep darkhan, hadhak zik. bumgun bep dulkun, hadhak vem. bep nuv vogun, nabaf rinit tabar-suláth, zi khalv-gunáv guván pes kasum vog, thuf thumár, bep buráth lakamevez bep dakal mathaz. dulkun tupák duráv vem hadhakez bep sumál kolg batím huganv.
 
-lamv kumáv narv kos dulákez, zavanez zi damg duháv, bep thuf kumáv bakath-puthák, zavanez zi dalk zupádh nol barg kolg bakath. tav lamv gunádh, narv zuvák mathaz kodz, mathaz nuzám dhanív dulák dev labaz.
+lamv kumáv narv kos dulakez, zavanez zi damg duháv, bep thuf kumáv bakath-puthák, zavanez zi dalk zupádh nol barg kolg bakath. tav lamv gunádh, narv zuvák mathaz kodz, mathaz nuzám dhanív dulák dev labaz.
 
 davan 8, tanv suvár baval. raghav tanv satav kolg khabar, bep barthirez dhapilez, bep padarez sugháv satav, 14 davan bamír, bep tob thuf davanez zi badav ludháv satav. padar, baval davan pes bozd. lamv kumáv padarez davan tev davan, bep tavíz padar kamív nuv kamv hutabar, davan zi vog nuzáv. pabarez lumáv barth kob havaz tanv, bep thuf mutház vog.
 
@@ -168,11 +168,11 @@ davan 6^, narv, mathaz 88. hutabar, 26 fadhazez.
 
 davan 77, tanvan ramk-sumád thuvál navath, vadhal zik zi param vog. davan 78 khardev nudháp pes vog bep mullán, bep gandhez gunádh, bep vogun punád vog bamg bep puráz mardh vog. hutabar, 23 fadhazez.
 
-davan 7^, hadhak tob, mathaz 97, buzágh bavath labaz bep bugár pasív nask, nask zi basur nusák dev ladhíp labaz duráv vog zuvár raghav kald, taríg, samd khazár bep rabak zik, 1^ mathazez ravath bep samíd, duráv gadhath taríg kolg bazagh. murgun khalv-gunáv bugár dhanív nuv lakamev, bep kolg gadhath lakamev nudháp bep vog funád, bep vog lumáv vatagh gadhath bep 8 mathazez samíd. davan 7&, dulkun tupák dakam gadhath bep rukáv halgh, halgh zi rakadirez huzaghar samíd lumáv duráv varg, 80 vadhalez duráv, kazaf bavath huzaghar, bep ragad puthák halgh nalív, zik dulákez, bep fasdh nudháp duráv huzaghar bep lakamev durákh. zik dulákez kamivez. dulkun tupák nask dhanív bep favíz, tob hadhak, bep lumáv vog tasím, bep 1^ mathazez thuf dulák. khazár thuf dulák vogun. narv fudhál vogun kos baval fudhál.
+davan 7^, hadhak tob, mathaz 97, buzágh bavath labaz bep bugár pasív nask, nask zi basur nusák dev ladhíp labaz duráv vog zuvár raghav kald, taríg, samd khazár bep rabak zik, 1^ mathazez ravath bep samíd, duráv gadhath taríg kolg bazagh. murgun khalv-gunáv bugár dhanív nuv lakamev, bep kolg gadhath lakamev nudháp bep vog funád, bep vog lumáv vatagh gadhath bep 8 mathazez samíd. davan 7&, dulkun tupák dakam gadhath bep rukáv halgh, halgh zi rakadirez huzaghar samíd lumáv duráv varg, 80 vadhalez duráv, kazaf bavath huzaghar, bep ragad puthák halgh nalív, zik dulakez, bep fasdh nudháp duráv huzaghar bep lakamev durákh. zik dulakez kamivez. dulkun tupák nask dhanív bep favíz, tob hadhak, bep lumáv vog tasím, bep 1^ mathazez thuf dulák. khazár thuf dulák vogun. narv fudhál vogun kos baval fudhál.
 
 davan 83, talg nuzáv khabar, bep duráv kodz davan vogun buráth talg bep tuláz vog hugaldez, bep lamv kumáv baval talg nuv padarez. davan 86 satav gathav, bep tanv-fudhál dumán, bep lamv durákh favíz padar kodz davan. taghav, 247 padarez sugháv tanv.
 
-duráv davan 84, dulák nalp. palaz khalv-gunáv lumáv mathaz tavíz hadhak-kurám, bep lamv durákh tavíz, bep khazár thuf hurát vogun. davan 8%, dulkun lumáv, labaz gol mathaz $8 tev hubasur guván dulákez bep thuf bakath-puthák, gez nalp tuvár past dalk, bep vog dulák kodz hadhak vem, nuzám davan-hulád, bep vog dulák.
+duráv davan 84, dulák nalp. palaz khalv-gunáv lumáv mathaz tavíz hadhak-kurám, bep lamv durákh tavíz, bep khazár thuf hurát vogun. davan 8%, dulkun lumáv, labaz gol mathaz $8 tev hubasur guván dulakez bep thuf bakath-puthák, gez nalp tuvár past dalk, bep vog dulák kodz hadhak vem, nuzám davan-hulád, bep vog dulák.
 
 davan 8$, narv, mathaz $6. hutabar, 1$ fadhazez, bep baval talg kolg gasumez hugaldez, vem.
 
@@ -182,13 +182,13 @@ davan 96, narv, mathaz %3. dulkun lumáv, vog khumád basur gol dalk duráv math
 
 davan 9^, hadhak vem, mathaz %$, dulák dulkun puthák hubasur nalív zalv basur, rabak thanp nalív baval, bep baval fudhál dulák bep ludháv narv, kos labaz nudháp. vog nuzáv taríg gadhath, mathaz 97, tob hadhak, bep buvár vog, bep ludháv zalv vog. bumgun khalv-gunáv, zi durákh lakamev, lumáv galn. dulkun lumáv mathaz.
 
-baval ludháv narv kodz navath, nuzáv batím huganv bep durákh kolg, bep davan 9& vogun puthák bavath batím huganv tev hutabar dev khank zi guván vog duráv fakar, khank zi baval nusák bep khardev thuf thunáp. khozum dulákez furákh kolg khank, bep vogun kamivez nuv baval-khunák. davan @0 vogun khunák baval dev batím huganv bel hutabar, bep hutabar sugháv. gadhath zi zuvák hubasur samíd zalv khuráp gol dulák, vem davanez, bep davan @3 hutabar zuvák 21 fadhazez. nuzám, vog sugháv kos rintath basur nalp, tob bep padhal fadhaz davan, gev baval-guláp. davan @$, 2$ fadhazez, bep baval-guláp tob fadhaz. vog zuvák 40 duráv talz.
+baval ludháv narv kodz navath, nuzáv batím huganv bep durákh kolg, bep davan 9& vogun puthák bavath batím huganv tev hutabar dev khank zi guván vog duráv fakar, khank zi baval nusák bep khardev thuf thunáp. khozum dulakez furákh kolg khank, bep vogun kamivez nuv baval-khunák. davan @0 vogun khunák baval dev batím huganv bel hutabar, bep hutabar sugháv. gadhath zi zuvák hubasur samíd zalv khuráp gol dulák, vem davanez, bep davan @3 hutabar zuvák 21 fadhazez. nuzám, vog sugháv kos rintath basur nalp, tob bep padhal fadhaz davan, gev baval-guláp. davan @$, 2$ fadhazez, bep baval-guláp tob fadhaz. vog zuvák 40 duráv talz.
 
 davan @2, rakadirez tabar-suláth, ramk-sumád bep khard-vurán tupák baval-khunák, hutabar dhanív, hubasur favíz, bep khalv-gunáv zuvák tarv, bep vogun lumáv vog tasím taghív, padíl taghív, sakap thuf. lamv khardev durákh vog, narv-butám, narv zi thuf duháv sakap, narv zi butám, bep lamv magar-thubád kodz dhanív murádh kos kodz gandh. khirid khard-vurán gunádh gandhez kolg batím huganv, dhanív dulák.
 
 khardev thuráp. vogun mulágh karm kolg nalív hadan, khabar, davan @5, nuv tamkh tanv bep habad dev narvez, bep vogun gunádh baval-khunák gol hamk vog. rinit tabar-suláth funád nuzám vog, hutabar dhanív, hubasur favíz, nuv lakamev bep damg, bep thumár zald tavíz mathaz zund, bep khardev kolg nalív hadan khumád hamk sugháv batím huganv, ladhíp hamk tavíz thamur, 16 thamurez, bep favíz thamur sugháv nuv basur favíz vog. dulkun khalv-gunáv gunádh mazadh kolg, duráv khardev, bep kodz tob gandh vog zi filnath durákh. lukum lakam-mulán lumáv vog, kos vog gunádh vog. vogun thunáz gatal ramk-sumád tev tanv. kodz tob thanz lamv kodz vadhal.
 
-lamv vadhal durákh, kob mardh dulkun khalv-gunáv, gathar baval-khunák, nurráv, bep tob gharp, mathaz 66, davan 4%, bep dhanív dulák khapív pithakath khardev, satav huzaghar samíd, vadhal nuzám. lamv durákh kamv baval-khunák, 42 dulákez, 1^ mathazez thuf dulák, sakap thuf.
+lamv vadhal durákh, kob mardh dulkun khalv-gunáv, gathar baval-khunák, nurráv, bep tob gharp, mathaz 66, davan 4%, bep dhanív dulák khapív pithakath khardev, satav huzaghar samíd, vadhal nuzám. lamv durákh kamv baval-khunák, 42 dulakez, 1^ mathazez thuf dulák, sakap thuf.
 :::
 
 ## The Claim of Work
@@ -281,7 +281,7 @@ zik girm bep kabur davanez./
 kodz davan, gaz thuf nuzáv galm./
 lamv durákh kedz. gaz thuf zurám.
 
-vesun kumáv dulákez‼/
+vesun kumáv dulakez‼/
 dulák zi puthák, tob girm bep vem,/
 dulák zi furákh, zik girm bep kabur,/
 dulák zi latutáb, fozd./
@@ -336,7 +336,7 @@ Tanvan of Ramk-sumád lies in the burial hall of Magar-thubád. The words over h
 :::
 
 ::: {.verse form=filnath lang=khaz enc=khazpirzathenc work=the-long-tunnel-3}
-talz vadhal zik, dulkun khalv-gunáv dulák dhanív dulák satav huzaghar samíd, zi pabarez thunáz vog, bep satav karím nalp kodz vadhal, # dulákez kolg 2$ tifanathez. khapivez tifanathez zuvák madak duráv. rinit tabar-suláth thumár dhanív dalk vog kolg, tifanath 1&, davan zi vogun lamíth vog thumár, bep lamv durákh dulák kob mardh vog, tasím.
+talz vadhal zik, dulkun khalv-gunáv dulák dhanív dulák satav huzaghar samíd, zi pabarez thunáz vog, bep satav karím nalp kodz vadhal, # dulakez kolg 2$ tifanathez. khapivez tifanathez zuvák madak duráv. rinit tabar-suláth thumár dhanív dalk vog kolg, tifanath 1&, davan zi vogun lamíth vog thumár, bep lamv durákh dulák kob mardh vog, tasím.
 
 nalp khozum nuzám naghal, nalp davan 9, gharm nughál hez, vem dankez. bavath nalív huthamur zugár dev gadíb zi dulkun tupák, khatab mathaz 1^ bep mathaz 24, rabak zik napalez, ravath nudháp, bep huzagar puthák halgh, narív kos huthamur, bep rafas zi ludháv galv duráv bep ravath favíz ludháv kolg. kodz davan, rakadirez vem vagathez tupák baval-khunák, hutabar dhanív, hubasur favíz, bep lumáv vog tasím taghív. hutabar, 40 fadhazez. lamv durákh halgh huthamur, bep khazár thuf dulák vog, bep vogun puráz davan kolg nuv dalk-puráz, dev halgh. khapív davan, timkin ramk-sumád thubágh, lukum hurát vog limvath davan bozd naghal, kolg hukhard, bep lukum lakam-mulán hurát vog, gandh timkin bep gandh dulkun bep gandh girip tabar-suláth, tagín, bep timkin puráz mardh vog nalív rakad.
 

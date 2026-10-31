@@ -6,7 +6,7 @@
 # A pull request checks formatting on its changed files only.
 # Each job restores node_modules by Node version and package-lock.json hash;
 # npm ci runs on cache misses. build/ is gitignored, so content builds start cold.
-# Retired-name and concordance sweeps run on demand.
+# The retired-name sweep runs on demand.
 name: Lint
 
 on:
@@ -138,7 +138,7 @@ jobs:
             - name: Check reference people
               run: npm run lint:reference-people
 
-            # The tree's own guards: the concordance, the deployment headers. Two
+            # The tree's own guards, the deployment headers among them. Two
             # pull requests that pass alone can fail together, and this catches
             # that before merge.
             - name: Run the utility tests

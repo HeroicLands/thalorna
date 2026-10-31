@@ -262,7 +262,7 @@ Gazelles gather in herds around related females and their young, with adult male
 
 ## What the Hunters Do
 
-The desert-hunters of [[affiliation-garnuw|Gar'Nuw]], the Khelathi guild, take gazelle with falcons and hounds, and the lords of [[place-byzariargn|Bizaria]] ride after them with hawks and coursing cats. The tribes of [[place-dunharargn|Dunhara]] and the Khazryn course them with desert sighthounds and keep the horns as drinking cups and the hide for waterskins. Gazelle meat is a feast-dish. A tribe that holds the only well in a stretch of desert watches the gazelle trails to read where the other water lies. A young hunter proves himself by running a gazelle down with a hound, and a gazelle given as a gift between chiefs is an offer of peace.
+The desert-hunters of [[affiliation-garnul|Gar'Nul]], the Khelathi guild, take gazelle with falcons and hounds, and the lords of [[place-byzariargn|Bizaria]] ride after them with hawks and coursing cats. The tribes of [[place-dunharargn|Dunhara]] and the Khazryn course them with desert sighthounds and keep the horns as drinking cups and the hide for waterskins. Gazelle meat is a feast-dish. A tribe that holds the only well in a stretch of desert watches the gazelle trails to read where the other water lies. A young hunter proves himself by running a gazelle down with a hound, and a gazelle given as a gift between chiefs is an offer of peace.
 
 ## Signs
 

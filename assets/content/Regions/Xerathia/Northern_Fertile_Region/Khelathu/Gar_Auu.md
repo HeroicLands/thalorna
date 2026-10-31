@@ -139,7 +139,7 @@ The house of [Zu'Meku]{.name data-type="affiliation/lineage"} took the throne in
 | **Meqes XV**   |         2775 |    45 | 665 | the throne passed to the one who stood beside it; went to the West in his forty-fifth year |
 | Meqes XVI      |         2819 |     — | 709 | reigns; this is her twelfth year                                                           |
 
-The chartered guilds date themselves by this house: [[affiliation-garnuw|Gar'Nuw]] holds its charter from [Meqes VII]{.name data-type="being/npc"}, the seventh Gar-Au of the house, and [[affiliation-garmelnu|Gar'Melnu]] from [Meqes XI]{.name data-type="being/npc"}, the eleventh. Meqes XVI is [Meqes XV]{.name data-type="being/npc"}'s daughter, crowned at thirty-four. Her nephew [[being-anlaghur|Anlaghur]] stands near enough the succession that the court asks the question seriously, and the house has two children's reigns in its own list, and the one it ended to take the throne, to remind it what a succession can cost.
+The chartered guilds date themselves by this house: [[affiliation-garnul|Gar'Nul]] holds its charter from [Meqes VII]{.name data-type="being/npc"}, the seventh Gar-Au of the house, and [[affiliation-garmelnu|Gar'Melnu]] from [Meqes XI]{.name data-type="being/npc"}, the eleventh. Meqes XVI is [Meqes XV]{.name data-type="being/npc"}'s daughter, crowned at thirty-four. Her nephew [[being-anlaghur|Anlaghur]] stands near enough the succession that the court asks the question seriously, and the house has two children's reigns in its own list, and the one it ended to take the throne, to remind it what a succession can cost.
 
 ## The Middle Count and the First Tablets
 
