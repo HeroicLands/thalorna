@@ -41,6 +41,7 @@ languages:
     telu: { tag: art-x-telu, note: skill-tellumilng }
     tenl: { tag: art-x-tenl, note: skill-tenlayalng }
     teyu: { tag: art-x-teyu, note: skill-teyumilng }
+    tiku: { tag: art-x-tiku, note: skill-tikupilaritlng }
     tokc: { tag: art-x-tokc, note: skill-tokchilng }
     valt: { tag: art-x-valt, note: skill-valtarlng }
     varo: { tag: art-x-varo, note: skill-varokhlng }
