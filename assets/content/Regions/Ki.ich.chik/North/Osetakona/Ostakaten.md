@@ -9,7 +9,7 @@ data:
   culture: osetakonaclt
   demonym: null
   lore: [osetakonaclt]
-  parents: [osetakonargn]
+  parents: [kahsiotargn]
   population: 2000
   government: osetakona
   packFolder: osetakona
@@ -17,7 +17,7 @@ data:
 
 ## Overview
 
-A visitor to Ostakaten who wants an answer from the Maple People waits, sometimes for days, while the council talks. The village is the Kettle, the place where the great council of the [[affiliation-osetakona|Osetakona]] sits: about 2,000 people of the Falls People behind a double palisade on a rise above a lake, half a day's walk from the [Great Falls]{.name data-type="place/feature"}. The name belongs to the council and not to the ground. Whichever village hosts the great council is the Kettle, and the south, which counts it as the Grove's seat, has learned that its seat moves.
+A visitor to Ostakaten who wants an answer from the Maple People waits, sometimes for days, while the council talks. The village is the Kettle, the place where the great council of the [[affiliation-osetakona|Osetakona]] sits: about 2,000 people of the Falls People behind a double palisade on a rise above a lake, half a day's walk from the [Great Falls]{.name data-type="place/feature"} in the [[place-kahsiotargn|Falls Country]]. The name belongs to the council and not to the ground. Whichever village hosts the great council is the Kettle, and the south, which counts it as the Grove's seat, has learned that its seat moves.
 
 ## The Village
 
@@ -35,7 +35,7 @@ The Falls People feed the whole council for as long as it sits, from the village
 
 The Kettle's fields are thinning and its firewood is a long carry, and the clan mothers have spent this spring walking the forest for the next site. When they have chosen it, the men cut and burn the clearing, and before the village moves it holds its Feast of Bones: twelve years of the Kettle's dead, among them two speakers of the great council, laid together in one pit with the best furs and copper the village owns. Speakers from every nation come to a Kettle's Feast of Bones, and the great council moves with the village.
 
-Where the council sits matters. The Dawn People want the next Kettle closer to the sea, where the council can see what it is deciding about; the Falls People want it where it has always been.
+Where the council sits matters. The Dawn People want the next Kettle closer to the sea, where the council can see what it is deciding about; the Falls People want it where it has always been. The Rapids People have offered [[place-tsinikasiwa|First Sugar]], between the two and beside the sugar bush where the Grove began.
 
 ## See Also
 
@@ -44,6 +44,9 @@ Where the council sits matters. The Dawn People want the next Kettle closer to t
 
 [[place-osetakonargn|Osetakona Region]]
 : the lakes and the portages
+
+[[place-kahsiotargn|Falls Country]]
+: the country around the falls
 
 [[lore-osetakonaclt|Osetakona]]
 : the culture, the councils and the Feast of Bones

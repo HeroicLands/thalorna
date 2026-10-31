@@ -46,6 +46,10 @@ data:
         Rememberer: an elder, often blind, who keeps the Grove's agreements in memory, reads the memory belts and recites them at every great council; the Grove sends one to the compact's council each summer.
       otekwahen: >-
         Ceremony keeper: clan kin named by the clan mothers to keep the rites of the year, name their days and lead them.
+      ostakahen: >-
+        Keeper of the Kettle: a speaker of the nation hosting the great council, chosen by its clan mothers, who opens and closes each council, tends its fire, states each agreement once it is reached, and may not argue for any side while he keeps it.
+      tsiotsi okwaria: >-
+        Sapling: clan kin the great council lets sit and speak without a line's title, for a deed or a gift of speech; no clan mother can take the seat back, and it passes to no one at the sapling's death.
   seat: ostakaten
   population: 750000
   economy: []
@@ -79,6 +83,43 @@ The speakers govern by talking. A village council is its clans' speakers, a nati
 
 The rememberers (_sakwentahen_) are the Grove's records. They keep its agreements in memory and in memory belts of white and purple shell beads, and they open every great council by reciting the Founding and the agreements since.
 
+## How the Grove Decides
+
+The great council sits once a year, after the sugaring, and at other seasons when a nation's runners ask for it. The Keeper of the Kettle (_ostakahen_), a speaker of the host nation chosen by its clan mothers, opens it by burning tobacco on the council fire and passing round the first sugar of the [First Grove]{.name data-type="place/site"}. The rememberers recite the Founding and the agreements since. Then the matter is put, and the nations speak in the order they joined: the Falls People and the Rapids People first, as the first two trees, and the Beaver People last. Each nation's speakers talk among themselves first and give one answer. When every nation has answered, the matter goes round again, and again, until the answers are the same.
+
+The Keeper of the Kettle then states the agreement, and a rememberer repeats it back word for word. A speaker who stays silent at the repeat has not agreed, and the matter goes round once more. A council that cannot agree ends with nothing done, and the Grove calls that an unboiled kettle: the matter is set aside until the next council, and each nation does as it likes in the meantime. The copper trade with the One Fire has been an unboiled kettle for three councils.
+
+The same order holds in small. A nation's council at its own Kettle speaks village by village, and a village council clan by clan, and the clan mothers of each sit where they can hear.
+
+## How It Is Enforced
+
+The Grove has no warriors of its own, no one to arrest anyone, and no one who can be ordered to do anything. It holds together by four means, from the mildest to the gravest.
+
+- **The clan mothers.** A speaker who agrees to what his clan has not agreed, or fails to do what the council agreed, is warned by his clan mother twice in private and once before the clan, and then loses his title and his copper. Every speaker of the Grove knows a man who has lost his.
+- **Talk.** A nation that breaks an agreement is spoken about, at the Kettle and at every fire, and its runners find councils slow to hear them.
+- **The sweetening.** A wrong between nations is settled as a wrong between clans: the nation at fault sends furs, beads, copper and sugar until the other nation's clan mothers accept it.
+- **The Cold Pot.** A nation that will neither keep an agreement nor sweeten its breach has its pot let go cold (_otsiskwen ostaka_). The great council sends it no sugar at the Sap Feast, receives none of its runners and feeds none of its speakers at the Kettle, until it sweetens. The rememberers recite two Cold Pots in eleven generations, and both nations sweetened within a year.
+
+Within a village the clan enforces. A thief is talked about, a killer is answered by the victim's clan with a sweetening, and a witch or a traitor is killed by his own clan so that no other clan has to.
+
+## How Titles Pass
+
+A speaker's title is a name owned by one line of one clan, and like any name it lies down when its carrier dies. The clan mother of the line, with the women of her line, chooses the next man from its sons and sisters' sons, and the choice can take a season. Then the title is raised at a council of mourning. The other nations' speakers come to the dead man's village and sweeten the grief of his clan with words and gifts, so that grief does not sit in the council, and the clan mother puts the copper on the new man before them all. From that day he carries the title's name in council, and his own only at home.
+
+A clan mother is chosen by the women of her line from among its elder women, and holds the place for life unless the women take it back. The Keeper of the Kettle changes when the Kettle moves, and is always a speaker of the host nation.
+
+The great council can also make a sapling (_tsiotsi okwaria_): a man, or more rarely a woman, who has done something the Grove wants to keep hearing from, given a seat and a voice in council without any line's title. No clan mother can unseat a sapling, and the seat dies with its holder. There are three saplings at the Kettle today, against some sixty titles. One of them, [Taroskwakerens]{.name data-type="being/npc"}, Crane Hears, is a Crane man of the Falls People with Island blood, raised for carrying a pipe through the Grass People's country in a war year. His defenders point to him as proof that the titles are open. His clan mothers point out that it took a deed of that size to seat one Crane man, and that he can leave his seat to no one.
+
+## The Towns
+
+The Grove's villages stand in five countries, and the [[place-osetakonargn|Osetakona Region]] describes them together.
+
+- **The [[place-kahsiotargn|Falls Country]]**, the heart of the Grove, holds [[place-ostakaten|Ostakaten]], the Kettle, and [[place-tsinikasiwa|First Sugar]], the Rapids People's village beside the first sugar bush.
+- **The [[place-kahnionrgn|Western Lakes]]** hold [[place-kahnekwaroten|Hammerstone]], the Copper People's copper village, and [[place-kaniestraten|Birches]], the Birch People's village on the edge of the grass.
+- **The [[place-tsiorhenrgn|Dawn Shore]]** holds [[place-tsiorhenten|Tsiorhenten]], the Dawn Place, which the men from the water burned.
+- **The [[place-tionhsekargn|Southern Rivers]]** hold [[place-tsiontaha|New Clearing]], the River People's southernmost village, burned and rebuilt.
+- **The [[place-tsitarargn|Pine Country]]** holds the Pine People's villages and the camps of the hunting bands from the north.
+
 ## War
 
 The Grove's wars are small and personal. When deaths leave a clan's names lying down, a clan mother may ask for a mourning war: a raid to take captives who will raise the names. A war leader (_rotsikwen_) raises the party and leads it only while it is out. A captive brought home is adopted, and becomes a son, a daughter or a husband of the clan in full, or is put to death. Many of the Maple People were born elsewhere. A nation goes to war as a whole only when its council agrees, and the whole Grove only when the great council agrees.
@@ -87,9 +128,11 @@ The Grove's wars are small and personal. When deaths leave a clan's names lying 
 
 The Maple People are proud of their government and suspicious of everyone else's. They hold that a king is a witch with a council's power, and they say so to the One Fire's Suns at every council of the [[affiliation-redstncmpct|Red Stone Compact]]. In the compact the Maple People are the diplomats and the memory: their rememberers open each summer council by reciting the agreements of past ones, and their runners carry more of the compact's business than any other nation's.
 
+The great council names the Grove's delegates each spring: two speakers, one of them usually [Skahniotiaro]{.name data-type="being/npc"} of [[place-kaniestraten|Birches]], who speaks the Grass People's tongue, and a rememberer to recite at the [Red Quarry]{.name data-type="place/site"}. They walk west from the Birch People's villages to the quarry and can promise only what the great council boiled down before they left. That rule is why the Grove is slow to smoke a pipe of help. Three summers ago, when the [[affiliation-teyumi|Turquoise People]] sent Pipe Bearers against a southern war party, the Grove's delegates had no agreement from the Kettle to smoke on, and the Grove did not smoke. The rememberers recite the refusal with the rest, and the Turquoise People's delegates have not let anyone forget it. Now the Grove is the nation asking, against the men from the water, and the other nations note how much faster the Kettle boils when the danger is its own.
+
 ## Neighbours and Threats
 
-The Grove contests [[place-hanalxilanrgn|Ha'nal Shi'lan]], the river frontier to the southwest, with the One Fire, and each accuses the other of raiding there. The Grass People raid the Birch People's villages in the west. Two dangers fall on the Grove before anyone else. [[lore-nordheimnclt|Nordmen]] from the [[place-nrdlndsrgn|Nordlands]] have crossed the eastern ocean, and last summer they burned [Tsiorhenten]{.name data-type="place/settlement"}, a Dawn People village, and carried four of its people away; the Maple People have no name for them. And in the north, hunting bands driven out of the far woods by newcomers from the ice are moving into the Pine People's country.
+The Grove contests [[place-hanalxilanrgn|Ha'nal Shi'lan]], the river frontier to the southwest, with the One Fire, and each accuses the other of raiding there. The Grass People raid the Birch People's villages in the west. Two dangers fall on the Grove before anyone else. [[lore-nordheimnclt|Nordmen]] from the [[place-nrdlndsrgn|Nordlands]] have crossed the eastern ocean, and last summer they burned Tsiorhenten, a Dawn People village, and carried four of its people away; the Maple People have no name for them. And in the north, hunting bands driven out of the far woods by newcomers from the ice are moving into the Pine People's country.
 
 ## Trade
 
@@ -108,6 +151,9 @@ The Grove's lake country is where the north's copper comes from. It lies in the 
 
 [[place-ostakaten|Ostakaten]]
 : the Kettle, where the great council sits
+
+[[lore-tiatorenhsa|Answering]]
+: the faith of the Grove, its powers and its healers
 
 [[affiliation-redstncmpct|Red Stone Compact]]
 : the compact the Maple People remember for the other four nations

@@ -31,9 +31,30 @@ The forests are mixed: pine and spruce in the north, maple, birch, oak and chest
 
 A village lasts ten to twenty years in one place. Then its fields are worn out and its firewood is a long walk away, and it moves a few miles to a new clearing (_tahsiren_), burned and cut by the men the year before. The forest is full of old village sites: rings of rotted palisade posts, fields gone back to brush, and the low mound of a pit of bones that no one disturbs.
 
-East, the land comes down to the ocean in rocky shores, river mouths and fishing coves. From that ocean twice in twenty-one years have come strange boats, and a year ago one of them burned [Tsiorhenten]{.name data-type="place/settlement"}, a village of the Dawn People, which has since moved inland. North, the forest thins into boreal country and then tundra, held only by small bands of caribou hunters, and from there come the peoples the newcomers from the ice have driven south.
+East, the land comes down to the ocean in rocky shores, river mouths and fishing coves. From that ocean twice in twenty-one years have come strange boats, and a year ago one of them burned [[place-tsiorhenten|Tsiorhenten]], a village of the Dawn People, which has since moved inland. North, the forest thins into boreal country and then tundra, held only by small bands of caribou hunters, and from there come the peoples the newcomers from the ice have driven south.
 
 Between the Pine People and the Falls People lies the [Lake of Islands]{.name data-type="place/feature"}, the old country of the Island People. Nobody has built a village on its islands since the Grove broke them, and the Pine People's canoes cross it without stopping.
+
+## Countries
+
+The Grove's land falls into five countries, each the home of one or more nations.
+
+- **The [[place-kahsiotargn|Falls Country]]**, about 280,000 people, around the Great Falls and down the Great River: the Falls People, the Rapids People and the Beaver People, and the empty Lake of Islands.
+- **The [[place-kahnionrgn|Western Lakes]]**, about 160,000, the inland seas of the west: the Copper People and the Birch People.
+- **The [[place-tionhsekargn|Southern Rivers]]**, about 140,000, the valleys running south toward Ha'nal Shi'lan: the River People.
+- **The [[place-tsiorhenrgn|Dawn Shore]]**, about 100,000, where the Great River meets the sea: the Dawn People.
+- **The [[place-tsitarargn|Pine Country]]**, about 70,000, the cold northern edge: the Pine People.
+
+## Villages
+
+The Maple People build palisaded villages, never towns, and none holds more than about 2,000 people. The ones that matter most to the Grove are these.
+
+- [[place-ostakaten|Ostakaten]], the Kettle, about 2,000, in the Falls Country, where the great council sits.
+- [[place-tsinikasiwa|First Sugar]], about 1,800, the Rapids People's village beside the sugar bush where the Grove began.
+- [[place-kahnekwaroten|Hammerstone]], about 1,500, the Copper People's village on the Copper Lake, where the north's copper is made.
+- [[place-kaniestraten|Birches]], about 1,000, the Birch People's village on the edge of the grass.
+- [[place-tsiorhenten|Tsiorhenten]], the Dawn Place, about 900, burned by the men from the water and moved inland.
+- [[place-tsiontaha|New Clearing]], about 600, the River People's southernmost village, burned by the One Fire and rebuilt.
 
 ## Borders and Trade
 
@@ -51,3 +72,21 @@ The Maple People's canoes carry copper, furs, maple sugar and dried fish along t
 
 [[place-ostakaten|Ostakaten]]
 : the Kettle, the village where the Grove's great council sits
+
+[[place-kahsiotargn|Falls Country]]
+: the heart of the Grove, around the falls
+
+[[place-kahnionrgn|Western Lakes]]
+: the copper lakes and the forest's western edge
+
+[[place-tionhsekargn|Southern Rivers]]
+: the River People's valleys
+
+[[place-tsiorhenrgn|Dawn Shore]]
+: the eastern shore and the sea
+
+[[place-tsitarargn|Pine Country]]
+: the cold northern edge
+
+[[lore-tiatorenhsa|Answering]]
+: the faith of the Grove
