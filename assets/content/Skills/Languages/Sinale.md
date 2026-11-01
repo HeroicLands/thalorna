@@ -7664,8 +7664,10 @@ data:
     - {name: tehy, tongue: sinale, built: [tehy]}
     - {name: talve, tongue: sinale, built: [talve]}
     - {name: aelirosse, tongue: sinale}
-    - {name: ethalosse, tongue: sinale}
-    - {name: serenthale, tongue: sinale}
+    - {name: etalosse, tongue: sinale}
+    - {name: ethalosse, tongue: exonym:elavendri}
+    - {name: serentale, tongue: sinale}
+    - {name: serenthale, tongue: exonym:elavendri}
     - {name: vierka, tongue: sinale}
     - {name: dhargan, tongue: exonym:aelendi}
     - {name: nela, tongue: exonym:aelendi}

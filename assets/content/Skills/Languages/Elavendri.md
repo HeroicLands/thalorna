@@ -6696,7 +6696,7 @@ data:
     - {name: Elanmere, tongue: elavendri}
     - {name: Ésalosa Lodge, tongue: translation}
     - {name: Ésalosa, tongue: other:aelendi}
-    - {name: Ethalosse, tongue: other:sinale}
+    - {name: Ethalosse, tongue: elavendri}
     - {name: Sóurimel, tongue: elavendri}
     - {name: The Silver Forests, tongue: translation}
     - {name: The Uron Tekhi, tongue: translation}
@@ -6722,7 +6722,7 @@ data:
     - {name: Hélithron, tongue: elavendri}
     - {name: Liranel, tongue: elavendri}
     - {name: Port Aelion, tongue: translation}
-    - {name: Serenthale, tongue: other:sinale}
+    - {name: Serenthale, tongue: elavendri}
     - {name: Heart of Dirikri, tongue: translation}
     - {name: Kingdom of Élavendre, tongue: translation}
     - {name: Outlaw, tongue: translation}

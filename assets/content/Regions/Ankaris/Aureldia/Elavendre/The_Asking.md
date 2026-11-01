@@ -1564,7 +1564,7 @@ A court of worked stone stands up where/
 .It's older than the trees. The grass/
 grows in its cracks. We laid him there.
 
-Ethalosse, we call it. You/
+[etalosse]{.name data-type="place/settlement" lang=sina}, we call it. You/
 .say it well now. The first ones said/
 .it badly; so did theirs. It spread,/
 mouth to mouth, lives, till it came true.
@@ -1671,7 +1671,7 @@ setty raltiileva seltoho elniso oso/
 .vonu onsa vautti salputos lenti/
 lirta onsa rilpaho penvai ehii onsa polpeho
 
-ethalosse evatte ehii onsa ovuu/
+[etalosse]{.name data-type="place/settlement" lang=sina} evatte ehii onsa ovuu/
 .evatte onsa launel insu evatte eirandi lirne vennas/
 .onsa senvai evi onsaa nysse vennas vaukka onsa/
 aumeltos aumelo sylpe vennas ellun senval onsa tennairsa
