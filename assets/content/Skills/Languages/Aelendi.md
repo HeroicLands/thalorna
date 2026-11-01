@@ -5677,7 +5677,7 @@ data:
       gloss: for what purpose; asks the intended purpose
       built: [gher, dhernis]
       concept: question-for-what-purpose
-    - form: khe
+    - form: khena
       class: part
       field: Numbers and grammar words
       gloss: whether; opens a yes or no question before the subject
@@ -6588,11 +6588,11 @@ data:
       gloss: what is this called; what name does this have
       built: [ti, gher, lenthon, dhárkathen]
       concept: expression-what-is-this-called
-    - form: khe tenar
+    - form: khena tenar
       class: adj
       field: The lodge, the fire and the guest
       gloss: really; is that true; a fixed surprised request for confirmation
-      built: [khe, tenar]
+      built: [khena, tenar]
       concept: expression-really
     - form: noth ghuri
       class: part
@@ -7362,6 +7362,7 @@ data:
     - form: thamesur
       instead: mórdamon
       why: "a word that reads as a Vylari word; the native word is written instead"
+    - {form: khe, instead: khena, why: "an Earth word, the yes-or-no question particle"}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -7456,7 +7457,7 @@ The quantity and comparison expressions state their full scope. _Gherin gheldar_
 
 These expressions name a time or an occasion. _Ti kiron_ is "today", this day, and _murnel óssenda_ is "midnight", the middle of the night. _Ris kurnis kirdis_ is "during the feast", in the feast's time. _Kren kirdis_ means "sometimes"; _nal uk kirdin_, _nal ta kirdin_ and _nal ghurnar kirdin_ mean "once", "twice" and "repeatedly": on one, two or many occasions. _Nal trenen kirdin_ and _nal dálamen kirdin_ put an event at the first and next occasion in sequence, while _nal dhulon_, "at the ending", marks its final point. _Grend_ means "again", a recurrence of the action in question. _Nond ghend_ says that an expected event has not happened yet.
 
-Questions use the words whose meanings they ask for: _gher miron_, "what place; where", _gher kirdis_, "what time; when", _gher dhelnon_, "what number; how many", _gher menthis_, "what amount; how much", and _gher ghoris_, "what reason; why". _Ghes_ asks who; _ghesri_ asks whose. _Khe_ opens a question that takes yes or no: _khe tos tis ónathen_, "are you here?". A question of manner uses _ghesin_: _tos ghesin rúnathen_, "how do you say it?". A questioning _gher rúnathen_ asks the speaker to repeat or explain.
+Questions use the words whose meanings they ask for: _gher miron_, "what place; where", _gher kirdis_, "what time; when", _gher dhelnon_, "what number; how many", _gher menthis_, "what amount; how much", and _gher ghoris_, "what reason; why". _Ghes_ asks who; _ghesri_ asks whose. _Khena_ opens a question that takes yes or no: _khena tos tis ónathen_, "are you here?". A question of manner uses _ghesin_: _tos ghesin rúnathen_, "how do you say it?". A questioning _gher rúnathen_ asks the speaker to repeat or explain.
 
 The conversational entries give the whole utterance. Their subject and any object precede the cited verb form: _mund tos laghnathen_, "I thank you", _mund sarnathen_, "I understand", and _mund nond sarnathen_, "I do not understand". These plain utterances use the dictionary's cited verb form without person endings. A direct request names the person addressed: _tos tis árnathen_, "come here", and _tos mund kenthathen_, "help me". _Mund kernathen_, "I ask", is a courteous preface. _Nond molthon_, "no debt of honor", answers thanks by releasing the recipient from repayment. _Redha ghirth tos_, "peace to you", greets; _redha ris tos_, "peace in you", takes leave. The lodge-door greeting at first light keeps its own word, _trénkira_.
 

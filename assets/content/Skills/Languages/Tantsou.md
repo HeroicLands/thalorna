@@ -509,7 +509,7 @@ data:
     - {form: tuen, class: "v", field: "Doing and describing", gloss: "to walk", concept: walk}
     - {form: ruen, class: "v", field: "Doing and describing", gloss: "to run", concept: run}
     - {form: den, class: "v", field: "Doing and describing", gloss: "to sit", concept: sit}
-    - {form: ki, class: "v", field: "Doing and describing", gloss: "to stand", concept: stand}
+    - {form: gie, class: "v", field: "Doing and describing", gloss: "to stand", concept: stand}
     - form: yuen
       class: "v"
       field: "Doing and describing"
@@ -1484,7 +1484,7 @@ data:
       class: n
       gloss: shape; form or outward configuration
       field: Heaven, law and the order of things
-    - form: ji
+    - form: zhie
       class: n
       gloss: work; an activity or task performed with effort
       field: Heaven, law and the order of things
@@ -1497,7 +1497,7 @@ data:
       gloss: stone; rock, the hard mineral material
       concept: [stone, rock]
       field: Needs and common things
-    - form: bi
+    - form: fin
       class: n
       gloss: grain; a small discrete particle or speck
       field: Heaven, law and the order of things
@@ -1860,10 +1860,10 @@ data:
       built: [mong, min]
       concept: awake
       field: Needs and common things
-    - form: ji bing
+    - form: zhie bing
       class: v
       gloss: to rest; to cease effort for recovery
-      built: [ji, bing]
+      built: [zhie, bing]
       field: Doing and describing
     - form: suo kai
       class: v
@@ -2176,10 +2176,10 @@ data:
       built: [ning, nong]
       concept: follower
       field: Kin
-    - form: ken ji nong
+    - form: ken zhie nong
       class: n
       gloss: servant; a person doing household work in service to another
-      built: [ken, ji, nong]
+      built: [ken, zhie, nong]
       concept: servant
       field: Kin
     - form: gen ten nong
@@ -2284,10 +2284,10 @@ data:
       built: [ho, yan]
       concept: smoke
       field: Needs and common things
-    - form: ho bi
+    - form: ho fin
       class: n
       gloss: ash; the powder left by burned matter
-      built: [ho, bi]
+      built: [ho, fin]
       concept: ash
       field: Needs and common things
     - form: ha ho gao
@@ -2368,10 +2368,10 @@ data:
       built: [shui, shen, sie]
       concept: thread
       field: Needs and common things
-    - form: gao bi
+    - form: gao fin
       class: n
       gloss: sand; small loose grains of stone
-      built: [gao, bi]
+      built: [gao, fin]
       concept: sand
       field: Sky, land and the elements
     - form: shou tou
@@ -2380,10 +2380,10 @@ data:
       built: [shou, tou]
       concept: mud
       field: Sky, land and the elements
-    - form: tou bi
+    - form: tou fin
       class: n
       gloss: dust; fine loose particles of earth
-      built: [tou, bi]
+      built: [tou, fin]
       concept: dust
       field: Sky, land and the elements
     - form: mong shou tou
@@ -2781,10 +2781,10 @@ data:
       built: [tsi, rin, yao, kai]
       concept: plain-pattern
       field: Colour and number
-    - form: rin bi kai
+    - form: rin fin kai
       class: v
       gloss: to be spotted; the conventional have-red-specks expression describes a surface with contrasting spots. The whole idiom extends to spots of other hues; bare rin retains red
-      built: [rin, bi, kai]
+      built: [rin, fin, kai]
       concept: spotted
       field: Colour and number
     - form: kao rin ren kai
@@ -3039,10 +3039,10 @@ data:
       built: [sui, yei]
       concept: prefer
       field: Doing and describing
-    - form: ji chao
+    - form: zhie chao
       class: v
       gloss: to try; to begin an effort toward an intended act without claiming success
-      built: [ji, chao]
+      built: [zhie, chao]
       concept: try
       field: Doing and describing
     - form: lin nao
@@ -3123,10 +3123,10 @@ data:
       built: [han, jiao, ya]
       concept: threaten
       field: Doing and describing
-    - form: ji buen
+    - form: zhie buen
       class: v
       gloss: to continue; to keep an act or undertaking going
-      built: [ji, buen]
+      built: [zhie, buen]
       concept: continue
       field: Doing and describing
     - form: jojeng nan ra
@@ -3515,13 +3515,13 @@ data:
       field: Heaven, law and the order of things
     - form: yen reng tsuo
       class: part
-      gloss: until; toward the limit of an occasion. Sha jong yen reng tsuo tseng ji tsiao means I work until sunset
+      gloss: until; toward the limit of an occasion. Sha jong yen reng tsuo tseng zhie tsiao means I work until sunset
       built: [yen, reng, tsuo]
       concept: until
       field: Heaven, law and the order of things
     - form: yen reng suen
       class: part
-      gloss: since; from the boundary of an occasion. Sha cheng yen reng suen tseng ji tsiao means I work from sunrise onward
+      gloss: since; from the boundary of an occasion. Sha cheng yen reng suen tseng zhie tsiao means I work from sunrise onward
       built: [yen, reng, suen]
       concept: since-time
       field: Heaven, law and the order of things
@@ -3815,7 +3815,7 @@ data:
       field: Heaven, law and the order of things
     - form: tsin dou
       class: n
-      gloss: how; by what path or method. Shie tsin dou san ji tsiao means how do you do the work?
+      gloss: how; by what path or method. Shie tsin dou san zhie tsiao means how do you do the work?
       built: [tsin, dou]
       concept: question-how
       field: Heaven, law and the order of things
@@ -3844,7 +3844,7 @@ data:
       field: Doing and describing
     - form: tsin jiao wing
       class: part
-      gloss: for what purpose; for the sake of what aim. Shie tsin jiao wing ji tsiao means for what purpose do you do the work?
+      gloss: for what purpose; for the sake of what aim. Shie tsin jiao wing zhie tsiao means for what purpose do you do the work?
       built: [tsin, jiao, wing]
       concept: question-for-what-purpose
       field: Doing and describing
@@ -4061,13 +4061,13 @@ data:
       field: Doing and describing
     - form: shiao yao san
       class: part
-      gloss: like; in the same manner or form. Gen shiao yao san tseng ji tsiao means I do the work like the teacher
+      gloss: like; in the same manner or form. Gen shiao yao san tseng zhie tsiao means I do the work like the teacher
       built: [shiao, yao, san]
       concept: [like, as]
       field: Doing and describing
     - form: shong yao san
       class: part
-      gloss: unlike; in a different manner or form. Gen shong yao san tseng ji tsiao means I do the work unlike the teacher
+      gloss: unlike; in a different manner or form. Gen shong yao san tseng zhie tsiao means I do the work unlike the teacher
       built: [shong, yao, san]
       concept: unlike
       field: Doing and describing
@@ -4160,16 +4160,16 @@ data:
       built: [shui, miao, kai]
       concept: light-weight
       field: Doing and describing
-    - form: shui ji ben
+    - form: shui zhie ben
       class: v
       gloss: to be easy; to need little effort to do
-      built: [shui, ji, ben]
+      built: [shui, zhie, ben]
       concept: easy
       field: Doing and describing
-    - form: dao ji ben
+    - form: dao zhie ben
       class: v
       gloss: to be difficult; to need great effort to do
-      built: [dao, ji, ben]
+      built: [dao, zhie, ben]
       concept: difficult
       field: Doing and describing
     - form: shei tsui sui lai
@@ -4226,16 +4226,16 @@ data:
       built: [ging, mong, kai]
       concept: worthless
       field: Doing and describing
-    - form: ji lai
+    - form: zhie lai
       class: adj
       gloss: useful; good for carrying out a task
-      built: [ji, lai]
+      built: [zhie, lai]
       concept: useful
       field: Doing and describing
-    - form: ji mong lai
+    - form: zhie mong lai
       class: adj
       gloss: useless; the conventional task-not-good description means serving no useful purpose in the context
-      built: [ji, mong, lai]
+      built: [zhie, mong, lai]
       concept: useless
       field: Doing and describing
     - form: so kie yao kai
@@ -4464,10 +4464,10 @@ data:
       built: [zhan, chou, tsen, kai]
       concept: expression-thank-you
       field: Doing and describing
-    - form: shui ji
+    - form: shui zhie
       class: call
       gloss: you are welcome; a small task, the conventional modest reply to thanks
-      built: [shui, ji]
+      built: [shui, zhie]
       concept: expression-youre-welcome
       field: Doing and describing
     - form: kou yen yuo
@@ -4590,16 +4590,16 @@ data:
       built: [zhong, lin, tsou]
       concept: community
       field: People, rank and office
-    - form: ji nong
+    - form: zhie nong
       class: n
       gloss: worker; a person carrying out work
-      built: [ji, nong]
+      built: [zhie, nong]
       concept: worker
       field: People, rank and office
-    - form: tsai ji nong
+    - form: tsai zhie nong
       class: n
       gloss: artisan; a person skilled in craft work
-      built: [tsai, ji, nong]
+      built: [tsai, zhie, nong]
       concept: artisan
       field: People, rank and office
     - form: shuo nong
@@ -4632,10 +4632,10 @@ data:
       built: [hou, yao]
       concept: order-noun
       field: People, rank and office
-    - form: geng gi ji
+    - form: geng gi zhie
       class: n
       gloss: obedience; conduct that keeps or carries out a command
-      built: [geng, gi, ji]
+      built: [geng, gi, zhie]
       concept: obedience
       field: People, rank and office
     - form: lai lou
@@ -4650,10 +4650,10 @@ data:
       built: [lao, lou]
       concept: injustice
       field: People, rank and office
-    - form: wuo ji
+    - form: wuo zhie
       class: n
       gloss: war; organized fighting between peoples or rulers, conventionally warrior work
-      built: [wuo, ji]
+      built: [wuo, zhie]
       concept: war
       field: People, rank and office
     - form: reng mong kai long
@@ -4776,16 +4776,16 @@ data:
       built: [mong, gin]
       concept: unnatural
       field: Heaven, law and the order of things
-    - form: ji bing long
+    - form: zhie bing long
       class: n
       gloss: rest; a pause or period free of effort that allows recovery
-      built: [ji, bing, long]
+      built: [zhie, bing, long]
       concept: rest
       field: Needs and common things
-    - form: nong gi ji
+    - form: nong gi zhie
       class: n
       gloss: protection; work preserving a person against harm. Replace nong with the person, creature or thing protected
-      built: [nong, gi, ji]
+      built: [nong, gi, zhie]
       concept: protection
       field: Needs and common things
     - form: nong gi
@@ -5638,6 +5638,9 @@ data:
     - {form: Zhütvōr, instead: Zhouwo, why: the name's earlier spelling}
     - {form: Zhütvōrthēk, instead: Tuigui, why: the name's earlier spelling}
     - {form: Zhützhāt, instead: Zhouzhai, why: the name's earlier spelling}
+    - {form: ki, instead: gie, why: "copies the Earth word for to stand and look"}
+    - {form: ji, instead: zhie, why: "copies the Earth word for works"}
+    - {form: bi, instead: fin, why: "copies the Earth word for a grain"}
   cognates:
     - {forms: {skill-tantsoulng: ho, skill-jurthatlng: ho}, gloss: fire}
     - {forms: {skill-tantsoulng: jing, skill-jurthatlng: ji}, gloss: "metal, gold"}
@@ -5820,7 +5823,7 @@ data:
     - {forms: {skill-tantsoulng: tuen, skill-jurthatlng: ten}, gloss: "to walk"}
     - {forms: {skill-tantsoulng: ruen, skill-jurthatlng: ren}, gloss: "to run"}
     - {forms: {skill-tantsoulng: den, skill-jurthatlng: den}, gloss: "to sit"}
-    - {forms: {skill-tantsoulng: ki, skill-jurthatlng: ki}, gloss: "to stand"}
+    - {forms: {skill-tantsoulng: gie, skill-jurthatlng: ki}, gloss: "to stand"}
     - {forms: {skill-tantsoulng: yuen, skill-jurthatlng: yen}, gloss: "to lie down"}
     - {forms: {skill-tantsoulng: gwen, skill-jurthatlng: wen}, gloss: "to hold"}
     - {forms: {skill-tantsoulng: hai, skill-jurthatlng: hai}, gloss: "to bring, to carry"}

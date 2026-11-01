@@ -153,13 +153,21 @@ function withTranslationRetags(fm, file) {
     return copy;
 }
 
-/** Names respelled since the baseline, by file: each baseline spelling and its replacement. */
-const oneAccentRespellings = new Map([
+/**
+ * Names respelled since the baseline, by file: each baseline spelling and its
+ * replacement, applied in order. A spelling matches at the start of a word, so
+ * it also respells the names built on it, unless a third element `"word"` limits
+ * it to the whole word.
+ */
+const respellings = new Map([
     [
         "assets/content/Skills/Languages/Dunhari.md",
         [
             ["nushir", "nushiran"],
-            ["zarham", "zarman"],
+            ["zarham", "zarvina"],
+            ["vast-bahar", "vazder-bahvar", "word"],
+            ["baharan", "bahvaran", "word"],
+            ["bahar", "bahvar", "word"],
             ["farhazar", "farazar"],
             ["tamirh", "tamirun"],
         ],
@@ -172,7 +180,13 @@ const oneAccentRespellings = new Map([
         ],
     ],
     ["assets/content/Skills/Languages/Nordmal.md", [["gnuldurthann", "gnuldurvir"]]],
-    ["assets/content/Skills/Languages/Varokhi.md", [["vithár", "wíthar"]]],
+    [
+        "assets/content/Skills/Languages/Varokhi.md",
+        [
+            ["vithár", "wíthar"],
+            ["wíthar", "wíthgar", "word"],
+        ],
+    ],
     ["assets/content/Skills/Languages/Atarzadi.md", [["atárzádegan", "atárzadegan"]]],
     [
         "assets/content/Skills/Languages/Nyaluban.md",
@@ -180,24 +194,27 @@ const oneAccentRespellings = new Map([
             ["fámangalí", "fámangali"],
             ["ódúmbala", "ódumbala"],
             ["ómalesí", "ómalesi"],
+            ["njuma", "njúlewa"],
         ],
     ],
 ]);
 
-/** `text` with the file's one-accent respellings applied, in either initial case. */
+/** `text` with the file's respellings applied, in either initial case. */
 function respell(text, file) {
     const upper = (word) => word[0].toUpperCase() + word.slice(1);
     let out = text;
-    for (const [from, to] of oneAccentRespellings.get(file) ?? [])
+    for (const [from, to, scope] of respellings.get(file) ?? []) {
+        const end = scope === "word" ? "(?!\\p{L})" : "";
         out = out
-            .replace(new RegExp(`(?<!\\p{L})${from}`, "gu"), to)
-            .replace(new RegExp(`(?<!\\p{L})${upper(from)}`, "gu"), upper(to));
+            .replace(new RegExp(`(?<!\\p{L})${from}${end}`, "gu"), to)
+            .replace(new RegExp(`(?<!\\p{L})${upper(from)}${end}`, "gu"), upper(to));
+    }
     return out;
 }
 
-/** The baseline with the one-accent respellings applied to every string. */
-function withOneAccentRespellings(fm, file) {
-    if (!oneAccentRespellings.has(file)) return fm;
+/** The baseline with the respellings applied to every string. */
+function withRespellings(fm, file) {
+    if (!respellings.has(file)) return fm;
     const walk = (value) => {
         if (typeof value === "string") return respell(value, file);
         if (Array.isArray(value)) return value.map(walk);
@@ -210,11 +227,32 @@ function withOneAccentRespellings(fm, file) {
     return walk(fm);
 }
 
+/** Affix examples dropped since the baseline, by file: the affix and the example it no longer cites. */
+const droppedExamples = new Map([
+    ["assets/content/Skills/Languages/Varokhi.md", [{ affix: "-ar", example: "Wíthgar" }]],
+]);
+
+/** The baseline without those examples. */
+function withDroppedExamples(fm, file) {
+    const dropped = droppedExamples.get(file);
+    if (!dropped || !Array.isArray(fm.data?.affixes)) return fm;
+    const copy = structuredClone(fm);
+    for (const { affix, example } of dropped) {
+        const entry = copy.data.affixes.find((item) => item?.form === affix);
+        if (Array.isArray(entry?.examples))
+            entry.examples = entry.examples.filter((item) => item !== example);
+    }
+    return copy;
+}
+
 /** Register rows renamed by a ruling, by file: each baseline name, its tongue and the replacement name. */
 const registerRenames = new Map([
     [
         "assets/content/Skills/Languages/Dunhari.md",
-        [{ from: "sahri", tongue: "sovidur", to: "oroqidur" }],
+        [
+            { from: "sahri", tongue: "sovidur", to: "oroqidur" },
+            { from: "vast", tongue: "dunhari", to: "vazder" },
+        ],
     ],
 ]);
 
@@ -314,8 +352,11 @@ export function assertEncodingMigrationPreserved(
             withRegisterRenames(
                 withRegisterSplits(
                     withEnglishNameLists(
-                        withOneAccentRespellings(
-                            withTranslationRetags(withNameForms(before.fm, current.fm), file),
+                        withDroppedExamples(
+                            withRespellings(
+                                withTranslationRetags(withNameForms(before.fm, current.fm), file),
+                                file,
+                            ),
                             file,
                         ),
                         file,
@@ -492,7 +533,7 @@ export function assertPublicLanguageProjections(current, before, prefix) {
             );
         } else
             assert.equal(
-                currentMeaning(form),
+                currentMeaning(respell(form, current.file)),
                 current.file.endsWith("/Khelathi.md") && oldMeaning(form) === null ?
                     completeMeaning(form)
                 :   oldMeaning(form),
@@ -508,7 +549,12 @@ export function assertPublicLanguageProjections(current, before, prefix) {
     });
     const originalRows = dictionaryAndTermRows([record(before, priorData)]).dictionary;
     const currentRows = dictionaryAndTermRows([record(current, current.fm.data)]).dictionary;
-    for (const row of originalRows)
+    for (const original of originalRows) {
+        const row = {
+            ...original,
+            name: respell(original.name, current.file),
+            name_sort: respell(original.name_sort, current.file),
+        };
         assert.deepEqual(
             currentRows.find(
                 (candidate) =>
@@ -519,6 +565,7 @@ export function assertPublicLanguageProjections(current, before, prefix) {
             row,
             `${row.name}: preserved public dictionary projection`,
         );
+    }
     if (current.file.endsWith("/Atarzadi.md"))
         assert.equal(
             dictionaryAndTermRows([record(before, projectionData(before, 40, false))]).dictionary

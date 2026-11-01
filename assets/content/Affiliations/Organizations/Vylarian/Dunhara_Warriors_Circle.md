@@ -7,7 +7,7 @@ name:
     - The Quarterly Hall
     - Dunhara Warrior's Circle
     - The Warrior's Circle
-  dunh: [tigh'baharan]
+  dunh: [tigh'bahvaran]
 type: affiliation
 subType: governmental
 description: "The ancient circle of acclaimed Dunhari warriors, meeting at the season-turns at the Stone of Ranaz to keep the peace among the tribes and to gather them against an enemy no tribe could face alone."
@@ -28,9 +28,9 @@ data:
         description: >-
           A warrior put out of the Circle, denied its acclamation and the shelter of the pan-tribal peace.
       - level: 1
-        title: Bahar
+        title: Bahvar
         description: >-
-          Named to the Circle by acclamation of the existing members, never by application and never by tribal appointment; one of the hundred and eight, wearing the indigo vast-bahar renewed at the Stone.
+          Named to the Circle by acclamation of the existing members, never by application and never by tribal appointment; one of the hundred and eight, wearing the indigo vazder-bahvar renewed at the Stone.
       - level: 2
         title: Vast
         description: >-
@@ -47,7 +47,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-_Dunhari: Tigh'Baharan, "Circle of the Mighty"_
+_Dunhari: Tigh'Bahvaran, "Circle of the Mighty"_
 
 A Dunhari boy learns to recognize the strip of deep-blue leather on a warrior's left arm before he learns his own genealogy, and he learns the rule that goes with it: a man who wears the strip has sworn never to draw on another Dunhari while an outside enemy is in the desert. **The Warrior's Circle** is the body that keeps that oath, a gathering of the most respected warriors of every tribe that meets four times a year, at the season-turns, at the [[place-stoneofranaz|Stone of Ranaz]], and gathers the tribes against a threat none of them could meet alone.
 
@@ -70,7 +70,7 @@ The Circle's authority is moral. It levies nothing and judges no quarrel between
 
 ## Membership
 
-The Circle's full number is one hundred and eight warriors, the _baharan_, though some seventy usually attend a meeting. A member who stays away sends no one in his place; the rulings are made by those who come. Nobody is expelled, but a member who misses three meetings in a row is understood to have stepped aside.
+The Circle's full number is one hundred and eight warriors, the _bahvaran_, though some seventy usually attend a meeting. A member who stays away sends no one in his place; the rulings are made by those who come. Nobody is expelled, but a member who misses three meetings in a row is understood to have stepped aside.
 
 The longest-serving members form an informal inner body, the [Council of Scars]{.name data-type="affiliation/governmental"} (_Tigh'Vast_), perhaps a dozen in any year. It does not vote separately, and when it is united the full Circle seldom goes against it.
 
@@ -108,7 +108,7 @@ Foreign powers
 
 ## The Mark
 
-A member wears a narrow strip of dyed leather around the upper left arm, the _vast-bahar_ ("scar of the mighty"), given at acclamation and never replaced. The dye is a deep indigo from a desert plant, and the strip is renewed only by dipping it again in the vat kept at the Stone of Ranaz, at a meeting of the Circle. A strip left unrenewed for three meetings fades to a paler blue and marks its wearer as having stepped aside.
+A member wears a narrow strip of dyed leather around the upper left arm, the _vazder-bahvar_ ("scar of the mighty"), given at acclamation and never replaced. The dye is a deep indigo from a desert plant, and the strip is renewed only by dipping it again in the vat kept at the Stone of Ranaz, at a meeting of the Circle. A strip left unrenewed for three meetings fades to a paler blue and marks its wearer as having stepped aside.
 
 ## Plot Hooks
 

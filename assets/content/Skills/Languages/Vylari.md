@@ -9323,14 +9323,14 @@ data:
     - {name: Ankren, tongue: vylari}
     - {name: Ethlen, tongue: vylari}
     - {name: The Warrior's Circle of the Dunhara Tribes, tongue: translation}
-    - {name: Tigh'Baharan, tongue: other:dunhari}
+    - {name: Tigh'Bahvaran, tongue: other:dunhari}
     - {name: The Circle of the Mighty, tongue: translation}
     - {name: The Quarterly Hall, tongue: translation}
     - {name: Dunhara Warrior's Circle, tongue: translation}
     - {name: The Warrior's Circle, tongue: translation}
     - {name: Cast Out, tongue: translation}
-    - {name: Bahar, tongue: other:dunhari}
-    - {name: Vast, tongue: other:dunhari}
+    - {name: Bahvar, tongue: other:dunhari}
+    - {name: Vazder, tongue: other:dunhari}
     - {name: Voice of the Quarter, tongue: translation}
     - {name: The Tevran Maldor, tongue: vylari}
     - {name: Great College of Guilds, tongue: translation}

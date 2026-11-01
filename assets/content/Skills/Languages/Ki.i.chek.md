@@ -88,6 +88,17 @@ data:
       gloss: "running with it, full of it"
       attaches: "added"
       examples: ["ne' > ne'ok, flowing"]
+  elements:
+    - form: kul-
+      position: either
+      sense: a lord's seat
+      word: kulal
+      examples: [kulal, kulmah, k'ankul, ishkul, ch'akul]
+    - form: ts'al-
+      position: opening
+      sense: running water
+      word: ts'alu
+      examples: [ts'alu, ts'alam]
   words:
     - form: ts'en
       class: n
@@ -205,7 +216,7 @@ data:
       field: Sky, sun and the count of days
       gloss: "the fourteenth day-sign of the 260-day count: blade"
       note: "From k'ulqat, a knife."
-    - form: p'uq
+    - form: p'uqul
       class: name
       field: Sky, sun and the count of days
       gloss: "the fifteenth day-sign of the 260-day count: storm"
@@ -484,30 +495,31 @@ data:
       field: Rank, temple and court
       gloss: a noble lord of a city's court
       built: [k'anul, -mah]
-    - form: kul
+    - form: kulal
       class: n
       field: Rank, temple and court
       gloss: a seat of a lord, and so of the city he rules from
+      built: [kul-, -al]
     - form: kulmah
       class: n
       field: Rank, temple and court
       gloss: a subordinate lord, who holds a lesser seat
-      built: [kul, -mah]
+      built: [kul-, -mah]
     - form: k'ankul
       class: n
       field: "Rank, temple and court"
       gloss: the golden seat
-      built: [k'an-, kul]
+      built: [k'an-, kul-]
     - form: ishkul
       class: n
       field: "Rank, temple and court"
       gloss: the silver seat
-      built: [ish-, kul]
+      built: [ish-, kul-]
     - form: ch'akul
       class: n
       field: "Rank, temple and court"
       gloss: the serpent seat
-      built: [ch'ak-, kul]
+      built: [ch'ak-, kul-]
     - form: ts'enbal
       class: n
       field: Rank, temple and court
@@ -730,7 +742,7 @@ data:
       class: part
       field: Everyday speech
       gloss: of; introduces an owner or the person through whom a relationship is traced
-    - form: ts'ek
+    - form: ts'eqik
       class: part
       field: Everyday speech
       gloss: in the numbered position; follows a complete cardinal number to make an ordinal
@@ -759,7 +771,7 @@ data:
       gloss: at the beginning; first in a sequence; first; before the other events in a sequence
       concept: first-sequence
     - {form: ch'umalak, class: n, field: Everyday speech, gloss: the lower edge of a thing}
-    - {form: ts'uk, class: n, field: Everyday speech, gloss: a bend or joint}
+    - {form: ts'ukul, class: n, field: Everyday speech, gloss: a bend or joint}
     - {form: ts'il, class: n, field: Everyday speech, gloss: a small projecting or detached piece}
     - form: kulik
       class: n
@@ -1243,7 +1255,7 @@ data:
     - {form: k'ulnak, class: n, field: Everyday speech, gloss: the neck, concept: neck}
     - {form: ch'upak, class: n, field: Everyday speech, gloss: the shoulder, concept: shoulder}
     - {form: p'ishak, class: n, field: Everyday speech, gloss: the arm, concept: arm}
-    - form: p'ishak ts'uk
+    - form: p'ishak ts'ukul
       class: n
       field: Everyday speech
       gloss: the elbow
@@ -1269,7 +1281,7 @@ data:
     - {form: ch'upum, class: n, field: Everyday speech, gloss: the back, concept: back}
     - {form: shilak, class: n, field: Everyday speech, gloss: the hip, concept: hip}
     - {form: shilumak, class: n, field: Everyday speech, gloss: the leg, concept: leg}
-    - form: shilumak ts'uk
+    - form: shilumak ts'ukul
       class: n
       field: Everyday speech
       gloss: the knee
@@ -1330,7 +1342,7 @@ data:
       gloss: buttock
       note: An ordinary expression using the word order and phrase constructions in Everyday speech.
       concept: buttock
-    - form: p'ishum ts'uk
+    - form: p'ishum ts'ukul
       class: n
       field: Everyday speech
       gloss: wrist
@@ -1354,7 +1366,7 @@ data:
       gloss: thigh
       note: An ordinary expression using the word order and phrase constructions in Everyday speech.
       concept: thigh
-    - form: shilakum ts'uk
+    - form: shilakum ts'ukul
       class: n
       field: Everyday speech
       gloss: ankle
@@ -1473,13 +1485,13 @@ data:
       gloss: feverish
       note: An ordinary expression using the word order and phrase constructions in Everyday speech.
       concept: feverish
-    - {form: p'akal, class: n, field: Everyday speech, gloss: Pain, concept: pain}
+    - {form: p'akil, class: n, field: Everyday speech, gloss: Pain, concept: pain}
     - form: p'akan
       class: v
       field: Everyday speech
       gloss: to hurt; to cause pain or injury to someone
       concept: hurt-verb
-    - form: p'akal ts'anal
+    - form: p'akil ts'anal
       class: n
       field: Everyday speech
       gloss: ache
@@ -1930,19 +1942,19 @@ data:
       gloss: a thousand
       note: Two four-hundreds and ten twenties; 2 × 400 + 10 × 20.
       concept: thousand
-    - form: pe' ts'ek
+    - form: pe' ts'eqik
       class: num
       field: Everyday speech
       gloss: first in ordinal position
-      note: One in-position; ts'ek makes an ordinal from the complete preceding cardinal.
+      note: One in-position; ts'eqik makes an ordinal from the complete preceding cardinal.
       concept: first
-    - form: q'o ts'ek
+    - form: q'o ts'eqik
       class: num
       field: Everyday speech
       gloss: second
       note: Two in-position; an ordinal rather than a fraction or a moment of time.
       concept: second
-    - form: lishe ts'ek
+    - form: lishe ts'eqik
       class: num
       field: Everyday speech
       gloss: third
@@ -1966,11 +1978,11 @@ data:
       gloss: none; nothing
       note: Not any; a conventional bare quantity answer meaning none or nothing.
       concept: none
-    - form: olek' pe' ts'ek
+    - form: olek' pe' ts'eqik
       class: num
       field: Everyday speech
       gloss: productive expression of ordinal positions beyond third
-      note: Eleventh, literally ten one in-position. Place ts'ek after any complete cardinal, so ts'ob q'o ts'ek is twenty-second.
+      note: Eleventh, literally ten one in-position. Place ts'eqik after any complete cardinal, so ts'ob q'o ts'eqik is twenty-second.
       concept: ordinal-construction
     - form: mushe p'eshal
       class: num
@@ -2835,7 +2847,7 @@ data:
       gloss: nor
       note: An ordinary expression using the word order and phrase constructions in Everyday speech.
       concept: nor
-    - {form: k'ul, class: conj, field: Everyday speech, gloss: Because, concept: because}
+    - {form: k'ulik, class: conj, field: Everyday speech, gloss: Because, concept: because}
     - {form: k'ulash, class: conj, field: Everyday speech, gloss: therefore, concept: therefore}
     - {form: ch'esh, class: conj, field: Everyday speech, gloss: If, concept: if}
     - form: ts'esh
@@ -2873,7 +2885,7 @@ data:
       gloss: instead
       note: An ordinary expression using the word order and phrase constructions in Everyday speech.
       concept: instead
-    - form: ch'ul k'ul
+    - form: ch'ul k'ulik
       class: conj
       field: Everyday speech
       gloss: for; in order to; so that (purpose)
@@ -3563,6 +3575,12 @@ data:
     - {form: Waxaklahun, instead: Olek' Q'ishe, why: an Earth number}
     - {form: Bolonlahun, instead: Olek' Pek'ash, why: an Earth number}
     - {form: P'ek, instead: P'eshal, why: an Earth word}
+    - {form: p'uq, instead: p'uqul, why: "an Earth word, the storm day-sign"}
+    - {form: kul, instead: kulal, why: "an Earth word, a lord's seat"}
+    - {form: ts'ek, instead: ts'eqik, why: "an Earth word, the ordinal particle"}
+    - {form: ts'uk, instead: ts'ukul, why: "an Earth word, a bend or joint"}
+    - {form: p'akal, instead: p'akil, why: "an Earth word, pain"}
+    - {form: k'ul, instead: k'ulik, why: "an Earth word, because"}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -3673,7 +3691,7 @@ An adjective follows its noun: _ha'nal ch'akal_, a large river; _nalbal ishal_, 
 
 A manner word stands before the verb: _ni ts'anal k'ayulun_, “I watch attentively”; _ti sh'anik ch'umun_, “You speak quietly.” An adjective can serve as a manner word in this position without an ending. The dictionary gives each form one primary class; its gloss and usage note state any established descriptive sense or use as a request. Those uses keep the same spelling. Keep a recorded action group together after the object: _ni shil'ik ch'eshan p'itun_, “I buy a cup,” literally trade and take it; _ni shil'ik ch'eshan ch'iman_, “I sell a cup,” trade and give it. These groups share one subject and object. To change the actor, begin another complete clause.
 
-A recipient has _ch'ul_ before it: _ni ne' ch'ul ti ch'iman_, “I give water to you.” The object and recipient both precede the final verb. A feeling can be something a person has: _ni ch'imal ha'kan_, “I feel gratitude”; _ni p'akal p'ishul_, “I feel pain,” states the bodily sensation. _Ni ti p'akan_ means “I hurt you,” causing pain; _ni p'akul_ means “I hurt,” experiencing it. The cause and experience are separate verbs.
+A recipient has _ch'ul_ before it: _ni ne' ch'ul ti ch'iman_, “I give water to you.” The object and recipient both precede the final verb. A feeling can be something a person has: _ni ch'imal ha'kan_, “I feel gratitude”; _ni p'akil p'ishul_, “I feel pain,” states the bodily sensation. _Ni ti p'akan_ means “I hurt you,” causing pain; _ni p'akul_ means “I hurt,” experiencing it. The cause and experience are separate verbs.
 
 ### Reference, ownership and counting people
 
@@ -3719,7 +3737,7 @@ _Ts'ekel_ is truth, a claim's agreement with reality. _Ish'tsal_ is certainty, t
 
 ### Connections, permission and quoted speech
 
-_Ke_ joins people or clauses, _p'ekash_ offers alternatives and _shak_ introduces a contrast. _K'ul_ introduces a reason: _ni ka sh'ulum k'alish k'ul ne'chan ch'ekun_, “I am at home because rain happens.” A condition begins with _ch'esh_ and its consequence with _ts'esh_: _ch'esh ne'chan ch'ekun, ts'esh ni ka sh'ulum k'alish_, “If it rains, then I am at home.” _Ch'esh shu_ means unless, if not; _shaq'ash_ introduces the other case. _Ch'ul k'ul_ gives a purpose: _ni ch'ul ha'nal ts'akun ch'ul k'ul ni ne' ts'ik'an_, “I go to the river in order to drink water.” Repeat the subject in a full linked clause, especially when participants change.
+_Ke_ joins people or clauses, _p'ekash_ offers alternatives and _shak_ introduces a contrast. _K'ulik_ introduces a reason: _ni ka sh'ulum k'alish k'ulik ne'chan ch'ekun_, “I am at home because rain happens.” A condition begins with _ch'esh_ and its consequence with _ts'esh_: _ch'esh ne'chan ch'ekun, ts'esh ni ka sh'ulum k'alish_, “If it rains, then I am at home.” _Ch'esh shu_ means unless, if not; _shaq'ash_ introduces the other case. _Ch'ul k'ul_ gives a purpose: _ni ch'ul ha'nal ts'akun ch'ul k'ulik ni ne' ts'ik'an_, “I go to the river in order to drink water.” Repeat the subject in a full linked clause, especially when participants change.
 
 A modal stands before its verb, after the object or place phrase: _ni ne' kul'ik ts'ik'an_, “I can drink water,” states ability; _ni ts'omi ts'akun_, “I may go,” states permission; _ni mah'ik ts'akun_, “I must go,” states obligation; _ni shu'ik ts'akun_, “I must not go,” states prohibition. _Ni shu kul'ik ts'akun_ says I cannot go; _ni shu mah'ik ts'akun_ says I am not required to go. _Ni ish'umik ch'ekik ts'akun_ says “I might go,” an event's possibility, not permission. _Nal'esh ch'ikan_ before a following action recommends it as something one should do: _ni nal'esh ch'ikan ts'anun_, “I should wait.” These are a few ordinary particles and recorded groups, not a person or mood paradigm.
 
@@ -4092,7 +4110,7 @@ Shok’al
 K’ayik
 : Flame
 
-Kul
+Kulal
 : Seat (of a lord, and so of the city he rules from)
 
 ### Adjectives
@@ -4435,7 +4453,7 @@ The concept of zero, critical in Ki'ich'chik mathematics, is expressed as **Ts�
     - **Meaning**: "Golden Lord," a noble of a city's court
 
 12. **Subordinate Lord**:
-    - **Ki'i'chek**: _Kulmah_ (_kul_ = seat, _mah_ = lord)
+    - **Ki'i'chek**: _Kulmah_ (_kul-_ = seat, _mah_ = lord)
     - **Meaning**: "Lord of a Seat," who holds a lesser center for the Ts’enmah
 
 13. **Sun-Priest**:

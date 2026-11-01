@@ -22,7 +22,7 @@ The wind has uncovered [[place-mezhvadez|Mezhvadez]], the Dry Stair. Mezhvadez i
 
 - **The thief.** A tagemader of the [[affiliation-kngdmmrdd|Kingdom of Amradad]], a polished man named [Ghezrun]{.name data-type="being/npc"}, pays well for the king's signet and says he does not care how it is taken.
 - **The mercenary or soldier.** A merchant's caravan is short a guard. The caravan-master wants an escort to the dune that covers the stair, and his two foreign clients carry a map.
-- **The leader.** A bahar of [[affiliation-wrrscrcldnhrtrbs|the Warrior's Circle]] hears that something has been walking from the Dry Stair toward the southern pastures. The Circle gathers against an enemy none of the tribes could face alone, and the leader must see whether this is one.
+- **The leader.** A bahvar of [[affiliation-wrrscrcldnhrtrbs|the Warrior's Circle]] hears that something has been walking from the Dry Stair toward the southern pastures. The Circle gathers against an enemy none of the tribes could face alone, and the leader must see whether this is one.
 - **The wanderer.** A desert mystic returning from a vigil speaks of a voice beneath the sand, calling in the speech of her mother. He asks the party to make it stop.
 
 ## Scene One: The Sealed Gate

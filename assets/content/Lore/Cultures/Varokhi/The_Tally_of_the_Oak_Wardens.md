@@ -206,7 +206,7 @@ Now the ones who are the wood.
 
 [Balthrith]{.name data-type="being/npc" lang=varo}. [Hildwin]{.name data-type="being/npc" lang=varo}./
 [Domrik]{.name data-type="being/npc" lang=varo}. [Dómrika]{.name data-type="being/npc" lang=varo}./
-[Wíthar]{.name data-type="being/npc" lang=varo}. [Vithilda]{.name data-type="being/npc" lang=varo}./
+[Wíthgar]{.name data-type="being/npc" lang=varo}. [Vithilda]{.name data-type="being/npc" lang=varo}./
 [Waldrún]{.name data-type="being/npc" lang=varo}. [Skathrún]{.name data-type="being/npc" lang=varo}./
 [Thrawald]{.name data-type="being/npc" lang=varo}. [Thrarún]{.name data-type="being/npc" lang=varo}. [Wulfstein]{.name data-type="being/npc" lang=varo}. [Thragrim]{.name data-type="being/npc" lang=varo}.
 
@@ -422,7 +422,7 @@ Nuwa mawen er woldra.
 
 Balthrith. Hildwin./
 Domrik. Dómrika./
-Wíthar. Vithilda./
+Wíthgar. Vithilda./
 Waldrún. Skathrún./
 Thrawald. Thrarún. Wulfstein. Thragrim.
 

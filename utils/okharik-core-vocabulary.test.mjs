@@ -47,6 +47,16 @@ import {
     BEING_LOOK_VOCABULARY,
 } from "@heroiclands/package-build/engine/note-vocabulary";
 import { SOURCES } from "./earth-words.mjs";
+/** Women's names respelled away from Earth words, each current spelling and the one it replaced. */
+const respelled = [
+    ["Sashira", "Sashi"],
+    ["Sunari", "Suna"],
+];
+const beforeRespelling = (text) =>
+    respelled.reduce(
+        (out, [now, was]) => out.replace(new RegExp(`(?<!\\p{L})${now}(?!\\p{L})`, "gu"), was),
+        text,
+    );
 const hash = (o) =>
     createHash("sha256")
         .update(typeof o === "string" ? o : JSON.stringify(o))
@@ -150,7 +160,9 @@ test("Okharik preserves original words, meanings, names, metadata and prose", ()
     for (let i = 0; i < 85; i++)
         for (const id of originalIds[i])
             assert([words[i].concept ?? []].flat().includes(id), words[i].form);
-    const { words: _words, fields, roman: _roman, ...data } = note.fm.data;
+    const { words: _words, fields, roman: _roman, ...authored } = note.fm.data;
+    const data = JSON.parse(beforeRespelling(JSON.stringify(authored)));
+    data.retired = data.retired.filter((row) => !respelled.some(([, was]) => row.form === was));
     assert.equal(
         hash({ ...note.fm, data }),
         "cd7f6820e3718f28aea376e6d9de21c7afe012794a6c91b8818c2853c33a89ed",
@@ -168,8 +180,8 @@ test("Okharik preserves original words, meanings, names, metadata and prose", ()
     assert.equal(splitFrontmatter(note.raw).body.split(romanNote).length, 2);
     assert.equal(
         hash(
-            splitFrontmatter(note.raw)
-                .body.replace(romanNote + "\n\n", "")
+            beforeRespelling(splitFrontmatter(note.raw).body)
+                .replace(romanNote + "\n\n", "")
                 .replace(/\n## Everyday speech\n[\s\S]*$/u, ""),
         ),
         "321bca994318f80824b6550b6fd03f501cab882398d69feb506da3895a7fcea0",

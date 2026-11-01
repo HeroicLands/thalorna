@@ -3082,7 +3082,7 @@ data:
       class: part
       field: Numbers and grammar words
       gloss: whether; opens a yes or no question
-      source: {kind: borrowed, language: skill-aelendlng, form: khe}
+      source: {kind: borrowed, language: skill-aelendlng, form: khena}
       concept: [question-polar, whether]
     - form: gose
       class: conj

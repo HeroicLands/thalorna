@@ -4531,9 +4531,9 @@ data:
         - "Ruta"
         - "Sáfila"
         - "Sárela"
-        - "Sashi"
+        - "Sashira"
         - "Séngola"
-        - "Suna"
+        - "Sunari"
         - "Tameka"
         - "Táreli"
         - "Tásara"
@@ -4959,6 +4959,8 @@ data:
     - {form: Tárabu, instead: Tárombu, why: "an Earth word, in the name lists"}
     - {form: Yûmba, instead: Yumbaro, why: "an Earth word, in the name lists"}
     - {form: Omára, instead: Pembura, why: "an Earth personal name, in the name lists"}
+    - {form: Sashi, instead: Sashira, why: "an Earth name, a woman's name"}
+    - {form: Suna, instead: Sunari, why: "an Earth word, a woman's name"}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -5388,10 +5390,10 @@ Among the nobility and priesthood, extensive titulature is employed. These title
 - Sandi
 - Sárela
 - Saru
-- Sashi
+- Sashira
 - Séngola
 - Shewa
-- Suna
+- Sunari
 - Támbori
 - Tameka
 - Táreli

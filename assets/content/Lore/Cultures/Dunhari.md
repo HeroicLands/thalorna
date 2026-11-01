@@ -29,8 +29,8 @@ data:
     - name: "Voice of the Quarter"
       definition: "The member of the Warrior's Circle drawn by lot to call a meeting to order and announce its rulings"
       common: true
-    - name: "bahar"
-      definition: "A member of the Warrior's Circle, named by acclamation; plural baharan"
+    - name: "bahvar"
+      definition: "A member of the Warrior's Circle, named by acclamation; plural bahvaran"
     - name: "voice-bearer"
       definition: "Storm-cult orator who carries the repertoire of myth, hymn and ritual formula; sehvogar"
   appearanceProfile:
@@ -80,7 +80,7 @@ Her admiration is not a lesser form of the chieftain's. Torvash keeps a tribe wh
 
 The Dunhari can point to a handful of things that hold their law in place. The [Laws of the Well]{.name data-type="lore/law"} are the oldest: the duties of hospitality at oases and springs, kept even by blood enemies, so that two tribes at feud water their herds in turn and draw no blade within sight of the water. **The code of salt** is the second, a guarantee a stranger carries on his own tongue. **The recitation** is the third, the poets' standing archive of genealogy, precedent and treaty, which a tribe produces whenever a claim is made.
 
-Two standards belong to the whole confederation. The **vast-bahar**, the strip of indigo leather an acclaimed warrior wears on the upper left arm, is renewed only in the vat at the [[place-stoneofranaz|Stone of Ranaz]] and fades if the wearer stays away for three meetings, so the mark has to be earned again by showing up. The **marked stones** that choose the Voice of the Quarter at each gathering are kept between meetings by the storm cults, and a Circle meeting cannot lawfully open without them. The [Old Promise]{.name data-type="lore/custom"} and the [Quiet After]{.name data-type="lore/custom"}, the Circle's two principles, are the nearest thing the Dunhari have to a charter: no Dunhari blade is raised against another while any outside enemy walks Dunhari land, and when the threat ends, the Circle's war ends with it. A recognized vessel of the storm god wears an iron torc at the throat, given by the assembled elders.
+Two standards belong to the whole confederation. The **vazder-bahvar**, the strip of indigo leather an acclaimed warrior wears on the upper left arm, is renewed only in the vat at the [[place-stoneofranaz|Stone of Ranaz]] and fades if the wearer stays away for three meetings, so the mark has to be earned again by showing up. The **marked stones** that choose the Voice of the Quarter at each gathering are kept between meetings by the storm cults, and a Circle meeting cannot lawfully open without them. The [Old Promise]{.name data-type="lore/custom"} and the [Quiet After]{.name data-type="lore/custom"}, the Circle's two principles, are the nearest thing the Dunhari have to a charter: no Dunhari blade is raised against another while any outside enemy walks Dunhari land, and when the threat ends, the Circle's war ends with it. A recognized vessel of the storm god wears an iron torc at the throat, given by the assembled elders.
 
 ## The Feud and the Ending of It
 
@@ -148,7 +148,7 @@ In a bad year the first resort is the Water-Warden's order, which keeps a well f
 
 ## Those Who Cannot Work
 
-A man who cannot ride a raid keeps his place in the tent, his scars and his share. The scar itself is honored, and the vast-bahar is called the scar of the mighty. The injured and the old are bathed at the springs at the Summer Vigil, and the household feeds them from the herd.
+A man who cannot ride a raid keeps his place in the tent, his scars and his share. The scar itself is honored, and the vazder-bahvar is called the scar of the mighty. The injured and the old are bathed at the springs at the Summer Vigil, and the household feeds them from the herd.
 
 The old are not set aside. An elder settles by memory what the young dispute, and an aged shaman who spends his evenings alone at the sacred stones is still the chieftain's first adviser on disputes that resist ordinary judgment. A person who cannot travel with the camp is left with a kinsman at an oasis on the circuit and visited when the camp returns.
 

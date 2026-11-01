@@ -48,7 +48,7 @@ The vault moves with the dunes, and there is no road. A guide who has seen the D
 
 - **The seal.** A tagemader of Amradad pays a thief to bring out the king's signet.
 - **The guide.** A caravan guard is paid to take two foreigners to a dune whose location was sold to them by a man who died of thirst.
-- **The Circle.** A bahar is told that something has been walking from the Dry Stair toward the southern pastures.
+- **The Circle.** A bahvar is told that something has been walking from the Dry Stair toward the southern pastures.
 
 [[scenario-kprdrystr|A Stair of Veiled Women]] gives these as a five-scene adventure.
 

@@ -277,7 +277,7 @@ data:
       "gloss": "knowledge"
       "concept": "knowledge"
     - {form: zorvun, class: v, field: Sayings, gloss: "inspires"}
-    - form: "vast-bahar"
+    - form: "vazder-bahvar"
       class: "n"
       field: "The Warrior's Circle"
       gloss: '"Scar of the mighty": the indigo leather strip a member of the Warrior''s Circle wears on the upper left arm'
@@ -5912,7 +5912,7 @@ data:
         - "farvan"
         - "nushiran"
         - "khozura"
-        - "zarman"
+        - "zarvina"
         - "parivin"
         - "biban"
         - "khavari"
@@ -6111,7 +6111,7 @@ data:
     - {name: The Followers of the Thundering Voice, tongue: translation}
     - {name: The Silent Jackal, tongue: translation}
     - {name: The Storm Cults, tongue: translation}
-    - {name: tigh'baharan, tongue: dunhari}
+    - {name: tigh'bahvaran, tongue: dunhari}
     - {name: The Storm Cults of Báhramis, tongue: translation}
     - {name: torvash, tongue: dunhari}
     - {name: Truce-Warden, tongue: translation}
@@ -6214,8 +6214,8 @@ data:
     - {name: tahruz girani, tongue: dunhari}
     - {name: Captain Tahruz the Venerable, tongue: translation}
     - {name: Captain Tahruz, tongue: translation}
-    - {name: bahar, tongue: dunhari}
-    - {name: vast, tongue: dunhari}
+    - {name: bahvar, tongue: dunhari}
+    - {name: vazder, tongue: dunhari}
   retired:
     - {form: Qadi, instead: Vazhmader, why: "an Earth word, the judge of a city"}
     - {form: qadi, instead: vazhmader, why: "an Earth word, the judge of a city"}
@@ -6389,6 +6389,9 @@ data:
     - {form: Shuvôr, instead: Shuvar, why: a name closing on a man's ending of Atárzadi}
     - {form: Nemvôr, instead: Nemver, why: a name closing on a man's ending of Atárzadi}
     - {form: Atenheru, instead: Atazkharu, why: respelled to keep the rules of Sovidur}
+    - {form: zarman, instead: zarvina, why: "an Earth word, a woman's name"}
+    - {form: bahar, instead: bahvar, why: "an Earth word, a member of the Warrior's Circle"}
+    - {form: vast-bahar, instead: vazder-bahvar, why: "built on Earth words, the Circle's armband"}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -6402,7 +6405,7 @@ sohl:
 
 Dunhari is a tongue of the Desert family. Fluency measures the sophistication of expression in Dunhari, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
-The roman repertoire keeps the straight catch apostrophe in the registered name Tigh'Baharan.
+The roman repertoire keeps the straight catch apostrophe in the registered name Tigh'Bahvaran.
 
 ## Overview
 
@@ -6842,7 +6845,7 @@ Razashar, Vahdarun, Tirsad, Korushan, Mehrun, Khordesh, Yazharan, Pashman, Barmo
 
 ### Female Given Names
 
-Fazhina, Rosharan, Azadam, Shavineh, Dehna, Mazinan, Mizhara, Tavura, Sharanaz, Sameza, Azarin, Delanash, Golran, Yesera, Zaranah, Ashfan, Kharanah, Dervun, Layah, Nahedan, Sormina, Mahrush, Shiran, Deyena, Farvan, Nushiran, Khozura, Zarman, Parivin, Biban, Khavari, Shirnah, Forreh, Rushanah, Parnava, Givanu, Sarnish, Milasah, Razanash, Zaraneh, Marvinah, Gulranah, Tevuran, Mahsara, Arinah, Nazira, Khorsash, Tashneh, Rudavah, Bazharam, Girandan, Parvanan, Dunash, Afzandah, Shafin, Yesre, Aradun, Shosra, Golbara, Kaminah, Nirah, Paryan, Tizhva, Tuvan, Salmara, Girnah, Tizhas, Nomena, Parvarin, Sharminah, Sarmanaz, Mazanash, Zaribah, Shazin, Azanin, Borvah, Darzash, Lemeza, Durnash, Komena, Asharan, Divaran, Kavakht, Shakivah, Turanah, Banush, Menuna, Zalaran, Kamrin, Rozina, Farara, Gidana, Narzhi, Tarasha, Mardanah, Eshro, Shavri, Divanah, Shandara, Nevuna
+Fazhina, Rosharan, Azadam, Shavineh, Dehna, Mazinan, Mizhara, Tavura, Sharanaz, Sameza, Azarin, Delanash, Golran, Yesera, Zaranah, Ashfan, Kharanah, Dervun, Layah, Nahedan, Sormina, Mahrush, Shiran, Deyena, Farvan, Nushiran, Khozura, Zarvina, Parivin, Biban, Khavari, Shirnah, Forreh, Rushanah, Parnava, Givanu, Sarnish, Milasah, Razanash, Zaraneh, Marvinah, Gulranah, Tevuran, Mahsara, Arinah, Nazira, Khorsash, Tashneh, Rudavah, Bazharam, Girandan, Parvanan, Dunash, Afzandah, Shafin, Yesre, Aradun, Shosra, Golbara, Kaminah, Nirah, Paryan, Tizhva, Tuvan, Salmara, Girnah, Tizhas, Nomena, Parvarin, Sharminah, Sarmanaz, Mazanash, Zaribah, Shazin, Azanin, Borvah, Darzash, Lemeza, Durnash, Komena, Asharan, Divaran, Kavakht, Shakivah, Turanah, Banush, Menuna, Zalaran, Kamrin, Rozina, Farara, Gidana, Narzhi, Tarasha, Mardanah, Eshro, Shavri, Divanah, Shandara, Nevuna
 
 ### Clan and Tribal Names
 

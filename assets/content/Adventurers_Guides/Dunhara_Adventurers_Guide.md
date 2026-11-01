@@ -26,7 +26,7 @@ The tribes keep the [[affiliation-ashanpnthn|Ashaian faith]] of fire and light, 
 
 ## Places and Dangers
 
-- The [[place-stoneofranaz|Stone of Ranaz]] is the hill-shrine where three tribal territories meet. [[affiliation-wrrscrcldnhrtrbs|The Warrior's Circle]] gathers there at each of the four season-turns to renew the indigo vast-bahar in the vat kept at the shrine, and the elders of the storm cults sit there at the season-turns to recognize a vessel of the god, one in whom he is held to speak. Uninvited foreigners are received with courtesy and sent away with nothing.
+- The [[place-stoneofranaz|Stone of Ranaz]] is the hill-shrine where three tribal territories meet. [[affiliation-wrrscrcldnhrtrbs|The Warrior's Circle]] gathers there at each of the four season-turns to renew the indigo vazder-bahvar in the vat kept at the shrine, and the elders of the storm cults sit there at the season-turns to recognize a vessel of the god, one in whom he is held to speak. Uninvited foreigners are received with courtesy and sent away with nothing.
 - [[place-ghavulavad|Ghavulavad]], the oasis seat of the tribes, is where a caravan hires its guide.
 - The open sand kills fast. Summer heat is lethal within hours, winter nights freeze, and a windstorm can bury a camp in minutes.
 - [[place-khuqetmiglet|Khuqet-Miglet]], in the southwest, is a desert-march the [[affiliation-empireakhlth|empire of Au'Khelathu]] garrisons and the western clans contest, with toll and well-disputes on both sides.

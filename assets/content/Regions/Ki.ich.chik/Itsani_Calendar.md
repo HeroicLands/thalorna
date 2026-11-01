@@ -42,7 +42,7 @@ data:
     - {name: Pik'il}
     - {name: Kulim}
     - {name: Qatik}
-    - {name: P'uq}
+    - {name: P'uqul}
     - {name: K'otsal}
     - {name: Lanik}
     - {name: Ish'il}
@@ -112,7 +112,7 @@ The _tq'an_ count runs 260 days. Twenty day-signs turn against the numbers one t
 | Ch'umik | wind      | Pik'il  | owl     |
 | Umaq    | night     | Kulim   | stone   |
 | Shikel  | seed      | Qatik   | blade   |
-| Akun    | serpent   | P'uq    | storm   |
+| Akun    | serpent   | P'uqul  | storm   |
 | Ts'uqik | death     | K'otsal | cord    |
 | Amuk    | crocodile | Lanik   | road    |
 | K'ush   | maize     | Ish'il  | star    |

@@ -31,7 +31,7 @@ At [[place-vzhmvd|Vazhmavad]] the poets of a third tribe once judged between riv
 
 **Situation.** The party travels the southern circuit with a caravan or alone. At a dry wadi in the afternoon the raiders strike from a dune's crest.
 
-**NPCs and threats.** The **Unrecited** are twenty riders in plain brown, with no tribal marks, no clan beads and no vast-bahar on any arm. They ride in silence, and the leader, [Doshav]{.name data-type="being/npc"}, a tall, scarred woman whose voice has no accent at all, calls out a challenge in verse but cannot finish it. They ask each captive one question: _Who are you?_ A prisoner who answers loses the answer.
+**NPCs and threats.** The **Unrecited** are twenty riders in plain brown, with no tribal marks, no clan beads and no vazder-bahvar on any arm. They ride in silence, and the leader, [Doshav]{.name data-type="being/npc"}, a tall, scarred woman whose voice has no accent at all, calls out a challenge in verse but cannot finish it. They ask each captive one question: _Who are you?_ A prisoner who answers loses the answer.
 
 **Player choices.**
 

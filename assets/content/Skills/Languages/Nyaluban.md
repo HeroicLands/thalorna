@@ -6218,7 +6218,7 @@ data:
         - "néntoli"
         - "nija"
         - "níseta"
-        - "njuma"
+        - "njúlewa"
         - "núremi"
         - "panja"
         - "píkesa"
@@ -6587,6 +6587,7 @@ data:
       why: "an Earth word, the stone enclosures of the lost builders"
     - {form: Kraal, instead: Heto, why: "an Earth word, a stone enclosure"}
     - {form: kraal, instead: cattle-fold, why: "an Earth word, a homestead's cattle enclosure"}
+    - {form: njuma, instead: njúlewa, why: "an Earth word, a name meaning blessed"}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -7125,7 +7126,7 @@ _Note: These examples are creations derived from phonetic patterns observed in N
 - Néntoli (graceful)
 - Nija (noble)
 - Níseta (brilliant)
-- Njuma (blessed)
+- Njúlewa (blessed)
 - Núremi (light)
 - Panja (steadfast)
 - Píkesa (excellent)
