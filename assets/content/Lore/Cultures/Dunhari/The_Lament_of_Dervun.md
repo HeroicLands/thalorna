@@ -9,7 +9,7 @@ data:
   culture: dunhariclt
   packFolder: settinglore
   form: qorvend
-  subjects: [lore-dunhariclt, lore-azravandty, affiliation-strmcltsbhrms]
+  subjects: [lore-dunhariclt, lore-azravandty, affiliation-strmcltsbzhrms]
   lang: dunh
 
 # terran_analog: "The elegies of al-Khansa for her brothers Sakhr and Mu'awiya, held on one rhyme, with the dead brother's generosity, his fire seen from far off and the sister's refusal to stop weeping; the women's lament with refrain and response of the Sahel and the Bedouin camps. Departs: the brother's blood has been paid and the sister keeps the settlement, so the lament asks for no vengeance and counts the camels instead."
@@ -153,5 +153,5 @@ He does not come in.
 [[lore-azravandty|Azravan]]
 : Lord of the Final Horizon, who receives the dead at the edge of the world
 
-[[affiliation-strmcltsbhrms|Storm Cults of Bahramish]]
+[[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámiš]]
 : who conduct the funerals and the rites of the camps

@@ -12,7 +12,7 @@ data:
   lore: []
   culture: dunhariclt
   homes: [ghavulavad]
-  affiliations: {dunhartrbs: {rank: 5}, bahramis: {rank: 4}}
+  affiliations: {dunhartrbs: {rank: 5}, bazhramis: {rank: 4}}
   gender: male
   species: humanflk
   born: 658.194
@@ -426,7 +426,7 @@ Firavad stands 5'6" tall with a medium build. He has tanned weathered skin, whit
 
 **Early Life and Calling**
 
-Born beneath a thunderstorm—a sign the [[place-dunharargn|Dunhara elders]] recognized as the touch of [[lore-bahramisdty|Báhramis]] himself—Firavad was designated at birth as a shaman-child. His youth passed in service to the elder shamans, learning the secret languages of herbs and storms, the names of spirits older than mountains. At thirty-two summers, during a vision-trance lasting three days and nights, he received the full mantle of shamanic power, his spirit bonded forever to the tempests that sweep across the tribal lands.
+Born beneath a thunderstorm—a sign the [[place-dunharargn|Dunhara elders]] recognized as the touch of [[lore-bazhramisdty|Bazhrámiš]] himself—Firavad was designated at birth as a shaman-child. His youth passed in service to the elder shamans, learning the secret languages of herbs and storms, the names of spirits older than mountains. At thirty-two summers, during a vision-trance lasting three days and nights, he received the full mantle of shamanic power, his spirit bonded forever to the tempests that sweep across the tribal lands.
 
 **Training and Mastery**
 
@@ -503,7 +503,7 @@ The Silent Conspiracy
 : Firavad is High Shaman and holds a permanent seat on the [Council of Elders]{.name data-type="affiliation/governmental"}.
 
 [The Order of Storm-Speakers]{.name data-type="affiliation/order"}
-: An ancient, informal order of shamans devoted to [[affiliation-bahramis|Báhramis]], scattered across the northern lands. Firavad maintains correspondence with a handful of distant brothers and sisters through mystical communion.
+: An ancient, informal order of shamans devoted to [[affiliation-bazhramis|Bazhrámiš]], scattered across the northern lands. Firavad maintains correspondence with a handful of distant brothers and sisters through mystical communion.
 
 ## Plot Hooks
 

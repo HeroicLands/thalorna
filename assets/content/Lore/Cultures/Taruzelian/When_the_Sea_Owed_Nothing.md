@@ -13,7 +13,7 @@ data:
     - place-besikar2
     - affiliation-besikar
     - lore-brazemasdty
-    - lore-bahramisdty
+    - lore-bazhramisdty
     - lore-pozerasdty
     - lore-selmorosdty
     - affiliation-vezakuni
@@ -26,7 +26,7 @@ data:
 
 **When the Sea Owed Nothing**, _mani zu fusanam_, is the roll the First of the Council of [[place-besikar2|Besikar]] reads aloud from the head of the breakwater at [the Harbor Due]{.name data-type="lore/gathering"} (_besiku yutalush_, the harbor's payment). The rite falls on the first fair morning after the [Thunderhead Vigil]{.name data-type="lore/gathering"}, when the sailing season opens, and the whole [Guild Quarter]{.name data-type="place/site"} turns out for it. The roll tells how the sea came first and owed nothing, how the people lived on their hulls because no shore would keep them, and how a woman of the hulls, [Tanaduya]{.name data-type="being/npc" lang=taru}, asked three gods for a harbor and was refused by all three. She then took on a debt to the sea that the sea never agreed to, and set the first stones of the breakwater. The roll closes on the rite: each house of the city carries a stone down to the breakwater, and the First splits a tally stick, gives one half to the strongroom of the [Merazuni]{.name data-type="affiliation/governmental"} and throws the other into the harbor mouth.
 
-The roll is a work of the [Recovered Compacts]{.name data-type="lore"} of the [[affiliation-vezakuni|Vezakuni]], the Council of the Guild-Wardens. Its copyist, [Helarum Kubasuni]{.name data-type="being/npc" lang=taru}, set it out in the Confederation's second year from an older roll kept in the [Temple of Two Fires]{.name data-type="place/structure"} at [[place-qudumel2|Kudumel]], and Besikar has held the Harbor Due every spring since. His note at the foot of the roll says what he changed. The Kudumel roll names the storm [[lore-bahramisdty|Báhramis]], as the Ashaian rite does, and the copyist wrote [[lore-brazemasdty|Brazemas]], as the coast says it; the temple at Kudumel still reads its own roll with its own name. Where the Kudumel roll is broken, in the catalogue of the crews who carried the stones, he filled what he could from the Vezakuni's register of the oldest houses, and his own house is among them. The [[affiliation-tevran|Tevran Maldor]], the Vylarian college of guilds, calls the Harbor Due an invention of the program, and the temple has not shown its roll to the Tevran's scholars.
+The roll is a work of the [Recovered Compacts]{.name data-type="lore"} of the [[affiliation-vezakuni|Vezakuni]], the Council of the Guild-Wardens. Its copyist, [Helarum Kubasuni]{.name data-type="being/npc" lang=taru}, set it out in the Confederation's second year from an older roll kept in the [Temple of Two Fires]{.name data-type="place/structure"} at [[place-qudumel2|Kudumel]], and Besikar has held the Harbor Due every spring since. His note at the foot of the roll says what he changed. The Kudumel roll names the storm [[lore-bazhramisdty|Bazhrámiš]], as the Ashaian rite does, and the copyist wrote [[lore-brazemasdty|Brazemas]], as the coast says it; the temple at Kudumel still reads its own roll with its own name. Where the Kudumel roll is broken, in the catalogue of the crews who carried the stones, he filled what he could from the Vezakuni's register of the oldest houses, and his own house is among them. The [[affiliation-tevran|Tevran Maldor]], the Vylarian college of guilds, calls the Harbor Due an invention of the program, and the temple has not shown its roll to the Tevran's scholars.
 
 The hill tribes of the larger islands tell the story too, at their fires, and in their telling Tanaduya is a hill woman who came down to the shore with a goat-hair rope. The roll does not mention the hills. At Besikar the First reads the long lines, and the houses on the stones answer the two lines everyone knows: _It gave, and it took back_, and at the close, _We set, and we set again._ The gods stand in the roll as the coast addresses them: Brazemas the Thunderer on his hill, [[lore-pozerasdty|Pozeras]] the Wayfarer on the road over the water, and [[lore-selmorosdty|Sélmoros]], the Silent Judge, at his gate.
 
@@ -107,7 +107,7 @@ and the vow will bind you, and your children, and the hull you stand on./
 I will not sell you a harbor. I have no harbor to sell./
 Go to the one who owns the sea.
 
-[The Kudumel roll reads Báhramis here, and in the line that follows.]{.direction}
+[The Kudumel roll reads Bazhrámiš here, and in the line that follows.]{.direction}
 
 She went down from the hill with the bowl empty./
 She did not buy the quiet month. A month was not what she had come for.
@@ -287,7 +287,7 @@ Here ends _When the Sea Owed Nothing_, one roll, complete./
 Copied by Helarum Kubasuni, copyist of the Recovered Compacts,/
 from the roll of the Temple of Two Fires at Kudumel, which is old,/
 in the second year of the Confederation, in the month of the first sailing./
-Where the old roll says Báhramis, I have written Brazemas, as the coast says it./
+Where the old roll says Bazhrámiš, I have written Brazemas, as the coast says it./
 Where the old roll is broken, I have left the break,/
 except in the crews, where I have written the houses the register gives as oldest, as far as the register goes./
 The copy was paid for by the Kubasuni, and the gift is entered with the Vezakuni./
@@ -307,7 +307,7 @@ Whoever changes a line, let the sea bring back its half of the tally on the day 
 : the eastern city whose Temple of Two Fires keeps the older roll
 
 [[lore-brazemasdty|Brazemas]]
-: the storm on the hill, named Báhramis in the Kudumel roll
+: the storm on the hill, named Bazhrámiš in the Kudumel roll
 
 [[lore-selmorosdty|Sélmoros]]
 : the Silent Judge, who keeps the count of the taken and does not bargain

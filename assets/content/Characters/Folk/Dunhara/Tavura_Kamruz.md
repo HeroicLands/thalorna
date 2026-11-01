@@ -3,7 +3,7 @@ shortcode: tavurakamruz
 name: {full: Tavura Kamruz, en: [Shaman Tavura]}
 type: being
 subType: npc
-description: A shaman, mother of Shadezan Kamruz, who blessed him with rituals dedicated to Báhramis, the god of storms.
+description: A shaman, mother of Shadezan Kamruz, who blessed him with rituals dedicated to Bazhrámiš, the god of storms.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Tavura Kamruz is a 78-year-old woman who stands 6'0" tall with a medium build. S
 
 # Dossier {#dossier}
 
-Tavura Kamruz is a shaman and the mother of [[being-shadznkmrz|Shadezan Kamruz]]. She blessed her son with rituals dedicated to [[lore-bahramisdty|Báhramis]], the god of storms, asking the deity to give him strength and fury.
+Tavura Kamruz is a shaman and the mother of [[being-shadznkmrz|Shadezan Kamruz]]. She blessed her son with rituals dedicated to [[lore-bazhramisdty|Bazhrámiš]], the god of storms, asking the deity to give him strength and fury.

@@ -12,7 +12,7 @@ data:
   lore: []
   culture: dunhariclt
   homes: [qarvelakhend]
-  affiliations: {kngdmmrdd: {rank: 3}, bahramis: {rank: 1}}
+  affiliations: {kngdmmrdd: {rank: 3}, bazhramis: {rank: 1}}
   gender: male
   species: humanflk
   born: 685.304

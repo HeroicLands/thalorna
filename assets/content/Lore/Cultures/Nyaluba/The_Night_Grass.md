@@ -22,7 +22,7 @@ data:
 
 A [Sengala]{.name data-type="affiliation/lineage"} regiment is an age-set: a cohort that passes through initiation together, takes a regimental name and an age-set totem, and stays bound for life. Twice within living memory, slaving parties from [[affiliation-mtrrchybth|Bethua]] reached the Sengala margin, and both were destroyed by the regiments before they could withdraw ([[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]). **The Night Grass** is the memory-song of one of those two, held by the griot of the Sengala and named for the regiment that went: the [Night Grass]{.name data-type="affiliation"}, whose age-set totem is the nightjar, the bird that sits on bare ground in daylight and is not seen. It is sung at every Sengala initiation, to the cohort coming through, and the men of the Night Grass who are still living stand with the initiates and answer.
 
-The song keeps the Sengala manner. It praises the [[affiliation-nyalbleop|leopard]]'s way, the wait and the strike from cover, and sets it against the lion's open challenge without ruling between them. It gives the slavers no names and no faces, as the Sengala give them none. It names the regiment's captain, [Rábesi]{.name data-type="being/npc"}, the people taken, and the one of them who did not come home, and its last part is the reception: each of the taken asked the three questions a stranger is asked and answered back by everyone. In the text below, the indented lines in italics are the answer of the regiment and the initiates.
+The song keeps the Sengala manner. It praises the [[affiliation-nyalbleop|leopard]]'s way, the wait and the strike from cover, and sets it against the lion's open challenge without ruling between them. It gives the slavers no names and no faces, as the Sengala give them none. It names the regiment's captain, [Rabesi]{.name data-type="being/npc"}, the people taken, and the one of them who did not come home, and its last part is the reception: each of the taken asked the three questions a stranger is asked and answered back by everyone. In the text below, the indented lines in italics are the answer of the regiment and the initiates.
 
 : The Night Grass {#song}
 
@@ -104,8 +104,8 @@ and before the sun was down the Night Grass knew./
 ._Before the sun was down._
 
 Who called them?/
-._Rábesi called them._/
-Rábesi of the Night Grass, who had the cohort's scar/
+._Rabesi called them._/
+Rabesi of the Night Grass, who had the cohort's scar/
 and the cohort's word, and was the eldest of them by a season./
 He said: "The rope has seven./
 We are going to get them back."/
@@ -138,14 +138,14 @@ How long?/
 ._Three nights._
 
 The first night the young ones said: "Now."/
-Rábesi said: "Not now./
+Rabesi said: "Not now./
 Now the rope is tight, and the people of the rope are awake./
 If we go now, they will turn on the seven first./
 Lie still."/
 ._Lie still._
 
-The second night the young ones said: "Now. Now, Rábesi."/
-Rábesi said: "Not now./
+The second night the young ones said: "Now. Now, Rabesi."/
+Rabesi said: "Not now./
 Now they are watching, because the second night is when a hunter comes./
 Lie still. Be the ground."/
 ._Be the ground._
@@ -155,13 +155,13 @@ Who lay still?/
 The ants came, and they lay still./
 The dew came down on their backs, and they lay still./
 A man of the rope walked out from the fire to make water/
-and made it in the grass an arm's length from [Tóbesho]{.name data-type="being/npc"}'s head,/
-and Tóbesho lay still./
-._Tóbesho lay still._
+and made it in the grass an arm's length from [Tobesho]{.name data-type="being/npc"}'s head,/
+and Tobesho lay still./
+._Tobesho lay still._
 
 The third night the young ones said nothing./
 They had learned it./
-And Rábesi watched the pen, and watched the fire,/
+And Rabesi watched the pen, and watched the fire,/
 and saw the people of the rope stop watching,/
 because two nights had come and nothing had come with them./
 And he saw them loosen the rope from the seven's necks/
@@ -185,20 +185,20 @@ at the feet, and not at the neck./
 
 And who did not come home?/
 ._Say her._/
-[Píkesa]{.name data-type="being/npc"}, daughter of [Mbuka]{.name data-type="being/npc"}, the girl with the sore feet./
+[Pikesa]{.name data-type="being/npc"}, daughter of [Mbuka]{.name data-type="being/npc"}, the girl with the sore feet./
 She was on the rope three days with the others/
 and on the second night in the pen she lay down/
 and she did not get up./
 The rope does not wait for sore feet./
 ._It does not wait._/
 The Night Grass came on the third night./
-They were one night late for Píkesa./
+They were one night late for Pikesa./
 ._One night late._/
 The song says it. It does not hide it./
-Rábesi said it himself, at the Lubemo:/
+Rabesi said it himself, at the Lubemo:/
 "I waited, and the six are home./
-I waited, and Píkesa is not."/
-._The six are home, and Píkesa is not._
+I waited, and Pikesa is not."/
+._The six are home, and Pikesa is not._
 
 Who carried her?/
 ._The Night Grass carried her._/
@@ -222,42 +222,42 @@ is a stranger to the fire until the fire knows her again./
 
 He asked the first./
 "What is your name?"/
-"[Fádewa]{.name data-type="being/npc"}."/
+"[Fadewa]{.name data-type="being/npc"}."/
 "Who is your father?"/
-"[Kásimo]{.name data-type="being/npc"}."/
+"[Kasimo]{.name data-type="being/npc"}."/
 "Where did you sleep?"/
 "In the thorn pen, on the rope."/
 And the village said it back to her./
-._Fádewa, daughter of Kásimo, who slept in the thorn, on the rope._
+._Fadewa, daughter of Kasimo, who slept in the thorn, on the rope._
 
 He asked the second./
 "What is your name?"/
-"[Bákeni]{.name data-type="being/npc"}."/
+"[Bakeni]{.name data-type="being/npc"}."/
 "Who is your father?"/
 "[Jelo]{.name data-type="being/npc"}."/
 "Where did you sleep?"/
 "In the thorn pen, on the rope."/
-._Bákeni, son of Jelo, who slept in the thorn, on the rope._
+._Bakeni, son of Jelo, who slept in the thorn, on the rope._
 
 He asked the third./
-._[Habishe]{.name data-type="being/npc"}, daughter of [Lóbezo]{.name data-type="being/npc"}, who slept in the thorn, on the rope._/
+._[Habishe]{.name data-type="being/npc"}, daughter of [Lobezo]{.name data-type="being/npc"}, who slept in the thorn, on the rope._/
 He asked the fourth./
-._[Sálumo]{.name data-type="being/npc"}, son of [Zákesho]{.name data-type="being/npc"}, who slept in the thorn, on the rope._/
+._[Salumo]{.name data-type="being/npc"}, son of [Zakesho]{.name data-type="being/npc"}, who slept in the thorn, on the rope._/
 He asked the fifth./
-._[Yámeto]{.name data-type="being/npc"}, son of [Kádewo]{.name data-type="being/npc"}, who slept in the thorn, on the rope._/
+._[Yameto]{.name data-type="being/npc"}, son of [Kadewo]{.name data-type="being/npc"}, who slept in the thorn, on the rope._/
 He asked the sixth./
-._[Wéndasi]{.name data-type="being/npc"}, daughter of [Panza]{.name data-type="being/npc"}, who slept in the thorn, on the rope._
+._[Wendasi]{.name data-type="being/npc"}, daughter of [Panza]{.name data-type="being/npc"}, who slept in the thorn, on the rope._
 
 Then the griot asked the one on the spears./
 ._He asked her._/
 "What is your name?"/
-And Mbuka her father answered for her: "Píkesa."/
+And Mbuka her father answered for her: "Pikesa."/
 "Who is your father?"/
 "I am."/
 "Where did she sleep?"/
 "In the thorn pen, on the rope. And she did not wake."/
 And the village said it back to her./
-._Píkesa, daughter of Mbuka, who slept in the thorn, on the rope, and did not wake._/
+._Pikesa, daughter of Mbuka, who slept in the thorn, on the rope, and did not wake._/
 So that the rope would not have the last of her./
 ._The rope does not have the last of her._
 
@@ -271,8 +271,8 @@ And the village said it back./
 Say it again, cohort with the new scars./
 ._Here._
 
-Rábesi is in the ground now, under the leopard's trees./
-Tóbesho is old, and stands with you at this fire./
+Rabesi is in the ground now, under the leopard's trees./
+Tobesho is old, and stands with you at this fire./
 ._He stands with us._/
 Old men of the Night Grass, who is standing?/
 ._We are standing._/

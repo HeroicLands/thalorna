@@ -34,7 +34,7 @@ The vault is a tomb, which marks it as foreign. The Dunhari carry their dead dee
 
 Whatever the king's people believed, their dead are held to the world by [[lore-theshadow|the Shadow]], the chaos outside creation from which every undead thing stems. The retainers sealed in the alcoves are **dust-sworn**, bodies dried by the vault's air and kept moving by something that is not breath. They guard. They do not hunt. The keeper at the center of the vault is something more, because she was set there to keep a door, and the door is not a door into the earth.
 
-The [[affiliation-ashanpnthn|Ashaian priests]] of the cities say that the dead of Mezhvadez have taken the [Druj]{.name data-type="lore/cosmology"} in their mouths and that the bridge is a razor for them. The tribes say nothing and avoid the place.
+The [[affiliation-ashanpnthn|Ashaian priests]] of the cities say that the dead of Mezhvadez have taken the [Ghuzdak]{.name data-type="lore/cosmology"} in their mouths and that the bridge is a razor for them. The tribes say nothing and avoid the place.
 
 ## Who Wants It
 

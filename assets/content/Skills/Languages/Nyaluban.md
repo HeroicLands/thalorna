@@ -6182,154 +6182,154 @@ data:
         - "aíbesa"
         - "akisa"
         - "amífeli"
-        - "ándiya"
+        - "andiya"
         - "azímela"
-        - "bálesha"
-        - "bénduya"
-        - "búndeya"
+        - "balesha"
+        - "benduya"
+        - "bundeya"
         - "daliba"
-        - "díngoya"
+        - "dingoya"
         - "dombesa"
-        - "éduma"
-        - "fádewa"
-        - "féliwa"
+        - "eduma"
+        - "fadewa"
+        - "feliwa"
         - "gaja"
-        - "góndesi"
+        - "gondesi"
         - "habishe"
-        - "háyeba"
+        - "hayeba"
         - "jenda"
         - "juma"
         - "kaja"
-        - "káleshi"
-        - "kénzowa"
-        - "kíshela"
-        - "kóbesa"
-        - "lálija"
+        - "kaleshi"
+        - "kenzowa"
+        - "kishela"
+        - "kobesa"
+        - "lalija"
         - "lanja"
         - "lenza"
-        - "lólewa"
+        - "lolewa"
         - "malya"
-        - "méshola"
-        - "mídewa"
-        - "míndeli"
-        - "móndawe"
-        - "múndewa"
+        - "meshola"
+        - "midewa"
+        - "mindeli"
+        - "mondawe"
+        - "mundewa"
         - "ndaka"
-        - "néntoli"
+        - "nentoli"
         - "nija"
-        - "níseta"
-        - "njúlewa"
-        - "núremi"
+        - "niseta"
+        - "njulewa"
+        - "nuremi"
         - "panja"
-        - "píkesa"
+        - "pikesa"
         - "raja"
-        - "rálesi"
-        - "sálua"
-        - "sándeyo"
-        - "sáwemi"
-        - "séndowe"
-        - "sílowe"
-        - "súnemi"
-        - "táliba"
-        - "témoyi"
-        - "téndoli"
-        - "túndaye"
+        - "ralesi"
+        - "salua"
+        - "sandeyo"
+        - "sawemi"
+        - "sendowe"
+        - "silowe"
+        - "sunemi"
+        - "taliba"
+        - "temoyi"
+        - "tendoli"
+        - "tundaye"
         - "wanja"
-        - "wéndasi"
+        - "wendasi"
         - "yaja"
-        - "záyeli"
+        - "zayeli"
       male:
         - "amaleso"
-        - "bákeni"
-        - "bálesho"
-        - "dámbani"
-        - "fódemi"
+        - "bakeni"
+        - "balesho"
+        - "dambani"
+        - "fodemi"
         - "gaduno"
         - "gongwelo"
         - "jao"
         - "jelo"
-        - "kádewo"
-        - "kásimo"
+        - "kadewo"
+        - "kasimo"
         - "kisado"
-        - "lálumo"
-        - "lóbezo"
-        - "máshelo"
+        - "lalumo"
+        - "lobezo"
+        - "mashelo"
         - "mbuka"
         - "mondú"
-        - "ndáfiyo"
+        - "ndafiyo"
         - "njaka"
         - "panza"
-        - "rábesi"
-        - "sálumo"
+        - "rabesi"
+        - "salumo"
         - "sandé"
         - "sandó"
-        - "tálemo"
+        - "talemo"
         - "tamasé"
-        - "tímbelo"
-        - "tóbesho"
-        - "yámeto"
-        - "zákesho"
+        - "timbelo"
+        - "tobesho"
+        - "yameto"
+        - "zakesho"
     clan:
-      - "árambu"
-      - "bándala"
-      - "béndawe"
-      - "dándira"
-      - "dóbalanda"
-      - "édumba"
-      - "fámangali"
-      - "gúndala"
-      - "índawe"
-      - "jándaka"
-      - "kásiramba"
-      - "kéndalu"
-      - "kómaludi"
-      - "kúbola"
-      - "lándala"
-      - "lúsani"
-      - "málazuli"
-      - "mbándala"
-      - "mpanza"
-      - "múgandala"
-      - "ndálude"
-      - "ndánga-sólembe"
-      - "nkúndala"
-      - "nómaledi"
+      - "arambu"
+      - "bandala"
+      - "bendawe"
+      - "dandira"
+      - "dobalanda"
+      - "edumba"
+      - "famangali"
+      - "gundala"
+      - "indawe"
+      - "jandaka"
+      - "kasiramba"
+      - "kendalu"
+      - "komaludi"
+      - "kubola"
+      - "landala"
+      - "lusiro"
+      - "malazuli"
+      - "mbandala"
+      - "mpalude"
+      - "mugandala"
+      - "ndalude"
+      - "ndanga-sólembe"
+      - "nkundala"
+      - "nomaledi"
       - "ntalandi"
-      - "nyámelo"
-      - "óbandala"
-      - "ódawe"
-      - "ódumbala"
-      - "ófawe"
-      - "ólambala"
-      - "ómalesi"
-      - "ómaletu"
-      - "ópala"
-      - "órindi"
-      - "ótandala"
-      - "pálambe"
-      - "pándazuli"
-      - "péndala"
-      - "rábandala"
-      - "róbandala"
-      - "sábandala"
-      - "sándambala"
-      - "shándiro"
-      - "sónkelada"
-      - "tábandala"
-      - "tálamba"
-      - "tándizuli"
-      - "téndiro"
-      - "tómalinde"
-      - "túbandala"
+      - "nyamelo"
+      - "obandala"
+      - "odawe"
+      - "odumbala"
+      - "ofawe"
+      - "olambala"
+      - "omalesi"
+      - "omaletu"
+      - "opala"
+      - "orindi"
+      - "otandala"
+      - "palambe"
+      - "pandazuli"
+      - "pendala"
+      - "rabandala"
+      - "robandala"
+      - "sabandala"
+      - "sandambala"
+      - "shandiro"
+      - "sonkelada"
+      - "tabandala"
+      - "talamba"
+      - "tandizuli"
+      - "tendiro"
+      - "tomalinde"
+      - "tubandala"
       - "udandala"
-      - "úlambo"
-      - "úndala"
+      - "ulambo"
+      - "undala"
       - "utúndala"
-      - "wánduri"
-      - "yándala"
-      - "yómasunde"
-      - "zákedala"
-      - "zímbala"
+      - "wanduri"
+      - "yandala"
+      - "yomasunde"
+      - "zakedala"
+      - "zimbala"
   sounds:
     stress: {two: first, longer: first, mark: acute}
     edges:
@@ -6514,72 +6514,72 @@ data:
       instead: Nkulu enyi-ki
       why: "an Earth word, in the statement of respect"
     - {form: Djámbà sángo, instead: Jamba selemé, why: "an Earth word, in the oath formula"}
-    - {form: Ndánga-Sámbo, instead: Ndánga-Sólembe, why: "an Earth word, in the name lists"}
+    - {form: Ndánga-Sámbo, instead: Ndanga-Sólembe, why: "an Earth word, in the name lists"}
     - {form: Amadú, instead: Amaleso, why: "an Earth given name, in the name lists"}
-    - {form: Bákari, instead: Bákeni, why: "an Earth given name, in the name lists"}
-    - {form: Bálkiso, instead: Bálesho, why: "an Earth given name, in the name lists"}
-    - {form: Fódé, instead: Fódemi, why: "an Earth given name, in the name lists"}
+    - {form: Bákari, instead: Bakeni, why: "an Earth given name, in the name lists"}
+    - {form: Bálkiso, instead: Balesho, why: "an Earth given name, in the name lists"}
+    - {form: Fódé, instead: Fodemi, why: "an Earth given name, in the name lists"}
     - {form: Gòngo, instead: Gongwelo, why: "an Earth word, in the name lists"}
-    - {form: Jáme, instead: Yámeto, why: "an Earth word, in the name lists"}
-    - {form: Kádé, instead: Kádewo, why: "an Earth word, in the name lists"}
-    - {form: Lálú, instead: Lálumo, why: "an Earth word, in the name lists"}
-    - {form: Lóbó, instead: Lóbezo, why: "an Earth word, in the name lists"}
-    - {form: Máji, instead: Máshelo, why: "an Earth word, in the name lists"}
-    - {form: Ndági, instead: Ndáfiyo, why: "an Earth word, in the name lists"}
-    - {form: Rába, instead: Rábesi, why: "an Earth word, in the name lists"}
-    - {form: Tímba, instead: Tímbelo, why: "an Earth word, in the name lists"}
-    - {form: Tóbó, instead: Tóbesho, why: "an Earth word, in the name lists"}
-    - {form: Zákari, instead: Zákesho, why: "an Earth given name, in the name lists"}
+    - {form: Jáme, instead: Yameto, why: "an Earth word, in the name lists"}
+    - {form: Kádé, instead: Kadewo, why: "an Earth word, in the name lists"}
+    - {form: Lálú, instead: Lalumo, why: "an Earth word, in the name lists"}
+    - {form: Lóbó, instead: Lobezo, why: "an Earth word, in the name lists"}
+    - {form: Máji, instead: Mashelo, why: "an Earth word, in the name lists"}
+    - {form: Ndági, instead: Ndafiyo, why: "an Earth word, in the name lists"}
+    - {form: Rába, instead: Rabesi, why: "an Earth word, in the name lists"}
+    - {form: Tímba, instead: Timbelo, why: "an Earth word, in the name lists"}
+    - {form: Tóbó, instead: Tobesho, why: "an Earth word, in the name lists"}
+    - {form: Zákari, instead: Zakesho, why: "an Earth given name, in the name lists"}
     - {form: Aísha, instead: Aíbesa, why: "an Earth given name, in the name lists"}
     - {form: Amíta, instead: Amífeli, why: "an Earth given name, in the name lists"}
     - {form: Azína, instead: Azímela, why: "an Earth word, in the name lists"}
-    - {form: Bálkisa, instead: Bálesha, why: "an Earth given name, in the name lists"}
-    - {form: Bénda, instead: Bénduya, why: "an Earth word, in the name lists"}
-    - {form: Búnda, instead: Búndeya, why: "an Earth word, in the name lists"}
-    - {form: Dínga, instead: Díngoya, why: "an Earth word, in the name lists"}
+    - {form: Bálkisa, instead: Balesha, why: "an Earth given name, in the name lists"}
+    - {form: Bénda, instead: Benduya, why: "an Earth word, in the name lists"}
+    - {form: Búnda, instead: Bundeya, why: "an Earth word, in the name lists"}
+    - {form: Dínga, instead: Dingoya, why: "an Earth word, in the name lists"}
     - {form: Dòmba, instead: Dombesa, why: "an Earth word, in the name lists"}
-    - {form: Fádíma, instead: Fádewa, why: "an Earth given name, in the name lists"}
-    - {form: Félicia, instead: Féliwa, why: "an Earth given name, in the name lists"}
-    - {form: Gónda, instead: Góndesi, why: "an Earth word, in the name lists"}
+    - {form: Fádíma, instead: Fadewa, why: "an Earth given name, in the name lists"}
+    - {form: Félicia, instead: Feliwa, why: "an Earth given name, in the name lists"}
+    - {form: Gónda, instead: Gondesi, why: "an Earth word, in the name lists"}
     - {form: Habída, instead: Habishe, why: "an Earth given name, in the name lists"}
-    - {form: Hájya, instead: Háyeba, why: "an Earth word, in the name lists"}
-    - {form: Kénza, instead: Kénzowa, why: "an Earth word, in the name lists"}
-    - {form: Kída, instead: Kíshela, why: "an Earth word, in the name lists"}
-    - {form: Kóbá, instead: Kóbesa, why: "an Earth word, in the name lists"}
-    - {form: Lólá, instead: Lólewa, why: "an Earth given name, in the name lists"}
+    - {form: Hájya, instead: Hayeba, why: "an Earth word, in the name lists"}
+    - {form: Kénza, instead: Kenzowa, why: "an Earth word, in the name lists"}
+    - {form: Kída, instead: Kishela, why: "an Earth word, in the name lists"}
+    - {form: Kóbá, instead: Kobesa, why: "an Earth word, in the name lists"}
+    - {form: Lólá, instead: Lolewa, why: "an Earth given name, in the name lists"}
     - {form: Mádina, instead: Máderi, why: "an Earth given name, in the name lists"}
-    - {form: Méja, instead: Méshola, why: "an Earth word, in the name lists"}
-    - {form: Mídja, instead: Mídewa, why: "an Earth word, in the name lists"}
-    - {form: Mínda, instead: Míndeli, why: "an Earth word, in the name lists"}
-    - {form: Mónda, instead: Móndawe, why: "an Earth word, in the name lists"}
-    - {form: Múnda, instead: Múndewa, why: "an Earth word, in the name lists"}
-    - {form: Nénta, instead: Néntoli, why: "an Earth word, in the name lists"}
-    - {form: Nísa, instead: Níseta, why: "an Earth given name, in the name lists"}
-    - {form: Núra, instead: Núremi, why: "an Earth given name, in the name lists"}
-    - {form: Píka, instead: Píkesa, why: "an Earth word, in the name lists"}
-    - {form: Rálya, instead: Rálesi, why: "an Earth word, in the name lists"}
-    - {form: Sáída, instead: Sáwemi, why: "an Earth given name, in the name lists"}
-    - {form: Sándja, instead: Sándeyo, why: "an Earth word, in the name lists"}
+    - {form: Méja, instead: Meshola, why: "an Earth word, in the name lists"}
+    - {form: Mídja, instead: Midewa, why: "an Earth word, in the name lists"}
+    - {form: Mínda, instead: Mindeli, why: "an Earth word, in the name lists"}
+    - {form: Mónda, instead: Mondawe, why: "an Earth word, in the name lists"}
+    - {form: Múnda, instead: Mundewa, why: "an Earth word, in the name lists"}
+    - {form: Nénta, instead: Nentoli, why: "an Earth word, in the name lists"}
+    - {form: Nísa, instead: Niseta, why: "an Earth given name, in the name lists"}
+    - {form: Núra, instead: Nuremi, why: "an Earth given name, in the name lists"}
+    - {form: Píka, instead: Pikesa, why: "an Earth word, in the name lists"}
+    - {form: Rálya, instead: Ralesi, why: "an Earth word, in the name lists"}
+    - {form: Sáída, instead: Sawemi, why: "an Earth given name, in the name lists"}
+    - {form: Sándja, instead: Sandeyo, why: "an Earth word, in the name lists"}
     - {form: Sándra, instead: Sándewa, why: "an Earth given name, in the name lists"}
-    - {form: Sénda, instead: Séndowe, why: "an Earth word, in the name lists"}
-    - {form: Sílía, instead: Sílowe, why: "an Earth word, in the name lists"}
-    - {form: Téma, instead: Témoyi, why: "an Earth word, in the name lists"}
-    - {form: Ténda, instead: Téndoli, why: "an Earth word, in the name lists"}
-    - {form: Túnda, instead: Túndaye, why: "an Earth word, in the name lists"}
-    - {form: Vénda, instead: Wéndasi, why: "an Earth word, in the name lists"}
-    - {form: Záida, instead: Záyeli, why: "an Earth given name, in the name lists"}
-    - {form: Dómandala, instead: Dóbalanda, why: "an Earth word, in the name lists"}
-    - {form: Jómanda, instead: Yómasunde, why: "an Earth word, in the name lists"}
-    - {form: Kándala, instead: Kéndalu, why: "an Earth word, in the name lists"}
-    - {form: Kómandala, instead: Kómaludi, why: "an Earth word, in the name lists"}
-    - {form: Njámala, instead: Nyámelo, why: "an Earth word, in the name lists"}
-    - {form: Nómandala, instead: Nómaledi, why: "an Earth word, in the name lists"}
-    - {form: Ómandala, instead: Ómaletu, why: "an Earth word, in the name lists"}
-    - {form: Ómandalí, instead: Ómalesi, why: "an Earth word, in the name lists"}
-    - {form: Sónkandala, instead: Sónkelada, why: "an Earth word, in the name lists"}
-    - {form: Tándira, instead: Téndiro, why: "an Earth word, in the name lists"}
-    - {form: Tómandala, instead: Tómalinde, why: "an Earth word, in the name lists"}
-    - {form: Zákandala, instead: Zákedala, why: "an Earth word, in the name lists"}
+    - {form: Sénda, instead: Sendowe, why: "an Earth word, in the name lists"}
+    - {form: Sílía, instead: Silowe, why: "an Earth word, in the name lists"}
+    - {form: Téma, instead: Temoyi, why: "an Earth word, in the name lists"}
+    - {form: Ténda, instead: Tendoli, why: "an Earth word, in the name lists"}
+    - {form: Túnda, instead: Tundaye, why: "an Earth word, in the name lists"}
+    - {form: Vénda, instead: Wendasi, why: "an Earth word, in the name lists"}
+    - {form: Záida, instead: Zayeli, why: "an Earth given name, in the name lists"}
+    - {form: Dómandala, instead: Dobalanda, why: "an Earth word, in the name lists"}
+    - {form: Jómanda, instead: Yomasunde, why: "an Earth word, in the name lists"}
+    - {form: Kándala, instead: Kendalu, why: "an Earth word, in the name lists"}
+    - {form: Kómandala, instead: Komaludi, why: "an Earth word, in the name lists"}
+    - {form: Njámala, instead: Nyamelo, why: "an Earth word, in the name lists"}
+    - {form: Nómandala, instead: Nomaledi, why: "an Earth word, in the name lists"}
+    - {form: Ómandala, instead: Omaletu, why: "an Earth word, in the name lists"}
+    - {form: Ómandalí, instead: Omalesi, why: "an Earth word, in the name lists"}
+    - {form: Sónkandala, instead: Sonkelada, why: "an Earth word, in the name lists"}
+    - {form: Tándira, instead: Tendiro, why: "an Earth word, in the name lists"}
+    - {form: Tómandala, instead: Tomalinde, why: "an Earth word, in the name lists"}
+    - {form: Zákandala, instead: Zakedala, why: "an Earth word, in the name lists"}
     - {form: Zúmandala, instead: Zúmaledi, why: "an Earth word, in the name lists"}
     - {form: Djáo, instead: Jao, why: "a cluster the tongue lacks, in the name lists"}
     - {form: Djéllo, instead: Jelo, why: "a cluster the tongue lacks, in the name lists"}
@@ -6593,10 +6593,10 @@ data:
     - {form: Tjúma, instead: Juma, why: "a cluster the tongue lacks, in the name lists"}
     - {form: Wándja, instead: Wanja, why: "a cluster the tongue lacks, in the name lists"}
     - {form: Yádja, instead: Yaja, why: "a cluster the tongue lacks, in the name lists"}
-    - {form: Málazul, instead: Málazuli, why: "a closing the tongue lacks, in the name lists"}
-    - {form: Mphándza, instead: Mpanza, why: "a cluster the tongue lacks, in the name lists"}
-    - {form: Pándazul, instead: Pándazuli, why: "a closing the tongue lacks, in the name lists"}
-    - {form: Tándizul, instead: Tándizuli, why: "a closing the tongue lacks, in the name lists"}
+    - {form: Málazul, instead: Malazuli, why: "a closing the tongue lacks, in the name lists"}
+    - {form: Mphándza, instead: Mpalude, why: "a cluster the tongue lacks, in the name lists"}
+    - {form: Pándazul, instead: Pandazuli, why: "a closing the tongue lacks, in the name lists"}
+    - {form: Tándizul, instead: Tandizuli, why: "a closing the tongue lacks, in the name lists"}
     - {form: Djámbà, instead: Jamba, why: "a cluster the tongue lacks, in the name lists"}
     - form: Old Kraal
       instead: Old Heto
@@ -6606,7 +6606,9 @@ data:
       why: "an Earth word, the stone enclosures of the lost builders"
     - {form: Kraal, instead: Heto, why: "an Earth word, a stone enclosure"}
     - {form: kraal, instead: cattle-fold, why: "an Earth word, a homestead's cattle enclosure"}
-    - {form: njuma, instead: njúlewa, why: "an Earth word, a name meaning blessed"}
+    - {form: njuma, instead: njulewa, why: "an Earth word, a name meaning blessed"}
+    - {form: Mpanza, instead: Mpalude, why: "an Earth clan name, in the name lists"}
+    - {form: Lúsani, instead: Lusiro, why: "an Earth given name, in the name lists"}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -7043,7 +7045,7 @@ Secret names, known only to close family or spiritual advisors, are believed to 
 - Many incorporate elements marking the season or circumstances of birth
 - Frequently bisyllabic with marked tonal patterns
 - Common elements include action verbs, animal names (as metaphors for qualities), and celestial references
-- Examples: _Kásimo_ (fighter), _Njaka_ (lion-like), _Moboya_ (one-who-brings-light)
+- Examples: _Kasimo_ (fighter), _Njaka_ (lion-like), _Moboya_ (one-who-brings-light)
 
 **Given Names (Female):**
 
@@ -7057,7 +7059,7 @@ Secret names, known only to close family or spiritual advisors, are believed to 
 - Reference the ancestral founder, a geographical feature of significance, or a historical event
 - Often elaborate compounds with lengthy histories and associated genealogies
 - May include honorific prefixes marking the clan's status or spiritual affiliations
-- Examples: _Mpanza_ (river-watchers), _Kúbola_ (mountain-dwellers), _Ndánga-Sólembe_ (the-ancient-gatherers)
+- Examples: _Mpalude_ (river-watchers), _Kubola_ (mountain-dwellers), _Ndanga-Sólembe_ (the-ancient-gatherers)
 
 ### Titles and Honorifics
 
@@ -7072,35 +7074,35 @@ _Note: These examples are creations derived from phonetic patterns observed in N
 ### Male Given Names (Example Set)
 
 - Amaleso (one-who-stands)
-- Bákeni (noble)
-- Bálesho (strong-one)
-- Dámbani (worthy)
-- Fódemi (learned)
+- Bakeni (noble)
+- Balesho (strong-one)
+- Dambani (worthy)
+- Fodemi (learned)
 - Gaduno (generous)
 - Gongwelo (victorious)
 - Jao (lion)
 - Jelo (skillful)
-- Kádewo (brave)
-- Kásimo (fighter)
+- Kadewo (brave)
+- Kasimo (fighter)
 - Kisado (protector)
-- Lálumo (bold)
-- Lóbezo (powerful)
-- Máshelo (one-from-water)
+- Lalumo (bold)
+- Lobezo (powerful)
+- Mashelo (one-from-water)
 - Mbuka (swift)
 - Mondú (wise)
-- Ndáfiyo (noble-born)
+- Ndafiyo (noble-born)
 - Njaka (lion-like)
 - Panza (wanderer)
-- Rábesi (respected)
-- Sálumo (fortunate)
+- Rabesi (respected)
+- Salumo (fortunate)
 - Sandé (truthful)
 - Sandó (strong)
-- Tálemo (tall)
+- Talemo (tall)
 - Tamasé (celebrated)
-- Tímbelo (worthy)
-- Tóbesho (prosperous)
-- Yámeto (steadfast)
-- Zákesho (remembered)
+- Timbelo (worthy)
+- Tobesho (prosperous)
+- Yameto (steadfast)
+- Zakesho (remembered)
 
 ### Female Given Names (Example Set)
 
@@ -7108,130 +7110,130 @@ _Note: These examples are creations derived from phonetic patterns observed in N
 - Aíbesa (alive/lively)
 - Akisa (graceful)
 - Amífeli (beloved)
-- Ándiya (precious)
+- Andiya (precious)
 - Azímela (beautiful)
-- Bálesha (strong-woman)
-- Bénduya (blessed)
-- Búndeya (gifted)
+- Balesha (strong-woman)
+- Benduya (blessed)
+- Bundeya (gifted)
 - Daliba (elegant)
-- Díngoya (shining)
+- Dingoya (shining)
 - Dombesa (peaceful)
-- Éduma (jewel)
-- Fádewa (distinguished)
-- Féliwa (happy)
+- Eduma (jewel)
+- Fadewa (distinguished)
+- Feliwa (happy)
 - Gaja (gracious)
-- Góndesi (noble)
+- Gondesi (noble)
 - Habishe (well-loved)
-- Háyeba (excellent)
+- Hayeba (excellent)
 - Jenda (gentle)
 - Juma (beloved)
 - Kaja (capable)
-- Káleshi (valuable)
-- Kénzowa (pure)
-- Kíshela (beautiful-one)
-- Kóbesa (strong)
-- Lálija (dancing)
+- Kaleshi (valuable)
+- Kenzowa (pure)
+- Kishela (beautiful-one)
+- Kobesa (strong)
+- Lalija (dancing)
 - Lanja (fair)
 - Lenza (bright)
-- Lólewa (luminous)
+- Lolewa (luminous)
 - Máderi (inspired)
 - Malya (blessed)
-- Méshola (radiant)
-- Mídewa (thoughtful)
-- Míndeli (devoted)
-- Móndawe (wise)
-- Múndewa (merciful)
+- Meshola (radiant)
+- Midewa (thoughtful)
+- Mindeli (devoted)
+- Mondawe (wise)
+- Mundewa (merciful)
 - Ndaka (honorable)
-- Néntoli (graceful)
+- Nentoli (graceful)
 - Nija (noble)
-- Níseta (brilliant)
-- Njúlewa (blessed)
-- Núremi (light)
+- Niseta (brilliant)
+- Njulewa (blessed)
+- Nuremi (light)
 - Panja (steadfast)
-- Píkesa (excellent)
+- Pikesa (excellent)
 - Raja (royal)
-- Rálesi (celebrated)
-- Sálua (peaceful)
-- Sándeyo (gracious)
-- Sáwemi (fortunate)
-- Séndowe (serene)
-- Sílowe (faithful)
-- Súnemi (gentle)
-- Táliba (beautiful)
-- Témoyi (steadfast)
-- Téndoli (worthy)
-- Túndaye (strong)
+- Ralesi (celebrated)
+- Salua (peaceful)
+- Sandeyo (gracious)
+- Sawemi (fortunate)
+- Sendowe (serene)
+- Silowe (faithful)
+- Sunemi (gentle)
+- Taliba (beautiful)
+- Temoyi (steadfast)
+- Tendoli (worthy)
+- Tundaye (strong)
 - Wanja (beloved)
-- Wéndasi (victorious)
+- Wendasi (victorious)
 - Yaja (precious)
-- Záyeli (flowering)
+- Zayeli (flowering)
 - Zenda (morning-brightness)
 
 ### Clan Names (Example Set)
 
-- Árambu (the-river-walkers)
-- Bándala (the-gatherers)
-- Béndawe (the-blessed-ones)
-- Dándira (the-defenders)
-- Dóbalanda (the-wise-ones)
-- Édumba (the-gem-keepers)
-- Fámangali (the-honored-ancestors)
-- Gúndala (the-mountain-folk)
-- Índawe (the-river-blessed)
-- Jándaka (the-skilled-makers)
-- Kásiramba (the-lion-hearted)
-- Kéndalu (the-keepers)
-- Kómaludi (the-wise-council)
-- Kúbola (the-mountain-dwellers)
-- Lándala (the-travelers)
-- Lómbala (the-memory-keepers)
-- Lúsani (the-radiant-ones)
-- Málazuli (the-bright-hearts)
-- Mbándala (the-gatherers)
-- Mpanza (the-river-watchers)
-- Múgandala (the-strong-ones)
-- Ndálude (the-noble-line)
-- Ndánga-Sólembe (the-ancient-gatherers)
-- Nkúndala (the-hunters)
-- Nómaledi (the-peace-keepers)
+- Arambu (the-river-walkers)
+- Bandala (the-gatherers)
+- Bendawe (the-blessed-ones)
+- Dandira (the-defenders)
+- Dobalanda (the-wise-ones)
+- Edumba (the-gem-keepers)
+- Famangali (the-honored-ancestors)
+- Gundala (the-mountain-folk)
+- Indawe (the-river-blessed)
+- Jandaka (the-skilled-makers)
+- Kasiramba (the-lion-hearted)
+- Kendalu (the-keepers)
+- Komaludi (the-wise-council)
+- Kubola (the-mountain-dwellers)
+- Landala (the-travelers)
+- Lombala (the-memory-keepers)
+- Lusiro (the-radiant-ones)
+- Malazuli (the-bright-hearts)
+- Mbandala (the-gatherers)
+- Mpalude (the-river-watchers)
+- Mugandala (the-strong-ones)
+- Ndalude (the-noble-line)
+- Ndanga-Sólembe (the-ancient-gatherers)
+- Nkundala (the-hunters)
+- Nomaledi (the-peace-keepers)
 - Ntalandi (the-speaking-ones)
-- Nyámelo (the-warrior-tribe)
-- Óbandala (the-unified-line)
-- Ódawe (the-blessed-kinship)
-- Ódumbala (the-gem-tribe)
-- Ófawe (the-learned-ones)
+- Nyamelo (the-warrior-tribe)
+- Obandala (the-unified-line)
+- Odawe (the-blessed-kinship)
+- Odumbala (the-gem-tribe)
+- Ofawe (the-learned-ones)
 - Ógandala (the-mighty-ones)
-- Ólambala (the-eloquent-ones)
-- Ómalesi (the-honored-wise)
-- Ómaletu (the-leadership-line)
-- Ópala (the-people-of-pride)
-- Órindi (the-singers)
-- Ótandala (the-standing-firm)
-- Pálambe (the-peaceful-folk)
-- Pándazuli (the-wandering-blessed)
-- Péndala (the-dancers)
-- Rábandala (the-respected-line)
-- Róbandala (the-powerful-ones)
-- Sábandala (the-truth-keepers)
-- Sándambala (the-gracious-ones)
-- Shándiro (the-moon-watchers)
-- Sónkelada (the-singing-tribe)
+- Olambala (the-eloquent-ones)
+- Omalesi (the-honored-wise)
+- Omaletu (the-leadership-line)
+- Opala (the-people-of-pride)
+- Orindi (the-singers)
+- Otandala (the-standing-firm)
+- Palambe (the-peaceful-folk)
+- Pandazuli (the-wandering-blessed)
+- Pendala (the-dancers)
+- Rabandala (the-respected-line)
+- Robandala (the-powerful-ones)
+- Sabandala (the-truth-keepers)
+- Sandambala (the-gracious-ones)
+- Shandiro (the-moon-watchers)
+- Sonkelada (the-singing-tribe)
 - Súlamba (the-gentle-speakers)
-- Tábandala (the-foundation-keepers)
-- Tálamba (the-eloquent-ones)
-- Tándizuli (the-firm-blessed)
-- Téndiro (the-standing-watchers)
-- Tómalinde (the-wise-speakers)
-- Túbandala (the-strong-line)
+- Tabandala (the-foundation-keepers)
+- Talamba (the-eloquent-ones)
+- Tandizuli (the-firm-blessed)
+- Tendiro (the-standing-watchers)
+- Tomalinde (the-wise-speakers)
+- Tubandala (the-strong-line)
 - Udandala (the-united-ones)
-- Úlambo (the-wise-counselors)
-- Úndala (the-watchers)
+- Ulambo (the-wise-counselors)
+- Undala (the-watchers)
 - Utúndala (the-protectors)
-- Wánduri (the-travelers)
-- Yándala (the-joyful-ones)
-- Yómasunde (the-warrior-line)
-- Zákedala (the-remembered-ones)
-- Zímbala (the-shelter-givers)
+- Wanduri (the-travelers)
+- Yandala (the-joyful-ones)
+- Yomasunde (the-warrior-line)
+- Zakedala (the-remembered-ones)
+- Zimbala (the-shelter-givers)
 - Zúmaledi (the-gathering-folk)
 
 ## Nyáluban Lexicon {#lexicon}

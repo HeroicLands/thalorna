@@ -58,7 +58,7 @@ A jadaq (raid) drives off herds and takes captives for ransom; women, children a
 
 Now and then one person, man or woman, forces many tribes together by the sword. That leader is an orghun, and the union is an orghunoq. It has no council, no heir and no law but the orghun's word, and it breaks within a season of the orghun's death, when every feud it closed opens at once. The tribes count years from the last great union, and the present year is the 173rd of the [Silent Market]{.name data-type="lore/calendar"}. They expect a fourth and cannot say when it will come.
 
-The Sovidur honor the [[affiliation-ashanpnthn|Ashaian gods]] loosely over older sky-cults, above all [[lore-bahramisdty|Báhramis]] of the storm. A treaty is sworn before lightning, and the dead are left on the laying-out ground with their names spoken to the four winds.
+The Sovidur honor the [[affiliation-ashanpnthn|Ashaian gods]] loosely over older sky-cults, above all [[lore-bazhramisdty|Bazhrámiš]] of the storm. A treaty is sworn before lightning, and the dead are left on the laying-out ground with their names spoken to the four winds.
 
 ```sql
 SELECT address.slug AS _ref,

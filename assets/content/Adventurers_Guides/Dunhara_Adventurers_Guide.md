@@ -22,7 +22,7 @@ A sheikh holds his place by descent, by his own standing and by the consent of t
 
 A blood-feud can run for generations, and it always has known exits: restitution in stock, a marriage, a shared pilgrimage, or a sheikh's formal apology to another sheikh. Once a settlement is recited in public, it binds both sides. Reputation weighs more than any of it. A shamed warrior keeps his life and loses marriage, the raid, the council and every courtesy of the camp.
 
-The tribes keep the [[affiliation-ashanpnthn|Ashaian faith]] of fire and light, and an oath sworn at a fire is a legal act and a religious one at once. The god who matters most in camp is [[lore-bahramisdty|Báhramis]] of the storm. A wind-reader or rain-caller of the [[affiliation-strmcltsbhrms|Storm Cults]] sits in every camp of consequence, and a chieftain asks for a reading before he moves his herds. In the deep desert live the desert mystics, who fast alone in the open sand; one who returns with visions that prove true is followed for life.
+The tribes keep the [[affiliation-ashanpnthn|Ashaian faith]] of fire and light, and an oath sworn at a fire is a legal act and a religious one at once. The god who matters most in camp is [[lore-bazhramisdty|Bazhrámiš]] of the storm. A wind-reader or rain-caller of the [[affiliation-strmcltsbzhrms|Storm Cults]] sits in every camp of consequence, and a chieftain asks for a reading before he moves his herds. In the deep desert live the desert mystics, who fast alone in the open sand; one who returns with visions that prove true is followed for life.
 
 ## Places and Dangers
 
@@ -44,7 +44,7 @@ A party usually arrives as a caravan's escort. Escort duty passes from tribe to 
 [[affiliation-dunhartrbs|The Dunhara Tribes]]
 : ranks and offices from the kinless to the Speaker of the Council
 
-[[affiliation-strmcltsbhrms|The Storm Cults of Báhramis]]
+[[affiliation-strmcltsbzhrms|The Storm Cults of Bazhrámiš]]
 : the five lineages and the recognition of vessels
 
 [[affiliation-wrrscrcldnhrtrbs|The Warrior's Circle]]

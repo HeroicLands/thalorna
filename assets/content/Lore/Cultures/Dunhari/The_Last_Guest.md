@@ -11,7 +11,7 @@ data:
   form: pevrend
   subjects:
     - lore-dunhariclt
-    - affiliation-strmcltsbhrms
+    - affiliation-strmcltsbzhrms
     - lore-angarosdty
     - lore-zarvanyadty
     - affiliation-ashanpnthn
@@ -20,7 +20,7 @@ data:
 # terran_analog: "The rhymed prose (saj') of the pre-Islamic soothsayers, opening on oaths by the night, the stars and the wind; the Zoroastrian frashokereti, the renovation at the end of time; the Bedouin law that a guest who has eaten is protected, whoever he is. Departs: the end is not told to its close, and what holds it back is a host's count of days."
 ---
 
-**The Last Guest**, _gholmer tarvand_, is the reading of [Firanash]{.name data-type="being/npc"} of the [Parkad]{.name data-type="affiliation/lineage"}, a desert mystic who went alone into the sand south of the long wells to fast and came back with it. He was housed, followed and obeyed for the rest of his life, as a mystic is whose visions prove true: he had read a drought in the same fast, and the year it would break, and it broke in that year. The [[affiliation-strmcltsbhrms|voice-bearers]] of the storm cults took the reading into the repertoire they carry from camp to camp, and they recite it on the last night of the [Summer Vigil]{.name data-type="lore/gathering"}, when the sick and the old have been bathed at the springs and the camps sit up till morning praying for the water to hold.
+**The Last Guest**, _gholmer tarvand_, is the reading of [Firanash]{.name data-type="being/npc"} of the [Parkad]{.name data-type="affiliation/lineage"}, a desert mystic who went alone into the sand south of the long wells to fast and came back with it. He was housed, followed and obeyed for the rest of his life, as a mystic is whose visions prove true: he had read a drought in the same fast, and the year it would break, and it broke in that year. The [[affiliation-strmcltsbzhrms|voice-bearers]] of the storm cults took the reading into the repertoire they carry from camp to camp, and they recite it on the last night of the [Summer Vigil]{.name data-type="lore/gathering"}, when the sick and the old have been bathed at the springs and the camps sit up till morning praying for the water to hold.
 
 A _pevrend_ is a reading spoken in rhymed prose, as a reader speaks the sky or a mystic what he was shown, in runs of short clauses that close on one sound. The rendering closes each run on one word. Firanash's reading opens on oaths, as a reading does, and it tells the end of the world as far as he was shown it and no further. The guest in it gives his name, and the reading does not repeat it; the voice-bearers take him for [[lore-angarosdty|Angaros]], the Shadowed Serpent, who is the false word, and they do not say it in the reading's place. Some of the lineages hold that what Firanash was shown is the end, and some that it is the end of one age of the sand, and the reading is recited the same way by both.
 
@@ -107,7 +107,7 @@ By the fire, by the salt, by the wind, I have said what I was shown. I am Firana
 
 ## See Also
 
-[[affiliation-strmcltsbhrms|Storm Cults of Bahramish]]
+[[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámiš]]
 : the voice-bearers, who carry the cults' repertoire of myth and formula
 
 [[lore-dunhariclt|Dunhari]]

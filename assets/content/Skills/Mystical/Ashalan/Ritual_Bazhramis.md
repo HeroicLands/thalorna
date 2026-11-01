@@ -1,6 +1,6 @@
 ---
-shortcode: bahramis
-name: {full: "Ritual: Báhramis", en: [The Thunder Rider, Storm God]}
+shortcode: bazhramis
+name: {full: "Ritual: Bazhrámiš", en: [The Thunder Rider, Storm God]}
 type: skill
 subType: mystical
 tags: [ashalan, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-bahramis|Faith of Báhramis]]
+See [[affiliation-bazhramis|Faith of Bazhrámiš]]

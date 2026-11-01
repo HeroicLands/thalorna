@@ -82,7 +82,7 @@ That is the first plait. It is tied off./
 The second plait./
 ._The second._/
 Who carried the name second?/
-._[Kénzowa Ruwozi]{.name data-type="being/npc"}._/
+._[Kenzowa Ruwozi]{.name data-type="being/npc"}._/
 Of what line?/
 ._Of the senior line, the Daughter's daughter's daughter._/
 She took the name when the first was put in the ground,/
@@ -98,7 +98,7 @@ The fourth finger says the five come back in their own bodies./
 ._In their own bodies._/
 Some said: let his griot speak for him./
 Some said: let his sister's son stand in his place./
-Kénzowa said: "The finger says their own bodies./
+Kenzowa said: "The finger says their own bodies./
 We will wait for his."/
 ._We will wait for his._
 
@@ -124,7 +124,7 @@ That is the second plait. It is tied off./
 The third plait./
 ._The third._/
 Who carried the name third?/
-._[Sáwemi Ruwozi]{.name data-type="being/npc"}._/
+._[Sawemi Ruwozi]{.name data-type="being/npc"}._/
 Of what line?/
 ._Of the senior line, Kénzowa's brother's daughter._/
 She had the name in the fourth generation down the braid,/
@@ -137,7 +137,7 @@ When the drums said the baobab's people were walking,/
 she sent cows to every house of Shendala,/
 and the herders of the lion drove them to the road./
 Some said: give them. They have lost a town./
-Sáwemi said: "Lend them./
+Sawemi said: "Lend them./
 A gift they would have to answer before they had a roof./
 A loan they can answer when we are short."/
 ._Lend them. Answer when we are short._/
@@ -151,7 +151,7 @@ and go down it, and stop./
 ._We stop._/
 There is a knot here./
 ._There is a knot._/
-Sáwemi had three sons./
+Sawemi had three sons./
 The record holds two of them./
 ._It holds two._/
 The third went out on the lion's grass with a spear/
@@ -165,7 +165,7 @@ Touch the knot./
 I do not untie it./
 ._You do not untie it._
 
-What did Sáwemi say of him?/
+What did Sawemi say of him?/
 ._The record holds one thing._/
 She said: "He was mine. He is not the lion's./
 Do what is done." And it was done,/
@@ -181,7 +181,7 @@ That is the third plait. It is tied off, and it has its knot./
 The fourth plait./
 ._The fourth._/
 Who carried the name fourth?/
-._[Háyeba Ruwozi]{.name data-type="being/npc"}._/
+._[Hayeba Ruwozi]{.name data-type="being/npc"}._/
 Of what line?/
 ._Of the senior line, Sáwemi's daughter's daughter._/
 She had the name three generations back from this stone,/
@@ -197,13 +197,13 @@ and they took from the leopard's fields, and the leopard called./
 ._The leopard called._/
 A spear against one is a spear against five./
 ._Against one, against five._/
-Háyeba called the regiments of the lion,/
+Hayeba called the regiments of the lion,/
 and the regiments went, and the five did not lose./
 ._The five did not lose._
 
 At the Lubemo after, the first matter was the war,/
 because the first matter is always the war./
-And Háyeba said: "The regiments are home./
+And Hayeba said: "The regiments are home./
 The third finger says the grass, the rivers and the rains are shared./
 That is what the third finger says."/
 ._That is what it says._/
@@ -225,7 +225,7 @@ That is the fourth plait. It is tied off./
 The fifth plait./
 ._The fifth._/
 Who carried the name fifth?/
-._[Témoyi Ruwozi]{.name data-type="being/npc"}._/
+._[Temoyi Ruwozi]{.name data-type="being/npc"}._/
 Of what line?/
 ._Of the senior line, Háyeba's daughter's daughter._/
 There are people at this stone who saw her./
@@ -241,7 +241,7 @@ and the leopard's regiments went after them in the dark/
 and brought the taken home./
 ._Brought them home._/
 At the Lubemo after, the Sengala stood the taken at the stone,/
-every one, and Témoyi asked each one/
+every one, and Temoyi asked each one/
 the three things a stranger is asked:/
 "What is your name? Who is your father? Where did you sleep?"/
 ._Name, and father, and where you slept._/

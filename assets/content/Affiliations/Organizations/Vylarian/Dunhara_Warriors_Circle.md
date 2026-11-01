@@ -74,12 +74,12 @@ The Circle's full number is one hundred and eight warriors, the _bahvaran_, thou
 
 The longest-serving members form an informal inner body, the [Council of Scars]{.name data-type="affiliation/governmental"} (_Tigh'Vast_), perhaps a dozen in any year. It does not vote separately, and when it is united the full Circle seldom goes against it.
 
-The Circle has no captain. The **Voice of the Quarter**, who opens the meeting, frames the questions and announces the rulings, is drawn by lot from those present and changes every meeting. The lot is drawn with marked stones, and between meetings [[affiliation-strmcltsbhrms|the Storm Cults]] keep the stones in trust, a small office of religious authority that has lasted centuries.
+The Circle has no captain. The **Voice of the Quarter**, who opens the meeting, frames the questions and announces the rulings, is drawn by lot from those present and changes every meeting. The lot is drawn with marked stones, and between meetings [[affiliation-strmcltsbzhrms|the Storm Cults]] keep the stones in trust, a small office of religious authority that has lasted centuries.
 
 ## Notable Members
 
 [[being-shadznkmrz|Shadezan Kamruz]]
-: one of the most honored warriors of his generation, whom the Storm Cults recognize as a vessel of [[lore-bahramisdty|Báhramis]], so that his counsel weighs more than his single voice. The Circle has asked him to lead its gathered warriors twice in the last decade.
+: one of the most honored warriors of his generation, whom the Storm Cults recognize as a vessel of [[lore-bazhramisdty|Bazhrámiš]], so that his counsel weighs more than his single voice. The Circle has asked him to lead its gathered warriors twice in the last decade.
 
 The Council of Scars
 : a dozen old warriors whose agreement settles most questions before they are put.
@@ -97,7 +97,7 @@ When the Circle rides, its host is its own members and whatever warriors their t
 The common council of the tribes
 : the chieftains' council at [[place-ghavulavad|Ghavulavad]]. The two bodies keep apart: the Circle judges no dispute between tribes, and the chieftains do not direct the Circle's wars. When they disagree, which is rare and serious, the Circle gives way on policy and the chieftains on war.
 
-The [[affiliation-strmcltsbhrms|Storm Cults of Bahramish]]
+The [[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámiš]]
 : the two are woven together. Many members are storm-cult initiates, the cults' practitioners open and close every meeting, and the cults' standing rests partly on the Circle's respect.
 
 The [[lore-sowidesclt|Sovidur]]
@@ -132,7 +132,7 @@ The Acclamation
 [[affiliation-dunhartrbs|Dunhara Tribes]]
 : the confederations and their common council
 
-[[affiliation-strmcltsbhrms|Storm Cults of Bahramish]]
+[[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámiš]]
 : the keepers of the marked stones
 
 [[lore-dunhariclt|Dunhari]]

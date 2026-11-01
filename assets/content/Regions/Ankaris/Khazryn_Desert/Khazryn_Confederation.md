@@ -132,7 +132,7 @@ That dependence is the structural fact of the relationship. It is the reason Ata
 
 ## Religion
 
-The Tellumi practice the **full [[affiliation-ashanpnthn|Ashaian pantheon]]**, all twelve deities honored in their places: Ahurdaen supreme; Ataros the Sacred Flame as one of the twelve and the means by which, in their teaching, Ahurdaen is made manifest; and [[lore-mitharadty|Míthara]], [[lore-khorsadradty|Khórsadra]], [[lore-zurathradty|Zúrathra]], [[lore-bahramisdty|Báhramis]], [[lore-azravandty|Azravan]], [[lore-zarvanyadty|Zárvanya]], [[lore-aravestadty|Aravesta]] and the rest honored at their seasons and in their domains. This is the original form of the faith as the Tellumi Delkoshekhs systematized it, and the High Shekhul of Ahurdaen at the Great Fire-Temple in Amradad and the Tellumi Shekhulukhem generally still maintain it.
+The Tellumi practice the **full [[affiliation-ashanpnthn|Ashaian pantheon]]**, all twelve deities honored in their places: Ahurdaen supreme; Ataros the Sacred Flame as one of the twelve and the means by which, in their teaching, Ahurdaen is made manifest; and [[lore-mitharadty|Míthara]], [[lore-khorsadradty|Khórsadra]], [[lore-zurathradty|Zúrathra]], [[lore-bazhramisdty|Bazhrámiš]], [[lore-azravandty|Azravan]], [[lore-zarvanyadty|Zárvanya]], [[lore-aravestadty|Aravesta]] and the rest honored at their seasons and in their domains. This is the original form of the faith as the Tellumi Delkoshekhs systematized it, and the High Shekhul of Ahurdaen at the Great Fire-Temple in Amradad and the Tellumi Shekhulukhem generally still maintain it.
 
 The devotional emphases are three:
 

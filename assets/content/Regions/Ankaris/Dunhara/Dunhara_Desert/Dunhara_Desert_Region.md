@@ -29,7 +29,7 @@ The desert's people are the Dunhari of the tribes, living by lineage, household 
 
 ## Power
 
-No one rules the open desert. Perhaps a dozen great confederations and many smaller tribes share it, each with its sheikh, its warriors, its poets and its circuit, and they join against an outside threat and quarrel the rest of the time. Their common council meets at Ghavulavad, their [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]] at the [[place-stoneofranaz|Stone of Ranaz]], and the practitioners of the [[affiliation-strmcltsbhrms|Storm Cults of Bahramish]] travel with every camp of consequence. The balance has held for centuries.
+No one rules the open desert. Perhaps a dozen great confederations and many smaller tribes share it, each with its sheikh, its warriors, its poets and its circuit, and they join against an outside threat and quarrel the rest of the time. Their common council meets at Ghavulavad, their [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]] at the [[place-stoneofranaz|Stone of Ranaz]], and the practitioners of the [[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámiš]] travel with every camp of consequence. The balance has held for centuries.
 
 ## Places
 

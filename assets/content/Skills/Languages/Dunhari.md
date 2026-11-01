@@ -6020,7 +6020,7 @@ data:
       - skill-dunharlng
       - affiliation-kngdmmrdd
       - affiliation-dunhartrbs
-      - affiliation-strmcltsbhrms
+      - affiliation-strmcltsbzhrms
       - doc-dunharaadvguide
   tongues:
     - {tag: dunhari, meaning: a Dunhari name, language: skill-dunharlng}
@@ -6118,7 +6118,7 @@ data:
     - {name: sorvadakhend, tongue: dunhari, built: [sorvad-, -akhend]}
     - {name: Speaker of the Council, tongue: translation}
     - {name: Stone of Ranaz, tongue: translation}
-    - {name: Storm Cults of Bahramish, tongue: translation}
+    - {name: Storm Cults of Bazhrámiš, tongue: translation}
     - {name: Subject, tongue: translation}
     - {name: tagemader, tongue: dunhari, built: [tagem-, -ader]}
     - {name: tahrodan, tongue: dunhari}
@@ -6129,7 +6129,7 @@ data:
     - {name: The Silent Jackal, tongue: translation}
     - {name: The Storm Cults, tongue: translation}
     - {name: tigh'bahvaran, tongue: dunhari}
-    - {name: The Storm Cults of Báhramis, tongue: translation}
+    - {name: The Storm Cults of Bazhrámiš, tongue: translation}
     - {name: torvash, tongue: dunhari}
     - {name: Truce-Warden, tongue: translation}
     - {name: vadukesh, tongue: dunhari, built: [vaduk-, -esh]}
@@ -6138,7 +6138,7 @@ data:
     - {name: venrad, tongue: dunhari}
     - {name: venzelakhend, tongue: dunhari, built: [venzel-, -akhend]}
     - {name: Vessel, tongue: translation}
-    - {name: Vessel of Báhramis, tongue: translation}
+    - {name: Vessel of Bazhrámiš, tongue: translation}
     - {name: Water-Warden, tongue: translation}
     - {name: yorvabun, tongue: dunhari, built: [yorv-, -abun]}
     - {name: zevrogar, tongue: dunhari, built: [zevr-, -ogar]}
@@ -6153,7 +6153,7 @@ data:
     - {name: The Oasis of the Unrecited, tongue: translation}
     - {name: Associate, tongue: translation}
     - {name: Boss, tongue: translation}
-    - {name: báhramis, tongue: ashaian}
+    - {name: bazhrámish, tongue: ashaian}
     - {name: Caravan Priest, tongue: translation}
     - {name: Counsellor, tongue: translation}
     - {name: Courier, tongue: translation}
@@ -6255,6 +6255,8 @@ data:
     - {form: pîr, instead: pevrogar, why: "an Earth word, the recognized practitioner"}
     - {form: Shâgerd, instead: Hamelogar, why: "an Earth word, the apprentice"}
     - {form: shâgerd, instead: hamelogar, why: "an Earth word, the apprentice"}
+    - {form: Báhramis, instead: Bazhrámiš, why: "an Earth name, the Bahram family"}
+    - {form: Bahramish, instead: Bazhrámiš, why: "an Earth name, the Bahram family"}
     - {form: Pîravân, instead: Vadukesh, why: "an Earth word, the followers"}
     - {form: pîravân, instead: vadukesh, why: "an Earth word, the followers"}
     - {form: Golshahr, instead: Qarvelakhend, why: "an Earth compound, a city of Amradad"}

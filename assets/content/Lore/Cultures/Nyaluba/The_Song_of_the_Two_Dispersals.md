@@ -75,8 +75,8 @@ and the children knocked them down with sticks/
 and were beaten for it, and knocked them down again./
 ._Knocked them down again._
 
-The griot of Bwelende was [Tálemo]{.name data-type="being/npc"}./
-._Tálemo of the tree._/
+The griot of Bwelende was [Talemo]{.name data-type="being/npc"}./
+._Talemo of the tree._/
 He kept the tally at the root:/
 which house had brought its offering, and which was owing,/
 and he kept it to the last day./
@@ -97,7 +97,7 @@ and showed the wood, and the wood was grey./
 The song does not say why./
 ._It does not say why._/
 Nobody cut it. Nobody fed it wrong./
-The tally was full. Tálemo kept it, and it was full./
+The tally was full. Talemo kept it, and it was full./
 Some things are not a debt./
 ._Some things are not a debt._
 
@@ -108,7 +108,7 @@ until the objections stopped./
 All of them stopped but one./
 ._All but one._
 
-The one was [Kíshela]{.name data-type="being/npc"} of the [Kúbola]{.name data-type="affiliation/lineage"},/
+The one was [Kishela]{.name data-type="being/npc"} of the [Kubola]{.name data-type="affiliation/lineage"},/
 an old woman with no teeth and all her children grown./
 She said: "I was born under it. I will sit under it./
 Go, and take the children. I am staying."/
@@ -116,24 +116,24 @@ Go, and take the children. I am staying."/
 The song does not say she was right./
 The song does not say she was wrong./
 It says she stayed, and it says her name./
-._Kíshela, who stayed._
+._Kishela, who stayed._
 
 Then the houses went, and the song counts them./
 Count them, children of the tree that stands./
 ._We count them._/
-The Kúbola went to Lombesa./
+The Kubola went to Lombesa./
 ._To Lombesa, to this tree._/
-The [Lúsani]{.name data-type="affiliation/lineage"} went to Lombesa./
+The [Lusiro]{.name data-type="affiliation/lineage"} went to Lombesa./
 ._To this tree._/
-The [Bándala]{.name data-type="affiliation/lineage"} went to [Ndawelo]{.name data-type="place/settlement"}, by the red pan./
+The [Bandala]{.name data-type="affiliation/lineage"} went to [Ndawelo]{.name data-type="place/settlement"}, by the red pan./
 ._To Ndawelo._/
-The [Ópala]{.name data-type="affiliation/lineage"} went to Ndawelo./
+The [Opala]{.name data-type="affiliation/lineage"} went to Ndawelo./
 ._To Ndawelo._/
-The [Mpanza]{.name data-type="affiliation/lineage"} went to [Nyelambe]{.name data-type="place/settlement"}, in the far grass,/
+The [Mpalude]{.name data-type="affiliation/lineage"} went to [Nyelambe]{.name data-type="place/settlement"}, in the far grass,/
 three days with the grain on their heads./
 ._Three days to Nyelambe._/
 Five houses out of Bwelende,/
-and Kíshela, who stayed./
+and Kishela, who stayed./
 ._Five houses, and one who stayed._
 
 Who came to Bwelende to help them carry?/
@@ -145,7 +145,7 @@ A town of the baobab walked out of its own country/
 and only the baobab's people met it on the road./
 ._Only the baobab's people._
 
-And what did Tálemo carry?/
+And what did Talemo carry?/
 ._He carried Bwelende._/
 He did not carry grain. Let others carry grain./
 He carried the fathers of Bwelende in his mouth,/
@@ -156,7 +156,7 @@ He walked to Lombesa with nothing on his head./
 
 He sat down under this tree./
 The griot of Lombesa sat down across from him./
-And Tálemo gave Bwelende into Lombesa's keeping,/
+And Talemo gave Bwelende into Lombesa's keeping,/
 line by line, before the people of both,/
 before people who already knew it./
 ._Line by line._/
@@ -181,8 +181,8 @@ Its root came up out of the ground like a cow kneeling,/
 and that was where the offerings were laid./
 ._Where the cow kneels._
 
-The griot of Shendala was [Néntoli]{.name data-type="being/npc"}./
-._Néntoli of the tree._/
+The griot of Shendala was [Nentoli]{.name data-type="being/npc"}./
+._Nentoli of the tree._/
 She kept the tally at the root/
 and she kept it to the last day./
 ._To the last day._
@@ -201,14 +201,14 @@ and the wood in the break was grey./
 
 The song does not say why./
 ._It does not say why._/
-The tally was full. Néntoli kept it, and it was full./
+The tally was full. Nentoli kept it, and it was full./
 ._Some things are not a debt._
 
 And the town sat under the limbs that were left/
 and talked until the objections stopped,/
 and nobody stayed./
 ._Nobody stayed._/
-Néntoli asked who would stay, three times,/
+Nentoli asked who would stay, three times,/
 because Kíshela's name was in her mouth./
 Three times nobody answered./
 ._Nobody answered._
@@ -267,23 +267,23 @@ They came anyway./
 Then the houses went, and the song counts them./
 Count them, children of the tree that stands./
 ._We count them._/
-The [Málazuli]{.name data-type="affiliation/lineage"} went to Lombesa./
+The [Malazuli]{.name data-type="affiliation/lineage"} went to Lombesa./
 ._To Lombesa, to this tree._/
-The [Kómaludi]{.name data-type="affiliation/lineage"} went to Lombesa./
+The [Komaludi]{.name data-type="affiliation/lineage"} went to Lombesa./
 ._To this tree._/
-The [Úndala]{.name data-type="affiliation/lineage"} went to Ndawelo, by the red pan./
+The [Undala]{.name data-type="affiliation/lineage"} went to Ndawelo, by the red pan./
 ._To Ndawelo._/
-The [Péndala]{.name data-type="affiliation/lineage"} went to Nyelambe, in the far grass./
+The [Pendala]{.name data-type="affiliation/lineage"} went to Nyelambe, in the far grass./
 ._To Nyelambe._/
-The [Órindi]{.name data-type="affiliation/lineage"} went to Nyelambe./
+The [Orindi]{.name data-type="affiliation/lineage"} went to Nyelambe./
 ._To Nyelambe._/
-The [Tálamba]{.name data-type="affiliation/lineage"} went to Ndawelo./
+The [Talamba]{.name data-type="affiliation/lineage"} went to Ndawelo./
 ._To Ndawelo._/
 Six houses out of Shendala,/
 and nobody stayed./
 ._Six houses, and nobody stayed._
 
-And what did Néntoli carry?/
+And what did Nentoli carry?/
 ._She carried Shendala._/
 Before she went, she sat down at the root where the cow kneels/
 and said the dead of Shendala to the dead tree,/
@@ -334,10 +334,10 @@ Feed the one. Remember the other./
 
 Bwelende, Shendala./
 ._Bwelende, Shendala._/
-Tálemo who carried, Néntoli who carried./
-._Tálemo, Néntoli._/
-Kíshela, who stayed./
-._Kíshela, who stayed._
+Talemo who carried, Nentoli who carried./
+._Talemo, Nentoli._/
+Kishela, who stayed./
+._Kishela, who stayed._
 
 I have carried them the length they were given me./
 ._No longer, and no shorter._/

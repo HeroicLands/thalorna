@@ -246,6 +246,9 @@ data:
     - {form: bayel, sense: "waste, desert"}
     - {form: ghisham, sense: fear}
     - {form: nozhik, sense: victory}
+    - {form: lurbek, sense: bridge}
+    - {form: ozhmar, sense: "truth, right order"}
+    - {form: ghuzdak, sense: "the lie, disorder"}
   fields:
     - name: Derived words
       holds: "The names and words built from the stems, each with the pieces it is made of."
@@ -4539,6 +4542,22 @@ data:
       class: n
       field: Everyday speech
       gloss: a fiber; a slender natural strand, such as one of the strands making up wool, before or after spinning
+    - form: mozhelurbek
+      class: name
+      field: Derived words
+      gloss: "the bridge of the dead: the bridge every soul crosses after death, wide for the righteous and a razor's edge for the wicked; `Chinvat` is retired"
+      built: [mozhel, lurbek]
+    - {form: lurbek, class: n, field: Everyday speech, gloss: bridge, built: [lurbek]}
+    - form: ozhmar
+      class: n
+      field: Everyday speech
+      gloss: "truth, right order"
+      built: [ozhmar]
+    - form: ghuzdak
+      class: n
+      field: Everyday speech
+      gloss: "the lie, disorder"
+      built: [ghuzdak]
   register:
     - {name: Atárzadi Language, tongue: translation, why: built on the people's name}
     - {name: Atarzadi Language, tongue: translation, why: an unmarked spelling of the above}
@@ -4562,6 +4581,14 @@ data:
       tongue: atarzadi
       gloss: "prince of a tribe: a tribe's hereditary chieftain"
       built: [rezhul]
+    - name: ozhmar
+      tongue: atarzadi
+      gloss: "truth, right order: the principle the Ashaian faith serves; `Asha` is retired"
+      built: [ozhmar]
+    - name: ghuzdak
+      tongue: atarzadi
+      gloss: "the lie, disorder: the principle the Ashaian faith opposes; `Druj` is retired"
+      built: [ghuzdak]
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"

@@ -240,10 +240,14 @@ export const RETIRED = [
     },
     { retired: ["Mōbadān-Shōfár"], replacement: "Tōqēl", scope: "corpus" },
     { retired: ["Ashalan"], replacement: "Ashaian", scope: "corpus" },
+    { retired: ["Báhramis", "Bahramis", "Bahramish"], replacement: "Bazhrámiš", scope: "corpus" },
     { retired: ["Shōfet", "Dūkhen"], replacement: "Zhūdek", scope: "corpus" },
     { retired: ["Gurdi"], replacement: "Vurdil", scope: "corpus" },
     { retired: ["garen"], replacement: "relvan", scope: "corpus" },
     { retired: ["nasi"], replacement: "Rēzhul", scope: "corpus" },
+    { retired: ["Chinvat"], replacement: "Mozhelurbek", scope: "corpus" },
+    { retired: ["Asha"], replacement: "Ozhmar", scope: "corpus" },
+    { retired: ["Druj"], replacement: "Ghuzdak", scope: "corpus" },
     {
         retired: ["Khazryn Confederation", "Khazryn confederation"],
         replacement: "Tellumi Confederation",
@@ -259,7 +263,7 @@ export const RETIRED = [
         retired: ["khanates", "khanate", "Khans", "Khan", "khan"],
         replacement: "orqwen (a khanate is an orqwenoq)",
         scope: [
-            "assets/content/Affiliations/Divine/Dunhara/Storm_Cults_of_Bahramish.md",
+            "assets/content/Affiliations/Divine/Dunhara/Storm_Cults_of_Bazhramis.md",
             "assets/content/Affiliations/Organizations/Vylarian/Dunhara_Warriors_Circle.md",
             "assets/content/Affiliations/Social/Companies/TighSavaran_of_the_Koserur.md",
             "assets/content/Lore/History/The_Storm_of_the_Hundred_Banners.md",
