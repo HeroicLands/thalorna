@@ -17,7 +17,7 @@ data:
 
 ## Teaser
 
-In Blood and Ashes in Keravel Vale, [[place-ceravelvale|Keravel Vale]], a prosperous region of manorial estates and thriving villages, has come under siege—not by armies, but by brigands. Once scattered bands of highwaymen have united under a cunning leader, disrupting trade and plundering travelers across the Vale. [Tarlas al Pélanvri na Belsaren]{.name data-type="being/npc"}, Lord of [[place-belsaren|Belsaren]], has been tasked with eliminating the threat. Yet rumors persist that the brigands may have powerful allies, perhaps even tied to [[affiliation-kingdmtrvn|Tarvénia]], the enemy land to the southeast. Adventurers are summoned to confront the bandits, but in a land rife with intrigue and shifting loyalties, their task may reveal dangers far greater than mere outlaws.
+In Blood and Ashes in Keravel Vale, [[place-ceravelvale|Keravel Vale]], a prosperous region of manorial estates and thriving villages, has come under siege—not by armies, but by brigands. Once scattered bands of highwaymen have united under a cunning leader, disrupting trade and plundering travelers across the Vale. [Tarlas al Pélanvri na Belsaren]{.name data-type="being/npc"}, Lord of [[place-belsaren|Belsaren]], has been tasked with eliminating the threat. Yet rumors persist that the brigands may have powerful allies, perhaps even tied to [[affiliation-kingdmtrvn|Tarvénia]], the enemy land to the east. Adventurers are summoned to confront the bandits, but in a land rife with intrigue and shifting loyalties, their task may reveal dangers far greater than mere outlaws.
 
 ## Campaign Summary
 
@@ -92,5 +92,11 @@ Mysterious Forces
 [[scenario-caveoutlin|Cave Outline]]
 : Detailed layout of Thárion's bandit hideout
 
-[[scenario-sumryprvnz|Summary of Provenzia]]
-: Regional context
+[[affiliation-kngdmprvnz|Kingdom of Provenzia]]
+: The crown, the magnates and their feuds, the Tanevar grievance and the frontier
+
+[[place-ceravelvale|Keravel Vale]]
+: The vale, its lords and its history
+
+[[lore-warprinces|The War of the Princes]]
+: The civil war the vale remembers as the Kéravian Rebellion

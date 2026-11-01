@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Keravel Vale is a frontier region of the [[place-talothe|Talote]], [[affiliation-kngdmprvnz|Provenzia]]'s mountain march against [[affiliation-kingdmtrvn|Tarvénia]]: a rugged, isolated vale of manorial estates and villages anchored by its castle town, [[place-caerceravel|Torvila Keravel]]. It sits near the kingdom's southeastern border, which makes it a frequent flashpoint, and its lords spend their years balancing defense, governance and trade against one another. In a good year the vale is prosperous. In most years it is also dangerous.
+Keravel Vale is a frontier region of the [[place-talothe|Talote]], [[affiliation-kngdmprvnz|Provenzia]]'s mountain march against [[affiliation-kingdmtrvn|Tarvénia]]: a rugged, isolated vale of manorial estates and villages anchored by its castle town, [[place-caerceravel|Torvila Keravel]]. It sits near the kingdom's eastern border, which makes it a frequent flashpoint, and its lords spend their years balancing defense, governance and trade against one another. In a good year the vale is prosperous. In most years it is also dangerous.
 
 ## Who Holds the Vale
 

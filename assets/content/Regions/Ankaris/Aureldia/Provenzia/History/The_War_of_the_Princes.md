@@ -64,7 +64,7 @@ In [[place-ceravelvale|Keravel Vale]]the war is called the **Kéravian Rebellion
 
 ## The War
 
-The vale of Keravel lay between the two parties and on the road from the east, and the war was fought there. The villages were divided, and the lords of the manors, who held from the crown in the east and owed it a levy, were forced to choose a prince in front of their tenants. The Tarvénian host that came down the passes in the second year went through the vale unopposed, because there was no army to oppose it.
+The vale of Keravel lay between the two parties and on the road from the east, and the war was fought there. The war devastated large swathes of the kingdom and broke the regional economies. The villages were divided, and the lords of the manors, who held from the crown in the east and owed it a levy, were forced to choose a prince in front of their tenants. The Tarvénian host that came down the passes in the second year went through the vale unopposed, because there was no army to oppose it.
 
 [House Dorgal]{.name data-type="affiliation/lineage"}, a minor noble family of the vale, chose the wrong prince. When the war ended, its seat was burned and its lands were given to a rival.
 
@@ -75,6 +75,8 @@ The war ended with neither prince. The moderate houses of both parties found a t
 ## What It Left
 
 - **Grudges.** Every great house still nurses a grievance from the war, and the families know which.
+- **The Tanevar and Provenzian divide.** Traditional Tanevar leaders turned the country's discontent against the cities' rule, and the line between the two peoples has run where the war drew it ever since ([[affiliation-kngdmprvnz|The Kingdom of Provenzia]]).
+- **Weak local government.** Many districts never recovered the authority their lords held before the war.
 - **Keravel's divided villages.** The Tanevar peasantry and the Provenzian minority remember different wars.
 - **House Dorgal's burned seat.** A gutted manor in the [[place-talothe|Talote]], whose deeds were walled up in the cellar ([[place-ceravelvale|Keravel Vale]]).
 - **[[place-durvalis|Durvalis]].** The fortress town raised to hold the road ([[place-durvalis|Durvalis]]).

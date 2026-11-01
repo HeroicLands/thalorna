@@ -71,7 +71,7 @@ A province becomes a realm without ever declaring it, and keeps the forms. [[aff
 
 ## The Refusal
 
-The [province of the West]{.name data-type="affiliation/polity"} had been a province for nearly five centuries. By about 609 AF it paid for a frontier it could not see and a distant Orzas it never met, in levies and taxes that rose with every year the [[affiliation-vylarinmpr|Empire]]'s grip loosened. The estates, the assemblies of nobles, towns and guilds that had advised the _therkoi_ (governors) since the first century of the province, refused the _therkos_ a levy. When he sent his legion to collect it, they refused the legion.
+The [province of the West]{.name data-type="affiliation/polity"} had been a province for nearly five centuries. The Nordheim fleets that struck its coast from 519 to 530 AF had shown how little the _therkoi_ could defend it ([[lore-southrnfleets|The Southern Fleets]]). By about 609 AF it paid for a frontier it could not see and a distant Orzas it never met, in levies and taxes that rose with every year the [[affiliation-vylarinmpr|Empire]]'s grip loosened. The estates, the assemblies of nobles, towns and guilds that had advised the _therkoi_ (governors) since the first century of the province, refused the _therkos_ a levy. When he sent his legion to collect it, they refused the legion.
 
 ## Nine Years
 

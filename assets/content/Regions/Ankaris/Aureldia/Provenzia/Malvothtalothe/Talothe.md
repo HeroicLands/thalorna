@@ -35,6 +35,10 @@ less as a conflict than as a way of life—and a good deal of the march's prospe
 continuing. Nobody in [[place-pirnebris|Pirnebris]], which sells the frontier its boots and carts,
 imagines a lasting peace would be good news.
 
+## Ore and Timber
+
+The mountains are the kingdom's mineral country. Their veins carry precious metals and some gemstones, and small mining communities work the high valleys and keep to themselves. Timber and ore are what [[place-belsaren|Belsaren]] and [[place-leravren|Leravren]] hold, which is why lords fight over them.
+
 ## Its Places
 
 [[place-durvalis|Durvalis]]

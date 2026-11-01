@@ -34,6 +34,8 @@ That closure is the single most important fact about Provenzia's eastern frontie
 with [[affiliation-kingdmtrvn|Tarvénia]] has a season. Raiding begins when the passes open and ends when they shut, both sides
 plan their year around it, and a winter crossing is either a disaster or a deliberate outrage.
 
+Between the coasts and the uplands lie the fertile river valleys that feed the kingdom and carry its trade, with riverine market towns that tie the interior to the ports and, through them, to the neighboring realms. [[place-jalnazdal|Jalnasdal]] on the coast is the royal and commercial capital, and [[place-aureliane|Aurelane]] inland keeps the law and the learning.
+
 The two coasts give the kingdom two quite different peoples. The south is where Provenzia's wealth, its ports and its reputation live. The west is poorer, harder, better at fishing, and inclined to regard the south as soft.
 
 ### The Blood-fields
