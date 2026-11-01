@@ -159,8 +159,8 @@ Zelvara valma pozera. Tharvara valma pozera./
 .Pozera fir zeltron tigazor. Pozera fir dumva tigazor./
 Eza kedis orkaima lozezor? Urzelthos lozezor./
 .Zel orkaima uthrimai thalezoi./
-Zel orkaima thalentor uthrime./
-.Zel orkaima thalentor uthrime.
+Zel orkaima thalentor uthrime!/
+.Zel orkaima thalentor uthrime!
 
 Ir alathon sedon velzora orthemazor. Felzur lambizoi ol thilandon ol marendandon. Tavemer kaneloi klamthoi yarezoi. Zel orkaima thalentor uthrime. Zel orkaima uthrimai thalezoi. Ir pozera Kamezos ar sistazor.
 :::
@@ -237,18 +237,18 @@ Helthos fa gulmos, ul tholbema, ul sedon palzazor./
 
 Ethorlusos Holtakezos fa pozera fir zulmara pethazor./
 .Holtakezos dokazor. «Zulmara, vethor, ar silkamar.»/
-Ethorlusos antigai pethazor, 17 tharnelai kerazor./
+Ethorlusos antigai pethazor. Umbaris ul ranethur tharnelai./
 .Holtakezos kaldrema fir denos vakazor. Karvuma rozimazor.
 
-Kanai 15 tharnelai kan fir orkaima lokamen,/
-.16 kan fa kethis thramezon yarezor marendamen,/
-17, 18, 19, 20 ir Moktur./
-.Hurdis ir herthema. Hurdis ir nelamis./
+Kanai umbaris ul yolemiks tharnelai kan fir orkaima lokamen,/
+.umbaris ul selthur kan fa kethis thramezon yarezor marendamen,/
+umbaris ul ranethur, umbaris ul zorimaks, umbaris ul lukemar,/
+.tavendur ir Moktur. Hurdis ir herthema. Hurdis ir nelamis./
 Tavendur tharnelai zel orkaima. Kanai fenza./
 .Urkis fenza. Strathos dena olmathen thaurazor,/
-35. Verosa. Uzmela ir veramis./
+Karzis umbaris ul yolemiks. Verosa. Uzmela ir veramis./
 .Kambetha kona yestharon ol uzmela fir kanel ol kolvazis ol dena./
-Dumela ir Katsur us 90 zirkoi./
+Dumela ir Katsur us lukemar umbaris zirkoi./
 .Ar lathon fos okvela rozimathen. Urthai kovrai.
 
 Ankelos Gretalis fir veramis, kona zunon un dalmeros tigazor./

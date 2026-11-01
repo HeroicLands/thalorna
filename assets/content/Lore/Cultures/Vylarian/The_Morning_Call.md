@@ -25,7 +25,7 @@ data:
 
 The Morning Call is the third satire in the book of [Nizelar]{.name data-type="being/npc"}, a client-poet of [[place-orzara|Orzara]] who lived in the [Warrens]{.name data-type="place/site"} and attended a patron on the [Heights]{.name data-type="place/site"}, and who says so in every poem he wrote. He was a veteran's son, and so a citizen only until he was grown, and the satires never let a listener forget that his right to sleep inside the line was his patron's to sign each year. Satire is the one form of verse the Vylarian schools call their own and not a borrowing, and it is in a lighter line than the epic, quick and broken, with the speech of the street let into it. Nizelar's book is read aloud after dinner in the houses of [[place-selvin|Selvin]] (the Laurel) and the [Coronal]{.name data-type="place/site"} by the people it describes, and they laugh in the right places. The houses it names by their streets have argued for a long time about which of them it means, and each house holds that it means another.
 
-The satire takes a client's day from the dark before the morning call to the evening. Its refrain is a line of the [[place-alyssa|Alessa]] street speech, with the worn-down _a'_ the schoolmasters correct: _a' thelmos lokazor; a' daimela falvazor_, "the client's come; the patron's out." The steward at the door says the same thing in the high register of the [[skill-vylarilng|Vylari Language]], with one small word put in, and the poem turns on the word: _Daimela zikai falvazor_, "the patron is perhaps away", which gives the patron's absence as a thing only alleged, and that is the steward's way of saying that the patron is upstairs. The rendering marks the High Vylari with "so it is said."
+The satire takes a client's day from the dark before the morning call to the evening. Its refrain is a line of the [[place-alyssa|Alessa]] street speech, with the worn-down article _à_ the schoolmasters correct: _À thelmos lokazor. À daimela falvazor._ ("The client's come. The patron's out.") The steward at the door says the same thing in the high register of the [[skill-vylarilng|Vylari Language]], with one small word put in, and the poem turns on the word: _«Daimela, vethor, zikai falvazor.»_ ("The patron, he says, is perhaps away.") The word gives the patron's absence as a thing only alleged, and that is the steward's way of saying that the patron is upstairs. The rendering marks the High Vylari with "so it is said."
 
 : The Morning Call {#call}
 
@@ -164,17 +164,17 @@ The client's come. The patron's out. The client will come in the morning.
 ::: {.verse form=satire lang=vyl enc=vylsemaronenc work=call}
 Voza pra zekrai urzithen‼ Pra pazartoi. Pra nalvathen ol ulthoi./
 Voza Nizelar, ir kauron, urzithen‼ Ir dumela us Katsur,/
-90 zirkoi us kazthos. Urkis alethon samdon kerazor./
+Lukemar umbaris zirkoi us kazthos. Urkis alethon samdon kerazor./
 Holethi thaltar fa zirkon palzathen kerazor. Fa thradinandon ar kerazor./
 Voza karlon ir tolkemon kornathen‼ Denon karalzon ol zorka ol en yarezor./
 Voza fir denon klinethen‼ Voza fir lamora klinethen‼ Karalzis ir lamora thalethen dunazoi./
 Zai zorka karalzis ves lamora kerazor. Voza tholvena nalvathen‼/
-Ilthera tholvena. Tholvena ol helthos ol en. Thramezan ankelos 20 tharnelai ertazor./
+Ilthera tholvena. Tholvena ol helthos ol en. Thramezan ankelos tavendur tharnelai ertazor./
 Denos fir urkis fenza tigazor. Fenza anpra denos un nurethos anolmazor./
-Ir sedon ol 16 tharnelai. Sa vornon anolmazor. Nurethos tholvena kerazor./
+Ir sedon ol umbaris ul selthur tharnelai. Sa vornon anolmazor. Nurethos tholvena kerazor./
 Kanai veramis tholvena fir helthos ol en daimazor. Ilthera yarezor./
 Denkanai ilthera sa iltheron iltheralon ol nelameza ir Moktur yarezor./
-Voza 90 zirkoi zel tigathen‼ Lukemoron ar yarezor. Voza silkathen, 40 zirkon‼/
+Voza lukemar umbaris zirkoi zel tigathen‼ Lukemoron ar yarezor. Voza silkathen, felzur umbaris zirkon‼/
 Yarezor, naren harkelon yarezor. Fos. Kazthos. Orzara. Pramiza.
 
 À thelmos lokazor. À daimela falvazor.
@@ -202,7 +202,7 @@ Kanai liskothos ol zorka. Zorkos ol denos kalmethazor. Gurimalon linkazor./
 Ul thizaron, ul vethvelda. Ir selthoron thalemen./
 Kanai delamos ol Taruzelia fainela. Daimela ol daimela ol denos ir Seldan ombizor./
 Ir ranethoron thalemen. Denos en okezor. En fainela okemen./
-Denon tharnela, nurethon ol 14 tharnelai sorimai thilazor. Korethai sorimai yarezoi./
+Denon tharnela, nurethon ol umbaris ul felzur tharnelai sorimai thilazor. Korethai sorimai yarezoi./
 Kemaros ol nurethon rithezos ol daimela yarezor. Ir zorimoron thalemen./
 Lokanthi, lukemoron. Ethor tharnela, kazthos. Kanai Ormakir.
 
@@ -282,7 +282,7 @@ Sistamen. Thelmos yaremen. Thelmos pra lathethis kedis denos ar okezor sistazor.
 Nurethoi ir marendalar sorima ol koroi pra aletha sorima marendazoi./
 Veramis koroi ir urzela pramiza dokazor. Ar harlen. Ar zirothos./
 Denos ar pethrezor. Ir ulthoi orthemai yarezor. Yerpalon kerazor./
-Ir kauron zel fir Sirethalmalthos tigamen. Us 90 zirkoi./
+Ir kauron zel fir Sirethalmalthos tigamen. Us lukemar umbaris zirkoi./
 Karlon kornamen. Karlon kremezor. Fir denon klinemen. Holethi dumva ol en yarezor./
 Ilthera tholvena korbamen. Dena ilthera sa iltheralon us Moktur yarezor./
 Nalimen. Pra zekrai, ul pra pazartoi anlothathen avrenamen./

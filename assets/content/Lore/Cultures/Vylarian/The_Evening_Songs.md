@@ -58,9 +58,9 @@ Urkis karalzon yarezor. Karzis zurgalis. Umbaris nethkalos us ganothoi yarezor./
 Felzur salkar, ves felzur sethdokemon yarezor. Takezos fir en dokazor. «Felzur vethor antigai voza rozimathen.»/
 .Antigai rozimamen. Felzur yarezoi. Kauron us nebralis lokazor./
 Tharnelai sa karvuma rozimamen. Ir hilthera rozimamen, ul denai thilamen,/
-.16 ir barkis yarezoi. Felzur doranthi ir kalderoi thalezoi./
+.Umbaris ul selthur ir barkis. Felzur doranthi ir kalderoi thalezoi./
 Urkis karalzon yarezor. Yalzizon. Ol kedis kezdamen. Ol helthos ol ko yarezor./
-.Us 90 zirkoi. Ir kedis karlon ir pramiza pazazen ul klinezen./
+.Us lukemar umbaris zirkoi. Ir pramiza karlon pazazen ul klinezen./
 Karzis zurgalis yarezor. Zurgalis kormeros yarezor. Zoralos ir denos yaremen./
 .Umbaris nethkalos. Umbaris tharnelai pra denkanai rozimthai keramen./
 Felzur salkar, ves felzur sethdokemon, ves felzur tharnelai ol dorandar ol en yarezoi./
@@ -101,7 +101,7 @@ Denon zunela. Yalzizon. Silkamen. Zoralos yaremen. Thaurandon keramen./
 .Arurkis en silkandar okezor. Urthai anprasedon ol barkis naramen./
 Kiramoi ir sulkoi yarezoi. Ar satheros yarezor, ul sulkoi sedandar yarezoi./
 .Thavandon sa orvenoi kedis alathar ralvazoi zirvazoi yarezor./
-Zandira ol ko pelmamen. Zandira ol ko ir okvela us 90 zirkoi pelmamen./
+Zandira ol ko pelmamen. Zandira ol ko ir okvela us lukemar umbaris zirkoi pelmamen./
 .Kedis ir nembandon ol korvathis tha helthos zirkon okethen dunazor karvazen./
 «Denai vethor zandirai ol orvenoi.» Arurkis verezos fa denoi zandira karvazor. Pelmamen./
 .Ir ulmera fir zulkinon thalandar. Zirkon sekerandar./
@@ -139,9 +139,9 @@ Takezos denon pramiza fir yunakoi antigai dokazor, sa dokazor./
 .«Dokandon, vethor, fos ankelon vornon lokazor.» Denon ar kezdazor./
 «Tavendur, vethor, tharnelai zel orkaima. Kanai urkis fenza yarezor, ul ko verosa yarezen.»/
 .Urkis fenza. Strathos dena olmathen thaurazor. Ir anprasedon kona denos dokamen./
-Urkis fenza. Fir dena 16 tharnelai ul ethris oltremai valmamen./
+Urkis fenza. Fir dena umbaris ul selthur tharnelai ul ethris oltremai valmamen./
 .Terema pozera. Fenza ir orthemandon. Ko anpra dena./
-Kanai helthos ol ko tir dena tigazor. Ir 35 tharnelai verosa yarezor./
+Kanai helthos ol ko tir dena tigazor. Ir karzis umbaris ul yolemiks tharnelai verosa yarezor./
 .Mezara ol ko ir dekazu kurezor. Dumela kurezor. Uzmela kurezor./
 Helthos ko dokazor. «Ko vethor fir orvenos kedis vornon denos ar tambazor ar daimamen.»/
 .Nazdelos yarezor. Denon vornon yarezor. Ir sedon ol denos denon dokamen./
@@ -149,7 +149,7 @@ Kremila fa helthos ol ko ar keramen. Voza denon fir denos narathen‼ Thramezan 
 .Dorthene kedis ar koleramen thaurathen kezdamen./
 Felzur tharnelai. Yalzizon. Felzur tharnelai ir barkis. Kanai pozera fir zeltron./
 .Fenza. Thilartos. Korvela. Harlen ol en ir dena orthemai./
-Ul zirkoi, 90. Ir kauron fos talezoi ol ko denoi rozimamen./
+Ul zirkoi, lukemar umbaris. Ir kauron fos talezoi ol ko denoi rozimamen./
 .Fenza ir thelvaron sedon. Helthos ol ko. Karlon. Ko./
 Voza karlon ir kerathen‼ Voza zandira thaurathen‼ Voza ankelos fenza thaurathen‼/
 .Denon zunela rozon urkis yarezor. Urkis karalzon yarezor. Urkis thilamen.
@@ -228,7 +228,7 @@ Rozimamen. Samirthimmos rozimos un kormeros ol aistron yaremen./
 Ir orthemandon ol karzis, fenza yarezor, ul lokanthi tir dena tigamen./
 .Verosa. Dumela ul uzmela kuremen. Ethris zirkoi urzvalmamen./
 Ar zirkoi ol ko. Ol ethris verezos. Orvenos karvon thaurathen orfenazor./
-.Thorgila urkis thaurazor, 17 tharnelai denon marendamen./
+.Thorgila urkis thaurazor. Umbaris ul ranethur tharnelai marendamen./
 Zulmara ar silkamen. Silkathen sistamen. Kiramoi pozera ol denai halvethen dunazoi./
 .Kaldrema silkamen. Ir kedis karvuma urzizor ul rozimathen kerazor./
 Nembandon ol korvathis un kormeros. Yalzeme. Kamezos zandira karvandar yarezor./
