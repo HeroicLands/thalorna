@@ -6158,7 +6158,6 @@ data:
     - {name: Counsellor, tongue: translation}
     - {name: Courier, tongue: translation}
     - {name: Crew Boss, tongue: translation}
-    - {name: delkoshekh, tongue: ashaian}
     - {name: Earner, tongue: translation}
     - {name: Enforcer, tongue: translation}
     - {name: Fence, tongue: translation}
@@ -6174,8 +6173,6 @@ data:
     - {name: Master of Lookouts, tongue: translation}
     - {name: míthara, tongue: ashaian}
     - {name: mórvahna, tongue: ashaian}
-    - {name: roqeshekh, tongue: ashaian}
-    - {name: shekhul, tongue: ashaian}
     - {name: Second, tongue: translation}
     - {name: The Ash Road, tongue: translation}
     - {name: The Twelve of the Flame, tongue: translation}
@@ -6409,6 +6406,7 @@ data:
     - {form: zarman, instead: zarvina, why: "an Earth word, a woman's name"}
     - {form: bahar, instead: bahvar, why: "an Earth word, a member of the Warrior's Circle"}
     - {form: vast-bahar, instead: vazder-bahvar, why: "built on Earth words, the Circle's armband"}
+    - {form: Ashalan, instead: Ashaian, why: "a second spelling of the faith's name"}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"

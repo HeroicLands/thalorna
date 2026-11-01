@@ -15,8 +15,8 @@
  * of the renamed person.
  *
  * Read past, because they are not prose: a `shortcode:` line, a
- * `# terran_analog:` comment, a wikilink's target, a markdown link's target, an
- * address and inline code.
+ * `# terran_analog:` comment, a language note's `data.retired` row, a
+ * wikilink's target, a markdown link's target, an address and inline code.
  */
 
 import assert from "node:assert/strict";
@@ -239,6 +239,7 @@ export const RETIRED = [
         scope: "corpus",
     },
     { retired: ["Mōbadān-Shōfár"], replacement: "Tōqēl", scope: "corpus" },
+    { retired: ["Ashalan"], replacement: "Ashaian", scope: "corpus" },
     { retired: ["Shōfet", "Dūkhen"], replacement: "Zhūdek", scope: "corpus" },
     { retired: ["Gurdi"], replacement: "Vurdil", scope: "corpus" },
     { retired: ["garen"], replacement: "relvan", scope: "corpus" },
@@ -275,12 +276,14 @@ export const RETIRED = [
 ];
 
 const LETTER = "\\p{L}\\p{M}";
+/** A `data.retired` row, the one entry a language note's lists write with `instead`. */
+const RETIRED_ROW = /^- \{form: [^,{}]+, instead: /u;
 const NOT_PROSE =
     /\[\[[^\]|]*(?=[|\]])|\]\([^)]*\)|`[^`]*`|(?<![\w-])(?:affiliation|place|lore|being|skill|icon|image)-[a-z0-9]+/gu;
 
 /**
- * The prose of a note: every line but a shortcode or terran_analog line, with
- * link targets, addresses and code spans blanked.
+ * The prose of a note: every line but a shortcode line, a terran_analog line
+ * or a `data.retired` row, with link targets, addresses and code spans blanked.
  * @param {string} text
  * @returns {string[]}
  */
@@ -288,6 +291,7 @@ export function proseLines(text) {
     return text.split("\n").map((line) => {
         const bare = line.trimStart();
         if (bare.startsWith("shortcode:") || bare.startsWith("# terran_analog")) return "";
+        if (RETIRED_ROW.test(bare)) return "";
         return line.replace(NOT_PROSE, (m) => " ".repeat(m.length));
     });
 }
@@ -328,6 +332,7 @@ test("the sweep reads prose and passes over shortcodes, link targets and analogu
         "# terran_analog: Janus, the Roman god of gates",
         "See [[affiliation-janus|Faith of Árdavon]] and `Janus`.",
         "A priest of Jánus.",
+        "    - {form: Janus, instead: Árdavon, why: an Earth name}",
     ].join("\n");
     assert.deepEqual(sightings("x.md", text, ["Jánus", "Janus"]), ["x.md:4:13: Jánus"]);
 });

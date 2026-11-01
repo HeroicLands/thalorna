@@ -287,7 +287,7 @@ test("ordinary Provenzal respects its documented sound edges and attested except
     }
 });
 
-test("source receipts remain attested and older unresolved loans remain explicit", () => {
+test("source receipts and borrowed sources are attested", () => {
     const inherited = new Set(
         parent.fm.data.words.flatMap((word) => [
             word.form,
@@ -309,11 +309,7 @@ test("source receipts remain attested and older unresolved loans remain explicit
             );
         })
         .map(({ form, source }) => ({ form, source: source.form }));
-    // These existing references are preserved pending their own provenance correction.
-    assert.deepEqual(unresolved, [
-        { form: "tolmesa", source: "thólmesa" },
-        { form: "tilandon", source: "thíelandon" },
-    ]);
+    assert.deepEqual(unresolved, []);
 });
 
 const tarveni = read(process.env.TARVENI_PATH ?? "assets/content/Skills/Languages/Tarveni.md");

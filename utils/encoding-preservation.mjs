@@ -270,6 +270,35 @@ function withRegisterRenames(fm, file) {
     return copy;
 }
 
+/**
+ * Register rows removed by a ruling, by file: each baseline name and its
+ * tongue. The Ashaian priesthood titles belong to Atárzadi, which derives them.
+ */
+const registerRemovals = new Map([
+    [
+        "assets/content/Skills/Languages/Dunhari.md",
+        [
+            { name: "delkoshekh", tongue: "ashaian" },
+            { name: "roqeshekh", tongue: "ashaian" },
+            { name: "shekhul", tongue: "ashaian" },
+        ],
+    ],
+]);
+
+/** The baseline without those register rows. */
+function withRegisterRemovals(fm, file) {
+    const removals = registerRemovals.get(file);
+    if (!removals || !Array.isArray(fm.data?.register)) return fm;
+    const copy = structuredClone(fm);
+    copy.data.register = copy.data.register.filter(
+        (row) =>
+            !removals.some(
+                (item) => item.name === row?.name?.toLowerCase() && item.tongue === row?.tongue,
+            ),
+    );
+    return copy;
+}
+
 /** Languages whose English name lists moved under `names.en`, which the encoding never reads. */
 const englishNameLists = new Map([["assets/content/Skills/Languages/Nordmal.md", ["epithet"]]]);
 
@@ -349,12 +378,18 @@ export function assertEncodingMigrationPreserved(
     const file = current.file;
     const actual = canonical(current.fm, file),
         expected = canonical(
-            withRegisterRenames(
-                withRegisterSplits(
-                    withEnglishNameLists(
-                        withDroppedExamples(
-                            withRespellings(
-                                withTranslationRetags(withNameForms(before.fm, current.fm), file),
+            withRegisterRemovals(
+                withRegisterRenames(
+                    withRegisterSplits(
+                        withEnglishNameLists(
+                            withDroppedExamples(
+                                withRespellings(
+                                    withTranslationRetags(
+                                        withNameForms(before.fm, current.fm),
+                                        file,
+                                    ),
+                                    file,
+                                ),
                                 file,
                             ),
                             file,

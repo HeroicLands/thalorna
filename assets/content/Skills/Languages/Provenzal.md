@@ -318,7 +318,7 @@ data:
       class: n f
       field: Love and its conduct
       gloss: "a lover's vow; a promise made in the code of courtly love"
-      source: {kind: borrowed, language: skill-elvndrlng, form: thólmesa}
+      source: {kind: borrowed, language: skill-vylarilng, form: tholmeza}
     - form: tolmeza
       class: n f
       field: Love and its conduct
@@ -1406,7 +1406,7 @@ data:
       class: n m
       field: "Light, dream and the fey north"
       gloss: "an inscription in the old runes"
-      source: {kind: borrowed, language: skill-elvndrlng, form: thíelandon}
+      source: {kind: coined}
     - form: dirave
       class: n m
       field: "Light, dream and the fey north"
@@ -7903,7 +7903,7 @@ A man with no patron is _anzirote_, unplaced, which in Provenzia is not a descri
 
 ### Love and its conduct
 
-Courtly love is a code of conduct, and its vocabulary is borrowed from the north and from the law in roughly equal parts. A lover's vow is _tolmesa_, an Élavendri word; the native _tolmeza_ is the same word as it came down in the south, and it means a vow made before a notary. A _tolmesa_ cannot be sued on, and that is its point.
+Courtly love is a code of conduct, and its vocabulary is borrowed from the north and from the law in roughly equal parts. A lover's vow is _tolmesa_, borrowed from Vylari _tholmeza_; the native _tolmeza_ is the same word as it came down in the south, and it means a vow made before a notary. A _tolmesa_ cannot be sued on, and that is its point.
 
 The ache of absence, the longing for a person or a place or a time that is not coming back, is _solmere_, which in Élavendri means the smell of rain on its way. Provenzal took the word for its weather and made it a feeling, and it is the word every lyric in the tongue is built around.
 
