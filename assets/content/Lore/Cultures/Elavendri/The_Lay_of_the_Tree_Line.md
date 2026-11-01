@@ -286,11 +286,11 @@ Lusinia, threl tosri rounel/
 róugathen ukal pirnis gounel,/
 reik mundri. Hóuthathen‼ Tose, antherar,/
 gaeldathen tis, gaethe ukal derar./
-Kérnon gaele lórrame, nond góldar./
+Kerdon gaele lórrame, nond goldar./
 Treinen al pirnal. Gonde, gaema soldar,/
-ryenathen gere miron dúlkathen kérnon,/
+ryenathen gere miron dúlkathen kerdon,/
 gaethe ukal ryenathen al thernon./
-Gaeldathen kérnon gouthe ti grundis./
+Gaeldathen kerdon gouthe ti grundis./
 Salkathen‼ Róunithen al rundis./
 
 Al Berav róugathen, gaernar sirnon,/
@@ -303,155 +303,155 @@ griene gierth mouglar ryedamis, nond tharnis./
 Threl geinra al dulgis, gaethe marnis./
 Dárkathen al gorth tengin al kenralon,/
 al dáerela, al lonke rith thendalon./
-Gase lárgar geinde lourth en al árnon./
-Ternathen menthon reik sorgis al tárnon./
+Gase largar geinde lourth en al arnon./
+Ternathen menthon reik sorgis al tarnon./
 Dárkathen al dulgis mirlathron./
-Róugathen al kérthron gierth al sathron./
+Róugathen al kerthron gierth al sathron./
 Al mougon uken lóuvathen, varnar,/
 threl al gorth óstila gelgarnar./
 Ha kirdon árnathen melthis/
-lóthe ravale, gerth al elthis./
+lothe ravale, gerth al elthis./
 Al pirnon górnathen rith mundis./
 Géilathen tharan dolga rith grundis./
 Táldoren Orethan órnathen/
 gene dolga gierth kendar tórnathen./
-«Auran‼» Méndathen halthon. Lárgar ryenon,/
+«Auran‼» Méndathen halthon. Largar ryenon,/
 laegnar ólnare, gaethe al threnon./
 «Malmar nusri, málmathen gene halnis»,/
 ryenathen geinra, rith ruthon galnis./
 En gene auran, rith ukal daeron,/
-deiks al kérnon, deiks uk gaeron./
+deiks al kerdon, deiks uk gaeron./
 
-Hóuthathen al sémand nal al thelgis,/
-gierth al kérnon séimathen telgis./
+Hóuthathen al semand nal al thelgis,/
+gierth al kerdon séimathen telgis./
 Arlathon, greiklon, ukal ternis,/
-ráethathen al kérnon geisri kérnis./
+ráethathen al kerdon geisri kernis./
 Gase nal al giethon, nonduk lirnis,/
 uk thraemis marven, gaethe al kirnis./
-Nond sárgathen geinra. Ríenar/
+Nond sárgathen geinra. Rienar/
 lóuvathen gene, halmar reik grienar./
 
 Nond geinde arlathon méndathen,/
 árnathen lourth, reik théndathen,/
 Kírtala, uk darthand, ukar thara,/
 tárnevine nal gene myenara./
-Gélmira kergis, ravale lárgar,/
+Gélmira kergis, ravale largar,/
 uk kaives rith thraemis, dargar./
 Láegathen gene. «Tose en laethar./
 Ti tárneve en geildar, halthon gene daethar./
-Rith al sénthron nyes sélkathen/
+Rith al senthron nyes sélkathen/
 griene gierth al Hendron ti thélkathen‼/
 Nond rákathen‼ Nond málmathen tendar‼/
 Tose reik nyes goure rákathen, nond kendar./
 Sorhand, delkon nal salverth. Drun sárnathen‼/
 Uk, nond delkon. Thren arlathon árnathen‼»/
-Ryenathen al halthon «Nond‼ Auran kénand/
+Ryenathen al halthon «Nond‼ Auran kenand/
 méisathen gene, gose dryenand./
 Grienathen auran gierth ganda nengin./
 Reik lourth árnathen geinra drengin.»/
 Ryenathen gene «Gyese arnel kénathen,/
 griene tharan, auran reik, lénathen./
-Róugathen munde.» Sorhand, hérnon,/
-súldinne, pirnaland, nonduk kérnon./
+Róugathen munde.» Sorhand, hernon,/
+súldinne, pirnaland, nonduk kerdon./
 Ti ólnare en gene mirdon,/
 gierth munde, kirdon gonde kirdon./
-Ha kieron, gouthe ilmis reik kálve,/
+Ha kieron, gouthe ilmis reik kalve,/
 dyelar dúrmera, gonde al salve./
 
 Kírtala «Tosri deilnon tis lóuvathen./
-Al sénthron thar tengathen. Dóuvathen‼»/
+Al senthron thar tengathen. Dóuvathen‼»/
 Láegathen gierth sorhand genta, delkon,/
-tárneve uken, auran thélkon./
+tárneve uken, auran thelkon./
 Treinen al darthand. Auran sélgathen,/
 nonduk ánseve gene délgathen./
 Hóuthathen al sorhand, tenthar,/
 reik súndathen al lonke, menthar./
 Ukar róugathen auran, nond geinde/
-rith elthis. Al pirnaland, lárgar greinde/
+rith elthis. Al pirnaland, largar greinde/
 auran sélvore, gene líethathen,/
 gúrdamon angeindar gríethathen./
 
 Mouglar al lonke, mouglar kernsalve,/
-áulira neldar, ánhrason gaele kálve./
-Géilathen sénthron reik térgon, lóthe thélkon,/
+áulira neldar, ánhrason gaele kalve./
+Géilathen senthron reik tergis, lothe thelkon,/
 uk auran, tárneve gerth thorgon reik delkon./
 
 Al ílsevar halmar vérgathen,/
-gaende al sénthron, rith lonke térgathen,/
-sulner, nond gaethe tárgar, úldathen,/
+gaende al senthron, rith lonke térgathen,/
+sulner, nond gaethe torgar, úldathen,/
 reik auran, greinde kenlon, súldathen./
 Gyese gírdathen al gaethar,/
 seis sélgathen auran, nond laethar./
-Trámon halmar. Ukar sélgathen,/
-ránelon nonduk. Sénthron gélgathen./
+Tramon halmar. Ukar sélgathen,/
+ránelon nonduk. Senthron gélgathen./
 
-Lourth, greile íelne, pérnis, tóugathen,/
+Lourth, greile ielne, pernis, tóugathen,/
 véinathen, gaeldathen gene, róugathen./
-Nal ólvarne, gyethe ta kálve,/
+Nal ólvarne, gyethe ta kalve,/
 théndathen gene uk kirlis rith salve,/
 nóurethen gene. Gonde dúrgathen./
 Gelgarnar gene. Óssenda lúrgathen./
 
 Nond rákathen pattel, rith douris,/
 nond al tárneve, rith derar gouris./
-Nonduk henda. Váknar, nond daelmar,/
+Nonduk henda. Vaknar, nond daelmar,/
 neldar alnar, nonduk gaelmar./
 Mougathen ordur kieron. Geindathar,/
 hóuthathen gene gaethe Kérnalon, nathar./
 Greinde írvale nonduk málmathen,/
 reik óssenda al lonke hálmathen./
-Nonduk delkon seis kálve thárnathen./
+Nonduk delkon seis kalve thárnathen./
 Óssenda róugathen geth. Nonduk árnathen./
-Ta thraemis órnar, tárneve menthon,/
+Ta thraemis ornar, tárneve menthon,/
 nond kénathen kendar gene lenthon./
 
-Geisri en al ílsevar? Nond sárgar./
+Geisri en al ílsevar? Nond sargar./
 Lyero al lirve «Méisathen, auran vargar.»/
 Ryenathen al geiland, rith sarnis,/
 «Lourth uken darthand.» Nyes, rith tharnis,/
-lyero thend. Halmar gyethe ta kálve,/
+lyero thend. Halmar gyethe ta kalve,/
 nóurethen tose threl al salve./
 
-Nonduk kérnon, nonduk delkon. Alnar/
+Nonduk kerdon, nonduk delkon. Alnar/
 al tárneve, ta thraemis halnar./
 Pínathen Kírtala nal írvale./
 «Ránathen tose al tírvale.»/
 «Ílsevar.» «Ukal auran.» Míelathen/
 al halthon. Al pirnaland ríelathen./
-«Gere miron?» «Rith miron nond hérnon/
+«Gere miron?» «Rith miron nond hernon/
 sélgathen, gourthe, gouthe al thernon.»/
 «Gonde al halmar tose márnathen./
 Sárgathen tose dyelon. Griene árnathen‼»/
-Róugathen gene. Al sénthron, kurnar,/
-thar gouthe térgon, thoudrin nond gurnar./
+Róugathen gene. Al senthron, kurnar,/
+thar gouthe tergis, thoudrin nond gurnar./
 
 Ésalosa, rith gorth dulgis dielve,/
-mouglar, lárgar. Kernsalve, kergis, mielve./
+mouglar, largar. Kernsalve, kergis, mielve./
 Tena, al Hendron, nonduk dyelon,/
 géilathen nolgra rith grundelon./
 Gouthe ryethis delkon nond árnathen./
 Nond dárkathen gene gere thárnathen./
-Nond máldathen uron, nal árnon,/
+Nond máldathen uron, nal arnon,/
 théndathen gene, antherar tharnon./
-Ryenathen al uron «Sárgar mendon,/
+Ryenathen al uron «Sargar mendon,/
 uron, lyegon, laegkon, ukal kendon./
-Gierth al kérnon, nond uk liron./
+Gierth al kerdon, nond uk liron./
 Ryenathen tosri dyelon, tosri miron‼»/
 
-Góldathen al thílsel, al telgis,/
+Góldathen al thilsel, al telgis,/
 lesathen gene lanris threl thelgis./
 Arlathon, greiklon, ukal ternis,/
-ráethathen al kérnon geisri kérnis./
+ráethathen al kerdon geisri kernis./
 Gonde nal al giethon, nonduk lirnis,/
 uk thraemis marven, gaethe al kirnis./
-Sélkathen gene, gaethe kérnar,/
-al halmar. Nonduk séimon hernar./
+Sélkathen gene, gaethe kornar,/
+al halmar. Nonduk seimon hernar./
 
 Gonde rith henda. Gene théinathen,/
 lúrgathen geisna. Auran thréinathen,/
 «Sárgathen munde tosri daeron./
 Rith gaema dárkathen tose gaeron./
-Uk ágron gournar tose, geiri kérnar,/
+Uk agron gournar tose, geiri kornar,/
 rith mundri arlathon en anhernar./
 Mundri genta griene uken lénathen,/
 rith sórvanda, gyese tose kénathen.»/
@@ -467,26 +467,26 @@ Ryenathen al dyelon. Gene laethar,/
 nond gounel lóuvathen, rith mendon, saethar./
 
 Árnathen lourth. Sorhand, pirnaland, nal kernon,/
-gierth gene drékathen al hérnon./
+gierth gene drékathen al hernon./
 «Al ílsevar?» «Rith al lonke tengin.»/
 Súldathen gene gene nengin./
-Lourth gierth al thalgan. Nal gene táldon/
+Lourth gierth al thalgan. Nal gene taldon/
 háelathen geinra mirlar krel maldon./
 Róunithen Péravel gaethe mirnon,/
 lenthon threl al Berav, threl al sirnon./
 Tis, nal al giethon, nonduk lirnis,/
 uk thraemis marven, gaethe al kirnis./
 
-Al halthon lyero gene. Nond lárgar en/
+Al halthon lyero gene. Nond largar en/
 al ólnare. Kénathen geinra kren./
 Uk lenthon goure, threl derar ternis,/
-nond rith nusri. Nyes, nonduk kérnis./
+nond rith nusri. Nyes, nonduk kernis./
 Geinra ti ólnare. Nusri, varnar./
-Kérnon, lórrame, tose. Tosri árnar./
-Ryenathen gine, ta órnar thalnis,/
-gaethe gene‼ Súndar en al halnis./
-Nonduk thílsel. Gaema en al kernon./
-Tosri kérnon. Ryenathen al thernon‼/
+Kerdon, lórrame, tose. Tosri arnar./
+Ryenathen gine, ta ornar thalnis,/
+gaethe gene‼ Sundar en al halnis./
+Nonduk thilsel. Gaema en al kernon./
+Tosri kerdon. Ryenathen al thernon‼/
 Taldathen al pirnal. Nonduk lundis./
 Salkathen al halthon tosri rundis./
 :::
@@ -504,11 +504,11 @@ I say it with my mouth, and no page holds it.
 :::
 
 ::: {.verse form=oath lang=elav enc=elavsemaronenc work=the-lay-of-the-tree-line-2}
-En munde threl al mouglar ryedamis, reik al kérnon góldathen munde dúlkathen nal al salverth./
-Nond salkathen mundri arlathon uk ágron gournar al kenralon./
+En munde threl al mouglar ryedamis, reik al kerdon góldathen munde dúlkathen nal al salverth./
+Nond salkathen mundri arlathon uk agron gournar al kenralon./
 Nond róugathen mundri greisand griene rith al sórvanda, gyese nond kernathen geinra gene./
 Dúlkathen mundri tírvale rith miron thréinathen al géilalon./
-Ryenathen munde gene lóthe mundri gaema, reik nond dárkathen uk thílsel gene.
+Ryenathen munde gene lothe mundri gaema, reik nond dárkathen uk thilsel gene.
 :::
 
 The Bard of the Circle:
@@ -521,10 +521,10 @@ It stops where the first king came down.
 :::
 
 ::: {.verse form=lay lang=elav enc=elavsemaronenc work=the-lay-of-the-tree-line-3}
-Marlar. Halmar al thílsel. Al halnis/
+Marlar. Halmar al thilsel. Al halnis/
 salkathen, geinal. Tose rith thalnis./
-Légathen al kérnon gaele tharnon‼/
-Dúlkathen nal treinen auran lourth árnon.
+Légathen al kerdon gaele tharnon‼/
+Dúlkathen nal treinen auran lourth arnon.
 :::
 
 ## See Also

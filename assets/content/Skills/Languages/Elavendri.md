@@ -1981,7 +1981,7 @@ data:
       gloss: "a lock"
       concept: lock
       source: {kind: borrowed, language: skill-vylarilng, form: zundela}
-    - form: kézra
+    - form: kezra
       class: n
       field: "The hall and the guest"
       gloss: "a key"
@@ -1993,7 +1993,7 @@ data:
       gloss: "a window"
       concept: window
       source: {kind: borrowed, language: skill-vylarilng, form: okvela}
-    - form: hírkon
+    - form: hirkon
       class: n
       field: "The hall and the guest"
       gloss: "a cup"
@@ -2029,7 +2029,7 @@ data:
       gloss: "cloth"
       concept: cloth
       source: {kind: borrowed, language: skill-aelendlng, form: ghélthamon}
-    - form: vémrai
+    - form: vemrai
       class: n
       field: "The hall and the guest"
       gloss: "clothes; what is worn"
@@ -5128,7 +5128,7 @@ data:
 
     - {form: náemathen, class: v, field: "Doing, going and being", gloss: "name"}
 
-    - {form: sérne, class: adv, field: The bard and the word, gloss: "plainly"}
+    - {form: serne, class: adv, field: The bard and the word, gloss: "plainly"}
 
     - {form: lántheris, class: n, field: The land in keeping, gloss: "river meadow"}
 
@@ -5140,7 +5140,7 @@ data:
 
     - {form: déisnathen, class: v, field: "Doing, going and being", gloss: "pay"}
 
-    - {form: élthar, class: adj, field: "Doing, going and being", gloss: "living"}
+    - {form: olthar, class: adj, field: "Doing, going and being", gloss: "living"}
 
     - {form: ganthrel, class: n, field: The land in keeping, gloss: "bridge"}
 
@@ -5161,7 +5161,7 @@ data:
 
     - {form: sálnathen, class: v, field: "Doing, going and being", gloss: "plant"}
 
-    - {form: kálve, class: n, field: The wood and its weather, gloss: "birch"}
+    - {form: kalve, class: n, field: The wood and its weather, gloss: "birch"}
 
     - {form: giethar, class: adj, field: The land in keeping, gloss: "low"}
 
@@ -5236,7 +5236,7 @@ data:
 
     - {form: térgathen, class: v, field: "Doing, going and being", gloss: "turn or rotate"}
 
-    - {form: néivar, class: adj, field: "Craft, coin and the market", gloss: "new"}
+    - {form: neivar, class: adj, field: "Craft, coin and the market", gloss: "new"}
 
     - {form: pirnarnis, class: n, field: "Craft, coin and the market", gloss: "hank of thread"}
 
@@ -5270,15 +5270,15 @@ data:
 
     - {form: míelathen, class: v, field: "Doing, going and being", gloss: "smile"}
 
-    - {form: súndar, class: adj, field: "Doing, going and being", gloss: closed}
+    - {form: sundar, class: adj, field: "Doing, going and being", gloss: closed}
     - {form: pirnel, class: n, field: "Craft, coin and the market", gloss: "spindle"}
 
-    - form: lárgar
+    - form: largar
       class: adj
       field: Numbers and grammar words
       gloss: "long; extended in length or duration"
 
-    - {form: thélkand, class: n, field: The hall and the guest, gloss: "haulier"}
+    - {form: thelkand, class: n, field: The hall and the guest, gloss: "haulier"}
 
     - {form: kelgon, class: n, field: The wood and its weather, gloss: "ox"}
 
@@ -5298,7 +5298,7 @@ data:
 
     - {form: kurnar, class: adj, field: "Doing, going and being", gloss: "short"}
 
-    - {form: órnar, class: adj, field: "Doing, going and being", gloss: "open"}
+    - {form: ornar, class: adj, field: "Doing, going and being", gloss: "open"}
 
     - {form: rákathen, class: v, field: "Doing, going and being", gloss: "break"}
 
@@ -5306,11 +5306,11 @@ data:
 
     - {form: láernathen, class: v, field: "Doing, going and being", gloss: "weep"}
 
-    - {form: léine, class: n, field: "Craft, coin and the market", gloss: "flax"}
+    - {form: leine, class: n, field: "Craft, coin and the market", gloss: "flax"}
 
     - {form: shéirthathen, class: v, field: "Doing, going and being", gloss: "join broken thread"}
 
-    - {form: shéirthon, class: n, field: "Craft, coin and the market", gloss: "join in thread"}
+    - {form: sheirthon, class: n, field: "Craft, coin and the market", gloss: "join in thread"}
 
     - {form: drékathen, class: v, field: "Doing, going and being", gloss: "pull"}
 
@@ -5331,7 +5331,7 @@ data:
 
     - {form: sélgathen, class: v, field: "Doing, going and being", gloss: "follow"}
 
-    - form: trámon
+    - form: tramon
       class: n
       field: The land in keeping
       gloss: the region in front of something
@@ -5348,7 +5348,7 @@ data:
       gloss: "mile count"
       source: {kind: coined}
 
-    - {form: mílon, class: n, field: The land in keeping, gloss: "mile", source: {kind: coined}}
+    - {form: milon, class: n, field: The land in keeping, gloss: "mile", source: {kind: coined}}
 
     - form: auranra
       class: n
@@ -5380,7 +5380,7 @@ data:
       source: {kind: coined}
     - {form: talgon, class: n, field: The land in keeping, gloss: "pole", source: {kind: coined}}
 
-    - form: árnon
+    - form: arnon
       class: n
       field: The land in keeping
       gloss: "coming, arrival"
@@ -5399,7 +5399,7 @@ data:
       source: {kind: coined}
     - {form: greiklon, class: n, field: The land in keeping, gloss: "levy", source: {kind: coined}}
 
-    - form: andárgand
+    - form: andargand
       class: n
       field: The land in keeping
       gloss: "fool"
@@ -5432,9 +5432,9 @@ data:
       field: Colour and the look of things
       gloss: empty
       source: {kind: coined}
-    - {form: hérnon, class: n, field: The body and the dead, gloss: "dog", source: {kind: coined}}
+    - {form: hernon, class: n, field: The body and the dead, gloss: "dog", source: {kind: coined}}
 
-    - form: górkon
+    - form: gorkon
       class: n
       field: The body and the dead
       gloss: "hat or cap"
@@ -5446,7 +5446,7 @@ data:
       gloss: cohort
       source: {kind: coined}
     - {form: legandon, class: n, field: Arms and the border, gloss: legate, source: {kind: coined}}
-    - {form: nógand, class: n, field: Arms and the border, gloss: scout, source: {kind: coined}}
+    - {form: nogand, class: n, field: Arms and the border, gloss: scout, source: {kind: coined}}
     - form: drungailand
       class: n
       field: Craft, coin and the market
@@ -5475,14 +5475,14 @@ data:
       gloss: "charcoal burner"
       source: {kind: coined}
 
-    - {form: sénthron, class: n, field: The land in keeping, gloss: "path", source: {kind: coined}}
+    - {form: senthron, class: n, field: The land in keeping, gloss: "path", source: {kind: coined}}
 
     - form: rindulnis
       class: n
       field: The land in keeping
       gloss: nearness
       source: {kind: coined}
-    - {form: thrálel, class: n, field: The land in keeping, gloss: "apron", source: {kind: coined}}
+    - {form: thralel, class: n, field: The land in keeping, gloss: "apron", source: {kind: coined}}
 
     - form: muland
       class: n
@@ -5490,7 +5490,7 @@ data:
       gloss: "mule"
       source: {kind: coined}
 
-    - form: kréipar
+    - form: kreipar
       class: n
       field: Arms and the border
       gloss: a praepar; an imperial cohort commander
@@ -5522,13 +5522,13 @@ data:
       gloss: "late"
       source: {kind: coined}
 
-    - form: hórmon
+    - form: hormon
       class: n
       field: The land in keeping
       gloss: "opinion"
       source: {kind: coined}
 
-    - {form: kérnon, class: n, field: The hall and the guest, gloss: crown, source: {kind: coined}}
+    - {form: kerdon, class: n, field: The hall and the guest, gloss: crown, source: {kind: coined}}
     - form: gurnand
       class: n
       field: The land in keeping
@@ -5537,7 +5537,7 @@ data:
 
     - {form: thoudrin, class: n, field: The land in keeping, gloss: "step", source: {kind: coined}}
 
-    - form: sémand
+    - form: semand
       class: n
       field: Craft, coin and the market
       gloss: scribe
@@ -5548,12 +5548,12 @@ data:
       gloss: "write"
       source: {kind: coined}
 
-    - form: séimon
+    - form: seimon
       class: n
       field: Craft, coin and the market
       gloss: writing
       source: {kind: coined}
-    - form: tárnon
+    - form: tarnon
       class: n
       field: Craft, coin and the market
       gloss: "grain; the seed of the cereal, ground for bread"
@@ -5564,7 +5564,7 @@ data:
       gloss: tribute
       source: {kind: coined}
     - {form: mirlar, class: n, field: The land in keeping, gloss: town, source: {kind: coined}}
-    - form: thérhand
+    - form: therhand
       class: n
       field: The land in keeping
       gloss: "governor"
@@ -5586,13 +5586,13 @@ data:
       field: Numbers and grammar words
       gloss: Bell-Wether
       source: {kind: coined}
-    - {form: míelnis, class: n, field: The hall and the guest, gloss: joke, source: {kind: coined}}
-    - form: lórthen
+    - {form: mielnis, class: n, field: The hall and the guest, gloss: joke, source: {kind: coined}}
+    - form: lorthen
       class: n
       field: The hall and the guest
       gloss: walking stick
       source: {kind: coined}
-    - form: hórmel
+    - form: hormel
       class: n
       field: The body and the dead
       gloss: "helmet"
@@ -5603,7 +5603,7 @@ data:
       field: Colour and the look of things
       gloss: rusted
       source: {kind: coined}
-    - form: pálthar
+    - form: palthar
       class: adj
       field: Colour and the look of things
       gloss: folded
@@ -5619,7 +5619,7 @@ data:
       gloss: "rear region; the back of a place or a company"
       source: {kind: coined}
 
-    - form: ríenar
+    - form: rienar
       class: adj
       field: Colour and the look of things
       gloss: same, identical
@@ -5630,7 +5630,7 @@ data:
       gloss: [to hurt; to cause pain or injury to someone, injure or harm]
       source: {kind: coined}
       concept: hurt-verb
-    - form: Gélnand
+    - form: Gelnand
       class: n
       field: The bard and the word
       gloss: "student or candidate"
@@ -5648,18 +5648,18 @@ data:
       gloss: "invite"
       source: {kind: coined}
 
-    - form: kérnis
+    - form: kernis
       class: n
       field: The bard and the word
       gloss: "question"
       source: {kind: coined}
 
-    - form: shéirthar
+    - form: sheirthar
       class: adj
       field: Colour and the look of things
       gloss: repaired
       source: {kind: coined}
-    - {form: ólken, class: n, field: The hall and the guest, gloss: "fox", source: {kind: coined}}
+    - {form: olken, class: n, field: The hall and the guest, gloss: "fox", source: {kind: coined}}
 
     - {form: pirnal, class: n, field: The bard and the word, gloss: "harp", source: {kind: coined}}
 
@@ -5669,12 +5669,12 @@ data:
       gloss: "a harp string; one of the strung lines of a harp"
       source: {kind: coined}
 
-    - form: sárgar
+    - form: sargar
       class: adj
       field: Colour and the look of things
       gloss: known
       source: {kind: coined}
-    - form: ansárgar
+    - form: ansargar
       class: adj
       field: Colour and the look of things
       gloss: unknown
@@ -5685,7 +5685,7 @@ data:
       gloss: "tune a harp"
       source: {kind: coined}
 
-    - form: anríelar
+    - form: anrielar
       class: adj
       field: Colour and the look of things
       gloss: untuned
@@ -5695,7 +5695,7 @@ data:
       field: Colour and the look of things
       gloss: plain
       source: {kind: coined}
-    - form: gársar
+    - form: garsar
       class: adj
       field: Colour and the look of things
       gloss: made
@@ -5712,7 +5712,7 @@ data:
       gloss: "Archivist"
       source: {kind: coined}
 
-    - form: déisnon
+    - form: deisnon
       class: n
       field: The hall and the guest
       gloss: "payment"
@@ -5742,12 +5742,12 @@ data:
       gloss: "weapon"
       source: {kind: coined}
 
-    - form: thénnar
+    - form: thennar
       class: adj
       field: Colour and the look of things
       gloss: exact
       source: {kind: coined}
-    - form: nóurar
+    - form: nourar
       class: adj
       field: Colour and the look of things
       gloss: displayed
@@ -5758,7 +5758,7 @@ data:
       gloss: "power"
       source: {kind: coined}
 
-    - form: kérnar
+    - form: kornar
       class: adj
       field: Colour and the look of things
       gloss: requested
@@ -5774,7 +5774,7 @@ data:
       gloss: "speaking"
       source: {kind: coined}
 
-    - form: gélnon
+    - form: gelnon
       class: n
       field: The hall and the guest
       gloss: "study"
@@ -5786,13 +5786,13 @@ data:
       gloss: [willing; ready to act by one's own desire, desired]
       source: {kind: coined}
       concept: willing
-    - form: gélgan
+    - form: gelgan
       class: n
       field: The hall and the guest
       gloss: "loss"
       source: {kind: coined}
 
-    - form: úldand
+    - form: oldand
       class: n
       field: The hall and the guest
       gloss: "guide"
@@ -5814,7 +5814,7 @@ data:
       gloss: "utterance"
       source: {kind: coined}
 
-    - {form: súndel, class: n, field: The hall and the guest, gloss: latch, source: {kind: coined}}
+    - {form: sundel, class: n, field: The hall and the guest, gloss: latch, source: {kind: coined}}
     - form: delnon
       class: n
       field: The hall and the guest
@@ -5833,13 +5833,13 @@ data:
       gloss: "king"
       source: {kind: coined}
 
-    - form: táldon
+    - form: taldon
       class: n
       field: The land in keeping
       gloss: "stopping place"
       source: {kind: coined}
 
-    - form: thílsel
+    - form: thilsel
       class: n
       field: The bard and the word
       gloss: "page"
@@ -5851,7 +5851,7 @@ data:
       gloss: "foot or lower part of a page"
       source: {kind: coined}
 
-    - form: móuren
+    - form: mouren
       class: adv
       field: Numbers and grammar words
       gloss: "early"
@@ -5863,13 +5863,13 @@ data:
       gloss: "foot or base of a road"
       source: {kind: coined}
 
-    - form: kárnis
+    - form: karnel
       class: n
       field: Craft, coin and the market
       gloss: "cheese"
       source: {kind: coined}
 
-    - {form: kérthon, class: n, field: The land in keeping, gloss: "ore", source: {kind: coined}}
+    - {form: kerthon, class: n, field: The land in keeping, gloss: "ore", source: {kind: coined}}
 
     - {form: pirnon, class: n, field: The land in keeping, gloss: "barley", source: {kind: coined}}
 
@@ -5885,19 +5885,19 @@ data:
       gloss: "dig"
       source: {kind: coined}
 
-    - form: kérand
+    - form: kerand
       class: n
       field: Craft, coin and the market
       gloss: "digger"
       source: {kind: coined}
 
-    - form: dúrgand
+    - form: durgand
       class: n
       field: Craft, coin and the market
       gloss: "smith"
       source: {kind: coined}
 
-    - form: gúrvel
+    - form: gurvel
       class: n
       field: Craft, coin and the market
       gloss: "tongs"
@@ -5926,7 +5926,7 @@ data:
       gloss: "bake bread"
       source: {kind: coined}
 
-    - form: méthron
+    - form: methron
       class: n
       field: Craft, coin and the market
       gloss: "measuring rod"
@@ -5938,7 +5938,7 @@ data:
       gloss: "spoil from digging"
       source: {kind: coined}
 
-    - form: kéldron
+    - form: keldron
       class: n
       field: Craft, coin and the market
       gloss: "pickaxe"
@@ -5973,7 +5973,7 @@ data:
       gloss: "quay"
       source: {kind: coined}
 
-    - form: kérthron
+    - form: kerthron
       class: n
       field: The bard and the word
       gloss: "click sound of the high tongue"
@@ -5991,7 +5991,7 @@ data:
       gloss: "legal right or prerogative"
       source: {kind: coined}
 
-    - form: sóthon
+    - form: sothon
       class: n
       field: Craft, coin and the market
       gloss: "tax"
@@ -6037,19 +6037,19 @@ data:
       field: Doing, going and being
       gloss: hunt; pursue animals as quarry
       source: {kind: coined}
-    - form: pérnis
+    - form: pernis
       class: n
       field: The wood and its weather
       gloss: "bracken"
       source: {kind: coined}
 
-    - form: íelne
+    - form: ielne
       class: n
       field: The wood and its weather
       gloss: "yew"
       source: {kind: coined}
 
-    - form: váknar
+    - form: vaknar
       class: adj
       field: Colour and the look of things
       gloss: awake
@@ -6086,17 +6086,17 @@ data:
       field: Doing, going and being
       gloss: to show; to make a place or thing visible to someone
       source: {kind: coined}
-    - form: ágron
+    - form: agron
       class: n
       field: The Pact, the oath and the judgment
       gloss: a claim; a matter put forward for judgment
       source: {kind: coined}
-    - form: tárgar
+    - form: torgar
       class: adj
       field: Arms and the border
       gloss: hunted; pursued as quarry
       source: {kind: coined}
-    - form: térgon
+    - form: tergis
       class: n
       field: The land in keeping
       gloss: a turning; a bend in a path
@@ -6116,12 +6116,12 @@ data:
       field: Craft, coin and the market
       gloss: a light dry click; the sound of a slowing spinning wheel
       source: {kind: coined}
-    - form: tórnis
+    - form: tornis
       class: n
       field: The hall and the guest
       gloss: a knock; a tapping at a door
       source: {kind: coined}
-    - form: dírthe
+    - form: dirthe
       class: adj
       field: Doing, going and being
       gloss: having witnessed; having seen the thing in question
@@ -6131,7 +6131,7 @@ data:
       field: Doing, going and being
       gloss: a departure; a leaving
       source: {kind: coined}
-    - form: gérnar
+    - form: gernar
       class: adj
       field: Mountain, water and stone
       gloss: flowing; moving in a current
@@ -6141,17 +6141,17 @@ data:
       field: Colour and the look of things
       gloss: burned; damaged or marked by fire
       source: {kind: coined}
-    - form: góldar
+    - form: goldar
       class: adj
       field: Doing, going and being
       gloss: taken; removed from its previous keeping
       source: {kind: coined}
-    - form: thélkar
+    - form: thelkar
       class: adj
       field: Doing, going and being
       gloss: carried; held off the ground while being moved
       source: {kind: coined}
-    - form: géilar
+    - form: geilar
       class: adj
       field: Doing, going and being
       gloss: kept; maintained over time
@@ -6161,12 +6161,12 @@ data:
       field: Numbers and grammar words
       gloss: alone; without anyone else
       source: {kind: coined}
-    - form: árnar
+    - form: arnar
       class: n
       field: Numbers and grammar words
       gloss: an allotted turn; one person's occasion in an ordered succession
       source: {kind: coined}
-    - form: thélkon
+    - form: thelkon
       class: n
       field: Craft, coin and the market
       gloss: a load; baggage carried on a journey
@@ -6186,22 +6186,22 @@ data:
       field: Doing, going and being
       gloss: to stay; to remain in the place one has come to
       source: {kind: coined}
-    - form: lóthe
+    - form: lothe
       class: part
       field: Numbers and grammar words
       gloss: with; in the company of; precedes the person or thing that goes along
       source: {kind: coined}
-    - form: rákar
+    - form: rakar
       class: adj
       field: Doing, going and being
       gloss: broken; parted by force, said of a thread or a cord
       source: {kind: coined}
-    - form: lúrgar
+    - form: lurgar
       class: adj
       field: The wood and its weather
       gloss: fallen; felled, said of a tree that lies where it came down
       source: {kind: coined}
-    - form: láegar
+    - form: laegar
       class: adj
       field: The hall and the guest
       gloss: offered; set before a guest to be taken, said of food, a seat or an answer
@@ -6211,7 +6211,7 @@ data:
       field: Craft, coin and the market
       gloss: a spinning bee; the women's winter gathering to spin together and tell in turns
       source: {kind: coined}
-    - form: kénand
+    - form: kenand
       class: n
       field: The crown, the law and the University
       gloss: a crier; one who calls a lord's word aloud at the fords and the fairs
@@ -6864,13 +6864,13 @@ data:
     - {name: Sevrel, tongue: elavendri}
     - {name: Hálvireth, tongue: elavendri}
     - {name: Sílvera, tongue: elavendri}
-    - {name: Táeren, tongue: elavendri}
+    - {name: Taeren, tongue: elavendri}
     - {name: Méldoreth, tongue: elavendri}
     - {name: Óuravel, tongue: elavendri}
     - {name: Deneth, tongue: elavendri}
     - {name: Kálvorin, tongue: elavendri}
     - {name: Therseth, tongue: elavendri}
-    - {name: Ráenor, tongue: elavendri}
+    - {name: Raenor, tongue: elavendri}
     - {name: Ílthera, tongue: elavendri}
     - {name: Gálveren, tongue: elavendri}
     - {name: Velthar, tongue: elavendri}

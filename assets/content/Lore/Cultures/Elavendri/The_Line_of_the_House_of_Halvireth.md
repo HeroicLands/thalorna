@@ -48,7 +48,7 @@ up to the first. Hear, house and feast.
 :::
 
 ::: {.verse form=sirnerne lang=elav enc=elavsemaronenc work=the-line-of-the-house-of-halvireth-1}
-Légathen al hírkon, nond hálmathen‼/
+Légathen al hirkon, nond hálmathen‼/
 Lyero munde, gonde nyes málmathen./
 Súndathen ganda, kérnathen kraenon‼/
 Nond en mundri uk leithon. En saenon./
@@ -65,14 +65,14 @@ Halthon, kurnis, salkathen al ryenon‼
 The line:
 
 ::: {.verse form=sirnerne lang=en work=the-line-of-the-house-of-halvireth-2}
-[Sílvera]{.name data-type="being/npc" lang=elav}, named tonight, whose other name is not for this hall, child of [Táeren]{.name data-type="being/npc" lang=elav}./
-Táeren, who holds the house, and keeps the river-meadows, and whose people eat, child of [Méldoreth]{.name data-type="being/npc" lang=elav}./
+[Sílvera]{.name data-type="being/npc" lang=elav}, named tonight, whose other name is not for this hall, child of [Taeren]{.name data-type="being/npc" lang=elav}./
+Taeren, who holds the house, and keeps the river-meadows, and whose people eat, child of [Méldoreth]{.name data-type="being/npc" lang=elav}./
 Méldoreth, who followed the art at Péravel and came home, and kept a harper twenty years and paid him, child of [Óuravel]{.name data-type="being/npc" lang=elav}./
 Óuravel, in whose years the silver stopped going east, who built the living bridge over the mill-race, which stands, child of [Deneth]{.name data-type="being/npc" lang=elav}./
 Deneth, who held the house in her own right, and in the year the rain came wrong unbarred the stores, child of [Kálvorin]{.name data-type="being/npc" lang=elav}./
 Kálvorin, for whom the oak stands at the ford-gate, child of [Therseth]{.name data-type="being/npc" lang=elav}./
-Therseth, who stood on the north shore the year the fleets came, and came home, child of [Ráenor]{.name data-type="being/npc" lang=elav}./
-Ráenor, whom a bard of standing sang against, and who lived it down, and never named the bard, child of [Ílthera]{.name data-type="being/npc" lang=elav}./
+Therseth, who stood on the north shore the year the fleets came, and came home, child of [Raenor]{.name data-type="being/npc" lang=elav}./
+Raenor, whom a bard of standing sang against, and who lived it down, and never named the bard, child of [Ílthera]{.name data-type="being/npc" lang=elav}./
 Ílthera, who held a chair at court against [[affiliation-ordoarcanis|the Order]], and kept it, child of [Gálveren]{.name data-type="being/npc" lang=elav}./
 Gálveren, who planted the birch in the low meadow for his brother, which stands, child of Velthar./
 Velthar, who went up to the fair at Elanmere and sang the line there, and was heard, child of [Sarhel]{.name data-type="being/npc" lang=elav}./
@@ -91,16 +91,16 @@ And up past [Dhargan]{.name data-type="being/npc"}, to the snow on the pass, and
 :::
 
 ::: {.verse form=sirnerne lang=elav enc=elavsemaronenc work=the-line-of-the-house-of-halvireth-2}
-Sílvera, náemathen nyes gene ti óssenda, al derar lenthon nond en gierth ti halthon, kenlon threl Táeren./
-Táeren, dárkathen gene al halthon, géilathen gene al lántheris, reik málmathen al kendonalon, kenlon threl Méldoreth./
+Sílvera, náemathen nyes gene ti óssenda, al derar lenthon nond en gierth ti halthon, kenlon threl Taeren./
+Taeren, dárkathen gene al halthon, géilathen gene al lántheris, reik málmathen al kendonalon, kenlon threl Méldoreth./
 Méldoreth, sélgathen gene al simme rith Péravel reik árethathen gierth halthon, géilathen gene uk pirnaland ta taehes kirdon reik déisnathen gene, kenlon threl Óuravel./
-Óuravel, rith al kirdon nond róugathen grend al ánhrason gierth írvaloste, háelathen gene al élthar ganthrel geth al úlmedera, reik véinathen to, kenlon threl Deneth./
+Óuravel, rith al kirdon nond róugathen grend al ánhrason gierth írvaloste, háelathen gene al olthar ganthrel geth al úlmedera, reik véinathen to, kenlon threl Deneth./
 Deneth, dárkathen gene al halthon rith al telgis gene, reik rith al kirdon árnathen al ravale angeildar, órnathen gene al dólgalon, kenlon threl Kálvorin./
 Kálvorin, gierth gene véinathen al kernsalve nal al thalgan, kenlon threl Therseth./
-Therseth, théndathen gene gaele al nelgon lirve rith al kirdon árnathen al sirthalon, reik árethathen gene gierth halthon, kenlon threl Ráenor./
-Ráenor, gársathen uk hanar lyeronno uk gurmougon gierth gene, reik élthethen gene gouthe gene, reik nengin náemathen gene al lyeronno, kenlon threl Ílthera./
+Therseth, théndathen gene gaele al nelgon lirve rith al kirdon árnathen al sirthalon, reik árethathen gene gierth halthon, kenlon threl Raenor./
+Raenor, gársathen uk hanar lyeronno uk gurmougon gierth gene, reik élthethen gene gouthe gene, reik nengin náemathen gene al lyeronno, kenlon threl Ílthera./
 Ílthera, dárkathen gene uk ómbela rith al arlathon gournar al Thórdimalon, reik géilathen gene to, kenlon threl Gálveren./
-Gálveren, sálnathen gene al kálve rith al giethar ilmis gierth al ondren, reik véinathen to, kenlon threl Velthar./
+Gálveren, sálnathen gene al kalve rith al giethar ilmis gierth al ondren, reik véinathen to, kenlon threl Velthar./
 Velthar, róugathen gene griene gierth al kurnand nal Elanmere, reik lyero gene al sírnerne goure, reik salkathen geinra, kenlon threl Sarhel./
 Sarhel, gélgathen gene al pirnalhalthon gierth al henda, reik háelathen gene to grend rith kergis, kenlon threl Nerrin./
 Nerrin, uk pirnaland threl ti halthon, hóuthathen gene rith al Rontha, kenlon threl Árnolen./
@@ -137,11 +137,11 @@ Róunithen nond kendar. Nonduk lundis./
 Sílvera, rith gene en tosri lenthon,/
 al molthon gierth Orethan, uk menthon,/
 al henda, nal thalgan pattel kernsalve,/
-al ómbela rith arlathon, al kálve,/
+al ómbela rith arlathon, al kalve,/
 al aulde, griene, al neilis halmar./
 Tosri. Géilathen‼ Kenrison malmar./
-Gine hréinathen al hírkon‼ Lyero grend‼/
-Élthar, óllevine, lyero munde thend.
+Gine hréinathen al hirkon‼ Lyero grend‼/
+Olthar, óllevine, lyero munde thend.
 :::
 
 : The names in the line {#names}
@@ -152,13 +152,13 @@ The house sings the heads of its line by their sun names. The highland names abo
 | ------------- | ------------------------------------------------------------------------------------------------ |
 | **Hálvireth** | A house of the Berav basin holding river-meadows below Péravel                                   |
 | **Sílvera**   | The child named at the feast                                                                     |
-| **Táeren**    | Her father, head of the house                                                                    |
+| **Taeren**    | Her father, head of the house                                                                    |
 | **Méldoreth** | Who studied the art at Péravel and kept a harper                                                 |
 | **Óuravel**   | Head of the house when the tribute lapsed; builder of the living bridge                          |
 | **Deneth**    | Who held the house in her own right and opened its stores in a bad year                          |
 | **Kálvorin**  | For whom the oak at the ford-gate was planted                                                    |
 | **Therseth**  | Who fought on the north shore in the years of the fleets                                         |
-| **Ráenor**    | Who outlived a satire                                                                            |
+| **Raenor**    | Who outlived a satire                                                                            |
 | **Ílthera**   | Who held a chair at court against the Arcane Order                                               |
 | **Gálveren**  | Who planted the birch in the low meadow for his brother                                          |
 | **Velthar**   | Who first sang the line at the Elanmere fair                                                     |
