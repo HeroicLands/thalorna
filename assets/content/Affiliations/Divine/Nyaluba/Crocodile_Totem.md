@@ -61,7 +61,7 @@ The **Crocodile Totem** centers on the [[lore-crocodilekolembozispr|Crocodile Sp
 
 The Kolembozi maintain the most elaborate shamanic practice of any Nyáluba clan, and it is the crocodile that requires it. Their _zherami nyende_ are sought across the savannahs for matters of judgment, healing, and the negotiation of difficult spirits, and their standing rests on a simple demonstration: they deal daily with a guide that kills, and they keep their people alive doing it.
 
-Kinship here is literal to a degree outsiders find disturbing. A Kolembozi who loses a relative to a crocodile speaks of that crocodile by name and by lineage, and considers the matter a family affair—to be settled, not avenged.
+Kinship here is literal to a degree outsiders find disturbing. A Kolembozi who loses a relative to a crocodile speaks of that crocodile by name and by lineage, and considers the matter a family affair—to be settled, not avenged. [[lore-settlingfigs|The Settling at the Two Figs]] is the fire story of one such settling, at a crossing whose crocodile and family share an account two generations old.
 
 ## Appeasement
 

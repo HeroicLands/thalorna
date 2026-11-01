@@ -452,6 +452,11 @@ data:
       field: "Hull, tide and knot"
       gloss: "a shoal or reef"
       built: ["hitus-", "-u"]
+    - form: hitusum
+      class: "n"
+      field: "Hull, tide and knot"
+      gloss: "the one who lies hidden under water: a thing at sea unseen until it rises"
+      built: ["hitus-", "-um"]
     - {form: "zupum-", class: stem, field: "Hull, tide and knot", gloss: "to run", concept: run}
     - form: zupumush
       class: "n"
@@ -6791,6 +6796,30 @@ data:
     - {name: Tarruk Eshkarum, tongue: taruzeli}
     - {name: Magistrate Tarruk Eshkarum, tongue: translation}
     - {name: Magistrate Eshkarum, tongue: translation}
+    - {name: When the Sea Owed Nothing, tongue: translation}
+    - {name: The Harbor Due, tongue: translation}
+    - {name: Tanaduya, tongue: taruzeli, built: [tanad-, -uya]}
+    - {name: Helarum Kubasuni, tongue: taruzeli, built: [helar-, -um, kubas-, -uni]}
+    - {name: Kubasuni, tongue: taruzeli, built: [kubas-, -uni]}
+    - {name: Tanaduni, tongue: taruzeli, built: [tanad-, -uni]}
+    - {name: Balinuni, tongue: taruzeli, built: [balin-, -uni]}
+    - {name: Hitusuni, tongue: taruzeli, built: [hitus-, -uni]}
+    - {name: Of the One Who Asked for a Year, tongue: translation}
+    - {name: Numaru Kadumi, tongue: taruzeli, built: [numar-, -u, kadum-, -i]}
+    - {name: Rumukuya Kadumi, tongue: taruzeli, built: [rumuk-, -uya, kadum-, -i]}
+    - {name: The Honey Owed Under the Water, tongue: translation}
+    - {name: Visizuni, tongue: taruzeli, built: [visiz-, -uni]}
+    - {name: Azara Visizuni, tongue: taruzeli}
+    - {name: Visizan, tongue: taruzeli, built: [visiz-, -an]}
+    - {name: The One Under the Water, tongue: translation}
+    - {name: The Black Island, tongue: translation}
+    - {name: The Dispute of the Hull and the Strongroom, tongue: translation}
+    - {name: What Was Paid at the Shoals, tongue: translation}
+    - {name: Shabaru Hitusuni, tongue: taruzeli}
+    - {name: Tirmana Zadduni, tongue: taruzeli}
+    - {name: Gadarun, tongue: taruzeli}
+    - {name: The Road Paid Three Times, tongue: translation}
+    - {name: Bilgun, tongue: taruzeli}
   retired:
     - {form: Tamavar, instead: Besikar, why: one letter from an Earth word}
     - {form: Kethara, instead: Yamuzel, why: an Earth word}

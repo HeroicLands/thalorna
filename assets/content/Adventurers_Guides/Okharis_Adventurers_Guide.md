@@ -10,7 +10,7 @@ data: {packFolder: adventurersguides, culture: okharinclt}
 
 > You come into [[place-kaljekor|Kaljekor]] in the last heat of the afternoon, walking behind a herd. The dust the cattle raise hangs red-gold in the low sun, it is in your teeth and the creases of your hands, and the lowing of a thousand animals rolls ahead of you into the town. Then the pyramid stands up out of the haze, terrace on terrace of red sandstone, and every terrace is a market: awnings of striped cloth, copper pans flashing, bolts of linen and stacked hides, and at the top a thin column of smoke going straight up into the still air. The festival has filled the place. Herdsmen with spears and wool cloaks crowd the lower steps, foreheads smeared gray with ashmark; a priest-noble in a collar of beaten gold is carried through them in a chair, and nobody makes room until he is nearly on top of them. Merchants up from Au'Khelathu weigh silver on hand scales. Children run between the legs of the cattle, and somewhere a drum is keeping time for dancers you cannot see.
 >
-> A tall woman with close-cropped hair and a cloak of brown and white calfskin pushes out of the crowd, an ox-goad over one shoulder and a gourd in her hand. She counts the herd as it passes her, lips moving, before she looks at you. "_Okharé, ne thalé_," she says, loud and cheerful, a greeting that hails you as one of the people: Okharik one, greetings. "[Ádhora]{.name data-type="being/npc"}, of the line of [Kithma]{.name data-type="affiliation/lineage"}, of the [Táluméng]{.name data-type="affiliation/lineage"}, of Kaljekor." She pulls the stopper from the gourd with her teeth and hands it to you, and it is soured milk, cold from the shade, while her herders stand by watching to see you drink.
+> A tall woman with close-cropped hair and a cloak of brown and white calfskin pushes out of the crowd, an ox-goad over one shoulder and a gourd in her hand. She counts the herd as it passes her, lips moving, before she looks at you. "_okharé, ne thalé_," she says, loud and cheerful, a greeting that hails you as one of the people: Okharik one, greetings. "[Ádhora]{.name data-type="being/npc"}, of the line of [Kithma]{.name data-type="affiliation/lineage"}, of the [Táluméng]{.name data-type="affiliation/lineage"}, of Kaljekor." She pulls the stopper from the gourd with her teeth and hands it to you, and it is soured milk, cold from the shade, while her herders stand by watching to see you drink.
 
 [[affiliation-okharis|Okharis]] is a hot kingdom on the southern margin of [[place-xerathia|Zerathia]]'s fertile belt, between [[place-bethuargn|Bethua]] to the east and the [[place-cntrlrnfrsts|Central Rainforests]], trackless except by its rivers, to the south. In the west the rain does the work that canals do elsewhere: barley, sorghum, flax, dates and figs grow on it, and the village tribes farm, fish and fell timber from fixed seats. Eastward the land dries to savanna, and the people follow cattle, sheep, goats and small sturdy horses between seasonal grazings on cycles so old they are a religious duty. Three temple-cities stand above it all, and the herds and the cities need each other.
 
@@ -31,6 +31,17 @@ The dangers are the herds' dangers. Raiders take cattle, a clan pushes into a va
 ## Ways In
 
 A clan hires you to drive its herd to the festival through country where a rival clan claims the grazing. A merchant swore falsely on the Scales of Kaljekor, the year and a day is nearly out, and his family wants someone to find out what is coming for him. The [[affiliation-magaratrb|Magara]] have lost a [Spirit Blade]{.name data-type="weapongear"} to raiders. A shaman of the [[affiliation-shokumatrb|Shókuma]] wants an escort into Yanda Zohiring and will not say what she means to ask.
+
+## What Is Chanted and Told
+
+The temple's chants are held by heart in the old register, and the clans' tellings are told at the fold gate, the cairn and the ford. These are heard most often:
+
+- [[lore-hymnthrfires|The Hymn of the Three Fires]] is the creation hymn chanted at the Rite of Three Fires, and its refrain is known by everyone who has stood outside a temple court at the Rekindling: [One fire. Not three.]{.verse}
+- [[lore-ashbornsong|The Song of the Burnt Ground]] is the Ashborn war-hymn, answered by the whole line: [We stand on ash.]{.verse}
+- [[lore-guestprice|The Guest-Price]] tells why a stranger is handed soured milk at the fold gate, and what the Khelathi wrote down when they drank it.
+- [[lore-scalesoath|The Oath at the Scales]] is the market tale behind the saying every trader at Kaljekor says before a weighing: [Dry salt. Thirsty cow.]{.verse}
+- [[lore-bonesanswer|The Answer from the Bones]] is the Night of Ashes telling of a shaman's one question to the Oracle of Bones and the one word it answered.
+- [[lore-emberroad|The Ember on the Road]] is the telling of a new fire carried home from Zarhanis, and of a valley paid for one coal.
 
 ## Where to Read Next
 

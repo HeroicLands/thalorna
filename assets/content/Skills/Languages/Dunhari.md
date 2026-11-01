@@ -17,6 +17,8 @@ data:
     - name: "Ground, water and settlement"
       holds: "The acts a settled place is named for: walling, threshing, pressing, sowing, drawing."
     - {name: Sayings, holds: "Words met in the proverbs and blessings the language note gives."}
+    - name: "The poets"
+      holds: "The forms the poets, the women and the readers give their words in."
     - name: "The Warrior's Circle"
       holds: "The marks, ranks and gatherings of the Warrior's Circle."
     - name: "Everyday speech"
@@ -5878,6 +5880,21 @@ data:
       field: Everyday speech
       gloss: hidden; kept from sight or knowledge
       source: {kind: coined}
+    - form: sharvend
+      class: "n"
+      field: "The poets"
+      gloss: "an ode; one long poem held on a single end-sound, moving from the empty camp through the journey to the boast"
+      source: {kind: coined}
+    - form: qorvend
+      class: "n"
+      field: "The poets"
+      gloss: "a lament; the poem a woman makes over one of her own dead, held on a single end-sound"
+      source: {kind: coined}
+    - form: pevrend
+      class: "n"
+      field: "The poets"
+      gloss: "a reading in rhymed prose; runs of short clauses that close on one sound, as a reader speaks the sky, a mystic a vision or a judging poet a finding"
+      source: {kind: coined}
   icon: icon-speaking
   templatePriority: null
   packFolder: language
@@ -6937,6 +6954,17 @@ A settled place is named for the work done on its ground, and its ending says wh
 SELECT form AS "Form", class AS "Class", gloss AS "Gloss", built_text AS "Built from", coalesce(array_to_string(list_transform(attested, a -> '[[' || a || '|]]'), ', '), '—') AS "Attested"
 FROM words
 WHERE language = 'thalorna-note-skill-dunharlng' AND field = 'Ground, water and settlement' AND split_part(class, ' ', 1) IN ('name', 'stem', 'pref')
+ORDER BY position
+```
+
+### The poets
+
+The poets, the women at a death and the readers of the storm cults each give their words in a form with its own name, and each form is held on sound. An ode, _sharvend_, keeps one end-sound from its first line to its last, and so does a woman's lament, _qorvend_. A reading, _pevrend_, is rhymed prose: short clauses in runs, each run closing on one sound, the way a reader speaks the sky, a mystic speaks what he was shown and a judging poet gives a finding. A recitation of a line or a settlement is a _sevvar_, the word for any performance given before others.
+
+```sql
+SELECT form AS "Form", class AS "Class", gloss AS "Gloss"
+FROM words
+WHERE language = 'thalorna-note-skill-dunharlng' AND field = 'The poets'
 ORDER BY position
 ```
 

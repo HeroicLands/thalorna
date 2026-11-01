@@ -6475,6 +6475,25 @@ data:
     - name: ngende ngabeli
       tongue: nyaluban
       gloss: "the Stone Tongue, the speech in Lusheya's recital"
+    - {name: bwelende, tongue: nyaluban, gloss: "a Lobwezi town whose baobab died before the Pact"}
+    - name: shendala
+      tongue: nyaluban
+      gloss: "a Lobwezi town whose baobab died in the Pact's time"
+    - name: lombesa
+      tongue: nyaluban
+      gloss: "a Lobwezi town that took in households of both dispersals"
+    - {name: ndawelo, tongue: nyaluban, gloss: "a Lobwezi town by a red pan"}
+    - {name: nyelambe, tongue: nyaluban, gloss: "a Lobwezi town in the far grass"}
+    - {name: nyandaya, tongue: nyaluban, gloss: "a crocodile of the reach below the Two Figs"}
+    - {name: mbeshoya, tongue: nyaluban, gloss: "a crocodile, the mother of Nyandaya"}
+    - {name: Crossing of the Two Figs, tongue: translation}
+    - {name: Night Grass, tongue: translation}
+    - {name: The Braid of the Daughters, tongue: translation}
+    - {name: The First Share, tongue: translation}
+    - {name: The Keeper of the Spring, tongue: translation}
+    - {name: The Night Grass, tongue: translation}
+    - {name: The Settling at the Two Figs, tongue: translation}
+    - {name: The Song of the Two Dispersals, tongue: translation}
   retired:
     - {form: Mvuzi, instead: Ruwozi, why: "built on an Earth word, the lion-clan"}
     - {form: Kambezi, instead: Kolembozi, why: "built on an Earth place name, the crocodile-clan"}

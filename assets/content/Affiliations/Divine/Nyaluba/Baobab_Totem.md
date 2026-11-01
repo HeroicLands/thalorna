@@ -63,7 +63,7 @@ Each Lobwezi town centers on an ancient tree—some a thousand years old or more
 
 ## Veneration
 
-The tree is the shrine; there is no other. Offerings are made at its root by each household of the town, and the tally is kept by the town's griot. A Lobwezi town whose baobab dies does not replant and does not stay: the guide has withdrawn, the pact with that ground is ended, and the town disperses to others. This has happened twice in remembered history, and both dispersals are named in the memory-songs.
+The tree is the shrine; there is no other. Offerings are made at its root by each household of the town, and the tally is kept by the town's griot. A Lobwezi town whose baobab dies does not replant and does not stay: the guide has withdrawn, the pact with that ground is ended, and the town disperses to others. This has happened twice in remembered history, and both dispersals are named in the memory-songs; [[lore-twodispersals|The Song of the Two Dispersals]] counts the households of Bwelende and Shendala and the towns that took them in.
 
 ## See Also
 

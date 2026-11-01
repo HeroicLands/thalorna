@@ -118,6 +118,17 @@ The year is told by the festival and the migration, and the festivals are held a
 - [The Market of Flames]{.name data-type="lore/gathering"} is the yearly trade festival at Kaljekor. Merchants make offerings at the Golden Flame's temple before the year's most important transactions, and oaths sworn during it are held sacred and unbreakable. It is for binding the year's bargains.
 - **The festivals at each temple complex** draw pilgrims from across the kingdom and are where the clans' disputes are heard, marriages arranged and herds traded.
 
+## What Is Chanted and Told
+
+The priests hold the temple's chants by heart in the old register and few outside the priesthood learn them whole, but the refrains reach the court wall, and the tellings of the clans are told at the fold gate, at the cairn and on the move. These are the works an Okharin hears most often:
+
+- [[lore-hymnthrfires|The Hymn of the Three Fires]] is the creation hymn the senior clergy chant at the Rite of Three Fires, the one fire before all things seen white, gold and red, and every herdsman knows its refrain from outside the court at the Rekindling: [One fire. Not three./Before all things, the fire endures.]{.verse}
+- [[lore-ashbornsong|The Song of the Burnt Ground]] is the Ashborn war-hymn of Vuthraka, chanted on the march and in the line, and the company answers its calls with two set lines, the first of them: [We stand on ash.]{.verse}
+- [[lore-guestprice|The Guest-Price]] is a Táluméng household telling of the Khelathi embassy that drank at a fold gate and wrote the feast down as tribute, told the first time the lineage's young carry the milk to a stranger.
+- [[lore-scalesoath|The Oath at the Scales]] is the Kaljekor market tale of the wet salt and the watered heifer, told to the apprentices of the Crown Trades on the night before the Market of Flames, and its saying is said at every weighing: [Dry salt. Thirsty cow.]{.verse}
+- [[lore-bonesanswer|The Answer from the Bones]] is a Shókuma telling for the Night of Ashes, of a woman put out of the Flame and her brother's one question to the Oracle of Bones, told by households that feed a dead person at the cairn whom no temple receives.
+- [[lore-emberroad|The Ember on the Road]] is a Magara telling of a girl who carried the new fire home from Zarhanis at the Rekindling and took a coal from a feuding lineage's fire, told on the first day of the move past the valley her lineage yielded to pay for it.
+
 ## Favor and Ash
 
 Reward is the Flame's favor, shown in the herd, the harvest and the standing a person carries. The faithful walk [The Firewalk]{.name data-type="lore/custom"} and are said to have Nkaru'thar's direct favor if they cross unburnt. A warrior who proves himself in the Trial of Flames bears the Warden's Brand, the scars worn with pride. A candidate who survives the Spirit Hunt is a kwendari zohiring for life. A seeker of high priestly office fasts three days, keeping three sacred fires alight through storm and wind. A merchant who keeps his oath on the Scales prospers.

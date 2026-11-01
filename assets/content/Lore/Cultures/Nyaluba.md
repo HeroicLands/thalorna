@@ -86,7 +86,16 @@ There is no writing here and no shortage of records, because there are griots—
 
 A Nyáluban therefore treats speech as an instrument with weight. What is said at a Lubemo is remembered exactly, by someone whose whole standing rests on remembering it exactly, and a man who says a careless thing in front of a griot has not made a remark. He has entered a record.
 
-Two works carry that attitude. [[lore-swearbaobab|The Swearing Under the Baobab]] is the lion cult's memory-song of the Pact's swearing, sung by the Ruwozi griot and answered line by line by people who already know it; it is how the five terms are learned, counted on one hand, and its answers turn up in ordinary speech. [[lore-stonetongue|The Stone Tongue]] gives one account twice, as the griots recite the Lubemo record and as it is told at the fire, and it teaches where a record ends and a story begins.
+The works most often heard and quoted among the five:
+
+- [[lore-swearbaobab|The Swearing Under the Baobab]] is the lion cult's memory-song of the Pact's swearing, sung by the Ruwozi griot and answered line by line by people who already know it; it is how the five terms are learned, counted on one hand, and its answers turn up in ordinary speech.
+- [[lore-stonetongue|The Stone Tongue]] gives one account twice, as the griots recite the Lubemo record and as it is told at the fire, and it teaches where a record ends and a story begins.
+- [[lore-braiddaughters|The Braid of the Daughters]] is the Ruwozi griot's recital of the six women who have carried the title Nyoli Ruwozi, given at the opening of each Lubemo, and it keeps the knot of a name the griot will not speak.
+- [[lore-twodispersals|The Song of the Two Dispersals]] is sung at Lombesa when a child whose line runs back to Bwelende or Shendala is named, and it counts the households of the two towns whose baobabs died and the towns that made room.
+- [[lore-nightgrass|The Night Grass]] is sung to every Sengala cohort at its initiation, and it praises the regiment that lay three nights in the grass and brought the taken home by name.
+- [[lore-settlingfigs|The Settling at the Two Figs]] is the Kolembozi fire story of a crocodile spoken of by name and lineage, and of the brother who would not say the word.
+- [[lore-keeperspring|The Keeper of the Spring]] is told at the Ékunda spring of the year it ran thin in the drought-war, and it ends on a question the fire must answer.
+- [[lore-firstshare|The First Share]] is the Sengala traders' story of the Brightness told two ways, the first pact made with a guide and the first share held back.
 
 ## What Is Good, and What Succeeds
 

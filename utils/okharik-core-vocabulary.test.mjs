@@ -165,7 +165,7 @@ test("Okharik preserves original words, meanings, names, metadata and prose", ()
     data.retired = data.retired.filter((row) => !respelled.some(([, was]) => row.form === was));
     assert.equal(
         hash({ ...note.fm, data }),
-        "cd7f6820e3718f28aea376e6d9de21c7afe012794a6c91b8818c2853c33a89ed",
+        "1b8e2b381cbf125aec0d2ff85705948d18e973411e32c990b7c2d35c39191c1c",
     );
     assert.equal(
         hash(fields.slice(0, -1)),
@@ -184,7 +184,7 @@ test("Okharik preserves original words, meanings, names, metadata and prose", ()
                 .replace(romanNote + "\n\n", "")
                 .replace(/\n## Everyday speech\n[\s\S]*$/u, ""),
         ),
-        "321bca994318f80824b6550b6fd03f501cab882398d69feb506da3895a7fcea0",
+        "b1ba0c56bc8ff7416393ee2cd7b1c750e9f5cf32f2a19ba05b2baa2acf6ad258",
     );
     const beforeData = { ...note.fm.data, words: words.slice(0, 85), fields: fields.slice(0, -1) },
         before = pieceGlosses(beforeData),

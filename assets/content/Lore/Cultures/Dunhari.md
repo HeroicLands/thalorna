@@ -52,7 +52,7 @@ A tribe is led by a sheikh whose authority rests on hereditary legitimacy, perso
 
 Hospitality is sacred, and it is a law before it is a kindness. A Dunhari tribe is obliged to protect a stranger who has eaten its salt—against its own kin, against a rival tribe, at the cost of open war if it comes to that, and without regard to who the stranger turns out to be.
 
-The rule is absolute because a qualified rule would be worthless. A desert in which shelter depended on the traveler's identity would be a desert nobody could cross. A tribe that gave up a guest would not recover in a generation.
+The rule is absolute because a qualified rule would be worthless. A desert in which shelter depended on the traveler's identity would be a desert nobody could cross. A tribe that gave up a guest would not recover in a generation. A Kinless man is owed nothing, and the salt holds for him all the same, as Hadushan says at the herd in [[lore-hadushantelling|the Telling of Hadushan the Kinless]]: [a man of nobody ate the salt of Tizhva of the Mushtan, and the salt held.]{.verse}
 
 The obligation has limits in time and not in kind: it begins with the salt and runs for a stated period after the guest departs, and both parties know the count. The host breaks the bread, presses a pinch of salt into the torn edge and holds it out until the guest has eaten, and only then asks a name. Salt binds the guest as well. A guest who brings a feud into the host's tent has shamed the host.
 
@@ -122,6 +122,14 @@ A poet recites for days without repetition. The ability to compose and recite is
 
 This makes memory a contested field. Two tribes in dispute produce two recitations, and the argument is conducted in front of poets from a third tribe who are qualified to judge which version is sound.
 
+The works the tribes call for most, and quote most:
+
+- [[lore-blackstonesode|The Ode of the Black Stones]] is the ode called for first when the poets contend at Ghavulavad: an empty camp, a night crossing of the Pale Floor, and the boast of a grandfather who killed his last camel for a guest of the tribe at feud with his own.
+- [[lore-twomouthsweighing|The Weighing at the Well of Two Mouths]] is the weighing an apprentice learns first at Vazhmavad, where a judging poet hears that one line of a tribe's recitation was made in the cities and strikes it.
+- [[lore-hadushantelling|The Telling of Hadushan the Kinless]] is the northern circuit's winter telling of a man cast out by his own kin, who held a widow's salt against raiders and was claimed at the price of the herd he saved.
+- [[lore-dervunlament|The Lament of Dervun]] is raised at the Festival of the Departed for a brother whose blood was paid in camels, and it keeps the settlement and counts the camels, and asks for nothing.
+- [[lore-lastguestreading|The Last Guest]] is the reading the voice-bearers give on the last night of the Summer Vigil: the sand walking north over every well, and a widow's fire holding the end at the edge of a count of days.
+
 ## The Bridge
 
 The Dunhari believe what the Ashaian faith teaches: after death the soul crosses the [Chinvat Bridge]{.name data-type="place/structure"}, wide and steady for the righteous and a razor's edge for the wicked. The crossing is no trial imposed from outside. It is the natural consequence of how one has lived, and the bridge is as wide as the good thoughts, words and deeds that built it.
@@ -132,7 +140,7 @@ On an ordinary day that belief makes the Dunhari watch their mouths. The false w
 
 The living reach the dead through the fire and the verse. A fire-keeper kindles a death-fire whenever a soul departs, and the storm cults conduct the funerals and the camp's rites. On the night of the Festival of the Departed the families speak their dead aloud around the fire, recounting deeds of virtue and courage and asking the god to guide each soul across. The poets carry the lines of the dead in the recitation, which is why the Dunhari spend a lifetime shaping the line.
 
-The dead do not reach the living. They reach the account: a debt unpaid, a feud unsettled, a verse that is told rightly or wrongly. The rite costs the carrying of the body across the sand and the kindling of the fire, and the fire-keeper who goes with it.
+The dead do not reach the living. They reach the account: a debt unpaid, a feud unsettled, a verse that is told rightly or wrongly. A settled feud stays settled, and the grief does not: in [[lore-dervunlament|the Lament of Dervun]] the sister who counted the camels of her brother's blood-price lights his fire every night, and the women answer her refrain: [Nemver, the tent is open, and you do not come in.]{.verse} The rite costs the carrying of the body across the sand and the kindling of the fire, and the fire-keeper who goes with it.
 
 ## What a Person Owes
 

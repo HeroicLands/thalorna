@@ -100,6 +100,17 @@ Taruzelians are not much interested in doctrine and are very interested in omens
 
 The [[affiliation-ordoarcanis|Thordimalon]] keeps chapters in the major cities, but the guilds suspect it of serving Vylarian interests and restrict its work. Hedge mages, alchemists and fortune-tellers are more common here than in Vylaria, and in Kudumel the traditions that come with the caravans are practiced openly.
 
+## What the Coast Recites
+
+The temples and the counting-houses keep the old rolls, and the quays, the veterans' halls and the hill fires keep the rest. These works are heard most often, and their lines turn up in ordinary talk:
+
+- [[lore-seaowednothing|When the Sea Owed Nothing]] is read from Besikar's breakwater at the [Harbor Due]{.name data-type="lore/gathering"} each spring, when every house carries a stone down to the water and the First throws half a tally into the harbor mouth.
+- [[lore-askedforayear|Of the One Who Asked for a Year]] is read at home on the nights of the [Festival of the Silent Passage]{.name data-type="lore/gathering"}, the story of a great lender who tries to buy a year from death and is not even refused.
+- [[lore-honeyowed|The Honey Owed Under the Water]] is a captain's tale of a jar of honey bargained to a sea-thing for passage forever, and of the house that still pays it.
+- [[lore-hullstrongroom|The Dispute of the Hull and the Strongroom]] is the [Festival of the Golden Harvest]{.name data-type="lore/gathering"} comedy in which a ship and a counting-house boast until the goddess's priestess makes them partners.
+- [[lore-paidattheshoals|What Was Paid at the Shoals]] is the veterans' song of the four things promised and the four coins paid, sung in Yamuzel's halls under the broadsheet.
+- [[lore-roadpaidthrice|The Road Paid Three Times]] is the hill tribes' telling of a man who took three wages for one pass, and of the war the hills fought without a paper.
+
 ## Neighbors
 
 Across the strait to the east, the Kingdom of Amradad holds the shore where the caravan roads reach the sea. Amradad, long hostile to Vylaria, was among those who helped Taruzel win its independence, and relations with it are cordial. Beyond the Amradi shore, the nomads of Dunhara and the Khazryn hold the overland routes the island cities depend on, a relationship that profits both sides and is seldom easy.

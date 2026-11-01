@@ -366,7 +366,7 @@ data:
     - form: mbesom
       class: v
       field: Everyday speech
-      gloss: "to see; to look; to watch attentively by continuing to look at a person, thing or event. Ngem mbesom ngwelit: I see the boar. Ngem mbesom ngwelit thamili: I watch the boar for a while."
+      gloss: "to see; to look; to watch attentively by continuing to look at a person, thing or event. ngem mbesom ngwelit: I see the boar. ngem mbesom ngwelit thamili: I watch the boar for a while."
       concept: [see-verb, look, watch, expression-look]
     - form: mbesu
       class: n
@@ -408,12 +408,12 @@ data:
     - form: mbesin
       class: adj
       field: Everyday speech
-      gloss: "visible; able to be discerned by sight in the stated conditions. Ngwelit thumom mbesin: the boar is visible."
+      gloss: "visible; able to be discerned by sight in the stated conditions. ngwelit thumom mbesin: the boar is visible."
       concept: visible
     - form: mbes mbesin
       class: adj
       field: Everyday speech
-      gloss: "invisible; unable to be discerned by sight in the stated conditions. Ngwelit thumom mbes mbesin: the boar is invisible."
+      gloss: "invisible; unable to be discerned by sight in the stated conditions. ngwelit thumom mbes mbesin: the boar is invisible."
       concept: invisible
     - form: ntekom
       class: v
@@ -515,7 +515,7 @@ data:
     - form: mbelom
       class: v
       field: Everyday speech
-      gloss: "to seem; to give an impression. Ngorili mbelom gorthin: the cord seems hard."
+      gloss: "to seem; to give an impression. ngorili mbelom gorthin: the cord seems hard."
       concept: seem
     - form: ndorbu
       class: n
@@ -646,7 +646,7 @@ data:
     - form: thimbaru
       class: n
       field: Everyday speech
-      gloss: confidence in one's capacity or an outcome; subjective certainty that a belief is right. Thimbaru can be mistaken; it does not mean truth.
+      gloss: confidence in one's capacity or an outcome; subjective certainty that a belief is right. thimbaru can be mistaken; it does not mean truth.
       concept: [confidence, certainty]
     - form: ndeshenu
       class: n
@@ -681,7 +681,7 @@ data:
     - form: lembaru mbenthing
       class: n
       field: Everyday speech
-      gloss: longing; persistent desire for an absent person or something beyond reach. Mbenthu names the absent person or thing desired.
+      gloss: longing; persistent desire for an absent person or something beyond reach. mbenthu names the absent person or thing desired.
       concept: longing
     - form: beloru thambing lembaring
       class: n
@@ -761,7 +761,7 @@ data:
     - form: membelu mbenaring mbemoi
       class: n
       field: Everyday speech
-      gloss: universal selfless love; caring regard for all human beings without demanding a return. Mbenaring mbemoi gives the whole relevant human set as the recipients of the affection.
+      gloss: universal selfless love; caring regard for all human beings without demanding a return. mbenaring mbemoi gives the whole relevant human set as the recipients of the affection.
       concept: love-agape
     - form: lemkharu
       class: n
@@ -1090,7 +1090,7 @@ data:
     - form: uzhoru
       class: n
       field: Everyday speech
-      gloss: "water. Ngem mbathurom uzhoru: I have water."
+      gloss: "water. ngem mbathurom uzhoru: I have water."
       concept: water
     - form: ngemoru
       class: n
@@ -1135,7 +1135,7 @@ data:
     - form: mbathurom meborku
       class: v
       field: Everyday speech
-      gloss: "to be hungry; to have hunger. Ngem mbathurom meborku: I am hungry."
+      gloss: "to be hungry; to have hunger. ngem mbathurom meborku: I am hungry."
       concept: hungry
     - form: uzhelku
       class: n
@@ -1145,17 +1145,17 @@ data:
     - form: mbathurom uzhelku
       class: v
       field: Everyday speech
-      gloss: "to be thirsty; to have thirst. Ngem mbathurom uzhelku: I am thirsty."
+      gloss: "to be thirsty; to have thirst. ngem mbathurom uzhelku: I am thirsty."
       concept: thirsty
     - form: ngemom mbo
       class: v
       field: Everyday speech
-      gloss: "to inhale; to draw a breath in. Ngem ngemom mbo: I breathe in."
+      gloss: "to inhale; to draw a breath in. ngem ngemom mbo: I breathe in."
       concept: inhale
     - form: ngemom ngo
       class: v
       field: Everyday speech
-      gloss: "to exhale; to let a breath out. Ngem ngemom ngo: I breathe out."
+      gloss: "to exhale; to let a breath out. ngem ngemom ngo: I breathe out."
       concept: exhale
     - form: ngemkom
       class: v
@@ -1205,12 +1205,12 @@ data:
     - form: mbemin nkarin
       class: adj
       field: Everyday speech
-      gloss: "warm; pleasantly or moderately hot. Uzhoru thumom mbemin nkarin: the water is warm."
+      gloss: "warm; pleasantly or moderately hot. uzhoru thumom mbemin nkarin: the water is warm."
       concept: warm
     - form: mbemin ngolin
       class: adj
       field: Everyday speech
-      gloss: "cool; moderately cold. Uzhoru thumom mbemin ngolin: the water is cool."
+      gloss: "cool; moderately cold. uzhoru thumom mbemin ngolin: the water is cool."
       concept: cool
     - form: ngolom
       class: v
@@ -1246,7 +1246,7 @@ data:
     - form: mbathurom pembelu
       class: v
       field: Everyday speech
-      gloss: "to be pregnant; to carry a developing child. Ngem mbathurom pembelu: I am pregnant."
+      gloss: "to be pregnant; to carry a developing child. ngem mbathurom pembelu: I am pregnant."
       concept: pregnant
     - form: pemburu
       class: n
@@ -1256,12 +1256,12 @@ data:
     - form: zharurom pemburu
       class: v
       field: Everyday speech
-      gloss: "to give birth to a child. Yombel zharurom pemburu: the mother gives birth."
+      gloss: "to give birth to a child. yombel zharurom pemburu: the mother gives birth."
       concept: give-birth
     - form: mebelom mbenem yombelu
       class: v
       field: Everyday speech
-      gloss: "to nurse a child at the breast. Yombel mebelom yombilu mbenem yombelu: the mother nurses her son at the breast."
+      gloss: "to nurse a child at the breast. yombel mebelom yombilu mbenem yombelu: the mother nurses her son at the breast."
       concept: nurse
     - form: pembelom
       class: v
@@ -1318,7 +1318,7 @@ data:
     - form: nkarin mborekin
       class: adj
       field: Everyday speech
-      gloss: feverish; hot with illness. Mbenaru thumom nkarin mborekin describes the person’s feverish bodily heat.
+      gloss: feverish; hot with illness. mbenaru thumom nkarin mborekin describes the person’s feverish bodily heat.
       concept: feverish
     - form: mborku
       class: n
@@ -1398,7 +1398,7 @@ data:
     - form: mbathurom mborku
       class: v
       field: Everyday speech
-      gloss: "to hurt; to experience bodily pain. Ngem mbathurom mborku: I am in pain."
+      gloss: "to hurt; to experience bodily pain. ngem mbathurom mborku: I am in pain."
       concept: hurt-pain
     - {form: pembaru, class: n, field: Everyday speech, gloss: a father, concept: father}
     - form: pemboru
@@ -1429,12 +1429,12 @@ data:
     - form: sombili mbenarin pemboring
       class: n
       field: Everyday speech
-      gloss: an uncle; a brother of one’s mother or father. Pemboring qualifies the complete brother expression as the parent’s brother.
+      gloss: an uncle; a brother of one’s mother or father. pemboring qualifies the complete brother expression as the parent’s brother.
       concept: uncle
     - form: sombili mbenelin pemboring
       class: n
       field: Everyday speech
-      gloss: an aunt; a sister of one’s mother or father. Pemboring qualifies the complete sister expression as the parent’s sister.
+      gloss: an aunt; a sister of one’s mother or father. pemboring qualifies the complete sister expression as the parent’s sister.
       concept: aunt
     - form: yombili sombiling pemboring
       class: n
@@ -1459,7 +1459,7 @@ data:
     - form: yombili pembomin
       class: n
       field: Everyday speech
-      gloss: an orphan; a child with no living parent. Pembomin describes the child’s lack of a living parent.
+      gloss: an orphan; a child with no living parent. pembomin describes the child’s lack of a living parent.
       concept: orphan
     - form: mbenelin lembari ndengin
       class: n
@@ -1494,7 +1494,7 @@ data:
     - form: lembarom
       class: v
       field: Everyday speech
-      gloss: "to marry; to enter marriage with someone. Ngem lembarom lemkherari: I marry my beloved."
+      gloss: "to marry; to enter marriage with someone. ngem lembarom lemkherari: I marry my beloved."
       concept: marry
     - form: somberu
       class: n
@@ -1581,7 +1581,7 @@ data:
     - form: mbethoru nkaring ombeling
       class: n
       field: Everyday speech
-      gloss: a hearth; the physical place in a house where a fire is maintained, literally the place of the household fire. Nkaring qualifies the place as a fire-place; ombeling sets it in the dwelling.
+      gloss: a hearth; the physical place in a house where a fire is maintained, literally the place of the household fire. nkaring qualifies the place as a fire-place; ombeling sets it in the dwelling.
       concept: hearth
     - form: ndozhu
       class: n
@@ -1927,12 +1927,12 @@ data:
     - form: mbes mbathurom zhomelu
       class: v
       field: Everyday speech
-      gloss: "to be clear of clouds; said of the sky or weather. Zhekoru mbes mbathurom zhomelu: the sky has no clouds."
+      gloss: "to be clear of clouds; said of the sky or weather. zhekoru mbes mbathurom zhomelu: the sky has no clouds."
       concept: clear-weather
     - form: mbathurom zhomelu
       class: v
       field: Everyday speech
-      gloss: "to be cloudy; to have clouds. Zhekoru mbathurom zhomelu: the sky is cloudy."
+      gloss: "to be cloudy; to have clouds. zhekoru mbathurom zhomelu: the sky is cloudy."
       concept: cloudy
     - form: mbanoru
       class: n
@@ -1998,22 +1998,22 @@ data:
     - form: ngamin
       class: num
       field: Everyday speech
-      gloss: "many when counting things; much when measuring a substance. Ngamin mebothu: many pots; ngamin uzhoru: much water."
+      gloss: "many when counting things; much when measuring a substance. ngamin mebothu: many pots; ngamin uzhoru: much water."
       concept: [many, much]
     - form: ngomin
       class: num
       field: Everyday speech
-      gloss: "few when counting things; little when measuring a substance. Ngomin mebothu: few pots; ngomin uzhoru: little water."
+      gloss: "few when counting things; little when measuring a substance. ngomin mebothu: few pots; ngomin uzhoru: little water."
       concept: [few, little-quantity]
     - form: mbekhu
       class: num
       field: Everyday speech
-      gloss: "none; zero; no members or quantity of the stated set. Mbekhu mebothu: no pots."
+      gloss: "none; zero; no members or quantity of the stated set. mbekhu mebothu: no pots."
       concept: [none, zero]
     - form: thokalu ket
       class: num
       field: Everyday speech
-      gloss: "fourth; thokalu before a cardinal gives its ordinal position. Mebothu thumom thokalu ket: the pot is fourth in the row; thokalu mbethen is hundredth."
+      gloss: "fourth; thokalu before a cardinal gives its ordinal position. mebothu thumom thokalu ket: the pot is fourth in the row; thokalu mbethen is hundredth."
       concept: ordinal-construction
     - form: kethilu
       class: num
@@ -2033,82 +2033,82 @@ data:
     - form: mborinmu
       class: num
       field: Everyday speech
-      gloss: "enough; as many or as much as needed for the stated purpose. Mborinmu uzhoru mbon meboru: enough water for the food."
+      gloss: "enough; as many or as much as needed for the stated purpose. mborinmu uzhoru mbon meboru: enough water for the food."
       concept: enough
     - form: ngorel
       class: num
       field: Everyday speech
-      gloss: "more; a greater number or amount. Ngorel uzhoru mborethen tebu: more water than this."
+      gloss: "more; a greater number or amount. ngorel uzhoru mborethen tebu: more water than this."
       concept: more
     - form: ngomel
       class: num
       field: Everyday speech
-      gloss: "less; a smaller number or amount. Ngomel uzhoru mborethen tebu: less water than this."
+      gloss: "less; a smaller number or amount. ngomel uzhoru mborethen tebu: less water than this."
       concept: less
     - form: ngorel mborethen mbemoi mbenerin
       class: num
       field: Everyday speech
-      gloss: "most; more than every other member of the comparison set. Mebothu tebu mbathurom ngorel uzhoru mborethen mbemoi mbenerin mebothu: this pot has more water than all the other pots. Mbenerin excludes the target pot."
+      gloss: "most; more than every other member of the comparison set. mebothu tebu mbathurom ngorel uzhoru mborethen mbemoi mbenerin mebothu: this pot has more water than all the other pots. mbenerin excludes the target pot."
       concept: most
     - form: ngomel mborethen mbemoi mbenerin
       class: num
       field: Everyday speech
-      gloss: "least; less than every other member of the comparison set. Mebothu tebu mbathurom ngomel uzhoru mborethen mbemoi mbenerin mebothu: this pot has less water than all the other pots."
+      gloss: "least; less than every other member of the comparison set. mebothu tebu mbathurom ngomel uzhoru mborethen mbemoi mbenerin mebothu: this pot has less water than all the other pots."
       concept: least
     - form: ngorimin
       class: adj
       field: Everyday speech
-      gloss: "equal; the same in number, measure or standing. Mbet mebothu thumom ngorimin mbo uzhoru: the two pots are equal in their water quantity."
+      gloss: "equal; the same in number, measure or standing. mbet mebothu thumom ngorimin mbo uzhoru: the two pots are equal in their water quantity."
       concept: equal
     - form: mben
       class: num
       field: Everyday speech
-      gloss: "each; every member considered separately. Mben mebothu mbathurom uzhoru: each pot contains water."
+      gloss: "each; every member considered separately. mben mebothu mbathurom uzhoru: each pot contains water."
       concept: each
     - form: mbetin
       class: num
       field: Everyday speech
-      gloss: both; the two together. Mbetin uzhoru ngeme meboru thumom mbethu means both water and food are here; the paired things follow mbetin and are joined by ngeme.
+      gloss: both; the two together. mbetin uzhoru ngeme meboru thumom mbethu means both water and food are here; the paired things follow mbetin and are joined by ngeme.
       concept: [both, both-conjunction]
     - form: em mbeting
       class: num
       field: Everyday speech
-      gloss: "either one of the two; one selected from that pair. Zharurom em mbeting mebothu: give either of the two pots."
+      gloss: "either one of the two; one selected from that pair. zharurom em mbeting mebothu: give either of the two pots."
       concept: either
     - form: mbekhu mbeting
       class: num
       field: Everyday speech
-      gloss: "neither of the two; no member selected from the pair. Mbekhu mbeting mebothu thumom uzhorin: neither pot is wet."
+      gloss: "neither of the two; no member selected from the pair. mbekhu mbeting mebothu thumom uzhorin: neither pot is wet."
       concept: neither
     - form: ngorut
       class: adv
       field: Everyday speech
-      gloss: "about; approximately, before a quantity. Ngorut ntem mebothu thumom mbethu: about ten pots are here."
+      gloss: "about; approximately, before a quantity. ngorut ntem mebothu thumom mbethu: about ten pots are here."
       concept: about
     - form: mbetel ndokel
       class: adv
       field: Everyday speech
-      gloss: "almost; just short of the stated quantity or completion, literally near below. Mbetel ndokel ntem mebothu thumom mbethu: almost ten pots are here, with the count still below ten."
+      gloss: "almost; just short of the stated quantity or completion, literally near below. mbetel ndokel ntem mebothu thumom mbethu: almost ten pots are here, with the count still below ten."
       concept: almost
     - form: ngorim
       class: adv
       field: Everyday speech
-      gloss: "exactly; precisely at the stated number or measure. Ngorim ntem mebothu: exactly ten pots."
+      gloss: "exactly; precisely at the stated number or measure. ngorim ntem mebothu: exactly ten pots."
       concept: exactly
     - form: ngorimu
       class: n
       field: Everyday speech
-      gloss: "a number or amount; a counted or measured quantity. Ngorimu mebothing thumom ntem: the number of pots is ten. Ngorimu uzhoring thumom mbet uzhelili: the amount of water is two cups."
+      gloss: "a number or amount; a counted or measured quantity. ngorimu mebothing thumom ntem: the number of pots is ten. ngorimu uzhoring thumom mbet uzhelili: the amount of water is two cups."
       concept: [number, amount]
     - form: mbedom
       class: v
       field: Everyday speech
-      gloss: "to measure a quantity, length or other dimension. Ngem mbedom uzhoru mbenem uzhelili: I measure the water with a cup."
+      gloss: "to measure a quantity, length or other dimension. ngem mbedom uzhoru mbenem uzhelili: I measure the water with a cup."
       concept: measure-verb
     - form: ngorimom
       class: v
       field: Everyday speech
-      gloss: "to count things. Ngem ngorimom mebothu: I count the pots."
+      gloss: "to count things. ngem ngorimom mebothu: I count the pots."
       concept: count-verb
     - {form: zhebin, class: adj, field: Everyday speech, gloss: white in colour, concept: white}
     - {form: zhembin, class: adj, field: Everyday speech, gloss: red in colour, concept: red}
@@ -2170,32 +2170,32 @@ data:
     - form: ngenom
       class: v
       field: Everyday speech
-      gloss: "to go; to move from one place to another; to walk when travelling on foot. Ngem ngenom mbor ombelu: I walk toward the house."
+      gloss: "to go; to move from one place to another; to walk when travelling on foot. ngem ngenom mbor ombelu: I walk toward the house."
       concept: [go, walk]
     - form: mbekom
       class: v
       field: Everyday speech
-      gloss: "to come; to arrive at the speaker's place or a stated destination. Ngem mbekom mbor ombelu: I arrive at the house."
+      gloss: "to come; to arrive at the speaker's place or a stated destination. ngem mbekom mbor ombelu: I arrive at the house."
       concept: [come, arrive]
     - form: ndalom
       class: v
       field: Everyday speech
-      gloss: "to take; to receive, including catching an offered or thrown object before it falls. Ngem ndalom uzhelili: I take the cup; ngem ndalom uzhelili mbo ngemoru: I catch the cup in the air."
+      gloss: "to take; to receive, including catching an offered or thrown object before it falls. ngem ndalom uzhelili: I take the cup; ngem ndalom uzhelili mbo ngemoru: I catch the cup in the air."
       concept: [take, catch]
     - form: thabom
       class: v
       field: Everyday speech
-      gloss: "to make; to do; to create something. Ngem thabom ndelaru: I make a table; ngem thabom thabelu: I do the work."
+      gloss: "to make; to do; to create something. ngem thabom ndelaru: I make a table; ngem thabom thabelu: I do the work."
       concept: [make, do, create]
     - form: zhepom
       class: v
       field: Everyday speech
-      gloss: "to say; to speak; to tell someone a matter. Ngem zhepom mbor ndem: I speak to you; ngem zhepom zhepulu mbor ndem: I tell you a tale."
+      gloss: "to say; to speak; to tell someone a matter. ngem zhepom mbor ndem: I speak to you; ngem zhepom zhepulu mbor ndem: I tell you a tale."
       concept: [say, speak, tell]
     - form: mbethom
       class: v
       field: Everyday speech
-      gloss: "to know a person, fact or practice. Ngem mbethom ndem: I know you."
+      gloss: "to know a person, fact or practice. ngem mbethom ndem: I know you."
       concept: know
     - form: mbendom
       class: v
@@ -2205,7 +2205,7 @@ data:
     - form: lembom
       class: v
       field: Everyday speech
-      gloss: "to want; to wish for a person, thing or outcome. Ngem lembom uzhoru: I want water."
+      gloss: "to want; to wish for a person, thing or outcome. ngem lembom uzhoru: I want water."
       concept: [want, wish-verb]
     - form: pembinom
       class: v
@@ -2245,12 +2245,12 @@ data:
     - form: mbathom
       class: v
       field: Everyday speech
-      gloss: "to carry; to bring by carrying or leading toward the speaker or stated destination adopted as the viewpoint. Ngem mbathom mebothu mbor ndem: I bring the pot to you."
+      gloss: "to carry; to bring by carrying or leading toward the speaker or stated destination adopted as the viewpoint. ngem mbathom mebothu mbor ndem: I bring the pot to you."
       concept: [bring, carry]
     - form: thangom
       class: v
       field: Everyday speech
-      gloss: "to put; to set someone or something in a place. Ngem thangom mebothu mbam ndelaru: I put the pot at the table."
+      gloss: "to put; to set someone or something in a place. ngem thangom mebothu mbam ndelaru: I put the pot at the table."
       concept: put
     - form: mbeskom
       class: v
@@ -2270,7 +2270,7 @@ data:
     - form: ndozhkom
       class: v
       field: Everyday speech
-      gloss: "to close an opening or container; to end an activity. Ngem ndozhkom ndozhu: I close the door; zhepulu ndozhkom: the tale ends."
+      gloss: "to close an opening or container; to end an activity. ngem ndozhkom ndozhu: I close the door; zhepulu ndozhkom: the tale ends."
       concept: [close, end]
     - form: mbangom
       class: v
@@ -2280,7 +2280,7 @@ data:
     - form: thumom ngemin
       class: v
       field: Everyday speech
-      gloss: "to belong to me; to be mine. Mebothu thumom ngemin: the pot is mine. Mebothu ngemin means my pot. Another owner uses that owner’s cited belonging expression."
+      gloss: "to belong to me; to be mine. mebothu thumom ngemin: the pot is mine. mebothu ngemin means my pot. Another owner uses that owner’s cited belonging expression."
       concept: belong
     - form: mebothu ngemin
       class: n
@@ -2290,7 +2290,7 @@ data:
     - form: thebom
       class: v
       field: Everyday speech
-      gloss: "to become; to change into a new state. Uzhoru thebom ngolku: the water becomes ice."
+      gloss: "to become; to change into a new state. uzhoru thebom ngolku: the water becomes ice."
       concept: [become, change-verb]
     - form: tharalom
       class: v
@@ -2300,7 +2300,7 @@ data:
     - form: ngenthom
       class: v
       field: Everyday speech
-      gloss: "to leave; to depart from a place or person. Ngem ngenthom ombelu: I leave the house."
+      gloss: "to leave; to depart from a place or person. ngem ngenthom ombelu: I leave the house."
       concept: leave
     - form: ndalimom
       class: v
@@ -2330,17 +2330,17 @@ data:
     - form: ngenom mbo
       class: v
       field: Everyday speech
-      gloss: "to enter; to go inside. Ngem ngenom mbo ombelu: I enter the house."
+      gloss: "to enter; to go inside. ngem ngenom mbo ombelu: I enter the house."
       concept: enter
     - form: ngenom ngo
       class: v
       field: Everyday speech
-      gloss: "to exit; to go out. Ngem ngenom ngo ombelu: I exit the house."
+      gloss: "to exit; to go out. ngem ngenom ngo ombelu: I exit the house."
       concept: exit
     - form: mbekom mbathen
       class: v
       field: Everyday speech
-      gloss: "to return; to come back. Ngem mbekom mbathen mbor ombelu: I return to the house."
+      gloss: "to return; to come back. ngem mbekom mbathen mbor ombelu: I return to the house."
       concept: return
     - form: zhonelom
       class: v
@@ -2385,7 +2385,7 @@ data:
     - form: thabom ombelu
       class: v
       field: Everyday speech
-      gloss: "to build a house; to make a structure by joining materials. Ngem thabom ombelu: I build a house; replace ombelu with the structure being built."
+      gloss: "to build a house; to make a structure by joining materials. ngem thabom ombelu: I build a house; replace ombelu with the structure being built."
       concept: build
     - form: thangekom
       class: v
@@ -2420,7 +2420,7 @@ data:
     - form: zhepom mbenem ntelin zheboru
       class: v
       field: Everyday speech
-      gloss: "to shout; to speak in a loud voice. Ngem zhepom mbenem ntelin zheboru: I shout."
+      gloss: "to shout; to speak in a loud voice. ngem zhepom mbenem ntelin zheboru: I shout."
       concept: shout
     - form: zhepminom
       class: v
@@ -2495,7 +2495,7 @@ data:
     - form: lembelom
       class: v
       field: Everyday speech
-      gloss: "to prefer; to choose one thing ahead of another. Ngem lembelom uzhoru mborethen uzhelu: I prefer water to the other drink."
+      gloss: "to prefer; to choose one thing ahead of another. ngem lembelom uzhoru mborethen uzhelu: I prefer water to the other drink."
       concept: prefer
     - form: thabelom
       class: v
@@ -2581,7 +2581,7 @@ data:
     - form: korthom
       class: v
       field: Everyday speech
-      gloss: "to keep watch over a person, place or thing; also, in ordinary speech, to defend or protect it against attack or harm. Ngem korthom ombelu: I guard or defend the house."
+      gloss: "to keep watch over a person, place or thing; also, in ordinary speech, to defend or protect it against attack or harm. ngem korthom ombelu: I guard or defend the house."
       concept: defend
       built: [korth-, -om]
     - form: vuthrelom
@@ -2652,7 +2652,7 @@ data:
     - form: zhekom
       class: v
       field: Everyday speech
-      gloss: "to shine; also, in ordinary speech, to reveal or bring something into view. Ngem zhekom mebothu: I reveal the pot. The revealing use is an extension of this free citation."
+      gloss: "to shine; also, in ordinary speech, to reveal or bring something into view. ngem zhekom mebothu: I reveal the pot. The revealing use is an extension of this free citation."
       concept: reveal
       built: [zhék-, -om]
     - form: ndozhthom
@@ -2668,77 +2668,77 @@ data:
     - form: mbethu
       class: adv
       field: Everyday speech
-      gloss: "here; in this place. Ngem thumom mbethu: I am here."
+      gloss: "here; in this place. ngem thumom mbethu: I am here."
       concept: here
     - form: ntethu
       class: adv
       field: Everyday speech
-      gloss: "there; in that place. Ngem thumom ntethu: I am there."
+      gloss: "there; in that place. ngem thumom ntethu: I am there."
       concept: there
     - form: zhemel mbethoru
       class: n
       field: Everyday speech
-      gloss: "somewhere; an unspecified place. Ngem ngenom mbor zhemel mbethoru: I go somewhere."
+      gloss: "somewhere; an unspecified place. ngem ngenom mbor zhemel mbethoru: I go somewhere."
       concept: somewhere
     - form: mbekhu mbethoru
       class: n
       field: Everyday speech
-      gloss: "nowhere; no place. Mbekhu mbethoru mbathurom uzhoru: nowhere has water."
+      gloss: "nowhere; no place. mbekhu mbethoru mbathurom uzhoru: nowhere has water."
       concept: nowhere
     - form: mbemoi mbethoru
       class: n
       field: Everyday speech
-      gloss: "everywhere; all places in the stated area. Mbemoi mbethoru mbathurom uzhoru: everywhere has water."
+      gloss: "everywhere; all places in the stated area. mbemoi mbethoru mbathurom uzhoru: everywhere has water."
       concept: everywhere
     - form: mbetel
       class: part
       field: Everyday speech
-      gloss: "near; at a short distance from the following place or object. Mebothu thumom mbetel ndelaru: the pot is near the table."
+      gloss: "near; at a short distance from the following place or object. mebothu thumom mbetel ndelaru: the pot is near the table."
       concept: near
     - form: ngothen
       class: adv
       field: Everyday speech
-      gloss: "far; at a great distance. Ombelu thumom ngothen: the house is far away; ngothen ngorathen ombelu, far from the house."
+      gloss: "far; at a great distance. ombelu thumom ngothen: the house is far away; ngothen ngorathen ombelu, far from the house."
       concept: far
     - form: mbethal
       class: part
       field: Everyday speech
-      gloss: "beside; at the side of. Mebothu thumom mbethal ndelaru: the pot is beside the table."
+      gloss: "beside; at the side of. mebothu thumom mbethal ndelaru: the pot is beside the table."
       concept: beside
     - form: mbethenel
       class: part
       field: Everyday speech
-      gloss: "between; in the interval separating two stated things. Mebothu thumom mbethenel ndelaru ngeme ndelu: the pot is between the table and the seat."
+      gloss: "between; in the interval separating two stated things. mebothu thumom mbethenel ndelaru ngeme ndelu: the pot is between the table and the seat."
       concept: between
     - form: ngwemer
       class: part
       field: Everyday speech
-      gloss: "among; within a group or set. Mebothu thumom ngwemer mbenerin mebothu: the pot is among other pots."
+      gloss: "among; within a group or set. mebothu thumom ngwemer mbenerin mebothu: the pot is among other pots."
       concept: among
     - form: thokel
       class: part
       field: Everyday speech
-      gloss: "above; over; higher than the stated object, with or without contact. Ndozhu mbeseling thumom thokel ndelaru: the window is above the table; ngwelili ngenom thokel ombelu: a bird goes over the house."
+      gloss: "above; over; higher than the stated object, with or without contact. ndozhu mbeseling thumom thokel ndelaru: the window is above the table; ngwelili ngenom thokel ombelu: a bird goes over the house."
       concept: [above, over]
     - form: ndokel
       class: part
       field: Everyday speech
-      gloss: "below; under; lower than the stated object. Mebothu thumom ndokel ndelaru: the pot is under the table."
+      gloss: "below; under; lower than the stated object. mebothu thumom ndokel ndelaru: the pot is under the table."
       concept: [below, under]
     - form: ngothal
       class: part
       field: Everyday speech
-      gloss: "beyond; farther along than a stated boundary or reference. Ombelu thumom ngothal ndozhelu: the house is beyond the barrier."
+      gloss: "beyond; farther along than a stated boundary or reference. ombelu thumom ngothal ndozhelu: the house is beyond the barrier."
       concept: beyond
     - form: mbanor
       class: part
       field: Everyday speech
-      gloss: "before; in front of a stated person or thing. Mebothu thumom mbanor ndelaru: the pot is in front of the table."
+      gloss: "before; in front of a stated person or thing. mebothu thumom mbanor ndelaru: the pot is in front of the table."
       concept: before-spatial
     - form: mbathar
       class: part
       field: Everyday speech
-      gloss: "behind; at the rear of a stated person or thing. Mebothu thumom mbathar ndelaru: the pot is behind the table."
+      gloss: "behind; at the rear of a stated person or thing. mebothu thumom mbathar ndelaru: the pot is behind the table."
       concept: behind
     - form: mbalethel
       class: n
@@ -2773,32 +2773,32 @@ data:
     - form: ngorathen mbethu
       class: part
       field: Everyday speech
-      gloss: "away; from here or from the context's point of reference. Ngem ngenom ngorathen mbethu: I go away."
+      gloss: "away; from here or from the context's point of reference. ngem ngenom ngorathen mbethu: I go away."
       concept: away
     - form: ngembel
       class: part
       field: Everyday speech
-      gloss: "through; entering and passing inside a place or opening. Ngem ngenom ngembel ndozhu: I go through the doorway."
+      gloss: "through; entering and passing inside a place or opening. ngem ngenom ngembel ndozhu: I go through the doorway."
       concept: through
     - form: ngembet
       class: part
       field: Everyday speech
-      gloss: "across; from one side to the other of a stated place. Ngem ngenom ngembet khuthel meboring: I go across the field."
+      gloss: "across; from one side to the other of a stated place. ngem ngenom ngembet khuthel meboring: I go across the field."
       concept: across
     - form: ngombet
       class: part
       field: Everyday speech
-      gloss: "around; along the outside of a stated object or place. Ngem ngenom ngombet ombelu: I go around the house."
+      gloss: "around; along the outside of a stated object or place. ngem ngenom ngombet ombelu: I go around the house."
       concept: around
     - form: mbathel
       class: part
       field: Everyday speech
-      gloss: "on; upon a supporting surface. Mebothu thumom mbathel ndelaru: the pot is on the table."
+      gloss: "on; upon a supporting surface. mebothu thumom mbathel ndelaru: the pot is on the table."
       concept: on
     - form: ngorathen
       class: part
       field: Everyday speech
-      gloss: "from; away out of a stated source. Ngem mbekom ngorathen ombelu: I come from the house."
+      gloss: "from; away out of a stated source. ngem mbekom ngorathen ombelu: I come from the house."
       concept: from
     - form: thamu
       class: n
@@ -2853,7 +2853,7 @@ data:
     - form: zhekathu tebu
       class: n
       field: Everyday speech
-      gloss: "today; this day. Ngem mbekom zhekathu tebu: I come today."
+      gloss: "today; this day. ngem mbekom zhekathu tebu: I come today."
       concept: today
     - form: zhekathu thomarin
       class: n
@@ -2883,57 +2883,57 @@ data:
     - form: mbanor pemburu
       class: part
       field: Everyday speech
-      gloss: "before a birth; before a stated event. Ngem mbekom mbanor pemburu: I arrive before the birth. Replace pemburu with the reference event or time."
+      gloss: "before a birth; before a stated event. ngem mbekom mbanor pemburu: I arrive before the birth. Replace pemburu with the reference event or time."
       concept: before-time
     - form: thebaren pemburu
       class: part
       field: Everyday speech
-      gloss: "after a birth; after a stated event. Ngem mbekom thebaren pemburu: I arrive after the birth."
+      gloss: "after a birth; after a stated event. ngem mbekom thebaren pemburu: I arrive after the birth."
       concept: after
     - form: mbo pemburu
       class: part
       field: Everyday speech
-      gloss: "during a birth; within the duration of a stated event. Ngem thambelom mbo pemburu: I wait during the birth."
+      gloss: "during a birth; within the duration of a stated event. ngem thambelom mbo pemburu: I wait during the birth."
       concept: during
     - form: mbo mebu ngemin
       class: part
       field: Everyday speech
-      gloss: "while I eat; during my eating. Ngem ntekom mbo mebu ngemin: I listen while I eat. Ngemin names the eater in this phrase."
+      gloss: "while I eat; during my eating. ngem ntekom mbo mebu ngemin: I listen while I eat. ngemin names the eater in this phrase."
       concept: while
     - form: mbor pemburu
       class: part
       field: Everyday speech
-      gloss: "until the birth; up to a stated time or event. Ngem thambelom mbor pemburu: I wait until the birth."
+      gloss: "until the birth; up to a stated time or event. ngem thambelom mbor pemburu: I wait until the birth."
       concept: until
     - form: ngorathen pemburu
       class: part
       field: Everyday speech
-      gloss: "since the birth; from a stated time or event onward. Ngem thumom mbethu ngorathen pemburu: I have been here since the birth."
+      gloss: "since the birth; from a stated time or event onward. ngem thumom mbethu ngorathen pemburu: I have been here since the birth."
       concept: since-time
     - form: mbemoi thamu
       class: n
       field: Everyday speech
-      gloss: "always; at every relevant time. Ngem thumom mbethu mbemoi thamu: I am always here."
+      gloss: "always; at every relevant time. ngem thumom mbethu mbemoi thamu: I am always here."
       concept: always
     - form: ngamin ngembu
       class: n
       field: Everyday speech
-      gloss: "often; on many occasions. Ngem mbekom ngamin ngembu: I often come."
+      gloss: "often; on many occasions. ngem mbekom ngamin ngembu: I often come."
       concept: often
     - form: zhemel ngembu
       class: n
       field: Everyday speech
-      gloss: "sometimes; on some occasions. Ngem mbekom zhemel ngembu: I sometimes come."
+      gloss: "sometimes; on some occasions. ngem mbekom zhemel ngembu: I sometimes come."
       concept: sometimes
     - form: ngomin ngembu
       class: n
       field: Everyday speech
-      gloss: "rarely; on few occasions. Ngem mbekom ngomin ngembu: I rarely come."
+      gloss: "rarely; on few occasions. ngem mbekom ngomin ngembu: I rarely come."
       concept: rarely
     - form: mbekhu ngembu
       class: n
       field: Everyday speech
-      gloss: "never; on no occasion. Ngem mbekom mbekhu ngembu: I never come."
+      gloss: "never; on no occasion. ngem mbekom mbekhu ngembu: I never come."
       concept: never
     - form: thamorin
       class: adj
@@ -2953,32 +2953,32 @@ data:
     - form: em ngembu
       class: n
       field: Everyday speech
-      gloss: "once; on one occasion. Ngem mbekom em ngembu: I come once."
+      gloss: "once; on one occasion. ngem mbekom em ngembu: I come once."
       concept: once
     - form: mbet ngembu
       class: n
       field: Everyday speech
-      gloss: "twice; on two occasions. Ngem mbekom mbet ngembu: I come twice."
+      gloss: "twice; on two occasions. ngem mbekom mbet ngembu: I come twice."
       concept: twice
     - form: ngamin mbetham
       class: adv
       field: Everyday speech
-      gloss: "repeatedly; again many times. Ngem mbekom ngamin mbetham: I come repeatedly."
+      gloss: "repeatedly; again many times. ngem mbekom ngamin mbetham: I come repeatedly."
       concept: repeatedly
     - form: ngatham
       class: adv
       field: Everyday speech
-      gloss: "already; before now or before the expected reference time. Ngem thumom mbethu ngatham: I am already here."
+      gloss: "already; before now or before the expected reference time. ngem thumom mbethu ngatham: I am already here."
       concept: already
     - form: thartham
       class: adv
       field: Everyday speech
-      gloss: "still; continuing through the reference time. Ngem thambelom thartham: I am still waiting."
+      gloss: "still; continuing through the reference time. ngem thambelom thartham: I am still waiting."
       concept: still
     - form: mbes ngatham
       class: adv
       field: Everyday speech
-      gloss: "not yet; the act has not occurred by the reference time. Ngem mbes mbekom ngatham: I have not come yet. Said alone, mbes ngatham means not yet."
+      gloss: "not yet; the act has not occurred by the reference time. ngem mbes mbekom ngatham: I have not come yet. Said alone, mbes ngatham means not yet."
       concept: yet
     - form: mbethim
       class: adv
@@ -3003,7 +3003,7 @@ data:
     - form: mbanor mbemoi mbenerin ngembu
       class: part
       field: Everyday speech
-      gloss: "first; before every other event in the sequence. Ngem mebom mbanor mbemoi mbenerin ngembu: I eat first, before the other events."
+      gloss: "first; before every other event in the sequence. ngem mebom mbanor mbemoi mbenerin ngembu: I eat first, before the other events."
       concept: first-sequence
     - form: thebarin
       class: adj
@@ -3013,12 +3013,12 @@ data:
     - form: thomarin
       class: adj
       field: Everyday speech
-      gloss: last; final in a sequence; also previous or earlier relative to the time in view. Zhekathu thomarin is yesterday; thamu thomarin is the past.
+      gloss: last; final in a sequence; also previous or earlier relative to the time in view. zhekathu thomarin is yesterday; thamu thomarin is the past.
       concept: last
     - form: mbam thamburu
       class: part
       field: Everyday speech
-      gloss: "finally; at the end of the sequence or after waiting. Ngem mbekom mbam thamburu: I finally arrive."
+      gloss: "finally; at the end of the sequence or after waiting. ngem mbekom mbam thamburu: I finally arrive."
       concept: finally
     - form: ngothamu
       class: n
@@ -3029,7 +3029,7 @@ data:
     - form: ndemin
       class: adj
       field: Everyday speech
-      gloss: your; yours; belonging to the addressee. Mebothu ndemin means your pot.
+      gloss: your; yours; belonging to the addressee. mebothu ndemin means your pot.
       concept: [your]
     - form: mbenemu
       class: pron
@@ -3049,67 +3049,67 @@ data:
     - form: ngemirin
       class: adj
       field: Everyday speech
-      gloss: our; ours; belonging to the speaker and others. Ombelu ngemirin means our house.
+      gloss: our; ours; belonging to the speaker and others. ombelu ngemirin means our house.
       concept: [our]
     - form: ntabu
       class: dem
       field: Everyday speech
-      gloss: "that; the farther or previously indicated thing. Mebothu ntabu: that pot."
+      gloss: "that; the farther or previously indicated thing. mebothu ntabu: that pot."
       concept: that
     - form: tebira
       class: dem
       field: Everyday speech
-      gloss: "these; the nearby or indicated things. Mebothu tebira: these pots."
+      gloss: "these; the nearby or indicated things. mebothu tebira: these pots."
       concept: these
     - form: ntabira
       class: dem
       field: Everyday speech
-      gloss: "those; the farther or previously indicated things. Mebothu ntabira: those pots."
+      gloss: "those; the farther or previously indicated things. mebothu ntabira: those pots."
       concept: those
     - form: zhemel mbenaru
       class: n
       field: Everyday speech
-      gloss: "someone; an unspecified person. Zhemel mbenaru mbekom: someone comes."
+      gloss: "someone; an unspecified person. zhemel mbenaru mbekom: someone comes."
       concept: someone
     - form: mbethem mbenaru
       class: n
       field: Everyday speech
-      gloss: "anyone; any person without restricting who. Mbethem mbenaru mbakom mbekom: anyone can come."
+      gloss: "anyone; any person without restricting who. mbethem mbenaru mbakom mbekom: anyone can come."
       concept: anyone
     - form: mbemoi mbenaru
       class: n
       field: Everyday speech
-      gloss: "everyone; all the people in the stated context. Mbemoi mbenaru mbekom: everyone comes."
+      gloss: "everyone; all the people in the stated context. mbemoi mbenaru mbekom: everyone comes."
       concept: everyone
     - form: mbekhu mbenaru
       class: n
       field: Everyday speech
-      gloss: "no one; not a single person. Mbekhu mbenaru mbekom: no one comes."
+      gloss: "no one; not a single person. mbekhu mbenaru mbekom: no one comes."
       concept: no-one
     - form: zhemel mbathilu
       class: n
       field: Everyday speech
-      gloss: "something; an unspecified thing. Zhemel mbathilu ndolom: something falls."
+      gloss: "something; an unspecified thing. zhemel mbathilu ndolom: something falls."
       concept: something
     - form: mbethem mbathilu
       class: n
       field: Everyday speech
-      gloss: "anything; any thing without restricting which. Ngem mbakom thabom mbethem mbathilu: I can make anything."
+      gloss: "anything; any thing without restricting which. ngem mbakom thabom mbethem mbathilu: I can make anything."
       concept: anything
     - form: mbemoi mbathilu
       class: n
       field: Everyday speech
-      gloss: "everything; all things in the stated context. Mbemoi mbathilu thumom mbethu: everything is here."
+      gloss: "everything; all things in the stated context. mbemoi mbathilu thumom mbethu: everything is here."
       concept: everything
     - form: ngemilu
       class: pron
       field: Everyday speech
-      gloss: "self; oneself; the object refers back to the clause's subject. Ngem mbesom ngemilu: I see myself; mbenemu mbesom ngemilu: that person sees themself."
+      gloss: "self; oneself; the object refers back to the clause's subject. ngem mbesom ngemilu: I see myself; mbenemu mbesom ngemilu: that person sees themself."
       concept: self
     - form: mbeneru
       class: dem
       field: Everyday speech
-      gloss: "another; one more or a different one. Zharurom mbeneru mebothu: give another pot."
+      gloss: "another; one more or a different one. zharurom mbeneru mebothu: give another pot."
       concept: another
     - form: mbemorin
       class: adj
@@ -3119,37 +3119,37 @@ data:
     - form: mbeyi
       class: pron
       field: Everyday speech
-      gloss: "who; the unknown person in a question. Mbeyi mbekom: who comes?"
+      gloss: "who; the unknown person in a question. mbeyi mbekom: who comes?"
       concept: question-who
     - form: ntayi
       class: pron
       field: Everyday speech
-      gloss: "what; the unknown thing in a question. Ntayi ndolom: what falls? Said alone, ntayi asks what was said or expresses surprise: what?"
+      gloss: "what; the unknown thing in a question. ntayi ndolom: what falls? Said alone, ntayi asks what was said or expresses surprise: what?"
       concept: [question-what, expression-what]
     - form: tebi
       class: dem
       field: Everyday speech
-      gloss: "which; selecting from a stated set. Tebi mebothu mbathurom uzhoru: which pot has water?"
+      gloss: "which; selecting from a stated set. tebi mebothu mbathurom uzhoru: which pot has water?"
       concept: question-which
     - form: mbethyi
       class: adv
       field: Everyday speech
-      gloss: "where. Ndem thumom mbethyi: where are you?"
+      gloss: "where. ndem thumom mbethyi: where are you?"
       concept: question-where
     - form: thamyi
       class: adv
       field: Everyday speech
-      gloss: "when. Ndem mbekom thamyi: when do you come?"
+      gloss: "when. ndem mbekom thamyi: when do you come?"
       concept: question-when
     - form: thonyi
       class: adv
       field: Everyday speech
-      gloss: "why; for what reason. Ndem mbekom thonyi: why do you come?"
+      gloss: "why; for what reason. ndem mbekom thonyi: why do you come?"
       concept: question-why
     - form: moryi
       class: adv
       field: Everyday speech
-      gloss: "how; in what manner. Ndem thabom mbathilu moryi: how do you make the thing?"
+      gloss: "how; in what manner. ndem thabom mbathilu moryi: how do you make the thing?"
       concept: question-how
     - form: ngorimu mebothing thumom ntayi
       class: call
@@ -3164,32 +3164,32 @@ data:
     - form: mbeyin
       class: adj
       field: Everyday speech
-      gloss: whose; belonging to whom. Mebothu thumom mbeyin asks whose the pot is.
+      gloss: whose; belonging to whom. mebothu thumom mbeyin asks whose the pot is.
       concept: [question-whose]
     - form: mbor mbeyi
       class: part
       field: Everyday speech
-      gloss: "to whom. Ndem zharurom mebothu mbor mbeyi: to whom do you give the pot?"
+      gloss: "to whom. ndem zharurom mebothu mbor mbeyi: to whom do you give the pot?"
       concept: question-to-whom
     - form: ngorathen mbethyi
       class: part
       field: Everyday speech
-      gloss: "from where. Ndem mbekom ngorathen mbethyi: from where do you come?"
+      gloss: "from where. ndem mbekom ngorathen mbethyi: from where do you come?"
       concept: question-from-where
     - form: mbon ntayi
       class: part
       field: Everyday speech
-      gloss: "for what purpose. Ndem thabom mebothu mbon ntayi: for what purpose do you make the pot?"
+      gloss: "for what purpose. ndem thabom mebothu mbon ntayi: for what purpose do you make the pot?"
       concept: question-for-what-purpose
     - form: zhembe
       class: part
       field: Everyday speech
-      gloss: "question particle after a clause; asks for confirmation or denial. Ndem mbekom zhembe: are you coming?"
+      gloss: "question particle after a clause; asks for confirmation or denial. ndem mbekom zhembe: are you coming?"
       concept: question-polar
     - form: ndem zhepomelom ntayi
       class: call
       field: Everyday speech
-      gloss: what do you mean; what meaning do you intend? Ndem zhepomelom ntayi asks the speaker to clarify the meaning of their words.
+      gloss: what do you mean; what meaning do you intend? ndem zhepomelom ntayi asks the speaker to clarify the meaning of their words.
       concept: [question-clarification, expression-what-do-you-mean]
     - form: mbekhe
       class: part
@@ -3219,47 +3219,47 @@ data:
     - form: sembe
       class: adv
       field: Everyday speech
-      gloss: "indeed; truly; really; said to affirm the truth or sincerity of one’s own assertion. Sembe, ngem lembom mbenthom: truly, I want to help."
+      gloss: "indeed; truly; really; said to affirm the truth or sincerity of one’s own assertion. sembe, ngem lembom mbenthom: truly, I want to help."
       concept: [sincerity, indeed, in-fact]
     - form: thimbe
       class: adv
       field: Everyday speech
-      gloss: "certainly; with the speaker's full conviction. Thimbe, mbenemu mbekom: certainly, that person is coming. The speaker's confidence may be mistaken."
+      gloss: "certainly; with the speaker's full conviction. thimbe, mbenemu mbekom: certainly, that person is coming. The speaker's confidence may be mistaken."
       concept: certainly
     - form: mbethe
       class: adv
       field: Everyday speech
-      gloss: "perhaps; might; presents an event as possible rather than certain. Mbenemu mbekom mbethe: that person might come."
+      gloss: "perhaps; might; presents an event as possible rather than certain. mbenemu mbekom mbethe: that person might come."
       concept: [perhaps, might-possibility]
     - form: mbethel
       class: adv
       field: Everyday speech
-      gloss: "probably; the event is judged more likely than not. Mbenemu mbekom mbethel: that person will probably come."
+      gloss: "probably; the event is judged more likely than not. mbenemu mbekom mbethel: that person will probably come."
       concept: probably
     - form: mbes mbethel
       class: adv
       field: Everyday speech
-      gloss: "unlikely; the event is judged less likely than not. Mbenemu mbekom mbes mbethel: that person is unlikely to come."
+      gloss: "unlikely; the event is judged less likely than not. mbenemu mbekom mbes mbethel: that person is unlikely to come."
       concept: unlikely
     - form: mbathurom thimbaru
       class: v
       field: Everyday speech
-      gloss: "to be sure; to have subjective certainty. Ngem mbathurom thimbaru: I am sure."
+      gloss: "to be sure; to have subjective certainty. ngem mbathurom thimbaru: I am sure."
       concept: certain
     - form: mbathurom thimbelu
       class: v
       field: Everyday speech
-      gloss: "to be uncertain; to have doubt. Ngem mbathurom thimbelu: I am uncertain."
+      gloss: "to be uncertain; to have doubt. ngem mbathurom thimbelu: I am uncertain."
       concept: uncertain
     - form: mbese
       class: adv
       field: Everyday speech
-      gloss: "apparently; on the evidence of appearances. Mbenemu thumom mborekin mbese: apparently, that person is ill."
+      gloss: "apparently; on the evidence of appearances. mbenemu thumom mborekin mbese: apparently, that person is ill."
       concept: apparently
     - form: zhepe
       class: adv
       field: Everyday speech
-      gloss: "supposedly; according to what someone says, without the speaker's endorsement. Mbenemu thumom mborekin zhepe: supposedly, that person is ill."
+      gloss: "supposedly; according to what someone says, without the speaker's endorsement. mbenemu thumom mborekin zhepe: supposedly, that person is ill."
       concept: supposedly
     - form: thimbom
       class: v
@@ -3269,7 +3269,7 @@ data:
     - form: mbenderom
       class: v
       field: Everyday speech
-      gloss: "to suspect; to consider a claim possible on limited indications. Ngem mbenderom ngothu thengem: I suspect rain later; the suspected matter can be welcome, unwelcome or neutral."
+      gloss: "to suspect; to consider a claim possible on limited indications. ngem mbenderom ngothu thengem: I suspect rain later; the suspected matter can be welcome, unwelcome or neutral."
       concept: suspect
     - form: mbendekom
       class: v
@@ -3294,7 +3294,7 @@ data:
     - form: mbes sembom
       class: v
       field: Everyday speech
-      gloss: "to disagree; not to accept another's claim or choice. Ngem mbes sembom mbenem ndem: I disagree with you."
+      gloss: "to disagree; not to accept another's claim or choice. ngem mbes sembom mbenem ndem: I disagree with you."
       concept: disagree
     - form: mbes sembin zhepu
       class: n
@@ -3304,112 +3304,112 @@ data:
     - form: ngothe
       class: conj
       field: Everyday speech
-      gloss: "or; joins alternatives. Ngem lembom uzhoru ngothe meboru: I want water or food. Ngothe uzhoru ngothe meboru means either water or food."
+      gloss: "or; joins alternatives. ngem lembom uzhoru ngothe meboru: I want water or food. ngothe uzhoru ngothe meboru means either water or food."
       concept: [or, either-alternative]
     - form: mbethes
       class: conj
       field: Everyday speech
-      gloss: "but; however; nevertheless; joins a contrasting continuation. Ngem thumom thomin mbethes ngem ngenom: I am tired, but I go."
+      gloss: "but; however; nevertheless; joins a contrasting continuation. ngem thumom thomin mbethes ngem ngenom: I am tired, but I go."
       concept: [but, however, nevertheless]
     - form: ndekhe mben
       class: conj
       field: Everyday speech
-      gloss: "neither; nor; denies the joined alternatives. Ndekhe mben uzhoru ndekhe mben meboru thumom mbethu: neither water nor food is here."
+      gloss: "neither; nor; denies the joined alternatives. ndekhe mben uzhoru ndekhe mben meboru thumom mbethu: neither water nor food is here."
       concept: [nor, neither-alternative]
     - form: thombes
       class: conj
       field: Everyday speech
-      gloss: "because; introduces a reason. Ngem uzhelom thombes ngem mbathurom uzhelku: I drink because I am thirsty."
+      gloss: "because; introduces a reason. ngem uzhelom thombes ngem mbathurom uzhelku: I drink because I am thirsty."
       concept: because
     - form: thombele
       class: conj
       field: Everyday speech
-      gloss: "therefore; the following clause is a consequence. Ngem mbathurom uzhelku; thombele ngem uzhelom: I am thirsty; therefore I drink."
+      gloss: "therefore; the following clause is a consequence. ngem mbathurom uzhelku; thombele ngem uzhelom: I am thirsty; therefore I drink."
       concept: therefore
     - form: mbis
       class: conj
       field: Everyday speech
-      gloss: "if; introduces a condition. Mbis ngothu ngembom, ngem tharalom mbo: if rain comes, I stay inside."
+      gloss: "if; introduces a condition. mbis ngothu ngembom, ngem tharalom mbo: if rain comes, I stay inside."
       concept: if
     - form: thombin
       class: conj
       field: Everyday speech
-      gloss: "then; introduces the consequence of a condition. Mbis ngothu ngembom, thombin ngem tharalom mbo: if rain comes, then I stay inside."
+      gloss: "then; introduces the consequence of a condition. mbis ngothu ngembom, thombin ngem tharalom mbo: if rain comes, then I stay inside."
       concept: then-conditional
     - form: mbis ndem mbes mbekom
       class: conj
       field: Everyday speech
-      gloss: "unless you come; if you do not come. Mbis ndem mbes mbekom, ngem ngenom: unless you come, I go. In this cited condition, ndem is the subject and mbes immediately precedes the denied verb mbekom."
+      gloss: "unless you come; if you do not come. mbis ndem mbes mbekom, ngem ngenom: unless you come, I go. In this cited condition, ndem is the subject and mbes immediately precedes the denied verb mbekom."
       concept: unless
     - form: mbis ndembethe
       class: conj
       field: Everyday speech
-      gloss: "otherwise; if the preceding condition does not hold. Ngem thambelom mbis ndem mbekom; mbis ndembethe ngem ngenom: I wait if you come; otherwise I go."
+      gloss: "otherwise; if the preceding condition does not hold. ngem thambelom mbis ndem mbekom. mbis ndembethe ngem ngenom: I wait if you come; otherwise I go."
       concept: otherwise
     - form: mbithen
       class: conj
       field: Everyday speech
-      gloss: "although; introduces a conceded fact. Mbithen ngem thumom thomin, ngem ngenom: although I am tired, I go."
+      gloss: "although; introduces a conceded fact. mbithen ngem thumom thomin, ngem ngenom: although I am tired, I go."
       concept: although
     - form: mbithe
       class: part
       field: Everyday speech
-      gloss: "despite; even with the stated obstacle. Ngem ngenom mbithe mborekin: I go despite being ill. In this cited use mborekin states the person's illness as the obstacle."
+      gloss: "despite; even with the stated obstacle. ngem ngenom mbithe mborekin: I go despite being ill. In this cited use mborekin states the person's illness as the obstacle."
       concept: despite
     - form: mbam mbethoru uzheling
       class: part
       field: Everyday speech
-      gloss: "instead of another drink; in place of the other drink. Ngem ndalom uzhoru mbam mbethoru uzheling: I take water instead of the other drink. Replace uzheling with the cited belonging form of the alternative being replaced."
+      gloss: "instead of another drink; in place of the other drink. ngem ndalom uzhoru mbam mbethoru uzheling: I take water instead of the other drink. Replace uzheling with the cited belonging form of the alternative being replaced."
       concept: instead
     - form: mbethil
       class: part
       field: Everyday speech
-      gloss: "like; as; in the manner or role of. Ngem thabom mbethil kwendari: I work as a teacher; mebothu thumom mbethil uzhelili: the pot is like a cup."
+      gloss: "like; as; in the manner or role of. ngem thabom mbethil kwendari: I work as a teacher; mebothu thumom mbethil uzhelili: the pot is like a cup."
       concept: [like, as]
     - form: mbes mbethil
       class: part
       field: Everyday speech
-      gloss: "unlike; without the stated resemblance. Mebothu thumom mbes mbethil uzhelili: the pot is unlike a cup."
+      gloss: "unlike; without the stated resemblance. mebothu thumom mbes mbethil uzhelili: the pot is unlike a cup."
       concept: unlike
     - form: zhemiyi
       class: conj
       field: Everyday speech
-      gloss: "whether; introduces a polar matter being considered. Ngem mbendom zhemiyi ndem mbekom: I consider whether you are coming. The considered subject is explicitly ndem, you."
+      gloss: "whether; introduces a polar matter being considered. ngem mbendom zhemiyi ndem mbekom: I consider whether you are coming. The considered subject is explicitly ndem, you."
       concept: whether
     - form: zhepme
       class: part
       field: Everyday speech
-      gloss: "that is; namely; introduces a restatement or explicit name. Ngem lembom em mbathilu, zhepme uzhoru: I want one thing, namely water."
+      gloss: "that is; namely; introduces a restatement or explicit name. ngem lembom em mbathilu, zhepme uzhoru: I want one thing, namely water."
       concept: [that-is, namely]
     - form: mbethil tebu
       class: part
       field: Everyday speech
-      gloss: "for example; introduces a specimen. Ngamin mbathilu thumom uzhorin, mbethil tebu mebothu: many things are wet, for example this pot."
+      gloss: "for example; introduces a specimen. ngamin mbathilu thumom uzhorin, mbethil tebu mebothu: many things are wet, for example this pot."
       concept: for-example
     - form: mbekhar
       class: part
       field: Everyday speech
-      gloss: "except; excluding the following member. Mbemoi mebothu thumom mbethu mbekhar mebothu ntabu: all the pots are here except that pot."
+      gloss: "except; excluding the following member. mbemoi mebothu thumom mbethu mbekhar mebothu ntabu: all the pots are here except that pot."
       concept: except
     - form: mbemor
       class: adv
       field: Everyday speech
-      gloss: "only; restricts the following constituent. Mbemor ngem thumom mbethu: only I am here."
+      gloss: "only; restricts the following constituent. mbemor ngem thumom mbethu: only I am here."
       concept: only
     - form: mbenge
       class: adv
       field: Everyday speech
-      gloss: "even; includes an unexpected case. Mbenge yombili mbakom kwenbom: even a child can learn."
+      gloss: "even; includes an unexpected case. mbenge yombili mbakom kwenbom: even a child can learn."
       concept: even
     - form: mbethege
       class: adv
       field: Everyday speech
-      gloss: "also; adds another matching case. Ngem mbekom mbethege: I come too."
+      gloss: "also; adds another matching case. ngem mbekom mbethege: I come too."
       concept: also
     - form: thokelin
       class: adv
       field: Everyday speech
-      gloss: "especially; marks the case given particular weight. Ngem lembom meboru, thokelin pembilu: I want food, especially seeds."
+      gloss: "especially; marks the case given particular weight. ngem lembom meboru, thokelin pembilu: I want food, especially seeds."
       concept: especially
     - form: mbelikin
       class: adj
@@ -3494,22 +3494,22 @@ data:
     - form: mborel
       class: adj
       field: Everyday speech
-      gloss: "better; more good or beneficial than the comparison. Uzhoru thumom mborel mborethen uzhelu: the water is better than the other drink."
+      gloss: "better; more good or beneficial than the comparison. uzhoru thumom mborel mborethen uzhelu: the water is better than the other drink."
       concept: better
     - form: mborkel
       class: adj
       field: Everyday speech
-      gloss: "worse; more bad or harmful than the comparison. Uzhelu thumom mborkel mborethen uzhoru: the drink is worse than the water."
+      gloss: "worse; more bad or harmful than the comparison. uzhelu thumom mborkel mborethen uzhoru: the drink is worse than the water."
       concept: worse
     - form: mborel mborethen mbemoi mbenerin
       class: adj
       field: Everyday speech
-      gloss: "best; better than every other member of the comparison set. Mebothu tebu thumom mborel mborethen mbemoi mbenerin mebothu: this pot is better than all the other pots. Mbenerin excludes this pot from the standards."
+      gloss: "best; better than every other member of the comparison set. mebothu tebu thumom mborel mborethen mbemoi mbenerin mebothu: this pot is better than all the other pots. mbenerin excludes this pot from the standards."
       concept: best
     - form: mborkel mborethen mbemoi mbenerin
       class: adj
       field: Everyday speech
-      gloss: "worst; worse than every other member of the comparison set. Mebothu tebu thumom mborkel mborethen mbemoi mbenerin mebothu: this pot is worse than all the other pots."
+      gloss: "worst; worse than every other member of the comparison set. mebothu tebu thumom mborkel mborethen mbemoi mbenerin mebothu: this pot is worse than all the other pots."
       concept: worst
     - form: tharolin
       class: adj
@@ -3534,7 +3534,7 @@ data:
     - form: mbathurom mbekhu makoru
       class: v
       field: Everyday speech
-      gloss: "to be worthless; to have no worth in the stated respect. Mebothu mbathurom mbekhu makoru: the pot has no worth."
+      gloss: "to be worthless; to have no worth in the stated respect. mebothu mbathurom mbekhu makoru: the pot has no worth."
       concept: worthless
     - form: thabin
       class: adj
@@ -3574,37 +3574,37 @@ data:
     - form: thokem
       class: adv
       field: Everyday speech
-      gloss: "very; intensifies the following quality. Mebothu thumom thokem uzhorin: the pot is very wet."
+      gloss: "very; intensifies the following quality. mebothu thumom thokem uzhorin: the pot is very wet."
       concept: very
     - form: thokeng
       class: adv
       field: Everyday speech
-      gloss: "extremely; to an exceptional degree. Uzhoru thumom thokeng ngolin: the water is extremely cold."
+      gloss: "extremely; to an exceptional degree. uzhoru thumom thokeng ngolin: the water is extremely cold."
       concept: extremely
     - form: mbem
       class: adv
       field: Everyday speech
-      gloss: "somewhat; to a moderate extent. Uzhoru thumom mbem ngolin: the water is somewhat cold."
+      gloss: "somewhat; to a moderate extent. uzhoru thumom mbem ngolin: the water is somewhat cold."
       concept: somewhat
     - form: mbemilin
       class: adv
       field: Everyday speech
-      gloss: "slightly; to a small extent. Uzhoru thumom mbemilin ngolin: the water is slightly cold."
+      gloss: "slightly; to a small extent. uzhoru thumom mbemilin ngolin: the water is slightly cold."
       concept: slightly
     - form: mbekim
       class: adv
       field: Everyday speech
-      gloss: "barely; only just reaching the required point or degree. Uzhoru thumom mbekim nkarin: the water is barely hot enough."
+      gloss: "barely; only just reaching the required point or degree. uzhoru thumom mbekim nkarin: the water is barely hot enough."
       concept: barely
     - form: ngorel mborethen ngorimu mbothin
       class: num
       field: Everyday speech
-      gloss: "too much; more than the needed quantity. Mebothu mbathurom ngorel uzhoru mborethen ngorimu mbothin: the pot has too much water for the stated purpose."
+      gloss: "too much; more than the needed quantity. mebothu mbathurom ngorel uzhoru mborethen ngorimu mbothin: the pot has too much water for the stated purpose."
       concept: too-much
     - form: ngomel mborethen ngorimu mbothin
       class: num
       field: Everyday speech
-      gloss: "too little; less than the needed quantity. Mebothu mbathurom ngomel uzhoru mborethen ngorimu mbothin: the pot has too little water for the stated purpose."
+      gloss: "too little; less than the needed quantity. mebothu mbathurom ngomel uzhoru mborethen ngorimu mbothin: the pot has too little water for the stated purpose."
       concept: too-little
     - form: mbemorilin
       class: adj
@@ -3619,12 +3619,12 @@ data:
     - form: mbakom
       class: v
       field: Everyday speech
-      gloss: "can; be able to do something. Ngem mbakom ngenom: I can walk. This verb names ability, not permission."
+      gloss: "can; be able to do something. ngem mbakom ngenom: I can walk. This verb names ability, not permission."
       concept: can
     - form: mbes mbakom
       class: v
       field: Everyday speech
-      gloss: "cannot; be unable to do something. Ngem mbes mbakom ngenom: I cannot walk."
+      gloss: "cannot; be unable to do something. ngem mbes mbakom ngenom: I cannot walk."
       concept: cannot
     - form: mbakhin
       class: adj
@@ -3639,22 +3639,22 @@ data:
     - form: mbathurom lemkolu
       class: v
       field: Everyday speech
-      gloss: "to have permission to act. Ngem mbathurom lemkolu ngenom: I may go. Lemkolu ngenom is the cited permission-to-go expression, distinct from bodily ability."
+      gloss: "to have permission to act. ngem mbathurom lemkolu ngenom: I may go. lemkolu ngenom is the cited permission-to-go expression, distinct from bodily ability."
       concept: may-permission
     - form: mbotharom
       class: v
       field: Everyday speech
-      gloss: "must; be obliged to perform the following act. Ngem mbotharom ngenom: I must go."
+      gloss: "must; be obliged to perform the following act. ngem mbotharom ngenom: I must go."
       concept: must
     - form: mbotharom mbes
       class: v
       field: Everyday speech
-      gloss: "must not; be obliged to refrain from the following act. Ngem mbotharom mbes ngenom: I must not go."
+      gloss: "must not; be obliged to refrain from the following act. ngem mbotharom mbes ngenom: I must not go."
       concept: must-not
     - form: mbothilom
       class: v
       field: Everyday speech
-      gloss: "ought; should; be advised by duty or good judgment to perform the act. Ngem mbothilom ngenom: I should go."
+      gloss: "ought; should; be advised by duty or good judgment to perform the act. ngem mbothilom ngenom: I should go."
       concept: ought
     - form: mbotharin
       class: adj
@@ -3679,12 +3679,12 @@ data:
     - form: lemkorom
       class: v
       field: Everyday speech
-      gloss: "to permit; to give someone permission to act. Ngem lemkorom ndem ngenom: I permit you to go."
+      gloss: "to permit; to give someone permission to act. ngem lemkorom ndem ngenom: I permit you to go."
       concept: permit
     - form: lemkokom
       class: v
       field: Everyday speech
-      gloss: "to prohibit; to forbid an act. Ngem lemkokom ngenom: I prohibit going."
+      gloss: "to prohibit; to forbid an act. ngem lemkokom ngenom: I prohibit going."
       concept: prohibit
     - form: lembelin
       class: adj
@@ -3719,7 +3719,7 @@ data:
     - form: okharé ne thalé
       class: call
       field: Everyday speech
-      gloss: hello; the existing greeting of Okharis, hailing the person met as one of the people and wishing peace. Okharé is the person addressed, ne the word of address and thalé the greeting.
+      gloss: hello; the existing greeting of Okharis, hailing the person met as one of the people and wishing peace. okharé is the person addressed, ne the word of address and thalé the greeting.
       concept: hello
     - form: ngenom mbenem tharelu
       class: call
@@ -3734,7 +3734,7 @@ data:
     - form: ngem zhepimom
       class: call
       field: Everyday speech
-      gloss: "please; I ask; introduces a courteous request. Ngem zhepimom, zharurom uzhoru: please give water."
+      gloss: "please; I ask; introduces a courteous request. ngem zhepimom, zharurom uzhoru: please give water."
       concept: expression-please
     - form: ngem zharom ndem
       class: call
@@ -4091,17 +4091,17 @@ data:
     - form: thumom
       class: v
       field: Everyday speech
-      gloss: "to be; links a subject to an identity or quality. Ngwelit thumom mbesin: the boar is visible. In an absolute utterance, ombelu thumom means a house exists; there is a house."
+      gloss: "to be; links a subject to an identity or quality. ngwelit thumom mbesin: the boar is visible. In an absolute utterance, ombelu thumom means a house exists; there is a house."
       concept: [be, exist]
     - form: mbes
       class: part
       field: Everyday speech
-      gloss: "not; negates the following predicate or quality. Ngem mbes mbesom ngwelit: I do not see the boar."
+      gloss: "not; negates the following predicate or quality. ngem mbes mbesom ngwelit: I do not see the boar."
       concept: not
     - form: thamili
       class: adv
       field: Everyday speech
-      gloss: "for a while; through a stretch of time. Ngem mbesom ngwelit thamili: I watch the boar for a while."
+      gloss: "for a while; through a stretch of time. ngem mbesom ngwelit thamili: I watch the boar for a while."
     - form: thokemin
       class: adj
       field: Everyday speech
@@ -4140,26 +4140,26 @@ data:
     - form: mbemoi
       class: num
       field: Everyday speech
-      gloss: "all; every member of the stated set. Mbemoi mbenaru: every human being."
+      gloss: "all; every member of the stated set. mbemoi mbenaru: every human being."
       concept: [all, every]
     - form: mbenomin
       class: adj
       field: Everyday speech
-      gloss: "alone; without others. Tebu mbenomin: this, alone."
+      gloss: "alone; without others. tebu mbenomin: this, alone."
     - form: mbathurom
       class: v
       field: Everyday speech
-      gloss: "to have; to possess or contain. Ngem mbathurom uzhoru: I have water."
+      gloss: "to have; to possess or contain. ngem mbathurom uzhoru: I have water."
       concept: have
     - form: mbo
       class: part
       field: Everyday speech
-      gloss: "in; inside; inward. Ngem ngemom mbo: I breathe in."
+      gloss: "in; inside; inward. ngem ngemom mbo: I breathe in."
       concept: [in, inside]
     - form: ngo
       class: part
       field: Everyday speech
-      gloss: "out; outside; outward. Ngem ngemom ngo: I breathe out."
+      gloss: "out; outside; outward. ngem ngemom ngo: I breathe out."
       concept: outside
     - form: mbemin
       class: adv
@@ -4168,13 +4168,13 @@ data:
     - form: zharurom
       class: v
       field: Everyday speech
-      gloss: "to give something to someone. Ngem zharurom uzhoru mbor ndem: I give water to you."
+      gloss: "to give something to someone. ngem zharurom uzhoru mbor ndem: I give water to you."
       concept: give
     - {form: mebelom, class: v, field: Everyday speech, gloss: to feed someone with food or milk}
     - form: mbenem
       class: part
       field: Everyday speech
-      gloss: "with; by means of. Ngem mbalom ngorili mbenem mbalel: I touch the cord with a hand."
+      gloss: "with; by means of. ngem mbalom ngorili mbenem mbalel: I touch the cord with a hand."
     - form: ndem
       class: pron
       field: Everyday speech
@@ -4183,21 +4183,21 @@ data:
     - form: mbor
       class: part
       field: Everyday speech
-      gloss: "to; toward the stated recipient or goal. Ngem zharurom uzhoru mbor ndem: I give water to you."
+      gloss: "to; toward the stated recipient or goal. ngem zharurom uzhoru mbor ndem: I give water to you."
       concept: [to, toward]
     - {form: sombili, class: n, field: Everyday speech, gloss: a sibling; a brother or sister}
     - form: mbenarin
       class: adj
       field: Everyday speech
-      gloss: male; describes male sex in the listed kin and body expressions. Sombili mbenarin is a brother; mbenarin yombili sombiling is a nephew. These fixed phrases retain their cited word order.
+      gloss: male; describes male sex in the listed kin and body expressions. sombili mbenarin is a brother; mbenarin yombili sombiling is a nephew. These fixed phrases retain their cited word order.
     - form: mbenelin
       class: adj
       field: Everyday speech
-      gloss: female; describes female sex in the listed kin and body expressions. Sombili mbenelin is a sister; mbenelin yombili sombiling is a niece. These fixed phrases retain their cited word order.
+      gloss: female; describes female sex in the listed kin and body expressions. sombili mbenelin is a sister; mbenelin yombili sombiling is a niece. These fixed phrases retain their cited word order.
     - form: lembari ndengin
       class: n
       field: Everyday speech
-      gloss: a widowed person; a person whose spouse has died. The whole status expression applies to the living survivor. Lembari retains spouse, and ndengin retains dead in other uses.
+      gloss: a widowed person; a person whose spouse has died. The whole status expression applies to the living survivor. lembari retains spouse, and ndengin retains dead in other uses.
     - form: ngororin
       class: adj
       field: Everyday speech
@@ -4215,23 +4215,23 @@ data:
     - form: mbon
       class: part
       field: Everyday speech
-      gloss: "for; for the benefit or purpose of. Mborinmu uzhoru mbon meboru: enough water for the food; ngem ngenom mbon uzhelom: I go in order to drink."
+      gloss: "for; for the benefit or purpose of. mborinmu uzhoru mbon meboru: enough water for the food; ngem ngenom mbon uzhelom: I go in order to drink."
       concept: for-purpose
     - form: mborethen
       class: part
       field: Everyday speech
-      gloss: "than; introduces the standard after a comparison. Ngorel uzhoru mborethen tebu: more water than this."
+      gloss: "than; introduces the standard after a comparison. ngorel uzhoru mborethen tebu: more water than this."
       concept: than
     - form: mbenerin
       class: adj
       field: Everyday speech
-      gloss: other; different from the person or thing already mentioned. Mbemoi mbenerin mebothu excludes the pot currently being compared.
+      gloss: other; different from the person or thing already mentioned. mbemoi mbenerin mebothu excludes the pot currently being compared.
       concept: [other, different]
     - {form: thabelu, class: n, field: Everyday speech, gloss: a task; work to be done}
     - form: mbam
       class: part
       field: Everyday speech
-      gloss: "at; in the stated location. Ngem thangom mebothu mbam ndelaru: I put the pot at the table."
+      gloss: "at; in the stated location. ngem thangom mebothu mbam ndelaru: I put the pot at the table."
       concept: at
     - form: mbathen
       class: adv
@@ -4245,7 +4245,7 @@ data:
     - form: mebu
       class: n
       field: Everyday speech
-      gloss: eating; the act of taking food for nourishment. Mebu ngemin means my eating.
+      gloss: eating; the act of taking food for nourishment. mebu ngemin means my eating.
     - form: ngembu
       class: n
       field: Everyday speech
@@ -4258,7 +4258,7 @@ data:
     - form: mbethem
       class: num
       field: Everyday speech
-      gloss: "any; whichever member or amount is selected, without restriction. Mbethem mebothu: any pot."
+      gloss: "any; whichever member or amount is selected, without restriction. mbethem mebothu: any pot."
     - form: mbathilu
       class: n
       field: Everyday speech
@@ -4287,7 +4287,7 @@ data:
     - form: lemkolu
       class: n
       field: Everyday speech
-      gloss: "permission; consent to an act. Lemkolu ngenom: permission to go."
+      gloss: "permission; consent to an act. lemkolu ngenom: permission to go."
     - form: mbathenu
       class: n
       field: Everyday speech
@@ -4306,16 +4306,16 @@ data:
     - form: ngeme
       class: conj
       field: Everyday speech
-      gloss: "and; joins words or clauses. Ndelaru ngeme ndelu: the table and the seat; ngem mbesom ngwelit ngeme ndem ntelom ntelu: I see the boar and you hear a sound."
+      gloss: "and; joins words or clauses. ndelaru ngeme ndelu: the table and the seat; ngem mbesom ngwelit ngeme ndem ntelom ntelu: I see the boar and you hear a sound."
       concept: and
     - form: ngemin
       class: adj
       field: Everyday speech
-      gloss: my; mine; belonging to the speaker. Mebothu ngemin means my pot.
+      gloss: my; mine; belonging to the speaker. mebothu ngemin means my pot.
     - form: tebwin
       class: adj
       field: Everyday speech
-      gloss: of this; concerning the nearby thing indicated. Zhepolu tebwin means the name of this.
+      gloss: of this; concerning the nearby thing indicated. zhepolu tebwin means the name of this.
     - form: mbenaring
       class: adj
       field: Everyday speech
@@ -4339,7 +4339,7 @@ data:
     - form: pembomin
       class: adj
       field: Everyday speech
-      gloss: parentless; having no living parent. Yombili pembomin names an orphan.
+      gloss: parentless; having no living parent. yombili pembomin names an orphan.
     - form: mbeshoru
       class: n
       field: Everyday speech
@@ -4445,7 +4445,7 @@ data:
     - form: pembeling
       class: adj
       field: Everyday speech
-      gloss: of pregnancy; also of a plant or plants. Both pembelu, pregnancy, and pembeli, a plant, have this belonging form. Khuthel pembeling, soil, uses the plant reading.
+      gloss: of pregnancy; also of a plant or plants. Both pembelu, pregnancy, and pembeli, a plant, have this belonging form. khuthel pembeling, soil, uses the plant reading.
     - form: meboring
       class: adj
       field: Everyday speech
@@ -4476,6 +4476,41 @@ data:
       field: Everyday speech
       gloss: knowledge gained by study; what has been learned through study.
       built: [talith-, -u]
+    - form: nkombu
+      class: n
+      field: Everyday speech
+      gloss: a cow; one of the cattle. nkombira, the cattle, is the herd.
+    - {form: zhebethu, class: n, field: Everyday speech, gloss: milk}
+    - form: ombelis
+      class: n
+      field: "Kingdom, clan and kin"
+      gloss: a city; a seat of houses that does not move with the herds
+    - {form: sembolu, class: n, field: "Kingdom, clan and kin", gloss: an oath; a sworn word}
+    - {form: zhebolu, class: n, field: The Flame and the temple, gloss: a chant; a hymn}
+    - {form: zheborom, class: v, field: The Flame and the temple, gloss: to sing; to chant}
+    - form: mbedolu
+      class: n
+      field: The Flame and the temple
+      gloss: a balance; the scales on which goods are weighed and oaths sworn
+    - form: nkombira
+      class: n
+      field: Everyday speech
+      gloss: the cattle, the herd
+      built: [nkombu, -ira]
+    - form: zhangarira
+      class: n
+      field: The Flame and the temple
+      gloss: soldiers; a company of warriors
+      built: [zhangari, -ira]
+    - form: ndorkarira
+      class: n
+      field: Everyday speech
+      gloss: enemies; a hostile band
+      built: [ndorkari, -ira]
+    - form: zhandoru
+      class: n
+      field: Everyday speech
+      gloss: oil; a fat that runs, pressed or rendered for lamps, food and anointing
   icon: icon-speaking
   templatePriority: null
   packFolder: language
@@ -4772,6 +4807,13 @@ data:
     - {name: "Ritual: Nkaru'thar", tongue: translation}
     - {name: Royal Trades of Okharis, tongue: translation}
     - {name: Shókuma, tongue: okharik}
+    - {name: Táluméng, tongue: okharik}
+    - {name: Wámbuchi, tongue: okharik}
+    - {name: Yéshiro, tongue: okharik}
+    - {name: Zhíkande, tongue: okharik}
+    - {name: Dóngaru, tongue: okharik}
+    - {name: Kirofa, tongue: okharik}
+    - {name: Ngorasha, tongue: okharik}
     - {name: Shókuma Tribe, tongue: translation}
     - {name: Shókuma Village, tongue: translation}
     - {name: Shurem, tongue: okharik, built: [shurem]}
@@ -4831,6 +4873,14 @@ data:
     - {name: Zohu Shéngeling Spirit Power, tongue: translation}
     - {name: Ntemba Kásara, tongue: okharik}
     - {name: Chief Ntemba, tongue: translation}
+    - {name: Otham, tongue: okharik}
+    - {name: Mbato, tongue: okharik}
+    - {name: Rembol, tongue: okharik}
+    - {name: Ásira, tongue: okharik}
+    - {name: Jengu, tongue: okharik}
+    - {name: Tiru, tongue: okharik}
+    - {name: Lakhor, tongue: okharik}
+    - {name: Ngoro, tongue: okharik}
   retired:
     - {form: Njia ya Roho, instead: Yenor Zohiring, why: "an Earth phrase, the shamans' path"}
     - form: Mwalimu wa Roho
@@ -5137,19 +5187,19 @@ Trading Post Dialects
 
 ## Sample Phrases
 
-Okharé, ne thalé
+okharé, ne thalé
 : _Greeting; literally "Okharik one, greetings"_
 
-Zhondu en tharom
+zhondu en tharom
 : _Blessing formula; "May the kingdom endure"_
 
-Somba ren, ngem orung
+somba ren, ngem orung
 : _Affirmation; "In the name of the ancestors, I stand firm"_
 
-Mákoro en zarun
+mákoro en zarun
 : _Trade expression; "May prosperity flow"_
 
-Khuthel en shara tebu sembor
+khuthel en shara tebu sembor
 : _Sacred oath; "Let the earth witness this truth"_
 
 The [[skill-okharclng#lexicon|Okharik Lexicon]] holds the words these phrases are built from, the endings that make titles and names, and the register of every Okharik name in the setting.
@@ -5657,46 +5707,46 @@ The additional entries give ordinary words and complete expressions for daily us
 
 ### People, acts and descriptions
 
-The ordinary examples follow subject, verb, object: _Ngem mbesom ngwelit_, I see the boar; _ndem mbathom mebothu_, you carry the pot. Deliberate continued looking is also _mbesom_: _Ngem mbesom ngwelit thamili_, I watch the boar for a while. _Ntelom_ is hearing, _ntekom_ listening, and _mbetom_ noticing something. The noun _ntelu_ is a sound; _zheboru_ is specifically a voice.
+The ordinary examples follow subject, verb, object: _ngem mbesom ngwelit_, I see the boar; _ndem mbathom mebothu_, you carry the pot. Deliberate continued looking is also _mbesom_: _ngem mbesom ngwelit thamili_, I watch the boar for a while. _ntelom_ is hearing, _ntekom_ listening, and _mbetom_ noticing something. The noun _ntelu_ is a sound; _zheboru_ is specifically a voice.
 
-_Thumom_ serves the cited descriptions: _Uzhoru thumom ngolin_, the water is cold; _ngwelit thumom mbesin_, the boar is visible in the stated viewing conditions. _Ngwelit thumom mbes mbesin_ says it is invisible. This concerns the object in those conditions. _Mbeskomin_ describes a person's blindness. _Mbemin_ gives a moderate degree: _Uzhoru thumom mbemin ngolin_, the water is cool. The examples describe qualities without filling a gender or agreement table. _Shimbin_ gives the yellow or golden quality of the established _shimb-_ stem; _zhembin_ is red.
+_thumom_ serves the cited descriptions: _uzhoru thumom ngolin_, the water is cold; _ngwelit thumom mbesin_, the boar is visible in the stated viewing conditions. _ngwelit thumom mbes mbesin_ says it is invisible. This concerns the object in those conditions. _mbeskomin_ describes a person's blindness. _mbemin_ gives a moderate degree: _uzhoru thumom mbemin ngolin_, the water is cool. The examples describe qualities without filling a gender or agreement table. _shimbin_ gives the yellow or golden quality of the established _shimb-_ stem; _zhembin_ is red.
 
-The difference between an organ and an experience is kept in the words themselves. _Mbeselu_ is an eye, _mbesu_ a sight or appearance, and _sharulu_ a felt sensation. _Mborku_ is pain; _mborkom_ causes pain or injury. _Ngem mbathurom mborku_ says I am in pain. _Meborin_ means physically sated after sufficient eating or drinking, including _uzhelu_, a drink. It does not mean the satisfaction of a fulfilled desire.
+The difference between an organ and an experience is kept in the words themselves. _mbeselu_ is an eye, _mbesu_ a sight or appearance, and _sharulu_ a felt sensation. _mborku_ is pain; _mborkom_ causes pain or injury. _ngem mbathurom mborku_ says I am in pain. _meborin_ means physically sated after sufficient eating or drinking, including _uzhelu_, a drink. It does not mean the satisfaction of a fulfilled desire.
 
 ### Belonging and kin
 
-The head comes before its word of belonging. In the new examples, a noun's closing vowel is replaced by _-ing_: _ombelu_, house, gives _ombeling_, of the house; _mbeselu_, eye, gives _mbeseling_, of the eye. _Khuthel ombeling_ is the house's floor, _uzhoru mbeseling_ tears, and _ndozhu mbeseling_ a window, conventionally the eye's doorway. _Mbothulu nkaring_ is a lamp, the vessel of fire. The physical hearth is _mbethoru nkaring ombeling_, the fire-place in the house. Existing _nkaring_ retains its ordinary meaning of the flame or fire.
+The head comes before its word of belonging. In the new examples, a noun's closing vowel is replaced by _-ing_: _ombelu_, house, gives _ombeling_, of the house; _mbeselu_, eye, gives _mbeseling_, of the eye. _khuthel ombeling_ is the house's floor, _uzhoru mbeseling_ tears, and _ndozhu mbeseling_ a window, conventionally the eye's doorway. _mbothulu nkaring_ is a lamp, the vessel of fire. The physical hearth is _mbethoru nkaring ombeling_, the fire-place in the house. Existing _nkaring_ retains its ordinary meaning of the flame or fire.
 
-Kin phrases name the relationship, not a clan office. _Yombel pemboring_ is a grandmother, the mother of a parent. _Yombili yombiling_ is a grandchild. _Yombili sombiling pemboring_ is a cousin: the child of a sibling of one's parent. In that complete expression, the sibling-of-parent relation belongs inside the child relation. _Lembari ndengin_ is the separately cited status of a surviving person whose spouse has died; _mbenelin lembari ndengin_ names a widow and _mbenarin lembari ndengin_ a widower.
+Kin phrases name the relationship, not a clan office. _yombel pemboring_ is a grandmother, the mother of a parent. _yombili yombiling_ is a grandchild. _yombili sombiling pemboring_ is a cousin: the child of a sibling of one's parent. In that complete expression, the sibling-of-parent relation belongs inside the child relation. _lembari ndengin_ is the separately cited status of a surviving person whose spouse has died; _mbenelin lembari ndengin_ names a widow and _mbenarin lembari ndengin_ a widower.
 
-_Khuthel pembeling_ is soil, earth of plants. The same qualifier also belongs to _pembelu_, pregnancy; the soil phrase uses the plant sense. The cited kin phrases retain their own modifier order: _sombili mbenarin_ is a brother and _sombili mbenelin_ a sister.
+_khuthel pembeling_ is soil, earth of plants. The same qualifier also belongs to _pembelu_, pregnancy; the soil phrase uses the plant sense. The cited kin phrases retain their own modifier order: _sombili mbenarin_ is a brother and _sombili mbenelin_ a sister.
 
-The personal qualifiers are individually cited: _ngemin_, my or mine; _ndemin_, your or yours; _ngemirin_, our or ours. _Mebothu ngemin_ means my pot; _mebothu thumom ngemin_ means the pot is mine. The question _Mebothu thumom mbeyin?_ asks whose the pot is. These examples use the listed qualifiers, rather than prescribing new endings for every pronoun.
+The personal qualifiers are individually cited: _ngemin_, my or mine; _ndemin_, your or yours; _ngemirin_, our or ours. _mebothu ngemin_ means my pot; _mebothu thumom ngemin_ means the pot is mine. The question _mebothu thumom mbeyin?_ asks whose the pot is. These examples use the listed qualifiers, rather than prescribing new endings for every pronoun.
 
 ### Feelings and affection
 
-_Mbethom_ is knowing in general and _mbethenu_ knowledge in general. _Talithom_ and _talithu_ specifically concern knowing by study, preserving the established _talith-_ stem’s scope.
+_mbethom_ is knowing in general and _mbethenu_ knowledge in general. _talithom_ and _talithu_ specifically concern knowing by study, preserving the established _talith-_ stem’s scope.
 
-_Thimbaru_ is subjective certainty or confidence, including confidence in one's own capacity. _Sembor_ remains truth, and _sembin_ means true. Confidence may be mistaken. _Beloru thambing lembaring_ is satisfaction at a desire's fulfillment; its inner relation is fulfillment of desire. _Lemberu_ is frustration, the distress of an obstructed desire or effort.
+_thimbaru_ is subjective certainty or confidence, including confidence in one's own capacity. _sembor_ remains truth, and _sembin_ means true. Confidence may be mistaken. _beloru thambing lembaring_ is satisfaction at a desire's fulfillment; its inner relation is fulfillment of desire. _lemberu_ is frustration, the distress of an obstructed desire or effort.
 
-The four love expressions distinguish their recipients and the kind of care. _Membelu lemkheraring_ is romantic love for a beloved partner; _membelu mbenalaring_ friendship; _membelu sombening_ family love. _Membelu mbenaring mbemoi_ names selfless care for all human beings without demanding a return. In these affection phrases the qualifier names the recipient. _Lemkuru_ is sexual lust, which can occur with or without romantic attachment. _Yomboru_ expresses sympathy, compassion and pity as concern for another's suffering, including a wish to relieve it.
+The four love expressions distinguish their recipients and the kind of care. _membelu lemkheraring_ is romantic love for a beloved partner; _membelu mbenalaring_ friendship; _membelu sombening_ family love. _membelu mbenaring mbemoi_ names selfless care for all human beings without demanding a return. In these affection phrases the qualifier names the recipient. _lemkuru_ is sexual lust, which can occur with or without romantic attachment. _yomboru_ expresses sympathy, compassion and pity as concern for another's suffering, including a wish to relieve it.
 
 ### Quantity, place and time
 
-A count or measured amount is _ngorimu_. _Ngorimu mebothing thumom ntem_ says the number of pots is ten; _ngorimu uzhoring thumom mbet uzhelili_ says the amount of water is two cups. The questions replace the result with _ntayi_: _Ngorimu mebothing thumom ntayi?_ and _Ngorimu uzhoring thumom ntayi?_ The same forms work for other counted objects or measured substances when their cited belonging forms replace the pot or water qualifier.
+A count or measured amount is _ngorimu_. _ngorimu mebothing thumom ntem_ says the number of pots is ten; _ngorimu uzhoring thumom mbet uzhelili_ says the amount of water is two cups. The questions replace the result with _ntayi_: _ngorimu mebothing thumom ntayi?_ and _ngorimu uzhoring thumom ntayi?_ The same forms work for other counted objects or measured substances when their cited belonging forms replace the pot or water qualifier.
 
-_Thokalu ket_ is fourth, literally numbered position four; _thokalu mbethen_ is hundredth. _Mborinmu uzhoru_ is enough water for the purpose in view. _Mebothu tebu mbathurom ngorel uzhoru mborethen mbemoi mbenerin mebothu_ says this pot has more water than all the other pots. The comparison excludes the pot being described. The corresponding _ngomel_ construction gives least, and the _mborel_ and _mborkel_ comparisons give best and worst. _Mbetel ndokel ntem mebothu thumom mbethu_ means almost ten pots are here, still below ten. _Ngorut ntem mebothu thumom mbethu_ gives an approximate count around ten, which may be higher or lower.
+_thokalu ket_ is fourth, literally numbered position four; _thokalu mbethen_ is hundredth. _mborinmu uzhoru_ is enough water for the purpose in view. _mebothu tebu mbathurom ngorel uzhoru mborethen mbemoi mbenerin mebothu_ says this pot has more water than all the other pots. The comparison excludes the pot being described. The corresponding _ngomel_ construction gives least, and the _mborel_ and _mborkel_ comparisons give best and worst. _mbetel ndokel ntem mebothu thumom mbethu_ means almost ten pots are here, still below ten. _ngorut ntem mebothu thumom mbethu_ gives an approximate count around ten, which may be higher or lower.
 
-_Ngem ngenom mbo ombelu_ means I enter the house; _ngem ngenom ngo ombelu_, I exit it. _Mbo_ and _ngo_ have the inward and outward relation uses shown here. _Ngem mbekom ngorathen ombelu_ means I come from the house. _Mbor_ names a goal: _Ngem mbathom mebothu mbor ndem_, I bring the pot to you.
+_ngem ngenom mbo ombelu_ means I enter the house; _ngem ngenom ngo ombelu_, I exit it. _mbo_ and _ngo_ have the inward and outward relation uses shown here. _ngem mbekom ngorathen ombelu_ means I come from the house. _mbor_ names a goal: _ngem mbathom mebothu mbor ndem_, I bring the pot to you.
 
-A named time can situate an act: _Ngem mbekom zhekathu tebu_, I come today. _Ngem thambelom mbo pemburu_ means I wait during the birth; _ngem ntekom mbo mebu ngemin_, I listen while I eat. Here _mebu_ is the noun eating and _ngemin_ identifies its doer. _Ngem thumom mbethu ngorathen pemburu_ locates my being here from the birth onward. The words do not add a tense or conjugation table.
+A named time can situate an act: _ngem mbekom zhekathu tebu_, I come today. _ngem thambelom mbo pemburu_ means I wait during the birth; _ngem ntekom mbo mebu ngemin_, I listen while I eat. Here _mebu_ is the noun eating and _ngemin_ identifies its doer. _ngem thumom mbethu ngorathen pemburu_ locates my being here from the birth onward. The words do not add a tense or conjugation table.
 
 ### Questions, scope and conversation
 
-_Mbes_ negates the following act or quality: _Ngem mbes ngenom_, I do not go; _mbes sembin_, false. In _Ngem mbes mbakom ngenom_, I cannot go, the negation concerns ability. _Ngem mbathurom lemkolu ngenom_ says I have permission to go. _Ngem mbotharom mbes ngenom_ says I must not go: the obligation is to refrain. The dictionary gives each modal expression with its own scope.
+_mbes_ negates the following act or quality: _ngem mbes ngenom_, I do not go; _mbes sembin_, false. In _ngem mbes mbakom ngenom_, I cannot go, the negation concerns ability. _ngem mbathurom lemkolu ngenom_ says I have permission to go. _ngem mbotharom mbes ngenom_ says I must not go: the obligation is to refrain. The dictionary gives each modal expression with its own scope.
 
-_Mbis ndem mbes mbekom, ngem ngenom_ means unless you come, I go. _Ngem thambelom mbis ndem mbekom; mbis ndembethe ngem ngenom_ means I wait if you come; otherwise I go. The concessive and whether expressions likewise have complete clause examples in their entries. _Sembe, ngem lembom mbenthom_ affirms sincerity: truly, I want to help. _Thimbe_ instead expresses the speaker's conviction.
+_mbis ndem mbes mbekom, ngem ngenom_ means unless you come, I go. _ngem thambelom mbis ndem mbekom. mbis ndembethe ngem ngenom_ means I wait if you come; otherwise I go. The concessive and whether expressions likewise have complete clause examples in their entries. _sembe, ngem lembom mbenthom_ affirms sincerity: truly, I want to help. _thimbe_ instead expresses the speaker's conviction.
 
-_Korthom_ retains keeping watch over someone or something and extends to active defense in ordinary speech. _Zhekom_ retains shining and extends to revealing something; _vuthrom_ retains clashing in the battle line and extends to fighting more generally.
+_korthom_ retains keeping watch over someone or something and extends to active defense in ordinary speech. _zhekom_ retains shining and extends to revealing something; _vuthrom_ retains clashing in the battle line and extends to fighting more generally.
 
-The old _Okharé, ne thalé_ remains the greeting. _Ngem zhepimom, zharurom uzhoru_ is a courteous request: please give water. _Ngem zharom ndem_ gives thanks; _mbenem beloru_, with joy, answers them. _Ndokhelom ngem_ requests forgiveness. The short calls _mbekom mbethu_, come here, and _ngenom ngorathen mbethu_, go away, are cited requests. They do not prescribe a new imperative paradigm for every verb.
+The old _okharé, ne thalé_ remains the greeting. _ngem zhepimom, zharurom uzhoru_ is a courteous request: please give water. _ngem zharom ndem_ gives thanks; _mbenem beloru_, with joy, answers them. _ndokhelom ngem_ requests forgiveness. The short calls _mbekom mbethu_, come here, and _ngenom ngorathen mbethu_, go away, are cited requests. They do not prescribe a new imperative paradigm for every verb.
