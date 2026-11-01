@@ -8,4 +8,4 @@ tags: [draft]
 data: {packFolder: deitiesitzani}
 ---
 
-Nal'ik Ts'uqal is the Dreamer in Moonlight, the one of the Ten gods of the [[affiliation-itzanpnthn|Itsani Pantheon]] who asks no blood and takes cacao, flowers and the spoken word instead. He holds dreams, visions and the moon, and is served by the [[affiliation-naliktzuqal|Faith of Nal'ik Ts'uqal]], whose dream-temples archive centuries of visions.
+Nal'ik Ts'uqal is the Dreamer in Moonlight, the one of the Ten gods of the [[affiliation-itzanpnthn|Itsani Pantheon]] who asks no blood and takes cacao, flowers and the spoken word instead. She holds dreams, visions and the moon, and is served by the [[affiliation-naliktzuqal|Faith of Nal'ik Ts'uqal]], whose dream-temples archive centuries of visions.

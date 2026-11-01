@@ -604,7 +604,7 @@ hulkata onsaa ahi ellavita onsaa ehii hepyrsehe
 senval onsaa lonku meëve onsaa oso lannai onsaa/
 .nalkai naltu vennas eho ehii oso nalkai onsaa/
 .nerveho maireva ehii onsaa mairevi intista onsaa/
-ahi selni nalkai onsaa vennas ervu ahi eho vattenleësy
+ahi selni nalkai onsaa vennas ervu ahi eho vatteneleësy
 
 evatte lauva leltai onsa mollu/
 .lonsi onsa lirtyhe nalkai onsa penvai/
@@ -849,7 +849,7 @@ ummes elnerinu lonkuho mavisa meërynne meëry
 
 evi setty elnis vennas oso sirna onsa/
 .salnava vennas nervalo ylke elnerinu vennas setty ovuu/
-.esoho korpe ovuu onsaa vattenleësyhe kuse alken vennas/
+.esoho korpe ovuu onsaa vatteneleësyhe kuse alken vennas/
 oha sylle oha hyrre oha senval onsaa
 
 lonku iha lonku lonpu ahi/

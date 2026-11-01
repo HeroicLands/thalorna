@@ -484,7 +484,7 @@ vaukka kilpe vittel ulpanneho/
 .vaukka kilpe vittelo ahi horpe lirne
 
 iha mavisa irna lirne onsa luuro ehii onsa ellun erni lirne mavisa irna onsa/
-.evatte ehii onsa pennavi osotos tupe vennavi ennedhi vattenleësy ellun onsa eirandi/
+.evatte ehii onsa pennavi osotos tupe vennavi ennedhi vatteneleësy ellun onsa eirandi/
 vonu haulonna orti vennas salputos oso tupe onsaa/
 .eho orti nylkihe eho nylki ortiho ahi erni lirne ilte uttestos/
 ulpes naltu aldesse leësyhe oso ahi sattai lirne oso korpe kinsatti alte/

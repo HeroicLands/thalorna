@@ -3522,8 +3522,8 @@ data:
       field: "Beasts and birds"
       gloss: "fish, catch fish"
       built: ["hulka", "-ta"]
-    - form: vattenleësy
-      variants: ["vattenleësyhe"]
+    - form: vatteneleësy
+      variants: ["vatteneleësyhe"]
       class: "n"
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "a way back, a return path"
@@ -7854,6 +7854,8 @@ Two suffixes change shape after a stem that ends in a consonant, so that no join
 
 Two stems make one word: the first is the modifier and wears, the second is the head. _Kalpi_ "pale wood" and _lonku_ "the deep wood" give _halpilonku_, a birch stand within the forest. Each stem keeps its own harmony, so a compound may join a back stem to a front one, and the suffix follows the last.
 
+**Two stems join with the _e_ that _-rsa_ takes after a consonant** wherever the first ends in a consonant and the second begins with one that the cluster table does not pair with it. _Patten_ "return", worn to _vatten_, and _leësy_ "a path" give _vatteneleësy_, a way back. Where the two consonants make one of the listed pairings they meet directly, as _irtal_ and _melke_ give _irtalmelke_, a fountain.
+
 A **place name** is a compound of this kind, or a single stem with the place suffix. An enclave's own name is Sinale; the names human neighbours give enclaves are words in the neighbours' tongues.
 
 ### Adjectives and Modifiers
@@ -8156,7 +8158,7 @@ Three moves make regular built words in this lexicon. Fixed lexical forms are le
 
 **A suffix.** A word takes one of the derivational suffixes the language page lists, in the form its vowels call for. _Lorrami_ "woven cloth" holds back and neutral vowels and takes _-nno_ to give _lorraminno_ "a weaver"; _symme_ "the art" holds front vowels and takes _-nne_ to give _symmenne_ "one who works the art".
 
-**A compound.** Two words make one: the first describes the second and wears, the second keeps its own shape. _Kalpi_ "pale wood" and _lonku_ "the deep wood" give _halpilonku_ "a birch stand within the forest", the _k_ of the first worn to _h_. _Nuuva_ "starlight" and _talkaro_ "an age" give _nuuvatalkaro_ "the Age of Stars"; _nuuva_ opens on _n_, which is worn already, and does not change.
+**A compound.** Two words make one: the first describes the second and wears, the second keeps its own shape. _Kalpi_ "pale wood" and _lonku_ "the deep wood" give _halpilonku_ "a birch stand within the forest", the _k_ of the first worn to _h_. _Nuuva_ "starlight" and _talkaro_ "an age" give _nuuvatalkaro_ "the Age of Stars"; _nuuva_ opens on _n_, which is worn already, and does not change. Where the two words meet on two consonants the cluster table does not pair, they take the joining _e_ the language page sets out, as _patten_ and _leësy_ give _vatteneleësy_ "a way back".
 
 **A name.** A given name is a word in its plain form with a naming ending; a lineage name is the same word with the hearth ending. _Tirvali_ "the long road" gives the given names _Tirvalitti_ and _Tirvalitta_ and the lineage name _Tirvalinto_, "the hearth of the long road". The ending _-la_ is not used on _tirvali_, which already ends on _l_.
 
