@@ -1,4 +1,4 @@
-fonttools==4.67.0
+fonttools==4.68.0
 numpy==2.5.4
 Pillow==13.0.0
 scipy==1.18.1
