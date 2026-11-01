@@ -490,7 +490,7 @@ ek harlen ol kambo us denon,/
 ek ar urkis verezos hir pethad/
 kethis sathad, ken herthe,/
 ek navera hos dumva ir nathre./
-Eza ervo? En aved kezdad.
+Eza ervo? En kezdad.
 :::
 
 ::: {.verse form=prose lang=en work=last-word-stamp}
