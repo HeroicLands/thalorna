@@ -30,7 +30,7 @@ A Tantsou builder asked to add a fourth step to a temple stair adds a fifth inst
 ## Numbers in Daily Life
 
 Dates
-: weddings, coronations and the dedication of buildings are set for days and hours that carry auspicious numbers, and a [[lore-tanchei|Tanchei]] astrologer is paid to find one.
+: weddings, coronations and the dedication of buildings are set for days and hours that carry auspicious numbers, and a [[lore-tanchei|Tanchei]] astrologer is paid to find one. An official record writes no fourth year of a reign, and calls it the year after the third.
 
 Design
 : a temple has nine steps to its door, a merchant house opens on an eighth day, and no official building has four of anything that can be counted.

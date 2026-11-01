@@ -40,6 +40,15 @@ data:
     - name: "Hiora"
       definition: "An ordained priestess, the working clergy of a temple; pl. Hiorai"
     - {name: "Hierossa", definition: "The Sacred College"}
+    - name: "katelun"
+      definition: "A tunnel-well, the underground channel from a mother-well to the fields that the Khelathi engineers taught"
+    - {name: "kathur", definition: "A seal, and the warrant or letter sealed with it"}
+    - name: "kiris"
+      definition: "Master: a courtesy for a valued man that grants him no property, rights or voice"
+    - {name: "en-telekas", definition: "The quay, the harbor-front"}
+    - {name: "khabetun", definition: "A bonded warehouse on the quay"}
+    - {name: "et-degan", definition: "The customs-due paid on goods brought onto the quay"}
+    - {name: "Nauklera", definition: "A ship-mistress, captain of a galley and often its owner"}
     - name: "Lonkhissa"
       definition: "An officer commanding a company of the Lonkhai; pl. Lonkhissai"
     - {name: "Parthena", definition: "A novice in the long temple education; pl. Parthenai"}
@@ -107,13 +116,13 @@ Above the army stands the fleet, which is what Bethua is actually famous for: th
 
 [Dorashos]{.name data-type="being/npc"}, a Spados posted to the quays of [[place-bethura|Bethura]], is the man the harbor-quarter and the Houses both remember, and the story is told in the wards as often as in the halls. Taken young and sworn, he was a son of that quarter before the oath, and when the oar-gangs of the harbor stopped rowing and a rising began on the quays, he went into the crowd with his blade sheathed and named the men in front of him one by one. He knew their mothers' Houses. The gangs rowed on the next tide, and the Houses whose granaries stood sealed opened them within the week. The Spear-Sisterhood was never loosed on the quarter.
 
-The Bethuan admire in him what the realm asks of every man and asks hardest of the Spadai: strength held under restraint, and loyalty that prevents the nightmare and does not need to answer it. He is the proof offered for the whole order, that a man can be armed and safe. His cost is that he belongs to neither side of it. The men of the quarter do not forget which hand wears the blade, and the Houses honor him in song and do not let him own the bench he sits on.
+The Bethuan admire in him what the realm asks of every man and asks hardest of the Spadai: strength held under restraint, and loyalty that prevents the nightmare and does not need to answer it. He is the proof offered for the whole order, that a man can be armed and safe. The song the temple sings over every new cadre of Spadai, [[lore-dorashospraise|the Praise of Dorashos]], names the men he named, and the harbor-quarter calls two lines back up the quay when it ends: [He came with it sheathed./He came with it, though.]{.verse} His cost was that he belonged to neither side of it. The men of the quarter do not forget which hand wears the blade, and the Houses honor him in song and did not let him own the bench he sat on.
 
 ## The Woman Admired
 
 Matriarch [Aselia of House Khalath-Mara]{.name data-type="being/npc"}, the senior voice of the [Council of Matriarchs]{.name data-type="affiliation/governmental"}, is the woman the trading Houses point to when they say what a matriarch is for. Her House is the oldest and most prestigious of the Great Houses, seated at [[place-ashira|Oshira]], and trades in premium wine and olive oil. She has held her place for decades, and she is the most politically capable of the Bethuan trade-house figures of her generation. She is the dominant voice on the Council when she chooses to speak.
 
-Her admiration is not a lesser form of the Spados's. Dorashos holds a quarter quiet with his own body, and Aselia holds a federation of rival Houses to one standard of credit with her own word. Her cost is the weight of that silence. A matriarch who speaks only when she chooses answers for everything the Council does when she does not.
+Her admiration is not a lesser form of the Spados's. Dorashos held a quarter quiet with his own body, and Aselia holds a federation of rival Houses to one standard of credit with her own word. Her cost is the weight of that silence. A matriarch who speaks only when she chooses answers for everything the Council does when she does not.
 
 ## What the Realm Keeps
 
@@ -157,7 +166,7 @@ The one exception is an official of Au'Khelathu, received with marked deference 
 
 The Aureldian faith teaches that the soul passes through the gate that [[lore-selmorosdty|Sélmoros]], the Silent Judge, keeps. His priests sit with the dying, and the dying person speaks a final testimony: wrongs confessed, goods affirmed, so the soul meets the gate with an unburdened heart. The Threshold Keepers keep the temple's records of the dead.
 
-The belief changes an ordinary day in the ledger. A Bethuan woman settles the House's accounts, names her successor in public and leaves the House solvent, because a House is judged by its payments and the Archivist's roll keeps what she did. A House endows its crypt and pays for the perpetual care of its tombs, since the temples live on endowments and the temple's record of the dead is what a House's standing rests on. A man's testimony is spoken to the priest in his own voice, and it is one of the few places in a life where he speaks for himself and is entered in a record under his own name. He is otherwise entered under his mother's House.
+The belief changes an ordinary day in the ledger. A Bethuan woman settles the House's accounts, names her successor in public and leaves the House solvent, because a House is judged by its payments and the Archivist's roll keeps what she did. A House endows its crypt and pays for the perpetual care of its tombs, since the temples live on endowments and the temple's record of the dead is what a House's standing rests on. A man's testimony is spoken to the priest in his own voice, and it is one of the few places in a life where he speaks for himself and is entered in a record under his own name. He is otherwise entered under his mother's House. The digger whose testimony the Order of the Waters reads at every new mother-well, [[lore-risakostest|the Testimony of Rísakos]], asks for nothing so plainly as that: [And I ask that this go in under my own name. I know it does. They told me. I'm asking anyway, so I've asked.]{.verse}
 
 ## Reaching the Dead
 
@@ -192,6 +201,17 @@ Defense is the Spear-Sisterhood and the Spadai, the fleet and the household guar
 The House is the mother's line, and membership is the mother's name. A daughter is born to her House and an infant son is entered under his mother's. A girl is a Parthena, a trainee of the Lonkhai or a pupil at the bench of a lettered House. A young woman takes a lesser office and waits, serves in the Spear-Sisterhood or on a galley, or rises in the temple or the rolls. A mature woman holds the seal of a House or a seat on one of the councils. An old woman advises, and a dying woman names her successor in public. Marriage is a matter of the matriarch's, since a matriarch commands her House's property, its ships and its marriages.
 
 A boy's life is a series of charges: his mother, then the matriarch, then a mistress. A young man works the oar, the orchard or the bench. A gifted one is put forward for the Spadai; a beautiful one becomes an ornament; a skilled one an asset; the rest are hands. An old man is kept as a charge until he dies.
+
+## The Works the Houses and the Quays Know
+
+The lines a Bethuan quotes in the garden, at the Archivist's table, on the quay and at the oar come from a handful of works, half of them in the temple's speech and half in the quay's:
+
+- [[lore-loomworld|The Loom of the World]] is the hymn the Parthenai of Lusinia sing in two half-choirs at First Growth while the gardens are planted, and it tells how the Weaver set the warp of the world and left the dry country bare for her daughters to weave, one thread past where she stopped.
+- [[lore-headofroll|The Head of the Roll]] is read in the Council of Houses each time a Dómissa takes her seal, and its Dry Year, its first seal on the cistern and its first roll of those who drank are the realm's account of why a seal is a woman's and a man is written under the woman who answers for him.
+- [[lore-dorashospraise|The Praise of Dorashos]] is sung at the head of the Bethura quay when a cadre of Spadai is sworn, and its refrain is what the realm asks of them: [Strength held, and the blade asleep.]{.verse}
+- [[lore-jubenoswine|How Júbenos Sold the Captain's Wine]] is the stroke-oar's tale on the long pull home, of a porter who told a northern captain he was the master, and the Houses laugh at it in one place and the benches in another.
+- [[lore-risakostest|The Testimony of Rísakos]] is a digger's dying testimony, kept under his own name, which the Order of the Waters reads at the head of every new mother-well before the first spade goes in.
+- [[lore-vigilwatch|The Watch-Song of the Vigil]] is what the galley crews sing at anchor through the night of the Thunderhead Vigil, counting the year's lost hulls and remembering the night the Thunderer came early and caught the mother-city's fleet off the headland.
 
 ## What the Order Fears
 

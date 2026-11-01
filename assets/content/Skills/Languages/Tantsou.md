@@ -4908,6 +4908,21 @@ data:
       built: [wie, tsin, nong, ja, dei]
       concept: question-whose
       field: Doing and describing
+    - form: nie chou
+      class: n
+      gloss: annal; the year record a Tanchei recorder keeps for a district or a ministry, entered under the reign year in fixed verbs
+      built: [nie, chou]
+      field: Heaven, law and the order of things
+    - form: ken wan
+      class: n
+      gloss: hearth account; the reckoning of a household's credits and debits that its heir reads before the shrine at the Festival of the Dead
+      built: [ken, wan]
+      field: Heaven, law and the order of things
+    - form: kuo chou
+      class: n
+      gloss: last record; the testament a person of rank writes before Tseising or Ruising, burned after the rite and kept in copies
+      built: [kuo, chou]
+      field: Heaven, law and the order of things
   icon: icon-speaking
   templatePriority: null
   packFolder: language
@@ -5119,6 +5134,7 @@ data:
     - {name: Censor of Purity, tongue: translation}
     - {name: Chaiwong, tongue: tanvuri, built: [chai, wong]}
     - {name: Chaizho, tongue: tanvuri, built: [chai, zho]}
+    - {name: Chiao Chai Tui Sen, tongue: tanvuri, built: [chiao, chai, tui, sen]}
     - {name: Champion, tongue: translation}
     - {name: Chief Intendant, tongue: translation}
     - {name: Chougen, tongue: tanvuri, built: [chou, gen]}
@@ -5172,13 +5188,16 @@ data:
     - {name: Huenwo, tongue: tanvuri, built: [huen, wo]}
     - {name: Huenzhuo, tongue: tanvuri, built: [huen, zhuo]}
     - {name: Ho Sei, tongue: tanvuri, built: [ho, sei]}
+    - {name: Houweng, tongue: tanvuri, built: [hou, weng]}
     - {name: Illuminator, tongue: translation}
     - {name: Infernal Realms, tongue: translation}
     - {name: Intendant, tongue: translation}
     - {name: Intendant of the Bureau, tongue: translation}
     - {name: Intermediary, tongue: translation}
+    - {name: Iron Gate of the Winter Mountain, tongue: translation}
     - {name: Iron Spear Piercing the Clouds, tongue: translation}
     - {name: Jade Fan Dance, tongue: translation}
+    - {name: Jenshou, tongue: tanvuri, built: [jen, shou]}
     - {name: Keeper of the Forms, tongue: translation}
     - {name: Keeper of the Hall, tongue: translation}
     - {name: Keeper of the Sacred Texts, tongue: translation}
@@ -5226,6 +5245,7 @@ data:
     - {name: Registrar, tongue: translation}
     - {name: Registrar of Allocations, tongue: translation}
     - {name: Rinho Daoweng, tongue: tanvuri, built: [rin, ho, dao, weng]}
+    - {name: Rinnou, tongue: tanvuri, built: [rin, nou]}
     - {name: "Ritual: Daotou Wochai", tongue: translation}
     - {name: "Ritual: Douyo", tongue: translation}
     - {name: "Ritual: Fawo", tongue: translation}

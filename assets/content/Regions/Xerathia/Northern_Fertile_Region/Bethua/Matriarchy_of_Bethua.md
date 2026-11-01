@@ -236,7 +236,7 @@ The genius and the fragility of the Bethuan constitution is that **neither pilla
 | **Naukrátissa**           | Martial bridge          | "Sea-mistress"; admiral of the Bethuan fleet                                      |
 | **Lonkhissa**             | Martial bridge          | Officer of the Lonkhai (Spear-Sisterhood)                                         |
 | **Spados** (pl. _Spadai_) | Martial (Men)           | Sworn eunuch-warrior; the only men permitted arms; highly honored                 |
-| **Gharmos**               | (Men)                   | Courtesy "master" for a valued/skilled man; confers no property, rights, or voice |
+| **Kiris**                 | (Men)                   | Courtesy "master" for a valued/skilled man; confers no property, rights, or voice |
 
 ## Collective Bodies
 

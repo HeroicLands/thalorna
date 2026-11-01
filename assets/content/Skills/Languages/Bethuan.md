@@ -699,16 +699,16 @@ Outside [[place-bethuargn|Bethua]], Bethuan texts are rare; knowledge of the lan
 
 Bethuan evolved from **Proto-Helonic** along a distinct path, isolated by geography and political circumstance:
 
-Ancient Bethuan (pre-1200 years ago)
+Ancient Bethuan (before about 480 BF)
 : Little is known; presumably similar to contemporary Helonic, though some older phonetic features were retained.
 
-Classical Bethuan (1200–500 years ago)
+Classical Bethuan (about 480 BF to 220 AF)
 : The period when the matriarchal society crystallized. The register system emerged during this era, initially as social convention, then formalized into grammar. Texts from this period show transition from a single grammatical system to the two-register paradigm.
 
-Medieval Bethuan (500–200 years ago)
+Medieval Bethuan (about 220 to 520 AF)
 : The golden age of Bethuan literature, philosophy, and theatrical arts. The feminine register reached its fullest elaboration; conservative grammar was celebrated as a marker of elite identity.
 
-Modern Bethuan (200 years ago–present)
+Modern Bethuan (from about 520 AF)
 : Gradual simplification of the masculine register through contact with practical trades, and—the great lexical event of the modern period—a heavy influx of **Khelathi loanwords** following independence, as the realm rebuilt its treasury, its water-engineering, its calendar, and its overseas commerce on Khelathi models (see below). Yet the prestige of the feminine register ensures its preservation in formal contexts, and the loanwords largely spared the literary language. Modern poets and philosophers deliberately employ archaic feminine forms—and pointedly _un_-borrowed Helonic vocabulary—to signal learning and refinement.
 
 ## The Khelathi Superstrate {#the-khelathi-superstrate}

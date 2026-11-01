@@ -37,7 +37,7 @@ The wedding is a registration, and each of its five steps does a piece of admini
 
 **The consultation** (_Kuo Lei Wou_). Before the union is final, a Leigen speaks with the ancestors of both families to win their consent. An ancestor who objects can forbid the marriage, and defying the prohibition costs the household heavily on its ledger. Clans bargain with reluctant ancestors much as they bargain with each other, with extra offerings burned until the spirit relents.
 
-**The tablet transfer** (_Kuo Chou Dou_). Chosen ancestor tablets are carried from the bride's family shrine to the groom's. This is the solemn heart of the wedding, because it changes where those ancestors are addressed in the celestial filing: from tonight they argue for this household. A Leigen or a Tanchei performs it, in exact ritual words, so that the change of address is recorded correctly.
+**The tablet transfer** (_Kuo Lei Chai Tiao_). Chosen ancestor tablets are carried from the bride's family shrine to the groom's. This is the solemn heart of the wedding, because it changes where those ancestors are addressed in the celestial filing: from tonight they argue for this household. A Leigen or a Tanchei performs it, in exact ritual words, so that the change of address is recorded correctly.
 
 **The sealing** (_Hou Wo_). A seal carved for the occasion is pressed into red clay and set on the new shrine beside the transferred tablets. Every spiritual filing the household makes will carry that seal, and from the moment it is set, the household exists in the cosmic order.
 

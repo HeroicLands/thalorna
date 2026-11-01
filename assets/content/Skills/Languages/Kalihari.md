@@ -6021,6 +6021,7 @@ data:
     - {name: Tender of the Sill, tongue: translation}
     - {name: Terrace Mole, tongue: translation}
     - {name: Thal'ari, tongue: kalihari}
+    - {name: The Account of What Was Given, tongue: translation}
     - {name: The Avoluthei, tongue: translation}
     - {name: The Bowl, tongue: translation}
     - {name: The Bowl Lake, tongue: translation}
@@ -6028,11 +6029,15 @@ data:
     - {name: The Cloud Pass, tongue: translation}
     - {name: The Council, tongue: translation}
     - {name: The Council of the Island, tongue: translation}
+    - {name: The Dawn Tending at the Spring, tongue: translation}
     - {name: The Deep Forest, tongue: translation}
     - {name: The Doldrum Sea, tongue: translation}
     - {name: The Eastern Terraces, tongue: translation}
+    - {name: The Factor Who Asked Twice, tongue: translation}
     - {name: The Great Bowl, tongue: translation}
+    - {name: The Handing of the Account, tongue: translation}
     - {name: The Held Stones, tongue: translation}
+    - {name: The Holding at the River Bend, tongue: translation}
     - {name: The House of Factors, tongue: translation}
     - {name: The House of the Failing Works, tongue: translation}
     - {name: The Ithari, tongue: translation}
@@ -6053,6 +6058,7 @@ data:
     - {name: The Sanctuary of Mirthaan, tongue: translation}
     - {name: The Sanctuary of Thal'ari, tongue: translation}
     - {name: The Sanctuary of Veshvaan, tongue: translation}
+    - {name: The Saying of the Thread, tongue: translation}
     - {name: The Southern Stair, tongue: translation}
     - {name: The Still-Water Sill, tongue: translation}
     - {name: The Sílhari Circle, tongue: translation}

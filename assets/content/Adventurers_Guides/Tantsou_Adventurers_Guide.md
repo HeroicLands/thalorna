@@ -22,6 +22,17 @@ From the top: the [[lore-zhazho|Zhazho]], sons of the Dragon, the Emperor's fami
 
 Common faith is [[lore-ancstrwrshp|ancestor worship]], kept as a ledger: merit and default are recorded, carried and inherited, and a family that neglects its rites is in debt to its own dead. A Tantsou introduces himself by lineage and caste, in that order, and most people of the lower castes have no personal name at all. Manners are formal and exact. A Tantsou does not say no outright; he declines in ways a foreigner has to learn to hear. A Tanchei's reading of the omens can postpone a campaign.
 
+## What the Registers Keep
+
+The empire writes everything down, and its best-known works are written the way its offices write: as a reading, an annal, an account, a petition, a roll and a last record.
+
+- [[lore-readingsorting|The Reading of the Sorting]] is read in every audit hall at the new year, and tells how the world was sorted, how it would end if the sorting failed, and why keeping it is everyone's work.
+- [[lore-annaljenshou|The Annal of Jenshou]] is a district annal in which a flood is written with the verb a Warlord's office ordered, and the Tanchei schools teach it in two readings that disagree.
+- [[lore-hearthaccount|The Hearth Account of the Third Terrace]] is a farming household's reckoning with its dead at midwinter, and the model the village Leigen teach an heir from.
+- [[lore-petitionseals|The Petition with Every Seal]] is a hearth tale for the Moon Festival of a petition that went round every bureau of heaven, and came back with one seal too many.
+- [[lore-unnumberedtwr|The Song of the Unnumbered Tower]] is the soldiers' song of the northern marches, of the tower with no number and three men written down right.
+- [[lore-lastrecordiron|The Last Record of Iron Gate of the Winter Mountain]] is the last record of an officer who would not break a village's tablets, and never once says no.
+
 ## Places and Dangers
 
 - The frontier way-station beyond [[place-jnanadvar|Jnanadvar]] feeds and houses every traveler for as long as the weather requires, and has kept its register without a gap for four hundred years.

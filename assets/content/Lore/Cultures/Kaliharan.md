@@ -86,6 +86,17 @@ Ordinary Kaliharans do not write. The island's archive is what the people recite
 
 The skill has levels. At low mastery a Kaliharan can memorize some things and the details go muddy, and at very high mastery a memorizer holds vast amounts of detailed information. The masters teach it to others. The highest of them are the [Vaarnei]{.name data-type="lore/custom"}, the "holders of record", who are commissioned to record important documents and agreements much as notaries public are elsewhere. They attest to the details of complex agreements, and a master may hold the details of many hundreds of them, with laws, decrees and histories besides.
 
+## What the Island Recites
+
+Kalihara has no singers and no tellers by trade. Every Kaliharan recites, and the works the island holds are said at a threshold, at a work, at a giving or on a quay, and all but the quay's are kept word for word from one saying to the next:
+
+- [[lore-whatwasgiven|The Account of What Was Given]] is the first account a child of the interior hears, said by the eldest woman of the house at Dry-Turn before the child is given an account of her own: the people the Ithari found, what they gave without a word, and the morning the island woke to their absence. Its refrain is the line every Kaliharan of the interior knows: "It was not said. It was known."
+- [[lore-kalithread|The Saying of the Thread]] is a custodian's line said knot by knot as her keepers' thread is tied at her wrist, back to the keeper who received more in the night and in the morning had nobody to give it back to.
+- [[lore-handingaccount|The Handing of the Account]] is a dead woman's sílhari account said through by her daughter at the first Deepwater after the death, sixty years of one terrace that the lake has risen over.
+- [[lore-springtending|The Dawn Tending at the Spring]] is the sequence a kaan'vaar says over a spring-stone in the hour before sunrise, with its old words, the lines said of the water whatever the water is doing, and the close the village hears once, at a Last Tending.
+- [[lore-holdingbend|The Holding at the River Bend]] is an agreement held by a Vaarnei, between an Elder whom nothing answers and the bondservant her lineage's stone answers, and the dispute over the one word she chose.
+- [[lore-factortwice|The Factor Who Asked Twice]] is the quay tale Ilovanu tells a newcomer on the first evening, of the factor from Helionis who asked one question twice and then sat down and watched.
+
 ## Tending, Looking and Holding
 
 An ordinary Kaliharan keeps the three observances. _[Sílhari]{.name data-type="lore/custom"}_ is the daily looking: a few minutes at dawn at the insects in a garden, an hour at dusk at a flock returning, one full day a season at a stretch of forest or shore. _[Vaan'ari]{.name data-type="lore/custom"}_ is the tending of the part that is one's own, whether it is a household garden, a grove, a reef or a terrace a lineage has worked for thirty generations. _[Kaan'vaar]{.name data-type="lore/custom"}_ is the holding of inherited practice by exact repetition, careful teaching and refusal of improvisation where it matters. Nobody prays and nobody makes an offering.
@@ -144,7 +155,7 @@ The belief reaches ethics, property and burial. A Kaliharan hands the tended par
 
 ## Reaching the Dead
 
-The living cannot affect the dead, and the dead do not reach the living. There is nothing to ask for. The dead are in the Whole, as the living are, and the part they tended is tended by someone else. What a Kaliharan can do for a person who has died is keep their account in the household's recitation and keep their part in order, and the cost is the tending itself. Thári'vaan is not ancestor veneration and does not become one. In the ports a Kaliharan who follows one of the Aureldian faiths may have priests of the [[affiliation-selmoros|Faith of Sélmoros]] attend his dying, and the interior neither forbids nor shares it.
+The living cannot affect the dead, and the dead do not reach the living. There is nothing to ask for. The dead are in the Whole, as the living are, and the part they tended is tended by someone else. What a Kaliharan can do for a person who has died is keep their account in the household's recitation and keep their part in order, and the cost is the tending itself. At the first Deepwater after a death the one who holds the dead person's part says the account through in the dead person's words, adding nothing, and closes it on an entry of her own, which ends, as every day's looking ends, "Tomorrow, at the same hour." Thári'vaan is not ancestor veneration and does not become one. In the ports a Kaliharan who follows one of the Aureldian faiths may have priests of the [[affiliation-selmoros|Faith of Sélmoros]] attend his dying, and the interior neither forbids nor shares it.
 
 ## What a Person Owes
 

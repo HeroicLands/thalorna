@@ -32,6 +32,17 @@ Do not mistake an unarmed Bethuan woman for a defenseless one: the [[skill-chari
 
 A Trade-House pays you in paper and a rival House refuses to honor it three ports along. A keeper of the sealed rolls of the [Purple Warrant]{.name data-type="lore/law"}, the crown's commission for privateers, has fled south with one of them, and a party that rides with the thief-taker [[being-lmbhrpdhnn|Lámbira Pédhinion]] may be sent after her. A qanat in the interior has failed, the engineer-priestesses want to know whether the collapse was an accident, and the village beside it is watching its fields brown. A Vylarian captain wants a crew to find out which Bethuan galley took his cargo.
 
+## Hymns, Rolls and Quay Tales
+
+A newcomer hears these quoted in the gardens, the Council's hall and the wine-shops of the quay long before anyone explains them:
+
+- [[lore-loomworld|The Loom of the World]] is the hymn the temple's girls sing at First Growth, in which the World-Weaver sets the warp of the world and leaves the dry country for her daughters to weave.
+- [[lore-headofroll|The Head of the Roll]] is read whenever a House-Mother takes her seal, and tells of the Dry Year, when a woman sat on the lid of the first cistern and read the names of everyone who drank.
+- [[lore-dorashospraise|The Praise of Dorashos]] is sung over every new cadre of Spadai, for the eunuch-warrior who ended a rising on the Bethura quay by naming each man's mother: [Strength held, and the blade asleep.]{.verse}
+- [[lore-jubenoswine|How Júbenos Sold the Captain's Wine]] is the oarsmen's tale of a northern captain who would deal only with the master, and the porter who said he was one. A foreign man who insists on the master should know it.
+- [[lore-risakostest|The Testimony of Rísakos]] is a tunnel-digger's deathbed testimony, read aloud by the engineer-priestesses each time they begin a new well.
+- [[lore-vigilwatch|The Watch-Song of the Vigil]] is sung on the galleys at anchor through the night of the Thunderhead Vigil, and counts the year's lost ships.
+
 ## Where to Read Next
 
 - [[affiliation-mtrrchybth|The Matriarchy of Bethua]] for the two pillars, the titles and the election of the Metrissa
