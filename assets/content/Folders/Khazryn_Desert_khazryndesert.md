@@ -8,7 +8,7 @@ data: {parent: {default: polities, journals: ankaris}, color: "#4CAF50"}
 This folder gathers the notes of the Khazryn Desert in [[place-ankrscntnnt|Ankaris]]. Its members are:
 
 - the [[place-khzryndsrtrgn|Khazryn Desert Region]], the [[affiliation-khzrncnfdrtn|Tellumi Confederation]], the [[affiliation-tribestrzd|Tribes of Atarzád]] and [[lore-khzrnclndr|the Tellumi Calendar]];
-- the sub-regions: [[place-swoasisbelt|Tellumel]], [[place-dkrqrrgn|Diqraqor]], [[place-gwtkrrgn|Ghotaqor]], [[place-hskrrgn|Khoshiqor]], [[place-idwkrrgn|Idvaqor]] and [[place-wlqtrrgn|Volketor]];
+- the sub-regions: [[place-swoasisbelt|Tellumel]], [[place-dkrqrrgn|Diqraqor]], [[place-gwtkrrgn|Ghotaqor]], [[place-hskrrgn|Ghoshiqor]], [[place-idwkrrgn|Idvaqor]] and [[place-wlqtrrgn|Volketor]];
 - the places of the oasis country: [[place-ashkarad|Ashkarad]], [[place-caldar|Kaldar]], [[place-kethramir|Kethramír]], [[place-mehrnagord|Mernagord]], the [[place-oasishirvn|Oasis of Shirvan]], [[place-ushtraber|Ushtra-ber]], [[place-vahurdash|Vahurdash]] and [[place-zargandur|Zargandur]], with [[place-beitshofar|Beit Shofar]] and [[place-mountshofar|Mount Shofar]];
 - the waypoints of [[lore-celestialroad|the Celestial Road]]: [[place-qisomrktcmp|Qiiso]], [[place-roqid|Oroqid]], [[place-sowidwell|Sovid]] Well and [[place-yemokwell|Yemok]] Well;
 - the steppe tribes: the [[affiliation-jbzrtrb|Jobizur]], [[affiliation-qbdrtrb|Qibudur]], [[affiliation-rwlstrb|Uruvolur]], [[affiliation-rqdrtrb|Oroqidur]], [[affiliation-kndrtrb|Kenodur]] and [[affiliation-ksrrtrb|Koserur]];

@@ -116,7 +116,7 @@ Have you heard what the Long-Watcher said to the Seer?/
 ::: {.verse form=saunari lang=sina enc=sinaveldikkoenc work=dreams}
 uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
 .aulveira alken olpeira ovu palmiso nalduho evatte onsa iha/
-.ahi navessi onsa ovu ennomi ovu onsa ahi verran ovu onsa
+.ahi navessi onsa ovu ennomi ovu onsa ahi verrun ovu onsa
 
 uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
 .ennomi ovu olpeira ennomi ovu vaulti nelvi melke esoho ahi ennomi ovu ovu lannairsa/
@@ -353,7 +353,7 @@ uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
 .senvelli ovu onsa ulsen evi ulsen
 
 uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
-.naldu huvetta nirritos aume onsa torveltos/
+.naldu huvetta nirrutos aume onsa torveltos/
 .sirneta ovu raivas onsa ilnavatos evi onsa tahkersatos ahi sirneta ovu onsa elnerinutos oso harnavi onsa
 
 uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
@@ -507,7 +507,7 @@ uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
 .ahi elvata ovu lirne onsa evakkatos oso evatte onsa irna ehi uulse
 
 uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
-.erdavi salliva nemmanysse onsa ennakke aukkessa erdavi ummes nemmanysse vennas onsaa ennakke aukkessa/
+.erdavi sallira nemmanysse onsa ennakke aukkessa erdavi ummes nemmanysse vennas onsaa ennakke aukkessa/
 .erdavi onsa uttes elnerinu vennas onsa aiva oha ahi erdavi lirne onsaa
 
 uvi kelsa ovu ansorun evakka oso kelsa iltorîn/

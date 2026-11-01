@@ -973,7 +973,7 @@ data:
       "gloss": "to watch; to observe attentively"
       "built": ["paziruk-", "-am"]
       "concept": "watch"
-    - "form": "nashu"
+    - "form": "nashku"
       "class": "n"
       "field": "Everyday speech"
       "gloss": "appearance; the way any person, thing or place looks"
@@ -1643,7 +1643,7 @@ data:
       "field": "Everyday speech"
       "gloss": "the hair"
       "concept": "hair"
-    - "form": "nishu"
+    - "form": "nishmu"
       "class": "n"
       "field": "Everyday speech"
       "gloss": "the face"
@@ -1683,7 +1683,7 @@ data:
       "field": "Everyday speech"
       "gloss": "the tongue"
       "concept": "tongue"
-    - "form": "qadilu"
+    - "form": "qadibu"
       "class": "n"
       "field": "Everyday speech"
       "gloss": "the neck"
@@ -1801,33 +1801,33 @@ data:
       "concept": "forehead"
       "built": ["qashu", "palir"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "nishu taniru"
+    - "form": "nishmu taniru"
       "class": "n"
       "field": "Everyday speech"
       "gloss": "jaw"
       "concept": "jaw"
-      "built": ["nishu", "taniru"]
+      "built": ["nishmu", "taniru"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "nishu dalu"
+    - "form": "nishmu dalmu"
       "class": "n"
       "field": "Everyday speech"
       "gloss": "chin"
       "concept": "chin"
-      "built": ["nishu", "dalu"]
+      "built": ["nishmu", "dalmu"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "nishu lulum"
+    - "form": "nishmu lulum"
       "class": "n"
       "field": "Everyday speech"
       "gloss": "cheek"
       "concept": "cheek"
-      "built": ["nishu", "lulum"]
+      "built": ["nishmu", "lulum"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "paliru qadilu"
+    - "form": "paliru qadibu"
       "class": "n"
       "field": "Everyday speech"
       "gloss": "throat"
       "concept": "throat"
-      "built": ["paliru", "qadilu"]
+      "built": ["paliru", "qadibu"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
     - "form": "badilu"
       "class": "n"
@@ -1883,12 +1883,12 @@ data:
       "concept": "thigh"
       "built": ["tazilu", "bibudan"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "tazilu qadilu"
+    - "form": "tazilu qadibu"
       "class": "n"
       "field": "Everyday speech"
       "gloss": "ankle"
       "concept": "ankle"
-      "built": ["tazilu", "qadilu"]
+      "built": ["tazilu", "qadibu"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
     - "form": "tazilu dazilu"
       "class": "n"
@@ -2531,19 +2531,19 @@ data:
       "field": "Everyday speech"
       "gloss": "child"
       "concept": "child"
-    - "form": "qiziru naru"
+    - "form": "qiziru nabzu"
       "class": "n"
       "field": "Everyday speech"
       "gloss": ["son", "boy"]
       "concept": ["son", "boy"]
-      "built": ["qiziru", "naru"]
+      "built": ["qiziru", "nabzu"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "qiziru niru"
+    - "form": "qiziru nidru"
       "class": "n"
       "field": "Everyday speech"
       "gloss": ["daughter", "girl"]
       "concept": ["daughter", "girl"]
-      "built": ["qiziru", "niru"]
+      "built": ["qiziru", "nidru"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
     - "form": "zamulu"
       "class": "n"
@@ -2633,19 +2633,19 @@ data:
       "concept": "grandparent"
       "built": ["lamiru", "ki", "lamuru", "mi", "lamiru", "ki", "lamuru"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "qiziru naru mi zamulu ki zamiru"
+    - "form": "qiziru nabzu mi zamulu ki zamiru"
       "class": "n"
       "field": "Everyday speech"
       "gloss": "nephew"
       "concept": "nephew"
-      "built": ["qiziru", "naru", "mi", "zamulu", "ki", "zamiru"]
+      "built": ["qiziru", "nabzu", "mi", "zamulu", "ki", "zamiru"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "qiziru niru mi zamulu ki zamiru"
+    - "form": "qiziru nidru mi zamulu ki zamiru"
       "class": "n"
       "field": "Everyday speech"
       "gloss": "niece"
       "concept": "niece"
-      "built": ["qiziru", "niru", "mi", "zamulu", "ki", "zamiru"]
+      "built": ["qiziru", "nidru", "mi", "zamulu", "ki", "zamiru"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
     - "form": "taziru ki tazuru"
       "class": "n"
@@ -2730,26 +2730,26 @@ data:
       "field": "Everyday speech"
       "gloss": "a bed"
       "concept": "bed"
-    - "form": "bashuru dalu"
+    - "form": "bashuru dalmu"
       "class": "n"
       "field": "Everyday speech"
       "gloss": "a floor"
       "concept": "floor"
-      "built": ["bashuru", "dalu"]
+      "built": ["bashuru", "dalmu"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "bashuru qamu"
+    - "form": "bashuru qamzu"
       "class": "n"
       "field": "Everyday speech"
       "gloss": "a wall"
       "concept": "wall"
-      "built": ["bashuru", "qamu"]
+      "built": ["bashuru", "qamzu"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "bashuru tulu"
+    - "form": "bashuru tulmu"
       "class": "n"
       "field": "Everyday speech"
       "gloss": "a roof"
       "concept": "roof"
-      "built": ["bashuru", "tulu"]
+      "built": ["bashuru", "tulmu"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
     - "form": "hamuru"
       "class": "n"
@@ -2796,7 +2796,7 @@ data:
       "concept": "shutters"
       "built": ["neshu", "qatt"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "salilu"
+    - "form": "salillu"
       "class": "n"
       "field": "Everyday speech"
       "gloss": "a cup"
@@ -2816,19 +2816,19 @@ data:
       "field": "Everyday speech"
       "gloss": "a spoon"
       "concept": "spoon"
-    - "form": "paluru qamu"
+    - "form": "paluru qamzu"
       "class": "n"
       "field": "Everyday speech"
       "gloss": "a pot"
       "concept": "pot"
-      "built": ["paluru", "qamu"]
+      "built": ["paluru", "qamzu"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "hamuru salilu"
+    - "form": "hamuru salillu"
       "class": "n"
       "field": "Everyday speech"
       "gloss": "a lamp"
       "concept": "lamp"
-      "built": ["hamuru", "salilu"]
+      "built": ["hamuru", "salillu"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
     - "form": "baziru"
       "class": "n"
@@ -2842,19 +2842,19 @@ data:
       "concept": "clothes"
       "built": ["baziru", "be", "birum"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "bashuru selu"
+    - "form": "bashuru selku"
       "class": "n"
       "field": "Everyday speech"
       "gloss": "room"
       "concept": "room"
-      "built": ["bashuru", "selu"]
+      "built": ["bashuru", "selku"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "bashuru tulu selu"
+    - "form": "bashuru tulmu selku"
       "class": "n"
       "field": "Everyday speech"
       "gloss": "ceiling"
       "concept": "ceiling"
-      "built": ["bashuru", "tulu", "selu"]
+      "built": ["bashuru", "tulmu", "selku"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
     - "form": "sadilu bibudan"
       "class": "n"
@@ -2988,7 +2988,7 @@ data:
       "concept": "gate"
       "built": ["hadiru", "bibudan"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "qamu"
+    - "form": "qamzu"
       "class": "n"
       "field": "Everyday speech"
       "gloss": "barrier"
@@ -3139,12 +3139,12 @@ data:
       "concept": "ocean"
       "built": ["mani", "bibudan"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "mani qamu"
+    - "form": "mani qamzu"
       "class": "n"
       "field": "Everyday speech"
       "gloss": "shore"
       "concept": "shore"
-      "built": ["mani", "qamu"]
+      "built": ["mani", "qamzu"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
     - {"form": "raniz-", "class": "stem", "field": "Everyday speech", "gloss": "rain"}
     - "form": "ranizush"
@@ -3409,26 +3409,26 @@ data:
       "field": "Everyday speech"
       "gloss": "a thousand"
       "concept": "thousand"
-    - "form": "yez sir"
+    - "form": "yez sik"
       "class": "num"
       "field": "Everyday speech"
       "gloss": "first in ordinal position"
       "concept": "first"
-      "built": ["yez", "sir"]
+      "built": ["yez", "sik"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "lel sir"
+    - "form": "lel sik"
       "class": "num"
       "field": "Everyday speech"
       "gloss": "second"
       "concept": "second"
-      "built": ["lel", "sir"]
+      "built": ["lel", "sik"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "zem sir"
+    - "form": "zem sik"
       "class": "num"
       "field": "Everyday speech"
       "gloss": "third"
       "concept": "third"
-      "built": ["zem", "sir"]
+      "built": ["zem", "sik"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
     - "form": "lel paz"
       "class": "num"
@@ -3459,12 +3459,12 @@ data:
       "field": "Everyday speech"
       "gloss": "zero"
       "concept": "zero"
-    - "form": "yet sir"
+    - "form": "yet sik"
       "class": "num"
       "field": "Everyday speech"
-      "gloss": "tenth; any cardinal followed by sir gives its ordinal position"
+      "gloss": "tenth; any cardinal followed by sik gives its ordinal position"
       "concept": "ordinal-construction"
-      "built": ["yet", "sir"]
+      "built": ["yet", "sik"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
     - "form": "vub paz"
       "class": "num"
@@ -3949,12 +3949,12 @@ data:
       "gloss": "to fall"
       "built": ["tazuruk-", "-am"]
       "concept": "fall"
-    - "form": "qaduram tulu"
+    - "form": "qaduram tulmu"
       "class": "v"
       "field": "Everyday speech"
       "gloss": "to rise"
       "concept": "rise"
-      "built": ["qaduram", "tulu"]
+      "built": ["qaduram", "tulmu"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
     - "form": "hadiram be"
       "class": "v"
@@ -4372,12 +4372,12 @@ data:
       "gloss": "to happen"
       "built": ["dabar-", "-am"]
       "concept": "happen"
-    - "form": "tazilam dalu"
+    - "form": "tazilam dalmu"
       "class": "v"
       "field": "Everyday speech"
       "gloss": "to kneel"
       "concept": "kneel"
-      "built": ["tazilam", "dalu"]
+      "built": ["tazilam", "dalmu"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
     - {"form": "badil-", "class": "stem", "field": "Everyday speech", "gloss": "to bend"}
     - "form": "badilam"
@@ -4472,12 +4472,12 @@ data:
       "field": "Everyday speech"
       "gloss": "far"
       "concept": "far"
-    - "form": "be qamu"
+    - "form": "be qamzu"
       "class": "adv"
       "field": "Everyday speech"
       "gloss": "beside"
       "concept": "beside"
-      "built": ["be", "qamu"]
+      "built": ["be", "qamzu"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
     - "form": "be lel"
       "class": "adv"
@@ -4486,60 +4486,60 @@ data:
       "concept": "between"
       "built": ["be", "lel"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "be selu"
+    - "form": "be selku"
       "class": "adv"
       "field": "Everyday speech"
       "gloss": "among"
       "concept": "among"
-      "built": ["be", "selu"]
+      "built": ["be", "selku"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "tulu"
+    - "form": "tulmu"
       "class": "adv"
       "field": "Everyday speech"
       "gloss": "Above"
       "concept": "above"
-    - "form": "dalu"
+    - "form": "dalmu"
       "class": "adv"
       "field": "Everyday speech"
       "gloss": "below"
       "concept": "below"
-    - "form": "be dalu"
+    - "form": "be dalmu"
       "class": "adv"
       "field": "Everyday speech"
       "gloss": "under"
       "concept": "under"
-      "built": ["be", "dalu"]
+      "built": ["be", "dalmu"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "be tulu"
+    - "form": "be tulmu"
       "class": "adv"
       "field": "Everyday speech"
       "gloss": ["over", "on"]
       "concept": ["over", "on"]
-      "built": ["be", "tulu"]
+      "built": ["be", "tulmu"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "selu"
+    - "form": "selku"
       "class": "adv"
       "field": "Everyday speech"
       "gloss": "Inside"
       "concept": "inside"
-    - "form": "salu"
+    - "form": "sabku"
       "class": "adv"
       "field": "Everyday speech"
       "gloss": "outside"
       "concept": "outside"
-    - "form": "salu qamu"
+    - "form": "sabku qamzu"
       "class": "adv"
       "field": "Everyday speech"
       "gloss": "beyond"
       "concept": "beyond"
-      "built": ["salu", "qamu"]
+      "built": ["sabku", "qamzu"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "taru"
+    - "form": "tarmu"
       "class": "adv"
       "field": "Everyday speech"
       "gloss": "before; in front of (spatial)"
       "concept": "before-spatial"
-    - "form": "daru"
+    - "form": "darmu"
       "class": "adv"
       "field": "Everyday speech"
       "gloss": "behind"
@@ -4559,61 +4559,61 @@ data:
       "field": "Everyday speech"
       "gloss": "center"
       "concept": "center"
-    - "form": "so tulu"
+    - "form": "so tulmu"
       "class": "adv"
       "field": "Everyday speech"
       "gloss": "Up"
       "concept": "up"
-      "built": ["so", "tulu"]
+      "built": ["so", "tulmu"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "so dalu"
+    - "form": "so dalmu"
       "class": "adv"
       "field": "Everyday speech"
       "gloss": "down"
       "concept": "down"
-      "built": ["so", "dalu"]
+      "built": ["so", "dalmu"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "so taru"
+    - "form": "so tarmu"
       "class": "adv"
       "field": "Everyday speech"
       "gloss": "forward"
       "concept": "forward"
-      "built": ["so", "taru"]
+      "built": ["so", "tarmu"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "so daru"
+    - "form": "so darmu"
       "class": "adv"
       "field": "Everyday speech"
       "gloss": "backward"
       "concept": "backward"
-      "built": ["so", "daru"]
+      "built": ["so", "darmu"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "mi salu"
+    - "form": "mi sabku"
       "class": "adv"
       "field": "Everyday speech"
       "gloss": "away"
       "concept": "away"
-      "built": ["mi", "salu"]
+      "built": ["mi", "sabku"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "be selu so"
+    - "form": "be selku so"
       "class": "adv"
       "field": "Everyday speech"
       "gloss": "through"
       "concept": "through"
-      "built": ["be", "selu", "so"]
+      "built": ["be", "selku", "so"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "mi qamu so"
+    - "form": "mi qamzu so"
       "class": "adv"
       "field": "Everyday speech"
       "gloss": "across"
       "concept": "across"
-      "built": ["mi", "qamu", "so"]
+      "built": ["mi", "qamzu", "so"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "be qamu ral"
+    - "form": "be qamzu ral"
       "class": "adv"
       "field": "Everyday speech"
       "gloss": "around"
       "concept": "around"
-      "built": ["be", "qamu", "ral"]
+      "built": ["be", "qamzu", "ral"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
     - "form": "bashirun"
       "class": "n"
@@ -4657,33 +4657,33 @@ data:
       "field": "Everyday speech"
       "gloss": "night"
       "concept": "night"
-    - "form": "hamulu taru"
+    - "form": "hamulu tarmu"
       "class": "n"
       "field": "Everyday speech"
       "gloss": "morning"
       "concept": "morning"
-      "built": ["hamulu", "taru"]
+      "built": ["hamulu", "tarmu"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "hamulu tulu"
+    - "form": "hamulu tulmu"
       "class": "n"
       "field": "Everyday speech"
       "gloss": "noon"
       "concept": "noon"
-      "built": ["hamulu", "tulu"]
+      "built": ["hamulu", "tulmu"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "hamulu daru"
+    - "form": "hamulu darmu"
       "class": "n"
       "field": "Everyday speech"
       "gloss": "evening"
       "concept": "evening"
-      "built": ["hamulu", "daru"]
+      "built": ["hamulu", "darmu"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "namulu selu"
+    - "form": "namulu selku"
       "class": "n"
       "field": "Everyday speech"
       "gloss": "midnight"
       "concept": "midnight"
-      "built": ["namulu", "selu"]
+      "built": ["namulu", "selku"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
     - "form": "lazi"
       "class": "adv"
@@ -4885,26 +4885,26 @@ data:
       "concept": "soon"
       "built": ["laziru", "qamir"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "laziru daru"
+    - "form": "laziru darmu"
       "class": "adv"
       "field": "Everyday speech"
       "gloss": "later"
       "concept": "later"
-      "built": ["laziru", "daru"]
+      "built": ["laziru", "darmu"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "laziru taru"
+    - "form": "laziru tarmu"
       "class": "adv"
       "field": "Everyday speech"
       "gloss": "early"
       "concept": "early"
-      "built": ["laziru", "taru"]
+      "built": ["laziru", "tarmu"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "laziru daru bamar"
+    - "form": "laziru darmu bamar"
       "class": "adv"
       "field": "Everyday speech"
       "gloss": "late"
       "concept": "late"
-      "built": ["laziru", "daru", "bamar"]
+      "built": ["laziru", "darmu", "bamar"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
     - "form": "laziru yez"
       "class": "adv"
@@ -4987,12 +4987,12 @@ data:
       "field": "Everyday speech"
       "gloss": "He"
       "concept": "he"
-    - "form": "nizir niru"
+    - "form": "nizir nidru"
       "class": "pron"
       "field": "Everyday speech"
       "gloss": "she"
       "concept": "she"
-      "built": ["nizir", "niru"]
+      "built": ["nizir", "nidru"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
     - {"form": "nizu", "class": "pron", "field": "Everyday speech", "gloss": "it", "concept": "it"}
     - "form": "nizir bash"
@@ -5058,43 +5058,43 @@ data:
       "concept": "no-one"
       "built": ["zu", "birum"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "balu besh"
+    - "form": "bazzu besh"
       "class": "pron"
       "field": "Everyday speech"
       "gloss": "Something"
       "concept": "something"
-      "built": ["balu", "besh"]
+      "built": ["bazzu", "besh"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "balu ur"
+    - "form": "bazzu ur"
       "class": "pron"
       "field": "Everyday speech"
       "gloss": "anything"
       "concept": "anything"
-      "built": ["balu", "ur"]
+      "built": ["bazzu", "ur"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "balu bash"
+    - "form": "bazzu bash"
       "class": "pron"
       "field": "Everyday speech"
       "gloss": "everything"
       "concept": "everything"
-      "built": ["balu", "bash"]
+      "built": ["bazzu", "bash"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
     - "form": "nizash"
       "class": "pron"
       "field": "Everyday speech"
       "gloss": "self; oneself (reflexive reference)"
       "concept": "self"
-    - "form": "bar"
+    - "form": "baz"
       "class": "pron"
       "field": "Everyday speech"
       "gloss": "other"
       "concept": "other"
-    - "form": "bar yez"
+    - "form": "baz yez"
       "class": "pron"
       "field": "Everyday speech"
       "gloss": "another"
       "concept": "another"
-      "built": ["bar", "yez"]
+      "built": ["baz", "yez"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
     - "form": "nizu qel"
       "class": "pron"
@@ -5439,12 +5439,12 @@ data:
       "concept": "despite"
       "built": ["kir", "mi"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "bar be"
+    - "form": "baz be"
       "class": "conj"
       "field": "Everyday speech"
       "gloss": "instead"
       "concept": "instead"
-      "built": ["bar", "be"]
+      "built": ["baz", "be"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
     - "form": "so zam"
       "class": "conj"
@@ -5530,12 +5530,12 @@ data:
       "concept": "for-example"
       "built": ["neshush", "yez"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "mi bash bar"
+    - "form": "mi bash baz"
       "class": "conj"
       "field": "Everyday speech"
       "gloss": "Except"
       "concept": "except"
-      "built": ["mi", "bash", "bar"]
+      "built": ["mi", "bash", "baz"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
     - "form": "yez qatan"
       "class": "conj"
@@ -5613,12 +5613,12 @@ data:
       "gloss": "low"
       "built": ["dalur-", "-an"]
       "concept": "low"
-    - "form": "qaliran tulu"
+    - "form": "qaliran tulmu"
       "class": "adj"
       "field": "Everyday speech"
       "gloss": "tall"
       "concept": "tall"
-      "built": ["qaliran", "tulu"]
+      "built": ["qaliran", "tulmu"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
     - {"form": "qamul-", "class": "stem", "field": "Everyday speech", "gloss": "wide"}
     - "form": "qamulan"
@@ -5838,17 +5838,17 @@ data:
       "concept": "opposite"
       "built": ["zu", "qel", "temadan"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "qad"
+    - "form": "qash"
       "class": "part"
       "field": "Everyday speech"
       "gloss": "can; able to do something (ability)"
       "concept": "can"
-    - "form": "zu qad"
+    - "form": "zu qash"
       "class": "part"
       "field": "Everyday speech"
       "gloss": "cannot; unable to do something (lack of ability)"
       "concept": "cannot"
-      "built": ["zu", "qad"]
+      "built": ["zu", "qash"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
     - {"form": "badum-", "class": "stem", "field": "Everyday speech", "gloss": "Possible"}
     - "form": "baduman"
@@ -5864,7 +5864,7 @@ data:
       "concept": "impossible"
       "built": ["zu", "baduman"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "kal"
+    - "form": "kel"
       "class": "part"
       "field": "Everyday speech"
       "gloss": "may; have permission to act"
@@ -5876,12 +5876,12 @@ data:
       "concept": "might-possibility"
       "built": ["qiz", "baduman"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "kum"
+    - "form": "kush"
       "class": "part"
       "field": "Everyday speech"
       "gloss": "Must"
       "concept": "must"
-    - "form": "zukum"
+    - "form": "zukush"
       "class": "part"
       "field": "Everyday speech"
       "gloss": "must not"
@@ -5916,15 +5916,15 @@ data:
       "gloss": "Allowed"
       "built": ["kaluruk-", "-an"]
       "concept": "allowed"
-    - "form": "zukum-"
+    - "form": "zukush-"
       "class": "stem"
       "field": "Everyday speech"
       "gloss": "forbid; be forbidden"
-    - "form": "zukuman"
+    - "form": "zukushan"
       "class": "adj"
       "field": "Everyday speech"
       "gloss": "forbidden"
-      "built": ["zukum-", "-an"]
+      "built": ["zukush-", "-an"]
       "concept": "forbidden"
     - "form": "kalurukam"
       "class": "v"
@@ -5932,11 +5932,11 @@ data:
       "gloss": "Permit"
       "built": ["kaluruk-", "-am"]
       "concept": "permit"
-    - "form": "zukumam"
+    - "form": "zukusham"
       "class": "v"
       "field": "Everyday speech"
       "gloss": "prohibit"
-      "built": ["zukum-", "-am"]
+      "built": ["zukush-", "-am"]
       "concept": "prohibit"
     - "form": "zabuzan"
       "class": "adj"
@@ -6069,12 +6069,12 @@ data:
       "concept": "expression-come-here"
       "built": ["kudumam", "shiu"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "nazulam salu"
+    - "form": "nazulam sabku"
       "class": "call"
       "field": "Everyday speech"
       "gloss": "Go away"
       "concept": "expression-go-away"
-      "built": ["nazulam", "salu"]
+      "built": ["nazulam", "sabku"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
     - "form": "rashilam shi"
       "class": "call"
@@ -6158,8 +6158,8 @@ data:
       "field": "Everyday speech"
       "gloss": ["Person", "human"]
       "concept": ["person", "human"]
-    - {"form": "naru", "class": "n", "field": "Everyday speech", "gloss": "Man", "concept": "man"}
-    - "form": "niru"
+    - {"form": "nabzu", "class": "n", "field": "Everyday speech", "gloss": "Man", "concept": "man"}
+    - "form": "nidru"
       "class": "n"
       "field": "Everyday speech"
       "gloss": "woman"
@@ -6353,17 +6353,17 @@ data:
       "field": "Everyday speech"
       "gloss": "knowledge"
       "concept": "knowledge"
-    - "form": "balu"
+    - "form": "bazzu"
       "class": "n"
       "field": "Everyday speech"
       "gloss": "Thing"
       "concept": "thing"
-    - "form": "balu buram"
+    - "form": "bazzu buram"
       "class": "n"
       "field": "Everyday speech"
       "gloss": "being"
       "concept": "being"
-      "built": ["balu", "buram"]
+      "built": ["bazzu", "buram"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
     - "form": "nabikush"
       "class": "n"
@@ -6472,7 +6472,7 @@ data:
       "class": "adj"
       "field": "Everyday speech"
       "gloss": "sweet; the quality of flowers in a conventional plant expression"
-    - "form": "sir"
+    - "form": "sik"
       "class": "part"
       "field": "Everyday speech"
       "gloss": "ordered position; follows any cardinal to make its ordinal"
@@ -7018,23 +7018,23 @@ A hyphen at the end of a cited stem belongs to the dictionary explanation. Join 
 
 ### Clauses, participants and descriptions
 
-A new plain statement follows subject–verb–object. _Nizum saluram saliru_ means “I drink water”: speaker, drink, water. _Tu mardum geniram tu salilu_ means “The merchant takes the cup.” The article _tu_ precedes a noun referring to the known thing and stays unchanged. It can be left out for a general or newly introduced thing. The receiver follows _so_: _Nizum hiziram saliru so nizim_, “I give water to you.” A source follows _mi_: _Nizum geniram saliru mi nizim_, “I take water from you.” Keep each such phrase together. A bare verb addresses the listener: _Pazasam_, “Look”; _Mazuram_, “Listen.” A polite request can begin with _tazimush so_, literally thanks toward the listener.
+A new plain statement follows subject–verb–object. _Nizum saluram saliru_ means “I drink water”: speaker, drink, water. _Tu mardum geniram tu salillu_ means “The merchant takes the cup.” The article _tu_ precedes a noun referring to the known thing and stays unchanged. It can be left out for a general or newly introduced thing. The receiver follows _so_: _Nizum hiziram saliru so nizim_, “I give water to you.” A source follows _mi_: _Nizum geniram saliru mi nizim_, “I take water from you.” Keep each such phrase together. A bare verb addresses the listener: _Pazasam_, “Look”; _Mazuram_, “Listen.” A polite request can begin with _tazimush so_, literally thanks toward the listener.
 
-The examples use full citation verbs for every participant; _-am_ does not itself identify he, she, I or you. Repeat the subject when changing participants. A second verb in a short action group keeps the same subject: _mardam geniram_ means buy, trade and take; _mardam hiziram_ means sell, trade and give. Place the object after the whole group: _Nizum mardam geniram tu salilu_, “I buy the cup.” The dictionary states the conventional meaning of such a group. Another verb is not silently supplied by a bare stem.
+The examples use full citation verbs for every participant; _-am_ does not itself identify he, she, I or you. Repeat the subject when changing participants. A second verb in a short action group keeps the same subject: _mardam geniram_ means buy, trade and take; _mardam hiziram_ means sell, trade and give. Place the object after the whole group: _Nizum mardam geniram tu salillu_, “I buy the cup.” The dictionary states the conventional meaning of such a group. Another verb is not silently supplied by a bare stem.
 
-_Buram_ means “be” or “exist” and introduces an identity, state or location after the subject: _Tu jakudu buram bibudan_, “The ship is large”; _tu mardum buram be bashuru_, “The merchant is in the dwelling.” An adjective follows the noun it qualifies: _jakudu bibudan_, a large ship. A following noun phrase with _mi_ identifies relationship or possession: _tu salilu mi nizum_, “my cup”; _tu salilu mi nizim_, “your cup”; _mi nizum bash_, “ours.” A possession group can answer alone when the thing is already named: _Mi nizum_, “Mine.” The possessed thing comes first, as it does in _ramilu mi birum_, “a person's chest.” _Nashu mi mani_ is “the sea's appearance”; _nashu_ can describe a person, an object or a landscape without restricting appearance to people.
+_Buram_ means “be” or “exist” and introduces an identity, state or location after the subject: _Tu jakudu buram bibudan_, “The ship is large”; _tu mardum buram be bashuru_, “The merchant is in the dwelling.” An adjective follows the noun it qualifies: _jakudu bibudan_, a large ship. A following noun phrase with _mi_ identifies relationship or possession: _tu salillu mi nizum_, “my cup”; _tu salillu mi nizim_, “your cup”; _mi nizum bash_, “ours.” A possession group can answer alone when the thing is already named: _Mi nizum_, “Mine.” The possessed thing comes first, as it does in _ramilu mi birum_, “a person's chest.” _Nashku mi mani_ is “the sea's appearance”; _nashku_ can describe a person, an object or a landscape without restricting appearance to people.
 
-The nominal description above recognises gender and number, while this ordinary register uses explicit words to avoid requiring an unrecorded inflection. _Birum lel_ is two people, _birum bash_ all the people; _qiziru naru_ is a male child and _qiziru niru_ a female child. The examples keep a noun's recorded citation form with a quantity. Family _-i_, _-uni_ and _-um_ retain their established lineage and standing meanings. They are not appended to every noun to make a conversational plural.
+The nominal description above recognises gender and number, while this ordinary register uses explicit words to avoid requiring an unrecorded inflection. _Birum lel_ is two people, _birum bash_ all the people; _qiziru nabzu_ is a male child and _qiziru nidru_ a female child. The examples keep a noun's recorded citation form with a quantity. Family _-i_, _-uni_ and _-um_ retain their established lineage and standing meanings. They are not appended to every noun to make a conversational plural.
 
 ### Kin and reference
 
 _Lamiru_ is mother and _lamuru_ father. In the paired category _lamiru ki lamuru_, either kind of parent is meant when the whole group names the relationship, as opposed to a statement about two named people. Possession or descent follows _mi_. _Lamiru mi lamiru ki lamuru_ is a grandmother: a mother of a parent. _Qiziru mi qiziru_ is a grandchild. A cousin is _qiziru mi zamulu ki zamiru mi lamiru ki lamuru_, a parent's sibling's child. Read outward from the child, through the sibling, to the parent. A nephew or niece instead specifies the sibling's male or female child without the extra parental link. State the reference person with another _mi_ group whenever the relationship could be ambiguous. _Teshudush_ remains marriage as the joining of houses; _taruzi_ continues to include both the line's family and its firms.
 
-_Nizum_ is the speaker, _nizim_ the addressee and _nizir_ a third person. _Nizir niru_ explicitly identifies she; _nizu_ refers to a nonpersonal thing. _Nizum bash_ means we and _nizir bash_ they. _Nizash_ refers back to the clause's subject: _Nizum nesham nizash_, “I see myself.” _Ju_ and _ji_ point to this and that, with _bash_ giving these and those. _Birum besh_ is someone, _birum ur_ anyone in an open alternative, _birum bash_ everyone and _zu birum_ no one. A general negative noun group uses _zu_ immediately before the absent participant. This differs from denying an act, where _zu_ immediately precedes the verb.
+_Nizum_ is the speaker, _nizim_ the addressee and _nizir_ a third person. _Nizir nidru_ explicitly identifies she; _nizu_ refers to a nonpersonal thing. _Nizum bash_ means we and _nizir bash_ they. _Nizash_ refers back to the clause's subject: _Nizum nesham nizash_, “I see myself.” _Ju_ and _ji_ point to this and that, with _bash_ giving these and those. _Birum besh_ is someone, _birum ur_ anyone in an open alternative, _birum bash_ everyone and _zu birum_ no one. A general negative noun group uses _zu_ immediately before the absent participant. This differs from denying an act, where _zu_ immediately precedes the verb.
 
 ### Asking and denying
 
-A question word occupies the position of the requested information. _Shirum saluram saliru_, “Who drinks water?” asks for the subject. _Nizim nesham shiru_, “What do you see?” asks for the object. _Nizim nazulam shibe_, “Where do you go?” asks for location. _Mi shirum_ means whose and _so shirum_ to whom. _Nizim buram mi shirum_ asks whose group or possession the addressee belongs to, while _tu salilu mi shirum_ asks whose cup it is. Keep the possession or direction particle with its question word.
+A question word occupies the position of the requested information. _Shirum saluram saliru_, “Who drinks water?” asks for the subject. _Nizim nesham shiru_, “What do you see?” asks for the object. _Nizim nazulam shibe_, “Where do you go?” asks for location. _Mi shirum_ means whose and _so shirum_ to whom. _Nizim buram mi shirum_ asks whose group or possession the addressee belongs to, while _tu salillu mi shirum_ asks whose cup it is. Keep the possession or direction particle with its question word.
 
 A final _shi_ asks whether a full statement holds: _Nizim saluram saliru shi_, “Do you drink water?” Answer _hiz_, yes, or _zuz_, no. _Shi ral_ asks for repetition or clarification. A writer using the common transcription may use the reader's familiar punctuation around these utterances; the question is carried by the word _shi_. These examples require no script mapping or new scribal mark.
 
@@ -7050,21 +7050,21 @@ _Lisharush_ is romantic love, _balishush_ the affection of friends, _tarishush_ 
 
 ### Time, quantity, location and comparison
 
-A time expression before the subject frames the entire clause. _Hamulu ral nizum saluram saliru_, “Yesterday I drank water”; _hamulu rad nizum nazulam_, “Tomorrow I go.” The verb does not need a tense ending for those examples. _Ral_ orders an event before another in time and _rad_ after it. _Taru_ is in front in space and _daru_ behind. _Laziru bibudan_ lasts a long time, whereas _qaliran_ is long in physical length. _Qatan lazi_ means still, continuing now; _radum_ says already. _Ral_ can mean again when it repeats an event rather than locating it before a stated time. State the relevant day or starting point when the intended time is unclear.
+A time expression before the subject frames the entire clause. _Hamulu ral nizum saluram saliru_, “Yesterday I drank water”; _hamulu rad nizum nazulam_, “Tomorrow I go.” The verb does not need a tense ending for those examples. _Ral_ orders an event before another in time and _rad_ after it. _Tarmu_ is in front in space and _darmu_ behind. _Laziru bibudan_ lasts a long time, whereas _qaliran_ is long in physical length. _Qatan lazi_ means still, continuing now; _radum_ says already. _Ral_ can mean again when it repeats an event rather than locating it before a stated time. State the relevant day or starting point when the intended time is unclear.
 
-Numbers follow their noun. The existing _yez, lel, zem, vub, fom_ and _yet_ retain one through five and ten. The further bare numerals are _niz, nuz, vaz, vuz_ for six through nine. A scale precedes its multiplier: _yet lel_ is twenty; add units with _ki_, so _yet lel ki zem_ is twenty-three. _Yatar_ is hundred and _yatum_ thousand: _yatar zem_ is three hundred. An ordinal puts _sir_ after the entire cardinal group: _yez sir_, first; _yet sir_, tenth; _yet lel ki zem sir_, twenty-third. This works for later positions without borrowing a personal-name ending. A denominator with _paz_ names an equal division: _lel paz_, half; _vub paz_, quarter; _zem vub paz_, three quarters.
+Numbers follow their noun. The existing _yez, lel, zem, vub, fom_ and _yet_ retain one through five and ten. The further bare numerals are _niz, nuz, vaz, vuz_ for six through nine. A scale precedes its multiplier: _yet lel_ is twenty; add units with _ki_, so _yet lel ki zem_ is twenty-three. _Yatar_ is hundred and _yatum_ thousand: _yatar zem_ is three hundred. An ordinal puts _sik_ after the entire cardinal group: _yez sik_, first; _yet sik_, tenth; _yet lel ki zem sik_, twenty-third. This works for later positions without borrowing a personal-name ending. A denominator with _paz_ names an equal division: _lel paz_, half; _vub paz_, quarter; _zem vub paz_, three quarters.
 
 _Bamar_ gives many or much and can intensify a quality; _qimar_ few or little. _Qadar_ is enough for the purpose at hand. _Lamuran vish_ means better and _lamuran vish bash_ best in the relevant group. The standard of comparison follows _mi_: _Tu jakudu buram bibudan vish mi ji_, “The ship is bigger than that.” _Qel_ gives equality in the stated respect. _Kaduman_ means heavy; _zu kaduman_ light in weight; _saliman sish_ light in colour. The phrases do not equate an object's colour and its weight.
 
-_Be_ locates something in or at a place, _so_ gives a destination and _mi_ a source. _Tulu_ and _dalu_ identify the upper and lower sides, _selu_ the interior and _salu_ the exterior. _Be lel_ means between two stated things and _be selu_ among a surrounding group in that spatial use. Give the actual objects after these relational groups: _tu salilu buram be lel tu salilum ki tu palilu_, “The cup is between the jar and the bowl.” _Hamilu namiram_, the sun waking, conventionally means east or dawn by the context; _hamilu namulam_, the sun sleeping, west or dusk. The dictionary records each use explicitly rather than requiring a new compass system.
+_Be_ locates something in or at a place, _so_ gives a destination and _mi_ a source. _Tulmu_ and _dalmu_ identify the upper and lower sides, _selku_ the interior and _sabku_ the exterior. _Be lel_ means between two stated things and _be selku_ among a surrounding group in that spatial use. Give the actual objects after these relational groups: _tu salillu buram be lel tu salilum ki tu palilu_, “The cup is between the jar and the bowl.” _Hamilu namiram_, the sun waking, conventionally means east or dawn by the context; _hamilu namulam_, the sun sleeping, west or dusk. The dictionary records each use explicitly rather than requiring a new compass system.
 
 ### Connections, permission and conversation
 
 _Ki_ joins participants or complete clauses; _ur_ offers alternatives and _kir_ introduces a contrast. _Zam_ introduces a reason: _Nizum buram be bashuru zam ranizam_, “I am in shelter because it rains.” A condition uses _zir_ before its clause and _zar_ before its consequence: _Zir ranizam, zar nizum buram be bashuru_, “If it rains, then I am in shelter.” Repeat the participant when the actor changes between clauses. _So zam_ introduces a purpose, followed by the intended act: _Nizum nazulam so zam nizum saluram saliru_, “I go in order to drink water.” A quoted or reported claim can follow _jiramam_ as a whole clause; its SVO order remains intact.
 
-Modals precede the full verb group. _Nizum qad saluram saliru_ means “I can drink water,” an ability; _nizum kal nazulam_, “I may go,” permission. _Nizum qiz baduman nazulam_ means “I might go,” an event's possibility. _Kum_ requires the act and _zukum_ prohibits it: _nizum kum nazulam_, “I must go”; _nizum zukum nazulam_, “I must not go.” _Zu kum_ denies the obligation and does not itself prohibit the act. _Lamuran dagiram_ recommends a following act as something one should do. Use _zu qad_ for inability and _zu baduman_ for impossibility; the inability of a person and the impossibility of an event remain distinct.
+Modals precede the full verb group. _Nizum qash saluram saliru_ means “I can drink water,” an ability; _nizum kel nazulam_, “I may go,” permission. _Nizum qiz baduman nazulam_ means “I might go,” an event's possibility. _Kush_ requires the act and _zukush_ prohibits it: _nizum kush nazulam_, “I must go”; _nizum zukush nazulam_, “I must not go.” _Zu kush_ denies the obligation and does not itself prohibit the act. _Lamuran dagiram_ recommends a following act as something one should do. Use _zu qash_ for inability and _zu baduman_ for impossibility; the inability of a person and the impossibility of an event remain distinct.
 
-_Lumiru_ greets a person, _lumiru so kudumam_ welcomes an arrival and _lumiru so nazulam_ takes leave. _Tazimush_ gives thanks; _lumiru ral_ accepts them as a returned good meeting. _Nizum gazurush_ expresses regret, while _mushiram so nizum_ asks the listener to forgive the speaker. _Nizum so neshush_ politely attracts attention, literally “me toward your sight.” _Sadirukam_ asks someone to wait, _kudumam shiu_ to come here, _nazulam salu_ to go away and _rashilam_ for help. _Nizum nashimam_ says “I understand”; _nizum zu nashimam_ “I do not understand.” _Shiru nukalush mi ju_ asks the name of this thing. The dictionary's conversational groups are actual short utterances; a speaker can use them as given and then add a full SVO clause to state the need.
+_Lumiru_ greets a person, _lumiru so kudumam_ welcomes an arrival and _lumiru so nazulam_ takes leave. _Tazimush_ gives thanks; _lumiru ral_ accepts them as a returned good meeting. _Nizum gazurush_ expresses regret, while _mushiram so nizum_ asks the listener to forgive the speaker. _Nizum so neshush_ politely attracts attention, literally “me toward your sight.” _Sadirukam_ asks someone to wait, _kudumam shiu_ to come here, _nazulam sabku_ to go away and _rashilam_ for help. _Nizum nashimam_ says “I understand”; _nizum zu nashimam_ “I do not understand.” _Shiru nukalush mi ju_ asks the name of this thing. The dictionary's conversational groups are actual short utterances; a speaker can use them as given and then add a full SVO clause to state the need.
 
 ## Script and Literacy
 

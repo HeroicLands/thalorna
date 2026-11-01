@@ -3,7 +3,7 @@ shortcode: wilud
 name: {full: Vulud, en: [The Half-Buried Towers]}
 type: place
 subType: site
-description: "A tower city of the Khoshiqor drowned by a moving dune sea, whose tower tops stand out of the sand and whose streets come uncovered one at a time, a generation apart."
+description: "A tower city of the Ghoshiqor drowned by a moving dune sea, whose tower tops stand out of the sand and whose streets come uncovered one at a time, a generation apart."
 tags: []
 data: {demonym: null, lore: [], parents: [hskrrgn], population: 0, packFolder: khazryndesert}
 ---
@@ -12,11 +12,11 @@ data: {demonym: null, lore: [], parents: [hskrrgn], population: 0, packFolder: k
 
 From a day away, Vulud looks like a stand of broken teeth: nine tower tops, the highest of them forty feet of cracked brick, standing out of a sea of pale dunes in a country with no other thing taller than a camel. That is all of it that shows. The rest of a city of perhaps ten thousand lies under the sand, which moves a few yards in a year toward the north-east and has been moving for longer than anyone has counted.
 
-Vulud is one of [[lore-towercities|the Tower Cities]], a lamp-lit way-town of the league that carried the first road across the waste. It sits in the sand country the tribes call the [[place-hskrrgn|Khoshiqor]], the sand range, a long march from any well that is not guarded. The league's engineers sited it on a gravel shelf above the sea of dunes, which was sound in their time. Its well failed first, the people left, and the dunes came over a shelf nobody was holding.
+Vulud is one of [[lore-towercities|the Tower Cities]], a lamp-lit way-town of the league that carried the first road across the waste. It sits in the sand country the tribes call the [[place-hskrrgn|Ghoshiqor]], the sand range, a long march from any well that is not guarded. The league's engineers sited it on a gravel shelf above the sea of dunes, which was sound in their time. Its well failed first, the people left, and the dunes came over a shelf nobody was holding.
 
 ## The Dunes Give Back
 
-The same wind that buried Vulud uncovers it. Every generation or so a sand-front passes over a quarter of the city and leaves a street of roofless houses open to the sky, with its walls whole to head height, its doorways clear and its cellars choked with fine pale sand. In a few years the next front covers it again. The tribes of the Khoshiqor say the sand lends the city to whoever it chooses and calls the loan in without notice, and a street that opens is a short lease.
+The same wind that buried Vulud uncovers it. Every generation or so a sand-front passes over a quarter of the city and leaves a street of roofless houses open to the sky, with its walls whole to head height, its doorways clear and its cellars choked with fine pale sand. In a few years the next front covers it again. The tribes of the Ghoshiqor say the sand lends the city to whoever it chooses and calls the loan in without notice, and a street that opens is a short lease.
 
 ## Danger
 
@@ -30,7 +30,7 @@ What a street holds depends on the season: shop-stock of a dozen peoples, weight
 
 ## A Hook
 
-The [[affiliation-rwlstrb|Uruvolur]], the hidden-water bands who guide the Khoshiqor, are the first to learn when a street opens. They sell the news to two buyers at once, usually a Bizarian factor and a Tantsou collector, and then guide whichever of them arrives first. A party that finds a fresh street unguided is a competitor, and the Uruvolur, who know where everyone in the Khoshiqor is, sell its position to both buyers.
+The [[affiliation-rwlstrb|Uruvolur]], the hidden-water bands who guide the Ghoshiqor, are the first to learn when a street opens. They sell the news to two buyers at once, usually a Bizarian factor and a Tantsou collector, and then guide whichever of them arrives first. A party that finds a fresh street unguided is a competitor, and the Uruvolur, who know where everyone in the Ghoshiqor is, sell its position to both buyers.
 
 ## See Also
 

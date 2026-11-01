@@ -25,7 +25,8 @@ const read = (file, raw = fs.readFileSync(file, "utf8")) => ({
 // The baseline commit holds Tellumi as Khazri.md with shortcode khazrilng.
 const baselinePath = (file) =>
     file.endsWith("/Tellumi.md") ? file.replace("Tellumi.md", "Khazri.md") : file;
-// Taruzeli names respelled since the baseline.
+// Baseline spelling to current spelling for Taruzeli names and words, applied
+// to the baseline fixture before comparison.
 const taruzeliRespellings = [
     ["Libanu", "Libuna"],
     ["Salumu", "Salmuya"],
@@ -33,15 +34,109 @@ const taruzeliRespellings = [
     ["Gabbaru", "Gabbarim"],
     ["Attunu", "Attuman"],
     ["Kassuru", "Kassuruni"],
+    ["nashu", "nashku"],
+    ["nishu", "nishmu"],
+    ["qadilu", "qadibu"],
+    ["salilu", "salillu"],
+    ["qamu", "qamzu"],
+    ["tulu", "tulmu"],
+    ["dalu", "dalmu"],
+    ["selu", "selku"],
+    ["salu", "sabku"],
+    ["taru", "tarmu"],
+    ["daru", "darmu"],
+    ["naru", "nabzu"],
+    ["niru", "nidru"],
+    ["balu", "bazzu"],
+    ["bar", "baz"],
+    ["qad", "qash"],
+    ["kal", "kel"],
+    ["zukum", "zukush"],
+    ["kum", "kush"],
+    ["sir", "sik"],
 ];
+// Baseline spelling to current spelling for Sovidur words, their derived forms
+// and the names built on them, applied to the baseline fixture before
+// comparison.
+const sowidesRespellings = [
+    ["Khoshiqor", "Ghoshiqor"],
+    ["Khoshikud", "Ghoshikud"],
+    ["khoshiq", "ghoshiq"],
+    ["Orkunoq", "Orghunoq"],
+    ["orkunoq", "orghunoq"],
+    ["orkun", "orghun"],
+    ["Tijodorkun", "Tijodorghun"],
+    ["Bulaqsovid", "Bulachsovid"],
+    ["bulaq", "bulach"],
+    ["zekhir", "zekhil"],
+    ["qoqum", "qoqud"],
+    ["khökekh", "khökech"],
+    ["khodor", "khodoz"],
+    ["khüzey", "khüzem"],
+    ["zaman", "zamad"],
+    ["qolon", "qolom"],
+    ["khonaq", "khonach"],
+    ["khamas", "khamaz"],
+    ["qomikh", "qomich"],
+    ["qavun", "qavum"],
+    ["khoqoz", "khoqoch"],
+    ["khevel", "khevesh"],
+    ["qoloq", "qoloch"],
+    ["qanaq", "qanash"],
+    ["khovuq", "khovud"],
+    ["qozan", "qozam"],
+    ["qorun", "qorud"],
+    ["qadir", "qadil"],
+    ["qonoq", "qonod"],
+    ["zikir", "zikid"],
+    ["qavar", "qavol"],
+    ["qozum", "qozut"],
+    ["khoquq", "khoquz"],
+    ["qorukh", "qoruch"],
+];
+// Baseline spelling to current spelling for Tellumi words and compounds, and
+// for the Sovidur name its name-making example quotes, applied to the baseline
+// fixture before comparison.
+const tellumiRespellings = [
+    ["harser", "tunsut"],
+    ["ninser", "ninsut"],
+    ["har", "tun"],
+    ["bur", "bem"],
+    ["tul", "tem"],
+    ["ser", "sut"],
+    ["verhet", "verhes"],
+    ["narhet", "narhes"],
+    ["dimhet", "dimhes"],
+    ["het", "hes"],
+    ["lemnul", "lemnus"],
+    ["nul", "nus"],
+    ["herim", "henim"],
+    ["kermesh", "kervesh"],
+    ["karli", "kurli"],
+    ["namer", "namesh"],
+    ["hevir", "hevesh"],
+    ["lashergudesh", "lashungudesh"],
+    ["lasher", "lashun"],
+    ["nevel", "nemel"],
+    ["geshem", "gashem"],
+    ["semel", "senvel"],
+    ["terem", "terum"],
+    ["lemur", "lemun"],
+    ["gaven", "gaden"],
+    ["hesir", "hesur"],
+    ["Orkunoq", "Orghunoq"],
+    ["orkun", "orghun"],
+];
+const respellings = new Map([
+    ["assets/content/Skills/Languages/Taruzeli.md", taruzeliRespellings],
+    ["assets/content/Skills/Languages/Sowides.md", sowidesRespellings],
+    ["assets/content/Skills/Languages/Tellumi.md", tellumiRespellings],
+]);
 const respelled = (file, raw) =>
-    file.endsWith("/Taruzeli.md") ?
-        taruzeliRespellings.reduce(
-            (text, [from, to]) =>
-                text.replace(new RegExp(`(?<!\\p{L})${from}(?!\\p{L})`, "gu"), to),
-            raw,
-        )
-    :   raw;
+    (respellings.get(file) ?? []).reduce(
+        (text, [from, to]) => text.replace(new RegExp(`(?<!\\p{L})${from}(?!\\p{L})`, "gu"), to),
+        raw,
+    );
 const fromBaseline = (file) =>
     respelled(
         file,
@@ -49,8 +144,8 @@ const fromBaseline = (file) =>
             encoding: "utf8",
         }).replaceAll("khazrilng", "tellumilng"),
     );
-// Older names the steppe-tribe rulings replaced: the register rows and the
-// older-name list entries no longer exist, by file.
+// Baseline older names, by file, whose register rows and older-name list
+// entries the comparison drops from the baseline fixture.
 const replacedOlderNames = new Map([
     [
         "assets/content/Skills/Languages/Tellumi.md",
@@ -67,7 +162,8 @@ const tribeRenames = new Map([
 ]);
 const renameTribes = (text) =>
     [...tribeRenames].reduce((out, [from, to]) => out.replaceAll(from, to), text);
-// The `kept` tag held the older tribe name Sahri, which the rulings replaced.
+// The baseline fixture's `kept` tag holds the older tribe name Sahri, which
+// the comparison drops.
 function withoutKeptTag(fm, file) {
     if (file !== "assets/content/Skills/Languages/Sowides.md") return fm;
     const copy = structuredClone(fm);
@@ -227,10 +323,16 @@ test("original language entries, metadata and prose are retained", () => {
             `${file}: original metadata was removed or changed`,
         );
 
-        const currentBody = after.body.replace(/\s+/gu, " ").trim();
+        // Whitespace and the width of a table's rule row are layout.
+        const flatten = (text) =>
+            text
+                .replace(/\s+/gu, " ")
+                .replace(/(?<=\| )-{3,}(?= \|)/gu, "---")
+                .trim();
+        const currentBody = flatten(after.body);
         for (const paragraph of before.body
             .split(/\n\s*\n/u)
-            .map((part) => part.replace(/\s+/gu, " ").trim())
+            .map(flatten)
             .filter(Boolean))
             assert(
                 currentBody.includes(paragraph),

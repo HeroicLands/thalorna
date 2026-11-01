@@ -3,7 +3,7 @@ shortcode: hndrdbnnrs
 name: {full: The Storm of the Hundred Banners}
 type: lore
 subType: history
-description: "About 315 AF a steppe orkunoq goes round the western end of the Grazian wall, overruns Vedyara's northwestern march, crosses Dunhara to the walls of Amradad, and breaks up on its orkun's death—without forcing a single pass."
+description: "About 315 AF a steppe orghunoq goes round the western end of the Grazian wall, overruns Vedyara's northwestern march, crosses Dunhara to the walls of Amradad, and breaks up on its orghun's death—without forcing a single pass."
 tags: [history, spine]
 data:
   packFolder: settinglore
@@ -18,7 +18,7 @@ data:
         - affiliation-bhumipal
         - place-graznmntns
       summary: >-
-        The steppe tribes of the Khazryn unite under a charismatic orkun into a great orkunoq. It takes the one road a horde can take into the south, round the Grazian wall's western end and down the Western Descent, overruns the whole of Vedyara's northwestern march, turns west across Dunhara and reaches the eastern walls of the Kingdom of Amradad from the wrong side. It fragments on the death of its founding orkun. No pass is forced, and none could be.
+        The steppe tribes of the Khazryn unite under a charismatic orghun into a great orghunoq. It takes the one road a horde can take into the south, round the Grazian wall's western end and down the Western Descent, overruns the whole of Vedyara's northwestern march, turns west across Dunhara and reaches the eastern walls of the Kingdom of Amradad from the wrong side. It fragments on the death of its founding orghun. No pass is forced, and none could be.
       standing: attested
       names:
         - name: the Storm of the Hundred Banners
@@ -45,7 +45,7 @@ data:
             knowledge: named
           - place: place-wemaq
             how: >-
-              the orkun opens the union at the Green Oasis by killing the last tribe that refuses his banner, and the oasis is a blood-field no tribe claims
+              the orghun opens the union at the Green Oasis by killing the last tribe that refuses his banner, and the oasis is a blood-field no tribe claims
             knowledge: named
           - place: place-shikhalayaland
             how: >-
@@ -76,16 +76,16 @@ data:
           says: No horde has ever forced a Grazian pass.
           agrees: full
       unresolved:
-        - the founding orkun's name
+        - the founding orghun's name
         - whether the tribes of Dunhara rode with the host or only stood out of its way
         - what the other two steppe unifications of recorded history were, and when
 ---
 
-**The Storm of the Hundred Banners** is the reason every fort on [[place-marchroad|the March Road]] in [[place-vedyarargn|Vedyara Region]] was built, and it is the most famous of the three times in recorded history that the steppe has united behind one orkun. About 315 AF a charismatic warlord drew the independent tribes of the [[place-khzryndsrtrgn|Khazryn]] into a single orkunoq, and the orkunoq went south.
+**The Storm of the Hundred Banners** is the reason every fort on [[place-marchroad|the March Road]] in [[place-vedyarargn|Vedyara Region]] was built, and it is the most famous of the three times in recorded history that the steppe has united behind one orghun. About 315 AF a charismatic warlord drew the independent tribes of the [[place-khzryndsrtrgn|Khazryn]] into a single orghunoq, and the orghunoq went south.
 
-It took the one road a horde can take. [[place-graznmntns|The Grazian Mountains]] close the south off from the steppe, and their passes carry a few caravans a season under hereditary guides; no host can cross them, and none ever has. The orkunoq went round instead. It came down [[place-wstrndscnt|the Western Descent]], where the wall comes apart into dry foothills at its western end, and turned onto the march road.
+It took the one road a horde can take. [[place-graznmntns|The Grazian Mountains]] close the south off from the steppe, and their passes carry a few caravans a season under hereditary guides; no host can cross them, and none ever has. The orghunoq went round instead. It came down [[place-wstrndscnt|the Western Descent]], where the wall comes apart into dry foothills at its western end, and turned onto the march road.
 
-What followed is told in four regions in nearly the same words. The host overran the whole of Vedyara's northwestern march. It went on west across [[place-dunharargn|Dunhara]] and reached the eastern walls of the [[affiliation-kngdmmrdd|Kingdom of Amradad]] from the side nobody had built them to face. Then its founding orkun died, and the orkunoq broke back into the tribes it had been made from. The southwestern oasis-cities were largely spared; the [[lore-khazrynclt|Tellumi]] account credits the storm-orkun's respect for the Kingdom's diplomatic missions.
+What followed is told in four regions in nearly the same words. The host overran the whole of Vedyara's northwestern march. It went on west across [[place-dunharargn|Dunhara]] and reached the eastern walls of the [[affiliation-kngdmmrdd|Kingdom of Amradad]] from the side nobody had built them to face. Then its founding orghun died, and the orghunoq broke back into the tribes it had been made from. The southwestern oasis-cities were largely spared; the [[lore-khazrynclt|Tellumi]] account credits the storm-orghun's respect for the Kingdom's diplomatic missions.
 
 On the [[lore-vedyariclt|Vedyari]] side the march has been arranged around that season ever since. [[affiliation-bhumipal|Bhumipal]] built every fort on the road afterward, and with the host in mind, and the kingdom's court, companies and customs all stand on the fact that the march road is the one frontier of the subcontinent a loaded camel—or a steppe host—crosses without climbing. In the passes, [[affiliation-shikhalaya|Shikhalaya]] keeps the other half of the record: no horde has ever forced a Grazian pass.
 

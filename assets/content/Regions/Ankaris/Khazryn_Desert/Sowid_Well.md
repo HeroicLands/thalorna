@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [idwkrrgn], population: 0, packFolder: 
 
 The last dune ends in a wall of black rock, split by a cleft wide enough for three camels abreast, and the cleft ends at a cistern the size of a threshing floor. A stone hall with a roof of turf stands beside it, built for the riders who winter here when the road closes. In the evening the caravan comes in out of the sand, and the wind carries the smell of snow for the first time in weeks.
 
-**Sovid**, "the rider" in [[skill-sowideslng|Sovidur]], is the second hand-off well on [[lore-celestialroad|the Celestial Road]]. It lies about 1,700 miles from the [[place-eastrnmrch|March]] and about ninety-five days out, on the border between [[place-hskrrgn|Khoshiqor]] and [[place-idwkrrgn|Idvaqor]]. East of it the sand is gone and the road climbs through stone toward the passes of [[place-tantsouregin|Tantsou]].
+**Sovid**, "the rider" in [[skill-sowideslng|Sovidur]], is the second hand-off well on [[lore-celestialroad|the Celestial Road]]. It lies about 1,700 miles from the [[place-eastrnmrch|March]] and about ninety-five days out, on the border between [[place-hskrrgn|Ghoshiqor]] and [[place-idwkrrgn|Idvaqor]]. East of it the sand is gone and the road climbs through stone toward the passes of [[place-tantsouregin|Tantsou]].
 
 ## The Hand-off
 
@@ -39,7 +39,7 @@ Sand wurms are seen in the last dunes, and a caravan arriving after dark does we
 [[place-idwkrrgn|Idvaqor]]
 : the eastern stone desert
 
-[[place-hskrrgn|Khoshiqor]]
+[[place-hskrrgn|Ghoshiqor]]
 : the central sands
 
 [[place-yemokwell|Yemok]]

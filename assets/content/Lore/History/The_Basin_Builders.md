@@ -70,7 +70,7 @@ Their canals and mounds are already old by 2600 BF. That is a century before the
 Four things survive, and each is a place a party can walk to:
 
 - **The shoreline.** [[place-ewod|Evod]], the dry salt lake, is the lake bed itself, with the mounds standing along its edge.
-- **The deep wells.** [[place-qelod|Kelod]] is the greatest of the stair-wells, and there are lesser ones along the old canal lines that the tribes of the [[place-hskrrgn|Khoshiqor]] still draw from and refuse to explain.
+- **The deep wells.** [[place-qelod|Kelod]] is the greatest of the stair-wells, and there are lesser ones along the old canal lines that the tribes of the [[place-hskrrgn|Ghoshiqor]] still draw from and refuse to explain.
 - **The highland tombs.** [[place-osikor|Oshiqor]] is the ravine burial ground in the stone range north of the basin, where their rulers lay.
 - **The sand.** Every dune field of the central waste may cover a buried street or field-wall, and the tribes treat the sand of the basin as the builders' own.
 

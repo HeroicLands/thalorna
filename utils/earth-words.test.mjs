@@ -96,6 +96,29 @@ function fullNote(name, { words = "", names = "", register = "" }) {
     );
 }
 
+test("a word's variants are read with their positions and the word's gloss", () => {
+    const file = fullNote("Vylari.md", {
+        words: '    - form: aquor\n      variants: [aqua, "via"]\n      class: n\n      gloss: "water"',
+    });
+    assert.deepEqual(formsOf(fs.readFileSync(file, "utf8")), [
+        { form: "aquor", gloss: "water", line: 5, column: 13 },
+        { form: "aqua", gloss: "water", line: 6, column: 18 },
+        { form: "via", gloss: "water", line: 6, column: 24 },
+    ]);
+});
+
+test("a variant that is a whole Earth word is an error, unless the owner has ruled to keep it", () => {
+    const root = path.join(dir, "variants");
+    write("variants/old-norse.txt", "jarl\nhrafn\n");
+    const file = fullNote("Nordmal.md", {
+        words: "    - form: hrevn\n      variants: [hrafn, jarl]\n      class: n\n      gloss: a raven",
+    });
+    const { status, err } = run(["--wordlists", root, file]);
+    assert.equal(status, 1);
+    assert.equal(err.length, 1, err.join("\n"));
+    assert.match(err[0], /:6:18: error: "hrafn" is a word of the old-norse list/);
+});
+
 test("name lists and native register names are read, with their positions", () => {
     const file = fullNote("Vylari.md", {
         names: [

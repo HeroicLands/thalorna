@@ -3,7 +3,7 @@ shortcode: wemaqcalling
 name: {full: The Calling at Vomek, sovi: [Vomekoqod]}
 type: lore
 subType: literature
-description: "The names of the tribe killed at the Green Oasis, as the elders of the tribe that took in its survivors speak them to the four winds in their own camp and refuse to speak them at the water: a Sovidur calling, with the dovaq's refusal of the banner kept word for word and the orkun given no name."
+description: "The names of the tribe killed at the Green Oasis, as the elders of the tribe that took in its survivors speak them to the four winds in their own camp and refuse to speak them at the water: a Sovidur calling, with the dovaq's refusal of the banner kept word for word and the orghun given no name."
 tags: [draft, khazryn]
 data:
   packFolder: settinglore
@@ -19,9 +19,9 @@ data:
   lang: sovi
 ---
 
-**The Calling at Vomek**, _Vomekoqod_, is a calling (_oqod_) of the [[lore-sowidesclt|Sovidur]], the form in which the steppe speaks the names of its dead to the four winds at a laying-out, enlarged here from one body to a tribe. The tribe is the [Khuvanur]{.name data-type="affiliation/polity"}, the deer people, the last tribe that refused the banner of the second orkun and was killed at [[place-wemaq|Vomek]] over a morning, some four thousand people with their herds, and forbidden the laying-out; the dovaq made to watch was [Gorentoliz]{.name data-type="being/npc"}, storm-spear. The few who got away over the dunes were taken in by the [Kesukur]{.name data-type="affiliation/polity"}, the eagle people, whose range lies a day's ride from the oasis, and the Kesukur elders have held the names by heart ever since and teach them to their children. They have never agreed to speak them at the water, because a name spoken at Vomek is spoken before every tribe on the road, and the calling cannot name the dead without naming what was done to them, and the Kesukur sell passage to every tribe that rode under the banner. So the calling is spoken in the Kesukur camp with the oasis a day away, in the first days of the grass, by the eldest, with the children answering.
+**The Calling at Vomek**, _Vomekoqod_, is a calling (_oqod_) of the [[lore-sowidesclt|Sovidur]], the form in which the steppe speaks the names of its dead to the four winds at a laying-out, enlarged here from one body to a tribe. The tribe is the [Khuvanur]{.name data-type="affiliation/polity"}, the deer people, the last tribe that refused the banner of the second orghun and was killed at [[place-wemaq|Vomek]] over a morning, some four thousand people with their herds, and forbidden the laying-out; the dovaq made to watch was [Gorentoliz]{.name data-type="being/npc"}, storm-spear. The few who got away over the dunes were taken in by the [Kesukur]{.name data-type="affiliation/polity"}, the eagle people, whose range lies a day's ride from the oasis, and the Kesukur elders have held the names by heart ever since and teach them to their children. They have never agreed to speak them at the water, because a name spoken at Vomek is spoken before every tribe on the road, and the calling cannot name the dead without naming what was done to them, and the Kesukur sell passage to every tribe that rode under the banner. So the calling is spoken in the Kesukur camp with the oasis a day away, in the first days of the grass, by the eldest, with the children answering.
 
-The steppe holds that a soul nobody names is not found by the sky-father and is found first by the hunters; the oasis, where the dates fall on grass that has never been less than knee-high and every sleeper dreams the morning, is what that belief points at. The common transcription and translation below preserve one elder's oral calling as a rider of the Kesukur gave it to a factor at [[place-qisomrktcmp|Qiiso]] for a price, with the children's answers set in italics. It keeps the steppe's custom in two things: the orkun has no name anywhere in it, and the dovaq's refusal is repeated in the same words each time, because a witnessed word is held exactly or not at all. The calling names a few dozen of the dead; the elders hold the rest, and the piece says so.
+The steppe holds that a soul nobody names is not found by the sky-father and is found first by the hunters; the oasis, where the dates fall on grass that has never been less than knee-high and every sleeper dreams the morning, is what that belief points at. The common transcription and translation below preserve one elder's oral calling as a rider of the Kesukur gave it to a factor at [[place-qisomrktcmp|Qiiso]] for a price, with the children's answers set in italics. It keeps the steppe's custom in two things: the orghun has no name anywhere in it, and the dovaq's refusal is repeated in the same words each time, because a witnessed word is held exactly or not at all. The calling names a few dozen of the dead; the elders hold the rest, and the piece says so.
 
 : The Calling at Vomek {#calling}
 
@@ -195,7 +195,7 @@ yitboq. qadiz ghaniyush jodur./
 zilich kesukur jochun. khizich/
 vomek zilich jiven zevik/
 jochun, jiviz zilich qaduch/
-ghutar, qavar jobiz vomek/
+ghutar, qavol jobiz vomek/
 jiven qovighit vomek jochun./
 khilin jilin zubosh qotim‼/
 khilin evur qotur qotim‼/
@@ -212,47 +212,47 @@ chövem zökhen, jiviz ghosun/
 zöret zughish jodur ghanim/
 qadiz chövem. vilaq qadul/
 jiven khözen khödir jochun,/
-voyer jonkhiq qotur qavun./
+voyer jonkhiq qotur qavum./
 qovikh khuvanur jiven, mirjolud/
 kodu jetökör ghuzoch jiven,/
-zokhun qadir jozul zökir,/
-boyad qonoq jiven chovin,/
+zokhun qadil jozul zökir,/
+boyad qonod jiven chovin,/
 qonar qozur shokhun qonir/
-zökhen. qaduch qadir zevik/
-zöder, boyad qadir jiven/
+zökhen. qaduch qadil zevik/
+zöder, boyad qadil jiven/
 zevik zöder, qonar qotim./
 bovilun, zonazin zaqin ghodil,/
 zokhun qadul khamaqjivoq jalud,/
 vilaq semok jiven jotok,/
-semok khoqoz ghanim jozon,/
+semok khoqoch ghanim jozon,/
 jiviz sovid yitboq jodur/
 ghanim jivoq zökir jochun,/
 jiviz zevik khötünür zökhen,/
-qavar ghachaa khamaqjivoq/
-zökir qadiz zevik khoqoz./
+qavol ghachaa khamaqjivoq/
+zökir qadiz zevik khoqoch./
 qadul jivoq zökir jochun./
 qozat khuvanur jiven, qovikh/
 chezek chovin jelüdchaqur ghozun/
-josaqchaqur qotur. qadir jomod/
-qonoq jiven ghuyuz qovikh/
-qozur jiviz zidun qanaq,/
+josaqchaqur qotur. qadil jomod/
+qonod jiven ghuyuz qovikh/
+qozur jiviz zidun qanash,/
 qaduch jorun bodva jömik./
-qadir toliz qonoq jiven/
+qadil toliz qonod jiven/
 qovikh yitboq biiloq qozabum,/
-zokhun qadir jozul qotur/
+zokhun qadil jozul qotur/
 züyön zökhen, zughish qodol,/
 jiviz jilar chovur zughish./
-qovikh jilar qazin qadir/
-uruvol chonotoz jömik qanaq,/
+qovikh jilar qazin qadil/
+uruvol chonotoz jömik qanash,/
 zokhaz ghunolil uruvol chovin./
 uruvol ghonor jochun, ghonor./
 qadiz ghochikh ghonor jochun./
 uruvaq volket ghozun, khilin/
 khizich qotim‼ qazod ghukhod./
 zidun qazod ghukhod, zokhun/
-zilich qadir uruvaq khizin/
+zilich qadil uruvaq khizin/
 qozabum zevik javal zökhen./
-zilich qadir qoqam javal./
+zilich qadil qoqam javal./
 zevik chikin, zevik chikin./
 .zevik chikin, zevik chikin.
 
@@ -272,18 +272,18 @@ jiviz zusar jimiz jiven?/
 
 zökhem khuvanur jiven, qovikh/
 jögish, jelüd züziyüt chunikh,/
-zokhun qadir soqir zodin/
+zokhun qadil soqir zodin/
 evur ghudan zökhen, jiviz/
 zazim volket qazun ghuyuz/
-qadiz jügülech ghudan, qavar/
-qadir jidir volket jilod/
+qadiz jügülech ghudan, qavol/
+qadil jidir volket jilod/
 jochun zökhen javal, jiviz/
 volket jilod jochun, khazur/
 khizin quchich zevik jochun./
-qaduch qadir zevik zöder./
-orolqi zökhem zevik qanaq./
-orolqi ghachaa zevik qanaq./
-orolqi khügibil zevik qanaq./
+qaduch qadil zevik zöder./
+orolqi zökhem zevik qanash./
+orolqi ghachaa zevik qanash./
+orolqi khügibil zevik qanash./
 qazun zachoq jadaq jochun./
 khizin jadaq zevik jochun./
 zilich qadiz qusil javal./
@@ -299,16 +299,16 @@ ghachaa jilin khenech jochun./
 zilich jilin zidun ghutar./
 chutakh khuvanur jiven, zaqin/
 qozur jiviz jumaq. zaqin/
-qazun ghuyuz qadir toliz/
+qazun ghuyuz qadil toliz/
 yitboq qonir, kodu yitboq,/
-kodu chelölöl. qadir ghuchon/
+kodu chelölöl. qadil ghuchon/
 kodu chelölöl chovin zövet/
-biiloq qotur sovoz, qavar/
+biiloq qotur sovoz, qavol/
 qovikh uruvol chonotoz jömik/
-jochun, qadir joghur khödir./
-koyoz jidir qadir qaduch/
+jochun, qadil joghur khödir./
+koyoz jidir qadil qaduch/
 züyön zökhen zevik javal,/
-qavar qadir zevik züyön./
+qavol qadil zevik züyön./
 khügibil qazin ghotaz zidun/
 jiven, zetöküs, jüyech chüyözükh/
 chovin. khuvanur numaq ghuyuz/
@@ -317,13 +317,13 @@ qomul, jiviz zevik khuqay./
 qaduch qazin jilin zidun/
 chovin ghutar, jiviz zilich/
 qaduch qovighit ghutar, «zetöküs.»/
-qovikh zokhun qadir qibud/
+qovikh zokhun qadil qibud/
 khuvanur jiven jalud zökhen,/
 qoqit jiviz zabakh khuvan/
 chovin. joyut zöken ghanim/
-qadir qibud jozul jömik/
+qadil qibud jozul jömik/
 zozum, zodin zudom zokhun/
-qadir zömem jodur zökhen/
+qadil zömem jodur zökhen/
 yemok khuvanur jiven qomat/
 jiviz qadiz zubiz qomul./
 qaduch jozul jömik jochun./
@@ -331,7 +331,7 @@ jozul zusar ghonor jochun./
 zudom qaduch zubosh zutokh./
 uruvaq orqaz ghozun, khilin/
 khizich qotim‼ zidun qazod/
-ghukhod, zokhun zilich qadir/
+ghukhod, zokhun zilich qadil/
 uruvaq khizin qozabum zevik/
 javal zökhen. zevik chikin./
 .zevik chikin, zevik chikin.
@@ -342,15 +342,15 @@ uruvaq jeböd, yadqit, qozud,/
 qovikh zokhun qaduch cholis/
 jiviz zubiz zökhen. khilin/
 khizich zubosh qotim‼ jedor/
-khödir qiiso zughish qavun‼/
+khödir qiiso zughish qavum‼/
 dovaq zokhir juchon zökir,/
 sovid zokhir kelod zökir,/
 soqir zokhir zokhun qadiz/
 jedor choboch zubiz jiviz/
 qiiso qadiz jiven qotim/
-zökhen, qaduch khanalod qavun‼/
+zökhen, qaduch khanalod qavum‼/
 qaduch khilin chayokh zodin./
-zilich qaduch khovuq jochun./
+zilich qaduch khovud jochun./
 zilich khilin chayokh zodin./
 .zilich khilin chayokh zodin.
 
@@ -367,9 +367,9 @@ zenökh, boyad qadul jiven/
 zömem zenökh zödir chübish./
 qovikh khuvanur jiven, ghakhikud,/
 zokhun ghosun jodur ghanim/
-qadir ghakhiq qazodir zökhen,/
-jiviz qadir ghakhiq züyid/
-qazodir, koyoz javal, qavar/
+qadil ghakhiq qazodir zökhen,/
+jiviz qadil ghakhiq züyid/
+qazodir, koyoz javal, qavol/
 qadiz jölön züyid jochun,/
 jiviz qadiz qoqit chovin/
 jotok, jiviz juyatud ghuzaq./
@@ -386,7 +386,7 @@ qozabum, jiviz zachoq qozabum/
 zödösh, khazur soqir qadul/
 jiven biiloq qozabum sovoz,/
 jiviz jakhakh qadul jiven/
-sovid khovuq jochun. zilich/
+sovid khovud jochun. zilich/
 qadul khuvanur chovin ghutar./
 soqir jakhakh qadul jiven/
 khüket züser ghutar jökir./
@@ -399,18 +399,18 @@ qozur jiviz zidun, kodu/
 jalud, jiviz jalud, koyoz/
 javal, qovikh sovoz zodin/
 khenech ghachomum ghunolil. jalivas/
-qadir qaduch khoqoz, zodin/
+qadil qaduch khoqoch, zodin/
 biiloq qaduch zevik qonir./
 qonar khötünür, jiviz orolqi/
 qaduch jüvekh. kodu jetökör/
-ghuzoch orkunoq jilar chovur/
+ghuzoch orghunoq jilar chovur/
 jiven qoduyuz ghozun jodur./
 kodu chotar. qonar vomek/
 zökir. khilin khizin javal‼/
 .qonar, qonar vomek zökir./
 uruvaq diqraq ghozun, khilin/
 khizich qotim‼ zidun qazod/
-ghukhod, zokhun zilich qadir/
+ghukhod, zokhun zilich qadil/
 uruvaq khizin qozabum zevik/
 javal zökhen. zevik chikin./
 .zevik chikin, zevik chikin.
@@ -418,10 +418,10 @@ javal zökhen. zevik chikin./
 uruvaq votri ghozun. uruvaq/
 jilar shokhun. qadiz jedor/
 ghoquq. khilin khizich zubosh/
-qotim‼ qolun zevik qavun‼/
-qavar uruvol zökir volket/
+qotim‼ qolun zevik qavum‼/
+qavol uruvol zökir volket/
 ghuchon qaduch khuzir, jiviz/
-volket qolun zevik qavun./
+volket qolun zevik qavum./
 zazim volket qazun züyedüy/
 volket zokhaz ghozir chonotoz/
 qazod zevik jochun. zöret/
@@ -445,7 +445,7 @@ yovaq jalud zökhen, khügibil/
 zokhun qadul gured chevös/
 zökhen, ghachaa chovur chögönöm/
 zidun jiven, qovikh zokhun/
-qadir dovaq qotur jibun/
+qadil dovaq qotur jibun/
 kodu ghodil jiven qonir/
 jiviz qojom cheyitin zökhen,/
 qaduch jorun. zilich qaduch/
@@ -465,26 +465,26 @@ khozul qaduch jiven evur/
 qotur, jilin qaduch jiven/
 zanim javal. biiloq zachoq/
 kholiqin, qadiz zöker kholiqin./
-biiloq orolqi qonoq jiven/
+biiloq orolqi qonod jiven/
 zodin ghuchon zachoq jalud./
 khizin ghozuch jochun. khizin/
 ghozuch khobud. khilin javal‼/
-.biiloq orolqi qonoq jiven/
+.biiloq orolqi qonod jiven/
 .zodin ghuchon zachoq jalud./
 uruvaq votri ghozun, khilin/
 khizich qotim‼ zidun qazod./
-zusar zilich qadir javal./
+zusar zilich qadil javal./
 uruvol zökir zevik. chikin.
 
 gorentoliz. goren toliz./
 dovaq khuvanur jiven jochun./
 jozul zökir, soqir zokhun/
 qaduch yemok zovad zökhen/
-khuqikhash, biiloq zöret khovuq,/
-qovikh jilin khenech qadir/
+khuqikhash, biiloq zöret khovud,/
+qovikh jilin khenech qadil/
 evur qozabum yemok zovad/
-zodin chezir. qadir javal,/
-zilich qadir züser javal,/
+zodin chezir. qadil javal,/
+zilich qadil züser javal,/
 khilin zilich zömem javal./
 «zilir dovaq kelod qazin/
 jiviz volket qaduch choyad/
@@ -513,47 +513,47 @@ zulod jözir. zilich chüremüm.»/
 jiviz qovikh jilin khenech/
 kelod qazuch zevik ghodaz./
 qovikh jilin khenech khuvanur/
-ghunoq zidun ghuyuz qanaq,/
+ghunoq zidun ghuyuz qanash,/
 qaduch gorentoliz chüvel jozul/
 jiven khödir jalud, khozul/
-jozul züchir, jiviz qadir/
+jozul züchir, jiviz qadil/
 zenökh zödir. joyut zömem/
-qaduch qadir khoqoz, chöyikh/
+qaduch qadil khoqoch, chöyikh/
 khödir, kodu khenech, uruvol/
 khenech, qibud khenech, soqir/
-khenech chovin. qadir yodvir/
+khenech chovin. qadil yodvir/
 zidun kelod zilich jiven/
 qotur zösit, jiviz zilich/
-qadir zayam zovad. qadir/
+qadil zayam zovad. qadil/
 yolaq zilich jiven khosamud/
-qazim. qadir qadiz zömin/
-qazim. qadir semok zilich/
-jiven jochun. qadir zevik/
-qojir. yodvir qazin qadir/
+qazim. qadil qadiz zömin/
+qazim. qadil semok zilich/
+jiven jochun. qadil zevik/
+qojir. yodvir qazin qadil/
 otviil zökir ghusid, jiviz/
 zevik qojir. yodvir jilar/
-shokhun qadir jilin javal,/
+shokhun qadil jilin javal,/
 jorun. juqom ghozun juqom/
-zadaq ghunolil. qadir qaduch/
+zadaq ghunolil. qadil qaduch/
 javal ghanim, zilich qaduch/
-jorun jalud. jalivas qadir/
+jorun jalud. jalivas qadil/
 yeloz zilich jiven qotur/
-qavun, jiviz khozul qonoq/
+qavum, jiviz khozul qonod/
 jiven evur qotur khekhül./
-qadir zusar qoduyuz jochun./
-zilich jilin qadir jiven/
+qadil zusar qoduyuz jochun./
+zilich jilin qadil jiven/
 uruvaq shokhun qotur javal,/
-qavar qadir jilin ghuchon/
+qavol qadil jilin ghuchon/
 ghozun zödösh, jilin ghuchon,/
-jiviz qovikh zokhun qadir/
+jiviz qovikh zokhun qadil/
 khenech ghozun zödösh zökhen,/
-orolqi qadir yeloz khödir/
+orolqi qadil yeloz khödir/
 qodol, qovikh zokhir chübish./
 gorentoliz. goren toliz./
-uruvaq qadir zubosh qotim./
+uruvaq qadil zubosh qotim./
 khilin zusar khizin javal‼/
 .gorentoliz. goren toliz./
-.uruvaq qadir zubosh qotim.
+.uruvaq qadil zubosh qotim.
 
 zusar khizin yemok todva/
 kesukur jiven jochun, zokhun/
@@ -568,7 +568,7 @@ qozabum. «zilich jilin khuvanur/
 jiven jalud. zilich qaduch/
 oroqid zilich jiven jömik/
 javal. zilich qaduch uruvol/
-zökir zevik javal, qavar/
+zökir zevik javal, qavol/
 uruvol jedor khödir khekhül,/
 jiviz jilin zokhun orolqi/
 qadiz uruvol zökir javal/
@@ -583,7 +583,7 @@ chovin jozul zökir zovuz/
 jiviz qaduch javal, qazul/
 zilich qaduch javal. qazun/
 ghunolil zilich qaduch jalud,/
-jiviz zilich khökekh qonir,/
+jiviz zilich khökech qonir,/
 jiviz zilich khizin javal,/
 jiviz zilich qaduch jalud.»/
 .zilich qaduch jalud, jalud.
@@ -596,7 +596,7 @@ jochun. khilin qaduch zevik/
 qazim‼ khonoz khüner jochun/
 ghanim khilin zevik khogham‼/
 khilin yodvir ghuyuz chödel/
-zovot qazodir, jiviz qavun‼/
+zovot qazodir, jiviz qavum‼/
 zukhizosh khilin jiven qoduyuz/
 khizin jochun, zokhun zilich/
 qadiz khilin qotur zusar/
@@ -625,7 +625,7 @@ khizin qovighit zachoq jochun./
 : what a quickening field is, and what a late laying-out does to one
 
 [[lore-sowidesclt|The Sovidur]]
-: the laying-out, the four winds and the orkun
+: the laying-out, the four winds and the orghun
 
-[[place-hskrrgn|Khoshiqor]]
+[[place-hskrrgn|Ghoshiqor]]
 : the sand country the oasis lies in

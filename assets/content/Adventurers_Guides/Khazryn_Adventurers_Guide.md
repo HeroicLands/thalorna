@@ -23,7 +23,7 @@ One road crosses it. [[lore-celestialroad|The Celestial Road]] carries Tantsou s
 The Sovidur name the country by ranges, the ground a tribe grazes, and each shades into the next over a hundred miles.
 
 - [[place-wlqtrrgn|Volketor]], "the grass range," is the western margin below Bizaria's Eastern March, green for six weeks in spring and dust by midsummer. Its tribes are the most practiced with strangers: one who comes without passage is stripped and sent back west, and killed only if he fights.
-- [[place-hskrrgn|Khoshiqor]], "the sand range," is the heart: sand seas round a dead lake basin, wells three to five days apart, and the market-camp of [[place-qisomrktcmp|Qiiso]] in the middle.
+- [[place-hskrrgn|Ghoshiqor]], "the sand range," is the heart: sand seas round a dead lake basin, wells three to five days apart, and the market-camp of [[place-qisomrktcmp|Qiiso]] in the middle.
 - [[place-dkrqrrgn|Diqraqor]], "the stone range," is a black plateau of mesas and ravines whose poor tribes escort caravans when they are not raiding them.
 - [[place-idwkrrgn|Idvaqor]], "the east range," climbs through stone desert to cold high steppe before Tantsou's passes, with the longest stages and the hardest bargain on the road.
 - [[place-swoasisbelt|Tellumel]] is the irrigated strip at the foot of the mountains, and [[place-gwtkrrgn|Ghotaqor]], "the forest range," fills the north.
@@ -56,7 +56,7 @@ Each tribe answers to nobody above its own dovaq (chief), chosen by the elders f
 
 A jadaq (raid) drives off herds and takes captives for ransom; women, children and shamans are not killed, and no well is poisoned. A raid that kills opens a bodva (blood-feud) that can run for generations, until horses are paid or a marriage is made. A raid on a caravan that has paid the tribe's toll insults the tribe, and the tribe answers it. Taking from a caravan that paid nobody is collection.
 
-Now and then one person, man or woman, forces many tribes together by the sword. That leader is an orkun, and the union is an orkunoq. It has no council, no heir and no law but the orkun's word, and it breaks within a season of the orkun's death, when every feud it closed opens at once. The tribes count years from the last great union, and the present year is the 173rd of the [Silent Market]{.name data-type="lore/calendar"}. They expect a fourth and cannot say when it will come.
+Now and then one person, man or woman, forces many tribes together by the sword. That leader is an orghun, and the union is an orghunoq. It has no council, no heir and no law but the orghun's word, and it breaks within a season of the orghun's death, when every feud it closed opens at once. The tribes count years from the last great union, and the present year is the 173rd of the [Silent Market]{.name data-type="lore/calendar"}. They expect a fourth and cannot say when it will come.
 
 The Sovidur honor the [[affiliation-ashanpnthn|Ashaian gods]] loosely over older sky-cults, above all [[lore-bahramisdty|Báhramis]] of the storm. A treaty is sworn before lightning, and the dead are left on the laying-out ground with their names spoken to the four winds.
 
@@ -77,7 +77,7 @@ Where the snowmelt reaches, the country turns within a day's ride to canals, dat
 
 ## Ruins and Labyrinths
 
-Two vanished peoples left the oldest ruins. [[lore-basinbldrs|The Basin Builders]] farmed a lake in the Khoshiqor until the water failed around 1700 BF. Their lake is [[place-ewod|Evod]], a salt flat whose crust breaks over the old canals; their stair-well [[place-qelod|Kelod]] goes down three hundred feet to something pale in the drain; their kings lie in the painted tombs of [[place-osikor|Oshiqor]], and rise when a chamber is breached. Later, [[lore-towercities|the Tower Cities]] lit towers along the first road so the strings could march in the cool. [[place-wilud|Vulud]] lies under a dune sea that uncovers one street a generation, and the [[place-ruinsarkor|Ruins of Arkor]] under the [[place-hekardesert|Desert of Hek'ar]], where knights of [[affiliation-blackflame|the Black Flame]] fight one another for a relic.
+Two vanished peoples left the oldest ruins. [[lore-basinbldrs|The Basin Builders]] farmed a lake in the Ghoshiqor until the water failed around 1700 BF. Their lake is [[place-ewod|Evod]], a salt flat whose crust breaks over the old canals; their stair-well [[place-qelod|Kelod]] goes down three hundred feet to something pale in the drain; their kings lie in the painted tombs of [[place-osikor|Oshiqor]], and rise when a chamber is breached. Later, [[lore-towercities|the Tower Cities]] lit towers along the first road so the strings could march in the cool. [[place-wilud|Vulud]] lies under a dune sea that uncovers one street a generation, and the [[place-ruinsarkor|Ruins of Arkor]] under the [[place-hekardesert|Desert of Hek'ar]], where knights of [[affiliation-blackflame|the Black Flame]] fight one another for a relic.
 
 Other ruins belong to no story anyone tells. The caverns of [[place-ruweq|Uruvaq]] in Idvaqor hold sweet cisterns and a painted script no one reads, and the tribes bar them as the country's lungs. [[place-roqid|Oroqid]] is a Vylarian fort whose strongroom nobody has opened. Above the Tellumel the labyrinth of [[place-vurdil|Vurdish]] climbs into the mountain from a doorway forty feet high, and other [[place-grazruins|cut passages]] open wherever a glacier draws back. The tribe that owns the nearest water charges for each of them or bars the way.
 
@@ -85,16 +85,16 @@ Other ruins belong to no story anyone tells. The caverns of [[place-ruweq|Uruvaq
 
 A kedok (blood-field) is ground where a great many died at once and nobody performed their rite. Four are known. Two are vesuk (thin blood-fields), where the hunters the tribes call [[being-yiqnotud|Yiqnotud]] cross in half-material form and kill.
 
-- [[place-jilaq|Jilaq]], chief of the Tower Cities, was killed by the first orkun about 190 BF. Its towers light themselves on still nights, and the road bends three days south round it.
+- [[place-jilaq|Jilaq]], chief of the Tower Cities, was killed by the first orghun about 190 BF. Its towers light themselves on still nights, and the road bends three days south round it.
 - [[place-qimod|Qiimod]], a caravan town on the spur, died in its market week about 548 AF. No sound carries in its lanes, no fire stays lit, and whoever sleeps inside is taken by the throat.
-- [[place-wemaq|Vomek]], the best water on the road, is moderate: palms fruit twice a year, and everyone who sleeps there dreams the second orkun's massacre and keeps hearing it. [[lore-wemaqcalling|The Calling at Vomek]] ends on the warning: [The pool is a day's ride. The dates are on the palm. Do not eat them./Do not sleep in sight of the trees. Fill your skins by day and go.]{.verse}
+- [[place-wemaq|Vomek]], the best water on the road, is moderate: palms fruit twice a year, and everyone who sleeps there dreams the second orghun's massacre and keeps hearing it. [[lore-wemaqcalling|The Calling at Vomek]] ends on the warning: [The pool is a day's ride. The dates are on the palm. Do not eat them./Do not sleep in sight of the trees. Fill your skins by day and go.]{.verse}
 - [[place-henhulpedin|Henhutpedin]], outside [[place-zargandur|Zargandur]], is where the Tellumi war-house died in the [Breaking]{.name data-type="lore/history"}. Hooves gallop over it every night.
 
 The [[lore-bloodfield|Blood-fields]] note explains how such ground is made and what quiets it.
 
 ## Creatures
 
-Creatures gather at water. [[being-gntcmlsp|Giant camel spiders]] come in to a camp's scraps at night, the [[being-qelodud|Kelodud]] hangs in well shafts, and the [[being-orkesud|Orqazud]] shimmers like water on a clay pan and takes what comes to drink. On the sand the [[being-hosikud|Khoshikud]] digs funnel traps that swallow camels, a rutting [[being-gwirador|Guredor]] scatters a string, and the [[being-budeq|Budaq]] follows a caravan for days and settles on the weakest beast. [[being-numek|Numaq]] pour out of the dead light-towers at dusk, and the [[place-khzryndsrtrgn|region note]] lists the rest, the salt-spirit [[being-yolequd|Yolakud]] among them.
+Creatures gather at water. [[being-gntcmlsp|Giant camel spiders]] come in to a camp's scraps at night, the [[being-qelodud|Kelodud]] hangs in well shafts, and the [[being-orkesud|Orqazud]] shimmers like water on a clay pan and takes what comes to drink. On the sand the [[being-hosikud|Ghoshikud]] digs funnel traps that swallow camels, a rutting [[being-gwirador|Guredor]] scatters a string, and the [[being-budeq|Budaq]] follows a caravan for days and settles on the weakest beast. [[being-numek|Numaq]] pour out of the dead light-towers at dusk, and the [[place-khzryndsrtrgn|region note]] lists the rest, the salt-spirit [[being-yolequd|Yolakud]] among them.
 
 ## The Mountains and the Forest
 
@@ -136,7 +136,7 @@ At the first fire, three questions place a character: **Whose salt have you eate
 Campaigns start well from the price of things. A caravan-master dies on the march and his heir cannot read his list. A tribe closes its wells because a neighbor's rider killed its dovaq. A street of Vulud has opened, and a hidden-water band has sold the news to two buyers. A Bizarian factor at Qiiso offers a fortune for one lens of tower-glass from Jilaq.
 
 :::secret
-**For the GM:** A rising orkun is the campaign the Khazryn holds in reserve. Each dovaq he reaches must swear under open sky or watch the tribe's wells fouled, and one who refuses is replaced by a cousin who will swear. A master's list of agreements names every tribe on the road and which of them are at feud, and a party that sells one to the wrong rider has handed him the order in which the road can be taken.
+**For the GM:** A rising orghun is the campaign the Khazryn holds in reserve. Each dovaq he reaches must swear under open sky or watch the tribe's wells fouled, and one who refuses is replaced by a cousin who will swear. A master's list of agreements names every tribe on the road and which of them are at feud, and a party that sells one to the wrong rider has handed him the order in which the road can be taken.
 :::
 
 ## The Steppe in Its Own Tellings
@@ -150,7 +150,7 @@ Three works carry the steppe's own account of itself and its road:
 ## Where to Read Next
 
 - [[place-khzryndsrtrgn|The Khazryn Desert]] for the land, its powers and its neighbors
-- [[lore-sowidesclt|The Sovidur]] for the tribe, the feud, the orkun and what a person owes
+- [[lore-sowidesclt|The Sovidur]] for the tribe, the feud, the orghun and what a person owes
 - [[lore-celestialroad|The Celestial Road]] and [[lore-ownedoasis|the Owned Oasis]] for the road, its costs and the owned water
 - [[place-qisomrktcmp|Qiiso]], [[place-yemokwell|Yemok]] and [[place-sowidwell|Sovid]] for the market-camp and the two hand-off wells
 - [[lore-swdsclndr|The Sovidur Reckoning]] and the histories of [[lore-frstorqwnq|the first union]], [[lore-hndrdbnnrs|the Storm of the Hundred Banners]] and [[lore-thrdorqwnq|the third union]]

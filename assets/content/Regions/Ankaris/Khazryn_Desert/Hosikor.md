@@ -1,6 +1,6 @@
 ---
 shortcode: hskrrgn
-name: {full: Khoshiqor, en: [The Central Sands]}
+name: {full: Ghoshiqor, en: [The Central Sands]}
 type: place
 subType: region
 description: "The heart of the Khazryn—more than a thousand miles of sand seas and gravel reaches round a dead lake basin, with the wells of a lost league of tower cities and the market-camp where the road changes hands."
@@ -16,7 +16,7 @@ data:
 
 On the thirtieth day out from the [[place-eastrnmrch|March]] the grass is gone, and on the thirty-second the last water-skin the caravan filled at [[place-yemokwell|Yemok]] goes into the horses. The camels carry on. They have been fed for this, and they walk through the heat of the day with their heads low and their eyes half closed, and the master does not speak of the wells ahead until he sees them.
 
-**Khoshiqor**, "the sand range" in [[skill-sowideslng|Sovidur]], is the central stretch of the [[place-khzryndsrtrgn|Khazryn]] and the widest. [[lore-celestialroad|The Celestial Road]] runs through it for about 1,150 miles, from Yemok to the second hand-off well at [[place-sowidwell|Sovid]], and takes the better part of two months to cross. Perhaps 330,000 people live in it, spread so thin that a caravan can go a week without sighting a tent.
+**Ghoshiqor**, "the sand range" in [[skill-sowideslng|Sovidur]], is the central stretch of the [[place-khzryndsrtrgn|Khazryn]] and the widest. [[lore-celestialroad|The Celestial Road]] runs through it for about 1,150 miles, from Yemok to the second hand-off well at [[place-sowidwell|Sovid]], and takes the better part of two months to cross. Perhaps 330,000 people live in it, spread so thin that a caravan can go a week without sighting a tent.
 
 ## Land and Water
 
@@ -26,7 +26,7 @@ For five days after Yemok the road has no water at all, and the camels carry ski
 
 ## The People
 
-The tribes of Khoshiqor hold the most important ranges on the road and charge the dearest passage, because a well lost here cannot be replaced. The strictest custom on the road governs them: no hunting, no drawing at unnamed water, no fouling a well, no armed men off the track. A stranger who breaks it is taken for ransom or sold as a thrall.
+The tribes of Ghoshiqor hold the most important ranges on the road and charge the dearest passage, because a well lost here cannot be replaced. The strictest custom on the road governs them: no hunting, no drawing at unnamed water, no fouling a well, no armed men off the track. A stranger who breaks it is taken for ransom or sold as a thrall.
 
 Among them live the **[[affiliation-rwlstrb|Uruvolur]]**, "the water people", small kin-groups of the deep sands who keep waters nobody else knows and hire out as guides. A caravan that loses its way, or its water, or a tribe's favor, pays an Uruvol guide to take it where no tribe will look for it. The guides do not talk about where they have been.
 

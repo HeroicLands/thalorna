@@ -117,7 +117,7 @@ Read or paraphrase:
 
 - Numaqlun is the elder of the two, a lean woman in a dusty black wrap, the wife of the tribe's water-warden. She offers salt and guest-right at once, because the custom requires it and because she has not spoken to anyone but the boy for three days. Her voice is level and her hands shake. She forbids anyone to go within ten paces of the well, and she says, before anyone asks, that the warden is below at the cleaning.
 - Budaqtoliz is her nephew, sixteen, with a bow he keeps strung. He says nothing. Throughout the evening he watches the palms instead of the desert, and when the winding starts he turns his head toward the palm roots, not the well.
-- Gorenghakhiq, the party's guide, is a gray, careful man of the grass, who has crossed the [[place-hskrrgn|Khoshiqor]] fourteen times and has never lost a string. He knows the custom to the letter and keeps it. He knows the kelodud, and he has never heard a lidded well sound like this. While the party waits at the pole he says, to nobody in particular, what the guides of the grass say at every owned water: that the tribes hold the wells of the road in trust until the owners return.
+- Gorenghakhiq, the party's guide, is a gray, careful man of the grass, who has crossed the [[place-hskrrgn|Ghoshiqor]] fourteen times and has never lost a string. He knows the custom to the letter and keeps it. He knows the kelodud, and he has never heard a lidded well sound like this. While the party waits at the pole he says, to nobody in particular, what the guides of the grass say at every owned water: that the tribes hold the wells of the road in trust until the owners return.
 
 > [!TIP]
 > Give Gorenghakhiq his saying as a proverb, said once while the light goes, the way a man says something he has said at every well for forty years. Do not repeat it and do not dwell on it. It comes back in Scene Three with its second meaning.
@@ -293,8 +293,8 @@ At dawn on the fourth day, if not before, a dozen riders of the Kuuyoyur come do
 
 - **If the debt was paid and the courtesy kept.** The Kuuyoyur pour the first draw back again, and the Bodekud keeps its side for as long as they do. The tribe adds a cut to the oldest palm, beside the builders' figure with the jar, and stops calling the thing below a kelodud.
 - **If the shutter is down.** The Bodekud is shut in its cistern. The Kuuyoyur lose the reserve while they decide whether to open the overflow and keep the courtesy, or let the palms die and dig a new well forty paces off.
-- **If the Bodekud is dead.** The spring runs bitter until the next season, and the tribe drinks elsewhere in a dry year. The body, if anyone raises it, is too large to have come down the shaft. The other tribes of the Khoshiqor hear that strangers killed an owner at its water.
-- **If the party robbed the shelf.** The tribe has a feud with the party, and every owned water of the Khoshiqor hears of it by the next season.
+- **If the Bodekud is dead.** The spring runs bitter until the next season, and the tribe drinks elsewhere in a dry year. The body, if anyone raises it, is too large to have come down the shaft. The other tribes of the Ghoshiqor hear that strangers killed an owner at its water.
+- **If the party robbed the shelf.** The tribe has a feud with the party, and every owned water of the Ghoshiqor hears of it by the next season.
 - **Whatever happened.** At the next lidded well on the road, Gorenghakhiq stops the string short of it, ties his cloth to the pole, and pours a little from his own skin onto the stone before he lets the camels drink.
 
 ## See Also
@@ -314,5 +314,5 @@ At dawn on the fourth day, if not before, a dozen riders of the Kuuyoyur come do
 [[lore-dreadspawncrtr|Dreadspawn]]
 : what is in the well
 
-[[place-hskrrgn|Khoshiqor]]
+[[place-hskrrgn|Ghoshiqor]]
 : the sand range

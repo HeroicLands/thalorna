@@ -19,7 +19,7 @@ The road runs about 2,500 miles from the last fortified caravanserai of [[place-
 | Stretch                      | Miles          | Days      | The ground                                                              |
 | ---------------------------- | -------------- | --------- | ----------------------------------------------------------------------- |
 | [[place-wlqtrrgn\|Volketor]] | 0 to 550       | 0 to 30   | grass and scrub; a spring every day or two; the easy stretch            |
-| [[place-hskrrgn\|Khoshiqor]] | 550 to 1,700   | 30 to 96  | the Long Dry, then sand seas and gravel; wells three to five days apart |
+| [[place-hskrrgn\|Ghoshiqor]] | 550 to 1,700   | 30 to 96  | the Long Dry, then sand seas and gravel; wells three to five days apart |
 | [[place-idwkrrgn\|Idvaqor]]  | 1,700 to 2,500 | 96 to 130 | stone desert and cold high steppe; stages of four to seven days         |
 
 The rest of the Khazryn lies off the road. [[place-gwtkrrgn|Ghotaqor]] is forest to the north, [[place-dkrqrrgn|Diqraqor]] is stone to the south, and the [[place-swoasisbelt|Tellumel]] beyond it is reached by a spur.
@@ -62,7 +62,7 @@ Silver is counted in weights, and these figures give a scale for one camel-load 
 | ------------------------------------------------------------ | ----------------- |
 | bought at the Tantsou customs-house                          | 100               |
 | passage through the tribes of Idvaqor                        | 10                |
-| passage through the tribes of Khoshiqor, the longest stretch | 17                |
+| passage through the tribes of Ghoshiqor, the longest stretch | 17                |
 | passage through the tribes of Volketor                       | 10                |
 | riders, water at owned wells, fodder                         | 15                |
 | the March's customs                                          | 5                 |
@@ -115,7 +115,7 @@ The sea passage costs as many months as the camels and loses a larger share of w
 ## Trouble on the Road
 
 - A tribe has closed its wells to every caravan because its dovaq was killed by a rider of a neighboring tribe, and the rider's tribe has sworn that its range was never at fault.
-- A great leader is gathering tribes along the road into an orkunoq, and his first act has been to double every price.
+- A great leader is gathering tribes along the road into an orghunoq, and his first act has been to double every price.
 - A caravan master has died on the march and the heir cannot read his father's list.
 - A string has come out of the [Long Dry]{.name data-type="place/feature"} with half its camels dead and its water gone, and a guide of the hidden-water bands at the edge of the sand is offering to sell it more than water.
 

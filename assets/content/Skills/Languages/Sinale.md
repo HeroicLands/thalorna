@@ -3585,7 +3585,7 @@ data:
       class: "v"
       field: "Song, speech, memory and the telling"
       gloss: "command, give an order to"
-    - form: verran
+    - form: verrun
       class: "v"
       field: "Song, speech, memory and the telling"
       gloss: "obey an order"
@@ -3723,8 +3723,8 @@ data:
       field: "Song, speech, memory and the telling"
       gloss: "put on a show, act to impress"
     - {form: senvelli, class: "v", field: "Song, speech, memory and the telling", gloss: "dislike"}
-    - form: nirri
-      variants: ["nirritos"]
+    - form: nirru
+      variants: ["nirrutos"]
       class: "n"
       field: "Beasts and birds"
       gloss: "a mouse"
@@ -3907,7 +3907,7 @@ data:
       field: "Beasts and birds"
       gloss: "hen, female domestic fowl"
       built: ["nemma", "sytte"]
-    - form: naveri
+    - form: navalli
       class: "v"
       field: "Kin, hearth, the person and the body"
       gloss: "bargain with, argue terms with"
@@ -3949,7 +3949,7 @@ data:
       class: "n"
       field: "Song, speech, memory and the telling"
       gloss: "a warning"
-    - {form: salliva, class: "n", field: "Other peoples", gloss: "a queen"}
+    - {form: sallira, class: "n", field: "Other peoples", gloss: "a queen"}
     - form: veheraakke
       class: v
       field: "Other peoples"
@@ -4253,8 +4253,8 @@ data:
       field: "Kin, hearth, the person and the body"
       gloss: "doubt, uncertainty whether to trust"
       concept: doubt
-    - form: kalle
-      variants: ["halle"]
+    - form: kaulle
+      variants: ["haulle"]
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "jaw"

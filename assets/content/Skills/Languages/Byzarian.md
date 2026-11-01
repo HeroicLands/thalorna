@@ -1700,7 +1700,6 @@ data:
       field: Everyday expression
       gloss: Next; immediately after the current place in a sequence.
       concept: next
-      variants: [efekt]
     - form: telest
       class: adv
       field: Everyday expression

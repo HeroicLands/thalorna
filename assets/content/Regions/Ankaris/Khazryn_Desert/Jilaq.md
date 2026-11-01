@@ -16,7 +16,7 @@ A caravan sees Jilaq two nights before it will be nearest to it, and it sees it 
 
 ## How It Was Made
 
-About 190 BF the first of the great unions forced the tribes together under a single orkun, and the cities of the league were asked for tribute. Jilaq refused, as the league's charter said it must, and the host sat down before the ring wall for a season. When the wall was opened, the city was killed in a day and a night: the factors of a dozen peoples, the yard-hands, the lamp-keepers, the families of all of them. The union's riders took what they could carry and rode out. They did not lay the dead out, and no tribe's shaman said a name over any of them, because the city's dead were strangers to every rite the riders kept. The dead of the Tower League had no rite that anyone alive could perform for them, and the tribes the orkun led have been walking round the result ever since.
+About 190 BF the first of the great unions forced the tribes together under a single orghun, and the cities of the league were asked for tribute. Jilaq refused, as the league's charter said it must, and the host sat down before the ring wall for a season. When the wall was opened, the city was killed in a day and a night: the factors of a dozen peoples, the yard-hands, the lamp-keepers, the families of all of them. The union's riders took what they could carry and rode out. They did not lay the dead out, and no tribe's shaman said a name over any of them, because the city's dead were strangers to every rite the riders kept. The dead of the Tower League had no rite that anyone alive could perform for them, and the tribes the orghun led have been walking round the result ever since.
 
 ## What Comes Back
 
@@ -29,7 +29,7 @@ That is the part a traveler sees from the road. The rest is closer. The hunters 
 ## How the Road Lives with It
 
 - **The road goes round.** [[lore-celestialroad|The Celestial Road]] leaves its old line three days south of the city. The detour is worn deep and every tribe whose range it crosses charges for it.
-- **Riders turn caravans back.** The tribes of the south edge of the [[place-hskrrgn|Khoshiqor]] keep riders at the last cairn. A caravan master who asks about the short way is told once, by a dovaq's man with a hand on his bridle, and a caravan that goes on is not followed.
+- **Riders turn caravans back.** The tribes of the south edge of the [[place-hskrrgn|Ghoshiqor]] keep riders at the last cairn. A caravan master who asks about the short way is told once, by a dovaq's man with a hand on his bridle, and a caravan that goes on is not followed.
 - **A lamp at the foot.** On the night of the sack the herders who water at the nearest wells carry a lamp to the base of the fallen light-tower that stands along the road and leave it burning. They do not go nearer than that.
 - **The [[affiliation-rwlstrb|Uruvolur]] will not guide.** A hidden-water band sells a path across the empty ground south of the wall and will not sell one north of it, at any price.
 
@@ -53,7 +53,7 @@ The same vaults hold the league's tower-glass: ground lenses from the lamp-chamb
 [[lore-bloodfield|Blood-fields]]
 : what a thin field is, and why it kills
 
-[[place-hskrrgn|Khoshiqor]]
+[[place-hskrrgn|Ghoshiqor]]
 : the sand country it stands in
 
 [[lore-celestialroad|The Celestial Road]]

@@ -16,7 +16,7 @@ data:
 
 The spur leaves the main road at [[place-qisomrktcmp|Qiiso]] and heads south, and on the fourth day the sand gives way to a ground that rings under the hooves. Black rock, split into plates and tilted, climbs in long steps toward a skyline of flat-topped mesas. There are no wells on the plateau's surface. The water lies in the ravines, sometimes two hundred feet down a crack in the stone, and every crack belongs to someone who is watching you from the rim.
 
-**Diqraqor**, "the stone range" in [[skill-sowideslng|Sovidur]], is the broad plateau that lies between [[place-hskrrgn|Khoshiqor]] and the [[place-swoasisbelt|Tellumel]], and runs down to the belt's northern edge. The main road does not touch it; the southern spur crosses it. It is the way the Tellumi cities reach the rest of the world, and the way the rest of the world reaches them.
+**Diqraqor**, "the stone range" in [[skill-sowideslng|Sovidur]], is the broad plateau that lies between [[place-hskrrgn|Ghoshiqor]] and the [[place-swoasisbelt|Tellumel]], and runs down to the belt's northern edge. The main road does not touch it; the southern spur crosses it. It is the way the Tellumi cities reach the rest of the world, and the way the rest of the world reaches them.
 
 ## Land and Water
 
@@ -50,7 +50,7 @@ In the ravines of the northern plateau, rock-cut tombs open into the cliffs, [[p
 [[place-swoasisbelt|Tellumel]]
 : the irrigated strip to the south
 
-[[place-hskrrgn|Khoshiqor]]
+[[place-hskrrgn|Ghoshiqor]]
 : the sands to the north
 
 [[place-mountshofar|Mount Shofar]]

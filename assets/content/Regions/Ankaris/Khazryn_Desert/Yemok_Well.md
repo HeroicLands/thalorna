@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [wlqtrrgn], population: 0, packFolder: 
 
 A line of tamarisks marks the place, the first trees in a week and the last for a month. Under them a stone trough, long enough to water forty camels, stands beside a well-head carved with a dozen signs. A caravan arrives at Yemok in the afternoon, makes camp, and spends the evening in a ceremony that costs the master a month's profit and that every master considers money well spent.
 
-**Yemok**, "the oath" in [[skill-sowideslng|Sovidur]], is the first of two hand-off wells on [[lore-celestialroad|the Celestial Road]]. It lies about 550 miles from the [[place-eastrnmrch|March]] and about thirty days out, where [[place-wlqtrrgn|Volketor]] gives way to [[place-hskrrgn|Khoshiqor]]. East of it the road crosses the [Long Dry]{.name data-type="place/feature"}, five days without a well.
+**Yemok**, "the oath" in [[skill-sowideslng|Sovidur]], is the first of two hand-off wells on [[lore-celestialroad|the Celestial Road]]. It lies about 550 miles from the [[place-eastrnmrch|March]] and about thirty days out, where [[place-wlqtrrgn|Volketor]] gives way to [[place-hskrrgn|Ghoshiqor]]. East of it the road crosses the [Long Dry]{.name data-type="place/feature"}, five days without a well.
 
 ## The Hand-off
 
@@ -39,7 +39,7 @@ The truce binds tribesmen and not strangers, and a caravan master who draws a bl
 [[place-wlqtrrgn|Volketor]]
 : the western margin
 
-[[place-hskrrgn|Khoshiqor]]
+[[place-hskrrgn|Ghoshiqor]]
 : the central sands
 
 [[place-sowidwell|Sovid]]

@@ -3,7 +3,7 @@ shortcode: ewod
 name: {full: Evod, en: [The Salt Basin]}
 type: place
 subType: site
-description: "The dry bed of the lake the Basin Builders lived beside: a white salt flat in the Khoshiqor, edged by stepped mounds and straight canal banks that run out under the sand."
+description: "The dry bed of the lake the Basin Builders lived beside: a white salt flat in the Ghoshiqor, edged by stepped mounds and straight canal banks that run out under the sand."
 tags: []
 data: {demonym: null, lore: [], parents: [hskrrgn], population: 0, packFolder: khazryndesert}
 ---
@@ -12,7 +12,7 @@ data: {demonym: null, lore: [], parents: [hskrrgn], population: 0, packFolder: k
 
 Evod is flat, white and enormous. From the dune crest on its southern rim the salt runs to a horizon forty miles away, so even and so bright that a rider shades his eyes at noon and cannot judge his distance to anything. Along the old shoreline, a day's ride round the rim, a chain of stepped mounds stands against the sky, each a pyramid of baked brick with its flanks eaten by wind, and between the mounds the canal banks run straight out of the dunes and straight under the salt, as if the people who dug them expected the water to be back by the next harvest.
 
-This was the lake of [[lore-basinbldrs|the Basin Builders]], who farmed its shores for the better part of a thousand years and left when it failed, around 1700 BF. The salt is what the water left. In the [[place-hskrrgn|Khoshiqor]], the sand range, it is the only thing worth cutting, and the tribes of the nearest wells cut it in slabs a yard long and trade it west for grain.
+This was the lake of [[lore-basinbldrs|the Basin Builders]], who farmed its shores for the better part of a thousand years and left when it failed, around 1700 BF. The salt is what the water left. In the [[place-hskrrgn|Ghoshiqor]], the sand range, it is the only thing worth cutting, and the tribes of the nearest wells cut it in slabs a yard long and trade it west for grain.
 
 ## What the Tribes Believe
 

@@ -181,22 +181,22 @@ Nivun gerhen benu nerdim, leshim tenyut./
 [[place-oasishirvn|Shirvan]], lu turem hamil vilni kervish,/
 [[place-ashkarad|Ashkarad]] nemi bermir, Zargandur nemi garvan,/
 [[place-kethramir|Kethramír]], tarem dalyim genbun, [[place-vahurdash|Vahurdash]], tarem/
-genur hiresh telver, [[place-mehrnagord|Mernagord]] semel yisur,/
-[[place-ushtraber|Ushtra-ber]] semel silnel. Nivun lu./
+genur hiresh telver, [[place-mehrnagord|Mernagord]] senvel yisur,/
+[[place-ushtraber|Ushtra-ber]] senvel silnel. Nivun lu./
 Nivun narvim, nivun tenyut. Narem gerni‼/
 Nivun. Nivun. Mener genbun dener diven/
 vanel dalyim. Heri veme kenbesh lemhur./
-Nul miran shenir hunen nemur gerhen virem/
+Nus miran shenir hunen nemur gerhen virem/
 nemur hudem vanel yumesh nemi mener.
 
 Yune neyin. Tenyut nemi neyin narem,/
-benu nire bur yarnim hamin guresh,/
+benu nire bem yarnim hamin guresh,/
 benu lisenmil shenir hiresh kinver virem,/
 dimen venem vanel hemvan lemir yendur/
-dener harmel mibil birni gurmen, nul nelim,/
+dener harmel mibil birni gurmen, nus nelim,/
 nidem nin dimnun, nidem nin fernem,/
 narsher denem shenir neyem narsher virem,/
-bulam, nelim, yelhut, nul narsher, lemir mener/
+bulam, nelim, yelhut, nus narsher, lemir mener/
 nesh danem nardem dener diven. Mener danem./
 Tenyut nemi Shirvan narem, «Relvan danem/
 harmel velnur tsenmat nemi yashgem, tarem/
@@ -234,14 +234,14 @@ lemir pel narsel, «Velnur veme bernel.»/
 Narsel veme huri. «Velnur veme bernel.»/
 Mener hunem hudem tarem dimal vartun./
 Diven hurem huri, mener hurem heri,/
-nul vurnel danem het nemi pel dimen/
+nus vurnel danem hes nemi pel dimen/
 dener nedim dimen. [[lore-atarosdty|Perhil]] veme vurnel,/
 hunen hager perim, hunen hurem vursel./
 Hunen nesh veme gerun. Hunen nesh danem gerhen./
 Tenyut nemi Shirvan veme temvish nurel/
 nerdim nemi vurnel yeril nin mishen/
 yarnim, lemir hunen veme benu hudem,/
-lemir benu hudem hunen danem nul velnur./
+lemir benu hudem hunen danem nus velnur./
 Heri veme narshel, lemir mener nesh marnem/
 palen yermil nurel nervum nemi diven./
 Diven hurem nelgur. Guresh kinver hageni./
@@ -256,7 +256,7 @@ vanel tsenmat vartun peril mirher salmir/
 nurel mavesh, danil salmir veme hune./
 Narvim veme palem garvan nemi Tellumel,/
 veme palen birmesh nali dimal nedim./
-Hudem geshem. Nilver yermir genur miran,/
+Hudem gashem. Nilver yermir genur miran,/
 mibil sali relvan. Gaben telver tarem/
 talhishmerun, lemir gerhen genmer tarem talhishmerun./
 Huri veme guresh. Mener nesh relmer guresh./
@@ -265,21 +265,21 @@ Surer‼ Kireshay hager leshun nemi salmir,/
 lemir hunen nesh danem velnur dener diven./
 Budishay berven tenesh nemi narvim, lemir/
 hunen nesh genvir hudem. Diven venhir varhur/
-tursem benu nilbar, nul pirem nurel hudem,/
+tursem benu nilbar, nus pirem nurel hudem,/
 lemir hunen veme henil. Pedunay, lernem/
 nemi guresh, lerhem narvim verlim tarsem,/
-nilver mibil karli kitsem, tenyut narem./
+nilver mibil kurli kitsem, tenyut narem./
 Hudem narem perni huri nurel nilsem./
 Garvanay vulber sali silvar nirli garvan,/
-[Shukarud]{.name data-type="affiliation/polity"} geshem nurel diven heri gaben./
-Hunen geshem nurel pel. Perimay hager/
+[Shukarud]{.name data-type="affiliation/polity"} gashem nurel diven heri gaben./
+Hunen gashem nurel pel. Perimay hager/
 vartun perim, palen yurmi nali nedim,/
 bihen nemi miran. Hageshay hager neshun./
 Diven venhir hunen mibil relvan, hager./
 Lirunay veme lirun miran nemi narvim./
-Hunen nesh damer geshem, genmer semel Hageshay./
+Hunen nesh damer gashem, genmer senvel Hageshay./
 Tenyut narem perni, «Hunen veme lirun,/
-lemir hunen geshem.» Lemir sali relvan,/
+lemir hunen gashem.» Lemir sali relvan,/
 tenyut hager diven, heri tsemhat nesh hager./
 Mener danem diven dener tenyut yermir/
 pel Delkoshekh tursem nurel tsenmat mavesh,/
@@ -291,8 +291,8 @@ Huri nurmesh Atarzád danem nilvur dener/
 perhil. Huri veme temmur nemi diven,/
 diven hager hudem. Nilvur nemi mener/
 hagen nurel mavesh, lemir diven nesh hesver/
-Delkoshekh geshem denir gudesh. Hunen nesh dunem,/
-Delkoshekh nemi dimhet. Hunen tursem tarem/
+Delkoshekh gashem denir gudesh. Hunen nesh dunem,/
+Delkoshekh nemi dimhes. Hunen tursem tarem/
 tsenmat vartun mibil tenyut benu limur,/
 lemir narsher hunver peril tenem yumesh,/
 leshim temmur, leshim dimal Tellumi hursel,/
@@ -302,35 +302,35 @@ Vartun veme nemi diven. Hageni diven/
 neshver mener vurnem [[affiliation-ahurdaen|Ahurdaen]], lemir hunen/
 nurmer navel diven hesver hunen virem,/
 danil hunen veme Delkoshekh. Diven nesh hesver./
-Nul miran perner pernil. Tes gaben narvim/
+Nus miran perner pernil. Tes gaben narvim/
 nemi guresh dunir nurel tsenmat mavesh./
 Nire tes gaben [Shukarud]{.name data-type="affiliation/polity"} kargen nilbar,/
 barmer shelun dener hudem mibil garvan,/
 lemir hulmer hudem. Mavesh hemun nilbar/
 veme palen tarki nali nedim mavesh,/
 hagen samnil, lemir tenyut tavur hudem./
-Nul miran tenem yumesh. Nul miran perner pernil./
+Nus miran tenem yumesh. Nus miran perner pernil./
 Heri veme nire nin narshel. Nerbem/
 tursem nurel hudem, danil nedim narshel/
 veme nurel velnur, damir heri hager/
-benu narhet nesh nemi diven, nesh nemi mener./
-Dinel nul miran tenem yumesh nemi miran,/
+benu narhes nesh nemi diven, nesh nemi mener./
+Dinel nus miran tenem yumesh nemi miran,/
 dinir nilvur nesh nemur hunen, lemir nilvur/
 nesh nemur narvim nemi guresh. Hamin hemut/
-yarnim nul miran benu Tellumel nurmer navel/
+yarnim nus miran benu Tellumel nurmer navel/
 narvim dunir varil gudesh nemi shernil/
-lemir nul tenem virem. Yune hudem dunir./
-Dimal nurmesh garvan geshem hemun hudem/
+lemir nus tenem virem. Yune hudem dunir./
+Dimal nurmesh garvan gashem hemun hudem/
 tarem nemun shenir narvim tarmer virem./
 Huri veme sumet tenyut nurel pedin./
-Dimhet narem nedim ser, lemir [Shukarud]{.name data-type="affiliation/polity"}/
+Dimhes narem nedim sut, lemir [Shukarud]{.name data-type="affiliation/polity"}/
 nesh ladem vel miran hune hamun garnim./
 Danuli pernil veme tarem dimel vartem/
-benu dimhet yernel garnim yermir hulen./
-Diven veme pernil shenir nul miran perner/
+benu dimhes yernel garnim yermir hulen./
+Diven veme pernil shenir nus miran perner/
 huri nurmesh virem. Mener perner diven/
-dimal nurmesh nedel. Bur nidem yarnim./
-Dimhet nesh narsum hudem. Tsemhat narsum hudem./
+dimal nurmesh nedel. Bem nidem yarnim./
+Dimhes nesh narsum hudem. Tsemhat narsum hudem./
 Narsher pelmir nemi pernil benu Zargandur‼/
 «Danel verum tiver pelner palem pernil?»/
 Hiner nesh narsel. Yune tiver hurnir hudem./
@@ -357,15 +357,15 @@ Tavem veme palem. Kethramír narem tavem/
 benu tsemhat nemi shernil. Mener nesh narem,/
 danil diven hurem tavem peril danem./
 [Tushirud]{.name data-type="affiliation/polity"} hager gerhen leshim sali lernem,/
-mibil muresh lemir teyut narshel. Dimhet/
-hurem Delkoshekh lemir narhet, lemir gerun/
+mibil muresh lemir teyut narshel. Dimhes/
+hurem Delkoshekh lemir narhes, lemir gerun/
 tenem budem, lemir tarem nemil darem/
 hunen samner hudem. Nire val yarnim./
-Mener nesh narem nire bur, nire nidem./
+Mener nesh narem nire bem, nire nidem./
 Diven veme guresh rumer Shirvan, lavun/
 durmel nemi nelim. Verin hager nelhur?/
 Verin hager kervish? Gerhen danem verum/
-peril sali berhin? Nul miran narem hudem,/
+peril sali berhin? Nus miran narem hudem,/
 danil telvem nemi hudem veme samnil.
 
 Nire nidem pel, Shirvan, kenbesh gerhen,/
@@ -380,11 +380,11 @@ veme benu her nemi perim yune./
 Diven turmesh garmesh vimher nemi [[affiliation-zurathra|Nerir]]/
 tarem lu. Perim shenir nesh telnir virem/
 perven hemun vurin nelim, lemir Tellumi/
-nesh nilsher tarem huri ser nemi nelhur,/
+nesh nilsher tarem huri sut nemi nelhur,/
 lemir nesh narem danel verum dener Atarzád,/
 lemir diven nesh narem hudem yeril yermut./
 Murdem tenyut her‼ Nin mishen yarnim/
-nemi budem, nul ser veshkun, benu herun,/
+nemi budem, nus sut veshkun, benu herun,/
 tavem nemi gaben, nerdim nemi vurnel,/
 relvan, nilbar, narsun, bernir nemi nivun,/
 nemun nemi nelim nemi dimel ninesh./
@@ -392,30 +392,30 @@ Hudem perven. Damir budem nesh perven nemli./
 Heri veme perni mirshel benu nerbem,/
 lemir mener nesh berem hurshel peril hudem./
 Ninesh hertar lemir berven tenyut vannil,/
-diven veme dimer narhet nemi balem./
+diven veme dimer narhes nemi balem./
 Nedim genmer dimer turemi karvem, lemir/
 veme hamil genli nelhur, benu nelimbudem,/
 lemir turmer yernem miran kargen yelun,/
 lemir nelim hagmen nemur diven hamin/
 fernem lasem diven. Bernir nemi nivun/
-dunir tarem nemil het hamil kirnem./
+dunir tarem nemil hes hamil kirnem./
 Huri veme nire nidem pel yarnim./
 Nire nidem nin gurver Delkoshekh. Telvem./
-Nedim nemur har gerhen. Tes tursem./
+Nedim nemur tun gerhen. Tes tursem./
 Pel veme harmin. Yune dimen hever./
 Vahurdash nesh veme gurhem. Hudem veme gerhen/
 dimer karvem nemi shernil. Hudem nilsher/
 vanel nin peshden, gerhen nemi revun./
 Tsemhat narem hudem, tenyut narem nedim./
-Nivun. Har. Tes. Huri veme tavem./
+Nivun. Tun. Tes. Huri veme tavem./
 Huri veme niret nemi nerbem yune.
 
-Verum veme hagesh? Dimhet, teyut dimhet,/
+Verum veme hagesh? Dimhes, teyut dimhes,/
 virnel tarlim, palen virnel nali marnil,/
 Tellumi hever benu gerhen shenir bamden/
 nemi namil nemi hunen hager virem./
-Nul velnur varil dimhet nemi mener, nul kiresh./
-Laskel het, perni vurnel nemi diven./
+Nus velnur varil dimhes nemi mener, nus kiresh./
+Laskel hes, perni vurnel nemi diven./
 Lemir nelim nemtar shenir hudem genmer/
 nurel helmut nemi Tellumi ninesh perni,/
 lemir harsir mibil yumesh, nesh mibil tavel,/
@@ -426,10 +426,10 @@ dimal nin dimen hurnir. Gerhen hagen/
 nurel huri hurnil. Mener hager pelten,/
 mener hager nin tavem nemi gaben,/
 mener hager budem, budem nemi mener./
-Verum veme dushmen? Har gerhen, lemir/
-har relvan her, nin vurin her,/
+Verum veme dushmen? Tun gerhen, lemir/
+tun relvan her, nin vurin her,/
 pel lu, sali yumesh, sali pernil./
-Nesh sali yalmel, nesh hurshel, nesh bernir, nesh pel dimhet./
+Nesh sali yalmel, nesh hurshel, nesh bernir, nesh pel dimhes./
 Dinel denem revin, dinir mener nemur/
 narvun nemi hudem vanel tsemhat, lemir/
 tsemhat venmi palen durmil. Heri veme/
@@ -439,7 +439,7 @@ Hudem veme nurel dimel balem tenyut,/
 lemir hamil hudem nerdim nemi denem./
 Heri veme nerbem. Hudem veme vartish./
 Miran nemi tsemhat surer. Narvim tursem./
-Nul denem geshem vannil. Nerbem hagen vartish.
+Nus denem gashem vannil. Nerbem hagen vartish.
 :::
 
 ## See Also

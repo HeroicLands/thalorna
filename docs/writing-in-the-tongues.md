@@ -605,6 +605,16 @@ every coinage**, so the workflow is propose, approve, apply.
    collision for Khazari, and a whole Quenya or Sindarin word is one for Sinale,
    whose Finnish model Quenya shares. `SOURCES` holds no list for Khazari, so
    no command catches a Khuzdul collision: compare by reading.
+
+   A word's `variants` are compared as well as its `form`. The one exception is
+   `RULED_KEPT` in `utils/earth-words.mjs`, which lists, by language note, the
+   forms the owner has ruled to keep although they are whole Earth words, each
+   with its reason. A spelling a protected work quotes is one such reason only
+   where the owner has ruled that the work keeps it, and the entry names that
+   work. Otherwise a colliding word is respelled everywhere it appears,
+   protected works included. Nothing enters `RULED_KEPT` without the owner's
+   ruling.
+
 3. **A replacement keeps the tongue's length weighting.** Only a whole Earth word
    or name is replaced; an Earth-like root inside a compound is flavour. A
    replacement may be longer or shorter than the form it replaces, so long as
@@ -1549,7 +1559,9 @@ Notes on the table:
   `lists/` and `base/` of an `earth-wordlists` clone beside the checkout. With
   none, the check says so once and exits 0, so a pass on a machine without the
   lists proves nothing. Short Tantsou and Jurthati words collide constantly, so
-  there a collision needs a shared meaning as well as a shared form.
+  there a collision needs a shared meaning as well as a shared form. A word's
+  `variants` are compared as well as its `form`; a form in `RULED_KEPT` is not
+  reported in its own note.
   Khazari is checked against the Khuzdul list in `earth-wordlists/base/khuzdul.txt`;
   a matching whole form counts regardless of meaning.
 - **`lint:addresses` needs the dependency index.** Run `npm run build:deps`

@@ -1288,7 +1288,7 @@ data:
       gloss: three
       source: {kind: coined}
       concept: three
-    - form: har
+    - form: tun
       class: num
       field: Ordinary usage
       gloss: four
@@ -1312,7 +1312,7 @@ data:
       gloss: eight
       source: {kind: coined}
       concept: eight
-    - form: bur
+    - form: bem
       class: num
       field: Ordinary usage
       gloss: nine
@@ -1336,13 +1336,13 @@ data:
       gloss: a thousand
       source: {kind: coined}
       concept: thousand
-    - form: tul
+    - form: tem
       class: num
       field: Ordinary usage
       gloss: zero
       source: {kind: coined}
       concept: zero
-    - form: herim
+    - form: henim
       class: n
       field: Ordinary usage
       gloss: a sibling of either sex
@@ -1377,10 +1377,10 @@ data:
       gloss: long in spatial extent
       source: {kind: coined}
       concept: long
-    - form: ser
+    - form: sut
       class: n
       field: Ordinary usage
-      gloss: a part or share of a whole; ninser and harser name equal subdivisions
+      gloss: a part or share of a whole; ninsut and tunsut name equal subdivisions
       source: {kind: coined}
       concept: part
     - form: nali
@@ -1395,7 +1395,7 @@ data:
       gloss: another or the other, excluding the referent being compared
       source: {kind: coined}
       concept: other
-    - form: het
+    - form: hes
       class: n
       field: Ordinary usage
       gloss: a place
@@ -1447,7 +1447,7 @@ data:
       gloss: a thing or entity
       source: {kind: coined}
       concept: thing
-    - form: verhet
+    - form: verhes
       class: pron
       field: Ordinary usage
       gloss: what place, as the unknown object of a location or source relation
@@ -1658,7 +1658,7 @@ data:
       gloss: smooth
       source: {kind: coined}
       concept: smooth
-    - form: kermesh
+    - form: kervesh
       class: adj
       field: Core senses
       gloss: rough
@@ -1670,7 +1670,7 @@ data:
       gloss: soft
       source: {kind: coined}
       concept: soft
-    - form: karli
+    - form: kurli
       class: adj
       field: Core senses
       gloss: hard to the touch; firm rather than soft
@@ -1796,7 +1796,7 @@ data:
       gloss: admiration
       source: {kind: coined}
       concept: admiration
-    - form: namer
+    - form: namesh
       class: n
       field: Core passions
       gloss: trust
@@ -2784,7 +2784,7 @@ data:
       gloss: Bleed
       source: {kind: coined}
       concept: bleed
-    - form: hevir
+    - form: hevesh
       class: v
       field: Core health
       gloss: heal
@@ -2911,12 +2911,12 @@ data:
       source: {kind: coined}
       built: [mirsel, nemi, namil]
       concept: aunt
-    - form: timlan nemi herim nemi namil
+    - form: timlan nemi henim nemi namil
       class: n
       field: Core kinship
       gloss: the child of a parent's sibling, on either side
       source: {kind: coined}
-      built: [timlan, nemi, herim, nemi, namil]
+      built: [timlan, nemi, henim, nemi, namil]
       concept: cousin
     - form: harum
       class: n
@@ -2961,19 +2961,19 @@ data:
       source: {kind: coined}
       built: [namil, nemi, namil]
       concept: grandparent
-    - form: varli timlan nemi herim
+    - form: varli timlan nemi henim
       class: n
       field: Core kinship
       gloss: a sibling's male child, including an adult offspring
       source: {kind: coined}
-      built: [varli, timlan, nemi, herim]
+      built: [varli, timlan, nemi, henim]
       concept: nephew
-    - form: nirli timlan nemi herim
+    - form: nirli timlan nemi henim
       class: n
       field: Core kinship
       gloss: a sibling's female child, including an adult offspring
       source: {kind: coined}
-      built: [nirli, timlan, nemi, herim]
+      built: [nirli, timlan, nemi, henim]
       concept: niece
     - form: navur
       class: n
@@ -3109,7 +3109,7 @@ data:
       source: {kind: coined}
       built: [ninesh, her]
       concept: abode
-    - form: lasher
+    - form: lashun
       class: n
       field: Core things
       gloss: a window
@@ -3133,12 +3133,12 @@ data:
       gloss: a key
       source: {kind: coined}
       concept: key
-    - form: lashergudesh
+    - form: lashungudesh
       class: n
       field: Core things
       gloss: movable covers closing a window
       source: {kind: coined}
-      built: [lasher, gudesh]
+      built: [lashun, gudesh]
       concept: shutters
     - form: nelbar
       class: n
@@ -3621,12 +3621,12 @@ data:
       source: {kind: coined}
       built: [nire, tes]
       concept: third
-    - form: ninser
+    - form: ninsut
       class: n
       field: Core numbers
       gloss: one of two equal shares; a half
       source: {kind: coined}
-      built: [nin, ser]
+      built: [nin, sut]
       concept: half
     - form: palem
       class: adj
@@ -3640,7 +3640,7 @@ data:
       gloss: few
       source: {kind: coined}
       concept: few
-    - form: nul
+    - form: nus
       class: pron
       field: Core numbers
       gloss: none or nothing in the stated set, distinct from the numeral zero
@@ -3653,12 +3653,12 @@ data:
       source: {kind: coined}
       built: [nire, nivun]
       concept: ordinal-construction
-    - form: harser
+    - form: tunsut
       class: n
       field: Core numbers
       gloss: one of four equal shares; a quarter
       source: {kind: coined}
-      built: [har, ser]
+      built: [tun, sut]
       concept: quarter
     - form: sumet
       class: adj
@@ -3678,7 +3678,7 @@ data:
       gloss: some
       source: {kind: coined}
       concept: some
-    - form: nevel
+    - form: nemel
       class: adj
       field: Core numbers
       gloss: a little in quantity, not small in spatial size
@@ -3742,12 +3742,12 @@ data:
       source: {kind: coined}
       built: [pel, vanel, nin]
       concept: either
-    - form: nul vanel nin
+    - form: nus vanel nin
       class: pron
       field: Core numbers
       gloss: neither member of a pair, literally none from two
       source: {kind: coined}
-      built: [nul, vanel, nin]
+      built: [nus, vanel, nin]
       concept: neither
     - form: narli
       class: adv
@@ -3876,7 +3876,7 @@ data:
       gloss: striped
       source: {kind: coined}
       concept: striped
-    - form: geshem
+    - form: gashem
       class: v
       field: Core verbs
       gloss: to go
@@ -4515,26 +4515,26 @@ data:
       gloss: there
       source: {kind: coined}
       concept: there
-    - form: tarem nemil het
+    - form: tarem nemil hes
       class: adv
       field: Core space
       gloss: at some unspecified place
       source: {kind: coined}
-      built: [tarem, nemil, het]
+      built: [tarem, nemil, hes]
       concept: somewhere
-    - form: tarem nul het
+    - form: tarem nus hes
       class: adv
       field: Core space
       gloss: at no place
       source: {kind: coined}
-      built: [tarem, nul, het]
+      built: [tarem, nus, hes]
       concept: nowhere
-    - form: tarem dimal het
+    - form: tarem dimal hes
       class: adv
       field: Core space
       gloss: at every place
       source: {kind: coined}
-      built: [tarem, dimal, het]
+      built: [tarem, dimal, hes]
       concept: everywhere
     - form: nerem
       class: part
@@ -4548,13 +4548,13 @@ data:
       gloss: far in spatial distance, not late in time
       source: {kind: coined}
       concept: far
-    - form: semel
+    - form: senvel
       class: part
       field: Core space
       gloss: beside
       source: {kind: coined}
       concept: beside
-    - form: terem
+    - form: terum
       class: part
       field: Core space
       gloss: between the two references joined by lemir
@@ -4815,12 +4815,12 @@ data:
       source: {kind: coined}
       built: [tarem, nevim, darem]
       concept: rarely
-    - form: tarem nul darem
+    - form: tarem nus darem
       class: adv
       field: Core time
       gloss: on no occasion
       source: {kind: coined}
-      built: [tarem, nul, darem]
+      built: [tarem, nus, darem]
       concept: never
     - form: durmel
       class: adj
@@ -4996,12 +4996,12 @@ data:
       source: {kind: coined}
       built: [dimal, miran]
       concept: everyone
-    - form: nul miran
+    - form: nus miran
       class: pron
       field: Core reference
       gloss: no person in the stated set
       source: {kind: coined}
-      built: [nul, miran]
+      built: [nus, miran]
       concept: no-one
     - form: nemil denem
       class: pron
@@ -5068,12 +5068,12 @@ data:
       gloss: which, before the named kind being selected
       source: {kind: coined}
       concept: question-which
-    - form: tarem verhet
+    - form: tarem verhes
       class: part
       field: Core questions
       gloss: at what place; where
       source: {kind: coined}
-      built: [tarem, verhet]
+      built: [tarem, verhes]
       concept: question-where
     - form: vermun
       class: adv
@@ -5122,12 +5122,12 @@ data:
       source: {kind: coined}
       built: [dener, verin]
       concept: question-to-whom
-    - form: vanel verhet
+    - form: vanel verhes
       class: part
       field: Core questions
       gloss: from what place; from where
       source: {kind: coined}
-      built: [vanel, verhet]
+      built: [vanel, verhes]
       concept: question-from-where
     - form: peril verum
       class: part
@@ -5299,7 +5299,7 @@ data:
       gloss: a false claim, whether intentionally deceptive or honestly mistaken
       source: {kind: coined}
       concept: falsehood
-    - {form: lemur, class: conj, field: Core logic, gloss: or, source: {kind: coined}, concept: or}
+    - {form: lemun, class: conj, field: Core logic, gloss: or, source: {kind: coined}, concept: or}
     - form: damir
       class: conj
       field: Core logic
@@ -5395,10 +5395,10 @@ data:
     - form: lemvel
       class: conj
       field: Core logic
-      gloss: introduces the first alternative, with lemur before the second
+      gloss: introduces the first alternative, with lemun before the second
       source: {kind: coined}
       concept: either-alternative
-    - form: lemnul
+    - form: lemnus
       class: conj
       field: Core logic
       gloss: introduces each of two excluded alternatives
@@ -5612,12 +5612,12 @@ data:
       gloss: valuable
       source: {kind: coined}
       concept: valuable
-    - form: hurem tul virdem
+    - form: hurem tem virdem
       class: v
       field: Core qualities
       gloss: have zero worth in the stated valuation; be worthless
       source: {kind: coined}
-      built: [hurem, tul, virdem]
+      built: [hurem, tem, virdem]
       concept: worthless
     - form: karmir
       class: adj
@@ -5719,18 +5719,18 @@ data:
       gloss: opposite
       source: {kind: coined}
       concept: opposite
-    - form: gaven
+    - form: gaden
       class: v
       field: Core modality
       gloss: can; able to do something (ability)
       source: {kind: coined}
       concept: can
-    - form: nesh gaven
+    - form: nesh gaden
       class: v
       field: Core modality
       gloss: lack ability to perform the following action
       source: {kind: coined}
-      built: [nesh, gaven]
+      built: [nesh, gaden]
       concept: cannot
     - form: gaveni
       class: adj
@@ -5745,7 +5745,7 @@ data:
       source: {kind: coined}
       built: [nesh, gaveni]
       concept: impossible
-    - form: hesir
+    - form: hesur
       class: v
       field: Core modality
       gloss: may; have permission to act
@@ -5902,12 +5902,12 @@ data:
       source: {kind: coined}
       built: [venem, hene]
       concept: expression-come-here
-    - form: geshem vannil
+    - form: gashem vannil
       class: call
       field: Core conversation
       gloss: go away
       source: {kind: coined}
-      built: [geshem, vannil]
+      built: [gashem, vannil]
       concept: expression-go-away
     - form: miver hursel
       class: call
@@ -5951,12 +5951,12 @@ data:
       source: {kind: coined}
       built: [hudem, veme, sanhel, havi]
       concept: expression-really
-    - form: nul diram
+    - form: nus diram
       class: call
       field: Core conversation
       gloss: no degree at all; an emphatic negative response
       source: {kind: coined}
-      built: [nul, diram]
+      built: [nus, diram]
       concept: expression-not-at-all
     - form: mirin
       class: adj
@@ -6378,12 +6378,12 @@ data:
       gloss: "a receipt recording payment"
       source: {kind: coined}
     - {form: vimher, class: n, field: Ordinary usage, gloss: "a shrine", source: {kind: coined}}
-    - form: narhet
+    - form: narhes
       class: n
       field: Ordinary usage
       gloss: "a court, its assembly or place of hearing"
       source: {kind: coined}
-    - form: dimhet
+    - form: dimhes
       class: n
       field: Ordinary usage
       gloss: "a city's residential quarter"
@@ -6765,7 +6765,7 @@ A Tellumi name is built in the same few moves as any other word, and it can be r
 
 Tellumi verse counts beats, six to the line, and every word of two syllables or more carries one: a line is six words long, give or take the short words that carry no beat. The line falls into two halves of three beats at a pause that is not written. Two forms are kept.
 
-- **The _tsemhat_, the recitation**, is said standing and does not rhyme. Its craft is parallelism: the second half of a line, or the line after it, answers the one before by keeping its frame and changing one term (_nemur palen nilsem nali dimal nedim_, then _nemur neven velnur nali dimal nedim_: "took more of the dying than all the others", then "took less of the land than all the others"), or by turning it into its opposite. Formulas return unchanged wherever the case needs them, so that _nul miran perner pernil_, "no one lit the lamps", is heard as the same words each time. A roll, of peaks, springs or names, is a _tsemhat_: in the roll of the seven peaks the reciter calls each peak's name alone, and the house answers with the name of its city, and the call and the answer stand outside the count.
+- **The _tsemhat_, the recitation**, is said standing and does not rhyme. Its craft is parallelism: the second half of a line, or the line after it, answers the one before by keeping its frame and changing one term (_nemur palen nilsem nali dimal nedim_, then _nemur neven velnur nali dimal nedim_: "took more of the dying than all the others", then "took less of the land than all the others"), or by turning it into its opposite. Formulas return unchanged wherever the case needs them, so that _nus miran perner pernil_, "no one lit the lamps", is heard as the same words each time. A roll, of peaks, springs or names, is a _tsemhat_: in the roll of the seven peaks the reciter calls each peak's name alone, and the house answers with the name of its city, and the call and the answer stand outside the count.
 - **The _lavun_, the cloth telling**, is sung in couplets of the same six-beat line, and the two lines of a couplet close on the same final consonant, or on the same vowel where they end open. The vowel before that consonant may change, so _denem_ answers _nilshem_ and _varter_ answers _miver_; a full rhyme, vowel and all, is the ornament a good teller reaches for. A couplet may run across the teller's spoken asides to the yard, which are not sung. An oath or a saying quoted in a _lavun_ keeps its own words and stands outside the rhyme, though not outside the beat, and a roll sung inside one keeps the unrhymed lines of the _tsemhat_.
 
 ## Writing
@@ -6790,33 +6790,33 @@ _Miver harsir tiver_ means I hurt you, causing pain. _Miver hurem harsim_ means 
 
 _Tenlir_ is old in age, while the inherited _teyut_ describes something old or ancient. _Tenmel_ names aging and _tenmer_ the act of growing older. _Melhum_ is bodily fullness after food or drink, not the general completion _temvim_. _Kerlim_ is the palm of a hand; the inherited _talvut_ is the palm tree. _Harsem_ is the chest, _samli_ the breast, _benhum_ the stomach and _timlumar_ the womb. The anatomy words name these parts individually rather than treating one as a gloss for another.
 
-_Namil_ is a parent of either sex and _herim_ a sibling of either sex. _Nerir nemi namil_ is a grandmother, the mother of a parent; _bamden nemi namil_ is a grandfather. _Timlan nemi herim nemi namil nemi miver_ is my cousin, the child of a sibling of my parent. _Varli timlan nemi herim_ and _nirli timlan nemi herim_ name a nephew and niece through either sibling. _Timlan_ can name an offspring after childhood; _varli_ and _nirli_ supply male and female without changing a noun ending. An adult is _kenen_: _varli kenen_ is a man and _nirli kenen_ a woman. No noun-class or gender-agreement table is implied.
+_Namil_ is a parent of either sex and _henim_ a sibling of either sex. _Nerir nemi namil_ is a grandmother, the mother of a parent; _bamden nemi namil_ is a grandfather. _Timlan nemi henim nemi namil nemi miver_ is my cousin, the child of a sibling of my parent. _Varli timlan nemi henim_ and _nirli timlan nemi henim_ name a nephew and niece through either sibling. _Timlan_ can name an offspring after childhood; _varli_ and _nirli_ supply male and female without changing a noun ending. An adult is _kenen_: _varli kenen_ is a man and _nirli kenen_ a woman. No noun-class or gender-agreement table is implied.
 
 The old _ninesh_ remains the household that keeps its tablets. _Nineshher_ is its physical house or home. _Miver hurem tenyut_ means I have a tablet; _miver tsergim tenyut_ says I write a tablet. _Miver revin dener nineshher_ says I return home. The ordinary verb _revin_ does not replace _revun_, the old noun for the recovery of the lost cities.
 
 ### Count, degree and comparison
 
-A number or other quantity precedes the unchanged noun: _nin bunem_, two pots; _palem bunem_, many pots; _palem nelim_, much water. _Tavem nemi bunem_ is the number of pots; _tavel nemi nelim_ the amount of water. _Tiver tavim bunem_ means you count pots, and _tiver tavur nelim mibil nelbar_ you measure water with a cup. _Nul_ states none of the relevant kind, while _tul_ is the number zero. _Dimel_ selects each member individually; _dimal_ includes the entire set and also supplies every.
+A number or other quantity precedes the unchanged noun: _nin bunem_, two pots; _palem bunem_, many pots; _palem nelim_, much water. _Tavem nemi bunem_ is the number of pots; _tavel nemi nelim_ the amount of water. _Tiver tavim bunem_ means you count pots, and _tiver tavur nelim mibil nelbar_ you measure water with a cup. _Nus_ states none of the relevant kind, while _tem_ is the number zero. _Dimel_ selects each member individually; _dimal_ includes the entire set and also supplies every.
 
-_Nire_ before a cardinal makes a numbered-position modifier: _nire nin bunem_ is the second pot, _nire tes bunem_ the third and _nire nivun bunem_ the seventh. The same construction uses _nire har_ for fourth or _nire hemut_ for hundredth. The older _kenbesh_ remains first or eldest. _Ninser_ and _harser_ name one of two or four equal shares. _Dimal nin_ takes both of a pair, _pel vanel nin_ either member and _nul vanel nin_ neither.
+_Nire_ before a cardinal makes a numbered-position modifier: _nire nin bunem_ is the second pot, _nire tes bunem_ the third and _nire nivun bunem_ the seventh. The same construction uses _nire tun_ for fourth or _nire hemut_ for hundredth. The older _kenbesh_ remains first or eldest. _Ninsut_ and _tunsut_ name one of two or four equal shares. _Dimal nin_ takes both of a pair, _pel vanel nin_ either member and _nus vanel nin_ neither.
 
 A comparison places its standard after _nali_. _Heri nelim veme palen nali huri nelim_ means this water is more in amount than that water. _Heri her veme palen tarli nali huri her_ means this building is longer than that building. Here _palen_ increases the degree of the named quality; with a counted or measured kind it increases quantity. _Neven_ decreases it. _Heri her veme palen tarli nali dimal nedim her_ makes this building the longest, explicitly excluding itself from the other buildings. _Samir_ states equality of the quantity or quality, while _samnil_ states identity.
 
-_Narli_, _narnir_ and _tsemir_ before a number give approximation, almost reaching it and exactness: _narli nidem bunem_, about ten pots; _narnir nidem bunem_, almost ten; _tsemir nidem bunem_, exactly ten. _Marnil_ is enough for the purpose currently being discussed. _Palen nali marnil_ is too much and _neven nali marnil_ too little. A merely modest value is not worthlessness: _heri bunem hurem tul virdem_ means this pot has zero worth in the stated evaluation. _Nesh sunmir_ would merely deny that it is valuable.
+_Narli_, _narnir_ and _tsemir_ before a number give approximation, almost reaching it and exactness: _narli nidem bunem_, about ten pots; _narnir nidem bunem_, almost ten; _tsemir nidem bunem_, exactly ten. _Marnil_ is enough for the purpose currently being discussed. _Palen nali marnil_ is too much and _neven nali marnil_ too little. A merely modest value is not worthlessness: _heri bunem hurem tem virdem_ means this pot has zero worth in the stated evaluation. _Nesh sunmir_ would merely deny that it is valuable.
 
 ### Space and time
 
-Relation words introduce their named reference: _miver veme benu nineshher_, I am inside the house; _miver veme semel vartem_, beside the door; _miver veme terem vartem lemir perim_, between the door and the hearth. _Dimer_ is among a group. _Nurel_ claims contact with a supporting surface; _hemun_ only says above or over it. _Fermil_ is in front in space, while _hamin_ is earlier in time. _Ferul_ is far away, not late.
+Relation words introduce their named reference: _miver veme benu nineshher_, I am inside the house; _miver veme senvel vartem_, beside the door; _miver veme terum vartem lemir perim_, between the door and the hearth. _Dimer_ is among a group. _Nurel_ claims contact with a supporting surface; _hemun_ only says above or over it. _Fermil_ is in front in space, while _hamin_ is earlier in time. _Ferul_ is far away, not late.
 
 Time words identify an ordinary event without inflecting its verb. _Gabenir miver lasem tiver_ says I saw you yesterday; _gabenur miver venem_ says I will come tomorrow. _Heri gaben_ is today. _Miver venem hamin hushem_ is I come before the rain; _miver hagen yernel hushem_ I remain from the rain onward, and _miver hinver yermir hushem_ I wait until the rain. _Miver hager bunem yernem tiver narem_ means I hold the pot while you speak: the complete simultaneous clause follows _yernem_.
 
-An occasion is a _darem_. _Tarem pel darem_ and _tarem nin darem_ count once and twice; _gerni gerni_ is again and again. _Palem_, _nemil_, _nevim_ and _nul_ in the same occasion construction supply often, sometimes, rarely and never. _Durmel_ and _durmil_ describe long and brief duration; _tarli_ and _tarki_ describe spatial length. _Hageni_ means already, _hagenir_ still and _nemgi_ yet: _miver hageni melir_, I have already eaten; _miver nesh melir nemgi_, I have not eaten yet. These time words do not assert a hidden past or future conjugation.
+An occasion is a _darem_. _Tarem pel darem_ and _tarem nin darem_ count once and twice; _gerni gerni_ is again and again. _Palem_, _nemil_, _nevim_ and _nus_ in the same occasion construction supply often, sometimes, rarely and never. _Durmel_ and _durmil_ describe long and brief duration; _tarli_ and _tarki_ describe spatial length. _Hageni_ means already, _hagenir_ still and _nemgi_ yet: _miver hageni melir_, I have already eaten; _miver nesh melir nemgi_, I have not eaten yet. These time words do not assert a hidden past or future conjugation.
 
 ### Questions, speech and reference
 
-A question leaves the unknown in its ordinary role. _Verin lasem tiver_ asks who sees you; _tiver lasem verum_ what you see. _Virnil bunem veme leril_ asks which pot is good. _Tiver veme tarem verhet_ asks where you are, _tiver venem vermun_ when you come, _tiver geshem danel verum_ why you go, and _tiver geshem peril verum_ for what intended purpose. A cause and an aim are not the same question. _Tiver varter vartem verlim_ asks how you open the door.
+A question leaves the unknown in its ordinary role. _Verin lasem tiver_ asks who sees you; _tiver lasem verum_ what you see. _Virnil bunem veme leril_ asks which pot is good. _Tiver veme tarem verhes_ asks where you are, _tiver venem vermun_ when you come, _tiver gashem danel verum_ why you go, and _tiver gashem peril verum_ for what intended purpose. A cause and an aim are not the same question. _Tiver varter vartem verlim_ asks how you open the door.
 
-_Verum tavem bunem_ asks how many pots, and _verum tavel nelim_ how much water. _Heri bunem veme nemi verin_ asks whose pot this is; _tiver danem bunem dener verin_ to whom you give a pot, and _tiver venem vanel verhet_ from where you come. _Havi_ after a complete ordinary clause requests yes or no: _tiver hurem nelim havi_, do you have water? _Yemi_ affirms, _neshi_ denies, and _nerhum_ asks that unclear speech be repeated or clarified.
+_Verum tavem bunem_ asks how many pots, and _verum tavel nelim_ how much water. _Heri bunem veme nemi verin_ asks whose pot this is; _tiver danem bunem dener verin_ to whom you give a pot, and _tiver venem vanel verhes_ from where you come. _Havi_ after a complete ordinary clause requests yes or no: _tiver hurem nelim havi_, do you have water? _Yemi_ affirms, _neshi_ denies, and _nerhum_ asks that unclear speech be repeated or clarified.
 
 _Heri_ and _huri_ precede a nearby and a distant or previously identified noun. _Herin_ and _hurin_ give the plural reference without inflecting the noun. _Miver lasem shernil_ means I see myself; _hiner lasem miver_ she sees me. _Shernil_ always points back to the subject of its own clause.
 
@@ -6824,19 +6824,19 @@ _Miver narem navel hiner venem virem_ means I say that she comes. _Miver lasem m
 
 ### Conditions, choice and obligation
 
-_Hushem renver, danuli miver hagen benu nineshher_ means rain happens, therefore I remain inside the house. _Miver hagen danil hushem renver_ gives the reason: I remain because it rains. _Dinel hushem renver, dinir miver hagen_ states if it rains, then I remain. _Dinul hushem renver, dinir miver geshem_ says unless it rains, I go; _dinur_ introduces what happens otherwise. _Damil hushem renver, miver geshem_ is although it rains, I go. _Damel hushem_ says despite the rain, without making a full clause.
+_Hushem renver, danuli miver hagen benu nineshher_ means rain happens, therefore I remain inside the house. _Miver hagen danil hushem renver_ gives the reason: I remain because it rains. _Dinel hushem renver, dinir miver hagen_ states if it rains, then I remain. _Dinul hushem renver, dinir miver gashem_ says unless it rains, I go; _dinur_ introduces what happens otherwise. _Damil hushem renver, miver gashem_ is although it rains, I go. _Damel hushem_ says despite the rain, without making a full clause.
 
-_Lemvel miver melir lemur miver nilsher_ offers either eating or drinking. _Lemnul miver melir lemnul miver nilsher_ excludes both. _Lemnin miver melir lemir miver nilsher_ includes both. After a negative clause, _neshir_ continues another negative: _miver nesh melir neshir miver nesh nilsher_, neither do I eat nor drink. _Miver murdem lenvir tiver venem lemur tiver hagen_ considers whether you come or remain. The clause boundaries and repeated subjects keep the alternatives explicit.
+_Lemvel miver melir lemun miver nilsher_ offers either eating or drinking. _Lemnus miver melir lemnus miver nilsher_ excludes both. _Lemnin miver melir lemir miver nilsher_ includes both. After a negative clause, _neshir_ continues another negative: _miver nesh melir neshir miver nesh nilsher_, neither do I eat nor drink. _Miver murdem lenvir tiver venem lemun tiver hagen_ considers whether you come or remain. The clause boundaries and repeated subjects keep the alternatives explicit.
 
-_Miver gaven geshem_ is I can go, an ability. _Miver hesir geshem_ is I may go, a permission. _Merni hunen venem_ means he might come, asserting a possibility rather than a permit. _Miver damer geshem_ requires me to go. _Miver damer nesh geshem_ requires me not to go, while _miver nesh damer geshem_ says I am not required to go. _Miver damher geshem_ advises that I ought to go.
+_Miver gaden gashem_ is I can go, an ability. _Miver hesur gashem_ is I may go, a permission. _Merni hunen venem_ means he might come, asserting a possibility rather than a permit. _Miver damer gashem_ requires me to go. _Miver damer nesh gashem_ requires me not to go, while _miver nesh damer gashem_ says I am not required to go. _Miver damher gashem_ advises that I ought to go.
 
-_Miver hesver tiver geshem_ grants you permission to go; _miver neshver tiver geshem_ prohibits you from going. These two verbs take the person, then the named action. _Miver veme lirun_ says I am free to act; _miver veme hannes_ says my action is constrained. Being _hesni_ for one act does not assert general freedom. _Nemni_ and _nesh nemni_ distinguish willingness from unwillingness, and _ferili_ and _feruni_ distinguish intended from accidental action. None supplies a new inflected mood.
+_Miver hesver tiver gashem_ grants you permission to go; _miver neshver tiver gashem_ prohibits you from going. These two verbs take the person, then the named action. _Miver veme lirun_ says I am free to act; _miver veme hannes_ says my action is constrained. Being _hesni_ for one act does not assert general freedom. _Nemni_ and _nesh nemni_ distinguish willingness from unwillingness, and _ferili_ and _feruni_ distinguish intended from accidental action. None supplies a new inflected mood.
 
 ### Calling and courtesy
 
 The established _lirun gaben_, a free day, remains the greeting. _Leril tarlim_, a good road, is the parting wish, and _venem neyin_, come, guest, welcomes someone. Ordinary invariant verbs can be direct calls with the addressed person understood: _hulim_, listen; _lashem_, look; _hinver_, wait; _helmer_, help; _telnir_, stop. _Narem hurlem_ is the cited loud-voice expression, shout; _hushmer_ instead uses an unvoiced whisper.
 
-_Mibil nimvar_, with humility, makes a request courteous. _Miver narsher_ asks for attention; _miver danver tiver_ thanks the hearer and _nesh dushmen_, no debt, answers the thanks. _Miver hurem remhel_ expresses regret and _tiver mirver miver_ asks forgiveness. _Nul diram_, no degree at all, is an emphatic negative reply. _Tiver menir verum_ asks what you mean, and _tiver narem hudem verlim_ how you say it. _Yumesh nemi heri denem veme verum_ asks what this thing is called. These are complete ordinary utterances, not instructions to add an unlisted person ending.
+_Mibil nimvar_, with humility, makes a request courteous. _Miver narsher_ asks for attention; _miver danver tiver_ thanks the hearer and _nesh dushmen_, no debt, answers the thanks. _Miver hurem remhel_ expresses regret and _tiver mirver miver_ asks forgiveness. _Nus diram_, no degree at all, is an emphatic negative reply. _Tiver menir verum_ asks what you mean, and _tiver narem hudem verlim_ how you say it. _Yumesh nemi heri denem veme verum_ asks what this thing is called. These are complete ordinary utterances, not instructions to add an unlisted person ending.
 
 ### Ordinary word-hoard
 
@@ -6857,7 +6857,7 @@ The three tongues sound nothing alike, and every stem carries sounds that only i
 
 - Tellumi, the tongue of the old oasis cities at the foot of the Grazian Mountains, is soft and hushed: _sh_ and _ts_, syllables closing on a sonorant or a quick stop, any single consonant doubled where two stems meet, no _o_ and no marks. _Tellumi_, _Tennelimash_, _Tashbemun_.
 
-- [[skill-sowideslng|Sovidur]], the tongue of the steppe tribes, keeps two voices: every stem takes its vowels from a back group (_a_, _o_, _u_) or a front group (_e_, _ö_, _ü_), with a throaty _q_ and _gh_ in the back stems and a lighter _k_ and _g_ in the front, long vowels written double, and no word opening on _r_. _Orkunoq_, _Koduyur_, _Diqraqor_.
+- [[skill-sowideslng|Sovidur]], the tongue of the steppe tribes, keeps two voices: every stem takes its vowels from a back group (_a_, _o_, _u_) or a front group (_e_, _ö_, _ü_), with a throaty _q_ and _gh_ in the back stems and a lighter _k_ and _g_ in the front, long vowels written double, and no word opening on _r_. _Orghunoq_, _Koduyur_, _Diqraqor_.
 
 - [[skill-atarzadilng|Atárzadi]], the tongue of the twelve tribes who took four of the Tellumi cities, is harsh and long-voweled: _kh_, _gh_, _sh_ and _zh_, long vowels, and every word closed by a consonant. _Zhoqarod_, _Shekhulez_, _Gherosor_.
 
@@ -6871,7 +6871,7 @@ They are the words a traveler in the Khazryn needs first, and the words most nam
 
 ### How a name is made
 
-A name is a stem, two stems set together, or a stem with a suffix after it, joined by its tongue's rules. In Tellumi, _te_ "high" and _lu_ "spring" make _tellu_, because a stem ending in a vowel doubles the sonorant that opens the next stem, and the people suffix _-mi_ makes _Tellumi_. In Sovidur, _orkun_ "paramount chief" and the union suffix _-oq_ make _Orkunoq_; a front stem such as _kodu_ "horse" takes the front form of a suffix, so _kodu_ and the people suffix _-ur_ make _Koduyur_. In Atárzadi, _zhoqar_ "war" and the tribe suffix _-od_ make _Zhoqarod_, "the sons of war".
+A name is a stem, two stems set together, or a stem with a suffix after it, joined by its tongue's rules. In Tellumi, _te_ "high" and _lu_ "spring" make _tellu_, because a stem ending in a vowel doubles the sonorant that opens the next stem, and the people suffix _-mi_ makes _Tellumi_. In Sovidur, _orghun_ "paramount chief" and the union suffix _-oq_ make _Orghunoq_; a front stem such as _kodu_ "horse" takes the front form of a suffix, so _kodu_ and the people suffix _-ur_ make _Koduyur_. In Atárzadi, _zhoqar_ "war" and the tribe suffix _-od_ make _Zhoqarod_, "the sons of war".
 
 A word no table lists is still good in its tongue if it is a listed stem through that tongue's joins and suffixes. A meaning no stem covers needs a new stem, and a new stem is added here, with its sense, before any name uses it. No stem is a word of any language outside the setting.
 

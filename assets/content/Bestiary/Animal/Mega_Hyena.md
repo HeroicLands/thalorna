@@ -239,7 +239,7 @@ A huge, deep-chested hyena with a back that slopes steeply from high, heavily mu
 
 ## In the Land
 
-Mega hyenas range the whole western half of the road, from the grass of the Volketor across the gravel reaches of the [[place-hskrrgn|Khoshiqor]] to the edge of the deep sands, and the stone uplands of the [[place-dkrqrrgn|Diqraqor]] where the ravines give them dens. A clan holds a stretch of road and the country on either side, marks its edges with musk and dung-heaps, and fights any other clan that crosses them. They follow the strings along their own stretch and stop at its boundary, where the next clan takes over. They den in caves, under rock shelves and in the collapsed cellars of the dead towns, and they come to every place where animals and men die: the wells, the camps, the scene of a raid and the [[lore-sowidesclt|Sovidur]]' laying-out grounds (_yeloz_).
+Mega hyenas range the whole western half of the road, from the grass of the Volketor across the gravel reaches of the [[place-hskrrgn|Ghoshiqor]] to the edge of the deep sands, and the stone uplands of the [[place-dkrqrrgn|Diqraqor]] where the ravines give them dens. A clan holds a stretch of road and the country on either side, marks its edges with musk and dung-heaps, and fights any other clan that crosses them. They follow the strings along their own stretch and stop at its boundary, where the next clan takes over. They den in caves, under rock shelves and in the collapsed cellars of the dead towns, and they come to every place where animals and men die: the wells, the camps, the scene of a raid and the [[lore-sowidesclt|Sovidur]]' laying-out grounds (_yeloz_).
 
 ## Key Behaviors
 

@@ -1,6 +1,6 @@
 ---
 shortcode: tijodorquns
-name: {full: Tijodorkun Savaghur, en: [Elder Shaman Tijodorkun]}
+name: {full: Tijodorghun Savaghur, en: [Elder Shaman Tijodorghun]}
 type: being
 subType: npc
 description: The oldest and most respected shaman in the tribe, who has mentored Razanash Mervaran since her initiation.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Tijodorkun Savaghur is a 77-year-old man who stands 5'11" tall with a light build. He has olive skin, sun-kissed complexion, black hair, and brown eyes.
+Tijodorghun Savaghur is a 77-year-old man who stands 5'11" tall with a light build. He has olive skin, sun-kissed complexion, black hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Tijodorkun Savaghur is the oldest and most respected shaman in the tribe of [[being-rznshmrvrn|Razanash Mervaran]]. He has mentored her in the tribe's own ways since her initiation and continues to provide guidance, though he sometimes worries that her methods are too unconventional.
+Tijodorghun Savaghur is the oldest and most respected shaman in the tribe of [[being-rznshmrvrn|Razanash Mervaran]]. He has mentored her in the tribe's own ways since her initiation and continues to provide guidance, though he sometimes worries that her methods are too unconventional.

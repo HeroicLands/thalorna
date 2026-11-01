@@ -260,7 +260,7 @@ A lean, long-legged cat built for a sprint and a long walk: narrow through the c
 
 ## In the Land
 
-Sand stalkers live throughout the [[place-hskrrgn|Khoshiqor]] and the Khazryn's other sands and gravel reaches, in the stone uplands of the [[place-dkrqrrgn|Diqraqor]] where the ravines give them cover, and along the length of the road wherever water and broken rock lie within a few miles of each other. Each cat holds a range that takes in one or two waters, marks it with scent on the prominent rocks and claw-scores on the soft stone, and drives other stalkers out. The owners of a spring know which cat waters there and at what hour, and keep their own camps well back from the pool after dark. They are seldom seen by day. A stalker seen at noon is sick, starving or guarding young.
+Sand stalkers live throughout the [[place-hskrrgn|Ghoshiqor]] and the Khazryn's other sands and gravel reaches, in the stone uplands of the [[place-dkrqrrgn|Diqraqor]] where the ravines give them cover, and along the length of the road wherever water and broken rock lie within a few miles of each other. Each cat holds a range that takes in one or two waters, marks it with scent on the prominent rocks and claw-scores on the soft stone, and drives other stalkers out. The owners of a spring know which cat waters there and at what hour, and keep their own camps well back from the pool after dark. They are seldom seen by day. A stalker seen at noon is sick, starving or guarding young.
 
 ## Key Behaviors
 

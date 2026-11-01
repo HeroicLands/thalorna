@@ -7,7 +7,8 @@
  * The Earth-word guard (`npm run lint:earth-words`).
  *
  * Every native form of a language note is compared with word lists the person
- * running the check keeps locally: the words (`data.words[].form`), every name
+ * running the check keeps locally: the words (`data.words[].form` and
+ * `data.words[].variants`), every name
  * in the name lists (`data.names`, apart from `pattern`, `metadata` and the
  * English lists under `en`), and the register names whose tongue is the
  * language's own (`data.register[].name`; the tongues `translation`, `gloss`,
@@ -131,7 +132,6 @@ export const SOURCES = {
     "Vylari.md": ["latin"],
 };
 
-/** The notes whose words collide only when the meaning agrees as well as the form. */
 /**
  * Forms the owner has ruled to keep although they are whole Earth words, by
  * language note, each with the reason.
@@ -139,8 +139,11 @@ export const SOURCES = {
 export const RULED_KEPT = new Map([
     ["Nordmal.md", new Map([["jarl", "English as well as Old Norse, the Nordmen's rank"]])],
     ["Ki.i.chek.md", new Map([["ha'nal", "the root of the place name Ha'nal Shi'lan"]])],
+    ["Byzarian.md", new Map([["pluma", "the spelling The Sayings of the First Warden quotes"]])],
+    ["Sinale.md", new Map([["sahke", "the spelling The Seven Towers quotes"]])],
 ]);
 
+/** The notes whose words collide only when the meaning agrees as well as the form. */
 export const MEANING_REQUIRED = new Set(["Tantsou.md", "Jurthat.md"]);
 
 /** Function words and dictionary labels a gloss's meaning does not rest on. */
@@ -346,8 +349,9 @@ export function sameMeaning(a, b) {
 }
 
 /**
- * Every native form of a language note, with where it stands: the words, the
- * names of the name lists and the native register names.
+ * Every native form of a language note, with where it stands: the words and
+ * their variants, the names of the name lists and the native register names. A
+ * variant carries its word's gloss.
  *
  * @param {string} text - The note.
  * @returns {{form: string, gloss: string, line: number, column: number}[]}
@@ -369,8 +373,12 @@ export function formsOf(text) {
     };
     const words = doc.getIn(["data", "words"]);
     if (YAML.isSeq(words))
-        for (const item of words.items)
-            if (YAML.isMap(item)) add(item.get("form", true), glossOf(item));
+        for (const item of words.items) {
+            if (!YAML.isMap(item)) continue;
+            add(item.get("form", true), glossOf(item));
+            const variants = item.get("variants", true);
+            if (YAML.isSeq(variants)) for (const v of variants.items) add(v, glossOf(item));
+        }
     const walk = (node) => {
         if (YAML.isScalar(node)) add(node, "");
         else if (YAML.isSeq(node)) node.items.forEach(walk);

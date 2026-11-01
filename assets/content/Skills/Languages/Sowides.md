@@ -53,14 +53,14 @@ data:
         - "Bujalqiimod"
         - "Bujalyitboq"
         - "Gorenyemok"
-        - "Bulaqsovid"
+        - "Bulachsovid"
         - "Khilodbiiloq"
         - "Khilodtoliz"
         - "Khilodkharu"
         - "Savaghjilaq"
         - "Savaghbiiloq"
         - "Tijodkharu"
-        - "Tijodorkun"
+        - "Tijodorghun"
         - "Atazdovaq"
         - "Atazyaqnar"
         - "Orqazjilaq"
@@ -126,7 +126,7 @@ data:
     - {form: uruvol, sense: water}
     - {form: kelod, sense: well}
     - {form: jedor, sense: road}
-    - {form: khoshiq, sense: sand}
+    - {form: ghoshiq, sense: sand}
     - {form: yolaq, sense: salt}
     - {form: kodu, sense: horse}
     - {form: gured, sense: camel}
@@ -144,7 +144,7 @@ data:
     - {form: vaayaq, sense: south}
     - {form: idvaq, sense: east}
     - {form: orjaz, sense: west}
-    - {form: orkun, sense: paramount chief}
+    - {form: orghun, sense: paramount chief}
     - {form: dovaq, sense: chief of a tribe}
     - {form: biiloq, sense: banner}
     - {form: mirjol, sense: herd}
@@ -156,7 +156,7 @@ data:
     - {form: jivoq, sense: pole}
     - {form: vilaq, sense: cloth}
     - {form: volket, sense: grass}
-    - {form: bulaq, sense: dust}
+    - {form: bulach, sense: dust}
     - {form: goren, sense: storm}
     - {form: khilod, sense: sun}
     - {form: savagh, sense: moon}
@@ -275,11 +275,11 @@ data:
       field: Derived words
       gloss: "the riders, the steppe peoples' name for themselves"
       built: [sovid, -ur]
-    - form: Orkunoq
+    - form: Orghunoq
       class: name
       field: Derived words
-      gloss: the union an orkun forces over tribes
-      built: [orkun, -oq]
+      gloss: the union an orghun forces over tribes
+      built: [orghun, -oq]
     - form: Koduyur
       class: name
       field: Derived words
@@ -361,11 +361,11 @@ data:
       field: Derived words
       gloss: "the grass range: the Western Margin"
       built: [volket, -or]
-    - form: Khoshiqor
+    - form: Ghoshiqor
       class: name
       field: Derived words
       gloss: "the sand range: the Central Sands"
-      built: [khoshiq, -or]
+      built: [ghoshiq, -or]
     - form: Idvaqor
       class: name
       field: Derived words
@@ -446,11 +446,11 @@ data:
       field: Derived words
       gloss: "heat-doer: the mirage-stalker"
       built: [orqaz, -ud]
-    - form: Khoshikud
+    - form: Ghoshikud
       class: name
       field: Derived words
       gloss: "sand-doer: the pit-maker"
-      built: [khoshiq, -ud]
+      built: [ghoshiq, -ud]
     - form: Budaq
       class: name
       field: Derived words
@@ -670,11 +670,11 @@ data:
       "gloss": "road"
       "built": ["jedor"]
       "note": "An ordinary citation of the existing free stem; its established sound group and meaning are retained."
-    - "form": "khoshiq"
+    - "form": "ghoshiq"
       "class": "n"
       "field": "Ordinary inherited stems"
       "gloss": "sand"
-      "built": ["khoshiq"]
+      "built": ["ghoshiq"]
       "note": "An ordinary citation of the existing free stem; its established sound group and meaning are retained."
     - "form": "kodu"
       "class": "n"
@@ -782,11 +782,11 @@ data:
       "built": ["orjaz"]
       "note": "An ordinary citation of the existing free stem; its established sound group and meaning are retained."
       "concept": ["west"]
-    - "form": "orkun"
+    - "form": "orghun"
       "class": "n"
       "field": "Ordinary inherited stems"
       "gloss": "paramount chief"
-      "built": ["orkun"]
+      "built": ["orghun"]
       "note": "An ordinary citation of the existing free stem; its established sound group and meaning are retained."
     - "form": "dovaq"
       "class": "n"
@@ -845,11 +845,11 @@ data:
       "built": ["volket"]
       "note": "An ordinary citation of the existing free stem; its established sound group and meaning are retained."
       "concept": ["grass"]
-    - "form": "bulaq"
+    - "form": "bulach"
       "class": "n"
       "field": "Ordinary inherited stems"
       "gloss": "dust"
-      "built": ["bulaq"]
+      "built": ["bulach"]
       "note": "An ordinary citation of the existing free stem; its established sound group and meaning are retained."
       "concept": ["dust"]
     - "form": "goren"
@@ -1450,7 +1450,7 @@ data:
       "gloss": "invisible"
       "concept": "invisible"
       "source": {"kind": "coined"}
-    - "form": "zekhir"
+    - "form": "zekhil"
       "class": "v"
       "field": "Everyday senses"
       "gloss": "to listen"
@@ -1522,7 +1522,7 @@ data:
       "gloss": "to feel a sensation"
       "concept": "feel-verb"
       "source": {"kind": "coined"}
-    - "form": "qoqum"
+    - "form": "qoqud"
       "class": "n"
       "field": "Everyday senses"
       "gloss": "sensation"
@@ -1726,7 +1726,7 @@ data:
       "gloss": "grief"
       "concept": "grief"
       "source": {"kind": "coined"}
-    - "form": "khökekh"
+    - "form": "khökech"
       "class": "n"
       "field": "Everyday passions"
       "gloss": "shame"
@@ -2014,7 +2014,7 @@ data:
       "gloss": "the neck"
       "concept": "neck"
       "source": {"kind": "coined"}
-    - "form": "khodor"
+    - "form": "khodoz"
       "class": "n"
       "field": "Everyday body"
       "gloss": "the shoulder"
@@ -2890,7 +2890,7 @@ data:
       "gloss": "lineage"
       "concept": "lineage"
       "source": {"kind": "coined"}
-    - "form": "khüzey"
+    - "form": "khüzem"
       "class": "n"
       "field": "Everyday kinship"
       "gloss": "widower"
@@ -2986,7 +2986,7 @@ data:
       "gloss": "a bed"
       "concept": "bed"
       "source": {"kind": "coined"}
-    - "form": "zaman"
+    - "form": "zamad"
       "class": "n"
       "field": "Everyday things"
       "gloss": "a floor"
@@ -3334,7 +3334,7 @@ data:
       "gloss": "stream"
       "concept": "stream"
       "source": {"kind": "coined"}
-    - "form": "qolon"
+    - "form": "qolom"
       "class": "n"
       "field": "Everyday nature"
       "gloss": "sea"
@@ -3704,7 +3704,7 @@ data:
       "gloss": "every"
       "concept": "every"
       "source": {"kind": "coined"}
-    - "form": "khonaq"
+    - "form": "khonach"
       "class": "num"
       "field": "Everyday numbers"
       "gloss": "both"
@@ -3758,7 +3758,7 @@ data:
       "gloss": "measure"
       "concept": "measure-verb"
       "source": {"kind": "coined"}
-    - "form": "khamas"
+    - "form": "khamaz"
       "class": "v"
       "field": "Everyday numbers"
       "gloss": "count"
@@ -3770,7 +3770,7 @@ data:
       "gloss": "green"
       "concept": "green"
       "source": {"kind": "coined"}
-    - "form": "qomikh"
+    - "form": "qomich"
       "class": "adj"
       "field": "Everyday colours"
       "gloss": "yellow"
@@ -3866,7 +3866,7 @@ data:
       "gloss": "to have"
       "concept": "have"
       "source": {"kind": "coined"}
-    - "form": "qavun"
+    - "form": "qavum"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to go"
@@ -4052,7 +4052,7 @@ data:
       "gloss": "to remain"
       "concept": "remain"
       "source": {"kind": "coined"}
-    - "form": "khoqoz"
+    - "form": "khoqoch"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to leave"
@@ -4088,7 +4088,7 @@ data:
       "gloss": "to fall"
       "concept": "fall"
       "source": {"kind": "coined"}
-    - "form": "khevel"
+    - "form": "khevesh"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to rise"
@@ -4148,7 +4148,7 @@ data:
       "gloss": "to pull"
       "concept": "pull"
       "source": {"kind": "coined"}
-    - "form": "qoloq"
+    - "form": "qoloch"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to lift"
@@ -4430,7 +4430,7 @@ data:
       "gloss": "to hit"
       "concept": "hit"
       "source": {"kind": "coined"}
-    - "form": "qanaq"
+    - "form": "qanash"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to kill"
@@ -4592,7 +4592,7 @@ data:
       "gloss": "between"
       "concept": "between"
       "source": {"kind": "coined"}
-    - "form": "khovuq"
+    - "form": "khovud"
       "class": "part"
       "field": "Everyday space"
       "gloss": "among"
@@ -4682,7 +4682,7 @@ data:
       "gloss": "down"
       "concept": "down"
       "source": {"kind": "coined"}
-    - "form": "qozan"
+    - "form": "qozam"
       "class": "adv"
       "field": "Everyday space"
       "gloss": "forward"
@@ -4700,7 +4700,7 @@ data:
       "gloss": "Toward"
       "concept": "toward"
       "source": {"kind": "coined"}
-    - "form": "qorun"
+    - "form": "qorud"
       "class": "adv"
       "field": "Everyday space"
       "gloss": "away"
@@ -5092,7 +5092,7 @@ data:
       "concept": "your"
       "source": {"kind": "coined"}
       "built": ["khilin", "jiven"]
-    - "form": "qadir"
+    - "form": "qadil"
       "class": "pron"
       "field": "Everyday reference"
       "gloss": "He"
@@ -5195,7 +5195,7 @@ data:
       "gloss": "everything"
       "concept": "everything"
       "source": {"kind": "coined"}
-    - "form": "qonoq"
+    - "form": "qonod"
       "class": "pron"
       "field": "Everyday reference"
       "gloss": "self; oneself (reflexive reference)"
@@ -5237,7 +5237,7 @@ data:
       "gloss": "What (question)"
       "concept": ["question-what", "expression-what"]
       "source": {"kind": "coined"}
-    - "form": "zikir"
+    - "form": "zikid"
       "class": "part"
       "field": "Everyday questions"
       "gloss": "Which (question)"
@@ -5504,7 +5504,7 @@ data:
       "concept": "nor"
       "source": {"kind": "coined"}
       "built": ["jiviz", "zevik"]
-    - "form": "qavar"
+    - "form": "qavol"
       "class": "conj"
       "field": "Everyday logic"
       "gloss": "Because"
@@ -5830,7 +5830,7 @@ data:
       "gloss": "important"
       "concept": "important"
       "source": {"kind": "coined"}
-    - "form": "qozum"
+    - "form": "qozut"
       "class": "adj"
       "field": "Everyday qualities"
       "gloss": "trivial"
@@ -5890,7 +5890,7 @@ data:
       "gloss": "honest"
       "concept": "honest"
       "source": {"kind": "coined"}
-    - "form": "khoquq"
+    - "form": "khoquz"
       "class": "adj"
       "field": "Everyday qualities"
       "gloss": "dishonest"
@@ -5988,13 +5988,13 @@ data:
       "gloss": "must; be obliged to perform the preceding action"
       "concept": "must"
       "source": {"kind": "coined"}
-    - "form": "zevik qavun zödir"
+    - "form": "zevik qavum zödir"
       "class": "v"
       "field": "Everyday modality"
-      "gloss": "must not go; negation before the action, followed by zödir, obliges refraining from it; replace qavun with the actual action"
+      "gloss": "must not go; negation before the action, followed by zödir, obliges refraining from it; replace qavum with the actual action"
       "concept": "must-not"
       "source": {"kind": "coined"}
-      "built": ["zevik", "qavun", "zödir"]
+      "built": ["zevik", "qavum", "zödir"]
     - "form": "jökhen"
       "class": "v"
       "field": "Everyday modality"
@@ -6135,13 +6135,13 @@ data:
       "concept": "of-course"
       "source": {"kind": "coined"}
       "built": ["zöker", "zoqur"]
-    - "form": "khilin zekhir"
+    - "form": "khilin zekhil"
       "class": "call"
       "field": "Everyday conversation"
       "gloss": "listen; the ordinary request naming the addressee and listening"
       "concept": "expression-listen"
       "source": {"kind": "coined"}
-      "built": ["khilin", "zekhir"]
+      "built": ["khilin", "zekhil"]
     - "form": "khilin chödir"
       "class": "call"
       "field": "Everyday conversation"
@@ -6163,13 +6163,13 @@ data:
       "concept": "expression-come-here"
       "source": {"kind": "coined"}
       "built": ["khilin", "chikin", "jodur"]
-    - "form": "khilin qorun qavun"
+    - "form": "khilin qorud qavum"
       "class": "call"
       "field": "Everyday conversation"
       "gloss": "go away; a request to leave the reference place"
       "concept": "expression-go-away"
       "source": {"kind": "coined"}
-      "built": ["khilin", "qorun", "qavun"]
+      "built": ["khilin", "qorud", "qavum"]
     - "form": "khilin zilir qorim"
       "class": "call"
       "field": "Everyday conversation"
@@ -6288,7 +6288,7 @@ data:
       "gloss": "Individual"
       "concept": "individual"
       "source": {"kind": "coined"}
-    - "form": "qorukh"
+    - "form": "qoruch"
       "class": "n"
       "field": "Everyday society"
       "gloss": "group"
@@ -6932,8 +6932,8 @@ data:
     - {name: The Northern Taiga, tongue: gloss, built: [Ghotaqor]}
     - {name: Volketor, tongue: sowides, built: [volket, -or]}
     - {name: The Western Margin, tongue: gloss, built: [Volketor]}
-    - {name: Khoshiqor, tongue: sowides, built: [khoshiq, -or]}
-    - {name: The Central Sands, tongue: gloss, built: [Khoshiqor]}
+    - {name: Ghoshiqor, tongue: sowides, built: [ghoshiq, -or]}
+    - {name: The Central Sands, tongue: gloss, built: [Ghoshiqor]}
     - {name: Diqraqor, tongue: sowides, built: [diqraq, -or]}
     - {name: The Stone Uplands, tongue: gloss, built: [Diqraqor]}
     - {name: Idvaqor, tongue: sowides, built: [idvaq, -or]}
@@ -6983,15 +6983,15 @@ data:
     - {name: Vomekoqod, tongue: sowides, built: [vomek, oqod]}
     - {name: The Buried Water, tongue: gloss, built: [Uruvolkuyad]}
     - {name: Uruvolkuyad, tongue: sowides, built: [uruvol, kuyad]}
-    - {name: Bulaqsovid, tongue: sowides, built: [bulaq, sovid]}
+    - {name: Bulachsovid, tongue: sowides, built: [bulach, sovid]}
     - {name: Yovakur, tongue: sowides, built: [yovaq, -ur]}
-    - {name: Bulaqsovid Yovakur, tongue: gloss, built: [Bulaqsovid, Yovakur]}
-    - {name: Administrator Bulaqsovid, tongue: gloss, built: [Bulaqsovid]}
-    - {name: Town Administrator Bulaqsovid, tongue: gloss, built: [Bulaqsovid]}
-    - {name: Tijodorkun, tongue: sowides, built: [tijod, orkun]}
+    - {name: Bulachsovid Yovakur, tongue: gloss, built: [Bulachsovid, Yovakur]}
+    - {name: Administrator Bulachsovid, tongue: gloss, built: [Bulachsovid]}
+    - {name: Town Administrator Bulachsovid, tongue: gloss, built: [Bulachsovid]}
+    - {name: Tijodorghun, tongue: sowides, built: [tijod, orghun]}
     - {name: Savaghur, tongue: sowides, built: [savagh, -ur]}
-    - {name: Tijodorkun Savaghur, tongue: gloss, built: [Tijodorkun, Savaghur]}
-    - {name: Elder Shaman Tijodorkun, tongue: gloss, built: [Tijodorkun]}
+    - {name: Tijodorghun Savaghur, tongue: gloss, built: [Tijodorghun, Savaghur]}
+    - {name: Elder Shaman Tijodorghun, tongue: gloss, built: [Tijodorghun]}
     - {name: Khilodlun, tongue: sowides, built: [khilod, -lun]}
     - {name: Biilokur, tongue: sowides, built: [biiloq, -ur]}
     - {name: Khilodlun Biilokur, tongue: gloss, built: [Khilodlun, Biilokur]}
@@ -7053,9 +7053,9 @@ SELECT 8 AS o, 'Signature' AS "Rule", array_to_string(list_transform(signature, 
 ) ORDER BY o
 ```
 
-A syllable opens on one consonant or on nothing and closes on nothing or on one consonant. A word may begin with a vowel (_orkun_, _otviil_) but never with _r_, never sets two different vowels side by side, never doubles a consonant, and ends on a vowel or on one of the finals above.
+A syllable opens on one consonant or on nothing and closes on nothing or on one consonant. A word may begin with a vowel (_orghun_, _otviil_) but never with _r_, never sets two different vowels side by side, never doubles a consonant, and ends on a vowel or on one of the finals above.
 
-**Every stem takes its vowels from one group.** _kodu_ "horse", _jedor_ "road" and _kelod_ "well" are front stems; _khoshiq_ "sand", _qodir_ "mountain" and _bolid_ "tower" are back stems. A stem of _i_ alone counts as front. A compound keeps each stem's own group, so _Kelodvotri_ holds a front half and a back half, and a suffix takes the group of the stem before it.
+**Every stem takes its vowels from one group.** _kodu_ "horse", _jedor_ "road" and _kelod_ "well" are front stems; _ghoshiq_ "sand", _qodir_ "mountain" and _bolid_ "tower" are back stems. A stem of _i_ alone counts as front. A compound keeps each stem's own group, so _Kelodvotri_ holds a front half and a back half, and a suffix takes the group of the stem before it.
 
 **The velars follow the group.** _q_ and _gh_ belong to back stems and _k_ and _g_ to front ones: _qodir_ and _kelod_, _savagh_ "moon" and _goren_ "storm".
 
@@ -7092,25 +7092,25 @@ FROM affixes WHERE language = 'thalorna-note-skill-sowideslng' ORDER BY position
 
 ### The paramount chief
 
-Each tribe has its chief, the _dovaq_. The tribes stand alone. Now and then a dictator, the _orkun_, forces several of them together by the sword, and the binding he holds over them is his _orkunoq_. It lasts only as long as he lives: when the _orkun_ dies, the union dies with him and every tribe goes its own way again.
+Each tribe has its chief, the _dovaq_. The tribes stand alone. Now and then a dictator, the _orghun_, forces several of them together by the sword, and the binding he holds over them is his _orghunoq_. It lasts only as long as he lives: when the _orghun_ dies, the union dies with him and every tribe goes its own way again.
 
 ### Names
 
-| Name        | Built from         | Meaning                   |
-| ----------- | ------------------ | ------------------------- |
-| Sovidur     | _sovid_ + _-ur_    | the riders                |
-| Koduyur     | _kodu_ + _-ur_     | the horse people          |
-| Orkunoq     | _orkun_ + _-oq_    | the union an orkun forces |
-| Diqraqor    | _diqraq_ + _-or_   | the stone range           |
-| Jadakud     | _jadaq_ + _-ud_    | a raider                  |
-| Voghaltoliz | _voghal_ + _toliz_ | a man's name: wolf-spear  |
-| Tijodlun    | _tijod_ + _-lun_   | a woman's name: star      |
+| Name        | Built from         | Meaning                    |
+| ----------- | ------------------ | -------------------------- |
+| Sovidur     | _sovid_ + _-ur_    | the riders                 |
+| Koduyur     | _kodu_ + _-ur_     | the horse people           |
+| Orghunoq    | _orghun_ + _-oq_   | the union an orghun forces |
+| Diqraqor    | _diqraq_ + _-or_   | the stone range            |
+| Jadakud     | _jadaq_ + _-ud_    | a raider                   |
+| Voghaltoliz | _voghal_ + _toliz_ | a man's name: wolf-spear   |
+| Tijodlun    | _tijod_ + _-lun_   | a woman's name: star       |
 
 **A union** is named by the stem of its emblem or its country with _-oq_ or _-ok_, and a tribe by the same stem with _-ur_. **A range** takes _-or_ after what marks it: stone, grass, salt. **A man's name** is two stems with no suffix, a beast or a weather and then a weapon or a virtue; **a woman's name** is one stem with _-lun_.
 
 ## Verse
 
-Sovidur verse is sung or spoken without an instrument, and it does not rhyme. Its line has four beats. A Sovidur word of two syllables or more carries one beat, and nearly every Sovidur word has two syllables or three, so a line is four words long; a word of four syllables, such as _oroqidur_, may carry a second, lighter beat and stand for two. A sentence runs on from one line into the next wherever it needs to, and the count goes on. The craft is in return. A run of lines opens on the same words, as _sovid jorukhoz_, _sovid qozabum_ and _sovid qozabum_, "before the Rider", "under the Rider" and "under the Rider", open three sentences running in the star-song. A run of clauses keeps one frame and changes one word, as in _orolqi zökhem zevik qanaq. orolqi ghachaa zevik qanaq._, "shamans are not killed. children are not killed." A fixed phrase returns in the same words wherever the work needs it. Two forms are kept.
+Sovidur verse is sung or spoken without an instrument, and it does not rhyme. Its line has four beats. A Sovidur word of two syllables or more carries one beat, and nearly every Sovidur word has two syllables or three, so a line is four words long; a word of four syllables, such as _oroqidur_, may carry a second, lighter beat and stand for two. A sentence runs on from one line into the next wherever it needs to, and the count goes on. The craft is in return. A run of lines opens on the same words, as _sovid jorukhoz_, _sovid qozabum_ and _sovid qozabum_, "before the Rider", "under the Rider" and "under the Rider", open three sentences running in the star-song. A run of clauses keeps one frame and changes one word, as in _orolqi zökhem zevik qanash. orolqi ghachaa zevik qanash._, "shamans are not killed. children are not killed." A fixed phrase returns in the same words wherever the work needs it. Two forms are kept.
 
 - **The _koyoz_, the song**, opens each stanza on the thing the stanza is about and closes every stanza on the same two lines. In a star-song the thing is a star, named alone at the head of the stanza's first line, and the two closing lines are the song's own sentence: in the Oroqidur star-song they are _uruvol zilich qozabum jochun. zilich khacham khödir sovoz._, "the water is under us. we ride on the roof."
 - **The _oqod_, the calling**, is spoken by the eldest, and the children answer. Each wind is called in the same two lines, with only the wind and its count changed: _uruvaq volket ghozun. uruvaq yitboq._, "wind from the grass. first wind." The children's answer is a line of four beats, most often the eldest's last line said back, or a short phrase said twice, as in _zevik chikin, zevik chikin_, "not here, not here". A witnessed word quoted in a calling keeps its own words, and the children say it back whole.
@@ -7139,7 +7139,7 @@ _khilin zilir zöken_ means “you see me”.
 
 _zilir khilin zöken_ means “I see you”.
 
-The same form can describe a present, past or future act when its time is stated or understood. A time word normally begins the clause. It does not change the verb. _zorut zilir uruvol ghunir_ means “yesterday I drank water”. _chunaron zilir qavun_ means “tomorrow I go”.
+The same form can describe a present, past or future act when its time is stated or understood. A time word normally begins the clause. It does not change the verb. _zorut zilir uruvol ghunir_ means “yesterday I drank water”. _chunaron zilir qavum_ means “tomorrow I go”.
 
 A state or identity ends in _jochun_, be. _zilir semok jochun_ means “I am a guest”. _kodu yaqnar jochun_ means “the horse is big”.
 
@@ -7149,7 +7149,7 @@ A noun stays unchanged after a number. Without a number it can refer to one or s
 
 _zilir kodu qonir_ means “I have a horse”.
 
-_Zilir_ names the speaker, _khilin_ the person addressed, _qadir_ he, _qadul_ she, _qadiz_ it, _qaduch_ they and _zilich_ we. The addressee's number can remain unstated. These pronouns do not inflect the verb. An omitted subject is recovered only from a clear conversational referent; full clauses are the ordinary teaching form.
+_Zilir_ names the speaker, _khilin_ the person addressed, _qadil_ he, _qadul_ she, _qadiz_ it, _qaduch_ they and _zilich_ we. The addressee's number can remain unstated. These pronouns do not inflect the verb. An omitted subject is recovered only from a clear conversational referent; full clauses are the ordinary teaching form.
 
 Put the head before its description: _kodu yaqnar_ means “a big horse”. _kodu khizin_ means “this horse”. Separate modifiers remain separate words; they are not new compound roots.
 
@@ -7157,19 +7157,19 @@ Possession places _jiven_ after the possessor, with the possessed head first. _k
 
 A locative relation can express belonging without turning the ordinary have verb into a new case form. _kodu zilir jiven jochun_ means “the horse is mine”. The separately cited verb for belong takes the possessor as its object.
 
-Use the reflexive word for the subject's own person; it is not a new possessive suffix. _zilir qonoq zöken_ means “I see myself”. _qadul qonoq zöken_ means “she sees herself”.
+Use the reflexive word for the subject's own person; it is not a new possessive suffix. _zilir qonod zöken_ means “I see myself”. _qadul qonod zöken_ means “she sees herself”.
 
 A finite description can follow its head between _zokhun_ and _zökhen_. Repeat the head's reference with an ordinary pronoun inside that clause. _kodu zokhun zilir qadiz zöken zökhen_ means “the horse that I see”. Here _qadiz_ refers back to _kodu_. The closing word makes the end audible.
 
 ### Place, recipients and accompaniment
 
-Relation words follow their noun or pronoun. Put those groups before the final verb. _zilir khilin qotur uruvol zovad_ means “I give water to you”. _zilir kelod qotur qavun_ means “I go to the well”. _zilir ghotaz ghozun jodur_ means “I come from the tent”.
+Relation words follow their noun or pronoun. Put those groups before the final verb. _zilir khilin qotur uruvol zovad_ means “I give water to you”. _zilir kelod qotur qavum_ means “I go to the well”. _zilir ghotaz ghozun jodur_ means “I come from the tent”.
 
 _zilir ghotaz jömik jochun_ means “I am in the tent”. _qibud diqraq khödir jochun_ means “the token is on the stone”.
 
 Space and time use distinct citations. The words for spatial front, temporal before, up, high, and greater quantity are not interchangeable. Use a named reference with a spatial relation when here would leave it unclear.
 
-_Chovin_ follows a companion or accompanying object. _zilir khilin chovin qavun_ means “I go with you”. The question _jimiz qotur_ asks a recipient, and _qovar ghozun_ asks a source.
+_Chovin_ follows a companion or accompanying object. _zilir khilin chovin qavum_ means “I go with you”. The question _jimiz qotur_ asks a recipient, and _qovar ghozun_ asks a source.
 
 ### Negatives and questions
 
@@ -7177,7 +7177,7 @@ Put _zevik_ immediately before the verb or property being denied. _zilir khilin 
 
 _Chövik_ is a negative answer, not a general negator inside a clause. _Zoqur_ is an affirmative answer. _Chidir_ at the beginning asks whether the complete following proposition holds. _chidir khilin zilir zöken_ means “do you see me”.
 
-An information question leaves the questioned expression in its ordinary place and does not add _chidir_. _khilin chivil zöken_ means “what do you see”. _jimiz jodur_ means “who comes”. _khilin qovar qotur qavun_ means “where are you going”. _zömik khilin jodur_ means “when do you come”.
+An information question leaves the questioned expression in its ordinary place and does not add _chidir_. _khilin chivil zöken_ means “what do you see”. _jimiz jodur_ means “who comes”. _khilin qovar qotur qavum_ means “where are you going”. _zömik khilin jodur_ means “when do you come”.
 
 _kodu jimiz jiven jochun_ means “whose horse is it”. _kodu jodir chivil jochun_ means “how many horses are there”. _uruvol qozin chivil jochun_ means “how much water is there”.
 
@@ -7197,11 +7197,11 @@ The separate greatest and least degree words apply within the comparison set sup
 
 ### Joining, conditions and reports
 
-_Jiviz_ joins named things or complete clauses; _zovul_ offers alternatives and _khazur_ contrasts them. _zilir jodur jiviz khilin qavun_ means “I come and you go”. _kodu jiviz gured_ means “horse and camel”. Use _chüdir_ after a coordinated noun group when the next words could otherwise be mistaken for another member.
+_Jiviz_ joins named things or complete clauses; _zovul_ offers alternatives and _khazur_ contrasts them. _zilir jodur jiviz khilin qavum_ means “I come and you go”. _kodu jiviz gured_ means “horse and camel”. Use _chüdir_ after a coordinated noun group when the next words could otherwise be mistaken for another member.
 
-_Qavar_ introduces the reason after the assertion it explains. _zilir qavun qavar khilin jodur_ means “I go because you come”.
+_Qavol_ introduces the reason after the assertion it explains. _zilir qavum qavol khilin jodur_ means “I go because you come”.
 
-A condition begins with _jivun_; _qazul_ introduces its consequence. _jivun khilin jodur, qazul zilir qavun_ means “if you come, then I go”. In the fixed conjunction _jivun zevik_, the negative covers the complete following condition: _jivun zevik khilin jodur, qazul zilir qavun_ means “unless you come, I go”. The words for temporal then and conditional consequence remain distinct.
+A condition begins with _jivun_; _qazul_ introduces its consequence. _jivun khilin jodur, qazul zilir qavum_ means “if you come, then I go”. In the fixed conjunction _jivun zevik_, the negative covers the complete following condition: _jivun zevik khilin jodur, qazul zilir qavum_ means “unless you come, I go”. The words for temporal then and conditional consequence remain distinct.
 
 A reported proposition begins with _jidir_ and ends with _zökhen_, and occupies an ordinary object position. _zilir jidir khilin jodur zökhen kholiqin_ means “I know that you come”. _qaduch jidir khilin jodur zökhen javal_ means “they say that you come”. The report does not establish the reported claim as true.
 
@@ -7211,9 +7211,9 @@ _Chuzir_ marks uncertainty over the complete following clause: _chuzir khilin jo
 
 A modal follows the action, at the end of the clause. _zilir uruvol ghunir qomul_ means “I can drink water”. _zilir uruvol ghunir zevik qomul_ means “I cannot drink water”. This is ability, not permission.
 
-_khilin qavun jökir_ means “you may go”. Permission can be granted without asserting ability. The ordinary permit and prohibit verbs name the person as object when the proposed action is already under discussion.
+_khilin qavum jökir_ means “you may go”. Permission can be granted without asserting ability. The ordinary permit and prohibit verbs name the person as object when the proposed action is already under discussion.
 
-_zilir qavun zödir_ means “I must go”. _zilir zevik qavun zödir_ means “I must not go”. _zilir qavun zevik zödir_ means “I do not have to go”. Negating the action and negating the obligation have different scopes.
+_zilir qavum zödir_ means “I must go”. _zilir zevik qavum zödir_ means “I must not go”. _zilir qavum zevik zödir_ means “I do not have to go”. Negating the action and negating the obligation have different scopes.
 
 _khilin khogham jökhen_ means “you ought to sleep”. Advice does not impose the obligation expressed by _zödir_.
 
@@ -7221,7 +7221,7 @@ Possible and impossible describe whether an event can happen. Allowed and forbid
 
 ### Requests, courtesy and registers
 
-A request uses the ordinary addressee and action with no special verb ending. _khilin zekhir_ means “listen”. _khilin chikin jodur_ means “come here”. _khilin zilir qorim_ means “help me”. Add _zölik_ for please. Context distinguishes the direct request from an assertion about the addressee.
+A request uses the ordinary addressee and action with no special verb ending. _khilin zekhil_ means “listen”. _khilin chikin jodur_ means “come here”. _khilin zilir qorim_ means “help me”. Add _zölik_ for please. Context distinguishes the direct request from an assertion about the addressee.
 
 Conventional calls are cited whole. _khilin semok jochun_ means “welcome”. _zilir qakhuch qonir_ means “thank you”. _beyuk zevik jibun_ means “you are welcome”. The gift-and-debt wording is a fixed courtesy; it does not turn every emotion into an account.
 

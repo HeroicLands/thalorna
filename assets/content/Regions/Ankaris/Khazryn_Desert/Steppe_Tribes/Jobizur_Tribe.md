@@ -70,7 +70,7 @@ A circle of shamans advises the dovaq on the weather, the rites and the moving o
 
 The Jobizur grow by receiving. Three Koserur families who left in the last bad year found land, herds and a seat in the moot waiting for them, and the Jobizur are now in quiet talks with the Koserur dovaq about a protection that would end the Koserur's independence in all but name. The Sovidur write nothing, so the terms are spoken before witnesses and held in their memory, and a witnessed term is harder to break than a written one.
 
-Riders on other wells watch the pattern with unease. A tribe that takes in vassals one family at a time resembles an orkun before he has a banner, and the tribes that remember the last orkun watch an Jobizur dovaq who counts his dependents.
+Riders on other wells watch the pattern with unease. A tribe that takes in vassals one family at a time resembles an orghun before he has a banner, and the tribes that remember the last orghun watch an Jobizur dovaq who counts his dependents.
 
 ## See Also
 

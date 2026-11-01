@@ -201,7 +201,7 @@ The body is a broad, plated thorax and a segmented abdomen that curves up and ba
 
 ## In the Land
 
-Bone Scorpions live throughout the sand seas and gravel reaches of the [[place-hskrrgn|Khoshiqor]] and along the whole length of the camel road, wherever there is water and shade within a night's walk of each other. The deep wells of the road, the ruined walls of the dead cities and the stone rings of [[lore-ownedoasis|an owned oasis]] all shelter them. The tribes know the hours when a scorpion is out and keep their own camps well back from a pool; the owners of a spring lid a shaft that one lives in, and say so when asked.
+Bone Scorpions live throughout the sand seas and gravel reaches of the [[place-hskrrgn|Ghoshiqor]] and along the whole length of the camel road, wherever there is water and shade within a night's walk of each other. The deep wells of the road, the ruined walls of the dead cities and the stone rings of [[lore-ownedoasis|an owned oasis]] all shelter them. The tribes know the hours when a scorpion is out and keep their own camps well back from a pool; the owners of a spring lid a shaft that one lives in, and say so when asked.
 
 Each adult holds a range of four to six miles and walks it at night on a regular round, so a well that had a scorpion last season has one this season, and a guide who knows the road knows which side of which wall to keep off.
 

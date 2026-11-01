@@ -12,11 +12,11 @@ data:
     - name: "kedok"
       definition: "A blood-field: ground where many died at once and none received their rite"
       common: true
-    - name: "orkun"
+    - name: "orghun"
       definition: "A leader who forces many tribes together by the sword, for one lifetime"
       common: true
-    - name: "orkunoq"
-      definition: "The union an orkun forces, which breaks up on the orkun's death"
+    - name: "orghunoq"
+      definition: "The union an orghun forces, which breaks up on the orghun's death"
       common: true
     - name: "semok"
       definition: "A guest who has eaten a tribe's salt and is protected to the edge of its range"
@@ -82,13 +82,13 @@ The Sovidur raid one another, and they raid the settled marches. A raid (jadaq) 
 
 Raiding is how a young rider earns a place and how a poor tribe lives through a bad year, and it follows rules. Women, children and shamans are not killed. A well is not poisoned, because the next tribe to need it may be your own. A raid on a caravan that has paid the tribe's toll is a raid on the tribe's honor, and the tribe answers it. A raid on a caravan that has paid nobody is not a raid but a collection, and a complaint to the tribe that made it gets the caravan master nowhere.
 
-## The Orkun
+## The Orghun
 
-Now and then a leader of exceptional force rises among the tribes, a man or a woman, and forces a number of them together under a personal dictatorship. The title is orkun, and the union is an orkunoq. Three of them are remembered across the steppe as great, and the most famous of those is [[lore-hndrdbnnrs|the Storm of the Hundred Banners]]. Nobody on the steppe calls an orkun's rise a good thing.
+Now and then a leader of exceptional force rises among the tribes, a man or a woman, and forces a number of them together under a personal dictatorship. The title is orghun, and the union is an orghunoq. Three of them are remembered across the steppe as great, and the most famous of those is [[lore-hndrdbnnrs|the Storm of the Hundred Banners]]. Nobody on the steppe calls an orghun's rise a good thing.
 
-An orkun is made by force. He rides to a tribe's wells and offers its dovaq the choice of swearing under open sky or watching the wells fouled; the dovaq who swears keeps the tribe and loses the right to refuse a muster, and the dovaq who refuses is replaced by a cousin who will swear. Within a few years a hundred banners follow him, fed by the herds of the tribes he has conquered and the plunder of the settled lands. The union exists because he lives. It has no council, no heir and no law beyond his word. At Vomek the second orkun killed the tribe of a dovaq who refused, and [[lore-wemaqcalling|the Calling at Vomek]] keeps that dovaq's answer word for word, for the children to say after the elders: [_I am dovaq of three wells and the grass between them._/_I speak for the Khuvanur and for no other tribe, and no other speaks for me._/_A tribe's word binds a tribe. I have no word to give you for the steppe._/_Foul the wells. We will dig others. We refuse._]{.verse}
+An orghun is made by force. He rides to a tribe's wells and offers its dovaq the choice of swearing under open sky or watching the wells fouled; the dovaq who swears keeps the tribe and loses the right to refuse a muster, and the dovaq who refuses is replaced by a cousin who will swear. Within a few years a hundred banners follow him, fed by the herds of the tribes he has conquered and the plunder of the settled lands. The union exists because he lives. It has no council, no heir and no law beyond his word. At Vomek the second orghun killed the tribe of a dovaq who refused, and [[lore-wemaqcalling|the Calling at Vomek]] keeps that dovaq's answer word for word, for the children to say after the elders: [_I am dovaq of three wells and the grass between them._/_I speak for the Khuvanur and for no other tribe, and no other speaks for me._/_A tribe's word binds a tribe. I have no word to give you for the steppe._/_Foul the wells. We will dig others. We refuse._]{.verse}
 
-When the orkun dies, the union breaks within a season. The dovaq who swore are free, and the quarrels the orkun suppressed come due together: the feuds put aside, the herds taken, the wells seized, the captured kin still held by another tribe. A decade of war follows among the very tribes that rode as one, and the tribes that supported the orkun are blamed by those he broke. The steppe remembers the orkun as a calamity and keeps the memory deliberately, as a reason to keep its dovaq honest. Elders teach the young the names of the tribes that were erased. The banner that killed the Khuvanur laid out its own dead that night with every name said, and [[lore-wemaqcalling|the Calling]] makes its charge against it in one line: [The banner knew the custom. The banner kept the custom for its own.]{.verse}
+When the orghun dies, the union breaks within a season. The dovaq who swore are free, and the quarrels the orghun suppressed come due together: the feuds put aside, the herds taken, the wells seized, the captured kin still held by another tribe. A decade of war follows among the very tribes that rode as one, and the tribes that supported the orghun are blamed by those he broke. The steppe remembers the orghun as a calamity and keeps the memory deliberately, as a reason to keep its dovaq honest. Elders teach the young the names of the tribes that were erased. The banner that killed the Khuvanur laid out its own dead that night with every name said, and [[lore-wemaqcalling|the Calling]] makes its charge against it in one line: [The banner knew the custom. The banner kept the custom for its own.]{.verse}
 
 ## Faith
 
@@ -102,13 +102,13 @@ A shaman keeps the rites, reads the weather, heals, and speaks with the sky. [[a
 
 What the tribes hold in common they hold by heart, in a few spoken works:
 
-- [[lore-wemaqcalling|The Calling at Vomek]] holds the names of the Khuvanur, the tribe the second orkun killed at Vomek, as the Kesukur elders speak them in their own camp a day from the water and teach them to their children, with the dovaq's refusal of the banner repeated word for word.
+- [[lore-wemaqcalling|The Calling at Vomek]] holds the names of the Khuvanur, the tribe the second orghun killed at Vomek, as the Kesukur elders speak them in their own camp a day from the water and teach them to their children, with the dovaq's refusal of the banner repeated word for word.
 - [[lore-waterunder|The Buried Water]] is the Oroqidur star-song of the lake under the sand, sung at the hidden oasis on the first night of the grass to teach the children where the stars stand, and every stanza closes on the same words: [The water is under. We ride on its roof.]{.verse}
 - [[lore-roadnights|The Nights of the Road]] is a Tellumi caravan-master's tales of the crossing, and each one is a price the tribes took: what a stranger paid at their water, and what he carried out.
 
 ## What the Sovidur Get Wrong
 
-A people who cannot unite without a tyrant has no answer to a threat that is bigger than one tribe. When a settled power presses the steppe, each tribe makes its own peace, sells its neighbors' routes and hopes the cost falls elsewhere, and the loss that follows is the very thing the orkun's rise promises to cure. The Sovidur know this, and the debate about it is the oldest in the moot. Nobody has found a way to unite the tribes that does not give a man the power to destroy them.
+A people who cannot unite without a tyrant has no answer to a threat that is bigger than one tribe. When a settled power presses the steppe, each tribe makes its own peace, sells its neighbors' routes and hopes the cost falls elsewhere, and the loss that follows is the very thing the orghun's rise promises to cure. The Sovidur know this, and the debate about it is the oldest in the moot. Nobody has found a way to unite the tribes that does not give a man the power to destroy them.
 
 ## What a Person Owes
 
@@ -131,7 +131,7 @@ Nothing is owed to a tribe that is not your own, to a stranger without a sponsor
 : the bands that keep hidden water in the deep desert
 
 [[lore-hndrdbnnrs|The Storm of the Hundred Banners]]
-: the best-known orkunoq
+: the best-known orghunoq
 
 [[affiliation-ashanpnthn|Ashaian Pantheon]]
 : the twelve gods, as the steppe lays them over its older cults
