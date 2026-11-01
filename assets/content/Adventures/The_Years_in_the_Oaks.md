@@ -101,17 +101,17 @@ A witch in a forest dell sells cures at the price of years, and the years feed t
 
 **NPCs and threats.** If the witch is dead, her cat sits on the chest and watches. Haldrec Vane arrives within the day, with six warriors, to see what became of his debt.
 
-**Player choices.** Force: confront the war-chief with the cloth. Stealth: take the cloth and the chest and leave him ignorant. Guile: trade the cloth to the war-chief for the sum he owes. Parley: take it to the druids of the neighboring clans and let them judge him.
+**Player choices.** Force: confront the war-chief with the cloth. Stealth: take the cloth and the chest and leave him ignorant. Guile: trade the cloth to the war-chief for the sum he owes. Parley: take it to the shamans of the neighboring clans and let them judge him.
 
 **Clues and rewards.** The chest holds a few jars of cures, a handful of old silver, a charm against the Grukar and the witch's tally-cord, knotted for every year bought and sold. The cloth names the war-chief as the one who asked for the binding to win a feud against a rival clan. The dead have been fighting his battles for ten years.
 
-**Consequences.** A war-chief who is shown to have bound his own dead is cast out of the clan by the druids if the druids hear of it. If the cloth is sold back, he pays well and remembers. If the party keeps it, he sends warriors after it.
+**Consequences.** A war-chief who is shown to have bound his own dead is cast out of the clan by the shamans if the shamans hear of it. If the cloth is sold back, he pays well and remembers. If the party keeps it, he sends warriors after it.
 
 **If bypassed.** A party that leaves the hollow without the chest hears the story in the next steading it reaches.
 
 ## Aftermath
 
-- **If the dead are released.** The oaks die and the clan buries its dead at last. The druids hold a gathering at the stone circle in the autumn.
+- **If the dead are released.** The oaks die and the clan buries its dead at last. The shamans hold a gathering at the stone circle in the autumn.
 - **If the seam is shut with the witch alive.** She goes back into the forest and sells her years elsewhere. The hollow is quiet but not safe.
 - **If the war-chief is exposed.** The clans of the nine fords break apart, and the Grukar press the weak ones.
 - **If the party fails.** The Shadow gets out of the hollow along the roots. The trackstone paths close, and the Grukar do not come near the oaks.

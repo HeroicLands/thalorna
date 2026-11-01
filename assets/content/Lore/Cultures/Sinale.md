@@ -36,7 +36,7 @@ The date of their arrival, about 7500 BF, is held no more closely than a century
 
 ## Forest and Starlight
 
-The Sinale are tall, slender and very long-lived, so long-lived that a generation, as humans mean the word, has no meaning for them. Humans find their beauty unsettling rather than attractive: too perfect, too still, too aware. Their kinship with the living world runs deeper than any human druidic tradition. It is not worship or reverence but something nearer to family, and the forests they inhabit answer it. Paths appear and vanish, distances shift, and the light changes in ways the angle of the sun does not explain.
+The Sinale are tall, slender and very long-lived, so long-lived that a generation, as humans mean the word, has no meaning for them. Humans find their beauty unsettling rather than attractive: too perfect, too still, too aware. Their kinship with the living world runs deeper than any human tradition of the groves. It is not worship or reverence but something nearer to family, and the forests they inhabit answer it. Paths appear and vanish, distances shift, and the light changes in ways the angle of the sun does not explain.
 
 Their arts are not sorted into schools or set down in texts. The power is woven into their nature and cannot be separated from their songs, their craft and their relationship with the living world. The [[affiliation-ordoarcanis|Thordimalon]] has tried at various points to study and classify it and has failed completely. The Sinale find these attempts somewhere between amusing and insulting.
 

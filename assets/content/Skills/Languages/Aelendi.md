@@ -1214,12 +1214,12 @@ data:
     - form: lonthand
       class: n m
       field: "The fae, the thin places and the wards"
-      gloss: "a druid; one who keeps the rites of a grove"
+      gloss: "a grovekeeper; one who keeps the rites of a grove"
       built: ["lónthe-", "-and"]
     - form: lónthanda
       class: n f
       field: "The fae, the thin places and the wards"
-      gloss: "a druid, a woman"
+      gloss: "a grovekeeper, a woman"
       built: ["lónthe-", "-and", "-a"]
     - form: kithe
       class: n f

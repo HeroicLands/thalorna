@@ -452,7 +452,7 @@ Lyenna's position within the Black Flame places her under the same handler as Da
 
 Lyenna's most dangerous adversary does not yet know he is one. A young nobleman who is Kenrel's cousin, Lord [[being-heltankardet|Heltan Kardeth]], has recently returned from service abroad and has begun asking pointed questions about the circumstances of Kenrel's death. The original investigation satisfied the family at the time, but Heltan is sharper than his late cousin and has a soldier's eye for tactical details that do not add up. His inquiries are currently social rather than formal—conversations at gatherings, letters to family members who were present in the aftermath—but they have the potential to reopen a case that Lyenna considered permanently closed.
 
-The druid [[being-lanthevileha|Lánthevile]], who has been investigating Black Flame activity in the forests around Elanmere, has also made contact with Lyenna in her capacity as a council member, asking for support in pushing for a more thorough investigation than the Wardens have provided. Lyenna handled the request gracefully, expressing concern and promising to raise the matter at the next council session—a promise she has no intention of keeping, but one that has placed her in Lánthevile's line of sight.
+The grovekeeper [[being-lanthevileha|Lánthevile]], who has been investigating Black Flame activity in the forests around Elanmere, has also made contact with Lyenna in her capacity as a council member, asking for support in pushing for a more thorough investigation than the Wardens have provided. Lyenna handled the request gracefully, expressing concern and promising to raise the matter at the next council session—a promise she has no intention of keeping, but one that has placed her in Lánthevile's line of sight.
 
 ## Plot Hooks
 
@@ -462,7 +462,7 @@ The Cousin's Questions
 The Council Vote
 : A proposal has been brought before the regional council to establish an independent investigative body outside the Wardens' chain of command, in response to growing unease about unresolved incidents in the countryside. If it passes, Daran loses his monopoly on investigations and the Black Flame's entire protective apparatus is compromised. Lyenna must defeat the proposal without appearing to oppose it—a delicate piece of political maneuvering that may require sacrificing a lesser position to protect the greater one.
 
-The Druid's Persistence
+The Grovekeeper's Persistence
 : Lánthevile has grown impatient with the council's inaction on her reports and has begun approaching individual members directly, including Lyenna, with detailed evidence of ritual activity in the forests. She is becoming harder to deflect without arousing suspicion, and her findings are uncomfortably accurate. Lyenna must find a way to neutralize the inquiry—whether by co-opting it, discrediting it, or warning Daran that his people need to go quiet for a time.
 
 The Widow's Suitor

@@ -18,7 +18,7 @@ data: {packFolder: adventurersguides, culture: elavendriclt}
 
 ## What You Meet First
 
-The kingdom is a monarchy of old noble houses, and each house works to trace its descent to the Áelendan; a demonstrable claim to the old blood is worth more than acreage. The Bardic Colleges hold the kingdom's genealogies and its memory in song, and the law recognizes a satire by a bard of standing as a weapon. The [[affiliation-groveconcl|Grove Council]] of druids speaks for the groves and the rural custom, and a village heeds its grove-elder before any sheriff.
+The kingdom is a monarchy of old noble houses, and each house works to trace its descent to the Áelendan; a demonstrable claim to the old blood is worth more than acreage. The Bardic Colleges hold the kingdom's genealogies and its memory in song, and the law recognizes a satire by a bard of standing as a weapon. The [[affiliation-groveconcl|Grove Council]] of grove-elders speaks for the groves and the rural custom, and a village heeds its grove-elder before any sheriff.
 
 Expect courtesy, allusion and a great deal of patience. People leave arrangements open, decline to name a date, and choose words that read two ways, because prophecy is a living institution here and a decision may wait on a half-remembered line. Pressing for a plain answer is a rudeness, and the Colleges' sayings in [[lore-harproomqs|the Questions of the Harp-Room]] name it: [The plain answer to an open thing/is the rudest word a guest can bring.]{.verse} Power casually shown is vulgar; power precisely applied is admired.
 

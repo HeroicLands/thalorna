@@ -18,7 +18,7 @@ data:
     - name: The bard and the word
       holds: "Song and the singer, recitation and the record, memory and lore, the word and the stave, the Veldikko and the inscription."
     - name: The art and the thin places
-      holds: "Magic and its practice, the veil and the places it wears thin, spirits, the fae, wards, dreams and visions, the seer, and the druid of the grove."
+      holds: "Magic and its practice, the veil and the places it wears thin, spirits, the fae, wards, dreams and visions, the seer, and the grovekeeper."
     - name: "The Pact, the oath and the judgment"
       holds: "The Pact and the oath, the vow and the curse, the council and its judgment, outlawry and forfeit, custom, the hallowing of a place, and the keeper."
     - name: The hall and the guest
@@ -443,12 +443,12 @@ data:
     - form: lonthand
       class: n
       field: The art and the thin places
-      gloss: "a druid; one who keeps a grove's rites"
+      gloss: "a grovekeeper; one who keeps a grove's rites"
       source: {kind: borrowed, language: skill-aelendlng, form: lonthand}
     - form: lónthande
       class: n
       field: The art and the thin places
-      gloss: "a druid, a woman"
+      gloss: "a grovekeeper, a woman"
       source: {kind: borrowed, language: skill-aelendlng, form: lónthanda}
     - form: thórdima
       class: n

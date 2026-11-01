@@ -11,7 +11,7 @@ data:
   symbol: null
   governance:
     model: monarchy
-    summary: Hereditary monarchy with a powerful bardic and druidic advisory tradition.
+    summary: Hereditary monarchy with a powerful bardic tradition and the Grove Council's counsel.
     ranks:
       - level: 0
         title: Outlaw
@@ -127,7 +127,7 @@ The Kingdom of Élavendre is one of the oldest continuously governed realms in t
 
 ## Government
 
-The monarch of Élavendre rules with the counsel of two ancient institutions: [[affiliation-bardicolgs|The Bardic Colleges]] (the Bardic Circleand the [[affiliation-groveconcl|Grove Council]]. The Bardic Circle serves as the kingdom's memory and conscience—bards are historians, lawmakers, diplomats, and (when necessary) the voice of public opinion expressed in song and satire that can make or break a ruler's reputation. The Grove Council is a body of druids and wise-women who advise on matters touching the natural and supernatural worlds, which in Élavendre is nearly everything.
+The monarch of Élavendre rules with the counsel of two ancient institutions: [[affiliation-bardicolgs|The Bardic Colleges]] (the Bardic Circleand the [[affiliation-groveconcl|Grove Council]]. The Bardic Circle serves as the kingdom's memory and conscience—bards are historians, lawmakers, diplomats, and (when necessary) the voice of public opinion expressed in song and satire that can make or break a ruler's reputation. The Grove Council is a body of grove-elders and wise-women who advise on matters touching the natural and supernatural worlds, which in Élavendre is nearly everything.
 
 This system produces governance that is slow, deliberate, and deeply attuned to tradition. Decisions of consequence are debated at length, with attention to precedent, prophecy, and the counsel of [[lore-faecourts|the fae courts]]. Outsiders find it maddening; Élavendrians find it wise.
 

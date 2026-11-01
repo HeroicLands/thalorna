@@ -472,7 +472,7 @@ Within the Black Flame's hierarchy, Daran reports to a senior priest operating o
 
 The most immediate threat comes from within the system. A young Warden lieutenant named [Caelith]{.name data-type="being/npc"} has begun to notice discrepancies—investigations that go nowhere, reports that don't match what he saw on the ground, witnesses who change their stories after speaking privately with the captain. Caelith is not yet sure what he is looking at, but he is honest, stubborn, and increasingly troubled. If he takes his concerns to the Grove Council rather than up the chain of command, Daran's control over the investigation process breaks down.
 
-A druid named [[being-lanthevileha|Lánthevile]], attached to a grove near several sites of Black Flame activity, has been conducting her own quiet inquiry into the burned shrines and scorched clearings that keep appearing in the forest. She does not trust the Wardens' explanations. She has not connected this to Daran specifically, but she is thorough and has the institutional patience that he lacks.
+A grovekeeper named [[being-lanthevileha|Lánthevile]], attached to a grove near several sites of Black Flame activity, has been conducting her own quiet inquiry into the burned shrines and scorched clearings that keep appearing in the forest. She does not trust the Wardens' explanations. She has not connected this to Daran specifically, but she is thorough and has the institutional patience that he lacks.
 
 ## Plot Hooks
 
@@ -486,7 +486,7 @@ The Sellsword Company
 : A mercenary band passing through the region includes several open adherents of the Black Flame, bold enough to wear the sigil in the borderlands. Their presence is drawing exactly the kind of attention Daran cannot afford. The Grove Council expects Captain Véldarin to arrest them. His own followers expect him to recruit them. The mercenaries themselves answer to a different branch of the hierarchy and may not respect his authority.
 
 Lánthevile's Map
-: The druid Lánthevile has been quietly mapping the locations of scorched sites, unusual fires, and reported Black Flame sightings across the region. The pattern, when viewed together, points directly at the areas Daran's Wardens patrol most frequently. She has requested a meeting with the captain to share her findings and ask for his help interpreting them. He will be staring at a map of his own operations.
+: The grovekeeper Lánthevile has been quietly mapping the locations of scorched sites, unusual fires, and reported Black Flame sightings across the region. The pattern, when viewed together, points directly at the areas Daran's Wardens patrol most frequently. She has requested a meeting with the captain to share her findings and ask for his help interpreting them. He will be staring at a map of his own operations.
 
 The Reckoning Fire
 : Word arrives from the hierarchy: a senior Black Flame priest is coming to Élavendre to personally assess Daran's cell and determine whether the region is ready for escalation. The visitor expects to see strength, discipline, and a congregation prepared for open confrontation. Daran must present his people at their most impressive while preventing the visitor from doing anything reckless enough to bring the full weight of Élavendri authority down on all of them.

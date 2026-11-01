@@ -3,7 +3,7 @@ shortcode: groveconcl
 name: {full: The Grove Council, en: [The Council of Groves, The Elder Groves]}
 type: affiliation
 subType: governmental
-description: "Druidic conclave of grove-elders governing wild magic, fae-touched land, and the rural custom that predates the Thordimalon across the forests of Élavendre."
+description: "Conclave of grove-elders governing wild magic, fae-touched land, and the rural custom that predates the Thordimalon across the forests of Élavendre."
 tags: []
 data:
   culture: elavendriclt
@@ -43,7 +43,7 @@ sohl: {system: {commonSkills: []}}
 ---
 
 Type
-: Druidic conclave
+: Conclave of grove-elders
 
 Region
 : [[place-elavendre|Élavendre]], particularly the deep forests and the foothills of the [[place-drenavrspn|Drenavar Spine]]
@@ -65,7 +65,7 @@ There are nineteen seats on the Council, one per recognized great grove. Eightee
 
 Elders are chosen by their groves through long apprenticeship rather than election. A candidate is identified in childhood, often by visions or fae encounters, and trained from adolescence in herblore, ritual, the reading of weather and water, and the diplomatic protocols of dealing with fae kin. Promotion to elder happens only on the death or retreat of the prior holder, and is confirmed by the rest of the Council gathered. The process can take decades.
 
-Below the elders sit the **grovekeepers** (working clergy attached to lesser groves), the **wandering circles** (itinerant druids who serve groves without permanent staffs), and the **hedge-affiliates**—village healers, herbalists, and folk-magicians who are recognized as walking in the Council's tradition without holding any formal rank. The hedge-affiliates are the Council's eyes and ears in every Élavendren village.
+Below the elders sit the **grovekeepers** (working clergy attached to lesser groves), the **wandering circles** (itinerant grovekeepers who serve groves without permanent staffs), and the **hedge-affiliates**—village healers, herbalists, and folk-magicians who are recognized as walking in the Council's tradition without holding any formal rank. The hedge-affiliates are the Council's eyes and ears in every Élavendren village.
 
 ## Doctrine and Authority
 
@@ -77,7 +77,7 @@ The Council does not, however, make war. Enforcement is the province of the [[af
 
 ## Relations
 
-**The [[affiliation-bardicolgs|Bardic Colleges]]** are the Council's closest ally and most frequent friction. The two institutions share doctrine but compete for influence. Bardic-trained singers and grove-trained druids draw from the same fae well, and the lines between their arts blur in practice. Tension flares when the Colleges accept Order patronage for some research project, or when the Council overrides a Bardic ruling on a wild-magic question.
+**The [[affiliation-bardicolgs|Bardic Colleges]]** are the Council's closest ally and most frequent friction. The two institutions share doctrine but compete for influence. Bardic-trained singers and grove-trained keepers draw from the same fae well, and the lines between their arts blur in practice. Tension flares when the Colleges accept Order patronage for some research project, or when the Council overrides a Bardic ruling on a wild-magic question.
 
 **The [[affiliation-alndnwrdns|Áelendan Wardens]]** are the Council's sword. The relationship is mutually respectful and structurally subordinate: the Wardens patrol on Council writ, but tactical command in the field belongs to the Wardens' own captains. Disputes are rare and handled at the highest levels.
 
