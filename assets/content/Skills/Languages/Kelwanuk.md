@@ -5898,7 +5898,6 @@ data:
     - {name: Great Water, tongue: translation}
     - {name: Cedar Woman, tongue: translation}
     - {name: Welcoming, tongue: translation}
-    - {name: Ice-Coast Hunters, tongue: translation}
     - {name: kalunukwas, tongue: kelwanuk, built: [kalu, nukwas]}
     - {name: kelwakita, tongue: kelwanuk, built: [kelwa, kita]}
     - {name: melumkita, tongue: kelwanuk, built: [melum, kita]}

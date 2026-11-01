@@ -120,6 +120,8 @@ export const SOURCES = {
     "Teyumi.md": ["hopi"],
     // The word lists hold no lakota list, so a Tenlaya coinage is checked by reading.
     "Tenlaya.md": ["lakota"],
+    // The word lists hold no yupik list, so a Tikupilarit coinage is checked by reading.
+    "Tikupilarit.md": ["central-alaskan-yupik"],
     // The word lists hold no mvskoke or choctaw list, so a Tokchili coinage is checked by reading.
     "Tokchili.md": ["mvskoke", "choctaw"],
     "Tarveni.md": ["spanish", "basque"],

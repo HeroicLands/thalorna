@@ -39,7 +39,7 @@ The western bands' head at the falls is [Tashusawi]{.name data-type="being/npc"}
 
 ## The Captive
 
-This summer the Cedar People's traders have brought a captive with them to sell: a girl of about twelve from the [Shell-Bead Towns]{.name data-type="lore/culture"} of the southern coast, taken in a raid and kept as a slave in a Cedar house. They want twenty robes for her. The Grass People take captives in war and adopt them as kin, but they do not buy and sell people, and a slave is a thing they have heard of and never seen.
+This summer the Cedar People's traders have brought a captive with them to sell: a girl of about twelve from the [[affiliation-shuqash|Shell-Bead People]] of the southern coast, taken in a raid and kept as a slave in a Cedar house. They want twenty robes for her. The Grass People take captives in war and adopt them as kin, but they do not buy and sell people, and a slave is a thing they have heard of and never seen.
 
 The camp is divided. Some families want to buy her and adopt her, because a child bought out of a Cedar house is a child saved. Others say that a band that pays for a person teaches the Cedar People that the plains will pay, and that next summer the traders will bring ten. Tashusawi has not decided, and the traders are packing to go back over the passes before the snow.
 
