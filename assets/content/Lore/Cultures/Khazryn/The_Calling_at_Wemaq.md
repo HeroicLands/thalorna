@@ -26,125 +26,125 @@ The steppe holds that a soul nobody names is not found by the sky-father and is 
 : The Calling at Vomek {#calling}
 
 ::: {.verse form=oqod lang=en work=calling}
-Wind from the grass. First wind. The one arriving green./
-We are the Kesukur. These dead belong to others,/
-and we call them because the people to whom they belong/
-are dead. Take the names upward. Take them to the sky./
-We call them here on our own land, one day from the water./
-We do not call them at the water. You know the reason./
-._We know the reason._
+Wind off the grass. First wind. The one that comes green./
+We are the Kesukur, and these are not our dead,/
+and we call them, because the ones whose dead they are/
+are the dead. Take the names up. Take them where the sky is./
+We call them here, on our own ground, a day from the water./
+We do not call them at the water. You know why./
+._We know why._
 
-[Savaghlun]{.name data-type="being/npc"}, who strained milk each morning at first light,/
-and was straining it when the horns came through the palms./
-They found her cloth upon the reeds; the milk had gone into the ground./
-A man of the Khuvanur, herding the long-legged horses,/
-with forty mares by the pool and his sons among them:/
-him they did not spare, nor his sons. The mares they took./
-[Bovilun]{.name data-type="being/npc"}, nine years old, who kept the skull-pole,/
-tying the cloths that guests brought, untying them when guests departed,/
-who stood at the pole as the first riders came and did not run:/
-a child at the skull-pole does not leave it. She was at the pole./
-The Khuvanur war captain, scarred from eyebrow to beard,/
-who had killed eleven men in his life, every one in feud,/
-who drove his spear through the first banner-man to reach the pool,/
-then through the second; the third cut him down in the shallows,/
-water up to his knee. The water was sweet. It had always been sweet./
-Wind from grass, take these. There are more. There is one more/
-whom we leave unnamed under this wind. We name him last. Elsewhere./
-._Elsewhere._
+[Savaghlun]{.name data-type="being/npc"}, who strained the milk at the first light every morning,/
+and who was straining it when the horns came through the palms./
+Her cloth was found on the reed-bed, with the milk gone to the ground./
+A man of the Khuvanur, a herder of the long-legged horses,/
+who had forty mares at the pool and his sons among them,/
+and who was not spared, and his sons were not spared, and the mares were taken./
+[Bovilun]{.name data-type="being/npc"}, a girl of nine years, who kept the skull-pole,/
+who tied the cloths the guests brought, and untied them when the guests left,/
+and who was at the pole when the first riders came, and did not run,/
+because a child at the skull-pole does not leave it. She was at the pole./
+The war captain of the Khuvanur, a man with a scar from the eyebrow to the beard,/
+who had killed eleven men in his life, all of them in feud,/
+and who put his spear through the first man under the banner to reach the pool/
+and the second, and was cut down by the third, in the shallows,/
+with the water to his knee. The water was sweet. It was always sweet./
+Wind off the grass, take these. There are more. There is one more/
+whom we do not say under this wind. We say him last. Not here./
+._Not here._
 
-Wind from heat. Second wind. The one that lowers wells./
-Take these up where the sky can hear; let the sky look down/
+Wind off the heat. Second wind. The one that drops the wells./
+Take these up where the sky can hear them, and let the sky look down/
 and see a pool with no skull-pole, no well-stone, no cut palm,/
-and know whose water this was. Whose water was it?/
-._The Khuvanur's. The deer people's._/
-And to whom does it belong now?/
-._Nobody._
+and know whose water it was. Whose water was it?/
+._The Khuvanur'. The deer people's._/
+And whose is it now?/
+._Nobody's._
 
-A Khuvanur shaman, an old man blind in the left eye,/
-who read the weather for his tribe and read that spring wrongly:/
-he said the grass would be good, and good the grass was,/
-and that was not what he ought to have read. They did not spare him./
+A shaman of the Khuvanur, an old man, blind in the left eye,/
+who read the weather for the tribe and had read it wrong that spring,/
+for he said the grass would be good, and the grass was good,/
+and that was not the thing to have read. He was not spared./
 Shamans are not killed. Children are not killed. Women are not killed./
-That is raid custom. This was no raid. We call it what it was./
-._This was no raid._/
-[Voyerlun]{.name data-type="being/npc"}, the dovaq's second wife, carrying a child,/
-found in the grass with her hands over the child beneath her heart,/
-who is one name; the child is no name. We call the one./
-A Khuvanur boy, fifteen, with his first spear that year/
-and his first horse, a gray, who rode the gray at the banner line/
-alone: the men were in the shallows, he was on the dune./
-The song does not say he reached them. He did not reach them./
-Three women of one tent, sisters, sharing the same voice,/
-so that in darkness the Khuvanur could not tell them apart/
-and did not try. They called all three one name. We use it: the sisters./
-A man who kept the Khuvanur tokens, cord and clay bearing the cut deer,/
-who, seeing how this would end, threw the tokens into the pool,/
-so that nobody coming afterward could carry the deer people's word/
-and sell it. They lie in the pool. The pool is sweet. Nobody draws them out./
-Wind from heat, take these. One more remains/
-whom we leave unnamed under this wind. Elsewhere./
-._Elsewhere._
+That is the custom of a raid. It was not a raid. We say what it was./
+._It was not a raid._/
+[Voyerlun]{.name data-type="being/npc"}, who was the dovaq's second wife, who was carrying,/
+and who was found in the grass with her hands over the child under her heart,/
+and who is one name, and the child is no name, and we call the one./
+A boy of the Khuvanur, fifteen, who had his first spear that year/
+and his first horse, a gray, and who rode the gray at the line of banners/
+alone, because the men were in the shallows and he was on the dune,/
+and the song does not say he reached them, because he did not reach them./
+Three women of one tent, sisters, who had the same voice,/
+so that the Khuvanur could not tell them apart in the dark/
+and did not try, and called all three by one name, and we call them by it: the sisters./
+A man who kept the Khuvanur' tokens, the cord and the clay with the deer cut in it,/
+and who threw the tokens in the pool when he saw how it would go,/
+so that nobody who came after could carry the deer people's word/
+and sell it. They are in the pool. The pool is sweet. Nobody draws them up./
+Wind off the heat, take these. There is one more/
+whom we do not say under this wind. Not here./
+._Not here._
 
-Wind from stone. Third wind. The one holding the gold-grass season,/
-bringing markets, caravans, men who buy and sell./
-Take these upward. Go through Qiiso on your way; pass above the heads/
-of every dovaq at the moot, every rider at the well,/
-every tribe selling a stretch of road and taking its price./
-Let them feel your passing. We are among them. Let us feel your passing./
+Wind off the stone. Third wind. The one with the autumn in it,/
+that brings the markets and the caravans and the men who buy and sell./
+Take these up, and go by Qiiso on the way, and go over the heads/
+of every dovaq at the moot, of every rider at the well,/
+of every tribe that sells a stretch of road and takes its price,/
+and let them feel you go. We are one of them. Let us feel you go./
 ._Let us feel it._
 
-The dovaq's mother, a woman of great age, carried in a litter/
-between two camels, carried this way for twenty years,/
-who, when the horns sounded, had them set the litter at the pool's edge,/
-sat upright and watched, as her son was later forced to watch./
-A Khuvanur bowyer, making a bow when the horns came,/
-who finished the bow, says the song: it was almost finished./
-He strung it, shot it twice. It was a good bow. They found it in the grass./
-A woman of another tribe, guest of the Khuvanur that spring,/
-whose salt she had eaten. That morning, therefore, she was Khuvanur/
-by custom, and died by custom, while her own tribe/
-rode under the banner, and her own brother rode among them./
-We call her with the Khuvanur. Her brother's tribe may call her as they please./
-._As they please._/
-The dovaq's three sons. The eldest held the pool-side. The second/
-held the dune. The youngest, eleven years old, held the horses,/
-and held them, the song says, until no men remained to ride them./
-Then he released them so the banner would not have them. The mares ran,/
-and were caught. From there came the long-legged horses of the second union./
+The dovaq's mother, a woman of great age, who was carried in a litter/
+between two camels and had been carried so for twenty years,/
+and who, when the horns came, had the litter set down at the pool's edge,/
+and sat up in it, and watched, as her son was afterward made to watch./
+A man of the Khuvanur, a bowyer, who was making a bow when the horns came/
+and finished the bow, the song says, because it was nearly done,/
+and strung it, and shot it twice, and it was a good bow. It was found in the grass./
+A woman who was a guest of the Khuvanur that spring, of another tribe,/
+whose salt she had eaten, and who was therefore of the Khuvanur that morning/
+under the custom, and died under the custom, and whose own tribe/
+rode under the banner, and whose own brother was among the riders./
+We call her with the Khuvanur. Her brother's tribe can call her how they like./
+._How they like._/
+The dovaq's three sons. The eldest, who held the pool-side. The second,/
+who held the dune. The youngest, who was eleven, and held the horses,/
+and held them, the song says, until there were no men left to ride them,/
+and then let them go, so that the banner would not have them, and the mares ran,/
+and were caught, and that is where the long-legged horses of the second union came from./
 Some of them. The mares at Vomek. Say it./
 ._The mares at Vomek._/
-Wind from stone, take these. One more remains/
-whom we leave unnamed under this wind. Elsewhere./
-._Elsewhere._
+Wind off the stone, take these. There is one more/
+whom we do not say under this wind. Not here./
+._Not here._
 
-Wind from cold. Fourth wind. The one that closes the road./
-Take these upward. Go slowly: nothing awaits them/
-at the water except grass, and grass does not hurry./
-Since that spring it has never stood below the knee. The palms bear fruit twice./
-Seeds thrown from the saddle at dusk are green by morning./
-Everything grows at Vomek. This is what the four thousand are doing there./
-._This is what they are doing._
+Wind off the cold. Fourth wind. The one that closes the road./
+Take these up and do not hurry, because there is nothing waiting for them/
+at the water but grass, and the grass does not hurry./
+It has not been less than knee-high since that spring. The palms fruit twice./
+Seeds thrown from the saddle at dusk are green by the morning./
+Everything grows at Vomek. That is what the four thousand are doing there./
+._That is what they are doing._
 
-Those whose names the elders hold, beyond the reach of this calling:/
-the herders, the children at the milk, the old men in the tents' shade,/
-the smith, the two dog-keepers, the woman who knew camels' sicknesses,/
-the twins born that winter, the man owing the dovaq nine horses, who meant to pay,/
-every one. We hold them. We speak them in camp, in the cold, once children are old enough/
+The ones whose names the elders hold and this calling does not reach:/
+the herders, the children at the milk, the old men at the shade-side of the tents,/
+the smith, the two who kept the dogs, the woman who knew the sicknesses of camels,/
+the twins born that winter, the man who owed the dovaq nine horses and would have paid,/
+all of them. We hold them. We say them in the camp, in the cold, when the children are grown enough/
 to hold them after us. We have held them under four winds for four hundred years./
 ._Four hundred years._/
-And the banner's dead? That night the banner's shamans laid out the banner's dead,/
-their faces toward the sky, each name spoken./
+And the banner's dead? The banner's dead were laid out that night by the banner's shamans,/
+with their faces to the sky and their names said, every one./
 The banner knew the custom. The banner kept the custom for its own./
-This is the thing. This is the whole thing. Say it./
+That is the thing. That is the whole of the thing. Say it./
 ._The banner kept the custom for its own._/
-Wind from cold, take these. One more remains./
-Now we name him. Away from the water. Here.
+Wind off the cold, take these. There is one more./
+Now we say him. Not at the water. Here.
 
 Gorentoliz. Storm-spear. Dovaq of the Khuvanur./
-At the pool, before the sworn tribes, with banners among the palms,/
-the one we leave unnamed asked him to swear under open sky./
-He spoke this. We speak it as he spoke it. You will speak it after:/
+He was asked at the pool, before the sworn tribes, with the banners in the palms,/
+by the one we do not name, to swear under the open sky./
+And he said this, and we say it as he said it, and you will say it after:/
 _I am dovaq of three wells and the grass between them._/
 _I speak for the Khuvanur and for no other tribe, and no other speaks for me._/
 _A tribe's word binds a tribe. I have no word to give you for the steppe._/
@@ -153,25 +153,25 @@ _Foul the wells. We will dig others. We refuse._/
 ._I speak for the Khuvanur and for no other tribe, and no other speaks for me._/
 ._A tribe's word binds a tribe. I have no word to give you for the steppe._/
 ._Foul the wells. We will dig others. We refuse._/
-And the one we leave unnamed did not foul the wells./
-The one we leave unnamed killed the Khuvanur in one morning,/
-had Gorentoliz held beside the pool, his face toward it,/
-and forced him to watch. When they had finished, they released him/
-on foot, without a horse, water, token or tribe./
-He walked a day to our wells, a day away. We took him in./
-He had eaten our salt before. Again he ate it. He was our guest./
-He did not speak. Three days he sat at the fire, saying nothing./
-On day four he said the names. All of them. Dawn to the following dawn./
-We held them as he spoke. Then he went out to our laying-out ground/
-and lay down, face toward the sky. There he remains./
-We spoke his name to the four winds: he had died of names alone,/
+And the one we do not name did not foul the wells./
+The one we do not name killed the Khuvanur over a morning/
+and had Gorentoliz held at the pool's edge with his face toward it/
+and made him watch, and when it was done, let him go,/
+on foot, with no horse, no water, no token and no tribe,/
+and he walked a day to our wells, which were a day away, and we took him in./
+He had eaten our salt before. He ate it again. He was our guest./
+He did not speak. He sat at the fire for three days and did not speak./
+On the fourth day he said the names. All of them. It took from dawn to the next dawn./
+We held them as he said them. Then he went out to our laying-out ground/
+and lay down with his face to the sky, and that is where he is,/
+and we said his name to the four winds, because he died of nothing but the names,/
 and a man who dies of nothing is laid out like any man./
-Gorentoliz. Storm-spear. Taken upward. Say it./
-._Gorentoliz. Storm-spear. Taken upward._
+Gorentoliz. Storm-spear. Taken up. Say it./
+._Gorentoliz. Storm-spear. Taken up._
 
-Now this is the elders of Kesukur's witnessed word,/
+Now this is the witnessed word of the elders of the Kesukur,/
 spoken at the central well before the moot, in the first year of the [[lore-hndrdbnnrs|Hundred Banners]],/
-spoken since by each eldest, in these words, beneath open sky:/
+and spoken again by every eldest since, in these words, under the open sky:/
 _We hold the names of the Khuvanur. We say them in our camp._/
 _We do not say them at the water, because the water lies on the road,_/
 _and a name said at the water names the banner before every tribe on the road,_/
@@ -180,177 +180,434 @@ _When a tribe will stand with us at the pool and say them, we will say them._/
 _Until then, we hold them, and we are ashamed, and we say so, and we hold them._/
 ._We hold them._
 
-That is the calling. That is all of it spoken here./
-The pool is a day's ride. Dates hang on the palm. Do not eat them./
-Do not sleep where the trees are visible. Fill your skins by day and go./
-Your dream there is what we have just told you, and you will not wake from it./
-We told you so that you would know what the dream is./
-We told you for a price. The price is paid. This too is the custom./
-._This too is the custom._
+That is the calling. That is all of it that is said here./
+The pool is a day's ride. The dates are on the palm. Do not eat them./
+Do not sleep in sight of the trees. Fill your skins by day and go./
+What you dream there is what we have just told you, and you will not wake from it./
+We have told you so that you will know what the dream is./
+We have told you for a price, and the price is paid, and that is the custom too./
+._That is the custom too._
 :::
 
-::: {.verse form=oqod lang=sovi work=calling}
-Uruvaq volket ghozun. Uruvaq yitboq. Qadiz ghaniyush jodur./
-Zilich Kesukur jochun. khizich vomek zilich jiven zevik jochun,/
-jiviz zilich qaduch ghutar, qavar orolqi zokhun vomek khizich qaduch jiven jochun zökhen/
-vomek jochun. Khilin jilin zubosh qotim. Khilin qaduch evur qotur qotim./
-Zilich qaduch chikin ghutar, juvutul zilich jiven khödir, uruvol ghozun yodvir zidun./
-Zilich qaduch uruvol zökir zevik ghutar. Khilin qavud kholiqin./
-.Zilich qavud kholiqin.
+::: {.verse form=oqod lang=sovi work=calling scan=tetrameter}
+uruvaq volket ghozun. uruvaq/
+yitboq. qadiz ghaniyush jodur./
+zilich kesukur jochun. khizich/
+vomek zilich jiven zevik/
+jochun, jiviz zilich qaduch/
+ghutar, qavar jobiz vomek/
+jiven qovighit vomek jochun./
+khilin jilin zubosh qotim‼/
+khilin evur qotur qotim‼/
+zilich qaduch chikin ghutar,/
+juvutul zilich jiven khödir,/
+uruvol ghozun yodvir zidun./
+uruvol zökir zevik ghutar./
+khilin zöker qavud kholiqin./
+.zilich zöker qavud kholiqin.
 
-[Savaghlun]{.name data-type="being/npc"}, zokhun ghunoq zanim juqom ghuyuz qadul voyer chövem zökhen,/
-jiviz ghosun zöret zughish jodur ghanim qadul qadiz chövem./
-Orolqi vilaq qadul jiven khözen khödir jeyes. voyer jonkhiq qotur qavun./
-Qovikh Khuvanur jiven, kodu jetökör ghuzoch jiven jiven mirjol jalud qovikh,/
-zokhun qadir qonar qozur shokhun jozul zökir qonir, boyad qonoq jiven qaduch khovuq zökhen,/
-qaduch qadir zevik zöder, boyad qadir jiven zevik zöder. qaduch qonar qotim./
-[Bovilun]{.name data-type="being/npc"}, zonazin zaqin ghodil jiven, zokhun qadul khamaqjivoq jalud zökhen,/
-zokhun qadul vilaq zokhun semok qaduch jeböd zökhen jotok, semok khoqoz ghanim qaduch jozon zökhen,/
-jiviz sovid yitboq jodur ghanim qadul jivoq zökir jochun, zevik khötünür,/
-qavar ghachaa khamaqjivoq zökir qadiz zevik khoqoz. Qadul jivoq zökir jochun./
-Qozat Khuvanur jiven, qovikh chezek jelüdchaqur ghozun josaqchaqur qotur chovin,/
-zokhun jomod qonoq jiven ghuyuz qadir qovikh qozur jiviz zidun qanaq, qaduch jorun bodva jömik zökhen,/
-jiviz zokhun qadir toliz qonoq jiven qovikh yitboq biiloq qozabum zokhun qadir jozul qotur züyön zökhen zughish qodol zökhen,/
-jiviz jilar chovur, jiviz jilar qazin qadir qanaq, uruvol chonotoz jömik,/
-uruvol zokhaz qadir jiven ghunolil. Uruvol ghonor jochun. Qadiz ghochikh ghonor jochun./
-Uruvaq volket ghozun, khilin khizich qotim. Qazod ghukhod. Zidun qazod ghukhod,/
-zokhun zilich qadir uruvaq khizin qozabum zevik khazil zökhen. Zilich qadir qoqam khazil. Chikin zevik./
-.Chikin zevik.
+savaghlun, zokhun ghunoq zanim/
+juqom ghuyuz qadul voyer/
+chövem zökhen, jiviz ghosun/
+zöret zughish jodur ghanim/
+qadiz chövem. vilaq qadul/
+jiven khözen khödir jochun,/
+voyer jonkhiq qotur qavun./
+qovikh khuvanur jiven, mirjolud/
+kodu jetökör ghuzoch jiven,/
+zokhun qadir jozul zökir,/
+boyad qonoq jiven chovin,/
+qonar qozur shokhun qonir/
+zökhen. qaduch qadir zevik/
+zöder, boyad qadir jiven/
+zevik zöder, qonar qotim./
+bovilun, zonazin zaqin ghodil,/
+zokhun qadul khamaqjivoq jalud,/
+vilaq semok jiven jotok,/
+semok khoqoz ghanim jozon,/
+jiviz sovid yitboq jodur/
+ghanim jivoq zökir jochun,/
+jiviz zevik khötünür zökhen,/
+qavar ghachaa khamaqjivoq/
+zökir qadiz zevik khoqoz./
+qadul jivoq zökir jochun./
+qozat khuvanur jiven, qovikh/
+chezek chovin jelüdchaqur ghozun/
+josaqchaqur qotur. qadir jomod/
+qonoq jiven ghuyuz qovikh/
+qozur jiviz zidun qanaq,/
+qaduch jorun bodva jömik./
+qadir toliz qonoq jiven/
+qovikh yitboq biiloq qozabum,/
+zokhun qadir jozul qotur/
+züyön zökhen, zughish qodol,/
+jiviz jilar chovur zughish./
+qovikh jilar qazin qadir/
+uruvol chonotoz jömik qanaq,/
+zokhaz ghunolil uruvol chovin./
+uruvol ghonor jochun, ghonor./
+qadiz ghochikh ghonor jochun./
+uruvaq volket ghozun, khilin/
+khizich qotim‼ qazod ghukhod./
+zidun qazod ghukhod, zokhun/
+zilich qadir uruvaq khizin/
+qozabum zevik javal zökhen./
+zilich qadir qoqam javal./
+zevik chikin, zevik chikin./
+.zevik chikin, zevik chikin.
 
-Uruvaq orqaz ghozun. Uruvaq jilar chovur. Qadiz kelod jaziy khonid./
-Khilin khizich zubosh qotim, evur qaduch chömel qomul chadash qotur, khilin evur jaziy chödir zughuqat,/
-jiviz jozul khamaqjivoq khenech kelod diqraq khenech zöret chöze khenech chovin zöken,/
-jiviz uruvol jimiz jiven jochun kholiqin. Uruvol jimiz jiven jochun./
-.Khuvanur jiven. Orolqi khuvan jiven jiven./
-Jiviz zusar qadiz jimiz jiven jochun./
-.Zudom jiven.
+uruvaq orqaz ghozun. uruvaq/
+jilar chovur. qadiz kelod/
+chonotoz qazodir. khilin khizich/
+zubosh qotim‼ evur qaduch/
+chömel zodin. evur, khilin/
+jaziy chödir‼ jozul khamaqjivoq/
+khenech, diqraq kelod khenech,/
+zöretchöze khenech chovin zöken‼/
+jiviz uruvol jimiz jiven/
+jochun kholiqin‼ jimiz jiven?/
+.khuvanur jiven. khuvanur jiven./
+jiviz zusar jimiz jiven?/
+.zudom jiven, zudom jiven.
 
-Zökhem Khuvanur jiven, qovikh jögish, jelüd züziyüt chunikh,/
-zokhun qadir goren soqir zodin qozon, volket zazim qazun qadiz jügülech qozon zökhen,/
-qavar qadir jidir volket jilod jochun zökhen javal, volket jilod jochun,/
-jiviz ghozuch qazun ghozuch zokhun qadir qadiz qozon jökhen zökhen zevik jochun. Qaduch qadir zevik zöder./
-Orolqi zökhem zevik qanaq. Orolqi ghachaa zevik qanaq. Orolqi khügibil zevik qanaq./
-Qazun zachoq jadaq jiven jochun. Khizin jadaq zevik jochun. Zilich qadiz zokhun qadiz jochun zökhen khazil./
-.Khizin jadaq zevik jochun./
-[Voyerlun]{.name data-type="being/npc"}, zokhun qadul chökhes jilar chovur dovaq jiven jochun, chomaz jochun zökhen,/
-zokhun orolqi qadul volket jömik jeyes, züzin qadul jiven ghachaa khatokh qadul jiven qozabum khödir zökhen,/
-jiviz qadul jilin zidun jochun, ghachaa jilin khenech jochun. zilich zidun ghutar./
-Chutakh Khuvanur jiven, zaqin qozur jiviz jumaq, zokhun zaqin qazun qadir toliz yitboq qonir zökhen,/
-jiviz kodu yitboq qonoq jiven, chelölöl, zokhun qadir kodu chelölöl biiloq zövet qotur qolaz zökhen,/
-qadir ghuchon, qavar qovikh uruvol chonotoz jömik jochun, qadir joghur khödir jochun,/
-jiviz koyoz jidir qadir qaduch züyön zökhen zevik javal, qavar qadir qaduch zevik züyön./
-Khügibil qazin ghotaz zidun jiven, zetöküs, zokhun qaduch jüyech chüyözükh qonir zökhen,/
-zayoch numaq ghuyuz Khuvanur qaduch khübir kholiqin zevik qomul,/
-jiviz zevik khuqay. qaduch qazin jilin zidun chovin ghutar, zilich qaduch qadiz chovin ghutar, zetöküs./
-Qovikh zokhun qadir qibud Khuvanur jiven jalud zökhen, qoqit jiviz zabakh khuvan chöze chovin,/
-zokhun qadir khizin jiven joyut zöken ghanim qibud jozul jömik zozum zökhen,/
-zodin zudom zokhun qadir zömem jodur zökhen yemok orolqi khuvan jiven qomat qomul/
-jiviz qadiz zubiz qomul. Qaduch jozul jömik jochun. Jozul ghonor jochun. Zudom qaduch zubosh zutokh./
-Uruvaq orqaz ghozun, khilin khizich qotim. Zidun qazod ghukhod,/
-zokhun zilich qadir uruvaq khizin qozabum zevik khazil zökhen. Chikin zevik./
-.Chikin zevik.
+zökhem khuvanur jiven, qovikh/
+jögish, jelüd züziyüt chunikh,/
+zokhun qadir soqir zodin/
+evur ghudan zökhen, jiviz/
+zazim volket qazun ghuyuz/
+qadiz jügülech ghudan, qavar/
+qadir jidir volket jilod/
+jochun zökhen javal, jiviz/
+volket jilod jochun, khazur/
+khizin quchich zevik jochun./
+qaduch qadir zevik zöder./
+orolqi zökhem zevik qanaq./
+orolqi ghachaa zevik qanaq./
+orolqi khügibil zevik qanaq./
+qazun zachoq jadaq jochun./
+khizin jadaq zevik jochun./
+zilich qadiz qusil javal./
+.khizin jadaq zevik jochun./
+voyerlun, chökhes jilar chovur/
+dovaq jiven, chomaz khügibil./
+qadul volket jömik khekhül,/
+züzin qadul jiven ghachaa/
+khanalod jochun, ghachaa khatokh/
+qadul jiven qozabum jochun./
+qadul jilin zidun jochun,/
+ghachaa jilin khenech jochun./
+zilich jilin zidun ghutar./
+chutakh khuvanur jiven, zaqin/
+qozur jiviz jumaq. zaqin/
+qazun ghuyuz qadir toliz/
+yitboq qonir, kodu yitboq,/
+kodu chelölöl. qadir ghuchon/
+kodu chelölöl chovin zövet/
+biiloq qotur sovoz, qavar/
+qovikh uruvol chonotoz jömik/
+jochun, qadir joghur khödir./
+koyoz jidir qadir qaduch/
+züyön zökhen zevik javal,/
+qavar qadir zevik züyön./
+khügibil qazin ghotaz zidun/
+jiven, zetöküs, jüyech chüyözükh/
+chovin. khuvanur numaq ghuyuz/
+qaduch khübir kholiqin zevik/
+qomul, jiviz zevik khuqay./
+qaduch qazin jilin zidun/
+chovin ghutar, jiviz zilich/
+qaduch qovighit ghutar, «zetöküs.»/
+qovikh zokhun qadir qibud/
+khuvanur jiven jalud zökhen,/
+qoqit jiviz zabakh khuvan/
+chovin. joyut zöken ghanim/
+qadir qibud jozul jömik/
+zozum, zodin zudom zokhun/
+qadir zömem jodur zökhen/
+yemok khuvanur jiven qomat/
+jiviz qadiz zubiz qomul./
+qaduch jozul jömik jochun./
+jozul zusar ghonor jochun./
+zudom qaduch zubosh zutokh./
+uruvaq orqaz ghozun, khilin/
+khizich qotim‼ zidun qazod/
+ghukhod, zokhun zilich qadir/
+uruvaq khizin qozabum zevik/
+javal zökhen. zevik chikin./
+.zevik chikin, zevik chikin.
 
-Uruvaq diqraq ghozun. Uruvaq jilar qazin. Qadiz volket khaaqid jiven zazim qonoq jömik qonir,/
-zokhun qadiz yadqit jiviz qozud jiviz qovikh cholis jiviz zubiz jeböd zökhen./
-Khilin khizich zubosh qotim. jedor khödir Qiiso zughish qavun, jiviz junosh khanalod qavun,/
-zokhir dovaq juchon zökir, zokhir sovid kelod zökir,/
-zokhir soqir zokhun qadiz jedor choboch zubiz jiviz qiiso qadiz jiven qotim zökhen,/
-jiviz khilin qaduch khilin qavun chayokh zughuqat. Zilich qaduch khovuq jochun. Khilin zilich khilin qavun chayokh zughuqat./
-.Zilich qadiz chayokh zughuqat.
+uruvaq diqraq ghozun. uruvaq/
+jilar qazin. qadiz zazim/
+uruvaq jeböd, yadqit, qozud,/
+qovikh zokhun qaduch cholis/
+jiviz zubiz zökhen. khilin/
+khizich zubosh qotim‼ jedor/
+khödir qiiso zughish qavun‼/
+dovaq zokhir juchon zökir,/
+sovid zokhir kelod zökir,/
+soqir zokhir zokhun qadiz/
+jedor choboch zubiz jiviz/
+qiiso qadiz jiven qotim/
+zökhen, qaduch khanalod qavun‼/
+qaduch khilin chayokh zodin./
+zilich qaduch khovuq jochun./
+zilich khilin chayokh zodin./
+.zilich khilin chayokh zodin.
 
-Ekon dovaq jiven, khügibil jögish qomoch, zokhun orolqi qadul jönek jömik qomat zökhen,/
-gured chovur choyad, zaqin qozur chovur qaduch qadul khizin chübish qomat,/
-jiviz ghosun jodur ghanim qadul jönek jozul khübüsh zökir jaziy qodol javal,/
-jiviz qadul qadiz jömik zubosh ghusid, zenökh, boyad qadul jiven zömem zenökh zunadim zuruch chübish./
-Qovikh Khuvanur jiven, ghakhiq qazodir qovikh, ghosun jodur ghanim qadir ghakhiq qazodir,/
-jiviz qadir ghakhiq züyid qazodir, koyoz javal, qavar qadiz jölön züyid jochun,/
-jiviz qadiz qoqit chovin jotok, kuuyo qadiz chovin juyatud zozum. qadiz ghakhiq jilod jochun. Orolqi qadiz volket jömik jeyes./
-Khügibil zokhun volket zazim qazun qadul semok Khuvanur jiven jochun zökhen, soqir zulod jiven,/
-zokhun qadul yolaq qaduch jiven qazim zökhen. zayoch ghunoq qazun qadul Khuvanur jiven jochun,/
-zachoq qozabum, jiviz zachoq qozabum zödösh, soqir qonoq jiven/
-biiloq qozabum kodu chovin qavun, jiviz jakhakh qonoq jiven sovid khovuq jochun./
-Zilich qadul Khuvanur chovin ghutar. Soqir jakhakh qadul jiven jiven qadul qonoq khüket chirim ghutar jökir./
-.Qaduch khüket chirim./
-Boyad qazin dovaq jiven. Jögish qazom jozul khübüsh khuchar. Jilar chovur/
-joghur khuchar. Joghatar qazom, zokhun qadir zaqin qozur jiviz zidun qonir zökhen, kodu jalud,/
-jiviz qaduch jalud, koyoz javal, qovikh kodu chovin qavun zodin khenech ghachomum ghunolil,/
-jalivas qadir qaduch khoqoz, zodin biiloq qaduch zevik qonir. qonar khötünür,/
-jiviz orolqi qaduch jüvekh. kodu jetökör ghuzoch orkunoq jilar chovur jiven qoduyuz ghozun jodur./
-Chotar qaduch jiven. Qonar Vomek zökir. Khilin khizin javal./
-.Qonar Vomek zökir./
-Uruvaq diqraq ghozun, khilin khizich qotim. Zidun qazod ghukhod,/
-zokhun zilich qadir uruvaq khizin qozabum zevik khazil zökhen. Chikin zevik./
-.Chikin zevik.
+ekon dovaq jiven, khügibil/
+jögish qomoch, zokhun orolqi/
+qadul jönek jömik qomat/
+zökhen, gured chovur choyad,/
+zaqin qozur chovur ghuyuz./
+ghosun jodur ghanim, qadul/
+javal, «khilin jönek chüvel/
+jozul jiven khödir qodol‼»/
+qadul zubosh ghusid jiviz/
+zenökh, boyad qadul jiven/
+zömem zenökh zödir chübish./
+qovikh khuvanur jiven, ghakhikud,/
+zokhun ghosun jodur ghanim/
+qadir ghakhiq qazodir zökhen,/
+jiviz qadir ghakhiq züyid/
+qazodir, koyoz javal, qavar/
+qadiz jölön züyid jochun,/
+jiviz qadiz qoqit chovin/
+jotok, jiviz juyatud ghuzaq./
+ghakhiq jilod jochun. orolqi/
+qadiz volket jömik jeyes./
+khügibil soqir zulod jiven,/
+zokhun zazim volket qazun/
+ghuyuz qadul semok khuvanur/
+jiven jochun zökhen, qadul/
+yolaq qaduch jiven qazim./
+zayoch ghunoq qazun qadul/
+khuvanur jiven jochun, zachoq/
+qozabum, jiviz zachoq qozabum/
+zödösh, khazur soqir qadul/
+jiven biiloq qozabum sovoz,/
+jiviz jakhakh qadul jiven/
+sovid khovuq jochun. zilich/
+qadul khuvanur chovin ghutar./
+soqir jakhakh qadul jiven/
+khüket züser ghutar jökir./
+.khüket züser ghutar jökir./
+boyad qazin dovaq jiven./
+jögish qazom jozul khübüsh/
+khuchar. jilar chovur joghur/
+khuchar. joghatar qazom, zaqin/
+qozur jiviz zidun, kodu/
+jalud, jiviz jalud, koyoz/
+javal, qovikh sovoz zodin/
+khenech ghachomum ghunolil. jalivas/
+qadir qaduch khoqoz, zodin/
+biiloq qaduch zevik qonir./
+qonar khötünür, jiviz orolqi/
+qaduch jüvekh. kodu jetökör/
+ghuzoch orkunoq jilar chovur/
+jiven qoduyuz ghozun jodur./
+kodu chotar. qonar vomek/
+zökir. khilin khizin javal‼/
+.qonar, qonar vomek zökir./
+uruvaq diqraq ghozun, khilin/
+khizich qotim‼ zidun qazod/
+ghukhod, zokhun zilich qadir/
+uruvaq khizin qozabum zevik/
+javal zökhen. zevik chikin./
+.zevik chikin, zevik chikin.
 
-Uruvaq votri ghozun. Uruvaq jilar shokhun. Qadiz jedor ghoquq./
-Khilin khizich zubosh qotim, qolun zevik qavun, qavar khenech qaduch khuzir,/
-uruvol zökir volket jüzövey, volket qolun zevik qavun./
-Volket zazim qazun züyedüy qadiz zokhaz ghozir chonotoz qazod züyüy jochun. Zöret qokhot juyatud qonir./
-Zumut zokhun ataz sovid qaduch zudol ghozun zozum zökhen ghunoq ghaniyush jochun./
-Jüchekh Vomek zökir kheyey. Khizin orolqi gholun shokhun qoduyuz chomur jochun./
-.Khizin qaduch chomur jochun.
+uruvaq votri ghozun. uruvaq/
+jilar shokhun. qadiz jedor/
+ghoquq. khilin khizich zubosh/
+qotim‼ qolun zevik qavun‼/
+qavar uruvol zökir volket/
+ghuchon qaduch khuzir, jiviz/
+volket qolun zevik qavun./
+zazim volket qazun züyedüy/
+volket zokhaz ghozir chonotoz/
+qazod zevik jochun. zöret/
+qokhot juyatud qonir. zumut/
+zokhun ataz ghuyuz sovid/
+qadiz zudol ghozun zozum/
+zökhen ghunoq ghuyuz ghaniyush/
+jochun. jüchekh vomek zökir/
+kheyey. orolqi gholun shokhun/
+qoduyuz zusar khizin chomur./
+.qaduch zusar khizin chomur.
 
-Qazuch zokhun todva jilin qaduch jiven jalud, oqod khizin qaduch zevik züyön zökhen,/
-mirjol jalud orolqi, ghachaa voyer zökir, qovikh jögish ghotaz khilod chovom zökir,/
-züyüch qazodir qovikh, chovur zokhun qaduch yovaq jalud zökhen, khügibil zokhun qadul jalus gured jiven kholiqin zökhen,/
-ghachaa chovur zokhun votri qazun ghuyuz ekon qaduch zudukh zokham zökhen, qovikh zokhun qadir dovaq qotur kodu ghodil jiven jibun qonir jiviz jivun qadir chüvekhez ghachomum qazul qadir qojom zökhen,/
-qaduch jorun. Zilich qaduch jalud. Zilich qaduch oroqid jömik javal, votri ghuyuz, ghachaa jögish khöred zuruch ghanim,/
-zodin qaduch zilich zömem qaduch jalud qomul. Zilich qaduch uruvaq shokhun qozabum zaqin jodun shokhun jalud./
-.Zaqin jodun shokhun./
-Jiviz vomek biiloq jiven. Numaq qazun zökhem biiloq jiven vomek biiloq jiven yeloz khödir qodol,/
-khozul qaduch jiven evur qotur, jilin qaduch jiven javal, zanim./
-Biiloq zachoq kholiqin. Biiloq zachoq orolqi qonoq jiven zodin jalud./
-Khizin ghozuch jochun. Khizin ghozuch khobud jochun. Khilin khizin javal./
-.Biiloq zachoq orolqi qonoq jiven zodin jalud./
-Uruvaq votri ghozun, khilin khizich qotim. Zidun qazod ghukhod./
-Zusar zilich qadir khazil. Uruvol zökir zevik. Chikin.
+orolqi zokhun todva jilin/
+qaduch jiven jalud zökhen,/
+zokhun oqod khizin qaduch/
+zevik züyön zökhen. mirjolud,/
+ghachaa voyer zökir, qovikh/
+jögish ghotaz chovom zökir,/
+züyüchud, chovur zokhun qaduch/
+yovaq jalud zökhen, khügibil/
+zokhun qadul gured chevös/
+zökhen, ghachaa chovur chögönöm/
+zidun jiven, qovikh zokhun/
+qadir dovaq qotur jibun/
+kodu ghodil jiven qonir/
+jiviz qojom cheyitin zökhen,/
+qaduch jorun. zilich qaduch/
+jalud. zilich qaduch oroqid/
+jömik javal, zazim votri/
+ghuyuz, ghachaa qaduch zilich/
+zömem jalud qomul ghanim./
+zilich qaduch jalud, jalud,/
+uruvaq shokhun qozabum jalud,/
+zaqin jodun shokhun ghuyuz./
+.zaqin jodun shokhun ghuyuz./
+jiviz vomek biiloq jiven?/
+numaq qazun ghuyuz zökhem/
+biiloq jiven vomek biiloq/
+jiven yeloz khödir qodol,/
+khozul qaduch jiven evur/
+qotur, jilin qaduch jiven/
+zanim javal. biiloq zachoq/
+kholiqin, qadiz zöker kholiqin./
+biiloq orolqi qonoq jiven/
+zodin ghuchon zachoq jalud./
+khizin ghozuch jochun. khizin/
+ghozuch khobud. khilin javal‼/
+.biiloq orolqi qonoq jiven/
+.zodin ghuchon zachoq jalud./
+uruvaq votri ghozun, khilin/
+khizich qotim‼ zidun qazod./
+zusar zilich qadir javal./
+uruvol zökir zevik. chikin.
 
-Gorentoliz. Goren toliz. Dovaq Khuvanur jiven./
-Jozul zökir, soqir zokhun qaduch yemok zodum zökhen khuqikhash, biiloq zöret khovuq,/
-qadir zokhun zilich qadir zevik khazil zökhen qadir evur chokham qozabum yemok zodum chezir./
-Jiviz qadir khizin javal. zilich qadir javal züser khizin javal. khilin zömem khizin javal,/
-Zilir kelod qazin jiviz volket qaduch choyad jiven dovaq jochun./
-Zilir Khuvanur zodin qojir, soqir zulod zodin zevik qojir, zudom zulod zilir zodin qojir./
-Yemok soqir jiven soqir jotok. Zilir volketor zodin khilin qotur zovad yemok khenech qonir./
-Khilin kelod ghomur qazodir. Zilich zulod jözir. Zilich chüremüm./
-.Zilir kelod qazin jiviz volket qaduch choyad jiven dovaq jochun./
-.Zilir Khuvanur zodin qojir, soqir zulod zodin zevik qojir, zudom zulod zilir zodin qojir./
-.Yemok soqir jiven soqir jotok. Zilir volketor zodin khilin qotur zovad yemok khenech qonir./
-.Khilin kelod ghomur qazodir. Zilich zulod jözir. Zilich chüremüm./
-Jiviz qadir zokhun zilich qadir zevik khazil zökhen kelod zevik ghomur qazodir./
-Qadir zokhun zilich qadir zevik khazil zökhen Khuvanur ghunoq zidun ghuyuz qanaq,/
-jiviz qaduch Gorentoliz jozul khübüsh zökir jalud, khozul qadir jiven jozul qotur,/
-jiviz qadir zenökh zunadim qazodir. qaduch züyid chomur ghanim qaduch qadir khoqoz,/
-chöyikh khödir, kodu khenech, uruvol khenech, qibud khenech, soqir khenech chovin,/
-jiviz qadir yodvir zidun kelod zilich jiven qotur zösit, qaduch yodvir zidun khemish jochun. zilich qadir züdes qotim./
-Qadir yolaq zilich jiven jorukhoz qazim. Qadir qadiz zömin qazim. Qadir semok zilich jiven jochun./
-Qadir zevik qojir. Yodvir qazin qadir otviil zökir ghusid, zevik qojir./
-Yodvir jilar shokhun qadir jilin javal. Jorun. Juqom ghozun juqom zadaq ghunolil./
-Qadir qaduch javal ghanim zilich qaduch jalud. Jalivas qadir yeloz zilich jiven qotur zomim qavun,/
-jiviz khozul qonoq jiven evur qotur khekhül. qadir qoduyuz jochun,/
-jiviz zilich jilin qadir jiven uruvaq shokhun qotur javal, qavar qadir jilin ghuchon ghozun zödösh,/
-jiviz qovikh zokhun qadir khenech ghozun zödösh zökhen orolqi qadir yeloz khödir qodol, qovikh zokhir chübish./
-Gorentoliz. Goren toliz. Zubosh qotim. Khilin khizin javal./
-.Gorentoliz. Goren toliz. Zubosh qotim.
+gorentoliz. goren toliz./
+dovaq khuvanur jiven jochun./
+jozul zökir, soqir zokhun/
+qaduch yemok zovad zökhen/
+khuqikhash, biiloq zöret khovuq,/
+qovikh jilin khenech qadir/
+evur qozabum yemok zovad/
+zodin chezir. qadir javal,/
+zilich qadir züser javal,/
+khilin zilich zömem javal./
+«zilir dovaq kelod qazin/
+jiviz volket qaduch choyad/
+jiven jochun. zilir khuvanur/
+zodin qojir, soqir zulod/
+zodin zevik qojir, soqir/
+zulod zilir zodin zevik/
+qojir. yemok soqir jiven/
+soqir jotok. zilir sovidur/
+zodin khilin qotur zovad/
+zodin yemok khenech qonir./
+khilin kelod ghodaz‼ zilich/
+zulod jözir. zilich chüremüm.»/
+.«zilir dovaq kelod qazin/
+.jiviz volket qaduch choyad/
+.jiven jochun. zilir khuvanur/
+.zodin qojir, soqir zulod/
+.zodin zevik qojir, soqir/
+.zulod zilir zodin zevik/
+.qojir. yemok soqir jiven/
+.soqir jotok. zilir sovidur/
+.zodin khilin qotur zovad/
+.zodin yemok khenech qonir./
+.khilin kelod ghodaz‼ zilich/
+.zulod jözir. zilich chüremüm.»/
+jiviz qovikh jilin khenech/
+kelod qazuch zevik ghodaz./
+qovikh jilin khenech khuvanur/
+ghunoq zidun ghuyuz qanaq,/
+qaduch gorentoliz chüvel jozul/
+jiven khödir jalud, khozul/
+jozul züchir, jiviz qadir/
+zenökh zödir. joyut zömem/
+qaduch qadir khoqoz, chöyikh/
+khödir, kodu khenech, uruvol/
+khenech, qibud khenech, soqir/
+khenech chovin. qadir yodvir/
+zidun kelod zilich jiven/
+qotur zösit, jiviz zilich/
+qadir zayam zovad. qadir/
+yolaq zilich jiven khosamud/
+qazim. qadir qadiz zömin/
+qazim. qadir semok zilich/
+jiven jochun. qadir zevik/
+qojir. yodvir qazin qadir/
+otviil zökir ghusid, jiviz/
+zevik qojir. yodvir jilar/
+shokhun qadir jilin javal,/
+jorun. juqom ghozun juqom/
+zadaq ghunolil. qadir qaduch/
+javal ghanim, zilich qaduch/
+jorun jalud. jalivas qadir/
+yeloz zilich jiven qotur/
+qavun, jiviz khozul qonoq/
+jiven evur qotur khekhül./
+qadir zusar qoduyuz jochun./
+zilich jilin qadir jiven/
+uruvaq shokhun qotur javal,/
+qavar qadir jilin ghuchon/
+ghozun zödösh, jilin ghuchon,/
+jiviz qovikh zokhun qadir/
+khenech ghozun zödösh zökhen,/
+orolqi qadir yeloz khödir/
+qodol, qovikh zokhir chübish./
+gorentoliz. goren toliz./
+uruvaq qadir zubosh qotim./
+khilin zusar khizin javal‼/
+.gorentoliz. goren toliz./
+.uruvaq qadir zubosh qotim.
 
-Zusar khizin yemok todva Kesukur jiven jochun, zokhun orolqi qadiz chömel jiviz jalud zökhen,/
-kelod zotidikh zökir juchon khuqikhash qojir, zaqin yitboq [[lore-hndrdbnnrs|Biiloq Jodun]] jiven ghuyuz,/
-jiviz jalivas züyedüy todva jögish qazom zanim yemok khizich zömin qojir, evur chokham qozabum,/
-Zilich jilin Khuvanur jiven jalud. Zilich qaduch oroqid zilich jiven jömik javal./
-Zilich qaduch uruvol zökir zevik javal, qavar uruvol jedor khödir jochun,/
-jiviz jilin zokhun orolqi qadiz uruvol zökir javal zökhen biiloq soqir jedor khödir jiven zokhir khuqikhash khazil,/
-jiviz zilich koser soqir jedor khödir jiven zokhir qotur zubiz, zilich vomek zodin ghoyurit ghozun zevik zödösh./
-Jivun soqir zilich chovin jozul zökir zovuz jiviz qaduch javal, qazul zilich qaduch javal./
-Jalivas ghunolil zilich qaduch jalud, zilich khökekh qonir, zilich khizin javal, zilich qaduch jalud./
-.Zilich qaduch jalud.
+zusar khizin yemok todva/
+kesukur jiven jochun, zokhun/
+zudum qadiz chömel zökhen,/
+kelod zotidikh zökir, juchon/
+khuqikhash javal, zaqin yitboq/
+[[lore-hndrdbnnrs|biiloq jodun]] jiven ghuyuz,/
+jögish qazom zanim qazun/
+züyedüy zömin javal, yemok/
+khizich chovin, evur khobud/
+qozabum. «zilich jilin khuvanur/
+jiven jalud. zilich qaduch/
+oroqid zilich jiven jömik/
+javal. zilich qaduch uruvol/
+zökir zevik javal, qavar/
+uruvol jedor khödir khekhül,/
+jiviz jilin zokhun orolqi/
+qadiz uruvol zökir javal/
+zökhen biiloq soqir zokhir/
+jedor khödir khuqikhash khazil,/
+jiviz zilich koser soqir/
+zokhir jedor khödir qotur/
+zubiz, jiviz zilich vomek/
+zodin ghoyurit ghozun zevik/
+zödösh. jivun soqir zilich/
+chovin jozul zökir zovuz/
+jiviz qaduch javal, qazul/
+zilich qaduch javal. qazun/
+ghunolil zilich qaduch jalud,/
+jiviz zilich khökekh qonir,/
+jiviz zilich khizin javal,/
+jiviz zilich qaduch jalud.»/
+.zilich qaduch jalud, jalud.
 
-Khizin oqod jochun. Khizin qadiz jiven khobud zokhun orolqi qadiz chikin javal zökhen jochun./
-Jozul yodvir zidun kodu chovin qavun khemish jochun. Qokhot zöret jiven zöret khödir jochun. Khilin qaduch zevik qazim zödir./
-Khilin khonoz khüner chadash jömik zevik khogham zödir. Yodvir ghuyuz chödel khilin jiven zovot qazodir, qavun./
-Zukhizosh zokhun khilin qadiz qoduyuz qonir zökhen khizin zokhun zilich qadiz zusar khilin qotur jeleböl zökhen jochun, khilin qadiz ghozun zevik ghabus./
-Zilich khilin qotur khizin jeleböl, zodin khilin zukhizosh chivil jochun kholiqin./
-Zilich khilin qotur qiiso zodin jeleböl, qiiso qojom, khizin zachoq qovighit jochun./
-.Khizin zachoq qovighit jochun.
+khizin oqod jochun. chikin/
+zilich khizin ghuchon javal./
+jozul yodvir zidun khemish/
+jochun. qokhot zöret khödir/
+jochun. khilin qaduch zevik/
+qazim‼ khonoz khüner jochun/
+ghanim khilin zevik khogham‼/
+khilin yodvir ghuyuz chödel/
+zovot qazodir, jiviz qavun‼/
+zukhizosh khilin jiven qoduyuz/
+khizin jochun, zokhun zilich/
+qadiz khilin qotur zusar/
+jeleböl zökhen, jiviz khilin/
+qadiz ghozun zevik ghabus./
+zilich khilin qotur jeleböl/
+zodin khilin zukhizosh kholiqin./
+zilich qiiso zodin jeleböl,/
+khilin qiiso qojom, jiviz/
+khizin qovighit zachoq jochun./
+.khizin qovighit zachoq jochun.
 :::
 
 ## See Also

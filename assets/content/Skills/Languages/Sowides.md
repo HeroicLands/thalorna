@@ -92,6 +92,7 @@ data:
       - "Khaaqidur"
       - "Vurakur"
   sounds:
+    stress: {two: last, longer: final}
     syllables:
       onsets: single
       codas: [b, d, t, k, g, q, gh, kh, j, ch, s, sh, z, m, n, l, r, v, y]
@@ -6681,7 +6682,7 @@ data:
     - "form": "jotok"
       "class": "v"
       "field": "Everyday verbs"
-      "gloss": "to tie; to fasten with a knot"
+      "gloss": "to tie; to fasten with a knot; to bind someone by a word given"
       "source": {"kind": "coined"}
     - "form": "jozon"
       "class": "v"
@@ -6809,6 +6810,121 @@ data:
       field: Everyday body
       gloss: beard; the hair of the chin
       built: [josaq, chaqur]
+    - form: sovoz
+      class: v
+      field: Everyday verbs
+      gloss: "to ride; to travel on a horse or a camel"
+      source: {kind: coined}
+    - form: qoradoq
+      class: n
+      field: Everyday time
+      gloss: "a week; seven days bound together as one count"
+      built: [qorad, -oq]
+    - form: qobuq
+      class: n
+      field: Everyday body
+      gloss: "a hump, as of a camel"
+      source: {kind: coined}
+    - form: chuluq
+      class: adj
+      field: Everyday qualities
+      gloss: "straight; running without a bend"
+      source: {kind: coined}
+    - form: evodur
+      class: n
+      field: Derived words
+      gloss: "the lake people: the people who farmed the shore of the old lake in the heart of the sands"
+      built: [evod, -ur]
+    - form: ghudan
+      class: v
+      field: Everyday verbs
+      gloss: "to read; to make out marks, signs or writing, or what a sign shows"
+      source: {kind: coined}
+    - form: jebüz
+      class: adj
+      field: Everyday qualities
+      gloss: "shallow; of little depth"
+      source: {kind: coined}
+    - form: qudum
+      class: adj
+      field: Everyday qualities
+      gloss: "deep; reaching far down"
+      source: {kind: coined}
+    - form: voyerqonar
+      class: name
+      field: Derived words
+      gloss: "the mare's milk: the white road of stars across the sky in the heat"
+      built: [voyer, qonar]
+    - form: zöretchöze
+      class: n
+      field: Derived words
+      gloss: "a cut palm: a palm whose trunk carries a tribe's cut mark; also a star of the star-songs"
+      built: [zöret, chöze]
+    - form: khamaqjivoq
+      class: n
+      field: Derived words
+      gloss: "a skull-pole: the pole at a tribe's water that carries a skull and the cloths of its guests"
+      built: [khamaq, jivoq]
+    - form: doqaz
+      class: n
+      field: Everyday things
+      gloss: "a square; a figure of four equal sides"
+      source: {kind: coined}
+    - form: qorzaq
+      class: adj
+      field: Everyday colours
+      gloss: "ochre; the red-yellow of the earth ground for paint"
+      source: {kind: coined}
+    - {form: mirjolud, class: n, field: Derived words, gloss: a herder, built: [mirjol, -ud]}
+    - form: chüvel
+      class: n
+      field: Everyday space
+      gloss: "an edge or rim; the margin where one ground ends"
+      source: {kind: coined}
+    - {form: zümür, class: n, field: Everyday society, gloss: "a god", source: {kind: coined}}
+    - form: zamuq
+      class: adj
+      field: Everyday society
+      gloss: "unclean; defiled under a rite"
+      source: {kind: coined}
+    - form: ghuluz
+      class: v
+      field: Everyday verbs
+      gloss: "to stray; to wander from the way"
+      source: {kind: coined}
+    - {form: jüvük, class: n, field: Everyday things, gloss: "a bracelet", source: {kind: coined}}
+    - {form: jedorud, class: n, field: Derived words, gloss: a traveller, built: [jedor, -ud]}
+    - form: chözeyud
+      class: n
+      field: Derived words
+      gloss: "a cutter, as of salt"
+      built: [chöze, -ud]
+    - form: buzan
+      class: n
+      field: Everyday things
+      gloss: "grain; the seed of grain grown for food"
+      source: {kind: coined}
+    - form: qotuz
+      class: n
+      field: Everyday things
+      gloss: "a pick; a pointed digging tool"
+      source: {kind: coined}
+    - {form: ghakhikud, class: n, field: Derived words, gloss: a bowyer, built: [ghakhiq, -ud]}
+    - form: ghuzaq
+      class: v
+      field: Everyday verbs
+      gloss: "to shoot with a bow"
+      source: {kind: coined}
+    - form: züyüchud
+      class: n
+      field: Derived words
+      gloss: "a smith; a worker of metal"
+      built: [züyüch, -ud]
+    - form: ghodaz
+      class: v
+      field: Everyday verbs
+      gloss: "to foul water; to make a well or spring undrinkable"
+      source: {kind: coined}
   register:
     - {name: Sovidur Language, tongue: gloss, built: [Sovidur]}
     - {name: Sovidur, tongue: sowides, built: [sovid, -ur]}
@@ -6992,6 +7108,13 @@ Each tribe has its chief, the _dovaq_. The tribes stand alone. Now and then a di
 
 **A union** is named by the stem of its emblem or its country with _-oq_ or _-ok_, and a tribe by the same stem with _-ur_. **A range** takes _-or_ after what marks it: stone, grass, salt. **A man's name** is two stems with no suffix, a beast or a weather and then a weapon or a virtue; **a woman's name** is one stem with _-lun_.
 
+## Verse
+
+Sovidur verse is sung or spoken without an instrument, and it does not rhyme. Its line has four beats. A Sovidur word of two syllables or more carries one beat, and nearly every Sovidur word has two syllables or three, so a line is four words long; a word of four syllables, such as _oroqidur_, may carry a second, lighter beat and stand for two. A sentence runs on from one line into the next wherever it needs to, and the count goes on. The craft is in return. A run of lines opens on the same words, as _sovid jorukhoz_, _sovid qozabum_ and _sovid qozabum_, "before the Rider", "under the Rider" and "under the Rider", open three sentences running in the star-song. A run of clauses keeps one frame and changes one word, as in _orolqi zökhem zevik qanaq. orolqi ghachaa zevik qanaq._, "shamans are not killed. children are not killed." A fixed phrase returns in the same words wherever the work needs it. Two forms are kept.
+
+- **The _koyoz_, the song**, opens each stanza on the thing the stanza is about and closes every stanza on the same two lines. In a star-song the thing is a star, named alone at the head of the stanza's first line, and the two closing lines are the song's own sentence: in the Oroqidur star-song they are _uruvol zilich qozabum jochun. zilich khacham khödir sovoz._, "the water is under us. we ride on the roof."
+- **The _oqod_, the calling**, is spoken by the eldest, and the children answer. Each wind is called in the same two lines, with only the wind and its count changed: _uruvaq volket ghozun. uruvaq yitboq._, "wind from the grass. first wind." The children's answer is a line of four beats, most often the eldest's last line said back, or a short phrase said twice, as in _zevik chikin, zevik chikin_, "not here, not here". A witnessed word quoted in a calling keeps its own words, and the children say it back whole.
+
 ## Writing
 
 The Sovidur write nothing but signs. Each tribe has a mark, cut into the stone over its wells and the trunks of its oldest palms, and a rider carries his tribe's passage-token, which bears the sign of the tribe that issued it. Records, treaties and debts are kept in memory and witnessed aloud.
@@ -7106,7 +7229,7 @@ _zilir zünes qonir_ means “I am sorry”. _khilin zilir chosich_ means “for
 
 Formal witnessed speech keeps the same ordinary grammar. It states the participants, quantity, place and time explicitly and repeats the actual promise aloud. An undertaking is expressed with the ordinary promise verb; no new tense, case or ceremonial verb ending is required. Everyday speech can omit what both parties already know.
 
-Punctuation in the common transcription is editorial guidance for a reader. Tribal marks identify tribes and passage-tokens; they are not an alphabet, a script map or a font. The words remain oral Sovidur, with spoken questions, negation and remembered witnessing.
+Punctuation in the common transcription is editorial guidance for a reader. It follows the standard roman punctuation of every tongue on these pages: a command ends with `‼`, a question with `?`, and quoted speech stands between `«` and `»`. The transcription of a Sovidur passage is written in lowercase, because it records sounds and a capital sounds no different. Tribal marks identify tribes and passage-tokens; they are not an alphabet, a script map or a font. The words remain oral Sovidur, with spoken questions, negation and remembered witnessing.
 
 ## Sovidur Lexicon {#lexicon}
 

@@ -22,304 +22,593 @@ data:
 
 **The Buried Water**, _Uruvolkuyad_, is a song (_koyoz_) of the [[affiliation-rqdrtrb|Oroqidur]], the small [[lore-sowidesclt|Sovidur]] tribe of the deep desert that keeps a hidden oasis and holds prophecies in song tied to the movements of the stars. A _koyoz_ is unrhymed and sung without an instrument, and each of its stanzas opens on the thing it is about and closes on the same phrase; in a star-song the thing is a star, and the stanzas follow the stars up through the year. The eldest of the Oroqidur sings this one at the hidden oasis on the first night of the grass, with the tribe round the pool and the children told to watch the sky and not the singer, because the song is a way of learning where the stars stand.
 
-What it tells is the steppe's account of the ground it rides on. The heart of the sands was a lake, and a people the tribes call [[lore-basinbldrs|the Basin Builders]] and the song calls the lake people farmed its shore, cut canals, raised stepped mounds of brick and dug wells far below a lake that already gave water. The tribes hold that the lake did not dry but went down, into the ground, to find its people, and that it will come up again where the last of the builders' blood is paid for; the song gives that belief its full shape, with [[place-ewod|Evod]] the salt bed, [[place-qelod|Kelod]] the stair, the well-mother [Kelodekon]{.name data-type="being/creature"} who keeps the bottom of it, and the painted tombs of [[place-osikor|Oshiqor]] in the stone to the north. The stars are named in the song's own words, and one of them, [Khamaqjivoq]{.name data-type="lore"}, the Skull-pole, is the star the Oroqidur steer by. The common transcription and translation below preserve the oral song given by a Oroqidur ranger to a Tellumi clerk of [[place-kethramir|Kethramír]] in return for a service the clerk does not describe; where the tribes' sentence is quoted, it is the sentence every tribe of the sands teaches its children, "the water went to ground to find its people."
+What it tells is the steppe's account of the ground it rides on. The heart of the sands was a lake, and a people the tribes call [[lore-basinbldrs|the Basin Builders]] and the song calls the lake people farmed its shore, cut canals, raised stepped mounds of brick and dug wells far below a lake that already gave water. The tribes hold that the lake did not dry but went down, into the ground, to find its people, and that it will come up again where the last of the builders' blood is paid for; the song gives that belief its full shape, with [[place-ewod|Evod]] the salt bed, [[place-qelod|Kelod]] the stair, the well-mother [Kelodekon]{.name data-type="being/creature"} who keeps the bottom of it, and the painted tombs of [[place-osikor|Oshiqor]] in the stone to the north. The stars are named in the song's own words, and one of them, [Khamaqjivoq]{.name data-type="lore"}, the Skull-pole, is the star the Oroqidur steer by. The common transcription and translation below preserve the oral song given by an Oroqidur ranger to a Tellumi clerk of [[place-kethramir|Kethramír]] in return for a service the clerk does not describe; where the tribes' sentence is quoted, it is the sentence every tribe of the sands teaches its children, "the water went to ground to find its people."
 
 : The Buried Water {#song}
 
 ::: {.verse form=koyoz lang=en work=song}
-[The Rider]{.name data-type="lore"}. First to rise, in the west as the grass arrives./
-Look at him. At dusk he stands out of the dune, carrying his spear./
-He is the first star: this is what a tribe needs first—/
-a man on a ridge keeping watch over water. Before the Rider, no night exists./
-Under the Rider the grass stays green forty-two days; afterward it is gold./
-Under the Rider we lead the herds out; the children count stars for the first time,/
-and this they learn first; it is also the song's final word:/
-The water lies underneath. We ride upon its roof.
+[The Rider]{.name data-type="lore"}. First up, in the west, when the grass comes./
+Look at him. He stands up out of the dune at dusk with his spear./
+He is the first star because he is the first thing a tribe needs:/
+a man on a ridge, watching the water. Before the Rider there is no night./
+Under the Rider the grass is green for six weeks and then gold./
+Under the Rider we move the herds out, and the children count the stars for the first time,/
+and this is the first thing they are told, and the last thing in the song:/
+the water is under. We ride on its roof.
 
-The Skull-pole. Khamaqjivoq. It rises after the Rider, a little northward./
-Five stars stand in a line, one at its head; the head star does not move./
-Each star travels round it as strangers travel round a well,/
-and it remains like a skull on its pole, its face turned toward arrivals./
-By it we know our direction. A rider lost in sand keeps the Skull-pole at his right hand/
-and rides until he meets the road—or fails to meet it. It is an honest star./
-It says what every skull-pole says: this water bears a name./
-The water lies underneath. We ride upon its roof.
+The Skull-pole. Khamaqjivoq. Up after the Rider, a little north./
+Five stars in a line and one at the top, and the top one does not move./
+Every star goes round it the way strangers go round a well,/
+and it stays, the way the skull stays on the pole, facing the way they come./
+We steer by it. A rider lost in the sands puts the Skull-pole on his right hand/
+and rides until he strikes the road, or does not. It is a fair star./
+It says what every skull-pole says: this water has a name./
+The water is under. We ride on its roof.
 
-[The Two Camels]{.name data-type="lore"}. At the beginning of heat they rise in the east, kneeling./
-Two back-humps and two more; their long necks lie where earth meets sky./
-Before the sands had camels, there were no sands./
-Listen. The sky-father was above, the earth-mother underneath,/
-and between them, where sand now lies, water stretched flat from edge to edge:/
-a lake taking three days to ride round. The Two Camels knelt on its shore/
-and drank. This is the oldest thing the song knows. It is little enough./
-The water lies underneath. We ride upon its roof.
+[The Two Camels]{.name data-type="lore"}. Up in the east, kneeling, when the heat begins./
+Two humps and two humps and the long necks laid along the horizon./
+Before there were camels in the sands there was no sand./
+Hear that. The sky-father was above and the earth-mother was below,/
+and between them, where the sands are now, was water, flat, from edge to edge,/
+a lake that took three days to ride round, and the Two Camels knelt on its shore/
+and drank, and this is the oldest thing the song knows, and it is not much./
+The water is under. We ride on its roof.
 
-[The Canal]{.name data-type="lore"}. Faint stars run in a straight line out of the Two Camels./
-People lived on the shore. Their name is absent from the song./
-They are the lake people. They cut water into straight lines, miles long,/
-and led it wherever they wanted. The sky-father permitted it; the earth-mother permitted it./
-They raised brick hills along the shore, in steps, like stairs for nobody,/
-and stored seed in jars and shut them, and oil, and a black substance,/
-and wrote upon their dead people's doors in words nobody understands. They were many./
-The water lies underneath. We ride upon its roof.
+[The Canal]{.name data-type="lore"}. A straight line of faint stars, running out of the Two Camels./
+There were people on the shore. The song does not have their name./
+They are the lake people. They cut the water into lines, straight, for miles,/
+and led it where they wanted, which the sky-father allowed, and the earth-mother allowed,/
+and they raised hills of brick along the shore in steps, like stairs for no one,/
+and they put their seed in jars and sealed them, and their oil, and a black thing,/
+and they wrote on the doors of their dead in a hand nobody reads. They were many./
+The water is under. We ride on its roof.
 
-[The Well]{.name data-type="lore"}. Six stars in a ring, darkness at their center. Overhead in the heat./
-Here is what nobody can answer. The song gives no answer./
-The lake people possessed a lake. They dug wells./
-Shallow wells? No. Wells for a drought year? No. Wells with stairs,/
-broad enough for two loaded camels, three hundred feet down into darkness,/
-toward water underneath the lake, like a second lake beneath a floor./
-People with a lake to drink do not dig for water. They dug for something else./
-The water lies underneath. We ride upon its roof.
+[The Well]{.name data-type="lore"}. A ring of six stars with a dark place in the middle. Overhead in the heat./
+Here is the thing nobody can answer, and the song does not answer it./
+The lake people had a lake. They dug wells./
+Not shallow wells. Not wells for a dry year. Wells with a stair in them/
+wide enough for two loaded camels, three hundred feet down, into the dark,/
+to a water that lay under the lake like a second lake under a floor./
+A people with a lake to drink do not dig for water. They were digging for something else./
+The water is under. We ride on its roof.
 
-[The Blind Eye]{.name data-type="lore"}. One pale star after the Well; the heat makes it tremble./
-The Oroqidur say they dug for this. Other tribes disagree./
-They dug toward their dead. Their dead went downward,/
-as all the dead go down who are not laid beneath the sky./
-The lake people loved their dead and would not have them descend alone./
-So they cut stairs to follow them; the water followed the stairs./
-Through the holes they had made, the earth-mother took the lake inside to find them./
-The water lies underneath. We ride upon its roof.
+[The Blind Eye]{.name data-type="lore"}. One pale star alone, after the Well, that the heat makes shiver./
+Here is what the Oroqidur say they were digging for, and the other tribes say otherwise./
+They were digging toward their dead. Their dead went down,/
+the way all dead go down who are not laid out under the sky,/
+and the lake people loved their dead and would not let them go down alone,/
+and so they cut the stairs to follow, and the water followed the stairs./
+The earth-mother took the lake in through the holes they had made, to find them./
+The water is under. We ride on its roof.
 
-[The Mare's Milk]{.name data-type="lore"}. The white star-road across the whole sky in the heat./
-That is the lake, poured out. Look at its width./
-It sank over five men's lifetimes, says the song. Not in one night./
-Each year the shore withdrew a spear's length. The lake people followed inward,/
-each year building their brick stairs lower on wet mud, shutting more jars,/
-digging their wells deeper after the second lake, which sank ahead of them,/
-until salt remained, and stairs without water at their foot, and nobody./
-The water lies underneath. We ride upon its roof.
+[The Mare's Milk]{.name data-type="lore"}. The white road of stars across the whole sky in the heat./
+That is the lake, poured out. Look how wide it was./
+It went down over five lifetimes of a man, the song says. Not in a night./
+The shore drew back a spear's length each year, and the lake people followed it in,/
+and built their stairs of brick lower each year on the wet mud, and sealed more jars,/
+and dug the wells deeper after the second lake, and it went down ahead of them,/
+and at last there was salt, and a stair with no water at the foot of it, and nobody./
+The water is under. We ride on its roof.
 
-[The Cut Palm]{.name data-type="lore"}. Three stars lean like the oldest palm by a pool, when the wind arrives./
-This is the tribes' sentence; every tribe of the sands says the same words:/
-the water went into the ground to find its people./
+[The Cut Palm]{.name data-type="lore"}. Three stars in a leaning line, like the oldest palm at a pool, when the wind comes./
+This is the tribes' sentence, and every tribe of the sands says it the same:/
+the water went to ground to find its people./
 It did not dry. The sky-father did not drink it. It went down./
-When the debt for the last lake people's blood is paid, it will rise./
-No two tribes agree where that debt stands. The Oroqidur do not say./
-A well yielding sweet water in drought is a small part of the debt falling due./
-The water lies underneath. We ride upon its roof.
+And when the last of the lake people's blood is paid for, it will come up./
+Where that debt stands, no two tribes agree, and the Oroqidur do not say./
+A well that gives sweet water in a drought year is the debt coming due a little./
+The water is under. We ride on its roof.
 
-[The Litter]{.name data-type="lore"}. Four stars make a square, one carried between them, low in the north./
-Northward they carried their kings, up out of the basin to the stone:/
-eleven ravines in the black range, a door in each, stairs descending into rock./
-The inner walls are painted red, ochre, and blue made from powdered stone,/
-with men and women walking toward a seated figure. The faces have not faded./
-Far from water they lie. The song does not know why. The plateau tribes know this much:/
-the kings are not asleep; leaving them alone keeps them in their houses./
-The water lies underneath. We ride upon its roof.
+[The Litter]{.name data-type="lore"}. Four stars in a square with one between, carried, low in the north./
+Their kings they carried north, up out of the basin, to the stone,/
+eleven ravines in the black range with a door in each, and a stair that goes down into the rock,/
+and the walls inside are painted, red and ochre and a blue made from ground stone,/
+with men and women walking toward a seated one, and the faces are not faded./
+They lie far from the water. The song does not know why. The plateau tribes know this much:/
+the kings are not asleep, and they are kept in their houses by being left alone./
+The water is under. We ride on its roof.
 
-[The Lamp]{.name data-type="lore"}. One red star low above the stone range in wind season; herders will not gaze long./
-The herders of the stone's southern edge, with their one god and flame,/
-hold the eleven ravines unclean, and burn with fire a man who wanders into one./
-We leave their name out of this song: this song belongs to us./
-Yet in one thing they are right, the Oroqidur say: do not descend those stairs./
-A passage clear last year is heaped with stone this year, a party stranded beyond it./
-Below the third chamber in any of the eleven, the kings get up./
-The water lies underneath. We ride upon its roof.
+[The Lamp]{.name data-type="lore"}. One red star low over the stone range in the wind season, that the herders will not look at long./
+The ones who graze the southern edge of the stone, who have one god and a flame,/
+hold the eleven ravines unclean, and burn a man with fire who strays into one,/
+and we do not say their name in this song because this is not their song./
+But they are right about one thing, and the Oroqidur say so: do not go down those stairs./
+A passage that was clear last year is a heap of stone this year, and a party on the wrong side of it./
+And below the third chamber of any of the eleven, the kings get up./
+The water is under. We ride on its roof.
 
-[The Stair]{.name data-type="lore"}. A long slope of dim stars descends toward earth's edge in the cold./
-This is Kelod, the great well: the lake people's stair, descending in square turns,/
-each flight narrower than the last, three hundred feet to a landing once a pool,/
-now dry stone with a drain. On the first grass-night we ride to the rim/
-and throw what we throw: a coin, a knife, bread, a lock of hair, a metal bracelet./
-Tribes have thrown these as long as tribes have existed. In the dust below they lie./
-Nobody descends to fetch them. This is why./
-The water lies underneath. We ride upon its roof.
+[The Stair]{.name data-type="lore"}. A long slant of dim stars going down toward the horizon in the cold./
+This is Kelod. The great well. The stair the lake people cut, going down in square turns,/
+each flight narrower than the last, three hundred feet, to a landing that was a pool/
+and is dry stone with a drain in it. In the first night of the grass we ride to the rim/
+and throw in what we throw: a coin, a knife, bread, a lock of hair, a bracelet./
+The tribes have thrown them for as long as there have been tribes. They lie at the bottom in the dust./
+Nobody goes down for them, and this is why./
+The water is under. We ride on its roof.
 
-[The Mother]{.name data-type="lore"}. A star you cannot see. The song points to darkness beside the Stair's foot./
-Kelodekon is below, the well-mother. She kept the water when the lake people had it,/
-and has kept it ever since. Each year she allows one traveler down to drink,/
-and turns the others back. Those she turns back do not climb out./
-Mothers tell their children this. It is true in the way such things are true:/
-a long pale eyeless thing lives in the drain, taking whatever comes within reach./
-It has taken a child on a rope, a bucket, a man's arm up to the shoulder. It does not come up./
-The water lies underneath. We ride upon its roof.
+[The Mother]{.name data-type="lore"}. A star you cannot see. The song points to the dark place beside the Stair's foot./
+Kelodekon is at the bottom. The well-mother. She kept the water when the lake people had it/
+and she has kept it since, and she lets one traveler a year come down and drink,/
+and the rest she turns back, and the ones she turns back do not climb out./
+That is what the mothers tell the children and it is true in the way such things are true:/
+there is a long pale thing in the drain with no eyes that takes what comes within reach,/
+and it has taken a child on a rope and a bucket and a man's arm to the shoulder, and it does not come up./
+The water is under. We ride on its roof.
 
-[The Salt]{.name data-type="lore"}. A shapeless white star-haze above the basin in the deepest cold./
-Evod, the lake's floor. Forty miles of white, so bright a rider shields his eyes at noon/
-and cannot judge a thing's distance. From midmorning the mirage rises,/
-and a man heads for a well that does not exist, walks off the white in the wrong direction,/
-and finds no water for five days. Slab-cutters work the edge, trading salt west for grain./
-They refuse to cut the center, where water lies deepest. Nobody sleeps upon the salt./
-A crust that carries a camel at morning is a skin over black mud by noon./
-The water lies underneath. We ride upon its roof.
+[The Salt]{.name data-type="lore"}. A white haze of stars, no shape, over where the basin lies, in the deep cold./
+Evod. The lake's floor. Forty miles of white so bright a rider shades his eyes at noon/
+and cannot tell how far a thing is, and the mirage stands up out of it from mid-morning,/
+and a man steers for a well that is not there and walks off the white in the wrong direction/
+and meets no water for five days. The slab-cutters work the edge and trade the salt west for grain./
+They will not cut the middle, where the water is deepest below, and nobody sleeps on the salt,/
+and the crust that holds a camel in the morning is a skin over black mud at noon./
+The water is under. We ride on its roof.
 
-[The Claw]{.name data-type="lore"}. Three bright stars hooked like a bent finger, rising from the Salt at cold midnight./
-At the white's edge, sheltered by the old shore dunes, the duneclaw waits/
-for anything crossing salt and sand, and strikes once. Each season herders lose a goat to it./
-On a windless afternoon the salt-spirit rises in a white column and takes a man's skin and sight./
-Between the Claw and the Salt a tribe wants nothing and owns nothing./
-The lake people's brick stairs stand along the old shore, holding blue and green tiles/
-nobody in the sands can make, and jars nobody has opened. A boy struck his pick through the crust/
-and found a dry descending stair where a canal should be mud, and covered it with his shirt./
-The water lies underneath. We ride upon its roof.
+[The Claw]{.name data-type="lore"}. Three bright stars bent like a hook, that rise out of the Salt at midnight in the cold./
+At the edge of the white, in the lee of the old shore dunes, the duneclaw waits/
+for whatever crosses between the salt and the sand, and strikes once. The herders lose a goat a season to it./
+The salt-spirit stands up in a white column on a windless afternoon and takes the skin off a man and his sight./
+Between the Claw and the Salt there is nothing a tribe wants, and nothing a tribe owns,/
+and the lake people's brick stairs stand along the old shore with tiles in them, blue and green,/
+that no one in the sands can make, and jars that no one has opened, and a boy who put his pick through the crust/
+and found a dry stair going down where a canal should have been mud, and covered it with his shirt./
+The water is under. We ride on its roof.
 
-[The Four Winds]{.name data-type="lore"}. These are no stars. Here the song turns to the quarters, as a calling does./
-Wind from grass, once you were the lake's breath. Wind from heat, you dried the mud it left./
-Wind from stone, you carried the kings' names up to the ravines and left them there./
-Wind from cold, the Oroqidur watch you: you come from the north where the Litter stands./
-When you arrive warm—when the cold wind comes warm from the stone range in the heart of cold—/
-the Oroqidur say the debt is nearly paid and the water is rising./
-It has not yet come warm. The Oroqidur have watched longer than the song has lived./
-The water lies underneath. We ride upon its roof.
+[The Four Winds]{.name data-type="lore"}. Not stars. The song turns here to the quarters, as a calling does./
+Wind off the grass, you were the lake's breath once. Wind off the heat, you dried the mud it left./
+Wind off the stone, you carried the kings' names up to the ravines and left them there./
+Wind off the cold, you are the one the Oroqidur watch, because you come off the north where the Litter is,/
+and when you come warm, when the cold wind comes off the stone range warm in the dead of the cold,/
+the Oroqidur say the debt is near paid and the water is coming up./
+It has not come warm. The Oroqidur have watched for it for longer than the song./
+The water is under. We ride on its roof.
 
-The Rider returns. Out of the western dune he stands; a year has circled underneath him./
-Now the final thing, which is the first. The children have heard it since the Rider rose./
-The water will rise. From the sky? No. From underneath./
-In a night the wells will fill from below, the salt soften, the basin become lake again:/
-three days' ride round, with brick stairs standing in it up to their heads./
-The tribes of the sands will be below it, or above it in boats like the cold forest hunters./
-The Oroqidur do not say which. The sky-father has not spoken. We watch the north wind./
-This ends the song. It ends nothing else./
-The water lies underneath. We ride upon its roof.
+The Rider again. He comes round. He stands up out of the dune in the west and the year has gone round under him./
+Now the last thing, which is the first thing, and the children have heard it since the Rider rose./
+The water will come up. Not from the sky. From under./
+The wells will fill from below in a night and the salt will go soft and the basin will be a lake again/
+three days' ride round, with the brick stairs standing in it to their tops,/
+and the tribes of the sands will be under it, or on it in boats like the hunters of the cold forest,/
+and the Oroqidur do not say which, and the sky-father has not said, and we watch the north wind./
+That is the end of the song and it is not the end of anything else./
+The water is under. We ride on its roof.
 :::
 
-::: {.verse form=koyoz lang=sovi work=song}
-[Sovid]{.name data-type="lore"}. Yitboq. Volket jodur ghanim qadiz orjaz jömik khevel./
-Khilin qadir chödir. Ataz qadir joghur ghozun toliz chovin zovuz./
-Qadir tijod yitboq jochun, qavar soqir qovikh khizin zeyüd chochivuq,/
-qovikh ghayiq khödir uruvol zenökh. Sovid jorukhoz numaq zevik ghukhod./
-Sovid qozabum yodvir qozur shokhun jiviz chovur volket ghaniyush jochun, jalivas khaaqid jochun./
-Sovid qozabum zilich mirjol zomim qolaz, ghachaa tijod zeyüd khamas,/
-qaduch khizin zeyüd khüben, khizin yemok qoqam koyoz jömik jochun,/
-Uruvol qozabum jochun. Zilich khacham qadiz jiven khödir kodu chovin qavun.
+::: {.verse form=koyoz lang=sovi work=song scan=tetrameter}
+sovid. volket jodur ghanim,/
+sovid orjaz jömik khevel./
+khilin chödir‼ khilin chödir‼/
+ataz ghuyuz joghur ghozun/
+qadir toliz chovin zovuz./
+qadir tijod yitboq jochun,/
+qavar soqir qovikh zokhun/
+qadir uruvol joghur khödir/
+zenökh zökhen zeyüd chochivuq./
+sovid jorukhoz, numaq khenech./
+sovid qozabum, qoradoq zolun,/
+volket ghaniyush, jalivas khaaqid./
+sovid qozabum zilich mirjol/
+qorun qolaz, jiviz ghachaa/
+zokhun qaduch züyüy khamas/
+zökhen zusar tijod khamas./
+qaduch khizin zeyüd khüben,/
+koyoz khizin qoqam javal./
+uruvol zilich qozabum jochun./
+zilich khacham khödir sovoz.
 
-Khamaqjivoq. Sovid zömem, dolqon züchir khüvösiz, qadiz khevel./
-Tijod jumaq zövet jömik jochun, zidun junosh zökir jochun. junosh jiven tijod zevik khonid./
-Tijod zokhir qadiz jörüsikh qavun, chaqush kelod jörüsikh chübish,/
-jiviz qadiz ghachomum, khamaq jivoq khödir chübish, khozul chaqush jodur ghovikhaz qotur qodol./
-Zilich qadiz chovin ghovikhaz kholiqin. Sovid zokhun khoshiq jömik qadir jedor khezön zökhen Khamaqjivoq züzin ghochich zökir jalud,/
-jiviz qadir jedor zütin ghunolil kodu chovin qavun, zovul zevik zütin. Qadiz tijod zetel jochun./
-Qadiz yemok khamaqjivoq zokhir jiven javal, uruvol khizin jilin qonir./
-Uruvol qozabum jochun. Zilich khacham qadiz jiven khödir kodu chovin qavun.
+khamaqjivoq. sovid zömem khevel,/
+dolqon züchir khüvösiz qavun./
+tijod jumaq zövet jömik,/
+jiviz zidun qaduch khanalod,/
+jiviz qazun zevik khonid./
+chaqush kelod jörüsikh qavun,/
+tijod zokhir qadiz jörüsikh,/
+khamaq jivoq khödir ghachomum,/
+qadiz ghachomum khamaq chübish,/
+qadiz chaqush züchir chödir./
+zilich qadiz chovin sovoz./
+sovid zokhun qadir khoshiq/
+jömik jedor khezön zökhen/
+khamaqjivoq züzin ghochich/
+qadir jiven khödir qodol,/
+jiviz sovoz, jedor zütin/
+ghunolil, zovul zevik zütin./
+qadiz tijod zetel jochun./
+khamaqjivoq zokhir chübish javal,/
+«uruvol khizin jilin qonir.»/
+uruvol zilich qozabum jochun./
+zilich khacham khödir sovoz.
 
-[Gured Chovur]{.name data-type="lore"}. Orqaz jümey ghanim qaduch idvaq jömik khevel, chümikül./
-Jüvelekh ghayiq chovur jiviz ghayiq chovur, khezir ghuzoch evur jiviz jonkhiq zütin zökir khekhül./
-Gured khoshiq jömik jorukhoz khoshiq zevik ghukhod./
-Khilin zekhir. Akhaq evur qaqobaq jochun, ekon jonkhiq zönekh jochun,/
-jiviz choyad, zokhun zusar khoshiq jochun zökhen, uruvol ghotovin choboch zidun ghozun choboch zulod qotur jochun,/
-evod zokhun sovid qadiz jörüsikh yodvir qazin qavun zökhen. Gured Chovur khübüsh qadiz jiven khödir chümikül,/
-jiviz uruvol ghunir. Khizin ghozuch chomoy qazom koyoz kholiqin jochun. qadiz chosoq zevik jochun./
-Uruvol qozabum jochun. Zilich khacham qadiz jiven khödir kodu chovin qavun.
+gured chovur. orqaz jümey,/
+idvaq jömik chümikül khevel./
+qobuq chovur, qobuq chovur,/
+khezir ghuzoch evur khübüsh/
+khödir zövet chübish khekhül./
+khoshiq jömik gured jorukhoz,/
+khoshiq khenech. khilin chömel‼/
+akhaq evur zubosh jochun,/
+ekon jonkhiq jaziy jochun,/
+qaduch choyad, zusar khoshiq,/
+uruvol khübüsh ghozun khübüsh/
+qotur jochun, evod zokhun/
+sovid qadiz yodvir qazin/
+ghuyuz jörüsikh sovoz zökhen./
+gured chovur khübüsh khödir/
+chümikül, jiviz uruvol ghunir./
+khizin ghozuch chomoy qazom/
+zokhun koyoz qadiz kholiqin/
+zökhen jochun. qadiz zevik/
+chosoq jochun, zevik chosoq./
+uruvol zilich qozabum jochun./
+zilich khacham khödir sovoz.
 
-[Qozol]{.name data-type="lore"}. Tijod jilaq khüvösiz zövet khalal jömik Gured Chovur ghozun qavun./
-Orolqi khübüsh khödir jochun. Koyoz jilin qaduch jiven zevik qonir./
-Qaduch orolqi evod jiven jochun. Qaduch uruvol zövet khalal jömik chöze, zodol juchaz,/
-jiviz qaduch uruvol qaduch khüket chadash qotur qolaz. akhaq evur qaduch zughuqat, ekon jonkhiq qaduch zughuqat,/
-jiviz qaduch ghayiq zövek jiven khübüsh khödir jözel chübish jotiz, zudom zodin jözel chübish,/
-jiviz zumut khuyakh jömik qodol, khuyakh ghoquq, qotash jiviz ghozuch uruchaq qovighit qodol,/
-jiviz vomek qaduch jiven jiven chalul khödir zünen, zudom yemok khizich zömir. Qaduch juchaz jochun./
-Uruvol qozabum jochun. Zilich khacham qadiz jiven khödir kodu chovin qavun.
+qozol. tijod chekil, zövet/
+chuluq, gured chovur ghozun./
+orolqi khübüsh khödir ghukhod./
+koyoz jilin zevik qonir,/
+koyoz qaduch evodur ghutar./
+evodur zövet chuluq jömik/
+uruvol chöze, zodol juchaz,/
+qaduch khüket züser qolaz,/
+akhaq evur qadiz zughuqat,/
+ekon jonkhiq qadiz zughuqat./
+khübüsh khödir ghayiq zövek/
+jotiz, jözel zudom zodin./
+zumut khuyakh jömik ghoquq,/
+qotash, ghozuch uruchaq qovighit./
+chalul vomek jiven khödir/
+zünen, zudom qadiz ghudan./
+qaduch juchaz jochun, juchaz./
+uruvol zilich qozabum jochun./
+zilich khacham khödir sovoz.
 
-[Kelod]{.name data-type="lore"}. Tijod zolun jörüsikh, zotidikh zezökükh. Orqaz ghuyuz junosh qaqobaq./
-Ghozuch khizin zudom chocholush qomul. koyoz qadiz zevik chocholush./
-Orolqi evod jiven evod qonir. Qaduch kelod jözir./
-Kelod chonotoz zevik. Kelod zaqin ghuzum zodin zevik. Kelod jözel chovin,/
-kheriles khöred gured chovur beyuk zorubid chovin zodin, qozit jodun qazin jaziy, zezökükh qotur,/
-uruvol zokhun qadiz evod qozabum jochun zökhen qotur, evod jilar chovur zaman qozabum chübish./
-Orolqi evod ghunir qonir ghanim qaduch uruvol zodin zevik jözir. Qaduch ghozuch zulod zodin jözir./
-Uruvol qozabum jochun. Zilich khacham qadiz jiven khödir kodu chovin qavun.
+kelod. orqaz ghuyuz zubosh,/
+tijod zolun, zotidikh zezökükh./
+zudom khizin chocholush qomul,/
+jiviz koyoz zevik chocholush./
+evodur evod yaqnar qonir,/
+khazur qaduch kelod jözir./
+kelod jebüz zevik jochun,/
+zaqin jütin zodin zevik./
+kelod jözel kheriles chovin,/
+gured chovur chuyus chovin/
+qadiz zughish qavun qomul,/
+qozit jodun qazin jaziy,/
+chadash zezökükh qotur qavun,/
+uruvol zokhun qadiz evod/
+qozabum khekhül zökhen qotur,/
+evod jilar chovur chübish/
+zaman zidun qozabum khekhül./
+orolqi zokhun ghunir zodin/
+evod qonir zökhen uruvol/
+zodin zevik jözir. evodur/
+zötel zulod zodin jözir./
+uruvol zilich qozabum jochun./
+zilich khacham khödir sovoz.
 
-[Jelüd Chunikh]{.name data-type="lore"}. Tijod zidun joruy, Kelod zömem, orqaz qadiz zökhil qazodir./
-Oroqidur jidir qaduch ghozuch khizin zodin jözir zökhen javal. soqir zulod jübüz./
-Qaduch vomek qaduch jiven züchir jözir. Vomek qaduch jiven jaziy qavun,/
-vomek zokhun orolqi qaduch evur qozabum zevik qodol zökhen jorun chübish,/
-jiviz orolqi evod jiven vomek qaduch jiven ghavun qonir, qaduch ghuchon jaziy qavun zevik khüket,/
-zayoch qaduch jözel chokhoq zodin chöze, uruvol jözel chokhoq./
-Ekon jonkhiq evod züdes qotim, qozach zokhun qaduch qadiz qazodir zökhen zughish, vomek jeyes zodin./
-Uruvol qozabum jochun. Zilich khacham qadiz jiven khödir kodu chovin qavun.
+jelüd chunikh. kelod zömem,/
+tijod joruy zidun ghuchon,/
+orqaz jömik qadiz zökhil./
+oroqidur jidir qaduch khizin/
+zodin jözir zökhen javal,/
+soqir zulod qadiz jübüz./
+qaduch vomek züchir jözir./
+vomek jorun zokhun orolqi/
+qaduch evur qozabum zevik/
+qodol zökhen jaziy qavun./
+evodur vomek ghavun chovin/
+jalud, jiviz qaduch ghuchon/
+jaziy qavun zevik zughuqat./
+zayoch qaduch jözel chöze/
+chokhoq zodin, jiviz uruvol/
+jözel qaduch jiven chokhoq./
+ekon jonkhiq qozach evodur/
+jiven zughish evod qotim,/
+qadul qaduch jeyes zodin./
+uruvol zilich qozabum jochun./
+zilich khacham khödir sovoz.
 
-[Voyer Qonar Jiven]{.name data-type="lore"}. Tijod jedor iqod evur khobud qughun, orqaz ghuyuz./
-Qazun evod zokhun orolqi qadiz qoshur zökhen jochun. Khilin qadiz jiven kheriles chödir./
-Koyoz jidir qovikh jomod jumaq ghuyuz qadiz jaziy qavun zökhen javal. Numaq zidun jömik zevik./
-Zaqin zanim khübüsh toliz zidun jiven zotosh jochat qavun. orolqi evod jiven qadiz züdes chokhoq,/
-jiviz zaqin zanim qaduch jözel zövek jiven chonotoz qazod khödüt jüchich khödir jotiz, khuyakh qazod ghoquq,/
-jiviz kelod zönekh qazod jözir, evod jilar chovur chokhoq, qadiz qaduch khuqikhash qavun,/
-jiviz chumach yolaq jochun, jözel uruvol khenech chöyikh qadiz jiven zökir jochun, jiviz zudom jochun./
-Uruvol qozabum jochun. Zilich khacham qadiz jiven khödir kodu chovin qavun.
+voyerqonar. orqaz ghuyuz, jedor/
+iqod tijod jiven, evur/
+khobud qughun jochun. qazun/
+evod jochun, zokhun jusoz/
+qadiz qoshur zökhen. khilin/
+chödir‼ qadiz qomoch kheriles!/
+koyoz javal, qadiz jomod/
+qovikh jiven jumaq ghuyuz/
+jaziy qavun. numaq zidun/
+ghuyuz qadiz zevik qavun./
+khübüsh zaqin zanim toliz/
+zidun jochat qavun, evodur/
+qadiz zotidikh züchir chokhoq,/
+zaqin zanim jözel zövek/
+chonotoz qazod khödüt jüchich/
+khödir jotiz, khuyakh qazod/
+ghoquq, kelod qudum qazod/
+jözir, evod jilar chovur/
+chokhoq, jiviz qadiz qaduch/
+khuqikhash jaziy qavun. chumach/
+yolaq ghukhod, chöyikh jözel/
+jiven jütin, zudom ghachomum./
+uruvol zilich qozabum jochun./
+zilich khacham khödir sovoz.
 
-[Zöret Chöze]{.name data-type="lore"}. Tijod qazin zövet jomighum jömik, zöret jögish qazom jozul zökir chübish, uruvaq jodur ghanim./
-Khizin yemok soqir jiven jochun, soqir khoshiq jiven zokhir yemok chüyözükh javal,/
-uruvol orolqi qadiz jiven jeyes zodin jonkhiq qotur jaziy qavun./
-Qadiz zevik jütin zuruch. Akhaq evur qadiz zevik ghunir. Qadiz jaziy qavun./
-Jivun orolqi evod jiven jiven uruukhiq qoqam jiven jibun qojom, qazul qadiz zubosh jodur./
-Soqir chovur zusoz jibun qazukh khödir zevik khulol. Oroqidur zevik javal./
-Kelod zokhun zaqin ghuzum ghuyuz qadiz uruvol ghonor zovad zökhen jibun choboch chekil qojom jochun./
-Uruvol qozabum jochun. Zilich khacham qadiz jiven khödir kodu chovin qavun.
+zöretchöze. uruvaq jodur ghanim,/
+tijod qazin zövet jömik/
+jomighum, zöret chomoy chübish./
+soqir yemok khizin javal,/
+soqir zokhir chüyözükh javal,/
+«uruvol jonkhiq qotur qavun,/
+orolqi qonoq jiven jeyes/
+zodin.» qadiz jaziy qavun./
+qadiz jütin zevik zuruch./
+akhaq evur zevik ghunir./
+jusoz jibun uruukhiq evodur/
+jiven jorun qojom zömem,/
+qadiz zubosh jodur. jibun/
+qazun qovar jochun? soqir/
+chovur qadiz zevik khulol,/
+oroqidur qadiz zevik javal./
+jivun kelod zaqin ghuzum/
+ghuyuz uruvol ghonor zovad,/
+qazul jibun khüvösiz jodur./
+uruvol zilich qozabum jochun./
+zilich khacham khödir sovoz.
 
-[Jönek]{.name data-type="lore"}. Tijod shokhun choboch jökherör shokhun chovin, zidun choyad, qomat, dolqon jömik chonotoz./
-Qaduch qovor qaduch jiven dolqon qomat, khudad yaqnar ghozun zubosh, diqraq qotur,/
-khudad zoton qozur jiviz zidun qodiror uruchaq jömik, chalul zanim jömik, jözel diqraq züdes jaziy qavun,/
-Qunon züdes diqkhun jiviz qomikh ghayush jiviz qayur diqraq bulaq ghozun chovin jöchen,/
-qovikh jiviz khügibil qadir zokhun qadir ghusid zökhen züchir zösit. khozul zevik juvuz zuruch./
-Qaduch uruvol ghozun khemish khekhül. Koyoz qavud zevik kholiqin. Soqir ghayiq zügöt jiven khizin kholiqin,/
-qovor zevik khogham. orolqi qaduch ghuchon khoqoz zodin qaduch jamom qaduch jiven jömik ghachomum./
-Uruvol qozabum jochun. Zilich khacham qadiz jiven khödir kodu chovin qavun.
+jönek. dolqon jömik chonotoz,/
+tijod shokhun doqaz jömik,/
+tijod zidun qaduch choyad,/
+orolqi qadiz qomat chübish./
+evodur qovor qonoq jiven/
+dolqon qotur zubosh qomat,/
+zaman evod jiven ghozun/
+diqraq qotur. qodiror uruchaq/
+jömik qozur jiviz zidun/
+khudad zoton ghukhod, khudad/
+zanim jömik chalul zidun,/
+jözel diqraq züdes jaziy./
+orolqi qunon jöchen, diqkhun,/
+qorzaq, qayur bulaq diqraq/
+jiven ghozun. qovikh jiviz/
+khügibil jusoz zokhun qadir/
+ghusid zökhen züchir zösit,/
+khozul joruy zevik zuruch./
+qaduch uruvol khemish khekhül./
+koyoz qavud zevik kholiqin./
+soqir diqraq jiven khizin/
+kholiqin, qovor zevik khogham./
+jivun orolqi qaduch khoqoz,/
+qazul qaduch qoduyuz ghachomum./
+uruvol zilich qozabum jochun./
+zilich khacham khödir sovoz.
 
-[Jilaq]{.name data-type="lore"}. Tijod zidun diqkhun qodiror diqraq jiven khanalod chonotoz, uruvaq zazim ghuyuz, mirjol jalud orolqi qadiz zukhaloq zevik chödir./
-Orolqi zokhun qaduch diqraq vaayaq jiven khübüsh zökir mirjol jalud zökhen chobid evur jiven zidun jiviz chütiy qonir,/
-qaduch jidir khudad zoton qozur jiviz zidun qojid jochun zökhen jozachosh, qovikh zokhun qadir zidun jömik jekes zökhen qaduch otviil chovin zozonun,/
-jiviz zilich koyoz khizin jömik jilin qaduch jiven zevik javal, qavar khizin koyoz qaduch jiven zevik jochun./
-Khazur ghozuch zidun khödir qaduch quchich jochun, Oroqidur khizin javal, khilin jözel qazuch jaziy zevik qavun zödir./
-Koser zokhun zaqin jorukhoz qadiz khalal jochun zökhen zaqin khizin diqraq qorukh jochun, orolqi zulod choboch khödir./
-Jiviz khudad qozur jiviz zidun zanim jiven qokhoch jilar qazin zönekh qovor khevel./
-Uruvol qozabum jochun. Zilich khacham qadiz jiven khödir kodu chovin qavun.
+jilaq. tijod diqkhun zidun,/
+zazim uruvaq ghuyuz chonotoz,/
+diqraqor khanalod jochun. mirjolud/
+qadiz zukhaloq zevik chödir./
+orolqi zokhun qaduch mirjol/
+chüvel vaayaq diqraq jiven/
+khödir qolaz zökhen, zümür/
+zidun, chütiy zidun chovin,/
+jidir khudad zoton qozur/
+jiviz zidun zamuq jochun/
+zökhen javal, jiviz qovikh/
+zokhun qadir zidun jömik/
+ghuluz zökhen otviil chovin/
+zozonun. zilich jilin qaduch/
+jiven koyoz khizin jömik/
+zevik javal, qavar koyoz/
+khizin qaduch jiven zevik/
+jochun, zilich jiven jochun./
+khazur qaduch ghozuch zidun/
+jömik quchich jochun, oroqidur/
+javal, «khilin jözel qazuch/
+zughish jaziy zevik qavun‼»/
+jedor zokhun orolqi zaqin/
+qazun qadiz zughish zösit/
+zökhen zaqin khizin diqraq/
+juchaz jochun, qorukh qadiz/
+jusakhiz ghachomum. qokhoch jilar/
+qazin zönekh, khudad zanim/
+jömik, qovor zubosh zovuz./
+uruvol zilich qozabum jochun./
+zilich khacham khödir sovoz.
 
-[Jözel]{.name data-type="lore"}. Tijod jilaq khüvösiz ghuzoch jomighum, evur jiviz jonkhiq zütin züchir jaziy, votri ghuyuz./
-Khizin Kelod jochun. Kelod yaqnar. Jözel zokhun orolqi evod jiven qadiz chöze zökhen choboch shokhun chovin jaziy qavun,/
-jözel zanim jorukhoz jiven ghozir zoton qazod, qozit jodun qazin, zaman zokhun qadiz jozul jochun zökhen qotur,/
-zusar diqraq jütin jozim chovin. Volket jiven numaq yitboq ghuyuz zilich khübüsh qotur kodu chovin qavun,/
-jiviz zilich zötel zozum, vuraq chekil, khümel, jozad, chaqur choboch, züzin jiven qorukh züyüch jiven./
-Soqir ghukhod züyedüy qaduch khizich zozum. Qaduch zönekh bulaq jömik khekhül./
-Zudom qaduch zodin jaziy qavun. zunoq khizin jochun./
-Uruvol qozabum jochun. Zilich khacham qadiz jiven khödir kodu chovin qavun.
+jözel. zazim votri ghuyuz/
+tijod chekil zövet jomighum/
+jömik evur khübüsh züchir/
+jaziy qavun. khizin kelod/
+jochun, kelod yaqnar, jözel/
+zokhun evodur qadiz chöze/
+zökhen, jörüsikh jörüsikh jaziy,/
+jözel zanim zoton qazod,/
+qozit jodun qazin, zaman/
+qotur, zokhun qadiz jozul/
+jochun zökhen, zusar diqraq/
+jütin jozim chovin jochun./
+numaq yitboq volket jiven/
+ghuyuz zilich chüvel qotur/
+sovoz, qadiz jömik zozum,/
+vuraq, khümel, jozad, jüvük,/
+chaqur choboch. soqir ghukhod/
+züyedüy soqir qaduch zozum./
+qaduch zaman khödir bulaq/
+jömik khekhül. zudom qaduch/
+zodin jaziy qavun, khizin/
+zunoq qadiz jiven jochun./
+uruvol zilich qozabum jochun./
+zilich khacham khödir sovoz.
 
-[Ekon]{.name data-type="lore"}. Tijod zokhun khilin qadiz zöken zevik qomul zökhen. Koyoz chadash zezökükh Jözel chöyikh khechid jiven joghil./
-Kelodekon zönekh jochun. Ekon kelod jiven. Orolqi evod jiven uruvol qonir ghanim qadul uruvol jalud,/
-jiviz jalivas züyedüy qadul qadiz jalud. zaqin zanim qadul sovid zidun jaziy jodur jiviz ghunir zughuqat,/
-jiviz qadul zulod chaghoy qolaz. qazuch zokhun qadul qaduch chaghoy qolaz zökhen zubosh zevik chuchor./
-Ekon ghachaa qotur khizin jeleböl. qadiz qusil jochun, ghozuch khizich qusil jochun züser,/
-ghozuch ghuzoch joruy jelüd khenech chovin jozim jömik jochun, qadiz zötel zokhun qadiz chömey khöred jodur zökhen qotim,/
-jiviz qadiz ghachaa khukhas khödir jiviz jozulud jiviz qovikh jiven chaghoz khodor ghunolil qotim. qadiz zubosh zevik jodur./
-Uruvol qozabum jochun. Zilich khacham qadiz jiven khödir kodu chovin qavun.
+ekon. tijod zokhun khilin/
+qadiz zöken zevik qomul/
+zökhen. koyoz chadash zezökükh/
+qotur chödir, chöyikh jözel/
+jiven khechid. kelodekon zaman/
+khödir jochun, ekon kelod/
+jiven. qadul uruvol jalud/
+ghanim evodur qadiz qonir,/
+jiviz qadul qadiz khokhoy/
+jalud. zaqin zanim qadul/
+jedorud zidun jaziy jodur/
+jiviz ghunir zughuqat, jiviz/
+jedorud zulod qadul jochat/
+zesüvin, jiviz jedorud zokhun/
+qadul qaduch jochat zesüvin/
+zökhen zubosh zevik chuchor./
+ekon ghachaa qotur khizin/
+jeleböl, jiviz qadiz qusil/
+jochun, ghozuch khizich qusil/
+jochun züser. ghozuch ghuzoch/
+joruy jozim jömik jochun,/
+jelüd khenech chovin. qadiz/
+zötel qotim zokhun qadiz/
+jozim chömey jodur zökhen./
+qadiz ghachaa khukhas khödir,/
+jozulud, chaghoz qovikh jiven/
+khodor ghunolil qotim, jiviz/
+qadiz zubosh zevik jodur./
+uruvol zilich qozabum jochun./
+zilich khacham khödir sovoz.
 
-[Yolaq]{.name data-type="lore"}. Tijod iqod dujar chübish, zochulay khenech, khudad yaqnar khanalod, votri zazim jiven zotidikh ghuyuz./
-Evod. Evod jiven zaman. Zodol qozur shokhun iqod, chochin qomoch, julash sovid jelüd qonoq jiven jaloq,/
-jiviz zötel jiven zotosh kholiqin zevik qomul. ghunoq zotidikh ghozun ghayim zaqikh qadiz ghozun khevel,/
-jiviz qovikh kelod zokhun qadiz zevik ghukhod zökhen züchir qavun, iqod ghozun ghovikhaz jügülech jömik zösit,/
-jiviz yodvir jumaq uruvol zevik zütin. Yolaq chöze orolqi khübüsh khödir chomur, yolaq orjaz qotur zumut khochaq zodin zotan./
-Qaduch zotidikh zevik chöze, zokhun uruvol zönekh qazom jochun zökhen. zudom yolaq khödir khogham,/
-jiviz zaman qoghid zokhun ghunoq qadiz gured jalud zökhen julash jöbümil khödüt uruchaq khanalod jochun./
-Uruvol qozabum jochun. Zilich khacham qadiz jiven khödir kodu chovin qavun.
+yolaq. zazim votri qomoch/
+ghuyuz dujar iqod tijod/
+jiven, zochulay khenech chovin,/
+zaman evod jiven khanalod/
+jochun. evod. zaman evod/
+jiven. yolaq iqod zodol/
+qozur shokhun, qomoch chochin,/
+zayoch sovid julash ghuyuz/
+jelüd qonoq jiven jaloq,/
+jiviz zotosh zötel jiven/
+kholiqin zevik qomul. ghunoq/
+zotidikh ghozun ghayim zaqikh/
+qadiz ghozun zubosh zovuz,/
+jiviz qovikh kelod zokhun/
+qadiz zevik ghukhod zökhen/
+züchir qavun, jiviz yolaq/
+ghozun ghovikhaz jügülech qotur/
+zösit, jiviz yodvir jumaq/
+ghuyuz uruvol zevik zütin./
+chözeyud chüvel khödir yolaq/
+chöze, jiviz yolaq orjaz/
+qotur buzan zodin zotan./
+qaduch zotidikh zevik chöze,/
+zokhun uruvol qoduyuz qudum/
+qazom jochun zökhen, jiviz/
+zudom yolaq khödir khogham,/
+jiviz jöbümil zokhun qadiz/
+ghunoq ghuyuz gured jalud/
+zökhen julash ghuyuz khödüt/
+uruchaq khanalod jöbümil jochun./
+uruvol zilich qozabum jochun./
+zilich khacham khödir sovoz.
 
-[Qozuk]{.name data-type="lore"}. Tijod qazin chochin qotiq, javat qotiq chübish, khachis Yolaq ghozun khevel, votri ghuyuz./
-Iqod jiven khübüsh zökir, joghur khübüsh chomoy jiven uruvaq chovom, qozuk khoshiq jiven khuzir,/
-zötel yolaq jiviz khoshiq choyad qughun qavun zodin, jiviz zudukh qaghay. Zazim zanim mirjol jalud orolqi jeko zidun qadiz qotur khezön./
-Uruvaq khenech zaqid ghuyuz oqlaq yolaq jiven jivoq iqod jömik khevel, qovikh jiven jöbümil jiviz ghayim qotim./
-Qozuk jiviz Yolaq choyad soqir khenech khüket, soqir khenech qonir,/
-jiviz orolqi evod jiven jiven jözel zövek jiven khübüsh chomoy khödir zovuz, zövek jöchen qayur jiviz ghaniyush chovin,/
-zokhun khoshiq jiven orolqi zudom qaduch qazodir qomul zökhen, jiviz khuyakh zokhun zudom qaduch chokham zökhen. chutakh zidun zügüniz jözir jiven zaman qoghid zughish qaghay,/
-jiviz jözel jütin jaziy qavun jeyes, zokhun qozol khödüt jochun jökhen zökhen, jiviz qadiz khurokhikh qonoq jiven chovin jaloq./
-Uruvol qozabum jochun. Zilich khacham qadiz jiven khödir kodu chovin qavun.
+qozuk. khachis ghuyuz zazim/
+votri jömik tijod chochin/
+qazin yolaq ghozun khevel,/
+jiviz qaduch javat chübish/
+qotiq. yolaq iqod jiven/
+chüvel khödir, joghur khübüsh/
+chomoy jiven chovom, qozuk/
+joghur jiven khuzir, zötel/
+zokhun qadiz yolaq jiviz/
+khoshiq choyad qughun qavun/
+zökhen zodin, jiviz zudukh/
+qaghay. zazim zanim mirjolud/
+jeko zidun qadiz qotur/
+khezön. julash zömem, uruvaq/
+khenech ghuyuz, yolakud jivoq/
+iqod chübish zubosh zovuz,/
+jiviz qovikh jiven jöbümil/
+jiviz jelüd qotim. qozuk/
+jiviz yolaq choyad ghozuch/
+zokhun soqir qadiz khüket/
+zökhen khenech ghukhod, ghozuch/
+zokhun soqir qadiz qonir/
+zökhen khenech ghukhod, jiviz/
+jözel zövek evodur jiven/
+khübüsh chomoy khödir zovuz,/
+zövek qayur jiviz ghaniyush/
+chovin, zokhun soqir khoshiq/
+jiven qaduch qazodir zevik/
+qomul zökhen, jiviz khuyakh/
+zokhun zudom qaduch chokham/
+zökhen. chutakh qotuz qonoq/
+jiven chovin jöbümil zughish/
+qaghay, jiviz chadash zokhun/
+qozol khödüt jochun jökhen/
+zökhen jözel jütin zokhun/
+qadiz jaziy qavun zökhen/
+jeyes, jiviz qadiz khurokhikh/
+qonoq jiven chovin jaloq./
+uruvol zilich qozabum jochun./
+zilich khacham khödir sovoz.
 
-[Uruvaq Shokhun]{.name data-type="lore"}. Tijod zevik. Chikin koyoz ghovikhaz shokhun qotur chaghoy, oqod chübish./
-Uruvaq volket ghozun, ghoghinoz khilin qunut evod jiven jochun. Uruvaq orqaz ghozun, khilin khödüt zokhun qadiz qadiz khoqoz zökhen jütin qazodir./
-Uruvaq diqraq ghozun, khilin jilin qovor jiven khudad zoton qotur zubosh qomat, qaduch qoduyuz khoqoz./
-Uruvaq votri ghozun, Oroqidur khilin zenökh, qavar khilin dolqon ghozun jodur, zokhun Jönek jochun zökhen,/
-jiviz jivun khilin ghaqom jodur, jivun uruvaq votri qodiror diqraq ghozun ghaqom jodur, votri zazim zotidikh ghuyuz,/
-qazul Oroqidur jidir jibun jölön qojom jiviz uruvol zubosh jodur zökhen javal./
-Qadiz ghaqom qusish zevik jodur. Oroqidur qadiz koyoz ghozir zukhaloq qazod zenökh./
-Uruvol qozabum jochun. Zilich khacham qadiz jiven khödir kodu chovin qavun.
+uruvaq shokhun. qaduch tijod/
+zevik jochun. koyoz chikin/
+ghovikhaz shokhun züchir qotiq,/
+oqod chübish. uruvaq volket/
+ghozun, khilin ghoghinoz ghuyuz/
+qunut evod jiven jochun./
+uruvaq orqaz ghozun, khilin/
+khödüt zokhun evod qadiz/
+khoqoz zökhen jütin qazodir./
+uruvaq diqraq ghozun, khilin/
+jilin qovor jiven khudad/
+zoton qotur zubosh qomat,/
+jiviz qaduch qoduyuz khoqoz./
+uruvaq votri ghozun, oroqidur/
+khilin zenökh, qavar khilin/
+dolqon ghozun jodur, zokhun/
+jönek qoduyuz jochun zökhen,/
+jiviz khilin ghaqom jodur/
+ghanim, uruvaq votri diqraqor/
+ghozun ghaqom jodur ghanim,/
+zazim votri zotidikh ghuyuz,/
+oroqidur «jibun jölön khenech/
+jochun, uruvol zubosh jodur.»/
+javal. qadiz qusish ghaqom/
+zevik jodur. oroqidur koyoz/
+ghozir zukhaloq qazod zenökh./
+uruvol zilich qozabum jochun./
+zilich khacham khödir sovoz.
 
-Sovid zömin. Qadir jörüsikh chaghoy. Qadir joghur ghozun orjaz jömik zovuz. zaqin qadir qozabum jörüsikh qavun./
-Zusar ghozuch qoqam, zokhun qadiz ghozuch yitboq jochun zökhen. Sovid khevel züyedüy ghachaa qadiz chömel./
-Uruvol zubosh jodur. Evur ghozun zevik. Qozabum ghozun./
-Numaq zidun ghuyuz kelod zönekh ghozun zovot zuruch, yolaq zorotoq zuruch, khudad yaqnar evod zömin zuruch,/
-yodvir qazin kodu chovin jörüsikh qavun, jözel zövek jiven qadiz jömik junosh qaduch jiven ghunolil zovuz,/
-jiviz soqir khoshiq jiven qadiz qozabum jochun, zovul qadiz khödir zömol jömik, yiqnotud ghotaq votri jiven chübish,/
-jiviz Oroqidur zikir zevik javal, akhaq evur zevik javal, zilich uruvaq dolqon jiven zenökh./
-Khizin joyut koyoz jiven jochun. khizin ghozuch zulod jiven joyut zevik jochun./
-Uruvol qozabum jochun. Zilich khacham qadiz jiven khödir kodu chovin qavun.
+sovid zömin. qadir jörüsikh/
+jodur. qadir orjaz jömik/
+joghur ghozun zubosh zovuz,/
+jiviz zaqin qadir zönekh/
+jörüsikh qavun. zusar ghozuch/
+qoqam, zokhun qadiz ghozuch/
+yitboq jochun zökhen, jiviz/
+ghachaa qadiz sovid khevel/
+züyedüy chömel. uruvol zubosh/
+jodur. qadiz evur ghozun/
+zevik jodur. qadiz jonkhiq/
+ghozun jodur. numaq zidun/
+ghuyuz kelod zaman qaduch/
+jiven ghozun zovot zuruch,/
+jiviz yolaq zorotoq zuruch,/
+jiviz zaman evod jiven/
+zömin evod zuruch, evod/
+zokhun sovid qadiz yodvir/
+qazin ghuyuz jörüsikh sovoz/
+zökhen, jiviz jözel zövek/
+qadiz jömik junosh qaduch/
+jiven ghunolil zovuz, jiviz/
+soqir khoshiq jiven qadiz/
+zönekh jochun, zovul qadiz/
+khödir zömol jömik jochun,/
+yiqnotud ghotaq votri jiven/
+chübish, jiviz oroqidur zikir/
+zevik javal, jiviz akhaq/
+evur qusish zevik javal,/
+jiviz zilich uruvaq dolqon/
+ghozun zenökh. zusar khizin/
+joyut koyoz jiven jochun,/
+jiviz qadiz joyut khoyuy/
+zulod jiven zevik jochun./
+uruvol zilich qozabum jochun./
+zilich khacham khödir sovoz.
 :::
 
 ## See Also
