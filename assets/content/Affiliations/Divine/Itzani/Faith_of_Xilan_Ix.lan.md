@@ -83,7 +83,7 @@ sohl: {system: {commonSkills: [xilanixlan]}}
 
 **Domain:** Travel, Trade, Journeys, Messengers, Commerce, Communication
 
-The Faith of Shilan Ish'lan serves travelers on the [[place-kiichchik|Ki'ich'chik Continent]], which is not gentle land—impenetrable jungle, jagged mountains, unpredictable rivers—yet across this formidable geography the city-states maintain intricate networks of trade and communication. This feat is the domain of [[lore-xilanixlandty|Shilan Ish'lan]], god of travelers and the pathways they walk. The great causeway roads—the _ish'lan ch'upul_ (white roads), the sacred white stone paths—that connect major city-states are understood as literal manifestations of his presence. These engineering marvels are raised above the landscape to prevent flooding, perfectly straight for hundreds of miles, their white stone surfaces reflecting moonlight for nighttime travel. To walk a sacbé is to walk in the god's own footsteps.
+The Faith of Shilan Ish'lan serves travelers on the [[place-kiichchik|Ki'ich'chik Continent]], which is not gentle land—impenetrable jungle, jagged mountains, unpredictable rivers—yet across this formidable geography the city-states maintain intricate networks of trade and communication. This feat is the domain of [[lore-xilanixlandty|Shilan Ish'lan]], god of travelers and the pathways they walk. The great causeway roads—the _ish'lan ch'upul_ (white roads), the sacred white stone paths—that connect major city-states are understood as literal manifestations of his presence. These engineering marvels are raised above the landscape to prevent flooding, perfectly straight for hundreds of miles, their white stone surfaces reflecting moonlight for nighttime travel. To walk a white road is to walk in the god's own footsteps.
 
 ## Worship
 
@@ -107,7 +107,7 @@ Recruitment is unlike any other branch's: it takes runners, porters, caravan gua
 
 ## Relations
 
-With [[affiliation-ixilanchalix|Ish'ilan Ch'alish]] the branch has a working partnership of long standing: astronomers lay the lines that make a sacbé run straight, and the **Reckoner of Distances** works the stages with them. In return the road priests carry the astronomers' corrections and observations between observatories, which is the only reason a continent-wide calendar is possible at all.
+With [[affiliation-ixilanchalix|Ish'ilan Ch'alish]] the branch has a working partnership of long standing: astronomers lay the lines that make a white road run straight, and the **Reckoner of Distances** works the stages with them. In return the road priests carry the astronomers' corrections and observations between observatories, which is the only reason a continent-wide calendar is possible at all.
 
 The branch is [[affiliation-kanixhakan|K'anish Ha'kan]]'s carrier: the cacao trade in particular moves on its causeways and under its protection, and the Ts'ultsik and the road priests are frequently the same families. It supplies [[affiliation-kayikchalix|K'ayik Ch'alish]] with copal, ceiba and mahogany from the far reaches of the continent, and a cut road is felt in the fire-temples within the month.
 

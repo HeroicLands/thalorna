@@ -6619,6 +6619,119 @@ data:
       gloss: people; a group of persons, including a few as well as many; the person modifier nargh precedes the group head narghem without requiring a large count
       field: Everyday speech
       source: {kind: coined}
+    - form: dulkhom
+      class: n
+      field: The road and the col
+      gloss: "a caravan; the loads, beasts and people going over a road together"
+      source: {kind: coined}
+    - form: dalghosk
+      class: n
+      field: The road and the col
+      gloss: "a peak; the summit of a mountain, the part a snow-watcher reads at first light"
+      source: {kind: coined}
+    - form: dalghom
+      class: n
+      field: The road and the col
+      gloss: "a tower; a high built structure, such as the summit priests' tower on a col"
+      source: {kind: coined}
+    - form: ashalnargh
+      class: n
+      field: The road and the col
+      gloss: "a lowlander; a person of the low country on either side of the wall"
+      built: [ashal, nargh]
+      source: {kind: coined}
+    - form: burshang
+      class: n
+      field: The road and the col
+      gloss: "the fee; the half of what lands at the far end, owed to the road"
+      source: {kind: coined}
+    - form: lerkhash
+      class: n
+      field: The road and the col
+      gloss: "a blessing; the words said over a caravan at a summit"
+      source: {kind: coined}
+    - form: sharqel
+      class: v
+      field: The road and the col
+      gloss: "to argue; to dispute a matter aloud with another; nonfinite action citation, not a complete finite assertion without an evidential marker"
+      source: {kind: coined}
+    - form: qesh sharqel
+      class: v
+      field: The road and the col
+      gloss: "to argue; to dispute a matter aloud with another; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use"
+      source: {kind: coined}
+    - form: pultom
+      class: n
+      field: The road and the col
+      gloss: "a walking; the walking of a road from end to end, as the first walking over the wall and the second walking of a road whose cord is lost"
+      source: {kind: coined}
+    - form: tsumshar
+      class: n
+      field: The road and the col
+      gloss: "col-talk; an unsettled case between two lineages, told again whenever a meeting at a col hears a question of its shape"
+      built: [tsum, shar]
+      source: {kind: coined}
+    - form: moqash
+      class: n
+      field: Weather, ground, beast and state
+      gloss: "a mule"
+      source: {kind: coined}
+    - form: kharq
+      class: n
+      field: Weather, ground, beast and state
+      gloss: "a horn; the hard growth on a beast's head, and the material worked from it"
+      source: {kind: coined}
+    - {form: tsaul, class: n, field: The road and the col, gloss: "barley", source: {kind: coined}}
+    - form: tulosk
+      class: n
+      field: The road and the col
+      gloss: "indigo; blue dye pressed into cakes for carrying"
+      source: {kind: coined}
+    - form: boikem
+      class: v
+      field: The hearth and the cord
+      gloss: "to tie; to knot a thing into a cord, as a cord-keeper ties the season's dead; nonfinite action citation, not a complete finite assertion without an evidential marker"
+      source: {kind: coined}
+    - form: qesh boikem
+      class: v
+      field: The hearth and the cord
+      gloss: "to tie; to knot a thing into a cord, as a cord-keeper ties the season's dead; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use"
+      source: {kind: coined}
+    - form: wughlarsh
+      class: v
+      field: The hearth and the cord
+      gloss: "to read a cord; to know its knots in their order; nonfinite action citation, not a complete finite assertion without an evidential marker"
+      built: [wugh, larsh]
+      source: {kind: coined}
+    - form: qesh wughlarsh
+      class: v
+      field: The hearth and the cord
+      gloss: "to read a cord; to know its knots in their order; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use"
+      source: {kind: coined}
+    - form: yoighboik
+      class: n
+      field: The hearth and the cord
+      gloss: "the count; the knot of the dead, a road's dead said stage by stage at the closing of the open months"
+      built: [yoigh, boik]
+      source: {kind: coined}
+    - form: ghaukdökh
+      class: n
+      field: The hearth and the cord
+      gloss: "a guide-mother; the senior woman of a lineage, who holds the knowledge of its road and its morning"
+      built: [ghauk, dökh]
+      source: {kind: coined}
+    - form: ongelshar
+      class: n
+      field: The hearth and the cord
+      gloss: "the morning word; the instruction at first light that says whether the road is open, and any short instruction given on the road"
+      built: [ongel, shar]
+      source: {kind: coined}
+    - form: rulshar
+      class: n
+      field: The hearth and the cord
+      gloss: "store-talk; the prose told at the fire through the closed months"
+      built: [rul, shar]
+      source: {kind: coined}
   icon: icon-speaking
   templatePriority: null
   packFolder: language
@@ -6701,10 +6814,13 @@ data:
     - {name: Cord-keeper, tongue: translation}
     - {name: Fee-reckoner, tongue: translation}
     - {name: Fosterling, tongue: translation}
+    - {name: Ghelmun, tongue: osket}
+    - {name: Ghomse, tongue: osket}
     - {name: Guide-mother, tongue: translation}
     - {name: Hearth-kin, tongue: translation}
     - {name: Hearth-warden, tongue: translation}
     - {name: Herdholder, tongue: translation}
+    - {name: Nashken, tongue: osket}
     - {name: Osket, tongue: osket}
     - {name: Osket Adventurer's Guide, tongue: translation}
     - {name: Osket Guide-Cord, tongue: translation}

@@ -4368,6 +4368,16 @@ data:
       class: v
       gloss: "to see or observe as a participating member of a party; paired with hvaz, to see personally. Ev drak dzav: I observe the mountain as part of the party."
       field: Everyday speech
+    - form: vhardzhev
+      class: "n"
+      field: The roll
+      gloss: "the answer from the floor, a correction called out by anyone in the house who catches a fault in the roll, which the Bone-bringer then says again as corrected"
+      built: [vhard, zhev]
+    - form: kuzhdzel
+      class: "n"
+      field: The people and the house
+      gloss: "a hearth-telling, prose told at the fire in the closed months while the hands work, with the others at the fire cutting in"
+      built: [kuzh, dzel]
   icon: icon-speaking
   templatePriority: null
   packFolder: language

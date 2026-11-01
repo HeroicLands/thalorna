@@ -6,7 +6,7 @@ subType: language
 description: "The glottal, glyph-written tongue of the Ki'ich'chik city-states, with short everyday words and richly compounded titles."
 tags: []
 data:
-  roman: "abcehiklmnopqstuyzABCEHIKLMNOPQSTUYZáéíóúëÁÉÍÓÚË0123456789()–-'’"
+  roman: "abcehiklmnopqstuyzáéíóúë0123456789()–-'’"
   core: true
   abbreviation: Kiichk.
   icon: icon-speaking
@@ -406,6 +406,11 @@ data:
       class: n
       field: Water and land
       gloss: a sacred peak, and the pyramid built as one
+    - form: pu'talal
+      class: n
+      field: Water and land
+      gloss: a step, a stair; what a climb rests on
+      built: [pu'tal, -al]
     - {form: pu'uts, class: n, field: Water and land, gloss: a mesa}
     - {form: shi'lan, class: n, field: Water and land, gloss: lowlands}
     - {form: ts'amik, class: n, field: Water and land, gloss: a plateau}
@@ -606,6 +611,34 @@ data:
       field: Rank, temple and court
       gloss: alive, living
       concept: alive
+    - form: ch'alishmah
+      class: n
+      field: Rank, temple and court
+      gloss: a god, a lord of the sacred
+      built: [ch'alish, -mah]
+    - form: p'iqalbal
+      class: n
+      field: Rank, temple and court
+      gloss: a builder, a mason of sacred work
+      built: [p'iqal, -bal]
+    - form: ts'obanal
+      class: n
+      field: Rank, temple and court
+      gloss: a reckoner, the one who tends a count
+      built: [ts'oban, -al]
+    - form: ish'lanbal
+      class: n
+      field: Rank, temple and court
+      gloss: a road priest, a keeper of a road shrine
+      built: [ish'lan, -bal]
+    - form: ish'bal'ob
+      class: n
+      field: "Rank, temple and court"
+      gloss: "a death-walker, a priest of the death jaguar"
+    - form: ts'uqilob
+      class: n
+      field: "Rank, temple and court"
+      gloss: "a lost soul, one who failed the passage below"
     - {form: pakul, class: n, field: House and hearth, gloss: a table, concept: table}
     - {form: ch'ishum, class: n, field: House and hearth, gloss: a chair, concept: chair}
     - {form: ts'uku, class: n, field: House and hearth, gloss: a pillow}

@@ -60,7 +60,7 @@ A daughter who will hold a road is taught by the woman who holds it now. A son i
 
 Anyone who reaches an Osket door is fed and housed, without payment and without exception, and the Roadless are the only people the rule leaves out. The obligation falls on the hearth-warden who keeps the winter stores, and it holds hardest through the closed months, when the store is the whole of a village's economy.
 
-It is the one Osket custom lowlanders find entirely legible, and the one they most often abuse. The Osket treat the abuse as the price of the custom and have never proposed a remedy for it.
+It is the one Osket custom lowlanders find entirely legible, and the one they most often abuse. The Osket treat the abuse as the price of the custom and have never proposed a remedy for it. [[lore-morningwords|The Morning Words]] give the rule to a daughter in two lines: [Feed the one who has eaten at your door before. Feed him again.]{.verse}
 
 ## Outside the Order
 
@@ -81,6 +81,14 @@ One subject is closed. The lineages will discuss the weather, the road, the fee 
 There is no script. A hearth's route-record is a knotted cord—road, stage, load, day, and the dead—tied by its cord-keeper and read by nobody outside the blood. Cord-keeping goes to one person in a generation, and a cord whose keeper dies untimely is not read again by anyone.
 
 A few of the Suryadvar hearths read and write in the [[skill-vedyarlng|Vedyari Language]] of the lowlands for their contracts. None of them writes Osket in it.
+
+Nothing a hearth tells is written either. What it keeps is said, by the guide-mother on the road and at the closing, by the hearth-warden at the fire through the closed months, and by the lineages at a col, and these are the tellings heard most often on the wall:
+
+- [[lore-ghelmuncount|The Count of Ghelmun]] is a Tsokhar hearth's count of the dead of Meghadvar at the closing of the open months, stage by stage, each of the dead said with the load, the day and how the guide-mother knows it, back to the year its cord was lost and the road was walked again.
+- [[lore-morningwords|The Morning Words]] are the instructions a guide-mother gives the daughter who will hold her road, a few to a stage and none with its reason, and the gravest of them is how a thing is known: [Seen is seen. Told is told. Read is read.]{.verse}
+- [[lore-firstwalking|The First Walking]] is the store-talk of the first road over the wall, the woman who walked to the col and lost her feet to it and the brother who walked what she opened, and the door, the fee and the Roadless all begin in it.
+- [[lore-thirddoor|The Third at the Door]] is told at Tsokhar of a short winter in which a warden fed the drover who wintered at her door every year and did not open to the Roadless man of her own blood, and of what the drover did that night.
+- [[lore-twocords|The Case of the Two Cords]] is the oldest col-talk of the Suryadvar hearths, given again whenever one hearth's road-holder goes onto another's road, and both hearths' cords keep its two dead, each at a stage of its own road.
 
 ## Names
 
@@ -146,7 +154,7 @@ The Osket spend on the road: the common store, the hearth-warden's winter provis
 
 ## Reaching the Dead
 
-The living reach the dead by walking the road. The cord names the shelf where each of them stopped, and a guide passing it passes them. The Pass-Shrine's count by name on the cistern wall is the second form, and it is the ushtakas' and not the Osket's own. The Osket make no claim that the dead answer. A lineage that has lost a cord-keeper has lost the reading of its cord, and the knowledge has to be walked again.
+The living reach the dead by walking the road. The cord names the shelf where each of them stopped, and a guide passing it passes them. The Pass-Shrine's count by name on the cistern wall is the second form, and it is the ushtakas' and not the Osket's own. The Osket make no claim that the dead answer. [[lore-ghelmuncount|The Count of Ghelmun]] says of the dead its cord no longer names: [We walk past them on every stage, in the open months, with the loads./That is how they are reached.]{.verse} A lineage that has lost a cord-keeper has lost the reading of its cord, and the knowledge has to be walked again.
 
 The cost is the keeper. Cord-keeping goes to one person in a generation, and when that person dies untimely the cord and its dead go unread.
 

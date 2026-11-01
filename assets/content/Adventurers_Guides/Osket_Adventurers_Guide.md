@@ -22,6 +22,16 @@ Anyone who reaches an Osket door is fed and housed, without payment and without 
 
 An Osket tells an outsider what to do and not why. The tongue marks on every verb whether the speaker saw a thing, was told it or infers it. The road-pidgin lowlanders learn has about two hundred words—loads, weather, halt, go, water, rope, dead—and carries none of those marks, so a guide's "the pass is open" in pidgin says nothing about how he knows. The Osket keep records in knotted cords of hide, read by nobody outside the blood; a stolen cord is a length of knotted hide.
 
+## What the Hearths Tell
+
+Nothing on the wall is written, so what the hearths keep is said, and a guest who winters at a door hears some of it as a guest may hear it. These tellings are heard most often, and their lines turn up on the road:
+
+- [[lore-ghelmuncount|The Count of Ghelmun]] is said at Tsokhar at the closing of the open months: the dead of Meghadvar stage by stage, each with the load, the day and whether the guide-mother saw it, was told it or reads it from the road.
+- [[lore-morningwords|The Morning Words]] are a guide-mother's instructions to the daughter who will hold her road, each one a thing to do with the reason left out, from the three looks at a stranger to [Read the peak and not the sky.]{.verse}
+- [[lore-firstwalking|The First Walking]] tells how the first road over the wall was found by a woman who lost her feet to it, and where the door, the fee and the Roadless come from; at the col it stops for a stranger.
+- [[lore-thirddoor|The Third at the Door]] is a Tsokhar winter tale of a warden who fed a lowlander who wintered free at her door every year, and did not open to a Roadless man of her own blood.
+- [[lore-twocords|The Case of the Two Cords]] is the col-talk two Suryadvar hearths give whenever one hearth's guide walks the other's road, and it turns on what a lowlander's pidgin cannot say: how he knows.
+
 ## Places and Dangers
 
 - [[place-oskhelt|Oskhelt]], above the upper stages of [[place-suryadvar|Suryadvar]], is the one place on the wall where a lowlander arranges a crossing; for two months a year it is a market.

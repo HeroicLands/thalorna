@@ -9,7 +9,7 @@ data:
   lang: hvar
   glossary:
     - name: "Fort-carrier"
-      definition: "Holder of the contract that feeds the Sangha-fort, and the one Hvarn who deals with lowland officers"
+      definition: "Holder of the contract that feeds the Sangra-fort, and the one Hvarn who deals with lowland officers"
       common: true
     - name: "Bone-bringer"
       definition: "Recoverer of the dead from the eastern gorges and keeper of the roll"
@@ -75,6 +75,17 @@ A Hvarn carries a given name and a hearth name, and the hearth name changes if h
 There is no script and there is no cord. What the Hvarn keep, they keep by recitation. The tongue is not related to [[skill-osketlng|Osket]], which surprises everyone who has assumed it must be: the two peoples live three hundred miles apart along the same wall, do much the same work, marry across the gap occasionally, and speak languages with no demonstrable common stock. Both peoples state this without interest, and lowland scholars find it difficult to accept.
 
 Hvarn words are short and heavy, and every word has a vowel. The people's own word for themselves, _hvarn_, is no exception.
+
+## What the House Recites
+
+Nothing the Hvarn keep is written, so what they hold is said aloud in the long house, and put right from the floor when it is said wrong. These are the works said most often there, and their lines turn up in ordinary talk:
+
+- [[lore-rollupshelf|The Roll of the Upper Shelf]] is the part of the Bone-bringer's roll that walks the upper shelf of Jnanadvar place by place, with the floor's corrections and the children who answer with a place, and its warning at the Knee is the one every Roadwalker knows: [The inside of the bend./The wide place. Look behind the snow.]{.verse}
+- [[lore-tworoofs|The Telling of the Two Roofs]] is the hearth-telling of how two fires caught by one storm wintered under one roof, said their dead to each other and made the first turn as payment, and it is why the council sits at the seam in the middle of the house.
+- [[lore-hvarnaccount|The Account of Tudzelv]] is the account a Reach-guide gave the council for a Roadwalker lost at the Knee, kept whole and told to Roadwalkers so that they give their own in the right order and say _I_ for what they chose.
+- [[lore-ropesayings|The Sayings at the Rope]] are said one to each arm-length as a rope is greased in the closed months, and a child learns them at the rope before it walks one: [What you did, say _I_./What the rope did, say _we_./Do not trade them.]{.verse}
+- [[lore-droveralone|The Drover Who Went Over Alone]] is the Hvurnash hearth's comic telling against itself, of a Drover who walked the whole upper shelf alone by the roll on a closed day and was told by the floor that he crossed and did not cross.
+- [[lore-hvarnrollnight|When the Roll Is Longer Than the Night]] is the question a child asks at the close of the recitation on the longest night, and the answers every hearth gives it, none of them the word: [The night is longer than the roll./This winter.]{.verse}
 
 ## What Is Good, and What Succeeds
 
@@ -158,7 +169,7 @@ A person who cannot walk the crossings is kept at the fire. The long house is fu
 
 Shelter is the hearth's, and past the hearth the long house's. Teaching is carried by the work: a child learns the rope at the fire, a Drover learns the lower stages with the beasts, a Roadwalker learns the weather in another's charge, and a Reach-guide takes a crossing alone only when the council has heard that he knows it. The language teaches the party with its paired forms.
 
-Defense is not an institution. No body of arms is named, and the Hvarn hold no ground a lowland army could reach. [[place-sangrafort|The Sangha-fort]] is the janpodas' garrison, fed by Hvarn pack-trains, and it guards the col and not the people. The people's protection is that the two crossings are theirs, that the weather on them is the Storm-reader's, and that nobody who ignored the council would be given a road.
+Defense is not an institution. No body of arms is named, and the Hvarn hold no ground a lowland army could reach. [[place-sangrafort|The Sangra-fort]] is the janpodas' garrison, fed by Hvarn pack-trains, and it guards the col and not the people. The people's protection is that the two crossings are theirs, that the weather on them is the Storm-reader's, and that nobody who ignored the council would be given a road.
 
 ## The Line at Every Age
 

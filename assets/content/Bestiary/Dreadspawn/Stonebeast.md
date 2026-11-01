@@ -273,7 +273,7 @@ The cave under the col is bigger than it looked from outside, and its floor is h
 
 # Dossier {#dossier}
 
-The Stonebeast is a dreadspawn of living stone: a four-legged mass of rock and crystal twenty feet long and many tons in weight, which lies dormant in caverns, sometimes for centuries, and wakes when something disturbs it. Then it destroys whatever woke it, slowly and completely, and goes back to sleep. One sleeps in a cavern under the col of [[place-shankhadvr|Shankhadvar]], beneath the black face of [[place-kalashkhr|Kalashikhar]] at the end of [[place-estrnreach|the Eastern Reach]], a few hundred yards from [[place-sangrafort|the Sangha-fort]], the one standing garrison the temple-republics of [[place-vedyarargn|Vedyara]] keep. It has woken twice in the fort's four centuries. Like every dreadspawn it was made, it is alive, and it does not breed.
+The Stonebeast is a dreadspawn of living stone: a four-legged mass of rock and crystal twenty feet long and many tons in weight, which lies dormant in caverns, sometimes for centuries, and wakes when something disturbs it. Then it destroys whatever woke it, slowly and completely, and goes back to sleep. One sleeps in a cavern under the col of [[place-shankhadvr|Shankhadvar]], beneath the black face of [[place-kalashkhr|Kalashikhar]] at the end of [[place-estrnreach|the Eastern Reach]], a few hundred yards from [[place-sangrafort|the Sangra-fort]], the one standing garrison the temple-republics of [[place-vedyarargn|Vedyara]] keep. It has woken twice in the fort's four centuries. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
@@ -281,7 +281,7 @@ The stonebeast is shaped roughly like a great four-legged beast built of stone: 
 
 ## In the Land
 
-Shankhadvar is the easternmost and worst of the crossings of the wall, treacherous and lightly traveled, and the Sangha-fort on its col is a squat stone work with a cistern, a granary, a signal-tower and sixty men. The stonebeast's cavern is in the rock below the col on the Vedyari side, a deep cave that runs back into the mountain. It does not eat, drink or rest beyond stillness, and it lies there. It wakes when stone is taken from its cave or the rock round it, when there is a heavy tremor, or when intruders go deep into its cavern, and then it comes out and destroys what woke it and anything near it, and goes back. The steep, bare, broken rock of the high pass is its ground, and it moves over it slowly but without difficulty.
+Shankhadvar is the easternmost and worst of the crossings of the wall, treacherous and lightly traveled, and the Sangra-fort on its col is a squat stone work with a cistern, a granary, a signal-tower and sixty men. The stonebeast's cavern is in the rock below the col on the Vedyari side, a deep cave that runs back into the mountain. It does not eat, drink or rest beyond stillness, and it lies there. It wakes when stone is taken from its cave or the rock round it, when there is a heavy tremor, or when intruders go deep into its cavern, and then it comes out and destroys what woke it and anything near it, and goes back. The steep, bare, broken rock of the high pass is its ground, and it moves over it slowly but without difficulty.
 
 ## Key Behaviors
 

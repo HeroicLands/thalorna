@@ -79,7 +79,7 @@ The system exists because the eastern trade cannot support the western arrangeme
 
 ## The Fort
 
-[[place-sangrafort|The Sangha-fort]] on the conch-door col is fed by Hvarn pack-trains. The contract is old, is renewed every third year with the eastern janpodas, and is the single largest piece of Hvarn income. The **Fort-carrier** who negotiates it is the one member of the people who speaks the lowland [[skill-vedyarlng|Vedyari Language]] fluently, and the one the garrison's officers know by name.
+[[place-sangrafort|The Sangra-fort]] on the conch-door col is fed by Hvarn pack-trains. The contract is old, is renewed every third year with the eastern janpodas, and is the single largest piece of Hvarn income. The **Fort-carrier** who negotiates it is the one member of the people who speaks the lowland [[skill-vedyarlng|Vedyari Language]] fluently, and the one the garrison's officers know by name.
 
 It also makes the Hvarn the confederation's eyes on a frontier the confederation has no other way of watching, a fact [[affiliation-shikhalaya|Shikhalaya]] resents and the Hvarn decline to discuss.
 
@@ -89,5 +89,5 @@ The **Bone-bringer** is the Hvarn office with the longest memory. He recovers th
 
 ## See Also
 
-- [[place-estrnreach|The Eastern Reach]] · [[place-nurvhrn|Nurvharn]] · [[place-sangrafort|the Sangha-fort]]
+- [[place-estrnreach|The Eastern Reach]] · [[place-nurvhrn|Nurvharn]] · [[place-sangrafort|the Sangra-fort]]
 - [[affiliation-osketguides|The Osket]] · [[affiliation-janpdsvdyr|Janpodas of Vedyara]] · [[skill-hvarnlng|the Hvarn Tongue]]

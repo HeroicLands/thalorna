@@ -10,7 +10,7 @@ data: {packFolder: adventurersguides, culture: hvarnclt}
 
 > You climb the last of the head-valley into [[place-nurvhrn|Nurvharn]] in the blue hour after sunset, with the first hard frost squeaking under your boots and your breath freezing in your scarf. There is no village to see, only a long low hump of turf, white with old snow, running across the valley floor like a sleeping animal. Smoke leaks from a dozen holes along its back. A door of bound planks opens and lets out heat, the smell of yak butter and wet wool, and a roar of voices. Inside, the long house runs away from you into firelit dimness: hearth after hearth along a packed-earth floor swept clean as a table, children asleep in heaps of hides, a girl working grease into a coil of rope, two old men bent over a broken pack-saddle, a woman stirring a pot and arguing with three people at once without looking up from it. Nobody here has a room of their own, and nobody seems to want one.
 >
-> A broad man with frost still in his beard pushes through the crowd toward you. He speaks lowland [[skill-vedyarlng|Vedyari]], slow and careful. "[Hevrel]{.name data-type="being/npc"}, of the [Klemverd hearth]{.name data-type="affiliation/lineage"}. Fort-carrier." Then, without being asked: "The first Hevrel was found under the upper shelf of [[place-jnanadvar|Jnanadvar]], eleven winters back." He takes your pack off your shoulders before you can object, sets you down at his hearth between his daughter and a sleeping dog, and puts a bowl of barley and butter in your hands. The janpodas' seal is in its box, he says, nodding toward the dark end of the house, and you can see it after you have eaten.
+> A broad man with frost still in his beard pushes through the crowd toward you. He speaks lowland [[skill-vedyarlng|Vedyari]], slow and careful. "[Hevrel]{.name data-type="being/npc"}, of the [Klemverd hearth]{.name data-type="affiliation/lineage"}. Fort-carrier." Then, without being asked: "The first Hevrel was found under the upper shelf of [[place-jnanadvar|Jnanadvar]]." He takes your pack off your shoulders before you can object, sets you down at his hearth between his daughter and a sleeping dog, and puts a bowl of barley and butter in your hands. The janpodas' seal is in its box, he says, nodding toward the dark end of the house, and you can see it after you have eaten.
 
 [[affiliation-hvarnguides|The Hvarn]] are nine thousand drovers who keep the two crossings of [[place-estrnreach|the Eastern Reach]], where [[place-graznmntns|the Grazian Mountains]] swing east from the [[place-vedyarargn|Vedyara Region]] toward the [[place-tantsouregin|Tantsou Region]]. Through the open season their hearths are scattered across the high pastures with the pack-beasts; through the closed months the whole people lives at Nurvharn, under one turf roof. They are poor by any lowland measure. They are also the best-connected people on the wall: they feed the one fort the temple-republics keep, they carry the scholars and envoys who cross by Jnanadvar, and about forty lowlanders speak their tongue.
 
@@ -22,12 +22,23 @@ Hvarn work is roped work, and the language marks in its verbs whether a man did 
 
 The Hvarn go down for their dead. The bone-bringer recovers a body from the eastern gorges wherever recovery is possible, records where it was found, and recites the whole roll at the winter council, where anyone may correct him from the floor. Children are named from the roll. A Hvarn asked about his name answers with a place, and the roll is the best map of where the ground fails that anyone has.
 
+## What the House Recites
+
+Nothing is written, so what the Hvarn keep they say aloud, and anyone may put it right from the floor. These are heard most often in the long house:
+
+- [[lore-rollupshelf|The Roll of the Upper Shelf]] walks the upper shelf of Jnanadvar place by place with the dead found at each, and it is the best map of where the shelf fails that anyone has.
+- [[lore-tworoofs|The Telling of the Two Roofs]] tells how two fires wintered under one roof, said their dead to each other and shared the road out as payment.
+- [[lore-hvarnaccount|The Account of Tudzelv]] is the model account a Reach-guide gives the council for a person lost, and it teaches what the floor asks.
+- [[lore-ropesayings|The Sayings at the Rope]] are said while ropes are greased in winter, one to each arm-length, from the Storm-reader's word to the debt said aloud: [A debt not said/is a body not brought up.]{.verse}
+- [[lore-droveralone|The Drover Who Went Over Alone]] is the comic telling of a Drover who crossed by himself and was told he did not cross.
+- [[lore-hvarnrollnight|When the Roll Is Longer Than the Night]] is asked at the close of the recitation, and every hearth answers it its own way.
+
 ## Places and Dangers
 
 - [[place-nurvhrn|Nurvharn]] is the winter house and the council's seat. Lowlanders come only for the renewal of the fort contract, every third year, and nobody has been invited to stay the winter in four centuries.
 - [[place-jnanadvar|Jnanadvar]], the scholars' door, takes a month and a half to reach Tantsou's western frontier, where a Tantsou way-station records every traveler in a register no Vedyari has been allowed to see.
 - [[place-shankhadvr|Shankhadvar]], the conch-door, is the worst crossing on the wall: a shelf above an unmeasured gorge, two months to anywhere, two or three parties in a good year.
-- [[place-sangrafort|The Sangha-fort]] on the conch-door col holds sixty men and lives on Hvarn pack-trains. [[affiliation-shikhalaya|Shikhalaya]] resents the arrangement, and the Hvarn decline to discuss it.
+- [[place-sangrafort|The Sangra-fort]] on the conch-door col holds sixty men and lives on Hvarn pack-trains. [[affiliation-shikhalaya|Shikhalaya]] resents the arrangement, and the Hvarn decline to discuss it.
 - The storms of the Reach come up the eastern valleys without warning, and a storm-reader's refusal ends a day's travel.
 
 ## Ways In
@@ -46,7 +57,7 @@ A party can come up with a lowland factor for the contract renewal, or be hired 
 : the crossings, the gorges and the weather
 
 [[skill-hvarnlng|The Hvarn tongue]]
-: paired forms, vowelless words and names from the roll
+: paired forms, short heavy words and names from the roll
 
 [[lore-osketclt|The Osket]]
 : the other guide-people of the wall
