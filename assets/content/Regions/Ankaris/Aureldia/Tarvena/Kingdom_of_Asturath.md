@@ -6,104 +6,64 @@ subType: polity
 description: "Mountainous heartland of Tarvénia, seat of the High King—kingdom of mountain fortresses never conquered by Vylaria, spiritual core of Tarvenan independence."
 data:
   templatePriority: null
-  demonym: Asturath
+  demonym: Astúrathi
   epithet: null
   symbol: null
   governance:
     model: monarchy
-    summary: Hereditary monarchy with a council of mountain lords.
+    summary: >-
+      A hereditary king among mountain lords who hold their valleys in their own right; the council of mountain lords acknowledges each heir, judges between lords and answers the king's call to the ban.
     ranks:
       - level: 0
-        title: Outlaw
+        title: Banished
         description: >-
-          Cast out by the realm and set beyond its protection—outlawed, banished, or attainted. Known to the polity only as one it has excluded.
+          Sentenced to banishment by a valley lord or the king, owed no shelter in any valley of the kingdom, and outside every lord's protection.
       - level: 1
-        title: Unfree
+        title: Freeholder
         description: >-
-          Bound to the land or to a master, owing labor rather than rent, and unable to depart, marry, or dispose of property at will.
+          A free member of a household in one of the kingdom's valleys, who bears arms, has a voice in the village assembly and owes the valley's lord the ban.
       - level: 2
-        title: Freeman
+        title: Sworn Man
         description: >-
-          Free at law to hold, trade, and remove where they will, and answerable directly to the realm's courts, but bearing no rank within it.
+          Sworn to a lord's household for wages and keep, bound to follow the lord to the ban and to hold the lord's towers, with the lord answering for the sworn man's deeds.
       - level: 3
-        title: Gentry
-        description: >-
-          Entitled to bear arms and to be answered as a gentleman, holding no title of nobility but standing above the common freeman by birth or grant.
-      - level: 4
         title: Knight
         description: >-
-          Holding land of a lord by military service, owing that service in person, and bearing the arms and obligations of the fee.
+          Holding land of a mountain lord or the king by mounted service, and riding to the ban with a knight's arms and horse.
+      - level: 4
+        title: Mountain Lord
+        description: >-
+          Holding a valley in their own right by descent, judging in it, bringing their own banner to the ban, and sitting in the council of mountain lords.
       - level: 5
-        title: Lesser Nobility
+        title: Royal House
         description: >-
-          Holding a fief in their own right, with vassals beneath them and a greater lord above, and exercising justice within their holding.
+          Of the blood of the kings of Asturath, first in precedence among the lords and in the line of the crown.
       - level: 6
-        title: Greater Nobility
+        title: King
         description: >-
-          Holding a province of the crown directly as tenant-in-chief, answering to no authority below the sovereign, and commanding lesser lords in turn.
-      - level: 7
-        title: Prince or Princess of the Blood
-        description: >-
-          Of the ruling house by blood or marriage, standing above the nobility in precedence and in claim, but holding no crown.
-      - level: 8
-        title: Sovereign
-        description: >-
-          The crown itself, from which all other standing in the realm derives and to which all fealty within it ultimately runs.
+          The crown of Asturath, held for life by the heir of the last king once the council of mountain lords has acknowledged them, and lord of the king's own valleys besides.
     offices:
-      King: Male sovereign, reigning in his own right.
-      Queen: Female sovereign, reigning in her own right.
-      Queen Consort: Female spouse of a reigning king.
-      Prince Consort: Male spouse of a reigning queen.
-      Prince: >-
-        Male member of the royal house by birth; or a sovereign ruling a principality in his own right.
-      Princess: >-
-        Female member of the royal house by birth or by marriage to a prince; or a sovereign ruling a principality in her own right.
-      Chancellor: Keeper of the great seal, through whom the crown's writs, charters and grants are issued.
-      Treasurer: Keeper of the realm's revenue, answerable for its receipt, audit and disbursement.
-      Steward: >-
-        Head of the royal household, and in some realms the first officer of the realm beneath the crown.
-      Constable: Commander of the realm's host in the field, holding the crown's military authority.
-      Marshal: >-
-        Second to the Constable, charged with the muster, the horse, discipline within the host, and the regulation of arms.
-      Chamberlain: >-
-        Keeper of the royal chamber, controlling the sovereign's private revenue and access to their person.
-      Justiciar: Chief justice of the realm, and commonly its regent when the sovereign is absent.
-      Butler: >-
-        Holder of the crown's right in wine and the levy upon it—a revenue office far richer than its name suggests.
-      Admiral: Commander of the realm's ships and of the coasts they guard.
-      Sheriff: >-
-        The crown's officer within a shire, answerable for its revenue, its courts, and the raising of its posse.
-      Coroner: >-
-        Keeper of the pleas of the crown within a district—sudden deaths, wrecks, and treasure trove.
-      Escheator: >-
-        Officer charged with lands falling to the crown by death without heir, by forfeiture, or by attainder.
+      Keeper of the Stone: >-
+        Presiding officer of the council of mountain lords, who opens each meeting, keeps the order of speaking at the council's oath stone and closes it; a mountain lord chosen by the council for that meeting.
+      Warden of the Plateau Gate: >-
+        Keeper of the gate of Lezkora, its road and its cisterns, who admits every traveler to the plateau and holds it for the king; held for life by a mountain lord.
       Warden of the March: >-
-        Commander of a frontier district, commonly holding powers of war and justice the interior would not permit.
-      Castellan: Holder of a royal fortress, answerable for its garrison, its stores and its defense.
-      Governor: Ruler of a province in the sovereign's name, exercising delegated authority over it.
-      Lieutenant: >-
-        One holding an office in another's place, exercising that office's authority without its rank.
-      Forester: Keeper of the royal forests and of the distinct law that governs them
-      Purveyor: >-
-        Officer empowered to requisition goods and labor for the household at the crown's price—an office universally resented.
-      Regent: One ruling in the sovereign's stead during minority, absence, or incapacity.
-      Privy Councilor: >-
-        Member of the sovereign's inner council, advising on matters not brought before any wider body.
-      King of Arms: Principal officer of arms, ruling on heraldry, precedence, and the right to bear arms.
+        The king's officer at Kávrenath, holding powers of war and justice along the eastern road and its frontier that no lord holds in the interior; a mountain lord or a knight.
+      Warden of the Iron: >-
+        Keeper of the king's right in the iron hill at Ardalis, who counts every smelting and takes the crown's bloom in ten; a knight.
+      Drove-Warden: >-
+        Keeper of the drove roads and the king's high meadows, who settles grazing quarrels between valleys and takes the crown's beast in forty at Tsaberis; a knight or a mountain lord.
+      Captain of the Ban: >-
+        Commander of the kingdom's muster in the field when the king calls the ban, chosen by the king from the mountain lords for one campaign.
+      Keeper of the Roll: >-
+        Keeper of the kingdom's muster roll, which records what each valley owes the ban in men and arms; a knight of the king's household.
+      Steward of the King's Valleys: >-
+        Manager of the valleys the king holds as a lord, whose rents and flocks are the crown's own revenue; a knight of the king's household.
       Herald: >-
-        Officer of arms serving as messenger, witness and envoy, whose person is protected even between enemies.
-      Master of the Horse: Keeper of the sovereign's stables, mounts, and the men who tend them.
-      Master of the Hunt: Keeper of the sovereign's hunt—its hounds, its quarry, and its grounds.
-      Falconer: >-
-        Keeper of the sovereign's hawks; a household post whose value lies chiefly in the access it grants.
-      Banneret: A lord leading a company beneath his own banner, in his own name and at his own charge.
-      Captain: >-
-        Commander of a body of troops raised for a campaign or a garrison, holding the post for its duration.
-      Serjeant: >-
-        Holder of a specific service owed to a lord or the crown, or a lesser command within a company.
-      Manorial Officer: >-
-        Any office serving a single manor rather than the realm, held of the manor's lord and answerable to him rather than to the crown.
-  seat: null
+        Bearer of the king's word to the valleys and to other crowns, whose person is protected even among enemies; a sworn man of the king's household.
+      Castellan: >-
+        Holder of a tower for the lord or the king who appointed them, answerable for its garrison and stores; a knight or a sworn man.
+  seat: lezkora
   population: 1000000
   economy: [lore-vylrncrncy, affiliation-danvar, affiliation-tevran]
   lore: [humanflk]
@@ -121,6 +81,9 @@ sohl: {system: {commonSkills: [tarvenlng]}}
 Overlord
 : [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] (nominal)
 
+Seat
+: [[place-lezkora|Lezkora]]
+
 Language
 : Tarveni
 
@@ -131,23 +94,57 @@ Pantheon
 : [[affiliation-arldnpnthn|Aureldian]] (with strong folk traditions)
 
 Government
-: Hereditary monarchy with council of mountain lords
+: Hereditary monarchy with a council of mountain lords
 
 ## Overview
 
-Asturath is the mountainous heartland of the [[place-tarvenirgn|Tarvénia Region]] and the spiritual core of Tarvenan independence. Its fortress-towns cling to steep mountain valleys and high plateaus in the interior ranges, and its lords have never been conquered—not by the [[affiliation-vylarinmpr|Vylarian Empire]], not by anyone. The High King of [[affiliation-kingdmtrvn|Tarvénia]] is traditionally (though not always) drawn from the Astúrathi nobility, and the kingdom considers itself the keeper of the true Tarvenan warrior tradition. The kingdom holds the land of [[place-asturath|Asturath]].
+The Kingdom of Asturath is the mountain kingdom at the heart of the [[place-tarvenirgn|Tarvénia Region]], a realm of valley lords under a king who is the first of them, and the one part of Tarvénia that the [[affiliation-vylarinmpr|Vylarian Empire]] never held. It is a mountain people's freedom kept by their own arms: Outsiders know it for two things: the crossbowmen its valleys send to other people's wars, and the plateau city of [[place-lezkora|Lezkora]], where the kingdom's king and the High King of [[affiliation-kingdmtrvn|Tarvénia]] both keep their courts. The kingdom holds the land of [[place-asturath|Asturath]].
+
+## The King and the Lords
+
+A mountain lord of Asturath holds a valley because his house has always held it, and he holds it of nobody. He judges in it, takes its rents and its dues, keeps its towers and brings its men to the ban under his own banner. The king of Asturath is a mountain lord too, with valleys of his own whose rents and flocks are the crown's revenue, and over the other lords he has three rights: to call the ban, to judge a quarrel between two lords, and to hold the crown's offices at the plateau gate, the iron hill, the drove roads and the eastern march. Beyond those, a lord owes the king what was agreed and nothing more.
+
+The crown passes by blood. The king's heir is his eldest child, and failing children the nearest kinsman of the royal house, but the heir is king only once the council of mountain lords has acknowledged them. Each lord grips the heir's forearm at the council's oath stone and says the ban—that his banner will come when the king calls it—and a lord who does not grip it owes the new king nothing until he does. The council has never refused an heir outright. It has more than once let an heir wait at the stone for a day while the lords settled what the new reign would cost them.
+
+The present king is [Alzemo Zolduregi]{.name data-type="being/npc"}, who holds his court in the castle at the north end of Lezkora.
+
+## The Council of Mountain Lords
+
+The council of mountain lords is every lord who holds a valley of the kingdom, about forty in all, meeting in the king's castle at Lezkora. It meets every autumn after the flocks have come down from the meadows and before the snow closes the roads, and at any other time the king calls it. Its presiding officer is the Keeper of the Stone, a lord the council chooses for each meeting.
+
+The council does three things. It acknowledges a new king. It hears a quarrel between lords that the lords cannot settle between themselves, and the king judges it with the council's advice. And it hears the king's call to the ban, because a ban the lords have heard called before the council is a ban none of them can say he was not told of. The council makes no laws, raises no tax and keeps no treasury. The laws of a valley are its custom, and its lord keeps them.
+
+When the High Kingship falls vacant, the lords of all Tarvénia meet at Lezkora to elect a new High King, and the mountain lords of Asturath and the lords of Lienrik are the two great parties in [[place-lezkorahall|the High Hall]]. That election is the crown of Tarvénia's business. The council of mountain lords is the kingdom's own.
+
+## Justice
+
+A quarrel in Asturath goes to the nearest body that can end it. Neighbors take theirs to the village assembly, where the free householders of the village hear both sides and decide. A matter the assembly cannot settle, or one that touches the lord's rights, goes to the lord, who judges it in his hall before witnesses. A quarrel between two lords goes to the king and the council. Along the eastern road the Warden of the March judges in the king's name, and the Warden's justice is quicker and harder than any valley lord's. A broken oath that no lord can remedy goes to the [[affiliation-ordrsldwrd|Order of the Sealed Word]], as everywhere in Tarvénia.
+
+The heaviest sentence a lord can pass is _ventha_ (banishment), which puts the banished outside every valley's shelter. A man banished from one valley is banished from them all, because no lord shelters another lord's banished.
+
+## The Ban
+
+Every free man of Asturath is expected to bear arms, and every valley owes the ban. The kingdom's muster roll, kept by the Keeper of the Roll, records what each valley owes in men and arms, and the king's heralds carry the call up the valleys when he makes it. The lords bring their own men under their own banners, and the king names a Captain of the Ban to command them for the campaign. The muster is slow, because the valleys are far apart and the paths are hard, and it is fierce once it has gathered.
+
+The ban is for defense. When the High King calls the ban of Tarvénia against a foreign enemy, the king of Asturath calls his own lords and brings them, and the Astúrathi are the last to go home. A war abroad is a company's business, under contract, and the ban has nothing to do with it.
 
 ## Character
 
-Asturath is the most martial and conservative of the Tarvenan regions. Its people are mountain folk—tough, proud, and deeply attached to the old ways. The kingdom's lords rule from fortified hilltop castles, and the social order is built on bonds of personal loyalty between lord and retainer rather than bureaucratic administration. Every free man is expected to bear arms, and the mountain clans maintain a warrior readiness that borders on paranoia.
+Asturath is the most martial and conservative of the Tarvenan regions. Its people are mountain folk—tough, proud and attached to the old ways—and its social order rests on bonds between lord and sworn man, kept in person. Most of the kingdom's coin comes home in the purses of men who went abroad under contract, and nearly every household has had a man in a company. Asturath gives the companies their reputation, and the companies give Asturath its silver.
 
-Invading armies that have ventured into Asturath's mountains have universally regretted it. The Vylarian legions, after several disastrous campaigns, the worst of them lost in [[lore-horngorgebtl|the Horn Gorge]] about 143 AF, settled for holding the lowland approaches and leaving the mountains alone—a fact the Astúrathi have never tired of celebrating.
+Invading armies that have ventured into Asturath's mountains have regretted it. The Vylarian legions, after several disastrous campaigns, the worst of them lost in [[lore-horngorgebtl|the Horn Gorge]] about 143 AF, settled for holding the lowland approaches and leaving the mountains alone, and the Astúrathi have never tired of celebrating it. The first High King, [Garvaneth]{.name data-type="being/npc"} of Asturath, was elected at Lezkora about 540 AF to drive the garrisons out of the lowlands ([[lore-tarvfallsawy|Tarvénia Falls Away]]), and the High King has most often been an Astúrathi lord since.
 
-The council of mountain lords meets here to elect a new High King when the throne falls vacant, a process that is equal parts solemn ceremony and bare-knuckle political brawl. The first election, of [Garvaneth]{.name data-type="being/npc"} of Asturath about 540 AF, drove the garrisons out ([[lore-tarvfallsawy|Tarvénia Falls Away]]).
+## Asturath and the Crown
+
+The High King of Tarvénia is often the king of Asturath, and he is not at present. The electing council chose [Ularrek Garrundeta]{.name data-type="being/npc"}, an old lord of the high valleys, one of the king of Asturath's own mountain lords, because each of the greater candidates could block the others. The High King now holds his court in the High Hall in the king of Asturath's city and passes through the king of Asturath's gate. The two courts are courteous, and every lord in the kingdom knows that the High King is old.
+
+## Offices
+
+The king's officers are few, and each holds one thing for him. The Warden of the Plateau Gate holds Lezkora's gate and road for life, the Warden of the March holds the eastern frontier from Kávrenath, the Warden of the Iron counts the king's share at [[place-ardalis|Ardalis]], and the Drove-Warden keeps the drove roads and the king's meadows from [[place-tsaberis|Tsaberis]]. The Keeper of the Roll and the Steward of the King's Valleys serve in the king's household, the heralds carry his word, and castellans hold towers for the lords who appoint them. The Captain of the Ban serves for one campaign and goes home.
 
 ## Commerce and Currency
 
-Kingdom of Asturath uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Kingdom of Asturath is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+The Kingdom of Asturath uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. It is a post-imperial commonwealth member—it takes part fully in the trade and banking of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 
@@ -159,6 +156,12 @@ Kingdom of Asturath uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ard
 
 [[place-asturath|Asturath]]
 : The land the kingdom holds
+
+[[place-lezkora|Lezkora]], [[place-lezkorahall|The High Hall]]
+: The seat of the kingdom and of the High King
+
+[[place-ardalis|Ardalis]], [[place-tsaberis|Tsaberis]], [[place-kavrenath|Kávrenath]]
+: The kingdom's iron town, drove town and frontier town
 
 [[affiliation-kngdmglvrn|Kingdom of Galvaren]], [[affiliation-kingdmlnrk|Kingdom of Lienrik]]
 : Sister kingdoms

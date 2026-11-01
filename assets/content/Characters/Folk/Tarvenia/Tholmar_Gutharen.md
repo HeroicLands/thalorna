@@ -3,7 +3,7 @@ shortcode: tholmargutha
 name: {full: Tholmar Gútharen, en: [Captain Tholmar Gútharen, Captain Tholmar]}
 type: being
 subType: npc
-description: A rival officer commanding the neighboring garrison sector, ambitious and politically connected, named in Társila Torvaleth.
+description: A rival officer commanding the neighboring garrison sector, ambitious and politically connected, named in Társila Thelvaris.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Tholmar Gútharen is a 44-year-old man who stands 5'11" tall with a heavy build.
 
 # Dossier {#dossier}
 
-Tholmar Gútharen is a captain commanding the garrison sector next to that of [[being-tarstrvlth|Társila Torvaleth]]. He is ambitious and politically connected, and resents that she, younger and a [Torvaleth]{.name data-type="affiliation/lineage"}, was given the more valuable [[place-kavrenath|Kávrenath]] posting. He documents her minor decisions and spreads rumors that her unit's success comes from brutality toward refugees.
+Tholmar Gútharen is a captain commanding the garrison sector next to that of [[being-tarsilathelv|Társila Thelvaris]]. He is ambitious and politically connected, and resents that she, younger and a [Thelvaris]{.name data-type="affiliation/lineage"}, was given the more valuable [[place-kavrenath|Kávrenath]] posting. He documents her minor decisions and spreads rumors that her unit's success comes from brutality toward refugees.

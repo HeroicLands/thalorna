@@ -1,6 +1,6 @@
 ---
-shortcode: althrtrvlth
-name: {full: Alethra Torvaleth}
+shortcode: alethraornet
+name: {full: Alethra Ornetis}
 type: being
 subType: npc
 tags: [todo, draft, clergy]
@@ -396,7 +396,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Alethra Torvaleth is a woman marked by labor and weather. At thirty-four, her gray hair and weathered complexion make her appear older, yet there is no quality of fragility in her bearing. She stands five feet eight inches with a lean, muscular frame—the build of someone who works physically and outdoors daily. Her angular face carries the practical beauty of strong bone structure rather than softness, and her large hazel eyes hold a combination of sharp intelligence and real warmth that puts common people at ease. The scar running along her right elbow tells a story she rarely elaborates on: an accident, or perhaps something more deliberate, that could have ended her ability to work but did not. Her hands are calloused and stained with soil and herbal preparations that will never quite wash clean. She wears the simple, sturdy robes of a field priest—functional rather than ceremonial—often topped with a worn linen mantle that has traveled the roads and harbors of the [[place-tarvenirgn|Tarvénia Region]]'s coastal regions.
+Alethra Ornetis is a woman marked by labor and weather. At thirty-four, her gray hair and weathered complexion make her appear older, yet there is no quality of fragility in her bearing. She stands five feet eight inches with a lean, muscular frame—the build of someone who works physically and outdoors daily. Her angular face carries the practical beauty of strong bone structure rather than softness, and her large hazel eyes hold a combination of sharp intelligence and real warmth that puts common people at ease. The scar running along her right elbow tells a story she rarely elaborates on: an accident, or perhaps something more deliberate, that could have ended her ability to work but did not. Her hands are calloused and stained with soil and herbal preparations that will never quite wash clean. She wears the simple, sturdy robes of a field priest—functional rather than ceremonial—often topped with a worn linen mantle that has traveled the roads and harbors of the [[place-tarvenirgn|Tarvénia Region]]'s coastal regions.
 
 # Dossier {#dossier}
 

@@ -85,7 +85,7 @@ export const RETIRED = [
         scope: [
             "assets/content/Characters/Heroes_and_Knaves/Afzandah_Parnazar.md",
             "assets/content/Characters/Heroes_and_Knaves/Kayvonad_Zarid.md",
-            "assets/content/Characters/Occupations/Tarsila_Torvaleth.md",
+            "assets/content/Characters/Occupations/Tarsila_Thelvaris.md",
         ],
     },
     {
@@ -118,7 +118,7 @@ export const RETIRED = [
         scope: [
             "assets/content/Characters/Heroes_and_Knaves/Hrandrinna_Drekanott.md",
             "assets/content/Characters/Heroes_and_Knaves/Svulthyra_Solvargur.md",
-            "assets/content/Characters/Heroes_and_Knaves/Eldira_Torvaleth.md",
+            "assets/content/Characters/Heroes_and_Knaves/Eldira_Garrundeta.md",
         ],
     },
     {

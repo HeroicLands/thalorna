@@ -6,12 +6,13 @@ subType: polity
 description: "Largest and most fertile of Tarvénia's three kingdoms in the central-southern lowlands—wealthy, populous, and politically ambitious, with the richest farmland in the realm."
 data:
   templatePriority: null
-  demonym: Liénrikan
+  demonym: Liénriki
   epithet: null
   symbol: null
   governance:
     model: monarchy
-    summary: Hereditary monarchy with feudal nobility.
+    summary: >-
+      A hereditary monarchy descending to the eldest son, whose lords hold their land of the crown and whose disputes go to a written Court of Pleas at Torvaleth.
     ranks:
       - level: 0
         title: Outlaw
@@ -50,60 +51,37 @@ data:
         description: >-
           The crown itself, from which all other standing in the realm derives and to which all fealty within it ultimately runs.
     offices:
-      King: Male sovereign, reigning in his own right.
-      Queen: Female sovereign, reigning in her own right.
-      Queen Consort: Female spouse of a reigning king.
-      Prince Consort: Male spouse of a reigning queen.
-      Prince: >-
-        Male member of the royal house by birth; or a sovereign ruling a principality in his own right.
-      Princess: >-
-        Female member of the royal house by birth or by marriage to a prince; or a sovereign ruling a principality in her own right.
-      Chancellor: Keeper of the great seal, through whom the crown's writs, charters and grants are issued.
-      Treasurer: Keeper of the realm's revenue, answerable for its receipt, audit and disbursement.
-      Steward: >-
-        Head of the royal household, and in some realms the first officer of the realm beneath the crown.
-      Constable: Commander of the realm's host in the field, holding the crown's military authority.
-      Marshal: >-
-        Second to the Constable, charged with the muster, the horse, discipline within the host, and the regulation of arms.
-      Chamberlain: >-
-        Keeper of the royal chamber, controlling the sovereign's private revenue and access to their person.
-      Justiciar: Chief justice of the realm, and commonly its regent when the sovereign is absent.
-      Butler: >-
-        Holder of the crown's right in wine and the levy upon it—a revenue office far richer than its name suggests.
-      Admiral: Commander of the realm's ships and of the coasts they guard.
-      Sheriff: >-
-        The crown's officer within a shire, answerable for its revenue, its courts, and the raising of its posse.
-      Coroner: >-
-        Keeper of the pleas of the crown within a district—sudden deaths, wrecks, and treasure trove.
-      Escheator: >-
-        Officer charged with lands falling to the crown by death without heir, by forfeiture, or by attainder.
-      Warden of the March: >-
-        Commander of a frontier district, commonly holding powers of war and justice the interior would not permit.
-      Castellan: Holder of a royal fortress, answerable for its garrison, its stores and its defense.
-      Governor: Ruler of a province in the sovereign's name, exercising delegated authority over it.
-      Lieutenant: >-
-        One holding an office in another's place, exercising that office's authority without its rank.
-      Forester: Keeper of the royal forests and of the distinct law that governs them
-      Purveyor: >-
-        Officer empowered to requisition goods and labor for the household at the crown's price—an office universally resented.
-      Regent: One ruling in the sovereign's stead during minority, absence, or incapacity.
-      Privy Councilor: >-
-        Member of the sovereign's inner council, advising on matters not brought before any wider body.
-      King of Arms: Principal officer of arms, ruling on heraldry, precedence, and the right to bear arms.
-      Herald: >-
-        Officer of arms serving as messenger, witness and envoy, whose person is protected even between enemies.
-      Master of the Horse: Keeper of the sovereign's stables, mounts, and the men who tend them.
-      Master of the Hunt: Keeper of the sovereign's hunt—its hounds, its quarry, and its grounds.
-      Falconer: >-
-        Keeper of the sovereign's hawks; a household post whose value lies chiefly in the access it grants.
-      Banneret: A lord leading a company beneath his own banner, in his own name and at his own charge.
-      Captain: >-
-        Commander of a body of troops raised for a campaign or a garrison, holding the post for its duration.
-      Serjeant: >-
-        Holder of a specific service owed to a lord or the crown, or a lesser command within a company.
-      Manorial Officer: >-
-        Any office serving a single manor rather than the realm, held of the manor's lord and answerable to him rather than to the crown.
-  seat: null
+      King: >-
+        The sovereign of Lienrik, of the house of Oltris, holding the crown by descent to the eldest son and keeping his court in the king's hall at Torvaleth; held at the rung of Sovereign.
+      Heir of Lienrik: >-
+        The king's eldest son, who sits in the Court of Pleas beside its Master from his sixteenth year and governs in the king's absence; held as a Prince of the Blood.
+      Castellan of Ornetho: >-
+        Holder of the walled city of Ornetho, its gates, tolls and garrison, given by custom to a son or brother of the king; held as a Prince of the Blood.
+      Crown Councilor: >-
+        A great lord sworn to the king's council, which advises him on war, on the Roll of Houses and on Lienrik's claim to the High Kingship; held at the rung of Greater Nobility.
+      Keeper of the Seal: >-
+        Keeper of the king's seal and of the chancery at Torvaleth that writes his charters, writs and grants; held at the rung of Lesser Nobility or above.
+      Master of the Pleas: >-
+        President of the Court of Pleas, which hears the cases between the lords of Lienrik and every appeal from a bailiff's court, and keeper of its plea rolls; held at the rung of Greater Nobility.
+      Keeper of the Roll of Houses: >-
+        Keeper of the Roll of Houses, the written order of precedence of every noble house of Lienrik, who hears a house's claim to a higher place on it and rules on the records it brings; held at the rung of Gentry or above.
+      Marshal of Lienrik: >-
+        Commander of the king's host, who calls the lords' musters and keeps the roll of the fees that owe the crown service; held at the rung of Greater Nobility.
+      Warden of the Towers: >-
+        Commander of the chain of watchtowers down the Thalsira and of the beacons that pass warning along it, and castellan of Bruthena and its bridge; held at the rung of Lesser Nobility or above.
+      Towerkeeper: >-
+        Hereditary keeper of one watchtower and its beacon, who takes the light-due in grain from every village in sight of it and answers to the Warden of the Towers; held at the rung of Gentry.
+      Receiver of the Dues: >-
+        Collector of the crown's share of the harvest and the vintage and of its cattle, gate and bridge tolls, who renders account at Torvaleth twice a year; held at the rung of Knight or above.
+      Master of the Granaries: >-
+        Keeper of the royal granaries at Torvaleth and along the river, who buys grain in a good year and sells it at the crown's price in a lean one; held at the rung of Knight or above.
+      Bailiff: >-
+        The crown's officer over one of the kingdom's sixteen districts, holding its court, raising its watch and answering for its dues; held at the rung of Gentry or Knight.
+      River Warden: >-
+        Keeper of the Thalsira's fords, ferries, quays and flood banks below Ornetho, who levies the river tolls and calls the villages out to the banks when the snowmelt comes; held at the rung of Gentry or Knight.
+      Master of the Fair: >-
+        Officer of the harvest fair at Torvaleth, who keeps its peace and its measures, takes its tolls and hears its quarrels on the day they arise; held at the rung of Gentry.
+  seat: torvaleth
   population: 1000000
   economy: [lore-vylrncrncy, affiliation-danvar, affiliation-tevran]
   lore: [humanflk]
@@ -133,6 +111,9 @@ Pantheon
 Government
 : Hereditary monarchy with feudal nobility
 
+Seat
+: [[place-torvaleth|Torvaleth]]
+
 ## Overview
 
 The Kingdom of Lienrik holds the land of [[place-leonrik|Lienrik]]. Its rich farmland, productive vineyards, and thriving market towns make it the agricultural backbone of the [[place-tarvenirgn|Tarvénia Region]]—and its ambitious nobility makes it the kingdom most likely to challenge the others for dominance.
@@ -141,7 +122,23 @@ The Kingdom of Lienrik holds the land of [[place-leonrik|Lienrik]]. Its rich far
 
 Lienrik has the most conventional feudal structure of any Tarvenan region. Its lords hold their lands from the king, who in turn owes nominal allegiance to the High King of [[affiliation-kingdmtrvn|Tarvénia]]. In practice, Liénriki nobles are among the most politically active in the kingdom—their wealth gives them ambitions that the mountain lords of [[affiliation-kngdmstrth|Asturath]] and the shipmasters of [[affiliation-kngdmglvrn|Galvaren]] cannot easily match. Liénriki lords have contested the High Kingship more often than anyone, and several have worn the crown; the first, [Estaril]{.name data-type="being/npc"}, held it from about 605 AF, while [[place-provenzrgn|Provenzia]] fought its _therkos_ (governor) and the Tarvénian hosts pressed west.
 
-Lienrik bore the brunt of Vylarian occupation during the imperial era ([[lore-lowlandstaken|The Lowlands Taken]]), and its architecture reflects this: fortified manor houses, walled towns, and a network of watchtowers that served as an early-warning system against risings and, once the garrisons were driven out, were turned to face the coast ([[lore-tarvfallsawy|Tarvénia Falls Away]]). The families who keep the towers charge for the light. The occupation left a lasting mark on Liénriki culture. The kingdom's administrative traditions are more sophisticated than those of its neighbors, its legal codes more formalized, and its nobility more conscious of lineage and precedence—all legacies of Vylarian influence, though no Liénriki lord would thank you for pointing this out.
+Lienrik bore the brunt of Vylarian occupation during the imperial era ([[lore-lowlandstaken|The Lowlands Taken]]), and its architecture reflects this: fortified manor houses, walled towns, and a network of watchtowers that served as an early-warning system against risings and, once the garrisons were driven out, were turned to face the coast ([[lore-tarvfallsawy|Tarvénia Falls Away]]). The families who keep the towers charge for the light. The occupation left a lasting mark on Liénriki culture. The kingdom's administrative traditions are more sophisticated than those of its neighbors, its legal codes more formalized, and its nobility more conscious of lineage and precedence—all legacies of Vylarian influence.
+
+## The Crown and Its Court
+
+The crown of Lienrik descends to the king's eldest son, and in default of sons to his nearest male kinsman; a daughter carries a claim to her sons and holds none herself. The house of [Oltris]{.name data-type="affiliation/lineage"} has held it since the kingdom was founded at the Falling Away, and the present king, [Zenoth Oltris]{.name data-type="being/npc"}, keeps his court in the king's hall at [[place-torvaleth|Torvaleth]]. His heir sits in the [Court of Pleas]{.name data-type="affiliation/governmental"} from his sixteenth year, to learn the kingdom's law where the kingdom's lords argue it. His council is made up of the Crown Councilors, a dozen great lords sworn to it, and the question it argues most is the High Kingship of [[affiliation-kingdmtrvn|Tarvénia]]: King Zenoth means to stand when it next falls vacant, and every lord on his council has an opinion on what his support will cost the king.
+
+Lienrik governs through its courts. The kingdom is divided into sixteen districts, each under a Bailiff who holds its court, raises its watch and answers for its dues. A matter between neighbors goes first to the village and the lord of the manor; a matter the lord cannot settle, or one against the lord, goes to the bailiff's court; and a matter between lords, or an appeal from a bailiff, goes to the Court of Pleas at Torvaleth under the Master of the Pleas. Every one of these courts writes its judgments down, and the plea rolls at Torvaleth hold every case the kingdom has heard. A Liénriki lord who loses a case goes looking in the rolls for an older judgment that would have given it to him, and the _lozo_ (advocate) who knows his way through the rolls lives well in Torvaleth on the search.
+
+The other book the court keeps is the [Roll of Houses]{.name data-type="lore"}, the written order of precedence of every noble house of Lienrik. A house's place on it decides where its head sits at the king's table, who walks before whom at a feast, whose banner leads in the host and whose daughter is a fit match for whose son. The Keeper of the Roll of Houses hears the claims of houses that think they deserve a higher place, and a claim is won by records: a charter, a grant, a judgment of the old imperial courts. That last kind is the sore point. Many of the oldest places on the Roll were won under the Empire, by houses that took its offices, and the houses that refused them and were passed over have been trying to prove it for nearly two centuries.
+
+## The Towers and the Host
+
+The kingdom's defense rests on the chain of watchtowers down the [Thalsira]{.name data-type="place/feature"} and on the host its lords raise. The Warden of the Towers commands the chain from the castle at [[place-bruthena|Bruthena]], and the Towerkeepers who hold each tower by inheritance keep its beacon lit and its watch kept. A fire on any tower calls out the kingdom.
+
+The host is the lords' muster. Every lord who holds land of the crown owes the king a number of mounted men for the length of a campaign season, set down for his fee in the Marshal's roll, and the Marshal of Lienrik calls the musters and commands in the field. The host of Lienrik is the largest in Tarvénia, and the richest; it is also the slowest to gather, because its lords argue precedence at the muster before they argue anything else. When the High King calls the ban the Liénriki lords come with their full musters, and they expect the High King to remember that they did.
+
+The cities have their own garrisons. [[place-ronetho|Ornetho]] is held for the crown by its Castellan, by custom a son or brother of the king, and Bruthena by the Warden of the Towers.
 
 ## Commerce and Currency
 
@@ -157,6 +154,12 @@ Kingdom of Lienrik uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardi
 
 [[place-leonrik|Lienrik]]
 : The land the kingdom holds
+
+[[place-torvaleth|Torvaleth]]
+: The capital and seat of the crown
+
+[[place-ronetho|Ornetho]], [[place-enthara|Enthara]], [[place-bruthena|Bruthena]]
+: The walled city at the foot of the mountains, the wine town and the castle town at the bridge
 
 [[affiliation-kngdmstrth|Kingdom of Asturath]], [[affiliation-kngdmglvrn|Kingdom of Galvaren]]
 : Sister kingdoms

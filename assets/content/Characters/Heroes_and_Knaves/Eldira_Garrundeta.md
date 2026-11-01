@@ -1,6 +1,6 @@
 ---
-shortcode: eldrtrvlth
-name: {full: Eldira Torvaleth, given: Eldira, clan: Torvaleth}
+shortcode: eldiragarrun
+name: {full: Eldira Garrundeta, given: Eldira, clan: Garrundeta}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -418,13 +418,13 @@ sohl:
 
 # Appearance {#appearance}
 
-![[eldrtrvlth|Eldira Torvaleth]]{float=top-left}
+![[eldiragarrun|Eldira Garrundeta]]{float=top-left}
 
 Eldira stands 5'10" tall with a light build. She has warm olive skin, dark brown hair, and green eyes. Her features include a diamond-shaped face, a hawkish nose, a pronounced chin, slightly pursed lips, and dark brows. She has a tattoo of a wolf on her shoulder.
 
 # Dossier {#dossier}
 
-Eldira Torvaleth was born in the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] to a family with established but not distinguished ties to craftsmanship. Her father was a metalworker of modest reputation, and her mother kept a small herb garden and cultivated rare plants. From childhood, Eldira was fascinated by light and color—particularly the way sunlight transformed when passing through colored glass in the windows of the local cathedral. By age twelve, she had begun seeking out the cathedral's glassworker, Master [Gerdan]{.name data-type="being/npc"}, begging him to teach her his craft.
+Eldira Garrundeta was born in the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] to a family with established but not distinguished ties to craftsmanship. Her father was a metalworker of modest reputation, and her mother kept a small herb garden and cultivated rare plants. From childhood, Eldira was fascinated by light and color—particularly the way sunlight transformed when passing through colored glass in the windows of the local cathedral. By age twelve, she had begun seeking out the cathedral's glassworker, Master [Gerdan]{.name data-type="being/npc"}, begging him to teach her his craft.
 
 Gerdan, having no children of his own and recognizing unusual talent, agreed to take her on as an informal apprentice. For the next eight years, she learned traditional glasswork: cutting, leading, soldering, the practical creation of functional windows. However, even as a young apprentice, Eldira's inclinations diverged from the conventional. She experimented with color combinations that her mentor considered garish, designed patterns that deviated from ecclesiastical tradition, and pushed the boundaries of what glass could express.
 

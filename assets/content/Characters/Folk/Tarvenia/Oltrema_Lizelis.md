@@ -3,7 +3,7 @@ shortcode: oltremalizel
 name: {full: Oltrema Lizelis, en: [Lady Oltrema Lizelis]}
 type: being
 subType: npc
-description: A wealthy widow with refined aesthetic tastes who has commissioned several major pieces, named in Eldira Torvaleth.
+description: A wealthy widow with refined aesthetic tastes who has commissioned several major pieces, named in Eldira Garrundeta.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Oltrema Lizelis is a 58-year-old woman who stands 5'8" tall with a light build. 
 
 # Dossier {#dossier}
 
-Oltrema Lizelis is a wealthy widow and merchant collector with refined aesthetic tastes. She has commissioned several major pieces for her private manor, appreciates the originality of [[being-eldrtrvlth|Eldira Torvaleth]] and pays premium prices for original works.
+Oltrema Lizelis is a wealthy widow and merchant collector with refined aesthetic tastes. She has commissioned several major pieces for her private manor, appreciates the originality of [[being-eldiragarrun|Eldira Garrundeta]] and pays premium prices for original works.

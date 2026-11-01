@@ -50,6 +50,8 @@ data:
         description: >-
           The crown itself, from which all other standing in the realm derives and to which all fealty within it ultimately runs.
     offices:
+      Keeper of the Hall: >-
+        Keeper of the High Hall at Lezkora, its hearth and the chest of its roll, who lives at the hall and opens it to the lords; appointed by the High King.
       King: Male sovereign, reigning in his own right.
       Queen: Female sovereign, reigning in her own right.
       Queen Consort: Female spouse of a reigning king.
@@ -103,7 +105,7 @@ data:
         Holder of a specific service owed to a lord or the crown, or a lesser command within a company.
       Manorial Officer: >-
         Any office serving a single manor rather than the realm, held of the manor's lord and answerable to him rather than to the crown.
-  seat: null
+  seat: lezkora
   population: 3000000
   economy: [lore-vylrncrncy, affiliation-danvar, affiliation-tevran]
   lore: [humanflk]
@@ -129,6 +131,19 @@ The Kingdom of Tarvénia is less a unified state than a political idea—a loose
 ## Government
 
 The High King is elected by a council of the major lords—a process that produces as much warfare as governance. The first election, about 540 AF, was held to drive out the Vylarian garrisons ([[lore-tarvfallsawy|Tarvénia Falls Away]]). The crown carries the right to call the ban (a general military levy) and to adjudicate disputes between lords, but the High King has no standing army, no central bureaucracy, and limited revenue beyond his own estates. Attempts to centralize power have historically ended with the ambitious king deposed, exiled, or dead.
+
+### Electing a High King
+
+The High King is elected at [[place-lezkora|Lezkora]], in [[place-lezkorahall|the High Hall]] on the lip of its plateau, by every lord of the three kingdoms who brings his own banner to the ban of Tarvénia: the lords of Asturath, Galvaren and Lienrik, about a hundred in all. An election has been over in a morning and has taken most of a summer, and it runs the same way every time.
+
+1. **The hearth goes out.** When a High King dies, the Keeper of the Hall puts out the fire on the hall's hearth, and the crown's heralds ride to every lord who has a seat in the hall. The lords meet as soon as the plateau road is open, which after a winter death is not before late spring.
+2. **The climb.** Each lord comes up to the plateau with twelve sworn men and no more, and the Warden of the Plateau Gate counts them through. The rest of a lord's following waits below at [[place-ardalis|Ardalis]]. The rule keeps any one lord from taking the plateau by force while the throne is empty, and it puts every elector inside a gate kept by the kingdom of Asturath.
+3. **The naming.** On the first morning any lord may stand at the hall's oath stone and name a candidate, who must hold land and bring a banner to the ban. A lord may name himself.
+4. **The voices.** Each lord in turn stands at the stone and names his choice aloud, and a brother of the [[affiliation-ordrsldwrd|Order of the Sealed Word]] writes it in the hall's roll. A candidate with two voices in every three is High King. If nobody has them, the lords go back into the city to bargain and return the next morning to vote again. Buying a lord's voice is ordinary and nobody hides it. A voice promised to one candidate and given to another is a broken word before witnesses, and the lord who breaks it answers for it in the hall.
+5. **The terms.** The elected lord swears the terms of the crown at the stone: he calls the ban only against an enemy from outside Tarvénia, judges between lords who bring him their quarrel, keeps the charter of the [[affiliation-frctyvlthr|Free City of Valthari]] and the old arrangement with the [[affiliation-frtrtryskrth|Free Territory of Eskarath]], and takes nothing from any lord's land that the terms do not allow. Each lord then grips the new king's forearm and says the ban, the promise that his banner will come when it is called.
+6. **The fire.** The new High King lights the hall's hearth with fire carried from the temple of [[affiliation-sacredforge|the Sacred Forge]] in the city, and the election is over.
+
+The free city and the free territory have no voice in the hall. Valthari sends one of its councilors to hear the terms sworn, because its charter is one of them, and pays the new king the year's tribute; Eskarath sends the Speaker of its council for the same reason. A High King who breaks the terms is answered the way any lord who claims more than was agreed is answered, and the lords stop obeying him. If enough of them come up to Lezkora, they can put out the hearth and elect another, and the crown has been lost that way more than once.
 
 Local governance varies wildly. Some territories are ruled by hereditary lords in fortified hilltop castles. Others are governed by town councils of merchants and master craftsmen. The mountain clans in the interior follow their own ancient customs and acknowledge the High King only when it suits them.
 

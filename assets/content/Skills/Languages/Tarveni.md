@@ -4794,6 +4794,7 @@ data:
     - {name: Thorvek, tongue: tarveni}
     - {name: Knight of the Western Marches, tongue: translation}
     - {name: Eldira, tongue: tarveni}
+    - {name: Eldira Garrundeta, tongue: tarveni}
     - {name: Torvaleth, tongue: tarveni}
     - {name: Tornis, tongue: tarveni}
     - {name: Kubri, tongue: tarveni}
@@ -4818,8 +4819,8 @@ data:
     - {name: Ríthara Dómivar, tongue: tarveni}
     - {name: Kaldrén Gútharen, tongue: tarveni}
     - {name: Velmar Gútharen, tongue: tarveni}
-    - {name: Alethra Torvaleth, tongue: tarveni}
-    - {name: Társila Torvaleth, tongue: tarveni}
+    - {name: Alethra Ornetis, tongue: tarveni}
+    - {name: Társila Thelvaris, tongue: tarveni}
     - {name: Taviro Delvanor, tongue: tarveni}
     - {name: Tharla Durgana, tongue: tarveni}
     - {name: Thésira Delvanor, tongue: tarveni}
@@ -4869,6 +4870,25 @@ data:
     - {name: Galvaren, tongue: tarveni}
     - {name: Kávrenath, tongue: tarveni}
     - {name: Kingdom of Asturath, tongue: translation}
+    - {name: Ardalis, tongue: tarveni}
+    - {name: Tsaberis, tongue: tarveni}
+    - {name: Zurgando, tongue: tarveni}
+    - {name: The Cairn Pass, tongue: translation}
+    - {name: Harka Thelvar, tongue: tarveni}
+    - {name: The High Hall, tongue: translation}
+    - {name: Keeper of the Hall, tongue: translation}
+    - {name: Banished, tongue: translation}
+    - {name: Freeholder, tongue: translation}
+    - {name: Sworn Man, tongue: translation}
+    - {name: Mountain Lord, tongue: translation}
+    - {name: Royal House, tongue: translation}
+    - {name: Keeper of the Stone, tongue: translation}
+    - {name: Warden of the Plateau Gate, tongue: translation}
+    - {name: Warden of the Iron, tongue: translation}
+    - {name: Drove-Warden, tongue: translation}
+    - {name: Captain of the Ban, tongue: translation}
+    - {name: Keeper of the Roll, tongue: translation}
+    - {name: Steward of the King's Valleys, tongue: translation}
     - {name: Outlaw, tongue: translation}
     - {name: Freeman, tongue: translation}
     - {name: Gentry, tongue: translation}
@@ -4930,7 +4950,37 @@ data:
     - {name: Polthamis, tongue: tarveni}
     - {name: Nebralis, tongue: tarveni}
     - {name: Council of Nebralis, tongue: translation}
-    - {name: Ornethe, tongue: tarveni}
+    - {name: Durvolka, tongue: tarveni, built: [durka, volkema], gloss: the fog harbor}
+    - {name: Ulhera, tongue: tarveni, built: [ulhis], gloss: the fish town}
+    - {name: Ezkoba, tongue: tarveni, built: [ezkobe], gloss: the lantern}
+    - {name: Kaurema, tongue: tarveni, built: [kaure, korema], gloss: the black cliff}
+    - {name: The Black Cliffs, tongue: translation}
+    - {name: Ganoth Ervothandis, tongue: tarveni}
+    - {name: Nelma Ularris, tongue: tarveni}
+    - {name: Korvath Thaluris, tongue: tarveni}
+    - {name: The Drowned Road, tongue: translation}
+    - {name: The Road, tongue: translation}
+    - {name: Wrecker, tongue: translation}
+    - {name: Shore Kin, tongue: translation}
+    - {name: Teller, tongue: translation}
+    - {name: Harbor Teller, tongue: translation}
+    - {name: Teller of Ezkoba, tongue: translation}
+    - {name: Grave-Keeper, tongue: translation}
+    - {name: Bondman, tongue: translation}
+    - {name: Shipmaster, tongue: translation}
+    - {name: Lord, tongue: translation}
+    - {name: Prince of the Blood, tongue: translation}
+    - {name: Prince of the Headland, tongue: translation}
+    - {name: Lord of the Table, tongue: translation}
+    - {name: Master of the Table, tongue: translation}
+    - {name: Keeper of the Seal, tongue: translation}
+    - {name: Keeper of the Salt, tongue: translation}
+    - {name: Master of the Fleet, tongue: translation}
+    - {name: Marshal of the Ban, tongue: translation}
+    - {name: Warden of the Strand, tongue: translation}
+    - {name: Harbor Reeve, tongue: translation}
+    - {name: Warden of Wrecks, tongue: translation}
+    - {name: Keeper of the Lamp, tongue: translation}
     - {name: Valthari, tongue: tarveni}
     - {name: Tarveni Language, tongue: translation}
     - {name: Tarveni, tongue: tarveni}
@@ -5033,6 +5083,27 @@ data:
     - {name: Sir Nebralo, tongue: translation}
     - {name: Kotsude Kanarris, tongue: tarveni}
     - {name: Ser Kotsude, tongue: translation}
+    - {name: Thalsira, tongue: tarveni, built: [thal, siretha], gloss: the red river}
+    - {name: Enthara, tongue: tarveni, built: [entho], gloss: wine}
+    - {name: Bruthena, tongue: tarveni, built: [brutha], gloss: a bridge}
+    - {name: Zenoth Oltris, tongue: tarveni}
+    - {name: King Zenoth, tongue: translation}
+    - {name: Court of Pleas, tongue: translation}
+    - {name: Roll of Houses, tongue: translation}
+    - {name: Tower Road, tongue: translation}
+    - {name: Heir of Lienrik, tongue: translation}
+    - {name: Castellan of Ornetho, tongue: translation}
+    - {name: Crown Councilor, tongue: translation}
+    - {name: Keeper of the Roll of Houses, tongue: translation}
+    - {name: Master of the Pleas, tongue: translation}
+    - {name: Marshal of Lienrik, tongue: translation}
+    - {name: Warden of the Towers, tongue: translation}
+    - {name: Towerkeeper, tongue: translation}
+    - {name: Receiver of the Dues, tongue: translation}
+    - {name: Master of the Granaries, tongue: translation}
+    - {name: Bailiff, tongue: translation}
+    - {name: River Warden, tongue: translation}
+    - {name: Master of the Fair, tongue: translation}
   retired:
     - form: Montaña
       instead: Ornetho
@@ -5047,8 +5118,11 @@ data:
       instead: Nebralis
       why: "a name built of words of an Earth tongue, for the valley water"
     - form: Maréndal
-      instead: Ornethe
+      instead: Durvolka
       why: "a name built of words of an Earth tongue, for the sea valley"
+    - form: Ornethe
+      instead: Durvolka
+      why: "a harbor name too close to Ornetho, the walled city of Lienrik"
     - form: Torreviga
       instead: Thórgila
       why: "a name built of words of an Earth tongue, for the tower hill"
