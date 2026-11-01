@@ -326,7 +326,7 @@ A hall that a bird will live in is not a room./
 evi eho sytte/
 .ulpes sytte seipan leësyhe sendeppi eltes/
 irna sytte maulpe vennas aldis holdi leësy issalteho/
-.luuro sytte roselho ahi saltai lirne onsaa seltoho/
+.luuro sytte roselo ahi saltai lirne onsaa seltoho/
 .sannai irnanno vennas onsaa hiakke vennas irtalleësyhe/
 ahi niltu koldi oso ovanne sytteny/
 .evanni ehii irnanno vennas ilte vandel onsaa erni onsaa

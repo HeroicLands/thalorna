@@ -131,7 +131,7 @@ evatte onsaa ulpes ovǔu ulpes ehii nuuvatos/
 .lemmes ehii teipan ulpes onsa ennos ehii sennevi onsa/
 halte onsaa seipan leësy sorkanda somarriho/
 .rappan lanteppi teipan pelpe onsa polpeho/
-sattai aulira ukken roselho evi oltarneho/
+sattai aulira ukken roselo evi oltarneho/
 .sattai onsa lonku ilevaho erme/
 ylpi ehii ileva auliraho ahi evatte ehii sennave/
 .ahi meëve ehii ileva sorkandaho
@@ -163,7 +163,7 @@ erni ehii sennai eilava ennos taumel irnanno vennas/
 evi eho sytte/
 .ulpes sytte seipan leësyhe sendeppi eltes/
 irna sytte maulpe vennas aldis holdi leësy issalteho/
-.luuro sytte roselho ahi saltai lirne onsaa seltoho/
+.luuro sytte roselo ahi saltai lirne onsaa seltoho/
 .sannai irnanno vennas onsaa hiakke vennas irtalleësyhe/
 ahi niltu koldi oso ovanne sytteny/
 .evanni ehii irnanno vennas ilte vandel onsaa erni onsaa
@@ -173,8 +173,8 @@ irtal kastaikko aunekkeho nalduho tunes/
 tenvas onsaa ilte ahi ertai rukke iha/
 .ahi sahke onsaa tahke rukke aurannos/
 tennai ehii ernirsa aume onsa/
-.ahi eho lirne sorkandaho roselho oso meëli auliraho/
-ahi herrai onsaa kerrai aume onsaa intisho taltai uttes onsaa/
+.ahi eho lirne sorkandaho roselo oso meëli auliraho/
+ahi herrai onsaa kerrai aume onsaa intiso taltai uttes onsaa/
 .taltai karnava onsǎa
 
 [....·   ·   ·]{lang=zxx}

@@ -54,11 +54,11 @@ Have you heard what the Long-Watcher said to the Seer?/
 ::: {.verse form=saunari lang=sina enc=sinaveldikkoenc work=oak}
 uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
 .vaissa ehi torvel melke raltiilevaho ahi vautti onsa ehitos tunes yinse ehi onsa lervi/
-.yinse ovu lervi torvel yinse ovu onsa oso pelpe yinse ovu oso lirta sorvel elnisho alte váissa ovu onsa
+.yinse ovu lervi torvel yinse ovu onsa oso pelpe yinse ovu oso lirta sorvel elniso alte váissa ovu onsa
 
 uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
 .salpu ilte oso pehe aimetti oso pelpe oso patten ansoru ansoruta ehi ansoru kevu/
-.setty ovu elnisho oso yinse ovu salpu
+.setty ovu elniso oso yinse ovu salpu
 
 uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
 .ahi savessi oso ansoruta ovu ovu/
@@ -115,7 +115,7 @@ Have you heard what the Long-Watcher said to the Seer?/
 
 ::: {.verse form=saunari lang=sina enc=sinaveldikkoenc work=dreams}
 uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
-.aulveira alken olpeira ovu palmisho nalduho evatte onsa iha/
+.aulveira alken olpeira ovu palmiso nalduho evatte onsa iha/
 .ahi navessi onsa ovu ennomi ovu onsa ahi verran ovu onsa
 
 uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
@@ -124,11 +124,11 @@ uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
 
 uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
 .entel evatte olpeira ovu lannairsa olpeira onsa erme kelsa ovu onsa/
-.irna ovu ennomirsa sipes irna ovu ennomirsa ilte ulsen roselho uulse mairel ovu tarnevi
+.irna ovu ennomirsa sipes irna ovu ennomirsa ilte ulsen roselo uulse mairel ovu tarnevi
 
 uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
 .irna ehi senvai olpeira ennomirsa pemi serdattota ehi onsaa setty onsaa ehi serdattoho ennos uttes ennomirsa vennas ummes/
-.tupe ovu senvai ennomirsa vennas elnisho oso lemmes ovu onsaa
+.tupe ovu senvai ennomirsa vennas elniso oso lemmes ovu onsaa
 
 uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
 .pettan aulveira olpeira pettan vilkai aimetti/
@@ -222,7 +222,7 @@ uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
 
 uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
 .irna irnanno ninte kalpiho ahi seimakata kalpi iha/
-.kessave ovu onsa ummes leikenho vennas vandel onsa lauppiho oha vandel onsa lauppi aamasho
+.kessave ovu onsa ummes leikeno vennas vandel onsa lauppiho oha vandel onsa lauppi aamaso
 
 uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
 .entel mekkis toimunu ummes uttes toimunutos vennas harsel polpe [\[…\]]{lang=zxx} ulnavaho/
@@ -284,7 +284,7 @@ uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
 
 uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
 .emmaka alken oso tupe ovu erni ovu iha iltettu/
-.ahi ennomi ovu oltandi iha alkenho ahi aulveira ovu ahi vettan aulveira olpeira iha kessaritos
+.ahi ennomi ovu oltandi iha alkeno ahi aulveira ovu ahi vettan aulveira olpeira iha kessaritos
 
 uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
 .kessave hepymuuvu lirne uvi ylpi ehi kessave nysse uvi eppanne onsa/
@@ -449,15 +449,15 @@ Have you heard what the Long-Watcher said to the Seer?/
 
 ::: {.verse form=saunari lang=sina enc=sinaveldikkoenc work=young}
 uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
-.ahi ilkarota ovu hepymuuvu lirne entel pelvanni onsa melke ovu kaltenho/
+.ahi ilkarota ovu hepymuuvu lirne entel pelvanni onsa melke ovu kalteno/
 .eho sennave uulse ihatos ahi eho uttes ovu irnarsa eso sennaveho
 
 uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
 .erni ehii onsaa oltandi ennos erni ehii onsaa ahi eirandita ovu oltandiho ihatos/
-.eirandita ovu elnisho oso eho onsaa vaultiho kuse nelkari vennas vekkanelho nelvi lanteppi
+.eirandita ovu elniso oso eho onsaa vaultiho kuse nelkari vennas vekkanelo nelvi lanteppi
 
 uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
-.vaissa hepymuuvu naltu onsa nelkari vennas vaulti ulnavaho ummes vekkanelho vennas/
+.vaissa hepymuuvu naltu onsa nelkari vennas vaulti ulnavaho ummes vekkanelo vennas/
 .ahi halpe ovu onsa leësy kauve onsa iha evesi vennas ehii tannavi ummes vonu onsa salpukkotos
 
 uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
@@ -469,7 +469,7 @@ uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
 .neëre ovu onsa kuse ummes ovu toimunu vennas neëre onsaa kuse ummes onsaa toimunu vennas
 
 uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
-.luuro onsaa ehii senvai olnaro vennas sennalho vennas ummes tennai evesi ilte eho ehii esoho/
+.luuro onsaa ehii senvai olnaro vennas sennalo vennas ummes tennai evesi ilte eho ehii esoho/
 .ahi sennetti ovu sennal vennas sendeppi ovu esoho
 :::
 
@@ -519,7 +519,7 @@ uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
 .tupe hepy aunekke eirandi nyke ahi ellavita ehii onsaa teipannu ahi ellavita onsaa ehii teipannu
 
 uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
-.leltai lirne salpukko melke aldevanho terkata onsa hantel iha salpukkoho aldis alpes tunes salpukki torvel tunes/
+.leltai lirne salpukko melke aldevano terkata onsa hantel iha salpukkoho aldis alpes tunes salpukki torvel tunes/
 .lervi torvel ahi lervi hantel ahi evanni ehi onsa uulse eso ahi evanni ehi onsa uulse iha
 
 uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
@@ -569,7 +569,7 @@ uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
 .irna ovu ernavi vennas ennomirsa ilte ummes toimunuho vennas entel sattai ovu salpukko issalteho
 
 uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
-.ahi evanni ehi lirne melke aldevanho toimunuho tova elki hanteltos avetti hissel iha sennaveho vennai/
+.ahi evanni ehi lirne melke aldevano toimunuho tova elki hanteltos avetti hissel iha sennaveho vennai/
 .evatte ehi uttes sennal insu kelsa ovu
 :::
 
@@ -628,7 +628,7 @@ uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
 .kessave iltorin ansorun uvi mavi ansoru oltandi sennave tyltete ansorun melke raltiileva kousto onsa tylteterse
 
 uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
-.raakke sulme vaulti raakke onsa naltu kuse nelkari vennas kessave onsa ehi vekkanelho/
+.raakke sulme vaulti raakke onsa naltu kuse nelkari vennas kessave onsa ehi vekkanelo/
 ..uvi irtal lanteppi tyltete ehi melke ahi evatte ehi/
 .ellavita eso hissel evesi senvai iha tevanni ummes uttes ehi tevannitos vennas
 :::
@@ -646,7 +646,7 @@ Have you heard what the Long-Watcher said to the Seer?/
 
 ::: {.verse form=saunari lang=sina enc=sinaveldikkoenc work=seer}
 uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
-.aume iha toimunuho selkorota ansorun vekkanelho pehe torvel aimetti tunes erdavi aulveira onsa eho onsa ollevikkoho/
+.aume iha toimunuho selkorota ansorun vekkanelo pehe torvel aimetti tunes erdavi aulveira onsa eho onsa ollevikkoho/
 .evatte aelirosse olmasitti ropelinto torvelsa insu penvai onsa evesi ilte uulse sirne/
 .iltorin ilevala huomanto tunes evatte onsa iha onsa saunarinu iha/
 .vaissa ehi sorvel aimettinu pemi melke raltiilevaho lervi onsaa entel kauve nysse oso yinse onsa ehii tultasi/

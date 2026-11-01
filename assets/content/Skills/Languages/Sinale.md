@@ -71,13 +71,13 @@ data:
       class: "n"
       field: "Light, stars, sky and the hours"
       gloss: "the sun"
-      variants: ["hirkeltos", "hirkelho"]
+      variants: ["hirkeltos", "hirkelo"]
       concept: sun
     - form: sotel
       class: "n"
       field: "Light, stars, sky and the hours"
       gloss: "the moon"
-      variants: ["sotelho"]
+      variants: ["sotelo"]
       concept: moon
     - form: irvatto
       class: "n"
@@ -89,7 +89,7 @@ data:
       class: "n"
       field: "Light, stars, sky and the hours"
       gloss: "morning"
-      variants: [roselho]
+      variants: [roselo]
       concept: morning
     - form: seikanda
       variants: [seikandaho]
@@ -101,7 +101,7 @@ data:
       class: "n"
       field: "Light, stars, sky and the hours"
       gloss: "daylight"
-      variants: ["seipan", "teipanho"]
+      variants: ["seipan", "teipano"]
     - form: oltarne
       class: "n"
       field: "Light, stars, sky and the hours"
@@ -188,7 +188,7 @@ data:
       class: "n"
       field: "Light, stars, sky and the hours"
       gloss: "the north"
-      variants: [vitteltos, vittelho]
+      variants: [vitteltos, vittelo]
       concept: north
     - form: matesse
       class: "n"
@@ -413,7 +413,7 @@ data:
       concept: lightning
     - {form: kestel, class: n, field: "Water, weather and the seasons", gloss: "hail"}
     - form: leiken
-      variants: [leikenho]
+      variants: [leikeno]
       class: "n"
       field: "Water, weather and the seasons"
       gloss: "spring, the season"
@@ -421,12 +421,12 @@ data:
       class: "n"
       field: "Water, weather and the seasons"
       gloss: "summer"
-      variants: [autemelho]
+      variants: [autemelo]
     - form: vekkanel
       class: "n"
       field: "Water, weather and the seasons"
       gloss: "autumn"
-      variants: [vekkanelho]
+      variants: [vekkanelo]
     - form: emmaka
       class: adj
       field: "Water, weather and the seasons"
@@ -584,7 +584,7 @@ data:
       gloss: "leaves"
       variants: ["lauppiho"]
     - form: vattel
-      variants: [vattelho]
+      variants: [vattelo]
       class: "n"
       field: "Trees, plants and the living wood"
       gloss: "a branch"
@@ -593,7 +593,7 @@ data:
       class: "n"
       field: "Trees, plants and the living wood"
       gloss: "bark"
-      variants: ["ruskelho"]
+      variants: ["ruskelo"]
     - form: aimetti
       class: n
       field: "Trees, plants and the living wood"
@@ -843,13 +843,13 @@ data:
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "the clear place"
     - form: maldes
-      variants: [maldesho]
+      variants: [maldeso]
       class: "n"
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "earth, soil"
       concept: [earth, soil]
     - form: harkel
-      variants: [harkelho, harkeltos]
+      variants: [harkelo, harkeltos]
       class: "n"
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "a crag"
@@ -878,7 +878,7 @@ data:
       gloss: "a shore"
       concept: shore
     - form: sennel
-      variants: ["sennelho", "senneltos"]
+      variants: ["sennelo", "senneltos"]
       class: "n"
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "an island"
@@ -903,7 +903,7 @@ data:
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "a mountain pass"
     - form: sautten
-      variants: ["sauttenho"]
+      variants: ["sautteno"]
       class: "n"
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "a meadow"
@@ -913,12 +913,12 @@ data:
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "a marsh"
     - form: lentas
-      variants: [lentasho, lentastos]
+      variants: [lentaso, lentastos]
       class: "n"
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "a slope"
     - form: ardas
-      variants: [ardasho]
+      variants: [ardaso]
       class: "n"
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "a ridge"
@@ -927,7 +927,7 @@ data:
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "a peak"
     - form: sakken
-      variants: [sakkenho]
+      variants: [sakkeno]
       class: n
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "sand"
@@ -1102,7 +1102,7 @@ data:
       class: "n"
       field: "Song, speech, memory and the telling"
       gloss: "silence"
-      variants: ["hisseltos", "hisselho"]
+      variants: ["hisseltos", "hisselo"]
       concept: silence
     - form: serdatto
       class: "n"
@@ -1149,8 +1149,7 @@ data:
     - form: kippel
       class: "n"
       field: "Song, speech, memory and the telling"
-      gloss: "a lie"
-      concept: lie-noun
+      gloss: "a trick, a deception done rather than said"
     - {form: olpis, class: "n", field: "Song, speech, memory and the telling", gloss: "meaning"}
     - form: saumel
       class: v
@@ -1354,7 +1353,7 @@ data:
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "the plaited mat"
     - form: alken
-      variants: ["alkěn", "alkenho"]
+      variants: ["alkěn", "alkeno"]
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "a hand"
@@ -1424,7 +1423,7 @@ data:
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "an ember"
     - form: kalten
-      variants: [kaltenho]
+      variants: [kalteno]
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "a cup"
@@ -1435,7 +1434,7 @@ data:
       gloss: "a jar"
       concept: jar
     - form: rassil
-      variants: [rassilho]
+      variants: [rassilo]
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "a cord"
@@ -1612,7 +1611,7 @@ data:
       gloss: "a hearth"
       concept: hearth
     - form: velpis
-      variants: [velpisho]
+      variants: [velpiso]
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "a home"
@@ -1714,7 +1713,7 @@ data:
       gloss: "an ear"
       concept: ear
     - form: aumel
-      variants: ["aumelho", "aumeltos"]
+      variants: ["aumelo", "aumeltos"]
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "a mouth"
@@ -1726,7 +1725,7 @@ data:
       gloss: "a tongue"
       concept: tongue
     - form: intis
-      variants: ["intisho"]
+      variants: ["intiso"]
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "a heart"
@@ -1764,7 +1763,7 @@ data:
       gloss: "a face"
       concept: face
     - form: pauren
-      variants: ["paurenho"]
+      variants: ["paureno"]
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "a foot"
@@ -2103,7 +2102,7 @@ data:
       field: "The fae, the thin places, dream and the god"
       gloss: "cross over"
     - form: aldevan
-      variants: [aldevanho]
+      variants: [aldevano]
       class: "n"
       field: "The fae, the thin places, dream and the god"
       gloss: "the far side, beyond"
@@ -2240,7 +2239,7 @@ data:
       gloss: "the gathering of light; the open convocation of the faith"
       built: [aulira, "-kko"]
     - form: ansorun
-      variants: [ansorunho]
+      variants: [ansoruno]
       class: "n"
       field: "The fae, the thin places, dream and the god"
       gloss: "one who keeps the long watch"
@@ -2266,7 +2265,7 @@ data:
       gloss: "a Being of Dark"
       built: [naldu, raivas]
     - form: ultasaldevan
-      variants: [ultasaldevanho]
+      variants: [ultasaldevano]
       class: "n"
       field: "The fae, the thin places, dream and the god"
       gloss: "the deeper places, where the fae are and no Sinalo has a claim"
@@ -2301,7 +2300,7 @@ data:
       class: "n"
       field: "Death, loss, grief and the Shadow"
       gloss: "the void"
-      variants: ["aamasho"]
+      variants: ["aamaso"]
     - form: rendatto
       class: "n"
       field: "Death, loss, grief and the Shadow"
@@ -2976,7 +2975,7 @@ data:
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "a fissure in rock"
     - form: ralten
-      variants: [raltenho]
+      variants: [ralteno]
       class: n
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "a bed or layer of rock"
@@ -3027,7 +3026,7 @@ data:
       field: "Kin, hearth, the person and the body"
       gloss: "acclaim, raise someone to leadership"
     - form: hyrreselpis
-      variants: [hyrreselpisho]
+      variants: [hyrreselpiso]
       class: n
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "smoke, the mist of fire"
@@ -3269,7 +3268,7 @@ data:
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "inward-facing"
     - form: elnis
-      variants: ["elnisho"]
+      variants: ["elniso"]
       class: "n"
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "a place, a location"
@@ -3580,7 +3579,7 @@ data:
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "a shoulder"
-      variants: ["palmisho"]
+      variants: ["palmiso"]
       concept: shoulder
     - form: navessi
       class: "v"
@@ -3639,7 +3638,7 @@ data:
       field: "Kin, hearth, the person and the body"
       gloss: "width, breadth"
     - form: varkel
-      variants: [varkelho]
+      variants: [varkelo]
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "a fence, an enclosing barrier"
@@ -3850,7 +3849,7 @@ data:
       gloss: "the name of the consonant n"
     - {form: kilni, class: "n", field: "Song, speech, memory and the telling", gloss: "a joke"}
     - form: sennal
-      variants: ["sennaltos", "sennalho"]
+      variants: ["sennaltos", "sennalo"]
       class: "n"
       field: "Song, speech, memory and the telling"
       gloss: "a part, a piece of a whole"
@@ -3865,12 +3864,6 @@ data:
       field: "Song, speech, memory and the telling"
       gloss: "calling, the act of calling"
       built: ["kilpete", "-rsa"]
-    - form: nelku
-      variants: ["nelkuho"]
-      class: "n"
-      field: "Kin, hearth, the person and the body"
-      gloss: "knee"
-      concept: knee
     - form: mairevi
       class: "n"
       field: "Kin, hearth, the person and the body"
@@ -4235,7 +4228,7 @@ data:
       class: "adj"
       field: "Kin, hearth, the person and the body"
       gloss: "glad, joyful"
-    - form: irtalrsa
+    - form: irtalersa
       class: "n"
       field: "Motion, rest and being"
       gloss: "ascent, climbing upward"
@@ -4245,7 +4238,7 @@ data:
       field: "Motion, rest and being"
       gloss: "being alive, the condition of living"
       built: ["ylpi", "-rsa"]
-    - form: ruvasrsa
+    - form: ruvasersa
       class: "n"
       field: "Song, speech, memory and the telling"
       gloss: "learning, what one has learned"
@@ -4294,7 +4287,7 @@ data:
       class: "v"
       field: "Kin, hearth, the person and the body"
       gloss: "earn or deserve through one’s acts"
-    - form: pattenrsa
+    - form: pattenersa
       class: "n"
       field: "Motion, rest and being"
       gloss: "return, coming back"
@@ -4330,7 +4323,7 @@ data:
       field: "Light, stars, sky and the hours"
       gloss: "extinguish a fire"
     - form: rannel
-      variants: [rannelho]
+      variants: [rannelo]
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "side of the body, flank"
@@ -4355,7 +4348,7 @@ data:
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "crack, fissure in a hard surface"
     - form: rammel
-      variants: ["rammelho"]
+      variants: ["rammelo"]
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "back of the body"
@@ -4364,7 +4357,7 @@ data:
       class: "v"
       field: "Kin, hearth, the person and the body"
       gloss: "smile"
-      built: ["meëli", "-te, make gladness visible in the face"]
+      built: ["meëli", "-te"]
     - form: ansorutainno
       class: "n"
       field: "Motion, rest and being"
@@ -4396,12 +4389,12 @@ data:
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "grind"
     - form: nerval
-      variants: ["nervalho"]
+      variants: ["nervalo"]
       class: "n"
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "the intervening space between things"
     - form: lertis
-      variants: ["lertisho"]
+      variants: ["lertiso"]
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "a side"
@@ -4654,7 +4647,7 @@ data:
       gloss: "a bench"
       concept: bench
     - form: paltis
-      variants: [paltisho]
+      variants: [paltiso]
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "a knee"
@@ -4871,7 +4864,7 @@ data:
       gloss: "lying, a resting position"
       built: ["laukkessa", "-rsa"]
     - form: varmal
-      variants: ["varmalho"]
+      variants: ["varmalo"]
       class: "n"
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "a corner"
@@ -5997,7 +5990,7 @@ data:
       gloss: "a drink, something to drink"
       concept: drink-noun
     - form: velsar
-      variants: ["velsarho"]
+      variants: ["velsaro"]
       class: "n"
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "a measure, a unit of measurement"
@@ -6344,7 +6337,7 @@ data:
       gloss: "despite, even with: uusse kuse raskel, despite the storm"
       built: [uusse, kuse]
       concept: despite
-    - form: "uttes elnisho"
+    - form: "uttes elniso"
       class: part
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "instead, in another's place"
@@ -6480,16 +6473,16 @@ data:
       gloss: "a plain, flat open land"
       built: [peravi, "-sto"]
       concept: plain-landform
-    - form: "salpu lertisho"
+    - form: "salpu lertiso"
       class: part
       field: "The land: ground, hill, valley, shore and stone"
-      gloss: "beside the tree; a noun worn before lertisho gives beside it"
+      gloss: "beside the tree; a noun worn before lertiso gives beside it"
       built: [salpu, lertis, "-ho"]
       concept: beside
-    - form: "salpu vennas nervalho"
+    - form: "salpu vennas nervalo"
       class: part
       field: "The land: ground, hill, valley, shore and stone"
-      gloss: "between the trees; a noun worn before nervalho gives between, and vennas after the noun makes it many"
+      gloss: "between the trees; a noun worn before nervalo gives between, and vennas after the noun makes it many"
       built: [salpu, vennas, nerval, "-ho"]
       concept: between
     - form: ilmu
@@ -6529,7 +6522,7 @@ data:
       gloss: "inside, within"
       built: [ilvu, "-ho"]
       concept: inside
-    - form: "melke kaltenho"
+    - form: "melke kalteno"
       class: part
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "water in a cup; -ho on any noun places a thing in, on or at it, as varraho, on the table"
@@ -6632,7 +6625,7 @@ data:
       built: [seippe, "-sa"]
       concept: cloudy
     - form: hennel
-      variants: ["hennelho"]
+      variants: ["hennelo"]
       class: "n"
       field: "Light, stars, sky and the hours"
       gloss: "a lamp"
@@ -7480,7 +7473,8 @@ data:
       front: -he
       gloss: in, on, at
       kind: derivation
-      examples: ["_nuuvaho_, in, on, among starlight"]
+      attaches: "after a vowel, added; after a consonant, _-o_ (front _-e_)"
+      examples: ["_nuuvaho_, in, on, among starlight", '_rosel_ > _roselo_ "in the morning"']
     - form: -nu
       front: -ny
       gloss: one of a collective
@@ -7500,7 +7494,8 @@ data:
       front: -rse
       gloss: the quality of it
       kind: derivation
-      examples: [_mollu_ > _mollursa_ "depth"]
+      attaches: "after a vowel, added; after a consonant, _-ersa_ (front _-erse_)"
+      examples: [_mollu_ > _mollursa_ "depth", _patten_ > _pattenersa_ "return, coming back"]
     - form: -pi
       front: -pe
       gloss: the thing to do it with
@@ -7826,17 +7821,17 @@ The act comes first. Sinale rhetoric holds that naming the actor before the act 
 
 Verbs do not mark person or tense. Time comes from context or from a word that says so.
 
-_Serdattota ehii_ means "we remember" and can frame the following telling as memory. A poem about events ten thousand years past may carry no tense marker; the listener takes the time from that frame or from words such as _roselho_ "in the morning" and _unturoho_ "in winter".
+_Serdattota ehii_ means "we remember" and can frame the following telling as memory. A poem about events ten thousand years past may carry no tense marker; the listener takes the time from that frame or from words such as _roselo_ "in the morning" and _unturoho_ "in winter".
 
 Use each verb's stated meaning and make the actor and object clear:
 
-| Clause                        | Reading                                                                                               |
-| ----------------------------- | ----------------------------------------------------------------------------------------------------- |
-| _Korpe Kinsatti leësy vennas_ | "Kinsatti turns many paths": Kinsatti acts on the paths.                                              |
-| _Paval kelkasi_               | "The cold spring opens": the spring is what opens.                                                    |
-| _Lirta torvel_                | "The oak grows": the oak is what grows.                                                               |
-| _Lirta ehii salpu vennas_     | "We grow many trees": we act on the trees.                                                            |
-| _Raakke onsa melke kaltenho_  | "He takes water in a cup": _onsa_ is the actor and _melke_ the object; _kaltenho_ gives the location. |
+| Clause                        | Reading                                                                                              |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------- |
+| _Korpe Kinsatti leësy vennas_ | "Kinsatti turns many paths": Kinsatti acts on the paths.                                             |
+| _Paval kelkasi_               | "The cold spring opens": the spring is what opens.                                                   |
+| _Lirta torvel_                | "The oak grows": the oak is what grows.                                                              |
+| _Lirta ehii salpu vennas_     | "We grow many trees": we act on the trees.                                                           |
+| _Raakke onsa melke kalteno_   | "He takes water in a cup": _onsa_ is the actor and _melke_ the object; _kalteno_ gives the location. |
 
 In _Toimunu ilte onsa sirne sennave_, "his name's time is one year", _onsa sirne sennave_ is the time belonging to his name. The year measures time under that name, not the child's age.
 
@@ -7852,6 +7847,8 @@ A closed set of suffixes makes new words from old ones. Each takes the back or f
 SELECT gloss AS "Makes", '_' || written || '_' AS "Back", '_' || coalesce(front, written) || '_' AS "Front", examples[1] AS "Example"
 FROM affixes WHERE language = 'thalorna-note-skill-sinalelng' AND kind IN ('derivation') ORDER BY position
 ```
+
+Two suffixes change shape after a stem that ends in a consonant, so that no join breaks the clusters. _-ho_ loses its _h_, which never follows another consonant: _rosel_ "morning" gives _roselo_ "in the morning", and _kalten_ "a cup" gives _kalteno_. _-rsa_ takes an _e_ before it, since three consonants never stand together: _patten_ "return" gives _pattenersa_ "a coming back".
 
 ### Compounds
 
@@ -7871,7 +7868,7 @@ _toimu_ "the turning year" and _liseri_ "still water" give _soimu liseri_
 
 A possessor also precedes its head: _onsa sirne_ is "his name". _Ehii ernatti Porkila Ilevanto_ means "Porkila Ilevanto is our kin": _ehii ernatti_ is the predicate, and the full name is the subject. _Ehii_ alone means "we"; it becomes a possessor through its relation to _ernatti_.
 
-_Melke kalten_ is a "water cup", with water describing the cup; _melke kaltenho_ is "water in a cup", with _-ho_ expressing the location. The unchanging initial _m_ does not show the difference by itself.
+_Melke kalten_ is a "water cup", with water describing the cup; _melke kalteno_ is "water in a cup", with _-ho_ expressing the location. The unchanging initial _m_ does not show the difference by itself.
 
 Poetry may invert the order, and wearing goes with the word rather than the position. Many initials do not visibly change, so context and line grouping must still make the relation clear. Judge alliteration from the actual worn forms: _pelvai_ begins with _p_, but its modifying form _velvai_ begins with _v_.
 

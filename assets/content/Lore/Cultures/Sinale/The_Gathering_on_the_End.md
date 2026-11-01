@@ -79,7 +79,7 @@ erni ehii iha ummes oso leëvi ihaho osotos setty ehii maviho/
 [.\[…\]]{lang=zxx}/
 evatte ehi elneri velti ilte talnava nerrava velti ilte olnaro/
 .evatte ehi entel seltai salnava luuronno seltai talnava luuro luuronno heëve uulse erme/
-ahi sirneta ehi salnava luuronno entel kessave ovu ehi uvi seltai nerravâ setty ehi hisselho ahi erni ehi/
+ahi sirneta ehi salnava luuronno entel kessave ovu ehi uvi seltai nerravâ setty ehi hisselo ahi erni ehi/
 .entel kessave ovu ehi uvi seltai íha talnava evatte ehi seltai onsa olnaro onsa luuro luuronno onsa insu kelsa ovu túpe luuronno onsa
 :::
 
@@ -119,7 +119,7 @@ Tellakitta sang that the world ends when its singer stops. I say it ends when it
 :::
 
 ::: {.verse form=evesikko lang=sina enc=sinaveldikkoenc work=oaks}
-leltai ehi torvel irvattosto lentasho kinsa onsa ehi alken vauttirsaho tunes leltai ehi onsa insu/
+leltai ehi torvel irvattosto lentaso kinsa onsa ehi alken vauttirsaho tunes leltai ehi onsa insu/
 .vonu uttes torvel onsatos aldis onsa eirandi torveltos rendatto onsa olmarnaho leltai ehi onsa erme/
 rivy ummes toimunuho vennas pelpe lauppi raakke polpe onsa polpe onsa sulmeho/
 .ahi seltai lauppi leësy ehi irnarsatos ahi halpe ehi onsa oirava lauppi raakke polpe onsa/
@@ -132,7 +132,7 @@ mairel onsaa ilnava lauppi olmarna aukkessa olnaro pelpe oso irtal onsaatos/
 ukken onsaa ernirsa iha ummes ehi ernirsa leltai ehi kuse iha ernirsa/
 .ukken meravi lirtarsatos entel leltai lirne oltandi teipannu oso ahi eho iha/
 ahi eho eso teipannu entel eho alken salpuho ahi yinse ehi eso teipannu yinse ehi alkěn/
-.ahi rauttu ovu nelmi vittel ruskelho ahi ulpes melke ruskel osotos tupe nelmi onsa kelsa ovu lirne oso tenvas uulse ehi/
+.ahi rauttu ovu nelmi vittel ruskelo ahi ulpes melke ruskel osotos tupe nelmi onsa kelsa ovu lirne oso tenvas uulse ehi/
 luuro tellakitta eilavanto entel seltai salnava luuronno seltai talnava evatte ehi entel seltai salnava leltainno seltai talnava ukken eso oltandi/
 .leltai ovuu ehi evakkakki iha osotos sennevi torvel ahi sennevi rendatto
 :::
@@ -168,7 +168,7 @@ The grass goes down. The grass stands. Between the two there is a winter, and th
 :::
 
 ::: {.verse form=evesikko lang=sina enc=sinaveldikkoenc work=meadow}
-pelpe lentinu vennas ummes sauttenho aldesse polpeho nykehe ummes unturoho vennas/
+pelpe lentinu vennas ummes sautteno aldesse polpeho nykehe ummes unturoho vennas/
 .nalki lenti peravi onsa sulmeho eho polpe levatti oltandi onsa eirandi yinserseho/
 yinse ehi leiken ervu ehi yinserse vennas vonu sorvel soimutekkiretos vennas/
 .setty lenti talveho aurannos uttes lenti iha lenti onsa/
@@ -180,7 +180,7 @@ ahi vandel ehii onsaa vaukka onsaa leësyhe kauve onsaa ahi halpe ehii onsaa le�
 .evatte ehi kauve ehii erme ahi halpe ehii ehii leësy onsaa evesi oltandi eho onsaa sylpe oltandi/
 ahi eho ehii ylpirse oltandi ahi supe ovuu kessari ahi raakke ehii onsa onsaa kessari onsa tunes ahi raakke ehii onsa/
 .tellakitta eilavanto luuro ovu luuro luuronno heëve uulse entel iha seltai aume luuro ovu ehi evakka/
-pelpe lenti setty lenti leikenho untǔro ilte uulse pelpe lenti ennos setty lenti ahi eho uttes
+pelpe lenti setty lenti leikeno untǔro ilte uulse pelpe lenti ennos setty lenti ahi eho uttes
 :::
 
 The account names her: [Lentila Talvento]{.name data-type="being/npc"}, the tall grass, of the hearth of the low fog.
@@ -236,15 +236,15 @@ We know where the dead go. Aulveira takes them to [Ollevikko]{.name data-type="p
 ellevi ehi vittel aukkessaho eso sennavetos aukkessa sirne ahi velpe lauppi tunes/
 .patten ehi onsa aunekkeho iha toimunuho setty ehi issalteho evatte ehi oso yinse ehi ahi evatte ehi uttes/
 setty salpu vennas selkorosa onsaa ressa melke naldusa onsa ahi ulpes vaitten vennas/
-.ralti polpe hervi hervi autemel intisho eho orti vennas ilvena onsaa/
+.ralti polpe hervi hervi autemel intiso eho orti vennas ilvena onsaa/
 eho lirne vennas esoho ahi olkai onsaa patten ehi ihatos evatte ehi onsa ilte/
-.ahi vaukka haulonna ollevi ollevi aldevanho túpe tupenno onsaa/
+.ahi vaukka haulonna ollevi ollevi aldevano túpe tupenno onsaa/
 luuro tellakitta eilavanto entel seltai salnava luuronno seltai talnava ahi seltai luuronno setty ehi issalteho tenvas nuuvanu vennas aunekke eilavaho/
 .luuro rivytti syllente ukken oltandi ossenda ilte onsa ossenda ílte ahi velpe lauppi ahi olkai lirne vennas/
 luuro lentila talvento muuvu evesi oltandi eho muuvu sylpe oltandi ahi seltai ehii lirne/
 .ahi vandel ehi onsa setty ehi aunekke issaltehǒ/
 evatte ehi seltai talnava aukkessa aunekke lirne vennas ummes esoho ossendaho ilte/
-.ahi erni talnava iha aunekke aldevanho setty lenti sauttenho aldesse polpeho eso leikenho aurannos/
+.ahi erni talnava iha aunekke aldevano setty lenti sautteno aldesse polpeho eso leikeno aurannos/
 oltandi oso yinse ehi iha yinse ehi oltandi ilte aunekke lirne vennas esoho tupe tupenno onsaa/
 .elnis ilte sennaveho ilte uttes elnis ahi erni onsa iha uttes elnis/
 erni ehii ollevi leësy erdavi aulveira ollevi eho onsaa ollevikkoho ahi eho aulirakko iha evakkatos aurannos osotos seimakata ehii ummes iha/
