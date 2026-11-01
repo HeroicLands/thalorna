@@ -32,7 +32,10 @@ villagers dread and profit from in roughly equal measure.
 
 The wood above Kingshollow is royal forest under forest law, and the kings hunt it. That is the
 village's other defining fact—the forest courts, the restrictions on grazing and firewood, the
-poaching, and the long unresolved grievance of tenants living beside timber they may not cut.
+poaching, and the long unresolved grievance of tenants living beside timber they may not cut. In a
+year the king keeps the midwinter feast here, the tenants sing the grievance at the hall door in the
+burden of [[lore-kingswassail|the Wassail at Kingshollow]]:
+[Wassail, wassail, and open the door!/The king hath the forest, the hollow is poor;/Then wassail the king, and wassail the tree,/And a fire in the hollow for thee and for me.]{.verse}
 
 ## See Also
 

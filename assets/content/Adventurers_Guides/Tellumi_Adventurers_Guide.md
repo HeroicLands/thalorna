@@ -20,7 +20,7 @@ Three oases still answer to Tellumi princes, and four princely houses hold court
 
 ## Down from the Mountains
 
-The Tellumi tell a stranger early that they came down from the mountains, because it is the one fact about them that no conqueror has been able to revise. About 2300 BF the first lineages came down by the [[place-wstrndscnt|Western Descent]], the last three hundred miles of the range, where the wall breaks into brown foothills, and settled the great springs one by one. Every old house roots its genealogy in a named peak above the Descent, and most of those peaks no living member of the house has seen. Some houses hold that their ancestors came instead through [[place-vurdil|Vurdish]], a labyrinth of cut passages that climbs into the north face from a plain doorway forty feet high, and the quarrel between the two accounts is old and bitter. Both sides agree that a house whose peak is lost has lost its claim.
+The Tellumi tell a stranger early that they came down from the mountains, because it is the one fact about them that no conqueror has been able to revise. About 2300 BF the first lineages came down and settled the great springs one by one, and how they came down is the oldest quarrel the Tellumi have. The old houses, [Shirvan]{.name data-type="affiliation/lineage" lang=telu} first among them, hold that the ancestors came through [[place-vurdil|Vurdish]], a labyrinth of cut passages that climbs into the north face from a plain doorway forty feet high. The houses of the west, Mernagord first, hold that they came down the [[place-wstrndscnt|Western Descent]], the last three hundred miles of the range, where the wall breaks into brown foothills. The Council keeps both accounts and has never ruled between them. Every old house roots its genealogy in a named peak along the range, and most of those peaks no living member of the house has seen. Both sides agree that a house whose peak is lost has lost its claim.
 
 That makes the mountains a place of business. A family with a dispute over precedence pays climbers to prove a peak, and an exile house pays a party to find its ancestral passage in Vurdish while a rival house pays to stop it. In the first mile of Vurdish crag lurkers drop from the ceiling onto whoever carries the lamp.
 
@@ -42,7 +42,7 @@ The Atarzád hold the four greatest cities, a tribe to each.
 
 - Shirvan, the first and holiest, sixty thousand people under the [Vurinkarvem]{.name data-type="place/feature"} cliff, belongs to the Teqemod, the strictest of the twelve tribes. Tellumi Delkoshekhs hold no temple there and hear cases in back rooms. The quarter swears that a Hidden Delkoshekh keeps the old rite somewhere near the spring, and the Teqemod fire-wardens have searched for him for ninety years.
 - [[place-ashkarad|Ashkarad]], the craft city, belongs to the [Teghumod]{.name data-type="affiliation/polity"}, the merchant tribe, who buy what the workshops make and leave the craft councils alone. Each shaft of its deep water-tunnels is a family possession.
-- [[place-zargandur|Zargandur]], once the Tellumi war-city, is the garrison of the [Zhoqarod]{.name data-type="affiliation/polity"}, with the highest walls in the belt and a picket at every weir. A Tellumi caught with a blade after dark is beaten and fined, the Tellumi quarter keeps a lamp burning at every door until dawn, and beyond the north wall lies [[place-henhulpedin|Henhutpedin]], the blood-field where the war-house died.
+- [[place-zargandur|Zargandur]], once the Tellumi war-city, is the garrison of the [Zhoqarod]{.name data-type="affiliation/polity"}, with the highest walls in the belt and a picket at every weir. A Tellumi caught with a blade after dark is beaten and fined. The Tellumi quarter keeps a lamp burning at every door until dawn for the war-house that was never read, as [[lore-turemrecital|the Recitation of the Breaking]] says of them: [they are the lamps that were not lit that night. We light them every night instead.]{.verse} Beyond the north wall lies [[place-henhulpedin|Henhutpedin]], the blood-field where the war-house died.
 - Kethramír, where the southern spur comes down to the belt, belongs to the [Tozhirod]{.name data-type="affiliation/polity"}, the scholar tribe, who rule by precedent and keep a small garrison. Its hospitality is stricter than its law: a merchant who cheats there finds that no guide will lead his caravan.
 
 [[place-caldar|Kaldar]], a later city grown round a university, is Atárzád-held too, and the seven-city record does not count it.
@@ -82,7 +82,7 @@ Water is wealth and law at once. In Shirvan a household owns the right to a few 
 
 The faith runs through the water. Every oasis and every Tellumi quarter keeps a shrine to [[lore-zurathradty|Zúrathra]], the Mother of the Oasis, at its principal spring; every wedding takes her blessing, and every child is presented to her within forty days of birth. Formal worship belongs to [[lore-ahurdaendty|Ahurdaen]], the Keeper of Harmony, and no other god, the Sacred Flame included, may take the weekly observance owed to him. The Atarzád worship the Flame alone, and when they took Shirvan they pulled down Zúrathra's great shrine and built fires over the holy spring.
 
-An oasis lives on dates, palm-sugar, grain, wool and hides, and Mernagord on salt as well. The great cities add metalwork, glazed pottery, books and a date wine the Kingdom prizes. Caravans come down the spur to Kethramír with silk, spices, tea and steel, and argue prices for days in three tongues. The Tellumi strike no coin of their own, and weighed silver and foreign pieces pass by their metal. The steppe tribes raid the outer gardens when they dare. The Tellumi keep their hospitality all the same. A neyin (guest) in extremity is fed, housed and asked nothing, and the Tellumi took the Atarzád in under exactly that rule and have never amended it.
+An oasis lives on dates, palm-sugar, grain, wool and hides, and Mernagord on salt as well. The great cities add metalwork, glazed pottery, books and a date wine the Kingdom prizes. Caravans come down the spur to Kethramír with silk, spices, tea and steel, and argue prices for days in three tongues. The Tellumi strike no coin of their own, and weighed silver and foreign pieces pass by their metal. The steppe tribes raid the outer gardens when they dare. The Tellumi keep their hospitality all the same. A neyin (guest) in extremity is fed, housed and asked nothing, and the Tellumi took the Atarzád in under exactly that rule and have never amended it. [[lore-turemrecital|The Recitation of the Breaking]] says so in the middle of the case against them: [We gave the neyin's right to twelve tribes. We have not taken it back./A stranger in extremity is fed. That is what we are.]{.verse}
 
 ## People to Meet
 
@@ -121,6 +121,15 @@ Campaigns start well from the record. Parván wants an envoy to carry an offer t
 :::secret
 **For the GM:** The four held cities run on Tellumi hands, and both peoples know it. A party that learns which water-master keeps which unrecorded deed in Shirvan holds the quarter's real wealth; a party that learns who in the quarter reports to the Teqemod holds its life. The Hidden Delkoshekh may be a person or a useful story, and the quarter's faith in him works either way.
 :::
+
+## The Tellumi in Their Own Tellings
+
+Four works carry the lines a Tellumi quotes without thinking:
+
+- [[lore-turemrecital|The Recitation of the Breaking]] is the fixed text of the war, recited standing at every festival and princely funeral, and behind closed doors in the held cities; a reciter who departs from its words is corrected from the floor.
+- [[lore-comingdown|The Coming Down]] is the foundation legend told to a child at the Mother's shrine, with the roll of the seven peaks at its heart, and it keeps both accounts of the descent side by side, as the Council does.
+- [[lore-velkunsong|The Song of the Lost Town]] is the cloth-tellers' epic of old Vahurdash in the caravan yards of Kethramír, of a prince who turned a stranger from his gate and a champion who kept his oath past sense.
+- [[lore-roadnights|The Nights of the Road]] is a Kethramír caravan-master's tales on the Celestial Road, and the list of prices they make up is the whole of what a master is.
 
 ## Where to Read Next
 

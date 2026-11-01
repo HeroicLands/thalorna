@@ -65,6 +65,17 @@ The oral tradition is deeply embedded and the bards are legendary beyond the kin
 
 An Élavendri therefore listens to form as well as content. A thing said well is more likely to be believed and much more likely to be repeated, and a house that retains a great bard has bought something closer to a chancery than a musician. This has an edge to it—a satire composed by a bard of standing is a real weapon, and the law recognizes it as one.
 
+## The Songs and Tales of the Kingdom
+
+The lines an Élavendri says at the feast, the fair and the crowning come from a handful of works, sung by the Colleges and the market singers or told in turns at the hearth:
+
+- [[lore-treelinelay|The Lay of the Tree Line]] is the Circle's lay of Táldoren, the First Crowned, sung to the harp at every crowning before the monarch swears, and it teaches where the crown stops and why a king's seat at the Lodge is below the eldest.
+- [[lore-hlvrthline|The Line of the House of Hálvireth]] is the short line of a lowland house as its bard sings it at the feast where a child is named, and it shows what a proof of descent is: every head of the house in a set form, the debt the line still owes, and the join where the names cross into the high tongue.
+- [[lore-harproomqs|The Questions of the Harp-Room]] are the questions a College puts to a student who asks to be made a Bard, with the fixed answer to each and the sayings of each teaching room, which every student of a College has by heart from the first term.
+- [[lore-roadsendlmnt|The Lament at the Road's End]] is the market singers' lament for the diggers who went up to the King's Cut and did not come down, sung at Elanmere on the first night of the autumn fair; it is a satire against a crown, and the fair sings the names back with the singer.
+- [[lore-longthread|The Long Thread]] is the tale the spinning bees of the inner coast tell in turns on the long nights, of the spinner who bargained with one of the deeper places, and it is why the coast asks no name that is not offered and cuts no thread on a hinge-day.
+- [[lore-cohortpath|The Path the Cohort Took]] is the hill-tellers' tale at the Valdun drove fairs of Derva, who walked a cohort of the legion into the wood, and the hills' account of why the tribute was paid in silver; a child who has heard it twice says the bargain with the teller.
+
 ## Magic as Manners
 
 Magic is ordinary here in a way it is nowhere else in Ankaris. It is studied, practiced, discussed at table, and expected of the well-bred, and a noble who cannot at least follow a technical conversation about it is embarrassing in the way a Provenzian who cannot follow an argument is embarrassing.
@@ -79,7 +90,7 @@ Because the [[lore-flksinale|Sinale]] walk openly among them, the Élavendri als
 
 Prophecy is a live institution and not a curiosity, and Élavendri culture is organized to receive it: houses keep records of utterances, bards transmit them, and a great many decisions are made with a half-remembered line in the background.
 
-This produces the quality foreigners find most exasperating. An Élavendri is reluctant to close a question—he will leave an arrangement deliberately open, decline to name a date, and prefer a phrasing that can be read two ways. He is not being evasive. He has been raised among people for whom the meaning of an event is often established long after it happens.
+This produces the quality foreigners find most exasperating. An Élavendri is reluctant to close a question—he will leave an arrangement deliberately open, decline to name a date, and prefer a phrasing that can be read two ways. He is not being evasive. He has been raised among people for whom the meaning of an event is often established long after it happens, and the Colleges put the rule in a couplet of [[lore-harproomqs|the Questions of the Harp-Room]]: [Name no day. Leave the thing to stand./A day once named is out of hand.]{.verse}
 
 ## What Is Good, and What Succeeds
 
@@ -99,7 +110,7 @@ The Élavendri admire in him the oath sworn at every crowning, that the crown st
 
 [[being-ylthklmrth|Jalith Kálmereth]] is the Élavendri's admired bard. She is a traveling singer born at [[place-liranel|Liranel]] to a family of performers, named Kálmereth for the clarity of her voice and keeping the name. She sings the ballads of the common folk from village to village and comes home to the timber town only between roads. Liranel gave her a subject: it is the town where people hire guides into the old wood, and where some families wait for someone who does not come back. She has sung in noble halls and been well paid there and has never stayed, and she has turned down a settled place at a lord's table more than once, because the formalities of court sit badly on her and she says so.
 
-Her admiration is not a lesser form of Ranthor's. He holds the line between the kingdom and the interior by standing on it, and she holds the account of the ones who crossed it. The Colleges keep the genealogies of the houses that can pay for proofs, and her songs keep the families the genealogies leave out. She belongs to the [Minstrels' Guild]{.name data-type="affiliation/guild"}, which gives her the right to sing for pay in any Élavendri market, and she is as much at ease at the market stall as at the high table. Her cost is the road. A bard who will not take a lord's table has no house, no patron and no College behind her, and the memory she keeps is held by no one but herself.
+Her admiration is not a lesser form of Ranthor's. He holds the line between the kingdom and the interior by standing on it, and she holds the account of the ones who crossed it. The Colleges keep the genealogies of the houses that can pay for proofs, and her songs keep the families the genealogies leave out. [[lore-roadsendlmnt|The Lament at the Road's End]], a song of her Guild, says it near its close: [If you know more, then sing them here./A name's kept, or it's not.]{.verse} She belongs to the [Minstrels' Guild]{.name data-type="affiliation/guild"}, which gives her the right to sing for pay in any Élavendri market, and she is as much at ease at the market stall as at the high table. Her cost is the road. A bard who will not take a lord's table has no house, no patron and no College behind her, and the memory she keeps is held by no one but herself.
 
 ## What the Houses and the Groves Keep
 
@@ -117,10 +128,10 @@ The rest of the day is the house: the land's stewardship, the work of whatever a
 
 The turning of the seasons is marked by elaborate festivals that honor the gods and the older spirits of the land together. The ones that bind the kingdom are those where its old institutions meet.
 
-- **The hinge-days** are the equinoxes and solstices, when the Grove Council gathers at the great groves. They are for deciding what the forests need, what the fae are owed and what the kingdom must refuse [[affiliation-ordoarcanis|the Order]].
+- **The hinge-days** are the equinoxes and solstices, when the Grove Council gathers at the great groves. They are for deciding what the forests need, what the fae are owed and what the kingdom must refuse [[affiliation-ordoarcanis|the Order]]. On the inner coast nothing is turned on a wheel on a hinge-day and nobody cuts a thread, and the rule closes [[lore-longthread|the Long Thread]]: "If one breaks, you break it the rest of the way with your two hands, and you say whose it was."
 - **The feast**, _kurnis_, is a gathering with food at which the genealogies are sung. A house gives it on its own occasions and a bard of the house sings the line. It is for renewing a claim of descent in the hearing of everyone who might dispute it.
 - **The autumn fair at [[place-elanmere|Elanmere]]** brings tribal families down to camp on the lake shore rather than enter the walls, and the high country trades with the low. It is for trade face to face, and for a house's claim of descent to be heard by people who remember the genealogy differently.
-- **The crowning** is where the monarch swears that the crown stops at the tree line. It is for saying again, in the basin, where the kingdom ends.
+- **The crowning** is where the monarch swears that the crown stops at the tree line. It is for saying again, in the basin, where the kingdom ends. The monarch stands bareheaded through [[lore-treelinelay|the Lay of the Tree Line]] and then says the oath with both hands open, ending: [My road ends where the Wardens' keeping begins./I say it with my mouth, and no page holds it.]{.verse}
 
 ## Favor and the Tree Line
 
@@ -138,7 +149,7 @@ A case is tried by the royal courts in the cities and shires and by the grove-el
 
 The Aureldian faiths teach that the soul passes through the spirit realm and that the Silent Judge [[lore-selmorosdty|Sélmoros]] keeps the gate. The Élavendri add what the land adds. The dead are part of the house, and the house is the whole descending line, living and not. The veil between the worlds is thin in Élavendre, and the dead lie in a country where it can be crossed. The Áelendan send a Death-Speaker to the owl-spirit of [[place-owlhollow|the Owl Hollow]] to ask whether the recently dead have gone.
 
-That belief makes an ordinary day. A house names its dead at the feast, since the genealogies sung there are the dead in the one place where they are kept. A family plants a tree for one of the dead, _sélvosalve_, and sings the lament at the cairn, _nélthava_. A debt of honor, _molthon_, outlasts the person who owed it and falls on the line. A noble pays a College to prove descent because the proof is an inheritance of the dead as much as of the living, and a house that lets its talent lapse has failed its dead as well as its heirs. Money goes into the proof, the bard, the cairn, the tree and the patronage of the arts the house is judged by.
+That belief makes an ordinary day. A house names its dead at the feast, since the genealogies sung there are the dead in the one place where they are kept. A family plants a tree for one of the dead, _sélvosalve_, and sings the lament at the cairn, _nélthava_, and then goes home, as the sayings of [[lore-harproomqs|the Questions of the Harp-Room]] have it: [Plant the tree and sing the lament./Then leave the cairn. That's not where they went.]{.verse} A debt of honor, _molthon_, outlasts the person who owed it and falls on the line. A noble pays a College to prove descent because the proof is an inheritance of the dead as much as of the living, and a house that lets its talent lapse has failed its dead as well as its heirs. Money goes into the proof, the bard, the cairn, the tree and the patronage of the arts the house is judged by.
 
 ## Reaching the Dead
 
@@ -178,7 +189,7 @@ Membership is by blood proved before the Colleges, by marriage, by fosterage and
 
 Every real culture has a blind spot its own thoughtful members argue about, and the Élavendri's is the descent. A claim to the old blood is the currency of the first rank, and it is maintained gracefully whether or not it is true. Thoughtful Élavendri dispute whether the Colleges' proofs are a courtesy or a fraud, and whether a kingdom whose crown rests on the old blood can afford to ask.
 
-The sin is the welcome. The crown's cordiality to the Order is warm and sincere, the [University of Péravel]{.name data-type="affiliation"} dominates the capital, and the Order has taken artifacts out of the sacred sites for as long as it has been permitted into the kingdom. The Áelendan count the permission, and not any single theft, as the offense. The crown profits from an institution that is robbing its own ancestor-people, and the guides it provides are excellent, courteous and do not lead the Order anywhere that matters. Everyone concerned understands the arrangement, and the Élavendri call it diplomacy.
+The sin is the welcome. The crown's cordiality to the Order is warm and sincere, the [University of Péravel]{.name data-type="affiliation"} dominates the capital, and the Order has taken artifacts out of the sacred sites for as long as it has been permitted into the kingdom. The Áelendan count the permission, and not any single theft, as the offense. The crown profits from an institution that is robbing its own ancestor-people, and the guides it provides are excellent, courteous and do not lead the Order anywhere that matters. The Colleges teach it to every student in [[lore-harproomqs|the Questions of the Harp-Room]]: [The crown's guides are excellent. They show/the guest all he can bear to know.]{.verse} Everyone concerned understands the arrangement, and the Élavendri call it diplomacy.
 
 ## See Also
 

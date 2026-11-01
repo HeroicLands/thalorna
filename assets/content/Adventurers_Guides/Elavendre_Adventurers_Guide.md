@@ -14,15 +14,26 @@ data: {packFolder: adventurersguides, culture: elavendriclt}
 
 [[affiliation-kngdmlvndr|Élavendre]] is a woodland kingdom of about two million people on the western coast of [[place-ankrscntnnt|Ankaris]], and the only human realm there where the elder peoples walk openly. Its cities are pale stone, living vine and garden; its farms are rich; its forests are older than anything else in the west, and in places the world and the fae country lie close enough to cross between. Magic is studied, practiced and argued over at table. Behind the farmland rise the mountains of the [[lore-aelendnppl|Áelendan]], the ancestor tribes who never came down into the cities, and somewhere in the deep wood live the [[lore-flksinale|Sinale]].
 
-**The one thing to understand first: the kingdom ends at the tree line.** The crown rules the cities, the farms and the coast. The sacred groves, the mountain interior and the deep forest belong to the Áelendan by ancient law, and the [[affiliation-alndnwrdns|Áelendan Wardens]] hold that line. A trespasser is warned once and escorted out. One who comes back is dealt with, and no royal magistrate hears the complaint.
+**The one thing to understand first: the kingdom ends at the tree line.** The crown rules the cities, the farms and the coast. The sacred groves, the mountain interior and the deep forest belong to the Áelendan by ancient law, and the [[affiliation-alndnwrdns|Áelendan Wardens]] hold that line. A trespasser is warned once and escorted out. One who comes back is dealt with, and no royal magistrate hears the complaint. Every Bard of the Colleges learns the limit as a saying in [[lore-harproomqs|the Questions of the Harp-Room]]: [Each crown has tried the line to see/just where it stops. It stops. Let be.]{.verse}
 
 ## What You Meet First
 
 The kingdom is a monarchy of old noble houses, and each house works to trace its descent to the Áelendan; a demonstrable claim to the old blood is worth more than acreage. The Bardic Colleges hold the kingdom's genealogies and its memory in song, and the law recognizes a satire by a bard of standing as a weapon. The [[affiliation-groveconcl|Grove Council]] of druids speaks for the groves and the rural custom, and a village heeds its grove-elder before any sheriff.
 
-Expect courtesy, allusion and a great deal of patience. People leave arrangements open, decline to name a date, and choose words that read two ways, because prophecy is a living institution here and a decision may wait on a half-remembered line. Power casually shown is vulgar; power precisely applied is admired.
+Expect courtesy, allusion and a great deal of patience. People leave arrangements open, decline to name a date, and choose words that read two ways, because prophecy is a living institution here and a decision may wait on a half-remembered line. Pressing for a plain answer is a rudeness, and the Colleges' sayings in [[lore-harproomqs|the Questions of the Harp-Room]] name it: [The plain answer to an open thing/is the rudest word a guest can bring.]{.verse} Power casually shown is vulgar; power precisely applied is admired.
 
 The [[affiliation-ordoarcanis|Thordimalon]] holds the [University of Péravel]{.name data-type="affiliation"}, the largest [[affiliation-panepistmm|Epistémion]] campus outside the [[affiliation-vylarinmpr|Vylarian Empire]], and the crown welcomes it warmly inside the walls. An Arcane Order party that asks to go inward is given excellent guides, who show it real country and nothing of consequence. You pay in [[lore-vylrncrncy|Vylarian coin]]: the Solden, the Ardin and the Bit.
+
+## What the Kingdom Sings
+
+A newcomer hears lines from these at the feast, the fair and the crowning:
+
+- [[lore-treelinelay|The Lay of the Tree Line]] is sung to the harp at every crowning before the monarch swears that the crown stops at the tree line.
+- [[lore-hlvrthline|The Line of the House of Hálvireth]] is a lowland house's line as its bard sings it at a naming feast, and shows what a proof of descent sounds like.
+- [[lore-harproomqs|The Questions of the Harp-Room]] are what a College asks a student who would be made a Bard, and every student of a College has its sayings by heart.
+- [[lore-roadsendlmnt|The Lament at the Road's End]] is sung at the Elanmere fair for the diggers who went up to the King's Cut and did not come down, and the fair sings their names back.
+- [[lore-longthread|The Long Thread]] is the spinning bees' tale of the inner coast, and the reason nobody there asks a name that is not offered.
+- [[lore-cohortpath|The Path the Cohort Took]] is told at the Valdun drove fairs, and it is why the oldest hill households let a guest go first through any door.
 
 ## Where to Go
 

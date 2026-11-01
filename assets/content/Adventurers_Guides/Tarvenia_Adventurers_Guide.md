@@ -14,7 +14,7 @@ data: {packFolder: adventurersguides, culture: tarvenanclt}
 
 [[place-tarvenirgn|Tarvénia]] is a standing argument that nobody intends to settle: three kingdoms, a free city, a free territory and a patchwork of fiefdoms in the southern mainland of [[place-aureldirgn|Aureldia]], bound by the [[skill-tarvenlng|Tarveni tongue]], the Aureldian faiths and a shared conviction that nobody tells a Tarvenan what to do. A High King reigns at [[place-lezkora|Lezkora]] in the mountains of [[place-asturath|Asturath]], elected by the great lords and kept weak enough to argue with. [[affiliation-vylarinmpr|Vylaria]] never held the mountains, and the people remember it.
 
-**The one thing to understand first: a Tarvenan is his word.** The mercenary trade that sends Tarvenan swordsmen and crossbowmen from Vylaria to [[affiliation-cnfdrtntrzlnstts|Taruzel]] runs on the contract, and a company whose captain broke one does not get another. Contract-breaking is the worst thing a person here can be known for, worse than cowardice, because it shames everyone who marched under that captain. A lord is owed what was agreed and nothing more.
+**The one thing to understand first: a Tarvenan is his word.** The mercenary trade that sends Tarvenan swordsmen and crossbowmen from Vylaria to [[affiliation-cnfdrtntrzlnstts|Taruzel]] runs on the contract, and a company whose captain broke one does not get another. Contract-breaking is the worst thing a person here can be known for, worse than cowardice, because it shames everyone who marched under that captain. In [[lore-lightatfront|the Light at the Front]], a captain leaves eleven of his dead on a riverbank across the sea because the contract says march, and the tale gives his reason in a breath: "He kept the contract. The word first. That's what we are." A lord is owed what was agreed and nothing more.
 
 ## What You Meet First
 
@@ -31,6 +31,17 @@ The western border with [[place-provenzrgn|Provenzia]] is fought over every summ
 ## Ways In
 
 A company signs you on for a season abroad, and the employer begins to bend the terms. A widow who has run her husband's holding for six years learns that his captain sold his contract, and she wants the captain found before witnesses. A brother of the Sealed Word needs riders to bring an oath-breaker to a hearing, and the oath-breaker is a baron with friends in the hills around Ólvestra. An Arcane Order factor in Valthari hires guards who will not ask why the town has gone quiet around him.
+
+## What the Valleys Sing
+
+A newcomer hears lines from these at the oath stone, at the fire and at the horse fair:
+
+- [[lore-lowerendsong|The Song of the Lower End]] is the long poem Asturath sings after supper of the twelve masterless men who held the Horn Gorge, sung in the voice of the herd boy who carried stone there.
+- [[lore-thresholdroll|The Roll at the Thresholds]] is the muster a crossbow company says at its oath stone at the turning of the year, where the dead are answered for by the man who marched beside them and each of the living answers for himself: [Here, and kept.]{.verse}
+- [[lore-motheryesno|The Mother's Yes and No]] is the wise-women's winter tale of the Mother in the caves, and the reason a Tarvenan swears on a stone and not on a book.
+- [[lore-lightatfront|The Light at the Front]] is told only on the night the lanterns are set on the thresholds, of the crossbowman who carried eleven dead men's pay home.
+- [[lore-adepthail|The Adept and the Hail]] is the hill farms' comic tale of the mage who sold a valley a contract against the hail, and was paid exactly what it said.
+- [[lore-fairverses|The Verses of the Thórgila Fair]] are the verse-duel a horse fair sang and its town sings back, from which the fairs of the Thórgila valleys take their measure.
 
 ## Where to Read Next
 

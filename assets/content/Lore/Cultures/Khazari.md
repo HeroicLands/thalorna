@@ -109,11 +109,11 @@ Before any cut, a worker listens. She taps the stone and hears how it rings, loo
 
 Mining is central to Khazari life. Ore and minerals are necessary and desirable, and freeing them from the stone is honorable work. It is done in an old and almost ritual manner, by techniques that do the stone as little harm as they can.
 
-Tunnels follow the rock's own lines, so the stone provides its own buttressing. That lets the Khazari drive long tunnels without timber or masonry supports, and a narv-butám, a long tunnel that needs no prop, is the miner's masterpiece. A mine that needs propping shows that the miners did not listen, and a prop, a _sakap_, is a mark of shame on the working and on the name in its record. The mines Khazari engineers lay out for [[affiliation-tantsouempr|Tantsou]] follow the rock in the same way and need no timber.
+Tunnels follow the rock's own lines, so the stone provides its own buttressing. That lets the Khazari drive long tunnels without timber or masonry supports, and a narv-butám, a long tunnel that needs no prop, is the miner's masterpiece. A mine that needs propping shows that the miners did not listen, and a prop, a _sakap_, is a mark of shame on the working and on the name in its record. [Dulkun of Khalv-gunáv]{.name data-type="being/npc"}, who cut the water-line of [[lore-longtunnel|The Long Tunnel]] without one, left a single saying in [[lore-gatharbuzan|The Sayings of the Masters]]. Miners say it of any prop they pass: [A prop is a question you did not ask, answered in timber.]{.verse} The mines Khazari engineers lay out for [[affiliation-tantsouempr|Tantsou]] follow the rock in the same way and need no timber.
 
 ## Years of Listening
 
-Apprenticeship begins with listening, samg. An apprentice, a _nabaf_, spends years learning to read stone (its kinds, its flaws, its stresses and its moods) before being trusted to strike it. The first years are spent sounding stone, following seams, watching masters decide where not to cut, and writing down what the stone did. An apprentice who asks too early for a hammer is told to listen another year, and taught the proverb _Dalkir sumág dalk, dalkir khusáp_: "the mason listens to the stone; the mason cuts little."
+Apprenticeship begins with listening, samg. An apprentice, a _nabaf_, spends years learning to read stone (its kinds, its flaws, its stresses and its moods) before being trusted to strike it. The first years are spent sounding stone, following seams, watching masters decide where not to cut, and writing down what the stone did. An apprentice who asks too early for a hammer is told to listen another year, and taught the saying that is older than the chain of masters and closes [[lore-gatharbuzan|The Sayings of the Masters]]: _Dalkir sumág dalk, dalkir khusáp._ [The mason listens to the stone; the mason cuts little.]{.verse}
 
 The ladder of a life follows the same order:
 
@@ -205,9 +205,21 @@ _Gatharir tamík._
 _Gazun gulák nuv gatharir._
 : gazun gu-LÁK nuv ga-THA-rir! — we · drink · with · master — "We drink with the master!"
 
+## What Is Read and Sung Below
+
+Each occasion on which the hold goes down has its text, and a hold hears the same few works so often that their lines turn up in the workshops and the courts. They are the nearest thing the Khazari have to a scripture:
+
+- [[lore-clanscrossing|The Crossing of the Clans]] is the deep song of the people's beginning, sung by the eldest masters on the night of the turning of the year as the lamps go out; it counts the seven clans through the crossing head for head, with the whole hall answering each count, and teaches that the end of the world is not known and is not foretold.
+- [[lore-gatharbuzan|The Sayings of the Masters]] is Vorgald's chain of twelve masters' workshop sayings, read whole on the oath-day when an apprentice is admitted to strike; the workshops quote it for every rule of the craft, from the prop to the record, and its last saying is the proverb taught to an apprentice who asks too early for the hammer.
+- [[lore-longtunnel|The Long Tunnel]] is the account of a water-line cut along the grain with no prop, told in the workshops most often to an apprentice who has asked for the hammer, and its master's claim of work is recited at the turning of the year in the holds that keep it.
+- [[lore-vargfukar|The Finding at the Far Edge]] is Vorgald's founding account, read in its refuge on the day of the finding: a finder who listened for a season while two elders entered against her reading, and a hold that found its refuge before a single home.
+- [[lore-clansquarrel|The Quarrel of the Clans]] is the account of the sittings at Khazartúrn in which the ordering of the city was set down, read in the council-hall to every elder on the day she first takes a seat, so that no elder sits who has not heard why no seat is first.
+- [[lore-sealingcity|The Sealing of the City]] is the lament the old sing below after the account of Khazartúrn's fall is read, kept without change, and it lays the city's dead in their chambers tower by tower, as the account has them.
+- [[lore-balvfunad|The Going of the Exile]] is the lament of a keeper of a gate put out of the rock for carrying his hold's stores to the starving tribe below it; it is never sung below, and some holds read it to workers on the night before their first oath, so that they hear what the oath costs before they cut it.
+
 ## What the Record Holds Against a Name
 
-Rewards rise in a plain order: a mark of mastery beside a name in the craft-record; the first cut of a new passage; the work of a founding or a refuge; a place among those who keep the hold's rites below; and, rarest of all, a **new house name**, compounded for the occasion by the elders of several holds together for an accomplishment no existing house can account for. That last happens perhaps twice in a century, and it founds a line.
+Rewards rise in a plain order: a mark of mastery beside a name in the craft-record; the first cut of a new passage; the work of a founding or a refuge; a place among those who keep the hold's rites below; and, rarest of all, a **new house name**, compounded for the occasion by the elders of several holds together for an accomplishment no existing house can account for. That last happens once in sixty-four years, and often not even then, and it founds a line.
 
 Penalties run the other way, and an apprentice learns them in the order he is likely to meet them. Your first clumsy cut goes into the record against your name, and it stays there. Force a cut again, or force a graver one, and you repair it yourself, at your own labor, with a master of another house watching you work. Go on forcing and your tools are set aside: you are returned to listening, on the apprentice's rung, in front of everyone who saw you leave it. Break an oath you swore below and you may not go down again—no festival, no oath, no shrine. Past all of that lies **exile** from the hold. An exile has no house, no hold and no refuge, and some exiles live by selling to humans what a hold would not have sold.
 
@@ -215,11 +227,11 @@ Penalties run the other way, and an apprentice learns them in the order he is li
 
 Humans who deal with a hold speak of a lord of the mountain. Inside the rock you answer to the council of the elders: a hold is governed by the elders of its houses sitting together, and the same elders lead the rites below. The faces that judge your quarrel in the deep hall are the faces you see by lamplight at the turning of the year.
 
-There is no lord inside the rock, and the rule comes from the city every hold was measured against. In the early centuries of Khazartúrn one clan held the leadership of the city, the other clans contested it over farmland, mines and a fair share, and houses of two or three clans left to cut the first outlying holds. The record counts those departures as sendings, and every hold since has been governed by its council so that no single house can lead it.
+There is no lord inside the rock, and the rule comes from the city every hold was measured against. In the early centuries of Khazartúrn one clan held the leadership of the city, the other clans contested it over farmland, mines and a fair share, and houses of two or three clans left to cut the first outlying holds. The record counts those departures as sendings, and every hold since has been governed by its council so that no single house can lead it. The council's finding from that quarrel, as [[lore-clansquarrel|The Quarrel of the Clans]] records it, is cut in the wall of every council-hall and opens: [Below, at the table, the elders of the houses of this hold together sit./First among them none sits.]{.verse}
 
 Which elders hear you depends on whom you quarrel with. A dispute inside your own house goes to its elders; a dispute with another house goes to the council of the hold; a matter that crosses holds goes to the elders of several holds together.
 
-Say your house and a neighbor's both claim the credit for a passage, or both deny the blame for one. The case is tried in the deep hall. The hold's archive keeps every craft-record, and its keepers bring up the ones that bear on the case and read them aloud, and the elders judge from what is read. Where a record and an elder's memory disagree, the record stands, and the elder who misremembered answers for it. When you are called to speak, speak to what is written.
+Say your house and a neighbor's both claim the credit for a passage, or both deny the blame for one. The case is tried in the deep hall. The hold's archive keeps every craft-record, and its keepers bring up the ones that bear on the case and read them aloud, and the elders judge from what is read. Where a record and an elder's memory disagree, the record stands, and the elder who misremembered answers for it. When you are called to speak, speak to what is written. The keeper [Kivil of Halb-zumád]{.name data-type="being/npc"} put the rule into [[lore-gatharbuzan|The Sayings of the Masters]] in two sentences every apprentice hears on the day of admission: [What is remembered is argued about. What is written is read.]{.verse}
 
 Your house also pays into the hold's common stores: labor, a share of its work and a share of what comes up from the gate. Part of what it pays goes down to the refuge and waits there in the caches.
 
@@ -231,7 +243,7 @@ That belief makes the ordinary week. It is why every finished piece is signed an
 
 The words cut over a tomb are few and in a fixed order: the name and the house, the work, the stone and the dead, and the name again. [[lore-longtunnel|The Long Tunnel]] gives the words over the tomb of Tanvan of Ramk-sumád.
 
-At a funeral the hold goes down and keeps silence over the dead, mullán. The silence is broken only by the words also said over finished work: _Ramk samíd, ramk thamír_, "the course is raised; the course is struck."
+At a funeral the hold goes down and keeps silence over the dead, mullán. The silence is broken only by the words also said over finished work: _Ramk samíd, ramk thamír_, "the course is raised; the course is struck." [[lore-sealingcity|The Sealing of the City]] closes on the same words, said once at the walled gate of Khazartúrn over all its dead: [the course is raised;/.the course is struck./For thirty thousand of them,/.by name,]{.verse}
 
 ## Keeping the Work of the Dead
 
@@ -251,11 +263,11 @@ No Khazár sleeps in a doorway. Every Khazár belongs to a house, and every hous
 
 Say a mason of your house dies in the workings and leaves a widow and two small children. The children are raised by their father's house—your house—with their mother's house beside it, so they grow up at home in both. Their mother remains of the house she was born to and keeps her place there, and your house shares her keep because her children are yours. The record holds your house to all of it: a house that fails its own is entered there as surely as for a clumsy cut.
 
-The only Khazár without a roof is an exile. That is the whole force of the sentence: no house takes him in, no hold feeds him, and when the hold is sealed he has no place in the refuge.
+The only Khazár without a roof is an exile. That is the whole force of the sentence: no house takes him in, no hold feeds him, and when the hold is sealed he has no place in the refuge. [[lore-balvfunad|The Going of the Exile]], the one lament never sung below, gives the sentence in the exile's own voice: [In the refuge my place is cut,/.the measure of a body and a jar./At the turning of the year they count the places./.Mine is struck.]{.verse}
 
 ## The One Who Cannot Strike
 
-If your hands fail you—a wrist crushed in the workings, a hand burned at the forge, fingers that stiffen with age while your ears stay sharp—you go on listening. Ears and judgment outlast hands. A worker who can no longer strike teaches apprentices, reads faces for the finders, or keeps the records. Your house feeds you, and when it cannot, the hold's stores feed your house.
+If your hands fail you—a wrist crushed in the workings, a hand burned at the forge, fingers that stiffen with age while your ears stay sharp—you go on listening. Ears and judgment outlast hands. [Fardan of Hamk-dunák]{.name data-type="being/npc"}, who lost his right hand to a slipped block and read faces by ear for fifty years after, left the saying in [[lore-gatharbuzan|The Sayings of the Masters]]: [Ears outlast hands. Nobody tells you that until you need it.]{.verse} A worker who can no longer strike teaches apprentices, reads faces for the finders, or keeps the records. Your house feeds you, and when it cannot, the hold's stores feed your house.
 
 A hold grows nothing of its own and eats what its farmers send up to the gate, so it is never far from a hungry year. When the harvest fails, the elders open the refuge caches and apportion them by need: a household with four mouths and one pair of working hands draws more than the household beside it. When the harvest comes back, the caches are filled again before anything else.
 

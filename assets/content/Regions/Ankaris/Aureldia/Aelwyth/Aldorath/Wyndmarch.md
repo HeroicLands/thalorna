@@ -40,7 +40,10 @@ in a year, a patrol that does not come back, a season when the woods are worse t
 budgets for it the way it budgets for weather.
 
 The crown has mounted formal campaigns perhaps a dozen times in its history, each declared a success,
-and the frontier is precisely where it was. Nobody at [[place-dunmere|Dunmere]] expects otherwise.
+and the frontier is precisely where it was. The drovers'
+[[lore-hildricplay|Play of Hildrik and the Grukar]] gives the Grukar the boast:
+[Twelve times he won, his chronicles do say,/And twelve times I was here the following day.]{.verse}
+Nobody at [[place-dunmere|Dunmere]] expects otherwise.
 
 ## See Also
 

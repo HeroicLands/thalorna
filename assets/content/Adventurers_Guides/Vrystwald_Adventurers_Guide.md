@@ -82,9 +82,20 @@ In trance the Shaman travels among the spirits and may speak with the dead, with
 
 The year turns at the seasons with rites of its own. [Weskskald]{.name data-type="lore/gathering"}, the Totem Reciter, is a deep-winter evening when each household recites its _eldskorn_, the tally of its dead, name by name. [Weskmund]{.name data-type="lore/gathering"}, the Totem Protection, is a late-summer day spent tending sacred ground. A child is named and introduced to the clan at three months, earns a true name at eth-kethrun, and goes to the grave with the Shaman guiding the rite.
 
+## What the Reciters Keep
+
+Nothing in the forest is written, so its learning is what its reciters hold word for word. These works are heard most often, and their lines turn up in ordinary talk:
+
+- [[lore-giantslayers|The Lay of the Giant Slayers]] tells how the people came out of the east to a wood the giants held; it is given at Waldburg under the market peace, and a Deepwood reciter answers it there that the people came out of the oaks.
+- [[lore-feudcord|The Lay of the Feud-Cord]] is recited before the three seats when a kindred means to refuse a settlement, and its three winters of killing over one refused price are the case for restitution over feud.
+- [[lore-oakwardens|The Tally of the Oak Wardens]] is the Eichthúl's _eldskorn_ at Weskskald, the dead said name by name, with the dead under the Nordheim posts at Hrindstead among them.
+- [[lore-mahnrythlament|The Mahnreth Lament]] is raised every year at the turning into _grema_ over a mound that holds nobody, for the people the Grukar took, and it is the one lament held word for word.
+- [[lore-dunkelcharms|The Dunkelwald Charms]] are the household charms a Deepwood mistress teaches her daughter in deep winter, from a broken bone to the price of taking from the wood.
+- [[lore-youngestson|The Youngest Son's Telling]] is a Skathwald hearth tale of a feud-payment carried over the river ice, and it teaches what a witnessed count is worth.
+
 ## Neighbors and Dangers
 
-The Grukar are the enemy no oath, hospitality or ransom reaches. They take no captives worth ransoming, send no envoys and eat the Varokh they take. Every Grukar tribe answers to its own spawner, so what comes out of their country is an endless scatter of small raids, and a tribe that outgrows its ground can wake deep in Vristwald's own forest.
+The Grukar are the enemy no oath, hospitality or ransom reaches. They take no captives worth ransoming, send no envoys and eat the Varokh they take. [[lore-mahnrythlament|The Mahnreth Lament]] says it once and never again: [The Grukar take no ransom. There is nobody to carry it to.]{.verse} Every Grukar tribe answers to its own spawner, so what comes out of their country is an endless scatter of small raids, and a tribe that outgrows its ground can wake deep in Vristwald's own forest.
 
 The people of the [[place-nrdlndsrgn|Nordlands Region]] to the north and west share Pelwar ancestry, martial values and a good deal of custom with the Varokh, and the two peoples trade, intermarry and raid each other in turn. Twelve years ago Nordmal settlers planted hall-posts at [[place-hrindstead|Hrindstead]] in a grove the [Eichthúl]{.name data-type="affiliation/lineage"} clan claims, and the Eichthúl burned the first stockade. The oaks remain a claim neither people can give up; the [[lore-nrdhmhstry|Nordheim histories]] tell the Nordmal side.
 

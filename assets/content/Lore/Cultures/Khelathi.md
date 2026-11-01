@@ -189,11 +189,11 @@ The first is the temple account. Contracts, leases, debts, offices, fosterings, 
 
 The second has no name a scribe could use and everybody understands it anyway: what a son owes his mother, what a man owes the master who taught him thirty years after he became a master himself, what a sworn man owes his liege past the terms of the oath, what anyone owes the gods, the dead and the house that raised him. No witness was present. Nothing was ever written. The gods keep it.
 
-That division is why the Khelathi pray. A man worried about a contract walks to the archive and has it read—there is nothing to ask anybody, the answer is in a cabinet. A man worried about whether he has been a good son has nowhere to go, and no record exists to reassure him. So he asks, he gives, he petitions, and he listens. _Attest the written and petition the unwritten_, and the error a priest actually corrects is confusing the two. Asking a god to set aside a contract is impiety. Asking a god whether you have failed your father is the whole of religion.
+That division is why the Khelathi pray. A man worried about a contract walks to the archive and has it read—there is nothing to ask anybody, the answer is in a cabinet. A man worried about whether he has been a good son has nowhere to go, and no record exists to reassure him. So he asks, he gives, he petitions, and he listens. Every scribal pupil copies the rule in his first year, from [[lore-rethetkhlyu|the Instruction of Khelayu]]: [Attest the written; petition the unwritten.]{.verse} The error a priest actually corrects is confusing the two. Asking a god to set aside a contract is impiety. Asking a god whether you have failed your father is the whole of religion.
 
 ## What Is Written
 
-Not every undertaking is entered, and the rule that decides is distance. Between people a relationship already binds—kin, neighbors, a household and the man who has farmed beside it for twenty years—the tie itself holds the promise, and entering it would be an insult. Between strangers there is no tie to hold anything, and the undertaking goes to a temple: a sale, a lease, a hire, a partnership, a debt between men of different towns. Some obligations within a family are entered anyway, where they are too heavy or too long for the tie alone to carry—the one created when a child is born and named, and released at majority; the one between a master and an apprentice for the term of the arrangement.
+Not every undertaking is entered, and the rule that decides is distance. Between people a relationship already binds—kin, neighbors, a household and the man who has farmed beside it for twenty years—the tie itself holds the promise, and entering it would be an insult. [[lore-suitscribe|The Suit of the Scribe and the Builder]] plays the rule on the first ground, where the Scribe refuses his brother a tablet for his own house: [And between brothers nothing is written. The tie holds it.]{.verse} Between strangers there is no tie to hold anything, and the undertaking goes to a temple: a sale, a lease, a hire, a partnership, a debt between men of different towns. Some obligations within a family are entered anyway, where they are too heavy or too long for the tie alone to carry—the one created when a child is born and named, and released at majority; the one between a master and an apprentice for the term of the arrangement.
 
 The entry is opened when the promise is witnessed and written. It is closed when the outcome is witnessed and written. An entry with one side written and the other blank is _open_, and an open entry is the thing a Khelathi fears.
 
@@ -201,13 +201,13 @@ Closing does not mean keeping a promise whatever it costs. Four things close an 
 
 What cannot be done is to leave a thing hanging—unperformed, unsettled, unreleased, with nobody able to say what became of it.
 
-Some undertakings any competent person can take up: a lease, a dyke, a fostering, a debt. Others are the person himself—marry this woman, speak for me at my hearing, keep what I told you—and nobody may assume those. They close by performance or by release, and by nothing else.
+Some undertakings any competent person can take up: a lease, a dyke, a fostering, a debt. Others are the person himself—marry this woman, speak for me at my hearing, keep what I told you—and nobody may assume those. They close by performance or by release, and by nothing else. [[lore-qethgezerker|The Tale of Gezerker]] enters a scribe's false readings of the flood on exactly those terms: [A reading is the man: his hand and his mouth. No one assumes it.]{.verse}
 
 ## Who May Hold a Stranger's Word
 
 Making obligations is everybody's business and so is releasing them. A mother binds a son and forgives him; neighbors agree and let each other off; a household enforces what it is owed by shouting, by shunning, by the door closed and not opened. None of that is the temple's concern, and a priest asked to involve himself in it would decline.
 
-What the temples hold alone is the stranger's word—recording what two people with no tie between them owe each other, and standing behind it when one of them will not perform. That is the whole of the priesthood's civil office, and the reason a temple is an archive before it is anything else.
+What the temples hold alone is the stranger's word—recording what two people with no tie between them owe each other, and standing behind it when one of them will not perform. That is the whole of the priesthood's civil office, and the reason a temple is an archive before it is anything else. Every door in the valley says so at noon, in the denials [[lore-zamletuqaa|the Hymn of the Sun-Lord]] sings with the god overhead: ["I have left open no entry I could close."/"I have taken no stranger's word without a witness."]{.verse}
 
 So a criminal body that records what strangers owe it, and enforces those records, has done worse than break a law: it is doing the one thing the temples exist to do, and the priesthood answers it as heresy rather than as theft. The line runs in an unexpected place: a criminal family is nobody's doctrinal business, because its obligations are held by kinship like anyone else's. A body that takes in strangers and writes down what they owe has set up as a rival temple, whatever it calls itself. Growth is what condemns it, and the priests are the more serious enemy because the offense is theirs rather than the magistrate's.
 
@@ -237,7 +237,7 @@ _And the accounts go into the ground with the body_, which is why the tablets ma
 
 Here is the shape of a well-lived Khelathi life, and it is not what a foreigner expects.
 
-_Close what you owe. Leave open everything owed to you._ The debit side must be shut, because that is the gate. The credit side should be long, because in a place where the dead cannot earn, what others owe you is income.
+[[lore-readingweigh|The Reading at the Weighing]] says it twice over every account it reads: [Close what you owe; leave open what is owed to you.]{.verse} The debit side must be shut, because that is the gate. The credit side should be long, because in a place where the dead cannot earn, what others owe you is income.
 
 So _he died square_—nobody owing him anything—is faint praise and a little pitiable. The phrase a man wants said over him is that _he went down owed_.
 
@@ -347,7 +347,7 @@ Tombs grade the same way. The Gar-Auu and their kin lie in the rock-cut Ways of 
 
 Because the weighing of life spares nobody, nobody wants to be left without the minimum rites—and a whole apparatus exists to bury the poor decently. The temples keep paupers' fields and say the words over the destitute, and ordinary folk pay into burial clubs, which are neighborhood and guild societies whose one purpose is that no member goes to the West unwrapped. A laborer will go hungry before he misses a payment.
 
-This is the abiding dread of the Khelathi poor—to die without proper rites—and it is of greater concern than a hard life, because a hard life ends.
+This is the abiding dread of the Khelathi poor—to die without proper rites—and it is of greater concern than a hard life, because a hard life ends. The fate itself is cut on [[lore-stelaquzuqa|the Stela of Kuz'Uqa at Zel-Halzi]], over the last army of Galezkara: [Lie they where they fell. None was carried off. None was wrapped./No name was read over any of them, and the kites of the west bank were fed through the Harvest.]{.verse}
 
 All that wealth in the ground has bred the profession that follows it. Tomb robbery is ancient, organized, and beyond stamping out, so the wealthy build against it in layers: they conceal the tomb, then bar it, then trap it, then curse it, and at the last—for those who can afford it—they set a guard on it. Endowed watch-priests hold the ground above. In the deepest chambers the bound dead hold the post: zaglu-soldiers that wake to a broken seal, and revenant-wardens that keep their wits and their station in the dark. The arms race has run three thousand years without either side winning, and it is fought hardest at [[place-khelzuret|Khelzuret]] and in the burial fields of [[place-khelautithnt|Khelaut-Ithnet]] west of the capital.
 
@@ -358,6 +358,17 @@ Khelathi art is highly developed and profoundly conservative: the painter draws 
 Art here is a magical act that creates eternal reality, and correct form is the mechanism by which it works. A properly executed tomb painting does not depict the afterlife—it _is_ the afterlife, made real through right practice. An innovation is therefore an error, and an error in a tomb lasts forever. The builders of the pyramids and obelisks regard themselves as craftsmen of the creator god and not servants of the Gar-Au, and their precision is devotional before it is structural.
 
 The same seriousness runs through the sciences. Khelathi physicians combine advanced surgery with magical theory and see no tension between them, and Khelathi astronomers chart the heavens with a precision that exceeds anything in western Ankaris.
+
+## What Is Read and Sung
+
+The Khelathi learn their great works the way they learn their hands, by copying them and hearing them read, and a scribe's maxim or a player's refrain turns up at a counter or a funeral meal as readily as in a school. These are the works every quarter of the valley knows:
+
+- [[lore-readingweigh|The Reading at the Weighing]] is the temple litany read over every dead person's account before the household, the creditors and the heir, and its Asking, put to each creditor at an open entry, is heard at every Reading in the valley.
+- [[lore-rethetkhlyu|The Instruction of Khelayu]] is a Keeper's advice to his son on the day of his ordination, copied by every scribal pupil in his first year, and it teaches the two hands, the two ledgers and the four doors in maxims short enough to say at a counter.
+- [[lore-zamletuqaa|The Hymn of the Sun-Lord]] is sung at the eastern face of the Great Temple before the Festival of the Coming-Forth, and it carries the law of the sightline, the god's names with their rest, and the noon denials every door says.
+- [[lore-suitscribe|The Suit of the Scribe and the Builder]] is the players' comedy of the first lease, played at the Harvest feasts of Thuba'i, and every hall answers its song with the shoulder-line: [Put your shoulder to it. Put your shoulder to it.]{.verse}
+- [[lore-stelaquzuqa|The Stela of Kuz'Uqa at Zel-Halzi]] is the conqueror's victory stone below Lenen-Nezut, read each Gelet for the dead whose names it left blank, and it shows what the unread lack.
+- [[lore-qethgezerker|The Tale of Gezerker]] is the court tale the burial clubs of Gar-Qethar read on the night the Measure is proclaimed, of a scribe who wrote the flood false, and it ends at his Reading with no verdict given.
 
 ## The Gods a Person Keeps
 

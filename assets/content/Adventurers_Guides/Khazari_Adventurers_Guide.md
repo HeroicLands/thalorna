@@ -64,7 +64,7 @@ Quarrels are tried in the deep hall, before the elders of a house, of the hold, 
 
 ## Puthakun and the Deep
 
-The Khazari are not much given to worship. The one they venerate, and do not worship, is [Puthakun]{.name data-type="being/npc"}, a servant of [[lore-goddreams|the God of Dreams]], whom the Khazari call Lubát. Puthakun led the seven clans out of [Humadan]{.name data-type="place/world"}, "the middle place", held the passage against pursuit until the last clan was through, and sealed it behind them. Every Khazár alive descends from someone he brought out. His name is kept, his deed is remembered below, and good work is the thanks. Lubát they recognize as his master, the light that endures in deep places, and they ask little of the god.
+The Khazari are not much given to worship. The one they venerate, and do not worship, is [Puthakun]{.name data-type="being/npc"}, a servant of [[lore-goddreams|the God of Dreams]], whom the Khazari call Lubát. Puthakun led the seven clans out of [Humadan]{.name data-type="place/world"}, "the middle place", held the passage against pursuit until the last clan was through, and sealed it behind them. Every Khazár alive descends from someone he brought out. His name is kept, his deed is remembered below, and good work is the thanks. [[lore-clanscrossing|The Crossing of the Clans]], sung below at the turning of the year, says why he has no hymn: [He brought them out alive, and the count is the whole of what we say to him./No song is sung to him. The count is sung. Hear it: seven.]{.verse} Lubát they recognize as his master, the light that endures in deep places, and they ask little of the god.
 
 Craft is the prayer, and listening before a cut is the commonest act of devotion. There is no priesthood apart from the masters and elders. The whole hold goes down to its _bamg-budán_, its deepest sanctuary, at the turning of the year to hear the year's craft-records read by lamplight, on the day of its finding, for the reading of the account of Khazartúrn's fall, and on oath-days, when an undertaking is sworn below and cut where it was spoken. Joy lives near the light, in the courts on the face, with singing that carries along the passages.
 
@@ -114,7 +114,15 @@ The Vardain are the last of those arrangements. When the Nordmen took the plain 
 
 ## Voices of the Holds
 
-The Khazari keep no founding scripture, but copies of their records and songs open doors into the holds: [[lore-clanscrossing|The Crossing of the Clans]], their deep song of beginning; [[lore-clansquarrel|The Quarrel of the Clans]], on Khazartúrn's divided council; [[lore-sealingcity|The Sealing of the City]], its lament; [[lore-vargfukar|The Finding at the Far Edge]], on Vorgald's founding; [[lore-longtunnel|The Long Tunnel]], a water-line cut at [Magar-thubád]{.name data-type="place/settlement"}; and [[lore-gatharbuzan|The Sayings of the Masters]], read when an apprentice is admitted to strike.
+The Khazari keep no founding scripture, but a handful of records and songs are read below so often that their lines run through ordinary talk in the workshops and the courts, and copies of them open doors into the holds:
+
+- [[lore-clanscrossing|The Crossing of the Clans]] is the deep song of the people's beginning, sung below on the night of the turning of the year; it counts the seven clans out of Humadan head for head, and teaches that the end of the world is not known and is not foretold.
+- [[lore-gatharbuzan|The Sayings of the Masters]] is Vorgald's chain of workshop sayings, read whole when an apprentice is admitted to strike, and many of the workshops' bywords about props, records and clumsy cuts come from it.
+- [[lore-longtunnel|The Long Tunnel]] is the account of a water-line cut along the grain at [Magar-thubád]{.name data-type="place/settlement"} with no prop in it, told to apprentices who want the hammer too soon.
+- [[lore-vargfukar|The Finding at the Far Edge]] is Vorgald's founding account, read in its refuge on the day of the finding, and it tells of a finder proved right against her elders' entry, and of a hold that readied its refuge before its homes.
+- [[lore-clansquarrel|The Quarrel of the Clans]] tells how Khazartúrn's council came to sit with no first seat, and every new elder hears it read in the council-hall before her oath is cut.
+- [[lore-sealingcity|The Sealing of the City]] is the lament the old sing below after the account of Khazartúrn's fall is read, laying the city's dead in their chambers tower by tower.
+- [[lore-balvfunad|The Going of the Exile]] is the song of Gisvin put out of the rock, never sung below, and some holds read it to workers the night before their first oath so that they know what an oath costs.
 
 ## Ways In
 

@@ -54,7 +54,7 @@ data:
         - whether Arkanamos meant the dole to be a standing charge or a gift for the generation that first drew it
 ---
 
-A centurion puts the bargain to each year's recruits on the morning they swear the oath. He does not know that the words come from a statute, and nobody has told him: the law is more than six hundred years old, and the speech has been handed from centurion to centurion until it sounds like a proverb. "There is one door," he finishes, "and the army holds it open." [[affiliation-seldan|Seldan]] (the Senate) can open another for a single man by grant, and a grantee stands exactly as a veteran does.
+A centurion puts the bargain to each year's recruits on the morning they swear the oath. He does not know that the words come from a statute, and nobody has told him: the law is more than six hundred years old, and the speech has been handed from centurion to centurion until it sounds like a proverb. "There is one door," he finishes, "and the army holds it open." [[affiliation-seldan|Seldan]] (the Senate) can open another for a single man by grant, and a grantee stands exactly as a veteran does. The speech runs through the soldiers' songs as well. The watch officer of [[lore-eveningsongs|the Evening Songs]], sixteen years into his twenty, stands at the back of the recruits and says it with the centurion: [twenty years under the eagle, and then there is one door, and you are a citizen,/.one door, and the army holds it open.]{.verse}
 
 ## The Statute
 

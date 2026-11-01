@@ -112,7 +112,7 @@ And: Three cuts and no spoil is a claim. Thirty cuts and a cart of spoil is a co
 
 And: The hall is finished when the last person who saw it empty is dead, and nobody has asked why the pillar stands where it stands.
 
-Over every course he laid he said the charm his house says, _Ramk dubáz-ak_, the course lies still. An apprentice asked him what the charm did to the course. He said: Nothing. The course lies still because it was laid true. Say it anyway. It tells your hand that the course is finished, and a hand that has not been told goes back for one more blow.
+Over every course he laid he said the charm his house says, _ramk dubáz_, the course lies still. An apprentice asked him what the charm did to the course. He said: Nothing. The course lies still because it was laid true. Say it anyway. It tells your hand that the course is finished, and a hand that has not been told goes back for one more blow.
 :::
 
 ::: {.verse form=bazan lang=khaz enc=khazpirzathenc work=khalvan}

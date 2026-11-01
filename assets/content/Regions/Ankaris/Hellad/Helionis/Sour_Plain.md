@@ -16,7 +16,7 @@ The working that killed the dead spent its own poison within a generation. The w
 
 ## What Crosses
 
-The dead of both armies stand on the plain on the anniversary of the battle, worn down to the posture of men waiting for an order that never came, ranks of them in the grey grass. Between anniversaries the field is thin: predators gather where unreceived dead are, and the carters who go round by daylight do not go near it at night. Nothing living crosses into the spirit realm there, and a traveler who walks in comes back out, or does not come back.
+The dead of both armies stand on the plain on the anniversary of the battle, worn down to the posture of men waiting for an order that never came, ranks of them in the grey grass. In [[lore-unreceived|the Unreceived]] the dead levy's chorus says what they are doing there: [We are not angry. The dead are past anger. We are waiting.]{.verse} Between anniversaries the field is thin: predators gather where unreceived dead are, and the carters who go round by daylight do not go near it at night. Nothing living crosses into the spirit realm there, and a traveler who walks in comes back out, or does not come back.
 
 ## The Stones and the Judge
 

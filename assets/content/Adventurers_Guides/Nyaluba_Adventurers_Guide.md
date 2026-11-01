@@ -22,6 +22,10 @@ Each clan governs itself under its paramount and its elders, and every fourth dr
 
 Faith runs through totems and spirit guides. Each clan is kin to its totem—lion, crocodile, eagle, leopard or baobab—and does not hunt or eat it, and totem law shapes marriage, diet and the greeting of strangers. Every spirit is venerated, appeased or warded against according to its nature, and spirit-speakers negotiate with them on a clan's behalf. Nyáluba teaching places [[lore-shorinyadty|Shorinya Ndafo]] above all of them, the Great Brightness, which receives no offering.
 
+## The Song and the Telling
+
+Two works show what the griots keep and how they keep it. [[lore-swearbaobab|The Swearing Under the Baobab]] is the memory-song of the Long Pact's swearing, sung by a griot and answered by everyone present; it counts the five terms on one hand, and its call and answer are lines every Nyáluban child knows. [[lore-stonetongue|The Stone Tongue]] gives one account twice, as the griots recite the record and as it is told at the fire, and it is the plainest lesson in why a griot never adds to what he was given.
+
 ## Places and Dangers
 
 - [[place-hetolubemo|Heto Lubemo]], an ancient stone enclosure in the southeastern highlands, holds the Great Lubemo for six weeks every fourth dry season.
@@ -32,7 +36,7 @@ Faith runs through totems and spirit guides. Each clan is kin to its totem—lio
 
 ## Ways In
 
-Most outsiders arrive with Sengala traders, and a party that carries goods south may find itself asked to carry word north. A Fénjara trail-reader may need hired spears for a hunt whose quarry does not leave footprints. A spirit pact broken in one village wants a spirit-speaker, a witness and someone willing to go where the spirit lives. And the griots have entered in the record that a Kolembozi spirit-speaker walked into an Old Heto at her initiation and came out speaking [The Stone Tongue]{.name data-type="skill/language"}, which no living person understands; what the tongue is for, nobody will say.
+Most outsiders arrive with Sengala traders, and a party that carries goods south may find itself asked to carry word north. A Fénjara trail-reader may need hired spears for a hunt whose quarry does not leave footprints. A spirit pact broken in one village wants a spirit-speaker, a witness and someone willing to go where the spirit lives. And the griots have entered in the record that a Kolembozi spirit-speaker walked into an Old Heto at her initiation and came out speaking [The Stone Tongue]{.name data-type="skill/language"}, which no living person understands. What the tongue is for, nobody will say, and the fireside telling in [[lore-stonetongue|The Stone Tongue]] is careful on the point: "Mind, I don't say nobody knows. I say nobody will say."
 
 ## Where to Read Next
 

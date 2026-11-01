@@ -100,7 +100,7 @@ Ships carry amber, furs, whale ivory and iron south to [[place-midhalnrgn|Mídha
 
 Good conduct begins with keeping an oath, protecting kin and an accepted guest, and doing the work entrusted to one's hands. Courage includes rescue, endurance and sound judgment as well as fighting. A household that preserves its people through winter has done something worthy of praise.
 
-A false oath attacks the trust on which the whole society rests. Deliberate false witness at a ting, betrayal of guest protection, and hoarding shared food while dependents starve are shameful. So are robbing a grave and disturbing a place guarded by the dead without its customary permission. A person can be feared for violence and still be despised for these acts.
+A false oath attacks the trust on which the whole society rests. Deliberate false witness at a ting, betrayal of guest protection, and hoarding shared food while dependents starve are shameful. So are robbing a grave and disturbing a place guarded by the dead without its customary permission. A person can be feared for violence and still be despised for these acts. The Jel telling of [[lore-aldarlok|Aldarlok]] counts what a broken oath costs in the gods' own time: [Broken oaths bite/at the years remaining./Trust rots slowly;/the roof beam weakens.]{.verse}
 
 This moral reckoning is strongest within the circle of kin, hall and pledged peace. The conquest of [[affiliation-jrldmstrmvld|Stormveld]] on [[place-aelwyth|Aelwyth]] shows its limit. Nordmen seized the plain and enslaved its inhabitants; their descendants still work land held by the conquerors. Raids and the slave trade likewise reward acts that Nordmen condemn when done to their own people. Thoughtful Nordmen dispute an honor that protects a guest at the hearth while excusing the enslavement of strangers.
 
@@ -138,6 +138,20 @@ The Skalds' Circle trains singers to keep genealogies, judgments and debts in fo
 
 [[being-dagmrskaald|Dagmar the Skaald]] shows the storyteller's power and weakness in a living person. His songs carry heroic tales from clan to clan, and his wit earns a hearing. He also bends truth for advantage. Admiration for his craft does not make that dishonesty admirable; the gift that preserves a name can also distort it.
 
+## The Songs a Hall Knows
+
+A hall learns its people's account of themselves from a handful of works, heard so often that their lines turn up in ordinary talk. These are the ones most halls know:
+
+- [[lore-aldarlok|Aldarlok]] is the close of the age, sung whole on the last night of [[lore-jol|Jel]]; it teaches that the gods know they will lose and stand anyway, and that a broken oath shortens the time they have.
+- [[lore-sagaskalforv|The Saga of Skalforv Thunderstrike]] is a hero saga of the Jel cycle, one man in a small boat fighting the World-Wyrm four days for the shore folk, and its opening call to the benches is the hall's own part.
+- [[lore-sagaskrildmyl|The Saga of Skrilmil Stormborn]] is the winter saga of a chieftain who leads his people up [[place-thrumufjall|Thrumufjall]] through the storms, and it ends by telling the hall to keep close and make room for whoever falters.
+- [[lore-storalddraskborg|Storald of Draskborg]] is the Targud fort-saga of a moved boundary stone, told to every new shift at [[place-tvalgard|Tvalgard]] so that it knows what fort-duty asks of a bundi.
+- [[lore-vyldgyldra|Vuldgeldra]] is Hliskvir's praise of a jarl's failed winter, the poem every apprentice skald's own praise-poem is measured against, because it counts the winter's nine dead as plainly as the jarl's fair rationing.
+- [[lore-folmhnura|Folmhnura]] is a shipwright's lament for her daughter dead of fever, made as a suit at the ting, and the women of the [[place-malagna|Malagna]] yards sing it at every grave-ale for a sickness death.
+- [[lore-hvelmsnerv|Hvelmsnerv]] is a velva's foretelling from a [[place-vithgard|Vithgard]] high seat in the winter the whales failed, recited along the whale-coast while the slaughter-blet's bones are read; it teaches that the ash of this age keeps a coal for the next.
+- [[lore-skipskreld|Skipskreld]] is the Midsomar flyting of [[lore-thrunvalddty|Thrunvald]] and [[lore-velgrimurdty|Velgrímur]] in a becalmed boat, the party-piece of the Nordheim havens, in which the haven shouts the refrain at whichever god has lost an exchange.
+- [[lore-motmal|Motmál]] is the speech-poem of [[affiliation-motefnir|Mótefnir]]'s great hov, and a craftsman speaks the Maker's half of it when he swears his first work, so that the first thing he says before the altar is that he is finished with what he made.
+
 ## Near Gods and Daily Offerings
 
 The gods of the [[affiliation-asguardian|Asguardian Pantheon]] are held to be near and demanding powers. Worship joins shared stories, oaths and offerings across separate faiths. A household may keep a _horgur_, a stone altar or cairn, for the first pour of the day's mead, a portion from slaughter or an offering before a journey. An ordinary person takes part without becoming a priest of any one god.
@@ -148,7 +162,7 @@ Wandering velvur offer _seid_, dream-reading and contact with spirits outside a 
 
 ## The Year at the Hall
 
-[[lore-jol|Jel]], the twelve nights of midwinter, keeps light and fellowship against the dark. Halls open their feasts, the dead are invited to the table, and skalds sing the cycle of hero-sagas. Hearth blessings and marriage rites share the season with vigil and memory.
+[[lore-jol|Jel]], the twelve nights of midwinter, keeps light and fellowship against the dark. Halls open their feasts, the dead are invited to the table, and skalds sing the cycle of hero-sagas. The benches answer the opening of [[lore-sagaskalforv|the Saga of Skalforv Thunderstrike]] by doing what it asks: [Beat wood upon the benches;/bend ears toward the tale.]{.verse} Hearth blessings and marriage rites share the season with vigil and memory.
 
 [[lore-sumarmal|Somarmál]] marks return: ships to the water, warriors from winter quarters and cattle to pasture. Offerings seek a good growing and sailing year. It is also the season of great tings, when disputes are heard and public oaths taken.
 
@@ -174,7 +188,7 @@ The five kingdoms hold their own assemblies. Every seventh year their kings and 
 
 ## Rites under the Ting's Peace
 
-At [[lore-sumarmal|Somarmál]] a frontier bundi walks the boundary stones with the neighboring householder and a witness for the _landvordur_. They read each mark aloud and strike its stone so that both households can later say where the boundary lay. A stone found moved becomes a ting matter: the mover, or the mover's kin after death, must answer the claim. Tales say a stone-mover whose kin refuse that duty comes back after death carrying the stone, still asking where to set it. A child who hears the tale does not forget where a boundary runs, though the ting still settles title on the word of living witnesses.
+At [[lore-sumarmal|Somarmál]] a frontier bundi walks the boundary stones with the neighboring householder and a witness for the _landvordur_. They read each mark aloud and strike its stone so that both households can later say where the boundary lay. A stone found moved becomes a ting matter: the mover, or the mover's kin after death, must answer the claim. Tales say a stone-mover whose kin refuse that duty comes back after death carrying the stone, still asking where to set it. A child who hears the tale does not forget where a boundary runs, though the ting still settles title on the word of living witnesses. [[lore-storalddraskborg|Storald of Draskborg]], the Targud fort-saga of one such stone, gives the walk its byword. The man accused of moving the stone speaks it at the ting, and his neighbor's son speaks it again at the fourth stone to leave the mark where it stands: [A thing set down stays down.]{.verse}
 
 The howe-wake seeks a different kind of answer. At [[lore-veturnetur|Veturnetur]] or on the ninth night of [[lore-jol|Jel]], a seeker may sit awake on a burial mound or at a crossroads to hear the dead. A velva's leave is customary and seldom given, for the dead may demand a truthful answer to a question of their own. What the dead tell one seeker in the dark is no skald's witnessed record; whoever acts on it must find living evidence first. When the wake is worked against a named person, the ting may judge the act a grave wrong and withdraw its peace from the seeker; the dead give no one the right to pronounce that sentence.
 
@@ -190,7 +204,7 @@ At Veturnetur the hall's _buvordur_ seats its honored old by the door and serves
 
 At [[lore-aldarlok|Aldarlok]], the defending gods and their honored dead face the last fire. A Nordman hopes to be remembered as one who stood well when duty called. Honorable deaths include battle, keeping an oath, childbirth and defence of one's craft. The honored gather in [[place-valsal|Valsal]] or [[place-solvangur|Solvangur]], under Odvar and Solrún, to prepare for that final contest.
 
-The faiths of the Ten also teach that oath-breakers, those who turn from duty, and those who die of sickness without distinction pass to [[place-nulthey|Nulthey]], where they fade. The faithful of the [[affiliation-solrun|Faith of Solrún]] affirm that a life need not include battle to earn honor. Illness and honor therefore remain a difficult question; a family's duty to feed an incapacitated member does not depend on claiming certainty about their eventual fate.
+The faiths of the Ten also teach that oath-breakers, those who turn from duty, and those who die of sickness without distinction pass to [[place-nulthey|Nulthey]], where they fade. The faithful of the [[affiliation-solrun|Faith of Solrún]] affirm that a life need not include battle to earn honor. Illness and honor therefore remain a difficult question; a family's duty to feed an incapacitated member does not depend on claiming certainty about their eventual fate. The women of the Malagna yards put the question at every sickness death in [[lore-folmhnura|Folmhnura]], a shipwright's suit for her fevered daughter, whose cut strake is in a ship at sea: [Say she was never called on./Say it to the plank.]{.verse}
 
 This belief reaches ordinary work. It weighs against a false oath and in favor of defending a neighbor, preserving a craft or giving away wealth. Offerings and shared feasts cost food and drink a house could keep. At funeral feasts and divisions of an estate, kin reckon the dead person's obligations rather than treating death as cancellation; [[lore-nrdlndsfnrl|the Pyre, the Ship and the Howe]] follows a death from the first night to the grave-ale. Care for graves and their goods preserves the dead's place in local memory. It also keeps the living from provoking a presence they cannot safely judge.
 
@@ -216,9 +230,9 @@ A widow keeps her property and holding where she can manage them. An orphan's fo
 
 ## Injury, Old Age and a Failed Winter
 
-A person who cannot work is still owed food and shelter by kin, then by the clan. An injured veteran may teach, judge or keep stores when able, but care is owed even when no useful work is possible. The honored old have a named seat, are served first and retain a hearing at the hall. Age and incapacity do not release those who claim them from their duty.
+A person who cannot work is still owed food and shelter by kin, then by the clan. An injured veteran may teach, judge or keep stores when able, but care is owed even when no useful work is possible. The honored old have a named seat, are served first and retain a hearing at the hall. The [[lore-vyldgyldra|Vuldgeldra]], the first praise-poem an apprentice skald hears, sets the order down: [The door-seat filled with gray,/fed first, as the oath says;/steward served them, then us,/the bench-holder ate last.]{.verse} Age and incapacity do not release those who claim them from their duty.
 
-In a failed winter the jarl opens stores, and the ting allocates grain publicly by need and capacity. Children, incapacitated adults and elders retain a claim. Generosity is then measured in fair rationing rather than a splendid feast. A household's poverty makes the wider duty necessary; it does not turn abandonment into honorable conduct.
+In a failed winter the jarl opens stores, and the ting allocates grain publicly by need and capacity. Children, incapacitated adults and elders retain a claim. Generosity is then measured in fair rationing rather than a splendid feast. A household's poverty makes the wider duty necessary; it does not turn abandonment into honorable conduct. [[lore-sagaskrildmyl|The Saga of Skrilmil Stormborn]] closes on the same duty: [Keep close through the winter;/keep courage for the climb./When another's footing falters,/find room beside your shoulder.]{.verse}
 
 The remembered Three Winters famine gives this duty its shameful story: in the telling, the old of the poorest halls went over the kin-fell, a cliff, so that the young would eat. Some skalds recite the five kings' later oath as history; others call it the shape the famine's memory took. Nobody at the door-seat waits for the argument to finish, because the duty to honor and feed the old stands either way.
 

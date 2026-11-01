@@ -24,7 +24,7 @@ Each city is sovereign, with its own government, laws and customs, and each beli
 
 Choose Pelagora if you want the sea. Its harbor is one of the finest anchorages on the central sea, its shipwrights build the fastest galleys on it, and its fleet is the largest in the region and controls the sea lanes of the eastern Vylarian Sea. [[affiliation-pelagora|Pelagora]] is a democracy: free citizens vote on war, trade and law, and each of them serves in the fleet or the militia, so every vote is cast by someone who will row or fight for it. Its assembly is the loudest place in the country.
 
-Choose Thirenae if you want the academies. It is the oldest and most prestigious of the seven, the first home of the Epistémion (the Academy of Knowledge), and its credential settles the question of where a scholar was taught. White marble colonnades, shaded courts and terraced gardens are built for contemplation and debate, and the [Library of Thirenae]{.name data-type="place/structure"} is said to hold more manuscripts than any collection outside the [[affiliation-empireakhlth|Empire of Au'Khelathu]]. [[affiliation-thyrenae|Thirenae]] is governed by a philosophical council of senior scholars and the heads of its oldest families, so power there follows a reputation for learning before it follows money. Thirenae needs Pelagora's fleet, and Pelagora needs Thirenae's diplomats; the two are rivals and partners at once.
+Choose Thirenae if you want the academies. It is the oldest and most prestigious of the seven, the first home of the Epistémion (the Academy of Knowledge), and its credential settles the question of where a scholar was taught. White marble colonnades, shaded courts and terraced gardens are built for contemplation and debate, and the [Library of Thirenae]{.name data-type="place/structure"} is said to hold more manuscripts than any collection outside the [[affiliation-empireakhlth|Empire of Au'Khelathu]]. [[affiliation-thyrenae|Thirenae]] is governed by a philosophical council of senior scholars and the heads of its oldest families, so power there follows a reputation for learning before it follows money. Its keel-stone stands in the agorin before the library, and a stranger is taken to it and told what [[lore-keelburning|the Burning of the Keel]] tells: [this is our first citizen. He burned his ship. He brought you here.]{.verse} Thirenae needs Pelagora's fleet, and Pelagora needs Thirenae's diplomats; the two are rivals and partners at once.
 
 Choose [[place-kalydria2|Kalidria]] if you want the theater. Where Thirenae pursues truth and Pelagora pursues power, Kalidria pursues beauty. Arrive in the weeks of a festival and the inns are full, a crowd waits outside every playhouse an hour before the performance, and the talk in the street is about which family paid for which play. [[affiliation-kalydria|Kalidria]]'s patron families compete by spending, and a Kalidrian prize is the highest honor a dramatist can win. The [Academy of the Silver Veil]{.name data-type="affiliation"} trains its hetairin there.
 
@@ -102,6 +102,17 @@ That unease has a working rule. Several city-states have arrangements that let a
 **For the GM:** The College's account leaves out what Helionites are quieter about. In the war of 335–312 BF the cities' mages became mage-warlords their own cities could not control, and their sorceries poisoned the land and killed on a scale no army could match; Helionite mages made the Order necessary. The Republic broke them with the [Dragon Riders]{.name data-type="affiliation"}, and how it secured the dragons is told in [[lore-dragondead|the Dragon Dead at Theradon]] and [[lore-thebargain|the Bargain]]. Old battlefields and the ruins of the mage-warlords' seats still lie in the hills.
 :::
 
+## Songs, Legends and Plays
+
+The schools teach these works as the cities' record, and their lines turn up in the assembly, at the heralds' altar and at dinner:
+
+- [[lore-keelburning|The Burning of the Keel]] is Thirenae's song at the Games, where each city's rhapsode sings its founding ship, and it is Thirenae's claim to the first vote, the first dead and the first fire on the shore.
+- [[lore-terracemsrs|The Measures of the Terraces]] is the highland farmer's poem of how the gods voted the world into measure and of the year on the olive terrace, and the schools teach it as the second book.
+- [[lore-firstasking|The Herald Who Asked for the Dead]] is the legend of the first herald to ask for the dead, told at the heralds' altar before every Games, and it holds the words every herald says on the field.
+- [[lore-veillessons|The Lessons of the Silver Veil]] are the sayings a companion learns in her eight years at the Academy, and they are the rules she keeps at every table she sits at.
+- [[lore-unreceived|The Unreceived]] is the Kalidrian tragedy of the levy standing on the Sour Plain, and it says on the stage what Korinthea has not said in its assembly.
+- [[lore-silentdinner|The Dinner of the Silent Passage]] is the College of Ethics' own dialogue on whether glory is the only life the dead have, read on the first night of the Silent Passage.
+
 ## What Gets a Newcomer into Trouble
 
 **Declining to be examined.** A stranger who will not defend a claim in public is taken for a fraud until proved modest. Say less, or be ready to argue it.
@@ -114,7 +125,7 @@ That unease has a working rule. Several city-states have arrangements that let a
 
 **Practicing what you may only study.** Arcane theory is free in Helionis. Casting is the Order's business, and a philosopher who crosses the line answers to the Order.
 
-**Touching a herald.** His person is inviolable, even between cities at war.
+**Touching a herald.** His person is inviolable, even between cities at war, and the asking he says on the field opens with it, in the words of [[lore-firstasking|the Herald Who Asked for the Dead]]: [I am the herald of my city, and my person is the gods'.]{.verse}
 
 ## People to Meet
 

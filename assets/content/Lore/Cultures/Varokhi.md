@@ -65,7 +65,7 @@ The Varokh call [[place-vrystwald|Vristwald]] their primeval homeland. The count
 
 Good conduct means carrying an entrusted duty even when it costs something. A warrior brings companions home; a household mistress preserves the winter stores; a Shaman refuses a dangerous question. Courage includes endurance and cunning in forest combat. A prudent retreat is no disgrace unless it abandons someone the warrior had pledged to protect.
 
-An oath binds before witnesses, including when given to an accepted outsider. Hospitality and promises of safety during ransom bind the person who offered them. Repairing an injury through acknowledged payment earns more respect than letting a feud consume both kindreds. An officeholder must reckon honestly and exercise restraint. Provision for kin comes before personal renown.
+An oath binds before witnesses, including when given to an accepted outsider. Hospitality and promises of safety during ransom bind the person who offered them. Repairing an injury through acknowledged payment earns more respect than letting a feud consume both kindreds. The Skathár of [[lore-feudcord|the Lay of the Feud-Cord]] puts it to a kindred about to refuse a full price: [A cord is made to be untied. A cord that is only knotted is a rope,/and a rope is for hanging things from, and what hangs from this one will be your own.]{.verse} An officeholder must reckon honestly and exercise restraint. Provision for kin comes before personal renown.
 
 Breaking an oath, abandoning a dependent, concealing goods owed to the clan or lying in a witnessed settlement brings shame. So does using an office to take from kin. Cowardice means betraying a duty, rather than merely surviving danger.
 
@@ -93,9 +93,18 @@ Women hold substantial property and trading authority. A woman may also win a Wa
 
 ## Memory Without Writing
 
-[[skill-varokhlng|Varokhi]] is unwritten, carried on breath and memory from its Pelwar roots. Giant-slayers, spirit-walkers and heroes fill an oral tradition whose deeds listeners are expected to recognize. There is no written charter or registry to replace a witnessed promise. An oath before a war-band carries the security a written deed provides elsewhere.
+[[skill-varokhlng|Varokhi]] is unwritten, carried on breath and memory from its Pelwar roots. Giant-slayers, spirit-walkers and heroes fill an oral tradition whose deeds listeners are expected to recognize. There is no written charter or registry to replace a witnessed promise. An oath before a war-band carries the security a written deed provides elsewhere, and [[lore-giantslayers|the Lay of the Giant Slayers]] says what it lays on the band: [A vow before the band/is a thing every man who heard it has to carry down the bank.]{.verse}
 
 Each clan's wesk, its sacred grove and its ancestral burial places hold its shared identity. Feud-cords and the Skathár's remembered reckoning preserve blood owed and paid. The oldest trees house powerful spirits. These places and memories make obligations visible without a common temple or a document governing all Varokh.
+
+The works heard most often in the forest, and quoted most often in it:
+
+- [[lore-giantslayers|The Lay of the Giant Slayers]] is the Dorgbán's lay of how the people came out of the east to a wood the giants held, given at Waldburg under the market peace with the Deepwood's answer that the people came out of the oaks, and it holds the forest's oldest account of what a vow before the band lays on everyone who heard it.
+- [[lore-feudcord|The Lay of the Feud-Cord]] is recited before the three seats when a kindred means to refuse a settlement, and its three winters of killing over one refused price are the Varokh case for restitution over feud.
+- [[lore-oakwardens|The Tally of the Oak Wardens]] is the Eichthúl's _eldskorn_ at Weskskald, said name by name back to the ones who are the wood, and it counts the dead under the Nordheim posts at Hrindstead whose mound the kindred cannot tend.
+- [[lore-mahnrythlament|The Mahnreth Lament]] is the one lament held word for word, raised every year at the turning into _grema_ over a mound that holds nobody, for the people the Grukar took, and its refrain asks the taken: [Where will you go, with no ground on you?]{.verse}
+- [[lore-dunkelcharms|The Dunkelwald Charms]] are the nine household charms a Deepwood mistress teaches her daughter in deep winter, for a bone, a crossing, a fever, the night and a birth among them, and the eighth sets the price of taking from the wood.
+- [[lore-youngestson|The Youngest Son's Telling]] is the Skathwald hearth tale for children old enough to be sent over the river ice, and it teaches who may carry a feud-payment and what a witnessed count is worth.
 
 ## The Forest Is the Temple
 
@@ -103,7 +112,7 @@ Each village keeps one wesk, its totem, and its Weskár, or Shaman, tends its ri
 
 Some people also have a personal totem suited to their personality. Women tend toward herbivores and men toward predators or carnivores, with exceptions. A personal bond does not replace the clan's wesk. Hunting the clan's totem animal requires the Shaman's approval and a rite the Shaman performs to protect the hunter and appease the spirit. The animal is not untouchable under every circumstance.
 
-No one takes from a protected grove without the Shaman's consent or disturbs a clan mound and its grave goods. The year's harvest must leave the forest able to replace what was taken. That is practical duty as well as reverence: a clan that strips its country leaves its children none.
+No one takes from a protected grove without the Shaman's consent or disturbs a clan mound and its grave goods. The year's harvest must leave the forest able to replace what was taken. That is practical duty as well as reverence: a clan that strips its country leaves its children none. At Dunkelwald the price is a charm, the eighth of [[lore-dunkelcharms|the Dunkelwald Charms]], said at the edge of the wood before the trapping and the cutting: [This is the price./One tree in three stands./The straightest. Thumb-mark it/so your sons spare it too.]{.verse}
 
 The Shaman guides a child's naming and introduction to the clan at three months, participates in adulthood and marriage rites, and guides funerals. At eth-kethrun, the passage to adulthood, a significant deed earns a true name. Before that passage, the young learn the work and obligations they will carry; the rite recognizes a claim they must continue to uphold.
 
@@ -137,7 +146,7 @@ No common court or lasting council stands above the villages. Disputes between t
 
 The dead enter the spirit world to be with their clan's wesk. Over generations of descendants, an ancestor gradually merges into the spiritual background of the totem's environment. A remembered person becomes part of the country the clan reveres.
 
-The ancestors judge wrongdoing there. Those they banish from the totem's land wander exposed to rival spirits and evil beings that hunt the weak. The living do not know the grounds of that judgment. They commonly suspect cowardice, murder within the clan and shameful conduct, but cannot promise that a particular act earns a particular fate.
+The ancestors judge wrongdoing there. Those they banish from the totem's land wander exposed to rival spirits and evil beings that hunt the weak. The living do not know the grounds of that judgment. They commonly suspect cowardice, murder within the clan and shameful conduct, but cannot promise that a particular act earns a particular fate. The Eichthúl say even an oath-breaker with their dead at Weskskald. In [[lore-oakwardens|the Tally of the Oak Wardens]] a child asks whether the man who swore a _vora_ before the war-band and did not keep it is said, and the eldest answers: [He is said. What the ancestors made of him is theirs. Keep your feet going.]{.verse}
 
 This uncertainty gives honest conduct weight without providing a mortal list of spiritual sentences. It also shapes ordinary choices. A household preserves useful goods for a funeral, settles succession before witnesses and leaves ancestral ground undisturbed. Daughters and sons inherit household wealth on comparable terms. Stores, trade claims, tools and a warrior's equipment can pass separately according to their obligations. Clan custom settles disputed claims without a written deed; funeral goods are part of what a family must provide for the dead.
 
@@ -147,7 +156,7 @@ Most people receive a simple burial in sacred ground with goods believed useful 
 
 Prayer can address the ancestors and wesk. The Shaman is the primary intermediary: in trance, the Shaman travels to the spirit realm and speaks with totems and, to a limited extent, the dead. Such speech is dangerous. The Shaman may never ask the dead about the future, details of spirit existence beyond generalities, combat or revenge, or anyone banished from the totem's land.
 
-The prohibitions make restraint part of spiritual competence. A warrior cannot demand ancestral advice for vengeance, nor a merchant a dead relative's forecast. The clan gladly feeds and supports the Shaman as one of its three leaders; there is no fee for each rite or journey. The same practical support sustains the War Chief and Other Chief in their duties.
+The prohibitions make restraint part of spiritual competence. A warrior cannot demand ancestral advice for vengeance, nor a merchant a dead relative's forecast. The Shaman in [[lore-feudcord|the Lay of the Feud-Cord]] refuses a man holding to a vow of blood against a full price in one line: [The dead are not asked about blood. Not by me, not by anyone, not for you.]{.verse} The clan gladly feeds and supports the Shaman as one of its three leaders; there is no fee for each rite or journey. The same practical support sustains the War Chief and Other Chief in their duties.
 
 ## What a Person Owes
 
@@ -167,7 +176,7 @@ An Othmund's owning household owes food, shelter and care through illness or inc
 
 Injury, lasting illness and old age do not cancel the duty of care. Kin feed and shelter a person unable to work; the clan supplies what kin cannot. Experience can still serve through teaching and judgment, but care is owed even when no useful work remains.
 
-Elderly Varokh who can no longer work or produce effectively often choose to stop eating. That choice does not release kin or clan from offering care. It is no formal requirement for the old to die. In a failed winter, the three elders apportion scarce stores with the kindreds, and dependent people retain their claim even when provision becomes difficult.
+Elderly Varokh who can no longer work or produce effectively often choose to stop eating. [[lore-oakwardens|The Tally of the Oak Wardens]] remembers one elder of the Eichthúl, in a winter of hand-measured stores, as the man [who stopped eating that winter and said so before the hearth first, so that nobody could say afterward he had been made to.]{.verse} That choice does not release kin or clan from offering care. It is no formal requirement for the old to die. In a failed winter, the three elders apportion scarce stores with the kindreds, and dependent people retain their claim even when provision becomes difficult.
 
 ## Shelter, Teaching and Defence
 

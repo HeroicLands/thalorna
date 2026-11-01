@@ -144,7 +144,7 @@ janpoda vi ro stanra bhe nayu,/
 
 The Memory-Keepers are one of the most respected scholarly families in the inland part of the [[place-vedyarargn|Vedyara Region]]. Historians from across the region consult their library, their authority on Vedyari political history has no rival, and their ceremonial role in the sabhra is taken with great seriousness. The present Memory-Keeper, [Ramavahan Smiritibhara]{.name data-type="being/npc"}, is a quiet scholar in his late fifties and the author of the most respected modern commentary on the dissolution.
 
-Visiting scholars ask why a dynasty that cannot return is kept in memory at all. The Rajapuri answer is that the dissolution was a _judgment_: the kingdom failed because it deserved to fail, and the recitation is the standing reminder of why kingship is dangerous. The sabhra governs by consent of the constituent villages, and the recitation reminds it that any government, its own included, can fail and be dissolved by the process that ended the Kingdom of Mahanodi.
+Visiting scholars ask why a dynasty that cannot return is kept in memory at all. The Rajapuri answer is that the dissolution was a _judgment_: the kingdom failed because it deserved to fail, and the recitation is the standing reminder of why kingship is dangerous. The sabhra governs by consent of the constituent villages, and the recitation reminds it that any government, its own included, can fail and be dissolved by the process that ended the Kingdom of Mahanodi. The [[lore-rcitkngsmhnd|Recitation]] says it of the janpoda itself in its close: [What ended once may end again: this too,/.if it should earn its end.]{.verse}
 
 ## The Sabhra and the Temple
 

@@ -63,7 +63,7 @@ An entry **opens** when a promise is witnessed and written down. It **closes** w
 
 > At the archive, you and the merchant agree on the terms a scribe enters. You can carry the cargo to its destination, agree to other terms, or ask the merchant to release you. Whichever path you choose, you will want a witness there when the account is closed.
 
-An entry closes by **performance**, **settlement** on other agreed terms, **release** by the person owed, or **assumption** by someone else. A shipwrecked merchant who cannot deliver a cargo might settle with the buyer or find someone to take up the debt. Either choice can send a party after a missing shipment, a reluctant creditor, or a willing heir. The [[lore-khelathiclt|culture note]] explains which promises another person may assume.
+An entry closes by **performance**, **settlement** on other agreed terms, **release** by the person owed, or **assumption** by someone else. A shipwrecked merchant who cannot deliver a cargo might settle with the buyer or find someone to take up the debt. Either choice can send a party after a missing shipment, a reluctant creditor, or a willing heir. The [[lore-khelathiclt|culture note]] explains which promises another person may assume. Every scribal pupil copies the rule from [[lore-rethetkhlyu|the Instruction of Khelayu]]: [Four doors shut an entry, and there is no fifth./You will be offered a fifth every year of your life. It is called "let it lie."]{.verse}
 
 Two consequences matter at the table. **A person owed a release may refuse it**, even at a dying person's bedside, and a feud can outlast both parties. In Khelathi teaching, at the judgment after death, both of a person's accounts are opened and weighed: falsehood, cruelty, theft, and cowardice matter, and wealth buys no verdict. The [[lore-khelathiclt|culture note]] follows these obligations through the deathbed, the burial, and the lives of those left behind.
 
@@ -74,6 +74,17 @@ The [[affiliation-khelathpnthn|Khelathi Pantheon]] is large enough to meet a tra
 Household offerings and crowded festivals make worship visible throughout the year. In the major temples, a high priest leads the ordained priests who perform the rites and keep the accounts, while acolytes learn in the temple school. Those schools train the scribes and scholars a party may need as often as it needs a priest.
 
 The gods are also where the doctrine bites. In Khelathi teaching, they witness promises and weigh a person's heart after death; no offering erases an open entry. A god is asked to be present when it closes.
+
+## What the Valley Reads and Sings
+
+The Khelathi learn their great works by copying them and hearing them read, and their lines turn up at counters, feasts and funerals. These are the ones a visitor meets soonest:
+
+- [[lore-readingweigh|The Reading at the Weighing]] is the litany read over a dead person's account, and its Asking, put to each creditor at an open entry, is heard at every Reading in the valley.
+- [[lore-rethetkhlyu|The Instruction of Khelayu]] is the Keeper's advice to his son that every scribal pupil copies, and it teaches the two hands and the two ledgers in maxims short enough to quote.
+- [[lore-zamletuqaa|The Hymn of the Sun-Lord]] is sung at the Great Temple before the Festival of the Coming-Forth, and it carries the law that nothing may stand in the sun's line and the denials said at noon.
+- [[lore-suitscribe|The Suit of the Scribe and the Builder]] is the comedy played at the Harvest feasts of Thuba'i, two gods suing over the first house, and its drinking song is the one every hall joins.
+- [[lore-stelaquzuqa|The Stela of Kuz'Uqa at Zel-Halzi]] stands on a cursed field below Lenen-Nezut over an army whose dead were never named, and a priest reads it there each year.
+- [[lore-qethgezerker|The Tale of Gezerker]] is the burial clubs' tale of a scribe who wrote the flood false for a king who called himself a god and came home forty years later to be asked at his Reading.
 
 ## Lekhau
 

@@ -20,13 +20,13 @@ Provenzia Adventurer's Guide opens at the harbor:
 
 ## What You Meet First
 
-Manners here are ornate, indirect and fast. A compliment is a coin of exchange, a direct refusal is a discourtesy, and an exact and cutting thing can be said inside the ornament where another Provenzian hears it perfectly. The code of courtly love governs far more than romance: it is how patronage is negotiated without either side saying the ugly part aloud. Dress, table and house are the public record of a family's standing, and a family that lets them slip is known to be in trouble before anyone has seen its books.
+Manners here are ornate, indirect and fast. A compliment is a coin of exchange, a direct refusal is a discourtesy, and an exact and cutting thing can be said inside the ornament where another Provenzian hears it perfectly. A great house says no by not answering, and the women of the salt pans put that to the sea in [[lore-saltpansongs|The Songs of the Salt Pans]]: [You do not answer, sea, which is how a great one refuses.]{.verse} The code of courtly love governs far more than romance: it is how patronage is negotiated without either side saying the ugly part aloud. Dress, table and house are the public record of a family's standing, and a family that lets them slip is known to be in trouble before anyone has seen its books.
 
 Learning is prized, and rhetoric above all. The academies of the great cities teach natural philosophy, law and the magical arts, and the [[affiliation-ordoarcanis|Thordimalon]] works openly here under royal oversight. Temples of the [[affiliation-marendas|Faith of Marendas]] and the [[affiliation-olvenia|Faith of Ólvenia]] double as galleries and concert halls. The currency is [[lore-vylrncrncy|Vylarian Currency]]: the Solden, the Ardin and the Bit.
 
 ## Where to Go
 
-[[place-jalnazdal|Jalnasdal]], the capital, is a port as well as a court, and the crown and the Council of Peers conduct their long contest in its anterooms. [[place-valarencity|Válaren]] lives wholly on its harbor; nobody has ever taken it by assault, and a blockade is the one thing it fears. On the cold western coast of [[place-zuravlenrgn|Zuravlen]], peach orchards and fast boats race fruit to the southern tables. In the north, [[place-sathvothe|Satvote]] holds the Élavendren borderland, the [[lore-aelendnppl|Áelendan]] mountains that no crown truly holds, and the port of [[place-batarencity|Bataren]], where an old quarrel over land and rights is still unsettled.
+[[place-jalnazdal|Jalnasdal]], the capital, is a port as well as a court, and the crown and the Council of Peers conduct their long contest in its anterooms. [[place-valarencity|Válaren]] lives wholly on its harbor; nobody has ever taken it by assault, and a blockade is the one thing it fears. On the cold western coast of [[place-zuravlenrgn|Zuravlen]], peach orchards and fast boats race fruit to the southern tables. When a boat leaves [[place-volsather|Volsater]] on the evening wind, the town stands along the cut with lamps and does not wave, and the line for it is in [[lore-lastshrine|The Song of the Last Shrine]]: [A wave lets go. A lamp is what you have.]{.verse} In the north, [[place-sathvothe|Satvote]] holds the Élavendren borderland, the [[lore-aelendnppl|Áelendan]] mountains that no crown truly holds, and the port of [[place-batarencity|Bataren]], where an old quarrel over land and rights is still unsettled.
 
 The east is the [[place-talothe|Talote]], the mountain march against [[affiliation-kingdmtrvn|Tarvénia]]. Raiding begins when the snow clears from the passes and ends when it returns, the levy musters at [[place-durvalis|Durvalis]] every spring, and the courts sit in winter because nothing else can be done then.
 
@@ -37,6 +37,18 @@ Provenzia names the ground rather than the battle. Scattered across the kingdom 
 ## Ways In
 
 A patron sends you north with a letter for an Élavendren house in Bataren, and two other patrons pay to know what it says. A merchant house in Válaren hires you to break a blockade's grip on its credit before its partners desert it. A baron in Zuravlen wants a quickened field farmed through one more harvest without anyone asking why the fruit is so large. A frontier family in the Talote needs hands for the raiding season, and the far side of the pass belongs to another family that has fought this one for longer than anyone remembers.
+
+## Songs at the Table
+
+Provenzia's songs are sung at patrons' tables, in the temple squares and on the quays, and their lines run through ordinary talk. Knowing them tells you what the cities admire and what they will not say:
+
+- [[lore-orderqstn|The Divided Question of the Order]], a debate sung at a patron's table in Kalveza, sets the beloved against the order of duty and recites that order as every child learns it.
+- [[lore-karalzelmnt|The Lament for Karalze]] is what the Talote sings when a patron dies, and it shows what a train is and what it becomes without its patron.
+- [[lore-morningname|The Dawn Song of the Morning Name]] is the capital's dawn song, sung late at table, and it turns on a love name that is never said in public.
+- [[lore-namelessjar|The Song of the Nameless Jar]] is sung in the temple squares at the Golden Harvest, never at a table, and its refrain is the question a guest does not ask.
+- [[lore-lastshrine|The Song of the Last Shrine]], sung at the autumn Arrivals, follows a Volsater master past the Wayfarer's last shrine and back, and out again.
+- [[lore-saltpansongs|The Songs of the Salt Pans]] are the women's raking songs on Volsater's terraces while the boats are out.
+- [[lore-boughtlonging|How the South Bought Longing]] is told by the eldest of every house at the Festival of the Hearth, and it explains the one word of longing the south had to buy from the north.
 
 ## Where to Read Next
 

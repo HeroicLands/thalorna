@@ -34,7 +34,7 @@ The old offices are still filled: a _tavos_ (consul) presides over the year, a _
 
 The deepest line in Vylarian society is not between rich and poor but between citizen and resident. Most people under the empire are residents, born to it and taxed by it with no share in it. A citizen holds the dole, a guaranteed ration of grain, and may live inside the capital's _thrima_ by right, appeal his case up to the imperial tribunals, and expect a trial and a clean death, never the lash.
 
-Citizenship is earned, not inherited, and for the common-born the road is the legions, or a rare Senate grant. A boy takes the legion's oath no earlier than his fifteenth birthday and serves twenty years, and if he lives he walks out a citizen at thirty-five. His wife holds it for life, his children are honorary citizens only while they are his dependents, and his sons are not citizens unless they walk the same road or the Senate grants it; only the nobility pass it heir to heir, and grants are rare. So the citizen body of Orzara is an old soldiers' city, and the [[affiliation-vylrnmltry|City Watch]] that polices it is drawn from veteran-citizens.
+Citizenship is earned, not inherited, and for the common-born the road is the legions, or a rare Senate grant. A boy takes the legion's oath no earlier than his fifteenth birthday and serves twenty years, and if he lives he walks out a citizen at thirty-five. The centuries of the northern march sing the promise on the road, in [[lore-goldbandsng|the Song of the Gold Band]]: [Twenty years under the eagle, and then the door,/.one door, and the army holds it open.]{.verse} His wife holds it for life, his children are honorary citizens only while they are his dependents, and his sons are not citizens unless they walk the same road or the Senate grants it; only the nobility pass it heir to heir, and grants are rare. So the citizen body of Orzara is an old soldiers' city, and the [[affiliation-vylrnmltry|City Watch]] that polices it is drawn from veteran-citizens.
 
 > On the Heights the last light goes red behind the hills. The steward of the house counts the candle crates twice, then writes your names onto a waiver in a small, square hand, presses his master's seal into the wax beside them, and dates it. He does not hand it to you. He folds it into his own sleeve, and tells you to be at the kitchen door at first light.
 
@@ -104,7 +104,19 @@ The [[lore-vylrncrncy|Vylarian currency]] is the standard coinage of western Ank
 
 The law is the empire's one unambiguous gift to the world: codified, written, and appealable. A Vylarian's first instinct in a dispute is to reach for a legal remedy where any other people on the continent would reach for a knife or a kinsman. He is often disappointed, and he tries anyway.
 
-Several things get a newcomer into trouble. Remarking on the decay is a real discourtesy, true or not; Vylarians are far more caustic about it among themselves than a foreigner would dare to be. Crossing the Clearance anywhere but at a gate-road gets you taken for a thief. A foreigner who will not be placed makes his hosts uneasy. Patronage runs private life as thoroughly as law runs public life: a client attends his patron in the morning and carries his interests, and the obligation binds in practice if not in court.
+Several things get a newcomer into trouble. Remarking on the decay is a real discourtesy, true or not; Vylarians are far more caustic about it among themselves than a foreigner would dare to be. Crossing the Clearance anywhere but at a gate-road gets you taken for a thief. A foreigner who will not be placed makes his hosts uneasy, and is still owed his welcome, by the rule every student of law learns from [[lore-firewords|the Words Kept from the Fire]]: "A stranger who will not be placed is placed at the bottom, and owed everything." Patronage runs private life as thoroughly as law runs public life: a client attends his patron in the morning and carries his interests, and the obligation binds in practice if not in court.
+
+## What the City Recites
+
+A newcomer hears lines from these at the patron's door, in court and on the march:
+
+- [[lore-walkedline|The Walking of the Line]] is the book of the court epic the grammar schools teach first, the Senator's walking of the sacred boundary around the six hills, and it gives its own reason for the Founder's statue carrying no name.
+- [[lore-firewords|The Words Kept from the Fire]] gathers the rules of a jurist of the Republic, and every student of law can say the last of them: "What is not written was not done."
+- [[lore-morningcall|The Morning Call]] is a client-poet's satire on the patron's door, read after dinner on the Heights by the very houses it mocks.
+- [[lore-goldbandsng|The Song of the Gold Band]] is a legion's road-song of the eagle taken out of the reeds, learned by its recruits before the oath.
+- [[lore-eveningsongs|The Evening Songs]] are a frontier watch officer's elegies to a veteran's daughter, and soldiers' wives sing them in the Warrens.
+- [[lore-maskspraise|The Praise of the Masks]] is the funeral oration Hilen's rhetoric masters teach as the model of praising a house's masks.
+- [[lore-secondread|The Second Reading]] is the tale every legion chaplain hears on the night of his licensing, about the one small word that marks a reading he does not vouch for.
 
 ## People to Meet
 

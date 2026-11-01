@@ -54,7 +54,7 @@ data:
 
 The Vedyari are one people across a map that has never been one state. A scholar from a southern harbor who lands at a northern pass-kingdom finds the temple, the assembly, the stations and the classical curriculum all intelligible on the first day, and the coinage and the king strange. What holds across [[place-vedyarargn|Vedyara]] is the station a person is born to, the household that station sits in, and the rites that mark both. What varies is who collects the tax.
 
-A **Ritrija** who keeps the school at a janpoda temple, asked by a foreign student where to begin, begins at the wrist. "Before you learn our gods or our grammar, learn where to look when someone gives you their hand. Everyone you meet here has already read yours, and found nothing there, and decided what that means."
+The temple schools of the janpodas teach a foreign student the wrist before the gods or the grammar: where to look when someone offers a hand. Every Vedyari a stranger meets has already read the stranger's wrist, found nothing on it, and decided what that means.
 
 ## The Wrist-Line
 
@@ -96,7 +96,7 @@ A station is not chosen and is rarely changed, and the ways out of one are few e
 
 ## What a Station Asks
 
-The Vedyari answer to what is good is _dorma_, duty, and the answer is specific to the person asked. **Good is the work of one's station done whole and in the open; evil is the petition left unheard and the dead left unburned.** Both are the sins of a king, and the chronicle of [[place-rajepur|Rajepur]] names both against the second of its last six: he stopped hearing petitions, and then forbade the pyre for the men who came to be heard. A well-keeper adds a third from the plateau: the crown that takes its share of a well and does not guarantee the lineage against a raid has broken the whole bargain, whatever it kept.
+The Vedyari answer to what is good is _dorma_, duty, and the answer is specific to the person asked. **Good is the work of one's station done whole and in the open; evil is the petition left unheard and the dead left unburned.** Both are the sins of kings, and the [[lore-rcitkngsmhnd|Recitation of the Kings of Mahanodi]] lays them on two of [[place-rajepur|Rajepur]]'s last six: the first left petitions waiting at the gate, and the second, who judged in anger, forbade the pyre for the men who rose against him. A well-keeper adds a third from the plateau: the crown that takes its share of a well and does not guarantee the lineage against a raid has broken the whole bargain, whatever it kept.
 
 Success is a station filled out, not a station escaped. A Karmija who is the man the village sends when the river is up has succeeded, and so has a Danhija whose ledger a sabhra will accept without an audit. The marks run in a recognizable order: a household that holds its use-right unbroken, a seat in the sabhra when the village's turn comes, a name the temple writes in its roll, sons and daughters married within the kulpa with the elders of both houses content, and a pyre lit within the day by people who know whose it is. Failure is the wrap that has to be worn, the debt that ends in a bond-token, the judgment that puts a person out of the order, or a death that leaves nobody who will tend the lamp. Poverty is not on the list. A poor household that keeps its station and its dead is a household in good standing.
 
@@ -126,7 +126,7 @@ None of this is held to be cruelty by the people who keep it. It is held to be t
 
 [Taranpal]{.name data-type="being/npc"}, the keeper of the crossing, is the figure the upper-river villages tell about at the hearth once a year ([[lore-ferrymanford|The Ferryman at the Ford]]), and the oath at the center of the telling is one every child of the upper river can say before it can read. He was a Karmija, born to labor, who kept a flat boat at a ford and took what he was given. In the year the river came up three weeks early he carried the far-bank village across to safety in nine crossings: children first, then the old, then the women with child, then the men who could not swim, then the men who could and would not, then the grain, then the temple's records in a jar held above the priest's head, and then, after the rope tore loose from a terrace wall that nobody laid in living memory, he went across once more without it for the last four on the hill. He asked for nothing and slept a day and a night.
 
-The villages asked him three times to be the man they fed so that one person on the river held what lay between the villages: the ford, the pilgrim road, the channel two villages quarreled over, the gate the raiders came to. He refused twice, because a man paid whether or not anyone crosses stops caring whether anyone crosses. He took it the third time on an oath that bound the villages as well: they feed him, and the day he holds the ford for himself, the ford is theirs again, and they say so before the god. He built no larger house than the rest, took no second measure and died in a bed a Karmija would recognize, burned within the day on the bank where he had tied the rope.
+The villages asked him three times to be the man they fed so that one person on the river held what lay between the villages: the ford, the pilgrim road, the channel two villages quarreled over, the gate the raiders came to. He refused twice, because a man paid whether or not anyone crosses stops caring whether anyone crosses. He took it the third time on an oath that bound the villages as well: they feed him, and the day he holds the ford for himself, the ford is theirs again, and they say so before the god. In [[lore-ferrymanford|the telling]], when his sons' sons moved the hallowing to Rajepur, the villages laid his stone face-down under the turf and said the oath over it, the second half louder than the first: [The day he holds the ford for himself,/.the ford is ours again.]{.verse} He built no larger house than the rest, took no second measure and died in a bed a Karmija would recognize, burned within the day on the bank where he had tied the rope.
 
 The Vedyari admire in him a man who had no rank, claimed none, and was the most useful person on the river for thirty years. His cost is the one the telling refuses to soften. The measure that fed the rope fed a house, and the house fed a line, and the line became the kings the sabhra dissolved. The villages revere the first ferryman and are watchful of everything his office grew into.
 
@@ -164,19 +164,30 @@ An educated Vedyari reads the classical form of [[skill-vedyarlng|Vedyari Langua
 
 The temple is the school, and it is also the record office, the granary and the bank. Boundary stones, genealogies and land grants are its documents, and its authority over a dispute is documentary before it is priestly.
 
+## The Works a Child Hears
+
+A handful of works are heard so often, at school, at the hearth and in the temple court, that their lines turn up in ordinary talk:
+
+- [[lore-measuringcord|The Measuring Cord]] is the temple school's recitation of how the shaper measured the world, the first thing a child is taught on the first morning of the year; it teaches that the sister weighs measure and not judgment, and why a death leaves a gap one breath long.
+- [[lore-ferrymanford|The Ferryman at the Ford]] is the upper-river villages' hearth legend of the first keeper of the ford, told once a year, and its oath on the terrace is the one every child of the upper river can say before it can read.
+- The [[lore-rcitkngsmhnd|Recitation of the Kings of Mahanodi]] opens every session of the sabhra at Rajepur, and its six worsening kings are the standard Vedyari account of how a kingdom fails.
+- [[lore-borrowedlamp|The Borrowed Lamp]] is the Agmi-pantra's founding song, sung over the one fire at the Night of the Kindled Road, where the whole rendezvous shouts the answer to its refrain.
+- [[lore-fivegrounds|The Five Grounds]] is the march companies' winter lament for the kingdom that died on the march road, and every man in the court joins its close, which names the keeper of the road in each poem.
+- [[lore-therecall|The Recall]] is read at Danurkot's Festival of the Returning, and it tells every graduate standing in the court which duty comes first when the janpoda calls its bows home.
+
 ## Making, and Devotion
 
 Devotion in Vedyara most often takes the form of making something. Dance, music, sculpture, poetry and the mural-work of the temple complexes are codified to a degree an outsider mistakes for stiffness, and a musician or a sculptor at the top of the classical tradition is held to be a spiritual practitioner of a demanding kind, not an artisan who happens to be devout. Weaving, metalwork and gem-cutting are hereditary and are held the same way at a lower pitch.
 
 ## The Threshold
 
-A Vedyari household expects to be told when a death is coming, and to have time. The threshold lamp is lit at the onset of a final illness and tended until the passage is finished; nobody in the house quarrels or speaks loudly while it burns. Kalavrata's conch is sounded at the last breath, the Coin of Passage is put in the hand, and no part of what follows may be hurried.
+A Vedyari household expects to be told when a death is coming, and to have time. The threshold lamp is lit at the onset of a final illness and tended until the passage is finished; nobody in the house quarrels or speaks loudly while it burns, and [[lore-measuringcord|the Measuring Cord]] gives every child the reason: [and the lamp burns, and nobody in the house quarrels,/.because the house is standing in the gap.]{.verse} Kalavrata's conch is sounded at the last breath, the Coin of Passage is put in the hand, and no part of what follows may be hurried.
 
 The pyre follows within the day. Between the conch and the pyre there is a gap, and in the polities that license it a member of [[affiliation-thresholdkeepers|the Threshold-keepers]] may be called into that gap to put one question. Most households never see it done. Every household knows the gap is there, and a family that declines the question when a court asks for it is understood to be declining for a reason.
 
 ## What the Next Life Asks of Today
 
-Vedyari teaching holds that a birth follows from a life already lived, and that the duties of a station are the road out of it, not in this life but in the next. That teaching reaches an ordinary day at several points. A Vedyari does the station's work properly, because doing it badly is worse than doing it unwillingly and the next life is made of it. The household's lamp, the conch above the doorpost and the Coin of Passage are kept ready, so a death is met without scrambling. A Karmija pays the temple's share in labor and a Danhija in coin.
+Vedyari teaching holds that a birth follows from a life already lived, and that the duties of a station are the road out of it, not in this life but in the next. That teaching reaches an ordinary day at several points. A Vedyari does the station's work properly, because doing it badly is worse than doing it unwillingly and the next life is made of it. The temple school puts the rule in the master's mouth in [[lore-measuringcord|the Measuring Cord]]: the knot a soul is tied to next is the one its duty tied, [That is why we do it unwillingly and do it well.]{.verse} The household's lamp, the conch above the doorpost and the Coin of Passage are kept ready, so a death is met without scrambling. A Karmija pays the temple's share in labor and a Danhija in coin.
 
 The same teaching shapes law and burial. Where a household's succession turns on what a dead person meant, a sealed will stands over any answer the Threshold-keepers bring back, and the answer weighs only against the documents. Burial is the pyre, within the day, and a household that cannot afford a struck coin files a tomra blank. The dread that corresponds to all of it is the field where the pyre was never lit.
 
@@ -190,7 +201,7 @@ The dead reach the living in two ways. The ancestors, _sorhu_, have a lamp in th
 
 Travel is a religious act before it is a commercial one. The traveler's cord is knotted before the household hearth the evening before a long journey, a knot for each shrine the traveler undertakes to honor, and untied at the same hearth on the return with each shrine named aloud. A coin or a pinch of millet goes to the [[lore-pvnjtrsdty|Pavanajitras]] at every crossroads and every waterway.
 
-A guest is fed before he is questioned. A household that turns a traveler away at nightfall is talked about, and a household that turns away an ascetic is talked about for a generation.
+A guest is fed before he is questioned. The rule's model is Padmika in [[lore-borrowedlamp|the Borrowed Lamp]], at whose door a stranger with ash on his arms stood at dusk: [She set millet before him before she asked.]{.verse} A household that turns a traveler away at nightfall is talked about, and a household that turns away an ascetic is talked about for a generation.
 
 ## What Station Earns and What Breaking It Costs
 
@@ -208,7 +219,7 @@ Where the answers conflict, the record decides. A claim is heard where the templ
 
 ## What a Person Owes
 
-Asked what a person owes, a Vedyari answers in the order the debts fall due: the household first, then the kulpa, then the village and its sabhra, then the temple, and the king last and only for what he has actually guaranteed. A station's duties are owed whether or not the station is comfortable, and doing them badly is worse than doing them unwillingly.
+Asked what a person owes, a Vedyari answers in the order the debts fall due: the household first, then the kulpa, then the village and its sabhra, then the temple, and the king last and only for what he has actually guaranteed. In [[lore-therecall|the Recall]] a bowman two years in a valley king's pay answers his brother's eleven years of that king's salt with the rule in one line: [A king is owed what he guaranteed and nothing past it.]{.verse} A station's duties are owed whether or not the station is comfortable, and doing them badly is worse than doing them unwillingly.
 
 In return the household owes its members the hearth, the lamp and a place in the kulpa's account. The kulpa owes its members its elders' judgment and a marriage within the lineage. The village owes a Karmija use-rights, a turn in the sabhra and the well; the temple owes the household its record, its granary in a lean year, the school and the court; the janpoda owes its villages the water they are entitled to; the king owes only what he has guaranteed, and the plateau's wells show what the lineages do when he does not. The Melka owes the janpodas a place to be heard.
 

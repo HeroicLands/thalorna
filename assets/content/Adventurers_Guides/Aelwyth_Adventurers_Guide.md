@@ -20,7 +20,7 @@ Aelwyth is a large island of about seven hundred thousand people off the western
 
 The realms are [[affiliation-kngdmldrth|Aldorath]], the feudal breadbasket of the interior, where four in five people are serfs on manorial estates; Dúnavarre, the smallest and the most powerful, where the Synod rules through stewards and the [[affiliation-justbladeordr|Order of the Just Blade]]; the [[affiliation-repblcndrth|Republic of Ondareth]] on the west coast, a senate of mantled senators built in imitation of a Vylarian republic few there have seen, whose offices are for sale; and [[affiliation-jrldmstrmvld|Stormveld]] in the north-east, where Nordmen took the plain sixty years ago and work it with thralls. Every court keeps Arcane Order advisors, and every ruler knows the Synod can withdraw them.
 
-An Aelwythan attends the [[affiliation-arldnpnthn|Aureldian]] temple and also leaves something at the stone, the crossroads and the lake, and of all his duties those observances are the last he neglects. A farmer may say something naive about the [[affiliation-vylarinmpr|Empire]] and then name exactly which crossroads not to stand at after dark. The coin is [[lore-vylrncrncy|Vylarian]]: the Solden, the Ardin and the Bit.
+An Aelwythan attends the [[affiliation-arldnpnthn|Aureldian]] temple and also leaves something at the stone, the crossroads and the lake, and of all his duties those observances are the last he neglects. A farmer may say something naive about the [[affiliation-vylarinmpr|Empire]] and then name exactly which crossroads not to stand at after dark, in the words of [[lore-reevesthrees|the Reeve's Threes]]: "Three things not to be done after dark: to stand where the roads divide, to call the lake by name, and to count the standing stones." The coin is [[lore-vylrncrncy|Vylarian]]: the Solden, the Ardin and the Bit.
 
 ## Where to Go, and What to Fear
 
@@ -31,6 +31,17 @@ The island's reputation abroad is wrong about its people and right about its lan
 ## Ways In
 
 An Ondarethan merchant hires you to get a relic past the officers at Ravenmoor, and the Synod already knows it is aboard. A lord in Aldorath has lost his Arcane Order advisor, his harvest has failed, and he wants to know what he did. A Vardain family asks strangers to carry word to kin who are thralls on [[place-stormplain|the Stormplain]]. An Ondarethan fisherman who could never afford to buy a court turns to the local temple of the [[affiliation-selmoros|Faith of Sélmoros]], whose priests serve the god who cannot be bought, and needs hands for what follows.
+
+## Songs and Sayings
+
+The common people of Aelwyth keep their customs in a few works, each tied to a road, a night or an office:
+
+- [[lore-reevesthrees|The Reeve's Threes]] hold the custom of the Aldorathi manors in sayings a reeve learns by heart and says first at the manor court.
+- [[lore-roadstops|The Ballad of the Road That Stops]] is the drovers' walking song of the Crown Road that ends at a bank of oaks, and the reason the highlands tell their children not to take it.
+- [[lore-hildricplay|The Play of Hildrik and the Grukar]] is played in the Ashford inn-yards at the autumn fair, a war against the Grukar that the march never expects to end.
+- [[lore-coldfordhead|The Head at Koldford]] is told at Wyndmarch wakes, and explains the loaf left by the dead and carried to the crossroads stone.
+- [[lore-windownaming|The Naming at the Window]] is the widow's lament said over the black candle at the Silent Passage, for dead the wood took without graves.
+- [[lore-kingswassail|The Wassail at Kingshollow]] is sung at the royal hall's door at midwinter, and asks the king for the one tree the village may cut.
 
 ## Where to Read Next
 

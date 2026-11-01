@@ -38,7 +38,7 @@ Caravans leave the March at the spring equinox or at the end of summer, two flee
 
 No cart crosses. Oxen drink every day and the wells are days apart, sand swallows a wheel, salt crust breaks an axle, and there is no timber for a repair. So the cargo is light and dear: silk, porcelain, tea, jade, spices and medicines west, silver, gold, amber, coral, glass and horses east. Silk bought for a hundred weights of silver at the Tantsou customs-house sells for four to six hundred at [[place-karvashion2|Karvashion]], and the difference pays the tribes, the riders and the losses, about one string in eight. The sea is worse, with pirates off Tantsou, the hard passage round [[place-vedyarargn|Vedyara]] and the Gar-Au's cut beyond it.
 
-Each tribe sells three things: water at its named wells and nowhere else; a sovid (rider), who travels with the caravan and answers for it with his life; and the tribe's word, a promise of restitution if its own people rob you and of a feud on your behalf if outsiders do. Passage buys vengeance, not safety, so every caravan travels heavily armed. A master's real asset is his list of agreements: which dovaq he has paid, which rider is whose cousin, which ranges are at feud this year.
+Each tribe sells three things: water at its named wells and nowhere else; a sovid (rider), who travels with the caravan and answers for it with his life; and the tribe's word, a promise of restitution if its own people rob you and of a feud on your behalf if outsiders do. A caravan-master puts it to his factor at the first toll-camp in [[lore-roadnights|the Nights of the Road]]: "It did not buy safety. Passage buys vengeance." So every caravan travels heavily armed. A master's real asset is his list of agreements: which dovaq he has paid, which rider is whose cousin, which ranges are at feud this year.
 
 Halfway across, Qiiso, "the price," is a ring of black stones round a deep well until the fleets arrive, and then for ten days a city of felt tents holding fifteen thousand people. The tribes whose ranges meet there swear a peace on the well-stone, carry every quarrel to their juchon (moot) to be priced, and take the hands of a camel thief.
 
@@ -46,7 +46,7 @@ Halfway across, Qiiso, "the price," is a ring of black stones round a deep well 
 
 > You come over a rise at dusk to a dozen palms, a pool the width of a cart and nobody. Your guide gets down and walks to a pole with a horse skull on top, then to the oldest palm, where a sign is cut higher than a camel can rub, then to a flat stone over a shaft with no rope. He ties a strip of cloth to the pole, sits at the edge of the sand with his hands on his knees and tells you not to unload. At first light a dozen riders come in from every side at once.
 
-A bodek (owned water) is a spring or seep too small to settle, and every one belongs to a tribe as surely as a tent belongs to a family. It stands empty because the tribe grazes elsewhere and comes in its season, and the owners watch it from a ridge more often than a stranger knows. The well-stone, the skull-pole and the sign in the oldest palm all say the same thing: this water has a name.
+A bodek (owned water) is a spring or seep too small to settle, and every one belongs to a tribe as surely as a tent belongs to a family. It stands empty because the tribe grazes elsewhere and comes in its season, and the owners watch it from a ridge more often than a stranger knows. The well-stone, the skull-pole and the sign in the oldest palm all say the same thing, and the Oroqidur sing it of the Skull-pole star in [[lore-waterunder|the Buried Water]]: [It says what every skull-pole says: this water has a name.]{.verse}
 
 The custom that saves you is plain. Tie a cloth to the skull-pole and wait without drawing, unloading or lighting a fire; that asks for guest-right. A semok (guest) who has eaten a tribe's salt is protected even against the host's own kin until he leaves its range. The careless camper meets the owners at dawn. A party that only slept pays for the night in a blade, a beast or a day's labor. One that drew water owes for every skin and leaves someone behind as surety, and grazed beasts are forfeit. A party that fouled the well, cut a palm or drew steel pays in blood, and its survivors become thralls. [[lore-ownedoasis|The Owned Oasis]] sets out the whole custom.
 
@@ -87,7 +87,7 @@ A kedok (blood-field) is ground where a great many died at once and nobody perfo
 
 - [[place-jilaq|Jilaq]], chief of the Tower Cities, was killed by the first orkun about 190 BF. Its towers light themselves on still nights, and the road bends three days south round it.
 - [[place-qimod|Qiimod]], a caravan town on the spur, died in its market week about 548 AF. No sound carries in its lanes, no fire stays lit, and whoever sleeps inside is taken by the throat.
-- [[place-wemaq|Vomek]], the best water on the road, is moderate: palms fruit twice a year, and everyone who sleeps there dreams the second orkun's massacre and keeps hearing it.
+- [[place-wemaq|Vomek]], the best water on the road, is moderate: palms fruit twice a year, and everyone who sleeps there dreams the second orkun's massacre and keeps hearing it. [[lore-wemaqcalling|The Calling at Vomek]] ends on the warning: [The pool is a day's ride. The dates are on the palm. Do not eat them./Do not sleep in sight of the trees. Fill your skins by day and go.]{.verse}
 - [[place-henhulpedin|Henhutpedin]], outside [[place-zargandur|Zargandur]], is where the Tellumi war-house died in the [Breaking]{.name data-type="lore/history"}. Hooves gallop over it every night.
 
 The [[lore-bloodfield|Blood-fields]] note explains how such ground is made and what quiets it.
@@ -138,6 +138,14 @@ Campaigns start well from the price of things. A caravan-master dies on the marc
 :::secret
 **For the GM:** A rising orkun is the campaign the Khazryn holds in reserve. Each dovaq he reaches must swear under open sky or watch the tribe's wells fouled, and one who refuses is replaced by a cousin who will swear. A master's list of agreements names every tribe on the road and which of them are at feud, and a party that sells one to the wrong rider has handed him the order in which the road can be taken.
 :::
+
+## The Steppe in Its Own Tellings
+
+Three works carry the steppe's own account of itself and its road:
+
+- [[lore-wemaqcalling|The Calling at Vomek]] is the Kesukur elders' calling of the tribe killed at Vomek, spoken in their own camp and never at the water, and its children answer the dovaq's refusal of the banner word for word.
+- [[lore-waterunder|The Buried Water]] is the Oroqidur star-song of the lake that went down under the sand, sung on the first night of the grass, and its refrain is the steppe's account of the ground it rides on.
+- [[lore-roadnights|The Nights of the Road]] is a caravan-master's tales to a factor on his first crossing, one at each halt, and each tale is a line of the master's list: what the road cost a man, and what he carried out.
 
 ## Where to Read Next
 

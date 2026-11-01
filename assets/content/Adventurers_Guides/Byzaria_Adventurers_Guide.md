@@ -92,7 +92,7 @@ A quarrel between two houses opens at an arbitrator's table, and the arbitrator'
 
 Bizaria therefore has very little feud. A Bizarian who took private revenge would find his charter suspended and his contracts void, which ruins a man more thoroughly than any blood-feud could.
 
-A Bizarian owes the terms first, then the guild behind his seal, then his master or his apprentices, then the city whose weights he trades under. Pressed, he adds that a man owes the truth about a defect in his own goods.
+A Bizarian owes the terms first, then the guild behind his seal, then his master or his apprentices, then the city whose weights he trades under. Pressed, he adds that a man owes the truth about a defect in his own goods, and quotes [[lore-wardensayings|the Sayings of the First Warden]], which every apprentice copies: [Declare the defect before the sale./.A fault declared is no fault in the bargain. A fault hidden is the whole bargain.]{.verse}
 
 ## Faith
 
@@ -104,9 +104,20 @@ The [[affiliation-ashanpnthn|Ashaian Pantheon]] has a substantial following amon
 
 Each city strikes its own coin, and the League keeps its accounts in [[lore-vylrncrncy|Vylarian money]]: the silver Ardin, the cut-silver Bit, and the gold Solden most people never hold. Large sums travel as the paper-script of [[affiliation-danvar|the Danvar]], and the League uses that imperial banking system without answering to imperial governance or paying imperial tax.
 
+## Songs, Sayings and Lives
+
+A hired hand hears these quoted at the balance, the table and the fort fire long before anyone explains them:
+
+- [[lore-wardensayings|The Sayings of the First Warden]] is the instruction every counting-house apprentice copies out in his first month, and its clauses on weights, terms, the defect and the guest are the rules your counterpart quotes across the table.
+- [[lore-fivedefects|The Five Defects]] is the Merchant Hall's telling of the Compact of the Five, given to Krusteikhos's apprentices each year, and its Declaration teaches why a defect is declared before the seal goes down.
+- [[lore-firstterms|The Hymn of the First Terms]] is sung through the night before the Feast of Thresholds, when every bond in the five cities is renewed, and its refrain is a guarantor's words over another man's bond.
+- [[lore-silkkeeping|The Keeping of the Silk House]] is a widow's lament over her house's chamber at Nikhtion, and the women of the merchant houses sing it because it answers the dread of a keeping nobody pays.
+- [[lore-twosealed|The Song of the Two-Sealed]] is the song the way-forts of the Eastern March sing on a night the pass is shut, of the borderer sealed by fort and camp who wrestled the Collector.
+- [[lore-lifekitvarn|The Life of Kitvarion of the Gate]] is the Argirteikhos monks' Life of the gate-stander who wrote the true count of the grain through the Two Winters.
+
 ## What Gets a Newcomer into Trouble
 
-**Agreeing in general terms.** A handshake on "the usual rate" is an invitation to be swindled, and a Bizarian counterpart takes it as a sign that the newcomer means to swindle. Name the sum, the date and the weight.
+**Agreeing in general terms.** A handshake on "the usual rate" is an invitation to be swindled, and a Bizarian counterpart takes it as a sign that the newcomer means to swindle. Name the sum, the date and the weight. [[lore-wardensayings|The Warden's sayings]] put it in two lines: [Agree nothing in general. The general term is where the swindle begins./."The usual rate" is the beginning of a quarrel you have already lost.]{.verse}
 
 **Taking revenge.** Private revenge voids a charter. Take the grievance to an arbitrator, with the paper.
 

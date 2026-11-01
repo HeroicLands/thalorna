@@ -77,7 +77,7 @@ ORDER BY data.population DESC, name.full COLLATE NOCASE
 
 The hall is where life is decided. A lord's kin and sworn followers live under one roof; a _hirvman_ eats at the king's table and is bound to his person, and a _hringberi_ has been given a named seat. Women manage the holdings while the ships are away, own property in their own names and can divorce. A shield-maiden is uncommon but earns the respect any warrior does. When a guest is accepted at the fire, the household owes that guest protection, and betraying guest-peace is among the most shameful acts the north knows.
 
-No kingdom of the five strikes coin. When money changes hands it is [[lore-vylrncrncy|Vylarian coin]]. Vylarian paper is not honored anywhere in the five kingdoms, so a letter of credit has to become coin before it crosses the border. Anything larger than a purse moves through [[lore-bartercnmy|the Barter Economy]] in furs, sealskins, smoked meat, ale and iron tools, or through [[lore-kinhalcrdt|Kin and Hall Credit]]: a debt announced at a feast, witnessed by the hall and kept alive in the skald's recital until it is paid. Three generations of unpaid hall debt can bring down a house that lost no battle.
+No kingdom of the five strikes coin. When money changes hands it is [[lore-vylrncrncy|Vylarian coin]]. Vylarian paper is not honored anywhere in the five kingdoms, so a letter of credit has to become coin before it crosses the border. Anything larger than a purse moves through [[lore-bartercnmy|the Barter Economy]] in furs, sealskins, smoked meat, ale and iron tools, or through [[lore-kinhalcrdt|Kin and Hall Credit]]: a debt announced at a feast, witnessed by the hall and kept alive in the skald's recital until it is paid. Three generations of unpaid hall debt can bring down a house that lost no battle. The north's byword for it comes from the [[lore-vyldgyldra|Vuldgeldra]], a skald's praise of a jarl who shared out a stranded whale in a hungry winter and took the strand's loss on himself as a debt: [A debt said is a howe:/nobody digs in it.]{.verse}
 
 The year turns on four great blets. Somarmál puts the ships back on the water and opens the season of tings. [[lore-midsumar|Midsomar]] lights a bonfire on every headland for [[lore-bjarturdty|Bjart]]. At [[lore-veturnetur|Veturnetur]] the household slaughters what it cannot feed through winter and seats its honored old by the door. [[lore-jol|Jel]] keeps twelve nights of light against the dark.
 
@@ -153,6 +153,21 @@ Campaigns start well from the remembered word. A dead man's reckoning names a de
 **For the GM:** The record here lives in people. A skald can be bought, threatened, killed or simply not present, and the Circle breaks the ring of any skald who falsifies a recital. A party that learns to ask who heard an oath, and who is still alive to say so, has made every skald, witness and grieving widow in the north into a player.
 :::
 
+## Songs at the Hall
+
+> On the third night of Jel the skald at your host's hall sets down his cup, and before he has said a word the near bench starts drumming on the boards with the flats of their hands. The far bench takes it up, then the children by the fire, and the whole hall is beating wood when he opens his mouth to tell them to.
+
+Every hall in the north sings, and a handful of works are sung in all of them. Their lines turn up in ordinary talk, at a bargain, a grave-ale or a hard winter, and knowing them tells you what the north admires:
+
+- [[lore-aldarlok|Aldarlok]], the close of the age, is sung whole on the last night of Jel; it is where the north learns that the gods know they will lose and stand anyway.
+- [[lore-sagaskalforv|The Saga of Skalforv Thunderstrike]] and [[lore-sagaskrildmyl|the Saga of Skrilmil Stormborn]] are hero sagas of the Jel cycle, one of a man who fights the World-Wyrm for the shore folk and one of a chieftain who brings his people through a killing winter, and both open by calling the benches in.
+- [[lore-storalddraskborg|Storald of Draskborg]] is the saga of a moved stone on the Targud frontier, told at [[place-tvalgard|Tvalgard]] so that each new shift knows what fort-duty asks.
+- [[lore-vyldgyldra|Vuldgeldra]] is a praise-poem for a jarl's hungry winter, and the Skalds' Circle teaches it as the model of a recital that tells the truth even when a patron pays for it.
+- [[lore-folmhnura|Folmhnura]] is a shipwright's lament for her daughter dead of fever, made as a suit at the ting, and the yard-women of Malagna sing it at every grave-ale for a sickness death.
+- [[lore-hvelmsnerv|Hvelmsnerv]] is a velva's whale-prophecy, recited along the whale-coast while the slaughter-blet's bones are read, and it carries the north's memory of the winter that ended in the burning at Askholm.
+- [[lore-skipskreld|Skipskreld]] is the gods' flyting in a becalmed boat, the Midsomar party-piece of the Nordheim havens, where the whole crowd shouts the refrain at whichever god is losing.
+- [[lore-motmal|Motmál]] is the Maker's speech, half of which a craftsman speaks at Mótefnir's hov when he swears his first work.
+
 ## Where to Read Next
 
 - [[place-nrdlndsrgn|The Nordlands]] for the land, the five kingdoms and their neighbors
@@ -163,4 +178,3 @@ Campaigns start well from the remembered word. A dead man's reckoning names a de
 - [[affiliation-skaldscrcl|The Skalds' Circle]] and [[affiliation-malldbndlg|the Málalidabandalag]] for the north's memory and its swords for hire
 - [[affiliation-jrldmstrmvld|The Jarldom of Stormveld]] for the conquered plain on Aelwyth
 - [[skill-nordmalng|Nordmal]] for the tongue and how a name is built in it
-- The songs: [[lore-storalddraskborg|Storald of Draskborg]], the saga of a moved stone on the Targud frontier; [[lore-vyldgyldra|Vuldgeldra]], a praise-poem for a hungry winter; [[lore-folmhnura|Folmhnura]], a shipwright's lament; [[lore-hvelmsnerv|Hvelmsnerv]], a seeress's whale-prophecy; [[lore-skipskreld|Skipskreld]], the gods' flyting in a becalmed boat; [[lore-motmal|Motmál]], the Maker's speech; and the hero sagas of [[lore-sagaskalforv|Skalforv Thunderstrike]] and [[lore-sagaskrildmyl|Skrilmil Stormborn]]

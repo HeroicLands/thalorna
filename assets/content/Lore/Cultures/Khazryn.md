@@ -36,12 +36,17 @@ data:
       when: ~-2300
       kind: migration
       depth: region
-      sources: [affiliation-khzrncnfdrtn, place-graznmntns, place-wstrndscnt, place-swoasisbelt]
+      sources:
+        - affiliation-khzrncnfdrtn
+        - place-graznmntns
+        - place-vurdil
+        - place-wstrndscnt
+        - place-swoasisbelt
       summary: >-
-        The first Tellumi come down from the Grazian Mountains by the Western Descent, one lineage after another, and settle the great springs at the foot of the foothills. Each house roots its genealogy in a named peak above the Descent, and most of those peaks no living member of the house has seen.
+        The first Tellumi come down from the Grazian Mountains, one lineage after another, and settle the great springs at the foot of the foothills. The old houses hold that they came through Vurdish and the houses of the west that they came by the Western Descent, and the Council keeps both accounts. Each house roots its genealogy in a named peak along the range, and most of those peaks no living member of the house has seen.
       standing: single-source
       where:
-        locus: [place-wstrndscnt]
+        locus: [place-vurdil, place-wstrndscnt]
         reach:
           - place: place-swoasisbelt
             how: >-
@@ -118,7 +123,7 @@ The Tellumi will tell you early that they came down from the mountains, because 
 
 ## Memory Is an Office
 
-What followed the Tellumi call [Turem]{.name data-type="lore/history"}, the Breaking, and they recite it at every festival, every formal court ceremonial, and every funeral of a senior member of a princely house. The recitation is not nostalgia and not grievance in the ordinary sense: it is a case being kept open, and the Tellumi insist on the distinction. A feud seeks revenge; the Tellumi seek return.
+What followed the Tellumi call [Turem]{.name data-type="lore/history"}, the Breaking, and they recite it at every festival, every formal court ceremonial, and every funeral of a senior member of a princely house. The recitation is not nostalgia and not grievance in the ordinary sense: it is a case being kept open, and the Tellumi insist on the distinction. A feud seeks revenge; the Tellumi seek return. [[lore-turemrecital|The Recitation of the Breaking]] closes on the word: [Return. Not restoration/by another's grace. Revun.]{.verse}
 
 The exile princes of [[place-oasishirvn|Shirvan]], [[place-ashkarad|Ashkarad]], [[place-zargandur|Zargandur]] and [[place-kethramir|Kethramír]] would, given the chance, walk back into their cities, take the palaces of their forebears, rebuild the temples that were pulled down, and resume governing. They would tolerate the Atarzád settlers, they say, as a subject population with somewhat more dignity than the Tellumi have been shown. Whether that restraint would survive an actual reconquest is a question the exiles do not enjoy being asked.
 
@@ -164,7 +169,7 @@ The five-day intercalary festival closes the old year before the spring equinox 
 
 The shrine marks the source; daily life depends on the channels and the rights recorded for them. In [[place-oasishirvn|Shirvan]], a household's deed gives it particular hours in a named channel, and the right passes with the deed. In [[place-ashkarad|Ashkarad]], families maintain the deep shafts their ancestors opened, and craft councils pay one another when a workshop wastes water. In [[place-mehrnagord|Mernagord]], every household takes a turn clearing channels before the spring melt, and the work is entered on tablets. At [[place-vahurdash|Vahurdash]], families are known by the stretch of the single irrigation channel they keep; in a dry year, the harvest is reckoned by how many days it ran.
 
-These arrangements make waterkeeping practical law. A well or channel is shared life, but its hours, upkeep and claims are particular and written. In [[lore-velkunsong|The Song of the Lost Town]], the teller says a fair prince counts water, while a bad one counts gold. The revived [House of Vahurdash]{.name data-type="affiliation/lineage"} hears the drought in the same song as a trial and the return as the answer.
+These arrangements make waterkeeping practical law. A well or channel is shared life, but its hours, upkeep and claims are particular and written. [[lore-velkunsong|The Song of the Lost Town]] puts the measure of a ruler in one line: [A fair prince counts the water. A bad prince counts the gold.]{.verse} The revived [House of Vahurdash]{.name data-type="affiliation/lineage"} hears the drought in the same song as a trial and the return as the answer.
 
 ## Where the Year Is Kept
 
@@ -206,6 +211,15 @@ Tellumi is written in a syllabary the first families brought down from the mount
 
 Literacy is expected of anyone above a laborer, and a Tellumi's handwriting is a matter of some vanity. An educated Tellumi reads his own tongue and at least one trade tongue, and a Delkoshekh reads considerably more. Among the exile houses the ability to read the pre-Breaking hand is a quiet marker of seriousness, because the documents that matter are all written in it.
 
+## The Tellumi in Their Own Tellings
+
+Four works carry the lines a Tellumi has by heart:
+
+- [[lore-turemrecital|The Recitation of the Breaking]] is the fixed text of the war, spoken standing at every festival, court ceremonial and princely funeral, and it keeps the loss as a case, each claim followed by the tablet that proves it.
+- [[lore-comingdown|The Coming Down]] is the foundation legend a Delkoshekh tells a child presented at the Mother's shrine, and its roll of the seven peaks, said at every princely funeral, carries the law that a house whose peak is lost has lost its claim.
+- [[lore-velkunsong|The Song of the Lost Town]] is the cloth-tellers' epic of old Vahurdash, sung scene by scene in the caravan yards of Kethramír, and it is the fault the Tellumi tell against themselves: a prince who counted gold and not water.
+- [[lore-roadnights|The Nights of the Road]] is a caravan-master's tales to a young factor on the Celestial Road, each one a line of the master's list of prices, which is held in the head and never written.
+
 ## What the Houses Keep
 
 A Tellumi can point to a handful of things that hold a people together without a state. **The house tablets** are each household's genealogy, deeds, water-rights and temple registers, and they are the one thing the Breaking could not burn by force, because clay does not burn well. **The roll of the seven peaks**, a _tsemhat_ or recitation, names the peak each house roots its genealogy in. [[lore-turemrecital|The Recitation of the Breaking]] is a case in the form of a case, each claim followed by the tablet that proves it. **The Council's codes** are the legal rules by which Tellumi communities inside the held cities govern their own affairs. **The water-deeds** give a household particular hours in a named channel, and the ledgers of them are the most valuable documents in Shirvan. **The Calendar** of twelve thirty-day months and a five-day festival is the Shekhulukhem's.
@@ -218,17 +232,17 @@ The seven princely houses are the spine of Tellumi identity, and every Tellumi k
 
 Marriage is arranged between households and is, where it can be, within the tradition. Marriage to an Atarzád is possible, rare, and understood by both families as a decision about children and not about affection: the children will be raised in one tradition or the other, and everyone knows which way the pressure runs in a conquered city.
 
-Hospitality remains close to absolute, and the Tellumi are bitterly aware of the irony. A stranger in extremity is fed, housed and asked nothing. They took the Atarzád in under exactly that rule and have not amended it, because amending it would mean the Atarzád had changed what the Tellumi are, and that is the one loss they refuse.
+Hospitality remains close to absolute, and the Tellumi are bitterly aware of the irony. A stranger in extremity is fed, housed and asked nothing. The cloth-tellers of [[lore-velkunsong|the Song of the Lost Town]] sing the rule at the gate of Vahurdash: [bread, and shade, and water, and no question asked. The neyin's right./We give it to the thief. We give it to the enemy at night.]{.verse} They took the Atarzád in under exactly that rule and have not amended it, because amending it would mean the Atarzád had changed what the Tellumi are, and that is the one loss they refuse.
 
 ## The Ladder of a Life
 
-A Tellumi child is presented at the shrine of Zúrathra within forty days of birth, and says the seven cities in order before it says its own name. At seven the faith's [Ceremony of Acknowledgment]{.name data-type="lore/custom"} stands the child before a death-fire to say, _I do not fear you_, so that the years between are lived without dread. The child learns its letters and the household's tablets, and then a craft or the Shekhulukhem. Marriage is arranged between households and, where it can be, within the tradition. An adult keeps the tablet, takes a turn at the channels and pays the tithe and the assessed taxes. The old are the reciters and the teachers. The dying are the Delkoshekh's, to be read.
+A Tellumi child is presented at the shrine of Zúrathra within forty days of birth, and says the seven cities in order before it says its own name. The Delkoshekh of [[lore-comingdown|the Coming Down]] gives the reason: "A child says them before the child says its own name, because the city is the older name." At seven the faith's [Ceremony of Acknowledgment]{.name data-type="lore/custom"} stands the child before a death-fire to say, _I do not fear you_, so that the years between are lived without dread. The child learns its letters and the household's tablets, and then a craft or the Shekhulukhem. Marriage is arranged between households and, where it can be, within the tradition. An adult keeps the tablet, takes a turn at the channels and pays the tithe and the assessed taxes. The old are the reciters and the teachers. The dying are the Delkoshekh's, to be read.
 
 The unit is the household, _ninesh_, and beyond it the house, which is the court that kept its records and the claim to be read there. A person belongs to a household by its tablets, to a house by the court that kept them, and to the Tellumi by the tablets held anywhere.
 
 ## Where the Names Are Read
 
-The Tellumi add the reading to the Ashaian teaching about the [Chinvat Bridge]{.name data-type="place/structure"}. A Tellumi dead is received by a Delkoshekh, who reads the name from the house's tablet while the household lights its lamps, and until the name is read the dead are not counted among the received. The ground where the names were never read is a _henhutpedin_, a blood-field, and a thin one is a _sirveshpedin_, a cursed field.
+The Tellumi add the reading to the Ashaian teaching about the [Chinvat Bridge]{.name data-type="place/structure"}. A Tellumi dead is received by a Delkoshekh, who reads the name from the house's tablet while the household lights its lamps, and until the name is read the dead are not counted among the received. [[lore-turemrecital|The Recitation of the Breaking]] states it as a finding: [A man whose name is not read is not received.]{.verse} The ground where the names were never read is a _henhutpedin_, a blood-field, and a thin one is a _sirveshpedin_, a cursed field.
 
 The Tellumi neither bury nor burn their dead. A body is carried to a Tower of Silence and exposed on its stone platform to the sky, as the [[affiliation-azravan|Faith of Azravan]] prescribes; where no tower stands, it is laid out in the desert for the same exposure. The reading of the name accompanies either.
 

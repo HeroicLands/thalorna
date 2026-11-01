@@ -36,6 +36,12 @@ Above the town, on the terraces the wind scours dry, lie the **salt pans**. Sun 
 and the town takes the crop, and Zuravlen salt now goes to the fish, to the uplands for cheese, and—this is recent, and resented—inland to the preserving trades, which bought their salt from outside
 the barony for generations and would rather not be dependent on Volsater for it.
 
+The women rake the pans through the long days of summer while the men are out with the boats, and
+they sing [[lore-saltpansongs|The Songs of the Salt Pans]] from one pan to the next. The last of the
+six is sung on the way down the cut at the end of the day, counting the boats in the harbor, and its
+refrain is the town's word on a boat that has not come in:
+[The count is not closed while a lamp is lit.]{.verse}
+
 ## The Fast Boats
 
 Volsater's importance is new. A peach picked at [[place-palnebris|Palnebris]] is worthless four days

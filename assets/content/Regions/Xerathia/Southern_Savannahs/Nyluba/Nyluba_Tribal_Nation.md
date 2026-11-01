@@ -123,9 +123,9 @@ The terms of the Pact, as the griots recite them, are deliberately few:
 - The five clans will renew the Pact, in person, at the Great Lubemo, every fourth dry season.
 - The Pact may be amended only by unanimous consent of all five paramounts, speaking before the assembled Lubemo and the senior griots.
 
-What the Pact leaves out matters as much. It sets no common law beyond its own terms, founds no central authority, governs nothing inside a clan, and raises no tax, levy or shared institution beyond the Lubemo itself. Each clan stays wholly sovereign at home, and the Pact is a peace treaty, a defensive alliance and a ritual calendar, and nothing more.
+What the Pact leaves out matters as much. It sets no common law beyond its own terms, founds no central authority, governs nothing inside a clan, and raises no tax, levy or shared institution beyond the Lubemo itself. Each clan stays wholly sovereign at home, and the Pact is a peace treaty, a defensive alliance and a ritual calendar, and nothing more. [[lore-swearbaobab|The Swearing Under the Baobab]] closes its count of the terms the same way: [That is the whole hand./._There is no sixth finger._]{.verse}
 
-The simplicity is by design. Nyoli Ruwozi is reported to have said, when pressed by allies who wanted a more elaborate constitution: _"We are not building a kingdom. We are agreeing not to destroy each other. The rest is for our daughters to decide for themselves."_ The griots quote her on this point at every Lubemo.
+The simplicity is by design. When allies pressed Nyoli Ruwozi for a more elaborate constitution, she answered them in the words [[lore-swearbaobab|The Swearing Under the Baobab]] keeps whole: ["We are not building a kingdom./We are agreeing not to destroy each other./The rest is for our daughters to decide for themselves."]{.verse} The griots quote her on this point at every Lubemo.
 
 The lion cult's memory-song, [[lore-swearbaobab|The Swearing Under the Baobab]], counts the terms on one hand, the griot calling and the gathered answering:
 
