@@ -122,7 +122,8 @@ function spellingRows(tongue) {
     for (const [s, k] of digraphs) for (const v of cases(s)) add(v, ch(k), cm(k));
     for (const v of cases("nk")) add(v, ch("ng", "k"), cm("ng", "k"));
     for (const v of cases("ch")) add(v, ch("k"), cm("k"));
-    // Sinale s + h are separate consonants, including across a suffix boundary.
+    // Áelendi writes sh as s. In Sinale s + h stay separate consonants,
+    // including across a suffix boundary.
     if (AE) for (const v of cases("sh")) add(v, ch("s"), cm("s"));
     for (const v of cases("x")) add(v, ch("k", "s"), cm("k", "s"));
     for (const c of singles) for (const v of cases(c)) add(v, ch(c), cm(c));

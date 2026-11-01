@@ -85,7 +85,7 @@ The wariness between the two Zulethalar (fellowships) is mutual and deep. Fisera
 
 ## Adjacencies
 
-Rhezin Neumenos shares its edges of the Thizaron with Rhezin Fisera and Rhezin [[affiliation-pirethos|Pirethos]].
+Rhezin Neumenos shares its edges of the Thizaron with Rhezin [[affiliation-sideris|Sideris]] and Rhezin [[affiliation-pirethos|Pirethos]].
 
 The sympathy with Rhezin [[affiliation-sideris|Sideris]] is one of _binding and precision_. Both _rheza_ deal in the imposition of order on what resists it—Metal through material craft, Spirit through the binding of wills and entities. A summoning circle is, at its core, a structure of arcane force that contains and constrains an entity that would rather not be contained—and the precision required is pure Sideris craftsmanship, applied to immaterial subjects. The two schools collaborate more than their mutual reserve might suggest: Sideris provides the structural framework, Neumenos provides the understanding of what is being contained. Many of the Order's most powerful wards and containment systems are joint creations of Metal and Spirit practitioners.
 

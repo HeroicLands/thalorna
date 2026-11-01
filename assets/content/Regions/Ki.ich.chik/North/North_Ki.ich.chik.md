@@ -61,7 +61,7 @@ The north works copper. It comes out of the ground pure in the Maple People's la
 Three dangers press on the north, and each falls on one nation first.
 
 - **The south.** Expeditions probing north across Ch'akul Tsa'kul reach the Turquoise People first and the One Fire after them.
-- **The sea raiders.** [[lore-nordheimnclt|Nordmen]] from the [[place-nrdlndsrgn|Nordlands]] have crossed the eastern ocean in longships three times in twenty-one years, and the last time was a year ago. The Maple People watched two of the crossings from their coast and understand neither the men nor their purpose ([[lore-westrnvoyages|The Western Voyages]]).
+- **The sea raiders.** [[lore-nordheimnclt|Nordmen]] from the [[place-nrdlndsrgn|Nordlands]] have set out across the eastern ocean in longships three times in twenty-one years. One fleet foundered in a storm far out at sea, and the other two reached the Maple People's coast, the last of them a year ago. The Maple People watched both from the shore and understand neither the men nor their purpose ([[lore-westrnvoyages|The Western Voyages]]).
 - **The newcomers from the ice.** Kin of the Ice-Edge People are moving east along the arctic coasts with better boats and harpoons than the peoples they find there, and those older peoples are pushed south toward the Maple People's northern edge.
 
 Whether a danger to one nation is a danger to all is the question the compact argues every summer and has never settled.
