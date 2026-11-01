@@ -195,13 +195,41 @@ test("doubled letters are kept", () => {
     assert.equal(earthHits({ form: "ruma", gloss: "" }, earth, ["finnish"]).length, 1);
 });
 
-test("forms of one and two letters are compared", () => {
+test("forms of one and two letters are left alone", () => {
     const root = path.join(dir, "short");
-    write("short/spanish.txt", "en\nko\na\n");
+    write("short/spanish.txt", "en\nko\na\nkon\n");
     const earth = loadEarth([root]);
-    for (const form of ["en", "Ko", "a"])
-        assert.equal(earthHits({ form, gloss: "" }, earth, ["spanish"]).length, 1, form);
-    assert.deepEqual(earthHits({ form: "e", gloss: "" }, earth, ["spanish"]), []);
+    for (const form of ["en", "Ko", "a", "k'o"])
+        assert.deepEqual(earthHits({ form, gloss: "" }, earth, ["spanish"]), [], form);
+    assert.equal(earthHits({ form: "kon", gloss: "" }, earth, ["spanish"]).length, 1);
+});
+
+test("a short word that copies its Earth word's meaning is still reported", () => {
+    const root = path.join(dir, "short-meaning");
+    write("short-meaning/chinese.txt", "ji\nbi\n");
+    write("short-meaning/chinese.tsv", "ji\tnoun\tcollected works\nbi\tnoun\tone grain\n");
+    const earth = loadEarth([root]);
+    assert.equal(
+        earthHits({ form: "ji", gloss: "works; a task" }, earth, ["chinese"], true).length,
+        1,
+    );
+    assert.deepEqual(earthHits({ form: "bi", gloss: "a river" }, earth, ["chinese"], true), []);
+});
+
+test("a form the owner has ruled to keep is not reported, in its own note only", () => {
+    const root = path.join(dir, "ruled");
+    write("ruled/old-norse.txt", "jarl\nhrafn\n");
+    write("ruled/old-saxon.txt", "jarl\n");
+    const kept = note("Nordmal.md", [
+        ["jarl", "a lord"],
+        ["hrafn", "a raven"],
+    ]);
+    const first = run(["--wordlists", root, kept]);
+    assert.equal(first.err.length, 1, first.err.join("\n"));
+    assert.match(first.err[0], /"hrafn"/);
+    const elsewhere = note("Varokhi.md", [["jarl", "a lord"]]);
+    const second = run(["--wordlists", root, elsewhere]);
+    assert.equal(second.err.length, 1, second.err.join("\n"));
 });
 
 test("a whole word of the language's own model is an error", () => {

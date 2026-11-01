@@ -18,7 +18,10 @@
  *   whole word in a list of the language its culture is modelled on
  *   (`SOURCES`). Form alone decides it, except for the two languages in
  *   `MEANING_REQUIRED`, whose short words collide constantly: there the word
- *   must also share a meaning with the list's gloss. A match in any other
+ *   must also share a meaning with the list's gloss. A form of one or two
+ *   letters is a syllable that nearly every language has as a word, so
+ *   elsewhere it is not compared. A form in `RULED_KEPT` is one the owner has
+ *   ruled to keep in its note, and is not reported there. A match in any other
  *   list is coincidence and is not reported, and a stem or root inside a word
  *   never counts, so a stem or affix written with a hyphen at either end
  *   (`hrafn-`, `-ar`) is not compared. A language with no human model has no
@@ -32,8 +35,8 @@
  * in the second column identify roots and affixes; only free senses contribute
  * words and glosses. An unclassified text-only form is retained. Classification
  * happens before lists from different directories merge, so a free homonym in
- * either source remains a word. A form of any length is compared, one letter
- * included.
+ * either source remains a word. A list form of any length is loaded; which
+ * forms of a note are compared is described above.
  *
  * **Meaning.** Where it is required, two glosses mean the same when they share content words: each
  * gloss is lowercased, its marks stripped and split into words of letters,
@@ -127,6 +130,15 @@ export const SOURCES = {
 };
 
 /** The notes whose words collide only when the meaning agrees as well as the form. */
+/**
+ * Forms the owner has ruled to keep although they are whole Earth words, by
+ * language note, each with the reason.
+ */
+export const RULED_KEPT = new Map([
+    ["Nordmal.md", new Map([["jarl", "English as well as Old Norse, the Nordmen's rank"]])],
+    ["Ki.i.chek.md", new Map([["ha'nal", "the root of the place name Ha'nal Shi'lan"]])],
+]);
+
 export const MEANING_REQUIRED = new Set(["Tantsou.md", "Jurthat.md"]);
 
 /** Function words and dictionary labels a gloss's meaning does not rest on. */
@@ -391,6 +403,9 @@ export function earthHits({ form, gloss }, earth, sources, meaningRequired = fal
     for (const list of sources) {
         const n = normalize(form, list === J_AS_H);
         if (!n || !earth.lists.get(list)?.has(n)) continue;
+        // Nearly every one- or two-letter syllable is a word somewhere, so a short
+        // form collides only where its meaning is checked too.
+        if (n.length <= 2 && !meaningRequired) continue;
         if (!meaningRequired) {
             out.push({ severity: "error", message: `is a word of the ${list} list` });
             continue;
@@ -444,8 +459,10 @@ export function main(
     for (const file of files) {
         const rel = path.relative(cwd, path.resolve(cwd, file)) || file;
         const sources = SOURCES[path.basename(file)] ?? [];
+        const kept = RULED_KEPT.get(path.basename(file));
         for (const word of formsOf(fs.readFileSync(path.resolve(cwd, file), "utf8"))) {
             words += 1;
+            if (kept?.has(String(word.form).normalize("NFC"))) continue;
             for (const hit of earthHits(
                 word,
                 earth,
