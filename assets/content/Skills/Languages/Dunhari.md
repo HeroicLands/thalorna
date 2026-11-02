@@ -6404,6 +6404,7 @@ data:
     - {form: Parvizhân, instead: Parvuzhan, why: one sound from an Earth name}
     - {form: Shahrânaz, instead: Sharanaz, why: one sound from an Earth name}
     - {form: Afsharan, instead: Afsheran, why: one sound from an Earth name}
+    - {form: Khavar, instead: Shavend, why: "an Earth word, a clan name"}
     - {form: Rashad, instead: Rezhad, why: one sound from an Earth name}
     - {form: Khânumân, instead: Khareman, why: one sound from an Earth word}
     - {form: Khorsand, instead: Khorzand, why: one sound from an Earth word}
@@ -6873,7 +6874,7 @@ Fazhina, Rosharan, Azadam, Shavineh, Dehna, Mazinan, Mizhara, Tavura, Sharanaz, 
 
 ### Clan and Tribal Names
 
-Afsheran, Ferudan, Vardozan, Tamaran, Khavar, Zandun, Barmandan, Qarush, Kaveran, Razdanak, Durmand, Parivan, Azardan, Girani, Shadavan, Vahdrak, Zarnush, Gholshan, Darvarid, Nemud, Golshani, Paresak, Serdom, Khorzand, Zarid, Bazakan, Afrun, Mazanid, Goravan, Parvandar, Sarani, Turvand, Parvaran, Mahvaran, Shamayan, Razhak, Khonash, Varakan, Kaviran, Mazhen, Shiradar, Darvani, Khozrun, Gorgaz, Shirzari, Zarmana, Perudan, Gazvan, Farumak, Baravi, Tamiran, Dargan, Shivash, Mervaran, Goharan, Bakarin, Nazari, Padvan, Narshad, Sivadar, Arshin, Tamirun, Sobukan, Sahaz, Bazhon, Mahkun, Tavrud, Ashazad, Khavandar, Varidan, Kamruz, Tahvan, Darush, Shahran, Farrud, Padeshun, Khareman, Namirun, Shahrun, Gavandar, Narsafi, Mehrun, Shavan, Parnazar, Sharman, Bergoz, Zanavi, Beluri, Khafur, Khormaz, Shirana, Farumaz, Darkaran, Mushtan, Tahridan, Gildash, Namiran, Khusham, Sazadar, Parkad
+Afsheran, Ferudan, Vardozan, Tamaran, Shavend, Zandun, Barmandan, Qarush, Kaveran, Razdanak, Durmand, Parivan, Azardan, Girani, Shadavan, Vahdrak, Zarnush, Gholshan, Darvarid, Nemud, Golshani, Paresak, Serdom, Khorzand, Zarid, Bazakan, Afrun, Mazanid, Goravan, Parvandar, Sarani, Turvand, Parvaran, Mahvaran, Shamayan, Razhak, Khonash, Varakan, Kaviran, Mazhen, Shiradar, Darvani, Khozrun, Gorgaz, Shirzari, Zarmana, Perudan, Gazvan, Farumak, Baravi, Tamiran, Dargan, Shivash, Mervaran, Goharan, Bakarin, Nazari, Padvan, Narshad, Sivadar, Arshin, Tamirun, Sobukan, Sahaz, Bazhon, Mahkun, Tavrud, Ashazad, Khavandar, Varidan, Kamruz, Tahvan, Darush, Shahran, Farrud, Padeshun, Khareman, Namirun, Shahrun, Gavandar, Narsafi, Mehrun, Shavan, Parnazar, Sharman, Bergoz, Zanavi, Beluri, Khafur, Khormaz, Shirana, Farumaz, Darkaran, Mushtan, Tahridan, Gildash, Namiran, Khusham, Sazadar, Parkad
 
 ## Dunhari Lexicon {#lexicon}
 

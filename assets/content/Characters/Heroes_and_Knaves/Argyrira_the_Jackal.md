@@ -402,7 +402,7 @@ Argirira is a lean, weather-hardened woman in her early forties, built in the wi
 
 ### Origin: A Daughter of the Matriarchy
 
-Argirira was born to a minor clan of the southern cantons of the [[affiliation-mtrrchybth|Matriarchy of Bethua]]—lesser nobility, but nobility, with land enough to raise a daughter to expect standing. Like the realm's other promising women she was trained young in arms and in the [[skill-charissa|Kharessa]], the lethal Bethuan unarmed art, and she earned a place among the [Lonkhai]{.name data-type="affiliation"}, the Spear-Sisterhood, rising to command a frontier company that patrolled the very marches she now haunts. For most of her life she was exactly what Bethua raises its women to be: armed, proud, and certain of her place in an order built around her sex. The name she was born with she no longer speaks, and will kill anyone who uses it; she threw her House away the day it threw her away, and keeps only the given name her mother gave her and the byname the marches hung on her after.
+Argirira was born to a minor clan of the southern cantons of the [[affiliation-mtrrchybth|Matriarchy of Bethua]]—lesser nobility, but nobility, with land enough to raise a daughter to expect standing. Like the realm's other promising women she was trained young in arms and in the [[skill-charissa|Kharessa]], the lethal Bethuan unarmed art, and she earned a place among the [Lorkhai]{.name data-type="affiliation"}, the Spear-Sisterhood, rising to command a frontier company that patrolled the very marches she now haunts. For most of her life she was exactly what Bethua raises its women to be: armed, proud, and certain of her place in an order built around her sex. The name she was born with she no longer speaks, and will kill anyone who uses it; she threw her House away the day it threw her away, and keeps only the given name her mother gave her and the byname the marches hung on her after.
 
 ### The Fall
 
@@ -420,7 +420,7 @@ The Kharessa
 : Argirira was trained from girlhood in the Bethuan open-hand killing art, and remains lethal weaponless—a fact that has surprised more than one larger opponent who took an unarmed woman of forty for an easy mark.
 
 Spear-Sister's Craft
-: Years as a Lonkha officer gave her real command, tactics, and discipline, which she has bent to the warband—her Jackals fight as a trained pack, not a rabble, and her Spadai core fights in the Bethuan manner.
+: Years as a Lorkha officer gave her real command, tactics, and discipline, which she has bent to the warband—her Jackals fight as a trained pack, not a rabble, and her Spadai core fights in the Bethuan manner.
 
 Mounted Raider
 : A superb horsewoman, deadly with scimitar and throwing-axe from the saddle, at home in the waterless marcher country she once patrolled and now rules.
@@ -440,7 +440,7 @@ She is not, in her own telling, a traitor or a monster but a woman who was throw
 
 - **The Kharessa and a lifetime of arms**—lethal even unarmed
 - **A disciplined core** of exiled Spadai and Bethuan women who fight in the trained manner
-- **Real command and tactics** from her years as a Lonkha officer
+- **Real command and tactics** from her years as a Lorkha officer
 
 ### Weaknesses
 

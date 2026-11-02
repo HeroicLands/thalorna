@@ -37,7 +37,7 @@ data:
           Of the great mercantile houses admitted by inheritance, whose vote carries weight in proportion to the house's contribution to the common fund. Distinguished as "Kulena House" from Chendrapur's own Kulena, the unrelated seat one of the Nine Houses holds at that city-state's court.
     offices:
       High Speaker of the Collective: >-
-        Elected by the kulinas from among themselves for a seven-year term, presiding over the Assembly of the Compact.
+        Elected by the kulena from among themselves for a seven-year term, presiding over the Assembly of the Compact.
   seat: null
   population: null
   economy: [affiliation-tevran]
@@ -73,7 +73,7 @@ The Collective stands outside [[affiliation-tevran|the Tevran Maldor]]. The Tevr
 
 There are three ways in, and each carries different rights.
 
-- **Kulena houses.** The great mercantile houses (_kulinas_) belong by inheritance. A kulena's vote in the Collective's assemblies carries weight in proportion to his house's contribution to the common fund.
+- **Kulena houses.** The great mercantile houses (_kulena_) belong by inheritance. A kulena's vote in the Collective's assemblies carries weight in proportion to his house's contribution to the common fund.
 - **Pratisthas.** A new entrant comes in by sponsorship and probation, and votes only on matters concerning his probationary terms. This is where you start.
 - **Karmakaras.** The artisan suppliers belong by craft-shreni affiliation and take part through their shrena's elected representative.
 
@@ -84,7 +84,7 @@ The Collective is governed by the Assembly of the Compact (_Sangra-Sabhra_), whi
 - The [Foreign Trade Committee]{.name data-type="affiliation/governmental"} negotiates with non-Vedyaran polities and licenses members to operate beyond the Compact.
 - The [Disputes Committee]{.name data-type="affiliation/governmental"} arbitrates the internal conflicts the parties would rather not take to a ruler's court.
 
-At the apex sits the **High Speaker of the Collective**, elected by the kulinas from among themselves for a seven-year term. The present Speaker is [Subirya Romadasa]{.name data-type="being/npc"}, an elderly silver merchant of Suryagarha whose tenure is known for caution and for the quiet expansion of the Collective's mining holdings.
+At the apex sits the **High Speaker of the Collective**, elected by the kulena from among themselves for a seven-year term. The present Speaker is [Subirya Romadasa]{.name data-type="being/npc"}, an elderly silver merchant of Suryagarha whose tenure is known for caution and for the quiet expansion of the Collective's mining holdings.
 
 ## Operations
 
@@ -95,7 +95,7 @@ At the apex sits the **High Speaker of the Collective**, elected by the kulinas 
 
 ## Internal Tensions
 
-- **The labor question.** Reform-minded younger kulinas have proposed substantial improvements to mining labor conditions. The older houses, whose fortunes were built on the present system, resist, and the reformers have not yet found a champion willing to risk his standing.
+- **The labor question.** Reform-minded younger kulena have proposed substantial improvements to mining labor conditions. The older houses, whose fortunes were built on the present system, resist, and the reformers have not yet found a champion willing to risk his standing.
 - **The expansion question.** The Foreign Trade Committee is divided between members who want to push aggressively into Amradad's caravan markets and members who fear retaliation from the [[affiliation-kngdmmrdd|Kingdom]] and prefer the present careful cooperation.
 - **The compromised members.** Several houses are known or suspected to hold arrangements with [[affiliation-twilighths|the Twilight House]] or [[affiliation-adanshreni|the Adanshreni]] beyond what the Collective's standing rules permit. Investigations have begun and stalled more than once.
 

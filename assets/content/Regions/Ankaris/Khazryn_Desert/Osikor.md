@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [dkrqrrgn], population: 0, packFolder: 
 
 ## Overview
 
-North of the basin the ground rises into the [[place-dkrqrrgn|Diqraqor]], the stone range: black mesas, dry ravines and a cold plateau where nothing grows taller than a thornbush. In the walls of eleven of its ravines are doorways, each at the head of a flight of steps that goes down into the rock instead of up to it. The steps are what give Oshiqor its second name. The doorways stand at the level of the old ravine floor, and the floor has risen with silt, so a visitor today walks down onto a stair that begins below his feet and ends in the cliff.
+South of the basin the ground rises into the [[place-dkrqrrgn|Diqraqor]], the stone range: black mesas, dry ravines and a cold plateau where nothing grows taller than a thornbush. In the walls of eleven of its ravines are doorways, each at the head of a flight of steps that goes down into the rock instead of up to it. The steps are what give Oshiqor its second name. The doorways stand at the level of the old ravine floor, and the floor has risen with silt, so a visitor today walks down onto a stair that begins below his feet and ends in the cliff.
 
 The tombs are the burial ground of the rulers of [[lore-basinbldrs|the Basin Builders]], carried up from the lake country to rest in the highlands, and they are the only place where that people left writing of any kind: line after line of signs cut over every doorway, in a script nobody reads. Inside, the chambers open off long passages, and the walls are painted. Reds and ochres and a blue made from ground stone show men and women in procession toward a figure seated on a stepped chair, and the faces have not faded.
 

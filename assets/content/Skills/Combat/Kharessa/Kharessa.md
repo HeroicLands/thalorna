@@ -29,7 +29,7 @@ The art is built around the advantage in speed and agility a trained woman holds
 
 ## Who learns it
 
-Every woman of the Spear-Sisterhood, the _Lonkhai_, trains in the Kharessa from youth alongside the spear and the tactics of the line, and a free Bethuan girl learns it young in her village levy. The women who train a levy watch for the quick girls, because quickness is the gift on which the art depends, and a promising one may be taken into a House's guard to learn its finer points from veteran women.
+Every woman of the Spear-Sisterhood, the _Lorkhai_, trains in the Kharessa from youth alongside the spear and the tactics of the line, and a free Bethuan girl learns it young in her village levy. The women who train a levy watch for the quick girls, because quickness is the gift on which the art depends, and a promising one may be taken into a House's guard to learn its finer points from veteran women.
 
 ## In war
 

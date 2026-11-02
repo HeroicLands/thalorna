@@ -26,7 +26,7 @@ data:
           Represents one of the five signatory polities in the Assembly that renews and amends the Compact.
     offices:
       High Speaker: >-
-        Presiding officer of the Assembly and head of the Collective, elected by the kulinas from among themselves for a seven-year term, who puts its questions and rules on its procedure.
+        Presiding officer of the Assembly and head of the Collective, elected by the kulena from among themselves for a seven-year term, who puts its questions and rules on its procedure.
       Roads Committee: >-
         Maintainer of the caravan infrastructure the Compact holds in common, and arbiter of the road-tax disputes between its seats.
       Standards Committee: >-
@@ -96,7 +96,7 @@ The Assembly sits for a few weeks a year. The standing committees sit continuous
 - The [Foreign Trade Committee]{.name data-type="affiliation/governmental"} negotiates with polities outside the Compact and licenses the members who trade beyond the janpodas.
 - The [Disputes Committee]{.name data-type="affiliation/governmental"} arbitrates the quarrels the parties would rather not carry into a ruler's court, which is most of them.
 
-At the head of all of it stands the **High Speaker**, elected by the kulinas from among themselves for a seven-year term. The office presides and does not execute, and its power lies almost entirely in procedure. The Speaker decides what reaches a vote and in what order. A petition ruled out of order at the spring sitting waits until autumn for another attempt.
+At the head of all of it stands the **High Speaker**, elected by the kulena from among themselves for a seven-year term. The office presides and does not execute, and its power lies almost entirely in procedure. The Speaker decides what reaches a vote and in what order. A petition ruled out of order at the spring sitting waits until autumn for another attempt.
 
 ## Outside the Compact
 

@@ -22,7 +22,7 @@ Six hundred dead were put in a trench with the treasure of their shrines, and no
 
 The palace household of [[place-zargandur|Zargandur]] lies in a dry wash east of the city with the sacked gold of its shrines. A band of grave-robbers has dug into it for a season and has lost a third of its number. [[lore-theshadow|The Shadow]] enters the opening they have made and wears the dead. The [[affiliation-tribestrzd|Atarzád fire-priests]] say only fire puts them down, and they know it for a reason they do not tell: the grave also holds sixty of their own, thrown in three days after the fall.
 
-The adventure runs over a day and a night. The party reaches the wash in the afternoon, works the trench until dark and faces what rises, and the morning brings the reckoning with the garrison. The scenes can be taken in a different order when the party's choices pull that way, and the bypass notes carry play on from whichever scene is skipped.
+The adventure runs over a day and a night. The party reaches the wash in the afternoon, digs in the trench until dark and faces what rises, and the morning brings the reckoning with the garrison. The scenes can be taken in a different order when the party's choices pull that way, and the bypass notes carry play on from whichever scene is skipped.
 
 ## Hooks
 
@@ -65,11 +65,11 @@ The adventure runs over a day and a night. The party reaches the wash in the aft
 
 ## Scene Three: The Cut
 
-**Purpose.** Show the dig, spring the trap and give the party a taste of the work.
+**Purpose.** Show the dig, spring the trap and give the party a taste of the digging.
 
 **Situation.** The trench is a long scar, six paces wide and three deep in places, cut by the raiders across the lower wash. They have worked down through the gravel to the first layer of the dead. The cut is cold in a way the afternoon does not explain, and the smell is of wet cloth and old copper. The bodies are not dry like those of a tower. They are black, matted, packed with sand, and covered in thin beaten gold, the plates laid over the faces as the Tellumi lay them on the eyes of their great dead. Every piece of gold is pressed on a closed eye, and every closed eye opens when the gold is lifted. The eyes that open are not white and not dark. They are only looking. Spades, baskets, a rope ladder and a cracked lamp lie scattered along the lip where the diggers dropped them and ran.
 
-**NPCs and threats.** The dead lie still while the party works. The gold is the trap. A piece taken from a face without the name being spoken wakes the dead whose face it was, and that one rises slowly, with the sand running out of its sleeves. The Shadow stands in the trench as a stillness at its far end, a patch where the air does not move and a lamp flame leans toward it, and at dusk it takes a body. Hosikqenod's men, if they live, work the far end and watch the party's end for a sign that the party has been caught.
+**NPCs and threats.** The dead lie still while the party digs. The gold is the trap. A piece taken from a face without the name being spoken wakes the dead whose face it was, and that one rises slowly, with the sand running out of its sleeves. The Shadow stands in the trench as a stillness at its far end, a patch where the air does not move and a lamp flame leans toward it, and at dusk it takes a body. Hosikqenod's men, if they live, work the far end and watch the party's end for a sign that the party has been caught.
 
 **Player choices.** Force: dig fast and take what can be taken before dark; the first layer yields the most gold, and the cost of every plate is a pair of open eyes. Stealth: take only what lies on top, in the first hour, and leave the deeper layers to the dark. Guile: use the digger's tablet to name each piece before lifting it, if Danilul was taken alive or the tablet was seized in the camp. Parley: speak to the dead as the Tellumi do, naming the house and asking leave, with the ritual courtesy that costs nothing but takes an hour.
 
@@ -91,7 +91,7 @@ The adventure runs over a day and a night. The party reaches the wash in the aft
 
 **Clues and rewards.** The Gold Mask breaks if the prince's own name is read over it: the chain of office carries it on a tag. The party that speaks it hears the thing stop, and the mask falls from the face with a flat bright sound, and under it is a child. The child is the youngest of the household, a boy of seven or eight whose body the Shadow wore as the least resisting. The party that sees the face understands what the grave holds.
 
-**Consequences.** Fire clears the trench for a year, and what burns does not rise again. The reading quiets it for good. A party that does neither is overrun, and the dead do not kill so much as lay their cold hands on a man until he lies down in the cut. The survivors wake in the gray before dawn with the gold plates pressed to their own eyes.
+**Consequences.** Fire clears the trench for a year, and what burns does not rise again. The reading receives the household and quiets the trench. A party that does neither is overrun, and the dead do not kill so much as lay their cold hands on a man until he lies down in the cut. The survivors wake in the gray before dawn with the gold plates pressed to their own eyes.
 
 **If bypassed.** A party that flees the wash runs the whole way to the city with the dead in the road behind them. Nobody in the east gate wants to hear what is coming up the road, and the prefect has them arrested for bringing it, with the fire-pot as evidence.
 

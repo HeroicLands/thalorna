@@ -23,7 +23,7 @@ data:
     - name: "Izet-Mu"
       definition: "The Overseer of the Waters, chief of the engineer-priestesses"
       common: true
-    - {name: "Lonkhai", definition: "The Spear-Sisterhood, the female warrior class", common: true}
+    - {name: "Lorkhai", definition: "The Spear-Sisterhood, the female warrior class", common: true}
     - name: "Spados"
       definition: "A sworn eunuch-warrior, the only kind of man permitted arms; pl. Spadai"
       common: true
@@ -49,8 +49,8 @@ data:
     - {name: "khabetun", definition: "A bonded warehouse on the quay"}
     - {name: "et-degan", definition: "The customs-due paid on goods brought onto the quay"}
     - {name: "Nauklera", definition: "A ship-mistress, captain of a galley and often its owner"}
-    - name: "Lonkhissa"
-      definition: "An officer commanding a company of the Lonkhai; pl. Lonkhissai"
+    - name: "Lorkhissa"
+      definition: "An officer commanding a company of the Lorkhai; pl. Lorkhissai"
     - {name: "Parthena", definition: "A novice in the long temple education; pl. Parthenai"}
     - name: "Prohiérissa"
       definition: "The First Sacred One, deputy of the state cult and the likeliest next Metrissa"
@@ -198,7 +198,7 @@ Defense is the Spear-Sisterhood and the Spadai, the fleet and the household guar
 
 ## The House at Every Age
 
-The House is the mother's line, and membership is the mother's name. A daughter is born to her House and an infant son is entered under his mother's. A girl is a Parthena, a trainee of the Lonkhai or a pupil at the bench of a lettered House. A young woman takes a lesser office and waits, serves in the Spear-Sisterhood or on a galley, or rises in the temple or the rolls. A mature woman holds the seal of a House or a seat on one of the councils. An old woman advises, and a dying woman names her successor in public. Marriage is a matter of the matriarch's, since a matriarch commands her House's property, its ships and its marriages.
+The House is the mother's line, and membership is the mother's name. A daughter is born to her House and an infant son is entered under his mother's. A girl is a Parthena, a trainee of the Lorkhai or a pupil at the bench of a lettered House. A young woman takes a lesser office and waits, serves in the Spear-Sisterhood or on a galley, or rises in the temple or the rolls. A mature woman holds the seal of a House or a seat on one of the councils. An old woman advises, and a dying woman names her successor in public. Marriage is a matter of the matriarch's, since a matriarch commands her House's property, its ships and its marriages.
 
 A boy's life is a series of charges: his mother, then the matriarch, then a mistress. A young man works the oar, the orchard or the bench. A gifted one is put forward for the Spadai; a beautiful one becomes an ornament; a skilled one an asset; the rest are hands. An old man is kept as a charge until he dies.
 

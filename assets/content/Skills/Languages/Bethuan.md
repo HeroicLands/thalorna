@@ -520,6 +520,10 @@ data:
       - "Yássines"
       - "Yássiros"
       - "Zakinos"
+  retired:
+    - {form: Lonkhai, instead: Lorkhai, why: an Earth word}
+    - {form: Lonkhissa, instead: Lorkhissa, why: the officer of a retired name}
+    - {form: Lonkhissai, instead: Lorkhissai, why: the plural of a retired name}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"

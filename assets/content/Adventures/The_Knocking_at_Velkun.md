@@ -20,7 +20,7 @@ An oath is knocking at a cedar door in the dark, and a town of four thousand has
 
 ## Overview
 
-The settlement of [[place-vahurdash|Vahurdash]] sits in the corner of the old city of [[place-velkunar|Veshkun]] and bars its gate each night against a knocking that speaks the words of the champion in [[lore-velkunsong|the Song of the Lost Town]]. The knocker is the [Gate-dead]{.name data-type="being/creature"}, a thing [[lore-theshadow|the Shadow]] made out of an unpaid oath and the unread dead of the record-house. It can be turned away, and it can be answered, and the only people who have answered it are gone.
+The settlement of [[place-vahurdash|Vahurdash]] sits in the corner of the old city of [[place-velkunar|Veshkun]] and bars its gate each night against a knocking that speaks the words of the champion in [[lore-velkunsong|the Song of the Lost Town]]. The knocker is the [Gate-dead]{.name data-type="being/creature"}, the work of [[lore-theshadow|the Shadow]], which came in by the gap an unpaid oath left among the unread dead of the record-house. It can be turned away, and it can be answered, and the only people who have answered it are gone.
 
 The adventure runs over three days and two nights. Day one is the arrival and the first night at the gate. Day two is the cellars. The second night is the reckoning at the door. The scenes are arranged as five rooms, and each can be run in any order that the party's choices make natural, with the bypass notes below to carry play on.
 
@@ -133,4 +133,4 @@ The adventure runs over three days and two nights. Day one is the arrival and th
 : the oath, the boy and the shield
 
 [[lore-theshadow|The Shadow]]
-: what comes in where a rite is owed
+: what comes in by the gap the unread keepers left

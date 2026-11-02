@@ -298,6 +298,11 @@ export const RETIRED = [
     },
     {
         retired: ["Khavar"],
+        replacement: "Shavend",
+        scope: ["assets/content/Skills/Languages/Dunhari.md"],
+    },
+    {
+        retired: ["Khavar"],
         replacement: "Gureshay",
         scope: [
             "assets/content/Adventurers_Guides/Tellumi_Adventurers_Guide.md",

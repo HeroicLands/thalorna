@@ -85,7 +85,7 @@ Every Jackal of the true band is **Houseless**—by exile, by disgrace, or by th
 
 ## Leadership
 
-The Jackals are [[being-argyrirjckl|Argirira the Jackal's]] creation and hers alone. There is no council and no succession—the band is held together by the warlord's will, her reputation, her years of Lonkha command, and the steady flow of loot and purpose she provides. Beneath her, her most trusted Spadai and exile-women serve as lieutenants and lead the riding-parties, but every one of them holds her place at Argirira's sufferance. The band's great strength and its great weakness are the same fact: it is an extension of one ruined, disciplined woman. Argirira's training and cunning make the Jackals formidable; her one consuming grudge—against the thief-taker [[being-lmbhrpdhnn|Lámbira Pédhinion]], who engineered her exile—can drive the whole pack past the bounds of sense.
+The Jackals are [[being-argyrirjckl|Argirira the Jackal's]] creation and hers alone. There is no council and no succession—the band is held together by the warlord's will, her reputation, her years of Lorkha command, and the steady flow of loot and purpose she provides. Beneath her, her most trusted Spadai and exile-women serve as lieutenants and lead the riding-parties, but every one of them holds her place at Argirira's sufferance. The band's great strength and its great weakness are the same fact: it is an extension of one ruined, disciplined woman. Argirira's training and cunning make the Jackals formidable; her one consuming grudge—against the thief-taker [[being-lmbhrpdhnn|Lámbira Pédhinion]], who engineered her exile—can drive the whole pack past the bounds of sense.
 
 ## Territory
 

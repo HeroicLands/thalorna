@@ -173,6 +173,7 @@ const respellings = new Map([
             ["strmcltsbhrms", "strmcltsbzhrms"],
             ["báhramis", "bazhrámiš"],
             ["bahramish", "bazhrámiš"],
+            ["khavar", "shavend", "word"],
         ],
     ],
     [
