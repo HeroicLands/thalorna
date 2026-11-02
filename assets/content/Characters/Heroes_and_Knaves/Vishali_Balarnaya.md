@@ -491,7 +491,7 @@ Traveling Fair Circuit
 ### Enemies
 
 Priest [[being-vatesabhasur|Vatesa]] of a temple of [[affiliation-kamavrata|Kamavrata]]
-: A high-ranking priest of the god of music and dance, offended by one of Vishali's performances in which she mocked certain temple practices as superstitious theater. He has used his influence to have her banned from several religious festivals and counts her an offender against the temple.
+: A high-ranking priest of the god of desire and creative joy, whose arts include music and dance, offended by one of Vishali's performances in which she mocked certain temple practices as superstitious theater. He has used his influence to have her banned from several religious festivals and counts her an offender against the temple.
 
 Kulena [Malvina the Austere]{.name data-type="being/npc"}
 : A woman of a great house whose reputation Vishali devastated through a performance that highlighted her well-known hypocrisy regarding virtue and morality. Kulena Malvina has sworn that Vishali will never perform in her territories and has hired informants to track her movements.

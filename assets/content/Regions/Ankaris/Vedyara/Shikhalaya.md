@@ -96,7 +96,7 @@ The order of stations holds here and sits differently. In the highlands the dist
 
 ## Government
 
-The Maharava rules from Suryagarha, a stone citadel across the throat of the greatest of the northern passes. The crown's direct power reaches the pass-roads, the customs-houses and the terrace road down to the lowland market towns, and little further. Hereditary clan-chieftains govern the highlands proper as **Samantas**, and their loyalty is real and negotiated. Each keeps a warband sized to his clan's standing and must provide it, on demand, for the defense of the passes or for a royal campaign.
+The Maharava rules from Suryagarha, a stone citadel across the throat of the greatest of the northern passes. The crown's direct power reaches the pass-roads, the customs-houses and the terrace road down to the lowland market towns, and little further. Hereditary clan-chieftains govern the highlands proper as **Samontas**, and their loyalty is real and negotiated. Each keeps a warband sized to his clan's standing and must provide it, on demand, for the defense of the passes or for a royal campaign.
 
 Two councils advise the crown:
 
@@ -109,7 +109,7 @@ The councils can sit together only in the open season, because the chieftains of
 
 Succession is hereditary and contested. The Maharava's eldest son is the presumptive heir, but confirmation requires acclamation by the Martial Council, which has on several memorable occasions chosen a younger brother, a cousin, or once the late king's widow over the expected heir. The two councils do not at present agree about who is to be acclaimed next, and each has been arranging its business around the other long enough that everyone at court can name which side a given delay belongs to. The widow, [Jvalasundi]{.name data-type="being/npc"}, was acclaimed about 590 ([[lore-widowaccl|the Widow's Acclamation]]), and both councils argue from her reign today.
 
-The rest of the crown's household is the ordinary one of a Vedyari kingdom: the **Rojni** with her own revenues and voice, the **Yuvarava** given a province to learn on, **Mantrins** who actually run the kingdom, the **Purohata** and the **Rajagorva**, the **Senapavi** of the host, **Dandanayakas** who keep the king's justice in the districts, the **Koshadyoksha** of the treasury, the **Dutsa** and the **Ganoka**.
+The rest of the crown's household is the ordinary one of a Vedyari kingdom: the **Rojni** with her own revenues and voice, the **Yuvarava** given a province to learn on, **Montrins** who actually run the kingdom, the **Purohata** and the **Rajagorva**, the **Senapavi** of the host, **Dandanayekas** who keep the king's justice in the districts, the **Koshadyoksha** of the treasury, the **Dutsa** and the **Ganoka**.
 
 ## Above the Shrines
 
@@ -144,6 +144,12 @@ Shikhalaya holds a seat in the [[affiliation-assmblycmpct|Assembly of the Compac
 ## Outside the Ladder
 
 A person placed outside the tarona, by transgression or by birth, is excluded from the wells, the temples and the courts.
+
+## Hooks
+
+- **The hour of the acclamation.** [[being-ishbdptkshn|Ishobi Diptakshana]] has reckoned the hour for the heir's acclamation, and it falls in the closed season by the computed year and a day into the open season by the sighted one. She asks the party to bring this year's sighting down from [[place-surtatempl|the Surta temple]] before either council has it, so that her hour is given with both reckonings on the table.
+- **Glass on the terrace road.** [[being-viduliyadan|Viduliya Danasur]] wants the east window of her temple glazed, and one crate in three has reached the top of the terrace road whole. She asks the party to bring the next crates up from the river. The treasury cannot pay for them without a gift from one council or the other, and whoever pays expects to know how she speaks on the acclamation.
+- **Four letters.** The Collective's senior foreman in [[place-slvrgorges|the Silver Gorges]], [[being-shlbrvdsmndl|Shilabir Vidsamondal]], has warned [[being-tarvikatamrak|Tarvika Tamraksha]] four times in writing that the new faces below the water-line are unsafe. An elder of the smithing clans, who leased the rock and not the risk, asks the party to get copies of those letters before the lease falls due.
 
 ## See Also
 

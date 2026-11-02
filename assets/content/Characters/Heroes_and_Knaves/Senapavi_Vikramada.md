@@ -508,7 +508,7 @@ Vulnerability to Loyalty
 Captain-Merchant [[being-priturajasam|Prituraja]]
 : A successful merchant captain who employs Senapavi regularly and considers him the foundation of his trading success. Prituraja has offered Senapavi a permanent position with significant authority, which Senapavi has declined.
 
-The shipwrights of [[place-chandrmukha|Chandramukha]]
+The shipwrights of [[place-chandrmukha|the Moon-Mouth]]
 : Maintains good relationships with the yards that build Chendrapur's galleys, occasionally consulting on matters of crew management and vessel design from the standpoint of practical seamanship.
 
 [[affiliation-rasikara|Temple of Rasikara]]

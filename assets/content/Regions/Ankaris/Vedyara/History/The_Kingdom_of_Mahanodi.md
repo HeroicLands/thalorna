@@ -140,7 +140,7 @@ The people of the villages went to the senior priest of the Vyalendra temple and
 
 The villages became the Rajepur Janpoda, and one family has kept the Memory-Keeper's office since the decree. Its holder opens every session of the sabhra by reciting the kings, and on the [Day of the Dissolution]{.name data-type="lore/gathering"} each year the whole town hears the history and the decree read through and renews its compact with a cup of river water. Rajepur has kept no soldiers since.
 
-The dissolution did not stay in Rajepur. Every Vedyari course in political philosophy teaches it as the classical case of a janpoda that replaced a kingdom, and the library's correspondence shelf holds sixty years of letters about whether it should be done again. The Rajapuri scholar [[being-anrjhrshkr|Anuraja Harshakar]] writes to the kingdoms urging that it should, from [[affiliation-chendrapur|Chendrapur]], and the kingdoms have asked Chendrapur to expel him. Chendrapur has declined.
+The dissolution did not stay in Rajepur. Every Vedyari course in political philosophy teaches it as the classical case of a janpoda that replaced a kingdom, and the library's correspondence shelf holds sixty years of letters about whether it should be done again. The Rajapuri scholar [Shemapal Rajapali]{.name data-type="being/npc"} writes to the kingdoms urging that it should, from [[affiliation-chendrapur|Chendrapur]], and the kingdoms have asked Chendrapur to expel him. Chendrapur has declined.
 
 ## See Also
 

@@ -43,7 +43,7 @@ The household has taught itself that this is a kind of tithe, as a temple takes 
 ## Who Wants It
 
 - **The caravan-masters** of the march, who want the well open and ask no questions.
-- **The Maharava's martial council**, whose other Samantas know a part of it and have not been told the rest.
+- **The Maharava's martial council**, whose other Samontas know a part of it and have not been told the rest.
 - **[[affiliation-adanshreni|The Adanshreni]]**, whose road-keepers license takings on the stretch of the march road the fort watches and have noticed that no wagon has ever been stopped near it.
 - **A [[affiliation-svapnasarisameja|Svapnasari-sameja]] monastery** in the foothills, whose dream-readers have been asked by the Samonta to read a dream he cannot describe.
 

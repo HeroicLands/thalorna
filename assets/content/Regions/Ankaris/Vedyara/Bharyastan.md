@@ -13,7 +13,7 @@ data:
   governance:
     model: monarchy
     summary: >-
-      Hereditary Maharava advised by a martial council of eight valley Samantas and a priestly court of Varnuka ushtakas. The Maharava's kinsmen hold no station of their own: each keeps the tarona and kulpa marked on his wrist at birth, and the places the royal house fills, Rojni and Yuvarava, are offices.
+      Hereditary Maharava advised by a martial council of eight valley Samontas and a priestly court of Varnuka ushtakas. The Maharava's kinsmen hold no station of their own: each keeps the tarona and kulpa marked on his wrist at birth, and the places the royal house fills, Rojni and Yuvarava, are offices.
     ranks:
       - level: 0
         title: Bihra
@@ -88,7 +88,7 @@ The gold reaches nobody else on the way. It leaves the [Gold Constitution]{.name
 
 ## Government
 
-The Maharava rules with a martial council of the eight valley **Samantas** and a small priestly court drawn from the temples of the upper valleys. The Samantas are the kingdom's real weight. Several of them hold estates down on the plain below the janpoda's wedge of upland, outside Suvargeri's territory and outside its constitution. A Samonta with land in both countries is the man both courts send for when something needs settling quietly.
+The Maharava rules with a martial council of the eight valley **Samontas** and a small priestly court drawn from the temples of the upper valleys. The Samontas are the kingdom's real weight. Several of them hold estates down on the plain below the janpoda's wedge of upland, outside Suvargeri's territory and outside its constitution. A Samonta with land in both countries is the man both courts send for when something needs settling quietly.
 
 Succession is hereditary and is confirmed by the council, as it is in the larger kingdoms. The kingdom has changed hands by acclamation twice in four hundred years and by inheritance every other time. One of the two followed [[lore-hghlndwar|the Highland War]], when the council passed over an heir who had not ridden to [[place-sharamukha|Sharamukha]].
 
@@ -103,6 +103,12 @@ Bharyastan uses [[lore-vdyrnbnkng|the Vedyaran banking system]], administered th
 ## Outside the Ladder
 
 A person placed outside the tarona, by transgression or by birth, is excluded from the wells, the temples and the courts.
+
+## Hooks
+
+- **The mule in the stream.** [[being-vrnntklnt|Vrinnati Kalanat]] wants to know who moved a pack-mule and its load away from the Suvargeri bank two springs ago, the night the tribute escort split at a washed-out ford. She asks the party to ride this spring's escort and find out before the treaty's renewal is argued.
+- **Said at a fire.** [[being-snrshbhmrn|Sunarsha Bhimarna]] has said that the tribute must rise or the treaty lapse, and there are buyers for four hundred horse on the plain and in Chendrapur. Suvargeri's convening priest asks the party to learn whether he has written to any of them.
+- **The heir who has not ridden.** The Maharava is old, and his heir, the **Yuvarava** Kritakana, has never ridden the tribute road. The council has passed over an heir once before for staying home. Kritakana asks the party to ride the road with him this spring and see him come back with the escort's respect.
 
 ## See Also
 

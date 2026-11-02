@@ -120,6 +120,12 @@ Gomarga uses [[lore-vdyrnbnkng|the Vedyaran banking system]], administered throu
 
 A person placed outside the tarona, by transgression or by birth, is, on the plateau, denied the wells before anything else is denied him.
 
+## Hooks
+
+- **The old well or a new one.** [[being-gmtkryn|Gamuti Karyona]] speaks for the lineage that filled [[place-shunyakupa|the Empty Well]], and it means to clear the well. She asks the party to carry the lineage's question to the moving court and bring back the crown's answer in writing before the stones come out: is it a new well, or the old one still owed the guarantee the crown failed?
+- **Twenty nights.** [[being-blknsrtn|Balakin Saratin]] has watched the dead droveway for twenty nights and found where his beasts went into the dark. Gamuti asks the party to watch with him and to tell her what he has not.
+- **A factor at the winter wells.** The Merchant Collective has wanted a factor at the winter wells for a century. A Collective house asks the party to carry its newest offer to the **Rojni**'s standing camp and to learn, from the brokers who sell plateau cattle at the edge, what the crown would take for it.
+
 ## See Also
 
 [[place-vandyabhumi|Vandyabhumi]]

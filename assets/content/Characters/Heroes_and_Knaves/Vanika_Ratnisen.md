@@ -505,7 +505,7 @@ Master Musicianist [Madusolva]{.name data-type="being/npc"}
 ### Enemies
 
 Chef [[being-akendra2|Akendra]]
-: A celebrated and fashionable chef who specializes in exotic and novel cuisine; she views Vanika as representative of outdated culinary traditions and has publicly dismissed her work as pedestrian and artistically limited.
+: A celebrated and fashionable chef who specializes in exotic and novel cuisine; he views Vanika as representative of outdated culinary traditions and has publicly dismissed her work as pedestrian and artistically limited.
 
 [The Culinary Progressives]{.name data-type="affiliation"}
 : A movement among younger, ambitious cooks toward fashionable novelty and new techniques; they view Vanika's traditional approach as backward and resistant to the evolution of the culinary arts.

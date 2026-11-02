@@ -3,7 +3,7 @@ shortcode: bhmplraise
 name: {full: The Raising of Bhumipal}
 type: lore
 subType: history
-description: "About 325 AF the Bhumipal, Samantas of the salt coast who rode out the Storm on boats behind the spit, took the empty march, seated their court at Sandyapur, swore the first treaty with Amradad, hired the first companies and began the forts of the march road."
+description: "About 325 AF the Bhumipal, Samontas of the salt coast who rode out the Storm on boats behind the spit, took the empty march, seated their court at Sandyapur, swore the first treaty with Amradad, hired the first companies and began the forts of the march road."
 tags: [history, vedyara]
 data:
   culture: vedyariclt
@@ -14,7 +14,7 @@ data:
       depth: region
       sources: [affiliation-bhumipal, place-sandyapur, place-marchroad]
       summary: >-
-        The Bhumipal clan, Samantas of the salt coast who rode out the Storm on boats behind the spit at Sandyapur, take the march Marupal left empty. They seat their court at the far end of the road, swear the first treaty with the Kingdom of Amradad, hire the first companies and begin the forts, every one of them built with the host in mind. Kavrabira is the first Maharava, confirmed by a council of the men who built the forts.
+        The Bhumipal clan, Samontas of the salt coast who rode out the Storm on boats behind the spit at Sandyapur, take the march Marupal left empty. They seat their court at the far end of the road, swear the first treaty with the Kingdom of Amradad, hire the first companies and begin the forts, every one of them built with the host in mind. Kavrabira is the first Maharava, confirmed by a council of the men who built the forts.
       standing: attested
       where:
         locus: [place-sandyapur]
@@ -44,7 +44,7 @@ data:
 
 ## The Clan on the Spit
 
-The Bhumipal, the earth-keepers, were Samantas of the salt coast: a family with a fort, a stretch of salt pans and boats behind the spit at [[place-sandyapur|Sandyapur]]. When [[lore-hndrdbnnrs|the Storm of the Hundred Banners]] swept the march in 315, they put their people and their horses into the boats and stood off behind the spit until the host had turned west. They were the one fighting family of the march left whole.
+The Bhumipal, the earth-keepers, were Samontas of the salt coast: a family with a fort, a stretch of salt pans and boats behind the spit at [[place-sandyapur|Sandyapur]]. When [[lore-hndrdbnnrs|the Storm of the Hundred Banners]] swept the march in 315, they put their people and their horses into the boats and stood off behind the spit until the host had turned west. They were the one fighting family of the march left whole.
 
 The march was empty. Its king, [Ashvakirti]{.name data-type="being/npc"} of [Marupal]{.name data-type="affiliation/polity"}, had died with his host at [[place-lantustal|Lantustal]] ([[lore-marupalfl|the Fall of Marupal]]), and its capital, [[place-ludrapur|Ludrapur]], was ash. About 325 the clan rode up the road and held it.
 
@@ -55,7 +55,7 @@ The first Maharava, [Kavrabira]{.name data-type="being/npc"}, did four things in
 - **The court on the coast.** He kept his court at Sandyapur, where the water is reliable and the boats are. Ludrapur was never reoccupied.
 - **The treaty.** He swore the first treaty with the [[affiliation-kngdmmrdd|Kingdom of Amradad]] for the pilgrim caravans and the merchants arrested on either side. It has been renewed every generation since.
 - **The companies.** He kept no standing host. He hired companies of horse and foot by the season, Vedyari and Dunhari, and paid them out of the escort money.
-- **The forts.** He began the forts of [[place-marchroad|the march road]], one at each stage of water, and his Samantas finished them over the following generation. Every one was built with the host of 315 in mind.
+- **The forts.** He began the forts of [[place-marchroad|the March Road]], one at each stage of water, and his Samontas finished them over the following generation. Every one was built with the host of 315 in mind.
 
 The men who built the forts became the [Martial Council]{.name data-type="affiliation/governmental"} that confirmed him, and the council has confirmed every Maharava of the march since.
 

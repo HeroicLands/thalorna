@@ -1,6 +1,6 @@
 ---
 shortcode: chandrmukha
-name: {full: The Moon-Mouth, vedy: [chandramukha]}
+name: {full: The Moon-Mouth, vedy: [chendramukhva]}
 type: place
 subType: settlement
 description: "The deep-water port at the Chandramahi's mouth—the bar, the roadstead, the yards that build Chendrapur's galleys, and the one place in Vedyara the Thordimalon is licensed to stand."
@@ -19,13 +19,13 @@ data:
   government: chendrapur
 ---
 
-**Chandramukha** (16,000, market 5) stands on the seaward edge of the delta, where the last navigable channel of [[place-chandrmahi|the Chandramahi]] crosses the bar into the [[place-meghrsmdra|Meghra-samedra]]. The name means the moon's mouth, and it is the mouth of [[place-chendrapur2|Chendrapur]] in every sense that matters: nothing reaches the white city from the sea, and nothing leaves it for the sea, except through here.
+**Chendramukhva** (16,000, market 5) stands on the seaward edge of the delta, where the last navigable channel of [[place-chandrmahi|the Chandramahi]] crosses the bar into the [[place-meghrsmdra|Southern Sea]]. The name means the moon's mouth, and it is the mouth of [[place-chendrapur2|the Moon City]] in every sense that matters: nothing reaches the white city from the sea, and nothing leaves it for the sea, except through here.
 
 The town is small for what passes through it. A deep-water hull cannot cross the bar and a river craft cannot cross the open water, so everything is handled twice, and the handling is the town's whole life. The warehouses run three deep behind the quays. Behind them are the yards, the rope-walks, the sail-lofts, the chandlers and the pilots' quarter, and behind those the marsh.
 
 ## The Bar and the Roadstead
 
-The bar is the reason for the place. It shifts with every flood season, and the channel through it is surveyed after every monsoon by the pilots' shrena, whose charts are the town's most closely held property and are not sold. A master who comes in without a pilot pays the same fee and takes the same risk, and most of them take the pilot.
+The bar is the reason for the place. It shifts with every flood season, and the channel through it is surveyed after every monsoon by [[affiliation-nshrnchmk|the pilots' shrena]], whose charts are the town's most closely held property and are not sold. A master who comes in without a pilot pays the same fee and takes the same risk, and most of them take the pilot.
 
 Outside the bar is the roadstead, open water on a shelving bottom with no shelter in it at all. Deep-water hulls lie there through the working season and load from lighters. When the rains come the roadstead is untenable and every hull that can leave has left, which is why the sailing calendar and the trading calendar in Chendrapur are the same calendar.
 
@@ -43,9 +43,9 @@ The [[affiliation-ordoarcanis|Thordimalon]] keeps one licensed factor here, and 
 
 ## Stations at the Waterside
 
-The town keeps the coast's habit of ignoring station, and keeps it more thoroughly than any other port. A crew signs on at the quay and nobody asks to see a wrist. The stevedores are drawn from whoever is standing on the beach at dawn. Men who could not draw water from a well fifty miles inland handle the cargo that feeds the temples that would refuse them, and the temples of Chandramukha—there are four, all small—have long since stopped saying anything about it.
+The town keeps the coast's habit of ignoring station, and keeps it more thoroughly than any other port. A crew signs on at the quay and nobody asks to see a wrist. The stevedores are drawn from whoever is standing on the beach at dawn. Men who could not draw water from a well fifty miles inland handle the cargo that feeds the temples that would refuse them, and the temples of Chendramukhva—there are four, all small—have long since stopped saying anything about it.
 
-What the town does not have is any way for a man to stay. A deck is a place to be, not a place to belong. A runaway who reaches Chandramukha is safe until the season ends and is safe afterwards only if he sails.
+What the town does not have is any way for a man to stay. A deck is a place to be, not a place to belong. A runaway who reaches Chendramukhva is safe until the season ends and is safe afterwards only if he sails.
 
 ## See Also
 

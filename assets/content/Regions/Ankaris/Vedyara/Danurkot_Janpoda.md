@@ -141,6 +141,12 @@ Danurkot holds one of the five seats in the [[affiliation-assmblycmpct|Assembly 
 
 A person placed outside the tarona, by transgression or by birth, is excluded from the wells, the temples and the courts.
 
+## Hooks
+
+- **A field across the border.** A **Karmija** graduate of [[place-highdraw|the High Draw]] holds land in his own name inside the janpoda, as every graduate may, and has bought a field across the border in a patron kingdom whose court will not register it. He asks the party to put his case before that kingdom's Dandanayeka.
+- **A contract refused.** [[place-hiddenstring|The Hidden String]] has refused a patron kingdom's contract as dishonorable, and its master is the only judge of that. The kingdom's retainer feeds a good part of the janpoda's Sentija households, and its envoy asks the party to learn what the master knows about the contract that the envoy does not.
+- **Both hosts.** Two of Danurkot's patron kingdoms are arming against each other, and academy graduates serve in both hosts. The four masters answer together on war and have not agreed, and the senior priest of the Mahajaya temple asks the party to carry the masters' word to the graduates on both sides the day it is given.
+
 ## See Also
 
 - [[lore-hghlndfndn|The Highland Foundations]]—the founding of the four academies, dated

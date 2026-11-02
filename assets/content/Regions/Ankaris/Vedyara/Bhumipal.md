@@ -13,7 +13,7 @@ data:
   governance:
     model: monarchy
     summary: >-
-      Hereditary Maharava advised by a martial council of the Samantas who hold the road's forts and a priestly court of Varnuka ushtakas. The Maharava's kinsmen hold no station of their own: each keeps the tarona and kulpa marked on his wrist at birth, and the places the royal house fills, Rojni and Yuvarava, are offices.
+      Hereditary Maharava advised by a martial council of the Samontas who hold the road's forts and a priestly court of Varnuka ushtakas. The Maharava's kinsmen hold no station of their own: each keeps the tarona and kulpa marked on his wrist at birth, and the places the royal house fills, Rojni and Yuvarava, are offices.
     ranks:
       - level: 0
         title: Bihra
@@ -93,9 +93,9 @@ Public religion changes every fifty miles on this frontier. The orthodox temples
 
 ## Government
 
-The Maharava rules from Sandyapur. The crown's writ runs on the road, at the wells and along the coast; the herding country between belongs to the Samantas, who hold it by descent and by the forts their grandfathers built.
+The Maharava rules from Sandyapur. The crown's writ runs on the road, at the wells and along the coast; the herding country between belongs to the Samontas, who hold it by descent and by the forts their grandfathers built.
 
-- **The Martial Council** is the Samantas of the road's forts and the captains of the hired companies. It meets before each caravan season and after it.
+- **The Martial Council** is the Samontas of the road's forts and the captains of the hired companies. It meets before each caravan season and after it.
 - **The Priestly Court** is small, drawn from the town temples, and its business is succession, the calendar and the law.
 
 Succession is hereditary and is confirmed by the Martial Council, as it is in [[affiliation-shikhalaya|Shikhalaya]]. A Maharava of the march who cannot pay the companies is not deposed. He is simply not obeyed at the wells, which comes to the same thing within a season. The rest of the court holds the ordinary offices of a Vedyari crown, from the **Rojni** and the **Yuvarava** to the **Koshadyoksha** and the **Ganoka**.
@@ -139,6 +139,12 @@ The Dunhari side of the trade runs on barter and clan credit, and a caravan sett
 ## Outside the Ladder
 
 A person placed outside the tarona, by transgression or by birth, is excluded from the wells, the temples and the courts.
+
+## Hooks
+
+- **The collar's gold.** [[being-umrtdrtn|Umarti Daritan]]'s company has not been paid in full for two seasons, and a lean season is coming. The late king's gold, lapis and half-fee for an unfinished collar sit with [[being-prtmjkydr|Pritimaja Kayadara]] in [[place-chendrapur2|the Moon City]], and she asks the party to recover them and bring them to [[place-ludrapur|Ludrapur]] before the **Koshadyoksha**'s men bring them to Sandyapur.
+- **The tower's record.** The Maharava's Montrin wants to know whether the dreams recorded at [[place-svapnastambha|Svapnastambha]] show a raid coming, and the post's commander wants to sit in on the readings. [[being-drtpjdvtn|Dritapaja Devatuni]] has refused both in writing, and asks the party to carry his refusal to [[place-sandyapur|Sandyapur]] and stand by it before the court.
+- **The only letter on the sand.** [[being-svnshvrdzn|Sivanash Vardozan]] has bought every bale he can carry on his Collective letter, and if the road closes the letter is called. He asks the party to ride to the sheikhs' meeting with his offer for the tribes' surplus and keep the road open on whatever terms they take.
 
 ## See Also
 

@@ -34,6 +34,12 @@ The arrangement suits everyone who is not a tax-farmer. The crown takes the road
 
 Copper and tin north, finished Shikhalayan steel north in small quantities and at high prices, lapis and silver south out of the Gorges themselves. It is the most industrial of the six crossings and the least ceremonious. The [[place-pssshrines|Pass-Shrine]] at the summit is a small one, its ushtaka is a working priest and no scholar, and caravans have been known to take the blessing at a walk.
 
+## Hooks
+
+- **The last caravan.** Tamradvar shuts a week before Suryadvar, and the last caravan of the year is the most profitable. A Collective factor whose copper is loaded and waiting asks the party to bring his papers up from [[place-suryagarha|Suryagarha]] in time. They must satisfy the clans' gate at the top and the crown's toll at the bottom.
+- **The courier who walked south.** [[being-pydvrnt|Piyadi Viranat]] carried the clans' sealed tally down to the Collective's agent for eight years and remembers every figure called at the gate. She has walked south for the coast instead of coming back up the road. The Collective's agent asks the party to find her before she reaches [[place-chandrmukha|the Moon-Mouth]] and a hull outside the bar.
+- **Refused at the summit.** The working priest of the [[place-pssshrines|Pass-Shrine]] has refused a caravan its blessing, and its guides will not take it down unblessed. Its master asks the party to go up to the shrine and learn what the refusal concerns, since a refusal is never explained and cannot be appealed.
+
 ## See Also
 
 - [[place-slvrgorges|The Silver Gorges]] · [[place-estrnreach|the Eastern Reach]] · [[affiliation-osketguides|the Osket]]

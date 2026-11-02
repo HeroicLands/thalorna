@@ -106,7 +106,7 @@ The rest of the court fills out the ordinary offices of a Vedyari crown. The **R
 
 ## The Fleet
 
-The war-galleys at the river mouth are the only standing fighting fleet in Vedyara. Every other power on the coast hires hulls in the season it needs them and lays them off after. Chendrapur keeps its own, builds them in its own yards at [[place-chandrmukha|Chandramukha]], and mans them off its own shore.
+The war-galleys at the river mouth are the only standing fighting fleet in Vedyara. Every other power on the coast hires hulls in the season it needs them and lays them off after. Chendrapur keeps its own, builds them in its own yards at [[place-chandrmukha|the Moon-Mouth]], and mans them off its own shore.
 
 The **Nau-senapavi** commands them. He answers for the river mouth and the coast and lets the galleys out by the sailing season, and in a city that carries other cities' cargo as well as its own it is an office of consequence.
 
@@ -118,7 +118,7 @@ A galley's crew works outside the order of stations, as every crew on this coast
 
 ## Relations
 
-Chendrapur is patron to the [[affiliation-rajeprjnpd|Rajepur Janpoda]] under a formal protection arrangement nearly two centuries old, and it has declined the kingdoms' requests to expel the Rajapuri scholar who argues for more dissolutions. It buys the gold of [[affiliation-suvrgrjnpd|Suvargeri]] and the bows of [[affiliation-dnrktjnpd|Danurkot]], and stands on good terms with [[affiliation-shikhalaya|Shikhalaya]]. Its standing rival is Vyalendra, whose cloth its galleys carry under a hire neither city has ever made last more than a year. The [[affiliation-ordoarcanis|Thordimalon]] is licensed to stand at Chandramukha and nowhere else in Vedyara. It dates from the season a kingdom up the river held Rajepur's head-gate ([[lore-rjprprotct|Rajepur Under Protection]]).
+Chendrapur is patron to the [[affiliation-rajeprjnpd|Janpoda of the King's-Town]] under a formal protection arrangement nearly two centuries old, and it has declined the kingdoms' requests to expel the Rajapuri scholar who argues for more dissolutions. It buys the gold of [[affiliation-suvrgrjnpd|the Janpoda of the Gold Mountain]] and the bows of [[affiliation-dnrktjnpd|the Janpoda of the Bow-Fort]], and stands on good terms with [[affiliation-shikhalaya|Shikhalaya]]. Its standing rival is Vyalendra, whose cloth its galleys carry under a hire neither city has ever made last more than a year. The [[affiliation-ordoarcanis|Order]] is licensed to stand at Chendramukhva and nowhere else in Vedyara. It dates from the season a kingdom up the river held Rajepur's head-gate ([[lore-rjprprotct|Rajepur Under Protection]]).
 
 ## Commerce and Currency
 
@@ -128,6 +128,12 @@ Chendrapur strikes Vedyara's silver and gold. The Moon House strikes the silver 
 
 A person placed outside the tarona, by transgression or by birth, is excluded from the wells, the temples and the courts.
 
+## Hooks
+
+- **Unconfirmed.** The temples have neither confirmed nor refused [[being-vjrtnsrntk|Vajratan Sirnataka]] as Nau-senapavi in three years, and the Nine Houses have three candidates of their own for the fleet. Vyalendra has offered its Triyacharya's voice for him in exchange for a fixed hire. He asks the party to learn which of the Nine is pressing the Purohata before he answers.
+- **A day apart.** The Ganoka gives the hour of the season's first sailing by [[affiliation-ganokashalda|the college]]'s computed year, and the Purohata holds it by the Surta temple's sighting, a day later. [[being-darmejadar|Darmeja Daranir]], who means to be first over the bar, asks the party to learn which the Maharava declares before the pilots' queue forms.
+- **Where the money went.** A factor of one of the Nine Houses has died in his counting-room with a season's receipts unaccounted for. No warrant lets a [[affiliation-thresholdkeepers|Threshold-keepers]] ask a dead factor where the money went, and the house's Kulena asks the party to find a keeper who puts the question as one of inheritance before the pyre is lit.
+
 ## See Also
 
 [[place-chendrapurland|Chendrapur Land]]
@@ -136,7 +142,7 @@ A person placed outside the tarona, by transgression or by birth, is excluded fr
 [[place-chendrapur2|Chendrapur]]
 : the city itself
 
-[[place-chandrmukha|Chandramukha]]
+[[place-chandrmukha|Chendramukhva]]
 : the port at the river's mouth and the fleet's base
 
 [[place-moonhouse|The Moon House]]

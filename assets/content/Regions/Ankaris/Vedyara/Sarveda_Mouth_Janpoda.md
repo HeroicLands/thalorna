@@ -73,3 +73,9 @@ sohl: {system: {commonSkills: [vedyarlng]}}
 The **Sarveda Mouth Janpoda** is the janpoda in which [[place-naughat|Naughat]] sits. The landing is held by the temple of [[affiliation-mahajaya|Mahajaya]] at the town and by the sabhra of the janpoda, and the anchorage dues are the sabhra's largest single revenue.
 
 The janpoda burns its dead at [[place-dahanaghat|Dahanaghat]], the stair on the north bank a mile above the town.
+
+## Hooks
+
+- **Paid and argued.** A master pays the anchorage dues at [[place-naughat|Naughat]] on arrival and argues about them afterward. One has sailed without paying at all, and the sabhra asks the party to collect from him at his next port before the bar closes for the rains.
+- **Two holders of one landing.** The temple of Mahajaya and the sabhra hold the landing between them, and the dues are the sabhra's largest revenue. The temple has asked for a larger share, and the sabhra's convening priest asks the party to find the agreement that divides them among the temple's records.
+- **Caught inside the bar.** The rains have closed the bar with a coasting ship still inside, her cargo bound for [[place-chendrapur2|the Moon City]]. Her master asks the party to take the cargo overland while the warehouse street stands empty.

@@ -25,5 +25,5 @@ The river is one of the four pilgrim-circuits by which the janpodas are seated a
 ## See Also
 
 - [[place-chandrprbh|Chandraprabhava]] · [[place-sthrnwall|the Southern Wall]] · [[place-vedyarargn|Vedyara Region]]
-- [[place-chendrapur2|Chendrapur]] · [[place-chandrmukha|Chandramukha]]
+- [[place-chendrapur2|Chendrapur]] · [[place-chandrmukha|Chendramukhva]]
 - [[place-sarvedarivr|The Sarveda]] · [[place-mahanodi|the Mahanodi]] · [[place-bharavarivr|the Bharava]]

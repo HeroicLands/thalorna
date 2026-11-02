@@ -29,7 +29,7 @@ Chendrapur
 
 ## The Present
 
-The age's quarrels are a traveler's quarrels: the Shikhalayan councils at odds over the next acclamation, [[being-anrjhrshkr|Anuraja Harshakar]]'s letters urging further dissolutions, the succession to [[place-sangema|Sangema]]'s convening priest before the next [Mahva-Melka]{.name data-type="lore/gathering"}, and a spring that froze and was not recorded.
+The age's quarrels are a traveler's quarrels: the Shikhalayan councils at odds over the next acclamation, [Shemapal Rajapali]{.name data-type="being/npc"}'s letters urging further dissolutions, the succession to [[place-sangema|Sangema]]'s convening priest before the next [Mahva-Melka]{.name data-type="lore/gathering"}, and a spring that froze and was not recorded.
 
 ## See Also
 

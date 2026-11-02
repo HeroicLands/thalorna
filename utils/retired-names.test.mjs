@@ -47,6 +47,7 @@ export const RETIRED = [
     { retired: ["Aethería", "Aetheria"], replacement: "Zûnêlâs", scope: "corpus" },
     { retired: ["Múrkír", "Murkir", "Múrkían"], replacement: "Pôzêrâs", scope: "corpus" },
     { retired: ["Jánite", "Jánites"], replacement: "Árdavan", scope: "corpus" },
+    { retired: ["Samantas"], replacement: "Samontas", scope: "corpus" },
     {
         retired: ["Thánatic", "Thanatine", "Thanatines", "Thánatan"],
         replacement: "Sélmoran",
@@ -99,6 +100,11 @@ export const RETIRED = [
             "assets/content/Characters/Heroes_and_Knaves/Vrildmyl_Hrafansvald.md",
             "assets/content/Characters/Heroes_of_Asguard/Dvurnvir_the_Shaper.md",
         ],
+    },
+    {
+        retired: ["Amrita"],
+        replacement: "Shrimeti",
+        scope: ["assets/content/Characters/Heroes_and_Knaves/Pritarika_Padmadiksha.md"],
     },
     {
         retired: ["Vasilis"],
@@ -322,6 +328,7 @@ export const RETIRED = [
             "assets/content/Regions/Ankaris/Velanthia/Velanthia_Region.md",
         ],
     },
+    { retired: ["Chandramukha"], replacement: "Chendramukhva", scope: "corpus" },
     {
         retired: ["Karanat", "Dubzar", "Zamir-Kar"],
         replacement: "Sowides well names",

@@ -30,6 +30,12 @@ The [[affiliation-tantsouempr|Empire of Tantsou]]'s official position is that th
 
 This is [[affiliation-hvarnguides|Hvarn ground]]. The Hvarn work the eastern crossings as [[affiliation-osketguides|the Osket]] work the western, are a smaller people, and are on noticeably better terms with the temple-republics than with the kingdom—[[place-sangrafort|the Sangra-fort]] two passes east is supplied through Hvarn hands, and everyone on both sides finds it convenient not to discuss what that costs.
 
+## Hooks
+
+- **Instruments for the far side.** A reckoner of the [[affiliation-ganokashalda|Reckoners' College]] must take a case of instruments over to a colleague beyond the wall, and the case will not survive a fall. He asks the party to carry it with him and bring it to the way-station whole.
+- **How the register is kept.** Vedyari visitors to the Tantsou way-station are fed, housed and never shown its register. A Shikhalayan Dutsa, who wants to know why a frontier that calls the shrenis of no consequence keeps one, asks the party to winter at the station and learn how it is kept and who reads it.
+- **What the fort costs.** The [[place-sangrafort|Sangra-fort]] two passes east is supplied through Hvarn hands, and nobody on either side discusses what that costs. A treasurer of the Bharava circuit, whose janpodas pay for the fort, asks the party to cross by this road with the Hvarn and learn what the contract buys besides grain.
+
 ## See Also
 
 - [[place-estrnreach|The Eastern Reach]] · [[place-shankhadvr|Shankhadvar]] · [[place-pssshrines|the Pass-Shrines]]

@@ -20,7 +20,7 @@ The slate floor is the college, [[affiliation-ganokashalda|Ganoka-shalda]]. Its 
 
 ## What It Computes
 
-The tide tables for the bar at [[place-chandrmukha|Chandramukha]], which the pilots' shrena buys and which are the college's steadiest revenue. The eclipse tables, which nobody buys and which every court wants. The hour and the day of the civil year. The date of a [Weighing]{.name data-type="lore/custom"}, when the gold is counted against the coin. And the accounts of about forty courts, kept by graduates who were trained here and who send their difficult questions back.
+The tide tables for the bar at [[place-chandrmukha|the Moon-Mouth]], which the pilots' shrena buys and which are the college's steadiest revenue. The eclipse tables, which nobody buys and which every court wants. The hour and the day of the civil year. The date of a [Weighing]{.name data-type="lore/custom"}, when the gold is counted against the coin. And the accounts of about forty courts, kept by graduates who were trained here and who send their difficult questions back.
 
 The notation is the college's own and is unreadable without the syllabary, which the college teaches and does not sell. That is not secrecy about the results—the results are published and argued over—but about the working, and the distinction matters to the reckoners a great deal more than it does to anybody else.
 
@@ -39,7 +39,7 @@ Anybody may stand in the hall and listen, and the college charges nothing for it
 [[place-chendrapur2|Chendrapur]]
 : the city
 
-[[place-chandrmukha|Chandramukha]]
+[[place-chandrmukha|Chendramukhva]]
 : the bar whose tides it tables
 
 [[place-surtatempl|The Surta temple]]

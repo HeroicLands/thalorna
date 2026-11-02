@@ -145,6 +145,12 @@ A janpoda strikes no coin. Its traders carry whichever city's or kingdom's coin 
 
 A person placed outside the tarona, by transgression or by birth, is excluded from the wells, the temples and the courts.
 
+## Hooks
+
+- **The next Sabhapavi.** The next Mahva-Melka is Mahaprasoda's last as convening priest, and a joint word of the Council of Three carries near-universal weight. A janpoda's Dutsa asks the party to learn, before the thirty days of observance begin, which candidate the senior priests of [[place-surtatempl|the Surta temple]] and [[place-bhrnytemple|Bharanya]] favor.
+- **Tirnugram's land.** The descendants of Tirnugram have never accepted the division of its land, and mean to raise it again in the last ten days. They ask the party to find, in the roll at [[place-sangema|Sangema]], the entry of the Melka of 320 that mourned it, and what was said of the land beside it.
+- **Which water.** A border janpoda's circuit has been in litigation at Sangema for generations, and the roll is read at the coming Melka. Its sabhra asks the party to find an old survey among the copyists of [[place-dirmapur|Dirmapur]] that shows which river its fields drink.
+
 ## See Also
 
 [[place-vedyarargn|Vedyara Region]]

@@ -162,6 +162,12 @@ Suvargeri's gold leaves the territory as the tribute weighed out to Bharyastan a
 
 A person placed outside the tarona, by transgression or by birth, is excluded from the wells, the temples and the courts.
 
+## Hooks
+
+- **The Padmadiksha seat.** [[being-jayarshapadm|Jayarsha Padmadiksha]] means to name his daughter to the family's seat among the Twenty-Eight while he is alive to defend it, and no woman has sat at that table. He asks the party to learn what his nephew Rajabar has promised to which of the other twenty-seven before the quarterly meeting.
+- **More than twelve ounces.** A buyer at the edge of the territory is selling more gold to the coast than the distribution share explains. The sabhra's representatives at [[place-weighingstn|the weighing-station]] ask the party to trace it back, since a buyer so well supplied is buying from a household that holds more than the cap allows.
+- **A light moon.** Checked against the [[affiliation-ganokashalda|Reckoners' College]]'s assay constants, last moon's gold reads lighter than the panning families' own count. Podmashri Kaneka-Hasta asks the party to bring an examiner up from Chendrapur before the new moon, when the figure must be read aloud at the rail.
+
 ## See Also
 
 [[lore-hghlndfndn|The Highland Foundations]]

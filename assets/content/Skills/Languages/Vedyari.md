@@ -7680,7 +7680,7 @@ data:
       position: closing
       kind: place
       sense: "a mouth, of a river or a pass"
-      examples: [chandramukha]
+      examples: [chendramukhva]
     - form: prabhana
       position: closing
       kind: place
@@ -7986,7 +7986,7 @@ data:
     - {name: The March, tongue: translation}
     - {name: The Bow-Fort, tongue: translation}
     - {name: chandramahi, tongue: vedyari, built: [chendra, mahvi]}
-    - {name: chandramukha, tongue: vedyari, built: [chendra, mukhva]}
+    - {name: chendramukhva, tongue: vedyari, built: [chendra, mukhva]}
     - {name: The Moon-Mouth, tongue: translation}
     - {name: chandraprabhava, tongue: vedyari, built: [chendra, prabhana]}
     - {name: chendrapur, tongue: vedyari, built: [chendra, pur]}
@@ -8348,9 +8348,6 @@ data:
     - {form: Danaja, instead: Danhija, why: the station name is the stem danha with -ija}
     - {form: Senaja, instead: Sentija, why: the station name is the stem senta with -ija}
     - {form: Retuja, instead: Ritrija, why: the station name is the stem ritru with -ija}
-    - {form: Danhija, instead: Danhija, why: the station name is the stem danha with -ija}
-    - {form: Sentija, instead: Sentija, why: the station name is the stem senta with -ija}
-    - {form: Ritrija, instead: Ritrija, why: the station name is the stem ritru with -ija}
     - {form: Vindhyālaya, instead: Shikhalaya, why: "the Vindhya, a mountain range of Earth"}
     - {form: Vindhyan, instead: Shikhalayan, why: "the Vindhya, a mountain range of Earth"}
     - {form: Vindhya, why: a mountain range of Earth}
@@ -8365,6 +8362,9 @@ data:
     - {form: Mahādheva, instead: Mahakirti, why: a name of an Earth god}
     - {form: Mahādhevavikramapāl, why: a name of an Earth god}
     - {form: brahmadeya, why: an Earth term for a grant of land to priests}
+    - form: Chandramukha
+      instead: Chendramukhva
+      why: a whole word of the culture's model language
     - {form: Rāmachandra, why: an Earth god}
     - {form: Rāvana, why: a figure of Earth epic}
     - {form: Rāmānujaśekhara, why: an Earth saint}
@@ -8398,6 +8398,7 @@ data:
     - {form: Sabhāsad, instead: Sabhasadaka, why: "closes on `d`, which no word closes on"}
     - {form: Vyāndran, instead: Vyalendran, why: not the adjective the suffixes make of the name}
     - {form: Candra, instead: Chendra, why: "`c` is the scholars' letter for `ch`"}
+    - {form: Amrita, instead: Shrimeti, why: a whole word of the culture's model language}
     - form: Vaidyavallabha
       instead: Ghotranyasa
       why: "an Earth phrase, the title of a book of Earth"
@@ -8624,20 +8625,20 @@ Classical Vedyari remains largely frozen in literature and formal address, but v
 
 ## Regional Dialects
 
-### Northern Vedyarian (Varcine Region)
+### Northern Vedyarian (Grazian Highlands and the Shikhalaya)
 
 - Retains more conservative pronunciation
 - Preserves older endings
 - Stress patterns follow classical norms (the second-to-last syllable receives primary stress)
 
-### Southern Vedyarian (Coastlands & Trading Cities)
+### Southern Vedyarian (Chendrapur and the Eastern Ports)
 
 - More rapid speech; intervocalic lenition more pronounced
 - Inflectional endings frequently reduced to single vowels
 - Stress shift: increasing tendency toward word-initial stress in compounds
 - Greater borrowing from neighboring linguistic systems
 
-### Eastern Outlier Dialect (Remote Merchant Colonies)
+### Eastern Outlier Dialect (Surta-samedra Island Colonies)
 
 - Extreme simplification of agreement
 - Loss of gender distinctions in some contexts

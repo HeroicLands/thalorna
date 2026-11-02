@@ -125,7 +125,7 @@ In a drought year, [[place-madukupa|Madukupa]] is the only place in the foothill
 
 - _Lead them out._ The stair is long, and the sleepers are weak.
 - _Take the cache._ The grandfather left a chest on the lowest ledge, with a purse of chendra, a string of tomra and a bundle of cloth that has kept its colour.
-- _Tell the council._ The three wells that share the seam belong to Samantas of the Maharava's martial council, who have their own reasons to keep the secret. The party's choice of what to tell them shapes the march.
+- _Tell the council._ The three wells that share the seam belong to Samontas of the Maharava's martial council, who have their own reasons to keep the secret. The party's choice of what to tell them shapes the march.
 - _Keep it quiet._ A pledge of silence to the Samonta, in return for the fort's protection, buys the party a favor in the foothills.
 
 **Clues and rewards.** The cache is modest, a purse of silver and some cloth. The sleepers are the true reward: a household's worth of living people, most of them thought dead, and a mother who finds her son.

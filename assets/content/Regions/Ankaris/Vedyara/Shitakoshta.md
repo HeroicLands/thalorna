@@ -22,12 +22,13 @@ Nothing else about the room is unusual. It is cold, which a stone cellar is; it 
 
 The kingdom-period originals: the dynastic chronicle in the hand it was first written in, the treaties with polities that no longer exist, and the dissolution decree itself, which is read out once a year at the [Day of the Dissolution]{.name data-type="lore/gathering"} and returned to the room the same evening.
 
-It also holds the correspondence shelf, which is where [[being-anrjhrshkr|Anuraja Harshakar]]'s letters about further dissolutions are kept, because the room is the driest in the complex and for no other reason.
+It also holds the correspondence shelf, which is where [Shemapal Rajapali]{.name data-type="being/npc"}'s letters about further dissolutions are kept, because the room is the driest in the complex and for no other reason.
 
 The keeper who knows the room's virtue to a day has never had occasion to think about the wall. It is the north wall, it is cold, and the leaves last. Visiting scholars are told which room the originals are in and are not told why.
 
 ## See Also
 
 - [[place-rajavalilib|The Rajavali Library]]—the archive it is the oldest part of
-- [[place-himashila|Himashila]] · [[place-shunydvar|Shunyadvar]]—the other bodies of the same substance
+- [[place-himashila|Himashila]]—the warm slab at the head of the Chandramahi
+- [[place-shunydvar|The Empty Door]]—the standing wall with an oval opening on the Guides' Road
 - [[place-rajepur|Rajepur]]

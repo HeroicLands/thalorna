@@ -51,7 +51,7 @@ The sabhra signed a formal protection with the city in the same year. Chendrapur
 
 - **The walled head-gate.** Khandapur's gate-house was walled after the season, and the village has kept the gate and its wall since.
 - **The patron.** Rajepur's first answer to any threat is an appeal to Chendrapur; its second is the [[affiliation-janpdsvdyr|Mahva-Sangra's disapproval]]; its third is the floodplain in the wet season.
-- **The scholar.** Chendrapur's patronage is the reason [[being-anrjhrshkr|Anuraja Harshakar]], a Rajapuri who argues for further dissolutions, writes his letters from the city, and the reason the city declines to expel him.
+- **The scholar.** Chendrapur's patronage is the reason [Shemapal Rajapali]{.name data-type="being/npc"}, a Rajapuri who argues for further dissolutions, writes his letters from the city, and the reason the city declines to expel him.
 
 ## See Also
 

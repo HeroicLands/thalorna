@@ -57,13 +57,13 @@ The valley is the gem-road. It climbs behind the city along the last hundred mil
 
 The floodplain is the delta itself, two rice crops a year on ground the river remakes, with cotton on the drier back-country. It is the most productive land in the city-state and the least regarded, because nothing that grows on it is worth what a cut stone is worth.
 
-The shore runs east and west from the river mouth: salt-pans behind the dunes, fishing beaches, and the boat-timber the yards at [[place-chandrmukha|Chandramukha]] consume. The shore villages are the poorest in the land and the least attached to it, because a man on that coast can always go to sea.
+The shore runs east and west from the river mouth: salt-pans behind the dunes, fishing beaches, and the boat-timber the yards at [[place-chandrmukha|the Moon-Mouth]] consume. The shore villages are the poorest in the land and the least attached to it, because a man on that coast can always go to sea.
 
 ## Economy
 
 The gem trade organizes the whole land. Rough stone arrives at the city from mines across [[place-vedyarargn|Vedyara]] and beyond; the cutting, polishing and setting are done in the city and in the valley villages that have specialized in one stage of the work for centuries; the finished pieces leave by sea. Around that runs an ordinary and very productive delta economy—two rice crops on the floodplain, cotton on the drier ground behind it, salt from the pans, and the fish and the boat-timber of the shore.
 
-The river mouth is the other half of it. The fleet lies at Chandramukha, and the sailing season governs the land's year as firmly as the monsoon governs its planting.
+The river mouth is the other half of it. The fleet lies at Chendramukhva, and the sailing season governs the land's year as firmly as the monsoon governs its planting.
 
 ## See Also
 
@@ -73,7 +73,7 @@ The river mouth is the other half of it. The fleet lies at Chandramukha, and the
 [[place-chendrapur2|Chendrapur]]
 : the city itself
 
-[[place-chandrmukha|Chandramukha]]
+[[place-chandrmukha|Chendramukhva]]
 : the port at the river's mouth
 
 [[place-chandrmahi|The Chandramahi]]
