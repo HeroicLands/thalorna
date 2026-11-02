@@ -4,7 +4,7 @@ name: {full: Oroqidur}
 type: affiliation
 subType: polity
 description: "A small tribe of the deep desert that keeps a hidden oasis, holds prophecies of the stars and sends its rangers out to find the lost."
-tags: [draft]
+tags: []
 data:
   culture: sowidesclt
   templatePriority: null
@@ -58,11 +58,25 @@ data:
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
 
-The **Oroqidur** are a small [[lore-sowidesclt|Sovidur]] tribe of the remote reaches of the [[place-khzryndsrtrgn|Khazryn]], counted among the [[affiliation-rwlstrb|Uruvolur]] because they keep waters nobody else knows. Their country lies far from the road and near nothing, and a rider who finds a Oroqidur camp has been led to it.
+The **Oroqidur** are a small [[lore-sowidesclt|Sovidur]] tribe of the deep sands of the [[place-hskrrgn|Ghoshiqor]], the central range of the [[place-khzryndsrtrgn|Khazryn]], counted among the [[affiliation-rwlstrb|Uruvolur]] because they keep waters nobody else knows. Their country lies far from the road and near nothing, and a rider who finds an Oroqidur camp has been led to it.
+
+## The Hidden Oasis
+
+The tribe's water is one oasis in the sand seas, on no master's list and in no tribe's tally of wells: a pool under palms in a hollow between dunes, with a few seeps round it that the herds drink from in the dry months. The Oroqidur call it only the water. Its place is learned on foot, by a child walking it with an elder in stages over several years, and the tribe has never let a stranger walk out of it knowing the way.
+
+The Oroqidur are perhaps forty families, and the oasis holds them all for part of the year. They herd camels and goats, which can live on what the dunes grow, and keep few horses.
+
+## The Round of the Year
+
+The whole tribe gathers at the oasis on the first night of the grass, in spring, when the eldest sings [[lore-waterunder|the Buried Water]] round the pool and the children learn where the stars stand. The families stay through the heat of summer, when no one sensible moves on the sand. In autumn and winter they go out in small parties with the herds to the seeps and the far grazing, and the rangers ride the sands in pairs.
 
 ## Rangers and the Jackal
 
 The Oroqidur are known for their rangers, who patrol the tribe's waters on foot and on camel and read the desert as a hunter reads a forest. The best known is [[being-atenhershr|Atazkharu]], called the Silent Jackal, a tracker who found a wanderer deep in the sand after the first of his visions and carried him to a hidden oasis. The Oroqidur hold the [Jackal Spirit]{.name data-type="lore/spirit"} to be the protector of wanderers, and a ranger who finds a lost traveler acts for the spirit.
+
+## The Dovaq
+
+The dovaq is [Evurlun Oroqidur]{.name data-type="being/npc"}, whose given name means sky. She is the tribe's best reader of the stars after its eldest singer, and she was chosen for that as much as for her line. The tribe has a handful of lineages and a moot that fits round one fire, and Evurlun speaks last at it as every dovaq does.
 
 ## Prophecy
 
@@ -70,7 +84,20 @@ The Oroqidur keep prophecies of their own, handed down in song and tied to the m
 
 ## Strangers
 
-A stranger who reaches a Oroqidur water without the tribe's leave is held and questioned, and may be killed. A stranger the Oroqidur carry there themselves is a guest. The difference is the whole of their hospitality, and a man rescued by a Oroqidur ranger is bound never to tell anyone the way back.
+A stranger who reaches an Oroqidur water without the tribe's leave is held and questioned, and may be killed. A stranger the Oroqidur carry there themselves is a guest. The difference is the whole of their hospitality, and a man rescued by an Oroqidur ranger is bound never to tell anyone the way back.
+
+## The Road
+
+The Oroqidur sell nothing on [[lore-celestialroad|the Celestial Road]] and take no toll. What they give the road is its lost: a string that left the track in a sandstorm, a guide who died on his stretch, a factor who walked off from the halt in the night. A ranger who finds one brings the living to the nearest owned well and the dead to the laying-out, and asks no price. The tribe counts what it is owed in another way, and a rescued traveler learns in time that the Oroqidur may one day ask for a service and that the asking will not be a request.
+
+## Raids and Fears
+
+The Oroqidur raid nobody, and nobody raids a tribe that nobody can find. What they fear is being found. A stranger who has seen the water and might find it again is the one danger the tribe takes steps against, and a rescued guest is watched for years after he leaves.
+
+## Hooks
+
+- A traveler the Oroqidur carried to their water and sent home under oath has been offered a fortune at [[place-qisomrktcmp|Qiiso]] for the way back. He has asked a party to help him refuse, and the buyer has asked the same party to help him accept.
+- A clerk of [[place-kethramir|Kethramír]] holds a written copy of the Buried Water, the only one the Oroqidur know of, which he had from one of their rangers in return for a service he does not describe. Evurlun wants to know who else has read it.
 
 ## See Also
 
@@ -80,5 +107,11 @@ A stranger who reaches a Oroqidur water without the tribe's leave is held and qu
 [[affiliation-rwlstrb|Uruvolur]]
 : the hidden-water bands to which the Oroqidur belong
 
-[[place-khzryndsrtrgn|Khazryn Desert Region]]
-: the country the tribe keeps
+[[lore-waterunder|The Buried Water]]
+: the star-song the tribe sings at its water
+
+[[place-hskrrgn|Ghoshiqor]]
+: the sand range the tribe keeps
+
+[[lore-celestialroad|The Celestial Road]]
+: the road whose lost the rangers find

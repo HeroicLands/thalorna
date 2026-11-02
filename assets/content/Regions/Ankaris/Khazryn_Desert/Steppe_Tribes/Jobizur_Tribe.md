@@ -4,7 +4,7 @@ name: {full: Jobizur}
 type: affiliation
 subType: polity
 description: "The largest tribe of the central steppe, holding the northern grass and taking in the families of smaller tribes in bad years."
-tags: [draft]
+tags: []
 data:
   culture: sowidesclt
   templatePriority: null
@@ -58,19 +58,44 @@ data:
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
 
-The **Jobizur** are the largest of the tribes that share the central steppe, and the one smaller tribes look to when a drought comes. They hold the northern grass of the [[place-khzryndsrtrgn|Khazryn]] and more wells than the [[affiliation-ksrrtrb|Koserur]] to their south can count. A [[lore-sowidesclt|Sovidur]] tribe with that much water does not have to raid, and the Jobizur seldom do.
+The **Jobizur** are the largest of the tribes that share the central steppe, and the one smaller tribes look to when a drought comes. They hold the northern grass of the [[place-hskrrgn|Ghoshiqor]], in the [[place-khzryndsrtrgn|Khazryn]], and more wells than the [[affiliation-ksrrtrb|Koserur]] to their south can count. A [[lore-sowidesclt|Sovidur]] tribe with that much water does not have to raid, and the Jobizur seldom do.
+
+## The Range
+
+The Jobizur grass runs north from the edge of the [[place-qisomrktcmp|Qiiso]] grazing to the place where the steppe thins into moss and the first spruce of [[place-gwtkrrgn|Ghotaqor]] stand in the hollows. It is the best grass in the central range, higher and wetter than the reaches round the market-camp, and the northern branch of [[lore-celestialroad|the Celestial Road]] crosses it on its way down from [[place-velanthrgn|Velanthia]].
+
+The tribe owns more than a dozen wells. The chief of them is [Ekon]{.name data-type="place/site"}, "the mother", the deepest of the stone wells in the lee of a black mesa on the southern grass, where the moot sits and the winter camps stand. The rest lie along the north-south circuit a day or two apart, each with the Jobizur sign over it, and the summer camps on the high grass draw from seeps and creeks that run until midsummer.
 
 ## How the Tribe Lives
 
-The Jobizur keep horses first and camels second. The tribe moves in a long north-south circuit, wintering at the stone wells and summering on the high grass, and its scouts ride the borders with the Koserur and the other neighbors every season. The scouts probe and do not strike, and the Koserur read the pressure as a reminder of who could.
+The Jobizur keep horses first and camels second. The tribe moves in a long north-south circuit, wintering at the stone wells round Ekon and summering on the high grass, and its scouts ride the borders with the Koserur and the other neighbors every season. The scouts probe and do not strike, and the Koserur read the pressure as a reminder of who could.
+
+In spring the riders come down to the branch to sell passage to the fur and amber strings coming from Velanthia, and they guide the strings across the Jobizur grass to Qiiso. In summer a Jobizur party goes north to the forest edge with salt, felt and iron, and comes back with the sable, marten and ermine of the Ghotaqor hunting bands, which the Jobizur sell at the autumn market. No tribe of the steppe deals with the forest bands more often, and a Jobizur rider is the one face from the south that every band knows.
 
 A circle of shamans advises the dovaq on the weather, the rites and the moving of the camps, and the circle can halt a migration for an omen. [[being-rznshmrvrn|Razanash Mervaran]], a shaman of the tribe, is its best-known healer and diviner in the south, where the oasis cities hold few of her own people.
+
+## The Dovaq
+
+The dovaq is [[being-khilodlunbii|Khilodlun Biilokur]], a weathered woman in her fifties. She was born to a family of the [Biilokur]{.name data-type="affiliation/polity"} that came in to the Jobizur in a bad year, and the Jobizur let taken-in families keep the tribe-name they arrived with for as long as they choose. Hers is the first such family to give the tribe a dovaq. She consults Razanash before the elders, and the elders let her, because the herds have been fat in every year of her office.
 
 ## Taking In
 
 The Jobizur grow by receiving. Three Koserur families who left in the last bad year found land, herds and a seat in the moot waiting for them, and the Jobizur are now in quiet talks with the Koserur dovaq about a protection that would end the Koserur's independence in all but name. The Sovidur write nothing, so the terms are spoken before witnesses and held in their memory, and a witnessed term is harder to break than a written one.
 
-Riders on other wells watch the pattern with unease. A tribe that takes in vassals one family at a time resembles an orghun before he has a banner, and the tribes that remember the last orghun watch an Jobizur dovaq who counts his dependents.
+The pattern alarms the other tribes of the central steppe. A tribe that takes in vassals one family at a time resembles an orghun before he has a banner, and the elders who remember the last orghun count Khilodlun's dependents as closely as she does.
+
+## Caravans
+
+A caravan on the northern branch buys passage from the Jobizur at the edge of their grass and pays it in amber or silver by weight. It gets a rider for the four or five days across the grass, water at the named wells on the branch and the Jobizur token. The price is low and the riders are the easiest company on the steppe, because the Jobizur want the strings to come back.
+
+## Raids and Fears
+
+The Jobizur raid seldom, and only to answer a raid. They fear three things: a winter that closes the north grass early and drives the herds onto Ekon before the grass round it is ready; the forest itself, whose bogs take a horse to the hock in autumn; and the day the other tribes decide that the Jobizur are an orghunoq in the making and ride against them together.
+
+## Hooks
+
+- Khilodlun wants a witness from outside the steppe to the spoken terms of the Koserur protection, because the Koserur trust no witness from another tribe. A witness who hears the terms becomes a party to them, and the Koserur warband will want to know what was said.
+- The Jobizur fur party that went north to the forest bands this summer is a month overdue. Its leader carried the tribe's salt and the dovaq's gift to a band that has never failed to send the party home.
 
 ## See Also
 
@@ -83,5 +108,11 @@ Riders on other wells watch the pattern with unease. A tribe that takes in vassa
 [[affiliation-kndrtrb|Kenodur]], [[affiliation-qbdrtrb|Qibudur]]
 : the other great tribes of the central steppe
 
-[[place-khzryndsrtrgn|Khazryn Desert Region]]
-: the country the tribe grazes
+[[place-hskrrgn|Ghoshiqor]]
+: the central range, whose northern grass the tribe grazes
+
+[[place-gwtkrrgn|Ghotaqor]]
+: the forest to the north, and the hunting bands the tribe trades with
+
+[[lore-celestialroad|The Celestial Road]]
+: the road and its northern branch from Velanthia

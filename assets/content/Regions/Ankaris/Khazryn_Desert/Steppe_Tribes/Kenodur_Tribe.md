@@ -4,7 +4,7 @@ name: {full: Kenodur}
 type: affiliation
 subType: polity
 description: "A raiding tribe of the southern steppe that takes captives for ransom and measures its neighbors by what they cannot defend."
-tags: [draft]
+tags: []
 data:
   culture: sowidesclt
   templatePriority: null
@@ -53,24 +53,49 @@ data:
   economy: [lore-bartercnmy, lore-kinhalcrdt]
   lore: [humanflk]
   parents: []
-  relations: {ksrrtrb: nemesis}
+  relations: {ksrrtrb: nemesis, qbdrtrb: rival}
   packFolder: khazryndesert
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
 
 The **Kenodur** hold the grass south of the [[affiliation-ksrrtrb|Koserur]], and they take what the Koserur cannot defend. They are the [[lore-sowidesclt|Sovidur]] tribe that the others point to as raiding done as a trade: a riding party strikes a distant graze, drives off the herds and takes the people who tend them, then sends a rider with the price. A captive among the Kenodur is fed and not harmed, and a captive whose kin cannot pay is married into the tribe.
 
+## The Range
+
+The Kenodur range is the southern grass of the [[place-hskrrgn|Ghoshiqor]], in the [[place-khzryndsrtrgn|Khazryn]], from the Koserur's southern graze down the southern spur of [[lore-celestialroad|the Celestial Road]] to the black rock where [[place-dkrqrrgn|Diqraqor]] begins. Their central well is [Lushiq]{.name data-type="place/site"}, "the ransom", a name the other tribes gave it and the Kenodur took up. It lies about thirty miles beyond the Koserur border, a deep shaft in a hollow of thin grass with the dovaq's tents round it, and the captives from the southern graze are held in the camps on its grass.
+
+Their other water is the well in the square of [[place-qimod|Qiimod]], four days down the spur from [[place-qisomrktcmp|Qiiso]]. The Kenodur draw it by rope from outside the gate and never camp within sight of the walls. They take nothing from the dead town, because nothing they have taken from it has stayed theirs.
+
+## The Round of the Year
+
+The Kenodur winter in the ravines at the northern edge of Diqraqor, where the rock breaks the wind and the seeps do not freeze. In spring and autumn they come up onto the spur to meet the strings bound to and from the [[place-swoasisbelt|Tellumel]], and the families with the best riders camp at the mouth of the gap at Qiimod. In summer the whole tribe gathers on the grass round Lushiq, and that is the season the riding parties go out.
+
+## The Dovaq
+
+The dovaq is [Kharulun Kenodur]{.name data-type="being/npc"}, a woman past sixty whose given name means patience, and she has earned it. She has never sent a rider after a ransom that was late, and she has never lowered a price. Her son is the young man the Kenodur have put forward for the marriage offer below. The moot follows her because every price she has set has been paid in the end.
+
 ## The Price
 
-The Kenodur's demand on the Koserur is fifty horses, a share of the central well at [Shir-Van]{.name data-type="place/site"} and permanent grazing on the southern steppe, in return for eight people taken from a southern graze. The Koserur dovaq has refused. The Kenodur are in no hurry: each season the captives spend in a Kenodur camp makes them more Kenodur, and a price the Koserur cannot pay today only rises as they have less left to lose.
+The Kenodur's demand on the Koserur is fifty horses, a share of the Koserur's central well at [Shir-Van]{.name data-type="place/site"} and permanent grazing on the southern steppe, in return for eight people taken from a southern graze. The Koserur dovaq has refused. The Kenodur are in no hurry: each season the captives spend in a Kenodur camp makes them more Kenodur, and a price the Koserur cannot pay today only rises as they have less left to lose.
 
 ## The Marriage Offer
 
-The Kenodur have offered a captive girl, the daughter of the Koserur war captain's blood-brother, in marriage to the son of their dovaq. They present it as generosity, and it is a way to end the quarrel without a ransom: the girl joins the dovaq's line, and the Koserur have no claim to take her back. The offer expires on a day the Kenodur have named, and the Koserur are divided on whether to accept.
+The Kenodur have offered a captive girl, the daughter of the Koserur war captain's blood-brother, in marriage to the dovaq's son. They present it as generosity, and it is a way to end the quarrel without a ransom: the girl joins the dovaq's line, and the Koserur have no claim to take her back. The offer expires on a day the Kenodur have named, and the Koserur are divided on whether to accept.
 
 ## Caravans
 
-The Kenodur sell passage to anyone who can pay and do not sell it twice. A caravan that crosses their grass uninvited pays the price in goods, and its guards pay in the trouble of being searched. The tribe takes caravan tolls as its right and the Koserur's herds as its sport.
+The Kenodur sell the first days of the spur, from the edge of the Qiiso grass to the far side of the gap at Qiimod. They sell passage to anyone who can pay and do not sell it twice. A caravan that has bought it gets a rider, water at Qiimod by the skin, and an escort past the dead town in daylight, by the detour that bends half a day east of the gap. The water costs more than any on the spur, and the rider's warnings cost extra.
+
+A caravan that crosses their grass uninvited pays the price in goods, and its guards pay in the trouble of being searched. The tribe takes caravan tolls as its right and the Koserur's herds as its sport.
+
+## Raids and Fears
+
+The Kenodur raid the Koserur's southern graze and any tribe's distant herds that are thinly watched, and they leave the strings on the spur alone once the strings have paid. Two things frighten them. The first is Qiimod itself, which no Kenodur enters. The second is a party that draws the town's water from inside the walls by day and lives, because the tribe's right to charge for that well rests on nobody having done it.
+
+## Hooks
+
+- Kharulun will let the youngest of the Koserur captives go free with any outsider who carries her terms to the Koserur and brings back their answer before the named day. The Koserur warband watches Lushiq, and a stranger riding out of it with a Kenodur child looks like a Kenodur go-between.
+- A Tellumi caravan bound down the spur wants to cross without buying Kenodur water, and has hired a party to find another well south of Qiimod. The Kenodur know of one, and they have been paid by somebody to forget it.
 
 ## See Also
 
@@ -83,5 +108,14 @@ The Kenodur sell passage to anyone who can pay and do not sell it twice. A carav
 [[affiliation-jbzrtrb|Jobizur]], [[affiliation-qbdrtrb|Qibudur]]
 : the other great tribes of the central steppe
 
-[[place-khzryndsrtrgn|Khazryn Desert Region]]
-: the country the tribe grazes
+[[place-qimod|Qiimod]]
+: the dead town whose well the tribe sells
+
+[[place-hskrrgn|Ghoshiqor]]
+: the central range, whose southern grass the tribe grazes
+
+[[place-dkrqrrgn|Diqraqor]]
+: the stone range where the tribe winters
+
+[[lore-celestialroad|The Celestial Road]]
+: the road and the southern spur the Kenodur sell

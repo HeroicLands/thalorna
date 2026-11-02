@@ -4,7 +4,7 @@ name: {full: Koserur}
 type: affiliation
 subType: polity
 description: "A middling steppe tribe of three hundred families on three wells, boxed in by stronger neighbors and sustained by caravan tolls."
-tags: [draft]
+tags: []
 data:
   culture: sowidesclt
   templatePriority: null
@@ -58,15 +58,23 @@ data:
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
 
-The **Koserur** are a [[lore-sowidesclt|Sovidur]] tribe of perhaps three hundred families, living on two hundred square miles of mixed steppe in the middle of the [[place-khzryndsrtrgn|Khazryn]]. They have three wells, and everything about them follows from that number. A tribe with three wells cannot lose one, and it cannot afford to quarrel with anyone who can reach one.
+The **Koserur** are a [[lore-sowidesclt|Sovidur]] tribe of perhaps three hundred families, living on two hundred square miles of mixed steppe in the grass reaches of the [[place-hskrrgn|Ghoshiqor]], the central range of the [[place-khzryndsrtrgn|Khazryn]]. Their grass touches [[lore-celestialroad|the Celestial Road]] on its last day's march west of [[place-qisomrktcmp|Qiiso]]. They have three wells, and everything about them follows from that number. A tribe with three wells cannot lose one, and it cannot afford to quarrel with anyone who can reach one.
 
 ## The Wells
 
-[Karanat]{.name data-type="place/site"} is the northern well, [Shir-Van]{.name data-type="place/site"} the central one and the tribe's gathering place, and [Dubzar]{.name data-type="place/site"} the eastern one, nearest the [[affiliation-qbdrtrb|Qibudur]]. A fourth camp, [Zamir-Kar]{.name data-type="place/site"}, follows the seasonal water and stands empty when the water fails. In a dry year the Koserur pack their herds around the three wells, and a raider knows where to look. In a wet year they spread along the circuit and the tribe is hard to find.
+[Karanat]{.name data-type="place/site"} is the northern well, [Shir-Van]{.name data-type="place/site"} the central one and the tribe's gathering place, and [Dubzar]{.name data-type="place/site"} the eastern one, nearest the [[affiliation-qbdrtrb|Qibudur]]. A fourth camp, [Zamir-Kar]{.name data-type="place/site"}, follows the seasonal water and stands empty when the water fails, as it has since the drought. In a dry year the Koserur pack their herds around the three wells, and a raider knows where to look. In a wet year they spread along the circuit and the tribe is hard to find.
+
+Shir-Van is the one a traveler sees. It lies within sight of the road, the last halt before the market-camp, and its well-stone carries the Koserur sign over a shaft sixty feet deep. The moot meets there, the dovaq's tent stands there in every season, and the warband rides out from it.
+
+## The Round of the Year
+
+The Koserur winter close on Shir-Van and Dubzar, where the shafts are deepest and the herds can be watched from one ridge. In spring the families move north to Karanat and the grass beyond it, where the [[affiliation-jbzrtrb|Jobizur]] scouts ride the border. In summer they go out to the seasonal water at Zamir-Kar when it runs and stay on the north grass when it does not.
+
+Twice a year the whole tribe comes back to Shir-Van, for the ten days of the spring market and again for the autumn one. Those are the days the road pays, and the Koserur sit at the halt with every rider they have.
 
 ## Neighbors
 
-Three stronger tribes meet the Koserur at the edges of their grazing: the [[affiliation-jbzrtrb|Jobizur]] to the north, the [[affiliation-qbdrtrb|Qibudur]] to the east and the [[affiliation-kndrtrb|Kenodur]] to the south. The Koserur have lasted for generations by marrying a daughter where a quarrel threatened, by selling guides to caravans on good terms and by keeping a warband that makes raiding them cost more than it pays.
+Three stronger tribes meet the Koserur at the edges of their grazing: the Jobizur to the north, the Qibudur to the east and the [[affiliation-kndrtrb|Kenodur]] to the south. All four are among the tribes whose ranges meet at Qiiso, and their dovaqs sit in its moot before each season. The Koserur have lasted for generations by marrying a daughter where a quarrel threatened, by selling guides to caravans on good terms and by keeping a warband that makes raiding them cost more than it pays.
 
 That arrangement is failing. A drought dried the seasonal water two years ago, the Qibudur raided the herds, three families crossed to the Jobizur, and the Kenodur now hold eight of the tribe's people.
 
@@ -76,7 +84,18 @@ The dovaq is [Timan Koserur]{.name data-type="being/npc"}, an old man who has he
 
 ## Caravans
 
-The Koserur are known for honest dealing, and caravan tolls are their steadiest income. A caravan that buys passage gets a guide, water at all three wells and the tribe's token, and the Koserur keep the bargain. A lightly guarded caravan of spices and silk crossing their land while the warband needs horses is a temptation some of the riders argue for, and the dovaq has so far refused it.
+The Koserur are known for honest dealing, and caravan tolls are their steadiest income. A caravan coming east across the sands pays them half a weight of silver for each camel-load. For that it gets a rider for the last day's march, water at Shir-Van for every beast and the tribe's _qibud_ (token), which carries it into the market-camp. The rider is a guide in the plainest sense: he knows which gravel is firm and which hides the old canal beds, and he speaks for the string to every herdsman on the way.
+
+The Koserur keep the bargain. A lightly guarded caravan of spices and silk crossing their land while the warband needs horses is a temptation some of the riders argue for, and the dovaq has so far refused it.
+
+## Raids and Fears
+
+The Koserur raid nobody this year, because they have no riders to spare from the wells. What they fear is plain to every tent: a second dry year, which would leave them three wells for herds that need four; a Qibudur party at Dubzar in the night; and the day the moot agrees to the Jobizur's terms and the Koserur become a name that families give when asked where they came from.
+
+## Hooks
+
+- Timan Koserur asks a party of guests, who owe no tribe anything, to carry his terms to the Jobizur dovaq and bring back her answer. A Koserur rider seen riding north would tell the warband what its dovaq is doing.
+- A storm has filled the pans at Zamir-Kar for the first time since the drought, and the first tribe to camp there this season holds the water. The Kenodur have sent riders, and the Koserur have nobody left to send.
 
 ## See Also
 
@@ -89,5 +108,11 @@ The Koserur are known for honest dealing, and caravan tolls are their steadiest 
 [[affiliation-jbzrtrb|Jobizur]], [[affiliation-qbdrtrb|Qibudur]], [[affiliation-kndrtrb|Kenodur]]
 : the three neighbors
 
-[[place-khzryndsrtrgn|Khazryn Desert Region]]
-: the country the tribe grazes
+[[place-hskrrgn|Ghoshiqor]]
+: the central range the tribe grazes
+
+[[place-qisomrktcmp|Qiiso]]
+: the market-camp a day east of Shir-Van
+
+[[lore-celestialroad|The Celestial Road]]
+: the road whose last day into Qiiso the Koserur sell
