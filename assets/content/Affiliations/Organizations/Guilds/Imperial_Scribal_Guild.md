@@ -79,14 +79,14 @@ A scribe climbs five ranks:
 
 A scribe whose license is revoked for proven misconduct loses the right to seal, which ends the career.
 
-The current High Hand is [Iulia Verronius]{.name data-type="being/npc"}, the seventh of her line to hold senior Guild office and a figure of real political weight. The Council of Guildmasters meets monthly in Orzara and decides matters of guild standards, internal discipline and the Guild's relationship with the imperial administration.
+The current High Hand is [Ankela Nebralandis]{.name data-type="being/npc"}, the seventh of her line to hold senior Guild office and a figure of real political weight. The Council of Guildmasters meets monthly in Orzara and decides matters of guild standards, internal discipline and the Guild's relationship with the imperial administration.
 
 ## Notable Members
 
 [[being-ailemkrmys|Ailema Keramyes]]
 : a Guildmaster since the age of twenty-two and one of the finest authentication experts in the empire, consulted on standards and forgery detection at the highest levels.
 
-Iulia Verronius
+Ankela Nebralandis
 : the High Hand, presiding over the Guild's response to growing pressure from imperial authorities to streamline procedures the Guild considers essential.
 
 ## Doctrine and Practice

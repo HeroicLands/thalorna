@@ -1513,6 +1513,12 @@ data:
       gloss: "an aqueduct; a road for water"
       source: {kind: inherited, form: ulmerpodhera}
       built: ["ulmer-", pozera]
+    - form: ulmerkazthos
+      class: n m
+      field: "The city: stone, water and the street"
+      gloss: "an avenue with water running down it; a street of water"
+      source: {kind: coined}
+      built: ["ulmer-", kazthos]
     - form: zumbezon
       class: n n
       field: "The city: stone, water and the street"
@@ -9982,6 +9988,11 @@ data:
     - {name: Melvaris Thradinis, tongue: vylari, built: [melvar, "-is", "thradin-", "-is"]}
     - {name: Peleris, tongue: vylari, built: ["peler-", "-is"]}
     - {name: Thauris, tongue: vylari, built: ["thaur-", "-is"]}
+    - {name: Ulmerkazthos, tongue: vylari, built: ["ulmer-", kazthos]}
+    - {name: Ankela Nebralandis, tongue: vylari}
+    - {name: High Hand Ankela, tongue: translation}
+    - {name: Solkimar Talothates, tongue: vylari}
+    - {name: Tevraks Solkimar, tongue: translation}
     - {name: Platan District, tongue: translation}
     - {name: Grand Market, tongue: translation}
     - {name: Delalon Melvar, tongue: vylari, built: ["del-", "-alon", melvar]}
@@ -10014,6 +10025,18 @@ data:
     - {form: Aetheris, instead: Zunelandi, why: a month named with an echo of an Earth god}
     - {form: Janar, instead: Kalpezandi, why: a month named with an echo of an Earth god}
     - {form: Pantheon Aurèldiānum, instead: Sarkena Dorekis, why: the name of an Earth temple}
+    - form: Via Aquaria
+      instead: Ulmerkazthos
+      why: "a phrase of an Earth tongue, for a water avenue"
+    - form: naumachiae
+      instead: mock sea-battles
+      why: "a word of an Earth tongue, for flooded sea-battles in the arena"
+    - form: Iulia Verronius
+      instead: Ankela Nebralandis
+      why: "a name of an Earth tongue, for the High Hand"
+    - form: Torvelis Velerianus
+      instead: Solkimar Talothates
+      why: "a name of an Earth tongue, for the Tevraks"
     - {form: Magnápolis, instead: Orzara, why: a Greek-shaped name for a great city}
     - {form: Magnápolitan, instead: Orzaran, why: a Greek-shaped demonym}
     - {form: Magnápolitans, instead: Orzarans, why: a Greek-shaped demonym}

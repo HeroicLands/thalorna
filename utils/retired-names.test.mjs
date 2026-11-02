@@ -333,6 +333,24 @@ export const RETIRED = [
             "assets/content/Regions/Ankaris/Velanthia/Velanthia_Region.md",
         ],
     },
+    { retired: ["Via Aquaria"], replacement: "Ulmerkazthos", scope: "corpus" },
+    { retired: ["naumachiae", "naumachia"], replacement: "mock sea-battles", scope: "corpus" },
+    {
+        retired: ["Iulia Verronius"],
+        replacement: "Ankela Nebralandis",
+        scope: [
+            "assets/content/Affiliations/Organizations/Guilds/Imperial_Scribal_Guild.md",
+            "assets/content/Affiliations/Organizations/Vylarian/Tevran.md",
+        ],
+    },
+    {
+        retired: ["Torvelis Velerianus"],
+        replacement: "Solkimar Talothates",
+        scope: [
+            "assets/content/Affiliations/Organizations/Vylarian/Tevran.md",
+            "assets/content/Affiliations/Organizations/Guilds/Imperial_Scribal_Guild.md",
+        ],
+    },
     { retired: ["Chandramukha"], replacement: "Chendramukhva", scope: "corpus" },
     {
         retired: ["Karanat", "Dubzar", "Zamir-Kar"],
