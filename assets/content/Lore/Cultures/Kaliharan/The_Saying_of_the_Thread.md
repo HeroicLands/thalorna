@@ -56,7 +56,7 @@ She held the terrace stones under the Cloud Pass, and the rain of those terraces
 She is held for this: she heard a terrace village say its Dawn Tending one word short,/
 and taught it again from the first word, and it was said whole after./
 She said the Last Tending at the nesting reeds of the Tavunithei./
-She said the Last Tending at the sun terraces of the Luakovani./
+She said the Last Tending at the sun terraces of the Luakovan./
 She received the holding from Avunethei Theilavori.
 
 [The custodians:]{.speaker}/
@@ -187,7 +187,7 @@ She received the holding from the next knot, and the next knot from the one abov
 Here are the old knots./
 Hold them as you hold the new. They are not older for being far.
 
-Manotua Ithorianu./
+Manotua Ithorinu./
 Formed at Mirthaan. Raised to kaan'vaar at Dry-Turn, in the sixth Walk./
 He held the terrace stones of the lower valley./
 He is held for this: he is the first of this line who was not on the island on the morning./

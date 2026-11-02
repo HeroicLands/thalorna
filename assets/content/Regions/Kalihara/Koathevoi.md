@@ -33,7 +33,7 @@ Westward the water, with the drowned walls in the near shallows and [[place-klhr
 
 ## The Cost of Reaching It
 
-The town is a day along the shore from [[place-ithorianu|Ithorianu]] by the paths on the terrace walls, and the walls are watched the whole way. A boat from the other shores lands at the granary quay, where the Master's clerks ask what it carries.
+The town is a day along the shore from [[place-ithorianu|Ithorinu]] by the paths on the terrace walls, and the walls are watched the whole way. A boat from the other shores lands at the granary quay, where the Master's clerks ask what it carries.
 
 ## See Also
 
@@ -46,5 +46,5 @@ The town is a day along the shore from [[place-ithorianu|Ithorianu]] by the path
 [[place-mirthaan|Mirthaan]]
 : the sanctuary of the valley
 
-[[place-ithorianu|Ithorianu]]
+[[place-ithorianu|Ithorinu]]
 : the lake-shore town to the north

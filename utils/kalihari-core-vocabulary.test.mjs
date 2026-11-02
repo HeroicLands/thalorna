@@ -183,7 +183,7 @@ test("Kalihari keeps the complete original stock, body and reserved interpretati
     const originalWords = language.fm.data.words.slice(0, 59);
     assert.equal(
         hash(originalWords.map(({ concept, ...w }) => w)),
-        "ba6f04019e7cdcaa9836915f3b82463753c586e75eeb3fe9f2a833301015a03d",
+        "91cc5061a8e0599b17d0f429cf30af5310ec0c790fe46668247eeb4769d8b7bd",
     );
     for (const [form, id] of [
         ["vaar-", "hold"],
@@ -197,12 +197,12 @@ test("Kalihari keeps the complete original stock, body and reserved interpretati
     // The new repertoire is checked independently by roman-inventories.test.mjs.
     delete meta.data.roman;
     meta.data.fields = meta.data.fields.slice(0, 3);
-    assert.equal(hash(meta), "6e149349a74c166c13f951c48fd86d46d0588641bfa1d8b20da21916c6357cc9");
+    assert.equal(hash(meta), "4eb9165a2181985c10649ddb1151965c65ba349bd7c9e3e162053933b28879c9");
     const body = splitFrontmatter(language.raw).body.replace(
         /## Everyday speech\n[\s\S]*?(?=## Script and Literacy\n)/u,
         "",
     );
-    assert.equal(hash(body), "08e6d34597f552fe19f3d0526bb713ae21b527f22c194515b2495762ae828b2c");
+    assert.equal(hash(body), "959984503c38692449e026e9a55ca4114098481256439b1973cf9f781cfb04f9");
     const oldData = {
         ...language.fm.data,
         words: originalWords,
@@ -255,7 +255,7 @@ test("Kalihari keeps the complete original stock, body and reserved interpretati
         for (let i = 0; i < text.length; i++) {
             if (!/[aeiou]/u.test(text[i])) continue;
             let end = i + 1;
-            if (["ae", "oa", "ei", "ou"].includes(text.slice(i, i + 2))) end = i + 2;
+            if (["ai", "ei", "ao", "ae", "oa", "ou"].includes(text.slice(i, i + 2))) end = i + 2;
             syllables.push({ start, text: text.slice(start, end) });
             start = end;
             i = end - 1;
@@ -266,7 +266,7 @@ test("Kalihari keeps the complete original stock, body and reserved interpretati
         if (/^[aeiou]/u.test(syllables[cut].text)) cut--;
         add(name.slice(syllables[cut].start));
     }
-    assert.equal(probes.size, 722);
+    assert.equal(probes.size, 738);
     for (const form of probes) assert.equal(after(form), before(form), form);
     const oldRecord = { ...records[0], data: oldData },
         oldRows = dictionaryAndTermRows([oldRecord]).dictionary,

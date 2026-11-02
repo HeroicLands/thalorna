@@ -1,6 +1,6 @@
 ---
 shortcode: klhrflora
-name: {full: Flora of Kalihara, en: [Stilt Tree, Ember Bloom], kali: [Manuluori, Kalovael]}
+name: {full: Flora of Kalihara, en: [Stilt Tree, Ember Bloom], kali: [Manuluor, Kalovael]}
 type: lore
 subType: bestiary
 description: "Two plants of Kalihara that the islanders use and tend: the Stilt Tree of the mangrove edge, whose dead prop roots make the fence stakes, and the Ember Bloom of the terrace margins, whose root gives a red dye."
@@ -12,7 +12,7 @@ Flora of Kalihara encompasses an extraordinary range of plants in the jungle of 
 
 ## The Stilt Tree
 
-**Manuluori**, in [[skill-kalihrlng|Kalihari]] "root canopy", is a tree whose canopy stands on its roots. It grows to some forty feet at the mangrove edge and in the wet forest behind the eastern shore. It sends down arching prop roots from its branches until the crown stands on a cage of roots a man can walk through. The roots grip the mud, hold the bank, and shelter small fish and crabs. The tree flowers at the start of the wet season.
+**Manuluor**, in [[skill-kalihrlng|Kalihari]] "root canopy", is a tree whose canopy stands on its roots. It grows to some forty feet at the mangrove edge and in the wet forest behind the eastern shore. It sends down arching prop roots from its branches until the crown stands on a cage of roots a man can walk through. The roots grip the mud, hold the bank, and shelter small fish and crabs. The tree flowers at the start of the wet season.
 
 The villages cut stakes from the dead prop roots for their fence walls, and the stakes do not rot, which is why the fences hold against the [[being-mngbhmth|Mangrove Behemoth]]. A tree is cut only for the roots it has let fall. A village that loses its stilt trees to a flood replants from the neighboring bank.
 

@@ -1,6 +1,6 @@
 ---
 shortcode: olvlthlr
-name: {full: Olivael Ithaluori, given: Olivael, clan: Ithaluori}
+name: {full: Olivael Ithaluor, given: Olivael, clan: Ithaluor}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, mages]
@@ -422,7 +422,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[olvlthlr|Olivael Ithaluori]]{float=top-left}
+![[olvlthlr|Olivael Ithaluor]]{float=top-left}
 
 Olivael stands 5'4" tall with a medium build. She has rich brown skin, white hair, and dark brown eyes. Her features include a high-cheekboned face, an aquiline nose, a tapered chin, generous lips, and rich brows.
 
@@ -436,9 +436,9 @@ Olivael was born in [[place-ilovanu|Ilovanu]], the principal port of [[affiliati
 
 ### The Pilots' Observatory
 
-At fifteen she ran away to [[place-telvari|Telvari]], the pilots' islet off the eastern approaches, where the pilots keep an observatory to reckon tides, currents and the stars they steer by. Its keeper was an old scholar the port called [Olitelinei]{.name data-type="being/npc"}, the star-reckoner, who had come out from the west half a lifetime before and never gone home. He took her in, and for twelve years she lived on the islet, holding his tables and her own observations as every Kaliharan child is taught to hold what matters, learning the practical astronomy of navigation and timekeeping by day and, by night, the art he valued more: astrology, the conviction that the heavens move the affairs of people as surely as the moon moves the tide.
+At fifteen she ran away to [[place-telvari|Telvari]], the pilots' islet off the eastern approaches, where the pilots keep an observatory to reckon tides, currents and the stars they steer by. Its keeper was an old scholar the port called [Olitenei]{.name data-type="being/npc"}, the star-reckoner, who had come out from the west half a lifetime before and never gone home. He took her in, and for twelve years she lived on the islet, holding his tables and her own observations as every Kaliharan child is taught to hold what matters, learning the practical astronomy of navigation and timekeeping by day and, by night, the art he valued more: astrology, the conviction that the heavens move the affairs of people as surely as the moon moves the tide.
 
-Where other astrologers memorized the traditional correspondences, Olivael understood the mechanics of the heavens by instinct and reasoned from them to their meanings. When Olitelinei died she was twenty-seven, and her name had already crossed the water. Foreign factors had their voyages charted by her, merchant houses timed their contracts by her, and the [[affiliation-panepistmm|Epistémion]], the scholarly federation of the western part of the [[place-ankrscntnnt|Ankaris Continent]], offered her membership by letter.
+Where other astrologers memorized the traditional correspondences, Olivael understood the mechanics of the heavens by instinct and reasoned from them to their meanings. When Olitenei died she was twenty-seven, and her name had already crossed the water. Foreign factors had their voyages charted by her, merchant houses timed their contracts by her, and the [[affiliation-panepistmm|Epistémion]], the scholarly federation of the western part of the [[place-ankrscntnnt|Ankaris Continent]], offered her membership by letter.
 
 ### Present Circumstances
 

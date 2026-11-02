@@ -36,7 +36,7 @@ Three of the twelve have gone bone-white and hard, and two more are gray and giv
 | Working badly |      2 | The Cloud Pass; one on the southern crest                                                |
 | White         |      3 | One on the southern crest, west of the head of the Southern Stair; two on the open crest |
 
-A white wind-stone went white entire and at once, and it can be told from the crest a day's walk off. The two that work badly look exactly as they always have, and the pass lineages argue whether they are failing at all; the Avoluthei say the stone of their pass is well, and say it often. Below the southern crest the Kuomanei have lost terrace walls in Deepwater that stood a hundred years, and the rain on the eastern shore comes less evenly than the oldest sheets of [[place-ithorianu|Ithorianu]]'s record describe.
+A white wind-stone went white entire and at once, and it can be told from the crest a day's walk off. The two that work badly look exactly as they always have, and the pass lineages argue whether they are failing at all; the Avoluthei say the stone of their pass is well, and say it often. Below the southern crest the Kuomanei have lost terrace walls in Deepwater that stood a hundred years, and the rain on the eastern shore comes less evenly than the oldest sheets of [[place-ithorianu|Ithorinu]]'s record describe.
 
 ## What Is Seen from Them
 

@@ -1,6 +1,6 @@
 ---
 shortcode: klhrdpfrst
-name: {full: The Deep Forest, kali: [Kuathivoel]}
+name: {full: The Deep Forest, kali: [Kuathivel]}
 type: place
 subType: feature
 description: "The unbroken forest that covers the western and northern Bowl of Kalihara from the lakeshore to the inner face of the Ring, held by the forest lineages, who hunt it."
@@ -16,11 +16,11 @@ data:
 
 ## Overview
 
-The Deep Forest covers the western and northern reaches of [[place-klhrbowl|the Great Bowl]] of the [[place-klhrcntnnt|Kalihara Continent]], from the reed-beds of [[place-klhrlake|the lake]] to the inner face of [[place-klhrring|the Ring]]. Nothing in it is cleared: the canopy closes overhead from the shore to the cliffs, and the streams that come down the inner slopes run to the lake under it. The Kaliharans call it _kuathivoel_ (deep forest), and the lineage [Kuathivoel]{.name data-type="affiliation/lineage"}, the eldest of the forest lineages, is named for it.
+The Deep Forest covers the western and northern reaches of [[place-klhrbowl|the Great Bowl]] of the [[place-klhrcntnnt|Kalihara Continent]], from the reed-beds of [[place-klhrlake|the lake]] to the inner face of [[place-klhrring|the Ring]]. Nothing in it is cleared: the canopy closes overhead from the shore to the cliffs, and the streams that come down the inner slopes run to the lake under it. The Kaliharans call it _kuathivoel_ (deep forest), and the lineage [Kuathivel]{.name data-type="affiliation/lineage"}, the eldest of the forest lineages, is named for it.
 
 ## The Lineages
 
-The forest is held in reaches, each by its own lineage, and the Kuathivoel hold the oldest stand, on the northern shore of the lake; the [Maethukoa]{.name data-type="affiliation/lineage"} and others hold the reaches between it and the Ring. The forest lineages live by hunting and gathering, taking from their reaches what the [Whole]{.name data-type="lore/cosmology"} can spare and keeping in their [sílhari]{.name data-type="lore/custom"} accounts what they take. The forest holds beasts and birds found nowhere else on the island, and no naturalist from abroad has seen them.
+The forest is held in reaches, each by its own lineage, and the Kuathivel hold the oldest stand, on the northern shore of the lake; the [Maethukoa]{.name data-type="affiliation/lineage"} and others hold the reaches between it and the Ring. The forest lineages live by hunting and gathering, taking from their reaches what the [Whole]{.name data-type="lore/cosmology"} can spare and keeping in their [sílhari]{.name data-type="lore/custom"} accounts what they take. The forest holds beasts and birds found nowhere else on the island, and no naturalist from abroad has seen them.
 
 ## What Is Seen from It
 

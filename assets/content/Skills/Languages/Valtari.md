@@ -5592,7 +5592,7 @@ data:
     - {form: Khûmar, why: "an Earth name, in the name lists"}
     - {form: Laila, why: "an Earth name, in the name lists"}
     - form: Lamari
-      instead: Ithaluori
+      instead: Ithaluor
       why: "an Earth name, in the name lists; the astrologer of Ilovanu"
     - {form: Lamir, why: "an Earth name, in the name lists"}
     - {form: Lamira, why: "an Earth name, in the name lists"}

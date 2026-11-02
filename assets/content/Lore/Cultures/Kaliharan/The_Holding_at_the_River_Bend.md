@@ -22,20 +22,20 @@ data:
 # terran_analog: "The oral contract and the witnessed oath of non-literate law, recited word for word by a remembrancer when it is disputed, as the law-speaker of an assembly recites the law; the legal tale that turns on the letter of a term. Departs: nobody is cheated by the letter, the holder of record never says what anyone meant, and the injustice the holding answers is one the island does not name."
 ---
 
-A [[lore-kaliharanclt|Kaliharan]] agreement is not written. It is held by a Vaarnei, a holder of record trained in [[skill-vaarthari|Vaarthari]] to keep the words of the parties exactly, with the names of the witnesses, the place and the Walk, and a holding is said aloud again when it is disputed or when one of its parties asks. **The Holding at the River Bend** is one such holding, between [Kuethivori Marithoa]{.name data-type="being/npc"}, Elder of the lineage [Marithoa]{.name data-type="affiliation/lineage"}, and [Navokai Luanithei]{.name data-type="being/npc"}, a bondservant held in service to it. The Marithoa hold [Marithoa]{.name data-type="place/settlement"}, a terrace village of [[place-klhrestrrc|the Eastern Terraces]] at a bend of a river coming down to the lake, and the village's [[lore-sarisul|tending-stone]] keeps its terraces draining in the rains.
+A [[lore-kaliharanclt|Kaliharan]] agreement is not written. It is held by a Vaarnei, a holder of record trained in [[skill-vaarthari|Vaarthari]] to keep the words of the parties exactly, with the names of the witnesses, the place and the Walk, and a holding is said aloud again when it is disputed or when one of its parties asks. **The Holding at the River Bend** is one such holding, between [Kethivori Marithoa]{.name data-type="being/npc"}, Elder of the lineage [Marithoa]{.name data-type="affiliation/lineage"}, and [Navokai Luanithei]{.name data-type="being/npc"}, a bondservant held in service to it. The Marithoa hold [Marithoa]{.name data-type="place/settlement"}, a terrace village of [[place-klhrestrrc|the Eastern Terraces]] at a bend of a river coming down to the lake, and the village's [[lore-sarisul|tending-stone]] keeps its terraces draining in the rains.
 
-The works answer people unevenly and not by rank ([[mysticalability-hearingstone|Hearing the Stone]]), and the bend's stone answered Navokai and did not answer his Elder. The holding is what the two of them agreed when the stone began to drift. It is said here as [Luothivei Ithorianu]{.name data-type="being/npc"}, the Vaarnei who held it, said it at the dispute forty years on, after the stone had gone white, and the second part is the holding of the dispute itself, which she held as well. The terraces tell it to one another as a holding, word for word, and not as a tale. The holding does not say why Navokai was held in service; that is a holding of its own, and it is not said.
+The works answer people unevenly and not by rank ([[mysticalability-hearingstone|Hearing the Stone]]), and the bend's stone answered Navokai and did not answer his Elder. The holding is what the two of them agreed when the stone began to drift. It is said here as [Luothivei Ithorinu]{.name data-type="being/npc"}, the Vaarnei who held it, said it at the dispute forty years on, after the stone had gone white, and the second part is the holding of the dispute itself, which she held as well. The terraces tell it to one another as a holding, word for word, and not as a tale. The holding does not say why Navokai was held in service; that is a holding of its own, and it is not said.
 
 : The Holding at the River Bend {#the-holding}
 
 ::: {.verse form=holding lang=en}
 [The Vaarnei:]{.speaker}/
-I am Luothivei Ithorianu, Vaarnei, and I say a holding I hold./
+I am Luothivei Ithorinu, Vaarnei, and I say a holding I hold./
 I say it in the words it was made in, and I say nothing that is not in it./
 If a word I say is not the word that was said, the witnesses are here to say so,/
 and I go back to the beginning.
 
-This is the holding of Kuethivori Marithoa, Elder of the Marithoa,/
+This is the holding of Kethivori Marithoa, Elder of the Marithoa,/
 and Navokai Luanithei, held in service to the Marithoa./
 It was made at the river bend, at the stone,/
 at Wet-Turn, the third year after the seven hundred and ninety-fifth Walk,/
@@ -43,7 +43,7 @@ in the morning, after the rain had stood on the third terrace for two days./
 It was witnessed by Korevai Naothuri, kaan'vaar of the stone,/
 and by Thulianei Marithoa, sister of the Elder.
 
-Kuethivori Marithoa said:/
+Kethivori Marithoa said:/
 The water stood on the third terrace two days after the rain./
 It has not stood there in the memory of this lineage./
 The stone at the bend is drifting./
@@ -68,7 +68,7 @@ as a daughter of the lineage is given a part./
 And this holding is held by a Vaarnei,/
 so that it is held as it is said.
 
-Kuethivori Marithoa said:/
+Kethivori Marithoa said:/
 These are your terms, and I take them./
 For as long as the stone stands at the bend,/
 I will come to your door myself, every morning and at any hour of the rains,/
@@ -92,7 +92,7 @@ It is held as it was said, and so I hold it.
 
 ::: {.verse form=holding lang=en}
 [The Vaarnei:]{.speaker}/
-I am Luothivei Ithorianu, Vaarnei, and I say the second holding,/
+I am Luothivei Ithorinu, Vaarnei, and I say the second holding,/
 which is the holding of the dispute over the first./
 It was made at the river bend, at the stone,/
 at Dry-Turn, the first year after the seven hundred and ninety-ninth Walk,/
@@ -167,7 +167,7 @@ It is held as it was said, and so I hold it.
 I hold one more thing, because the Elder asked me to hold it, and it is not a holding./
 It is what I saw, the next morning, and the Elder asked that it be said after the holdings, wherever they are said.
 
-At the hour before sunrise, Kuethivori Marithoa went down the bank to the door of Navokai Luanithei./
+At the hour before sunrise, Kethivori Marithoa went down the bank to the door of Navokai Luanithei./
 She went herself. She did not send a child, or her sister./
 He came out, and they walked to the stone together.
 
@@ -175,7 +175,7 @@ Navokai Luanithei said:/
 It is white./
 It does not give.
 
-Kuethivori Marithoa said:/
+Kethivori Marithoa said:/
 It is white./
 It does not give.
 

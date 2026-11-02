@@ -223,7 +223,7 @@ data:
       field: People and the house
       gloss: "one who flows, a given name"
       built: ["kula-", "-nei"]
-    - form: olitelinei
+    - form: olitenei
       class: "n"
       field: People and the house
       gloss: "a star-reckoner, one who counts the stars"
@@ -5779,7 +5779,7 @@ data:
         - "Kuomethei"
         - "Tavaelith"
         - "Luorithei"
-        - "Ithaeluani"
+        - "Ithaelani"
         - "Marivotha"
         - "Theivoanei"
         - "Koaluethei"
@@ -5787,8 +5787,8 @@ data:
         - "Reithovani"
         - "Naoluvethei"
         - "Olathivei"
-        - "Tavikuanei"
-        - "Ithunovali"
+        - "Tavikunei"
+        - "Thunovali"
         - "Kuaelithei"
         - "Maethivoa"
         - "Thovuanei"
@@ -5796,8 +5796,8 @@ data:
         - "Vaokithei"
         - "Reithavoni"
         - "Luothivei"
-        - "Navoethani"
-        - "Kuethivori"
+        - "Navothani"
+        - "Kethivori"
       male:
         - "Ithavao"
         - "Kulanei"
@@ -5861,7 +5861,7 @@ data:
       - "Thavoeli"
       - "Luanithei"
       - "Vaelukoa"
-      - "Ithorianu"
+      - "Ithorinu"
       - "Koathevoi"
       - "Theinuvael"
       - "Marithoa"
@@ -5870,7 +5870,7 @@ data:
       - "Avoluthei"
       - "Kuomanei"
       - "Thavurithei"
-      - "Luakovani"
+      - "Luakovan"
       - "Ithevanoa"
       - "Koaluthei"
       - "Narivothei"
@@ -5878,7 +5878,7 @@ data:
       - "Theilavori"
       - "Reithovani"
       - "Avonithei"
-      - "Kuathivoel"
+      - "Kuathivel"
       - "Tavunithei"
   sounds:
     edges: [{edge: closeConsonant, sounds: [n, l, r, th]}]
@@ -5939,9 +5939,9 @@ data:
     - {name: Interior Speech, tongue: translation}
     - {name: Island Turtle, tongue: translation}
     - {name: Islander, tongue: translation}
-    - {name: Ithaluori, tongue: kalihari, built: [itha-, luori-]}
+    - {name: Ithaluor, tongue: kalihari, built: [itha-, luori-]}
     - {name: Ithavanu'sul, tongue: kalihari, built: [ithavanu, sul-]}
-    - {name: Ithorianu, tongue: kalihari}
+    - {name: Ithorinu, tongue: kalihari}
     - {name: Ithakan, tongue: kalihari, built: [ithari, kaan-]}
     - {name: Ithasul, tongue: kalihari, built: [ithari, sul-]}
     - {name: kaan'sili, tongue: kalihari, built: [kaan-, sili-]}
@@ -5967,7 +5967,7 @@ data:
     - {name: Kin of the Lineage, tongue: translation}
     - {name: Koathevoi, tongue: kalihari}
     - {name: Koavanu, tongue: kalihari, built: [koa-, vanu-]}
-    - {name: Kuathivoel, tongue: kalihari}
+    - {name: Kuathivel, tongue: kalihari}
     - {name: Kuethori, tongue: kalihari}
     - {name: Kuomethei, tongue: kalihari}
     - {name: Lay Kaliharan, tongue: translation}
@@ -5977,10 +5977,10 @@ data:
     - {name: Lirunei, tongue: kalihari, built: [liru-, -nei]}
     - {name: Listener, tongue: translation}
     - {name: Luavanu, tongue: kalihari, built: [lua-, vanu-]}
-    - {name: Luorithuri, tongue: kalihari, built: [luori-, thuri-]}
+    - {name: Luorithur, tongue: kalihari, built: [luori-, thuri-]}
     - {name: Mangrove Behemoth, tongue: translation}
     - {name: Manulua, tongue: kalihari, built: [manu-, lua-]}
-    - {name: Manuluori, tongue: kalihari, built: [manu-, luori-]}
+    - {name: Manuluor, tongue: kalihari, built: [manu-, luori-]}
     - {name: Master of the Terraces, tongue: translation}
     - {name: Master Pilot, tongue: translation}
     - {name: Mirthaan, tongue: kalihari}
@@ -6116,13 +6116,49 @@ data:
       why: "an Earth word and name, the caravan guard's apprentice"
     - {form: Lord Devendra, instead: Lord Mahitua, why: "an Earth name, the head of the Kubasari"}
     - form: Astronomus
-      instead: Olitelinei
+      instead: Olitenei
       why: "an Earth word, the byname of the pilots' astronomer"
     - {form: Morwenna, why: an Earth name; the Lady of House Duravin goes by her house}
     - {form: Lysander Cross, why: Earth names; the foreign merchant goes unnamed}
     - {form: Meira Stoneborn, why: Earth names; the young widow goes unnamed}
     - {form: Lord Rashid, why: an Earth name; the ruined merchant goes unnamed}
     - {form: Vasánt, why: an Earth word; the rival astrologer goes by his byname}
+    - form: Ithorianu
+      instead: Ithorinu
+      why: "five syllables, over the tongue's four; the Elders' lake-shore town and the lineage of rain song"
+    - form: Luakovani
+      instead: Luakovan
+      why: "five syllables, over the tongue's four; the lineage of the sun path"
+    - form: Kuathivoel
+      instead: Kuathivel
+      why: "five syllables, over the tongue's four; the lineage of the deep forest"
+    - form: Kuethivori
+      instead: Kethivori
+      why: "five syllables, over the tongue's four; a female given name, the Elder of the Marithoa"
+    - form: Ithaeluani
+      instead: Ithaelani
+      why: "five syllables, over the tongue's four; a female given name"
+    - form: Tavikuanei
+      instead: Tavikunei
+      why: "five syllables, over the tongue's four; a female given name"
+    - form: Ithunovali
+      instead: Thunovali
+      why: "five syllables, over the tongue's four; a female given name"
+    - form: Navoethani
+      instead: Navothani
+      why: "five syllables, over the tongue's four; a female given name"
+    - form: Ithaluori
+      instead: Ithaluor
+      why: "five syllables, over the tongue's four; the lineage of Olivael, still canopy"
+    - form: Luorithuri
+      instead: Luorithur
+      why: "five syllables, over the tongue's four; the canopy glider"
+    - form: Manuluori
+      instead: Manuluor
+      why: "five syllables, over the tongue's four; the root-canopy tree"
+    - form: olitelinei
+      instead: olitenei
+      why: "five syllables, over the tongue's four; the star-reckoner, Olivael's byname"
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -6191,7 +6227,7 @@ Five distinct vowels, each pronounced with clarity and sometimes elongated for e
 - **O** (mid, back)—rounded, warm
 - **U** (high, back)—rounded, distant
 
-**Diphthongs** are common and meaningful. _ai_, _ei_ and _ao_ are one syllable each; other vowels side by side are said apart. A word like "ithavao" contains three diphthongs (i-tha, va-o) distributed across its syllables.
+**Diphthongs** are common and meaningful. _ai_, _ei_, _ao_, _ae_, _oa_ and _ou_ are one syllable each, read from the left; other vowels side by side are said apart. "Ithavao" is three syllables (i-tha-vao), and "Ilavoani" four (i-la-voa-ni).
 
 ### Stress and Prosody
 
@@ -6487,29 +6523,29 @@ Inside a Kaliharan house, a long given name is not said in full. A woman named _
 
 The household name is formed by rule:
 
-1. **Count the syllables of the given name.** Every vowel is a syllable, except that the diphthongs AE, OA, EI and OU count as one each. _Ilavoani_ is four syllables (i-la-voa-ni); _Theivoanei_ is three (thei-voa-nei).
+1. **Count the syllables of the given name.** Every vowel is a syllable, except that each of the six diphthongs, _ai_, _ei_, _ao_, _ae_, _oa_ and _ou_, counts as one. _Ilavoani_ is four syllables (i-la-voa-ni); _Theivoanei_ is three (thei-voa-nei).
 2. **Only a name of four syllables or more has a household name.** A name of three or fewer is already the length a household says, and everyone uses it whole: _Kulanei_, _Avaelith_ and _Theivoanei_ have no household name.
 3. **Cut at the second-to-last syllable.** That syllable carries the stress, and the household name runs from its consonant to the end of the name: _Marivano_ (ma-ri-va-no) gives _Vano_.
 4. **Where that syllable is a bare vowel, reach back one syllable** so that the household name opens on a consonant: _Oruanei_ (o-ru-a-nei) gives _Ruanei_, not _Anei_.
 
 Nothing is added. A household name takes no ending, no doubled syllable and no endearment, so it obeys the tongue's sound rules because the given name does. It is the part of the name a household hears loudest when the name is called across a garden.
 
-| Household name | Given name | Syllables      |
-| -------------- | ---------- | -------------- |
-| `Vao`          | Ithavao    | i-tha-va-o     |
-| `Vano`         | Marivano   | ma-ri-va-no    |
-| `Vori`         | Ilavori    | i-la-vo-ri     |
-| `Ruanei`       | Oruanei    | o-ru-a-nei     |
-| `Vuanei`       | Tavuanei   | ta-vu-a-nei    |
-| `Luao`         | Theiluao   | thei-lu-a-o    |
-| `Lua`          | Mahilua    | ma-hi-lu-a     |
-| `Theia`        | Oritheia   | o-ri-thei-a    |
-| `Vani`         | Korevani   | ko-re-va-ni    |
-| `Voani`        | Ilavoani   | i-la-voa-ni    |
-| `Votha`        | Marivotha  | ma-ri-vo-tha   |
-| `Luethei`      | Koaluethei | koa-lu-e-thei  |
-| `Kuanei`       | Tavikuanei | ta-vi-ku-a-nei |
-| `Voni`         | Reithavoni | rei-tha-vo-ni  |
+| Household name | Given name | Syllables     |
+| -------------- | ---------- | ------------- |
+| `Rivao`        | Luarivao   | lu-a-ri-vao   |
+| `Vano`         | Marivano   | ma-ri-va-no   |
+| `Vori`         | Ilavori    | i-la-vo-ri    |
+| `Ruanei`       | Oruanei    | o-ru-a-nei    |
+| `Vuanei`       | Tavuanei   | ta-vu-a-nei   |
+| `Thari`        | Avothari   | a-vo-tha-ri   |
+| `Lua`          | Mahilua    | ma-hi-lu-a    |
+| `Theia`        | Oritheia   | o-ri-thei-a   |
+| `Vani`         | Korevani   | ko-re-va-ni   |
+| `Voani`        | Ilavoani   | i-la-voa-ni   |
+| `Votha`        | Marivotha  | ma-ri-vo-tha  |
+| `Luethei`      | Koaluethei | koa-lu-e-thei |
+| `Kunei`        | Tavikunei  | ta-vi-ku-nei  |
+| `Voni`         | Reithavoni | rei-tha-vo-ni |
 
 The household name belongs to the house. In the interior that is the mother's line; in the ports it is whichever house a person was raised in. Kin use it, and so do those raised under the same roof. It is spoken only: the full name opens every account a Kaliharan holds, is recited in the household's and the lineage's memory, and is the only name a council or a custodian uses. Household names repeat freely from one house to the next—there are a great many _Vori_ on the island—which troubles nobody, because the name is never used where two houses meet.
 
@@ -6527,11 +6563,11 @@ Ithavao Kulanei Mahitua Reivano Thavokai Anorivei Luathen Veithari Koamanu Iriva
 
 ### Female Given Names
 
-Avaelith Kuethani Mahilua Reithova Thaelani Inovari Luavethei Koatheni Vaeluani Oritheia Naeluvao Maithori Thaekunei Avolitha Reithani Kuivalei Ithavori Naomethei Tharivoa Luanithei Korevani Maelithoa Veithunai Arovethei Thulianei Ilavoani Reithunoa Naethivari Kuomethei Tavaelith Luorithei Ithaeluani Marivotha Theivoanei Koaluethei Avunithoa Reithovani Naoluvethei Olathivei Tavikuanei Ithunovali Kuaelithei Maethivoa Thovuanei Aneithovai Vaokithei Reithavoni Luothivei Navoethani Kuethivori
+Avaelith Kuethani Mahilua Reithova Thaelani Inovari Luavethei Koatheni Vaeluani Oritheia Naeluvao Maithori Thaekunei Avolitha Reithani Kuivalei Ithavori Naomethei Tharivoa Luanithei Korevani Maelithoa Veithunai Arovethei Thulianei Ilavoani Reithunoa Naethivari Kuomethei Tavaelith Luorithei Ithaelani Marivotha Theivoanei Koaluethei Avunithoa Reithovani Naoluvethei Olathivei Tavikunei Thunovali Kuaelithei Maethivoa Thovuanei Aneithovai Vaokithei Reithavoni Luothivei Navothani Kethivori
 
 ### Lineage Names
 
-Ithavanu—"still water" Koamanei—"deep root" Theiluori—"bright canopy" Marivoel—"warm stone" Naothuri—"green wind" Reiluvao—"old vine" Avothani—"high ridge" Kuethori—"swift current" Thavoeli—"broad leaf" Luanithei—"dawn fire" Vaelukoa—"coral shore" Ithorianu—"rain song" Koathevoi—"dark soil" Theinuvael—"silver mist" Marithoa—"river bend" Naelithuri—"tall fern" Reikovael—"red earth" Avoluthei—"cloud pass" Kuomanei—"sleeping mountain" Thavurithei—"tide pool" Luakovani—"sun path" Ithevanoa—"mossy stone" Koaluthei—"thunder root" Narivothei—"clear spring" Maethukoa—"wild orchid" Theilavori—"wet season" Reithovani—"black sand" Avonithei—"star current" Kuathivoel—"deep forest" Tavunithei—"bird call"
+Ithavanu—"still water" Koamanei—"deep root" Theiluori—"bright canopy" Marivoel—"warm stone" Naothuri—"green wind" Reiluvao—"old vine" Avothani—"high ridge" Kuethori—"swift current" Thavoeli—"broad leaf" Luanithei—"dawn fire" Vaelukoa—"coral shore" Ithorinu—"rain song" Koathevoi—"dark soil" Theinuvael—"silver mist" Marithoa—"river bend" Naelithuri—"tall fern" Reikovael—"red earth" Avoluthei—"cloud pass" Kuomanei—"sleeping mountain" Thavurithei—"tide pool" Luakovan—"sun path" Ithevanoa—"mossy stone" Koaluthei—"thunder root" Narivothei—"clear spring" Maethukoa—"wild orchid" Theilavori—"wet season" Reithovani—"black sand" Avonithei—"star current" Kuathivel—"deep forest" Tavunithei—"bird call"
 
 ## External References
 
@@ -6635,7 +6671,7 @@ ORDER BY position
 
 **A port** is a compound naming what the place is to the island: [[place-ilovanu|Ilovanu]] is _ilo-_ door and _vanu-_ water, the water-door through which the world is admitted, and [[place-nalurithan|Nalurithan]] is _nalu-_ a river mouth with _rithan_ to flow, the running mouth on which the town stands.
 
-**A byname** is a word of this page given to a stranger the port has no other name for. The old scholar of the pilots' observatory on [[place-telvari|Telvari]] is _[Olitelinei]{.name data-type="being/npc"}_, the star-reckoner.
+**A byname** is a word of this page given to a stranger the port has no other name for. The old scholar of the pilots' observatory on [[place-telvari|Telvari]] is _[Olitenei]{.name data-type="being/npc"}_, the star-reckoner.
 
 ## Scope {#scope}
 

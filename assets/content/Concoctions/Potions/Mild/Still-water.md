@@ -3,7 +3,7 @@ shortcode: stillwater
 name: {full: Still-water}
 type: concoctiongear
 subType: exotic
-description: "A pale green sleeping draught made from the weed of the Bowl Lake, kept by the physicians of Ithorianu."
+description: "A pale green sleeping draught made from the weed of the Bowl Lake, kept by the physicians of Ithorinu."
 tags: [kalihara]
 data: {icon: icon-potion, templatePriority: null, packFolder: mild}
 sohl:
@@ -16,7 +16,7 @@ sohl:
     strength: 0
 ---
 
-Still-water is a pale green sleeping draught made from the weed of [[place-klhrlake|the Bowl Lake]], gathered at the shore and steeped by the physicians of [[place-ithorianu|Ithorianu]]. A cup brings sleep within the hour that lasts until morning and leaves a slow head.
+Still-water is a pale green sleeping draught made from the weed of [[place-klhrlake|the Bowl Lake]], gathered at the shore and steeped by the physicians of [[place-ithorianu|Ithorinu]]. A cup brings sleep within the hour that lasts until morning and leaves a slow head.
 
 ## What It Does
 
@@ -24,7 +24,7 @@ The physicians keep the weed and brew it for the town's sleepless and its wounde
 
 ## See Also
 
-[[place-ithorianu|Ithorianu]]
+[[place-ithorianu|Ithorinu]]
 : the lake town whose physicians brew it
 
 [[place-klhrlake|The Bowl Lake]]
