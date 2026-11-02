@@ -67,7 +67,7 @@ And yet the gilt is wearing thin. Orzara spends what it must to keep the _visibl
 
 ### The Circles
 
-A Circle is a vast paved clearing, **three hundred yards across**, where building is _forbidden_ by ancient law. At the heart of nearly every one stands a great work of art—a triumphal **arch** commemorating some conquest, a **colossal statue** of an augustar or god, a soaring **spire**, an obelisk hauled from a distant province, or a fountain fed by the aqueducts. The Circles are the lungs and the gathering-places of the city. Depending on the day of the week and the season, a single Circle might host:
+A Circle is a vast paved clearing, **three hundred yards across**, where building is _forbidden_ by ancient law. At the heart of nearly every one stands a great work of art—a triumphal **arch** commemorating some conquest, a **colossal statue** of an Orzas or god, a soaring **spire**, an obelisk hauled from a distant province, or a fountain fed by the aqueducts. The Circles are the lungs and the gathering-places of the city. Depending on the day of the week and the season, a single Circle might host:
 
 - a **roaring open-air market**, its stalls regulated and licensed to the inch;
 - **public games**, contests, and athletic displays;
@@ -147,7 +147,7 @@ The Grand Market
 : the commercial heart, on the central flats around the **Grand Market Circle**: the great licensed markets and the chandlers who retail what the city does not make, the banking houses of [[affiliation-danvar|the Danvar]], and the administrative guild-halls of [[affiliation-tevran|the Tevran Maldor]]'s trades (their workshops, like everything else, kept outside).
 
 The Wharves
-: the river port beneath **Nerval** on the **River Circle**, where the barges land: the bulk granaries and warehouses, the fish-market, the watermen and porters, and the registered **foreigners' quarter** of resident Taruzelian, Nordling, and Khelathi traders.
+: the river port beneath **Nerval** on the **River Circle**, where the barges land: the bulk granaries and warehouses, the fish-market, the watermen and porters, and the registered **foreigners' quarter** of resident Taruzelian, Nordman, and Khelathi traders.
 
 The Scholars' District
 : the [[affiliation-panepistmm|Epistémion]] campus, on **Mernel** around the Circle of Marendas (detailed below).
@@ -242,7 +242,7 @@ The signs are everywhere for those who know to look—and many are impossible to
 
 The crowning marvel, the thing travelers cross a continent to see, is the **[[place-magngndorery|Grand Orrery]] (the Mechanical Court)**: an enormous **arcane-mechanical automaton** housed in a hall of the Grand Palace. Part clock, part theater, part diplomatic weapon, it is a wonder of brass, crystal, enchanted gears, and animate puppets the size of living men.
 
-At the great hours it comes to life: doors swing open with a sound of deep bells, and **mechanical figures** roll forth on hidden tracks—armored legionaries that salute in unison, gilded provinces personified as crowned women who bow toward the throne, a great clockwork eagle that spreads its wings, miniature augustars past who pace a circuit and return. The whole pageant moves with eerie, lifelike grace, its joints whispering, its eyes lit from within by a soft arcane glow. A celestial dial above tracks the wandering of sun, moon, and stars in real time.
+At the great hours it comes to life: doors swing open with a sound of deep bells, and **mechanical figures** roll forth on hidden tracks—armored legionaries that salute in unison, gilded provinces personified as crowned women who bow toward the throne, a great clockwork eagle that spreads its wings, miniature Orzoi past who pace a circuit and return. The whole pageant moves with eerie, lifelike grace, its joints whispering, its eyes lit from within by a soft arcane glow. A celestial dial above tracks the wandering of sun, moon, and stars in real time.
 
 It tells the hour, and it tells a _story_ as well: the inevitability of Vylarian order, the obedience of the world, the eternity of the throne. The Order maintains it jealously; only a handful of its **Magi-Artificers** know the full secret of its workings, and the cost of keeping it running is a closely guarded line in the imperial accounts.
 
@@ -258,7 +258,7 @@ The [[place-rathaunamelvar|Rathauna Melvar]] is a colossal oblong arena, the lar
 - **Gladiatorial combats**, beast-hunts, and public executions;
 - and, on the grandest occasions, the engineers **flood the arena floor** from the aqueducts to stage **mock sea-battles**—_naumachiae_—with real ships and real, dying men, to the roar of a quarter-million spectators.
 
-The roar of the Racecourse on a race day can be heard across half the city, and an augustar ignores the mood of those crowds at his peril.
+The roar of the Racecourse on a race day can be heard across half the city, and an Orzas ignores the mood of those crowds at his peril.
 
 ### The Theatre District
 
@@ -284,7 +284,7 @@ Beyond the Clearance, along the River Vylaris and well apart from the Necropolis
 
 ## The Necropolis
 
-A short way beyond the city, set apart from the living on the open plain, sprawls the [[place-necropolisorzara|Necropolis]]—a vast city of the dead that has grown for as long as Orzara itself. A metropolis of nearly a million souls produces a great many corpses, and the Necropolis is the answer to them: mile upon mile of tombs, mausolea, grave-terraces, and memorial avenues, ranked by wealth from the marble house-tombs of the senatorial families down to the pauper-trenches of the destitute, with augustars entombed in monuments visible from the city's edge.
+A short way beyond the city, set apart from the living on the open plain, sprawls the [[place-necropolisorzara|Necropolis]]—a vast city of the dead that has grown for as long as Orzara itself. A metropolis of nearly a million souls produces a great many corpses, and the Necropolis is the answer to them: mile upon mile of tombs, mausolea, grave-terraces, and memorial avenues, ranked by wealth from the marble house-tombs of the senatorial families down to the pauper-trenches of the destitute, with Orzoi entombed in monuments visible from the city's edge.
 
 It is tended jointly by two priesthoods that, anywhere else, would have little to say to one another: the Aureldian clergy of the [[affiliation-selmoros|Faith of Sélmoros]], who serve [[lore-selmorosdty|Sélmoros]], the Silent Judge, and the Asguardian clergy of [[affiliation-nahild|Nahild]]. Their shared custody of the dead is the root of the surprising power of Nahild's faith in the capital. The Necropolis is a city in its own right—with its own watch, its own quiet economy of funerary trades, and its own silent avenues—and the rumors of what the Náhild-priests keep, and tend, in its deeper vaults are enough that even bold Orzarans speak of the place with lowered voices.
 

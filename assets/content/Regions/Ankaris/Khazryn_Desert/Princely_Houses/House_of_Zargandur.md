@@ -60,7 +60,7 @@ The **House of Zargandur** is the war-house of the [[affiliation-khzrncnfdrtn|Te
 
 ## The Field and the Heir
 
-On the last morning of Zargandur the house's cavalry rode out of the north gate to meet the [Zhoqarod]{.name data-type="affiliation/polity"} host, and it was killed on the pasture to the last rider, the house's princes among them. The ground is the [[place-henhulpedin|Henhutpedin]], the blood-field, and the names of the riders were never read over them. The house keeps those names on its tablet. Under the filled trench lie its weapons, its horse-furniture and the princes' signets, and the house would give a great deal for one signet to prove who died in the sortie and where.
+On the last morning of Zargandur the house's cavalry rode out of the north gate to meet the [Zhoqarod]{.name data-type="affiliation/polity"} host, and it was killed on the pasture to the last rider, the house's princes among them. The ground is the [[place-henhulpedin|Henhutpedin]], the blood-field, and the names of the riders were never read over them. The house keeps those names on its tablet. The princes' signets lie with the palace household in the trench at [[place-relvanvesul|Relvanvesut]], and the house would give a great deal for one signet to prove who died in the palace and where.
 
 The heir is [Gureshay of Zargandur]{.name data-type="being/npc"}, twenty-seven, who trains as a soldier in the Kingdom's own forces. Kingdom law forbids the exile retinues any military activity, so the Kingdom's ranks are the one place in Amradad a Tellumi prince can learn war in the open. He is widely understood to be preparing for a reclamation, though he has set no date, and the militant faction of the exile community organizes round him more each year. His preparations are the only serious military planning the Confederation does.
 
@@ -73,7 +73,7 @@ Its enemy is plain. The Zhoqarod are the largest and most martial of the twelve 
 ## Hooks
 
 - **The count.** Gureshay pays in Amradad for a true count of the Zhoqarod at every gate of Zargandur. A party caught counting is treated as spies.
-- **A signet.** The court pays a fortune for a prince's signet out of the trench at Henhutpedin, and the people of the Tellumi quarter do not go near the stakes after dark.
+- **A signet.** The court pays a fortune for a prince's signet out of the trench at [[place-relvanvesul|Relvanvesut]], where raiders already dig and the dead have begun to come out.
 
 ## See Also
 
@@ -82,6 +82,9 @@ Its enemy is plain. The Zhoqarod are the largest and most martial of the twelve 
 
 [[place-henhulpedin|Henhutpedin]]
 : the field where its riders died
+
+[[place-relvanvesul|Relvanvesut]]
+: the trench that holds the princes' signets
 
 [[affiliation-cnclprinces|Council of the Princes]]
 : where the house sits

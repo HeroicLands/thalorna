@@ -22,7 +22,7 @@ The Racecourse holds the great events of the people:
 - **Gladiatorial combats**, beast-hunts and public executions.
 - **Mock sea-battles**, staged on the grandest occasions by flooding the arena floor from the aqueducts, with real ships and real, dying men.
 
-The Racecourse is one half of "bread and games": the capital's dole includes the price of the games. An augustar ignores the mood of those crowds at his peril. The [[affiliation-vylrnmltry|City Watch]] keeps a watch-house at the Racecourse Circle, where the race crowds and the factions gather and, often enough, brawl.
+The Racecourse is one half of "bread and games": the capital's dole includes the price of the games. An Orzas ignores the mood of those crowds at his peril. The [[affiliation-vylrnmltry|City Watch]] keeps a watch-house at the Racecourse Circle, where the race crowds and the factions gather and, often enough, brawl.
 
 ## See Also
 

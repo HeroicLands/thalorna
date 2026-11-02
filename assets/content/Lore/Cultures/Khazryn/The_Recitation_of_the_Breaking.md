@@ -448,7 +448,7 @@ nus denem gashem vannil. nerbem hagen vartish.
 : the morning the second year names
 
 [[place-henhulpedin|Henhutpedin]]
-: the field outside the north wall, and the signets in the trench
+: the field outside the north wall
 
 [[place-zargandur|Zargandur]]
 : the war-city, its weirs and the lamps in its quarter

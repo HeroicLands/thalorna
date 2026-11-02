@@ -26,7 +26,7 @@ Vulud is not a blood land. The city was emptied by a failing well, not by slaugh
 
 ## Treasure
 
-What a street holds depends on the season: shop-stock of a dozen peoples, weights and seals of the league's counting-houses, lamp glass from a fallen tower, a household's silver in a jar under a hearth. Nothing that was worth carrying was left, but a party opening a house nobody has entered in two thousand years finds what the last family did not think of.
+What a street holds depends on the season: shop-stock of a dozen peoples, weights and seals of the league's counting-houses, lamp glass from a fallen tower, a household's silver in a jar under a hearth. Nothing that was worth carrying was left, but a party opening a house nobody has entered in some nine hundred years finds what the last family did not think of.
 
 ## A Hook
 

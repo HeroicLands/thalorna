@@ -109,7 +109,7 @@ The captaincy of the permanent palace detail is among the most trusted postings 
 
 ## Plot Hooks
 
-- **The Donative Withheld.** A new Orzas, pressed for funds, has delayed the customary accession donative. The Guard Camp reads the delay as either weakness or insult, and more than one party is quietly sounding out the officers who command the watches.
+- **The Donative Withheld.** The reigning Orzas is old and the throne is to pass by adoption, and the Guard Camp expects a donative from whoever is named. The heir-designate's promise of one has not been paid, and a rival house is offering the officers a larger sum in advance of the adoption. The watches are weighing the promise against the coin, and each side is quietly sounding out the officers who command them.
 - **The Wrong Gate.** On a night of crisis, the question of which way the gates of the Guard Camp open will decide a succession. A handful of watch-captains hold the answer, and rival claimants and their agents are courting, threatening and bribing each of them.
 - **The Guard's Reach.** A senior guard officer has begun extending the guard's keeping of order within the Inner City into matters that properly belong to the imperial tribunals: arrests, detentions, quiet disappearances, all under color of protecting the throne. The civic courts and the affected great houses are alarmed. The Orzas finds the overreach useful and is in no hurry to curb it.
 

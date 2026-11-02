@@ -11,7 +11,7 @@ data:
   occupation: Gaoler
   lore: []
   culture: vylarianclt
-  homes: [ashenmere]
+  homes: [sanctara]
   affiliations: {provncmktr: {rank: 4}, olvenia: {rank: 1}}
   gender: male
   species: humanflk

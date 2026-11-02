@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Grain, wine and olive oil: the [[affiliation-vylarinmpr|empire]] lives on what Hilen grows. It is the territory of the [[affiliation-provnchyln|Province of Hilen]], seven million people on the fertile lowlands and terraced hillsides of the [[place-vylariargn|Vylaria Region]], where a few aristocratic families hold estates as large as valleys and grow the grain, wine and olive oil that the empire lives on. Its seat is [[place-aravantia|Aravantara]].
+Grain, wine and olive oil: the [[affiliation-vylarinmpr|empire]] lives on what Hilen grows. It is the territory of the [[affiliation-provnchyln|Province of Hilen]], seven million people on the fertile lowlands and terraced hillsides of the [[place-vylariargn|Vylaria Region]], where a few aristocratic families hold estates as large as valleys and grow the grain, wine and olive oil that the empire lives on. Its seat is [[place-aravantia|Aravantara]]. Only a small share of the seven million live in its towns; the rest live in the villages of the great estates, as tenants of the manor houses.
 
 An estate steward, riding the boundary with a newly hired bailiff on his first morning, gives the whole lesson in a few sentences: "Everything between this road and that ridge belongs to the house. Everything past the ridge belongs to the neighbors, and they sit in [[affiliation-seldan|Seldan]] (the Senate) too. Between us we send the capital its bread, and in all my years nobody in [[place-orzara|Orzara]] has asked how it gets there."
 

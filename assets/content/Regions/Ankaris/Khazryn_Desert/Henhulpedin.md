@@ -39,18 +39,21 @@ Nothing comes out of the field. No shape takes hold of a man. A Zhoqarod picket 
 
 ## What Is Still There
 
-Under the filled trench lie the war-house's weapons, its horse-furniture and the princes' signets, unstripped, because the Zhoqarod who filled the trench would not touch them. A banner-staff of the house stands in the trench with its cloth rotted off. The [House of Zargandur]{.name data-type="affiliation/lineage"}, in exile in the [[affiliation-kngdmmrdd|Kingdom of Amradad]], would give a great deal for a signet to prove who died in the sortie and where.
+Under the filled trench lie the war-house's weapons and its horse-furniture, unstripped, because the Zhoqarod who filled the trench would not touch them. A banner-staff of the house stands in the trench with its cloth rotted off. The [House of Zargandur]{.name data-type="affiliation/lineage"}, in exile in the [[affiliation-kngdmmrdd|Kingdom of Amradad]], keeps the riders' names on its tablet. The princes' signets are not here: they lie with the household in the trench at [[place-relvanvesul|Relvanvesut]].
 
 ## Hooks
 
 - **The reading.** The Tellumi of the quarter want a Delkoshekh to read the war-house's names over the field, which would very likely quiet it. The reading is forbidden in Zargandur on pain of hanging, and the Delkoshekh who could do it is a stranger who must be got into the city and out again.
 - **The captain.** A Zhoqarod captain relieved from the north gate this season is not sleeping, and her tribe is losing patience with her. She has quietly asked a Tellumi chandler whether anything can be done, and the chandler needs someone she can trust to carry her answer.
-- **The signet.** [Gureshay of Zargandur]{.name data-type="being/npc"} needs one signet from the trench. The stakes are unwatched at night, and the field is not.
+- **The night at the stakes.** The one picket the Zhoqarod left at the stakes overnight was found at dawn unhurt and unable to give any account, and nobody has tried again. The Tellumi of the quarter want to know what a night on the field does to a person who is warned and can speak of it afterward, because the dreams are the part that harms, and the stakes are unwatched in the dark.
 
 ## See Also
 
 [[place-zargandur|Zargandur]]
 : the city whose north wall it lies beyond
+
+[[place-relvanvesul|Relvanvesut]]
+: the second trench of the Breaking, east of the walls, with the princes' signets
 
 [[lore-bloodfield|Blood-fields]]
 : what a blood-field is, and why a lesser one breaks minds

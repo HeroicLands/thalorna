@@ -3,7 +3,8 @@ shortcode: rvthrbrmztr
 name: {full: Revothar Baremzator}
 type: being
 subType: npc
-tags: [todo, draft, clergy]
+description: A circuit priest of Lizelas who walks twelve tenant villages around Polthara, healing the sick, keeping grain moving to the hungry and listening to reformers within the Temple.
+tags: [clergy]
 data:
   icon: icon-person
   templatePriority: null
@@ -407,7 +408,7 @@ His training in the priesthood was demanding but suited to his temperament. He e
 
 By his early thirties, Revothar had petitioned to leave the Temple's structured hierarchy and adopt the life of a traveling circuit priest—largely his own master, but operating under the Temple's sanction and using its resources. He was granted permission, more because the Temple was grateful to be rid of a persistent voice of criticism than because it supported his vision. He established a circuit connecting twelve villages around Polthara, traveling in a strict sequence that allowed him to monitor crops, check on the ill, conduct seasonal blessings, and carry messages between isolated communities.
 
-Now, at thirty-eight, Revothar is known throughout the Polthara region as something close to essential. He has successfully promoted crop rotations that preserve soil fertility despite imperial neglect. His herbal remedies are talked of across the region—mothers clutch their children to him as though he were a relic of [[lore-lizelasdty|Lizelas]] herself. He delivers babies, tends the dying, and mediates disputes with a compassion that sets him apart from the harsher judgment of settled priests. Yet he is acutely aware that he is holding back a tide that may be too vast to resist. Each year, more families abandon their farms. Each season, scarcity deepens. He does not expect his efforts to transform the situation; he works from a conviction that abandoning hope is a form of spiritual death he cannot accept.
+Now, at thirty-four, Revothar is known throughout the Polthara region as something close to essential. He has successfully promoted crop rotations that preserve soil fertility despite imperial neglect. His herbal remedies are talked of across the region—mothers clutch their children to him as though he were a relic of [[lore-lizelasdty|Lizelas]] herself. He delivers babies, tends the dying, and mediates disputes with a compassion that sets him apart from the harsher judgment of settled priests. Yet he is acutely aware that he is holding back a tide that may be too vast to resist. Each year, more families abandon their farms. Each season, scarcity deepens. He does not expect his efforts to transform the situation; he works from a conviction that abandoning hope is a form of spiritual death he cannot accept.
 
 His greatest secret is that he has begun to operate outside the Temple's official authority. He maintains a network of hidden grain caches, has established channels of redistribution that blur the line between charity and theft, and corresponds with radical reformist movements within the priesthood that the Temple hierarchy would certainly suppress if they knew. He is not yet a rebel, but he is becoming one.
 
@@ -443,7 +444,7 @@ The Hidden Cache Discovered
 : Soldiers making an unannounced inspection discover one of Revothar's hidden grain caches, establishing proof that he has been stealing from Temple resources and redistributing them illegally. The Temple hierarchy demands his arrest; his villages threaten armed resistance. Revothar can flee, submit, or escalate into open rebellion against both the Temple and imperial authority.
 
 The Plague From the Capital
-: A disease arrives in the Polthara circuit from merchant caravans, spreading rapidly through the already-weakened population. Revothar realizes it is not a natural illness but appears to be deliberately cultivated—sown by the independence forces of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] to destabilize Vylaria's remaining heartland. He must mount a response that requires resources and authority far beyond his current position, and he must do it while keeping the cause secret, lest panic bring everything down.
+: A fever arrives in the Polthara circuit on the carts of grain factors and travelling merchants, spreading through the already-weakened villages. Revothar finds that it is a natural sickness, but rumor blames the Taruzelian factors who buy in the market, and the villagers turn on every stranger with a foreign accent. He must nurse the sick, hold the villages back from violence against the [[affiliation-cnfdrtntrzlnstts|Taruzelian Confederation]]'s traders, and find the supplies for a quarantine from a Temple and a province that would rather the matter stayed quiet.
 
 The Radical Ultimatum
 : The "[Gathering]{.name data-type="affiliation/faithtradition"}" reveals itself to be a network seeking to establish autonomous communities independent of both the Temple and imperial authority. They want Revothar to be the spiritual leader of their movement and are willing to provide resources and protection—but only if he commits to breaking entirely with the Church. His villages would support such a move, but it would mean sacrificing everything he has built within the institutional structure.

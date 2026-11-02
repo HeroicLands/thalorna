@@ -83,6 +83,8 @@ A steward of one of the great estates, asked by a visiting _gulmen_ (equestrian)
 
 ## Character
 
+Most of the province's people live outside its towns, in the villages that belong to the great estates, working the land as tenants of the lords whose manor houses stand at their centers.
+
 The estate lords live well, though not with the ostentatious wealth of the capital. Theirs is the quiet confidence of people who know that everyone else depends on what they grow.
 
 They resist the growing influence of the merchant class and of the Arcane Order alike, and they see themselves as the true guardians of Vylarian tradition. That makes Hilen a bastion of the [[affiliation-imperialcult|Imperial Cult]] and of the traditional practices of the [[affiliation-arldnpnthn|Aureldian Pantheon]]. The estates have a horror of civil war that the Empire's other provinces do not share, because the one battle the Empire fought between its own legions was fought on an estate of this province ([[lore-olcassabtl|The Battle of Olkassa]]). The field itself is [[place-olcassafld|the Blood-field of Olkassa]].

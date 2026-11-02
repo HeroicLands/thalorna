@@ -32,6 +32,8 @@ Vennara lives by the villas. Its people are porters, gardeners, plasterers, laun
 
 The villas themselves range from splendid to shabby. The great houses of the court keep theirs painted, gardened and staffed all year. Some of the oldest stand empty, kept by a single porter for families who can no longer afford the move, and others have been let. The villa of [[affiliation-varkalenis|House Varkalenis]], among the oldest in the hills, has been let for six summers to a tax-farmer of [[affiliation-tolvan|the Tolvan]], whom the neighboring houses do not receive. The town is quietly glad of him, since he pays his bills.
 
+One villa on the south hill belongs to [[affiliation-ordoarcanis|the Thordimalon]], which keeps it as a research house among the senatorial ones. It looks like its neighbors from the road, a pale wall, a gate and a porter's lodge, but its garden is bare of flowers, its cellars are dug deeper than a wine store needs, and its household is made of quiet people who buy their food in the town and their other supplies in the capital. The neighboring houses call it the Scholars' Villa and keep their gardeners out of its walls.
+
 ## Who Rules and Keeps Order
 
 Vennara is a chartered town under the [[affiliation-provinclys|Province of Alessa]], with two _tavemoi_ elected each year and a council of _kurthaloi_ answerable for its taxes, and in winter they govern it. In summer the stewards of the great villas govern it in practice: they hire the town's labor, buy its food, settle its quarrels with their households and bring their own guards. A townsman who has a complaint against a villa takes it to the steward, never to the _tavemoi_, who would only take it to the steward themselves.

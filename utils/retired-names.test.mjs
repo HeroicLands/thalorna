@@ -259,6 +259,20 @@ export const RETIRED = [
         scope: "corpus",
     },
     { retired: ["Khazri"], replacement: "Tellumi", scope: "corpus" },
+    {
+        retired: [
+            "Augustars",
+            "augustars",
+            "Augustari",
+            "augustari",
+            "Augustar",
+            "augustar",
+            "Augusta",
+            "augusta",
+        ],
+        replacement: "Orzas or Orzoi",
+        scope: "corpus",
+    },
     { retired: ["Teqemod", "teqemod"], replacement: "Ozhmarod", scope: "corpus" },
     {
         retired: [
@@ -339,22 +353,38 @@ export const RETIRED = [
 ];
 
 const LETTER = "\\p{L}\\p{M}";
-/** A `data.retired` row, the one entry a language note's lists write with `instead`. */
-const RETIRED_ROW = /^- \{form: [^,{}]+, instead: /u;
 const NOT_PROSE =
     /\[\[[^\]|]*(?=[|\]])|\]\([^)]*\)|`[^`]*`|(?<![\w-])(?:affiliation|place|lore|being|skill|icon|image)-[a-z0-9]+/gu;
 
 /**
  * The prose of a note: every line but a shortcode line, a terran_analog line
- * or a `data.retired` row, with link targets, addresses and code spans blanked.
+ * or a line inside the frontmatter's `data.retired` list (the `  retired:` key
+ * and its rows, one-line or block), with link targets, addresses and code
+ * spans blanked.
  * @param {string} text
  * @returns {string[]}
  */
 export function proseLines(text) {
+    let fence = 0;
+    let top = "";
+    let inRetired = false;
     return text.split("\n").map((line) => {
         const bare = line.trimStart();
+        if (line === "---" && fence < 2) {
+            fence += 1;
+            return line;
+        }
+        if (fence === 1 && bare !== "") {
+            const indent = line.length - bare.length;
+            if (inRetired && (indent > 2 || (indent === 2 && bare.startsWith("- ")))) return "";
+            inRetired = false;
+            if (indent === 0 && !bare.startsWith("#")) top = bare.split(":")[0];
+            else if (top === "data" && indent === 2 && bare.startsWith("retired:")) {
+                inRetired = true;
+                return "";
+            }
+        }
         if (bare.startsWith("shortcode:") || bare.startsWith("# terran_analog")) return "";
-        if (RETIRED_ROW.test(bare)) return "";
         return line.replace(NOT_PROSE, (m) => " ".repeat(m.length));
     });
 }
@@ -395,13 +425,32 @@ test("the sweep reads prose and passes over shortcodes, link targets and analogu
         "# terran_analog: Janus, the Roman god of gates",
         "See [[affiliation-janus|Faith of Árdavon]] and `Janus`.",
         "A priest of Jánus.",
-        "    - {form: Janus, instead: Árdavon, why: an Earth name}",
     ].join("\n");
     assert.deepEqual(sightings("x.md", text, ["Jánus", "Janus"]), ["x.md:4:13: Jánus"]);
 });
 
+test("a one-line data.retired row is passed over", () => {
+    const text = [
+        "---",
+        "data:",
+        "  retired:",
+        "    - {form: Janus, instead: Árdavon, why: an Earth name}",
+        "  inline: x",
+        "---",
+    ].join("\n");
+    assert.deepEqual(sightings("x.md", text, ["Janus"]), []);
+});
+
 test("a retired form inside a longer word is not a sighting", () => {
     assert.deepEqual(sightings("x.md", "Januspath and Vénusiana", ["Janus", "Vénusia"]), []);
+});
+
+test("the sovereign's retired Latin title is swept in both cases and its plurals", () => {
+    const forms = RETIRED.filter((r) => r.replacement === "Orzas or Orzoi").flatMap(
+        (r) => r.retired,
+    );
+    const text = "An augustar and the Augustars, two augustars, an Augustari, an Augusta.";
+    assert.equal(sightings("x.md", text, forms).length, 5);
 });
 
 test("no retired name stands in the prose of its scope", () => {
@@ -415,4 +464,39 @@ test("no retired name stands in the prose of its scope", () => {
         }
     }
     assert.deepEqual(findings, []);
+});
+
+test("a block-form data.retired row names its retired form without being a sighting", () => {
+    const text = [
+        "---",
+        "data:",
+        "  retired:",
+        "    - form: Augustar",
+        "      instead: Orzas",
+        "      why: a Latin title",
+        "  words:",
+        "    - form: Orzas",
+        "---",
+        "Prose.",
+    ].join("\n");
+    assert.deepEqual(sightings("x.md", text, ["Augustar"]), []);
+});
+
+test("an active block lexicon row naming a retired form is a sighting", () => {
+    const text = [
+        "---",
+        "data:",
+        "  retired:",
+        "    - form: Orzas",
+        "  words:",
+        "    - form: Augustar",
+        "      gloss: a ruler",
+        "---",
+    ].join("\n");
+    assert.deepEqual(sightings("x.md", text, ["Augustar"]), ["x.md:6:13: Augustar"]);
+});
+
+test("a prose line beginning form: is a sighting", () => {
+    const text = ["---", "data: {}", "---", "form: Augustar"].join("\n");
+    assert.deepEqual(sightings("x.md", text, ["Augustar"]), ["x.md:4:7: Augustar"]);
 });

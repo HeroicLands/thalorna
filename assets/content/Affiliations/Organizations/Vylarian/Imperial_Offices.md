@@ -43,6 +43,8 @@ data:
         Held by an Usos. Keeps the musters, the levies and the rolls of the legions, and enters each legion's losses.
       Usos of the Provinces: >-
         Held by an Usos. Keeps the desks that write in the throne's name to the provinces and the crowns, one desk for every province on the chancery's roll.
+      Master of the College of Heralds: >-
+        Held by an Usos. Heads the Imperial College of Heralds, which keeps the roll of arms, marks, liveries and precedence of every house of the Empire and sends heralds in the throne's name to courts, funerals and the proclamation of acts.
       Usher of Petitions: >-
         Held by a Clerk. Receives petitions at the petition gate, takes the fee and gives each petitioner his number.
   seat: arvon
@@ -81,6 +83,10 @@ Beneath the Keeper the Offices work in desks, each under an _usos_ (prefect). Th
 
 The forms are the government, and the desks keep them. A clerk who misfiles a census return can unmake a citizen as surely as a court can, because the rule the law schools teach first is that what is not on the roll is not in the city ([[lore-firewords|The Words Kept from the Fire]]).
 
+## The College of Heralds
+
+The Imperial College of Heralds is the desk of arms and precedence. Its heralds know every house's arms, marks and liveries and the order in which the houses stand before the throne, and no act of the throne is proclaimed, no embassy received and no funeral of a founding house held until a herald has settled who stands where. The Master of the College is an _usos_, and the College trains its heralds in country houses outside the capital as well as in the compound, among them the school that [[being-lrdmlnvsbr|Lord Aimilon Visbari]] keeps at [[place-polthara|Polthara]].
+
 ## What Goes Missing
 
 The Offices' records are vast enough that documents are lost in them for generations, and a man with the right friends can make an inconvenient law, debt or birth-record disappear. A case can be buried in the Offices' archives as surely as in a grave, and the favor of a _veramus_ (curator of the city) is one of the ways to arrange it. The losses are older than the clerks. The fire took most of the first three centuries of edicts, and every original the Guild keeps here was written after it. An archivist asked for the muster rolls of the army sent across the sea in 377 brings the roll, open at the right place: it records the legions as they embark and does not record their return ([[lore-deltaexped|The Delta Expedition]]). The Senate's claimant in [[lore-brkensuccsn|the Broken Succession]], [Sylarion]{.name data-type="being/npc"}, died in a room of the Offices whose door was not opened for two days ([[lore-restorehouse|The Restoration]]), and the room is a ledger store now.
@@ -111,6 +117,9 @@ The Offices' records are vast enough that documents are lost in them for generat
 
 [[affiliation-imprlscrblgld|The Imperial Scribal Guild]]
 : the scribes and the keepers of the archive
+
+[[place-polthara|Polthara]]
+: where a herald of the College keeps a school
 
 [[lore-archivefire|The Archive Fire]]
 : the fire the archive begins after

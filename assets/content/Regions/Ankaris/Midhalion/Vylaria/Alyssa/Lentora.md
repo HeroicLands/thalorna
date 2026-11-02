@@ -34,7 +34,7 @@ The country's produce passes through as well. Oil, wine, wool and grain are sold
 
 ## Who Rules and Keeps Order
 
-Lentora is a chartered town under the Province of Alessa, governed by two _tavemoi_ elected each year and a council of _kurthaloi_. The magistrates sit in the basilica on the forum and hear the city's suits, with appeal to the _therkos_'s court at [[place-alyssar|Alessar]]. The city keeps its own watch, a company of veterans paid by the council, which locks the gates at dark.
+Lentora is a chartered town under the Province of Alessa, governed by two _tavemoi_ elected each year and a council of _kurthaloi_. The magistrates sit in the basilica on the forum and hear the city's suits, with appeal to the _therkos_'s court at [[place-alyssar|Alessar]]. The council and the guilds run the province's ordinary business, the leases, the roads and the boundary suits, and Alessar's part is to seal it. The city keeps its own watch, a company of veterans paid by the council, which locks the gates at dark.
 
 A seat on the council is the city's great honor and its great danger. Each _kurthalos_ answers in his own person for the taxes Lentora owes, and when the harvest is poor and the city's collections fall short, the council makes up the difference from its members' purses. The _gulmen_ families compete for the honor in good years and send their sons to the capital in bad ones, so that nobody can be named to an empty seat. Lately the council has had more empty seats than it can fill. A factor who gives his name as a buyer of debts and will not say whose he is has bought up the notes of several of the lesser houses on the council, and the guilds talk of little else in the baths.
 
