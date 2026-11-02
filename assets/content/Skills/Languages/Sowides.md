@@ -6996,6 +6996,14 @@ data:
     - {name: Biilokur, tongue: sowides, built: [biiloq, -ur]}
     - {name: Khilodlun Biilokur, tongue: gloss, built: [Khilodlun, Biilokur]}
     - {name: Chief Khilodlun, tongue: gloss, built: [Khilodlun]}
+    - name: Evurakhaq
+      tongue: sowides
+      built: [evur, akhaq]
+      gloss: "the sky-father of the Open Sky"
+    - name: Jonkhiqekon
+      tongue: sowides
+      built: [jonkhiq, ekon]
+      gloss: "the earth-mother of the Open Sky"
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
