@@ -3,16 +3,16 @@ shortcode: nagaritgaj
 name: {full: Nagarit Gajabir, en: [Captain Nagarit]}
 type: being
 subType: npc
-description: Captain of the City Guard, a corrupt official who pursues Darmapalda Vimuktan with vendetta-like intensity.
+description: Commander of Vyalendra's Watch, a corrupt official who pursues Darmapalda Vimuktan with vendetta-like intensity.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [warrior]
-  occupation: Captain of the City Guard
+  occupation: Commander of the Watch
   lore: []
   culture: vedyariclt
-  homes: []
+  homes: [vyalendra3]
   affiliations: {}
   gender: male
   species: humanflk
@@ -36,4 +36,4 @@ Nagarit Gajabir is a 47-year-old man who stands 6'0" tall with a medium build. H
 
 # Dossier {#dossier}
 
-Nagarit Gajabir is the captain of the [City Guard]{.name data-type="affiliation"}, a corrupt official who views the independence of [[being-drmpldvmkt|Darmapalda Vimuktan]] from his authority as an insult and has made his removal a personal crusade, generating false charges and attempting to cut off his legitimate work.
+Nagarit Gajabir is the Commander of the Watch in [[place-vyalendra3|Vyalendra]], by the city's custom a graduate of the [[affiliation-dnrktjnpd|Danurkot academies]] and no Vyalendri, and a corrupt official who views the independence of [[being-drmpldvmkt|Darmapalda Vimuktan]] from his authority as an insult and has made his removal a personal crusade, generating false charges and attempting to cut off his legitimate work.

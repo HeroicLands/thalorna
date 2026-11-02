@@ -428,7 +428,7 @@ Vishvara stands 6'4" tall with a heavy build. He has warm golden brown skin, dar
 
 ### Born to the Waters
 
-Vishvara was born to a fishing family in one of the [[place-vedyarargn|Vedyara]] city-states' coastal settlements, the son of [Mahapar the Elder]{.name data-type="being/npc"}, a competent but undistinguished fisherman whose life was as unremarkable as it was difficult. From his earliest years, Vishvara knew the sea—learned to respect its moods, to read its signs, to accept both its generosity and its cruelty. His childhood was one of subsistence, of helping his father with nets and lines, of hunger when the catches were poor and modest plenty when fortune favored them.
+Vishvara was born to a fishing family on the shore below [[place-nilatir|Nilatir]], where the Nilachari reaches the eastern sea, the son of [Mahapar the Elder]{.name data-type="being/npc"}, a competent but undistinguished fisherman whose life was as unremarkable as it was difficult. From his earliest years, Vishvara knew the sea—learned to respect its moods, to read its signs, to accept both its generosity and its cruelty. His childhood was one of subsistence, of helping his father with nets and lines, of hunger when the catches were poor and modest plenty when fortune favored them.
 
 At age twelve, recognizing that his son possessed an instinctive affinity for the water and a body suited to the labors required, Vishvara's father arranged for him to be taken on as a cabin boy aboard [The Merchant's Fortune]{.name data-type="vehicle"}, a substantial trading vessel captained by Captain [[being-samuratrat|Samurat]], a seaman of great repute, known for his exacting standards and his unwillingness to tolerate laziness or negligence.
 
@@ -498,7 +498,7 @@ Vulnerability Outside His Element
 
 ### Patrons
 
-[The Merchant Captains' Collective]{.name data-type="affiliation"}
+The merchant captains of Nilatir
 : Various ship captains and merchants who regularly contract Vishvara's services respect his skill and seek his guidance. This informal circle provides him with steady employment.
 
 Shipping Industry Veterans
@@ -509,13 +509,13 @@ Shipping Industry Veterans
 Captain [[being-garunyataray|Garunya]] the Reckless
 : A younger, ambitious captain who represents everything Vishvara despises—puts speed and profit before safety, drives crews beyond reasonable endurance, and ignores the traditional practices that keep sailors alive. Their conflicts over the trade have become personal, with Garunya viewing Vishvara as an obstacle to progress.
 
-[The Trade Wardens]{.name data-type="affiliation/governmental"}
-: A new office of the crown charged with speeding maritime commerce has begun issuing rules that require faster sailing schedules and smaller crews. Vishvara views these policies as dangerous and has publicly criticized them, earning the Bureau's enmity.
+The master of the yards at [[place-nilatir|Nilatir]]
+: The Loom-Master's factor who runs the bale-yards, charged with clearing them in the weeks the sea is open, has begun pressing the masters for faster turnarounds and smaller crews. Vishvara views these demands as dangerous and has publicly criticized them, earning the factor's enmity.
 
 ### Affiliations
 
 The Informal Sailors' Network
-: Though not formally affiliated, Vishvara maintains close connections with sailors, riggers, and maritime workers throughout the Vedyara territories. He occasionally provides advice and support to those in crisis.
+: Though not formally affiliated, Vishvara maintains close connections with sailors, riggers, and maritime workers along the whole coast. He occasionally provides advice and support to those in crisis.
 
 ## Plot Hooks
 

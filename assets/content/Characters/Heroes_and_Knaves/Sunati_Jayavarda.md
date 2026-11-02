@@ -422,13 +422,13 @@ Sunati stands 5'7" tall with a medium build. She has rich brown skin, black hair
 
 ### The House of Jayavarda
 
-Sunati was born into the [House of Jayavarda]{.name data-type="affiliation/lineage"}, one of the most prestigious courtier families in the city-states of the [[place-vedyarargn|Vedyara Region]]. Her family has produced celebrated courtesans for four generations, each woman refined through intensive training in the arts of music, dance, conversation, and courtship. Rather than viewing this legacy as constraining, Sunati embraced it as her path to freedom—the courtier's trade being one of the few avenues through which women of Vedyara could accumulate wealth and independence.
+Sunati was born into the [House of Jayavarda]{.name data-type="affiliation/lineage"}, one of the most prestigious courtier families of [[place-chendrapur2|Chendrapur]]. Her family has produced celebrated courtesans for four generations, each woman refined through intensive training in the arts of music, dance, conversation, and courtship. Rather than viewing this legacy as constraining, Sunati embraced it as her path to freedom—the courtier's trade being one of the few avenues through which women of Vedyara could accumulate wealth and independence.
 
 ### The Education
 
 From childhood, Sunati studied. She learned the twelve classical dance forms before her twelfth year, mastered musical instruments under the tutelage of masters, and studied languages, poetry, and the arts of conversation. Her training was grueling and exacting, designed not merely to make her beautiful, but to make her useful—a woman whose company elevated those who sought her. She learned to read emotion like a master reader interprets sacred texts, to guide conversations with invisible subtlety, and to create an experience of connection that made wealthy patrons feel seen and understood.
 
-At eighteen, Sunati formally entered the courtesan's world, establishing herself in the courts of Vedyara's Shreshthins and the lesser great houses. Her reputation grew swiftly; she was wanted not merely for her beauty but for the sense that time spent with her was time spent with someone notable.
+At eighteen, Sunati formally entered the courtesan's world, establishing herself in the households of the city's Shroshtins and of the lesser houses. Her reputation grew swiftly; she was wanted not merely for her beauty but for the sense that time spent with her was time spent with someone notable.
 
 ### Present Mastery
 
@@ -440,7 +440,7 @@ Now, at twenty-eight, Sunati has moved beyond simply accepting patronage to cont
 
 Sunati is a paradox: deeply known and hidden. She possesses warmth and affection for those in her circle, yet maintains absolute control over which aspects of herself she reveals. Her conversation is luminous with intelligence, humor, and insight—she is never merely decorative but always a presence that elevates any gathering. Yet this very excellence creates distance; most of those who encounter her are aware that what they are experiencing is, in some sense, a performance—exquisitely crafted, but performance nonetheless.
 
-She is introspective and melancholic when alone, prone to philosophical reflection on the nature of connection and authenticity. She practices the worship of [[lore-vyalendradty|Vyalendra]], the creation-goddess, and views her work as a form of creation—the creation of beauty, meaning, and lasting experiences in the lives of those who seek her company. She is neither cynical nor naive about her work; she understands fully both its value and its limitations.
+She is introspective and melancholic when alone, prone to philosophical reflection on the nature of connection and authenticity. She practices the worship of [[lore-vyalendradty|Vyalendra]], the creation-god, and views her work as a form of creation—the creation of beauty, meaning, and lasting experiences in the lives of those who seek her company. She is neither cynical nor naive about her work; she understands fully both its value and its limitations.
 
 ### Motivation
 
@@ -466,7 +466,7 @@ Emotional Vulnerability
 : The very sensitivity that helps her understand others makes her vulnerable to emotional manipulation. Real connection terrifies her because it threatens her carefully maintained control.
 
 Social Stigma and Isolation
-: Despite her wealth and status, she is bound by the social position of her profession. She will never be accepted into the highest circles of respectability, and many wives of Kulinas view her with barely concealed hostility.
+: Despite her wealth and status, she is bound by the social position of her profession. She will never be accepted into the highest circles of respectability, and many wives of the Kulena view her with barely concealed hostility.
 
 The Trap of Beauty
 : Her power is fundamentally rooted in beauty and youth. The knowledge that these assets are temporary creates an underlying anxiety about her future and a desperation to build something that will outlast her physical appeal.
@@ -481,29 +481,29 @@ Ethical Complications
 Shroshtin [Chandipal Vyavaharuka]{.name data-type="being/npc"}
 : A powerful trader in textiles and spices who has maintained a consistent patronage of Sunati for the past four years. Though he is married, his relationship with Sunati is explicitly financial and social rather than romantic. He values her counsel on matters of business and politics.
 
-[The Council of Shreshthins]{.name data-type="affiliation/governmental"}
-: Collectively, Sunati has been an informal consultant and companion to multiple members of Vedyara's ruling merchant council, making her privy to significant political and commercial secrets.
+[[affiliation-chendrapur|The court of the Nine Houses]]
+: Sunati has been an informal consultant and companion to several of the Kulena who sit on the nine seats, making her privy to significant political and commercial secrets.
 
 ### Enemies
 
 [Sharti Kalanjani]{.name data-type="being/npc"}
 : A rival courtesan of equal talent who views Sunati as having stolen patrons and prestige that should rightfully be hers. Their competition is a matter of trade but bitter, and Sharti has attempted various forms of sabotage and social exclusion.
 
-[The Traditionalist Faction]{.name data-type="affiliation"}
-: A coalition of religious conservatives in Vedyara who view courtesans as corrupting influences and have begun advocating for restrictions on their freedoms. Sunati has become their symbolic target.
+The temple conservatives
+: A coalition of priests and devout householders of the city who view courtesans as corrupting influences and have begun advocating for restrictions on their freedoms. Sunati has become their symbolic target.
 
 ### Affiliations
 
-[The Circle of Free Courtesans]{.name data-type="affiliation"}
+The independent courtesans
 : An informal association of independent courtesans (as opposed to those bound to houses) who provide mutual support, share information about patrons, and collectively maintain standards. Sunati holds considerable influence within this circle.
 
 Worshippers of the [[affiliation-vyalendra|Vyalendra]] faith
-: While not formally organized, Sunati maintains connections with other devotees of the creation-goddess, viewing her work as a sacred practice of creation and meaning-making.
+: While not formally organized, Sunati maintains connections with other devotees of the creation-god, viewing her work as a sacred practice of creation and meaning-making.
 
 ## Plot Hooks
 
 The Dangerous Secret
-: A powerful client of a great house confesses to Sunati that he is planning to betray the merchant council in a trade agreement, with implications that could destabilize the entire city-state. He believes that his emotional intimacy with Sunati keeps her silent, but she is now caught between her loyalty to her patron system and knowledge of a conspiracy that could harm the city. Whom does she expose, and at what cost?
+: A powerful client of a great house confesses to Sunati that he is planning to betray the court of the Nine in a trade agreement, with implications that could destabilize the whole city. He believes that his emotional intimacy with Sunati keeps her silent, but she is now caught between her loyalty to her patron system and knowledge of a conspiracy that could harm the city. Whom does she expose, and at what cost?
 
 The Authentic Connection
 : A scholar and philosopher, [Kamasvamin Achorya]{.name data-type="being/npc"}, begins visiting Sunati with no interest in the typical courtier-patron dynamic. Instead, he seeks conversation and intellectual companionship. For the first time in her life, Sunati encounters someone who seems interested in her authentic self rather than her performed self. This threatens everything she has built—because it forces her to confront what authenticity even means for someone whose life is fundamentally built on controlled performance.
@@ -515,4 +515,4 @@ The Fading Beauty
 : A debilitating illness strikes Sunati—nothing immediately life-threatening, but something that will gradually diminish her physical capabilities and perhaps leave visible marks. She must confront the reality that the asset upon which she has built her entire life is becoming compromised. Her response—whether to retire gracefully, fight to remain relevant, or seek a different path—will define the next phase of her life.
 
 The Request for Betrayal
-: The merchant council approaches Sunati with an explicit request: use her intimate access to rival traders to gather intelligence on their plans. The payment is substantial, the advantage to the council is enormous, but the request crosses a line from personal patronage into active espionage. Accepting would compromise her carefully maintained neutrality and make her a tool of political power. Refusing would anger the very people whose patronage sustains her independence.
+: A Kulena of the Nine approaches Sunati with an explicit request: use her intimate access to rival traders to gather intelligence on their plans. The payment is substantial, the advantage to his house is enormous, but the request crosses a line from personal patronage into active espionage. Accepting would compromise her carefully maintained neutrality and make her a tool of political power. Refusing would anger the very people whose patronage sustains her independence.

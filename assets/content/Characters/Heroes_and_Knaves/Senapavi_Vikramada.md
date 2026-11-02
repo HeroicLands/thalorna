@@ -443,7 +443,7 @@ Senapavi stands 6'0" tall with a heavy build. He has medium brown skin, greying 
 
 # Dossier {#dossier}
 
-Senapavi Vikramada was born in the port cities of [[place-vedyarargn|Vedyara]] to a family of sailors and shipwrights. His father was a bosun before him, and his grandfather before that—a legacy stretching back generations into the merchant fleets and war galleys that built the City-States' prosperity. Senapavi learned his trade not from books or schools but from the deck itself, rising through competence and an almost instinctive understanding of what a crew needed to hold together under pressure.
+Senapavi Vikramada was born in [[place-nilatir|Nilatir]], the port [[place-vyalendra3|Vyalendra]]'s cloth leaves by, to a family of sailors and shipwrights. His father was a bosun before him, and his grandfather before that—a legacy stretching back generations into the merchant hulls and war galleys that carry the coast's trade. Senapavi learned his trade not from books or schools but from the deck itself, rising through competence and an almost instinctive understanding of what a crew needed to hold together under pressure.
 
 He served for fifteen years in the war-fleet of [[affiliation-chendrapur|Chendrapur]], where he rose to senior bosun and eventually served aboard the great war galley [Rasikara's Wrath]{.name data-type="vehicle"}, the fleet's flagship. Those years taught him that leadership is earned rather than delegated from above, by showing again and again that one knows the difference between rules and wisdom, between discipline and tyranny. When Chendrapur's fleet was reduced after a period of peace, Senapavi chose to leave military service and now works as a contract bosun, hiring himself out to merchant captains who recognize that his presence aboard their vessels means better organized, better run, more loyal crews.
 
@@ -508,10 +508,10 @@ Vulnerability to Loyalty
 Captain-Merchant [[being-priturajasam|Prituraja]]
 : A successful merchant captain who employs Senapavi regularly and considers him the foundation of his trading success. Prituraja has offered Senapavi a permanent position with significant authority, which Senapavi has declined.
 
-[The Shipwrights' Shrena of Vedyara]{.name data-type="affiliation/guild"}
-: Maintains good relationships with the shrena, occasionally consulting on matters of crew management and vessel design from the standpoint of practical seamanship.
+The shipwrights of [[place-chandrmukha|Chandramukha]]
+: Maintains good relationships with the yards that build Chendrapur's galleys, occasionally consulting on matters of crew management and vessel design from the standpoint of practical seamanship.
 
-[Temple of Rasikara]{.name data-type="affiliation"}
+[[affiliation-rasikara|Temple of Rasikara]]
 : Devoted practitioner and occasional volunteer in temple activities, though his faith is expressed through work rather than elaborate ceremony.
 
 ### Enemies
@@ -522,16 +522,16 @@ Captain [[being-darmejadar|Darmeja]] of the [Crimson Sail]{.name data-type="vehi
 Modernist Faction
 : A loose coalition of younger seafarers who view Senapavi's traditional methods as obstacles to progress, particularly the adoption of new rigs and instruments.
 
-[The Black Tides Syndicate]{.name data-type="affiliation/criminal"}
-: A maritime criminal organization that has attempted to recruit Senapavi, offering enormous payments for his assistance in crew management for their operations. His refusals have made him a target of their resentment.
+The coast smugglers
+: A ring of smugglers working the coast, who have attempted to recruit Senapavi, offering enormous payments for his assistance in crew management for their operations. His refusals have made him a target of their resentment.
 
 ### Affiliations
 
 [[lore-vedyariclt|Vedyaran]] Maritime Tradition
 : Though he works on contract rather than as an official representative, he is deeply connected to and considered an exemplar of Vedyaran maritime culture and values.
 
-[The Order of Mariners]{.name data-type="affiliation"}
-: An informal association of senior sailors and officers who maintain standards and traditions, and who respect Senapavi as one of their most honored members.
+The senior hands
+: An informal fellowship of senior sailors and officers who maintain standards and traditions, and who respect Senapavi as one of their most honored members.
 
 ## Plot Hooks
 

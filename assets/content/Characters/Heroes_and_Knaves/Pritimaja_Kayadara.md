@@ -426,9 +426,9 @@ Pritimaja stands 5'6" tall with a medium build. He has light golden skin, black 
 
 Pritimaja was born in the city of [[place-chendrapur2|Chendrapur]] to a family of respected jewelers, though not of the first rank. His father, [Vordaman]{.name data-type="being/npc"}, was a competent stone-setter of modest renown, skilled at the technical aspects of his craft but lacking the creative vision that transforms gems into things of beauty. Young Pritimaja displayed his creative gift early, spending hours studying how light refracted through uncut stones, experimenting with angles and facets that his father dismissed as wasteful deviation from proven techniques.
 
-At age twelve, Pritimaja was apprenticed to [Mohendra the Illuminator]{.name data-type="being/npc"}, master jeweler and keeper of the most esoteric secrets of gem-cutting. The apprenticeship was grueling—seven years of menial labor, failed experiments, and exacting criticism. Mohendra broke his spirit deliberately, Pritimaja later understood, to rebuild him according to the discipline the craft demanded. When finally, at nineteen, he was permitted to cut his first stone independently—a raw ruby of rare clarity—Pritimaja produced a gem of such beauty that it was purchased by a minor maharava and became famous within shrena circles.
+At age twelve, Pritimaja was apprenticed to [Mohendra the Illuminator]{.name data-type="being/npc"}, master jeweler and keeper of the most esoteric secrets of gem-cutting. The apprenticeship was grueling—seven years of menial labor, failed experiments, and exacting criticism. Mohendra broke his spirit deliberately, Pritimaja later understood, to rebuild him according to the discipline the craft demanded. When finally, at nineteen, he was permitted to cut his first stone independently—a raw ruby of rare clarity—Pritimaja produced a gem of such beauty that it was purchased by a maharava and became famous within shrena circles.
 
-For the next sixteen years, Pritimaja built his reputation through exacting work and new methods. He developed new techniques for cutting stones of particular colors, discovered that certain gem combinations enhanced each other's resonance, and created pieces that seemed to contain trapped light. His workshop in [[place-vedyarargn|Vedyara]] became a destination for wealthy patrons from across the known world. Yet his success has been accompanied by rising anxiety—the perfectionism that drives his artistry has begun to poison his life, the business demands of managing commissions threatening to overwhelm his ability to create.
+For the next sixteen years, Pritimaja built his reputation through exacting work and new methods. He developed new techniques for cutting stones of particular colors, discovered that certain gem combinations enhanced each other's resonance, and created pieces that seemed to contain trapped light. His workshop in Chendrapur became a destination for wealthy patrons from across the known world. Yet his success has been accompanied by rising anxiety—the perfectionism that drives his artistry has begun to poison his life, the business demands of managing commissions threatening to overwhelm his ability to create.
 
 ## Psyche
 
@@ -447,7 +447,7 @@ Pritimaja seeks to create lasting beauty that outlasts human years, objects that
 ### Strengths
 
 Gem-Cutting Mastery
-: Pritimaja's skill at identifying the best cut for any stone, understanding how light plays through facets and how to maximize a gem's inherent beauty, is acknowledged as the finest in the City-States. He can rescue gems other cutters would consider flawed, transforming them into pieces of great beauty.
+: Pritimaja's skill at identifying the best cut for any stone, understanding how light plays through facets and how to maximize a gem's inherent beauty, is acknowledged as the finest in Chendrapur. He can rescue gems other cutters would consider flawed, transforming them into pieces of great beauty.
 
 Innovative Metallurgical Knowledge
 : Beyond cutting, he has experimented extensively with different alloys and metals, discovering combinations and treatments that achieve effects others believed impossible. His metalwork is as much alchemical achievement as craftsmanship.
@@ -485,11 +485,11 @@ Vulnerability to Manipulation
 [Chendrika Deshponde]{.name data-type="being/npc"} of a great house
 : A woman of a great house, of impeccable taste who has patronized Pritimaja's work for twelve years, commissioning increasingly ambitious pieces. She has become his closest confidant, though neither has articulated the affection that has grown between them. She represents both his greatest patron and his most significant emotional entanglement.
 
-The Merchant Rajahs of the [Spice Confederation]{.name data-type="affiliation/venture"}
+The spice-trading families
 : A consortium of wealthy merchant families who have collectively commissioned significant numbers of Pritimaja's pieces for gifts and personal adornment. Their patronage keeps his business solvent during slow seasons.
 
-[The Temple of Vyalendra]{.name data-type="affiliation"}
-: The great temple honors the deity [[lore-vyalendradty|Vyalendra]] (creation and craftsmanship) and regularly commissions sacred vessels, ceremonial jewels, and ritual objects from Pritimaja. This work sustains him spiritually even when it provides less income than private commissions.
+[[affiliation-vyalendra|The Temple of Vyalendra]]
+: The great temple honors the god [[lore-vyalendradty|Vyalendra]] (creation and craftsmanship) and regularly commissions sacred vessels, ceremonial jewels, and ritual objects from Pritimaja. This work sustains him spiritually even when it provides less income than private commissions.
 
 Master Mohendra's Heirs
 : The family of his former teacher continues to commission his work and has become something like family, particularly Mohendra's granddaughter [Sunavi]{.name data-type="being/npc"}, who shares his love of creative problem-solving and has called him Pritu since she was a child.
@@ -502,18 +502,18 @@ Master Mohendra's Heirs
 Maharava [[being-devanurvasa|Devanur Vasavesha]]'s Estate Administrators
 : After Devanur's death, his heirs have demanded Pritimaja return or provide compensation for an extraordinary piece that was commissioned but never completed. The administrators are pursuing legal action, claiming Pritimaja stole materials and payment without delivering the promised work. Pritimaja abandoned the piece because he could not achieve the vision he promised, but the administrators view this as simple theft.
 
-The [Shrena Council]{.name data-type="affiliation/governmental"}'s Conservative Faction
+The jewelers' shrena's conservative masters
 : Certain shrena masters view Pritimaja's new methods with suspicion, fearing that his experimental techniques violate traditional craft standards and compromise the shrena's integrity. They have moved to restrict his teaching and limit access to the finest raw materials.
 
 ### Affiliations
 
-[The Jewelers' Shrena of Vedyara]{.name data-type="affiliation/guild"}
-: Pritimaja is a master member in full standing, though his relationship with certain factions is strained due to methodological disagreements.
+The jewelers' shrena
+: Pritimaja is a master member of the city's jewelers' shrena in full standing, though his relationship with certain factions is strained due to methodological disagreements.
 
 The Temple of Vyalendra
 : He is a devoted follower and regular contributor of work, viewing his craftsmanship as a form of worship.
 
-[The Artisans' Collective]{.name data-type="affiliation"}
+A circle of master craftspeople
 : An informal network of master craftspeople from various disciplines who gather monthly to discuss techniques, challenges, and philosophical questions about their work.
 
 ## Plot Hooks
@@ -528,7 +528,7 @@ The Flawed Foundation
 : A piece Pritimaja created five years ago for a great temple is discovered to be structurally flawed in a way that is causing serious problems. The flaw was caused by Pritimaja's decision to use an inferior grade of metal in one section to preserve a fine gem and remain within the sum the temple set. The temple's high priests demand replacement, but Pritimaja's close examination reveals that the piece has actually become more beautiful over time as the flaw has worked in unexpected ways. The temple views this as excuse-making; Pritimaja faces public humiliation, potential sanctions from the shrena, and the spiritual weight of compromising his standards, even if inadvertently. He must either create a perfect replacement (costing him his financial security) or publicly defend a piece he knows was born from compromise.
 
 The Dangerous Shrena Politics
-: A power struggle erupts within the Jewelers' Shrena between the conservatives who oppose Pritimaja's methods and the reformers who champion his new methods. Both factions attempt to recruit him as their symbol and figurehead. Pritimaja discovers that the core of the conflict isn't actually about technique—it's about control of access to certain rare gems imported from distant lands. Taking sides will inevitably alienate powerful figures, yet remaining neutral is politically impossible. His choice will reshape the shrena's future and determine whether his methods are allowed to flourish or systematically suppressed.
+: A power struggle erupts within the jewelers' shrena between the conservatives who oppose Pritimaja's methods and the reformers who champion his new methods. Both factions attempt to recruit him as their symbol and figurehead. Pritimaja discovers that the core of the conflict isn't actually about technique—it's about control of access to certain rare gems imported from distant lands. Taking sides will inevitably alienate powerful figures, yet remaining neutral is politically impossible. His choice will reshape the shrena's future and determine whether his methods are allowed to flourish or systematically suppressed.
 
 The Love Entanglement
 : Chendrika, Pritimaja's long-time patroness and confidant, reveals that she has come to love him and asks him to consider marriage. Simultaneously, Pritimaja receives a request from a young scholar and potential collaborator—someone whose creative vision matches his own—who has traveled across multiple realms specifically to study his techniques and who clearly admires him romantically as well. The two paths are very different: security and comfort with Chendrika, or excitement and shared creation with the scholar. His choice will affect his personal life, his art, and his working relationships, as both parties are deeply embedded in his world.

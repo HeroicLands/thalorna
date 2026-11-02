@@ -422,7 +422,7 @@ Driksharana stands 5'7" tall with a light build. He has warm honey skin, dark br
 
 # Dossier {#dossier}
 
-Born in the merchant quarters of a great city-state in [[place-vedyarargn|Vedyara]], Driksharana was the youngest of seven children to a textile weaver's family. His childhood was marked by modest comfort and the constant hum of looms, his mother's lullabies for her youngest, whom she called Driksha, layered beneath the rhythmic clacking of threads. At fourteen, he was apprenticed to the household of [Vedastira]{.name data-type="being/npc"}, a rising administrator in the city's merchant council, where his natural grace and keen observational abilities quickly earned him a position as personal attendant. It was during these formative years that he received the waterfall tattoo—a spiritual marker from a wandering priest of [[affiliation-rasikara|Rasikara]] who saw in the young Driksharana the fluidity and adaptability that would define his path.
+Born in one of the nine quarters of [[place-chendrapur2|Chendrapur]], Driksharana was the youngest of seven children to a textile weaver's family. His childhood was marked by modest comfort and the constant hum of looms, his mother's lullabies for her youngest, whom she called Driksha, layered beneath the rhythmic clacking of threads. At fourteen, he was apprenticed to the household of [Vedastira]{.name data-type="being/npc"}, a rising administrator in the household of one of [[affiliation-chendrapur|the Nine Houses]], where his natural grace and keen observational abilities quickly earned him a position as personal attendant. It was during these formative years that he received the waterfall tattoo—a spiritual marker from a wandering priest of [[affiliation-rasikara|Rasikara]] who saw in the young Driksharana the fluidity and adaptability that would define his path.
 
 For the past decade, Driksharana has served his current employer with dedication, managing the social choreography that accompanies life in a great-house household. His duties range from ceremonial service at grand feasts to the subtle work of anticipating his master's needs before they are voiced. He has become indispensable to the household's smooth operation, yet he remains largely invisible—the way a truly skilled servant becomes part of the architecture of privilege itself.
 
@@ -475,7 +475,7 @@ Emotional Vulnerability
 ### Patrons
 
 Vedastira
-: The merchant administrator who first employed Driksharana now advocates for him as the finest house servant in the city-state. Their relationship is one of quiet mutual respect, though Driksharana often fears disappointing his patron.
+: The merchant administrator who first employed Driksharana now advocates for him as the finest house servant in the city. Their relationship is one of quiet mutual respect, though Driksharana often fears disappointing his patron.
 
 [Chintaya]{.name data-type="being/npc"}
 : Vedastira's wife has grown to rely on Driksharana's counsel in matters of household aesthetics and entertaining; she treats him with warmth rare in the great-house households.
@@ -490,8 +490,8 @@ The Hierarchy Itself
 
 ### Affiliations
 
-[The Servants' Shrena of Vedyara]{.name data-type="affiliation/guild"}
-: Driksharana maintains loose ties with this association, which advocates for fair treatment and standard wages across the city-states.
+The servants' shrena
+: Driksharana maintains loose ties with the city's servants' shrena, which advocates for fair treatment and standard wages in the households of the nine quarters.
 
 ## Plot Hooks
 
@@ -502,7 +502,7 @@ A Kulena's Indiscretion
 : While attending his master at a diplomatic gathering, Driksharana witnesses a high-ranking official commit a crime—perhaps murder, theft, or treason. His position allows him access to places and conversations that could expose the truth, but revealing what he knows would destroy his employer's political alliance. He struggles with whether duty to law or loyalty to his patron should prevail.
 
 The Underground Network
-: Driksharana discovers that the servants' network extends far deeper than he realized—some within his trusted circle are part of an organization moving escaped slaves, refugees, and the persecuted through hidden passages beneath the city-states. He must decide whether to join their dangerous cause or maintain his comfortable position of plausible ignorance.
+: Driksharana discovers that the servants' network extends far deeper than he realized—some within his trusted circle are part of an organization moving runaway bonded servants, refugees, and the persecuted through hidden passages in [[place-lowercourses|the lower courses]] beneath the city. He must decide whether to join their dangerous cause or maintain his comfortable position of plausible ignorance.
 
 A Master's Secret Heir
 : Driksharana learns that Vedastira fathered a child with a servant woman years ago, a child he has denied and paid to keep hidden. When that child surfaces—perhaps claiming legitimacy, perhaps in desperate circumstances—Driksharana must choose between his master's reputation and the unknown heir's rightful claim. The situation becomes further complicated when parties hostile to the family seek to exploit this scandal.

@@ -427,15 +427,15 @@ Madurava stands 5'10" tall with a medium build. He has medium brown skin, greyin
 
 ### The Scholar's Calling
 
-Madurava was born into [House Sutrapal]{.name data-type="affiliation/lineage"}, a minor but respected family in the city-states of the [[place-vedyarargn|Vedyara Region]] known for their mastery of written records and genealogical study. His father, a scribe of some renown, taught young Madurava the sacred discipline of heraldry—as the art of rendering arms and blazonry, and as a language of political authority, ancestral legitimacy, and divine right. Where other youths his age pursued martial glory or mercantile wealth, Madurava devoted himself to the study of lineages, precedences, and the elaborate ceremonial forms that governed the complex relationships between the city's competing factions of the great houses. By his twentieth year, he had begun to establish himself as an authority on matters of succession and genealogical claim.
+Madurava was born into [House Sutrapal]{.name data-type="affiliation/lineage"}, a minor but respected family of [[place-chendrapur2|Chendrapur]] known for their mastery of written records and genealogical study. His father, a scribe of some renown, taught young Madurava the sacred discipline of heraldry—as the art of rendering arms and blazonry, and as a language of political authority, ancestral legitimacy, and divine right. Where other youths his age pursued martial glory or mercantile wealth, Madurava devoted himself to the study of lineages, precedences, and the elaborate ceremonial forms that governed the complex relationships between the city's competing factions of the great houses. By his twentieth year, he had begun to establish himself as an authority on matters of succession and genealogical claim.
 
 ### The Rise to Authority
 
-His true ascension came at age twenty-two, when he successfully arbitrated a succession dispute that threatened to tear apart the northern districts of the city. Through painstaking genealogical research and masterful interpretation of obscure heraldic precedent, Madurava determined the legitimate heir to a disputed Shroshtin title. The case established his reputation as both scholar and diplomat, and [The City Heralds' Shrena]{.name data-type="affiliation/guild"} recognized his genius by offering him full membership—an extraordinary honor rarely extended to one so young. Over the ensuing decades, his counsel was sought by increasingly powerful Kulinas, his interpretations of ceremony became authority, and his voice shaped the very structure of succession and legitimacy within the city-states.
+His true ascension came at age twenty-two, when he successfully arbitrated a succession dispute that threatened to set two of the city's quarters against each other. Through painstaking genealogical research and masterful interpretation of obscure heraldic precedent, Madurava determined the legitimate heir to a disputed Shroshtin title. The case established his reputation as both scholar and diplomat, and the heralds' shrena of the city recognized his genius by offering him full membership—an extraordinary honor rarely extended to one so young. Over the ensuing decades, his counsel was sought by increasingly powerful heads of the Nine Houses, his interpretations of ceremony became authority, and his voice shaped the very structure of succession and legitimacy within the court of the Nine.
 
 ### The Keeper of Tradition
 
-Now, at fifty, Madurava has become something of a living institution. He has served under four different Samantas, advised the appointments of countless heirs of the great houses, and witnessed the rise and fall of three major houses through carefully documented genealogical records. His chambers in the [Herald's Archive]{.name data-type="place/structure"} contain records dating back two centuries, all carefully maintained and cross-referenced by his own hand. Younger heralds regard him with a mixture of reverence and resentment—he is the keeper of the old ways, the guardian of tradition against the modernizing impulses that increasingly threaten to undermine the formal structures of governance by the great houses. He has trained fewer than a dozen successors in his long service, preferring to maintain absolute control over the most sensitive genealogical records and precedential interpretations.
+Now, at fifty, Madurava has become something of a living institution. He has served two Maharavas of [[place-moonhouse|the Moon House]], advised the appointments of countless heirs of the great houses, and witnessed the rise and fall of three major houses through carefully documented genealogical records. His chambers in the heralds' archive contain records dating back two centuries, all carefully maintained and cross-referenced by his own hand. Younger heralds regard him with a mixture of reverence and resentment—he is the keeper of the old ways, the guardian of tradition against the modernizing impulses that increasingly threaten to undermine the formal structures of governance by the great houses. He has trained fewer than a dozen successors in his long service, preferring to maintain absolute control over the most sensitive genealogical records and precedential interpretations.
 
 ## Psyche
 
@@ -445,12 +445,12 @@ Madurava is, above all, a man devoted to order and precedent. He speaks with del
 
 ### Motivation
 
-Madurava is driven by a conviction that the careful maintenance of heraldic tradition and genealogical record is essential to the preservation of civilization itself. He sees his role as guardian of records and, through them, of the social order itself. He is also motivated by a deep concern that the rising generation of heralds lacks the rigor and dedication necessary to maintain these standards, and he fears that once his knowledge passes from the world, the city-states will lose touch with the historical understanding that has preserved stability through generations. There is a personal element too: Madurava has never married and has dedicated his entire life to his work, and he seeks a successor worthy enough to inherit not just his office but his absolute commitment to heraldic truth and historical accuracy.
+Madurava is driven by a conviction that the careful maintenance of heraldic tradition and genealogical record is essential to the preservation of civilization itself. He sees his role as guardian of records and, through them, of the social order itself. He is also motivated by a deep concern that the rising generation of heralds lacks the rigor and dedication necessary to maintain these standards, and he fears that once his knowledge passes from the world, Chendrapur will lose touch with the historical understanding that has preserved stability through generations. There is a personal element too: Madurava has never married and has dedicated his entire life to his work, and he seeks a successor worthy enough to inherit not just his office but his absolute commitment to heraldic truth and historical accuracy.
 
 ### Strengths
 
 Encyclopedic Heraldic Knowledge
-: Madurava's understanding of precedent, ceremony, and genealogical law has no equal across the city-states. He can cite obscure rulings from a century prior without consulting records.
+: Madurava's understanding of precedent, ceremony, and genealogical law has no equal in Chendrapur. He can cite obscure rulings from a century prior without consulting records.
 
 Diplomatic Acumen
 : Though rigid in matters of formal ceremony, he is extraordinarily skilled in political disputes when they involve matters of precedence and legitimacy.
@@ -485,11 +485,11 @@ Physical Vulnerability
 
 ### Patrons
 
-Maharani [Savia]{.name data-type="being/npc"} of the [Central House]{.name data-type="affiliation/lineage"}
-: The most powerful figure of the great houses in the city-states, who has relied on Madurava's counsel for thirty years to maintain her family's dominance and resolve succession questions in her favor.
+Rojni [Savia]{.name data-type="being/npc"} of [[place-moonhouse|the Moon House]]
+: The Maharava's chief queen, who holds her own revenues, household and voice at court, and has relied on Madurava's counsel for thirty years to keep her household's standing and resolve succession questions in her favor.
 
-[The Council of Samantas]{.name data-type="affiliation/governmental"}
-: The executive body of the city collectively seeks his counsel on matters affecting the governance and legitimacy of their collective rule.
+[[affiliation-chendrapur|The court of the Nine Houses]]
+: The Kulena who sit on the nine seats seek his counsel on the successions within their houses, which the crown must confirm before an heir takes his seat.
 
 ### Enemies
 
@@ -501,11 +501,11 @@ Herald [[being-kalyanikakal|Kalyanika]] the Modernizer
 
 ### Affiliations
 
-The City Heralds' Shrena
+The heralds' shrena
 : Senior member and de facto keeper of the archive; wields enormous influence over the shrena's direction and standards.
 
-[The Council of Historical Scholars]{.name data-type="affiliation"}
-: Founding member of an elite academic circle devoted to the preservation and study of the city-states' historical records.
+A circle of scholars
+: Founding member of an elite circle of scholars devoted to the preservation and study of Chendrapur's historical records.
 
 House Sutrapal
 : His family house, for whom he acts as primary genealogical advisor and keeper of family records.
@@ -513,7 +513,7 @@ House Sutrapal
 ## Plot Hooks
 
 The Forged Heir
-: A scandal erupts when evidence appears suggesting that a document in Madurava's own archive—one establishing the legitimacy of the current Samonta's line—is a forgery dating back forty years. The discovery threatens one political figure and, beyond him, the stability of the entire city governance structure. Madurava becomes both investigator and defendant as competing factions use the scandal to advance their positions. The party might be hired to discover who forged the document, when, and to what purpose—or to help Madurava manage the political aftermath while preserving what remains of the legal order he has maintained.
+: A scandal erupts when evidence appears suggesting that a document in Madurava's own archive—one establishing the legitimacy of a sitting Kulena's line—is a forgery dating back forty years. The discovery threatens one political figure and, beyond him, the stability of the whole court of the Nine. Madurava becomes both investigator and defendant as competing factions use the scandal to advance their positions. The party might be hired to discover who forged the document, when, and to what purpose—or to help Madurava manage the political aftermath while preserving what remains of the legal order he has maintained.
 
 The Herald's Succession
 : Madurava finally selects an heir: a brilliant but headstrong younger herald named [Sorita]{.name data-type="being/npc"} who possesses the knowledge but lacks the reverence for tradition that Madurava considers essential. When Sorita begins immediately implementing reforms and reinterpreting precedents, Madurava finds himself facing opposition from his own chosen successor. The party becomes caught between the old herald's attempt to reassert authority and the new generation's desire to reshape the office for a changing age. The resolution will determine whether heraldic tradition survives in recognizable form.
@@ -522,7 +522,7 @@ The Secret Archives
 : Madurava discovers that his predecessor maintained a hidden archive—records of genealogical secrets, illegitimate children, falsified claims, and scandals deliberately omitted from the official record. The knowledge contained within could dismantle half the great houses currently in power. He can preserve secrecy and tradition, or expose truths that demand justice. The party may become his agents in either covering up the scandal or carefully releasing information to destabilize the corrupt power structures the false records have protected.
 
 A Matter of Legitimacy
-: A mysterious woman appears in the city claiming to be the true heir to the High Seat through a genealogical line that Madurava had presumed extinct. Her documentation is impeccable; her claim appears legitimate. Yet he suspects that she may be an impostor—and her revelation would overturn the current ruling structure. The party is hired to investigate her genealogy, travel to distant lands to verify family records, and determine whether she is who she claims or an elaborate deception. In the process, they discover far deeper conspiracies involving forged documents, hidden marriages, and political assassination.
+: A mysterious woman appears in the city claiming to be the true heir to the throne of the Moon House through a genealogical line that Madurava had presumed extinct. Her documentation is impeccable; her claim appears legitimate. Yet he suspects that she may be an impostor—and her revelation would overturn the current ruling structure. The party is hired to investigate her genealogy, travel to distant lands to verify family records, and determine whether she is who she claims or an elaborate deception. In the process, they discover far deeper conspiracies involving forged documents, hidden marriages, and political assassination.
 
 The Ritual of Succession
-: A great Kulena of ancient family approaches death, and an elaborate ceremonial succession must be conducted according to traditions so archaic that only Madurava fully understands them. The ceremony requires the participation of various warring factions within the city, and maintaining order and propriety while honoring the dead becomes a complex diplomatic challenge. The party acts as ceremonial guards or investigators as various factions move to manipulate the succession through ritual interruption, revelation of damaging genealogical truths, or outright assassination. The success or failure of the ceremony will determine the power balance within the city-states for the next generation.
+: A great Kulena of ancient family approaches death, and an elaborate ceremonial succession must be conducted according to traditions so archaic that only Madurava fully understands them. The ceremony requires the participation of various warring factions within the city, and maintaining order and propriety while honoring the dead becomes a complex diplomatic challenge. The party acts as ceremonial guards or investigators as various factions move to manipulate the succession through ritual interruption, revelation of damaging genealogical truths, or outright assassination. The success or failure of the ceremony will determine the balance of the nine seats for the next generation.
