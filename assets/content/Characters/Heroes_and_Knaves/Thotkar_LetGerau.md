@@ -517,7 +517,7 @@ Litigant [[being-gezehutyu2|Balinta]]
 
 ### Affiliations
 
-[Litigant's Guild]{.name data-type="affiliation/guild"}
+[Litigants' Guild]{.name data-type="affiliation/guild"}
 : A respected senior member who serves on the ethics committee and has been approached regarding leadership positions; his standards and reputation significantly influence Guild policy and standards of practice.
 
 [[affiliation-lemrethsaar|Lem'Reth'Sa'ar]]

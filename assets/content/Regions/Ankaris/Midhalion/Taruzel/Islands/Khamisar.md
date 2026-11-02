@@ -19,7 +19,7 @@ data:
 
 Every ship that goes through the heart of [[place-taruzelrgn|Taruzel]] passes between two capes three miles apart: on one hand the beacon of [[place-sharimun|Sharimun]] on the south-western cape of [[place-qalirel|Qalirel]], and on the other the cliffs of Khamisar and the walls of [[place-yamuzel2|Yamuzel]] above them. Khamisar's name is the narrows' purpose: _khamis-_, to close the sea to others, with _-ar_, where the thing is kept. The island is about twenty-five miles long, high and steep, and with the smaller island of [[place-milazun|Milazun]] to the south it makes the country of the city-state of [[affiliation-yamuzel|Yamuzel]], some two million people on Khamisar itself.
 
-Khamisar is a navy's island. Yamuzel's [Strait Fortress]{.name data-type="place/structure"} commands the narrows, its [Naval Yards]{.name data-type="place/site"} build the warships of the [[affiliation-cnfdrtntrzlnstts|Confederation]], and the rest of the island is arranged around keeping both supplied, manned and watched.
+Khamisar is a navy's island. Yamuzel's [[place-straitfortress|Strait Fortress]] commands the narrows, its [Naval Yards]{.name data-type="place/site"} build the warships of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], and the rest of the island is arranged around keeping both supplied, manned and watched.
 
 ## The Land
 

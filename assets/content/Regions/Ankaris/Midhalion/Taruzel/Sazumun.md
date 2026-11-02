@@ -59,7 +59,7 @@ data:
 sohl: {system: {commonSkills: [taruzelilng]}}
 ---
 
-The [House of Factors]{.name data-type="place/structure"} stands above Sazumun's harbor, and the merchant guilds that meet in it hold absolute power in the city-state. Sazumun is one of the five island city-states of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], some 2.5 million people around the city of [[place-sazumun2|Sazumun]] at the mouth of the [[place-alzriver|Alz River]], and it is the conduit through which goods flow between the Dunhari desert trade that crosses the strait, the market towns of the islands and the sea routes that connect [[place-taruzelrgn|Taruzel]] to the western realms.
+The [[place-houseoffactors|House of Factors]] stands above Sazumun's harbor, and the merchant guilds that meet in it hold absolute power in the city-state. Sazumun is one of the five island city-states of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], some 2.5 million people around the city of [[place-sazumun2|Sazumun]] at the mouth of the [[place-alzriver|Alz River]], and it is the conduit through which goods flow between the Dunhari desert trade that crosses the strait, the market towns of the islands and the sea routes that connect the [[place-taruzelrgn|Taruzel Region]] to the western realms.
 
 Kind
 : port city-state, governed by its merchant guilds

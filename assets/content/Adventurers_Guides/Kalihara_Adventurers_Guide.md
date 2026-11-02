@@ -24,7 +24,7 @@ The [Ithakan]{.name data-type="affiliation/order"} are the custodians, trained f
 
 ## Places and Dangers
 
-- Ilovanu, on the eastern coast, is a city of spice and gem merchants with an Aureldian temple for the foreigners; its merchant councils meet in the [House of Factors]{.name data-type="place/structure"}.
+- Ilovanu, on the eastern coast, is a city of spice and gem merchants with an Aureldian temple for the foreigners; its merchant councils meet in the [House of Factors]{.name ref="#ilovanu-factors"}.
 - [[place-vashuran|Vashurán]], [[place-nalurithan|Nalurithan]] and [[place-telvari|Telvari]] are smaller ports, more tightly controlled.
 - The approaches need a Kaliharan pilot; the currents around the island behave in ways foreign sailors call uncanny.
 - The crossing runs out of sight of land, and the weather on it is never certain. The trade winds carry a ship to Kalihara in about a week when they hold, masters wait in port for settled weather before sailing, and a ship a little off her line misses the island altogether.

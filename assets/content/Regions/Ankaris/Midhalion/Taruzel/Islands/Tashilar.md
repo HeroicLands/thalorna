@@ -29,7 +29,7 @@ The water is the island's difficulty. Tashilar has no river and few springs, and
 
 ## Harbors and Roads
 
-- **Bazunel.** The city's harbor on the southern shore is the Painted Harbor, lined with colored buildings and open-air theaters, and the Design Yards stand along its western arm.
+- **Bazunel.** The city's harbor on the southern shore is the [[place-paintedharbor|Painted Harbor]], lined with colored buildings and open-air theaters, and the [[place-designyards|Design Yards]] stand along its western arm.
 - **The northern coves.** The island's northern shore is a string of small coves with fishing harbors, facing Milazun across a channel that boats cross in an hour or two.
 - **The ridge road.** A road runs the length of the island along the hilltops from village to village, and from its highest point a traveler sees the whole of the archipelago's southern half on a clear day.
 - **The southern sea.** Ships for Au'Khelathu and the southern ports leave from Bazunel, and the Academy's navigators teach their pupils on those passages.

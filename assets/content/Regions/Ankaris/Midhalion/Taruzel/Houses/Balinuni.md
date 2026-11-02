@@ -49,7 +49,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The Balinuni ferries come in to the [Caravan Gate]{.name data-type="place/site"} of [[place-qudumel2|Kudumel]] low in the water and loud with camels, and the first person off each one is a clerk of the house with a tally-board, walking down the bales and chalking a share on every third one. The bales belong to the caravan masters who brought them across the strait. A share of nearly all of them belongs to the Balinuni.
+The Balinuni ferries come in to the [[place-caravangate|Caravan Gate]] of [[place-qudumel2|Kudumel]] low in the water and loud with camels, and the first person off each one is a clerk of the house with a tally-board, walking down the bales and chalking a share on every third one. The bales belong to the caravan masters who brought them across the strait. A share of nearly all of them belongs to the Balinuni.
 
 The Balinuni (from _balin-_, to share a venture) are the company of the shared venture, and they have built the richest house in Kudumel on the rule that the name gives them: they never own a caravan, and they take a share of nearly every one that lands. A caravan master on the Amradi shore who needs silver for his crossing takes it from a Balinuni factor as a partnership (_balinu_), and pays the house its share at the Gate when the goods are sold. He keeps his camels and his pride. The house keeps the share, and the ferries he crossed in.
 

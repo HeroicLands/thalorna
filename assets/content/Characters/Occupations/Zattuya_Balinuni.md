@@ -441,4 +441,4 @@ The Examination
 : The compact has called Zattuya to re-examination on a complaint about her marks. The complaint is the vezakum's, and the examiners are his.
 
 The Factors' Timber
-: The [House of Factors]{.name data-type="affiliation/governmental"} has contracted for cheap ship-timber from over the sea, and the shipwrights have been told to use it. Zattuya would not mark a tree like it.
+: The [[place-houseoffactors|House of Factors]] has contracted for cheap ship-timber from over the sea, and the shipwrights have been told to use it. Zattuya would not mark a tree like it.

@@ -482,7 +482,7 @@ Age
 : an Ilovanu merchant house in rare spice and cut stones, which has hired Tavonei for its three richest trains each year for over a decade, and keeps a factor in Kudumel for the purpose. **Merchant-Prince [[being-anoriveithav|Anorivei Thavoeli]]** asks for him by name for any cargo bound to a foreign hull, and trusts no one else with goods worth a fortune.
 
 [The Silk Caravans Consortium]{.name data-type="affiliation/venture"}
-: an association of independent factors in Kudumel's Caravansary Quarter who pool their goods for the desert trails. Tavonei is their first choice for the stretch between the Caravan Gate and the mainland shore, where the trail runs longest between wells.
+: an association of independent factors in Kudumel's Caravansary Quarter who pool their goods for the desert trails. Tavonei is their first choice for the mainland trail beyond the ferry landing, where it runs longest between wells.
 
 The Lady of [House Duravin]{.name data-type="affiliation/lineage"}
 : the widow of a foreign trading family long settled in the Ilovanu quarter, who hires Tavonei whenever she travels between Kalihara and Kudumel and values his discretion as much as his sword.

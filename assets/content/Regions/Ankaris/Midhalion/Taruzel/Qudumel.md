@@ -61,7 +61,7 @@ Kudumel's council keeps seats for men who do not live in the city. Representativ
 
 ## Who Decides
 
-The great guilds keep a presence in Kudumel and exercise less control here than in [[affiliation-besikar|Besikar]]. The local merchants have built networks of their own, and the council that governs the city answers to them and to the tribes as much as to the guilds. Its offices are the shared Taruzelian ones—a First of the Council with the seal, a Treasurer over the customs and tolls, a Warden of the Weights in the markets—worked by people who expect to deal across a language barrier before noon.
+The great guilds keep a presence in Kudumel and exercise less control here than in [[affiliation-besikar|Besikar]]. The local merchants have built networks of their own, and the council that governs the city answers to them and to the tribes as much as to the guilds. Its offices are its own: a First of the Council with the seal, Tribal Councilors named by the hill tribes, a Treasurer over the customs and tolls of the sea trade and of the caravans landed at the [[place-caravangate|Caravan Gate]], and a Warden of the Weights in the markets, all worked by people who expect to deal across a language barrier before noon.
 
 ## Who Lives Here
 

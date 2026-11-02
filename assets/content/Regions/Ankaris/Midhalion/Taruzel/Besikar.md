@@ -30,7 +30,7 @@ data:
       - level: 4
         title: Elector
         description: >-
-          A freeman holding property in the city, and with it a vote for the Council of Elders.
+          A freeman holding a property entered in the Roll at the Closing, and with it a vote for the Council of Elders.
       - level: 5
         title: House Head
         description: >-

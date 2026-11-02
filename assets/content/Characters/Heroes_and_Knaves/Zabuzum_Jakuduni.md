@@ -417,7 +417,7 @@ Zabuzum Jakuduni is a tall, rangy man with the sun-darkened skin and salt-roughe
 
 ### Early Life
 
-Zabuzum was born in the port of [[place-sazumun2|Sazumun]], one of the lesser harbors of the [[affiliation-cnfdrtntrzlnstts|Taruzelian Confederation]], to a family of modest cattle herders who worked the scrublands east of the city. His father died of a wasting sickness when Bu was eleven, leaving his mother to raise him alone. The boy grew up hard, learning self-reliance early. By fourteen he was working the docks for coin, and by sixteen he had signed onto a merchant vessel as a deckhand, desperate to escape the grinding poverty of the hinterland.
+Zabuzum was born in the port of [[place-sazumun2|Sazumun]], a city-state of some two hundred thousand and one of the great harbors of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], to a family of modest cattle herders who worked the scrublands east of the city. His father died of a wasting sickness when Bu was eleven, leaving his mother to raise him alone. The boy grew up hard, learning self-reliance early. By fourteen he was working the docks for coin, and by sixteen he had signed onto a merchant vessel as a deckhand, desperate to escape the grinding poverty of the hinterland.
 
 ### The Taruzelian War of Independence
 

@@ -45,7 +45,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-On the first morning of a session, before the doors of the [Grand Council Hall]{.name data-type="place/structure"} in [[place-besikar2|Besikar]] are opened to the public, a clerk of the treasury stands at the lectern with a ledger and reads five figures aloud. They are the weights of the five cities: the bullion and deposits that each city's houses hold with the [[affiliation-merazuni|Merazuni]], as the treasury's register gives them that morning. The twenty-five councilors write the figures down. Everything else the session does is counted against them.
+On the first morning of a session, before the doors of the [[place-grandcnclhall|Grand Council Hall]] in [[place-besikar2|Besikar]] are opened to the public, a clerk of the treasury stands at the lectern with a ledger and reads five figures aloud. They are the weights of the five cities: the bullion and deposits that each city's houses hold with the [[affiliation-merazuni|Merazuni]], as the treasury's register gives them that morning. The twenty-five councilors write the figures down. Everything else the session does is counted against them.
 
 The Grand Council is the federal council of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], and its charter makes every member city equal. Each of [[affiliation-besikar|Besikar]], [[affiliation-yamuzel|Yamuzel]], [[affiliation-qudumel|Kudumel]], [[affiliation-bazunel|Bazunel]] and [[affiliation-sazumun|Sazumun]] sends five councilors, and each councilor has one vote. The same charter counts every vote twice.
 

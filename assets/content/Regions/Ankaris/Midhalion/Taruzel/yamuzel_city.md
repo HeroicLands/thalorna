@@ -3,37 +3,85 @@ shortcode: yamuzel2
 name: {full: Yamuzel}
 type: place
 subType: settlement
-description: "The Confederation's naval stronghold on the narrows between the islands of Taruzel, where admirals' families govern and independence-war veterans wait on promises."
+description: "The Confederation's naval stronghold on the narrows between the islands of Taruzel: a fortress over the strait, the yards that build the fleet, admirals' houses on the height, and a Veterans' Quarter where the war's children have come of age."
 tags: [city, naval]
-data: {demonym: null, lore: [], parents: [khamisar], population: 180000, government: yamuzel}
+data:
+  demonym: null
+  lore: [humanflk]
+  parents: [khamisar]
+  population: 180000
+  packFolder: taruzel
+  government: yamuzel
 ---
 
 ## Overview
 
-Every year Yamuzel holds its [Fleet Review]{.name data-type="lore/gathering"}, and the whole city turns out on the walls and quays to watch its own ships go by. The Review commemorates the [Battle of Tamzir Shoals]{.name data-type="lore/history"} ([[place-tamzirshoals|Tamzir Shoals]]) and draws visitors from across the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], because Yamuzel built the fleet that won that battle. It is the Confederation's naval stronghold, a heavily fortified city of about 180,000 on the narrows between the islands of [[place-taruzelrgn|Taruzel]]. Where [[place-besikar2|Besikar]] runs on money, Yamuzel runs on pride.
+Every hull that goes through the heart of the islands of the [[place-taruzelrgn|Taruzel Region]] goes under the walls of Yamuzel. The city stands on the eastern cliffs of [[place-khamisar|Khamisar]], where the narrows close to three miles, with the [[place-straitfortress|Strait Fortress]] above the water and the beacon of [[place-sharimun|Sharimun]] burning on the far cape. It is the naval stronghold of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], a heavily fortified city of about 180,000 and the seat of the city-state of [[affiliation-yamuzel|Yamuzel]]. Its name is its work: _yamuz-_, to sail in company, with _-el_, the ground of it. Yamuzel built the fleet that won the [Battle of Tamzir Shoals]{.name data-type="lore/history"} ([[place-tamzirshoals|Tamzir Shoals]]), and where [[place-besikar2|Besikar]] runs on money, Yamuzel runs on pride.
 
-## The Fortress and the Yards
+## Arriving
 
-The [Strait Fortress]{.name data-type="place/structure"}, a massive coastal fortification, commands the passage through the archipelago, and no hull goes through the narrows without passing under its walls. The [Naval Yards]{.name data-type="place/site"} build and maintain the Confederation's warships. The city's admirals command the most powerful of those warships, and its marine infantry are the nearest thing Taruzel has to a professional standing army.
+A ship coming into the narrows is met by the Strait Fortress's guard-boat, a long galley with a marine officer in the stern, before she is abreast of the walls. The officer takes her name, her master's name, her cargo and her port of departure, and either sends her into the harbor under the fortress or tells her to anchor in the roads below it and wait for a convoy. The roads are full in the sailing season: merchantmen bound through the island channels lie there in rows for days, waiting for the galleys of the [[affiliation-corsairleg|Corsair League]] to take them through, and the convoy master of the [[affiliation-tanaduni|Tanaduni]], [Katira Tanaduni]{.name data-type="being/npc"}, gives each a place in the line.
 
-## Who Governs
+The harbor lies under the fortress at the foot of the cliff, a deep basin behind a mole of black stone, and the Harbormaster, a ship's captain named by the [Admiral's Council]{.name data-type="affiliation/governmental"}, berths the hulls by rank. The League's galleys and the warships come first, the admirals' houses' merchantmen next, and foreign hulls last, at the outer end of the mole where the swell comes in. From the quay the city climbs the cliff by stairs and a single switchback road wide enough for an ox-cart.
 
-The [Admiral's Council]{.name data-type="affiliation/governmental"} governs Yamuzel, drawn heavily from the naval families. The great families here are admirals' families, a family's status is measured in ships commanded and battles won, and the city's festivals turn on martial display rather than commercial spectacle.
+Nobody arrives on Khamisar unseen. A party that lands anywhere but the harbor meets a marine post within the hour, and the signal towers along the ridge road log every traveler by name, ship and errand.
 
-## The Veterans' Quarter
+## The Yards and the Harbor Streets
 
-Yamuzel is home to a large community of sailors and marines from the war of independence who settled here afterward, and the [Veterans' Quarter]{.name data-type="place/site"} is where they live. They were promised land, status and guild membership, and none of it was honored. The [[affiliation-auricompct|Auric Compact]] and the other great guilds regard them as a nuisance; the veterans regard the guilds as traitors to a cause the guilds financed and never bled for. The quarter is politically potent and grows more frustrated every year. The [[affiliation-corsairleg|Corsair League]] has its strongest roots in the city, and the captain of [[affiliation-thetamzir|the Tamzir]] has more connections in Yamuzel than anywhere else, and more enemies.
+North of the harbor, behind a wall of their own with one gate, lie the [Naval Yards]{.name data-type="place/site"}, which build and refit the Confederation's warships. Inside the wall are the slipways, eight of them, each with a hull on it in some stage of building; the timber ponds where the long keels from [[place-visizel|Visizel]] season under water; the rope-walks, a quarter-mile long, where men walk backward all day twisting hemp; the sail lofts; the tar kilns, whose smoke hangs over the north end of the city; and the armories. The yard men work by bells, live in the streets outside the gate and are searched leaving it. Every new galley of the League is built here to the lines of the [[affiliation-rusakuni|Rusakuni]] of [[place-bazunel2|Bazunel]].
+
+The harbor streets between the yards and the cliff are the city's market. Chandlers, sail-menders, slop-sellers, coopers and taverns crowd the lanes, and the League's hall stands at the head of the mole, a plain stone building with a ship's bell at its door where the League's captains sign their crews and settle their shares. The goods sold here are what a fleet uses. Wine and bread come in by boat from the terraces of the island's southern shore, and anything finer comes from Besikar.
+
+## The Height and the Quarter
+
+The admirals' houses stand on the height above the harbor, along a street of walled gardens with the Strait Fortress at its end. Each house keeps the models of its ships in its front room, behind windows that face the street, with a card under each model naming the battles she fought. A family's standing is counted in ships commanded and battles won, and the models are the count, kept where the street can read it.
+
+Below the height, on the slope between the admirals' street and the yards, lies the [Veterans' Quarter]{.name data-type="place/site"}, which its own people call Zabuzun, the place where men go unbound: _zabuz-_, to go unbound, with _-un_, where the act is done. The sailors and marines who fought the war of independence settled here after it, in tenements built for the yard men, and their children have grown up in it. Laundry hangs across every lane, the old broadsheets are pasted on the walls of the veterans' halls, and on the corner of every second street a man with one arm or one leg sells something. The quarter's veterans are freemen of the city who were promised land, guild places and pensions, and they are still waiting for them. The plays of the festivals are given here differently: [[lore-hullstrongroom|The Dispute of the Hull and the Strongroom]] ends without a verdict.
+
+## Who Rules and Keeps Order
+
+The Admiral's Council governs Yamuzel under a First of the Council who holds the seal for his term, and its councilors are seated by the weight of their houses, which are nearly all naval. The greatest of them is the Tanaduni, whose head, the admiral [Delzuru Tanaduni]{.name data-type="being/npc"}, commanded a squadron at the Shoals. The council's offices are military: a Warden of the Strait Fortress, a Master of the Naval Yards, a Commander of the Marines and the Harbormaster, each held by an admiral or a captain.
+
+The marines keep order in Yamuzel, and they keep a great deal of it. They man the gates, the stairs from the harbor, the yard wall and the ridge road, and a patrol of four walks every street of the city twice a day. A shopkeeper robbed in the night tells the patrol, and the patrol's sergeant brings the matter to the marine post at the head of his street, where it is judged by the post's captain the same morning. A quarrel between freemen goes to the city's court on the height, and a quarrel in the Veterans' Quarter goes, more often, to the hall on the corner. Many of the marines are veterans' sons, raised in the quarter, and the patrols there walk carefully.
+
+## Where a Party Lodges
+
+The taverns of the harbor streets let rooms by the night to sailors waiting for a ship, and their hosts know which captains are signing crews. The quieter inns stand on the switchback road halfway up the cliff, where the foreign masters waiting for a convoy lodge, and the best of them keeps a slate by the door listing the convoys forming in the roads. A party with business at the fortress or with an admirals' house is lodged by the house it came to see, on the height, and is walked about the city by one of its servants.
+
+## Hooks
+
+- **The plots.** Veterans from the quarter have begun to plough the marked plots on the island's southern terraces, saying the land was promised them, and the admirals' family that leases it wants the marines to clear them before the [Fleet Review]{.name data-type="lore/gathering"}.
+- **The toll.** Delzuru Tanaduni is pressing the [[affiliation-grandcouncil|Grand Council]] for a League toll on every hull that passes the narrows, and the foreign masters in the roads have heard. One of them hires a party to learn how the Admiral's Council will vote.
+- **The missing yard man.** A shipwright of the yards has not come back through the gate after the evening bell, and his tally of the day's timber is short by one keel.
+- **The ship models.** A model has vanished from an admirals' house window overnight, and its card has been left behind, with the name of one battle scratched out.
 
 ## See Also
 
 [[affiliation-yamuzel|Yamuzel]]
 : the city-state and its Admiral's Council
 
-[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
-: the confederation
+[[place-khamisar|Khamisar]]
+: the island the city stands on
+
+[[place-straitfortress|Strait Fortress]]
+: the fortress over the narrows
 
 [[affiliation-corsairleg|Corsair League]]
 : the guild with the strongest roots here
 
+[[affiliation-tanaduni|Tanaduni]]
+: the admirals' house of the city
+
 [[place-tamzirshoals|Tamzir Shoals]]
 : the battle the Fleet Review remembers
+
+[[place-zupumun|Zupumun]]
+: the narrows and the channels
+
+# The Truth of Yamuzel {#truth .secret}
+
+**The quarter shelters the outlaws.** The captains the guilds outlawed after the war have friends in every hall of the Veterans' Quarter, and a Free Captain who needs a new crew, a surgeon or a week ashore comes in at night by boat to the rocks below the slope and climbs to the halls by a goat path the marines know of. The marine patrols do not climb it. Their sergeants grew up in the quarter, some of their fathers sailed with the outlawed captains, and the Commander of the Marines has never asked why the path has no post. The captain of [[affiliation-thetamzir|the Tamzir]] has more friends in the quarter than anywhere else in Taruzel, and his enemies on the height know it.
+
+**The missing shipwright** sold the Rusakuni lines of the newest galley to a Vylarian agent for a sum that would buy him a house on the height, and went out with the evening boat to a hull in the roads. The missing keel is in the roads too, in the agent's hold, as proof of the drawings. The Master of the Naval Yards will want the drawings back before the Rusakuni hear of it.
+
+**The ship model** was taken by a veteran's son from the house of the captain whose ship broke from the line on the second day of the Shoals and was later counted among the victors. The card with the battle scratched out is the veterans' accusation, and the quarter knows exactly whose window it came from.

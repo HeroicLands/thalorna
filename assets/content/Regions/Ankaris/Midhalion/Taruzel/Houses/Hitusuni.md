@@ -47,7 +47,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Nearly every cargo that comes ashore at [[place-sazumun2|Sazumun]] spends a night or a season in a Hitusuni warehouse. The house's warehouses line the quays below the [House of Factors]{.name data-type="place/structure"}, white-walled like the rest of the waterfront and marked over each door with a blue wave breaking on a rock, and a cargo that enters one is sealed in wax with the house's mark until its tariff is paid to the guilds. The porters sing as they carry. The wardens at the doors are polite to everyone, and they write down who comes and goes.
+Nearly every cargo that comes ashore at [[place-sazumun2|Sazumun]] spends a night or a season in a Hitusuni warehouse. The house's warehouses line the quays below the [[place-houseoffactors|House of Factors]], white-walled like the rest of the waterfront and marked over each door with a blue wave breaking on a rock, and a cargo that enters one is sealed in wax with the house's mark until its tariff is paid to the guilds. The porters sing as they carry. The wardens at the doors are polite to everyone, and they write down who comes and goes.
 
 The Hitusuni (from _hitus-_, to lie hidden under water) take their name from the root that gives _hitusu_, a reef, and _hitusush_, a secret. Sazumun reads the name both ways.
 

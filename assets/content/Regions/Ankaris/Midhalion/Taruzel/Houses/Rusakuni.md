@@ -47,7 +47,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The loft of the Rusakuni is the long whitewashed room above the slipways of the [Design Yards]{.name data-type="place/site"} of [[place-bazunel2|Bazunel]], and its floor is the largest drawing in Taruzel. A new hull is drawn there full size in chalk, every rib and every curve of it, by draughtsmen on their knees with lengths of cord and pegs. The walls carry the sail-plans, the shelves carry half-models of every hull the house has drawn, and in the afternoons visitors climb up from the [Painted Harbor]{.name data-type="place/site"} to watch the draughtsmen work and buy a painted model to take home.
+The loft of the Rusakuni is the long whitewashed room above the slipways of the [[place-designyards|Design Yards]] of [[place-bazunel2|Bazunel]], and its floor is the largest drawing in Taruzel. A new hull is drawn there full size in chalk, every rib and every curve of it, by draughtsmen on their knees with lengths of cord and pegs. The walls carry the sail-plans, the shelves carry half-models of every hull the house has drawn, and in the afternoons visitors climb up from the [[place-paintedharbor|Painted Harbor]] to watch the draughtsmen work and buy a painted model to take home.
 
 The Rusakuni (from _rusak-_, to rig, which gives _rusakush_, a rope) are the company of the rigging. A hull drawn in Bazunel is known on any sea by its long lines and its clever rigging, and a large share of the hulls drawn in Bazunel are drawn in this loft.
 
@@ -81,7 +81,7 @@ What Abarash wants is to be free of the League. A house bound to the League draw
 
 ## Meeting the House
 
-A party meets the Rusakuni in the loft or in the theaters below it, through [Lushar Rusakuni]{.name data-type="being/npc"}, Abarash's nephew and the house's keeper of the drawings. He is thirty-one, handsome, idle in the evenings and very good at his work in the mornings, and he spends the evenings at the theaters of the Painted Harbor and at their card tables. He shows visitors the half-models, charms them into commissions and remembers which of them own ships.
+A party meets the Rusakuni in the loft or in the theaters below it, through [Lushar Rusakuni]{.name data-type="being/npc"}, Abarash's nephew and the house's keeper of the drawings. He is thirty-one, handsome, idle in the evenings and very good at his work in the mornings, and he spends the evenings at the theaters of the [[place-paintedharbor|Painted Harbor]] and at their card tables. He shows visitors the half-models, charms them into commissions and remembers which of them own ships.
 
 :::secret
 **For the GM:** Lushar is the one who carries the drawings to the Merchantry's broker, on his uncle's order, and he has begun carrying more than his uncle orders, to pay his own debts at the card tables. Among the drawings now in the broker's hands is the set for the League's newest galley, and the broker has a buyer for it in the [[affiliation-byzarianlg|Bizarian League]], Taruzel's great rival at sea.

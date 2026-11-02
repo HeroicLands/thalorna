@@ -400,7 +400,7 @@ Pushutan Qizikuni is a 41-year-old man who stands 5'7" tall and is of moderate b
 
 Born in the [[place-taruzelrgn|Taruzel region]] to a noble family of [[lore-taruzelianclt|Taruzelian]] heritage, Pushutan Qizikuni came into the world of the litigant through a combination of circumstance and aptitude.
 
-Pushutan has spent decades as a litigator, focusing on commercial law and trade disputes. His extensive experience and sharp legal mind have earned him a prominent position within the [Litigant's Guild]{.name data-type="affiliation/guild"}. Pushutan is respected for his analytical approach and ability to handle complex legal systems. He is known to mentor young litigants and is passionate about upholding the law.
+Pushutan has spent decades as a litigator, focusing on commercial law and trade disputes. His extensive experience and sharp legal mind have earned him a prominent position within the [Litigants' Guild]{.name data-type="affiliation/guild"}. Pushutan is respected for his analytical approach and ability to handle complex legal systems. He is known to mentor young litigants and is passionate about upholding the law.
 
 ## Psyche
 
@@ -418,7 +418,7 @@ Highly knowledgeable in commercial law, good strategist, respected mentor.
 
 ## Social
 
-Pushutan is affiliated with Litigant's Guild.
+Pushutan is affiliated with Litigants' Guild.
 
 As a Taruzelian litigant, Pushutan occupies a recognized social niche within Taruzel society.
 

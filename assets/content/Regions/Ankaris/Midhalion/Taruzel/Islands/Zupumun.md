@@ -12,7 +12,7 @@ data: {demonym: null, lore: [], parents: [taruzelrgn], population: 0, packFolder
 
 "Deep water is free," a pilot of [[place-yamuzel2|Yamuzel]] tells a captain who asks his fee. "You are paying me for the shallow." The waters of [[place-taruzelrgn|Taruzel]] are the strait between the islands and the Amradi shore, the narrows at the heart of the archipelago, and the channels that wind between the six inhabited islands and the rocks and islets around them. Taruzelians call them all **Zupumun**, from _zupum-_, to run, with _-un_, where the act is done: where the water runs. A current is a _zupumush_ in Taruzeli, and every pilot in the islands can name the currents of his own waters and the hours they turn.
 
-Two waters are both called "the strait", and a newcomer has to be told which is meant. **The strait** in a merchant's mouth is the crossing to the mainland. **The strait** in a sailor's mouth, and in the name of the [Strait Fortress]{.name data-type="place/structure"}, is the narrows under Yamuzel.
+Two waters are both called "the strait", and a newcomer has to be told which is meant. **The strait** in a merchant's mouth is the crossing to the mainland. **The strait** in a sailor's mouth, and in the name of the [[place-straitfortress|Strait Fortress]], is the narrows under Yamuzel.
 
 ## The Strait
 

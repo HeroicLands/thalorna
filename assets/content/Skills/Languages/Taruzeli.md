@@ -6767,6 +6767,19 @@ data:
     - {name: Guild Board of Shamular, tongue: translation}
     - {name: Sharimun, tongue: taruzeli, built: [sharim-, -un]}
     - {name: Guild Board of Sharimun, tongue: translation}
+    - {name: Khurutun, tongue: taruzeli, built: [khurut-, -un]}
+    - {name: Litigants' Guild, tongue: translation}
+    - {name: Gladiators' Guild of Sharimun, tongue: translation}
+    - {name: Glassworkers' Guild of Sharimun, tongue: translation}
+    - {name: The Forgetting, tongue: translation}
+    - {name: Belgina Sinnuni, tongue: taruzeli, built: [belgin-, -a, sinn-, -uni]}
+    - {name: Qadurum Basharuni, tongue: taruzeli, built: [qadur-, -um, bashar-, -uni]}
+    - {name: Qazima Zazuruni, tongue: taruzeli, built: [qazim-, -a, zazur-, -uni]}
+    - {name: Ashuran Dapumi, tongue: taruzeli, built: [ashur-, -an, dapum-, -i]}
+    - {name: Meraza Latari, tongue: taruzeli, built: [meraz-, -a, latar-, -i]}
+    - {name: Lamiran Dammuni, tongue: taruzeli, built: [lamir-, -an, damm-, -uni]}
+    - {name: Dammuni, tongue: taruzeli, built: [damm-, -uni]}
+    - {name: Tasiran Zattuni, tongue: taruzeli, built: [tasir-, -an, zatt-, -uni]}
     - {name: Sharrush Khamisuni, tongue: taruzeli, built: [sharr-, -ush, khamis-, -uni]}
     - {name: Tamzir Shoals, tongue: translation}
     - {name: Free Captains, tongue: translation}
@@ -6892,6 +6905,20 @@ data:
     - {name: Jiraman Rusakuni, tongue: taruzeli, built: [jiram-, -an, rusak-, -uni]}
     - {name: Danashu Kumuni, tongue: taruzeli}
     - {name: Yushuduya Jakuduni, tongue: taruzeli, built: [yushud-, -uya, jakud-, -uni]}
+    - {name: Grand Council Hall, tongue: translation}
+    - {name: Tamzir Monument, tongue: translation}
+    - {name: The Prize, tongue: translation}
+    - {name: Strait Fortress, tongue: translation}
+    - {name: Caravan Gate, tongue: translation}
+    - {name: Zabuzun, tongue: taruzeli, built: [zabuz-, -un]}
+    - {name: Painted Harbor, tongue: translation}
+    - {name: Design Yards, tongue: translation}
+    - {name: House of Factors, tongue: translation}
+    - {name: Zatturel, tongue: taruzeli, built: [zattur-, -el]}
+    - {name: Jiramun, tongue: taruzeli, built: [jiram-, -un]}
+    - {name: Nibura Visizuni, tongue: taruzeli, built: [nibur-, -a, visiz-, -uni]}
+    - {name: Helaruya Rasuni, tongue: taruzeli, built: [helar-, -uya, rasun-, -i]}
+    - {name: Pazasu Rasuni, tongue: taruzeli, built: [pazas-, -u, rasun-, -i]}
   retired:
     - {form: Tamavar, instead: Besikar, why: one letter from an Earth word}
     - {form: Kethara, instead: Yamuzel, why: an Earth word}

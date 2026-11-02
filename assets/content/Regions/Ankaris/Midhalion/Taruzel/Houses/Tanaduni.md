@@ -49,7 +49,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Every Tanaduni galley carries a black anchor painted on her bow, and on the mornings a convoy gathers in the roads below the [Strait Fortress]{.name data-type="place/structure"} of [[place-yamuzel2|Yamuzel]] there can be a dozen of them at once, oars shipped, waiting for the merchantmen to take their places between them. Over the door of the house on the harbor hangs the gilded stern-board of an imperial warship, cracked across the middle, and a child of the house is taken up to touch it on the day of its naming.
+Every Tanaduni galley carries a black anchor painted on her bow, and on the mornings a convoy gathers in the roads below the [[place-straitfortress|Strait Fortress]] of [[place-yamuzel2|Yamuzel]] there can be a dozen of them at once, oars shipped, waiting for the merchantmen to take their places between them. Over the door of the house on the harbor hangs the gilded stern-board of an imperial warship, cracked across the middle, and a child of the house is taken up to touch it on the day of its naming.
 
 The Tanaduni (from _tanad-_, to hold fast to the bottom, which gives _tanadush_, an anchor) are the company of the anchor. Yamuzel counts a family's standing in ships commanded and battles won, and by that count the Tanaduni stand near the top: the house sent a squadron to [[lore-tamzirbattle|The Battle of Tamzir Shoals]], and its head is one of the captains who founded the [[affiliation-corsairleg|Corsair League]] afterward.
 
