@@ -7,7 +7,7 @@ description: "The seat of the isthmus realm: a trading city built across the one
 tags: [city]
 data: {demonym: null, lore: [], parents: [neokbaatergn], population: 70000, government: neokbaate}
 
-# terran_analog: Cancuen, the port of trade where the highland and lowland routes met; the name, "Watery Bridge", is the realm's and the city's
+# terran_analog: Cancuen, the port of trade where the highland and lowland routes met; the name is the realm's and the city's
 ---
 
 ## Overview

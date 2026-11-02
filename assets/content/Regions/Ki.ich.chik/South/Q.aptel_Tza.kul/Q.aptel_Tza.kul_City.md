@@ -3,19 +3,20 @@ shortcode: qapteltzakl2
 name: {full: Q'aptel Tsa'kul}
 type: place
 subType: settlement
-description: "Seat of the Boundary Place, a fortress-temple that sells guides, provisions and blessings to those about to cross into the wastes."
-tags: [city, draft]
+description: "Seat of the border realm, a fortress-temple that sells guides, provisions and blessings to those about to cross into the wastes."
+tags: [city]
 data:
   demonym: null
   lore: []
   parents: [qapteltzaklrgn]
   population: 4000
   government: qapteltzakl
+  packFolder: qapteltzakul
 ---
 
 ## Overview
 
-Before the crossing south, a party stops at Q'aptel Tsa'kul, and the temple's quartermaster sells it everything it will need. The seat of [[affiliation-qapteltzakl|Q'aptel Tsa'kul]], the Boundary Place, about 4,000 people, is a fortress-temple built to endure at the last edge of the ordered Ki'ich'chik world, where managed fields and pyramid-cities give way to toxic mineral flats, hissing geothermal vents and a sky that glows sickly yellow or bruised purple with distant storms. The settlements here exist as waypoints for the doomed and the desperate.
+Before the crossing south, a party stops at Q'aptel Tsa'kul, and the temple's quartermaster sells it everything it will need. The seat of [[affiliation-qapteltzakl|Q'aptel Tsa'kul]], whose name begins with _q'aptel_, the border, about 4,000 people, is a fortress-temple built to endure at the last edge of the ordered Ki'ich'chik world, where managed fields and pyramid-cities give way to toxic mineral flats, hissing geothermal vents and a sky that glows sickly yellow or bruised purple with distant storms. The settlements here exist as waypoints for the doomed and the desperate.
 
 ## The Price of Passage
 

@@ -100,11 +100,11 @@ The Ch'um Ish'lan achieves remarkable speed across the vast distances of Ki'ich'
 - **Ish'ilankul to [[affiliation-xelem|Shelem]]** (highland to eastern frontier): 3–4 days, routing through K'ankul's coastal network and then by river relay
 - **Ish'ilankul to [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]]** (highland to upper south): 3–4 days via the great southern white road through Ne'ok Ba'ate
 - **Ish'ilankul to [[affiliation-kuxiixbal|K'ushi Ish'bal]]** (highland to southern frontier): 5–6 days—way-stations thin here, runners are harder to recruit, and the altitude slows passage
-- **Full network, Ish'ilankul to [[affiliation-qapteltzakl|Q'aptel Tsa'kul]]** (the last outpost): 7–8 days—the Speaking Road's practical limit; beyond Q'aptel Tsa'kul, the white roads end and communication relies on the courage of individual messengers
+- **Full network, Ish'ilankul to [[place-qptlulneok|Q'aptel'ul Ne'ok]]** (the last road shrine): 7–8 days—the Speaking Road's practical limit; beyond Q'aptel'ul Ne'ok, the white roads end and communication relies on the courage of individual messengers
 - **K'ankul coastal network** (internal): 1–2 days between major city-states via the coastal white road
 - **End to end, K'ankul to K'ushi Ish'bal** (eastern lowlands to southern frontier): 6–8 days, routing through Ish'ilankul
 
-Beyond K'ushi Ish'bal, the Speaking Road falls silent. The last k'otsel cord to arrive from the civilized world is decoded at [[place-qptlulneok|Q'aptel'ul Ne'ok]], and what lies further south depends on the bravery of individual runners who carry no priestly mandate. The Ch'um Ish'lan does not extend into the northern territories either—the northern nations have no white roads, and the great desert of Ch'akul Tsa'kul marks the network's northern boundary.
+Beyond Q'aptel'ul Ne'ok, the Speaking Road falls silent. The last k'otsel cord to arrive from the civilized world is decoded there, and what lies further south depends on the bravery of individual runners who carry no priestly mandate. The Ch'um Ish'lan does not extend into the northern territories either—the northern nations have no white roads, and the great desert of Ch'akul Tsa'kul marks the network's northern boundary.
 
 ## Faith
 

@@ -19,7 +19,7 @@ data:
 
 Q'aptel Tsa'kul Region is the land of [[affiliation-qapteltzakl|Q'aptel Tsa'kul]], and lies within [[place-southkiichchik|Southern Ki'ich'chik]] on the [[place-kiichchik|Ki'ich'chik Continent]].
 
-Q'aptel Tsa'kul is the threshold—the last gasp of civilization before the world breaks. The name itself means "The Boundary Place," and it is aptly given. Here, the ordered world of the [[affiliation-itzanpnthn|Itsani]], with its pyramid-cities and managed agriculture, gives way to something far darker and older. The land itself seems cursed or dying; toxic mineral flats spread across the earth like scars, geothermal vents hiss poisonous fumes, and the sky often glows sickly yellow or bruised purple with distant storms.
+Q'aptel Tsa'kul is the threshold—the last gasp of civilization before the world breaks. The name begins with _q'aptel_, "the border," and it is aptly given. Here, the ordered world of the [[affiliation-itzanpnthn|Itsani]], with its pyramid-cities and managed agriculture, gives way to something far darker and older. The land itself seems cursed or dying; toxic mineral flats spread across the earth like scars, geothermal vents hiss poisonous fumes, and the sky often glows sickly yellow or bruised purple with distant storms.
 
 The only settlements in Q'aptel Tsa'kul are its two fortress-temples, waypoints for the doomed and the desperate: the realm's seat, [[place-qapteltzakl2|Q'aptel Tsa'kul]], and the gate of the south, [[place-xelemchalix|Shelem Ch'alish]], at the region's southern edge.
 

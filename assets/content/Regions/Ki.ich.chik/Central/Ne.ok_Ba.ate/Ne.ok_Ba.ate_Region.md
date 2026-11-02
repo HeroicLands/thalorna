@@ -21,7 +21,7 @@ data:
 
 Ne'ok Ba'ate Region is the land of [[affiliation-neokbaate|Ne'ok Ba'ate]], and lies within [[place-centralkiichchik|Central Ki'ich'chik]] on the [[place-kiichchik|Ki'ich'chik Continent]].
 
-Ne'ok Ba'ate is the narrow isthmus that connects the great heartland of Ki'ich'chik civilization to the wilder, less centralized lands of the south. The name means "Watery Bridge" in the old language, and it is apt—a region of narrow continental shelf, volcanic peaks, and river valleys that forms a natural corridor for both the great trading roads and the ambitious armies of the northern city-states.
+Ne'ok Ba'ate is the narrow isthmus that connects the great heartland of Ki'ich'chik civilization to the wilder, less centralized lands of the south. The name begins with _ne'ok_, "running with water," and it is apt—a region of narrow continental shelf, volcanic peaks, and river valleys that forms a natural corridor for both the great trading roads and the ambitious armies of the northern city-states.
 
 Ne'ok Ba'ate is also the gateway of merchants. Goods flowing northward from the southern jungles—jaguar hides, macaw feathers, cacao from the highland margins, rare woods and medicinal herbs—pass through Ne'ok Ba'ate on their way to the [[place-ixilankulrgn|Ish'ilankul Region]] and the [[place-kankulrgn|K'ankul Region]]. Goods flowing southward—obsidian, fine textiles, ceremonial objects, and priests dispatched to extend the [[affiliation-itzanpnthn|Itsani faith]]—originate from the great northern city-states. Thus, Ne'ok Ba'ate is simultaneously a province and a chokepoint, a place where merchants grow wealthy but also where the ambitions of great powers often collide.
 

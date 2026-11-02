@@ -6,6 +6,7 @@ subType: criminal
 description: "Overview of competitive regional criminal syndicates—fragmented underworld where profit drives constantly shifting alliances and violent territorial disputes."
 tags: [organization, crime, underworld]
 data:
+  culture: vylarianclt
   templatePriority: null
   demonym: null
   epithet: null
