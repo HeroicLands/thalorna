@@ -9263,6 +9263,8 @@ data:
     - {name: Vylari, tongue: vylari}
     - {name: Karzen Ethlos Urzelthos, tongue: vylari}
     - {name: Felzen Hiltheren, tongue: vylari}
+    - {name: Karsan Soldan Korvan, tongue: vylari}
+    - {name: Pelsan Hilvan, tongue: vylari}
     - {name: Kervaron, tongue: vylari}
     - {name: Thordimalon, tongue: vylari}
     - {name: Revothar Baremzator, tongue: vylari}

@@ -3,7 +3,7 @@ shortcode: bulaqsovidyo
 name: {full: Bulachsovid Yovakur, en: [Administrator Bulachsovid, Town Administrator Bulachsovid]}
 type: being
 subType: npc
-description: The ambitious town administrator who views the animal training methods of Bazudar Shahrun as an obstacle to progress.
+description: The ambitious town administrator who views the animal training methods of Yovaqbeyuk Qibudur as an obstacle to progress.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Bulachsovid Yovakur is a 44-year-old man who stands 6'2" tall with a heavy build
 
 # Dossier {#dossier}
 
-Bulachsovid Yovakur is the ambitious town administrator of the farming community where [[being-bazdrshhrn|Bazudar Shahrun]] works. He views Bazudar's traditional animal-training methods as an obstacle to progress and has been quietly working to impose regulations that would force new techniques on him, motivated also by jealousy that Bazudar commands more real respect despite his lower social status.
+Bulachsovid Yovakur is the ambitious town administrator of the farming community where [[being-bazdrshhrn|Yovaqbeyuk Qibudur]] works. He views Yovaqbeyuk's traditional animal-training methods as an obstacle to progress and has been quietly working to impose regulations that would force new techniques on him, motivated also by jealousy that Yovaqbeyuk commands more real respect despite his lower social status.

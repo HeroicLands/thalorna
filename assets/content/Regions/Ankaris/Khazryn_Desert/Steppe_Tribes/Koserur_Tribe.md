@@ -62,13 +62,13 @@ The **Koserur** are a [[lore-sowidesclt|Sovidur]] tribe of perhaps three hundred
 
 ## The Wells
 
-[Karanat]{.name data-type="place/site"} is the northern well, [Juchonkelod]{.name data-type="place/site"} the central one and the tribe's gathering place, and [Dubzar]{.name data-type="place/site"} the eastern one, nearest the [[affiliation-qbdrtrb|Qibudur]]. A fourth camp, [Zamir-Kar]{.name data-type="place/site"}, follows the seasonal water and stands empty when the water fails, as it has since the drought. In a dry year the Koserur pack their herds around the three wells, and a raider knows where to look. In a wet year they spread along the circuit and the tribe is hard to find.
+[Dolqonkelod]{.name data-type="place/site"} is the northern well, [Juchonkelod]{.name data-type="place/site"} the central one and the tribe's gathering place, and [Idvaqkelod]{.name data-type="place/site"} the eastern one, nearest the [[affiliation-qbdrtrb|Qibudur]]. A fourth camp, [Gorenevod]{.name data-type="place/site"}, follows the seasonal water and stands empty when the water fails, as it has since the drought. In a dry year the Koserur pack their herds around the three wells, and a raider knows where to look. In a wet year they spread along the circuit and the tribe is hard to find.
 
 Juchonkelod is the one a traveler sees. It lies within sight of the road, the last halt before the market-camp, and its well-stone carries the Koserur sign over a shaft sixty feet deep. The moot meets there, the dovaq's tent stands there in every season, and the warband rides out from it.
 
 ## The Round of the Year
 
-The Koserur winter close on Juchonkelod and Dubzar, where the shafts are deepest and the herds can be watched from one ridge. In spring the families move north to Karanat and the grass beyond it, where the [[affiliation-jbzrtrb|Jobizur]] scouts ride the border. In summer they go out to the seasonal water at Zamir-Kar when it runs and stay on the north grass when it does not.
+The Koserur winter close on Juchonkelod and Idvaqkelod, where the shafts are deepest and the herds can be watched from one ridge. In spring the families move north to Dolqonkelod and the grass beyond it, where the [[affiliation-jbzrtrb|Jobizur]] scouts ride the border. In summer they go out to the seasonal water at Gorenevod when it runs and stay on the north grass when it does not.
 
 Twice a year the whole tribe comes back to Juchonkelod, for the ten days of the spring market and again for the autumn one. Those are the days the road pays, and the Koserur sit at the halt with every rider they have.
 
@@ -80,7 +80,7 @@ That arrangement is failing. A drought dried the seasonal water two years ago, t
 
 ## The Dovaq and the Warband
 
-The dovaq is [Timan Koserur]{.name data-type="being/npc"}, an old man who has held the tribe together by patience and has little taste for a hard stroke. The warband, [[affiliation-tghsvrnksrr|the Tigh'Savaran]], is the other half of the tribe's strength, and its captain, [Bahrazad Darush]{.name data-type="being/npc"}, holds the dovaq's leave to act as he sees fit for one season. The tribe has two ways left to survive: to win the captives back by force, or to buy the Jobizur's protection with its independence. The dovaq is leaning toward the second and the warband toward the first.
+The dovaq is [Ghotazkharu Koserur]{.name data-type="being/npc"}, an old man who has held the tribe together by patience and has little taste for a hard stroke. The warband, [[affiliation-tghsvrnksrr|the Tigh'Savaran]], is the other half of the tribe's strength, and its captain, [Orqazkenod Koserur]{.name data-type="being/npc"}, holds the dovaq's leave to act as he sees fit for one season. The tribe has two ways left to survive: to win the captives back by force, or to buy the Jobizur's protection with its independence. The dovaq is leaning toward the second and the warband toward the first.
 
 ## Caravans
 
@@ -90,12 +90,12 @@ The Koserur keep the bargain. A lightly guarded caravan of spices and silk cross
 
 ## Raids and Fears
 
-The Koserur raid nobody this year, because they have no riders to spare from the wells. What they fear is plain to every tent: a second dry year, which would leave them three wells for herds that need four; a Qibudur party at Dubzar in the night; and the day the moot agrees to the Jobizur's terms and the Koserur become a name that families give when asked where they came from.
+The Koserur raid nobody this year, because they have no riders to spare from the wells. What they fear is plain to every tent: a second dry year, which would leave them three wells for herds that need four; a Qibudur party at Idvaqkelod in the night; and the day the moot agrees to the Jobizur's terms and the Koserur become a name that families give when asked where they came from.
 
 ## Hooks
 
-- Timan Koserur asks a party of guests, who owe no tribe anything, to carry his terms to the Jobizur dovaq and bring back her answer. A Koserur rider seen riding north would tell the warband what its dovaq is doing.
-- A storm has filled the pans at Zamir-Kar for the first time since the drought, and the first tribe to camp there this season holds the water. The Kenodur have sent riders, and the Koserur have nobody left to send.
+- Ghotazkharu Koserur asks a party of guests, who owe no tribe anything, to carry his terms to the Jobizur dovaq and bring back her answer. A Koserur rider seen riding north would tell the warband what its dovaq is doing.
+- A storm has filled the pans at Gorenevod for the first time since the drought, and the first tribe to camp there this season holds the water. The Kenodur have sent riders, and the Koserur have nobody left to send.
 
 ## See Also
 

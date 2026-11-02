@@ -306,6 +306,36 @@ export const RETIRED = [
             "assets/content/Regions/Ankaris/Velanthia/Velanthia_Region.md",
         ],
     },
+    {
+        retired: ["Karanat", "Dubzar", "Zamir-Kar"],
+        replacement: "Sowides well names",
+        scope: "corpus",
+    },
+    {
+        retired: [
+            "Bahrazad",
+            "Darush",
+            "Shabar",
+            "Bazudar",
+            "Sahravan",
+            "Timan",
+            "Shahrun",
+            "Nari",
+            "Goravan",
+        ],
+        replacement: "Sowides names",
+        scope: [
+            "assets/content/Affiliations/Companies.md",
+            "assets/content/Affiliations/Social/Companies/TighSavaran_of_the_Koserur.md",
+            "assets/content/Characters/Folk/Khazryn_Desert/Bulaqsovid_Yovaqur.md",
+            "assets/content/Characters/Heroes_and_Knaves/Bazudar_Shahrun.md",
+            "assets/content/Characters/Heroes_and_Knaves/Lambhira_Pedhinion.md",
+            "assets/content/Characters/Heroes_and_Knaves/Nari_Sahravan.md",
+            "assets/content/Folders/Khazryn_Desert_ankariskhazryndesert.md",
+            "assets/content/Regions/Ankaris/Khazryn_Desert/Steppe_Tribes/Koserur_Tribe.md",
+            "assets/content/Regions/Ankaris/Khazryn_Desert/Steppe_Tribes/Qibudur_Tribe.md",
+        ],
+    },
 ];
 
 const LETTER = "\\p{L}\\p{M}";

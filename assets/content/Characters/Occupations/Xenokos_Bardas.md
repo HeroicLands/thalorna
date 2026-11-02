@@ -374,11 +374,11 @@ Zenokos is young and still growing into himself—twenty-two years old, 5'9", wi
 
 # Dossier {#dossier}
 
-Zenokos joined the Alessa capital district town guard eighteen months ago at twenty years old, fresh from his training and full of idealism about protecting his home city. The idealism has held up better than he expected, though it is being gradually tempered by the reality of keeping the peace in a city of a declining empire. He is lean and restless, and still young enough that people are not entirely certain whether to take him seriously.
+Zenokos joined the town guard of [[place-alyssar|Alessar]], the provincial seat, eighteen months ago at twenty years old, fresh from his training and full of idealism about protecting his home city. The idealism has held up better than he expected, though it is being gradually tempered by the reality of keeping the peace in a city of a declining empire. He is lean and restless, and still young enough that people are not entirely certain whether to take him seriously.
 
 The scar on his forehead was earned during his first month of patrol, breaking up a brawl between drunk merchants in the market district. A man with a bottle caught him badly enough to require stitches. The incident taught him that violence is often chaotic and random rather than disciplined. He recovered well and returned to patrol within a week.
 
-His posting is the capital district—the wealthiest, most densely populated part of Alessa, where merchants, minor nobles, and successful tradespeople live alongside their servants and the perpetual population of urban poor. The work is managing disputes, stopping theft, enforcing the minor regulations that keep urban society functional. He is not especially skilled yet, but he is conscientious and learning quickly.
+His posting is the central district—the wealthiest, most densely populated part of Alessar, where merchants, minor nobles, and successful tradespeople live alongside their servants and the perpetual population of urban poor. The work is managing disputes, stopping theft, enforcing the minor regulations that keep urban society functional. He is not especially skilled yet, but he is conscientious and learning quickly.
 
 ## Psyche
 

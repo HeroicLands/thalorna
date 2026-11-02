@@ -149,7 +149,15 @@ const fromBaseline = (file) =>
 const replacedOlderNames = new Map([
     [
         "assets/content/Skills/Languages/Tellumi.md",
-        new Set(["Azardan", "Durmand", "Sahri", "Shirzari", "Zarnush"]),
+        new Set([
+            "Azardan",
+            "Bazudar Shahrun",
+            "Durmand",
+            "Nari Sahravan",
+            "Sahri",
+            "Shirzari",
+            "Zarnush",
+        ]),
     ],
 ]);
 // The five tribes' replacement names, as they stand in prose that names them.

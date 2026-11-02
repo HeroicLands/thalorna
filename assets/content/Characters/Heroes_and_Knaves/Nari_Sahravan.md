@@ -1,6 +1,6 @@
 ---
 shortcode: narisahrvn
-name: {full: Nari Sahravan, given: Nari, clan: Sahravan, en: [The Desert Mystic]}
+name: {full: Dujarlun Oroqidur, given: Dujarlun, clan: Oroqidur, en: [The Desert Mystic]}
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, clergy]
@@ -412,80 +412,80 @@ sohl:
 
 # Appearance {#appearance}
 
-![[narisahrvn|Nari Sahravan]]{float=top-left}
+![[narisahrvn|Dujarlun Oroqidur]]{float=top-left}
 
-Nari stands 5'5" tall with a light build. She has bronzed skin, dark hair, and brown eyes. Her features include an oblong face, a prominent nose, a narrow chin, slightly pursed lips, and heavy brows. A distinguishing mark is a small scar on one cheek.
+Dujarlun stands 5'5" tall with a light build. She has bronzed skin, dark hair, and brown eyes. Her features include an oblong face, a prominent nose, a narrow chin, slightly pursed lips, and heavy brows. A distinguishing mark is a small scar on one cheek.
 
 # Dossier {#dossier}
 
-Nari Sahravan is a daughter of the deep [[place-khzryndsrtrgn|Khazryn]]—the steppe and desert of the [[lore-sowidesclt|Sovidur]] tribes, far to the north and east, where each tribe keeps the old ways and the old gods and answers to no one beyond its own dowek. Raised a mystic and healer among her people and devoted to the [[affiliation-ashanpnthn|Ashaian faith]], she was taught the traditions of spirit, herb-lore, and the small elemental magics of wind and sand that the tribes have passed down for generations. Her gifts of medicine and divination made her a figure among the clans, a mediator and healer who traveled between camps—until her visions began to point her away from home, south and west across the world, toward a thread she could not yet name.
+Dujarlun Oroqidur is a daughter of the deep [[place-khzryndsrtrgn|Khazryn]]—the steppe and desert of the [[lore-sowidesclt|Sovidur]] tribes, far to the north and east, where each tribe keeps the old ways and the old gods and answers to no one beyond its own dowek. Raised a mystic and healer among her people and devoted to the [[affiliation-ashanpnthn|Ashaian faith]], she was taught the traditions of spirit, herb-lore, and the small elemental magics of wind and sand that the tribes have passed down for generations. Her gifts of medicine and divination made her a figure among the clans, a mediator and healer who traveled between camps—until her visions began to point her away from home, south and west across the world, toward a thread she could not yet name.
 
-Nari and [[being-lmbhrpdhnn|Lámbira]] crossed paths far from the Khazryn, in the southern [[place-midhalnrgn|Midhalion]] borderlands, where a vision had carried Nari and a hunt had carried Lámbira. Despite their initial wariness—the gentle healer and the killer-for-hire made an uneasy pair—they came to respect one another when Nari's craft saved Lámbira from a mortal wound. Nari has read in her sight that Lámbira's thread is tangled with great events, and she travels with her to learn why, bringing her knowledge of the wilds, her mystical gifts, and her talent for healing to the company. To a foreign eye, much of [[affiliation-mtrrchybth|Bethua]] unsettles her—above all what the matriarchy does to its men—and she does not always keep that disquiet to herself.
+Dujarlun and [[being-lmbhrpdhnn|Lámbira]] crossed paths far from the Khazryn, in the southern [[place-midhalnrgn|Midhalion]] borderlands, where a vision had carried Dujarlun and a hunt had carried Lámbira. Despite their initial wariness—the gentle healer and the killer-for-hire made an uneasy pair—they came to respect one another when Dujarlun's craft saved Lámbira from a mortal wound. Dujarlun has read in her sight that Lámbira's thread is tangled with great events, and she travels with her to learn why, bringing her knowledge of the wilds, her mystical gifts, and her talent for healing to the company. To a foreign eye, much of [[affiliation-mtrrchybth|Bethua]] unsettles her—above all what the matriarchy does to its men—and she does not always keep that disquiet to herself.
 
 ## Background
 
 ### Skills and Abilities
 
 Strength
-: Nari is not physically strong, as her skills lie more in spiritual and healing practices rather than physical combat.
+: Dujarlun is not physically strong, as her skills lie more in spiritual and healing practices rather than physical combat.
 
 Endurance
-: Nari is accustomed to the harsh desert climate and has developed a steady endurance for long journeys and difficult environments.
+: Dujarlun is accustomed to the harsh desert climate and has developed a steady endurance for long journeys and difficult environments.
 
 Dexterity
-: Nari has precise, deft hands, particularly when it comes to handling herbs and performing delicate healing tasks, though she is not an acrobat.
+: Dujarlun has precise, deft hands, particularly when it comes to handling herbs and performing delicate healing tasks, though she is not an acrobat.
 
 Agility
 : Her movements are fluid and light, reflecting her grace and ability to move easily through harsh desert terrain.
 
 Perception
-: Nari’s sharp senses allow her to read both people and the environment with clarity. She is skilled at noticing subtle changes in nature and human behavior.
+: Dujarlun’s sharp senses allow her to read both people and the environment with clarity. She is skilled at noticing subtle changes in nature and human behavior.
 
 Comeliness
-: Nari possesses a quiet beauty that reflects her inner peace and wisdom. She doesn’t rely on physical beauty but carries herself with calm confidence.
+: Dujarlun possesses a quiet beauty that reflects her inner peace and wisdom. She doesn’t rely on physical beauty but carries herself with calm confidence.
 
 Aura
-: Nari’s spiritual connection to the world is deep, and her mystical presence is strong. She can influence the spiritual world through her rituals and healing magic.
+: Dujarlun’s spiritual connection to the world is deep, and her mystical presence is strong. She can influence the spiritual world through her rituals and healing magic.
 
 Will
-: Nari is calm and steadfast in her beliefs. While she may seem gentle, her inner strength and conviction are unshakeable.
+: Dujarlun is calm and steadfast in her beliefs. While she may seem gentle, her inner strength and conviction are unshakeable.
 
 Reasoning
-: Nari’s intellect is sharp, and her ability to reason through complex situations, both practical and spiritual, is highly developed.
+: Dujarlun’s intellect is sharp, and her ability to reason through complex situations, both practical and spiritual, is highly developed.
 
 Creativity
-: Nari’s understanding of the natural world and her mystical practices allow her to think creatively, especially when healing or solving problems.
+: Dujarlun’s understanding of the natural world and her mystical practices allow her to think creatively, especially when healing or solving problems.
 
 Empathy
-: Nari is deeply attuned to the emotions of others and can read people with great insight. Her role as a healer requires a high level of emotional intelligence.
+: Dujarlun is deeply attuned to the emotions of others and can read people with great insight. Her role as a healer requires a high level of emotional intelligence.
 
 Eloquence
-: Nari speaks in a calm, measured way, offering wisdom and guidance. She is not a flamboyant speaker, but her words carry weight.
+: Dujarlun speaks in a calm, measured way, offering wisdom and guidance. She is not a flamboyant speaker, but her words carry weight.
 
 Morality
-: Nari is guided by a deep spiritual connection and the desire to maintain balance in the natural and spiritual world. She upholds her tribe’s sacred values and practices rigorously.
+: Dujarlun is guided by a deep spiritual connection and the desire to maintain balance in the natural and spiritual world. She upholds her tribe’s sacred values and practices rigorously.
 
 Voice
-: Nari’s voice is calm and soothing, perfect for spiritual chants and rituals. Her connection to the spirit world is reflected in her soft, melodious tone.
+: Dujarlun’s voice is calm and soothing, perfect for spiritual chants and rituals. Her connection to the spirit world is reflected in her soft, melodious tone.
 
 Healer and Herbalist
-: Nari is an expert in herbal medicine, able to treat wounds and illnesses with a combination of traditional remedies and mystical healing techniques.
+: Dujarlun is an expert in herbal medicine, able to treat wounds and illnesses with a combination of traditional remedies and mystical healing techniques.
 
 Mystical Abilities
-: Nari possesses a deep connection to the elemental forces of the desert. She can call upon the wind and sand in minor spells to assist the group, and she is skilled in divination, using the stars and elements to provide guidance.
+: Dujarlun possesses a deep connection to the elemental forces of the desert. She can call upon the wind and sand in minor spells to assist the group, and she is skilled in divination, using the stars and elements to provide guidance.
 
 Nomadic Knowledge
-: Nari’s intimate knowledge of the desert and steppe and their tribes makes her a valuable guide in harsh, arid country—including Bethua's [[place-sthmrchsrgn|southern marches]], so like and unlike her own Khazryn home. She can handle treacherous terrain, find hidden water, and treat with nomad leaders whom [[lore-bethuanclt|Bethuan]] people cannot.
+: Dujarlun’s intimate knowledge of the desert and steppe and their tribes makes her a valuable guide in harsh, arid country—including Bethua's [[place-sthmrchsrgn|southern marches]], so like and unlike her own Khazryn home. She can handle treacherous terrain, find hidden water, and treat with nomad leaders whom [[lore-bethuanclt|Bethuan]] people cannot.
 
 ## Psyche
 
 ### Personality
 
-Nari is calm, wise, and deeply spiritual, often acting as a counterbalance to [[being-lmbhrpdhnn|Lámbira]]’s more direct and action-oriented nature. She believes in the balance of the elements and the spiritual connection between all living things, but she is also practical, using her knowledge of herbs, medicine, and magic to solve problems. While she can seem aloof or hard to read at times, Nari is deeply loyal to those she considers her allies.
+Dujarlun is calm, wise, and deeply spiritual, often acting as a counterbalance to [[being-lmbhrpdhnn|Lámbira]]’s more direct and action-oriented nature. She believes in the balance of the elements and the spiritual connection between all living things, but she is also practical, using her knowledge of herbs, medicine, and magic to solve problems. While she can seem aloof or hard to read at times, Dujarlun is deeply loyal to those she considers her allies.
 
 ### Motivation
 
-Nari is driven by her spiritual quest to maintain the balance of the natural world. She believes the great power-struggles she has glimpsed in her visions—the smoldering war between Bethua, its Khelathi patron (the [[affiliation-empireakhlth|Empire of Au'Khelathu]]), and the [[affiliation-vylarinmpr|Vylarian Empire]] over the southern sea—threaten that balance, and she sees her journey with [[being-lmbhrpdhnn|Lámbira]] as her place in restoring it. She is also simply curious about the wider world beyond her desert homeland, and means to understand the strange, rich, troubling lands of Midhalion before her visions are done with her.
+Dujarlun is driven by her spiritual quest to maintain the balance of the natural world. She believes the great power-struggles she has glimpsed in her visions—the smoldering war between Bethua, its Khelathi patron (the [[affiliation-empireakhlth|Empire of Au'Khelathu]]), and the [[affiliation-vylarinmpr|Vylarian Empire]] over the southern sea—threaten that balance, and she sees her journey with [[being-lmbhrpdhnn|Lámbira]] as her place in restoring it. She is also simply curious about the wider world beyond her desert homeland, and means to understand the strange, rich, troubling lands of Midhalion before her visions are done with her.
 
 ### Strengths
 
@@ -497,25 +497,25 @@ Nari is driven by her spiritual quest to maintain the balance of the natural wor
 ## Plot Hooks
 
 The Weight of the Rolls
-: Long before the company corners their quarry, Nari's sight troubles her: she dreams of a sealed thing carried north that will, if it reaches the wrong hands, drown the southern sea in fire. As they hunt the renegade **[[being-rshrhssfrn|Rashira]]** and her stolen [Purple Warrant]{.name data-type="miscgear"} register, Nari alone grasps that the prize is not a person but a truth—and that catching it for the [Court of the Veil]{.name data-type="affiliation/governmental"} may bury the truth as surely as losing it would unleash the war. Her counsel pulls against [[being-lmbhrpdhnn|Lámbira]]'s contract and [[being-tlnrzyghrs|Tálanira Zighiros]]'s instinct for advantage, and she presses Lámbira to ask not whether she can take the register, but who is served when she does.
+: Long before the company corners their quarry, Dujarlun's sight troubles her: she dreams of a sealed thing carried north that will, if it reaches the wrong hands, drown the southern sea in fire. As they hunt the renegade **[[being-rshrhssfrn|Rashira]]** and her stolen [Purple Warrant]{.name data-type="miscgear"} register, Dujarlun alone grasps that the prize is not a person but a truth—and that catching it for the [Court of the Veil]{.name data-type="affiliation/governmental"} may bury the truth as surely as losing it would unleash the war. Her counsel pulls against [[being-lmbhrpdhnn|Lámbira]]'s contract and [[being-tlnrzyghrs|Tálanira Zighiros]]'s instinct for advantage, and she presses Lámbira to ask not whether she can take the register, but who is served when she does.
 
-    Nari's Sight
+    Dujarlun's Sight
     : Her divinations give the company leads no tracker could find—and warnings no patron wants to hear.
 
     The Healer's Objection
-    : To Nari, balance is not the crown's secret kept but the bloodshed prevented; she argues for the harder road of the truth, even against the woman who saved her life by hunting.
+    : To Dujarlun, balance is not the crown's secret kept but the bloodshed prevented; she argues for the harder road of the truth, even against the woman who saved her life by hunting.
 
 What Bethua Does to Its Men
-: As an outsider, Nari sees plainly what Bethuans have stopped seeing—the bound men, the watched men, the oar-slaves chained to the benches of the very galley of [[affiliation-bethuanflt|the Bethuan Fleet]] that carries the company on its hunt. When she treats a beaten servant or a dying rower against custom and without asking leave, she draws the cold attention of the ship's mistress and the suspicion of the Houses. [[being-lmbhrpdhnn|Lámbira]], a peasant's daughter who has never questioned the order she rose through, is forced to see her own country through a stranger's eyes; [[being-tlnrzyghrs|Tálanira]] must decide whether to shield her foreign friend or protect her House's good name.
+: As an outsider, Dujarlun sees plainly what Bethuans have stopped seeing—the bound men, the watched men, the oar-slaves chained to the benches of the very galley of [[affiliation-bethuanflt|the Bethuan Fleet]] that carries the company on its hunt. When she treats a beaten servant or a dying rower against custom and without asking leave, she draws the cold attention of the ship's mistress and the suspicion of the Houses. [[being-lmbhrpdhnn|Lámbira]], a peasant's daughter who has never questioned the order she rose through, is forced to see her own country through a stranger's eyes; [[being-tlnrzyghrs|Tálanira]] must decide whether to shield her foreign friend or protect her House's good name.
 
     A Foreigner's License
     : A foreign woman may do much in Bethua that a Bethuan would not dare—but only so far, and the line is sharper at sea than on the docks.
 
     The Mutiny's Spark
-    : Nari's compassion, in the wrong hold at the wrong moment, could be the small kindness that lights a rising among men with nothing left to lose.
+    : Dujarlun's compassion, in the wrong hold at the wrong moment, could be the small kindness that lights a rising among men with nothing left to lose.
 
 The Marches and [[affiliation-jcklsthmrchs|the Jackals of the South Marches]]
-: When the chase swings into Bethua's arid southern marches, it is Nari—not the Bethuans—who can read the country and treat with the tribute-paying nomads who hold it, peoples not so unlike her own. But the exiled raider-queen [[being-argyrirjckl|Argirira the Jackal]] and her warband, The Jackals of the South Marches, have been paid to bleed the company's time away, and old desert law, hospitality, and blood-debt tangle with [[being-lmbhrpdhnn|Lámbira]]'s hunt. Nari can open doors among the nomads that would stay shut to a Bethuan thief-taker—if she is willing to spend her own standing among kindred peoples to do it.
+: When the chase swings into Bethua's arid southern marches, it is Dujarlun—not the Bethuans—who can read the country and treat with the tribute-paying nomads who hold it, peoples not so unlike her own. But the exiled raider-queen [[being-argyrirjckl|Argirira the Jackal]] and her warband, The Jackals of the South Marches, have been paid to bleed the company's time away, and old desert law, hospitality, and blood-debt tangle with [[being-lmbhrpdhnn|Lámbira]]'s hunt. Dujarlun can open doors among the nomads that would stay shut to a Bethuan thief-taker—if she is willing to spend her own standing among kindred peoples to do it.
 
 The Thread Home
-: A vision reaches Nari from the deep [[place-khzryndsrtrgn|Khazryn]]—kin in trouble, or a calling she cannot ignore—at the very moment the hunt for Rashira reaches its knife-edge. She must weigh the thread that drew her across the world to [[being-lmbhrpdhnn|Lámbira]]'s side against the pull of the home and people she left behind, and decide whether her place in the balance is here, in another nation's smoldering war, or back among her own.
+: A vision reaches Dujarlun from the deep [[place-khzryndsrtrgn|Khazryn]]—kin in trouble, or a calling she cannot ignore—at the very moment the hunt for Rashira reaches its knife-edge. She must weigh the thread that drew her across the world to [[being-lmbhrpdhnn|Lámbira]]'s side against the pull of the home and people she left behind, and decide whether her place in the balance is here, in another nation's smoldering war, or back among her own.

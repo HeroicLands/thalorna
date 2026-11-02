@@ -429,7 +429,7 @@ Her black hair is typically worn in neat plaited pigtails. Her eyes are perpetua
 
 ### Daughter of the Sea
 
-Branalenis was born in the great port city of [[place-alyssa|Alessa]] in the [[affiliation-vylarinmpr|Empire of Vylaria]], to a family of modest maritime connection—her father was a rigger, her mother a merchant's assistant. The sea was the ground of her childhood. She spent more time on the docks than in any settled home, learning the language of ships and sailors before she learned the proper speech of nobility.
+Branalenis was born in the great port city of [[place-mercavia|Delalara]] in [[place-salkhalon|Salkalon]], within the [[affiliation-vylarinmpr|Empire of Vylaria]], to a family of modest maritime connection—her father was a rigger, her mother a merchant's assistant. The sea was the ground of her childhood. She spent more time on the docks than in any settled home, learning the language of ships and sailors before she learned the proper speech of nobility.
 
 At age six, she was effectively adopted by the crew of a merchant vessel, the _[Seaflower]{.name data-type="vehicle"}_, whose captain—a gruff but fair-minded woman named [[being-venthelenkal|Venthelen Kaldremis]]—recognized in the young girl an unusual combination of fearlessness, quick intelligence, and physical capability. From that point forward, her childhood was structured by the rhythms of sea trade rather than schooling.
 
@@ -441,7 +441,7 @@ Yet despite her obvious merit and growing responsibility, Branalenis never recei
 
 ### The Uncertain Present
 
-Captain Kaldremis died three years ago—not at sea, but of a wasting illness in Alessa, leaving Branalenis bereft and, for the first time in her adult life, unanchored. She has spent the intervening years working as a hired hand aboard various vessels, trading on her considerable reputation and skills but never again finding the kind of guidance or partnership she had with Kaldremis. The competitive nature that was an asset when working toward advancement within a hierarchy has become something more complicated in her current wandering life—she competes for every position, guards every advantage, and trusts no one in the way she once trusted her captain.
+Captain Kaldremis died three years ago—not at sea, but of a wasting illness in Delalara, leaving Branalenis bereft and, for the first time in her adult life, unanchored. She has spent the intervening years working as a hired hand aboard various vessels, trading on her considerable reputation and skills but never again finding the kind of guidance or partnership she had with Kaldremis. The competitive nature that was an asset when working toward advancement within a hierarchy has become something more complicated in her current wandering life—she competes for every position, guards every advantage, and trusts no one in the way she once trusted her captain.
 
 Her standing as a sailor of rare skill has created an odd isolation. She is respected, in demand even, but never quite belonged to. Most crews view her as a hired hand rather than a true member of their community.
 
@@ -509,7 +509,7 @@ Captain [[being-solterosbraz|Solteros Brazemen]]
 : A merchant vessel captain who regularly seeks Branalenis out for contracts, recognizing her great value despite her difficult personality. He maintains hope that given time, she might accept permanent crew status.
 
 Master Harbormaster [[being-talotharzeno|Talothar]]
-: The official overseer of Alessa's harbor, who provides Branalenis with information about incoming vessels seeking crew and occasionally intervenes with less scrupulous captains.
+: The official overseer of Delalara's harbor, who provides Branalenis with information about incoming vessels seeking crew and occasionally intervenes with less scrupulous captains.
 
 [The Seafarers' Lodge]{.name data-type="affiliation"}
 : An informal fraternity of experienced sailors who gather to trade stories and information. Though Branalenis is not a full member due to her gender, several senior members have quietly advocated for her.
@@ -530,7 +530,7 @@ The Harbor Master's Rival Faction
 The Seafarers' Lodge
 : An informal association of seafarers, though her official status remains uncertain due to gender conventions.
 
-[The Port Authority of Alessa]{.name data-type="affiliation/governmental"}
+[The Port Authority of Delalara]{.name data-type="affiliation/governmental"}
 : Not formally affiliated, but she maintains good relationships with most harbor officials.
 
 Independent Maritime Community
@@ -542,7 +542,7 @@ The Impossible Ship
 : A fabled vessel, supposedly lost decades ago with a cargo of incalculable value, surfaces in reports from distant waters. Multiple parties seek its location and salvage, and they approach Branalenis believing her skill is essential. However, the vessel's loss may not have been accidental, and recovering it might awaken forces best left undisturbed.
 
 The Deserter's Daughter
-: A woman arrives in Alessa claiming to be the illegitimate daughter of a notorious pirate who operated decades ago. She possesses maps and documents suggesting her father buried vast treasures in hidden coves throughout the empire. She seeks Branalenis out specifically, believing only Branalenis' skill can thread the treacherous passages required to reach these locations. The question of whether this woman is what she claims or an elaborate trap becomes increasingly uncertain.
+: A woman arrives in Delalara claiming to be the illegitimate daughter of a notorious pirate who operated decades ago. She possesses maps and documents suggesting her father buried vast treasures in hidden coves throughout the empire. She seeks Branalenis out specifically, believing only Branalenis' skill can thread the treacherous passages required to reach these locations. The question of whether this woman is what she claims or an elaborate trap becomes increasingly uncertain.
 
 The Drowned Temple
 : Fishermen report discovering underwater structures in the deepest parts of the harbor—architectural features far too old and finely made to be natural. Branalenis is approached by scholars and priests who believe a submerged temple lies beneath the harbor, and they need someone with her maritime skills to explore it. What they find beneath the waves challenges fundamental assumptions about the history of the empire.

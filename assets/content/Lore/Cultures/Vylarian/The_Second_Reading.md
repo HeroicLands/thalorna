@@ -3,7 +3,7 @@ shortcode: secondread
 name: {full: The Second Reading, en: [The Ozethos of the Twelfth]}
 type: lore
 subType: literature
-description: "The tale the Omelars of the legions tell a newly licensed chaplain on the night of his licensing, set down in the manner of the annals: the signs of the year the regent's council sent the Doreken Hiltheren into the Kervaron, the flame read at the foot of the passes, the second reading ordered and given with one small word added, the Ozethos left behind with the rear cohorts, and the fire he read every evening of the winter."
+description: "The tale the Omelars of the legions tell a newly licensed chaplain on the night of his licensing, set down in the manner of the annals: the signs of the year the regent's council sent the Doran Hilvan into the Kervaron, the flame read at the foot of the passes, the second reading ordered and given with one small word added, the Ozethos left behind with the rear cohorts, and the fire he read every evening of the winter."
 tags: [draft, vylaria]
 data:
   culture: vylarianclt
@@ -24,11 +24,11 @@ data:
 
 The Second Reading is the tale the **Omelars** of the legions tell a chaplain on the night of his licensing. An Ozethos is licensed jointly by the legions and the [[affiliation-ordoarcanis|Thordimalon]] to read the signs for an army, in a bird or a flame, and his licensing ends at night in the camp shrine with the Omelars of the legion around the fire. The oldest of them tells the tale while the new one keeps the fire. It is set down here in the manner the Omelars use, which is the manner of the annals: the year, its signs, and then what was done, in that order, with no word given to what anyone felt, because the annals give none.
 
-The tale is about [[lore-twelfthloss|the Loss of the Twelfth]], and its Ozethos is [Silkimar]{.name data-type="being/npc"}, the chaplain of the [Doreken Hiltheren]{.name data-type="affiliation"}. The army's record names no chaplain of the Twelfth, and the Omelars hold that this proves nothing either way, since the record names no chaplain of any legion. The tale turns on one small word. A second reading ordered by a commander is given with _zikai_, "perhaps", set before its reason, which in [[skill-vylarilng|Vylari]] makes the reason something alleged and not vouched for, and the tale's whole matter is a man who did that and a man who did not hear it. The rendering marks the added word "so it is said."
+The tale is about [[lore-twelfthloss|the Loss of the Twelfth]], and its Ozethos is [Silkimar]{.name data-type="being/npc"}, the chaplain of the [Doran Hilvan]{.name data-type="affiliation"}. The army's record names no chaplain of the Twelfth, and the Omelars hold that this proves nothing either way, since the record names no chaplain of any legion. The tale turns on one small word. A second reading ordered by a commander is given with _zikai_, "perhaps", set before its reason, which in [[skill-vylarilng|Vylari]] makes the reason something alleged and not vouched for, and the tale's whole matter is a man who did that and a man who did not hear it. The rendering marks the added word "so it is said."
 
 ## The Signs of the Year
 
-In the year the council of the regency sent the Doreken Hiltheren into the [Kervaron Spine]{.name data-type="place/feature"}, these signs were reported to the chaplains of the western legions and entered in their books.
+In the year the council of the regency sent the Doran Hilvan into the [Kervaron Spine]{.name data-type="place/feature"}, these signs were reported to the chaplains of the western legions and entered in their books.
 
 At the Twelfth's winter quarters, the kept fire of the legion's shrine was found out in the morning, though the watch swore it had been fed in the night. It was relit from the fire of the Vallar's house, as the rite requires, and the Ozethos entered it.
 

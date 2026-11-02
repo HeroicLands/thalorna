@@ -78,7 +78,7 @@ data:
       accounts:
         - by: affiliation-vylrnmltry
           says: >-
-            The Pelsan Hilvan's eagle was lost to barbarians and recovered by the Karsan Soldan, which carries the gold band for it.
+            The Pelsan Hilvan's eagle was lost to barbarians and recovered by the Karsan Soldan Korvan, which carries the gold band for it.
           agrees: partly
           withholds: that it was taken from the legion's own camp while the camp slept
       unresolved: [who left the Pelsan Hilvan's gate unwatched]

@@ -1,6 +1,6 @@
 ---
 shortcode: bazdrshhrn
-name: {full: Bazudar Shahrun, given: Bazudar, clan: Shahrun}
+name: {full: Yovaqbeyuk Qibudur, given: Yovaqbeyuk, clan: Qibudur}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -415,9 +415,9 @@ sohl:
 
 # Appearance {#appearance}
 
-![[bazdrshhrn|Bazudar Shahrun]]{float=top-left}
+![[bazdrshhrn|Yovaqbeyuk Qibudur]]{float=top-left}
 
-Bazudar stands 6'3" tall with a medium build. He has dark tan skin, black hair, and dark amber eyes. His features include a diamond-shaped face, a prominent nose, a well-defined jawline, full lips, thick dark brows, and angular cheeks. He has a tattoo of a woman on his shoulder.
+Yovaqbeyuk stands 6'3" tall with a medium build. He has dark tan skin, black hair, and dark amber eyes. His features include a diamond-shaped face, a prominent nose, a well-defined jawline, full lips, thick dark brows, and angular cheeks. He has a tattoo of a woman on his shoulder.
 
 # Dossier {#dossier}
 
@@ -425,27 +425,27 @@ Bazudar stands 6'3" tall with a medium build. He has dark tan skin, black hair, 
 
 ### Early Years in the Desert
 
-Bazudar was born to the nomadic tribes of the [[place-khzryndsrtrgn|Khazryn Desert]], the second son of a herder family whose reputation for understanding animals was famed even among the desert peoples. From childhood, he could communicate with horses and camels in ways that seemed almost mystical—animals responded to his presence with unusual calm and trust. His father, [Shahrun the Wanderer]{.name data-type="being/npc"}, taught him the ancient dialects and gestures that the desert peoples use to speak with creatures, and the tattoo on his shoulder bears a portrait of his mother, [Lethara of the Morning Star]{.name data-type="being/npc"}, whom he lost to desert sickness when he was only seventeen.
+Yovaqbeyuk was born to the nomadic tribes of the [[place-khzryndsrtrgn|Khazryn Desert]], the second son of a herder family whose reputation for understanding animals was famed even among the desert peoples. From childhood, he could communicate with horses and camels in ways that seemed almost mystical—animals responded to his presence with unusual calm and trust. His father, [Budaqkenod the Wanderer]{.name data-type="being/npc"}, taught him the ancient dialects and gestures that the desert peoples use to speak with creatures, and the tattoo on his shoulder bears a portrait of his mother, [Lethara of the Morning Star]{.name data-type="being/npc"}, whom he lost to desert sickness when he was only seventeen.
 
 ### Trial and Transformation
 
-At twenty, Bazudar encountered the great warhorse [Ashenbrand]{.name data-type="being/creature"}, an animal so wild and dangerous that it had killed three handlers and thrown a dozen more. Where others used force or fear, Bazudar spent weeks simply sitting in silence near the horse, learning its rhythms, its fears, its nature. Gradually, Ashenbrand came to accept him, and eventually to trust him. That bond transformed Bazudar's reputation—he became known as "the Whisperer," the one to whom dangerous animals could be entrusted. He spent his twenties and thirties traveling across the desert kingdoms, training noble steeds and wild beasts, growing wealthy from the patronage of desert lords and merchant princes.
+At twenty, Yovaqbeyuk encountered the great warhorse [Ashenbrand]{.name data-type="being/creature"}, an animal so wild and dangerous that it had killed three handlers and thrown a dozen more. Where others used force or fear, Yovaqbeyuk spent weeks simply sitting in silence near the horse, learning its rhythms, its fears, its nature. Gradually, Ashenbrand came to accept him, and eventually to trust him. That bond transformed Yovaqbeyuk's reputation—he became known as "the Whisperer," the one to whom dangerous animals could be entrusted. He spent his twenties and thirties traveling across the desert kingdoms, training noble steeds and wild beasts, growing wealthy from the patronage of desert lords and merchant princes.
 
 ### Settlement and Complication
 
-Now in his middle years, Bazudar has settled in a semi-permanent way, establishing himself as the primary animal trainer for the Khazryn farming communities. He has built a reputation for impossible feats—calming fractious oxen, training desert dogs, doctoring sick animals using herbal knowledge passed down through generations. Yet settlement has brought complications. The farming community increasingly demands speed and profit over the careful, time-intensive relationship-building that Bazudar considers essential to proper animal work. He finds himself frequently at odds with younger farmers, Town Administrator **[[being-bulaqsovidyo|Bulachsovid]]**, and modernizing forces that view his methods as antiquated.
+Now in his middle years, Yovaqbeyuk has settled in a semi-permanent way, establishing himself as the primary animal trainer for the Khazryn farming communities. He has built a reputation for impossible feats—calming fractious oxen, training desert dogs, doctoring sick animals using herbal knowledge passed down through generations. Yet settlement has brought complications. The farming community increasingly demands speed and profit over the careful, time-intensive relationship-building that Yovaqbeyuk considers essential to proper animal work. He finds himself frequently at odds with younger farmers, Town Administrator **[[being-bulaqsovidyo|Bulachsovid]]**, and modernizing forces that view his methods as antiquated.
 
 ## Psyche
 
 ### Personality
 
-Bazudar is taciturn and contemplative, a man of few words who communicates more through gesture, presence, and direct action than through speech. He is patient to the point of seeming sluggish to those unfamiliar with him, capable of standing in absolute stillness for hours, observing, absorbing information before acting. Yet those who know him recognize that this apparent passivity masks firm decisiveness—when he acts, he does so with certainty and commitment. He possesses a deep, almost spiritual connection to animals that extends to fellow-feeling—he experiences animal pain and fear as his own, and cannot abide cruelty without responding. His stubbornness is famous; once his mind is set, nearly nothing can move him.
+Yovaqbeyuk is taciturn and contemplative, a man of few words who communicates more through gesture, presence, and direct action than through speech. He is patient to the point of seeming sluggish to those unfamiliar with him, capable of standing in absolute stillness for hours, observing, absorbing information before acting. Yet those who know him recognize that this apparent passivity masks firm decisiveness—when he acts, he does so with certainty and commitment. He possesses a deep, almost spiritual connection to animals that extends to fellow-feeling—he experiences animal pain and fear as his own, and cannot abide cruelty without responding. His stubbornness is famous; once his mind is set, nearly nothing can move him.
 
 He is haunted by loss—the deaths of animals under his care, and the perpetual sense that the world is moving too quickly, abandoning the old ways and relationships that he considers sacred. There is a melancholy to him, a sense that he is an anachronism, clinging to values that the younger generation no longer understands or values.
 
 ### Motivation
 
-Bazudar is driven by a desire to preserve the ancient relationship between human and animal that predates civilization—the covenant of care and trust that he believes reflects the highest good. He works to train animals in ways that honor their nature rather than merely forcing their obedience. He seeks to prove that the old ways remain relevant, that patience and relationship can accomplish what force and haste cannot. This noble motivation covers a personal grief: he works with animals partly because they are easier than humans, because they respond to sincerity in ways that people have grown too complex to match. He fears that he is preserving a world that is already dead, and that his life's work will be forgotten within a generation of his death.
+Yovaqbeyuk is driven by a desire to preserve the ancient relationship between human and animal that predates civilization—the covenant of care and trust that he believes reflects the highest good. He works to train animals in ways that honor their nature rather than merely forcing their obedience. He seeks to prove that the old ways remain relevant, that patience and relationship can accomplish what force and haste cannot. This noble motivation covers a personal grief: he works with animals partly because they are easier than humans, because they respond to sincerity in ways that people have grown too complex to match. He fears that he is preserving a world that is already dead, and that his life's work will be forgotten within a generation of his death.
 
 ### Strengths
 
@@ -489,46 +489,46 @@ Social Isolation and Difficulty with Human Relationships
 ### Patrons
 
 Desert Lord [Khuvankenod Shadowstep]{.name data-type="being/npc"}
-: A wealthy noble who has employed Bazudar for two decades to manage his prized herd of racing camels. Khuvankenod respects Bazudar's methods and pays generously, providing one of his most reliable sources of income and social legitimacy.
+: A wealthy noble who has employed Yovaqbeyuk for two decades to manage his prized herd of racing camels. Khuvankenod respects Yovaqbeyuk's methods and pays generously, providing one of his most reliable sources of income and social legitimacy.
 
 Mistress [Arah]{.name data-type="being/npc"} of the Cooperative
-: The leading figure of [The Farmers' Cooperative of Khazryn]{.name data-type="affiliation"}, Arah recognizes Bazudar's value and defends him against critics, though even her patience is sometimes tested by his inflexibility.
+: The leading figure of [The Farmers' Cooperative of Khazryn]{.name data-type="affiliation"}, Arah recognizes Yovaqbeyuk's value and defends him against critics, though even her patience is sometimes tested by his inflexibility.
 
 The Village Healer [Senna]{.name data-type="being/npc"}
-: An older woman who has recognized that Bazudar is fundamentally lonely and has made subtle attempts to include him in village social life. She brings him meals occasionally and treats his injuries, maternal in her concern without being patronizing.
+: An older woman who has recognized that Yovaqbeyuk is fundamentally lonely and has made subtle attempts to include him in village social life. She brings him meals occasionally and treats his injuries, maternal in her concern without being patronizing.
 
 ### Enemies
 
 Administrator Bulachsovid
-: The ambitious Town Administrator who views Bazudar's traditional methods as an obstacle to progress and modernization. Bulachsovid has been quietly working to impose regulations that would force Bazudar to adopt new training techniques and potentially strip him of his authority. Bulachsovid is also motivated by jealousy—Bazudar commands more real respect than Bulachsovid despite his lower social status.
+: The ambitious Town Administrator who views Yovaqbeyuk's traditional methods as an obstacle to progress and modernization. Bulachsovid has been quietly working to impose regulations that would force Yovaqbeyuk to adopt new training techniques and potentially strip him of his authority. Bulachsovid is also motivated by jealousy—Yovaqbeyuk commands more real respect than Bulachsovid despite his lower social status.
 
 [The Merchant Combine of the North]{.name data-type="affiliation"}
-: A faction of wealthy merchants pushing for large-scale animal breeding and training methods to increase yields. They view Bazudar as a dangerous impediment to progress and have commissioned Administrator Bulachsovid to develop policies that would eliminate his influence.
+: A faction of wealthy merchants pushing for large-scale animal breeding and training methods to increase yields. They view Yovaqbeyuk as a dangerous impediment to progress and have commissioned Administrator Bulachsovid to develop policies that would eliminate his influence.
 
 Rival Trainer [Vex Ironhoof]{.name data-type="being/npc"}
-: A younger animal trainer who has adopted harsh, forceful methods that produce quick results. Vex views Bazudar as weak and outdated, and their ideological conflict has become personal. Vex deliberately undercuts Bazudar's prices and spreads rumors that his methods are ineffective.
+: A younger animal trainer who has adopted harsh, forceful methods that produce quick results. Vex views Yovaqbeyuk as weak and outdated, and their ideological conflict has become personal. Vex deliberately undercuts Yovaqbeyuk's prices and spreads rumors that his methods are ineffective.
 
 ### Affiliations
 
 The Farmers' Cooperative of Khazryn
-: Bazudar holds membership and the respect of most members, though the organization is increasingly divided between traditionalists who support him and modernizers who view him as an impediment.
+: Yovaqbeyuk holds membership and the respect of most members, though the organization is increasingly divided between traditionalists who support him and modernizers who view him as an impediment.
 
 [The Desert Shamanic Circle]{.name data-type="affiliation"}
-: An informal collective of spiritual practitioners who maintain the ancient traditions of desert magic and ritual. Bazudar participates in their ceremonies, though his primary commitment remains his work with animals rather than explicit magical practice.
+: An informal collective of spiritual practitioners who maintain the ancient traditions of desert magic and ritual. Yovaqbeyuk participates in their ceremonies, though his primary commitment remains his work with animals rather than explicit magical practice.
 
 ## Plot Hooks
 
 The Plague of Unnatural Aggression
-: Animals throughout the region begin behaving in aberrant ways—normally docile creatures become violently aggressive, herd animals refuse to eat, and wild creatures encroach on settlements in ways that suggest coordinated malevolence. The conventional experts attribute this to disease or mismanagement, but Bazudar senses something darker at work. Investigation reveals that a dark practitioner has placed a curse upon the animals, and only Bazudar's unique understanding of animal nature can identify and counter it. Breaking the curse will require shamanic work and potentially alliances with practitioners he distrusts.
+: Animals throughout the region begin behaving in aberrant ways—normally docile creatures become violently aggressive, herd animals refuse to eat, and wild creatures encroach on settlements in ways that suggest coordinated malevolence. The conventional experts attribute this to disease or mismanagement, but Yovaqbeyuk senses something darker at work. Investigation reveals that a dark practitioner has placed a curse upon the animals, and only Yovaqbeyuk's unique understanding of animal nature can identify and counter it. Breaking the curse will require shamanic work and potentially alliances with practitioners he distrusts.
 
 The Foal With Impossible Lineage
-: A pregnant mare in Lord Khuvankenod's care gives birth to a foal of obviously impossible parentage—it bears no resemblance to any known horse breed, with unusual coloration and features that suggest something other than mundane livestock. Some suspect sorcery or demonic influence; others propose it as a sign of divine intervention or evolutionary transformation. Bazudar becomes obsessed with understanding and protecting this unique creature, which attracts the attention of multiple factions all wishing to exploit the foal for their own purposes—merchants seeking profit, religious authorities suspecting heresy, sorcerers seeking arcane power.
+: A pregnant mare in Lord Khuvankenod's care gives birth to a foal of obviously impossible parentage—it bears no resemblance to any known horse breed, with unusual coloration and features that suggest something other than mundane livestock. Some suspect sorcery or demonic influence; others propose it as a sign of divine intervention or evolutionary transformation. Yovaqbeyuk becomes obsessed with understanding and protecting this unique creature, which attracts the attention of multiple factions all wishing to exploit the foal for their own purposes—merchants seeking profit, religious authorities suspecting heresy, sorcerers seeking arcane power.
 
 The Rebellion Against Modernization
-: As Administrator Bulachsovid moves forward with regulations designed to end traditional animal training, Bazudar finds himself reluctantly positioned as the leader of a broader resistance movement against modernization. Younger farmers and traditionalists look to him for leadership, yet his own resistance to organization and public engagement makes him a poor figurehead. He can step into an openly political role, or allow the movement to fragment without his guidance.
+: As Administrator Bulachsovid moves forward with regulations designed to end traditional animal training, Yovaqbeyuk finds himself reluctantly positioned as the leader of a broader resistance movement against modernization. Younger farmers and traditionalists look to him for leadership, yet his own resistance to organization and public engagement makes him a poor figurehead. He can step into an openly political role, or allow the movement to fragment without his guidance.
 
 The Wasting Sickness
-: An animal dear to Bazudar—perhaps Ashenbrand in his old age, or a younger creature that has become symbolic of his work—develops a mysterious wasting sickness that resists both conventional veterinary treatment and his herbal knowledge. To save the animal's life, he must undertake a dangerous quest to locate a fabled healer or a mythical plant, requiring him to journey beyond the familiar desert into territories he fears and doesn't understand.
+: An animal dear to Yovaqbeyuk—perhaps Ashenbrand in his old age, or a younger creature that has become symbolic of his work—develops a mysterious wasting sickness that resists both conventional veterinary treatment and his herbal knowledge. To save the animal's life, he must undertake a dangerous quest to locate a fabled healer or a mythical plant, requiring him to journey beyond the familiar desert into territories he fears and doesn't understand.
 
 The Child Who Speaks to Animals
-: A young orphan arrives in the settlement claiming to possess the same gift as Bazudar—the ability to communicate with animals in ways that go beyond ordinary training. Bazudar is confronted with the possibility of training an apprentice and potentially passing on his knowledge, yet the child's presence also attracts dangerous attention from sorcerers and others who covet such gifts. Bazudar must protect the child while deciding whether to risk caring for another human being after a lifetime of preferring animal company.
+: A young orphan arrives in the settlement claiming to possess the same gift as Yovaqbeyuk—the ability to communicate with animals in ways that go beyond ordinary training. Yovaqbeyuk is confronted with the possibility of training an apprentice and potentially passing on his knowledge, yet the child's presence also attracts dangerous attention from sorcerers and others who covet such gifts. Yovaqbeyuk must protect the child while deciding whether to risk caring for another human being after a lifetime of preferring animal company.

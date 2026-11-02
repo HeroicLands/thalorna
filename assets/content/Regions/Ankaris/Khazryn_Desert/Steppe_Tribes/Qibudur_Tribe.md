@@ -78,7 +78,7 @@ The dovaq is [Kodutoliz Qibudur]{.name data-type="being/npc"}, "horse-spear", a 
 
 ## The Raid
 
-In the year the Koserur wells failed, a Qibudur riding party drove off nearly a third of the Koserur horses and killed two warriors. The Qibudur call it a dry-year bargain and say they have no quarrel with the Koserur. The Koserur call it an insult they cannot yet answer. The Qibudur horse-trader [Shabar Goravan]{.name data-type="being/npc"} now holds a Koserur archer's debt and wants it repaid in information about the Koserur wells.
+In the year the Koserur wells failed, a Qibudur riding party drove off nearly a third of the Koserur horses and killed two warriors. The Qibudur call it a dry-year bargain and say they have no quarrel with the Koserur. The Koserur call it an insult they cannot yet answer. The Qibudur horse-trader [Kodujibun Qibudur]{.name data-type="being/npc"} now holds a Koserur archer's debt and wants it repaid in information about the Koserur wells.
 
 ## Caravans
 
@@ -92,7 +92,7 @@ The Qibudur raid in a dry year and trade in a wet one. In a dry year their trade
 
 ## Hooks
 
-- Shabar Goravan offers a party Qibudur horses on credit, a string of the best on the grass. The debt is a service he will name later, at a time he will choose, and no silver settles it.
+- Kodujibun Qibudur offers a party Qibudur horses on credit, a string of the best on the grass. The debt is a service he will name later, at a time he will choose, and no silver settles it.
 - The Qibudur want the Kenodur's tolls at Qiimod. They will pay a share of them to a party that draws the town's water from inside the walls, by day, and carries the proof out, and they have not said what they mean to do with the proof.
 
 ## See Also

@@ -616,6 +616,21 @@ data:
       field: Derived words
       gloss: "the moot well: the Koserur's central well and gathering place"
       built: [juchon, kelod]
+    - form: Dolqonkelod
+      class: name
+      field: Derived words
+      gloss: "the north well: the Koserur's northern well"
+      built: [dolqon, kelod]
+    - form: Idvaqkelod
+      class: name
+      field: Derived words
+      gloss: "the east well: the Koserur's eastern well, nearest the Qibudur"
+      built: [idvaq, kelod]
+    - form: Gorenevod
+      class: name
+      field: Derived words
+      gloss: "the storm lake: the Koserur's seasonal camp, where storms fill the pans"
+      built: [goren, evod]
     - form: "bodva"
       class: "n"
       field: "The moot, the feud and the raid"
@@ -7001,6 +7016,20 @@ data:
     - {name: Biilokur, tongue: sowides, built: [biiloq, -ur]}
     - {name: Khilodlun Biilokur, tongue: gloss, built: [Khilodlun, Biilokur]}
     - {name: Chief Khilodlun, tongue: gloss, built: [Khilodlun]}
+    - {name: Ghotazkharu, tongue: sowides, built: [ghotaz, kharu]}
+    - {name: Ghotazkharu Koserur, tongue: gloss, built: [Ghotazkharu, Koserur]}
+    - {name: Orqazkenod, tongue: sowides, built: [orqaz, kenod]}
+    - {name: Orqazkenod Koserur, tongue: gloss, built: [Orqazkenod, Koserur]}
+    - {name: Kodujibun, tongue: sowides, built: [kodu, jibun]}
+    - {name: Kodujibun Qibudur, tongue: gloss, built: [Kodujibun, Qibudur]}
+    - {name: Yovaqbeyuk, tongue: sowides, built: [yovaq, beyuk]}
+    - {name: Yovaqbeyuk Qibudur, tongue: gloss, built: [Yovaqbeyuk, Qibudur]}
+    - {name: Budaqkenod, tongue: sowides, built: [budaq, kenod]}
+    - {name: Dujarlun, tongue: sowides, built: [dujar, -lun]}
+    - {name: Dujarlun Oroqidur, tongue: gloss, built: [Dujarlun, Oroqidur]}
+    - {name: Dolqonkelod, tongue: sowides, built: [dolqon, kelod]}
+    - {name: Idvaqkelod, tongue: sowides, built: [idvaq, kelod]}
+    - {name: Gorenevod, tongue: sowides, built: [goren, evod]}
     - name: Evurakhaq
       tongue: sowides
       built: [evur, akhaq]
@@ -7009,6 +7038,19 @@ data:
       tongue: sowides
       built: [jonkhiq, ekon]
       gloss: "the earth-mother of the Open Sky"
+  retired:
+    - {form: Timan, instead: Ghotazkharu, why: "a Dunhari given name"}
+    - {form: Bahrazad, instead: Orqazkenod, why: "a Dunhari given name"}
+    - {form: Darush, instead: Koserur, why: "a Dunhari clan name"}
+    - {form: Shabar, instead: Kodujibun, why: "a Dunhari given name"}
+    - {form: Goravan, instead: Qibudur, why: "a Dunhari clan name"}
+    - {form: Bazudar, instead: Yovaqbeyuk, why: "a Dunhari given name"}
+    - {form: Shahrun, instead: Qibudur, why: "a Dunhari clan name"}
+    - {form: Nari, instead: Dujarlun, why: "a Dunhari given name"}
+    - {form: Sahravan, instead: Oroqidur, why: "a Dunhari clan name"}
+    - {form: Karanat, instead: Dolqonkelod, why: "a Dunhari place name"}
+    - {form: Dubzar, instead: Idvaqkelod, why: "a Dunhari place name"}
+    - {form: Zamir-Kar, instead: Gorenevod, why: "a Dunhari place name"}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
