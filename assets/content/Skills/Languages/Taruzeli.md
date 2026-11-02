@@ -6857,6 +6857,22 @@ data:
     - {name: The Black Island, tongue: translation}
     - {name: The Dispute of the Hull and the Strongroom, tongue: translation}
     - {name: What Was Paid at the Shoals, tongue: translation}
+    - {name: Temple of Two Fires, tongue: translation}
+    - {name: The Temple of Two Fires, tongue: translation}
+    - {name: Two Fires, tongue: translation}
+    - {name: Sharimush Qatuni, tongue: taruzeli, built: [sharim-, -ush, qat-, -uni]}
+    - {name: Pashinuya Lartuni, tongue: taruzeli, built: [pashin-, -uya, lart-, -uni]}
+    - {name: Temada Bissi, tongue: taruzeli, built: [temad-, -a, biss-, -i]}
+    - {name: Harbor Due, tongue: translation}
+    - {name: Festival of the Golden Harvest, tongue: translation}
+    - {name: The Golden Harvest, tongue: translation}
+    - {name: Golden Harvest, tongue: translation}
+    - {name: Thunderhead Vigil, tongue: translation}
+    - {name: The Thunderhead Vigil, tongue: translation}
+    - {name: The Vigil, tongue: translation}
+    - {name: Festival of the Silent Passage, tongue: translation}
+    - {name: The Silent Passage, tongue: translation}
+    - {name: Silent Passage, tongue: translation}
     - {name: Shabaru Hitusuni, tongue: taruzeli}
     - {name: Tirmana Zadduni, tongue: taruzeli}
     - {name: Gadarun, tongue: taruzeli}
