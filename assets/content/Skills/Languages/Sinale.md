@@ -7673,6 +7673,9 @@ data:
     - {name: nela, tongue: exonym:aelendi}
     - {name: nelgan, tongue: exonym:aelendi}
     - {name: tena, tongue: exonym:aelendi}
+    - {name: hersellonku, tongue: sinale, built: [hersel, lonku]}
+    - {name: lirnasto, tongue: sinale, built: [lirna, -sto]}
+    - {name: ilkaivesto, tongue: sinale, built: [ilkaive, -sto]}
   negation: {particle: ahi, mutation: wearing}
   naming: {shapes: [{of: given, syllables: {min: 2, max: 4}}]}
 sohl:

@@ -33,6 +33,8 @@ Great herds of llama and alpaca graze these grasslands, most of them the temples
 
 To the south and west, the plateau gradually descends, the grasses thicken into scrubland, and the temperature begins to rise. The transition is slow and uneasy—the land does not offer gentle gradations here, but rather abrupt drops, twisted rock formations, and signs of what the priests call the wound in the world: bitter springs, ground that will grow nothing, and stone stained ochre and green.
 
+East of the lake the plateau breaks off above a lowland of slow rivers, which spreads every wet season into a great swamp, the last green country north of the wastes. The hunters and fishers of the eastern rim go down to its edges in the dry season and leave its deep reaches alone, for those belong to [[place-ilkaivesto|Ilkaivesto]], a conclave of the [[lore-flksinale|Sinale Folk]].
+
 ## The Lake and the Towns
 
 K'ushi Ish'bal has no coast. Its heart is the sacred lake, and the temple-city of [[place-ixkulchalix|Ishkul Ch'alish]] on its northern shore owns the water, the boats and the greatest herds of the plateau. The lake's southern shore is bitter, and the priests have closed it.
@@ -71,3 +73,6 @@ K'ushi Ish'bal quarrels over what the temples keep. The priesthood's word prevai
 
 [[place-qptlulneok|Q'aptel'ul Ne'ok]]
 : The garrison town on the plateau's southern lip
+
+[[place-ilkaivesto|Ilkaivesto]]
+: The Sinale conclave in the swamp below the plateau

@@ -123,7 +123,7 @@ The [[affiliation-tantsouempr|Empire of Tantsou]] represents a different kind of
 
 ### Ki'ich'chik
 
-The Sinale also maintain some form of connection with the peoples of [[place-kiichchik|Ki'ich'chik]]—a relationship that is poorly understood by western scholars, who know little of either the Sinale or the Ki'ich'chik societies in any detail. The nature of this contact—whether it resembles the warmth of the Élavendren relationship, the formality of the Tantsou arrangement, or something else entirely—remains to be explored.
+The Sinale keep three conclaves in [[place-kiichchik|Ki'ich'chik]]: [[place-hersellonku|Hersellonku]] in a deep pine forest of the north, [[place-lirnasto|Lirnasto]] in the jungle of the central lowlands and [[place-ilkaivesto|Ilkaivesto]] in a swamp of the south, just north of the wastes. Their contact with the peoples there is the thinnest of any of these exceptions. The Sinale of the conclaves have little to do with humans and give their attention to the country they live in. The one arrangement is an understanding with the realm of [[affiliation-kankul|K'ankul]], whose people stay out of Lirnasto's jungle and do not disturb those who live there. The peoples near the other two conclaves keep away from them without any arrangement at all.
 
 ## See Also
 
@@ -137,7 +137,7 @@ The Sinale also maintain some form of connection with the peoples of [[place-kii
 : Formal contact, possibly coerced; see [[lore-elderraces|Elder Races]]
 
 [[place-kiichchik|Ki'ich'chik]]
-: Some form of connection with Ki'ich'chik society
+: Three conclaves, a northern forest, a central jungle and a southern swamp
 
 [[place-vrystwald|Vristwald Region]]
 : Known to contain Sinalean enclaves

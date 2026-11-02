@@ -34,6 +34,8 @@ The visible landscape is dominated by dense tropical jungle, thorny scrubland in
 
 The jungle that blankets K'ankul was not always primary forest; centuries of deliberate landscape management have transformed it into a mosaic of productive and sacred zones. The greatest cities are surrounded by carefully maintained agricultural zones where slash-and-burn maize plots rotate in a 7-year cycle with regenerating forest. Beyond these zones lie wilderness areas reserved for hunting and the gathering of specialty woods, rubber, and medicinal plants. The K'ankul people have learned to read the jungle as the priests read the stars—as a complex, ordered system governed by sacred principles and celestial cycles.
 
+One stretch of high jungle in the interior of the platform, far from every city, has never been worked at all. It is [[place-lirnasto|Lirnasto]], the conclave of the [[lore-flksinale|Sinale Folk]], and by an old understanding the realm keeps its people out of it.
+
 ## City-States and Realms
 
 The greatest include [[place-nechakalkul|Ne' Ch'akalkul]] (the "Great Water Seat"), whose pyramids overlook a vast field of sacred pools and whose astronomers are reputed to have refined the calculation of the [K'inish'ilan]{.name data-type="place/celestial"} cycle—the round of the bright star that shows only at the edges of the day, rising before the sun or setting after it—to an accuracy of within two days per hundred years; [[place-tzokilkul|the Walled City]] (Ts'okilkul), a coastal fortress on the sea-cliffs whose ramparts command both the sea trade and the overland routes to the interior; and [[place-lishepikum|Lishep'ikum]] (the "Thrice-Built"), a sprawling complex of inter-connected pyramid groups built atop an artificial platform to maximize astronomical sightlines.
@@ -77,3 +79,6 @@ K'ankul quarrels with Ish'ilankul over whether it is a partner or a tributary, a
 
 [[place-tzokilkul|Ts'okilkul]]
 : The Walled City on the sea-cliffs
+
+[[place-lirnasto|Lirnasto]]
+: The Sinale conclave in the uncut jungle of the interior

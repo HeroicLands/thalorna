@@ -47,7 +47,7 @@ data:
             knowledge: named
           - place: place-kiichchik
             how: >-
-              some form of connection is maintained with the peoples here, and western scholarship knows neither side well enough to say what it is
+              three conclaves stand in a northern forest, a central jungle and a southern swamp, and the peoples near them keep away
             knowledge: unlinked
       who: [{ref: lore-flksinale, role: actor}]
       accounts:

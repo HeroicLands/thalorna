@@ -101,6 +101,10 @@ The K'ankul city-states are intensely competitive in intellectual and cultural a
 
 The pool-centered spirituality of K'ankul has produced a distinct tradition within the Itsani faith. The Ch'alishbal (ordained priests) of K'ankul place special emphasis on watery sacrifice and on divination through the reading of reflections in the water of a sacred pool. Some of the most powerful priestly families maintain personal relationships with specific sacred pools, regarding them as sacred entities with individual personalities and preferences. The boundary between the practical (managing water resources, maintaining agricultural canals) and the sacred (interpreting pool omens, timing rituals) is intentionally blurred in K'ankul thought.
 
+## The Understanding
+
+K'ankul keeps an understanding with the [[lore-flksinale|Sinale Folk]] of [[place-lirnasto|Lirnasto]], the conclave in the high jungle of the platform's interior: the realm's people stay out of that jungle and do not disturb those who live there. Every Ts'enmah holds to it, and the Ha'nalmah of the towns along the forest's edge turn back hunters, rubber-tappers and gatherers where the old trees begin. The realm's books do not say when or how the understanding was made, and the Sinale take no other part in the realm's affairs.
+
 ## See Also
 
 [[affiliation-ixilankul|Ish'ilankul]]
@@ -117,3 +121,6 @@ The pool-centered spirituality of K'ankul has produced a distinct tradition with
 
 [[place-kankulrgn|K'ankul Region]]
 : The land K'ankul holds
+
+[[place-lirnasto|Lirnasto]]
+: The Sinale conclave the realm's people stay away from
