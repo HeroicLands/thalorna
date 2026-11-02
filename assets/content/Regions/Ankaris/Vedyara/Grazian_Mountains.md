@@ -12,6 +12,8 @@ data:
     - {to: vedyarargn, bearing: S}
     - {to: tantsouregin, bearing: NE}
     - {to: dunharargn, bearing: W}
+    - {to: idwkrrgn, bearing: N}
+    - {to: swoasisbelt, bearing: N}
   population: null
   packFolder: vedyara
   culture: vedyariclt
@@ -37,7 +39,7 @@ All six open briefly in late summer and are dangerous even then. A small populat
 
 ## Geography
 
-The range forms a great curving arc. It begins in the high northern country east of Tantsou's western frontier, sweeps south and west across the whole northern margin of Vedyara, and loses height steadily until it dies away in broken hill country above the [[place-dunharargn|Dunhari]] desert-margin. Its northern face is the southern boundary of the Khazryn Desert, the country of the [[affiliation-khzrncnfdrtn|Khazryn]] and the [[affiliation-tribestrzd|Atarzád]]. The arc runs some two thousand miles and is more than three hundred miles deep at its widest.
+The range forms a great curving arc. It begins in the high northern country east of Tantsou's western frontier, sweeps south and west across the whole northern margin of Vedyara, and loses height steadily until it dies away in broken hill country above the [[place-dunharargn|Dunhari]] desert-margin. Its northern face is the southern boundary of the Khazryn Desert, the country of the [[affiliation-khzrncnfdrtn|Tellumi]] and the [[affiliation-tribestrzd|Atarzád]]. The arc runs some two thousand miles and is more than three hundred miles deep at its widest.
 
 Scholars in Vedyara and in the Khazryn country name three sub-ranges:
 
@@ -48,7 +50,7 @@ Scholars in Vedyara and in the Khazryn country name three sub-ranges:
 : the sub-range that arcs eastward toward Tantsou's western frontier. It is less massive than the Southern Wall and still formidable, and it is the principal overland barrier between the Vedyari and Tantsou civilizations.
 
 [[place-wstrndscnt|The Western Descent]]
-: the last three hundred miles, where the wall comes apart. The ridges drop, the glaciers give out, and the range breaks into a belt of dry brown foothills between the oasis-belt to the north and the Vedyari marches to the south, before running out altogether in the Dunhari desert-margin. It is the one stretch of the range a caravan crosses without a guide, and the way [[lore-hndrdbnnrs|a steppe host]] came down into Vedyara four centuries ago. The Khazryn tradition holds that the first Khazryn came down here into the great springs of the desert in the deep first age, and the older Khazryn genealogies still trace lineage-origins to particular peaks above the descent.
+: the last three hundred miles, where the wall comes apart. The ridges drop, the glaciers give out, and the range breaks into a belt of dry brown foothills between the oasis-belt to the north and the Vedyari marches to the south, before running out altogether in the Dunhari desert-margin. It is the one stretch of the range a caravan crosses without a guide, and the way [[lore-hndrdbnnrs|a steppe host]] came down into Vedyara four centuries ago. The Tellumi tradition holds that the first Tellumi came down here into the great springs of the desert in the deep first age, and the older Tellumi genealogies still trace lineage-origins to particular peaks above the descent.
 
 ## The Trans-Grazian Peoples
 
@@ -63,7 +65,7 @@ The trans-Grazian peoples number thirty thousand across the entire range. They l
 Each people that looks at the range reads something different in it.
 
 - For the [[lore-vedyariclt|Vedyari]], specific Southern Wall peaks are the dwelling-places of [[affiliation-vrnkpnthn|Varnuka]] deities, and the glacier-springs that feed the great rivers are sites of major pilgrimage. The annual ascent-pilgrimages to the lower slopes draw hundreds of thousands of devotees in the favorable months.
-- For the Khazryn, the Western Descent is the ancestral homeland, the country their forebears came down from in the first age. Khazryn genealogies root themselves in particular peaks, and the surviving Khazryn princely houses keep ceremonial hereditary connections to particular valleys of the descent, most of which they have not visited in many generations.
+- For the Tellumi, the Western Descent is the ancestral homeland, the country their forebears came down from in the first age. Tellumi genealogies root themselves in particular peaks, and the surviving Tellumi princely houses keep ceremonial hereditary connections to particular valleys of the descent, most of which they have not visited in many generations.
 - For the [[affiliation-tribestrzd|Atarzád]], the range is theologically irrelevant. In their teaching, the land was promised to them at [[place-mountshofar|Mount Shofar]] in the southeastern Khazryn highlands, and the wall marks the southern edge of the geographic frame of the [Promise of the Tellumel]{.name data-type="lore"}.
 - For the trans-Grazian peoples themselves, the whole range is the dwelling-place of forces they call by names they do not share with outsiders. The travel-protocols a lowland caravan must keep to cross safely come from that reckoning, and outsiders are told what to do and not why.
 - For the [[lore-tantsouclt|Tantsou]] of the eastern frontier, the Eastern Reach is the western edge of the celestial empire's mandate, beyond which, in the standard Tantsou view, geography itself becomes increasingly suspect.
@@ -78,7 +80,7 @@ On the Vedyari side the trade is governed as well as taxed. The kingdom of [[aff
 
 ## The Drenavar Confusion
 
-Vedyari and Tellumi folk-tradition sometimes confuses the Grazian Mountains with [[place-drenavrspn|the Drenavar Spine]] of [[place-elavendre|Élavendre]], a range half a continent away in the western Aureldian world. The two share no geology, no culture and no mythology. The Khazryn name for the Western Descent, [[place-wstrndscnt|Dranavár]], is close enough to the Áelendan name for the Drenavar that travelers mistake one for the other in stories, and the two ranges are entirely separate.
+Vedyari and Tellumi folk-tradition sometimes confuses the Grazian Mountains with [[place-drenavrspn|the Drenavar Spine]] of [[place-elavendre|Élavendre]], a range half a continent away in the western Aureldian world. The two share no geology, no culture and no mythology. The Tellumi name for the Western Descent, [[place-wstrndscnt|Dranavár]], is close enough to the Áelendan name for the Drenavar that travelers mistake one for the other in stories, and the two ranges are entirely separate.
 
 ## See Also
 
@@ -92,7 +94,7 @@ Vedyari and Tellumi folk-tradition sometimes confuses the Grazian Mountains with
 : Western desert, where the range runs out
 
 [[affiliation-khzrncnfdrtn|Tellumi Confederation]]
-: Indigenous Khazryn peoples whose origin is traced to the Western Descent
+: Indigenous Tellumi peoples whose origin is traced to the Western Descent
 
 [[affiliation-tantsouempr|Empire of Tantsou]]
 : Eastern empire across the Eastern Reach

@@ -18,7 +18,7 @@ A sacristan of [[place-pnthnrldnm|Sarkena Dorekis]] (the House of the Twelve), w
 
 Two priesthoods that would have little to say to one another anywhere else tend the Necropolis jointly: the Aureldian clergy of Sélmoros, the Silent Judge, and the Asguardian clergy of Nahild. Their shared custody of the dead is the root of the surprising power of Nahild's faith in the capital.
 
-The Necropolis is a city in its own right, with its own watch, its own quiet economy of funerary trades and its own silent avenues. It lies well apart from the [Campus Vylaris]{.name data-type="place/site"} on the city's opposite flank.
+The Necropolis is a city in its own right, with its own watch, its own quiet economy of funerary trades and its own silent avenues. It lies well apart from the [Vilarpolthamis]{.name data-type="place/site"} on the city's opposite flank.
 
 ## See Also
 

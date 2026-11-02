@@ -90,6 +90,9 @@
     "overrides": {
         "@heroiclands/package-build": {
             "minimatch": "^11.0.3"
+        },
+        "npm-run-all": {
+            "minimatch": "^11.0.3"
         }
     }
 }

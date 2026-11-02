@@ -11,55 +11,45 @@ data:
   symbol: null
   governance:
     model: oligarchy
-    summary: Council of merchant-princes.
+    summary: >-
+      A Council of Elders elected by the city's property-owning citizens, under a First of the Council who holds the seal for his term; the council serves largely at the pleasure of the Auric Compact, the Corsair League and the Merchantry of the Veil.
     ranks:
       - level: 0
-        title: Struck from the Roll
+        title: Struck from the Register
         description: >-
-          Expelled from the city's register: no charter, no protection, no standing in its courts, and every contract void.
+          Expelled from Besikar's register: no protection, no standing in its courts and no market that will take his word.
       - level: 1
         title: Unfree
         description: Bound in service or debt-bondage, holding neither property nor the right to contract.
       - level: 2
         title: Resident
-        description: >-
-          Dwelling and laboring in the city under its protection, without its freedom or a vote in it.
+        description: Working under the city's protection without its freedom or a vote, as most of the old city behind the harbor does.
       - level: 3
-        title: Freeman of the City
+        title: Freeman
         description: Enrolled in the city's register, entitled to trade in its markets and plead in its courts.
       - level: 4
-        title: Guild Master
+        title: Elector
         description: >-
-          Head of a chartered trade, speaking for it before the Council and answerable for its members' conduct.
+          A freeman holding property in the city, and with it a vote for the Council of Elders.
       - level: 5
-        title: House Factor
-        description: >-
-          Managing the affairs of one of the great houses—its warehouses, its ships, its correspondents abroad.
-      - level: 6
         title: House Head
-        description: Master of a merchant house, its capital and its name, and an elector of the Council.
+        description: >-
+          Master of a merchant house of the Guild Quarter, whose wealth is what sends a man to the council.
+      - level: 6
+        title: Elder
+        description: Sitting on the Council of Elders, elected by the property-holders and seated by the weight of his house.
       - level: 7
-        title: Councilor
-        description: Sitting on the Council that governs the city, by weight of the house behind him.
-      - level: 8
         title: First of the Council
-        description: Presiding over the Council for a term, and holding the city's seal while he does.
+        description: Presiding over the Council of Elders for his term, and holding the city's seal while he does.
     offices:
       First of the Council: >-
-        Presiding officer of the governing council, elected by it for a fixed term and holding the city's seal.
-      Councilor: Member of the governing council, seated by the standing of the house he heads.
-      Chancellor: Keeper of the city's charters, treaties and correspondence.
+        Held by an Elder, elected by the Council of Elders for a fixed term. Presides over the council and holds the city's seal.
+      Chancellor: >-
+        Held by an Elder. Keeps the city's charters, treaties and correspondence.
       Treasurer: >-
-        Keeper of the city's revenue—its customs, its tolls, and the loans it raises against them.
-      Harbormaster: Warden of the port, its pilots, its wharves and the dues levied on every hull that enters.
-      Master of the Mint: Keeper of the coin struck in the city's name and of the standard it is struck to.
-      Consul Abroad: The city's resident agent in a foreign port, holding its seal for trade disputes there.
-      Captain of the Watch: Commander of the city's guard and of the militia its guilds are bound to raise.
-      Warden of the Weights: >-
-        Inspector of measures, coin and quality in the markets—the office that makes the city's word good.
-      Guild Master: Head of a chartered trade, speaking for it before the Council.
-      Arbitrator: >-
-        Professional settler of disputes between houses under the commercial custom, whose rulings the Council enforces.
+        Held by an Elder. Keeps the city's revenue: the customs, the tolls, and the loans the city raises against them.
+      Harbormaster: >-
+        Held by a House Head named by the council. Keeps the Grand Harbor, its naval yards on the northern arm and its fishing quays on the southern, and the dues levied on every hull that enters.
   seat: besikar2
   population: 3000000
   economy: [affiliation-tarmex, lore-trzlncrncy]

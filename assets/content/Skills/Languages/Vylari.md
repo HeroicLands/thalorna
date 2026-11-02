@@ -9924,7 +9924,21 @@ data:
     - {name: Zulen Pirethos, tongue: vylari}
     - {name: Zulen Sideris, tongue: vylari}
     - {name: Zulen Zefaris, tongue: vylari}
+    - {name: Vilarpolthamis, tongue: vylari, built: ["vilar-", polthamis]}
+    - {name: Velmiros, tongue: vylari, built: [velmiros]}
+    - {name: Veldis, tongue: vylari, built: ["veld-", "-is"]}
+    - {name: Melvaris Thradinis, tongue: vylari, built: [melvar, "-is", "thradin-", "-is"]}
+    - {name: Peleris, tongue: vylari, built: ["peler-", "-is"]}
+    - {name: Thauris, tongue: vylari, built: ["thaur-", "-is"]}
   retired:
+    - {form: Campus Vylaris, instead: Vilarpolthamis, why: an Earth phrase for the city commons}
+    - {form: Viridarium, instead: Velmiros, why: an Earth word for the city green}
+    - {form: Verrius, instead: Veldis, why: a former house name from Earth}
+    - {form: Maximian Tertian, instead: Melvaris Thradinis, why: a former house name from Earth}
+    - {form: Calventian, instead: Peleris, why: a former house name from Earth}
+    - {form: Calventiana, instead: Peleris, why: an inflected form of the former house name}
+    - {form: Calventiani, instead: Peleris, why: an inflected form of the former house name}
+    - {form: Therion, instead: Thauris, why: a former house name from Earth}
     - {form: Murkas, instead: Pozerandi, why: a month named with an echo of an Earth god}
     - {form: Vulcar, instead: Thumbandi, why: a month named with an echo of an Earth god}
     - {form: Venuris, instead: Elthezandi, why: a month named with an echo of an Earth god}

@@ -1,7 +1,7 @@
 name: Changesets
 
-# One changeset per pull request, and a Version Packages pull request approved
-# on its final commit. The check lives in HeroicLands/.github (actions/changesets).
+# One changeset per user-visible change, and a Version Packages pull request
+# approved on its final commit. The check lives in HeroicLands/.github (actions/changesets).
 
 on:
     pull_request:

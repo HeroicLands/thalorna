@@ -9,6 +9,7 @@ data:
   demonym: Amradi
   lore: [humanflk]
   parents: [dunharargn]
+  borders: [{to: khzryndsrtrgn, bearing: NE}, {to: wlqtrrgn, bearing: NE}]
   population: 2000000
   packFolder: amradad
   government: kngdmmrdd

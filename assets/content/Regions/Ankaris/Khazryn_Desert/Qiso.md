@@ -5,7 +5,16 @@ type: place
 subType: site
 description: "The seasonal market-camp at the heart of the Khazryn, where the Celestial Road meets its southern spur and most of the road's goods change hands."
 tags: [site]
-data: {demonym: null, lore: [], parents: [hskrrgn], population: 0, packFolder: khazryndesert}
+data:
+  demonym: null
+  lore: []
+  parents: [hskrrgn]
+  routes:
+    - {to: yemokwell, bearing: W, mode: land, days: 30}
+    - {to: sowidwell, bearing: E, mode: land, days: 30}
+    - {to: kethramir, bearing: S, mode: land, days: 20}
+  population: 0
+  packFolder: khazryndesert
 ---
 
 For eleven months the place is a ring of black stones round a deep well, a few hundred yards of trampled gravel, and a scatter of bones. Then the spring fleet comes in from the west and the autumn fleet from the east, and in ten days the empty ground becomes a city of felt tents and rope corrals that holds fifteen thousand people, four thousand camels and every kind of silver anyone has ever struck.

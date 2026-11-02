@@ -21,7 +21,7 @@ Two orders keep their mother-houses here, and between them they make Ólvestra t
 
 ## Money and Danger
 
-Ólvestra is a moneylenders' city. The great houses of [[affiliation-danvar|the Danvar]] keep offices here—the [House of Calventian]{.name data-type="affiliation/venture"} among them—and the Danvar's chapterhouse is one of its largest, with permanent staff in the dozens. Prices for premium goods run higher here than almost anywhere in the west, and an Ólvestran house's notes travel far: if the imperial treasury suspends one for political reasons, cashing houses across the empire are left holding paper they cannot redeem.
+Ólvestra is a moneylenders' city. The great houses of [[affiliation-danvar|the Danvar]] keep offices here—the [House of Peleris]{.name data-type="affiliation/venture"} among them—and the Danvar's chapterhouse is one of its largest, with permanent staff in the dozens. Prices for premium goods run higher here than almost anywhere in the west, and an Ólvestran house's notes travel far: if the imperial treasury suspends one for political reasons, cashing houses across the empire are left holding paper they cannot redeem.
 
 The city has its shadows too. [The Ólvestran Cell]{.name data-type="affiliation"} of [[affiliation-ordershnvw|the Order of the Ashen Vow]] is that order's largest, operating under the protection of the hill-baronies around the city, and the death of the Ólvestran Marendos of the Sealed Word seven years ago—ruled natural, three days before he was to issue a major writ against a baron sympathetic to [[affiliation-blackflame|the Black Flame]]—is still talked about as something less than natural.
 

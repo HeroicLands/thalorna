@@ -65,7 +65,7 @@ data:
         Held by a Delkoshekh. Records blood owed and blood paid between houses and against the Atarzád.
       Agent in the Lost Cities: >-
         Held by one Of the Tablets. Lives in a held city as a merchant, a clerk or a water-master, and tells the exile houses how matters stand there.
-  seat: oasishirvn
+  seat: null
   population: 800000
   economy: [lore-bartercnmy, lore-kinhalcrdt, lore-vdyrnbnkng]
   lore: [humanflk]

@@ -11,55 +11,47 @@ data:
   symbol: null
   governance:
     model: oligarchy
-    summary: Council of merchant-princes.
+    summary: >-
+      The Admiral's Council, drawn heavily from the admirals' families, under a First of the Council who holds the seal for his term; a family's standing is counted in ships commanded and battles won.
     ranks:
       - level: 0
         title: Struck from the Roll
         description: >-
-          Expelled from the city's register: no charter, no protection, no standing in its courts, and every contract void.
+          Expelled from Yamuzel's register and its muster: no protection, no berth in its yards and no place on its walls at the Fleet Review.
       - level: 1
         title: Unfree
         description: Bound in service or debt-bondage, holding neither property nor the right to contract.
       - level: 2
         title: Resident
-        description: >-
-          Dwelling and laboring in the city under its protection, without its freedom or a vote in it.
+        description: Living and working under the fortress's protection without the city's freedom or a vote.
       - level: 3
-        title: Freeman of the City
-        description: Enrolled in the city's register, entitled to trade in its markets and plead in its courts.
+        title: Freeman
+        description: >-
+          Enrolled in the city's register, with its markets and courts open to him; the veterans of the Shoals are freemen still waiting for the land and guild places they were promised.
       - level: 4
-        title: Guild Master
-        description: >-
-          Head of a chartered trade, speaking for it before the Council and answerable for its members' conduct.
+        title: Captain
+        description: Commanding a ship of the city, and counting her in his family's standing.
       - level: 5
-        title: House Factor
+        title: Admiral
         description: >-
-          Managing the affairs of one of the great houses—its warehouses, its ships, its correspondents abroad.
+          Having commanded a squadron of the city's warships, and head of one of the admirals' families on the strength of it.
       - level: 6
-        title: House Head
-        description: Master of a merchant house, its capital and its name, and an elector of the Council.
-      - level: 7
         title: Councilor
-        description: Sitting on the Council that governs the city, by weight of the house behind him.
-      - level: 8
+        description: Sitting on the Admiral's Council by the weight of his house, which is usually a naval one.
+      - level: 7
         title: First of the Council
-        description: Presiding over the Council for a term, and holding the city's seal while he does.
+        description: Presiding over the Admiral's Council for his term, and holding the city's seal while he does.
     offices:
       First of the Council: >-
-        Presiding officer of the governing council, elected by it for a fixed term and holding the city's seal.
-      Councilor: Member of the governing council, seated by the standing of the house he heads.
-      Chancellor: Keeper of the city's charters, treaties and correspondence.
-      Treasurer: >-
-        Keeper of the city's revenue—its customs, its tolls, and the loans it raises against them.
-      Harbormaster: Warden of the port, its pilots, its wharves and the dues levied on every hull that enters.
-      Master of the Mint: Keeper of the coin struck in the city's name and of the standard it is struck to.
-      Consul Abroad: The city's resident agent in a foreign port, holding its seal for trade disputes there.
-      Captain of the Watch: Commander of the city's guard and of the militia its guilds are bound to raise.
-      Warden of the Weights: >-
-        Inspector of measures, coin and quality in the markets—the office that makes the city's word good.
-      Guild Master: Head of a chartered trade, speaking for it before the Council.
-      Arbitrator: >-
-        Professional settler of disputes between houses under the commercial custom, whose rulings the Council enforces.
+        Held by a Councilor, elected by the Admiral's Council for a fixed term. Presides over the council and holds the city's seal.
+      Warden of the Strait Fortress: >-
+        Held by an Admiral. Commands the fortress over the narrows, under whose walls every hull passing through the archipelago must go.
+      Master of the Naval Yards: >-
+        Held by an Admiral or a Captain. Keeps the yards that build and maintain the Confederation's warships.
+      Commander of the Marines: >-
+        Held by an Admiral. Commands the marine infantry, the nearest thing Taruzel has to a professional standing army.
+      Harbormaster: >-
+        Held by a Captain named by the council. Keeps the port, its pilots and the order of ships at the Fleet Review.
   seat: yamuzel2
   population: 2200000
   economy: [affiliation-tarmex, lore-trzlncrncy]

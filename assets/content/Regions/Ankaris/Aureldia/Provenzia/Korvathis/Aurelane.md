@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "The old Vylarian foundation of the southern interior—once the provincial capital and still the seat of Provenzian law and learning, a city of enormous prestige and diminished consequence."
 tags: [city, inland]
-data: {demonym: null, lore: [], parents: [korvathis], population: 30000, packFolder: provenzia}
+data:
+  demonym: null
+  lore: []
+  parents: [korvathis]
+  population: 30000
+  government: kngdmprvnz
+  packFolder: provenzia
 ---
 
 **Aurelane** stands inland in the south, on the great road, and is the oldest city in [[place-provenzrgn|Provenzia]]. It

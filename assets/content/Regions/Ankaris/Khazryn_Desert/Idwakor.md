@@ -9,12 +9,16 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [khzryndsrtrgn]
+  borders:
+    - {to: hskrrgn, bearing: W}
+    - {to: tantsouregin, bearing: E}
+    - {to: graznmntns, bearing: S}
   population: 330000
   packFolder: khazryndesert
   government: null
 ---
 
-East of the second hand-off well the sand stops as if cut. The ground is black rock and pale gravel, the wind has a bite in it even at noon, and the nights freeze the water in the skins. A caravan that crossed the [Long Dry]{.name data-type="place/feature"} in a sweat finds itself wrapped in felt and burning dung, and the camels, which can stand heat for a week, begin to lose condition in the cold.
+East of the second hand-off well the sand stops as if cut. The ground is black rock and pale gravel, the wind has a bite in it even at noon, and the nights freeze the water in the skins. A caravan that crossed the [[place-longdry|Long Dry]] in a sweat finds itself wrapped in felt and burning dung, and the camels, which can stand heat for a week, begin to lose condition in the cold.
 
 **Idvaqor**, "the east range" in [[skill-sowideslng|Sovidur]], is the last stage of the [[place-khzryndsrtrgn|Khazryn]]: stone desert that climbs by long steps to a cold high steppe, and then to the western passes of [[place-tantsouregin|Tantsou]]. [[lore-celestialroad|The Celestial Road]] crosses it in about eight hundred miles and thirty-five days, from the well at [[place-sowidwell|Sovid]] to the Tantsou customs-house on the pass. The southern edge touches [[place-estrnreach|the Eastern Reach]] of [[place-graznmntns|the Grazian Mountains]], where [[place-tamradvar|Tamradvar]] climbs south toward [[place-vedyarargn|Vedyara]].
 

@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "A southern coastal town living on shipping and the great salt flats to its east—modest, wealthy for its size, and home to minor houses whose fortunes rest on salt rather than on land."
 tags: [town, coastal]
-data: {demonym: null, lore: [], parents: [korvathis], population: 6000, packFolder: provenzia}
+data:
+  demonym: null
+  lore: []
+  parents: [korvathis]
+  population: 6000
+  government: kngdmprvnz
+  packFolder: provenzia
 ---
 
 **Lizela** lies on the warm southern coast between the great ports, a town of some six thousand

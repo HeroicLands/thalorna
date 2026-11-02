@@ -9,6 +9,7 @@ data:
   demonym: Bizarian
   lore: [humanflk]
   parents: [heladrgn]
+  borders: [{to: khzryndsrtrgn, bearing: E}, {to: wlqtrrgn, bearing: E}]
   population: 8000000
   packFolder: byzaria
   government: byzarianlg

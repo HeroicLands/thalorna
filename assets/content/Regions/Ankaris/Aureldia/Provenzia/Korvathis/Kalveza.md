@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "The second of Provenzia's great southern ports and one of the two homes of the Cotiere speech—a working harbor where Jalnasdal is a court, and the place the kingdom's bulk trade actually passes through."
 tags: [town, port, coastal]
-data: {demonym: null, lore: [], parents: [korvathis], population: 18000, packFolder: provenzia}
+data:
+  demonym: null
+  lore: []
+  parents: [korvathis]
+  population: 18000
+  government: kngdmprvnz
+  packFolder: provenzia
 ---
 
 **Kalveza** stands on the warm southern shore and is, with [[place-jalnazdal|Jalnasdal]], one of the

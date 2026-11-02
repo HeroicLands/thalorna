@@ -12,55 +12,47 @@ data:
   governance:
     model: confederation
     summary: >-
-      A Grand Council of the member city-states, each with an equal voice in theory and the wealthiest dominant in fact; the Arch-Consulship rotates and is more ceremonial than powerful.
+      The Grand Council at Besikar, five councilors from each of the five member states, counts every measure twice: once by heads and once by the weight of each member's deposits in the Merazuni's register. The Arch-Consulship passes each year to the next member in charter order, and each member state keeps its own laws, militia and council.
     ranks:
       - level: 0
-        title: Struck from the Roll
+        title: Outlawed
         description: >-
-          Expelled from the city's register: no charter, no protection, no standing in its courts, and every contract void.
+          Declared outlaw by an act of the Grand Council: no member state may shelter him, no Taruzelian port may take his cargo, and no court of the Confederation hears him.
       - level: 1
         title: Unfree
-        description: Bound in service or debt-bondage, holding neither property nor the right to contract.
+        description: >-
+          Bound in service or debt-bondage under the law of a member state, and reached by the Confederation's acts only through a master.
       - level: 2
         title: Resident
         description: >-
-          Dwelling and laboring in the city under its protection, without its freedom or a vote in it.
+          Living in a member state without its freedom, under the Confederation's treaties at sea, with no petition to the Grand Council.
       - level: 3
-        title: Freeman of the City
-        description: Enrolled in the city's register, entitled to trade in its markets and plead in its courts.
+        title: Freeman
+        description: >-
+          Enrolled in the register of a member state, free to trade under the Confederation's tariffs between its members, and entitled to petition the Grand Council through the councilors of his own state.
       - level: 4
-        title: Guild Master
+        title: Officer of the Council
         description: >-
-          Head of a chartered trade, speaking for it before the Council and answerable for its members' conduct.
+          Sworn to the Grand Council's service as a clerk, reckoner, arbitrator or envoy, with no vote of his own.
       - level: 5
-        title: House Factor
-        description: >-
-          Managing the affairs of one of the great houses—its warehouses, its ships, its correspondents abroad.
-      - level: 6
-        title: House Head
-        description: Master of a merchant house, its capital and its name, and an elector of the Council.
-      - level: 7
         title: Councilor
-        description: Sitting on the Council that governs the city, by weight of the house behind him.
-      - level: 8
-        title: First of the Council
-        description: Presiding over the Council for a term, and holding the city's seal while he does.
+        description: >-
+          One of the five representatives each member state sends to the Grand Council, named by the council of his own state and voting as it instructs.
+      - level: 6
+        title: Arch-Consul
+        description: >-
+          The councilor presiding over the Grand Council for the year, from each member state in turn in the order they signed the charter: Besikar, Yamuzel, Kudumel, Bazunel and Sazumun.
     offices:
-      First of the Council: >-
-        Presiding officer of the governing council, elected by it for a fixed term and holding the city's seal.
-      Councilor: Member of the governing council, seated by the standing of the house he heads.
-      Chancellor: Keeper of the city's charters, treaties and correspondence.
-      Treasurer: >-
-        Keeper of the city's revenue—its customs, its tolls, and the loans it raises against them.
-      Harbormaster: Warden of the port, its pilots, its wharves and the dues levied on every hull that enters.
-      Master of the Mint: Keeper of the coin struck in the city's name and of the standard it is struck to.
-      Consul Abroad: The city's resident agent in a foreign port, holding its seal for trade disputes there.
-      Captain of the Watch: Commander of the city's guard and of the militia its guilds are bound to raise.
-      Warden of the Weights: >-
-        Inspector of measures, coin and quality in the markets—the office that makes the city's word good.
-      Guild Master: Head of a chartered trade, speaking for it before the Council.
-      Arbitrator: >-
-        Professional settler of disputes between houses under the commercial custom, whose rulings the Council enforces.
+      Arch-Consul: >-
+        Held by a Councilor of the member state whose year it is, named by its own council. Presides over the Grand Council, holds the Confederation's seal, receives envoys, signs the Council's acts and sets the order in which business is read, with no more vote than any other councilor.
+      Clerk of the Council: >-
+        Held by an Officer of the Council. Keeps the Grand Council's rolls and acts, reads each measure and every sponsored petition aloud, and keeps the acts between sessions.
+      Reckoner of the Weight: >-
+        Held by an Officer of the Council, seconded from the Merazuni, the treasury of the Vezakuni. Reads each member's weight from the Merazuni's register at the opening of a session and declares the weight of every count.
+      Arbitrator of the Council: >-
+        Held by an Officer of the Council. Settles disputes between parties of different member states, where one member's laws and another's disagree.
+      Envoy of the Council: >-
+        Held by an Officer of the Council or a Councilor, commissioned by an act of the Council under the Arch-Consul's seal. Carries the Confederation's treaties to the realms around the Vylarian Sea.
   seat: besikar2
   population: 12000000
   economy: [affiliation-tarmex, lore-trzlncrncy]

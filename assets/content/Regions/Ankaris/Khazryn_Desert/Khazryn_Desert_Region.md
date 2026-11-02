@@ -14,6 +14,8 @@ data:
     - {to: dunharargn, bearing: S}
     - {to: graznmntns, bearing: S}
     - {to: tantsouregin, bearing: E}
+    - {to: byzariargn, bearing: W}
+    - {to: amradadrgn, bearing: SW}
   routes:
     - {to: meghadvar, bearing: S, mode: land, days: 30}
     - {to: gudesroad, bearing: S, mode: land, days: 45}

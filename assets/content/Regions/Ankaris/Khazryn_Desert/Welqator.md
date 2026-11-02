@@ -9,6 +9,12 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [khzryndsrtrgn]
+  borders:
+    - {to: hskrrgn, bearing: E}
+    - {to: velanthrgn, bearing: NW}
+    - {to: byzariargn, bearing: W}
+    - {to: dunharargn, bearing: SW}
+    - {to: amradadrgn, bearing: SW}
   population: 280000
   packFolder: khazryndesert
   government: null

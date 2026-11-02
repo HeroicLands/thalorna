@@ -127,10 +127,10 @@
   </g>
 
   <!-- ===== BEYOND THE BOUNDS ===== -->
-  <!-- Campus Vylaris (riverside commons, north, outside the Clearance) -->
+  <!-- Vilarpolthamis (riverside commons, north, outside the Clearance) -->
   <path d="M 150,30 C 220,18 300,24 350,46 C 320,72 240,86 168,80 C 150,70 140,48 150,30 Z" fill="#bcd49e" stroke="#8aa86a" stroke-width="1"/>
   <text x="252" y="56" text-anchor="middle" font-size="12" font-style="italic" fill="#3f5a2c"
-        paint-order="stroke" stroke="#bcd49e" stroke-width="3">Campus Vylaris (commons)</text>
+        paint-order="stroke" stroke="#bcd49e" stroke-width="3">Vilarpolthamis (commons)</text>
 
   <!-- Necropolis (east, outside the Clearance) -->
   <g fill="#b7ada0" stroke="#7d7468" stroke-width="0.8">

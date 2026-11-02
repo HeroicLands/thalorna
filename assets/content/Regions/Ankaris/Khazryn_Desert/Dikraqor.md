@@ -9,6 +9,7 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [khzryndsrtrgn]
+  borders: [{to: hskrrgn, bearing: N}, {to: swoasisbelt, bearing: S}]
   population: 200000
   packFolder: khazryndesert
   government: null

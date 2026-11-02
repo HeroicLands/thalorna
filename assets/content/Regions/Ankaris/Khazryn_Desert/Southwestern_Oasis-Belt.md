@@ -9,9 +9,9 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [khzryndsrtrgn]
+  borders: [{to: dkrqrrgn, bearing: N}, {to: graznmntns, bearing: S}]
   population: 1800000
   packFolder: khazryndesert
-  government: tribestrzd
 ---
 
 In the last week before the melt, every household in a Tellumi oasis sends someone down into the dry channels with a basket and a short hoe, and the water-master walks the bank behind them with a tablet, marking off each family's stretch as it is cleared. A week or two later the snowmelt comes out of the mountains brown and cold, the sluices open in the order the tablets give, and for the rest of the year a field is worth the hours of water it is owed. That is the Tellumel as its people know it: a country where every hour of water is written down, and where two peoples argue over who owns the water.
@@ -144,7 +144,7 @@ In the free oases the economy is the oasis economy it has always been: dates, pa
 [[lore-celestialroad|The Celestial Road]]
 : The southern spur reaches the strip
 
-Oasis of Shirvan, [[place-ashkarad|Ashkarad]], Zargandur, [[place-kethramir|Kethramír]]
+[[place-oasishirvn|Oasis of Shirvan]], [[place-ashkarad|Ashkarad]], [[place-zargandur|Zargandur]], [[place-kethramir|Kethramír]]
 : The four great cities
 
 [[place-beitshofar|Beit-Shofár]]

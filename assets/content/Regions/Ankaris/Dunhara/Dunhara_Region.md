@@ -16,6 +16,7 @@ data:
     - {to: khuqetmiglet, bearing: SW}
     - {to: graznmntns, bearing: E}
     - {to: vylarianse, bearing: W}
+    - {to: wlqtrrgn, bearing: NE}
   population: 3000000
   packFolder: dunhara
   culture: dunhariclt

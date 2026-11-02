@@ -9,6 +9,11 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [khzryndsrtrgn]
+  borders:
+    - {to: wlqtrrgn, bearing: W}
+    - {to: idwkrrgn, bearing: E}
+    - {to: gwtkrrgn, bearing: N}
+    - {to: dkrqrrgn, bearing: S}
   population: 330000
   packFolder: khazryndesert
   government: null
@@ -22,7 +27,7 @@ On the thirtieth day out from the [[place-eastrnmrch|March]] the grass is gone, 
 
 The sand seas lie in long ridges, some of them three hundred feet high, with gravel plains between them and the occasional black mesa standing out like a wall. In the middle lies a dead basin: a white salt flat, once a lake, with the banks of its canals still visible running out under the dunes. Rain almost never falls. The water that makes the crossing possible comes from deep wells, cut by the builders of [[lore-towercities|the tower cities]] in an age that left no record and kept open by the tribes whose ranges they lie in. They lie three to five days apart.
 
-For five days after Yemok the road has no water at all, and the camels carry skins for the horses. This is the [Long Dry]{.name data-type="place/feature"}. Further on, the wells are surer, and the road reaches [[place-qisomrktcmp|Qiiso]], the market-camp, about halfway across the region.
+For five days after Yemok the road has no water at all, and the camels carry skins for the horses. This is the [[place-longdry|Long Dry]]. Further on, the wells are surer, and the road reaches [[place-qisomrktcmp|Qiiso]], the market-camp, about halfway across the region.
 
 ## The People
 

@@ -11,55 +11,42 @@ data:
   symbol: null
   governance:
     model: oligarchy
-    summary: Council of merchant-princes.
+    summary: >-
+      A council of the city's merchants with seats kept for the hill tribes, who need not live in the city; it answers to the local merchant networks and the tribes as much as to the great guilds.
     ranks:
       - level: 0
         title: Struck from the Roll
         description: >-
-          Expelled from the city's register: no charter, no protection, no standing in its courts, and every contract void.
+          Expelled from Kudumel's register: no protection in the city and no lodging in the Caravansary Quarter.
       - level: 1
         title: Unfree
         description: Bound in service or debt-bondage, holding neither property nor the right to contract.
       - level: 2
         title: Resident
         description: >-
-          Dwelling and laboring in the city under its protection, without its freedom or a vote in it.
+          Living in the city under its protection without its freedom, as many of the settled Dunhari and the Khazryn caravan masters do.
       - level: 3
-        title: Freeman of the City
-        description: Enrolled in the city's register, entitled to trade in its markets and plead in its courts.
+        title: Freeman
+        description: Enrolled in the city's register, entitled to trade at the Caravan Gate and plead in the city's courts.
       - level: 4
-        title: Guild Master
-        description: >-
-          Head of a chartered trade, speaking for it before the Council and answerable for its members' conduct.
-      - level: 5
-        title: House Factor
-        description: >-
-          Managing the affairs of one of the great houses—its warehouses, its ships, its correspondents abroad.
-      - level: 6
         title: House Head
-        description: Master of a merchant house, its capital and its name, and an elector of the Council.
-      - level: 7
+        description: Master of a merchant house of Kudumel, with networks of its own across the strait and the caravan roads.
+      - level: 5
         title: Councilor
-        description: Sitting on the Council that governs the city, by weight of the house behind him.
-      - level: 8
+        description: >-
+          Sitting on the city's council, either for its merchants or, in the seats kept for them, for the hill tribes.
+      - level: 6
         title: First of the Council
-        description: Presiding over the Council for a term, and holding the city's seal while he does.
+        description: Presiding over the council for his term, and holding the city's seal while he does.
     offices:
       First of the Council: >-
-        Presiding officer of the governing council, elected by it for a fixed term and holding the city's seal.
-      Councilor: Member of the governing council, seated by the standing of the house he heads.
-      Chancellor: Keeper of the city's charters, treaties and correspondence.
+        Held by a Councilor, elected by the council for a fixed term. Presides over the council and holds the city's seal.
+      Tribal Councilor: >-
+        Held by a Councilor named by the hill tribes. Sits beside the merchants for peoples who do not recognize guild authority, and need not live in the city.
       Treasurer: >-
-        Keeper of the city's revenue—its customs, its tolls, and the loans it raises against them.
-      Harbormaster: Warden of the port, its pilots, its wharves and the dues levied on every hull that enters.
-      Master of the Mint: Keeper of the coin struck in the city's name and of the standard it is struck to.
-      Consul Abroad: The city's resident agent in a foreign port, holding its seal for trade disputes there.
-      Captain of the Watch: Commander of the city's guard and of the militia its guilds are bound to raise.
+        Held by a Councilor. Keeps the customs and tolls of the sea trade and of the caravans landed by the ferries at the Caravan Gate.
       Warden of the Weights: >-
-        Inspector of measures, coin and quality in the markets—the office that makes the city's word good.
-      Guild Master: Head of a chartered trade, speaking for it before the Council.
-      Arbitrator: >-
-        Professional settler of disputes between houses under the commercial custom, whose rulings the Council enforces.
+        Held by a House Head named by the council. Inspects measures, coin and quality in the markets, in whatever language the bargain is struck.
   seat: qudumel2
   population: 2300000
   economy: [affiliation-tarmex, lore-trzlncrncy]

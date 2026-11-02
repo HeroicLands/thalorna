@@ -66,7 +66,7 @@ The guild has three tiers.
 
 ### The Great Houses
 
-About twenty-five **great houses** dominate the guild. They are the moneylender families whose reserves, chapter ties and political connections put them at the top of the trade, and each operates in several cities. The [House of Calventian]{.name data-type="affiliation/venture"} keeps offices in Orzara, [[place-olvestria|Ólvestra]], [[place-provenzrgn|Provenzia]], [[place-beravel|Péravel]] and Bizaria. The [House of Maximian Tertian]{.name data-type="affiliation/venture"} has a similar footprint. The [House of Verrius]{.name data-type="affiliation/venture"} concentrates on the Vylarian commercial cities. The [House of Therion]{.name data-type="affiliation/venture"} is Helionite in origin and has grown continent-spanning. The [House of Aldovardian]{.name data-type="affiliation/venture"} is Tarvénian, which makes it unusual, since most great houses began in Vylaria or Helionis and expanded outward.
+About twenty-five **great houses** dominate the guild. They are the moneylender families whose reserves, chapter ties and political connections put them at the top of the trade, and each operates in several cities. The [House of Peleris]{.name data-type="affiliation/venture"} keeps offices in Orzara, [[place-olvestria|Ólvestra]], [[place-provenzrgn|Provenzia]], [[place-beravel|Péravel]] and Bizaria. The [House of Melvaris Thradinis]{.name data-type="affiliation/venture"} has a similar footprint. The [House of Veldis]{.name data-type="affiliation/venture"} concentrates on the Vylarian commercial cities. The [House of Thauris]{.name data-type="affiliation/venture"} is Helionite in origin and has grown continent-spanning. The [House of Aldovardian]{.name data-type="affiliation/venture"} is Tarvénian, which makes it unusual, since most great houses began in Vylaria or Helionis and expanded outward.
 
 Each great house holds standing accounts with the Tarmeks Orzan (or with the Danvar's chapter clearing arrangement in non-imperial territory) on a scale no smaller house can approach. The great houses issue the master notes drawn directly on Tarmeks accounts, redeem the large traveler's notes, lend to the Aureldian crowns and take the guild's political positions. Their senior partners sit on the [Council of the Danvori]{.name data-type="affiliation/governmental"}, the guild's governing body, which meets quarterly at Orzara.
 
@@ -92,7 +92,7 @@ The largest chapterhouses stand at Orzara, Ólvestra, Bizaria, [[place-aelissium
 
 The Council of the Danvori is the guild's standing body. It meets quarterly at Orzara and consists of the senior partners of the great houses plus a small number of elected representatives from the lesser houses. It decides guild policy on admission standards, member discipline, chapter operations and the guild's relations with the Tarmeks Orzan and the Tevran Maldor.
 
-The Council elects the Danvor Maldor for a ten-year term, renewable once. The present Danvor Maldor is [Thelmara Calventiana]{.name data-type="being/npc"}, senior partner of the House of Calventian, in her eighth year and presumed eligible for one renewal. Thelmara is regarded as one of the most politically capable Danvori Maldor in the guild's history. Her tenure has steadied the guild through the decade since the Taruzelian secession, and she is credited with winning several substantial concessions from the Tarmeks Orzan's leadership.
+The Council elects the Danvor Maldor for a ten-year term, renewable once. The present Danvor Maldor is [Thelmara Peleris]{.name data-type="being/npc"}, senior partner of the House of Peleris, in her eighth year and presumed eligible for one renewal. Thelmara is regarded as one of the most politically capable Danvori Maldor in the guild's history. Her tenure has steadied the guild through the decade since the Taruzelian secession, and she is credited with winning several substantial concessions from the Tarmeks Orzan's leadership.
 
 Twelve _rozimoi_ of the Danvar report to the Council. They conduct admission examinations, audit member houses' books, investigate complaints and prosecute disciplinary matters before the Council. Their authority within the guild is substantial: a _rozimos_'s adverse finding takes a two-thirds Council vote to override, and overrides are rare. They are distinct from the [[affiliation-tevran|Rozimoi of the Tevran]], who audit guild charter compliance across all trades, this one included, and from the [[affiliation-tarmex|Rozimoi of the Tarmeks]], who audit the imperial treasury's accounts.
 
@@ -110,23 +110,23 @@ By frequency, the most common sanction is a **temporary suspension of clearing r
 
 ## Notable Houses and Officers
 
-House of Calventian
-: the largest of the great houses, founded in Orzara three centuries ago to bank the rebuilding of the Restoration ([[lore-arzanasedict|The Edicts of Arzanas]]) and led by the Calventiani family across nine generations. Its senior partner is Danvor Maldor Thelmara Calventiana, the guild's chief officer.
+House of Peleris
+: the largest of the great houses, founded in Orzara three centuries ago to bank the rebuilding of the Restoration ([[lore-arzanasedict|The Edicts of Arzanas]]) and led by the Peleris family across nine generations. Its senior partner is Danvor Maldor Thelmara Peleris, the guild's chief officer.
 
-House of Maximian Tertian
-: the second-largest great house, of Helionite-Vylarian origin and politically aligned with the [Reformist Faction]{.name data-type="affiliation"} at court. [Orthelis Maximian Tertian]{.name data-type="being/npc"} leads it.
+House of Melvaris Thradinis
+: the second-largest great house, of Helionite-Vylarian origin and politically aligned with the [Reformist Faction]{.name data-type="affiliation"} at court. [Orthelis Melvaris Thradinis]{.name data-type="being/npc"} leads it.
 
-House of Verrius
+House of Veldis
 : Vylarian and conservative, with strong ties to the _ethlen_ (Gilded) estate and, historically, to the Dukran's office.
 
-House of Therion
+House of Thauris
 : of Helionite origin and now continent-spanning, the principal Helionite great house, which specializes in cross-territory clearing.
 
 House of Aldovardian
 : Tarvénian, and unusual as a great house of Aureldian rather than Vylarian-Helionite origin. It won its position by aggressive expansion in the late post-imperial settlement, and **Danvor [Halvaren Aldovardian]{.name data-type="being/npc"}** leads it, regarded by his Vylarian peers with formal correctness and informal suspicion.
 
-Orthelis Maximian Tertian
-: senior partner of his house, widely seen as the most politically capable Danvor of his generation after Thelmara Calventiana and a likely successor when her tenure ends.
+Orthelis Melvaris Thradinis
+: senior partner of his house, widely seen as the most politically capable Danvor of his generation after Thelmara Peleris and a likely successor when her tenure ends.
 
 ## Relations
 

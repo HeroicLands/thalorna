@@ -11,55 +11,48 @@ data:
   symbol: null
   governance:
     model: oligarchy
-    summary: Council of merchant-princes.
+    summary: >-
+      A council of merchant-princes, the most balanced in Taruzel: the merchant houses sit beside real seats for the craftsmen's guilds, the academies and the old noble families, and the great guilds keep only agents.
     ranks:
       - level: 0
         title: Struck from the Roll
         description: >-
-          Expelled from the city's register: no charter, no protection, no standing in its courts, and every contract void.
+          Expelled from Bazunel's register: no protection, no bench in its studios and no seat in its theaters.
       - level: 1
         title: Unfree
         description: Bound in service or debt-bondage, holding neither property nor the right to contract.
       - level: 2
         title: Resident
         description: >-
-          Dwelling and laboring in the city under its protection, without its freedom or a vote in it.
+          Living under the city's protection without its freedom, as the artists and free-thinkers who come here from other cities' guilds usually begin.
       - level: 3
-        title: Freeman of the City
+        title: Freeman
         description: Enrolled in the city's register, entitled to trade in its markets and plead in its courts.
       - level: 4
-        title: Guild Master
+        title: Master
         description: >-
-          Head of a chartered trade, speaking for it before the Council and answerable for its members' conduct.
+          A master of one of the craftsmen's guilds, a ship-designer of the Design Yards first among them, or a fellow of an academy.
       - level: 5
-        title: House Factor
-        description: >-
-          Managing the affairs of one of the great houses—its warehouses, its ships, its correspondents abroad.
-      - level: 6
         title: House Head
-        description: Master of a merchant house, its capital and its name, and an elector of the Council.
-      - level: 7
+        description: Master of a merchant house or of one of the city's old noble families, its name and its vote.
+      - level: 6
         title: Councilor
-        description: Sitting on the Council that governs the city, by weight of the house behind him.
-      - level: 8
+        description: >-
+          Sitting on the council for the merchant houses, the craftsmen's guilds, the academies or the old families.
+      - level: 7
         title: First of the Council
-        description: Presiding over the Council for a term, and holding the city's seal while he does.
+        description: Presiding over the council for his term, and holding the city's seal while he does.
     offices:
       First of the Council: >-
-        Presiding officer of the governing council, elected by it for a fixed term and holding the city's seal.
-      Councilor: Member of the governing council, seated by the standing of the house he heads.
-      Chancellor: Keeper of the city's charters, treaties and correspondence.
-      Treasurer: >-
-        Keeper of the city's revenue—its customs, its tolls, and the loans it raises against them.
-      Harbormaster: Warden of the port, its pilots, its wharves and the dues levied on every hull that enters.
-      Master of the Mint: Keeper of the coin struck in the city's name and of the standard it is struck to.
-      Consul Abroad: The city's resident agent in a foreign port, holding its seal for trade disputes there.
-      Captain of the Watch: Commander of the city's guard and of the militia its guilds are bound to raise.
-      Warden of the Weights: >-
-        Inspector of measures, coin and quality in the markets—the office that makes the city's word good.
-      Guild Master: Head of a chartered trade, speaking for it before the Council.
-      Arbitrator: >-
-        Professional settler of disputes between houses under the commercial custom, whose rulings the Council enforces.
+        Held by a Councilor, elected by the council for a fixed term. Presides over the council and holds the city's seal.
+      Councilor of the Houses: >-
+        Held by a Councilor named by the merchant houses. Speaks for the trade of the Painted Harbor.
+      Councilor of the Crafts: >-
+        Held by a Councilor named by the craftsmen's guilds, usually a master shipwright of the Design Yards.
+      Councilor of the Academies: >-
+        Held by a Councilor named by the academies, usually the head of the Academy of the Tides.
+      Councilor of the Old Families: >-
+        Held by a Councilor named by the old noble families, whose seats are older than the guilds' presence in the city.
   seat: bazunel2
   population: 2000000
   economy: [affiliation-tarmex, lore-trzlncrncy]

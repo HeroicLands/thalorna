@@ -5,7 +5,15 @@ type: place
 subType: site
 description: "The cleft well on the edge of the stone desert where the riders of the Central Sands hand a caravan to the riders of Idvaqor, and where the cold begins."
 tags: [site]
-data: {demonym: null, lore: [], parents: [idwkrrgn], population: 0, packFolder: khazryndesert}
+data:
+  demonym: null
+  lore: []
+  parents: [idwkrrgn]
+  routes:
+    - {to: qisomrktcmp, bearing: W, mode: land, days: 30}
+    - {to: tantsouregin, bearing: E, mode: land, days: 30}
+  population: 0
+  packFolder: khazryndesert
 ---
 
 The last dune ends in a wall of black rock, split by a cleft wide enough for three camels abreast, and the cleft ends at a cistern the size of a threshing floor. A stone hall with a roof of turf stands beside it, built for the riders who winter here when the road closes. In the evening the caravan comes in out of the sand, and the wind carries the smell of snow for the first time in weeks.

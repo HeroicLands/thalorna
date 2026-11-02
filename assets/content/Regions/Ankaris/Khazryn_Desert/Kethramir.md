@@ -9,6 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [swoasisbelt]
+  routes: [{to: qisomrktcmp, bearing: N, mode: land, days: 20}]
   population: 26000
   government: tribestrzd
   packFolder: khazryndesert

@@ -9,12 +9,16 @@ data:
   demonym: Tantsou
   lore: [humanflk]
   parents: [ankrscntnnt]
-  borders: [{to: khzryndsrtrgn, bearing: W}, {to: graznmntns, bearing: SW}]
+  borders:
+    - {to: khzryndsrtrgn, bearing: W}
+    - {to: graznmntns, bearing: SW}
+    - {to: idwkrrgn, bearing: W}
   routes:
     - {to: suryadvar, bearing: SW, mode: land, days: 30}
     - {to: jnanadvar, bearing: SW, mode: land, days: 45}
     - {to: shankhadvr, bearing: W, mode: land, days: 60}
     - {to: nilatir, bearing: SW, mode: ship, days: 45, terrain: [open-sea]}
+    - {to: sowidwell, bearing: W, mode: land, days: 30}
   population: null
   packFolder: tantsou
   government: tantsouempr

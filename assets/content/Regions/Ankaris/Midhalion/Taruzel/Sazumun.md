@@ -11,55 +11,44 @@ data:
   symbol: null
   governance:
     model: oligarchy
-    summary: Council of merchant-princes.
+    summary: >-
+      The merchant guilds' councils, meeting in the House of Factors above the harbor, hold absolute power, and keep it by an elaborate system of tariffs, trading monopolies and agreements between the guilds.
     ranks:
       - level: 0
-        title: Struck from the Roll
+        title: Outside Protocol
         description: >-
-          Expelled from the city's register: no charter, no protection, no standing in its courts, and every contract void.
+          Having broken guild protocol: no harbor master accepts the vessel, no crew signs on, and no guild trades with the offender.
       - level: 1
         title: Unfree
         description: Bound in service or debt-bondage, holding neither property nor the right to contract.
       - level: 2
         title: Resident
-        description: >-
-          Dwelling and laboring in the city under its protection, without its freedom or a vote in it.
+        description: Living on the quays under the guilds' protection, without the city's freedom or any voice in the guilds.
       - level: 3
-        title: Freeman of the City
-        description: Enrolled in the city's register, entitled to trade in its markets and plead in its courts.
+        title: Freeman
+        description: Enrolled in the city's register, entitled to trade inside the guilds' rules and plead in the city's courts.
       - level: 4
-        title: Guild Master
-        description: >-
-          Head of a chartered trade, speaking for it before the Council and answerable for its members' conduct.
+        title: Guildsman
+        description: Sworn to one of the merchant guilds, trading under its monopolies and bound by its agreements.
       - level: 5
-        title: House Factor
+        title: Factor
         description: >-
-          Managing the affairs of one of the great houses—its warehouses, its ships, its correspondents abroad.
+          Trading under a guild's seal on its behalf, and answerable to it for every cargo that crosses the quays in its name.
       - level: 6
-        title: House Head
-        description: Master of a merchant house, its capital and its name, and an elector of the Council.
+        title: Guild Master
+        description: Head of a merchant guild, speaking for it in its council.
       - level: 7
-        title: Councilor
-        description: Sitting on the Council that governs the city, by weight of the house behind him.
-      - level: 8
-        title: First of the Council
-        description: Presiding over the Council for a term, and holding the city's seal while he does.
+        title: Merchant Prince
+        description: Sitting in the House of Factors, where the guilds' councils meet and decide for the city.
     offices:
-      First of the Council: >-
-        Presiding officer of the governing council, elected by it for a fixed term and holding the city's seal.
-      Councilor: Member of the governing council, seated by the standing of the house he heads.
-      Chancellor: Keeper of the city's charters, treaties and correspondence.
-      Treasurer: >-
-        Keeper of the city's revenue—its customs, its tolls, and the loans it raises against them.
-      Harbormaster: Warden of the port, its pilots, its wharves and the dues levied on every hull that enters.
-      Master of the Mint: Keeper of the coin struck in the city's name and of the standard it is struck to.
-      Consul Abroad: The city's resident agent in a foreign port, holding its seal for trade disputes there.
-      Captain of the Watch: Commander of the city's guard and of the militia its guilds are bound to raise.
-      Warden of the Weights: >-
-        Inspector of measures, coin and quality in the markets—the office that makes the city's word good.
-      Guild Master: Head of a chartered trade, speaking for it before the Council.
-      Arbitrator: >-
-        Professional settler of disputes between houses under the commercial custom, whose rulings the Council enforces.
+      Speaker of the House of Factors: >-
+        Held by a Merchant Prince, chosen by the House. Calls the guilds' councils to sit and reads their agreements into the House's register.
+      Keeper of the Tariff: >-
+        Held by a Guild Master. Keeps the schedule of tariffs the House of Factors sets, and the record of who has paid them.
+      Registrar of Monopolies: >-
+        Held by a Guild Master. Keeps the roll of each guild's monopolies and of the agreements between the guilds, and names the guild a dispute belongs to.
+      Harbor Master: >-
+        Held by a Factor named by the House. Accepts or refuses every vessel by guild protocol, and turns away any captain outside it.
   seat: sazumun2
   population: 2500000
   economy: [affiliation-tarmex, lore-trzlncrncy]

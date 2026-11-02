@@ -6,7 +6,13 @@ subType: settlement
 
 description: "The great southern port of Provenzia on the warm Vylarian shore—the kingdom as foreigners picture it, rich and polished and wholly dependent on the sea, which is why a blockade is the only weapon that has ever frightened it."
 tags: [city, port, coastal]
-data: {demonym: null, lore: [], parents: [korvathis], population: 45000, packFolder: provenzia}
+data:
+  demonym: null
+  lore: []
+  parents: [korvathis]
+  population: 45000
+  government: kngdmprvnz
+  packFolder: provenzia
 ---
 
 **Válaren** stands on the warm southern shore, on the [[place-vylarianse|Vylarian Sea]], and is the

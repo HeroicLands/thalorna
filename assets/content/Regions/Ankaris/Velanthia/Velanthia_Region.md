@@ -16,6 +16,8 @@ data:
     - {to: khzryndsrtrgn, bearing: E}
     - {to: vylariargn, bearing: S}
     - {to: heladrgn, bearing: S}
+    - {to: wlqtrrgn, bearing: SE}
+    - {to: gwtkrrgn, bearing: E}
   population: null
   packFolder: velanthia
 
@@ -62,7 +64,7 @@ The [[affiliation-arldnpnthn|Aureldian Pantheon]] comprises the formal faiths ac
 
 The frontier Hosts maintain a more austere religious culture, with portable battle-shrines and traveling priests rather than fixed temples. Their religious practice has absorbed elements from the steppe peoples to the east—particularly an emphasis on sky-and-storm deities, oath-taking under the open sky, and the great seasonal gatherings where multiple Hosts assemble for joint religious observance and political consultation.
 
-A scattered but persistent population of [[affiliation-ashanpnthn|Ashaian worshippers]] exists in the eastern hybrid communities, descended from intermarriage with Khazryn merchant families and oasis-belt refugees. Their shrines are tolerated and sometimes patronized by the eastern river-princes, who find it diplomatically useful to be seen accepting both traditions.
+A scattered but persistent population of [[affiliation-ashanpnthn|Ashaian worshippers]] exists in the eastern hybrid communities, descended from intermarriage with Tellumi merchant families and oasis-belt refugees. Their shrines are tolerated and sometimes patronized by the eastern river-princes, who find it diplomatically useful to be seen accepting both traditions.
 
 ## Politics and Power
 

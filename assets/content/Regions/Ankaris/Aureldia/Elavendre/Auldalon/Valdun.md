@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "The walled town that anchors Élavendre's eastern march—muster point of the hill levy, market of the drove roads, and the place the raiding has to get past."
 tags: [town, fortified, hill, frontier]
-data: {demonym: null, lore: [], parents: [auldalon], population: 5200, packFolder: elavendre}
+data:
+  demonym: null
+  lore: []
+  parents: [auldalon]
+  population: 5200
+  government: kngdmlvndr
+  packFolder: elavendre
 ---
 
 **Valdun** stands in the eastern hills of [[place-auldalon|Áuldalon]], on the ridge road where the
