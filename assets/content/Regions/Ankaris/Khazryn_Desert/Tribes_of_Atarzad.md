@@ -16,56 +16,41 @@ data:
   governance:
     model: confederation
     summary: >-
-      Twelve tribes, each led by a hereditary Rezhul (chieftain) and a council of elders. The Council of the Twelve convenes annually at Beit-Shofár (the holy seat at Mt. Shofar) to coordinate defense, adjudicate inter-tribal disputes, and renew the Covenant. In times of crisis a Zhudek (Judge) is acclaimed with broad temporary authority—by tradition always a prophet or warrior chosen after consultation with the Toqel, the Keeper of the Unconsuming Flame.
+      Twelve tribes, each under a hereditary Rezhul (chieftain) and the elders of its principal lineages, with no king by the Covenant's own command. The Council of the Twelve meets for six weeks each year at Beit-Shofár to set common policy on defense, taxation and disputed ground, settle quarrels between tribes and renew the Covenant. In a crisis it acclaims a Zhudek (judge) for the length of the crisis, after consulting the Toqel, the Keeper of the Unconsuming Flame. Each tribe governs the city or ground apportioned to it, and the Tellumi of the four held cities live there as subjects under its magistrates.
     ranks:
       - level: 0
-        title: Kinless
+        title: Repudiated
         description: >-
-          Cast out by their own kin and claimed by none; owed no hospitality, no water and no vengeance.
+          Put out of the Covenant by the Council of the Twelve, as a would-be king or a man who will not give up a forbidden marriage is put out. His tribe owes him nothing, and his children are counted with whatever people takes them in.
       - level: 1
-        title: Bondservant
+        title: Flame-born
         description: >-
-          Held in service or debt to a household, and answerable through its head rather than in their own name.
+          Of one of the twelve tribes by a genealogy that runs back to Ebozor: bound by the Covenant and its dietary law, owing the tithe, the first fruits and the pilgrimage to Mount Shofar, and from sixteen to the forties a member of the tribe's warrior society.
       - level: 2
-        title: Dependent
-        description: >-
-          Sheltered by a household without being of its blood—a client, a widow's family, a taken-in stranger.
-      - level: 3
-        title: Kinsman
-        description: Of a household's blood, entitled to its protection, its feud and its share.
-      - level: 4
-        title: Householder
-        description: >-
-          Head of a tent or hall, holding its herds and its people and speaking for them at the moot.
-      - level: 5
         title: Elder
-        description: Senior of a lineage, whose memory of custom and precedent settles what the young dispute.
-      - level: 6
-        title: Chieftain
         description: >-
-          Leading a clan or tribe by descent and by consent together, and losing it when either fails.
-      - level: 7
-        title: Delegate
-        description: Sent by a tribe to the common council, empowered to argue and not to bind.
-      - level: 8
-        title: Speaker of the Council
+          Senior of one of a tribe's principal lineages, who keeps its genealogy and custom and goes with the Rezhul to the Council of the Twelve.
+      - level: 3
+        title: Rezhul
         description: >-
-          Presiding over the common council, holding the peace of its meeting and no authority beyond it.
+          The hereditary chieftain of a tribe, who answers for its ground, its warrior society and its contribution to the common treasury, and gives the tribe's word at the Council.
     offices:
-      Speaker of the Council: Presiding officer of the common council, keeper of its peace and of the order of speaking.
-      Chieftain: Head of a clan or tribe, holding by descent and consent together.
-      Elder: Senior of a lineage, whose recollection of custom settles disputes the young cannot.
-      Lawkeeper: >-
-        Keeper of the customs the tribes hold in common, and arbiter where two tribes' customs differ.
-      Host-Caller: Summoner of the common muster when a threat concerns every tribe.
-      Truce-Warden: Holder of the peace at the council and at the seasonal markets, empowered to enforce it.
-      Water-Warden: >-
-        Keeper of the wells, springs or pastures the tribes share, and of the order in which they are used.
-      Guide: >-
-        Holder of the routes—their water, their seasons and their dangers—and hired at a price accordingly.
-      Envoy: Sent to treat with a settled power, and protected by custom while he carries the word.
-      Keeper of the Feud: >-
-        Recorder of blood owed and blood paid between kindreds, without whom a settlement cannot be reckoned.
+      Zhudek: >-
+        Held by a Flame-born acclaimed by the Council of the Twelve, by tradition a prophet or a warrior of proven capability, chosen after consultation with the Toqel. Holds broad authority over all twelve tribes in war, drought, schism or a dangerous Tellumi rising, for the length of the crisis. The office is empty.
+      Keeper of the Unconsuming Flame: >-
+        Held for life by an Elder of the Burqalod, the Toqel, raised only when the previous Keeper dies. Keeps the Flame on Mount Shofar, reads the will of Ataros in it, and is consulted before a Zhudek is acclaimed; the senior religious authority of the tribes.
+      Senior Priest of a Tribe: >-
+        Held by a Flame-born ordained to the fire of Ataros. Keeps the tribe's fire-temples and sits for its priesthood at the Council of the Twelve.
+      Keeper of the Treasury: >-
+        Held by an Elder. Receives each tribe's contribution at the Council's session and keeps the standing treasury at Beit-Shofár.
+      Prefect of a City: >-
+        Held by an Elder of the tribe that holds the city. Sits in the old palace of a held city, as the Zhoqarod prefect does at Zargandur, and hears complaints on feast days.
+      Magistrate: >-
+        Held by a Flame-born of the holding tribe. Collects the water-tax and the assessed taxes in a held city, and judges where Atarzád law meets the Tellumi quarter.
+      Fire-Warden: >-
+        Held by a Flame-born of a warrior society. Walks the streets of a held city keeping the Covenant's public law: Tellumi shops shut on Atarzád festivals, no courtyard fires on the forbidden nights, no other god worshipped in the open.
+      Keeper of the Gate: >-
+        Held by a Flame-born of the holding tribe. Takes the toll on every loaded camel, the fee for a guide through the canal country and the levy for lodging where the caravan road enters the belt.
   seat: beitshofar
   population: 1000000
   economy: [lore-bartercnmy, lore-kinhalcrdt, lore-vdyrnbnkng]
@@ -92,7 +77,7 @@ The [Exodus]{.name data-type="lore/history"} narrative is dense, much-elaborated
 
 The route of the Exodus is by tradition divided into three legs.
 
-The **first leg** carried the Flame-born northeast out of Au'Khelathu, across the narrow desert that joins the [[place-nrthrnfrtlrgn|Northern Fertile Region]] to the southern coast of the [[place-vylarianse|Vylarian Sea]], and up the eastern shore of that sea, opposite the islands of [[place-taruzelrgn|Taruzel]]. The Taruzelian merchant-states of the time, recognizing both an opportunity and a moral obligation, shipped supplies across the strait and provisioned the host with grain, fresh water, and what Taruzelian chroniclers euphemistically call "discounted iron." Atarzád law to this day forbids raiding into Taruzel, and the [Teghumod]{.name data-type="affiliation"} merchant-houses maintain especially scrupulous trading relationships with Taruzelian counterparts in continued recognition of the obligation.
+The **first leg** carried the Flame-born northeast out of Au'Khelathu, across the narrow desert that joins the [[place-nrthrnfrtlrgn|Northern Fertile Region]] to the southern coast of the [[place-vylarianse|Vylarian Sea]], and up the eastern shore of that sea, opposite the islands of [[place-taruzelrgn|Taruzel]]. The Taruzelian merchant-states of the time, recognizing both an opportunity and a moral obligation, shipped supplies across the strait and provisioned the host with grain, fresh water, and what Taruzelian chroniclers euphemistically call "discounted iron." Atarzád law to this day forbids raiding into Taruzel, and the [Teghumod]{.name data-type="affiliation/polity"} merchant-houses maintain especially scrupulous trading relationships with Taruzelian counterparts in continued recognition of the obligation.
 
 The **second leg** carried the Flame-born east-and-north through the **Dunhari uplands**—the long traverse of the high Dunhari plateau that runs between the [[affiliation-kngdmmrdd|Kingdom]] (whose southern marches the Atarzád skirted with care) and the open [[place-dunharargn|Dunhari tribal interior]] to the south. The Dunhari sheikhs of the day were too occupied with their own internal feuds to oppose the migration; the Flame-born paid passage in temple-gold and proceeded.
 
@@ -118,28 +103,28 @@ The twelve tribes are descended (so the genealogies say) from the twelve childre
 
 The most prominent five tribes are:
 
-[Zhoqarod]{.name data-type="affiliation"}
+[Zhoqarod]{.name data-type="affiliation/polity"}
 : the largest tribe, holding most of Zargandur and the great pasturelands to its north. Traditionally the war-tribe; the Zhudek has been chosen from Zhoqarod in five of the last seven elevations.
 
 Teghumod
 : holders of Ashkarad and the gates where the caravan road from the steppe comes into the belt. The merchant-tribe; the wealthiest of the twelve and the most cosmopolitan, with substantial diaspora communities in Amradad and even in Taruzelian ports.
 
-[Burqalod]{.name data-type="affiliation"}
+[Burqalod]{.name data-type="affiliation/polity"}
 : holders of the central highland country and the slopes of Mt. Shofar itself. The keeper-tribe; the Toqel (Keeper of the Unconsuming Flame) has by long custom always been a Burqalod.
 
-[Tozhirod]{.name data-type="affiliation"}
+[Tozhirod]{.name data-type="affiliation/polity"}
 : holders of Kethramír and the oases east of it. The scholar-tribe; their elders maintain the scriptural archive and the law-codes of Yotekhor.
 
-[Teqemod]{.name data-type="affiliation"}
-: holders of Shirvan and the western fringe. The militant tribe, considered most uncompromising on matters of theology and most likely to support the strict-observance party in inter-tribal politics.
+[Ozhmarod]{.name data-type="affiliation/polity"}
+: holders of Shirvan and the western fringe. The strict tribe, considered most uncompromising on matters of theology and most likely to support the strict-observance party in inter-tribal politics.
 
-The remaining seven ([Gholutod]{.name data-type="affiliation"}, [Kelumod]{.name data-type="affiliation"}, [Zhimelod]{.name data-type="affiliation"}, [Hozhirod]{.name data-type="affiliation"}, [Noghezod]{.name data-type="affiliation"}, [Bizhunod]{.name data-type="affiliation"}, [Ghuzolod]{.name data-type="affiliation"}) are smaller, hold portions of the lesser oases or the herding-grounds between, and align variously with the larger five on inter-tribal questions.
+The remaining seven ([Gholutod]{.name data-type="affiliation/polity"}, [Kelumod]{.name data-type="affiliation/polity"}, [Zhimelod]{.name data-type="affiliation/polity"}, [Hozhirod]{.name data-type="affiliation/polity"}, [Noghezod]{.name data-type="affiliation/polity"}, [Bizhunod]{.name data-type="affiliation/polity"}, [Ghuzolod]{.name data-type="affiliation/polity"}) are smaller, hold portions of the lesser oases or the herding-grounds between, and align variously with the larger five on inter-tribal questions.
 
 ## Government
 
-The Atarzád have no king. Yotekhor explicitly forbade the office at Mt. Shofar—_"You shall have no king, for I, Ataros, am king of the Flame-born; if you raise a king over yourselves, he will eat your sons and your daughters and your fields"_—and the prohibition is taken with great seriousness. Several attempts have been made over the generations to elevate a particularly successful Zhudek to permanent kingship; all have ended in repudiation, and the most ambitious such attempt (by the Zhoqarod war-leader [Tulqenor the Bold]{.name data-type="being/npc"}, two generations ago) ended with Tulqenor's repudiation and exile by the [Council of the Twelve]{.name data-type="affiliation/governmental"}.
+The Atarzád have no king. Yotekhor explicitly forbade the office at Mt. Shofar—_"You shall have no king, for I, Ataros, am king of the Flame-born; if you raise a king over yourselves, he will eat your sons and your daughters and your fields"_—and the prohibition is taken with great seriousness. Several attempts have been made over the generations to elevate a particularly successful Zhudek to permanent kingship; all have ended in repudiation, and the most ambitious such attempt (by the Zhoqarod war-leader [Tulqenor the Bold]{.name data-type="being/npc"}, two generations ago) ended with Tulqenor's repudiation and exile by the [[affiliation-cncltwelve|Council of the Twelve]].
 
-What the Atarzád have instead is the **Council of the Twelve**, which convenes annually at **[[place-beitshofar|Beit-Shofár]]** (the priestly seat at the foot of Mt. Shofar) for a six-week session. Each tribe sends its Rezhul (hereditary chieftain), the senior elders of its principal lineages, and its senior priest. The Council sets common policy on defense, taxation, the disposition of disputed territories, the adjudication of inter-tribal disputes, and the renewal of the Covenant.
+What the Atarzád have instead is the Council of the Twelve, the _ghizolukhem_, which convenes annually at **[[place-beitshofar|Beit-Shofár]]** (the priestly seat at the foot of Mt. Shofar) for a six-week session. Each tribe sends its Rezhul (hereditary chieftain), the senior elders of its principal lineages, and its senior priest. The Council sets common policy on defense, taxation, the disposition of disputed territories, the adjudication of inter-tribal disputes, and the renewal of the Covenant.
 
 In times of major crisis—full-scale war, drought, religious schism, or a particularly dangerous Tellumi uprising—the Council may acclaim a **Zhudek** (Judge), a single figure granted broad temporary executive authority. The Zhudek is by tradition always a prophet or a warrior of demonstrated capability, always selected after consultation with the Toqel (who interprets the will of Ataros through the Unconsuming Flame), and always serves only for the duration of the crisis. Twenty-three Zhudek have been acclaimed in the three generations since the Conquest. The current generation has had none; the last died fourteen years ago after suppressing a Tellumi-led rebellion in the Shirvan district.
 
@@ -165,7 +150,7 @@ The cities are taxed; the herding tribes pay a tithe of cattle and horses; the C
 
 ## Defense
 
-Each tribe maintains its own warrior society—the [Khemozekh]{.name data-type="affiliation"} of the Zhoqarod, the [Tulqenekh]{.name data-type="affiliation"} of the Burqalod, the [Ghishamekh]{.name data-type="affiliation"} of the Teqemod, and so on. The warrior societies are age-graded; young men enter them at sixteen and serve through their forties. There is no professional standing army; mobilization is by tribal call, with the twelve societies coordinating through the Council in time of inter-tribal action.
+Each tribe maintains its own warrior society—the [Khemozekh]{.name data-type="affiliation"} of the Zhoqarod, the [Tulqenekh]{.name data-type="affiliation"} of the Burqalod, the [Ghishamekh]{.name data-type="affiliation"} of the Ozhmarod, and so on. The warrior societies are age-graded; young men enter them at sixteen and serve through their forties. There is no professional standing army; mobilization is by tribal call, with the twelve societies coordinating through the Council in time of inter-tribal action.
 
 The Atarzád fighting style is built around mounted archery, fast-moving cavalry detachments, the use of the great horses of the uplands to outpace and outmaneuver heavier forces, and a distinctive willingness to take heavy losses for theologically-significant objectives. The Tellumi were defeated in the Conquest in part because they faced an enemy whose acceptable casualty rate exceeded any rate a normal professional force would have countenanced. The Atarzád have retained that institutional willingness.
 
@@ -218,6 +203,9 @@ The Atarzád live on the tolls of the caravan road where it enters Tellumel and 
 
 [[affiliation-khzrncnfdrtn|Tellumi Confederation]]
 : the eternal adversary
+
+[[affiliation-cncltwelve|Council of the Twelve]]
+: the common council of the twelve tribes
 
 [[affiliation-ataros|Faith of Ataros]]
 : the patron deity

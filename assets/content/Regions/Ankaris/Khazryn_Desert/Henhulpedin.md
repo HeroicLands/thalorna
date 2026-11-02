@@ -45,7 +45,7 @@ Under the filled trench lie the war-house's weapons, its horse-furniture and the
 
 - **The reading.** The Tellumi of the quarter want a Delkoshekh to read the war-house's names over the field, which would very likely quiet it. The reading is forbidden in Zargandur on pain of hanging, and the Delkoshekh who could do it is a stranger who must be got into the city and out again.
 - **The captain.** A Zhoqarod captain relieved from the north gate this season is not sleeping, and her tribe is losing patience with her. She has quietly asked a Tellumi chandler whether anything can be done, and the chandler needs someone she can trust to carry her answer.
-- **The signet.** [Khavar of Zargandur]{.name data-type="being/npc"} needs one signet from the trench. The stakes are unwatched at night, and the field is not.
+- **The signet.** [Gureshay of Zargandur]{.name data-type="being/npc"} needs one signet from the trench. The stakes are unwatched at night, and the field is not.
 
 ## See Also
 

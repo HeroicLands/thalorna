@@ -30,14 +30,14 @@ The city is plain and old. Its walls stand on the foundations of the original ci
 
 ## The House and the Atarzád
 
-The ruling prince, [Parván of Mernagord]{.name data-type="being/npc"}, is in his sixties, cautious, and inclined to accommodation with the Kingdom of Amradad and, warily, with the [[affiliation-tribestrzd|Atarzád]] who hold the four lost cities. His household guard of about a hundred men is the largest of the three free houses', and it is no army. The [Teqemod]{.name data-type="affiliation"}, the Atarzád tribe of the western belt, sit at the gates of [[place-oasishirvn|Shirvan]] a few days east and could take the city in a season. They do not, because they find a free Tellumi city more useful than a conquered one: its prince is a channel to the Kingdom, and its salt reaches markets the Atarzád cannot.
+The ruling prince, [Hemvanay of Mernagord]{.name data-type="being/npc"}, is in his sixties, cautious, and inclined to accommodation with the Kingdom of Amradad and, warily, with the [[affiliation-tribestrzd|Atarzád]] who hold the four lost cities. His household guard of about a hundred men is the largest of the three free houses', and it is no army. The [Ozhmarod]{.name data-type="affiliation"}, the Atarzád tribe of the western belt, sit at the gates of [[place-oasishirvn|Shirvan]] a few days east and could take the city in a season. They do not, because they find a free Tellumi city more useful than a conquered one: its prince is a channel to the Kingdom, and its salt reaches markets the Atarzád cannot.
 
-Atarzád merchants have sounded Parván out about a trade compact. The exile houses regard the idea as treason, and the oasis is full of people who say so loudly, and as many who do not.
+Atarzád merchants have sounded Hemvanay out about a trade compact. The exile houses regard the idea as treason, and the oasis is full of people who say so loudly, and as many who do not.
 
 ## Hooks and Dangers
 
-- **The compact.** Parván wants an envoy he can trust to carry an offer to Amradad and a reply back, and the exile houses want to be sure he does not. A party could carry both messages and be paid by both.
-- **The lean season.** When winter is hard in [[place-dunharargn|Dunhara]] the tribes come east over the Descent, in numbers and hungry. The oasis has seen it before, and Parván's men are not enough to turn them. A party on the road in that season finds out how much of its safety depends on a purchase made last autumn.
+- **The compact.** Hemvanay wants an envoy he can trust to carry an offer to Amradad and a reply back, and the exile houses want to be sure he does not. A party could carry both messages and be paid by both.
+- **The lean season.** When winter is hard in [[place-dunharargn|Dunhara]] the tribes come east over the Descent, in numbers and hungry. The oasis has seen it before, and Hemvanay's men are not enough to turn them. A party on the road in that season finds out how much of its safety depends on a purchase made last autumn.
 - **The ancestral peaks.** The older genealogies root the houses in named peaks above the Descent, and a family with a dispute over precedence would pay to have a peak climbed and a claim proved. The upper slopes are cold, steep and unmapped.
 - **The pans.** The salt-lake is a white glare in summer, and the crust over the brine will bear a camel in the morning and not at noon. Workers lost to it are not recovered.
 

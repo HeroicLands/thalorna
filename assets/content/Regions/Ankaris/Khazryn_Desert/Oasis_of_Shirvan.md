@@ -30,16 +30,16 @@ Shirvan trades on pilgrimage and on dates. Pilgrims of both faiths come for the 
 
 ## Under the Atarzád
 
-The city belongs to the [Teqemod]{.name data-type="affiliation"}, the Atarzád tribe that holds the western end of the belt and the strictest of the twelve on matters of observance. Their fire-wardens walk the streets, and their rule is felt in small ways: a Tellumi shop may not open on an Atarzád festival, a Tellumi household may not light a fire in its courtyard on certain nights, and the water-tax is assessed at the basin gate, where the assessor can see who comes to draw.
+The city belongs to the [Ozhmarod]{.name data-type="affiliation"}, the Atarzád tribe that holds the western end of the belt and the strictest of the twelve on matters of observance. Their fire-wardens walk the streets, and their rule is felt in small ways: a Tellumi shop may not open on an Atarzád festival, a Tellumi household may not light a fire in its courtyard on certain nights, and the water-tax is assessed at the basin gate, where the assessor can see who comes to draw.
 
-The Tellumi live in the older districts around the lower basin, in lanes too narrow for a settler's cart. They run the canals, the clinics, the counting-houses and the school that the Teqemod have never closed because the Teqemod sons attend it. Their Delkoshekhs hold no temple. They hear cases in back rooms, and the quarter obeys them.
+The Tellumi live in the older districts around the lower basin, in lanes too narrow for a settler's cart. They run the canals, the clinics, the counting-houses and the school that the Ozhmarod have never closed because the Ozhmarod sons attend it. Their Delkoshekhs hold no temple. They hear cases in back rooms, and the quarter obeys them.
 
 ## Hooks and Dangers
 
-- **The Hidden Delkoshekh.** The Tellumi of the quarter swear that one Delkoshekh keeps the old observances somewhere near the spring, and the Teqemod fire-wardens have searched for him for ninety years. A party hired by the exiled [House of Shirvan]{.name data-type="affiliation/lineage"} could be asked to carry something to him, or to find out whether he exists. A party hired by the Teqemod could be asked for the opposite, and both employers pay well.
+- **The Hidden Delkoshekh.** The Tellumi of the quarter swear that one Delkoshekh keeps the old observances somewhere near the spring, and the Ozhmarod fire-wardens have searched for him for ninety years. A party hired by the exiled [House of Shirvan]{.name data-type="affiliation/lineage"} could be asked to carry something to him, or to find out whether he exists. A party hired by the Ozhmarod could be asked for the opposite, and both employers pay well.
 - **The sunken archive.** The great temple's archive burned in the fall of the city, but the clay that survived fire was buried in the rubble under the lower basin. Tablets surface when a channel is dug out, and the water-masters take them away before the Atarzád overseers notice. A tablet from the treaties between the seven cities would be worth a great deal in the [[affiliation-kngdmmrdd|Kingdom of Amradad]].
 - **The cliff.** The Vurinkarvem cliff is riddled with cut chambers and pilgrim stairs, some of them older than the city. After rain the lower galleries flood, and a flood can fill a chamber in the time it takes to climb out of it.
-- **Informers.** Every Tellumi household in the lower town is known to the Teqemod. Someone in the quarter reports, and nobody knows who.
+- **Informers.** Every Tellumi household in the lower town is known to the Ozhmarod. Someone in the quarter reports, and nobody knows who.
 
 ## See Also
 

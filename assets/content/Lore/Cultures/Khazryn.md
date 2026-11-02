@@ -149,7 +149,7 @@ His cost is the song's reason for being. At the gate that night his own son, kee
 
 A Delkoshekh read Berniray's name at his death from the clay she saved, and the same reed pressed the names of the dead he owed. Hers is not a lesser form of his. He keeps the oath that holds a house together, and she keeps the record that makes it a house. The song's last turn is on her side of it: the keepers who would not leave are unread, because the tablets that hold their names are the tablets they kept.
 
-The living Tellumi have a second woman of the same kind. [Yazdín of Kethramír]{.name data-type="being/npc"}, a Delkoshekh and the head of the exile house of Kethramír, is the most rigorous of the exile theologians and the author of the formal refutation of the Atarzád Promise, _[On the Ungrantable Land]{.name data-type="lore/literature"}_. It is required reading in Tellumi religious education, and a copy moves through Kethramír in every caravan from the west, hidden in a bale of cloth.
+The living Tellumi have a second woman of the same kind. [Narvuna of Kethramír]{.name data-type="being/npc"}, a Delkoshekh and the head of the exile house of Kethramír, is the most rigorous of the exile theologians and the author of the formal refutation of the Atarzád Promise, _[On the Ungrantable Land]{.name data-type="lore/literature"}_. It is required reading in Tellumi religious education, and a copy moves through Kethramír in every caravan from the west, hidden in a bale of cloth.
 
 ## Water, and the Mother of the Oasis
 
@@ -224,7 +224,7 @@ Four works carry the lines a Tellumi has by heart:
 
 A Tellumi can point to a handful of things that hold a people together without a state. **The house tablets** are each household's genealogy, deeds, water-rights and temple registers, and they are the one thing the Breaking could not burn by force, because clay does not burn well. **The roll of the seven peaks**, a _tsemhat_ or recitation, names the peak each house roots its genealogy in. [[lore-turemrecital|The Recitation of the Breaking]] is a case in the form of a case, each claim followed by the tablet that proves it. **The Council's codes** are the legal rules by which Tellumi communities inside the held cities govern their own affairs. **The water-deeds** give a household particular hours in a named channel, and the ledgers of them are the most valuable documents in Shirvan. **The Calendar** of twelve thirty-day months and a five-day festival is the Shekhulukhem's.
 
-The heir-in-exile of Shirvan keeps a case of her own. [Morá-Shirván]{.name data-type="being/npc"}, a scholar and theologian of about forty, has spent her life assembling the legal and historical record for the recovery of her city, and it fills a small library and is updated continuously. And there is **the shrine at every water**, the nearest thing the people have to a standard kept in a temple.
+The heir-in-exile of Shirvan keeps a case of her own. [Muresha of Shirvan]{.name data-type="being/npc"}, a scholar and theologian of about forty, has spent her life assembling the legal and historical record for the recovery of her city, and it fills a small library and is updated continuously. And there is **the shrine at every water**, the nearest thing the people have to a standard kept in a temple.
 
 ## Houses, and What a Name Carries
 

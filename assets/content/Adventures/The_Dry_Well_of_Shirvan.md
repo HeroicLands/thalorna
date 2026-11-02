@@ -20,14 +20,14 @@ Something at the bottom of a shaft trades secrets for blood, and the hidden prie
 
 ## Overview
 
-Under the cliff of [[place-oasishirvn|Shirvan]], the dry well of [[place-peldenderal|Peshdenderat]] answers questions for blood. The thing that answers, the [Tally]{.name data-type="being/creature"}, is a seam of [[lore-theshadow|the Shadow]] that rose through a hundred and forty fathoms of rock to the surface of a burned archive and learned to read. It sells what it reads. [Nurmelul]{.name data-type="being/npc"}, the hidden Shekhul, buys the quarter's safety from it. [Qeshumor]{.name data-type="being/npc"}, a fire-warden of the [Teqemod]{.name data-type="affiliation/polity"}, buys the Tellumi's secrets from it, without knowing that his supplier sells to the other side as well. Neither knows the other comes to the well.
+Under the cliff of [[place-oasishirvn|Shirvan]], the dry well of [[place-peldenderal|Peshdenderat]] answers questions for blood. The thing that answers, the [Tally]{.name data-type="being/creature"}, is a seam of [[lore-theshadow|the Shadow]] that rose through a hundred and forty fathoms of rock to the surface of a burned archive and learned to read. It sells what it reads. [Nurmelul]{.name data-type="being/npc"}, the hidden Shekhul, buys the quarter's safety from it. [Qeshumor]{.name data-type="being/npc"}, a fire-warden of the [Ozhmarod]{.name data-type="affiliation/polity"}, buys the Tellumi's secrets from it, without knowing that his supplier sells to the other side as well. Neither knows the other comes to the well.
 
 The adventure runs over two days and a night. The first day is the quarter and the stair, the night is the descent, and the second day is the vault and the reckoning in the market. The rain in the uplands sets a clock on the lower galleries. The bypass notes carry play on when the party skips a scene or takes a shortcut.
 
 ## Hooks
 
-- **The thief.** A water-master of the Tellumi quarter, a dry man with ink under his nails and a habit of looking over his shoulder at doorways, offers a contract to burgle the lower gallery. It is the only place in the city the Teqemod do not search, and he wants a ledger taken from it. He does not say whose, and he pays half in advance in a coin that is warm from his hand.
-- **The mercenary or common soldier.** A Teqemod captain hires a party to guard a fire-warden on a night watch, without telling them it is a descent into the cliff. He gives each hireling a lamp, a cloak and a short oath to the Flame, and tells them that the warden has been robbed. The warden, when they meet him, says nothing of the sort.
+- **The thief.** A water-master of the Tellumi quarter, a dry man with ink under his nails and a habit of looking over his shoulder at doorways, offers a contract to burgle the lower gallery. It is the only place in the city the Ozhmarod do not search, and he wants a ledger taken from it. He does not say whose, and he pays half in advance in a coin that is warm from his hand.
+- **The mercenary or common soldier.** An Ozhmarod captain hires a party to guard a fire-warden on a night watch, without telling them it is a descent into the cliff. He gives each hireling a lamp, a cloak and a short oath to the Flame, and tells them that the warden has been robbed. The warden, when they meet him, says nothing of the sort.
 - **The leader.** An envoy of the [House of Shirvan]{.name data-type="affiliation/lineage"} in the [[place-amradadrgn|Amradad Region]] needs a captain to find who sells the quarter's secrets and, if possible, to stop him. The envoy is a plump, tired man who has already lost two couriers on the road. He has a theory, and the theory is wrong in an interesting way.
 - **The lone wanderer.** The wanderer's own secret, a name, a crime or a debt, is known to a stranger in the market, who names the price of silence in drops of blood. The stranger is a dark-haired woman with a clean cloth tied round her left hand. She says it is a courtesy and that the price is the same for everyone.
 
@@ -35,7 +35,7 @@ The adventure runs over two days and a night. The first day is the quarter and t
 
 **Purpose.** Get the party into the cliff, and show the quarter's discipline.
 
-**Situation.** The old stair begins in a Tellumi courtyard behind a water-gate. The courtyard is small, swept and shaded by a single date palm, and the air beyond the gate is cooler than the street by a visible margin. The gate is locked and guarded by [Yelune]{.name data-type="being/npc"}, a water-master in her fifties with a keyring at her belt and a cousin on the Teqemod payroll. She says the stair is closed for repairs. Beyond her, the steps descend into dark that smells of wet limestone and old lamp-smoke. It has rained in the uplands, and from the throat of the stair comes the low note of water finding its way into the lower bays.
+**Situation.** The old stair begins in a Tellumi courtyard behind a water-gate. The courtyard is small, swept and shaded by a single date palm, and the air beyond the gate is cooler than the street by a visible margin. The gate is locked and guarded by [Yelune]{.name data-type="being/npc"}, a water-master in her fifties with a keyring at her belt and a cousin on the Ozhmarod payroll. She says the stair is closed for repairs. Beyond her, the steps descend into dark that smells of wet limestone and old lamp-smoke. It has rained in the uplands, and from the throat of the stair comes the low note of water finding its way into the lower bays.
 
 **NPCs and threats.** Yelune is stubborn and afraid. She protects the priest because her husband gave blood to the well and she cannot bear to learn what it cost. She does not hide her fear; her hand goes to the keyring whenever the party moves, and she keeps the key to the third bay on a separate cord inside her dress. Behind her stand four men of the quarter with clubs, who are not soldiers. They are ferrymen, drovers and a barber, and they would rather be anywhere else, but each has a household on the ledger. The flood is the other guardian: after rain the lower galleries fill in the time it takes to climb out of one, and the water comes in black and without a sound.
 
@@ -43,7 +43,7 @@ The adventure runs over two days and a night. The first day is the quarter and t
 
 **Clues and rewards.** Yelune's ledger shows the channel-hours of eleven households, cut by half this year. These are the households of the men and women who gave blood to the well. A party that reads the ledger sees the same names repeated across the years, with a small black mark beside each; the mark is a drop. A party that earns her trust gets the key to the third bay and the warning that the lower stair is flooded from the fifth bay down.
 
-**Consequences.** If the party breaks in, the quarter turns against them: doors close, water-masters will not sell, and the street-boys carry their descriptions to the Teqemod for a copper. If they bribe their way, the cousin tells the Teqemod within the day. If the party earns Yelune's trust, she becomes the party's only friend in the quarter and a liability, since she cannot lie to a man she likes.
+**Consequences.** If the party breaks in, the quarter turns against them: doors close, water-masters will not sell, and the street-boys carry their descriptions to the Ozhmarod for a copper. If they bribe their way, the cousin tells the Ozhmarod within the day. If the party earns Yelune's trust, she becomes the party's only friend in the quarter and a liability, since she cannot lie to a man she likes.
 
 **If bypassed.** A party that enters from the cliff face through a pilgrim shrine arrives in the gallery from above and misses the guards. The shrine is dark and the stair beyond it is slick, and the party arrives at the lip of the third bay with no friend in the quarter and a damp that has got into their lamps.
 
@@ -51,7 +51,7 @@ The adventure runs over two days and a night. The first day is the quarter and t
 
 **Purpose.** Give the party both sides of the secret and the tools to choose between them.
 
-**Situation.** The party meets two people who want the same man. In the back room of a counting-house, shuttered against the afternoon, an elder of the quarter, Yelune's brother, a heavy, soft-spoken man with a ring on every finger, says the hidden Shekhul is the quarter's heart and must be protected. He pours tea and does not drink it. In the fire-temple, whose floor is hot underfoot and whose air shimmers with the heat of the altar, Qeshumor, a tall Teqemod fire-warden with an unlit lamp in his belt, says the quarter is hiding a poisoner. Each offers the party silver by weight or a favor.
+**Situation.** The party meets two people who want the same man. In the back room of a counting-house, shuttered against the afternoon, an elder of the quarter, Yelune's brother, a heavy, soft-spoken man with a ring on every finger, says the hidden Shekhul is the quarter's heart and must be protected. He pours tea and does not drink it. In the fire-temple, whose floor is hot underfoot and whose air shimmers with the heat of the altar, Qeshumor, a tall Ozhmarod fire-warden with an unlit lamp in his belt, says the quarter is hiding a poisoner. Each offers the party silver by weight or a favor.
 
 **NPCs and threats.** The elder is cautious and sorrowful. He speaks of his sister's husband and of what the well did to him, and breaks off. Qeshumor is honest, hard and worn. He wants the hidden priest taken, and he wants it done quietly, because the high priestess of the temple has forbidden an open hunt. He does not mention that he goes to the cliff alone each month. His lamp is unlit because he carries it as a reminder of an oath, and he keeps one hand on it when he talks about the dead. His men wait outside the fire-temple door. They are armed, disciplined and bored.
 
@@ -91,7 +91,7 @@ The adventure runs over two days and a night. The first day is the quarter and t
 
 **Clues and rewards.** If the party reads the names of the dead whose blood has gone into the well, each name quiets the Tally by a measure. If they close the shaft with a stone from the lip, blessed by a priest of Zúrathra, the voice stops. The names are in Yelune's ledger, and the party that brought it can read them now; the party that left it must ask the priest, who knows them all by heart.
 
-**Consequences.** If the Tally is silenced, the water returns over a season, and the quarter loses its way of knowing what the Teqemod are about. If the priest is taken, the Teqemod learn that the hidden Shekhul was a man and a mortal, and the three hands that held the office are known. If both men leave the cave alive, the well has two customers who have each been told the other's name.
+**Consequences.** If the Tally is silenced, the water returns over a season, and the quarter loses its way of knowing what the Ozhmarod are about. If the priest is taken, the Ozhmarod learn that the hidden Shekhul was a man and a mortal, and the three hands that held the office are known. If both men leave the cave alive, the well has two customers who have each been told the other's name.
 
 **If bypassed.** A party that leaves the cave to the two of them hears of the outcome in the market: one of them did not come up. The market gives it in the voice of a rumor, and the rumor is always a little wrong about which.
 
@@ -105,16 +105,16 @@ The adventure runs over two days and a night. The first day is the quarter and t
 
 **Player choices.** Force: carry the clay out in baskets, and take the weight of what the quarter loses. Stealth: copy what can be copied, by lamplight, with a stylus and a quire of wax. Guile: sell it to the House of Shirvan at Amradad, whose envoy would pay a great deal and would then own the argument. Parley: give it back to the quarter's water-masters, who would use it to claim the old rights to the channels and would not forget who gave it.
 
-**Clues and rewards.** Tablets from the treaties between the seven cities, worth a great deal at Amradad: weights of silver each, and more to the right buyer. The Tally's last answer, if the party asks: the Teqemod high priestess knows of the well and has known for years. A tablet on the top of the nearest drift is a water-treaty with a line scratched through it by a thumbnail and a second line written under it, in a hand a century later, that reads _the spring is owed_.
+**Clues and rewards.** Tablets from the treaties between the seven cities, worth a great deal at Amradad: weights of silver each, and more to the right buyer. The Tally's last answer, if the party asks: the Ozhmarod high priestess knows of the well and has known for years. A tablet on the top of the nearest drift is a water-treaty with a line scratched through it by a thumbnail and a second line written under it, in a hand a century later, that reads _the spring is owed_.
 
-**Consequences.** The treaties change the argument between the exiles and the Council. The Teqemod learn that the quarter holds the proof of the old order, and a fire-warden with a seal at his belt is at the quarter's doors within a week. The party that carries the clay out is followed.
+**Consequences.** The treaties change the argument between the exiles and the Council. The Ozhmarod learn that the quarter holds the proof of the old order, and a fire-warden with a seal at his belt is at the quarter's doors within a week. The party that carries the clay out is followed.
 
 **If bypassed.** A party that never enters the vault hears of the clay from a water-master within the year, who asks, with a long look, whether the party saw anything in the cave worth mentioning.
 
 ## Aftermath
 
 - **If the Tally is silenced.** The spring rises over a season. The quarter loses its eyes, and the hidden Shekhul, if he lives, is exposed. The water-masters reset the channel-hours a third time and this time the hours lengthen, and the eleven households learn they are free of a debt they never fully understood.
-- **If the priest is taken.** The Teqemod close the lower galleries and the well drinks on. The quarter hears who talked and the party's name goes into the water-masters' ledger beside the black marks.
+- **If the priest is taken.** The Ozhmarod close the lower galleries and the well drinks on. The quarter hears who talked and the party's name goes into the water-masters' ledger beside the black marks.
 - **If the clay is carried to Amradad.** The exile house gains a hold on the seven cities' treaties. The envoy's face when the first tablet is unwrapped is a thing the party remembers.
 - **If the party fails.** The oasis dries, the priest dies and the Tally finds a new servant. A year later the date groves at the edge of the town are bare, and a stranger in the market offers to sell a secret for a drop.
 
@@ -130,7 +130,7 @@ The adventure runs over two days and a night. The first day is the quarter and t
 : the Mother of the Oasis
 
 [[affiliation-tribestrzd|Tribes of Atarzád]]
-: the Teqemod who rule the city
+: the Ozhmarod who rule the city
 
 [[lore-theshadow|The Shadow]]
 : what the Tally is

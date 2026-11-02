@@ -13,55 +13,58 @@ data:
   governance:
     model: confederation
     summary: >-
-      A Council of the Princes of seven houses—three still ruling their oases, four ruling in exile at Amradad—which coordinates a common diplomatic position and does not govern.
+      Seven princely houses, three ruling their own oases and four keeping courts in exile at Amradad, each under its prince (relvan) and the elders of the house. Once a year the houses meet in the Council of the Princes, convened by the High Shekhul of Ahurdaen, which keeps one position toward the Atarzád, the codes of the subject quarters and the money for shrines, schools and agents, and governs no oasis. The Shekhulukhem keeps the law, the calendar and the records beside the princes, on a tithe of its own.
     ranks:
       - level: 0
-        title: Kinless
+        title: Unrecorded
         description: >-
-          One cast out by their house and claimed by none, owed no hospitality, water or vengeance.
+          A Tellumi whose household has no water-hours, no deed and no house to stand to, and so nothing to be counted under; owed hospitality as any stranger is, and nothing more.
       - level: 1
-        title: Bondservant
+        title: Of the Tablets
         description: >-
-          Bound in service or debt to a house, and answerable through it rather than in his own name.
+          A Tellumi whose household's name is on the clay: its genealogy, deeds and water-hours kept, its dead read, and its records kept in the court of the house it stands to. Owes the tithe to the Shekhulukhem, and in the held cities the Atarzád water-tax besides.
       - level: 2
-        title: Subject
-        description: >-
-          Of the peoples the houses ruled and rule, owing dues and labor and holding no place in the Council.
-      - level: 3
         title: Kinsman of a House
         description: >-
-          Of a princely house's blood or sworn following, entitled to its protection and its quarrels.
-      - level: 4
+          Of a princely house's blood or sworn following, entitled to its protection and drawn into its quarrels.
+      - level: 3
         title: Retainer
         description: >-
-          Holding a charge in a house's service—its caravans, its guards, its correspondence, its exile courts.
-      - level: 5
+          Holding a charge in a house's service: its caravans, its guards, its correspondence, its exile court.
+      - level: 4
         title: Delkoshekh
-        description: Ordained to the fire and the law, keeping the rites the Breaking did not extinguish.
-      - level: 6
+        description: >-
+          Ordained to the fire and the law after fifteen to twenty years of study, and serving a community as its judge, registrar and priest.
+      - level: 5
         title: Elder of a House
         description: Senior of a princely house, whose counsel binds its head in practice if not in form.
-      - level: 7
+      - level: 6
         title: Prince of a House
         description: >-
-          Head of one of the seven houses—three still ruling, four ruling in exile, and all seven seated at the Council.
-      - level: 8
-        title: First of the Seven
-        description: >-
-          The senior house's prince, who speaks first at the Council by long custom and commands nothing by it.
+          Head of one of the seven houses, a relvan, ruling an oasis or keeping a court in exile; or, for a house in exile, the man or woman who would rule if the house were restored.
     offices:
-      Prince of a House: Head of one of the seven princely houses, ruling an oasis or maintaining a court in exile.
-      First of the Seven: The senior prince, entitled by custom to speak first at the Council of the Princes.
-      Elder of a House: Senior kinsman whose counsel a prince disregards at his cost.
-      Delkoshekh: >-
-        Ordained keeper of the fire, the law and the commentaries—the confederation's continuity through its catastrophe.
+      First of the Seven: >-
+        Held by a Prince of a House, by long custom the prince of the House of Shirvan. Speaks first at every session of the Council of the Princes, and commands nothing by it.
+      Convenor of the Council: >-
+        Held from outside the ladder by the High Shekhul of Ahurdaen at the Great Fire-Temple of Amradad. Calls the Council of the Princes, keeps its peace, and rules on nothing.
+      Heir-in-Exile: >-
+        Held by a Prince of a House whose city the Atarzád hold. Keeps the court, the genealogy and the claim, and sits at the Council as a ruling prince does.
+      Warden of the Oasis: >-
+        Held by a Retainer of a ruling house. Keeps a free oasis's water, walls and gates.
+      Captain of the Household Guard: >-
+        Held by a Retainer of a ruling house. Commands its guard: about a hundred men at Mernagord, fifty at Ushtra-ber and a token force at Vahurdash.
       Steward of the Exile Court: >-
-        Administrator of a dispossessed house's affairs in Amradad—its revenues, its clients, its claims.
-      Caravan-Master: Holder of a house's trade upon the routes, and the practical source of its money.
-      Warden of the Oasis: Keeper of a still-held settlement's water, walls and gates.
-      Keeper of the Tablets: Archivist of the baked-clay record on which every house's claim to its ruins rests.
-      Envoy to the Kingdom: A house's representative at Amradad, where the Council meets on the Shebarader's courtesy.
-      Keeper of the Feud: Recorder of blood owed and blood paid between houses and against the Atarzád.
+        Held by a Retainer of a house in exile. Runs the court's affairs in Amradad: its revenues, its clients and its claims.
+      Caravan-Master: >-
+        Held by a Retainer. Carries a house's trade upon the routes, and is the practical source of its money.
+      Envoy to the Kingdom: >-
+        Held by a Kinsman of a House or a Retainer. Represents a house at the court of Amradad, where the Council meets on the Kingdom's courtesy.
+      Keeper of the Tablets: >-
+        Held by a Delkoshekh. Keeps the baked-clay record of a court, on which the house's claim to its city and its ruins rests; at Ushtra-ber reads every petition aloud before the prince hears it.
+      Keeper of the Feud: >-
+        Held by a Delkoshekh. Records blood owed and blood paid between houses and against the Atarzád.
+      Agent in the Lost Cities: >-
+        Held by one Of the Tablets. Lives in a held city as a merchant, a clerk or a water-master, and tells the exile houses how matters stand there.
   seat: oasishirvn
   population: 800000
   economy: [lore-bartercnmy, lore-kinhalcrdt, lore-vdyrnbnkng]
@@ -106,17 +109,17 @@ The Breaking is recited at every Tellumi festival, at every formal court ceremon
 
 ## Government
 
-The Confederation is governed by the [Council of the Princes]{.name data-type="affiliation/governmental"}, which meets annually at Amradad on neutral ground, hosted by the Kingdom as a courtesy to the exile community. Each of the seven princely houses sends its head (or, for the four in exile, the man or woman who would rule if the house were restored), the senior elders of the house, and the senior Delkoshekh attached to its court. The High Shekhul of Ahurdaen at the [Great Fire-Temple of Amradad]{.name data-type="place/structure"} presides as neutral convenor, a role the Kingdom's then-Shekhul took up about sixty years ago, when he agreed to underwrite the Council in perpetuity.
+The Confederation is governed by the [[affiliation-cnclprinces|Council of the Princes]], which meets annually at Amradad on neutral ground, hosted by the Kingdom as a courtesy to the exile community. Each of the seven princely houses sends its head (or, for the four in exile, the man or woman who would rule if the house were restored), the senior elders of the house, and the senior Delkoshekh attached to its court. The High Shekhul of Ahurdaen at the [Great Fire-Temple of Amradad]{.name data-type="place/structure"} presides as neutral convenor, a role the Kingdom's then-Shekhul took up about sixty years ago, when he agreed to underwrite the Council in perpetuity.
 
 The seven princely houses are:
 
-- [House of Shirvan]{.name data-type="affiliation/lineage"} (in exile in Amradad). The senior house, first among the seven; by long custom the eldest Shirvan prince speaks first at every Council. The heir-in-exile is [Morá-Shirván]{.name data-type="being/npc"}, a woman of perhaps forty, scholar and theologian, who has spent her life building a legal and historical case for the recovery of Shirvan. The case fills a small library and is updated continuously.
-- [House of Ashkarad]{.name data-type="affiliation/lineage"} (in exile in Amradad). The traditional craft-house, with the most cosmopolitan court before the Breaking. Its head, [Samim of Ashkarad]{.name data-type="being/npc"}, grew wealthy selling the city's wares across [[place-vylarianse|Vylarian Sea]] trade and quietly funds Tellumi agitation in the Atarzád cities.
-- [House of Zargandur]{.name data-type="affiliation/lineage"} (in exile in Amradad). The traditional war-house, which held the strongest military before the Breaking and lost the most leaders in it. Its heir, [Khavar of Zargandur]{.name data-type="being/npc"}, is twenty-seven, trains as a soldier in the Kingdom's forces and is widely understood to be preparing for a reclamation campaign.
-- [House of Kethramír]{.name data-type="affiliation/lineage"} (in exile in Amradad). The traditional scholar-house, closest to the [Shekhulukhem]{.name data-type="affiliation"} and the most theologically serious of the exile houses. Its head, [Yazdín of Kethramír]{.name data-type="being/npc"}, is herself a Delkoshekh of considerable reputation and has written major commentaries on the Breaking.
-- [House of Mernagord]{.name data-type="affiliation/lineage"} (still ruling). Holds Mernagord at the western end of the belt, a city of thirty thousand in an oasis country of about one hundred and forty thousand. The ruling prince, [Parván of Mernagord]{.name data-type="being/npc"}, is in his sixties, cautious, and inclined to accommodation with the Kingdom and, warily, with the Atarzád. The exile houses consider him insufficiently militant.
-- [House of Ushtra-ber]{.name data-type="affiliation/lineage"} (still ruling). Holds Ushtra-ber at the eastern end of the belt, a city of twenty thousand under the Eastern Reach. Remote, austere and deeply traditional, it is ruled by [Vahram of Ushtra-ber]{.name data-type="being/npc"}, a hard man of fifty whose court ceremonial is said to preserve forms forgotten elsewhere.
-- [House of Vahurdash]{.name data-type="affiliation/lineage"} (revived, partially ruling). The Vahurdash settlement numbers about four thousand in the town and was reclaimed within the last generation. Its head, [Khorsád-Vahur]{.name data-type="being/npc"}, holds the title by recent acclamation rather than ancient right and sits at the Council as a kind of seventh among equals.
+- [[affiliation-hseshirvan|House of Shirvan]] (in exile in Amradad). The senior house, first among the seven; by long custom the eldest Shirvan prince speaks first at every Council. The heir-in-exile is [Muresha of Shirvan]{.name data-type="being/npc"}, a woman of perhaps forty, scholar and theologian, who has spent her life building a legal and historical case for the recovery of Shirvan. The case fills a small library and is updated continuously.
+- [[affiliation-hseashkarad|House of Ashkarad]] (in exile in Amradad). The traditional craft-house, with the most cosmopolitan court before the Breaking. Its head, [Nimeshay of Ashkarad]{.name data-type="being/npc"}, grew wealthy selling the city's wares across [[place-vylarianse|Vylarian Sea]] trade and quietly funds Tellumi agitation in the Atarzád cities.
+- [[affiliation-hsezargandur|House of Zargandur]] (in exile in Amradad). The traditional war-house, which held the strongest military before the Breaking and lost the most leaders in it. Its heir, [Gureshay of Zargandur]{.name data-type="being/npc"}, is twenty-seven, trains as a soldier in the Kingdom's forces and is widely understood to be preparing for a reclamation campaign.
+- [[affiliation-hsekethramir|House of Kethramír]] (in exile in Amradad). The traditional scholar-house, closest to the [Shekhulukhem]{.name data-type="affiliation"} and the most theologically serious of the exile houses. Its head, [Narvuna of Kethramír]{.name data-type="being/npc"}, is herself a Delkoshekh of considerable reputation and has written major commentaries on the Breaking.
+- [[affiliation-hsemernagord|House of Mernagord]] (still ruling). Holds Mernagord at the western end of the belt, a city of thirty thousand in an oasis country of about one hundred and forty thousand. The ruling prince, [Hemvanay of Mernagord]{.name data-type="being/npc"}, is in his sixties, cautious, and inclined to accommodation with the Kingdom and, warily, with the Atarzád. The exile houses consider him insufficiently militant.
+- [[affiliation-hseushtraber|House of Ushtra-ber]] (still ruling). Holds Ushtra-ber at the eastern end of the belt, a city of twenty thousand under the Eastern Reach. Remote, austere and deeply traditional, it is ruled by [Nartemay of Ushtra-ber]{.name data-type="being/npc"}, a hard man of fifty whose court ceremonial is said to preserve forms forgotten elsewhere.
+- [[affiliation-hsevahurdash|House of Vahurdash]] (revived, partially ruling). The Vahurdash settlement numbers about four thousand in the town and was reclaimed within the last generation. Its head, [Khorsád-Vahur]{.name data-type="being/npc"}, holds the title by recent acclamation rather than ancient right and sits at the Council as a kind of seventh among equals.
 
 The Council does not govern; it coordinates. The three ruling oases govern themselves, and the four exile houses keep their formal courts and work diplomatically and commercially in Amradad and beyond. What the Council does maintain is a single diplomatic position toward the Atarzád (no recognition, no treaty, a perpetual claim of sovereignty over the conquered cities) and the machinery of the diaspora: the legal codes by which Tellumi communities inside the Atarzád cities govern their own affairs, the funding of Tellumi shrines and schools in Amradad and the Taruzelian ports, and a quiet network of agents who tell the exile houses how matters stand in the lost cities.
 
@@ -124,7 +127,7 @@ The Council does not govern; it coordinates. The three ruling oases govern thems
 
 The civilization survived the Breaking in two ways: through the oases the Atarzád did not trouble to take, and through the subject population that stayed in the conquered cities. The second group is by far the larger, and it is the central fact of Tellumi life today.
 
-Inside the four Atarzád cities, Tellumi communities live in designated quarters, usually the older districts that the settler class has not rebuilt. They have not been slaves since two generations ago, when the [Council of the Twelve]{.name data-type="affiliation/governmental"} abolished the formal bondage that had attached to the survivors in the war's aftermath. They remain subject in concrete ways: barred from holding land outside their quarters, barred from public worship of any Ashaian god but Ataros, barred from carrying arms outside the militias the Atarzád permit, and bound to pay the **water-tax**, a levy on the use of city water that falls only on Tellumi heads of household and is widely understood to be punitive.
+Inside the four Atarzád cities, Tellumi communities live in designated quarters, usually the older districts that the settler class has not rebuilt. They have not been slaves since two generations ago, when the [[affiliation-cncltwelve|Council of the Twelve]] abolished the formal bondage that had attached to the survivors in the war's aftermath. They remain subject in concrete ways: barred from holding land outside their quarters, barred from public worship of any Ashaian god but Ataros, barred from carrying arms outside the militias the Atarzád permit, and bound to pay the **water-tax**, a levy on the use of city water that falls only on Tellumi heads of household and is widely understood to be punitive.
 
 What the Tellumi have is expertise. They are the water-engineers, irrigation-masters and palm-grove cultivators on whom oasis life depends, and the principal physicians, scribes (in three languages), commercial bankers and astronomers of the cities. Most Atarzád courts of any sophistication employ Tellumi specialists, most Atarzád merchant houses use Tellumi bookkeepers, and the Toqel himself, Keeper of the Unconsuming Flame, is known to consult Tellumi astronomers when the Flame must be observed for omens.
 
@@ -154,7 +157,7 @@ The Tellumi pay no tax to any state. By ancient compact they pay a tithe to the 
 
 The Confederation keeps no army. The three ruling houses each retain a small household guard, about a hundred men at Mernagord, fifty at Ushtra-ber and a token force at Vahurdash, enough for ordinary security and ceremony. The exile houses keep small protective retinues in Amradad, which Kingdom law forbids any military activity and tolerates while the retinues stay discreet.
 
-Real security rests on two things: the protection of the Kingdom, which has consistently refused to extradite Tellumi exiles or cooperate with Atarzád requests for action against the Confederation, and the Atarzád cities' dependence on Tellumi technical labor, which deters campaigns of destruction. Khavar of Zargandur's quiet preparations are the only serious military planning the Confederation does. The Council does not debate them openly, and privately its consensus is that no reclamation will come in this generation.
+Real security rests on two things: the protection of the Kingdom, which has consistently refused to extradite Tellumi exiles or cooperate with Atarzád requests for action against the Confederation, and the Atarzád cities' dependence on Tellumi technical labor, which deters campaigns of destruction. Gureshay of Zargandur's quiet preparations are the only serious military planning the Confederation does. The Council does not debate them openly, and privately its consensus is that no reclamation will come in this generation.
 
 ## The Blood-Feud
 
@@ -168,13 +171,13 @@ Whether that restraint would survive an actual reconquest is doubtful. The gener
 
 **Aravdán the Stargazer**, High Shekhul of Ahurdaen at the Great Fire-Temple in Amradad and presiding convenor of the Council of the Princes. About sixty years old, an astronomer of continental reputation, he has held the exile community together through three decades of small crises, and his weight in the secular government of the Kingdom is considerable (see [[affiliation-kngdmmrdd|Kingdom of Amradad]]).
 
-**Morá-Shirván**, heir-in-exile of the senior house. Her legal-historical case for the restoration of Shirvan is the central document of Tellumi political claims. She is forty, unmarried, and some exile factions see her as a possible focal point for a more activist phase.
+**Muresha of Shirvan**, heir-in-exile of the senior house. Her legal-historical case for the restoration of Shirvan is the central document of Tellumi political claims. She is forty, unmarried, and some exile factions see her as a possible focal point for a more activist phase.
 
-**Khavar of Zargandur**, the young heir training in Kingdom military service. Ambitious, twenty-seven, and the figure round whom the militant exile faction increasingly organizes. The Council has neither endorsed nor forbidden his preparations.
+**Gureshay of Zargandur**, the young heir training in Kingdom military service. Ambitious, twenty-seven, and the figure round whom the militant exile faction increasingly organizes. The Council has neither endorsed nor forbidden his preparations.
 
-**Yazdín of Kethramír**, Delkoshekh and head of the Kethramír exile house. The most rigorous of the exile theologians and author of the formal refutation of the Atarzád Promise, _[On the Ungrantable Land]{.name data-type="lore/literature"}_, which is required reading in Tellumi religious education and contraband in Atarzád territory.
+**Narvuna of Kethramír**, Delkoshekh and head of the Kethramír exile house. The most rigorous of the exile theologians and author of the formal refutation of the Atarzád Promise, _[On the Ungrantable Land]{.name data-type="lore/literature"}_, which is required reading in Tellumi religious education and contraband in Atarzád territory.
 
-**Parván of Mernagord**, ruling prince of the largest free oasis. He is the voice of accommodation on the Council. Atarzád merchant interests have sounded him out about limited normalization, and he has answered neither way.
+**Hemvanay of Mernagord**, ruling prince of the largest free oasis. He is the voice of accommodation on the Council. Atarzád merchant interests have sounded him out about limited normalization, and he has answered neither way.
 
 **The Hidden Delkoshekh of Shirvan**, an unnamed and possibly mythical figure said to keep the original ritual office at a secret place near the Shirvan spring, conducting the proper observances for Ahurdaen in defiance of the Atarzád prohibition. The Tellumi of the Shirvan quarter believe the office exists and that its succession has run unbroken since the Breaking. The Atarzád launch periodic searches and have never found anyone. Whether the Hidden Delkoshekh is a person or a useful story, the belief shapes religious life in the quarter.
 
@@ -196,6 +199,9 @@ A person under an unsettled feud stands outside the confederation's protection u
 
 [[affiliation-tribestrzd|Tribes of Atarzád]]
 : the adversary
+
+[[affiliation-cnclprinces|Council of the Princes]]
+: the yearly meeting of the seven houses
 
 [[affiliation-ahurdaen|Faith of Ahurdaen]]
 : the central object of Tellumi formal devotion

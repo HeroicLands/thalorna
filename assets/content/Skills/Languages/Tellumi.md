@@ -6547,6 +6547,30 @@ data:
     - {name: Tellumel, tongue: tellumi, built: [te, lu, -mi, -el]}
     - {name: Dranavár, tongue: khazryn}
     - {name: Tellumi Confederation, tongue: gloss, built: [Tellumi]}
+    - {name: Council of the Princes, tongue: gloss, built: [tselvun]}
+    - name: tselvun
+      tongue: tellumi
+      gloss: "council: the Council of the Princes"
+      built: [tselvun]
+    - {name: House of Shirvan, tongue: gloss}
+    - {name: House of Ashkarad, tongue: gloss, built: [Ashkarad]}
+    - {name: House of Zargandur, tongue: gloss, built: [Zargandur]}
+    - {name: House of Kethramír, tongue: gloss, built: [Kethramír]}
+    - {name: House of Mernagord, tongue: gloss, built: [Mernagord]}
+    - {name: House of Ushtra-ber, tongue: gloss, built: [Ushtra-ber]}
+    - {name: House of Vahurdash, tongue: gloss, built: [Vahurdash]}
+    - {name: Muresha, tongue: tellumi, built: [muresh, -a]}
+    - {name: Muresha of Shirvan, tongue: gloss, built: [Muresha]}
+    - {name: Nimeshay, tongue: tellumi, built: [nimesh, -ay]}
+    - {name: Nimeshay of Ashkarad, tongue: gloss, built: [Nimeshay]}
+    - {name: Gureshay, tongue: tellumi, built: [guresh, -ay]}
+    - {name: Gureshay of Zargandur, tongue: gloss, built: [Gureshay]}
+    - {name: Narvuna, tongue: tellumi, built: [narvun, -a]}
+    - {name: Narvuna of Kethramír, tongue: gloss, built: [Narvuna]}
+    - {name: Hemvanay, tongue: tellumi, built: [hemvan, -ay]}
+    - {name: Hemvanay of Mernagord, tongue: gloss, built: [Hemvanay]}
+    - {name: Nartemay, tongue: tellumi, built: [nartem, -ay]}
+    - {name: Nartemay of Ushtra-ber, tongue: gloss, built: [Nartemay]}
     - {name: Princes of Tellumel, tongue: gloss, built: [Tellumel]}
     - {name: The Tellumi Calendar, tongue: gloss, built: [Tellumi]}
     - {name: Tellumi Calendar, tongue: gloss, built: [Tellumi]}
@@ -6660,6 +6684,13 @@ data:
     - {form: Razanash Mervaran}
     - {form: Sharminah Tahvan}
     - {form: Zevarad Dathvarun}
+  retired:
+    - {form: Morá-Shirván, instead: Muresha of Shirvan, why: built on an Earth word}
+    - {form: Samim, instead: Nimeshay, why: an Earth given name}
+    - {form: Khavar, instead: Gureshay, why: an Earth word}
+    - {form: Yazdín, instead: Narvuna, why: an Earth given name}
+    - {form: Parván, instead: Hemvanay, why: an Earth given name}
+    - {form: Vahram, instead: Nartemay, why: an Earth given name}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"

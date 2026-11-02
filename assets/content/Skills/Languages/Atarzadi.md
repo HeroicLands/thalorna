@@ -260,6 +260,11 @@ data:
       field: Derived words
       gloss: the council of the well
       built: [kurbel, lukhem]
+    - form: ghizolukhem
+      class: name
+      field: Derived words
+      gloss: "the council of the twelve: the Council of the Twelve at Beit-Shofár"
+      built: [ghizol, lukhem]
     - form: zhoqarod
       class: name
       field: Derived words
@@ -321,11 +326,11 @@ data:
       field: Derived words
       gloss: "a tribe: the sons of the law; the scholar-tribe of Kethramír; `Zarvan` is retired"
       built: [tozhir, -od]
-    - form: teqemod
+    - form: ozhmarod
       class: name
       field: Derived words
-      gloss: "a tribe: the holy sons; the militant tribe of Shirvan; `Mihran` is retired"
-      built: [teqem, -od]
+      gloss: "a tribe: the sons of right order; the strict tribe of Shirvan; `Mihran` is retired"
+      built: [ozhmar, -od]
     - form: kelumod
       class: name
       field: Derived words
@@ -409,7 +414,7 @@ data:
     - form: ghishamekh
       class: name
       field: Derived words
-      gloss: "fear-bringer: the warrior society of the Teqemod; `Zharván` is retired"
+      gloss: "fear-bringer: the warrior society of the Ozhmarod; `Zharván` is retired"
       built: [ghisham, -ekh]
     - form: roqeshekh
       class: name
@@ -4562,6 +4567,11 @@ data:
     - {name: Atárzadi Language, tongue: translation, why: built on the people's name}
     - {name: Atarzadi Language, tongue: translation, why: an unmarked spelling of the above}
     - {name: Tribes of Atarzád, tongue: translation}
+    - {name: Council of the Twelve, tongue: translation}
+    - name: ghizolukhem
+      tongue: atarzadi
+      gloss: "the council of the twelve: the Council of the Twelve"
+      built: [ghizol, lukhem]
     - {name: atárzadegan, tongue: faith}
     - {name: atarzád, tongue: faith}
     - {name: atarzad, tongue: faith}
@@ -4589,6 +4599,9 @@ data:
       tongue: atarzadi
       gloss: "the lie, disorder: the principle the Ashaian faith opposes; `Druj` is retired"
       built: [ghuzdak]
+  retired:
+    - {form: Teqemod, instead: Ozhmarod, why: too like Teghumod to tell apart at the table}
+    - {form: teqemod, instead: ozhmarod, why: too like teghumod to tell apart at the table}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"

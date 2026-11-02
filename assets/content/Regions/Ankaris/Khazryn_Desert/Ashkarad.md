@@ -32,13 +32,13 @@ The Teghumod buy what the workshops make and carry it where the markets are. The
 
 The Teghumod are the most cosmopolitan of the twelve tribes, and Ashkarad shows it. Settler merchants have taken the broad streets near the gates, with their own temple of the Flame and their counting-houses, and the old craft quarter lies behind them, entered through low arches. Tellumi craftsmen pay the water-tax, but the Teghumod, who need the goods, leave the councils alone. The result is a city that is quieter than [[place-oasishirvn|Shirvan]] and richer than [[place-zargandur|Zargandur]], and where the resentment runs through contracts rather than streets.
 
-The exiled [House of Ashkarad]{.name data-type="affiliation/lineage"} lives on this arrangement. Its head, [Samim of Ashkarad]{.name data-type="being/npc"}, grew rich in [[affiliation-kngdmmrdd|Amradad]] on [[place-vylarianse|Vylarian Sea]] trade, and some of the money returns to the city as loans to craft families that would otherwise be ruined by a Teghumod price. Everybody in the quarter knows whose money it is, and the craft families take the loans anyway.
+The exiled [House of Ashkarad]{.name data-type="affiliation/lineage"} lives on this arrangement. Its head, [Nimeshay of Ashkarad]{.name data-type="being/npc"}, grew rich in [[affiliation-kngdmmrdd|Amradad]] on [[place-vylarianse|Vylarian Sea]] trade, and some of the money returns to the city as loans to craft families that would otherwise be ruined by a Teghumod price. Everybody in the quarter knows whose money it is, and the craft families take the loans anyway.
 
 ## Hooks and Dangers
 
 - **The glaze that was lost.** One council claims that the formula for a deep blue glaze died with a master in the Breaking. A potter's apprentice has found a fired tile that matches it, and wants to know where it came from. The answer lies in a sealed cellar in the Teghumod quarter.
 - **The price quarrel.** Two craft councils are at war over a shaft that both claim. An outsider with a reputation for fairness could mediate, and an outsider who takes a side makes an enemy of a family that controls half the city's water.
-- **The loan.** Samim's money has bought loyalty in the quarter, and the Teghumod have noticed the pattern. A party sent from Amradad to carry coin into Ashkarad is walking into a watched trade.
+- **The loan.** Nimeshay's money has bought loyalty in the quarter, and the Teghumod have noticed the pattern. A party sent from Amradad to carry coin into Ashkarad is walking into a watched trade.
 - **The tunnels.** The deep shafts run for miles under the foothills. Some break into older workings no one has mapped, and air in a long tunnel can turn foul without warning.
 
 ## See Also

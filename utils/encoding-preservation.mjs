@@ -418,6 +418,48 @@ function withRegisterRemovals(fm, file) {
     return copy;
 }
 
+/** Baseline words replaced by a ruling, by file: each baseline form and the entry written in its place. */
+const wordRenames = new Map([
+    [
+        "assets/content/Skills/Languages/Atarzadi.md",
+        [
+            {
+                from: "teqemod",
+                to: {
+                    form: "ozhmarod",
+                    class: "name",
+                    field: "Derived words",
+                    gloss: "a tribe: the sons of right order; the strict tribe of Shirvan; `Mihran` is retired",
+                    built: ["ozhmar", "-od"],
+                },
+            },
+            {
+                from: "ghishamekh",
+                to: {
+                    form: "ghishamekh",
+                    class: "name",
+                    field: "Derived words",
+                    gloss: "fear-bringer: the warrior society of the Ozhmarod; `Zharván` is retired",
+                    built: ["ghisham", "-ekh"],
+                },
+            },
+        ],
+    ],
+]);
+
+/** The baseline with each such word replaced by the entry the ruling wrote. */
+function withWordRenames(fm, file) {
+    const renames = wordRenames.get(file);
+    if (!renames || !Array.isArray(fm.data?.words)) return fm;
+    const copy = structuredClone(fm);
+    for (const { from, to } of renames) {
+        const index = copy.data.words.findIndex((word) => lower(String(word?.form)) === from);
+        assert(index >= 0, `${file}: the baseline has no word ${from}`);
+        copy.data.words[index] = structuredClone(to);
+    }
+    return copy;
+}
+
 /** Languages whose English name lists moved under `names.en`, which the encoding never reads. */
 const englishNameLists = new Map([["assets/content/Skills/Languages/Nordmal.md", ["epithet"]]]);
 
@@ -504,7 +546,7 @@ export function assertEncodingMigrationPreserved(
                             withDroppedExamples(
                                 withRespellings(
                                     withTranslationRetags(
-                                        withNameForms(before.fm, current.fm),
+                                        withNameForms(withWordRenames(before.fm, file), current.fm),
                                         file,
                                     ),
                                     file,
@@ -582,7 +624,7 @@ export function assertEncodingMigrationPreserved(
 
 /** The historical public-API input, with only the approved representation moves. */
 function projectionData(before, prefix, moveRoles = true) {
-    const data = canonical(before.fm, before.file).data;
+    const data = canonical(withWordRenames(before.fm, before.file), before.file).data;
     if (prefix !== undefined) data.words = data.words.slice(0, prefix);
     if (moveRoles)
         for (const transfer of transfers.filter((entry) => entry.file === before.file)) {
@@ -673,7 +715,12 @@ export function assertPublicLanguageProjections(current, before, prefix) {
             );
         return values;
     };
+    // A form a ruled rename introduced has no baseline meaning to preserve.
+    const introduced = new Set(
+        (wordRenames.get(current.file) ?? []).flatMap(({ to }) => [to.form, ...(to.built ?? [])]),
+    );
     for (const form of [...forms].flatMap(variants)) {
+        if (introduced.has(form) && oldMeaning(form) === null) continue;
         if (current.file.endsWith("/Nyaluban.md") && form === "zherami le zhone") {
             assert.equal(oldMeaning(form), null);
             assert(

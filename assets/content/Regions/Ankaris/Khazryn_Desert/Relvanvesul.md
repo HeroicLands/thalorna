@@ -44,7 +44,7 @@ The Atarzád fire-priests of the garrison say that only fire puts these dead dow
 
 - **The Tellumi quarter.** Some say the lamps lit at every door until dawn are for the household in the wash, though no one in the quarter will say so to an outsider.
 - **The Zhoqarod.** The garrison has been ordered to keep away from the wash. The order came from the prefect in the old palace and carries no reason.
-- The [House of Zargandur]{.name data-type="affiliation/lineage"}. [Khavar of Zargandur]{.name data-type="being/npc"}, in exile in the [[affiliation-kngdmmrdd|Kingdom of Amradad]], wants a signet from the trench to prove who died in the palace and where. He would pay for a seal and for a count of the dead.
+- The [House of Zargandur]{.name data-type="affiliation/lineage"}. [Gureshay of Zargandur]{.name data-type="being/npc"}, in exile in the [[affiliation-kngdmmrdd|Kingdom of Amradad]], wants a signet from the trench to prove who died in the palace and where. He would pay for a seal and for a count of the dead.
 - **The Zhoqarod fire-priests.** A Delkoshekh on picket duty above the wash knows what lies in its lowest layer: the garrison dead of the third day, whom the priests would not burn. The knowledge is why the priests know that fire works, and it is a secret the garrison's priests keep from the prefect.
 - **The raiders.** The band's chief believes the Zhoqarod poisoned the grave. He is wrong, and he does not say so aloud because it keeps the others digging.
 

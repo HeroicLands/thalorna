@@ -30,13 +30,13 @@ Ushtra-ber is austere. The houses are of dressed stone, not adobe, with shuttere
 
 ## The Court
 
-The ruler, [Vahram of Ushtra-ber]{.name data-type="being/npc"}, is fifty, hard-faced and exact, and his court preserves ceremonial forms that have been forgotten elsewhere in the belt. A petitioner kneels at a marked place on the floor and speaks only after the Keeper of the Tablets has read the petition aloud, and every decision is recorded on a clay tablet before the petitioner leaves. A stranger who presents himself as he would at an exile court in [[affiliation-kngdmmrdd|Amradad]] is made to repeat the whole ceremony. A visitor who learns the forms before going finds the court helpful, because the house has no other form of hospitality.
+The ruler, [Nartemay of Ushtra-ber]{.name data-type="being/npc"}, is fifty, hard-faced and exact, and his court preserves ceremonial forms that have been forgotten elsewhere in the belt. A petitioner kneels at a marked place on the floor and speaks only after the Keeper of the Tablets has read the petition aloud, and every decision is recorded on a clay tablet before the petitioner leaves. A stranger who presents himself as he would at an exile court in [[affiliation-kngdmmrdd|Amradad]] is made to repeat the whole ceremony. A visitor who learns the forms before going finds the court helpful, because the house has no other form of hospitality.
 
 The house keeps a household guard of about fifty men, enough for ordinary security and ceremony. Like every Tellumi house, it maintains no army. The Atarzád tribe that holds the eastern oases, the [Tozhirod]{.name data-type="affiliation"}, have never pressed it. The road to Ushtra-ber is long, the valley is easy to hold, and the Tozhirod scholars find the court's archive more interesting than its land.
 
 ## Hooks and Dangers
 
-- **The old forms.** The court's tablet archive holds ritual and legal practice that the rest of the belt has lost, and a scholar from Amradad or [[place-caldar|Kaldar]] wants copies. Vahram allows access to those who learn the forms and earn his respect, and refuses everyone else.
+- **The old forms.** The court's tablet archive holds ritual and legal practice that the rest of the belt has lost, and a scholar from Amradad or [[place-caldar|Kaldar]] wants copies. Nartemay allows access to those who learn the forms and earn his respect, and refuses everyone else.
 - **The flood.** If the glacier melts fast in a hot summer, the stream rises in hours and the terraces below the city go first. A party in the valley when the horn sounds has a short time to reach the walls.
 - **The pass-guide.** A caravan master heading east needs a guide who can read the wells of the stone desert, and the best one in the city has a feud with a family in the Hvarn villages. A party could settle it or be caught in it.
 - **The winter.** Snow closes the valley road from late autumn to the thaw. A party that arrives late stays until spring, in a city that rations its fuel by household.
