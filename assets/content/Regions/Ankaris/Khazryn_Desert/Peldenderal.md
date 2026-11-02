@@ -3,8 +3,8 @@ shortcode: peldenderal
 name: {full: Peshdenderat, en: [The Dry Well of Shirvan, The Dry Well]}
 type: place
 subType: site
-description: "A stone-lipped well in a gallery of the Vurinkarvem cliff below Shirvan whose shaft drops far past the depth at which water ever stood, from which a voice answers questions for blood, and which feeds on the oasis it sits under."
-tags: [draft, haunted, well]
+description: "A stone-lipped well in a gallery of the Vurinkarvem cliff below Shirvan whose shaft drops far past the depth at which water ever stood, from which a voice answers questions for blood, under an oasis that is drying from its edges in."
+tags: [haunted, well]
 data:
   demonym: null
   lore: []
@@ -26,11 +26,14 @@ A drop of blood from the hand, let fall on the lip, is answered. The voice comes
 
 What it asks in return grows. A drop becomes a measure, a measure a cup, a cup a body drained. The voice is thin and polite and does not seem to want anything. The Tellumi who know of it say that it is not the dead and not a spirit. It is the [Tally]{.name data-type="being/creature"}, and what it counts is what a city owes.
 
-## The Sorcerer-Priest
+:::secret {title="The sorcerer-priest"}
 
 The quarter's secret is that the Tally has a servant. A Shekhul of the old rite comes to the well, the hidden one the Ozhmarod have hunted for ninety years. The hidden office has passed through three hands in that time, and he is the third. He is [Nurmelul]{.name data-type="being/npc"}, a lean grey man of sixty whose hands are scarred to the wrist. He holds the old observances in a back room of the lower town and teaches in secret, and he believes he is keeping the Tellumi alive. Every secret that has kept him hidden has come from the well, and every secret has been paid for in blood: his own at first, then the blood of volunteers from the quarter, who give it for the cause.
 
-The well takes more than it was given. The oasis is drying, slowly, from the edges in. The outer channels have lost a hand's breadth of flow, the date groves at the fringe of the town have thinned, and the great spring itself stands lower at the basin's edge than the old men remember. The water-masters have reset the channel-hours twice and do not know why.
+The well takes more than it was given, and the oasis pays for it.
+:::
+
+The oasis is drying, slowly, from the edges in. The outer channels have lost a hand's breadth of flow, the date groves at the fringe of the town have thinned, and the great spring itself stands lower at the basin's edge than the old men remember. The water-masters have reset the channel-hours twice and do not know why.
 
 ## What the City Says
 
@@ -56,4 +59,4 @@ The gallery lies below the level of the lower basin, at the foot of an old pilgr
 : the Ozhmarod who rule the city
 
 [[lore-theshadow|The Shadow]]
-: what the shaft goes down to
+: the chaos from outside creation

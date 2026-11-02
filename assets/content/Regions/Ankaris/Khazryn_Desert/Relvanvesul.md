@@ -34,9 +34,13 @@ The grave-gold has reached the tribes. A band of fifteen or twenty, Sovidur ride
 
 ## What Answers
 
-The dead of the trench are unreceived, some six hundred of them, which is enough to make a field. Left alone it would have been a quiet, thin one. It has been worked on. A field that has been dug into is thin whatever it was, and the dead come out of it.
+The dead of the trench are unreceived, some six hundred of them. For ninety years the wash gave no sign of them: no sound at the anniversary and nothing seen at dusk. Since the raiders cut into the trench, the dead come out of it.
 
-What comes out is not the household. [[lore-theshadow|The Shadow]] comes in by the opening the raiders have cut and puts on the dead as a man puts on a coat. The thing that stands up in the wash on a dark night wears a prince's chain and a cracked gold mask and moves with the stiff patience of a corpse that has been told what to do. It does not speak.
+:::secret {title="What wears the dead"}
+What comes out is not the household. [[lore-theshadow|The Shadow]] comes in by the opening the raiders have cut and puts on the dead as a man puts on a coat.
+:::
+
+The thing that stands up in the wash on a dark night wears a prince's chain and a cracked gold mask and moves with the stiff patience of a corpse that has been told what to do. It does not speak.
 
 The Atarzád fire-priests of the garrison say that only fire puts these dead down. They say it flatly, and they do not say how they know. A Zhoqarod Delkoshekh will give a party a fire-pot and a lamp kindled at the temple altar, on terms, and will not say what is owed.
 
@@ -61,10 +65,10 @@ The wash is a two-hour walk from the east gate over open gravel, no cover and no
 : the field of the riders, north of the walls
 
 [[lore-bloodfield|Blood-fields]]
-: what a field is, and what working one does
+: the ground where the dead are left unreceived
 
 [[lore-theshadow|The Shadow]]
-: what comes through where a field is cut
+: the corruption behind the walking dead
 
 [[lore-undead|Undead]]
 : the dead made to walk

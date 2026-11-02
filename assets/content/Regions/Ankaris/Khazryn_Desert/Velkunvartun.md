@@ -4,7 +4,7 @@ name: {full: Veshkunvartun, en: [The Gate of Veshkun, The Barred Gate]}
 type: place
 subType: site
 description: "The gate-court of old Vahurdash, restored as the night gate of the settlement that lives among the ruins: a cedar door hung back in its frame, barred every dusk against a knocking that has not once come from a living hand."
-tags: [draft, haunted, ruin]
+tags: [haunted, ruin]
 data:
   demonym: null
   lore: []
@@ -37,7 +37,9 @@ The knocking leaves marks. In the morning the outer face of the cedar is scored 
 
 ## The Dead Behind It
 
-The Gate-dead is not the [[lore-theshadow|Shadow's whole work]], but it is the Shadow's work. The dead of the record-house, the keepers who would not leave their cellar when the city emptied, died without a name read over them and have lain for five centuries unreceived. They were few, and a few dead do not tear the world. What they did was leave a gap, an oath in a mouth with nobody to take it back, and the Shadow came in by the gap, as it does wherever a rite is owed and unpaid. The undead of every land are the same corruption wearing a local face. This one wears the face of a man who kept an oath past sense.
+:::secret {title="The keepers of the record-house"}
+The Gate-dead is not the [[lore-theshadow|Shadow's whole work]], but it is the Shadow's work. The dead of the record-house, the keepers who would not leave their cellar when the city emptied, died without a name read over them and have lain for five centuries unreceived. They were few, and a few dead do not tear the world. What they did was leave a gap, an oath in a mouth with nobody to take it back, and the Shadow came in by the gap. The undead of every land are the same corruption wearing a local face. This one wears the face of a man who kept an oath past sense.
+:::
 
 It cannot enter a barred door. It can be answered. That is the danger of the gate and the reason the town does not sleep deeply.
 
@@ -61,7 +63,7 @@ The gate is entered from the north, over the open rim, or from the town side by 
 : the gate, the oath and the shield
 
 [[lore-theshadow|The Shadow]]
-: what comes in where a rite is owed
+: the corruption behind the walking dead
 
 [[lore-undead|Undead]]
 : the dead made to walk, by every people's account

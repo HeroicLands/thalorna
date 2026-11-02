@@ -4,7 +4,7 @@ name: {full: Tashbemsirvesh, en: [The Empty Tower]}
 type: place
 subType: site
 description: "A Tower of Silence on a bench of black stone north of Ashkarad that no priest of Azravan will approach, where the vultures sit in rows and do not feed and the dead on the platform lie as they were laid ninety years ago."
-tags: [draft, haunted, tower]
+tags: [haunted, tower]
 data:
   demonym: null
   lore: []
@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-A day's ride north of [[place-ashkarad|Ashkarad]], where the irrigated strip of [[place-swoasisbelt|Tellumel]] gives out and the black rock of [[place-dkrqrrgn|Diqraqor]] begins, a bench of dark stone carries a round tower of pale limestone sixty feet high, with no door at the ground and no window in its whole height. The Tellumi call it **Tashbemsirvesh**, "the forbidden tower". The caravan guides call it the Empty Tower, though nobody has ever seen it empty.
+A day's ride north of [[place-ashkarad|Ashkarad]], where the irrigated strip of [[place-swoasisbelt|Tellumel]] gives out and the black rock of [[place-dkrqrrgn|Diqraqor]] begins, a bench of dark stone carries a round tower of pale limestone sixty feet high, with no door at the ground and no window in its whole height. The Tellumi call it **Tashbemsirvesh**, "the forbidden tower". The caravan guides call it the Empty Tower, though nobody has ever seen it empty by day.
 
 It is a Tower of Silence. The Tellumi of Ashkarad and the farms around it have given their dead to the tower for as long as the city has had craft councils: the body carried up the stair by the Expositors, laid on the stone platform under the sky, and left to the vultures and the sun, while a Delkoshekh of [[affiliation-azravan|Azravan]] reads the [Prayer of Passage]{.name data-type="lore/custom"} and kindles the small fire on the ground below. The tower's rite is the same rite as the one at the great death-temples of [[affiliation-kngdmmrdd|Amradad]], and its stair is older than the conquest of the city by the [[affiliation-tribestrzd|Tribes of Atarzád]].
 
@@ -37,7 +37,9 @@ On some nights the platform is empty. Nobody has watched it become so. A shepher
 
 The tower has one entrance, a stone stair on the outside, narrow and without rail, that climbs to a door of bronze at the height of three men. Below the platform are a ring of chambers where the Expositors lived and kept the rite's records, and below those a round pit, the **well of bones**, where what the birds leave is swept after a year. The tower stands on a stone shelf, with a small enclosure on the east side where the mourners' fire is kindled.
 
+:::secret {title="What holds the dead"}
 [[lore-theshadow|The Shadow]] works through the opening that was made, as it works wherever a spirit is bound back into the flesh it has left; the Tower's dead are held in their bodies, and the undead of every land stem from the same corruption. Nothing about the Empty Tower is natural, and no one who has seen the Expositor's work believes that it was done for any reason but grief.
+:::
 
 ## Reaching It
 

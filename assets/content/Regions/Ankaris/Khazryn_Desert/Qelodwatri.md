@@ -4,7 +4,7 @@ name: {full: Kelodvotri, en: [The Cold Well]}
 type: place
 subType: site
 description: "An owned spring of twelve palms at the foot of a black mesa in the Ghoshiqor, whose tribe keeps a stone over its well and will not say what lives under it."
-tags: [draft, oasis, well, dreadspawn]
+tags: [oasis, well, dreadspawn]
 data: {demonym: null, lore: [], parents: [hskrrgn], population: 0, packFolder: khazryndesert}
 ---
 

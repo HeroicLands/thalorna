@@ -4,7 +4,7 @@ name: {full: Bolidqiiso, en: [The Counting-House Tower, The Price-Tower]}
 type: place
 subType: site
 description: "A counting-house tower of the Tower League in a street of Vulud that the dunes have uncovered, with its balances, its strongroom and the stone watchman that still keeps its door."
-tags: [draft, ruin, tower, construct]
+tags: [ruin, tower, construct]
 data: {demonym: null, lore: [], parents: [wilud], population: 0, packFolder: khazryndesert}
 ---
 
@@ -29,7 +29,7 @@ The vaults under the weighing hall are full of sand that has come up from below,
 
 ## The Watchman
 
-A stone figure stands beside the shaded doorway, or at the foot of the inner stair, and the crews who have been inside have found it in both places. It is man-high and broad, with its hands held out before it, palms up. Its face, its shoulders and the signs cut over its body are worn almost smooth by two thousand years of sand. Its hands are polished bright. It is a [[lore-golemcrtr|construct]], set by the league to keep the counting-house, and the Uruvolur call it [Sovidiqraq]{.name data-type="being/creature"}, "the stone escort".
+A stone figure stands beside the shaded doorway, or at the foot of the inner stair, and the crews who have been inside have found it in both places. It is man-high and broad, with its hands held out before it, palms up. Its face, its shoulders and the signs cut over its body are worn almost smooth by centuries of sand. Its hands are polished bright. It is a [[lore-golemcrtr|construct]], set by the league to keep the counting-house, and the Uruvolur call it [Sovidiqraq]{.name data-type="being/creature"}, "the stone escort".
 
 :::secret {title="The polished palms"}
 The palms are polished by seals. For as long as the house was worked, every porter who carried a load out laid its seal in the figure's open hands as he passed, and it lowered its hands and let him by. Its hands are held out for a seal, not for a throat.
@@ -44,7 +44,7 @@ The league's writing has never been read, and the signs on the watchman can be r
 - **They say** it does not cross a threshold out of the counting-house: not the service door, not the lamp-stair, and not the shaded entrance once the sand has filled it.
 - **The market at [[place-qisomrktcmp|Qiiso]]** says a whole seal of the league is a pass, and that the figure does not trouble anyone who holds one up to it. A collector there pays more for a whole seal than for a broken one on the strength of it.
 - **The tellers who have seen the palms close** say the signs that bind it are cut into its palms, which is why they are not worn away, and that a construct whose signs are broken stops.
-- [Uruvolun]{.name data-type="being/npc"} tells the street at the fire at Qiiso as the street she sold twice. Her tale has a counting-house door at the end of the street, which the Tantsou collector's men reached first, and has them carry out seals and weights of the counting-house while she waited at the street. The Uruvolur say Bolidqiiso is that door, and that the Tantsou's men were the first into the house in two thousand years. In the tale both buyers went home content.
+- [Uruvolun]{.name data-type="being/npc"} tells the street at the fire at Qiiso as the street she sold twice. Her tale has a counting-house door at the end of the street, which the Tantsou collector's men reached first, and has them carry out seals and weights of the counting-house while she waited at the street. The Uruvolur say Bolidqiiso is that door, and that the Tantsou's men were the first into the house since the league left it. In the tale both buyers went home content.
 
 ## Treasure
 
@@ -80,7 +80,7 @@ The street lies on the eastern side of the city, open for a few years at most be
 
 # The Truth of Bolidqiiso {#truth .secret}
 
-**What the watchman keeps.** Sovidiqraq keeps the house's goods, not its door. The league set it to hold every load weighed and entered here until the string that owned it came for it, and it holds them still: the bronze weights in the counting-floor balances, the lamp-glass in its straw, the engraved seals on the strongroom shelves and the silver under the strongroom flags. No owner has come in two thousand years. It takes no notice of anyone who carries nothing of the house's, and it hunts whatever of the house's is carried.
+**What the watchman keeps.** Sovidiqraq keeps the house's goods, not its door. The league set it to hold every load weighed and entered here until the string that owned it came for it, and it holds them still: the bronze weights in the counting-floor balances, the lamp-glass in its straw, the engraved seals on the strongroom shelves and the silver under the strongroom flags. No owner has come in all the centuries since. It takes no notice of anyone who carries nothing of the house's, and it hunts whatever of the house's is carried.
 
 **The seal.** A load leaves a league house lawfully under a whole seal: a disk of the league's dark wax pressed with an engraved trade seal and fixed to the load. Sovidiqraq lets a sealed load go, and lets its carrier go with it, because a sealed load is a load released to its owner's man. A whole seal covers the one load it is fixed to or held against, and nothing else:
 
@@ -104,7 +104,7 @@ When the wind drops it lifts the blocks from the service door and goes back to t
 
 **The binding.** The signs that bind it are cut into its palms, which are polished and not worn. Break them with a chisel or a bar and it stops where it stands with its hands still open. Buried in the vaults or hauled to the roof in the great pan, it is still bound, and it works its way back to its doorway within a season.
 
-**Four years ago.** Bolidqiiso's street is the street of Uruvolun's tale. Her second sale of the news went to the Tantsou collector at Qiiso, whose men reached the street first and forced the counting-house door, the first to open it in two thousand years. On the counting floor they found the last loads the house still held for their owners, caskets of bronze weights each under a whole seal, and carried them out on a still day past the figure at the doorway. Sovidiqraq let them go, because every load they carried was sealed. They broke the seals at their camp and sold seals and weights at Qiiso, and they went home content without knowing why nothing touched them. The tale is true as told. Every sealed load in the house went out with them, and everything left in it is unsealed.
+**Four years ago.** Bolidqiiso's street is the street of Uruvolun's tale. Her second sale of the news went to the Tantsou collector at Qiiso, whose men reached the street first and forced the counting-house door, the first to open it since the league left. On the counting floor they found the last loads the house still held for their owners, caskets of bronze weights each under a whole seal, and carried them out on a still day past the figure at the doorway. Sovidiqraq let them go, because every load they carried was sealed. They broke the seals at their camp and sold seals and weights at Qiiso, and they went home content without knowing why nothing touched them. The tale is true as told. Every sealed load in the house went out with them, and everything left in it is unsealed.
 
 **Who is inside this season.** The Bizarian factor's crew of three came in two days before the storm.
 

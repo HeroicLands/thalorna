@@ -4,7 +4,7 @@ name: {full: Relvanninesh, en: [The Glass Princes' Palace, The Palace of Glass]}
 type: place
 subType: site
 description: "The palace of the cadet house of Nimeshun, a line of mirror-makers and minor princes of the Ashkarad craft house, standing in a fused-glass ruin at the failed edge of the belt, where the last prince's household still sits at table exactly as the Breaking found it."
-tags: [draft, haunted, ruin]
+tags: [haunted, ruin]
 data:
   demonym: null
   lore: []
@@ -29,17 +29,20 @@ A traveler who enters the gate is welcomed by the steward, given water to wash a
 ## What the Tribes Say
 
 - **The edge-tribes.** The Sovidur who graze the failed ground say the house was taken by a bargain, that the sand under it is awake and that a stranger who stays three nights does not leave with the years he came with. They bury animals that wander near.
-- The [Teghumod]{.name data-type="affiliation"}. The merchant tribe that took Ashkarad has a caravan road that bends three days around the hill. An old factor will say that a Teghumod column rode up in the fifth year and was seen to ride away again at once, burned the wells and said nothing of what it found.
+- The [Teghumod]{.name data-type="affiliation"}. The merchant tribe that took Ashkarad has a caravan road that bends three days around the hill. The tribe's old factors tell of a Teghumod column that rode up in the fifth year, rode away again at once, burned the wells and said nothing of what it found.
 - **The craft quarter.** The families of Ashkarad whose grandfathers made glass for the house say the princes were good lords and bad at bargains. A woman in the quarter keeps a silvered mirror from the palace, and it shows nothing of the room it hangs in.
 - **The exile house.** The [House of Ashkarad]{.name data-type="affiliation/lineage"} in the [[affiliation-kngdmmrdd|Kingdom of Amradad]] is kin to the line, and does not discuss it.
 
+:::secret {title="The east wing and the ledgers"}
 The reflections in the east wing show every guest who has slept there, some nine hundred in ninety years, and the ledgers shelved in a vault under the cistern list them by name and the years each gave. The same ledgers record silver sent each midwinter to the House of Ashkarad at Amradad.
+:::
 
-## The Bargain
+:::secret {title="The bargain"}
 
 The last prince, Garmelul, faced the loss of everything: the oasis, the palace, the line itself. Beneath the palace, in a cistern cut into the rock to hold the house's furnace-water, the sand had fused around a vein of black glass that the princes had never been able to cut. In the fifth year of [The Breaking]{.name data-type="lore/history"} he went down to it and spoke, and it answered.
 
 Something lives under the sands, and the Tellumi who know of it call it the [Tenant]{.name data-type="being/creature"}. It is not a god, a spirit or an elemental. It is a piece of the outside, the same stuff that [[lore-theshadow|the Shadow]] is, brought up into the world in a seam of stone, and it has been waiting for a mouth. It gave the house what it asked. The line would survive, whole and unchanged, as long as the house was unbroken. In return the Tenant takes what the house can give, which is the one thing the house has never refused: guests.
+:::
 
 ## Reaching It
 
@@ -54,7 +57,7 @@ The palace stands on a hill in open ground. There is no shade and no water withi
 : the law of the guest the house keeps
 
 [[lore-theshadow|The Shadow]]
-: the outside stuff the Tenant is made of
+: the chaos from outside creation
 
 [[affiliation-tribestrzd|Tribes of Atarzád]]
 : the conquerors who found the household at table
