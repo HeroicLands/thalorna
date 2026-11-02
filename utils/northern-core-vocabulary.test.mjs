@@ -32,7 +32,7 @@ const read = (file) => {
     const raw = fs.readFileSync(file, "utf8");
     return { file, raw, fm: YAML.parse(splitFrontmatter(raw).yaml) };
 };
-const language = read("assets/content/Skills/Languages/Nordmal.md");
+const language = read("assets/content/Skills/Languages/Nordmal_Language.md");
 const inventory = read("assets/content/Reference/Core_Vocabulary.md");
 const expected = new Set(inventory.fm.data.concepts.map(({ id }) => id));
 const glossary = new Set(
@@ -211,7 +211,7 @@ test("configured Nordmal runs use the real Thuravark wordbook, face and glyph ou
     const { renderRuns } = await import("@heroiclands/package-build/engine/content-scripts");
     const { fontOutlines } = await import("@heroiclands/package-build/engine/font-outlines");
     const { resolveScriptFonts } = await import("@heroiclands/package-build/engine/script-fonts");
-    const spelling = read("assets/content/Lore/Scripts/Thuravark_Spelling.md");
+    const spelling = read("assets/content/Lore/Scripts/Nordmal_Thuravark_Encoding.md");
     const config = YAML.parse(fs.readFileSync("package-build.config.yaml", "utf8"));
     const [key, configured] = Object.entries(config.languages).find(
         ([, value]) => value.note === `skill-${language.fm.shortcode}`,
@@ -300,7 +300,7 @@ test("new Nordmal citations preserve interpreted old word and name pieces", asyn
         assert.equal(after(form), before(form), `${form}: original name/word-piece meaning`);
 });
 
-const varokhi = read("assets/content/Skills/Languages/Varokhi.md");
+const varokhi = read("assets/content/Skills/Languages/Varokhi_Language.md");
 test("Varokhi independently expresses every inventory concept in its own dictionary", () => {
     const actual = new Set(
         varokhi.fm.data.words
@@ -446,7 +446,7 @@ test("Varokhi uses its real Semaron face, configured wordbook and drawable glyph
     const { renderRuns } = await import("@heroiclands/package-build/engine/content-scripts");
     const { resolveScriptFonts } = await import("@heroiclands/package-build/engine/script-fonts");
     const { fontOutlines } = await import("@heroiclands/package-build/engine/font-outlines");
-    const spelling = read("assets/content/Lore/Scripts/Semaron_Spelling.md");
+    const spelling = read("assets/content/Lore/Scripts/Elavendri_Semaron_Encoding.md");
     const config = YAML.parse(fs.readFileSync("package-build.config.yaml", "utf8"));
     const [key, configured] = Object.entries(config.languages).find(
         ([, s]) => s.note === `skill-${varokhi.fm.shortcode}`,

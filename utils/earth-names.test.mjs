@@ -59,13 +59,16 @@ test("whole words and in-world vocabulary pass", () => {
 });
 
 test("the Terran analogs note and terran_analog comments are exempt", () => {
-    assert.deepEqual(findEarthNames("assets/content/Reference/Terran_Analogs.md", "Rome"), []);
+    assert.deepEqual(
+        findEarthNames("assets/content/Reference/Terran_Analogs_Reference.md", "Rome"),
+        [],
+    );
     assert.deepEqual(findEarthNames("a.md", "# terran_analog: Rome, Norse"), []);
     assert.equal(findEarthNames("a.md", "Rome").length, 1);
 });
 
 test("the reader's languages are refused even where Earth names are exempt", () => {
-    const analogs = "assets/content/Reference/Terran_Analogs.md";
+    const analogs = "assets/content/Reference/Terran_Analogs_Reference.md";
     assert.equal(findEarthNames("a.md", "# terran_analog: the Latin of Rome").length, 1);
     assert.equal(findEarthNames("a.md", "# terran_analog: latin").length, 1);
     assert.equal(findEarthNames(analogs, "French").length, 1);
@@ -148,8 +151,8 @@ test("an encoding note's glyph mappings and rules are read past", () => {
 
 test("Aelwythi technical pronunciation and encoding references may name reference languages", () => {
     for (const file of [
-        "assets/content/Skills/Languages/Aelwythi.md",
-        "assets/content/Lore/Scripts/Aelwythi_Semaron_Spelling.md",
+        "assets/content/Skills/Languages/Aelwythi_Language.md",
+        "assets/content/Lore/Scripts/Aelwythi_Semaron_Encoding.md",
     ])
         assert.deepEqual(findEarthNames(file, "English, Roman and Scottish"), []);
     assert.ok(findEarthNames("assets/content/Lore/Cultures/Aelwythan/Story.md", "English").length);

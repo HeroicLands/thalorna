@@ -12,7 +12,7 @@ const read = (file) => {
     const raw = fs.readFileSync(file, "utf8");
     return { file, raw, fm: YAML.parse(splitFrontmatter(raw).yaml) };
 };
-const language = read("assets/content/Skills/Languages/Osket.md");
+const language = read("assets/content/Skills/Languages/Osket_Language.md");
 const inventory = read("assets/content/Reference/Core_Vocabulary.md");
 const eligible = new Set(WORD_CLASS_BASES.filter((x) => x.glossary).map((x) => x.token));
 const words = language.fm.data.words;

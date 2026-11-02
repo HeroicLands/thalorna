@@ -24,9 +24,11 @@ const read = (file) => {
     const raw = fs.readFileSync(file, "utf8");
     return { file, raw, fm: YAML.parse(splitFrontmatter(raw).yaml) };
 };
-const language = read(process.env.KALIHARI_PATH ?? "assets/content/Skills/Languages/Kalihari.md");
+const language = read(
+    process.env.KALIHARI_PATH ?? "assets/content/Skills/Languages/Kalihari_Language.md",
+);
 const inventory = read("assets/content/Reference/Core_Vocabulary.md");
-const port = read("assets/content/Skills/Languages/Valtari.md");
+const port = read("assets/content/Skills/Languages/Valtari_Language.md");
 const notes = [language, inventory, port];
 const canonical = (value) =>
     renderAddress(
@@ -132,7 +134,7 @@ test("Kalihari declarations preserve invariant words and real source references"
 
 test("Kalihari uses its configured Roman wordbook without an invented native map or Earth model", async () => {
     assert.equal(language.fm.data.writtenIn, undefined);
-    assert.deepEqual(SOURCES["Kalihari.md"] ?? [], []);
+    assert.deepEqual(SOURCES["Kalihari_Language.md"] ?? [], []);
     const { renderRuns, runContext, scanRuns } =
         await import("@heroiclands/package-build/engine/content-scripts");
     const config = YAML.parse(fs.readFileSync("package-build.config.yaml", "utf8")),

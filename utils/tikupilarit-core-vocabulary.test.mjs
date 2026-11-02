@@ -8,7 +8,7 @@ import { splitFrontmatter } from "@heroiclands/package-build/engine/diagnostics"
 import { parseWordClass, WORD_CLASS_BASES } from "@heroiclands/package-build/engine/word-classes";
 
 const read = (file) => YAML.parse(splitFrontmatter(fs.readFileSync(file, "utf8")).yaml);
-const language = read("assets/content/Skills/Languages/Tikupilarit.md");
+const language = read("assets/content/Skills/Languages/Tikupilarit_Language.md");
 const inventory = read("assets/content/Reference/Core_Vocabulary.md");
 const eligible = new Set(WORD_CLASS_BASES.filter((x) => x.glossary).map((x) => x.token));
 const words = language.data.words;

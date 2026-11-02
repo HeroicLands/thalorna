@@ -81,7 +81,7 @@ test("glosses sharing a content word mean the same, and unrelated ones do not", 
 });
 
 test("words are read with their line and column", () => {
-    const file = note("Vylari.md", [["aqua", "water"]]);
+    const file = note("Vylari_Language.md", [["aqua", "water"]]);
     assert.deepEqual(formsOf(fs.readFileSync(file, "utf8")), [
         { form: "aqua", gloss: "water", line: 5, column: 13 },
     ]);
@@ -97,7 +97,7 @@ function fullNote(name, { words = "", names = "", register = "" }) {
 }
 
 test("a word's variants are read with their positions and the word's gloss", () => {
-    const file = fullNote("Vylari.md", {
+    const file = fullNote("Vylari_Language.md", {
         words: '    - form: aquor\n      variants: [aqua, "via"]\n      class: n\n      gloss: "water"',
     });
     assert.deepEqual(formsOf(fs.readFileSync(file, "utf8")), [
@@ -110,7 +110,7 @@ test("a word's variants are read with their positions and the word's gloss", () 
 test("a variant that is a whole Earth word is an error, unless the owner has ruled to keep it", () => {
     const root = path.join(dir, "variants");
     write("variants/old-norse.txt", "jarl\nhrafn\n");
-    const file = fullNote("Nordmal.md", {
+    const file = fullNote("Nordmal_Language.md", {
         words: "    - form: hrevn\n      variants: [hrafn, jarl]\n      class: n\n      gloss: a raven",
     });
     const { status, err } = run(["--wordlists", root, file]);
@@ -120,7 +120,7 @@ test("a variant that is a whole Earth word is an error, unless the owner has rul
 });
 
 test("name lists and native register names are read, with their positions", () => {
-    const file = fullNote("Vylari.md", {
+    const file = fullNote("Vylari_Language.md", {
         names: [
             '    pattern: "{given} {clan}"',
             "    given:",
@@ -155,16 +155,18 @@ test("name lists and native register names are read, with their positions", () =
 });
 
 test("a name-list entry that is a whole Earth word is an error at its position", () => {
-    const file = fullNote("Vylari.md", {
+    const file = fullNote("Vylari_Language.md", {
         names: ["    pattern: x", "    given:", "      female:", "        - Aqua"].join("\n"),
     });
     const { status, err } = run(["--wordlists", lists(), file]);
     assert.equal(status, 1);
-    assert.deepEqual(err, ['notes/Vylari.md:8:11: error: "Aqua" is a word of the latin list']);
+    assert.deepEqual(err, [
+        'notes/Vylari_Language.md:8:11: error: "Aqua" is a word of the latin list',
+    ]);
 });
 
 test("a native register name is an error and a translation is not", () => {
-    const file = fullNote("Vylari.md", {
+    const file = fullNote("Vylari_Language.md", {
         register: [
             "    - {name: aqua, tongue: vylari}",
             "    - {name: via, tongue: translation}",
@@ -172,7 +174,9 @@ test("a native register name is an error and a translation is not", () => {
     });
     const { status, err } = run(["--wordlists", lists(), file]);
     assert.equal(status, 1);
-    assert.deepEqual(err, ['notes/Vylari.md:5:14: error: "aqua" is a word of the latin list']);
+    assert.deepEqual(err, [
+        'notes/Vylari_Language.md:5:14: error: "aqua" is a word of the latin list',
+    ]);
 });
 
 test("apostrophe-like letters are dropped", () => {
@@ -243,14 +247,14 @@ test("a form the owner has ruled to keep is not reported, in its own note only",
     const root = path.join(dir, "ruled");
     write("ruled/old-norse.txt", "jarl\nhrafn\n");
     write("ruled/old-saxon.txt", "jarl\n");
-    const kept = note("Nordmal.md", [
+    const kept = note("Nordmal_Language.md", [
         ["jarl", "a lord"],
         ["hrafn", "a raven"],
     ]);
     const first = run(["--wordlists", root, kept]);
     assert.equal(first.err.length, 1, first.err.join("\n"));
     assert.match(first.err[0], /"hrafn"/);
-    const elsewhere = note("Varokhi.md", [["jarl", "a lord"]]);
+    const elsewhere = note("Varokhi_Language.md", [["jarl", "a lord"]]);
     const second = run(["--wordlists", root, elsewhere]);
     assert.equal(second.err.length, 1, second.err.join("\n"));
 });
@@ -375,17 +379,20 @@ test("where meaning is required a different meaning is not reported and the same
 });
 
 test("a whole-word collision is reported at its position and fails the run", () => {
-    const file = note("Vylari.md", [["aquä", "a flame"]]);
+    const file = note("Vylari_Language.md", [["aquä", "a flame"]]);
     const { status, err } = run(["--wordlists", lists(), file]);
     assert.equal(status, 1);
     assert.equal(err.length, 1);
-    assert.match(err[0], /notes\/Vylari\.md:5:13: error: "aquä" is a word of the latin list/);
+    assert.match(
+        err[0],
+        /notes\/Vylari_Language\.md:5:13: error: "aquä" is a word of the latin list/,
+    );
 });
 
 test("Tantsou and Jurthat words collide only when the meaning agrees", () => {
-    const other = note("Tantsou.md", [["aqua", "a flame"]]);
+    const other = note("Tantsou_Language.md", [["aqua", "a flame"]]);
     assert.equal(run(["--wordlists", lists(), other]).status, 0);
-    const same = note("Jurthat.md", [["aqua", "water"]]);
+    const same = note("Jurthati_Language.md", [["aqua", "water"]]);
     write("lists/japanese.txt", "aqua\n");
     write("lists/japanese.tsv", "aqua\tnoun\twater\n");
     const { status, err } = run(["--wordlists", lists(), same]);
@@ -396,7 +403,7 @@ test("Tantsou and Jurthat words collide only when the meaning agrees", () => {
 test("Khazari reports whole Khuzdul words regardless of gloss and ignores stems and other models", () => {
     const root = lists();
     write("lists/khuzdul.txt", "kibil\n");
-    const file = note("Khazari.md", [
+    const file = note("Khazari_Language.md", [
         ["kibíl", "an unrelated meaning"],
         ["kibilron", "a compound"],
         ["kibil-", "a stem"],
@@ -405,7 +412,9 @@ test("Khazari reports whole Khuzdul words regardless of gloss and ignores stems 
     ]);
     const { status, err, out } = run(["--wordlists", root, file]);
     assert.equal(status, 1);
-    assert.deepEqual(err, ['notes/Khazari.md:5:13: error: "kibíl" is a word of the khuzdul list']);
+    assert.deepEqual(err, [
+        'notes/Khazari_Language.md:5:13: error: "kibíl" is a word of the khuzdul list',
+    ]);
     assert.deepEqual(out, ["5 words compared: 1 error(s)"]);
 });
 
@@ -419,7 +428,7 @@ test("a language with no model has no check", () => {
 test("with no word lists the check says so once on stderr and exits 0", () => {
     const empty = path.join(dir, "empty");
     fs.mkdirSync(empty, { recursive: true });
-    const file = note("Vylari.md", [["aquä", "water"]]);
+    const file = note("Vylari_Language.md", [["aquä", "water"]]);
     const { status, err, out } = run(["--wordlists", empty, file]);
     assert.equal(status, 0);
     assert.deepEqual(err, [`Earth-word checks skipped: no word lists at ${empty}`]);
@@ -434,7 +443,7 @@ test("a directory that does not exist is skipped the same way", () => {
 });
 
 test("the environment variable names the directories", () => {
-    const file = note("Vylari.md", [["aquä", "water"]]);
+    const file = note("Vylari_Language.md", [["aquä", "water"]]);
     const { status } = run([file], { KHAZRYN_WORDLISTS: lists() });
     assert.equal(status, 1);
 });

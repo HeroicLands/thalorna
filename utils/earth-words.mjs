@@ -87,49 +87,49 @@ const SAME_MEANING = 0.5;
  * model and no check.
  */
 export const SOURCES = {
-    "Aelendi.md": ["welsh", "old-irish"],
+    "Aelendi_Language.md": ["welsh", "old-irish"],
     // Aelwythi speech is rendered in an older register of the reader's language.
-    "Atarzadi.md": ["persian"],
-    "Bethuan.md": ["ancient-greek", "arabic"],
-    "Byzarian.md": ["ancient-greek", "persian", "turkish"],
-    "Dunhari.md": ["persian", "arabic"],
-    "Ekpelu.md": ["ubangian"],
-    "Elavendri.md": ["old-french", "breton"],
-    "Helonic.md": ["ancient-greek"],
-    "Jurthat.md": ["japanese"],
+    "Atarzadi_Language.md": ["persian"],
+    "Bethuan_Language.md": ["ancient-greek", "arabic"],
+    "Bizarian_Language.md": ["ancient-greek", "persian", "turkish"],
+    "Dunhari_Language.md": ["persian", "arabic"],
+    "Ekpelu_Language.md": ["ubangian"],
+    "Elavendri_Language.md": ["old-french", "breton"],
+    "Helonic_Language.md": ["ancient-greek"],
+    "Jurthati_Language.md": ["japanese"],
     // The word lists hold no kwakwala or nuu-chah-nulth list, so a Kelwanuk coinage is checked by reading.
     // The word lists hold no cree list, and the Kawiskak note states names only, so its coinages are checked by reading.
-    "Kawiskak.md": ["cree"],
-    "Kelwanuk.md": ["kwakwala", "nuu-chah-nulth"],
-    "Khazari.md": ["khuzdul"],
-    "Tellumi.md": ["sogdian", "tajik", "hebrew"],
-    "Khelathi.md": ["egyptian"],
-    "Ki.i.chek.md": ["yucatec-maya"],
-    "Nordmal.md": ["old-norse"],
-    "Nyaluban.md": ["sotho-tswana", "shona"],
-    "Okharic.md": ["tamazight", "hausa"],
+    "Kawiskak_Language.md": ["cree"],
+    "Kelwanuk_Language.md": ["kwakwala", "nuu-chah-nulth"],
+    "Khazari_Language.md": ["khuzdul"],
+    "Tellumi_Language.md": ["sogdian", "tajik", "hebrew"],
+    "Khelathi_Language.md": ["egyptian"],
+    "Kiichek_Language.md": ["yucatec-maya"],
+    "Nordmal_Language.md": ["old-norse"],
+    "Nyaluban_Language.md": ["sotho-tswana", "shona"],
+    "Okharik_Language.md": ["tamazight", "hausa"],
     // The word lists hold no mohawk or seneca list, so an Osetakona coinage is checked by reading.
-    "Osetakona.md": ["mohawk", "seneca"],
-    "Provenzal.md": ["occitan", "galician", "portuguese"],
+    "Osetakona_Language.md": ["mohawk", "seneca"],
+    "Provenzal_Language.md": ["occitan", "galician", "portuguese"],
     // The word lists hold no chumash list, so a Shuqash coinage is checked by reading.
-    "Shuqash.md": ["barbareno-chumash", "ventureno-chumash"],
-    "Sinale.md": ["finnish"],
-    "Sowides.md": ["mongolian", "turkish"],
-    "Tantsou.md": ["chinese"],
-    "Taruzeli.md": ["akkadian", "phoenician"],
+    "Shuqash_Language.md": ["barbareno-chumash", "ventureno-chumash"],
+    "Sinale_Language.md": ["finnish"],
+    "Sovidur_Language.md": ["mongolian", "turkish"],
+    "Tantsou_Language.md": ["chinese"],
+    "Taruzeli_Language.md": ["akkadian", "phoenician"],
     // The word lists hold no hopi list, so a Teyumi coinage is checked by reading.
-    "Teyumi.md": ["hopi"],
+    "Teyumi_Language.md": ["hopi"],
     // The word lists hold no lakota list, so a Tenlaya coinage is checked by reading.
-    "Tenlaya.md": ["lakota"],
+    "Tenlaya_Language.md": ["lakota"],
     // The word lists hold no yupik list, so a Tikupilarit coinage is checked by reading.
-    "Tikupilarit.md": ["central-alaskan-yupik"],
+    "Tikupilarit_Language.md": ["central-alaskan-yupik"],
     // The word lists hold no mvskoke or choctaw list, so a Tokchili coinage is checked by reading.
-    "Tokchili.md": ["mvskoke", "choctaw"],
-    "Tarveni.md": ["spanish", "basque"],
-    "Valtari.md": ["lingua-franca"],
-    "Varokhi.md": ["old-high-german", "old-saxon"],
-    "Vedyari.md": ["sanskrit", "hindi"],
-    "Vylari.md": ["latin"],
+    "Tokchili_Language.md": ["mvskoke", "choctaw"],
+    "Tarveni_Language.md": ["spanish", "basque"],
+    "Valtari_Language.md": ["lingua-franca"],
+    "Varokhi_Language.md": ["old-high-german", "old-saxon"],
+    "Vedyari_Language.md": ["sanskrit", "hindi"],
+    "Vylari_Language.md": ["latin"],
 };
 
 /**
@@ -137,14 +137,20 @@ export const SOURCES = {
  * language note, each with the reason.
  */
 export const RULED_KEPT = new Map([
-    ["Nordmal.md", new Map([["jarl", "English as well as Old Norse, the Nordmen's rank"]])],
-    ["Ki.i.chek.md", new Map([["ha'nal", "the root of the place name Ha'nal Shi'lan"]])],
-    ["Byzarian.md", new Map([["pluma", "the spelling The Sayings of the First Warden quotes"]])],
-    ["Sinale.md", new Map([["sahke", "the spelling The Seven Towers quotes"]])],
+    [
+        "Nordmal_Language.md",
+        new Map([["jarl", "English as well as Old Norse, the Nordmen's rank"]]),
+    ],
+    ["Kiichek_Language.md", new Map([["ha'nal", "the root of the place name Ha'nal Shi'lan"]])],
+    [
+        "Bizarian_Language.md",
+        new Map([["pluma", "the spelling The Sayings of the First Warden quotes"]]),
+    ],
+    ["Sinale_Language.md", new Map([["sahke", "the spelling The Seven Towers quotes"]])],
 ]);
 
 /** The notes whose words collide only when the meaning agrees as well as the form. */
-export const MEANING_REQUIRED = new Set(["Tantsou.md", "Jurthat.md"]);
+export const MEANING_REQUIRED = new Set(["Tantsou_Language.md", "Jurthati_Language.md"]);
 
 /** Function words and dictionary labels a gloss's meaning does not rest on. */
 const GLOSS_STOPWORDS = new Set(

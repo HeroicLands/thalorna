@@ -31,9 +31,11 @@ const read = (file) => {
     const raw = fs.readFileSync(file, "utf8");
     return { file, raw, fm: YAML.parse(splitFrontmatter(raw).yaml) };
 };
-const language = read(process.env.VEDYARI_PATH ?? "assets/content/Skills/Languages/Vedyari.md");
+const language = read(
+    process.env.VEDYARI_PATH ?? "assets/content/Skills/Languages/Vedyari_Language.md",
+);
 const inventory = read("assets/content/Reference/Core_Vocabulary.md");
-const spelling = read("assets/content/Lore/Scripts/Vedyakshara_Spelling.md");
+const spelling = read("assets/content/Lore/Scripts/Vedyari_Vedyakshara_Encoding.md");
 const notes = [language, inventory, spelling];
 const records = notes.map(({ fm, file }) => ({ ...fm, file, package: "thalorna", system: "note" }));
 const ids = (word) => [word.concept ?? []].flat();

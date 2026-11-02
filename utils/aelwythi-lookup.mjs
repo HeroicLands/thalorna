@@ -109,7 +109,10 @@ function main() {
         const parsed = parseArgs({
             allowPositionals: true,
             options: {
-                note: { type: "string", default: "assets/content/Skills/Languages/Aelwythi.md" },
+                note: {
+                    type: "string",
+                    default: "assets/content/Skills/Languages/Aelwythi_Language.md",
+                },
                 guide: { type: "boolean" },
                 limit: { type: "string", default: "10" },
                 help: { type: "boolean", short: "h" },

@@ -29,7 +29,7 @@ function records() {
             type: "skill",
             subType: "language",
             shortcode: "sinalelng",
-            file: { path: "Skills/Languages/Sinale.md" },
+            file: { path: "Skills/Languages/Sinale_Language.md" },
             address: { canonical: "thalorna-note-skill-sinalelng" },
             data: {
                 words: [{ form: "pa", gloss: "test" }],
@@ -41,7 +41,7 @@ function records() {
             package: "thalorna",
             type: "doc",
             shortcode: "sinaveldikkoenc",
-            file: { path: "Lore/Scripts/Veldikko_Spelling.md" },
+            file: { path: "Lore/Scripts/Sinale_Veldikko_Encoding.md" },
             data: { language: "sina", font: "veldikko", ...generateEncoding("sinale") },
         },
     ];
@@ -302,10 +302,10 @@ test("CLI checks both indexed languages and keeps the summary and exit status", 
     const aele = structuredClone(values[0]);
     aele.shortcode = "aelendlng";
     aele.address.canonical = "thalorna-note-skill-aelendlng";
-    aele.file.path = "Skills/Languages/Aelendi.md";
+    aele.file.path = "Skills/Languages/Aelendi_Language.md";
     const map = structuredClone(values[1]);
     map.shortcode = "aeleveldikkoenc";
-    map.file.path = "Lore/Scripts/Veldikko_Aelendi_Spelling.md";
+    map.file.path = "Lore/Scripts/Aelendi_Veldikko_Encoding.md";
     map.data = { language: "aele", font: "veldikko", ...generateEncoding("aelendi") };
     const { index } = fixture(t, [...values, aele, map]);
     const result = spawnSync(process.execPath, ["utils/veldikko-guard.mjs", "--index", index], {

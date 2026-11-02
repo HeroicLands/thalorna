@@ -24,8 +24,8 @@ import { resolveScriptFonts } from "@heroiclands/package-build/engine/script-fon
 import { fileURLToPath } from "node:url";
 
 export const NOTES = [
-    { tongue: "sinale", file: "assets/content/Lore/Scripts/Veldikko_Spelling.md" },
-    { tongue: "aelendi", file: "assets/content/Lore/Scripts/Veldikko_Aelendi_Spelling.md" },
+    { tongue: "sinale", file: "assets/content/Lore/Scripts/Sinale_Veldikko_Encoding.md" },
+    { tongue: "aelendi", file: "assets/content/Lore/Scripts/Aelendi_Veldikko_Encoding.md" },
 ];
 
 const L = {

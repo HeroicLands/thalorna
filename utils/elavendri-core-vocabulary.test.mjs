@@ -27,9 +27,11 @@ const read = (file) => {
     const raw = fs.readFileSync(file, "utf8");
     return { file, raw, fm: YAML.parse(splitFrontmatter(raw).yaml) };
 };
-const language = read(process.env.ELAVENDRI_PATH ?? "assets/content/Skills/Languages/Elavendri.md");
-const parent = read("assets/content/Skills/Languages/Aelendi.md");
-const imperial = read("assets/content/Skills/Languages/Vylari.md");
+const language = read(
+    process.env.ELAVENDRI_PATH ?? "assets/content/Skills/Languages/Elavendri_Language.md",
+);
+const parent = read("assets/content/Skills/Languages/Aelendi_Language.md");
+const imperial = read("assets/content/Skills/Languages/Vylari_Language.md");
 const inventory = read("assets/content/Reference/Core_Vocabulary.md");
 const notes = [language, parent, imperial, inventory];
 const canonical = (value) =>
@@ -164,7 +166,7 @@ test("Élavendri declarations use the installed word and frontmatter contracts",
 });
 
 test("ordinary core expressions have actual Semaron outlines", () => {
-    const spelling = read("assets/content/Lore/Scripts/Semaron_Spelling.md");
+    const spelling = read("assets/content/Lore/Scripts/Elavendri_Semaron_Encoding.md");
     const map = encodingReference("elav").encoding;
     const face = resolveScriptFonts(process.cwd()).faces.get(map.font);
     const outlines = fontOutlines(face.file);
@@ -202,7 +204,7 @@ test("Élavendri publishes nearest meanings and recognizes inherited words in ma
                 `visible sense: ${word.form}`,
             );
     }
-    const spelling = read("assets/content/Lore/Scripts/Semaron_Spelling.md");
+    const spelling = read("assets/content/Lore/Scripts/Elavendri_Semaron_Encoding.md");
     const config = YAML.parse(fs.readFileSync("package-build.config.yaml", "utf8"));
     const context = referenceContext({ ...config, rootDir: process.cwd() }, [
         ...records,

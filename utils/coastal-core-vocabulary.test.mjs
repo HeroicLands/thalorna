@@ -27,9 +27,11 @@ const read = (file) => {
     const raw = fs.readFileSync(file, "utf8");
     return { file, raw, fm: YAML.parse(splitFrontmatter(raw).yaml) };
 };
-const language = read(process.env.PROVENZAL_PATH ?? "assets/content/Skills/Languages/Provenzal.md");
-const parent = read("assets/content/Skills/Languages/Vylari.md");
-const northern = read("assets/content/Skills/Languages/Elavendri.md");
+const language = read(
+    process.env.PROVENZAL_PATH ?? "assets/content/Skills/Languages/Provenzal_Language.md",
+);
+const parent = read("assets/content/Skills/Languages/Vylari_Language.md");
+const northern = read("assets/content/Skills/Languages/Elavendri_Language.md");
 const inventory = read("assets/content/Reference/Core_Vocabulary.md");
 const notes = [language, parent, northern, inventory];
 const canonical = (value) =>
@@ -187,7 +189,7 @@ test("Provenzal prints nearest senses and renders ordinary words through its con
         for (const gloss of [word.gloss].flat())
             assert(rendered.toLowerCase().includes(gloss.toLowerCase()), word.form);
     }
-    const spelling = read("assets/content/Lore/Scripts/Semaron_Spelling.md");
+    const spelling = read("assets/content/Lore/Scripts/Elavendri_Semaron_Encoding.md");
     const config = YAML.parse(fs.readFileSync("package-build.config.yaml", "utf8"));
     const context = referenceContext({ ...config, rootDir: process.cwd() }, [
         ...records,
@@ -312,7 +314,9 @@ test("source receipts and borrowed sources are attested", () => {
     assert.deepEqual(unresolved, []);
 });
 
-const tarveni = read(process.env.TARVENI_PATH ?? "assets/content/Skills/Languages/Tarveni.md");
+const tarveni = read(
+    process.env.TARVENI_PATH ?? "assets/content/Skills/Languages/Tarveni_Language.md",
+);
 const tarveniNotes = [tarveni, parent, language, northern, inventory];
 const tarveniRecords = tarveniNotes.map(({ fm, file }) => ({
     ...fm,
@@ -471,7 +475,7 @@ test("Tarveni declarations and real borrowed sources satisfy the consumer contra
 test("Tarveni uses its actual configured lexicon and Semaron font", async () => {
     const { renderRuns, scanRuns } =
         await import("@heroiclands/package-build/engine/content-scripts");
-    const spelling = read("assets/content/Lore/Scripts/Semaron_Spelling.md");
+    const spelling = read("assets/content/Lore/Scripts/Elavendri_Semaron_Encoding.md");
     const config = YAML.parse(fs.readFileSync("package-build.config.yaml", "utf8"));
     const context = referenceContext({ ...config, rootDir: process.cwd() }, [
         ...tarveniRecords,

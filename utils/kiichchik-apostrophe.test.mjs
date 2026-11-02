@@ -17,7 +17,7 @@ import test from "node:test";
 
 const CONTENT_DIR = "assets/content";
 const REGION_DIR = path.join(CONTENT_DIR, "Regions", "Ki.ich.chik");
-const LANGUAGE_NOTE = path.join(CONTENT_DIR, "Skills", "Languages", "Ki.i.chek.md");
+const LANGUAGE_NOTE = path.join(CONTENT_DIR, "Skills", "Languages", "Kiichek_Language.md");
 
 /** @param {string} dir @returns {string[]} */
 function walk(dir) {

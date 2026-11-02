@@ -6,7 +6,7 @@ import { assertEncodingMigrationPreserved } from "./encoding-preservation.mjs";
 
 function fixture() {
     const before = {
-        file: "assets/content/Skills/Languages/Dunhari.md",
+        file: "assets/content/Skills/Languages/Dunhari_Language.md",
         fm: {
             type: "skill",
             data: {

@@ -52,13 +52,13 @@ export const LANGUAGES = [
     {
         name: "sina",
         enc: "sinaveldikkoenc",
-        note: "assets/content/Skills/Languages/Sinale.md",
+        note: "assets/content/Skills/Languages/Sinale_Language.md",
         reference: true,
     },
     {
         name: "aele",
         enc: "aeleveldikkoenc",
-        note: "assets/content/Skills/Languages/Aelendi.md",
+        note: "assets/content/Skills/Languages/Aelendi_Language.md",
         reference: false,
     },
 ];

@@ -10,7 +10,7 @@ const read = (file) => {
     const raw = fs.readFileSync(file, "utf8");
     return { file, raw, fm: YAML.parse(splitFrontmatter(raw).yaml) };
 };
-const note = read("assets/content/Skills/Languages/Hvarn.md"),
+const note = read("assets/content/Skills/Languages/Hvarn_Language.md"),
     inventory = read("assets/content/Reference/Core_Vocabulary.md");
 const ordinary = new Set(WORD_CLASS_BASES.filter((c) => c.glossary).map((c) => c.token));
 const expected = new Set(inventory.fm.data.concepts.map((c) => c.id));
@@ -199,7 +199,7 @@ test("new Hvarn words retain vowels, dense short roots and whole compound seams"
     }
     assert.equal(note.fm.data.sounds.stress.two, "first");
     assert.equal(note.fm.data.sounds.stress.longer, "first");
-    assert.deepEqual(SOURCES["Hvarn.md"] ?? [], []);
+    assert.deepEqual(SOURCES["Hvarn_Language.md"] ?? [], []);
 });
 test("Hvarn publishes each ordinary citation and its essential meaning", async () => {
     const { lexicalSectionsFor, insertLexicalSections } =

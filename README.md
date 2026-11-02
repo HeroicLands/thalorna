@@ -120,7 +120,7 @@ npm run serve:site   # the same build, served locally with rebuild on edit
 ```
 
 `package-build site build` renders every page from `assets/content/`, and the
-home page from `assets/content/homepage.md`. The shared theme ships inside
+home page from `assets/content/The_World_of_Thalorna.md`. The shared theme ships inside
 `@heroiclands/package-build`, which arrives through `npm ci`. Nothing under
 `build/` is committed.
 

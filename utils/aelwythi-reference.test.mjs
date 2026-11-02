@@ -17,7 +17,7 @@ const roots = [];
 function fixture() {
     const root = fs.mkdtempSync(path.join(os.tmpdir(), "aelwythi-reference-"));
     roots.push(root);
-    const source = path.join(root, "Aelwythi.md");
+    const source = path.join(root, "Aelwythi_Language.md");
     const out = path.join(root, "reference.md");
     const lexicon = [
         {
@@ -272,7 +272,7 @@ describe("direct Aelwythi language-note lookup", () => {
         assert.equal(absent.status, 3);
         assert.deepEqual(JSON.parse(absent.stdout).entries, []);
         assert.equal(fs.readFileSync(f.source, "utf8"), original);
-        assert.deepEqual(fs.readdirSync(f.root), ["Aelwythi.md"]);
+        assert.deepEqual(fs.readdirSync(f.root), ["Aelwythi_Language.md"]);
     });
 
     it("retains duplicate senses and a homographic noun plus another verb's inflection", () => {

@@ -118,7 +118,7 @@ apply where a tongue's section does not give its own readings.
 
 Aelwythi uses the existing Semaron letters through its own orthographic
 `aelwythi-semaron` map in
-`assets/content/Lore/Scripts/Aelwythi_Semaron_Spelling.md`. The Aelwythi
+`assets/content/Lore/Scripts/Aelwythi_Semaron_Encoding.md`. The Aelwythi
 language note selects it with `data.writtenIn`, so `[Whither goest thou.]{.nativefont lang=aelw}`
 converts to Semaron. Without `.nativefont`, the same language tag keeps roman
 spelling. All conversion rules are executable frontmatter rows;
@@ -384,7 +384,7 @@ root. The schema has no cases, declensions, tenses, moods or irregular-verb
 tables, and no sound-change derivation.
 
 Aelwythi has an expressly defined prose register in
-`assets/content/Skills/Languages/Aelwythi.md`: strict singular _thou/thee_,
+`assets/content/Skills/Languages/Aelwythi_Language.md`: strict singular _thou/thee_,
 plural _ye/you_, singular present endings and finite plural _-en_, with the
 listed exceptional and modal forms. Follow its tables when writing a passage;
 only the finite auxiliary inflects in _we haven come_. Its ordinary questions
@@ -809,13 +809,13 @@ drawn in, and how it marks emphasis. A mapping is a `doc` note under
 `assets/content/Lore/Scripts/`. The common mapping serves a script's shared
 transcription; Aelwythi also has an orthographic Semaron mapping.
 
-| Script         | Script note                        | Faces (`font=`)                  | Mapping (`map=`)              | Direction     |
-| -------------- | ---------------------------------- | -------------------------------- | ----------------------------- | ------------- |
-| Semaron        | `Skills/Scripts/Semaron.md`        | `semaron-kuriale`                | `semaron`, `aelwythi-semaron` | left to right |
-| Pirzath        | `Skills/Scripts/Pirzath.md`        | `pirzath-carved`, `pirzath-hand` | `pirzath`                     | left to right |
-| Thuravark      | `Skills/Scripts/Thuravark.md`      | `thuravark-carved`               | `thuravark`                   | left to right |
-| Qalezu         | `Skills/Scripts/Qalezu.md`         | `qalezu-hand`                    | `qalezu`                      | right to left |
-| Khelathi-zethu | `Skills/Scripts/Khelathi_zethu.md` | `khelathi-zethu-glyphs`          | none                          | right to left |
+| Script         | Script note                                | Faces (`font=`)                  | Mapping (`map=`)              | Direction     |
+| -------------- | ------------------------------------------ | -------------------------------- | ----------------------------- | ------------- |
+| Semaron        | `Skills/Scripts/Semaron_Script.md`         | `semaron-kuriale`                | `semaron`, `aelwythi-semaron` | left to right |
+| Pirzath        | `Skills/Scripts/Pirzath_Script.md`         | `pirzath-carved`, `pirzath-hand` | `pirzath`                     | left to right |
+| Thuravark      | `Skills/Scripts/Thuravark_Runic_Script.md` | `thuravark-carved`               | `thuravark`                   | left to right |
+| Qalezu         | `Skills/Scripts/Qalezu_Script.md`          | `qalezu-hand`                    | `qalezu`                      | right to left |
+| Khelathi-zethu | `Skills/Scripts/Khelathi_zethu_Script.md`  | `khelathi-zethu-glyphs`          | none                          | right to left |
 
 The other script notes state no `data.script`, so no face and no mapping draws
 them. Every face is a face of `@heroiclands/fonts`; `font=` names it by its
@@ -893,7 +893,7 @@ data:
     fonts: [{ font: semaron-kuriale }]
 ```
 
-The rows above are an excerpt of `Lore/Scripts/Semaron_Spelling.md`. The file
+The rows above are an excerpt of `Lore/Scripts/Elavendri_Semaron_Encoding.md`. The file
 stores the characters themselves, each row ending in a comment naming its code
 points (`# U+F0230`), because formatting rewrites an escape into the character.
 The escape is shown here so the excerpt reads in any viewer.
@@ -1374,10 +1374,10 @@ Egyptian script, and in a browser they fall out of the run and the quadrat
 comes apart.
 
 **What this repository has.** The Khelathi-zethu script note lists the face
-`khelathi-zethu-glyphs`, and two mapping notes write it. `Zethu_Writing.md`
+`khelathi-zethu-glyphs`, and two mapping notes write it. `Khelathi_Zethu_Encoding.md`
 declares the logographic map `zethu`. A run marked
 `.nativefont lang=khel map=zethu font=khelathi-zethu-glyphs` is written word by word from the `native` writings in the Khelathi lexicon, and a
-word with no writing there is an error at the word. `Zethu_Codage.md` declares
+word with no writing there is an error at the word. `Zethu_Encoding.md` declares
 `zethu-mdc`, which writes signs by their ids in the manner of the Manuel de
 Codage, for a foreign name or anything the lexicon does not hold:
 

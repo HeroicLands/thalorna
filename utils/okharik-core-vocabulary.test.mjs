@@ -10,7 +10,7 @@ const read = (file) => {
     const raw = fs.readFileSync(file, "utf8");
     return { file, raw, fm: YAML.parse(splitFrontmatter(raw).yaml) };
 };
-const note = read("assets/content/Skills/Languages/Okharic.md"),
+const note = read("assets/content/Skills/Languages/Okharik_Language.md"),
     inventory = read("assets/content/Reference/Core_Vocabulary.md");
 const ordinary = new Set(WORD_CLASS_BASES.filter((c) => c.glossary).map((c) => c.token));
 const expected = new Set(inventory.fm.data.concepts.map((c) => c.id));
@@ -292,7 +292,7 @@ test("new Okharik citations keep actual vowel, nasal, ending and qualifier contr
         longer: "penultimate",
         mark: "acute",
     });
-    assert.deepEqual(SOURCES["Okharic.md"], ["tamazight", "hausa"]);
+    assert.deepEqual(SOURCES["Okharik_Language.md"], ["tamazight", "hausa"]);
 });
 test("Okharik publishes each ordinary citation and its essential meaning", async () => {
     const { lexicalSectionsFor, insertLexicalSections } =

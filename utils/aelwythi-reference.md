@@ -1,6 +1,6 @@
 # Language-note lookup
 
-`assets/content/Skills/Languages/Aelwythi.md` is the canonical Aelwythi
+`assets/content/Skills/Languages/Aelwythi_Language.md` is the canonical Aelwythi
 resource. Its existing `data.words` frontmatter supplies vocabulary, modern
 meanings and attested variants. Its anchored prose supplies pronunciation,
 grammar, naming conventions and examples. Grammar tables remain in that
@@ -44,7 +44,7 @@ node utils/aelwythi-lookup.mjs saith
 node utils/aelwythi-lookup.mjs permission
 node utils/aelwythi-lookup.mjs "a gift presented" --limit 5
 node utils/aelwythi-lookup.mjs \
-  --note assets/content/Skills/Languages/Aelwythi.md \
+  --note assets/content/Skills/Languages/Aelwythi_Language.md \
   --limit 10 say
 ```
 

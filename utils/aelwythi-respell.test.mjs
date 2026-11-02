@@ -111,8 +111,8 @@ test("migration reports include files whose only language selector is an Aelwyth
         const content = path.join(root, "assets/content");
         fs.mkdirSync(path.join(content, "Skills/Languages"), { recursive: true });
         fs.copyFileSync(
-            new URL("../assets/content/Skills/Languages/Aelwythi.md", import.meta.url),
-            path.join(content, "Skills/Languages/Aelwythi.md"),
+            new URL("../assets/content/Skills/Languages/Aelwythi_Language.md", import.meta.url),
+            path.join(content, "Skills/Languages/Aelwythi_Language.md"),
         );
         fs.writeFileSync(
             path.join(content, "Enc.md"),

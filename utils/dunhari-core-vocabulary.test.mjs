@@ -21,7 +21,7 @@ const read = (file) => {
     const raw = fs.readFileSync(file, "utf8");
     return { file, raw, fm: YAML.parse(splitFrontmatter(raw).yaml) };
 };
-const language = read("assets/content/Skills/Languages/Dunhari.md");
+const language = read("assets/content/Skills/Languages/Dunhari_Language.md");
 const inventory = read("assets/content/Reference/Core_Vocabulary.md");
 const eligible = new Set(WORD_CLASS_BASES.filter((x) => x.glossary).map((x) => x.token));
 const words = language.fm.data.words;
@@ -154,7 +154,7 @@ test("the actual published list and configured Qalezu renderer cover every ordin
             assert(published.includes(sentence), `${word.form}: ${sentence}`);
         }
     }
-    const spelling = read("assets/content/Lore/Scripts/Qalezu_Spelling.md");
+    const spelling = read("assets/content/Lore/Scripts/Atarzadi_Qalezu_Encoding.md");
     const config = YAML.parse(fs.readFileSync("package-build.config.yaml", "utf8"));
     const context = referenceContext({ ...config, rootDir: process.cwd() }, [
         record,

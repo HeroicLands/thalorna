@@ -15,8 +15,8 @@ export function readNote(file) {
 }
 
 export function aelwythiEncoding() {
-    const language = readNote("assets/content/Skills/Languages/Aelwythi.md");
-    const spelling = readNote("assets/content/Lore/Scripts/Aelwythi_Semaron_Spelling.md");
+    const language = readNote("assets/content/Skills/Languages/Aelwythi_Language.md");
+    const spelling = readNote("assets/content/Lore/Scripts/Aelwythi_Semaron_Encoding.md");
     const config = YAML.parse(fs.readFileSync("package-build.config.yaml", "utf8"));
     const records = [language, spelling].map(({ fm, file, raw }) => ({
         ...fm,

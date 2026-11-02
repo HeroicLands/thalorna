@@ -27,11 +27,19 @@ const read = (file) => {
     const raw = fs.readFileSync(file, "utf8");
     return { file, raw, fm: YAML.parse(splitFrontmatter(raw).yaml) };
 };
-const language = read(process.env.VALTARI_PATH ?? "assets/content/Skills/Languages/Valtari.md");
-const inventory = read("assets/content/Reference/Core_Vocabulary.md");
-const donors = ["Helonic", "Taruzeli", "Vylari", "Provenzal", "Nordmal", "Sinale", "Aelwythi"].map(
-    (name) => read(`assets/content/Skills/Languages/${name}.md`),
+const language = read(
+    process.env.VALTARI_PATH ?? "assets/content/Skills/Languages/Valtari_Language.md",
 );
+const inventory = read("assets/content/Reference/Core_Vocabulary.md");
+const donors = [
+    "Helonic_Language",
+    "Taruzeli_Language",
+    "Vylari_Language",
+    "Provenzal_Language",
+    "Nordmal_Language",
+    "Sinale_Language",
+    "Aelwythi_Language",
+].map((name) => read(`assets/content/Skills/Languages/${name}.md`));
 const notes = [language, inventory, ...donors];
 const canonical = (value) =>
     renderAddress(
@@ -144,7 +152,7 @@ test("Valtari declarations and actual new donor receipts satisfy the contract", 
 test("Valtari uses the actual configured wordbook and drawable Helonika", async () => {
     const { renderRuns, scanRuns } =
         await import("@heroiclands/package-build/engine/content-scripts");
-    const spelling = read("assets/content/Lore/Scripts/Helonika_Spelling.md"),
+    const spelling = read("assets/content/Lore/Scripts/Helonic_Helonika_Encoding.md"),
         config = YAML.parse(fs.readFileSync("package-build.config.yaml", "utf8"));
     const context = referenceContext({ ...config, rootDir: process.cwd() }, [
         ...records,

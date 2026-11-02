@@ -92,7 +92,7 @@ exactly as any other is.
 
 ## Varokh names and totems
 
-A Varokh's `name.full` is the name in full that `Skills/Languages/Varokhi.md` sets out: the given name, `yra` and the clan, `wur` and the village, as in `Athalwa yra Vithrúnd wur Eichengrund`. A `character` also states the two pieces in `name.given` and `name.clan` (an `npc` takes neither key), the clan is a kindred and never a village, and the village is the settlement `data.homes` names where it names one. A bare given name and clan is never written, in frontmatter or in prose. An earned Varokhi byname may stand after the given name in place of the clan and village, as `Thornak Blodtusc Bar` does. A village's shared _wesk_ goes in its `data.lore`; personal totems may reflect individual personalities and are not mandatory.
+A Varokh's `name.full` is the name in full that `Skills/Languages/Varokhi_Language.md` sets out: the given name, `yra` and the clan, `wur` and the village, as in `Athalwa yra Vithrúnd wur Eichengrund`. A `character` also states the two pieces in `name.given` and `name.clan` (an `npc` takes neither key), the clan is a kindred and never a village, and the village is the settlement `data.homes` names where it names one. A bare given name and clan is never written, in frontmatter or in prose. An earned Varokhi byname may stand after the given name in place of the clan and village, as `Thornak Blodtusc Bar` does. A village's shared _wesk_ goes in its `data.lore`; personal totems may reflect individual personalities and are not mandatory.
 
 ## Deriving a shortcode from a name
 
@@ -244,7 +244,7 @@ that two books select. `folder` and `homepage` notes print in no book.
 
 A being's `data.born` supplies its birth date. With a known birth date, omit
 `data.age`: the published age counts completed years at the world's
-`data.present`, declared in `Lore/Thalorna.md`. The value `720` means the first
+`data.present`, declared in `Lore/The_World_of_Thalorna.md`. The value `720` means the first
 day of year 720, so a birthday later in that year has not occurred.
 
 For example, `born: 687/4/16` gives an age of 32 at that present. Keep an authored

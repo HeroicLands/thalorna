@@ -219,7 +219,7 @@ export function scopedEdits(source) {
 
 export function migrationReport(root = process.cwd()) {
     const relative = (file) => path.relative(root, file).split(path.sep).join("/");
-    const noteFile = path.join(root, "assets/content/Skills/Languages/Aelwythi.md");
+    const noteFile = path.join(root, "assets/content/Skills/Languages/Aelwythi_Language.md");
     const forms = languageForms(noteFile).map((form) => ({ ...form, file: relative(form.file) }));
     const content = path.join(root, "assets/content");
     for (const relativeFile of fs

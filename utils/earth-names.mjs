@@ -46,13 +46,13 @@ const PRONUNCIATION_GUIDE = "assets/content/Lore/Pronouncing_Thalorna.md";
 // These technical references explain the reader's spelling and pronunciation conventions.
 const PRONUNCIATION_REFERENCES = new Set([
     PRONUNCIATION_GUIDE,
-    "assets/content/Skills/Languages/Aelwythi.md",
-    "assets/content/Lore/Scripts/Aelwythi_Semaron_Spelling.md",
+    "assets/content/Skills/Languages/Aelwythi_Language.md",
+    "assets/content/Lore/Scripts/Aelwythi_Semaron_Encoding.md",
 ]);
 
 /** Files that may name Earth. */
 const EXEMPT_FILES = new Set([
-    "assets/content/Reference/Terran_Analogs.md",
+    "assets/content/Reference/Terran_Analogs_Reference.md",
     // Technical pronunciation references necessarily name reference languages.
     ...PRONUNCIATION_REFERENCES,
 ]);

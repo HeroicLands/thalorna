@@ -32,7 +32,7 @@ const MODULE_ID = "thalorna";
 
 /**
  * The Common Calendar's Foundry definition, staged beside this file by the
- * build from `assets/content/.../Common_Calendar.md`.
+ * build from `assets/content/.../The_Vylarian_Calendar.md`.
  *
  * Resolved against `import.meta.url` so it carries whatever route prefix the
  * server is mounted under, and fetched at module evaluation, which a module

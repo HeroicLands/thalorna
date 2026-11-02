@@ -19,9 +19,33 @@ export const contentHash = (value) =>
     createHash("sha256")
         .update(typeof value === "string" ? value : JSON.stringify(value))
         .digest("hex");
+/**
+ * The path a language note had at the pinned baselines, by its current path.
+ * A baseline is read under the name the file had at that commit.
+ */
+export const BASELINE_PATHS = new Map(
+    [
+        ["Atarzadi_Language.md", "Atarzadi.md"],
+        ["Dunhari_Language.md", "Dunhari.md"],
+        ["Ekpelu_Language.md", "Ekpelu.md"],
+        ["Khelathi_Language.md", "Khelathi.md"],
+        ["Nordmal_Language.md", "Nordmal.md"],
+        ["Nyaluban_Language.md", "Nyaluban.md"],
+        ["Osket_Language.md", "Osket.md"],
+        ["Sovidur_Language.md", "Sowides.md"],
+        ["Taruzeli_Language.md", "Taruzeli.md"],
+        ["Tellumi_Language.md", "Tellumi.md"],
+        ["Varokhi_Language.md", "Varokhi.md"],
+    ].map(([current, before]) => [
+        `assets/content/Skills/Languages/${current}`,
+        `assets/content/Skills/Languages/${before}`,
+    ]),
+);
+/** The path a file had at the pinned baselines. */
+export const baselinePath = (file) => BASELINE_PATHS.get(file) ?? file;
 const historical = new Map();
 export function beforeEncodingMigration(file, revision = ENCODING_BASELINE) {
-    const key = `${revision}:${file}`;
+    const key = `${revision}:${baselinePath(file)}`;
     if (!historical.has(key)) {
         const raw = execFileSync("git", ["show", key], { encoding: "utf8", maxBuffer: 16000000 });
         historical.set(key, { file, raw, fm: YAML.parse(splitFrontmatter(raw).yaml) });
@@ -31,7 +55,13 @@ export function beforeEncodingMigration(file, revision = ENCODING_BASELINE) {
 const transfers = JSON.parse(
     fs.readFileSync(new URL("./fixtures/encoding-role-transfers.json", import.meta.url), "utf8"),
 );
-const caseless = new Set(["Atarzadi", "Dunhari", "Khelathi", "Nordmal", "Nyaluban"]);
+const caseless = new Set([
+    "Atarzadi_Language",
+    "Dunhari_Language",
+    "Khelathi_Language",
+    "Nordmal_Language",
+    "Nyaluban_Language",
+]);
 const lower = (text) => text.toLowerCase().normalize("NFC");
 export const caselessCitationKey = (word) => `${lower(word.form)}\u0000${word.class ?? ""}`;
 const codeAddress = (text) => text.replace(/^thalorna-note-doc-|^doc-/u, "");
@@ -138,7 +168,7 @@ function normalizedRecord(entry, file) {
 /** English renderings in a register, by file and baseline name, which take the tongue `translation`. */
 const translationRetags = new Map([
     [
-        "assets/content/Skills/Languages/Atarzadi.md",
+        "assets/content/Skills/Languages/Atarzadi_Language.md",
         new Set(["Atárzadi Language", "Atarzadi Language", "Tribes of Atarzád"]),
     ],
 ]);
@@ -161,7 +191,7 @@ function withTranslationRetags(fm, file) {
  */
 const respellings = new Map([
     [
-        "assets/content/Skills/Languages/Dunhari.md",
+        "assets/content/Skills/Languages/Dunhari_Language.md",
         [
             ["nushir", "nushiran"],
             ["zarham", "zarvina"],
@@ -177,23 +207,23 @@ const respellings = new Map([
         ],
     ],
     [
-        "assets/content/Skills/Languages/Osket.md",
+        "assets/content/Skills/Languages/Osket_Language.md",
         [
             ["rhankel", "rankel"],
             ["rhandug", "randug"],
         ],
     ],
-    ["assets/content/Skills/Languages/Nordmal.md", [["gnuldurthann", "gnuldurvir"]]],
+    ["assets/content/Skills/Languages/Nordmal_Language.md", [["gnuldurthann", "gnuldurvir"]]],
     [
-        "assets/content/Skills/Languages/Varokhi.md",
+        "assets/content/Skills/Languages/Varokhi_Language.md",
         [
             ["vithár", "wíthar"],
             ["wíthar", "wíthgar", "word"],
         ],
     ],
-    ["assets/content/Skills/Languages/Atarzadi.md", [["atárzádegan", "atárzadegan"]]],
+    ["assets/content/Skills/Languages/Atarzadi_Language.md", [["atárzádegan", "atárzadegan"]]],
     [
-        "assets/content/Skills/Languages/Nyaluban.md",
+        "assets/content/Skills/Languages/Nyaluban_Language.md",
         [
             ["fámangalí", "fámangali"],
             ["ódúmbala", "ódumbala"],
@@ -348,7 +378,7 @@ function withRespellings(fm, file) {
 
 /** Affix examples dropped since the baseline, by file: the affix and the example it no longer cites. */
 const droppedExamples = new Map([
-    ["assets/content/Skills/Languages/Varokhi.md", [{ affix: "-ar", example: "Wíthgar" }]],
+    ["assets/content/Skills/Languages/Varokhi_Language.md", [{ affix: "-ar", example: "Wíthgar" }]],
 ]);
 
 /** The baseline without those examples. */
@@ -367,7 +397,7 @@ function withDroppedExamples(fm, file) {
 /** Register rows renamed by a ruling, by file: each baseline name, its tongue and the replacement name. */
 const registerRenames = new Map([
     [
-        "assets/content/Skills/Languages/Dunhari.md",
+        "assets/content/Skills/Languages/Dunhari_Language.md",
         [
             { from: "sahri", tongue: "sovidur", to: "oroqidur" },
             { from: "vast", tongue: "dunhari", to: "vazder" },
@@ -396,7 +426,7 @@ function withRegisterRenames(fm, file) {
  */
 const registerRemovals = new Map([
     [
-        "assets/content/Skills/Languages/Dunhari.md",
+        "assets/content/Skills/Languages/Dunhari_Language.md",
         [
             { name: "delkoshekh", tongue: "ashaian" },
             { name: "roqeshekh", tongue: "ashaian" },
@@ -422,7 +452,7 @@ function withRegisterRemovals(fm, file) {
 /** Baseline words replaced by a ruling, by file: each baseline form and the entry written in its place. */
 const wordRenames = new Map([
     [
-        "assets/content/Skills/Languages/Atarzadi.md",
+        "assets/content/Skills/Languages/Atarzadi_Language.md",
         [
             {
                 from: "teqemod",
@@ -462,7 +492,9 @@ function withWordRenames(fm, file) {
 }
 
 /** Languages whose English name lists moved under `names.en`, which the encoding never reads. */
-const englishNameLists = new Map([["assets/content/Skills/Languages/Nordmal.md", ["epithet"]]]);
+const englishNameLists = new Map([
+    ["assets/content/Skills/Languages/Nordmal_Language.md", ["epithet"]],
+]);
 
 /** The baseline with those lists under `names.en` and their pattern placeholders renamed to match. */
 function withEnglishNameLists(fm, file) {
@@ -486,7 +518,7 @@ function withEnglishNameLists(fm, file) {
 /** Register rows that wrote two names as one, by file: each baseline row's name and the names it splits into. */
 const registerSplits = new Map([
     [
-        "assets/content/Skills/Languages/Nordmal.md",
+        "assets/content/Skills/Languages/Nordmal_Language.md",
         new Map([
             ["gudi / gudja", ["gudi", "gudja"]],
             ["hofgudi / hofgudja", ["hofgudi", "hofgudja"]],
@@ -592,12 +624,12 @@ export function assertEncodingMigrationPreserved(
     let body = splitFrontmatter(current.raw).body;
     let originalBody = respell(splitFrontmatter(before.raw).body, file);
     // The one baseline sentence whose writing direction follows the shared Qalezu script.
-    if (file.endsWith("/Dunhari.md"))
+    if (file.endsWith("/Dunhari_Language.md"))
         originalBody = originalBody.replace(
             "the consonantal alphabet of Au'Khelathu, from left to right.",
             "the consonantal alphabet of Au'Khelathu, from right to left.",
         );
-    if (roles.length && file.endsWith("/Atarzadi.md")) {
+    if (roles.length && file.endsWith("/Atarzadi_Language.md")) {
         const addition =
             " The derived-word titles _toqel_, _zhudek_, _rezhul_ and _shekhul_ stand with their meanings and derivations in the name register.";
         assert(body.includes(addition), "the title/name role remains in the reading guidance");
@@ -606,7 +638,7 @@ export function assertEncodingMigrationPreserved(
         assert(body.includes(column), "the name register displays its preserved meanings");
         body = body.replace(column, 'SELECT name AS "Name", ');
     }
-    if (roles.length && file.endsWith("/Khelathi.md")) {
+    if (roles.length && file.endsWith("/Khelathi_Language.md")) {
         const addition =
             'The rank morphemes _nelgir_ ("god"), _lekhau_ ("sacred power") and _halzi_ ("heart, and the account a heart answers for") are stems of the corresponding nouns.';
         assert(body.includes(addition), "the rank-stem roles remain explicit");
@@ -657,9 +689,10 @@ export function assertPublicLanguageProjections(current, before, prefix) {
         currentMeaning = pieceGlosses(current.fm.data);
     const forms = new Set();
     const probeKeys =
-        /\/(Atarzadi|Varokhi)\.md$/u.test(current.file) ? ["form", "front", "joining"]
-        : current.file.endsWith("/Khelathi.md") ? ["form", "front", "joining", "instead", "near"]
-        : ["form", "name", "front", "joining", "instead", "near"];
+        /\/(Atarzadi|Varokhi)_Language\.md$/u.test(current.file) ? ["form", "front", "joining"]
+        : current.file.endsWith("/Khelathi_Language.md") ?
+            ["form", "front", "joining", "instead", "near"]
+        :   ["form", "name", "front", "joining", "instead", "near"];
     function collect(value) {
         if (Array.isArray(value)) return value.forEach(collect);
         if (!value || typeof value !== "object") return;
@@ -681,7 +714,7 @@ export function assertPublicLanguageProjections(current, before, prefix) {
     collect(priorData);
     names(priorData.names);
     const body = splitFrontmatter(before.raw).body;
-    if (/\/(Dunhari|Nyaluban)\.md$/u.test(current.file)) {
+    if (/\/(Dunhari|Nyaluban)_Language\.md$/u.test(current.file)) {
         const nameList =
             /## (?:Example )?Name Lists\n([\s\S]*?)## (?:Dunhari|Nyáluban) Lexicon/u.exec(
                 body,
@@ -689,7 +722,7 @@ export function assertPublicLanguageProjections(current, before, prefix) {
         assert(nameList !== undefined, "the original name-list API probes remain present");
         for (const line of nameList.split("\n")) {
             if (line.startsWith("- ")) forms.add(line.slice(2).split(" (")[0].trim());
-            else if (current.file.endsWith("/Dunhari.md") && line && !line.startsWith("#"))
+            else if (current.file.endsWith("/Dunhari_Language.md") && line && !line.startsWith("#"))
                 for (const form of line.split(",")) forms.add(form.trim());
         }
         const sayings = /## Sample Phrases\n([\s\S]*?)## (?:Lexicon|Related Languages)/u.exec(
@@ -700,13 +733,13 @@ export function assertPublicLanguageProjections(current, before, prefix) {
             if (line && !line.startsWith(":"))
                 for (const form of line.split(" ")) forms.add(form.trim());
     }
-    if (current.file.endsWith("/Varokhi.md"))
+    if (current.file.endsWith("/Varokhi_Language.md"))
         for (const match of body.matchAll(/`(-[\p{L}]+-?|-?[\p{L}]+-)`/gu)) forms.add(match[1]);
     const variants = (form) => {
         const bare = form.replace(/^-+|-+$/gu, "");
-        if (/\/(Atarzadi|Varokhi)\.md$/u.test(current.file)) return [form, bare];
+        if (/\/(Atarzadi|Varokhi)_Language\.md$/u.test(current.file)) return [form, bare];
         const values = [form, form.toLowerCase(), bare, bare.toLowerCase()];
-        if (current.file.endsWith("/Nyaluban.md"))
+        if (current.file.endsWith("/Nyaluban_Language.md"))
             values.push(
                 form
                     .normalize("NFD")
@@ -722,7 +755,7 @@ export function assertPublicLanguageProjections(current, before, prefix) {
     );
     for (const form of [...forms].flatMap(variants)) {
         if (introduced.has(form) && oldMeaning(form) === null) continue;
-        if (current.file.endsWith("/Nyaluban.md") && form === "zherami le zhone") {
+        if (current.file.endsWith("/Nyaluban_Language.md") && form === "zherami le zhone") {
             assert.equal(oldMeaning(form), null);
             assert(
                 body.includes(
@@ -736,7 +769,7 @@ export function assertPublicLanguageProjections(current, before, prefix) {
         } else
             assert.equal(
                 currentMeaning(respell(form, current.file)),
-                current.file.endsWith("/Khelathi.md") && oldMeaning(form) === null ?
+                current.file.endsWith("/Khelathi_Language.md") && oldMeaning(form) === null ?
                     completeMeaning(form)
                 :   oldMeaning(form),
                 `${form}: preserved public piece meaning`,
@@ -768,7 +801,7 @@ export function assertPublicLanguageProjections(current, before, prefix) {
             `${row.name}: preserved public dictionary projection`,
         );
     }
-    if (current.file.endsWith("/Atarzadi.md"))
+    if (current.file.endsWith("/Atarzadi_Language.md"))
         assert.equal(
             dictionaryAndTermRows([record(before, projectionData(before, 40, false))]).dictionary
                 .length,

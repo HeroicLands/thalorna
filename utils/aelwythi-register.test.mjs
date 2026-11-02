@@ -7,7 +7,7 @@ import test from "node:test";
 import YAML from "yaml";
 import { respellText } from "./aelwythi-respell.mjs";
 
-const raw = fs.readFileSync("assets/content/Skills/Languages/Aelwythi.md", "utf8");
+const raw = fs.readFileSync("assets/content/Skills/Languages/Aelwythi_Language.md", "utf8");
 const words = YAML.parse(raw.split("---")[1]).data.words;
 const forConcept = (id) => words.filter((word) => [word.concept ?? []].flat().includes(id));
 const forms = (id) => forConcept(id).map(({ form }) => form);
@@ -260,7 +260,7 @@ test("the standard records fixed coined sounds and preserves authored lexical ex
             sounds.some((row) => !row.tongue && row.letters.includes(letters) && row.ipa === ipa),
             `${letters} has its fixed coined sound`,
         );
-    const encoding = data("assets/content/Lore/Scripts/Aelwythi_Semaron_Spelling.md");
+    const encoding = data("assets/content/Lore/Scripts/Aelwythi_Semaron_Encoding.md");
     assert.equal(encoding.language, "aelw");
     assert.equal(encoding.font, "semaron-kuriale");
     assert.equal(encoding.mappings["."], "POINT");

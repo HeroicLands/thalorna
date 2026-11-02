@@ -25,7 +25,9 @@ function note(file) {
     const raw = fs.readFileSync(file, "utf8");
     return { file, raw, fm: YAML.parse(splitFrontmatter(raw).yaml) };
 }
-const language = note(process.env.AELENDI_PATH ?? "assets/content/Skills/Languages/Aelendi.md");
+const language = note(
+    process.env.AELENDI_PATH ?? "assets/content/Skills/Languages/Aelendi_Language.md",
+);
 const inventory = note("assets/content/Reference/Core_Vocabulary.md");
 const ids = (word) => [word.concept ?? []].flat();
 const bindings = (id) => language.fm.data.words.filter((word) => ids(word).includes(id));
@@ -151,7 +153,7 @@ test("four loves, bodily sensation, emotion and epistemic claims stay distinct",
 });
 
 test("every borrowed word names a real Sinale source", () => {
-    const sinale = note("assets/content/Skills/Languages/Sinale.md");
+    const sinale = note("assets/content/Skills/Languages/Sinale_Language.md");
     const forms = new Set(sinale.fm.data.words.map((word) => word.form));
     for (const word of language.fm.data.words.filter((word) => word.source?.kind === "borrowed")) {
         assert.equal(word.source.language, "skill-sinalelng", word.form);
@@ -163,7 +165,7 @@ test("every borrowed word names a real Sinale source", () => {
 });
 
 test("Veldikko mapping and its actual face draw every core expression", () => {
-    const spelling = note("assets/content/Lore/Scripts/Veldikko_Aelendi_Spelling.md");
+    const spelling = note("assets/content/Lore/Scripts/Aelendi_Veldikko_Encoding.md");
     const map = encodingReference("aele").encoding;
     const face = resolveScriptFonts(process.cwd()).faces.get(map.font);
     const outlines = fontOutlines(face.file);
@@ -213,7 +215,7 @@ test("the coined affirmative keeps its native shape and actual configured render
     );
     const phrase = bindings("of-course")[0];
     assert.deepEqual(phrase.built, [word.form, "tenri"]);
-    const spelling = note("assets/content/Lore/Scripts/Veldikko_Aelendi_Spelling.md");
+    const spelling = note("assets/content/Lore/Scripts/Aelendi_Veldikko_Encoding.md");
     const map = encodingReference("aele").encoding;
     const face = resolveScriptFonts(process.cwd()).faces.get(map.font);
     const outlines = fontOutlines(face.file);

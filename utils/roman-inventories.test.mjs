@@ -41,9 +41,10 @@ test("Vylari adds its grave-vowel catch to shared punctuation", () => {
     );
     assert(roman.includes("à") && roman.includes("À"));
     for (const mark of "'’‘\"“”«»`,;:—–?!") assert(!roman.includes(mark), mark);
-    const records = [...notes, read("assets/content/Lore/Scripts/Semaron_Spelling.md")].map(
-        (note) => ({ ...note, package: "thalorna", system: "note" }),
-    );
+    const records = [
+        ...notes,
+        read("assets/content/Lore/Scripts/Elavendri_Semaron_Encoding.md"),
+    ].map((note) => ({ ...note, package: "thalorna", system: "note" }));
     const ctx = {
         ...referenceContext({ ...config, rootDir: process.cwd() }, records),
         wordBooks: new Map(),

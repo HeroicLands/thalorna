@@ -21,7 +21,7 @@ function note(file) {
     const raw = fs.readFileSync(file, "utf8");
     return { raw, file, fm: YAML.parse(splitFrontmatter(raw).yaml) };
 }
-const language = note("assets/content/Skills/Languages/Tantsou.md");
+const language = note("assets/content/Skills/Languages/Tantsou_Language.md");
 const inventory = note("assets/content/Reference/Core_Vocabulary.md");
 const records = [language, inventory].map(({ fm, file }) => ({
     ...fm,
@@ -146,7 +146,7 @@ test("Tantsou Roman citations retain the configured language without an invented
     }
 });
 
-const daughter = note("assets/content/Skills/Languages/Jurthat.md");
+const daughter = note("assets/content/Skills/Languages/Jurthati_Language.md");
 const { parseAddress, renderAddress } = await import("@heroiclands/package-build/engine/address");
 const daughterRecords = [
     ...records,

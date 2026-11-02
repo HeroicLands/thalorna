@@ -24,9 +24,9 @@ function note(file) {
     const raw = fs.readFileSync(file, "utf8");
     return { file, raw, fm: YAML.parse(splitFrontmatter(raw).yaml) };
 }
-const language = note("assets/content/Skills/Languages/Aelwythi.md");
+const language = note("assets/content/Skills/Languages/Aelwythi_Language.md");
 const inventory = note("assets/content/Reference/Core_Vocabulary.md");
-const spelling = note("assets/content/Lore/Scripts/Aelwythi_Semaron_Spelling.md");
+const spelling = note("assets/content/Lore/Scripts/Aelwythi_Semaron_Encoding.md");
 const glossaryWords = language.fm.data.words.filter(
     (word) =>
         WORD_CLASS_BASES.find(({ token }) => token === parseWordClass(word.class).base)?.glossary,

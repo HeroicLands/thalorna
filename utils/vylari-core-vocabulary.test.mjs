@@ -24,7 +24,9 @@ function note(file) {
     const raw = fs.readFileSync(file, "utf8");
     return { file, raw, fm: YAML.parse(splitFrontmatter(raw).yaml) };
 }
-const language = note(process.env.VYLARI_PATH ?? "assets/content/Skills/Languages/Vylari.md");
+const language = note(
+    process.env.VYLARI_PATH ?? "assets/content/Skills/Languages/Vylari_Language.md",
+);
 const inventory = note("assets/content/Reference/Core_Vocabulary.md");
 const ids = (word) => [word.concept ?? []].flat();
 const bindings = (id) => language.fm.data.words.filter((word) => ids(word).includes(id));
@@ -148,7 +150,7 @@ test("four loves, bodily sensation, emotion and epistemic claims stay distinct",
 });
 
 test("Semaron mapping and its actual face draw every core expression", () => {
-    const spelling = note("assets/content/Lore/Scripts/Semaron_Spelling.md");
+    const spelling = note("assets/content/Lore/Scripts/Elavendri_Semaron_Encoding.md");
     const map = encodingReference("vyl").encoding;
     const face = resolveScriptFonts(process.cwd()).faces.get(map.font);
     const outlines = fontOutlines(face.file);

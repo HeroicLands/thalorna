@@ -24,7 +24,7 @@ function note(file) {
     const raw = fs.readFileSync(file, "utf8");
     return { file, raw, fm: YAML.parse(splitFrontmatter(raw).yaml) };
 }
-const language = note("assets/content/Skills/Languages/Helonic.md");
+const language = note("assets/content/Skills/Languages/Helonic_Language.md");
 const inventory = note("assets/content/Reference/Core_Vocabulary.md");
 const notes = [language, inventory];
 const records = notes.map(({ fm, file }) => ({ ...fm, file, package: "thalorna", system: "note" }));
@@ -110,7 +110,7 @@ test("Helonic expressions render through their actual Helonika map and font", as
     const { renderRuns } = await import("@heroiclands/package-build/engine/content-scripts");
     const { fontOutlines } = await import("@heroiclands/package-build/engine/font-outlines");
     const { resolveScriptFonts } = await import("@heroiclands/package-build/engine/script-fonts");
-    const spelling = note("assets/content/Lore/Scripts/Helonika_Spelling.md");
+    const spelling = note("assets/content/Lore/Scripts/Helonic_Helonika_Encoding.md");
     const config = YAML.parse(fs.readFileSync("package-build.config.yaml", "utf8"));
     const ctx = referenceContext({ ...config, rootDir: process.cwd() }, [
         ...records,
@@ -154,10 +154,10 @@ test("every word used inside a Helonic core expression is defined", () => {
     }
 });
 
-const daughters = ["Bethuan", "Byzarian"].map((name) =>
+const daughters = ["Bethuan_Language", "Bizarian_Language"].map((name) =>
     note(`assets/content/Skills/Languages/${name}.md`),
 );
-const loanSource = note("assets/content/Skills/Languages/Khelathi.md");
+const loanSource = note("assets/content/Skills/Languages/Khelathi_Language.md");
 const familyNotes = [language, ...daughters, inventory, loanSource];
 const { parseAddress, renderAddress } = await import("@heroiclands/package-build/engine/address");
 const familyRecords = familyNotes.map(({ fm, file }) => ({
@@ -343,9 +343,11 @@ for (const child of daughters) {
                     `visible meaning: ${word.form}`,
                 );
         }
-        const maps = ["Helonika_Spelling", "Bethuan_Spelling", "Bizarian_Spelling"].map((name) =>
-            note(`assets/content/Lore/Scripts/${name}.md`),
-        );
+        const maps = [
+            "Helonic_Helonika_Encoding",
+            "Bethuan_Helonika_Encoding",
+            "Bizarian_Helonika_Encoding",
+        ].map((name) => note(`assets/content/Lore/Scripts/${name}.md`));
         const config = YAML.parse(fs.readFileSync("package-build.config.yaml", "utf8"));
         const ctx = referenceContext({ ...config, rootDir: process.cwd() }, [
             ...familyRecords,
@@ -400,9 +402,11 @@ for (const child of daughters) {
 for (const child of daughters) {
     test(`${child.fm.name.full} recognizes inherited words in strict language runs`, async () => {
         const { renderRuns } = await import("@heroiclands/package-build/engine/content-scripts");
-        const maps = ["Helonika_Spelling", "Bethuan_Spelling", "Bizarian_Spelling"].map((name) =>
-            note(`assets/content/Lore/Scripts/${name}.md`),
-        );
+        const maps = [
+            "Helonic_Helonika_Encoding",
+            "Bethuan_Helonika_Encoding",
+            "Bizarian_Helonika_Encoding",
+        ].map((name) => note(`assets/content/Lore/Scripts/${name}.md`));
         const config = YAML.parse(fs.readFileSync("package-build.config.yaml", "utf8"));
         const ctx = referenceContext({ ...config, rootDir: process.cwd() }, [
             ...familyRecords,
