@@ -85,7 +85,7 @@ Everything before the Founding: a monarchy of which only its end is recorded, th
 
 ### The First Orzoi, 1 to 95
 
-The Founder's line. [[place-arvon|Arvon]] (the Eagle City) is walled above the sealed [Eyrie of the Dragon Riders]{.name data-type="place/site"} and the Senate moves into it ([[lore-eaglecityrse|The Raising of the Eagle City]]); [[affiliation-ordoarcanis|Thordimalon]]'s last renegades are hunted down ([[lore-huntingyears|The Hunting Years]]); the citizenship becomes a soldier's reward ([[lore-veteranslaw|The Veterans' Law]]). The line ends when its last Orzas dies without a son and names a _felzos_ (legate) of [[affiliation-varkalenis|House Varkalenis]].
+The Founder's line. [[place-arvon|Arvon]] (the Eagle City) is walled above the sealed [[place-eyriearvel|Eyrie of the Dragon Riders]] and the Senate moves into it ([[lore-eaglecityrse|The Raising of the Eagle City]]); [[affiliation-ordoarcanis|Thordimalon]]'s last renegades are hunted down ([[lore-huntingyears|The Hunting Years]]); the citizenship becomes a soldier's reward ([[lore-veteranslaw|The Veterans' Law]]). The line ends when its last Orzas dies without a son and names a _felzos_ (legate) of [[affiliation-varkalenis|House Varkalenis]].
 
 ### The Age of Conquest, 96 to 388
 
@@ -105,7 +105,7 @@ The north's hunger raids empty northern Moktur's valleys and a legion wins its e
 
 ### The Core, 620 to 707
 
-An Empire that keeps the forms and stops paying the far forts, sends the [Doran Hilvan]{.name data-type="affiliation"} into the [Kervaron Spine]{.name data-type="place/feature"} and loses it ([[lore-twelfthloss|The Loss of the Twelfth]]), and squeezes Taruzel for the revenue the west no longer sends. It ends when Taruzel's merchant princes bankroll a revolution.
+An Empire that keeps the forms and stops paying the far forts, sends the [Doran Hilvan]{.name data-type="affiliation"} into the [[place-kervaron|Kervaron Spine]] and loses it ([[lore-twelfthloss|The Loss of the Twelfth]]), and squeezes Taruzel for the revenue the west no longer sends. It ends when Taruzel's merchant princes bankroll a revolution.
 
 ### After the Shoals, 708 to the present
 

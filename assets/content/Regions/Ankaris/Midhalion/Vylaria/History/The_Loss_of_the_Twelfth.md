@@ -68,7 +68,7 @@ data:
       unresolved: [who raised the Twelfth's dead, where the Twelfth's eagle lies]
 ---
 
-A mule-train master at the first camp below a pass of the [Kervaron Spine]{.name data-type="place/feature"}, accepting the passage-gift from a factor's steward, checks the weight of the bag and does not count it. "The [Doran Hilvan]{.name data-type="affiliation"}, the Twelfth, is why," he says, if he is asked why the gift is never haggled. "Before it, [[affiliation-seldan|Seldan]], the Senate, sent men up to read the stones to us. After it, the Senate sent grain merchants, and we let them through."
+A mule-train master at the first camp below a pass of the [[place-kervaron|Kervaron Spine]], accepting the passage-gift from a factor's steward, checks the weight of the bag and does not count it. "The [Doran Hilvan]{.name data-type="affiliation"}, the Twelfth, is why," he says, if he is asked why the gift is never haggled. "Before it, [[affiliation-seldan|Seldan]], the Senate, sent men up to read the stones to us. After it, the Senate sent grain merchants, and we let them through."
 
 ## A Council Tries the Range
 

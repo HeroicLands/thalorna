@@ -18,7 +18,9 @@ A newcomer to Orzara learns the hill by what is closed to them. The Inner City i
 
 ## The Sealed Eyrie
 
-Under the hill lie the galleries where the dragon mounts of the [Dragon Riders]{.name data-type="affiliation"} were housed, and **the [Eyrie of the Dragon Riders]{.name data-type="place/site"} (the Eyrie of Arvel)** that held them. Around 45 BF the [Vylarian Republic]{.name data-type="affiliation/polity"} did not renew its standing lease with the dragons ([[lore-ridersdisb|The Lease Refused]]), the Riders were disbanded, and the Eyrie was sealed. The galleries under Arvel remain shut. What passed between the Republic and the dragons for the Riders' service is in no account of the war; see [[lore-thebargain|the Bargain]].
+Under the crown of the hill lie the sealed galleries of the [[place-eyriearvel|Eyrie of the Dragon Riders]] (the Eyrie of Arvel), where the [Dragon Riders]{.name data-type="affiliation"} of the [Vylarian Republic]{.name data-type="affiliation/polity"} were quartered. Around 45 BF the Republic did not renew its standing lease with the dragons ([[lore-ridersdisb|The Lease Refused]]), the Riders were disbanded, and the Eyrie was sealed. Its one known door is a bronze-leaved arch in the hill's north face, inside the Inner City and below the palace terraces, with the Republic's chancery seal still whole across it and two guardsmen of [[affiliation-sorvan|The Imperial Guard]] at the mouth of its court. What passed between the Republic and the dragons for the Riders' service is in no account of the war; see [[lore-thebargain|the Bargain]].
+
+The city tells more stories about the hill than about any other ground in Orzara. The commonest holds that a dragon's egg lies sealed beneath the palace and will hatch on the day the empire falls; the palace servants say that the last mount of the corps sleeps in the rock, and that is why the lowest kitchens are warm in winter.
 
 ## See Also
 
@@ -30,6 +32,9 @@ Under the hill lie the galleries where the dragon mounts of the [Dragon Riders]{
 
 [[lore-eaglecityrse|The Raising of the Eagle City]]
 : the wall built over the sealed galleries
+
+[[place-eyriearvel|Eyrie of the Dragon Riders]]
+: the sealed galleries under the hill
 
 [[lore-ridersdisb|The Lease Refused]]
 : the sealing of the Eyrie

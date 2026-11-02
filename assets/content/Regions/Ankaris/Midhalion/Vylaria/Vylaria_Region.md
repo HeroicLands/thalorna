@@ -43,15 +43,11 @@ The **Vylarian roads** still join the great cities and run on into provinces the
 
 ### The Kervaron Spine {#the-cervaron-spine}
 
-The empire's western frontier rises into the [Kervaron Spine]{.name data-type="place/feature"}, a great arc of high mountains between the Vylarian peninsula and the eastern reaches of [[place-elavendre|Élavendre]] and the northeastern marches of Tarvénia. It is snow on the peaks, forest in the deep valleys, glacier-fed rivers, and high pastures that bloom for two months of the year, and its dozen narrow passes are the only practicable crossings from east to west.
+The empire's western frontier rises into the [[place-kervaron|Kervaron Spine]], a great arc of high mountains between the Vylarian peninsula and the eastern reaches of [[place-elavendre|Élavendre]] and the northeastern marches of [[place-tarvenirgn|Tarvénia]]. Its dozen narrow passes are the only practicable crossings from east to west. [[affiliation-seldan|Seldan]], the Senate, lists the range as imperial territory on the strength of the boundary-stones its legions planted at the passes in [[lore-westernwars|the Western Wars]], and the empire has never governed a valley of it. The Kervaron is the sacred country of the [[lore-aelendnppl|Áelendan]], who hold its peaks to be the dwellings of [[affiliation-firstgods|the First Gods]], and Vylarian merchants cross it by paying the clans a passage-gift at the first camp below each pass. Since the [Doran Hilvan]{.name data-type="affiliation"} was lost in the range ([[lore-twelfthloss|The Loss of the Twelfth]]), no merchant questions the gift and the chancery has not raised the range with the clans.
 
-A mule-train master who has taken Vylarian goods over the Kervaron every summer of his working life explains the arrangement to the factors who hire him: "[[affiliation-seldan|Seldan]], the Senate, lists the range as imperial territory, and you will see the boundary-stones at the passes to prove it. Do not mention them to the clans. You pay the passage-gift at the first camp, they see you through, and nobody calls it a toll or a treaty. That is the whole law up there."
+### The River Vylaris
 
-The claim is old. The imperial chancery has listed the Kervaron as Vylarian since the early [Vylarian Republic]{.name data-type="affiliation/polity"}, on paper alone. The boundary-stones at the principal passes were planted by legionary expeditions in the western wars ([[lore-westernwars|The Western Wars]]), at the height of expansion. The empire has never controlled the range. The Kervaron is the sacred country of the [[lore-aelendnppl|Áelendan]], the eastern [[lore-pelwarpepl|Pelwar tribes]], whose religion holds the high peaks to be the dwellings of [[affiliation-firstgods|the First Gods]] and the great glacier-springs to be the sources from which the world's first waters poured. The Áelendan recognize no Vylarian claim and treat the boundary-stones as ritual objects of obscure foreign meaning. They have repulsed every punitive expedition sent to enforce the chancery's writ, sometimes in pitched battle, more often by letting an imperial column climb deep into the range and then quietly sealing the passes behind it.
-
-Over many generations this has settled into a working balance. The Senate keeps the Kervaron on its list of territories, the Áelendan defend its sacred peaks and springs, and Vylarian merchants who need to cross with goods pay informal **passage-gifts** to the local clans, who accept them and grant safe passage. Both sides prefer this to conquest or to a formal treaty. Since the [Doran Hilvan]{.name data-type="affiliation"} was lost in these passes while enforcing the boundary stones ([[lore-twelfthloss|The Loss of the Twelfth]]), no Vylarian merchant questions the passage-gift. The empire is considerably less tolerant of the Áelendan defense of their sacred sites than Provenzia is: the balance is one the chancery has failed to overturn, not one it accepts.
-
-The names differ with the speaker. The Áelendan name the range only in their own tongue and rarely share it with outsiders; it is said to mean _"the bones of the world's first dawn."_ **Kervaron** is an old chancery word whose original meaning is disputed and most often rendered _"the stag-walked place."_ The Pelwar of Élavendre, who descend from the same root population as the Áelendan and hold the range in comparable reverence, use a Pelwar form of the Áelendan name and quietly back their tribal cousins in anything that touches the Kervaron. The chancery knows it and has not raised the matter diplomatically in nearly a century.
+The [[place-vylarisrvr|River Vylaris]] crosses the heartland from the interior hills to the sea. Grain comes down it from the inland landings to the capital, and the capital's sea cargoes are hauled up it from [[place-aelissium|Elissara]], the chartered city at its mouth, where the river reaches the sea through a fan of reed-marsh channels called the [Mouths]{.name data-type="place/feature"}.
 
 ## Notable Features
 
@@ -61,7 +57,7 @@ The names differ with the speaker. The Áelendan name the range only in their ow
 The Vylarian Roads
 : the engineering that once joined the empire's territories; many stand and remain the main overland trade routes.
 
-The [[place-vylarisrvr|River Vylaris]]
+The River Vylaris
 : the river the heartland is named for, running through Alessa and [[place-salkhalon|Salkalon]] to the sea.
 
 ## See Also
@@ -83,6 +79,12 @@ The [[place-vylarisrvr|River Vylaris]]
 
 [[place-orzara|Orzara City]]
 : the imperial capital
+
+[[place-kervaron|Kervaron Spine]]
+: the western frontier range
+
+[[place-vylarisrvr|River Vylaris]]
+: the river the land is named for
 
 [[lore-vylarianclt|Vylarian]]
 : the people and their manners

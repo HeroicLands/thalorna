@@ -62,7 +62,7 @@ In The Raising of the Eagle City, a tour-guide of [[place-arvon|Arvon]] (the Inn
 
 ## The Old City
 
-Before the [[affiliation-vylarinmpr|Empire]], the city of the [Vylarian Republic]{.name data-type="affiliation/polity"} stood on [[place-antel|Antel]], the Old Hill. Its Senate, [[affiliation-seldan|Seldan]], met there in a hall of its own, it had a Circle of its own, and [[place-arvel|Arvel]] rose beside it as the higher and emptier hill, with the [Eyrie of the Dragon Riders]{.name data-type="place/site"} in galleries cut under its crown ([[lore-ridersdisb|The Lease Refused]] tells how they were sealed). The Republic never walled the Eagle Hill. It had nothing to put on the crown of it that it wished to be seen.
+Before the [[affiliation-vylarinmpr|Empire]], the city of the [Vylarian Republic]{.name data-type="affiliation/polity"} stood on [[place-antel|Antel]], the Old Hill. Its Senate, [[affiliation-seldan|Seldan]], met there in a hall of its own, it had a Circle of its own, and [[place-arvel|Arvel]] rose beside it as the higher and emptier hill, with the [[place-eyriearvel|Eyrie of the Dragon Riders]] in galleries cut under its crown ([[lore-ridersdisb|The Lease Refused]] tells how they were sealed). The Republic never walled the Eagle Hill. It had nothing to put on the crown of it that it wished to be seen.
 
 ## The Walling
 

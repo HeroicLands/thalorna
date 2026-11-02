@@ -82,7 +82,7 @@ The legions came west in earnest about the middle of the second century. They to
 
 ## The Kervaron
 
-Expeditions in the same decades climbed the principal passes of the [Kervaron Spine]{.name data-type="place/feature"} and planted boundary-stones at each. The Áelendan let each column climb deep into the range and sealed the passes behind it, and the columns sent to enforce the stones were turned back. The chancery lists the range as Vylarian on the strength of the stones, and the clans treat the stones as ritual objects of obscure foreign meaning.
+Expeditions in the same decades climbed the principal passes of the [[place-kervaron|Kervaron Spine]] and planted boundary-stones at each. The Áelendan let each column climb deep into the range and sealed the passes behind it, and the columns sent to enforce the stones were turned back. The chancery lists the range as Vylarian on the strength of the stones, and the clans treat the stones as ritual objects of obscure foreign meaning.
 
 ## The Strait
 

@@ -26,7 +26,7 @@ Guardians
 
 The **Drenavar Spine** is the central sacred mountain range of [[place-elavendre|Élavendre]], lying in the interior of the kingdom beyond the settled farmlands and accessible foothills. It is the heart of [[lore-aelendnppl|Áelendan territory]]—the land in which the [Kindred Pact]{.name data-type="lore/law"} is most deeply rooted and in which the greatest concentration of sacred sites is found. The [[affiliation-alndnwrdns|Áelendan Wardens]] maintain their heaviest presence here, and the crown of [[affiliation-kngdmlvndr|Élavendre]] recognizes Áelendan sovereignty over the mountains by ancient law.
 
-The Drenavar is part of a larger Áelendan sacred mountain country that extends east into the [[place-vylariargn#the-cervaron-spine|Kervaron Spine]]—the contested Vylarian frontier range—and south into the [[place-toravarrange|Toravar Range]] that runs along the northern Tarvenan border. To Áelendan reckoning these are not three separate ranges but a single continuous sacred uplift, the high spine of the western world. The Drenavar is the heart; the Kervaron and Toravar are its eastern and southern arms. Outsiders distinguish them; the Áelendan distinguish them only when speaking to outsiders.
+The Drenavar is part of a larger Áelendan sacred mountain country that extends east into the [[place-kervaron|Kervaron Spine]]—the contested Vylarian frontier range—and south into the [[place-toravarrange|Toravar Range]] that runs along the northern Tarvenan border. To Áelendan reckoning these are not three separate ranges but a single continuous sacred uplift, the high spine of the western world. The Drenavar is the heart; the Kervaron and Toravar are its eastern and southern arms. Outsiders distinguish them; the Áelendan distinguish them only when speaking to outsiders.
 
 ## Geography
 
@@ -80,7 +80,7 @@ The crown of Élavendre has recognized Áelendan sovereignty over the Drenavar S
 [[place-elavendre|Élavendre]]
 : The kingdom whose interior contains the Drenavar
 
-[[place-vylariargn#the-cervaron-spine|The Kervaron Spine]]
+[[place-kervaron|The Kervaron Spine]]
 : The contested eastern arm of the same Áelendan sacred uplift
 
 [[place-graznmntns|The Grazian Mountains]]

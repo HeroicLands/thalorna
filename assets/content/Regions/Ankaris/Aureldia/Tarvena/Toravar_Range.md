@@ -14,7 +14,7 @@ The Toravar Range is the great forested mountain belt that runs east–west acro
 
 ## Sacred High Country
 
-The [[affiliation-aelndntrbs|Áelendan]] hold the Toravar as sacred high country, in the same way they hold the [[place-vylariargn#the-cervaron-spine|Kervaron Spine]] to the east. To their reckoning [[place-drenavrspn|the Drenavar]], the Kervaron and the Toravar are not three ranges but one continuous sacred uplift, the high spine of the western world: the Drenavar is its heart, and the Kervaron and the Toravar are its eastern and southern arms. Outsiders distinguish them; the Áelendan distinguish them only when speaking to outsiders.
+The [[affiliation-aelndntrbs|Áelendan]] hold the Toravar as sacred high country, in the same way they hold the [[place-kervaron|Kervaron Spine]] to the east. To their reckoning [[place-drenavrspn|the Drenavar]], the Kervaron and the Toravar are not three ranges but one continuous sacred uplift, the high spine of the western world: the Drenavar is its heart, and the Kervaron and the Toravar are its eastern and southern arms. Outsiders distinguish them; the Áelendan distinguish them only when speaking to outsiders.
 
 The [[lore-aelendnppl|Áelendan]] of the Toravar are the same people as the clans of the Tribal Lands: they hold the same [Kindred Pact]{.name data-type="lore/law"}, recognize the same [[affiliation-alndnwrdns|Wardens]] and keep the same religious calendar, and they live in the high mountains because the high mountains are where they have always lived.
 

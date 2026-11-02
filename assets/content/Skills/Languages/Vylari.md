@@ -9610,6 +9610,8 @@ data:
     - {name: Antel, tongue: vylari}
     - {name: The Old Hill, tongue: translation}
     - {name: Necropolis of Orzara, tongue: translation}
+    - {name: zemrolthauroi, tongue: vylari, built: ["zemrol-", thauros, "-oi"]}
+    - {name: Keepers of the Vaults, tongue: translation}
     - {name: Sarkena Dorekis, tongue: vylari, built: [sarkena, dorekis]}
     - {name: Temple of the Twelve, tongue: translation}
     - {name: Arvon, tongue: vylari}
@@ -9629,6 +9631,10 @@ data:
     - {name: Nartun, tongue: vylari}
     - {name: Nartun Kingdom, tongue: translation}
     - {name: River Vylaris, tongue: translation}
+    - {name: Kozmai, tongue: vylari, built: [kozma, "-ai"]}
+    - {name: Sulkozma, tongue: vylari, built: ["sulk-", kozma]}
+    - {name: The Mouths, tongue: translation}
+    - {name: The Reed Mouth, tongue: translation}
     - {name: Soraks, tongue: vylari}
     - {name: Bralvik, tongue: other:nordmal}
     - {name: Ilthera Salken, tongue: vylari, built: [ilthera, salk-, -en]}

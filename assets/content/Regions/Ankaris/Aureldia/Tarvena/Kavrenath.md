@@ -14,7 +14,7 @@ data:
   government: kngdmstrth
 ---
 
-Kávrenath is the frontier town of [[place-asturath|Asturath]], ten thousand people behind a wall at the eastern edge of the kingdom, where the last valley road leaves the mountains of [[place-tarvenirgn|Tarvénia]] and climbs toward the [[place-vylariargn#the-cervaron-spine|Kervaron Spine]]. Beyond the Kervaron lies the [[affiliation-vylarinmpr|Vylarian Empire]], and everything that crosses between the Empire and Asturath by land comes through Kávrenath or goes round it in the dark. The town is famous for two things: its fortress, and the crossbow companies of the valleys above it.
+Kávrenath is the frontier town of [[place-asturath|Asturath]], ten thousand people behind a wall at the eastern edge of the kingdom, where the last valley road leaves the mountains of [[place-tarvenirgn|Tarvénia]] and climbs toward the [[place-kervaron|Kervaron Spine]]. Beyond the Kervaron lies the [[affiliation-vylarinmpr|Vylarian Empire]], and everything that crosses between the Empire and Asturath by land comes through Kávrenath or goes round it in the dark. The town is famous for two things: its fortress, and the crossbow companies of the valleys above it.
 
 ## The Town
 
@@ -49,5 +49,5 @@ Kávrenath belongs to the [[affiliation-kngdmstrth|Kingdom of Asturath]]. The Wa
 - [[place-asturath|Asturath]]—the mountain land it guards
 - [[place-zurgando|Zurgando]]—the pass at the head of its valleys
 - [[affiliation-kngdmstrth|Kingdom of Asturath]]—the kingdom that holds it
-- [[place-vylariargn#the-cervaron-spine|Kervaron Spine]]—the mountains to the east
+- [[place-kervaron|Kervaron Spine]]—the mountains to the east
 - [[lore-lightatfront|The Light at the Front]]—the tale its valleys tell on the night of the lanterns
