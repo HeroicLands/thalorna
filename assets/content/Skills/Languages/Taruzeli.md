@@ -6708,7 +6708,7 @@ data:
     folders: [taruzel, midhaliontaruzel]
     cultures: [taruzelianclt]
     lore: [taruzelianclt]
-    parents: [taruzelrgn]
+    parents: [taruzelrgn, qalirel, nishurel, khamisar, visizel, tashilar, milazun]
     addresses: [lore-taruzelianclt, skill-taruzelilng, skill-merazanscrpt]
   tongues:
     - {tag: taruzeli, meaning: a Taruzeli name, language: skill-taruzelilng}
@@ -6763,6 +6763,14 @@ data:
     - {name: Tanadan Helaruni, tongue: taruzeli, built: [tanad-, -an, helar-, -uni]}
     - {name: Taruzel, tongue: taruzeli, built: [taruz-, -el]}
     - {name: Taruzel Region, tongue: translation}
+    - {name: Qalirel, tongue: taruzeli, built: [qalir-, -el]}
+    - {name: Nishurel, tongue: taruzeli, built: [nishur-, -el]}
+    - {name: Khamisar, tongue: taruzeli, built: [khamis-, -ar]}
+    - {name: Visizel, tongue: taruzeli, built: [visiz-, -el]}
+    - {name: Tashilar, tongue: taruzeli, built: [tashil-, -ar]}
+    - {name: Milazun, tongue: taruzeli, built: [milaz-, -un]}
+    - {name: Zupumun, tongue: taruzeli, built: [zupum-, -un]}
+    - {name: The Channels, tongue: translation}
     - {name: Taruzeli, tongue: translation}
     - {name: Taruzeli Language, tongue: translation}
     - {name: Taruzeli Lexicon, tongue: translation}

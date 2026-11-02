@@ -8,7 +8,7 @@ tags: [port, town, draft]
 data:
   demonym: null
   lore: []
-  parents: [taruzelrgn]
+  parents: [qalirel]
   population: 30000
   government: gldbrdshrmn
   packFolder: taruzel

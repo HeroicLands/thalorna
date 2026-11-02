@@ -8,7 +8,7 @@ tags: [town, merchant, draft]
 data:
   demonym: null
   lore: []
-  parents: [taruzelrgn]
+  parents: [milazun]
   population: 12000
   government: gldbrdshmlr
   packFolder: taruzel

@@ -8,7 +8,7 @@ tags: [village, coastal, draft]
 data:
   demonym: null
   lore: []
-  parents: [taruzelrgn]
+  parents: [visizel]
   population: 2000
   government: cnclhtsl
   packFolder: taruzel

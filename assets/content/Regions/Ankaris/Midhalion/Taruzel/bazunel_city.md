@@ -5,7 +5,7 @@ type: place
 subType: settlement
 description: "The cultural heart of Taruzel, a city of ship designers, astronomers and artists that shelters those who fall afoul of guild politics elsewhere."
 tags: [city-state, city]
-data: {demonym: null, lore: [], parents: [taruzelrgn], population: 150000, government: bazunel}
+data: {demonym: null, lore: [], parents: [tashilar], population: 150000, government: bazunel}
 ---
 
 ## Overview

@@ -5,7 +5,7 @@ type: place
 subType: feature
 description: "The island river whose mouth makes Sazumun's harbor, its upper valley wooded hill country of timberwrights."
 tags: [draft]
-data: {demonym: null, lore: [], parents: [taruzelrgn], population: 0, packFolder: taruzel}
+data: {demonym: null, lore: [], parents: [visizel], population: 0, packFolder: taruzel}
 ---
 
 ## Overview

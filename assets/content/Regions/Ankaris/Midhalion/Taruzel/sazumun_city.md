@@ -5,7 +5,7 @@ type: place
 subType: settlement
 description: "A white-walled port at the mouth of the Alz River whose guilds govern the flow of goods between the desert trade, the island towns and the sea."
 tags: [port, city]
-data: {demonym: null, lore: [], parents: [taruzelrgn], population: 200000, government: sazumun}
+data: {demonym: null, lore: [], parents: [visizel], population: 200000, government: sazumun}
 ---
 
 ## Overview

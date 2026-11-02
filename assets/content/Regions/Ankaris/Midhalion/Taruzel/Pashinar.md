@@ -8,7 +8,7 @@ tags: [town, trading]
 data:
   demonym: null
   lore: []
-  parents: [taruzelrgn]
+  parents: [qalirel]
   population: 12000
   government: gldbrdpshnr
   packFolder: taruzel

@@ -8,7 +8,7 @@ tags: [city, port, capital]
 data:
   demonym: Besikarian
   lore: [humanflk]
-  parents: [taruzelrgn]
+  parents: [qalirel]
   population: 400000
   packFolder: taruzel
   government: besikar

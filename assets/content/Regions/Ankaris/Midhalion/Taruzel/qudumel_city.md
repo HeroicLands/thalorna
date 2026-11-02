@@ -8,7 +8,7 @@ tags: [city, caravan]
 data:
   demonym: Kudumelian
   lore: [humanflk]
-  parents: [taruzelrgn]
+  parents: [nishurel]
   population: 220000
   packFolder: taruzel
   government: qudumel

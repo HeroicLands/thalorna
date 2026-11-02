@@ -5,7 +5,7 @@ type: place
 subType: settlement
 description: "The Confederation's naval stronghold on the narrows between the islands of Taruzel, where admirals' families govern and independence-war veterans wait on promises."
 tags: [city, naval]
-data: {demonym: null, lore: [], parents: [taruzelrgn], population: 180000, government: yamuzel}
+data: {demonym: null, lore: [], parents: [khamisar], population: 180000, government: yamuzel}
 ---
 
 ## Overview
