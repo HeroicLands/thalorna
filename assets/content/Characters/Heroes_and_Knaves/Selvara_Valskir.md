@@ -420,7 +420,7 @@ Sélvara was born in a coastal village in northern [[place-tarvenirgn|Tarvénia]
 
 ### The War
 
-Sélvara joined the [[lore-taruzelianclt|Taruzelian]] rebellion the same night, following Bu into a conflict that would consume the next four years of her life. She proved to be a natural warrior—disciplined, fearless, and relentlessly competent. Where Bu led with charisma and tactical cunning, Sélvara was the steady hand that turned his plans into reality. She fought in the brutal [Battle of Tamzir Shoals]{.name data-type="lore/history"} at [[place-tamzirshoals|Tamzir Shoals]], where she earned a reputation for cold-blooded steadiness under fire. By the war's end, she was a hardened veteran at eighteen.
+Sélvara joined the [[lore-taruzelianclt|Taruzelian]] rebellion the same night, following Bu into a conflict that would consume the next four years of her life. She proved to be a natural warrior—disciplined, fearless, and relentlessly competent. Where Bu led with charisma and tactical cunning, Sélvara was the steady hand that turned his plans into reality. She fought in [[lore-tamzirbattle|The Battle of Tamzir Shoals]], a brutal engagement at [[place-tamzirshoals|Tamzir Shoals]], where she earned a reputation for cold-blooded steadiness under fire. By the war's end, she was a hardened veteran at eighteen.
 
 ### After the War
 

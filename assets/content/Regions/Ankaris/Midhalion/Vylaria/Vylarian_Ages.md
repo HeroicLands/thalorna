@@ -109,7 +109,7 @@ An Empire that keeps the forms and stops paying the far forts, sends the [Doran 
 
 ### After the Shoals, 708 to the present
 
-The present: the [Battle of Tamzir Shoals]{.name data-type="lore/history"}, the recognition, a navy being rebuilt, a reform forced on the commission system ([[lore-commissioncmp|The Commission Compromise]]), and an old Orzas with a contested succession that has made the Senate matter again.
+The present: [[lore-tamzirbattle|The Battle of Tamzir Shoals]], the recognition, a navy being rebuilt, a reform forced on the commission system ([[lore-commissioncmp|The Commission Compromise]]), and an old Orzas with a contested succession that has made the Senate matter again.
 
 ## See Also
 

@@ -62,11 +62,11 @@ data:
 sohl: {system: {commonSkills: [taruzelilng]}}
 ---
 
-In Yamuzel a family's standing is counted in ships commanded and battles won. The city built the fleet that won the [Battle of Tamzir Shoals]{.name data-type="lore/history"} ([[place-tamzirshoals|Tamzir Shoals]]), and it is military as much as mercantile: its admirals command the most powerful warships of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], and its marine infantry are the nearest thing Taruzel has to a professional standing army. The city-state holds the fortified city of [[place-yamuzel2|Yamuzel]] on the narrows between the Taruzelian islands, and some 2.2 million people.
+In Yamuzel a family's standing is counted in ships commanded and battles won. The city built the fleet that won [[lore-tamzirbattle|The Battle of Tamzir Shoals]] ([[place-tamzirshoals|Tamzir Shoals]]), and it is military as much as mercantile: its admirals command the most powerful warships of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], and its marine infantry are the nearest thing Taruzel has to a professional standing army. The city-state holds the fortified city of [[place-yamuzel2|Yamuzel]] on the narrows between the Taruzelian islands, and some 2.2 million people.
 
 ## Who Decides
 
-The great families are admirals' families, and the [Admiral's Council]{.name data-type="affiliation/governmental"} that governs the city is drawn heavily from them. The city's festivals turn on martial display rather than commercial spectacle, and the greatest of them, the annual [Fleet Review]{.name data-type="lore/gathering"} in memory of the Shoals, draws visitors from across the Confederation.
+The great families are admirals' families, and the [Admiral's Council]{.name data-type="affiliation/governmental"} that governs the city is drawn heavily from them. The city's festivals turn on martial display rather than commercial spectacle, and the greatest of them, the annual [[lore-fleetreview|Fleet Review]] in memory of the Shoals, draws visitors from across the Confederation.
 
 The council's forms are the ones every Taruzelian city shares—a First of the Council holding the seal for his term, councilors seated by the weight of their houses, a Harbormaster over the port—but in Yamuzel the house behind a councilor is usually a naval one, where in [[affiliation-besikar|Besikar]] it is a banking or trading one. The [[affiliation-corsairleg|Corsair League]] has its strongest roots here.
 

@@ -6769,6 +6769,31 @@ data:
     - {name: Guild Board of Sharimun, tongue: translation}
     - {name: Sharrush Khamisuni, tongue: taruzeli, built: [sharr-, -ush, khamis-, -uni]}
     - {name: Tamzir Shoals, tongue: translation}
+    - {name: Free Captains, tongue: translation}
+    - {name: The Free Captains, tongue: translation}
+    - {name: Yazila Ilammuni, tongue: taruzeli, built: [yazil-, -a, ilamm-, -uni]}
+    - {name: Unchained, tongue: translation}
+    - {name: The Unchained, tongue: translation}
+    - {name: Shoals Brotherhood, tongue: translation}
+    - {name: The Shoals Brotherhood, tongue: translation}
+    - {name: The Brotherhood, tongue: translation}
+    - {name: Qatilush, tongue: taruzeli, built: [qatil-, -ush]}
+    - {name: The Keeping, tongue: translation}
+    - {name: Sulimar, tongue: taruzeli, built: [sulim-, -ar]}
+    - {name: Burakan Zupumi, tongue: taruzeli, built: [burak-, -an, zupum-, -i]}
+    - {name: Fleet Review, tongue: translation}
+    - {name: The Fleet Review, tongue: translation}
+    - {name: The Review, tongue: translation}
+    - {name: The Taruzelian War of Independence, tongue: translation}
+    - {name: Taruzelian War of Independence, tongue: translation}
+    - {name: The War of Independence, tongue: translation}
+    - {name: The Taruzelian Secession, tongue: translation}
+    - {name: The Battle of Tamzir Shoals, tongue: translation}
+    - {name: Battle of Tamzir Shoals, tongue: translation}
+    - {name: The Shoals, tongue: translation}
+    - {name: The Betrayal of the Revolution, tongue: translation}
+    - {name: The Betrayal, tongue: translation}
+    - {name: The Discharge, tongue: translation}
     - {name: Tanadan Helaruni, tongue: taruzeli, built: [tanad-, -an, helar-, -uni]}
     - {name: Taruzel, tongue: taruzeli, built: [taruz-, -el]}
     - {name: Taruzel Region, tongue: translation}

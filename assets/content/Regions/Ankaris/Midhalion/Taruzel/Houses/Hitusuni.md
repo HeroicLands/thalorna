@@ -75,7 +75,7 @@ The head of the house is a heavy, soft-spoken man of about fifty with a black be
 
 ## Debt and Appetite
 
-During the war the captains of the flotilla stored their prize cargoes in Hitusuni warehouses, under the house's seal, to be sold when the war was won. When the guilds declared the most stubborn of those captains outlaws, the house kept the cargoes, and the seals on them. Some of the outlaw captains who now call themselves the [Free Captains]{.name data-type="affiliation"} still hold the house's receipts, and the house owes them what is written on the receipts.
+During the war the captains of the flotilla stored their prize cargoes in Hitusuni warehouses, under the house's seal, to be sold when the war was won. When the guilds declared the most stubborn of those captains outlaws, the house kept the cargoes, and the seals on them. Some of the outlaw captains who now call themselves the [[affiliation-freecaptains|Free Captains]] still hold the house's receipts, and the house owes them what is written on the receipts.
 
 What Ashuraz wants is a moneylender's charter. A moneylender house of the [Treasurers' Guild]{.name data-type="affiliation/guild"} deposits bullion with the [[affiliation-merazuni|Merazuni]] and draws script against it, and script cleared by the Merazuni is good anywhere in the Confederation. A Hitusuni charter would let the Merchantry's money come out of the warehouses as clean Merazuni script, and Ashuraz has been courting the Kubasum's clerks for it with great patience and very good dinners.
 

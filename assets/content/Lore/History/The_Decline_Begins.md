@@ -100,7 +100,7 @@ The imperial response was effective on land—until
 the [[affiliation-empireakhlth|Empire of Au'Khelathu]], seeing an opportunity to weaken a northern rival, covertly
 supplied the rebels with gold, weapons and military advisors. [[lore-khelathiclt|Khelathi]] gold kept the rebellion solvent
 and Khelathi naval expertise turned a ragtag flotilla into a fighting force; the destruction of a
-Vylarian squadron in the [Battle of Tamzir Shoals]{.name data-type="lore/history"}, at [[place-tamzirshoals|Tamzir Shoals]], broke the empire's ability to sustain its eastern
+Vylarian squadron in [[lore-tamzirbattle|The Battle of Tamzir Shoals]], at [[place-tamzirshoals|Tamzir Shoals]], broke the empire's ability to sustain its eastern
 garrisons, and the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]' independence was recognized within the year.
 
 Today the empire has retreated to its core territories around the [[place-vylariargn|Vylarian peninsula]], though it still

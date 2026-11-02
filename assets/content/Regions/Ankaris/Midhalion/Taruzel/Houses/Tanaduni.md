@@ -51,7 +51,7 @@ sohl: {system: {commonSkills: []}}
 
 Every Tanaduni galley carries a black anchor painted on her bow, and on the mornings a convoy gathers in the roads below the [Strait Fortress]{.name data-type="place/structure"} of [[place-yamuzel2|Yamuzel]] there can be a dozen of them at once, oars shipped, waiting for the merchantmen to take their places between them. Over the door of the house on the harbor hangs the gilded stern-board of an imperial warship, cracked across the middle, and a child of the house is taken up to touch it on the day of its naming.
 
-The Tanaduni (from _tanad-_, to hold fast to the bottom, which gives _tanadush_, an anchor) are the company of the anchor. Yamuzel counts a family's standing in ships commanded and battles won, and by that count the Tanaduni stand near the top: the house sent a squadron to the [Battle of Tamzir Shoals]{.name data-type="lore/history"}, and its head is one of the captains who founded the [[affiliation-corsairleg|Corsair League]] afterward.
+The Tanaduni (from _tanad-_, to hold fast to the bottom, which gives _tanadush_, an anchor) are the company of the anchor. Yamuzel counts a family's standing in ships commanded and battles won, and by that count the Tanaduni stand near the top: the house sent a squadron to [[lore-tamzirbattle|The Battle of Tamzir Shoals]], and its head is one of the captains who founded the [[affiliation-corsairleg|Corsair League]] afterward.
 
 Kind
 : an admirals' house of war-galleys, escort and berths, family and firm in one (_taruzi_)
@@ -73,7 +73,7 @@ The convoy is how most of the coast meets the house. A merchantman bound out of 
 
 ## Delzuru Tanaduni
 
-The admiral is a big, gray, cheerful man of fifty-seven who commanded the house's squadron at the Shoals and wears no mark of it but a scar through one eyebrow. He sits on the [Admiral's Council]{.name data-type="affiliation/governmental"} that governs Yamuzel and in the councils of the League. He pays for a table at the [Fleet Review]{.name data-type="lore/gathering"} every year and stands drinks in the [Veterans' Quarter]{.name data-type="place/site"}, and some of the veterans drink with him. The others remember that when the League was turned from a brotherhood of the Shoals into a shipping cartel, Delzuru voted with the shipowners, and that the League patrols hunting the outlaw captains include Tanaduni galleys.
+The admiral is a big, gray, cheerful man of fifty-seven who commanded the house's squadron at the Shoals and wears no mark of it but a scar through one eyebrow. He sits on the [Admiral's Council]{.name data-type="affiliation/governmental"} that governs Yamuzel and in the councils of the League. He pays for a table at the [[lore-fleetreview|Fleet Review]] every year and stands drinks in the [Veterans' Quarter]{.name data-type="place/site"}, and some of the veterans drink with him. The others remember that when the League was turned from a brotherhood of the Shoals into a shipping cartel, Delzuru voted with the shipowners, and that the League patrols hunting the outlaw captains include Tanaduni galleys.
 
 ## Debt and Appetite
 

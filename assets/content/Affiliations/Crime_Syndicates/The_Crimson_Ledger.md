@@ -75,7 +75,7 @@ sohl: {system: {commonSkills: []}}
 
 ## Overview
 
-A financial crime network rooted in the shadows of the [[place-taruzelrgn|Taruzel Region]]'s post-independence banking boom. When the [[affiliation-auricompct|Auric Compact]] consolidated power after the [Taruzelian War of Independence]{.name data-type="lore/history"}, it squeezed out smaller money changers, loan brokers, and trade factors who had operated in the margins of the old Vylarian colonial economy. Some went legitimate under the new order. Others went underground.
+A financial crime network rooted in the shadows of the [[place-taruzelrgn|Taruzel Region]]'s post-independence banking boom. When the [[affiliation-auricompct|Auric Compact]] consolidated power after [[lore-taruzelwar|The Taruzelian War of Independence]], it squeezed out smaller money changers, loan brokers, and trade factors who had operated in the margins of the old Vylarian colonial economy. Some went legitimate under the new order. Others went underground.
 
 The Crimson Ledger is what emerged—a network of financial criminals who understand money the way a surgeon understands anatomy. They don't rob banks; they become banks. They don't steal cargo; they own the warehouses where cargo goes missing, collect the insurance, and sell the "lost" goods through a different subsidiary.
 
