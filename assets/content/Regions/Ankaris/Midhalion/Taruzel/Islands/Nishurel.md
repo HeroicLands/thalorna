@@ -25,7 +25,7 @@ Nishurel is the island the east comes to first. Its ferries carry the caravan go
 
 Nishurel is the driest of the islands. In late summer the east wind comes off the mainland hot and full of grit, and for a week or two at a time the sky goes yellow and the harbor masters close the quays at noon. The rain falls in winter, little and hard, and every roof and terrace on the island drains into a cistern. The coastal plain is narrow and stony, farmed in barley, beans and figs behind walls of piled stone, with date palms round the wells.
 
-Inland the ground rises in low, bare limestone hills cut by dry gullies that run with water a few days a year. The hill country of the interior is the tribes' country, and they hold seats on Kudumel's council beside the city's merchants. Their hill roads, worn paths between wells, cross the island from the eastern shore to the western, and the caravan houses of Kudumel hire tribal guides to take goods over them.
+Inland the ground rises in low, bare limestone hills cut by dry gullies that run with water a few days a year. The hill country of the interior, part of [[place-tulurel|Tulurel]], is the country of the [[affiliation-saliruni|Saliruni]], the island's hill tribe, and the hill tribes hold seats on Kudumel's council beside the city's merchants. Their hill roads, worn paths between wells, cross the island from the eastern shore to the western, and the caravan houses of Kudumel hire tribal guides to take goods over them.
 
 On the hilltops stand small fire-shrines of the Ashaian faith, each a domed room of whitewashed stone with a fire kept in it, and a traveler sees one or two on the skyline from almost anywhere on the island.
 

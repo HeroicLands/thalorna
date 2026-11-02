@@ -6725,6 +6725,15 @@ data:
     - {name: Bu, tongue: taruzeli}
     - {name: Confederation of Taruzelian States, tongue: translation}
     - {name: Corsair League, tongue: translation}
+    - {name: Tulurel, tongue: taruzeli, built: [tulur-, -el]}
+    - {name: The Hill Country, tongue: translation}
+    - {name: Council of the Hills, tongue: translation}
+    - {name: Qazishuni, tongue: taruzeli, built: [qazish-, -uni]}
+    - {name: Saliruni, tongue: taruzeli, built: [salir-, -uni]}
+    - {name: Haduruni, tongue: taruzeli, built: [hadur-, -uni]}
+    - {name: Ralumar, tongue: taruzeli, built: [ralum-, -ar]}
+    - {name: The Doors, tongue: translation}
+    - {name: Qatush Qazishuni, tongue: taruzeli, built: [qat-, -ush, qazish-, -uni]}
     - {name: The Council of the Guild-Wardens, tongue: translation}
     - {name: Dapuman Jakuduni, tongue: taruzeli, built: [dapum-, -an, jakud-, -uni]}
     - {name: Genira Bibudi, tongue: taruzeli, built: [genir-, -a, bibud-, -i]}
@@ -7142,6 +7151,10 @@ Spoken in the mixed port cities of Kalihara, this dialect exhibits simplified vo
 ### Merchant Guild Register
 
 A specialized register employed in high-level commercial negotiations, featuring archaic grammatical forms, technical vocabulary for maritime law, and heavily marked vowels for contractual precision.
+
+### Hill Taruzeli {#hill-taruzeli}
+
+The speech of the hill tribes of [[place-tulurel|Tulurel]], the interiors of Qalirel, Nishurel and Visizel. It keeps the old words of herding, water, kin and oath that the coast has let go or keeps only in the Merchant Guild Register, and it has almost none of the ledger vocabulary or the loanwords of the ports. Hill speakers talk slowly and briefly, greet with an offer of milk or water, and count what they are owed in goats. Coast speakers follow it with effort.
 
 ## Sample Phrases
 

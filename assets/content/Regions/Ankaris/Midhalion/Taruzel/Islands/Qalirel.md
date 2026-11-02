@@ -25,7 +25,7 @@ The island has two faces. Its north-western coast, toward [[place-helionis|Helio
 
 A narrow coastal plain rings the island, wider on the north-western side, where the rain comes in winter off the sea. It is farmed hard: barley and beans on the flat, vines and fruit trees on terraces cut into the first slopes, and walled gardens round the country houses of the Besikar guild families, who keep estates within a day's ride of the city. Every village has its cistern and its well, and in late summer, when the wells run low, water is sold by the jar.
 
-Above the terraces the land climbs through rolling hills of oak and scrub to a long ridge of bare limestone and thyme, where the goats outnumber the people. The interior above the last terraces belongs to the hill tribes, who keep their own councils and pastures and resent the harbor towns below them. Along the ridges stand the ruined hill forts that the legions built and the tribes garrisoned for imperial pay ([[lore-easternline|The Eastern Line]]), and the military road the legions cut still crosses the spine between them.
+Above the terraces the land climbs through rolling hills of oak and scrub to a long ridge of bare limestone and thyme, where the goats outnumber the people. The interior above the last terraces is part of the hill country of [[place-tulurel|Tulurel]] and belongs to the [[affiliation-qazishuni|Qazishuni]], a hill tribe that keeps its own councils and pastures and resents the harbor towns below it. Along the ridges stand the ruined hill forts that the legions built and the tribes garrisoned for imperial pay ([[lore-easternline|The Eastern Line]]), and the military road the legions cut still crosses the spine between them.
 
 ## Harbors and Roads
 

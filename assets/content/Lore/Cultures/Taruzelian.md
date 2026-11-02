@@ -75,7 +75,9 @@ The middle—independent merchants, skilled craftspeople and ship captains—is 
 
 The harbor districts are cramped, poor and increasingly restless. Dock workers and sailors carried the war, and a decade of being told that liberty has been achieved has not improved their temper.
 
-Apart from all three stand the hill tribes of the larger islands, culturally distinct, speaking archaic dialects, keeping older traditions, and resenting the port cities. They supplied a great many of the foot soldiers for independence and have seen almost none of the benefit, and harbor Taruzelians tend to forget they exist until a levy is needed.
+Apart from all three stand the hill tribes of the larger islands, in the hill country the coast calls [[place-tulurel|Tulurel]]: the [[affiliation-qazishuni|Qazishuni]] of Qalirel's spine, the [[affiliation-saliruni|Saliruni]] of Nishurel's wells and the [[affiliation-haduruni|Haduruni]] of Visizel's high woods. They herd goats, horses and camels, sell the coast its passage and its water, speak the old-sounding hill speech, keep the Ashaian fires on their hilltops, and resent the port cities. They answer to their own [[affiliation-hillcouncil|Council of the Hills]], which sits each autumn in the ruin of [[place-ralumar|Ralumar]], and to no magistrate of the coast. They supplied a great many of the foot soldiers for independence and have seen almost none of the benefit, and harbor Taruzelians tend to forget they exist until a levy is needed.
+
+The hills keep a ledger of their own, by heart. A hill camp counts its wealth in goats and its debts in what the coast has promised and not paid, and the elders recite both. A harbor house that treats an unwritten bargain with the hills as no bargain at all has made an enemy whose memory is longer than any house's books.
 
 ## The Bargain as a Social Form
 

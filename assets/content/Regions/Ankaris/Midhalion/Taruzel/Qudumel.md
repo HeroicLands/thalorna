@@ -57,7 +57,7 @@ data:
 sohl: {system: {commonSkills: [taruzelilng, dunharlng]}}
 ---
 
-Kudumel's council keeps seats for men who do not live in the city. Representatives of the hill tribes sit on it beside the urban merchants, because Kudumel lives by its dealings with peoples who do not recognize guild authority and will not deal with guild enforcers. The city-state holds the city of [[place-qudumel2|Kudumel]], the eastern gateway of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], and some 2.3 million people: a sprawling, dusty, polyglot country where Taruzelian merchants bargain with Dunhari caravaneers, Khazryn nomads and, now and then, traders from as far as the [[place-vedyarargn|Vedyara Region]] and the [[place-byzariargn|Bizaria Region]].
+Kudumel's council keeps seats for men who do not live in the city. Representatives of the hill tribes, named by their own [[affiliation-hillcouncil|Council of the Hills]], sit on it beside the urban merchants, because Kudumel lives by its dealings with peoples who do not recognize guild authority and will not deal with guild enforcers. The city-state holds the city of [[place-qudumel2|Kudumel]], the eastern gateway of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], and some 2.3 million people: a sprawling, dusty, polyglot country where Taruzelian merchants bargain with Dunhari caravaneers, Khazryn nomads and, now and then, traders from as far as the [[place-vedyarargn|Vedyara Region]] and the [[place-byzariargn|Bizaria Region]].
 
 ## Who Decides
 

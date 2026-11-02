@@ -25,7 +25,7 @@ It is the island that faces the west. The desert goods that cross the strait com
 
 Visizel catches more rain than any other island, because the winter weather comes in from the west and the island's hills meet it first. Its western side is green from autumn to early summer: a coastal plain of grain, orchards and vegetable gardens, watered from the river and from springs. The Alz runs down to that plain from the hills of the interior through a long valley, and the upper valley is wooded in oak, pine and chestnut, the **Alz woods**, where timberwright families cut the trees that become the ships of Sazumun and the masts and keels of the Naval Yards at [[place-yamuzel2|Yamuzel]]. Felled trunks come down the river on the winter flood, chained into rafts.
 
-The interior is high, broken hill country, wooded on its western slopes and bare scrub on its eastern ones, and it belongs to the hill tribes, who sell the timberwrights the right to cut on their side of the valley and watch the cutting. The eastern side of the island, in the rain shadow, is drier, poorer and thinly settled, a coast of fishing harbors looking out over the channels.
+The interior is high, broken hill country, wooded on its western slopes and bare scrub on its eastern ones, and it belongs to the [[affiliation-haduruni|Haduruni]], the island's hill tribe, who sell the timberwrights the right to cut on their side of the valley and watch the cutting. The eastern side of the island, in the rain shadow, is drier, poorer and thinly settled, a coast of fishing harbors looking out over the channels.
 
 ## Harbors and Roads
 
