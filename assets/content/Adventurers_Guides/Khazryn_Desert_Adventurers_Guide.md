@@ -67,7 +67,7 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'affiliation'
   AND subType = 'polity'
-  AND file.folder = 'Regions/Ankaris/Khazryn_Desert/Steppe_Tribes'
+  AND data.culture = 'thalorna-note-lore-sowidesclt'
 ORDER BY name.full COLLATE NOCASE
 ```
 

@@ -93,7 +93,7 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'place'
   AND subType = 'settlement'
-  AND file.folder LIKE 'Regions/Ankaris/Midhalion/Vylaria%'
+  AND data.culture = 'thalorna-note-lore-vylarianclt'
   AND data.population >= 9000
 ORDER BY data.population DESC, name.full COLLATE NOCASE
 ```

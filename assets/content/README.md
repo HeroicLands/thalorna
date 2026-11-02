@@ -90,6 +90,27 @@ a `package:` key on a note is a hard build error, naming the file and the line.
 Do not add it back—not even with the value `thalorna`, which is refused
 exactly as any other is.
 
+## Selecting other notes
+
+A note's place in this tree is never a fact about it. A file may sit in any
+directory under any name, and renaming or moving it changes nothing that is
+built. So a note that selects other notes, in an `sql` fence or a language's
+`data.scope`, selects by address, shortcode, frontmatter property or tag, and
+never reads `file.folder`, `file.path` or `file.name` or states `scope.paths`.
+A table of a people's governing bodies reads their culture:
+
+```sql
+SELECT address.slug AS _ref, name.full AS "Body"
+FROM notes
+WHERE type = 'affiliation'
+  AND subType = 'governmental'
+  AND data.culture = 'thalorna-note-lore-khelathiclt'
+ORDER BY name.full COLLATE NOCASE
+```
+
+Where no property states a membership a query needs, add the property to the
+notes. `CONTRIBUTING.md` gives the full rule.
+
 ## Varokh names and totems
 
 A Varokh's `name.full` is the name in full that `Skills/Languages/Varokhi_Language.md` sets out: the given name, `yra` and the clan, `wur` and the village, as in `Athalwa yra Vithrúnd wur Eichengrund`. A `character` also states the two pieces in `name.given` and `name.clan` (an `npc` takes neither key), the clan is a kindred and never a village, and the village is the settlement `data.homes` names where it names one. A bare given name and clan is never written, in frontmatter or in prose. An earned Varokhi byname may stand after the given name in place of the clan and village, as `Thornak Blodtusc Bar` does. A village's shared _wesk_ goes in its `data.lore`; personal totems may reflect individual personalities and are not mandatory.

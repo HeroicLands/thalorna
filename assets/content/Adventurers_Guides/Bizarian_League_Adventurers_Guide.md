@@ -35,7 +35,7 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'place'
   AND subType = 'settlement'
-  AND file.folder = 'Regions/Ankaris/Hellad/Byzaria'
+  AND list_contains(data.parents, 'thalorna-note-place-byzariargn')
   AND data.population >= 4000
 ORDER BY data.population DESC, name.full COLLATE NOCASE
 ```
@@ -67,7 +67,7 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'affiliation'
   AND subType = 'polity'
-  AND file.folder = 'Regions/Ankaris/Hellad/Byzaria'
+  AND data.culture = 'thalorna-note-lore-byzarianclt'
   AND name.full <> 'Bizarian League'
 ORDER BY data.population DESC, name.full COLLATE NOCASE
 ```

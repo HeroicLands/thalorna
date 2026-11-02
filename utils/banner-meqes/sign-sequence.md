@@ -67,15 +67,15 @@ Line numbers are of the file on thalorna `origin/main`.
 - **_The margins / the river was the Gar-Au's_.** `assets/content/Lore/Cultures/Khelathi/The_Stela_of_KuzUqa_at_Zel_Halzi.md`:64–71 (_and the cisterns were his_, _and the canal was his_) and :114
 - **The titles repeated before each deed.** `assets/content/Lore/Cultures/Khelathi/The_Stela_of_KuzUqa_at_Zel_Halzi.md`:49–59, the chain of titles at the head of the deeds
 - **_fire on the first ground, lord of the dry ink, who comes up the road_.** `assets/content/Lore/Cultures/Khelathi/The_Hymn_of_the_Sun_Lord.md`:48, :51, :53
-- **The posthumous date: Year 1 of the successor.** `assets/content/Regions/Xerathia/Northern_Fertile_Region/Khelathu/Gar_Auu.md`:63, :130–131; `assets/content/Regions/Xerathia/Northern_Fertile_Region/Khelathu/The_Reading_at_the_Weighing.md`:28–29
-- **_Went to the West … in his twenty-seventh year_.** `assets/content/Lore/Cultures/Khelathi/The_Stela_of_KuzUqa_at_Zel_Halzi.md`:96; `assets/content/Regions/Xerathia/Northern_Fertile_Region/Khelathu/Gar_Auu.md`:44, :130
-- **_His account is read_.** `assets/content/Regions/Xerathia/Northern_Fertile_Region/Khelathu/The_Reading_at_the_Weighing.md`:21, :91
+- **The posthumous date: Year 1 of the successor.** `assets/content/Regions/Zerathia/Northern_Fertile_Region/Khelathu/Gar_Auu.md`:63, :130–131; `assets/content/Regions/Zerathia/Northern_Fertile_Region/Khelathu/The_Reading_at_the_Weighing.md`:28–29
+- **_Went to the West … in his twenty-seventh year_.** `assets/content/Lore/Cultures/Khelathi/The_Stela_of_KuzUqa_at_Zel_Halzi.md`:96; `assets/content/Regions/Zerathia/Northern_Fertile_Region/Khelathu/Gar_Auu.md`:44, :130
+- **_His account is read_.** `assets/content/Regions/Zerathia/Northern_Fertile_Region/Khelathu/The_Reading_at_the_Weighing.md`:21, :91
 - **The gods' gifts acknowledged, not booked as a debt.** `assets/content/Lore/Cultures/Khelathi/The_Instruction_of_Khelayu.md`:102
-- **The granaries opened under his seal; none hungered.** `assets/content/Lore/Cultures/Khelathi/The_Stela_of_KuzUqa_at_Zel_Halzi.md`:58; `assets/content/Lore/Cultures/Khelathi.md`:173; `assets/content/Regions/Xerathia/Northern_Fertile_Region/Khelathu/The_Reading_at_the_Weighing.md`:85
-- **The tablets level on the beam.** `assets/content/Regions/Xerathia/Northern_Fertile_Region/Khelathu/The_Reading_at_the_Weighing.md`:100; `assets/content/Lore/Cultures/Khelathi.md`:65, :147
-- **Closed, nothing remained; open, what was owed to him.** `assets/content/Regions/Xerathia/Northern_Fertile_Region/Khelathu/The_Reading_at_the_Weighing.md`:62–65, :87–88, :110; the fonts design note's empty pan and `sample-account-level`
+- **The granaries opened under his seal; none hungered.** `assets/content/Lore/Cultures/Khelathi/The_Stela_of_KuzUqa_at_Zel_Halzi.md`:58; `assets/content/Lore/Cultures/Khelathi.md`:173; `assets/content/Regions/Zerathia/Northern_Fertile_Region/Khelathu/The_Reading_at_the_Weighing.md`:85
+- **The tablets level on the beam.** `assets/content/Regions/Zerathia/Northern_Fertile_Region/Khelathu/The_Reading_at_the_Weighing.md`:100; `assets/content/Lore/Cultures/Khelathi.md`:65, :147
+- **Closed, nothing remained; open, what was owed to him.** `assets/content/Regions/Zerathia/Northern_Fertile_Region/Khelathu/The_Reading_at_the_Weighing.md`:62–65, :87–88, :110; the fonts design note's empty pan and `sample-account-level`
 - **_He went down owed_.** `assets/content/Lore/Cultures/Khelathi.md`:169–171; `assets/content/Lore/Cultures/Khelathi/The_Instruction_of_Khelayu.md`:247–248
-- **No endowment bought at the beam.** `assets/content/Lore/Cultures/Khelathi.md`:151; `assets/content/Regions/Xerathia/Northern_Fertile_Region/Khelathu/The_Reading_at_the_Weighing.md`:101
+- **No endowment bought at the beam.** `assets/content/Lore/Cultures/Khelathi.md`:151; `assets/content/Regions/Zerathia/Northern_Fertile_Region/Khelathu/The_Reading_at_the_Weighing.md`:101
 
 ## The date
 

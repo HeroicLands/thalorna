@@ -194,3 +194,34 @@ note's obligations and scope. Also check any named legal boundary against its
 bodies' ladders, even when a body does not link the note. A rename must not
 require revising an unrelated usage inventory. Build the site with
 `npm run build:site` and inspect the emitted rank pages as well as the source.
+
+## Selecting other notes
+
+A note refers to other notes by address, shortcode, frontmatter property or tag,
+never by file name or folder. Where a file sits under `assets/content/` and what
+it is called carry no meaning: any file or directory can be renamed or moved, and
+the build output and every cross-reference stay the same.
+
+So an `sql` fence never reads `file.folder`, `file.path` or `file.name`, and a
+language's `data.scope` never states `paths`. A table of one region's settlements
+selects on what the notes say about themselves, such as the region they sit in:
+
+```sql
+SELECT address.slug AS _ref,
+       name.full AS "Settlement",
+       data.population AS "People"
+FROM notes
+WHERE type = 'place'
+  AND subType = 'settlement'
+  AND list_contains(data.parents, 'thalorna-note-place-byzariargn')
+ORDER BY data.population DESC, name.full COLLATE NOCASE
+```
+
+The same table filtered on `file.folder = 'Regions/Ankaris/Hellad/Bizaria'`
+would empty the moment the directory moved. Where a set reaches through several
+levels of `data.parents`, a `WITH RECURSIVE` query walks them; where no property
+states the membership, the property is added to the notes, because a folder is
+never a fact. A language scope uses `folders` (the notes' `data.packFolder`),
+`cultures`, `lore`, `parents`, `addresses`, `types` and `skip`.
+`utils/address-only-queries.test.mjs` fails on any note that selects by file or
+folder.

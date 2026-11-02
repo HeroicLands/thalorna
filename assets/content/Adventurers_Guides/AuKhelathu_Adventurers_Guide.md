@@ -41,7 +41,7 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'affiliation'
   AND subType = 'governmental'
-  AND file.folder LIKE 'Affiliations/Organizations/Khelathu%'
+  AND data.culture = 'thalorna-note-lore-khelathiclt'
 ORDER BY name.full COLLATE NOCASE
 ```
 
@@ -109,7 +109,7 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'place'
   AND subType = 'settlement'
-  AND file.folder LIKE 'Regions/Xerathia/%/Khelathu%'
+  AND data.culture = 'thalorna-note-lore-khelathiclt'
   AND data.population >= 20000
 ORDER BY data.population DESC, name.full COLLATE NOCASE
 ```
@@ -159,7 +159,7 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'affiliation'
   AND subType = 'lineage'
-  AND file.folder LIKE 'Affiliations/Organizations/Khelathu%'
+  AND data.culture = 'thalorna-note-lore-khelathiclt'
 ORDER BY name.full COLLATE NOCASE
 ```
 

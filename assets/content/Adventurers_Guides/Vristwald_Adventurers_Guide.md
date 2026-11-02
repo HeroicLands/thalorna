@@ -35,7 +35,7 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'place'
   AND subType = 'settlement'
-  AND file.folder = 'Regions/Ankaris/Vrystwald'
+  AND data.culture = 'thalorna-note-lore-varokhiclt'
 ORDER BY data.population DESC, name.full COLLATE NOCASE
 ```
 

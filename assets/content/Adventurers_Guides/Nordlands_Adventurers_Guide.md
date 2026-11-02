@@ -33,13 +33,20 @@ Five kingdoms share this coast, one tongue, one pantheon and one assembly. No em
 Between Nordheim and Vithgard lies [[place-hringstead|Hringstead]], neutral ground guaranteed by all five crowns. The mercenary compact of the [[affiliation-malldbndlg|Málalidabandalag]] keeps its Hall there, and the first thing a stranger hears at the gate is the [Hall's Truce]{.name data-type="lore/custom"}: on that ground, killing even your worst enemy is beyond any atonement. Men who have hunted one another across three kingdoms drink at the same board there with their hands on the table.
 
 ```sql
+WITH RECURSIVE nordlands(place) AS (
+  SELECT 'thalorna-note-place-nrdlndsrgn'
+  UNION
+  SELECT n.address.canonical
+  FROM notes n, nordlands r
+  WHERE list_contains(n.data.parents, r.place)
+)
 SELECT address.slug AS _ref,
        name.full AS "Settlement",
        data.population AS "People"
 FROM notes
 WHERE type = 'place'
   AND subType = 'settlement'
-  AND file.folder LIKE 'Regions/Ankaris/Nordlands%'
+  AND address.canonical IN (SELECT place FROM nordlands)
   AND data.population >= 400
   AND state = 'full'
 ORDER BY data.population DESC, name.full COLLATE NOCASE
@@ -64,8 +71,7 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'affiliation'
   AND subType = 'polity'
-  AND (file.folder LIKE 'Regions/Ankaris/Nordlands%'
-       OR file.folder LIKE 'Regions/Ankaris/Aureldia/Aelwyth/Stormveld%')
+  AND data.culture = 'thalorna-note-lore-nordheimnclt'
 ORDER BY data.population DESC, name.full COLLATE NOCASE
 ```
 

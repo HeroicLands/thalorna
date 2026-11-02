@@ -54,7 +54,7 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'place'
   AND subType = 'settlement'
-  AND file.folder = 'Regions/Ankaris/Khazryn_Desert'
+  AND list_contains(data.parents, 'thalorna-note-place-swoasisbelt')
 ORDER BY data.population DESC, name.full COLLATE NOCASE
 ```
 

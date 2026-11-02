@@ -62,7 +62,7 @@ and they were not shouting yet. They stood. That was worse.
 Strength held, and the blade asleep.
 
 At the top of the quay the Spear-Sisters came down from their posts and stood in their line,/
-and the Lonkhissa of the quay stood at the end of it with her spear grounded,/
+and the Lorkhissa of the quay stood at the end of it with her spear grounded,/
 and she sent to the Court of the Veil for word, and waited for it,/
 and the word she was waiting for was the word that is never said./
 Sworn ones, you know the word. The realm has kept a word like that since the first seal./
@@ -89,7 +89,7 @@ and the oath that took the House from him did not take the street out of his hea
 
 Strength held, and the blade asleep.
 
-He did not go to the Lonkhissa. He did not wait for the word./
+He did not go to the Lorkhissa. He did not wait for the word./
 He took off the plate of his armor and laid it at the foot of the steps,/
 and kept his blade at his hip in its sheath, and tied the sheath shut with a cord,/
 so that every man on the quay could see that it was tied./
@@ -224,7 +224,7 @@ And Khankhor gave him the hook.
 
 [The Hiorai:]{.speaker}/
 Dorashos put it through his own belt, beside the tied sheath, and walked up the quay with it,/
-and up the steps, and past the Lonkhissa, and no one saw the hook after./
+and up the steps, and past the Lorkhissa, and no one saw the hook after./
 The roll keeps what became of Khankhor. The song does not./
 A Spados carries what a man must not carry, so that the man need not answer for it./
 That is the second thing you are sworn to, and it is heavier than the first.
@@ -234,7 +234,7 @@ Strength held, and the blade asleep.
 The gangs rowed on the next tide. Every oar in the harbor of Bethura went into the water/
 on the next tide, together, as if one stroke had called them all,/
 and the convoy went out of the bay with its wine and its oil in Mubaron's casks,/
-and the Lonkhissa at the top of the quay lifted her spear from the stone/
+and the Lorkhissa at the top of the quay lifted her spear from the stone/
 and turned it, and carried it back to her post, point up, and the line went with her./
 The word she had sent for never came, and was never needed./
 The Spear-Sisterhood was not loosed on the quarter, then or after.

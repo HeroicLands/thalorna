@@ -3974,12 +3974,7 @@ data:
       - "Adwik"
   scope:
     types: [place, being]
-    paths:
-      - Regions/Ankaris/Aureldia/Aelwyth/Aldorath/
-      - Regions/Ankaris/Aureldia/Aelwyth/Dunavarre/
-      - Regions/Ankaris/Aureldia/Aelwyth/Ondareth/
-      - Regions/Ankaris/Aureldia/Aelwyth/Stormveld/
-      - Regions/Ankaris/Aureldia/Aelwyth/Ironfells/Vardain_Valleys/
+    folders: [aelwyth]
     addresses:
       - place-aelwyth
       - place-veldareth
@@ -5129,10 +5124,10 @@ counting.
 The register holds the place names, given names and bynames of every place and being that one of these rows catches. The type row limits the register to places and beings; a realm or an order that carries a place name is not entered, since its name is the place's. The register also holds the names the island's literature coins, each linked to the work whose title or alias carries it.
 
 ```sql
-SELECT CASE kind WHEN 'types' THEN 'type' WHEN 'paths' THEN 'path' WHEN 'addresses' THEN 'address' WHEN 'cultures' THEN 'culture' WHEN 'skip' THEN 'skip' END AS "Kind",
-       string_agg('`' || CASE WHEN kind IN ('addresses', 'skip') THEN regexp_replace(value, '^thalorna-note-', '') WHEN kind IN ('paths', 'types') THEN value ELSE regexp_replace(value, '^thalorna-(?:note-[a-z]+-|none-folder-)', '') END || '`', ' ') AS "Value"
+SELECT CASE kind WHEN 'types' THEN 'type' WHEN 'folders' THEN 'folder' WHEN 'addresses' THEN 'address' WHEN 'cultures' THEN 'culture' WHEN 'skip' THEN 'skip' END AS "Kind",
+       string_agg('`' || CASE WHEN kind IN ('addresses', 'skip') THEN regexp_replace(value, '^thalorna-note-', '') WHEN kind = 'types' THEN value ELSE regexp_replace(value, '^thalorna-(?:note-[a-z]+-|none-folder-)', '') END || '`', ' ') AS "Value"
 FROM scope WHERE language = 'thalorna-note-skill-aelwthlng'
-GROUP BY kind ORDER BY CASE kind WHEN 'types' THEN 0 WHEN 'paths' THEN 1 WHEN 'addresses' THEN 2 WHEN 'cultures' THEN 3 WHEN 'skip' THEN 4 END
+GROUP BY kind ORDER BY CASE kind WHEN 'types' THEN 0 WHEN 'folders' THEN 1 WHEN 'addresses' THEN 2 WHEN 'cultures' THEN 3 WHEN 'skip' THEN 4 END
 ```
 
 ## Making names

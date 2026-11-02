@@ -3424,12 +3424,26 @@ data:
     clusters: {max: 3}
     stress: {two: first, longer: penultimate, mark: acute}
   scope:
-    paths:
-      - Regions/Ki.ich.chik/
-      - Affiliations/Divine/Itzani/
-      - Lore/Deities/Itzani/
-      - Skills/Mystical/Itzani/
-    addresses: [skill-kiichek, skill-chlxplmscrpt, skill-ktzlcrdscrpt, lore-kiichchikclt]
+    folders: [tenlaya, teyumi, deitiesitzani, itzani, chakultzakul, hanalxilan]
+    cultures: [kiichchikclt]
+    lore:
+      - kiichchikclt
+      - osetakonaclt
+      - tokchiliclt
+      - kelwanukclt
+      - shuqashclt
+      - tikupilaritclt
+      - kawiskakclt
+    parents: [chakultzklrgn, hanalxilanrgn, hokpargn]
+    addresses:
+      - skill-kiichek
+      - skill-chlxplmscrpt
+      - skill-ktzlcrdscrpt
+      - lore-kiichchikclt
+      - affiliation-redstncmpct
+      - lore-chumtsena
+      - lore-itsaniclndr
+      - place-chaltzumaq
   tongues:
     - {tag: kiichek, meaning: a Ki'i'chek name, language: skill-kiichek}
     - {tag: translation, meaning: a name given in the language of these pages}
@@ -4875,10 +4889,10 @@ Three short words say where a thing stands: _ch'al_ beneath it, _ts'ik_ above it
 The register below holds every name of every note of the Ki'ich'chik lands and their gods. A note is in the register when one of these values names it:
 
 ```sql
-SELECT CASE kind WHEN 'paths' THEN 'path' WHEN 'addresses' THEN 'address' END AS "Kind",
-       string_agg('`' || CASE WHEN kind IN ('addresses', 'skip') THEN regexp_replace(value, '^thalorna-note-', '') WHEN kind IN ('paths', 'types') THEN value ELSE regexp_replace(value, '^thalorna-(?:note-[a-z]+-|none-folder-)', '') END || '`', ' ') AS "Value"
+SELECT CASE kind WHEN 'folders' THEN 'folder' WHEN 'cultures' THEN 'culture' WHEN 'lore' THEN 'lore' WHEN 'parents' THEN 'parent' WHEN 'addresses' THEN 'address' END AS "Kind",
+       string_agg('`' || CASE WHEN kind IN ('addresses', 'skip') THEN regexp_replace(value, '^thalorna-note-', '') WHEN kind = 'types' THEN value ELSE regexp_replace(value, '^thalorna-(?:note-[a-z]+-|none-folder-)', '') END || '`', ' ') AS "Value"
 FROM scope WHERE language = 'thalorna-note-skill-kiichek'
-GROUP BY kind ORDER BY CASE kind WHEN 'paths' THEN 0 WHEN 'addresses' THEN 1 END
+GROUP BY kind ORDER BY CASE kind WHEN 'folders' THEN 0 WHEN 'cultures' THEN 1 WHEN 'lore' THEN 2 WHEN 'parents' THEN 3 WHEN 'addresses' THEN 4 END
 ```
 
 ## Attested names {#attested-names}

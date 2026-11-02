@@ -43,7 +43,7 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'affiliation'
   AND subType = 'polity'
-  AND file.folder = 'Regions/Ankaris/Vedyara'
+  AND data.packFolder = 'thalorna-none-folder-vedyara'
 ORDER BY data.governance.model, name.full COLLATE NOCASE
 ```
 
@@ -64,7 +64,7 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'place'
   AND subType = 'settlement'
-  AND file.folder = 'Regions/Ankaris/Vedyara'
+  AND data.packFolder = 'thalorna-none-folder-vedyara'
   AND data.population >= 1500
 ORDER BY data.population DESC, name.full COLLATE NOCASE
 ```

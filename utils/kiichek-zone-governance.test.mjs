@@ -20,7 +20,7 @@ import path from "node:path";
 import test from "node:test";
 import YAML from "yaml";
 
-const CONTINENT = "assets/content/Regions/Ki.ich.chik";
+const CONTINENT = "assets/content/Regions/Kiichchik";
 
 /** The regions whose polities are city-states. */
 const CITY_STATE_REGIONS = ["Central", "South"];

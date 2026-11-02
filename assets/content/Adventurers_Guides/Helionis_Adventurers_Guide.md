@@ -37,7 +37,7 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'place'
   AND subType = 'settlement'
-  AND file.folder = 'Regions/Ankaris/Hellad/Helionis'
+  AND data.culture = 'thalorna-note-lore-helioniteclt'
   AND data.population >= 4000
 ORDER BY data.population DESC, name.full COLLATE NOCASE
 ```
@@ -64,7 +64,7 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'affiliation'
   AND subType = 'polity'
-  AND file.folder = 'Regions/Ankaris/Hellad/Helionis'
+  AND data.culture = 'thalorna-note-lore-helioniteclt'
 ORDER BY data.population DESC, name.full COLLATE NOCASE
 ```
 

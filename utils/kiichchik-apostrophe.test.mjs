@@ -6,7 +6,7 @@
 /**
  * Ki'ich'chik text writes its apostrophe as ASCII U+0027.
  *
- * The files read are every note under `Regions/Ki.ich.chik/` and the
+ * The files read are every note under `Regions/Kiichchik/` and the
  * Ki'i'chek language note; the set is found by walking the tree.
  */
 
@@ -16,7 +16,7 @@ import path from "node:path";
 import test from "node:test";
 
 const CONTENT_DIR = "assets/content";
-const REGION_DIR = path.join(CONTENT_DIR, "Regions", "Ki.ich.chik");
+const REGION_DIR = path.join(CONTENT_DIR, "Regions", "Kiichchik");
 const LANGUAGE_NOTE = path.join(CONTENT_DIR, "Skills", "Languages", "Kiichek_Language.md");
 
 /** @param {string} dir @returns {string[]} */

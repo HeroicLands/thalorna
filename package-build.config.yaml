@@ -168,8 +168,8 @@ pdf:
                 contents:
                     - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-bethuanclt'
         - id: byzaria
-          title: Byzaria
-          abbreviation: "Byz."
+          title: Bizaria
+          abbreviation: "Biz."
           subtitle: A Gazetteer of Thalorna
           contents:
               - sectionName: Introduction
@@ -545,7 +545,7 @@ pdf:
                 contents:
                     - filter: type = 'lore' AND data.culture IN ('thalorna-note-lore-vedyariclt', 'thalorna-note-lore-hvarnclt', 'thalorna-note-lore-osketclt')
         - id: vrystwald
-          title: Vrystwald
+          title: Vristwald
           abbreviation: "Var."
           subtitle: A Gazetteer of Thalorna
           contents:

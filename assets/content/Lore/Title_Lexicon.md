@@ -45,32 +45,55 @@ omens at court, and both are facts about [[affiliation-empireakhlth|Au'Khelathu]
 account of it.
 
 ```sql {section-level=3}
-WITH peoples AS (
-  SELECT n.*, CASE
-      WHEN n.file.folder LIKE 'Regions/Xerathia/%/Khelathu%'       THEN 'Khelathi'
-      WHEN n.file.folder LIKE 'Regions/Xerathia/%/Bethua%'           THEN 'Bethuan'
-      WHEN n.file.folder LIKE 'Regions/Xerathia/%/Okharis%'          THEN 'Okharin'
-      WHEN n.file.folder LIKE 'Regions/Xerathia/Southern_Savannahs%' THEN 'Nyaluba'
-      WHEN n.file.folder LIKE 'Regions/Ki.ich.chik/%'                 THEN 'Itsani'
-      WHEN n.file.folder LIKE 'Regions/Kalihara%'                    THEN 'Kaliharan'
-      WHEN n.file.folder LIKE 'Regions/Ankaris/Vedyara%'             THEN 'Vedyari'
-      WHEN n.file.folder LIKE 'Regions/Ankaris/Nordlands%'           THEN 'Nordmal'
-      WHEN n.file.folder LIKE 'Regions/Ankaris/Vrystwald%'           THEN 'Vristwald'
-      WHEN n.file.folder LIKE 'Regions/Ankaris/Hellad/Helionis%'     THEN 'Helionite'
-      WHEN n.file.folder LIKE 'Regions/Ankaris/Hellad/Byzaria%'      THEN 'Bizarian'
-      WHEN n.file.folder LIKE 'Regions/Ankaris/Midhalion/Taruzel%'     THEN 'Taruzelian'
-      WHEN n.file.folder LIKE 'Regions/Ankaris/Midhalion/Vylaria%'   THEN 'Vylarian'
-      WHEN n.file.folder LIKE 'Regions/Ankaris/Dunhara%'             THEN 'Dunhari'
-      WHEN n.file.folder LIKE 'Regions/Ankaris/Khazryn%'             THEN 'Khazryn'
-      WHEN n.file.folder LIKE 'Regions/Ankaris/Tantsou%'             THEN 'Tantsou'
-      WHEN n.file.folder LIKE 'Regions/Ankaris/Jenchai%'             THEN 'Jurthati'
-      WHEN n.file.folder LIKE 'Regions/Ankaris/Aureldia/Elavendre%'  THEN 'Elavendri'
-      WHEN n.file.folder LIKE 'Regions/Ankaris/Aureldia/Aelwyth%'    THEN 'Aelwythan'
-      WHEN n.file.folder LIKE 'Regions/Ankaris/Aureldia/Tarvena%'    THEN 'Tarvenan'
-      WHEN n.file.folder LIKE 'Regions/Ankaris/Aureldia/Provenzia%'  THEN 'Provenzian'
-      WHEN n.file.folder LIKE 'Regions/Ankaris/Aureldia/Calypsa%'    THEN 'Calypsan'
-      END AS people
+WITH people_of(folder, people) AS (
+  VALUES
+    ('thalorna-none-folder-aelwyth', 'Aelwythan'),
+    ('thalorna-none-folder-bethua', 'Bethuan'),
+    ('thalorna-none-folder-byzaria', 'Bizarian'),
+    ('thalorna-none-folder-calypsa', 'Calypsan'),
+    ('thalorna-none-folder-amradad', 'Dunhari'),
+    ('thalorna-none-folder-dunharadesert', 'Dunhari'),
+    ('thalorna-none-folder-elavendre', 'Elavendri'),
+    ('thalorna-none-folder-helionis', 'Helionite'),
+    ('thalorna-none-folder-hanalxilan', 'Itsani'),
+    ('thalorna-none-folder-ixbaltzaku', 'Itsani'),
+    ('thalorna-none-folder-ixilankul', 'Itsani'),
+    ('thalorna-none-folder-kankul', 'Itsani'),
+    ('thalorna-none-folder-kelwanuk', 'Itsani'),
+    ('thalorna-none-folder-kuxiixbal', 'Itsani'),
+    ('thalorna-none-folder-neokbaate', 'Itsani'),
+    ('thalorna-none-folder-osetakona', 'Itsani'),
+    ('thalorna-none-folder-qapteltzakul', 'Itsani'),
+    ('thalorna-none-folder-shuqash', 'Itsani'),
+    ('thalorna-none-folder-tenlaya', 'Itsani'),
+    ('thalorna-none-folder-teyumi', 'Itsani'),
+    ('thalorna-none-folder-tikupilarit', 'Itsani'),
+    ('thalorna-none-folder-tokchiaska', 'Itsani'),
+    ('thalorna-none-folder-xelem', 'Itsani'),
+    ('thalorna-none-folder-jenchai', 'Jurthati'),
+    ('thalorna-none-folder-kalihara', 'Kaliharan'),
+    ('thalorna-none-folder-khazryndesert', 'Khazryn'),
+    ('thalorna-none-folder-regkhpol', 'Khelathi'),
+    ('thalorna-none-folder-malagna', 'Nordmal'),
+    ('thalorna-none-folder-nordheim', 'Nordmal'),
+    ('thalorna-none-folder-norgaad', 'Nordmal'),
+    ('thalorna-none-folder-targud', 'Nordmal'),
+    ('thalorna-none-folder-vithgard', 'Nordmal'),
+    ('thalorna-none-folder-politiesnyaluba', 'Nyaluba'),
+    ('thalorna-none-folder-okharis', 'Okharin'),
+    ('thalorna-none-folder-tribes', 'Okharin'),
+    ('thalorna-none-folder-provenzia', 'Provenzian'),
+    ('thalorna-none-folder-tantsou', 'Tantsou'),
+    ('thalorna-none-folder-taruzel', 'Taruzelian'),
+    ('thalorna-none-folder-tarvenia', 'Tarvenan'),
+    ('thalorna-none-folder-vedyara', 'Vedyari'),
+    ('thalorna-none-folder-vrystwald', 'Vristwald'),
+    ('thalorna-none-folder-vylaria', 'Vylarian')
+),
+peoples AS (
+  SELECT n.*, o.people
   FROM notes n
+  LEFT JOIN people_of o ON n.data.packFolder = o.folder
   WHERE n.type = 'affiliation' AND n.subType = 'polity'
 )
 SELECT min(lr.address.slug)                   AS _ref,
@@ -99,15 +122,53 @@ under [[doc-lore|Lore]] links to it from its title, and a rung several bodies st
 in the same words is one row naming them all.
 
 ```sql {section-level=3}
-WITH traditions AS (
+WITH homes AS (
   SELECT n.*,
-         replace(
-             regexp_extract(n.file.folder, '^Affiliations/(?:Divine|Arcane)/([A-Za-z_]+)', 1),
-             '_', ' '
-         ) AS tradition
+         coalesce(n.data.packFolder, (
+           SELECT min(h.data.packFolder)
+           FROM notes h
+           WHERE list_contains(n.data.parents,
+                               concat(h.package, '-note-', h.type, '-', h.shortcode))
+         )) AS home
   FROM notes n
   WHERE n.type = 'affiliation'
-    AND (n.file.folder LIKE 'Affiliations/Divine/%' OR n.file.folder LIKE 'Affiliations/Arcane/%')
+),
+traditions AS (
+  SELECT n.*, CASE
+      WHEN n.home = 'thalorna-none-folder-pantheonsasguardian'
+        THEN 'Asguardian'
+      WHEN n.home = 'thalorna-none-folder-ashaian' AND n.subType = 'faithtradition'
+        THEN 'Ashaian'
+      WHEN n.home = 'thalorna-none-folder-ashaian' AND n.subType = 'spirittradition'
+        THEN 'Sovidur'
+      WHEN n.home = 'thalorna-none-folder-pantheonsaureldian'
+        THEN 'Aureldian'
+      WHEN n.home = 'thalorna-none-folder-pantheonsfirstgods'
+        THEN 'First Gods'
+      WHEN n.home = 'thalorna-none-folder-pantheonitzani'
+        THEN 'Itsani'
+      WHEN n.home = 'thalorna-none-folder-regkhaff' AND n.subType IN ('faithtradition', 'order')
+        THEN 'Khelathi'
+      WHEN n.home = 'thalorna-none-folder-regkhaff' AND n.subType = 'arcanetradition'
+        THEN 'Khelunu Lekhau'
+      WHEN n.home = 'thalorna-none-folder-pantheonsnkaruthar'
+        THEN 'Nkaruthar'
+      WHEN n.home = 'thalorna-none-folder-nyaluba'
+        THEN 'Nyaluba'
+      WHEN n.home IN ('thalorna-none-folder-pantheonstengwouronglei',
+                               'thalorna-none-folder-celestialpantheon',
+                               'thalorna-none-folder-elementallords',
+                               'thalorna-none-folder-demonlords',
+                               'thalorna-none-folder-youweng')
+        THEN 'Tengwou Rong Lei'
+      WHEN n.home = 'thalorna-none-folder-pantheonstharivaan'
+        THEN 'Tharivaan'
+      WHEN n.home = 'thalorna-none-folder-pantheonsvarnuka' AND n.subType <> 'criminal'
+        THEN 'Varnuka'
+      WHEN n.home = 'thalorna-none-folder-affiliationszemorhodhis'
+        THEN 'Zemor Hodhis'
+      END AS tradition
+  FROM homes n
 )
 SELECT min(lr.address.slug)                   AS _ref,
        t.tradition                             AS _section,
@@ -120,7 +181,7 @@ SELECT min(lr.address.slug)                   AS _ref,
        )                                       AS "What it is"
 FROM traditions t, unnest(t.data.governance.ranks) AS u(r)
 LEFT JOIN notes lr ON concat(lr.package, '-note-', lr.type, '-', lr.shortcode) = r.lore
-WHERE t.tradition IS NOT NULL AND t.tradition <> ''
+WHERE t.tradition IS NOT NULL
 GROUP BY t.tradition, r.level, r.title, "What it is"
 ORDER BY t.tradition, r.level, r.title COLLATE NOCASE, "Bodies"
 ```
@@ -133,32 +194,55 @@ set beside. Find the people, then the word. Each entry says what its holder
 actually does.
 
 ```sql {section-level=3}
-WITH peoples AS (
-  SELECT n.*, CASE
-      WHEN n.file.folder LIKE 'Regions/Xerathia/%/Khelathu%'       THEN 'Khelathi'
-      WHEN n.file.folder LIKE 'Regions/Xerathia/%/Bethua%'           THEN 'Bethuan'
-      WHEN n.file.folder LIKE 'Regions/Xerathia/%/Okharis%'          THEN 'Okharin'
-      WHEN n.file.folder LIKE 'Regions/Xerathia/Southern_Savannahs%' THEN 'Nyaluba'
-      WHEN n.file.folder LIKE 'Regions/Ki.ich.chik/%'                 THEN 'Itsani'
-      WHEN n.file.folder LIKE 'Regions/Kalihara%'                    THEN 'Kaliharan'
-      WHEN n.file.folder LIKE 'Regions/Ankaris/Vedyara%'             THEN 'Vedyari'
-      WHEN n.file.folder LIKE 'Regions/Ankaris/Nordlands%'           THEN 'Nordmal'
-      WHEN n.file.folder LIKE 'Regions/Ankaris/Vrystwald%'           THEN 'Vristwald'
-      WHEN n.file.folder LIKE 'Regions/Ankaris/Hellad/Helionis%'     THEN 'Helionite'
-      WHEN n.file.folder LIKE 'Regions/Ankaris/Hellad/Byzaria%'      THEN 'Bizarian'
-      WHEN n.file.folder LIKE 'Regions/Ankaris/Midhalion/Taruzel%'     THEN 'Taruzelian'
-      WHEN n.file.folder LIKE 'Regions/Ankaris/Midhalion/Vylaria%'   THEN 'Vylarian'
-      WHEN n.file.folder LIKE 'Regions/Ankaris/Dunhara%'             THEN 'Dunhari'
-      WHEN n.file.folder LIKE 'Regions/Ankaris/Khazryn%'             THEN 'Khazryn'
-      WHEN n.file.folder LIKE 'Regions/Ankaris/Tantsou%'             THEN 'Tantsou'
-      WHEN n.file.folder LIKE 'Regions/Ankaris/Jenchai%'             THEN 'Jurthati'
-      WHEN n.file.folder LIKE 'Regions/Ankaris/Aureldia/Elavendre%'  THEN 'Elavendri'
-      WHEN n.file.folder LIKE 'Regions/Ankaris/Aureldia/Aelwyth%'    THEN 'Aelwythan'
-      WHEN n.file.folder LIKE 'Regions/Ankaris/Aureldia/Tarvena%'    THEN 'Tarvenan'
-      WHEN n.file.folder LIKE 'Regions/Ankaris/Aureldia/Provenzia%'  THEN 'Provenzian'
-      WHEN n.file.folder LIKE 'Regions/Ankaris/Aureldia/Calypsa%'    THEN 'Calypsan'
-      END AS people
+WITH people_of(folder, people) AS (
+  VALUES
+    ('thalorna-none-folder-aelwyth', 'Aelwythan'),
+    ('thalorna-none-folder-bethua', 'Bethuan'),
+    ('thalorna-none-folder-byzaria', 'Bizarian'),
+    ('thalorna-none-folder-calypsa', 'Calypsan'),
+    ('thalorna-none-folder-amradad', 'Dunhari'),
+    ('thalorna-none-folder-dunharadesert', 'Dunhari'),
+    ('thalorna-none-folder-elavendre', 'Elavendri'),
+    ('thalorna-none-folder-helionis', 'Helionite'),
+    ('thalorna-none-folder-hanalxilan', 'Itsani'),
+    ('thalorna-none-folder-ixbaltzaku', 'Itsani'),
+    ('thalorna-none-folder-ixilankul', 'Itsani'),
+    ('thalorna-none-folder-kankul', 'Itsani'),
+    ('thalorna-none-folder-kelwanuk', 'Itsani'),
+    ('thalorna-none-folder-kuxiixbal', 'Itsani'),
+    ('thalorna-none-folder-neokbaate', 'Itsani'),
+    ('thalorna-none-folder-osetakona', 'Itsani'),
+    ('thalorna-none-folder-qapteltzakul', 'Itsani'),
+    ('thalorna-none-folder-shuqash', 'Itsani'),
+    ('thalorna-none-folder-tenlaya', 'Itsani'),
+    ('thalorna-none-folder-teyumi', 'Itsani'),
+    ('thalorna-none-folder-tikupilarit', 'Itsani'),
+    ('thalorna-none-folder-tokchiaska', 'Itsani'),
+    ('thalorna-none-folder-xelem', 'Itsani'),
+    ('thalorna-none-folder-jenchai', 'Jurthati'),
+    ('thalorna-none-folder-kalihara', 'Kaliharan'),
+    ('thalorna-none-folder-khazryndesert', 'Khazryn'),
+    ('thalorna-none-folder-regkhpol', 'Khelathi'),
+    ('thalorna-none-folder-malagna', 'Nordmal'),
+    ('thalorna-none-folder-nordheim', 'Nordmal'),
+    ('thalorna-none-folder-norgaad', 'Nordmal'),
+    ('thalorna-none-folder-targud', 'Nordmal'),
+    ('thalorna-none-folder-vithgard', 'Nordmal'),
+    ('thalorna-none-folder-politiesnyaluba', 'Nyaluba'),
+    ('thalorna-none-folder-okharis', 'Okharin'),
+    ('thalorna-none-folder-tribes', 'Okharin'),
+    ('thalorna-none-folder-provenzia', 'Provenzian'),
+    ('thalorna-none-folder-tantsou', 'Tantsou'),
+    ('thalorna-none-folder-taruzel', 'Taruzelian'),
+    ('thalorna-none-folder-tarvenia', 'Tarvenan'),
+    ('thalorna-none-folder-vedyara', 'Vedyari'),
+    ('thalorna-none-folder-vrystwald', 'Vristwald'),
+    ('thalorna-none-folder-vylaria', 'Vylarian')
+),
+peoples AS (
+  SELECT n.*, o.people
   FROM notes n
+  LEFT JOIN people_of o ON n.data.packFolder = o.folder
   WHERE n.type = 'affiliation' AND n.subType = 'polity'
 )
 -- `offices` is keyed by office, so it is read through `json_each`, which walks
