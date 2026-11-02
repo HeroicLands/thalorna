@@ -50,7 +50,7 @@ A _sekeros_'s notary, filing the report on a hedge-witch's cottage in a [[place-
 
 ## The Monopoly Meets the Country
 
-[[lore-kandrol|The Kandrol]] gave the [[affiliation-ordoarcanis|Thordimalon]] the sole right to practice, teach and trade in arcane lore, and it gave the [Sekran]{.name data-type="affiliation"} the duty to make that right real. Making it real took a generation. Practitioners who refused the terms had gone underground or beyond the [Vylarian Republic]{.name data-type="affiliation/polity"}'s reach, and others had never heard of the Lex at all. Rival traditions, handed down in families and temples and market towns, taught what the Order's colleges did not teach and ignored the register.
+[[lore-kandrol|The Kandrol]] gave the [[affiliation-ordoarcanis|Thordimalon]] the sole right to practice, teach and trade in arcane lore, and it gave [[affiliation-sekran|The Arcane Inquisition]] (the Sekran) the duty to make that right real. Making it real took a generation. Practitioners who refused the terms had gone underground or beyond the [Vylarian Republic]{.name data-type="affiliation/polity"}'s reach, and others had never heard of the Lex at all. Rival traditions, handed down in families and temples and market towns, taught what the Order's colleges did not teach and ignored the register.
 
 The Sekran went after all of it. A practitioner the Sekran found was enrolled if he would be, on terms, and the Order's colleges grew by people who would not otherwise have come. Those who would not be enrolled were held, under oath or in a prison, and the few judged too dangerous were killed. The Republic lent the Order legions for the work, and when the Republic ended the Founder's peace went on lending them.
 

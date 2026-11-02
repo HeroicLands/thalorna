@@ -505,7 +505,7 @@ Scholar [Lycius of the Archives]{.name data-type="being/npc"}
 _Marendos_ Zevidin of the Hidalis Zulen (fellowship)
 : His former teacher remains Fodios' most bitter opponent, viewing his break with orthodoxy as a personal betrayal and a corruption of magical tradition. Zevidin holds significant influence within the Epistémion's chapterhouse and has repeatedly argued to the council that Fodios should be formally expelled and reported to the Thordimalon for practicing uncontrolled, unregistered sorcery. Their enmity, once a matter of doctrine, is now deeply personal—Zevidin sees in Fodios a living refutation of everything he believes about the necessity of formal discipline, and Fodios sees in Zevidin the rigidity of the orders that he fled.
 
-The [Sekran]{.name data-type="affiliation"}
+[[affiliation-sekran|The Arcane Inquisition]] (the Sekran)
 : The Thordimalon's investigation and enforcement arm has begun to take notice of Fodios' reputation. An aggressive **Sekeros Marendos [[being-ghesazvughas|Ghesáz Vughash]]** has filed an official inquiry into whether Fodios constitutes an unlicensed magical practitioner in violation of the Order's monopoly. While the Order's enforcement in the provincial towns of the Bizarian League is laxer than in the [[affiliation-vylarinmpr|Vylarian heartland]], an escalation of pressure from the Sekran could force Fodios to flee or face serious consequences—possibly even trial before the Order's magistrates on charges of illegal sorcery.
 
 Rival Healer [Kalista of Karvashion]{.name data-type="being/npc"}

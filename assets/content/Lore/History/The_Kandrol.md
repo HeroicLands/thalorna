@@ -84,7 +84,7 @@ province it had sacked. So the police power went to the college directly from th
 federation kept the college on its rolls with no say in what it does, with relief on both sides
 that neither has ever admitted to.
 
-_Why a college has an inquisition._ It does not. The inquisition has a college. The [Sekran]{.name data-type="affiliation"} is
+_Why a college has an inquisition._ It does not. The inquisition has a college. [[affiliation-sekran|The Arcane Inquisition]] (the Sekran) is
 constituted a clause earlier, and its commission is not the suppression of unsanctioned magic—that
 is its second clause. Its first is to establish what happened at Alessa and who did it, and it has
 never been closed. The enforcement remit is the inquiry's corollary: the founding working theory is

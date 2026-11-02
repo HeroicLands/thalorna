@@ -87,7 +87,7 @@ that arm is [[lore-thebargain|a separate matter]], and it is not in any account 
 The last city fell in 312 BF.
 
 What the [[affiliation-seldan|Seldan]] (the Senate) made afterward was a _magistracy_. The
-[Kandral]{.name data-type="affiliation/governmental"} held the conquered Helionite masters and, in time, every arcanist born inside
+[[affiliation-kandral|The Arcane Magistracy]] (the Kandral) held the conquered Helionite masters and, in time, every arcanist born inside
 the Republic, under an _usos_ (prefect) who changed with the year's magistracies. It had a register and a
 garrison and no doctrine. Its registered mages were state property—all but a few, who were never lent—and the rest were lent out to whoever the Senate
 owed, and as the Republic's own last century turned violent the register became a weapon: factions

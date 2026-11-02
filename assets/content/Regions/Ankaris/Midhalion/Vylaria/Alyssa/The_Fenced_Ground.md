@@ -20,7 +20,7 @@ The fence encloses a tract of the Alessan plain. Inside it the soil is the same 
 
 ## Who Comes Here
 
-- **Sekeroi**, on the first commission the [Sekran]{.name data-type="affiliation"} holds: to establish what happened at [[place-alyssa|Alessa]], which has never been closed.
+- **Sekeroi**, on the first commission [[affiliation-sekran|The Arcane Inquisition]] (the Sekran) holds: to establish what happened at [[place-alyssa|Alessa]], which has never been closed.
 - **Scholars of Velisara**, to look at the fence.
 - **Treasure-seekers**, whom the Order's patrols stop.
 

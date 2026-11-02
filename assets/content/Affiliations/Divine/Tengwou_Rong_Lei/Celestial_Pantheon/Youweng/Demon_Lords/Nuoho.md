@@ -62,7 +62,7 @@ In the Nuoho cultus, where [[affiliation-nuowo|Nuowo]]'s Bureau of Returns (Nuo 
 
 The [[lore-tanchei|Tanchei]] teach that Nuoho was born from a jurisdictional failure: a moment in the early cycles of the celestial administration when the Bureau of Returns and the Bureau of Transformation issued contradictory directives regarding the same cosmic material. The resulting conflict—dissolution and transformation applied simultaneously to the same thing—produced an entity that embodies both functions taken to their most destructive extreme.
 
-Nuoho is invoked (never worshipped) by those who wish to destroy something so completely that the celestial administration itself loses track of it. This is, needless to say, illegal under celestial law. The [Sekran]{.name data-type="affiliation"} equivalent within the Tantsou system—the Celestial Marshals (Teng Wozhuo)—treat any evidence of Nuoho invocation as a matter of the highest urgency.
+Nuoho is invoked (never worshipped) by those who wish to destroy something so completely that the celestial administration itself loses track of it. This is, needless to say, illegal under celestial law. The equivalent of [[affiliation-sekran|The Arcane Inquisition]] (the Sekran) within the Tantsou system—the Celestial Marshals (Teng Wozhuo)—treat any evidence of Nuoho invocation as a matter of the highest urgency.
 
 ### Mortal Cultus: The Nuotsou Rui
 

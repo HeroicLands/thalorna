@@ -50,7 +50,7 @@ A third-year scribe of [[affiliation-imprlscrblgld|the Imperial Scribal Guild]],
 
 ## The Fire
 
-The imperial archive stood on [[place-arvel|Arvel]], in the compound of the [[affiliation-imperialoffices|Imperial Offices]] inside [[place-arvon|Arvon]] (the Inner City). When [[affiliation-seldan|Seldan]] (the Senate) moved up the hill ([[lore-eaglecityrse|The Raising of the Eagle City]]) it carried the rolls of the Republic with it, and the archive grew by every edict the Founder's line and their successors issued. About 318 it burned. The fire took most of the first three centuries of imperial edicts and the greater part of the Republic's rolls, and with them the dockets of the [Kandral]{.name data-type="affiliation/governmental"}.
+The imperial archive stood on [[place-arvel|Arvel]], in the compound of the [[affiliation-imperialoffices|Imperial Offices]] inside [[place-arvon|Arvon]] (the Inner City). When [[affiliation-seldan|Seldan]] (the Senate) moved up the hill ([[lore-eaglecityrse|The Raising of the Eagle City]]) it carried the rolls of the Republic with it, and the archive grew by every edict the Founder's line and their successors issued. About 318 it burned. The fire took most of the first three centuries of imperial edicts and the greater part of the Republic's rolls, and with them the dockets of [[affiliation-kandral|The Arcane Magistracy]] (the Kandral).
 
 The cause was never established, and the question was never put in public. A house of paper burns. The Senate recorded the loss and turned to its replacement.
 

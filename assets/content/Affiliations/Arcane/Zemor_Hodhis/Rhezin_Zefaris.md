@@ -91,7 +91,7 @@ The sympathy with Fisera is more grounded and more surprising. Air and Earth see
 
 ## The Zulen Zefaris
 
-The **Zulen Zefaris**—the Fellowship of Air—is the smallest of the six Zulethalar but wields an influence that far exceeds its numbers. Its members are subtle, cerebral, and drawn to the Order's intelligence operations. Where the [Sekran]{.name data-type="affiliation"} relies on Pirethos mages for enforcement, it relies on Zefaris mages for _intelligence_—the gathering of information, the interception of communications, the planting of false perceptions, and the quiet manipulation of events at a distance.
+The **Zulen Zefaris**—the Fellowship of Air—is the smallest of the six Zulethalar but wields an influence that far exceeds its numbers. Its members are subtle, cerebral, and drawn to the Order's intelligence operations. Where [[affiliation-sekran|The Arcane Inquisition]] (the Sekran) relies on Pirethos mages for enforcement, it relies on Zefaris mages for _intelligence_—the gathering of information, the interception of communications, the planting of false perceptions, and the quiet manipulation of events at a distance.
 
 The fellowship's internal culture prizes cleverness over raw power. A Zefaris mage who solves a problem through misdirection is admired more than one who solves it through force. The fellowship's politics are accordingly opaque—alliances shift like wind patterns, and the true power structure is never quite what it appears to be. This frustrates outsiders (particularly Sideris practitioners, who find the fellowship's resistance to clear organizational charts personally offensive) but suits the Air mages perfectly. If you cannot be sure who is in charge, you cannot be sure who to target.
 

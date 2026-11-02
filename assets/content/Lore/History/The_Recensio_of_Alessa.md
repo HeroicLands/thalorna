@@ -64,8 +64,8 @@ The books burned. Most of the Republic's senior arcanists died. A tract of good 
 nearly eight centuries later and is fenced at the [[affiliation-ordoarcanis|Thordimalon]]'s charge.
 
 A deliberate release is the kind of thing that ends sieges, which is precisely why nobody has ever
-been able to say whether this was an accident or an act—and why that question is the [Sekran]{.name data-type="affiliation"}'s
+been able to say whether this was an accident or an act—and why that question is [[affiliation-sekran|The Arcane Inquisition]]'s
 whole reason for existing.
 
-The audit did one other thing that is not in any account of it. It counted what the [Kandral]{.name data-type="affiliation/governmental"} held,
+The audit did one other thing that is not in any account of it. It counted what [[affiliation-kandral|The Arcane Magistracy]] (the Kandral) held,
 and when the count was taken again afterward it came up short.

@@ -445,7 +445,7 @@ The fact that she maintains an alias, relationships with figures from the coasta
 
 ### Enemies and Threats
 
-The [Sekran]{.name data-type="affiliation"}—[[lore-vylarianclt|Vylarian]] inquisitors are not openly active in Helionis proper, but their agents move through the cities gathering intelligence on unlicensed practitioners and heretical knowledge. Talira has thus far escaped their notice, partly through her careful discretion and partly through the Order's protective indifference—they prefer her obscurity to scrutiny that might expose their own fragile authority. But this protection is not guaranteed.
+[[affiliation-sekran|The Arcane Inquisition]] (the Sekran)—[[lore-vylarianclt|Vylarian]] inquisitors are not openly active in Helionis proper, but their agents move through the cities gathering intelligence on unlicensed practitioners and heretical knowledge. Talira has thus far escaped their notice, partly through her careful discretion and partly through the Order's protective indifference—they prefer her obscurity to scrutiny that might expose their own fragile authority. But this protection is not guaranteed.
 
 [Kharos the Bitter]{.name data-type="being/npc"}—A rival alchemist whose practice Talira undercut five years ago by securing an exclusive contract to provide remedies to a major noble household. Kharos has spent those years cultivating connections among the Order's lower ranks and spreading rumors that Talira's remedies contain unlicensed workings—a serious accusation that, if believed, could bring official investigation. He has not yet attempted anything direct, but his patience is clearly wearing thin.
 

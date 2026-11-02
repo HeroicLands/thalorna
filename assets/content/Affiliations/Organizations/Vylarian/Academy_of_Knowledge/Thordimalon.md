@@ -45,7 +45,7 @@ data:
         description: >-
           The single most powerful position in the arcane world, elected by the holmarendoi for life, presiding over the Verdan Maldor and speaking for the Order to foreign powers.
     offices: {}
-  seat: null
+  seat: orzara
   population: null
   economy: []
   lore: []
@@ -54,7 +54,7 @@ data:
   packFolder: academyofknowledge
 sohl: {system: {commonSkills: []}}
 
-# headquarters: Alessa, Vylarian Empire
+# headquarters: Orzara, the chapter house on Mernel
 # region: Western Ankaris
 # founded: 73 BF, chartered under the Kandrol
 ---
@@ -63,7 +63,7 @@ A tutor of the Order, sitting down with a child whose talent has just been repor
 
 Those two sentences are the Thordimalon (the Arcane Order). It is the dominant arcane guild of the western part of the [[place-ankrscntnnt|Ankaris Continent]] and one of the most powerful institutions in the [[place-midhalnrgn|Mídhalión Region]], and it holds a monopoly on the practice, research and teaching of arcane lore throughout the regions under its authority. Only members of the Order are sanctioned to practice magic; everyone else is subject to investigation, sanction and, if necessary, elimination.
 
-The Order is older than the [[affiliation-vylarinmpr|Vylarian Empire]] it serves. The Vylarian Republic chartered it in 73 BF, and when the Republic became an Empire in Year 1 of the Vylarian reckoning the Order had held its charter for seventy-three years. Outsiders dispute the date of the founding; the Order does not. Its headquarters is [[place-alyssa|Alessa]], and nearly eight centuries after the charter it is still, on paper, the College of Arcane Philosophy within the [[affiliation-panepistmm|Epistémion]]. Both the paper and the history behind it matter, so the rest of this note takes them in order: how the Order came to exist, how it is built, how it enforces its monopoly, and how it stands with the court it serves.
+The Order is older than the [[affiliation-vylarinmpr|Vylarian Empire]] it serves. The Vylarian Republic chartered it in 73 BF, and when the Republic became an Empire in Year 1 of the Vylarian reckoning the Order had held its charter for seventy-three years. Outsiders dispute the date of the founding; the Order does not. Its headquarters is the domed chapter house on [Mernel]{.name data-type="place/feature"}, the Scholars' Hill of [[place-orzara|Orzara City]], where the Verdan Maldor sits, and nearly eight centuries after the charter it is still, on paper, the College of Arcane Philosophy within the [[affiliation-panepistmm|Epistémion]]. Both the paper and the history behind it matter, so the rest of this note takes them in order: how the Order came to exist, how it is built, how it enforces its monopoly, and how it stands with the court it serves.
 
 ## The Age Before the Order
 
@@ -81,7 +81,7 @@ The legions, for all their discipline, were being slaughtered by powers they cou
 
 They found the dragons.
 
-How the Republic secured the dragons' aid is in no account of the war. The records of the period, which the Order took over from the [Kandral]{.name data-type="affiliation/governmental"}, are incomplete, and the Senate's archives from those decades have suffered convenient losses. What the accounts do agree on is what certain dragons do: they destabilize magic in their presence. Arcane forces become unpredictable and dangerous near them. Spells misfire, wards collapse, enchantments unravel, and a caster whose working is denied its shape takes the energy back, often fatally.
+How the Republic secured the dragons' aid is in no account of the war. The records of the period, which the Order took over from [[affiliation-kandral|The Arcane Magistracy]] (the Kandral), are incomplete, and the Senate's archives from those decades have suffered convenient losses. What the accounts do agree on is what certain dragons do: they destabilize magic in their presence. Arcane forces become unpredictable and dangerous near them. Spells misfire, wards collapse, enchantments unravel, and a caster whose working is denied its shape takes the energy back, often fatally.
 
 The [Dragon Riders]{.name data-type="affiliation"}, warriors bonded to these dragons, became the Republic's decisive weapon. A Rider circling above a battlefield turned the enemy's greatest strength into its greatest weakness. Mage-generals who had shattered legions with a word saw their spells detonate in their own hands; shields that had turned a thousand arrows dissolved. The Helionite mages had built their whole strategy on magical superiority, and they were broken by its negation. Helionis fell, one city-state after another, over twenty-three years.
 
@@ -91,13 +91,13 @@ The victory cost the Republic heavily in lives, in treasure and in devastated la
 
 The Order was made in stages, across two and a third centuries.
 
-In 312 BF, the year the last Helionite city fell, the Senate reached into the Epistémion, took out the College of Arcane Philosophy, and placed it under a magistracy, the **Kandral**. The Epistémion's own phrase for it is a vivisection. There was no negotiation: the Republic had just used dragons to destroy the mages who took the field against it in western Ankaris, and the Senate had no patience for debate about academic freedom. The Kandral held the conquered Helionite masters—some on the register and lent like the rest, and a few on a roll of their own that was never lent and always guarded—and, in time, every arcanist born inside the Republic, on a register kept by an _usos_ (prefect) who changed with the year's magistracies. It had a register and a garrison and no doctrine, and its registered mages were lent out to whoever the Senate owed.
+In 312 BF, the year the last Helionite city fell, the Senate reached into the Epistémion, took out the College of Arcane Philosophy, and placed it under a magistracy, the Kandral (the Arcane Magistracy). The Epistémion's own phrase for it is a vivisection. There was no negotiation: the Republic had just used dragons to destroy the mages who took the field against it in western Ankaris, and the Senate had no patience for debate about academic freedom. The Kandral held the conquered Helionite masters—some on the register and lent like the rest, and a few on a roll of their own that was never lent and always guarded—and, in time, every arcanist born inside the Republic, on a register kept by an _usos_ (prefect) who changed with the year's magistracies. It had a register and a garrison and no doctrine, and its registered mages were lent out to whoever the Senate owed.
 
 The Helionite scholars, humbled by the catastrophe their own members had helped cause, supplied the philosophical architecture of what came next: the classification of magic into schools, the idea of structured training through progressive ranks, the conviction that arcane practice could be systematized and controlled. The enforcement was wholly Vylarian: legal authority, military backing, and the memory of the dragons that had ended the war. The institution carries the marks of both parents, the sophistication of one and the iron discipline of the other.
 
 In 75 BF the Senate ordered every registered practitioner in the Republic to bring their working-books to one place in the Alessan country, to be copied into a single register. That was [[lore-recensio|the Therona of Alessa]]. In the fourth month an unchanneled release destroyed the books and killed most of the Republic's senior arcanists. A tract of good Alessan land is bare to this day and is fenced at the Order's charge.
 
-In 73 BF the surviving masters drafted their own terms and the Senate took them. That instrument is [[lore-kandrol|the Kandrol]], the charter of the Thordimalon and the act the Order reckons its foundation from. The Order accepts the monopoly and its enforcement, the registration of every talent, and war service on demand. In exchange it holds its own property, elects its own head, tries its own members in its own court, and answers to the state as a body and never as individuals. The clauses on property and on answering as a body were drafted by Helionite masters, and the Order has never published which. The same instrument constitutes the [Sekran]{.name data-type="affiliation"}, the Order's enforcement arm.
+In 73 BF the surviving masters drafted their own terms and the Senate took them. That instrument is [[lore-kandrol|the Kandrol]], the charter of the Thordimalon and the act the Order reckons its foundation from. The Order accepts the monopoly and its enforcement, the registration of every talent, and war service on demand. In exchange it holds its own property, elects its own head, tries its own members in its own court, and answers to the state as a body and never as individuals. The clauses on property and on answering as a body were drafted by Helionite masters, and the Order has never published which. The same instrument constitutes [[affiliation-sekran|The Arcane Inquisition]] (the Sekran), the Order's enforcement arm.
 
 The remaining colleges of the Epistémion (ethics, logic, metaphysics, natural philosophy and the rest) stayed in place, diminished and shaken. The Order is technically the College of Arcane Philosophy within the Epistémion to this day, and it likes the arrangement, because it gives the Order a claim to authority over all knowledge, not only the arcane. In practice the Order dwarfs every other college combined, and the Epistémion has become something close to a university system run by its military intelligence department.
 
@@ -165,8 +165,10 @@ Two consequences matter here. Alliances across fellowships form most easily betw
 
 Each of the six _rheza_ has a corresponding **Zulen** (pl. _Zulethalar_), a fellowship of practitioners who share it. The Zulethalar (fellowships) work something like religious orders within a church: they cut across the formal hierarchy of chapters and colleges, binding together mages who share a philosophical orientation wherever they are stationed and whatever practical discipline they study.
 
+The fellowships are older than any chapter, and they began as workshops. The corpus burned at the Therona, and what could be recovered was what living masters could write back down from memory. A master reliably reconstructs only the work of the current he has internalized, so in 73 BF the survivors were divided into six **kelthalar** (sealed workshops; sing. _kelthalon_), one to each current, each with its own masters and its own discipline of copying. The Sekran sealed them from one another, because its inquiry could not rule out that the release at Alessa had been set from inside. The six kelthalar never disbanded. They are the six Zulethalar, and their reading rooms are still shut to each other.
+
 Zulen [[affiliation-pirethos|Pirethos]]
-: The Fellowship of Fire. Aggressive, ambitious and politically influential. Fire mages are drawn to combat magic and hold a disproportionate share of the Sekran.
+: The Fellowship of Fire. Aggressive, ambitious and politically influential. Fire mages are drawn to combat magic and hold a disproportionate share of the Sekran. The fellowship's quarrel now is over the fire-work of the age before the Order, which a generation of its younger _thermoi_ study and the anathema list forbids them to practice; [[being-klstrtsxrchds|Kalestratos Zarkedis]] of the [[place-velysara|Velisara]] chapter is the best known of them.
 
 Zulen [[affiliation-hidalis|Hidalis]]
 : The Fellowship of Water. Patient, adaptable, and associated with healing and divination. Water mages often serve as mediators in internal disputes.
@@ -183,7 +185,7 @@ Zulen [[affiliation-sideris|Sideris]]
 Zulen [[affiliation-neumenos|Neumenos]]
 : The Fellowship of Spirit. Mystical, intense and sometimes unsettling: summoners, seers and practitioners who deal with entities beyond the material world. The other fellowships regard it warily, and the Sekran supervises it most closely.
 
-Kentra mages belong to no Zulen (fellowship), or rather have outgrown the one they began in. Some keep honorary ties to their original fellowship; others are regarded with awe and suspicion by former colleagues who can no longer follow how they think. There is no formal Zulen Kentra, though Kentra mages tend to find each other and form loose networks. The Order has debated whether to formalize a fellowship for them, and the Kentra mages have always resisted: organizing a group defined by transcending categories into a category of its own misses the point.
+Kentra mages belong to no Zulen (fellowship), or rather have outgrown the one they began in. Some keep honorary ties to their original fellowship; others are regarded with awe and suspicion by former colleagues who can no longer follow how they think. There is no formal Zulen Kentra, because there was no Kentra workshop: the Kentra masters of the day were the most senior arcanists in the Republic, and they were at the Therona. Kentra mages tend to find each other and form loose networks. The Order has debated whether to formalize a fellowship for them, and the Kentra mages have always resisted: organizing a group defined by transcending categories into a category of its own misses the point.
 
 A mage's Zulen is a powerful axis of identity within the Order, often more important to them than chapter or college. Mages of one Zulen share a way of perceiving magic that makes for deep mutual understanding. The rivalries between Zulethalar whose _rheza_ stand opposite each other on the Thizaron are ancient, bitter and personal, and they show up in everything from academic debates to political alliances to the assignment of apprentices.
 
@@ -226,6 +228,27 @@ The practical result is that magic is rare in the daily life of most people. The
 
 The invisibility is deliberate. The Order learned from the catastrophes of the age before its founding that visible magic breeds fear and fear breeds hostility. Better to be the eccentric academics in the walled compound on the edge of town than the sorcerers the mob comes for with torches.
 
+The code makes one exception, and it is the capital. In Orzara, and above all in [[place-palvar|The Grand Palace]] (the Palvar), the Order works openly at the throne's wish: warded glow-lamps light the avenues, and every ambassador brought to the throne is meant to see what the Empire commands. A member who does the same anywhere else has broken the code.
+
+### What the Order Permits
+
+The Order sorts every practice it meets into five classes, and the class decides what the Order does about it. The list is the same in every chapter, and a _kosthemos_ learns it in his first year.
+
+Sanctioned
+: Arcane practice by members of the Order, under the register: the six _rheza_ and the work of the colleges.
+
+Tolerated
+: What the Order does not count as arcane working, and so leaves outside its monopoly: the non-arcane teaching of the chapter houses, the rites and prayers of the temples, the reading of a nativity by the star-readers of the [[affiliation-astrokyklos|Iltheron]], and the sword discipline of [[affiliation-pthbrthordr|The Path of Breath]].
+
+Restricted
+: Arcane practice by the Order's members under another authority's terms, where the Order's writ does not run alone: its chapters in Taruzel under the guilds' restrictions, and its mages in Provenzia under the crown's oversight.
+
+Rogue
+: Arcane working by any hand not on the register: hedge-mages, alchemists, cunning folk, and fortune-tellers whose charms work. Rogue practice is the Sekran's daily business, and recruitment is its first answer.
+
+Anathema
+: The arts no member may practice and nobody may be taught. The list is short and gives no reasons. The binding of a soul heads it, and the Order has never published why it stands first. Below it are the fire-work of the age before the Order and a temple's rite worked as arcane magic, which is why the Sekran keeps an office across the city from the largest temple of [[affiliation-blackflame|the Black Flame]] in Alessa while the Order takes no side in that faith's quarrel with the Temple of the Twelve.
+
 ### The Chapter Houses
 
 The chapter houses are formally [[affiliation-panepistmm|Epistémion]] institutions, not Order ones, and the distinction is legal as well as cosmetic: the Kandrol chartered the Order inside the Epistémion, and the right to the door belongs to the Epistémion. The sign above the door bears the Epistémion seal. The scholars within teach logic, language, natural philosophy and law alongside arcane subjects, and to ordinary people a chapter house is a house of learning staffed by scholars of every discipline. Most people who deal with one never meet anything overtly magical. The Order controls every chapter house through its hierarchy, and the scholarly face is one of its most effective instruments of influence.
@@ -243,8 +266,11 @@ Four things keep a chapter house running:
 
 The Order keeps regional chapters in every significant city and territory within its sphere, and their strength varies enormously.
 
+[[place-orzara|Orzara]]
+: The Order's headquarters, the domed chapter house on Mernel, at maximum strength and influence. The Verdan Maldor meets here, and the head of the Sekran keeps the first file here.
+
 [[affiliation-provinclys|Alessa]]
-: The Order's headquarters, at maximum strength and influence. The Verdan Maldor meets here.
+: The great chapters of the heartland, Velisara's fire-school the most famous of them, with the Sekran's regional office beside it.
 
 [[place-helionis|Helionis]]
 : Deeply rooted, as the intellectual birthplace of the Order, and among the most prestigious chapters, with the finest libraries and scholars. Local philosophical-magical traditions have negotiated autonomy, and the Sekran treads carefully. The chapter's oldest teaching line runs to Theradon, not Thirenae.

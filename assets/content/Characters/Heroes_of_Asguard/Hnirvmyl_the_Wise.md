@@ -397,7 +397,7 @@ Hnirmil's runic mastery is unmatched in the northern lands; he can read omens in
 
 [Gnildurmil Iron-Eye]{.name data-type="being/npc"}—A rival seer who claims Hnirmil is a fraud and that his prophecies are fabrications designed to manipulate jarls. Gnildurmil has placed bounties on Hnirmil's head among mercenary bands.
 
-[The Sekran]{.name data-type="affiliation"}—The [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order) enforcement arm has taken an interest in Hnirmil's runic practices, viewing his unsanctioned magic as a potential threat to their monopoly on arcane knowledge.
+[[affiliation-sekran|The Arcane Inquisition]] (the Sekran)—The [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order) enforcement arm has taken an interest in Hnirmil's runic practices, viewing his unsanctioned magic as a potential threat to their monopoly on arcane knowledge.
 
 ## Plot Hooks
 

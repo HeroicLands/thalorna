@@ -874,6 +874,12 @@ data:
       gloss: "an inquisition; the body that inquires"
       source: {kind: inherited}
       built: ["seker-", "-alon"]
+    - form: holsekeros
+      class: n m
+      field: "Law, the court and the written act"
+      gloss: "a senior inquirer; one who keeps an office of an inquisition"
+      source: {kind: coined}
+      built: ["hol-", sekeros]
     - form: venthodis
       class: n f
       field: "Law, the court and the written act"
@@ -1640,6 +1646,12 @@ data:
       field: "Craft, guild and the kept secret"
       gloss: "to keep a secret; to hold a craft closed"
       source: {kind: inherited}
+    - form: kelthalon
+      class: n n
+      field: "Craft, guild and the kept secret"
+      gloss: "a sealed workshop; a body that holds a craft closed"
+      source: {kind: coined}
+      built: ["kelth-", "-alon"]
     - form: zaralon
       class: n n
       field: "Craft, guild and the kept secret"
@@ -9751,34 +9763,43 @@ data:
     - {name: Bit, tongue: translation}
     - {name: Frenkos, tongue: vylari}
     - {name: Notran, tongue: vylari}
-    - {name: Drum-Keeper, tongue: translation}
     - {name: Elder, tongue: translation}
-    - {name: Elder Shaman, tongue: translation}
     - {name: Envoy, tongue: translation}
     - {name: First of the Tradition, tongue: translation}
-    - {name: Guardian of the Sacred Site, tongue: translation}
     - {name: High Hand, tongue: translation}
     - {name: Zemor Hodhis, tongue: other:helonic}
     - {name: Initiate, tongue: translation}
-    - {name: Initiator, tongue: translation}
     - {name: Keeper of the Grimoires, tongue: translation}
-    - {name: Keeper of the Tally, tongue: translation}
     - {name: Keeper of the Tradition, tongue: translation}
-    - {name: Keeper of the Ways, tongue: translation}
     - {name: Kentra, tongue: vylari}
     - {name: Marendos, tongue: vylari}
-    - {name: Mask-Maker, tongue: translation}
     - {name: Master Scribe, tongue: translation}
     - {name: Master of the Art, tongue: translation}
     - {name: Ogdel, tongue: vylari}
     - {name: Lorezos, tongue: vylari}
     - {name: Probationer, tongue: translation}
     - {name: Sekeros, tongue: vylari}
+    - {name: Sekran, tongue: vylari}
+    - {name: The Arcane Inquisition, tongue: translation}
+    - {name: Holsekeros, tongue: vylari, built: [hol-, sekeros]}
+    - {name: Notary, tongue: translation}
+    - {name: Head of the Sekran, tongue: translation}
+    - {name: Keeper of the Office, tongue: translation}
+    - {name: Warden of the Inner Keep, tongue: translation}
+    - {name: Kelthalon, tongue: vylari, built: [kelth-, -alon]}
+    - {name: Kandral, tongue: vylari}
+    - {name: The Arcane Magistracy, tongue: translation}
+    - {name: Struck Off, tongue: translation}
+    - {name: Registered, tongue: translation}
+    - {name: Kept, tongue: translation}
+    - {name: Usos, tongue: vylari, built: [us-, -os]}
+    - {name: Captain of the Garrison, tongue: translation}
+    - {name: Born Under a Sign, tongue: translation}
+    - {name: Reader, tongue: translation}
+    - {name: Master Reader, tongue: translation}
+    - {name: Keeper of the Tables, tongue: translation}
     - {name: Revoked License, tongue: translation}
     - {name: Scribe, tongue: translation}
-    - {name: Spirit-Speaker, tongue: translation}
-    - {name: Spirit-shunned, tongue: translation}
-    - {name: Supplicant, tongue: translation}
     - {name: The Centre, tongue: translation}
     - {name: The Centred, tongue: translation}
     - {name: The Guild of Imperial Letters, tongue: translation}
@@ -9786,7 +9807,6 @@ data:
     - {name: The Thizaron, tongue: vylari}
     - {name: The Six Ways, tongue: translation}
     - {name: The Vylarian Scribal Guild, tongue: translation}
-    - {name: Uninitiated, tongue: translation}
     - {name: Vessel, tongue: translation}
     - {name: Vylaria Adventurer's Guide, tongue: translation}
     - {name: Vylarian Coinage, tongue: translation}

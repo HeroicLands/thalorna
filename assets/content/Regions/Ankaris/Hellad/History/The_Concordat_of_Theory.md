@@ -78,7 +78,7 @@ The Concordat says nothing about the line between the first two. Both sides know
 
 The line between theory and practice is blurred, and both the councils and the Order exploit the blur. A student of the colleges learns what a working is, how it is classified and why it succeeds, and stops where the practice would begin. A man who goes on is an unlicensed practitioner, and there are more of them in Helionis than anywhere else the Order reaches.
 
-The Order's [Sekran]{.name data-type="affiliation"} treads more carefully in Helionis than elsewhere, in the land that gave the Order its foundations.
+The Order's [[affiliation-sekran|The Arcane Inquisition]] (the Sekran) treads more carefully in Helionis than elsewhere, in the land that gave the Order its foundations.
 
 ## What the Concordat Left
 

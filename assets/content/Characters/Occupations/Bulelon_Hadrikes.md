@@ -434,7 +434,7 @@ The Fragment
 : A student has brought Bulelon a leaf in a hand of the early Republic that names the man who betrayed the Dragon Riders. The student has told no one else, and the senior officer has asked to see the student.
 
 The Artifact
-: Bulelon has brought back from a sunken temple an object the fragments describe, and the Arcane Order's enforcement arm, [The Sekran]{.name data-type="affiliation"}, has written, courteously, to ask for it.
+: Bulelon has brought back from a sunken temple an object the fragments describe, and [[affiliation-sekran|The Arcane Inquisition]] (the Sekran), the Arcane Order's enforcement arm, has written, courteously, to ask for it.
 
 The Thesis
 : Bulelon's best student has written a thesis on the disbanding that says plainly what he has only asked, and means to read it before the assembly. The student is the senior officer's nephew.
