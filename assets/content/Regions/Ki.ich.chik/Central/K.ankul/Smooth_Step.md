@@ -22,7 +22,7 @@ The Step is one piece, with no seam, no joint and no crack. Its top swells and h
 
 ## The Reckoners' Place
 
-The court reckoners of the city take the dawn sight of the bright star [K'inish'ilan]{.name data-type="place/celestial"} standing on the crown of the Smooth Step. From there the star clears the horizon above a carved post on the far side of the field of pools, and the reckoner calls the moment to a scribe on the stair behind her. The present court reckoner, [Ne' Ish Q'emul]{.name data-type="being/npc"}, has stood there on every dawn of the star's season for thirty years.
+The court reckoners of the city take the dawn sight of the bright star [K'inish'ilan]{.name data-type="place/celestial"} standing on the crown of the Smooth Step. From there the star clears the horizon above a carved post on the far side of the field of pools, and the reckoner calls the moment to a scribe on the stair behind her. The present court reckoner, [[being-neishqemul|Ne' Ish Q'emul]], has stood there on every dawn of the star's season for thirty years.
 
 The stone of the city is laid to the Step's shape because there was no choice. The city's own record says that the builders of the pyramid meant to take the swelling up and set the stair on bare rock, and blunted every tool they had on it without raising a chip. It cannot be cut, shifted or marked, and it has not weathered in the time the city has stood. The plaza's flagstones around it are scratched with the names of reckoners and the counts of their dawns, and every scratch stops at its edge.
 

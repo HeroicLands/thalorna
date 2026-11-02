@@ -34,7 +34,7 @@ South and east of the Copper Lake the land softens into forest of birch, maple a
 ## The Villages
 
 - [[place-kahnekwaroten|Hammerstone]], about 1,500 people, the chief village of the Copper People, on the Copper Lake's northern shore.
-- [[place-kaniestraten|Birches]], about 1,000, a Birch People village on the edge of the grass and the home of the speaker [Skahniotiaro]{.name data-type="being/npc"}.
+- [[place-kaniestraten|Birches]], about 1,000, a Birch People village on the edge of the grass and the home of the speaker [[being-skahniotiaro|Skahniotiaro]].
 
 The Copper People keep seven villages and the Birch People eleven, and the summer camps of both are scattered along every shore.
 

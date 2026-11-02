@@ -23,7 +23,7 @@ The first thing a visitor to Shuqwil hears is the drills: the whir and tick of p
 
 Nearly every household drills. The men dive and gather the small olive snails in the kelp of the cove; the women and the children break the shells, grind the disks on sandstone slabs, drill them with stone points on pump drills, and string them. The drill points are chipped on the beach from a hard stone that comes from the island's west end, and a driller wears out several in a day. A good driller makes a strand a day, and a household with three drillers lives well.
 
-The town's counter is [Ayulchim]{.name data-type="being/npc"}, Moon Rising, whose strands are the ones the island measures against. Every strand that leaves Shuqwil passes her doorway, and she cuts and restrings any that is short before it goes. Mainland traders pay a little more for a strand from Shuqwil, and they pay it because of her.
+The town's counter is [[being-ayulchim|Ayulchim]], Moon Rising, whose strands are the ones the island measures against. Every strand that leaves Shuqwil passes her doorway, and she cuts and restrings any that is short before it goes. Mainland traders pay a little more for a strand from Shuqwil, and they pay it because of her.
 
 ## Water and Wood
 

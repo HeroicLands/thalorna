@@ -81,7 +81,7 @@ In the north the families are traders, received in the courts of the Sun Lords a
 
 **The Speaking Road.** The Road's relay stations on the rivers are paid by the families, which is how the Road reaches Shelem at all, and the families mean their payments to buy something. The Road's law says no runner may be delayed. The landings say the Road is very far from Kul'taq'an.
 
-**Each other.** The families of a town compete for every forest trader, every buyer in the north and every seat on the council. This year the speaker of Ts'alukul is [Ch'akul Ne' Shelem]{.name data-type="being/npc"}, head of the family with the most dugouts on the river, and his rival on the council is [Nelush Puq'em]{.name data-type="being/npc"}, a narrow, quiet woman whose family has fewer dugouts and the best factor in [[place-tsamash|Tsa'mash]].
+**Each other.** The families of a town compete for every forest trader, every buyer in the north and every seat on the council. This year the speaker of Ts'alukul is [[being-chakulneshlm|Ch'akul Ne' Shelem]], head of the family with the most dugouts on the river, and his rival on the council is [[being-nelushpuqem|Nelush Puq'em]], a narrow, quiet woman whose family has fewer dugouts and the best factor in [[place-tsamash|Tsa'mash]].
 
 ## What a Party Can Ask of Them
 

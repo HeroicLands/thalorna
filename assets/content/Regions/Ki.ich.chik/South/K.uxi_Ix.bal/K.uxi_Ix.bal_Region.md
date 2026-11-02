@@ -53,9 +53,9 @@ K'ushi Ish'bal quarrels over what the temples keep. The priesthood's word prevai
 
 ## Hooks
 
-- **The priestess in the bow.** The Ts'enmah of K'ushi Ish'bal wants to know what the water priestesses taste at the edge of the bitter reach, and [Nelush Ishtem]{.name data-type="being/npc"}, Ch'alish Tq'an of the lake temples, will not tell him. He asks a party to learn it, from a priestess, a boatman or the water itself, without setting foot in a sacred boat unblessed.
-- **The short storehouse.** [Tsul Ishkul]{.name data-type="being/npc"}, Sh'ukelmah of Q'aptel'ul Ne'ok, has more expeditions coming up the road this season than his storehouses can outfit, because the temples took their share of the herds first. He sends a party to Ishkul Ch'alish with his request for a herd from the lake temples, and with his count of cloaks to show that he asks for no more than he needs.
-- **The brother on the wall.** A Severer at the gate of Q'aptel'ul Ne'ok has named a Wall-Sworn brother as a priest who fled the Blood-Denied sentence in the north, and wants him brought before the Speaker of the Sentence. [Shelem Ishtem Tsul]{.name data-type="being/npc"}, First of the Wall, refuses to say what name the brother set aside. Each asks the party to persuade the other.
+- **The priestess in the bow.** The Ts'enmah of K'ushi Ish'bal wants to know what the water priestesses taste at the edge of the bitter reach, and [[being-nelushishtem|Nelush Ishtem]], Ch'alish Tq'an of the lake temples, will not tell him. He asks a party to learn it, from a priestess, a boatman or the water itself, without setting foot in a sacred boat unblessed.
+- **The short storehouse.** [[being-tsulishkul|Tsul Ishkul]], Sh'ukelmah of Q'aptel'ul Ne'ok, has more expeditions coming up the road this season than his storehouses can outfit, because the temples took their share of the herds first. He sends a party to Ishkul Ch'alish with his request for a herd from the lake temples, and with his count of cloaks to show that he asks for no more than he needs.
+- **The brother on the wall.** A Severer at the gate of Q'aptel'ul Ne'ok has named a Wall-Sworn brother as a priest who fled the Blood-Denied sentence in the north, and wants him brought before the Speaker of the Sentence. [[being-shlmishtmtsl|Shelem Ishtem Tsul]], First of the Wall, refuses to say what name the brother set aside. Each asks the party to persuade the other.
 
 ## See Also
 

@@ -93,7 +93,7 @@ No one lives in the waste to quarrel over it, and the bodies that send people in
 
 - **A witness for the ledger.** The Examiner of Ledgers of the Severers wants an outsider beside a band of the Blood-Workers on its next march south, to see what its Bearer of the Tables reads each dawn and what the band speaks. He asks a party to join the band as hired porters. The band's captain knows what porters are for.
 - **The lost ledger.** A band came back through the south gate with half its men and without its field ledger, which its Keeper carried and the Ash Country kept. The Captain of the Southern Garrison wants the ledger found and brought back before the Severers ask for it, and he hires a party with no reason to read it.
-- **A name for the returned.** A woman of the Blood-Denied camp went out of the south gate alone and came back through it a season later, and the gate priests have knotted her account. No priest will give her a tq'anil, because the Severers say the sentence still stands on her. [Ts'ultel Ne']{.name data-type="being/npc"}, Ch'alish Tq'an of the gate, has not decided, and she asks a party that saw her come back to speak for her.
+- **A name for the returned.** A woman of the Blood-Denied camp went out of the south gate alone and came back through it a season later, and the gate priests have knotted her account. No priest will give her a tq'anil, because the Severers say the sentence still stands on her. [[being-tsultelne|Ts'ultel Ne']], Ch'alish Tq'an of the gate, has not decided, and she asks a party that saw her come back to speak for her.
 
 ## See Also
 

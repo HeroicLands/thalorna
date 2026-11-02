@@ -26,7 +26,7 @@ Two walls close the pass, one facing each way, with the city between them. A tra
 
 ## Who Governs
 
-The fortress has the realm's two halves, each with its own lord. The lord of the upper half, the Ts'ikmah, is always one of the Sun's kin, named by the Ts'enmah, and he commands the garrison and the pass. The present Ts'ikmah is [P'enqal Q'aptel]{.name data-type="being/npc"}, a gray, exacting man who walks both walls twice a day. The lord of the lower half leads the kin groups who live in the fortress and serve the storehouses and the cisterns.
+The fortress has the realm's two halves, each with its own lord. The lord of the upper half, the Ts'ikmah, is always one of the Sun's kin, named by the Ts'enmah, and he commands the garrison and the pass. The present Ts'ikmah is [[being-penqalqaptl|P'enqal Q'aptel]], a gray, exacting man who walks both walls twice a day. The lord of the lower half leads the kin groups who live in the fortress and serve the storehouses and the cisterns.
 
 The garrison is mostly the labor turn. Each valley of the realm owes the fortress a number of men each year, counted by the heads of twenty households and sent up the road under their own Ts'obmah, and they serve their turn on the walls in steel breastplates from [[place-nekiahkul|Ne' Ki'ahkul]] before going home. A smaller standing garrison of professional soldiers, trained in mountain fighting and the defense of the gates, stays year-round and teaches each new levy its post. The two do not mix much.
 

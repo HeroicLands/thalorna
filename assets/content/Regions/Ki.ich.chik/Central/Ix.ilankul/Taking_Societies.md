@@ -89,13 +89,13 @@ Most captive-hunts between the cities of the plateau are treaty-hunts. Two Ts'en
 
 The treaty forbids five things. No side takes beyond its count, and a captive taken over the count is returned unharmed the same day. No warrior takes off the marked field. Nobody kills on a treaty field, and a man who kills there is given to the other side as a captive in the dead man's place. Nobody lays hands on a Marshal. And no side carries the hunt past the stones into the other city's fields or towns. A Ts'enmah whose warriors broke a treaty has no treaty-hunt offered him again until he has paid the other city for it, in captives of his own.
 
-[Toshel Ishtem Ts'ultel]{.name data-type="being/npc"}, Ts'enmah of [[place-kultaqan|Kul'taq'an]], has taken eleven captives himself in the hunts against [[place-qokulqat|Q'o Kul'qat]], and wears the cloak to his court.
+[[being-tshlishtmtsl|Toshel Ishtem Ts'ultel]], Ts'enmah of [[place-kultaqan|Kul'taq'an]], has taken eleven captives himself in the hunts against [[place-qokulqat|Q'o Kul'qat]], and wears the cloak to his court.
 
 ## Standing
 
 A Patterned Cloak eats in his lord's hall and may hold a field from the Ts'enmah. A Red Cord is honored in his ward, carried high at its festivals, and listened to in its levy. The societies' Elders are received by every Sun Lord of the plateau, because every Sun Lord's war depends on his takers, and the Ts'enmah of Ishtal'hun lends the best of them to other cities as captains for their campaigns.
 
-The Elder of the Patterned Cloaks is [P'enqal Ne'ok]{.name data-type="being/npc"}, a broad, gray warrior of Ishtal'hun's own wards, who has walked a treaty field as Marshal more often than anyone alive and whose cloak has no room left on its border.
+The Elder of the Patterned Cloaks is [[being-penqalneok|P'enqal Ne'ok]], a broad, gray warrior of Ishtal'hun's own wards, who has walked a treaty field as Marshal more often than anyone alive and whose cloak has no room left on its border.
 
 ## Rivals
 

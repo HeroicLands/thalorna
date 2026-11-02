@@ -66,7 +66,7 @@ The **Eagle House**, the _tsilkasanuk_, is the noble house of Tsilkasis that sit
 
 A house is its great plank building and the lineage that lives in it, with its own names, crests, fishing places and dances. The Eagle House holds its chief and his kin, its nobles, each holding one or more of its hereditary names and the seats and fishing places those names carry, its commoners, who are of the house but hold none of its names, and its slaves. A name passes when its holder names an heir before witnesses and the heir lifts it at a feast, and the house's names pass only to its own blood or to those it marries.
 
-The chief is the ninth [Lukwahakwa]{.name data-type="being/npc"}, Copper Lifted. His nephew [Tuklaskapala]{.name data-type="being/npc"}, Returns from the Mountain, is the house's **Seat Holder**, who walks to the [[affiliation-redstncmpct|Red Stone Compact]]'s council each summer with a Speaker to hold the coast's seat there.
+The chief is the ninth [[being-lukwahakwa|Lukwahakwa]], Copper Lifted. His nephew [[being-tuklaskapala|Tuklaskapala]], Returns from the Mountain, is the house's **Seat Holder**, who walks to the [[affiliation-redstncmpct|Red Stone Compact]]'s council each summer with a Speaker to hold the coast's seat there.
 
 ## Standing
 

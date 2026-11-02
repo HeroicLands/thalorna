@@ -27,7 +27,7 @@ Malkisis hunts whales. In spring, when the whales pass north close inshore, eigh
 
 ## The Count
 
-The Orca House keeps the count. Its Keeper of the Count is [Kalunukwas]{.name data-type="being/npc"}, the seventh to hold the name, who holds forty years of the coast's gifts and debts in her memory. The first Kalunukwas refused to count the twenty killed at the Killing Feast, and her ruling that a dead man is given to nobody is the law of every feast on the coast. Houses in dispute over an old debt send for her, pay her in blankets, and accept what she says, though many of them would rather not.
+The Orca House keeps the count. Its Keeper of the Count is [[being-kalunukwas|Kalunukwas]], the seventh to hold the name, who holds forty years of the coast's gifts and debts in her memory. The first Kalunukwas refused to count the twenty killed at the Killing Feast, and her ruling that a dead man is given to nobody is the law of every feast on the coast. Houses in dispute over an old debt send for her, pay her in blankets, and accept what she says, though many of them would rather not.
 
 ## The Freed
 

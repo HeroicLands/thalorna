@@ -57,8 +57,8 @@ K'ankul quarrels with Ish'ilankul over whether it is a partner or a tributary, a
 ## Hooks
 
 - **The disputed day.** An Inspector of the Severers holds a priest of [[place-ishtalhun|Ishtal'hun]] for a working spoken on a day his city's table marked closed, and the priest swears that the table was miscopied. The Star House will show the Inspector its arithmetic only in K'ankul, and the priest's witnesses are on the plateau. The Inspector asks a party to bring them down the white road to K'ankul alive, and someone on the plateau would rather they never arrived.
-- **What the reckoners are celebrating.** The Keeper of Errors of the Star House has heard that the court reckoners of Ne' Ch'akalkul are dining well and saying nothing. He asks a party to learn what [Ne' Ish Q'emul]{.name data-type="being/npc"}, the city's best reckoner, has found, before her Ts'enmah announces it.
-- **The tribute embassy.** An envoy of the Q'emulmah of [[place-ixilankul2|Ish'ilankul]] is on the road to K'ankul to settle what the realm sends in the new round. [Ts'ultel Ishkul K'ushi]{.name data-type="being/npc"}, Ts'enmah of K'ankul, wants a party on the road ahead of the envoy to learn what he means to ask, and the envoy wants a party of his own to learn what the Ts'enmah means to refuse.
+- **What the reckoners are celebrating.** The Keeper of Errors of the Star House has heard that the court reckoners of Ne' Ch'akalkul are dining well and saying nothing. He asks a party to learn what [[being-neishqemul|Ne' Ish Q'emul]], the city's best reckoner, has found, before her Ts'enmah announces it.
+- **The tribute embassy.** An envoy of the Q'emulmah of [[place-ixilankul2|Ish'ilankul]] is on the road to K'ankul to settle what the realm sends in the new round. [[being-tsltlishkksh|Ts'ultel Ishkul K'ushi]], Ts'enmah of K'ankul, wants a party on the road ahead of the envoy to learn what he means to ask, and the envoy wants a party of his own to learn what the Ts'enmah means to refuse.
 
 ## See Also
 

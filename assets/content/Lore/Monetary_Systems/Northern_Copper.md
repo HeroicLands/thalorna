@@ -55,7 +55,7 @@ The trading town of Ha'nal Shi'lan stands between the Maple People and the One F
 
 ## The Quarrel over Copper
 
-The copper goes south because the One Fire pays for it, and the One Fire's warriors carry copper-headed clubs into the valleys of the River People. The River People's speakers have asked the Grove's great council three times to stop the trade, and three times the Copper People have refused to agree. A council of the Grove decides nothing until every nation agrees, so the matter is an unboiled kettle and the copper still goes south. Hammerstone's speaker, [Tsikenhakahtiron]{.name data-type="being/npc"}, says that copper is the Copper People's maize.
+The copper goes south because the One Fire pays for it, and the One Fire's warriors carry copper-headed clubs into the valleys of the River People. The River People's speakers have asked the Grove's great council three times to stop the trade, and three times the Copper People have refused to agree. A council of the Grove decides nothing until every nation agrees, so the matter is an unboiled kettle and the copper still goes south. Hammerstone's speaker, [[being-tsikenhakahtiron|Tsikenhakahtiron]], says that copper is the Copper People's maize.
 
 Every northern chief also knows what copper is not. The south fights in steel, and a cold-hammered copper blade does not stand against it. That difference is the plainest reason the [[affiliation-redstncmpct|Red Stone Compact]] exists.
 

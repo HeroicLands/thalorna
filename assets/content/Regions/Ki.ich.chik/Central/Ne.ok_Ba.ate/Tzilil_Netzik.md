@@ -34,7 +34,7 @@ Inland from the town, in a hollow among the trees, a spring rises into a round p
 
 ## Who Governs
 
-Ts'ilil Ne'ts'ik is ruled by an Ish'kanmah, a royal lady who holds it in her own right because the royal line of the island passes through its daughters. The present ruler is [Ish'bal Ne'ok K'ushi]{.name data-type="being/npc"}, a square, weathered woman of fifty-five who paddled in the war canoes as a girl and still goes out with them to inspect the archipelago. Kulmah hold the lesser islands for her, and the heads of the merchant families sit at her court. She sends tribute to the Ts'enmah of [[place-neokbaate2|Ne'ok Ba'ate]] in shell, salt and the services of her canoes, and she keeps a Ch'umts'om, an envoy, at his court.
+Ts'ilil Ne'ts'ik is ruled by an Ish'kanmah, a royal lady who holds it in her own right because the royal line of the island passes through its daughters. The present ruler is [[being-ishblnkkush|Ish'bal Ne'ok K'ushi]], a square, weathered woman of fifty-five who paddled in the war canoes as a girl and still goes out with them to inspect the archipelago. Kulmah hold the lesser islands for her, and the heads of the merchant families sit at her court. She sends tribute to the Ts'enmah of [[place-neokbaate2|Ne'ok Ba'ate]] in shell, salt and the services of her canoes, and she keeps a Ch'umts'om, an envoy, at his court.
 
 The island's quarrel is with Ts'okilkul. The two ports compete for every K'ankul cargo, and two of the island's merchant canoes have broken on the reef off Ts'okilkul in the past two years. The island's canoe-masters say the reef has moved.
 

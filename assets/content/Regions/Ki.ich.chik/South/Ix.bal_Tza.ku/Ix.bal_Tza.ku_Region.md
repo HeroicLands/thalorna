@@ -53,9 +53,9 @@ Ish'bal Tsa'ku quarrels over who counts. The priesthood levies every cargo, the 
 
 ## Hooks
 
-- **Proof for the temple.** [K'ushi Q'aptel]{.name data-type="being/npc"}, Captain of the Storm Fleet, pays for proof of any cargo that came into Ts'alam Ne' uncounted, and pays best for proof of one belonging to [Ch'akul Ish]{.name data-type="being/npc"}, the Ne'kalmah. He asks a party to take passage on one of the Ne'kalmah's trading canoes and watch where it puts in before it reaches the harbor mouth.
-- **Unmarked steel.** [Toshel Ne'ok]{.name data-type="being/npc"}, who speaks for the six kin groups of the forges, has seen unmarked steel on sale in the market of Ne' P'ashel. She pays a party to buy a piece, follow it back to whoever sold it, and bring her the seller's name before the inspectors hear of it.
-- **The light load.** [P'enqal Q'aptel]{.name data-type="being/npc"}, Ts'ikmah of Ts'alam Ts'ultel, has a merchant whose loads were lighter at the pass than at the market below, and the merchant swears they were not. He asks a party to go down to the market, read its cords against the cords of the pass, and learn which count is false.
+- **Proof for the temple.** [[being-kushiqaptel|K'ushi Q'aptel]], Captain of the Storm Fleet, pays for proof of any cargo that came into Ts'alam Ne' uncounted, and pays best for proof of one belonging to [[being-chakulish|Ch'akul Ish]], the Ne'kalmah. He asks a party to take passage on one of the Ne'kalmah's trading canoes and watch where it puts in before it reaches the harbor mouth.
+- **Unmarked steel.** [[being-toshelneok|Toshel Ne'ok]], who speaks for the six kin groups of the forges, has seen unmarked steel on sale in the market of Ne' P'ashel. She pays a party to buy a piece, follow it back to whoever sold it, and bring her the seller's name before the inspectors hear of it.
+- **The light load.** [[being-penqalqaptl|P'enqal Q'aptel]], Ts'ikmah of Ts'alam Ts'ultel, has a merchant whose loads were lighter at the pass than at the market below, and the merchant swears they were not. He asks a party to go down to the market, read its cords against the cords of the pass, and learn which count is false.
 
 ## See Also
 

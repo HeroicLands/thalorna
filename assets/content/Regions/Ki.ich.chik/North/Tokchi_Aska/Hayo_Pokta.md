@@ -34,7 +34,7 @@ The great mound is never finished. Every morning in the dry season the work crew
 
 The Great Sun governs from the great mound, and every Noble of the heartland comes to Hayo Pokta to bring tribute, watch the game and be seen. The Shell Chiefs of the coast come for the New Fire, stand beside a Keeper while he says the Shell Promise is kept, and leave as soon as they decently can.
 
-The present Great Sun, [Opahiko]{.name data-type="being/npc"}, is old, and the town knows it. When a Great Sun dies he is buried in the great mound with his attendants, and the quarrel over who goes with him opens again. Every household in Hayo Pokta has an opinion on who the Sun Mother will name to follow him, and on whether the shell towns will still take the coal afterward.
+The present Great Sun, [[being-opahiko|Opahiko]], is old, and the town knows it. When a Great Sun dies he is buried in the great mound with his attendants, and the quarrel over who goes with him opens again. Every household in Hayo Pokta has an opinion on who the Sun Mother will name to follow him, and on whether the shell towns will still take the coal afterward.
 
 :::secret {title="Who the Shell Chiefs are talking to"}
 

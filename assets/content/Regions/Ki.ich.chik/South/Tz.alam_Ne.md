@@ -28,7 +28,7 @@ The harbor is always full. Fishing canoes go out before dawn and come back by no
 
 Ts'alam Ne' is ruled for the Ts'enmah by a lord of the sea, the Ne'kalmah, who keeps the city's fleet and pays its tribute to the capital in metal, cacao and feathers. The fleet is his, and so are the cords that count it. The inspectors who walk the inland valleys without warning come to Ts'alam Ne' by appointment, and they count the warehouses the Ne'kalmah shows them. The arrangement suits both sides: the Ts'enmah gets his tribute in full, and the sea lords of the coast keep their ships and their own counsel.
 
-The present Ne'kalmah is [Ch'akul Ish]{.name data-type="being/npc"}, a tall, cheerful man who has sailed every reach of the coast from shrine to shrine, and who is said to keep a second set of cords that the inspectors never see.
+The present Ne'kalmah is [[being-chakulish|Ch'akul Ish]], a tall, cheerful man who has sailed every reach of the coast from shrine to shrine, and who is said to keep a second set of cords that the inspectors never see.
 
 Below him the city has the south's two halves. The upper half is the hill city and its kin groups of merchants and temple servants. The lower half is the waterfront, whose lord hears the disputes over cargo, wharf space and pay that fill most of his days, since the waterfront quarrels more than any other part of the south.
 

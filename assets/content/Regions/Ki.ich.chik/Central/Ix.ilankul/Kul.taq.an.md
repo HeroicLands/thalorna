@@ -44,7 +44,7 @@ Every cord that passes through the dispatch is copied once more than its sender 
 
 ## Who Governs
 
-Kul'taq'an has its own Ts'enmah, chosen from its royal line by the four P'eshalmah, the lords of its quarters, and confirmed by its Presiding Ch'alish Tq'an, with a Ch'ikalmah who holds the city when he is in the field. The present Ts'enmah is [Toshel Ishtem Ts'ultel]{.name data-type="being/npc"}, a lean man in his forties who has led the city's captive-hunts against [[place-qokulqat|Q'o Kul'qat]] in nine war months and taken eleven captives himself. He holds the quarters, their wards and levies, and the fees of the great plaza. He does not hold the precinct, the dispatch or the hostels, and he collects no tribute from their estates. The Q'emulmah, first of the Sun Lords, sits at [[place-ixilankul2|Ish'ilankul]], and the Ts'enmah of Kul'taq'an rules the holiest city on the continent as one Sun Lord among the others.
+Kul'taq'an has its own Ts'enmah, chosen from its royal line by the four P'eshalmah, the lords of its quarters, and confirmed by its Presiding Ch'alish Tq'an, with a Ch'ikalmah who holds the city when he is in the field. The present Ts'enmah is [[being-tshlishtmtsl|Toshel Ishtem Ts'ultel]], a lean man in his forties who has led the city's captive-hunts against [[place-qokulqat|Q'o Kul'qat]] in nine war months and taken eleven captives himself. He holds the quarters, their wards and levies, and the fees of the great plaza. He does not hold the precinct, the dispatch or the hostels, and he collects no tribute from their estates. The Q'emulmah, first of the Sun Lords, sits at [[place-ixilankul2|Ish'ilankul]], and the Ts'enmah of Kul'taq'an rules the holiest city on the continent as one Sun Lord among the others.
 
 ## The Coming Fire
 

@@ -25,7 +25,7 @@ Every spring, when the first Cedar trading canoes come south, the chief of Tikoq
 
 ## The Redeemer
 
-The town's most famous man is [Sitiqnush]{.name data-type="being/npc"}, Star Walking, a canoe master of the [[affiliation-canoekin|Canoe Kin]] who sails north three times a year to buy back captives from the Cedar People's villages. His canoe is the oldest on the beach and its seams are tarred over many times, and his crew are mostly young men of the town who paddle for nothing. Hiluqkanan praises him at every feast. The town notices that the chief has never paid toward a voyage.
+The town's most famous man is [[being-sitiqnush|Sitiqnush]], Star Walking, a canoe master of the [[affiliation-canoekin|Canoe Kin]] who sails north three times a year to buy back captives from the Cedar People's villages. His canoe is the oldest on the beach and its seams are tarred over many times, and his crew are mostly young men of the town who paddle for nothing. Hiluqkanan praises him at every feast. The town notices that the chief has never paid toward a voyage.
 
 ## Trade
 

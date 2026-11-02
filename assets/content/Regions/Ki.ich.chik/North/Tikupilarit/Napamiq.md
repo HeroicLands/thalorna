@@ -25,7 +25,7 @@ Every autumn walrus haul out in thousands on the island's rocks, and the men of 
 
 ## The Masks
 
-Napamiq's shaman, [Pinaqaklu]{.name data-type="being/npc"}, Wind Diving, is a woman, and the coast holds her the strongest shaman alive. Villages send men across the ice in late winter to see the Asking danced in Napamiq's men's house, where the masks are carved by the island's carvers to her description and the dancers come down the ladders from the cliff in the dark carrying lamps. After the Asking the masks are carried to the top of the island and left to the wind.
+Napamiq's shaman, [[being-pinaqaklu|Pinaqaklu]], Wind Diving, is a woman, and the coast holds her the strongest shaman alive. Villages send men across the ice in late winter to see the Asking danced in Napamiq's men's house, where the masks are carved by the island's carvers to her description and the dancers come down the ladders from the cliff in the dark carrying lamps. After the Asking the masks are carried to the top of the island and left to the wind.
 
 ## See Also
 

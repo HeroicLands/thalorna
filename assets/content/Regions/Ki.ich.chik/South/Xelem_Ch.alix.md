@@ -22,7 +22,7 @@ The night before a party leaves, a death-walker sits with each of its members in
 
 Shelem Ch'alish stands on a shelf of high ground at the southern edge of the [[place-qapteltzaklrgn|Q'aptel Tsa'kul Region]], with the mineral flats of the threshold behind it and the waste in front. Its walls close a single long court. At the north end is the gate a party comes in by, at the south end the gate it goes out by, and between them the pyramid-temple, the wells, the storehouses and the cells where travelers sleep. Watchtowers stand on the south wall, and from them the southern sky shows its colors: a sickly yellow by day, a bruised purple when a storm stands on the horizon, and on some nights a light that comes from no moon.
 
-The fortress belongs to [[affiliation-qapteltzakl|Q'aptel Tsa'kul]] and is governed from its seat, [[place-qapteltzakl2|Q'aptel Tsa'kul]], whose Q'aptelmah sets the fee for every party that passes south. The gate's own high priest, the Ch'alish Tq'an of the fortress-temple, rules the court in his name. The present one is [Ts'ultel Ne']{.name data-type="being/npc"}, a lean, soft-spoken man who has never been through the south gate himself and says so to every captain who asks.
+The fortress belongs to [[affiliation-qapteltzakl|Q'aptel Tsa'kul]] and is governed from its seat, [[place-qapteltzakl2|Q'aptel Tsa'kul]], whose Q'aptelmah sets the fee for every party that passes south. The gate's own high priest, the Ch'alish Tq'an of the fortress-temple, rules the court in his name. The present one is [[being-tsultelne|Ts'ultel Ne']], a lean, soft-spoken man who has never been through the south gate himself and says so to every captain who asks.
 
 ## The Working Day
 

@@ -27,7 +27,7 @@ The walrus are the village. In spring the hunters go out to the ice edge for the
 
 The Messenger Feast began here, in the coast's telling, when [Piqanmalu]{.name data-type="being/npc"}, Sun Running, walked unarmed into an enemy men's house with an invitation. His harpoon hangs from the roof of the men's house of Kavrumiq above the speaker's place, and it is the only object on the coast older than living memory that nobody may touch.
 
-The speaker of the men's house is the oldest man of the village and the most listened to on the coast. It was he who said, at the Bladder Feast four winters ago, that the Taking was a gift taken and not answered, and Whale Point has not sent its bladders to Kavrumiq's ice hole since. The provider [Kavrukuvla]{.name data-type="being/npc"}, Walrus Hunting, sits nearest the elders, and the orphans of the village eat from his catch first.
+The speaker of the men's house is the oldest man of the village and the most listened to on the coast. It was he who said, at the Bladder Feast four winters ago, that the Taking was a gift taken and not answered, and Whale Point has not sent its bladders to Kavrumiq's ice hole since. The provider [[being-kavrukuvla|Kavrukuvla]], Walrus Hunting, sits nearest the elders, and the orphans of the village eat from his catch first.
 
 ## Trade
 

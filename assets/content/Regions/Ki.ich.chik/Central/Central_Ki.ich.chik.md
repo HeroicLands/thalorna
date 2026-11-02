@@ -30,8 +30,8 @@ The four realms quarrel over who stands first among them, and the quarrel comes 
 
 ## Hooks
 
-- **The slow letter.** [Ts'ultel Ishkul K'ushi]{.name data-type="being/npc"}, Ts'enmah of [[place-kankul2|K'ankul]], wants a letter carried to [Ishkul Ne'ok Ts'ultel]{.name data-type="being/npc"}, Ts'enmah of [[place-neokbaate2|Ne'ok Ba'ate]], by any road but the fast net of the Speaking Road, because he believes the dispatch at Kul'taq'an reads more than it carries. He wants a party with no city of its own, and he pays it to say nothing of where it is going.
-- **Plumes before the fire.** [Toshel Ishtem Ts'ultel]{.name data-type="being/npc"}, Ts'enmah of Kul'taq'an, needs new feather regalia for his warriors before the round turns, and the price of plumes is already climbing. He sends a party down the rivers to [[place-xelem2|Shelem]] with cacao, to buy quetzal feathers at the landing price before the merchant families learn who is buying.
+- **The slow letter.** [[being-tsltlishkksh|Ts'ultel Ishkul K'ushi]], Ts'enmah of [[place-kankul2|K'ankul]], wants a letter carried to [[being-ishkulnktsl|Ishkul Ne'ok Ts'ultel]], Ts'enmah of [[place-neokbaate2|Ne'ok Ba'ate]], by any road but the fast net of the Speaking Road, because he believes the dispatch at Kul'taq'an reads more than it carries. He wants a party with no city of its own, and he pays it to say nothing of where it is going.
+- **Plumes before the fire.** [[being-tshlishtmtsl|Toshel Ishtem Ts'ultel]], Ts'enmah of Kul'taq'an, needs new feather regalia for his warriors before the round turns, and the price of plumes is already climbing. He sends a party down the rivers to [[place-xelem2|Shelem]] with cacao, to buy quetzal feathers at the landing price before the merchant families learn who is buying.
 - **The coal on the road.** The Presiding Ch'alish Tq'an of [[place-nechakalkul|Ne' Ch'akalkul]] will carry his city's coal up the white road to the conclave in a covered jar, and the cities that would rather he arrived late know which road he takes. He hires a party to walk beside his litter from the lowlands to the plateau.
 
 ## See Also

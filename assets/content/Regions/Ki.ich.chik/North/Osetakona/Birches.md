@@ -19,7 +19,7 @@ data:
 
 ## Overview
 
-From the palisade of Birches a watcher can see the forest end. To the east and north the birch and maple stand thick, and to the west and south they thin into oak openings and then stop, and beyond them the grass runs on to the sky. The village stands on a low ridge at that line, about 1,000 people of the Birch People behind a double palisade, at the western edge of the [[place-kahnionrgn|Western Lakes]]. Its name (_kaniestraten_) means the place of birches, for the white trees around it, whose bark the village peels for the best canoes in the Grove. It is also the village of [Skahniotiaro]{.name data-type="being/npc"}, the speaker the western villages name when they say what a man should be.
+From the palisade of Birches a watcher can see the forest end. To the east and north the birch and maple stand thick, and to the west and south they thin into oak openings and then stop, and beyond them the grass runs on to the sky. The village stands on a low ridge at that line, about 1,000 people of the Birch People behind a double palisade, at the western edge of the [[place-kahnionrgn|Western Lakes]]. Its name (_kaniestraten_) means the place of birches, for the white trees around it, whose bark the village peels for the best canoes in the Grove. It is also the village of [[being-skahniotiaro|Skahniotiaro]], the speaker the western villages name when they say what a man should be.
 
 ## The Village
 

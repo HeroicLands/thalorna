@@ -33,7 +33,7 @@ Every Ki'ich'chik person, from the highest Ts'enmah to the lowest bound laborer,
 The great festivals of the calendar fill Kul'taq'an to the horizon, and the Living Flame fills it most of all. The next falls at the winter solstice of 722, and the Steward is raising new hostels on the lower slopes for the hundreds of thousands of pilgrims expected for it.
 
 :::secret {title="The maize on credit"}
-The estates of the Sacred Foundation cannot feed the pilgrims of 722. The Steward has known it since he counted the hostels he needs. He has bought the maize he lacks from the trading houses of [[place-tsamash|Tsa'mash]], on credit, to be paid from the offerings the pilgrims bring, and the knotted cords that record the debt are held by [P'enqal Ts'alam K'ushi]{.name data-type="being/npc"}, eldest of the merchant guild's elders there. If the pilgrims bring less than he expects, the holiest precinct on the continent owes its maize to a merchant of Tsa'mash. The Q'emul Tq'an has not been told.
+The estates of the Sacred Foundation cannot feed the pilgrims of 722. The Steward has known it since he counted the hostels he needs. He has bought the maize he lacks from the trading houses of [[place-tsamash|Tsa'mash]], on credit, to be paid from the offerings the pilgrims bring, and the knotted cords that record the debt are held by [[being-pnqltslmksh|P'enqal Ts'alam K'ushi]], eldest of the merchant guild's elders there. If the pilgrims bring less than he expects, the holiest precinct on the continent owes its maize to a merchant of Tsa'mash. The Q'emul Tq'an has not been told.
 :::
 
 ## See Also

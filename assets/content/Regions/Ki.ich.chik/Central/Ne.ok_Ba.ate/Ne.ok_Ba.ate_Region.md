@@ -49,8 +49,8 @@ Ne'ok Ba'ate quarrels with the priesthood over its own word. Every cord the isth
 
 ## Hooks
 
-- **The empty nights.** The priestesses of the spring on the Island of Swallows have noticed that the war canoes go out on nights when there is nothing to escort, and [Ish'bal Ne'ok K'ushi]{.name data-type="being/npc"}, the island's Ish'kanmah, has learned that they noticed. She asks a party to find out whom the priestesses have told.
-- **A gourd for the island.** [Ishkul Ne'ok Ts'ultel]{.name data-type="being/npc"}, Ts'enmah of [[place-neokbaate2|Ne'ok Ba'ate]], has a sealed gourd that must reach the Island of Swallows by the eastern road and the sea, and his household messenger has fallen ill. He hires a party to carry it unopened. A Reader of the Cords at the city's dispatch hall pays the same party to tell him where it went.
+- **The empty nights.** The priestesses of the spring on the Island of Swallows have noticed that the war canoes go out on nights when there is nothing to escort, and [[being-ishblnkkush|Ish'bal Ne'ok K'ushi]], the island's Ish'kanmah, has learned that they noticed. She asks a party to find out whom the priestesses have told.
+- **A gourd for the island.** [[being-ishkulnktsl|Ishkul Ne'ok Ts'ultel]], Ts'enmah of [[place-neokbaate2|Ne'ok Ba'ate]], has a sealed gourd that must reach the Island of Swallows by the eastern road and the sea, and his household messenger has fallen ill. He hires a party to carry it unopened. A Reader of the Cords at the city's dispatch hall pays the same party to tell him where it went.
 - **The mountain over the road.** The seat stands across the one road over the volcanic spine, and the mountain above it has begun to smoke. If it wakes and cuts the road, whoever holds the old paths around it holds the traffic and the runners of the south for a season. The Ts'enmah wants the paths walked and marked by his own people, the dispatch wants them walked by its runners, and each asks the party first.
 
 ## See Also

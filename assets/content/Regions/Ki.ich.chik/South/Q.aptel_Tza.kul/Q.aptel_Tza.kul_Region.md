@@ -51,7 +51,7 @@ Q'aptel Tsa'kul lives on the fee, and it quarrels with everyone who takes a part
 
 - **The guides' complaint.** The head of a guide family of Shelem Ch'alish says that the Wall-Sworn have been walking parties past the seat without stopping for the fee. The Q'aptelmah's cord-keeper wants a party to cross the flats with a Wall-Sworn escort and see where it goes.
 - **Crystals without leave.** Crystals ground from the toxic flats are on sale in the northern cities without the priesthood's leave. The Q'aptelmah asks a party to find the gatherers, who work the flats at night from a camp nobody has found.
-- **No priest at the gate.** An old man of the Blood-Denied camp outside the north wall of Shelem Ch'alish is dying, wants to die in the waste and cannot walk the ash beyond the gate. He asks a party to carry him out through the south gate on a morning of his choosing. [Ts'ultel Ne']{.name data-type="being/npc"}, the gate's Ch'alish Tq'an, says nothing either way, and a party that does it goes out on a day no priest has opened.
+- **No priest at the gate.** An old man of the Blood-Denied camp outside the north wall of Shelem Ch'alish is dying, wants to die in the waste and cannot walk the ash beyond the gate. He asks a party to carry him out through the south gate on a morning of his choosing. [[being-tsultelne|Ts'ultel Ne']], the gate's Ch'alish Tq'an, says nothing either way, and a party that does it goes out on a day no priest has opened.
 
 ## See Also
 

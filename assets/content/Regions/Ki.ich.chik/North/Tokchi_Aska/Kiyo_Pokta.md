@@ -29,7 +29,7 @@ Kiyo Pokta is the only town of the One Fire with two palisades, one inside the o
 
 On the plaza's west side, facing the grass, stands the falcon house: a long council house with a copper falcon over its door, where the falcon dancers keep their headdresses and cloaks and young men of the western towns come to learn the dance and the war club. A boy who has taken his first captive is brought here by his mother's brother, painted, and taught the steps of the bird-man who strikes down the enemies of the sun. Before a war the dancers go out through the plaza in copper-plated headdresses and falcon-feather cloaks, and the whole town comes to watch.
 
-When the Great Sun calls a war against the plains, the Falcon Chief, the _Kiyo Imala_, comes to Kiyo Pokta to raise it. The present Falcon Chief is [Naksochi]{.name data-type="being/npc"}, the Great Sun's sister's son, a hard, popular man of about forty-five who has led three wars west and spends more of the year here than at [[place-hayopokta|Hayo Pokta]].
+When the Great Sun calls a war against the plains, the Falcon Chief, the _Kiyo Imala_, comes to Kiyo Pokta to raise it. The present Falcon Chief is [[being-naksochi|Naksochi]], the Great Sun's sister's son, a hard, popular man of about forty-five who has led three wars west and spends more of the year here than at [[place-hayopokta|Hayo Pokta]].
 
 ## Trade and Raids
 

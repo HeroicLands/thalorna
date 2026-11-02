@@ -54,7 +54,7 @@ The plateau quarrels over what a war is for. Its cities fight the captive-hunt, 
 ## Hooks
 
 - **A captive for each man.** A captain back from the frontier wants his men admitted to the Taking Societies, and the Elders have told him to his face that none of them is a taker. He hires a party to train his men in the taking of men alive before the war month, and to stand with them in their first hunt, where a man who kills instead of binding is cut from the societies for good.
-- **The taker who would be a priest.** [P'enqal Ne'ok]{.name data-type="being/npc"}, the societies' most-traveled Marshal of the treaty-hunts, has learned that the Master of Ishtal'hun means to test the best young taker of the season for the Blood-Workers. He asks a party to persuade the young man's house to keep him in the societies, and the Master asks the same party to bring the boy to the test.
+- **The taker who would be a priest.** [[being-penqalneok|P'enqal Ne'ok]], the societies' most-traveled Marshal of the treaty-hunts, has learned that the Master of Ishtal'hun means to test the best young taker of the season for the Blood-Workers. He asks a party to persuade the young man's house to keep him in the societies, and the Master asks the same party to bring the boy to the test.
 - **The ransom.** A trading house of Tsa'mash had a son taken in a treaty-hunt and wants him back before the Dedicator of Captives assigns him to a rite, after which no ransom is heard. It asks a party to find the taker and agree a price, and the taker needs this captive for his fourth knot and names a price the house cannot pay.
 
 ## See Also

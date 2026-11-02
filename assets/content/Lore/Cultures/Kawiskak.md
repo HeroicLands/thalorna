@@ -61,7 +61,7 @@ The bands admire his judgment and his open ground. His cost is his beaver, which
 
 ## The Woman Admired
 
-[Osipisa]{.name data-type="being/npc"}, Watches the Lake, is the lake keeper at the [Apowosipa]{.name data-type="place/feature"}, the Loon Lake, the northernmost summer lake of the forest, a few days below the treeline. She opens the weirs each spring, settles the quarrels of the eight bands who meet there, and holds more of the people's stories than anyone alive. She is admired for her weirs and her memory. Her weirs are the best-kept in the north, and her memory of every band's ground and of every debt between bands keeps the peace at the lake.
+[[being-osipisa|Osipisa]], Watches the Lake, is the lake keeper at the [Apowosipa]{.name data-type="place/feature"}, the Loon Lake, the northernmost summer lake of the forest, a few days below the treeline. She opens the weirs each spring, settles the quarrels of the eight bands who meet there, and holds more of the people's stories than anyone alive. She is admired for her weirs and her memory. Her weirs are the best-kept in the north, and her memory of every band's ground and of every debt between bands keeps the peace at the lake.
 
 Last winter a family of Barren-Ground People came to the frozen lake starving. A lodge-shaker of another band said they were _mohkisk_, and some of the young men wanted to drive them back onto the barrens. Osipisa stood on the ice in front of them and told the story of the [Loon Lake Killing]{.name data-type="lore/history"}, below, from beginning to end. Then she fed the strangers from her own stores. They are still at the lake. Half the bands that meet there have not forgiven her.
 

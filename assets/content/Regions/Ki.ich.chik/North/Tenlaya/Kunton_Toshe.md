@@ -29,7 +29,7 @@ Below the cliff, the men finish the animals that lived through the fall, and the
 
 ## Who Drives Here
 
-Thunder Cliff belongs to no band. The bands that want to drive here agree at the summer gathering, at the [Cottonwood Bend]{.name data-type="place/site"}, and name one hunt chief among them for the drive. This autumn's hunt chief is [Toshewiwan]{.name data-type="being/npc"}, Cliff Stands, of the Cliff band, a heavy, slow-spoken man in his forties who has led the drive here twice before. The Cairn band keeps the drive lanes, restacks their fallen cairns each autumn and leads the singing over the bundle before a drive, and its bundle keeper (_chekanka_), [Mahintayu]{.name data-type="being/npc"}, Sky Dream, opens the bundle at the top of the cliff on the morning of the drive.
+Thunder Cliff belongs to no band. The bands that want to drive here agree at the summer gathering, at the [Cottonwood Bend]{.name data-type="place/site"}, and name one hunt chief among them for the drive. This autumn's hunt chief is [Toshewiwan]{.name data-type="being/npc"}, Cliff Stands, of the Cliff band, a heavy, slow-spoken man in his forties who has led the drive here twice before. The Cairn band keeps the drive lanes, restacks their fallen cairns each autumn and leads the singing over the bundle before a drive, and its bundle keeper (_chekanka_), [[being-mahintayu|Mahintayu]], Sky Dream, opens the bundle at the top of the cliff on the morning of the drive.
 
 The warrior societies of every band at the drive take turns policing it. While the herd is in the basin, nobody hunts, and a man caught stalking a bison for his own lodge has his bow broken on the spot.
 

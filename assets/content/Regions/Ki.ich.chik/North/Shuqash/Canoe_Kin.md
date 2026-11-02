@@ -84,7 +84,7 @@ Every spring, when the winter storms end, the Canoe Kin open the sea road at the
 
 **The chiefs.** Every chief wants more of every cargo and a lower price for every canoe, and the brotherhood sells to all of them and belongs to none. Kulaywil's chief takes a bead in ten of every cargo that lands on her beach, and the canoe masters land there anyway, because Kulaywil buys more than anywhere else.
 
-**The Cedar People.** The [[affiliation-kelwanuk|Cedar People]]'s war canoes, each cut from a single cedar, come south in the summers for slaves, and their trading canoes come in the autumn for beads. The Canoe Kin carry the coast's beads north as the [Northern Strand]{.name data-type="lore/custom"}, and one canoe master, [Sitiqnush]{.name data-type="being/npc"} of [[place-tikoqhipay|North Door]], sails north three times a year to buy captives back from the Bear House at [[place-lamekis|Bear Beach]].
+**The Cedar People.** The [[affiliation-kelwanuk|Cedar People]]'s war canoes, each cut from a single cedar, come south in the summers for slaves, and their trading canoes come in the autumn for beads. The Canoe Kin carry the coast's beads north as the [Northern Strand]{.name data-type="lore/custom"}, and one canoe master, [[being-sitiqnush|Sitiqnush]] of [[place-tikoqhipay|North Door]], sails north three times a year to buy captives back from the Bear House at [[place-lamekis|Bear Beach]].
 
 ## What a Party Can Ask of Them
 

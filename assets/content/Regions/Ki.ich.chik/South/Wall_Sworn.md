@@ -77,9 +77,9 @@ The order buries its own. Every brother is owed a grave at the foot of the wall,
 
 ## Standing
 
-On the plateau the Wall-Sworn are the soldiers nobody asks after. The settled kin groups keep their distance, the priests of the garrison towns see too many of the Blood-Denied among them to be easy, and the lords of the north count them among the garrison's stores. On the flats they are the most experienced people alive. They know the sinkholes, the boiling pools, the springs that are safe in one season and poison the next, and the paths the gate's own guides use for the last stretch. The **Sh'ukelmah** of Q'aptel'ul Ne'ok, [Tsul Ishkul]{.name data-type="being/npc"}, who can say how many cloaks are in each storehouse, can also say how many of his Wall-Sworn have crossed the flats, because he counts those as stores too.
+On the plateau the Wall-Sworn are the soldiers nobody asks after. The settled kin groups keep their distance, the priests of the garrison towns see too many of the Blood-Denied among them to be easy, and the lords of the north count them among the garrison's stores. On the flats they are the most experienced people alive. They know the sinkholes, the boiling pools, the springs that are safe in one season and poison the next, and the paths the gate's own guides use for the last stretch. The **Sh'ukelmah** of Q'aptel'ul Ne'ok, [[being-tsulishkul|Tsul Ishkul]], who can say how many cloaks are in each storehouse, can also say how many of his Wall-Sworn have crossed the flats, because he counts those as stores too.
 
-The First of the Wall is [Shelem Ishtem Tsul]{.name data-type="being/npc"}, a small, bow-legged man with a voice like gravel, who has guided more expeditions to the gate than any brother living. Nobody in the order knows the name he set aside, and the Keeper of the Wall-Names says he has forgotten it.
+The First of the Wall is [[being-shlmishtmtsl|Shelem Ishtem Tsul]], a small, bow-legged man with a voice like gravel, who has guided more expeditions to the gate than any brother living. Nobody in the order knows the name he set aside, and the Keeper of the Wall-Names says he has forgotten it.
 
 ## Rivals
 

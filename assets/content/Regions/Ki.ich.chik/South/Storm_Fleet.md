@@ -75,7 +75,7 @@ The shore shrines carry the [[affiliation-chumishlan|Ch'um Ish'lan]]'s slow post
 
 The paddlers are mostly **Vowed Paddlers**: faithful of the storm god who have pledged a season at the paddle against a debt of blood, Debt-Bearers in [[affiliation-itsanihierarchy|the Itsani Hierarchy]]'s ladder, and who go home when the season ends with the debt paid. Fishermen's sons vow seasons at the paddle the way inland boys vow pilgrimages. The **Temple Crewmen** are sworn to the temple for life and are the fleet's fighters. The Steersmen and Captains are ordained priests of the storm god's branch, the water-priests and serpent-keepers, and the **Captain of the Storm Fleet** is a Ch'alish of the branch, named by the temple's Ch'alish Tq'an.
 
-The present Captain is [K'ushi Q'aptel]{.name data-type="being/npc"}, a quiet, heavy-shouldered priest who has steered the coast from end to end and who reads cords better than any Keeper of the Levy the temple has had.
+The present Captain is [[being-kushiqaptel|K'ushi Q'aptel]], a quiet, heavy-shouldered priest who has steered the coast from end to end and who reads cords better than any Keeper of the Levy the temple has had.
 
 A crewman who steals from a temple cargo, or lets one he was set to watch go unwatched, is **Put Ashore**: set on the nearest beach with nothing, and never taken aboard a temple canoe again.
 
@@ -85,7 +85,7 @@ The priesthood takes its share of every cargo that comes into Ts'alam Ne', and t
 
 ## Rivals
 
-**The Ne'kalmah.** [Ch'akul Ish]{.name data-type="being/npc"}, the lord of the sea, keeps the city's fleet for the Ts'enmah and keeps its cords himself, and the inspectors of the capital count what he shows them. The Storm Fleet counts what it sees. The two fleets share a harbor and escort different cargoes, and the Captain of the Storm Fleet holds that the Ne'kalmah's own cords are not the only ones that count his ships.
+**The Ne'kalmah.** [[being-chakulish|Ch'akul Ish]], the lord of the sea, keeps the city's fleet for the Ts'enmah and keeps its cords himself, and the inspectors of the capital count what he shows them. The Storm Fleet counts what it sees. The two fleets share a harbor and escort different cargoes, and the Captain of the Storm Fleet holds that the Ne'kalmah's own cords are not the only ones that count his ships.
 
 **The road priests.** The fleet cannot sail without the shore shrines, and the shrines belong to the road priests. A keeper who is late to call the day holds a temple canoe on a beach, and the road branch knows it.
 

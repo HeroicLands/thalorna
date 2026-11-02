@@ -93,7 +93,7 @@ When a Sun dies, others die with him. The Keepers teach that a Sun goes up to th
 
 The nation argues over the practice and has always argued. At the end of the Second Gathering the Great Sun [Lapali]{.name data-type="being/npc"} was buried with a hundred and eight, among them fifty-three young women sent up the river as tribute from the coast. The shell towns stopped paying, the eastern towns lit their fires from a rival, and within a generation the Second Gathering had scattered. The Tokchili call it the [Funeral of the Hundred]{.name data-type="lore/history"}, and it is the crime the nation carries.
 
-The present Great Sun, [Opahiko]{.name data-type="being/npc"}, is old. The Keepers want him buried with a full following. The Shell Chiefs say that one coastal death, even a volunteer's, breaks the Shell Promise. The Sun Mother [Shimaya]{.name data-type="being/npc"} has not yet named his heir, and both sides are waiting to see whom she chooses.
+The present Great Sun, [[being-opahiko|Opahiko]], is old. The Keepers want him buried with a full following. The Shell Chiefs say that one coastal death, even a volunteer's, breaks the Shell Promise. The Sun Mother [Shimaya]{.name data-type="being/npc"} has not yet named his heir, and both sides are waiting to see whom she chooses.
 
 ## How the One Fire Decides
 
@@ -122,7 +122,7 @@ Within a town the Mound Chief enforces, with the town's own warriors and the tow
 
 **A Shell Chief** is hereditary in his town, from mother's brother to sister's son, and the Great Sun confirms him by sending the coal. Since the Shell Promise was made, the Sun Mother has also sent one boy of the Suns to be raised at [[place-koyohasko|Koyo Hasko]] as its pledge, from his seventh year to his twentieth.
 
-Two Suns stand out for the coming choice. [Naksochi]{.name data-type="being/npc"}, the Falcon Chief, is the Sun Mother's son, a war leader the Keepers favor and the western towns love. [Sohiyo]{.name data-type="being/npc"}, her sister's son, was the coast's pledge at Koyo Hasko for thirteen years, and the Shell Chiefs call him their own. Each man's friends say what the other's choice would cost the nation.
+Two Suns stand out for the coming choice. [[being-naksochi|Naksochi]], the Falcon Chief, is the Sun Mother's son, a war leader the Keepers favor and the western towns love. [Sohiyo]{.name data-type="being/npc"}, her sister's son, was the coast's pledge at Koyo Hasko for thirteen years, and the Shell Chiefs call him their own. Each man's friends say what the other's choice would cost the nation.
 
 ## The Towns
 

@@ -27,7 +27,7 @@ The boat-holders (_kalviaqtiq_) of Whale Point are the richest men on the coast,
 
 ## The East
 
-Whale Point is where the East People came from. Its crews have followed the whales east along the northern ice every spring for three generations, and many have not come home: they winter in the east and stay. The village's boat-holders count it a blessing, proof that the whales chose them. Its leading boat-holder, [Tikumalu]{.name data-type="being/npc"}, Ice Running, is a great-grandson of [Imlakaklu]{.name data-type="being/npc"}, Whale Diving, the boat-holder of the [Taking]{.name data-type="lore/history"}. He sends two boats east every spring, and the Asking of his men's house dances Imlakaklu's mask.
+Whale Point is where the East People came from. Its crews have followed the whales east along the northern ice every spring for three generations, and many have not come home: they winter in the east and stay. The village's boat-holders count it a blessing, proof that the whales chose them. Its leading boat-holder, [[being-tikumalu|Tikumalu]], Ice Running, is a great-grandson of [Imlakaklu]{.name data-type="being/npc"}, Whale Diving, the boat-holder of the [Taking]{.name data-type="lore/history"}. He sends two boats east every spring, and the Asking of his men's house dances Imlakaklu's mask.
 
 The descendants of the two children [Kilnaqivi]{.name data-type="being/npc"}, Star Giving Drink, brought back from the east sleep in the other men's house. They do not dance Imlakaklu's mask, and at the Asking their men's house is silent while the other one sings it.
 

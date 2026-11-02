@@ -26,7 +26,7 @@ Below the town, in the narrow valleys to the east, obsidian lies in flows like d
 
 ## The Smith Kin
 
-The smiths, the _kulishbal_, are organized by kin group, and each kin group owns its forges and teaches its own trade to its own children. A kin group that makes blades makes nothing else, and one that works gold for the temples does not touch iron. The secrets of the town's steel, _kul'iqal_, belong to six kin groups, who marry mostly among themselves and do not teach anyone outside them. The largest of the six is led by [Toshel Ne'ok]{.name data-type="being/npc"}, a small, scarred woman with no patience for visitors, whose kin group makes the breastplates of the realm's best warriors.
+The smiths, the _kulishbal_, are organized by kin group, and each kin group owns its forges and teaches its own trade to its own children. A kin group that makes blades makes nothing else, and one that works gold for the temples does not touch iron. The secrets of the town's steel, _kul'iqal_, belong to six kin groups, who marry mostly among themselves and do not teach anyone outside them. The largest of the six is led by [[being-toshelneok|Toshel Ne'ok]], a small, scarred woman with no patience for visitors, whose kin group makes the breastplates of the realm's best warriors.
 
 Rank in Ne' Ki'ahkul follows the forge. A master smith is honored above most highborn in the street, and an apprentice who spoils a blade is set back a year. The town is inward and plain-spoken, and it has less use for the market than [[place-nepaxel|Ne' P'ashel]] downriver. The trains that carry its work to market are loaded by the town's own porters and taken down to the junction, and buyers from outside rarely climb to the forges themselves.
 

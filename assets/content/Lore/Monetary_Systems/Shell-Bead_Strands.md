@@ -22,7 +22,7 @@ A strand (_hamil_) is a cord of beads long enough to reach once around a grown h
 
 Each town's counter (_alpilik_) keeps a measuring cord of a full strand's length. At every midwinter, at the [Holding of the Sun]{.name data-type="lore/gathering"}, the counters bring their cords to [[place-kulaywil|Kulaywil]] to be checked against the [Measure of Kulaywil]{.name data-type="lore/custom"}, the cord of exact length the astronomer-priests keep. A cord found short is cut and retied in front of the gathered chiefs, and every debt in every town is counted in those days.
 
-The best strands come from Shuqwil. Its counter, [Ayulchim]{.name data-type="being/npc"}, cuts and restrings any strand that is short before it leaves her doorway, so mainland traders pay a little more for a Shuqwil strand, and a full-length strand anywhere on the coast is called "an Ayulchim strand".
+The best strands come from Shuqwil. Its counter, [[being-ayulchim|Ayulchim]], cuts and restrings any strand that is short before it leaves her doorway, so mainland traders pay a little more for a Shuqwil strand, and a full-length strand anywhere on the coast is called "an Ayulchim strand".
 
 ## What a Strand Buys
 
@@ -56,7 +56,7 @@ At the [Feast of Strands]{.name data-type="lore/gathering"} a family that fears 
 
 The coast spends beads over the passes in the Oak Valleys, for acorns, seeds, deer meat and baskets, and the valley people take them home and spend them back.
 
-The Cedar People's trading canoes come south each autumn for beads, and their war canoes come in summer for slaves. Every spring the chiefs of the northern coast towns send two canoes of beads up the coast to [[place-lamekis|Lamekis]], the [Northern Strand]{.name data-type="lore/custom"}, and the Bear House there gives them away at its feasts, a strand to each guest in the order of seats. The Cedar war canoes pass the coast towns by. Three times a year the canoe master [Sitiqnush]{.name data-type="being/npc"} takes a cargo of beads north into the Cedar People's waters and buys back captives, at whatever price is asked.
+The Cedar People's trading canoes come south each autumn for beads, and their war canoes come in summer for slaves. Every spring the chiefs of the northern coast towns send two canoes of beads up the coast to [[place-lamekis|Lamekis]], the [Northern Strand]{.name data-type="lore/custom"}, and the Bear House there gives them away at its feasts, a strand to each guest in the order of seats. The Cedar war canoes pass the coast towns by. Three times a year the canoe master [[being-sitiqnush|Sitiqnush]] takes a cargo of beads north into the Cedar People's waters and buys back captives, at whatever price is asked.
 
 The Turquoise People send traders over the mountains each summer for beads and shells, and the few beads that cross the desert pass through their hands first.
 

@@ -59,7 +59,7 @@ sohl: {system: {commonSkills: []}}
 
 The steel of [[place-nekiahkul|Ne' Ki'ahkul]] is gray with a faint ripple in it, like water over stones, and a blade of it bends and comes back where an obsidian edge would shatter. Every warrior of the south who can afford one carries it, and every warrior who cannot wants one. Six kin groups of the town know how it is made, and nobody else does.
 
-The **Steel Kin**, _Kul'iqal Nalash_ in Ki'i'chek, the family of the steel, are those six kin groups: the iron and steel smiths of the town's lower half, who make the blades and breastplates of [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]]'s warriors. The largest of the six is led by [Toshel Ne'ok]{.name data-type="being/npc"}, a small, scarred woman with no patience for visitors, whose kin group makes the breastplates of the realm's best warriors and who speaks for all six.
+The **Steel Kin**, _Kul'iqal Nalash_ in Ki'i'chek, the family of the steel, are those six kin groups: the iron and steel smiths of the town's lower half, who make the blades and breastplates of [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]]'s warriors. The largest of the six is led by [[being-toshelneok|Toshel Ne'ok]], a small, scarred woman with no patience for visitors, whose kin group makes the breastplates of the realm's best warriors and who speaks for all six.
 
 ## Membership
 

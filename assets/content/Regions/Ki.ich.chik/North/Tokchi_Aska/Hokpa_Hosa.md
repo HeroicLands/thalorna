@@ -41,7 +41,7 @@ Hokpa Hosa lives on trade with a people it is at war with, and its households ar
 
 :::secret {title="Raiding under the pipe"}
 
-The Maple People accuse the One Fire of raiding Ha'nal Shi'lan under cover of pipe kinship, and in Hokpa Hosa the charge is true. Liyahi's war parties go up the valleys while their pipe kinship still runs, on the orders of the Falcon Chief, [Naksochi]{.name data-type="being/npc"}, who wants a war with the Maple People before the Great Sun dies. A war would bring captives for the funeral the Keepers want and a victory for the man who hopes the Sun Mother names him heir. Liyahi has worked out that a war would also close his landing, and he has not decided which of the two to betray.
+The Maple People accuse the One Fire of raiding Ha'nal Shi'lan under cover of pipe kinship, and in Hokpa Hosa the charge is true. Liyahi's war parties go up the valleys while their pipe kinship still runs, on the orders of the Falcon Chief, [[being-naksochi|Naksochi]], who wants a war with the Maple People before the Great Sun dies. A war would bring captives for the funeral the Keepers want and a victory for the man who hopes the Sun Mother names him heir. Liyahi has worked out that a war would also close his landing, and he has not decided which of the two to betray.
 
 :::
 

@@ -64,7 +64,7 @@ The **Bear House**, the _lamekanuk_, is the noble house of Lamekis, the southern
 
 ## Membership
 
-The house holds its chief and his kin, its nobles with their names and seats, its commoners and its slaves, as every house does, and its branches fill the double row behind the great house. The chief is [Yaldukita]{.name data-type="being/npc"}, Gives Wealth, the third of his house to hold its highest name and the first to make it matter. His Keeper of the Count is his mother's sister, [Tsamalkalu]{.name data-type="being/npc"}, Counts the Salmon, who has kept the house's count for thirty years and has never been wrong in public.
+The house holds its chief and his kin, its nobles with their names and seats, its commoners and its slaves, as every house does, and its branches fill the double row behind the great house. The chief is [[being-yaldukita|Yaldukita]], Gives Wealth, the third of his house to hold its highest name and the first to make it matter. His Keeper of the Count is his mother's sister, [Tsamalkalu]{.name data-type="being/npc"}, Counts the Salmon, who has kept the house's count for thirty years and has never been wrong in public.
 
 ## Standing
 
@@ -76,9 +76,9 @@ The coast is divided about the house. The northern houses say that beads paid to
 
 **The Eagle House.** The house that sits first has answered every challenge for four generations of chiefs, and it has not answered this one yet.
 
-**The Shell-Bead towns.** They pay the Strand, and they buy back the captives the Bear House's canoes take from the valleys behind them. The canoe master [Sitiqnush]{.name data-type="being/npc"} of the [[affiliation-canoekin|Canoe Kin]] comes north three times a year to buy them back, pays exactly and never argues, and the Bear House treats him as an honored guest and sells to him at its own price.
+**The Shell-Bead towns.** They pay the Strand, and they buy back the captives the Bear House's canoes take from the valleys behind them. The canoe master [[being-sitiqnush|Sitiqnush]] of the [[affiliation-canoekin|Canoe Kin]] comes north three times a year to buy them back, pays exactly and never argues, and the Bear House treats him as an honored guest and sells to him at its own price.
 
-**The northern houses.** The houses of the inlets hold that a gift made of another people's fear is no gift, and the Keeper of the Count of the Orca House, [Kalunukwas]{.name data-type="being/npc"}, has said that she will count what is given at the feast and nothing about where it came from.
+**The northern houses.** The houses of the inlets hold that a gift made of another people's fear is no gift, and the Keeper of the Count of the Orca House, [[being-kalunukwas|Kalunukwas]], has said that she will count what is given at the feast and nothing about where it came from.
 
 ## What a Party Can Ask of It
 

@@ -37,7 +37,7 @@ The Copper People hold that the copper belongs to the [Great Sturgeon]{.name dat
 
 Inside the palisade stand thirty longhouses with the clan animals over their doors, and a council house where the Copper People's council sits. The fields are poor, on thin soil between the rocks, and the village buys most of its maize from the Birch People with copper. The canoe beach is the busiest place in the village from the thaw to the freeze: canoes come in from every nation of the Grove to trade for copper, and leave with it for the Falls Country and beyond.
 
-The village's speaker on the great council is [Tsikenhakahtiron]{.name data-type="being/npc"}, Holds Copper, of the Otter clan, a smith himself and the best maker of throat plates in the Grove. Half the speakers at the Kettle wear his work.
+The village's speaker on the great council is [[being-tsikenhakahtiron|Tsikenhakahtiron]], Holds Copper, of the Otter clan, a smith himself and the best maker of throat plates in the Grove. Half the speakers at the Kettle wear his work.
 
 ## What the Village Argues About
 

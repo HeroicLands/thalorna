@@ -52,7 +52,7 @@ Shelem quarrels with the north over who buys at the forest's edge. [[affiliation
 ## Hooks
 
 - **Past the landings.** A Ch'eshmah of the merchant guild of Ish'ilankul has brought a caravan to Ts'alukul and means to take it upriver past the landings, to buy feathers where the forest traders come in. He hires a party to find canoe-men who will paddle for him and forest traders who will sell to him, and the families of the town are watching whom he hires.
-- **The cheaper feathers.** [Ch'akul Ne' Shelem]{.name data-type="being/npc"}, speaker of Ts'alukul, has heard that feathers of the river are being sold in [[place-tsamash|Tsa'mash]] below every landing's price. He asks a party to go north and learn whose feathers they are, and his rival on the council, [Nelush Puq'em]{.name data-type="being/npc"}, would pay well to know that he has asked.
+- **The cheaper feathers.** [[being-chakulneshlm|Ch'akul Ne' Shelem]], speaker of Ts'alukul, has heard that feathers of the river are being sold in [[place-tsamash|Tsa'mash]] below every landing's price. He asks a party to go north and learn whose feathers they are, and his rival on the council, [[being-nelushpuqem|Nelush Puq'em]], would pay well to know that he has asked.
 - **The tired runner.** A Reader of the Cords at [[place-kultaqan|Kul'taq'an]] has noticed that cords about prices reach the river towns half a day later than they should. He asks a party to travel the river route beside the Speaking Road's runners and time every stage.
 
 ## See Also
