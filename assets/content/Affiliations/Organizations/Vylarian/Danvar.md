@@ -92,7 +92,7 @@ The largest chapterhouses stand at Orzara, Ólvestra, Bizaria, [[place-aelissium
 
 The Council of the Danvori is the guild's standing body. It meets quarterly at Orzara and consists of the senior partners of the great houses plus a small number of elected representatives from the lesser houses. It decides guild policy on admission standards, member discipline, chapter operations and the guild's relations with the Tarmeks Orzan and the Tevran Maldor.
 
-The Council elects the Danvor Maldor for a ten-year term, renewable once. The present Danvor Maldor is [Lucia Calventiana]{.name data-type="being/npc"}, senior partner of the House of Calventian, in her eighth year and presumed eligible for one renewal. Lucia is regarded as one of the most politically capable Danvori Maldor in the guild's history. Her tenure has steadied the guild through the decade since the Taruzelian secession, and she is credited with winning several substantial concessions from the Tarmeks Orzan's leadership.
+The Council elects the Danvor Maldor for a ten-year term, renewable once. The present Danvor Maldor is [Thelmara Calventiana]{.name data-type="being/npc"}, senior partner of the House of Calventian, in her eighth year and presumed eligible for one renewal. Thelmara is regarded as one of the most politically capable Danvori Maldor in the guild's history. Her tenure has steadied the guild through the decade since the Taruzelian secession, and she is credited with winning several substantial concessions from the Tarmeks Orzan's leadership.
 
 Twelve _rozimoi_ of the Danvar report to the Council. They conduct admission examinations, audit member houses' books, investigate complaints and prosecute disciplinary matters before the Council. Their authority within the guild is substantial: a _rozimos_'s adverse finding takes a two-thirds Council vote to override, and overrides are rare. They are distinct from the [[affiliation-tevran|Rozimoi of the Tevran]], who audit guild charter compliance across all trades, this one included, and from the [[affiliation-tarmex|Rozimoi of the Tarmeks]], who audit the imperial treasury's accounts.
 
@@ -111,10 +111,10 @@ By frequency, the most common sanction is a **temporary suspension of clearing r
 ## Notable Houses and Officers
 
 House of Calventian
-: the largest of the great houses, founded in Orzara three centuries ago to bank the rebuilding of the Restoration ([[lore-arzanasedict|The Edicts of Arzanas]]) and led by the Calventiani family across nine generations. Its senior partner is Danvor Maldor Lucia Calventiana, the guild's chief officer.
+: the largest of the great houses, founded in Orzara three centuries ago to bank the rebuilding of the Restoration ([[lore-arzanasedict|The Edicts of Arzanas]]) and led by the Calventiani family across nine generations. Its senior partner is Danvor Maldor Thelmara Calventiana, the guild's chief officer.
 
 House of Maximian Tertian
-: the second-largest great house, of Helionite-Vylarian origin and politically aligned with the [Reformist Faction]{.name data-type="affiliation"} at court. [Septimus Maximian Tertian]{.name data-type="being/npc"} leads it.
+: the second-largest great house, of Helionite-Vylarian origin and politically aligned with the [Reformist Faction]{.name data-type="affiliation"} at court. [Orthelis Maximian Tertian]{.name data-type="being/npc"} leads it.
 
 House of Verrius
 : Vylarian and conservative, with strong ties to the _ethlen_ (Gilded) estate and, historically, to the Dukran's office.
@@ -123,10 +123,10 @@ House of Therion
 : of Helionite origin and now continent-spanning, the principal Helionite great house, which specializes in cross-territory clearing.
 
 House of Aldovardian
-: Tarvénian, and unusual as a great house of Aureldian rather than Vylarian-Helionite origin. It won its position by aggressive expansion in the late post-imperial settlement, and **Danvor [Marcus Aldovardian]{.name data-type="being/npc"}** leads it, regarded by his Vylarian peers with formal correctness and informal suspicion.
+: Tarvénian, and unusual as a great house of Aureldian rather than Vylarian-Helionite origin. It won its position by aggressive expansion in the late post-imperial settlement, and **Danvor [Halvaren Aldovardian]{.name data-type="being/npc"}** leads it, regarded by his Vylarian peers with formal correctness and informal suspicion.
 
-Septimus Maximian Tertian
-: senior partner of his house, widely seen as the most politically capable Danvor of his generation after Lucia Calventiana and a likely successor when her tenure ends.
+Orthelis Maximian Tertian
+: senior partner of his house, widely seen as the most politically capable Danvor of his generation after Thelmara Calventiana and a likely successor when her tenure ends.
 
 ## Relations
 

@@ -611,6 +611,11 @@ data:
       field: Derived words
       gloss: "a man's name: eagle-sword; a hired hand at the price-tower"
       built: [kesuk, kenod]
+    - form: Juchonkelod
+      class: name
+      field: Derived words
+      gloss: "the moot well: the Koserur's central well and gathering place"
+      built: [juchon, kelod]
     - form: "bodva"
       class: "n"
       field: "The moot, the feud and the raid"

@@ -3,7 +3,7 @@ shortcode: vedyarlng
 name: {full: Vedyari Language}
 type: skill
 subType: language
-description: "The language of the Vedyara city-states—a family in its own right, whose Classical register stands apart from every spoken vernacular."
+description: "The language of the Vedyara Region—a family in its own right, whose Classical register stands apart from every spoken vernacular."
 tags: []
 data:
   roman: "abcdefghijklmnoprstuvyáéíóúë0123456789-'"
@@ -8418,9 +8418,9 @@ Vedyari is a tongue of the Vedyari (isolate) family. Fluency measures the sophis
 
 ## Overview
 
-Vedyari is the primary tongue of the city-states of [[place-vedyarargn|Vedyara Region]]. It is a language of considerable antiquity, and it has parted across the centuries into a classical and a vernacular form. Classical Vedyari serves the sacred texts, the legal documents and the formal ceremonies, and differs markedly from the spoken dialects of common discourse. It is a weighty and complex tongue, and the civilization that speaks it prizes precision, ritual and philosophical inquiry.
+Vedyari is the primary tongue of the [[place-vedyarargn|Vedyara Region]]. It is a language of considerable antiquity, and it has parted across the centuries into a classical and a vernacular form. Classical Vedyari serves the sacred texts, the legal documents and the formal ceremonies, and differs markedly from the spoken dialects of common discourse. It is a weighty and complex tongue, and the civilization that speaks it prizes precision, ritual and philosophical inquiry.
 
-Vedyari speakers are found throughout the city-states and in trading communities across the eastern world. The language has proven remarkably durable, maintaining grammatical coherence even as phonological shifts have created regional variation.
+Vedyari speakers are found throughout Vedyara and in trading communities across the eastern world. The language has proven remarkably durable, maintaining grammatical coherence even as phonological shifts have created regional variation.
 
 ## How Vedyari sounds
 
@@ -8598,7 +8598,7 @@ Worthlessness is expressed as _shon orgha ro_, “of zero worth”: _ehu shon or
 
 **Common Cursive:** A more flowing, connected variant has developed for administrative and mercantile use, reducing the syllabic inventory to roughly 36 core forms with additional ligatures.
 
-**Literacy:** Formal education in Classical Vedyari is the province of the priesthood, professional scribes, and about one noble in six. Even in the wealthiest city-states, the general population is overwhelmingly non-literate; merchants and guildsmen possess functional literacy at best—enough to recognize trade marks and numerals—and rely on scribes for contracts and record-keeping. In hinterland regions, literacy is virtually nonexistent outside the local temple. The mercantile caste has driven adoption of simplified script variants, but these are used by hired scribes rather than merchants themselves.
+**Literacy:** Formal education in Classical Vedyari is the province of the priesthood, professional scribes, and about one noble in six. Even in the wealthiest cities, the general population is overwhelmingly non-literate; merchants and guildsmen possess functional literacy at best—enough to recognize trade marks and numerals—and rely on scribes for contracts and record-keeping. In hinterland regions, literacy is virtually nonexistent outside the local temple. The mercantile caste has driven adoption of simplified script variants, but these are used by hired scribes rather than merchants themselves.
 
 ## Historical Development
 
@@ -8615,7 +8615,7 @@ The standardization of Classical Vedyari occurred roughly 1,200 years before the
 Since [[lore-stndrdmdstn|the Standardization at Madustan]], gradual sound changes have created divergence:
 
 Lenition of intervocalic stops
-: p, t and k soften between vowels in some dialects (more pronounced in southern city-states)
+: p, t and k soften between vowels in some dialects (more pronounced in the southern cities)
 
 Nasalization of vowels before nasals
 : Incipient; most evident in rapid speech
@@ -8672,7 +8672,7 @@ Khelathi
 : Limited mutual intelligibility; some lexical similarities in trade vocabulary, possibly mediated through intermediary contact
 
 Minor Trade Linguas
-: Vedyari speakers have influenced and been influenced by simplified pidgins used in maritime commerce, particularly in the harbors of southern city-states
+: Vedyari speakers have influenced and been influenced by simplified pidgins used in maritime commerce, particularly in the harbors of the southern cities
 
 ## Naming Traditions
 

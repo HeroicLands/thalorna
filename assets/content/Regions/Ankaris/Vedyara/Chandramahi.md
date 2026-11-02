@@ -3,7 +3,7 @@ shortcode: chandrmahi
 name: {full: The Chandramahi}
 type: place
 subType: feature
-description: "The westernmost of the four great rivers—from the ice under Suryashikhar through the gem-road valleys to the delta and the city-state that lives off it."
+description: "The westernmost of the four great rivers—from the ice under Suryashikhar through the gem-road valleys to the delta and Chendrapur, the city-state that lives off it."
 tags: [river, trading, inland]
 data: {demonym: null, lore: [], parents: [vedyarargn], population: null, packFolder: vedyara}
 ---

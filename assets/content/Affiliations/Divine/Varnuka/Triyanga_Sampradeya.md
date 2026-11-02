@@ -3,7 +3,7 @@ shortcode: triyangasampradeya
 name: {full: Tradition of the Three Forms, en: [Triyanga Tradition], vedy: [triyanga-sampradeya]}
 type: affiliation
 subType: faithtradition
-description: "Orthodox, foundational religion of most Vedyaran city-states, balanced veneration of the cosmic triad."
+description: "Orthodox, foundational religion of most of Vedyara, balanced veneration of the cosmic triad."
 tags: [varnuka, faith, sect, orthodox]
 data:
   banner: faithbnr
@@ -85,7 +85,7 @@ Deities Venerated
 : [[affiliation-vyalendra|Vyalendra]], [[affiliation-mahajaya|Mahajaya]], [[affiliation-rasikara|Rasikara]]—as three faces of a single cosmic truth; lesser gods observed as occasion requires
 
 Emphasis
-: Orthodox, balanced veneration of the cosmic triad; civic religion; the foundational tradition of most Vedyaran city-states
+: Orthodox, balanced veneration of the cosmic triad; civic religion; the foundational tradition of most of Vedyara
 
 Pronunciation
 : _Tri-MOOR-tee sum-pra-DAH-yah_
@@ -147,4 +147,4 @@ That single rule is why Vedyara looks, to an outsider, as though its priests hol
 
 ### Geographic Presence
 
-The Triyanga-sampradeya is the dominant school throughout the city-states of Vedyara and along the major river-valleys. It is less influential in the uplands and in the more remote villages, where older folk traditions and minor sects persist. Its greatest temples stand at the capitals of the large city-states, where the school is inseparable from civic authority.
+The Triyanga-sampradeya is the dominant school throughout Vedyara and along the major river-valleys. It is less influential in the uplands and in the more remote villages, where older folk traditions and minor sects persist. Its greatest temples stand at the capitals of its large kingdoms and cities, where the school is inseparable from civic authority.

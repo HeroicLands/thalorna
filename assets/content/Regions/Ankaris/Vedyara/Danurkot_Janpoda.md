@@ -119,7 +119,7 @@ Shrines to the other Varnuka gods stand throughout the villages. [[place-vyalsrc
 
 ## Economy
 
-The janpoda is moderately wealthy by janpoda standards and not rich by a city-state's. Most of its wealth is held by the temple and the Sentija lineages, and the cultivating villages live as well as any in inland Vedyara and no better.
+The janpoda is moderately wealthy by janpoda standards and not rich by a city's. Most of its wealth is held by the temple and the Sentija lineages, and the cultivating villages live as well as any in inland Vedyara and no better.
 
 ## Defense
 
@@ -129,7 +129,7 @@ Danurkot has not been seriously threatened in three centuries. Its reputation is
 
 ## Relations
 
-Danurkot keeps formal patron-client relations with three neighboring kingdoms, small mountain kingdoms whose names change as their dynasties rise and fall. It keeps informal supplier relations with most of the major Vedyari city-states, [[affiliation-chendrapur|Chendrapur]] and the inland branches of the great coastal merchant houses among them. Its closest tie is to [[affiliation-vyalendra2|Vyalendra]], which has taken a Danurkot graduate as commander of its city watch for as long as anyone can remember; the two keep up a continuous correspondence on military and commercial matters.
+Danurkot keeps formal patron-client relations with three neighboring kingdoms, small mountain kingdoms whose names change as their dynasties rise and fall. It keeps informal supplier relations with most of the major Vedyari cities, [[affiliation-chendrapur|Chendrapur]] and the inland branches of the great coastal merchant houses among them. Its closest tie is to [[affiliation-vyalendra2|Vyalendra]], which has taken a Danurkot graduate as commander of its city watch for as long as anyone can remember; the two keep up a continuous correspondence on military and commercial matters.
 
 Within the [[affiliation-janpdsvdyr|Mahva-Sangra]], Danurkot's standing is high. The senior priest of the Mahajaya temple is one of the senior voices at every Mahva-Melka, and the four academy masters are routinely consulted on military questions between janpodas.
 

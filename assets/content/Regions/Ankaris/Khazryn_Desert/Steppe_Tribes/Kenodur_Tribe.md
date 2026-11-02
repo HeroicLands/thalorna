@@ -76,7 +76,7 @@ The dovaq is [Kharulun Kenodur]{.name data-type="being/npc"}, a woman past sixty
 
 ## The Price
 
-The Kenodur's demand on the Koserur is fifty horses, a share of the Koserur's central well at [Shir-Van]{.name data-type="place/site"} and permanent grazing on the southern steppe, in return for eight people taken from a southern graze. The Koserur dovaq has refused. The Kenodur are in no hurry: each season the captives spend in a Kenodur camp makes them more Kenodur, and a price the Koserur cannot pay today only rises as they have less left to lose.
+The Kenodur's demand on the Koserur is fifty horses, a share of the Koserur's central well at [Juchonkelod]{.name data-type="place/site"} and permanent grazing on the southern steppe, in return for eight people taken from a southern graze. The Koserur dovaq has refused. The Kenodur are in no hurry: each season the captives spend in a Kenodur camp makes them more Kenodur, and a price the Koserur cannot pay today only rises as they have less left to lose.
 
 ## The Marriage Offer
 

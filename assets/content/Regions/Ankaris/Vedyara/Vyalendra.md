@@ -104,7 +104,7 @@ Vyalendra keeps no deep-water hulls. The cloth goes down the river road to [[pla
 
 ## Commerce and Currency
 
-Vyalendra holds a seat in the [[affiliation-assmblycmpct|Assembly of the Compact]], which sits here each autumn, and strikes its own copper [[miscgear-tomra|tomra]] as every city-state does. A [[affiliation-mrchntclctvvdyr|Collective grade-mark]] on a bolt of its silk carries across every seat of the Compact, and the larger sales settle by the Merchant Collective's letters of credit. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|the Merchant Collective of Vedyara]] for the institution.
+Vyalendra holds a seat in the [[affiliation-assmblycmpct|Assembly of the Compact]], which sits here each autumn, and strikes its own copper [[miscgear-tomra|tomra]] as the kingdoms and Chendrapur do. A [[affiliation-mrchntclctvvdyr|Collective grade-mark]] on a bolt of its silk carries across every seat of the Compact, and the larger sales settle by the Merchant Collective's letters of credit. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|the Merchant Collective of Vedyara]] for the institution.
 
 ## Outside the Ladder
 

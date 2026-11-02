@@ -3,7 +3,7 @@ shortcode: vdyrnbnkng
 name: {full: Vedyaran Banking, en: [Vedyaran Currency, Vedyaran Monetary System]}
 type: lore
 subType: economy
-description: "The Vedyaran monetary system—the Merchant Collective's internal credit and clearing arrangements, and the three coins struck against them: Chendrapur's gold suvorna and silver chendra, which carry their metal, and the copper tomra the kingdoms and city-states strike as token money."
+description: "The Vedyaran monetary system—the Merchant Collective's internal credit and clearing arrangements, and the three coins struck against them: Chendrapur's gold suvorna and silver chendra, which carry their metal, and the copper tomra the kingdoms, Chendrapur and Vyalendra strike as token money."
 tags: [reference, currency, vedyara, economy]
 data: {culture: vedyariclt}
 ---
@@ -14,9 +14,9 @@ A counting-house clerk of [[affiliation-mrchntclctvvdyr|the Merchant Collective]
 
 The Vedyaran banking system is the money and credit the Collective runs across the five seats of the [[affiliation-assmblycmpct|Assembly of the Compact]]. It stands apart from the Vylarian treasury, [[affiliation-tarmex|the Tarmeks Orzan]], and the Khelathi [[affiliation-garhalzi|Gar-Hálzi]] alike. Both have asked the Collective for formal correspondent recognition, the Collective has declined them for generations, and it keeps its own system self-contained.
 
-- **Paper.** The Collective is the principal banking institution of Vedyaran commerce as well as the federation of its great hereditary trading families, the _kulinas_. Its letter of credit sits above the coined system: a house that trusts another house's paper moves value between janpodas and city-states without moving coin at all.
+- **Paper.** The Collective is the principal banking institution of Vedyaran commerce as well as the federation of its great hereditary trading families, the _kulinas_. Its letter of credit sits above the coined system: a house that trusts another house's paper moves value between janpodas and cities without moving coin at all.
 - **The five seats.** [[affiliation-chendrapur|Chendrapur]], [[affiliation-vyalendra2|Vyalendra]], [[affiliation-shikhalaya|Shikhalaya]] through its capital, [[affiliation-rajeprjnpd|Rajepur Janpoda]] and [[affiliation-dnrktjnpd|Danurkot Janpoda]] share the system, and the Collective's standing above any one realm gives the banking infrastructure the whole subcontinent for its range. [[affiliation-suvrgrjnpd|Suvargeri]] keeps its own weighing and its own treasury and holds no seat.
-- **Who strikes coin.** Kingdoms and city-states strike coin and the janpodas do not. Chendrapur alone strikes the gold and the silver, and every kingdom and city-state strikes its own copper. A janpoda's commerce runs on the tomra of its neighbors' markets and on Chendrapur's silver, cleared through the Collective and not minted locally.
+- **Who strikes coin.** Kingdoms, Chendrapur and Vyalendra strike coin and the janpodas do not. Chendrapur alone strikes the gold and the silver, and every kingdom, Chendrapur and Vyalendra strikes its own copper. A janpoda's commerce runs on the tomra of its neighbors' markets and on Chendrapur's silver, cleared through the Collective and not minted locally.
 
 ## The Three Coins
 
@@ -26,7 +26,7 @@ The clerk draws the table on a slate and has the factor copy it before saying an
 | ----------------------------- | ------ | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- |
 | [[miscgear-suvorna\|Suvorna]] | Gold   | [[affiliation-chendrapur\|Chendrapur]], from Suvargeri gold bought at the **Weighing**                                  | Land, dowries, tribute, the largest commercial settlements | 16 chendra |
 | [[miscgear-chendra\|Chendra]] | Silver | The [[place-moonhouse                                                                    \| Moon House]], at Chendrapur | Ordinary formal commerce—contracts, tolls, rents           | 8 tomra    |
-| [[miscgear-tomra\|Tomra]]     | Copper | Every kingdom and city-state, independently                                                                             | Everyday trade—bread, wages, market change                 | 1 tomra    |
+| [[miscgear-tomra\|Tomra]]     | Copper | Every kingdom, Chendrapur and Vyalendra, independently                                                                  | Everyday trade—bread, wages, market change                 | 1 tomra    |
 
 A suvorna is therefore worth 128 tomra. The suvorna and the chendra carry their metal, so either is assayed and exchanged for its gold or silver wherever it goes, and the metal comes to its face: by its metal a suvorna is four-fifths of a Vylarian Solden and a chendra eight Ardin. The tomra does not leave the realm that struck it at face value. A Shikhalaya tomra pays Shikhalaya's taxes and temple offerings and is redeemed at Shikhalaya's treasury; in Chendrapur it is a scrap of copper.
 

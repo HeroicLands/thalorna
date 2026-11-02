@@ -5,7 +5,7 @@ name:
   en: [Mahva-Sangra of Vedyara, The Temple-Republics of Vedyara, The Vedyari Janpodas]
 type: affiliation
 subType: polity
-description: The loose cultural-political confederation of Vedyara's village-cluster temple-republics—the small janpodas that, together with the great city-states, make up the bulk of Vedyari political life. No central authority; coordination through the great pilgrimage festivals and the shared Varnuka tradition.
+description: The loose cultural-political confederation of Vedyara's village-cluster temple-republics—the small janpodas that, together with the kingdoms, Chendrapur and Vyalendra, make up the bulk of Vedyari political life. No central authority; coordination through the great pilgrimage festivals and the shared Varnuka tradition.
 tags: []
 data:
   culture: vedyariclt
@@ -69,7 +69,7 @@ sohl: {system: {commonSkills: [vedyarlng]}}
 # terran_analog: "Medieval South Indian sabha/ur temple-republics—Chola-era brahmadeya village federations governed by temple-anchored assemblies, loosely confederated through pilgrimage networks and shared classical tradition rather than through any centralized political authority"
 ---
 
-The **Janpodas of Vedyara** are some six thousand small temple-republics, each a handful of villages governing itself from the hall of one temple, and the **Mahva-Sangra** (Great Council) is what they have instead of a state. It convenes once in twelve years, on a plain that is empty the rest of the time, and does not govern. The janpodas hold most of the [[place-vedyarargn|Vedyara Region]]'s people and most of its political life, alongside the great city-states of the coast and the river and the pass-kingdom of [[affiliation-shikhalaya|Shikhalaya]]. The name belongs to the whole class and to no one polity in it.
+The **Janpodas of Vedyara** are some six thousand small temple-republics, each a handful of villages governing itself from the hall of one temple, and the **Mahva-Sangra** (Great Council) is what they have instead of a state. It convenes once in twelve years, on a plain that is empty the rest of the time, and does not govern. The janpodas hold most of the [[place-vedyarargn|Vedyara Region]]'s people and most of its political life, alongside the city-states of [[affiliation-chendrapur|Chendrapur]] and [[affiliation-vyalendra2|Vyalendra]] and the pass-kingdom of [[affiliation-shikhalaya|Shikhalaya]]. The name belongs to the whole class and to no one polity in it.
 
 A traveling merchant from the [[place-provenzrgn|Provenzia Region]] passing through Vedyara meets a man who calls himself a citizen of the [[affiliation-suvrgrjnpd|Suvargeri Janpoda]], another who calls himself a citizen of the [[affiliation-dnrktjnpd|Danurkot Janpoda]], and a third who calls himself simply a [[lore-vedyariclt|Vedyari]]. All three are correct. The Mahva-Sangra is what lets the third answer mean something while the first two are in dispute over a water-channel.
 
@@ -95,7 +95,7 @@ The Mahva-Sangra is the coordination between janpodas, and it is not a governmen
 
 It convenes at the great pilgrimage festivals, at the seasonal markets that draw delegations from many janpodas, and above all at the **Mahva-Melka**, the twelve-yearly festival held on [[place-melkaground|the Melka Ground]], where [[place-mahanodi|the Mahanodi]] takes its greatest tributary in central Vedyara. The Melka draws a quarter of a million pilgrims, with the senior priests and elders of every janpoda that can spare a delegation. It runs for forty days: the first thirty are the religious observances, and the last ten are the business of the confederation.
 
-Seats at the Melka are counted by **river-circuit**. Every janpoda belongs to the circuit of the water it drinks: [[place-chandrmahi|the Chandramahi]], [[place-sarvedarivr|the Sarveda]], the Mahanodi, [[place-bharavarivr|the Bharava]], or the coast for those that drink from none of the four. A circuit speaks through its **Circuit-Speaker**, chosen for the gathering, so a janpoda's neighbors on the roll are the ones upstream and downstream of it and not the ones over the ridge. The kingdoms and city-states that hold a seat hold it in their own right and belong to no circuit.
+Seats at the Melka are counted by **river-circuit**. Every janpoda belongs to the circuit of the water it drinks: [[place-chandrmahi|the Chandramahi]], [[place-sarvedarivr|the Sarveda]], the Mahanodi, [[place-bharavarivr|the Bharava]], or the coast for those that drink from none of the four. A circuit speaks through its **Circuit-Speaker**, chosen for the gathering, so a janpoda's neighbors on the roll are the ones upstream and downstream of it and not the ones over the ridge. The kingdoms, Chendrapur and Vyalendra hold their seats in their own right and belong to no circuit.
 
 Those ten days settle the next twelve years, in open consultation between delegations:
 
@@ -111,23 +111,23 @@ The Dutsa's warning to a foreigner with business at a Melka is about the calenda
 
 ## The City-States and the Kingdoms
 
-The great city-states of Vedyara are not janpodas, and neither are the kingdoms. [[affiliation-chendrapur|Chendrapur]], [[affiliation-vyalendra2|Vyalendra]] and the others stand on the coast and the river; [[affiliation-shikhalaya|Shikhalaya]] in the passes is the nearest kingdom at hand. A city-state governs through a council of merchant houses and temple patrons, with or without a king at the head of it. A kingdom governs through a Maharava, a martial council of clan-chieftains and a priestly court. Both keep their own foreign policies, their own standing forces and their own seats at the Melka. They are the senior political units of Vedyara, and each is larger and more powerful than any individual janpoda.
+The city-states of Vedyara, [[affiliation-chendrapur|Chendrapur]] and [[affiliation-vyalendra2|Vyalendra]], are not janpodas, and neither are the kingdoms. The two stand on the coast and the river; [[affiliation-shikhalaya|Shikhalaya]] in the passes is the nearest kingdom at hand. Each city-state governs through a council of merchant houses and temple patrons, with or without a king at the head of it. A kingdom governs through a Maharava, a martial council of clan-chieftains and a priestly court. Both keep their own foreign policies, their own standing forces and their own seats at the Melka. They are the senior political units of Vedyara, and each is larger and more powerful than any individual janpoda.
 
-The janpodas outnumber them by hundreds to one, and the two live together on terms of mutual need. The city-states need the janpodas for their hinterlands, their grain, their pilgrimage networks and their skilled artisans. The janpodas need the city-states for their markets, their trade with the wider world and their occasional military protection. Conflict is rare, and when it comes it comes over water, a mineral or a particular stretch of fertile field.
+The janpodas outnumber them by hundreds to one, and the two live together on terms of mutual need. The city-states and the kingdoms need the janpodas for their hinterlands, their grain, their pilgrimage networks and their skilled artisans. The janpodas need them for their markets, their trade with the wider world and their occasional military protection. Conflict is rare, and when it comes it comes over water, a mineral or a particular stretch of fertile field.
 
-A city-state often keeps informal patron-client relations with a number of nearby janpodas, giving military protection for grain quotas or labor levies. Each is negotiated on its own and none is formalized as suzerainty, and the janpodas remain self-governing in their internal affairs.
+Chendrapur and Vyalendra often keep informal patron-client relations with a number of nearby janpodas, giving military protection for grain quotas or labor levies. Each is negotiated on its own and none is formalized as suzerainty, and the janpodas remain self-governing in their internal affairs.
 
 ## Defense
 
 The Janpodas of Vedyara keep no central army. Each janpoda raises its own militia from its villages at need, the **Sentija** households providing a core of trained fighters and the **Karmija** households the numbers. Most janpodas field a few hundred men on short notice and a few thousand on a longer call-up. That is enough for banditry, for a raid out of a neighboring kingdom in dispute, and for keeping order at home. It is not enough for a campaign or a major invasion.
 
-The answer to a serious threat is the patron-client relationship with a nearby city-state, or inland with a regional kingdom. The janpoda sends grain, labor and sometimes auxiliary troops; the patron sends the protection of its standing forces.
+The answer to a serious threat is the patron-client relationship with a nearby city-state such as Chendrapur, or inland with a regional kingdom. The janpoda sends grain, labor and sometimes auxiliary troops; the patron sends the protection of its standing forces.
 
 The Mahva-Sangra has raised something like a confederation army three times in recorded Vedyari history. The most recent was four hundred years ago, in the generation a steppe host overran the western march ([[lore-hndrdbnnrs|The Storm of the Hundred Banners]]), against an adventurer with Tantsou backing who brought a few hundred men through the conch-door into the eastern janpodas, subjugated a series of them and threatened more. That was [[lore-conchdoor|the Conch-Door Incursion]]. The senior priests of the region called on every janpoda within reach to send its militia, and the army put him back out through the door he had come in by. It dissolved as soon as the threat ended. What stayed behind is [[place-sangrafort|the Sangra-fort]] on the col of [[place-shankhadvr|Shankhadvar]], the only standing garrison the confederation keeps anywhere, manned in rotation by the janpodas of the Bharava circuit. The priests are jealous of that precedent and invoke it rarely, and Shikhalaya reads the fort as ground held by a body with no business holding any.
 
 ## Population and Geography
 
-The janpodas hold the overwhelming mass of Vedyara's people: on the order of **eighty-four million** across **six thousand** temple-republics, some fourteen thousand to a janpoda. That reckoning is the roll's, kept at Sangema, and everyone who quotes it quotes the temple. The janpodas fill the bulk of inland Vedyara: the river valleys, the highland plateaus, the inland forests, and the smaller coastal stretches between the great city-states.
+The janpodas hold the overwhelming mass of Vedyara's people: on the order of **eighty-four million** across **six thousand** temple-republics, some fourteen thousand to a janpoda. That reckoning is the roll's, kept at Sangema, and everyone who quotes it quotes the temple. The janpodas fill the bulk of inland Vedyara: the river valleys, the highland plateaus, the inland forests, and the smaller coastal stretches between the great cities.
 
 ## Famous Figures
 
@@ -163,7 +163,7 @@ A person placed outside the tarona, by transgression or by birth, is excluded fr
 : the religious tradition that holds the janpodas together
 
 [[affiliation-chendrapur|Chendrapur]], [[affiliation-vyalendra2|Vyalendra]], [[affiliation-shikhalaya|Shikhalaya]]
-: the great city-states and the pass-kingdom
+: the two city-states and the pass-kingdom
 
 [[affiliation-dnrktjnpd|Danurkot Janpoda]], [[affiliation-rajeprjnpd|Rajepur Janpoda]], [[affiliation-suvrgrjnpd|Suvargeri Janpoda]]
 : three particular janpodas

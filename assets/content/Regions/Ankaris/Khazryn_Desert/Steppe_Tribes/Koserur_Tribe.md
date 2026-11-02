@@ -62,15 +62,15 @@ The **Koserur** are a [[lore-sowidesclt|Sovidur]] tribe of perhaps three hundred
 
 ## The Wells
 
-[Karanat]{.name data-type="place/site"} is the northern well, [Shir-Van]{.name data-type="place/site"} the central one and the tribe's gathering place, and [Dubzar]{.name data-type="place/site"} the eastern one, nearest the [[affiliation-qbdrtrb|Qibudur]]. A fourth camp, [Zamir-Kar]{.name data-type="place/site"}, follows the seasonal water and stands empty when the water fails, as it has since the drought. In a dry year the Koserur pack their herds around the three wells, and a raider knows where to look. In a wet year they spread along the circuit and the tribe is hard to find.
+[Karanat]{.name data-type="place/site"} is the northern well, [Juchonkelod]{.name data-type="place/site"} the central one and the tribe's gathering place, and [Dubzar]{.name data-type="place/site"} the eastern one, nearest the [[affiliation-qbdrtrb|Qibudur]]. A fourth camp, [Zamir-Kar]{.name data-type="place/site"}, follows the seasonal water and stands empty when the water fails, as it has since the drought. In a dry year the Koserur pack their herds around the three wells, and a raider knows where to look. In a wet year they spread along the circuit and the tribe is hard to find.
 
-Shir-Van is the one a traveler sees. It lies within sight of the road, the last halt before the market-camp, and its well-stone carries the Koserur sign over a shaft sixty feet deep. The moot meets there, the dovaq's tent stands there in every season, and the warband rides out from it.
+Juchonkelod is the one a traveler sees. It lies within sight of the road, the last halt before the market-camp, and its well-stone carries the Koserur sign over a shaft sixty feet deep. The moot meets there, the dovaq's tent stands there in every season, and the warband rides out from it.
 
 ## The Round of the Year
 
-The Koserur winter close on Shir-Van and Dubzar, where the shafts are deepest and the herds can be watched from one ridge. In spring the families move north to Karanat and the grass beyond it, where the [[affiliation-jbzrtrb|Jobizur]] scouts ride the border. In summer they go out to the seasonal water at Zamir-Kar when it runs and stay on the north grass when it does not.
+The Koserur winter close on Juchonkelod and Dubzar, where the shafts are deepest and the herds can be watched from one ridge. In spring the families move north to Karanat and the grass beyond it, where the [[affiliation-jbzrtrb|Jobizur]] scouts ride the border. In summer they go out to the seasonal water at Zamir-Kar when it runs and stay on the north grass when it does not.
 
-Twice a year the whole tribe comes back to Shir-Van, for the ten days of the spring market and again for the autumn one. Those are the days the road pays, and the Koserur sit at the halt with every rider they have.
+Twice a year the whole tribe comes back to Juchonkelod, for the ten days of the spring market and again for the autumn one. Those are the days the road pays, and the Koserur sit at the halt with every rider they have.
 
 ## Neighbors
 
@@ -84,7 +84,7 @@ The dovaq is [Timan Koserur]{.name data-type="being/npc"}, an old man who has he
 
 ## Caravans
 
-The Koserur are known for honest dealing, and caravan tolls are their steadiest income. A caravan coming east across the sands pays them half a weight of silver for each camel-load. For that it gets a rider for the last day's march, water at Shir-Van for every beast and the tribe's _qibud_ (token), which carries it into the market-camp. The rider is a guide in the plainest sense: he knows which gravel is firm and which hides the old canal beds, and he speaks for the string to every herdsman on the way.
+The Koserur are known for honest dealing, and caravan tolls are their steadiest income. A caravan coming east across the sands pays them half a weight of silver for each camel-load. For that it gets a rider for the last day's march, water at Juchonkelod for every beast and the tribe's _qibud_ (token), which carries it into the market-camp. The rider is a guide in the plainest sense: he knows which gravel is firm and which hides the old canal beds, and he speaks for the string to every herdsman on the way.
 
 The Koserur keep the bargain. A lightly guarded caravan of spices and silk crossing their land while the warband needs horses is a temptation some of the riders argue for, and the dovaq has so far refused it.
 
@@ -112,7 +112,7 @@ The Koserur raid nobody this year, because they have no riders to spare from the
 : the central range the tribe grazes
 
 [[place-qisomrktcmp|Qiiso]]
-: the market-camp a day east of Shir-Van
+: the market-camp a day east of Juchonkelod
 
 [[lore-celestialroad|The Celestial Road]]
 : the road whose last day into Qiiso the Koserur sell

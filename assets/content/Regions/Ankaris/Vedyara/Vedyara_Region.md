@@ -74,7 +74,7 @@ The highest Grazian summits stay glaciated and snow-covered all year; the lower 
 
 ## Who Holds the Ground
 
-No ruler speaks for Vedyara. Most of its people live in janpodas, small temple-republics of a few villages governed by a sabhra (assembly) in the hall of their central temple, and their confederation, the [[affiliation-janpdsvdyr|Janpodas of Vedyara]], convenes once in twelve years and does not govern. Beside them stand the kingdoms and city-states, most of them larger than any single janpoda, and a few bodies that fit neither form:
+No ruler speaks for Vedyara. Most of its people live in janpodas, small temple-republics of a few villages governed by a sabhra (assembly) in the hall of their central temple, and their confederation, the [[affiliation-janpdsvdyr|Janpodas of Vedyara]], convenes once in twelve years and does not govern. Beside them stand the kingdoms, Chendrapur and Vyalendra, most of them larger than any single janpoda, and a few bodies that fit neither form:
 
 | Polity                                          | Form                              | People     | Holds                                                |
 | ----------------------------------------------- | --------------------------------- | ---------- | ---------------------------------------------------- |

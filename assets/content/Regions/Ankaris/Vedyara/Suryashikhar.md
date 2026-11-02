@@ -20,7 +20,7 @@ No one climbs it. There is no prohibition and no legend of a climber punished. A
 
 ## What Lies Beneath It
 
-The [[place-chandrprbh|Chandraprabhava]] rises under the peak's southern glacier and becomes [[place-chandrmahi|the Chandramahi]], the river that waters the greatest of the city-states and reaches the sea a thousand miles south. [[place-surtatempl|The Surta temple]] stands where the melt comes out of the ice. [[place-himashila|Himashila]] lies beside it. The temple washes the slab at the turn of every season, and nothing the temple has ever done has altered it in any way.
+The [[place-chandrprbh|Chandraprabhava]] rises under the peak's southern glacier and becomes [[place-chandrmahi|the Chandramahi]], the river that waters Chendrapur, the greatest of Vedyara's cities, and reaches the sea a thousand miles south. [[place-surtatempl|The Surta temple]] stands where the melt comes out of the ice. [[place-himashila|Himashila]] lies beside it. The temple washes the slab at the turn of every season, and nothing the temple has ever done has altered it in any way.
 
 [[place-suryadvar|Suryadvar]] runs up the mountain's western flank. Every caravan that crosses by the greatest of the passes spends four days in sight of the summit and, by long custom, does not speak on those days after dark.
 

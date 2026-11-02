@@ -99,13 +99,13 @@ The regions south of [[place-nrthrnfrtlrgn|the Fertile crescent]], and the far n
 The Tevran's governing structure mirrors the empire's.
 
 Tevraks
-: the chair, "First of the College." There is one, appointed by imperial edict for a ten-year term, renewable. He holds the imperial seal of office and presides over the Council. The current Tevraks is [Marcus Velerianus]{.name data-type="being/npc"}, a former Vylarian _tarkelos_ (treasury officer) of substantial political weight, who has served eight years and is presumed to be in line for renewal.
+: the chair, "First of the College." There is one, appointed by imperial edict for a ten-year term, renewable. He holds the imperial seal of office and presides over the Council. The current Tevraks is [Torvelis Velerianus]{.name data-type="being/npc"}, a former Vylarian _tarkelos_ (treasury officer) of substantial political weight, who has served eight years and is presumed to be in line for renewal.
 
 The Council of the Tevran
 : the standing council, with thirty-six seats, one for each major recognized trade-category (smiths, scribes, cartographers, builders, vintners, drapers, navigators and the rest). A _kelros_ (guild master), elected by the trade's senior masters in conclave, holds each seat for five years. The Council meets in continuous session at Orzara, with formal full convocations four times a year and standing committees that work between them.
 
 The Rozimoi of the Tevran
-: the discipline arm, twelve appointed officers who conduct inspections, investigate charter violations and prosecute disciplinary cases before the Council. The _rozimoi_ (auditors) are widely feared and not always loved. The senior _rozimos_ is the **Holrozimos**, presently [Lucia Praetoriana]{.name data-type="being/npc"}, whose reputation for procedural rigor approaches the pathological.
+: the discipline arm, twelve appointed officers who conduct inspections, investigate charter violations and prosecute disciplinary cases before the Council. The _rozimoi_ (auditors) are widely feared and not always loved. The senior _rozimos_ is the **Holrozimos**, presently [Isolmera Vornelis]{.name data-type="being/npc"}, whose reputation for procedural rigor approaches the pathological.
 
 The Tarkelos of the Tevran
 : the treasurer, who manages the Tevran's modest common fund, built from member-guild dues, ceremonial revenues and the Tevran's own commercial holdings. The office is administrative and limited. The [[affiliation-danvar|Danvar]] and ultimately the [[affiliation-tarmex|Tarmeks Orzan]] handle the commonwealth's much larger banking functions.
@@ -184,10 +184,10 @@ The banking system holds together because the Tevran's power to charter is kept 
 
 ## Notable Members and Officers
 
-Tevraks Marcus Velerianus
+Tevraks Torvelis Velerianus
 : the current Tevraks, in the eighth year of his first term.
 
-Holrozimos Lucia Praetoriana
+Holrozimos Isolmera Vornelis
 : the senior discipline officer, widely feared.
 
 The Council's thirty-six trade-seats
@@ -216,7 +216,7 @@ The Tevraks wears the great gold pectoral of office, kept at the Council between
 - **The Charter Revocation Hearing.** The _rozimoi_ have brought charges against a major Aureldian guild whose charter is at risk, and its home government is loudly committed to its defense. It is the most politically charged case in a generation, and the Council's ruling will set the practical limits of the Tevran's authority over the Aureldian crowns for the next quarter century.
 - **The Taruzelian Master.** A Taruzelian master who held Tevran credentials at the secession has presented himself at a Vylarian provincial chapter, seeking a new commission. His pre-secession credentials are technically valid, and the Vezakuni's later confirmations of his standing are not. The _therkalen_ (provincial deputy) must decide whether to honor the original credentials, refuse them because a foreign body confirmed him afterward, or refer the matter to the Council for a precedent.
 - **The Captured Rozimos.** A _rozimos_ on inspection in the Aureldian countryside has been quietly detained by a local baron who objects to the inspection's target, a guild the baron controls. The detention is not public, the _rozimos_ is unharmed, and the Tevran's response will tell the baron, and everyone watching, what they can expect to get away with.
-- **The Tevraks's Succession.** Marcus Velerianus's renewal is in doubt. The imperial court is divided between factions that favor his continuing and factions that want a successor more amenable to recent imperial proposals for tightening the Tevran's discipline of conquered-territory guilds. The contest runs through proxies on the Council, whispered representations at court and the senior _rozimoi_' choice of which cases to bring forward in the months before the renewal vote.
+- **The Tevraks's Succession.** Torvelis Velerianus's renewal is in doubt. The imperial court is divided between factions that favor his continuing and factions that want a successor more amenable to recent imperial proposals for tightening the Tevran's discipline of conquered-territory guilds. The contest runs through proxies on the Council, whispered representations at court and the senior _rozimoi_' choice of which cases to bring forward in the months before the renewal vote.
 - **The Order Brushfire.** A run of artisanal incidents (a smith's blade that may have been improperly tempered, an alchemist's product that may have been improperly registered, a cartographer whose maps may show features no natural surveying could have captured) has set off overlapping Tevran and Order investigations whose officers work at cross-purposes. The Tevraks and the _zetmarendos_ (archmaster) of the Order are due to meet, and the outcome will set the Order-Tevran boundary for a generation.
 - **The Danvar Charter Review.** The _rozimoi_ have begun a routine compliance review of the Danvar's guild charter. Such reviews are usually procedural, but this one has drawn the attention of the [Reformist Faction]{.name data-type="affiliation"}, and a sub-committee with Reformist members will conduct it. An adverse finding could in principle justify revoking the charter, though no one believes the revocation would be allowed to happen. The review's political outcomes may be large regardless.
 - **The Insulted Crown.** A senior Vylarian _therkalen_, on a routine inspection of the Tarvénian chapter, said publicly that the Aureldian governments are "honorary participants" and not full members of the Tevran. The remark was widely reported. The Tarvénian crown demands a formal disavowal and the Tevraks is preparing one, while the [Conservative Faction]{.name data-type="affiliation"} at the Vylarian court regards the disavowal as a humiliating concession. The _therkalen_'s career hangs on how the Tevraks handles it.
