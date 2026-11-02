@@ -6778,7 +6778,7 @@ data:
     - {name: Zabuzum, tongue: taruzeli, built: [zabuz-, -um]}
     - {name: Zattuya Balinuni, tongue: taruzeli, built: [zatt-, -uya, balin-, -uni]}
     - {name: Zazuran Kusaduni, tongue: taruzeli, built: [zazur-, -an, kusad-, -uni]}
-    - {name: Merazuni, tongue: taruzeli}
+    - {name: Merazuni, tongue: taruzeli, built: [meraz-, -uni]}
     - {name: Taruzel Adventurer's Guide, tongue: translation}
     - {name: Taruzelian Currency, tongue: translation}
     - {name: Taruzelian Currency System, tongue: translation}
@@ -6820,6 +6820,20 @@ data:
     - {name: Gadarun, tongue: taruzeli}
     - {name: The Road Paid Three Times, tongue: translation}
     - {name: Bilgun, tongue: taruzeli}
+    - {name: Grand Council, tongue: translation}
+    - {name: Qizikuni, tongue: taruzeli, built: [qizik-, -uni]}
+    - {name: Rusakuni, tongue: taruzeli, built: [rusak-, -uni]}
+    - {name: Tirmana Qizikuni, tongue: taruzeli}
+    - {name: Zarutan Qizikuni, tongue: taruzeli, built: [zarut-, -an, qizik-, -uni]}
+    - {name: Delzuru Tanaduni, tongue: taruzeli}
+    - {name: Katira Tanaduni, tongue: taruzeli}
+    - {name: Ellamuna Balinuni, tongue: taruzeli}
+    - {name: Nirabu Balinuni, tongue: taruzeli}
+    - {name: Abarash Rusakuni, tongue: taruzeli}
+    - {name: Lushar Rusakuni, tongue: taruzeli}
+    - {name: Jiraman Rusakuni, tongue: taruzeli, built: [jiram-, -an, rusak-, -uni]}
+    - {name: Danashu Kumuni, tongue: taruzeli}
+    - {name: Yushuduya Jakuduni, tongue: taruzeli, built: [yushud-, -uya, jakud-, -uni]}
   retired:
     - {form: Tamavar, instead: Besikar, why: one letter from an Earth word}
     - {form: Kethara, instead: Yamuzel, why: an Earth word}

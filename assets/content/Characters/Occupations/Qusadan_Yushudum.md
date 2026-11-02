@@ -446,4 +446,4 @@ The Partner
 : A merchant of the port has offered to take over the shop's books and its debts for a half share, which would keep the furnace lit and put a stranger's name on his father's door.
 
 A Piece for the Compact
-: An officer of the [[affiliation-auricompct|Auric Compact]] has commissioned a glass ship from Kusadan as a gift for the [Grand Council]{.name data-type="affiliation/governmental"} and has made clear that the Compact does not accept excuses.
+: An officer of the [[affiliation-auricompct|Auric Compact]] has commissioned a glass ship from Kusadan as a gift for the [[affiliation-grandcouncil|Grand Council]] and has made clear that the Compact does not accept excuses.

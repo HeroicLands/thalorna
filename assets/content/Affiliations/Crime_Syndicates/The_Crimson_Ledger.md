@@ -93,7 +93,7 @@ The Crimson Ledger is what emerged—a network of financial criminals who unders
 
 **Customs fraud:** Port officials throughout the Vylarian Sea are on the Ledger's payroll. Manifests are altered, tariffs reduced, inspections waived. Honest officials who can't be bought are framed for corruption and replaced with ones who can.
 
-**Political bribery:** The Ledger doesn't merely bribe politicians—it owns them. Loans to ambitious council members, campaign financing for pliable candidates, and discreet payments to ensure favorable legislation. In Besikar, at least three members of the [Grand Council]{.name data-type="affiliation/governmental"} owe the Ledger enough that their votes are effectively purchased.
+**Political bribery:** The Ledger doesn't merely bribe politicians—it owns them. Loans to ambitious council members, campaign financing for pliable candidates, and discreet payments to ensure favorable legislation. In Besikar, at least three members of the [[affiliation-grandcouncil|Grand Council]] owe the Ledger enough that their votes are effectively purchased.
 
 ## Organization
 

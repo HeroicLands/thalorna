@@ -106,7 +106,7 @@ Across the strait, relations with the [[affiliation-cnfdrtntrzlnstts|Confederati
 
 ## Commerce and Currency
 
-The Kingdom uses [[lore-vylrncrncy|Vylarian coin]]—ethla, ankhra and bit—in its port cities and its administrative heart, where it is the main money of trade. The Vylarian paper script does not work here, since no chapter of [[affiliation-danvar|the Danvar]] operates in the Kingdom. Out along the desert roads, trade turns to [[lore-bartercnmy|the Barter Economy]] and [[lore-kinhalcrdt|Kin and Hall Credit]], as everywhere in the [[place-dunhardsrtrgn|Dunhara Desert]]. [[lore-trzlncrncy|Taruzelian coin]] from the secession trade is accepted in the principal trading cities, through changers who deal with the Taruzelian treasury, the [Merazuni]{.name data-type="affiliation/governmental"}.
+The Kingdom uses [[lore-vylrncrncy|Vylarian coin]]—ethla, ankhra and bit—in its port cities and its administrative heart, where it is the main money of trade. The Vylarian paper script does not work here, since no chapter of [[affiliation-danvar|the Danvar]] operates in the Kingdom. Out along the desert roads, trade turns to [[lore-bartercnmy|the Barter Economy]] and [[lore-kinhalcrdt|Kin and Hall Credit]], as everywhere in the [[place-dunhardsrtrgn|Dunhara Desert]]. [[lore-trzlncrncy|Taruzelian coin]] from the secession trade is accepted in the principal trading cities, through changers who deal with the Taruzelian treasury, the [[affiliation-merazuni|Merazuni]].
 
 ## See Also
 

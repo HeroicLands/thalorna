@@ -46,7 +46,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-A letter of credit under the Auric Compact's seal is accepted as currency across [[place-midhalnrgn|Mídhalión]], and a contract that carries the seal binds as tightly as any court order. That seal is how most people meet the most powerful institution in the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—more powerful, in practice, than the [Grand Council]{.name data-type="affiliation/governmental"} it nominally serves. The Compact is a cartel of banking houses, trading firms and commodity brokers, and it controls the flow of capital that Taruzelian commerce runs on. Ships sail because the Compact finances them, cargoes move because it insures them, and governments function because it lends to them.
+A letter of credit under the Auric Compact's seal is accepted as currency across [[place-midhalnrgn|Mídhalión]], and a contract that carries the seal binds as tightly as any court order. That seal is how most people meet the most powerful institution in the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—more powerful, in practice, than the [[affiliation-grandcouncil|Grand Council]] it nominally serves. The Compact is a cartel of banking houses, trading firms and commodity brokers, and it controls the flow of capital that Taruzelian commerce runs on. Ships sail because the Compact finances them, cargoes move because it insures them, and governments function because it lends to them.
 
 Kind
 : merchant guild in banking, trade finance and commodity markets
@@ -63,7 +63,7 @@ The Compact works through counting houses in every major Taruzelian city and mos
 
 ## The Debt That Rules Taruzel
 
-The Compact financed the [Taruzelian War of Independence]{.name data-type="lore/history"}. It was a calculated investment, and it paid off spectacularly when the post-war government fell under guild control. The Compact is the Confederation's creditor; the treasury and the mint belong to the [Merazuni]{.name data-type="affiliation/governmental"} of the [[affiliation-vezakuni|Vezakuni]], and the Compact holds only the debt. It uses that leverage to make government policy serve commercial interest: taxes stay low on guild operations, tariffs protect guild monopolies, and the courts enforce guild contracts with enthusiasm.
+The Compact financed the [Taruzelian War of Independence]{.name data-type="lore/history"}. It was a calculated investment, and it paid off spectacularly when the post-war government fell under guild control. The Compact is the Confederation's creditor; the treasury and the mint belong to the [[affiliation-merazuni|Merazuni]] of the [[affiliation-vezakuni|Vezakuni]], and the Compact holds only the debt. It uses that leverage to make government policy serve commercial interest: taxes stay low on guild operations, tariffs protect guild monopolies, and the courts enforce guild contracts with enthusiasm.
 
 ## Methods
 

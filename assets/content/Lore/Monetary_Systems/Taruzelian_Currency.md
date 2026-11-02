@@ -14,7 +14,7 @@ A Vylarian changer who is handed a Taruzelian Solden puts it on the scale before
 
 ## Overview
 
-The Taruzelian currency is the Confederation's post-secession monetary system. It uses the same denomination structure as the [[lore-vylrncrncy|Vylarian currency]]—Solden (gold), Ardin (silver), Ogdel (Bit, 1/8 of an Ardin)—at the same nominal conversion ratios (1 Solden = 160 Ardin = 1,280 Bits), but the coins are _Taruzelian-struck_ and the supporting banking infrastructure is the Confederation's own [Merazuni]{.name data-type="affiliation/governmental"} ("House of the Treasury"), not the Vylarian treasury, [[affiliation-tarmex|the Tarmeks Orzan]].
+The Taruzelian currency is the Confederation's post-secession monetary system. It uses the same denomination structure as the [[lore-vylrncrncy|Vylarian currency]]—Solden (gold), Ardin (silver), Ogdel (Bit, 1/8 of an Ardin)—at the same nominal conversion ratios (1 Solden = 160 Ardin = 1,280 Bits), but the coins are _Taruzelian-struck_ and the supporting banking infrastructure is the Confederation's own [[affiliation-merazuni|Merazuni]] ("House of the Treasury"), not the Vylarian treasury, [[affiliation-tarmex|the Tarmeks Orzan]].
 
 The Taruzelian Solden is, by standard Vylarian assay, **slightly underweight**—about 7 percent below the Vylarian gold content. The discount is acknowledged in cross-border transactions but not advertised; in inter-Taruzelian commerce the coin passes at face value. Taruzelian Ardin are struck to the full Vylarian standard (about 1.5 g, three parts silver to one of alloy) and pass at full value in all systems where silver is silver.
 

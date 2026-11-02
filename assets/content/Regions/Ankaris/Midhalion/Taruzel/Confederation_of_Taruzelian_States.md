@@ -193,7 +193,26 @@ Into this sails [[affiliation-thetamzir|the Tamzir]]. Her captain fought at the 
 
 ## Government
 
-A clerk of the Grand Council puts the constitution to a new arbitrator in two sentences: "Every city has an equal voice in the Council. Count the votes by property and see whose voice carries." The Grand Council is made up of representatives of each member city-state. In theory each city has an equal voice; in practice the wealthiest cities and their merchant guilds dominate the proceedings. The office of Arch-Consul rotates among the cities and is more ceremonial than powerful, and the real decisions are made in back rooms by guild leaders.
+A clerk of the Grand Council puts the constitution to a new arbitrator in two sentences: "Every city has an equal voice in the Council. Count the votes by property and see whose voice carries." The [[affiliation-grandcouncil|Grand Council]] is the federal council of the five cities. Each city-state sends five councilors, named by its own council, and the Council sits twice a year in the [Grand Council Hall]{.name data-type="place/structure"} at Besikar. Every measure is counted twice: once by heads, and once by weight, which is each city's deposits with the treasury. Besikar's weight is nearly half of the whole, so nothing passes that Besikar opposes. The office of Arch-Consul passes each year to the next city in the order of the charter; it presides, holds the seal and sets the order of business, and this year it is held by [Danashu Kumuni]{.name data-type="being/npc"} of Kudumel.
+
+The Council is where the great houses vote, because the councils that name its members are seated by the standing of their houses. Each city has one house above the rest, and each of the five is bound to one of the three great guilds:
+
+[[affiliation-qizikuni|Qizikuni]] of Besikar
+: bankers and underwriters, the heaviest house of the Auric Compact and the first lenders of the war
+
+[[affiliation-tanaduni|Tanaduni]] of Yamuzel
+: an admirals' house of war-galleys and convoys in the Corsair League, under an admiral of the Shoals
+
+[[affiliation-balinuni|Balinuni]] of Kudumel
+: caravan partners and ferry-keepers, the Auric Compact's door into the city that will not deal with its enforcers
+
+[[affiliation-rusakuni|Rusakuni]] of Bazunel
+: ship designers whose lines every new League galley is built to
+
+[[affiliation-hitusuni|Hitusuni]] of Sazumun
+: keepers of the bonded warehouses, and the Merchantry of the Veil's house on the quays
+
+The Confederation's treasury and mint are the [[affiliation-merazuni|Merazuni]], kept by the Kubasum of the [[affiliation-vezakuni|Vezakuni]], and its register of deposits is what weighs the Council's votes. The real decisions are made before a session opens, in the back rooms of these houses and of the guilds they serve.
 
 Each city-state keeps its own internal government, militia and laws, and the patchwork of regulations between them bewilders outsiders. Smuggling and legal arbitrage—profiting from the differences between one city's laws and another's—are thriving trades.
 
@@ -242,7 +261,7 @@ The Kingdom of Amradad holds the mainland across the strait, and relations with 
 
 ## Commerce and Currency
 
-The Confederation pays in the [[lore-trzlncrncy|Taruzelian currency]], the system it built after secession and administers through the [Merazuni]{.name data-type="affiliation/governmental"}, the treasury of the [[affiliation-vezakuni|Vezakuni]]. Its denominations are the Vylarian ones (Solden, Ardin and Bit), but they are backed by Taruzelian reserves rather than by the Vylarian reserves of [[affiliation-tarmex|the Tarmeks Orzan]], and the Taruzelian Solden is slightly underweight by the Vylarian standard. A network of Merazuni-affiliated moneylenders carries the banking. Vylarian script is not honored in Taruzel, and Taruzelian script is not honored in Vylarian territory.
+The Confederation pays in the [[lore-trzlncrncy|Taruzelian currency]], the system it built after secession and administers through the Merazuni, the treasury of the [[affiliation-vezakuni|Vezakuni]]. Its denominations are the Vylarian ones (Solden, Ardin and Bit), but they are backed by Taruzelian reserves rather than by the Vylarian reserves of [[affiliation-tarmex|the Tarmeks Orzan]], and the Taruzelian Solden is slightly underweight by the Vylarian standard. A network of Merazuni-affiliated moneylenders carries the banking. Vylarian script is not honored in Taruzel, and Taruzelian script is not honored in Vylarian territory.
 
 ## See Also
 
