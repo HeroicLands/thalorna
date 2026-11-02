@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [vylariargn], population: 300, governme
 
 ## Ombalon—The Court of the Academy of Knowledge
 
-Within [[place-arvon|Arvon]], the Inner City of [[place-orzara|Orzara]], sharing the palace hill with the throne itself, stands the **Ombalon**—the ceremonial headquarters of the [[affiliation-panepistmm|Epistémion]], the Academy of Knowledge. It is the small, rarefied counterpart to the great campus that lies beyond the [Inner Wall]{.name data-type="place/structure"} in the [Scholars' District]{.name data-type="place/site"} (see [[place-orzara|Orzara]]). The bustle of the university proper—the lecture halls, the wrangling students, the chapterhouse traffic—is kept, by deliberate design, outside the Inner Wall of Arvon. What remains within is something quieter and far more select.
+Within [[place-arvon|Inner City]] of [[place-orzara|Orzara City]], sharing the palace hill with the throne itself, stands the **Ombalon**—the ceremonial headquarters of [[affiliation-panepistmm|The Academy]], the Academy of Knowledge. It is the small, rarefied counterpart to the great campus that lies beyond the [Inner Wall]{.name data-type="place/structure"} in the [[place-scholarsdstr|Scholars' District]] (see [[place-orzara|Orzara]]). The bustle of the university proper—the lecture halls, the wrangling students, the chapterhouse traffic—is kept, by deliberate design, outside the Inner Wall of Arvon. What remains within is something quieter and far more select.
 
 ### A Palace of Counsel
 

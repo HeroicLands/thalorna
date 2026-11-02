@@ -26,7 +26,7 @@ The capital dominates everything around it. Its senatorial estates, bureaucratic
 
 ## Economy
 
-Alessa runs on government, trade and the crafts that serve the wealthy. It grows little surplus food of its own and depends on [[affiliation-provnchyln|Hilen]] for grain and [[affiliation-provincvld|Salkalon]] for seafood and imports, which is why the gate-yards never empty. What Alessa produces is influence, law and [Vylarian Steel]{.name data-type="miscgear"}. The capital's metalworking guilds are the finest on the [[place-ankrscntnnt|Ankaris Continent]], and access to the production of Vylarian Steel is one of the empire's most closely guarded advantages.
+Alessa runs on government, trade and the crafts that serve the wealthy. It grows little surplus food of its own and depends on [[affiliation-provnchyln|Province of Hilen]] for grain and [[affiliation-provincvld|Province of Salkalon]] for seafood and imports, which is why the gate-yards never empty. What Alessa produces is influence, law and [Vylarian Steel]{.name data-type="miscgear"}. The capital's metalworking guilds are the finest on the [[place-ankrscntnnt|Ankaris Continent]], and access to the production of Vylarian Steel is one of the empire's most closely guarded advantages. Its foundries stand in the [Smoke]{.name data-type="place/site"} beyond the capital's Clearance, where the [Steel Guild]{.name data-type="affiliation/guild"} keeps the secret of the forging behind the wall of its own foundry-town ([[place-outskirtsorz|Outskirts]]).
 
 ## Notable Features
 

@@ -14,7 +14,7 @@ The River Vylaris gave the heartland its name, and it runs through it. It rises 
 
 A barge-master on the lower river puts it to the passengers who come aboard at the capital: "Every sack you saw in the gate-yards this morning came the long way round, by water or by road. We are the water. We bring the grain in to the city's wharves under [Nerval]{.name data-type="place/feature"} in the dark, so the bakers have flour at dawn, and we take the empties back. The river does not care about [[affiliation-seldan|Seldan]], the Senate. It cares about the rains in the hills."
 
-Orzara stands on the river's eastern bank, beneath the [[place-sixhillsvyl|Six Hills]], and its [Wharves]{.name data-type="place/site"} and the [River Circle]{.name data-type="place/site"} lie along the water.
+Orzara stands on the river's eastern bank, beneath the [[place-sixhillsvyl|Six Hills]], and its [[place-wharvesorz|Wharves]] and the [River Circle]{.name data-type="place/site"} lie along the water.
 
 ## The Name
 

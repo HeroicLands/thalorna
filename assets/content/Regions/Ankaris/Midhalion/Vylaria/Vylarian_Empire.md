@@ -12,7 +12,7 @@ data:
   governance:
     model: monarchy
     summary: >-
-      Hereditary Orzas over a senate of the great families, a scribal bureaucracy and the councils; his authority resting on tradition, the armies' loyalty and the senate's acquiescence.
+      An Orzas who names his successor and adopts him, over a senate of the great families, a scribal bureaucracy and the councils; his authority resting on tradition, the armies' loyalty and the senate's acquiescence.
     ranks:
       - level: 0
         title: Proscribed
@@ -163,6 +163,8 @@ The Emperor rules in name. In practice power is shared, and contested, among fou
 - **The [[affiliation-seldan|Senate]]**, the great senatorial families in their chamber.
 - **The military commanders**, above all [[affiliation-sorvan|the Sorvan]] in the capital.
 - **The [[affiliation-ordoarcanis|Thordimalon]]**, more and more deeply woven into the imperial structure.
+
+The throne passes by adoption. A reigning Orzas names his successor in his lifetime and adopts him as his son, and the adopted heir takes the name of the reigning house; an Orzas with no son of his own names a man of another house. House Helarkales has held the throne in this way since the Restoration. Azénales, Orzas from about 604 to 619, was born to [[affiliation-mardovanes|House Mardovanes]] and adopted into House Helarkales, and the Mardovanes still count him the great man of their house. A successor who is named and never adopted reigns under his own house's name, which is how House Varkalenis followed the Founder's line. An Orzas who dies having named nobody leaves the throne to whoever can take it, as Barnakis did in 389. The reigning Orzas is old and has adopted nobody, and the Senate, the guard and the great houses are all counting what that will cost.
 
 Weak emperors become puppets of the Senate or the Order; strong ones face conspiracies from both. The court lives in constant low-level intrigue, with factions maneuvering for advantage while the empire's position abroad keeps weakening. The day-to-day state runs through the [[affiliation-imperialoffices|Imperial Offices]]: the scribes of [[affiliation-imprlscrblgld|the Imperial Scribal Guild]], the tax courts of [[affiliation-tolvan|the Tolvan]] and the treasury of [[affiliation-tarmex|the Tarmeks Orzan]].
 

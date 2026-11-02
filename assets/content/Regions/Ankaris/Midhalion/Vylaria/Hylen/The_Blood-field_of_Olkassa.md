@@ -34,7 +34,7 @@ The clergy of the [[affiliation-selmoros|Faith of Sélmoros]] and the [[affiliat
 
 ## Hooks
 
-- **The dole's flour.** A grain factor finds that the capital's dole is milled from Olkassa wheat, and a preacher of [[affiliation-blackflame|the Black Flame]] in the [Warrens]{.name data-type="place/site"} tells the poor why the city has been angry for a year.
+- **The dole's flour.** A grain factor finds that the capital's dole is milled from Olkassa wheat, and a preacher of [[affiliation-blackflame|The Black Flame]] in the [[place-warrensorz|Warrens]] tells the poor why the city has been angry for a year.
 - **The heir's wedding.** The estate's heir wants the field settled by Sélmoros's rite before his wedding. The rite works perhaps half the time, and nobody knows whether settling it would end the harvest.
 
 ## See Also

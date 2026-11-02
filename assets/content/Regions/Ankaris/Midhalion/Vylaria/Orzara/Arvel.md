@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [sixhillsvyl], population: 0, packFolde
 
 ## Overview
 
-Arvel, the Eagle Hill, is the highest of the [[place-sixhillsvyl|Six Hills]] on which [[place-orzara|Orzara]] rises, and it looks down on all the rest. Its crown is walled: behind its own ancient ring of walls stands [[place-arvon|Arvon]], the Inner City and the sacred and administrative core of the [[affiliation-vylarinmpr|empire]], and over the summit rises the [[place-palvar|Palvar]], the largest single structure in the known western world. Below it, in the central saddle, lies the [Platan District]{.name data-type="place/site"} around the [Circle of Árdavon]{.name data-type="place/site"}.
+Arvel, the Eagle Hill, is the highest of the [[place-sixhillsvyl|Six Hills]] on which [[place-orzara|Orzara City]] rises, and it looks down on all the rest. Its crown is walled: behind its own ancient ring of walls stands [[place-arvon|Inner City]], the sacred and administrative core of the [[affiliation-vylarinmpr|Vylarian Empire]], and over the summit rises [[place-palvar|The Grand Palace]], the largest single structure in the known western world. Below it, in the central saddle, lies the [[place-platandstr|Platan District]] around the [Circle of Árdavon]{.name data-type="place/site"}.
 
 ## The Hill and the Empire
 

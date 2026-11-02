@@ -54,7 +54,7 @@ data:
       unresolved: [whether the first fire was set]
 ---
 
-A Watch sergeant, showing a new recruit round the lanes of the lower wards of [[place-antel|Antel]] (the Old Hill), stops at a blank stone wall that rises three storeys with no window in it. "Fire-wall," he says. "Every one in the city is a fire-wall for something that burned, and this one is for the six days. The district law was written by men who watched the [Warrens]{.name data-type="place/site"} go up."
+A Watch sergeant, showing a new recruit round the lanes of the lower wards of [[place-antel|The Old Hill]], stops at a blank stone wall that rises three storeys with no window in it. "Fire-wall," he says. "Every one in the city is a fire-wall for something that burned, and this one is for the six days. The district law was written by men who watched the [[place-warrensorz|Warrens]] go up."
 
 ## The Failed Dole
 

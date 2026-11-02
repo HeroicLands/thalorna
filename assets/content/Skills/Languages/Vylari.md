@@ -9962,6 +9962,22 @@ data:
     - {name: Melvaris Thradinis, tongue: vylari, built: [melvar, "-is", "thradin-", "-is"]}
     - {name: Peleris, tongue: vylari, built: ["peler-", "-is"]}
     - {name: Thauris, tongue: vylari, built: ["thaur-", "-is"]}
+    - {name: Platan District, tongue: translation}
+    - {name: Grand Market, tongue: translation}
+    - {name: Delalon Melvar, tongue: vylari, built: ["del-", "-alon", melvar]}
+    - {name: Wharves, tongue: translation}
+    - {name: Scholars' District, tongue: translation}
+    - {name: Gilded Quarter, tongue: translation}
+    - {name: Heights, tongue: translation}
+    - {name: Warrens, tongue: translation}
+    - {name: Outskirts, tongue: translation}
+    - {name: Anthrima, tongue: vylari, built: ["an-", thrima]}
+    - {name: The Smoke, tongue: translation}
+    - {name: Karvuma, tongue: vylari, built: [karvuma]}
+    - {name: The Steel Town, tongue: translation}
+    - {name: Thalbezara, tongue: vylari, built: ["thalbez-", "-ara"]}
+    - {name: The Steel Guild, tongue: translation}
+    - {name: Thalbezalon, tongue: vylari, built: ["thalbez-", "-alon"]}
   retired:
     - {form: Campus Vylaris, instead: Vilarpolthamis, why: an Earth phrase for the city commons}
     - {form: Viridarium, instead: Velmiros, why: an Earth word for the city green}

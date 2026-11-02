@@ -36,12 +36,12 @@ The idealized maps show a neat ringed city, and Orzara is nothing of the kind. I
 
 Highest and chief is [[place-arvel|Arvel]], the Eagle Hill, crowned by the walled Inner City and [[place-palvar|Palvar]] (the Grand Palace)—the literal and figurative summit of the Empire, looking down on all the rest. Around it stand five lesser hills, each with its own character:
 
-- [Torvel]{.name data-type="place/feature"} ("the Coronal") and [[place-selvin|Selvin]] ("the Laurel")—the twin patrician hills that together make _the [Heights]{.name data-type="place/site"}_. Torvel is the older and prouder, ringed with the ancestral villas of the senatorial houses and facing the palace across the central saddle; Selvin is greener and newer, its gardens and great houses the address of the risen and the rich, with the [Gilded Quarter]{.name data-type="place/site"} climbing its lower slopes toward them.
-- [Mernel]{.name data-type="place/feature"} ("the Scholars' Hill")—bearing the [Scholars' District]{.name data-type="place/site"}, the campus of [[affiliation-panepistmm|Epistémion]], and the [Circle of Marendas]{.name data-type="place/site"}.
+- [Torvel]{.name data-type="place/feature"} ("the Coronal") and [[place-selvin|the Laurel]]—the twin patrician hills that together make _the [[place-heightsorz|Heights]]_. Torvel is the older and prouder, ringed with the ancestral villas of the senatorial houses and facing the palace across the central saddle; Selvin is greener and newer, its gardens and great houses the address of the risen and the rich, with the [[place-gildedqrtr|Gilded Quarter]] climbing its lower slopes toward them.
+- [Mernel]{.name data-type="place/feature"} ("the Scholars' Hill")—bearing the [[place-scholarsdstr|Scholars' District]], the campus of [[affiliation-panepistmm|The Academy]], and the [Circle of Marendas]{.name data-type="place/site"}.
 - [[place-antel|Antel]] ("the Old Hill")—the [Vylarian Republic]{.name data-type="affiliation/polity"}'s city before the Founder walled the Eagle Hill, once second only to it, and now the plainest face of the city's long decline: its grand early monuments weather unrepaired, its great families have drifted off to the Laurel, and its once-proud Circle has gone shabby. Dignified still, but visibly fading.
-- [Nerval]{.name data-type="place/feature"} ("the River Hill")—the crowded working height above the wharves, its slopes packed with the densest of the [Warrens]{.name data-type="place/site"}.
+- [Nerval]{.name data-type="place/feature"} ("the River Hill")—the crowded working height above the wharves, its slopes packed with the densest of the [[place-warrensorz|Warrens]].
 
-Between and below the hills run the saddles, the valleys, and the riverside flats, and it is _there_, on the level ground, that the city does its daily business: the [Grand Market]{.name data-type="place/site"} on the central flats, the [Wharves]{.name data-type="place/site"} along the river beneath Nerval, the great [[place-rathaunamelvar|Rathauna Melvar]] (the Racecourse) laid out the length of the valley between Antel and Nerval, and the Warrens flooding every hollow the grander quarters leave them. As a rule the high ground is the prized ground—for its air, its views, and its distance from the crush—and the low ground is the dense, busy, poorer ground, save where the river makes the wharves rich.
+Between and below the hills run the saddles, the valleys, and the riverside flats, and it is _there_, on the level ground, that the city does its daily business: the [[place-grandmarketorz|Grand Market]] on the central flats, the [[place-wharvesorz|Wharves]] along the river beneath Nerval, [[place-rathaunamelvar|The Racecourse]], the great course laid out the length of the valley between Antel and Nerval, and the Warrens flooding every hollow the grander quarters leave them. As a rule the high ground is the prized ground—for its air, its views, and its distance from the crush—and the low ground is the dense, busy, poorer ground, save where the river makes the wharves rich.
 
 The hills also explain the **uneven scatter of the Circles**. A Circle is three hundred yards of _level_ pavement, and level ground is precisely what a hilly city is short of; so the Circles are set where the ground allows—on the broader hilltops, in the saddles, and on the river-flats—and never on the grades. They fall, in consequence, wherever the terrain permits rather than in any even ring, and the avenues that string them together run irregular lengths and bearings as they climb and descend between them.
 
@@ -140,32 +140,28 @@ Orzara is governed by an intricate and jealously enforced body of **district law
 
 Because the foul and heavy trades are banished and the draft animals stabled outside, Orzara within its bounds is overwhelmingly a city of **consumption, exchange, governance, worship, and residence** rather than of making. Why pay the ruinous rents inside to forge iron or tan hides, when the same goods can be made cheaply beyond the bounds and simply _sold_ inside through the chandlers and the markets? So the work that remains within the city is the work that must stay: selling, service, and the few clean and costly crafts whose buyers are the rich who live here. The quarters reflect it:
 
-The [Platan District]{.name data-type="place/site"}
-: the civic heart, in the central saddle below Arvel around the **Circle of Árdavon**: the basilicas of the civic courts, the chambers of the [[affiliation-verdanorzara|Verdan Orzara]], the grandest public baths and libraries, and the platforms from which the city is governed and addressed.
+The [[place-platandstr|Platan District]]
+: the civic heart, in the central saddle below Arvel around the **Circle of Árdavon**: the basilicas of the civic courts, the hall of the [[affiliation-verdanorzara|Orzara Courts]], the Scribal Guild's central hall, the grandest baths and libraries, and the platforms from which the city is addressed.
 
-The Grand Market
-: the commercial heart, on the central flats around the **Grand Market Circle**: the great licensed markets and the chandlers who retail what the city does not make, the banking houses of [[affiliation-danvar|the Danvar]], and the administrative guild-halls of [[affiliation-tevran|the Tevran Maldor]]'s trades (their workshops, like everything else, kept outside).
+The [[place-grandmarketorz|Grand Market]]
+: the commercial heart, on the central flats around the **Grand Market Circle**: the licensed markets in their rows, the chandlers who retail what the city does not make, the counting-houses of [[affiliation-danvar|The Bankers' Guild]], and the Council Hall of [[affiliation-tevran|Great College of Guilds]].
 
-The Wharves
-: the river port beneath **Nerval** on the **River Circle**, where the barges land: the bulk granaries and warehouses, the fish-market, the watermen and porters, and the registered **foreigners' quarter** of resident Taruzelian, Nordman, and Khelathi traders.
+The [[place-wharvesorz|Wharves]]
+: the river port beneath **Nerval** on the **River Circle**, where the barges land by night: the state granaries under seal, the warehouses, the fish-market, the watermen and porters, and the walled Strangers' Row of registered Taruzelian, Nordman and Khelathi traders.
 
-The Scholars' District
-: the [[affiliation-panepistmm|Epistémion]] campus, on **Mernel** around the Circle of Marendas (detailed below).
+The [[place-scholarsdstr|Scholars' District]]
+: the chartered campus of the [[affiliation-panepistmm|Epistémion]] on **Mernel** around the Circle of Marendas, with the domed chapter house of the [[affiliation-ordoarcanis|Thordimalon]] among its colleges and no trade or workshop anywhere in it.
 
-The Gilded Quarter
-: the clean, costly trades and the moneyed services, climbing the lower slopes of **Selvin** toward the Heights: the goldsmiths, jewelers, perfumers, fine tailors, apothecaries, and instrument-makers who both make and sell to a wealthy clientele, alongside the physicians, scriveners, and the better baths and inns. The one ward where craft and luxury still keep house together inside the city.
+The [[place-gildedqrtr|Gilded Quarter]]
+: the clean, costly trades on the lower slopes of **Selvin** around the Circle of Waters: the goldsmiths, jewelers, perfumers, tailors, apothecaries and seal-cutters who make and sell for the Heights, with the physicians and the city's better inns.
 
-The Heights
-: the twin patrician hills, **Torvel** and **Selvin**: walled villas, terraced gardens, and the city-houses of _kurthoi_ (senators) and great families who do not lodge in the Inner City, prized for their air and their views and reached only on foot.
+The [[place-heightsorz|Heights]]
+: the twin patrician hills, **Torvel** and **Selvin**: walled villas, terraced gardens and the city-houses of _kurthoi_ (senators) and great families, reached only on foot and climbed every dawn by their clients.
 
-The Warrens
-: the dense tenement wards that fill the valleys and lower slopes, packed thickest on **Nerval** above the Wharves: many-storied _tengali_ of brick and timber, crowded and fire-prone, home to the citizen-veterans and the sponsored working folk whose livelihoods keep them within the city (see _Citizens and Residents_).
+The [[place-warrensorz|Warrens]]
+: the dense tenement wards that fill the valleys and lower slopes, packed thickest on **Nerval** above the Wharves: many-storied _tengali_ of brick and timber, home to the citizen-veterans and the sponsored working folk whose livelihoods keep them within the city.
 
 The city's pleasures keep their own quarters too—the [[place-magntheatredstr|Theatre District]] and the Racecourse quarter about the **Racecourse Circle**—but those belong to its public life (see _Spectacle and the Public Life_).
-
-### The Scholars' District
-
-On **Mernel**, around the **Circle of Marendas** and its statue of the goddess of wisdom, lies the **Scholars' District**—the main campus of the [[affiliation-panepistmm|Epistémion]] and the greatest seat of that institution anywhere in the Empire: its colleges, lecture halls, the great reading-library, and the walled residence halls of a student body drawn from the patrician and well-propertied houses. It is a _scholarly_ quarter, not a working one—ordered, expensive, and quietly proud, with no trade or workshop within it. This is the _living_ university; [[place-aulpnpstmm|Ombalon]], the Epistémion's small inner compound, and its [Notral Sevan]{.name data-type="place/structure"} are kept up on Arvel within the citadel, [[place-arvon|Arvon]]. (For the institution itself, see [[affiliation-panepistmm|Epistémion]].)
 
 ### The Velmiros
 
@@ -270,13 +266,7 @@ Scattered through the city are the great **public baths**—vast complexes of ho
 
 ## The Outskirts
 
-Beyond the Clearance sprawl the **outskirt communities**—the unplanned, half-legal overflow of a city that long ago outgrew its fortifications, and, by a quirk of the law, the home of most of the people who actually keep it running. For the right to dwell _inside_ the thrima belongs only to citizens and their sponsored servants (see _Citizens and Residents_); everyone else—the great mass of resident laborers, journeymen, and migrants—lives out here. So do all the trades the city will not house, for this is where Orzara is truly _made_:
-
-- **The workshops.** Banished from the city, nearly all of the city's production crowds the outskirts: the **smithies and foundries**, the potteries, the timber- and stone-yards, and—kept downwind and downriver of everything else—the **stinking trades**, the tanneries, the dye- and fulling-works, the brick- and lime-kilns, the charcoal-burners, and the shambles. The goods flow inward to be sold by the chandlers and the markets; the smoke and the stench stay out here, with the people who make them.
-- **The Gate-Yards.** Ringing each great gate stand the transit-yards—stables, ostlers, caravanserais, and teamsters' lodgings—where the road-caravans halt, the draft animals are housed, and wagon-cargo is broken down onto porters and handcarts for the journey through the gate.
-- **The Garden-Estates.** On the pleasanter hills and riverbanks, well clear of the squalor, lie the **vildori**—the walled suburban pleasure-villas of the very rich, with their gardens and their quiet: the genteel opposite face of the same extramural ground.
-
-It is dirtier, wilder, and more lawless out here than within, beyond the easy reach of the [[affiliation-aediles|Pelthralon]] and the Watch, and it swells and shrinks with the fortunes of the Empire—a breeding-ground of plague and unrest in bad years, a gathering-place of new blood and restless energy in good ones. Either way its people count themselves Orzarans, and they are not wrong to; the city could not survive a week without them.
+Beyond the Clearance sprawl the [[place-outskirtsorz|Outskirts]], the unplanned, half-legal ring where most of the people who keep the city running live, because the right to dwell inside the thrima belongs only to citizens and their sponsored servants (see _Citizens and Residents_). Everything the city will not house is there, and that is where Orzara is made: the gate-yards at every gate, the foundries and foul trades of the Smoke downwind and downriver, the walled foundry-town where the [Steel Guild]{.name data-type="affiliation/guild"} makes [Vylarian Steel]{.name data-type="miscgear"}, and the garden-villas of the very rich on the pleasanter ground. Its people count themselves Orzarans, and the city could not survive a week without them.
 
 ## The Vilarpolthamis
 
@@ -312,6 +302,14 @@ It is tended jointly by two priesthoods that, anywhere else, would have little t
 - [[place-arvon|Arvon]]—the Inner City on Arvel
 - [[place-palvar|Grand Palace]]—the Palvar, seat of the throne
 - [[place-sixhillsvyl|Six Hills]]—the hills the city stands on
+- [[place-platandstr|Platan District]]—the civic heart and its courts
+- [[place-grandmarketorz|Grand Market]]—the licensed markets and the counting-houses
+- [[place-wharvesorz|Wharves]]—the river port and the Strangers' Row
+- [[place-scholarsdstr|Scholars' District]]—the Epistémion's campus on Mernel
+- [[place-gildedqrtr|Gilded Quarter]]—the costly trades on Selvin's lower slopes
+- [[place-heightsorz|Heights]]—the patrician hills of Torvel and Selvin
+- [[place-warrensorz|Warrens]]—the tenement wards of the citizen-veterans
+- [[place-outskirtsorz|Outskirts]]—the working city beyond the Clearance
 - [[place-magngndorery|Grand Orrery]]—the Mechanical Court
 - [[place-rathaunamelvar|Rathauna Melvar]]—the great arena
 - [[place-magntheatredstr|Theatre District]]—the quieter quarter of pleasure

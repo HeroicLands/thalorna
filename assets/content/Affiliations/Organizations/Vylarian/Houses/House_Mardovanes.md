@@ -48,7 +48,7 @@ sohl: {system: {commonSkills: [vylarilng]}}
 
 The usher of House Mardovanes briefs the musicians hired for the betrothal feast at the gate of the house on [[place-selvin|Selvin]]: "Play nothing from the west. The master's ancestor gave the west away, the Senate made him half a god for it, and the house is tender on both points. Play anything from Hilen. The bride's new family will be at the high table, and their grain paid for the torches."
 
-House Mardovanes is an _ethlen_ (Gilded) house of [[place-orzara|Orzara]], and it is the newest of the Gilded. Its great man is the Orzas [Azénales]{.name data-type="being/npc"}, who ruled for fifteen years while the far provinces went and then settled with the Aureldian crowns and the [[affiliation-byzarianlg|Bizarian League]] what the Empire still was ([[lore-crownssettle|The Settlement of the Crowns]]). The house was raised to the Gilded in his reign, one of the few houses to reach that estate in two centuries. To the older Gilded Houses it is the house that signed away the west and was gilded for the signature.
+House Mardovanes is an _ethlen_ (Gilded) house of [[place-orzara|Orzara City]], and it is the newest of the Gilded. Its great man is the Orzas [Azénales]{.name data-type="being/npc"}, a son of the house whom an heirless Orzas adopted into House Helarkales as his successor, and who ruled for fifteen years while the far provinces went and then settled with the Aureldian crowns and the [[affiliation-byzarianlg|Bizarian League]] what the Empire still was ([[lore-crownssettle|The Settlement of the Crowns]]). The house was raised to the Gilded in his reign, one of the few houses to reach that estate in two centuries. To the older Gilded Houses it is the house that signed away the west and was gilded for the signature.
 
 ## The House on the Laurel
 
@@ -74,7 +74,7 @@ The house wants Azénales given a temple of his own: the step from half-divine t
 ## Hooks
 
 - **The bride's father.** The heir of [[affiliation-ganothandis|House Ganothandis]] wants the field settled by the rite of the [[affiliation-selmoros|Faith of Sélmoros]] before his wedding. Nethoras hires a party to escort the priests out to the field and report to him, and he is plainly hoping the rite fails.
-- **The votes.** Nethoras sends a party round the [Heights]{.name data-type="place/site"} with gifts for _kurthoi_ whose votes on Azénales's temple might be bought, and one of them already owes the Varkalenis a favor.
+- **The votes.** Nethoras sends a party round the [[place-heightsorz|Heights]] with gifts for _kurthoi_ whose votes on Azénales's temple might be bought, and one of them already owes the Varkalenis a favor.
 
 :::secret
 **For the GM:** The house has sold the next three Olkassa harvests forward to the state granaries at a price no other field in Hilen could meet, because Olkassa's wheat comes in early and half again as heavy. If the field is settled and the quickening ends, the Mardovanes cannot fill the contract, and the house that feeds the capital cannot feed it. The master of Ganothandis knows of the sale and agreed to it. His heir does not.
