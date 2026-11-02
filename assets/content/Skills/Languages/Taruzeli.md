@@ -7167,7 +7167,7 @@ The characteristic long-vowel marking system was systematized during the Merchan
 
 ### Standard Taruzeli (Confederation Dialect)
 
-The prestige dialect, spoken in the major trading cities of the Confederation. Features full vowel marking and adherence to classical grammar. Used in formal diplomatic contexts and major contracts.
+The prestige dialect, spoken in the major trading cities of the Confederation. Favours the full run of _a_, _u_ and _i_ in open syllables, the endings _-um_, _-ush_ and _-uni_, and adherence to classical grammar. Used in formal diplomatic contexts and major contracts.
 
 ### Port Taruzeli (Kaliharan Dialect)
 
@@ -7175,7 +7175,7 @@ Spoken in the mixed port cities of Kalihara, this dialect exhibits simplified vo
 
 ### Merchant Guild Register
 
-A specialized register employed in high-level commercial negotiations, featuring archaic grammatical forms, technical vocabulary for maritime law, and heavily marked vowels for contractual precision.
+A specialized register employed in high-level commercial negotiations, featuring archaic grammatical forms, technical vocabulary for maritime law, and a careful, even run of _a_, _u_ and _i_ in every syllable for contractual precision.
 
 ### Hill Taruzeli {#hill-taruzeli}
 

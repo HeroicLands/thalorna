@@ -160,6 +160,26 @@ const replacedOlderNames = new Map([
         ]),
     ],
 ]);
+// Baseline prose sentences, by file, that an approved edit replaces: the
+// comparison swaps each old sentence for its new one in the baseline
+// paragraphs, and only for the sentences named here.
+const replacedProse = new Map([
+    [
+        "assets/content/Skills/Languages/Taruzeli.md",
+        [
+            [
+                "Features full vowel marking and adherence to classical grammar.",
+                "Favours the full run of _a_, _u_ and _i_ in open syllables, the endings _-um_, _-ush_ and _-uni_, and adherence to classical grammar.",
+            ],
+            [
+                "and heavily marked vowels for contractual precision.",
+                "and a careful, even run of _a_, _u_ and _i_ in every syllable for contractual precision.",
+            ],
+        ],
+    ],
+]);
+const withReplacedProse = (file, text) =>
+    (replacedProse.get(file) ?? []).reduce((out, [from, to]) => out.replace(from, to), text);
 // The five tribes' replacement names, as they stand in prose that names them.
 const tribeRenames = new Map([
     ["Azardan", "Jobizur"],
@@ -341,6 +361,7 @@ test("original language entries, metadata and prose are retained", () => {
         for (const paragraph of before.body
             .split(/\n\s*\n/u)
             .map(flatten)
+            .map((paragraph) => withReplacedProse(file, paragraph))
             .filter(Boolean))
             assert(
                 currentBody.includes(paragraph),
