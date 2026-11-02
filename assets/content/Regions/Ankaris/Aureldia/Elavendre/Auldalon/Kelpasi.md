@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "A hill village of the Áuldalon interior, tucked into a fold of ground that has kept it off three centuries of raiders' roads—and keeps observances the kingdom's priests would rather not examine."
 tags: [village, hill, inland]
-data: {demonym: null, lore: [], parents: [auldalon], population: 280, packFolder: elavendre}
+data:
+  demonym: null
+  lore: []
+  parents: [auldalon]
+  population: 280
+  government: thrglnklps
+  packFolder: elavendre
 ---
 
 **Kélpasi** sits in a deep fold of the [[place-auldalon|Áuldalon]] hills, off the ridge roads

@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [dunhardsrtrgn]
   population: 300
+  government: bnchvzhmvd
   packFolder: dunharadesert
 ---
 

@@ -6230,6 +6230,13 @@ data:
     - {name: Captain Tahruz, tongue: translation}
     - {name: bahvar, tongue: dunhari}
     - {name: vazder, tongue: dunhari}
+    - {name: Bench of Vazhmavad, tongue: translation}
+    - {name: The Weighing-Bench, tongue: translation}
+    - {name: Turned from the Benches, tongue: translation}
+    - {name: Apprentice, tongue: translation}
+    - {name: Judging Poet, tongue: translation}
+    - {name: Holder of the Oasis, tongue: translation}
+    - {name: Truce-Warden of the Weighing, tongue: translation}
   retired:
     - {form: Qadi, instead: Vazhmader, why: "an Earth word, the judge of a city"}
     - {form: qadi, instead: vazhmader, why: "an Earth word, the judge of a city"}

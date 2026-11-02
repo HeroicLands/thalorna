@@ -6665,6 +6665,13 @@ data:
     - {name: Vemuna Tamkerun, tongue: gloss, built: [Vemuna, Tamkerun]}
     - {name: High Artisan Vemuna Tamkerun, tongue: gloss, built: [Vemuna, Tamkerun]}
     - {name: High Artisan Vemuna, tongue: gloss, built: [Vemuna]}
+    - {name: Household of Relvanninesh, tongue: gloss, built: [Relvanninesh]}
+    - {name: The Princes' Household, tongue: translation}
+    - {name: Stranger, tongue: translation}
+    - {name: Servant of the House, tongue: translation}
+    - {name: Kin of the House, tongue: translation}
+    - {name: Prince, tongue: translation}
+    - {name: Steward, tongue: translation}
     - {name: Vurinkarvem, tongue: tellumi, built: [vurin, karvem]}
     - {name: Vurinkarvem Cliff, tongue: gloss, built: [Vurinkarvem]}
   older:

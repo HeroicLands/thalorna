@@ -6947,6 +6947,13 @@ data:
     - {name: Captain-Commander Tenral Salthar, tongue: translation}
     - {name: Nyevasa Úrthavende, tongue: elavendri}
     - {name: Sorcerer Nyevasa, tongue: translation}
+    - {name: Thárgalon of Kélpasi, tongue: translation}
+    - {name: The Elders of Kélpasi, tongue: translation}
+    - {name: Put Out of Kélpasi, tongue: translation}
+    - {name: Villager, tongue: translation}
+    - {name: Sorhand, tongue: elavendri}
+    - {name: Keeper of the Spring, tongue: translation}
+    - {name: Speaker to the Lowlands, tongue: translation}
   retired:
     - {form: Tirwen, instead: Éllive, why: a name borrowed from an Earth tongue}
     - {form: Glanmor, instead: Lirve, why: a name borrowed from an Earth tongue}

@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [ashkarad]
   population: 12
+  government: hshldrlvnnsh
   packFolder: khazryndesert
   culture: khazrynclt
 ---

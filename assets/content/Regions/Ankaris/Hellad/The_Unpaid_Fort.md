@@ -10,6 +10,7 @@ data:
   lore: [crownssettle]
   parents: [heladrgn]
   population: 400
+  government: cmmndnpdfrt
   packFolder: hellad
 ---
 

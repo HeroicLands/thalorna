@@ -6112,6 +6112,15 @@ data:
     - {name: Agelis, tongue: helonic}
     - {name: Euthalos, tongue: helonic}
     - {name: Ythros, tongue: helonic}
+    - {name: Command of the Unpaid Fort, tongue: translation}
+    - {name: The Fort's Commission, tongue: translation}
+    - {name: Turned off the Pass, tongue: translation}
+    - {name: Of the Household, tongue: translation}
+    - {name: Soldier of the Garrison, tongue: translation}
+    - {name: Commander, tongue: translation}
+    - {name: Rider of the Report, tongue: translation}
+    - {name: Keeper of the Toll, tongue: translation}
+    - {name: Keeper of the Stores, tongue: translation}
   retired:
     - {form: Altinkale, instead: Krusteikhos, why: a town named with an Earth phrase}
     - {form: Altinkalan, instead: Krusteíkhian, why: the demonym of a retired name}
