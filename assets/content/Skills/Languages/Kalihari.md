@@ -6,7 +6,7 @@ subType: language
 description: "One of Thalorna's oldest living tongues, threaded at the ports with Valtari loanwords and barely known in its interior form."
 tags: []
 data:
-  roman: "aeghiklmnoprstuvwyAEGHIKLMNOPRSTUVWYáéíóúëÁÉÍÓÚË0123456789()–-'"
+  roman: "aeghiklmnoprstuvwyáéíóúë0123456789()–-'"
   core: true
   abbreviation: Kal.
   fields:
@@ -52,7 +52,7 @@ data:
       field: The keeping
       gloss: "the substance of the precursors' works"
       built: [ithari, "sul-"]
-    - form: "Ithakan"
+    - form: "ithakan"
       class: "n"
       field: The keeping
       gloss: "the custodians, keepers of what was left"

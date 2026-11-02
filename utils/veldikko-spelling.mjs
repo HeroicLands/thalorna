@@ -180,9 +180,11 @@ function spellingRows(tongue) {
 }
 
 /**
- * Sinale vowel spellings, including NFC and decomposed performance notation.
- * A pair is consumed together so a mark cannot split a long vowel or remove
- * the carrier from two vowels sounded apart. Diaeresis remains the vowel ë.
+ * Sinale vowel spellings, with performance notation written as precomposed
+ * letters. A delivery with no precomposed letter is not a roman spelling, since
+ * the content charset refuses combining marks. A pair is consumed together so a
+ * mark cannot split a long vowel or remove the carrier from two vowels sounded
+ * apart. Diaeresis remains the vowel ë.
  */
 function addSinaleVowels(add) {
     const marks = { "\u0302": "rise", "\u030c": "fall", "\u0301": "emphasis" };
@@ -206,27 +208,22 @@ function addSinaleVowels(add) {
                         (letter + delivery).normalize("NFC"),
                         (letter + delivery).normalize("NFD"),
                     ])
-                        forms.set(
-                            form,
-                            ["rise", "fall", "emphasis"].filter((sign) =>
-                                [...delivery].some((mark) => marks[mark] === sign),
-                            ),
-                        );
+                        if (!/\p{M}/u.test(form.normalize("NFC")))
+                            forms.set(
+                                form.normalize("NFC"),
+                                ["rise", "fall", "emphasis"].filter((sign) =>
+                                    [...delivery].some((mark) => marks[mark] === sign),
+                                ),
+                            );
             return [base, [...forms].map(([form, signs]) => ({ form, signs }))];
         }),
     );
-    // A trailing standalone mark needs no vowel-specific row. Preserve a
-    // combined pitch-and-emphasis spelling as one row to canonicalize order.
-    const trailingSingle = (form, signs) =>
-        signs.length === 1 && /[\u0301\u0302\u030c]$/u.test(form);
-    for (const [mark, sign] of Object.entries(marks)) add(mark, ch(sign), cm(sign));
     const write = (from, letters) => {
         add(from, ch("carrier", ...letters), cm("carrier", ...letters), "at: start");
         add(from, ch(...letters), cm(...letters));
     };
     for (const [base, forms] of Object.entries(vowels))
-        for (const { form, signs } of forms)
-            if (!trailingSingle(form, signs)) write(form, [base, ...signs]);
+        for (const { form, signs } of forms) write(form, [base, ...signs]);
     for (const from of ["j", "J"]) write(from, ["y"]);
     const diphthongs = new Set([
         "ai",
@@ -248,10 +245,6 @@ function addSinaleVowels(add) {
             if (!long && diphthongs.has(first + last)) continue;
             for (const left of starts)
                 for (const right of ends) {
-                    // The shorter pair writes its vowel, then the standalone
-                    // trailing sign. Retain an explicit row when the two
-                    // spellings carry separate signs whose order may change.
-                    if (trailingSingle(right.form, right.signs) && !left.signs.length) continue;
                     const signs = [...left.signs, ...right.signs];
                     // A word permits one pitch mark and one emphasis mark;
                     // a pair must not consume repeated or conflicting signs.

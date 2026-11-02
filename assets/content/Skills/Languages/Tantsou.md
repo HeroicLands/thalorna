@@ -6,7 +6,7 @@ subType: language
 description: "The imperial speech of Tantsou—tonal and sung, logographic in script, built of single-syllable roots set side by side, with vernaculars that drift the farther one travels from the capital."
 tags: []
 data:
-  roman: "abcdefghijklmnorstuwyzABCDEFGHIJKLMNORSTUWYZ0123456789()–-"
+  roman: "abcdefghijklmnorstuwyz0123456789()–-"
   core: true
   abbreviation: Tant.
   fields:
@@ -243,31 +243,31 @@ data:
       field: Heaven, law and the order of things
       gloss: dream
       concept: dream
-    - form: "Huenlei"
+    - form: "huenlei"
       class: "n"
       field: "Heaven, law and the order of things"
       gloss: "the primordial chaos of the Unclassified"
-    - form: "Leichei"
+    - form: "leichei"
       class: "n"
       field: "Heaven, law and the order of things"
       gloss: '"Spirit-Wisdom": the daily meditative movement that realigns the body with its classification'
-    - form: "Ruising"
+    - form: "ruising"
       class: "n"
       field: "Heaven, law and the order of things"
       gloss: "state-ordered ritual suicide, imposed as a punishment"
-    - form: "Tengwo"
+    - form: "tengwo"
       class: "n"
       field: "Heaven, law and the order of things"
       gloss: "the Mandate of Heaven, the cosmic appointment by which the Emperor rules"
-    - form: "Wolei"
+    - form: "wolei"
       class: "n"
       field: "Heaven, law and the order of things"
       gloss: "spirit, the element the celestial bureaus govern collectively"
-    - form: "Tseising"
+    - form: "tseising"
       class: "n"
       field: "Heaven, law and the order of things"
       gloss: '"Self-death": ritual suicide performed to atone for dishonor or to protest'
-    - form: "Zhaolou"
+    - form: "zhaolou"
       class: "n"
       field: "Heaven, law and the order of things"
       gloss: "the Caste Laws, which fix every caste's rights, duties and restrictions"
@@ -316,7 +316,7 @@ data:
       field: Doing and describing
       gloss: new, lesser, small
       concept: [small, new]
-    - form: "Woja"
+    - form: "woja"
       class: "n"
       field: "People, rank and office"
       gloss: '"Sacred blade": the ceremonial dagger of a Tseising, often a family heirloom'
@@ -566,292 +566,292 @@ data:
     - {form: "no", class: "n", field: "Needs and common things", gloss: "honey"}
     - {form: ran, class: "n", field: "Needs and common things", gloss: "lacquer"}
     - {form: shi, class: "n", field: "Needs and common things", gloss: "comb"}
-    - form: Gaihuo
+    - form: gaihuo
       class: "n"
       field: "Senses and passions"
       gloss: "touch"
       concept: touch-noun
       built: [gai, huo]
-    - form: Hotsen
+    - form: hotsen
       class: "n"
       field: "Senses and passions"
       gloss: "wrath"
       concept: wrath
       built: [ho, tsen]
-    - form: Hatsen
+    - form: hatsen
       class: "n"
       field: "Senses and passions"
       gloss: "envy"
       concept: envy
       built: [ha, tsen]
-    - form: Lengtsen
+    - form: lengtsen
       class: "n"
       field: "Senses and passions"
       gloss: "hope"
       concept: hope
       built: [leng, tsen]
-    - form: Yeirong
+    - form: yeirong
       class: "n"
       field: "Senses and passions"
       gloss: "greed"
       concept: greed
       built: [yei, rong]
-    - form: Daotsong
+    - form: daotsong
       class: "n"
       field: "Senses and passions"
       gloss: "boasting"
       concept: boasting
       built: [dao, tsong]
-    - form: Daotsei
+    - form: daotsei
       class: "n"
       field: "Senses and passions"
       gloss: "pride"
       concept: pride
       built: [dao, tsei]
-    - form: Rinyei
+    - form: rinyei
       class: "n"
       field: "Senses and passions"
       gloss: "lust"
       concept: lust
       built: [rin, yei]
-    - form: Singtsen
+    - form: singtsen
       class: "n"
       field: "Senses and passions"
       gloss: "despair"
       concept: despair
       built: [sing, tsen]
-    - form: Jongtsen
+    - form: jongtsen
       class: "n"
       field: "Senses and passions"
       gloss: "disappointment"
       concept: disappointment
       built: [jong, tsen]
-    - form: Tengtsen
+    - form: tengtsen
       class: "n"
       field: "Senses and passions"
       gloss: "faith"
       concept: faith
       built: [teng, tsen]
-    - form: Rinhin
+    - form: rinhin
       class: "n"
       field: "Senses and passions"
       gloss: "romantic love (eros)"
       concept: love-eros
       built: [rin, hin]
-    - form: Douhin
+    - form: douhin
       class: "n"
       field: "Senses and passions"
       gloss: "friendship (philia)"
       concept: love-philia
       built: [dou, hin]
-    - form: Kenhin
+    - form: kenhin
       class: "n"
       field: "Senses and passions"
       gloss: "love of family (storge)"
       concept: love-storge
       built: [ken, hin]
-    - form: Ronghin
+    - form: ronghin
       class: "n"
       field: "Senses and passions"
       gloss: "selfless, universal love (agape)"
       concept: love-agape
       built: [rong, hin]
-    - form: Tsongluo
+    - form: tsongluo
       class: "n"
       field: "The body"
       gloss: "lip"
       concept: lip
       built: [tsong, luo]
-    - form: Binjeng
+    - form: binjeng
       class: "n"
       field: "The body"
       gloss: "elbow"
       concept: elbow
       built: [bin, jeng]
-    - form: Tingwei
+    - form: tingwei
       class: "n"
       field: "The body"
       gloss: "fingernail"
       concept: nail
       built: [ting, wei]
-    - form: Jojeng
+    - form: jojeng
       class: "n"
       field: "The body"
       gloss: "knee"
       concept: knee
       built: [jo, jeng]
-    - form: Daiting
+    - form: daiting
       class: "n"
       field: "The body"
       gloss: "toe"
       concept: toe
       built: [dai, ting]
-    - form: Tenglei
+    - form: tenglei
       class: "n"
       field: "Needs and common things"
       gloss: "air"
       concept: air
       built: [teng, lei]
-    - form: Minmei
+    - form: minmei
       class: "n"
       field: "Needs and common things"
       gloss: "sleep"
       concept: sleep-noun
       built: [min, mei]
-    - form: Liaojong
+    - form: liaojong
       class: "v"
       field: "Needs and common things"
       gloss: "to urinate"
       concept: urinate
       built: [liao, jong]
-    - form: Boujong
+    - form: boujong
       class: "v"
       field: "Needs and common things"
       gloss: "to defecate"
       concept: defecate
       built: [bou, jong]
-    - form: Zhuenhou
+    - form: zhuenhou
       class: "n"
       field: "Needs and common things"
       gloss: "shelter"
       concept: shelter
       built: [zhuen, hou]
-    - form: Denmou
+    - form: denmou
       class: "n"
       field: "Needs and common things"
       gloss: "chair"
       concept: chair
       built: [den, mou]
-    - form: Yuenmou
+    - form: yuenmou
       class: "n"
       field: "Needs and common things"
       gloss: "bed"
       concept: bed
       built: [yuen, mou]
-    - form: Kinja
+    - form: kinja
       class: "n"
       field: "Needs and common things"
       gloss: "key"
       concept: key
       built: [kin, ja]
-    - form: Lengsen
+    - form: lengsen
       class: "n"
       field: "Needs and common things"
       gloss: "window"
       concept: window
       built: [leng, sen]
-    - form: Hasen
+    - form: hasen
       class: "n"
       field: "Needs and common things"
       gloss: "shutters"
       concept: shutters
       built: [ha, sen]
-    - form: Shuija
+    - form: shuija
       class: "n"
       field: "Needs and common things"
       gloss: "knife"
       concept: knife
       built: [shui, ja]
-    - form: Lengho
+    - form: lengho
       class: "n"
       field: "Needs and common things"
       gloss: "lamp"
       concept: lamp
       built: [leng, ho]
-    - form: Loshen
+    - form: loshen
       class: "n"
       field: "Needs and common things"
       gloss: "clothes"
       concept: clothes
       built: [lo, shen]
-    - form: Lenwai
+    - form: lenwai
       class: "num"
       field: "Colour and number"
       gloss: "twenty"
       concept: twenty
       built: [len, wai]
-    - form: Chuotsi
+    - form: chuotsi
       class: "num"
       field: "Colour and number"
       gloss: "first"
       concept: first
       built: [chuo, tsi]
-    - form: Chuolen
+    - form: chuolen
       class: "num"
       field: "Colour and number"
       gloss: "second"
       concept: second
       built: [chuo, len]
-    - form: Chuotao
+    - form: chuotao
       class: "num"
       field: "Colour and number"
       gloss: "third"
       concept: third
       built: [chuo, tao]
-    - form: Zhazhan
+    - form: zhazhan
       class: "n"
       field: "Kin"
       gloss: "parent"
       concept: parent
       built: [zha, zhan]
-    - form: Mizhei
+    - form: mizhei
       class: "n"
       field: "Kin"
       gloss: "daughter"
       concept: daughter
       built: [mi, zhei]
-    - form: Kuona
+    - form: kuona
       class: "n"
       field: "Kin"
       gloss: "grandmother"
       concept: grandmother
       built: [kuo, na]
-    - form: Kuoto
+    - form: kuoto
       class: "n"
       field: "Kin"
       gloss: "grandfather"
       concept: grandfather
       built: [kuo, to]
-    - form: Shuizhei
+    - form: shuizhei
       class: "n"
       field: "Kin"
       gloss: "grandchild"
       concept: grandchild
       built: [shui, zhei]
-    - {form: Todong, class: "n", field: "Kin", gloss: "uncle", concept: uncle, built: [to, dong]}
-    - {form: Tonin, class: "n", field: "Kin", gloss: "aunt", concept: aunt, built: [to, nin]}
-    - form: Zhaodong
+    - {form: todong, class: "n", field: "Kin", gloss: "uncle", concept: uncle, built: [to, dong]}
+    - {form: tonin, class: "n", field: "Kin", gloss: "aunt", concept: aunt, built: [to, nin]}
+    - form: zhaodong
       class: "n"
       field: "Kin"
       gloss: "cousin"
       concept: cousin
       built: [zhao, dong]
-    - form: Kenchan
+    - form: kenchan
       class: "n"
       field: "Kin"
       gloss: "husband"
       concept: husband
       built: [ken, chan]
-    - {form: Kenmi, class: "n", field: "Kin", gloss: "wife", concept: wife, built: [ken, mi]}
-    - form: Kuolei
+    - {form: kenmi, class: "n", field: "Kin", gloss: "wife", concept: wife, built: [ken, mi]}
+    - form: kuolei
       class: "n"
       field: "Kin"
       gloss: "ancestor"
       concept: ancestor
       built: [kuo, lei]
-    - form: Jongzhei
+    - form: jongzhei
       class: "n"
       field: "Kin"
       gloss: "descendant"
       concept: descendant
       built: [jong, zhei]
-    - form: Mongzhei
+    - form: mongzhei
       class: "n"
       field: "Kin"
       gloss: "orphan"
       concept: orphan
       built: [mong, zhei]
-    - {form: Tsimi, class: "n", field: "Kin", gloss: "widow", concept: widow, built: [tsi, mi]}
+    - {form: tsimi, class: "n", field: "Kin", gloss: "widow", concept: widow, built: [tsi, mi]}
     - form: hi
       class: n
       gloss: sensation; sensory awareness of an impression

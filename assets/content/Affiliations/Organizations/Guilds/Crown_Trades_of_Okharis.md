@@ -130,7 +130,7 @@ The pastoral clans
 : the kingdom's larger demographic and the source of the wool, leather, livestock, and craft goods on which the Crown Trades' export economy depends. The relationship is mediated through the festival markets and through the standing courtesy of the clan chieftains who have informal arrangements with specific Crown Moneylenders.
 
 Vylarian merchant traffic
-: small but present. Vylarian Sea-port traders occasionally make the longer journey south to Okhárian territory for specialty goods (gold work, savannah herbs, hide products); the trade is conducted through a small number of specialist Heliónite merchant captains who maintain relationships with both the Crown Moneylenders and the Gar-Hálzi correspondent network.
+: small but present. Vylarian Sea-port traders occasionally make the longer journey south to Okhárian territory for specialty goods (gold work, savannah herbs, hide products); the trade is conducted through a small number of specialist Helionite merchant captains who maintain relationships with both the Crown Moneylenders and the Gar-Hálzi correspondent network.
 
 The [[affiliation-vezakuni|Vezakuni]]
 : distant Taruzelian counterpart. No formal arrangements; Taruzelian merchants visiting Okharis convert currency through the Crown Moneylenders at the standard foreign-exchange spread.

@@ -12,7 +12,7 @@ A money-changer at the [Grand Market Circle]{.name data-type="place/site"} in [[
 
 **Scope:** The Vylarian currency is the standard currency of the western and central [[place-ankrscntnnt|Ankaris]]. It is legal tender in [[affiliation-vylarinmpr|Vylaria]] and [[place-helionis|Helionis]], the territory under direct imperial governance and a province on paper. It is the practical standard of commerce in the kingdoms of the [[place-aureldirgn|Aureldia Region]] and [[place-byzariargn|Bizaria Region]], the post-imperial commonwealth members. It is accepted as a foreign currency, alongside the local Khelathi system, in the **[[place-nrthrnfrtlrgn|Northern Fertile Region]] of [[place-xerathia|Zerathia]]**: [[place-bethuargn|Bethua Region]], [[place-okharisrgn|Okharis Region]] and [[place-aukhelathrgq|Au'Khelathu Region]]. Outside these regions moneylenders will exchange it, but it is not the dominant medium of exchange.
 
-[[affiliation-tarmex|The Tarmeks Orzan]], the imperial treasury, mints and authorizes the currency. Provincial mints in Vylarian and Heliónite cities strike Ardini and Ogdeli under Tarmeks standards, and Soldeni are minted only at Orzara. The post-imperial polities mint no Vylarian coin of their own. Their commercial life draws on the imperial coinage without producing it.
+[[affiliation-tarmex|The Tarmeks Orzan]], the imperial treasury, mints and authorizes the currency. Provincial mints in Vylarian and Helionite cities strike Ardini and Ogdeli under Tarmeks standards, and Soldeni are minted only at Orzara. The post-imperial polities mint no Vylarian coin of their own. Their commercial life draws on the imperial coinage without producing it.
 
 ## The Three Coins
 
@@ -32,7 +32,7 @@ The Solden is rare in circulation. Perhaps 200,000 coins exist empire-wide at an
 
 ### The Ardin
 
-The Ardin is the workhorse of Vylarian commerce. It is a thin silver coin roughly 18 mm across and 1.5 grams in weight, struck three parts silver to one part alloy. The silver in it, a little over 1.1 grams, is the metal worth of one Ardin less the mint's small charge for striking, and a pound of silver is worth 400 Ardin. The obverse bears the imperial eagle and cipher. The reverse bears the value mark and the issuing mint's stamp: the Orzara mint mark, or the provincial mint mark on Vylarian and Heliónite provincial issues. The edge is milled.
+The Ardin is the workhorse of Vylarian commerce. It is a thin silver coin roughly 18 mm across and 1.5 grams in weight, struck three parts silver to one part alloy. The silver in it, a little over 1.1 grams, is the metal worth of one Ardin less the mint's small charge for striking, and a pound of silver is worth 400 Ardin. The obverse bears the imperial eagle and cipher. The reverse bears the value mark and the issuing mint's stamp: the Orzara mint mark, or the provincial mint mark on Vylarian and Helionite provincial issues. The edge is milled.
 
 The Ardin is the unit of account for everyday large commerce: a day's beer for a tavern of regulars, a craftsman's weekly settlement with his apprentice, the price of a working tool, a chicken at market, a night's lodging at a respectable inn. It is too large a coin for very small purchases, since one Ardin buys four loaves of common bread, which is why the Ogdel exists.
 

@@ -78,7 +78,7 @@ Spiced meats, flatbreads, honeyed pastries and strong coffee are the food of eve
 
 ## Coin and Script
 
-Land with Vylarian traveler's notes and the first moneylender you visit pushes them back across the table. The [[lore-trzlncrncy|Taruzelian currency]] uses the Vylarian denominations—1 Solden is 160 Ardin, and 1 Ardin is 8 Bits—but the coins are struck in Taruzel and banked through the [Merazuni]{.name data-type="affiliation/governmental"}, the treasury the Kubasum runs. The Taruzelian Solden is about 7 percent light by the Vylarian standard. It passes at face value anywhere in the islands; a Vylarian or Khelathi changer weighs it and pays less. Merazuni script is honored at any Merazuni-affiliated moneylender in the Confederation and at no Vylarian house, and the reverse holds too. A merchant crossing between the two converts through coin, usually at the Heliónite houses that keep accounts on both sides.
+Land with Vylarian traveler's notes and the first moneylender you visit pushes them back across the table. The [[lore-trzlncrncy|Taruzelian currency]] uses the Vylarian denominations—1 Solden is 160 Ardin, and 1 Ardin is 8 Bits—but the coins are struck in Taruzel and banked through the [Merazuni]{.name data-type="affiliation/governmental"}, the treasury the Kubasum runs. The Taruzelian Solden is about 7 percent light by the Vylarian standard. It passes at face value anywhere in the islands; a Vylarian or Khelathi changer weighs it and pays less. Merazuni script is honored at any Merazuni-affiliated moneylender in the Confederation and at no Vylarian house, and the reverse holds too. A merchant crossing between the two converts through coin, usually at the Helionite houses that keep accounts on both sides.
 
 ## The Anger Under the Coast
 

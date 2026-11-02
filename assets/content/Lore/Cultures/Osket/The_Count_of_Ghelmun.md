@@ -46,8 +46,8 @@ The first water, a day above the terrace./
 Nobody stopped there.
 
 The black shelf, under the overhang, where the yaks go one and one./
-[Shaung]{.name data-type="being/npc" lang=oske}, with a load of salt, at the opening of the road in my mother's last year. Seen./
-[Molshel]{.name data-type="being/npc" lang=oske}, with a load of barley, in the second month, the year after. Seen.
+[shaung]{.name data-type="being/npc" lang=oske}, with a load of salt, at the opening of the road in my mother's last year. Seen./
+[molshel]{.name data-type="being/npc" lang=oske}, with a load of barley, in the second month, the year after. Seen.
 
 [The household:]{.speaker} Kept.
 
@@ -56,7 +56,7 @@ The black shelf, under the overhang, where the yaks go one and one./
 ..The black shelf.
 
 The scree below the long shelf./
-[Qölkom]{.name data-type="being/npc" lang=oske}, with a load of copper, on the eleventh day of this season's second month. Seen.
+[qölkom]{.name data-type="being/npc" lang=oske}, with a load of copper, on the eleventh day of this season's second month. Seen.
 
 [Qolkel ties.]{.direction}
 
@@ -68,9 +68,9 @@ The scree below the long shelf./
 ..This is a new knot. Qolkel has it.
 
 The long shelf, two days of shelf, the ledge the road follows round the shoulder./
-[Hülsh]{.name data-type="being/npc" lang=oske}, with a load of nothing, coming back, in the cold at the end of last season. Seen./
-[Ghomse]{.name data-type="being/npc" lang=oske}, with two loads of indigo, in the first month of the year the bird circled the peak. Seen./
-[Baidosk]{.name data-type="being/npc" lang=oske}, with a load of salt, at the closing, before I held the count. Told.
+[hülsh]{.name data-type="being/npc" lang=oske}, with a load of nothing, coming back, in the cold at the end of last season. Seen./
+[ghomse]{.name data-type="being/npc" lang=oske}, with two loads of indigo, in the first month of the year the bird circled the peak. Seen./
+[baidosk]{.name data-type="being/npc" lang=oske}, with a load of salt, at the closing, before I held the count. Told.
 
 [The household:]{.speaker} Kept.
 
@@ -80,9 +80,9 @@ The long shelf, two days of shelf, the ledge the road follows round the shoulder
 ..I do not say what the bird was doing. I say the mornings, and the shelf, and the load./
 
 The hail stage, above the shelf, where there is no water and the shelter is a wall of stones./
-[Ghaulum]{.name data-type="being/npc" lang=oske}, with a load of wool, in the second month of a year my mother counted. Told./
-[Hülkh]{.name data-type="being/npc" lang=oske}, with a load of salt, in the same month. Told./
-[Nushang]{.name data-type="being/npc" lang=oske}, with a load of barley, on the same day. Told.
+[ghaulum]{.name data-type="being/npc" lang=oske}, with a load of wool, in the second month of a year my mother counted. Told./
+[hülkh]{.name data-type="being/npc" lang=oske}, with a load of salt, in the same month. Told./
+[nushang]{.name data-type="being/npc" lang=oske}, with a load of barley, on the same day. Told.
 
 [The household:]{.speaker} Kept.
 
@@ -113,8 +113,8 @@ That is theirs. Nobody of this road stopped on the col.
 ..Over the col we go down. The count goes down as the road does.
 
 The cold shelf, the first stage down, where the ice moves in the warm years./
-[Khülom]{.name data-type="being/npc" lang=oske}, with a load of tin, in a year my mother counted. Told./
-[Aungur]{.name data-type="being/npc" lang=oske}, with a load of salt, in the year before that. Told.
+[khülom]{.name data-type="being/npc" lang=oske}, with a load of tin, in a year my mother counted. Told./
+[aungur]{.name data-type="being/npc" lang=oske}, with a load of salt, in the year before that. Told.
 
 [The household:]{.speaker} Kept.
 
@@ -123,7 +123,7 @@ The cold shelf, the first stage down, where the ice moves in the warm years./
 ..and the cord has it, and I walk the shelf a man's length further from the ice than she did.
 
 The two waters, where the streams come in from both sides./
-[Hülsh]{.name data-type="being/npc" lang=oske}, my sister's son, with a load of iron, coming back over to us, on the last day of this season. Seen.
+[hülsh]{.name data-type="being/npc" lang=oske}, my sister's son, with a load of iron, coming back over to us, on the last day of this season. Seen.
 
 [Qolkel ties.]{.direction}
 
@@ -134,15 +134,15 @@ The two waters, where the streams come in from both sides./
 ..He was coming back with the iron. The iron is here.
 
 The scree of the far side, the long stone slope./
-[Qolash]{.name data-type="being/npc" lang=oske}, with a load of salt, at the closing, in my mother's mother's first year of holding the count. Told./
-[Golkash]{.name data-type="being/npc" lang=oske}, with a load of barley, in the second month of that year. Told.
+[qolash]{.name data-type="being/npc" lang=oske}, with a load of salt, at the closing, in my mother's mother's first year of holding the count. Told./
+[golkash]{.name data-type="being/npc" lang=oske}, with a load of barley, in the second month of that year. Told.
 
 [The household:]{.speaker} Kept.
 
 Here my mother's mother began.
 
 ..Before her the cord was Uchom's./
-..[Uchom]{.name data-type="being/npc" lang=oske} kept the cord of this hearth and was taken by a fever in the closed months, in her thirtieth year,/
+..[uchom]{.name data-type="being/npc" lang=oske} kept the cord of this hearth and was taken by a fever in the closed months, in her thirtieth year,/
 ..and had not given the cord to the one after her./
 ..The cord is in the store-room. Nobody has read it since. Nobody will.
 

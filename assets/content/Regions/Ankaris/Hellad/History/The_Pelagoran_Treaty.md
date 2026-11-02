@@ -74,7 +74,7 @@ Pelagora became the [Vylarian Republic]{.name data-type="affiliation/polity"}'s 
 
 - **The rivalry between [[affiliation-thyrenae|Thirenae]] and Pelagora**, which Thirenaeans date to this year. Each city needs the other, and neither forgives it.
 - **Pelagora's hold on Bethua**, kept as an allied city's colony through the imperial age and lost only in [[lore-bethuasep|the separation]] of 615 AF.
-- **The Pelagoran squadrons in Vylarian service**, the root of the Heliónite captains now hired across the sea against Bethuan privateers.
+- **The Pelagoran squadrons in Vylarian service**, the root of the Helionite captains now hired across the sea against Bethuan privateers.
 - **Pelagora's boast** that it has never been conquered.
 - **The bronze copy** in the agorin, one line of which a Thirenaean student has chiselled away.
 

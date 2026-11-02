@@ -18,13 +18,13 @@ The Taruzelian currency is the Confederation's post-secession monetary system. I
 
 The Taruzelian Solden is, by standard Vylarian assay, **slightly underweight**—about 7 percent below the Vylarian gold content. The discount is acknowledged in cross-border transactions but not advertised; in inter-Taruzelian commerce the coin passes at face value. Taruzelian Ardin are struck to the full Vylarian standard (about 1.5 g, three parts silver to one of alloy) and pass at full value in all systems where silver is silver.
 
-The Merazuni issues script (the Taruzelian equivalent of Vylarian traveler's notes and master notes) honored at any Merazuni-affiliated moneylender house across the Confederation. The script is not honored at any chapter of [[affiliation-danvar|the Danvar]], the Vylarian institution; cross-border travel between Taruzelian and Vylarian territory requires conversion to physical coin at a changer's office (typically Heliónite intermediaries who maintain accounts at both institutions).
+The Merazuni issues script (the Taruzelian equivalent of Vylarian traveler's notes and master notes) honored at any Merazuni-affiliated moneylender house across the Confederation. The script is not honored at any chapter of [[affiliation-danvar|the Danvar]], the Vylarian institution; cross-border travel between Taruzelian and Vylarian territory requires conversion to physical coin at a changer's office (typically Helionite intermediaries who maintain accounts at both institutions).
 
 The Taruzelian currency exists because the Confederation refused to remain dependent on Vylarian banking infrastructure after secession but had no realistic alternative to the existing denomination structure. The result is Vylarian denominations under Taruzelian sovereignty: a Confederation politically independent of the empire and commercially next door to it.
 
 ## The Institutions Behind It
 
-The institutional infrastructure of the Taruzelian currency—the Merazuni, the Kubasum's office, the [Treasurers' Guild]{.name data-type="affiliation/guild"} (the Taruzelian moneylenders' guild), the cross-border script arrangements with Heliónite intermediaries, the inter-system tensions and their resolutions—is described in detail in the [[affiliation-vezakuni|Vezakuni]] institutional note (see the _Kubasum's Office_ section).
+The institutional infrastructure of the Taruzelian currency—the Merazuni, the Kubasum's office, the [Treasurers' Guild]{.name data-type="affiliation/guild"} (the Taruzelian moneylenders' guild), the cross-border script arrangements with Helionite intermediaries, the inter-system tensions and their resolutions—is described in detail in the [[affiliation-vezakuni|Vezakuni]] institutional note (see the _Kubasum's Office_ section).
 
 ## Conversion Ratios
 
@@ -43,7 +43,7 @@ In casual commerce within Taruzelian territory the underweight Solden passes at 
 | Region                              | Status                                                                                                                              |
 | ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | Confederation of Taruzelian States  | Native standard                                                                                                                     |
-| Vylarian Sea trading ports          | Accepted at the Heliónite intermediary houses for conversion to Vylarian script; otherwise rare                                     |
+| Vylarian Sea trading ports          | Accepted at the Helionite intermediary houses for conversion to Vylarian script; otherwise rare                                     |
 | [[place-helionis\|Helionis]] proper | Specific Danvar chapters maintain quiet correspondent arrangements with named Merazuni-affiliated houses; not publicly acknowledged |
 | Northern Fertile Region             | Accepted as foreign currency through changers; conversion to Khelathi weight-pieces                                                 |
 | Elsewhere                           | Effectively absent                                                                                                                  |

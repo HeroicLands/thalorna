@@ -183,7 +183,7 @@ test("Kalihari keeps the complete original stock, body and reserved interpretati
     const originalWords = language.fm.data.words.slice(0, 59);
     assert.equal(
         hash(originalWords.map(({ concept, ...w }) => w)),
-        "f458dbc7334b0e278b526e08d026c991452feb5d0f6277a24ffb80c3d1df8a7a",
+        "ba6f04019e7cdcaa9836915f3b82463753c586e75eeb3fe9f2a833301015a03d",
     );
     for (const [form, id] of [
         ["vaar-", "hold"],

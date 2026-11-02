@@ -581,15 +581,15 @@ At the start of a word in [[skill-okharclng|Okharik]], _mb_, _nd_, _ng_, _nk_ an
 
 Sinale may annotate a performance on the selected vowel nucleus. These marks change delivery, not the vowel's identity or the fixed first-syllable stress:
 
-| Delivery      | Roman example and Unicode                        | Combining mark                     | Veldikko font assignment |
-| ------------- | ------------------------------------------------ | ---------------------------------- | ------------------------ |
-| falling pitch | _ǎ_, U+01CE LATIN SMALL LETTER A WITH CARON      | U+030C COMBINING CARON             | FALL, U+1ED7A            |
-| rising pitch  | _â_, U+00E2 LATIN SMALL LETTER A WITH CIRCUMFLEX | U+0302 COMBINING CIRCUMFLEX ACCENT | RISE, U+1ED79            |
-| emphasis      | _á_, U+00E1 LATIN SMALL LETTER A WITH ACUTE      | U+0301 COMBINING ACUTE ACCENT      | EMPHASIS, U+1ED7B        |
+| Delivery      | Roman example and Unicode                        | Veldikko font assignment |
+| ------------- | ------------------------------------------------ | ------------------------ |
+| falling pitch | _ǎ_, U+01CE LATIN SMALL LETTER A WITH CARON      | FALL, U+1ED7A            |
+| rising pitch  | _â_, U+00E2 LATIN SMALL LETTER A WITH CIRCUMFLEX | RISE, U+1ED79            |
+| emphasis      | _á_, U+00E1 LATIN SMALL LETTER A WITH ACUTE      | EMPHASIS, U+1ED7B        |
 
-The native values are assignments in the project's Veldikko font, not Unicode-standard names for Veldikko letters. The combining marks allow the same notation on other vowels. Existing _ë_ (U+00EB LATIN SMALL LETTER E WITH DIAERESIS) remains a distinct Sinale vowel.
+The native values are assignments in the project's Veldikko font, not Unicode-standard names for Veldikko letters. A mark is written as a precomposed letter, so a vowel takes only the marks a letter carries: _a_, _e_, _i_, _o_ and _u_ take all three, _y_ takes the circumflex and the acute, and _ë_ (U+00EB LATIN SMALL LETTER E WITH DIAERESIS), a distinct Sinale vowel, takes none.
 
-_Pelvailǎ_ marks a falling call, _Pelvailâ_ a rise, and _Pélvaila_ emphasis on the first syllable. A called name keeps its full spelling and never wears. Acute emphasis may accompany one pitch mark; caron and circumflex are mutually exclusive. An unmarked line still has spoken pitch. Written questions retain _uvi_; a rise does not replace the question particle.
+_Pelvailǎ_ marks a falling call, _Pelvailâ_ a rise, and _Pélvaila_ emphasis on the first syllable. A called name keeps its full spelling and never wears. Acute emphasis may accompany one pitch mark where a letter carries both (_ấ_, _ế_, _ố_) or on the other letter of a doubled vowel; caron and circumflex are mutually exclusive. An unmarked line still has spoken pitch. Written questions retain _uvi_; a rise does not replace the question particle.
 
 ## Sovidur
 

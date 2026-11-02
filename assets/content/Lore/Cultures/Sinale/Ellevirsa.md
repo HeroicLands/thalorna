@@ -249,7 +249,7 @@ The one who said keep them out, who kept the watch at the pass: [Nylkitti Esseli
 :::
 
 ::: {.verse form=ellante lang=sina enc=sinaveldikkoenc work=song}
-olkai ehii [  ]{lang=en}/
+olkai ehii [ ]{lang=en}/
 .olkai ehii ahi halte ehii ihaho oso olkai ehii onsatos ahi luuro ehii onsa/
 olkai ehii eikka tehyhe aldis issalteho eho aunekke ehii ulnavaho/
 .lonsi ehii aunekkeho ahi evatte lirne ehii eho onsa ahi evatte lirne ehii ahi eho onsa/
