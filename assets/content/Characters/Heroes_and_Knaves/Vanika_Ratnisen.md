@@ -424,7 +424,7 @@ Vanika stands 5'10" tall with a medium build. She has warm wheat skin, deep blac
 
 ### The Kitchen Born
 
-Born in 679 in one of the [[place-vedyarargn|Vedyara Region]]'s prosperous merchant cities, Vanika grew up in a household where food was the primary language of hospitality and cultural expression as well as sustenance. Her family operated a modest but respected inn, and from earliest childhood she was surrounded by cooking fires, the aromas of spices and roasting meats, and the constant flow of travelers for whom her family's meals became the memorable center of their visits. She apprenticed formally under her mother and later under a succession of respected master cooks, learning recipes and, beyond them, the underlying principles of flavor, texture, and cultural nutrition that make food memorable.
+Born in 679 in [[place-rajepur|Rajepur]], the temple town that lodges the pilgrims of the Spring Festival, Vanika grew up in a household where food was the primary language of hospitality and cultural expression as well as sustenance. Her family operated a modest but respected inn, and from earliest childhood she was surrounded by cooking fires, the aromas of spices and roasting meats, and the constant flow of travelers for whom her family's meals became the memorable center of their visits. She apprenticed formally under her mother and later under a succession of respected master cooks, learning recipes and, beyond them, the underlying principles of flavor, texture, and cultural nutrition that make food memorable.
 
 ### The Master of the Craft
 
@@ -440,7 +440,7 @@ Now in her early forties, Vanika has begun to feel the cumulative toll of her tr
 
 Vanika is a woman of unpretentious directness and warmth, confident in her particular domain and straightforward in her judgments. In her kitchen, she is absolute authority—her word is law, her standards non-negotiable, her decisions final. Yet this same authority dissolves somewhat when she moves beyond cooking; she becomes less certain, more deferential to those of higher social status, occasionally defensive about her station. She is prone to blunt speech, saying what she believes with little concern for diplomatic softness, which can seem harsh to those unaccustomed to her manner. Yet those who know her well understand that her directness emerges from care—she speaks truthfully because she respects her audience.
 
-Her commitment to the [[affiliation-rasikara|Faith of Rasikara]], devoted to [[lore-rasikaradty|Rasikara]], goddess of fire and transformation, is expressed through her cooking; she sees in the transformation of raw ingredients through heat a sacred process, a manifestation of divine principle. She approaches her work with reverence and ritual care, and she believes that food prepared with intention and mastery carries spiritual dimension beyond mere nutrition. She is practical and unsentimental about most matters, yet capable of surprising gentleness when engaged with the young, the suffering, or the truly lost. She forms few deep personal relationships but those she does form are characterized by uncommon loyalty and protective fierceness. She possesses a dry humor, often deployed to deflect seriousness or to communicate affection to those with whom she shares particular bonds.
+Her commitment to the [[affiliation-rasikara|Faith of Rasikara]], devoted to [[lore-rasikaradty|Rasikara]], god of fire and transformation, is expressed through her cooking; she sees in the transformation of raw ingredients through heat a sacred process, a manifestation of divine principle. She approaches her work with reverence and ritual care, and she believes that food prepared with intention and mastery carries spiritual dimension beyond mere nutrition. She is practical and unsentimental about most matters, yet capable of surprising gentleness when engaged with the young, the suffering, or the truly lost. She forms few deep personal relationships but those she does form are characterized by uncommon loyalty and protective fierceness. She possesses a dry humor, often deployed to deflect seriousness or to communicate affection to those with whom she shares particular bonds.
 
 ### Motivation
 
@@ -494,7 +494,7 @@ Intolerance for Incompetence
 : One of Vedyara's most prominent merchants and a devoted admirer of Vanika's cooking; he regularly hosts dinners at his residence and specifically requests that Vanika be hired to prepare meals, paying premium fees for her services.
 
 Priestess [[being-mandulikulan|Manduli]]
-: High priestess of Rasikara's temple and a fellow devotee of the fire goddess; she has commissioned Vanika to prepare ritual meals and has become something of spiritual companion and advocate.
+: High priestess of Rasikara's temple and a fellow devotee of the fire god; she has commissioned Vanika to prepare ritual meals and has become something of spiritual companion and advocate.
 
 [The Ratnisen Family]{.name data-type="affiliation/lineage"}
 : Her extended family, for whom she continues to work as head cook; they have given her unusual autonomy and have supported her work despite its demands.
@@ -515,11 +515,11 @@ Innkeeper [Bhavon]{.name data-type="being/npc"}
 
 ### Affiliations
 
-[City Cooks' Shrena]{.name data-type="affiliation/guild"}
+The cooks' shrena of Rajepur
 : A senior member whose counsel is sought on matters of traditional practice and culinary standards; she serves informally as voice for traditional approaches within an organization increasingly given to novelty.
 
-[The Fellowship of Rasikara]{.name data-type="affiliation"}
-: A lay devotional group honoring the fire goddess; Vanika participates in ritual observances and has begun to develop deeper theological engagement through this community.
+The lay devotees of [[affiliation-rasikara|Rasikara]]
+: A lay devotional group honoring the fire god; Vanika participates in ritual observances and has begun to develop deeper theological engagement through this community.
 
 The Ratnisen House Inn
 : Her primary workplace and family enterprise where she maintains full creative authority over all culinary operations.
@@ -527,10 +527,10 @@ The Ratnisen House Inn
 ## Plot Hooks
 
 The Culinary Competition and the Poisoned Dish
-: Vanika is approached by Shrena leadership to represent traditional cooking in a prestigious culinary competition—a showcase of the greatest chefs in Vedyara competing before judges of the great houses. The competition promises significant prestige and financial reward for the victor, yet it will require Vanika to showcase her work beside the fashionable cooks she has previously dismissed. As preparation begins, her competitors and rivals intensify, and she begins to discover that someone is subtly sabotaging her preparations—tainting ingredients, damaging her kitchen tools, spreading false rumors about her reliability. The competition becomes a battle of integrity and reputation as much as of culinary skill.
+: Vanika is approached by the cooks' shrena to represent traditional cooking in a prestigious culinary competition at the Spring Festival of Vyalendra—a showcase of the greatest chefs in Vedyara competing before judges of the temple and the sabhra. The competition promises significant prestige and financial reward for the victor, yet it will require Vanika to showcase her work beside the fashionable cooks she has previously dismissed. As preparation begins, her competitors and rivals intensify, and she begins to discover that someone is subtly sabotaging her preparations—tainting ingredients, damaging her kitchen tools, spreading false rumors about her reliability. The competition becomes a battle of integrity and reputation as much as of culinary skill.
 
 The Mysterious Illness and the Culinary Cure
-: A plague or mysterious illness begins afflicting the residents of Vedyara—people become chronically debilitated, weak, unable to gain nutrition from normal food. The temple healers and physicians are baffled. In desperation, someone approaches Vanika with a peculiar request: could her mastery of nutrition and food preparation perhaps address the medical crisis in ways that physicians cannot? This unusual commission forces her into an unfamiliar role as healer and inventor, requiring her to develop new approaches, research unusual ingredients, and collaborate with priestesses and physicians. Success would bring her extraordinary recognition and validate her knowledge in new ways, but failure would be publicly humiliating and potentially dangerous if her efforts are blamed for worsening the crisis.
+: A plague or mysterious illness begins afflicting the people of Rajepur and its villages—people become chronically debilitated, weak, unable to gain nutrition from normal food. The temple healers and physicians are baffled. In desperation, someone approaches Vanika with a peculiar request: could her mastery of nutrition and food preparation perhaps address the medical crisis in ways that physicians cannot? This unusual commission forces her into an unfamiliar role as healer and inventor, requiring her to develop new approaches, research unusual ingredients, and collaborate with priestesses and physicians. Success would bring her extraordinary recognition and validate her knowledge in new ways, but failure would be publicly humiliating and potentially dangerous if her efforts are blamed for worsening the crisis.
 
 The Family Secret and the Ancestral Recipe
 : An elderly relative dies and leaves Vanika a collection of handwritten recipes in an archaic dialect—recipes from generations of women in their family who were apparently cooks to great houses or perhaps even royalty in ancient times. The recipes describe dishes of extraordinary complexity and sophistication, suggesting that her family possesses culinary heritage far more distinguished than she realized. Yet some recipes include ingredients she cannot identify, techniques she does not understand, and apparent references to spiritual or magical properties of food. She can pursue mastery of these ancestral recipes (which could dramatically elevate her standing) and risk being changed by this previously unknown family history, or set the recipes aside as impractical nostalgia.

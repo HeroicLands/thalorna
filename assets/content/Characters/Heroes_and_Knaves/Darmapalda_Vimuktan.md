@@ -417,11 +417,11 @@ Darmapalda stands 6'1" tall with a medium build. He has warm golden brown skin, 
 
 # Dossier {#dossier}
 
-Darmapalda emerged from the lower stations of the [[place-vedyarargn|Vedyara Region]]'s allied city-states, where survival and advancement required more than talent—it required ruthlessness, adaptability, and an ability to read human intention faster than others could act. His early years remain obscured by deliberate obscurity, though rumors suggest he was orphaned young and entered service to a Shroshtin known for employing street-born fighters. By his early twenties, Darmapalda had distinguished himself as a bodyguard, accumulating a reputation for keeping his employers alive through situations that should have proven fatal.
+Darmapalda emerged from the lower stations of the town below the bow-fort at [[place-danurkot|Danurkot]], where survival and advancement required more than talent—it required ruthlessness, adaptability, and an ability to read human intention faster than others could act. His early years remain obscured by deliberate obscurity, though rumors suggest he was orphaned young and entered service to a Shroshtin known for employing street-born fighters. A Karmija bears arms only as a levy or by an academy's grant, and he carries the grant of one of [[affiliation-dnrktjnpd|Danurkot's academies]], which take students of any station. By his early twenties, Darmapalda had distinguished himself as a bodyguard, accumulating a reputation for keeping his employers alive through situations that should have proven fatal.
 
-The flower tattoo appeared around the time he entered [The Mercenaries Shrena of Vedyara]{.name data-type="affiliation/guild"} proper, marking either a binding oath or a commemoration of personal loss—Darmapalda offers no explanation. Over the next decade, he refined himself from street-fighter to bodyguard of the first rank, developing the foresight and eye for threats that set him apart from merely competent soldiers. He studied the ways of multiple city-states, learning their hierarchies and vulnerabilities, and began taking commissions that demanded not brute force but insight into people and inventive thinking.
+The flower tattoo appeared around the time he entered the bodyguards' shrena proper, marking either a binding oath or a commemoration of personal loss—Darmapalda offers no explanation. Over the next decade, he refined himself from street-fighter to bodyguard of the first rank, developing the foresight and eye for threats that set him apart from merely competent soldiers. He studied the ways of the kingdoms and the cities, [[place-vyalendra3|Vyalendra]] most of all, learning their hierarchies and vulnerabilities, and began taking commissions that demanded not brute force but insight into people and inventive thinking.
 
-Now he operates from the margins of [[lore-vedyariclt|Vedyaran]] society, available to those wealthy and discreet enough to seek him through proper channels. Though nominally affiliated with the Mercenaries Shrena, Darmapalda maintains fierce independence and careful separation from entanglements with other shrena members or formal power structures.
+Now he operates from the margins of [[lore-vedyariclt|Vedyaran]] society, available to those wealthy and discreet enough to seek him through proper channels. Though nominally affiliated with the bodyguards' shrena, Darmapalda maintains fierce independence and careful separation from entanglements with other shrena members or formal power structures.
 
 ## Psyche
 
@@ -484,18 +484,18 @@ Master Surgeon [Devak]{.name data-type="being/npc"}
 
 ### Enemies
 
-Captain [[being-nagaritgaj|Nagarit]] of the [City Guard]{.name data-type="affiliation"}
+[[being-nagaritgaj|Nagarit]], Commander of [[affiliation-vyalendra2|Vyalendra's Watch]]
 : A corrupt official who views Darmapalda's independence from his authority as insult and has made his removal a personal crusade, generating false charges and attempting to cut off his legitimate work.
 
 [[affiliation-gargezru|Gar-Gezru]]
-: A criminal organization that attempted to hire Darmapalda for unforgivable purposes; when he refused and reported them to city authorities, they marked him for death and have pursued this vendetta with cold determination.
+: A criminal organization that attempted to hire Darmapalda for unforgivable purposes; when he refused and reported them to the Watch in Vyalendra, they marked him for death and have pursued this vendetta with cold determination.
 
 [Kanduta the Knife]{.name data-type="being/npc"}
-: A rival bodyguard and occasional shreni-mate who views Darmapalda as having stolen commissions that should have been his, and who harbors deep resentment over a past failure to protect a client where Darmapalda succeeded.
+: A rival bodyguard and occasional shrena-mate who views Darmapalda as having stolen commissions that should have been his, and who harbors deep resentment over a past failure to protect a client where Darmapalda succeeded.
 
 ### Affiliations
 
-The Mercenaries Shrena of Vedyara
+The bodyguards' shrena
 : Formally affiliated but deliberately maintaining distance from organizational involvement and factional disputes.
 
 ## Plot Hooks
@@ -504,13 +504,13 @@ The Poisoned Patron
 : A wealthy merchant-family that has retained Darmapalda for three years suddenly begins to die in mysterious ways—servants first, then junior family members, then the family head himself. The poisons are subtle and leave no obvious trace, and the family's own paranoid response is making Darmapalda's job of protection almost impossible. Worse, someone has begun spreading rumors that Darmapalda himself is the poisoner, hired by a rival faction to eliminate the family from within. He must identify the true source of the poisoning, protect his increasingly desperate and irrational clients, and restore his shattered reputation before the entire family is eliminated and he is blamed.
 
 The Lost Child
-: A member of a lesser great house approaches Darmapalda with a desperate and dangerous commission—her young daughter, kidnapped by rivals in a city-state faction war, is being held in a fortress across the border. The family cannot involve official authorities without putting the child at risk. Darmapalda must assemble a team, penetrate a well-defended position, extract a terrified young girl who has bonded with her captors, and escape to safety. The complication arrives when he discovers the girl's captors are the true family of a child switched at birth, not the brutal kidnappers described—and the real hostage-taker is the great house itself, motivated by greed rather than any belief in their claim.
+: A member of a lesser great house of [[place-chendrapur2|Chendrapur]] approaches Darmapalda with a desperate and dangerous commission—her young daughter, kidnapped by rivals in a feud among the city's houses, is being held in a fortress across the border. The family cannot involve official authorities without putting the child at risk. Darmapalda must assemble a team, penetrate a well-defended position, extract a terrified young girl who has bonded with her captors, and escape to safety. The complication arrives when he discovers the girl's captors are the true family of a child switched at birth, not the brutal kidnappers described—and the real hostage-taker is the great house itself, motivated by greed rather than any belief in their claim.
 
 The Flower's Secret
 : The flower tattoo on Darmapalda's ankle is recognized by an unexpected visitor—a woman who bears an identical mark and claims to be connected to a vow he made years ago, a vow he has never openly acknowledged. She arrives with news that someone is hunting everyone bearing the flower mark, systematically eliminating them. She believes Darmapalda can help her uncover why, and what oath was sworn so many years ago. Accepting her help would mean confronting the past he has spent years suppressing and potentially compromising the emotional distance that allows him to function.
 
-The Corrupted Guard Captain
-: Captain Nagarit of the City Guard, who has pursued Darmapalda with vendetta-like intensity, suddenly approaches him with a shocking revelation—Nagarit himself is compromised, under threat by the Crimson Syndicate, and forced to pursue false charges against Darmapalda. Nagarit offers a desperate bargain: help him escape the Syndicate's control, and he will clear Darmapalda's name and cease his persecution. It's clearly a trap, but Nagarit's desperation appears real. Either this is a legitimate opportunity for redemption or an elaborate setup designed to finally deliver him to his enemies.
+The Corrupted Commander
+: Nagarit, Commander of Vyalendra's Watch, who has pursued Darmapalda with vendetta-like intensity, suddenly approaches him with a shocking revelation—Nagarit himself is compromised, under threat by the Crimson Syndicate, and forced to pursue false charges against Darmapalda. Nagarit offers a desperate bargain: help him escape the Syndicate's control, and he will clear Darmapalda's name and cease his persecution. It's clearly a trap, but Nagarit's desperation appears real. Either this is a legitimate opportunity for redemption or an elaborate setup designed to finally deliver him to his enemies.
 
 The Master's Test
-: An elderly master-at-arms from the mercenary tradition arrives in Vedyara claiming to be seeking Darmapalda for a final and impossible commission—a student who demonstrates the flowers-mark must travel to a remote temple and compete in a series of trials against other marked warriors. Supposedly, only one will emerge, and that one will be freed from the mark forever, released from the unspoken vow. The master claims this is tradition, a path offered to those bearing the flower once each generation. Darmapalda's instincts scream trap, but the thought of freedom from the vow—of finally understanding its origins—pulls him toward participation despite every tactical instinct screaming danger.
+: An elderly master-at-arms from the mercenary tradition arrives in Danurkot claiming to be seeking Darmapalda for a final and impossible commission—a student who demonstrates the flowers-mark must travel to a remote temple and compete in a series of trials against other marked warriors. Supposedly, only one will emerge, and that one will be freed from the mark forever, released from the unspoken vow. The master claims this is tradition, a path offered to those bearing the flower once each generation. Darmapalda's instincts scream trap, but the thought of freedom from the vow—of finally understanding its origins—pulls him toward participation despite every tactical instinct screaming danger.

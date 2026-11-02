@@ -421,15 +421,15 @@ Viranga stands 6'0" tall with a medium build. He has deep brown skin, very dark 
 
 **The Burden of Inheritance**
 
-Viranga was born into the [House of Dukshana]{.name data-type="affiliation/lineage"} during a period of significant transformation in the [[affiliation-janpdsvdyr|Janpodas of Vedyara]] city-states. His father, the previous head of the holding, was a traditionalist of the old school—one who maintained the ancestral lands through methods that his father's father had employed, with little consideration for changing circumstances or innovative approaches. The boy showed early aptitude for the practical arts: he could calculate yields in his head, could diagnose crop diseases that stumped older farmers, and possessed an almost unnatural intuition for understanding the rhythms of seasons and soil. Rather than suppressing these tendencies as mere curiosities unsuitable for great houses, his mother—a woman of reforming temper from a distant city-state—encouraged her son's intellectual pursuits, secretly commissioning tutors in agriculture, mathematics, and natural philosophy.
+Viranga was born into the [House of Dukshana]{.name data-type="affiliation/lineage"} during a period of significant transformation in [[affiliation-suvrgrjnpd|Suvargeri]] and the other [[affiliation-janpdsvdyr|Janpodas of Vedyara]]. His father, the previous head of the holding, was a traditionalist of the old school—one who maintained the ancestral lands through methods that his father's father had employed, with little consideration for changing circumstances or innovative approaches. The boy showed early aptitude for the practical arts: he could calculate yields in his head, could diagnose crop diseases that stumped older farmers, and possessed an almost unnatural intuition for understanding the rhythms of seasons and soil. Rather than suppressing these tendencies as mere curiosities unsuitable for great houses, his mother—a woman of reforming temper from a distant kingdom—encouraged her son's intellectual pursuits, secretly commissioning tutors in agriculture, mathematics, and natural philosophy.
 
 **The Transformation**
 
-When Viranga inherited the holding at the age of twenty-four, following his father's unexpected death from a wasting illness, he immediately set about implementing the ideas he had spent years formulating in secret. He introduced crop rotation systems based on principles of soil regeneration rather than continuous exploitation. He established fair prices for goods purchased from the farmers under his stewardship, a practice that seemed almost radical in an age where maximizing profit was considered the only sensible pursuit of the great houses. He invested in irrigation systems, grain storage facilities, and even a modest library where farmers and their children could access written knowledge about improved cultivation techniques. The initial resistance from traditional great houses gradually transformed into grudging respect as the Dukshana holding became increasingly prosperous and the lands under his control became among the most productive in Vedyara.
+When Viranga inherited the holding at the age of twenty-four, following his father's unexpected death from a wasting illness, he immediately set about implementing the ideas he had spent years formulating in secret. He introduced crop rotation systems based on principles of soil regeneration rather than continuous exploitation. He established fair prices for goods purchased from the farmers under his stewardship, a practice that seemed almost radical in an age where maximizing profit was considered the only sensible pursuit of the great houses. He invested in irrigation systems, grain storage facilities, and even a modest library where farmers and their children could access written knowledge about improved cultivation techniques. The initial resistance from traditional great houses gradually transformed into grudging respect as the Dukshana holding became increasingly prosperous and the lands under his control became among the most productive in the highlands.
 
 **The Current Balance**
 
-Now at thirty-three winters, Viranga finds himself in an unusual position: respected by the common folk and the reforming great houses for his new methods, yet viewed with suspicion by traditional powers who sense in his philosophy a challenge to their way of life. He maintains an impossible balance between idealistic conviction and pragmatic governance, constantly aware that his position grants him privilege but also imposes responsibility to those who depend upon his stewardship. He has begun to receive inquiries from other city-states seeking to adopt his methods, placing him in the uncomfortable position of having to choose between expanding his influence and maintaining focus on his own holding. This choice will likely define the next chapter of his life.
+Now at thirty-three winters, Viranga finds himself in an unusual position: respected by the common folk and the reforming great houses for his new methods, yet viewed with suspicion by traditional powers who sense in his philosophy a challenge to their way of life. He maintains an impossible balance between idealistic conviction and pragmatic governance, constantly aware that his position grants him privilege but also imposes responsibility to those who depend upon his stewardship. He has begun to receive inquiries from other janpodas and from the kingdoms seeking to adopt his methods, placing him in the uncomfortable position of having to choose between expanding his influence and maintaining focus on his own holding. This choice will likely define the next chapter of his life.
 
 ## Psyche
 
@@ -454,7 +454,7 @@ Clear-Eyed Pragmatism
 : Despite his idealistic leanings, he is capable of making difficult decisions when necessity demands, and he does not allow dreams of the perfect to prevent achievement of the good.
 
 Natural Authority
-: Those under his stewardship—from lowest laborer to visiting Kulinas—consistently describe him as someone worth following, even when his decisions prove unpopular. This stems from his visible commitment to his stated principles.
+: Those under his stewardship—from lowest laborer to visiting Kulenas—consistently describe him as someone worth following, even when his decisions prove unpopular. This stems from his visible commitment to his stated principles.
 
 Mathematical Intellect
 : His mathematical mind allows him to see patterns and predict outcomes in economic and political matters, making him a shrewd administrator and negotiator.
@@ -465,7 +465,7 @@ Naïveté Regarding Power
 : Viranga sometimes underestimates the depth of entrenched interests working against his reforms and does not always appreciate how threatened other great houses feel by his success.
 
 Difficulty with Political Theater
-: He struggles with the performative aspects of life among the great houses—the posturing, the flattery, the careful cultivation of advantages through social maneuvering. His straightforwardness can read as arrogance or awkwardness in court settings.
+: He struggles with the performative aspects of life among the great houses—the posturing, the flattery, the careful cultivation of advantages through social maneuvering. His straightforwardness can read as arrogance or awkwardness in the sabhra hall.
 
 Idealistic Overreach
 : He can be blinded by his own vision of what is possible, sometimes pushing too hard or too fast for changes that might have succeeded with more gradual implementation and better preparation of public opinion.
@@ -477,38 +477,38 @@ Vulnerability to Betrayal
 
 ### Patrons
 
-[The Vedyara Farmers' Collective]{.name data-type="affiliation"}
-: A loose association of agricultural workers who view Viranga as their advocate within the great houses, having improved working conditions and payment structures across the entire region.
+The cultivators of the valleys
+: The Karmija cultivators of the Suvargeri villages, who view Viranga as their advocate in the sabhra, having improved working conditions and payment structures across the entire region.
 
 [Shroshtin Tavaros]{.name data-type="being/npc"}
-: A wealthy trader from a distant city-state who has recognized the potential profit in the improved agricultural products emerging from Dukshana lands and has become a reliable buyer of the finest harvest.
+: A wealthy trader from the coast who has recognized the potential profit in the improved agricultural products emerging from Dukshana lands and has become a reliable buyer of the finest harvest.
 
-[The Council of Reforming City-States]{.name data-type="affiliation"}
-: An informal coalition of forward-thinking rulers from multiple Vedyaran settlements who see in Viranga a model for enlightened governance and consult him on matters of economic development.
+Reforming sabhras and courts
+: Forward-thinking members of neighboring janpodas' sabhras, and a few rulers of the kingdoms beyond them, who see in Viranga a model for enlightened governance and consult him on matters of economic development.
 
 ### Enemies
 
 Kulena [Sharvadara of the Eastern Reaches]{.name data-type="being/npc"}
 : A powerful and conservative Kulena whose traditional extraction-based methods have become less profitable since surrounding farmers began following Dukshana's example. He views Viranga as a threat to his whole way of life.
 
-[The Syndicate of Merchant Shrenis]{.name data-type="affiliation/venture"}
-: Traditional trading houses whose monopolistic practices depended upon controlling access to goods. Dukshana's fair pricing and direct merchant relationships undercut their profit margins and have made him a target for various schemes to discredit or destabilize him.
+The grain-buyers at the bridge
+: Traditional trading houses at [[place-kanakasetu|Kanakasetu]], whose monopolistic practices depended upon controlling access to goods. Dukshana's fair pricing and direct merchant relationships undercut their profit margins and have made him a target for various schemes to discredit or destabilize him.
 
 [Vyadar the Silent]{.name data-type="being/npc"}
 : A former steward of the Dukshana house who was dismissed for corrupt practices and now serves unknown masters, working subtly to undermine the holding's prosperity and prove Viranga's methods ultimately unsustainable.
 
 ### Affiliations
 
-[The Agricultural Society of Vedyara]{.name data-type="affiliation"}
-: Viranga holds a position of considerable influence within this organization and uses his standing to argue for new methods and fair treatment of workers.
+The [[affiliation-suvrgrjnpd|Suvargeri]] sabhra
+: Viranga holds a seat of considerable influence and uses it to argue for new methods and fair treatment of workers.
 
-[The Council of Vedyaran Rulers]{.name data-type="affiliation/governmental"}
-: He maintains formal relationships with the other great houses of the city-states, serving as an advisor on economic matters to those willing to listen.
+The landholding houses
+: He maintains formal relationships with the other great houses of the janpoda and its neighbors, serving as an advisor on economic matters to those willing to listen.
 
 ## Plot Hooks
 
 The Famine Gambit
-: A severe drought strikes the region, threatening catastrophic crop failure not only for the Dukshana holding but for all surrounding territories. While other Kulinas scramble to hoard supplies and raise prices, Viranga's accumulated grain reserves allow him to support both his own people and neighboring settlements. However, a rival Kulena interprets this generosity as weakness and political maneuvering, seeing an opportunity to consolidate power. The adventurers become embroiled in a complex situation where humanitarian action creates dangerous political vulnerabilities, and they must find ways to maintain Viranga's ability to help while protecting him from those who would exploit his compassion.
+: A severe drought strikes the region, threatening catastrophic crop failure not only for the Dukshana holding but for all surrounding territories. While other Kulenas scramble to hoard supplies and raise prices, Viranga's accumulated grain reserves allow him to support both his own people and neighboring settlements. However, a rival Kulena interprets this generosity as weakness and political maneuvering, seeing an opportunity to consolidate power. The adventurers become embroiled in a complex situation where humanitarian action creates dangerous political vulnerabilities, and they must find ways to maintain Viranga's ability to help while protecting him from those who would exploit his compassion.
 
 The Poisoned Advancement
 : As word of Dukshana's successful methods spreads, other great houses request that Viranga send advisors or establish similar systems on their lands. He accepts several such requests, attempting to expand his philosophy's reach. However, adventurers discover that one such "implementation" is actually a cover for theft, espionage, or sabotage. They must determine whether this is merely the misdeeds of corrupt individuals or whether someone is systematically using Viranga's good reputation as a cover for larger conspiracies. The resolution requires them to protect Viranga's name while addressing criminal activity.

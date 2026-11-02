@@ -426,7 +426,7 @@ Shilabir stands 6'3" tall with a heavy build. He has warm honey skin, black hair
 
 ### From Surface Laborer to Craftsman
 
-Shilabir was born to the miners of the [[place-vedyarargn|Vedyara city-states]], the son of a man named [Rasikesh]{.name data-type="being/npc"} who had worked the deep mines for forty years before a collapse took his life when Shilabir was merely nine years old. His mother, [Devani]{.name data-type="being/npc"}, took in washing and mending to survive, but Shilabir knew early that his destiny lay in the mines—not as a means of perpetuating family tradition, but as a way of understanding and honoring the circumstances that had shaped his life. At twelve, he began as a water-carrier and ore-hauler, working in the copper and silver mines of **[[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]]'s** extensive operations.
+Shilabir was born in [[place-danurkot|Danurkot]] to a family of miners, the son of a man named [Rasikesh]{.name data-type="being/npc"} who had worked the deep mines for forty years before a collapse took his life when Shilabir was merely nine years old. His mother, [Devani]{.name data-type="being/npc"}, took in washing and mending to survive, but Shilabir knew early that his destiny lay in the mines—not as a means of perpetuating family tradition, but as a way of understanding and honoring the circumstances that had shaped his life. At twelve, he began as a water-carrier and ore-hauler, working in the copper and silver mines of **[[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]]'s** extensive operations.
 
 By his late teens, having demonstrated unusual strength, reliability, and a natural aptitude for understanding the stone itself, Shilabir apprenticed under **Master [Koshna]{.name data-type="being/npc"}**, an elderly miner known for his ability to read seams of ore and predict collapses with uncanny accuracy. Over more than a decade of training, Shilabir learned the mechanics of mining—the pickaxe techniques, the use of levers and pulleys, the reading of rock formation—and something deeper: a kind of communion with the earth, an ability to sense where the most precious metals lay hidden and how to extract them with minimal loss.
 
@@ -436,7 +436,7 @@ At twenty-five, Shilabir became a master himself and began taking on oversight o
 
 ### Current Circumstances
 
-Now at thirty-six, Shilabir occupies a complex position. He is a senior foreman for the Merchant Collective but maintains his membership in the [Miners' Union]{.name data-type="affiliation"}, understanding the importance of solidarity with ordinary workers. He oversees one of the most productive mines in the Vedyara territories and has trained numerous younger miners in his methods. He lives modestly despite the reasonable income his position provides, contributing much of his earnings to a fund that supports miners who have been injured or displaced by accidents or hard times. Yet recent changes in the mining trade—the introduction of new, more dangerous extraction techniques and pressure from the Merchant Collective to put profit before safety—have troubled him deeply.
+Now at thirty-six, Shilabir occupies a complex position. He is a senior foreman for the Merchant Collective but maintains his membership in the miners' shrena, understanding the importance of solidarity with ordinary workers. He oversees one of the most productive mines in [[place-vedyarargn|Vedyara]] and has trained numerous younger miners in his methods. He lives modestly despite the reasonable income his position provides, contributing much of his earnings to a fund that supports miners who have been injured or displaced by accidents or hard times. Yet recent changes in the mining trade—the introduction of new, more dangerous extraction techniques and pressure from the Merchant Collective to put profit before safety—have troubled him deeply.
 
 ## Psyche
 
@@ -491,21 +491,21 @@ Moral Rigidity
 The Merchant Collective
 : The primary commercial organization that contracts Shilabir's skill and employs him as a senior foreman. This relationship is increasingly strained as the Collective pushes for higher profits at the expense of safety.
 
-The Miners' Union Leadership
-: Several prominent members of the union's leadership council rely on Shilabir's counsel and support. He acts as an informal mediator between the union and the Merchant Collective.
+The miners' shrena council
+: Several prominent members of the shrena's council rely on Shilabir's counsel and support. He acts as an informal mediator between the shrena and the Merchant Collective.
 
 ### Enemies
 
 Overseer [[being-tarvikatamrak|Tarvika]]
 : A ruthless administrator dispatched by the Merchant Collective to increase profits. Tarvika views safety measures as unnecessary expense and has repeatedly overridden Shilabir's safety recommendations, creating dangerous conditions and tension between them.
 
-[The Industrial Consortium]{.name data-type="affiliation/venture"}
+A rival merchant house
 : A rival merchant organization that seeks to undercut the Collective's mining operations. They have attempted to poach Shilabir's workers and techniques, and have even offered him substantial sums to switch his allegiance.
 
 ### Affiliations
 
-The Miners' Union
-: Shilabir maintains full membership and serves in an unofficial capacity as a bridge between the union and the Merchant Collective's overseers. The union views him as one of their most reliable members.
+The miners' shrena
+: Shilabir maintains full membership and serves in an unofficial capacity as a bridge between the shrena and the Merchant Collective's overseers. The shrena views him as one of its most reliable members.
 
 The Merchant Collective
 : His primary employer, though this relationship is becoming increasingly complicated by ethical disagreements.
@@ -525,4 +525,4 @@ Darkness Rising
 : Strange phenomena begin occurring in the mines—equipment mysteriously breaks, workers report shadowy figures in the deep shafts, and several miners go missing in sections of mines that were previously considered safe. Shilabir must investigate these mysteries, which seem to point toward either supernatural forces or a saboteur working within his operation. The investigation threatens to expose secrets that powerful people wish to keep hidden.
 
 The Whistleblower's Dilemma
-: Shilabir discovers evidence that the Merchant Collective is knowingly dumping mining waste into the water sources that supply the city's poorest neighborhoods, causing widespread illness. Making this public would damage the Collective, potentially destroy his livelihood, and might even make him a target for retaliation. Yet remaining silent violates everything he believes in. A writer of public broadsheets approaches him offering protection in exchange for documentation of the dumping, leading to a dangerous dance between justice and survival.
+: Shilabir discovers evidence that the Merchant Collective is knowingly dumping mining waste into the water sources that supply the poorest villages below the mine, causing widespread illness. Making this public would damage the Collective, potentially destroy his livelihood, and might even make him a target for retaliation. Yet remaining silent violates everything he believes in. A writer of public broadsheets approaches him offering protection in exchange for documentation of the dumping, leading to a dangerous dance between justice and survival.

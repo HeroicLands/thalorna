@@ -424,11 +424,11 @@ Tamura stands 6'0" tall with a medium build. He has golden brown skin, greying b
 
 # Dossier {#dossier}
 
-Tamura was born into the Karmija station, in a kulpa of woodcrafters, in the city-states of the [[place-vedyarargn|Vedyara Region]], the second son of a master carpenter who had built his reputation on the creation of lasting structures and functional beauty. From childhood, Tamura's relationship with wood was almost spiritual—he claimed he could hear what each piece wished to become, could sense the grain's direction before ever touching chisel to surface. Where his older brother pursued elaborate decorative work, Tamura found his calling in structures that would last centuries: barn frames, ship keels, the massive gate timbers that stood against storm and siege.
+Tamura was born into the Karmija station, in a kulpa of woodcrafters, in [[place-rajepur|Rajepur]], the second son of a master carpenter who had built his reputation on the creation of lasting structures and functional beauty. From childhood, Tamura's relationship with wood was almost spiritual—he claimed he could hear what each piece wished to become, could sense the grain's direction before ever touching chisel to surface. Where his older brother pursued elaborate decorative work, Tamura found his calling in structures that would last centuries: barn frames, ship keels, the massive gate timbers that stood against storm and siege.
 
-In his youth, Tamura apprenticed under the celebrated craftsman Maharava [[being-tanavarnashu|Tanavarna Shuravan]], a figure of near-mythical status in [[lore-vedyariclt|Vedyaran woodcraft traditions]]. For thirteen years, he learned technique and philosophy—the belief that every wooden creation was a covenant with future generations, a promise that it would bear its intended weight without failure. This philosophy shaped him entirely. While his contemporaries chased profitable commissions from wealthy merchants seeking ornate furniture, Tamura established himself as the craftsman one employed when one's survival depended on quality.
+In his youth, Tamura apprenticed under the celebrated craftsman Master [[being-tanavarnashu|Tanavarna Shuravan]], a figure of near-mythical status in [[lore-vedyariclt|Vedyaran woodcraft traditions]]. For thirteen years, he learned technique and philosophy—the belief that every wooden creation was a covenant with future generations, a promise that it would bear its intended weight without failure. This philosophy shaped him entirely. While his contemporaries chased profitable commissions from wealthy merchants seeking ornate furniture, Tamura established himself as the craftsman one employed when one's survival depended on quality.
 
-At fifty-four, Tamura has achieved something far more valuable than wealth: he has become indispensable. His reputation extends across multiple city-states, and armies of agricultural workers have built their livelihoods around the tools and implements he crafts. More recently, he has taken on a role as mentor to younger craftsmen, though he admits he finds this frustrating—the younger generation seems more interested in quick profits than in the integrity of their work.
+At fifty-four, Tamura has achieved something far more valuable than wealth: he has become indispensable. His reputation extends up and down the Mahanodi and well beyond it, and armies of agricultural workers have built their livelihoods around the tools and implements he crafts. More recently, he has taken on a role as mentor to younger craftsmen, though he admits he finds this frustrating—the younger generation seems more interested in quick profits than in the integrity of their work.
 
 ## Psyche
 
@@ -483,8 +483,8 @@ Inflexibility in Thought
 Landholder [Kestin Haroway]{.name data-type="being/npc"}
 : A wealthy landowner who employs Tamura exclusively for all structural work on his sprawling estates. Kestin considers Tamura's work to be an investment in the permanence of his properties and pays handsomely for first call on his time.
 
-the [Vedyaran Shrena Hall Commission]{.name data-type="affiliation"}
-: The official body overseeing craftsman standards frequently contracts with Tamura to evaluate the work of other craftsmen or to handle the most important public works. His reputation lends legitimacy to their assessments.
+The great [[affiliation-vyalendra|Vyalendra]] temple
+: The temple at Rajepur, which keeps the janpoda's granary, irrigation works and common buildings in the name of the god of builders, frequently contracts with Tamura to evaluate the work of other craftsmen or to handle the most important of those works. His reputation lends legitimacy to its assessments.
 
 Shipbuilder Master [Alden Coursewright]{.name data-type="being/npc"}
 : A celebrated builder of merchant vessels who employs Tamura for keel and frame work on his most important commissions, knowing his structural integrity will make the difference between a ship that lasts twenty years and one that lasts a century.
@@ -499,8 +499,8 @@ Rival Craftsman [Marden the Swift]{.name data-type="being/npc"}
 
 ### Affiliations
 
-[The Rural Craftsmen's Shrena of Vedyara]{.name data-type="affiliation/guild"}
-: The primary organization governing craftsmen standards in the agricultural regions. Tamura serves on their council and acts as one of their primary arbiters of quality and technique standards.
+The artisans' shrena of Rajepur
+: The shrena that keeps craftsmen's standards in the town and its villages, and holds one of the artisans' seats in the [[affiliation-rajeprjnpd|sabhra]]. Tamura serves on its council and acts as one of its primary arbiters of quality and technique standards.
 
 [The Shuravan Lineage]{.name data-type="affiliation"}
 : An informal but deeply respected chain of apprenticeship and mentorship stretching back three hundred years, of which Tamura is a senior member. The lineage emphasizes that wood-craft is a calling rather than a trade alone.
@@ -508,7 +508,7 @@ Rival Craftsman [Marden the Swift]{.name data-type="being/npc"}
 ## Plot Hooks
 
 The Haunted Commission
-: A mysterious man of rank from the far borders approaches Tamura with a commission to craft a specific type of wooden structure—one that matches descriptions from ancient texts that Tamura has never shared with anyone. The stranger seems to know precisely what Tamura builds in secret, in his own time, projects he has never shown to clients. When Tamura refuses, the stranger produces a document suggesting that these same structures appear in sealed architectural records from the imperial archives. Tamura must determine how this stranger knows his private work and what they intend to do with such knowledge.
+: A mysterious man of rank from the far borders approaches Tamura with a commission to craft a specific type of wooden structure—one that matches descriptions from ancient texts that Tamura has never shared with anyone. The stranger seems to know precisely what Tamura builds in secret, in his own time, projects he has never shown to clients. When Tamura refuses, the stranger produces a document suggesting that these same structures appear in sealed architectural records of the old kingdom in [[place-rajavalilib|the Rajavali Library]]. Tamura must determine how this stranger knows his private work and what they intend to do with such knowledge.
 
 The Apprentice's Betrayal
 : A young apprentice of rare talent whom Tamura took under his wing as a potential heir to the Shuravan lineage disappears after three years of study. Months later, Tamura discovers that the apprentice has been producing cheap imitations of his signature techniques, flooding the market and damaging Tamura's reputation. When Tamura confronts the apprentice, he discovers the young craftsman was coerced into this by the merchant Grayson Thrift, but the apprentice is now too frightened to break free. Tamura can help his former student risk Grayson's wrath or allow his own reputation to go on deteriorating.
