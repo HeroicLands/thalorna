@@ -7,7 +7,7 @@ description: "The great river valley, the old eastern ranges, and the swamps and
 tags: [region]
 data:
   demonym: Tokchili
-  lore: [humanflk]
+  lore: [tokchiliclt]
   parents: [northkiichchik]
   population: 1500000
   packFolder: tokchiaska

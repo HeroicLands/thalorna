@@ -7,7 +7,7 @@ description: A landlocked concentration of Grukar nests amid dense mixed forest,
 tags: [region]
 data:
   demonym: Grukari
-  lore: [grukarfolk]
+  lore: [grukarfolk, grukarclt]
   parents: [ankrscntnnt]
   population: 50000
   packFolder: grukarholm

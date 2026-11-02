@@ -1,39 +1,53 @@
 ---
 shortcode: qptlulneok
-name: {full: Q’aptel’ul Ne’ok}
+name: {full: Q'aptel'ul Ne'ok}
 type: place
 subType: settlement
-description: "Garrison Town"
+description: "The garrison town at the southern edge of K'ushi Ish'bal's plateau, where the last cord of the Speaking Road is read, the Blood-Workers keep their southern garrison, and every expedition south is outfitted."
 tags: [garrison, town]
-data: {demonym: null, lore: [], parents: [kuxiixbalrgn], population: 6000, packFolder: south}
+data:
+  demonym: null
+  lore: []
+  parents: [kuxiixbalrgn]
+  population: 6000
+  government: kuxiixbal
+  packFolder: kuxiixbal
 ---
 
 ## Overview
 
-Q’aptel’ul Ne’ok, "The Boundary House of the Sacred Blood," is a garrison-city and temple-fortress where civilization maintains its final, tenuous grasp on the high plateaus. The city exists primarily to serve as a staging ground and supply depot for those contemplating expeditions into [[place-qapteltzaklrgn|Q’aptel Tsa’kul]] and the forsaken wastes of [[place-xelemixbalrgn|Shelem Ish’bal]] beyond. Every able-bodied person in the city maintains some military or logistical function; the entire society is oriented toward readiness and provisioning.
+The road shrine at the south gate of Q'aptel'ul Ne'ok is the last on the continent. Its keeper decodes the last _k'otsel_ cord that the [[affiliation-chumishlan|Ch'um Ish'lan]] carries south, and no runner with a priestly mandate goes beyond it. Q'aptel'ul Ne'ok is a garrison town of about 6,000 on the southern lip of the high plateau of [[place-kuxiixbalrgn|K'ushi Ish'bal Region]], where the grassland breaks into canyons and the land falls toward [[place-qapteltzaklrgn|Q'aptel Tsa'kul Region]] and the wastes beyond. Everyone in it holds the walls, fills the storehouses or outfits the expeditions that leave from it, and most people do two of the three.
 
-## Location and Geography
+## The Walls and the Garrison Lord
 
-Q’aptel’ul Ne’ok sits on the high plateau of [[place-kuxiixbalrgn|K’ushi Ish'bal]], at the point where the terrain begins its downward and increasingly hostile transition toward the boundary lands. The city is built with defense in mind—fortified walls, elevated platforms, and clear sight-lines toward approaches from all directions. The priesthood maintains several armories, granaries, and storage facilities of immense size, stockpiling provisions for expeditions.
+The town is a square of walls on a spur of rock, with towers at the corners and a sight-line across the plateau in every direction. Inside, the storehouses stand in long rows on the high ground above the houses: grain, freeze-dried tubers, dried meat, cloaks, cord and the dried leaf that eases breathing at altitude. The town holds more food than it eats, because each expedition carries a season's worth out of it.
 
-## Military and Logistical Role
+Q'aptel'ul Ne'ok is held for the Ts'enmah of [[affiliation-kuxiixbal|K'ushi Ish'bal]] by a garrison lord, the Sh'ukelmah, who is always one of the Sun's kin. He keeps the walls, calls the levy and answers for the stores. The present Sh'ukelmah is [Tsul Ishkul]{.name data-type="being/npc"}, a heavy, unhurried man in his fifties, who has walked every storehouse at least once a month since he was named and can say from memory how many cloaks are in each.
 
-The city hosts a permanent garrison of warrior-priests and secular warriors loyal to the [[affiliation-itzanpnthn|Itsani priesthood]]. Regular expeditions depart from Q’aptel’ul Ne’ok heading south, returning rarely and bringing back survivors marked by suffering and strange knowledge. The city’s economy is entirely based on supplying these expeditions—provisioning, armoring, and blessing southern-bound warriors and priests before they depart.
+The town has the south's two halves, each with its own lord and its own kin groups. Most of its kin groups were not born on the plateau. The Ts'enmah sends whole kin groups from the northern valleys of the realm to settle the garrison towns, and each keeps its own dress and its own shrine to the god of the valley it came from. Their fields are the thin terraces below the walls and the herds on the plateau, and their labor turn is served on the walls and in the storehouses.
 
-## Society and Culture
+## The Southern Garrison
 
-Q’aptel’ul Ne’ok has a martial culture; social status is determined by military rank, priesthood standing, or proven skill in provisioning and logistics. Merchants who profit from outfitting expeditions are wealthy and influential, though always subservient to the priesthood. The city is relatively austere—few luxury goods, little art, and little music. Life here is about survival, duty, and the sacred obligation to support those who venture into the abyss.
+[[affiliation-tsumulob|The Blood-Workers]] keep their southern garrison here, under the order's Captain of the Southern Garrison, in a walled compound of its own against the east wall. Its bands go south with the expeditions, and they fight the walking dead of [[affiliation-tzumaqkalanil|the Serpent Awakeners]] (Ts'umaq K'alanil) in the country between the town and the threshold more often than they fight anything else. When a band returns, [[affiliation-shaqalob|the Severers]] are waiting at the gate for its field ledger, and the Inspector reads every working the band's Bearer of the Tables recorded on a day the tables could not vouch for.
+
+The secular companies of the garrison are the Sh'ukelmah's. They are levied from the kin groups and filled out with men from everywhere, including the Spent whom the Blood-Workers have expelled. Nobody in the secular companies asks where a man has come from, and the Blood-Workers do not ask after their own Spent.
+
+## The Expeditions
+
+A party bound south arrives in Q'aptel'ul Ne'ok from the north with an oath, a purse or both, and buys almost everything it will carry: cloaks against the plateau's nights, food that keeps, water jars, rope, spare sandals, and llamas to carry it all as far as the threshold. The merchants who sell to the expeditions are the richest people in the town, and the Sh'ukelmah takes a share of every sale for the storehouses. From here a party goes down onto the flats of Q'aptel Tsa'kul with a hired guide, and on to [[place-xelemchalix|Shelem Ch'alish]] and its gate.
+
+The town is plain and quiet. There is little music, little painted stone and almost no luxury. A party coming back from the south passes through the town on its way north, and the town turns out to watch it come up the road: the people count the returners and say nothing until they have passed.
 
 ## See Also
 
-[[affiliation-kuxiixbal|K’ushi Ish'bal]]
-: The plateau realm
+[[affiliation-kuxiixbal|K'ushi Ish'bal]]
+: the plateau realm that holds the town
 
-[[affiliation-qapteltzakl|Q’aptel Tsa’kul]]
-: The boundary lands
+[[place-kuxiixbal2|K'ushi Ish'bal]]
+: the realm's seat
 
-[[place-xelemixbalrgn|Shelem Ish’bal]]
-: The forsaken wastes
+[[place-xelemchalix|Shelem Ch'alish]]
+: the gate of the south
 
-[[affiliation-itzanpnthn|Itsani]]
-: The priesthood that commands this garrison
+[[affiliation-tsumulob|The Blood-Workers]]
+: the order that keeps its southern garrison here

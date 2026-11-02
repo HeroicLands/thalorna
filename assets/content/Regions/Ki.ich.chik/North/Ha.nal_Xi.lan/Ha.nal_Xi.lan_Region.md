@@ -7,7 +7,7 @@ description: "Fertile river valleys, bottomlands and hardwood forest—the front
 tags: [region]
 data:
   demonym: null
-  lore: [humanflk]
+  lore: [osetakonaclt, tokchiliclt]
   parents: [northkiichchik]
   population: null
   packFolder: hanalxilan

@@ -8,7 +8,7 @@ tags: [region]
 data:
   culture: tokchiliclt
   demonym: Koyoli
-  lore: [humanflk]
+  lore: [tokchiliclt]
   parents: [tokchiaskargn]
   population: 220000
   packFolder: tokchiaska

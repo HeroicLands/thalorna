@@ -1778,6 +1778,12 @@ data:
       gloss: "a healer; one of the society of those who were healed"
       built: ["ehniate", "-hen"]
       source: {kind: coined}
+    - form: "tsiotarie kenniato"
+      class: n
+      field: "Clan and council"
+      gloss: "a charm: a small thing a power has put in a person's way, which gives luck and must be fed"
+      built: ["tsiotarie", "kenniato"]
+      source: {kind: coined}
     - form: "ostakahen"
       class: n
       field: "Clan and council"
@@ -6527,7 +6533,15 @@ data:
     - {name: Birches, tongue: translation}
     - {name: kenrisaten, tongue: osetakona, built: [kenrisa, -ten]}
     - {name: Snow Place, tongue: translation}
-    - {name: ostakahen, tongue: osetakona, built: [ostaka, -hen]}
+    # The strange works: the lodge at Ha'nal Shi'lan
+    - name: tsiotarie kahnisa
+      tongue: osetakona
+      built: [tsiotarie, kahnisa]
+    - {name: The Warm Lodge, tongue: translation}
+    # The register continues
+    - name: ostakahen
+      tongue: osetakona
+      built: [ostaka, -hen]
     - {name: Keeper of the Kettle, tongue: translation}
     - {name: tsiotsi okwaria, tongue: osetakona, built: [tsiotsi, okwaria]}
     - {name: Sapling, tongue: translation}

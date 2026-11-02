@@ -964,6 +964,18 @@ data:
       gloss: "a hunt chief: the one named for a season to lead the drives"
       built: ["yuchan", "-ka"]
       source: {kind: coined}
+    - form: "apuchuka"
+      class: n
+      field: "The herds and the hunt"
+      gloss: "a caller: the one who leads a herd into a drive lane, walking before it in a calf's hide"
+      built: ["apuchu", "-ka"]
+      source: {kind: coined}
+    - form: "tanshe kesho"
+      class: n
+      field: "The herds and the hunt"
+      gloss: "a bison stone: a small curled stone found on the grass, said to sing, carried by a caller on a drive"
+      built: ["tanshe", "kesho"]
+      source: {kind: coined}
     - form: "teyenka"
       class: n
       field: "Band and kin"

@@ -74,7 +74,7 @@ The Cedar People say that in the first days the sea rose over the whole land. Th
 
 The first people were cold that first winter, and naked, and they had nothing to build with. A woman of the first houses, the [Cedar Woman]{.name data-type="being/npc"}, walked into the forest and stood there until she became a tree. Her hair became the bark the people weave, her bones the planks of their houses, and her arms the hulls of their canoes, and she asked nothing back. She is the first cedar (_kelwa_), and her gift is the reason the Cedar People hold giving to be the first good. A carver who cuts a cedar still speaks to it first, tells it what it will become and asks it to give.
 
-The rest of their history is the history of the houses, rising and falling by what they give. A house that gives the greatest feasts climbs the order of seats; a house that cannot answer the gifts it receives falls. The [Eagle House]{.name data-type="affiliation/lineage"} of Tsilkasis, the _Tsilkasanuk_, has sat first on the coast for four generations of chiefs, and its chief holds the first seat (_kenwatukwa_). The worst thing in that history is the [Killing Feast]{.name data-type="lore/history"}, told below.
+The rest of their history is the history of the houses, rising and falling by what they give. A house that gives the greatest feasts climbs the order of seats; a house that cannot answer the gifts it receives falls. The [[affiliation-eaglehouse|Eagle House]] of Tsilkasis, the _Tsilkasanuk_, has sat first on the coast for four generations of chiefs, and its chief holds the first seat (_kenwatukwa_). The worst thing in that history is the [Killing Feast]{.name data-type="lore/history"}, told below.
 
 ## The Gift Is Everything
 

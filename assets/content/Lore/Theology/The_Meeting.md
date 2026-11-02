@@ -36,6 +36,14 @@ The healers belong to no house's order. A slave can be taught by a power as read
 
 The healer whom the northern inlets send for is [Dimasnilkwa]{.name data-type="being/npc"}, Sees the Dream, a woman of the Wolf House at [[place-mukwasis|Mukwasis]], who was taught by the Thunderbird in a fever at fifteen. She has gone to the Village of the Dead more times than she will say, and she charges every chief exactly the same, which the chiefs take as an insult and pay.
 
+## The Canoe of the Dead
+
+When a soul has been carried off to the [Village of the Dead]{.name data-type="place/settlement"} by a hungry kinsman, and one healer's trance cannot bring it back, the healers go together, in the canoe of the dead (_melis medak_). They go in a dance house at night, in winter, with the household of the sick person on the benches and the fire banked low. Four to eight healers stand in two lines on the floor, each holding a painted cedar board as tall as a man that is the side of a canoe, and each with a paddle. They paddle where they stand, singing, and the house watches them travel: down the beach, out past the end of the world, under the sea and along the bottom to the Sea Chief's door, and past it to the village where the dead live.
+
+The journey has its dangers, and the healers act each one: the river they must cross on a fallen log, the dead who come down to the shore to see who has come, the place where the canoe is nearly overturned. In the Village of the Dead they find the kinsman who took the soul and bargain for it, and when it is given up, or snatched, the healer in the bow catches it in a soul catcher, a hollow tube of bone carved at both ends with a power's open mouth, and stops it with cedar bark. Then the canoe comes home the way it went. At the fire the healer blows the soul out of the tube into the crown of the sick person's head.
+
+A healer who falls down on the floor during the journey has been held back by the dead, and the others turn the canoe and go back for them before they go on. The household pays every paddler in blankets and feeds the whole house when it is over, so a canoe costs as much as a small giving feast. [Dimasnilkwa]{.name data-type="being/npc"} has stood in the bow of more canoes than any healer of the inlets. No house has ever paid for a canoe to go for the soul of a slave, and none of the healers has offered to go for nothing.
+
 ## The Rites
 
 **The Welcoming** greets the first salmon of each run: it is laid on a new cedar mat, sprinkled with eagle down, sung to as a guest of the Sea Chief, eaten by the whole village, and its bones go back into the river whole, so that it can go home and say it was treated well.

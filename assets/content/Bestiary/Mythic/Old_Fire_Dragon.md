@@ -365,7 +365,7 @@ An old fire dragon is a creature of terrible majesty. Its scales are thick and l
 
 ## In the Land
 
-Shelem Ish'bal is forsaken country, blasted rock and ash, fields of ice, geysers and fire breaking from the ground, poisoned water and fungi the size of houses, and no one truly rules it; the [[affiliation-itzanpnthn|Itsani priesthood]] watches it from its threshold, and the warriors and priests who go into it to test themselves mostly do not come back. The dragon holds the ash plains where the fire comes up out of the earth, and its lair is in a cavern under a dead volcano, where its hoard lies: the tribute and plunder of a thousand years, from more lands than anyone in Ki'ich'chik has heard of. It hunts the wastes and the margins of the wastes, and it leaves them when it chooses, on errands of its own, and comes back.
+Shelem Ish'bal is forsaken country, blasted rock and ash, fields of ice, geysers and fire breaking from the ground, poisoned water and fungi the size of houses, and no one truly rules it; the [[affiliation-itzanpnthn|Itsani priesthood]] watches it from its threshold, and the warriors and priests who go into it to test themselves mostly do not come back. The dragon holds the ash plains of [[place-ashcountry|the Ash Country]], where the fire comes up out of the earth, and its lair is in a cavern under a dead volcano, where its hoard lies: the tribute and plunder of a thousand years, from more lands than anyone in Ki'ich'chik has heard of. It hunts the wastes and the margins of the wastes, and it leaves them when it chooses, on errands of its own, and comes back.
 
 ## Key Behaviors
 

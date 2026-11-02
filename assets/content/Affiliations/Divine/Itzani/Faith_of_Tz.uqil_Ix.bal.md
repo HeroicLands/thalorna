@@ -6,6 +6,7 @@ subType: faithtradition
 description: "Death, decay and the underworld—the jaguar who kills swiftly and the owl who watches the slow return to earth, and the codices that guide a soul through Ch'al Ts'umaq."
 tags: [itzani, religion]
 data:
+  culture: kiichchikclt
   banner: faithbnr
   icon: null
   templatePriority: null

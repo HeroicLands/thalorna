@@ -1,32 +1,34 @@
 ---
 shortcode: xelemixbal2
-name: {full: Shelem Ish'bal}
+name: {full: The Dead Jaguar, kiichek: ["Shelem Ish'bal"]}
 type: place
-subType: settlement
-description: "The reputed center of the forsaken wastes at the continent's southern edge, a proving ground that no one rules."
-tags: [city, draft]
-data: {demonym: null, lore: [], parents: [xelemixbalrgn], population: null}
+subType: site
+description: "The reputed heart of the waste and the place it is named for: a plain of black glass, warm at night, that no two returners place in the same direction."
+tags: [site, waste]
+data: {demonym: null, lore: [], parents: [xelemixbalrgn], population: 0, packFolder: xelemixbal}
 ---
 
 ## Overview
 
-No one rules Shelem Ish'bal. The [[place-xelemixbalrgn|Shelem Ish'bal Region]], the Land of the Dead Jaguar, is the forsaken realm at the southern edge of the continent: blasted rock, ash, fields of ice, geysers of superheated water, and ruins said to lie buried beneath ice and ash. The [[affiliation-itzanpnthn|Itsani priesthood]] watches over it from its threshold, at [[place-xelemchalix|Shelem Ch’alish]], the last outpost. What passes through the wastes is not trade but transformation.
+The Dead Jaguar is the place [[place-xelemixbalrgn|Shelem Ish'bal Region]] is named for, and in the priests' tongue it carries the waste's own name, Shelem Ish'bal. The priests of the cities teach that the jaguar of a lost age's sun was thrown down in the south, and that this is where it fell. Returners who claim to have reached it describe a plain of black glass, smooth and dark to the horizon, warm underfoot at night and cold at noon, and crazed with cracks that glow a dull red after sunset. Almost nobody claims it. It is the last and greatest of the oaths a warrior of the southern cities can swear.
 
-## What a Traveler Is Told
+## Where It Lies
 
-The wastes are a proving ground. Warriors and priests go in to test their worth, and most never return; those who do are marked by what they have learned and suffered, and the pyramid-cities elevate them to positions of great authority or spiritual significance. Water is scarce and often toxic, the plants are twisted and sometimes poisonous, and the fauna is worse. A handful of treasure-seekers loot the ruins of an age that came before the current one, and a glorious death in the wastes is held to open the way to the [Eternal Garden]{.name data-type="place/site"} of [[lore-piqalkulqatdty|P'iqal Kul'qat]], the creator god.
+Nobody agrees where the Dead Jaguar lies. The gate's cords hold a handful of accounts that claim it, and they place it in every direction: beyond [[place-ashcountry|the Ash Country]] to the south, east of [[place-thethirst|the Thirst]], at the heart of the waste, and once, in an account the gate priests do not repeat, within a week of the gate itself. Each account gives a route, and no party that has followed another's route has found the glass at its end. In the southern cities a warrior who swears to reach the Dead Jaguar is understood to have sworn to walk until he finds it or dies.
 
-## The Settlement
+## What the Returners Say
 
-The region has a central settlement. How many live in it, and who they are, no traveler has come back to say.
+The few who claim to have stood on the glass describe it alike. It is utterly flat, and a traveler's own reflection walks under his feet. Nothing grows on it and nothing crosses it, and the beasts that follow a party across the waste stop at its edge. At night the cracks glow, and some returners say the glow runs in lines, like the markings of a great beast's hide, and others say it only looks so from far off.
+
+Shards of black glass with a red fleck deep inside them sell in the northern markets as pieces of the Dead Jaguar, and command more than any crystal. Nobody can say which of them are true, and the gate priests buy none.
 
 ## See Also
 
 [[place-xelemixbalrgn|Shelem Ish'bal Region]]
-: the wastes
+: the waste named for it
 
 [[place-xelemchalix|Shelem Ch'alish]]
-: the last temple-fortress before the wastes
+: the gate where the accounts are kept
 
-[[place-southkiichchik|Southern Ki'ich'chik]]
-: the southern realms
+[[affiliation-itsanihierarchy|The Itsani Hierarchy]]
+: the priesthood that teaches the fallen sun

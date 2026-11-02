@@ -6,8 +6,9 @@ subType: region
 description: "The volcanic isthmus and its two coasts—the land of Ne'ok Ba'ate, the corridor binding Central Ki'ich'chik to the south."
 tags: [region]
 data:
+  culture: kiichchikclt
   demonym: null
-  lore: [humanflk]
+  lore: [kiichchikclt]
   parents: [centralkiichchik]
   population: null
   packFolder: neokbaate
@@ -34,13 +35,23 @@ The climate is hot and humid throughout the region, with heavy rainfall in the e
 
 ## City-States and Realms
 
-Ne'ok Ba'ate's greatest city-states include [Ne' Ts'umul]{.name data-type="place/settlement"} ("Red Water"), a sprawling complex overlooking the great river where astronomical monuments rival those of K'ankul; [Q'o Kul'qat]{.name data-type="place/settlement"} (the "Twin Pyramid"), famous for its intricate carved monuments and its political independence; and [[place-tzililnetzik|Ts'ilil Ne'ts'ik]], the Island of Swallows, an island trading port that controls a vast archipelago of small islands and maintains its own small but efficient navy.
+Ne'ok Ba'ate's greatest city-states include [[place-netsumul|Ne' Ts'umul]] ("Red Water"), a sprawling complex overlooking the great river where astronomical monuments rival those of K'ankul; [[place-qokulqat|Q'o Kul'qat]] (the "Twin Pyramid"), famous for its intricate carved monuments and its political independence; and [[place-tzililnetzik|the Island of Swallows]] (Ts'ilil Ne'ts'ik), an island trading port that controls a vast archipelago of small islands and maintains its own small but efficient navy.
 
 ## Trade
 
 Ne'ok Ba'ate's prosperity rests on its position as a crossroads. Highland goods from [[affiliation-ixilankul|Ish'ilankul]]—obsidian, fine textiles, and luxury ceramics—enter Ne'ok Ba'ate's merchant networks and are transported southward to the diverse cultures of the outer continent and to the distant markets of the southern ocean. Conversely, exotic goods from the southern jungles and coast—jaguar hides, macaw feathers, rare woods like mahogany and rosewood, and the finest cacao—pass through Ne'ok Ba'ate on their way to satisfy the appetites of Ish'ilankul and K'ankul's aristocracy.
 
 The maritime trade is particularly significant. Ne'ok Ba'ate's merchants have established networks of trading posts along the coasts, and their merchant canoes venture far beyond the traditional bounds of Ki'ich'chik culture. It is Ne'ok Ba'ate traders who have made the first contacts with peoples far to the south and have begun to establish the trade relationships that are slowly bringing southern regions into the Ki'ich'chik commercial sphere. The ports of Ts'ilil Ne'ts'ik and the other eastern-coast city-states handle an enormous volume of maritime trade, and the merchant families that control these ports have become immensely wealthy.
+
+## The Country's Quarrel
+
+Ne'ok Ba'ate quarrels with the priesthood over its own word. Every cord the isthmus sends north goes by the [[affiliation-chumishlan|Ch'um Ish'lan]], the Speaking Road, and every Sun Lord of the isthmus knows that his letters pass through priests' hands at the dispatch of [[place-kultaqan|Kul'taq'an]]. The Sun Lords have tried more than once to run messengers of their own, and the priesthood has broken each attempt. The sea offers what the road does not: the war canoes of the Island of Swallows go where no runner goes, and a letter that travels by sea is one no priest has read. Beneath the quarrel over letters lies the older one over tribute. The isthmus is too rich and too useful for Ish'ilankul to conquer and too small to refuse it outright, and its Sun Lords resent every round in which the north sets what they send.
+
+## Hooks
+
+- **The empty nights.** The priestesses of the spring on the Island of Swallows have noticed that the war canoes go out on nights when there is nothing to escort, and [Ish'bal Ne'ok K'ushi]{.name data-type="being/npc"}, the island's Ish'kanmah, has learned that they noticed. She asks a party to find out whom the priestesses have told.
+- **A gourd for the island.** [Ishkul Ne'ok Ts'ultel]{.name data-type="being/npc"}, Ts'enmah of [[place-neokbaate2|Ne'ok Ba'ate]], has a sealed gourd that must reach the Island of Swallows by the eastern road and the sea, and his household messenger has fallen ill. He hires a party to carry it unopened. A Reader of the Cords at the city's dispatch hall pays the same party to tell him where it went.
+- **The mountain over the road.** The seat stands across the one road over the volcanic spine, and the mountain above it has begun to smoke. If it wakes and cuts the road, whoever holds the old paths around it holds the traffic and the runners of the south for a season. The Ts'enmah wants the paths walked and marked by his own people, the dispatch wants them walked by its runners, and each asks the party first.
 
 ## See Also
 
@@ -52,6 +63,12 @@ The maritime trade is particularly significant. Ne'ok Ba'ate's merchants have es
 
 [[place-neokbaate2|Ne'ok Ba'ate]]
 : Seat of Ne'ok Ba'ate
+
+[[place-netsumul|Ne' Ts'umul]]
+: Red Water, the city above the great river
+
+[[place-qokulqat|Q'o Kul'qat]]
+: The Twin Pyramid, the independent city of the highland valleys
 
 [[place-kulqattzumul|Kul'qat Ts'umul]]
 : A forgotten binding temple of the storm-serpent in the eastern rainforest

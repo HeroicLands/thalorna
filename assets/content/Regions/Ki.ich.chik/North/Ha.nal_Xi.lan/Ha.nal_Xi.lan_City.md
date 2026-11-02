@@ -30,6 +30,9 @@ The floods leave rich silt on the bottomlands, and in spring the bottoms become 
 [[affiliation-hanalxilanmktcncl|Ha'nal Shi'lan Market Council]]
 : the town's council of trading families and quarter elders
 
+[[place-warmlodge|The Warm Lodge]]
+: the gray dome on the riverbank where the council sits in winter
+
 [[place-hanalxilanrgn|Ha'nal Shi'lan Region]]
 : the contested river frontier
 

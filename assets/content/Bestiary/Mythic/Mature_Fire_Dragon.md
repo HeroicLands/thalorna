@@ -365,7 +365,7 @@ A mature fire dragon is massive and heavily muscled, its scales thick, overlappi
 
 ## In the Land
 
-Ch'akul Tsa'kul is sand seas in the north, rocky plateaus, mesas and badlands in the center and west, and salt flats in the south where ancient seas dried away, with the ruins of an older, wetter age scattered through it. The dragon holds the central badlands, a great stretch of mesas and box canyons, with lairs in several of them and its hoard in the deepest, in a ruin from that older age. It hunts the desert's herds, and it takes what crosses its ground: the caravans that carry trade between the tribal north and the south, and the travelers who come prepared with water and the knowledge of hidden oases and still do not emerge. It holds its ground against every rival large enough to matter.
+Ch'akul Tsa'kul is sand seas in the north, rocky plateaus, mesas and badlands in the center and west, and salt flats in the south where ancient seas dried away, with the ruins of an older, wetter age scattered through it. The dragon holds the central badlands, a great stretch of mesas and box canyons, with lairs in several of them and its hoard in the deepest, in [[place-blackpyramid|the Black Pyramid]], a ruin from that older age. It hunts the desert's herds, and it takes what crosses its ground: the caravans that carry trade between the tribal north and the south, and the travelers who come prepared with water and the knowledge of hidden oases and still do not emerge. It holds its ground against every rival large enough to matter.
 
 ## Key Behaviors
 

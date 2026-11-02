@@ -19,7 +19,7 @@ data:
 
 ## Overview
 
-Every spring two plank canoes come up the empty shore from the south, low in the water, and run in over the bar of the [South River]{.name data-type="place/feature"} to the beach at Lamekis. They carry beads: the [Northern Strand]{.name data-type="lore/custom"}, sent by the chiefs of the northern [Shell-Bead People]{.name data-type="affiliation/polity"} so that the Cedar war canoes leave their towns alone. Lamekis, Bear Beach, is the southernmost village of the [[affiliation-kelwanuk|Kelwanuk]], on a sandspit behind the river bar at the southern end of the [[place-yumisrgn|Outer Beaches]], and about 1,500 people of the Bear House live here. Twenty years ago it was a minor village of a minor house. Now its chief gives the greatest feasts on the coast.
+Every spring two plank canoes come up the empty shore from the south, low in the water, and run in over the bar of the [South River]{.name data-type="place/feature"} to the beach at Lamekis. They carry beads: the [Northern Strand]{.name data-type="lore/custom"}, sent by the chiefs of the northern [[affiliation-shuqash|Shell-Bead People]] so that the Cedar war canoes leave their towns alone. Lamekis, Bear Beach, is the southernmost village of the [[affiliation-kelwanuk|Cedar People]], on a sandspit behind the river bar at the southern end of the [[place-yumisrgn|Outer Beaches]], and about 1,500 people of the Bear House live here. Twenty years ago it was a minor village of a minor house. Now its chief gives the greatest feasts on the coast.
 
 ## The Strand and the Market
 

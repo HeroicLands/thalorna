@@ -15,6 +15,7 @@ data:
     addresses:
       - skill-grukarlng
       - lore-grukarfolk
+      - lore-grukarclt
       - lore-grukaraelwyth
       - lore-grukarapp
       - being-grkrahk

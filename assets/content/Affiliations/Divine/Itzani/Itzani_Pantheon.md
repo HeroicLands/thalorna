@@ -6,6 +6,7 @@ subType: faithtradition
 description: "Unified Ki'i'chek religion of ten gods orchestrating celestial cycles, blood sacrifice as reciprocity, and the fifth age's perpetual brink of cosmological dissolution."
 tags: [pantheon, itzani, religion]
 data:
+  culture: kiichchikclt
   banner: pantheonbnr
   templatePriority: null
   demonym: null
@@ -126,7 +127,7 @@ The Itsani priesthood is organized in a three-tier hierarchy that mirrors the st
 
 Within this unified hierarchy, priests specialize in the service of particular gods. These specializations function as branches or orders within the single institution—a priest might spend their career serving one god's temples, but they answer to the same Ch'alish Tq'an and share the same theological training as all other priests. The major specialist branches are:
 
-The **solar priests** of [[affiliation-tzenultqan|Ts'en'ul Tq'an]], who maintain the great pyramid-temples, oversee the solstice ceremonies, and validate royal succession. The **fire-keepers** (ch'ayik tq'an) of [[affiliation-kayikchalix|K'ayik Ch'alish]], who tend the eternal flames and conduct the transformation of sacrifice into divine essence. The **water-priests** (ne'tq'an) of [[affiliation-puqilchaqun|P'uqil Ch'akun]], who dwell at high-altitude temples, endure lightning and storm, and perform the rain-calling ceremonies. The **serpent-keepers** (Tz'umaq'ob), also serving P'uqil Ch'akun, who manage the binding rituals that keep the storm-serpent's destructive aspect in check. The **astronomers** (ch'alishbal ish'ilan) of [[affiliation-ixilanchalix|Ish'ilan Ch'alish]], who maintain the observatories and the sacred calendar. The **agricultural priests** of [[affiliation-kanixhakan|K'anish Ha'kan]], who bless the planting and harvest and maintain experimental temple gardens. The **builder-priests** of [[affiliation-piqalkulqat|P'iqal Kul'qat]], organized by craft specialization, who oversee all sacred construction. The **death-walkers** (Ish'bal'ob) of [[affiliation-tzuqilixbal|Ts'uqil Ish'bal]], who guide souls through [[place-chaltzumaq|Ch'al Ts'umaq]] and maintain the funerary codices. The **owl keepers** ([[affiliation-pikob|Pik'ob]]), the contemplative branch of Ts'uqil Ish'bal's service, who tend the sacred groves and teach the theology of dissolution and renewal. The **dream-keepers** (Ts'uqal'ob) of [[affiliation-naliktzuqal|Nal'ik Ts'uqal]], who operate the dream-temples and interpret visions. The **road priests** of [[affiliation-xilanixlan|Shilan Ish'lan]], who maintain the white roads and serve as guides and mediators of commerce. And the **water priestesses** (Ch'alishbal Ha'nal) of [[affiliation-xaqikhanal|Shaq'ik Ha'nal]]—unique in being almost entirely female—who guard the sacred pools, attend births, and practice healing arts.
+The **solar priests** of [[affiliation-tzenultqan|Ts'en'ul Tq'an]], who maintain the great pyramid-temples, oversee the solstice ceremonies, and validate royal succession. The **fire-keepers** (ch'ayik tq'an) of [[affiliation-kayikchalix|K'ayik Ch'alish]], who tend the eternal flames and conduct the transformation of sacrifice into divine essence. The **water-priests** (ne'tq'an) of [[affiliation-puqilchaqun|P'uqil Ch'akun]], who dwell at high-altitude temples, endure lightning and storm, and perform the rain-calling ceremonies. The **serpent-keepers** (Ts'umaq'ob), also serving P'uqil Ch'akun, who manage the binding rituals that keep the storm-serpent's destructive aspect in check. The **astronomers** (ch'alishbal ish'ilan) of [[affiliation-ixilanchalix|Ish'ilan Ch'alish]], who maintain the observatories and the sacred calendar. The **agricultural priests** of [[affiliation-kanixhakan|K'anish Ha'kan]], who bless the planting and harvest and maintain experimental temple gardens. The **builder-priests** of [[affiliation-piqalkulqat|P'iqal Kul'qat]], organized by craft specialization, who oversee all sacred construction. The **death-walkers** (Ish'bal'ob) of [[affiliation-tzuqilixbal|Ts'uqil Ish'bal]], who guide souls through [[place-chaltzumaq|Ch'al Ts'umaq]] and maintain the funerary codices. The **owl keepers** ([[affiliation-pikob|Pik'ob]]), the contemplative branch of Ts'uqil Ish'bal's service, who tend the sacred groves and teach the theology of dissolution and renewal. The **dream-keepers** (Ts'uqal'ob) of [[affiliation-naliktzuqal|Nal'ik Ts'uqal]], who operate the dream-temples and interpret visions. The **road priests** of [[affiliation-xilanixlan|Shilan Ish'lan]], who maintain the white roads and serve as guides and mediators of commerce. And the **water priestesses** (Ch'alishbal Ha'nal) of [[affiliation-xaqikhanal|Shaq'ik Ha'nal]]—unique in being almost entirely female—who guard the sacred pools, attend births, and practice healing arts.
 
 The tension within Ki'i'chek politics is not between rival priesthoods of different gods, but between the unified priestly caste and the secular authority of the Ts'enmah. And within the priesthood itself, the competition is between specialist branches vying for resources, influence, and the Ch'alish Tq'an's favor—the rain-callers arguing for more resources during drought, the serpent-keepers demanding attention when earthquakes shake the land, the astronomers insisting that their calculations take priority over the fire-keepers' ceremonial schedule.
 
@@ -184,6 +185,12 @@ The Ki'ich'chik term for Dreadspawn is **Kul'ik P'iqal**—"Living Works of the 
 
 [[skill-kiichek|Ki'i'chek Language]]
 : the tongue and its naming conventions
+
+[[lore-chumtsena|Ch'um Ts'ena]]
+: the priesthood's framework of workings, spoken into the days the counts open
+
+[[affiliation-itsanihierarchy|The Itsani Hierarchy]]
+: the one priesthood's ladder, the Q'emul Tq'an, and the bodies that open, carry and forbid its workings
 
 [[affiliation-arldnpnthn|Aureldian Pantheon]]
 : Western Ankarian equivalent

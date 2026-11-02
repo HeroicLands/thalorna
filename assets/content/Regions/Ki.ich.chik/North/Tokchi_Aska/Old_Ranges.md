@@ -8,7 +8,7 @@ tags: [region]
 data:
   culture: tokchiliclt
   demonym: Tokchili
-  lore: [humanflk]
+  lore: [tokchiliclt]
   parents: [tokchiaskargn]
   population: 330000
   packFolder: tokchiaska

@@ -1,5 +1,5 @@
 ---
-shortcode: heroesandknaveskichchik
+shortcode: heroesandknaveskiichchik
 name: {full: "Ki'ich'chik"}
 type: folder
 data: {parent: heroesandknaves, color: "#9ACD32"}

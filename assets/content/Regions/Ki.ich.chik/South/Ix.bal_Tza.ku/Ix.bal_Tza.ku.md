@@ -6,114 +6,123 @@ subType: polity
 description: "Jewel of the southern Ki'ich'chik: volcanic peaks, terraced valleys, and a coast of metals, cacao, and feathered luxury."
 tags: [polity]
 data:
+  culture: kiichchikclt
   icon: null
   templatePriority: null
   demonym: null
   epithet: null
   symbol: null
   governance:
-    model: monarchy
-    summary: ""
+    model: theocracy
+    summary: >-
+      The Ts'enmah of Ish'bal Tsa'ku is a priest-king who holds every field and herd of the realm in the sun's name and lends them to its kin groups. Each valley's fields are divided three ways, for the temples, for the Ts'enmah and for the kin groups, and each kin group works all three in its labor turn. Households are counted in twenties under a Ts'obmah and in four hundreds under a hereditary Pel'ushmah, the cord-keepers knot the count, and inspectors sent by the Ts'enmah walk the valleys to check it. Every town has an upper and a lower half, each with its own lord. The coastal cities are held by lords of the sea who keep their own fleets and guard their autonomy, and the rulers of Ne' P'ashel take tribute from the trade that passes them.
     ranks:
       - level: 0
-        title: Exile
+        title: Shaq'bal
         description: >-
-          Driven from the city and denied its ballcourt, its market and its rites; no lord will take him and no kin will own him.
+          A stranger: counted in no kin group, so that no field is allotted him, no storehouse feeds him and no cord-keeper knots a cord for him.
       - level: 1
-        title: Captive
+        title: Ch'upbal
         description: >-
-          Taken in war and held for labor or for the altar, with no standing and, commonly, no long future.
+          A bound servant: taken out of his kin group for life to serve a temple or a lord's house, who works its fields, is fed from its stores, and whose children serve after him.
       - level: 2
-        title: Commoner
+        title: Nalashbal
         description: >-
-          Working the maize plots and owing labor on the temple platforms and causeways, and tribute in maize, cloth and cacao.
+          A kin member: of a household of a kin group, allotted fields each year by the size of the household, owing the labor turn, and fed from the storehouses in a bad year.
       - level: 3
-        title: Craftsman
+        title: Puq'em
         description: >-
-          Of the skilled trades—potters, weavers, feather-workers, stone-cutters—attached to a lord's household or a temple.
+          Highborn: of a house that holds a valley, or part of one, by inheritance, free of the labor turn, from which the Pel'ushmah come.
       - level: 4
-        title: Warrior
-        description: Taker of captives, whose standing rises with each one and whose dress records them.
+        title: Ch'alishbal
+        description: >-
+          A priest: ordained in the Itsani faith, who in the south takes precedence over every lay lord but the Sun's kin.
       - level: 5
-        title: Scribe or Priest
+        title: Ts'en Nalash
         description: >-
-          Keeper of the count of days, the glyphs and the rites, without whom no lord may act at an auspicious hour.
+          The Sun's kin: of a line descended from a past Ts'enmah. Each line keeps its founder's body, house and lands after his death, brings him to the great rites and speaks for him in council.
       - level: 6
-        title: K'anulmah
-        description: A noble lord of the city, holding land, dependents and a place in the Ts'enmah's court.
-      - level: 7
-        title: Kulmah
-        description: >-
-          A subordinate lord holding a lesser center for the Ts'enmah, and the usual rank of a conquered city's ruler.
-      - level: 8
         title: Ts'enmah
         description: >-
-          Holy Lord: divine king of the city, who bleeds for it at the turn of the calendar and embodies it in war.
+          Sun Lord: ordained a priest before he is raised, who holds every field and herd of the realm in the sun's name and lends them to the kin groups.
     offices:
       Ts'enmah: >-
-        Holy Lord and divine king of the city, whose bloodletting at the calendar's turns sustains it.
-      Ish'kanmah: >-
-        Royal lady of the city, of a lineage recorded and married for, and a ruler in her own right where the line requires it.
-      Kulmah: Subordinate lord holding a lesser center in the Holy Lord's name.
-      K'anulmah: Noble lord of the city, holding land, dependents and a voice at court.
-      Ts'enbal: Priest of the sun and keeper of the count of days, who fixes every auspicious hour.
-      P'ilambal: >-
-        Scribe and painter, keeper of the glyphs, the genealogies and the monuments that assert them.
-      Shok'almah: War-leader appointed for a campaign, and set aside when it ends.
-      Ha'nalmah: Governor of a subject town, collecting its tribute and hearing its disputes.
-      Ch'umts'om: Deputy and herald of a lord, who carries his word and is answered as if it were his.
-      P'ik'ulmah: >-
-        Master merchant of the long-distance trade in cacao, salt, obsidian and jade—and a lord's eyes abroad.
-      Ballcourt Keeper: >-
-        Warden of the court where the game is played, which is a rite, a lawsuit and a sacrifice at once.
+        Sun Lord: named by the last Sun Lord from among his sons, confirmed by the Presiding Ch'alish Tq'an and ordained a priest before he is raised. He holds every field and herd of the realm in the sun's name.
+      Ts'ikmah: >-
+        Lord of the upper half: every town is two halves, upper and lower, each with its own lord, kin groups and fields. The lord of the upper half takes precedence, leads in the rites and speaks first.
+      Ch'almah: >-
+        Lord of the lower half: rules the lower half of a town as the Ts'ikmah rules the upper, and leads its kin groups in the labor turn and in war.
+      Nalashmah: >-
+        Head of a kin group: allots its fields each year by the size of each household, calls its members to the labor turn and answers for them.
+      Ts'obmah: >-
+        Head of twenty households: chosen from among them, who counts them each year for the cord-keepers and leads them in the labor turn.
+      Pel'ushmah: >-
+        Lord of four hundred households: a Puq'em who holds the office by inheritance, has twenty Ts'obmah under him, and answers to the Sun Lord for his valley's count and its labor.
+      K'ayalbal: >-
+        Inspector: sent by the Sun Lord to walk a province without warning, count its storehouses against the cords, hear complaints against its lords, and put out of office a Pel'ushmah whose count is false.
+      K'otselbal: >-
+        Cord-keeper: knots a valley's households, harvests, herds and stores into the k'otsel, and reads them aloud to the inspector.
+      Ts'opilbal: >-
+        Keeper of the storehouses: keeps the rows of storehouses above each town, the temple's, the Sun Lord's and the kin groups', and opens them in a bad year or to feed an army on the march.
+      Ne'kalmah: >-
+        Lord of the sea: rules a coastal city such as Ts'alam Ne' under the Ts'enmah, keeps its fleet, and pays its tribute in metal, cacao and feathers.
   seat: ixbaltzaku2
   population: null
   economy: []
-  lore: [humanflk]
+  lore: [kiichchikclt]
   parents: []
   relations: {itzanpnthn: aligned}
   packFolder: ixbaltzaku
 sohl: {system: {commonSkills: []}}
 
 # terran_analog: Equador, Peru, western Brazil
-# terran_analog: the ranks and offices are the Classic Maya court: Ts'enmah the k'uhul ajaw, K'anulmah the ajaw, Ish'kanmah the ix ajaw, Kulmah the sajal, Ts'enbal the ah k'in, P'ilambal the aj ts'ib, Shok'almah the nacom, Ha'nalmah the batab, Ch'umts'om the ah kulel and P'ik'ulmah the ppolom; the maize plots are the milpa
+# terran_analog: the governance takes the shape of the Inca state: the Ts'enmah is the Sapa Inca, the Ts'en Nalash the royal panaqa that kept a dead ruler's body and estates, the kin groups the ayllu, the two halves hanan and hurin, the labor turn the mit'a, the Ts'obmah and Pel'ushmah the decimal officials counted here in twenties, the hereditary Pel'ushmah the curaca, the K'ayalbal the inspectors, the K'otselbal the quipu keepers and the storehouses the qollqa; no title is an Inca word
 ---
 
 ## Overview
 
-Ish'bal Tsa'ku holds the land of the [[place-ixbaltzakurgn|Ish'bal Tsa'ku Region]]. The region is home to some of the most powerful city-states in all of [[place-kiichchik|Ki'ich'chik]], rivals in grandeur and influence even to the great cities of [[affiliation-ixilankul|Ish'ilankul]]. The name itself means "Jaguar's House" in the high speech, and the region's peoples have long revered the spotted predator as an emblem of divine power and earthly dominion.
+Ish'bal Tsa'ku holds the land of the [[place-ixbaltzakurgn|Ish'bal Tsa'ku Region]], the mountains, terraced valleys, jungle rivers and western coast that are the richest country of the south. Its cities rival the great ones of [[affiliation-ixilankul|Ish'ilankul]] in grandeur, and its forges make much of the steel the warriors of [[place-kiichchik|Ki'ich'chik Continent]] carry. The jaguar is its emblem, revered as the spotted image of divine power.
 
-The region stands as the uppermost reach of Ki'ich'chik's southern expansion, fully integrated into the unified priesthood of the [[affiliation-itzanpnthn|Itsani]] and bound by the sacred _ish'lan ch'upul_ (white roads) that connect its greatest cities. The [Ch'um Ish'lan]{.name data-type="affiliation"} relay network reaches Ish'bal Tsa'ku in three to four days from Ish'ilankul, routing through [[affiliation-neokbaate|Ne'ok Ba'ate]] along the great southern white road; the priesthood maintains well-staffed way-stations along the highland road, ensuring that the Ch'alish Tq'an's decrees and intelligence from the heartland arrive with regularity. Here, the celestial calendar governs all—planting and harvest, pilgrimage and sacrifice. The great pyramid temples cast long shadows across terraced highlands, and blood spilled on their altars is held to water the cosmic order itself.
+The realm is fully part of the unified priesthood of the [[affiliation-itzanpnthn|Itsani Pantheon]] and bound to the heartland by the _ish'lan ch'upul_, the white roads. The [[affiliation-chumishlan|Ch'um Ish'lan]] reaches it in three to four days from Ish'ilankul, routed through [[affiliation-neokbaate|Ne'ok Ba'ate]] along the great southern white road, and the way-stations on the highland road are well kept. The celestial calendar governs planting and harvest, pilgrimage and sacrifice, and the great pyramids cast their shadows across the terraces.
 
-## Maritime Powers
+## Cities and Towns
 
-These coastal powers are nominally part of the Itsani unified priesthood, but they guard their maritime autonomy jealously, and the ocean itself remains a boundary that even the highest priest-kings approach with caution.
+The realm's seat is the city of [[place-ixbaltzaku2|Ish'bal Tsa'ku]], about 60,000 people in the mountains. Four towns carry most of the rest of its business:
 
-The river systems themselves are carefully controlled by the highland city-states. [[place-nepaxel|Ne’ P’ashel]] stands at the critical junction where mountain and jungle trade routes meet, and its rulers exact tribute and control from merchants passing through to the coast.
+[[place-nepaxel|Ne' P'ashel]]
+: the market town at the junction of the highland and jungle rivers, whose two halves toll every cargo that passes
 
-## Trade
+[[place-nekiahkul|Ne' Ki'ahkul]]
+: the forge town on a smoking mountain, where the smith kin make the realm's steel and obsidian
 
-Tribute flows constantly to the temples: the finest goods, the most precious offerings. The priesthood's control of trade is absolute; no major transaction occurs without priestly oversight and the extraction of religious levy.
+[[place-tzalamne|Ts'alam Ne']]
+: the great port on the western ocean, held by a lord of the sea who keeps his own fleet
+
+[[place-tzalamtzltl|Ts'alam Ts'ultel]]
+: the fortress of the high pass, garrisoned by the valleys in their labor turn
+
+## The Coast
+
+The cities of the western shore, Ts'alam Ne' first among them, belong to the realm and to the unified priesthood, but their lords of the sea keep their own fleets and guard their autonomy closely. The Ts'enmah's inspectors walk the inland valleys without warning and visit the coast by appointment. The ocean beyond the line of shore shrines is a boundary that even the priest-kings approach with caution, because out of sight of a shrine the day cannot be read.
+
+Inland, the highland towns command the rivers. Ne' P'ashel stands where the mountain and jungle routes meet, and its lords take their toll from every merchant passing through to the coast.
+
+## The Levy and the Seat
+
+Tribute flows constantly to the temples: the finest goods, the most precious offerings, a share of every cargo. The priesthood's control of trade is absolute, and no large transaction takes place without a priestly assessor present to take the levy.
+
+The Ts'enmah of Ish'bal Tsa'ku chafes at one thing. [[affiliation-itsanihierarchy|The Itsani Hierarchy]] (Q'emul Tq'an), the supreme high priest of the whole faith, sits at Kul'taq'an in Ish'ilankul, and the Sun Lords of Ish'ilankul's cities treat him as their own. At each conclave the Presiding Ch'alish Tq'an of Ish'bal Tsa'ku goes north with his city's coal and his Ts'enmah's instruction to press for a Q'emul Tq'an from the south, and at each conclave the heartland's high priests choose one of their own. The Ts'enmah's court says openly that a realm whose cities rival Ish'ilankul's deserves a voice at the top of the ladder.
 
 ## See Also
 
-[[affiliation-kuxiixbal|K'ushi Ish'bal]]
-: The transitional realm to the south
-
-[[place-nepaxel|Ne' P'ashel]]
-: The great river-junction city
-
-[[place-nekiahkul|Ne' Ki'ahkul]]
-: Volcanic highlands and metalwork center
-
-[[place-tzalamne|Ts'alam Ne']]
-: Coastal port and maritime power
-
-[[place-tzalamtzltl|Ts'alam Ts'ultel]]
-: Mountain fortress defending the passes
-
-[[affiliation-itzanpnthn|Itsani]]
-: The unified priesthood binding the realm
-
 [[place-ixbaltzakurgn|Ish'bal Tsa'ku Region]]
-: The land Ish'bal Tsa'ku holds
+: the land Ish'bal Tsa'ku holds
+
+[[place-ixbaltzaku2|Ish'bal Tsa'ku]]
+: the realm's seat
+
+[[affiliation-kuxiixbal|K'ushi Ish'bal]]
+: the plateau realm to the south
+
+[[affiliation-itzanpnthn|Itsani Pantheon]]
+: the faith whose priesthood binds the realm

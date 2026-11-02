@@ -7,7 +7,15 @@ description: "Five rival nations bound by the Red Stone Compact, two peoples out
 tags: [region]
 data:
   demonym: null
-  lore: [humanflk]
+  lore:
+    - kelwanukclt
+    - osetakonaclt
+    - tenlayaclt
+    - teyumiclt
+    - tokchiliclt
+    - shuqashclt
+    - tikupilaritclt
+    - kawiskakclt
   parents: [kiichchik]
   population: 3500000
   packFolder: kiichchik

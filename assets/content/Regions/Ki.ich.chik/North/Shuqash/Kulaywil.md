@@ -21,7 +21,7 @@ A canoe coming over from the islands sees the smoke first, from a hundred cookin
 
 ## The Beach and the Yard
 
-The beach is the town's workshop. At its east end stands the house of the [Canoe Kin]{.name data-type="affiliation/guild"}, a long reed house with a plank floor, where the [Paddle of Shiyawkal]{.name data-type="lore/custom"} hangs above the hearth and every son of the brotherhood takes his oath. In front of it is the yard, where two or three canoes are always under construction: planks split from driftwood logs drying in the sun, master sewers fitting the bow planks behind a screen of reed mats, apprentices drilling seam holes, and the tar pots smoking. Nobody outside the brotherhood walks behind the screen.
+The beach is the town's workshop. At its east end stands the house of the [[affiliation-canoekin|Canoe Kin]], a long reed house with a plank floor, where the [Paddle of Shiyawkal]{.name data-type="lore/custom"} hangs above the hearth and every son of the brotherhood takes his oath. In front of it is the yard, where two or three canoes are always under construction: planks split from driftwood logs drying in the sun, master sewers fitting the bow planks behind a screen of reed mats, apprentices drilling seam holes, and the tar pots smoking. Nobody outside the brotherhood walks behind the screen.
 
 Every canoe that lands here pays the chief a bead in ten of its cargo, and the chief's counter stands on the beach to count it. Kulaywil sees more cargo than any other beach on the coast, and its chief is the richest on the coast for that reason.
 

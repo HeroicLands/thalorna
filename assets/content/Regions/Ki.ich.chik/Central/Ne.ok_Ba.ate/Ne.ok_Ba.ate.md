@@ -6,6 +6,7 @@ subType: polity
 description: Isthmus of volcanic gateways and coastal city-states—the liminal trade corridor binding the Ki'ich'chik north to the south.
 tags: [polity]
 data:
+  culture: kiichchikclt
   icon: null
   templatePriority: null
   demonym: null
@@ -13,70 +14,73 @@ data:
   symbol: null
   governance:
     model: monarchy
-    summary: ""
+    summary: >-
+      Ne'ok Ba'ate is a patchwork of city-states, mountain kingdoms and coastal leagues, each ruled by its own Ts'enmah by descent, with Kulmah over its lesser seats and Ha'nalmah over its towns. Some send regular tribute to Ish'ilankul and the rest keep a looser tie, and every Ts'enmah keeps an envoy at the courts that matter to him. Royal ladies married between the cities bind them, and the cities call on one another for defense without submitting to any one of them. A war-leader is named for each campaign and set aside when it ends.
     ranks:
       - level: 0
-        title: Exile
+        title: Nalshubal
         description: >-
-          Driven from the city and denied its ballcourt, its market and its rites; no lord will take him and no kin will own him.
+          Lineless: one whose lineage has cast him out or died away, with no ancestors to name, no house floor to be buried under and no lord to answer for him.
       - level: 1
-        title: Captive
+        title: Ts'ik'ibal
         description: >-
-          Taken in war and held for labor or for the altar, with no standing and, commonly, no long future.
+          A slave: a captive spared the altar, or a thief who could not repay, owned by a lord's house and passed on with its goods.
       - level: 2
-        title: Commoner
+        title: Nal'ikbal
         description: >-
-          Working the maize plots and owing labor on the temple platforms and causeways, and tribute in maize, cloth and cacao.
+          A freeman: a farmer of his lineage's maize plots, owing tribute in maize, cloth and cacao to the lord of his town and labor on the temple platforms.
       - level: 3
-        title: Craftsman
+        title: P'ik'ulbal
         description: >-
-          Of the skilled trades—potters, weavers, feather-workers, stone-cutters—attached to a lord's household or a temple.
+          A craftsman: a potter, weaver, feather-worker or stone-cutter attached to a lord's house or a temple.
       - level: 4
-        title: Warrior
-        description: Taker of captives, whose standing rises with each one and whose dress records them.
-      - level: 5
-        title: Scribe or Priest
+        title: Ts'omilbal
         description: >-
-          Keeper of the count of days, the glyphs and the rites, without whom no lord may act at an auspicious hour.
+          A warrior-noble: a younger son of a lord-house in a lord's service, who fights in the captive-hunts and whose dress records his captives.
+      - level: 5
+        title: P'ilambal
+        description: >-
+          A scribe: of a noble house, often a younger kinsman of the Ts'enmah, who paints the books, carves the stones and keeps the genealogies on which every claim rests.
       - level: 6
         title: K'anulmah
-        description: A noble lord of the city, holding land, dependents and a place in the Ts'enmah's court.
+        description: >-
+          A noble lord: head of a lord-house, with land, dependents and a voice at court.
       - level: 7
         title: Kulmah
         description: >-
-          A subordinate lord holding a lesser center for the Ts'enmah, and the usual rank of a conquered city's ruler.
+          A subordinate lord: installed by a Ts'enmah over a lesser seat, in a rite that the Ts'enmah's stones record.
       - level: 8
         title: Ts'enmah
         description: >-
-          Holy Lord: divine king of the city, who bleeds for it at the turn of the calendar and embodies it in war.
+          Sun Lord: holy king of the city by descent, who bleeds for it at the calendar's turns and embodies it in war.
     offices:
       Ts'enmah: >-
-        Holy Lord and divine king of the city, whose bloodletting at the calendar's turns sustains it.
+        Sun Lord: holy king of the city, succeeded by his son or his brother and enthroned by the priests, whose blood offered at the calendar's turns sustains the city.
+      Ts'enilbal: >-
+        Heir to the sun: the son or brother a Ts'enmah names in a public rite while the heir is still a child, and who stands beside him at every rite after it.
       Ish'kanmah: >-
-        Royal lady of the city, of a lineage recorded and married for, and a ruler in her own right where the line requires it.
-      Kulmah: Subordinate lord holding a lesser center in the Holy Lord's name.
-      K'anulmah: Noble lord of the city, holding land, dependents and a voice at court.
-      Ts'enbal: Priest of the sun and keeper of the count of days, who fixes every auspicious hour.
-      P'ilambal: >-
-        Scribe and painter, keeper of the glyphs, the genealogies and the monuments that assert them.
-      Shok'almah: War-leader appointed for a campaign, and set aside when it ends.
-      Ha'nalmah: Governor of a subject town, collecting its tribute and hearing its disputes.
-      Ch'umts'om: Deputy and herald of a lord, who carries his word and is answered as if it were his.
-      P'ik'ulmah: >-
-        Master merchant of the long-distance trade in cacao, salt, obsidian and jade—and a lord's eyes abroad.
-      Ballcourt Keeper: >-
-        Warden of the court where the game is played, which is a rite, a lawsuit and a sacrifice at once.
+        Royal lady: a woman of the royal line, married into another city to bind it, regent for a son too young to rule, and ruler in her own right where the line requires it.
+      Kulmah: >-
+        Subordinate lord: holds a lesser seat for the Ts'enmah, takes its tribute and sends its warriors when he is called.
+      Ha'nalmah: >-
+        Town governor: holds a town under a Kulmah by inheritance in his house, collects its tribute and hears its disputes.
+      Shok'almah: >-
+        War-leader: named for one campaign, who keeps apart from his household for its length and is set aside when it ends.
+      Kulumbal: >-
+        Keeper of the stones: a P'ilambal of the royal house who chooses what each new stone records of the Ts'enmah's reign, and raises one at every turn of the count.
+      Ch'umts'om: >-
+        Envoy: a K'anulmah kept at the court of Ish'ilankul or of a neighboring city, who speaks for his Ts'enmah there and is answered as if he were the Ts'enmah.
   seat: neokbaate2
   population: null
   economy: []
-  lore: [humanflk]
+  lore: [kiichchikclt]
   parents: []
   relations: {itzanpnthn: aligned}
   packFolder: neokbaate
 sohl: {system: {commonSkills: []}}
 
 # terran_analog: Nicaragua through Colombia
-# terran_analog: the ranks and offices are the Classic Maya court: Ts'enmah the k'uhul ajaw, K'anulmah the ajaw, Ish'kanmah the ix ajaw, Kulmah the sajal, Ts'enbal the ah k'in, P'ilambal the aj ts'ib, Shok'almah the nacom, Ha'nalmah the batab, Ch'umts'om the ah kulel and P'ik'ulmah the ppolom; the maize plots are the milpa
+# terran_analog: the governance takes the shape of the Classic Maya kingdoms of the southern lowlands: the Ts'enmah is the holy lord, the Ts'enilbal the named heir, the Ish'kanmah the royal lady married between dynasties, the Kulmah the sajal, the Ha'nalmah the batab and the Shok'almah the nacom, and the Kulumbal raises the stelae of the period endings; no title is a Maya word
 ---
 
 ## Overview
@@ -87,9 +91,9 @@ Culturally and politically, Ne'ok Ba'ate is a realm of synthesis and contestatio
 
 ## City-States and Realms
 
-The political landscape of Ne'ok Ba'ate is characterized by what northern scholars disdainfully call "the [Fragment Realms]{.name data-type="place/region"}"—a patchwork of competing city-states, mountain kingdoms, and coastal confederacies. Some, like [Ne' Ts'umul]{.name data-type="place/settlement"} and [Q'o Kul'qat]{.name data-type="place/settlement"}, maintain the full ceremonial apparatus of the Itsani faith and send regular tribute to Ish'ilankul. Others, particularly the coastal cities and the highland kingdoms of the interior, maintain a more loosely affiliated relationship with northern orthodoxy, blending Itsani practices with local traditions and reserving the right to conduct their own negotiations with their own gods.
+The political landscape of Ne'ok Ba'ate is characterized by what northern scholars disdainfully call "the [Fragment Realms]{.name data-type="place/region"}"—a patchwork of competing city-states, mountain kingdoms, and coastal confederacies. Some, like [[place-netsumul|Ne' Ts'umul]] and [[place-qokulqat|Q'o Kul'qat]], maintain the full ceremonial apparatus of the Itsani faith and send regular tribute to Ish'ilankul. Others, particularly the coastal cities and the highland kingdoms of the interior, maintain a more loosely affiliated relationship with northern orthodoxy, blending Itsani practices with local traditions and reserving the right to conduct their own negotiations with their own gods.
 
-The [Ch'um Ish'lan]{.name data-type="affiliation"} maintains a presence in Ne'ok Ba'ate, though the relay network here reflects the region's fragmented politics. Messages from Ish'ilankul reach the major Ne'ok Ba'ate city-states in two to three days, but the priesthood-controlled way-stations are fewer and more widely spaced than in the heartland. The independent-minded Ts'enmah of Ne'ok Ba'ate have occasionally attempted to establish their own messenger networks outside priestly authority—efforts that the Itsani have always suppressed with swift and pointed reminders of who controls the Speaking Road.
+The [[affiliation-chumishlan|Ch'um Ish'lan]] maintains a presence in Ne'ok Ba'ate, though the relay network here reflects the region's fragmented politics. Messages from Ish'ilankul reach the major Ne'ok Ba'ate city-states in two to three days, but the priesthood-controlled way-stations are fewer and more widely spaced than in the heartland. The independent-minded Ts'enmah of Ne'ok Ba'ate have occasionally attempted to establish their own messenger networks outside priestly authority—efforts that the Itsani have always suppressed with swift and pointed reminders of who controls the Speaking Road.
 
 This fragmentation is both weakness and strength. Ne'ok Ba'ate cannot field the unified armies or match the population of Ish'ilankul, nor does it possess the concentrated mercantile or intellectual power of K'ankul. Yet it is far more resilient against external domination than its small size might suggest. The terrain is too complex for an invading army to occupy; the sea routes cannot be entirely blockaded; and the numerous independent city-states can call upon one another for mutual defense without submitting to permanent rule by any single power.
 

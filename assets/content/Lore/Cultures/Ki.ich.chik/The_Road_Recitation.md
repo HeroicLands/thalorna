@@ -3,7 +3,7 @@ shortcode: roadrecitation
 name: {full: The Road Recitation, kiichek: [ch'umel kil ish'lan]}
 type: lore
 subType: literature
-description: "The short recitation of the trials of Ch'al Ts'umaq that a road shrine keeper says over a traveller who dies on the white road, as the keeper at Ts'ilil Ch'imik said it over a runner who came in, handed on his cord and died: five of the chambers, a deception in four of them and the jaguar in the fourth, and the dead sent on behind the night sun until the death-walkers can reach him."
+description: "The short recitation of the trials of Ch'al Ts'umaq that a road shrine keeper says over a traveler who dies on the white road, as the keeper at Ts'ilil Ch'imik said it over a runner who came in, handed on his cord and died: five of the chambers, a deception in four of them and the jaguar in the fourth, and the dead sent on behind the night sun until the death-walkers can reach him."
 tags: [draft, kiichchik]
 data:
   packFolder: settinglore
@@ -20,11 +20,11 @@ data:
 # terran_analog: "The Maya underworld of houses and trials through which the dead and the night sun pass, and the Book of the Dead's spells that name each gate and what waits in it; the Inca relay runner, who hands on his message at the post and is replaced. Departs: the guide is a road priest with a short form and no fee, the family's silent part is taken by whoever stops at the shrine, and the last trial is an offer to go back."
 ---
 
-**The Road Recitation**, _ch'umel kil ish'lan_ (the voice of the road), is the short form of the recitation of the trials of [[place-chaltzumaq|Ch'al Ts'umaq]] that the death-walkers of [[affiliation-tzuqilixbal|Ts'uqil Ish'bal]] teach to every road shrine keeper of [[affiliation-xilanixlan|Shilan Ish'lan]]. A traveller who dies on the white road is the keeper's charge. The keeper sits with the body through the night, says what he knows of the trials, and sends for the death-walkers of the nearest city, who come at first light and give the full recitation over the body. The death-walkers name many more chambers than the road form, which names five and says plainly that it names five.
+**The Road Recitation**, _ch'umel kil ish'lan_ (the voice of the road), is the short form of the recitation of the trials of [[place-chaltzumaq|Ch'al Ts'umaq]] that the death-walkers of [[affiliation-tzuqilixbal|Faith of Ts'uqil Ish'bal]] teach to every road shrine keeper of [[affiliation-xilanixlan|Faith of Shilan Ish'lan]]. A traveler who dies on the white road is the keeper's charge. The keeper sits with the body through the night, says what he knows of the trials, and sends for the death-walkers of the nearest city, who come at first light and give the full recitation over the body. The death-walkers name many more chambers than the road form, which names five and says plainly that it names five.
 
 The night watch has its rules from the house, and the road changes them. In a house the family sits and listens and does not speak, and only the Speaker of the Trials talks. On the road there is rarely any family, so whoever has stopped at the shrine that night sits as the family: a carter, a pilgrim, a merchant's porters, a runner waiting for his relief. The keeper asks nothing of them but silence. The keeper takes no fee. A family in the city pays for accuracy, and pays the most it can; the road form is free, and the keeper has said what it is before he begins.
 
-This is the recitation as [K'ushi Ts'alu]{.name data-type="being/npc"}, keeper of the shrine at [Ts'ilil Ch'imik]{.name data-type="place/site"} ("Swallow Hill") on the great eastern white road, said it over [Shelem Q'aptel]{.name data-type="being/npc"}, a runner of the [Ch'um Ish'lan]{.name data-type="affiliation"}. Shelem Q'aptel came up the last stage before the shrine at a dead run in the second half of the night, gave his cord and his memorized message to the relief at the station beside the shrine, sat down on the step, and died there. The relief ran on before anyone knew he was dead, because a message cannot wait. Two merchants and a porter who were sleeping at the shrine sat the night. The keeper shaped the deceptions to a runner's road, which a keeper is allowed to do and the death-walkers are not: the death-walkers say each deception in the words of the codex, and a keeper says it in words the dead will know.
+This is the recitation as [K'ushi Ts'alu]{.name data-type="being/npc"}, keeper of the shrine at [Ts'ilil Ch'imik]{.name data-type="place/site"} ("Swallow Hill") on the great eastern white road, said it over [Shelem Q'aptel]{.name data-type="being/npc"}, a runner of the [[affiliation-chumishlan|Ch'um Ish'lan]]. Shelem Q'aptel came up the last stage before the shrine at a dead run in the second half of the night, gave his cord and his memorized message to the relief at the station beside the shrine, sat down on the step, and died there. The relief ran on before anyone knew he was dead, because a message cannot wait. Two merchants and a porter who were sleeping at the shrine sat the night. The keeper shaped the deceptions to a runner's road, which a keeper is allowed to do and the death-walkers are not: the death-walkers say each deception in the words of the codex, and a keeper says it in words the dead will know.
 
 : ch'umel kil ish'lan {#ch-umel-kil-ish-lan}
 
@@ -261,7 +261,7 @@ ts'akun‼ ish'lan ts'analun.
 : the underworld, the Speaker of the Trials and the lost
 
 [[affiliation-xilanixlan|Faith of Shilan Ish'lan]]
-: the road shrine keepers, the traveller's deposit at the shrine stone, and the road dead
+: the road shrine keepers, the traveler's deposit at the shrine stone, and the road dead
 
 [[affiliation-tzuqilixbal|Faith of Ts'uqil Ish'bal]]
 : the death-walkers, the full recitation and its fee

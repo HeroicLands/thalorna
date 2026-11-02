@@ -6,7 +6,7 @@ subType: language
 description: "The glottal, glyph-written tongue of the Ki'ich'chik city-states, with short everyday words and richly compounded titles."
 tags: []
 data:
-  roman: "abcehiklmnopqstuyzáéíóúë0123456789()–-'’"
+  roman: "abcehiklmnopqstuyzáéíóúë0123456789()–-'"
   core: true
   abbreviation: Kiichk.
   icon: icon-speaking
@@ -473,6 +473,11 @@ data:
       built: [ts'om, -il, -bal]
     - {form: mah'alil, class: n, field: "Rank, temple and court", gloss: the lord of a people}
     - {form: q'emul, class: adj, field: "Rank, temple and court", gloss: supreme}
+    - form: "tq'anil"
+      class: n
+      field: "Rank, temple and court"
+      gloss: a gate-name, the fourth name the gate priests give one who comes back from the waste
+      built: ["tq'an", "-il"]
     - form: q'emulmah
       class: n
       field: Rank, temple and court
@@ -3178,7 +3183,7 @@ data:
     - form: ch'imal ni ke ti
       class: call
       field: Everyday speech
-      gloss: You’re welcome
+      gloss: You're welcome
       note: "Thanks between me and you: a conventional acceptance of thanks, without an obligation of repayment."
       concept: expression-youre-welcome
     - form: ni k'ayulun
@@ -3424,7 +3429,7 @@ data:
       - Affiliations/Divine/Itzani/
       - Lore/Deities/Itzani/
       - Skills/Mystical/Itzani/
-    addresses: [skill-kiichek, skill-chlxplmscrpt, skill-ktzlcrdscrpt]
+    addresses: [skill-kiichek, skill-chlxplmscrpt, skill-ktzlcrdscrpt, lore-kiichchikclt]
   tongues:
     - {tag: kiichek, meaning: a Ki'i'chek name, language: skill-kiichek}
     - {tag: translation, meaning: a name given in the language of these pages}
@@ -3457,7 +3462,7 @@ data:
     - {name: Ish'ilan Ch'alish, tongue: kiichek}
     - {name: Ish'ilankul, tongue: kiichek}
     - {name: Ish'ilankul Region, tongue: translation}
-    - {name: "Ishkul Ch’alish", tongue: kiichek}
+    - {name: "Ishkul Ch'alish", tongue: kiichek}
     - {name: Ishtem Tsul, tongue: kiichek}
     - {name: K'anish Ha'kan, tongue: kiichek}
     - {name: K'ankul, tongue: kiichek}
@@ -3467,6 +3472,11 @@ data:
     - {name: Ki'ich'chik, tongue: kiichek}
     - {name: Ki'ich'chik Continent, tongue: translation}
     - {name: K'otsel, tongue: kiichek}
+    - {name: Ha'kin, tongue: kiichek}
+    - {name: Shok'al Kulum, tongue: kiichek}
+    - {name: Tq'an P'ilam, tongue: kiichek}
+    - {name: Ch'ishel, tongue: kiichek, built: [ch'ish-, -el]}
+    - {name: Ha'nakel, tongue: kiichek, built: [ha'nak, -el]}
     - {name: K'otsel Cord Script, tongue: translation}
     - {name: K'ushi Ish'bal, tongue: kiichek}
     - {name: K'ushi Ish'bal Region, tongue: translation}
@@ -3478,8 +3488,8 @@ data:
     - {name: Nal'ik Ts'uqal, tongue: kiichek}
     - {name: Ne'ok Ba'ate, tongue: kiichek}
     - {name: Ne'ok Ba'ate Region, tongue: translation}
-    - {name: "Ne’ Ki’ahkul", tongue: kiichek}
-    - {name: "Ne’ P’ashel", tongue: kiichek}
+    - {name: "Ne' Ki'ahkul", tongue: kiichek}
+    - {name: "Ne' P'ashel", tongue: kiichek}
     - {name: Northern Ki'ich'chik, tongue: translation}
     - {name: Owl Keepers, tongue: translation}
     - {name: P'enqal Ch'akal, tongue: kiichek}
@@ -3489,7 +3499,7 @@ data:
     - {name: Pik'ul Ts'umaq, tongue: kiichek}
     - {name: Q'aptel Tsa'kul, tongue: kiichek}
     - {name: Q'aptel Tsa'kul Region, tongue: translation}
-    - {name: "Q’aptel’ul Ne’ok", tongue: kiichek}
+    - {name: "Q'aptel'ul Ne'ok", tongue: kiichek}
     - {name: "Ritual: Ish'ilan Ch'alish", tongue: translation}
     - {name: "Ritual: K'anish Ha'kan", tongue: translation}
     - {name: "Ritual: K'ayik Ch'alish", tongue: translation}
@@ -3523,7 +3533,34 @@ data:
     - {name: The Sun at the World's Edge, tongue: translation}
     - {name: The Ten of the Celestial Round, tongue: translation}
     - {name: The Walker of Paths, tongue: translation}
-    - {name: The Walled City, tongue: translation}
+    # The strange works: the six sites a party can find
+    - name: The Ninth Post
+      tongue: translation
+    - {name: "Pek'ash Kulum", tongue: kiichek, built: ["pek'ash", kulum], gloss: the ninth stone}
+    - {name: The Rain-Drum, tongue: translation}
+    - name: "Ne'chan Ch'umel"
+      tongue: kiichek
+      built: ["ne'chan", "ch'umel"]
+      gloss: the voice of the rain
+    - {name: The Smooth Step, tongue: translation}
+    - name: "Pu'talal Ts'elun"
+      tongue: kiichek
+      built: ["pu'talal", "ts'elun"]
+      gloss: the smooth step
+    - {name: The Quiet Sill, tongue: translation}
+    - name: "Ish'lan Sh'anik"
+      tongue: kiichek
+      built: ["ish'lan", "sh'anik"]
+      gloss: the quiet road
+    - {name: The Cold Spine, tongue: translation}
+    - name: "Ch'upum Ha'kanal"
+      tongue: kiichek
+      built: ["ch'upum", "ha'kanal"]
+      gloss: the back of the cold
+    # The register continues
+    - name: The Walled City
+      tongue: translation
+    - {name: Ts'ab, tongue: kiichek}
     - {name: Ts'en'ul Tq'an, tongue: kiichek}
     - {name: Ts'ilil Ne'ts'ik, tongue: kiichek}
     - {name: Ts'okilkul, tongue: kiichek}
@@ -3531,17 +3568,233 @@ data:
     - {name: Ts'uma No'tun, tongue: kiichek}
     - {name: Ts'uma No'tun Region, tongue: translation}
     - {name: Ts'umaq K'alanil, tongue: kiichek}
+    - {name: Ts'umaq'ob, tongue: kiichek}
     - {name: Ts'uqil Ish'bal, tongue: kiichek}
-    - {name: "Ts’alam Ne’", tongue: kiichek}
-    - {name: "Ts’alam Ts'ultel", tongue: kiichek}
+    - {name: "Ts'alam Ne'", tongue: kiichek}
+    - {name: "Ts'alam Ts'ultel", tongue: kiichek}
     - {name: Shaq'ik Ha'nal, tongue: kiichek}
     - {name: Shelem, tongue: kiichek}
-    - {name: "Shelem Ch’alish", tongue: kiichek}
+    - {name: "Shelem Ch'alish", tongue: kiichek}
     - {name: Shelem Ish'bal, tongue: kiichek}
     - {name: Shelem Ish'bal Region, tongue: translation}
     - {name: Shelem Region, tongue: translation}
     - {name: Shik'ul Ch'akal, tongue: kiichek}
     - {name: Shilan Ish'lan, tongue: kiichek}
+    - {name: "Ishkul Puq'em Tsul", tongue: kiichek}
+    - {name: "Nelush Ts'alam K'ushi", tongue: kiichek}
+    - {name: The Itsani Hierarchy, tongue: translation}
+    - {name: The One Priesthood, tongue: translation}
+    - {name: "Q'emul Tq'an", tongue: kiichek, built: ["q'emul", "tq'an"], gloss: Supreme Boundary}
+    - {name: The Star House, tongue: translation}
+    - name: "Ish'ilan Sh'ulum"
+      tongue: kiichek
+      built: ["ish'ilan", "sh'ulum"]
+      gloss: the Star House
+    - {name: The Blood-Workers, tongue: translation}
+    - {name: "Ts'umul'ob", tongue: kiichek, built: ["ts'umul"], gloss: the Blood-Workers}
+    - {name: The Severers, tongue: translation}
+    - {name: "Shaq'al'ob", tongue: kiichek, built: ["shaq'al"], gloss: the Severers}
+    # The waste: its countries, features and sites
+    - name: The Ash Country
+      tongue: translation
+    - {name: "K'aypukal", tongue: kiichek, built: ["k'aypuk", "-al"], gloss: the ash-bed}
+    - {name: The Thirst, tongue: translation}
+    - {name: "Ts'ikukal", tongue: kiichek, built: ["ts'ikuk", "-al"], gloss: the place of thirst}
+    - {name: The Sick Forest, tongue: translation}
+    - name: "Shikesh Ts'ik'al"
+      tongue: kiichek
+      built: [shikesh, "ts'ik'al"]
+      gloss: the sick forest
+    - {name: The Dead Water, tongue: translation}
+    - {name: "Ne' Ts'uqil", tongue: kiichek, built: ["ne'", "ts'uqil"], gloss: dead water}
+    - {name: The Long Winter, tongue: translation}
+    - {name: "Ne'kulal", tongue: kiichek, built: ["ne'kul", "-al"], gloss: the ice-bed}
+    - {name: The Boiling Ground, tongue: translation}
+    - {name: "Ne' K'ayich", tongue: kiichek, built: ["ne'", "k'ayich"], gloss: hot water}
+    - {name: The Dead Mountain, tongue: translation}
+    - name: "Ts'ultel Ts'uqil"
+      tongue: kiichek
+      built: ["ts'ultel", "ts'uqil"]
+      gloss: the dead mountain
+    - {name: The Far Flat, tongue: translation}
+    - {name: "Nalum Sh'aqal", tongue: kiichek, built: [nalum, "sh'aqal"], gloss: the far flat}
+    - {name: The Bruise, tongue: translation}
+    - {name: "H'ulal Ts'upal", tongue: kiichek, built: ["h'ulal", "ts'upal"], gloss: the ugly sky}
+    - {name: The Green Moonlight, tongue: translation}
+    - name: "Ts'uqal Ha'nak"
+      tongue: kiichek
+      built: ["ts'uqal", "ha'nak"]
+      gloss: green moonlight
+    - {name: The Sweet Water, tongue: translation}
+    - {name: "Ne' Nal'ishik", tongue: kiichek, built: ["ne'", "nal'ishik"], gloss: sweet water}
+    - {name: The Ice Shore, tongue: translation}
+    - {name: "Ilkan Ne'kul", tongue: kiichek, built: [ilkan, "ne'kul"], gloss: the ice shore}
+    - {name: The Ash Stair, tongue: translation}
+    - name: "Pu'talal K'aypuk"
+      tongue: kiichek
+      built: ["pu'talal", "k'aypuk"]
+      gloss: the stair of ash
+    - {name: The Seven Houses, tongue: translation}
+    - name: "Nuq'el Ch'alish"
+      tongue: kiichek
+      built: ["nuq'el", "ch'alish"]
+      gloss: the seven holy houses
+    - {name: The Playing House, tongue: translation}
+    - name: "Ts'ulam Ch'alish"
+      tongue: kiichek
+      built: ["ts'ulam", "ch'alish"]
+      gloss: the holy playing house
+    - {name: The Walking Groves, tongue: translation}
+    - name: "Shik'tel Shilan"
+      tongue: kiichek
+      built: ["shik'tel", shilan]
+      gloss: the groves that walk
+    - {name: Mirror Mountain, tongue: translation}
+    - name: "Ha'kin Ts'ultel"
+      tongue: kiichek
+      built: ["ha'kin", "ts'ultel"]
+      gloss: Mirror Mountain
+    - {name: The Dead Jaguar, tongue: translation}
+    # The heartland seats: the people named in the seat notes
+    - name: "Nelush Puq'em Ish'bal"
+      tongue: kiichek
+      built: [nelush, "puq'em", "ish'bal"]
+    - {name: "Ts'ultel Ishkul K'ushi", tongue: kiichek, built: ["ts'ultel", ishkul, "k'ushi"]}
+    - {name: "Tsul Q'aptel Shelem", tongue: kiichek, built: [tsul, "q'aptel", shelem]}
+    - {name: "Ishkul Ne'ok Ts'ultel", tongue: kiichek, built: [ishkul, "ne'ok", "ts'ultel"]}
+    - {name: "Ish'bal Ne'ok K'ushi", tongue: kiichek, built: ["ish'bal", "ne'ok", "k'ushi"]}
+    - {name: "Ne' Puq'em Q'emul", tongue: kiichek, built: ["ne'", "puq'em", "q'emul"]}
+    # The painted pyramid of the Thirst
+    - name: The Old Pyramid
+      tongue: translation
+    - name: "Kul'qat Sh'amik"
+      tongue: kiichek
+      built: ["kul'qat", "sh'amik"]
+      gloss: the old pyramid
+    # The creatures of the waste
+    - name: The Ash Cairn
+      tongue: translation
+    - {name: "Kulikok", tongue: kiichek, built: [kulik, "-ok"], gloss: full of plates}
+    - {name: The One More, tongue: translation}
+    - {name: "Shush'ikul", tongue: kiichek, built: [shu, "sh'ikul"], gloss: hairless}
+    - {name: The Jar-Keeper, tongue: translation}
+    - {name: "Ne'lumal", tongue: kiichek, built: ["ne'lum", "-al"], gloss: the jar-keeper}
+    - {name: The Threader, tongue: translation}
+    - {name: "P'iltsilok", tongue: kiichek, built: ["p'iltsil", "-ok"], gloss: full of threads}
+    - {name: The Mountain-Shaker, tongue: translation}
+    - name: "Ts'ultel Ts'akanal"
+      tongue: kiichek
+      built: ["ts'ultel", "ts'akan", "-al"]
+      gloss: the mountain that moves
+    # Factions of the continent: the bodies and the people named in them
+    - name: "Ch'um Ish'lan"
+      tongue: kiichek
+      built: ["ch'um-", "ish'lan"]
+      gloss: the Speaking Road
+    - {name: The Speaking Road, tongue: translation}
+    - name: "Ch'upalel Ish'lan"
+      tongue: kiichek
+      built: ["ch'upalum", "-el", "ish'lan"]
+      gloss: the Carried Road
+    - {name: The Carried Road, tongue: translation}
+    - {name: The River Houses, tongue: translation}
+    - name: "P'ik'ul Sh'ulum"
+      tongue: kiichek
+      built: ["p'ik'ul-", "sh'ulum"]
+      gloss: the houses of the trade
+    - {name: The Keepers of the Court, tongue: translation}
+    - name: "Ts'ulamalbal"
+      tongue: kiichek
+      built: ["ts'ulam", "-al", "-bal"]
+      gloss: those who serve the court
+    - {name: The Taking Societies, tongue: translation}
+    - {name: The Red Cords, tongue: translation}
+    - {name: "K'otsikbal", tongue: kiichek, built: ["k'otsik", "-bal"], gloss: the Red Cords}
+    - {name: The Patterned Cloaks, tongue: translation}
+    - name: "P'ilashbal"
+      tongue: kiichek
+      built: ["p'ilash", "-bal"]
+      gloss: the Patterned Cloaks
+    - {name: The Wall-Sworn, tongue: translation}
+    - {name: "Sh'ulakbal", tongue: kiichek, built: ["sh'ulak", "-bal"], gloss: the Wall-Sworn}
+    - {name: The Steel Kin, tongue: translation}
+    - name: "Kul'iqal Nalash"
+      tongue: kiichek
+      built: ["kul'iqal", nalash]
+      gloss: the family of the steel
+    - {name: The Storm Fleet, tongue: translation}
+    - name: "H'ulshok Ne'kal"
+      tongue: kiichek
+      built: ["h'ulshok", "ne'kal"]
+      gloss: the storm on the sea
+    - {name: "Nelush Puq'em", tongue: kiichek, built: [nelush, "puq'em"]}
+    - {name: "P'enqal Ne'ok", tongue: kiichek, built: ["p'enqal", "ne'ok"]}
+    - {name: "Shelem Ishtem Tsul", tongue: kiichek, built: [shelem, ishtem, tsul]}
+    - {name: "K'ushi Q'aptel", tongue: kiichek, built: ["k'ushi", "q'aptel"]}
+    # The ruins of the desert and the waste
+    - name: The Green Spring
+      tongue: translation
+    - name: "Ts'alam Ha'nak"
+      tongue: kiichek
+      built: ["ts'alam", "ha'nak"]
+      gloss: the green spring
+    - {name: The Black Pyramid, tongue: translation}
+    - name: "Kul'qat P'uqan"
+      tongue: kiichek
+      built: ["kul'qat", "p'uqan"]
+      gloss: the black pyramid
+    - {name: The Written Wall, tongue: translation}
+    - name: "Sh'ulak P'ilam"
+      tongue: kiichek
+      built: ["sh'ulak", "p'ilam"]
+      gloss: the wall of glyphs
+    - {name: The Sleeping Pyramid, tongue: translation}
+    - name: "Kul'qat Ishan"
+      tongue: kiichek
+      built: ["kul'qat", ishan]
+      gloss: the sleeping pyramid
+    - {name: The Salt House, tongue: translation}
+    - name: "Sh'ulum Ne'shik"
+      tongue: kiichek
+      built: ["sh'ulum", "ne'shik"]
+      gloss: the salt house
+    - {name: The Drowned Pyramid, tongue: translation}
+    - {name: "Ch'al Ne'", tongue: kiichek, built: ["ch'al", "ne'"], gloss: beneath the water}
+    - {name: The Pale City, tongue: translation}
+    - {name: "Kulal Ch'upul", tongue: kiichek, built: [kulal, "ch'upul"], gloss: the white seat}
+    # The south as places: the people named in the southern settlements
+    - name: "Ts'ultel Ne'"
+      tongue: kiichek
+      built: ["ts'ultel", "ne'"]
+    - {name: "Tsul Ishkul", tongue: kiichek, built: [tsul, ishkul]}
+    - {name: "Nelush Ishtem", tongue: kiichek, built: [nelush, ishtem]}
+    - {name: "K'ushi Ts'alam", tongue: kiichek, built: ["k'ushi", "ts'alam"]}
+    - {name: "Toshel Ne'ok", tongue: kiichek, built: [toshel, "ne'ok"]}
+    - {name: "Ch'akul Ish", tongue: kiichek, built: ["ch'akul", ish]}
+    - {name: "P'enqal Q'aptel", tongue: kiichek, built: ["p'enqal", "q'aptel"]}
+    # The heartland cities and the Sacred Mountain
+    - name: "Kul'taq'an"
+      tongue: kiichek
+      gloss: the Seat of the Priests
+    - {name: "Ishtal'hun", tongue: kiichek, gloss: the Place of Obsidian Blood}
+    - {name: "Tsa'mash", tongue: kiichek, gloss: the Stone Heart}
+    - name: "Ts'ultel Ch'alish"
+      tongue: kiichek
+      built: ["ts'ultel", "ch'alish"]
+      gloss: the Sacred Mountain
+    - {name: "Ne' Ts'umul", tongue: kiichek, built: ["ne'", "ts'umul"], gloss: Red Water}
+    - {name: "Q'o Kul'qat", tongue: kiichek, built: ["q'o", "kul'qat"], gloss: the Twin Pyramid}
+    - name: "Ne' Ch'akalkul"
+      tongue: kiichek
+      built: ["ne'", "ch'akal", "kul-"]
+      gloss: the Great Water Seat
+    - {name: "Lishep'ikum", tongue: kiichek, gloss: the Thrice-Built}
+    - {name: "Ts'alukul", tongue: kiichek, built: ["ts'alu", "kul-"], gloss: the City of Rivers}
+    - {name: "Ch'al Pu'uts", tongue: kiichek, built: ["ch'al", "pu'uts"], gloss: Beneath the Mesa}
+    - {name: "Toshel Ishtem Ts'ultel", tongue: kiichek, built: [toshel, ishtem, "ts'ultel"]}
+    - {name: "P'enqal Ts'alam K'ushi", tongue: kiichek, built: ["p'enqal", "ts'alam", "k'ushi"]}
+    - {name: "Ne' Ish Q'emul", tongue: kiichek, built: ["ne'", ish, "q'emul"]}
+    - {name: "Ch'akul Ne' Shelem", tongue: kiichek, built: ["ch'akul", "ne'", shelem]}
   retired:
     - {form: Ts'ib, instead: P'ilam, why: an Earth word for writing}
     - {form: Tz'ib'al, instead: K'otsel, why: an Earth word for writing}
@@ -3578,6 +3831,8 @@ data:
     - {form: K'ukul, instead: P'ashel, why: an Earth word for the quetzal}
     - {form: K'ixim, instead: Ishtem, why: an echo of an Earth word for maize}
     - {form: Ixim'al, instead: Ul'omal, why: built on an Earth word for maize}
+    - {form: Tz'umaq'ob, instead: Ts'umaq'ob, why: Ki'i'chek writes Ts' for this sound}
+    - {form: Tz'ab, instead: Ts'ab, why: Ki'i'chek writes Ts' for this sound}
     - {form: Tz'aq, instead: Ts'om, why: an Earth word}
     - {form: Tz'aqalil, instead: Ts'omalil, why: built on an Earth word}
     - {form: Tz'aqal, instead: Ts'omal, why: built on an Earth word}
@@ -3631,7 +3886,7 @@ sohl:
 
 Ki'i'chek is a tongue of the Ki'i'chek (independent isolate) family. Fluency measures the sophistication of expression in Ki'i'chek, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
-The roman inventory also keeps the curly catch apostrophe `’` in established names such as Ishkul Ch’alish and Ne’ Ki’ahkul, as the phonetic rules below record. It has the same lexical catch role as the straight apostrophe, not a quotation or pause role. New ordinary words use the straight apostrophe.
+The roman inventory also keeps the curly catch apostrophe `'` in established names such as Ishkul Ch'alish and Ne' Ki'ahkul, as the phonetic rules below record. It has the same lexical catch role as the straight apostrophe, not a quotation or pause role. New ordinary words use the straight apostrophe.
 
 ## Overview
 
@@ -3774,7 +4029,7 @@ _Ke_ joins people or clauses, _p'ekash_ offers alternatives and _shak_ introduce
 
 A modal stands before its verb, after the object or place phrase: _ni ne' kul'ik ts'ik'an_, “I can drink water,” states ability; _ni ts'omi ts'akun_, “I may go,” states permission; _ni mah'ik ts'akun_, “I must go,” states obligation; _ni shu'ik ts'akun_, “I must not go,” states prohibition. _Ni shu kul'ik ts'akun_ says I cannot go; _ni shu mah'ik ts'akun_ says I am not required to go. _Ni ish'umik ch'ekik ts'akun_ says “I might go,” an event's possibility, not permission. _Nal'esh ch'ikan_ before a following action recommends it as something one should do: _ni nal'esh ch'ikan ts'anun_, “I should wait.” These are a few ordinary particles and recorded groups, not a person or mood paradigm.
 
-Quoted speech keeps its complete sentence order. In common transcription a writer can set it after the speech clause with the reader's quotation marks: _shi ch'uman: “Ni ch'ulun.”_ means “That person says: ‘I come.’” The quotation's _ni_ refers to the quoted speaker. For a plain indirect report, name the speaker, use _ch'uman_, and then give the full claim with explicit participants: _shi ch'uman: shi ch'ulun_, “That person says that they come.” The transcription separates the clauses; this is not a newly invented native punctuation system. When ambiguity matters, repeat the person's name rather than relying on successive _shi_.
+Quoted speech keeps its complete sentence order. In common transcription a writer can set it after the speech clause with the reader's quotation marks: _shi ch'uman: “Ni ch'ulun.”_ means “That person says: ‘I come.'” The quotation's _ni_ refers to the quoted speaker. For a plain indirect report, name the speaker, use _ch'uman_, and then give the full claim with explicit participants: _shi ch'uman: shi ch'ulun_, “That person says that they come.” The transcription separates the clauses; this is not a newly invented native punctuation system. When ambiguity matters, repeat the person's name rather than relying on successive _shi_.
 
 ### Courtesy, affection and performance
 
@@ -3947,7 +4202,7 @@ Consonants
 : Common consonants include:
 
     Glottal stops
-    : `’`
+    : `'`
 
     Hard sounds
     : `k`, `t`, `p`, `q`
@@ -3970,11 +4225,11 @@ Stress
     - A formal name of three or more elements is shortened for informal use to its first element, whole, as set out under House Names above; a two-element name is not shortened.
 
 3.  **Titles**:
-    - Titles are appended to names to denote rank or role, e.g., _Q’emulmah_ (Overlord), _Ha’nalmah_ (Landholder).
+    - Titles are appended to names to denote rank or role, e.g., _Q'emulmah_ (Overlord), _Ha'nalmah_ (Landholder).
 
 4.  **Connector Words**:
-    - **Member of Tribe**: _Ts’omalil_ (“One Who Belongs”).
-    - **Leader of Tribe**: _Mah’alil_ (“Lord of the Tribe”).
+    - **Member of Tribe**: _Ts'omalil_ (“One Who Belongs”).
+    - **Leader of Tribe**: _Mah'alil_ (“Lord of the Tribe”).
     - **Tq'an**
       - **Meaning**: _Edge, boundary, or connection_
       - **Usage**: Often used to describe a transitional or liminal state, such as the edge of a natural feature (e.g., horizon, riverbank, or dawn) or the point of connection between two elements. It can imply a sense of joining or being on the verge of something.
@@ -3984,7 +4239,7 @@ Stress
     - **Ts'ik**
       - **Usage**: Represents something elevated, external, or outside of an encompassing space.
       - **Examples**:
-        - _Ts'ik k’inish_ ("Above the sunlight")
+        - _Ts'ik k'inish_ ("Above the sunlight")
         - _Ts'ik ha'nal_ ("Outside the river")
     - **Shaq'al**
       - **Usage**: Indicates disconnection, separation, or being apart from something.
@@ -4000,76 +4255,76 @@ Basic Word Order
 : Subject-Object-Verb (SOV)
 
     Example
-    : _Ish’ik ha’nal nal’un_ (“The lagoon eats the river”)
+    : _Ish'ik ha'nal nal'un_ (“The lagoon eats the river”)
 
 Modifiers
 : Adjectives follow nouns, adverbs precede verbs.
 
     Example
-    : _Ha’nal ts’uma ts’akun_ (“The misty river goes”)
+    : _Ha'nal ts'uma ts'akun_ (“The misty river goes”)
 
 ## Vocabulary
 
 ### Verbs
 
-Ts’akun
+Ts'akun
 : To go
 
 Ishan
 : To sleep
 
-K’alish
+K'alish
 : To be
 
-Ha’kan
+Ha'kan
 : To have
 
-Ts’ukal
+Ts'ukal
 : To want
 
-Ch’upan
+Ch'upan
 : To work
 
-Ts’ulam
+Ts'ulam
 : To play
 
-K’ayal
+K'ayal
 : To see
 
-Nal’un
+Nal'un
 : To eat
 
-Ts’ik’an
+Ts'ik'an
 : To drink
 
-Ch’umun
+Ch'umun
 : To speak
 
-P’iqal
+P'iqal
 : To build
 
 Shilan
 : To walk
 
-Ha’tsul
+Ha'tsul
 : To swim
 
 Ishkan
 : To think
 
-Ts’anum
+Ts'anum
 : To rest
 
-Nal’ik’an
+Nal'ik'an
 : To dream
 
-Pu’tal
+Pu'tal
 : To climb
 
-K’ay’an
+K'ay'an
 : To hear
 
-Ch’upalum
+Ch'upalum
 : To carry
 
 ### Nouns
@@ -4077,70 +4332,70 @@ Ch’upalum
 Pakul
 : Table
 
-Ch’ishum
+Ch'ishum
 : Chair
 
-Ts’uku
+Ts'uku
 : Pillow
 
-Ha’tan
+Ha'tan
 : Bowl
 
-Shil’ik
+Shil'ik
 : Cup
 
-Ts’anul
+Ts'anul
 : Roof
 
-Shots’em
+Shots'em
 : Door
 
-Ts’iqal
+Ts'iqal
 : Blanket
 
-Nal’ish
+Nal'ish
 : Spoon
 
-K’ulqat
+K'ulqat
 : Knife
 
-Ts’opil
+Ts'opil
 : Basket
 
-Pu’chal
+Pu'chal
 : Bed
 
-Ish’lan
+Ish'lan
 : Path/Trail
 
-Lu’she
+Lu'she
 : Pot
 
-K’ayish
+K'ayish
 : Firewood
 
-Ha’kin
+Ha'kin
 : Mirror
 
-Ts’alish
+Ts'alish
 : Window
 
-Pik’al
+Pik'al
 : Plate
 
 Shilum
 : Stool
 
-Ha’mal
+Ha'mal
 : Bucket
 
-P’ilam
+P'ilam
 : Glyph
 
-Shok’al
+Shok'al
 : War, a campaign
 
-K’ayik
+K'ayik
 : Flame
 
 Kulal
@@ -4150,50 +4405,50 @@ Kulal
 
 #### Size and Shape
 
-Ch’akal—Big, large; Ts’ulun—Small, tiny; Pukun—Round; Ts’okil—Sharp; Nalum—Flat; Kul’uk—Tall; Shi’tan—Short
+Ch'akal—Big, large; Ts'ulun—Small, tiny; Pukun—Round; Ts'okil—Sharp; Nalum—Flat; Kul'uk—Tall; Shi'tan—Short
 
 #### Color
 
-K’anul—Golden; Ishchek—Silver; Ts’umul—Red; Shilik—Blue; Ha’nak—Green; Ch’upul—White; P’uqan—Black
+K'anul—Golden; Ishchek—Silver; Ts'umul—Red; Shilik—Blue; Ha'nak—Green; Ch'upul—White; P'uqan—Black
 
 #### Texture
 
-P’ikun—Soft; Ch’ukun—Rough; Ts’elun—Smooth; Nalish—Sticky; Kulish—Hard
+P'ikun—Soft; Ch'ukun—Rough; Ts'elun—Smooth; Nalish—Sticky; Kulish—Hard
 
 #### Temperature
 
-Ha’kan—Cold; K’ayich—Hot; Ts’ikul—Warm; Ts’umaq—Cool
+Ha'kan—Cold; K'ayich—Hot; Ts'ikul—Warm; Ts'umaq—Cool
 
 #### Quality
 
-Ish’alil—Beautiful; Ts’upal—Ugly; Ch’alish—Sacred, holy; Nalich—Pure; Ha’ikil—Dirty; Kul’iq—Strong; Pu’uch—Weak
+Ish'alil—Beautiful; Ts'upal—Ugly; Ch'alish—Sacred, holy; Nalich—Pure; Ha'ikil—Dirty; Kul'iq—Strong; Pu'uch—Weak
 
 #### Emotions
 
-Ts’ikan—Happy; Ch’atal—Sad; K’aychun—Angry; Nal’al—Calm; Ha’mal—Fearful
+Ts'ikan—Happy; Ch'atal—Sad; K'aychun—Angry; Nal'al—Calm; Ha'mal—Fearful
 
 #### State
 
-Ts’ik’al—Sick; Nal’in—Healthy; Pu’chal—Full; Ts’alun—Empty; Kul’al—Alive; Ts’uqil—Dead
+Ts'ik'al—Sick; Nal'in—Healthy; Pu'chal—Full; Ts'alun—Empty; Kul'al—Alive; Ts'uqil—Dead
 
 ### Structure of the Ki'ich'chik Numerical System
 
 Base Numbers (1–19)
-: The numbers from one to ten are single words; eleven to nineteen are _olek’_ (ten) followed by the unit, as two words.
+: The numbers from one to ten are single words; eleven to nineteen are _olek'_ (ten) followed by the unit, as two words.
 
 Multiples of 20
 : Numbers from 20 onward are combinations of multiples of 20, with separate terms for higher powers of 20:
 
-    K’aqil
+    K'aqil
     : 1 (20⁰)
 
-    Ts’ob
+    Ts'ob
     : 20 (20¹)
 
-    Pel’ush
+    Pel'ush
     : 400 (20²)
 
-    Q’umpel
+    Q'umpel
     : 8,000 (20³)
 
     Sholemash
@@ -4206,10 +4461,10 @@ Positional Representation
 
 #### Base Numbers (1–19):
 
-Pe’
+Pe'
 : 1
 
-Q’o
+Q'o
 : 2
 
 Lishe
@@ -4218,63 +4473,63 @@ Lishe
 Mushe
 : 4
 
-P’o
+P'o
 : 5
 
-Ts’ishe
+Ts'ishe
 : 6
 
-Nuq’el
+Nuq'el
 : 7
 
-Q’ishe
+Q'ishe
 : 8
 
-Pek’ash
+Pek'ash
 : 9
 
-Olek’
+Olek'
 : 10
 
-Olek’ Pe’
+Olek' Pe'
 : 11
 
-Olek’ Q’o
+Olek' Q'o
 : 12
 
-Olek’ Lishe
+Olek' Lishe
 : 13
 
-Olek’ Mushe
+Olek' Mushe
 : 14
 
-Olek’ P’o
+Olek' P'o
 : 15
 
-Olek’ Ts’ishe
+Olek' Ts'ishe
 : 16
 
-Olek’ Nuq’el
+Olek' Nuq'el
 : 17
 
-Olek’ Q’ishe
+Olek' Q'ishe
 : 18
 
-Olek’ Pek’ash
+Olek' Pek'ash
 : 19
 
 #### Higher Multiples:
 
-K’aqil
+K'aqil
 : Unit
 
-Ts’ob
+Ts'ob
 : 20
 
-Pel’ush
+Pel'ush
 : 400
 
-Q’umpel
+Q'umpel
 : 8,000
 
 Sholemash
@@ -4287,63 +4542,63 @@ Numbers are expressed hierarchically, starting from the highest value and descen
 Example
 : 1,325 1,325 = 3 × 400 + 6 × 20 + 5
 
-- Lishe Pel’ush = 3 × 400 (three Pel’ushes)
-- Ts’ishe Ts’ob = 6 × 20 (six Ts’obs)
-- P’o = 5 Full Expression: _Lishe Pel’ush Ts’ishe Ts’ob P’o_
+- Lishe Pel'ush = 3 × 400 (three Pel'ushes)
+- Ts'ishe Ts'ob = 6 × 20 (six Ts'obs)
+- P'o = 5 Full Expression: _Lishe Pel'ush Ts'ishe Ts'ob P'o_
 
 Example
 : 57,724 = 7 × 8,000 + 4 × 400 + 6 × 20 + 4
 
-- Nuq’el Q’umpel = 7 × 8,000 (seven Q’umpels)
-- Mushe Pel’ush = 4 × 400 (four Pel’ushes)
-- Ts’ishe Ts’ob = 6 × 20 (six Ts’obs)
-- Mushe = 4 Full Expression: _Nuq’el Q’umpel Mushe Pel’ush Ts’ishe Ts’ob Mushe_
+- Nuq'el Q'umpel = 7 × 8,000 (seven Q'umpels)
+- Mushe Pel'ush = 4 × 400 (four Pel'ushes)
+- Ts'ishe Ts'ob = 6 × 20 (six Ts'obs)
+- Mushe = 4 Full Expression: _Nuq'el Q'umpel Mushe Pel'ush Ts'ishe Ts'ob Mushe_
 
 #### Zero
 
-The concept of zero, critical in Ki'ich'chik mathematics, is expressed as **Ts’amal** (“Shell” or “Empty”), reflecting its original representation.
+The concept of zero, critical in Ki'ich'chik mathematics, is expressed as **Ts'amal** (“Shell” or “Empty”), reflecting its original representation.
 
 ### Natural Features
 
-1.  **Ne’** - Water
+1.  **Ne'** - Water
 
-2.  **Ha’nal** - River
+2.  **Ha'nal** - River
 
-3.  **Shik’ul** - Lake
+3.  **Shik'ul** - Lake
 
-4.  **Ts’alu** - Stream
+4.  **Ts'alu** - Stream
 
-5.  **K’ukut** - Delta
+5.  **K'ukut** - Delta
 
-6.  **Ish’ik** - Lagoon
+6.  **Ish'ik** - Lagoon
 
-7.  **Ch’uqil** - Sacred Pool
+7.  **Ch'uqil** - Sacred Pool
 
-8.  **Nal’ik** - Spring
+8.  **Nal'ik** - Spring
 
-9.  **Ts’aqa** - Cascade/Waterfall
+9.  **Ts'aqa** - Cascade/Waterfall
 
 10. **Ilkan** - Shore
 
-11. **No’tun** - Mountain Range
+11. **No'tun** - Mountain Range
 
-12. **K’atal** - Volcano
+12. **K'atal** - Volcano
 
-13. **Ch’imik** - Hill
+13. **Ch'imik** - Hill
 
-14. **Ts’okil** - Cliff
+14. **Ts'okil** - Cliff
 
-15. **Ts’uqan** - Ravine
+15. **Ts'uqan** - Ravine
 
-16. **Kul’qat** - Sacred Peak
+16. **Kul'qat** - Sacred Peak
 
-17. **Pu’uts** - Mesa
+17. **Pu'uts** - Mesa
 
-18. **Shi’lan** - Lowlands
+18. **Shi'lan** - Lowlands
 
-19. **Ts’amik** - Plateau
+19. **Ts'amik** - Plateau
 
-20. **Ne’ts’ik** - Island (_ne’_ water + _ts’ik_ above: what stands above the water)
+20. **Ne'ts'ik** - Island (_ne'_ water + _ts'ik_ above: what stands above the water)
 
 ### Flora
 
@@ -4351,162 +4606,162 @@ The concept of zero, critical in Ki'ich'chik mathematics, is expressed as **Ts�
 
 2.  **Ish'mel** - Moon Bloom
 
-3.  **K’anish** - Golden Flower
+3.  **K'anish** - Golden Flower
 
 4.  **Shilto** - Ghost Orchid
 
-5.  **Ts’ikil** - Jungle Lily
+5.  **Ts'ikil** - Jungle Lily
 
-6.  **K’ayul** - Thunderbloom
+6.  **K'ayul** - Thunderbloom
 
-7.  **Nal’ik** - Spirit Petal
+7.  **Nal'ik** - Spirit Petal
 
-8.  **Ch’utem** - Red Thorn
+8.  **Ch'utem** - Red Thorn
 
-9.  **Shaq’ik** - Water Blossom
+9.  **Shaq'ik** - Water Blossom
 
-10. **Ts’uma** - Mistflower
+10. **Ts'uma** - Mistflower
 
 ### Fauna
 
-1.  **Ish’bal** - Jaguar
+1.  **Ish'bal** - Jaguar
 
-2.  **Shak’nal** - Eagle
+2.  **Shak'nal** - Eagle
 
-3.  **No’kin** - Bear
+3.  **No'kin** - Bear
 
-4.  **Ts’okum** - Coyote
+4.  **Ts'okum** - Coyote
 
-5.  **Ts’amuk** - Crocodile
+5.  **Ts'amuk** - Crocodile
 
-6.  **Ch’akun** - Serpent
+6.  **Ch'akun** - Serpent
 
-7.  **Pik’ik** - Owl
+7.  **Pik'ik** - Owl
 
-8.  **Ha’ik** - River Otter
+8.  **Ha'ik** - River Otter
 
-9.  **Shi’tal** - Frog
+9.  **Shi'tal** - Frog
 
-10. **No’bal** - Lion
+10. **No'bal** - Lion
 
-11. **Ts’ilil** - Swallow
+11. **Ts'ilil** - Swallow
 
 ### Celestial and Spiritual Concepts
 
-1.  **K’inish** - Sunlight
+1.  **K'inish** - Sunlight
 
-2.  **Ts’uqal** - Moonlight
+2.  **Ts'uqal** - Moonlight
 
-3.  **Ish’ilan** - Star
+3.  **Ish'ilan** - Star
 
-4.  **Ha’maq** - Rainbow
+4.  **Ha'maq** - Rainbow
 
-5.  **Shil’kaq** - Comet
+5.  **Shil'kaq** - Comet
 
-6.  **Ch’umal** - Wind Spirit
+6.  **Ch'umal** - Wind Spirit
 
-7.  **Ts’anish** - Eclipse
+7.  **Ts'anish** - Eclipse
 
-8.  **P’uqil** - Thundercloud
+8.  **P'uqil** - Thundercloud
 
-9.  **K’aycha** - Lightning
+9.  **K'aycha** - Lightning
 
-10. **Ts’umaq** - Night Sky
+10. **Ts'umaq** - Night Sky
 
-11. **K’inish’ilan** - The bright star seen only at the edges of the day, before sunrise or after sunset (_k’inish_ sunlight + _ish’ilan_ star)
+11. **K'inish'ilan** - The bright star seen only at the edges of the day, before sunrise or after sunset (_k'inish_ sunlight + _ish'ilan_ star)
 
-12. **Ch’al Ts’umaq** - The underworld (_ch’al_ beneath + _ts’umaq_ night sky)
+12. **Ch'al Ts'umaq** - The underworld (_ch'al_ beneath + _ts'umaq_ night sky)
 
 ### Sacred Concepts
 
-1.  **Ish’kanmah** - Golden Noblewoman
+1.  **Ish'kanmah** - Golden Noblewoman
 
-2.  **Shik’tel** - Ancient Tree/Sacred Grove
+2.  **Shik'tel** - Ancient Tree/Sacred Grove
 
-3.  [K’ayik Kul’al]{.name data-type="lore/custom"} - The Living Flame: the rite that kindles every hearth anew from one fire when the Ts’en and Tq’an counts come back into phase (_k’ayik_ flame + _kul’al_ alive)
+3.  [K'ayik Kul'al]{.name data-type="lore/custom"} - The Living Flame: the rite that kindles every hearth anew from one fire when the Ts'en and Tq'an counts come back into phase (_k'ayik_ flame + _kul'al_ alive)
 
 4.  **Member of Tribe**:
-    - **Ki'i'chek**: _Ts’omalil_ (_ts’om_ = connection or belonging, _alil_ = of the group)
+    - **Ki'i'chek**: _Ts'omalil_ (_ts'om_ = connection or belonging, _alil_ = of the group)
 
     - **Meaning**: "One Who Belongs"
 
-    - **Example**: _Ish’bal Ts’omalil K’inish_ ("Jaguar of the Tribe of the Sun")
+    - **Example**: _Ish'bal Ts'omalil K'inish_ ("Jaguar of the Tribe of the Sun")
 
 5.  **Leader of Tribe**:
-    - **Ki'i'chek**: _Mah’alil_ (_mah_ = lord, _alil_ = of the group)
+    - **Ki'i'chek**: _Mah'alil_ (_mah_ = lord, _alil_ = of the group)
 
     - **Meaning**: "Lord of the Tribe"
 
-    - **Example**: _Shak’nal Mah’alil Shilan_ ("Eagle, Leader of the Tribe of the Plains")
+    - **Example**: _Shak'nal Mah'alil Shilan_ ("Eagle, Leader of the Tribe of the Plains")
 
 ### Titles
 
 1.  **Overlord**:
-    - **Ki'i'chek**: _Q’emulmah_ (_q’emul_ = supreme, _mah_ = lord)
+    - **Ki'i'chek**: _Q'emulmah_ (_q'emul_ = supreme, _mah_ = lord)
     - **Meaning**: "Supreme Lord"
 
 2.  **King**:
-    - **Ki'i'chek**: _Ts’enmah_ (_ts’en_ = sun, _mah_ = lord)
+    - **Ki'i'chek**: _Ts'enmah_ (_ts'en_ = sun, _mah_ = lord)
     - **Meaning**: "Lord of the Sun"
 
 3.  **Prince**:
-    - **Ki'i'chek**: _Ts’enilbal_ (_ts’en_ = sun, _ilbal_ = shining one)
+    - **Ki'i'chek**: _Ts'enilbal_ (_ts'en_ = sun, _ilbal_ = shining one)
     - **Meaning**: "Heir to the Sun"
 
 4.  **Knight**:
-    - **Ki'i'chek**: _Ts’omilbal_ (_ts’om_ = bond, _-il_ = of it, _bal_ = servant)
+    - **Ki'i'chek**: _Ts'omilbal_ (_ts'om_ = bond, _-il_ = of it, _bal_ = servant)
     - **Meaning**: "Servant of the Bond"
 
 5.  **Lady**:
-    - **Ki'i'chek**: _Ish’kanmah_ (_ish’kan_ = golden, _mah_ = lord)
+    - **Ki'i'chek**: _Ish'kanmah_ (_ish'kan_ = golden, _mah_ = lord)
     - **Meaning**: "Golden Noblewoman"
 
 6.  **Landholder**:
-    - **Ki'i'chek**: _Ha’nalmah_ (_ha’nal_ = land or river, _mah_ = lord)
+    - **Ki'i'chek**: _Ha'nalmah_ (_ha'nal_ = land or river, _mah_ = lord)
     - **Meaning**: "Lord of the Land"
 
 7.  **Guildsman**:
-    - **Ki'i'chek**: _P’ik’ulbal_ (_p’ik’ul_ = craft or trade, _bal_ = servant)
+    - **Ki'i'chek**: _P'ik'ulbal_ (_p'ik'ul_ = craft or trade, _bal_ = servant)
     - **Meaning**: "Keeper of the Craft"
 
 8.  **Freeman**:
-    - **Ki'i'chek**: _Nal’ikbal_ (_nal’ik_ = free, _bal_ = person)
+    - **Ki'i'chek**: _Nal'ikbal_ (_nal'ik_ = free, _bal_ = person)
     - **Meaning**: "Independent One"
 
 9.  **Serf**:
-    - **Ki'i'chek**: _Ch’ulmaqbal_ (_ch’ulmaq_ = bound, _bal_ = person)
+    - **Ki'i'chek**: _Ch'ulmaqbal_ (_ch'ulmaq_ = bound, _bal_ = person)
     - **Meaning**: "Bound One"
 
 10. **Slave**:
-    - **Ki'i'chek**: _Ts’ik’ibal_ (_ts’ik’i_ = shadow, _bal_ = person)
+    - **Ki'i'chek**: _Ts'ik'ibal_ (_ts'ik'i_ = shadow, _bal_ = person)
     - **Meaning**: "Shadowed One"
 
 11. **Noble Lord**:
-    - **Ki'i'chek**: _K’anulmah_ (_k’anul_ = golden, _mah_ = lord)
+    - **Ki'i'chek**: _K'anulmah_ (_k'anul_ = golden, _mah_ = lord)
     - **Meaning**: "Golden Lord," a noble of a city's court
 
 12. **Subordinate Lord**:
     - **Ki'i'chek**: _Kulmah_ (_kul-_ = seat, _mah_ = lord)
-    - **Meaning**: "Lord of a Seat," who holds a lesser center for the Ts’enmah
+    - **Meaning**: "Lord of a Seat," who holds a lesser center for the Ts'enmah
 
 13. **Sun-Priest**:
-    - **Ki'i'chek**: _Ts’enbal_ (_ts’en_ = sun, _bal_ = servant)
+    - **Ki'i'chek**: _Ts'enbal_ (_ts'en_ = sun, _bal_ = servant)
     - **Meaning**: "Servant of the Sun," keeper of the count of days
 
 14. **Scribe**:
-    - **Ki'i'chek**: _P’ilambal_ (_p’ilam_ = glyph, _bal_ = servant)
+    - **Ki'i'chek**: _P'ilambal_ (_p'ilam_ = glyph, _bal_ = servant)
     - **Meaning**: "Servant of the Glyphs"
 
 15. **War-Leader**:
-    - **Ki'i'chek**: _Shok’almah_ (_shok’al_ = war, _mah_ = lord)
+    - **Ki'i'chek**: _Shok'almah_ (_shok'al_ = war, _mah_ = lord)
     - **Meaning**: "Lord of the War," named for one campaign
 
 16. **Herald**:
-    - **Ki'i'chek**: _Ch’umts’om_ (_ch’um_ = to speak, _ts’om_ = connection)
+    - **Ki'i'chek**: _Ch'umts'om_ (_ch'um_ = to speak, _ts'om_ = connection)
     - **Meaning**: "The Speaking Link," who carries a lord's word
 
 17. **Master Merchant**:
-    - **Ki'i'chek**: _P’ik’ulmah_ (_p’ik’ul_ = craft or trade, _mah_ = lord)
+    - **Ki'i'chek**: _P'ik'ulmah_ (_p'ik'ul_ = craft or trade, _mah_ = lord)
     - **Meaning**: "Lord of the Trade"
 
 ## Ki'i'chek Lexicon {#lexicon}

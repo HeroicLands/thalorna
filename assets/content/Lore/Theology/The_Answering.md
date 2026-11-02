@@ -44,6 +44,16 @@ Every person's soul (_ohnionsaro_) has wishes of its own, and it says them in dr
 
 The Long Night at midwinter is the great answering of the year. For days the people go from longhouse to longhouse telling their dreams as riddles, and the households try to guess each one and give the dreamer what it asks. A dream guessed and answered is a soul made well for the year. The Maple People say a village that guesses well is a village that is healthy in spring.
 
+## The Charms
+
+Now and then a power puts a small thing in a person's way: a stone shaped like a turtle in a deer's stomach, a twist of copper in the sand of the Copper Lake, a snake's tooth in a split log, a pebble that was not in the cooking pot before the soup was boiled. Usually the person has dreamed of it first. Such a thing is a charm (_tsiotarie kenniato_), and like every power it wants something.
+
+A charm wants feeding. Its keeper carries it in a pouch at the neck or keeps it in a bark box in the longhouse, puts tobacco in with it at every new moon, and once a year gives it a feast, with food and dancing, to which the household and its neighbors come. In return the charm gives luck: in the hunt for a deer charm, on the water for a fish charm, at gambling, in love. A charm that is not fed turns on its keeper. It brings sickness to the house, and then bad dreams, and a keeper who has neglected a charm too long dreams of it eating.
+
+A charm cannot be thrown away. One dropped in the river is found again in the longhouse, or in a child's moccasin, and one given away without the charm's leave comes home. A keeper who no longer wants a charm asks it, in a dream, who should have it next, or gives it to the healers, who keep a basket of unwanted charms and feed them all at the Long Night. A keeper who dies with a charm is buried with it.
+
+The charm is the one power the Grove keeps out of sight, and its feast is the reason that is allowed. The charm stays in its pouch, but its feeding is done before the whole household and the neighbors, so it is answered in the open like any other power. A person who keeps a charm and gives it no feast is feeding it something else, in secret, and that is a witch. The healers say that a witch is a person whose charm eats in the dark.
+
 ## The Rites
 
 **The Sap Feast** opens the year. The clan mothers tap the first maple by the Grandmother's light, and the first sap boiled goes into the fire for the dead and to the elders.

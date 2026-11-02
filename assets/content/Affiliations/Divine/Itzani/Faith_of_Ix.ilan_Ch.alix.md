@@ -6,6 +6,7 @@ subType: faithtradition
 description: "Knowledge, writing and the calendar—the goddess who composed the first codex in the language of the stars, and whose priesthood alone advances on merit."
 tags: [itzani, religion]
 data:
+  culture: kiichchikclt
   banner: faithbnr
   icon: null
   templatePriority: null

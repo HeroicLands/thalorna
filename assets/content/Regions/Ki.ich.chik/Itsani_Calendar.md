@@ -161,6 +161,9 @@ A full date gives the Tq'an day, then the day and month of the Ts'en year, then 
 [[affiliation-kayikchalix|Faith of K'ayik Ch'alish]]
 : the fire-keepers who draw the Living Flame
 
+[[lore-chumtsena|Ch'um Ts'ena]]
+: the workings the priesthood speaks into the days the counts open
+
 [[skill-kiichek#lexicon|Ki'i'chek]]
 : the names of the months, the day-signs and the five doors
 

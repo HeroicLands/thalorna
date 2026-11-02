@@ -6,6 +6,7 @@ subType: faithtradition
 description: "Travel, trade and communication—the god of the white roads, whose road shrines are the nerves of the continent and whose priesthood is mobile by design."
 tags: [itzani, religion]
 data:
+  culture: kiichchikclt
   banner: faithbnr
   icon: null
   templatePriority: null

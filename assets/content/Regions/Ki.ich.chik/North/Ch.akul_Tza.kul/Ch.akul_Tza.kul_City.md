@@ -18,7 +18,7 @@ No staffed oasis, trading post, or seasonal settlement operates in the desert. A
 
 ## Guides and Ruins
 
-Ancient ruins are scattered across the desert. Travelers may attempt to reach them, but the passage is dangerous and there are no resident guides or traders. Anyone crossing needs water, preserved food, and porters enough to carry both, with spares for those who fall.
+Ancient ruins are scattered across the desert, among them [[place-greenspring|the Green Spring]], [[place-blackpyramid|the Black Pyramid]], [[place-writtenwall|the Written Wall]], [[place-sleepingpyr|the Sleeping Pyramid]] and [[place-salthouse|the Salt House]]. Travelers may attempt to reach them, but the passage is dangerous and there are no resident guides or traders. Anyone crossing needs water, preserved food, and porters enough to carry both, with spares for those who fall.
 
 ## See Also
 

@@ -6,6 +6,7 @@ subType: faithtradition
 description: "Creation, building and renewal—the goddess who has raised the world five times, teaches that failure is how one learns to build better, and ranks her priests by craft rather than birth."
 tags: [itzani, religion]
 data:
+  culture: kiichchikclt
   banner: faithbnr
   icon: null
   templatePriority: null

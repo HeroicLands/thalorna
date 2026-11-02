@@ -903,6 +903,24 @@ data:
       gloss: "an astronomer-priest, a sworn keeper of the sky, the days and the measure"
       built: ["al-", "tiyup"]
       source: {kind: coined}
+    - form: "pilikin"
+      class: n
+      field: "Sky keepers and rites"
+      gloss: "a count; the keeping of a count, and the count the sky keeps of what the world owes"
+      built: ["pilik", "-in"]
+      source: {kind: coined}
+    - form: "alpashaq"
+      class: n
+      field: "Sky keepers and rites"
+      gloss: "a sorcerer: one who sends sickness to collect a debt that was never owed"
+      built: ["al-", "pashaq"]
+      source: {kind: coined}
+    - form: "sitiq tahay"
+      class: n
+      field: "Sky keepers and rites"
+      gloss: "the Morning Star, the eldest star, who plays the Sun for the year's lives at midwinter"
+      built: ["sitiq", "tahay"]
+      source: {kind: coined}
     - form: "hilaq"
       class: n
       field: "Kin and town"
@@ -5862,6 +5880,8 @@ data:
     - {name: Far Island, tongue: translation}
     - {name: tiyup tahay, tongue: shuqash, built: [tiyup, tahay]}
     - {name: Sky Elder, tongue: translation}
+    - {name: tiyup pilikin, tongue: shuqash, built: [tiyup, pilikin]}
+    - {name: Sky's Count, tongue: translation}
     - {name: Canoe Kin, tongue: translation}
     - {name: Measure of Kulaywil, tongue: translation}
     - {name: Paddle of Shiyawkal, tongue: translation}

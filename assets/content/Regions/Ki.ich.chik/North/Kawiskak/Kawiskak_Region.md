@@ -85,3 +85,6 @@ Furs and copper go south. Beaver, marten, otter and lynx pelts, the Barren-Groun
 
 [[place-osetakonargn|Osetakona Region]]
 : the lake country of the Maple People, to the south-east
+
+[[lore-ostinak|Givers]]
+: the faith: the animals that give themselves, the shaking lodge and the ice in the heart

@@ -35,7 +35,7 @@ That makes the plain quarrelsome in a dry year. When the rivers run low in early
 
 ## Trade and Danger
 
-The plain is the start of the western trail. Every summer a trading party goes west from the Canal House over the mountains and along a line of desert springs to the coast of the [Shell-Bead People]{.name data-type="affiliation/polity"}, carrying turquoise and cotton cloth and bringing back shell. The plain grows more cotton than the rest of the nation together, and its cloth goes up the roads to every great house.
+The plain is the start of the western trail. Every summer a trading party goes west from the Canal House over the mountains and along a line of desert springs to the coast of the [[affiliation-shuqash|Shell-Bead People]], carrying turquoise and cotton cloth and bringing back shell. The plain grows more cotton than the rest of the nation together, and its cloth goes up the roads to every great house.
 
 The desert begins at the last canal. Southern traders who cross it usually bear east to [[place-kwatuhosa|Kwatuhosa]], but the plain is close to the desert's western routes, and a trader who comes up out of the sand at a canal town is fed like any other guest. A southern war party could come the same way. The plain's towns have signal fires on the rocky hills between the rivers, and their great houses stand on their mounds with the ladders ready to draw up, but the households of the plain live spread out along the canals, far from their mounds.
 

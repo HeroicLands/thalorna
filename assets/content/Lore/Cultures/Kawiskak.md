@@ -108,6 +108,9 @@ The blind spot the Spruce People argue over is the _mohkisk_ itself. Every band 
 [[place-northkiichchik|Northern Ki'ich'chik]]
 : the north and its peoples
 
+[[lore-ostinak|Givers]]
+: the faith: the animals that give themselves, the shaking lodge and the ice in the heart
+
 ## Glossary {#glossary}
 
 The Spruce People's own words that these pages use.

@@ -53,6 +53,18 @@ A contrary (_kewitaka_)
 
 Anyone may make a pledge, have a vision, or sing over the sick. A keeper is only someone who has done it longer and remembers more of the songs.
 
+## Calling the Herd
+
+A drive is a hunt on foot. The Grass People have no animal to ride and want none. A band crosses the grass behind its dogs, each dog dragging a travois (_chakun_) of lodge poles and robes, and a herd running flat out leaves every one of them behind in a mile. So a herd is never chased. It is called, and the one who calls it is the caller (_apuchuka_).
+
+A caller is someone whose vision came from the Herd Mother, or from a bison who spoke in it, and a band with no caller of its own borrows one from a neighboring band for a share of the drive. On the morning of a drive the caller sweats, puts on the hide of a bison calf with its head still on it, and goes out alone onto the grass upwind of the herd. He bawls like a calf that has lost its mother. He drops to his hands, wanders, lies down, gets up. When his power is good, an old cow lifts her head and comes toward him, and the herd comes after her, and the caller walks it for most of a day toward the mouth of the lane without ever letting it see a person standing. The people behind the cairns rise only when he is past them. Then he runs, and he has to be off the line, onto a ledge below the lip of the cliff or round the end of the pound, before the herd reaches it, or he goes over with it. Every band can name a caller who did.
+
+Each caller keeps a rule that came with the vision. One never eats a tongue, one never lets his shadow fall on a robe, one never speaks from the night before a drive until the meat is cut. A caller who breaks his rule has a herd that does not lift its head, and the band finds another.
+
+The dogs are the caller's danger. On the morning of a drive every dog in the camp is tied with its muzzle bound shut, because one bark on the wind turns a herd, and the society on duty kills any dog that slips its thong. The dogs have their own part afterward: the meat a band dries at a drive goes home on their travois, and a band with too few dogs leaves meat on the grass however well it called.
+
+Some callers carry a bison stone (_tanshe kesho_). It is a small stone of the plains, curled on itself like a sleeping calf, or ridged like the curls on a bull's forehead, and it is found, never made, usually by a woman, usually because she heard it. The bands say a bison stone sings on the grass, a thin sound like a bird's, to be picked up. Whoever finds one paints it red, wraps it in hide with a braid of sweetgrass and gives it to a caller or to the band's bundle, and the stone goes out in the calf skin on every drive. It is fed with fat, it is never set on the bare ground, and no dog ever sees it. A stone that stops singing has been offended, and the caller who carries it sweats, fasts and asks it why. The Cairn band's stone, kept in [Mahintayu]{.name data-type="being/npc"}'s bundle, has not sung for three summers.
+
 ## The Rites
 
 The great rites of the year, the summer gathering, the drive, the autumn trading and the winter dances that call the herds, are set out in the [[lore-tenlayaclt|Tenlaya]] culture note. Four others belong here.

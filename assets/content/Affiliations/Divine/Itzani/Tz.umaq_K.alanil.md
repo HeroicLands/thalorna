@@ -6,6 +6,7 @@ subType: faithtradition
 description: "Hunted jungle sects who teach that the Fifth Age is beyond saving and that waking the storm-serpent would be a mercy—and who can, demonstrably, pull the dead back out of Ch'al Ts'umaq."
 tags: [itzani, religion]
 data:
+  culture: kiichchikclt
   banner: faithbnr
   icon: null
   templatePriority: null
@@ -69,7 +70,7 @@ data:
       Shepherd of the Damut: >-
         Takes charge of the returned once nothing recognisable remains, and directs what they are turned loose upon.
       Watcher: >-
-        Keeps the cell ahead of the Tz'umaq'ob who hunt it—routes, informers, and the point at which a village must be abandoned.
+        Keeps the cell ahead of the Ts'umaq'ob who hunt it—routes, informers, and the point at which a village must be abandoned.
   seat: null
   population: null
   economy: []
@@ -81,6 +82,10 @@ data:
     tzuqilixbal: nemesis
     pikultzumaq: aligned
     pikob: rival
+    itsanihierarchy: nemesis
+    ishilanshulum: rival
+    tsumulob: nemesis
+    shaqalob: nemesis
   packFolder: pantheonitzani
 sohl: {system: {commonSkills: []}}
 ---
@@ -109,7 +114,17 @@ There is no hierarchy above the cell. A **Cell-Master** holds his own shelter, h
 
 A **Voice of the Owl** occasionally appears, claiming to carry Pik'ul Ts'umaq's own word, and for a season cells will coordinate. It never lasts. There is never more than one at a time in a region, frequently none, and a second claim in the same generation has always been settled with violence.
 
-The cells' most practical office is the **Watcher**, who keeps them ahead of the Tz'umaq'ob—the serpent-keepers of P'uqil Ch'akun's binding branch, charged with hunting them down. It is an irony nobody inside the orthodox priesthood finds funny that the hunters and the hunted read the same sealed calculations of the age's ending and disagree only about what should be done with them.
+The cells' most practical office is the **Watcher**, who keeps them ahead of the Ts'umaq'ob—the serpent-keepers of P'uqil Ch'akun's binding branch, charged with hunting them down. It is an irony nobody inside the orthodox priesthood finds funny that the hunters and the hunted read the same sealed calculations of the age's ending and disagree only about what should be done with them.
+
+## The Working
+
+The Awakeners' one working is the [Ts'uqil Ch'alish]{.name data-type="lore/custom"}, and by every rule of [[lore-chumtsena|Ch'um Ts'ena]] it should do nothing. It is spoken at the moment of a death, on whatever day the death falls, and the movement's priests prefer the closed days and the five doors at the year's end, when no Reckoner has opened anything. Its blood is not entered in any ledger. The **Keeper of the Ritual** pays it to the body directly: the subject's own blood, all of it, given under torture in the order the rite sets, until the subject dies and the owl takes the soul at the threshold.
+
+The Awakeners say this is why it works. In their teaching the tables are not the goddess's grammar but a fence the priesthood built around it, and the ledger is the priesthood's own account book. Blood paid into a ledger buys whatever the temple decides it buys. Blood paid into the body that gave it buys that body back. The orthodox priesthood holds that whatever the Awakeners speak is spoken into no day its tables open, and it has no answer to the fact that it takes.
+
+The reclaiming of the recently dead is the same working done for someone else. The Reclaimer speaks it over the body before the soul has gone far into Ch'al Ts'umaq, and the family's blood, given to the corpse and not to the temple, is the price.
+
+The movement holds one more belief about its working, and holds it as its proof. The account the Wardens of the Sealed Chambers keep says the Fourth Age's count was broken by one working spoken on a closed day. The Awakeners accept the account and reverse its meaning: the Fourth Age was ended once by such a working, and the serpent's waking, which every priest expects to end the Fifth, is the same act done again. They do not regard it as a catastrophe they risk. They regard it as the work they are preparing.
 
 ## Relations
 
@@ -118,3 +133,5 @@ The orthodox priesthood views the Serpent Awakeners with fear and contempt in eq
 With Pik'ul Ts'umaq the movement's alliance is real and unsentimental on both sides. The owl supplies the explanation and the power to reclaim; the movement supplies reach, grieving households and a doctrine under which the reclaiming looks like mercy.
 
 Toward the [[affiliation-pikob|Pik'ob]] the Awakeners feel something closer to appetite than hostility. The owl keepers' contemplative theology begins where the Awakeners' begins—with dissolution and the impermanence of everything built—and the boundary between accepting that all things end and hastening the ending is thinner than the orthodox priesthood would like. Pik'ob philosophers who drift too close to that line sometimes vanish into the jungle, where the Awakeners welcome them.
+
+The bodies of [[affiliation-itsanihierarchy|the Itsani Hierarchy]] meet the movement from three sides. [[affiliation-shaqalob|The Severers]] try every Awakener the serpent-keepers take, and pronounce the Blood-Denied sentence on him before he is executed; the movement teaches that the sentence is the one gift the priesthood gives, since it releases a soul from a ledger it never owed. [[affiliation-tsumulob|The Blood-Workers]] fight the movement's dead in the deep jungle and south of Q'aptel'ul Ne'ok, and the cells count them the enemy most to be feared, because they come in bands and they take prisoners. [[affiliation-ishilanshulum|The Star House]] is the body the movement most wants to reach. A reckoner who works the counts back to the first day of the Fifth Age is, in the Awakeners' teaching, one argument from the truth, and a Comforter who finds a reckoner in doubt treats him as the most valuable recruit a cell can make.

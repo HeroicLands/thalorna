@@ -139,6 +139,18 @@ data:
       gloss: "a knower; one called by a dream or an illness to cure, divine and deal with what lies under the river"
       built: ["ikla", "-ilo"]
       source: {kind: coined}
+    - form: ompaka
+      class: n
+      field: "The dead"
+      gloss: "a saying: a knower's cure, spoken under the breath to a sickness or a power, learned for a price"
+      built: ["ompa", "-ka"]
+      source: {kind: coined}
+    - form: lokaka
+      class: n
+      field: "The dead"
+      gloss: "a seeing stone: a knower's clear stone, held to be a scale from the Water Panther's brow, fed with blood"
+      built: ["loka", "-ka"]
+      source: {kind: coined}
     - form: koyo
       class: n
       field: "The coast"

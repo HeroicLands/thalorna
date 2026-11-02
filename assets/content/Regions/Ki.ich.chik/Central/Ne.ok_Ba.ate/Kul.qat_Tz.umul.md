@@ -48,7 +48,7 @@ The builder-priests hold that the continent's [[lore-dreadspawncrtr|dreadspawn]]
 
 The builders' entry for it describes what it does. It is heavy enough to crack a stair it crosses, and it moves with the long scrape of stone dragged on stone. It does not strike. It lies upon what it takes, and what it lies upon is crushed evenly, the bones broken small inside a skin that is not torn and armor that is barely marked. It can pass through a gap a hand high, and it takes what it catches into passages no person could follow it through. Lamp flames lean toward it before it arrives, as if the air were being drawn after it. It is drawn to blood spilled on stone. It keeps to the stone the builders laid, and it has never been seen off it.
 
-The Warden of the Ruins at [Ne' Ts'umul]{.name data-type="place/settlement"} keeps the register of this temple, and the register records the guardian as failed, its offerings ended and its works presumed dead.
+The Warden of the Ruins at [[place-netsumul|Ne' Ts'umul]] keeps the register of this temple, and the register records the guardian as failed, its offerings ended and its works presumed dead.
 
 :::secret {title="The register"}
 The register is wrong. The guardian never failed. With the Storm's Eye lying in its box and no offerings coming down the shaft, it lay still in the chamber for so long that the builders who last looked in took the stillness for death. It wakes when the Eye is moved, and it is hungry.

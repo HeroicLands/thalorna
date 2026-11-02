@@ -7,7 +7,7 @@ description: "The western continent: five northern nations bound by a compact, a
 tags: [continent, kiichchik]
 data:
   demonym: Ki'ich'chik
-  lore: [humanflk]
+  lore: [humanflk, kiichchikclt]
   parents: [worldthlrn]
   population: 35500000
   packFolder: kiichchik
@@ -84,11 +84,11 @@ The Ki'ich'chik are accomplished astronomers, mathematicians, and architects. Th
 
 ## The Ch'um Ish'lan (The Speaking Road)
 
-The single greatest instrument of priestly power—and arguably the foundation on which Ki'ich'chik unity rests—is the [Ch'um Ish'lan]{.name data-type="affiliation"} ("Speaking Road"), a vast relay network of trained runners called **Ch'umbal** ("Voice Bearers") who carry messages, decrees, and intelligence across the breadth of Ki'ich'chik civilization.
+The single greatest instrument of priestly power—and arguably the foundation on which Ki'ich'chik unity rests—is the [[affiliation-chumishlan|Ch'um Ish'lan]] ("Speaking Road"), a vast relay network of trained runners called **Ch'umbal** ("Voice Bearers") who carry messages, decrees, and intelligence across the breadth of Ki'ich'chik civilization.
 
 The Ch'um Ish'lan is controlled exclusively by the Itsani priesthood. The Ch'umbal are not servants of any Ts'enmah but ordained religious functionaries sworn to the service of [[lore-tzenultqandty|Ts'en'ul Tq'an]], god of order and the sun's daily return. No secular lord may command, delay, inspect, or interfere with a runner on the Speaking Road—to do so is among the gravest offenses in Ki'ich'chik law, punishable by sacrifice. The priesthood alone decides what messages are carried, in what priority, and to whom intelligence is disclosed. No Ts'enmah receives word from distant provinces except through the priesthood's hands. This monopoly on long-distance communication is the single most powerful check on any Sun Lord's ambition, for no rebellion can be coordinated, no alliance formed, and no war planned without the knowledge of the priests who read the knotted cords.
 
-The Ch'umbal operate from way-stations spaced at intervals of roughly half a day's hard run along every major white road, each station staffed at all hours by at least two runners ready to receive a message and sprint it to the next post. They carry not only spoken messages—committed to memory through rigorous mnemonic training—but also knotted cord records called **k'otsel** that encode numerical data, tribute tallies, and calendar reckonings in a system of colored threads and knot positions legible only to trained readers. The central dispatch at [Kul'taq'an]{.name data-type="place/settlement"} in Ish'ilankul is the nerve center of the entire system, where k'otsel from across the realm are decoded, copied, and redistributed by priestly scribes under the direct supervision of the Ch'alish Tq'an's inner circle.
+The Ch'umbal operate from way-stations spaced at intervals of roughly half a day's hard run along every major white road, each station staffed at all hours by at least two runners ready to receive a message and sprint it to the next post. They carry not only spoken messages—committed to memory through rigorous mnemonic training—but also knotted cord records called **k'otsel** that encode numerical data, tribute tallies, and calendar reckonings in a system of colored threads and knot positions legible only to trained readers. The central dispatch at [[place-kultaqan|Kul'taq'an]] in Ish'ilankul is the nerve center of the entire system, where k'otsel from across the realm are decoded, copied, and redistributed by priestly scribes under the direct supervision of the Ch'alish Tq'an's inner circle.
 
 ### Transit Times Across the White Roads
 
@@ -104,32 +104,38 @@ The Ch'um Ish'lan achieves remarkable speed across the vast distances of Ki'ich'
 - **K'ankul coastal network** (internal): 1–2 days between major city-states via the coastal white road
 - **End to end, K'ankul to K'ushi Ish'bal** (eastern lowlands to southern frontier): 6–8 days, routing through Ish'ilankul
 
-Beyond K'ushi Ish'bal, the Speaking Road falls silent. The last k'otsel cord to arrive from the civilized world is decoded at [[place-qptlulneok|Q’aptel’ul Ne’ok]], and what lies further south depends on the bravery of individual runners who carry no priestly mandate. The Ch'um Ish'lan does not extend into the northern territories either—the northern nations have no white roads, and the great desert of Ch'akul Tsa'kul marks the network's northern boundary.
+Beyond K'ushi Ish'bal, the Speaking Road falls silent. The last k'otsel cord to arrive from the civilized world is decoded at [[place-qptlulneok|Q'aptel'ul Ne'ok]], and what lies further south depends on the bravery of individual runners who carry no priestly mandate. The Ch'um Ish'lan does not extend into the northern territories either—the northern nations have no white roads, and the great desert of Ch'akul Tsa'kul marks the network's northern boundary.
 
 ## Faith
 
 The Ki'ich'chik follow the Itsani faith, a unified religion centered on the Ten of the Celestial Round—ten gods whose domains encompass the full range of mortal experience. Unlike many other cultures on Thalorna where competing priesthoods serve individual deities, the Itsani maintain a single priestly hierarchy that serves the entire pantheon, calling upon individual gods as circumstances require. The theology of Celestial Recurrence—the belief that the world has been created and destroyed through five successive ages—permeates every aspect of Ki'ich'chik life, from the calendar to architecture to the practice of blood sacrifice.
 
-The holiest site in all of Ki'ich'chik—and the supreme destination of pilgrimage—is [[place-tzomalchalix|Ts'omal Ch'alish]] (the "Sacred Foundation"), a precinct at the heart of Kul'taq'an in Ish'ilankul where [[lore-piqalkulqatdty|P'iqal Kul'qat]], god of creation, is believed to have first breathed the world into existence at the dawn of the [First Age]{.name data-type="lore/cosmology"}. The precinct is centered on an ancient volcanic vent from which warm, mineral-laden vapors still rise—regarded as the living breath of the creator god—and above it stands the [Ts'ultel Ch'alish]{.name data-type="place/structure"} ("Sacred Mountain"), the tallest and most ancient pyramid in Ki'ich'chik, its nine ascending tiers representing the nine layers of the heavens. Every Ki'ich'chik person is expected to make pilgrimage to Ts'omal Ch'alish at least once in their lifetime, and the great festivals of the Celestial Recurrence—particularly the [K'ayik Kul'al]{.name data-type="lore/custom"} ("the Living Flame") marking the turning of the 52-year cycle—draw hundreds of thousands of pilgrims from every region, transforming Kul'taq'an into a city beyond cities. To have breathed the vapors of creation and stood in the shadow of the Ts'ultel Ch'alish is to have touched the divine; to die without making the journey is, in Ki'ich'chik theology, to face the gods with an incomplete soul. The sacred pools of K'ankul, the sacred lake of [[place-ixkulchalix|Ishkul Ch’alish]], and the temple-fortresses of the south are all sites of deep spiritual significance, but none approach Ts'omal Ch'alish in sanctity.
+The holiest site in all of Ki'ich'chik—and the supreme destination of pilgrimage—is [[place-tzomalchalix|the Sacred Foundation]] (Ts'omal Ch'alish), a precinct at the heart of Kul'taq'an in Ish'ilankul where [[lore-piqalkulqatdty|P'iqal Kul'qat]], god of creation, is believed to have first breathed the world into existence at the dawn of the [First Age]{.name data-type="lore/cosmology"}. The precinct is centered on an ancient volcanic vent from which warm, mineral-laden vapors still rise—regarded as the living breath of the creator god—and above it stands the [[place-tsultelchalish|Ts'ultel Ch'alish]] ("Sacred Mountain"), the tallest and most ancient pyramid in Ki'ich'chik, its nine ascending tiers representing the nine layers of the heavens. Every Ki'ich'chik person is expected to make pilgrimage to Ts'omal Ch'alish at least once in their lifetime, and the great festivals of the Celestial Recurrence—particularly the [K'ayik Kul'al]{.name data-type="lore/custom"} ("the Living Flame") marking the turning of the 52-year cycle—draw hundreds of thousands of pilgrims from every region, transforming Kul'taq'an into a city beyond cities. To have breathed the vapors of creation and stood in the shadow of the Ts'ultel Ch'alish is to have touched the divine; to die without making the journey is, in Ki'ich'chik theology, to face the gods with an incomplete soul. The sacred pools of K'ankul, the sacred lake of [[place-ixkulchalix|Ishkul Ch'alish]], and the temple-fortresses of the south are all sites of deep spiritual significance, but none approach Ts'omal Ch'alish in sanctity.
 
 ## The Works Recited
 
 The city-states keep their literature in the temples, on the stairs and in the households, and the works heard most often are tied to the calendar and the dead:
 
 - [[lore-countofsuns|The Count of the Suns]] is the recitation the serpent-keepers give at the Binding of the Serpent, which reads the four dead ages out as a builder's record of a collapse and ends on the count of the Fifth Age, with the city answering: [Sleep in the cloud. We keep the count.]{.verse}
-- [[lore-roadrecitation|The Road Recitation]] is the short form of the trials of Ch'al Ts'umaq that a road shrine keeper says over a traveller who dies on the white road, free, with whoever has stopped at the shrine sitting as the family.
+- [[lore-roadrecitation|The Road Recitation]] is the short form of the trials of Ch'al Ts'umaq that a road shrine keeper says over a traveler who dies on the white road, free, with whoever has stopped at the shrine sitting as the family.
 - [[lore-doornights|The Nights of the Doors]] are a K'ankul household's five tales for the five nights at the year's end, told to keep the one on watch awake while the hearth must not go out.
-- [[lore-latefire|The Late Fire]] is the stair text of Ne' Ts'umul for the Living Flame at which the sun did not come for the mirrors until the afternoon, with the river quarter's tale of the ember that was never put out.
+- [[lore-latefire|The Late Fire]] is the stair text of [[place-netsumul|Ne' Ts'umul]] for the Living Flame at which the sun did not come for the mirrors until the afternoon, with the river quarter's tale of the ember that was never put out.
 - [[lore-housename|The House Name]] is the word-dance of Kul'taq'an at the opening of the war month, in which a war-leader and his captive speak by full name and title until the foot of the sun's stair.
 
 ## Trade
 
-Ki'ich'chik is rich in resources. The central regions produce cacao, jade, obsidian, cotton, tropical hardwoods, and exotic feathers. The upper southern regions contribute iron, copper, gold and silver, the steel of their forges, medicinal plants, and highland produce. Obsidian goes to the temples as ritual blades and mirrors and to the markets as a trade good. Trade flows along the white roads and by coastal canoe, connecting city-states in a complex web of commerce. Jade and cacao serve as currency alongside the gold crown and pence used elsewhere on Thalorna. Little crosses the desert to the north: a few traders and pilgrims carry cacao, macaw feathers and copper bells to the Turquoise People, and bring back turquoise and furs. The trade is small, and in the north it is the trade of chiefs.
+Ki'ich'chik is rich in resources. The central regions produce cacao, jade, obsidian, cotton, tropical hardwoods, and exotic feathers. The upper southern regions contribute iron, copper, gold and silver, the steel of their forges, medicinal plants, and highland produce. Obsidian goes to the temples as ritual blades and mirrors and to the markets as a trade good. Trade flows along the white roads and by coastal canoe, connecting city-states in a complex web of commerce. The continent has three monies: [[lore-cacaojadecrncy|cacao and jade]] in the city-states, [[lore-shellbeadcrncy|shell-bead strands]] on the western coast of the north, and [[lore-nrthcopprcrncy|copper]], weighed, given and buried, everywhere else north of the desert. Little crosses the desert to the north: a few traders and pilgrims carry cacao, macaw feathers and copper bells to the Turquoise People, and bring back turquoise and furs. The trade is small, and in the north it is the trade of chiefs.
 
 ## See Also
 
 [[affiliation-itzanpnthn|Itsani Pantheon]]
 : The unified faith of Ki'ich'chik
+
+[[affiliation-itsanihierarchy|The Itsani Hierarchy]]
+: the one priesthood and the bodies that open, carry and forbid its workings
+
+[[affiliation-chumishlan|The Ch'um Ish'lan]]
+: the Speaking Road, the priesthood's relay on the white roads
 
 [[skill-kiichek|Ki'i'chek Language]]
 : the tongue, its lexicon and its naming conventions

@@ -133,3 +133,6 @@ The Ice-Edge People fight with sinew-backed bows, spears and knives of stone and
 
 [[affiliation-kelwanuk|Kelwanuk]]
 : the Cedar People, traders and raiders to the south
+
+[[lore-akluqun|Going Beneath]]
+: the faith: the houses beneath, the shamans and the Telling

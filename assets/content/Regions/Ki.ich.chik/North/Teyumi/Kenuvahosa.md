@@ -39,7 +39,7 @@ North of the mound lies a long oval court sunk a man's height into the ground, w
 
 ## The Western Trail
 
-Every summer a trading party leaves the Canal House for the west, over the mountains and along a trail of desert springs to the [Shell-Bead People]{.name data-type="affiliation/polity"} of the coast. It carries turquoise and cotton cloth and comes back with shell beads and abalone shell, which the cloud dancers wear beside the macaw feathers. The party is the Canal House's own, and the lowland towns take their shell from it before the canyon sees any.
+Every summer a trading party leaves the Canal House for the west, over the mountains and along a trail of desert springs to the [[affiliation-shuqash|Shell-Bead People]] of the coast. It carries turquoise and cotton cloth and comes back with shell beads and abalone shell, which the cloud dancers wear beside the macaw feathers. The party is the Canal House's own, and the lowland towns take their shell from it before the canyon sees any.
 
 This past winter a southern trader came up out of the desert to the Canal House by a western route, and went no farther. He sold cacao and copper bells on the mound and went home with turquoise, and nobody sent him on to [[place-kwatuhosa|Kwatuhosa]] to see the Keeper of the South Road. The Keeper has sent a runner to ask why. Kenuvawesa says that a guest who comes to the door is fed, and that the south road is not the only road.
 

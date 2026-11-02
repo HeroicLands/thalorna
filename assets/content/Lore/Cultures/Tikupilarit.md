@@ -233,6 +233,9 @@ The blind spot is the Rules themselves, and thoughtful Ice-Edge People argue ove
 [[affiliation-redstncmpct|Red Stone Compact]]
 : the compact the Ice-Edge People stand outside
 
+[[lore-akluqun|Going Beneath]]
+: the faith: the houses beneath, the shamans and the Telling
+
 ## Glossary {#glossary}
 
 The full dictionary is in the [[skill-tikupilaritlng#lexicon|Tikupilarit Language note]].

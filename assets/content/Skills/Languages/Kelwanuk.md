@@ -1283,6 +1283,12 @@ data:
       field: "Winter dances and the dead"
       gloss: "a healer; one a power has taught"
       source: {kind: coined}
+    - form: "melis medak"
+      class: n
+      field: "Winter dances and the dead"
+      gloss: "the canoe of the dead: the healers' journey together to the Village of the Dead to bring back a soul"
+      built: ["melis", "medak"]
+      source: {kind: coined}
     - form: "hakwa"
       class: v
       field: "Winter dances and the dead"

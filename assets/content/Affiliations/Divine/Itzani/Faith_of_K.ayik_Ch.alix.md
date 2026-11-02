@@ -6,6 +6,7 @@ subType: faithtradition
 description: "Fire, transformation and sacrifice—the god who alone converts the blood-offering into divine substance, and whose eternal flames must never be allowed to die."
 tags: [itzani, religion]
 data:
+  culture: kiichchikclt
   banner: faithbnr
   icon: null
   templatePriority: null

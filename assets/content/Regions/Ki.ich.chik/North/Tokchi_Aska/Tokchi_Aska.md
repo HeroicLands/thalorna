@@ -57,7 +57,7 @@ data:
   seat: hayopokta
   population: 1500000
   economy: []
-  lore: [humanflk]
+  lore: [tokchiliclt]
   parents: []
   relations: {redstncmpct: aligned, osetakona: rival, tenlaya: rival}
   packFolder: tokchiaska

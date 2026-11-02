@@ -5,12 +5,7 @@ type: place
 subType: region
 description: "Sand seas, mesas and salt flats—the land of Ch'akul Tsa'kul, the desert barrier at the southern edge of Northern Ki'ich'chik."
 tags: [region]
-data:
-  demonym: null
-  lore: [humanflk]
-  parents: [northkiichchik]
-  population: 0
-  packFolder: chakultzakul
+data: {demonym: null, lore: [], parents: [northkiichchik], population: 0, packFolder: chakultzakul}
 
 # terran_analog: A deadly Mojave-like desert barrier spanning the California–Texas analog through northern Mexico; the Sonoran-like extent is intensified. Approximate comparison only.
 ---
@@ -35,9 +30,15 @@ Water is the fundamental scarcity in Ch'akul Tsa'kul. A few isolated springs sur
 
 ## Ancient Ruins and Lost Knowledge
 
-Scattered across Ch'akul Tsa'kul are ruins of settlements and structures from an age previous to the current northern tribal peoples. These ruins—some stone-built with substantial architecture, others merely impressions in the earth—suggest that the region once supported permanent settlements and possibly civilization. Scholars debate whether these ruins represent indigenous cultures that have disappeared, or whether they are remnants of adherents of the [[affiliation-itzanpnthn|Itsani Pantheon]] or other southern peoples attempting to establish control during a previous age when the desert may have been less hostile.
+Ruins stand all through Ch'akul Tsa'kul: walls half buried in the sand seas, terraces cut into mesa sides, mounds on the salt flats that turn out to be buildings, and lines in the gravel that show from a mesa top as the outlines of rooms. The priests of the south say they are older than the first of their own cities, and nobody in the north or the south claims them. Five are known well enough to find:
 
-Travelers who attempt the crossing may seek valuables or artifacts among the ruins. Some items recovered—certain crystals, carved stones, and metal objects of unknown purpose—are believed to possess spiritual or magical properties. Expeditions to the ruins are dangerous, and no resident guides or traders are based in the desert.
+- **[[place-greenspring|The Green Spring]]**, a stone-lined sink in the western mesas with palms, fig trees and a pool of clear water at its bottom, the kindest water in the desert, where those who sleep beside it do not wake.
+- **[[place-blackpyramid|The Black Pyramid]]**, a stepped pyramid of black stone at the head of the deepest canyon of the central badlands, its upper tiers run like wax, where the [[being-mtrfrdrg|Mature Fire Dragon]] keeps its hoard.
+- **[[place-writtenwall|The Written Wall]]**, a mesa cliff in the western badlands cut from foot to rim with rows of signs that no scribe can read, every one of them a scorpion's den.
+- **[[place-sleepingpyr|The Sleeping Pyramid]]**, a white, painted pyramid in the northern sand seas that the dunes bury and uncover, so that most years only its top shrine shows above the sand.
+- **[[place-salthouse|The Salt House]]**, a terraced house of many rooms on a rock island in the southern salt flats, grown over with salt crystal, whose rooms keep cloth, baskets and seated dead.
+
+Each is its own place, and none looks like another. What comes out of them sells in the markets at either end of the crossing: painted pots, cloth that has kept its color, carved stone, copies of the Written Wall's signs, and now and then crystals and pieces of metal that no smith can name. No guide lives in the desert, and the traders who know a ruin take a party to it only on their own crossing.
 
 ## Trade and Passage
 
@@ -54,3 +55,18 @@ The crossing limits north-south trade to a trickle, and only goods light and pre
 
 [[place-chakultzkl2|Ch'akul Tsa'kul]]
 : The abandoned, uninhabited site
+
+[[place-greenspring|The Green Spring]]
+: the deadly oasis of the western mesas
+
+[[place-blackpyramid|The Black Pyramid]]
+: the dragon's hoard in the badlands
+
+[[place-writtenwall|The Written Wall]]
+: the cliff of unread signs
+
+[[place-sleepingpyr|The Sleeping Pyramid]]
+: the pyramid under the dunes
+
+[[place-salthouse|The Salt House]]
+: the house on the salt flats

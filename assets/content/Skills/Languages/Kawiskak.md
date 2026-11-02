@@ -88,6 +88,10 @@ data:
     - {name: apowosipa, tongue: kawiskak}
     - {name: Loon Lake, tongue: translation}
     - {name: Loon Lake Killing, tongue: translation}
+    - name: ostinak
+      tongue: kawiskak
+      gloss: "the Givers: the animals, who give themselves to a hunter who deserves them"
+    - {name: Givers, tongue: translation}
     - {name: Bitter Water, tongue: translation}
     - {name: Copper River, tongue: translation}
     - {name: Barren-Ground People, tongue: translation}

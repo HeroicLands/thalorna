@@ -6,6 +6,7 @@ subType: order
 description: "The owl keepers—the contemplative order within Ts'uqil Ish'bal's service, who tend groves where decay is left undisturbed, practice sky burial, and teach that impermanence is freedom rather than tragedy."
 tags: [itzani, religion]
 data:
+  culture: kiichchikclt
   icon: null
   templatePriority: null
   demonym: null
@@ -76,6 +77,10 @@ data:
     tzumaqkalanil: nemesis
     pikultzumaq: nemesis
     piqalkulqat: rival
+    itsanihierarchy: aligned
+    ishilanshulum: unaligned
+    tsumulob: unaligned
+    shaqalob: rival
   packFolder: pantheonitzani
 sohl: {system: {commonSkills: [tzuqilixbal]}}
 ---
@@ -91,6 +96,12 @@ The order's central discipline has no liturgy and no fixed hours. A candidate is
 The groves hold no images. They are bounded, not built: a **Grove-Keeper** marks the edge, keeps the living out where the practice requires it, and otherwise ensures nothing is done. The discipline is entirely one of restraint, and the register a keeper maintains records what the forest took and when—the fall of a limb, the collapse of a trunk, the year a platform gave way—which the order reads as the god's own account of itself.
 
 Where sky burial is practiced the **Platform-Master** conducts it and the **Reader of the Birds** attends, reporting what came, in what order, and how long it took. The bared bone is gathered by the **Keeper of the Bone** and returned to the family; what no family claims stays in the grove's ossuary, unsorted, which visitors from other branches find more disturbing than the exposure itself.
+
+## The Working
+
+The Pik'ob speak fewer workings than any branch of the priesthood, and they regard that as their part of [[lore-chumtsena|Ch'um Ts'ena]]. A grove is a place where the order has undertaken to speak nothing, and its keepers ask the city's Reckoner of Conjunctions for no days on its behalf. The order holds that what the forest does in a grove is the god's own working, spoken without a priest, and that a keeper who added one of his own would be interrupting.
+
+Their one set form is the opening of the platform. When a body is laid out for sky burial, the **Platform-Master** speaks it on the night of the moon on which the person died, the same position in the counts as the death-walkers' recitation of the trials, and pays for it with a few drops of his own blood on the platform's edge. What the **Reader of the Birds** reports afterwards is entered as the god's answer to it. The order asks nothing from the city's ledger and has never drawn a city into deficit.
 
 ## The Abandoned Temple
 
@@ -111,3 +122,5 @@ Within the death faith the Pik'ob and the Ish'bal'ob divide the god between them
 With the builder-priests of [[affiliation-piqalkulqat|P'iqal Kul'qat]] the order carries the tradition's most distinctive standing argument. The builders hold that a raised structure is a participation in the goddess's unfinished work; the Pik'ob hold that surrendering one is a participation in the same truth from the other side. The quarrel is fought out annually in the allocation of masons between new work and repair, and neither branch expects to win it.
 
 The order's real difficulty is that its theology shares a root with the tradition's worst heresy. Both the Pik'ob and the [[affiliation-tzumaqkalanil|Ts'umaq K'alanil]] emerge from [[lore-tzuqilixbaldty|Ts'uqil Ish'bal]]'s domain, and both grapple with the meaning of dissolution and the impermanence of all things. The Pik'ob draw the line at acceptance; the Serpent Awakeners cross it into acceleration. But the boundary between "accepting that all things end" and "hastening the ending" is thinner than the orthodox priesthood would like, and Pik'ob philosophers who drift too close to that line sometimes vanish into the jungle, where the Awakeners welcome them—and where [[lore-pikultzumaqdty|Pik'ul Ts'umaq]], once the greatest of the celestial owls the order serves, is understood to be waiting for them.
+
+Toward the bodies of [[affiliation-itsanihierarchy|the Itsani Hierarchy]] the order keeps its distance. It needs nothing from [[affiliation-ishilanshulum|the Star House]], since it asks for no days, and nothing from [[affiliation-tsumulob|the Blood-Workers]], since it takes no captives; the Blood-Workers bring their dead to the groves more often than any other body does, and the keepers lay them out like anyone else's. [[affiliation-shaqalob|The Severers]] are the body it has to answer. A grove where nothing is spoken is also a place where nobody watches for what is, and when a Pik'ob philosopher vanishes into the jungle, the Severers come to the grove and ask the Warden of the Drifting why he did not see it coming.

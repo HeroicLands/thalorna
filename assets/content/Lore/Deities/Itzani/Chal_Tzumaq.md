@@ -3,26 +3,30 @@ shortcode: chaltzumaq
 name: {full: Ch'al Ts'umaq}
 type: place
 subType: region
-description: "The Itsani underworld beneath every cenote, cave and sacred spring—a labyrinth of chambers, trials and deceptions the soul must pass to be reborn."
-tags: [draft]
+description: "The Itsani underworld beneath every sinkhole, cave and sacred spring—a labyrinth of chambers, trials and deceptions the soul must pass to be reborn."
+tags: []
 data: {demonym: null, lore: [], parents: [], population: 0, packFolder: settinglore}
 ---
 
 ## Overview
 
-Ch'al Ts'umaq—"beneath the night sky"—is the underworld of the [[affiliation-itzanpnthn|Itsani faith]], and its mouths are everywhere in [[place-kiichchik|Ki'ich'chik]]. It lies beneath every cenote, cave and sacred spring, and the [[place-kankulrgn|K'ankul]] priesthood teaches that the sun itself passes through it each night on its way to rebirth at dawn. It is the domain of [[lore-tzuqilixbaldty|Ts'uqil Ish'bal]], the death god, and a priest of that faith explains it to a newcomer before anything else: it is not a place of punishment but of passage.
+Ch'al Ts'umaq ("beneath the night sky") is the underworld of the [[affiliation-itzanpnthn|Itsani Pantheon]], the subterranean realm beneath every sinkhole, cave and sacred spring. It is the domain of [[lore-tzuqilixbaldty|Ts'uqil Ish'bal]], the death god. It is not a place of punishment but of passage.
 
 ## The Passage
 
-A death-walker of the [[affiliation-tzuqilixbal|Faith of Ts'uqil Ish'bal]] puts it plainly. Ch'al Ts'umaq is a labyrinth of chambers, trials and deceptions, and the soul must find its way through every one of them to reach the celestial realm beyond, where it emerges reborn. A soul that fails is lost and becomes one of the _ts'uqilob_, trapped in shadow. The priests can help, and they sell exactly that help: the **Speaker of the Trials** sits with the body through the night after death and names each chamber in the order the soul will meet it, and each deception in the order it will be offered, while the family listens without speaking. A family that can pay for the full recitation buys its dead a guided passage; one that cannot buys a shorter one. The priests sell memory, not mercy, and even the poorest households beggar themselves to pay.
+Ch'al Ts'umaq is a labyrinth of chambers, trials and deceptions through which the soul must navigate to reach the celestial realm beyond. A soul that reaches the other side emerges reborn; a soul that is lost becomes one of the _ts'uqilob_, trapped in shadow.
 
-That is why the gravest sentence the faith can pass is exclusion from the funerary rites. A soul left to face Ch'al Ts'umaq's trials unguided is, in the Ki'i'chek reckoning, the one sentence that outlives the body.
+The Ish'bal'ob priesthood of the [[affiliation-tzuqilixbal|Faith of Ts'uqil Ish'bal]] memorizes the funerary codices, and a soul whose family has engaged the priests to perform the correct rites has a far better chance of navigating the underworld. A family that can afford a full recitation buys its dead a guided passage, and a family that cannot buys a shortened one: the priests sell memory, not mercy. The Speaker of the Trials attends the body through the night after death, naming each chamber in the order the soul will meet it and each deception in the order it will be offered, while the family listens and does not speak.
 
-## The Cenotes and the Threshold
+A person barred from the funerary rites is a Blood-Denied, whose soul is left to face the trials unguided, which the Ki'i'chek reckon the one sentence that outlives the body.
 
-In this theology, every cenote is at once a mouth of Ch'al Ts'umaq and the body of [[lore-xaqikhanaldty|Shaq'ik Ha'nal]], goddess of living waters, and the two priesthoods have settled city by city, over centuries and not without acrimony, which waters serve which rite on which nights. At the turning of the [[lore-itsaniclndr#tsuqal|Ts'uqal Cycle]], whole communities gather at the cenote mouths through the night for **the [Taq'tsuqalil]{.name data-type="lore/custom"}**, the Calling of the Dead, to welcome the recently dead into the underworld, and they bring their children so the children grow up unafraid of the mouth of the world.
+## The Sacred Pools
 
-The threshold was once guarded by [[lore-pikultzumaqdty|Pik'ul Ts'umaq]], the celestial owl, who concluded that the underworld was a trap rather than a passage and began pulling souls back out of it. The heretics who follow it, the [[affiliation-tzumaqkalanil|Ts'umaq K'alanil]] (Serpent Awakeners), can draw the newly dead back from Ch'al Ts'umaq, and they do; a soul reversed before its trials are done comes back damaged, and the damage cannot be undone.
+Every sacred pool is at once a portal to Ch'al Ts'umaq and the body of [[lore-xaqikhanaldty|Shaq'ik Ha'nal]], goddess of living waters. The two priesthoods have worked out which waters belong to which rite and on which nights. At the turning of the [[lore-itsaniclndr#tsuqal|Ts'uqal Cycle]], communities gather at the mouths of the sacred pools for the [Taq'tsuqalil]{.name data-type="lore/custom"} ("The Calling of the Dead"), a nocturnal ceremony that welcomes the recently deceased into the underworld.
+
+## The Threshold
+
+[[lore-pikultzumaqdty|Pik'ul Ts'umaq]] was once the guardian of the threshold of Ch'al Ts'umaq. It concluded that the underworld is a trap rather than a passage and began pulling souls back out of it, opening the boundary it was set to keep shut. [[affiliation-tzumaqkalanil|The Serpent Awakeners]] (Ts'umaq K'alanil), who follow it, can demonstrably pull the recently dead back out of the labyrinth.
 
 ## See Also
 

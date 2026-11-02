@@ -9,6 +9,7 @@ subType: spirittradition
 description: "The fallen celestial owl that once guarded Ch'al Ts'umaq's threshold, concluded the underworld was a trap rather than a passage, and now opens the boundary it was set to keep shut."
 tags: [itzani, religion]
 data:
+  culture: kiichchikclt
   icon: null
   templatePriority: null
   demonym: null
@@ -73,7 +74,15 @@ data:
   economy: []
   lore: [pikultzumaqdty]
   parents: []
-  relations: {itzanpnthn: nemesis, tzuqilixbal: nemesis, tzumaqkalanil: aligned, pikob: rival}
+  relations:
+    itzanpnthn: nemesis
+    tzuqilixbal: nemesis
+    tzumaqkalanil: aligned
+    pikob: rival
+    itsanihierarchy: nemesis
+    ishilanshulum: unaligned
+    tsumulob: nemesis
+    shaqalob: nemesis
   packFolder: pantheonitzani
 sohl: {system: {commonSkills: []}}
 ---
@@ -106,6 +115,12 @@ Its rarest gift is also its most dangerous. The owl can intercept a soul at the 
 
 Nothing about the process is generous. The owl holds the soul; the soul does not hold itself, and what it is held by is a being that has already decided the cosmic order is a lie worth breaking. A Threshold-Held who ceases to be useful is not destroyed. It is simply released, at a time the owl chooses, into the labyrinth it was promised it would never have to enter.
 
+## The Working
+
+Nothing the owl does is a working in the sense of [[lore-chumtsena|Ch'um Ts'ena]]. No priest speaks it, no day is opened for it and no blood pays for it. The adherents ask, and the owl acts or does not. The Reckoners' tables give no answer for it at all, and the orthodox priesthood holds that it is not spoken into any day.
+
+What the adherents do is place themselves where the owl can act. The **Guide of the Newly Dead** must be present at the moment of a death, because the interception is possible only before the soul enters the labyrinth, and a **Keeper of the Door** holds a place where the boundary has been opened before: a cave mouth, a drowned sinkhole, a grave-field. A death brought to such a place, at such a moment, is a death the owl can take. The veneration's whole practice is the arranging of that meeting, which is why its adherents keep watch at sickbeds the way the orthodox keep watch at the sighting stones.
+
 ## Relations
 
 In the traditional account, Ts'uqil Ish'bal cast it out and has never moved from that judgment; the death-walkers created the office of **Warden of the Threshold** specifically to watch for souls that have come back out, and it is the office they least like to discuss. The orthodox priesthood of the [[affiliation-itzanpnthn|Itsani Pantheon]] as a whole treats the owl as the tradition's gravest heresy, and treats the fact that it emerged from within the tradition's own household as a matter better handled by suppression than by argument.
@@ -113,6 +128,8 @@ In the traditional account, Ts'uqil Ish'bal cast it out and has never moved from
 Its alliance with the Ts'umaq K'alanil is real and mutually useful rather than affectionate. They supply it with reach, with grieving households, and with a doctrine that makes its work look like mercy; it supplies them with the one thing their apocalyptic theology had always lacked—an explanation of _why_ the cosmic cycle is failing, and a demonstration that can be performed in a village in a single night.
 
 Toward the [[affiliation-pikob|Pik'ob]] it holds a claim that unsettles them badly, since it was once the greatest of their own celestial patrons and its argument begins where their contemplative theology begins. The owl keepers draw the line at accepting that all things end; the owl crossed it. Pik'ob philosophers who drift too close to that line sometimes vanish into the jungle, and the owl is understood to be waiting for them.
+
+The bodies of [[affiliation-itsanihierarchy|the Itsani Hierarchy]] stand against it in their different ways. [[affiliation-shaqalob|The Severers]] count every Keeper of the Door they find as Blood-Denied, seal every place where the boundary has been opened, and record it. [[affiliation-tsumulob|The Blood-Workers]] meet the Threshold-Held in the deep jungle and south of Q'aptel'ul Ne'ok, and fight them as one enemy with the Awakeners' dead. [[affiliation-ishilanshulum|The Star House]] has nothing to say about the owl, since its tables give no answer for what the owl does, and the Namer of the Lost reads that silence aloud with the roll.
 
 ## Outside the Ladder
 

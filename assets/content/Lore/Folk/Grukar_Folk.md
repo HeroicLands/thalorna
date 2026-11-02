@@ -5,7 +5,7 @@ type: lore
 subType: folk
 description: Grukar Folk
 tags: []
-data: {packFolder: settinglore}
+data: {packFolder: settinglore, culture: grukarclt}
 ---
 
 The Grukar are a brutal and prolific folk, feared wherever their guttural war-cries echo across the hills. Thick-skinned, tusked, foul-tempered, never still and rank with their own stink, they inhabit the blighted wastes, the deep ravines, and the ruined places of the world where no civilized folk would willingly tread. Ranging in height from roughly four and a half feet among the stunted common breed to a towering six and a half feet among the rarest and most fearsome of their kind, the Grukar are not a single uniform threat but a fractious, seething mass of subspecies locked in perpetual internal struggle—a struggle that, paradoxically, is the very engine of their survival.
@@ -131,3 +131,14 @@ The Grukar give no names, and "Grukar" is a human word for them. The four caste 
 ## The Grukar Threat
 
 Where the Grukar spread, the land suffers. Their tribes are a roiling cauldron of violence, held in a precarious balance by the interplay of their subspecies: the Grukar-Hushk too few and too fractious to organize alone, the Grukar-Sha too weak to seize power openly, and the Grukar-Uk too lazy and dim to act without a boot on their necks. Yet when a strong leader rises—a Grukar-Hushk cunning enough to listen to a Sha counselor and brutal enough to whip the Uk into a marching horde—the result is a tide of destruction that has swallowed towns, scattered armies, and laid waste to entire regions before burning itself out in the inevitable internal collapse that follows.
+
+## See Also
+
+[[lore-grukarclt|Grukar]]
+: the culture: what hatches with a Grukar, what the spawner wants and what a Grukar owes its tribe
+
+[[skill-grukarlng|Grukar Language]]
+: body language and scent, with sound for emphasis and no words
+
+[[lore-grukaraelwyth|The Grukar of Aelwyth]]
+: the tribes of the island's empty interior

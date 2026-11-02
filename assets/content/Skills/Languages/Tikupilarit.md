@@ -489,6 +489,18 @@ data:
       gloss: "an asking; the Asking, the masked dance that asks the animals to come"
       built: ["tayu", "-qun"]
       source: {kind: coined}
+    - form: "akluqun"
+      class: n
+      field: "The men's house and the masks"
+      gloss: "a going beneath; a shaman's journey to the houses of the animals and the dead, and the faith named for it"
+      built: ["aklu", "-qun"]
+      source: {kind: coined}
+    - form: "kaliqun"
+      class: n
+      field: "The men's house and the masks"
+      gloss: "a telling: the gathering in the men's house at which hidden breaches of the Rules are spoken aloud"
+      built: ["kali", "-qun"]
+      source: {kind: coined}
     - form: "nuqan"
       class: n
       field: "The men's house and the masks"
@@ -5966,6 +5978,10 @@ data:
     - {name: tayuqun, tongue: tikupilarit, built: [tayu, -qun]}
     - {name: Asking, tongue: translation}
     - {name: Rules of the Catch, tongue: translation}
+    - {name: akluqun, tongue: tikupilarit, built: [aklu, -qun]}
+    - {name: Going Beneath, tongue: translation}
+    - {name: Keeper in the Moon, tongue: translation}
+    - {name: Raven, tongue: translation}
     - {name: Taking, tongue: translation}
     - {name: taluqivi, tongue: tikupilarit, built: [taluq, ivi]}
     - {name: kilnaqivi, tongue: tikupilarit, built: [kilnaq, ivi]}

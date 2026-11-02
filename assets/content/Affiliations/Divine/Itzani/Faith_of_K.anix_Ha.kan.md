@@ -6,6 +6,7 @@ subType: faithtradition
 description: "Prosperity and the harvest—the maize god from whose sacred dough humankind was made, beloved rather than feared, whose festivals feed even the slaves."
 tags: [itzani, religion]
 data:
+  culture: kiichchikclt
   banner: faithbnr
   icon: null
   templatePriority: null

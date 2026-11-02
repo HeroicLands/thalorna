@@ -27,7 +27,7 @@ The mountains stand back from the sea here, behind a strip of rainforest and lag
 
 Whales pass close inshore every spring on their way north and every autumn on their way south. The Orca House of [[place-malkisis|Malkisis]] and the houses near it hunt them from canoes with harpoons of mussel shell and floats of sealskin, and a whale towed home feeds a village for a month and gives oil for a year.
 
-At the southern end the South River comes out of the mountains, wide enough that a man on one bank cannot see the people on the other. Far upstream, beyond the mountains, the river drops over the great falls where the Grass People fish. At its mouth, on a sandspit behind the bar, stands [[place-lamekis|Lamekis]], Bear Beach. South of the river mouth the shore is empty for many days' paddle, until the first walled town of the [Shell-Bead People]{.name data-type="affiliation/polity"}.
+At the southern end the South River comes out of the mountains, wide enough that a man on one bank cannot see the people on the other. Far upstream, beyond the mountains, the river drops over the great falls where the Grass People fish. At its mouth, on a sandspit behind the bar, stands [[place-lamekis|Bear Beach]] (Lamekis). South of the river mouth the shore is empty for many days' paddle, until the first walled town of the [[affiliation-shuqash|Shell-Bead People]].
 
 ## Villages
 

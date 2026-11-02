@@ -14,11 +14,11 @@ The air is thin at K'ushi Ish'bal, and a lowlander arriving from the north spend
 
 ## A Garrison Economy
 
-The cities of the plateau are garrison-like. The priesthood claims large portions of the herds and grain harvests as tribute or tithe, and little wealth leaves the realm: most is hoarded in temple treasuries or consumed in ritual. The economy is oriented toward survival and toward provisioning expeditions. The main goods are travelers' provisions for the far south, dried meats, cold-weather cloaks, strong cords, and the dried leaf that eases breathing at altitude, along with fine wool woven into textiles and exported north. The great fortress-city of [[place-qptlulneok|Q’aptel’ul Ne’ok]] is the primary staging point for expeditions into the wastes, and its merchants profit enormously from outfitting them.
+The cities of the plateau are garrison-like. The priesthood claims large portions of the herds and grain harvests as tribute or tithe, and little wealth leaves the realm: most is hoarded in temple treasuries or consumed in ritual. The economy is oriented toward survival and toward provisioning expeditions. The main goods are travelers' provisions for the far south, dried meats, cold-weather cloaks, strong cords, and the dried leaf that eases breathing at altitude, along with fine wool woven into textiles and exported north. The great fortress-city of [[place-qptlulneok|Q'aptel'ul Ne'ok]] is the primary staging point for expeditions into the wastes, and its merchants profit enormously from outfitting them.
 
 ## The Edge of the Road
 
-Messages from [[affiliation-ixilankul|Ish'ilankul]] that reach [[place-kankul2|K'ankul]] in two days take five or six to reach K'ushi Ish'bal's outpost cities, and beyond the realm the [Speaking Road]{.name data-type="affiliation"} falls silent. Those who go south from here do so with offerings and prayers heavy on their lips. The sacred lake of [[place-ixkulchalix|Ishkul Ch’alish]], said to be the eye of the world, is the realm's spiritual heart: the priesthood controls its waters entirely, and only those properly blessed may venture onto it.
+Messages from [[affiliation-ixilankul|Ish'ilankul]] that reach [[place-kankul2|K'ankul]] in two days take five or six to reach K'ushi Ish'bal's outpost cities, and beyond the realm the [[affiliation-chumishlan|Ch'um Ish'lan]] falls silent. Those who go south from here do so with offerings and prayers heavy on their lips. The sacred lake of [[place-ixkulchalix|Ishkul Ch'alish]], said to be the eye of the world, is the realm's spiritual heart: the priesthood controls its waters entirely, and only those properly blessed may venture onto it.
 
 ## See Also
 

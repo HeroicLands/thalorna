@@ -63,7 +63,7 @@ sohl: {system: {commonSkills: [shuqashlng]}}
 
 The Shuqash are the Shell-Bead People, the people of the golden western coast, about 350,000 in some sixty towns on the beaches and islands of the [[place-shuqhalaqrgn|Bead Coast]] and in hundreds of villages in the [[place-tulishlumuqrgn|Oak Valleys]] behind the coastal mountains. They take their name from the shell bead (_shuq_), the drilled disk of shell that is their money and the only true money in the north. Their ways are set out in the [[lore-shuqashclt|Shuqash]] culture note, and their tongue is the [[skill-shuqashlng|Shuqash Language]].
 
-They are rich, and they are rich because the sea and the oaks between them feed a crowded coast with little work. The kelp beds offshore hold fish, sea otters and seals, the islands hold shellfish and the snails that become beads, and the valleys send over the passes the acorns that every house eats. The towns trade all of it with each other in beads, and the plank canoes of the [Canoe Kin]{.name data-type="affiliation/guild"} carry it across the channel to the islands and back.
+They are rich, and they are rich because the sea and the oaks between them feed a crowded coast with little work. The kelp beds offshore hold fish, sea otters and seals, the islands hold shellfish and the snails that become beads, and the valleys send over the passes the acorns that every house eats. The towns trade all of it with each other in beads, and the plank canoes of the [[affiliation-canoekin|Canoe Kin]] carry it across the channel to the islands and back.
 
 ## Who Rules
 
@@ -132,3 +132,6 @@ The Turquoise People court the coast for its beads and its shell. Their traders,
 
 [[affiliation-redstncmpct|Red Stone Compact]]
 : the compact the Shell-Bead People have not joined
+
+[[lore-tiyuppilikin|Sky's Count]]
+: the faith: the sky's count, the guardians and the sorcerers

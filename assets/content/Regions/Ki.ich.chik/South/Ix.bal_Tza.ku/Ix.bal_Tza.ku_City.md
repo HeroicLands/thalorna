@@ -19,7 +19,7 @@ Come down the great southern white road from [[place-neokbaatergn|Ne'ok Ba'ate]]
 
 ## Who Governs
 
-Ish'bal Tsa'ku is the uppermost reach of the south, fully integrated into the unified [[affiliation-itzanpnthn|Itsani priesthood]]. The celestial calendar governs planting and harvest, pilgrimage and sacrifice, and a message from the Ch'alish Tq'an reaches the realm in three to four days along the highland road. The priesthood's control of trade is absolute: tribute flows constantly to the temples, no major transaction goes unwatched, and the priests take their religious levy from every one. The highland cities control the river systems, and the rulers of the river-junction city [[place-nepaxel|Ne’ P’ashel]] exact tribute from merchants passing through to the coast.
+Ish'bal Tsa'ku is the uppermost reach of the south, fully integrated into the unified [[affiliation-itzanpnthn|Itsani Pantheon]]. The celestial calendar governs planting and harvest, pilgrimage and sacrifice, and a message from the Ch'alish Tq'an reaches the realm in three to four days along the highland road. The priesthood's control of trade is absolute: tribute flows constantly to the temples, no major transaction goes unwatched, and the priests take their religious levy from every one. The highland cities control the river systems, and the rulers of the river-junction city [[place-nepaxel|Ne' P'ashel]] exact tribute from merchants passing through to the coast.
 
 ## What It Sells
 

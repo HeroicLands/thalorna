@@ -52,6 +52,8 @@ export const RETIRED = [
         replacement: "Sélmoran",
         scope: "corpus",
     },
+    { retired: ["Tz'umaq'ob"], replacement: "Ts'umaq'ob", scope: "corpus" },
+    { retired: ["Tz'ab"], replacement: "Ts'ab", scope: "corpus" },
     { retired: ["Kael"], replacement: "the host culture's given names", scope: "corpus" },
     {
         retired: ["Theron"],

@@ -6,6 +6,7 @@ subType: faithtradition
 description: "Order, cosmic law and the solar cycle—the sovereign of the Fifth Age, whose sunrise is bought with blood and never given freely."
 tags: [itzani, religion]
 data:
+  culture: kiichchikclt
   banner: faithbnr
   icon: null
   templatePriority: null

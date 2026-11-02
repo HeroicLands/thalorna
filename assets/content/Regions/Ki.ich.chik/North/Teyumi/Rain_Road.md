@@ -66,6 +66,16 @@ The Far Rising
 The Dry Search
 : is held after a run of dry summers, when a rain chief asks the bear doctors to find the hearts keeping the rain away. The bear doctors of a town go through it house by house over four days, looking at each person through their crystals and listening to what the neighbors say. On the fifth morning they name the dry hearts in the plaza, and the rain chief sends each one to a chamber elder or puts each one out as one of the Dry (_pesayo_). No Dry Search has been held at the canyon feast, where it would bind every town at once, since the Year of Shut Doors. The rain chief of [[place-yaahosa|Yaahosa]] has asked for one there this autumn.
 
+## The Clowns
+
+The clowns (_pukiya_) belong to no power and keep no rite of their own, and no summer dance is held without them. A clown is painted in bands of black and white from scalp to heel, with the hair bound up in a knot stuck with turkey feathers. The clowns come down off the roof of the great house in the middle of a rain dance, falling, squabbling and getting in the cloud dancers' way, and they do everything a person must never do. They pour water on bare ground. They eat dirt and pretend to like it. They talk during the songs, quarrel over the cornmeal, steal from the stewpots and mock the dead by dancing a step behind them.
+
+The laughter is part of the rite. The rain comes to calm hearts, and a town that is laughing is not holding a grudge. Between the antics the clowns do their other work: they name, aloud and by name, everyone who has misbehaved since spring, the thief, the lazy husband, the boaster, the woman who hid corn from her sister, and act out what each one did until the plaza is weeping with laughter and the guilty are laughing hardest, as they must.
+
+A clown is made by a vow. A person who has lived through something that should have killed them, a fall from a terrace, a flood in a dry wash or a fever of a winter, promises themselves to the clowns' chamber, and is painted at the next rain dances. The vow is for life. In the plaza a clown may say anything to anyone and must not be answered there, and the rule binds the great houses too. A clown may mock a rain chief or a house head as readily as a lazy husband, and the clowns' chamber is fed well from the great houses' storerooms every autumn, which nobody remarks on in the plaza.
+
+This summer at [[place-yaahosa|Yaahosa]], on the last day of the rain dances, two clowns swept the plaza with a turkey feather, peering under the pots and the ladders for dry hearts, while a third followed them with a lump of quartz held to his eye and named every dog, every pot and every child he passed. The rain chief of Yaahosa, who has asked for a Dry Search at the canyon feast, laughed as he had to. He has not sent the clowns' chamber its corn.
+
 ## The Argument
 
 The Dry Search is the part of the faith the Turquoise People argue about, and the argument is the one the [[lore-teyumiclt|Teyumi]] culture note sets out. The search always lands on the hungry, the angry, the odd and the old, and it has never once named a great-house kinsman. The elders who defend it say that the doctrine of the calm heart is sound and that the great houses have only ever failed it. The elders who oppose it ask what the rain is answering, if it answers the search.

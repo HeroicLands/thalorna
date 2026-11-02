@@ -6,6 +6,7 @@ subType: polity
 description: Paramount realm and beating heart of Ki'ich'chik civilization—a plateau of pyramid-temples, mathematics, and blood-priesthood.
 tags: [polity]
 data:
+  culture: kiichchikclt
   icon: null
   templatePriority: null
   demonym: null
@@ -13,70 +14,77 @@ data:
   symbol: null
   governance:
     model: monarchy
-    summary: ""
+    summary: >-
+      Each city of the plateau has two rulers. The Ts'enmah faces outward: he leads the tribute-armies and the captive-hunts and takes tribute from the towns under him. The Ch'ikalmah rules within: he hears appeals, keeps the granaries and the treasury, and holds the city while the Ts'enmah is in the field. When a Ts'enmah dies, the four P'eshalmah, the lords of the city's quarters, choose his successor from the royal line, and the Presiding Ch'alish Tq'an must confirm the choice. Each quarter is divided into wards, and each ward holds its fields in common, allots them to its households, keeps its own temple and house of youths, and marches under its own head. Stewards of the Ts'enmah live in the subject towns and keep the count of their tribute, and the merchant guild judges its own members. The Ts'enmah whose city holds the respect of the Ch'alish Tq'an and the great temples is the Q'emulmah, first among the Sun Lords of the plateau.
     ranks:
       - level: 0
-        title: Exile
+        title: Ts'ikalbal
         description: >-
-          Driven from the city and denied its ballcourt, its market and its rites; no lord will take him and no kin will own him.
+          Put outside: struck from his ward's roll for a crime the ward will not answer for, with no field, no ward temple and no levy to march in. Any household may take him as a slave, and none owes him shelter.
       - level: 1
-        title: Captive
+        title: Ts'ik'ibal
         description: >-
-          Taken in war and held for labor or for the altar, with no standing and, commonly, no long future.
+          A slave: sold for debt, theft or gambling, or self-sold in a hungry year. A slave keeps what he earns beyond his work, may marry and may buy himself free, and his children are born free.
       - level: 2
-        title: Commoner
+        title: Ch'ulmaqbal
         description: >-
-          Working the maize plots and owing labor on the temple platforms and causeways, and tribute in maize, cloth and cacao.
+          A serf: a tenant with no ward, bound to a lord's estate, who works its fields and owes the lord a share of every harvest and nothing to any ward.
       - level: 3
-        title: Craftsman
+        title: Ts'omalil
         description: >-
-          Of the skilled trades—potters, weavers, feather-workers, stone-cutters—attached to a lord's household or a temple.
+          A ward member: of a household on its ward's roll, allotted a field from the ward's common land for as long as the household works it, and owing labor on the temple platforms and causeways, tribute in maize, cloth and cacao, and service in the ward's levy.
       - level: 4
-        title: Warrior
-        description: Taker of captives, whose standing rises with each one and whose dress records them.
-      - level: 5
-        title: Scribe or Priest
+        title: P'ik'ulbal
         description: >-
-          Keeper of the count of days, the glyphs and the rites, without whom no lord may act at an auspicious hour.
+          A guildsman: a feather-worker, stone-cutter, lapidary or potter of a craft ward, where a whole ward works one craft, keeps its patron's shrine and pays its tribute in its work.
+      - level: 5
+        title: Ts'omilbal
+        description: >-
+          A knight: a ward member raised for the captives he has taken in the hunts, who wears the dress they earn him, eats in the lord's hall and may hold a field from the Ts'enmah that his sons do not inherit.
       - level: 6
         title: K'anulmah
-        description: A noble lord of the city, holding land, dependents and a place in the Ts'enmah's court.
+        description: >-
+          A noble lord: of a lord-house with its own palace, estates and serfs, schooled in the temples and judged in the noble court, from which the city's judges, stewards and quarter lords come.
       - level: 7
         title: Kulmah
         description: >-
-          A subordinate lord holding a lesser center for the Ts'enmah, and the usual rank of a conquered city's ruler.
+          A subordinate lord: ruler of a subject town, who keeps his seat and his own house for as long as the town's tribute arrives in full.
       - level: 8
         title: Ts'enmah
         description: >-
-          Holy Lord: divine king of the city, who bleeds for it at the turn of the calendar and embodies it in war.
+          Sun Lord: ruler of a city for life, chosen from its royal line, who bleeds for it at the calendar's turns and leads it in war.
+      - level: 9
+        title: Q'emulmah
+        description: >-
+          Overlord: the Ts'enmah whose city holds the respect of the Ch'alish Tq'an and the great temples, and to whom the other Sun Lords of the plateau send tribute for as long as it holds.
     offices:
       Ts'enmah: >-
-        Holy Lord and divine king of the city, whose bloodletting at the calendar's turns sustains it.
-      Ish'kanmah: >-
-        Royal lady of the city, of a lineage recorded and married for, and a ruler in her own right where the line requires it.
-      Kulmah: Subordinate lord holding a lesser center in the Holy Lord's name.
-      K'anulmah: Noble lord of the city, holding land, dependents and a voice at court.
-      Ts'enbal: Priest of the sun and keeper of the count of days, who fixes every auspicious hour.
-      P'ilambal: >-
-        Scribe and painter, keeper of the glyphs, the genealogies and the monuments that assert them.
-      Shok'almah: War-leader appointed for a campaign, and set aside when it ends.
-      Ha'nalmah: Governor of a subject town, collecting its tribute and hearing its disputes.
-      Ch'umts'om: Deputy and herald of a lord, who carries his word and is answered as if it were his.
-      P'ik'ulmah: >-
-        Master merchant of the long-distance trade in cacao, salt, obsidian and jade—and a lord's eyes abroad.
-      Ballcourt Keeper: >-
-        Warden of the court where the game is played, which is a rite, a lawsuit and a sacrifice at once.
+        Sun Lord: chosen by the four P'eshalmah from the brothers, sons and nephews of the last, confirmed by the Presiding Ch'alish Tq'an, and ruler for life. He leads the tribute-armies and the captive-hunts and treats with other cities.
+      Ch'ikalmah: >-
+        Lord Within: the second ruler of the city, a K'anulmah of the royal line, who hears appeals from every court, keeps the granaries and the treasury, holds the city while the Ts'enmah is in the field, and calls the P'eshalmah together when the Ts'enmah dies.
+      P'eshalmah: >-
+        Quarter lord: one of the four lords of the city's quarters, who commands his quarter's levy in war, answers for its wards, and sits with the other three as the council that chooses the Ts'enmah.
+      Ts'ulbal: >-
+        Ward head: chosen by a ward's elders from one of its households, who keeps the ward's roll, allots its fields, leads its levy and speaks for it to the quarter lord.
+      Ts'omilmah: >-
+        Master of youths: a Ts'omilbal who keeps a ward's house of youths, where its boys sleep from their fifteenth year, work the ward's labor and train for the levy and the captive-hunts.
+      Ch'imelbal: >-
+        Tribute steward: posted by the Ts'enmah to live in a subject town, who keeps the count of what it owes in cloth, maize, cacao and feathers, sends it on at the fixed days, and sends word when it falls short.
+      Ts'ekulbal: >-
+        Judge: a K'anulmah who sits in the lord's hall from dawn to dusk under the Ch'ikalmah, in the noble court or the commoners' court. A judge who takes a gift from a party is put out of office.
+      Ch'eshmah: >-
+        Lord of traders: an elder of the merchant guild, who sends its caravans to Shelem and the south, judges its members in the guild's own court, and brings the Ts'enmah what its traders saw abroad.
   seat: ixilankul2
   population: null
   economy: []
-  lore: [humanflk]
+  lore: [kiichchikclt]
   parents: []
   relations: {itzanpnthn: aligned}
   packFolder: ixilankul
 sohl: {system: {commonSkills: []}}
 
 # terran_analog: Central Mexico; Ish'ilankul (ish'ilan star + -kul seat, "Seat of the Stars") is kept clear of the Maya site Balamkú and of the near-identical form Balamkul
-# terran_analog: the ranks and offices are the Classic Maya court: Ts'enmah the k'uhul ajaw, K'anulmah the ajaw, Ish'kanmah the ix ajaw, Kulmah the sajal, Ts'enbal the ah k'in, P'ilambal the aj ts'ib, Shok'almah the nacom, Ha'nalmah the batab, Ch'umts'om the ah kulel and P'ik'ulmah the ppolom; the maize plots are the milpa
+# terran_analog: the governance takes the shape of a Mexica city-state laid out in Teotihuacan's four quarters and craft wards: the Ts'enmah is chosen by a council as the tlatoani was, the Ch'ikalmah is the cihuacoatl, the wards are the calpolli with their houses of youths, the Ch'imelbal are the calpixque, the Ch'eshmah are the pochteca elders and the Q'emulmah is the huey tlatoani; no title is a Mexica word
 ---
 
 ## Overview
@@ -95,7 +103,7 @@ Every major city-state maintains a rival relationship with its neighbors, compet
 
 The [[affiliation-itzanpnthn|Itsani priesthood]] maintains strict hierarchical control within Ish'ilankul's cities, with the Ch'alish Tq'an wielding authority over spiritual matters and the Ts'enmah responsible for tribute, tribute-armies, and secular governance. In practice, the line between these powers is fluid and often contested. A particularly ambitious Ch'alish Tq'an may orchestrate the downfall of a Ts'enmah who fails to collect sufficient tribute or loses a key battle; conversely, a powerful Ts'enmah may attempt to install a more compliant high priest. These struggles are conducted with ritual formality and do not usually descend into open conflict, for to undermine the priesthood is to risk the anger of the gods themselves.
 
-Ish'ilankul is also the hub of the [Ch'um Ish'lan]{.name data-type="affiliation"}, the great relay network of Ch'umbal runners that binds Ki'ich'chik civilization together. The Ch'um Ish'lan is administered entirely by the Itsani priesthood—not by any Ts'enmah or temporal authority. The Ch'umbal are ordained as minor religious functionaries, sworn to the service of [[lore-tzenultqandty|Ts'en'ul Tq'an]], god of order, and no secular lord may command, delay, or interfere with a runner on the Speaking Road. [Kul'taq'an]{.name data-type="place/settlement"} houses the central dispatch, where k'otsel (knotted cord records) are decoded, copied, and redistributed by priestly scribes, and where the most sensitive intelligence from distant provinces is received and interpreted by the Ch'alish Tq'an's inner circle. No Ts'enmah—not even the most powerful Sun Lord in Ish'ilankul—receives intelligence from the Speaking Road except through the priesthood's hands. The density of Ch'um Ish'lan way-stations within Ish'ilankul is unmatched anywhere in the realm—a message can cross the entire plateau region in a single day, giving the Ch'alish Tq'an awareness of events almost as they unfold. This monopoly on long-distance communication is perhaps the priesthood's most potent instrument of power, for no rebellion can be coordinated and no alliance formed without the knowledge of the priests who read the knotted cords.
+Ish'ilankul is also the hub of the [[affiliation-chumishlan|Ch'um Ish'lan]], the great relay network of Ch'umbal runners that binds Ki'ich'chik civilization together. The Ch'um Ish'lan is administered entirely by the Itsani priesthood—not by any Ts'enmah or temporal authority. The Ch'umbal are ordained as minor religious functionaries, sworn to the service of [[lore-tzenultqandty|Ts'en'ul Tq'an]], god of order, and no secular lord may command, delay, or interfere with a runner on the Speaking Road. [[place-kultaqan|Kul'taq'an]] houses the central dispatch, where k'otsel (knotted cord records) are decoded, copied, and redistributed by priestly scribes, and where the most sensitive intelligence from distant provinces is received and interpreted by the Ch'alish Tq'an's inner circle. No Ts'enmah—not even the most powerful Sun Lord in Ish'ilankul—receives intelligence from the Speaking Road except through the priesthood's hands. The density of Ch'um Ish'lan way-stations within Ish'ilankul is unmatched anywhere in the realm—a message can cross the entire plateau region in a single day, giving the Ch'alish Tq'an awareness of events almost as they unfold. This monopoly on long-distance communication is perhaps the priesthood's most potent instrument of power, for no rebellion can be coordinated and no alliance formed without the knowledge of the priests who read the knotted cords.
 
 ## See Also
 

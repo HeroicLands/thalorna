@@ -6,6 +6,7 @@ subType: faithtradition
 description: "Dreams, visions and the moon—the one Itsani deity who asks no blood, accepting cacao, flowers and the spoken word, and whose dream-temples archive centuries of visions."
 tags: [itzani, religion]
 data:
+  culture: kiichchikclt
   banner: faithbnr
   icon: null
   templatePriority: null

@@ -6,77 +6,83 @@ subType: polity
 description: River-bound jungle realm of mesa-shadowed city-states and priest-navigators—the Land of Birds, source of Ki'ich'chik's rarest luxuries.
 tags: [polity]
 data:
+  culture: kiichchikclt
   icon: null
   templatePriority: null
   demonym: null
   epithet: null
   symbol: null
   governance:
-    model: monarchy
-    summary: ""
+    model: council
+    summary: >-
+      Shelem's river towns are of two kinds. A few are ruled by a Ts'enmah, as the lowland cities are. Most are governed by a council of the heads of their merchant families and their priests, which chooses a speaker each year when the town renews its trade agreements and its gifts with the north, and the town's allegiance to Ish'ilankul and K'ankul is renegotiated in that exchange. A merchant family holds its seat on the council by its canoes and its trade. Beyond the river towns, the peoples who keep their own leaders trade with the council towns and owe them nothing.
     ranks:
       - level: 0
-        title: Exile
+        title: Nalshubal
         description: >-
-          Driven from the city and denied its ballcourt, its market and its rites; no lord will take him and no kin will own him.
+          Lineless: one whose lineage has cast him out or died away, with no ancestors to name, no house floor to be buried under and no lord to answer for him.
       - level: 1
-        title: Captive
+        title: Ts'ik'ibal
         description: >-
-          Taken in war and held for labor or for the altar, with no standing and, commonly, no long future.
+          A slave: a captive spared the altar, or a thief who could not repay, owned by a lord's house and passed on with its goods.
       - level: 2
-        title: Commoner
+        title: Nal'ikbal
         description: >-
-          Working the maize plots and owing labor on the temple platforms and causeways, and tribute in maize, cloth and cacao.
+          A freeman: a farmer of his lineage's maize plots, owing tribute in maize, cloth and cacao to the lord of his town and labor on the temple platforms.
       - level: 3
-        title: Craftsman
+        title: P'ik'ulbal
         description: >-
-          Of the skilled trades—potters, weavers, feather-workers, stone-cutters—attached to a lord's household or a temple.
+          A craftsman: a potter, weaver, feather-worker or stone-cutter attached to a lord's house or a temple.
       - level: 4
-        title: Warrior
-        description: Taker of captives, whose standing rises with each one and whose dress records them.
-      - level: 5
-        title: Scribe or Priest
+        title: Ts'omilbal
         description: >-
-          Keeper of the count of days, the glyphs and the rites, without whom no lord may act at an auspicious hour.
+          A warrior-noble: a younger son of a lord-house in a lord's service, who fights in the captive-hunts and whose dress records his captives.
+      - level: 5
+        title: P'ilambal
+        description: >-
+          A scribe: of a noble house, often a younger kinsman of the Ts'enmah, who paints the books, carves the stones and keeps the genealogies on which every claim rests.
       - level: 6
         title: K'anulmah
-        description: A noble lord of the city, holding land, dependents and a place in the Ts'enmah's court.
+        description: >-
+          A noble lord: head of a lord-house, with land, dependents and a voice at court.
       - level: 7
         title: Kulmah
         description: >-
-          A subordinate lord holding a lesser center for the Ts'enmah, and the usual rank of a conquered city's ruler.
+          A subordinate lord: installed by a Ts'enmah over a lesser seat, in a rite that the Ts'enmah's stones record.
       - level: 8
         title: Ts'enmah
         description: >-
-          Holy Lord: divine king of the city, who bleeds for it at the turn of the calendar and embodies it in war.
+          Sun Lord: holy king of the city by descent, who bleeds for it at the calendar's turns and embodies it in war.
     offices:
       Ts'enmah: >-
-        Holy Lord and divine king of the city, whose bloodletting at the calendar's turns sustains it.
+        Sun Lord: holy king of the city, succeeded by his son or his brother and enthroned by the priests, whose blood offered at the calendar's turns sustains the city.
+      Ts'enilbal: >-
+        Heir to the sun: the son or brother a Ts'enmah names in a public rite while the heir is still a child, and who stands beside him at every rite after it.
       Ish'kanmah: >-
-        Royal lady of the city, of a lineage recorded and married for, and a ruler in her own right where the line requires it.
-      Kulmah: Subordinate lord holding a lesser center in the Holy Lord's name.
-      K'anulmah: Noble lord of the city, holding land, dependents and a voice at court.
-      Ts'enbal: Priest of the sun and keeper of the count of days, who fixes every auspicious hour.
-      P'ilambal: >-
-        Scribe and painter, keeper of the glyphs, the genealogies and the monuments that assert them.
-      Shok'almah: War-leader appointed for a campaign, and set aside when it ends.
-      Ha'nalmah: Governor of a subject town, collecting its tribute and hearing its disputes.
-      Ch'umts'om: Deputy and herald of a lord, who carries his word and is answered as if it were his.
+        Royal lady: a woman of the royal line, married into another city to bind it, regent for a son too young to rule, and ruler in her own right where the line requires it.
+      Kulmah: >-
+        Subordinate lord: holds a lesser seat for the Ts'enmah, takes its tribute and sends its warriors when he is called.
+      Ha'nalmah: >-
+        Town governor: holds a town under a Kulmah by inheritance in his house, collects its tribute and hears its disputes.
+      Shok'almah: >-
+        War-leader: named for one campaign, who keeps apart from his household for its length and is set aside when it ends.
+      Kulumbal: >-
+        Keeper of the stones: a P'ilambal of the royal house who chooses what each new stone records of the Ts'enmah's reign, and raises one at every turn of the count.
+      Ts'omeshmah: >-
+        Speaker of the council: chosen each year by a river town's council of merchant-family heads and priests when the trade agreements are renewed, who speaks for the town to the north and holds the seat for that year only.
       P'ik'ulmah: >-
-        Master merchant of the long-distance trade in cacao, salt, obsidian and jade—and a lord's eyes abroad.
-      Ballcourt Keeper: >-
-        Warden of the court where the game is played, which is a rite, a lawsuit and a sacrifice at once.
+        Master merchant: head of a merchant family, who sits on his town's council, keeps the family's canoes and its trade in feathers, hides and cacao, and gives the gifts by which the town's allegiance is renewed.
   seat: xelem2
   population: null
   economy: []
-  lore: [humanflk]
+  lore: [kiichchikclt]
   parents: []
   relations: {itzanpnthn: aligned}
   packFolder: xelem
 sohl: {system: {commonSkills: []}}
 
 # terran_analog: Venezuela, Guyana, Suriname, the Guianas, northern Brazil
-# terran_analog: the ranks and offices are the Classic Maya court: Ts'enmah the k'uhul ajaw, K'anulmah the ajaw, Ish'kanmah the ix ajaw, Kulmah the sajal, Ts'enbal the ah k'in, P'ilambal the aj ts'ib, Shok'almah the nacom, Ha'nalmah the batab, Ch'umts'om the ah kulel and P'ik'ulmah the ppolom; the maize plots are the milpa
+# terran_analog: the governance takes the shape of the lowland Maya towns ruled by a council of lineage heads in a council house, beside the dynastic courts of the Classic cities; no title is a Maya word
 ---
 
 ## Overview
@@ -91,7 +97,7 @@ Shelem's political landscape is quite distinct from that of the central heartlan
 
 The indigenous populations of Shelem—peoples who have inhabited the region since before the rise of the Itsani faith—have been only partially incorporated into the Ki'ich'chik world. Some have adopted Itsani practices and been granted positions of authority within the tributary system; others maintain semi-autonomy, engaging in trade with Ki'ich'chik merchants while preserving their own spiritual practices and leadership structures. This diversity of governance is a source of both instability and resilience. Shelem cannot be easily conquered by any single northern power, but it also cannot be relied upon as a stable tributary; its allegiances are negotiated annually through trade agreements and the exchange of gifts and prestige goods.
 
-The [Ch'um Ish'lan]{.name data-type="affiliation"} extends into Shelem only along the major river routes, where priesthood-maintained way-stations relay messages between the river settlements and back toward K'ankul and Ish'ilankul. Messages from Ish'ilankul reach Shelem's principal cities in three to four days, routing through K'ankul's coastal network before transitioning to river relay. In the deep interior, beyond the river settlements, the Speaking Road does not reach—communication relies on river canoe and the goodwill of local communities, and the priesthood's informational monopoly weakens accordingly.
+The [[affiliation-chumishlan|Ch'um Ish'lan]] extends into Shelem only along the major river routes, where priesthood-maintained way-stations relay messages between the river settlements and back toward K'ankul and Ish'ilankul. Messages from Ish'ilankul reach Shelem's principal cities in three to four days, routing through K'ankul's coastal network before transitioning to river relay. In the deep interior, beyond the river settlements, the Speaking Road does not reach—communication relies on river canoe and the goodwill of local communities, and the priesthood's informational monopoly weakens accordingly.
 
 The priesthood in Shelem is notably less hierarchical and less centralized than in the north. The shamans and herbalists of the interior wield authority that rivals that of the Itsani priests, particularly in remote areas far from river settlements. Some of the most powerful spiritual practitioners in Shelem are those who have learned to blend Itsani theological frameworks with the deep ecological knowledge of the jungle peoples—those who can interpret the movements of river dolphins as omens, or who know the properties of obscure plants that can induce visions and spiritual communion. The Ch'alish Tq'an in distant Ish'ilankul exerts nominal authority over these practitioners, but in practice, Shelem's spiritual landscape is far more pluralistic than official doctrine would suggest.
 
