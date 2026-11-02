@@ -181,7 +181,7 @@ Crowning **Arvel** behind its own ancient ring of walls stands [[place-arvon|Arv
 - the **[Palor]{.name data-type="place/site"} (Palace District)** of foreign embassies, among them the ceremonial palace of [[affiliation-tevran|the Tevran Maldor]];
 - the [[affiliation-seldan|Seldan]], where the Senate sits;
 - the [[place-thaurzurgalis|Thaurzurgalis]], barracks of [[affiliation-sorvan|the Sorvan]], the imperial guard;
-- the [Imperial Offices]{.name data-type="place/structure"}, the walled compound of the imperial bureaucracy—[[affiliation-tarmex|The Tarmeks Orzan]] (the treasury), [[affiliation-tolvan|the Tolvan]] (fiscal administration), the imperial tribunals, and the archives;
+- the [[affiliation-imperialoffices|Imperial Offices]], the walled compound of the imperial bureaucracy—[[affiliation-tarmex|The Tarmeks Orzan]] (the treasury), [[affiliation-tolvan|the Tolvan]] (fiscal administration), the imperial tribunals, and the archives;
 - the inner **[[affiliation-panepistmm|Epistémion]] Compound** with its warded Notral Sevan;
 - and, above all, the [[place-palvar|Grand Palace]], where the [[affiliation-ordoarcanis|Thordimalon]] works its wonders openly.
 

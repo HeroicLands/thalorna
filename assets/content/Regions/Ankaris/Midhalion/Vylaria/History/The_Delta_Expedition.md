@@ -66,7 +66,7 @@ data:
         - which senatorial house will not speak of him
 ---
 
-An archivist at the [Imperial Offices]{.name data-type="place/structure"}, asked by a visiting scholar for the muster rolls of the year 377, brings the roll and lays it on the table open at the right place. The strongest field army in the [[affiliation-vylarinmpr|Empire]] is entered in full, legion by legion, as it embarks. Its return is not entered, and the archivist does not offer a reason. "The roll ends at the quay," he says. "What happened after is in the other column."
+An archivist at the [[affiliation-imperialoffices|Imperial Offices]], asked by a visiting scholar for the muster rolls of the year 377, brings the roll and lays it on the table open at the right place. The strongest field army in the [[affiliation-vylarinmpr|Empire]] is entered in full, legion by legion, as it embarks. Its return is not entered, and the archivist does not offer a reason. "The roll ends at the quay," he says. "What happened after is in the other column."
 
 ## The Crossing
 

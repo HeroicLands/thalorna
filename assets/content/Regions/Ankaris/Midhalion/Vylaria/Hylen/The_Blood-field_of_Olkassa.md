@@ -22,7 +22,7 @@ Nothing crosses that a reaper sees by day. On the anniversary of the battle the 
 
 ## How It Is Treated
 
-The estate farms the field, sells its grain into the state granaries, and does not discuss it. The tenants leave the last sheaf standing for the dead. The [Imperial Cult]{.name data-type="affiliation/faithtradition"} keeps a small shrine to both armies' Orzoi at the field's edge, the only shrine in the [[affiliation-vylarinmpr|Empire]] to a defeated claimant.
+The estate farms the field, sells its grain into the state granaries, and does not discuss it. The tenants leave the last sheaf standing for the dead. The [[affiliation-imperialcult|Imperial Cult]] keeps a small shrine to both armies' Orzoi at the field's edge, the only shrine in the [[affiliation-vylarinmpr|Empire]] to a defeated claimant.
 
 The clergy of the [[affiliation-selmoros|Faith of Sélmoros]] and the [[affiliation-nahild|Faith of Nahild]] hold the Empire's dead between them, and it is Nahild's priests who go onto a field.
 

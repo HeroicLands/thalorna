@@ -85,7 +85,7 @@ Everything before the Founding: a monarchy of which only its end is recorded, th
 
 ### The First Orzoi, 1 to 95
 
-The Founder's line. [[place-arvon|Arvon]] (the Eagle City) is walled above the sealed [Eyrie of the Dragon Riders]{.name data-type="place/site"} and the Senate moves into it ([[lore-eaglecityrse|The Raising of the Eagle City]]); [[affiliation-ordoarcanis|Thordimalon]]'s last renegades are hunted down ([[lore-huntingyears|The Hunting Years]]); the citizenship becomes a soldier's reward ([[lore-veteranslaw|The Veterans' Law]]). The line ends when its last Orzas dies without a son and names a _felzos_ (legate) of [House Varkalenis]{.name data-type="affiliation/lineage"}.
+The Founder's line. [[place-arvon|Arvon]] (the Eagle City) is walled above the sealed [Eyrie of the Dragon Riders]{.name data-type="place/site"} and the Senate moves into it ([[lore-eaglecityrse|The Raising of the Eagle City]]); [[affiliation-ordoarcanis|Thordimalon]]'s last renegades are hunted down ([[lore-huntingyears|The Hunting Years]]); the citizenship becomes a soldier's reward ([[lore-veteranslaw|The Veterans' Law]]). The line ends when its last Orzas dies without a son and names a _felzos_ (legate) of [[affiliation-varkalenis|House Varkalenis]].
 
 ### The Age of Conquest, 96 to 388
 

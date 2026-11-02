@@ -70,7 +70,7 @@ A restoration guild's master mason, asked who built the colonnade of the [Circle
 
 By 405 [[place-orzara|Orzara]] was a burned city under a hungry [[affiliation-seldan|Seldan]] (the Senate), and the Senate's Orzas, [Sylarion]{.name data-type="being/npc"}, had an empty treasury and no legions. Makandas marched south from the north with the army that had won [[lore-olcassabtl|the Battle of Olkassa]]. About 406 he took the city.
 
-The Senate acclaimed him within the week. [[affiliation-sorvan|The Sorvan]] handed over its claimant, [Kadelos]{.name data-type="being/npc"}, and Sylarion died in the [Imperial Offices]{.name data-type="place/structure"}, in a room whose door was not opened for two days. The three eagles were reduced to one.
+The Senate acclaimed him within the week. [[affiliation-sorvan|The Sorvan]] handed over its claimant, [Kadelos]{.name data-type="being/npc"}, and Sylarion died in the [[affiliation-imperialoffices|Imperial Offices]], in a room whose door was not opened for two days. The three eagles were reduced to one.
 
 ## The Forgiveness
 
