@@ -474,6 +474,11 @@ data:
       field: Derived words
       gloss: "holy stone: the cliff over the great spring of Shirvan; `Moravar` is retired"
       built: [vurin, karvem]
+    - form: Nivuntarlim
+      class: name
+      field: Derived words
+      gloss: "the road of the seven: the road along the Tellumel from Mernagord to Ushtra-ber"
+      built: [nivun, tarlim]
     - form: Veshkunvartun
       class: name
       field: Derived words
@@ -6660,6 +6665,8 @@ data:
     - {name: Vemuna Tamkerun, tongue: gloss, built: [Vemuna, Tamkerun]}
     - {name: High Artisan Vemuna Tamkerun, tongue: gloss, built: [Vemuna, Tamkerun]}
     - {name: High Artisan Vemuna, tongue: gloss, built: [Vemuna]}
+    - {name: Vurinkarvem, tongue: tellumi, built: [vurin, karvem]}
+    - {name: Vurinkarvem Cliff, tongue: gloss, built: [Vurinkarvem]}
   older:
     - {form: Ashkarad}
     - {form: Kaldar}

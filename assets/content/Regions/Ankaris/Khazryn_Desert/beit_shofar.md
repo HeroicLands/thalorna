@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [swoasisbelt], population: 3000, govern
 
 ## Overview
 
-For most of the year **Beit-Shofár** is a settlement of 3,000 at the foot of [[place-mountshofar|Mount Shofar]]. At the summer festival it is a camp of fifty thousand. The priestly seat of the [[affiliation-tribestrzd|Tribes of Atarzád]] holds the [Council of the Twelve]{.name data-type="affiliation/governmental"}, the common treasury and the [Unconsuming Flame]{.name data-type="place/site"}, and every adult of the Flame-born is expected to make the pilgrimage here at least once before death. Many come every year.
+For most of the year **Beit-Shofár** is a settlement of 3,000 at the foot of [[place-mountshofar|Mount Shofar]]. At the summer festival it is a camp of fifty thousand. The priestly seat of the [[affiliation-tribestrzd|Tribes of Atarzád]] holds the [Council of the Twelve]{.name data-type="affiliation/governmental"}, the common treasury and the keeping of the [[place-unconsflame|Unconsuming Flame]], and every adult of the Flame-born is expected to make the pilgrimage here at least once before death. Many come every year.
 
 ## The Flame
 
@@ -23,6 +23,12 @@ The Unconsuming Flame burns on the mountain, above the place where [Yotekhor]{.n
 The Atarzád have no king; the prohibition was given at this mountain, and attempts to raise one have ended in repudiation. The Council of the Twelve meets at Beit-Shofár once a year for a six-week session. Each tribe sends its hereditary chieftain, the Rezhul, with the senior elders of its principal lineages and its senior priest. The Council sets common policy on defense, taxation, disputed territory and inter-tribal quarrels, and it renews the Covenant. Each tribe raises its own contribution and presents it at the session; the Council keeps a modest standing treasury here. In a crisis the Council may acclaim a Zhudek, a judge with broad temporary authority, chosen after consultation with the Keeper. Twenty-three have served since [The Breaking]{.name data-type="lore/history"}, the Conquest, and none holds the office now.
 
 ## See Also
+
+[[place-mountshofar|Mount Shofar]]
+: the mountain the seat stands under
+
+[[place-unconsflame|Unconsuming Flame]]
+: the flame on the mountain, which the Toqel keeps
 
 [[affiliation-tribestrzd|Tribes of Atarzád]]
 : the confederation that meets here

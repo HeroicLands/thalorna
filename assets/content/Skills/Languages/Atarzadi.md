@@ -4583,6 +4583,7 @@ data:
       tongue: atarzadi
       gloss: "to keep: Keeper of the Unconsuming Flame"
       built: [toqel]
+    - {name: Unconsuming Flame, tongue: translation}
     - name: zhudek
       tongue: atarzadi
       gloss: "judge: the leader acclaimed in a crisis; `Dukhen` is retired"
