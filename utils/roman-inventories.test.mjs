@@ -6,13 +6,13 @@ import test from "node:test";
 import YAML from "yaml";
 import { referenceContext } from "./encoding-reference.mjs";
 import { scanRuns } from "@heroiclands/package-build/engine/content-scripts";
+import { noteFilesWhere, notePath } from "./note-index.mjs";
 
 const read = (file) => YAML.parse(fs.readFileSync(file, "utf8").split("---")[1]);
 const config = YAML.parse(fs.readFileSync("package-build.config.yaml", "utf8"));
-const notes = fs
-    .readdirSync("assets/content/Skills/Languages")
-    .filter((file) => file.endsWith(".md"))
-    .map((file) => read(`assets/content/Skills/Languages/${file}`));
+const notes = noteFilesWhere(({ type, subType }) => type === "skill" && subType === "language").map(
+    read,
+);
 const byAddress = new Map(notes.map((note) => [`${note.type}-${note.shortcode}`, note]));
 
 test("each configured language and the drum register own an explicit canonical repertoire", () => {
@@ -41,10 +41,11 @@ test("Vylari adds its grave-vowel catch to shared punctuation", () => {
     );
     assert(roman.includes("à") && roman.includes("À"));
     for (const mark of "'’‘\"“”«»`,;:—–?!") assert(!roman.includes(mark), mark);
-    const records = [
-        ...notes,
-        read("assets/content/Lore/Scripts/Elavendri_Semaron_Encoding.md"),
-    ].map((note) => ({ ...note, package: "thalorna", system: "note" }));
+    const records = [...notes, read(notePath("doc-elavsemaronenc"))].map((note) => ({
+        ...note,
+        package: "thalorna",
+        system: "note",
+    }));
     const ctx = {
         ...referenceContext({ ...config, rootDir: process.cwd() }, records),
         wordBooks: new Map(),

@@ -21,6 +21,7 @@ import { NOTE_SCHEMAS } from "@heroiclands/package-build/sohl/note-schemas";
 import { NOTE_VOCABULARY } from "@heroiclands/package-build/engine/note-vocabulary";
 import { aelwythiEncoding, readNote } from "./aelwythi-encoding.mjs";
 import { languageForms } from "./aelwythi-respell.mjs";
+import { notePath } from "./note-index.mjs";
 
 const {
     language,
@@ -33,7 +34,7 @@ const {
     encode,
     glyphProblems,
 } = aelwythiEncoding();
-const guide = readNote("assets/content/Lore/Pronouncing_Thalorna.md");
+const guide = readNote(notePath("doc-prnncthlrn"));
 const samples = language.raw
     .split(/### Sample passages(?: \{#[^}]+\})?\n/)[1]
     .split("\n## Naming Traditions")[0];

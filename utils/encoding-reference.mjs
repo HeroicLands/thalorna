@@ -3,6 +3,7 @@
 
 /** Actual language encoding documents and the selected installed font's codes. */
 import fs from "node:fs";
+import { noteFilesWhere } from "./note-index.mjs";
 import YAML from "yaml";
 import { splitFrontmatter } from "@heroiclands/package-build/engine/diagnostics";
 import { runContext } from "@heroiclands/package-build/engine/content-scripts";
@@ -21,18 +22,19 @@ const recordOf = (note) =>
     note.fm ?
         { ...note.fm, file: note.file, raw: note.raw, package: "thalorna", system: "note" }
     :   note;
+const languageFiles = () =>
+    noteFilesWhere(({ type, subType }) => type === "skill" && subType === "language");
 let documents;
 let languageNotes;
 export function encodingDocuments() {
-    return (documents ??= fs
-        .globSync("assets/content/Lore/Scripts/*.md")
-        .map(readEncodingNote)
-        .filter(({ fm }) => fm.type === "doc" && fm.data?.mappings && fm.data?.rules));
+    return (documents ??= noteFilesWhere(
+        ({ type, data }) => type === "doc" && data?.mappings && data?.rules,
+    ).map(readEncodingNote));
 }
 export function referenceContext(config, records = []) {
     const all = [...encodingDocuments(), ...records].map(recordOf);
     const byAddress = new Map(all.map((record) => [`${record.type}-${record.shortcode}`, record]));
-    languageNotes ??= fs.globSync("assets/content/Skills/Languages/*.md").map(readEncodingNote);
+    languageNotes ??= languageFiles().map(readEncodingNote);
     const available = new Map(
         languageNotes.map((note) => [`${note.fm.type}-${note.fm.shortcode}`, recordOf(note)]),
     );
@@ -86,7 +88,7 @@ export function encodingReference(
         codes,
         name: `thalorna-note-doc-${own.fm.shortcode}`,
     });
-    languageNotes ??= fs.globSync("assets/content/Skills/Languages/*.md").map(readEncodingNote);
+    languageNotes ??= languageFiles().map(readEncodingNote);
     const ownLanguage = languageNotes.find(
         (note) => `${note.fm.type}-${note.fm.shortcode}` === config.languages[alias]?.note,
     );

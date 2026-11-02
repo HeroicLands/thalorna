@@ -94,6 +94,7 @@
  * @module
  */
 
+import { folderChain } from "./note-index.mjs";
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
@@ -140,12 +141,14 @@ export const VYLARIAN_AGES = "vylariages";
 export const HELLAD_CALENDAR = "helladcal";
 
 /**
- * Each folder whose history notes are held to an ages calendar: the folder's
- * name as a path segment, and the shortcode of the calendar that divides its years.
+ * Each folder whose history notes are held to an ages calendar: the folder
+ * note's shortcode, and the shortcode of the calendar that divides its years.
+ * A history note belongs to a folder when its `data.packFolder` is that folder
+ * or sits below it.
  */
 export const AGE_FOLDERS = Object.freeze([
-    { folder: "Midhalion", ages: VYLARIAN_AGES },
-    { folder: "Hellad", ages: HELLAD_CALENDAR },
+    { folder: "midhalion", ages: VYLARIAN_AGES },
+    { folder: "hellad", ages: HELLAD_CALENDAR },
 ]);
 
 /** The content package the tree belongs to. */
@@ -741,27 +744,33 @@ export function ageSpans(calendar) {
 }
 
 /**
- * The ages findings for the history notes under each {@link AGE_FOLDERS} folder:
+ * The ages findings for the history notes in each {@link AGE_FOLDERS} folder:
  * each note's tagged age holds its dates, and each `follows` target exists.
  *
  * @param {object[]} history - Notes with events, from {@link readTree}.
  * @param {object[]} calendars - Every calendar note.
- * @param {object[]} prose - Every note, for resolving `follows` targets.
+ * @param {object[]} prose - Every note, for resolving `follows` targets and folders.
  * @param {(file: string) => string} relative - A path as the finding writes it.
  * @returns {string[]} Findings.
  */
 export function checkMidhalion(history, calendars, prose, relative) {
     const findings = [];
     const known = new Map(prose.concat(history).map((note) => [note.address, note]));
+    const parents = new Map(
+        prose
+            .filter((note) => note.fm.type === "folder")
+            .map((note) => [note.fm.shortcode, note.fm.data?.parent]),
+    );
     const report = (note, keyPath, message) =>
         findings.push(
             finding(relative(note.file), note.lineOf?.(keyPath) ?? null, null, "error", message),
         );
 
     for (const { folder, ages: shortcode } of AGE_FOLDERS) {
-        const segment = `${path.sep}${folder}${path.sep}`;
         const scoped = history.filter(
-            (note) => note.fm.subType === "history" && path.normalize(note.file).includes(segment),
+            (note) =>
+                note.fm.subType === "history" &&
+                folderChain(note.fm.data?.packFolder, parents).has(folder),
         );
         if (!scoped.length) continue;
         const ages = calendars.find((calendar) => calendar.fm.shortcode === shortcode);

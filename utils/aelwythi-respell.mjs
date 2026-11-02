@@ -14,6 +14,7 @@ import { scanScrolls } from "@heroiclands/package-build/engine/content-scroll";
 import { scanBlocks } from "@heroiclands/package-build/engine/content-blocks";
 import { parseExtensionAttributes } from "@heroiclands/package-build/engine/extension-attributes";
 import { readDocument, readLanguageNote } from "./aelwythi-note.mjs";
+import { CONTENT_DIR, notePath } from "./note-index.mjs";
 
 const LETTERS = /['’]?[\p{L}\p{M}]+(?:[-‐‑'’][\p{L}\p{M}]+)*(?:['’])?/gu;
 const fold = (text) => text.normalize("NFC").toLowerCase();
@@ -219,9 +220,9 @@ export function scopedEdits(source) {
 
 export function migrationReport(root = process.cwd()) {
     const relative = (file) => path.relative(root, file).split(path.sep).join("/");
-    const noteFile = path.join(root, "assets/content/Skills/Languages/Aelwythi_Language.md");
+    const noteFile = path.join(root, notePath("skill-aelwthlng", root));
     const forms = languageForms(noteFile).map((form) => ({ ...form, file: relative(form.file) }));
-    const content = path.join(root, "assets/content");
+    const content = path.join(root, CONTENT_DIR);
     for (const relativeFile of fs
         .readdirSync(content, { recursive: true, encoding: "utf8" })
         .filter((file) => file.endsWith(".md"))

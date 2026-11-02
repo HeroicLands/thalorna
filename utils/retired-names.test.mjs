@@ -10,7 +10,7 @@
  * here and swept from prose.
  *
  * A row's `scope` is `corpus` for a name no other tongue writes by accident (a
- * theonym, a place), and a list of note paths for a personal name another
+ * theonym, a place), and a list of note addresses for a personal name another
  * bearer keeps: there the retired form is swept only from the notes that speak
  * of the renamed person.
  *
@@ -23,6 +23,7 @@ import assert from "node:assert/strict";
 import fs from "node:fs";
 import path from "node:path";
 import test from "node:test";
+import { notePath } from "./note-index.mjs";
 
 const CONTENT_DIR = "assets/content";
 
@@ -60,20 +61,20 @@ export const RETIRED = [
         retired: ["Theron"],
         replacement: "the host culture's given names",
         scope: [
-            "assets/content/Characters/Heroes_and_Knaves/Samarina_Oreinikot.md",
-            "assets/content/Characters/Heroes_and_Knaves/Ghofa_Kepikot.md",
-            "assets/content/Characters/Heroes_and_Knaves/Kreneze_Vokoghis.md",
-            "assets/content/Characters/Heroes_and_Knaves/Fodios_Timiakit.md",
-            "assets/content/Characters/Heroes_and_Knaves/Dorashkar_Tredis.md",
-            "assets/content/Characters/Heroes_and_Knaves/Bazia_Lokios.md",
-            "assets/content/Characters/Heroes_and_Knaves/Sedikon_Manedes.md",
-            "assets/content/Characters/Heroes_and_Knaves/Domrithas_Vishardas.md",
-            "assets/content/Characters/Heroes_and_Knaves/Mirene_Kalethos.md",
-            "assets/content/Characters/Heroes_and_Knaves/Arevin_Lidren.md",
-            "assets/content/Characters/Heroes_and_Knaves/Kayvonad_Zarid.md",
-            "assets/content/Characters/Heroes_and_Knaves/Vishvakhila_Ratnadasa.md",
-            "assets/content/Characters/Occupations/Dunith_Chilton.md",
-            "assets/content/Characters/Occupations/Audrey_Harding.md",
+            "being-smrnorenkt",
+            "being-zenskpkt",
+            "being-krnzmrksns",
+            "being-angldsthymkt",
+            "being-drshkrplytms",
+            "being-helnmystks",
+            "being-gvrlsnktrts",
+            "being-dmrthsvshrds",
+            "being-myrnklypss",
+            "being-arevynlydr",
+            "being-kayvondzrd",
+            "being-vshvkhlrtndds",
+            "being-aldthchltn",
+            "being-audryhrdng",
         ],
     },
     {
@@ -85,161 +86,124 @@ export const RETIRED = [
             "Colonel Dómivar",
         ],
         replacement: "names and offices of the bearer's culture",
-        scope: [
-            "assets/content/Characters/Heroes_and_Knaves/Afzandah_Parnazar.md",
-            "assets/content/Characters/Heroes_and_Knaves/Kayvonad_Zarid.md",
-            "assets/content/Characters/Occupations/Tarsila_Thelvaris.md",
-        ],
+        scope: ["being-afzndhprnzr", "being-kayvondzrd", "being-tarsilathelv"],
     },
     {
         retired: ["Aldric"],
         replacement: "the host culture's given names",
         scope: [
-            "assets/content/Characters/Heroes_and_Knaves/Gnaldurthann_Solvargur.md",
-            "assets/content/Characters/Heroes_and_Knaves/Kelena_Estilgon.md",
-            "assets/content/Characters/Heroes_and_Knaves/Vrildmil_Hrafansvald.md",
-            "assets/content/Characters/Heroes_of_Asguard/Dvurnvir_the_Shaper.md",
+            "being-gnldrthnslvrgr",
+            "being-kelnstylgn",
+            "being-vrldmylhrfnsvld",
+            "being-dvrnvrshpr",
         ],
     },
     {
         retired: ["Amrita"],
         replacement: "Shrimeti",
-        scope: ["assets/content/Characters/Heroes_and_Knaves/Pritarika_Padmadiksha.md"],
+        scope: ["being-prtrkpdmdksh"],
     },
     {
         retired: ["Vasilis"],
         replacement: "the host culture's given names",
-        scope: [
-            "assets/content/Characters/Heroes_and_Knaves/Nomasahr_Paraklavos.md",
-            "assets/content/Characters/Heroes_and_Knaves/Samarina_Oreinikot.md",
-            "assets/content/Characters/Heroes_and_Knaves/Vishvakhila_Ratnadasa.md",
-        ],
+        scope: ["being-nmshrprklvs", "being-smrnorenkt", "being-vshvkhlrtndds"],
     },
     {
         retired: ["Devani"],
         replacement: "the host culture's given names",
-        scope: ["assets/content/Characters/Heroes_and_Knaves/Vishvakhila_Ratnadasa.md"],
+        scope: ["being-vshvkhlrtndds"],
     },
     {
         retired: ["Aldwin"],
         replacement: "the host culture's given names",
-        scope: [
-            "assets/content/Characters/Heroes_and_Knaves/Hrandrinna_Drekanott.md",
-            "assets/content/Characters/Heroes_and_Knaves/Svulthira_Solvargur.md",
-            "assets/content/Characters/Heroes_and_Knaves/Eldira_Garrundeta.md",
-        ],
+        scope: ["being-hrndrndrknt", "being-svlthyrslvrgr", "being-eldiragarrun"],
     },
     {
         retired: ["Keira"],
         replacement: "the host culture's given names",
-        scope: [
-            "assets/content/Characters/Heroes_and_Knaves/Hrandrinna_Drekanott.md",
-            "assets/content/Characters/Heroes_and_Knaves/Ralthira_Drekanott.md",
-        ],
+        scope: ["being-hrndrndrknt", "being-rlthyrdrknt"],
     },
     {
         retired: ["Aldwyn"],
         replacement: "the host culture's given names",
-        scope: [
-            "assets/content/Characters/Heroes_and_Knaves/Idrise_Korisvar.md",
-            "assets/content/Characters/Heroes_and_Knaves/Thrildvir_Iseldur.md",
-        ],
+        scope: ["being-idriskrsvr", "being-thrldvrisldr"],
     },
     {
         retired: ["Meredith"],
         replacement: "the host culture's given names",
-        scope: [
-            "assets/content/Characters/Heroes_and_Knaves/Vishvara_Mahapar.md",
-            "assets/content/Characters/Occupations/Lothona_Harlanis.md",
-        ],
+        scope: ["being-vishvrmhpr", "being-lothnhrlns"],
     },
     {
         retired: ["Kesh"],
         replacement: "the host culture's given names",
-        scope: ["assets/content/Characters/Heroes_and_Knaves/Vishvara_Mahapar.md"],
+        scope: ["being-vishvrmhpr"],
     },
     {
         retired: ["Elara"],
         replacement: "the host culture's given names",
-        scope: ["assets/content/Characters/Heroes_and_Knaves/Thalmthann_Solvargur.md"],
+        scope: ["being-thlmthnslvrgr"],
     },
     {
         retired: ["Kyros"],
         replacement: "the host culture's given names",
-        scope: [
-            "assets/content/Characters/Heroes_and_Knaves/Trufios_Veghekos.md",
-            "assets/content/Characters/Heroes_and_Knaves/Vusukes_Govabes.md",
-        ],
+        scope: ["being-grgrsfthympls", "being-thmdspfnts"],
     },
     {
         retired: ["Korvin"],
         replacement: "the host culture's given names",
-        scope: [
-            "assets/content/Characters/Heroes_and_Knaves/Arkhea_Kourkasios.md",
-            "assets/content/Characters/Heroes_and_Knaves/Ranthor_Pardalen.md",
-        ],
+        scope: ["being-arkhekrkss", "being-rnthrprdln"],
     },
     {
         retired: ["Mera"],
         replacement: "the host culture's given names",
-        scope: ["assets/content/Characters/Heroes_and_Knaves/Chorvan_Jarlen.md"],
+        scope: ["being-kjrvngjrln"],
     },
     {
         retired: ["Ivar"],
         replacement: "the host culture's given names",
-        scope: ["assets/content/Characters/Heroes_and_Knaves/Thraskorv_Jarnskel.md"],
+        scope: ["being-thrskrvjrnskl"],
     },
     {
         retired: ["Kalindi"],
         replacement: "the host culture's given names",
-        scope: ["assets/content/Characters/Heroes_and_Knaves/Narava_Tejanand.md"],
+        scope: ["being-nrvtjnnd"],
     },
     {
         retired: ["Eirik"],
         replacement: "the host culture's given names",
-        scope: [
-            "assets/content/Characters/Heroes_of_Asguard/Dvulginda_Shadow_Walker.md",
-            "assets/content/Characters/Heroes_of_Asguard/Hvilgthira_Knalthannsdottir.md",
-        ],
+        scope: ["being-dvlgyndshdwwlkr", "being-hvlgthyrknlthnsdtr"],
     },
     {
         retired: ["Qelti"],
         replacement: "the host culture's given names",
         scope: [
-            "assets/content/Characters/Folk/Khelemur.md",
-            "assets/content/Characters/Heroes_and_Knaves/Raiaku_UznerAu.md",
-            "assets/content/Characters/Heroes_and_Knaves/Razanash_Mervaran.md",
-            "assets/content/Characters/Heroes_and_Knaves/Thirye_GezAqeu.md",
-            "assets/content/Characters/Heroes_and_Knaves/Thotkar_LetGerau.md",
-            "assets/content/Characters/Heroes_and_Knaves/Ziprahu_IguMaathu.md",
+            "being-qelti",
+            "being-raiaquuznera",
+            "being-rznshmrvrn",
+            "being-thiryegezaqe",
+            "being-thotkarletgr",
+            "being-ziprahuigmth",
         ],
     },
     {
         retired: ["Gezehutyu"],
         replacement: "the host culture's given names",
-        scope: [
-            "assets/content/Characters/Folk/Balinta.md",
-            "assets/content/Characters/Heroes_and_Knaves/Thotkar_LetGerau.md",
-        ],
+        scope: ["being-gezehutyu2", "being-thotkarletgr"],
     },
     {
         retired: ["Zezabu"],
         replacement: "the host culture's given names",
-        scope: [
-            "assets/content/Characters/Folk/Mathaku.md",
-            "assets/content/Characters/Heroes_and_Knaves/Raiaku_UznerAu.md",
-            "assets/content/Characters/Heroes_and_Knaves/Zekhemet_GulZekhenu.md",
-        ],
+        scope: ["being-zezabu2", "being-raiaquuznera", "being-zekhmtglzkhn"],
     },
     {
         retired: ["Uzner"],
         replacement: "the host culture's given names",
-        scope: ["assets/content/Characters/Folk/Lemani.md"],
+        scope: ["being-uzner"],
     },
     {
         retired: ["Aleziya"],
         replacement: "the host culture's given names",
-        scope: ["assets/content/Characters/Folk/Agosi.md"],
+        scope: ["being-aleziya2"],
     },
     {
         retired: ["Southwestern Oasis-Belt", "southwestern oasis-belt"],
@@ -299,38 +263,38 @@ export const RETIRED = [
     {
         retired: ["Khavar"],
         replacement: "Shavend",
-        scope: ["assets/content/Skills/Languages/Dunhari_Language.md"],
+        scope: ["skill-dunharlng"],
     },
     {
         retired: ["Khavar"],
         replacement: "Gureshay",
         scope: [
-            "assets/content/Adventurers_Guides/Tellumi_Adventurers_Guide.md",
-            "assets/content/Adventures/Masks_in_the_Dry_Wash.md",
-            "assets/content/Regions/Ankaris/Khazryn_Desert/Council_of_the_Princes.md",
-            "assets/content/Regions/Ankaris/Khazryn_Desert/Henhutpedin.md",
-            "assets/content/Regions/Ankaris/Khazryn_Desert/Tellumi_Confederation.md",
-            "assets/content/Regions/Ankaris/Khazryn_Desert/Princely_Houses/House_of_Zargandur.md",
-            "assets/content/Regions/Ankaris/Khazryn_Desert/Relvanvesut.md",
-            "assets/content/Regions/Ankaris/Khazryn_Desert/Zargandur.md",
+            "doc-tellumiadvguide",
+            "scenario-trenchprinces",
+            "affiliation-cnclprinces",
+            "place-henhulpedin",
+            "affiliation-khzrncnfdrtn",
+            "affiliation-hsezargandur",
+            "place-relvanvesul",
+            "place-zargandur",
         ],
     },
     {
         retired: ["khanates", "khanate", "Khans", "Khan", "khan"],
         replacement: "orqwen (a khanate is an orqwenoq)",
         scope: [
-            "assets/content/Affiliations/Divine/Dunhara/The_Storm_Cults_of_Bazhramis.md",
-            "assets/content/Affiliations/Organizations/Vylarian/The_Warriors_Circle_of_the_Dunhara_Tribes.md",
-            "assets/content/Affiliations/Social/Companies/TighSavaran_of_the_Koserur.md",
-            "assets/content/Lore/History/The_Storm_of_the_Hundred_Banners.md",
-            "assets/content/Regions/Ankaris/Hellad/Bizaria/Eastern_March.md",
-            "assets/content/Regions/Ankaris/Hellad/Bizaria/Northern_March.md",
-            "assets/content/Regions/Ankaris/Khazryn_Desert/Khazryn_Desert_Region.md",
-            "assets/content/Regions/Ankaris/Vedyara/History/The_Hard_Generation.md",
-            "assets/content/Regions/Ankaris/Vedyara/History/The_Fall_of_Marupal.md",
-            "assets/content/Regions/Ankaris/Vedyara/The_Banner_Ground.md",
-            "assets/content/Regions/Ankaris/Vedyara/Ludrapur.md",
-            "assets/content/Regions/Ankaris/Velanthia/Velanthia_Region.md",
+            "affiliation-strmcltsbzhrms",
+            "affiliation-wrrscrcldnhrtrbs",
+            "affiliation-tghsvrnksrr",
+            "lore-hndrdbnnrs",
+            "place-eastrnmrch",
+            "place-northrnmrch",
+            "place-khzryndsrtrgn",
+            "lore-hardgenrtn",
+            "lore-marupalfl",
+            "place-lantustal",
+            "place-ludrapur",
+            "place-velanthrgn",
         ],
     },
     { retired: ["Via Aquaria"], replacement: "Ulmerkazthos", scope: "corpus" },
@@ -338,18 +302,12 @@ export const RETIRED = [
     {
         retired: ["Iulia Verronius"],
         replacement: "Ankela Nebralandis",
-        scope: [
-            "assets/content/Affiliations/Organizations/Guilds/The_Imperial_Scribal_Guild.md",
-            "assets/content/Affiliations/Organizations/Vylarian/Great_College_of_Guilds.md",
-        ],
+        scope: ["affiliation-imprlscrblgld", "affiliation-tevran"],
     },
     {
         retired: ["Torvelis Velerianus"],
         replacement: "Solkimar Talothates",
-        scope: [
-            "assets/content/Affiliations/Organizations/Vylarian/Great_College_of_Guilds.md",
-            "assets/content/Affiliations/Organizations/Guilds/The_Imperial_Scribal_Guild.md",
-        ],
+        scope: ["affiliation-tevran", "affiliation-imprlscrblgld"],
     },
     { retired: ["Chandramukha"], replacement: "Chendramukhva", scope: "corpus" },
     {
@@ -371,15 +329,15 @@ export const RETIRED = [
         ],
         replacement: "Sowides names",
         scope: [
-            "assets/content/Affiliations/Companies.md",
-            "assets/content/Affiliations/Social/Companies/TighSavaran_of_the_Koserur.md",
-            "assets/content/Characters/Folk/Khazryn_Desert/Bulachsovid_Yovakur.md",
-            "assets/content/Characters/Heroes_and_Knaves/Yovaqbeyuk_Qibudur.md",
-            "assets/content/Characters/Heroes_and_Knaves/Lambira_Pedhinion.md",
-            "assets/content/Characters/Heroes_and_Knaves/Dujarlun_Oroqidur.md",
-            "assets/content/Folders/Khazryn_Desert_ankariskhazryndesert.md",
-            "assets/content/Regions/Ankaris/Khazryn_Desert/Steppe_Tribes/Koserur.md",
-            "assets/content/Regions/Ankaris/Khazryn_Desert/Steppe_Tribes/Qibudur.md",
+            "doc-companies",
+            "affiliation-tghsvrnksrr",
+            "being-bulaqsovidyo",
+            "being-bazdrshhrn",
+            "being-lmbhrpdhnn",
+            "being-narisahrvn",
+            "folder-ankariskhazryndesert",
+            "affiliation-ksrrtrb",
+            "affiliation-qbdrtrb",
         ],
     },
 ];
@@ -489,7 +447,7 @@ test("no retired name stands in the prose of its scope", () => {
     const all = notes(CONTENT_DIR);
     const findings = [];
     for (const row of RETIRED) {
-        const files = row.scope === "corpus" ? all : row.scope;
+        const files = row.scope === "corpus" ? all : row.scope.map((address) => notePath(address));
         for (const file of files) {
             assert(fs.existsSync(file), `${file}: the scope names a note that does not exist`);
             findings.push(...sightings(file, fs.readFileSync(file, "utf8"), row.retired));

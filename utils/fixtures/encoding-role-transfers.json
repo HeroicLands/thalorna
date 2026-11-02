@@ -1,7 +1,7 @@
 [
     {
         "language": "Atarzadi",
-        "file": "assets/content/Skills/Languages/Atarzadi_Language.md",
+        "note": "skill-atarzadilng",
         "form": "shekhul",
         "source": {
             "form": "shekhul",
@@ -41,7 +41,7 @@
     },
     {
         "language": "Atarzadi",
-        "file": "assets/content/Skills/Languages/Atarzadi_Language.md",
+        "note": "skill-atarzadilng",
         "form": "toqel",
         "source": {
             "form": "toqel",
@@ -81,7 +81,7 @@
     },
     {
         "language": "Atarzadi",
-        "file": "assets/content/Skills/Languages/Atarzadi_Language.md",
+        "note": "skill-atarzadilng",
         "form": "zhudek",
         "source": {
             "form": "zhudek",
@@ -119,7 +119,7 @@
     },
     {
         "language": "Atarzadi",
-        "file": "assets/content/Skills/Languages/Atarzadi_Language.md",
+        "note": "skill-atarzadilng",
         "form": "rezhul",
         "source": {
             "form": "rezhul",
@@ -157,7 +157,7 @@
     },
     {
         "language": "Khelathi",
-        "file": "assets/content/Skills/Languages/Khelathi_Language.md",
+        "note": "skill-khelathlng",
         "form": "lekhau",
         "source": {
             "form": "lekhau",
@@ -215,7 +215,7 @@
     },
     {
         "language": "Khelathi",
-        "file": "assets/content/Skills/Languages/Khelathi_Language.md",
+        "note": "skill-khelathlng",
         "form": "nelgir",
         "source": {
             "form": "nelgir",
@@ -273,7 +273,7 @@
     },
     {
         "language": "Khelathi",
-        "file": "assets/content/Skills/Languages/Khelathi_Language.md",
+        "note": "skill-khelathlng",
         "form": "halzi",
         "source": {
             "form": "halzi",

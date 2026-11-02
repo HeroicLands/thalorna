@@ -22,17 +22,16 @@ import {
 } from "@heroiclands/package-build/engine/note-vocabulary";
 import { fontOutlines } from "@heroiclands/package-build/engine/font-outlines";
 import { resolveScriptFonts } from "@heroiclands/package-build/engine/script-fonts";
+import { notePath } from "./note-index.mjs";
 
 const read = (file) => {
     const raw = fs.readFileSync(file, "utf8");
     return { file, raw, fm: YAML.parse(splitFrontmatter(raw).yaml) };
 };
-const language = read(
-    process.env.ELAVENDRI_PATH ?? "assets/content/Skills/Languages/Elavendri_Language.md",
-);
-const parent = read("assets/content/Skills/Languages/Aelendi_Language.md");
-const imperial = read("assets/content/Skills/Languages/Vylari_Language.md");
-const inventory = read("assets/content/Reference/Core_Vocabulary.md");
+const language = read(process.env.ELAVENDRI_PATH ?? notePath("skill-elvndrlng"));
+const parent = read(notePath("skill-aelendlng"));
+const imperial = read(notePath("skill-vylarilng"));
+const inventory = read(notePath("doc-coreconcepts"));
 const notes = [language, parent, imperial, inventory];
 const canonical = (value) =>
     renderAddress(
@@ -166,7 +165,7 @@ test("Élavendri declarations use the installed word and frontmatter contracts",
 });
 
 test("ordinary core expressions have actual Semaron outlines", () => {
-    const spelling = read("assets/content/Lore/Scripts/Elavendri_Semaron_Encoding.md");
+    const spelling = read(notePath("doc-elavsemaronenc"));
     const map = encodingReference("elav").encoding;
     const face = resolveScriptFonts(process.cwd()).faces.get(map.font);
     const outlines = fontOutlines(face.file);
@@ -204,7 +203,7 @@ test("Élavendri publishes nearest meanings and recognizes inherited words in ma
                 `visible sense: ${word.form}`,
             );
     }
-    const spelling = read("assets/content/Lore/Scripts/Elavendri_Semaron_Encoding.md");
+    const spelling = read(notePath("doc-elavsemaronenc"));
     const config = YAML.parse(fs.readFileSync("package-build.config.yaml", "utf8"));
     const context = referenceContext({ ...config, rootDir: process.cwd() }, [
         ...records,

@@ -43,6 +43,7 @@ import {
 import { encodeWithLanguage } from "@heroiclands/package-build/engine/encoding-language";
 import { checkNotes } from "./veldikko-spelling.mjs";
 import { convertVeldikko, veldikkoTable } from "./veldikko-reference.mjs";
+import { notePath } from "./note-index.mjs";
 
 const BLOCK_START = 0x1ed50;
 const BLOCK_END = 0x1edff;
@@ -52,13 +53,13 @@ export const LANGUAGES = [
     {
         name: "sina",
         enc: "sinaveldikkoenc",
-        note: "assets/content/Skills/Languages/Sinale_Language.md",
+        note: notePath("skill-sinalelng"),
         reference: true,
     },
     {
         name: "aele",
         enc: "aeleveldikkoenc",
-        note: "assets/content/Skills/Languages/Aelendi_Language.md",
+        note: notePath("skill-aelendlng"),
         reference: false,
     },
 ];

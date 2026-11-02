@@ -39,20 +39,21 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { continents, countries, languages } from "countries-list";
 import YAML from "yaml";
+import { notePath } from "./note-index.mjs";
 
 const CONTENT_DIR = "assets/content";
 
-const PRONUNCIATION_GUIDE = "assets/content/Lore/Pronouncing_Thalorna.md";
+const PRONUNCIATION_GUIDE = notePath("doc-prnncthlrn");
 // These technical references explain the reader's spelling and pronunciation conventions.
 const PRONUNCIATION_REFERENCES = new Set([
     PRONUNCIATION_GUIDE,
-    "assets/content/Skills/Languages/Aelwythi_Language.md",
-    "assets/content/Lore/Scripts/Aelwythi_Semaron_Encoding.md",
+    notePath("skill-aelwthlng"),
+    notePath("doc-aelwsemaronenc"),
 ]);
 
 /** Files that may name Earth. */
 const EXEMPT_FILES = new Set([
-    "assets/content/Reference/Terran_Analogs_Reference.md",
+    notePath("doc-trnnlgsrfrnc"),
     // Technical pronunciation references necessarily name reference languages.
     ...PRONUNCIATION_REFERENCES,
 ]);

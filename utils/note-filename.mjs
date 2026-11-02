@@ -6,7 +6,7 @@
 /**
  * A note's file name is its sanitized name.
  *
- * The stem of every note under `assets/content/` is {@link sanitizeName} of its
+ * The stem of every note under the content tree is {@link sanitizeName} of its
  * `name.full`, or of `name` where the note writes its name as a bare string. The
  * rule follows package-build's `engine/content-slug.mjs`, so the tree has one
  * normalization, except that it keeps the case and joins with `_`:

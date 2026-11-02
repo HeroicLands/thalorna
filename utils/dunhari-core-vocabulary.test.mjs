@@ -17,12 +17,13 @@ import YAML from "yaml";
 import { splitFrontmatter } from "@heroiclands/package-build/engine/diagnostics";
 import { dictionaryAndTermRows } from "@heroiclands/package-build/engine/dictionary-rows";
 import { parseWordClass, WORD_CLASS_BASES } from "@heroiclands/package-build/engine/word-classes";
+import { notePath } from "./note-index.mjs";
 const read = (file) => {
     const raw = fs.readFileSync(file, "utf8");
     return { file, raw, fm: YAML.parse(splitFrontmatter(raw).yaml) };
 };
-const language = read("assets/content/Skills/Languages/Dunhari_Language.md");
-const inventory = read("assets/content/Reference/Core_Vocabulary.md");
+const language = read(notePath("skill-dunharlng"));
+const inventory = read(notePath("doc-coreconcepts"));
 const eligible = new Set(WORD_CLASS_BASES.filter((x) => x.glossary).map((x) => x.token));
 const words = language.fm.data.words;
 const ordinary = words.filter((w) => eligible.has(parseWordClass(w.class).base));
@@ -154,7 +155,7 @@ test("the actual published list and configured Qalezu renderer cover every ordin
             assert(published.includes(sentence), `${word.form}: ${sentence}`);
         }
     }
-    const spelling = read("assets/content/Lore/Scripts/Atarzadi_Qalezu_Encoding.md");
+    const spelling = read(notePath("doc-atarqalezuenc"));
     const config = YAML.parse(fs.readFileSync("package-build.config.yaml", "utf8"));
     const context = referenceContext({ ...config, rootDir: process.cwd() }, [
         record,

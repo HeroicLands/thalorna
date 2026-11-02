@@ -39,8 +39,8 @@ const CONTENT_DIR = "assets/content";
 /** The opener of a verse div: `::: {.verse …}` or `:::verse {…}`. */
 const VERSE_DIV = /^\s*:::\s*(?:\{\.verse(?:\s[^}]*)?\}|verse\s*\{[^}]*\})\s*$/;
 
-/** The style guide quotes the shape in order to forbid it. */
-const EXEMPT_FILES = new Set(["assets/content/README-gazeteer.md"]);
+/** The style guide, identified by its title, quotes the shape in order to forbid it. */
+const EXEMPT_TITLE = "# Writing Thalorna's gazetteer notes";
 
 const MODAL =
     "(?:will|would|can|could)(?:\\s+(?:also|always|usually|soon|quickly|never|not|easily|still|generally|readily|immediately|simply|at\\s+once))?";
@@ -86,8 +86,8 @@ function inQuotation(line, index) {
  * @returns {string[]} one finding per observer clause in the note's prose
  */
 export function findObservers(file, text) {
-    if (EXEMPT_FILES.has(file)) return [];
     const lines = text.split("\n");
+    if (lines[0] === EXEMPT_TITLE) return [];
     let i = 0;
     if (lines[0]?.trim() === "---") {
         i = lines.findIndex((l, j) => j > 0 && l.trim() === "---") + 1;

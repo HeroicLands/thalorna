@@ -11,26 +11,22 @@ import { encodingReference, referenceContext } from "./encoding-reference.mjs";
 import { encodeWithLanguage } from "@heroiclands/package-build/engine/encoding-language";
 import { serializeLexicon } from "@heroiclands/package-build/engine/encoding-lexicon";
 import fs from "node:fs";
-import { execFileSync } from "node:child_process";
 import crypto from "node:crypto";
 import test from "node:test";
 import YAML from "yaml";
 import { splitFrontmatter } from "@heroiclands/package-build/engine/diagnostics";
 import { dictionaryAndTermRows } from "@heroiclands/package-build/engine/dictionary-rows";
 import { parseWordClass, WORD_CLASS_BASES } from "@heroiclands/package-build/engine/word-classes";
+import { notePath } from "./note-index.mjs";
 const read = (file) => {
     const raw = fs.readFileSync(file, "utf8");
     return { file, raw, fm: YAML.parse(splitFrontmatter(raw).yaml) };
 };
-const language = read("assets/content/Skills/Languages/Nyaluban_Language.md");
-const originalRaw = execFileSync(
-    "git",
-    ["show", "cda3ead48:assets/content/Skills/Languages/Nyaluban.md"],
-    { encoding: "utf8" },
-);
+const language = read(notePath("skill-nyalbnlng"));
+const originalRaw = beforeEncodingMigration(language.file, "cda3ead48").raw;
 const original = YAML.parse(splitFrontmatter(originalRaw).yaml);
 
-const inventory = read("assets/content/Reference/Core_Vocabulary.md");
+const inventory = read(notePath("doc-coreconcepts"));
 const eligible = new Set(WORD_CLASS_BASES.filter((x) => x.glossary).map((x) => x.token));
 const words = language.fm.data.words;
 const ordinary = words.filter((w) => eligible.has(parseWordClass(w.class).base));
@@ -159,7 +155,7 @@ test("Nyáluban publishes every citation and uses borrowed Qalezu only when expl
             assert(published.includes(sentence), `${word.form}: ${sentence}`);
         }
     }
-    const spelling = read("assets/content/Lore/Scripts/Atarzadi_Qalezu_Encoding.md");
+    const spelling = read(notePath("doc-atarqalezuenc"));
     const config = YAML.parse(fs.readFileSync("package-build.config.yaml", "utf8"));
     const context = referenceContext({ ...config, rootDir: process.cwd() }, [
         record,

@@ -1,6 +1,6 @@
 # Language-note lookup
 
-`assets/content/Skills/Languages/Aelwythi_Language.md` is the canonical Aelwythi
+`skill-aelwthlng` is the canonical Aelwythi
 resource. Its existing `data.words` frontmatter supplies vocabulary, modern
 meanings and attested variants. Its anchored prose supplies pronunciation,
 grammar, naming conventions and examples. Grammar tables remain in that
@@ -43,12 +43,10 @@ usage, and the lookup tool does not read it.
 node utils/aelwythi-lookup.mjs saith
 node utils/aelwythi-lookup.mjs permission
 node utils/aelwythi-lookup.mjs "a gift presented" --limit 5
-node utils/aelwythi-lookup.mjs \
-  --note assets/content/Skills/Languages/Aelwythi_Language.md \
-  --limit 10 say
+node utils/aelwythi-lookup.mjs --limit 10 say
 ```
 
-The default `--note` path is the canonical Aelwythi note. Every query reads its
+Without `--note`, the lookup reads the canonical Aelwythi note. Every query reads its
 current frontmatter and body. Queries do not write files or create a generated
 reference asset.
 

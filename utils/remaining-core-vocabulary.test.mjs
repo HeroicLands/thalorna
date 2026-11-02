@@ -8,26 +8,21 @@ import { isDeepStrictEqual } from "node:util";
 import YAML from "yaml";
 import { splitFrontmatter } from "@heroiclands/package-build/engine/diagnostics";
 import { WORD_CLASS_BASES, parseWordClass } from "@heroiclands/package-build/engine/word-classes";
-import { baselinePath as previousPath, withNameForms } from "./encoding-preservation.mjs";
+import { baselinePath, withNameForms } from "./encoding-preservation.mjs";
+import { notePath } from "./note-index.mjs";
 
 const baseline = "4da8f980e";
 const languageFiles = [
-    "assets/content/Skills/Languages/Tellumi_Language.md",
-    "assets/content/Skills/Languages/Sovidur_Language.md",
-    "assets/content/Skills/Languages/Ekpelu_Language.md",
-    "assets/content/Skills/Languages/Taruzeli_Language.md",
+    notePath("skill-tellumilng"),
+    notePath("skill-sowideslng"),
+    notePath("skill-ekpelulng"),
+    notePath("skill-taruzelilng"),
 ];
 const read = (file, raw = fs.readFileSync(file, "utf8")) => ({
     raw,
     fm: YAML.parse(splitFrontmatter(raw).yaml),
     body: splitFrontmatter(raw).body,
 });
-// The baseline commit holds Tellumi as Khazri.md with shortcode khazrilng, and
-// each other note under the name it had there.
-const baselinePath = (file) =>
-    file.endsWith("/Tellumi_Language.md") ?
-        file.replace("Tellumi_Language.md", "Khazri.md")
-    :   previousPath(file);
 // Baseline spelling to current spelling for Taruzeli names and words, applied
 // to the baseline fixture before comparison.
 const taruzeliRespellings = [
@@ -131,9 +126,9 @@ const tellumiRespellings = [
     ["orkun", "orghun"],
 ];
 const respellings = new Map([
-    ["assets/content/Skills/Languages/Taruzeli_Language.md", taruzeliRespellings],
-    ["assets/content/Skills/Languages/Sovidur_Language.md", sowidesRespellings],
-    ["assets/content/Skills/Languages/Tellumi_Language.md", tellumiRespellings],
+    [notePath("skill-taruzelilng"), taruzeliRespellings],
+    [notePath("skill-sowideslng"), sowidesRespellings],
+    [notePath("skill-tellumilng"), tellumiRespellings],
 ]);
 const respelled = (file, raw) =>
     (respellings.get(file) ?? []).reduce(
@@ -143,7 +138,7 @@ const respelled = (file, raw) =>
 const fromBaseline = (file) =>
     respelled(
         file,
-        execFileSync("git", ["show", `${baseline}:${baselinePath(file)}`], {
+        execFileSync("git", ["show", `${baseline}:${baselinePath(file, baseline)}`], {
             encoding: "utf8",
         }).replaceAll("khazrilng", "tellumilng"),
     );
@@ -151,7 +146,7 @@ const fromBaseline = (file) =>
 // entries the comparison drops from the baseline fixture.
 const replacedOlderNames = new Map([
     [
-        "assets/content/Skills/Languages/Tellumi_Language.md",
+        notePath("skill-tellumilng"),
         new Set([
             "Azardan",
             "Bazudar Shahrun",
@@ -168,7 +163,7 @@ const replacedOlderNames = new Map([
 // paragraphs, and only for the sentences named here.
 const replacedProse = new Map([
     [
-        "assets/content/Skills/Languages/Taruzeli_Language.md",
+        notePath("skill-taruzelilng"),
         [
             [
                 "Features full vowel marking and adherence to classical grammar.",
@@ -196,7 +191,7 @@ const renameTribes = (text) =>
 // The baseline fixture's `kept` tag holds the older tribe name Sahri, which
 // the comparison drops.
 function withoutKeptTag(fm, file) {
-    if (file !== "assets/content/Skills/Languages/Sovidur_Language.md") return fm;
+    if (file !== notePath("skill-sowideslng")) return fm;
     const copy = structuredClone(fm);
     copy.data.tongues = copy.data.tongues.filter((item) => item?.tag !== "kept");
     copy.data.register = copy.data.register.filter((row) => row?.tongue !== "kept");
@@ -252,7 +247,7 @@ function preserves(oldValue, newValue) {
 }
 
 test("the four expanded languages cover the current core inventory with ordinary expressions", () => {
-    const inventory = read("assets/content/Reference/Core_Vocabulary.md");
+    const inventory = read(notePath("doc-coreconcepts"));
     const expected = new Set(inventory.fm.data.concepts.map((concept) => concept.id));
 
     for (const file of languageFiles) {
@@ -310,7 +305,7 @@ test("original language entries, metadata and prose are retained", () => {
 
         for (const baselineWord of oldWords) {
             const oldWord =
-                file.endsWith("/Sovidur_Language.md") ?
+                file === notePath("skill-sowideslng") ?
                     {
                         ...baselineWord,
                         ...(typeof baselineWord.gloss === "string" && {

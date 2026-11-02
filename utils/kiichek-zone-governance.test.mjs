@@ -6,8 +6,8 @@
 /**
  * The Ki'ich'chik city-states govern by zone.
  *
- * The city-states are the polity notes under the continent's central and
- * southern regions, found at runtime. Each belongs to one of three zones,
+ * The city-states are the polity notes of the continent whose culture is the
+ * Ki'ich'chik culture, found at runtime. Each belongs to one of three zones,
  * highland, lowland and southern, and each zone has its own template: no two
  * city-states of different zones name the same set of offices, and none names
  * the set of any other polity on the continent. Every city-state writes its
@@ -15,15 +15,14 @@
  */
 
 import assert from "node:assert/strict";
-import fs from "node:fs";
-import path from "node:path";
 import test from "node:test";
-import YAML from "yaml";
+import { folderChain, folderParents, frontmatterOf, noteFilesWhere } from "./note-index.mjs";
 
-const CONTINENT = "assets/content/Regions/Kiichchik";
+/** The folder note holding the continent's polities. */
+const CONTINENT = "kiichchik";
 
-/** The regions whose polities are city-states. */
-const CITY_STATE_REGIONS = ["Central", "South"];
+/** The culture whose polities are city-states. */
+const CITY_STATE_CULTURE = "kiichchikclt";
 
 /** Each city-state's zone, by shortcode. */
 const ZONES = {
@@ -36,26 +35,12 @@ const ZONES = {
     qapteltzakl: "southern",
 };
 
-/** Every markdown file under a directory, recursively. */
-function* markdown(dir) {
-    for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
-        const full = path.join(dir, entry.name);
-        if (entry.isDirectory()) yield* markdown(full);
-        else if (entry.name.endsWith(".md")) yield full;
-    }
-}
-
-/** The frontmatter of a note, or undefined when it has none. */
-function frontmatter(file) {
-    const match = fs.readFileSync(file, "utf8").match(/^---\n([\s\S]*?)\n---/);
-    return match ? YAML.parse(match[1]) : undefined;
-}
-
-/** The polity notes under a directory. */
-function polities(dir) {
-    return [...markdown(dir)]
-        .map((file) => ({ file, front: frontmatter(file) }))
-        .filter(({ front }) => front?.type === "affiliation" && front.subType === "polity");
+/** The polity notes in a folder or below it. */
+function polities(folder) {
+    const parents = folderParents();
+    return noteFilesWhere(({ type, subType }) => type === "affiliation" && subType === "polity")
+        .map((file) => ({ file, front: frontmatterOf(file) }))
+        .filter(({ front }) => folderChain(front.data?.packFolder, parents).has(folder));
 }
 
 /** The office titles a polity names, sorted, as one comparable string. */
@@ -65,10 +50,9 @@ function officeSet(front) {
     return JSON.stringify(Object.keys(offices).sort());
 }
 
-const cityStates = CITY_STATE_REGIONS.flatMap((region) => polities(path.join(CONTINENT, region)));
-const others = polities(CONTINENT).filter(
-    ({ file }) => !cityStates.some((city) => city.file === file),
-);
+const continent = polities(CONTINENT);
+const cityStates = continent.filter(({ front }) => front.data?.culture === CITY_STATE_CULTURE);
+const others = continent.filter(({ file }) => !cityStates.some((city) => city.file === file));
 
 test("every city-state has a zone and every zone names a city-state", () => {
     const found = cityStates.map(({ front }) => front.shortcode).sort();

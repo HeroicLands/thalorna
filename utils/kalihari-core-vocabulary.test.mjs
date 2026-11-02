@@ -19,16 +19,15 @@ import {
     BEING_LOOK_VOCABULARY,
 } from "@heroiclands/package-build/engine/note-vocabulary";
 import { SOURCES } from "./earth-words.mjs";
+import { notePath } from "./note-index.mjs";
 
 const read = (file) => {
     const raw = fs.readFileSync(file, "utf8");
     return { file, raw, fm: YAML.parse(splitFrontmatter(raw).yaml) };
 };
-const language = read(
-    process.env.KALIHARI_PATH ?? "assets/content/Skills/Languages/Kalihari_Language.md",
-);
-const inventory = read("assets/content/Reference/Core_Vocabulary.md");
-const port = read("assets/content/Skills/Languages/Valtari_Language.md");
+const language = read(process.env.KALIHARI_PATH ?? notePath("skill-kalihrlng"));
+const inventory = read(notePath("doc-coreconcepts"));
+const port = read(notePath("skill-valtarlng"));
 const notes = [language, inventory, port];
 const canonical = (value) =>
     renderAddress(
@@ -134,7 +133,7 @@ test("Kalihari declarations preserve invariant words and real source references"
 
 test("Kalihari uses its configured Roman wordbook without an invented native map or Earth model", async () => {
     assert.equal(language.fm.data.writtenIn, undefined);
-    assert.deepEqual(SOURCES["Kalihari_Language.md"] ?? [], []);
+    assert.deepEqual(SOURCES["skill-kalihrlng"] ?? [], []);
     const { renderRuns, runContext, scanRuns } =
         await import("@heroiclands/package-build/engine/content-scripts");
     const config = YAML.parse(fs.readFileSync("package-build.config.yaml", "utf8")),

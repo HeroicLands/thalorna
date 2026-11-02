@@ -19,15 +19,14 @@ import { lintNote } from "@heroiclands/package-build/engine/frontmatter-lint";
 import { ENGINE_NOTE_SCHEMAS } from "@heroiclands/package-build/engine/note-schemas";
 import { NOTE_SCHEMAS } from "@heroiclands/package-build/sohl/note-schemas";
 import { NOTE_VOCABULARY } from "@heroiclands/package-build/engine/note-vocabulary";
+import { notePath } from "./note-index.mjs";
 
 function note(file) {
     const raw = fs.readFileSync(file, "utf8");
     return { file, raw, fm: YAML.parse(splitFrontmatter(raw).yaml) };
 }
-const language = note(
-    process.env.VYLARI_PATH ?? "assets/content/Skills/Languages/Vylari_Language.md",
-);
-const inventory = note("assets/content/Reference/Core_Vocabulary.md");
+const language = note(process.env.VYLARI_PATH ?? notePath("skill-vylarilng"));
+const inventory = note(notePath("doc-coreconcepts"));
 const ids = (word) => [word.concept ?? []].flat();
 const bindings = (id) => language.fm.data.words.filter((word) => ids(word).includes(id));
 const records = [language, inventory].map((value) => ({
@@ -150,7 +149,7 @@ test("four loves, bodily sensation, emotion and epistemic claims stay distinct",
 });
 
 test("Semaron mapping and its actual face draw every core expression", () => {
-    const spelling = note("assets/content/Lore/Scripts/Elavendri_Semaron_Encoding.md");
+    const spelling = note(notePath("doc-elavsemaronenc"));
     const map = encodingReference("vyl").encoding;
     const face = resolveScriptFonts(process.cwd()).faces.get(map.font);
     const outlines = fontOutlines(face.file);

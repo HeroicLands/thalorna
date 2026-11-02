@@ -19,14 +19,15 @@ import { NOTE_SCHEMAS } from "@heroiclands/package-build/sohl/note-schemas";
 import { NOTE_VOCABULARY } from "@heroiclands/package-build/engine/note-vocabulary";
 import { renderRuns } from "@heroiclands/package-build/engine/content-scripts";
 import { aelwythiEncoding } from "./aelwythi-encoding.mjs";
+import { notePath } from "./note-index.mjs";
 
 function note(file) {
     const raw = fs.readFileSync(file, "utf8");
     return { file, raw, fm: YAML.parse(splitFrontmatter(raw).yaml) };
 }
-const language = note("assets/content/Skills/Languages/Aelwythi_Language.md");
-const inventory = note("assets/content/Reference/Core_Vocabulary.md");
-const spelling = note("assets/content/Lore/Scripts/Aelwythi_Semaron_Encoding.md");
+const language = note(notePath("skill-aelwthlng"));
+const inventory = note(notePath("doc-coreconcepts"));
+const spelling = note(notePath("doc-aelwsemaronenc"));
 const glossaryWords = language.fm.data.words.filter(
     (word) =>
         WORD_CLASS_BASES.find(({ token }) => token === parseWordClass(word.class).base)?.glossary,

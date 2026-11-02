@@ -10,7 +10,7 @@
  * code fence whose info string begins with `verse` or `poetry` is not a verse:
  * it renders as a plain code listing and the build stays green. Every opener of
  * the form ```` ```verse ````, ```` ```poetry ```` or `~~~verse`, `~~~poetry`
- * in a note under `assets/content/`, indented or not, is an error.
+ * in a note under the content tree, indented or not, is an error.
  *
  * Findings are written `file:line:column: error: message`, the path first and
  * relative to the working directory, to stderr; the summary goes to stdout and

@@ -6,8 +6,9 @@ import { createHash } from "node:crypto";
 import test from "node:test";
 import YAML from "yaml";
 import { respellText } from "./aelwythi-respell.mjs";
+import { notePath } from "./note-index.mjs";
 
-const raw = fs.readFileSync("assets/content/Skills/Languages/Aelwythi_Language.md", "utf8");
+const raw = fs.readFileSync(notePath("skill-aelwthlng"), "utf8");
 const words = YAML.parse(raw.split("---")[1]).data.words;
 const forConcept = (id) => words.filter((word) => [word.concept ?? []].flat().includes(id));
 const forms = (id) => forConcept(id).map(({ form }) => form);
@@ -243,7 +244,7 @@ test("the reviewed verse retains eight syllables and each rhyming couplet", () =
 
 test("the standard records fixed coined sounds and preserves authored lexical exceptions", () => {
     const data = (file) => YAML.parse(fs.readFileSync(file, "utf8").split("---")[1]).data;
-    const sounds = data("assets/content/Lore/Pronouncing_Thalorna.md").sounds.letters;
+    const sounds = data(notePath("doc-prnncthlrn")).sounds.letters;
     for (const [letters, ipa] of [
         ["a", "ɑ"],
         ["e", "ɛ"],
@@ -260,7 +261,7 @@ test("the standard records fixed coined sounds and preserves authored lexical ex
             sounds.some((row) => !row.tongue && row.letters.includes(letters) && row.ipa === ipa),
             `${letters} has its fixed coined sound`,
         );
-    const encoding = data("assets/content/Lore/Scripts/Aelwythi_Semaron_Encoding.md");
+    const encoding = data(notePath("doc-aelwsemaronenc"));
     assert.equal(encoding.language, "aelw");
     assert.equal(encoding.font, "semaron-kuriale");
     assert.equal(encoding.mappings["."], "POINT");

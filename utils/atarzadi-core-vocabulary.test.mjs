@@ -20,8 +20,8 @@ const read = (file) => {
     const raw = fs.readFileSync(file, "utf8");
     return { file, raw, fm: YAML.parse(splitFrontmatter(raw).yaml) };
 };
-const note = read("assets/content/Skills/Languages/Atarzadi_Language.md"),
-    inventory = read("assets/content/Reference/Core_Vocabulary.md");
+const note = read(notePath("skill-atarzadilng")),
+    inventory = read(notePath("doc-coreconcepts"));
 const ordinary = new Set(WORD_CLASS_BASES.filter((c) => c.glossary).map((c) => c.token));
 const expected = new Set(inventory.fm.data.concepts.map((c) => c.id));
 test("Atárzadi supplies actual ordinary expressions for the complete inventory", () => {
@@ -56,6 +56,7 @@ import {
     NOTE_VOCABULARY,
     BEING_LOOK_VOCABULARY,
 } from "@heroiclands/package-build/engine/note-vocabulary";
+import { notePath } from "./note-index.mjs";
 const hash = (o) =>
     createHash("sha256")
         .update(typeof o === "string" ? o : JSON.stringify(o))
@@ -184,7 +185,7 @@ test("Atárzadi uses its real Qalezu face, configured wordbook and drawable glyp
     const { renderRuns } = await import("@heroiclands/package-build/engine/content-scripts");
     const { resolveScriptFonts } = await import("@heroiclands/package-build/engine/script-fonts");
     const { fontOutlines } = await import("@heroiclands/package-build/engine/font-outlines");
-    const spelling = read("assets/content/Lore/Scripts/Atarzadi_Qalezu_Encoding.md");
+    const spelling = read(notePath("doc-atarqalezuenc"));
     const config = YAML.parse(fs.readFileSync("package-build.config.yaml", "utf8"));
     const [key, configured] = Object.entries(config.languages).find(
         ([, s]) => s.note === `skill-${note.fm.shortcode}`,

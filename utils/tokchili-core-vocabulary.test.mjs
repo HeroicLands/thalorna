@@ -6,10 +6,11 @@ import test from "node:test";
 import YAML from "yaml";
 import { splitFrontmatter } from "@heroiclands/package-build/engine/diagnostics";
 import { parseWordClass, WORD_CLASS_BASES } from "@heroiclands/package-build/engine/word-classes";
+import { notePath } from "./note-index.mjs";
 
 const read = (file) => YAML.parse(splitFrontmatter(fs.readFileSync(file, "utf8")).yaml);
-const language = read("assets/content/Skills/Languages/Tokchili_Language.md");
-const inventory = read("assets/content/Reference/Core_Vocabulary.md");
+const language = read(notePath("skill-tokchilng"));
+const inventory = read(notePath("doc-coreconcepts"));
 const eligible = new Set(WORD_CLASS_BASES.filter((x) => x.glossary).map((x) => x.token));
 const words = language.data.words;
 const ids = (w) => [w.concept ?? []].flat();

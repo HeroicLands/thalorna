@@ -22,17 +22,16 @@ import {
 } from "@heroiclands/package-build/engine/note-vocabulary";
 import { fontOutlines } from "@heroiclands/package-build/engine/font-outlines";
 import { resolveScriptFonts } from "@heroiclands/package-build/engine/script-fonts";
+import { notePath } from "./note-index.mjs";
 
 const read = (file) => {
     const raw = fs.readFileSync(file, "utf8");
     return { file, raw, fm: YAML.parse(splitFrontmatter(raw).yaml) };
 };
-const language = read(
-    process.env.PROVENZAL_PATH ?? "assets/content/Skills/Languages/Provenzal_Language.md",
-);
-const parent = read("assets/content/Skills/Languages/Vylari_Language.md");
-const northern = read("assets/content/Skills/Languages/Elavendri_Language.md");
-const inventory = read("assets/content/Reference/Core_Vocabulary.md");
+const language = read(process.env.PROVENZAL_PATH ?? notePath("skill-provnzlng"));
+const parent = read(notePath("skill-vylarilng"));
+const northern = read(notePath("skill-elvndrlng"));
+const inventory = read(notePath("doc-coreconcepts"));
 const notes = [language, parent, northern, inventory];
 const canonical = (value) =>
     renderAddress(
@@ -189,7 +188,7 @@ test("Provenzal prints nearest senses and renders ordinary words through its con
         for (const gloss of [word.gloss].flat())
             assert(rendered.toLowerCase().includes(gloss.toLowerCase()), word.form);
     }
-    const spelling = read("assets/content/Lore/Scripts/Elavendri_Semaron_Encoding.md");
+    const spelling = read(notePath("doc-elavsemaronenc"));
     const config = YAML.parse(fs.readFileSync("package-build.config.yaml", "utf8"));
     const context = referenceContext({ ...config, rootDir: process.cwd() }, [
         ...records,
@@ -314,9 +313,7 @@ test("source receipts and borrowed sources are attested", () => {
     assert.deepEqual(unresolved, []);
 });
 
-const tarveni = read(
-    process.env.TARVENI_PATH ?? "assets/content/Skills/Languages/Tarveni_Language.md",
-);
+const tarveni = read(process.env.TARVENI_PATH ?? notePath("skill-tarvenlng"));
 const tarveniNotes = [tarveni, parent, language, northern, inventory];
 const tarveniRecords = tarveniNotes.map(({ fm, file }) => ({
     ...fm,
@@ -475,7 +472,7 @@ test("Tarveni declarations and real borrowed sources satisfy the consumer contra
 test("Tarveni uses its actual configured lexicon and Semaron font", async () => {
     const { renderRuns, scanRuns } =
         await import("@heroiclands/package-build/engine/content-scripts");
-    const spelling = read("assets/content/Lore/Scripts/Elavendri_Semaron_Encoding.md");
+    const spelling = read(notePath("doc-elavsemaronenc"));
     const config = YAML.parse(fs.readFileSync("package-build.config.yaml", "utf8"));
     const context = referenceContext({ ...config, rootDir: process.cwd() }, [
         ...tarveniRecords,

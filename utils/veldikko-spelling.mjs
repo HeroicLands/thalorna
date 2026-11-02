@@ -22,10 +22,11 @@ import YAML from "yaml";
 import { fontCodes } from "@heroiclands/package-build/engine/encoding-notes";
 import { resolveScriptFonts } from "@heroiclands/package-build/engine/script-fonts";
 import { fileURLToPath } from "node:url";
+import { notePath } from "./note-index.mjs";
 
 export const NOTES = [
-    { tongue: "sinale", file: "assets/content/Lore/Scripts/Sinale_Veldikko_Encoding.md" },
-    { tongue: "aelendi", file: "assets/content/Lore/Scripts/Aelendi_Veldikko_Encoding.md" },
+    { tongue: "sinale", file: notePath("doc-sinaveldikkoenc") },
+    { tongue: "aelendi", file: notePath("doc-aeleveldikkoenc") },
 ];
 
 const L = {

@@ -5,6 +5,7 @@
 
 import assert from "node:assert/strict";
 import test from "node:test";
+import { notePath } from "./note-index.mjs";
 import { GREEK_NAMES, IN_WORLD, findEarthNames, scan } from "./earth-names.mjs";
 
 test("an Earth name is found, with its column", () => {
@@ -59,23 +60,20 @@ test("whole words and in-world vocabulary pass", () => {
 });
 
 test("the Terran analogs note and terran_analog comments are exempt", () => {
-    assert.deepEqual(
-        findEarthNames("assets/content/Reference/Terran_Analogs_Reference.md", "Rome"),
-        [],
-    );
+    assert.deepEqual(findEarthNames(notePath("doc-trnnlgsrfrnc"), "Rome"), []);
     assert.deepEqual(findEarthNames("a.md", "# terran_analog: Rome, Norse"), []);
     assert.equal(findEarthNames("a.md", "Rome").length, 1);
 });
 
 test("the reader's languages are refused even where Earth names are exempt", () => {
-    const analogs = "assets/content/Reference/Terran_Analogs_Reference.md";
+    const analogs = notePath("doc-trnnlgsrfrnc");
     assert.equal(findEarthNames("a.md", "# terran_analog: the Latin of Rome").length, 1);
     assert.equal(findEarthNames("a.md", "# terran_analog: latin").length, 1);
     assert.equal(findEarthNames(analogs, "French").length, 1);
     assert.equal(findEarthNames(analogs, "English").length, 1);
     assert.deepEqual(findEarthNames("a.md", "# terran_analog: Japan"), []);
     assert.deepEqual(findEarthNames(analogs, "Rome"), []);
-    const guide = "assets/content/Lore/Pronouncing_Thalorna.md";
+    const guide = notePath("doc-prnncthlrn");
     assert.deepEqual(findEarthNames(guide, "English, Roman and Scottish"), []);
 });
 
@@ -144,18 +142,15 @@ test("an encoding note's glyph mappings and rules are read past", () => {
         "---",
         "Babylon is named in prose.",
     ].join("\n");
-    const found = findEarthNames("assets/content/Lore/Scripts/X.md", text);
+    const found = findEarthNames("X.md", text);
     assert.equal(found.length, 1);
     assert.match(found[0], /:8:1: error: "Babylon"/);
 });
 
 test("Aelwythi technical pronunciation and encoding references may name reference languages", () => {
-    for (const file of [
-        "assets/content/Skills/Languages/Aelwythi_Language.md",
-        "assets/content/Lore/Scripts/Aelwythi_Semaron_Encoding.md",
-    ])
+    for (const file of [notePath("skill-aelwthlng"), notePath("doc-aelwsemaronenc")])
         assert.deepEqual(findEarthNames(file, "English, Roman and Scottish"), []);
-    assert.ok(findEarthNames("assets/content/Lore/Cultures/Aelwythan/Story.md", "English").length);
+    assert.ok(findEarthNames("Story.md", "English").length);
 });
 
 test("encoding prose admits the Roman writing label without exempting Earth references", () => {
@@ -170,7 +165,7 @@ test("encoding prose admits the Roman writing label without exempting Earth refe
         "---",
         "Roman word spaces are retained. Roman punctuation follows shared controls. The Roman emperor visited Babylon.",
     ].join("\n");
-    const findings = findEarthNames("assets/content/Lore/Scripts/Example.md", source);
+    const findings = findEarthNames("Example.md", source);
     assert.equal(findings.length, 2);
     assert(findings.some((finding) => finding.includes('"Roman"')));
     assert(findings.some((finding) => finding.includes('"Babylon"')));
@@ -178,7 +173,7 @@ test("encoding prose admits the Roman writing label without exempting Earth refe
 
 test("malformed encoding frontmatter does not exempt ordinary Earth references", () => {
     const source = "---\ntype: doc\ndata:\n  mappings: [\n---\nThe Roman emperor visited Babylon.";
-    const findings = findEarthNames("assets/content/Lore/Scripts/Broken.md", source);
+    const findings = findEarthNames("Broken.md", source);
     assert(findings.some((finding) => finding.includes('"Roman"')));
     assert(findings.some((finding) => finding.includes('"Babylon"')));
 });

@@ -10,8 +10,8 @@ const read = (file) => {
     const raw = fs.readFileSync(file, "utf8");
     return { file, raw, fm: YAML.parse(splitFrontmatter(raw).yaml) };
 };
-const note = read("assets/content/Skills/Languages/Hvarn_Language.md"),
-    inventory = read("assets/content/Reference/Core_Vocabulary.md");
+const note = read(notePath("skill-hvarnlng")),
+    inventory = read(notePath("doc-coreconcepts"));
 const ordinary = new Set(WORD_CLASS_BASES.filter((c) => c.glossary).map((c) => c.token));
 const expected = new Set(inventory.fm.data.concepts.map((c) => c.id));
 test("Hvarn supplies actual ordinary expressions for the complete inventory", () => {
@@ -47,6 +47,7 @@ import {
     BEING_LOOK_VOCABULARY,
 } from "@heroiclands/package-build/engine/note-vocabulary";
 import { SOURCES } from "./earth-words.mjs";
+import { notePath } from "./note-index.mjs";
 const hash = (o) =>
     createHash("sha256")
         .update(typeof o === "string" ? o : JSON.stringify(o))
@@ -199,7 +200,7 @@ test("new Hvarn words retain vowels, dense short roots and whole compound seams"
     }
     assert.equal(note.fm.data.sounds.stress.two, "first");
     assert.equal(note.fm.data.sounds.stress.longer, "first");
-    assert.deepEqual(SOURCES["Hvarn_Language.md"] ?? [], []);
+    assert.deepEqual(SOURCES["skill-hvarnlng"] ?? [], []);
 });
 test("Hvarn publishes each ordinary citation and its essential meaning", async () => {
     const { lexicalSectionsFor, insertLexicalSections } =

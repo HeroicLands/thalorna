@@ -8,6 +8,7 @@ import { encodeWithLanguage } from "@heroiclands/package-build/engine/encoding-l
 import { fontOutlines } from "@heroiclands/package-build/engine/font-outlines";
 import { readDocument } from "./aelwythi-note.mjs";
 import { encodingReference } from "./encoding-reference.mjs";
+import { notePath } from "./note-index.mjs";
 
 export function readNote(file) {
     const document = readDocument(file);
@@ -15,8 +16,8 @@ export function readNote(file) {
 }
 
 export function aelwythiEncoding() {
-    const language = readNote("assets/content/Skills/Languages/Aelwythi_Language.md");
-    const spelling = readNote("assets/content/Lore/Scripts/Aelwythi_Semaron_Encoding.md");
+    const language = readNote(notePath("skill-aelwthlng"));
+    const spelling = readNote(notePath("doc-aelwsemaronenc"));
     const config = YAML.parse(fs.readFileSync("package-build.config.yaml", "utf8"));
     const records = [language, spelling].map(({ fm, file, raw }) => ({
         ...fm,

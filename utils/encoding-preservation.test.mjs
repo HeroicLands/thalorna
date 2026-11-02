@@ -3,10 +3,11 @@
 import assert from "node:assert/strict";
 import test from "node:test";
 import { assertEncodingMigrationPreserved } from "./encoding-preservation.mjs";
+import { notePath } from "./note-index.mjs";
 
 function fixture() {
     const before = {
-        file: "assets/content/Skills/Languages/Dunhari_Language.md",
+        file: notePath("skill-dunharlng"),
         fm: {
             type: "skill",
             data: {

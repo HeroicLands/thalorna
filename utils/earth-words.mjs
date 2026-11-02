@@ -64,10 +64,10 @@
 
 import fs from "node:fs";
 import path from "node:path";
+import { addressOfText, noteFilesWhere } from "./note-index.mjs";
 import YAML from "yaml";
 
 /** Where the language notes live. */
-const LANGUAGES_DIR = "assets/content/Skills/Languages";
 
 /** The list whose `j` is said `h`. */
 const J_AS_H = "yucatec-maya";
@@ -83,53 +83,53 @@ const SAME_MEANING = 0.5;
 
 /**
  * The model languages each language note is written after, as list names, by
- * the note's file name. A note absent here, or with an empty list, has no human
+ * the note's address. A note absent here, or with an empty list, has no human
  * model and no check.
  */
 export const SOURCES = {
-    "Aelendi_Language.md": ["welsh", "old-irish"],
+    "skill-aelendlng": ["welsh", "old-irish"],
     // Aelwythi speech is rendered in an older register of the reader's language.
-    "Atarzadi_Language.md": ["persian"],
-    "Bethuan_Language.md": ["ancient-greek", "arabic"],
-    "Bizarian_Language.md": ["ancient-greek", "persian", "turkish"],
-    "Dunhari_Language.md": ["persian", "arabic"],
-    "Ekpelu_Language.md": ["ubangian"],
-    "Elavendri_Language.md": ["old-french", "breton"],
-    "Helonic_Language.md": ["ancient-greek"],
-    "Jurthati_Language.md": ["japanese"],
+    "skill-atarzadilng": ["persian"],
+    "skill-bethunlng": ["ancient-greek", "arabic"],
+    "skill-byzarnlng": ["ancient-greek", "persian", "turkish"],
+    "skill-dunharlng": ["persian", "arabic"],
+    "skill-ekpelulng": ["ubangian"],
+    "skill-elvndrlng": ["old-french", "breton"],
+    "skill-helonclng": ["ancient-greek"],
+    "skill-jurthatlng": ["japanese"],
     // The word lists hold no kwakwala or nuu-chah-nulth list, so a Kelwanuk coinage is checked by reading.
     // The word lists hold no cree list, and the Kawiskak note states names only, so its coinages are checked by reading.
-    "Kawiskak_Language.md": ["cree"],
-    "Kelwanuk_Language.md": ["kwakwala", "nuu-chah-nulth"],
-    "Khazari_Language.md": ["khuzdul"],
-    "Tellumi_Language.md": ["sogdian", "tajik", "hebrew"],
-    "Khelathi_Language.md": ["egyptian"],
-    "Kiichek_Language.md": ["yucatec-maya"],
-    "Nordmal_Language.md": ["old-norse"],
-    "Nyaluban_Language.md": ["sotho-tswana", "shona"],
-    "Okharik_Language.md": ["tamazight", "hausa"],
+    "skill-kawiskaklng": ["cree"],
+    "skill-kelwanuklng": ["kwakwala", "nuu-chah-nulth"],
+    "skill-khazarlng": ["khuzdul"],
+    "skill-tellumilng": ["sogdian", "tajik", "hebrew"],
+    "skill-khelathlng": ["egyptian"],
+    "skill-kiichek": ["yucatec-maya"],
+    "skill-nordmalng": ["old-norse"],
+    "skill-nyalbnlng": ["sotho-tswana", "shona"],
+    "skill-okharclng": ["tamazight", "hausa"],
     // The word lists hold no mohawk or seneca list, so an Osetakona coinage is checked by reading.
-    "Osetakona_Language.md": ["mohawk", "seneca"],
-    "Provenzal_Language.md": ["occitan", "galician", "portuguese"],
+    "skill-osetakonalng": ["mohawk", "seneca"],
+    "skill-provnzlng": ["occitan", "galician", "portuguese"],
     // The word lists hold no chumash list, so a Shuqash coinage is checked by reading.
-    "Shuqash_Language.md": ["barbareno-chumash", "ventureno-chumash"],
-    "Sinale_Language.md": ["finnish"],
-    "Sovidur_Language.md": ["mongolian", "turkish"],
-    "Tantsou_Language.md": ["chinese"],
-    "Taruzeli_Language.md": ["akkadian", "phoenician"],
+    "skill-shuqashlng": ["barbareno-chumash", "ventureno-chumash"],
+    "skill-sinalelng": ["finnish"],
+    "skill-sowideslng": ["mongolian", "turkish"],
+    "skill-tantsoulng": ["chinese"],
+    "skill-taruzelilng": ["akkadian", "phoenician"],
     // The word lists hold no hopi list, so a Teyumi coinage is checked by reading.
-    "Teyumi_Language.md": ["hopi"],
+    "skill-teyumilng": ["hopi"],
     // The word lists hold no lakota list, so a Tenlaya coinage is checked by reading.
-    "Tenlaya_Language.md": ["lakota"],
+    "skill-tenlayalng": ["lakota"],
     // The word lists hold no yupik list, so a Tikupilarit coinage is checked by reading.
-    "Tikupilarit_Language.md": ["central-alaskan-yupik"],
+    "skill-tikupilaritlng": ["central-alaskan-yupik"],
     // The word lists hold no mvskoke or choctaw list, so a Tokchili coinage is checked by reading.
-    "Tokchili_Language.md": ["mvskoke", "choctaw"],
-    "Tarveni_Language.md": ["spanish", "basque"],
-    "Valtari_Language.md": ["lingua-franca"],
-    "Varokhi_Language.md": ["old-high-german", "old-saxon"],
-    "Vedyari_Language.md": ["sanskrit", "hindi"],
-    "Vylari_Language.md": ["latin"],
+    "skill-tokchilng": ["mvskoke", "choctaw"],
+    "skill-tarvenlng": ["spanish", "basque"],
+    "skill-valtarlng": ["lingua-franca"],
+    "skill-varokhlng": ["old-high-german", "old-saxon"],
+    "skill-vedyarlng": ["sanskrit", "hindi"],
+    "skill-vylarilng": ["latin"],
 };
 
 /**
@@ -137,20 +137,17 @@ export const SOURCES = {
  * language note, each with the reason.
  */
 export const RULED_KEPT = new Map([
+    ["skill-nordmalng", new Map([["jarl", "English as well as Old Norse, the Nordmen's rank"]])],
+    ["skill-kiichek", new Map([["ha'nal", "the root of the place name Ha'nal Shi'lan"]])],
     [
-        "Nordmal_Language.md",
-        new Map([["jarl", "English as well as Old Norse, the Nordmen's rank"]]),
-    ],
-    ["Kiichek_Language.md", new Map([["ha'nal", "the root of the place name Ha'nal Shi'lan"]])],
-    [
-        "Bizarian_Language.md",
+        "skill-byzarnlng",
         new Map([["pluma", "the spelling The Sayings of the First Warden quotes"]]),
     ],
-    ["Sinale_Language.md", new Map([["sahke", "the spelling The Seven Towers quotes"]])],
+    ["skill-sinalelng", new Map([["sahke", "the spelling The Seven Towers quotes"]])],
 ]);
 
 /** The notes whose words collide only when the meaning agrees as well as the form. */
-export const MEANING_REQUIRED = new Set(["Tantsou_Language.md", "Jurthati_Language.md"]);
+export const MEANING_REQUIRED = new Set(["skill-tantsoulng", "skill-jurthatlng"]);
 
 /** Function words and dictionary labels a gloss's meaning does not rest on. */
 const GLOSS_STOPWORDS = new Set(
@@ -442,8 +439,8 @@ export function earthHits({ form, gloss }, earth, sources, meaningRequired = fal
 /**
  * Run the check.
  *
- * @param {string[]} argv - `--wordlists <dir>` options, then language notes; the
- *   notes under `assets/content/Skills/Languages` when none are named.
+ * @param {string[]} argv - `--wordlists <dir>` options, then language notes; every
+ *   language note when none are named.
  * @param {Record<string, string|undefined>} [env]
  * @param {{out: (s: string) => void, err: (s: string) => void}} [io]
  * @param {string} [cwd]
@@ -464,27 +461,20 @@ export function main(
     const named = argv.filter((a, i) => !a.startsWith("--") && argv[i - 1] !== "--wordlists");
     const files =
         named.length ? named : (
-            fs
-                .readdirSync(path.join(cwd, LANGUAGES_DIR))
-                .filter((name) => name.endsWith(".md"))
-                .sort()
-                .map((name) => path.join(LANGUAGES_DIR, name))
+            noteFilesWhere(({ type, subType }) => type === "skill" && subType === "language", cwd)
         );
     let errors = 0;
     let words = 0;
     for (const file of files) {
         const rel = path.relative(cwd, path.resolve(cwd, file)) || file;
-        const sources = SOURCES[path.basename(file)] ?? [];
-        const kept = RULED_KEPT.get(path.basename(file));
-        for (const word of formsOf(fs.readFileSync(path.resolve(cwd, file), "utf8"))) {
+        const text = fs.readFileSync(path.resolve(cwd, file), "utf8");
+        const address = addressOfText(text);
+        const sources = SOURCES[address] ?? [];
+        const kept = RULED_KEPT.get(address);
+        for (const word of formsOf(text)) {
             words += 1;
             if (kept?.has(String(word.form).normalize("NFC"))) continue;
-            for (const hit of earthHits(
-                word,
-                earth,
-                sources,
-                MEANING_REQUIRED.has(path.basename(file)),
-            )) {
+            for (const hit of earthHits(word, earth, sources, MEANING_REQUIRED.has(address))) {
                 errors += 1;
                 io.err(
                     `${rel}:${word.line}:${word.column}: ${hit.severity}: "${word.form}" ${hit.message}`,

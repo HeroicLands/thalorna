@@ -9,6 +9,7 @@ import { lintNote } from "../node_modules/@heroiclands/package-build/engine/fron
 import { ENGINE_NOTE_SCHEMAS } from "../node_modules/@heroiclands/package-build/engine/note-schemas.mjs";
 import { NOTE_SCHEMAS } from "../node_modules/@heroiclands/package-build/sohl/note-schemas.mjs";
 import { NOTE_VOCABULARY } from "../node_modules/@heroiclands/package-build/engine/note-vocabulary.mjs";
+import { notePath } from "./note-index.mjs";
 
 test("core inventory covers the source requirements without collapsing distinct senses", () => {
     // This structured source audit records each requested expression, including
@@ -16,7 +17,7 @@ test("core inventory covers the source requirements without collapsing distinct 
     const source = JSON.parse(
         fs.readFileSync(new URL("./core-inventory-requirements.json", import.meta.url)),
     );
-    const path = process.env.CORE_INVENTORY_PATH ?? "assets/content/Reference/Core_Vocabulary.md";
+    const path = process.env.CORE_INVENTORY_PATH ?? notePath("doc-coreconcepts");
     const raw = fs.readFileSync(path, "utf8");
     const match = raw.match(/^---\n([\s\S]*?)\n---/);
     assert(match, "inventory has YAML frontmatter");

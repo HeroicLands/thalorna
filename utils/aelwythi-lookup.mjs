@@ -15,6 +15,7 @@ import path from "node:path";
 import { parseArgs } from "node:util";
 import { fileURLToPath } from "node:url";
 import { readLanguageNote, diagnostic } from "./aelwythi-note.mjs";
+import { notePath } from "./note-index.mjs";
 
 const normalize = (text) => text.normalize("NFC").toLowerCase().normalize("NFC");
 const terms = (text) => normalize(text).match(/[\p{L}\p{M}\p{N}]+/gu) ?? [];
@@ -109,16 +110,14 @@ function main() {
         const parsed = parseArgs({
             allowPositionals: true,
             options: {
-                note: {
-                    type: "string",
-                    default: "assets/content/Skills/Languages/Aelwythi_Language.md",
-                },
+                note: { type: "string" },
                 guide: { type: "boolean" },
                 limit: { type: "string", default: "10" },
                 help: { type: "boolean", short: "h" },
             },
         });
         options = parsed.values;
+        options.note ??= notePath("skill-aelwthlng");
         if (options.help) {
             console.log(
                 "Usage: node utils/aelwythi-lookup.mjs [--note <language.md>] [--limit <1..100>] <query>\n       node utils/aelwythi-lookup.mjs [--note <language.md>] --guide\nExit status: 0 success, 1 invalid language note, 2 usage error, 3 no matching entry.",

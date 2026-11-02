@@ -13,36 +13,28 @@ import { encodeWithLanguage } from "@heroiclands/package-build/engine/encoding-l
 import { serializeLexicon } from "@heroiclands/package-build/engine/encoding-lexicon";
 import fs from "node:fs";
 import crypto from "node:crypto";
-import { execFileSync } from "node:child_process";
 import test from "node:test";
 import YAML from "yaml";
 import { splitFrontmatter } from "@heroiclands/package-build/engine/diagnostics";
 import { dictionaryAndTermRows } from "@heroiclands/package-build/engine/dictionary-rows";
 import { parseWordClass, WORD_CLASS_BASES } from "@heroiclands/package-build/engine/word-classes";
+import { notePath } from "./note-index.mjs";
 const read = (file) => {
     const raw = fs.readFileSync(file, "utf8");
     return { file, raw, fm: YAML.parse(splitFrontmatter(raw).yaml) };
 };
-const language = read("assets/content/Skills/Languages/Khelathi_Language.md");
-const inventory = read("assets/content/Reference/Core_Vocabulary.md");
+const language = read(notePath("skill-khelathlng"));
+const inventory = read(notePath("doc-coreconcepts"));
 const eligible = new Set(WORD_CLASS_BASES.filter((x) => x.glossary).map((x) => x.token));
 const words = language.fm.data.words;
 const historicalCitations = new Set(
     beforeEncodingMigration(language.file).fm.data.words.slice(0, 156).map(caselessCitationKey),
 );
 // The core migration predates later literature and its additional declarations.
-const beforeLiterature = YAML.parse(
-    splitFrontmatter(
-        execFileSync(
-            "git",
-            [
-                "show",
-                "cda3ead48069f2a05f010c512d072a6e8f424017:assets/content/Skills/Languages/Khelathi.md",
-            ],
-            { encoding: "utf8" },
-        ),
-    ).yaml,
-);
+const beforeLiterature = beforeEncodingMigration(
+    language.file,
+    "cda3ead48069f2a05f010c512d072a6e8f424017",
+).fm;
 const ordinary = words.filter((w) => eligible.has(parseWordClass(w.class).base));
 const ids = (w) => [w.concept ?? []].flat();
 const record = { ...language.fm, file: language.file, package: "thalorna", system: "note" };
@@ -190,7 +182,7 @@ test("the actual published list and configured Qalezu renderer cover every ordin
             assert(published.includes(sentence), `${word.form}: ${sentence}`);
         }
     }
-    const spelling = read("assets/content/Lore/Scripts/Atarzadi_Qalezu_Encoding.md");
+    const spelling = read(notePath("doc-atarqalezuenc"));
     const config = YAML.parse(fs.readFileSync("package-build.config.yaml", "utf8"));
     const context = referenceContext({ ...config, rootDir: process.cwd() }, [
         record,

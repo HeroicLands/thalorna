@@ -21,10 +21,8 @@
 
 import fs from "node:fs";
 import path from "node:path";
+import { noteFilesWhere } from "./note-index.mjs";
 import YAML from "yaml";
-
-/** Where the language notes live. */
-const LANGUAGES_DIR = "assets/content/Skills/Languages";
 
 /** Prose that says an affix takes the place of part of the stem. */
 export const REPLACING_PROSE =
@@ -69,11 +67,7 @@ export function unstatedReplaces(text) {
 export function main(argv, io = { out: console.log, err: console.error }, cwd = process.cwd()) {
     const files =
         argv.length ? argv : (
-            fs
-                .readdirSync(path.join(cwd, LANGUAGES_DIR))
-                .filter((name) => name.endsWith(".md"))
-                .sort()
-                .map((name) => path.join(LANGUAGES_DIR, name))
+            noteFilesWhere(({ type, subType }) => type === "skill" && subType === "language", cwd)
         );
     let errors = 0;
     for (const file of files) {

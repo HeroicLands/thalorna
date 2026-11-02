@@ -16,16 +16,17 @@ import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import YAML from "yaml";
+import { noteFilesWhere } from "./note-index.mjs";
 
 const CONFIG = "package-build.config.yaml";
-const LANGUAGES = "assets/content/Skills/Languages";
 
 /** The configuration selects the notes; an oral register needs no invented alphabet. */
 export function scan() {
     const config = YAML.parse(fs.readFileSync(CONFIG, "utf8"));
     const notes = new Map();
-    for (const name of fs.readdirSync(LANGUAGES).filter((name) => name.endsWith(".md"))) {
-        const file = path.join(LANGUAGES, name);
+    for (const file of noteFilesWhere(
+        ({ type, subType }) => type === "skill" && subType === "language",
+    )) {
         const source = fs.readFileSync(file, "utf8");
         const frontmatter = /^---\n([\s\S]*?)\n---(?:\n|$)/.exec(source);
         if (!frontmatter) continue;

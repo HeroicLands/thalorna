@@ -6,6 +6,7 @@ import fs from "node:fs";
 import os from "node:os";
 import path from "node:path";
 import { respellWord, respellText, scopedEdits, migrationReport } from "./aelwythi-respell.mjs";
+import { CONTENT_DIR, notePath } from "./note-index.mjs";
 
 test("approved respelling is deterministic and preserves case and ch/qu", () => {
     for (const [before, after] of [
@@ -108,25 +109,25 @@ test("encoding-only spans and fences select Aelwythi without changing other lang
 test("migration reports include files whose only language selector is an Aelwythi encoding", () => {
     const root = fs.mkdtempSync(path.join(os.tmpdir(), "aelwythi-enc-report-"));
     try {
-        const content = path.join(root, "assets/content");
-        fs.mkdirSync(path.join(content, "Skills/Languages"), { recursive: true });
+        const content = path.join(root, CONTENT_DIR);
+        fs.mkdirSync(path.join(content, "Languages"), { recursive: true });
         fs.copyFileSync(
-            new URL("../assets/content/Skills/Languages/Aelwythi_Language.md", import.meta.url),
-            path.join(content, "Skills/Languages/Aelwythi_Language.md"),
+            path.resolve(notePath("skill-aelwthlng")),
+            path.join(content, "Languages", "Language.md"),
         );
         fs.writeFileSync(
             path.join(content, "Enc.md"),
             "[Sceptic]{enc=doc-aelwsemaronenc}\n::: {.verse enc=aelwsemaronenc}\npack\n:::\n",
         );
         fs.writeFileSync(path.join(content, "Foreign.md"), "[Exact]{lang=en} [pack]{enc=foreign}");
+        const relative = (name) =>
+            path.relative(root, path.join(content, name)).split(path.sep).join("/");
         const report = migrationReport(root);
         const occurrences = report.collisions.flatMap((group) =>
             group.originals.flatMap((original) => original.occurrences),
         );
-        assert(
-            occurrences.some((row) => row.file === "assets/content/Enc.md" && row.form === "pack"),
-        );
-        assert(!occurrences.some((row) => row.file === "assets/content/Foreign.md"));
+        assert(occurrences.some((row) => row.file === relative("Enc.md") && row.form === "pack"));
+        assert(!occurrences.some((row) => row.file === relative("Foreign.md")));
     } finally {
         fs.rmSync(root, { recursive: true, force: true });
     }

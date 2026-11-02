@@ -560,18 +560,38 @@ const AGES = {
     },
 };
 
-/** A history note under the Mídhalión folder. */
+/** The folder notes the history notes name. */
+const FOLDERS = [
+    ["ankaris", undefined],
+    ["midhalion", "ankaris"],
+    ["vylaria", { default: "polities", journals: "midhalion" }],
+    ["hellad", "ankaris"],
+    ["byzaria", "hellad"],
+].map(([shortcode, parent]) => ({
+    file: `${shortcode}.md`,
+    address: `folder-${shortcode}`,
+    raw: "",
+    fm: { shortcode, type: "folder", data: { parent } },
+}));
+
+/** A history note in the Mídhalión folder. */
 function midhalion(shortcode, tags, events) {
     return {
-        file: `assets/content/Regions/Ankaris/Midhalion/Vylaria/History/${shortcode}.md`,
+        file: `${shortcode}.md`,
         address: `lore-${shortcode}`,
-        fm: { shortcode, type: "lore", subType: "history", tags, data: { events } },
+        fm: {
+            shortcode,
+            type: "lore",
+            subType: "history",
+            tags,
+            data: { packFolder: "vylaria", events },
+        },
     };
 }
 
 /** The findings for Mídhalión history notes beside the ages calendar. */
 function runMidhalion(...history) {
-    return check({ history, calendars: [AGES], world: [WORLD] });
+    return check({ history, calendars: [AGES], world: [WORLD], prose: FOLDERS });
 }
 
 test("midhalion-era: the ages are spans of calendar years", () => {
@@ -600,7 +620,7 @@ test("midhalion-era: a misdated note is red", () => {
     assert.equal(found.length, 1);
     assert.match(
         found[0],
-        /^assets\/content\/Regions\/Ankaris\/Midhalion\/Vylaria\/History\/misdated\.md:\d*:?\s*error: midhalion-era: `when: 140` lies outside firstaugs, which runs 1 to 95/u,
+        /^misdated\.md:\d*:?\s*error: midhalion-era: `when: 140` lies outside firstaugs, which runs 1 to 95/u,
     );
 });
 
@@ -636,18 +656,24 @@ const HELLAD = {
     },
 };
 
-/** A history note under the Hellád folder. */
+/** A history note in the Hellád folder. */
 function hellad(shortcode, tags, events) {
     return {
-        file: `assets/content/Regions/Ankaris/Hellad/History/${shortcode}.md`,
+        file: `${shortcode}.md`,
         address: `lore-${shortcode}`,
-        fm: { shortcode, type: "lore", subType: "history", tags, data: { events } },
+        fm: {
+            shortcode,
+            type: "lore",
+            subType: "history",
+            tags,
+            data: { packFolder: "byzaria", events },
+        },
     };
 }
 
 /** The findings for Hellád history notes beside both ages calendars. */
 function runHellad(...history) {
-    return check({ history, calendars: [AGES, HELLAD], world: [WORLD] });
+    return check({ history, calendars: [AGES, HELLAD], world: [WORLD], prose: FOLDERS });
 }
 
 test("midhalion-era: the Hellád eras are spans of calendar years", () => {
@@ -676,7 +702,7 @@ test("midhalion-era: a misdated Hellád note is red", () => {
     assert.equal(found.length, 1);
     assert.match(
         found[0],
-        /^assets\/content\/Regions\/Ankaris\/Hellad\/History\/misdated\.md:\d*:?\s*error: midhalion-era: `when: -158` lies outside daughterage, which runs -800 to -313/u,
+        /^misdated\.md:\d*:?\s*error: midhalion-era: `when: -158` lies outside daughterage, which runs -800 to -313/u,
     );
 });
 
@@ -690,6 +716,7 @@ test("midhalion-era: a Hellád folder with no Hellád eras calendar is red", () 
         history: [hellad("alone", ["history"], [{ when: -158 }])],
         calendars: [AGES],
         world: [WORLD],
+        prose: FOLDERS,
     });
     assert.match(found[0], /midhalion-era: no calendar has the shortcode helladcal/u);
 });
@@ -713,11 +740,12 @@ test("follows-resolves: a target that names no note, or no event of the note, is
 });
 
 test("midhalion-era: a history note outside the Mídhalión folder is not held to the ages", () => {
-    const outside = {
-        ...midhalion("elsewhere", ["history"], [{ when: 12 }]),
-        file: "elsewhere.md",
-    };
-    assert.deepEqual(check({ history: [outside], calendars: [AGES], world: [WORLD] }), []);
+    const outside = midhalion("elsewhere", ["history"], [{ when: 12 }]);
+    outside.fm.data.packFolder = "ankaris";
+    assert.deepEqual(
+        check({ history: [outside], calendars: [AGES], world: [WORLD], prose: FOLDERS }),
+        [],
+    );
 });
 
 test("until-follows-when: a span that runs backward", () => {

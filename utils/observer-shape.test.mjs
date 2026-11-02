@@ -104,8 +104,8 @@ test("frontmatter, code fences and verse divs are not read", () => {
 test("the style guide that names the shape is exempt", () => {
     assert.deepEqual(
         findObservers(
-            "assets/content/README-gazeteer.md",
-            "It is filler, and a Nordman will tell you so.",
+            "guide.md",
+            "# Writing Thalorna's gazetteer notes\n\nIt is filler, and a Nordman will tell you so.",
         ),
         [],
     );

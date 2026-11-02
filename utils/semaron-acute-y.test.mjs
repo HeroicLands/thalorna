@@ -15,13 +15,14 @@ import { lintNote } from "@heroiclands/package-build/engine/frontmatter-lint";
 import { ENGINE_NOTE_SCHEMAS } from "@heroiclands/package-build/engine/note-schemas";
 import { NOTE_SCHEMAS } from "@heroiclands/package-build/sohl/note-schemas";
 import { NOTE_VOCABULARY } from "@heroiclands/package-build/engine/note-vocabulary";
+import { notePath } from "./note-index.mjs";
 
 const read = (file) => {
     const raw = fs.readFileSync(file, "utf8");
     return { file, raw, fm: YAML.parse(splitFrontmatter(raw).yaml) };
 };
-const spelling = read("assets/content/Lore/Scripts/Elavendri_Semaron_Encoding.md");
-const language = read("assets/content/Skills/Languages/Elavendri_Language.md");
+const spelling = read(notePath("doc-elavsemaronenc"));
+const language = read(notePath("skill-elvndrlng"));
 const reference = encodingReference("elav");
 const map = reference.encoding;
 const write = (text) => {

@@ -8,11 +8,12 @@ import { splitFrontmatter } from "@heroiclands/package-build/engine/diagnostics"
 import { parseVerse, scanVerse } from "@heroiclands/package-build/engine/content-verse";
 import { createRenderer } from "@heroiclands/package-build/engine/content-render";
 import { runContext, scanRuns } from "@heroiclands/package-build/engine/content-scripts";
+import { noteFiles } from "./note-index.mjs";
 import { aelwythiEncoding } from "./aelwythi-encoding.mjs";
 import { unknownWords } from "@heroiclands/package-build/engine/run-words";
 import { resolveWebWikilinks } from "@heroiclands/package-build/engine/wikilinks";
 
-const notes = [...fs.globSync("assets/content/**/*.md")].map((file) => {
+const notes = noteFiles().map((file) => {
     const raw = fs.readFileSync(file, "utf8");
     const { yaml, body } = splitFrontmatter(raw) ?? { yaml: "", body: raw };
     return { file, raw, body, fm: YAML.parse(yaml) };
