@@ -43,7 +43,7 @@ jobs:
             - name: Setup Node
               uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7
               with:
-                  node-version: 24
+                  node-version: ${{ vars.CI_NODE_VERSION || '24' }}
 
             # Restored on an unchanged lockfile and Node version; the install
             # runs only on a miss. A restore leaves `node_modules/.bin` intact.
@@ -112,7 +112,7 @@ jobs:
             - name: Setup Node
               uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7
               with:
-                  node-version: 24
+                  node-version: ${{ vars.CI_NODE_VERSION || '24' }}
 
             # Restored on an unchanged lockfile and Node version; the install
             # runs only on a miss. A restore leaves `node_modules/.bin` intact.
@@ -166,7 +166,7 @@ jobs:
             - name: Setup Node
               uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7
               with:
-                  node-version: 24
+                  node-version: ${{ vars.CI_NODE_VERSION || '24' }}
 
             - name: Install Thalorna dependencies
               run: npm ci --cache "$RUNNER_TEMP/npm-cache"
@@ -267,7 +267,7 @@ jobs:
             - name: Setup Node
               uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7
               with:
-                  node-version: 24
+                  node-version: ${{ vars.CI_NODE_VERSION || '24' }}
 
             # Restored on an unchanged lockfile and Node version; the install
             # runs only on a miss. A restore leaves `node_modules/.bin` intact.
