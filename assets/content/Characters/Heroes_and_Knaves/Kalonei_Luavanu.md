@@ -11,7 +11,7 @@ data:
   occupation: Charcoaler
   lore: []
   culture: kaliharanclt
-  homes: [ilovanu]
+  homes: [orzara]
   affiliations: {kalihara: {rank: 2}, sacredforge: {rank: 1}}
   gender: male
   species: humanflk
@@ -432,11 +432,11 @@ Kalonei Luavanu was born in the charcoal-burners' quarter behind the harbor of [
 
 ### The Better Burn
 
-In his early twenties he began to experiment beyond his father's ways, learning how different woods, kiln shapes and careful control of the burn changed what came out. The port's best smiths found that his charcoal burned hotter, cleaner and more evenly than any other, and they have bought from no one else since. Fifteen years ago he opened his own kilns, and he is now the most charcoaler on the coast, with more orders than his methods will ever let him fill.
+In his early twenties he began to experiment beyond his father's ways, learning how different woods, kiln shapes and careful control of the burn changed what came out. The harbor's best smiths found that his charcoal burned hotter, cleaner and more evenly than any other, and they bought from no one else. Then a foreign factor carried a sack of it across the Doldrum Sea to Orzara, where the smiths of the capital's outskirts tried it and sent word back for more. Fifteen years ago he crossed after it and opened his own kilns among the workshops outside the city, and he is now the most sought charcoaler in [[place-orzara|Orzara]], with more orders than his methods will ever let him fill.
 
 ### The God of the Forge
 
-Like many port [[lore-kaliharanclt|Kaliharan]] islanders, Kalonei keeps the faith of the foreigners he grew up among. His devotion to [[lore-ustarondty|Ústaron]], the fire-god of [[affiliation-sacredforge|the Sacred Forge]] in the [[affiliation-arldnpnthn|Aureldian Pantheon]], is less a duty than a part of his work: in a well-tended kiln he sees a small, holy act of transformation, an echo of the god's own fire.
+Like many port [[lore-kaliharanclt|Kaliharan]] islanders, Kalonei keeps the faith of the foreigners he grew up among, and he took it with him to Orzara. His devotion to [[lore-ustarondty|Ústaron]], the fire-god of [[affiliation-sacredforge|the Sacred Forge]] in the [[affiliation-arldnpnthn|Aureldian Pantheon]], is less a duty than a part of his work: in a well-tended kiln he sees a small, holy act of transformation, an echo of the god's own fire.
 
 ## Psyche
 
@@ -450,7 +450,7 @@ His defining trait is a perfectionism close to obsession. He will spend hours on
 
 Kalonei wants to make perfect charcoal. He knows there is no such thing, and the knowledge only spurs him on: improving his craft honors Ústaron and the wood, turning one noble material into another by discipline and knowledge. Fame and money matter less to him than the thought of a smith somewhere making something fine with his fire.
 
-He also wants to show that a humble trade can hold as much mastery as any learned one. His charcoal feeds every forge on the coast, and he thinks of himself as a servant of the fire, not of the market.
+He also wants to show that a humble trade can hold as much mastery as any learned one. His charcoal feeds a hundred forges outside the city walls, and he thinks of himself as a servant of the fire, not of the market.
 
 ### Strengths
 
@@ -491,37 +491,37 @@ Pride
 ### Patrons
 
 Master Smith [Melovai]{.name data-type="being/npc"}
-: a famous Ilovanu smith whose forges burn nothing but Kalonei's charcoal, and whose public praise has sent other smiths looking for the same edge.
+: a famous smith of the Orzara workshops whose forges burn nothing but Kalonei's charcoal, and whose public praise has sent other smiths looking for the same edge.
 
-[The Wardens' Armory]{.name data-type="place/structure"}
-: the armory of [[affiliation-wardensapproaches|the Wardens of the Approaches]], which forges the blades and boat-fittings of the pilots and the harbor watch and buys his charcoal for the purpose, steadily if not always promptly.
+[The City Watch Armory]{.name data-type="place/structure"}
+: the armory of [[affiliation-vylrnmltry|the Vylarian Military]]'s City Watch, which forges its blades and fittings and buys his charcoal for the purpose, steadily if not always promptly.
 
 Merchant-Artificer [Sornak]{.name data-type="being/npc"}
-: a dealer in fine tools and materials who holds the sole right to sell Kalonei's best charcoal in the three smaller ports.
+: a dealer in fine tools and materials who holds the sole right to sell Kalonei's best charcoal beyond Orzara's outskirts.
 
 ### Enemies
 
 [The Bulk Producers]{.name data-type="affiliation"}
-: an association of larger charcoaling yards that sees his prices and methods as a threat. They spread rumors about his reliability and try to lure away his best buyers.
+: an association of larger charcoaling yards on Orzara's outskirts that sees his prices and methods, and his foreign birth, as a threat. They spread rumors about his reliability and try to lure away his best buyers.
 
-The harbor factors
-: the port's smiths and the foreign hulls that load charcoal for the voyage home want ever more of it, and the factors who broker it count Kalonei's refusal to burn more as an obstruction to trade.
+The charcoal brokers
+: the outskirts' smiths and the merchants who broker charcoal for the capital want ever more of it, and count Kalonei's refusal to burn more as an obstruction to trade.
 
 Rival Craftsman [Olunavi]{.name data-type="being/npc"}
-: a charcoaler who tried to copy Kalonei's methods and failed, and who tells the quarter that Kalonei hoards secrets, sooner than admit his own work is worse.
+: a charcoaler who tried to copy Kalonei's methods and failed, and who tells the outskirts that Kalonei hoards secrets, sooner than admit his own work is worse.
 
 ### Affiliations
 
 [[affiliation-kalihara|Kalihara]]
-: an islander's standing among the port Kaliharans, and the standard-bearer of quality in the [Charcoalers' Guild]{.name data-type="affiliation/guild"} of the port, increasingly at odds with its push to burn more and burn faster.
+: an islander's standing among the few port Kaliharans who have crossed to Orzara, and the standard-bearer of quality in the [Charcoalers' Guild]{.name data-type="affiliation/guild"} of the outskirts, increasingly at odds with its push to burn more and burn faster.
 
 [[affiliation-sacredforge|The Sacred Forge]]
-: a quiet member of the [Order of Ústaron's Flame]{.name data-type="affiliation/order"}, the fellowship of fire-workers—smiths, brewers, potters and charcoalers—attached to the god's temple in the foreign quarter.
+: a quiet member of the [Order of Ústaron's Flame]{.name data-type="affiliation/order"}, the fellowship of fire-workers—smiths, brewers, potters and charcoalers—attached to the god's temple in Orzara.
 
 ## Plot Hooks
 
 The Commission of Urgency
-: A foreign agent arrives in Ilovanu with an enormous order: enough charcoal to fire the forges of an army fitting out across the water for a war of conquest. The price would make Kalonei rich for life, and meeting it would mean bad wood and rushed burns. The harbor factors press him to accept for the port's sake. Kalonei must weigh his craft against the trade, and find out whose war his fire would feed, and whether the Wardens would let it sail.
+: A foreign agent arrives in Orzara with an enormous order: enough charcoal to fire the forges of an army fitting out across the water for a war of conquest. The price would make Kalonei rich for life, and meeting it would mean bad wood and rushed burns. The brokers press him to accept for the outskirts' sake. Kalonei must weigh his craft against the trade, and find out whose war his fire would feed, and whether the City Watch would let it leave the city.
 
 The Contaminated Source
 : The coppiced woodland that has supplied his kilns for twenty years has been secretly cut by someone else and replanted with poor trees. Someone has sabotaged his supply on purpose, probably a rival, and Kalonei must find who, and decide whether to retaliate, move his kilns or find new wood without lowering his standards.
@@ -533,4 +533,4 @@ The Innovation Demand
 : A brilliant, impatient young inventor brings Kalonei a design for a new kiln that could burn three times as much without, he claims, losing quality, and backers among the great merchant houses are ready to pay for it. Kalonei is fascinated by the idea and deeply suspicious of speed and size. He must risk his name on an experiment or watch others build it without him.
 
 The Sacred Affront
-: The temple of Ústaron in the foreign quarter announces that it will pull down the old communal kilns that have burned behind the harbor for centuries and replace them with one great kiln-yard under its own management, a hotter and purer fire for the god. To Kalonei the old kilns are holy ground, where generations of charcoalers have worked and prayed. He must decide whether to oppose a priesthood he reveres, and whether he can win allies among the port's Kaliharans, for whom a practice kept exactly for centuries is not lightly changed.
+: The temple of Ústaron in Orzara announces that it will pull down the old communal kilns that have burned on the outskirts for generations and replace them with one great kiln-yard under its own management, a hotter and purer fire for the god. To Kalonei the old kilns are holy ground, where generations of charcoalers have worked and prayed. He must decide whether to oppose a priesthood he reveres, and whether he can win allies among the Kaliharans who have followed him across the sea, for whom a practice kept exactly for centuries is not lightly changed.

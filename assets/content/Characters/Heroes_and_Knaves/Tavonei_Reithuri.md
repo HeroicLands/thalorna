@@ -11,7 +11,7 @@ data:
   occupation: Caravan Guard
   lore: []
   culture: kaliharanclt
-  homes: [vashuran]
+  homes: [qudumel2]
   affiliations: {kalihara: {rank: 2}, lusinia: {rank: 1}}
   gender: male
   species: humanflk
@@ -422,11 +422,11 @@ Tavonei was born the seventh son of a cloth merchant of modest means in [[place-
 
 ### Service and Ascendance
 
-For twenty years Tavonei walked the coast road as a common guard and rose through the ranks. The road runs between the ports along the foot of the ridges, the only overland way the island allows a cargo to travel, and the trains on it carry what is too precious for a coaster's open deck: cut stones, pressed spice, the letters of credit the houses of [[place-ilovanu|Ilovanu]] honor among themselves. His method and his knack for smelling trouble before it came brought him to the great merchant houses, and by his thirties he was the guard the wealthiest factors asked for by name, at a price that matched his record. In fifteen years no train in his charge has lost a single bale. On the quays and in the factors' halls the record is a legend, and nobody is quite sure whether it is foresight or simple ruthlessness.
+For twenty years Tavonei walked the coast road of Kalihara as a common guard and rose through the ranks. The road runs between the ports along the foot of the ridges, the only overland way the island allows a cargo to travel, and the trains on it carry what is too precious for a coaster's open deck: cut stones, pressed spice, the letters of credit the houses of [[place-ilovanu|Ilovanu]] honor among themselves. His method and his knack for smelling trouble before it came brought him to the great merchant houses, and by his thirties he was the guard the wealthiest factors asked for by name, at a price that matched his record. In fifteen years no train in his charge has lost a single bale. On the quays and in the factors' halls the record is a legend, and nobody is quite sure whether it is foresight or simple ruthlessness.
 
 ### Present Circumstances
 
-Now forty, Tavonei faces questions he never expected. Every season more cargo goes by sea, on the fast coasters that run between the ports, and less goes by the road where he made his name. Younger guards who ride light and strike fast undercut his fees and take contracts he once had for the asking. The merchants still call him for the richest trains and the worst stretches of road, because he is the safest choice for a cargo that cannot be lost. He can change his ways, retire with the legend whole, or stake everything on the old method, certain it is right while the trade moves out from under him.
+Now forty, Tavonei lives in [[place-qudumel2|Kudumel]], the Taruzelian city across the sea from his island, where he took his trade when the coast road began to empty. At home more cargo went by sea every season, on the fast coasters that ran between the ports, and less by the road where he made his name. In Kudumel the caravans still come, up from the desert trails of the [[place-dunharargn|Dunhara Region]] and over the strait on the ferries to the Caravan Gate, and a guard who knows how to keep a train whole is worth his fee. Younger guards who ride light and strike fast undercut him here as they did at home and take contracts he once had for the asking. The merchants still call him for the richest trains and the worst stretches of trail, because he is the safest choice for a cargo that cannot be lost. He can change his ways, retire with the legend whole, or stake everything on the old method, certain it is right while the trade moves out from under him.
 
 ## Psyche
 
@@ -446,7 +446,7 @@ Dedication
 : in fifteen years no train in his charge has been robbed, and he would defend the record with his life.
 
 Knowledge of the road
-: he knows every bend of the coast road, its weather, its bad seasons, and which ridge tracks a smuggler would use, and he can feel trouble hours before it arrives.
+: he knows every bend of the coast road he grew up on and has learned the desert trails that feed Kudumel, their weather, their bad seasons and the tracks a smuggler would use, and he can feel trouble hours before it arrives.
 
 Command
 : he is not charming, and his guards obey him at once anyway, because his orders have always brought them home.
@@ -479,18 +479,18 @@ Age
 ### Patrons
 
 [House Thavoeli]{.name data-type="affiliation/venture"}
-: an Ilovanu merchant house in rare spice and cut stones, which has hired Tavonei for its three richest trains each year for over a decade. **Merchant-Prince [[being-anoriveithav|Anorivei Thavoeli]]** asks for him by name for any cargo bound to a foreign hull, and trusts no one else with goods worth a fortune.
+: an Ilovanu merchant house in rare spice and cut stones, which has hired Tavonei for its three richest trains each year for over a decade, and keeps a factor in Kudumel for the purpose. **Merchant-Prince [[being-anoriveithav|Anorivei Thavoeli]]** asks for him by name for any cargo bound to a foreign hull, and trusts no one else with goods worth a fortune.
 
 [The Silk Caravans Consortium]{.name data-type="affiliation/venture"}
-: an association of independent factors who pool their goods for the coast road. Tavonei is their first choice for the stretch between Vashurán and [[place-nalurithan|Nalurithan]], where the road runs closest under the ridges.
+: an association of independent factors in Kudumel's Caravansary Quarter who pool their goods for the desert trails. Tavonei is their first choice for the stretch between the Caravan Gate and the mainland shore, where the trail runs longest between wells.
 
 The Lady of [House Duravin]{.name data-type="affiliation/lineage"}
-: the widow of a foreign trading family long settled in the Ilovanu quarter, who hires Tavonei whenever she travels between the ports and values his discretion as much as his sword.
+: the widow of a foreign trading family long settled in the Ilovanu quarter, who hires Tavonei whenever she travels between Kalihara and Kudumel and values his discretion as much as his sword.
 
 ### Enemies
 
 [The Veiled Riders]{.name data-type="affiliation/criminal"}
-: a smuggling ring that tries to run goods off the coast road and up the ridge tracks toward the closed interior, past [[affiliation-wardensapproaches|the Wardens]], for buyers inland who want foreign things the island does not admit. They have never taken a train of Tavonei's, and every failure has made them hate him more. They have put a price on his head and are waiting for their chance.
+: a smuggling ring that ran goods off the coast road and up the ridge tracks toward the closed interior of Kalihara, past [[affiliation-wardensapproaches|the Wardens]], for buyers inland who want foreign things the island does not admit. Its agents now work the Caravansary Quarter, where the foreign goods are bought. They never took a train of Tavonei's, and every failure made them hate him more. They have put a price on his head and are waiting for their chance.
 
 [Revi the Scarlet]{.name data-type="being/npc"}
 : a younger, more charming guard captain who has been undercutting Tavonei's fees and taking contracts from merchants who want speed. The rivalry has turned personal, and each man sees the other as the end of his living.
@@ -498,15 +498,15 @@ The Lady of [House Duravin]{.name data-type="affiliation/lineage"}
 ### Affiliations
 
 [[affiliation-kalihara|Kalihara]]
-: Tavonei holds an islander's standing among the port [[lore-kaliharanclt|Kaliharan]] people, as a master of a trade the port depends on.
+: Tavonei holds an islander's standing among the [[lore-kaliharanclt|Kaliharan]] factors and sailors who work out of Kudumel, as a master of a trade they depend on.
 
 [[affiliation-lusinia|Faith of Lusinia]]
-: like many port Kaliharans, Tavonei keeps the foreigners' faith he grew up beside, and he lights a lamp to [[lore-lusiniadty|Lusinia]], the World-Weaver, in the Ilovanu temple before every long road.
+: like many port Kaliharans, Tavonei keeps the foreigners' faith he grew up beside, and he lights a lamp to [[lore-lusiniadty|Lusinia]], the World-Weaver, in Kudumel's Temple of Two Fires before every long road.
 
 ## Plot Hooks
 
 The Lost Crown Shipment
-: House Thavoeli hires Tavonei to take what he believes is an ordinary train down the coast road to a foreign hull waiting at Nalurithan. Halfway there he learns the bales hold the regalia of a deposed royal line from across the water, and that several parties are following the train with killing in mind. He can push on and watch his record break, or try the new methods he has always scorned.
+: House Thavoeli hires Tavonei to take what he believes is an ordinary train from the Caravan Gate to a foreign hull waiting at the Kudumel quay. Halfway there he learns the bales hold the regalia of a deposed royal line from across the water, and that several parties are following the train with killing in mind. He can push on and watch his record break, or try the new methods he has always scorned.
 
 The Apprentice's Betrayal
 : Tavonei takes on a young orphan, [Vaoleni]{.name data-type="being/npc"}, as an apprentice guard, seeing in him the raw talent he once had, and over a season on the road he grows almost fatherly toward the boy. Then Vaoleni is revealed as a Veiled Riders spy, sent to learn Tavonei's routes and habits. Tavonei must hunt him down while asking himself whether his own need to control everything made the opening his enemy used.
@@ -515,7 +515,7 @@ The Seer's Warning
 : A wandering seer, **Seer [[being-maithorinael|Maithori]]**, reads Tavonei's fortune and tells him his last journey is near and that it will break everything he believes about himself and his craft. He calls her a fraud and cannot forget her. When his next contract takes him somewhere his foresight fails, he begins to wonder whether fate, and not chance, is walking beside him.
 
 The Road Inland
-: A merchant consortium offers Tavonei a fortune to find a way across the island's interior, a crossing no port cargo has ever been allowed to make, through country the custodians have never opened. It would make his name for ever, or end his record and perhaps his life; and the Wardens would treat it as the Veiled Riders' crime with better paperwork. The offer forces him to decide whether he wants excellence or proof that he still matters.
+: A merchant consortium offers Tavonei a fortune to find a way across the interior of his home island, a crossing no port cargo has ever been allowed to make, through country the custodians have never opened. It would make his name for ever, or end his record and perhaps his life; and the Wardens would treat it as the Veiled Riders' crime with better paperwork. The offer forces him to decide whether he wants excellence or proof that he still matters.
 
 The Conspiracy Within
-: Tavonei notices discrepancies in the bills of lading, cargo swapped between stops and late-night meetings among his employers. Slowly he finds that someone high in the Consortium has been hiding contraband inside his guarded trains, bound for the same inland buyers the Veiled Riders serve. He must accuse powerful men without proof, protect his charges, and decide whether he owes more to the Wardens or to the merchants who made his legend.
+: Tavonei notices discrepancies in the bills of lading, cargo swapped between stops and late-night meetings among his employers. Slowly he finds that someone high in the Consortium has been hiding contraband inside his guarded trains, bound for the same inland buyers the Veiled Riders serve. He must accuse powerful men without proof, protect his charges, and decide whether he owes more to Kudumel's magistrates or to the merchants who made his legend.
