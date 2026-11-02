@@ -512,8 +512,8 @@ Church of Lizelas (Fire Aspect)
 [Bizarian Military Council]{.name data-type="affiliation/governmental"}
 : Spiritual advisor to commanders and overseer of pre-battle rituals
 
-[The Order of the Sacred Flame]{.name data-type="affiliation/order"}
-: An elite cadre of warrior-monks trained in both priestly and martial disciplines under his direct mentorship
+[Munzhar Itrinion]{.name data-type="affiliation/order"}
+: The Hearth-Fire Monks, an elite cadre of warrior-monks trained in both priestly and martial disciplines under his direct mentorship
 
 ## Plot Hooks
 

@@ -30,7 +30,7 @@ Most of the kingdom is upland forest: oak and beech on the lower slopes, pine an
 
 Most of the forest belongs to the temples. Each great temple of the holy city holds temple-estates in the uplands, tracts of forest with their villages, mills and charcoal grounds, and a priest called a prior governs each one for its temple. He keeps the estate court, collects the dues in coin, charcoal and days of labor, and decides which stands may be cut and by whom. A forester in the prior's service walks the stands and marks with an axe-blaze every tree that may be felled. Some temple forest is held by lay barons, families of no priestly office who hold it for rent and service and live in timber halls among their tenants. The crown holds forests of its own around the holy city and toward the Moktur mountains.
 
-The people of the kingdom live in villages of a few hundred, and their villages are of two kinds. **The lumber settlements** stand at the forest's edge where the cutting is: sawpits, timber yards, the turf-covered mounds of charcoal clamps smoking day and night, and the huts of fellers, sawyers, charcoal-burners and carters. They move when the cutting moves, and an old settlement leaves a clearing full of stumps and black earth behind it. **The woodcrafters' villages** stand in the valleys and stay put. Their street is a row of workshops with the doors open, where carvers, turners, coopers and joiners work the timber the lumber settlements send down, and their best work goes to the temples as altar-panels and screens.
+The people of the kingdom live in villages of a few hundred, and their villages are of two kinds. **The lumber settlements** stand at the forest's edge where the cutting is, such as [[place-kalderenna|Kalderenna]]: sawpits, timber yards, the turf-covered mounds of charcoal clamps smoking day and night, and the huts of fellers, sawyers, charcoal-burners and carters. They move when the cutting moves, and an old settlement leaves a clearing full of stumps and black earth behind it. **The woodcrafters' villages**, such as [[place-dremenna|Dremenna]], stand in the valleys and stay put. Their street is a row of workshops with the doors open, where carvers, turners, coopers and joiners work the timber the lumber settlements send down, and their best work goes to the temples as altar-panels and screens.
 
 Every temple-estate keeps a school, where a priest teaches the village children to read the prayers posted at the shrine and to reckon a weight of silver. A Nartunese charcoal-burner can usually read, which a tenant in Hilen seldom can.
 
@@ -52,6 +52,12 @@ The holy city of Nartun is the kingdom's one city. Its other people live in temp
 
 [[place-nartum|Nartun]] (~60,000)
 : the holy city, seat of the Holy Mother and the king.
+
+[[place-kalderenna|Kalderenna]] (~300)
+: a lumber settlement at the forest's edge, known for its charcoal.
+
+[[place-dremenna|Dremenna]] (~300)
+: a woodcrafters' village, home of the Damates carvers.
 
 ## See Also
 

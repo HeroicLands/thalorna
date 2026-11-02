@@ -11,7 +11,7 @@ data:
   occupation: Charcoaler
   lore: []
   culture: vylarianclt
-  homes: [nartumkngdm]
+  homes: [kalderenna]
   affiliations: {hlykngdmnrtm: {rank: 2}, sacredforge: {rank: 1}}
   gender: male
   species: humanflk
@@ -430,7 +430,7 @@ Most striking is the tattoo adorning his left forearm: a great tree with roots s
 
 ### The Forest's Gift
 
-Branakis was born in the remote lumber settlements at the edge of the great forests that define the borderlands of the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]]. His father was a timber harvester, and his mother the daughter of a charcoal maker—the trade seemed almost hereditary. From his earliest memories, Branakis was surrounded by the smell of wood smoke, the sound of saws cutting through living timber, and the essential knowledge that from fire and ash came the materials that civilization required to survive and flourish.
+Branakis was born in [[place-kalderenna|Kalderenna]], a lumber settlement at the edge of the great forests that define the borderlands of the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]]. His father was a timber harvester, and his mother the daughter of a charcoal maker—the trade seemed almost hereditary. From his earliest memories, Branakis was surrounded by the smell of wood smoke, the sound of saws cutting through living timber, and the essential knowledge that from fire and ash came the materials that civilization required to survive and flourish.
 
 Unlike many born to humble trades, Branakis received a real education—the Holy Kingdom's temples were unusually generous in extending basic literacy and knowledge to children of the lower orders. His mother, in particular, saw that he could read and calculate, understanding that such skills would elevate his craft beyond mere physical labor.
 

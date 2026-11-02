@@ -9681,6 +9681,8 @@ data:
     - {name: Palgezenna, tongue: vylari, built: [palgez-, -enna]}
     - {name: Huradenna, tongue: vylari, built: [hurad-, -enna]}
     - {name: Kedrilenna, tongue: vylari, built: [kedril-, -enna]}
+    - {name: Kalderenna, tongue: vylari, built: [kalder-, -enna]}
+    - {name: Dremenna, tongue: vylari, built: [drem-, -enna]}
     - {name: Lenthizenna, tongue: vylari, built: [lenthiz-, -enna]}
     - {name: Iltherenna, tongue: vylari, built: [ilther-, -enna]}
     - {name: Vylaria Region, tongue: translation}

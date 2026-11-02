@@ -11,7 +11,7 @@ data:
   occupation: Woodcrafter
   lore: []
   culture: vylarianclt
-  homes: [nartumkngdm]
+  homes: [dremenna]
   affiliations: {hlykngdmnrtm: {rank: 2}, olvenia: {rank: 1}}
   gender: male
   species: humanflk
@@ -424,7 +424,7 @@ Zadros stands 6'1" tall with a medium build. He has light tanned skin, dark brow
 
 **The Inherited Craft**
 
-Zadros was born into a family of woodcrafters in the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]], inheriting his profession and workshop as naturally as other children inherit a house. The [Damates Family Workshop]{.name data-type="affiliation/venture"} has existed for six generations, continuously occupying the same wooden building on the main street of their village, and his father, his grandfather, and his great-grandfather before them all practiced the craft of fine woodworking—the creation of objects that existed at the intersection of utility and beauty. From his earliest memories, Zadros was immersed in the sounds and scents of the workshop: the hiss of saw through wood, the sweet aroma of fresh shavings and linseed oil, the meditative rhythm of careful carving. His father was a patient teacher, and recognized that Zadros possessed a gift for understanding wood's properties and an almost supernatural ability to envision how a block of timber might be transformed into finished beauty.
+Zadros was born into a family of woodcrafters in the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]], inheriting his profession and workshop as naturally as other children inherit a house. The [Damates Family Workshop]{.name data-type="affiliation/venture"} has existed for six generations, continuously occupying the same wooden building on the main street of their village, [[place-dremenna|Dremenna]], and his father, his grandfather, and his great-grandfather before them all practiced the craft of fine woodworking—the creation of objects that existed at the intersection of utility and beauty. From his earliest memories, Zadros was immersed in the sounds and scents of the workshop: the hiss of saw through wood, the sweet aroma of fresh shavings and linseed oil, the meditative rhythm of careful carving. His father was a patient teacher, and recognized that Zadros possessed a gift for understanding wood's properties and an almost supernatural ability to envision how a block of timber might be transformed into finished beauty.
 
 **The Artisan's Mastery**
 
