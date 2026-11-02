@@ -12,7 +12,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [aelissium]
-  affiliations: {vylarinmpr: {rank: 4}, pozeras: {rank: 1}}
+  affiliations: {vylarinmpr: {rank: 4}, pozeras: {rank: 1}, seamensgld: {rank: 1}}
   gender: male
   species: humanflk
   born: 687.101
@@ -419,7 +419,7 @@ Long experience at sea, a natural leader on deck, a fine seaman.
 
 ## Social
 
-Arkalordas is on the roll of the [Seamen's Guild of Elissara]{.name data-type="affiliation/guild"}, whose mark is on his right arm, and hires by the voyage as the seamen of Vylaria do.
+Arkalordas is on the roll of the [[affiliation-seamensgld|Seamen's Guild of Elissara]], whose mark is on his right arm, and hires by the voyage as the seamen of Vylaria do.
 
 ## Companions
 

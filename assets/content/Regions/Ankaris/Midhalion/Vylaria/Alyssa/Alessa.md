@@ -73,6 +73,9 @@ Alessa is the most densely settled of the provinces. A carter can leave one town
 [[place-vennara|Vennara]] (about 6,000)
 : a villa-town in the hills, favored for senatorial country estates.
 
+[[place-skoraz|Soraks]] (about 4,000)
+: a road-city of empty colonnades at the end of the old north road, seat of the province's northern court and registry.
+
 **Villages and villa-estates.** Beyond the towns the heartland is a near-unbroken quilt of villages and country villas of 300–1,500 souls, among them [Aventis]{.name data-type="place/settlement"}, [Caldera]{.name data-type="place/settlement"}, [Tibrenna]{.name data-type="place/settlement"}, [Sorrenza]{.name data-type="place/settlement"}, [Marvale]{.name data-type="place/settlement"}, [Corennis]{.name data-type="place/settlement"}, [Vellano]{.name data-type="place/settlement"}, [Pradio]{.name data-type="place/settlement"}, [Sennara]{.name data-type="place/settlement"}, [Olivetta]{.name data-type="place/settlement"}, [Tarsenna]{.name data-type="place/settlement"}, [Quirnis]{.name data-type="place/settlement"}, [Belluno]{.name data-type="place/settlement"}, [Castellis]{.name data-type="place/settlement"}, [Florenza]{.name data-type="place/settlement"}, [Nervia]{.name data-type="place/settlement"}, [Ostrella]{.name data-type="place/settlement"} and [Aravenna]{.name data-type="place/settlement"}. Most lie within a half-day's road of a market town and a magistrate. These are only the named places; the great mass of Alessa's people live in countless smaller hamlets and farms between them.
 
 ## See Also

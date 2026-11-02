@@ -12,7 +12,7 @@ data:
   occupation: Village Elder
   lore: []
   culture: vylarianclt
-  homes: []
+  homes: [nartumkngdm]
   affiliations: {}
   gender: female
   species: humanflk

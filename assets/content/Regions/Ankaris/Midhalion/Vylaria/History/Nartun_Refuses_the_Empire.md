@@ -66,7 +66,7 @@ The secretary of a Nartunese priest-noble, briefing an envoy from [[place-orzara
 
 ## The Withdrawal
 
-The high priesthood of [[place-nartum|Nartun]], the oldest sacred city of the heartland, did not accept the answer. About 224 it withdrew from imperial obedience. It anointed a king of its own, [Daronos]{.name data-type="being/npc"}, the first to take the throne from the priesthood's hand, and raised the [Order of the Sacred Flame]{.name data-type="affiliation/order"}, a body of knights, to hold the city's walls and the land around it.
+The high priesthood of [[place-nartum|Nartun]], the oldest sacred city of the heartland, did not accept the answer. About 224 it withdrew from imperial obedience. It anointed a king of its own, [Daronos]{.name data-type="being/npc"}, the first to take the throne from the priesthood's hand, and raised the [[affiliation-sacredflame|Order of the Sacred Flame]], a body of knights, to hold the city's walls and the land around it.
 
 The Orzas sent legions to bring the city back. They reached Nartun in the autumn, found its gates shut and its knights on the walls, and turned back at the first winter. No Orzas has sent a second army.
 

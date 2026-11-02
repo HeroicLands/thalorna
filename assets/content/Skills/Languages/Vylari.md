@@ -823,6 +823,12 @@ data:
       field: "Law, the court and the written act"
       gloss: "a roll; the written list of a body's members"
       source: {kind: inherited, form: korwela}
+    - form: korvelos
+      class: n m
+      field: "Law, the court and the written act"
+      gloss: "a keeper of the roll; the officer who keeps a body's roll and its order"
+      source: {kind: coined}
+      built: ["korvel-", "-os"]
     - form: kuthreza
       class: n f
       field: "Law, the court and the written act"
@@ -1743,6 +1749,12 @@ data:
       gloss: "a guild's master on the council; the guild's man in the college of guilds"
       source: {kind: inherited}
       built: ["kelr-", "-os"]
+    - form: holkelros
+      class: n m
+      field: "Craft, guild and the kept secret"
+      gloss: "the first of a guilds' council; the kelros chosen to preside over a city's guilds"
+      source: {kind: coined}
+      built: ["hol-", kelros]
     - form: dremathen
       class: v
       field: "Craft, guild and the kept secret"
@@ -9447,6 +9459,18 @@ data:
     - {name: Elissara, tongue: vylari}
     - {name: Tevran of Elissara, tongue: translation}
     - {name: Tevran Member, tongue: translation}
+    - {name: Holkelros, tongue: vylari, built: ["hol-", kelros]}
+    - {name: Keeper of the Light, tongue: translation}
+    - {name: Kelros of the Watch, tongue: translation}
+    - {name: Zenothen Linthimis, tongue: vylari}
+    - {name: Seamen's Guild of Elissara, tongue: translation}
+    - {name: The Seamen's Guild, tongue: translation}
+    - {name: The Korvela, tongue: vylari, built: [korvela]}
+    - {name: Hand, tongue: translation}
+    - {name: Korvelos, tongue: vylari, built: ["korvel-", "-os"]}
+    - {name: Marker, tongue: translation}
+    - {name: Volkema Satheris, tongue: vylari}
+    - {name: Iltheros Gurimandis, tongue: vylari}
     - {name: Alessa, tongue: vylari}
     - {name: Alessar, tongue: vylari}
     - {name: Belekos, tongue: vylari}

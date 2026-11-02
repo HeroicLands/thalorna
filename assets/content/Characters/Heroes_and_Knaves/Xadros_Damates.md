@@ -11,7 +11,7 @@ data:
   occupation: Woodcrafter
   lore: []
   culture: vylarianclt
-  homes: [sanctara]
+  homes: [nartumkngdm]
   affiliations: {hlykngdmnrtm: {rank: 2}, olvenia: {rank: 1}}
   gender: male
   species: humanflk

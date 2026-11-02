@@ -212,7 +212,7 @@ Some **21 million** people live under direct imperial governance in the four cor
 [[affiliation-provincvld|Salkalon]]
 : the coastal province on the [[place-vylarianse|Vylarian Sea]], home of the shipyards and naval bases; its merchants have the most dealings with Taruzel and Helionis, which makes it the most cosmopolitan and commercial province.
 
-The [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]], an independent Vylari-speaking realm, shares the empire's culture and language but keeps its own sovereignty and a theocratic devotion to Aureldian worship.
+The [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]], an independent Vylari-speaking realm in the forested uplands of the [[place-nartumkngdm|Nartun Kingdom]], shares the empire's culture and language but keeps its own sovereignty and a theocratic devotion to Aureldian worship.
 
 ## Military
 
