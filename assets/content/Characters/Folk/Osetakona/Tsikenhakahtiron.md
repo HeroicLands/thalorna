@@ -40,6 +40,6 @@ Tsikenhakahtiron, Holds Copper, of the Otter clan, is the speaker of [[place-kah
 
 Hammerstone sells copper to the traders of the [[affiliation-tokchiaska|One Fire]] every summer, by way of the [[place-kahsiotargn|Falls Country]] and the rivers south, and the One Fire's warriors carry copper-headed clubs into the valleys of the River People. The River People's speakers have asked the great council three times to stop the trade, and three times Hammerstone has refused to agree. A council of the Grove decides nothing until every nation agrees, so the copper still goes south. Copper, Tsikenhakahtiron says, is the Copper People's maize, and a village does not stop planting because someone might steal its corn. The River People's speakers answer that it is their corn being stolen.
 
-His clan mother, [Kenrisatsiotie]{.name data-type="being/npc"}, has not told him which answer she wants him to give at the next council, and the village knows she is thinking about it.
+His clan mother, [[being-kenrisatsiotie|Kenrisatsiotie]], has not told him which answer she wants him to give at the next council, and the village knows she is thinking about it.
 
 What he wants is the copper trade kept open, and Hammerstone's right to sell its own copper with it.

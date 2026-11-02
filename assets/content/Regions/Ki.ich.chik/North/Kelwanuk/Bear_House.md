@@ -64,7 +64,7 @@ The **Bear House**, the _lamekanuk_, is the noble house of Lamekis, the southern
 
 ## Membership
 
-The house holds its chief and his kin, its nobles with their names and seats, its commoners and its slaves, as every house does, and its branches fill the double row behind the great house. The chief is [[being-yaldukita|Yaldukita]], Gives Wealth, the third of his house to hold its highest name and the first to make it matter. His Keeper of the Count is his mother's sister, [Tsamalkalu]{.name data-type="being/npc"}, Counts the Salmon, who has kept the house's count for thirty years and has never been wrong in public.
+The house holds its chief and his kin, its nobles with their names and seats, its commoners and its slaves, as every house does, and its branches fill the double row behind the great house. The chief is [[being-yaldukita|Yaldukita]], Gives Wealth, the third of his house to hold its highest name and the first to make it matter. His Keeper of the Count is his mother's sister, [[being-tsamalkalu|Tsamalkalu]], Counts the Salmon, who has kept the house's count for thirty years and has never been wrong in public.
 
 ## Standing
 

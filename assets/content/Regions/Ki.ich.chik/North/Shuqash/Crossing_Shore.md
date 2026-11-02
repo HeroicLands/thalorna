@@ -27,7 +27,7 @@ The living go out to the ledge for the [Feast of Strands]{.name data-type="lore/
 
 ## The Town
 
-Hipal Halaq is a fishing town that lives on the dead. Its chief, [Tiyuplesh]{.name data-type="being/npc"}, Sky Running, keeps the path, the pool and the ledge, and takes a bead in ten of every mourner's gift, as any chief takes from a cargo landed on his beach. The astronomer-priests keep a house at the landward end of the path, and the town's best houses stand nearest it.
+Hipal Halaq is a fishing town that lives on the dead. Its chief, [[being-tiyuplesh|Tiyuplesh]], Sky Running, keeps the path, the pool and the ledge, and takes a bead in ten of every mourner's gift, as any chief takes from a cargo landed on his beach. The astronomer-priests keep a house at the landward end of the path, and the town's best houses stand nearest it.
 
 :::secret {title="The strands in the surf"}
 The strands thrown from the ledge land on a rock shelf that the lowest tides of the year uncover. Every winter the town's divers bring up what the surf has not scattered, and the chief and the astronomer-priests of the house divide it. Tiyuplesh holds that the strands have already paid for the crossing by the time they reach the shelf, and that what the sea leaves is the town's. The Sky Elder knows of the practice and has not stopped it. The dives are made at night, and the secret is the town's most valuable possession: the Feast of Strands, and the priests' fees for it, depend on every family believing that its strands went across with its dead.

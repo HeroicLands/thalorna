@@ -33,7 +33,7 @@ The Third Gathering won the town back without a war. [Tamoska]{.name data-type="
 
 ## The Eastern Mothers
 
-The Mound Chief is [Lofamme]{.name data-type="being/npc"}, a cautious Noble who keeps the town's tribute exact and its warriors home. The voice the town listens to belongs to [Tinkapi]{.name data-type="being/npc"}, eldest woman of the house descended from Apiyo's sister. The heartland ranks her line as Nobles. In Tokchi Hinchaka her household is called the Eastern Mothers, she is served at feasts before the Mound Chief, and the town's clan mothers bring their quarrels to her before they bring them to anyone else.
+The Mound Chief is [Lofamme]{.name data-type="being/npc"}, a cautious Noble who keeps the town's tribute exact and its warriors home. The voice the town listens to belongs to [[being-tinkapi|Tinkapi]], eldest woman of the house descended from Apiyo's sister. The heartland ranks her line as Nobles. In Tokchi Hinchaka her household is called the Eastern Mothers, she is served at feasts before the Mound Chief, and the town's clan mothers bring their quarrels to her before they bring them to anyone else.
 
 :::secret {title="The fire in the hills"}
 

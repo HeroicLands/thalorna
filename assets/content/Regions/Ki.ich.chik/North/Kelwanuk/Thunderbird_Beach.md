@@ -25,13 +25,13 @@ The beach at Gwemlasis is never empty of canoes, and most of them are not finish
 
 A war canoe (_yakwis_) of Gwemlasis begins as a standing cedar in the island forest, chosen by a builder who has walked to it, spoken to it and asked it to give. The builder fells it with fire and wedges, roughs out the hull where it lies, and leaves it a winter to season before the village drags it down to the beach. On the beach it is hollowed, steamed, spread and finished, and the bow and stern pieces are carved and pegged on. A canoe for forty paddlers takes two years.
 
-The master builder of the Thunderbird House is [Kelwatsuma]{.name data-type="being/npc"}, Carves the Cedar, a commoner who has built more war canoes than any man living. He works for his chief, and the price of every canoe goes into the chief's boxes. Kelwatsuma has no seat at any feast, and every war canoe that took a captive in the last twenty years was his work. He says he builds canoes, and that what the buyers put in them is the buyers' affair.
+The master builder of the Thunderbird House is [[being-kelwatsuma|Kelwatsuma]], Carves the Cedar, a commoner who has built more war canoes than any man living. He works for his chief, and the price of every canoe goes into the chief's boxes. Kelwatsuma has no seat at any feast, and every war canoe that took a captive in the last twenty years was his work. He says he builds canoes, and that what the buyers put in them is the buyers' affair.
 
 ## The House That Sat First
 
 The Thunderbird is a crest of the first houses, and the Thunderbird House says that it sat first on the coast for longer than anyone can count, until the Eagle House climbed past it four generations of chiefs ago. Its people say the Eagle House climbed on canoes the Thunderbird House sold it. They say it without bitterness, because the Thunderbird House does not think it has finished.
 
-The chief of the Thunderbird House is [Dusdoltalwa]{.name data-type="being/npc"}, Thunder Speaks. He sells canoes to every house that pays, and he has sold six to the Bear House of [[place-lamekis|Lamekis]] in five years, more than to any other house. The Bear House pays in beads from the south, and it is climbing the order of seats faster than any house in living memory. Dusdoltalwa has not said whether he is helping it climb or helping it climb past the Eagle House and then fall, and the Thunderbird House rises in either case.
+The chief of the Thunderbird House is [[being-dusdoltalwa|Dusdoltalwa]], Thunder Speaks. He sells canoes to every house that pays, and he has sold six to the Bear House of [[place-lamekis|Lamekis]] in five years, more than to any other house. The Bear House pays in beads from the south, and it is climbing the order of seats faster than any house in living memory. Dusdoltalwa has not said whether he is helping it climb or helping it climb past the Eagle House and then fall, and the Thunderbird House rises in either case.
 
 ## The Village
 

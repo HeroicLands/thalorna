@@ -36,7 +36,7 @@ The healers (_ehniatehen_) answer them. A healer is one who was sick and was cur
 
 The healers go through every village twice a year, at the thaw and in the Long Night, wearing their Faces and shaking rattles of dried corn husk. They go into every longhouse, sprinkle the sick with sap and warm water, and drive the Faces' mischief out through the smoke hole. A household that has a sickness between those visits sends for a healer, who comes with a Face in a bag and asks the sick person what they have dreamed.
 
-The eldest healer at [[place-ostakaten|Ostakaten]] is [Kwentsatiatoren]{.name data-type="being/npc"}, Moon Answers, a woman of the Porcupine clan who was healed of a fever at six and has worn a Face for fifty years. She is said to read a dream from its first three words.
+The eldest healer at [[place-ostakaten|Ostakaten]] is [[being-kwentsatiatoren|Kwentsatiatoren]], Moon Answers, a woman of the Porcupine clan who was healed of a fever at six and has worn a Face for fifty years. She is said to read a dream from its first three words.
 
 ## The Dreams
 
@@ -72,7 +72,7 @@ The Answering has one rule above the others, and it is the Grove's rule for ever
 
 The hunting bands coming south into the [[place-tsitarargn|Pine Country]] answer their powers differently. Their spirit-doctors shut themselves at night in a small closed lodge of bark and poles, and from inside it they call the powers in. The lodge shakes, voices speak from it that are not the doctor's, and the doctor comes out knowing where the caribou are, where a lost man lies, or what a distant kinsman is doing. The bands hold it the most honest of practices, because the powers speak for themselves.
 
-The Pine People's speaker [Okwiahasterio]{.name data-type="being/npc"} has let one such doctor build his lodge outside the village's palisade, and goes to hear him. The healers of the Grove call it witchcraft: a power answered in the dark, behind bark walls, where no one can see what is asked or given. Okwiahasterio answers that the doctor's lodge is the most public thing in the village, since everyone hears it shake. The question has gone to the great council, and the great council is still talking. It has grown harder this year, because the Dawn People have quietly asked whether a doctor in a closed lodge can see across the sea, and where four people taken over it might be.
+The Pine People's speaker [[being-okwiahasterio|Okwiahasterio]] has let one such doctor build his lodge outside the village's palisade, and goes to hear him. The healers of the Grove call it witchcraft: a power answered in the dark, behind bark walls, where no one can see what is asked or given. Okwiahasterio answers that the doctor's lodge is the most public thing in the village, since everyone hears it shake. The question has gone to the great council, and the great council is still talking. It has grown harder this year, because the Dawn People have quietly asked whether a doctor in a closed lodge can see across the sea, and where four people taken over it might be.
 
 ## See Also
 

@@ -40,11 +40,11 @@ Tsiorhensiwen of the Loon clan is the clan mother of [[place-tsiorhenten|Dawn Pl
 
 The village's young men demanded a mourning war to raise the six names, and there was no one to take captives from: the men from the water had gone back into the sea, and the only people within reach were the hunting bands of the northern woods, who had done the Dawn People no harm. Tsiorhensiwen refused the war. She raised two of the six names onto children born that winter and left the other four lying down until there was a better answer. The four who were carried off she does not count as dead, and their names are held, neither lying down nor given, in a way no clan mother of the Grove has had to manage before. Then she moved the village a day's walk inland, a year before its fields gave out, to a clearing among spruce hills with no view of the water.
 
-The women of the Dawn People hold her up as what a woman should be. Her cost is plain: her longhouses are short of hands, the young men call her old and cold, and the Dawn People's council has not stopped arguing about her. The young men's war leader, [Atoniatienha]{.name data-type="being/npc"}, has agreed to wait one more year before taking a canoe along the coast to look for the men from the water.
+The women of the Dawn People hold her up as what a woman should be. Her cost is plain: her longhouses are short of hands, the young men call her old and cold, and the Dawn People's council has not stopped arguing about her. The young men's war leader, [[being-atoniatienha|Atoniatienha]], has agreed to wait one more year before taking a canoe along the coast to look for the men from the water.
 
 :::secret {title="The belt over the sea"}
 
-The raiders also took the Dawn People's joining belt, the memory belt that records the day they came into the Grove. Only Tsiorhensiwen and the rememberer, [Tsihkwakariote]{.name data-type="being/npc"} of the Loon clan, know it is gone. The rememberer is stringing a new belt from memory, at night, in a closed longhouse, and means to carry it to the next great council as the old one. In a people that holds secrecy to be the root of evil, the two women are doing the one thing the Grove calls witchcraft.
+The raiders also took the Dawn People's joining belt, the memory belt that records the day they came into the Grove. Only Tsiorhensiwen and the rememberer, [[being-tsihkwakariote|Tsihkwakariote]] of the Loon clan, know it is gone. The rememberer is stringing a new belt from memory, at night, in a closed longhouse, and means to carry it to the next great council as the old one. In a people that holds secrecy to be the root of evil, the two women are doing the one thing the Grove calls witchcraft.
 
 :::
 

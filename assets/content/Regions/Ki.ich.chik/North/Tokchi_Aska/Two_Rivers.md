@@ -33,7 +33,7 @@ The town's mound stands at the bluff's edge, high enough to see both rivers for 
 
 ## The Mound Chief
 
-The Mound Chief, [Liyahi]{.name data-type="being/npc"}, is a Noble of about forty who has smoked the red pipe with more Maple People than any man of the heartland. He collects the town's maize and earth, judges its clans, leads its warriors and keeps the peace of the landing. Every summer he sees off the One Fire's delegates to the [[affiliation-redstncmpct|Red Stone Compact]], who go up the great river from his landing toward the [Red Quarry]{.name data-type="place/site"}, and every autumn he sends war parties up the eastern valleys against the Maple People's new villages. He sees no contradiction in either.
+The Mound Chief, [[being-liyahi|Liyahi]], is a Noble of about forty who has smoked the red pipe with more Maple People than any man of the heartland. He collects the town's maize and earth, judges its clans, leads its warriors and keeps the peace of the landing. Every summer he sees off the One Fire's delegates to the [[affiliation-redstncmpct|Red Stone Compact]], who go up the great river from his landing toward the [Red Quarry]{.name data-type="place/site"}, and every autumn he sends war parties up the eastern valleys against the Maple People's new villages. He sees no contradiction in either.
 
 ## What the Town Argues About
 

@@ -27,7 +27,7 @@ The flint lies in a layer of gravel just under the soil of the bluffs, in lumps 
 
 The pits belong to the lodge owners (_moshenka_) of the village, each lodge to its own stretch of the bluff, and pass from mother to daughter with the lodge. A band that wants to dig asks the lodge owner whose ground it is, pays her in meat or robes, and digs. Nobody refuses a band, and nobody digs without asking. A band that digs on a lodge's ground unasked has its blanks taken off it at the foot of the bluff, and the villages tell that story with relish, because it happens every few summers and is always a young war leader in a hurry.
 
-The lodge owner whose stretch of bluff is largest is [Loshiwinte]{.name data-type="being/npc"}, Gives Corn, a broad, cheerful woman in her fifties who speaks for the pits at the autumn trading. She has quilled eagle feathers into the hair of three husbands and outlived two of them, and she is said to know the worth of a flint blank by its sound when she drops it.
+The lodge owner whose stretch of bluff is largest is [[being-loshiwinte|Loshiwinte]], Gives Corn, a broad, cheerful woman in her fifties who speaks for the pits at the autumn trading. She has quilled eagle feathers into the hair of three husbands and outlived two of them, and she is said to know the worth of a flint blank by its sound when she drops it.
 
 ## The Eagle Pits
 

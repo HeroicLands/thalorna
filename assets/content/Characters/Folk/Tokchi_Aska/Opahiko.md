@@ -46,6 +46,12 @@ Two Shell Chiefs have already sent canoes down the gulf coast, and one came back
 
 :::
 
-The Sun Mother, [Shimaya]{.name data-type="being/npc"}, has not yet named his heir. Her son, the Falcon Chief [[being-naksochi|Naksochi]], wants a war before the Great Sun dies, to win the choice and to give the Keepers their following. Her sister's son, [Sohiyo]{.name data-type="being/npc"}, was the coast's pledge for thirteen years, and the Shell Chiefs call him their own.
+The Sun Mother, [[being-shimaya|Shimaya]], has not yet named his heir. Her son, the Falcon Chief [[being-naksochi|Naksochi]], has led three wars west, and the Keepers of the Fire favor him. Her sister's son, [[being-sohiyo|Sohiyo]], was the coast's pledge for thirteen years, and the Shell Chiefs call him their own.
+
+:::secret {title="The Falcon Chief's war"}
+
+Naksochi wants a war before the Great Sun dies, to win the choice and to give the Keepers their following.
+
+:::
 
 What he wants is to die without his funeral breaking the Gathering.

@@ -35,7 +35,7 @@ From the thaw to the first snow the Dawn Place keeps watchers on the headland ab
 
 The clan mother of the Loon clan is the village's first voice, and the Dawn People's council is still arguing about her. She refused a mourning war after the raid, because there was no one within reach who had done the village harm. She raised two of the six names onto children born in the winter, and left the other four lying down. The four who were carried off she has not counted as dead. Their names are held, neither lying down nor given, in a way no clan mother of the Grove has had to manage before, and their places at the fires stand empty.
 
-The young men call her old and cold, and some of them want to take a canoe out along the coast to look for the men from the water. Their war leader, [Atoniatienha]{.name data-type="being/npc"}, has agreed to wait one more year.
+The young men call her old and cold, and some of them want to take a canoe out along the coast to look for the men from the water. Their war leader, [[being-atoniatienha|Atoniatienha]], has agreed to wait one more year.
 
 ## What the Village Argues About
 
@@ -45,7 +45,7 @@ The Dawn Place has two quarrels. The first is the Feast of Bones: the old villag
 
 The men from the water took more than four people. They took the Dawn People's joining belt, the memory belt of white and purple beads that records the day the Dawn People came into the Grove, which the nation's rememberer kept in her longhouse at the old village. It is now on a shelf in a jarl's house across the ocean, among things nobody there can read.
 
-Only Tsiorhensiwen and the rememberer, [Tsihkwakariote]{.name data-type="being/npc"} of the Loon clan, know it is gone. A nation whose joining belt is lost has, by the Grove's own reckoning, nothing to show for its place in the Grove, and the Falls People's clan mothers have never liked the Dawn People's claims. So the rememberer is stringing a new belt from memory, at night, in a closed longhouse, row by row, and means to carry it to the next great council as the old one. In a people that holds secrecy to be the root of evil, the two women are doing the one thing the Grove calls witchcraft. They have also, without knowing it, given the people across the sea a reason to come back: the belt is the most discussed thing in the jarl's house.
+Only Tsiorhensiwen and the rememberer, [[being-tsihkwakariote|Tsihkwakariote]] of the Loon clan, know it is gone. A nation whose joining belt is lost has, by the Grove's own reckoning, nothing to show for its place in the Grove, and the Falls People's clan mothers have never liked the Dawn People's claims. So the rememberer is stringing a new belt from memory, at night, in a closed longhouse, row by row, and means to carry it to the next great council as the old one. In a people that holds secrecy to be the root of evil, the two women are doing the one thing the Grove calls witchcraft. They have also, without knowing it, given the people across the sea a reason to come back: the belt is the most discussed thing in the jarl's house.
 
 :::
 

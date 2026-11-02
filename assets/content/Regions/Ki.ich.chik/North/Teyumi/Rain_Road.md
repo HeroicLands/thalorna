@@ -80,7 +80,7 @@ This summer at [[place-yaahosa|Yaahosa]], on the last day of the rain dances, tw
 
 The Dry Search is the part of the faith the Turquoise People argue about, and the argument is the one the [[lore-teyumiclt|Teyumi]] culture note sets out. The search always lands on the hungry, the angry, the odd and the old, and it has never once named a great-house kinsman. The elders who defend it say that the doctrine of the calm heart is sound and that the great houses have only ever failed it. The elders who oppose it ask what the rain is answering, if it answers the search.
 
-The bear doctors are on both sides. [Huvowesa]{.name data-type="being/npc"} of the Bear clan, the oldest bear doctor in the canyon, would lead the search at the feast if it is held. The last Dry Search he took part in, as a boy carrying the meal, named his mother, who walked out of her town with her sister and was never heard of again. He has not said whether he will lead this one.
+The bear doctors are on both sides. [[being-huvowesa|Huvowesa]] of the Bear clan, the oldest bear doctor in the canyon, would lead the search at the feast if it is held. The last Dry Search he took part in, as a boy carrying the meal, named his mother, who walked out of her town with her sister and was never heard of again. He has not said whether he will lead this one.
 
 ## See Also
 

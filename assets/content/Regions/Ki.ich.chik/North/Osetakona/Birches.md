@@ -29,7 +29,7 @@ On the grass side of the palisade, a long bowshot out, stands a ring of posts wi
 
 ## Skahniotiaro
 
-The village's speaker was born among the [[affiliation-tenlaya|Grass People]] and taken in a mourning war at nine. An Elk clan mother of Birches, [Kaniestrakerens]{.name data-type="being/npc"}, Birch Hears, adopted him in place of a son who had drowned, and six years ago she named him her clan's speaker. He speaks both tongues, and he has twice carried a compact pipe out across the grass to his birth people and twice brought home a truce. Kaniestrakerens is old now and sits by the fire, and the village's clan mothers ask her first.
+The village's speaker was born among the [[affiliation-tenlaya|Grass People]] and taken in a mourning war at nine. An Elk clan mother of Birches, [[being-kaniestrakerens|Kaniestrakerens]], Birch Hears, adopted him in place of a son who had drowned, and six years ago she named him her clan's speaker. He speaks both tongues, and he has twice carried a compact pipe out across the grass to his birth people and twice brought home a truce. Kaniestrakerens is old now and sits by the fire, and the village's clan mothers ask her first.
 
 Skahniotiaro goes to the Red Quarry each summer as one of the Grove's delegates, because the Red Quarry is a few days' walk from Birches and no speaker of the Grove talks to the Grass People better. He is the poorest man in the village and the best fed.
 

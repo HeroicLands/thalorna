@@ -33,11 +33,11 @@ The village stands above the rapids, and the rapids are its living. Every canoe 
 
 Inside the palisade stand thirty-five longhouses and a council house. Below the village, at the foot of the rapids, the Rapids People keep eel weirs and fishing stages, and in the autumn run the whole village goes down to the river.
 
-The village's rememberer is [Ohnakensakwenta]{.name data-type="being/npc"}, Remembers the Corn, an old blind man of the Crane clan who is said to know the Founding better than any rememberer at the Kettle. The other rememberers come to First Sugar to check their recitations against his, and he sends them home corrected.
+The village's rememberer is [[being-ohnakensakwenta|Ohnakensakwenta]], Remembers the Corn, an old blind man of the Crane clan who is said to know the Founding better than any rememberer at the Kettle. The other rememberers come to First Sugar to check their recitations against his, and he sends them home corrected.
 
 ## What the Village Wants
 
-The Rapids People are the Grove's second nation, and they are tired of being second. The great council has sat in the Falls People's villages for most of eleven generations, and the Kettle is about to move again. The Dawn People want it moved to the sea, the Falls People want it to stay among their own villages, and the clan mother [Osetarahion]{.name data-type="being/npc"} of First Sugar has offered her village, which stands between the two, beside the First Grove where the Grove began. She has sent sugar from the First Grove to every clan mother of the Falls People with the offer. None has answered, and the Rapids People know that a Falls clan mother who does not answer has not said no.
+The Rapids People are the Grove's second nation, and they are tired of being second. The great council has sat in the Falls People's villages for most of eleven generations, and the Kettle is about to move again. The Dawn People want it moved to the sea, the Falls People want it to stay among their own villages, and the clan mother [[being-osetarahion|Osetarahion]] of First Sugar has offered her village, which stands between the two, beside the First Grove where the Grove began. She has sent sugar from the First Grove to every clan mother of the Falls People with the offer. None has answered, and the Rapids People know that a Falls clan mother who does not answer has not said no.
 
 ## See Also
 

@@ -29,11 +29,11 @@ The carvers' quarter lies along the main canal. Its craftsmen cut masks, animal 
 
 ## The Shell Chief
 
-The Shell Chief is [Otoki]{.name data-type="being/npc"}, a broad, slow-spoken man of about fifty whose family has held the summit house for as long as the coast remembers. Thirty smaller towns send him tribute, and he sends part of it up the river to [[place-hayopokta|Hayo Pokta]] in shell, dried fish and canoes. At every New Fire he stands on the summit before the town and recites the [Shell Promise]{.name data-type="lore/law"} word for word before he takes the coal, with a Keeper sent down from the great mound standing beside him to say that the promise is kept. Otoki recites it louder than any Shell Chief on the coast.
+The Shell Chief is [[being-otoki|Otoki]], a broad, slow-spoken man of about fifty whose family has held the summit house for as long as the coast remembers. Thirty smaller towns send him tribute, and he sends part of it up the river to [[place-hayopokta|Hayo Pokta]] in shell, dried fish and canoes. At every New Fire he stands on the summit before the town and recites the [Shell Promise]{.name data-type="lore/law"} word for word before he takes the coal, with a Keeper sent down from the great mound standing beside him to say that the promise is kept. Otoki recites it louder than any Shell Chief on the coast.
 
 ## The Sun's Pledge
 
-A house on the second terrace belongs to the Suns. Since the Shell Promise was made, the Sun Mother has sent one boy of the Suns to be raised in Koyo Hasko as the pledge of it, and he lives there from his seventh year to his twentieth, eats the coast's fish and learns to handle a canoe on the gulf. The pledge before the present boy, [Sohiyo]{.name data-type="being/npc"}, is now a man of thirty and back on the great mound, a son of the Sun Mother's sister and one of the Suns she can choose from. The coast calls him its own Sun, and he speaks Tokchili with a salt accent.
+A house on the second terrace belongs to the Suns. Since the Shell Promise was made, the Sun Mother has sent one boy of the Suns to be raised in Koyo Hasko as the pledge of it, and he lives there from his seventh year to his twentieth, eats the coast's fish and learns to handle a canoe on the gulf. The pledge before the present boy, [[being-sohiyo|Sohiyo]], is now a man of thirty and back on the great mound, a son of the Sun Mother's sister and one of the Suns she can choose from. The coast calls him its own Sun, and he speaks Tokchili with a salt accent.
 
 ## The Shell Fair
 

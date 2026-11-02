@@ -27,7 +27,7 @@ Every canoe that lands here pays the chief a bead in ten of its cargo, and the c
 
 ## The Chief and the Sky Elder
 
-The chief is [Shuqkanan]{.name data-type="being/npc"}, Bright Bead, a woman of about fifty whose own marriage and her five daughters' marriages tie Kulaywil to six other towns. Her storehouse beside her house holds more beads than some islands, and her midwinter feasts feed the chiefs of half the coast. She has never joined a quarrel between towns, and every quarrel on the coast comes to her house sooner or later.
+The chief is [[being-shuqkanan|Shuqkanan]], Bright Bead, a woman of about fifty whose own marriage and her five daughters' marriages tie Kulaywil to six other towns. Her storehouse beside her house holds more beads than some islands, and her midwinter feasts feed the chiefs of half the coast. She has never joined a quarrel between towns, and every quarrel on the coast comes to her house sooner or later.
 
 On a rise behind the town stands the astronomer-priests' house, a round reed house with a sunken floor, and beside it a sacred ground of packed earth where the sun pole is raised at midwinter. The Sky Elder, [[being-tiyupliq|Tiyupliq]], Clear Sky, lives there and keeps the [Measure of Kulaywil]{.name data-type="lore/custom"}, the cord every town's strands are checked against, wrapped in otter skin in a basket sealed with tar.
 

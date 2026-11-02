@@ -35,7 +35,7 @@ When the Great Sun calls a war against the plains, the Falcon Chief, the _Kiyo I
 
 The town fights the plains and feeds on them. Every autumn, under the red pipe, the plains bands bring robes, dried meat, fat and hides to a trading ground below the outer wall, and the town's women trade maize, beans, pots and tobacco for them. Every spring and summer, when the pipe kinship has lapsed, young men of the bands come back to take maize, captives and names. The town's own young men go out the other way for the same reasons. Captives cross the grass in both directions, and some of the town's households have a grandmother who was born in a plains lodge.
 
-The Mound Chief, [Ikinko]{.name data-type="being/npc"}, is an old warrior who knows the plains band leaders by name and wants the autumn trade more than another war. He and Naksochi are civil to each other in the falcon house.
+The Mound Chief, [[being-ikinko|Ikinko]], is an old warrior who knows the plains band leaders by name and wants the autumn trade more than another war. He and Naksochi are civil to each other in the falcon house.
 
 :::secret {title="The Falcon Chief's war"}
 

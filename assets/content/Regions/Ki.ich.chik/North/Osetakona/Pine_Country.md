@@ -41,7 +41,7 @@ The hunting bands of the far woods have always come south in summer to trade fur
 
 The Pine People's villages are divided over what to do with them. Some clan mothers want to adopt them, family by family, as the Grove has always taken in captives, and raise the names that sickness has left lying down. Some want to trade with them and keep them outside the palisade. The young men want to drive them off before they are too many. The bands, for their part, have not asked to be adopted, and do not want their names laid down.
 
-The Pine People's speaker [Okwiahasterio]{.name data-type="being/npc"}, Watches the Bear, has taken a band's spirit-doctor into his village, and the healers of the Grove call it witchcraft. The quarrel belongs to the [[lore-tiatorenhsa|Answering]], the faith of the Grove.
+The Pine People's speaker [[being-okwiahasterio|Okwiahasterio]], Watches the Bear, has taken a band's spirit-doctor into his village, and the healers of the Grove call it witchcraft. The quarrel belongs to the [[lore-tiatorenhsa|Answering]], the faith of the Grove.
 
 ## What Moves Through It
 

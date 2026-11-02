@@ -5924,6 +5924,8 @@ data:
         - "kalgaqmalu"
         - "kilnaqaklu"
         - "nalvaqkuvla"
+        - "kavrukali"
+        - "tikukuvla"
     village: ["kavrumiq", "napamiq", "taqvamiq", "imlak kagaq", "simi manik"]
   sounds:
     edges: [{edge: closeConsonant, sounds: [q, k, n, t]}]
@@ -5999,6 +6001,8 @@ data:
     - {name: kalgaqmalu, tongue: tikupilarit, built: [kalgaq, malu]}
     - {name: kilnaqaklu, tongue: tikupilarit, built: [kilnaq, aklu]}
     - {name: nalvaqkuvla, tongue: tikupilarit, built: [nalvaq, kuvla]}
+    - {name: kavrukali, tongue: tikupilarit, built: [kavru, kali]}
+    - {name: tikukuvla, tongue: tikupilarit, built: [tiku, kuvla]}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -6106,7 +6110,7 @@ A child is named for the most recent of the village's dead, or for one of its ow
 
 **Women's names:** Taluqivi, Kilnaqivi, Pinaqaklu, Nalaqkalvi, Aliqkalvi, Nalikmalu, Qalaktayu, Nagaqkali
 
-**Men's names:** Kavrukuvla, Piqanmalu, Imlakaklu, Tikumalu, Nalaqmalu, Kalgaqmalu, Kilnaqaklu, Nalvaqkuvla
+**Men's names:** Kavrukuvla, Piqanmalu, Imlakaklu, Tikumalu, Nalaqmalu, Kalgaqmalu, Kilnaqaklu, Nalvaqkuvla, Kavrukali, Tikukuvla
 
 **Villages:** Kavrumiq (Walrus Place), Napamiq (Cliff Place), Taqvamiq (Weir Place), Imlak Kagaq (Whale Point), Simi Manik (Trading Shore)
 

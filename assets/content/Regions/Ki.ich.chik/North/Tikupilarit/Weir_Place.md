@@ -25,7 +25,7 @@ The village follows the river. In spring the seals come up from the sea after th
 
 ## The Woman of the Shares
 
-[Taluqivi]{.name data-type="being/npc"}, Lake Giving Drink, the oldest woman of the village, has given the drink of water to every seal brought into Taqvamiq for fifty years, and taught every girl of the village to cut and to sew. She is remembered for the hungry winter, eighteen years ago, when the fish failed and she took charge of every cache in the village and divided them so that every house had the same. The coast names her when it says what a woman should be, and the Feast of the Dead at Taqvamiq is the best attended on the river, because the families who were fed that winter come back to honor her dead.
+[[being-taluqivi|Taluqivi]], Lake Giving Drink, the oldest woman of the village, has given the drink of water to every seal brought into Taqvamiq for fifty years, and taught every girl of the village to cut and to sew. She is remembered for the hungry winter, eighteen years ago, when the fish failed and she took charge of every cache in the village and divided them so that every house had the same. The coast names her when it says what a woman should be, and the Feast of the Dead at Taqvamiq is the best attended on the river, because the families who were fed that winter come back to honor her dead.
 
 ## Trade
 

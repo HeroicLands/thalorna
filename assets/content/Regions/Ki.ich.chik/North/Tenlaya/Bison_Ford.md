@@ -35,7 +35,7 @@ The pipe's keeping is the reason the village is first among the villages. It was
 
 ## The Bundle Keeper's Answer
 
-The bundle keeper of Tanshe Yawa is [Kohanipo]{.name data-type="being/npc"}, Mountain Sits, a small, bald old man who has kept the village's bundle and the Corn Pipe for thirty winters and has never once been seen in a hurry. Every village speaker on the river and every society head of the bands knows his lodge, and this summer runners from both sides of one quarrel have been in it.
+The bundle keeper of Tanshe Yawa is [[being-kohanipo|Kohanipo]], Mountain Sits, a small, bald old man who has kept the village's bundle and the Corn Pipe for thirty winters and has never once been seen in a hurry. Every village speaker on the river and every society head of the bands knows his lodge, and this summer runners from both sides of one quarrel have been in it.
 
 Downstream at [[place-henushewan|Henu Shewan]], the Forks, the lodge owners have said that they will open their cache pits at this autumn's trading to every band except the Coyote band, whose raids brought the [[affiliation-tokchiaska|One Fire]] down on them last winter. Their village speaker says that this is what the Burned Village did. The Coyote band says that it comes under the Corn Pipe like everyone else. Only Kohanipo can say what the pipe binds, because only he knows all its songs, and he has said that he will answer when the trading opens, with the pipe in his hands, and not before.
 

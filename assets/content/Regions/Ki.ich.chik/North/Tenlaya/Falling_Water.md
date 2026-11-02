@@ -35,7 +35,7 @@ Nobody fishes until the first salmon of the year is caught and eaten. When the s
 
 The falls are the great market of the west. The western bands bring dried salmon, salmon oil, roots and berries; bands from the [[place-wehioshtergn|Cairn Plain]] come over the passes with robes, dried bison meat and red-painted rawhide cases; the [[affiliation-kelwanuk|Cedar People]]'s traders come over the coast range with shell, dried sea fish, carved horn spoons and cedar boxes. People gamble for days at the hand game, singing to confuse the guesser, and lose robes, bows, lodge covers and, once in a while, a dog team. A trade at the falls is binding once both sides have eaten together.
 
-The western bands' head at the falls is [Tashusawi]{.name data-type="being/npc"}, Wind Runs, the oldest man of the falls band, who owns the platform where the first fish is taken. He settles quarrels over platforms and keeps the peace of the trading, and his word holds because his band owns the best rocks on the river.
+The western bands' head at the falls is [[being-tashusawi|Tashusawi]], Wind Runs, the oldest man of the falls band, who owns the platform where the first fish is taken. He settles quarrels over platforms and keeps the peace of the trading, and his word holds because his band owns the best rocks on the river.
 
 ## The Captive
 

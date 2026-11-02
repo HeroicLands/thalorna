@@ -31,9 +31,9 @@ Many house heads come to the Door House to swear their oath, standing in the doo
 
 ## The Hungry Coming In
 
-The house head is [Teyuhesi]{.name data-type="being/npc"} of the Corn clan, a woman of forty of Hepuluma's line. Three short summers have sent families down the roads from the [[place-wahaulahuvorgn|Cave Mesas]] and the dry towns of the west, and they come to the Door House because it is the door they have heard of. Teyuhesi feeds them, as the oath says she must. Her storerooms are half empty in the autumn, and she has begun sending her own kinsmen to the Grandmother House to ask for corn.
+The house head is [[being-teyuhesi|Teyuhesi]] of the Corn clan, a woman of forty of Hepuluma's line. Three short summers have sent families down the roads from the [[place-wahaulahuvorgn|Cave Mesas]] and the dry towns of the west, and they come to the Door House because it is the door they have heard of. Teyuhesi feeds them, as the oath says she must. Her storerooms are half empty in the autumn, and she has begun sending her own kinsmen to the Grandmother House to ask for corn.
 
-The Grandmother House has given it twice. Its rain chief, [Waimahalu]{.name data-type="being/npc"}, has said that the Door House is gathering every dry heart in the north into one canyon, and that the rain will not come until somebody looks at who is eating there. Teyuhesi has answered him in the one way the canyon respects, which is by saying nothing and opening another storeroom. Everyone in the canyon expects the two houses to meet over this at the canyon feast.
+The Grandmother House has given it twice. Its rain chief, [[being-waimahalu|Waimahalu]], has said that the Door House is gathering every dry heart in the north into one canyon, and that the rain will not come until somebody looks at who is eating there. Teyuhesi has answered him in the one way the canyon respects, which is by saying nothing and opening another storeroom. Everyone in the canyon expects the two houses to meet over this at the canyon feast.
 
 ## See Also
 

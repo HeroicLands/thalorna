@@ -23,7 +23,7 @@ A traveler coming down from the pass in autumn hears Tulishwil before seeing it:
 
 The town's wealth stands on legs. Every household keeps one or two acorn granaries, woven bins as tall as a man on stilts beside the house, and the headman keeps a dozen. In a good year the granaries hold two winters of acorns, and in a bad year the town still eats. The town's women weave the watertight baskets the coast prizes, coiled tight and patterned in black and red, and the best of them sell on the coast for a strand each.
 
-Tulishwil has no rich chief. Its headman, [Ayullesh]{.name data-type="being/npc"}, Moon Running, holds his place because his family owns the best oak groves on the canyon slopes and because he speaks for the valleys at the gathering. His storehouse holds acorns, deer meat and baskets, and few beads.
+Tulishwil has no rich chief. Its headman, [[being-ayullesh|Ayullesh]], Moon Running, holds his place because his family owns the best oak groves on the canyon slopes and because he speaks for the valleys at the gathering. His storehouse holds acorns, deer meat and baskets, and few beads.
 
 ## The Acorn Gathering
 

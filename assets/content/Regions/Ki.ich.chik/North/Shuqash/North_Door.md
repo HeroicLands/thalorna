@@ -21,7 +21,7 @@ Tikoq Hipay, the North Door, is the last town on the [[place-shuqhalaqrgn|Bead C
 
 ## The Strand
 
-Every spring, when the first Cedar trading canoes come south, the chief of Tikoq Hipay loads two of the town's plank canoes with beads gathered from the chiefs of the northern towns and sends them north. That cargo is the [Northern Strand]{.name data-type="lore/custom"}, and the Cedar People's war canoes pass the coast towns by in return. The chief who sends it is [Hiluqkanan]{.name data-type="being/npc"}, Bright Sun, a great-grandson of [Hiluqchim]{.name data-type="being/npc"}, the chief whose herald guided the war canoes into the Oak Valleys in the [Pointing]{.name data-type="lore/history"}. Hiluqkanan does not speak of his great-grandfather, and he counts the Strand to the bead every spring in front of the other chiefs' heralds.
+Every spring, when the first Cedar trading canoes come south, the chief of Tikoq Hipay loads two of the town's plank canoes with beads gathered from the chiefs of the northern towns and sends them north. That cargo is the [Northern Strand]{.name data-type="lore/custom"}, and the Cedar People's war canoes pass the coast towns by in return. The chief who sends it is [[being-hiluqkanan|Hiluqkanan]], Bright Sun, a great-grandson of [Hiluqchim]{.name data-type="being/npc"}, the chief whose herald guided the war canoes into the Oak Valleys in the [Pointing]{.name data-type="lore/history"}. Hiluqkanan does not speak of his great-grandfather, and he counts the Strand to the bead every spring in front of the other chiefs' heralds.
 
 ## The Redeemer
 

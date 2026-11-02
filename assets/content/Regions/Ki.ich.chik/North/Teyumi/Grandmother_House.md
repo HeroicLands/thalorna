@@ -35,7 +35,7 @@ The sun watcher (_waimayo_) of the Grandmother House stands each morning at a ma
 
 ## The Rain Chief and the House Head
 
-The house head (_hosamota_) is [Yalutseya]{.name data-type="being/npc"} of the Cloud clan, a heavy, quiet woman of sixty who has kept the storerooms for twenty years and swore her oath in the doorway of [[place-hepuhosa|Hepuhosa]] across the canyon. Her younger brother [Waimahalu]{.name data-type="being/npc"} is the rain chief (_lumamota_). At the feast he speaks first, and she decides who eats.
+The house head (_hosamota_) is [[being-yalutseya|Yalutseya]] of the Cloud clan, a heavy, quiet woman of sixty who has kept the storerooms for twenty years and swore her oath in the doorway of [[place-hepuhosa|Hepuhosa]] across the canyon. Her younger brother [[being-waimahalu|Waimahalu]] is the rain chief (_lumamota_). At the feast he speaks first, and she decides who eats.
 
 The two have stopped agreeing. Three summers have come up short of rain, and at last year's feast Waimahalu said aloud that the rain was being kept from the canyon, and that the bear doctors (_matsauyo_) should be asked to search the towns for the dry hearts responsible. No Dry Search has been held at the feast in Yalutseya's lifetime. She has said nothing in public, which in the canyon is itself a statement. This autumn's feast will decide whether the search goes ahead.
 

@@ -31,7 +31,7 @@ The island has little water and almost no wood. Shuqwil's water comes from one s
 
 ## The Young Chief
 
-The chief is [Shiyawliq]{.name data-type="being/npc"}, Clear Sea, who was nine when her father died in a coughing sickness. Ayulchim held the town's beads for her for three winters and counted them back to her at her first feast. Shiyawliq is fifteen now, and the island's canoe masters, who would like a larger share of the cargoes, test her every spring.
+The chief is [[being-shiyawliq|Shiyawliq]], Clear Sea, who was nine when her father died in a coughing sickness. Ayulchim held the town's beads for her for three winters and counted them back to her at her first feast. Shiyawliq is fifteen now, and the island's canoe masters, who would like a larger share of the cargoes, test her every spring.
 
 ## See Also
 

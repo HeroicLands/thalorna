@@ -29,9 +29,9 @@ The burn still shows. The palisade stakes on the south side are new, the council
 
 ## The War Leader and the Clan Mother
 
-The village's war leader is [Tiahwentahkon]{.name data-type="being/npc"}, Otter Comes, a man of thirty who led the party that followed the raiders south and brought back two of the three captives. He wants a mourning war for the dead, a large one, raised from every River People village, and he has asked the River People's council for it twice.
+The village's war leader is [[being-tiahwentahkon|Tiahwentahkon]], Otter Comes, a man of thirty who led the party that followed the raiders south and brought back two of the three captives. He wants a mourning war for the dead, a large one, raised from every River People village, and he has asked the River People's council for it twice.
 
-The clan mother of the Sturgeon clan, [Otsitsentiotenha]{.name data-type="being/npc"}, Sturgeon Waits, has refused to consent, and without the consent of the clan mothers whose names it is meant to raise, no mourning war goes out. She says the village came too far south, and that the clan mothers who chose this site chose it for the soil and forgot whose land it was beside. Tiahwentahkon answers that she chose it herself. Both are right, and the village knows it.
+The clan mother of the Sturgeon clan, [[being-otsitsentiotenha|Otsitsentiotenha]], Sturgeon Waits, has refused to consent, and without the consent of the clan mothers whose names it is meant to raise, no mourning war goes out. She says the village came too far south, and that the clan mothers who chose this site chose it for the soil and forgot whose land it was beside. Tiahwentahkon answers that she chose it herself. Both are right, and the village knows it.
 
 ## What the Village Argues About
 

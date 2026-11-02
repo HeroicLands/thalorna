@@ -40,7 +40,7 @@ Yaldukita, Gives Wealth, is the chief of the [[affiliation-bearhouse|Bear House]
 
 His wealth is captives and beads. The Bear House's war canoes take captives from the valleys behind the coast of the [[affiliation-shuqash|Shell-Bead People]], and he sells them on his beach to any house that can pay, in blankets, grease and copper. Three times a year the canoe master [[being-sitiqnush|Sitiqnush]] comes north to buy captives back, and Yaldukita sells to him at his own price and treats him as an honored guest. Every spring the northern coast towns send two canoes of beads up the coast to Lamekis, the [Northern Strand]{.name data-type="lore/custom"}, and he gives them away at his feasts, a strand to each guest in the order of seats.
 
-His Keeper of the Count is his mother's sister, [Tsamalkalu]{.name data-type="being/npc"}, Counts the Salmon, who has kept the house's count for thirty years and has never been wrong in public.
+His Keeper of the Count is his mother's sister, [[being-tsamalkalu|Tsamalkalu]], Counts the Salmon, who has kept the house's count for thirty years and has never been wrong in public.
 
 :::secret {title="The Strand buys less"}
 

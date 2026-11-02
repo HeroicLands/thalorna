@@ -31,7 +31,7 @@ The Orca House keeps the count. Its Keeper of the Count is [[being-kalunukwas|Ka
 
 ## The Freed
 
-The chief of the Orca House, the fifth [Kwemulkita]{.name data-type="being/npc"}, holds the name of the chief who killed the twenty. At his last three feasts he has freed a slave before the guests: led a man or a woman out of the back of the house to the front, given them a blanket and a small name, and told the guests that the person was a gift. Kalunukwas counts each one aloud as a gift given. The guests have to decide whether to accept it, and the Eagle House's guests have twice walked out before the blankets, which means they do not.
+The chief of the Orca House, the fifth [[being-kwemulkita|Kwemulkita]], holds the name of the chief who killed the twenty. At his last three feasts he has freed a slave before the guests: led a man or a woman out of the back of the house to the front, given them a blanket and a small name, and told the guests that the person was a gift. Kalunukwas counts each one aloud as a gift given. The guests have to decide whether to accept it, and the Eagle House's guests have twice walked out before the blankets, which means they do not.
 
 The freed live in the Orca House as commoners. One of them, a woman taken from the valleys behind the Shell-Bead coast, has married a commoner of the house, and her children are the first on the coast born to a person who was once a slave and is not.
 
@@ -43,7 +43,7 @@ Kwemulkita frees slaves because Kalunukwas told him to, privately, five winters 
 
 ## The Village
 
-The houses face the surf behind a bank of driftwood logs that breaks the winter waves. Behind them, in the edge of the forest, stand the grave houses of the Orca House's dead and a mortuary pole carved with an orca, on which the first Kwemulkita lies in his box. On the headland to the south is the refuge, walled with logs. The winter dance house stands apart from the others at the forest edge, and in the dark months the Keeper of the Masks of Malkisis, [Gunistalwa]{.name data-type="being/npc"}, a commoner, rules it; the [[lore-nakpulalas|Meeting]], the faith of the coast, tells of the boy he brought back last winter.
+The houses face the surf behind a bank of driftwood logs that breaks the winter waves. Behind them, in the edge of the forest, stand the grave houses of the Orca House's dead and a mortuary pole carved with an orca, on which the first Kwemulkita lies in his box. On the headland to the south is the refuge, walled with logs. The winter dance house stands apart from the others at the forest edge, and in the dark months the Keeper of the Masks of Malkisis, [[being-gunistalwa|Gunistalwa]], a commoner, rules it; the [[lore-nakpulalas|Meeting]], the faith of the coast, tells of the boy he brought back last winter.
 
 ## See Also
 

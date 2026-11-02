@@ -33,7 +33,7 @@ The chief of the Bear House is [[being-yaldukita|Yaldukita]], Gives Wealth, the 
 
 The coast is divided about it. The northern houses say that beads paid to keep raiders away are a price, not wealth, and that a gift made of another people's fear is no gift. The Bear House answers that every copper on the coast was paid for by someone. The Keeper of the Count of the Orca House, [[being-kalunukwas|Kalunukwas]], has been asked whether she will count the Strand as the Bear House's gift, and has said she will count what is given at the feast, and nothing about where it came from.
 
-Yaldukita's own Keeper of the Count is his mother's sister, [Tsamalkalu]{.name data-type="being/npc"}, Counts the Salmon, who has kept the Bear House's count for thirty years and has never been wrong in public.
+Yaldukita's own Keeper of the Count is his mother's sister, [[being-tsamalkalu|Tsamalkalu]], Counts the Salmon, who has kept the Bear House's count for thirty years and has never been wrong in public.
 
 :::secret {title="The Strand buys less"}
 

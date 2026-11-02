@@ -35,7 +35,7 @@ In the north-east, where the grass meets the forest of the [[affiliation-osetako
 
 Raiding is the Long Grass's other harvest. Trails worn by war parties run east out of the grass to the One Fire's western towns, two weeks' walk on foot, and north-east to the villages of the [Birch People]{.name data-type="affiliation"}, the western nation of the Maple People, who raid back and adopt the captives they take. A young man of the Long Grass makes his first coup on one of these trails, and a war leader (_yashenka_) who brings a party home rich gives it all away within a moon and raises another. The towns the bands raid do not strike back at the bands, which have already moved on. They strike back down the river at [[place-henushewan|Henu Shewan]], the Forks, and the other villages that cannot move.
 
-The greatest raiding band of the Long Grass is the Coyote band (Kanweya), whose warriors paint coyotes on their shields. Southern traders who met them first named the whole nation after them, and the Grass People still find that funny. The Coyote band's war leader [Kanwewiwe]{.name data-type="being/npc"}, Coyote Fights, is Kanwesawi's sister's son, and he has counted more coups on the One Fire than any man alive.
+The greatest raiding band of the Long Grass is the Coyote band (Kanweya), whose warriors paint coyotes on their shields. Southern traders who met them first named the whole nation after them, and the Grass People still find that funny. The Coyote band's war leader [[being-kanwewiwe|Kanwewiwe]], Coyote Fights, is Kanwesawi's sister's son, and he has counted more coups on the One Fire than any man alive.
 
 ## Borders and Neighbors
 

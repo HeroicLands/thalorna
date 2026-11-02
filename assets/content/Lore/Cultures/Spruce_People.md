@@ -55,7 +55,7 @@ The lodge-shaker has no authority beyond the answers. A trail-breaker may move a
 
 ## The Man Admired
 
-[Kitoskapo]{.name data-type="being/npc"}, Wolf Runs, is the trail-breaker of the Kopiskak, the Beaver band, and the forest bands name him when they say what a man should be. He has led his band through eleven winters and has never lost one of its people to hunger, because he moves early. When the hares begin to fail he takes the band to the fish before anyone is weak, and he does not wait for the caribou he hopes will come. Two winters ago he gave half his ground for a winter to a band of the [Barren-Ground People]{.name data-type="lore/culture"} that came south through the trees with nothing, and showed their hunters where his beaver lodges were. His band trapped less that winter, said so, and stayed with him.
+[[being-kitoskapo|Kitoskapo]], Wolf Runs, is the trail-breaker of the Kopiskak, the Beaver band, and the forest bands name him when they say what a man should be. He has led his band through eleven winters and has never lost one of its people to hunger, because he moves early. When the hares begin to fail he takes the band to the fish before anyone is weak, and he does not wait for the caribou he hopes will come. Two winters ago he gave half his ground for a winter to a band of the [Barren-Ground People]{.name data-type="lore/culture"} that came south through the trees with nothing, and showed their hunters where his beaver lodges were. His band trapped less that winter, said so, and stayed with him.
 
 The bands admire his judgment and his open ground. His cost is his beaver, which have not come back, and the anger of the bands on either side of him, who say he has taught strangers the way into everyone's forest.
 

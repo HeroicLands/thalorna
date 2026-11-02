@@ -34,7 +34,7 @@ A healer (_hemnis_) is a person a power has taught. The teaching comes in a sick
 
 The healers belong to no house's order. A slave can be taught by a power as readily as a chief, and the coast says so, and has never known what to do about it.
 
-The healer whom the northern inlets send for is [Dimasnilkwa]{.name data-type="being/npc"}, Sees the Dream, a woman of the Wolf House at [[place-mukwasis|Mukwasis]], who was taught by the Thunderbird in a fever at fifteen. She has gone to the Village of the Dead more times than she will say, and she charges every chief exactly the same, which the chiefs take as an insult and pay.
+The healer whom the northern inlets send for is [[being-dimasnilkwa|Dimasnilkwa]], Sees the Dream, a woman of the Wolf House at [[place-mukwasis|Mukwasis]], who was taught by the Thunderbird in a fever at fifteen. She has gone to the Village of the Dead more times than she will say, and she charges every chief exactly the same, which the chiefs take as an insult and pay.
 
 ## The Canoe of the Dead
 
@@ -42,7 +42,7 @@ When a soul has been carried off to the [Village of the Dead]{.name data-type="p
 
 The journey has its dangers, and the healers act each one: the river they must cross on a fallen log, the dead who come down to the shore to see who has come, the place where the canoe is nearly overturned. In the Village of the Dead they find the kinsman who took the soul and bargain for it, and when it is given up, or snatched, the healer in the bow catches it in a soul catcher, a hollow tube of bone carved at both ends with a power's open mouth, and stops it with cedar bark. Then the canoe comes home the way it went. At the fire the healer blows the soul out of the tube into the crown of the sick person's head.
 
-A healer who falls down on the floor during the journey has been held back by the dead, and the others turn the canoe and go back for them before they go on. The household pays every paddler in blankets and feeds the whole house when it is over, so a canoe costs as much as a small giving feast. [Dimasnilkwa]{.name data-type="being/npc"} has stood in the bow of more canoes than any healer of the inlets. No house has ever paid for a canoe to go for the soul of a slave, and none of the healers has offered to go for nothing.
+A healer who falls down on the floor during the journey has been held back by the dead, and the others turn the canoe and go back for them before they go on. The household pays every paddler in blankets and feeds the whole house when it is over, so a canoe costs as much as a small giving feast. Dimasnilkwa has stood in the bow of more canoes than any healer of the inlets. No house has ever paid for a canoe to go for the soul of a slave, and none of the healers has offered to go for nothing.
 
 ## The Rites
 
@@ -60,7 +60,7 @@ A healer who falls down on the floor during the journey has been held back by th
 
 At the start of last winter the Hungry Power took a boy from Malkisis, and the boy was a slave. He was born in the Orca House to a woman taken in a raid on the oak valleys of the south, and like every slave he had no name. He disappeared into the forest on the first night of the dances, and he came out of it four days later, wild, biting the dancers who went to meet him.
 
-The Keeper of the Masks of Malkisis, [Gunistalwa]{.name data-type="being/npc"}, the Mask Speaks, a commoner, sang him back over four nights as he would any Wild One, and gave him a dance place and a winter name. In summer the boy is a slave again, with no name. In winter he dances in the Orca House with a seat that no chief can take from him, because the Hungry Power gave it.
+The Keeper of the Masks of Malkisis, [[being-gunistalwa|Gunistalwa]], the Mask Speaks, a commoner, sang him back over four nights as he would any Wild One, and gave him a dance place and a winter name. In summer the boy is a slave again, with no name. In winter he dances in the Orca House with a seat that no chief can take from him, because the Hungry Power gave it.
 
 The coast cannot agree what happened. The Eagle House says that a power meets a person, and a slave is not a person, so whatever came out of the forest was not taken by the Hungry Power, and the Bringing Back was a mockery. Gunistalwa answers that he did not choose the boy, the power did, and that the Eagle House is welcome to go to the far end of the forest and tell the Hungry Power its mistake. The chief of the Orca House has not freed the boy, and has not said why.
 

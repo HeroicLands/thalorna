@@ -5774,6 +5774,7 @@ data:
         - "tsuyesnilkwa"
         - "lebiskita"
         - "hulisniksala"
+        - "kwayukapala"
       male:
         - "lukwahakwa"
         - "kwemulkita"
@@ -5787,6 +5788,7 @@ data:
         - "gunistalwa"
         - "kelwatsuma"
         - "ulsemhakwa"
+        - "tsawahakwa"
     clan:
       - "tsilkasanuk"
       - "malkisanuk"
@@ -5807,7 +5809,11 @@ data:
       sense: grease
       word: melum
       examples: [melumkita, melumniksala]
-    - {form: tsawa-, position: opening, sense: the sea, word: tsawa, examples: [tsawanukwas]}
+    - form: tsawa-
+      position: opening
+      sense: the sea
+      word: tsawa
+      examples: [tsawanukwas, tsawahakwa]
     - {form: pelas-, position: opening, sense: a blanket, word: pelas, examples: [pelaskita]}
     - {form: gelem-, position: opening, sense: winter, word: gelem, examples: [gelemtalwa]}
     - {form: lukwa-, position: opening, sense: a copper, word: lukwa, examples: [lukwahakwa]}
@@ -5826,6 +5832,7 @@ data:
     - {form: tuklas-, position: opening, sense: a mountain, word: tuklas, examples: [tuklaskapala]}
     - {form: gunis-, position: opening, sense: a mask, word: gunis, examples: [gunistalwa]}
     - {form: ulsem-, position: opening, sense: fire, word: ulsem, examples: [ulsemhakwa]}
+    - {form: kwayu-, position: opening, sense: the north, word: kwayu, examples: [kwayukapala]}
     - form: -nukwas
       position: closing
       sense: the tide
@@ -5845,7 +5852,7 @@ data:
       position: closing
       sense: lifts
       word: hakwa
-      examples: [lukwahakwa, tumlahakwa, ulsemhakwa]
+      examples: [lukwahakwa, tumlahakwa, ulsemhakwa, tsawahakwa]
     - form: -tsuma
       position: closing
       sense: carves
@@ -5861,7 +5868,11 @@ data:
       sense: carries
       word: niksala
       examples: [melumniksala, hulisniksala]
-    - {form: -kapala, position: closing, sense: returns, word: kapala, examples: [tuklaskapala]}
+    - form: -kapala
+      position: closing
+      sense: returns
+      word: kapala
+      examples: [tuklaskapala, kwayukapala]
   sounds:
     edges:
       - {edge: openCluster, sounds: [kw, gw, ts]}
@@ -5959,6 +5970,8 @@ data:
     - {name: Thunderbird House, tongue: translation}
     - {name: Wolf House, tongue: translation}
     - {name: Bear House, tongue: translation}
+    - {name: tsawahakwa, tongue: kelwanuk, built: [tsawa, hakwa]}
+    - {name: kwayukapala, tongue: kelwanuk, built: [kwayu, kapala]}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -6072,9 +6085,9 @@ A name is made from the words of the dictionary, most often a thing of the house
 
 ### Name Lists
 
-**Women's names:** Kalunukwas, Kelwakita, Melumkita, Tsawanukwas, Pelaskita, Gelemtalwa, Dimasnilkwa, Tsamalkalu, Melumniksala, Tsuyesnilkwa, Lebiskita, Hulisniksala
+**Women's names:** Kalunukwas, Kelwakita, Melumkita, Tsawanukwas, Pelaskita, Gelemtalwa, Dimasnilkwa, Tsamalkalu, Melumniksala, Tsuyesnilkwa, Lebiskita, Hulisniksala, Kwayukapala
 
-**Men's names:** Lukwahakwa, Kwemulkita, Kwemlatsuma, Malkistalwa, Tumlahakwa, Yakwiskita, Yaldukita, Dusdoltalwa, Tuklaskapala, Gunistalwa, Kelwatsuma, Ulsemhakwa
+**Men's names:** Lukwahakwa, Kwemulkita, Kwemlatsuma, Malkistalwa, Tumlahakwa, Yakwiskita, Yaldukita, Dusdoltalwa, Tuklaskapala, Gunistalwa, Kelwatsuma, Ulsemhakwa, Tsawahakwa
 
 **Houses:** Tsilkasanuk (Eagle), Malkisanuk (Orca), Telukanuk (Raven), Mukwasanuk (Wolf), Lamekanuk (Bear), Telikanuk (Frog), Gwemlasanuk (Thunderbird)
 

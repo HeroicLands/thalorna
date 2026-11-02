@@ -71,7 +71,7 @@ The town rules, and nothing rules the towns. A town (_kilaw_) is a few hundred t
 
 The office passes within the chief's kin (_hilaqash_), the town's richest lineage. A dying chief names an heir, usually a child or a sister's child, the herald proclaims the name, and the town accepts the heir by coming to the heir's first feast. A town that stays away has refused the heir, and the chief's kin must name another. That has happened in living memory at two towns, both times to an heir who had let the town's dead go without crossing strands.
 
-A chief takes several wives, each from the chief's kin of another town, and every such marriage ties two towns together. The chief of [[place-kulaywil|Kulaywil]], [Shuqkanan]{.name data-type="being/npc"}, Bright Bead, is a woman whose own marriage and her five daughters' marriages tie Kulaywil to six other towns, and no chief on the coast quarrels with her lightly. That is the nearest thing the coast has to a ruler, and she rules nobody.
+A chief takes several wives, each from the chief's kin of another town, and every such marriage ties two towns together. The chief of [[place-kulaywil|Kulaywil]], [[being-shuqkanan|Shuqkanan]], Bright Bead, is a woman whose own marriage and her five daughters' marriages tie Kulaywil to six other towns, and no chief on the coast quarrels with her lightly. That is the nearest thing the coast has to a ruler, and she rules nobody.
 
 ## The Bead
 

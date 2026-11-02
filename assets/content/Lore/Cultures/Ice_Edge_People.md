@@ -108,7 +108,7 @@ The coast admires two things in him: the catch and the giving. His cost is plain
 
 ## The Woman Admired
 
-[Taluqivi]{.name data-type="being/npc"}, Lake Giving Drink, is the oldest woman of [[place-taqvamiq|Taqvamiq]], Weir Place, on a river of the Lake Tundra, and the women of the coast name her when they say what a woman should be. She has given the drink of water to every seal brought into Taqvamiq for fifty years, and every girl of the village has learned from her how to cut a seal so that nothing is wasted and how to sew a seam that does not leak.
+[[being-taluqivi|Taluqivi]], Lake Giving Drink, is the oldest woman of [[place-taqvamiq|Taqvamiq]], Weir Place, on a river of the Lake Tundra, and the women of the coast name her when they say what a woman should be. She has given the drink of water to every seal brought into Taqvamiq for fifty years, and every girl of the village has learned from her how to cut a seal so that nothing is wasted and how to sew a seam that does not leak.
 
 She is remembered for the hungry winter, eighteen years ago, when the fish did not come up the river in autumn and the seals stayed under the ice. She went from house to house with the village speaker and counted every cache, then took charge of the shares herself. Every house got the same, the providers' houses included. She gave her own namesake's feast clothes to a widow to trade upriver for caribou meat, and she ate last. Two old men died that winter, both by their own choice, walking out onto the tundra so that the young could eat. Nobody else died.
 

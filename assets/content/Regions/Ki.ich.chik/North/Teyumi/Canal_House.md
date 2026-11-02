@@ -29,7 +29,7 @@ The rest of the town is low and spread out. Each household has a compound of ado
 
 ## The Water
 
-The canal chief (_kenuvamota_) of the Canal House is [Kenuvawesa]{.name data-type="being/npc"} of the Water clan, a lean man of fifty who knows every head gate on the plain by its stones. Every household on the main canal and its branches waters its fields by turns, and he names the turns at the spring planting, standing on the mound with the sun watcher. A household that takes water out of turn loses its next turn, and one that does it twice loses its share of the canal. The house head keeps the storerooms as in any great house, but on the plain the canal chief's word is the one a farmer fears.
+The canal chief (_kenuvamota_) of the Canal House is [[being-kenuvawesa|Kenuvawesa]] of the Water clan, a lean man of fifty who knows every head gate on the plain by its stones. Every household on the main canal and its branches waters its fields by turns, and he names the turns at the spring planting, standing on the mound with the sun watcher. A household that takes water out of turn loses its next turn, and one that does it twice loses its share of the canal. The house head keeps the storerooms as in any great house, but on the plain the canal chief's word is the one a farmer fears.
 
 Each spring, before the head gate is opened, the canal chief and the chamber elders go down to the river at dawn and throw turquoise into the water where the canal leaves it. They call this feeding the [Water Serpent]{.name data-type="lore/spirit"}, the snake (_pohiwa_) that lives under the river and lets the water go.
 

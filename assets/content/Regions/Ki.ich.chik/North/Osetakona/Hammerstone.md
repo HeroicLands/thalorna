@@ -41,7 +41,7 @@ The village's speaker on the great council is [[being-tsikenhakahtiron|Tsikenhak
 
 ## What the Village Argues About
 
-The River People want the copper trade with the [[affiliation-tokchiaska|One Fire]] stopped, because the One Fire's warriors carry copper-headed clubs into their valleys. Hammerstone sells to the One Fire's traders every summer, by way of the Falls Country and the rivers south, and has refused three times at the great council to stop. Tsikenhakahtiron says that copper is the Copper People's maize and that a village does not stop planting because someone might steal its corn. The River People's speakers answer that it is their corn being stolen. His clan mother, [Kenrisatsiotie]{.name data-type="being/npc"}, has not told him which answer she wants him to give at the next council, and the village knows she is thinking about it.
+The River People want the copper trade with the [[affiliation-tokchiaska|One Fire]] stopped, because the One Fire's warriors carry copper-headed clubs into their valleys. Hammerstone sells to the One Fire's traders every summer, by way of the Falls Country and the rivers south, and has refused three times at the great council to stop. Tsikenhakahtiron says that copper is the Copper People's maize and that a village does not stop planting because someone might steal its corn. The River People's speakers answer that it is their corn being stolen. His clan mother, [[being-kenrisatsiotie|Kenrisatsiotie]], has not told him which answer she wants him to give at the next council, and the village knows she is thinking about it.
 
 ## See Also
 

@@ -29,7 +29,7 @@ The town is a smaller Great Shell, with canals between its heaps, a summit house
 
 The captains of the Last Shore go south every spring, well before the storm season, following the coast and the islands farther than any heartland canoe has gone, and come back in early summer with shell, turtle, dried fish and stories. The stories are the town's chief export. Its captains tell of islands with no people on them, of towns of strangers who paint their faces blue, and of a coast farther south where the people have seen men from the south itself.
 
-The Shell Chief, [Tiloho]{.name data-type="being/npc"}, is a former captain with one hand, who lost the other to a shark and talks about it freely. The town's best-known captain is [Chasise]{.name data-type="being/npc"}, a lean, quiet man who has made the southern run nine times and tells fewer stories than anyone.
+The Shell Chief, [[being-tiloho|Tiloho]], is a former captain with one hand, who lost the other to a shark and talks about it freely. The town's best-known captain is [[being-chasise|Chasise]], a lean, quiet man who has made the southern run nine times and tells fewer stories than anyone.
 
 ## What the Town Owes
 

@@ -29,15 +29,15 @@ The walls held for a generation. Last winter, in the deep snow, a war party of t
 
 ## Why It Was Burned
 
-The One Fire's war party did not come for the Forks. It came because the Coyote band (Kanweya) of the [[place-watotenlargn|Long Grass]] had raided two of the One Fire's western towns the autumn before, under their war leader [Kanwewiwe]{.name data-type="being/npc"}, and brought home robes, copper and a dozen captives. The Coyote band was a hundred miles away on the winter grass. The Forks stands where it stands.
+The One Fire's war party did not come for the Forks. It came because the Coyote band (Kanweya) of the [[place-watotenlargn|Long Grass]] had raided two of the One Fire's western towns the autumn before, under their war leader [[being-kanwewiwe|Kanwewiwe]], and brought home robes, copper and a dozen captives. The Coyote band was a hundred miles away on the winter grass. The Forks stands where it stands.
 
 The village knows this, and says it. The lodge owners of the Forks have said at every autumn trading for twenty years that the bands make the names and the villages pay for them. This year they have done more than say it.
 
 ## The Refusal
 
-[Shewantiyu]{.name data-type="being/npc"}, River Heart, is the eldest lodge owner of the Forks, a thin, hard woman whose lodge was one of the eighteen that burned. Her youngest daughter is among the thirty-one captives. At the end of the winter she called the lodge owners together in the bundle lodge, and they agreed that when the bands come in this autumn, the Forks will open its cache pits to every band that comes, as the [Corn Pipe]{.name data-type="miscgear"} binds it to, except the Coyote band. They have sent word to the Coyote band that if it wants corn from the Forks, it can bring back the thirty-one first.
+[[being-shewantiyu|Shewantiyu]], River Heart, is the eldest lodge owner of the Forks, a thin, hard woman whose lodge was one of the eighteen that burned. Her youngest daughter is among the thirty-one captives. At the end of the winter she called the lodge owners together in the bundle lodge, and they agreed that when the bands come in this autumn, the Forks will open its cache pits to every band that comes, as the [Corn Pipe]{.name data-type="miscgear"} binds it to, except the Coyote band. They have sent word to the Coyote band that if it wants corn from the Forks, it can bring back the thirty-one first.
 
-The village speaker (_hoyanka_) of the Forks, [Hetanwinte]{.name data-type="being/npc"}, Sun Gives, is a careful man who has bargained with the bands for fifteen years and has kin in three of them. He has said in council that a village which shuts its pits against a band under the Corn Pipe is doing what the [Burned Village]{.name data-type="place/site"} did, and the lodge owners have answered that the Burned Village shut its pits against the hungry, and the Coyote band is not hungry. Both have sent runners to the bundle keeper of [[place-tansheyawa|Tanshe Yawa]], who keeps the Corn Pipe, and he has not yet answered either.
+The village speaker (_hoyanka_) of the Forks, [[being-hetanwinte|Hetanwinte]], Sun Gives, is a careful man who has bargained with the bands for fifteen years and has kin in three of them. He has said in council that a village which shuts its pits against a band under the Corn Pipe is doing what the [Burned Village]{.name data-type="place/site"} did, and the lodge owners have answered that the Burned Village shut its pits against the hungry, and the Coyote band is not hungry. Both have sent runners to the bundle keeper of [[place-tansheyawa|Tanshe Yawa]], who keeps the Corn Pipe, and he has not yet answered either.
 
 ## The Captives
 

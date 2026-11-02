@@ -31,7 +31,7 @@ The heartland knows. The Great Sun tolerates the town because its scouts hold th
 
 The town is poor and proud of it. Its mound is low, its palisade is cypress posts carved from top to bottom with coiled serpents, and its houses stand on posts against the floods. Its people fish the black-water channels, hunt the swamp islands and farm a little maize on the ridge. Its carvers make the posts, masks and paddles that the heartland's priests buy and argue over.
 
-The Mound Chief, [Ikoho]{.name data-type="being/npc"}, is a Noble of the heartland who was sent here after a quarrel with the Keepers and has decided he likes it. The town's real authority is [Kelkawa]{.name data-type="being/npc"}, the eldest woman of its largest clan, who decides which put-out households stay, and the town's _iklilo_ (knowers), who heal, dream and read the swamp, and whom the heartland's Keepers distrust.
+The Mound Chief, [Ikoho]{.name data-type="being/npc"}, is a Noble of the heartland who was sent here after a quarrel with the Keepers and has decided he likes it. The town's real authority is [[being-kelkawa|Kelkawa]], the eldest woman of its largest clan, who decides which put-out households stay, and the town's _iklilo_ (knowers), who heal, dream and read the swamp, and whom the heartland's Keepers distrust.
 
 ## Pakalo's Town
 
