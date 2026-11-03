@@ -9,6 +9,9 @@
  */
 
 import assert from "node:assert/strict";
+import fs from "node:fs";
+import os from "node:os";
+import path from "node:path";
 import test from "node:test";
 import {
     ageSpans,
@@ -16,6 +19,8 @@ import {
     check,
     checkAgo,
     checkEras,
+    presentYear,
+    readPresentYear,
     elapsed,
     checkKhelathi,
     kingList,
@@ -284,13 +289,13 @@ test("the ages table is read with its links and years", () => {
 
 test("eras-agree: a calendar whose rows, table and notes agree has no findings", () => {
     const { calendar, prose } = straightCount();
-    assert.deepEqual(checkEras([calendar], prose, same), []);
+    assert.deepEqual(checkEras([calendar], prose, same, 720), []);
 });
 
 test("eras-agree: a calendar with no body is skipped", () => {
     const { calendar, prose } = straightCount();
     delete calendar.raw;
-    assert.deepEqual(checkEras([calendar], prose, same), []);
+    assert.deepEqual(checkEras([calendar], prose, same, 720), []);
 });
 
 test("eras-agree: an era row the ages table leaves out", () => {
@@ -365,10 +370,10 @@ test("eras-agree reads no calendar that counts by era year or has one era", () =
     const { calendar, prose } = straightCount();
     calendar.fm.data.formats.std = "D MMMM [yearInEra] GGG";
     calendar.fm.data.eras.find((era) => era.shortcode === "second").start = 480;
-    assert.deepEqual(checkEras([calendar], prose, same), []);
+    assert.deepEqual(checkEras([calendar], prose, same, 720), []);
     calendar.fm.data.formats.std = "D MMMM Y GGG";
     calendar.fm.data.eras = calendar.fm.data.eras.slice(0, 2);
-    assert.deepEqual(checkEras([calendar], prose, same), []);
+    assert.deepEqual(checkEras([calendar], prose, same, 720), []);
 });
 
 const DOMSEY = {
@@ -458,14 +463,13 @@ test("the Dómsey count: a sitting named by its number states no date and is rea
     );
 });
 
-const CONTINENT = prose("The current year is 720 AF.", "continent");
-
 test("ago-agrees: a phrase that reaches the linked event passes", () => {
     const found = check({
         history: [note("fort", [{ when: 615 }])],
         calendars: [MADHU],
         world: [WORLD],
-        prose: [CONTINENT, prose("It began about a century ago ([[lore-fort|the Fort]]).", "town")],
+        present: 720,
+        prose: [prose("It began about a century ago ([[lore-fort|the Fort]]).", "town")],
     });
     assert.deepEqual(found, []);
 });
@@ -475,7 +479,8 @@ test("ago-agrees: a phrase that misses the linked event", () => {
         history: [note("fort", [{ when: 615 }])],
         calendars: [MADHU],
         world: [WORLD],
-        prose: [CONTINENT, prose("It began two centuries ago ([[lore-fort|the Fort]]).", "town")],
+        present: 720,
+        prose: [prose("It began two centuries ago ([[lore-fort|the Fort]]).", "town")],
     });
     assert.match(
         found,
@@ -488,14 +493,16 @@ test("ago-agrees: a year the sentence states is an event it can mean", () => {
         history: [],
         calendars: [MADHU],
         world: [WORLD],
-        prose: [CONTINENT, prose("About six hundred years ago, around 120 AF, it moved.", "river")],
+        present: 720,
+        prose: [prose("About six hundred years ago, around 120 AF, it moved.", "river")],
     });
     assert.deepEqual(found, []);
     const [bad] = check({
         history: [],
         calendars: [MADHU],
         world: [WORLD],
-        prose: [CONTINENT, prose("About six hundred years ago, around 400 AF, it moved.", "river")],
+        present: 720,
+        prose: [prose("About six hundred years ago, around 400 AF, it moved.", "river")],
     });
     assert.match(bad, /ago-agrees/u);
 });
@@ -505,8 +512,8 @@ test("ago-agrees reads neither a span under a century nor a sentence with no eve
         history: [note("fort", [{ when: 615 }])],
         calendars: [MADHU],
         world: [WORLD],
+        present: 720,
         prose: [
-            CONTINENT,
             prose("Twelve years ago ([[lore-fort|the Fort]]).", "a"),
             prose("Seven centuries ago the Grukar came.", "b"),
         ],
@@ -519,8 +526,8 @@ test("ago-agrees reads a figure with a thousands comma", () => {
         history: [note("occasion", [{ when: -2110 }])],
         calendars: [MADHU],
         world: [WORLD],
+        present: 720,
         prose: [
-            CONTINENT,
             prose(
                 "Counted from 2,830 years ago ([[lore-occasion|it]]) and 1,000 years ago ([[lore-occasion|it]]).",
                 "empire",
@@ -759,38 +766,83 @@ test("elapsed counts the years to the present with no year zero", () => {
     assert.equal(elapsed(520, 720), 200);
 });
 
-const agoProse = (text) => [
-    { file: "continent.md", raw: "The current year is 720 AF." },
-    { file: "n.md", raw: text },
-];
+const agoProse = (text) => [{ file: "n.md", raw: text }];
 
 test("ago-agrees: a count that matches the present passes", () => {
     assert.deepEqual(
-        checkAgo([], agoProse("In 520 AF the legions left, two centuries ago."), same),
+        checkAgo([], agoProse("In 520 AF the legions left, two centuries ago."), same, 720),
         [],
     );
-    assert.deepEqual(checkAgo([], agoProse("The city fell 1031 years ago, in 312 BF."), same), []);
-    assert.deepEqual(checkAgo([], agoProse("About 1000 years ago, in 312 BF, it fell."), same), []);
+    assert.deepEqual(
+        checkAgo([], agoProse("The city fell 1031 years ago, in 312 BF."), same, 720),
+        [],
+    );
+    assert.deepEqual(
+        checkAgo([], agoProse("About 1000 years ago, in 312 BF, it fell."), same, 720),
+        [],
+    );
 });
 
 test("ago-agrees: a misdated count is a finding", () => {
-    const [found] = checkAgo([], agoProse("The city fell in 312 BF, five centuries ago."), same);
+    const [found] = checkAgo(
+        [],
+        agoProse("The city fell in 312 BF, five centuries ago."),
+        same,
+        720,
+    );
     assert.match(
         found,
         /^n\.md:1:\d+: error: ago-agrees: 312 BF is 1031 years before 720 AF, not five centuries ago/u,
     );
-    assert.equal(checkAgo([], agoProse("It fell in 312 BF, 1000 years ago."), same).length, 1);
+    assert.equal(checkAgo([], agoProse("It fell in 312 BF, 1000 years ago."), same, 720).length, 1);
 });
 
 test("ago-agrees reads past a count it cannot read", () => {
-    assert.deepEqual(checkAgo([], agoProse("In 312 BF, a thousand years ago, it fell."), same), []);
+    assert.deepEqual(
+        checkAgo([], agoProse("In 312 BF, a thousand years ago, it fell."), same, 720),
+        [],
+    );
 });
 
 test("ago-agrees reads a tens word as a count and passes over a compound one", () => {
-    assert.deepEqual(checkAgo([], agoProse("It fell in 660 AF, sixty years ago."), same), []);
-    assert.equal(checkAgo([], agoProse("It fell in 700 AF, sixty years ago."), same).length, 1);
+    assert.deepEqual(checkAgo([], agoProse("It fell in 660 AF, sixty years ago."), same, 720), []);
+    assert.equal(
+        checkAgo([], agoProse("It fell in 700 AF, sixty years ago."), same, 720).length,
+        1,
+    );
     assert.deepEqual(
-        checkAgo([], agoProse("It fell in 241 BF, some nine hundred and sixty years ago."), same),
+        checkAgo(
+            [],
+            agoProse("It fell in 241 BF, some nine hundred and sixty years ago."),
+            same,
+            720,
+        ),
         [],
     );
+});
+
+test("the present year is the year part of currentDate", () => {
+    assert.equal(presentYear("720.1"), 720);
+    assert.equal(presentYear("-12.40"), -12);
+    assert.equal(presentYear("33.4:120000"), 33);
+    assert.throws(() => presentYear("soon"), /currentDate/u);
+});
+
+test("the present year is read from currentDate in the configuration", () => {
+    const dir = fs.mkdtempSync(path.join(os.tmpdir(), "chronology-"));
+    const file = path.join(dir, "package-build.config.yaml");
+    fs.writeFileSync(file, 'currentDate: "655.200"\n');
+    assert.equal(readPresentYear(file), 655);
+    fs.rmSync(dir, { recursive: true });
+});
+
+test("ago findings use the supplied present", () => {
+    const tree = {
+        history: [],
+        calendars: [MADHU],
+        world: [WORLD],
+        prose: [prose("In 520 AF the legions left, two centuries ago.", "n")],
+    };
+    assert.deepEqual(check({ ...tree, present: 720 }), []);
+    assert.equal(check({ ...tree, present: 620 }).length, 1);
 });

@@ -264,9 +264,9 @@ that two books select. `folder` and `homepage` notes print in no book.
 ## Birth dates and ages
 
 A being's `data.born` supplies its birth date. With a known birth date, omit
-`data.age`: the published age counts completed years at the world's
-`data.present`, declared in `Lore/The_World_of_Thalorna.md`. The value `720` means the first
-day of year 720, so a birthday later in that year has not occurred.
+`data.age`: the published age counts completed years at the setting's present,
+which is `currentDate` in `package-build.config.yaml`. The value `720.1` is the
+first day of year 720, so a birthday later in that year has not yet occurred.
 
 For example, `born: 687/4/16` gives an age of 32 at that present. Keep an authored
 `data.age` when the birth date is absent or `unknown`. An authored age overrides

@@ -98,12 +98,16 @@ import { folderChain } from "./note-index.mjs";
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { normalizeCurrentDate } from "@heroiclands/package-build/engine/current-date";
 import { calendarEras, parseNoteDate } from "@heroiclands/package-build/engine/note-dates";
 import { reckoningContext } from "@heroiclands/package-build/engine/reckoning-markers";
 import YAML from "yaml";
 
 /** The content tree read when no other is given. */
 export const CONTENT = "assets/content";
+
+/** The package configuration that declares `currentDate`. */
+export const CONFIG = "package-build.config.yaml";
 
 /** The `depth` values an event may carry. */
 export const DEPTHS = Object.freeze(["world", "region"]);
@@ -227,7 +231,7 @@ function readNote(file) {
  * Every lore note with events, every calendar note and the world's place note.
  *
  * @param {string} [content] - The content tree.
- * @returns {{history: object[], calendars: object[], world: object[]}}
+ * @returns {{history: object[], calendars: object[], world: object[], prose: object[], present: number}}
  */
 export function readTree(content = CONTENT) {
     const history = [];
@@ -243,7 +247,7 @@ export function readTree(content = CONTENT) {
         if (note.fm.type === "lore" && note.fm.subType === "calendar") calendars.push(entry);
         if (note.fm.type === "place" && note.fm.data?.year?.days) world.push(entry);
     }
-    return { history, calendars, world, prose };
+    return { history, calendars, world, prose, present: readPresentYear() };
 }
 
 /** The 1-based line and column of an offset in a text. */
@@ -557,13 +561,25 @@ const HEDGE = /\b(?:about|some|nearly|roughly|almost|around)\b/iu;
 /** The farthest a stated year may sit from its "ago" phrase, within one clause. */
 const REACH = 160;
 
-/** The present year a continent note states, or null where none does. */
-export function presentYear(prose) {
-    for (const note of prose) {
-        const match = note.raw?.match(/current year is (\d+) AF/u);
-        if (match) return Number(match[1]);
-    }
-    return null;
+/**
+ * The year part of a configured `currentDate` such as "720.1".
+ *
+ * @param {string} [currentDate] - The neutral date; absent selects package-build's default.
+ * @returns {number} The year.
+ */
+export function presentYear(currentDate) {
+    return Number(normalizeCurrentDate(currentDate).split(/[.:]/u)[0]);
+}
+
+/**
+ * The setting's present year, from `currentDate` in the package configuration.
+ *
+ * @param {string} [configFile] - The configuration file.
+ * @returns {number} The year.
+ */
+export function readPresentYear(configFile = CONFIG) {
+    const config = YAML.parse(fs.readFileSync(configFile, "utf8"));
+    return presentYear(config?.currentDate);
 }
 
 /**
@@ -638,11 +654,10 @@ export function agoPhrases(raw) {
  * @param {object[]} history - Notes with events, from {@link readTree}.
  * @param {object[]} prose - Every note, from {@link readTree}.
  * @param {(file: string) => string} relative - A path as the finding writes it.
+ * @param {number} present - The setting's present year, from {@link readPresentYear}.
  * @returns {string[]} Findings.
  */
-export function checkAgo(history, prose, relative) {
-    const present = presentYear(prose);
-    if (present === null) return [];
+export function checkAgo(history, prose, relative, present) {
     const years = new Map();
     for (const note of history) {
         const list = (note.fm.data.events ?? []).flatMap((row) =>
@@ -830,10 +845,10 @@ function axisYear(value, context) {
 /**
  * Check a content tree's chronology.
  *
- * @param {{history: object[], calendars: object[], world?: object[]}} tree - From {@link readTree}.
+ * @param {{history: object[], calendars: object[], world?: object[], present?: number}} tree - From {@link readTree}; `present` is the present year, and without it the ago findings are skipped.
  * @returns {string[]} Findings, one per line.
  */
-export function check({ history, calendars, world = [], prose = [] }) {
+export function check({ history, calendars, world = [], prose = [], present }) {
     const findings = [];
     const context = reckoningContext({
         notes: [...calendars, ...world].map(({ fm, file, raw }) => ({ fm, file, raw })),
@@ -962,7 +977,7 @@ export function check({ history, calendars, world = [], prose = [] }) {
     }
     findings.push(...checkKhelathi(prose, relative));
     findings.push(...checkEras(calendars, prose, relative));
-    findings.push(...checkAgo(history, prose, relative));
+    if (present !== undefined) findings.push(...checkAgo(history, prose, relative, present));
     findings.push(...checkMidhalion(history, calendars, prose, relative));
     return findings;
 }
