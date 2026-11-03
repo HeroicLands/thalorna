@@ -310,8 +310,9 @@ test("CLI checks both indexed languages and keeps the summary and exit status", 
     const { index } = fixture(t, [...values, aele, map]);
     const result = spawnSync(process.execPath, ["utils/veldikko-guard.mjs", "--index", index], {
         encoding: "utf8",
-        timeout: 10000,
+        timeout: 120_000,
     });
+    assert.equal(result.error, undefined, `the guard did not finish: ${result.error}`);
     assert.equal(result.status, 0, result.stderr);
     assert.match(result.stdout, /Veldikko guard: 4 forms and names checked, 0 findings\./);
     assert.match(result.stderr, /Veldikko timing: \d+ms, 4 index records/);

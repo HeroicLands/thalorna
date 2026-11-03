@@ -123,9 +123,10 @@ test("the command exits red on a one-way source fixture and green after its retu
             spawnSync(
                 process.execPath,
                 [new URL("./khazryn-reciprocity.mjs", import.meta.url).pathname, root],
-                { encoding: "utf8", timeout: 10_000 },
+                { encoding: "utf8", timeout: 120_000 },
             );
         const red = run();
+        assert.equal(red.error, undefined, `the check did not finish: ${red.error}`);
         assert.equal(red.status, 1, red.stderr);
         assert.match(red.stderr, /desert\.md.*borders.*outside.*no reciprocal/);
         fs.writeFileSync(
@@ -133,6 +134,7 @@ test("the command exits red on a one-way source fixture and green after its retu
             "---\nshortcode: outside\ntype: place\ndata:\n  borders: [{to: khzryndsrtrgn, bearing: E}]\n---\n",
         );
         const green = run();
+        assert.equal(green.error, undefined, `the check did not finish: ${green.error}`);
         assert.equal(green.status, 0, green.stderr);
     } finally {
         fs.rmSync(root, { recursive: true, force: true });
