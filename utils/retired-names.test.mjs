@@ -49,6 +49,9 @@ export const RETIRED = [
     { retired: ["Múrkír", "Murkir", "Múrkían"], replacement: "Pôzêrâs", scope: "corpus" },
     { retired: ["Jánite", "Jánites"], replacement: "Árdavan", scope: "corpus" },
     { retired: ["Samantas"], replacement: "Samontas", scope: "corpus" },
+    { retired: ["Grukarhölm"], replacement: "Grukarholm", scope: "corpus" },
+    { retired: ["Provènzia"], replacement: "Provenzia", scope: "corpus" },
+    { retired: ["Aurèldía"], replacement: "Aureldia", scope: "corpus" },
     {
         retired: ["Thánatic", "Thanatine", "Thanatines", "Thánatan"],
         replacement: "Sélmoran",
