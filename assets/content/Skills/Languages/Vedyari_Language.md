@@ -402,7 +402,7 @@ data:
       gloss: thunder
       concept: thunder
     - {form: oska, class: "n", field: "Water, rain and the monsoon", gloss: "the tide"}
-    - {form: kudra, class: "n", field: "Water, rain and the monsoon", gloss: "an island"}
+    - {form: kundra, class: "n", field: "Water, rain and the monsoon", gloss: "an island"}
     - {form: faunsa, class: "n", field: "Water, rain and the monsoon", gloss: "a wave"}
     - form: himadara
       class: "n"
@@ -8338,7 +8338,7 @@ data:
     - {name: dormanata, tongue: vedyari}
     - {name: dunhari, tongue: other:dunhari}
     - {name: jortona, tongue: vedyari}
-    - {name: katha, tongue: vedyari}
+    - {name: kadra, tongue: vedyari}
     - {name: padmika, tongue: vedyari}
     - {name: sharabira, tongue: vedyari}
     - {name: sharakirti, tongue: vedyari}
@@ -8399,6 +8399,8 @@ data:
     - {form: Vyāndran, instead: Vyalendran, why: not the adjective the suffixes make of the name}
     - {form: Candra, instead: Chendra, why: "`c` is the scholars' letter for `ch`"}
     - {form: Amrita, instead: Shrimeti, why: a whole word of the culture's model language}
+    - {form: kudra, instead: kundra, why: a whole word of the culture's model language}
+    - {form: katha, instead: kadra, why: a whole word of the culture's model language}
     - form: Vaidyavallabha
       instead: Ghotranyasa
       why: "an Earth phrase, the title of a book of Earth"
