@@ -42,7 +42,7 @@ The hill takes its name from the laurels that grew on it before it was built ove
 Selvin is building faster than at any time since the fire, and the money comes from the throne's need of it.
 
 - **The throne's sales.** The Orzas has no cash to spare and sells offices, titles and grants quietly, for coin now. The buyers build on Selvin. New houses are going up on the hill's upper slopes, and their masters order cupboards of ancestor masks from the Gilded Quarter before the walls are roofed. Torvel's old houses resent every one of them and lend to several.
-- **House Mardovanes's table.** [Nethoras Mardovanes]{.name data-type="being/npc"}, master of [[affiliation-mardovanes|House Mardovanes]], hosts the best dinners in the city, and the succession is discussed at every one of them without the old Orzas ever being named. The house wants a temple voted for its ancestor the Orzas Azénales, and it wants to stand behind whichever claimant wins, with Hilen's grain in its granaries when he does. Its daughter is betrothed to the heir of the Olkassa estate, and the wedding is the hill's event of the season.
+- **House Mardovanes's table.** [[being-nthrsmrdvns|Nethoras Mardovanes]], master of [[affiliation-mardovanes|House Mardovanes]], hosts the best dinners in the city, and the succession is discussed at every one of them without the old Orzas ever being named. The house wants a temple voted for its ancestor the Orzas Azénales, and it wants to stand behind whichever claimant wins, with Hilen's grain in its granaries when he does. Its daughter is betrothed to the heir of the Olkassa estate, and the wedding is the hill's event of the season.
 - **The succession.** The reigning Orzas is old and has adopted nobody. The houses on Selvin owe their rise to the present reign, and none of them knows whether the next will honor what this one sold.
 
 ## History {#history}
@@ -52,7 +52,7 @@ Selvin was a hill of gardens while the [Vylarian Republic]{.name data-type="affi
 ## Hooks {#hooks}
 
 - **The new neighbor.** A new house is going up on the slope above an old Selvin house, and its terraces will take the old house's view of the palace. The old house hires a party to learn what title the newcomer bought, and what he paid for it.
-- **The votes.** [Nethoras Mardovanes]{.name data-type="being/npc"} wants to know which _kurthoi_ on Selvin would vote his ancestor a temple, and which of them already owe the house that would vote against it.
+- **The votes.** Nethoras Mardovanes wants to know which _kurthoi_ on Selvin would vote his ancestor a temple, and which of them already owe the house that would vote against it.
 - **The seating.** The steward of [[affiliation-mardovanes|House Mardovanes]] must seat the Olkassa wedding feast, and the friends of every claimant expect a place near the high table. He hires a party to learn, before the invitations go out, which guests will not sit beside which.
 
 ## See Also

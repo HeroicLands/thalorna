@@ -12,8 +12,9 @@ data:
   occupation: Noblewoman
   lore: []
   culture: vylarianclt
-  homes: []
-  affiliations: {}
+  homes: [arvon]
+  affiliations: {thalurates: {rank: 2}}
+  socialTies: {being-krznsthlrts: patron}
   gender: female
   species: humanflk
   born: "688.146"
@@ -36,4 +37,4 @@ Ilthere Thalurates is a 31-year-old woman who stands 5'7" tall with a medium bui
 
 # Dossier {#dossier}
 
-Ilthere Thalurates is a noblewoman of [[affiliation-thalurates|House Thalurates]] with close ties to the imperial court. Ilthere offers [[being-klstrtsxrchds|Kalestratos Zarkedis]] political support in exchange for his help in manipulating key figures within [[affiliation-vylarinmpr|Vylaria]]. She is pragmatic, self-serving and well connected.
+Ilthere Thalurates is a noblewoman of [[affiliation-thalurates|House Thalurates]] with close ties to the imperial court, and the daughter of its master, [[being-krznsthlrts|Korzenas Thalurates]]. Ilthere offers [[being-klstrtsxrchds|Kalestratos Zarkedis]] political support in exchange for his help in manipulating key figures within [[affiliation-vylarinmpr|Vylaria]]. She is pragmatic, self-serving and well connected.

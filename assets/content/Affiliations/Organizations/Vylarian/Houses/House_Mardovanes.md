@@ -58,7 +58,7 @@ The house is rich, and its money is grain. Its factors buy on the estates of [[p
 
 ## The Master of the House
 
-[Nethoras Mardovanes]{.name data-type="being/npc"} is fifty-one, master of the house and a _kurthos_ of the [[affiliation-seldan|Seldan]]. He is a superb host. His dinners on Selvin are the best in the city, the succession is discussed at every one of them without the old Orzas ever being named, and every guest leaves owing him a small favor. He is patient, well informed and pleasant to people below him, which the old houses find suspicious in itself.
+[[being-nthrsmrdvns|Nethoras Mardovanes]] is fifty-one, master of the house and a _kurthos_ of the [[affiliation-seldan|Seldan]]. He is a superb host. His dinners on Selvin are the best in the city, the succession is discussed at every one of them without the old Orzas ever being named, and every guest leaves owing him a small favor. He is patient, well informed and pleasant to people below him, which the old houses find suspicious in itself.
 
 His daughter [Varelas Mardovanes]{.name data-type="being/npc"} is nineteen and betrothed to [Zetimas Ganothandis]{.name data-type="being/npc"}, the heir of the Olkassa estate in Hilen. The marriage joins the house that sells the capital's bread to the house that grows the best of it.
 
