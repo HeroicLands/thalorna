@@ -59,76 +59,18 @@ data:
         ipa: ɣ
       - {letters: [zh], kind: consonant, like: the s in measure, ipa: ʒ}
       - {letters: [j], kind: consonant, like: judge, ipa: dʒ}
-      - letters: [y]
-        kind: consonant
-        like: "a consonant as in yes; write i for the vowel in machine"
-        ipa: j
+      - {letters: [y], kind: consonant, like: "yes; always a consonant", ipa: j}
       - letters: [q]
         kind: consonant
         like: a k said further back in the throat; a plain k is fine
         ipa: q
-      - {letters: [ts], kind: consonant, like: cats, ipa: ts}
+      - {letters: [ts], kind: consonant, like: "cats, at the start of a word too", ipa: ts}
       - {letters: [ny], kind: consonant, like: canyon, ipa: ɲ}
       - letters: [ng]
         kind: consonant
         like: "sing, including at the start of a word; the ng-g of finger is fine inside a word"
         ipa: ŋ
-      - letters: [mb]
-        kind: consonant
-        like: "at the start of a word the two letters run together, as in mba; the consonant alone is fine"
-        ipa: mb
-        tongue: [skill-ekpelulng, skill-okharclng, skill-nyalbnlng]
-      - letters: [nd]
-        kind: consonant
-        like: "at the start of a word the two letters run together; the consonant alone is fine"
-        ipa: nd
-        tongue: [skill-ekpelulng, skill-okharclng, skill-nyalbnlng]
-      - letters: [nk]
-        kind: consonant
-        like: "at the start of a word the two letters run together; the consonant alone is fine"
-        ipa: ŋk
-        tongue: [skill-nyalbnlng, skill-okharclng]
-      - letters: [nt]
-        kind: consonant
-        like: "at the start of a word the two letters run together; the consonant alone is fine"
-        ipa: nt
-        tongue: [skill-nyalbnlng, skill-okharclng]
-      - letters: [mp]
-        kind: consonant
-        like: "at the start of a word the two letters run together; the consonant alone is fine"
-        ipa: mp
-        tongue: [skill-nyalbnlng, skill-okharclng]
-      - letters: [nj]
-        kind: consonant
-        like: "at the start of a word the two letters run together; the consonant alone is fine"
-        ipa: ndʒ
-        tongue: [skill-nyalbnlng, skill-okharclng]
-      - letters: [ngw]
-        kind: consonant
-        like: "at the start of a word the ng runs together with a w after it; the consonant alone is fine"
-        ipa: ŋɡw
-        tongue: [skill-okharclng]
-      - letters: [gb]
-        kind: consonant
-        like: "the two letters said at once, the lips and the back of the tongue closing together; a plain b is fine"
-        ipa: ɡ͡b
-        tongue: [skill-ekpelulng]
-      - letters: [kp]
-        kind: consonant
-        like: "the two letters said at once, the lips and the back of the tongue closing together; a plain p is fine"
-        ipa: k͡p
-        tongue: [skill-ekpelulng]
-      - letters: [hl]
-        kind: consonant
-        like: "a breathy l; a plain l is fine"
-        ipa: ɬ
-        tongue: [skill-nordmalng]
       - {letters: [r], kind: consonant, like: "rolled; an unrolled r is fine", ipa: r}
-      - letters: [bh]
-        kind: consonant
-        like: "a b said with a breath after it; a plain b is fine"
-        ipa: bʱ
-        tongue: [skill-vedyarlng]
       - letters: ["'"]
         kind: catch
         like: "a catch in the throat, the pause in uh-oh; after a consonant, that consonant is said with the same catch; the consonant said plainly is fine"
@@ -139,261 +81,152 @@ data:
       - {mark: grave, letters: [à, ì, ò, ù], kind: quality, limit: any}
 ---
 
-Pronouncing Thalorna sets out one transcription system. None of the peoples of [[place-worldthlrn|the World of Thalorna]] write in Roman letters. The common transcription below gives every tongue, Aelwythi included, one set of readings, so a word can be said from its spelling alone.
+[[place-worldthlrn|The World of Thalorna]] is home to a great many peoples, and nearly every one of them has its own tongue. Their words reach the table as the names of people and places, as oaths and titles, and as lines of song. This guide gives every one of those words the same simple reading, so that a name never met before can still be said with confidence.
 
-Ease of speaking comes first. Where a sound is hard for a reader, a footnote gives a plain sound to use instead, and the plain sound is always correct.
+Saying a name the way its own speakers say it is one of the quiet pleasures of play. It costs nothing at the table, and it brings the world a little closer: the river city sounds unlike the mountain hold, and a stranger's name carries a hint of the land that gave it. This guide is an invitation to try it.
 
-## Common pronunciation
+## Plain letters, one sound each
 
-A tongue follows this section except where its own section gives a different reading. Aelwythi's words and names follow this section in full; Aelwythi uses neither apostrophes nor hyphens in its Roman spellings.
+None of Thalorna's peoples write in Roman letters. The spellings in these pages are a transcription made for readers, and they are built to be easy. Each letter has one sound, wherever it stands. Every letter is sounded, so there are no silent letters, and there are no odd English spellings to trip over. A word is said the way it is written.
 
-A spelling has one reading under the applicable rules, including its stress. Capitals have the same sounds as lowercase letters. Read the longest recognized letter group first, from left to right, using only the groups this guide declares for the tongue. Each character belongs to one group. A diaeresis separates the marked vowel from the one before it, and an acute on the second vowel of a pair does the same. The plain alternatives for difficult sounds are aids for play, not additional dictionary readings.
+## Why there are marks at all
 
-### English words and coined spellings
+Plain letters show which sounds a word has, but they cannot show everything about how it is said. They cannot show which syllable is stressed, where the voice rises or falls, or that a vowel is short. A few small marks carry exactly those things. Each mark has one meaning and only one, so everyone at the table says the word the same way.
 
-A new, unrecorded coined word or name must not duplicate a complete English word, whatever its intended meaning or pronunciation, unless an explicit authored exception states otherwise. Aelwythi's authored vocabulary and registered names are authoritative; an English homograph does not invalidate an existing entry. Explicit meanings, pronunciations and context notes take precedence over general rules, which apply wherever the entry supplies no exception. Compare whole spellings without regard to case or to acute, diaeresis and grave marks: capitalization or a pronunciation mark does not make an English word available for coining. A hyphen used only to separate pronunciation groups does not disguise a conflicting whole word. A root or naming element occurring inside a longer word is not a whole-word collision.
+Accent marks can look fussy, and plenty of readers find them off-putting at first. They are used sparingly here. Most words carry none, and a mark appears only where it changes how the word is said. Each one is a small, friendly hint about the word's sound, and there are only five to learn.
 
-The maintained spelling reference is `assets/data/english-words.json`, one merged list of shared English and American, British, Canadian and Australian spellings from [wordlist-english](https://www.npmjs.com/package/wordlist-english), historical dictionary spellings, and documented English inflections from the Aelwythi writing rules. Its source manifest records the input versions and hashes; `utils/generate-english-words.mjs` regenerates the list from local source snapshots and the cited editorial additions. Historical membership reserves a spelling against coining; it does not authorize that word in a particular period or in Aelwythi prose. A missing entry does not by itself establish that an otherwise identifiable English spelling is available for coining: document the English source and add it to the maintained list. An entry appearing only as part of a definition, a bound root or an abbreviation is not on that ground an English word.
+## The marks can be ignored
 
-An English-shaped word, such as Aelwythi's English-derived vocabulary, is spelled to this standard like any other word. It keeps its English meaning and its sound, and the spelling records that sound: English _kidney_ is written _kìdni_. A foreign word or name adapted into Aelwythi receives a pronounceable Aelwythi form, spelled and stressed by the common transcription. Foreign spelling does not supply an exception to these rules.
+A reader who ignores every mark still says each word recognisably, and the game works perfectly well. The marks bring a word closer to its speakers' own sound; they are never a test. The same goes for the few harder sounds below. Each comes with a plainer sound that is always fine to use instead.
 
-Three English sounds take the nearest standard spelling:
+## The official sound, and IPA
 
-- The neutral _uh_ of an unstressed syllable is written _ò_: _about_ is _òbáut_, with the acute because its stress falls on the second syllable.
-- A syllable made of a consonant alone, as at the end of _bottle_ and _button_, takes a short vowel: _bòtòl_, _bòtòn_.
-- The _wh_ of _where_, a _w_ with a breath, is written _hw_.
+Every sound in this guide is given two ways: as an everyday comparison from English, and in the International Phonetic Alphabet (IPA), which records the official pronunciation exactly. IPA is not needed for play, since the comparisons are close enough. For the curious, the [International Phonetic Association's chart](https://www.internationalphoneticassociation.org/IPAcharts/IPA_charts_TI/IPA_charts_TI.html#eng) plays each symbol aloud, and [Wikipedia's IPA key](https://en.wikipedia.org/wiki/Help:IPA) explains the symbols with English examples.
 
-### Vowels
+## One guide for every tongue
 
-Each vowel letter has one sound, whether or not its syllable is stressed. There is no long and short pair of readings for a letter: the five plain vowels keep the sounds below, and a grave writes the four short vowels of English.
+Every language of Thalorna is read by these same rules. A language uses some of these sounds and leaves others aside, which is part of what gives each tongue its own flavour, but no language reads a letter differently. Once the rules below are familiar, every word in the setting is open to you.
 
-| Letter | Sounds like                                 | Example          |
-| ------ | ------------------------------------------- | ---------------- |
-| a      | _father_                                    | _a_ (letter)     |
-| e      | _bet_                                       | _eda_            |
-| i      | _machine_                                   | _siri_           |
-| o      | A steady _oh_, without a closing _oo_ glide | _oro_            |
-| u      | _rule_                                      | _lunu_           |
-| à      | _cat_                                       | _kàt_ (cat)      |
-| ì      | _sit_                                       | _kìdni_ (kidney) |
-| ò      | _cup_, as in _love_ and _son_               | _lòv_ (love)     |
-| ù      | _put_                                       | _pùt_ (put)      |
+## Vowels
 
-The vowel of _bird_ is a short vowel followed by _r_: _bùrd_. The _aw_ of _law_ has no spelling of its own and is written with _o_ or _a_.
+Each vowel letter has one sound, stressed or not, at the start of a word or at its end. A final _e_ is sounded too: _eda_ is _ED-ah_, /ˈɛdɑ/.
 
-Two vowels in the next table are a **vowel group**, said as one syllable. A tongue may list a further group only for a sound these spellings cannot write, and its own section or language note states it.
+```sql
+SELECT array_to_string(list_transform(letters, x -> '_' || x || '_'), ', ') AS "Letter",
+       "like" AS "Sounds like", '/' || ipa || '/' AS "IPA"
+FROM letters WHERE language = 'thalorna-note-doc-prnncthlrn' AND kind = 'vowel' ORDER BY position
+```
 
-| Group | Sounds like                                | Example      |
-| ----- | ------------------------------------------ | ------------ |
-| ai    | _eye_                                      | _kaira_      |
-| au    | _cow_                                      | _taum_       |
-| ei    | _day_                                      | _meiro_      |
-| oi    | _boy_                                      | _soin_       |
-| ou    | _soul_                                     | _koulo_      |
-| aa    | the _a_ of _father_, held a little[^long]  | _aa_ (group) |
-| ii    | the _i_ of _machine_, held a little[^long] | _niir_       |
-| uu    | the _u_ of _rule_, held a little[^long]    | _suul_       |
+So _siri_ is _SEE-ree_, /ˈsiri/, _oro_ is _OH-roh_, /ˈoro/, and _lunu_ is _LOO-noo_, /ˈlunu/.
 
-The held vowels _aa_, _ii_ and _uu_ are the only way length is written.
+### Vowel groups
 
-Any other two vowels side by side are both said, each its own syllable: _koa_ is _KO-a_ and _kao_ is _KA-o_. No vowel is ever silent. A diaeresis on the second vowel of a listed group splits it into two syllables: _kau_ rhymes with _cow_, and _kaü_ is _KA-oo_. Every sound has one spelling, so a diaeresis is written only on a group, where it changes the reading.
+Five pairs of vowels are glides, each said as one syllable:
 
-A vowel keeps its identity under stress and without stress; there is no unwritten reduction to _uh_. A final _e_ after a consonant is sounded and does not alter the preceding vowel. _y_ is always the consonant of _yes_; write _i_ for the vowel in _machine_. In new coined spellings, _y_ and _ny_ must be followed by a vowel. A glide is written with its consonant: _ee-ah_ run into one syllable is _ya_, and _oo-eh_ run into one syllable is _we_.
+```sql
+SELECT array_to_string(list_transform(letters, x -> '_' || x || '_'), ', ') AS "Group",
+       "like" AS "Sounds like", '/' || ipa || '/' AS "IPA"
+FROM letters WHERE language = 'thalorna-note-doc-prnncthlrn' AND kind = 'vowel pair' ORDER BY position
+```
 
-### Consonants
+So _kaira_ is _KYE-rah_, /ˈkaɪrɑ/, _taum_ is _towm_, /taʊm/, _meiro_ is _MAY-roh_, /ˈmeɪro/, _soin_ is _soyn_, /sɔɪn/, and _koulo_ is _KOH-loh_, /ˈkoʊlo/.
 
-Consonants have their usual values in the reader's language, with these points. Every consonant is sounded unless it belongs to a listed group; English silent-letter patterns do not apply. The letter _s_ is always unvoiced, as in _sip_.
+Any other two vowels side by side are both said, each its own syllable: _koa_ is _KOH-ah_, /ˈkoɑ/, and _kao_ is _KAH-oh_, /ˈkɑo/.
 
-| Spelling          | Sounds like                                       |
-| ----------------- | ------------------------------------------------- |
-| g                 | Always hard, as in _go_. Never as in _gem_.       |
-| ch                | _church_                                          |
-| sh                | _ship_                                            |
-| th                | _thin_                                            |
-| dh                | _this_                                            |
-| kh                | The Scottish _loch_.[^kh]                         |
-| gh                | The same sound as _kh_, voiced.[^gh]              |
-| zh                | The _s_ in _measure_.                             |
-| j                 | _judge_                                           |
-| q                 | A _k_ said further back in the throat.[^q]        |
-| ts                | _cats_, at the start of a word too, as in _tsar_. |
-| ny                | _canyon_, before a vowel.                         |
-| ng                | _sing_, including at the start of a word.[^ng]    |
-| r                 | Rolled.[^r]                                       |
-| Doubled consonant | Held a little, as in _sharru_.[^double]           |
+### Held vowels
 
-The letter _c_ appears only inside _ch_; a hard _c_ sound is written _k_. The letter _x_ is never used.
+A doubled _aa_, _ii_ or _uu_ is the same vowel held a little longer. It is the only way a long vowel is written, and the single vowel is always fine.
 
-### Syllables
+```sql
+SELECT array_to_string(list_transform(letters, x -> '_' || x || '_'), ', ') AS "Held vowel",
+       "like" AS "Sounds like", '/' || ipa || '/' AS "IPA"
+FROM letters WHERE language = 'thalorna-note-doc-prnncthlrn' AND kind = 'long vowel' ORDER BY position
+```
 
-Every vowel or vowel group makes a syllable. The letter _y_ does not count as a vowel. Identify letter groups and diaereses before counting syllables. A stem written with a hyphen, such as _zevr-_, is never said alone: it is always joined to an ending that opens on a vowel. A hyphen inside a complete coined word separates groups without adding a sound or resetting stress: _as-ha_ has separate _s_ and _h_, whereas _asha_ contains _sh_. Read a compound as one word, including where its elements meet. Where two consonants open a word in a pair unfamiliar in the reader's language, as in _dvon_ or _jvel_, they are said together.[^pair] An _h_ before a consonant or at the end of a word is a breath unless a recognized group consumes it.[^h]
+So _niir_ is _neer_, held a little, /niːr/, and _suul_ is _sool_, /suːl/.
+
+### Short vowels
+
+A grave mark (_à_, _ì_, _ò_, _ù_) writes one of the short vowels of English, the vowels of _cat_, _sit_, _cup_ and _put_:
+
+```sql
+SELECT array_to_string(list_transform(letters, x -> '_' || x || '_'), ', ') AS "Short vowel",
+       "like" AS "Sounds like", '/' || ipa || '/' AS "IPA"
+FROM letters WHERE language = 'thalorna-note-doc-prnncthlrn' AND kind = 'short vowel' ORDER BY position
+```
+
+So _kàt_ is _cat_, /kæt/, _kìdni_ is _KID-nee_, /ˈkɪdni/, _lòv_ is _love_, /lʌv/, and _pùt_ is _put_, /pʊt/. A grave changes only the vowel's sound, never the stress.
+
+## Consonants
+
+Most consonants sound just as they do in English. Every one is sounded, _s_ is always the _s_ of _sun_, and _g_ is always the hard _g_ of _go_. A few letters written together make a single sound, and they are in the table with the rest:
+
+```sql
+SELECT array_to_string(list_transform(letters, x -> '_' || x || '_'), ', ') AS "Letter",
+       "like" AS "Sounds like", '/' || ipa || '/' AS "IPA"
+FROM letters WHERE language = 'thalorna-note-doc-prnncthlrn' AND kind = 'consonant' ORDER BY position
+```
+
+The letter _c_ appears only inside _ch_, and the letter _x_ is never used: a hard _c_ is written _k_.
+
+### _h_ beside a consonant
+
+An _h_ that is not part of one of the pairs above (_ch_, _sh_, _th_, _dh_, _kh_, _gh_, _zh_) is a breath. Before a consonant it is a breath leading into it: _hlask_ opens on a breathy _l_, /hlɑsk/. After a consonant it is a breath following it: _bharava_ is a _b_ with a puff of air after it, _b-hah-RAH-vah_, /bʱɑˈrɑvɑ/. At the end of a word it is a soft breath, as in _sah_, /sɑh/. A silent _h_ is always fine.
+
+### Doubled consonants
+
+A doubled consonant is held a little: _sharru_ is _SHAR-roo_, /ˈʃɑrːu/. The consonant said once is always fine.
+
+### Two consonants at the start of a word
+
+Where a word opens on two consonants that English never starts a word with, they are said together, running straight into each other. _Dvon_ is one syllable, /dvon/, and _mbala_ is _MBAH-lah_, /ˈmbɑlɑ/, the hum of the _m_ flowing straight into the _b_. A slight vowel between the two, as in _em-BAH-lah_, is always fine, and so is a silent _k_ or _g_ before _n_, as in _knee_.
+
+### The catch
+
+An apostrophe is a catch in the throat, the little stop in the middle of _uh-oh_, /ʔ/. It adds no syllable. _Ne'_ is _neh_ with a stop at the end, /nɛʔ/, and _ish'bal_ is _ISH-bahl_ with a stop after the _sh_, /ˈiʃʔbɑl/. After a consonant, as in _k'ayik_, the consonant itself is said with the catch, /ˈkʼɑjik/. The consonant said plainly, with a short break after it or none, is always fine.
+
+## The marks
+
+Five marks appear on vowels, each with one meaning:
+
+| Mark       | Written                 | What it shows                       |
+| ---------- | ----------------------- | ----------------------------------- |
+| acute      | _á_, _é_, _í_, _ó_, _ú_ | the stressed syllable               |
+| grave      | _à_, _ì_, _ò_, _ù_      | a short vowel                       |
+| diaeresis  | _ä_, _ë_, _ï_, _ö_, _ü_ | a vowel group said as two syllables |
+| caron      | _ǎa_, _ǐi_, _ǔu_        | a rising tone on a held vowel       |
+| circumflex | _âa_, _îi_, _ûu_        | a falling tone on a held vowel      |
+
+A word may carry several kinds of mark, but at most one acute and at most one tone.
 
 ### Stress
 
-A one-syllable word carries its stress on that syllable. A word of two syllables is stressed on the first. A longer word is stressed on the second-to-last syllable. Count a listed vowel group as one syllable, and every other vowel as a syllable of its own. Thus _Kelara_ is ke-LA-ra, _Kélara_ is KE-la-ra and _Kelará_ is ke-la-RA. A hyphen inside a compound does not create a separate stress domain.
+Most words need no mark for stress, because it follows one easy rule. A word of one syllable is stressed on that syllable. A word of two syllables is stressed on the first. A longer word is stressed on the second-to-last syllable. So _Kelara_ is _keh-LAH-rah_, /kɛˈlɑrɑ/.
 
-### Marks
+An **acute** marks a stressed syllable that the rule would not choose. It changes the stress, not the vowel's sound. _Kélara_ is _KEH-lah-rah_, /ˈkɛlɑrɑ/, and _Kelará_ is _keh-lah-RAH_, /kɛlɑˈrɑ/. A word carries at most one acute. On a vowel group it sits on the first letter: _Kairela_ is _ky-REH-lah_, /kaɪˈrɛlɑ/, and _Káirela_ is _KY-reh-lah_, /ˈkaɪrɛlɑ/.
 
-Common spelling writes three marks on vowels: the acute, the diaeresis and the grave. Each changes one thing, and a word may carry several of them.
+A **tone** mark also shows the stressed syllable, so the full rule is short: the syllable with an acute is stressed; failing that, the syllable with a tone; failing that, the rule above.
 
-- An **acute** (_á_) marks a stressed syllable that the rule above would not choose. It changes stress, not the vowel's sound. A word carries at most one. Put it on the first vowel letter of a vowel group, and recognize the group by its unaccented spelling. In _Kelarán_ the rule would stress the middle syllable, ke-LA-ran, and the mark moves the stress to the last, ke-la-RAN.
-- A **diaeresis** (_ë_) on the second vowel of a listed group splits it into two syllables: _kau_ is one syllable and _kaü_ is two. It changes the syllable count, not the vowel's sound, and does not itself place stress. It is written only on a group, because anywhere else the two vowels are already said apart.
-- A **grave** (_ì_) writes a short English vowel: _à_, _ì_, _ò_ and _ù_, as in the vowel table. A word may carry any number, and a grave always shows.
+Where an acute falls on a short vowel, both marks are written, the acute above the grave: _bòtòn_ is _BUT-un_, /ˈbʌtʌn/, and _bòtò́n_ is _but-UN_, /bʌˈtʌn/.
 
-Where a vowel would carry both a diaeresis and an acute, only the acute is written: an acute on the second vowel of a group can only mean that the vowel is its own stressed syllable, so _kaú_ is ka-OO. Where a vowel would carry both a grave and an acute, both are written, the acute as a combining mark over the grave vowel: _bòtòn_ is BÒ-tòn, and _bòtò́n_ is bò-TÒN.
+### Splitting a group: the diaeresis
 
-No other mark is used in common spelling. Sinale's pitch notation, used only in verse and performance, is described in its section below.
+A **diaeresis** on the second vowel of a vowel group splits it into two syllables. _Kau_ is one syllable that rhymes with _cow_, /kaʊ/, while _kaü_ is two, _KAH-oo_, /ˈkɑu/. The diaeresis appears only on a group, since any other two vowels are already said apart. An acute on the second vowel splits the group as well and stresses it: _kaú_ is _kah-OO_, /kɑˈu/.
 
-### The apostrophe
+### Tone: the caron and the circumflex {#tone}
 
-In tongues that write it, an apostrophe marks a catch in the throat, the pause in _uh-oh_. It is not a vowel mark. After a consonant, as in _k'_ or _ts'_, it means that consonant is said with the same catch.[^catch] A word carries at most two.
+In some tongues the voice rises or falls on a long vowel, and that tone is part of the word. A **caron** (_ǎ_) marks a rising tone, the lift of a surprised _oh?_. A **circumflex** (_â_) marks a falling tone, the drop of a firm _no_. A tone mark sits only on a held vowel, _aa_, _ii_ or _uu_, and always on its first letter: _ǎa_, _âa_. A word carries at most one.
 
-### What is not written
+A toned syllable is also the stressed one, unless an acute sits elsewhere in the word. _Kǎalara_ is _KAAH-lah-rah_ with the voice rising on the first syllable, /ˈkɑ̌ːlɑrɑ/, and _Kâalara_ is the same with the voice falling, /ˈkɑ̂ːlɑrɑ/. In _Kǎalará_ the acute takes the stress to the end and the first syllable still rises, /kɑ̌ːlɑˈrɑ/. Tone marks are read the same way everywhere, in prose, in names and in verse. Saying the word on a level voice, with only its stress, is always fine.
 
-Common spelling leaves tone and nasal vowels unwritten. Vowel length is written only by the held vowels _aa_, _ii_ and _uu_; a single vowel is not marked for length, and no macron is used. Sinale may annotate pitch in verse and performance, as described below.
+## The finer points
 
-### Vowels in a native script
+### Counting syllables
 
-A script writes the sounds of a word, and its encoding keeps every roman letter and mark recoverable. A script draws each vowel as its letter and each listed group as the script writes that group. A split group, such as the _aü_ of _kaü_, is drawn as its two vowels apart, never as the group.
+Every vowel or vowel group makes one syllable, and _y_ is never a vowel. Read a word from left to right, taking the longest group of letters this guide lists first: each letter belongs to only one group. Capital letters sound the same as small ones.
 
-## Áelendi
+A hyphen inside a word keeps two letters from forming a group, without adding a sound or a second stress: _as-ha_ has an _s_ and then an _h_, /ˈɑshɑ/, while _asha_ has the _sh_ of _ship_, /ˈɑʃɑ/. A compound is read as one word, with one stress. A stem written with a hyphen at its end, such as _zevr-_, is never said alone; it is always joined to an ending that opens on a vowel.
 
-[[skill-aelendlng|Áelendi]] stresses the first syllable of every word, whatever its length. An acute marks any other stressed syllable.
+### In a native script
 
-## Aelwythi {#aelwythi}
-
-[[skill-aelwthlng|Aelwythi]] is spelled to the common standard above, with no
-exception of its own. Its English-derived words, its coined words and its
-names all take the common vowels, groups, marks and stress rule. An
-English-derived word keeps its English sound, and its spelling records that
-sound in the common letters: _kìdni_ has the _i_ of _sit_, as English _kidney_
-does. The [[skill-aelwthlng|language note]] gives the writing register and
-naming palette. The prose explaining the language uses ordinary modern wording.
-
-### Writing these sounds in Semaron
-
-The [[doc-aelwsemaronenc|Aelwythi Semaron Encoding]] writes passages marked
-`enc=aelwsemaronenc`, which supplies the Aelwythi language and Semaron Kuriale
-font defaults. It applies the same character mappings to every word and name;
-there are no word-specific native spellings. The Roman spelling records every
-sound, so encoding writes that spelling without choosing its sounds.
-
-Aelwythi has no x, and c occurs only in ch. English-derived words follow the
-language note's respelling rules before they are encoded. The group ch takes
-its own CHEROLA sign; tch is t followed by CHEROLA. The groups sh, th, dh, kh,
-gh, zh, ts and ng take their respective signs, while qu remains q followed by
-u. Single letters retain their case, and a consonant group is lowercase or
-initial-uppercase. Vowels retain their letters; an acute adds only the
-non-printing stress modifier after the vowel.
-
-The shared Roman punctuation standard applies. Period takes POINT, the
-imperative is ‼ and the exclamative is !. Quotation marks and verse line,
-stanza and canto boundaries follow that standard. The encoding note states
-the mappings and executable rules.
-
-## Vylari
-
-[[skill-vylarilng|Vylari]] writes the catch with an apostrophe, as every tongue that writes it does. The period is Vylari's only punctuation.
-
-## Ekpelu
-
-[[skill-ekpelulng|Ekpelu]] has two sounds of its own: _gb_ and _kp_, each the two letters said at once, the lips and the back of the tongue closing together.[^ekpelu-gb] At the start of a word, _mb_, _nd_ and _ng_ are each one sound, the nasal running straight into the next letter, as in _mbala_, _ndaro_ and _ngoto_.[^ekpelu-nasal]
-
-## Hvarn
-
-[[skill-hvarnlng|Hvarn]] stresses the first syllable of every word.
-
-## Ki'i'chek and Ki'ich'chik {#kiichek}
-
-The language name [[skill-kiichek|Ki'i'chek]] and the continent name [[place-kiichchik|Ki'ich'chik]] have the following pronunciations.
-
-| Name                    | Exact pronunciation | Reading          |
-| ----------------------- | ------------------- | ---------------- |
-| Ki'i'chek — language    | /kɪʔˈɪʔtʃɛk/        | kih–**IH**–chek  |
-| Ki'ich'chik — continent | /kɪʔˈɪtʃʔtʃɪk/      | kih–**ICH**–chik |
-
-Both names have three syllables and stress the second. In these two names, _i_ is the short vowel of _bit_, and _e_ is the vowel of _bet_. The _k_ and _ch_ have their ordinary sounds. Each apostrophe marks a separate catch in the throat: after each of the first two vowels in the language name, and after the first vowel and the first _ch_ in the continent name. Say the consonant and then the catch separately.
-
-The ordinary penultimate-stress rule supplies the stress in these three-syllable readings, so no acute is needed. An apostrophe marks the catch; it does not supply an additional vowel.
-
-Ordinary Ki'i'chek words follow the common vowel and stress rules above; the short _i_ in these two names is a specific exception. Glottal stops are frequent: _ne'_, _ish'bal_ and _k'ayik_. Read each apostrophe as a catch, including after a consonant; an ejective pronunciation is not required. The apostrophe adds no syllable. Use the ordinary _ch_, _sh_ and _ts_ sounds, and a plain _k_ is fine for _q_.
-
-Ritual speech may rise at the end of a phrase, but pitch does not change the word's identity. Ordinary transcription requires no rising or falling tone marks; questions are expressed through the language's words. An acute retains its usual role of marking exceptional stress.
-
-## Nordmal
-
-[[skill-nordmalng|Nordmal]] stresses the first syllable of every word. An acute marks any other stressed syllable. _hl_ is a breathy _l_, as in _hlask_.[^nordmal-hl]
-
-## Nyáluban
-
-[[skill-nyalbnlng|Nyáluban]] stresses the first syllable of every word, and an acute marks any other stressed syllable. At the start of a word, _mb_, _nd_, _ng_, _nk_, _nt_, _mp_ and _nj_ are each one sound, the nasal running straight into the next letter, as in _Mbuka_, _ndafo_ and _nkulu_.[^nyaluban-nasal]
-
-The acute marks stress, not a high tone. Nyáluban has meaningful pitch in the world, but the common spelling leaves tone unwritten. Read its words with the vowels above and the stress shown; matching a rising or falling contour is not required for play. No additional pitch marks need to be learned.
-
-Nyáluban has no writing tradition of its own. Its speakers keep their words through speech, memory and performance. The Roman spellings on these pages transcribe that speech for readers; foreigners may also transcribe it in their own scripts. Neither presentation implies a Nyáluban written original.
-
-In a memory-song, keep the rhythm, repetitions and the distinction between the call and the gathered answer. Optional performance directions may describe a held syllable or a rising or falling phrase outside the words. These directions do not change a word's spelling or meaning; a question still uses the language's question words or marker.
-
-## Okharik
-
-At the start of a word in [[skill-okharclng|Okharik]], _mb_, _nd_, _ng_, _nk_ and _nt_ are each one sound, the nasal running straight into the next letter, as in _Mbaka_, _Ndori_ and _ngor_; _ngw_ is that _ng_ with a _w_ after it, as in _ngwelo_.[^okharic-nasal]
-
-## Sinale {#sinale}
-
-[[skill-sinalelng|Sinale]] stresses the first syllable of every word, whatever its length.
-
-In verse and performance only, Sinale may annotate pitch and emphasis on the selected vowel nucleus. A word in ordinary prose, a word list or a name carries none of these marks. They change delivery, not the vowel's identity or the fixed first-syllable stress:
-
-| Delivery      | Roman example and Unicode                        | Veldikko font assignment |
-| ------------- | ------------------------------------------------ | ------------------------ |
-| falling pitch | _ǎ_, U+01CE LATIN SMALL LETTER A WITH CARON      | FALL, U+1ED7A            |
-| rising pitch  | _â_, U+00E2 LATIN SMALL LETTER A WITH CIRCUMFLEX | RISE, U+1ED79            |
-| emphasis      | _á_, U+00E1 LATIN SMALL LETTER A WITH ACUTE      | EMPHASIS, U+1ED7B        |
-
-The native values are assignments in the project's Veldikko font, not Unicode-standard names for Veldikko letters. A mark is written as a precomposed letter, so a vowel takes only the marks a letter carries: _a_, _e_, _i_, _o_ and _u_ take all three, _y_ takes the circumflex and the acute, and _ë_ (U+00EB LATIN SMALL LETTER E WITH DIAERESIS) takes none.
-
-_Pelvailǎ_ marks a falling call, _Pelvailâ_ a rise, and _Pélvaila_ emphasis on the first syllable. A called name keeps its full spelling and never wears. Acute emphasis may accompany one pitch mark where a letter carries both (_ấ_, _ế_, _ố_) or on the other letter of a doubled vowel; caron and circumflex are mutually exclusive. An unmarked line still has spoken pitch. Written questions retain _uvi_; a rise does not replace the question particle.
-
-## Sovidur
-
-[[skill-sowideslng|Sovidur]] writes its long vowels as the held _aa_, _ii_ and _uu_. Stress a held vowel when present; otherwise stress the last syllable, as in _kodu_ (_ko-DU_) and _qiimod_ (_QII-mod_). Vowel harmony does not add pitch marks.
-
-## Tellumi
-
-[[skill-tellumilng|Tellumi]] stresses the syllable opened by a doubled consonant, as in _Tellumi_ (_te-LLU-mi_); otherwise stress the first syllable, as in _nelim_ (_NE-lim_). Hold a doubled consonant briefly; an ordinary single consonant is fine for play. No pitch or secondary-stress marks are required.
-
-## Vedyari
-
-[[skill-vedyarlng|Vedyari]] writes _bh_, a _b_ said with a breath after it, as in _bharava_.[^vedyari-bh]
-
-[^long]: The single vowel is always fine.
-
-[^kh]: A plain _k_ is always fine.
-
-[^gh]: A plain _g_ is always fine.
-
-[^q]: A plain _k_ is always fine.
-
-[^ng]: Inside a word before a vowel, the _ng-g_ of _finger_ is always fine.
-
-[^r]: An unrolled _r_ is always fine.
-
-[^double]: The consonant said once is always fine.
-
-[^pair]: A slight vowel between the two consonants is always fine, and so is a silent _k_ or _g_ before _n_, as in _knee_.
-
-[^h]: A silent _h_ is always fine.
-
-[^catch]: The consonant said plainly, with a short break after it or none, is always fine.
-
-[^ekpelu-gb]: A plain _b_ for _gb_ and a plain _p_ for _kp_ are always fine.
-
-[^ekpelu-nasal]: A short hum before the consonant, as in _em-BA-la_, or the consonant alone, is always fine.
-
-[^nordmal-hl]: A plain _l_ is always fine.
-
-[^nyaluban-nasal]: A short hum before the consonant, as in _um-BU-ka_, or the consonant alone, is always fine.
-
-[^okharic-nasal]: A short hum before the consonant, as in _em-BA-ka_, or the consonant alone, is always fine.
-
-[^vedyari-bh]: A plain _b_ is always fine.
+The peoples of Thalorna write in their own scripts, and the spellings in these pages are a faithful transcription of them. A word written in a native script reads back to exactly the same roman spelling. A script draws each vowel as its letter and each vowel group as that script writes the group. A split group, such as the _aü_ of _kaü_, is drawn as two separate vowels, and its diaeresis returns by rule when the word is read back into roman letters.

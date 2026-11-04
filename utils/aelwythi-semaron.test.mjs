@@ -137,11 +137,7 @@ test("literal codage uses the selected font's code names", () => {
 });
 
 test("the pronunciation references keep the Aelwythi orthographic exceptions explicit", () => {
-    const commonOpening = guide.body
-        .split("## Common pronunciation")[1]
-        .split("### English words and coined spellings")[0];
-    assert(commonOpening.includes("neither apostrophes nor hyphens"));
-    assert(!commonOpening.includes("including its stress and apostrophe rules"));
+    assert(!/^#+ Aelwythi\b/m.test(guide.body), "the guide has no language sections");
     const coined = language.body
         .split("### Coined words and names")[1]
         .split("### Foreign words and names")[0];
@@ -219,7 +215,8 @@ test("the guide spells Aelwythi to the common standard, with no sound rows of it
         ),
         [],
     );
-    assert.equal([...guide.raw.matchAll(/```sql\n/g)].length, 0);
+    for (const [, sql] of guide.raw.matchAll(/```sql\n([\s\S]*?)```/g))
+        assert(!sql.includes("aelw"), "the guide's tables select no Aelwythi rows");
 });
 
 test("pronunciation references resolve to an exported journal page", () => {
