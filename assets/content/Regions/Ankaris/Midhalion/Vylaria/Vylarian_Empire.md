@@ -264,6 +264,9 @@ The empire uses the [[lore-vylrncrncy|Vylarian currency]] (Solden, Ardin and Ogd
 [[affiliation-vylrnmltry|Vylarian Military]]
 : the legions and the fleet
 
+[[affiliation-goitsathal|Goitsa Thal]], [[affiliation-hrendskari|Hrendskari]], [[affiliation-cleanshlds|The Clean Shields]]
+: companies in the empire's pay
+
 [[doc-vylrnctznshp|Vylarian Citizenship]]
 : the citizen and the resident
 
