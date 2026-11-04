@@ -1,0 +1,483 @@
+# The outline registry: each note kind's sections, called slots. The outline
+# guard (utils/outline-guard.mjs) reads this file and checks a note's heading
+# anchors (`## Any Wording {#id}`) against the entry its kind selects. It checks
+# ids and their order, never heading wording.
+
+# A note of at most this many words is a row-depth stub. A slot with
+# `needs: summary` is required only of a note longer than this.
+rowMaxWords: 200
+
+# A land is a group of regions named here: a land id maps to the shortcodes of
+# the notes that make it up. A note is in a land when a parent branch (or, for a
+# being, a home) reaches one of them, the nearest one along each branch
+# counting. A note in no land is only ever reported.
+lands:
+    midhalion: [midhalnrgn, vylariargn, taruzelrgn]
+    khazryn: [khzryndsrtrgn]
+    tarvenia: [tarvenirgn]
+    elavendre: [elavendre]
+    provenzia: [provenzrgn]
+    hellad: [heladrgn]
+    kalipsa-aelwyth: [aelwyth, calypsacity]
+    dunhara: [dunharargn]
+    kiichchik: [northkiichchik, centralkiichchik, southkiichchik]
+    nordlands: [nrdlndsrgn]
+    kalihara: [kaliharargn]
+    zerathia: [nrthrnfrtlrgn, cntrlrnfrsts, sthmrchsrgn, sthrnsvnhs, velkhara]
+    jenchai: [jenchairgn]
+    tantsou: [tantsouregin]
+    vedyara: [vedyarargn]
+    velanthia: [velanthrgn]
+    grukarholm: [grkrhlmrgn]
+
+# Ids of the lands held to this registry. A finding in a finished land is an
+# error; in every other land it is a warning.
+finished: []
+
+# Each entry selects notes by `type`, `subType` and tags (`anyTag`: at least one;
+# `noTag`: none) and gives its slots in the order they must appear. The first
+# entry that matches a note applies. `profile` is the number of the kind's
+# profile in the plan. A slot's status is `required`, `warranted` (written when
+# the land calls for it) or `optional`. A kind may list `absent` slot ids that
+# its notes never carry. `closing: [truth]` names the slots that may follow
+# See Also. A slot's heading is at `level` (`slotLevel` unless the slot says
+# otherwise); a heading at another level does not fill the slot. `match.data`
+# selects on frontmatter `data` keys, and `match.subType` may be a list. A
+# `profile` is a number, or a list of numbers, from the plan's adopted profiles.
+closing: [truth]
+slotLevel: 2
+
+kinds:
+    - id: unique-item
+      profile: 26
+      match: { data: { unique: true } }
+      slots:
+          - { id: overview, heading: Overview, status: warranted }
+          - { id: who-holds-it, heading: Who Holds It, status: warranted }
+          - { id: its-story, heading: Its Story, status: warranted }
+          - { id: what-it-does, heading: What It Does, status: warranted }
+          - { id: who-wants-it, heading: Who Wants It, status: warranted }
+          - { id: hooks, heading: Hooks, status: optional }
+          - { id: see-also, heading: See Also, status: optional }
+
+    - id: world
+      match: { type: place, subType: world }
+      slots: []
+
+    - id: continent
+      match: { type: place, subType: region, anyTag: [continent] }
+      slots: []
+
+    - id: region
+      profile: [1, 2]
+      match: { type: place, subType: region }
+      slots:
+          - { id: overview, heading: Overview, status: warranted }
+          - { id: the-land, heading: The Land, status: warranted }
+          - { id: peoples, heading: Peoples, status: warranted }
+          - { id: realms, heading: Realms, status: warranted }
+          - { id: who-holds-it, heading: Who Holds It, status: warranted }
+          - { id: places, heading: Places, status: warranted }
+          - { id: present, heading: Current Situation, status: required, needs: summary }
+          - { id: roads-and-trade, heading: Roads and Trade, status: warranted }
+          - { id: faiths, heading: Faiths, status: warranted }
+          - { id: settlements, heading: Settlements, status: warranted }
+          - { id: dangers, heading: Dangers, status: warranted }
+          - { id: history, heading: History, status: optional }
+          - { id: hooks, heading: Hooks, status: optional }
+          - { id: see-also, heading: See Also, status: optional }
+
+    - id: district
+      profile: 2
+      match: { type: place, subType: district }
+      slots:
+          - { id: overview, heading: Overview, status: warranted }
+          - { id: the-land, heading: The Land, status: warranted }
+          - { id: who-holds-it, heading: Who Holds It, status: warranted }
+          - { id: places, heading: Places, status: warranted }
+          - { id: present, heading: Current Affairs, status: required, needs: summary }
+          - { id: dangers, heading: Dangers, status: warranted }
+          - { id: history, heading: History, status: optional }
+          - { id: hooks, heading: Hooks, status: optional }
+          - { id: see-also, heading: See Also, status: optional }
+
+    - id: route
+      profile: 21
+      match: { type: place, subType: route }
+      slots:
+          - { id: overview, heading: Overview, status: warranted }
+          - { id: what-moves-on-it, heading: What Moves on It, status: warranted }
+          - { id: logistics, heading: Logistics, status: warranted }
+          - { id: stations, heading: The Stations, status: warranted }
+          - { id: year-on-the-road, heading: The Year on the Road, status: warranted }
+          - { id: present, heading: Who Patrols and Taxes It, status: required, needs: summary }
+          - { id: dangers, heading: Dangers, status: warranted }
+          - { id: history, heading: History, status: optional }
+          - { id: hooks, heading: Hooks, status: optional }
+          - { id: see-also, heading: See Also, status: optional }
+
+    - id: feature
+      profile: 20
+      match: { type: place, subType: feature }
+      slots:
+          - { id: overview, heading: Overview, status: warranted }
+          - { id: the-land, heading: The Land, status: warranted }
+          - { id: who-uses-it, heading: Who Uses It, status: warranted }
+          - { id: dangers, heading: Dangers, status: warranted }
+          - { id: what-is-told, heading: What Is Told, status: warranted }
+          - { id: present, heading: Converging Interests, status: required, needs: summary }
+          - { id: history, heading: History, status: optional }
+          - { id: hooks, heading: Hooks, status: optional }
+          - { id: see-also, heading: See Also, status: optional }
+
+    - id: temple-site
+      profile: 6
+      match: { type: place, subType: site, anyTag: [temple], noTag: [city] }
+      slots:
+          - { id: overview, heading: Overview, status: warranted }
+          - { id: founding, heading: Founding, status: warranted }
+          - { id: history, heading: History, status: required }
+          - { id: present, heading: Current Situation, status: required, needs: summary }
+          - { id: who-rules-it, heading: Who Rules It, status: warranted }
+          - { id: lands-and-income, heading: Lands and Income, status: warranted }
+          - { id: visiting, heading: Visiting the House, status: warranted }
+          - { id: the-grounds, heading: The Grounds, status: warranted }
+          - { id: hooks, heading: Hooks, status: optional }
+          - { id: see-also, heading: See Also, status: optional }
+          - { id: truth, heading: Truth, status: optional, level: 1 }
+
+    - id: temple
+      match: { type: place, subType: [settlement, structure], anyTag: [temple], noTag: [city] }
+      slots:
+          - { id: overview, heading: Overview, status: warranted }
+          - { id: founding, heading: Founding, status: warranted }
+          - { id: history, heading: History, status: optional }
+          - { id: present, heading: Current Situation, status: required, needs: summary }
+          - { id: who-rules-it, heading: Who Rules It, status: warranted }
+          - { id: lands-and-income, heading: Lands and Income, status: warranted }
+          - { id: visiting, heading: Visiting the House, status: warranted }
+          - { id: the-grounds, heading: The Grounds, status: warranted }
+          - { id: hooks, heading: Hooks, status: optional }
+          - { id: see-also, heading: See Also, status: optional }
+          - { id: truth, heading: Truth, status: optional, level: 1 }
+
+    - id: manor
+      profile: 15
+      match: { type: place, subType: settlement, anyTag: [manor] }
+      absent: [history]
+      slots:
+          - { id: overview, heading: Overview, status: warranted }
+          - { id: present, heading: Current Events, status: required, needs: summary }
+          - { id: land-and-livelihood, heading: Land and Livelihood, status: warranted }
+          - { id: lords-household, heading: "The Lord's Household", status: warranted }
+          - { id: court-and-year, heading: The Court and the Year, status: warranted }
+          - { id: households, heading: Households, status: warranted }
+          - { id: hooks, heading: Hooks, status: optional }
+          - { id: see-also, heading: See Also, status: optional }
+
+    - id: seat
+      profile: 16
+      match: { type: place, subType: settlement, anyTag: [castle, fortress, fortified] }
+      slots:
+          - { id: overview, heading: Overview, status: warranted }
+          - { id: history, heading: History, status: required }
+          - { id: present, heading: Current Situation, status: required, needs: summary }
+          - { id: holder, heading: The Holder, status: warranted }
+          - { id: garrison, heading: Garrison, status: warranted }
+          - {
+                id: government-faith-trade,
+                heading: "Government, Faith and Trade",
+                status: warranted,
+            }
+          - { id: within-the-walls, heading: Within the Walls, status: warranted }
+          - { id: hooks, heading: Hooks, status: optional }
+          - { id: see-also, heading: See Also, status: optional }
+          - { id: truth, heading: Truth, status: optional, level: 1 }
+
+    - id: city
+      profile: 12
+      match: { type: place, subType: settlement, anyTag: [city] }
+      slots:
+          - { id: overview, heading: Overview, status: warranted }
+          - { id: arriving, heading: Arriving, status: warranted }
+          - { id: present, heading: Politics, status: required, needs: summary }
+          - { id: order-and-law, heading: Order and Law, status: warranted }
+          - { id: what-the-city-lives-by, heading: What the City Lives By, status: warranted }
+          - { id: quarters, heading: Quarters, status: warranted }
+          - { id: faith-and-festivals, heading: Faith and Festivals, status: warranted }
+          - { id: lodging, heading: Where a Party Lodges, status: warranted }
+          - { id: history, heading: History, status: required }
+          - { id: hooks, heading: Hooks, status: optional }
+          - { id: see-also, heading: See Also, status: optional }
+          - { id: truth, heading: Truth, status: optional, level: 1 }
+
+    - id: town
+      profile: 13
+      match: { type: place, subType: settlement, anyTag: [town] }
+      slots:
+          - { id: overview, heading: Overview, status: warranted }
+          - { id: arriving, heading: Arriving, status: warranted }
+          - { id: what-the-town-lives-by, heading: What the Town Lives By, status: warranted }
+          - { id: who-rules, heading: Who Rules and Keeps Order, status: warranted }
+          - { id: present, heading: The Present, status: required, needs: summary }
+          - { id: lodging, heading: Where a Party Lodges, status: warranted }
+          - { id: history, heading: History, status: optional }
+          - { id: hooks, heading: Hooks, status: optional }
+          - { id: see-also, heading: See Also, status: optional }
+          - { id: truth, heading: Truth, status: optional, level: 1 }
+
+    - id: village
+      profile: 14
+      match: { type: place, subType: settlement, anyTag: [village] }
+      slots:
+          - { id: overview, heading: Overview, status: warranted }
+          - { id: the-village, heading: The Village, status: warranted }
+          - { id: the-holding, heading: The Holding, status: warranted }
+          - { id: who-leads, heading: Who Leads It, status: warranted }
+          - { id: present, heading: The Failing or the Quarrel, status: required, needs: summary }
+          - { id: what-is-seen, heading: What Is Seen from It, status: warranted }
+          - { id: cost-of-reaching-it, heading: The Cost of Reaching It, status: warranted }
+          - { id: history, heading: History, status: optional }
+          - { id: hooks, heading: Hooks, status: optional }
+          - { id: see-also, heading: See Also, status: optional }
+
+    - id: settlement
+      match: { type: place, subType: settlement }
+      slots:
+          - { id: overview, heading: Overview, status: warranted }
+          - { id: present, heading: The Present, status: required, needs: summary }
+          - { id: history, heading: History, status: optional }
+          - { id: hooks, heading: Hooks, status: optional }
+          - { id: see-also, heading: See Also, status: optional }
+          - { id: truth, heading: Truth, status: optional, level: 1 }
+
+    - id: ruin
+      profile: 18
+      match: { type: place, subType: site, anyTag: [ruin] }
+      slots:
+          - { id: overview, heading: Overview, status: warranted }
+          - { id: who-holds-it, heading: Who Holds It, status: warranted }
+          - { id: history, heading: Layers, status: required }
+          - { id: present, heading: What Is There Now, status: required, needs: summary }
+          - { id: dangerous-neighbours, heading: Dangerous Neighbours, status: warranted }
+          - { id: what-a-party-finds, heading: What a Party Finds, status: warranted }
+          - { id: hooks, heading: Hooks, status: optional }
+          - { id: see-also, heading: See Also, status: optional }
+          - { id: truth, heading: Truth, status: optional, level: 1 }
+
+    - id: working-site
+      profile: 17
+      match: { type: place, subType: site, anyTag: [mining] }
+      slots:
+          - { id: overview, heading: Overview, status: warranted }
+          - { id: history, heading: Founding and Tenure, status: required }
+          - { id: operation, heading: The Operation, status: warranted }
+          - { id: present, heading: The Standoff, status: required, needs: summary }
+          - { id: hooks, heading: Hooks, status: optional }
+          - { id: see-also, heading: See Also, status: optional }
+          - { id: truth, heading: Truth, status: optional, level: 1 }
+
+    - id: site
+      profile: 17
+      match: { type: place, subType: site }
+      slots:
+          - { id: overview, heading: Overview, status: warranted }
+          - { id: who-holds-it, heading: Who Holds It, status: warranted }
+          - { id: history, heading: Layers, status: required }
+          - { id: present, heading: What Is There Now, status: required, needs: summary }
+          - { id: dangerous-neighbours, heading: Dangerous Neighbours, status: warranted }
+          - { id: what-a-party-finds, heading: What a Party Finds, status: warranted }
+          - { id: hooks, heading: Hooks, status: optional }
+          - { id: see-also, heading: See Also, status: optional }
+          - { id: truth, heading: Truth, status: optional, level: 1 }
+
+    - id: structure
+      profile: 19
+      match: { type: place, subType: structure }
+      slots:
+          - { id: overview, heading: Overview, status: warranted }
+          - { id: inside, heading: Inside, status: warranted }
+          - { id: who-is-there, heading: Who Is There, status: warranted }
+          - { id: present, heading: The Present, status: required, needs: summary }
+          - { id: history, heading: History, status: optional }
+          - { id: hooks, heading: Hooks, status: optional }
+          - { id: see-also, heading: See Also, status: optional }
+
+    - id: place
+      match: { type: place }
+      slots:
+          - { id: present, heading: The Present, status: required, needs: summary }
+          - { id: history, heading: History, status: optional }
+          - { id: hooks, heading: Hooks, status: optional }
+          - { id: see-also, heading: See Also, status: optional }
+
+    - id: tribe
+      profile: 10
+      match: { type: affiliation, subType: polity, anyTag: [tribe, tribal] }
+      slots:
+          - { id: overview, heading: Overview, status: warranted }
+          - { id: how-it-is-led, heading: How It Is Led, status: warranted }
+          - { id: range, heading: "Range, Wells and Grounds", status: warranted }
+          - { id: relations, heading: Relations, status: warranted }
+          - { id: history, heading: History, status: required }
+          - { id: present, heading: The Present Pressure, status: required, needs: summary }
+          - { id: gathering-place, heading: The Gathering Place, status: warranted }
+          - { id: hooks, heading: Hooks, status: optional }
+          - { id: see-also, heading: See Also, status: optional }
+
+    - id: polity
+      profile: 3
+      match: { type: affiliation, subType: polity }
+      slots:
+          - { id: overview, heading: Overview, status: warranted }
+          - { id: how-it-is-ruled, heading: How It Is Ruled, status: warranted }
+          - { id: present, heading: Current Situation, status: required, needs: summary }
+          - { id: law, heading: Law, status: warranted }
+          - { id: arms, heading: Arms, status: warranted }
+          - { id: commerce, heading: Commerce and Currency, status: warranted }
+          - { id: faith, heading: Faith, status: warranted }
+          - { id: holdings, heading: Holdings, status: warranted }
+          - { id: history, heading: History, status: required }
+          - { id: relations, heading: Relations, status: warranted }
+          - { id: hooks, heading: Hooks, status: optional }
+          - { id: see-also, heading: See Also, status: optional }
+
+    - id: governing-body
+      profile: 4
+      match: { type: affiliation, subType: governmental }
+      slots:
+          - { id: overview, heading: Overview, status: warranted }
+          - { id: who-sits, heading: Who Sits, status: warranted }
+          - { id: how-it-decides, heading: How It Decides, status: warranted }
+          - { id: present, heading: What It Is Fighting About, status: required, needs: summary }
+          - { id: how-a-party-meets-it, heading: How a Party Meets It, status: warranted }
+          - { id: hooks, heading: Hooks, status: optional }
+          - { id: see-also, heading: See Also, status: optional }
+
+    - id: faith
+      profile: 5
+      match: { type: affiliation, subType: faithtradition }
+      slots:
+          - { id: overview, heading: Overview, status: warranted }
+          - { id: belief, heading: Belief, status: warranted }
+          - { id: worship, heading: Worship and Festivals, status: warranted }
+          - { id: organization, heading: Organization, status: warranted }
+          - { id: houses, heading: Houses, status: warranted }
+          - { id: present, heading: Politics, status: required, needs: summary }
+          - { id: how-a-party-meets-it, heading: How a Party Meets It, status: warranted }
+          - { id: hooks, heading: Hooks, status: optional }
+          - { id: see-also, heading: See Also, status: optional }
+
+    - id: order
+      profile: 7
+      match: { type: affiliation, subType: order }
+      slots:
+          - { id: overview, heading: Overview, status: warranted }
+          - { id: membership, heading: Membership, status: warranted }
+          - { id: leaders, heading: Leaders, status: warranted }
+          - { id: present, heading: What It Wants Now, status: required, needs: summary }
+          - { id: how-a-party-meets-it, heading: How a Party Meets It, status: warranted }
+          - { id: hooks, heading: Hooks, status: optional }
+          - { id: see-also, heading: See Also, status: optional }
+
+    - id: guild
+      profile: 8
+      match: { type: affiliation, subType: guild }
+      slots:
+          - { id: overview, heading: Overview, status: warranted }
+          - { id: what-it-controls, heading: What It Controls, status: warranted }
+          - { id: ranks, heading: Ranks, status: warranted }
+          - { id: masters, heading: Masters, status: warranted }
+          - { id: present, heading: The Present Quarrel, status: required, needs: summary }
+          - { id: hooks, heading: Hooks, status: optional }
+          - { id: see-also, heading: See Also, status: optional }
+
+    - id: lineage
+      profile: 9
+      match: { type: affiliation, subType: lineage }
+      slots:
+          - { id: overview, heading: Overview, status: warranted }
+          - { id: the-house-now, heading: The House Now, status: warranted }
+          - { id: holdings, heading: Holdings, status: warranted }
+          - { id: present, heading: Quarrels and Debts, status: required, needs: summary }
+          - { id: history, heading: History as Told, status: optional }
+          - { id: arms, heading: Arms, status: warranted }
+          - { id: hooks, heading: Hooks, status: optional }
+          - { id: see-also, heading: See Also, status: optional }
+
+    - id: affiliation
+      match: { type: affiliation }
+      slots:
+          - { id: present, heading: The Present, status: required, needs: summary }
+          - { id: hooks, heading: Hooks, status: optional }
+          - { id: see-also, heading: See Also, status: optional }
+
+    - id: culture
+      profile: 11
+      match: { type: lore, subType: culture }
+      absent: [present, hooks]
+      slots:
+          - { id: history, heading: History, status: optional }
+          - { id: see-also, heading: See Also, status: optional }
+
+    - id: history-event
+      profile: 22
+      match: { type: lore, subType: history }
+      absent: [present, hooks]
+      slots:
+          - { id: what-it-left, heading: What It Left, status: warranted }
+          - { id: see-also, heading: See Also, status: optional }
+
+    - id: lore
+      match: { type: lore }
+      absent: [present, hooks]
+      slots:
+          - { id: history, heading: History, status: optional }
+          - { id: see-also, heading: See Also, status: optional }
+
+    - id: character
+      profile: 23
+      match: { type: being, subType: character }
+      slots:
+          - { id: appearance, heading: Appearance, status: required, level: 1 }
+          - { id: dossier, heading: Dossier, status: required, level: 1 }
+
+    - id: npc
+      profile: 24
+      match: { type: being, subType: npc }
+      slots:
+          - { id: appearance, heading: Appearance, status: required, level: 1 }
+          - { id: dossier, heading: Dossier, status: required, level: 1 }
+
+    - id: creature
+      profile: 25
+      match: { type: being, subType: creature }
+      slots:
+          - { id: appearance, heading: Appearance, status: required, level: 1 }
+          - { id: dossier, heading: Dossier, status: required, level: 1 }
+
+    - id: adventure
+      profile: 27
+      match: { type: scenario, subType: adventure }
+      slots:
+          - { id: overview, heading: Overview, status: warranted }
+          - { id: what-is-really-happening, heading: What Is Really Happening, status: warranted }
+          - { id: hooks, heading: Hooks, status: optional }
+          - { id: opening, heading: The Opening, status: warranted }
+          - { id: scenes, heading: Scenes, status: warranted }
+          - { id: if-the-party-does-nothing, heading: If the Party Does Nothing, status: warranted }
+          - { id: aftermath, heading: Aftermath, status: warranted }
+          - { id: playtest, heading: Playtest, status: optional }
+          - { id: see-also, heading: See Also, status: optional }
+
+    - id: campaign-frame
+      profile: 27
+      match: { type: scenario, subType: campaign }
+      slots:
+          - { id: the-situation, heading: The Situation and the Stakes, status: warranted }
+          - { id: who-moves-it, heading: Who Moves It, status: warranted }
+          - { id: ways-in, heading: Ways In, status: warranted }
+          - { id: if-the-party-does-nothing, heading: If the Party Does Nothing, status: warranted }
+          - { id: the-secret, heading: The Secret, status: warranted }
+          - { id: hooks, heading: The Hooks It Gathers, status: optional }
+          - { id: playtest, heading: Playtest, status: optional }

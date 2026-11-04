@@ -1,0 +1,300 @@
+{
+    "_comment": "Notes the outline guard test writes into a temporary content tree. `words` pads the body with that many filler words.",
+    "notes": {
+        "World.md": {
+            "fm": {
+                "shortcode": "worldx",
+                "type": "place",
+                "subType": "world",
+                "tags": [],
+                "data": {
+                    "parents": []
+                }
+            },
+            "body": "The world.",
+            "words": 0
+        },
+        "Reach.md": {
+            "fm": {
+                "shortcode": "reach",
+                "type": "place",
+                "subType": "region",
+                "tags": ["region"],
+                "data": {
+                    "parents": ["worldx"]
+                }
+            },
+            "body": "A land.\n\n## Current Situation {#present}\n\nTrouble.",
+            "words": 0
+        },
+        "Missing.md": {
+            "fm": {
+                "shortcode": "missing",
+                "type": "place",
+                "subType": "settlement",
+                "tags": ["town"],
+                "data": {
+                    "parents": ["reach"]
+                }
+            },
+            "body": "A town.\n\n## Arriving {#arriving}\n\nGates.",
+            "words": 300
+        },
+        "Stub.md": {
+            "fm": {
+                "shortcode": "stubby",
+                "type": "place",
+                "subType": "settlement",
+                "tags": ["village"],
+                "data": {
+                    "parents": ["reach"]
+                }
+            },
+            "body": "A village.",
+            "words": 40
+        },
+        "Order.md": {
+            "fm": {
+                "shortcode": "order",
+                "type": "place",
+                "subType": "settlement",
+                "tags": ["town"],
+                "data": {
+                    "parents": ["reach"]
+                }
+            },
+            "body": "A town.\n\n## Ways In {#hooks}\n\nHooks.\n\n## Trouble {#present}\n\nTrouble.\n\n## Lodging {#lodging}\n\nBeds.",
+            "words": 300
+        },
+        "Last.md": {
+            "fm": {
+                "shortcode": "lastly",
+                "type": "place",
+                "subType": "settlement",
+                "tags": ["town"],
+                "data": {
+                    "parents": ["reach"]
+                }
+            },
+            "body": "A town.\n\n## Trouble {#present}\n\nTrouble.\n\n## See Also {#see-also}\n\nLinks.\n\n## More {#lodging}\n\nBeds.",
+            "words": 300
+        },
+        "Secret.md": {
+            "fm": {
+                "shortcode": "secretive",
+                "type": "place",
+                "subType": "settlement",
+                "tags": ["town"],
+                "data": {
+                    "parents": ["reach"]
+                }
+            },
+            "body": "A town.\n\n## Trouble {#present}\n\nTrouble.\n\n## See Also {#see-also}\n\nLinks.\n\n# What Is True {#truth .secret}\n\nTruth.",
+            "words": 300
+        },
+        "Skill.md": {
+            "fm": {
+                "shortcode": "swordsk",
+                "type": "skill",
+                "subType": "combat",
+                "tags": [],
+                "data": {}
+            },
+            "body": "A skill.",
+            "words": 500
+        },
+        "Lore.md": {
+            "fm": {
+                "shortcode": "oldlore",
+                "type": "lore",
+                "subType": "custom",
+                "tags": [],
+                "data": {}
+            },
+            "body": "A custom.\n\n## The Past {#history}\n\nLong ago.\n\n## Ways In {#hooks}\n\nHooks.",
+            "words": 0
+        },
+        "Other.md": {
+            "fm": {
+                "shortcode": "other",
+                "type": "place",
+                "subType": "region",
+                "tags": ["region"],
+                "data": {
+                    "parents": ["worldx"]
+                }
+            },
+            "body": "Another land.",
+            "words": 0
+        },
+        "Sub.md": {
+            "fm": {
+                "shortcode": "subreg",
+                "type": "place",
+                "subType": "region",
+                "tags": ["region"],
+                "data": {
+                    "parents": ["reach"]
+                }
+            },
+            "body": "A sub-region.",
+            "words": 0
+        },
+        "Under.md": {
+            "fm": {
+                "shortcode": "underly",
+                "type": "place",
+                "subType": "settlement",
+                "tags": ["town"],
+                "data": {
+                    "parents": ["subreg"]
+                }
+            },
+            "body": "A town.\n\n## Arriving {#arriving}\n\nGates.",
+            "words": 300
+        },
+        "Addr.md": {
+            "fm": {
+                "shortcode": "addressed",
+                "type": "place",
+                "subType": "settlement",
+                "tags": ["town"],
+                "data": {
+                    "parents": ["place-reach"]
+                }
+            },
+            "body": "A town.",
+            "words": 300
+        },
+        "Two.md": {
+            "fm": {
+                "shortcode": "twoparent",
+                "type": "place",
+                "subType": "settlement",
+                "tags": ["town"],
+                "data": {
+                    "parents": ["other", "reach"]
+                }
+            },
+            "body": "A town.",
+            "words": 300
+        },
+        "Home.md": {
+            "fm": {
+                "shortcode": "homed",
+                "type": "being",
+                "subType": "npc",
+                "tags": [],
+                "data": {
+                    "homes": ["missing"]
+                }
+            },
+            "body": "A person.",
+            "words": 0
+        },
+        "Fence.md": {
+            "fm": {
+                "shortcode": "fenced",
+                "type": "place",
+                "subType": "settlement",
+                "tags": ["town"],
+                "data": {
+                    "parents": ["reach"]
+                }
+            },
+            "body": "A town.\n\n````md\n```\nsample\n```\n\n## Demonstration {#present}\n\nNot a heading.\n````",
+            "words": 300
+        },
+        "Level.md": {
+            "fm": {
+                "shortcode": "leveled",
+                "type": "being",
+                "subType": "npc",
+                "tags": [],
+                "data": {
+                    "homes": ["missing"]
+                }
+            },
+            "body": "## Appearance {#appearance}\n\nLooks.\n\n## Dossier {#dossier}\n\nFacts.",
+            "words": 0
+        },
+        "Nested.md": {
+            "fm": {
+                "shortcode": "nested",
+                "type": "place",
+                "subType": "settlement",
+                "tags": ["town"],
+                "data": {
+                    "parents": ["reach"]
+                }
+            },
+            "body": "A town.\n\n## See Also {#see-also}\n\nLinks.\n\n### Trouble {#present}\n\nTrouble.",
+            "words": 300
+        },
+        "QualParent.md": {
+            "fm": {
+                "shortcode": "qualparent",
+                "type": "place",
+                "subType": "settlement",
+                "tags": ["town"],
+                "data": {
+                    "parents": ["thalorna-note-place-reach"]
+                }
+            },
+            "body": "A town.",
+            "words": 300
+        },
+        "QualifiedResidence.md": {
+            "fm": {
+                "shortcode": "qualhomed",
+                "type": "being",
+                "subType": "npc",
+                "tags": [],
+                "data": {
+                    "homes": ["thalorna-note-place-missing"]
+                }
+            },
+            "body": "A person.",
+            "words": 0
+        },
+        "Tribe.md": {
+            "fm": {
+                "shortcode": "tribish",
+                "type": "affiliation",
+                "subType": "polity",
+                "tags": ["tribe"],
+                "data": {
+                    "parents": ["reach"]
+                }
+            },
+            "body": "A tribe.\n\n## Pressure {#present}\n\nTrouble.",
+            "words": 300
+        },
+        "TempleSite.md": {
+            "fm": {
+                "shortcode": "templesite",
+                "type": "place",
+                "subType": "site",
+                "tags": ["temple"],
+                "data": {
+                    "parents": ["reach"]
+                }
+            },
+            "body": "A temple.\n\n## Now {#present}\n\nTrouble.",
+            "words": 300
+        },
+        "TempleHall.md": {
+            "fm": {
+                "shortcode": "templehall",
+                "type": "place",
+                "subType": "structure",
+                "tags": ["temple"],
+                "data": {
+                    "parents": ["reach"]
+                }
+            },
+            "body": "A temple.\n\n## Now {#present}\n\nTrouble.",
+            "words": 300
+        }
+    }
+}
