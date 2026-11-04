@@ -8,20 +8,15 @@
  *
  * Every coined form of a language note (`data.words[].form` and `variants`,
  * and every name in `data.names` apart from `pattern`, `metadata` and the
- * English lists under `en`) is read for adjacent vowel letters. Each pair must
- * be one of:
- *
- * - a **group of the language**: a `vowel pair` or `long vowel` entry of
- *   `data.sounds.letters` in the guide (Pronouncing Thalorna, limited by the
- *   entry's `tongue` list when it has one), or in the language note itself;
- * - a pair whose **second vowel carries a diaeresis or an acute**, which
- *   sounds that vowel as a syllable of its own.
- *
- * Any other pair is read by the walking rule (the second vowel is silent), and
- * is a finding. An acute on the first vowel is stripped, so a stressed group is
- * still the group. A grave never joins a group: a pair with a grave-marked
- * vowel is held to the same test as any other. The letter `y` is a consonant.
- * A hyphen, space, apostrophe or any other non-letter ends a run of vowels.
+ * English lists under `en`) is read for diaereses. Two vowels side by side are
+ * both said unless they form a group, so a diaeresis changes the reading only
+ * on the second vowel of a group: a `vowel pair` or `long vowel` entry of
+ * `data.sounds.letters` in the guide (Pronouncing Thalorna, limited by the
+ * entry's `tongue` list when it has one), or in the language note itself.
+ * A diaeresis anywhere else changes nothing and is a finding: every sound has
+ * one spelling. Runs of vowels are read left to right, longest group first. A
+ * grave never joins a group. The letter `y` is a consonant. A hyphen, space,
+ * apostrophe or any other non-letter ends a run of vowels.
  *
  * No language is exempt: Aelwythi is held to the standard like every other.
  *
@@ -99,7 +94,8 @@ export function languageName(text) {
 }
 
 /**
- * The vowel pairs of a form that are neither a group nor sounded apart.
+ * The diaereses of a form that change nothing: those not on the second vowel
+ * of a group.
  *
  * @param {string} form
  * @param {Set<string>} groups
@@ -119,6 +115,23 @@ export function badPairs(form, groups) {
         } else letters.push({ base: ch.toLowerCase(), raw: ch, acute: false, diaeresis: false });
     }
     const isVowel = (l) => l && "aeiou".includes(l.base);
+    for (let i = 0; i + 1 < letters.length; i += 1) {
+        const a = letters[i];
+        const b = letters[i + 1];
+        if (
+            isVowel(a) &&
+            isVowel(b) &&
+            !a.inGroup &&
+            !b.diaeresis &&
+            !b.acute &&
+            !a.grave &&
+            !b.grave &&
+            groups.has(a.base + b.base)
+        ) {
+            a.inGroup = true;
+            b.inGroup = true;
+        }
+    }
     const out = [];
     let offset = 0;
     const offsets = letters.map((l) => {
@@ -126,22 +139,19 @@ export function badPairs(form, groups) {
         offset += l.raw.normalize("NFC").length;
         return o;
     });
-    // Read each run of vowels left to right; a group consumes both its letters,
-    // and two bare vowels that form no group are a finding.
-    let i = 0;
-    while (i < letters.length) {
-        const a = letters[i];
-        const b = letters[i + 1];
-        if (!isVowel(a) || !isVowel(b) || b.diaeresis || b.acute) {
-            i += 1;
-            continue;
-        }
-        if (!a.grave && !b.grave && groups.has(a.base + b.base)) {
-            i += 2;
-            continue;
-        }
-        out.push({ pair: a.base + b.base, offset: offsets[i] });
-        i += 2;
+    // Read each run of vowels left to right, longest group first. A diaeresis
+    // on a vowel is needed only where, without it, that vowel would join the
+    // one before it in a group; anywhere else it is a mark that changes nothing.
+    for (let i = 0; i < letters.length; i += 1) {
+        const b = letters[i];
+        if (!isVowel(b) || !b.diaeresis) continue;
+        const a = letters[i - 1];
+        const splits = isVowel(a) && !a.grave && !a.inGroup && groups.has(a.base + b.base);
+        if (!splits)
+            out.push({
+                pair: isVowel(a) ? a.base + b.base : b.base,
+                offset: offsets[isVowel(a) ? i - 1 : i],
+            });
     }
     return out;
 }
@@ -346,7 +356,7 @@ export function main(argv, io = { out: console.log, err: console.error }, cwd = 
             byLanguage.set(name, (byLanguage.get(name) ?? 0) + 1);
             byPair.set(hit.pair, (byPair.get(hit.pair) ?? 0) + 1);
             io.err(
-                `${rel}:${hit.line}:${hit.column}: warning: "${hit.form}" has the pair "${hit.pair}", which is neither a vowel group of ${name} nor marked apart`,
+                `${rel}:${hit.line}:${hit.column}: warning: "${hit.form}" carries a diaeresis on "${hit.pair}" that changes nothing, since a diaeresis splits only a vowel group of ${name}`,
             );
         }
     }

@@ -301,8 +301,8 @@ jo sorimate urkis ralena ul antigandon fos talon.
 
 cho antigate ir solroze ul urzvalmate melvar valmara/
 talv anchraze ir trevole, olime pelize ul jentize,/
-ul narthen valera fir sarcheände, klame, talv zirvara,/
-ta sarcheände kolerate volchema, talon ul lambize./
+ul narthen valera fir sarcheande, klame, talv zirvara,/
+ta sarcheande kolerate volchema, talon ul lambize./
 mapele zarnate ornete frandra poltara,/
 frandra orteme nechaime, talv urkis lentize./
 jo sorimate dena urzele tarnela ir de sedon./
@@ -317,20 +317,20 @@ fir urzele chesdal, urzele zai, urzele petandon,/
 ul trumate solmere us ornela ul antigai fir salkar./
 cho tavrelate olnare ol felzur ul valera alatar‼
 
-ir jhorne ol nuralon ker sarcheände dajalte ralena,/
-sarcheände ol valmare lokate zel fir volsater, fir salkon,/
+ir jhorne ol nuralon ker sarcheande dajalte ralena,/
+sarcheande ol valmare lokate zel fir volsater, fir salkon,/
 us urzele pratolzon dene lendate olvena,/
 sarona ir urzele dechaze, ul zarmena ir sedon./
 dorechis talete ar valmkovra lair ormele grilena,/
 ta tigate talv narveza, zumbrate vereze ir ritavon,/
 ul fir dumva antigate, zai denon ez dunare./
-«ez varelin,» cho dokate fir sarcheände ol valmare‼
+«ez varelin,» cho dokate fir sarcheande ol valmare‼
 
 dene dokate urzele lambize ol zarmena,/
 narveza, zumbrandon, antigandon fir dumva ul sedon./
 aulira tavete, telvare us valcherta, us koremena,/
 ir nizele lambize pelzate anralve. ar tavandon./
-sarcheände framate. ormele sistate lair ralena./
+sarcheande framate. ormele sistate lair ralena./
 dena dokate ir navena «cho lorezate denon/
 sa lambize ol semnalis fa melvar krezul ol liskote.»/
 dene petrete «ez,» talv jentamis ol talote.
@@ -447,7 +447,7 @@ lekaze dokate talv dajande lambize ol veramis,/
 velirandon olime, sa ez fente. «daimela,/
 arurkis linkate sedon ir anprasedon, ar veretis,/
 ul arurkis ol enoi ralvate, ar ir urkis tarnela./
-naren rozon ar velirate, ar orfeäte ketis./
+naren rozon ar velirate, ar orfeate ketis./
 jo, lekaze ol jalnasdal, taurate denon talv jervela./
 urkis jhorne, ulmera sate, sa rozon./
 tavemer, ul arurkis jhorne, arurkis tigandon.»
@@ -488,7 +488,7 @@ veramis olime, ta vereze, sa kalveza ol kalemare./
 demate valemza fir urzele ul antigai, sa daimela,/
 ul ortemai, sa dajande vereze, lendate talv jervela
 
-solten ol orvene ol malvote ir dechaze ol sarcheände/
+solten ol orvene ol malvote ir dechaze ol sarcheande/
 ol sélmoros, fa lozete fir talon ol malvote. ul antigai/
 dene frenzate lekaze fa rozon ul chesdande,/
 ul fa melvar tarvela ol dene ir dumela. ortemai,/
@@ -499,10 +499,10 @@ jolemis aurente, ul orteme, dajimmon ir zestema.
 
 dene demate fir valmare anchraze ul jentize,/
 sa jervete vereze ol antigandon, ul narthen valera./
-ankele sarcheände kolerate valera ol lentize,/
+ankele sarcheande kolerate valera ol lentize,/
 lanira fos nechaime, ul mandare lanbeze sa ulmera./
 lanira sistate. ir anklame sarchemal lambize/
-«cho zarlete nechaime. cho orfeäte dena, ar tumera.»/
+«cho zarlete nechaime. cho orfeate dena, ar tumera.»/
 «jo chesdate denon,» lentize dokate pral sarchemal,/
 «jo gaurate dena lokanti, ul de ez jerval.»
 
@@ -516,7 +516,7 @@ dene tavete urzele lambize ol olnare,/
 ul dene tavete nasdele, ar sedate fos tevare.
 
 nuralon lokate, ul melvar jhorne ol dajalteza./
-sarcheände tigate zel valcherta talv olvena ul jentize,/
+sarcheande tigate zel valcherta talv olvena ul jentize,/
 ul lentize dokate zedime zarmena talv narveza,/
 kurete sarona, ar anralve ir nizele lambize./
 ta ir kaure iltela, fir nembkorvatis, talv jormsater, fos joreza,/

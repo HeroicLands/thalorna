@@ -232,21 +232,6 @@ const respellings = new Map([
     ],
     [notePath("skill-nordmalng"), [["gnuldurthann", "gnuldurvir"]]],
     [
-        notePath("skill-khelathlng"),
-        [
-            ["heurath", "heürath"],
-            ["zethuar", "zethuär", "word"],
-            ["faelath", "faëlath", "word"],
-            ["fael", "faël", "word"],
-            ["gez'aqeu", "gez'aqeü", "word"],
-            ["Gez'Aqeu", "Gez'Aqeü", "word"],
-            ["iuthi'gehtiu", "iüthi'gehtiü", "word"],
-            ["Iuthi'Gehtiu", "Iüthi'Gehtiü", "word"],
-            ["melu'khelariu", "melu'khelariü", "word"],
-            ["Melu'Khelariu", "Melu'Khelariü", "word"],
-        ],
-    ],
-    [
         notePath("skill-varokhlng"),
         [
             ["vithár", "wíthar"],

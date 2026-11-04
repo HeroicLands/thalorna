@@ -90,8 +90,6 @@ data:
     a: []
     e: []
     ë: []
-    ä: []
-    ü: []
     i: []
     o: []
     u: []
@@ -104,8 +102,6 @@ data:
     "'a": CATCH
     "'e": CATCH
     "'ë": CATCH
-    "'ä": CATCH
-    "'ü": CATCH
     "'i": CATCH
     "'o": CATCH
     "'u": CATCH
@@ -118,8 +114,6 @@ data:
     ’a: CATCH
     ’e: CATCH
     ’ë: CATCH
-    ’ä: CATCH
-    ’ü: CATCH
     ’i: CATCH
     ’o: CATCH
     ’u: CATCH
@@ -137,8 +131,6 @@ data:
       - {match: a, at: start, emit: CATCH}
       - {match: e, at: start, emit: CATCH}
       - {match: ë, at: start, emit: CATCH}
-      - {match: ä, at: start, emit: CATCH}
-      - {match: ü, at: start, emit: CATCH}
       - {match: i, at: start, emit: CATCH}
       - {match: o, at: start, emit: CATCH}
       - {match: u, at: start, emit: CATCH}
@@ -159,7 +151,7 @@ Qalezu writes consonants. A reader supplies the vowels from the word.
 
 - **Each consonant is its sign**, and its Roman spelling is lowercase.
 - **The digraphs are one sign each:** _th_, _sh_, _kh_ and _gh_, and _ch_ and _tj_, which are the same sign. _j_ is that sign too.
-- **_v_ is the sign of _f_**, and **_ë_, _ä_ and _ü_ are the vowels _e_, _a_ and _u_**.
+- **_v_ is the sign of _f_**, and **_ë_ is the vowel _e_**.
 - **A consonant written twice** with no vowel between is that sign's doubled form, and so is a letter doubled before a digraph that begins with it (_tth_).
 - **A vowel is not written**, and neither is the acute that marks its stress in the roman, except at the start of a word, where it is the catch.
 - **The catch** is `'` or `’`.

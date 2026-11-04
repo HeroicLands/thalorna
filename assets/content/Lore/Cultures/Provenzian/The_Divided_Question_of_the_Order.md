@@ -140,10 +140,10 @@ jo taurate dena, dorandar, talv ornete ul selvore.
 
 [iltore]{.speaker}/
 cholvaze ol urzele poltamis kerate zirote./
-sarcheände ol anklame nasde zirotate fa verdavis./
-de ez ulteza. ta cho zurate cholvaze, cho zeöte‼/
+sarcheande ol anklame nasde zirotate fa verdavis./
+de ez ulteza. ta cho zurate cholvaze, cho zeote‼/
 dameza ol cho dorate urtai talv ornete, lair tremuzis./
-kurete, demate antigai, ar orfeäte jerval./
+kurete, demate antigai, ar orfeate jerval./
 cho lendate dena talv laton fir denkanai fos zirotal.
 
 [serdale]{.speaker}/
@@ -152,10 +152,10 @@ ul cho lendate dena olime. ir jhorne ol semnale/
 dumva felzate semnalis fa daje kambeza./
 eza dameza ves tizaro? petate serdale./
 letima ol cho dena, dumva tizaro dokate./
-eza kete cho taurate? zeöte jo chesdate.
+eza kete cho taurate? zeote jo chesdate.
 
 [iltore]{.speaker}/
-dumva zurate jo, ul kalzote klamete neärle/
+dumva zurate jo, ul kalzote klamete nearle/
 ir rembalis. jo taurate dena olime ir dumela,/
 ul ker denoi petate oleti, jo kerate kiramarle./
 tizaro nelve jo linkate fir zedime tarnela./
@@ -198,9 +198,9 @@ panize ez serdale ul iltore, sourime. petandon ez sedon ol dameza ir ziromon ol 
 
 nasde nasdate olimai, serdale lorezate ziromon sa nasdele fente, ul dene ez nasdele, laton ir de ziromon panize dunate frenzate ul liskate, ul laton ol liskaima dene dunate analvete. verdane ez daje. ortemandon ez nelve.
 
-dena nasdate etorai, iltore vakate verdane, arlen ol olte ez telvare us arlen ol nurezandon, ul dene pubrate neärle ol veramis ol dene ta dene taurate de arlen. dena nasdate, pubrandon ez dajande, ul lendate denon, arurkis vereze petate dene fa denon.
+dena nasdate etorai, iltore vakate verdane, arlen ol olte ez telvare us arlen ol nurezandon, ul dene pubrate nearle ol veramis ol dene ta dene taurate de arlen. dena nasdate, pubrandon ez dajande, ul lendate denon, arurkis vereze petate dene fa denon.
 
-dena nasdate karzore, iltore ez nasdele, cholvaze ez zirote, oleti sarcheände ol sélmoros zirotate denoi fa verdavis, ul fa denon serdale linkate dameza ol dene talv ornete urtai. serdale ar petrete de verdane, naren dene petate dajaze petandon, ul iltore petrete denon talv netora, ul ar talv dumva.
+dena nasdate karzore, iltore ez nasdele, cholvaze ez zirote, oleti sarcheande ol sélmoros zirotate denoi fa verdavis, ul fa denon serdale linkate dameza ol dene talv ornete urtai. serdale ar petrete de verdane, naren dene petate dajaze petandon, ul iltore petrete denon talv netora, ul ar talv dumva.
 
 dena nasdate ir sedon ol felzur, ar urkis ol tavemer petate dameza fa sedon ol dena. dameza ar ez panize ol ziromon, ul arurkis vereze klamete dena. fa denon petandon ar ez nasdele, ul nasdandon tavir panize ar dunate ortemate denon.
 

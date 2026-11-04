@@ -324,7 +324,7 @@ _\[Beneath it, the teacher's hand: Not in good order. Copy it again after the fl
 :::
 
 ::: {.verse form=rethet lang=khel enc=khelqalezuenc work=instruction}
-zuren zurenar qu. zethal zethuär qu./
+zuren zurenar qu. zethal zethuar qu./
 wanel eqar qenat az zethgal./
 nelaz naru rethet lazret ez telu az kalzet salet./
 zethul saru zar qalmer elu telu./
@@ -354,7 +354,7 @@ wanel qedlar galar lazret./
 qaleth qedlar. qedath zegarar qazur naru./
 rethal zegarar qu. khez razeth telu ez naru‼/
 
-khelathi-zethu ez telu. qalezu ez zethuär az limqet./
+khelathi-zethu ez telu. qalezu ez zethuar az limqet./
 rethath genar thalmu lazet ez lazet./
 khez dunel saru zethul galzat nazar saru./
 khez dunel telu zethul zethqalnet elu saru./
@@ -386,7 +386,7 @@ tharun zethal telu az zelqet‼/
 wanel zelqet elu qenat./
 
 az tarmil ta nazar. zethqen lazret./
-khez yalath faël ez naru. khez tamral genar naru./
+khez yalath fael ez naru. khez tamral genar naru./
 az tarmal ta galmun. galar elu kalzu./
 nelaz genar qu ez yalethar elu thaz'lekhau./
 khez tarul saru ez zethqen leqar./
@@ -400,9 +400,9 @@ wanel malen telu./
 qezlet khalat ezu shelu. qelgar telu salqet‼/
 khez qelgar telu ezu azlet‼ yalen konet qalet./
 
-zuwath genar temun. zethal zethuär qu./
-zethal zethuär qamzun./
-zethal zethuär zeqat qarmath rethnar./
+zuwath genar temun. zethal zethuar qu./
+zethal zethuar qamzun./
+zethal zethuar zeqat qarmath rethnar./
 khemu. qamar zethgal qalzunet ez naru./
 zeqat elu malen ez mathun./
 zeqat elu telu ez nazu./
@@ -417,7 +417,7 @@ tharel telu ezu qarzel. wanel qarzel qarzel./
 zethul zethular genar mar garel elu saru./
 qazet genar eqar temun./
 kelath qazemnet ezu zethu. qamar qu rethan./
-heürath telu rethan‼ khez razel telu qu‼/
+heurath telu rethan‼ khez razel telu qu‼/
 
 zethul telu zethqen mar zethal telu zelqet‼/
 «tharel saru az yathar.» qazlun lazen./
@@ -507,14 +507,14 @@ lagath nazu zethqen ezu kalzet salet./
 khez razeth genar ez nazu narel qu./
 khez alqar qaran az zethqen. khez alqar qu az eqar./
 galath lem'nelgir galar. khez lamath naru qu nyar zethu./
-zethal zethuär qu qel galar leqar. galet./
+zethal zethuar qu qel galar leqar. galet./
 zethal telu qu galet‼ khez zethal telu rethmet‼/
 zethal telu qu. lemath telu qu razel raznet elu qu‼/
 
 reth'sa'ar. qalthaz telu shequn az kalet khul‼/
 qamarun qelzut ez saru. khez ez telu./
 thalet telu az garel elu thalet nelgir‼/
-qezlun malen qarenar qu. zethal saru zethuär elu genar zamun./
+qezlun malen qarenar qu. zethal saru zethuar elu genar zamun./
 razel telu rethan ezu zethalnet lazet‼/
 ezu kalzet gerun ta tuzar./
 rethath lamur thalmu./
@@ -556,7 +556,7 @@ zurnet elu telu. horqet elu zurnet./
 wanel eqar raznet elu zurenar./
 khez wanel qu alqarnet./
 «zuren nazu qathur. khez zuren nazu qatheznet.»/
-zethal zethuär khul. wanel khul qenat./
+zethal zethuar khul. wanel khul qenat./
 razel telu zurnet‼/
 wanel zurenar elu qelmul zethat khez qenet ta thaqur./
 
@@ -596,10 +596,10 @@ zethal genar naru az garun khez dunel telu zethul./
 khez qezlun zethalar rethan./
 
 azlet. qalu az galzat. tamelar az muzannet./
-khazil galnet elu nelgir. horqet tuzar. faël./
+khazil galnet elu nelgir. horqet tuzar. fael./
 makhal uqa'a nuqar gharen ezu qeznar./
 makhal saru az hodir. khez makhal telu./
-zethal telu qer elu faël. zethal telu‼/
+zethal telu qer elu fael. zethal telu‼/
 qelmul thalmu zethmin. thalet telu‼/
 wanel zethmin qelmul elu malen kamel./
 zethal khulret zelqet elu malen kamel./
@@ -670,7 +670,7 @@ mar kalzet gerun khul ta gerun, mar qazlun elu galathnet, tharel nazu az zethuln
 razal genar nazu. zeqel wathet nazu mazgar lazen elu barqet./
 danet elu kalqet lazen. thazit./
 qamar nazu khazmer. razel nazu khe./
-zethal zethuär khe. razel zethular galut./
+zethal zethuar khe. razel zethular galut./
 yarul zethqen nizar ta wathet. yaler wathet khez qemet./
 khez zethal nazu rethan zun. zethal genar qu az garel elu qu./
 tuqath galar elu nelgir wazlat ez leqar tarmil./

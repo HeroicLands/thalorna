@@ -122,14 +122,14 @@ zethul nazun laz zethu. khez zethul nazun leqar./
 
 ezu halzat elu halzi, halzi khul./
 lagath nelgiru lazen. lagath galar leqar./
-qu elu galar, zuren zurenar qu. zethal zethuär qu./
+qu elu galar, zuren zurenar qu. zethal zethuar qu./
 qu elu nelgiru, khez zurenar, khez zethqen./
 zethul nazun laz lazret zamar telu./
 qalath nelgiru elu naru qarmel elu nazun. zethul naru qu./
 ..ezu zethu.
 
-zuren zurenar qelqet. zethal zethuär qu. galut./
-zuren zurenar qelqarnat. zethal zethuär qu. galet./
+zuren zurenar qelqet. zethal zethuar qu. galut./
+zuren zurenar qelqarnat. zethal zethuar qu. galet./
 qelaz saru. qazet saru. galet./
 wazal zeqatar saru. zeqath leqar qu. galet./
 khez galath qelmar. khez galath temun khez mazret./
@@ -155,9 +155,9 @@ khez qelqarnat ezu zethu. razel zethular./
 
 [thalet zethular az zethat galut. razer saru zeqatar.]{.direction}/
 tharel telu, zeqatar elu wathet‼ razal nazun telu./
-qe razel telu «khez tamral nazu tazir»? zethal zethuär qu./
-qe razel telu khe? wanel khe lemet. zethal zethuär qu./
-khez zerath telu temun. zethal zethuär khe elu telu./
+qe razel telu «khez tamral nazu tazir»? zethal zethuar qu./
+qe razel telu khe? wanel khe lemet. zethal zethuar qu./
+khez zerath telu temun. zethal zethuar khe elu telu./
 zerath telu zeqat. rethur nazun rethan elu telu./
 ..galut lu galet, qel razel telu.
 

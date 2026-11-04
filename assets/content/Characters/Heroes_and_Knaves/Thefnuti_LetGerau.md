@@ -505,7 +505,7 @@ Merchant Prince [Zassor the Learned]{.name data-type="being/npc"}
 Toymaker [Mavrik the Innovator]{.name data-type="being/npc"}
 : A successful younger toymaker who has built wealth by turning out toys in bulk with newer materials that Thefnuti views as inferior. Mavrik has directly challenged Thefnuti's supremacy by advertising his toys as "superior because they are affordable" and has actively poached several of Thefnuti's potential clients. Mavrik sees Thefnuti as an arrogant relic and publicly questions whether his work is worth the extraordinary cost.
 
-[[being-rethekuthght|Retheku Iüthi'Gehtiü]]
+[[being-rethekuthght|Retheku Iuthi'Gehtiu]]
 : A bureaucrat who has begun examining Thefnuti's finances closely, questioning how commissions that should be financially ruinous result in Thefnuti's continued wealth. Retheku suspects hidden income or tax evasion and has become increasingly adversarial in his investigations.
 
 ### Affiliations

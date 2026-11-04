@@ -6,7 +6,7 @@ subType: language
 description: "The ancient speech of Au'Khelathu, bound to ritual and sorcery, written in the hieroglyphs of the sacred hand for priests and the Qalezu alphabet for everyone else."
 tags: []
 data:
-  roman: "abcdefghijklmnopqrstuvwyzáéíóúëäü0123456789·-'"
+  roman: "abcdefghijklmnopqrstuvwyzáéíóúë0123456789·-'"
   core: true
   abbreviation: Khel.
   banner: khelathubnr
@@ -150,7 +150,7 @@ data:
       - "zin'lepau"
       - "balene'reku"
       - "gezedu'garu"
-      - "gez'aqeü"
+      - "gez'aqeu"
       - "geze'el'anlaghu"
       - "qelt'leru"
       - "qelt'lefetu"
@@ -160,7 +160,7 @@ data:
       - "ithu'gataku"
       - "igu'maathu"
       - "itha'letu"
-      - "iüthi'gehtiü"
+      - "iuthi'gehtiu"
       - "geza'uzu"
       - "gul'loruru"
       - "gul'zekhenu"
@@ -171,7 +171,7 @@ data:
       - "meku'girahu"
       - "meku'lefru"
       - "meku'gataru"
-      - "melu'khelariü"
+      - "melu'khelariu"
       - "les'leretu"
       - "le'kheleshu"
       - "gar'anlaghau"
@@ -7090,7 +7090,7 @@ data:
       field: Everyday speech
       gloss: practical use
       source: {kind: coined}
-    - {form: heürath, class: v, field: Doing, gloss: discover, source: {kind: coined}}
+    - {form: heurath, class: v, field: Doing, gloss: discover, source: {kind: coined}}
     - {form: temthar, class: n, field: Everyday speech, gloss: kiln, source: {kind: coined}}
     - form: muzannet
       class: n
@@ -7118,7 +7118,7 @@ data:
       field: Doing
       gloss: [slowly (individual citations), slowly]
       source: {kind: coined}
-    - form: zethuär
+    - form: zethuar
       class: n
       field: The written and the recited
       gloss: scribe/handler of writing, built zethu + -ar
@@ -7131,7 +7131,7 @@ data:
       gloss: [continued presence, held pause or maintained interval (beside continued presence)]
       source: {kind: coined}
     - {form: qezqathnet, class: n, field: Everyday speech, gloss: throwing, source: {kind: coined}}
-    - form: heürathnet
+    - form: heurathnet
       class: n
       field: Everyday speech
       gloss: discovery
@@ -7350,7 +7350,7 @@ data:
       field: Doing
       gloss: [scrape, "n: burial pit (different contextual noun from scrape verb)"]
       source: {kind: coined}
-    - form: faël
+    - form: fael
       class: n
       field: Counting-house and water-works
       gloss: lamplight
@@ -7598,7 +7598,7 @@ data:
       gloss: obelisk
       source: {kind: coined}
     - {form: qezwan, class: adj, field: Everyday speech, gloss: brown, source: {kind: coined}}
-    - {form: faëlath, class: v, field: Doing, gloss: illuminate with light, source: {kind: coined}}
+    - {form: faelath, class: v, field: Doing, gloss: illuminate with light, source: {kind: coined}}
     - form: qezzal
       class: n
       field: Counting-house and water-works
@@ -8120,22 +8120,6 @@ data:
     - form: "Aqun-Uqa, wethûr ezu qelet"
       instead: "Uqa'a, qamzet ezu gazlet"
       why: sounds the death god's name in an invocation of the sun
-    - {form: heurath, instead: heürath, why: "two sounded vowels, written without the diaeresis"}
-    - form: heurathnet
-      instead: heürathnet
-      why: "two sounded vowels, written without the diaeresis"
-    - {form: zethuar, instead: zethuär, why: "two sounded vowels, written without the diaeresis"}
-    - {form: fael, instead: faël, why: "two sounded vowels, written without the diaeresis"}
-    - {form: faelath, instead: faëlath, why: "two sounded vowels, written without the diaeresis"}
-    - form: "Gez'Aqeu"
-      instead: "Gez'Aqeü"
-      why: "a house name with two sounded vowels, written without the diaeresis"
-    - form: "Iuthi'Gehtiu"
-      instead: "Iüthi'Gehtiü"
-      why: "a house name with two sounded vowels, written without the diaeresis"
-    - form: "Melu'Khelariu"
-      instead: "Melu'Khelariü"
-      why: "a house name with two sounded vowels, written without the diaeresis"
   tongues: [{tag: khelathi, meaning: a Khelathi name, language: skill-khelathlng}]
   register:
     - {name: meqes, tongue: khelathi}
@@ -9228,7 +9212,7 @@ in reverse, which is how the trade tongues along the coast came by the words.
 - Balene'Reku
 - Gezedu'Garu
 - Gezer'Kuru
-- Gez'Aqeü
+- Gez'Aqeu
 - Gez'Gathu
 - Geze'el'Anlaghu
 - Qelt'Leru
@@ -9245,7 +9229,7 @@ in reverse, which is how the trade tongues along the coast came by the words.
 - Igu'Thisu
 - Itha'Letu
 - Iqe'Leru
-- Iüthi'Gehtiü
+- Iuthi'Gehtiu
 - Geza'Uzu
 - Gul'el'Khosetu
 - Gul'Loruru
@@ -9263,7 +9247,7 @@ in reverse, which is how the trade tongues along the coast came by the words.
 - Meku'Lefru
 - Meku'Gataru
 - Amqelu'Gatau
-- Melu'Khelariü
+- Melu'Khelariu
 - Zab'Anlethu
 - Les'Leretu
 - Le'Kheleshu

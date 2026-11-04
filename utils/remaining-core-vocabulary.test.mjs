@@ -52,7 +52,6 @@ const taruzeliRespellings = [
     ["zukum", "zukush"],
     ["kum", "kush"],
     ["sir", "sik"],
-    ["Alamia", "Alamiä"],
 ];
 // Baseline spelling to current spelling for Sovidur words, their derived forms
 // and the names built on them, applied to the baseline fixture before
@@ -173,10 +172,6 @@ const replacedProse = new Map([
             [
                 "and heavily marked vowels for contractual precision.",
                 "and a careful, even run of _a_, _u_ and _i_ in every syllable for contractual precision.",
-            ],
-            [
-                "Two vowels standing together are both said, one after the other.",
-                "Two vowels standing together are both said, one after the other, and the second carries a diaeresis: _shiä_, there.",
             ],
         ],
     ],

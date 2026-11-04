@@ -196,7 +196,7 @@ Two vowels in the next table are a **vowel group**, said as one syllable. A tong
 
 The held vowels _aa_, _ii_ and _uu_ are the only way length is written.
 
-Any other two vowels side by side follow the **walking rule**: the first keeps its ordinary sound and the second is silent. Nothing is lengthened, so _boat_ reads _b_, _oh_, _t_, one syllable. To sound the second vowel as a syllable of its own, write it with a diaeresis: _koä_ is _KO-a_, two syllables. A diaeresis also splits a listed group: _kaira_ is _KAI-ra_, and _kaïra_ is _ka-I-ra_.
+Any other two vowels side by side are both said, each its own syllable: _koa_ is _KO-a_ and _kao_ is _KA-o_. No vowel is ever silent. A diaeresis on the second vowel of a listed group splits it into two syllables: _kau_ rhymes with _cow_, and _kaü_ is _KA-oo_. Every sound has one spelling, so a diaeresis is written only on a group, where it changes the reading.
 
 A vowel keeps its identity under stress and without stress; there is no unwritten reduction to _uh_. A final _e_ after a consonant is sounded and does not alter the preceding vowel. _y_ is always the consonant of _yes_; write _i_ for the vowel in _machine_. In new coined spellings, _y_ and _ny_ must be followed by a vowel. A glide is written with its consonant: _ee-ah_ run into one syllable is _ya_, and _oo-eh_ run into one syllable is _we_.
 
@@ -226,21 +226,21 @@ The letter _c_ appears only inside _ch_; a hard _c_ sound is written _k_. The le
 
 ### Syllables
 
-Every sounded vowel or vowel group makes a syllable; a silent vowel makes none. The letter _y_ does not count as a vowel. Identify letter groups, silent vowels and diaereses before counting syllables. A stem written with a hyphen, such as _zevr-_, is never said alone: it is always joined to an ending that opens on a vowel. A hyphen inside a complete coined word separates groups without adding a sound or resetting stress: _as-ha_ has separate _s_ and _h_, whereas _asha_ contains _sh_. Read a compound as one word, including where its elements meet. Where two consonants open a word in a pair unfamiliar in the reader's language, as in _dvon_ or _jvel_, they are said together.[^pair] An _h_ before a consonant or at the end of a word is a breath unless a recognized group consumes it.[^h]
+Every vowel or vowel group makes a syllable. The letter _y_ does not count as a vowel. Identify letter groups and diaereses before counting syllables. A stem written with a hyphen, such as _zevr-_, is never said alone: it is always joined to an ending that opens on a vowel. A hyphen inside a complete coined word separates groups without adding a sound or resetting stress: _as-ha_ has separate _s_ and _h_, whereas _asha_ contains _sh_. Read a compound as one word, including where its elements meet. Where two consonants open a word in a pair unfamiliar in the reader's language, as in _dvon_ or _jvel_, they are said together.[^pair] An _h_ before a consonant or at the end of a word is a breath unless a recognized group consumes it.[^h]
 
 ### Stress
 
-A one-syllable word carries its stress on that syllable. A word of two syllables is stressed on the first. A longer word is stressed on the second-to-last syllable. Count a listed vowel group as one syllable, a vowel with a diaeresis as a syllable of its own, and a silent vowel as none. Thus _Kelara_ is ke-LA-ra, _Kélara_ is KE-la-ra and _Kelará_ is ke-la-RA. A hyphen inside a compound does not create a separate stress domain.
+A one-syllable word carries its stress on that syllable. A word of two syllables is stressed on the first. A longer word is stressed on the second-to-last syllable. Count a listed vowel group as one syllable, and every other vowel as a syllable of its own. Thus _Kelara_ is ke-LA-ra, _Kélara_ is KE-la-ra and _Kelará_ is ke-la-RA. A hyphen inside a compound does not create a separate stress domain.
 
 ### Marks
 
 Common spelling writes three marks on vowels: the acute, the diaeresis and the grave. Each changes one thing, and a word may carry several of them.
 
-- An **acute** (_á_) marks a stressed syllable that the rule above would not choose. It changes stress, not the vowel's sound. A word carries at most one. Put it on the first vowel letter of a vowel group or of a pair whose second vowel is silent, and recognize the group by its unaccented spelling. In _Kelarán_ the rule would stress the middle syllable, ke-LA-ran, and the mark moves the stress to the last, ke-la-RAN.
-- A **diaeresis** (_ë_) on the second of two vowels makes it a syllable of its own, so it is sounded rather than silent and does not join the vowel before it in a group. It changes the syllable count, not the vowel's sound, and does not itself place stress. Thus _ai_ is one syllable and _aï_ is two, and _koa_ is one syllable and _koä_ is two. A word may carry any number.
+- An **acute** (_á_) marks a stressed syllable that the rule above would not choose. It changes stress, not the vowel's sound. A word carries at most one. Put it on the first vowel letter of a vowel group, and recognize the group by its unaccented spelling. In _Kelarán_ the rule would stress the middle syllable, ke-LA-ran, and the mark moves the stress to the last, ke-la-RAN.
+- A **diaeresis** (_ë_) on the second vowel of a listed group splits it into two syllables: _kau_ is one syllable and _kaü_ is two. It changes the syllable count, not the vowel's sound, and does not itself place stress. It is written only on a group, because anywhere else the two vowels are already said apart.
 - A **grave** (_ì_) writes a short English vowel: _à_, _ì_, _ò_ and _ù_, as in the vowel table. A word may carry any number, and a grave always shows.
 
-Where a vowel would carry both a diaeresis and an acute, only the acute is written. An acute on the second vowel of a pair can only mean that the vowel is its own stressed syllable, so _koá_ is ko-A. Where a vowel would carry both a grave and an acute, both are written, the acute as a combining mark over the grave vowel: _bòtòn_ is BÒ-tòn, and _bòtò́n_ is bò-TÒN.
+Where a vowel would carry both a diaeresis and an acute, only the acute is written: an acute on the second vowel of a group can only mean that the vowel is its own stressed syllable, so _kaú_ is ka-OO. Where a vowel would carry both a grave and an acute, both are written, the acute as a combining mark over the grave vowel: _bòtòn_ is BÒ-tòn, and _bòtò́n_ is bò-TÒN.
 
 No other mark is used in common spelling. Sinale's pitch notation, used only in verse and performance, is described in its section below.
 
@@ -254,7 +254,7 @@ Common spelling leaves tone and nasal vowels unwritten. Vowel length is written 
 
 ### Vowels in a native script
 
-A script writes the sounds of a word, and its encoding keeps every roman letter and mark recoverable. A sounded vowel is a visible glyph. A silent vowel, the second of a walking pair, is an invisible placeholder for its letter, so nothing is drawn for it. A vowel with a diaeresis is a visible glyph preceded by an invisible mark that sets it apart. Decoding the native text restores the roman spelling exactly, so nothing about the word is guessed.
+A script writes the sounds of a word, and its encoding keeps every roman letter and mark recoverable. A script draws each vowel as its letter and each listed group as the script writes that group. A split group, such as the _aü_ of _kaü_, is drawn as its two vowels apart, never as the group.
 
 ## Áelendi
 
