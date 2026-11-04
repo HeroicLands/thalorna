@@ -14,7 +14,6 @@ import { buildContentLinkIndex } from "@heroiclands/package-build/engine/helpers
 import { buildJournalEntry } from "@heroiclands/package-build/engine/journals";
 import { loadPackConfig } from "@heroiclands/package-build/engine/pack-config";
 import { convertWikilinks } from "@heroiclands/package-build/engine/wikilinks";
-import { openNotesDatabase } from "@heroiclands/package-build/engine/sql-tables";
 import { lintNote } from "@heroiclands/package-build/engine/frontmatter-lint";
 import { ENGINE_NOTE_SCHEMAS } from "@heroiclands/package-build/engine/note-schemas";
 import { NOTE_SCHEMAS } from "@heroiclands/package-build/sohl/note-schemas";
@@ -213,37 +212,14 @@ test("reviewed samples render through the encoding without silent substitutions"
     assert.deepEqual(findings, [], "no invalid reviewed sample is exempted from the rules");
 });
 
-test("the guide's executable pronunciation tables show their scoped sound data", async () => {
-    const dir = fs.mkdtempSync(path.join(os.tmpdir(), "aelwythi-pronunciation-"));
-    let db;
-    try {
-        for (const value of [language, guide, own])
-            fs.writeFileSync(path.join(dir, path.basename(value.file)), value.raw);
-        const indexed = collectContentIndex(dir, {
-            contentPackage: config.contentPackage,
-            skipDirectories: [],
-        });
-        db = await openNotesDatabase(indexed);
-        const queries = [...guide.raw.matchAll(/```sql\n([\s\S]*?)\n```/g)];
-        assert.equal(queries.length, 2);
-        const counts = [];
-        for (const [, sql] of queries) {
-            const result = await db.query(sql);
-            assert(result.rows.length > 0, "a published pronunciation table must not be empty");
-            counts.push(result.rows.length);
-        }
-        const scoped = guide.fm.data.sounds.letters.filter((row) =>
-            row.tongue?.includes("skill-aelwthlng"),
-        );
-        assert.equal(
-            counts[0],
-            scoped.filter((row) => ["vowel", "long vowel", "vowel pair"].includes(row.kind)).length,
-        );
-        assert.equal(counts[0] + counts[1], scoped.length);
-    } finally {
-        await db?.close();
-        fs.rmSync(dir, { recursive: true, force: true });
-    }
+test("the guide spells Aelwythi to the common standard, with no sound rows of its own", () => {
+    assert.deepEqual(
+        guide.fm.data.sounds.letters.filter((row) =>
+            [row.tongue ?? []].flat().includes("skill-aelwthlng"),
+        ),
+        [],
+    );
+    assert.equal([...guide.raw.matchAll(/```sql\n/g)].length, 0);
 });
 
 test("pronunciation references resolve to an exported journal page", () => {

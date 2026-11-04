@@ -4575,7 +4575,7 @@ in a sentence. A normally silent final e stays silent; an ordinarily pronounced
 one, as in be, he, me or she, stays audible. No blanket silence rule applies to
 other words merely because they contain one of the letters in the table.
 Ordinary English spellings are not given accents to request a different
-reading. Aelwythi uses no grave accent.
+reading.
 
 A written -ed takes the syllable count of the word's dictionary reading unless
 an explicit entry or passage specifies another. Verse does not by itself
@@ -4589,8 +4589,9 @@ context notes apply to the charm, not every occurrence of the words.
 The fixed transcription below determines every sound of a coined word, name
 or naming element unless its authoritative entry specifies an exception. Capitals have the same sounds as
 lowercase letters. Read the longest recognized letter group first, from left
-to right; each character belongs to only one group. All other adjacent vowels
-are sounded separately.
+to right; each character belongs to only one group. Any other two adjacent
+vowels follow the common guide's walking rule: the first keeps its sound and
+the second is silent, unless a diaeresis sounds it as a syllable of its own.
 
 #### Vowels {#vowels}
 
@@ -4615,7 +4616,7 @@ are sounded separately.
 
 A vowel keeps its identity in stressed and unstressed syllables. There is no
 unwritten reduction to uh. A final e is sounded, and never changes the vowel
-before it. A coined word needs no mark to make a vowel audible. A final e
+before it. A diaeresis makes the second of two vowels audible. A final e
 forms a syllable unless a listed vowel group consumes it. Conventional English
 make keeps its dictionary one-syllable reading; a different coined reading
 requires an explicit authored exception. A long vowel or joined vowel group counts as one syllable.
@@ -4670,14 +4671,16 @@ Identify recognized letter groups before counting syllables.
 - An acute marks a different stressed syllable. It changes stress, not vowel
   identity or length. In a multi-letter vowel group, put the acute on its first
   vowel letter; identify the group by its unaccented spelling.
-- Recognized vowel groups always keep their listed readings. Coined words
-  never split such a group into separate syllables. Other adjacent vowels
-  are sounded separately, as specified above. No diaeresis is used.
+- A diaeresis on the second of two vowels makes it a syllable of its own,
+  and also splits a recognized vowel group. A word may carry any number.
+  Without one, a recognized group keeps its listed reading and any other
+  second vowel is silent.
 
 For example, kelara is ke-LA-ra, kélara is KE-la-ra and kelará is ke-la-RA.
 Case does not change these readings. A common spelling carries at most one
 acute; use it only where it specifies exceptional stress.
-No grave accent or accented consonant belongs to this spelling convention.
+A grave writes a short vowel, as in the common guide. No accented consonant
+belongs to this spelling convention.
 
 #### Easy readings for play
 
@@ -4709,7 +4712,7 @@ sound or consonant cluster Aelwythi speakers cannot pronounce, its adapted form
 uses pronounceable Aelwythi sounds and syllables. The register states that form
 and may identify the person or place it names. An acute marks exceptional
 stress; a mark is not retained merely as part of a foreign spelling. Adapted
-forms use the listed vowel groups without diaeresis or exceptional splitting.
+forms mark a sounded second vowel with a diaeresis, as every Aelwythi word does.
 
 ### The naming palette {#naming-palette}
 
