@@ -1,7 +1,6 @@
 name: Changesets
 
-# One changeset per user-visible change, and a Version Packages pull request
-# approved on its final commit. The check lives in HeroicLands/.github (actions/changesets).
+# Reports the changesets a pull request adds. The check lives in HeroicLands/.github (actions/changesets).
 
 on:
     pull_request:
@@ -18,6 +17,6 @@ jobs:
         name: Changeset review
         runs-on: light
         steps:
-            - uses: HeroicLands/.github/actions/changesets@3f413e927488a3deaadccf543f1e93743977558a # main
+            - uses: HeroicLands/.github/actions/changesets@e8b0371176155cdaa12c5a2b89a688b219734af4 # main
               with:
                   token: ${{ github.token }}
