@@ -40,7 +40,7 @@ data:
             knowledge: named
           - place: place-orzara
             how: >-
-              the capital's dole is milled from Hilen grain, and the war years' lost harvests are the ones the dole lacked
+              the capital's bread is milled from Hilen grain, and the war years' lost harvests are the ones the city went without
             knowledge: named
       who:
         - {ref: affiliation-vylrnmltry, role: instrument}
@@ -67,13 +67,13 @@ A steward on the Olkassa estate ([[place-olcassafld|The Blood-field of Olkassa]]
 
 ## The Field
 
-Hilen feeds the capital. Its estates grow the grain that is milled into the dole, and whoever holds the granaries of Hilen holds [[place-orzara|Orzara City]]'s bread. [[affiliation-seldan|Seldan]] (the Senate) knew it, and so did [Makandas]{.name data-type="being/npc"} ([[lore-brkensuccsn|The Broken Succession]]). About 401 the Senate sent its army to hold the estates, and the [[place-moktur|Moktur]] legions came south to take them.
+Hilen feeds the capital. Its estates grow the grain that is milled into the capital's bread, and whoever holds the granaries of Hilen holds [[place-orzara|Orzara City]]'s bread. [[affiliation-seldan|Seldan]] (the Senate) knew it, and so did [Makandas]{.name data-type="being/npc"} ([[lore-brkensuccsn|The Broken Succession]]). About 401 the Senate sent its army to hold the estates, and the [[place-moktur|Moktur]] legions came south to take them.
 
 The two armies met on the **Olkassa** estate, one of the great holdings of the province. Both carried the same eagle, cast to the same pattern in the same arsenal, and men who had served in the same garrisons stood in the opposing lines. Neither side gave quarter. The Senate's army had the better ground and the Moktur legions had the better discipline, and by dusk the Senate's army lay in the standing grain and the Moktur line was half what it had been at dawn.
 
 ## What Olkassa Meant
 
-Makandas won the field and could not use it. He had half his army, the estates' granaries were burned or taken and the harvest was lost. The war went on two years more, and the dole failed in the capital before it was over ([[lore-greatburnng|The Great Burning]]).
+Makandas won the field and could not use it. He had half his army, the estates' granaries were burned or taken and the harvest was lost. The war went on two years more, and the bread and the dole both failed in the capital before it was over ([[lore-greatburnng|The Great Burning]]).
 
 Hilen has not forgotten. The province's great houses, whose estates the armies marched across, say that no Vylarian should draw a sword on another, and the conservatism that marks the province's politics owes a good deal to the field. The ground itself is farmed ([[place-olcassafld|The Blood-field of Olkassa]]).
 
@@ -81,7 +81,7 @@ Hilen has not forgotten. The province's great houses, whose estates the armies m
 
 - **The Blood-field of Olkassa.** A quickening in the province's breadbasket.
 - **Hilen's horror of civil war.** The estates' lasting dread of any claimant who marches on another.
-- **The estate's grain in the dole.** The best wheat of the province goes to the state granaries, and nobody says where it grew.
+- **The estate's grain in the capital's bread.** The best wheat of the province goes to the state granaries, and nobody says where it grew.
 
 ## See Also
 

@@ -32,13 +32,13 @@ The old offices are still filled: a _tavos_ (consul) presides over the year, a _
 
 ## Citizen and Resident
 
-The deepest line in Vylarian society is not between rich and poor but between citizen and resident. Most people under the empire are residents, born to it and taxed by it with no share in it. A citizen holds the dole, a guaranteed ration of grain, and may live inside the capital's _thrima_ by right, appeal his case up to the imperial tribunals, and expect a trial and a clean death, never the lash.
+The deepest line in Vylarian society is not between rich and poor but between citizen and resident. Most people under the empire are residents, born to it and taxed by it with no share in it. A veteran-citizen draws the dole, a pension in coin graded by the rank he left the legion with, and any citizen may live inside the capital's _thrima_ by right, appeal his case up to the imperial tribunals, and expect a trial and a clean death, never the lash.
 
 Citizenship is earned, not inherited, and for the common-born the road is the legions, or a rare Senate grant. A boy takes the legion's oath no earlier than his fifteenth birthday and serves twenty years, and if he lives he walks out a citizen at thirty-five. The centuries of the northern march sing the promise on the road, in [[lore-goldbandsng|the Song of the Gold Band]]: [Twenty years under the eagle, and then the door,/.one door, and the army holds it open.]{.verse} His wife holds it for life, his children are honorary citizens only while they are his dependents, and his sons are not citizens unless they walk the same road or the Senate grants it; only the nobility pass it heir to heir, and grants are rare. So the citizen body of Orzara is an old soldiers' city, and the [[affiliation-vylrnmltry|City Watch]] that polices it is drawn from veteran-citizens.
 
 > On the Heights the last light goes red behind the hills. The steward of the house counts the candle crates twice, then writes your names onto a waiver in a small, square hand, presses his master's seal into the wax beside them, and dates it. He does not hand it to you. He folds it into his own sleeve, and tells you to be at the kitchen door at first light.
 
-A resident who wants to sleep inside the capital needs a waiver from the courts, almost always as the servant of someone who matters, and it ends when the service ends. That is why most of the city's working people live beyond the [Clearance]{.name data-type="place/feature"}, the swept strip a hundred feet wide that rings Orzara where a wall would stand. The dole is also the throne's great fear. As the treasury thins, arrears and short measure creep into the ration, and a missed dole is the spark every prudent Orzas dreads. [[doc-vylrnctznshp|Vylarian Citizenship]] sets out the whole bargain.
+A resident who wants to sleep inside the capital needs a waiver from the courts, almost always as the servant of someone who matters, and it ends when the service ends. That is why most of the city's working people live beyond the [Clearance]{.name data-type="place/feature"}, the swept strip a hundred feet wide that rings Orzara where a wall would stand. The dole is also the throne's great fear. Living inside the bounds is so dear that virtually every citizen needs it, the throne pays for it by borrowing from the great houses of [[affiliation-danvar|the Danvar]], and nothing is put by. As the treasury thins, arrears and short payments creep into the pension, and a missed dole is the spark every prudent Orzas dreads. [[doc-vylrnctznshp|Vylarian Citizenship]] sets out the whole bargain.
 
 ## The Legions
 
@@ -141,7 +141,7 @@ A party can arrive by sea at Delalara, by grain ship up the Vylaris, over the Ke
 Campaigns start well from the forms. A patron needs a client to stand beside him in court. A household's waiver is about to lapse, and its servants must find a new master or leave the city. A child in a market town has shown talent nobody reported. A _Hundar Maldor_ wants proof that his examination was rigged. A grain convoy is late and the Circles are turning ugly.
 
 :::secret
-**For the GM:** A forged waiver, a commission bought with worthless script, a dole short by a measure, or an unregistered mage in a _kurthos_'s household each tests whether the forms still hold, and each draws the Watch, the Sekran, or the Senate's lobbies into the answer.
+**For the GM:** A forged waiver, a commission bought with worthless script, a pension paid short, or an unregistered mage in a _kurthos_'s household each tests whether the forms still hold, and each draws the Watch, the Sekran, or the Senate's lobbies into the answer.
 :::
 
 ## Where to Read Next

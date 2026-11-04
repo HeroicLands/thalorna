@@ -3,7 +3,7 @@ shortcode: veteranslaw
 name: {full: The Veterans' Law, en: [The Law of Arkanamos, The Soldier's Bargain]}
 type: lore
 subType: history
-description: "About 34 AF the second Orzas, Arkanamos, makes citizenship the reward of twenty years under the eagles and ties the grain dole and the right to live inside the thrima to it, leaving the nobility the only citizens by birth."
+description: "About 34 AF the second Orzas, Arkanamos, makes citizenship the reward of twenty years under the eagles and ties the dole, a veteran's pension graded by rank, and the right to live inside the thrima to it, leaving the nobility the only citizens by birth."
 tags: [history, vylaria, firstaugs]
 data:
   culture: vylarianclt
@@ -15,7 +15,7 @@ data:
       depth: region
       sources: [doc-vylrnctznshp, place-orzara, affiliation-vylrnmltry, affiliation-vylarinmpr]
       summary: >-
-        Arkanamos, the second Orzas, makes the citizenship a reward for twenty years in the legions, begun no earlier than a recruit's fifteenth year. He ties the grain dole and the right to live inside the thrima to it, and he leaves the nobility the only citizens by birth. The statute recruits his legions and binds the men who fill them to the throne in a single act.
+        Arkanamos, the second Orzas, makes the citizenship a reward for twenty years in the legions, begun no earlier than a recruit's fifteenth year. He ties the dole, a pension for life graded by the veteran's final rank, and the right to live inside the thrima to it, and he leaves the nobility the only citizens by birth. The statute recruits his legions and binds the men who fill them to the throne in a single act.
       standing: attested
       names:
         - {name: the Veterans' Law, by: affiliation-vylarinmpr}
@@ -60,7 +60,7 @@ A centurion puts the bargain to each year's recruits on the morning they swear t
 
 [Arkanamos]{.name data-type="being/npc"} was the second of the Founder's line. About 34 AF he put an end to the arrangement by which the [Vylarian Republic]{.name data-type="affiliation/polity"}'s citizen body had renewed itself by birth and patronage. The citizenship became a personal status won by service: twenty years under the eagles, counted from the recruit's fifteenth year, so that a commoner who survives his term is a citizen at thirty-five. The nobility keep it by station and transmit it heir to heir. Everyone else renews the citizen body each generation out of those who have served or been granted it by the Senate. A citizen's wife holds the status permanently, widowhood included, and his children are honorary citizens only while they are his dependents.
 
-The statute bound three things to the status together. The grain dole was a citizen's. The right to live inside the thrima, which the Founder had consecrated around the [[place-sixhillsvyl|Six Hills]], was a citizen's by right and everyone else's by waiver. And a citizen had standing at law, with an appeal to the imperial tribunals. Each of the three was a reason to enlist, and the three together were the reason to enlist for twenty years.
+The statute bound three things to the status together. The dole, a pension in coin for life graded by the rank a man held when he left the legion, was the veteran's. The right to live inside the thrima, which the Founder had consecrated around the [[place-sixhillsvyl|Six Hills]], was a citizen's by right and everyone else's by waiver. And a citizen had standing at law, with an appeal to the imperial tribunals. Each of the three was a reason to enlist, and the three together were the reason to enlist for twenty years.
 
 ## What Arkanamos Got
 
@@ -69,7 +69,7 @@ Recruits in numbers the Republic's levy never gave. A legion filled by men who w
 ## What It Left
 
 - **An old soldiers' city.** The capital's citizen body is a veterans' class at its core, and the dole is the thing every Orzas fears to miss.
-- **A charge the treasury can neither afford nor cut.** The dole began as the reward for the first generation of veterans and is now the largest standing charge on the [[affiliation-vylarinmpr|Empire]].
+- **A charge the treasury can neither afford nor cut.** The dole began as the reward for the first generation of veterans and is now the largest standing charge on the [[affiliation-vylarinmpr|Empire]]. Each pension is modest, but the pensioners are many. The charge was no burden while conquest paid for it, and now that the Empire is receding there is no way to claw it back.
 - **The waiver and its clerks.** A resident needs a registered waiver to sleep inside the thrima, and the clerks who register them sell them.
 - **The nobility's exemption.** The only citizens by birth, which is part of what makes them the nobility.
 

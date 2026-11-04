@@ -30,7 +30,7 @@ At every crossing of two lanes stands a street shrine, a niche in the wall with 
 
 The Warrens wake before the rest of the city and sleep last. The cookshops light their ovens before dawn, the water-carriers fill their jars at the street fountains, and by first light the lanes are full of men going to work: porters down to the Wharves, watchmen to their watch-houses, guards, overseers and stewards up to the great houses. The women of the stairs keep the lanes by day, and the children run them. At noon the cookshops sell hot food over the counter to anyone with an Ogdel, and in the evening the taverns fill with old soldiers drinking by legion.
 
-The month turns on the dole. On dole-day the citizens of each ward collect their grain at the ward's distribution hall with a token from the roll, and the Spire Circle is the largest distribution in the city. The queue starts at dawn and is orderly, because the Watch is there and because every man in it knows the man in front of him. The day the grain comes short is the day the Warrens remember for a generation.
+The month turns on the dole. On dole-day the veterans of each ward collect their pensions in coin at the ward's pay-hall with a token from the roll, each at the rate of the rank he left the legion with, and the Spire Circle is the largest pay-hall in the city. The queue starts at dawn and is orderly, because the Watch is there and because every man in it knows the man in front of him. The day the pay comes short is the day the Warrens remember for a generation.
 
 ## Who Lives and Works Here
 
@@ -53,13 +53,13 @@ The Warrens keep their own order first. Each stair has a man whose word counts o
 
 ## What the Warrens Fear
 
-The Warrens fear fire most, because fire comes here first. A blaze on an upper floor of a timber tenement can take a lane in an hour, and the fire-walls are there because the lanes have burned before ([[lore-greatburnng|The Great Burning]]). A ward burned in a lean year is rebuilt slower and cheaper than it was. The Warrens also fear the short dole, the collapse of a tenement in the spring rains, plague in a hot summer, and the night sweeps, when the Watch goes up every stair with lanterns looking for sleepers without papers. The preachers of [[affiliation-blackflame|The Black Flame]] who speak on the Spire Circle tell the Warrens that each of those fears is the Empire's weakness, and find more listeners every year.
+The Warrens fear fire most, because fire comes here first. A blaze on an upper floor of a timber tenement can take a lane in an hour, and the fire-walls are there because the lanes have burned before ([[lore-greatburnng|The Great Burning]]). A ward burned in a lean year is rebuilt slower and cheaper than it was, on money the throne has to borrow. The Warrens also fear the short dole, because no man on the stairs makes his rent without it, and dear bread, because the state granaries hold a week of grain and no more. A bad month brings both. They fear the collapse of a tenement in the spring rains, plague in a hot summer, and the night sweeps, when the Watch goes up every stair with lanterns looking for sleepers without papers. The preachers of [[affiliation-blackflame|The Black Flame]] who speak on the Spire Circle tell the Warrens that each of those fears is the Empire's weakness, and find more listeners every year.
 
 ## Hooks
 
 - **The legion's stair.** A veteran has come home to the city to find his legion's stair let to strangers by a new landlord, and the legion's old men want to know who bought the building and why.
 - **The eighth story.** A landlord has added an eighth story of timber to a tenement on Nerval, and the _peltros_ has not ordered it down. A tenant on the seventh floor pays a party to learn why before the winter rains.
-- **The widow's token.** A veteran's widow was turned away from the dole at the Spire Circle because the roll gives her husband's name to a man still drawing his grain in another ward. She wants a party to find the man who is drawing it.
+- **The widow's token.** A veteran's widow reported her husband's death to the ward two winters ago, and she hears that his pension is still drawn every month at the pay-hall of another ward on a token in his name. She wants a party to find the man who is drawing it.
 
 ## See Also
 

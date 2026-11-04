@@ -109,7 +109,7 @@ Every figure here is **derived from the region and polity notes themselves**, ro
 
 **Vylaria is a great power, not the great power.** At ~21M the empire is the heavyweight of the west—larger than any single Aureldian kingdom—but only ~6% of the world, and barely a fifth the size of Tantsou or Vedyara. Its sense of itself as the center of the world is a conceit the numbers do not support: it is a proud, declining state on the world's western edge, while the true giants sit eastward, largely indifferent to it.
 
-**A 1-million capital is feedable.** [[place-orzara|Orzara]] at ~1M is ~5% of Vylaria proper—high, but sustainable for a primate imperial city supplied by [[place-hylen|Hilen]]'s grain, [[place-salkhalon|Salkalon]]'s fisheries and seaborne imports, and the grain-dole run by the Veramus of the Grain.
+**A 1-million capital is feedable.** [[place-orzara|Orzara]] at ~1M is ~5% of Vylaria proper—high, but sustainable for a primate imperial city supplied by [[place-hylen|Hilen]]'s grain, [[place-salkhalon|Salkalon]]'s fisheries and seaborne imports, and the state granaries run by the Veramus of the Grain.
 
 **The Aureldian kingdoms are itemized, not estimated.** [[place-provenzrgn|Provenzia]], [[place-elavendre|Élavendre]], [[place-tarvenirgn|Tarvénia]], [[place-aelwyth|Aelwyth]] and [[affiliation-calypsa|Kalipsa]] each carry a worked figure on their own notes, and the bloc is their sum. It comes to about **11,000,000**—an order of magnitude below the Vylarian Empire's, which is why no Aureldian crown can face Orzara alone and why the faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]], not a treaty, are what hold the west together.
 

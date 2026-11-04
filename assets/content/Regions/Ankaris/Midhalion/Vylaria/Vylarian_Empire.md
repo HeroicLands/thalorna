@@ -31,7 +31,7 @@ data:
       - level: 4
         title: Citizen
         description: >-
-          Holding the citizenship, won by twenty years in the legions or by a Senate grant, or held by the nobility by station; it carries the dole, the right of residence in Orzara, appeal at law and liability to its taxes. A citizen's wife holds it for life, his children are honorary citizens only while his dependents, and it is not hereditary.
+          Holding the citizenship, won by twenty years in the legions or by a Senate grant, or held by the nobility by station; it carries the dole (for a veteran), the right of residence in Orzara, appeal at law and liability to its taxes. A citizen's wife holds it for life, his children are honorary citizens only while his dependents, and it is not hereditary.
       - level: 5
         title: Gulmen
         description: >-
@@ -198,7 +198,7 @@ A census clerk of the Scribal Guild, asked how large the empire is, answers in t
 | [[affiliation-provncmktr\|Moktur]]    | barely 2,000,000            | the mountain frontier, thin across its valleys |
 | [[affiliation-ctysttshlns\|Helionis]] | another 2,000,000–3,000,000 | practically independent; a province on paper   |
 
-Some **21 million** people live under direct imperial governance in the four core provinces, and well over twenty-three million if Helionis, a province on paper, is counted. These are the numbers of a great power, and a fraction of what the empire commanded at its height, when its writ ran across most of the continent and its subjects numbered many tens of millions. The capital's nearly a million mouths are fed by Hilen's grain, Salkalon's fisheries and seaborne imports, and the grain-dole machinery of the [[affiliation-verdanorzara|Veramus of the Grain]], the same logistics that make so large a city possible at all.
+Some **21 million** people live under direct imperial governance in the four core provinces, and well over twenty-three million if Helionis, a province on paper, is counted. These are the numbers of a great power, and a fraction of what the empire commanded at its height, when its writ ran across most of the continent and its subjects numbered many tens of millions. The capital's nearly a million mouths are fed by Hilen's grain, Salkalon's fisheries and seaborne imports, and the granaries and markets of the [[affiliation-verdanorzara|Veramus of the Grain]], the same logistics that make so large a city possible at all.
 
 ## The Four Provinces
 
@@ -242,7 +242,7 @@ The Imperial Cult
 
 ## Commerce and Currency
 
-The empire uses the [[lore-vylrncrncy|Vylarian currency]] (Solden, Ardin and Ogdel) as its standard, with full access to the paper-script system through [[affiliation-danvar|the Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. [[affiliation-tolvan|The Tolvan]] administers imperial taxation, and the revenues flow to [[affiliation-tarmex|the Tarmeks Orzan]].
+The empire uses the [[lore-vylrncrncy|Vylarian currency]] (Solden, Ardin and Ogdel) as its standard, with full access to the paper-script system through [[affiliation-danvar|the Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. [[affiliation-tolvan|The Tolvan]] administers imperial taxation, and the revenues flow to [[affiliation-tarmex|the Tarmeks Orzan]]. Those revenues and the tributes of the provinces and colonies fall short of what the throne spends, the veterans' pensions of the dole above all, and the Tarmeks borrows the difference from the Danvar's great houses. Vylaria's credit is excellent, and the loans are rolled over and the lenders repaid from new loans. Nothing is put by: a great fire or a famine can be met only by borrowing more, the interest on what the throne owes is a growing worry, and a single default would end the credit the whole arrangement rests on. The capital shows the world its processions and its games, and runs on money it has not yet repaid.
 
 ## See Also
 

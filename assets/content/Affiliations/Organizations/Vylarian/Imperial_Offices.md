@@ -38,7 +38,7 @@ data:
       Usos of the Census: >-
         Held by an Usos. Keeps the citizen roll and the senatorial census for the Theronos, the magistrate who takes the count.
       Usos of the Dole: >-
-        Held by an Usos. Keeps the roll of the citizens owed the dole and the issue-books of the state granaries, against which the city's grain officers draw.
+        Held by an Usos. Keeps the roll of the veterans owed the dole, each at the rate of his final rank, and the books of its monthly payments, against which the wards' pay-halls draw.
       Usos of the Levies: >-
         Held by an Usos. Keeps the musters, the levies and the rolls of the legions, and enters each legion's losses.
       Usos of the Provinces: >-
@@ -67,7 +67,7 @@ The usher of petitions at the gate of the Offices gives the rule to every petiti
 
 ## Overview
 
-The Imperial Offices are the bureaucracy of the Vylarian throne, gathered into a single walled compound of [[place-arvon|Arvon]], the Inner City of [[place-orzara|Orzara]]. Everyone calls them the **Offices**. In [[skill-vylarilng|Vylari]] the whole compound takes the name of its heart, _thizaralon_, the office of the seal, because everything the Offices do ends in a seal. Here thousands of clerks, scribes, tax-assessors, _theronoi_ (censors) and magistrates do the paper of governing an empire: census rolls, tax ledgers, military levies, the grain dole's records, court judgments and the throne's correspondence.
+The Imperial Offices are the bureaucracy of the Vylarian throne, gathered into a single walled compound of [[place-arvon|Arvon]], the Inner City of [[place-orzara|Orzara]]. Everyone calls them the **Offices**. In [[skill-vylarilng|Vylari]] the whole compound takes the name of its heart, _thizaralon_, the office of the seal, because everything the Offices do ends in a seal. Here thousands of clerks, scribes, tax-assessors, _theronoi_ (censors) and magistrates do the paper of governing an empire: census rolls, tax ledgers, military levies, the dole's records, court judgments and the throne's correspondence.
 
 The compound holds more than the chancery. [[affiliation-tarmex|The Tarmeks Orzan]], the imperial treasury and central bank, keeps its strongroom and clearing house here. [[affiliation-tolvan|The Tolvan]], the Fiscal Court, sits in its Fiscal Hall. The throne's own imperial tribunals, which hear every cause touching the nobility, the [[affiliation-seldan|Seldan]] or the crown, sit here and answer to the Orzas, never to the civic [[affiliation-verdanorzara|Orzara Courts]]. And [[affiliation-imprlscrblgld|the Imperial Scribal Guild]] keeps the imperial archive here, in the custody it took after the old archive burned ([[lore-archivefire|The Archive Fire]]). Each of these bodies has its own head and its own ladder. The Offices are the roof, the gate and the seal they share.
 
@@ -79,7 +79,7 @@ The present Keeper is [Holimar]{.name data-type="being/npc"}, a freedman of sixt
 
 ## The Desks
 
-Beneath the Keeper the Offices work in desks, each under an _usos_ (prefect). The Census keeps the citizen roll for the Theronos, and the Dole keeps the list of citizens owed bread and the issue-books of the state granaries. The Levies keeps the rolls of the legions and enters their losses. The Provinces keeps one desk for every province on the chancery's roll, and the chancery's roll is longer than the Empire. The desk for [[affiliation-kngdmprvnz|Provenzia]] still keeps the forms of a province whose Charter the Empire recognized a century ago, and writes to its king in the chancery's own style. The desk for [[place-helionis|Helionis]] sends a province's letters to cities that govern themselves. The desk for [[affiliation-cnfdrtntrzlnstts|Taruzel]], lost twelve years ago, still has its clerks, its ledgers and its usos, and it drafts each year the levy a province would owe.
+Beneath the Keeper the Offices work in desks, each under an _usos_ (prefect). The Census keeps the citizen roll for the Theronos, and the Dole keeps the roll of veterans owed a pension, each at the rate of the rank he left the legion with, and the books of its monthly payments. The Dole is the costliest desk in the compound: each pension on its roll is modest, the roll is very long, and much of what it pays out the Tarmeks pays for with borrowed money. The Levies keeps the rolls of the legions and enters their losses. The Provinces keeps one desk for every province on the chancery's roll, and the chancery's roll is longer than the Empire. The desk for [[affiliation-kngdmprvnz|Provenzia]] still keeps the forms of a province whose Charter the Empire recognized a century ago, and writes to its king in the chancery's own style. The desk for [[place-helionis|Helionis]] sends a province's letters to cities that govern themselves. The desk for [[affiliation-cnfdrtntrzlnstts|Taruzel]], lost twelve years ago, still has its clerks, its ledgers and its usos, and it drafts each year the levy a province would owe.
 
 The forms are the government, and the desks keep them. A clerk who misfiles a census return can unmake a citizen as surely as a court can, because the rule the law schools teach first is that what is not on the roll is not in the city ([[lore-firewords|The Words Kept from the Fire]]).
 

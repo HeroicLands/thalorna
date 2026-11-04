@@ -55,7 +55,7 @@ The Veramus of the Grain, who sits for [[affiliation-verdanorzara|Orzara Courts]
 
 ## What the Market Fears
 
-The Grand Market fears two prices. One is the price of bread: when it rises, the citizens come to the Circle to see why, and the Watch-house doubles its guard. The other is the price of paper. The Danvar's notes pass on the Circle as readily as coin, and the money-changers know how quickly a rumor that one great house's notes will not be honored can empty the colonnade and close every stall that took them. The market also fears the closing bell on a day of trouble, when thousands of hands are walking out to the gates at once and a single shout can turn the crowd.
+The Grand Market fears two prices. One is the price of bread: when it rises, the citizens come to the Circle to see why, and the Watch-house doubles its guard. It rises fast, because the state granaries hold about a week of grain and every dealer on the Circle knows it. The other is the price of paper. The Danvar's notes pass on the Circle as readily as coin, and the money-changers know how quickly a rumor that one great house's notes will not be honored can empty the colonnade and close every stall that took them. The worst rumor the colonnade can hear is that the throne has missed a payment to the great houses that lend to it. The market also fears the closing bell on a day of trouble, when thousands of hands are walking out to the gates at once and a single shout can turn the crowd.
 
 ## Hooks
 

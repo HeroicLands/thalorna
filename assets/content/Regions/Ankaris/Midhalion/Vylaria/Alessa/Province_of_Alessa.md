@@ -30,7 +30,7 @@ data:
       - level: 4
         title: Citizen
         description: >-
-          Holding the citizenship, won by twenty years in the legions or by a rare grant, or held by the nobility by station; it carries the dole, the right of residence in Orzara, appeal at law and liability to its taxes, and it does not pass to a commoner's children.
+          Holding the citizenship, won by twenty years in the legions or by a Senate grant, or held by the nobility by station; it carries the dole (for a veteran), the right of residence in Orzara, appeal at law and liability to its taxes, and it does not pass to a commoner's children.
       - level: 5
         title: Gulmen
         description: >-

@@ -51,7 +51,7 @@ The Strangers' Row is the one quarter of the city where non-citizens live by rig
 
 ## What the Wharves Fear
 
-The Wharves fear a low river. In a dry late summer the barges ride low and slow, the night's grain comes in short, and the porters stand idle on the quays while the bakers wait. The district fears fire in the granaries, which would be the city's bread burning, and it fears the morning after a riot elsewhere, when the Watch comes down to the Strangers' Row first. The Taruzelian factors fear the day the Seldan decides that a Taruzelian in Orzara is an enemy and not a merchant.
+The Wharves fear a low river. In a dry late summer the barges ride low and slow, the night's grain comes in short, and the porters stand idle on the quays while the bakers wait. The district fears fire in the granaries, which would be the city's bread burning: the state granaries hold about a week of grain, and nothing stands behind them. It fears the morning after a riot elsewhere, when the Watch comes down to the Strangers' Row first. The Taruzelian factors fear the day the Seldan decides that a Taruzelian in Orzara is an enemy and not a merchant.
 
 ## Hooks
 
@@ -83,4 +83,4 @@ The Wharves fear a low river. In a dry late summer the barges ride low and slow,
 
 Two of the state granaries on the River Circle are half empty. The granary-keeper of the two halls nearest the river gate sold their reserve grain three lean winters ago, a little at a time, through a broker in the [[place-grandmarketorz|Grand Market]], and replaced the bottom of each bin with sand under a crust of grain a man's arm deep. The seals on the doors are good seals. A seal-cutter in the [[place-gildedqrtr|Gilded Quarter]] cut him a copy of the granary's seal-stamp, and every time a granary is opened before a witness the keeper breaks the true seal and remakes it with the true stamp, so the witness sees nothing wrong.
 
-The Veramus of the Grain counts the city's reserve by the granaries' tallies, and the tallies say the two halls are full. The keeper means to buy the grain back after a good harvest and has never had the coin to do it. When the city opens its reserve against a blockade or a failed harvest, the porters reach the sand in the first hour, and the city has two halls less bread than its council believes.
+The Veramus of the Grain counts the city's reserve by the granaries' tallies, and the tallies say the two halls are full. The keeper means to buy the grain back after a good harvest and has never had the coin to do it. The whole reserve is about a week of bread for the city, so two halls of sand are not a shortfall the city can absorb. When the city opens its reserve against a blockade or a failed harvest, the porters reach the sand in the first hour, the week the council counts on is a day or more shorter than it believes, and the throne has to buy the missing grain on borrowed money while the queues are already forming.

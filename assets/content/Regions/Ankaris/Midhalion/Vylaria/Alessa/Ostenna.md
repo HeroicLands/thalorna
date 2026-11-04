@@ -28,7 +28,7 @@ The upper quay is busy. The lower one has silted, and its warehouses have bricke
 
 ## What Ostenna Lives By
 
-Carts bring the produce of the inland estates down the road to the Landing, and the warehousemen store it, sack it and load it onto barges for the run down to the capital's wharves. Teams of oxen walk the towpath back upstream with the empties. Most of the cargo is grain, and a good part of that is bound for the state granaries that feed the capital's dole; the factors of the great grain houses, [[affiliation-mardovanes|House Mardovanes]] among them, keep agents at the Landing who watch their sacks from cart to barge. The town also makes rope, mends sacks, builds and caulks barges, and feeds the boatmen.
+Carts bring the produce of the inland estates down the road to the Landing, and the warehousemen store it, sack it and load it onto barges for the run down to the capital's wharves. Teams of oxen walk the towpath back upstream with the empties. Most of the cargo is grain, and a good part of that is bound for the state granaries that feed the capital; the factors of the great grain houses, [[affiliation-mardovanes|House Mardovanes]] among them, keep agents at the Landing who watch their sacks from cart to barge. The town also makes rope, mends sacks, builds and caulks barges, and feeds the boatmen.
 
 The three trades of the toll-clerk's lesson run the town between them. The boatmen belong to a fraternity that keeps its own hall above the Landing, settles its members' quarrels and buries their drowned. The warehousemen are a handful of families who have held the same warehouses for generations. The toll-clerks are the emperor's men, and they are the only people in Ostenna who were not born there.
 
@@ -62,6 +62,6 @@ The boatmen's inns stand at the top of the cutting, where the road reaches the b
 
 # The Truth of Ostenna {#truth .secret}
 
-The waiting is a business. Grain brokers in the capital pay the three trades of Ostenna to slow the river in the weeks before the dole is drawn, when the state granaries are low and every sack in the city is worth more for being late. The boatmen find reasons not to sail, the warehousemen find reasons not to load, and the toll-clerks find faults in manifests, and the price in Orzara climbs while the barges sit. The payments come through one broker's agent at the Landing, who also sells the timing of each slowdown to a second broker, so that the capital's grain market is being played twice from one quay.
+The waiting is a business. Grain brokers in the capital pay the three trades of Ostenna to slow the river in the weeks before the new harvest comes down, when the state granaries are low and every sack in the city is worth more for being late. The boatmen find reasons not to sail, the warehousemen find reasons not to load, and the toll-clerks find faults in manifests, and the price in Orzara climbs while the barges sit. The payments come through one broker's agent at the Landing, who also sells the timing of each slowdown to a second broker, so that the capital's grain market is being played twice from one quay.
 
 The drowned clerk had begun to keep a list of the manifests he was told to refuse, with the dates. The list is in the Toll House, in the bronze tariff board's hollow back. The fraternity did not drown him and does not know who did, and it wants to.

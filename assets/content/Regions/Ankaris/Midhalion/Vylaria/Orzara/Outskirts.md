@@ -64,7 +64,7 @@ It is dirtier, wilder and more lawless out here than within, and it swells and s
 
 ## What the Outskirts Fear
 
-The outskirts fear a bad year. When the grain comes short the price of bread rises outside the line before it rises inside, because the dole feeds only citizens, and the outskirts go hungry first. When plague comes it comes here first and stays longest. The outskirts also fear the sweeps inside the city, because every non-citizen the Watch puts out across the Clearance needs a bed out here, and the lean-tos on the strip are the measure of how the Empire fares. The Smoke fears fire like everywhere else, and it fears the day the guild's chimneys stop smoking, because half the Smoke lives off the Steel Town's orders.
+The outskirts fear a bad year. When the grain comes short the price of bread rises on both sides of the line, and the outskirts go hungry first, because nobody outside it draws a pension to meet the price. When plague comes it comes here first and stays longest. The outskirts also fear the sweeps inside the city, because every non-citizen the Watch puts out across the Clearance needs a bed out here, and the lean-tos on the strip are the measure of how the Empire fares. The Smoke fears fire like everywhere else, and it fears the day the guild's chimneys stop smoking, because half the Smoke lives off the Steel Town's orders.
 
 ## Hooks
 

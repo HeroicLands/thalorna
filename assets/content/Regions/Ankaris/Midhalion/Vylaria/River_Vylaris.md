@@ -24,7 +24,7 @@ In the [[skill-vylarilng|Vylari Language]] the river is Vilaras, and it carries 
 
 The river comes down out of the interior hills fast and cold, and it is navigable from the point where the road network meets it, at the landing of [[place-ostenna|Ostenna]] on its bluff. Above Ostenna it is a hill river, shallow over gravel and good only for rafts of timber in the spring flood. Below it the barges begin. The inland estates send their grain down the road to the Landing at Ostenna, and the barges carry it downstream on the current to the capital, in strings of six and eight with a steersman on each and a pilot in the first. Teams of oxen walk the towpath back upstream with the empties.
 
-The river rises with the spring rains in the hills and falls through the summer. By late summer the shoals above the capital are a hand's breadth under the keel of a loaded barge, and the boatmen lighten their loads, wait for rain or pay a gang to drag them over. The weeks of low water fall just before the autumn drawing of the dole, when the state granaries in the capital are at their lowest, and the price of a sack in Orzara follows the river's height as closely as any gauge.
+The river rises with the spring rains in the hills and falls through the summer. By late summer the shoals above the capital are a hand's breadth under the keel of a loaded barge, and the boatmen lighten their loads, wait for rain or pay a gang to drag them over. The weeks of low water fall just before the new harvest comes down the river, when the state granaries in the capital are at their lowest, and the price of a sack in Orzara follows the river's height as closely as any gauge.
 
 ## At the Capital
 
@@ -44,7 +44,7 @@ The side channels are also the oldest smuggling road on the coast. A cargo lande
 
 ## Trouble on the River
 
-- **Low water.** A string of eight grain barges is aground on the shoals above the capital ten days before the drawing of the dole. The grain houses want it dragged over; a broker in the capital wants it left where it is, and pays better.
+- **Low water.** A string of eight grain barges is aground on the shoals above the capital while the state granaries in the capital are at their lowest. The grain houses want it dragged over; a broker in the capital wants it left where it is, and pays better.
 - **The towpath.** Ox teams are being lamed on a stretch of the lower towpath between two inns, always at night and always the teams of the same fraternity. The fraternity's elder wants to know who is doing it before his men settle it themselves.
 - **The reed boat.** A customs officer of Salkalon's shore has seized a skiff in the Reed Mouth with a cargo of Taruzelian silk and a letter in a merchant's cipher, and wants a party to go back into the reeds with him to find where it was going.
 

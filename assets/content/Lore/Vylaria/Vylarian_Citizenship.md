@@ -3,7 +3,7 @@ shortcode: vylrnctznshp
 name: {full: Vylarian Citizenship, en: [Citizenship, Citizens and Residents]}
 type: doc
 subType: reference
-description: "Citizenship in the Vylarian Empire—a personal, earned, largely non-heritable status won chiefly by twenty years in the legions, carrying the grain dole, the right of residence in Orzara, and legal standing. It is the Empire's recruiting bargain and the loyalty-leash on its most dangerous men, not a charity."
+description: "Citizenship in the Vylarian Empire—a personal, earned, largely non-heritable status won chiefly by twenty years in the legions, carrying, for the veteran, the dole (a pension graded by his final rank), the right of residence in Orzara, and legal standing. It is the Empire's recruiting bargain and the loyalty-leash on its most dangerous men, not a charity."
 tags: [reference, vylaria, imperial, law, society]
 ---
 
@@ -29,26 +29,26 @@ The Senate may grant the status to anyone, for some signal service to the Empire
 
 A citizen holds a bundle of privileges that no resident enjoys:
 
-- **The dole.** A guaranteed ration of grain and, in [[place-orzara|Orzara]], oil and the price of the public games besides. It is a subsistence _floor_, not a living (see below).
+- **The dole.** The dole is the veterans' pension: a sum in coin paid every month for life, graded by the rank a man held in the legion when he left it. A citizen by station or by Senate grant draws none unless he served. Living in [[place-orzara|Orzara]] costs so much that virtually every veteran-citizen depends on it (see below).
 - **The right of residence in Orzara.** Only citizens may dwell within the capital's thrima by right. A resident needs a registered waiver, tied to an employer, from [[affiliation-verdanorzara|the courts]]; the Orzara note describes how the waivers work.
 - **Legal standing.** A citizen stands before the courts as a person of standing, with a **right of appeal** that rises to the imperial tribunals. He is spared the summary and degrading punishments dealt to residents: a condemned citizen is owed a trial and, at worst, a clean execution, never the lash or the arena without sentence.
 - **Eligibility.** Citizens may vote and hold civic office, and they have first claim on the salaried imperial posts the Empire reserves for the men who served it, the [City Watch]{.name data-type="affiliation/governmental"} above all.
 
 ## The Dole, and What Comes After
 
-The dole keeps a citizen from starving. It does not keep him in comfort, and few who can do better live on it alone. A discharged veteran of thirty-five, hale and freshly trained, generally wants work, and the Empire, which has just spent twenty years making him, is glad to find him some. The City Watch recruits its ranks straight from the veteran-citizens. Others take posts as guards, overseers, bailiffs, drovers, household stewards and drill-instructors, and the shrewder or luckier buy into a trade or a shop. Beneath all of them the dole remains, the one thing that cannot be taken away.
+Each pension is modest. A ranker's keeps him from starving and no more, and a centurion's is better without being rich. Nobody lives well on the dole alone, but almost no veteran-citizen inside Orzara lives without it either: rent, bread and everything else inside the bounds cost so much that even a veteran in decent work needs the dole to scrape a living. A discharged veteran of thirty-five, hale and freshly trained, generally wants work, and the Empire, which has just spent twenty years making him, is glad to find him some. The City Watch recruits its ranks straight from the veteran-citizens. Others take posts as guards, overseers, bailiffs, drovers, household stewards and drill-instructors, and the shrewder or luckier buy into a trade or a shop. Beneath all of them the dole remains, the one thing that cannot be taken away and the one thing almost none of them could do without.
 
 ## Why the Empire Bears the Cost
 
-The dole and its privileges are expensive, and the Empire is emphatically not running a charity. It carries the cost because the arrangement does three things no cheaper system could:
+The pensions are modest one by one, but there are a great many pensioners, and together they make the dole the largest charge the throne carries and the one it can least ignore. The Empire is emphatically not running a charity. It carries the cost because the arrangement does three things no cheaper system could:
 
-1. **It recruits the army.** The promise of citizenship (the dole, the standing, the residence, the protection of the law) is what persuades commoners to give the legions their best twenty years and to die on the borders. Take it away and the meritocratic backbone of the army, the part that wins wars, stops enlisting and stops trusting the throne.
+1. **It recruits the army.** The pension is the promise of the legion: however bad the service, at the end of it a veteran is taken care of for life and has a say as a citizen. A legionary thinks of his twenty years as saving up for his retirement. The promise of citizenship (the dole, the standing, the residence, the protection of the law) is what persuades commoners to give the legions their best twenty years and to die on the borders, and the throne can neither cut the pension nor quietly shrink it without breaking faith with every man under arms. Take it away and the meritocratic backbone of the army, the part that wins wars, stops enlisting and stops trusting the throne.
 2. **It leashes the dangerous.** A discharged legionary is trained, networked and lethal, and the Empire has tens of thousands of them. Settling them as citizens with a daily, tangible stake in imperial stability turns its most dangerous class into its loyal core. A hungry peasant is a nuisance; a hungry veteran is how dynasties fall.
 3. **It balances the city.** A throne-loyal body of citizen-veterans, concentrated in the capital, offsets both the senatorial aristocracy above it and the unenfranchised resident multitude below.
 
 ## The Citizenship in Decline
 
-As the Empire's reach and revenue shrink, the citizenship has become a burden the throne can neither comfortably afford nor safely cut. The dole is among the largest standing charges on a shrinking treasury, and the temptations of economy show first there: **arrears, short measure and cheaper grain in the ration**. Each is a quiet admission of decline, and each is dangerous, because the citizen-veterans know exactly what they are owed and exactly how to make their displeasure felt. Reform factions argue for trimming the rolls or means-testing the dole. The conservatives, the veterans and plain political prudence defend it. A _missed_ dole is the single spark every cautious Orzas (emperor) most dreads.
+The dole was no burden while the Empire expanded and the wealth of conquered lands poured into Orzara. Now that the Empire is receding, the pensions are owed as before and there is no way to claw them back, and the citizenship has become a burden the throne can neither comfortably afford nor safely cut. The tributes of the provinces and the colonies fall short of the dole, and the throne meets it by borrowing, chiefly from the great houses of [[affiliation-danvar|the Danvar]]. Vylaria's credit is excellent and the loans are rolled over year on year, the lenders repaid from new loans, but nothing is put by: a great fire or a famine can be met only by borrowing more, the interest on what the throne already owes is a growing worry in [[affiliation-tarmex|the Tarmeks]], and one default would be enough to end the credit the dole now stands on. The temptations of economy show first in the dole itself: **arrears, short payments and clipped coin**. Each is a quiet admission of decline, and each is dangerous, because the citizen-veterans know exactly what they are owed and exactly how to make their displeasure felt. Reform factions argue for trimming the rolls or means-testing the dole. The conservatives, the veterans and plain political prudence defend it. A _missed_ dole is the single spark every cautious Orzas (emperor) most dreads.
 
 ## See Also
 

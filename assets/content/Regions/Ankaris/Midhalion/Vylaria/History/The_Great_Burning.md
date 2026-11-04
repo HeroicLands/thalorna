@@ -20,7 +20,7 @@ data:
         - place-antel
         - place-selvin
       summary: >-
-        With Hilen's harvest lost to the war, the dole fails in Orzara. The Circles riot, the Watch cannot hold the valley wards, and fire runs from the Warrens over Antel for six days. The families of the Old Hill move to the newer slopes of Selvin and do not go back.
+        With Hilen's harvest lost to the war, bread runs short in Orzara and the dole goes unpaid. The Circles riot, the Watch cannot hold the valley wards, and fire runs from the Warrens over Antel for six days. The families of the Old Hill move to the newer slopes of Selvin and do not go back.
       standing: attested
       names:
         - {name: the Great Burning, by: affiliation-vylarinmpr}
@@ -44,7 +44,7 @@ data:
       follows:
         - event: "lore-olcassabtl#olcassa"
           how: caused
-          note: the harvest lost to the war is the dole's failure
+          note: the harvest lost to the war is the bread's failure, and the war's cost is the dole's
       accounts:
         - by: affiliation-vylarinmpr
           says: >-
@@ -58,7 +58,7 @@ A Watch sergeant, showing a new recruit round the lanes of the lower wards of [[
 
 ## The Failed Dole
 
-[[place-orzara|Orzara]] is fed from [[place-hylen|Hilen]], and Hilen's harvests were lost to the war ([[lore-olcassabtl|The Battle of Olkassa]]). About 403 the dole did not come. A citizen's bread is the bargain at the heart of the [[affiliation-vylarinmpr|Empire]] ([[lore-veteranslaw|The Veterans' Law]]), and the capital's poor had no other.
+[[place-orzara|Orzara]] is fed from [[place-hylen|Hilen]], and Hilen's harvests were lost to the war ([[lore-olcassabtl|The Battle of Olkassa]]). About 403 the bread ran short, and in the same months the treasury, spent on the war, did not pay the dole. A veteran's pension is the bargain at the heart of the [[affiliation-vylarinmpr|Empire]] ([[lore-veteranslaw|The Veterans' Law]]), bread is what the whole city lives on, and the capital lost both at once.
 
 ## The Fire
 

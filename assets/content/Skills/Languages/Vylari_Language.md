@@ -1901,7 +1901,7 @@ data:
     - form: uzmela
       class: n f
       field: "Coin, trade and the counting-table"
-      gloss: "the dole; the grain given to the citizens of a city"
+      gloss: "the dole; the pension paid to the veteran citizens of a city"
       source: {kind: inherited}
     - form: yenthizon
       class: n n

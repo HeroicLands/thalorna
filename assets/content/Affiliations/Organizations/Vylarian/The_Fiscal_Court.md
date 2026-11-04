@@ -121,7 +121,7 @@ The Tolvan administers these principal taxes within imperial territory:
 
 ## Relations
 
-- **The [[affiliation-tarmex|Tarmeks Orzan]]** is the direct counterpart: the Tolvan collects and the Tarmeks holds. Coordination is constant, and tension arises when the Tolvan's revenue projections fall short of the Tarmeks's disbursement requirements.
+- **The [[affiliation-tarmex|Tarmeks Orzan]]** is the direct counterpart: the Tolvan collects and the Tarmeks holds. Coordination is constant, and tension arises when the Tolvan's revenue projections fall short of the Tarmeks's disbursement requirements, as they now do every year. The Tarmeks borrows the difference from the great houses of [[affiliation-danvar|the Danvar]], chiefly to pay the dole, and each year's estimates must also find the interest on what the throne already owes.
 - **The Orzas and the Dukran** are patrons and ultimate authorities. The Talkor of the Tolvan serves at imperial discretion, and Council seats turn over at the Orzas's pleasure within procedural limits.
 - **The provincial therkoi and the Helionite city-state councils** are operational counterparts in the lower tax tiers. The relationship is correct and bureaucratic, with occasional disputes over jurisdictional boundaries, since either tier may claim a tax category.
 - **The Lethunu** at court are the natural patrons of the _rozimoi_ of the Tolvan' more aggressive prosecutions, and they push periodically for Tolar reform.

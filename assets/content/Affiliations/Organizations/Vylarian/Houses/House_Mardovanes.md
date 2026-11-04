@@ -52,9 +52,9 @@ House Mardovanes is an _ethlen_ (Gilded) house of [[place-orzara|Orzara City]], 
 
 ## The House on the Laurel
 
-The Mardovanes house stands near the crown of Selvin, the hill of the rising, behind a wall of dressed stone and a gate lit all night. Its gardens run down the slope in terraces fed by their own cistern, and on a feast night the house hangs lamps in every tree. The morning call is crowded: grain-brokers, officers of the dole, _kurthoi_ (senators) of the _ankren_ (Silver) houses and, lately, envoys from the Hilen estates. The cupboard by the door holds fewer masks than an old house's, and Azénales's mask stands at its head, its diadem gilded fresh every year.
+The Mardovanes house stands near the crown of Selvin, the hill of the rising, behind a wall of dressed stone and a gate lit all night. Its gardens run down the slope in terraces fed by their own cistern, and on a feast night the house hangs lamps in every tree. The morning call is crowded: grain-brokers, officers of the granaries, _kurthoi_ (senators) of the _ankren_ (Silver) houses and, lately, envoys from the Hilen estates. The cupboard by the door holds fewer masks than an old house's, and Azénales's mask stands at its head, its diadem gilded fresh every year.
 
-The house is rich, and its money is grain. Its factors buy on the estates of [[place-hylen|Hilen]], see the wagons weighed at [[place-aravantia|Aravantara]] and sell into the state granaries that feed the capital's dole. The culture's oldest rule of politics is that whoever holds the granary decides, and the Mardovanes have built a house on knowing it.
+The house is rich, and its money is grain. Its factors buy on the estates of [[place-hylen|Hilen]], see the wagons weighed at [[place-aravantia|Aravantara]] and sell into the state granaries that feed the capital. The culture's oldest rule of politics is that whoever holds the granary decides, and the Mardovanes have built a house on knowing it.
 
 ## The Master of the House
 

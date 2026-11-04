@@ -3,20 +3,20 @@ shortcode: olcassafld
 name: {full: The Blood-field of Olkassa, en: [The Field of Both Eagles], vyl: [Olkassa]}
 type: place
 subType: site
-description: "The wheat-field on the Olkassa estate in Hilen where Vylarian legions killed one another about 401 AF: a moderate quickening that brings the grain in a fortnight early and half again as heavy, farmed in silence and sold into the state granaries for the dole."
+description: "The wheat-field on the Olkassa estate in Hilen where Vylarian legions killed one another about 401 AF: a moderate quickening that brings the grain in a fortnight early and half again as heavy, farmed in silence and sold into the state granaries that feed the capital."
 tags: [vylaria, hylen, farmland, battlefield]
 data: {demonym: null, lore: [bloodfield], parents: [hylen], population: 0, packFolder: vylaria}
 ---
 
 ## Overview
 
-A grain factor of one of the great houses, riding the [[place-hylen|Hilen]] estates in the week before harvest, makes a point of reaching Olkassa last. "It is cut by the time I get there," he says, "and the sheaves are heavier than anyone else's, and I have never asked the steward why. The wheat comes off the field of both eagles a fortnight before the neighbours' and sells for the dole at the top of the price. Do not ask the tenants. They know, and they will not tell you."
+A grain factor of one of the great houses, riding the [[place-hylen|Hilen]] estates in the week before harvest, makes a point of reaching Olkassa last. "It is cut by the time I get there," he says, "and the sheaves are heavier than anyone else's, and I have never asked the steward why. The wheat comes off the field of both eagles a fortnight before the neighbours' and sells to the state granaries at the top of the price. Do not ask the tenants. They know, and they will not tell you."
 
 The **Blood-field of Olkassa** is a [[lore-bloodfield|blood-field]] on the Olkassa estate, one of the great holdings of Hilen. It is where the army of [[affiliation-seldan|Seldan]] (the Senate) and the [[place-moktur|Moktur]] legions killed one another about 401 AF ([[lore-olcassabtl|The Battle of Olkassa]]), under the same eagle and with no quarter given. Its kind is a **quickening**, and it is among the best farmland in the province.
 
 ## The Quickening
 
-The ground is moderately thin. Wheat on the field comes in a fortnight early and half again as heavy as the estate's other fields. The vines on its edge set fruit twice in a year. The Olkassa estate's grain is the best in Hilen, and a good deal of it is milled into the dole.
+The ground is moderately thin. Wheat on the field comes in a fortnight early and half again as heavy as the estate's other fields. The vines on its edge set fruit twice in a year. The Olkassa estate's grain is the best in Hilen, and a good deal of it is milled into the capital's bread.
 
 Nothing crosses that a reaper sees by day. On the anniversary of the battle the estate's dogs will not go into the standing grain, and men who sleep in the field-huts that week dream of being buried by their own side.
 
@@ -34,7 +34,7 @@ The clergy of the [[affiliation-selmoros|Faith of Sélmoros]] and the [[affiliat
 
 ## Hooks
 
-- **The dole's flour.** A grain factor finds that the capital's dole is milled from Olkassa wheat, and a preacher of [[affiliation-blackflame|The Black Flame]] in the [[place-warrensorz|Warrens]] tells the poor why the city has been angry for a year.
+- **The capital's flour.** A grain factor finds that the capital's bread is milled from Olkassa wheat, and a preacher of [[affiliation-blackflame|The Black Flame]] in the [[place-warrensorz|Warrens]] tells the poor why the city has been angry for a year.
 - **The heir's wedding.** The estate's heir wants the field settled by Sélmoros's rite before his wedding. The rite works perhaps half the time, and nobody knows whether settling it would end the harvest.
 
 ## See Also

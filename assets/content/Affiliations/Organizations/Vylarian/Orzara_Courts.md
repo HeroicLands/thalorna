@@ -34,7 +34,7 @@ data:
       Veramus of Order: >-
         Commands the City Watch and answers for public order, the watch-houses and the city gaols.
       Veramus of the Grain: >-
-        The granaries, the dole, the licensed markets and the unceasing daily supply on which the capital lives.
+        The granaries, the licensed markets and the unceasing daily supply on which the capital lives.
       Veramus of Works and Waters: >-
         The fabric of the city: its streets and bridges, its aqueducts and sewers, its public buildings and baths.
       Veramus of the Rolls: >-
@@ -65,7 +65,7 @@ The Veramus of Order
 : commands the [[affiliation-vylrnmltry|City Watch]], and answers for public order, the watch-houses, and the city gaols.
 
 The Veramus of the Grain
-: the granaries, the dole, the licensed markets, and the unceasing daily supply on which the capital lives.
+: the granaries, the licensed markets, and the unceasing daily supply on which the capital lives.
 
 The Veramus of Works and Waters
 : the fabric of the city: its streets and bridges, its aqueducts and sewers, its public buildings, baths, and the upkeep (or quiet neglect) of the Circles and avenues.
