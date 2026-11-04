@@ -167,7 +167,9 @@ SELECT array_to_string(list_transform(letters, x -> '_' || x || '_'), ', ') AS "
 FROM letters WHERE language = 'thalorna-note-doc-prnncthlrn' AND kind = 'consonant' ORDER BY position
 ```
 
-The letter _c_ appears only inside _ch_, and the letter _x_ is never used: a hard _c_ is written _k_.
+### Letters not used
+
+Two letters of the English alphabet stand alone in no word. The letter _c_ appears only inside _ch_, so a hard _c_ is written _k_. The letter _x_ is never used.
 
 ### _h_ beside a consonant
 
@@ -219,14 +221,8 @@ In some tongues the voice rises or falls on a long vowel, and that tone is part 
 
 A toned syllable is also the stressed one, unless an acute sits elsewhere in the word. _Kǎalara_ is _KAAH-lah-rah_ with the voice rising on the first syllable, /ˈkɑ̌ːlɑrɑ/, and _Kâalara_ is the same with the voice falling, /ˈkɑ̂ːlɑrɑ/. In _Kǎalará_ the acute takes the stress to the end and the first syllable still rises, /kɑ̌ːlɑˈrɑ/. Tone marks are read the same way everywhere, in prose, in names and in verse. Saying the word on a level voice, with only its stress, is always fine.
 
-## The finer points
-
-### Counting syllables
+## Counting syllables
 
 Every vowel or vowel group makes one syllable, and _y_ is never a vowel. Read a word from left to right, taking the longest group of letters this guide lists first: each letter belongs to only one group. Capital letters sound the same as small ones.
 
 A hyphen inside a word keeps two letters from forming a group, without adding a sound or a second stress: _as-ha_ has an _s_ and then an _h_, /ˈɑshɑ/, while _asha_ has the _sh_ of _ship_, /ˈɑʃɑ/. A compound is read as one word, with one stress. A stem written with a hyphen at its end, such as _zevr-_, is never said alone; it is always joined to an ending that opens on a vowel.
-
-### In a native script
-
-The peoples of Thalorna write in their own scripts, and the spellings in these pages are a faithful transcription of them. A word written in a native script reads back to exactly the same roman spelling. A script draws each vowel as its letter and each vowel group as that script writes the group. A split group, such as the _aü_ of _kaü_, is drawn as two separate vowels, and its diaeresis returns by rule when the word is read back into roman letters.
