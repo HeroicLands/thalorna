@@ -106,8 +106,8 @@ I got the waiver. That is the real coin, and the steward pays it once a year:/
 a paper with the patron's seal that says the man on the eighth step/
 may sleep inside the line while he is the patron's, and not an hour after./
 The dole is a citizen's. My father had it, on the first of the month,/
-short and late, and the clerk at the granary told him the measure was the measure,/
-and the measure was a man's two hands put together, with the thumbs out./
+short and late, and the clerk at the ledger told him the dole was the dole,/
+and the dole was the rung my father left the legion on, and it was copper, copper./
 I would take it short. I would take it late. I would take it in one hand.
 
 The patron dines. I am asked to dine. That was the year of the fourth step./
@@ -238,8 +238,8 @@ Liskara kuremen. Denon yarelon kezilon yarezor. Karezos urkis kanel ir tharnela 
 Lanbeza kona thizaron ol daimela. «Orvenos, vethor, ir zorimoron zirkon.»/
 Ir thrima lothathen yestharon kerazor kan ol daimela yarezor. Ar thapelon ethor./
 Uzmela ol verosa yarezor. Helthos kerazor. Ir holima oltrema./
-Nizela ul ethor kanel. Thilartos ir selkora fir denos dokazor. «Thradima, vethor, thradima yarezor.»/
-Thradima tavemer dekazoi ol orvenos konthoi yarezor. Dekis solterai fos./
+Nizela ul ethor kanel. Thilartos ir rozima fir denos dokazor. «Uzmela, vethor, uzmela yarezor.»/
+Uzmela ol zirothos ol helthos yarezor. Radzimon yarezor, radzimon./
 Nizela kuremen. Ethor kanel kuremen. Ir urkis dekazu kuremen.
 
 Daimela pazazor. Fa pazathen en klamezoi. Kanai tharnela ol felzoron zirkon yarezor./

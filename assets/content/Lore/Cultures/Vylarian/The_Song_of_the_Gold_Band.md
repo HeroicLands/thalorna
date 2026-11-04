@@ -192,7 +192,7 @@ seventeen, eighteen, nineteen, twenty in Moktur,/
 Twenty years under the eagle, and then the door,/
 .one door, and the army holds it open./
 Thirty-five, and a citizen, and the dole in the city,/
-.and a wife with the right to the dole for her life,/
+.and a wife with the right to the city for her life,/
 and a room in the [Warrens]{.name data-type="place/site" lang=en} up ninety stairs,/
 .and nothing to count from the window but roofs.
 
@@ -247,7 +247,7 @@ umbaris ul ranethur, umbaris ul zorimaks, umbaris ul lukemar,/
 Tavendur tharnelai zel orkaima. Kanai fenza./
 .Urkis fenza. Strathos dena olmathen thaurazor,/
 Karzis umbaris ul yolemiks. Verosa. Uzmela ir veramis./
-.Kambetha kona yestharon ol uzmela fir kanel ol kolvazis ol dena./
+.Kambetha kona yestharon ol veramis fir kanel ol kolvazis ol dena./
 Dumela ir Katsur us lukemar umbaris zirkoi./
 .Ar lathon fos okvela rozimathen. Urthai kovrai.
 
