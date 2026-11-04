@@ -77,6 +77,15 @@ The small domed shrines of whitewashed stone on Nishurel's hilltops are Saliruni
 
 During the war of independence the house of [[affiliation-balinuni|Balinuni]] carried the rebellion's supplies over the Nishurel hill roads with Saliruni guides and Saliruni escorts, when the legions held the coast roads. The house's head promised the tribe a share of the hill-road tolls once the war was won, by clasped hands and before witnesses, and never in writing. The house has not paid. The Saliruni elders raise the debt at every sitting of the Council of the Hills, and the tribe's councilors on Kudumel's council have stopped asking the house for it.
 
+## Quarrels and Debts {#present}
+
+The unpaid share is the tribe's quarrel, and this season the tribe has acted on it. The Saliruni guides at the Caravan Gate will not take a [[affiliation-balinuni|Balinuni]] train over the hill roads, though they guide every other house's, and the tribe's councilors on Kudumel's council have stopped asking [[being-llmnblnn|Ellamuna Balinuni]] for the share. A Tribal Councilor of the hills has not come down to the council's session, and his household camps by the west gate without him.
+
+## Hooks {#hooks}
+
+- **The refusal.** [[being-llmnblnn|Ellamuna Balinuni]] wants a Saliruni guide who will take her train over the hills, and hires a party to find one who can be persuaded.
+- **The councilor.** The household of the missing Tribal Councilor asks a party going up into the hills to carry word to him that the council at Kudumel is sitting.
+
 ## See Also
 
 [[place-tulurel|Tulurel]]

@@ -50,6 +50,15 @@ A party can walk Milazun from end to end in a day, and outside the harvest it is
 
 Milazun attar is sold by the drop, at a price in silver that only the guild families pay, and each still-house seals its flasks with its own mark in wax. This year a Besikar perfumer who has bought from the same still-house for twenty years opened a sealed flask and found the attar cut with a cheaper oil, and the still-house swears its flasks left Milazun pure. Two more perfumers in Besikar have found the same since. The still-house's master, whose name and credit are ruined if the story spreads, hires a party to find where between his still-house and the Besikar quays the attar is being cut.
 
+## Current Situation {#present}
+
+Milazun's quarrel is its seals. Attar sold in Besikar under the seal of a still-house that has sold to the same perfumer for twenty years has been found cut with cheaper oil, and two more Besikar perfumers have found the same. The still-house's master stands to lose his name and his credit, and the Warden of the Seals in [[place-shamular|Shamular]], [Meraza Latari]{.name data-type="being/npc"}, has been brought a flask whose seal she cannot match. In Shamular someone has quietly bought up the debts of the perfumer [[being-kdmyqbsn|Kadumuya Kubasuni]], whose license carries a seat on the town's board. The guild families of Besikar keep their summer houses on the hills behind closed gates.
+
+## Hooks {#hooks}
+
+- **The cut attar.** The still-house's master hires a party to find where between Milazun and the Besikar quays his attar is being cut.
+- **The perfumer's notes.** [[being-kdmyqbsn|Kadumuya Kubasuni]] wants a party to learn who now holds her shop's debts before they are called.
+
 ## See Also
 
 [[place-taruzelrgn|Taruzel Region]]

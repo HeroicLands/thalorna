@@ -71,6 +71,22 @@ The Compact prefers economic pressure to violence and is not above either. A mer
 
 Those enforcers are the people most likely to cross paths with the crew of [[affiliation-thetamzir|the Tamzir]]. Old debts from the war, broken contracts and the captain's refusal to work inside the guild system make the ship a persistent irritant to the Compact's sense of order.
 
+## The Present {#present}
+
+The Compact is collecting. This season its counting houses call in what the cities and their harbor towns owe sooner than the notes require and at dearer renewals, and the calls fall on shopkeepers, fishermen and the members of the veterans' halls, who have nothing left to pledge. Its answer to the anger that follows is the answer it has always given: revoked licenses, blacklists and enforcers. It would crush the outlaw captains and enforce every debt they owe, and it pays the [[affiliation-corsairleg|Corsair League]] bounties for the captains its galleys bring in.
+
+Its heaviest house, the [[affiliation-qizikuni|Qizikuni]], wants more than the interest. [[being-trmnqzkn|Tirmana Qizikuni]] presses the [[affiliation-grandcouncil|Grand Council]] for an audit of the [[affiliation-merazuni|Merazuni]]'s strongroom, and sounds the other houses on council seats that pass from head to heir. The Compact wants the [[affiliation-ordoarcanis|Thordimalon]] expelled from the islands as Vylaria's instrument, and it finds the [[affiliation-mrchntryvl|Merchantry]] hiring the Order's mages and the League's admirals wanting their battle-magic. In Besikar its factors keep petitioning to have the [[place-tamzirmonument|Tamzir Monument]] broken up, and the veterans sit up in her dock at night.
+
+:::secret {title="Why the calls come dearer"}
+The Qizikuni owe Khelathi lenders for gold borrowed in the war on notes no ledger records, and the head factor of the Khelathi factorage in Besikar now asks when the house means to pay something down. Tirmana pays a little each quarter, through a Merchantry broker, and finds the coin by calling in the cities' debts to the Compact. The Compact's enforcers pay a Keeper of a Besikar veterans' hall, [[being-zlmrzzn|Zilmar Ezzinu]], for the names of the Breakers who empty its debtors' strongrooms, and they have learned that a copy of the rebels' promise of prize money to the Free Captains exists. The Compact means to trade the Tamzir Monument back to Vylaria for lower tariffs once her hull is condemned.
+:::
+
+## Hooks {#hooks}
+
+- **The renewal.** A Besikar fishing-boat owner whose note the Compact has called asks a party to learn why the house that holds it will not renew, and [[being-trmnqzkn|Tirmana Qizikuni]]'s clerk is the one who refused.
+- **The Breaker's name.** The Compact's enforcers want a Breaker of the [[affiliation-unchained|Unchained]] taken before the next strongroom night, and hire a party the halls of Besikar do not know by sight. The first hall the party drinks in is [[being-zlmrzzn|Zilmar Ezzinu]]'s, and the elders there ask the party's business before the second cup.
+- **The bounty.** The Compact posts its largest bounty of the season on a Free Captain's hull, and [[being-dlzrtndn|Delzuru Tanaduni]]'s galleys are slow to look for her.
+
 ## See Also
 
 [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]

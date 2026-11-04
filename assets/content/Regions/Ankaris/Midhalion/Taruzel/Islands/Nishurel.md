@@ -53,6 +53,15 @@ The western descent comes down to the fishing harbors on the channel, where boat
 
 Herders coming down from the hills report something on the north beaches that has no business there: the tracks of camels, laden ones by the depth of them, coming up off the sand from the sea and going inland by night toward the hill roads. No harbor stands on that shore and no ferry lands there. The officers of the Caravan Gate say nothing has come in, and the dues they collect are down this season. A Kudumel merchant who deals in caravan goods, and who is losing sales to someone selling the same goods cheaper, offers a party good silver to learn where the camels come from and whose goods they carry.
 
+## Current Situation {#present}
+
+Nishurel's trade is leaking round its Gate. Herders find the tracks of laden camels coming up off the north beaches by night, the Caravan Gate's dues are down, and goods sell in [[place-qudumel2|Kudumel]]'s bazaars under the price of goods that paid them. In the hills the [[affiliation-saliruni|Saliruni]] still wait for the share of the hill-road tolls that the [[affiliation-balinuni|Balinuni]] promised them in the war, and this season the guides will not take a Balinuni train over the hill roads. A Tribal Councilor has not come down to Kudumel's council, and his household camps by the west gate without him.
+
+## Hooks {#hooks}
+
+- **The camel tracks.** A Kudumel merchant losing sales to the cheap goods offers a party good silver to learn where the north-beach camels come from and whose goods they carry.
+- **The missing councilor.** [[being-llmnblnn|Ellamuna Balinuni]] wants to know where the Tribal Councilor who did not come down to the session has gone, and his household by the west gate will not say.
+
 ## See Also
 
 [[place-taruzelrgn|Taruzel Region]]

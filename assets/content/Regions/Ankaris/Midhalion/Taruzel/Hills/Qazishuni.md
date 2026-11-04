@@ -74,6 +74,15 @@ The tribe's name is its boast. Every camp has a Teller of the Winter Fire, who k
 
 The Qazishuni sell cheese, wool, hides and horses in Pashinar and in the markets of [[place-besikar2|Besikar]]'s outskirts, and hire out as caravan guards on the pass road. Besikar, whose island Qalirel is, has never sent an official above the terraces. This season a gate of new timber hangs across the pass road below the third fort, kept by men who say they hold the road for the hills, and the Qazishuni have neither built it nor broken it.
 
+## Quarrels and Debts {#present}
+
+The Qazishuni are blamed for a gate they did not build. The new toll-gate below the third fort on the pass road is kept by men in goat-hair cloaks who say they hold the road for the hills, and every caravan master who comes down into Pashinar tells the tale of the man who kept the pass for three paymasters. The tribe has neither built the gate nor broken it, because a hill man who breaks the coast's law on the coast is hanged by the coast. The list of what the coast has promised the hills and not paid grows longer at every winter fire. The factors of the great houses come up to [[place-ralumar|Ralumar]] to offer for its cut stones, and the Keeper of the Doors turns them away. [Qatush Qazishuni]{.name data-type="being/npc"}, the Lawspeaker, is of this tribe.
+
+## Hooks {#hooks}
+
+- **The coast's tale.** A Qazishuni elder wants a party that has crossed the pass to tell the caravan masters of Pashinar that the hills did not hang the gate, and to be believed.
+- **The stones.** A Besikar factor offers a party a good price to bring a cut stone down from Ralumar by night, and the Keeper of the Doors is the person it will have to pass.
+
 ## See Also
 
 [[place-tulurel|Tulurel]]

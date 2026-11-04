@@ -54,11 +54,15 @@ The town is governed by its [[affiliation-gldbrdshrmn|Guild Board]], seven maste
 
 A shopkeeper robbed in the night goes first to the warden of his own guild, who knows its apprentices and its debtors. If the warden cannot help, the shopkeeper lays the theft before a magistrate of the board, and a magistrate's sentence is a fine, a flogging at the harbor post or, for a theft above a set sum, the arena. The town watch is quarrymen, paid by the board and armed with staves, who walk the square and the quay at night and do not go into the furnace street, where the glassmakers keep their own peace.
 
+## The Present {#present}
+
+Sharimun is full of litigants and short of patience. The Arbitrators' session fills the lodging-houses on the square, and merchants come with bodyguards as well as papers. A Kudumel merchant's suit against a Besikar house turns on a ship's master who has gone to sea, and the session closes in twenty days. A young furnace-hand has been sentenced to the arena by a magistrate of the [[affiliation-gldbrdshrmn|Guild Board]] for a theft his mother swears he did not commit, and the arena's champion, [[being-nbrnfsnn|Niburan Fusanuni]], wants to know who paid the man who accused him. Across the narrows the Strait Fortress prepares for the Fleet Review, and the Keeper of the Beacon, [Belgina Sinnuni]{.name data-type="being/npc"}, is the member most often outvoted on the board that pays for her fire.
+
 ## Where a Party Lodges
 
 The harbor inns take sailors and quarry buyers and are cheap outside the court's sessions. In a session the lodging-houses on the square fill with litigants' clients, charge by the week and expect payment in advance. A party that comes by the coast road can eat better than anywhere in the town at the roadside tavern an hour short of the gate, where the cook [[being-bssshtndn|Bissush Tanaduni]] feeds carters and travelers on the plain food of the country, and the carters stop whether they are hungry or not.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The witness.** A Kudumel merchant has a suit before the Arbitrators against a Besikar house, and the case turns on a ship's master who signed the charter and has since gone to sea. The session closes in twenty days. The merchant's litigant wants the master found and brought to the porch of the Khurutun to swear.
 - **The accuser.** Niburan Fusanuni still knows the name of the man who accused him of the theft that sent him to the arena, and he wants a party to learn what that man was paid, and by whom.

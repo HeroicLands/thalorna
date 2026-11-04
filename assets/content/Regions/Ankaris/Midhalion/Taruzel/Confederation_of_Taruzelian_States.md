@@ -103,15 +103,7 @@ The bazaars
 
 The channels between the islands are the other half of the country. Whoever holds them controls the trade routes of the eastern sea, and the Confederation holds them: the islands carry its naval bases and its trading entrepôts, and, for those who know the passages, its smuggling havens.
 
-## History
-
-Taruzel was a Vylarian province for centuries, among the first lands the [Vylarian Republic]{.name data-type="affiliation/polity"} absorbed and by the end the empire's wealthiest in the east. Its merchant princes grew rich as the empire's intermediaries in the eastern trade, and when the imperial court answered their wealth with tariffs, harbor fees and harder _therkoi_ (governors), and gave them no seat in [[affiliation-seldan|The Vylarian Senate]] (Seldan), they paid for a revolution.
-
-The war began in 707 with broadsheets printed at guild expense, and it went badly on land: Besikar was besieged and the militias were routed on the coastal plains. the [[affiliation-empireakhlth|Empire of Au'Khelathu]]'s gold kept the rebellion solvent, the [[affiliation-kngdmmrdd|Kingdom of Amradad]] helped across the strait, and a flotilla of armed traders and fishing boats closed the island channels to imperial shipping ([[lore-taruzelwar|The Taruzelian War of Independence]]). In the early summer of 708 the flotilla destroyed the empire's largest squadron at the [[place-tamzirshoals|Tamzir Shoals]], the island garrisons fell within months, and Vylaria recognized the Confederation within the year ([[lore-tamzirbattle|The Battle of Tamzir Shoals]]).
-
-The merchant guilds wrote the Confederation's charter for themselves. The veterans were discharged with a small purse of silver in place of the land, guild places, pensions and voice they had been promised, the Corsair League was taken over by the shipowners, and the captains and militia leaders who would not be quiet were declared outlaws. Within two years of independence the Confederation was an oligarchy in all but name, and the outlaws had taken to the channels as the [[affiliation-freecaptains|Free Captains]] and the [[affiliation-shoalsbrthd|Shoals Brotherhood]], with the [[affiliation-unchained|Unchained]] ashore ([[lore-taruzelbetrayal|The Betrayal of the Revolution]]).
-
-## The Taruzel of Today
+## Current Situation {#present}
 
 The undercurrent of rebellion has never gone away. It rises—a harbor strike in Yamuzel, a tax riot in Besikar's dock districts, a tribal raid on a guild caravan—and each time it is put down hard. The guilds learned from the empire's mistakes and send no legions, because legions make martyrs. They use economic pressure instead (revoked licenses, called-in debts, blacklisted families), quiet enforcement by guild enforcers, and the steady weight of an economy built to keep the powerless where they are.
 
@@ -120,6 +112,23 @@ The anger accumulates. The veterans of the Shoals are growing old, and their chi
 So the Confederation stands free, prosperous and seething. The merchant guilds rule through money and the institutions they control. The veterans and their children nurse the betrayal, the outlawed captains raid from the island channels, and the hill tribes trust no one. Everywhere—in the dock districts, the fishing villages and the tribal camps—people remember the words that recruited them and wait for someone to mean them.
 
 Into this sails [[affiliation-thetamzir|the Tamzir]]. Her captain fought at the Shoals, believed the promises and watched the merchant princes take the victory. He now runs cargo on the margins of a Confederation that would rather he did not exist: too famous to ignore, too dangerous to tolerate, and too stubborn to kill quietly. The guilds want him brought to heel, the veterans want him to raise the flag again, and he wants to keep his crew alive and his ship moving. Nobody involved expects that position to hold.
+
+This year the anger is nearer the surface than at any time since the outlawing, and every power on the coast is placing itself against the day it breaks.
+
+- **The rising.** Talk in the halls that keep the [[affiliation-unchained|Unchained]]'s oath, among the [[affiliation-freecaptains|Free Captains]] and on the harbor streets of Yamuzel has turned from strikes to a rising, and the rising has no head. [[being-rzznpddn|Razzina Padduni]], keeper of a veterans' hall in Yamuzel, says it needs a captain the whole coast would follow. Every side courts the same man, [[being-zbzmjkdn|Zabuzum Jakuduni]]: the halls want him to raise the flag, the Compact wants him brought to heel, the League would have him under its flag, and the Merchantry offers him work. He has answered none of them.
+- **The debt.** The Confederation pays the Compact's war interest before any other business, and this season the Compact calls in what the cities owe it sooner and dearer. The calls fall on shopkeepers, fishermen and the veterans' halls, and every debt called sends more men to the halls. The Khelathi debt is denied in public and repaid in private, as it has been since the war.
+- **The treasury.** Vylaria refuses to pay the war indemnity it owes, and the Council's claim to it stands among the petitions of every session. [[being-trmnqzkn|Tirmana Qizikuni]] presses the Council for an audit of the [[affiliation-merazuni|Merazuni]]'s strongroom and has a candidate for [[being-yshdyjkdn|Yushuduya Jakuduni]]'s chair.
+- **The summer session.** The Grand Council sits a few weeks after the [[lore-fleetreview|Fleet Review]], and [[being-dnshkmn|Danashu Kumuni]] sets the order in which its business is read. The veterans' petition that [[being-zlmrzzn|Zilmar Ezzinu]] carries to the residence, [[being-dlzrtndn|Delzuru Tanaduni]]'s League toll on the narrows, the audit and the League's charter all want an early place, and a measure read on the last afternoon is not counted.
+- **The guilds.** The Compact would crush the outlaws and enforce every debt. Some League captains warn the outlaws before a sweep, and some League admirals would sooner hire them than hunt them. The Merchantry trades with all of them. The three split again over the Thordimalon: the Compact would expel it as Vylaria's instrument, the Merchantry hires its mages, and the League wants its battle-magic.
+- **The closed roll.** Tirmana Qizikuni sounds the heads of the other four great houses on council seats that pass from a head to an heir. The houses are tempted and wary, and nobody has moved it in any council.
+
+:::secret {title="What the coast does not see"}
+**The rising has a day.** The halls of Yamuzel, the Free Captains and the harbor veterans mean to rise at the Fleet Review, when the veterans' boats close the line through the narrows and the councilors stand on the fortress wall within a bowshot of them. Crossbows, boarding pikes and Vylarian silver lie under a cooper's shop below Razzina's hall, brought from a [[affiliation-hitusuni|Hitusuni]] warehouse under a Merchantry seal and paid for by an agent of the [[affiliation-vylarinmpr|Vylarian Empire]], who also courts Zabuzum. [[being-ashurazhitus|Ashuraz Hitusuni]] has sold the dates of three such deliveries to an enforcer of the Compact, and the Keeper of a Besikar hall, Zilmar Ezzinu, informs for the Compact and has been given the day of the rising. Vylaria's hand, if it were proved, would be a cause for war.
+
+**The debt is pressed.** The head factor of the Khelathi factorage in Besikar holds the notes on which several houses borrowed from Khelathi lenders in the war, and this season he asks at every dinner when the houses mean to pay something down. The Qizikuni find the coin by calling in what the cities owe the Compact, which is why the calls come dearer.
+
+**The strongroom is short.** The Merazuni's ledger enters the unpaid indemnity as gold in the vault. The audit Tirmana wants would find the gap in a day, and might take the coast's paper down with the Kubasum.
+:::
 
 ## Government
 
@@ -164,13 +173,23 @@ The [[affiliation-ordoarcanis|Thordimalon]] kept a strong presence in Taruzel th
 
 Independent practitioners—hedge mages, alchemists and fortune-tellers—are more common in Taruzel than in Vylaria proper, partly because the Arcane Order's grip is looser here. The Arcane Order resents it and keeps pressing for its monopoly to be enforced, sometimes using Vylarian imperial agents as proxies.
 
+## History {#history}
+
+Taruzel was a Vylarian province for centuries, among the first lands the [Vylarian Republic]{.name data-type="affiliation/polity"} absorbed and by the end the empire's wealthiest in the east. Its merchant princes grew rich as the empire's intermediaries in the eastern trade, and when the imperial court answered their wealth with tariffs, harbor fees and harder _therkoi_ (governors), and gave them no seat in [[affiliation-seldan|The Vylarian Senate]] (Seldan), they paid for a revolution.
+
+The war began in 707 with broadsheets printed at guild expense, and it went badly on land: Besikar was besieged and the militias were routed on the coastal plains. the [[affiliation-empireakhlth|Empire of Au'Khelathu]]'s gold kept the rebellion solvent, the [[affiliation-kngdmmrdd|Kingdom of Amradad]] helped across the strait, and a flotilla of armed traders and fishing boats closed the island channels to imperial shipping ([[lore-taruzelwar|The Taruzelian War of Independence]]). In the early summer of 708 the flotilla destroyed the empire's largest squadron at the [[place-tamzirshoals|Tamzir Shoals]], the island garrisons fell within months, and Vylaria recognized the Confederation within the year ([[lore-tamzirbattle|The Battle of Tamzir Shoals]]).
+
+The merchant guilds wrote the Confederation's charter for themselves. The veterans were discharged with a small purse of silver in place of the land, guild places, pensions and voice they had been promised, the Corsair League was taken over by the shipowners, and the captains and militia leaders who would not be quiet were declared outlaws. Within two years of independence the Confederation was an oligarchy in all but name, and the outlaws had taken to the channels as the [[affiliation-freecaptains|Free Captains]] and the [[affiliation-shoalsbrthd|Shoals Brotherhood]], with the [[affiliation-unchained|Unchained]] ashore ([[lore-taruzelbetrayal|The Betrayal of the Revolution]]).
+
 ## Relations
 
-Relations with Vylaria are officially correct and privately hostile. The empire has not forgiven the loss of Taruzel, and Vylarian agents, often working with the Thordimalon (the Arcane Order), operate in the Taruzelian cities, gathering intelligence and cultivating sympathizers. Taruzelian merchants, for their part, are pushing hard into markets the empire once dominated.
+Relations with Vylaria are officially correct and privately hostile. The empire has not forgiven the loss of Taruzel and refuses to pay the war indemnity it owes, and Vylarian agents, often working with the Thordimalon (the Arcane Order), operate in the Taruzelian cities, gathering intelligence and cultivating sympathizers. Taruzelian merchants, for their part, are pushing hard into markets the empire once dominated.
 
 Helionis, to the north-west, is Taruzel's natural trading partner, and the two share cultural and intellectual ties. Au'Khelathu, to the south, is its most important long-distance partner, and that relationship runs deeper than commerce. Khelathi gold, weapons and military advisors were instrumental in the war of independence, a debt the merchant princes deny in public and honor in private, through preferential trade agreements, reduced harbor fees for Khelathi vessels and quiet diplomatic coordination that favors Khelathi interests over Vylarian ones. The surge in Taruzelian–Khelathi commerce since independence is one of the largest economic shifts on the Vylarian Sea: trade that once passed through Vylarian intermediaries now runs directly between Taruzelian and Khelathi ports, enriching both and further weakening the empire's commercial position. For Au'Khelathu the investment in Taruzelian independence has paid for itself many times over.
 
 The Kingdom of Amradad holds the mainland across the strait, and relations with it are cordial: the Kingdom, long antagonistic to Vylaria, was among those who helped Taruzel win its independence. Beyond its shore, relations with the nomadic tribes of Dunhara are complicated: the desert peoples hold the overland trade routes the island cities depend on, which makes the relationship profitable to both and often tense.
+
+The [[affiliation-tribestrzd|Atarzád]] of the Khazryn count an old obligation to the islands. More than a century ago, when Taruzel was still a Vylarian province, its merchants shipped grain, fresh water and what Taruzelian chroniclers call "discounted iron" across the strait to the Atarzád host on the first leg of its Exodus. Atarzád law forbids raiding into Taruzel, the Teghumod merchant-houses keep especially scrupulous dealings with their Taruzelian counterparts, and Taruzelian bankers handle Atarzád commerce on the Vylarian Sea.
 
 ## The City-States
 
@@ -192,6 +211,12 @@ The Kingdom of Amradad holds the mainland across the strait, and relations with 
 ## Commerce and Currency
 
 The Confederation pays in the [[lore-trzlncrncy|Taruzelian currency]], the system it built after secession and administers through the Merazuni, the treasury of the [[affiliation-vezakuni|Vezakuni]]. Its denominations are the Vylarian ones (Solden, Ardin and Bit), but they are backed by Taruzelian reserves rather than by the Vylarian reserves of [[affiliation-tarmex|the Tarmeks Orzan]], and the Taruzelian Solden is slightly underweight by the Vylarian standard. A network of Merazuni-affiliated moneylenders carries the banking. Vylarian script is not honored in Taruzel, and Taruzelian script is not honored in Vylarian territory.
+
+## Hooks {#hooks}
+
+- **The captain's answer.** A veterans' hall in Yamuzel sends a party to find [[being-zbzmjkdn|Zabuzum Jakuduni]] wherever the Tamzir lies and bring back his answer, and a Merchantry broker on the same quay offers the party a fee to carry a different question.
+- **The calls.** [[being-zlmrzzn|Zilmar Ezzinu]] wants to know why the Compact's calls on the dock workers of his hall have all fallen due in the same month, and who in the Compact signed them.
+- **The early place.** [[being-trmnqzkn|Tirmana Qizikuni]] hires a party to carry her case for the audit to the councilors of Kudumel before the summer session, and to learn what [[being-dnshkmn|Danashu Kumuni]] has promised the men who came before them.
 
 ## See Also
 

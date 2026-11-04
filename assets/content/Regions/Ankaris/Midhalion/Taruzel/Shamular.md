@@ -42,11 +42,15 @@ The town is governed by its [[affiliation-gldbrdshmlr|Guild Board]], the heads o
 
 A shopkeeper robbed in the night goes to the board's clerk at the guild hall, who sends for the watch, a dozen hired men with staves. Most thefts in Shamular are thefts of a few drops: a flask lifted from a shop counter, attar cut and resold. A thief caught with a stolen flask pays its price four times over, and a seal-breaker is put out of the town and struck from its register.
 
+## The Present {#present}
+
+Shamular's quarrels are quiet and expensive, and they turn on seals and debts. Someone has bought up [[being-kdmyqbsn|Kadumuya Kubasuni]]'s late debts, her suppliers' notes and her unpaid guild dues, and has not yet presented them; her shop holds the oldest perfumer's license on the square and the board seat that goes with it. A strongbox locked by [[being-tndnhlrn|Tanadan Helaruni]] was opened without a mark and its ambergris is gone, and its owner tells the board the locksmith kept a key. Attar sold in Besikar under the seals of Milazun's still-houses has been found cut with cheaper oil, and the Warden of the Seals, [Meraza Latari]{.name data-type="being/npc"}, has been brought a flask whose seal matches no mark in her drawers.
+
 ## Where a Party Lodges
 
 Shamular has two inns on the quay, both clean and both full in the harvest, when buyers come from every island. Outside the harvest a party can take rooms above a honey merchant's or a rose-water seller's shop, where the hosts feed their guests on bread, cheese and candied fruit and charge by the week. The guild families' houses on the hills above the town take only guests who come with a letter.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The debts of a shop.** Someone has bought up Kadumuya Kubasuni's late debts, her suppliers' notes and her unpaid guild dues, and has not yet presented them. She has heard of it from a supplier who was paid in full by a stranger, and she wants a party to learn who now holds her shop's debts before they are called.
 - **The lock that opened.** A strongbox with one of Tanadan Helaruni's locks was opened in the night without a mark on the lock, and the ambergris in it is gone. The owner has told the board that the locksmith must have kept a key, and Tanadan wants his name cleared.

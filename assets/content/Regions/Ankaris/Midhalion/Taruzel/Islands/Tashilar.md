@@ -51,6 +51,15 @@ Bazunel's reputation as a refuge reaches the hill villages too. A stranger who k
 
 A cartographer of the Academy of the Tides has spent three summers sounding the channels between the islands from a hired fishing boat, and this winter she finished her chart. Before it had been copied, it was stolen from her rooms in Bazunel. She says it is a chart of the channels for merchant captains, more accurate than any in use, and that its theft is a matter for the city. Three parties have since asked after it in Bazunel's harbor taverns: a factor of the [[affiliation-corsairleg|Corsair League]], a broker known to deal for the [[affiliation-mrchntryvl|Merchantry of the Veil]], and a quiet Helionite merchant who pays in Vylarian coin. The cartographer offers a party her fee for the next survey to get the chart back before any of them does.
 
+## Current Situation {#present}
+
+Tashilar's quarrel is a chart. A cartographer of the Academy of the Tides spent three summers sounding the channels and finished her chart this winter, and it was stolen from her rooms in [[place-bazunel2|Bazunel]] before it could be copied. A factor of the [[affiliation-corsairleg|Corsair League]], a broker of the [[affiliation-mrchntryvl|Merchantry of the Veil]] and a Helionite merchant who pays in Vylarian coin have all asked after it in the harbor taverns. The island's villages stay slow to remember the faces of strangers, and the hunters of other cities' debtors find them so. In Bazunel [[being-brshrskn|Abarash Rusakuni]] waits on the League for his house's fees and wants the Design Yards free of it.
+
+## Hooks {#hooks}
+
+- **The chart.** The cartographer offers a party her fee for the next survey to get the chart back before any of its three buyers does.
+- **The hunter.** A debt-hunter from Besikar asks a party to walk the ridge road with him and find a man he says is living in a hill village under another name, and the villages on the road are slow to remember faces.
+
 ## See Also
 
 [[place-taruzelrgn|Taruzel Region]]

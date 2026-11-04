@@ -65,6 +65,19 @@ Nine members sit on the board, elected every four years by the licensed houses o
 
 The board licenses the perfumers, the attar sellers and the honey merchants of the square, sets the dues at the quay by the flask and the jar, and keeps the town's register. It answers to [[affiliation-yamuzel|Yamuzel]] for the city-state's dues and sends them across to Khamisar twice a year. Through its Warden of the Seals it keeps an impression of every still-house's seal on the island, and the board's ruling on a broken or false seal is the ruling every buyer in the islands accepts: a seal-breaker it finds is put out of the town and struck from its register.
 
+## Current Situation {#present}
+
+The board's quarrels are about seals and a seat. Someone has bought up the late debts of [[being-kdmyqbsn|Kadumuya Kubasuni]], whose license carries the perfumers' unelected seat, and has not yet presented them. A strongbox locked by [[being-tndnhlrn|Tanadan Helaruni]] was opened in the night without a mark on the lock, and its owner has told the board the locksmith must have kept a key. Attar sold in Besikar under a still-house's seal has been found cut, and a flask has been brought to [Meraza Latari]{.name data-type="being/npc"} whose seal matches no mark in her drawers.
+
+## History {#history}
+
+The board has governed Shamular's scent trade from the guild hall on the square for as long as the still-houses of Milazun have sealed their flasks. Its seats are held by the guild families of the town's trades, and the oldest perfumer's license on the square has carried a seat without election. Lamiran Dammuni's house has lent to the still-houses against the harvest for three generations, and Tanadan Helaruni has made the town's strongbox locks for twenty years.
+
+## Hooks {#hooks}
+
+- **The lock.** [[being-tndnhlrn|Tanadan Helaruni]] wants his name cleared before the board rules on the opened strongbox.
+- **The unmatched seal.** The Warden of the Seals wants a party to learn where the flask with the unknown seal was bought, before the buyer from Besikar tells the other perfumers of the city.
+
 ## See Also
 
 [[place-shamular|Shamular]]

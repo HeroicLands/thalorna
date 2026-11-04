@@ -75,11 +75,13 @@ The convoy is how most of the coast meets the house. A merchantman bound out of 
 
 The admiral is a big, gray, cheerful man of fifty-seven who commanded the house's squadron at the Shoals and wears no mark of it but a scar through one eyebrow. He sits on the [Admiral's Council]{.name data-type="affiliation/governmental"} that governs Yamuzel and in the councils of the League. He pays for a table at the [[lore-fleetreview|Fleet Review]] every year and stands drinks in the [Veterans' Quarter]{.name data-type="place/site"}, and some of the veterans drink with him. The others remember that when the League was turned from a brotherhood of the Shoals into a shipping cartel, Delzuru voted with the shipowners, and that the League patrols hunting the outlaw captains include Tanaduni galleys.
 
-## Debt and Appetite
+## Debt and Appetite {#present}
 
 The house's newest galleys were built at Yamuzel's [Naval Yards]{.name data-type="place/site"} to the lines of the [[affiliation-rusakuni|Rusakuni]] of Bazunel, and they were paid for with money borrowed from the [[affiliation-qizikuni|Qizikuni]] of Besikar. The galleys are mortgaged to the Qizikuni, the Confederation is slow to pay the League, and the League is slow to pay the house. A Tanaduni galley is, on paper, a Compact asset with a League crew.
 
 Delzuru means to sail out of that debt on a toll. He is pressing the [[affiliation-grandcouncil|Grand Council]] to grant the League a toll (_sazumush_) on every hull that passes the narrows under the Strait Fortress, collected by League galleys, which in practice means his own. If the Council grants it, every captain in the islands pays the Tanaduni twice: once for a place in the convoy, and once for the water.
+
+The toll is the house's summer business. Delzuru wants it read early in the Grand Council's session, he has been a guest at [[being-dnshkmn|Danashu Kumuni]]'s residence twice this winter, and the foreign masters waiting in the roads have heard of it and mean to fight it. He says openly that he would sooner hire the outlaw captains than hunt them, and the League's patrols that hunt them include Tanaduni galleys all the same. He has hired a mage of the [[affiliation-ordoarcanis|Thordimalon]] to sail with his flagship through the summer, because the League wants the Order's battle-magic, and the Compact wants the contract broken. On [[place-khamisar|Khamisar]]'s south slope veterans of the Quarter are ploughing marked plots leased to an admirals' family of the city, saying the land was promised them, and the Admiral's Council where Delzuru sits has been asked for marines to clear them before the [[lore-fleetreview|Fleet Review]].
 
 ## Meeting the House
 
@@ -90,6 +92,12 @@ A party meets the Tanaduni on the roads, through [Katira Tanaduni]{.name data-ty
 
 Katira also pays a share of the convoy fees, quietly, to old sailors of her father's Shoals squadron who were discharged with a small purse and nothing else. She tells them it is the house's pension. It is not: Delzuru does not know, and the money comes out of the places she sells. If the League learns where it goes, the house will be asked why its convoy master is paying the veterans the League is meant to keep quiet, and Delzuru will have to choose between his daughter and his guild.
 :::
+
+## Hooks {#hooks}
+
+- **The plots.** The Admiral's Council must decide whether its marines clear the ploughed plots on Khamisar's south slope before the Review, and [[being-rzznpddn|Razzina Padduni]] wants witnesses on the terraces when the marines come.
+- **The Review table.** [[being-dlzrtndn|Delzuru Tanaduni]] wants a guest at his Review table who can sit beside the captain of the Tamzir if he comes, and he asks a party with friends in the Veterans' Quarter.
+- **The battle-mage.** The Compact offers a party good money to see that Delzuru's Thordimalon mage misses the sailing.
 
 ## See Also
 

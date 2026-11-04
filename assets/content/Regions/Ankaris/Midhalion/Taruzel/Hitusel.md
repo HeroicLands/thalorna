@@ -38,7 +38,11 @@ The village is governed by the [[affiliation-cnclhtsl|Council of Hitusel]], the 
 
 Hitusel has no watch. A theft from a boat or a house is taken to the council, and in a village of 2,000 the council usually knows the thief before the theft is reported. The usual sentence is restitution and a fine to the council, and a man who steals twice is put out of the village and goes to look for work in Sazumun.
 
-## Hooks
+## The Failing or the Quarrel {#present}
+
+Hitusel's pits are failing with their master. [[being-dpmnjkdn|Dapuman Jakuduni]]'s hands and back are going, he has no son and no apprentice, and the Sazumun buyers who ride up for his hides fear the old way of tanning will end with him. The council's quarrel is the reef. A boat from Sazumun went out round it at night with no Hitusel man aboard and came back whole, so somebody in the village has shown the channel to strangers. The fishermen want the seller found, and [Tasiran Zattuni]{.name data-type="being/npc"}, First of the Council for the fourth spring, will have to judge a neighbor.
+
+## Hooks {#hooks}
 
 - **The apprentice.** Dapuman Jakuduni has no son and no apprentice, and the Sazumun buyers fear his pits will close with him. One of them offers a party the price of a good horse to find a young hideworker in the city willing to go to Hitusel and learn the old way.
 - **The stranger's boat.** A boat from Sazumun went out round the reef at night without a Hitusel man aboard and came back without striking it. The fishermen want to know who in the village sold the channel.

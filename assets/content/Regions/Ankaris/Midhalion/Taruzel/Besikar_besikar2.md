@@ -28,6 +28,10 @@ From the water a newcomer sees three things before any other. The first is the m
 
 A traveler who comes overland arrives by the pass road from [[place-pashinar|Pashinar]], four days for a mule train, and enters the city through its outskirts: walled gardens, cisterns, rope-walks and the newest tenements, built on the slopes where the old city has run out of room. The caravan inns at the head of the road are the first place in Besikar where a stranger is asked his business. The second is the customs.
 
+## Politics {#present}
+
+Besikar is waiting for the Grand Council's summer session, and its quarrels are lining up for it. [[being-dnshkmn|Danashu Kumuni]] keeps the Arch-Consul's residence beside the Hall and the most generous table it has seen, and every house that wants a measure read early dines at it or sends a clerk. [[being-trmnqzkn|Tirmana Qizikuni]] wants the audit of the [[affiliation-merazuni|Merazuni]]'s strongroom, under [[being-yshdyjkdn|Yushuduya Jakuduni]]'s keeping in the Vezakar, and talks among the houses of council seats that pass from head to heir. The Compact's calls on the old city's shopkeepers and fishermen come sooner and dearer this season, and the veterans' halls fill. [[being-zlmrzzn|Zilmar Ezzinu]], elder of a waterfront hall, preaches patience there and carries the veterans' petition to the residence before every session. In the dock below the naval yards the veterans sit up with the [[place-tamzirmonument|Tamzir Monument]] at night, saying someone means to burn her, and the Compact's petition to break her up has been placed early on the Council of Elders' order for the first time.
+
 ## The Guild Quarter
 
 The Guild Quarter is a canyon of marble, five streets deep, where fortunes are made and lost over a single shipment of eastern spice. Its warehouses stand on the quays with their counting houses above them, and behind them the palaces of the great houses climb in terraces to the street of the guild halls. The [[affiliation-qizikuni|Qizikuni]], the heaviest banking house of the city, keep their bronze doors open there from first light to the evening gun, and a captain who walks in is handed a cup of coffee before he is asked what he wants. The heir of the house, [Zarutan Qizikuni]{.name data-type="being/npc"}, runs the underwriting desk on the quay below.
@@ -62,7 +66,13 @@ Order on the quays belongs to the Harbormaster, whose men carry staves, keep the
 
 The sailors' inns of the southern arm are cheap, loud and honest about it, and their hosts change foreign coin at a poor rate. The caravan inns at the head of the pass road are cleaner and quieter, and their stables are good. A party with a letter to a house of the Guild Quarter lodges in that house's guest rooms above the counting house, eats at its table and finds its own business known on the quay by morning.
 
-## Hooks
+## History {#history}
+
+Under the empire Besikar was the seat of the province's rule and the counting-house of its eastern trade. The _therkos_ kept his palace on the quay, the imperial collectors read the tariffs at the lectern of the customs-house at the head of the merchant quays, and the city's merchant princes met in their compact-house behind. When the merchant princes paid for the war of 707, Besikar was besieged by the legions, and the city was freed only when the island garrisons fell after the victory at the Tamzir Shoals in 708 ([[lore-taruzelwar|The Taruzelian War of Independence]]). One of the warships taken there was towed in and docked below the naval yards as the Monument.
+
+Independence put new masters in the old buildings. The Auric Compact took the _therkos_'s palace, the Grand Council took the customs-house and cut the empire's device from its pediment, and the Vezakuni rebuilt the old compact-house as the Vezakar, with the Merazuni's strongroom under its floor. In the Confederation's second year the Council of Elders closed the Roll, so that only the properties entered then carry a vote. In the hard years since the peace the veterans' halls of the old city have become the places where it settles its own quarrels, and the tax riots of the dock districts have started in them.
+
+## Hooks {#hooks}
 
 - **A vote for sale.** A tenement block in the old city, crowded to the roof with dock workers' families, is entered in the Roll, and its owner has died without an heir. Three buyers want it, none of them for the rents, and the Chancellor's clerk who will record the sale wants a party to learn who stands behind each one.
 - **The night watch.** Veterans have begun sitting up in the [[place-tamzirmonument|Tamzir Monument]]'s dock at night with lanterns and boat-hooks, saying someone means to burn her. The Harbormaster wants them gone before the sailing season brings the Vylarian hulls in.

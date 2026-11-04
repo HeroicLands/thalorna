@@ -30,6 +30,19 @@ Between sessions the hall is shut and its floor swept once a week. The Clerk's r
 
 The porters of the quay say that the hall's floor still remembers the tariffs: the clerks' paths are worn deepest in front of the old Vylarian collectors' desks, and a councilor who walks them to his bench is walking where the taxes of the empire were counted. The veterans who come to hear their petition read on the last afternoon of every session repeat a harder telling, that the councilors of the first session cut the empire's device off the pediment with their own hands and then sat down inside to count in the same way.
 
+## The Present {#present}
+
+The Hall is shut until the summer session, and the Clerk's rooms are the busiest they have been in years. Petitions lie in their chests by the dozen, and the one the Hall's porters talk about is the veterans', which [[being-zlmrzzn|Zilmar Ezzinu]] brings to the residence before every session and which has been read on the last afternoon of every one. [[being-dnshkmn|Danashu Kumuni]]'s kitchen is feeding councilors already, and every house that wants a measure read early has sent someone to his table: [[being-dlzrtndn|Delzuru Tanaduni]] in person for the League's toll, and a clerk of [[being-trmnqzkn|Tirmana Qizikuni]]'s for the audit of the treasury.
+
+## History {#history}
+
+The Hall was the imperial customs-house of Besikar, where the empire's collectors read out the tariffs at the lectern and the merchants queued at the rail to pay their dues. The Grand Council took it for its seat after independence, and the device of the empire was chiselled off the pediment. Since then the Council has sat on the customs floor twice a year, the Reckoner of the Weight has read the cities' weights from the lectern at every opening, and the house beside it has been the residence of each year's Arch-Consul.
+
+## Hooks {#hooks}
+
+- **The last afternoon.** [[being-zlmrzzn|Zilmar Ezzinu]] wants a party at the rail for the whole session, to count how many councilors are still on their benches when the petition is read.
+- **The copyist's fee.** A freeman who paid the copyist's fee for his petition has been given a number and nothing since, and he wants a party to learn whether [[being-dnshkmn|Danashu Kumuni]] has ever seen it.
+
 ## See Also
 
 [[affiliation-grandcouncil|Grand Council]]

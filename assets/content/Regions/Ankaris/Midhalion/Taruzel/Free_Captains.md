@@ -86,6 +86,19 @@ The Free Captains borrow, as every Taruzelian captain does. Their lender is [Yaz
 
 A party aboard a merchantman taken by a Free Captain is asked whose cargo it is, and the answer decides the rest of the day. A party with something to carry that the guilds would stop is told, in any veterans' hall, which cove to wait in and which night to show two lanterns. A party with a grievance against the Compact can find a Free Captain willing to listen, for a price, and a Free Captain who offers a fair price for a manifest the League would kill to keep is offering the party a share of a war.
 
+## The Present {#present}
+
+The Free Captains are closer to the halls ashore this year than at any time since the outlawing, and the halls are talking of a rising. The captains would be on the water for it, and they have no more chosen a leader for it than the halls have. They count [[being-zbzmjkdn|Zabuzum Jakuduni]] one of theirs, and he still declines the honor. The [[affiliation-hitusuni|Hitusuni]] still hold the war's prize cargoes against the receipts that [[being-nzzntrshn|Nazzuna Tarshuni]] carries on her own hull. The League's sweeps of the outer channels go on, and the warnings that used to come before them have stopped coming.
+
+## Hooks {#hooks}
+
+- **The letter ashore.** [[being-nzzntrshn|Nazzuna Tarshuni]] takes a Compact merchantman with a party aboard, and offers it passage to any cove it likes in exchange for carrying a letter to a veterans' hall in Yamuzel.
+- **The silent fishing boat.** The fishing boat that warns the coves before a League sweep has not come this season. Nazzuna wants to know what its crew has told the marines at Yamuzel.
+
+:::secret {title="What the Captains are offered"}
+The Free Captains mean to be on the water when the halls rise at the [[lore-fleetreview|Fleet Review]], and Nazzuna means to read the rebels' original promise of prize money to the coast that day, from the narrows. Their coves have been receiving crossbows and Vylarian silver out of a [[affiliation-hitusuni|Hitusuni]] warehouse, paid for by an agent of the [[affiliation-vylarinmpr|Vylarian Empire]], and [[being-ashurazhitus|Ashuraz Hitusuni]] has sold three of those deliveries' dates to the Compact. [[being-dlzrtndn|Delzuru Tanaduni]] has offered, through a League captain, to ask the Council to lift the outlawry of any captain who takes Tanaduni service if it grants his toll, and Nazzuna has not answered or told the other captains.
+:::
+
 # The Truth of the Free Captains {#truth .secret}
 
 **The ledger is a warrant.** Yazila Ilammuni's ledger is her husband's, and it begins in the war. Among its first pages is a copy, under the seal of the rebels' council, of the promise that council made the flotilla's captains: the prize money of every imperial ship and cargo taken in the war, to be paid by the Confederation once it stood. Six warships were taken at the Shoals alone. Nothing was ever paid, and the councilors who sealed the promise sit in the Grand Council now. The Compact has learned that a copy exists and has not learned where it is, and its enforcers have begun to call on factors in Pashinar.

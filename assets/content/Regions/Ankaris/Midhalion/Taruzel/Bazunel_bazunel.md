@@ -69,6 +69,10 @@ When the guilds of another Taruzelian city close their doors on someone—an art
 
 A council of merchant-princes governs Bazunel, as it governs every Taruzelian city, but here the council is more balanced. The [[affiliation-auricompct|Auric Compact]] and the other great guilds keep agents in the city; the craftsmen's guilds, the academies and the old noble families hold real seats beside them. A master shipwright or an academy's head can carry a vote in Bazunel that would carry nothing in [[affiliation-besikar|Besikar]], and that balance is what makes the city a haven.
 
+## Current Situation {#present}
+
+Bazunel's refuge is under pressure from both sides of the coast's quarrel. The guilds of other cities send agents with warrants the council's magistrates refuse to hear, and debtors with a grievance keep arriving on the ships. [[being-brshrskn|Abarash Rusakuni]], who sits for the shipwrights, wants the [[affiliation-vezakuni|Vezakuni]] to charter the [[place-designyards|Design Yards]] as a trade of their own, free of the [[affiliation-corsairleg|Corsair League]], which owes his house years of fees. [[being-trmnqzkn|Tirmana Qizikuni]]'s talk of council seats that pass from head to heir threatens the balance that makes the city a haven, because a hereditary seat for a house would end the craftsmen's and the academies' vote. On the magistrates' bench [[being-tarrukeshkar|Tarruk Eshkarum]] says that the healer-priest [[being-ytlshpshtm|Yutalush Pushutum]] refuses to take a side, and the city argues over whether it can afford to take none. The Academy of the Tides has lost a cartographer's chart of the channels to a thief, and three buyers are asking after it in the harbor taverns.
+
 ## Craft and Learning
 
 Bazunel is smaller and less wealthy than Besikar, less martial than [[affiliation-yamuzel|Yamuzel]] and less cosmopolitan than [[affiliation-qudumel|Kudumel]], and it makes up the difference in creative energy. Its shipwright tradition is famous across the coast. Bazuneli ship-designers are counted artists as much as engineers, a hull designed here is recognizable by its elegant lines and inventive rigging, and the shipwright guilds work more like artists' studios than industrial workshops.
@@ -78,6 +82,15 @@ The city's academies are modest beside those of [[place-helionis|Helionis]] or t
 ## Commerce and Currency
 
 Bazunel's studios and yards are paid in the [[lore-trzlncrncy|Taruzelian currency]], the Confederation's own system under the [[affiliation-merazuni|Merazuni]] of the [[affiliation-vezakuni|Vezakuni]]. It uses the Vylarian denominations (Solden, Ardin and Bit), but Taruzelian reserves back it rather than the Vylarian reserves of [[affiliation-tarmex|the Tarmeks Orzan]], and its Solden is slightly underweight by the Vylarian standard. Merazuni-affiliated moneylenders do the city's banking. Neither side's script crosses the border: Vylarian paper is not honored here, and Taruzelian paper is not honored in Vylarian territory.
+
+## History {#history}
+
+Bazunel was one of the cities whose trading families grew rich as the empire's intermediaries in the east, and its old families held their seats on its council before the guilds came to the city. Its council sets the houses beside the crafts, the academies and the old families. Its yards draw the lines of every new League galley, and its council has made refuge a matter of law: a stranger who asks to stay is enrolled as a Resident, and no other city's guild warrant is heard in its courts.
+
+## Hooks {#hooks}
+
+- **The warrant.** An agent of a Besikar guild hires a party to bring a copyist out of Zatturel to a ship outside the harbor, because the magistrates will not hear his warrant. The copyist goes for help to [[being-ytlshpshtm|Yutalush Pushutum]]'s clinic.
+- **The sealed answer.** [[being-brshrskn|Abarash Rusakuni]] asks a party to carry his answer on the hereditary seats to Besikar unopened.
 
 ## See Also
 

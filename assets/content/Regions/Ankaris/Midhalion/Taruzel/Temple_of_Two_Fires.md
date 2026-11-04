@@ -50,7 +50,11 @@ On the first morning after the [[lore-thunderheadvigil|Thunderhead Vigil]] the S
 
 Kudumel says that the fire-house is older than the city and that the city was built round it. The Vylarian governors' reasons for rebuilding are told two ways. The Aureldian college says the old temple was falling and the empire saved it. The fire-keepers say the empire wanted its own gods inside the city's oldest house, and that the hall was built on the side facing the harbor so that the empire's ships would see it first.
 
-## Hooks
+## Current Situation {#present}
+
+The temple is being asked about its fire from both sides of the strait. An envoy of the Great Fire-Temple of Amradad has crossed to read the record of the fire-lineage, the first such visit anyone at the temple remembers, and the Shekhul, Sharimush Qatuni, wants to know who sent for him. The [[affiliation-ordoarcanis|Thordimalon]]'s chapter, which has twice asked Kudumel's council to register the temple's Flame-Readers, now asks for one Roqeshekh by name, and she has stopped reading. The guilds of the coast are divided over the Order: the Compact would expel it as Vylaria's instrument, the Merchantry hires its mages, and the League wants its battle-magic, and Kudumel's council has kept the petition off its order.
+
+## Hooks {#hooks}
 
 - **The envoy.** An envoy of the Great Fire-Temple of Amradad has crossed the strait and asked to see the record of the fire-lineage, the first such visit anyone at the temple remembers. The Shekhul wants to know who sent for him, and why now.
 - **The reader who stopped.** A Roqeshekh of nineteen, [Temada Bissi]{.name data-type="being/npc"}, whose readings in the altar fire came true three times this season, has stopped reading, and the Thordimalon's chapter has asked for her by name.

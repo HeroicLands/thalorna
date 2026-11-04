@@ -38,7 +38,15 @@ The caravan masters of Pashinar call Ralumar a bandits' town and keep clear of i
 - **Factors of the great houses**, who come up in pairs with mules and offer to buy the stones for their beauty, to set in a Besikar garden.
 - **Travelers on the pass road**, caught by weather, who are let in for the water and the shelter of a roofed corner at the Qazishuni's price.
 
-## Hooks
+## Layers {#history}
+
+The wall and the houses are older than the conquest, and nobody has lived in them since. The hill tellings say the coast's cities swore their bargains to one another here, one great house for each, and the coast's scribes call it a compact-house of the merchant princes' centuries before the empire. In living memory it has been the [[affiliation-qazishuni|Qazishuni]]'s winter fold, and the Council of the Hills' place of sitting.
+
+## What Is There Now {#present}
+
+Ralumar is wanted for its stones. The [[affiliation-vezakuni|Vezakuni]]'s copyists want the lintels copied for the Recovered Compacts and have not paid the price the Council of the Hills named. Factors of the great houses come up the hill in pairs with mules and offer to buy the stones for a Besikar garden, and the cracked half of the fifth lintel lies face down in its doorway where any of them could see it. The Keeper of the Doors turns away whoever comes without leave, and [Qatush Qazishuni]{.name data-type="being/npc"}, the Lawspeaker, speaks the law of the hills at every sitting in the court below the lintels.
+
+## Hooks {#hooks}
 
 - A Vezakuni copyist hires a party to get him through Ralumar's gate with paper and charcoal for one day, and offers a bonus for every lintel he can copy.
 - A Besikar factor offers a party a good price to bring one cut stone down to Pashinar by night, and says that the cracked half in the doorway will do.

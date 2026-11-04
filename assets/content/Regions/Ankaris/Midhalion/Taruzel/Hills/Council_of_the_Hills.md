@@ -87,6 +87,15 @@ The three tribes are the council, and no tribe takes a quarrel with another anyw
 
 The council takes no tax and keeps no treasury. Its prices are paid to the tribe that keeps the well or the ground, in silver weighed on the tribe's scales or in goats. The hills take the coast's [[lore-trzlncrncy|Taruzelian Currency]] by weight and not by face, and refuse the Confederation's paper script entirely.
 
+## What It Is Fighting About {#present}
+
+The council's quarrel is with the coast, and the coast will not come to it. The Saliruni's elders raise the [[affiliation-balinuni|Balinuni]] debt at every sitting, and the tribes' councilors at Kudumel have stopped asking the house for it. The Grand Council at Besikar, where [[being-dnshkmn|Danashu Kumuni]] of Kudumel sets the order of business this year, is the one body on the coast that could make the house pay. A gate the hills did not build hangs on Qalirel's pass road in their name. The [[affiliation-vezakuni|Vezakuni]] have not paid the price the council named for copying Ralumar's lintels, and the factors of the great houses come up to the Doors in pairs to offer for the stones.
+
+## Hooks {#hooks}
+
+- **The message to the coast.** The Keeper of the Doors asks a party that has been let into Ralumar to carry the council's word to the coast and speak it once, to [[being-dnshkmn|Danashu Kumuni]].
+- **The grievance.** The tribes' councilors at Kudumel want the hills' grievance against the Balinuni read in the Grand Council, and ask a party with standing in Besikar to find them a councilor who will sponsor it.
+
 ## See Also
 
 [[place-tulurel|Tulurel]]

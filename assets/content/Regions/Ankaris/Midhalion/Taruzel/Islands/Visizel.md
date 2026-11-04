@@ -55,6 +55,15 @@ The coast road north to Hitusel is easier going, through sandy country of fishin
 
 Three ships have stuck on the Alz bar since the spring, every one of them a foreign merchantman crossing on the flood tide by the marked channel with a Sazumun harbor pilot aboard. Each pilot swore the ship struck where no sand was before. The harbor guild has fined the pilots, charged the ships for their salvage and towage, and insists the marked channel is sound, and the guild's own ships cross the bar every day without trouble. A foreign captain who lost a cargo on the bar, and who believes the pilot was bought, offers a party half of whatever it recovers if it can prove the harbor guild is lying.
 
+## Current Situation {#present}
+
+Visizel's guilds and woods are both under strain. Three foreign merchantmen have stuck on the Alz bar since spring with Sazumun's harbor pilots aboard, the harbor guild has fined the pilots and charged the ships for salvage, and the guild's own ships cross every day without trouble. In the Alz woods the timberwright [[being-zttyblnn|Zattuya Balinuni]] has been asked to mark next winter's whole cut of keel timber for a single buyer, to the lengths of the League's galleys, and she has found the best oak she has seen in years in a stand on the [[affiliation-haduruni|Haduruni]] side of the boundary. Sazumun's charters to the timberwrights say nothing about the tribe. In [[place-hitusel|Hitusel]], [[being-dpmnjkdn|Dapuman Jakuduni]]'s pits have no one to inherit them.
+
+## Hooks {#hooks}
+
+- **The bar.** A foreign captain who lost a cargo on the bar offers a party half of whatever it recovers if it can prove the harbor guild is lying.
+- **The oak above the line.** [[being-zttyblnn|Zattuya Balinuni]] wants a party to go up to the Haduruni's stone heap with her and bargain for the stand she has found.
+
 ## See Also
 
 [[place-taruzelrgn|Taruzel Region]]

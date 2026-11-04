@@ -52,11 +52,15 @@ The town is governed by its [[affiliation-gldbrdpshnr|Guild Board]], the guild o
 
 Order in Pashinar is mostly credit. A merchant robbed in a caravanserai goes first to its keeper, who is answerable to the board for what happens under his roof and pays for a theft he cannot recover. A quarrel over a bargain goes to the weigh-house, where the Warden's measurers weigh the goods again and say who was short. The board keeps a small watch of hired men at the quay and the gate, and leaves the streets between to the caravanserai keepers, who keep their own porters with staves.
 
+## The Present {#present}
+
+Pashinar is losing its trade one debt at a time. The [[affiliation-balinuni|Balinuni]] of Kudumel, who want every caravan on the strait landing at the Caravan Gate, have bought the debts of the town's factors through the [[affiliation-auricompct|Auric Compact]] and call them in one at a time, each with a month to pay, and one factor whose note was called has fled across the strait with his ledger. Caravan masters coming down from the pass complain of a new toll-gate on the road to Besikar, kept by men who say they hold it for the hills. On the ferry quay this spring the Warden of the Weights read a Dunhari caravan master's name on the Forgetting, and the master swears he broke no bargain. Above the ferry quays [Yazila Ilammuni]{.name data-type="being/npc"} keeps her counting-room and lends to the [[affiliation-freecaptains|Free Captains]] against their next takings.
+
 ## Where a Party Lodges
 
 A party that comes with a caravan lodges in its caravanserai, sleeps on the gallery above its animals and eats at the common fire. The caravanserais by the quay are noisy and cheap, and those by the western gate are quieter and kept for trains about to go over the pass. A party with a letter to a factor's house lodges in the guest rooms off its courtyard, eats at its table among the caravan masters, and is expected to be a guest worth having.
 
-## Hooks
+## Hooks {#hooks}
 
 - **A name on the roll.** A Dunhari caravan master has landed to find his name read on the Forgetting, and he swears he broke no bargain in Pashinar or anywhere. He cannot trade, cannot lodge his mules and cannot go home without a cargo, and he offers a party half his freight to find out who swore against him.
 - **The called debt.** The debts of Pashinar's factors are being bought up through the [[affiliation-auricompct|Auric Compact]] and called in one at a time by the [[affiliation-balinuni|Balinuni]] of Kudumel. A factor whose note has been called has a month to pay it, and wants a party to collect what three caravan masters owe him before the month is out.

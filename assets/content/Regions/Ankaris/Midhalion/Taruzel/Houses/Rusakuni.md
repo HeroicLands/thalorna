@@ -73,11 +73,13 @@ The house's masters are also the heart of the [Taruzelian Shipwrights' Guild]{.n
 
 The master designer is a lean, bright-eyed man of sixty-six who wears silk spattered with chalk and paint and has not drawn a line on paper in ten years: he draws on the loft floor, on his knees, with the young draughtsmen. He sits for the shipwrights on the council of Bazunel, where a master shipwright's vote carries real weight, and he is the city's most generous patron of its theaters. He talks about hulls with more warmth than about anything else alive, and about the League as he talks about bad weather.
 
-## Debt and Appetite
+## Debt and Appetite {#present}
 
 The League owes the house its fees on several years of galleys, because the Confederation is slow to pay the League and the League is slower to pay its designers. Abarash has borrowed against what he is owed, and the lender is a broker of the [[affiliation-mrchntryvl|Merchantry of the Veil]] who takes part of the interest in a currency the Merchantry values more than coin: copies of the drawings.
 
 What Abarash wants is to be free of the League. A house bound to the League draws for the League, and the League says who else may build to its lines. He wants a charter of the [[affiliation-vezakuni|Vezakuni]] that makes the Design Yards a trade of their own, so that the house can sell its lines to any yard on the sea that pays: in [[place-helionis|Helionis]], in [[affiliation-empireakhlth|Au'Khelathu]], or anywhere else.
+
+The house wants its fees and its freedom at once. The League offers part of what it owes in League privileges instead of coin, and Abarash wants to know what those are worth before he answers. A yard on the Amradi shore is said to be building a coaster to an old Bazunel line the house sold to nobody there. [[being-trmnqzkn|Tirmana Qizikuni]] is sounding the great houses on council seats that would pass to a house's heir forever, and a hereditary seat on Bazunel's council would end the craftsmen's vote that gives Abarash his own. He has written his answer and sealed it.
 
 ## Meeting the House
 
@@ -88,6 +90,12 @@ A party meets the Rusakuni in the loft or in the theaters below it, through [Lus
 
 When the League's captains learn that a Bizarian yard is building to Rusakuni lines, they will want to know who sold them, and the answer will end the house's bond to the League. A party can be hired by Abarash to recover the drawings before they sail, by the broker to see them safely aboard, or by the League to find out who in Bazunel is selling its galleys. Belgina is the house's other trouble. When the shipwrights' guild leans on Jiraman to recall his daughter from the Tamzir, the masters who do the leaning are Rusakuni.
 :::
+
+## Hooks {#hooks}
+
+- **The sealed answer.** [[being-brshrskn|Abarash Rusakuni]] asks a party to carry his answer to Besikar unopened and bring back what the Qizikuni said when they read it.
+- **The coaster on the Amradi shore.** Abarash pays a party to cross the strait, look at the hull on the slip, and tell him whose drawing it was built from.
+- **The galley's fee.** Abarash hires a party to learn what the League's privileges are worth on the Painted Harbor before he takes them in place of coin.
 
 ## See Also
 

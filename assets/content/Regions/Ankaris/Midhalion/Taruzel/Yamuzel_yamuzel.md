@@ -76,9 +76,22 @@ Yamuzel's population includes a large community of war veterans: sailors and mar
 
 That is why Yamuzel is the city where the captain of [[affiliation-thetamzir|the Tamzir]] has the most connections, and the most enemies.
 
+## Current Situation {#present}
+
+Yamuzel's veterans are nearer open anger than at any time since the outlawing, and the city is preparing for the [[lore-fleetreview|Fleet Review]]. In the halls of the Veterans' Quarter the talk has turned from strikes to a rising, [[being-rzznpddn|Razzina Padduni]]'s hall is where the harbor's veterans gather to talk, and the man they want to lead them is [[being-zbzmjkdn|Zabuzum Jakuduni]], who has not answered. On [[place-khamisar|Khamisar]]'s south slope veterans plough marked plots they say were promised them, on land leased to an admirals' family, and the Admiral's Council has been asked for marines to clear them before the Review. The marines are veterans' sons. On the height, [[being-dlzrtndn|Delzuru Tanaduni]] of the [[affiliation-tanaduni|Tanaduni]] presses the Grand Council for a League toll on every hull through the narrows, and the foreign masters in the roads mean to resist it. The Commander of the Marines has been told to catch the Review's last boat this year.
+
 ## Commerce and Currency
 
 The yards and the fleet are paid in the [[lore-trzlncrncy|Taruzelian currency]], administered through the [[affiliation-merazuni|Merazuni]] of the [[affiliation-vezakuni|Vezakuni]]. It keeps the Vylarian denominations (Solden, Ardin and Bit), backed by Taruzelian reserves rather than the Vylarian reserves of [[affiliation-tarmex|the Tarmeks Orzan]], with a Solden slightly underweight by the Vylarian standard. Merazuni-affiliated moneylenders handle the banking. Vylarian script is not honored in Yamuzel, and Taruzelian script is not honored in Vylarian territory.
+
+## History {#history}
+
+Yamuzel's admirals' families were the empire's sailors before they were the Confederation's, and its yards built the fleet that won the war. The legions' attempt to blockade the city in the war was broken, and in the early summer of 708 the squadrons of its houses, the Tanaduni's among them, sailed with the flotilla into the [[place-tamzirshoals|Tamzir Shoals]] and destroyed the empire's squadron ([[lore-tamzirbattle|The Battle of Tamzir Shoals]]). By the marines' account the Vylarian garrison gave up the Strait Fortress by treaty in the months after, and the first Fleet Review went through the narrows in 709. The veterans of the flotilla settled in the tenements below the height, in what became the Veterans' Quarter, and within two years of independence the shipowners had taken over the Corsair League their captains founded, and the captains who would not accept it had been outlawed ([[lore-taruzelbetrayal|The Betrayal of the Revolution]]).
+
+## Hooks {#hooks}
+
+- **The plots.** [[being-rzznpddn|Razzina Padduni]] wants witnesses on Khamisar's terraces when the marines come to clear the ploughed plots, people with no stake in the quarrel whom the Council will believe.
+- **The toll's votes.** A foreign master in the roads hires a party to learn how the Admiral's Council will vote on [[being-dlzrtndn|Delzuru Tanaduni]]'s toll, and Delzuru learns of the party within the day and invites it to dinner.
 
 ## See Also
 

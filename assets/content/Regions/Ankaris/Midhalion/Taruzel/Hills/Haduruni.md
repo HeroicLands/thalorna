@@ -66,6 +66,15 @@ The Haduruni's living from the coast is timber. The timberwright families of the
 
 The great timber of the island goes down the Alz to the yards of [[place-sazumun2|Sazumun]] and the Naval Yards of [[place-yamuzel2|Yamuzel]]. [[affiliation-sazumun|Sazumun]], whose island Visizel is, grants the timberwrights their charters, and the charters say nothing about the tribe. The timberwright [[being-zttyblnn|Zattuya Balinuni]] has found the best oak she has seen in years in a stand on the Haduruni side of the line, and the shipwrights of Sazumun want it.
 
+## Quarrels and Debts {#present}
+
+The Haduruni's quarrel is with a charter they were never asked about. [[affiliation-sazumun|Sazumun]] grants the timberwrights of the Alz their charters, the charters say nothing of the tribe, and the tribe's mark on every tree felled above the line is the only law the cutting answers to on their side. [[being-zttyblnn|Zattuya Balinuni]] has found the best oak she has seen in years in a stand above the boundary, the shipwrights of Sazumun want it, and she has been asked to mark the whole of next winter's keel cut for a single buyer. The Keeper of the Boundary has not yet come down to the stone heap to hear her price.
+
+## Hooks {#hooks}
+
+- **The stand above the line.** [[being-zttyblnn|Zattuya Balinuni]] asks a party to wait with her at the stone heap with silver, and to speak for her when the Keeper of the Boundary comes down.
+- **The unmarked trunk.** A trunk without the closed square has come down the Alz on the winter flood, and the Haduruni send to the timber camp it came from for twice its price.
+
 ## See Also
 
 [[place-tulurel|Tulurel]]

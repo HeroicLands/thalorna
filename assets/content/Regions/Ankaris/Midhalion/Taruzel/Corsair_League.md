@@ -64,6 +64,18 @@ The League's charter gives its captains broad authority to "protect Taruzelian c
 
 Independent operators such as [[affiliation-thetamzir|the Tamzir]] live in a gray zone. The League wants every Taruzelian-flagged vessel under its umbrella, and captains who refuse meet harassment, port restrictions and the occasional "mistaken" confrontation at sea.
 
+## The Present Quarrel {#present}
+
+The League is divided over the men it was founded with. The Compact wants the outlaw captains crushed and pays bounties for them, the League's patrols hunt them, and the League's own captains warn them before a sweep. [[being-dlzrtndn|Delzuru Tanaduni]] says openly that he would sooner hire them than hunt them. In the halls of Yamuzel the talk has turned from strikes to a rising, and no League captain can be sure which side of it his crew would row for.
+
+Delzuru wants the Council to grant the League a toll on every hull that passes the narrows, collected by League galleys, and the foreign masters in the roads mean to resist it. The League's privileges are on the order of the summer session as always, and this year's [[lore-fleetreview|Fleet Review]] count is the League's argument for the toll as well as the charter. Delzuru has hired a mage of the [[affiliation-ordoarcanis|Thordimalon]] to sail with his flagship, because the League wants the Order's battle-magic where the Compact wants the Order gone. The League still owes the [[affiliation-rusakuni|Rusakuni]] their fees on years of galleys, and it would like [[being-zbzmjkdn|Zabuzum Jakuduni]] and the Tamzir under its flag before anyone else has him.
+
+## Hooks {#hooks}
+
+- **The sweep.** A League captain who sailed in the flotilla has stopped sending his warnings to the coves, and his fishing-boat crew is in the marines' lockup at Yamuzel. [[being-nzzntrshn|Nazzuna Tarshuni]] wants to know what the crew has said.
+- **The count.** [[being-dlzrtndn|Delzuru Tanaduni]] needs the League's oars at the Review to come to a number the Council will remember, and a councilor of Besikar hires a party to count the galleys in the roads the night before.
+- **The mage's contract.** The Compact pays a party to see that Delzuru's Thordimalon mage misses the sailing, and the League pays better to see that he does not.
+
 ## See Also
 
 [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]

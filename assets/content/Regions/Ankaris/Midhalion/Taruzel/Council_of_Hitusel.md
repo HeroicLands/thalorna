@@ -55,6 +55,19 @@ Every household that owns a boat or a pit has a seat, and about forty householde
 
 The council allots the beach and the drying racks, settles quarrels over nets, catch and the price of a share in a boat, and judges thefts in the village. It sells Hitusel's fish and leather to the Sazumun buyers at prices it agrees once a year, and pays the city-state's tax collectors from its chest for the whole village, so that no collector deals with a household alone. The council's sentence is restitution and a fine. For a second offense it puts a man out of the village.
 
+## Current Situation {#present}
+
+The council has two worries this spring, and both are about what the village alone can do. [[being-dpmnjkdn|Dapuman Jakuduni]], who sits for the pits, is failing, with no son and no apprentice, and the Sazumun buyers who pay the council's agreed price for his hides fear the pits will close with him. And a boat from Sazumun has gone round the reef at night without a Hitusel man aboard and come back whole, so someone in the village has shown the channel that the Keeper of the Strand marks for the village alone. [Tasiran Zattuni]{.name data-type="being/npc"} must find the seller among forty households who all know each other.
+
+## History {#history}
+
+The households that own the boats and the pits have sat together on the southern cove to govern the beach for longer than anyone counts, and the council has paid the city-state's tax collectors from its own chest for the whole village, so that no collector deals with a household alone. Dapuman Jakuduni's father worked the pits before him. The council has chosen Tasiran Zattuni, whose family owns the most boats, as its First four springs running.
+
+## Hooks {#hooks}
+
+- **The apprentice.** A Sazumun buyer offers a party the price of a good horse to find a young hideworker willing to go to Hitusel and learn the old way from [[being-dpmnjkdn|Dapuman Jakuduni]].
+- **The channel sold.** The council wants to know who in the village showed a Sazumun boat the way round the reef, and will pay a stranger to ask the questions a neighbor cannot.
+
 ## See Also
 
 [[place-hitusel|Hitusel]]

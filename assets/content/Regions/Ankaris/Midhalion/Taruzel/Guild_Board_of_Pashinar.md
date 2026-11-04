@@ -67,6 +67,19 @@ Seven members sit on the board, chosen every two years by the town's licensed fa
 
 The board takes the landing dues on every bale the weigh-house seals, licenses the factors and the caravanserais, and pays the hired watch at the quay and the western gate. Through its Warden it keeps the weigh-house, where every cargo landed from the strait is weighed, tested and sealed with a lead tag, and [the Forgetting]{.name data-type="lore"}, the book of names the caravan trade will not deal with for seven years. A name goes onto the Forgetting on the oaths of two witnesses before the Warden. It comes off only when its seven years are out, or when the board itself strikes it, which it has done twice in Rasunum's thirty years.
 
+## Current Situation {#present}
+
+The board is watching its town's trade being bought out from under it. The [[affiliation-balinuni|Balinuni]] of Kudumel have bought the debts of Pashinar's factors through the Auric Compact and call them in one at a time. A new toll-gate on the pass road above the town sends caravans back to the quay to hire hulls. A Dunhari caravan master read on the Forgetting this spring swears he broke no bargain anywhere. [Qazima Zazuruni]{.name data-type="being/npc"}, First of the Board, holds the largest warehouses on the quay, and [[being-rsnmgttn|Rasunum Gatituni]] keeps the board's books as he has for thirty years.
+
+## History {#history}
+
+Pashinar stands at the foot of the old military road the legions cut over Qalirel's pass, which the Confederation does not keep, and the board has kept the town's trade at the head of it. Its Warden has kept the Forgetting as the caravan trade's book of broken bargains, and in Rasunum Gatituni's thirty years as clerk, under four Wardens, the board has struck a name from it before its seven years were out only twice.
+
+## Hooks {#hooks}
+
+- **The disputed name.** A Dunhari caravan master read on the Forgetting offers a party half his freight to learn who swore against him, and [[being-rsnmgttn|Rasunum Gatituni]] entered the name in his own hand.
+- **The called notes.** A factor of the board whose note [[being-llmnblnn|Ellamuna Balinuni]]'s house has called hires a party to collect what three caravan masters owe him before the month is out.
+
 ## See Also
 
 [[place-pashinar|Pashinar]]

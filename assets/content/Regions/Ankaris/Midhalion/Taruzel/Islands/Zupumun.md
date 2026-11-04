@@ -39,6 +39,15 @@ The channels are also full of places to hide. Coves under cliffs, inlets behind 
 
 The channel between Nishurel and the north-eastern cape of Qalirel is ten miles wide and deep, and every pilot calls it safe, but this year two ships have been lost on the rocks off Qalirel's north cape on clear, calm nights. The survivors of the second said they steered for a lantern they took for the light of a fishing harbor, and struck before they reached it. By the time the Besikar house that holds the salvage rights on that shore sent its men down, the fishermen of the cape had stripped both wrecks. A shipowner who lost a hull and its cargo offers a party a share of anything it recovers to find out who shows the lantern.
 
+## Converging Interests {#present}
+
+Every party on the coast wants a hand on the water this year. [[being-dlzrtndn|Delzuru Tanaduni]] wants the Grand Council to grant the [[affiliation-corsairleg|Corsair League]] a toll on every hull through the narrows, collected by League galleys, and the foreign masters who wait in the roads for a convoy mean to resist it. The League's patrols sweep the channels for the outlaw captains, and the coves hide them as they always have. Two ships have been lost on the rocks off Qalirel's north cape on clear nights this year, steering for a lantern, and the Besikar house that holds the salvage rights on that shore found both wrecks stripped. On Nishurel's north beaches, where no ferry lands, herders find the tracks of laden camels coming up off the sand, and the Caravan Gate's takings are down.
+
+## Hooks {#hooks}
+
+- **The lantern.** A shipowner who lost a hull off the north cape offers a party a share of anything it recovers to find out who shows the lantern.
+- **The toll.** A foreign master in the roads below the Strait Fortress hires a party to learn how many votes [[being-dlzrtndn|Delzuru Tanaduni]] has for his toll before the summer session.
+
 ## See Also
 
 [[place-taruzelrgn|Taruzel Region]]

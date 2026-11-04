@@ -75,9 +75,11 @@ The house also holds bullion, and lends it. When the merchant princes needed gol
 
 The head of the house is a small, plain-dressed woman of sixty-one who wears no rings, does her own sums and keeps the table at the end of the counting room for herself. She sits for the house among the masters of the Compact and on the council of Besikar, and she is courteous to everyone, including the people she is ruining. She has never lost an argument over a ledger.
 
-## Debt and Appetite
+## Debt and Appetite {#present}
 
 The Qizikuni are owed more than any house in Taruzel, and they are owed it by the Confederation, which pays the interest on the war loan before it pays anything else. What Tirmana wants is the treasury that collects it. The [[affiliation-merazuni|Merazuni]] keeps the Confederation's reserves, strikes its coin and clears its script, and its Kubasum answers to the [[affiliation-vezakuni|Vezakuni]], not to the Compact. Tirmana says in the Compact's councils that a treasury with small reserves should be kept by the people who hold its debt. She is pressing the [[affiliation-grandcouncil|Grand Council]] to order an audit of the Merazuni's strongroom, and she has a candidate of her own for the Kubasum's table.
+
+This season the house is collecting. The Compact's calls on what the cities and harbor towns owe come sooner and dearer, and the Qizikuni hold more of that paper than any other house. Tirmana's audit is on the summer session's order if [[being-dnshkmn|Danashu Kumuni]] gives it a place, and her candidate for the Kubasum's table is a Qizikuni clerk of the treasury's own ledger. She also means to sound the heads of the other four great houses, by sealed letter, on council seats that would pass from a head to an heir, so that the houses which sit in the councils now would sit there for good. Nobody has moved it in any council. She wants the [[affiliation-ordoarcanis|Thordimalon]] out of Besikar as Vylaria's instrument, and a mage of the Order has leased a house in the city through a broker of the Merchantry.
 
 ## Meeting the House
 
@@ -88,6 +90,12 @@ A party meets the Qizikuni through [Zarutan Qizikuni]{.name data-type="being/npc
 
 A marriage merges the debts of two houses, and Katira Tanaduni has asked to read the Qizikuni books before she signs. A party can be hired by Katira to learn what the Qizikuni owe and to whom, by Tirmana to see that the factor's strongbox is empty before the wedding, or by the factor himself to remind the house, quietly, that the notes are still there.
 :::
+
+## Hooks {#hooks}
+
+- **The candidate.** [[being-trmnqzkn|Tirmana Qizikuni]] hires a party to learn which of the Kubasum's keepers would serve under her candidate, and which would have to be bought.
+- **The broadsheet.** A broadsheet pasted on the bronze doors overnight names the Qizikuni as the lender that took the veterans' land. Tirmana wants the printer found and the sheet left up until she knows who reads it.
+- **The answers.** Tirmana sends a party to Yamuzel and Bazunel with her letters on the hereditary seats, and [[being-dlzrtndn|Delzuru Tanaduni]] and [[being-brshrskn|Abarash Rusakuni]] each ask the party what the other said.
 
 ## See Also
 

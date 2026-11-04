@@ -63,6 +63,10 @@ Kudumel's council keeps seats for men who do not live in the city. Representativ
 
 The great guilds keep a presence in Kudumel and exercise less control here than in [[affiliation-besikar|Besikar]]. The local merchants have built networks of their own, and the council that governs the city answers to them and to the tribes as much as to the guilds. Its offices are its own: a First of the Council with the seal, Tribal Councilors named by the hill tribes, a Treasurer over the customs and tolls of the sea trade and of the caravans landed at the [[place-caravangate|Caravan Gate]], and a Warden of the Weights in the markets, all worked by people who expect to deal across a language barrier before noon.
 
+## Current Situation {#present}
+
+Kudumel holds the Confederation's seal this year and feels the weight of it. Its council named [[being-dnshkmn|Danashu Kumuni]], a coffee merchant of the city, Arch-Consul on the votes of the [[affiliation-balinuni|Balinuni]], and every house in the islands now courts him for a place on the summer order. The Balinuni, under [[being-llmnblnn|Ellamuna Balinuni]], call in the debts of [[place-pashinar|Pashinar]]'s factors one at a time to bring the whole strait's caravans to the [[place-caravangate|Caravan Gate]]. The Tribal Councilors, who sit for the hills, have stopped asking the house for the hill-road share it promised the tribes in the war, and the Saliruni guides now refuse to take Balinuni trains over Nishurel. The Gate's takings are down this season while cheap caravan goods sell in the bazaars. The [[affiliation-ordoarcanis|Thordimalon]]'s chapter has twice asked the council to register the Flame-Readers of the [[place-twofirestemple|Temple of Two Fires]], and the council has twice put it off.
+
 ## Who Lives Here
 
 The population is heavily mixed: Taruzelian merchants, Dunhari tribespeople who have settled into city life, Khazryn caravan masters, and members of dozens of smaller peoples who have gathered at this crossroads over the centuries. That mixture makes Kudumel the most cosmopolitan and the most religiously tolerant city in the Confederation, and the only one where the [[affiliation-ashanpnthn|Ashaian Pantheon]] is the dominant faith.
@@ -72,6 +76,15 @@ It is also the city where the [[affiliation-ordoarcanis|Thordimalon]] is weakest
 ## Commerce and Currency
 
 The caravans that unload at Kudumel settle in the [[lore-trzlncrncy|Taruzelian currency]], issued under the [[affiliation-merazuni|Merazuni]] of the [[affiliation-vezakuni|Vezakuni]]. Its Solden, Ardin and Bit follow the Vylarian denominations but rest on Taruzelian reserves rather than on the Vylarian reserves of [[affiliation-tarmex|the Tarmeks Orzan]], and its Solden is slightly underweight by the Vylarian standard. The banking runs through Merazuni-affiliated moneylenders, who honor no Vylarian script and whose own script is honored nowhere in Vylarian territory.
+
+## History {#history}
+
+The fire of Kudumel's oldest temple was burning before the empire came to the islands, and the empire's governors rebuilt the temple and set a hall of the Aureldian Twelve beside the old fire. In the war, while the legions held the coast roads, the Balinuni carried the rebellion's supplies over Nishurel's hill roads with Saliruni guides and escorts, and the house's head promised the tribes a share of the hill-road tolls once the war was won, by clasped hands and never in writing ([[lore-taruzelwar|The Taruzelian War of Independence]]). Kudumel's council keeps seats for the hill tribes, the only council of the Confederation that does, and the house has not paid the share.
+
+## Hooks {#hooks}
+
+- **The Tribal Councilor.** A Tribal Councilor has not come down to the council's session, and his household camps by the west gate without him. [[being-llmnblnn|Ellamuna Balinuni]] wants to know where he has gone.
+- **The Arch-Consul's warehouse.** [[being-dnshkmn|Danashu Kumuni]]'s sons, who keep his warehouse on the market, have been offered a contract too generous to be honest, and their father wants a party to learn who is offering it.
 
 ## See Also
 

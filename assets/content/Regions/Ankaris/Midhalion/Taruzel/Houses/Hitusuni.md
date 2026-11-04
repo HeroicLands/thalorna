@@ -73,11 +73,13 @@ Some cargoes leave the warehouses with their seals unbroken and their tariffs un
 
 The head of the house is a heavy, soft-spoken man of about fifty with a black beard going gray and a habit of asking after the health of everyone's children. He sits for the house in the House of Factors, he is intelligent and well connected, and his dealings are complex enough that no court has made a charge against him stick. A warehouse guard named [[being-pzsnkhdzm|Pazasan Khidizum]] has spent years writing down what leaves the house's doors without a tariff, and Ashuraz has begun answering him the Taruzelian way: with accusations that Pazasan is corrupt.
 
-## Debt and Appetite
+## Debt and Appetite {#present}
 
 During the war the captains of the flotilla stored their prize cargoes in Hitusuni warehouses, under the house's seal, to be sold when the war was won. When the guilds declared the most stubborn of those captains outlaws, the house kept the cargoes, and the seals on them. Some of the outlaw captains who now call themselves the [[affiliation-freecaptains|Free Captains]] still hold the house's receipts, and the house owes them what is written on the receipts.
 
 What Ashuraz wants is a moneylender's charter. A moneylender house of the [Treasurers' Guild]{.name data-type="affiliation/guild"} deposits bullion with the [[affiliation-merazuni|Merazuni]] and draws script against it, and script cleared by the Merazuni is good anywhere in the Confederation. A Hitusuni charter would let the Merchantry's money come out of the warehouses as clean Merazuni script, and Ashuraz has been courting the Kubasum's clerks for it with great patience and very good dinners.
+
+The house is patient this season and busy. Ashuraz gives dinners for the Merazuni's clerks of the script and waits on the charter. [[being-pzsnkhdzm|Pazasan Khidizum]]'s record of what leaves the warehouses unsealed has gone missing from his lodgings, and Ashuraz did not take it. The [[affiliation-freecaptains|Free Captains]] still carry the house's receipts for the war's prize cargoes, and the halls ashore talk of a rising in which the Captains would be on the water. Ashuraz has offered [[being-zbzmjkdn|Zabuzum Jakuduni]] a cargo of Merchantry silk for the Amradi shore, and the captain has not come to Sazumun to hear it.
 
 ## Meeting the House
 
@@ -90,6 +92,12 @@ The house has rivals on the same quays. The [Visizuni]{.name data-type="affiliat
 
 A party can carry the receipt to Pazasan, or Pazasan's record to the captain; Ashuraz will pay handsomely for either to be lost. If the moneylender's charter comes through first, the house will have the Merazuni's script on its side, and both the record and the receipt will be worth much less.
 :::
+
+## Hooks {#hooks}
+
+- **The guard's book.** [[being-ashurazhitus|Ashuraz Hitusuni]] hires a party to learn who has Pazasan Khidizum's missing record, because whoever holds it can ruin him and has not said what they want.
+- **The forged seal.** A Hitusuni seal on a Compact cargo landed in Besikar is a forgery, and Ashuraz wants the forger found before the Compact asks him about it.
+- **The silk.** Ashuraz needs someone to carry his offer of a cargo to the captain of the Tamzir, wherever she lies.
 
 ## See Also
 

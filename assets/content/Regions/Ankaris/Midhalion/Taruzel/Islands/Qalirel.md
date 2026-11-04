@@ -58,6 +58,15 @@ The pass road has its own rules. Water is bought at the forts' old cisterns from
 
 This season the caravan masters coming down into Pashinar have a new complaint. A gate of new timber, iron-banded, hangs across the pass road at its narrowest place, below the fort the hill tellings call the third fort, and the men who keep it ask a toll in coin of every mule train and say they hold the road for the hills. The toll is set a little above what the sea would cost, and some caravan masters have paid it while others have turned back to Pashinar and hired a hull. Every caravan master who comes down repeats the hill tale of the man who kept that pass for three paymasters at once ([[lore-roadpaidthrice|The Road Paid Three Times]]). One of them, short of patience and of silver, offers a party a share of his freight to find out who the gatekeepers are and who pays them.
 
+## Current Situation {#present}
+
+The long island's two coasts are pulling against each other. On the pass road a new gate hangs below the third fort, its keepers saying they hold the road for the hills and asking a toll a little above the sea freight, and some caravans have turned back to Pashinar to hire a hull. In [[place-pashinar|Pashinar]] the [[affiliation-balinuni|Balinuni]] of Kudumel call in the factors' debts one at a time. In [[place-besikar2|Besikar]] [[being-trmnqzkn|Tirmana Qizikuni]] presses for an audit of the treasury, and the Grand Council's summer session will open in the customs-house on the quays. Off the north-eastern cape two ships have been lost this year on clear nights, steering for a lantern, and the [[affiliation-qazishuni|Qazishuni]] on the spine have neither built the pass gate nor broken it.
+
+## Hooks {#hooks}
+
+- **The gatekeepers.** A caravan master short of patience and silver offers a party a share of his freight to learn who keeps the pass gate and who pays them.
+- **The called factor.** A Pashinar factor whose note [[being-llmnblnn|Ellamuna Balinuni]]'s house has called has a month to pay, and wants a party to collect what three caravan masters owe him.
+
 ## See Also
 
 [[place-taruzelrgn|Taruzel Region]]

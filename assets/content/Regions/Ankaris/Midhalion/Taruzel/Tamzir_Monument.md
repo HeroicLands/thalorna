@@ -31,11 +31,20 @@ The dock keeper is a city servant, paid by the Treasurer of [[affiliation-besika
 
 The veterans say that the Prize was the flagship of the squadron at the Shoals, and that the imperial admiral died on her deck. The pilots of the harbor say she was one of the lesser ships and the flagship went down in the channels. The dock workers say that on still nights the oar-benches creak in her dark hold as though rowers were sitting at them, and the dock keeper does not go below after sunset to find out.
 
-## Hooks
+## Layers {#history}
+
+She was one of the heavy warships of the imperial squadron destroyed at the Tamzir Shoals in the early summer of 708 ([[lore-tamzirbattle|The Battle of Tamzir Shoals]]), and after the war she was towed to Besikar and set in the stone dock. Her name was painted out on the day she came in and the Taruzelian flag raised above the place. Every year since, the veterans have brought their wreaths on the day of the battle, families have cut the names of their dead into her rail, and the Auric Compact's petition to have her broken up has come before the Council of Elders and been put off.
+
+## What Is There Now {#present}
+
+The Prize is a quarrel in a dock. The Compact's petition to break her up has been placed early on the Council of Elders' order for the first time. Veterans of the old city's halls sit up in her dock at night with lanterns and boat-hooks, saying someone means to burn her, and the Harbormaster wants them gone before the sailing season brings the Vylarian hulls past her stern. [[being-zlmrzzn|Zilmar Ezzinu]] of the waterfront halls wants to know who his men are guarding her from. The dock keeper has found a candle-end in her hold and a plank prised up and nailed down.
+
+## Hooks {#hooks}
 
 - The Compact's petition to break her up has, for the first time, been placed early in the council's order of business, and the veterans' halls want a party to learn who put it there.
 - A Vylarian factor asks a party to obtain, quietly, a rubbing of whatever lies under the paint on her stern.
 - The dock keeper reports that someone has been below at night: a candle-end on the hold's floor, and a plank pried up and nailed back down.
+- [[being-zlmrzzn|Zilmar Ezzinu]] wants his men home from the dock before the Harbormaster's men come for them, and he wants a party to sit the night watch in their place.
 
 ## See Also
 

@@ -69,6 +69,19 @@ The First of the Board is [Qadurum Basharuni]{.name data-type="being/npc"}, a qu
 
 The board keeps the town's register, sets the harbor dues and pays for the beacon's fuel out of them, licenses the inns and lodging-houses on the square, and pays the quarrymen of the town watch. Its magistrates judge the town's own cases, and the sentence to the arena is theirs to give. A guild that wants a new charter, a merchant who wants a stall on the square and a stranger who wants to stay past a month all apply to the board, in writing, through its clerk.
 
+## Current Situation {#present}
+
+The board lives well on the Arbitrators' session and argues over the arena. A young furnace-hand has been sentenced to the arena by one of its magistrates for a theft his mother swears he did not commit, and the Gladiators' Guild collects him at the end of the month. The arena's champion, [[being-nbrnfsnn|Niburan Fusanuni]], who came into it as a convict, wants to know who paid the man who accused him. [Qadurum Basharuni]{.name data-type="being/npc"} is in the second year of his term and the quarry seats vote with him. [Belgina Sinnuni]{.name data-type="being/npc"}, the Keeper of the Beacon, is the member most often outvoted, and across the narrows the Strait Fortress readies its wall for the Fleet Review.
+
+## History {#history}
+
+Sharimun's guilds have governed the town from their hall on the harbor square while the Confederation's Arbitrators hear their cases across it in the Khurutun, and the board has kept out of that court. It has paid for the beacon's fuel from the harbor dues every sailing season, and Belgina Sinnuni has kept the fire for eleven of them. Niburan Fusanuni was sentenced to the arena from the quarry terraces, fought five years for his freedom, and fights now as a free man.
+
+## Hooks {#hooks}
+
+- **The sentence.** The furnace-hand's mother asks a party to prove her son innocent before the Gladiators' Guild collects him, and [[being-nbrnfsnn|Niburan Fusanuni]] offers to help.
+- **The accuser.** Niburan wants a party to learn what the man who accused him was paid, and by whom.
+
 ## See Also
 
 [[place-sharimun|Sharimun]]

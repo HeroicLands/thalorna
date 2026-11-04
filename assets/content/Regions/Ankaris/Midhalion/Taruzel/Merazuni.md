@@ -101,6 +101,22 @@ The Merazuni and the Vylarian treasury, [[affiliation-tarmex|the Tarmeks Orzan]]
 An audit would find the gap in a day. The Qizikuni want the audit because they believe the strongroom is short and want the chair when it is proven; Yushuduya knows the audit would ruin her and might ruin the script with her. A clerk of the ledger who has seen both the vault and the book is the most valuable person in Besikar this season, and does not yet know it.
 :::
 
+## What It Is Fighting About {#present}
+
+The treasury is defending its chair. [[being-trmnqzkn|Tirmana Qizikuni]] presses the [[affiliation-grandcouncil|Grand Council]] to order an audit of the strongroom at the summer session, and her candidate for the Kubasum's table is a Qizikuni clerk of the treasury's own ledger. [[being-ashurazhitus|Ashuraz Hitusuni]] courts the clerks of the script with dinners for a moneylender's charter. Vylaria still refuses the war indemnity the Confederation claims, and the claim stands in the Council's petitions. [[being-yshdyjkdn|Yushuduya Jakuduni]] signs nothing she has not read twice and answers every request for the audit with the treasury's clearing books, which balance.
+
+The houses have small worries of their own about the treasury this season. A clerk of the ledger has not come back from a holiday on [[place-khamisar|Khamisar]], notes struck with a false star are passing on the quays of Sazumun, and the marine captain who holds the strongroom's second key is to be replaced by a man the Admiral's Council of Yamuzel has put forward.
+
+:::secret {title="The factor's offer"}
+The head factor of the Khelathi factorage on the Guild Quarter has twice offered Yushuduya bullion, lent to the Merazuni, enough to make the book and the vault agree, against the Confederation's acknowledgment of what it owes [[affiliation-empireakhlth|Au'Khelathu]] for the war. She has refused twice. The missing clerk kept the strongroom's tally one night and has seen both the vault and the book.
+:::
+
+## Hooks {#hooks}
+
+- **The missing clerk.** [[being-yshdyjkdn|Yushuduya Jakuduni]] wants the clerk who has not come back from Khamisar found and brought home quietly, and his desk has been searched by someone who knew what to look for.
+- **The second key.** Yushuduya hires a party to learn whom the new marine captain owes before he stands at the strongroom door.
+- **The clerks' dinner.** [[being-ashurazhitus|Ashuraz Hitusuni]] wants guests at his dinner for the treasury's clerks who can tell him afterward what the clerks said when he left the room.
+
 ## See Also
 
 [[affiliation-vezakuni|Vezakuni]]

@@ -32,6 +32,19 @@ A party with business inside comes to the landward gate with a letter from an ad
 
 The marines say the fortress has never been stormed: its Vylarian garrison gave it up by treaty in the months after the Shoals, and the first marines to march in found its stores full and its engines oiled. The old men of the Veterans' Quarter say the imperial garrison left something behind besides its stores, and do not agree on what. The admirals' houses say the Vylarians who built it would like it back, and that they still have the drawings.
 
+## The Present {#present}
+
+The fortress is preparing for the [[lore-fleetreview|Fleet Review]], when the councilors of the Grand Council will stand on its wall to take the salute. The Commander of the Marines has been told to catch the Review's last boat this year, and his sergeants grew up in the Veterans' Quarter. [[being-dlzrtndn|Delzuru Tanaduni]] wants the Council to grant the Corsair League a toll on every hull that passes under the walls. The foreign masters waiting in the roads for a convoy have heard of the toll and mean to fight it. The marine captain who holds the second key of the Merazuni's strongroom at Besikar is to be replaced, and the Admiral's Council has put forward a man of its own.
+
+## History {#history}
+
+Vylarian engineers built the fortress to close the narrows to the empire's enemies, and an imperial garrison held it until the war. By the marines' account that garrison gave it up by treaty in the months after the Tamzir Shoals, and the first Taruzelian marines to march in found its stores full and its engines oiled. Since then it has been Yamuzel's, under a Warden named by the Admiral's Council, and its wall has been the councilors' stand for every Fleet Review since the first in 709.
+
+## Hooks {#hooks}
+
+- **The second key.** [[being-yshdyjkdn|Yushuduya Jakuduni]] hires a party to learn whom the Admiral's Council's man for the strongroom's second key owes, before he stands at the strongroom door.
+- **The last boat.** A sergeant of marines who grew up in the Veterans' Quarter asks a party to carry word to [[being-rzznpddn|Razzina Padduni]]'s hall that the Commander means to catch the last boat this year.
+
 ## See Also
 
 [[place-yamuzel2|Yamuzel]]

@@ -30,6 +30,19 @@ The yards belong to the shipwrights of Bazunel, and the [Taruzelian Shipwrights'
 
 The shipwrights say a master who walks a line barefoot can feel a bad curve through his soles before his eye finds it. The apprentices say the old lines under the whitewash show through the floor on damp mornings, and that a draughtsman who draws over one of them draws a ship that sails like the old one. The riggers of Yamuzel say a Bazunel hull is a beautiful thing until something carries away, and then it is a puzzle.
 
+## Layers {#history}
+
+The yards build only the first hull of each new line. The loft above the longest slip belongs to the [[affiliation-rusakuni|Rusakuni]], whose floor is scrubbed white for each new line and whose strongroom keeps every old one as drawings. Every new galley of the [[affiliation-corsairleg|Corsair League]] since its founding after the war has been built at Yamuzel to lines drawn on this floor, and the house is bound to the League. The shipwrights' guild that holds the yards has voted them closed to women every year.
+
+## What Is There Now {#present}
+
+The yards are busy and owed. The League owes the Rusakuni their fees on several years of galleys and offers privileges in place of coin, and [[being-brshrskn|Abarash Rusakuni]] wants a charter from the [[affiliation-vezakuni|Vezakuni]] that makes the yards a trade of their own, so that the house can sell its lines to any yard on the sea. A yard on the Amradi shore is said to be building a coaster to an old Bazunel line the house sold to nobody there. The guild's masters, the Rusakuni first among them, keep the yards closed to women, and the shipwright of the Tamzir, [[being-blgnrskn|Belgina Rusakuni]], learned the craft in her father's yard in Pashinar without ever being apprenticed.
+
+## Hooks {#hooks}
+
+- **The coaster on the slip.** [[being-brshrskn|Abarash Rusakuni]] pays a party to cross the strait and tell him whose drawing the Amradi coaster was built from.
+- **The galley's fee.** Abarash hires a party to learn what the League's privileges are worth on the Painted Harbor before he takes them in place of coin.
+
 ## See Also
 
 [[place-bazunel2|Bazunel]]

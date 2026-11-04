@@ -34,6 +34,19 @@ In the last weeks of summer, when the east wind brings the grit off the mainland
 
 The porters of the landing say the tiles of the arch were glazed blue so that a caravan master coming over the strait could see the Gate from halfway across. The caravan masters say they can see it from further than that, because they can see the price of it. The water-sellers at the pens say that a ferry carrying a dead man always lands at the sixth berth, and the sixth berth's ramp is the only one kept clear on a crowded morning.
 
+## Layers {#history}
+
+The arch is the city's eastern gate, and the berths, pens and halls below it were built to serve it. Its dues belong to the Treasurer of Kudumel. In the war, while the legions held the coast roads, the [[affiliation-balinuni|Balinuni]], who keep the ferries, carried the rebellion's supplies inland over Nishurel's hill roads with Saliruni guides and escorts.
+
+## What Is There Now {#present}
+
+The Gate is busy, and its takings are down this season, while caravan goods sell in the bazaars under the price of goods that paid its dues. The Balinuni call in the debts of Pashinar's factors one at a time, so that the caravans that land at [[place-pashinar|Pashinar]] will land here, and [[being-llmnblnn|Ellamuna Balinuni]] means every ferry on the strait to tie up at these six berths. The house's next train into the hills is forming in the Caravansary Quarter with no Saliruni guide willing to take it, and the ferry-master, [Nirabu Balinuni]{.name data-type="being/npc"}, is looking for guards among the strangers he has stood surety for on the quay.
+
+## Hooks {#hooks}
+
+- **The short dues.** A merchant losing sales to the cheap goods in the bazaars asks a party to watch the weigh-house for a week and tell him where the Gate's takings go.
+- **The surety's price.** [Nirabu Balinuni]{.name data-type="being/npc"} stands surety for a party on the quay, and that evening [[being-llmnblnn|Ellamuna Balinuni]] asks it, as a favor between friends, to guard the house's train into the hills.
+
 ## See Also
 
 [[place-qudumel2|Kudumel]]

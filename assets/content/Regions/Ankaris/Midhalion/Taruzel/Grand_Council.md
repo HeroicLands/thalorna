@@ -91,6 +91,23 @@ Any freeman of a member city may petition the Council through his city's council
 Danashu Kumuni wants to be remembered for something. A party that brings him a reason to read the veterans' petition first, or the hill tribes' grievance against the Balinuni, may find him willing. If the Balinuni learn of it before the session opens, they will call in what he owes them.
 :::
 
+## What It Is Fighting About {#present}
+
+The summer session is a fight over its order of business, and [[being-dnshkmn|Danashu Kumuni]] holds the list. It opens a few weeks after the [[lore-fleetreview|Fleet Review]], with the debt's interest read first as always, and every party that matters wants the next place:
+
+- **The veterans' petition**, which [[being-zlmrzzn|Zilmar Ezzinu]] of the Besikar halls brings to the residence before every session and a councilor of Yamuzel sponsors. It has been read on the last afternoon of every session since the outlawing, and the halls are talking of a rising.
+- **The toll.** [[being-dlzrtndn|Delzuru Tanaduni]] wants a League toll on every hull through the narrows, collected by League galleys, and the League's charter is on the order beside it.
+- **The audit.** [[being-trmnqzkn|Tirmana Qizikuni]] wants the Council to order an audit of the [[affiliation-merazuni|Merazuni]]'s strongroom, and has a candidate of her own for [[being-yshdyjkdn|Yushuduya Jakuduni]]'s chair.
+- **The indemnity.** Vylaria refuses the war indemnity, and the Council's claim to it stands in the petitions again.
+
+Behind the list the houses talk of something larger. Tirmana Qizikuni has sounded the heads of the other four houses on council seats that pass from a head to an heir. Nobody has put it on the order.
+
+## Hooks {#hooks}
+
+- **The petition's friends.** [[being-zlmrzzn|Zilmar Ezzinu]] wants a party with standing in Besikar to stand behind him when he brings the veterans' petition to the residence.
+- **The visitors from Yamuzel.** [[being-llmnblnn|Ellamuna Balinuni]] wants to know what Danashu's late-evening visitors from Yamuzel asked him and what he answered.
+- **The closed roll.** [[being-trmnqzkn|Tirmana Qizikuni]] sends a party with sealed letters to the heads of two other houses, and each head asks the party what the others answered.
+
 ## See Also
 
 [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]

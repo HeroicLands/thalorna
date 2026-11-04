@@ -75,11 +75,13 @@ The house keeps the ferries over the strait, the landing at the Gate and warehou
 
 The head of the house is a tall woman of fifty-two with a carrying voice and a laugh to match it, who speaks Taruzeli and Dunhari and enough of the hill speech to bargain in it. She sits for the house on the council of Kudumel, where the hill tribes have seats beside the merchants, and she is the only merchant on it whom the tribal councilors greet by name. She keeps the best table in Kudumel and seats the tribal councilors at it.
 
-## Debt and Appetite
+## Debt and Appetite {#present}
 
 The Balinuni carried the war's supplies over the hill roads of the island, with tribal guides and tribal escorts, when the coast roads were held by the legions. The house's head at the time promised the tribes a share of the hill-road tolls once the war was won, by clasped hands and before witnesses, and never in writing. The house counts a bargain that was never written as no debt. The tribes count it otherwise, and they have not been paid.
 
 What Ellamuna wants is the caravan trade of the whole strait. Many of the caravans that cross from the mainland land at [[place-pashinar|Pashinar]] on the largest island, and the house wants every one of them landing at Kudumel. Through the Compact it has bought the debts of Pashinar's factors, and it calls them in one at a time. The house also holds the votes that named this year's Arch-Consul: [[being-dnshkmn|Danashu Kumuni]], the Kudumel merchant who presides over the [[affiliation-grandcouncil|Grand Council]], owes the Balinuni his nomination, and the Council's order of business is his to set.
+
+This season the house is reaching. Its factors call in Pashinar's debts one at a time, and a Pashinar factor whose note was called has fled across the strait with his ledger. Its votes named the Arch-Consul, and [[being-llmnblnn|Ellamuna Balinuni]] expects [[being-dnshkmn|Danashu Kumuni]] to remember it when he sets the summer order. The tribes' councilors on Kudumel's council have stopped asking the house for the hill-road share, and this season the Saliruni guides Kudumel's caravan masters usually hire will not take a Balinuni train over Nishurel's hill roads.
 
 ## Meeting the House
 
@@ -90,6 +92,12 @@ A party arriving at the Caravan Gate meets [Nirabu Balinuni]{.name data-type="be
 
 Nirabu is the obvious choice to command the guards, and a party he has stood surety for is the obvious choice to be the guards. A party that learns of the debt can pay it, carry the tribes' grievance to the Grand Council, or find that Danashu Kumuni, who owes the house his office, has been asked to keep the grievance off the Council's agenda.
 :::
+
+## Hooks {#hooks}
+
+- **The ledger across the strait.** [[being-llmnblnn|Ellamuna Balinuni]] wants the ledger of the Pashinar factor who fled to the Amradi shore more than she wants the man, and she hires a party that can cross and come back.
+- **The Arch-Consul's guests.** Ellamuna wants to know what [[being-dnshkmn|Danashu Kumuni]]'s late visitors from Yamuzel asked him.
+- **The train with no guide.** The house's next caravan into the hills needs guards and has no Saliruni guide, and [Nirabu Balinuni]{.name data-type="being/npc"} asks a party he has stood surety for.
 
 ## See Also
 

@@ -26,6 +26,10 @@ Hulls from the western cities come into the harbor north of the Gate, a smaller 
 
 In the last weeks of summer the east wind comes off the mainland hot and full of grit, the sky goes yellow, and the Harbormaster closes the quays at noon. A ship that arrives in the afternoon of a yellow day lies in the roads until morning.
 
+## Politics {#present}
+
+Kudumel holds the Confederation's seal this year, because its council named [[being-dnshkmn|Danashu Kumuni]] Arch-Consul on the votes of the [[affiliation-balinuni|Balinuni]], and the city's quarrels have followed him to Besikar. [[being-llmnblnn|Ellamuna Balinuni]] wants the caravan trade of the whole strait landing at the [[place-caravangate|Caravan Gate]], and her house calls in the debts of [[place-pashinar|Pashinar]]'s factors one at a time. The Tribal Councilors who sit for the hills have stopped asking the house for the share of the hill-road tolls it promised the tribes in the war, and this season the Saliruni guides will not take a Balinuni train over the hill roads. The Gate's takings are down while cheap caravan goods sell in the bazaars below the price of goods that paid the dues. The Thordimalon's chapter by the harbor wants the Flame-Readers of the [[place-twofirestemple|Temple of Two Fires]] registered, and the council keeps putting it off.
+
 ## The Market and the Caravansaries
 
 The eastern market fills the square inside the Gate and the streets that open off it, and it is the greatest market for eastern goods in the islands. Spice, dates, salt, dyes, horses, camels, carpets, copper and the cut stones of the desert are sold there by the bale and by the handful, under awnings, from the backs of animals and from the doorways of the houses. A sale is settled in [[lore-trzlncrncy|Taruzelian Currency]] at the money-changers' benches along the Gate's inner wall, and a price is settled over tea first: every bargain of size has its _pazirum_ (go-between), who keeps the tea and the peace and takes a fee from both sides.
@@ -54,7 +58,11 @@ The present Arch-Consul of the Confederation, [[being-dnshkmn|Danashu Kumuni]], 
 
 A party that comes in with a caravan lodges in its caravansary, eats at the common fire and pays for its animals' water by the skin. The harbor inns take western travelers and charge western prices. A party with a letter to a merchant house lodges behind that house's blank wall, where the courtyard is cool, the coffee is the best in the city and the house's guests are not expected in the Caravansary Quarter after dark.
 
-## Hooks
+## History {#history}
+
+The fire in Kudumel's oldest temple was burning before the empire came to the islands, and the city that grew round it lived by the caravan goods of the strait. Under the empire the governors rebuilt the temple and set the hall of the Aureldian gods beside the old fire, on the side facing the harbor. In the war the legions held the coast roads, and the Balinuni carried the rebellion's supplies over Nishurel's hill roads with Saliruni guides and escorts. The house's head promised the tribes a share of the hill-road tolls once the war was won, by clasped hands and before witnesses, and never in writing. Since the peace the city has kept the seats on its council for the hill tribes that no other city gives them, the guilds' enforcers have found no welcome at the Gate, and the share has not been paid.
+
+## Hooks {#hooks}
 
 - **The cheap goods.** Someone is selling caravan goods in Kudumel's bazaars under the price of goods that paid the Gate's dues, and the Gate's takings are down. A merchant losing sales to them hires a party to find where the goods come from.
 - **The cast.** A sand-diviner in the back courts has refused, three caravans running, to cast for any train bound by the southern trail, and the caravan masters want to know what he has seen. The Thordimalon's chapter would like to know who taught him.

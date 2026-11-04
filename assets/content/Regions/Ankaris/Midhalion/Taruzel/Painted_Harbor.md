@@ -30,6 +30,19 @@ On a theater night the whole city comes down to the water. The steps fill from t
 
 The harbor's porters say each house paints its own color so that its masters can find its quay from the harbor mouth at dusk. The old families of the upper town, whose houses are white, say the color came with the merchants and the white was there before it. The players say the city painted itself to be a stage. A house that changes its color has changed its owner, and the harbor's word for a bankrupt house is one that has gone white.
 
+## Layers {#history}
+
+The white houses of the upper town belong to the old families, whose seats on Bazunel's council are older than the guilds' presence in the city. The merchant houses built along the quay below them, each painted its front one color from the waterline to the parapet, and a house that changes its color has changed its owner. The four theaters were cut into the slope between the houses, and in each season a patron's name has been painted over a stage on a board repainted when the patron changes.
+
+## What Is There Now {#present}
+
+The season is on and the money is nervous. A theater's patron has withdrawn in the middle of the season and had his name painted out over the stage, and the company's manager wants a new one before the next play. The company of the oldest theater has borrowed against its own costumes, and [[being-brshrskn|Abarash Rusakuni]], the theaters' most generous patron, wants to know who holds the loan. At the card tables the city's drawings, charts and debts change hands each night, the Rusakuni's keeper of the drawings, [Lushar Rusakuni]{.name data-type="being/npc"}, among the players.
+
+## Hooks {#hooks}
+
+- **The costumes.** [[being-brshrskn|Abarash Rusakuni]] pays a party to learn who holds the oldest theater's loan, because whoever holds it is buying the theater cheaply.
+- **The dark stage.** The manager of the company whose patron withdrew hires a party to learn why before the other patrons hear of it.
+
 ## See Also
 
 [[place-bazunel2|Bazunel]]

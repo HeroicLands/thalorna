@@ -82,6 +82,20 @@ A party meets the Unchained by drinking in the wrong hall and asking the right q
 
 [[affiliation-crimsnldgr|The Crimson Ledger]], whose business is lending to the desperate and seizing their labor when they default, has lost more bonds to the Unchained than any honest moneylender, and its enforcers hunt Breakers with a zeal the guilds' own lack.
 
+## The Present {#present}
+
+The halls are fuller than they have been since the outlawing. The Compact's calls on the harbor streets come sooner and dearer this season, every man bound for a called debt is a strongroom for the Breakers, and the talk in the halls that keep the oath has turned from strikes to a rising. The Old Hands are divided on it, because the oath forbids a Link to draw blood except to save a life. [[being-rzznpddn|Razzina Padduni]], keeper of a hall in Yamuzel's Veterans' Quarter, argues every night that a rising needs a captain the whole coast would follow, and the man the halls want is [[being-zbzmjkdn|Zabuzum Jakuduni]], who has not answered them. In Besikar [[being-zlmrzzn|Zilmar Ezzinu]], the elder of a waterfront hall, preaches patience and carries the veterans' petition to the Arch-Consul before every session. Three Breakers of the Besikar halls have been taken in the last two years.
+
+## Hooks {#hooks}
+
+- **The bondsman.** A dock worker of the Veterans' Quarter has been bound for a debt he says he has paid. [[being-rzznpddn|Razzina Padduni]] needs someone a moneylender's clerk does not know by sight to learn which strongroom in Besikar holds his bond.
+- **The petition.** [[being-zlmrzzn|Zilmar Ezzinu]] asks a party with standing in Besikar to stand behind him at the residence while he reads the petition, so that the Arch-Consul sees the veterans have friends who are not veterans.
+- **The song.** A Compact factor has paid the harbor taverns not to let the halls sing [[lore-paidattheshoals|What Was Paid at the Shoals]] this year, and Razzina asks a party with a singer among it to sing it first.
+
+:::secret {title="What the halls are planning"}
+The Old Hands of the Yamuzel halls, the [[affiliation-freecaptains|Free Captains]] and the harbor veterans mean to rise at the [[lore-fleetreview|Fleet Review]]. Crossbows, boarding pikes and a chest of Vylarian silver, brought from a Sazumun warehouse under a Merchantry seal, lie under the floor of a cooper's shop below Razzina's hall, and she has guessed whose coin paid for them. She has sent the day of the rising to the Besikar halls by Zilmar Ezzinu, whose hall is the one that informs for the Compact. He has not yet passed it on, and his next meeting with the Compact's enforcer falls before the Review.
+:::
+
 # The Truth of the Unchained {#truth .secret}
 
 **One hall is sold.** The Keeper of a waterfront hall in Besikar has informed for the Auric Compact since the first year of the outlawing, when its enforcers took his son for a debt and gave him back for a name. Three Breakers of the Besikar halls have been taken in the last two years, each on the night of a strongroom, and every one of those nights was decided in his hall. The Old Hands of Yamuzel have begun to suspect a Besikar hall and do not know which. A party that carries a message between the cities, or takes part in a night's work in Besikar, may be the one that learns it, and the Keeper will know that before the party does.

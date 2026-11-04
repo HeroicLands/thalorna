@@ -42,6 +42,15 @@ At the heart of the Shoals, out of sight of Khamisar and Visizel, a ring of sand
 
 The battle is the founding myth of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]. [[place-yamuzel2|Yamuzel]], whose yards built the fleet, holds an annual [Fleet Review]{.name data-type="lore/gathering"} in its memory, and [[place-besikar2|Besikar]] keeps a captured Vylarian warship in dry-dock as **the [[place-tamzirmonument|Tamzir Monument]]**. The [[affiliation-corsairleg|Corsair League]] grew out of the captains who fought there. The veterans remember the Shoals differently: the dock workers, fishermen and tribal warriors who sailed into the imperial fleet were promised land, guild membership and a voice in the new government, and received a discharge and a small purse of silver instead. Their children have inherited the grievance along with the story. One trading vessel on the [[place-vylarianse|Vylarian Sea]], [[affiliation-thetamzir|the Tamzir]], carries the battle's name.
 
+## Converging Interests {#present}
+
+Three parties want the rams, and the water keeps them. The admirals of Yamuzel want a column of them at the Strait Fortress, the empire's factors in the eastern harbors offer silver for any ram returned to Kastamar, and the [[affiliation-shoalsbrthd|Shoals Brotherhood]] holds that the rams belong to the Shoals. The League's patrols hunt the channels round the Shoals and follow no boat inside them, and some League masters hire the Brotherhood's pilots on the quiet. The [[affiliation-freecaptains|Free Captains]] lie in Sulimar when the League's galleys are out, and the halls of Yamuzel that supply the lagoon talk of a rising. The [[lore-fleetreview|Fleet Review]] keeps the battle's anniversary in the narrows, and the veterans' boats that close its line were the boats that fought here.
+
+## Hooks {#hooks}
+
+- **The factor's offer.** A Vylarian factor in the eastern harbors offers a party good silver to bring him word of any ram raised from the Shoals, and the admirals of Yamuzel offer the same party more to bring the ram to them.
+- **The pilot.** A League master bound through the channels west of Khamisar wants a Brotherhood pilot without his owners hearing of it, and asks a party to meet the boat that comes out at dusk.
+
 ## See Also
 
 [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]

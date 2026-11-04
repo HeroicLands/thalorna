@@ -32,6 +32,16 @@ The Harbor Master answers to the House alone. The present one is [Nibura Visizun
 
 The quay porters say the House is the only building in Sazumun that pays no tariff, and that it charges the others for the privilege. The pilots say the Harbor Master can tell a ship's cargo by how she sits in the water before the papers come ashore. The tally-men say the black board has never held fewer than forty names.
 
+## The Present {#present}
+
+The House sits often this season and argues more than it posts. A Khelathi captain whose name went up on the black board this spring swears he broke no protocol, and nobody in the House will tell him which one. [[being-ashurazhitus|Ashuraz Hitusuni]], whose house has sat in the hall longest, courts the treasury's clerks for a moneylender's charter, and the [Visizuni]{.name data-type="affiliation/lineage"}, whose factor [Nibura Visizuni]{.name data-type="being/npc"} keeps the tower, watch the Hitusuni as carefully as ever. Three foreign merchantmen have stuck on the bar since spring with harbor pilots aboard, and the harbor guild has fined the pilots.
+
+## Hooks {#hooks}
+
+- **The Khelathi captain.** A captain on the black board hires a party to learn which protocol he is supposed to have broken before his crew drifts away.
+- **The charter dinner.** [[being-ashurazhitus|Ashuraz Hitusuni]] wants guests at his dinner for the Merazuni's clerks who can tell him afterward what the clerks said when he left the room.
+- **The pilot's fine.** A harbor pilot fined a year's wages for a grounding on the bar asks a party to stand beside him when he appeals to the House, if the Speaker will call it.
+
 ## See Also
 
 [[place-sazumun2|Sazumun]]

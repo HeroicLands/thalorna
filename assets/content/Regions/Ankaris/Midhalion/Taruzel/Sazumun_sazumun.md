@@ -74,6 +74,10 @@ Faiths
 
 The guilds' councils decide, and nothing else in Sazumun does. Competition between the guilds is fierce and disciplined: they keep an elaborate system of tariffs, trading monopolies and agreements that regulates commerce with surgical precision. The guilds have learned that stability, however rigidly kept, yields more wealth than chaos, and their means of keeping it are simple. A ship's captain who breaks guild protocol finds no harbor master willing to accept her vessel and no crew willing to work for her.
 
+## Current Situation {#present}
+
+Sazumun's guilds keep their order, and the black board at the foot of the House of Factors' stair never holds fewer than forty names. Its harbor's tariff falls due when goods leave the quay, and most of what waits in between waits in the warehouses of the [[affiliation-hitusuni|Hitusuni]], whose head, [[being-ashurazhitus|Ashuraz Hitusuni]], courts the [[affiliation-merazuni|Merazuni]]'s clerks for a moneylender's charter. A warehouse guard, [[being-pzsnkhdzm|Pazasan Khidizum]], has spent years recording what leaves those warehouses without a tariff, and his record has gone missing. The [[affiliation-freecaptains|Free Captains]] still hold the house's receipts for the war's prize cargoes. The timberwright [[being-zttyblnn|Zattuya Balinuni]] has been asked to mark next winter's whole cut of keel timber in the Alz woods for one buyer, to the lengths of the Corsair League's galleys, and the League has ordered nothing. Three foreign merchantmen have stuck on the Alz bar since spring with the guild's pilots aboard.
+
 ## Who Lives Here
 
 Sazumun's people are a polyglot mixture of Taruzeli merchants, Dunhari traders, Ashaian priests and adventurers from every corner of the known world. The city keeps an uneasy religious balance, with temples of the Aureldian gods standing near shrines of the Ashaian ones, and the merchant councils recognize both as legitimate paths.
@@ -81,6 +85,15 @@ Sazumun's people are a polyglot mixture of Taruzeli merchants, Dunhari traders, 
 ## Commerce and Currency
 
 The tariffs the House of Factors sets are paid in the [[lore-trzlncrncy|Taruzelian currency]], issued under the [[affiliation-merazuni|Merazuni]] of the [[affiliation-vezakuni|Vezakuni]]. Its denominations are the Vylarian ones—Solden, Ardin and Bit—on Taruzelian reserves rather than the Vylarian reserves of [[affiliation-tarmex|the Tarmeks Orzan]], and the Taruzelian Solden is slightly underweight by the Vylarian standard. The Merazuni's moneylenders carry the banking; Vylarian script goes unhonored on Sazumun's quays, as Taruzelian script does in Vylarian territory.
+
+## History {#history}
+
+Sazumun's name is the toll's, and the city has always lived by what passes its quays. During the war of independence the captains of the flotilla stored their prize cargoes in the Hitusuni's bonded warehouses under the house's seal, and when the guilds outlawed the most stubborn of those captains the house kept the cargoes and the seals ([[lore-taruzelbetrayal|The Betrayal of the Revolution]]). Under the charter the city's merchant guilds kept their absolute rule from the House of Factors, and the Hitusuni have sat in its hall longer than any other house.
+
+## Hooks {#hooks}
+
+- **The guard's record.** [[being-pzsnkhdzm|Pazasan Khidizum]]'s record of the cargoes that left the Hitusuni warehouses untaxed has gone from his lodgings, and he wants a party to find it before whoever has it decides what to do with it.
+- **The keel timber.** [[being-zttyblnn|Zattuya Balinuni]] wants to know who is buying the Alz keel timber before she marks a single tree.
 
 ## See Also
 

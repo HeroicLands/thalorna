@@ -101,6 +101,15 @@ The Brotherhood sells what it takes and what it raises across the strait and in 
 - **Yamuzel's watch-boats** patrol the channels from the marine posts on Khamisar's western shore. Their crews are veterans' sons, and the Brotherhood's boats know which nights they are out.
 - **The Vylarian Empire** wants the rams. Its factors in the eastern harbors have let it be known that the navy pays well for any ram returned to [[place-castamar|Kastamar]].
 
+## The Present {#present}
+
+The League's galleys hunt the channels round the Shoals, and no League galley has yet followed a Brotherhood boat inside them. Ashore, the halls of Yamuzel that buy its bread and tar talk of a rising, and the [[affiliation-freecaptains|Free Captains]] who lie in Sulimar would be on the water for it. The rams stay where the fifth article puts them, with the empire's factors offering silver for any one of them and the admirals of Yamuzel wanting a column of them at the Strait Fortress.
+
+## Hooks {#hooks}
+
+- **The pilot.** A Brotherhood boat comes out of the Shoals at dusk and offers a party's ship a pilot, and the master would rather risk the sand than pay the share the pilot names, which is not bargained.
+- **The bread.** The Yamuzel hall that buys the Brotherhood's bread and tar has had its credit stopped by its chandler, and [[being-rzznpddn|Razzina Padduni]] wants a party to carry coin to the chandler before the boats run short.
+
 # The Truth of the Brotherhood {#truth .secret}
 
 **The dead's share is unpaid.** The League doubled its patrols in the channels two seasons ago, takings have been thin since, and the Keeper of the Lots has paid the families of the dead nothing for two seasons. The Caller, [Burakan Zupumi]{.name data-type="being/npc"}, a Brother of thirty who was a boy in the boats at the Shoals and is the first Caller who is not an Elder, means to pay them. He has raised two of the squadron's rams with his own crew, by night, and sunk them on the seaward side of the ring, away from the lagoon where the Keeper of the Lots counts the rest. A Vylarian factor in [[place-mercavia|Delalara]] has offered him their weight in silver for both, delivered to a ship off the Shoals before the autumn storms.

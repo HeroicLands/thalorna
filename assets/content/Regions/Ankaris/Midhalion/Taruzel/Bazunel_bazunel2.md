@@ -30,6 +30,10 @@ A party walking from the northern coves comes by the ridge road through terraced
 
 The paint is the first thing a stranger sees. The second is the water-sellers, because the city has no river and few springs, and every street has a cistern with a stone lid and a seller beside it with a yoke of jars. The third comes after dark, when lamps move about on the roofs of the upper town and the city's astronomers go to work.
 
+## Politics {#present}
+
+Bazunel's council keeps its balance, and the coast's quarrels lean on it. Agents of other cities' guilds arrive with warrants the magistrates will not hear, and the newcomers' lanes of Zatturel fill. [[being-brshrskn|Abarash Rusakuni]], who sits for the shipwrights and patronizes the theaters, wants the [[affiliation-vezakuni|Vezakuni]] to charter the [[place-designyards|Design Yards]] as a trade of their own, free of the [[affiliation-corsairleg|Corsair League]], which owes his house its fees on years of galleys. The talk from Besikar of council seats that pass from head to heir would end the vote of the crafts and the academies on which the city's balance stands. On the bench [[being-tarrukeshkar|Tarruk Eshkarum]] says that [[being-ytlshpshtm|Yutalush Pushutum]]'s even hand is a refusal to take a side, and the city argues over whether it can afford to take none. A cartographer's chart of the channels was stolen from her rooms this winter, and a factor of the League, a broker of the Merchantry and a Helionite merchant who pays in Vylarian coin have all asked after it in the harbor taverns.
+
 ## The Quarters
 
 Bazunel is small enough to cross on foot in an hour, and each of its quarters looks like what it does.
@@ -65,7 +69,11 @@ Order in the streets rests on the houses and the guilds. A shopkeeper robbed in 
 
 The harbor inns stand above the taverns, and their rooms look out on the bay and smell of paint and tar. Their hosts ask which house stands surety for a guest's ship and charge accordingly. In winter, when the theaters are dark, the companies let their players' rooms to travelers, cheaply and with no questions. Zatturel lets rooms by the week to anyone who pays in coin, and its landlords do not write down names. A party with a letter to a house of the harbor lodges in that house's rooms above its warehouse, and its business is known on the quay by morning.
 
-## Hooks
+## History {#history}
+
+Bazunel's trading families grew rich under the empire as intermediaries of the eastern trade, and its old families held their seats on the council before the guilds came to the city, in the plain white houses of the upper town. The city became the Confederation's refuge by law: its council enrolls any stranger who asks to stay as a Resident, and its courts do not hear another city's guild warrant. Artists, free-thinkers, debtors with a grievance and fugitives from guild politics elsewhere have come under that law ever since, and much of the city's talent arrived that way.
+
+## Hooks {#hooks}
 
 - **The warrant.** An agent of a Besikar guild arrives with a warrant for a copyist living in Zatturel, and the magistrates refuse to hear it. He hires a party to bring the copyist aboard a ship lying outside the harbor, where the council's law does not reach.
 - **The dark stage.** A theater's patron has withdrawn in the middle of the season, and his name has been painted out over the stage. The company's manager wants to know why, before the other patrons hear of it, and wants a new patron found by the next play.

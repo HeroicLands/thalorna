@@ -30,6 +30,10 @@ By land a traveler comes down the valley road from the Alz woods, past mills and
 
 What strikes a stranger first is the white: the warehouse walls along the quays, limewashed every year, and the House's tower above them. The second is the noise, since the tally-men call their counts aloud and a bell on the pilots' station rings each turn of the tide.
 
+## Politics {#present}
+
+The House of Factors keeps Sazumun's order, and the order is under strain from below the headland. [[being-ashurazhitus|Ashuraz Hitusuni]] waits on a moneylender's charter from the [[affiliation-merazuni|Merazuni]] and gives dinners for its clerks, while the record [[being-pzsnkhdzm|Pazasan Khidizum]] kept of what leaves the Hitusuni warehouses untaxed has gone missing. The [[affiliation-freecaptains|Free Captains]] still hold the house's receipts for the war's prize cargoes. The timberwright [[being-zttyblnn|Zattuya Balinuni]] has been asked to mark next winter's whole cut of keel timber for one buyer, to the lengths of the [[affiliation-corsairleg|Corsair League]]'s galleys, and the League has ordered nothing. Three foreign merchantmen have stuck on the bar since spring with harbor pilots aboard, and the harbor guild has fined the pilots. Sazumun is [[being-zbzmjkdn|Zabuzum Jakuduni]]'s birthplace, and Ashuraz has offered him a cargo of Merchantry silk for the Amradi shore, which the captain has not come to Sazumun to hear.
+
 ## The Quarters
 
 - **The quays** line the north bank of the river mouth for a mile, and behind them stand the bonded warehouses, three and four floors high, with iron-barred doors and a seal on every lock. Most of them belong to the [[affiliation-hitusuni|Hitusuni]], the great house of the city. The south bank holds the shipyards and the timber basin.
@@ -64,7 +68,11 @@ Every quay, warehouse and market row in Sazumun belongs to a guild, and the guil
 
 The captains' inns along the quays keep the tide's hours, serve a meal whenever a ship comes in and post the tide-table by the door. The lodging houses round Jiramun are cheaper and louder, and their hosts find an interpreter for any tongue by the morning. A party with a letter to a factor of the slope lodges behind his white wall and eats at his table, and in one house on the slope that table is Teshuda's.
 
-## Hooks
+## History {#history}
+
+Sazumun's name is the toll's, and the city has always lived by what passes its quays. In the war the captains of the flotilla stored their prize cargoes in the Hitusuni warehouses under the house's seal, to be sold when the war was won, and when the most stubborn of those captains were outlawed the house kept the cargoes and the seals ([[lore-taruzelbetrayal|The Betrayal of the Revolution]]). The House of Factors has ruled the city absolutely since independence, and the Hitusuni have sat in its hall longer than any other house.
+
+## Hooks {#hooks}
 
 - **The black board.** A Khelathi captain whose name went up on the board this spring swears he broke no protocol, and nobody in the House will tell him which one he is supposed to have broken. He hires a party to find out before his crew drifts away to other ships.
 - **The interpreter.** A Dunhari trader in Jiramun hires a party to stand beside his interpreter during a sale, because he believes the interpreter is telling the buyer more than he is told to.

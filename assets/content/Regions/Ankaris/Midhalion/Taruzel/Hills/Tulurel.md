@@ -74,6 +74,14 @@ Two kinds of ruin stand in the hills. The forts of the Eastern Line are the newe
 
 The tribes carried the war's supplies over the hill roads, and on Nishurel the house of [[affiliation-balinuni|Balinuni]] promised them a share of the hill-road tolls for it once the war was won, by clasped hands and never in writing. The house counts an unwritten bargain as no debt, and the tribes count it as one. Every camp in the hill country knows the sum, and the Saliruni's elders say it at every sitting of the council. This season a Kudumel caravan master is offering a party double wages to take a Balinuni train over the Nishurel hill roads, and he will not say why the hill guides he usually hires have all refused.
 
+## Current Situation {#present}
+
+The hills are counting what the coast owes them. The Saliruni's guides will not take a [[affiliation-balinuni|Balinuni]] train over Nishurel's hill roads, and their councilors on Kudumel's council have stopped asking [[being-llmnblnn|Ellamuna Balinuni]] for the share. On Qalirel's pass road a new gate hangs below the third fort, kept by men who say they hold the road for the hills, and the [[affiliation-qazishuni|Qazishuni]] neither built it nor have broken it, while the caravan masters of Pashinar blame the hills for the toll. On Visizel the timberwright [[being-zttyblnn|Zattuya Balinuni]] wants a stand of oak on the [[affiliation-haduruni|Haduruni]] side of the boundary. At [[place-ralumar|Ralumar]], the Lawspeaker [Qatush Qazishuni]{.name data-type="being/npc"} still waits on the price the council named the Vezakuni for copying the lintels.
+
+## Hooks {#hooks}
+
+- **The Balinuni train.** A Kudumel caravan master offers a party double wages to take a train of [[being-llmnblnn|Ellamuna Balinuni]]'s over the Nishurel hill roads, and will not say why the guides refused it.
+
 ## See Also
 
 [[place-taruzelrgn|Taruzel Region]]

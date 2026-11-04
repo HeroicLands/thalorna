@@ -51,6 +51,15 @@ On a long stretch of the southern terraces above the shore, someone has set up r
 
 A veteran who ploughs one of the plots hires a party to find the proof that the plots were surveyed. The stewards of the admirals' family would pay a party better to find that they were not.
 
+## Current Situation {#present}
+
+Khamisar is a navy's island waiting for its festival with a quarrel on its south slope. The [[lore-fleetreview|Fleet Review]] is a month off, the whole of Yamuzel will be on the walls, and the veterans ploughing the marked plots on the southern terraces will not leave them. The admirals' family that leases the land wants them cleared first, the marines who would clear them are veterans' sons, and [[being-rzznpddn|Razzina Padduni]] of the Veterans' Quarter wants witnesses on the terraces when they come. On the ridge the signal towers log every traveler as they always do, and on the height of Yamuzel [[being-dlzrtndn|Delzuru Tanaduni]] counts votes for a League toll on the narrows.
+
+## Hooks {#hooks}
+
+- **The witnesses.** [[being-rzznpddn|Razzina Padduni]] wants a party with no stake in the plots on the terraces the morning the marines come, so that the Council hears an account it will believe.
+- **The stewards' price.** The stewards of the admirals' family that leases the slope offer a party better pay than any veteran can to show that the plots were never surveyed for anyone.
+
 ## See Also
 
 [[place-taruzelrgn|Taruzel Region]]
