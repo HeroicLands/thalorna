@@ -33,7 +33,7 @@ data:
       - level: 3
         title: Shaman
         description: >-
-          The zökhem, who went out alone into the deep desert for forty days and came back. Keeps the rites, reads the weather, heals, lays out the dead and witnesses oaths, goes bareheaded in every weather, and is not killed in a raid.
+          The zokhem, who went out alone into the deep desert for forty days and came back. Keeps the rites, reads the weather, heals, lays out the dead and witnesses oaths, goes bareheaded in every weather, and is not killed in a raid.
       - level: 4
         title: Elder Shaman
         description: >-
@@ -79,7 +79,7 @@ Between them lies the living steppe and the spirits (_oqlaq_) that move in it: t
 
 ## The Shaman
 
-A shaman (_zökhem_) is someone the sky has marked and the tribe has tested. The marks are few and plain: a rider struck by lightning who lives, a child who comes through a fever that killed the others in the tent, a herder whose dream of a storm arrives on the day he named. The tribe's shamans take in the one who is marked and teach what can be taught (the weather, the herbs, the words of the rites) for as long as it takes. Then the candidate goes out alone into the deep desert for forty days with very little water, and comes back or does not. [[being-rznshmrvrn|Razanash Mervaran]] of the [[affiliation-jbzrtrb|Jobizur]] went out at twenty-two, after a fever that nearly killed her, and is now the best-known healer and diviner in the south.
+A shaman (_zokhem_) is someone the sky has marked and the tribe has tested. The marks are few and plain: a rider struck by lightning who lives, a child who comes through a fever that killed the others in the tent, a herder whose dream of a storm arrives on the day he named. The tribe's shamans take in the one who is marked and teach what can be taught (the weather, the herbs, the words of the rites) for as long as it takes. Then the candidate goes out alone into the deep desert for forty days with very little water, and comes back or does not. [[being-rznshmrvrn|Razanash Mervaran]] of the [[affiliation-jbzrtrb|Jobizur]] went out at twenty-two, after a fever that nearly killed her, and is now the best-known healer and diviner in the south.
 
 The one who comes back is a shaman for life, and the work has four parts:
 

@@ -126,51 +126,51 @@ Look at them in that order. Then open the door.
 :::
 
 ::: {.verse form=ongelshar lang=oske work=ongelshar}
-[nashken talgh qesh pultem, öng sunash melkh tashol, oshurk ngolam achor.]{.direction}
+[nashken talgh qesh pultem, ong sunash melkh tashol, oshurk ngolam achor.]{.direction}
 
-pulkshal. palk. hülom./
-mukh mölkh tekh boikh achor larshen qesh dolk. molkh oshulk mukh shom shomem qesh dolk.
+pulkshal. palk. hulom./
+mukh malkh tekh boikh achor larshen qesh dolk. molkh oshulk mukh shom shomem qesh dolk.
 
-mukh dalghosk larsh qesh dolk, hülom qom./
-hülom ashal qolur tashül asharkh qesh um.
+mukh dalghosk larsh qesh dolk, hulom qom./
+hulom ashal qolur tashul asharkh qesh um.
 
 [sunash.]{.speaker} dalghosk shor sharkhal qesh um?
 
 [nashken.]{.speaker} mukh dalghosk larsh qesh dolk.
 
-aungem achor mukh auk oshkh achor larshen qesh dolk, öng mukh larshom shar qesh dolk./
-mukh achelk oshkh achor qom larshen qesh dolk, öng barkh oshark qom shar qesh dolk.
+aungem achor mukh auk oshkh achor larshen qesh dolk, ong mukh larshom shar qesh dolk./
+mukh achelk oshkh achor qom larshen qesh dolk, ong barkh oshark qom shar qesh dolk.
 
 enkor shaung aungem achor dalghosk targalk qesh targem, enkul mukh ghauk palkem qesh dolk./
-hülkh shor belkh, mukh molkh palkem qesh dolk.
+hulkh shor belkh, mukh molkh palkem qesh dolk.
 
-mukh ongel dulkhom ul borkh al belkh ul barkh öm bursh qesh dolk./
+mukh ongel dulkhom ul borkh al belkh ul barkh om bursh qesh dolk./
 melkh barkh asholk qom qesh sharem. enkor melkh qesh sharem, enkul ashum nargh melkh al qesh sharom.
 
-tsum achor sharqel nargh öm mülkh qom qesh sharqel./
-mülkh melkh qom qesh targor. achelk ghaukhar qom qesh um.
+tsum achor sharqel nargh om mulkh qom qesh sharqel./
+mulkh melkh qom qesh targor. achelk ghaukhar qom qesh um.
 
-qesh qesh qesh um. qösh qösh qesh um. qüsh qüsh qesh um./
-mukh mölkh achöl palkem qesh dolk. dülgh wung achor mülkh dulkh achöl qesh palkem./
-enkor ghaukhar melkh al sharam barkh qesh öm qesh shar, enkul melkh ghauk ul ashan qesh burshun.
+qesh qesh qesh um. qosh qosh qesh um. qush qush qesh um./
+mukh malkh achol palkem qesh dolk. dulgh wung achor mulkh dulkh achol qesh palkem./
+enkor ghaukhar melkh al sharam barkh qesh om qesh shar, enkul melkh ghauk ul ashan qesh burshun.
 
-mukh ul dökh ul dökh qesh larsh barkh, mukh qösh nölkhem./
-mokh qesh larsh barkh, mukh qösh nölkhem. tush pultam oshulk, mukh molkh qesh shar qesh dölk.
+mukh ul dokh ul dokh qesh larsh barkh, mukh qosh nolkhem./
+mokh qesh larsh barkh, mukh qosh nolkhem. tush pultam oshulk, mukh molkh qesh shar qesh delk.
 
 mukh pultem besk achor yoigh boirk qesh dolk./
-dulkh ul düsh öm mukh mölkh tashel pultem qesh dolk.
+dulkh ul dush om mukh malkh tashel pultem qesh dolk.
 
-hülq ul ong achor mukh tashult khaur qom ghaushem qesh dolk./
-mukh moqash qölkom tashal moiq öm palkem qesh dolk.
+hulq ul eng achor mukh tashult khaur qom ghaushem qesh dolk./
+mukh moqash qolkom tashal moiq om palkem qesh dolk.
 
-poich wung qesh shör. mukh poich qesh shör./
-ashalnargh ashum qesh shör. mukh melkh ul tashom shör qesh dolk.
+poich wung qesh khor. mukh poich qesh khor./
+ashalnargh ashum qesh khor. mukh melkh ul tashom khor qesh dolk.
 
 talgh besk achor dulkh qom bursh nargh molkh qesh paltur./
 enkor talgh besk melkh qesh palkem, enkul mukh melkh boirk qesh dolk.
 
 dalghom ul nargh tush lerkhash qesh shar, mukh molkh burq qesh dolk./
-mülkh molkh ul belkh qesh larsh. tekh shörom sharkhöl ashol qesh um.
+mulkh molkh ul belkh qesh larsh. tekh shorom sharkhol eshol qesh um.
 
 dalghom ul nargh lerkhash qom bursh dulkhom tulgh qom qesh targor./
 mukh molkh tulgh qom targor qesh dolk.
@@ -178,11 +178,11 @@ mukh molkh tulgh qom targor qesh dolk.
 borkhel burshang qesh shar. goich osharl qesh shar./
 osharl shar borkhel osharl auk oshkh achor qesh shar.
 
-targür ngolam achor turgel barkh ul achaukh./
+targur ngolam achor turgel barkh ul achaukh./
 mukh molkh tush sharem qesh dolk, ghauk melkh al bursh barkh melkh qesh larsh oshulk.
 
-molsh ul targelum achor qölkom qolkh ul qesh um./
-mukh molkh tashult targ qesh dolk. mukh palk molkh tashül qom paltam qesh dolk.
+molsh ul targelum achor qolkom qolkh ul qesh um./
+mukh molkh tashult targ qesh dolk. mukh palk molkh tashul qom paltam qesh dolk.
 
 qolkh achor yalgh barkh ghauk achor narghel qom qesh umgh.
 
@@ -194,33 +194,33 @@ shom al turgel ashark nargh qesh karem./
 mukh melkh ul narghel qom sharem qesh dolk. mukh melkh ul burshkh qom sharem qesh dolk./
 mukh karum mukh ul shom achor oshkol karem nargh al bursh qesh dolk. mukh karum melkh al oshkur bursh qesh dolk.
 
-auk nargh qom qesh karem. mukh molkh qesh shör./
+auk nargh qom qesh karem. mukh molkh qesh khor./
 mukh melkh al shom qom shomem qesh dolk. mukh shom achor melkh ul narghel qom shar qesh dolk.
 
 enkor wugh qesh larkhush, enkul mukh ghauk pultem qesh dolk./
-mukh molkh dulkh qomur, düsh, pultem öng larshen qesh dolk./
+mukh molkh dulkh qomur, dush, pultem ong larshen qesh dolk./
 mukh molkh pultem oshalk ashum nargh molkh tashalt targor qesh dolk.
 
 enkor ongel tsenghurk qesh um, enkul molkh qesh boirk./
 molkh oshulk oshark ongel qesh shar.
 
-enkor mukh ul pultesh qesh targ, enkul mukh shelkam qesh dalk, öng ghauk goich al qesh turg./
-mülkh «ukh.» yülkhar ghaukhar auk asholk tsum tashalt sharem nargh al qesh sharam. mukh molkh melkh al sharam qesh dolk./
+enkor mukh ul pultesh qesh targ, enkul mukh shelkam qesh dalk, ong ghauk goich al qesh turg./
+mulkh «ukh.» yulkhar ghaukhar auk asholk tsum tashalt sharem nargh al qesh sharam. mukh molkh melkh al sharam qesh dolk./
 mukh narghem al sharkhal qom sharam qesh dolk.
 
-mukh ul ursh ghol qolur qesh nölkhem. mukh ghauk qesh nölkhem./
-melkh mukh shomem barkh qesh pultem. melkh mukh shomush tashom achor qesh ghül.
+mukh ul ursh ghol qolur qesh nolkhem. mukh ghauk qesh nolkhem./
+melkh mukh shomem barkh qesh pultem. melkh mukh shomush tashom achor qesh ghel.
 
-enkor ghauk mukh ul qesh umgh, enkul mukh ongel auk oshkh achor shar qesh dolk, öng mukh molkh oshkur qom shar qesh dolk./
+enkor ghauk mukh ul qesh umgh, enkul mukh ongel auk oshkh achor shar qesh dolk, ong mukh molkh oshkur qom shar qesh dolk./
 mukh ul ongelshar barkh qesh targul.
 
-[nushang besk achor nashken wung achor qesh targukh öng qesh torg.]{.direction}
+[nushang besk achor nashken wung achor qesh targukh ong qesh torg.]{.direction}
 
 [nashken.]{.speaker} eshq mukh achalk qesh shar‼
 
 [sunash.]{.speaker}/
-pulkshal. palk. hülom./
-mukh mölkh tekh boikh achor larshen qesh dolk. molkh oshulk mukh shom shomem qesh dolk.
+pulkshal. palk. hulom./
+mukh malkh tekh boikh achor larshen qesh dolk. molkh oshulk mukh shom shomem qesh dolk.
 :::
 
 ## See Also

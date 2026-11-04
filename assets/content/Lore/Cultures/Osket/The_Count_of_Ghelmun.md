@@ -56,7 +56,7 @@ The black shelf, under the overhang, where the yaks go one and one./
 ..The black shelf.
 
 The scree below the long shelf./
-[qölkom]{.name data-type="being/npc" lang=oske}, with a load of copper, on the eleventh day of this season's second month. Seen.
+[qolkom]{.name data-type="being/npc" lang=oske}, with a load of copper, on the eleventh day of this season's second month. Seen.
 
 [Qolkel ties.]{.direction}
 
@@ -68,7 +68,7 @@ The scree below the long shelf./
 ..This is a new knot. Qolkel has it.
 
 The long shelf, two days of shelf, the ledge the road follows round the shoulder./
-[hülsh]{.name data-type="being/npc" lang=oske}, with a load of nothing, coming back, in the cold at the end of last season. Seen./
+[hulsh]{.name data-type="being/npc" lang=oske}, with a load of nothing, coming back, in the cold at the end of last season. Seen./
 [ghomse]{.name data-type="being/npc" lang=oske}, with two loads of indigo, in the first month of the year the bird circled the peak. Seen./
 [baidosk]{.name data-type="being/npc" lang=oske}, with a load of salt, at the closing, before I held the count. Told.
 
@@ -81,7 +81,7 @@ The long shelf, two days of shelf, the ledge the road follows round the shoulder
 
 The hail stage, above the shelf, where there is no water and the shelter is a wall of stones./
 [ghaulum]{.name data-type="being/npc" lang=oske}, with a load of wool, in the second month of a year my mother counted. Told./
-[hülkh]{.name data-type="being/npc" lang=oske}, with a load of salt, in the same month. Told./
+[hulkh]{.name data-type="being/npc" lang=oske}, with a load of salt, in the same month. Told./
 [nushang]{.name data-type="being/npc" lang=oske}, with a load of barley, on the same day. Told.
 
 [The household:]{.speaker} Kept.
@@ -113,23 +113,23 @@ That is theirs. Nobody of this road stopped on the col.
 ..Over the col we go down. The count goes down as the road does.
 
 The cold shelf, the first stage down, where the ice moves in the warm years./
-[khülom]{.name data-type="being/npc" lang=oske}, with a load of tin, in a year my mother counted. Told./
+[khulom]{.name data-type="being/npc" lang=oske}, with a load of tin, in a year my mother counted. Told./
 [aungur]{.name data-type="being/npc" lang=oske}, with a load of salt, in the year before that. Told.
 
 [The household:]{.speaker} Kept.
 
-..The ice moves. In the year of Khülom it moved a man's length in a night,/
+..The ice moves. In the year of Khulom it moved a man's length in a night,/
 ..and my mother's mother said at the closing that the shelf had moved and where,/
 ..and the cord has it, and I walk the shelf a man's length further from the ice than she did.
 
 The two waters, where the streams come in from both sides./
-[hülsh]{.name data-type="being/npc" lang=oske}, my sister's son, with a load of iron, coming back over to us, on the last day of this season. Seen.
+[hulsh]{.name data-type="being/npc" lang=oske}, my sister's son, with a load of iron, coming back over to us, on the last day of this season. Seen.
 
 [Qolkel ties.]{.direction}
 
 [The household:]{.speaker} Kept.
 
-..There are two named Hülsh at this closing. One is on the long shelf and one at the two waters./
+..There are two named Hulsh at this closing. One is on the long shelf and one at the two waters./
 ..The wind is one word and two men had it. Qolkel ties them apart./
 ..He was coming back with the iron. The iron is here.
 
@@ -179,7 +179,7 @@ The far descent, where the road comes down to the edge-towns and is not ours./
 Nobody stopped there.
 
 Meghadvar. Ghelmun./
-Three new knots. Qölkom on the scree. A man of the caravan on the steps. Hülsh at the two waters./
+Three new knots. Qolkom on the scree. A man of the caravan on the steps. Hulsh at the two waters./
 The road is shut. The count is tied./
 Qolkel, put it in the store with the others. Bring it out at the opening.
 
@@ -187,156 +187,156 @@ Qolkel, put it in the store with the others. Bring it out at the opening.
 :::
 
 ::: {.verse form=yoighboik lang=oske work=ghelmunyoighboik}
-[aungum, ghelmun ul ghaukdökh, khaurel alk qesh shar. qolkel wugh öm melkh tashel qesh shelkam.]{.direction}
+[aungum, ghelmun ul ghaukdokh, khaurel alk qesh shar. qolkel wugh om melkh tashel qesh shelkam.]{.direction}
 
-hülq ul ghauk. ghelmun./
-tekh ghauk qesh um, öng tekh yoigh molkh qesh palkem./
-mokh besk qesh shar. mokh tush targukh nargh öng dulkh öng ong qesh shar./
-mokh shörom qesh shar. enkor mokh sharash qesh shar, enkul qolkel qom qesh boikem.
+hulq ul ghauk. ghelmun./
+tekh ghauk qesh um, ong tekh yoigh molkh qesh palkem./
+mokh besk qesh shar. mokh tush targukh nargh ong dulkh ong eng qesh shar./
+mokh shorom qesh shar. enkor mokh sharash qesh shar, enkul qolkel qom qesh boikem.
 
 [goich.]{.speaker} eshq mukh qesh shar‼
 
-oshurk ngolam, tush ashal qolur qesh targul öng ghauk mülkh ul qesh um./
+oshurk ngolam, tush ashal qolur qesh targul ong ghauk mulkh ul qesh um./
 ashum nargh tush qesh targukh.
 
-achalk molsh, ngolam tashül auk ong./
+achalk molsh, ngolam tashul auk eng./
 ashum nargh tush qesh targukh.
 
-qursh wung, qölkom tashal, tush poich auk öng auk qesh targ./
-shaung, tsörkil ul dulkh öm, ghauk shomem achor, mokh ul dökh ul oshurk oshorl achor, qesh targukh./
-molshel, tsaul ul dulkh öm, achelk oshurl achor, tukh oshorl oshulk, qesh targukh.
+qursh wung, qolkom tashal, tush poich auk ong auk qesh targ./
+shaung, tsorkil ul dulkh om, ghauk shomem achor, mokh ul dokh ul oshurk oshorl achor, qesh targukh./
+molshel, tsaul ul dulkh om, achelk oshurl achor, tukh oshorl oshulk, qesh targukh.
 
 [goich.]{.speaker} ghauk qesh palkem.
 
-..wung qölkom tashal alk qesh targ, öng hülum qölkom alk qesh pultilk./
-..tukh qursh wung qesh um. mokh besk qolkel ul shörom sharkhöl oshkur qesh shar./
+..wung qolkom tashal alk qesh targ, ong hulum qolkom alk qesh pultilk./
+..tukh qursh wung qesh um. mokh besk qolkel ul shorom sharkhol oshkur qesh shar./
 ..qursh wung.
 
 daulk wung achish golkash./
-qölkom, qarsh qülk ul dulkh öm, tekh osharl ul achelk oshurl ul ong autsh auk achul achor, qesh targukh.
+qolkom, qarsh qulk ul dulkh om, tekh osharl ul achelk oshurl ul eng autsh auk achul achor, qesh targukh.
 
 [qolkel qesh boikem.]{.direction}
 
 [goich.]{.speaker} ghauk qesh palkem.
 
 ..mokh ongel qesh shar. ghauk qesh shomem./
-..ongal achor qölk qesh targem, öng ongel molkh qom qesh shar./
-..dulkh melkh öm qesh targ. poich tulgh qesh turg./
-..tekh daurel boik qesh um. qolkel nö molkh qesh um.
+..ongal achor qolk qesh targem, ong ongel molkh qom qesh shar./
+..dulkh melkh om qesh targ. poich tulgh qesh turg./
+..tekh daurel boik qesh um. qolkel no molkh qesh um.
 
-daulk wung, aukh ong ul wung, qolkh ul palghal achush./
-hülsh, ashum ul dulkh öm, torg achor, khülum achor, tekh osharl oshalk ul targulum achor, qesh targukh./
-ghomse, tulosk ul aukh dulkh öm, shaung dalghosk targalk targem oshorl ul achalk oshurl achor, qesh targukh./
-baidosk, tsörkil ul dulkh öm, osharl ul targulum achor, mokh yoighboik palkem oshalk, qösh targukh.
+daulk wung, aukh eng ul wung, qolkh ul palghal achush./
+hulsh, ashum ul dulkh om, torg achor, khulum achor, tekh osharl oshalk ul targulum achor, qesh targukh./
+ghomse, tulosk ul aukh dulkh om, shaung dalghosk targalk targem oshorl ul achalk oshurl achor, qesh targukh./
+baidosk, tsorkil ul dulkh om, osharl ul targulum achor, mokh yoighboik palkem oshalk, qosh targukh.
 
 [goich.]{.speaker} ghauk qesh palkem.
 
 ..shaung dalghosk targalk targem oshorl achor, mokh dulkhom auq ongel goich achor qesh palkem./
 ..aul ongel achor shaung qom qesh um. mokh «ghauk qesh shomem.» qesh shar./
-..ghomse targ ul aul ong achor daulk wung achor qesh um./
-..shaung ul barkh mokh qom qesh shar. mokh ongel öng wung öng dulkh qesh shar.
+..ghomse targ ul aul eng achor daulk wung achor qesh um./
+..shaung ul barkh mokh qom qesh shar. mokh ongel ong wung ong dulkh qesh shar.
 
-nushang besk, wung tashül, tush molsh qom qesh um, öng qölk ul shomesh enkesh qesh um./
-ghaulum, nashöl ul dulkh öm, mokh ul dökh boirk oshorl ul achelk oshurl achor, qösh targukh./
-hülkh, tsörkil ul dulkh öm, asharkh oshurl achor, qösh targukh./
-nushang, tsaul ul dulkh öm, asharkh ong achor, qösh targukh.
+nushang besk, wung tashul, tush molsh qom qesh um, ong qolk ul shomesh enkesh qesh um./
+ghaulum, nashol ul dulkh om, mokh ul dokh boirk oshorl ul achelk oshurl achor, qosh targukh./
+hulkh, tsorkil ul dulkh om, asharkh oshurl achor, qosh targukh./
+nushang, tsaul ul dulkh om, asharkh eng achor, qosh targukh.
 
 [goich.]{.speaker} ghauk qesh palkem.
 
-..nushang besk achor auq nargh auk ong achor. mokh ul dökh mölkh yalghum ul achöl targulum achor qesh shar,/
-..öng melkh ul dökh mölkh melkh al qösh bursh. tukh oshorl nushang besk ul qölk ul shomesh dalgh qösh umgh,/
-..tekh goich ul ursh nargh achöl nargh al auk qölk qösh belghom, öng tekh shomesh tashol ghauk qesh shelem.
+..nushang besk achor auq nargh auk eng achor. mokh ul dokh malkh yalghum ul achol targulum achor qesh shar,/
+..ong melkh ul dokh malkh melkh al qosh bursh. tukh oshorl nushang besk ul qolk ul shomesh dalgh qosh umgh,/
+..tekh goich ul ursh nargh achol nargh al auk qolk qosh belghom, ong tekh shomesh tashol ghauk qesh shelem.
 
-talgh besk, tush ursh nargh poich alk dulkh qesh burq, öng ursh nargh molkh molkhur achor talgh qesh paltur./
-dulkhom ul garum ursh nargh, ashalnargh ul shalum ul dulkh öm, melkh ul molkhur achor, tekh osharl ul achelk oshurl ul ong aupk achul achor, qesh targukh.
+talgh besk, tush ursh nargh poich alk dulkh qesh burq, ong ursh nargh molkh molkhur achor talgh qesh paltur./
+dulkhom ul garum ursh nargh, ashalnargh ul shalum ul dulkh om, melkh ul molkhur achor, tekh osharl ul achelk oshurl ul eng aupk achul achor, qesh targukh.
 
 [qolkel qesh boikem.]{.direction}
 
 [goich.]{.speaker} ghauk qesh palkem.
 
-..melkh ul narghel dulkhom ul qesh um. molkh dulkhom öm tulgh qesh targ./
+..melkh ul narghel dulkhom ul qesh um. molkh dulkhom om tulgh qesh targ./
 ..talgh besk achish melkh dulkh tekh goich ul nargh al qom qesh bursh./
-..melkh molkh talgh qesh paltur, öng talgh besk melkh qesh palkem, öng dulkh talgh qesh turg./
-..dulkhom nö dulkh qesh um. ghauk nö nargh qesh um.
+..melkh molkh talgh qesh paltur, ong talgh besk melkh qesh palkem, ong dulkh talgh qesh turg./
+..dulkhom no dulkh qesh um. ghauk no nargh qesh um.
 
-dalghosk tashal besk, tush mülkh hülkh qesh larsh./
-ashum nargh tush qesh targukh. mülkh ongel tush qesh shar.
+dalghosk tashal besk, tush mulkh hulkh qesh larsh./
+ashum nargh tush qesh targukh. mulkh ongel tush qesh shar.
 
-tsum. dalghom tush qesh um, öng dalghom ul nargh lerkhash qesh shar./
-molkh mölkh ul qesh um. tekh ghauk ul ashum nargh tsum achor qesh targukh.
+tsum. dalghom tush qesh um, ong dalghom ul nargh lerkhash qesh shar./
+molkh malkh ul qesh um. tekh ghauk ul ashum nargh tsum achor qesh targukh.
 
 [goich.]{.speaker} tsum tashalt.
 
-..tsum tashalt mülkh tulgh qesh targ. yoighboik ghauk öm tulgh qesh targ.
+..tsum tashalt mulkh tulgh qesh targ. yoighboik ghauk om tulgh qesh targ.
 
-khülarsh wung, achalk tulgh besk, tush ghaular oshorl achor khülom qesh targem./
-khülom, qersh qülk ul dulkh öm, mokh ul dökh boirk oshorl achor, qösh targukh./
-aungur, tsörkil ul dulkh öm, tukh oshorl oshalk, qösh targukh.
+khularsh wung, achalk tulgh besk, tush ghaular oshorl achor khulom qesh targem./
+khulom, qersh qulk ul dulkh om, mokh ul dokh boirk oshorl achor, qosh targukh./
+aungur, tsorkil ul dulkh om, tukh oshorl oshalk, qosh targukh.
 
 [goich.]{.speaker} ghauk qesh palkem.
 
-..khülom qesh targem. khülom ul oshorl achor molkh auk ung achor nargh ul daulk qösh targem,/
-..öng mokh ul dökh ul dökh targulum achor wung ul targem öng molkh ul tashom qösh shar,/
-..öng wugh nö molkh qesh um, öng mokh wung khülom alk melkh achur nargh ul daulk targür qesh pultem.
+..khulom qesh targem. khulom ul oshorl achor molkh auk ing achor nargh ul daulk qosh targem,/
+..ong mokh ul dokh ul dokh targulum achor wung ul targem ong molkh ul tashom qosh shar,/
+..ong wugh no molkh qesh um, ong mokh wung khulom alk melkh achur nargh ul daulk targur qesh pultem.
 
-aukh molshel, tush molshel tolkh öng tulkh alk qesh turg./
-hülsh, mokh ul ürsh ghol ul dalum, qursh qülk ul dulkh öm, mülkh al torg achor, tekh osharl ul oshurk ong achor, qesh targukh.
+aukh molshel, tush molshel tolkh ong tulkh alk qesh turg./
+hulsh, mokh ul arsh ghol ul dalum, qursh qulk ul dulkh om, mulkh al torg achor, tekh osharl ul oshurk eng achor, qesh targukh.
 
 [qolkel qesh boikem.]{.direction}
 
 [goich.]{.speaker} ghauk qesh palkem.
 
-..tekh targulum achor aukh hülsh qesh um. auk daulk wung achor, auk aukh molshel achor./
-..hülsh auk narghel qesh um, öng aukh ursh nargh nö molkh qesh um. qolkel mölkh achöl qesh boikem./
-..melkh qursh qülk öm qesh torg. qursh qülk tash qesh um.
+..tekh targulum achor aukh hulsh qesh um. auk daulk wung achor, auk aukh molshel achor./
+..hulsh auk narghel qesh um, ong aukh ursh nargh no molkh qesh um. qolkel malkh achol qesh boikem./
+..melkh qursh qulk om qesh torg. qursh qulk tash qesh um.
 
-targür golkash, daulk golkash./
-qolash, tsörkil ul dulkh öm, osharl ul targulum achor, mokh ul dökh ul dökh yoighboik palkem ul achalk oshorl achor, qösh targukh./
-golkash, tsaul ul dulkh öm, tukh oshorl ul achelk oshurl achor, qösh targukh.
-
-[goich.]{.speaker} ghauk qesh palkem.
-
-tash mokh ul dökh ul dökh qösh targel.
-
-..melkh oshalk wugh uchom ul qösh um./
-..uchom tekh goich ul wugh qösh palkem. shom shomush osharl achor, melkh ul auq autsh oshorl achor, melkh khülashar qösh umgh öng qösh yolghen,/
-..öng melkh wugh oshark nargh al qom qösh bursh./
-..wugh rul ul shomum achor qesh um. molkh oshulk ashum nargh molkh qösh wughlarsh. ashum nargh molkh wughlarsh qesh dülk.
-
-[goich.]{.speaker} mülkh molkh qom qesh wughlarsh.
-
-..tukh oshorl tekh goich ghauk tashalt dulkhom qom qösh targor./
-..mokh ul dökh ul dökh öng tekh goich ul ursh nargh shom shomem osharl achor düsh, ashum dulkh öm, molkh qösh pultem,/
-..oshurk ngolam alk targür tulgh besk al öng torg, besk achöl, öng molkh qösh larshen,/
-..öng ghauk ul larshom tekh oshark yoighboik qesh um. mölkh qüsh targukh.
-
-daulk wung. khülom achor moiq, öng moiq tashül palk ul körk. nargh qüsh targukh./
-nushang besk. qölk ul shomesh achor tsörkil ul dulkh, poich qomur. nargh qüsh targukh./
-qursh wung. poich ul kharq ul pats, öng hülum ashan tashalt. nargh qüsh targukh./
-talgh besk. daurul qursh qülk ul pulkshal. nargh qüsh targukh./
-khülarsh wung. aukh nargh, wung tashal, achöl tashel, dulkh ul shörom qomur. mölkh qüsh targukh.
+targur golkash, daulk golkash./
+qolash, tsorkil ul dulkh om, osharl ul targulum achor, mokh ul dokh ul dokh yoighboik palkem ul achalk oshorl achor, qosh targukh./
+golkash, tsaul ul dulkh om, tukh oshorl ul achelk oshurl achor, qosh targukh.
 
 [goich.]{.speaker} ghauk qesh palkem.
 
-..achelk pultom ul larkhem tekh ashun qösh um./
-..ghauk asholk qüsh palkem. mülkh molkh ghauk öm qüsh shör. mülkh mölkh narghel öm qom qesh shör./
-..mokh ul dökh ul dökh larkhem barkh qösh boikem, öng wugh melkh ul boik alk oshkur qesh targel.
+tash mokh ul dokh ul dokh qosh targel.
+
+..melkh oshalk wugh uchom ul qosh um./
+..uchom tekh goich ul wugh qosh palkem. shom shomush osharl achor, melkh ul auq autsh oshorl achor, melkh khulashar qosh umgh ong qosh yolghen,/
+..ong melkh wugh oshark nargh al qom qosh bursh./
+..wugh rul ul shomum achor qesh um. molkh oshulk ashum nargh molkh qosh wughlarsh. ashum nargh molkh wughlarsh qesh dulk.
+
+[goich.]{.speaker} mulkh molkh qom qesh wughlarsh.
+
+..tukh oshorl tekh goich ghauk tashalt dulkhom qom qosh targor./
+..mokh ul dokh ul dokh ong tekh goich ul ursh nargh shom shomem osharl achor dush, ashum dulkh om, molkh qosh pultem,/
+..oshurk ngolam alk targur tulgh besk al ong torg, besk achol, ong molkh qosh larshen,/
+..ong ghauk ul larshom tekh oshark yoighboik qesh um. malkh qush targukh.
+
+daulk wung. khulom achor moiq, ong moiq tashul palk ul kork. nargh qush targukh./
+nushang besk. qolk ul shomesh achor tsorkil ul dulkh, poich qomur. nargh qush targukh./
+qursh wung. poich ul kharq ul pats, ong hulum ashan tashalt. nargh qush targukh./
+talgh besk. daurul qursh qulk ul pulkshal. nargh qush targukh./
+khularsh wung. aukh nargh, wung tashal, achol tashel, dulkh ul shorom qomur. malkh qush targukh.
+
+[goich.]{.speaker} ghauk qesh palkem.
+
+..achelk pultom ul larkhem tekh ashun qosh um./
+..ghauk asholk qush palkem. mulkh molkh ghauk om qush khor. mulkh malkh narghel om qom qesh khor./
+..mokh ul dokh ul dokh larkhem barkh qosh boikem, ong wugh melkh ul boik alk oshkur qesh targel.
 
 achelk pultom oshalk./
-..mölkh ghauk achor qüsh um. achöl besk nö mölkh qüsh um. enkh mokh nö mölkh qom qesh um, mokh mölkh qom qesh shar./
-..shom shomem osharl achor, mülkh dulkh öm achöl besk achor mölkh tashel qesh pultem./
-..tekh öm mülkh mölkh al qesh turgel.
+..malkh ghauk achor qush um. achol besk no malkh qush um. enkh mokh no malkh qom qesh um, mokh malkh qom qesh shar./
+..shom shomem osharl achor, mulkh dulkh om achol besk achor malkh tashel qesh pultem./
+..tekh om mulkh malkh al qesh turgel.
 
-[qolkel wugh qom qesh boikem öng molkh qesh palkem, öng goich nölkur qesh um.]{.direction}
+[qolkel wugh qom qesh boikem ong molkh qesh palkem, ong goich nolkur qesh um.]{.direction}
 
-qolesh ul besk, targür tulgh besk al./
+qolesh ul besk, targur tulgh besk al./
 ashum nargh tush qesh targukh.
 
-targür tulgh besk, tush ghauk ashalnargh ul shomel al tulgh qesh targ, öng mülkh ul qom qesh um./
+targur tulgh besk, tush ghauk ashalnargh ul shomel al tulgh qesh targ, ong mulkh ul qom qesh um./
 ashum nargh tush qesh targukh.
 
-hülq ul ghauk. ghelmun./
-auq daurel boik. golkash achor qölkom. talgh besk achor dulkhom ul nargh. aukh molshel achor hülsh./
+hulq ul ghauk. ghelmun./
+auq daurel boik. golkash achor qolkom. talgh besk achor dulkhom ul nargh. aukh molshel achor hulsh./
 ghauk qesh shomush. yoighboik qesh boikem./
 qolkel, eshq mukh molkh rul ul shomum achor qesh paltam‼ ghauk shomem achor eshq mukh molkh qesh paltur‼
 

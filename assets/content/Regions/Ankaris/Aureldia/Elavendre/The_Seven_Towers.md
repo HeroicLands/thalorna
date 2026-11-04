@@ -129,26 +129,26 @@ vyste vennas onsaa evi ovaikke sorkandǎ
 
 evatte onsaa ulpes ovǔu ulpes ehii nuuvatos/
 .lemmes ehii teipan ulpes onsa ennos ehii sennevi onsa/
-halte onsaa seipan leësy sorkanda somarriho/
+halte onsaa seipan leesy sorkanda somarriho/
 .rappan lanteppi teipan pelpe onsa polpeho/
 sattai aulira ukken roselo evi oltarneho/
 .sattai onsa lonku ilevaho erme/
 ylpi ehii ileva auliraho ahi evatte ehii sennave/
-.ahi meëve ehii ileva sorkandaho
+.ahi meeve ehii ileva sorkandaho
 
 halte onsaa ralti olvatte ralti aiva/
 .ressa ralti ralti salpuho virnis onsa liseri onsa/
-aulten ralti salpu vennas leësy ahi vaukka evette oluho/
-.holdi leësy holdi leësy somarriho aulira onsaa somarriho/
-ahi maskari ehii ahi meëve ehii onsa maskari lonku aiva/
+aulten ralti salpu vennas leesy ahi vaukka evette oluho/
+.holdi leesy holdi leesy somarriho aulira onsaa somarriho/
+ahi maskari ehii ahi meeve ehii onsa maskari lonku aiva/
 .luuro ehii ilnava ahi velpe ehii olnaro/
-alte setty ehii aulten sennave eso leësyhe hissel ehii/
+alte setty ehii aulten sennave eso leesyhe hissel ehii/
 .ahi eho aldis tellame hisseltos ehiiho
 
 irpa melke sorkandaho/
 .osotos irnarsa iltettu/
 setty irtalmelke tirvaliho vaukka onsa evette/
-.irtal evette irtalleësyhe remis onsa ehii ulsen/
+.irtal evette irtalleesyhe remis onsa ehii ulsen/
 ravatto ultas tirvaliho ahi velpe onsa/
 .tupe nysse vennas melke nysse vennas onsaa
 
@@ -161,10 +161,10 @@ erni ehii sennai eilava ennos taumel irnanno vennas/
 .yinse ehii erme ahi hessave ehii ervu
 
 evi eho sytte/
-.ulpes sytte seipan leësyhe sendeppi eltes/
-irna sytte maulpe vennas aldis holdi leësy issalteho/
+.ulpes sytte seipan leesyhe sendeppi eltes/
+irna sytte maulpe vennas aldis holdi leesy issalteho/
 .luuro sytte roselo ahi saltai lirne onsaa seltoho/
-.sannai irnanno vennas onsaa hiakke vennas irtalleësyhe/
+.sannai irnanno vennas onsaa hiakke vennas irtalleesyhe/
 ahi niltu koldi oso ovanne sytteny/
 .evanni ehii irnanno vennas ilte vandel onsaa erni onsaa
 
@@ -173,7 +173,7 @@ irtal kastaikko aunekkeho nalduho tunes/
 tenvas onsaa ilte ahi ertai rukke iha/
 .ahi sahke onsaa tahke rukke aurannos/
 tennai ehii ernirsa aume onsa/
-.ahi eho lirne sorkandaho roselo oso meëli auliraho/
+.ahi eho lirne sorkandaho roselo oso meeli auliraho/
 ahi herrai onsaa kerrai aume onsaa intiso taltai uttes onsaa/
 .taltai karnava onsǎa
 

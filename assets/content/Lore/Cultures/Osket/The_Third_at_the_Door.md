@@ -1,6 +1,6 @@
 ---
 shortcode: thirddoor
-name: {full: The Third at the Door, oske: [achilk shomöl]}
+name: {full: The Third at the Door, oske: [achilk shomol]}
 type: lore
 subType: literature
 description: "The Tsokhar store-talk of a short winter, told by a woman who was a child at the hearth that year: the drover who wintered at the door every year and was fed again, the hearth-kin whose roof fell, the hand-measure of the store, and the third who came in the storm, whom the warden did not open to and did not name, and what the drover did that night, which the hearth has never spoken of to him."
@@ -15,7 +15,7 @@ data:
 # terran_analog: "The hospitality tales of the high Caucasus, in which the host's law to a guest outranks blood and the outcast is the one exception; the winter-store tales of herding peoples; the folktale of three arrivals at a door. Departs: the third is not a god in disguise, the host keeps the rule against her own blood and is not rewarded for it, and the one who breaks the deadlock is a stranger the rule does not bind."
 ---
 
-**The Third at the Door**, _Achilk shomöl_, is store-talk of [[place-tsokhar|Tsokhar]], told at the fire in the closed months, and it is told there more than most because it happened there, at a hearth that still stands. It is a telling of the door, the one rule of the [[lore-osketclt|Osket]] that lowlanders find entirely legible: whoever reaches a door is fed and housed, without payment and without exception, except the Roadless. Its warden keeps the rule through a winter when the store will not stretch, against a lowlander who has eaten at her door for years and against her own blood, and what breaks the night open is done by the one person at the hearth the rule does not bind.
+**The Third at the Door**, _Achilk shomol_, is store-talk of [[place-tsokhar|Tsokhar]], told at the fire in the closed months, and it is told there more than most because it happened there, at a hearth that still stands. It is a telling of the door, the one rule of the [[lore-osketclt|Osket]] that lowlanders find entirely legible: whoever reaches a door is fed and housed, without payment and without exception, except the Roadless. Its warden keeps the rule through a winter when the store will not stretch, against a lowlander who has eaten at her door for years and against her own blood, and what breaks the night open is done by the one person at the hearth the rule does not bind.
 
 The telling below is [Belkhat]{.name data-type="being/npc"}'s, of the hearth of [Burnakh]{.name data-type="affiliation/lineage"} at Tsokhar, who was a child at that hearth in that winter and tells it to the hearth's own children. It is told among the hearth with no stranger at the fire. Belkhat says, as the tongue requires, what she saw herself, what her grandmother the warden told her, and what she does not know, and the hearth's children are taught to hear the three apart. The third at the door is not named in it. The hearth that tells it does not say his name at the door or anywhere else.
 

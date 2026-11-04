@@ -316,7 +316,7 @@ lonsi evesi vitteltos iha teipannuho lonsi lirne ehiitos kuse onsa/
 setty onsa mavisa setty onsa uulse roselo rauttu aume esoho/
 .ihatos luuro ehii iha ossendaho mavisa luuro ehii onsa ummes ossendaho oso lonsi evesi ahi eho onsa eso evesi/
 ovuu oso tenvas melketos iha teipannuho aukkenni ehii ovuu kelsa ovuu iha ennos ummes/
-.leëvi ovuu ahi aulten onsa iltettu lysse ehiiho oso ahi aulten onsa
+.leevi ovuu ahi aulten onsa iltettu lysse ehiiho oso ahi aulten onsa
 
 entel selkorota sinalo ahi selnavi onsa/
 .senval aulveira lirne oso selkorota/
@@ -384,36 +384,36 @@ vaukka kilpe vittel ulpanneho/
 .vaukka kilpe vittelo ahi horpe lirne
 
 ahi lemmes lirne haulonna sipes oso ahi onsatos eho ahi aunekke tevanni iha/
-.sattai kinsatti hallesinto issalte leësy vennas korpe onsa onsaa/
+.sattai kinsatti hallesinto issalte leesy vennas korpe onsa onsaa/
 sattai onsa seltoho nuomiho aume onsa alkeno/
-.sattai onsa ummes leësy senval onsa aunekke issalte korpe onsa onsa esoho/
-ihatos leësy oso ulpes olkai onsa ulsen hyppe lertal ervu/
-.evi suldinno oso irtal leësyhe lonsi onsa ardas aldevano/
-kuse hirkel oso seëlis senvai palmiso evi onsa rennu tyltete onsa/
-.korpe lirne leësy sattai onsa kuse lannairsa oso vaukka onsa uttes elniso/
-evi raakke leësy lannairsa entel sattai lirne onsa ervu raakke iha aulten sennave/
-.ukken elnerinu leësy ukken onsa nelmavi onsa ennakke naltumaldika leësy vennas/
-eho leësy ilte tovaho evatte kinsatti sipes tovaho telvanita onsa lanteppi/
-.leësy ryssehe oso ressa suldinno vennas aunekketos/
-leësy harkel ulnavaho oso lonsi peravi aulditos/
-.leësy melkeho oso irna ilsetti vennas lemmes suldinno vennas/
-leësy aldesseho oso ahi sattai lirne korpe onsa onsa alte/
-.leësy oso sannai ulvas vennas leësy sallaisa polpetos/
-leësy vainessatos aulten onsa sattai onsa onsa lertal ummes/
+.sattai onsa ummes leesy senval onsa aunekke issalte korpe onsa onsa esoho/
+ihatos leesy oso ulpes olkai onsa ulsen hyppe lertal ervu/
+.evi suldinno oso irtal leesyhe lonsi onsa ardas aldevano/
+kuse hirkel oso seelis senvai palmiso evi onsa rennu tyltete onsa/
+.korpe lirne leesy sattai onsa kuse lannairsa oso vaukka onsa uttes elniso/
+evi raakke leesy lannairsa entel sattai lirne onsa ervu raakke iha aulten sennave/
+.ukken elnerinu leesy ukken onsa nelmavi onsa ennakke naltumaldika leesy vennas/
+eho leesy ilte tovaho evatte kinsatti sipes tovaho telvanita onsa lanteppi/
+.leesy ryssehe oso ressa suldinno vennas aunekketos/
+leesy harkel ulnavaho oso lonsi peravi aulditos/
+.leesy melkeho oso irna ilsetti vennas lemmes suldinno vennas/
+leesy aldesseho oso ahi sattai lirne korpe onsa onsa alte/
+.leesy oso sannai ulvas vennas leesy sallaisa polpetos/
+leesy vainessatos aulten onsa sattai onsa onsa lertal ummes/
 [.\[…\]]{lang=zxx}/
-leësy sipes oso sannai aldis mollu ulnavaho korpe onsa onsaa velkuho/
+leesy sipes oso sannai aldis mollu ulnavaho korpe onsa onsaa velkuho/
 .ihatos sattai ulkas velkuho senval onsa elnis oso ulpes onsa/
 nevai onsa ahi rappan aunekke patten onsa ninteho evatte onsa onsa ennedhi/
 .kelsa ehii ennedhi uulse lirnetos oso sattai suldinno vennas nervalo tupe ehii onsa/
-erni suldinno rennu vennas erni rennu korpersa leësy leëvi onsa korpersaho/
+erni suldinno rennu vennas erni rennu korpersa leesy leevi onsa korpersaho/
 .evatte suldinno vennas onsaa rennu vennas surnai/
-onsa aukkessa hallesi sattai onsa leësy vennas ummes hallesi sennaveho/
+onsa aukkessa hallesi sattai onsa leesy vennas ummes hallesi sennaveho/
 .korpe onsa onsaa aulten sennaveho korpe onsa onsaa naukkistoho evatte onsa aukkessa kuse kilte/
 evi roselo rauttu aukkessa tyltete onsa uttes elnis/
 .kilteta onsa eso evatte onsa kilni ummes unturoho mavisa nisyl onsa kilteta onsa ummes unturoho
 
 kinsatti/
-.kinsatti oso sattai leësy vennas korpe onsaa/
+.kinsatti oso sattai leesy vennas korpe onsaa/
 vaukka kilpe vittel ulpanneho/
 .vaukka kilpe vittelo ahi horpe lirne
 
@@ -422,7 +422,7 @@ eho kelkasi aunekke polpeho oso pelvanni melke aulditos/
 vittelo kalpe iha selpi kelkasi unturoho ulpes isketti onsa aumelo/
 .luuro kelkasitta nuominto kelkasi paval/
 lonsi onsa nuomiho oso nuominto iltatti kuse kalten/
-.leëvi onsa kelkasi aumel hepyhe luuro onsa melkeho isketti aldevano/
+.leevi onsa kelkasi aumel hepyhe luuro onsa melkeho isketti aldevano/
 serdattota melke irpa onsa irpa onsa selleva isketti ralti/
 .veltu onsa kalten eirandi leval onsa talkevita onsa onsa lalke/
 tunes tenvas aukkessa vennas kuse tolka vennas/
@@ -432,7 +432,7 @@ tenvas lorrami aukkessa oltandiho evatte onsa sennevi onsa veltu onsa onsaa tolk
 ahi luuro onsa onsa autemelo ahi ellavita onsa onsa evatte onsa iha ahi lonsi onsa/
 .autemelo naukki onsa uulni evatte lirne lellavi onsa uulni autemelo/
 evi nalveri onsa iha evi onsa nemma oso evatte nalveri onsa iha/
-.unturoho ilte ahi vaval onsa roselo pemi leëvi onsa polpeho roselo pemi/
+.unturoho ilte ahi vaval onsa roselo pemi leevi onsa polpeho roselo pemi/
 uulse rosel pemi paval onsa ahi evatte onsa onsa veltu onsa kalten/
 .kelkasi onsa sirne onsa sirne kelkasi irpa ilte sipestos aurannos
 
@@ -450,7 +450,7 @@ toimu onsa ahi ilte onsa teipannu sipes/
 ihatos sirneta onsaa onsa sulmeho oso onsa aukkessa sennave vandel onsa/
 .vandel onsa kuse aldis evette mavisa nysse oso sennevi sirne/
 tupe onsa tevanni ilte onsa onsa erdavi onsa aimetti ellun sytte/
-.entel lellavi nyke polpeho tenvas sytte aukkessa vennas lertiso meëve onsaa onsa/
+.entel lellavi nyke polpeho tenvas sytte aukkessa vennas lertiso meeve onsaa onsa/
 erni onsa movi sytteny tenvas eirandi evatte onsa iha tennai onsa/
 .vandel onsa eirandi sennaveho entel kilpete lirne onsa sirne vandel onsa ummes sennaveho/
 iha ummes oso leltai iha lirne/
@@ -469,12 +469,12 @@ sendeppi onsa sipestelvani unturoho raakke onsa porkikko/
 .ellevi oso raakke tevanni sendeppi onsa pama aulten sennave evatte ehii iha neval ehii iha onsa/
 lirne vennas oso irtal uulse onsa pettan onsaa ulsen onsa evesi senvai porkikko/
 .tenvas ehi entel avetti onsa porkita onsa porki porki onsa sirne/
-ahi leëvi onsa aukkessaho oso porkita lirne senvai erni ehii iha eso aukkessa ehii/
+ahi leevi onsa aukkessaho oso porkita lirne senvai erni ehii iha eso aukkessa ehii/
 .pehe onsaa onsa evesi uulse onsa sirne esoho iha nauvessi oso saumel ellevi ahi ellevi onsa ulsen/
 porkila porkikko tupe onsa onsa neval onsa onsa ninteho ellun erni ehii raakke onsa onsa/
 .kilteta ehii vanneti ehii neval ehii aume ulsen erni onsa mavi vannai ehii/
 onsa aukkessa ihaho ileva setty ileva ihaho sendeppi onsa/
-.leëvi onsa tultasi esoho avetti porki esoho porkita onsa tultasi onsa/
+.leevi onsa tultasi esoho avetti porki esoho porkita onsa tultasi onsa/
 senvai onsa esoho sendeppi onsa esoho ehii onsa evi onsaa onsa tunes/
 .evatte onsa iha aiva evi evatte onsa
 
@@ -484,10 +484,10 @@ vaukka kilpe vittel ulpanneho/
 .vaukka kilpe vittelo ahi horpe lirne
 
 iha mavisa irna lirne onsa luuro ehii onsa ellun erni lirne mavisa irna onsa/
-.evatte ehii onsa pennavi osotos tupe vennavi ennedhi vatteneleësy ellun onsa eirandi/
+.evatte ehii onsa pennavi osotos tupe vennavi ennedhi vatteneleesy ellun onsa eirandi/
 vonu haulonna orti vennas salputos oso tupe onsaa/
 .eho orti nylkihe eho nylki ortiho ahi erni lirne ilte uttestos/
-ulpes naltu aldesse leësyhe oso ahi sattai lirne oso korpe kinsatti alte/
+ulpes naltu aldesse leesyhe oso ahi sattai lirne oso korpe kinsatti alte/
 .ulpes onsa ossendaho vittel naltu onsa selkorosa onsa tunes evi sattai onsa/
 hlusmil svartrunar onsa sirne evatte ehii onsa ilte/
 .ylke onsa orti vennas ahi erni ehii mavisa vaukka ehii uulse tyltete ehii ahi erni ehii mavisa/
@@ -518,15 +518,15 @@ evi tahke varnotti tervi/
 .tahke varnotti tervi kelsa ummes aukkessa onsa kelsa oso eho aukkessaho insu/
 tunes kalpe orti vennas kauve aunekke nauldisto oso eho aunekkeho eho onsaa esoho/
 .iha ossenda entel tenvas aulira ahi velpe lauppi kauve onsa nalki vattelo/
-naldusa aldis mollu kalpe kelkasi ahi leëvi lirne onsa hepyhe/
-.ulpes pennavi leësy vennas insu lemmes ummes lirne onsa ahi vaukka lirne sipes
+naldusa aldis mollu kalpe kelkasi ahi leevi lirne onsa hepyhe/
+.ulpes pennavi leesy vennas insu lemmes ummes lirne onsa ahi vaukka lirne sipes
 
 vaukka vittel suldinno vennas hepy insu osotos vaukka ilsetti hepy remis suldinno ilsetti/
 .erni onsaa onsa insu osotos seltai sytte evi hervi hilsy autemel intiso evi vonu/
 suldinno oso intista iha onsa nerveho korpe onsa lonsi onsa ahi nerkavi onsa onsa pauren vennas/
 .tupe onsa tennairsa ahi erni onsa mavi tennai hilsyrse onsaa hilsyrse ehii/
-vaukka onsa ervu aunekketos narku toimunuho ardas aldevano rinnel vennas leësyhe suldinno vennas aunekkeho/
-.kauve rinnel vennas narku tenvas meërykki vennas senvai yinse suldinno vennas onsa ahi evatte lirne onsaa mavitos
+vaukka onsa ervu aunekketos narku toimunuho ardas aldevano rinnel vennas leesyhe suldinno vennas aunekkeho/
+.kauve rinnel vennas narku tenvas meerykki vennas senvai yinse suldinno vennas onsa ahi evatte lirne onsaa mavitos
 
 ahi senvas raivas raakke onsaa/
 .evatte ehii onsa mavisa lemmes ehii onsa tenvas raivas selkorosa lirneho evi ahi senvas raivas/
@@ -566,7 +566,7 @@ oltandi lirne oso irtal oso lonsi iha teipannuho/
 osotos ahi selnavi lonsi oso ulpes evi kessave lirne onsa patten evatte onsa setty onsa/
 .ukken ehii erni ehii iha evatte yemi taumel vennas iha ehiiho tennai onsaa/
 ukken ehii kousto ehii ahi seltai ehii iha ehii kiltas ummestos/
-.ahi hessave lirne ehii kiltas ahi lemmes ehii leësy
+.ahi hessave lirne ehii kiltas ahi lemmes ehii leesy
 
 ahi hilpete ehii haulonna ansorun/
 .korpe kilpe lirne oso erdavi sirne ahi lannai ehii korpe onsa/

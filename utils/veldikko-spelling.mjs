@@ -185,7 +185,8 @@ function spellingRows(tongue) {
  * letters. A delivery with no precomposed letter is not a roman spelling, since
  * the content charset refuses combining marks. A pair is consumed together so a
  * mark cannot split a long vowel or remove the carrier from two vowels sounded
- * apart. Diaeresis remains the vowel ë.
+ * apart. Only aa, ii and uu are held vowels; any other doubled vowel is two
+ * vowels sounded in turn.
  */
 function addSinaleVowels(add) {
     const marks = { "\u0302": "rise", "\u030c": "fall", "\u0301": "emphasis" };
@@ -200,7 +201,7 @@ function addSinaleVowels(add) {
         "\u0301\u030c",
     ];
     const vowels = Object.fromEntries(
-        [..."aeiouyë"].map((base) => {
+        [..."aeiouy"].map((base) => {
             const forms = new Map();
             for (const letter of [base, base.toUpperCase()])
                 for (const delivery of deliveries)
@@ -242,7 +243,7 @@ function addSinaleVowels(add) {
     ]);
     for (const [first, starts] of Object.entries(vowels))
         for (const [last, ends] of Object.entries(vowels)) {
-            const long = first === last || (first === "e" && last === "ë");
+            const long = first === last && "aiu".includes(first);
             if (!long && diphthongs.has(first + last)) continue;
             for (const left of starts)
                 for (const right of ends) {

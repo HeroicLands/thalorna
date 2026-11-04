@@ -69,8 +69,8 @@ uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
 .leltai ovu lonku kerrai ovu avetti leltairsa tupe ellevi hyrre uttes lirne ninteho ahi nelvata onsa ninte ahi rauttu ovu ralti
 
 uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
-.setty ehi iha salpukkoho aulten sennaveho korpe ilsetti vennas leësy ehiho/
-.entel korpe ilsetti vennas leësy ovuho eirandita ovǔ
+.setty ehi iha salpukkoho aulten sennaveho korpe ilsetti vennas leesy ehiho/
+.entel korpe ilsetti vennas leesy ovuho eirandita ovǔ
 
 uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
 .eho hepymuuvu nysse salpukko issalteho yinse onsa ehii/
@@ -206,7 +206,7 @@ uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
 
 uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
 .toimunu ilte sirelvellun ilte olmasiho raltiho/
-.ahi rauttu ovu olmasi osotos meëve ovu veldi ulnavaho eho veldi olmasiho
+.ahi rauttu ovu olmasi osotos meeve ovu veldi ulnavaho eho veldi olmasiho
 
 uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
 .setty lenti ulsa talveho ahi sennevi onsa ovu/
@@ -271,7 +271,7 @@ Have you heard what the Long-Watcher said to the Seer?/
 
 ::: {.verse form=saunari lang=sina enc=sinaveldikkoenc work=sickbed}
 uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
-.pelvanni ovu emmaka mettis entel hilsy onsa leëvi onsa vessitaho irna onsa aume/
+.pelvanni ovu emmaka mettis entel hilsy onsa leevi onsa vessitaho irna onsa aume/
 .iha selpi maurekkirsa vennai
 
 uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
@@ -292,7 +292,7 @@ uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
 
 uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
 .eho salmirarsa selpi ahi senval nelpe onsa ahi vettan aulveira olpeira iha salmirarsatos/
-.leëvi ovu lonte leëvirse ahi luuro lirne onsa lonte onsa erme
+.leevi ovu lonte leevirse ahi luuro lirne onsa lonte onsa erme
 
 uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
 .kalpe ehi hepymuuvu lirne ilte tovaho tylte vennas iha salpukkoho tupe ehi onsaa sirne ilte tovaho ummes/
@@ -411,7 +411,7 @@ uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
 .kerrai ovu eirandi sennal erni ovu iha eirandi sennal onsa aulten sirne sennaltos
 
 uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
-.kilpete ovu lirne oso neëre ovu kuse onsa sirne ummes pelpe ovu evette/
+.kilpete ovu lirne oso neere ovu kuse onsa sirne ummes pelpe ovu evette/
 .pelpe ovu evette kelsa onsa kilpetersa ennos seltai evesi
 
 uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
@@ -458,15 +458,15 @@ uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
 
 uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
 .vaissa hepymuuvu naltu onsa nelkari vennas vaulti ulnavaho ummes vekkanelo vennas/
-.ahi halpe ovu onsa leësy kauve onsa iha evesi vennas ehii tannavi ummes vonu onsa salpukkotos
+.ahi halpe ovu onsa leesy kauve onsa iha evesi vennas ehii tannavi ummes vonu onsa salpukkotos
 
 uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
 .yinse hepymuuvu ehii leltu ovu onsaa/
 .ahi vehe ehii oso yinse onsaa irna onsaa onsa onsaa aiva iltettu
 
 uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
-.neëre ovu hepymuuvu ilte ahi eho varnissa iha evakkaho/
-.neëre ovu onsa kuse ummes ovu toimunu vennas neëre onsaa kuse ummes onsaa toimunu vennas
+.neere ovu hepymuuvu ilte ahi eho varnissa iha evakkaho/
+.neere ovu onsa kuse ummes ovu toimunu vennas neere onsaa kuse ummes onsaa toimunu vennas
 
 uvi kelsa ovu ansorun evakka oso kelsa iltorîn/
 .luuro onsaa ehii senvai olnaro vennas sennalo vennas ummes tennai evesi ilte eho ehii esoho/

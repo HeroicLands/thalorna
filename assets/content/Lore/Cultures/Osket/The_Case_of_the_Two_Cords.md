@@ -32,8 +32,8 @@ The Speaker holds nothing. When the lineages go home, neither does anyone.
 
 ::: {.verse form=tsumshar lang=oske work=opening}
 aukh ghauk, auk tsum./
-goich tsum al talgh qesh turg, öng mölkh goich al qesh torg./
-tash shar barkh molkh shör nargh qesh shar, öng melkh shörom qesh shar./
+goich tsum al talgh qesh turg, ong malkh goich al qesh torg./
+tash shar barkh molkh khor nargh qesh shar, ong melkh shorom qesh shar./
 tsumshar nargh ashum qesh palkem. goich torg oshulk, ashun nargh ashum qesh palkem.
 :::
 
@@ -47,13 +47,13 @@ In Orghat's time the snow came early one year. It came in the last month of the 
 
 At the hearth the snow-watcher read the peak at first light, and the guide-mother of Utenkhar said the road was shut.
 
-She was Orghat's mother. Her name was [Hülgh]{.name data-type="being/npc"}, which is thunder. She said it on the first morning of the snow, and on the second, and on the third. The road was shut. Nobody went up. Every morning she said it in the same voice, and every morning the men of the hearth stood in the yard with the ropes and heard it and went in again.
+She was Orghat's mother. Her name was [Hulgh]{.name data-type="being/npc"}, which is thunder. She said it on the first morning of the snow, and on the second, and on the third. The road was shut. Nobody went up. Every morning she said it in the same voice, and every morning the men of the hearth stood in the yard with the ropes and heard it and went in again.
 
 Orghat was the road-holder. You know what a road-holder answers for: every party he takes over his road. That party had been taken over his road, by his men, on his share, under his name. They were not down. He answered for them.
 
-On the fourth morning Hülgh said the road was shut, and Orghat went up.
+On the fourth morning Hulgh said the road was shut, and Orghat went up.
 
-He took six men and the ropes and as much barley as six men can carry. He did not argue with her in the yard. He did not say that the party came before her word, though it does: the road first, then the party taken over it, then the guide-mother's word on the morning, and every child at every fire on the wall is taught that order. He did not say anything at all. He went out of the yard with the men behind him and went up into the snow, and Hülgh stood in the door and watched him go and said nothing either. That is told, and it is told at Utenkhar the same way every time, and nobody at Utenkhar has ever said that she called after him.
+He took six men and the ropes and as much barley as six men can carry. He did not argue with her in the yard. He did not say that the party came before her word, though it does: the road first, then the party taken over it, then the guide-mother's word on the morning, and every child at every fire on the wall is taught that order. He did not say anything at all. He went out of the yard with the men behind him and went up into the snow, and Hulgh stood in the door and watched him go and said nothing either. That is told, and it is told at Utenkhar the same way every time, and nobody at Utenkhar has ever said that she called after him.
 
 He went up through the snow for eighteen days, on a road of sixteen in the open months. He came to the col and over it and down to the fork, and down the far-edge road to the wall, and the party was there, eleven lowlanders and four of ours, alive, eating the last of the loads.
 
@@ -63,13 +63,13 @@ The far-edge road below the wall was gone under the snow. So he brought them bac
 
 Utenkhar says he took them down the far-edge road, by the high way round the shoulder above the buried stages, which is ours and which Utenkhar's men walked again with their own eyes in the open season after and found his rope-pins still in the rock. That is told, and the rope-pins were seen, by the men who walked it then. Qarsolt says something else. Qarsolt can say it.
 
-Two of the party stopped. A lowlander whose name went down with the party, on the second day below the fork. And [Hülum]{.name data-type="being/npc"}, a man of Utenkhar, which is snow, on the third day, going back up the slope for the lowlander's load. The rest came down. Thirteen. They came down to the far edge, alive, with frozen hands, and the lowlanders were taken into the towns, and the half of what landed was taken at the far end, which was not much, because most of it was in the snow, and the four of ours and Orghat and his six came home over the wall the next open season, when Hülgh said the road was open.
+Two of the party stopped. A lowlander whose name went down with the party, on the second day below the fork. And [Hulum]{.name data-type="being/npc"}, a man of Utenkhar, which is snow, on the third day, going back up the slope for the lowlander's load. The rest came down. Thirteen. They came down to the far edge, alive, with frozen hands, and the lowlanders were taken into the towns, and the half of what landed was taken at the far end, which was not much, because most of it was in the snow, and the four of ours and Orghat and his six came home over the wall the next open season, when Hulgh said the road was open.
 
-The party came down. Thirteen of fifteen. An Osket weighs a deed by the road: it is good if the party comes down. That is what is said, at every fire, and Qarsolt says it at its own fire. I do not ask for reasons. Neither did Hülgh.
+The party came down. Thirteen of fifteen. An Osket weighs a deed by the road: it is good if the party comes down. That is what is said, at every fire, and Qarsolt says it at its own fire. I do not ask for reasons. Neither did Hulgh.
 
-Our cord ties Hülum and the lowlander at the second and third stage below the fork on the far-edge road, which is ours, where they stopped. Our cord has them there. Hülgh said them there at the closing, and our cord-keeper tied them where she said.
+Our cord ties Hulum and the lowlander at the second and third stage below the fork on the far-edge road, which is ours, where they stopped. Our cord has them there. Hulgh said them there at the closing, and our cord-keeper tied them where she said.
 
-And on the morning the road opened, Hülgh came to the door of the hearth and read the peak and said to Orghat, in the yard, "The road is open." She said it to him. He walked his road thirty more seasons, and she gave him the morning every season she lived, and he never went up against it again, and he never once said a word about the four days. That is told. That is the hearth's word on what he did. It is the only word Utenkhar has ever had on it, and it is enough for Utenkhar.
+And on the morning the road opened, Hulgh came to the door of the hearth and read the peak and said to Orghat, in the yard, "The road is open." She said it to him. He walked his road thirty more seasons, and she gave him the morning every season she lived, and he never went up against it again, and he never once said a word about the four days. That is told. That is the hearth's word on what he did. It is the only word Utenkhar has ever had on it, and it is enough for Utenkhar.
 
 That is Utenkhar's.
 
@@ -87,7 +87,7 @@ The party said, when they came down to the far edge, that they had come down fro
 
 But here is what Qarsolt knows another way. In the next open season, when our men first went down our way off the fork that year, at the low wall under the overhang there were two lying close under it. One a lowlander. One with a rope of yak hair round him, of the twist that is Utenkhar's. They were under the snow that had come off the rock over the winter, and they were seen, by our men, with their own eyes, and the men came back and said so, and the guide-mother of Qarsolt then, whose name was [Shogme]{.name data-type="being/npc"}, had them tied into our cord, at the low wall, because that is where the road had them. Seen. That is not told and it is not the road-talk. It is the eyes of the men of Qarsolt.
 
-So Qarsolt's cord keeps Hülum, a man of Utenkhar, and a lowlander whose name went down with his party, at the low wall on Qarsolt's way off the fork, where our men saw them. And Utenkhar's cord keeps the same two at the second and third stage of the far-edge road, where Utenkhar's guide-mother said they stopped, because Orghat's men told her so. Told. Orghat's men had come down in the snow too.
+So Qarsolt's cord keeps Hulum, a man of Utenkhar, and a lowlander whose name went down with his party, at the low wall on Qarsolt's way off the fork, where our men saw them. And Utenkhar's cord keeps the same two at the second and third stage of the far-edge road, where Utenkhar's guide-mother said they stopped, because Orghat's men told her so. Told. Orghat's men had come down in the snow too.
 
 You have heard Utenkhar say its own men walked the high way the next season and saw Orghat's rope-pins in the rock. I do not say they did not. I say that rope-pins in the rock on the high way are rope-pins, and a man who put rope-pins on the high way in the snow might have pulled back to the fork when the shoulder would not go and come down ours. That is inferred, and I say it as inferred. Utenkhar says it the other way, and that is inferred as well, from pins. Neither of us saw Orghat on any shelf. What Qarsolt saw is two people under our wall.
 
@@ -114,7 +114,7 @@ Go home.
 
 ::: {.verse form=tsumshar lang=oske work=closing}
 goich molkh qesh shar./
-achöl ghauk molkh palkem barkh qesh palkem. achöl wugh molkh boikem barkh qesh boikem./
+achol ghauk molkh palkem barkh qesh palkem. achol wugh molkh boikem barkh qesh boikem./
 tsumshar nargh ashum qesh palkem./
 eshq mukh goich al qesh torg‼
 :::

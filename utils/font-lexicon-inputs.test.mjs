@@ -80,10 +80,11 @@ test("independent Veldikko model obtains codepoints from font metadata", () => {
         glyph("carrier") + glyph("vowel.a") + glyph("ng") + glyph("k"),
     );
     assert.equal(
-        convertVeldikko("eë-ai", table),
+        convertVeldikko("ee-ai", table),
         glyph("carrier") +
-            glyph("vowel.edieresis") +
-            glyph("long") +
+            glyph("vowel.e") +
+            glyph("carrier") +
+            glyph("vowel.e") +
             " " +
             glyph("carrier") +
             glyph("vowel.a") +

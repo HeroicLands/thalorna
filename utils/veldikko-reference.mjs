@@ -15,7 +15,9 @@ class Unmappable extends Error {
     }
 }
 
-const VOWELS = new Set(["a", "e", "i", "o", "u", "y", "ë"]);
+const VOWELS = new Set(["a", "e", "i", "o", "u", "y"]);
+// The vowels whose doubling is one held vowel; any other doubled vowel is two.
+const HELD = new Set(["a", "i", "u"]);
 const DIPHTHONGS = new Set([
     "ai",
     "au",
@@ -54,12 +56,7 @@ export function veldikkoTable(fonts = resolveScriptFonts(process.cwd())) {
                 point(letter || "carrier"),
             ]),
         ),
-        vowels: new Map(
-            [...VOWELS].map((vowel) => [
-                vowel,
-                point(`vowel.${vowel === "ë" ? "edieresis" : vowel}`),
-            ]),
-        ),
+        vowels: new Map([...VOWELS].map((vowel) => [vowel, point(`vowel.${vowel}`)])),
         signs: new Map(["long", "bar"].map((sign) => [sign, point(sign)])),
     };
 }
@@ -90,10 +87,9 @@ export function convertVeldikko(text, table = veldikkoTable()) {
         if (VOWELS.has(ch)) {
             if (wordStart || afterNucleus) out.push(letters.get(""));
             const next = s[i + 1];
-            if (next === ch || (ch === "e" && next === "ë")) {
-                // a doubled vowel is one mark drawn long; eë is the long ë
-                const vowel = next;
-                out.push(vowels.get(vowel), signs.get("long"));
+            if (next === ch && HELD.has(ch)) {
+                // a doubled aa, ii or uu is one mark drawn long
+                out.push(vowels.get(ch), signs.get("long"));
                 i += 2;
             } else if (next && DIPHTHONGS.has(ch + next)) {
                 out.push(vowels.get(ch), vowels.get(next));

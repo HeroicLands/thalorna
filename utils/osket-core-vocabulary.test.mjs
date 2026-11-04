@@ -54,10 +54,10 @@ test("every ordinary Osket entry retains its real class and all published senses
     for (const word of ordinary) {
         const row = dictionary.find((r) => r.name === word.form.normalize("NFC"));
         assert(row, word.form);
-        assert.equal(row.class, word.class, word.form);
+        assert.equal(row.class, words.find((w) => w.form === word.form).class, word.form);
         assert.deepEqual(
             row.senses.map((s) => s.text),
-            [word.gloss].flat(),
+            words.filter((w) => w.form === word.form).flatMap((w) => [w.gloss].flat()),
             word.form,
         );
     }
@@ -78,7 +78,7 @@ test("Osket preserves all original meanings, optional writings and name interpre
     // The new repertoire is checked independently by roman-inventories.test.mjs.
     delete fm.data.roman;
     assert.equal(fm.data.fields.pop().name, "Everyday speech");
-    assert.equal(hash(fm), "627b98e7f65ffefd43a777f92b259264fe070be985d3daf77d8943cd2d4db00d");
+    assert.equal(hash(fm), "fd724963d45276267f28f33425fcc46a011285a77c6617ec2afe23d5512af618");
     const body = splitFrontmatter(language.raw).body.replace(
         /## Everyday speech\n[\s\S]*?(?=## Script & Literacy\n)/u,
         "",
@@ -86,7 +86,7 @@ test("Osket preserves all original meanings, optional writings and name interpre
     // The fingerprint is of the body linking the Tellumi note as skill-khazrilng.
     assert.equal(
         hash(body.replaceAll("skill-tellumilng", "skill-khazrilng")),
-        "ef42d4dd43a3b81ec7b194881ea4e4165be925680a6a9eaee692806da457fad0",
+        "751b7d871594dfce73077795171065ae3c1684f3fbe840e04f65892f2862dae1",
     );
     assert(ids(words.find((w) => w.form === "goich")).includes("hearth"));
     assert(ids(words.find((w) => w.form === "shom")).includes("door"));
@@ -94,6 +94,7 @@ test("Osket preserves all original meanings, optional writings and name interpre
         ...language.fm.data,
         words: words.slice(0, 21),
         fields: language.fm.data.fields.slice(0, -1),
+        retired: language.fm.data.retired.filter((r) => !r.why.startsWith("respelled")),
     };
     const originalRows = dictionaryAndTermRows([{ ...record, data: originalData }]).dictionary;
     for (const row of originalRows)
@@ -175,7 +176,7 @@ test("the current word, schema and name contracts accept the Osket declarations"
 test("new Osket citations use the full heavy-syllable sound inventory", () => {
     for (const word of words.slice(21))
         for (const part of word.form.split(" ")) {
-            assert(/^[abcdeghiklmnopqrstwuyöü]+$/u.test(part), part);
+            assert(/^[abcdeghiklmnopqrstwuy]+$/u.test(part), part);
             assert(!/dz|zh|hv|f|v|j|th|dh|ph|c(?!h)/u.test(part), part);
         }
 });

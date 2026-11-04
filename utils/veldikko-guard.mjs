@@ -188,7 +188,7 @@ export function referenceWithPerformance(source, convert) {
         ["\u030c", 0x1ed7a],
         ["\u0301", 0x1ed7b],
     ]);
-    const vowels = new Set([..."aeiouyë"]);
+    const vowels = new Set([..."aeiouy"]);
     const diphthongs = new Set([
         "ai",
         "au",
@@ -206,9 +206,7 @@ export function referenceWithPerformance(source, convert) {
     const tokens = [];
     for (const letter of source.normalize("NFD").toLowerCase()) {
         const last = tokens.at(-1);
-        if (letter === "\u0308" && last?.letter === "e") {
-            last.letter = "ë";
-        } else if (marks.has(letter)) {
+        if (marks.has(letter)) {
             if (!last || !vowels.has(last.letter)) {
                 throw new Error("a Sinale performance mark must annotate a vowel");
             }
@@ -226,10 +224,7 @@ export function referenceWithPerformance(source, convert) {
         if (!vowels.has(token.letter)) continue;
         let signs = token.signs;
         const next = tokens[i + 1];
-        if (
-            next &&
-            (next.letter === token.letter || (token.letter === "e" && next.letter === "ë"))
-        ) {
+        if (next && next.letter === token.letter && "aiu".includes(token.letter)) {
             signs = [...signs, ...next.signs];
             i++;
         } else if (next && diphthongs.has(token.letter + next.letter)) {

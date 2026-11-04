@@ -6,7 +6,7 @@ subType: language
 description: "The eldest of the Elder Tongues—vowel-heavy, clean-consonanted, and sung as often as spoken, older than any human settlement on Thalorna."
 tags: []
 data:
-  roman: "adehiklmnoprstuvyëáéíóúýâêîôûŷǎěǐǒǔ-"
+  roman: "adehiklmnoprstuvyáéíóúýâêîôûŷǎěǐǒǔ-"
   core: true
   abbreviation: Sin.
   fields:
@@ -131,7 +131,7 @@ data:
       variants: [olteho]
     - {form: ilty, class: "n", field: "Light, stars, sky and the hours", gloss: "a gleam"}
     - {form: sirta, class: v, field: "Light, stars, sky and the hours", gloss: "glow"}
-    - {form: seëlis, class: v, field: "Light, stars, sky and the hours", gloss: "shine"}
+    - {form: seelis, class: v, field: "Light, stars, sky and the hours", gloss: "shine"}
     - {form: tikkel, class: v, field: "Light, stars, sky and the hours", gloss: "shimmer"}
     - form: ekkyve
       class: adj
@@ -262,11 +262,11 @@ data:
       field: "Light, stars, sky and the hours"
       gloss: "a cluster of stars"
       built: [nuuva, "-kko"]
-    - form: seëlisse
+    - form: seelisse
       class: adj
       field: "Light, stars, sky and the hours"
       gloss: "shining, shiny"
-      built: [seëlis, "-se"]
+      built: [seelis, "-se"]
       concept: shiny
     - form: ekkyverse
       class: "n"
@@ -370,7 +370,7 @@ data:
       gloss: "storm"
       concept: storm
     - {form: selpis, class: "n", field: "Water, weather and the seasons", gloss: "mist"}
-    - {form: eëvi, class: n, field: "Water, weather and the seasons", gloss: "dew"}
+    - {form: eevi, class: n, field: "Water, weather and the seasons", gloss: "dew"}
     - form: lanteppi
       class: "n"
       field: "Water, weather and the seasons"
@@ -479,11 +479,11 @@ data:
       field: "Water, weather and the seasons"
       gloss: "a snowflake"
       built: [nyke, "-ny"]
-    - form: eëviny
+    - form: eeviny
       class: "n"
       field: "Water, weather and the seasons"
       gloss: "a dewdrop"
-      built: [eëvi, "-ny"]
+      built: [eevi, "-ny"]
     - form: ravattota
       class: v
       field: "Water, weather and the seasons"
@@ -757,7 +757,7 @@ data:
     - {form: sylte, class: "n", field: Beasts and birds, gloss: "a snake"}
     - {form: harnel, class: "n", field: Beasts and birds, gloss: "a horse"}
     - {form: rennu, class: "n", field: Beasts and birds, gloss: "a dog"}
-    - {form: meëry, variants: ["meërytes"], class: n, field: Beasts and birds, gloss: "sheep"}
+    - {form: meery, variants: ["meerytes"], class: n, field: Beasts and birds, gloss: "sheep"}
     - {form: hylte, class: "n", field: Beasts and birds, gloss: "a moth"}
     - {form: vyrni, class: n, field: Beasts and birds, gloss: "bees"}
     - {form: hiakke, class: "n", field: Beasts and birds, gloss: "a feather"}
@@ -792,12 +792,12 @@ data:
       field: Beasts and birds
       gloss: "a fawn"
       built: [ilsetti, "-kki"]
-    - form: meërykki
-      variants: ["meërykkites"]
+    - form: meerykki
+      variants: ["meerykkites"]
       class: "n"
       field: Beasts and birds
       gloss: "a lamb"
-      built: [meëry, "-kki"]
+      built: [meery, "-kki"]
     - form: hulkanu
       class: "n"
       field: Beasts and birds
@@ -892,8 +892,8 @@ data:
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "a cave"
       concept: cave
-    - form: leësy
-      variants: [leësyhe, leësytes]
+    - form: leesy
+      variants: [leesyhe, leesytes]
       class: "n"
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "a path"
@@ -1751,7 +1751,7 @@ data:
       field: "Kin, hearth, the person and the body"
       gloss: "hair"
       concept: hair
-    - form: heëve
+    - form: heeve
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "breath"
@@ -1783,7 +1783,7 @@ data:
       field: "Kin, hearth, the person and the body"
       gloss: "drink"
       concept: drink-verb
-    - {form: neëre, class: v, field: "Kin, hearth, the person and the body", gloss: "love"}
+    - {form: neere, class: v, field: "Kin, hearth, the person and the body", gloss: "love"}
     - form: rontatti
       variants: ["rontattitos"]
       class: "n"
@@ -1868,11 +1868,11 @@ data:
       field: "Kin, hearth, the person and the body"
       gloss: "guest-right, the welcome owed a guest"
       built: [ellevi, "-rsa"]
-    - form: neërerse
+    - form: neererse
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "fondness, affection"
-      built: [neëre, "-rse"]
+      built: [neere, "-rse"]
       concept: affection
     - form: naukkisto
       variants: ["naukkistoho", "naukkistotos"]
@@ -2132,7 +2132,7 @@ data:
       class: "n"
       field: "The fae, the thin places, dream and the god"
       gloss: "a vision"
-    - form: reëve
+    - form: reeve
       class: "n"
       field: "The fae, the thin places, dream and the god"
       gloss: "an omen"
@@ -2534,7 +2534,7 @@ data:
       concept: come
     - {form: vaukka, class: v, field: "Motion, rest and being", gloss: "go", concept: go}
     - {form: ressa, class: v, field: "Motion, rest and being", gloss: "run", concept: run}
-    - {form: leëvi, class: v, field: "Motion, rest and being", gloss: "sit", concept: sit}
+    - {form: leevi, class: v, field: "Motion, rest and being", gloss: "sit", concept: sit}
     - {form: laukkessa, class: v, field: "Motion, rest and being", gloss: "rest"}
     - form: pelpe
       class: v
@@ -2567,7 +2567,7 @@ data:
       concept: return
     - {form: remis, class: v, field: "Motion, rest and being", gloss: "follow", concept: follow}
     - {form: lemmes, class: v, field: "Motion, rest and being", gloss: "find", concept: find}
-    - {form: meëve, class: v, field: "Motion, rest and being", gloss: "seek", concept: search}
+    - {form: meeve, class: v, field: "Motion, rest and being", gloss: "seek", concept: search}
     - {form: yinse, class: v, field: "Motion, rest and being", gloss: "see", concept: see-verb}
     - {form: erni, class: v, field: "Motion, rest and being", gloss: "know", concept: know}
     - form: kauve
@@ -2603,11 +2603,11 @@ data:
       field: "Motion, rest and being"
       gloss: "a wanderer"
       built: [sattai, "-nno"]
-    - form: meëvenne
+    - form: meevenne
       class: "n"
       field: "Motion, rest and being"
       gloss: "a seeker"
-      built: [meëve, "-nne"]
+      built: [meeve, "-nne"]
     - form: ansoruta
       class: v
       field: "Motion, rest and being"
@@ -2619,12 +2619,12 @@ data:
       gloss: "alive, living"
       built: [ylpi, "-se"]
       concept: alive
-    - form: leëviste
-      variants: ["leëvistehe"]
+    - form: leeviste
+      variants: ["leevistehe"]
       class: "n"
       field: "Motion, rest and being"
       gloss: "a seat"
-      built: [leëvi, "-ste"]
+      built: [leevi, "-ste"]
       concept: seat
     - form: laukkessasto
       variants: [laukkessastoho]
@@ -2984,12 +2984,12 @@ data:
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "a fountain, water raised by craft"
       built: [irtal, melke]
-    - form: irtalleësy
+    - form: irtalleesy
       class: n
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "a stair, a rising path"
-      variants: [irtalleësyhe]
-      built: [irtal, leësy]
+      variants: [irtalleesyhe]
+      built: [irtal, leesy]
     - form: pehesto
       class: n
       field: "Craft: weaving, wood-shaping, healing and the hand"
@@ -3053,11 +3053,11 @@ data:
       gloss: "a boy; a son in relation to a parent"
       built: ["naltu", "nysse"]
       concept: [boy, son]
-    - form: meërynne
+    - form: meerynne
       class: "n"
       field: "Beasts and birds"
       gloss: "a herder of sheep"
-      built: ["meëry", "-nne"]
+      built: ["meery", "-nne"]
     - form: nemma
       class: "n"
       field: "Kin, hearth, the person and the body"
@@ -3115,11 +3115,11 @@ data:
       gloss: "a camp, a place of staying"
       built: ["sendeppi", "-sto"]
       variants: ["sendeppistoho"]
-    - form: meërykke
+    - form: meerykke
       class: "n"
       field: "Beasts and birds"
       gloss: "a flock of sheep"
-      built: ["meëry", "-kke"]
+      built: ["meery", "-kke"]
     - form: neravanno
       class: "n"
       field: "Kin, hearth, the person and the body"
@@ -3138,11 +3138,11 @@ data:
       gloss: "a wife"
       built: ["nemma", "laumis"]
       concept: wife
-    - form: nemmameëry
+    - form: nemmameery
       class: "n"
       field: "Beasts and birds"
       gloss: "a ewe"
-      built: ["nemma", "meëry"]
+      built: ["nemma", "meery"]
     - form: tyltete
       variants: [syltete]
       class: "v"
@@ -3522,12 +3522,12 @@ data:
       field: "Beasts and birds"
       gloss: "fish, catch fish"
       built: ["hulka", "-ta"]
-    - form: vatteneleësy
-      variants: ["vatteneleësyhe"]
+    - form: vatteneleesy
+      variants: ["vatteneleesyhe"]
       class: "n"
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "a way back, a return path"
-      built: ["patten", "leësy"]
+      built: ["patten", "leesy"]
     - form: elnerinu
       variants: ["elnerinutos"]
       class: "n"
@@ -3541,12 +3541,12 @@ data:
       gloss: "a choice, a decision"
       built: ["kerrai", "-rsa"]
       variants: ["kerrairsaho"]
-    - form: ulpanneleësy
+    - form: ulpanneleesy
       class: "n"
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "the sea-road, a route leading to the coast"
-      built: ["ulpanne", "leësy"]
-      variants: ["ulpanneleësyhe"]
+      built: ["ulpanne", "leesy"]
+      variants: ["ulpanneleesyhe"]
     - form: naltumaldika
       class: "n"
       field: "Kin, hearth, the person and the body"
@@ -3702,12 +3702,12 @@ data:
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "healing, the practice of healing"
       built: ["maurekki", "-rsa"]
-    - form: leëvirse
-      variants: ["leëvirsetes", leëvirsehe]
+    - form: leevirse
+      variants: ["leevirsetes", leevirsehe]
       class: "n"
       field: "Motion, rest and being"
       gloss: "sitting, the state of sitting"
-      built: ["leëvi", "-rse"]
+      built: ["leevi", "-rse"]
     - form: ansorutarsa
       class: "n"
       field: "Motion, rest and being"
@@ -4080,11 +4080,11 @@ data:
       field: "Trees, plants and the living wood"
       gloss: "of the oak"
       built: ["torvel", "-sa"]
-    - form: meërykkite
+    - form: meerykkite
       class: "v"
       field: "Beasts and birds"
       gloss: "lamb, give birth to lambs"
-      built: ["meërykki", "-te"]
+      built: ["meerykki", "-te"]
     - form: raltikko
       variants: ["raltikkoho"]
       class: "n"
@@ -4224,7 +4224,7 @@ data:
       field: "Motion, rest and being"
       gloss: "establish, set something in standing operation"
       built: ["setty", "-ta"]
-    - form: meëli
+    - form: meeli
       class: "adj"
       field: "Kin, hearth, the person and the body"
       gloss: "glad, joyful"
@@ -4332,11 +4332,11 @@ data:
       field: "Light, stars, sky and the hours"
       gloss: "burned, injured or marked by fire"
       built: ["sallai", "-sa"]
-    - form: heëvete
+    - form: heevete
       class: "v"
       field: "Kin, hearth, the person and the body"
       gloss: "breathe"
-      built: ["heëve", "-te"]
+      built: ["heeve", "-te"]
       concept: breathe
     - form: lellavi
       class: "v"
@@ -4353,11 +4353,11 @@ data:
       field: "Kin, hearth, the person and the body"
       gloss: "back of the body"
       concept: back
-    - form: meëlite
+    - form: meelite
       class: "v"
       field: "Kin, hearth, the person and the body"
       gloss: "smile"
-      built: ["meëli", "-te"]
+      built: ["meeli", "-te"]
     - form: ansorutainno
       class: "n"
       field: "Motion, rest and being"
@@ -4967,11 +4967,11 @@ data:
       gloss: "disappointment, a hope fallen short"
       built: [rannavi, "-rsa"]
       concept: disappointment
-    - form: meëlirse
+    - form: meelirse
       class: n
       field: "Kin, hearth, the person and the body"
       gloss: "joy, gladness"
-      built: [meëli, "-rse"]
+      built: [meeli, "-rse"]
       concept: joy
     - form: lennavirsa
       class: n
@@ -5011,11 +5011,11 @@ data:
       field: "Kin, hearth, the person and the body"
       gloss: "courage"
       concept: courage
-    - form: neërehekky
+    - form: neerehekky
       class: n
       field: "Kin, hearth, the person and the body"
       gloss: "jealousy, the fear of losing one loved"
-      built: [neëre, hekky]
+      built: [neere, hekky]
       concept: jealousy
     - form: nalkairsa
       class: n
@@ -5281,11 +5281,11 @@ data:
       gloss: "a brain, the seat of the mind"
       built: [ennari, "-sto"]
       concept: brain
-    - form: heëveste
+    - form: heeveste
       class: n
       field: "Kin, hearth, the person and the body"
       gloss: "a lung, the place of breath"
-      built: [heëve, "-ste"]
+      built: [heeve, "-ste"]
       concept: lung
     - form: puoma
       class: n
@@ -5367,17 +5367,17 @@ data:
       gloss: "thirst"
       built: [tirvu, "-rsa"]
       concept: thirst
-    - form: heëveraakke
+    - form: heeveraakke
       class: v
       field: "Kin, hearth, the person and the body"
       gloss: "breathe in, take breath"
-      built: [heëve, raakke]
+      built: [heeve, raakke]
       concept: inhale
-    - form: heëvepehe
+    - form: heevepehe
       class: v
       field: "Kin, hearth, the person and the body"
       gloss: "breathe out, give breath"
-      built: [heëve, pehe]
+      built: [heeve, pehe]
       concept: exhale
     - form: hyssete
       class: v
@@ -6137,13 +6137,13 @@ data:
     - form: "iha salpu vennas"
       class: pron
       field: "Grammar words: pronouns, particles, numbers and pointing words"
-      gloss: "these trees; iha before a noun with vennas after it gives these, as iha leësy vennas, these paths"
+      gloss: "these trees; iha before a noun with vennas after it gives these, as iha leesy vennas, these paths"
       built: [iha, salpu, vennas]
       concept: these
     - form: "eso salpu vennas"
       class: pron
       field: "Grammar words: pronouns, particles, numbers and pointing words"
-      gloss: "those trees; eso before a noun with vennas after it gives those, as olu leësy vennas, those paths yonder"
+      gloss: "those trees; eso before a noun with vennas after it gives those, as olu leesy vennas, those paths yonder"
       built: [eso, salpu, vennas]
       concept: those
     - form: "eltes lirne"
@@ -6724,11 +6724,11 @@ data:
       gloss: "hard, firm as rock to the touch"
       built: [ralti, "-sa"]
       concept: hard-texture
-    - form: leëvipe
+    - form: leevipe
       class: n
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "a chair, a thing to sit on"
-      built: [leëvi, "-pe"]
+      built: [leevi, "-pe"]
       concept: chair
     - form: nintepolpe
       class: n
@@ -6958,11 +6958,11 @@ data:
       gloss: "seem, appear, show a face"
       built: [nerve, "-ta"]
       concept: seem
-    - form: meëverse
+    - form: meeverse
       class: n
       field: "Motion, rest and being"
       gloss: "curiosity, the urge to seek things out"
-      built: [meëve, "-rse"]
+      built: [meeve, "-rse"]
       concept: curiosity
     - form: talversa
       class: n
@@ -7434,10 +7434,9 @@ data:
       vowelPairs: [ai, au, ia, eo, oi, ou, ui, uo, ei, ie, yi, ye]
       harmony:
         back: [a, o, u, ai, au, ia, eo, oi, ou, ui, uo]
-        front: [y, ë, yi, ye]
+        front: [y, yi, ye]
         neutral: [e, i, ei, ie]
         neutralAs: back
-        partners: {a: ë, o: ë, u: y, e: ë, i: ë, y: y, ë: ë}
       initialVowel: true
       finalVowel: true
     clusters:
@@ -7678,6 +7677,50 @@ data:
     - {name: ilkaivesto, tongue: sinale, built: [ilkaive, -sto]}
   negation: {particle: ahi, mutation: wearing}
   naming: {shapes: [{of: given, syllables: {min: 2, max: 4}}]}
+  retired:
+    - {form: eëvi, instead: eevi, why: "respelled without the diaeresis"}
+    - {form: eëviny, instead: eeviny, why: "respelled without the diaeresis"}
+    - {form: heëve, instead: heeve, why: "respelled without the diaeresis"}
+    - {form: heëvepehe, instead: heevepehe, why: "respelled without the diaeresis"}
+    - {form: heëveraakke, instead: heeveraakke, why: "respelled without the diaeresis"}
+    - {form: heëveste, instead: heeveste, why: "respelled without the diaeresis"}
+    - {form: heëvete, instead: heevete, why: "respelled without the diaeresis"}
+    - {form: irtalleësy, instead: irtalleesy, why: "respelled without the diaeresis"}
+    - {form: irtalleësyhe, instead: irtalleesyhe, why: "respelled without the diaeresis"}
+    - {form: leësy, instead: leesy, why: "respelled without the diaeresis"}
+    - {form: leësyhe, instead: leesyhe, why: "respelled without the diaeresis"}
+    - {form: leësytes, instead: leesytes, why: "respelled without the diaeresis"}
+    - {form: leëvi, instead: leevi, why: "respelled without the diaeresis"}
+    - {form: leëvipe, instead: leevipe, why: "respelled without the diaeresis"}
+    - {form: leëvirse, instead: leevirse, why: "respelled without the diaeresis"}
+    - {form: leëvirsehe, instead: leevirsehe, why: "respelled without the diaeresis"}
+    - {form: leëvirsetes, instead: leevirsetes, why: "respelled without the diaeresis"}
+    - {form: leëviste, instead: leeviste, why: "respelled without the diaeresis"}
+    - {form: leëvistehe, instead: leevistehe, why: "respelled without the diaeresis"}
+    - {form: meëli, instead: meeli, why: "respelled without the diaeresis"}
+    - {form: meëlirse, instead: meelirse, why: "respelled without the diaeresis"}
+    - {form: meëlite, instead: meelite, why: "respelled without the diaeresis"}
+    - {form: meëry, instead: meery, why: "respelled without the diaeresis"}
+    - {form: meërykke, instead: meerykke, why: "respelled without the diaeresis"}
+    - {form: meërykki, instead: meerykki, why: "respelled without the diaeresis"}
+    - {form: meërykkite, instead: meerykkite, why: "respelled without the diaeresis"}
+    - {form: meërykkites, instead: meerykkites, why: "respelled without the diaeresis"}
+    - {form: meërynne, instead: meerynne, why: "respelled without the diaeresis"}
+    - {form: meërytes, instead: meerytes, why: "respelled without the diaeresis"}
+    - {form: meëve, instead: meeve, why: "respelled without the diaeresis"}
+    - {form: meëvenne, instead: meevenne, why: "respelled without the diaeresis"}
+    - {form: meëverse, instead: meeverse, why: "respelled without the diaeresis"}
+    - {form: nemmameëry, instead: nemmameery, why: "respelled without the diaeresis"}
+    - {form: neëre, instead: neere, why: "respelled without the diaeresis"}
+    - {form: neërehekky, instead: neerehekky, why: "respelled without the diaeresis"}
+    - {form: neërerse, instead: neererse, why: "respelled without the diaeresis"}
+    - {form: reëve, instead: reeve, why: "respelled without the diaeresis"}
+    - {form: seëlis, instead: seelis, why: "respelled without the diaeresis"}
+    - {form: seëlisse, instead: seelisse, why: "respelled without the diaeresis"}
+    - {form: ulpanneleësy, instead: ulpanneleesy, why: "respelled without the diaeresis"}
+    - {form: ulpanneleësyhe, instead: ulpanneleesyhe, why: "respelled without the diaeresis"}
+    - {form: vatteneleësy, instead: vatteneleesy, why: "respelled without the diaeresis"}
+    - {form: vatteneleësyhe, instead: vatteneleesyhe, why: "respelled without the diaeresis"}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -7703,7 +7746,7 @@ What a human listener never notices is where the grammar sits. The work of sayin
 
 Sinale is the eldest tongue, sung as often as spoken. Its words are long and open, full of vowels, and its consonants are clean: the stops _t_, _k_ and _p_ beside _s_, _n_, _l_ and _r_, and nothing harsh.
 
-**The vowels.** _a_ most often, then _i_, _e_, _u_ and _o_. A long vowel is written doubled (_nuuva_, _aamas_), and _ai_, _ei_, _oi_, _au_, _ou_, _ie_ and _uo_ are frequent (_huoma_, _toimu_, _eilava_). _y_ is a front vowel, said _i_ (_rivy_, _nelyve_). _ë_ marks a vowel sounded apart (_leësy_).
+**The vowels.** _a_ most often, then _i_, _e_, _u_ and _o_. A long vowel is _aa_, _ii_ or _uu_ (_nuuva_, _aamas_, _ehii_), and _ee_ is two _e_ sounds said in turn (_leesy_), and _ai_, _ei_, _oi_, _au_, _ou_, _ie_ and _uo_ are frequent (_huoma_, _toimu_, _eilava_). _y_ is a front vowel, said _i_ (_rivy_, _nelyve_).
 
 **The consonants.** _t_, _s_, _k_ and _n_ lead, then _l_, _r_, _p_, _m_, _v_ and _h_. A consonant is often long and written doubled: _tt_, _kk_, _ll_, _nn_, _ss_, _mm_ (_mollu_, _hekky_, _Kalpitti_).
 
@@ -7723,20 +7766,24 @@ _Dh_ is the voiced sound between the teeth, rare, and only between vowels. _D_ i
 
 ### Vowels
 
-Sinale has **seven vowels**, and each has a long form, so that length distinguishes words throughout. The vowels fall into three sets, and the sets govern the shape of every word:
+Sinale has **six vowels**, and _a_, _i_ and _u_ each have a long form, written doubled, so that length distinguishes words throughout. The vowels fall into three sets, and the sets govern the shape of every word:
 
 ```sql
-SELECT '_' || pp.vowel || '_' AS "Vowel",
-       CASE WHEN list_contains(harmony_back, pp.vowel) THEN 'back'
-            WHEN list_contains(harmony_neutral, pp.vowel) THEN 'neutral' ELSE 'front' END AS "Set",
-       '_' || pp.partner || '_' AS "In a suffix's front form"
-FROM (SELECT unnest(harmony_partners) AS pp, harmony_back, harmony_neutral FROM syllables WHERE language = 'thalorna-note-skill-sinalelng')
-ORDER BY list_position(['a', 'e', 'i', 'o', 'u', 'y', 'ë'], pp.vowel)
+SELECT '_' || v || '_' AS "Vowel", vset AS "Set"
+FROM (
+  SELECT unnest(harmony_back) AS v, 'back' AS vset FROM syllables WHERE language = 'thalorna-note-skill-sinalelng'
+  UNION ALL
+  SELECT unnest(harmony_neutral), 'neutral' FROM syllables WHERE language = 'thalorna-note-skill-sinalelng'
+  UNION ALL
+  SELECT unnest(harmony_front), 'front' FROM syllables WHERE language = 'thalorna-note-skill-sinalelng'
+)
+WHERE list_contains(['a', 'e', 'i', 'o', 'u', 'y'], v)
+ORDER BY list_position(['a', 'e', 'i', 'o', 'u', 'y'], v)
 ```
 
 **A word never holds a back vowel and a front vowel together.** Neutral vowels stand in either kind, and a word built only of neutral vowels counts as back.
 
-The front vowels are the language's rarer colour. Most words are back, neutral or a mixture of the two, so a suffix most often takes its back form, and a word that runs on _y_ and _ë_ stands out in a line as a bright word among dark ones.
+The front vowels are the language's rarer colour. Most words are back, neutral or a mixture of the two, so a suffix most often takes its back form, and a word that runs on _y_ stands out in a line as a bright word among dark ones.
 
 **Suffixes are listed with their back and front forms**—_-ho_ beside _-he_, _-tos_ beside _-tes_—and the stem chooses the form. Use the listed forms rather than inventing an ending from the vowel table.
 
@@ -7832,7 +7879,7 @@ Use each verb's stated meaning and make the actor and object clear:
 
 | Clause                        | Reading                                                                                              |
 | ----------------------------- | ---------------------------------------------------------------------------------------------------- |
-| _Korpe Kinsatti leësy vennas_ | "Kinsatti turns many paths": Kinsatti acts on the paths.                                             |
+| _Korpe Kinsatti leesy vennas_ | "Kinsatti turns many paths": Kinsatti acts on the paths.                                             |
 | _Paval kelkasi_               | "The cold spring opens": the spring is what opens.                                                   |
 | _Lirta torvel_                | "The oak grows": the oak is what grows.                                                              |
 | _Lirta ehii salpu vennas_     | "We grow many trees": we act on the trees.                                                           |
@@ -7842,7 +7889,7 @@ In _Toimunu ilte onsa sirne sennave_, "his name's time is one year", _onsa sirne
 
 ### Number
 
-Sinale counts the world the way it meets it. A noun for something met in quantity—leaves, stars, rain, grass, birds—is **collective** in its plain form, and a suffix picks out one of them: _nuuva_ is starlight and _nuuvanu_ a single star. A noun for a thing met singly—a person, a particular tree, a stone—is singular in its plain form, and the word _vennas_ "many" standing after it gives the plural: _mollu vennas_ "many deep pools". No suffix makes a plural: _leësy vennas_ means "many paths".
+Sinale counts the world the way it meets it. A noun for something met in quantity—leaves, stars, rain, grass, birds—is **collective** in its plain form, and a suffix picks out one of them: _nuuva_ is starlight and _nuuvanu_ a single star. A noun for a thing met singly—a person, a particular tree, a stone—is singular in its plain form, and the word _vennas_ "many" standing after it gives the plural: _mollu vennas_ "many deep pools". No suffix makes a plural: _leesy vennas_ means "many paths".
 
 ### Derivational suffixes
 
@@ -7859,7 +7906,7 @@ Two suffixes change shape after a stem that ends in a consonant, so that no join
 
 Two stems make one word: the first is the modifier and wears, the second is the head. _Kalpi_ "pale wood" and _lonku_ "the deep wood" give _halpilonku_, a birch stand within the forest. Each stem keeps its own harmony, so a compound may join a back stem to a front one, and the suffix follows the last.
 
-**Two stems join with the _e_ that _-rsa_ takes after a consonant** wherever the first ends in a consonant and the second begins with one that the cluster table does not pair with it. _Patten_ "return", worn to _vatten_, and _leësy_ "a path" give _vatteneleësy_, a way back. Where the two consonants make one of the listed pairings they meet directly, as _irtal_ and _melke_ give _irtalmelke_, a fountain.
+**Two stems join with the _e_ that _-rsa_ takes after a consonant** wherever the first ends in a consonant and the second begins with one that the cluster table does not pair with it. _Patten_ "return", worn to _vatten_, and _leesy_ "a path" give _vatteneleesy_, a way back. Where the two consonants make one of the listed pairings they meet directly, as _irtal_ and _melke_ give _irtalmelke_, a fountain.
 
 A **place name** is a compound of this kind, or a single stem with the place suffix. An enclave's own name is Sinale; the names human neighbours give enclaves are words in the neighbours' tongues.
 
@@ -7976,9 +8023,9 @@ Every Sinale word on these pages is a romanization, written in the romanization 
 
 **A doubled consonant is one sign and a bar.** The romanization writes a long consonant twice—_mollu_, and the _tt_, _ss_ and _rr_ of the phonology—while the Veldikko writes the sign once and sets a bar beneath it. _Mollu_ and _molu_ therefore differ in the hand by a single stroke, and a damaged page that has lost its bars has lost the difference between a deep pool and the colour of it.
 
-**The vowels ride above.** Seven marks, one each for _a_, _e_, _i_, _o_, _u_, _y_ and _ë_, set over the consonant they follow. A word that begins with a vowel carries its mark on a bare carrier stroke, the one sign in the script that stands for no sound of its own. A doubled vowel in the romanization—_aa_, _eë_—is a single mark drawn long rather than two marks; a diphthong is two marks over one carrier, in the order they are said.
+**The vowels ride above.** Six marks, one each for _a_, _e_, _i_, _o_, _u_ and _y_, set over the consonant they follow. A word that begins with a vowel carries its mark on a bare carrier stroke, the one sign in the script that stands for no sound of its own. A long vowel in the romanization—_aa_, _ii_ or _uu_—is a single mark drawn long rather than two marks, and _ee_ is two _e_ marks, the second on the carrier; a diphthong is two marks over one carrier, in the order they are said.
 
-**Writing and performance.** Stress stays on the first syllable. Unmarked romanization omits the pitch that Veldikko may record; an unmarked line still has a tune when spoken. Optional caron, circumflex and acute notation records falling pitch, rising pitch and emphasis as set out in [[doc-prnncthlrn#tone|Pronouncing Thalorna]]. A called name falls without wearing or shortening. The automatic Veldikko spelling rows preserve these performance annotations on their selected vowel nucleus, including long vowels and diphthongs. The distinct vowel _ë_ keeps its identity. An annotated surface form is registered explicitly in the lexicon, and its rendered reading is proofed in the native font. Ordinary Veldikko may leave pitch unwritten. The automatic map has no sentence-punctuation rows; an unmarked native passage uses language and line grouping, with editorial gaps outside the native font.
+**Writing and performance.** Stress stays on the first syllable. Unmarked romanization omits the pitch that Veldikko may record; an unmarked line still has a tune when spoken. Optional caron, circumflex and acute notation records falling pitch, rising pitch and emphasis as set out in [[doc-prnncthlrn#tone|Pronouncing Thalorna]]. A called name falls without wearing or shortening. The automatic Veldikko spelling rows preserve these performance annotations on their selected vowel nucleus, including long vowels and diphthongs. An annotated surface form is registered explicitly in the lexicon, and its rendered reading is proofed in the native font. Ordinary Veldikko may leave pitch unwritten. The automatic map has no sentence-punctuation rows; an unmarked native passage uses language and line grouping, with editorial gaps outside the native font.
 
 **The check that catches most copyists.** A word never holds a back vowel and a front vowel together, so every vowel mark in a word belongs to one set. A word carrying both is an error before it is anything else, and it is the first thing a Sinale reader sees.
 
@@ -8163,7 +8210,7 @@ Three moves make regular built words in this lexicon. Fixed lexical forms are le
 
 **A suffix.** A word takes one of the derivational suffixes the language page lists, in the form its vowels call for. _Lorrami_ "woven cloth" holds back and neutral vowels and takes _-nno_ to give _lorraminno_ "a weaver"; _symme_ "the art" holds front vowels and takes _-nne_ to give _symmenne_ "one who works the art".
 
-**A compound.** Two words make one: the first describes the second and wears, the second keeps its own shape. _Kalpi_ "pale wood" and _lonku_ "the deep wood" give _halpilonku_ "a birch stand within the forest", the _k_ of the first worn to _h_. _Nuuva_ "starlight" and _talkaro_ "an age" give _nuuvatalkaro_ "the Age of Stars"; _nuuva_ opens on _n_, which is worn already, and does not change. Where the two words meet on two consonants the cluster table does not pair, they take the joining _e_ the language page sets out, as _patten_ and _leësy_ give _vatteneleësy_ "a way back".
+**A compound.** Two words make one: the first describes the second and wears, the second keeps its own shape. _Kalpi_ "pale wood" and _lonku_ "the deep wood" give _halpilonku_ "a birch stand within the forest", the _k_ of the first worn to _h_. _Nuuva_ "starlight" and _talkaro_ "an age" give _nuuvatalkaro_ "the Age of Stars"; _nuuva_ opens on _n_, which is worn already, and does not change. Where the two words meet on two consonants the cluster table does not pair, they take the joining _e_ the language page sets out, as _patten_ and _leesy_ give _vatteneleesy_ "a way back".
 
 **A name.** A given name is a word in its plain form with a naming ending; a lineage name is the same word with the hearth ending. _Tirvali_ "the long road" gives the given names _Tirvalitti_ and _Tirvalitta_ and the lineage name _Tirvalinto_, "the hearth of the long road". The ending _-la_ is not used on _tirvali_, which already ends on _l_.
 

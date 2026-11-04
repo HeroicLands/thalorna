@@ -70,7 +70,6 @@ data:
     y: SIGN_Y
     ŷ: [SIGN_Y, RISE]
     ý: [SIGN_Y, EMPHASIS]
-    ë: SIGN_E_DIAERESIS
     j: SIGN_Y
     aa: [SIGN_A, LONG]
     aâ: [SIGN_A, LONG, RISE]
@@ -121,11 +120,6 @@ data:
     áy: [SIGN_A, EMPHASIS, CARRIER, SIGN_Y]
     áŷ: [SIGN_A, EMPHASIS, CARRIER, SIGN_Y, RISE]
     ấy: [SIGN_A, RISE, EMPHASIS, CARRIER, SIGN_Y]
-    aë: [SIGN_A, CARRIER, SIGN_E_DIAERESIS]
-    âë: [SIGN_A, RISE, CARRIER, SIGN_E_DIAERESIS]
-    ǎë: [SIGN_A, FALL, CARRIER, SIGN_E_DIAERESIS]
-    áë: [SIGN_A, EMPHASIS, CARRIER, SIGN_E_DIAERESIS]
-    ấë: [SIGN_A, RISE, EMPHASIS, CARRIER, SIGN_E_DIAERESIS]
     ea: [SIGN_E, CARRIER, SIGN_A]
     eâ: [SIGN_E, CARRIER, SIGN_A, RISE]
     eǎ: [SIGN_E, CARRIER, SIGN_A, FALL]
@@ -139,19 +133,19 @@ data:
     éâ: [SIGN_E, EMPHASIS, CARRIER, SIGN_A, RISE]
     éǎ: [SIGN_E, EMPHASIS, CARRIER, SIGN_A, FALL]
     ếa: [SIGN_E, RISE, EMPHASIS, CARRIER, SIGN_A]
-    ee: [SIGN_E, LONG]
-    eê: [SIGN_E, LONG, RISE]
-    eě: [SIGN_E, LONG, FALL]
-    eé: [SIGN_E, LONG, EMPHASIS]
-    eế: [SIGN_E, LONG, RISE, EMPHASIS]
-    êe: [SIGN_E, LONG, RISE]
-    êé: [SIGN_E, LONG, RISE, EMPHASIS]
-    ěe: [SIGN_E, LONG, FALL]
-    ěé: [SIGN_E, LONG, FALL, EMPHASIS]
-    ée: [SIGN_E, LONG, EMPHASIS]
-    éê: [SIGN_E, LONG, RISE, EMPHASIS]
-    éě: [SIGN_E, LONG, FALL, EMPHASIS]
-    ếe: [SIGN_E, LONG, RISE, EMPHASIS]
+    ee: [SIGN_E, CARRIER, SIGN_E]
+    eê: [SIGN_E, CARRIER, SIGN_E, RISE]
+    eě: [SIGN_E, CARRIER, SIGN_E, FALL]
+    eé: [SIGN_E, CARRIER, SIGN_E, EMPHASIS]
+    eế: [SIGN_E, CARRIER, SIGN_E, RISE, EMPHASIS]
+    êe: [SIGN_E, RISE, CARRIER, SIGN_E]
+    êé: [SIGN_E, RISE, CARRIER, SIGN_E, EMPHASIS]
+    ěe: [SIGN_E, FALL, CARRIER, SIGN_E]
+    ěé: [SIGN_E, FALL, CARRIER, SIGN_E, EMPHASIS]
+    ée: [SIGN_E, EMPHASIS, CARRIER, SIGN_E]
+    éê: [SIGN_E, EMPHASIS, CARRIER, SIGN_E, RISE]
+    éě: [SIGN_E, EMPHASIS, CARRIER, SIGN_E, FALL]
+    ếe: [SIGN_E, RISE, EMPHASIS, CARRIER, SIGN_E]
     eu: [SIGN_E, CARRIER, SIGN_U]
     eû: [SIGN_E, CARRIER, SIGN_U, RISE]
     eǔ: [SIGN_E, CARRIER, SIGN_U, FALL]
@@ -174,11 +168,6 @@ data:
     éy: [SIGN_E, EMPHASIS, CARRIER, SIGN_Y]
     éŷ: [SIGN_E, EMPHASIS, CARRIER, SIGN_Y, RISE]
     ếy: [SIGN_E, RISE, EMPHASIS, CARRIER, SIGN_Y]
-    eë: [SIGN_E_DIAERESIS, LONG]
-    êë: [SIGN_E_DIAERESIS, LONG, RISE]
-    ěë: [SIGN_E_DIAERESIS, LONG, FALL]
-    éë: [SIGN_E_DIAERESIS, LONG, EMPHASIS]
-    ếë: [SIGN_E_DIAERESIS, LONG, RISE, EMPHASIS]
     ii: [SIGN_I, LONG]
     iî: [SIGN_I, LONG, RISE]
     iǐ: [SIGN_I, LONG, FALL]
@@ -222,10 +211,6 @@ data:
     ǐý: [SIGN_I, FALL, CARRIER, SIGN_Y, EMPHASIS]
     íy: [SIGN_I, EMPHASIS, CARRIER, SIGN_Y]
     íŷ: [SIGN_I, EMPHASIS, CARRIER, SIGN_Y, RISE]
-    ië: [SIGN_I, CARRIER, SIGN_E_DIAERESIS]
-    îë: [SIGN_I, RISE, CARRIER, SIGN_E_DIAERESIS]
-    ǐë: [SIGN_I, FALL, CARRIER, SIGN_E_DIAERESIS]
-    íë: [SIGN_I, EMPHASIS, CARRIER, SIGN_E_DIAERESIS]
     oa: [SIGN_O, CARRIER, SIGN_A]
     oâ: [SIGN_O, CARRIER, SIGN_A, RISE]
     oǎ: [SIGN_O, CARRIER, SIGN_A, FALL]
@@ -252,19 +237,19 @@ data:
     óê: [SIGN_O, EMPHASIS, CARRIER, SIGN_E, RISE]
     óě: [SIGN_O, EMPHASIS, CARRIER, SIGN_E, FALL]
     ốe: [SIGN_O, RISE, EMPHASIS, CARRIER, SIGN_E]
-    oo: [SIGN_O, LONG]
-    oô: [SIGN_O, LONG, RISE]
-    oǒ: [SIGN_O, LONG, FALL]
-    oó: [SIGN_O, LONG, EMPHASIS]
-    oố: [SIGN_O, LONG, RISE, EMPHASIS]
-    ôo: [SIGN_O, LONG, RISE]
-    ôó: [SIGN_O, LONG, RISE, EMPHASIS]
-    ǒo: [SIGN_O, LONG, FALL]
-    ǒó: [SIGN_O, LONG, FALL, EMPHASIS]
-    óo: [SIGN_O, LONG, EMPHASIS]
-    óô: [SIGN_O, LONG, RISE, EMPHASIS]
-    óǒ: [SIGN_O, LONG, FALL, EMPHASIS]
-    ốo: [SIGN_O, LONG, RISE, EMPHASIS]
+    oo: [SIGN_O, CARRIER, SIGN_O]
+    oô: [SIGN_O, CARRIER, SIGN_O, RISE]
+    oǒ: [SIGN_O, CARRIER, SIGN_O, FALL]
+    oó: [SIGN_O, CARRIER, SIGN_O, EMPHASIS]
+    oố: [SIGN_O, CARRIER, SIGN_O, RISE, EMPHASIS]
+    ôo: [SIGN_O, RISE, CARRIER, SIGN_O]
+    ôó: [SIGN_O, RISE, CARRIER, SIGN_O, EMPHASIS]
+    ǒo: [SIGN_O, FALL, CARRIER, SIGN_O]
+    ǒó: [SIGN_O, FALL, CARRIER, SIGN_O, EMPHASIS]
+    óo: [SIGN_O, EMPHASIS, CARRIER, SIGN_O]
+    óô: [SIGN_O, EMPHASIS, CARRIER, SIGN_O, RISE]
+    óǒ: [SIGN_O, EMPHASIS, CARRIER, SIGN_O, FALL]
+    ốo: [SIGN_O, RISE, EMPHASIS, CARRIER, SIGN_O]
     oy: [SIGN_O, CARRIER, SIGN_Y]
     oŷ: [SIGN_O, CARRIER, SIGN_Y, RISE]
     oý: [SIGN_O, CARRIER, SIGN_Y, EMPHASIS]
@@ -275,11 +260,6 @@ data:
     óy: [SIGN_O, EMPHASIS, CARRIER, SIGN_Y]
     óŷ: [SIGN_O, EMPHASIS, CARRIER, SIGN_Y, RISE]
     ốy: [SIGN_O, RISE, EMPHASIS, CARRIER, SIGN_Y]
-    oë: [SIGN_O, CARRIER, SIGN_E_DIAERESIS]
-    ôë: [SIGN_O, RISE, CARRIER, SIGN_E_DIAERESIS]
-    ǒë: [SIGN_O, FALL, CARRIER, SIGN_E_DIAERESIS]
-    óë: [SIGN_O, EMPHASIS, CARRIER, SIGN_E_DIAERESIS]
-    ốë: [SIGN_O, RISE, EMPHASIS, CARRIER, SIGN_E_DIAERESIS]
     ua: [SIGN_U, CARRIER, SIGN_A]
     uâ: [SIGN_U, CARRIER, SIGN_A, RISE]
     uǎ: [SIGN_U, CARRIER, SIGN_A, FALL]
@@ -324,10 +304,6 @@ data:
     ǔý: [SIGN_U, FALL, CARRIER, SIGN_Y, EMPHASIS]
     úy: [SIGN_U, EMPHASIS, CARRIER, SIGN_Y]
     úŷ: [SIGN_U, EMPHASIS, CARRIER, SIGN_Y, RISE]
-    uë: [SIGN_U, CARRIER, SIGN_E_DIAERESIS]
-    ûë: [SIGN_U, RISE, CARRIER, SIGN_E_DIAERESIS]
-    ǔë: [SIGN_U, FALL, CARRIER, SIGN_E_DIAERESIS]
-    úë: [SIGN_U, EMPHASIS, CARRIER, SIGN_E_DIAERESIS]
     ya: [SIGN_Y, CARRIER, SIGN_A]
     yâ: [SIGN_Y, CARRIER, SIGN_A, RISE]
     yǎ: [SIGN_Y, CARRIER, SIGN_A, FALL]
@@ -357,43 +333,13 @@ data:
     ýu: [SIGN_Y, EMPHASIS, CARRIER, SIGN_U]
     ýû: [SIGN_Y, EMPHASIS, CARRIER, SIGN_U, RISE]
     ýǔ: [SIGN_Y, EMPHASIS, CARRIER, SIGN_U, FALL]
-    yy: [SIGN_Y, LONG]
-    yŷ: [SIGN_Y, LONG, RISE]
-    yý: [SIGN_Y, LONG, EMPHASIS]
-    ŷy: [SIGN_Y, LONG, RISE]
-    ŷý: [SIGN_Y, LONG, RISE, EMPHASIS]
-    ýy: [SIGN_Y, LONG, EMPHASIS]
-    ýŷ: [SIGN_Y, LONG, RISE, EMPHASIS]
-    yë: [SIGN_Y, CARRIER, SIGN_E_DIAERESIS]
-    ŷë: [SIGN_Y, RISE, CARRIER, SIGN_E_DIAERESIS]
-    ýë: [SIGN_Y, EMPHASIS, CARRIER, SIGN_E_DIAERESIS]
-    ëa: [SIGN_E_DIAERESIS, CARRIER, SIGN_A]
-    ëâ: [SIGN_E_DIAERESIS, CARRIER, SIGN_A, RISE]
-    ëǎ: [SIGN_E_DIAERESIS, CARRIER, SIGN_A, FALL]
-    ëá: [SIGN_E_DIAERESIS, CARRIER, SIGN_A, EMPHASIS]
-    ëấ: [SIGN_E_DIAERESIS, CARRIER, SIGN_A, RISE, EMPHASIS]
-    ëe: [SIGN_E_DIAERESIS, CARRIER, SIGN_E]
-    ëê: [SIGN_E_DIAERESIS, CARRIER, SIGN_E, RISE]
-    ëě: [SIGN_E_DIAERESIS, CARRIER, SIGN_E, FALL]
-    ëé: [SIGN_E_DIAERESIS, CARRIER, SIGN_E, EMPHASIS]
-    ëế: [SIGN_E_DIAERESIS, CARRIER, SIGN_E, RISE, EMPHASIS]
-    ëi: [SIGN_E_DIAERESIS, CARRIER, SIGN_I]
-    ëî: [SIGN_E_DIAERESIS, CARRIER, SIGN_I, RISE]
-    ëǐ: [SIGN_E_DIAERESIS, CARRIER, SIGN_I, FALL]
-    ëí: [SIGN_E_DIAERESIS, CARRIER, SIGN_I, EMPHASIS]
-    ëo: [SIGN_E_DIAERESIS, CARRIER, SIGN_O]
-    ëô: [SIGN_E_DIAERESIS, CARRIER, SIGN_O, RISE]
-    ëǒ: [SIGN_E_DIAERESIS, CARRIER, SIGN_O, FALL]
-    ëó: [SIGN_E_DIAERESIS, CARRIER, SIGN_O, EMPHASIS]
-    ëố: [SIGN_E_DIAERESIS, CARRIER, SIGN_O, RISE, EMPHASIS]
-    ëu: [SIGN_E_DIAERESIS, CARRIER, SIGN_U]
-    ëû: [SIGN_E_DIAERESIS, CARRIER, SIGN_U, RISE]
-    ëǔ: [SIGN_E_DIAERESIS, CARRIER, SIGN_U, FALL]
-    ëú: [SIGN_E_DIAERESIS, CARRIER, SIGN_U, EMPHASIS]
-    ëy: [SIGN_E_DIAERESIS, CARRIER, SIGN_Y]
-    ëŷ: [SIGN_E_DIAERESIS, CARRIER, SIGN_Y, RISE]
-    ëý: [SIGN_E_DIAERESIS, CARRIER, SIGN_Y, EMPHASIS]
-    ëë: [SIGN_E_DIAERESIS, LONG]
+    yy: [SIGN_Y, CARRIER, SIGN_Y]
+    yŷ: [SIGN_Y, CARRIER, SIGN_Y, RISE]
+    yý: [SIGN_Y, CARRIER, SIGN_Y, EMPHASIS]
+    ŷy: [SIGN_Y, RISE, CARRIER, SIGN_Y]
+    ŷý: [SIGN_Y, RISE, CARRIER, SIGN_Y, EMPHASIS]
+    ýy: [SIGN_Y, EMPHASIS, CARRIER, SIGN_Y]
+    ýŷ: [SIGN_Y, EMPHASIS, CARRIER, SIGN_Y, RISE]
   rules:
     normalization: NFC
     matching: longest-first
@@ -428,7 +374,6 @@ data:
       - {match: y, emit: [CARRIER, SIGN_Y], at: start}
       - {match: ŷ, emit: [CARRIER, SIGN_Y, RISE], at: start}
       - {match: ý, emit: [CARRIER, SIGN_Y, EMPHASIS], at: start}
-      - {match: ë, emit: [CARRIER, SIGN_E_DIAERESIS], at: start}
       - {match: j, emit: [CARRIER, SIGN_Y], at: start}
       - {match: aa, emit: [CARRIER, SIGN_A, LONG], at: start}
       - {match: aâ, emit: [CARRIER, SIGN_A, LONG, RISE], at: start}
@@ -479,11 +424,6 @@ data:
       - {match: áy, emit: [CARRIER, SIGN_A, EMPHASIS, CARRIER, SIGN_Y], at: start}
       - {match: áŷ, emit: [CARRIER, SIGN_A, EMPHASIS, CARRIER, SIGN_Y, RISE], at: start}
       - {match: ấy, emit: [CARRIER, SIGN_A, RISE, EMPHASIS, CARRIER, SIGN_Y], at: start}
-      - {match: aë, emit: [CARRIER, SIGN_A, CARRIER, SIGN_E_DIAERESIS], at: start}
-      - {match: âë, emit: [CARRIER, SIGN_A, RISE, CARRIER, SIGN_E_DIAERESIS], at: start}
-      - {match: ǎë, emit: [CARRIER, SIGN_A, FALL, CARRIER, SIGN_E_DIAERESIS], at: start}
-      - {match: áë, emit: [CARRIER, SIGN_A, EMPHASIS, CARRIER, SIGN_E_DIAERESIS], at: start}
-      - {match: ấë, emit: [CARRIER, SIGN_A, RISE, EMPHASIS, CARRIER, SIGN_E_DIAERESIS], at: start}
       - {match: ea, emit: [CARRIER, SIGN_E, CARRIER, SIGN_A], at: start}
       - {match: eâ, emit: [CARRIER, SIGN_E, CARRIER, SIGN_A, RISE], at: start}
       - {match: eǎ, emit: [CARRIER, SIGN_E, CARRIER, SIGN_A, FALL], at: start}
@@ -497,19 +437,19 @@ data:
       - {match: éâ, emit: [CARRIER, SIGN_E, EMPHASIS, CARRIER, SIGN_A, RISE], at: start}
       - {match: éǎ, emit: [CARRIER, SIGN_E, EMPHASIS, CARRIER, SIGN_A, FALL], at: start}
       - {match: ếa, emit: [CARRIER, SIGN_E, RISE, EMPHASIS, CARRIER, SIGN_A], at: start}
-      - {match: ee, emit: [CARRIER, SIGN_E, LONG], at: start}
-      - {match: eê, emit: [CARRIER, SIGN_E, LONG, RISE], at: start}
-      - {match: eě, emit: [CARRIER, SIGN_E, LONG, FALL], at: start}
-      - {match: eé, emit: [CARRIER, SIGN_E, LONG, EMPHASIS], at: start}
-      - {match: eế, emit: [CARRIER, SIGN_E, LONG, RISE, EMPHASIS], at: start}
-      - {match: êe, emit: [CARRIER, SIGN_E, LONG, RISE], at: start}
-      - {match: êé, emit: [CARRIER, SIGN_E, LONG, RISE, EMPHASIS], at: start}
-      - {match: ěe, emit: [CARRIER, SIGN_E, LONG, FALL], at: start}
-      - {match: ěé, emit: [CARRIER, SIGN_E, LONG, FALL, EMPHASIS], at: start}
-      - {match: ée, emit: [CARRIER, SIGN_E, LONG, EMPHASIS], at: start}
-      - {match: éê, emit: [CARRIER, SIGN_E, LONG, RISE, EMPHASIS], at: start}
-      - {match: éě, emit: [CARRIER, SIGN_E, LONG, FALL, EMPHASIS], at: start}
-      - {match: ếe, emit: [CARRIER, SIGN_E, LONG, RISE, EMPHASIS], at: start}
+      - {match: ee, emit: [CARRIER, SIGN_E, CARRIER, SIGN_E], at: start}
+      - {match: eê, emit: [CARRIER, SIGN_E, CARRIER, SIGN_E, RISE], at: start}
+      - {match: eě, emit: [CARRIER, SIGN_E, CARRIER, SIGN_E, FALL], at: start}
+      - {match: eé, emit: [CARRIER, SIGN_E, CARRIER, SIGN_E, EMPHASIS], at: start}
+      - {match: eế, emit: [CARRIER, SIGN_E, CARRIER, SIGN_E, RISE, EMPHASIS], at: start}
+      - {match: êe, emit: [CARRIER, SIGN_E, RISE, CARRIER, SIGN_E], at: start}
+      - {match: êé, emit: [CARRIER, SIGN_E, RISE, CARRIER, SIGN_E, EMPHASIS], at: start}
+      - {match: ěe, emit: [CARRIER, SIGN_E, FALL, CARRIER, SIGN_E], at: start}
+      - {match: ěé, emit: [CARRIER, SIGN_E, FALL, CARRIER, SIGN_E, EMPHASIS], at: start}
+      - {match: ée, emit: [CARRIER, SIGN_E, EMPHASIS, CARRIER, SIGN_E], at: start}
+      - {match: éê, emit: [CARRIER, SIGN_E, EMPHASIS, CARRIER, SIGN_E, RISE], at: start}
+      - {match: éě, emit: [CARRIER, SIGN_E, EMPHASIS, CARRIER, SIGN_E, FALL], at: start}
+      - {match: ếe, emit: [CARRIER, SIGN_E, RISE, EMPHASIS, CARRIER, SIGN_E], at: start}
       - {match: eu, emit: [CARRIER, SIGN_E, CARRIER, SIGN_U], at: start}
       - {match: eû, emit: [CARRIER, SIGN_E, CARRIER, SIGN_U, RISE], at: start}
       - {match: eǔ, emit: [CARRIER, SIGN_E, CARRIER, SIGN_U, FALL], at: start}
@@ -532,11 +472,6 @@ data:
       - {match: éy, emit: [CARRIER, SIGN_E, EMPHASIS, CARRIER, SIGN_Y], at: start}
       - {match: éŷ, emit: [CARRIER, SIGN_E, EMPHASIS, CARRIER, SIGN_Y, RISE], at: start}
       - {match: ếy, emit: [CARRIER, SIGN_E, RISE, EMPHASIS, CARRIER, SIGN_Y], at: start}
-      - {match: eë, emit: [CARRIER, SIGN_E_DIAERESIS, LONG], at: start}
-      - {match: êë, emit: [CARRIER, SIGN_E_DIAERESIS, LONG, RISE], at: start}
-      - {match: ěë, emit: [CARRIER, SIGN_E_DIAERESIS, LONG, FALL], at: start}
-      - {match: éë, emit: [CARRIER, SIGN_E_DIAERESIS, LONG, EMPHASIS], at: start}
-      - {match: ếë, emit: [CARRIER, SIGN_E_DIAERESIS, LONG, RISE, EMPHASIS], at: start}
       - {match: ii, emit: [CARRIER, SIGN_I, LONG], at: start}
       - {match: iî, emit: [CARRIER, SIGN_I, LONG, RISE], at: start}
       - {match: iǐ, emit: [CARRIER, SIGN_I, LONG, FALL], at: start}
@@ -580,10 +515,6 @@ data:
       - {match: ǐý, emit: [CARRIER, SIGN_I, FALL, CARRIER, SIGN_Y, EMPHASIS], at: start}
       - {match: íy, emit: [CARRIER, SIGN_I, EMPHASIS, CARRIER, SIGN_Y], at: start}
       - {match: íŷ, emit: [CARRIER, SIGN_I, EMPHASIS, CARRIER, SIGN_Y, RISE], at: start}
-      - {match: ië, emit: [CARRIER, SIGN_I, CARRIER, SIGN_E_DIAERESIS], at: start}
-      - {match: îë, emit: [CARRIER, SIGN_I, RISE, CARRIER, SIGN_E_DIAERESIS], at: start}
-      - {match: ǐë, emit: [CARRIER, SIGN_I, FALL, CARRIER, SIGN_E_DIAERESIS], at: start}
-      - {match: íë, emit: [CARRIER, SIGN_I, EMPHASIS, CARRIER, SIGN_E_DIAERESIS], at: start}
       - {match: oa, emit: [CARRIER, SIGN_O, CARRIER, SIGN_A], at: start}
       - {match: oâ, emit: [CARRIER, SIGN_O, CARRIER, SIGN_A, RISE], at: start}
       - {match: oǎ, emit: [CARRIER, SIGN_O, CARRIER, SIGN_A, FALL], at: start}
@@ -610,19 +541,19 @@ data:
       - {match: óê, emit: [CARRIER, SIGN_O, EMPHASIS, CARRIER, SIGN_E, RISE], at: start}
       - {match: óě, emit: [CARRIER, SIGN_O, EMPHASIS, CARRIER, SIGN_E, FALL], at: start}
       - {match: ốe, emit: [CARRIER, SIGN_O, RISE, EMPHASIS, CARRIER, SIGN_E], at: start}
-      - {match: oo, emit: [CARRIER, SIGN_O, LONG], at: start}
-      - {match: oô, emit: [CARRIER, SIGN_O, LONG, RISE], at: start}
-      - {match: oǒ, emit: [CARRIER, SIGN_O, LONG, FALL], at: start}
-      - {match: oó, emit: [CARRIER, SIGN_O, LONG, EMPHASIS], at: start}
-      - {match: oố, emit: [CARRIER, SIGN_O, LONG, RISE, EMPHASIS], at: start}
-      - {match: ôo, emit: [CARRIER, SIGN_O, LONG, RISE], at: start}
-      - {match: ôó, emit: [CARRIER, SIGN_O, LONG, RISE, EMPHASIS], at: start}
-      - {match: ǒo, emit: [CARRIER, SIGN_O, LONG, FALL], at: start}
-      - {match: ǒó, emit: [CARRIER, SIGN_O, LONG, FALL, EMPHASIS], at: start}
-      - {match: óo, emit: [CARRIER, SIGN_O, LONG, EMPHASIS], at: start}
-      - {match: óô, emit: [CARRIER, SIGN_O, LONG, RISE, EMPHASIS], at: start}
-      - {match: óǒ, emit: [CARRIER, SIGN_O, LONG, FALL, EMPHASIS], at: start}
-      - {match: ốo, emit: [CARRIER, SIGN_O, LONG, RISE, EMPHASIS], at: start}
+      - {match: oo, emit: [CARRIER, SIGN_O, CARRIER, SIGN_O], at: start}
+      - {match: oô, emit: [CARRIER, SIGN_O, CARRIER, SIGN_O, RISE], at: start}
+      - {match: oǒ, emit: [CARRIER, SIGN_O, CARRIER, SIGN_O, FALL], at: start}
+      - {match: oó, emit: [CARRIER, SIGN_O, CARRIER, SIGN_O, EMPHASIS], at: start}
+      - {match: oố, emit: [CARRIER, SIGN_O, CARRIER, SIGN_O, RISE, EMPHASIS], at: start}
+      - {match: ôo, emit: [CARRIER, SIGN_O, RISE, CARRIER, SIGN_O], at: start}
+      - {match: ôó, emit: [CARRIER, SIGN_O, RISE, CARRIER, SIGN_O, EMPHASIS], at: start}
+      - {match: ǒo, emit: [CARRIER, SIGN_O, FALL, CARRIER, SIGN_O], at: start}
+      - {match: ǒó, emit: [CARRIER, SIGN_O, FALL, CARRIER, SIGN_O, EMPHASIS], at: start}
+      - {match: óo, emit: [CARRIER, SIGN_O, EMPHASIS, CARRIER, SIGN_O], at: start}
+      - {match: óô, emit: [CARRIER, SIGN_O, EMPHASIS, CARRIER, SIGN_O, RISE], at: start}
+      - {match: óǒ, emit: [CARRIER, SIGN_O, EMPHASIS, CARRIER, SIGN_O, FALL], at: start}
+      - {match: ốo, emit: [CARRIER, SIGN_O, RISE, EMPHASIS, CARRIER, SIGN_O], at: start}
       - {match: oy, emit: [CARRIER, SIGN_O, CARRIER, SIGN_Y], at: start}
       - {match: oŷ, emit: [CARRIER, SIGN_O, CARRIER, SIGN_Y, RISE], at: start}
       - {match: oý, emit: [CARRIER, SIGN_O, CARRIER, SIGN_Y, EMPHASIS], at: start}
@@ -633,11 +564,6 @@ data:
       - {match: óy, emit: [CARRIER, SIGN_O, EMPHASIS, CARRIER, SIGN_Y], at: start}
       - {match: óŷ, emit: [CARRIER, SIGN_O, EMPHASIS, CARRIER, SIGN_Y, RISE], at: start}
       - {match: ốy, emit: [CARRIER, SIGN_O, RISE, EMPHASIS, CARRIER, SIGN_Y], at: start}
-      - {match: oë, emit: [CARRIER, SIGN_O, CARRIER, SIGN_E_DIAERESIS], at: start}
-      - {match: ôë, emit: [CARRIER, SIGN_O, RISE, CARRIER, SIGN_E_DIAERESIS], at: start}
-      - {match: ǒë, emit: [CARRIER, SIGN_O, FALL, CARRIER, SIGN_E_DIAERESIS], at: start}
-      - {match: óë, emit: [CARRIER, SIGN_O, EMPHASIS, CARRIER, SIGN_E_DIAERESIS], at: start}
-      - {match: ốë, emit: [CARRIER, SIGN_O, RISE, EMPHASIS, CARRIER, SIGN_E_DIAERESIS], at: start}
       - {match: ua, emit: [CARRIER, SIGN_U, CARRIER, SIGN_A], at: start}
       - {match: uâ, emit: [CARRIER, SIGN_U, CARRIER, SIGN_A, RISE], at: start}
       - {match: uǎ, emit: [CARRIER, SIGN_U, CARRIER, SIGN_A, FALL], at: start}
@@ -682,10 +608,6 @@ data:
       - {match: ǔý, emit: [CARRIER, SIGN_U, FALL, CARRIER, SIGN_Y, EMPHASIS], at: start}
       - {match: úy, emit: [CARRIER, SIGN_U, EMPHASIS, CARRIER, SIGN_Y], at: start}
       - {match: úŷ, emit: [CARRIER, SIGN_U, EMPHASIS, CARRIER, SIGN_Y, RISE], at: start}
-      - {match: uë, emit: [CARRIER, SIGN_U, CARRIER, SIGN_E_DIAERESIS], at: start}
-      - {match: ûë, emit: [CARRIER, SIGN_U, RISE, CARRIER, SIGN_E_DIAERESIS], at: start}
-      - {match: ǔë, emit: [CARRIER, SIGN_U, FALL, CARRIER, SIGN_E_DIAERESIS], at: start}
-      - {match: úë, emit: [CARRIER, SIGN_U, EMPHASIS, CARRIER, SIGN_E_DIAERESIS], at: start}
       - {match: ya, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_A], at: start}
       - {match: yâ, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_A, RISE], at: start}
       - {match: yǎ, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_A, FALL], at: start}
@@ -715,43 +637,13 @@ data:
       - {match: ýu, emit: [CARRIER, SIGN_Y, EMPHASIS, CARRIER, SIGN_U], at: start}
       - {match: ýû, emit: [CARRIER, SIGN_Y, EMPHASIS, CARRIER, SIGN_U, RISE], at: start}
       - {match: ýǔ, emit: [CARRIER, SIGN_Y, EMPHASIS, CARRIER, SIGN_U, FALL], at: start}
-      - {match: yy, emit: [CARRIER, SIGN_Y, LONG], at: start}
-      - {match: yŷ, emit: [CARRIER, SIGN_Y, LONG, RISE], at: start}
-      - {match: yý, emit: [CARRIER, SIGN_Y, LONG, EMPHASIS], at: start}
-      - {match: ŷy, emit: [CARRIER, SIGN_Y, LONG, RISE], at: start}
-      - {match: ŷý, emit: [CARRIER, SIGN_Y, LONG, RISE, EMPHASIS], at: start}
-      - {match: ýy, emit: [CARRIER, SIGN_Y, LONG, EMPHASIS], at: start}
-      - {match: ýŷ, emit: [CARRIER, SIGN_Y, LONG, RISE, EMPHASIS], at: start}
-      - {match: yë, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_E_DIAERESIS], at: start}
-      - {match: ŷë, emit: [CARRIER, SIGN_Y, RISE, CARRIER, SIGN_E_DIAERESIS], at: start}
-      - {match: ýë, emit: [CARRIER, SIGN_Y, EMPHASIS, CARRIER, SIGN_E_DIAERESIS], at: start}
-      - {match: ëa, emit: [CARRIER, SIGN_E_DIAERESIS, CARRIER, SIGN_A], at: start}
-      - {match: ëâ, emit: [CARRIER, SIGN_E_DIAERESIS, CARRIER, SIGN_A, RISE], at: start}
-      - {match: ëǎ, emit: [CARRIER, SIGN_E_DIAERESIS, CARRIER, SIGN_A, FALL], at: start}
-      - {match: ëá, emit: [CARRIER, SIGN_E_DIAERESIS, CARRIER, SIGN_A, EMPHASIS], at: start}
-      - {match: ëấ, emit: [CARRIER, SIGN_E_DIAERESIS, CARRIER, SIGN_A, RISE, EMPHASIS], at: start}
-      - {match: ëe, emit: [CARRIER, SIGN_E_DIAERESIS, CARRIER, SIGN_E], at: start}
-      - {match: ëê, emit: [CARRIER, SIGN_E_DIAERESIS, CARRIER, SIGN_E, RISE], at: start}
-      - {match: ëě, emit: [CARRIER, SIGN_E_DIAERESIS, CARRIER, SIGN_E, FALL], at: start}
-      - {match: ëé, emit: [CARRIER, SIGN_E_DIAERESIS, CARRIER, SIGN_E, EMPHASIS], at: start}
-      - {match: ëế, emit: [CARRIER, SIGN_E_DIAERESIS, CARRIER, SIGN_E, RISE, EMPHASIS], at: start}
-      - {match: ëi, emit: [CARRIER, SIGN_E_DIAERESIS, CARRIER, SIGN_I], at: start}
-      - {match: ëî, emit: [CARRIER, SIGN_E_DIAERESIS, CARRIER, SIGN_I, RISE], at: start}
-      - {match: ëǐ, emit: [CARRIER, SIGN_E_DIAERESIS, CARRIER, SIGN_I, FALL], at: start}
-      - {match: ëí, emit: [CARRIER, SIGN_E_DIAERESIS, CARRIER, SIGN_I, EMPHASIS], at: start}
-      - {match: ëo, emit: [CARRIER, SIGN_E_DIAERESIS, CARRIER, SIGN_O], at: start}
-      - {match: ëô, emit: [CARRIER, SIGN_E_DIAERESIS, CARRIER, SIGN_O, RISE], at: start}
-      - {match: ëǒ, emit: [CARRIER, SIGN_E_DIAERESIS, CARRIER, SIGN_O, FALL], at: start}
-      - {match: ëó, emit: [CARRIER, SIGN_E_DIAERESIS, CARRIER, SIGN_O, EMPHASIS], at: start}
-      - {match: ëố, emit: [CARRIER, SIGN_E_DIAERESIS, CARRIER, SIGN_O, RISE, EMPHASIS], at: start}
-      - {match: ëu, emit: [CARRIER, SIGN_E_DIAERESIS, CARRIER, SIGN_U], at: start}
-      - {match: ëû, emit: [CARRIER, SIGN_E_DIAERESIS, CARRIER, SIGN_U, RISE], at: start}
-      - {match: ëǔ, emit: [CARRIER, SIGN_E_DIAERESIS, CARRIER, SIGN_U, FALL], at: start}
-      - {match: ëú, emit: [CARRIER, SIGN_E_DIAERESIS, CARRIER, SIGN_U, EMPHASIS], at: start}
-      - {match: ëy, emit: [CARRIER, SIGN_E_DIAERESIS, CARRIER, SIGN_Y], at: start}
-      - {match: ëŷ, emit: [CARRIER, SIGN_E_DIAERESIS, CARRIER, SIGN_Y, RISE], at: start}
-      - {match: ëý, emit: [CARRIER, SIGN_E_DIAERESIS, CARRIER, SIGN_Y, EMPHASIS], at: start}
-      - {match: ëë, emit: [CARRIER, SIGN_E_DIAERESIS, LONG], at: start}
+      - {match: yy, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_Y], at: start}
+      - {match: yŷ, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_Y, RISE], at: start}
+      - {match: yý, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_Y, EMPHASIS], at: start}
+      - {match: ŷy, emit: [CARRIER, SIGN_Y, RISE, CARRIER, SIGN_Y], at: start}
+      - {match: ŷý, emit: [CARRIER, SIGN_Y, RISE, CARRIER, SIGN_Y, EMPHASIS], at: start}
+      - {match: ýy, emit: [CARRIER, SIGN_Y, EMPHASIS, CARRIER, SIGN_Y], at: start}
+      - {match: ýŷ, emit: [CARRIER, SIGN_Y, EMPHASIS, CARRIER, SIGN_Y, RISE], at: start}
 ---
 
 This encoding writes [[skill-sinalelng|Sinale]] in veldikko. A passage selects it with `enc=sinaveldikkoenc`. The note supplies its language and font. Roman word spaces are retained. Decoding returns a conventional spelling where spellings share a sign.
@@ -764,11 +656,11 @@ This encoding writes [[skill-sinalelng|Sinale]] in veldikko. A passage selects i
 - **A sound with no letter is the nearest letter:** _b_ is _p_, _f_ and _w_ are _v_, _z_ is _s_, _c_, _q_ and _ch_ are _k_, _x_ is _k_ then _s_, and _j_ is the vowel _y_. No roman letter is left in the text.
 - **_s_ followed by _h_ writes both consonants**, including where _-ho_ follows a stem ending in _s_.
 - **A doubled consonant is its letter once, with the length bar beneath it.**
-- **A vowel is the mark over the consonant it follows.** _A_, _o_, _u_, _e_, _i_, _y_ and _ë_ are seven marks, and stress is never written.
+- **A vowel is the mark over the consonant it follows.** _A_, _o_, _u_, _e_, _i_ and _y_ are six marks, and stress is never written.
 - **A vowel at the start of a word, or sounded apart from the one before it, stands on the carrier.**
-- **A doubled vowel is one long mark**, and _eë_ is the long _ë_.
+- **A doubled _aa_, _ii_ or _uu_ is one long mark**, and any other doubled vowel, such as _ee_, is two marks, the second on the carrier.
 - **A diphthong is two marks over one letter**, in the order they are said: _ai_, _au_, _ia_, _eo_, _oi_, _ou_, _ui_, _uo_, _ei_, _ie_, _yi_ and _ye_.
 - **A hyphen is a word space**, and at the start or end of a word it writes nothing.
-- **Optional performance marks are written on their vowel nucleus:** caron is falling pitch, circumflex is rising pitch, and acute is emphasis. Each mark is written as a precomposed letter, so a vowel takes only the marks a letter carries: _y_ takes no caron, _ë_ takes no mark, and emphasis joins a pitch mark on one letter only in _ấ_, _ế_ and _ố_. On a doubled vowel or a diphthong each letter may carry its own mark. A marked doubled vowel remains one long mark, and _ë_ remains its own vowel. Ordinary writing may omit performance marks.
+- **Optional performance marks are written on their vowel nucleus:** caron is falling pitch, circumflex is rising pitch, and acute is emphasis. Each mark is written as a precomposed letter, so a vowel takes only the marks a letter carries: _y_ takes no caron, and emphasis joins a pitch mark on one letter only in _ấ_, _ế_ and _ố_. On a doubled vowel, a vowel pair or a diphthong each letter may carry its own mark. A marked _aa_, _ii_ or _uu_ remains one long mark, and a marked _ee_ is two _e_ marks, each with its own mark. Ordinary writing may omit performance marks.
 
 Punctuation, quotation marks, verse boundaries and name marks follow the shared Roman standard. Literal glyph codes between `⟦` and `⟧` select the font’s signs directly.

@@ -91,6 +91,10 @@ const sowidesRespellings = [
     ["qozum", "qozut"],
     ["khoquq", "khoquz"],
     ["qorukh", "qoruch"],
+    ["churis", "charis"],
+    ["chüris", "churis"],
+    ["zutin", "zatin"],
+    ["zütin", "zutin"],
 ];
 // Baseline spelling to current spelling for Tellumi words and compounds, and
 // for the Sovidur name its name-making example quotes, applied to the baseline
@@ -130,11 +134,20 @@ const respellings = new Map([
     [notePath("skill-sowideslng"), sowidesRespellings],
     [notePath("skill-tellumilng"), tellumiRespellings],
 ]);
-const respelled = (file, raw) =>
-    (respellings.get(file) ?? []).reduce(
-        (text, [from, to]) => text.replace(new RegExp(`(?<!\\p{L})${from}(?!\\p{L})`, "gu"), to),
+const respelled = (file, raw) => {
+    const text = (respellings.get(file) ?? []).reduce(
+        (acc, [from, to]) => acc.replace(new RegExp(`(?<!\\p{L})${from}(?!\\p{L})`, "gu"), to),
         raw,
     );
+    if (file !== notePath("skill-sowideslng")) return text;
+    // Sovidur writes plain o and u, and its harmony table has one front vowel.
+    return text
+        .replace("front: [e, ö, ü]", "front: [e]")
+        .replace("z, o, ö, ü]", "z, o, u]")
+        .replace("yzöü0", "yz0")
+        .replace(/ö/gu, "o")
+        .replace(/ü/gu, "u");
+};
 const fromBaseline = (file) =>
     respelled(
         file,
@@ -162,6 +175,20 @@ const replacedOlderNames = new Map([
 // comparison swaps each old sentence for its new one in the baseline
 // paragraphs, and only for the sentences named here.
 const replacedProse = new Map([
+    [
+        notePath("skill-sowideslng"),
+        [
+            [
+                "a front stem is made of _e_, _o_ and _u_ and the lighter _k_ and _g_; and _i_ sits with either.",
+                "a front stem is made of _e_ and the lighter _k_ and _g_; and _i_ sits with either. A stem written with _o_ or _u_ keeps the group it was coined in, and its endings stay as written.",
+            ],
+            ["an _o_, an _o_ or a _u_", "an _o_ or a _u_"],
+            [
+                "In ordinary reading, _o_ is _e_ said with rounded lips, and _u_ is _i_ said with rounded lips. Plain _e_ and _i_ are also fine for players.",
+                "Every vowel is said as written, _o_ as _o_ and _u_ as _u_.",
+            ],
+        ],
+    ],
     [
         notePath("skill-taruzelilng"),
         [

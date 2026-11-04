@@ -1146,12 +1146,12 @@ data:
       field: The harbor and the sea
       gloss: "a harbor"
       source: {kind: inherited, form: wolkhema}
-    - form: treëme
+    - form: treeme
       class: n m
       field: The harbor and the sea
       gloss: "a sailor"
       source: {kind: inherited, form: threnemos}
-    - form: kordutreëma
+    - form: kordutreema
       class: n f
       field: The harbor and the sea
       gloss: "a warship"
@@ -7568,6 +7568,8 @@ data:
     - form: Aurèliane
       instead: Aurelane
       why: "a name written with the hiatus ia, which Provenzal lacks"
+    - {form: treëme, instead: treeme, why: "respelled without the diaeresis"}
+    - {form: kordutreëma, instead: kordutreema, why: "respelled without the diaeresis"}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"

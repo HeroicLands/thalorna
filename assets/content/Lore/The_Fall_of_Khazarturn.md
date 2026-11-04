@@ -324,10 +324,10 @@ A hall that a bird will live in is not a room./
 
 ::: {.verse form=elegy lang=sina enc=sinaveldikkoenc work=the-fall-of-khazarturn-1}
 evi eho sytte/
-.ulpes sytte seipan leësyhe sendeppi eltes/
-irna sytte maulpe vennas aldis holdi leësy issalteho/
+.ulpes sytte seipan leesyhe sendeppi eltes/
+irna sytte maulpe vennas aldis holdi leesy issalteho/
 .luuro sytte roselo ahi saltai lirne onsaa seltoho/
-.sannai irnanno vennas onsaa hiakke vennas irtalleësyhe/
+.sannai irnanno vennas onsaa hiakke vennas irtalleesyhe/
 ahi niltu koldi oso ovanne sytteny/
 .evanni ehii irnanno vennas ilte vandel onsaa erni onsaa
 :::

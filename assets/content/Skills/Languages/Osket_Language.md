@@ -6,7 +6,7 @@ subType: language
 description: "The tongue of the guide-people of the western and central Grazian crossings—related to nothing spoken in any lowland, and learned by outsiders almost never."
 tags: []
 data:
-  roman: "abcdeghiklmnopqrstuwyáéíóúëöü0123456789()–-"
+  roman: "abcdeghiklmnopqrstuwyáéíóú0123456789()–-"
   core: true
   abbreviation: Osk.
   fields:
@@ -83,12 +83,12 @@ data:
       field: Everyday speech
       gloss: witnessed; immediately before the final finite verb marks personal direct observation or experience as the basis of the assertion
       source: {kind: coined}
-    - form: qösh
+    - form: qosh
       class: part
       field: Everyday speech
       gloss: reported; immediately before the final finite verb marks what the speaker was told as the basis of the assertion
       source: {kind: coined}
-    - form: qüsh
+    - form: qush
       class: part
       field: Everyday speech
       gloss: inferred; immediately before the final finite verb marks an inference from signs rather than direct observation or a report
@@ -117,13 +117,13 @@ data:
       gloss: it; the thing or matter already identified
       source: {kind: coined}
       concept: it
-    - form: mölkh
+    - form: malkh
       class: pron
       field: Everyday speech
       gloss: they; the people or things already identified
       source: {kind: coined}
       concept: they
-    - form: mülkh
+    - form: mulkh
       class: pron
       field: Everyday speech
       gloss: we; us, the speaker and others
@@ -134,15 +134,15 @@ data:
       field: Everyday speech
       gloss: "of; follows the possessor before the possessed noun: mokh ul tsol, my cup; also relates the counted kind to number in tsol ul ach, the measured substance to amount in molsh ul achum, and the named thing to its name in the cited questions"
       source: {kind: coined}
-    - form: nö
+    - form: no
       class: part
       field: Everyday speech
-      gloss: in the possession of; follows the owner in the complete possessive existential mokh nö tsol qesh um, at me a cup exists, I have a cup; this is not a verb to have
+      gloss: in the possession of; follows the owner in the complete possessive existential mokh no tsol qesh um, at me a cup exists, I have a cup; this is not a verb to have
       source: {kind: coined}
     - form: um
       class: v
       field: Everyday speech
-      gloss: to be; to exist; a nonfinite citation, with finite qesh um witnessed, qösh um reported and qüsh um inferred; the subject and any stated quality precede the evidenced final verb
+      gloss: to be; to exist; a nonfinite citation, with finite qesh um witnessed, qosh um reported and qush um inferred; the subject and any stated quality precede the evidenced final verb
       source: {kind: coined}
     - form: qesh um
       class: v
@@ -166,24 +166,24 @@ data:
       field: Everyday speech
       gloss: an emotion; a felt state, distinct from bodily sensation alone
       source: {kind: coined}
-    - form: ghöl
+    - form: ghal
       class: n
       field: Everyday speech
       gloss: the heart; the bodily organ and, in the cited compounds, the conventional seat of felt concern
       source: {kind: coined}
       concept: heart
-    - form: ömk
+    - form: omk
       class: n
       field: Everyday speech
       gloss: love; affectionate care or attachment, distinct from sexual appetite alone
       source: {kind: coined}
       concept: affection
-    - form: ömkar
+    - form: omkar
       class: n
       field: Everyday speech
       gloss: a romantic beloved; a person loved as a partner
       source: {kind: coined}
-    - form: khöm
+    - form: khom
       class: n
       field: Everyday speech
       gloss: a friend
@@ -195,7 +195,7 @@ data:
       gloss: kin; relatives, including those outside the immediate household
       source: {kind: coined}
       concept: kin
-    - form: ghüm
+    - form: ghum
       class: n
       field: Everyday speech
       gloss: a companion; a person sharing company or an undertaking
@@ -212,7 +212,7 @@ data:
       field: Everyday speech
       gloss: fulfilled; attained as desired
       source: {kind: coined}
-    - form: ghölum
+    - form: ghelum
       class: adj
       field: Everyday speech
       gloss: settled; at ease rather than restless or disturbed
@@ -222,7 +222,7 @@ data:
       field: Everyday speech
       gloss: absence; the condition of not being present or attained
       source: {kind: coined}
-    - form: ashöl
+    - form: ashol
       class: adj
       field: Everyday speech
       gloss: enduring; continuing for a sustained time
@@ -233,7 +233,7 @@ data:
       field: Everyday speech
       gloss: excessive; beyond a fitting or intended limit
       source: {kind: coined}
-    - form: ashöm
+    - form: ashom
       class: adj
       field: Everyday speech
       gloss: gentle; mild in effect or intensity
@@ -261,13 +261,13 @@ data:
       field: Everyday speech
       gloss: without; lacking the following named thing or faculty
       source: {kind: coined}
-    - form: öng
+    - form: ong
       class: conj
       field: Everyday speech
       gloss: and; joins the named things or complete clauses
       source: {kind: coined}
       concept: and
-    - form: üng
+    - form: ung
       class: conj
       field: Everyday speech
       gloss: or; offers the named alternatives
@@ -287,7 +287,7 @@ data:
     - form: qesh larsh
       class: v
       field: Everyday speech
-      gloss: to see; to discern with the eyes; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to see; to discern with the eyes; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: see-verb
     - form: larshom
@@ -296,52 +296,52 @@ data:
       gloss: a sight; what is seen, distinct from the ability to see
       source: {kind: coined}
       concept: see-noun
-    - form: nölk
+    - form: nolk
       class: v
       field: Everyday speech
       gloss: to hear; to perceive sound with the ears; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh nölk
+    - form: qesh nolk
       class: v
       field: Everyday speech
-      gloss: to hear; to perceive sound with the ears; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to hear; to perceive sound with the ears; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: hear-verb
-    - form: nölkom
+    - form: nolkom
       class: n
       field: Everyday speech
       gloss: a sound; something audible
       source: {kind: coined}
       concept: hear-noun
-    - form: khömsh
+    - form: khomsh
       class: v
       field: Everyday speech
       gloss: to smell; to sense a scent with the nose; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh khömsh
+    - form: qesh khomsh
       class: v
       field: Everyday speech
-      gloss: to smell; to sense a scent with the nose; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to smell; to sense a scent with the nose; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: smell-verb
-    - form: khömshom
+    - form: khomshom
       class: n
       field: Everyday speech
       gloss: a smell; a scent, pleasant or unpleasant
       source: {kind: coined}
       concept: smell-noun
-    - form: tsörk
+    - form: tsork
       class: v
       field: Everyday speech
       gloss: to taste; to sense a flavour; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh tsörk
+    - form: qesh tsork
       class: v
       field: Everyday speech
-      gloss: to taste; to sense a flavour; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to taste; to sense a flavour; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: taste-verb
-    - form: tsörkom
+    - form: tsorkom
       class: n
       field: Everyday speech
       gloss: a taste; a flavour
@@ -355,7 +355,7 @@ data:
     - form: qesh palgh
       class: v
       field: Everyday speech
-      gloss: to touch; to feel something with the hand; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to touch; to feel something with the hand; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: touch-verb
     - form: palghom
@@ -372,7 +372,7 @@ data:
     - form: qesh larshen
       class: v
       field: Everyday speech
-      gloss: to look; to direct one's gaze toward the object; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to look; to direct one's gaze toward the object; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: look
     - form: larshun
@@ -383,10 +383,10 @@ data:
     - form: qesh larshun
       class: v
       field: Everyday speech
-      gloss: to watch; to keep an attentive gaze on someone or something; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to watch; to keep an attentive gaze on someone or something; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: watch
-    - form: larshöl
+    - form: larshol
       class: n
       field: Everyday speech
       gloss: appearance; the outward look of the named person or thing
@@ -404,95 +404,95 @@ data:
       gloss: invisible; not discernible to a situated observer with sight
       source: {kind: coined}
       concept: invisible
-    - form: nölken
+    - form: nolken
       class: v
       field: Everyday speech
       gloss: to listen; to attend deliberately to sound or words; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh nölken
+    - form: qesh nolken
       class: v
       field: Everyday speech
-      gloss: to listen; to attend deliberately to sound or words; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to listen; to attend deliberately to sound or words; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: listen
-    - form: nölkash
+    - form: nolkash
       class: n
       field: Everyday speech
       gloss: noise; sound that is conspicuous, irregular or unwanted
       source: {kind: coined}
       concept: noise
-    - form: nölkel
+    - form: nolkel
       class: n
       field: Everyday speech
       gloss: a voice; sound produced in speaking, singing or calling
       source: {kind: coined}
       concept: voice
-    - form: qomur nölkom
+    - form: qomur nolkom
       class: part
       field: Everyday speech
       gloss: silence; without audible sound
       source: {kind: coined}
       concept: silence
-    - form: nölkar
+    - form: nolkar
       class: adj
       field: Everyday speech
       gloss: loud; having substantial audible intensity
       source: {kind: coined}
       concept: loud
-    - form: nölkur
+    - form: nolkur
       class: adj
       field: Everyday speech
       gloss: quiet; having little audible intensity
       source: {kind: coined}
       concept: quiet
-    - form: khömshar
+    - form: khomshar
       class: adj
       field: Everyday speech
       gloss: fragrant; having a pleasant smell
       source: {kind: coined}
       concept: fragrant
-    - form: khömshur
+    - form: khomshur
       class: adj
       field: Everyday speech
       gloss: foul-smelling; having an unpleasant smell
       source: {kind: coined}
       concept: foul
-    - form: tsörkal
+    - form: tsorkal
       class: adj
       field: Everyday speech
       gloss: sweet; having a sweet flavour
       source: {kind: coined}
       concept: sweet
-    - form: tsörkul
+    - form: tsorkul
       class: adj
       field: Everyday speech
       gloss: sour; having an acidic flavour
       source: {kind: coined}
       concept: sour
-    - form: tsörkel
+    - form: tsorkel
       class: adj
       field: Everyday speech
       gloss: bitter; having a sharp bitter flavour
       source: {kind: coined}
       concept: bitter
-    - form: tsörkil
+    - form: tsorkil
       class: adj
       field: Everyday speech
       gloss: salty; having a salt flavour
       source: {kind: coined}
       concept: salty
-    - form: pülgh
+    - form: pulgh
       class: v
       field: Everyday speech
       gloss: to feel a bodily sensation; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh pülgh
+    - form: qesh pulgh
       class: v
       field: Everyday speech
-      gloss: to feel a bodily sensation; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to feel a bodily sensation; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: feel-verb
-    - form: pülghom
+    - form: pulghom
       class: n
       field: Everyday speech
       gloss: a sensation; a bodily experience, distinct from an emotion or a judgment of truth
@@ -530,18 +530,18 @@ data:
     - form: qesh larkh
       class: v
       field: Everyday speech
-      gloss: to notice; to become aware of a particular thing; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to notice; to become aware of a particular thing; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: notice
-    - form: pülk
+    - form: pulk
       class: v
       field: Everyday speech
       gloss: to perceive; to become aware through the senses; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh pülk
+    - form: qesh pulk
       class: v
       field: Everyday speech
-      gloss: to perceive; to become aware through the senses; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to perceive; to become aware through the senses; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: perceive
     - form: larghen
@@ -552,24 +552,24 @@ data:
     - form: qesh larghen
       class: v
       field: Everyday speech
-      gloss: to recognize; to identify something already known; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to recognize; to identify something already known; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: recognize
-    - form: larshölk
+    - form: larsholk
       class: v
       field: Everyday speech
       gloss: to seem; to present the appearance or condition stated before the evidenced final verb; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh larshölk
+    - form: qesh larsholk
       class: v
       field: Everyday speech
-      gloss: to seem; to present the appearance or condition stated before the evidenced final verb; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to seem; to present the appearance or condition stated before the evidenced final verb; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: seem
-    - form: ashur nölgh
+    - form: ashur nolgh
       class: n
       field: Everyday speech
-      gloss: wrath; excessive overwhelming anger, with nölgh the feeling head
+      gloss: wrath; excessive overwhelming anger, with nolgh the feeling head
       source: {kind: coined}
       concept: wrath
     - form: mbash
@@ -596,13 +596,13 @@ data:
       gloss: boasting; speech displaying one's own worth or achievements excessively
       source: {kind: coined}
       concept: boasting
-    - form: khölum
+    - form: kholum
       class: n
       field: Everyday speech
       gloss: pride; felt esteem in oneself or what one identifies with
       source: {kind: coined}
       concept: pride
-    - form: üsharn
+    - form: usharn
       class: n
       field: Everyday speech
       gloss: lust; sexual appetite, distinct from romantic or universal selfless love
@@ -626,25 +626,25 @@ data:
       gloss: faith; committed trust in a person, teaching or sacred undertaking without requiring proof
       source: {kind: coined}
       concept: faith
-    - form: ghölen
+    - form: gholen
       class: n
       field: Everyday speech
       gloss: joy; a keen feeling of gladness
       source: {kind: coined}
       concept: joy
-    - form: ghölan
+    - form: gholan
       class: n
       field: Everyday speech
       gloss: happiness; a sustained feeling of being happy and one's life going well
       source: {kind: coined}
       concept: happiness
-    - form: ghölun
+    - form: gholun
       class: n
       field: Everyday speech
       gloss: pleasure; felt enjoyment or delight
       source: {kind: coined}
       concept: pleasure
-    - form: ghölum eshkur
+    - form: ghelum eshkur
       class: n
       field: Everyday speech
       gloss: contentment; the settled feeling of being at ease with what one has, not merely a dispute settled
@@ -656,7 +656,7 @@ data:
       gloss: gratitude; thankful recognition of a benefit received
       source: {kind: coined}
       concept: gratitude
-    - form: nargh khölum
+    - form: nargh kholum
       class: n
       field: Everyday speech
       gloss: admiration; esteem for another person's qualities or deeds, with nargh replaceable by the admired person
@@ -674,31 +674,31 @@ data:
       gloss: courage; resolve to act or endure despite fear, rather than absence of fear
       source: {kind: coined}
       concept: courage
-    - form: nölgh
+    - form: nolgh
       class: n
       field: Everyday speech
       gloss: anger; a feeling of displeasure directed against someone or something
       source: {kind: coined}
       concept: anger
-    - form: nölghar
+    - form: nolghar
       class: n
       field: Everyday speech
       gloss: hatred; enduring intense aversion
       source: {kind: coined}
       concept: hatred
-    - form: ömknölgh
+    - form: omknolgh
       class: n
       field: Everyday speech
       gloss: jealousy; anger and anxiety at a rival taking a valued relationship, conventionally love-anger
       source: {kind: coined}
       concept: jealousy
-    - form: qürm
+    - form: qurm
       class: n
       field: Everyday speech
       gloss: fear; apprehension of danger or harm
       source: {kind: coined}
       concept: fear
-    - form: ashur qürm
+    - form: ashur qurm
       class: n
       field: Everyday speech
       gloss: terror; overwhelming fear
@@ -734,7 +734,7 @@ data:
       gloss: regret; sorrow over what happened or what one did or failed to do
       source: {kind: coined}
       concept: regret
-    - form: khölash
+    - form: kholash
       class: n
       field: Everyday speech
       gloss: humility; an unexalted estimate of oneself, without necessarily self-contempt
@@ -746,13 +746,13 @@ data:
       gloss: confidence; subjective assurance in one's capacity, an outcome or a claim, without guaranteeing its truth
       source: {kind: coined}
       concept: confidence
-    - form: ashöm margh
+    - form: ashom margh
       class: n
       field: Everyday speech
       gloss: embarrassment; the gentler shame of awkward self-consciousness, without necessarily a moral fault
       source: {kind: coined}
       concept: embarrassment
-    - form: nurghömk
+    - form: nurghomk
       class: n
       field: Everyday speech
       gloss: compassion; concern for another's suffering and a wish to relieve it, conventionally sorrow-love
@@ -764,25 +764,25 @@ data:
       gloss: pity; sorrow at another's suffering or misfortune, with nargh replaceable by the affected person
       source: {kind: coined}
       concept: pity
-    - form: ghüm eshkur
+    - form: ghum eshkur
       class: n
       field: Everyday speech
       gloss: sympathy; sharing or understanding another's feeling, conventionally companion-feeling, not restricted to close friends
       source: {kind: coined}
       concept: sympathy
-    - form: ashöl nölgh
+    - form: ashol nolgh
       class: n
       field: Everyday speech
       gloss: resentment; enduring anger at a remembered injury or unfairness
       source: {kind: coined}
       concept: resentment
-    - form: ashal nölghar
+    - form: ashal nolghar
       class: n
       field: Everyday speech
       gloss: contempt; aversion joined to a judgment that its object is beneath regard
       source: {kind: coined}
       concept: contempt
-    - form: ölghur
+    - form: olghur
       class: n
       field: Everyday speech
       gloss: forgiveness; release of blame or a claim against another for an acknowledged wrong, distinct from payment or denying a wrong occurred
@@ -812,7 +812,7 @@ data:
       gloss: curiosity; a desire to learn or discover
       source: {kind: coined}
       concept: curiosity
-    - form: pülkash
+    - form: palkash
       class: n
       field: Everyday speech
       gloss: confusion; inability to make sense of a situation or distinguish its parts
@@ -830,13 +830,13 @@ data:
       gloss: certainty; complete subjective assurance, not a guarantee of objective truth
       source: {kind: coined}
       concept: certainty
-    - form: pülkhor
+    - form: pulkhor
       class: n
       field: Everyday speech
       gloss: surprise; the feeling occasioned by something unexpected
       source: {kind: coined}
       concept: surprise
-    - form: ghölash
+    - form: gholash
       class: n
       field: Everyday speech
       gloss: boredom; weariness through lack of interest or engagement
@@ -854,73 +854,73 @@ data:
       gloss: belief; acceptance of a claim as true without guaranteeing its truth
       source: {kind: coined}
       concept: belief
-    - form: ashöl khölum
+    - form: ashol kholum
       class: n
       field: Everyday speech
       gloss: reverence; deep respectful regard toward someone or something revered, distinct from inherited rank alone
       source: {kind: coined}
       concept: reverence
-    - form: qürghöl
+    - form: qurghol
       class: n
       field: Everyday speech
       gloss: awe; humbled wonder before something overwhelming, which may include fear without being terror
       source: {kind: coined}
       concept: awe
-    - form: ömkar ömk
+    - form: omkar omk
       class: n
       field: Everyday speech
       gloss: romantic love; affectionate attachment to a beloved partner, distinct from sexual appetite alone
       source: {kind: coined}
       concept: love-eros
-    - form: khöm ömk
+    - form: khom omk
       class: n
       field: Everyday speech
       gloss: friendship; affectionate regard between friends
       source: {kind: coined}
       concept: love-philia
-    - form: ghul ömk
+    - form: ghul omk
       class: n
       field: Everyday speech
       gloss: family love; affectionate attachment between kin
       source: {kind: coined}
       concept: love-storge
-    - form: ömkul
+    - form: omkul
       class: n
       field: Everyday speech
       gloss: selfless universal love; concern for everyone's good without seeking repayment, standing, kinship advantage or sexual gratification, wider than the door's hospitality and its exception for the Roadless
       source: {kind: coined}
       concept: love-agape
-    - form: ömkarsh
+    - form: omkarsh
       class: n
       field: Everyday speech
       gloss: attraction; a felt pull toward someone or something, romantic, physical or otherwise
       source: {kind: coined}
       concept: attraction
-    - form: ömkel
+    - form: omkel
       class: n
       field: Everyday speech
       gloss: intimacy; shared closeness and private mutual familiarity
       source: {kind: coined}
       concept: intimacy
-    - form: ashöl ömk
+    - form: ashol omk
       class: n
       field: Everyday speech
       gloss: devotion; enduring affectionate dedication to a person, undertaking or ideal
       source: {kind: coined}
       concept: devotion
-    - form: ashöl urghum
+    - form: ashol urghum
       class: n
       field: Everyday speech
       gloss: loyalty; steadfast allegiance to a person, group or commitment
       source: {kind: coined}
       concept: loyalty
-    - form: ghümel
+    - form: ghumel
       class: n
       field: Everyday speech
       gloss: companionship; sharing company or an undertaking with a companion, including company without close friendship
       source: {kind: coined}
       concept: companionship
-    - form: nölghul
+    - form: nolghul
       class: n
       field: Everyday speech
       gloss: enmity; a relationship of hostility
@@ -932,7 +932,7 @@ data:
       gloss: the head; the upper part of the body containing the brain
       source: {kind: coined}
       concept: head
-    - form: müsh
+    - form: mush
       class: n
       field: Everyday speech
       gloss: hair of the head; not animal fleece as a textile
@@ -950,13 +950,13 @@ data:
       gloss: an eye; the organ of sight
       source: {kind: coined}
       concept: eye
-    - form: nölkesh
+    - form: nolkesh
       class: n
       field: Everyday speech
       gloss: an ear; the organ of hearing
       source: {kind: coined}
       concept: ear
-    - form: khömshul
+    - form: khomshul
       class: n
       field: Everyday speech
       gloss: the nose; the organ of smell
@@ -968,7 +968,7 @@ data:
       gloss: the mouth; the opening used for eating and speaking
       source: {kind: coined}
       concept: mouth
-    - form: tsölgh
+    - form: tsalgh
       class: n
       field: Everyday speech
       gloss: a lip; either fleshy edge of the mouth
@@ -980,7 +980,7 @@ data:
       gloss: a tooth; a hard structure in the mouth for biting or chewing
       source: {kind: coined}
       concept: tooth
-    - form: tsül
+    - form: tsul
       class: n
       field: Everyday speech
       gloss: the tongue; the organ in the mouth, rather than a language
@@ -1004,7 +1004,7 @@ data:
       gloss: an arm; an upper limb
       source: {kind: coined}
       concept: arm
-    - form: palghör
+    - form: palghor
       class: n
       field: Everyday speech
       gloss: an elbow; the joint between upper arm and forearm
@@ -1028,13 +1028,13 @@ data:
       gloss: a fingernail; the hard plate at the end of a finger
       source: {kind: coined}
       concept: nail
-    - form: ghölsh
+    - form: gholsh
       class: n
       field: Everyday speech
       gloss: the chest; the front of the upper trunk
       source: {kind: coined}
       concept: chest
-    - form: ghölt
+    - form: gholt
       class: n
       field: Everyday speech
       gloss: a breast; a mammary part of the chest
@@ -1070,7 +1070,7 @@ data:
       gloss: a knee; the joint between upper and lower leg
       source: {kind: coined}
       concept: knee
-    - form: pulk
+    - form: pelk
       class: n
       field: Everyday speech
       gloss: a foot; the bodily part at the end of a leg
@@ -1088,19 +1088,19 @@ data:
       gloss: skin; the outer covering of a body
       source: {kind: coined}
       concept: skin
-    - form: körk
+    - form: kork
       class: n
       field: Everyday speech
       gloss: a bone; a hard part of the skeleton
       source: {kind: coined}
       concept: bone
-    - form: bösh
+    - form: bosh
       class: n
       field: Everyday speech
       gloss: blood; the fluid circulating within a living body
       source: {kind: coined}
       concept: blood
-    - form: tshulom
+    - form: tshalom
       class: n
       field: Everyday speech
       gloss: flesh; the soft substance of a body
@@ -1124,13 +1124,13 @@ data:
       gloss: the chin; the projecting lower front of the face
       source: {kind: coined}
       concept: chin
-    - form: larshum
+    - form: lershum
       class: n
       field: Everyday speech
       gloss: a cheek; either fleshy side of the face
       source: {kind: coined}
       concept: cheek
-    - form: tsölk
+    - form: tsolk
       class: n
       field: Everyday speech
       gloss: the throat; the passage from the mouth into the body
@@ -1148,7 +1148,7 @@ data:
       gloss: the waist; the narrowing of the trunk above the hips
       source: {kind: coined}
       concept: waist
-    - form: molkhör
+    - form: molkhor
       class: n
       field: Everyday speech
       gloss: the spine; the column of vertebrae along the back
@@ -1232,7 +1232,7 @@ data:
       gloss: tears; fluid from the eyes
       source: {kind: coined}
       concept: tears
-    - form: tsölum
+    - form: tsolum
       class: n
       field: Everyday speech
       gloss: saliva; fluid released in the mouth
@@ -1250,13 +1250,13 @@ data:
       gloss: a lung; a breathing organ in the chest
       source: {kind: coined}
       concept: lung
-    - form: böshal
+    - form: boshal
       class: n
       field: Everyday speech
       gloss: the liver; the large internal organ processing blood and nutrients
       source: {kind: coined}
       concept: liver
-    - form: böshel
+    - form: boshel
       class: n
       field: Everyday speech
       gloss: a kidney; an organ filtering blood to make urine
@@ -1268,31 +1268,31 @@ data:
       gloss: an intestine; part of the digestive passage below the stomach
       source: {kind: coined}
       concept: intestine
-    - form: üshal
+    - form: ushal
       class: n
       field: Everyday speech
       gloss: genitals; the reproductive organs as a bodily region
       source: {kind: coined}
       concept: genitals
-    - form: üsham
+    - form: usham
       class: n
       field: Everyday speech
       gloss: the womb; the organ in which an unborn child develops
       source: {kind: coined}
       concept: womb
-    - form: üshul
+    - form: ushul
       class: n
       field: Everyday speech
       gloss: the penis; the male genital organ
       source: {kind: coined}
       concept: penis
-    - form: üshel
+    - form: ushel
       class: n
       field: Everyday speech
       gloss: the vagina; the female genital passage
       source: {kind: coined}
       concept: vagina
-    - form: üshom
+    - form: ushom
       class: n
       field: Everyday speech
       gloss: a testicle; either male reproductive gland
@@ -1312,24 +1312,24 @@ data:
     - form: qesh karem
       class: v
       field: Everyday speech
-      gloss: to eat; to take food into the body; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to eat; to take food into the body; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: eat
-    - form: molüm
+    - form: molum
       class: n
       field: Everyday speech
       gloss: a drink; liquid prepared or taken for drinking
       source: {kind: coined}
       concept: drink-noun
-    - form: molümk
+    - form: molumk
       class: v
       field: Everyday speech
       gloss: to drink; to take liquid into the body; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh molümk
+    - form: qesh molumk
       class: v
       field: Everyday speech
-      gloss: to drink; to take liquid into the body; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to drink; to take liquid into the body; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: drink-verb
     - form: molsh
@@ -1338,13 +1338,13 @@ data:
       gloss: water; the common liquid needed for drinking and life
       source: {kind: coined}
       concept: water
-    - form: hulom
+    - form: halom
       class: n
       field: Everyday speech
       gloss: air; the surrounding breathable gas
       source: {kind: coined}
       concept: air
-    - form: hulum
+    - form: halum
       class: n
       field: Everyday speech
       gloss: a breath; one passage of air into or out of the body
@@ -1358,7 +1358,7 @@ data:
     - form: qesh hulem
       class: v
       field: Everyday speech
-      gloss: to breathe; to move air into and out of the body; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to breathe; to move air into and out of the body; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: breathe
     - form: shelum
@@ -1375,41 +1375,41 @@ data:
     - form: qesh shelem
       class: v
       field: Everyday speech
-      gloss: to sleep; to be in the condition of sleep; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to sleep; to be in the condition of sleep; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: sleep-verb
-    - form: mürum
+    - form: murum
       class: n
       field: Everyday speech
       gloss: urine; liquid bodily waste
       source: {kind: coined}
       concept: urine
-    - form: mürem
+    - form: murem
       class: v
       field: Everyday speech
       gloss: to urinate; to discharge urine; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh mürem
+    - form: qesh murem
       class: v
       field: Everyday speech
-      gloss: to urinate; to discharge urine; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to urinate; to discharge urine; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: urinate
-    - form: müshum
+    - form: mushum
       class: n
       field: Everyday speech
       gloss: dung; solid bodily waste
       source: {kind: coined}
       concept: dung
-    - form: müshem
+    - form: mushem
       class: v
       field: Everyday speech
       gloss: to defecate; to discharge solid bodily waste; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh müshem
+    - form: qesh mushem
       class: v
       field: Everyday speech
-      gloss: to defecate; to discharge solid bodily waste; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to defecate; to discharge solid bodily waste; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: defecate
     - form: ghaulum
@@ -1456,7 +1456,7 @@ data:
     - form: qesh hulam
       class: v
       field: Everyday speech
-      gloss: to inhale; to draw air into the lungs; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to inhale; to draw air into the lungs; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: inhale
     - form: hulesh
@@ -1467,7 +1467,7 @@ data:
     - form: qesh hulesh
       class: v
       field: Everyday speech
-      gloss: to exhale; to send air out from the lungs; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to exhale; to send air out from the lungs; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: exhale
     - form: hulqom
@@ -1478,7 +1478,7 @@ data:
     - form: qesh hulqom
       class: v
       field: Everyday speech
-      gloss: to suffocate; to be deprived of breathable air through its absence or blocked airflow; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to suffocate; to be deprived of breathable air through its absence or blocked airflow; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: suffocate
     - form: shelk
@@ -1489,7 +1489,7 @@ data:
     - form: qesh shelk
       class: v
       field: Everyday speech
-      gloss: to wake; to emerge from sleep; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to wake; to emerge from sleep; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: wake
     - form: shelkar
@@ -1498,15 +1498,15 @@ data:
       gloss: awake; not asleep
       source: {kind: coined}
       concept: awake
-    - form: shelöm
+    - form: shelom
       class: v
       field: Everyday speech
       gloss: to dream; to experience images or events while asleep; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh shelöm
+    - form: qesh shelom
       class: v
       field: Everyday speech
-      gloss: to dream; to experience images or events while asleep; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to dream; to experience images or events while asleep; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
     - form: shelgh
       class: v
@@ -1516,7 +1516,7 @@ data:
     - form: qesh shelgh
       class: v
       field: Everyday speech
-      gloss: to rest; to pause activity for recovery; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to rest; to pause activity for recovery; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
     - form: shelghash
       class: adj
@@ -1524,15 +1524,15 @@ data:
       gloss: tired; needing rest after exertion
       source: {kind: coined}
       concept: tired
-    - form: nashüm
+    - form: neshum
       class: v
       field: Everyday speech
       gloss: to sweat; to release sweat through the skin; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh nashüm
+    - form: qesh neshum
       class: v
       field: Everyday speech
-      gloss: to sweat; to release sweat through the skin; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to sweat; to release sweat through the skin; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: sweat-verb
     - form: ghaush
@@ -1541,7 +1541,7 @@ data:
       gloss: heat; a high level of temperature
       source: {kind: coined}
       concept: heat
-    - form: khülum
+    - form: khulum
       class: n
       field: Everyday speech
       gloss: cold; the condition of low temperature
@@ -1559,21 +1559,21 @@ data:
       gloss: warm; moderately hot
       source: {kind: coined}
       concept: warm
-    - form: khülar
+    - form: khular
       class: adj
       field: Everyday speech
       gloss: cool; moderately cold
       source: {kind: coined}
       concept: cool
-    - form: khülk
+    - form: khulk
       class: v
       field: Everyday speech
       gloss: to freeze; to become or cause the named thing to become frozen; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh khülk
+    - form: qesh khulk
       class: v
       field: Everyday speech
-      gloss: to freeze; to become or cause the named thing to become frozen; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to freeze; to become or cause the named thing to become frozen; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: freeze
     - form: ghaushem
@@ -1584,7 +1584,7 @@ data:
     - form: qesh ghaushem
       class: v
       field: Everyday speech
-      gloss: to burn; to undergo or cause injury or consumption by fire or intense heat; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to burn; to undergo or cause injury or consumption by fire or intense heat; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: burn
     - form: purgh
@@ -1605,30 +1605,30 @@ data:
       gloss: protection; action or a condition preserving someone or something against harm
       source: {kind: coined}
       concept: protection
-    - form: üsharnom
+    - form: usharnom
       class: n
       field: Everyday speech
       gloss: sex; sexual intercourse
       source: {kind: coined}
       concept: sex
-    - form: üshamel
+    - form: ushamel
       class: n
       field: Everyday speech
       gloss: conception; the event of becoming pregnant
       source: {kind: coined}
-    - form: üshamul
+    - form: ushamul
       class: n
       field: Everyday speech
       gloss: pregnancy; the condition of carrying an unborn child
       source: {kind: coined}
       concept: pregnancy
-    - form: üshamar
+    - form: ushamar
       class: adj
       field: Everyday speech
       gloss: pregnant; carrying an unborn child
       source: {kind: coined}
       concept: pregnant
-    - form: nolgh
+    - form: nalgh
       class: n
       field: Everyday speech
       gloss: birth; the event of coming into independent life
@@ -1642,40 +1642,40 @@ data:
     - form: qesh nolghen
       class: v
       field: Everyday speech
-      gloss: to give birth; to bring forth a child; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to give birth; to bring forth a child; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: give-birth
-    - form: ghöltsh
+    - form: gholtsh
       class: v
       field: Everyday speech
       gloss: to nurse; to feed a child with milk from the breast; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh ghöltsh
+    - form: qesh gholtsh
       class: v
       field: Everyday speech
-      gloss: to nurse; to feed a child with milk from the breast; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to nurse; to feed a child with milk from the breast; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: nurse
-    - form: pülten
+    - form: pulten
       class: v
       field: Everyday speech
       gloss: to grow; to increase in size or development; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh pülten
+    - form: qesh pulten
       class: v
       field: Everyday speech
-      gloss: to grow; to increase in size or development; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to grow; to increase in size or development; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: grow
-    - form: yülk
+    - form: yulk
       class: v
       field: Everyday speech
       gloss: to age; to grow older; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh yülk
+    - form: qesh yulk
       class: v
       field: Everyday speech
-      gloss: to age; to grow older; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to age; to grow older; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: [age-verb, aging]
     - form: yolgh
@@ -1702,7 +1702,7 @@ data:
       gloss: sick; affected by illness
       source: {kind: coined}
       concept: sick
-    - form: böshar
+    - form: boshar
       class: adj
       field: Everyday speech
       gloss: injured; bodily hurt or damaged
@@ -1732,66 +1732,66 @@ data:
       gloss: sated; full and satisfied after eating or drinking
       source: {kind: coined}
       concept: sated
-    - form: khülarsh
+    - form: khularsh
       class: adj
       field: Everyday speech
       gloss: cold; of low temperature
       source: {kind: coined}
       concept: cold
-    - form: khülashar
+    - form: khulashar
       class: adj
       field: Everyday speech
       gloss: feverish; affected by abnormally raised body temperature due to illness
       source: {kind: coined}
       concept: feverish
-    - form: böshum
+    - form: boshum
       class: n
       field: Everyday speech
       gloss: pain; an unpleasant bodily sensation
       source: {kind: coined}
       concept: pain
-    - form: böshem
+    - form: boshem
       class: v
       field: Everyday speech
       gloss: to hurt; to cause bodily pain or injury to the named person or body part; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh böshem
+    - form: qesh boshem
       class: v
       field: Everyday speech
-      gloss: to hurt; to cause bodily pain or injury to the named person or body part; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to hurt; to cause bodily pain or injury to the named person or body part; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: hurt-verb
-    - form: böshen
+    - form: boshen
       class: v
       field: Everyday speech
       gloss: to ache; to experience a continuing bodily pain; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh böshen
+    - form: qesh boshen
       class: v
       field: Everyday speech
-      gloss: to ache; to experience a continuing bodily pain; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to ache; to experience a continuing bodily pain; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: ache
-    - form: böshush
+    - form: boshush
       class: v
       field: Everyday speech
       gloss: to suffer; to undergo pain or distress; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh böshush
+    - form: qesh boshush
       class: v
       field: Everyday speech
-      gloss: to suffer; to undergo pain or distress; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to suffer; to undergo pain or distress; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: suffer
-    - form: böshesh
+    - form: boshesh
       class: v
       field: Everyday speech
       gloss: to bleed; to lose blood from the body; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh böshesh
+    - form: qesh boshesh
       class: v
       field: Everyday speech
-      gloss: to bleed; to lose blood from the body; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to bleed; to lose blood from the body; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: bleed
     - form: tshulgh
@@ -1802,27 +1802,27 @@ data:
     - form: qesh tshulgh
       class: v
       field: Everyday speech
-      gloss: to heal; to restore the named wound or body to soundness; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to heal; to restore the named wound or body to soundness; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: heal
-    - form: tshulöm
+    - form: tshulom
       class: v
       field: Everyday speech
       gloss: to recover; to return to sound health after illness or injury; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh tshulöm
+    - form: qesh tshulom
       class: v
       field: Everyday speech
-      gloss: to recover; to return to sound health after illness or injury; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to recover; to return to sound health after illness or injury; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: recover
-    - form: qomur larshüm
+    - form: qomur larshum
       class: part
       field: Everyday speech
       gloss: blind; without the physical faculty of sight
       source: {kind: coined}
       concept: blind
-    - form: qomur nölkum
+    - form: qomur nolkum
       class: part
       field: Everyday speech
       gloss: deaf; without the faculty of hearing
@@ -1840,47 +1840,47 @@ data:
       gloss: alive; living rather than dead
       source: {kind: coined}
       concept: alive
-    - form: pülkar
+    - form: pulkar
       class: adj
       field: Everyday speech
       gloss: conscious; aware through the senses
       source: {kind: coined}
       concept: conscious
-    - form: qom pülkar
+    - form: qom pulkar
       class: adj
       field: Everyday speech
       gloss: unconscious; lacking sensory awareness rather than merely asleep
       source: {kind: coined}
       concept: unconscious
-    - form: yülkar
+    - form: yulkar
       class: adj
       field: Everyday speech
       gloss: young; of an early age or stage of life
       source: {kind: coined}
       concept: young
-    - form: yülkhar
+    - form: yulkhar
       class: adj
       field: Everyday speech
       gloss: old; advanced in age
       source: {kind: coined}
       concept: old
-    - form: böshk
+    - form: boshk
       class: v
       field: Everyday speech
       gloss: to hurt; to experience bodily pain rather than cause it in another; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh böshk
+    - form: qesh boshk
       class: v
       field: Everyday speech
-      gloss: to hurt; to experience bodily pain rather than cause it in another; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to hurt; to experience bodily pain rather than cause it in another; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: hurt-pain
-    - form: larshüm
+    - form: larshum
       class: n
       field: Everyday speech
       gloss: sight; the faculty of seeing, distinct from a particular sight or tears
       source: {kind: coined}
-    - form: nölkum
+    - form: nolkum
       class: n
       field: Everyday speech
       gloss: hearing; the faculty of perceiving sound
@@ -1890,7 +1890,7 @@ data:
       field: Everyday speech
       gloss: male; of the male sex
       source: {kind: coined}
-    - form: ürsh
+    - form: arsh
       class: adj
       field: Everyday speech
       gloss: female; of the female sex
@@ -1917,7 +1917,7 @@ data:
       gloss: a parent; a father or mother
       source: {kind: coined}
       concept: parent
-    - form: nölar
+    - form: nolar
       class: n
       field: Everyday speech
       gloss: a child; a young person, male or female
@@ -1928,18 +1928,18 @@ data:
       field: Everyday speech
       gloss: a parent's sibling
       source: {kind: coined}
-    - form: nölarkh
+    - form: nolarkh
       class: n
       field: Everyday speech
       gloss: a sibling's child
       source: {kind: coined}
-    - form: nölghum
+    - form: nolghum
       class: n
       field: Everyday speech
       gloss: a spouse; a married partner
       source: {kind: coined}
       concept: spouse
-    - form: dökh
+    - form: dokh
       class: n
       field: Everyday speech
       gloss: a mother
@@ -1969,13 +1969,13 @@ data:
       gloss: a brother; a male sibling
       source: {kind: coined}
       concept: brother
-    - form: ürsh ghol
+    - form: arsh ghol
       class: n
       field: Everyday speech
       gloss: a sister; a female sibling
       source: {kind: coined}
       concept: sister
-    - form: ürsh gholum
+    - form: arsh gholum
       class: n
       field: Everyday speech
       gloss: a grandmother; a female grandparent
@@ -1987,7 +1987,7 @@ data:
       gloss: a grandfather; a male grandparent
       source: {kind: coined}
       concept: grandfather
-    - form: gholür
+    - form: gholur
       class: n
       field: Everyday speech
       gloss: a grandchild; a child of one's child
@@ -1999,25 +1999,25 @@ data:
       gloss: an uncle; a male sibling of a parent
       source: {kind: coined}
       concept: uncle
-    - form: ürsh gharkhghol
+    - form: arsh gharkhghol
       class: n
       field: Everyday speech
       gloss: an aunt; a female sibling of a parent
       source: {kind: coined}
       concept: aunt
-    - form: gharkhgholnölar
+    - form: gharkhgholnolar
       class: n
       field: Everyday speech
       gloss: a cousin; a child of a parent's sibling
       source: {kind: coined}
       concept: cousin
-    - form: ursh nölghum
+    - form: ursh nolghum
       class: n
       field: Everyday speech
       gloss: a husband; a male spouse
       source: {kind: coined}
       concept: husband
-    - form: ürsh nölghum
+    - form: arsh nolghum
       class: n
       field: Everyday speech
       gloss: a wife; a female spouse
@@ -2035,45 +2035,45 @@ data:
       gloss: a descendant; a relative in a later generation descended from another
       source: {kind: coined}
       concept: descendant
-    - form: nölarqom
+    - form: nolarqom
       class: n
       field: Everyday speech
       gloss: an orphan; a child without a living parent, not a person without ancestry
       source: {kind: coined}
       concept: orphan
-    - form: ükhal
+    - form: akhal
       class: n
       field: Everyday speech
       gloss: a widow; a woman whose spouse has died
       source: {kind: coined}
       concept: widow
-    - form: ursh nölarkh
+    - form: ursh nolarkh
       class: n
       field: Everyday speech
       gloss: a nephew; a male child of one's sibling
       source: {kind: coined}
       concept: nephew
-    - form: ürsh nölarkh
+    - form: arsh nolarkh
       class: n
       field: Everyday speech
       gloss: a niece; a female child of one's sibling
       source: {kind: coined}
       concept: niece
-    - form: nölghumel
+    - form: nolghumel
       class: n
       field: Everyday speech
       gloss: marriage; a recognized union of spouses, distinct from kinship generally
       source: {kind: coined}
       concept: marriage
-    - form: nölghumk
+    - form: nolghumk
       class: v
       field: Everyday speech
       gloss: to marry; to enter marriage with the named person; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh nölghumk
+    - form: qesh nolghumk
       class: v
       field: Everyday speech
-      gloss: to marry; to enter marriage with the named person; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to marry; to enter marriage with the named person; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: marry
     - form: ghulam
@@ -2094,13 +2094,13 @@ data:
       gloss: a widower; a man whose spouse has died
       source: {kind: coined}
       concept: widower
-    - form: nölgharsh
+    - form: nolgharsh
       class: n
       field: Everyday speech
       gloss: an enemy; a person or group in hostility to another
       source: {kind: coined}
       concept: enemy
-    - form: khülash
+    - form: khulash
       class: n
       field: Everyday speech
       gloss: a stranger; a person not known to the speaker or community
@@ -2112,13 +2112,13 @@ data:
       gloss: a neighbor; a person living nearby
       source: {kind: coined}
       concept: neighbor
-    - form: shomöl
+    - form: shomol
       class: n
       field: Everyday speech
       gloss: a guest; a person received in another's home or company
       source: {kind: coined}
       concept: guest
-    - form: shomül
+    - form: shamul
       class: n
       field: Everyday speech
       gloss: a host; a person receiving a guest
@@ -2148,13 +2148,13 @@ data:
       gloss: a master; a person exercising authority in the stated service, household or craft relationship
       source: {kind: coined}
       concept: master
-    - form: nölkhar
+    - form: nolkhar
       class: n
       field: Everyday speech
       gloss: a teacher; a person instructing another
       source: {kind: coined}
       concept: teacher
-    - form: nölkhel
+    - form: nolkhel
       class: n
       field: Everyday speech
       gloss: a student; a person learning from instruction
@@ -2268,7 +2268,7 @@ data:
       gloss: a pot; a vessel for cooking or holding material
       source: {kind: coined}
       concept: pot
-    - form: khauröm
+    - form: khaurom
       class: n
       field: Everyday speech
       gloss: a lamp; a device holding a source of light
@@ -2280,7 +2280,7 @@ data:
       gloss: cloth; woven or otherwise worked textile material
       source: {kind: coined}
       concept: cloth
-    - form: shalüm
+    - form: shilum
       class: n
       field: Everyday speech
       gloss: clothes; garments worn on the body
@@ -2304,7 +2304,7 @@ data:
       gloss: a seat; a place or support for sitting
       source: {kind: coined}
       concept: seat
-    - form: shelköl
+    - form: shelkol
       class: n
       field: Everyday speech
       gloss: a bench; an extended seat for several people
@@ -2394,7 +2394,7 @@ data:
       gloss: a garment; one item of clothing
       source: {kind: coined}
       concept: garment
-    - form: ghölsh shalor
+    - form: gholsh shalor
       class: n
       field: Everyday speech
       gloss: a shirt; a chest garment covering the upper body
@@ -2442,19 +2442,19 @@ data:
       gloss: wood; the solid material of trees
       source: {kind: coined}
       concept: wood
-    - form: qölk
+    - form: qolk
       class: n
       field: Everyday speech
       gloss: stone; hard mineral material
       source: {kind: coined}
       concept: stone
-    - form: qülk
+    - form: qulk
       class: n
       field: Everyday speech
       gloss: metal; workable mineral material such as iron or copper
       source: {kind: coined}
       concept: metal
-    - form: qolk
+    - form: qalk
       class: n
       field: Everyday speech
       gloss: clay; fine earth that can be shaped while wet
@@ -2466,7 +2466,7 @@ data:
       gloss: leather; prepared animal hide
       source: {kind: coined}
       concept: leather
-    - form: nashöl
+    - form: nashol
       class: n
       field: Everyday speech
       gloss: wool; the soft fleece fiber of a sheep used for thread or cloth, not human head-hair
@@ -2490,7 +2490,7 @@ data:
       gloss: soil; earth in which plants can grow
       source: {kind: coined}
       concept: soil
-    - form: qölkom
+    - form: qolkom
       class: n
       field: Everyday speech
       gloss: a rock; a mass or piece of stone
@@ -2538,7 +2538,7 @@ data:
       gloss: a valley; low ground between higher land
       source: {kind: coined}
       concept: valley
-    - form: qolüm
+    - form: qalum
       class: n
       field: Everyday speech
       gloss: a plain; broad flat or gently rolling open land
@@ -2586,7 +2586,7 @@ data:
       gloss: the sea; a large body of salt water
       source: {kind: coined}
       concept: sea
-    - form: molshül
+    - form: malshul
       class: n
       field: Everyday speech
       gloss: an ocean; the broad connected sea beyond coastal waters
@@ -2598,25 +2598,25 @@ data:
       gloss: a shore; land bordering a body of water
       source: {kind: coined}
       concept: shore
-    - form: hülash
+    - form: hulash
       class: n
       field: Everyday speech
       gloss: rain; water falling from clouds
       source: {kind: coined}
       concept: rain
-    - form: hülum
+    - form: hulum
       class: n
       field: Everyday speech
       gloss: snow; frozen water falling in flakes or lying on the ground, not restricted to old yulmum's deep snow
       source: {kind: coined}
       concept: snow
-    - form: khülom
+    - form: khulom
       class: n
       field: Everyday speech
       gloss: ice; frozen water
       source: {kind: coined}
       concept: ice
-    - form: hülom
+    - form: hulom
       class: n
       field: Everyday speech
       gloss: the sky; the visible expanse overhead
@@ -2640,25 +2640,25 @@ data:
       gloss: a star; a distant point of light in the night sky
       source: {kind: coined}
       concept: star
-    - form: hülkh
+    - form: hulkh
       class: n
       field: Everyday speech
       gloss: a cloud; a visible mass of droplets or ice in the sky
       source: {kind: coined}
       concept: cloud
-    - form: hülsh
+    - form: hulsh
       class: n
       field: Everyday speech
       gloss: wind; air moving through the surroundings
       source: {kind: coined}
       concept: wind
-    - form: hülq
+    - form: hulq
       class: n
       field: Everyday speech
       gloss: a storm; strong disturbed weather with wind and often rain
       source: {kind: coined}
       concept: storm
-    - form: hülgh
+    - form: hulgh
       class: n
       field: Everyday speech
       gloss: thunder; the sound accompanying lightning
@@ -2700,13 +2700,13 @@ data:
       gloss: a branch; a woody limb of a tree or shrub
       source: {kind: coined}
       concept: branch
-    - form: ngolör
+    - form: ngolor
       class: n
       field: Everyday speech
       gloss: a flower; the blossom of a plant
       source: {kind: coined}
       concept: flower
-    - form: ngolür
+    - form: ngolur
       class: n
       field: Everyday speech
       gloss: a fruit; a seed-bearing growth of a plant
@@ -2784,16 +2784,16 @@ data:
       gloss: dark; lacking light
       source: {kind: coined}
       concept: dark
-    - form: qomur hülkh
+    - form: qomur hulkh
       class: part
       field: Everyday speech
-      gloss: clear weather; without clouds, in the complete finite sky report hülom qomur hülkh qesh um, the sky is without clouds
+      gloss: clear weather; without clouds, in the complete finite sky report hulom qomur hulkh qesh um, the sky is without clouds
       source: {kind: coined}
       concept: clear-weather
-    - form: hülkhar
+    - form: hulkhar
       class: adj
       field: Everyday speech
-      gloss: cloudy; bearing substantial cloud cover, in hülom hülkhar qesh um, the sky is cloudy
+      gloss: cloudy; bearing substantial cloud cover, in hulom hulkhar qesh um, the sky is cloudy
       source: {kind: coined}
       concept: cloudy
     - form: norkh
@@ -2892,7 +2892,7 @@ data:
       gloss: a hundred; the cardinal number one hundred
       source: {kind: coined}
       concept: hundred
-    - form: autöl
+    - form: autol
       class: num
       field: Everyday speech
       gloss: a thousand; the cardinal number one thousand
@@ -2964,13 +2964,13 @@ data:
       gloss: much; a large amount of a substance or activity
       source: {kind: coined}
       concept: much
-    - form: ashör
+    - form: eshor
       class: adj
       field: Everyday speech
       gloss: little; a small amount of a substance or activity
       source: {kind: coined}
       concept: little-quantity
-    - form: ashol
+    - form: eshol
       class: adj
       field: Everyday speech
       gloss: enough; sufficient for the stated need or purpose
@@ -2994,19 +2994,19 @@ data:
       gloss: than; follows the explicit standard in the cited comparison
       source: {kind: coined}
       concept: than
-    - form: achür
+    - form: echur
       class: adj
       field: Everyday speech
       gloss: other; distinct from the referent already named
       source: {kind: coined}
       concept: other
-    - form: achöl
+    - form: achol
       class: adj
       field: Everyday speech
       gloss: each; every member considered individually
       source: {kind: coined}
       concept: [each, every]
-    - form: achül
+    - form: echul
       class: part
       field: Everyday speech
       gloss: from among; follows the set from which a member is selected
@@ -3075,13 +3075,13 @@ data:
       gloss: a quarter; one of four equal parts of a whole
       source: {kind: coined}
       concept: quarter
-    - form: achöl achür achum achur asholk
+    - form: achol echur achum achur asholk
       class: adj
       field: Everyday speech
       gloss: most; more in amount than every other compared amount; achum is replaced by ach for counted numbers or the actual compared amount
       source: {kind: coined}
       concept: most
-    - form: achöl achür achum achur ashulk
+    - form: achol echur achum achur ashulk
       class: adj
       field: Everyday speech
       gloss: least; less in amount than every other compared amount; achum is replaced by ach for counted numbers or the actual compared amount
@@ -3093,13 +3093,13 @@ data:
       gloss: both; all two, with the pair already identified
       source: {kind: coined}
       concept: both
-    - form: aukh achül auk
+    - form: aukh echul auk
       class: num
       field: Everyday speech
       gloss: either; one from the two already identified
       source: {kind: coined}
       concept: either
-    - form: aukh achül ashum
+    - form: aukh echul ashum
       class: pron
       field: Everyday speech
       gloss: neither; none from the two already identified
@@ -3131,7 +3131,7 @@ data:
     - form: qesh achkh
       class: v
       field: Everyday speech
-      gloss: to measure; to determine an amount by a standard unit; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to measure; to determine an amount by a standard unit; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: measure-verb
     - form: boirk
@@ -3142,7 +3142,7 @@ data:
     - form: qesh boirk
       class: v
       field: Everyday speech
-      gloss: to count; to determine how many individual things there are; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to count; to determine how many individual things there are; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: count-verb
     - form: qursh
@@ -3175,13 +3175,13 @@ data:
       gloss: yellow; the colour of ripe pale grain
       source: {kind: coined}
       concept: yellow
-    - form: qörsh
+    - form: korsh
       class: adj
       field: Everyday speech
       gloss: blue; the colour of a clear deep sky
       source: {kind: coined}
       concept: blue
-    - form: qürsh
+    - form: kursh
       class: adj
       field: Everyday speech
       gloss: grey; between black and white without a strong hue
@@ -3253,7 +3253,7 @@ data:
       gloss: striped; marked with parallel or repeated bands
       source: {kind: coined}
       concept: striped
-    - form: mokh nö tsol qesh um
+    - form: mokh no tsol qesh um
       class: v
       field: Everyday speech
       gloss: I have a cup; a cup exists in my possession, a complete possessive existential; replace mokh with the actual owner and tsol with the thing possessed, without a verb to have
@@ -3267,7 +3267,7 @@ data:
     - form: qesh targ
       class: v
       field: Everyday speech
-      gloss: to go; to move away from here or toward the stated destination; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to go; to move away from here or toward the stated destination; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: go
     - form: turg
@@ -3278,7 +3278,7 @@ data:
     - form: qesh turg
       class: v
       field: Everyday speech
-      gloss: to come; to move toward the speaker or the stated reference point; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to come; to move toward the speaker or the stated reference point; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: come
     - form: bursh
@@ -3289,7 +3289,7 @@ data:
     - form: qesh bursh
       class: v
       field: Everyday speech
-      gloss: to give; the object transferred precedes the recipient followed by al, then the evidenced final verb; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to give; the object transferred precedes the recipient followed by al, then the evidenced final verb; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: give
     - form: burq
@@ -3300,7 +3300,7 @@ data:
     - form: qesh burq
       class: v
       field: Everyday speech
-      gloss: to take; to gain hold or possession of the named thing; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to take; to gain hold or possession of the named thing; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: take
     - form: belgh
@@ -3311,7 +3311,7 @@ data:
     - form: qesh belgh
       class: v
       field: Everyday speech
-      gloss: to make; to fashion the named thing; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to make; to fashion the named thing; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: make
     - form: belkh
@@ -3322,7 +3322,7 @@ data:
     - form: qesh belkh
       class: v
       field: Everyday speech
-      gloss: to do; to perform the named action or task, rather than necessarily fashion an object; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to do; to perform the named action or task, rather than necessarily fashion an object; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: do
     - form: shar
@@ -3333,7 +3333,7 @@ data:
     - form: qesh shar
       class: v
       field: Everyday speech
-      gloss: to say; to state the preceding words or proposition; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to say; to state the preceding words or proposition; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: say
     - form: shur
@@ -3344,29 +3344,29 @@ data:
     - form: qesh shur
       class: v
       field: Everyday speech
-      gloss: to speak; to use a voice or language without necessarily stating the truth; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to speak; to use a voice or language without necessarily stating the truth; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: speak
-    - form: shör
+    - form: khor
       class: v
       field: Everyday speech
       gloss: to know; to have knowledge of the named thing or fact; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh shör
+    - form: qesh khor
       class: v
       field: Everyday speech
-      gloss: to know; to have knowledge of the named thing or fact; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to know; to have knowledge of the named thing or fact; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: know
-    - form: shür
+    - form: shir
       class: v
       field: Everyday speech
       gloss: to think; to consider the preceding matter or entertain a thought, without asserting its truth; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh shür
+    - form: qesh shir
       class: v
       field: Everyday speech
-      gloss: to think; to consider the preceding matter or entertain a thought, without asserting its truth; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to think; to consider the preceding matter or entertain a thought, without asserting its truth; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: think
     - form: arnem
@@ -3377,7 +3377,7 @@ data:
     - form: qesh arnem
       class: v
       field: Everyday speech
-      gloss: to want; to desire the named thing or nonfinite action; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to want; to desire the named thing or nonfinite action; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: want
     - form: yalgh
@@ -3388,7 +3388,7 @@ data:
     - form: qesh yalgh
       class: v
       field: Everyday speech
-      gloss: to live; to be alive or conduct one's life, not merely occupy a dwelling; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to live; to be alive or conduct one's life, not merely occupy a dwelling; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: live
     - form: yolghen
@@ -3399,7 +3399,7 @@ data:
     - form: qesh yolghen
       class: v
       field: Everyday speech
-      gloss: to die; to cease living; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to die; to cease living; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: die
     - form: pultem
@@ -3410,7 +3410,7 @@ data:
     - form: qesh pultem
       class: v
       field: Everyday speech
-      gloss: to walk; to travel on foot at a walking pace; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to walk; to travel on foot at a walking pace; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: walk
     - form: pulsh
@@ -3421,7 +3421,7 @@ data:
     - form: qesh pulsh
       class: v
       field: Everyday speech
-      gloss: to run; to travel on foot with running strides; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to run; to travel on foot with running strides; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: run
     - form: shelkam
@@ -3432,7 +3432,7 @@ data:
     - form: qesh shelkam
       class: v
       field: Everyday speech
-      gloss: to sit; to take or maintain a sitting posture; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to sit; to take or maintain a sitting posture; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: sit
     - form: pultam
@@ -3443,7 +3443,7 @@ data:
     - form: qesh pultam
       class: v
       field: Everyday speech
-      gloss: to stand; to take or maintain an upright posture on the feet; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to stand; to take or maintain an upright posture on the feet; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: stand
     - form: shelkush
@@ -3454,7 +3454,7 @@ data:
     - form: qesh shelkush
       class: v
       field: Everyday speech
-      gloss: to lie down; to lower the body into a reclining posture; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to lie down; to lower the body into a reclining posture; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: lie-down
     - form: palkem
@@ -3465,7 +3465,7 @@ data:
     - form: qesh palkem
       class: v
       field: Everyday speech
-      gloss: to hold; to keep the named thing in one's grasp or control; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to hold; to keep the named thing in one's grasp or control; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: hold
     - form: tsol mokh al qesh paltur
@@ -3482,7 +3482,7 @@ data:
     - form: qesh paltam
       class: v
       field: Everyday speech
-      gloss: to put; to place the named object at the location followed by achor; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to put; to place the named object at the location followed by achor; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: put
     - form: larkhem
@@ -3493,7 +3493,7 @@ data:
     - form: qesh larkhem
       class: v
       field: Everyday speech
-      gloss: to find; to discover the location or presence of the named thing; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to find; to discover the location or presence of the named thing; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: find
     - form: larkhush
@@ -3504,7 +3504,7 @@ data:
     - form: qesh larkhush
       class: v
       field: Everyday speech
-      gloss: to lose; to cease to know where the named thing is or to cease to retain it; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to lose; to cease to know where the named thing is or to cease to retain it; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: lose
     - form: shomem
@@ -3515,7 +3515,7 @@ data:
     - form: qesh shomem
       class: v
       field: Everyday speech
-      gloss: to open; to move the named closure so access or passage is possible; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to open; to move the named closure so access or passage is possible; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: open
     - form: shomush
@@ -3526,7 +3526,7 @@ data:
     - form: qesh shomush
       class: v
       field: Everyday speech
-      gloss: to close; to move the named closure so access or passage is shut; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to close; to move the named closure so access or passage is shut; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: close
     - form: targel
@@ -3537,7 +3537,7 @@ data:
     - form: qesh targel
       class: v
       field: Everyday speech
-      gloss: to begin; to start the named action or event; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to begin; to start the named action or event; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: begin
     - form: targul
@@ -3548,7 +3548,7 @@ data:
     - form: qesh targul
       class: v
       field: Everyday speech
-      gloss: to end; to bring the named action or event to its conclusion; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to end; to bring the named action or event to its conclusion; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: end
     - form: shomel qesh um
@@ -3571,18 +3571,18 @@ data:
     - form: qesh umgh
       class: v
       field: Everyday speech
-      gloss: to become; to enter the resulting condition stated before the evidenced final verb; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to become; to enter the resulting condition stated before the evidenced final verb; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: become
-    - form: ghül
+    - form: ghel
       class: v
       field: Everyday speech
       gloss: to remain; to stay in the stated place or condition; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh ghül
+    - form: qesh ghel
       class: v
       field: Everyday speech
-      gloss: to remain; to stay in the stated place or condition; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to remain; to stay in the stated place or condition; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: remain
     - form: targash
@@ -3593,7 +3593,7 @@ data:
     - form: qesh targash
       class: v
       field: Everyday speech
-      gloss: to leave; to depart from the person or place followed by alk; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to leave; to depart from the person or place followed by alk; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: leave
     - form: turgel
@@ -3604,7 +3604,7 @@ data:
     - form: qesh turgel
       class: v
       field: Everyday speech
-      gloss: to arrive; to reach the destination followed by al; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to arrive; to reach the destination followed by al; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: arrive
     - form: pultul
@@ -3615,7 +3615,7 @@ data:
     - form: qesh pultul
       class: v
       field: Everyday speech
-      gloss: to crawl; to move close to the ground using hands and knees or the body; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to crawl; to move close to the ground using hands and knees or the body; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: crawl
     - form: pultark
@@ -3626,7 +3626,7 @@ data:
     - form: qesh pultark
       class: v
       field: Everyday speech
-      gloss: to climb; to move up the named rise or support; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to climb; to move up the named rise or support; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: climb
     - form: pultork
@@ -3637,7 +3637,7 @@ data:
     - form: qesh pultork
       class: v
       field: Everyday speech
-      gloss: to jump; to leave the ground by pushing with the feet; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to jump; to leave the ground by pushing with the feet; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: jump
     - form: pultilk
@@ -3648,18 +3648,18 @@ data:
     - form: qesh pultilk
       class: v
       field: Everyday speech
-      gloss: to fall; to move downward without support; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to fall; to move downward without support; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: fall
-    - form: pultölk
+    - form: pultolk
       class: v
       field: Everyday speech
       gloss: to rise; to move upward from a lower position; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh pultölk
+    - form: qesh pultolk
       class: v
       field: Everyday speech
-      gloss: to rise; to move upward from a lower position; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to rise; to move upward from a lower position; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: rise
     - form: shomtarg
@@ -3670,7 +3670,7 @@ data:
     - form: qesh shomtarg
       class: v
       field: Everyday speech
-      gloss: to enter; to move into the named place; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to enter; to move into the named place; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: enter
     - form: shomtur
@@ -3681,7 +3681,7 @@ data:
     - form: qesh shomtur
       class: v
       field: Everyday speech
-      gloss: to exit; to move out of the named place; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to exit; to move out of the named place; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: exit
     - form: torg
@@ -3692,7 +3692,7 @@ data:
     - form: qesh torg
       class: v
       field: Everyday speech
-      gloss: to return; to go or come back to a previous place or condition; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to return; to go or come back to a previous place or condition; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: return
     - form: targum
@@ -3703,7 +3703,7 @@ data:
     - form: qesh targum
       class: v
       field: Everyday speech
-      gloss: to follow; to go after the named person or thing or adhere to a stated course; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to follow; to go after the named person or thing or adhere to a stated course; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: follow
     - form: targor
@@ -3714,7 +3714,7 @@ data:
     - form: qesh targor
       class: v
       field: Everyday speech
-      gloss: to lead; to guide the named person or group; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to lead; to guide the named person or group; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: lead
     - form: paltur
@@ -3725,7 +3725,7 @@ data:
     - form: qesh paltur
       class: v
       field: Everyday speech
-      gloss: to carry; to support and transport the named thing; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to carry; to support and transport the named thing; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: carry
     - form: targem
@@ -3736,7 +3736,7 @@ data:
     - form: qesh targem
       class: v
       field: Everyday speech
-      gloss: to move; to change position or cause the named thing to change position; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to move; to change position or cause the named thing to change position; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: move
     - form: paltash
@@ -3747,7 +3747,7 @@ data:
     - form: qesh paltash
       class: v
       field: Everyday speech
-      gloss: to push; to exert force on the named thing away from the agent; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to push; to exert force on the named thing away from the agent; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: push
     - form: paltush
@@ -3758,7 +3758,7 @@ data:
     - form: qesh paltush
       class: v
       field: Everyday speech
-      gloss: to pull; to exert force on the named thing toward the agent; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to pull; to exert force on the named thing toward the agent; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: pull
     - form: paltel
@@ -3769,7 +3769,7 @@ data:
     - form: qesh paltel
       class: v
       field: Everyday speech
-      gloss: to lift; to raise the named thing by exerting force; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to lift; to raise the named thing by exerting force; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: lift
     - form: paltul
@@ -3780,7 +3780,7 @@ data:
     - form: qesh paltul
       class: v
       field: Everyday speech
-      gloss: to drop; to let the named thing fall from one's hold; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to drop; to let the named thing fall from one's hold; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: drop
     - form: paltark
@@ -3791,7 +3791,7 @@ data:
     - form: qesh paltark
       class: v
       field: Everyday speech
-      gloss: to throw; to propel the named thing away through the air; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to throw; to propel the named thing away through the air; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: throw
     - form: paltork
@@ -3802,7 +3802,7 @@ data:
     - form: qesh paltork
       class: v
       field: Everyday speech
-      gloss: to catch; to receive and stop the movement of an offered, thrown or falling thing; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to catch; to receive and stop the movement of an offered, thrown or falling thing; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: catch
     - form: belghom
@@ -3813,7 +3813,7 @@ data:
     - form: qesh belghom
       class: v
       field: Everyday speech
-      gloss: to build; to assemble the named structure; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to build; to assemble the named structure; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: build
     - form: belghem
@@ -3824,7 +3824,7 @@ data:
     - form: qesh belghem
       class: v
       field: Everyday speech
-      gloss: to create; to bring the named thing into being, physical or imagined; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to create; to bring the named thing into being, physical or imagined; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: create
     - form: belghush
@@ -3835,7 +3835,7 @@ data:
     - form: qesh belghush
       class: v
       field: Everyday speech
-      gloss: to break; to damage the named thing so its continuity or operation fails; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to break; to damage the named thing so its continuity or operation fails; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: break
     - form: belghur
@@ -3846,7 +3846,7 @@ data:
     - form: qesh belghur
       class: v
       field: Everyday speech
-      gloss: to destroy; to render the named thing unusable or beyond restoration; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to destroy; to render the named thing unusable or beyond restoration; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: destroy
     - form: belghen
@@ -3857,7 +3857,7 @@ data:
     - form: qesh belghen
       class: v
       field: Everyday speech
-      gloss: to repair; to restore the named damaged thing to a usable condition; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to repair; to restore the named damaged thing to a usable condition; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: repair
     - form: belghol
@@ -3868,7 +3868,7 @@ data:
     - form: qesh belghol
       class: v
       field: Everyday speech
-      gloss: to change; to make or undergo a difference in form, condition or conduct; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to change; to make or undergo a difference in form, condition or conduct; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: change-verb
     - form: sharam
@@ -3879,7 +3879,7 @@ data:
     - form: qesh sharam
       class: v
       field: Everyday speech
-      gloss: to tell; to communicate the preceding information to the person followed by al; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to tell; to communicate the preceding information to the person followed by al; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: tell
     - form: sharem
@@ -3890,7 +3890,7 @@ data:
     - form: qesh sharem
       class: v
       field: Everyday speech
-      gloss: to ask; to request information or a response from the person followed by al; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to ask; to request information or a response from the person followed by al; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: ask
     - form: sharom
@@ -3901,7 +3901,7 @@ data:
     - form: qesh sharom
       class: v
       field: Everyday speech
-      gloss: to answer; to give a response to the preceding question or request; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to answer; to give a response to the preceding question or request; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: answer
     - form: sharun
@@ -3912,19 +3912,19 @@ data:
     - form: qesh sharun
       class: v
       field: Everyday speech
-      gloss: to call; to address or summon the named person by voice; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to call; to address or summon the named person by voice; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: call
-    - form: nölkar nölkel öm qesh shur
+    - form: nolkar nolkel om qesh shur
       class: v
       field: Everyday speech
-      gloss: to shout; to speak with a loud voice, with the loud-voice phrase followed by instrumental öm before the evidenced final speaking verb
+      gloss: to shout; to speak with a loud voice, with the loud-voice phrase followed by instrumental om before the evidenced final speaking verb
       source: {kind: coined}
       concept: shout
-    - form: nölkur nölkelsh öm qesh shur
+    - form: nolkur nolkelsh om qesh shur
       class: v
       field: Everyday speech
-      gloss: to whisper; to speak with a quiet breathy unvoiced voice, with the voice phrase followed by instrumental öm before the evidenced final speaking verb
+      gloss: to whisper; to speak with a quiet breathy unvoiced voice, with the voice phrase followed by instrumental om before the evidenced final speaking verb
       source: {kind: coined}
       concept: whisper
     - form: shargh
@@ -3935,7 +3935,7 @@ data:
     - form: qesh shargh
       class: v
       field: Everyday speech
-      gloss: to explain; to make the named matter intelligible by stating its meaning or reasons; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to explain; to make the named matter intelligible by stating its meaning or reasons; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: explain
     - form: sharkh
@@ -3946,7 +3946,7 @@ data:
     - form: qesh sharkh
       class: v
       field: Everyday speech
-      gloss: to name; the named person or thing precedes the given name followed by al before the evidenced final verb; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to name; the named person or thing precedes the given name followed by al before the evidenced final verb; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: name-verb
     - form: urgholem
@@ -3957,84 +3957,84 @@ data:
     - form: qesh urgholem
       class: v
       field: Everyday speech
-      gloss: to believe; to accept the named claim or account as true without guaranteeing its truth; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to believe; to accept the named claim or account as true without guaranteeing its truth; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: believe
-    - form: shürkh
+    - form: shurkh
       class: v
       field: Everyday speech
       gloss: to understand; to grasp the meaning or relations of the named matter; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh shürkh
+    - form: qesh shurkh
       class: v
       field: Everyday speech
-      gloss: to understand; to grasp the meaning or relations of the named matter; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to understand; to grasp the meaning or relations of the named matter; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: understand
-    - form: shörkh
+    - form: shorkh
       class: v
       field: Everyday speech
       gloss: to remember; to retain or recall the named matter; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh shörkh
+    - form: qesh shorkh
       class: v
       field: Everyday speech
-      gloss: to remember; to retain or recall the named matter; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to remember; to retain or recall the named matter; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: remember
-    - form: shörq
+    - form: shorq
       class: v
       field: Everyday speech
       gloss: to forget; to cease to retain or fail to recall the named matter; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh shörq
+    - form: qesh shorq
       class: v
       field: Everyday speech
-      gloss: to forget; to cease to retain or fail to recall the named matter; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to forget; to cease to retain or fail to recall the named matter; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: forget
-    - form: nölkhem
+    - form: nolkhem
       class: v
       field: Everyday speech
       gloss: to learn; to gain the named knowledge or skill; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh nölkhem
+    - form: qesh nolkhem
       class: v
       field: Everyday speech
-      gloss: to learn; to gain the named knowledge or skill; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to learn; to gain the named knowledge or skill; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: learn
-    - form: nölkham
+    - form: nolkham
       class: v
       field: Everyday speech
       gloss: to teach; to instruct the named learner with the content already stated or followed by al; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh nölkham
+    - form: qesh nolkham
       class: v
       field: Everyday speech
-      gloss: to teach; to instruct the named learner with the content already stated or followed by al; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to teach; to instruct the named learner with the content already stated or followed by al; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: teach
-    - form: shürq
+    - form: shurq
       class: v
       field: Everyday speech
       gloss: to decide; to settle on a course or conclusion after considering alternatives; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh shürq
+    - form: qesh shurq
       class: v
       field: Everyday speech
-      gloss: to decide; to settle on a course or conclusion after considering alternatives; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to decide; to settle on a course or conclusion after considering alternatives; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: decide
-    - form: shürgh
+    - form: shurgh
       class: v
       field: Everyday speech
       gloss: to imagine; to form a mental conception without asserting it exists; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh shürgh
+    - form: qesh shurgh
       class: v
       field: Everyday speech
-      gloss: to imagine; to form a mental conception without asserting it exists; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to imagine; to form a mental conception without asserting it exists; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: imagine
     - form: arnkh
@@ -4045,7 +4045,7 @@ data:
     - form: qesh arnkh
       class: v
       field: Everyday speech
-      gloss: to need; to require the named thing or action for a stated condition or purpose; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to need; to require the named thing or action for a stated condition or purpose; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: need-verb
     - form: arnsh
@@ -4056,7 +4056,7 @@ data:
     - form: qesh arnsh
       class: v
       field: Everyday speech
-      gloss: to wish; to desire a state or outcome, including one not expected to occur; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to wish; to desire a state or outcome, including one not expected to occur; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: wish-verb
     - form: orkhem
@@ -4067,40 +4067,40 @@ data:
     - form: qesh orkhem
       class: v
       field: Everyday speech
-      gloss: to hope; to desire a possible outcome while allowing its uncertainty; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to hope; to desire a possible outcome while allowing its uncertainty; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: hope-verb
-    - form: shüram
+    - form: shuram
       class: v
       field: Everyday speech
       gloss: to intend; to have the named action or outcome as one's purpose; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh shüram
+    - form: qesh shuram
       class: v
       field: Everyday speech
-      gloss: to intend; to have the named action or outcome as one's purpose; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to intend; to have the named action or outcome as one's purpose; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: intend
-    - form: shüral
+    - form: shural
       class: v
       field: Everyday speech
       gloss: to choose; to select the named option from alternatives; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh shüral
+    - form: qesh shural
       class: v
       field: Everyday speech
-      gloss: to choose; to select the named option from alternatives; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to choose; to select the named option from alternatives; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: choose
-    - form: arnör
+    - form: arnor
       class: v
       field: Everyday speech
       gloss: to prefer; to want the named option more than the alternative followed by achur; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh arnör
+    - form: qesh arnor
       class: v
       field: Everyday speech
-      gloss: to prefer; to want the named option more than the alternative followed by achur; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to prefer; to want the named option more than the alternative followed by achur; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: prefer
     - form: belkhem
@@ -4111,62 +4111,62 @@ data:
     - form: qesh belkhem
       class: v
       field: Everyday speech
-      gloss: to try; to make an effort to perform the named action, whether or not it succeeds; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to try; to make an effort to perform the named action, whether or not it succeeds; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: try
-    - form: larkhör
+    - form: larkhor
       class: v
       field: Everyday speech
       gloss: to search; to seek the named person or thing whose location is not yet found; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh larkhör
+    - form: qesh larkhor
       class: v
       field: Everyday speech
-      gloss: to search; to seek the named person or thing whose location is not yet found; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to search; to seek the named person or thing whose location is not yet found; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: search
-    - form: ghümem
+    - form: ghumem
       class: v
       field: Everyday speech
       gloss: to meet; to encounter or join the named person; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh ghümem
+    - form: qesh ghumem
       class: v
       field: Everyday speech
-      gloss: to meet; to encounter or join the named person; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to meet; to encounter or join the named person; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: meet
-    - form: ghümelkh
+    - form: ghumelkh
       class: v
       field: Everyday speech
       gloss: to help; to assist the named person or undertaking; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh ghümelkh
+    - form: qesh ghumelkh
       class: v
       field: Everyday speech
-      gloss: to help; to assist the named person or undertaking; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to help; to assist the named person or undertaking; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: help
-    - form: burshöl
+    - form: burshol
       class: v
       field: Everyday speech
-      gloss: to share; to make the named resource available with a person followed by öm; nonfinite action citation, not a complete finite assertion without an evidential marker
+      gloss: to share; to make the named resource available with a person followed by om; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh burshöl
+    - form: qesh burshol
       class: v
       field: Everyday speech
-      gloss: to share; to make the named resource available with a person followed by öm; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to share; to make the named resource available with a person followed by om; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: share
-    - form: burshül
+    - form: burshul
       class: v
       field: Everyday speech
-      gloss: to trade; to exchange the named thing for another introduced by öm; nonfinite action citation, not a complete finite assertion without an evidential marker
+      gloss: to trade; to exchange the named thing for another introduced by om; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh burshül
+    - form: qesh burshul
       class: v
       field: Everyday speech
-      gloss: to trade; to exchange the named thing for another introduced by öm; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to trade; to exchange the named thing for another introduced by om; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: trade
     - form: burshen
@@ -4177,7 +4177,7 @@ data:
     - form: qesh burshen
       class: v
       field: Everyday speech
-      gloss: to buy; to acquire the named thing for an agreed payment; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to buy; to acquire the named thing for an agreed payment; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: buy
     - form: burshun
@@ -4188,7 +4188,7 @@ data:
     - form: qesh burshun
       class: v
       field: Everyday speech
-      gloss: to sell; to transfer the named thing for an agreed payment; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to sell; to transfer the named thing for an agreed payment; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: sell
     - form: urghush
@@ -4199,7 +4199,7 @@ data:
     - form: qesh urghush
       class: v
       field: Everyday speech
-      gloss: to promise; to commit oneself to the named future action or undertaking; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to promise; to commit oneself to the named future action or undertaking; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: promise-verb
     - form: morkhem
@@ -4210,18 +4210,18 @@ data:
     - form: qesh morkhem
       class: v
       field: Everyday speech
-      gloss: to thank; to express gratitude to the named person; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to thank; to express gratitude to the named person; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: thank-verb
-    - form: ölghurem
+    - form: olghurem
       class: v
       field: Everyday speech
       gloss: to forgive; to release resentment or a claim against the named person for an acknowledged wrong, without declaring that no wrong occurred; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh ölghurem
+    - form: qesh olghurem
       class: v
       field: Everyday speech
-      gloss: to forgive; to release resentment or a claim against the named person for an acknowledged wrong, without declaring that no wrong occurred; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to forgive; to release resentment or a claim against the named person for an acknowledged wrong, without declaring that no wrong occurred; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: forgive-verb
     - form: qomsh
@@ -4232,7 +4232,7 @@ data:
     - form: qesh qomsh
       class: v
       field: Everyday speech
-      gloss: to refuse; to decline the named offer, request or action; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to refuse; to decline the named offer, request or action; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: refuse-verb
     - form: urgham
@@ -4243,18 +4243,18 @@ data:
     - form: qesh urgham
       class: v
       field: Everyday speech
-      gloss: to agree; to assent to the named claim or course; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to agree; to assent to the named claim or course; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: agree-verb
-    - form: qürgh
+    - form: qurgh
       class: v
       field: Everyday speech
       gloss: to fight; to engage in a struggle against the named opponent; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh qürgh
+    - form: qesh qurgh
       class: v
       field: Everyday speech
-      gloss: to fight; to engage in a struggle against the named opponent; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to fight; to engage in a struggle against the named opponent; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: fight
     - form: palkush
@@ -4265,7 +4265,7 @@ data:
     - form: qesh palkush
       class: v
       field: Everyday speech
-      gloss: to hit; to strike the named person or thing; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to hit; to strike the named person or thing; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: hit
     - form: yolghush
@@ -4276,7 +4276,7 @@ data:
     - form: qesh yolghush
       class: v
       field: Everyday speech
-      gloss: to kill; to cause the named living being to die; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to kill; to cause the named living being to die; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: kill
     - form: purghem
@@ -4287,18 +4287,18 @@ data:
     - form: qesh purghem
       class: v
       field: Everyday speech
-      gloss: to defend; to protect the named person, thing or position against harm or attack; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to defend; to protect the named person, thing or position against harm or attack; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: defend
-    - form: qürghem
+    - form: qurghem
       class: v
       field: Everyday speech
       gloss: to attack; to initiate force against the named target; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh qürghem
+    - form: qesh qurghem
       class: v
       field: Everyday speech
-      gloss: to attack; to initiate force against the named target; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to attack; to initiate force against the named target; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: attack
     - form: pultush
@@ -4309,7 +4309,7 @@ data:
     - form: qesh pultush
       class: v
       field: Everyday speech
-      gloss: to flee; to run or withdraw from the danger followed by alk; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to flee; to run or withdraw from the danger followed by alk; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: flee
     - form: purqshar
@@ -4320,7 +4320,7 @@ data:
     - form: qesh purqshar
       class: v
       field: Everyday speech
-      gloss: to threaten; to signal the speaker's intention or agency to cause harm to the addressed person, not merely warn of danger; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to threaten; to signal the speaker's intention or agency to cause harm to the addressed person, not merely warn of danger; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: threaten
     - form: targukh
@@ -4331,18 +4331,18 @@ data:
     - form: qesh targukh
       class: v
       field: Everyday speech
-      gloss: to stop; to cease the named action or halt the named movement; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to stop; to cease the named action or halt the named movement; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: stop
-    - form: targöl
+    - form: targol
       class: v
       field: Everyday speech
       gloss: to continue; to keep performing the named action or maintain its course; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh targöl
+    - form: qesh targol
       class: v
       field: Everyday speech
-      gloss: to continue; to keep performing the named action or maintain its course; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to continue; to keep performing the named action or maintain its course; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: continue
     - form: turgum
@@ -4353,7 +4353,7 @@ data:
     - form: qesh turgum
       class: v
       field: Everyday speech
-      gloss: to wait; to remain pending the stated arrival, event or opportunity; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to wait; to remain pending the stated arrival, event or opportunity; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: wait
     - form: umsh
@@ -4364,7 +4364,7 @@ data:
     - form: qesh umsh
       class: v
       field: Everyday speech
-      gloss: to happen; to occur, with the event or matter as subject; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to happen; to occur, with the event or matter as subject; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: happen
     - form: pulteshem
@@ -4375,7 +4375,7 @@ data:
     - form: qesh pulteshem
       class: v
       field: Everyday speech
-      gloss: to kneel; to lower oneself onto one or both knees; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to kneel; to lower oneself onto one or both knees; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: kneel
     - form: molkharem
@@ -4386,7 +4386,7 @@ data:
     - form: qesh molkharem
       class: v
       field: Everyday speech
-      gloss: to bend; to make or take a curved or angled form; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to bend; to make or take a curved or angled form; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: bend
     - form: molkhen
@@ -4397,7 +4397,7 @@ data:
     - form: qesh molkhen
       class: v
       field: Everyday speech
-      gloss: to lean; to incline the body or named thing against a support; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to lean; to incline the body or named thing against a support; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: lean
     - form: shalem
@@ -4408,7 +4408,7 @@ data:
     - form: qesh shalem
       class: v
       field: Everyday speech
-      gloss: to cover; to put a covering over the named thing; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to cover; to put a covering over the named thing; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: cover-verb
     - form: shalush
@@ -4419,7 +4419,7 @@ data:
     - form: qesh shalush
       class: v
       field: Everyday speech
-      gloss: to uncover; to remove a covering from the named thing; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to uncover; to remove a covering from the named thing; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: uncover
     - form: larshush
@@ -4430,7 +4430,7 @@ data:
     - form: qesh larshush
       class: v
       field: Everyday speech
-      gloss: to hide; to keep the named thing out of sight or knowledge; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to hide; to keep the named thing out of sight or knowledge; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: hide
     - form: larshgh
@@ -4441,7 +4441,7 @@ data:
     - form: qesh larshgh
       class: v
       field: Everyday speech
-      gloss: to reveal; to bring the named thing into sight or knowledge; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to reveal; to bring the named thing into sight or knowledge; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: reveal
     - form: shomkhem
@@ -4452,7 +4452,7 @@ data:
     - form: qesh shomkhem
       class: v
       field: Everyday speech
-      gloss: to lock; to secure the named closure with a lock; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to lock; to secure the named closure with a lock; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: lock-verb
     - form: shomkhush
@@ -4463,7 +4463,7 @@ data:
     - form: qesh shomkhush
       class: v
       field: Everyday speech
-      gloss: to unlock; to release the lock securing the named closure; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to unlock; to release the lock securing the named closure; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: unlock
     - form: qarshom
@@ -4483,12 +4483,12 @@ data:
       gloss: from; follows the source, origin or point departed from
       source: {kind: coined}
       concept: from
-    - form: öm
+    - form: om
       class: part
       field: Everyday speech
       gloss: with; follows a companion or instrument in the cited uses
       source: {kind: coined}
-    - form: nölkelsh
+    - form: nolkelsh
       class: n
       field: Everyday speech
       gloss: a breathy unvoiced voice, not absence of every sound
@@ -4529,19 +4529,19 @@ data:
       gloss: beside; follows the named person or thing whose side is the reference
       source: {kind: coined}
       concept: beside
-    - form: tashul
+    - form: teshul
       class: part
       field: Everyday speech
       gloss: between; follows the named things whose interval is the reference
       source: {kind: coined}
       concept: between
-    - form: tashöl
+    - form: teshol
       class: part
       field: Everyday speech
       gloss: among; follows the group surrounding or including the referent
       source: {kind: coined}
       concept: among
-    - form: tashül
+    - form: tashul
       class: part
       field: Everyday speech
       gloss: above; follows the thing below the referent
@@ -4565,13 +4565,13 @@ data:
       gloss: outside; follows the named boundary or enclosure
       source: {kind: coined}
       concept: outside
-    - form: tashör
+    - form: tashor
       class: part
       field: Everyday speech
       gloss: beyond; follows the named boundary or landmark
       source: {kind: coined}
       concept: beyond
-    - form: tashür
+    - form: teshur
       class: part
       field: Everyday speech
       gloss: in front of; follows the person or thing whose forward side is the reference
@@ -4660,7 +4660,7 @@ data:
       gloss: at; follows the named place without asserting inside or on it
       source: {kind: coined}
       concept: at
-    - form: targür
+    - form: targur
       class: adj
       field: Everyday speech
       gloss: far; separated by a large distance from the stated reference point
@@ -4678,13 +4678,13 @@ data:
       gloss: a moment; a short point or interval of time
       source: {kind: coined}
       concept: moment
-    - form: ong
+    - form: eng
       class: n
       field: Everyday speech
       gloss: a day; a complete daily cycle or its daylight portion as context determines
       source: {kind: coined}
       concept: day
-    - form: ung
+    - form: ing
       class: n
       field: Everyday speech
       gloss: a night; the dark interval between days
@@ -4750,13 +4750,13 @@ data:
       gloss: the past; time before now
       source: {kind: coined}
       concept: past
-    - form: oshör
+    - form: oshor
       class: n
       field: Everyday speech
       gloss: the present; the time occurring now
       source: {kind: coined}
       concept: present
-    - form: oshür
+    - form: oshur
       class: n
       field: Everyday speech
       gloss: the future; time after now
@@ -4820,13 +4820,13 @@ data:
       gloss: still; continuing at the reference time, placed before the evidential and final verb
       source: {kind: coined}
       concept: still
-    - form: oshköl
+    - form: ashkol
       class: adv
       field: Everyday speech
       gloss: yet; up to the reference time in a question or negated clause, before the evidential and final verb
       source: {kind: coined}
       concept: yet
-    - form: oshkül
+    - form: ashkul
       class: adv
       field: Everyday speech
       gloss: soon; after a short interval from the reference time
@@ -4838,13 +4838,13 @@ data:
       gloss: later; after the current or previously stated time
       source: {kind: coined}
       concept: later
-    - form: oshkör
+    - form: ashkor
       class: adv
       field: Everyday speech
       gloss: early; before the expected or usual time
       source: {kind: coined}
       concept: early
-    - form: oshkür
+    - form: ashkur
       class: adv
       field: Everyday speech
       gloss: late; after the expected or usual time
@@ -4920,16 +4920,16 @@ data:
       gloss: away from here; moving to greater separation from the speaker's place
       source: {kind: coined}
       concept: away
-    - form: hülash oshalk
+    - form: hulash oshalk
       class: part
       field: Everyday speech
-      gloss: before the rain; earlier than the named rain event, replace hülash with the actual event or time
+      gloss: before the rain; earlier than the named rain event, replace hulash with the actual event or time
       source: {kind: coined}
       concept: before-time
-    - form: hülash oshulk
+    - form: hulash oshulk
       class: part
       field: Everyday speech
-      gloss: after the rain; later than the named rain event, replace hülash with the actual event or time
+      gloss: after the rain; later than the named rain event, replace hulash with the actual event or time
       source: {kind: coined}
       concept: after
     - form: karel oshom
@@ -4940,16 +4940,16 @@ data:
         - while eating; during the meal, with the actual eating occasion as time reference, not a new verb-to-noun rule
       source: {kind: coined}
       concept: [during, while]
-    - form: hülash oshok
+    - form: hulash oshok
       class: part
       field: Everyday speech
-      gloss: until the rain; continuing up to the named rain event, replace hülash with the endpoint event or time
+      gloss: until the rain; continuing up to the named rain event, replace hulash with the endpoint event or time
       source: {kind: coined}
       concept: until
-    - form: hülash oshuk
+    - form: hulash oshuk
       class: part
       field: Everyday speech
-      gloss: since the rain; from the named rain event to the reference time, replace hülash with the starting event or time
+      gloss: since the rain; from the named rain event to the reference time, replace hulash with the starting event or time
       source: {kind: coined}
       concept: since-time
     - form: ashun osh achor
@@ -4981,7 +4981,7 @@ data:
       field: Everyday speech
       gloss: without an occasion; a phrase for lacking an occasion. The separate complete negative clause melkh oshkh achor qom qesh turg says that person never comes
       source: {kind: coined}
-    - form: ashöl osh
+    - form: ashol osh
       class: n
       field: Everyday speech
       gloss: a long duration; enduring time, rather than a long physical object
@@ -5035,13 +5035,13 @@ data:
       gloss: that; the single person or thing indicated away from the speaker, before its noun
       source: {kind: coined}
       concept: that
-    - form: tökhel
+    - form: tokhel
       class: dem
       field: Everyday speech
       gloss: these; the nearby people or things indicated, before their noun
       source: {kind: coined}
       concept: these
-    - form: tükhel
+    - form: tukhel
       class: dem
       field: Everyday speech
       gloss: those; the people or things indicated away from the speaker, before their noun
@@ -5128,12 +5128,12 @@ data:
       field: Everyday speech
       gloss: what; the thing or matter whose identity is requested
       source: {kind: coined}
-    - form: shörsh
+    - form: shorsh
       class: pron
       field: Everyday speech
       gloss: which; the member selected from an already stated set of alternatives
       source: {kind: coined}
-    - form: shürkhur
+    - form: shurkhur
       class: adv
       field: Everyday speech
       gloss: how; in what manner, before the evidential and final action verb in the cited question
@@ -5154,7 +5154,7 @@ data:
       gloss: a reason; the fact or consideration explaining why an event occurs
       source: {kind: coined}
       concept: reason
-    - form: sharkhul
+    - form: sherkhul
       class: n
       field: Everyday speech
       gloss: a purpose; the intended outcome for which an action is undertaken
@@ -5165,13 +5165,13 @@ data:
       field: Everyday speech
       gloss: because of; follows the named reason, not merely an intended goal
       source: {kind: coined}
-    - form: sharkhöl
+    - form: sharkhol
       class: part
       field: Everyday speech
       gloss: for the purpose of; follows the named intended outcome
       source: {kind: coined}
       concept: for-purpose
-    - form: sharkhül
+    - form: sharkhul
       class: part
       field: Everyday speech
       gloss: question marker; before the evidential and final finite verb in the cited complete questions, requests whether the clause is true without moving the verb from its final position
@@ -5188,13 +5188,13 @@ data:
       gloss: "your; yours; of you, before the possessed noun: mukh ul tsol, your cup"
       source: {kind: coined}
       concept: your
-    - form: mülkh ul
+    - form: mulkh ul
       class: part
       field: Everyday speech
-      gloss: "our; ours; of us, before the possessed noun: mülkh ul tsol, our cup"
+      gloss: "our; ours; of us, before the possessed noun: mulkh ul tsol, our cup"
       source: {kind: coined}
       concept: our
-    - form: achür barkh
+    - form: echur barkh
       class: n
       field: Everyday speech
       gloss: another; an additional or different thing of the kind under discussion
@@ -5212,10 +5212,10 @@ data:
       gloss: what is here? shor requests the identity of the thing at the speaker's place
       source: {kind: coined}
       concept: question-what
-    - form: shörsh lerkh qesh um
+    - form: shorsh lerkh qesh um
       class: v
       field: Everyday speech
-      gloss: which is good? shörsh selects from the set already under discussion
+      gloss: which is good? shorsh selects from the set already under discussion
       source: {kind: coined}
       concept: question-which
     - form: mukh sharkhor achor qesh um
@@ -5236,10 +5236,10 @@ data:
       gloss: why do you go? what is the reason for your going? the reason requested precedes sharkhal
       source: {kind: coined}
       concept: question-why
-    - form: mukh shürkhur qesh belkh
+    - form: mukh shurkhur qesh belkh
       class: v
       field: Everyday speech
-      gloss: how do you do it? shürkhur requests the manner before the evidenced final verb
+      gloss: how do you do it? shurkhur requests the manner before the evidenced final verb
       source: {kind: coined}
       concept: question-how
     - form: tsol ul ach shor qesh um
@@ -5272,16 +5272,16 @@ data:
       gloss: from where do you come? the requested source sharkhor is followed by alk
       source: {kind: coined}
       concept: question-from-where
-    - form: mukh shor sharkhöl qesh targ
+    - form: mukh shor sharkhol qesh targ
       class: v
       field: Everyday speech
-      gloss: for what purpose do you go? the requested intended outcome precedes sharkhöl
+      gloss: for what purpose do you go? the requested intended outcome precedes sharkhol
       source: {kind: coined}
       concept: question-for-what-purpose
-    - form: melkh sharkhül qesh turg
+    - form: melkh sharkhul qesh turg
       class: v
       field: Everyday speech
-      gloss: does that person come? sharkhül before the evidential requests a yes or no answer to the complete verb-final clause
+      gloss: does that person come? sharkhul before the evidential requests a yes or no answer to the complete verb-final clause
       source: {kind: coined}
       concept: question-polar
     - form: mukh shor qesh shar
@@ -5379,16 +5379,16 @@ data:
       gloss: uncertain; not settled in one's judgment
       source: {kind: coined}
       concept: uncertain
-    - form: larshölar
+    - form: larsholar
       class: adv
       field: Everyday speech
-      gloss: apparently; according to visible signs, with the assessment left open to correction; the cited complete assessment uses inferred qüsh
+      gloss: apparently; according to visible signs, with the assessment left open to correction; the cited complete assessment uses inferred qush
       source: {kind: coined}
       concept: apparently
-    - form: sharölar
+    - form: sharolar
       class: adv
       field: Everyday speech
-      gloss: supposedly; according to a reported claim without endorsing it as established truth; the cited complete use keeps reported qösh
+      gloss: supposedly; according to a reported claim without endorsing it as established truth; the cited complete use keeps reported qosh
       source: {kind: coined}
       concept: supposedly
     - form: tsenghol
@@ -5463,13 +5463,13 @@ data:
       gloss: however; introduces a contrasting complete clause after a previous assertion
       source: {kind: coined}
       concept: however
-    - form: enkhöl
+    - form: enkhol
       class: conj
       field: Everyday speech
       gloss: nevertheless; introduces what remains true despite the preceding conceded fact
       source: {kind: coined}
       concept: nevertheless
-    - form: enkhül
+    - form: ankhul
       class: part
       field: Everyday speech
       gloss: despite; follows the named adverse circumstance that does not prevent the main assertion
@@ -5502,7 +5502,7 @@ data:
     - form: enkal
       class: conj
       field: Everyday speech
-      gloss: "either; introduces the first alternative, with üng before the second complete clause: enkal melkh qesh turg üng melkh qesh targ, either that person comes or goes"
+      gloss: "either; introduces the first alternative, with ung before the second complete clause: enkal melkh qesh turg ung melkh qesh targ, either that person comes or goes"
       source: {kind: coined}
       concept: either-alternative
     - form: enkol
@@ -5511,16 +5511,16 @@ data:
       gloss: "neither; introduces each of two excluded alternatives: enkol melkh qesh turg enkol melkh qesh targ, that person neither comes nor goes"
       source: {kind: coined}
       concept: neither-alternative
-    - form: enköl
+    - form: ankol
       class: conj
       field: Everyday speech
-      gloss: "both; introduces the first affirmed clause, with öng before the second: enköl melkh qesh turg öng melkh qesh shar, that person both comes and speaks"
+      gloss: "both; introduces the first affirmed clause, with ong before the second: ankol melkh qesh turg ong melkh qesh shar, that person both comes and speaks"
       source: {kind: coined}
       concept: both-conjunction
-    - form: enkül
+    - form: ankul
       class: conj
       field: Everyday speech
-      gloss: "whether; introduces the uncertain alternatives before the final governing verb: melkh enkül melkh qesh turg üng melkh qom qesh turg qesh shür, that person considers whether they come or do not come"
+      gloss: "whether; introduces the uncertain alternatives before the final governing verb: melkh ankul melkh qesh turg ung melkh qom qesh turg qesh shir, that person considers whether they come or do not come"
       source: {kind: coined}
       concept: whether
     - form: enkash
@@ -5532,7 +5532,7 @@ data:
     - form: enkosh
       class: conj
       field: Everyday speech
-      gloss: "namely; introduces the explicit identity or members of the preceding description: aukh nargh, enkosh khöm öng ghüm, two people, namely a friend and a companion"
+      gloss: "namely; introduces the explicit identity or members of the preceding description: aukh nargh, enkosh khom ong ghum, two people, namely a friend and a companion"
       source: {kind: coined}
       concept: namely
     - form: enkush
@@ -5553,13 +5553,13 @@ data:
       gloss: only; restricts the following named member or condition
       source: {kind: coined}
       concept: only
-    - form: enkör
+    - form: ankor
       class: adv
       field: Everyday speech
       gloss: even; includes the following member or condition despite expected exclusion
       source: {kind: coined}
       concept: even
-    - form: enkür
+    - form: ankur
       class: adv
       field: Everyday speech
       gloss: also; adds the following member or predicate to one already asserted
@@ -5571,7 +5571,7 @@ data:
       gloss: especially; singles out the following member or condition as particularly relevant
       source: {kind: coined}
       concept: especially
-    - form: ökh
+    - form: okh
       class: call
       field: Everyday speech
       gloss: yes; an affirmative response to the question or claim
@@ -5591,7 +5591,7 @@ data:
     - form: qesh urghashem
       class: v
       field: Everyday speech
-      gloss: to doubt; to be unsure of or question the named claim; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to doubt; to be unsure of or question the named claim; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: doubt-verb
     - form: urghishem
@@ -5602,29 +5602,29 @@ data:
     - form: qesh urghishem
       class: v
       field: Everyday speech
-      gloss: to suspect; to consider a neutral or adverse claim or event possible on incomplete grounds, not only wrongdoing; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to suspect; to consider a neutral or adverse claim or event possible on incomplete grounds, not only wrongdoing; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: suspect
-    - form: shürush
+    - form: shurush
       class: v
       field: Everyday speech
       gloss: to guess; to offer an answer without sufficient knowledge to establish it; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh shürush
+    - form: qesh shurush
       class: v
       field: Everyday speech
-      gloss: to guess; to offer an answer without sufficient knowledge to establish it; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to guess; to offer an answer without sufficient knowledge to establish it; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: guess-verb
-    - form: shürul
+    - form: shurul
       class: v
       field: Everyday speech
       gloss: to assume; to take the named claim as a working premise without first establishing it; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh shürul
+    - form: qesh shurul
       class: v
       field: Everyday speech
-      gloss: to assume; to take the named claim as a working premise without first establishing it; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to assume; to take the named claim as a working premise without first establishing it; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: assume-verb
     - form: urghqom
@@ -5635,7 +5635,7 @@ data:
     - form: qesh urghqom
       class: v
       field: Everyday speech
-      gloss: to disagree; to hold a different opinion on the named matter; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to disagree; to hold a different opinion on the named matter; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: disagree
     - form: daul
@@ -5644,7 +5644,7 @@ data:
       gloss: big; of large physical size
       source: {kind: coined}
       concept: big
-    - form: dül
+    - form: dul
       class: adj
       field: Everyday speech
       gloss: small; of little physical size
@@ -5656,7 +5656,7 @@ data:
       gloss: long; extending far in physical length
       source: {kind: coined}
       concept: long
-    - form: dülkhar
+    - form: dulkhar
       class: adj
       field: Everyday speech
       gloss: short; extending little in physical length
@@ -5680,7 +5680,7 @@ data:
       gloss: wide; extending far from side to side
       source: {kind: coined}
       concept: wide
-    - form: dülgh
+    - form: dulgh
       class: adj
       field: Everyday speech
       gloss: narrow; extending little from side to side
@@ -5692,7 +5692,7 @@ data:
       gloss: heavy; of great weight
       source: {kind: coined}
       concept: heavy
-    - form: dür
+    - form: dur
       class: adj
       field: Everyday speech
       gloss: light in weight; of little weight
@@ -5716,7 +5716,7 @@ data:
       gloss: fast; moving or occurring at high speed
       source: {kind: coined}
       concept: fast
-    - form: düsh
+    - form: dush
       class: adj
       field: Everyday speech
       gloss: slow; moving or occurring at low speed
@@ -5776,13 +5776,13 @@ data:
       gloss: valuable; having substantial worth, whether material or otherwise
       source: {kind: coined}
       concept: valuable
-    - form: daskhöl
+    - form: daskhol
       class: adj
       field: Everyday speech
       gloss: worthless; having no worth in the stated context, not merely little worth
       source: {kind: coined}
       concept: worthless
-    - form: daskhül
+    - form: deskhul
       class: adj
       field: Everyday speech
       gloss: useful; serving the stated practical purpose
@@ -5824,7 +5824,7 @@ data:
       gloss: extremely; a degree near the limit of the following quality
       source: {kind: coined}
       concept: extremely
-    - form: dör
+    - form: dar
       class: adv
       field: Everyday speech
       gloss: somewhat; a moderate degree of the following quality
@@ -5854,7 +5854,7 @@ data:
       gloss: opposite; directly opposed in direction, placement or the stated relation
       source: {kind: coined}
       concept: opposite
-    - form: daursh dül
+    - form: daursh dul
       class: adj
       field: Everyday speech
       gloss: tiny; extremely small in absolute physical size
@@ -5866,13 +5866,13 @@ data:
       gloss: huge; extremely big in absolute physical size
       source: {kind: coined}
       concept: huge
-    - form: achöl achür barkh achur lerkhar
+    - form: achol echur barkh achur lerkhar
       class: adj
       field: Everyday speech
       gloss: best; better than every other compared thing, with barkh replaced by the actual compared kind
       source: {kind: coined}
       concept: best
-    - form: achöl achür barkh achur lurkhar
+    - form: achol echur barkh achur lurkhar
       class: adj
       field: Everyday speech
       gloss: worst; worse than every other compared thing, with barkh replaced by the actual compared kind
@@ -5890,53 +5890,53 @@ data:
       gloss: too much; an excessive amount
       source: {kind: coined}
       concept: too-much
-    - form: ashur ashör
+    - form: ashur eshor
       class: adj
       field: Everyday speech
       gloss: too little; an amount deficient for the stated need, a conventional smallness-beyond-fitting expression
       source: {kind: coined}
       concept: too-little
-    - form: dülk
+    - form: dulk
       class: v
       field: Everyday speech
       gloss: can; to be able to perform the preceding nonfinite named action; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh dülk
+    - form: qesh dulk
       class: v
       field: Everyday speech
-      gloss: can; to be able to perform the preceding nonfinite named action; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: can; to be able to perform the preceding nonfinite named action; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: can
-    - form: qom qesh dülk
+    - form: qom qesh dulk
       class: v
       field: Everyday speech
-      gloss: "cannot; not able to perform the preceding action: mukh targ qom qesh dülk, you cannot go; negates ability rather than permission"
+      gloss: "cannot; not able to perform the preceding action: mukh targ qom qesh dulk, you cannot go; negates ability rather than permission"
       source: {kind: coined}
       concept: cannot
-    - form: dülkar
+    - form: dulkar
       class: adj
       field: Everyday speech
       gloss: possible; capable of occurring or being realized, whether or not permitted
       source: {kind: coined}
       concept: possible
-    - form: qom dülkar
+    - form: qom dulkar
       class: adj
       field: Everyday speech
       gloss: impossible; not capable of occurring or being realized
       source: {kind: coined}
       concept: impossible
-    - form: dölk
+    - form: delk
       class: v
       field: Everyday speech
       gloss: may; to have permission to perform the preceding nonfinite named action; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh dölk
+    - form: qesh delk
       class: v
       field: Everyday speech
-      gloss: may; to have permission to perform the preceding nonfinite named action; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: may; to have permission to perform the preceding nonfinite named action; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: may-permission
-    - form: melkh urghalar qüsh turg
+    - form: melkh urghalar qush turg
       class: v
       field: Everyday speech
       gloss: that person might come; perhaps that person comes, an inferred possibility rather than permission; replace the whole melkh turg event with the actual event while retaining the evidential before its final verb
@@ -5950,7 +5950,7 @@ data:
     - form: qesh dolk
       class: v
       field: Everyday speech
-      gloss: must; to be obliged to perform the preceding nonfinite named action; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: must; to be obliged to perform the preceding nonfinite named action; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: must
     - form: qom targ qesh dolk
@@ -5967,7 +5967,7 @@ data:
     - form: qesh dalk
       class: v
       field: Everyday speech
-      gloss: ought; to be well advised to perform the preceding nonfinite named action; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: ought; to be well advised to perform the preceding nonfinite named action; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: ought
     - form: dolkar
@@ -5976,44 +5976,44 @@ data:
       gloss: required; obligatory under the stated rule or circumstances
       source: {kind: coined}
       concept: required
-    - form: dölkar
+    - form: dalkar
       class: adj
       field: Everyday speech
       gloss: optional; permitted and not required
       source: {kind: coined}
       concept: optional
-    - form: dölkel
+    - form: dolkel
       class: adj
       field: Everyday speech
       gloss: allowed; permitted under the relevant authority or rule
       source: {kind: coined}
       concept: allowed
-    - form: dölkul
+    - form: dolkul
       class: adj
       field: Everyday speech
       gloss: forbidden; prohibited under the relevant authority or rule
       source: {kind: coined}
       concept: forbidden
-    - form: dölkem
+    - form: dolkem
       class: v
       field: Everyday speech
       gloss: to permit; to grant the named person permission for the action already under discussion; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh dölkem
+    - form: qesh dolkem
       class: v
       field: Everyday speech
-      gloss: to permit; to grant the named person permission for the action already under discussion; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to permit; to grant the named person permission for the action already under discussion; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: permit
-    - form: dölkush
+    - form: dolkush
       class: v
       field: Everyday speech
       gloss: to prohibit; to forbid the named person from the action already under discussion; nonfinite action citation, not a complete finite assertion without an evidential marker
       source: {kind: coined}
-    - form: qesh dölkush
+    - form: qesh dolkush
       class: v
       field: Everyday speech
-      gloss: to prohibit; to forbid the named person from the action already under discussion; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use
+      gloss: to prohibit; to forbid the named person from the action already under discussion; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use
       source: {kind: coined}
       concept: prohibit
     - form: dalkhar
@@ -6040,22 +6040,22 @@ data:
       gloss: unwilling; not consenting to perform the action under discussion
       source: {kind: coined}
       concept: unwilling
-    - form: shüramar
+    - form: shuramar
       class: adj
       field: Everyday speech
       gloss: intended; planned as the agent's purpose
       source: {kind: coined}
       concept: intended
-    - form: shüramush
+    - form: shuramush
       class: adj
       field: Everyday speech
       gloss: accidental; occurring without being the agent's purpose
       source: {kind: coined}
       concept: accidental
-    - form: shomölem
+    - form: shomolem
       class: v
       field: Everyday speech
-      gloss: to receive as a welcome guest; to welcome the named person into one's place or company; nonfinite citation, with qesh shomölem the witnessed finite predicate
+      gloss: to receive as a welcome guest; to welcome the named person into one's place or company; nonfinite citation, with qesh shomolem the witnessed finite predicate
       source: {kind: coined}
     - form: eshq
       class: call
@@ -6218,7 +6218,7 @@ data:
       gloss: peace; freedom from active hostility or violence
       source: {kind: coined}
       concept: peace
-    - form: qürghum
+    - form: qurghum
       class: n
       field: Everyday speech
       gloss: war; organized sustained armed conflict
@@ -6242,7 +6242,7 @@ data:
       gloss: a gift; something transferred without requiring an agreed return, distinct from an exchange or debt
       source: {kind: coined}
       concept: gift
-    - form: burshölom
+    - form: bursholom
       class: n
       field: Everyday speech
       gloss: an exchange; a transfer of things or services between parties in return for one another
@@ -6278,7 +6278,7 @@ data:
       gloss: ownership; the recognized relation of belonging to an owner
       source: {kind: coined}
       concept: ownership
-    - form: khölom
+    - form: kholom
       class: n
       field: Everyday speech
       gloss: honor; respected standing or esteem, without equating wealth with a lineage's inherited right to be heard
@@ -6290,7 +6290,7 @@ data:
       gloss: a secret; a matter kept from general knowledge, not restricted to road-knowledge or the closed subject at the Empty Door
       source: {kind: coined}
       concept: secret
-    - form: shörom
+    - form: shorom
       class: n
       field: Everyday speech
       gloss: knowledge; what is known, distinct from belief alone
@@ -6332,13 +6332,13 @@ data:
       gloss: completion; the condition or event of finishing what was undertaken
       source: {kind: coined}
       concept: completion
-    - form: belghöl
+    - form: balghol
       class: n
       field: Everyday speech
       gloss: a change; a difference arising in a thing's form, condition or conduct
       source: {kind: coined}
       concept: change-noun
-    - form: belghül
+    - form: belghul
       class: n
       field: Everyday speech
       gloss: a transformation; a substantial change of form or nature
@@ -6380,19 +6380,19 @@ data:
       gloss: unreal; imagined or not actually existing or occurring
       source: {kind: coined}
       concept: unreal
-    - form: tsenghöl
+    - form: tsanghol
       class: adj
       field: Everyday speech
       gloss: natural; arising from ordinary processes of living beings or the world rather than deliberate manufacture, without deciding the hearths' unshared beliefs about the mountain's forces
       source: {kind: coined}
       concept: natural
-    - form: tsenghül
+    - form: tsanghul
       class: adj
       field: Everyday speech
       gloss: unnatural; contrary to usual processes of living beings or the world, or deliberately made in contrast to them, as context determines
       source: {kind: coined}
       concept: unnatural
-    - form: yülkhel
+    - form: yulkhel
       class: n
       field: Everyday speech
       gloss: an elder; an older person accorded senior standing in the community
@@ -6410,7 +6410,7 @@ data:
       gloss: goodbye; a parting wish toward safety
       source: {kind: coined}
       concept: goodbye
-    - form: mokh mukh qesh shomölem
+    - form: mokh mukh qesh shomolem
       class: call
       field: Everyday speech
       gloss: welcome; I receive you as a welcome guest, a direct first-person utterance with the evidenced final verb
@@ -6434,19 +6434,19 @@ data:
       gloss: sorry; I feel regret, an expression of remorse rather than a particular legal admission
       source: {kind: coined}
       concept: expression-sorry
-    - form: eshq mukh mokh qesh ölghurem
+    - form: eshq mukh mokh qesh olghurem
       class: call
       field: Everyday speech
       gloss: forgive me, please; the whole cited request asks the addressee to release resentment for a wrong, with its finite verb evidenced
       source: {kind: coined}
       concept: expression-forgive-me
-    - form: ökh urgholar
+    - form: okh urgholar
       class: call
       field: Everyday speech
       gloss: of course; an assured affirmative response
       source: {kind: coined}
       concept: of-course
-    - form: eshq mukh qesh nölken
+    - form: eshq mukh qesh nolken
       class: call
       field: Everyday speech
       gloss: listen, please; a conventional request that the addressee attend to sound or words, retaining the evidenced final verb
@@ -6476,7 +6476,7 @@ data:
       gloss: go away; a conventional request to move away from the speaker's place, retaining the evidenced final verb
       source: {kind: coined}
       concept: expression-go-away
-    - form: mukh mokh qesh ghümelkh
+    - form: mukh mokh qesh ghumelkh
       class: call
       field: Everyday speech
       gloss: help; a direct appeal to the addressee to assist the speaker, retaining the evidenced final verb
@@ -6506,19 +6506,19 @@ data:
       gloss: again, please; a request for the action or words to be repeated
       source: {kind: coined}
       concept: expression-again
-    - form: mokh molkh qesh shürkh
+    - form: mokh molkh qesh shurkh
       class: call
       field: Everyday speech
       gloss: I understand it; an acknowledgment that the speaker grasps the matter, with the evidenced final verb
       source: {kind: coined}
       concept: expression-i-understand
-    - form: mokh molkh qom qesh shürkh
+    - form: mokh molkh qom qesh shurkh
       class: call
       field: Everyday speech
       gloss: I do not understand it; qom negates the evidenced final understanding predicate
       source: {kind: coined}
       concept: expression-i-do-not-understand
-    - form: mukh molkh shürkhur qesh shar
+    - form: mukh molkh shurkhur qesh shar
       class: v
       field: Everyday speech
       gloss: how do you say it? molkh stands for the expression whose spoken wording is requested
@@ -6530,7 +6530,7 @@ data:
       gloss: what is this called? what is the name of this thing? tekh precedes barkh and the question asks for its identifying name before the evidenced final copula
       source: {kind: coined}
       concept: expression-what-is-this-called
-    - form: molkh tsengh sharkhül qesh um
+    - form: molkh tsengh sharkhul qesh um
       class: call
       field: Everyday speech
       gloss: really? is that true? a surprised request to confirm the proposition just asserted, with the evidenced final verb
@@ -6553,19 +6553,19 @@ data:
       gloss: a man; an adult male human person
       source: {kind: coined}
       concept: man
-    - form: garum ürsh nargh
+    - form: garum arsh nargh
       class: n
       field: Everyday speech
       gloss: a woman; an adult female human person
       source: {kind: coined}
       concept: woman
-    - form: ursh nölar
+    - form: ursh nolar
       class: n
       field: Everyday speech
       gloss: a boy; a young male person
       source: {kind: coined}
       concept: boy
-    - form: ürsh nölar
+    - form: arsh nolar
       class: n
       field: Everyday speech
       gloss: a girl; a young female person
@@ -6583,7 +6583,7 @@ data:
       gloss: an individual; one person considered separately
       source: {kind: coined}
       concept: individual
-    - form: shelömum
+    - form: shelomum
       class: n
       concept: dream
       gloss: a dream; an experience of images or events during sleep, distinct from the action of dreaming
@@ -6595,10 +6595,10 @@ data:
       gloss: rest; repose or a pause in activity for recovery, distinct from the action of resting
       field: Everyday speech
       source: {kind: coined}
-    - form: üshamar qesh umgh
+    - form: ushamar qesh umgh
       class: v
       concept: conceive
-      gloss: "to conceive; to become pregnant, a witnessed finite predicate with the resulting state üshamar before the evidenced final becoming verb: melkh üshamar qesh umgh, that person conceives"
+      gloss: "to conceive; to become pregnant, a witnessed finite predicate with the resulting state ushamar before the evidenced final becoming verb: melkh ushamar qesh umgh, that person conceives"
       field: Everyday speech
       source: {kind: coined}
     - form: mokh tashom achor qom qesh um
@@ -6658,7 +6658,7 @@ data:
     - form: qesh sharqel
       class: v
       field: The road and the col
-      gloss: "to argue; to dispute a matter aloud with another; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use"
+      gloss: "to argue; to dispute a matter aloud with another; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use"
       source: {kind: coined}
     - form: pultom
       class: n
@@ -6695,7 +6695,7 @@ data:
     - form: qesh boikem
       class: v
       field: The hearth and the cord
-      gloss: "to tie; to knot a thing into a cord, as a cord-keeper ties the season's dead; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use"
+      gloss: "to tie; to knot a thing into a cord, as a cord-keeper ties the season's dead; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use"
       source: {kind: coined}
     - form: wughlarsh
       class: v
@@ -6706,7 +6706,7 @@ data:
     - form: qesh wughlarsh
       class: v
       field: The hearth and the cord
-      gloss: "to read a cord; to know its knots in their order; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qösh marks reported and qüsh inferred knowledge in the parallel complete use"
+      gloss: "to read a cord; to know its knots in their order; witnessed/direct-evidence finite predicate, with qesh immediately before the final verb; qosh marks reported and qush inferred knowledge in the parallel complete use"
       source: {kind: coined}
     - form: yoighboik
       class: n
@@ -6714,11 +6714,11 @@ data:
       gloss: "the count; the knot of the dead, a road's dead said stage by stage at the closing of the open months"
       built: [yoigh, boik]
       source: {kind: coined}
-    - form: ghaukdökh
+    - form: ghaukdokh
       class: n
       field: The hearth and the cord
       gloss: "a guide-mother; the senior woman of a lineage, who holds the knowledge of its road and its morning"
-      built: [ghauk, dökh]
+      built: [ghauk, dokh]
       source: {kind: coined}
     - form: ongelshar
       class: n
@@ -6841,6 +6841,313 @@ data:
     - {form: Qadür, instead: Ghuqom, why: "an Earth word, in the name lists"}
     - {form: Danghü, instead: Sunash, why: "an Earth word, in the name lists"}
     - {form: Khöltan, instead: Golkash, why: "an Earth word, in the name lists"}
+    - {form: achöl, instead: achol, why: "respelled with plain o and u"}
+    - {form: arnör, instead: arnor, why: "respelled with plain o and u"}
+    - {form: ashal nölghar, instead: ashal nolghar, why: "respelled with plain o and u"}
+    - {form: ashöm margh, instead: ashom margh, why: "respelled with plain o and u"}
+    - {form: ashöm, instead: ashom, why: "respelled with plain o and u"}
+    - {form: autöl, instead: autol, why: "respelled with plain o and u"}
+    - {form: belghül, instead: belghul, why: "respelled with plain o and u"}
+    - {form: burshöl, instead: burshol, why: "respelled with plain o and u"}
+    - {form: burshölom, instead: bursholom, why: "respelled with plain o and u"}
+    - {form: burshül, instead: burshul, why: "respelled with plain o and u"}
+    - {form: bösh, instead: bosh, why: "respelled with plain o and u"}
+    - {form: böshal, instead: boshal, why: "respelled with plain o and u"}
+    - {form: böshar, instead: boshar, why: "respelled with plain o and u"}
+    - {form: böshel, instead: boshel, why: "respelled with plain o and u"}
+    - {form: böshem, instead: boshem, why: "respelled with plain o and u"}
+    - {form: böshen, instead: boshen, why: "respelled with plain o and u"}
+    - {form: böshesh, instead: boshesh, why: "respelled with plain o and u"}
+    - {form: böshk, instead: boshk, why: "respelled with plain o and u"}
+    - {form: böshum, instead: boshum, why: "respelled with plain o and u"}
+    - {form: böshush, instead: boshush, why: "respelled with plain o and u"}
+    - {form: daskhöl, instead: daskhol, why: "respelled with plain o and u"}
+    - {form: daursh dül, instead: daursh dul, why: "respelled with plain o and u"}
+    - {form: dökh, instead: dokh, why: "respelled with plain o and u"}
+    - {form: dölkel, instead: dolkel, why: "respelled with plain o and u"}
+    - {form: dölkem, instead: dolkem, why: "respelled with plain o and u"}
+    - {form: dölkul, instead: dolkul, why: "respelled with plain o and u"}
+    - {form: dölkush, instead: dolkush, why: "respelled with plain o and u"}
+    - {form: dül, instead: dul, why: "respelled with plain o and u"}
+    - {form: dülgh, instead: dulgh, why: "respelled with plain o and u"}
+    - {form: dülk, instead: dulk, why: "respelled with plain o and u"}
+    - {form: dülkar, instead: dulkar, why: "respelled with plain o and u"}
+    - {form: dülkhar, instead: dulkhar, why: "respelled with plain o and u"}
+    - {form: dür, instead: dur, why: "respelled with plain o and u"}
+    - {form: düsh, instead: dush, why: "respelled with plain o and u"}
+    - {form: enkhöl, instead: enkhol, why: "respelled with plain o and u"}
+    - {form: gharkhgholnölar, instead: gharkhgholnolar, why: "respelled with plain o and u"}
+    - {form: ghaukdökh, instead: ghaukdokh, why: "respelled with plain o and u"}
+    - {form: gholür, instead: gholur, why: "respelled with plain o and u"}
+    - {form: ghul ömk, instead: ghul omk, why: "respelled with plain o and u"}
+    - {form: ghölan, instead: gholan, why: "respelled with plain o and u"}
+    - {form: ghölash, instead: gholash, why: "respelled with plain o and u"}
+    - {form: ghölen, instead: gholen, why: "respelled with plain o and u"}
+    - {form: ghölsh shalor, instead: gholsh shalor, why: "respelled with plain o and u"}
+    - {form: ghölsh, instead: gholsh, why: "respelled with plain o and u"}
+    - {form: ghölt, instead: gholt, why: "respelled with plain o and u"}
+    - {form: ghöltsh, instead: gholtsh, why: "respelled with plain o and u"}
+    - {form: ghölun, instead: gholun, why: "respelled with plain o and u"}
+    - {form: ghüm eshkur, instead: ghum eshkur, why: "respelled with plain o and u"}
+    - {form: ghüm, instead: ghum, why: "respelled with plain o and u"}
+    - {form: ghümel, instead: ghumel, why: "respelled with plain o and u"}
+    - {form: ghümelkh, instead: ghumelkh, why: "respelled with plain o and u"}
+    - {form: ghümem, instead: ghumem, why: "respelled with plain o and u"}
+    - {form: hülash oshalk, instead: hulash oshalk, why: "respelled with plain o and u"}
+    - {form: hülash oshok, instead: hulash oshok, why: "respelled with plain o and u"}
+    - {form: hülash oshuk, instead: hulash oshuk, why: "respelled with plain o and u"}
+    - {form: hülash oshulk, instead: hulash oshulk, why: "respelled with plain o and u"}
+    - {form: hülash, instead: hulash, why: "respelled with plain o and u"}
+    - {form: hülgh, instead: hulgh, why: "respelled with plain o and u"}
+    - {form: hülkh, instead: hulkh, why: "respelled with plain o and u"}
+    - {form: hülkhar, instead: hulkhar, why: "respelled with plain o and u"}
+    - {form: hülq, instead: hulq, why: "respelled with plain o and u"}
+    - {form: hülsh, instead: hulsh, why: "respelled with plain o and u"}
+    - {form: khauröm, instead: khaurom, why: "respelled with plain o and u"}
+    - {form: khölash, instead: kholash, why: "respelled with plain o and u"}
+    - {form: khölom, instead: kholom, why: "respelled with plain o and u"}
+    - {form: khölum, instead: kholum, why: "respelled with plain o and u"}
+    - {form: khöm ömk, instead: khom omk, why: "respelled with plain o and u"}
+    - {form: khöm, instead: khom, why: "respelled with plain o and u"}
+    - {form: khömsh, instead: khomsh, why: "respelled with plain o and u"}
+    - {form: khömshar, instead: khomshar, why: "respelled with plain o and u"}
+    - {form: khömshom, instead: khomshom, why: "respelled with plain o and u"}
+    - {form: khömshul, instead: khomshul, why: "respelled with plain o and u"}
+    - {form: khömshur, instead: khomshur, why: "respelled with plain o and u"}
+    - {form: khülar, instead: khular, why: "respelled with plain o and u"}
+    - {form: khülarsh, instead: khularsh, why: "respelled with plain o and u"}
+    - {form: khülash, instead: khulash, why: "respelled with plain o and u"}
+    - {form: khülashar, instead: khulashar, why: "respelled with plain o and u"}
+    - {form: khülk, instead: khulk, why: "respelled with plain o and u"}
+    - {form: khülom, instead: khulom, why: "respelled with plain o and u"}
+    - {form: khülum, instead: khulum, why: "respelled with plain o and u"}
+    - {form: körk, instead: kork, why: "respelled with plain o and u"}
+    - {form: larkhör, instead: larkhor, why: "respelled with plain o and u"}
+    - {form: larshöl, instead: larshol, why: "respelled with plain o and u"}
+    - {form: larshölar, instead: larsholar, why: "respelled with plain o and u"}
+    - {form: larshölk, instead: larsholk, why: "respelled with plain o and u"}
+    - form: melkh urghalar qüsh turg
+      instead: melkh urghalar qush turg
+      why: "respelled with plain o and u"
+    - {form: molkhör, instead: molkhor, why: "respelled with plain o and u"}
+    - {form: molüm, instead: molum, why: "respelled with plain o and u"}
+    - {form: molümk, instead: molumk, why: "respelled with plain o and u"}
+    - {form: mülkh ul, instead: mulkh ul, why: "respelled with plain o and u"}
+    - {form: mülkh, instead: mulkh, why: "respelled with plain o and u"}
+    - {form: mürem, instead: murem, why: "respelled with plain o and u"}
+    - {form: mürum, instead: murum, why: "respelled with plain o and u"}
+    - {form: müsh, instead: mush, why: "respelled with plain o and u"}
+    - {form: müshem, instead: mushem, why: "respelled with plain o and u"}
+    - {form: müshum, instead: mushum, why: "respelled with plain o and u"}
+    - {form: nashöl, instead: nashol, why: "respelled with plain o and u"}
+    - {form: ngolör, instead: ngolor, why: "respelled with plain o and u"}
+    - {form: ngolür, instead: ngolur, why: "respelled with plain o and u"}
+    - {form: nurghömk, instead: nurghomk, why: "respelled with plain o and u"}
+    - {form: nö, instead: no, why: "respelled with plain o and u"}
+    - {form: nölarqom, instead: nolarqom, why: "respelled with plain o and u"}
+    - {form: nölghar, instead: nolghar, why: "respelled with plain o and u"}
+    - {form: nölgharsh, instead: nolgharsh, why: "respelled with plain o and u"}
+    - {form: nölghul, instead: nolghul, why: "respelled with plain o and u"}
+    - {form: nölghumel, instead: nolghumel, why: "respelled with plain o and u"}
+    - {form: nölghumk, instead: nolghumk, why: "respelled with plain o and u"}
+    - {form: nölk, instead: nolk, why: "respelled with plain o and u"}
+    - {form: nölkar, instead: nolkar, why: "respelled with plain o and u"}
+    - {form: nölkash, instead: nolkash, why: "respelled with plain o and u"}
+    - {form: nölkel, instead: nolkel, why: "respelled with plain o and u"}
+    - {form: nölkelsh, instead: nolkelsh, why: "respelled with plain o and u"}
+    - {form: nölken, instead: nolken, why: "respelled with plain o and u"}
+    - {form: nölkesh, instead: nolkesh, why: "respelled with plain o and u"}
+    - {form: nölkham, instead: nolkham, why: "respelled with plain o and u"}
+    - {form: nölkhar, instead: nolkhar, why: "respelled with plain o and u"}
+    - {form: nölkhel, instead: nolkhel, why: "respelled with plain o and u"}
+    - {form: nölkhem, instead: nolkhem, why: "respelled with plain o and u"}
+    - {form: nölkom, instead: nolkom, why: "respelled with plain o and u"}
+    - {form: nölkum, instead: nolkum, why: "respelled with plain o and u"}
+    - {form: nölkur, instead: nolkur, why: "respelled with plain o and u"}
+    - {form: oshör, instead: oshor, why: "respelled with plain o and u"}
+    - {form: oshür, instead: oshur, why: "respelled with plain o and u"}
+    - {form: palghör, instead: palghor, why: "respelled with plain o and u"}
+    - {form: pultölk, instead: pultolk, why: "respelled with plain o and u"}
+    - {form: pülgh, instead: pulgh, why: "respelled with plain o and u"}
+    - {form: pülghom, instead: pulghom, why: "respelled with plain o and u"}
+    - {form: pülkar, instead: pulkar, why: "respelled with plain o and u"}
+    - {form: pülkhor, instead: pulkhor, why: "respelled with plain o and u"}
+    - {form: pülten, instead: pulten, why: "respelled with plain o and u"}
+    - {form: qom dülkar, instead: qom dulkar, why: "respelled with plain o and u"}
+    - {form: qom pülkar, instead: qom pulkar, why: "respelled with plain o and u"}
+    - {form: qomur hülkh, instead: qomur hulkh, why: "respelled with plain o and u"}
+    - {form: qomur nölkom, instead: qomur nolkom, why: "respelled with plain o and u"}
+    - {form: qomur nölkum, instead: qomur nolkum, why: "respelled with plain o and u"}
+    - {form: qölkom, instead: qolkom, why: "respelled with plain o and u"}
+    - {form: qösh, instead: qosh, why: "respelled with plain o and u"}
+    - {form: qülk, instead: qulk, why: "respelled with plain o and u"}
+    - {form: qürgh, instead: qurgh, why: "respelled with plain o and u"}
+    - {form: qürghem, instead: qurghem, why: "respelled with plain o and u"}
+    - {form: qürghum, instead: qurghum, why: "respelled with plain o and u"}
+    - {form: qürghöl, instead: qurghol, why: "respelled with plain o and u"}
+    - {form: qürm, instead: qurm, why: "respelled with plain o and u"}
+    - {form: qüsh, instead: qush, why: "respelled with plain o and u"}
+    - {form: sharkhöl, instead: sharkhol, why: "respelled with plain o and u"}
+    - {form: sharölar, instead: sharolar, why: "respelled with plain o and u"}
+    - {form: shelköl, instead: shelkol, why: "respelled with plain o and u"}
+    - {form: shelöm, instead: shelom, why: "respelled with plain o and u"}
+    - {form: shelömum, instead: shelomum, why: "respelled with plain o and u"}
+    - {form: shomöl, instead: shomol, why: "respelled with plain o and u"}
+    - {form: shomölem, instead: shomolem, why: "respelled with plain o and u"}
+    - {form: shörkh, instead: shorkh, why: "respelled with plain o and u"}
+    - {form: shörom, instead: shorom, why: "respelled with plain o and u"}
+    - {form: shörq, instead: shorq, why: "respelled with plain o and u"}
+    - {form: shörsh, instead: shorsh, why: "respelled with plain o and u"}
+    - {form: shüral, instead: shural, why: "respelled with plain o and u"}
+    - {form: shüram, instead: shuram, why: "respelled with plain o and u"}
+    - {form: shüramar, instead: shuramar, why: "respelled with plain o and u"}
+    - {form: shüramush, instead: shuramush, why: "respelled with plain o and u"}
+    - {form: shürgh, instead: shurgh, why: "respelled with plain o and u"}
+    - {form: shürkh, instead: shurkh, why: "respelled with plain o and u"}
+    - {form: shürkhur, instead: shurkhur, why: "respelled with plain o and u"}
+    - {form: shürq, instead: shurq, why: "respelled with plain o and u"}
+    - {form: shürul, instead: shurul, why: "respelled with plain o and u"}
+    - {form: shürush, instead: shurush, why: "respelled with plain o and u"}
+    - {form: targöl, instead: targol, why: "respelled with plain o and u"}
+    - {form: targür, instead: targur, why: "respelled with plain o and u"}
+    - {form: tashör, instead: tashor, why: "respelled with plain o and u"}
+    - {form: tsölk, instead: tsolk, why: "respelled with plain o and u"}
+    - {form: tsölum, instead: tsolum, why: "respelled with plain o and u"}
+    - {form: tsörk, instead: tsork, why: "respelled with plain o and u"}
+    - {form: tsörkal, instead: tsorkal, why: "respelled with plain o and u"}
+    - {form: tsörkel, instead: tsorkel, why: "respelled with plain o and u"}
+    - {form: tsörkil, instead: tsorkil, why: "respelled with plain o and u"}
+    - {form: tsörkom, instead: tsorkom, why: "respelled with plain o and u"}
+    - {form: tsörkul, instead: tsorkul, why: "respelled with plain o and u"}
+    - {form: tsül, instead: tsul, why: "respelled with plain o and u"}
+    - {form: tökhel, instead: tokhel, why: "respelled with plain o and u"}
+    - {form: tükhel, instead: tukhel, why: "respelled with plain o and u"}
+    - {form: yülk, instead: yulk, why: "respelled with plain o and u"}
+    - {form: yülkar, instead: yulkar, why: "respelled with plain o and u"}
+    - {form: yülkhar, instead: yulkhar, why: "respelled with plain o and u"}
+    - {form: yülkhel, instead: yulkhel, why: "respelled with plain o and u"}
+    - {form: ökh urgholar, instead: okh urgholar, why: "respelled with plain o and u"}
+    - {form: ökh, instead: okh, why: "respelled with plain o and u"}
+    - {form: ölghur, instead: olghur, why: "respelled with plain o and u"}
+    - {form: ölghurem, instead: olghurem, why: "respelled with plain o and u"}
+    - {form: öm, instead: om, why: "respelled with plain o and u"}
+    - {form: ömk, instead: omk, why: "respelled with plain o and u"}
+    - {form: ömkar ömk, instead: omkar omk, why: "respelled with plain o and u"}
+    - {form: ömkar, instead: omkar, why: "respelled with plain o and u"}
+    - {form: ömkarsh, instead: omkarsh, why: "respelled with plain o and u"}
+    - {form: ömkel, instead: omkel, why: "respelled with plain o and u"}
+    - {form: ömknölgh, instead: omknolgh, why: "respelled with plain o and u"}
+    - {form: ömkul, instead: omkul, why: "respelled with plain o and u"}
+    - {form: üshal, instead: ushal, why: "respelled with plain o and u"}
+    - {form: üsham, instead: usham, why: "respelled with plain o and u"}
+    - {form: üshamar, instead: ushamar, why: "respelled with plain o and u"}
+    - {form: üshamel, instead: ushamel, why: "respelled with plain o and u"}
+    - {form: üshamul, instead: ushamul, why: "respelled with plain o and u"}
+    - {form: üsharn, instead: usharn, why: "respelled with plain o and u"}
+    - {form: üsharnom, instead: usharnom, why: "respelled with plain o and u"}
+    - {form: üshel, instead: ushel, why: "respelled with plain o and u"}
+    - {form: üshom, instead: ushom, why: "respelled with plain o and u"}
+    - {form: üshul, instead: ushul, why: "respelled with plain o and u"}
+    - {form: mölkh, instead: malkh, why: "respelled with plain o and u"}
+    - {form: ghöl, instead: ghal, why: "respelled with plain o and u"}
+    - {form: ghölum, instead: ghelum, why: "respelled with plain o and u"}
+    - {form: ashöl, instead: ashol, why: "respelled with plain o and u"}
+    - {form: öng, instead: ong, why: "respelled with plain o and u"}
+    - {form: üng, instead: ung, why: "respelled with plain o and u"}
+    - {form: pülk, instead: pulk, why: "respelled with plain o and u"}
+    - {form: qesh pülk, instead: qesh pulk, why: "respelled with plain o and u"}
+    - {form: ashur nölgh, instead: ashur nolgh, why: "respelled with plain o and u"}
+    - {form: ghölum eshkur, instead: ghelum eshkur, why: "respelled with plain o and u"}
+    - {form: nölgh, instead: nolgh, why: "respelled with plain o and u"}
+    - {form: ashöl nölgh, instead: ashol nolgh, why: "respelled with plain o and u"}
+    - {form: pülkash, instead: palkash, why: "respelled with plain o and u"}
+    - {form: ashöl kholum, instead: ashol kholum, why: "respelled with plain o and u"}
+    - {form: ashöl omk, instead: ashol omk, why: "respelled with plain o and u"}
+    - {form: ashöl urghum, instead: ashol urghum, why: "respelled with plain o and u"}
+    - {form: tsölgh, instead: tsalgh, why: "respelled with plain o and u"}
+    - {form: nashüm, instead: neshum, why: "respelled with plain o and u"}
+    - {form: qesh nashüm, instead: qesh neshum, why: "respelled with plain o and u"}
+    - {form: tshulöm, instead: tshulom, why: "respelled with plain o and u"}
+    - {form: qesh tshulöm, instead: qesh tshulom, why: "respelled with plain o and u"}
+    - {form: qomur larshüm, instead: qomur larshum, why: "respelled with plain o and u"}
+    - {form: larshüm, instead: larshum, why: "respelled with plain o and u"}
+    - {form: ürsh, instead: arsh, why: "respelled with plain o and u"}
+    - {form: nölar, instead: nolar, why: "respelled with plain o and u"}
+    - {form: nölarkh, instead: nolarkh, why: "respelled with plain o and u"}
+    - {form: nölghum, instead: nolghum, why: "respelled with plain o and u"}
+    - {form: ürsh ghol, instead: arsh ghol, why: "respelled with plain o and u"}
+    - {form: ürsh gholum, instead: arsh gholum, why: "respelled with plain o and u"}
+    - {form: ürsh gharkhghol, instead: arsh gharkhghol, why: "respelled with plain o and u"}
+    - {form: ursh nölghum, instead: ursh nolghum, why: "respelled with plain o and u"}
+    - {form: ürsh nölghum, instead: arsh nolghum, why: "respelled with plain o and u"}
+    - {form: ükhal, instead: akhal, why: "respelled with plain o and u"}
+    - {form: ursh nölarkh, instead: ursh nolarkh, why: "respelled with plain o and u"}
+    - {form: ürsh nölarkh, instead: arsh nolarkh, why: "respelled with plain o and u"}
+    - {form: shomül, instead: shamul, why: "respelled with plain o and u"}
+    - {form: shalüm, instead: shilum, why: "respelled with plain o and u"}
+    - {form: qölk, instead: qolk, why: "respelled with plain o and u"}
+    - {form: qolüm, instead: qalum, why: "respelled with plain o and u"}
+    - {form: molshül, instead: malshul, why: "respelled with plain o and u"}
+    - {form: hülum, instead: hulum, why: "respelled with plain o and u"}
+    - {form: hülom, instead: hulom, why: "respelled with plain o and u"}
+    - {form: ashör, instead: eshor, why: "respelled with plain o and u"}
+    - {form: achür, instead: echur, why: "respelled with plain o and u"}
+    - {form: achül, instead: echul, why: "respelled with plain o and u"}
+    - form: achol achür achum achur asholk
+      instead: achol echur achum achur asholk
+      why: "respelled with plain o and u"
+    - form: achol achür achum achur ashulk
+      instead: achol echur achum achur ashulk
+      why: "respelled with plain o and u"
+    - {form: aukh achül auk, instead: aukh echul auk, why: "respelled with plain o and u"}
+    - {form: aukh achül ashum, instead: aukh echul ashum, why: "respelled with plain o and u"}
+    - {form: qörsh, instead: korsh, why: "respelled with plain o and u"}
+    - {form: qürsh, instead: kursh, why: "respelled with plain o and u"}
+    - {form: shör, instead: khor, why: "respelled with plain o and u"}
+    - {form: qesh shör, instead: qesh khor, why: "respelled with plain o and u"}
+    - {form: shür, instead: shir, why: "respelled with plain o and u"}
+    - {form: qesh shür, instead: qesh shir, why: "respelled with plain o and u"}
+    - {form: ghül, instead: ghel, why: "respelled with plain o and u"}
+    - {form: qesh ghül, instead: qesh ghel, why: "respelled with plain o and u"}
+    - {form: tashöl, instead: teshol, why: "respelled with plain o and u"}
+    - {form: tashül, instead: tashul, why: "respelled with plain o and u"}
+    - {form: tashür, instead: teshur, why: "respelled with plain o and u"}
+    - {form: oshköl, instead: ashkol, why: "respelled with plain o and u"}
+    - {form: oshkül, instead: ashkul, why: "respelled with plain o and u"}
+    - {form: oshkör, instead: ashkor, why: "respelled with plain o and u"}
+    - {form: oshkür, instead: ashkur, why: "respelled with plain o and u"}
+    - {form: ashöl osh, instead: ashol osh, why: "respelled with plain o and u"}
+    - {form: sharkhül, instead: sharkhul, why: "respelled with plain o and u"}
+    - {form: achür barkh, instead: echur barkh, why: "respelled with plain o and u"}
+    - form: melkh sharkhül qesh turg
+      instead: melkh sharkhul qesh turg
+      why: "respelled with plain o and u"
+    - {form: enkhül, instead: ankhul, why: "respelled with plain o and u"}
+    - {form: enköl, instead: ankol, why: "respelled with plain o and u"}
+    - {form: enkül, instead: ankul, why: "respelled with plain o and u"}
+    - {form: enkör, instead: ankor, why: "respelled with plain o and u"}
+    - {form: enkür, instead: ankur, why: "respelled with plain o and u"}
+    - {form: daskhül, instead: deskhul, why: "respelled with plain o and u"}
+    - {form: dör, instead: dar, why: "respelled with plain o and u"}
+    - form: achol achür barkh achur lerkhar
+      instead: achol echur barkh achur lerkhar
+      why: "respelled with plain o and u"
+    - form: achol achür barkh achur lurkhar
+      instead: achol echur barkh achur lurkhar
+      why: "respelled with plain o and u"
+    - {form: ashur ashör, instead: ashur eshor, why: "respelled with plain o and u"}
+    - {form: dölk, instead: delk, why: "respelled with plain o and u"}
+    - {form: qesh dölk, instead: qesh delk, why: "respelled with plain o and u"}
+    - {form: dölkar, instead: dalkar, why: "respelled with plain o and u"}
+    - {form: belghöl, instead: balghol, why: "respelled with plain o and u"}
+    - {form: tsenghöl, instead: tsanghol, why: "respelled with plain o and u"}
+    - {form: tsenghül, instead: tsanghul, why: "respelled with plain o and u"}
+    - form: molkh tsengh sharkhül qesh um
+      instead: molkh tsengh sharkhul qesh um
+      why: "respelled with plain o and u"
+    - {form: garum ürsh nargh, instead: garum arsh nargh, why: "respelled with plain o and u"}
+    - {form: ursh nölar, instead: ursh nolar, why: "respelled with plain o and u"}
+    - {form: ürsh nölar, instead: arsh nolar, why: "respelled with plain o and u"}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -6892,11 +7199,11 @@ Osket is held at the back of the throat. It is slower than [[skill-hvarnlng|Hvar
 
 ### Vowel System
 
-**Vowels:** a, e, i, o, u, and two front rounded vowels, said with the tongue forward and the lips rounded
+**Vowels:** a, e, i, o, u
 
 **Diphthongs:** ai, au, oi
 
-The two front rounded vowels are the feature an outsider hears first and produces last. They are phonemic, they are frequent, and a lowlander who substitutes the unrounded vowel for either of them will be understood and will also be identified as a lowlander by anyone within earshot.
+Every vowel is said as written, _o_ as _o_ and _u_ as _u_.
 
 ### Phonotactic Patterns
 
@@ -6918,55 +7225,55 @@ Word order is verb-final and rigid. There is no verb "to have." Evidentiality is
 
 ## Everyday speech
 
-_Mokh mukh qesh larsh_ means “I see you” on direct evidence. _Mokh mukh qösh
-larsh_ gives the reported account; _mokh mukh qüsh larsh_ gives an inference.
-_Qesh_, _qösh_ and _qüsh_ identify the three knowledge sources the tongue
+_Mokh mukh qesh larsh_ means “I see you” on direct evidence. _Mokh mukh qosh
+larsh_ gives the reported account; _mokh mukh qush larsh_ gives an inference.
+_Qesh_, _qosh_ and _qush_ identify the three knowledge sources the tongue
 requires. Each stands immediately before the final finite verb in these cited
 utterances. The subject and object come before it. A bare action entry such as
 _larsh_ is a nonfinite citation; it is not a complete assertion without its
 evidential. The same distinction remains in questions and conditional clauses.
 The choice of source does not itself say that a claim is true or certain.
 
-_Melkh qesh turg_ is “that person comes”, directly observed. _Melkh qösh turg_
-is the report that they come; _melkh qüsh turg_ is the conclusion drawn from
-signs. _Mokh ghölen qesh eshkurem_ means “I feel joy”, from the speaker's own
-experience. _Ghölan_, _ghölun_ and _ghölum eshkur_ give happiness, pleasure and
-contentment in that emotional object slot. Bodily feeling _pülgh_ and emotion
+_Melkh qesh turg_ is “that person comes”, directly observed. _Melkh qosh turg_
+is the report that they come; _melkh qush turg_ is the conclusion drawn from
+signs. _Mokh gholen qesh eshkurem_ means “I feel joy”, from the speaker's own
+experience. _Gholan_, _gholun_ and _ghelum eshkur_ give happiness, pleasure and
+contentment in that emotional object slot. Bodily feeling _pulgh_ and emotion
 _eshkur_ remain distinct. _Arnel eshkur_ is the felt fulfillment of desire.
 
-_Mokh nö tsol qesh um_ means “I have a cup”: in my possession a cup exists.
-_Nö_ follows the owner in this complete possessive existential; _um_ is be or
+_Mokh no tsol qesh um_ means “I have a cup”: in my possession a cup exists.
+_No_ follows the owner in this complete possessive existential; _um_ is be or
 exist, not a verb to have. _Mokh ul tsol_ is “my cup”; _mukh ul tsol_ “your cup”;
-_mülkh ul tsol_ “our cup”. _Tsol mokh ul qesh um_ means “the cup belongs to
+_mulkh ul tsol_ “our cup”. _Tsol mokh ul qesh um_ means “the cup belongs to
 me”. _Ul_ also identifies what is counted in _tsol ul ach_, “number of cups”,
 what is measured in _molsh ul achum_, “amount of water”, and what is named in
 _tekh barkh ul narghel_, “name of this thing”.
 
-_Garum ursh nargh_ names an adult man and _garum ürsh nargh_ an adult woman.
-_Ursh nölar_ and _ürsh nölar_ name a boy and girl; _dalum_ and _darul_ are son
+_Garum ursh nargh_ names an adult man and _garum arsh nargh_ an adult woman.
+_Ursh nolar_ and _arsh nolar_ name a boy and girl; _dalum_ and _darul_ are son
 and daughter even when grown. _Garum nargh_ is an adult. The noun phrases put
 their identifying qualities before the person named. _Ghulam_, _ghul_ and
 _ghalush_ distinguish family, kin and a line of descent. _Goich_ retains the
 particular hearth with its house, herd, pasture and inherited road; the generic
 dwelling is _shomel_, and the physical fireplace _khaurel_.
 
-_Ömkar ömk_, _khöm ömk_ and _ghul ömk_ distinguish romantic, friendship and
-kin love, with love as the final head. _Ömkul_ concerns everyone's good without
+_Omkar omk_, _khom omk_ and _ghul omk_ distinguish romantic, friendship and
+kin love, with love as the final head. _Omkul_ concerns everyone's good without
 seeking return; its scope is wider than the door's hospitality and its exception
-for the Roadless. _Üsharn_ is sexual appetite. _Ghümel_ names companionship
-without requiring close friendship. _Ashöl khölum_ is reverence and _qürghöl_
+for the Roadless. _Usharn_ is sexual appetite. _Ghumel_ names companionship
+without requiring close friendship. _Ashol kholum_ is reverence and _qurghol_
 awe. _Urghol_ is subjective confidence, while _tsenghel_ is truth; one does not
 guarantee the other.
 
 _Mukh qesh hulam_ means “you inhale”; _mukh qesh hulesh_, “you exhale”.
 _Melkh qesh hulqom_ reports suffocation through absent breathable air or blocked
 airflow. _Melkh karular qesh um_ describes being full after eating or drinking.
-_Melkh qomur larshüm qesh um_ describes physical blindness, and _qomur nölkum_
+_Melkh qomur larshum qesh um_ describes physical blindness, and _qomur nolkum_
 physical deafness. These do not describe a person's standing in the hearth.
-_Shelömum_ names a dream, while _shelghom_ names rest; the action citations
-_shelöm_ and _shelgh_ remain verbs. _Melkh üshamar qesh umgh_ means “that
+_Shelomum_ names a dream, while _shelghom_ names rest; the action citations
+_shelom_ and _shelgh_ remain verbs. _Melkh ushamar qesh umgh_ means “that
 person conceives”, becoming pregnant with the evidenced verb last.
-_Pülkar_ is conscious; _qom pülkar_ is unconscious rather than merely asleep.
+_Pulkar_ is conscious; _qom pulkar_ is unconscious rather than merely asleep.
 _Melkh tshular qesh um_ means “that person is healthy”; _melkh tshular qesh
 umgh_ means “that person becomes healthy”. The resulting quality comes before
 the evidenced final becoming verb.
@@ -6983,12 +7290,12 @@ rather than merely warning of danger.
 
 _Tekh tsol_ means “this cup”, with the
 demonstrative before the noun. _Ashang nargh_ means “many people”; _nargh narghem_ names a group of
-people even when only a few are present, without supplying a noun plural table. _Achöl achür achum achur asholk_ means “more in
+people even when only a few are present, without supplying a noun plural table. _Achol echur achum achur asholk_ means “more in
 amount than every other compared amount”; replace the amount with a count or
 the actual kind compared. _Ashulk_ gives the reverse comparison. The same
 explicit standard with _lerkhar_ or _lurkhar_ gives best and worst.
-_Ashun aukh_ is both of the two, _aukh achül auk_ one from the two, and _aukh
-achül ashum_ none from the two. _Achaukh_ and _achaul_ are equal halves and
+_Ashun aukh_ is both of the two, _aukh echul auk_ one from the two, and _aukh
+echul ashum_ none from the two. _Achaukh_ and _achaul_ are equal halves and
 quarters, rather than merely smaller pieces.
 
 _Aush achul achor_ means “in position seven”; _aungkh achul achor_ means “in
@@ -6996,18 +7303,18 @@ position eight”. Replace the actual position number. The noun _achul_ also
 names the spatial position a body occupies. _Autsh achish achush_ means “near
 the below side of ten”, the numerical “almost ten”. _Achash autsh_ means “about
 ten”; _achosh autsh_, “exactly ten”. The comparison concerns the stated number,
-not an event occurring shortly before another. _Daursh dül_ is tiny and _daursh
-daul_ huge in absolute physical size. _Ashöl osh_ is a long duration, distinct
+not an event occurring shortly before another. _Daursh dul_ is tiny and _daursh
+daul_ huge in absolute physical size. _Ashol osh_ is a long duration, distinct
 from spatial length _daulk_.
 
-_Mukh hülash oshalk qesh turg_ means “you come before the rain”; _hülash
+_Mukh hulash oshalk qesh turg_ means “you come before the rain”; _hulash
 oshulk_ supplies “after the rain”. _Mukh karel oshom qesh karem_ means “you eat
-during the meal”; the actual meal occasion also supplies while eating. _Hülash
-oshok_ continues until the rain; _hülash oshuk_ starts at the rain and continues
+during the meal”; the actual meal occasion also supplies while eating. _Hulash
+oshok_ continues until the rain; _hulash oshuk_ starts at the rain and continues
 through the reference time. Replace the named event or time. _Auk oshkh achor_,
 _aukh oshkh achor_ and _ashang oshkh achor_ count one, two and many occasions;
 _oshkur_ means again. _Melkh oshkol qesh turg_ is “that person already comes”;
-_melkh oshkul qesh turg_, “that person still comes”. _Melkh oshköl qom qesh
+_melkh oshkul qesh turg_, “that person still comes”. _Melkh ashkol qom qesh
 turg_ is the current-context “that person has not come yet”. These time words
 do not supply a tense ending.
 _Mokh tashom achor qom qesh um_ says “I am nowhere” in the relevant area,
@@ -7016,21 +7323,21 @@ never comes”, with no occasion of coming in the relevant period. These complet
 negative clauses keep _qom_ before the evidential and the final verb.
 
 _Sher mukh qesh larsh_ asks “who sees you?”; _mukh sher qesh larsh_ asks “whom
-do you see?” _Shörsh lerkh qesh um_ selects “which is good?” from a stated set.
+do you see?” _Shorsh lerkh qesh um_ selects “which is good?” from a stated set.
 _Mukh sharkhor achor qesh um_ asks where you are; _mukh sharkhur achor qesh
 turg_ asks when you come. _Mukh shor sharkhal qesh targ_ asks the reason for
-going; _mukh shor sharkhöl qesh targ_ asks the intended purpose. _Mukh shürkhur
+going; _mukh shor sharkhol qesh targ_ asks the intended purpose. _Mukh shurkhur
 qesh belkh_ asks how you do it. _Tsol ul ach shor qesh um_ asks how many cups;
 _molsh ul achum shor qesh um_ asks how much water. _Tekh tsol sher ul qesh um_
 asks whose cup this is. _Mukh tsol sher al qesh bursh_ asks to whom you give a
-cup; _mukh sharkhor alk qesh turg_ asks from where you come. _Melkh sharkhül
+cup; _mukh sharkhor alk qesh turg_ asks from where you come. _Melkh sharkhul
 qesh turg_ asks “does that person come?”, with the question marker before the
 evidential and the verb still last. _Mukh shor qesh shar_ requests clarification.
 
 _Mukh morkh qesh larsh_ means “you see yourself”; _melkh morkh qesh larsh_,
 “that person sees themself”. The object _morkh_ refers to the subject of its own
-clause. _Larshölar melkh qüsh turg_ gives the appearance-based inference that
-that person comes. _Sharölar melkh qösh turg_ means “supposedly that person
+clause. _Larsholar melkh qush turg_ gives the appearance-based inference that
+that person comes. _Sharolar melkh qosh turg_ means “supposedly that person
 comes”, retaining the reported source. _Melkh tshular tsenghar qesh um_ means
 “that person is truly healthy”, asserting reality. _Sharush_ specifically
 involves intent to deceive; _sharash_ also includes an honestly mistaken false
@@ -7045,36 +7352,36 @@ coming. _Enkhel melkh shelghash qesh um, melkh qesh turg_ means “although that
 person is tired, they come”. Each finite verb retains its evidential and final
 position within its clause.
 
-_Enkal melkh qesh turg üng melkh qesh targ_ offers either coming or going;
-_enkol melkh qesh turg enkol melkh qesh targ_ excludes both. _Enköl melkh qesh
-turg öng melkh qesh shar_ affirms both coming and speaking. _Melkh enkül melkh
-qesh turg üng melkh qom qesh turg qesh shür_ means “that person considers
+_Enkal melkh qesh turg ung melkh qesh targ_ offers either coming or going;
+_enkol melkh qesh turg enkol melkh qesh targ_ excludes both. _Ankol melkh qesh
+turg ong melkh qesh shar_ affirms both coming and speaking. _Melkh ankul melkh
+qesh turg ung melkh qom qesh turg qesh shir_ means “that person considers
 whether they come or do not come”; the governing thinking verb is final too.
-_Aukh nargh, enkosh khöm öng ghüm_ identifies two people, namely a friend and
-a companion. _Mokh purgh sharkhöl qesh targ_ means “I go for safety”, identifying
+_Aukh nargh, enkosh khom ong ghum_ identifies two people, namely a friend and
+a companion. _Mokh purgh sharkhol qesh targ_ means “I go for safety”, identifying
 the intended outcome with the purpose relation rather than its cause.
 
-_Mukh targ qesh dülk_ means “you can go”; _mukh targ qom qesh dülk_, “you
+_Mukh targ qesh dulk_ means “you can go”; _mukh targ qom qesh dulk_, “you
 cannot go”. The action _targ_ is nonfinite before the evidenced final ability
-predicate. _Mukh targ qesh dölk_ means “you may go”, giving permission rather
-than ability. _Melkh urghalar qüsh turg_ means “that person might come”. _Mukh
+predicate. _Mukh targ qesh delk_ means “you may go”, giving permission rather
+than ability. _Melkh urghalar qush turg_ means “that person might come”. _Mukh
 targ qesh dolk_ means “you must go”; _mukh qom targ qesh dolk_, “you must not
 go”. _Mukh targ qom qesh dolk_ instead means “you are not obliged to go”. _Mukh
-targ qesh dalk_ gives advice to go. _Dölkar_ means optional: permitted and not
-required. _Melkh mukh qesh dölkem_ permits you to perform the action already
-under discussion; _melkh mukh qesh dölkush_ prohibits you from it.
+targ qesh dalk_ gives advice to go. _Dalkar_ means optional: permitted and not
+required. _Melkh mukh qesh dolkem_ permits you to perform the action already
+under discussion; _melkh mukh qesh dolkush_ prohibits you from it.
 
 _Shamkh_ is hello; _purgh al_, literally toward safety, is the parting wish.
-These are verbless calls. _Mokh mukh qesh shomölem_ welcomes the guest.
-_Eshq mukh mokh qesh ghümelkh_ is the courteous “help me, please”. The cited
+These are verbless calls. _Mokh mukh qesh shomolem_ welcomes the guest.
+_Eshq mukh mokh qesh ghumelkh_ is the courteous “help me, please”. The cited
 requests use _eshq_ or a conventional request context, keeping the finite verb
 last and its direct-interaction evidential. They do not supply an imperative
 ending or a person table. _Mokh mukh qesh morkhem_ thanks you; _qomur burshkh_
 answers thanks with “no debt”, the conventional “you are welcome”. _Mokh
-marghun qesh eshkurem_ expresses regret; _eshq mukh mokh qesh ölghurem_ asks
-forgiveness. _Mokh molkh qesh shürkh_ acknowledges understanding, while _mokh
-molkh qom qesh shürkh_ denies it. _Tekh barkh ul narghel shor qesh um_ asks
-what this is called; _molkh tsengh sharkhül qesh um_ asks “really—is that true?”
+marghun qesh eshkurem_ expresses regret; _eshq mukh mokh qesh olghurem_ asks
+forgiveness. _Mokh molkh qesh shurkh_ acknowledges understanding, while _mokh
+molkh qom qesh shurkh_ denies it. _Tekh barkh ul narghel shor qesh um_ asks
+what this is called; _molkh tsengh sharkhul qesh um_ asks “really—is that true?”
 
 ## Script & Literacy
 
@@ -7098,7 +7405,7 @@ An [[affiliation-osketguides|Osket]] lineage is a hearth, a herd, a high pasture
 
 A compound sets two words side by side with no linking material, the first saying which and the second saying what: _ghauk_ is the road and _wugh_ a knotted cord, so _ghaukwugh_ is the guide-cord, the record of a road. A personal name is a single word taken from weather, ground, beast or condition, so the words of the dictionary are also the names the Osket give their children.
 
-The sound of Osket is heavy and closed. A word may end on any consonant, the front rounded _ö_ and _ü_ are the vowels an outsider hears first, and the uvular _q_ is made far back in the throat. Long vowels are not distinguished.
+The sound of Osket is heavy and closed. A word may end on any consonant, the vowels are plain, and the uvular _q_ is made far back in the throat. Long vowels are not distinguished.
 
 ## How to read the dictionary {#how-to-read-the-dictionary}
 

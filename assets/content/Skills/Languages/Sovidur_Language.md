@@ -6,7 +6,7 @@ subType: language
 description: "The hard, clipped tongue of the steppe tribes of the Khazryn, spoken from the cold northern coast to the stone desert before Tantsou."
 tags: []
 data:
-  roman: "abcdeghijklmnoqrstuvyzöü0123456789()–-"
+  roman: "abcdeghijklmnoqrstuvyz0123456789()–-"
   core: true
   abbreviation: Sov.
   icon: icon-speaking
@@ -101,8 +101,8 @@ data:
       vowelPairs: [aa, ii, uu]
       initialVowel: true
       neverInitial: [r]
-      harmony: {back: [a, o, u], front: [e, ö, ü], neutral: [i], neutralAs: front}
-      signature: [q, gh, kh, ch, j, z, o, ö, ü]
+      harmony: {back: [a, o, u], front: [e], neutral: [i], neutralAs: front}
+      signature: [q, gh, kh, ch, j, z, o, u]
     joins: [{meeting: V+V, rule: insert, letters: [y]}, {meeting: C+C, rule: merge}]
   affixes:
     - {form: -ur, front: -ur, gloss: a people or tribe}
@@ -1362,10 +1362,10 @@ data:
       "source": {"kind": "coined"}
     - "form": "zokhun"
       "class": "part"
-      "gloss": "finite relative-clause opener after the head noun; the clause ends at zökhen."
+      "gloss": "finite relative-clause opener after the head noun; the clause ends at zokhen."
       "field": "Everyday grammar"
       "source": {"kind": "coined"}
-    - "form": "zökhen"
+    - "form": "zokhen"
       "class": "part"
       "gloss": "end of a finite relative description or an embedded reported clause."
       "field": "Everyday grammar"
@@ -1375,12 +1375,12 @@ data:
       "gloss": "opens the complete proposition being reported or considered."
       "field": "Everyday grammar"
       "source": {"kind": "coined"}
-    - "form": "chüdir"
+    - "form": "chudir"
       "class": "part"
       "gloss": "end of a coordinated noun group when its boundary must be made explicit."
       "field": "Everyday grammar"
       "source": {"kind": "coined"}
-    - "form": "zöken"
+    - "form": "zoken"
       "class": "v"
       "field": "Everyday senses"
       "gloss": "to see"
@@ -1392,7 +1392,7 @@ data:
       "gloss": "a sight; what is seen"
       "concept": "see-noun"
       "source": {"kind": "coined"}
-    - "form": "chömel"
+    - "form": "chomel"
       "class": "v"
       "field": "Everyday senses"
       "gloss": "to hear"
@@ -1440,13 +1440,13 @@ data:
       "gloss": "a touch"
       "concept": "touch-noun"
       "source": {"kind": "coined"}
-    - "form": "chödir"
+    - "form": "chodir"
       "class": "v"
       "field": "Everyday senses"
       "gloss": "to look"
       "concept": "look"
       "source": {"kind": "coined"}
-    - "form": "zenökh"
+    - "form": "zenokh"
       "class": "v"
       "field": "Everyday senses"
       "gloss": "to watch; to observe attentively"
@@ -1458,7 +1458,7 @@ data:
       "gloss": "appearance"
       "concept": "appearance"
       "source": {"kind": "coined"}
-    - "form": "khüner"
+    - "form": "khuner"
       "class": "adj"
       "field": "Everyday senses"
       "gloss": "visible"
@@ -1482,13 +1482,13 @@ data:
       "gloss": "noise"
       "concept": "noise"
       "source": {"kind": "coined"}
-    - "form": "jüyech"
+    - "form": "juyech"
       "class": "n"
       "field": "Everyday senses"
       "gloss": "voice"
       "concept": "voice"
       "source": {"kind": "coined"}
-    - "form": "jüyemüz"
+    - "form": "juyemuz"
       "class": "n"
       "field": "Everyday senses"
       "gloss": "silence"
@@ -1506,7 +1506,7 @@ data:
       "gloss": "fragrant"
       "concept": "fragrant"
       "source": {"kind": "coined"}
-    - "form": "jedöm"
+    - "form": "jedom"
       "class": "adj"
       "field": "Everyday senses"
       "gloss": "foul-smelling; having an unpleasant smell"
@@ -1530,7 +1530,7 @@ data:
       "gloss": "bitter"
       "concept": "bitter"
       "source": {"kind": "coined"}
-    - "form": "khülez"
+    - "form": "khulez"
       "class": "adj"
       "field": "Everyday senses"
       "gloss": "salty"
@@ -1578,7 +1578,7 @@ data:
       "gloss": "to notice"
       "concept": "notice"
       "source": {"kind": "coined"}
-    - "form": "jüchekhem"
+    - "form": "juchekhem"
       "class": "v"
       "field": "Everyday senses"
       "gloss": "perceive"
@@ -1590,7 +1590,7 @@ data:
       "gloss": "recognize"
       "concept": "recognize"
       "source": {"kind": "coined"}
-    - "form": "jönit"
+    - "form": "jonit"
       "class": "v"
       "field": "Everyday senses"
       "gloss": "seem"
@@ -1614,13 +1614,13 @@ data:
       "gloss": "hope"
       "concept": "hope"
       "source": {"kind": "coined"}
-    - "form": "jükhükh"
+    - "form": "jukhukh"
       "class": "n"
       "field": "Everyday passions"
       "gloss": "greed"
       "concept": "greed"
       "source": {"kind": "coined"}
-    - "form": "jüzüm"
+    - "form": "juzum"
       "class": "n"
       "field": "Everyday passions"
       "gloss": "boasting"
@@ -1656,13 +1656,13 @@ data:
       "gloss": "faith; committed trust without requiring demonstrated proof"
       "concept": "faith"
       "source": {"kind": "coined"}
-    - "form": "zökem"
+    - "form": "zokem"
       "class": "n"
       "field": "Everyday passions"
       "gloss": "joy"
       "concept": "joy"
       "source": {"kind": "coined"}
-    - "form": "khöchöz"
+    - "form": "khochoz"
       "class": "n"
       "field": "Everyday passions"
       "gloss": "happiness"
@@ -1704,7 +1704,7 @@ data:
       "gloss": "courage"
       "concept": "courage"
       "source": {"kind": "coined"}
-    - "form": "jümöch"
+    - "form": "jumoch"
       "class": "n"
       "field": "Everyday passions"
       "gloss": "anger"
@@ -1722,7 +1722,7 @@ data:
       "gloss": "jealousy; fear and anger over losing a valued relationship to a rival"
       "concept": "jealousy"
       "source": {"kind": "coined"}
-    - "form": "zümön"
+    - "form": "zumon"
       "class": "n"
       "field": "Everyday passions"
       "gloss": "fear"
@@ -1746,7 +1746,7 @@ data:
       "gloss": "grief"
       "concept": "grief"
       "source": {"kind": "coined"}
-    - "form": "khökech"
+    - "form": "khokech"
       "class": "n"
       "field": "Everyday passions"
       "gloss": "shame"
@@ -1758,13 +1758,13 @@ data:
       "gloss": "guilt"
       "concept": "guilt"
       "source": {"kind": "coined"}
-    - "form": "zünes"
+    - "form": "zunes"
       "class": "n"
       "field": "Everyday passions"
       "gloss": "regret"
       "concept": "regret"
       "source": {"kind": "coined"}
-    - "form": "züvüzes"
+    - "form": "zuvuzes"
       "class": "n"
       "field": "Everyday passions"
       "gloss": "humility"
@@ -1794,7 +1794,7 @@ data:
       "gloss": "pity"
       "concept": "pity"
       "source": {"kind": "coined"}
-    - "form": "chüyökh"
+    - "form": "chuyokh"
       "class": "n"
       "field": "Everyday passions"
       "gloss": "sympathy"
@@ -1812,7 +1812,7 @@ data:
       "gloss": "contempt"
       "concept": "contempt"
       "source": {"kind": "coined"}
-    - "form": "chömüsil"
+    - "form": "chomusil"
       "class": "n"
       "field": "Everyday passions"
       "gloss": "forgiveness"
@@ -1830,7 +1830,7 @@ data:
       "gloss": "longing"
       "concept": "longing"
       "source": {"kind": "coined"}
-    - "form": "jürit"
+    - "form": "jurit"
       "class": "n"
       "field": "Everyday passions"
       "gloss": "satisfaction at fulfilling a desire, distinct from contentment with what one already has"
@@ -1842,13 +1842,13 @@ data:
       "gloss": "frustration"
       "concept": "frustration"
       "source": {"kind": "coined"}
-    - "form": "jüsöd"
+    - "form": "jusod"
       "class": "n"
       "field": "Everyday passions"
       "gloss": "curiosity"
       "concept": "curiosity"
       "source": {"kind": "coined"}
-    - "form": "zeküch"
+    - "form": "zekuch"
       "class": "n"
       "field": "Everyday passions"
       "gloss": "confusion"
@@ -1878,7 +1878,7 @@ data:
       "gloss": "boredom"
       "concept": "boredom"
       "source": {"kind": "coined"}
-    - "form": "züliz"
+    - "form": "zuliz"
       "class": "n"
       "field": "Everyday passions"
       "gloss": "anticipation"
@@ -1890,7 +1890,7 @@ data:
       "gloss": "belief; accepting a proposition as true"
       "concept": "belief"
       "source": {"kind": "coined"}
-    - "form": "khörel"
+    - "form": "khorel"
       "class": "n"
       "field": "Everyday passions"
       "gloss": "reverence"
@@ -1926,7 +1926,7 @@ data:
       "gloss": "selfless universal love; concern for others without repayment, sexual desire or kinship advantage"
       "concept": "love-agape"
       "source": {"kind": "coined"}
-    - "form": "khöbed"
+    - "form": "khobed"
       "class": "n"
       "field": "Everyday loves"
       "gloss": "affection"
@@ -1986,7 +1986,7 @@ data:
       "gloss": "the face"
       "concept": "face"
       "source": {"kind": "coined"}
-    - "form": "jelüd"
+    - "form": "jelud"
       "class": "n"
       "field": "Everyday body"
       "gloss": "the eye"
@@ -2004,13 +2004,13 @@ data:
       "gloss": "the nose"
       "concept": "nose"
       "source": {"kind": "coined"}
-    - "form": "zebüd"
+    - "form": "zebud"
       "class": "n"
       "field": "Everyday body"
       "gloss": "the mouth"
       "concept": "mouth"
       "source": {"kind": "coined"}
-    - "form": "khüziy"
+    - "form": "khuziy"
       "class": "n"
       "field": "Everyday body"
       "gloss": "the lip"
@@ -2046,13 +2046,13 @@ data:
       "gloss": "the arm"
       "concept": "arm"
       "source": {"kind": "coined"}
-    - "form": "jüchet"
+    - "form": "juchet"
       "class": "n"
       "field": "Everyday body"
       "gloss": "the elbow"
       "concept": "elbow"
       "source": {"kind": "coined"}
-    - "form": "züzin"
+    - "form": "zuzin"
       "class": "n"
       "field": "Everyday body"
       "gloss": "the hand"
@@ -2064,7 +2064,7 @@ data:
       "gloss": "the finger"
       "concept": "finger"
       "source": {"kind": "coined"}
-    - "form": "zövey"
+    - "form": "zovey"
       "class": "n"
       "field": "Everyday body"
       "gloss": "the fingernail"
@@ -2088,25 +2088,25 @@ data:
       "gloss": "the heart"
       "concept": "heart"
       "source": {"kind": "coined"}
-    - "form": "jürör"
+    - "form": "juror"
       "class": "n"
       "field": "Everyday body"
       "gloss": "the belly"
       "concept": "belly"
       "source": {"kind": "coined"}
-    - "form": "jüvelekh"
+    - "form": "juvelekh"
       "class": "n"
       "field": "Everyday body"
       "gloss": "the back"
       "concept": "back"
       "source": {"kind": "coined"}
-    - "form": "chüdem"
+    - "form": "chudem"
       "class": "n"
       "field": "Everyday body"
       "gloss": "the hip"
       "concept": "hip"
       "source": {"kind": "coined"}
-    - "form": "jetökör"
+    - "form": "jetokor"
       "class": "n"
       "field": "Everyday body"
       "gloss": "the leg"
@@ -2118,7 +2118,7 @@ data:
       "gloss": "the knee"
       "concept": "knee"
       "source": {"kind": "coined"}
-    - "form": "chöyikh"
+    - "form": "choyikh"
       "class": "n"
       "field": "Everyday body"
       "gloss": "the foot"
@@ -2130,7 +2130,7 @@ data:
       "gloss": "the toe"
       "concept": "toe"
       "source": {"kind": "coined"}
-    - "form": "jöbümil"
+    - "form": "jobumil"
       "class": "n"
       "field": "Everyday body"
       "gloss": "the skin"
@@ -2142,7 +2142,7 @@ data:
       "gloss": "flesh"
       "concept": "flesh"
       "source": {"kind": "coined"}
-    - "form": "khötish"
+    - "form": "khotish"
       "class": "n"
       "field": "Everyday body"
       "gloss": "forehead"
@@ -2160,7 +2160,7 @@ data:
       "gloss": "chin"
       "concept": "chin"
       "source": {"kind": "coined"}
-    - "form": "khölim"
+    - "form": "kholim"
       "class": "n"
       "field": "Everyday body"
       "gloss": "cheek"
@@ -2178,13 +2178,13 @@ data:
       "gloss": "stomach"
       "concept": "stomach"
       "source": {"kind": "coined"}
-    - "form": "churis"
+    - "form": "charis"
       "class": "n"
       "field": "Everyday body"
       "gloss": "waist"
       "concept": "waist"
       "source": {"kind": "coined"}
-    - "form": "chüsüküd"
+    - "form": "chusukud"
       "class": "n"
       "field": "Everyday body"
       "gloss": "spine"
@@ -2196,7 +2196,7 @@ data:
       "gloss": "buttock"
       "concept": "buttock"
       "source": {"kind": "coined"}
-    - "form": "chözüy"
+    - "form": "chozuy"
       "class": "n"
       "field": "Everyday body"
       "gloss": "wrist"
@@ -2226,7 +2226,7 @@ data:
       "gloss": "ankle"
       "concept": "ankle"
       "source": {"kind": "coined"}
-    - "form": "jükhem"
+    - "form": "jukhem"
       "class": "n"
       "field": "Everyday body"
       "gloss": "heel"
@@ -2250,7 +2250,7 @@ data:
       "gloss": "muscle"
       "concept": "muscle"
       "source": {"kind": "coined"}
-    - "form": "züzez"
+    - "form": "zuzez"
       "class": "n"
       "field": "Everyday body"
       "gloss": "fat; bodily fatty tissue"
@@ -2370,7 +2370,7 @@ data:
       "gloss": "breath"
       "concept": "breath"
       "source": {"kind": "coined"}
-    - "form": "jürüm"
+    - "form": "jurum"
       "class": "v"
       "field": "Everyday needs"
       "gloss": "to breathe"
@@ -2388,7 +2388,7 @@ data:
       "gloss": "to sleep"
       "concept": "sleep-verb"
       "source": {"kind": "coined"}
-    - "form": "chüchem"
+    - "form": "chuchem"
       "class": "n"
       "field": "Everyday needs"
       "gloss": "urine"
@@ -2400,19 +2400,19 @@ data:
       "gloss": "to urinate"
       "concept": "urinate"
       "source": {"kind": "coined"}
-    - "form": "chümövüs"
+    - "form": "chumovus"
       "class": "n"
       "field": "Everyday needs"
       "gloss": "dung"
       "concept": "dung"
       "source": {"kind": "coined"}
-    - "form": "khezüch"
+    - "form": "khezuch"
       "class": "v"
       "field": "Everyday needs"
       "gloss": "to defecate"
       "concept": "defecate"
       "source": {"kind": "coined"}
-    - "form": "khöyegöt"
+    - "form": "khoyegot"
       "class": "n"
       "field": "Everyday needs"
       "gloss": "warmth"
@@ -2448,7 +2448,7 @@ data:
       "gloss": "thirsty"
       "concept": "thirsty"
       "source": {"kind": "coined"}
-    - "form": "chökhöchöy"
+    - "form": "chokhochoy"
       "class": "v"
       "field": "Everyday needs"
       "gloss": "inhale"
@@ -2460,7 +2460,7 @@ data:
       "gloss": "exhale"
       "concept": "exhale"
       "source": {"kind": "coined"}
-    - "form": "chöken"
+    - "form": "choken"
       "class": "v"
       "field": "Everyday needs"
       "gloss": "suffocate"
@@ -2472,7 +2472,7 @@ data:
       "gloss": "wake"
       "concept": "wake"
       "source": {"kind": "coined"}
-    - "form": "khetön"
+    - "form": "kheton"
       "class": "adj"
       "field": "Everyday needs"
       "gloss": "awake"
@@ -2544,7 +2544,7 @@ data:
       "gloss": "safety"
       "concept": "safety"
       "source": {"kind": "coined"}
-    - "form": "zöliz"
+    - "form": "zoliz"
       "class": "n"
       "field": "Everyday needs"
       "gloss": "danger"
@@ -2580,7 +2580,7 @@ data:
       "gloss": "pregnant"
       "concept": "pregnant"
       "source": {"kind": "coined"}
-    - "form": "chögönöm"
+    - "form": "chogonom"
       "class": "n"
       "field": "Everyday needs"
       "gloss": "birth"
@@ -2592,7 +2592,7 @@ data:
       "gloss": "give birth"
       "concept": "give-birth"
       "source": {"kind": "coined"}
-    - "form": "zöchül"
+    - "form": "zochul"
       "class": "v"
       "field": "Everyday needs"
       "gloss": "to nurse a child; to feed a child at the breast"
@@ -2604,7 +2604,7 @@ data:
       "gloss": "grow"
       "concept": "grow"
       "source": {"kind": "coined"}
-    - "form": "züles"
+    - "form": "zules"
       "class": "v"
       "field": "Everyday needs"
       "gloss": "to age; to grow older"
@@ -2622,7 +2622,7 @@ data:
       "gloss": "dead"
       "concept": "dead"
       "source": {"kind": "coined"}
-    - "form": "chüzirey"
+    - "form": "chuzirey"
       "class": "adj"
       "field": "Everyday health"
       "gloss": "healthy; hale"
@@ -2634,7 +2634,7 @@ data:
       "gloss": "sick; ill"
       "concept": "sick"
       "source": {"kind": "coined"}
-    - "form": "chübicher"
+    - "form": "chubicher"
       "class": "adj"
       "field": "Everyday health"
       "gloss": "injured; wounded"
@@ -2682,13 +2682,13 @@ data:
       "gloss": "to hurt; to cause pain or injury to someone"
       "concept": "hurt-verb"
       "source": {"kind": "coined"}
-    - "form": "khükhüküy"
+    - "form": "khukhukuy"
       "class": "v"
       "field": "Everyday health"
       "gloss": "ache"
       "concept": "ache"
       "source": {"kind": "coined"}
-    - "form": "zemiküm"
+    - "form": "zemikum"
       "class": "v"
       "field": "Everyday health"
       "gloss": "suffer"
@@ -2700,13 +2700,13 @@ data:
       "gloss": "Bleed"
       "concept": "bleed"
       "source": {"kind": "coined"}
-    - "form": "chevös"
+    - "form": "chevos"
       "class": "v"
       "field": "Everyday health"
       "gloss": "heal"
       "concept": "heal"
       "source": {"kind": "coined"}
-    - "form": "khükhich"
+    - "form": "khukhich"
       "class": "v"
       "field": "Everyday health"
       "gloss": "recover"
@@ -2730,13 +2730,13 @@ data:
       "gloss": "lame"
       "concept": "lame"
       "source": {"kind": "coined"}
-    - "form": "chüvekhez"
+    - "form": "chuvekhez"
       "class": "adj"
       "field": "Everyday health"
       "gloss": "Alive"
       "concept": "alive"
       "source": {"kind": "coined"}
-    - "form": "jümesh"
+    - "form": "jumesh"
       "class": "adj"
       "field": "Everyday health"
       "gloss": "conscious"
@@ -2754,25 +2754,25 @@ data:
       "gloss": "Young"
       "concept": "young"
       "source": {"kind": "coined"}
-    - "form": "jögish"
+    - "form": "jogish"
       "class": "adj"
       "field": "Everyday health"
       "gloss": "old in age (a living being)"
       "concept": "old"
       "source": {"kind": "coined"}
-    - "form": "khötil"
+    - "form": "khotil"
       "class": "n"
       "field": "Everyday health"
       "gloss": "aging; the process of growing older"
       "concept": "aging"
       "source": {"kind": "coined"}
-    - "form": "khökes"
+    - "form": "khokes"
       "class": "v"
       "field": "Everyday health"
       "gloss": "to hurt; to experience bodily pain"
       "concept": "hurt-pain"
       "source": {"kind": "coined"}
-    - "form": "zülimiz"
+    - "form": "zulimiz"
       "class": "n"
       "field": "Everyday kinship"
       "gloss": "parent; a mother or father, without specifying which"
@@ -2784,7 +2784,7 @@ data:
       "gloss": "brother"
       "concept": "brother"
       "source": {"kind": "coined"}
-    - "form": "zetöküs"
+    - "form": "zetokus"
       "class": "n"
       "field": "Everyday kinship"
       "gloss": "sister"
@@ -2832,19 +2832,19 @@ data:
       "gloss": "husband"
       "concept": "husband"
       "source": {"kind": "coined"}
-    - "form": "chökhes"
+    - "form": "chokhes"
       "class": "n"
       "field": "Everyday kinship"
       "gloss": "wife"
       "concept": "wife"
       "source": {"kind": "coined"}
-    - "form": "jösör"
+    - "form": "josor"
       "class": "n"
       "field": "Everyday kinship"
       "gloss": "ancestor"
       "concept": "ancestor"
       "source": {"kind": "coined"}
-    - "form": "zükhel"
+    - "form": "zukhel"
       "class": "n"
       "field": "Everyday kinship"
       "gloss": "descendant"
@@ -2868,13 +2868,13 @@ data:
       "gloss": "grandparent; a parent's parent of either sex"
       "concept": "grandparent"
       "source": {"kind": "coined"}
-    - "form": "zönöt"
+    - "form": "zonot"
       "class": "n"
       "field": "Everyday kinship"
       "gloss": "nephew; a sibling's son"
       "concept": "nephew"
       "source": {"kind": "coined"}
-    - "form": "jökinüz"
+    - "form": "jokinuz"
       "class": "n"
       "field": "Everyday kinship"
       "gloss": "niece; a sibling's daughter"
@@ -2910,7 +2910,7 @@ data:
       "gloss": "lineage"
       "concept": "lineage"
       "source": {"kind": "coined"}
-    - "form": "khüzem"
+    - "form": "khuzem"
       "class": "n"
       "field": "Everyday kinship"
       "gloss": "widower"
@@ -2940,7 +2940,7 @@ data:
       "gloss": "neighbor"
       "concept": "neighbor"
       "source": {"kind": "coined"}
-    - "form": "zötöy"
+    - "form": "zotoy"
       "class": "n"
       "field": "Everyday kinship"
       "gloss": "companion"
@@ -2952,7 +2952,7 @@ data:
       "gloss": "host"
       "concept": "host"
       "source": {"kind": "coined"}
-    - "form": "chekün"
+    - "form": "chekun"
       "class": "n"
       "field": "Everyday kinship"
       "gloss": "leader"
@@ -2970,7 +2970,7 @@ data:
       "gloss": "servant"
       "concept": "servant"
       "source": {"kind": "coined"}
-    - "form": "züchöchüs"
+    - "form": "zuchochus"
       "class": "n"
       "field": "Everyday kinship"
       "gloss": "master"
@@ -3048,7 +3048,7 @@ data:
       "gloss": "a key"
       "concept": "key"
       "source": {"kind": "coined"}
-    - "form": "zöbölir"
+    - "form": "zobolir"
       "class": "n"
       "field": "Everyday things"
       "gloss": "a window"
@@ -3072,13 +3072,13 @@ data:
       "gloss": "a bowl"
       "concept": "bowl"
       "source": {"kind": "coined"}
-    - "form": "khümel"
+    - "form": "khumel"
       "class": "n"
       "field": "Everyday things"
       "gloss": "a knife"
       "concept": "knife"
       "source": {"kind": "coined"}
-    - "form": "jünid"
+    - "form": "junid"
       "class": "n"
       "field": "Everyday things"
       "gloss": "a spoon"
@@ -3108,13 +3108,13 @@ data:
       "gloss": "ceiling"
       "concept": "ceiling"
       "source": {"kind": "coined"}
-    - "form": "zünüd"
+    - "form": "zunud"
       "class": "n"
       "field": "Everyday things"
       "gloss": "seat"
       "concept": "seat"
       "source": {"kind": "coined"}
-    - "form": "jökhüt"
+    - "form": "jokhut"
       "class": "n"
       "field": "Everyday things"
       "gloss": "bench"
@@ -3144,7 +3144,7 @@ data:
       "gloss": "bag"
       "concept": "bag"
       "source": {"kind": "coined"}
-    - "form": "zügüniz"
+    - "form": "zuguniz"
       "class": "n"
       "field": "Everyday things"
       "gloss": "hammer"
@@ -3162,13 +3162,13 @@ data:
       "gloss": "cord"
       "concept": "cord"
       "source": {"kind": "coined"}
-    - "form": "züvün"
+    - "form": "zuvun"
       "class": "n"
       "field": "Everyday things"
       "gloss": "needle"
       "concept": "needle"
       "source": {"kind": "coined"}
-    - "form": "chütiy"
+    - "form": "chutiy"
       "class": "n"
       "field": "Everyday things"
       "gloss": "flame"
@@ -3198,7 +3198,7 @@ data:
       "gloss": "candle"
       "concept": "candle"
       "source": {"kind": "coined"}
-    - "form": "khütes"
+    - "form": "khutes"
       "class": "n"
       "field": "Everyday things"
       "gloss": "garment"
@@ -3246,13 +3246,13 @@ data:
       "gloss": "barrier"
       "concept": "barrier"
       "source": {"kind": "coined"}
-    - "form": "jüküt"
+    - "form": "jukut"
       "class": "n"
       "field": "Everyday things"
       "gloss": "wood"
       "concept": "wood"
       "source": {"kind": "coined"}
-    - "form": "züyüch"
+    - "form": "zuyuch"
       "class": "n"
       "field": "Everyday things"
       "gloss": "metal"
@@ -3294,13 +3294,13 @@ data:
       "gloss": "soil"
       "concept": "soil"
       "source": {"kind": "coined"}
-    - "form": "chözemey"
+    - "form": "chozemey"
       "class": "n"
       "field": "Everyday nature"
       "gloss": "sand"
       "concept": "sand"
       "source": {"kind": "coined"}
-    - "form": "khödüt"
+    - "form": "khodut"
       "class": "n"
       "field": "Everyday nature"
       "gloss": "mud"
@@ -3360,13 +3360,13 @@ data:
       "gloss": "sea"
       "concept": "sea"
       "source": {"kind": "coined"}
-    - "form": "chüvön"
+    - "form": "chuvon"
       "class": "n"
       "field": "Everyday nature"
       "gloss": "ocean"
       "concept": "ocean"
       "source": {"kind": "coined"}
-    - "form": "khübüsh"
+    - "form": "khubush"
       "class": "n"
       "field": "Everyday nature"
       "gloss": "shore"
@@ -3474,13 +3474,13 @@ data:
       "gloss": "worm"
       "concept": "worm"
       "source": {"kind": "coined"}
-    - "form": "jüchich"
+    - "form": "juchich"
       "class": "adj"
       "field": "Everyday nature"
       "gloss": "wet"
       "concept": "wet"
       "source": {"kind": "coined"}
-    - "form": "jütin"
+    - "form": "jutin"
       "class": "adj"
       "field": "Everyday nature"
       "gloss": "dry"
@@ -3492,7 +3492,7 @@ data:
       "gloss": "bright"
       "concept": "bright"
       "source": {"kind": "coined"}
-    - "form": "zezökükh"
+    - "form": "zezokukh"
       "class": "adj"
       "field": "Everyday nature"
       "gloss": "dark"
@@ -3504,7 +3504,7 @@ data:
       "gloss": "clear weather; without clouds"
       "concept": "clear-weather"
       "source": {"kind": "coined"}
-    - "form": "khüsit"
+    - "form": "khusit"
       "class": "adj"
       "field": "Everyday nature"
       "gloss": "cloudy"
@@ -3603,7 +3603,7 @@ data:
       "concept": "third"
       "source": {"kind": "coined"}
       "built": ["jilar", "qazin"]
-    - "form": "chüsed"
+    - "form": "chused"
       "class": "num"
       "field": "Everyday numbers"
       "gloss": "half"
@@ -3615,7 +3615,7 @@ data:
       "gloss": "many"
       "concept": "many"
       "source": {"kind": "coined"}
-    - "form": "chügös"
+    - "form": "chugos"
       "class": "num"
       "field": "Everyday numbers"
       "gloss": "few"
@@ -3670,13 +3670,13 @@ data:
       "gloss": "much"
       "concept": "much"
       "source": {"kind": "coined"}
-    - "form": "khüvösiz"
+    - "form": "khuvosiz"
       "class": "num"
       "field": "Everyday numbers"
       "gloss": "little"
       "concept": "little-quantity"
       "source": {"kind": "coined"}
-    - "form": "khöred"
+    - "form": "khored"
       "class": "num"
       "field": "Everyday numbers"
       "gloss": "enough"
@@ -3688,7 +3688,7 @@ data:
       "gloss": "more"
       "concept": "more"
       "source": {"kind": "coined"}
-    - "form": "jüzik"
+    - "form": "juzik"
       "class": "num"
       "field": "Everyday numbers"
       "gloss": "less"
@@ -3700,13 +3700,13 @@ data:
       "gloss": "most"
       "concept": "most"
       "source": {"kind": "coined"}
-    - "form": "chülik"
+    - "form": "chulik"
       "class": "num"
       "field": "Everyday numbers"
       "gloss": "least"
       "concept": "least"
       "source": {"kind": "coined"}
-    - "form": "jökherör"
+    - "form": "jokheror"
       "class": "num"
       "field": "Everyday numbers"
       "gloss": "equal"
@@ -3730,7 +3730,7 @@ data:
       "gloss": "both"
       "concept": "both"
       "source": {"kind": "coined"}
-    - "form": "jüden"
+    - "form": "juden"
       "class": "num"
       "field": "Everyday numbers"
       "gloss": "either"
@@ -3748,7 +3748,7 @@ data:
       "gloss": "about; approximately the stated quantity"
       "concept": "about"
       "source": {"kind": "coined"}
-    - "form": "jölön"
+    - "form": "jolon"
       "class": "adv"
       "field": "Everyday numbers"
       "gloss": "almost; close to but below the stated amount or completion"
@@ -3772,7 +3772,7 @@ data:
       "gloss": "amount"
       "concept": "amount"
       "source": {"kind": "coined"}
-    - "form": "khükhöyöm"
+    - "form": "khukhoyom"
       "class": "v"
       "field": "Everyday numbers"
       "gloss": "measure"
@@ -3802,7 +3802,7 @@ data:
       "gloss": "blue"
       "concept": "blue"
       "source": {"kind": "coined"}
-    - "form": "chelölöl"
+    - "form": "chelolol"
       "class": "adj"
       "field": "Everyday colours"
       "gloss": "grey"
@@ -3838,13 +3838,13 @@ data:
       "gloss": "opaque"
       "concept": "opaque"
       "source": {"kind": "coined"}
-    - "form": "khügid"
+    - "form": "khugid"
       "class": "adj"
       "field": "Everyday colours"
       "gloss": "transparent"
       "concept": "transparent"
       "source": {"kind": "coined"}
-    - "form": "chekhösh"
+    - "form": "chekhosh"
       "class": "adj"
       "field": "Everyday colours"
       "gloss": "shiny"
@@ -3868,7 +3868,7 @@ data:
       "gloss": "spotted"
       "concept": "spotted"
       "source": {"kind": "coined"}
-    - "form": "zözül"
+    - "form": "zozul"
       "class": "adj"
       "field": "Everyday colours"
       "gloss": "striped"
@@ -3946,7 +3946,7 @@ data:
       "gloss": "to think"
       "concept": "think"
       "source": {"kind": "coined"}
-    - "form": "khüket"
+    - "form": "khuket"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to want"
@@ -3958,19 +3958,19 @@ data:
       "gloss": "to live"
       "concept": "live"
       "source": {"kind": "coined"}
-    - "form": "zödösh"
+    - "form": "zodosh"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to die"
       "concept": "die"
       "source": {"kind": "coined"}
-    - "form": "zösit"
+    - "form": "zosit"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to walk"
       "concept": "walk"
       "source": {"kind": "coined"}
-    - "form": "khötünür"
+    - "form": "khotunur"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to run"
@@ -3988,7 +3988,7 @@ data:
       "gloss": "to stand"
       "concept": "stand"
       "source": {"kind": "coined"}
-    - "form": "khekhül"
+    - "form": "khekhul"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to lie down"
@@ -4000,7 +4000,7 @@ data:
       "gloss": "to hold"
       "concept": "hold"
       "source": {"kind": "coined"}
-    - "form": "jeböd"
+    - "form": "jebod"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to bring"
@@ -4018,7 +4018,7 @@ data:
       "gloss": "to find"
       "concept": "find"
       "source": {"kind": "coined"}
-    - "form": "khezön"
+    - "form": "khezon"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to lose"
@@ -4036,13 +4036,13 @@ data:
       "gloss": "to close"
       "concept": "close"
       "source": {"kind": "coined"}
-    - "form": "jümey"
+    - "form": "jumey"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to begin"
       "concept": "begin"
       "source": {"kind": "coined"}
-    - "form": "züliyüz"
+    - "form": "zuliyuz"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to end"
@@ -4054,7 +4054,7 @@ data:
       "gloss": "to exist"
       "concept": "exist"
       "source": {"kind": "coined"}
-    - "form": "khütich"
+    - "form": "khutich"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to belong"
@@ -4078,13 +4078,13 @@ data:
       "gloss": "to leave"
       "concept": "leave"
       "source": {"kind": "coined"}
-    - "form": "züyön"
+    - "form": "zuyon"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to arrive"
       "concept": "arrive"
       "source": {"kind": "coined"}
-    - "form": "jügül"
+    - "form": "jugul"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to crawl"
@@ -4096,7 +4096,7 @@ data:
       "gloss": "to climb"
       "concept": "climb"
       "source": {"kind": "coined"}
-    - "form": "jüyiz"
+    - "form": "juyiz"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to jump"
@@ -4156,7 +4156,7 @@ data:
       "gloss": "to move"
       "concept": "move"
       "source": {"kind": "coined"}
-    - "form": "zesüvin"
+    - "form": "zesuvin"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to push"
@@ -4186,7 +4186,7 @@ data:
       "gloss": "to throw"
       "concept": "throw"
       "source": {"kind": "coined"}
-    - "form": "jüvekh"
+    - "form": "juvekh"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to catch"
@@ -4204,7 +4204,7 @@ data:
       "gloss": "to create"
       "concept": "create"
       "source": {"kind": "coined"}
-    - "form": "züsüvöy"
+    - "form": "zusuvoy"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to break"
@@ -4228,7 +4228,7 @@ data:
       "gloss": "to change"
       "concept": "change-verb"
       "source": {"kind": "coined"}
-    - "form": "jeleböl"
+    - "form": "jelebol"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to tell"
@@ -4252,7 +4252,7 @@ data:
       "gloss": "to call"
       "concept": "call"
       "source": {"kind": "coined"}
-    - "form": "chülöz"
+    - "form": "chuloz"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to shout"
@@ -4282,7 +4282,7 @@ data:
       "gloss": "to believe"
       "concept": "believe"
       "source": {"kind": "coined"}
-    - "form": "zömir"
+    - "form": "zomir"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to understand"
@@ -4294,13 +4294,13 @@ data:
       "gloss": "to remember"
       "concept": "remember"
       "source": {"kind": "coined"}
-    - "form": "khüdüyiy"
+    - "form": "khuduyiy"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to forget"
       "concept": "forget"
       "source": {"kind": "coined"}
-    - "form": "khüben"
+    - "form": "khuben"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to learn"
@@ -4330,7 +4330,7 @@ data:
       "gloss": "to need"
       "concept": "need-verb"
       "source": {"kind": "coined"}
-    - "form": "zelükh"
+    - "form": "zelukh"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to wish"
@@ -4348,13 +4348,13 @@ data:
       "gloss": "to intend"
       "concept": "intend"
       "source": {"kind": "coined"}
-    - "form": "jenöd"
+    - "form": "jenod"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to choose"
       "concept": "choose"
       "source": {"kind": "coined"}
-    - "form": "züsesh"
+    - "form": "zusesh"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to prefer"
@@ -4366,13 +4366,13 @@ data:
       "gloss": "to try"
       "concept": "try"
       "source": {"kind": "coined"}
-    - "form": "chedüy"
+    - "form": "cheduy"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to search"
       "concept": "search"
       "source": {"kind": "coined"}
-    - "form": "zütin"
+    - "form": "zutin"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to meet"
@@ -4426,7 +4426,7 @@ data:
       "gloss": "to forgive"
       "concept": "forgive-verb"
       "source": {"kind": "coined"}
-    - "form": "chüremüm"
+    - "form": "churemum"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to refuse"
@@ -4438,7 +4438,7 @@ data:
       "gloss": "to agree"
       "concept": "agree-verb"
       "source": {"kind": "coined"}
-    - "form": "khözin"
+    - "form": "khozin"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to fight"
@@ -4468,7 +4468,7 @@ data:
       "gloss": "to attack"
       "concept": "attack"
       "source": {"kind": "coined"}
-    - "form": "chüyöch"
+    - "form": "chuyoch"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to flee"
@@ -4504,7 +4504,7 @@ data:
       "gloss": "to happen"
       "concept": "happen"
       "source": {"kind": "coined"}
-    - "form": "chümikül"
+    - "form": "chumikul"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to kneel"
@@ -4528,7 +4528,7 @@ data:
       "gloss": "to cover"
       "concept": "cover-verb"
       "source": {"kind": "coined"}
-    - "form": "chönez"
+    - "form": "chonez"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to uncover"
@@ -4588,7 +4588,7 @@ data:
       "gloss": "everywhere"
       "concept": "everywhere"
       "source": {"kind": "coined"}
-    - "form": "chömey"
+    - "form": "chomey"
       "class": "part"
       "field": "Everyday space"
       "gloss": "Near"
@@ -4624,7 +4624,7 @@ data:
       "gloss": "Above"
       "concept": "above"
       "source": {"kind": "coined"}
-    - "form": "zönekh"
+    - "form": "zonekh"
       "class": "part"
       "field": "Everyday space"
       "gloss": "below"
@@ -4642,7 +4642,7 @@ data:
       "gloss": "over"
       "concept": "over"
       "source": {"kind": "coined"}
-    - "form": "züdes"
+    - "form": "zudes"
       "class": "part"
       "field": "Everyday space"
       "gloss": "Inside"
@@ -4672,7 +4672,7 @@ data:
       "gloss": "behind"
       "concept": "behind"
       "source": {"kind": "coined"}
-    - "form": "züziyüt"
+    - "form": "zuziyut"
       "class": "n"
       "field": "Everyday space"
       "gloss": "left (direction)"
@@ -4714,7 +4714,7 @@ data:
       "gloss": "backward"
       "concept": "backward"
       "source": {"kind": "coined"}
-    - "form": "züchir"
+    - "form": "zuchir"
       "class": "part"
       "field": "Everyday space"
       "gloss": "Toward"
@@ -4738,25 +4738,25 @@ data:
       "gloss": "across"
       "concept": "across"
       "source": {"kind": "coined"}
-    - "form": "jörüsikh"
+    - "form": "jorusikh"
       "class": "part"
       "field": "Everyday space"
       "gloss": "around"
       "concept": "around"
       "source": {"kind": "coined"}
-    - "form": "jömik"
+    - "form": "jomik"
       "class": "part"
       "field": "Everyday space"
       "gloss": "In"
       "concept": "in"
       "source": {"kind": "coined"}
-    - "form": "khödir"
+    - "form": "khodir"
       "class": "part"
       "field": "Everyday space"
       "gloss": "on"
       "concept": "on"
       "source": {"kind": "coined"}
-    - "form": "zökir"
+    - "form": "zokir"
       "class": "part"
       "field": "Everyday space"
       "gloss": "at"
@@ -4798,7 +4798,7 @@ data:
       "gloss": "distance"
       "concept": "distance"
       "source": {"kind": "coined"}
-    - "form": "chükhechön"
+    - "form": "chukhechon"
       "class": "n"
       "field": "Everyday time"
       "gloss": "time"
@@ -4870,7 +4870,7 @@ data:
       "gloss": "past"
       "concept": "past"
       "source": {"kind": "coined"}
-    - "form": "jügökh"
+    - "form": "jugokh"
       "class": "n"
       "field": "Everyday time"
       "gloss": "present"
@@ -4888,7 +4888,7 @@ data:
       "gloss": "before (temporal)"
       "concept": "before-time"
       "source": {"kind": "coined"}
-    - "form": "zömem"
+    - "form": "zomem"
       "class": "part"
       "field": "Everyday time"
       "gloss": "after"
@@ -4912,7 +4912,7 @@ data:
       "gloss": "until"
       "concept": "until"
       "source": {"kind": "coined"}
-    - "form": "züyedüy"
+    - "form": "zuyeduy"
       "class": "part"
       "field": "Everyday time"
       "gloss": "since a time"
@@ -4930,19 +4930,19 @@ data:
       "gloss": "often"
       "concept": "often"
       "source": {"kind": "coined"}
-    - "form": "jügör"
+    - "form": "jugor"
       "class": "adv"
       "field": "Everyday time"
       "gloss": "sometimes"
       "concept": "sometimes"
       "source": {"kind": "coined"}
-    - "form": "chüris"
+    - "form": "churis"
       "class": "adv"
       "field": "Everyday time"
       "gloss": "rarely"
       "concept": "rarely"
       "source": {"kind": "coined"}
-    - "form": "züyüy"
+    - "form": "zuyuy"
       "class": "adv"
       "field": "Everyday time"
       "gloss": "never"
@@ -4972,7 +4972,7 @@ data:
       "gloss": "lasting; continuing for a sustained period"
       "concept": "lasting-duration"
       "source": {"kind": "coined"}
-    - "form": "zömin"
+    - "form": "zomin"
       "class": "adv"
       "field": "Everyday time"
       "gloss": "again"
@@ -5038,7 +5038,7 @@ data:
       "gloss": "late"
       "concept": "late"
       "source": {"kind": "coined"}
-    - "form": "zeyüd"
+    - "form": "zeyud"
       "class": "adv"
       "field": "Everyday time"
       "gloss": "first; before the other named events in a sequence"
@@ -5197,7 +5197,7 @@ data:
       "gloss": "no one"
       "concept": "no-one"
       "source": {"kind": "coined"}
-    - "form": "zötel"
+    - "form": "zotel"
       "class": "pron"
       "field": "Everyday reference"
       "gloss": "Something"
@@ -5209,7 +5209,7 @@ data:
       "gloss": "anything"
       "concept": "anything"
       "source": {"kind": "coined"}
-    - "form": "jüchekh"
+    - "form": "juchekh"
       "class": "pron"
       "field": "Everyday reference"
       "gloss": "everything"
@@ -5227,19 +5227,19 @@ data:
       "gloss": "other"
       "concept": "other"
       "source": {"kind": "coined"}
-    - "form": "zechökh"
+    - "form": "zechokh"
       "class": "adj"
       "field": "Everyday reference"
       "gloss": "another"
       "concept": "another"
       "source": {"kind": "coined"}
-    - "form": "chüyözükh"
+    - "form": "chuyozukh"
       "class": "adj"
       "field": "Everyday reference"
       "gloss": "Same"
       "concept": "same"
       "source": {"kind": "coined"}
-    - "form": "khübir"
+    - "form": "khubir"
       "class": "adj"
       "field": "Everyday reference"
       "gloss": "different"
@@ -5269,7 +5269,7 @@ data:
       "gloss": "Where (question)"
       "concept": "question-where"
       "source": {"kind": "coined"}
-    - "form": "zömik"
+    - "form": "zomik"
       "class": "pron"
       "field": "Everyday questions"
       "gloss": "When (question)"
@@ -5348,7 +5348,7 @@ data:
       "gloss": "Yes"
       "concept": "yes"
       "source": {"kind": "coined"}
-    - "form": "chövik"
+    - "form": "chovik"
       "class": "call"
       "field": "Everyday truth"
       "gloss": "no"
@@ -5378,7 +5378,7 @@ data:
       "gloss": "Truth"
       "concept": "truth"
       "source": {"kind": "coined"}
-    - "form": "chücherich"
+    - "form": "chucherich"
       "class": "n"
       "field": "Everyday truth"
       "gloss": "a lie; an intentionally deceptive statement"
@@ -5397,7 +5397,7 @@ data:
       "gloss": "Indeed"
       "concept": "indeed"
       "source": {"kind": "coined"}
-    - "form": "zöker"
+    - "form": "zoker"
       "class": "adv"
       "field": "Everyday truth"
       "gloss": "certainly"
@@ -5415,13 +5415,13 @@ data:
       "gloss": "Probably"
       "concept": "probably"
       "source": {"kind": "coined"}
-    - "form": "khöchüzech"
+    - "form": "khochuzech"
       "class": "adv"
       "field": "Everyday truth"
       "gloss": "unlikely"
       "concept": "unlikely"
       "source": {"kind": "coined"}
-    - "form": "jözish"
+    - "form": "jozish"
       "class": "adj"
       "field": "Everyday truth"
       "gloss": "certain; fully sure of a claim, which can still be mistaken"
@@ -5439,7 +5439,7 @@ data:
       "gloss": "Apparently"
       "concept": "apparently"
       "source": {"kind": "coined"}
-    - "form": "jölikh"
+    - "form": "jolikh"
       "class": "adv"
       "field": "Everyday truth"
       "gloss": "supposedly"
@@ -5469,7 +5469,7 @@ data:
       "gloss": "guess"
       "concept": "guess-verb"
       "source": {"kind": "coined"}
-    - "form": "khürös"
+    - "form": "khuros"
       "class": "v"
       "field": "Everyday truth"
       "gloss": "assume"
@@ -5481,13 +5481,13 @@ data:
       "gloss": "Correct"
       "concept": "correct"
       "source": {"kind": "coined"}
-    - "form": "jügülech"
+    - "form": "jugulech"
       "class": "adj"
       "field": "Everyday truth"
       "gloss": "incorrect"
       "concept": "incorrect"
       "source": {"kind": "coined"}
-    - "form": "jübüz"
+    - "form": "jubuz"
       "class": "v"
       "field": "Everyday truth"
       "gloss": "disagree"
@@ -5562,7 +5562,7 @@ data:
       "concept": "otherwise"
       "source": {"kind": "coined"}
       "built": ["jivun", "zevik", "khizin", "qazul"]
-    - "form": "jüvüt"
+    - "form": "juvut"
       "class": "conj"
       "field": "Everyday logic"
       "gloss": "Although"
@@ -5598,20 +5598,20 @@ data:
       "gloss": "for; in order to; so that (purpose)"
       "concept": "for-purpose"
       "source": {"kind": "coined"}
-    - "form": "chübish"
+    - "form": "chubish"
       "class": "part"
       "field": "Everyday logic"
       "gloss": "Like"
       "concept": "like"
       "source": {"kind": "coined"}
-    - "form": "zevik chübish"
+    - "form": "zevik chubish"
       "class": "part"
       "field": "Everyday logic"
       "gloss": "unlike; not like the following comparison"
       "concept": "unlike"
       "source": {"kind": "coined"}
-      "built": ["zevik", "chübish"]
-    - "form": "züser"
+      "built": ["zevik", "chubish"]
+    - "form": "zuser"
       "class": "part"
       "field": "Everyday logic"
       "gloss": "as"
@@ -5666,7 +5666,7 @@ data:
       "gloss": "for example"
       "concept": "for-example"
       "source": {"kind": "coined"}
-    - "form": "jüzövey"
+    - "form": "juzovey"
       "class": "part"
       "field": "Everyday logic"
       "gloss": "Except"
@@ -5726,7 +5726,7 @@ data:
       "gloss": "short in spatial length"
       "concept": "short"
       "source": {"kind": "coined"}
-    - "form": "zügöt"
+    - "form": "zugot"
       "class": "adj"
       "field": "Everyday qualities"
       "gloss": "high"
@@ -5738,7 +5738,7 @@ data:
       "gloss": "low"
       "concept": "low"
       "source": {"kind": "coined"}
-    - "form": "jözezüd"
+    - "form": "jozezud"
       "class": "adj"
       "field": "Everyday qualities"
       "gloss": "tall"
@@ -5762,7 +5762,7 @@ data:
       "gloss": "heavy"
       "concept": "heavy"
       "source": {"kind": "coined"}
-    - "form": "khüber"
+    - "form": "khuber"
       "class": "adj"
       "field": "Everyday qualities"
       "gloss": "light in weight"
@@ -5786,7 +5786,7 @@ data:
       "gloss": "fast"
       "concept": "fast"
       "source": {"kind": "coined"}
-    - "form": "zölin"
+    - "form": "zolin"
       "class": "adj"
       "field": "Everyday qualities"
       "gloss": "slow"
@@ -5844,7 +5844,7 @@ data:
       "concept": "worst"
       "source": {"kind": "coined"}
       "built": ["ghomur", "qazom"]
-    - "form": "jükhiy"
+    - "form": "jukhiy"
       "class": "adj"
       "field": "Everyday qualities"
       "gloss": "important"
@@ -5856,31 +5856,31 @@ data:
       "gloss": "trivial"
       "concept": "trivial"
       "source": {"kind": "coined"}
-    - "form": "khünükh"
+    - "form": "khunukh"
       "class": "adj"
       "field": "Everyday qualities"
       "gloss": "necessary"
       "concept": "necessary"
       "source": {"kind": "coined"}
-    - "form": "khömüy"
+    - "form": "khomuy"
       "class": "adj"
       "field": "Everyday qualities"
       "gloss": "valuable"
       "concept": "valuable"
       "source": {"kind": "coined"}
-    - "form": "züdey"
+    - "form": "zudey"
       "class": "adj"
       "field": "Everyday qualities"
       "gloss": "worthless"
       "concept": "worthless"
       "source": {"kind": "coined"}
-    - "form": "khükheney"
+    - "form": "khukheney"
       "class": "adj"
       "field": "Everyday qualities"
       "gloss": "useful"
       "concept": "useful"
       "source": {"kind": "coined"}
-    - "form": "züben"
+    - "form": "zuben"
       "class": "adj"
       "field": "Everyday qualities"
       "gloss": "useless"
@@ -5892,7 +5892,7 @@ data:
       "gloss": "broken"
       "concept": "broken"
       "source": {"kind": "coined"}
-    - "form": "züyid"
+    - "form": "zuyid"
       "class": "adj"
       "field": "Everyday qualities"
       "gloss": "complete"
@@ -5928,7 +5928,7 @@ data:
       "gloss": "extremely"
       "concept": "extremely"
       "source": {"kind": "coined"}
-    - "form": "zutin"
+    - "form": "zatin"
       "class": "adv"
       "field": "Everyday qualities"
       "gloss": "somewhat"
@@ -5940,7 +5940,7 @@ data:
       "gloss": "slightly"
       "concept": "slightly"
       "source": {"kind": "coined"}
-    - "form": "zötöl"
+    - "form": "zotol"
       "class": "adv"
       "field": "Everyday qualities"
       "gloss": "barely; only just meeting the stated degree"
@@ -5952,7 +5952,7 @@ data:
       "gloss": "too much"
       "concept": "too-much"
       "source": {"kind": "coined"}
-    - "form": "jöyez"
+    - "form": "joyez"
       "class": "adv"
       "field": "Everyday qualities"
       "gloss": "too little"
@@ -5983,39 +5983,39 @@ data:
       "concept": "cannot"
       "source": {"kind": "coined"}
       "built": ["zevik", "qomul"]
-    - "form": "jüven"
+    - "form": "juven"
       "class": "adj"
       "field": "Everyday modality"
       "gloss": "possible; an event can occur, without granting anyone permission"
       "concept": "possible"
       "source": {"kind": "coined"}
-    - "form": "zevik jüven"
+    - "form": "zevik juven"
       "class": "adj"
       "field": "Everyday modality"
       "gloss": "impossible; not possible, without denying permission alone"
       "concept": "impossible"
       "source": {"kind": "coined"}
-      "built": ["zevik", "jüven"]
-    - "form": "jökir"
+      "built": ["zevik", "juven"]
+    - "form": "jokir"
       "class": "v"
       "field": "Everyday modality"
       "gloss": "may; have permission to perform the preceding act, without asserting ability"
       "concept": "may-permission"
       "source": {"kind": "coined"}
-    - "form": "zödir"
+    - "form": "zodir"
       "class": "v"
       "field": "Everyday modality"
       "gloss": "must; be obliged to perform the preceding action"
       "concept": "must"
       "source": {"kind": "coined"}
-    - "form": "zevik qavum zödir"
+    - "form": "zevik qavum zodir"
       "class": "v"
       "field": "Everyday modality"
-      "gloss": "must not go; negation before the action, followed by zödir, obliges refraining from it; replace qavum with the actual action"
+      "gloss": "must not go; negation before the action, followed by zodir, obliges refraining from it; replace qavum with the actual action"
       "concept": "must-not"
       "source": {"kind": "coined"}
-      "built": ["zevik", "qavum", "zödir"]
-    - "form": "jökhen"
+      "built": ["zevik", "qavum", "zodir"]
+    - "form": "jokhen"
       "class": "v"
       "field": "Everyday modality"
       "gloss": "ought; be well advised to perform the preceding action, without imposing an obligation"
@@ -6033,7 +6033,7 @@ data:
       "gloss": "optional"
       "concept": "optional"
       "source": {"kind": "coined"}
-    - "form": "khödüzel"
+    - "form": "khoduzel"
       "class": "adj"
       "field": "Everyday modality"
       "gloss": "Allowed"
@@ -6063,7 +6063,7 @@ data:
       "gloss": "constrained in action; not free to act"
       "concept": "constrained"
       "source": {"kind": "coined"}
-    - "form": "khükhech"
+    - "form": "khukhech"
       "class": "adj"
       "field": "Everyday modality"
       "gloss": "Willing"
@@ -6075,19 +6075,19 @@ data:
       "gloss": "unwilling"
       "concept": "unwilling"
       "source": {"kind": "coined"}
-    - "form": "khüneyis"
+    - "form": "khuneyis"
       "class": "adj"
       "field": "Everyday modality"
       "gloss": "Intended"
       "concept": "intended"
       "source": {"kind": "coined"}
-    - "form": "khükit"
+    - "form": "khukit"
       "class": "adj"
       "field": "Everyday modality"
       "gloss": "accidental"
       "concept": "accidental"
       "source": {"kind": "coined"}
-    - "form": "züvid"
+    - "form": "zuvid"
       "class": "call"
       "field": "Everyday conversation"
       "gloss": "Hello"
@@ -6107,7 +6107,7 @@ data:
       "concept": "expression-welcome"
       "source": {"kind": "coined"}
       "built": ["khilin", "semok", "jochun"]
-    - "form": "zölik"
+    - "form": "zolik"
       "class": "call"
       "field": "Everyday conversation"
       "gloss": "Please"
@@ -6127,20 +6127,20 @@ data:
       "concept": "expression-youre-welcome"
       "source": {"kind": "coined"}
       "built": ["beyuk", "zevik", "jibun"]
-    - "form": "zölik khilin zilir zughuqat"
+    - "form": "zolik khilin zilir zughuqat"
       "class": "call"
       "field": "Everyday conversation"
       "gloss": "excuse me; please allow me the passage or intrusion under discussion"
       "concept": "expression-excuse-me"
       "source": {"kind": "coined"}
-      "built": ["zölik", "khilin", "zilir", "zughuqat"]
-    - "form": "zilir zünes qonir"
+      "built": ["zolik", "khilin", "zilir", "zughuqat"]
+    - "form": "zilir zunes qonir"
       "class": "call"
       "field": "Everyday conversation"
       "gloss": "I am sorry; I feel regret for what happened or for my part in it"
       "concept": "expression-sorry"
       "source": {"kind": "coined"}
-      "built": ["zilir", "zünes", "qonir"]
+      "built": ["zilir", "zunes", "qonir"]
     - "form": "khilin zilir chosich"
       "class": "call"
       "field": "Everyday conversation"
@@ -6148,13 +6148,13 @@ data:
       "concept": "expression-forgive-me"
       "source": {"kind": "coined"}
       "built": ["khilin", "zilir", "chosich"]
-    - "form": "zöker zoqur"
+    - "form": "zoker zoqur"
       "class": "call"
       "field": "Everyday conversation"
       "gloss": "of course; certainly yes"
       "concept": "of-course"
       "source": {"kind": "coined"}
-      "built": ["zöker", "zoqur"]
+      "built": ["zoker", "zoqur"]
     - "form": "khilin zekhil"
       "class": "call"
       "field": "Everyday conversation"
@@ -6162,13 +6162,13 @@ data:
       "concept": "expression-listen"
       "source": {"kind": "coined"}
       "built": ["khilin", "zekhil"]
-    - "form": "khilin chödir"
+    - "form": "khilin chodir"
       "class": "call"
       "field": "Everyday conversation"
       "gloss": "look; the ordinary request naming the addressee and looking"
       "concept": "expression-look"
       "source": {"kind": "coined"}
-      "built": ["khilin", "chödir"]
+      "built": ["khilin", "chodir"]
     - "form": "khilin khuzir"
       "class": "call"
       "field": "Everyday conversation"
@@ -6204,27 +6204,27 @@ data:
       "concept": "expression-stop"
       "source": {"kind": "coined"}
       "built": ["khilin", "qazur"]
-    - "form": "zölik khilin zömin javal"
+    - "form": "zolik khilin zomin javal"
       "class": "call"
       "field": "Everyday conversation"
       "gloss": "please say it again; a request to repeat unheard speech"
       "concept": "expression-pardon"
       "source": {"kind": "coined"}
-      "built": ["zölik", "khilin", "zömin", "javal"]
-    - "form": "zilir zömir"
+      "built": ["zolik", "khilin", "zomin", "javal"]
+    - "form": "zilir zomir"
       "class": "call"
       "field": "Everyday conversation"
       "gloss": "I understand"
       "concept": "expression-i-understand"
       "source": {"kind": "coined"}
-      "built": ["zilir", "zömir"]
-    - "form": "zilir zevik zömir"
+      "built": ["zilir", "zomir"]
+    - "form": "zilir zevik zomir"
       "class": "call"
       "field": "Everyday conversation"
       "gloss": "I do not understand"
       "concept": "expression-i-do-not-understand"
       "source": {"kind": "coined"}
-      "built": ["zilir", "zevik", "zömir"]
+      "built": ["zilir", "zevik", "zomir"]
     - "form": "khilin chivil qaviz"
       "class": "call"
       "field": "Everyday conversation"
@@ -6253,13 +6253,13 @@ data:
       "concept": "expression-really"
       "source": {"kind": "coined"}
       "built": ["chidir", "qusil"]
-    - "form": "chövik zusoz khüvösiz"
+    - "form": "chovik zusoz khuvosiz"
       "class": "call"
       "field": "Everyday conversation"
       "gloss": "not at all; not even a little, an emphatic conversational denial"
       "concept": "expression-not-at-all"
       "source": {"kind": "coined"}
-      "built": ["chövik", "zusoz", "khüvösiz"]
+      "built": ["chovik", "zusoz", "khuvosiz"]
     - "form": "jobuyan"
       "class": "n"
       "field": "Everyday society"
@@ -6278,7 +6278,7 @@ data:
       "gloss": "Man"
       "concept": "man"
       "source": {"kind": "coined"}
-    - "form": "khügibil"
+    - "form": "khugibil"
       "class": "n"
       "field": "Everyday society"
       "gloss": "woman"
@@ -6302,7 +6302,7 @@ data:
       "gloss": "Adult"
       "concept": "adult"
       "source": {"kind": "coined"}
-    - "form": "jönür"
+    - "form": "jonur"
       "class": "n"
       "field": "Everyday society"
       "gloss": "Individual"
@@ -6320,7 +6320,7 @@ data:
       "gloss": "crowd"
       "concept": "crowd"
       "source": {"kind": "coined"}
-    - "form": "zöchön"
+    - "form": "zochon"
       "class": "n"
       "field": "Everyday society"
       "gloss": "community"
@@ -6332,7 +6332,7 @@ data:
       "gloss": "ruler"
       "concept": "ruler"
       "source": {"kind": "coined"}
-    - "form": "chesöböm"
+    - "form": "chesobom"
       "class": "n"
       "field": "Everyday society"
       "gloss": "Worker"
@@ -6356,7 +6356,7 @@ data:
       "gloss": "Name"
       "concept": "name-noun"
       "source": {"kind": "coined"}
-    - "form": "zözedit"
+    - "form": "zozedit"
       "class": "n"
       "field": "Everyday society"
       "gloss": "title"
@@ -6380,19 +6380,19 @@ data:
       "gloss": "tradition"
       "concept": "tradition"
       "source": {"kind": "coined"}
-    - "form": "jelür"
+    - "form": "jelur"
       "class": "n"
       "field": "Everyday society"
       "gloss": "law"
       "concept": "law"
       "source": {"kind": "coined"}
-    - "form": "chöbüd"
+    - "form": "chobud"
       "class": "n"
       "field": "Everyday society"
       "gloss": "rule"
       "concept": "rule"
       "source": {"kind": "coined"}
-    - "form": "zögör"
+    - "form": "zogor"
       "class": "n"
       "field": "Everyday society"
       "gloss": "Order"
@@ -6404,7 +6404,7 @@ data:
       "gloss": "command"
       "concept": "command-noun"
       "source": {"kind": "coined"}
-    - "form": "jükher"
+    - "form": "jukher"
       "class": "n"
       "field": "Everyday society"
       "gloss": "obedience"
@@ -6416,19 +6416,19 @@ data:
       "gloss": "Justice"
       "concept": "justice"
       "source": {"kind": "coined"}
-    - "form": "kherikhökh"
+    - "form": "kherikhokh"
       "class": "n"
       "field": "Everyday society"
       "gloss": "injustice"
       "concept": "injustice"
       "source": {"kind": "coined"}
-    - "form": "zübügim"
+    - "form": "zubugim"
       "class": "adj"
       "field": "Everyday society"
       "gloss": "right; morally acceptable rather than a spatial direction"
       "concept": "right-ethical"
       "source": {"kind": "coined"}
-    - "form": "jelüt"
+    - "form": "jelut"
       "class": "adj"
       "field": "Everyday society"
       "gloss": "wrong; morally unacceptable rather than merely factually incorrect"
@@ -6452,7 +6452,7 @@ data:
       "gloss": "captivity"
       "concept": "captivity"
       "source": {"kind": "coined"}
-    - "form": "jövitir"
+    - "form": "jovitir"
       "class": "n"
       "field": "Everyday society"
       "gloss": "exchange"
@@ -6476,7 +6476,7 @@ data:
       "gloss": "Property"
       "concept": "property"
       "source": {"kind": "coined"}
-    - "form": "khemüm"
+    - "form": "khemum"
       "class": "n"
       "field": "Everyday society"
       "gloss": "ownership"
@@ -6542,7 +6542,7 @@ data:
       "gloss": "completion"
       "concept": "completion"
       "source": {"kind": "coined"}
-    - "form": "khözey"
+    - "form": "khozey"
       "class": "n"
       "field": "Everyday existence"
       "gloss": "Change"
@@ -6578,13 +6578,13 @@ data:
       "gloss": "Reason"
       "concept": "reason"
       "source": {"kind": "coined"}
-    - "form": "khünör"
+    - "form": "khunor"
       "class": "n"
       "field": "Everyday existence"
       "gloss": "purpose"
       "concept": "purpose"
       "source": {"kind": "coined"}
-    - "form": "jeböch"
+    - "form": "jeboch"
       "class": "n"
       "field": "Everyday existence"
       "gloss": "Kind"
@@ -6624,12 +6624,12 @@ data:
       "field": "Everyday things"
       "gloss": "a canal; a channel cut to conduct water"
       "source": {"kind": "coined"}
-    - "form": "jözel"
+    - "form": "jozel"
       "class": "n"
       "field": "Everyday things"
       "gloss": "a stair; a stairway or flight of steps"
       "source": {"kind": "coined"}
-    - "form": "zövek"
+    - "form": "zovek"
       "class": "n"
       "field": "Everyday things"
       "gloss": "a brick; a shaped masonry block"
@@ -6639,7 +6639,7 @@ data:
       "field": "Everyday things"
       "gloss": "oil"
       "source": {"kind": "coined"}
-    - "form": "zünen"
+    - "form": "zunen"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to write"
@@ -6649,12 +6649,12 @@ data:
       "field": "Everyday society"
       "gloss": "a king"
       "source": {"kind": "coined"}
-    - "form": "jönek"
+    - "form": "jonek"
       "class": "n"
       "field": "Everyday things"
       "gloss": "a litter for carrying a person"
       "source": {"kind": "coined"}
-    - "form": "zöret"
+    - "form": "zoret"
       "class": "n"
       "field": "Everyday nature"
       "gloss": "a palm tree"
@@ -6664,7 +6664,7 @@ data:
       "field": "Everyday things"
       "gloss": "a horn; a horn sounded as a signal"
       "source": {"kind": "coined"}
-    - "form": "khözen"
+    - "form": "khozen"
       "class": "n"
       "field": "Everyday nature"
       "gloss": "a reed"
@@ -6674,7 +6674,7 @@ data:
       "field": "Everyday nature"
       "gloss": "a mare; a female horse"
       "source": {"kind": "coined"}
-    - "form": "zökhem"
+    - "form": "zokhem"
       "class": "n"
       "field": "Everyday society"
       "gloss": "a shaman of the steppe rites"
@@ -6694,7 +6694,7 @@ data:
       "field": "Everyday nature"
       "gloss": "a pool"
       "source": {"kind": "coined"}
-    - "form": "chövem"
+    - "form": "chovem"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to strain liquid through a cloth or sieve"
@@ -6709,12 +6709,12 @@ data:
       "field": "Everyday verbs"
       "gloss": "to untie; to release a knot"
       "source": {"kind": "coined"}
-    - "form": "jözir"
+    - "form": "jozir"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to dig"
       "source": {"kind": "coined"}
-    - "form": "chöze"
+    - "form": "choze"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to cut"
@@ -6724,7 +6724,7 @@ data:
       "field": "Everyday verbs"
       "gloss": "to pay; to discharge a stated debt or price"
       "source": {"kind": "coined"}
-    - "form": "zövet"
+    - "form": "zovet"
       "class": "n"
       "field": "Everyday things"
       "gloss": "a line; a row"
@@ -6754,7 +6754,7 @@ data:
       "field": "Everyday things"
       "gloss": "a hole; an opening through a surface"
       "source": {"kind": "coined"}
-    - "form": "jöchen"
+    - "form": "jochen"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to paint"
@@ -6779,7 +6779,7 @@ data:
       "field": "Everyday qualities"
       "gloss": "full of contents; filled to capacity"
       "source": {"kind": "coined"}
-    - "form": "zömol"
+    - "form": "zomol"
       "class": "n"
       "field": "Everyday things"
       "gloss": "a boat"
@@ -6794,12 +6794,12 @@ data:
       "field": "Everyday things"
       "gloss": "a saddle"
       "source": {"kind": "coined"}
-    - "form": "chödel"
+    - "form": "chodel"
       "class": "n"
       "field": "Everyday things"
       "gloss": "a waterskin; a skin container for carrying water"
       "source": {"kind": "coined"}
-    - "form": "zöder"
+    - "form": "zoder"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to spare a person from death or punishment"
@@ -6814,17 +6814,17 @@ data:
       "field": "Everyday verbs"
       "gloss": "to foretell; to predict"
       "source": {"kind": "coined"}
-    - "form": "zökhil"
+    - "form": "zokhil"
       "class": "v"
       "field": "Everyday verbs"
       "gloss": "to tremble; to shiver"
       "source": {"kind": "coined"}
     - {form: qodiror, class: n, field: Derived words, gloss: a mountain range, built: [qodir, -or]}
-    - form: jelüdchaqur
+    - form: jeludchaqur
       class: n
       field: Everyday body
       gloss: eyebrow; the hair of the eye
-      built: [jelüd, chaqur]
+      built: [jelud, chaqur]
     - form: josaqchaqur
       class: n
       field: Everyday body
@@ -6860,7 +6860,7 @@ data:
       field: Everyday verbs
       gloss: "to read; to make out marks, signs or writing, or what a sign shows"
       source: {kind: coined}
-    - form: jebüz
+    - form: jebuz
       class: adj
       field: Everyday qualities
       gloss: "shallow; of little depth"
@@ -6875,11 +6875,11 @@ data:
       field: Derived words
       gloss: "the mare's milk: the white road of stars across the sky in the heat"
       built: [voyer, qonar]
-    - form: zöretchöze
+    - form: zoretchoze
       class: n
       field: Derived words
       gloss: "a cut palm: a palm whose trunk carries a tribe's cut mark; also a star of the star-songs"
-      built: [zöret, chöze]
+      built: [zoret, choze]
     - form: khamaqjivoq
       class: n
       field: Derived words
@@ -6896,12 +6896,12 @@ data:
       gloss: "ochre; the red-yellow of the earth ground for paint"
       source: {kind: coined}
     - {form: mirjolud, class: n, field: Derived words, gloss: a herder, built: [mirjol, -ud]}
-    - form: chüvel
+    - form: chuvel
       class: n
       field: Everyday space
       gloss: "an edge or rim; the margin where one ground ends"
       source: {kind: coined}
-    - {form: zümür, class: n, field: Everyday society, gloss: "a god", source: {kind: coined}}
+    - {form: zumur, class: n, field: Everyday society, gloss: "a god", source: {kind: coined}}
     - form: zamuq
       class: adj
       field: Everyday society
@@ -6912,13 +6912,13 @@ data:
       field: Everyday verbs
       gloss: "to stray; to wander from the way"
       source: {kind: coined}
-    - {form: jüvük, class: n, field: Everyday things, gloss: "a bracelet", source: {kind: coined}}
+    - {form: juvuk, class: n, field: Everyday things, gloss: "a bracelet", source: {kind: coined}}
     - {form: jedorud, class: n, field: Derived words, gloss: a traveller, built: [jedor, -ud]}
-    - form: chözeyud
+    - form: chozeyud
       class: n
       field: Derived words
       gloss: "a cutter, as of salt"
-      built: [chöze, -ud]
+      built: [choze, -ud]
     - form: buzan
       class: n
       field: Everyday things
@@ -6935,11 +6935,11 @@ data:
       field: Everyday verbs
       gloss: "to shoot with a bow"
       source: {kind: coined}
-    - form: züyüchud
+    - form: zuyuchud
       class: n
       field: Derived words
       gloss: "a smith; a worker of metal"
-      built: [züyüch, -ud]
+      built: [zuyuch, -ud]
     - form: ghodaz
       class: v
       field: Everyday verbs
@@ -7051,6 +7051,253 @@ data:
     - {form: Karanat, instead: Dolqonkelod, why: "a Dunhari place name"}
     - {form: Dubzar, instead: Idvaqkelod, why: "a Dunhari place name"}
     - {form: Zamir-Kar, instead: Gorenevod, why: "a Dunhari place name"}
+    - {form: chedüy, instead: cheduy, why: "respelled with plain o and u"}
+    - {form: chekhösh, instead: chekhosh, why: "respelled with plain o and u"}
+    - {form: chekün, instead: chekun, why: "respelled with plain o and u"}
+    - {form: chelölöl, instead: chelolol, why: "respelled with plain o and u"}
+    - {form: chesöböm, instead: chesobom, why: "respelled with plain o and u"}
+    - {form: chevös, instead: chevos, why: "respelled with plain o and u"}
+    - {form: chöbüd, instead: chobud, why: "respelled with plain o and u"}
+    - {form: chödel, instead: chodel, why: "respelled with plain o and u"}
+    - {form: chödir, instead: chodir, why: "respelled with plain o and u"}
+    - {form: chögönöm, instead: chogonom, why: "respelled with plain o and u"}
+    - {form: chöken, instead: choken, why: "respelled with plain o and u"}
+    - {form: chökhes, instead: chokhes, why: "respelled with plain o and u"}
+    - {form: chökhöchöy, instead: chokhochoy, why: "respelled with plain o and u"}
+    - {form: chömel, instead: chomel, why: "respelled with plain o and u"}
+    - {form: chömey, instead: chomey, why: "respelled with plain o and u"}
+    - {form: chömüsil, instead: chomusil, why: "respelled with plain o and u"}
+    - {form: chönez, instead: chonez, why: "respelled with plain o and u"}
+    - {form: chövem, instead: chovem, why: "respelled with plain o and u"}
+    - {form: chövik, instead: chovik, why: "respelled with plain o and u"}
+    - {form: chöyikh, instead: choyikh, why: "respelled with plain o and u"}
+    - {form: chöze, instead: choze, why: "respelled with plain o and u"}
+    - {form: chözemey, instead: chozemey, why: "respelled with plain o and u"}
+    - {form: chözeyud, instead: chozeyud, why: "respelled with plain o and u"}
+    - {form: chözüy, instead: chozuy, why: "respelled with plain o and u"}
+    - {form: chübicher, instead: chubicher, why: "respelled with plain o and u"}
+    - {form: chübish, instead: chubish, why: "respelled with plain o and u"}
+    - {form: chüchem, instead: chuchem, why: "respelled with plain o and u"}
+    - {form: chücherich, instead: chucherich, why: "respelled with plain o and u"}
+    - {form: chüdem, instead: chudem, why: "respelled with plain o and u"}
+    - {form: chüdir, instead: chudir, why: "respelled with plain o and u"}
+    - {form: chügös, instead: chugos, why: "respelled with plain o and u"}
+    - {form: chükhechön, instead: chukhechon, why: "respelled with plain o and u"}
+    - {form: chülik, instead: chulik, why: "respelled with plain o and u"}
+    - {form: chülöz, instead: chuloz, why: "respelled with plain o and u"}
+    - {form: chümikül, instead: chumikul, why: "respelled with plain o and u"}
+    - {form: chümövüs, instead: chumovus, why: "respelled with plain o and u"}
+    - {form: chüremüm, instead: churemum, why: "respelled with plain o and u"}
+    - {form: chüsed, instead: chused, why: "respelled with plain o and u"}
+    - {form: chüsüküd, instead: chusukud, why: "respelled with plain o and u"}
+    - {form: chütiy, instead: chutiy, why: "respelled with plain o and u"}
+    - {form: chüvekhez, instead: chuvekhez, why: "respelled with plain o and u"}
+    - {form: chüvel, instead: chuvel, why: "respelled with plain o and u"}
+    - {form: chüvön, instead: chuvon, why: "respelled with plain o and u"}
+    - {form: chüyöch, instead: chuyoch, why: "respelled with plain o and u"}
+    - {form: chüyökh, instead: chuyokh, why: "respelled with plain o and u"}
+    - {form: chüyözükh, instead: chuyozukh, why: "respelled with plain o and u"}
+    - {form: chüzirey, instead: chuzirey, why: "respelled with plain o and u"}
+    - {form: jeböch, instead: jeboch, why: "respelled with plain o and u"}
+    - {form: jeböd, instead: jebod, why: "respelled with plain o and u"}
+    - {form: jebüz, instead: jebuz, why: "respelled with plain o and u"}
+    - {form: jedöm, instead: jedom, why: "respelled with plain o and u"}
+    - {form: jeleböl, instead: jelebol, why: "respelled with plain o and u"}
+    - {form: jelüd, instead: jelud, why: "respelled with plain o and u"}
+    - {form: jelüdchaqur, instead: jeludchaqur, why: "respelled with plain o and u"}
+    - {form: jelür, instead: jelur, why: "respelled with plain o and u"}
+    - {form: jelüt, instead: jelut, why: "respelled with plain o and u"}
+    - {form: jenöd, instead: jenod, why: "respelled with plain o and u"}
+    - {form: jetökör, instead: jetokor, why: "respelled with plain o and u"}
+    - {form: jöbümil, instead: jobumil, why: "respelled with plain o and u"}
+    - {form: jöchen, instead: jochen, why: "respelled with plain o and u"}
+    - {form: jögish, instead: jogish, why: "respelled with plain o and u"}
+    - {form: jökhen, instead: jokhen, why: "respelled with plain o and u"}
+    - {form: jökherör, instead: jokheror, why: "respelled with plain o and u"}
+    - {form: jökhüt, instead: jokhut, why: "respelled with plain o and u"}
+    - {form: jökinüz, instead: jokinuz, why: "respelled with plain o and u"}
+    - {form: jökir, instead: jokir, why: "respelled with plain o and u"}
+    - {form: jölikh, instead: jolikh, why: "respelled with plain o and u"}
+    - {form: jölön, instead: jolon, why: "respelled with plain o and u"}
+    - {form: jömik, instead: jomik, why: "respelled with plain o and u"}
+    - {form: jönek, instead: jonek, why: "respelled with plain o and u"}
+    - {form: jönit, instead: jonit, why: "respelled with plain o and u"}
+    - {form: jönür, instead: jonur, why: "respelled with plain o and u"}
+    - {form: jörüsikh, instead: jorusikh, why: "respelled with plain o and u"}
+    - {form: jösör, instead: josor, why: "respelled with plain o and u"}
+    - {form: jövitir, instead: jovitir, why: "respelled with plain o and u"}
+    - {form: jöyez, instead: joyez, why: "respelled with plain o and u"}
+    - {form: jözel, instead: jozel, why: "respelled with plain o and u"}
+    - {form: jözezüd, instead: jozezud, why: "respelled with plain o and u"}
+    - {form: jözir, instead: jozir, why: "respelled with plain o and u"}
+    - {form: jözish, instead: jozish, why: "respelled with plain o and u"}
+    - {form: jübüz, instead: jubuz, why: "respelled with plain o and u"}
+    - {form: jüchekh, instead: juchekh, why: "respelled with plain o and u"}
+    - {form: jüchekhem, instead: juchekhem, why: "respelled with plain o and u"}
+    - {form: jüchet, instead: juchet, why: "respelled with plain o and u"}
+    - {form: jüchich, instead: juchich, why: "respelled with plain o and u"}
+    - {form: jüden, instead: juden, why: "respelled with plain o and u"}
+    - {form: jügökh, instead: jugokh, why: "respelled with plain o and u"}
+    - {form: jügör, instead: jugor, why: "respelled with plain o and u"}
+    - {form: jügül, instead: jugul, why: "respelled with plain o and u"}
+    - {form: jügülech, instead: jugulech, why: "respelled with plain o and u"}
+    - {form: jükhem, instead: jukhem, why: "respelled with plain o and u"}
+    - {form: jükher, instead: jukher, why: "respelled with plain o and u"}
+    - {form: jükhiy, instead: jukhiy, why: "respelled with plain o and u"}
+    - {form: jükhükh, instead: jukhukh, why: "respelled with plain o and u"}
+    - {form: jüküt, instead: jukut, why: "respelled with plain o and u"}
+    - {form: jümesh, instead: jumesh, why: "respelled with plain o and u"}
+    - {form: jümey, instead: jumey, why: "respelled with plain o and u"}
+    - {form: jümöch, instead: jumoch, why: "respelled with plain o and u"}
+    - {form: jünid, instead: junid, why: "respelled with plain o and u"}
+    - {form: jürit, instead: jurit, why: "respelled with plain o and u"}
+    - {form: jürör, instead: juror, why: "respelled with plain o and u"}
+    - {form: jürüm, instead: jurum, why: "respelled with plain o and u"}
+    - {form: jüsöd, instead: jusod, why: "respelled with plain o and u"}
+    - {form: jütin, instead: jutin, why: "respelled with plain o and u"}
+    - {form: jüvekh, instead: juvekh, why: "respelled with plain o and u"}
+    - {form: jüvelekh, instead: juvelekh, why: "respelled with plain o and u"}
+    - {form: jüven, instead: juven, why: "respelled with plain o and u"}
+    - {form: jüvüt, instead: juvut, why: "respelled with plain o and u"}
+    - {form: jüyech, instead: juyech, why: "respelled with plain o and u"}
+    - {form: jüyemüz, instead: juyemuz, why: "respelled with plain o and u"}
+    - {form: jüyiz, instead: juyiz, why: "respelled with plain o and u"}
+    - {form: jüzik, instead: juzik, why: "respelled with plain o and u"}
+    - {form: jüzövey, instead: juzovey, why: "respelled with plain o and u"}
+    - {form: jüzüm, instead: juzum, why: "respelled with plain o and u"}
+    - {form: khekhül, instead: khekhul, why: "respelled with plain o and u"}
+    - {form: khemüm, instead: khemum, why: "respelled with plain o and u"}
+    - {form: kherikhökh, instead: kherikhokh, why: "respelled with plain o and u"}
+    - {form: khetön, instead: kheton, why: "respelled with plain o and u"}
+    - {form: khezön, instead: khezon, why: "respelled with plain o and u"}
+    - {form: khezüch, instead: khezuch, why: "respelled with plain o and u"}
+    - {form: khöbed, instead: khobed, why: "respelled with plain o and u"}
+    - {form: khöchöz, instead: khochoz, why: "respelled with plain o and u"}
+    - {form: khöchüzech, instead: khochuzech, why: "respelled with plain o and u"}
+    - {form: khödir, instead: khodir, why: "respelled with plain o and u"}
+    - {form: khödüt, instead: khodut, why: "respelled with plain o and u"}
+    - {form: khödüzel, instead: khoduzel, why: "respelled with plain o and u"}
+    - {form: khökech, instead: khokech, why: "respelled with plain o and u"}
+    - {form: khökes, instead: khokes, why: "respelled with plain o and u"}
+    - {form: khölim, instead: kholim, why: "respelled with plain o and u"}
+    - {form: khömüy, instead: khomuy, why: "respelled with plain o and u"}
+    - {form: khöred, instead: khored, why: "respelled with plain o and u"}
+    - {form: khörel, instead: khorel, why: "respelled with plain o and u"}
+    - {form: khötil, instead: khotil, why: "respelled with plain o and u"}
+    - {form: khötish, instead: khotish, why: "respelled with plain o and u"}
+    - {form: khötünür, instead: khotunur, why: "respelled with plain o and u"}
+    - {form: khöyegöt, instead: khoyegot, why: "respelled with plain o and u"}
+    - {form: khözen, instead: khozen, why: "respelled with plain o and u"}
+    - {form: khözey, instead: khozey, why: "respelled with plain o and u"}
+    - {form: khözin, instead: khozin, why: "respelled with plain o and u"}
+    - {form: khüben, instead: khuben, why: "respelled with plain o and u"}
+    - {form: khüber, instead: khuber, why: "respelled with plain o and u"}
+    - {form: khübir, instead: khubir, why: "respelled with plain o and u"}
+    - {form: khübüsh, instead: khubush, why: "respelled with plain o and u"}
+    - {form: khüdüyiy, instead: khuduyiy, why: "respelled with plain o and u"}
+    - {form: khügibil, instead: khugibil, why: "respelled with plain o and u"}
+    - {form: khügid, instead: khugid, why: "respelled with plain o and u"}
+    - {form: khüket, instead: khuket, why: "respelled with plain o and u"}
+    - {form: khükhech, instead: khukhech, why: "respelled with plain o and u"}
+    - {form: khükheney, instead: khukheney, why: "respelled with plain o and u"}
+    - {form: khükhich, instead: khukhich, why: "respelled with plain o and u"}
+    - {form: khükhöyöm, instead: khukhoyom, why: "respelled with plain o and u"}
+    - {form: khükhüküy, instead: khukhukuy, why: "respelled with plain o and u"}
+    - {form: khükit, instead: khukit, why: "respelled with plain o and u"}
+    - {form: khülez, instead: khulez, why: "respelled with plain o and u"}
+    - {form: khümel, instead: khumel, why: "respelled with plain o and u"}
+    - {form: khüner, instead: khuner, why: "respelled with plain o and u"}
+    - {form: khüneyis, instead: khuneyis, why: "respelled with plain o and u"}
+    - {form: khünör, instead: khunor, why: "respelled with plain o and u"}
+    - {form: khünükh, instead: khunukh, why: "respelled with plain o and u"}
+    - {form: khürös, instead: khuros, why: "respelled with plain o and u"}
+    - {form: khüsit, instead: khusit, why: "respelled with plain o and u"}
+    - {form: khütes, instead: khutes, why: "respelled with plain o and u"}
+    - {form: khütich, instead: khutich, why: "respelled with plain o and u"}
+    - {form: khüvösiz, instead: khuvosiz, why: "respelled with plain o and u"}
+    - {form: khüzem, instead: khuzem, why: "respelled with plain o and u"}
+    - {form: khüziy, instead: khuziy, why: "respelled with plain o and u"}
+    - {form: zebüd, instead: zebud, why: "respelled with plain o and u"}
+    - {form: zechökh, instead: zechokh, why: "respelled with plain o and u"}
+    - {form: zeküch, instead: zekuch, why: "respelled with plain o and u"}
+    - {form: zelükh, instead: zelukh, why: "respelled with plain o and u"}
+    - {form: zemiküm, instead: zemikum, why: "respelled with plain o and u"}
+    - {form: zenökh, instead: zenokh, why: "respelled with plain o and u"}
+    - {form: zesüvin, instead: zesuvin, why: "respelled with plain o and u"}
+    - {form: zetöküs, instead: zetokus, why: "respelled with plain o and u"}
+    - {form: zeyüd, instead: zeyud, why: "respelled with plain o and u"}
+    - {form: zezökükh, instead: zezokukh, why: "respelled with plain o and u"}
+    - {form: zöbölir, instead: zobolir, why: "respelled with plain o and u"}
+    - {form: zöchön, instead: zochon, why: "respelled with plain o and u"}
+    - {form: zöchül, instead: zochul, why: "respelled with plain o and u"}
+    - {form: zöder, instead: zoder, why: "respelled with plain o and u"}
+    - {form: zödir, instead: zodir, why: "respelled with plain o and u"}
+    - {form: zödösh, instead: zodosh, why: "respelled with plain o and u"}
+    - {form: zögör, instead: zogor, why: "respelled with plain o and u"}
+    - {form: zökem, instead: zokem, why: "respelled with plain o and u"}
+    - {form: zöken, instead: zoken, why: "respelled with plain o and u"}
+    - {form: zöker, instead: zoker, why: "respelled with plain o and u"}
+    - {form: zökhem, instead: zokhem, why: "respelled with plain o and u"}
+    - {form: zökhen, instead: zokhen, why: "respelled with plain o and u"}
+    - {form: zökhil, instead: zokhil, why: "respelled with plain o and u"}
+    - {form: zökir, instead: zokir, why: "respelled with plain o and u"}
+    - {form: zölik, instead: zolik, why: "respelled with plain o and u"}
+    - {form: zölin, instead: zolin, why: "respelled with plain o and u"}
+    - {form: zöliz, instead: zoliz, why: "respelled with plain o and u"}
+    - {form: zömem, instead: zomem, why: "respelled with plain o and u"}
+    - {form: zömik, instead: zomik, why: "respelled with plain o and u"}
+    - {form: zömin, instead: zomin, why: "respelled with plain o and u"}
+    - {form: zömir, instead: zomir, why: "respelled with plain o and u"}
+    - {form: zömol, instead: zomol, why: "respelled with plain o and u"}
+    - {form: zönekh, instead: zonekh, why: "respelled with plain o and u"}
+    - {form: zönöt, instead: zonot, why: "respelled with plain o and u"}
+    - {form: zöret, instead: zoret, why: "respelled with plain o and u"}
+    - {form: zöretchöze, instead: zoretchoze, why: "respelled with plain o and u"}
+    - {form: zösit, instead: zosit, why: "respelled with plain o and u"}
+    - {form: zötel, instead: zotel, why: "respelled with plain o and u"}
+    - {form: zötöl, instead: zotol, why: "respelled with plain o and u"}
+    - {form: zötöy, instead: zotoy, why: "respelled with plain o and u"}
+    - {form: zövek, instead: zovek, why: "respelled with plain o and u"}
+    - {form: zövet, instead: zovet, why: "respelled with plain o and u"}
+    - {form: zövey, instead: zovey, why: "respelled with plain o and u"}
+    - {form: zözedit, instead: zozedit, why: "respelled with plain o and u"}
+    - {form: zözül, instead: zozul, why: "respelled with plain o and u"}
+    - {form: züben, instead: zuben, why: "respelled with plain o and u"}
+    - {form: zübügim, instead: zubugim, why: "respelled with plain o and u"}
+    - {form: züchir, instead: zuchir, why: "respelled with plain o and u"}
+    - {form: züchöchüs, instead: zuchochus, why: "respelled with plain o and u"}
+    - {form: züdes, instead: zudes, why: "respelled with plain o and u"}
+    - {form: züdey, instead: zudey, why: "respelled with plain o and u"}
+    - {form: zügöt, instead: zugot, why: "respelled with plain o and u"}
+    - {form: zügüniz, instead: zuguniz, why: "respelled with plain o and u"}
+    - {form: zükhel, instead: zukhel, why: "respelled with plain o and u"}
+    - {form: züles, instead: zules, why: "respelled with plain o and u"}
+    - {form: zülimiz, instead: zulimiz, why: "respelled with plain o and u"}
+    - {form: züliyüz, instead: zuliyuz, why: "respelled with plain o and u"}
+    - {form: züliz, instead: zuliz, why: "respelled with plain o and u"}
+    - {form: zümön, instead: zumon, why: "respelled with plain o and u"}
+    - {form: zünen, instead: zunen, why: "respelled with plain o and u"}
+    - {form: zünes, instead: zunes, why: "respelled with plain o and u"}
+    - {form: zünüd, instead: zunud, why: "respelled with plain o and u"}
+    - {form: züser, instead: zuser, why: "respelled with plain o and u"}
+    - {form: züsesh, instead: zusesh, why: "respelled with plain o and u"}
+    - {form: züsüvöy, instead: zusuvoy, why: "respelled with plain o and u"}
+    - {form: züvid, instead: zuvid, why: "respelled with plain o and u"}
+    - {form: züvün, instead: zuvun, why: "respelled with plain o and u"}
+    - {form: züvüzes, instead: zuvuzes, why: "respelled with plain o and u"}
+    - {form: züyedüy, instead: zuyeduy, why: "respelled with plain o and u"}
+    - {form: züyid, instead: zuyid, why: "respelled with plain o and u"}
+    - {form: züyön, instead: zuyon, why: "respelled with plain o and u"}
+    - {form: züyüch, instead: zuyuch, why: "respelled with plain o and u"}
+    - {form: züyüchud, instead: zuyuchud, why: "respelled with plain o and u"}
+    - {form: züyüy, instead: zuyuy, why: "respelled with plain o and u"}
+    - {form: züzez, instead: zuzez, why: "respelled with plain o and u"}
+    - {form: züzin, instead: zuzin, why: "respelled with plain o and u"}
+    - {form: züziyüt, instead: zuziyut, why: "respelled with plain o and u"}
+    - {form: zümür, instead: zumur, why: "respelled with plain o and u"}
+    - {form: jüvük, instead: juvuk, why: "respelled with plain o and u"}
+    - {form: zütin, instead: zutin, why: "respelled with plain o and u"}
+    - {form: chüris, instead: churis, why: "respelled with plain o and u"}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -7080,7 +7327,7 @@ Sovidur is the clipped speech of the steppe tribes: short syllables and back-of-
 
 ## Sounds
 
-Sovidur is a tongue of two voices. Every stem keeps to one: a back stem is made of _a_, _o_ and _u_ and the throaty _q_ and _gh_; a front stem is made of _e_, _ö_ and _ü_ and the lighter _k_ and _g_; and _i_ sits with either. Round it run the scraped _kh_, the hissing _sh_ and _z_, the affricates _ch_ and _j_, and long vowels. Words close on a consonant or a vowel and never open on _r_. It has no _p_, no _h_, no _f_, no _w_ and no _ts_.
+Sovidur is a tongue of two voices. Every stem keeps to one: a back stem is made of _a_, _o_ and _u_ and the throaty _q_ and _gh_; a front stem is made of _e_ and the lighter _k_ and _g_; and _i_ sits with either. A stem written with _o_ or _u_ keeps the group it was coined in, and its endings stay as written. Round it run the scraped _kh_, the hissing _sh_ and _z_, the affricates _ch_ and _j_, and long vowels. Words close on a consonant or a vowel and never open on _r_. It has no _p_, no _h_, no _f_, no _w_ and no _ts_.
 
 Its words are written in the setting's one guide; see [[doc-prnncthlrn|Pronouncing Thalorna]].
 
@@ -7114,7 +7361,7 @@ A syllable opens on one consonant or on nothing and closes on nothing or on one 
 
 **The velars follow the group.** _q_ and _gh_ belong to back stems and _k_ and _g_ to front ones: _qodir_ and _kelod_, _savagh_ "moon" and _goren_ "storm".
 
-**Every stem carries a signature sound:** a _q_, _gh_, _kh_, _ch_, _j_ or _z_, an _o_, an _ö_ or a _ü_. The _kh_ of _khamaq_ "skull", the _j_ of _jilaq_ "lantern" and the _o_ of _jedor_ "road" mark a word as Sovidur even when it is heard alone.
+**Every stem carries a signature sound:** a _q_, _gh_, _kh_, _ch_, _j_ or _z_, an _o_ or a _u_. The _kh_ of _khamaq_ "skull", the _j_ of _jilaq_ "lantern" and the _o_ of _jedor_ "road" mark a word as Sovidur even when it is heard alone.
 
 ### Stress
 
@@ -7165,9 +7412,9 @@ Each tribe has its chief, the _dovaq_. The tribes stand alone. Now and then a di
 
 ## Verse
 
-Sovidur verse is sung or spoken without an instrument, and it does not rhyme. Its line has four beats. A Sovidur word of two syllables or more carries one beat, and nearly every Sovidur word has two syllables or three, so a line is four words long; a word of four syllables, such as _oroqidur_, may carry a second, lighter beat and stand for two. A sentence runs on from one line into the next wherever it needs to, and the count goes on. The craft is in return. A run of lines opens on the same words, as _sovid jorukhoz_, _sovid qozabum_ and _sovid qozabum_, "before the Rider", "under the Rider" and "under the Rider", open three sentences running in the star-song. A run of clauses keeps one frame and changes one word, as in _orolqi zökhem zevik qanash. orolqi ghachaa zevik qanash._, "shamans are not killed. children are not killed." A fixed phrase returns in the same words wherever the work needs it. Two forms are kept.
+Sovidur verse is sung or spoken without an instrument, and it does not rhyme. Its line has four beats. A Sovidur word of two syllables or more carries one beat, and nearly every Sovidur word has two syllables or three, so a line is four words long; a word of four syllables, such as _oroqidur_, may carry a second, lighter beat and stand for two. A sentence runs on from one line into the next wherever it needs to, and the count goes on. The craft is in return. A run of lines opens on the same words, as _sovid jorukhoz_, _sovid qozabum_ and _sovid qozabum_, "before the Rider", "under the Rider" and "under the Rider", open three sentences running in the star-song. A run of clauses keeps one frame and changes one word, as in _orolqi zokhem zevik qanash. orolqi ghachaa zevik qanash._, "shamans are not killed. children are not killed." A fixed phrase returns in the same words wherever the work needs it. Two forms are kept.
 
-- **The _koyoz_, the song**, opens each stanza on the thing the stanza is about and closes every stanza on the same two lines. In a star-song the thing is a star, named alone at the head of the stanza's first line, and the two closing lines are the song's own sentence: in the Oroqidur star-song they are _uruvol zilich qozabum jochun. zilich khacham khödir sovoz._, "the water is under us. we ride on the roof."
+- **The _koyoz_, the song**, opens each stanza on the thing the stanza is about and closes every stanza on the same two lines. In a star-song the thing is a star, named alone at the head of the stanza's first line, and the two closing lines are the song's own sentence: in the Oroqidur star-song they are _uruvol zilich qozabum jochun. zilich khacham khodir sovoz._, "the water is under us. we ride on the roof."
 - **The _oqod_, the calling**, is spoken by the eldest, and the children answer. Each wind is called in the same two lines, with only the wind and its count changed: _uruvaq volket ghozun. uruvaq yitboq._, "wind from the grass. first wind." The children's answer is a line of four beats, most often the eldest's last line said back, or a short phrase said twice, as in _zevik chikin, zevik chikin_, "not here, not here". A witnessed word quoted in a calling keeps its own words, and the children say it back whole.
 
 ## Writing
@@ -7180,7 +7427,7 @@ The Sovidur write nothing but signs. Each tribe has a mark, cut into the stone o
 
 The older stem list also supplies ordinary free words. The new ordinary citations state their class and keep the old senses: _kodu_ is a horse, _uruvol_ water, _akhaq_ a father and _semok_ a guest. A personal or place name remains a name; its ordinary stem is cited separately where needed. No older word, name or register entry is respelled here.
 
-Keep the established sound group of an existing stem, including a legacy spelling that does not look regular beside a new coin. New stems use one front or back group, with _i_ neutral. In ordinary reading, _ö_ is _e_ said with rounded lips, and _ü_ is _i_ said with rounded lips. Plain _e_ and _i_ are also fine for players. These letters identify vowels, not pitch or stress. Hold a doubled vowel; otherwise stress the final syllable, as the earlier sound rules state. No extra accent is required.
+Keep the established sound group of an existing stem, including a legacy spelling that does not look regular beside a new coin. New stems use one front or back group, with _i_ neutral. Every vowel is said as written, _o_ as _o_ and _u_ as _u_. These letters identify vowels, not pitch or stress. Hold a doubled vowel; otherwise stress the final syllable, as the earlier sound rules state. No extra accent is required.
 
 An ordinary word has at most four syllables. Use separate head and modifier words when joining them would exceed that limit. Existing proper names retain their recorded forms. Each part of an actual compound keeps its own harmony; vowel meetings take _y_, equal consonants merge, and suffixes use their stated front or back form. The endings _-ur_, _-oq/-ok_, _-or_, _-ud_ and _-lun_ retain their listed meanings. None is a general plural or a verb ending.
 
@@ -7190,9 +7437,9 @@ Ordinary clauses put the subject first, the object next and the verb last: SOV. 
 
 _zilir uruvol ghunir_ means “I drink water”.
 
-_khilin zilir zöken_ means “you see me”.
+_khilin zilir zoken_ means “you see me”.
 
-_zilir khilin zöken_ means “I see you”.
+_zilir khilin zoken_ means “I see you”.
 
 The same form can describe a present, past or future act when its time is stated or understood. A time word normally begins the clause. It does not change the verb. _zorut zilir uruvol ghunir_ means “yesterday I drank water”. _chunaron zilir qavum_ means “tomorrow I go”.
 
@@ -7212,15 +7459,15 @@ Possession places _jiven_ after the possessor, with the possessed head first. _k
 
 A locative relation can express belonging without turning the ordinary have verb into a new case form. _kodu zilir jiven jochun_ means “the horse is mine”. The separately cited verb for belong takes the possessor as its object.
 
-Use the reflexive word for the subject's own person; it is not a new possessive suffix. _zilir qonod zöken_ means “I see myself”. _qadul qonod zöken_ means “she sees herself”.
+Use the reflexive word for the subject's own person; it is not a new possessive suffix. _zilir qonod zoken_ means “I see myself”. _qadul qonod zoken_ means “she sees herself”.
 
-A finite description can follow its head between _zokhun_ and _zökhen_. Repeat the head's reference with an ordinary pronoun inside that clause. _kodu zokhun zilir qadiz zöken zökhen_ means “the horse that I see”. Here _qadiz_ refers back to _kodu_. The closing word makes the end audible.
+A finite description can follow its head between _zokhun_ and _zokhen_. Repeat the head's reference with an ordinary pronoun inside that clause. _kodu zokhun zilir qadiz zoken zokhen_ means “the horse that I see”. Here _qadiz_ refers back to _kodu_. The closing word makes the end audible.
 
 ### Place, recipients and accompaniment
 
 Relation words follow their noun or pronoun. Put those groups before the final verb. _zilir khilin qotur uruvol zovad_ means “I give water to you”. _zilir kelod qotur qavum_ means “I go to the well”. _zilir ghotaz ghozun jodur_ means “I come from the tent”.
 
-_zilir ghotaz jömik jochun_ means “I am in the tent”. _qibud diqraq khödir jochun_ means “the token is on the stone”.
+_zilir ghotaz jomik jochun_ means “I am in the tent”. _qibud diqraq khodir jochun_ means “the token is on the stone”.
 
 Space and time use distinct citations. The words for spatial front, temporal before, up, high, and greater quantity are not interchangeable. Use a named reference with a spatial relation when here would leave it unclear.
 
@@ -7228,11 +7475,11 @@ _Chovin_ follows a companion or accompanying object. _zilir khilin chovin qavum_
 
 ### Negatives and questions
 
-Put _zevik_ immediately before the verb or property being denied. _zilir khilin zevik zöken_ means “I do not see you”. _kodu zevik yaqnar jochun_ means “the horse is not big”.
+Put _zevik_ immediately before the verb or property being denied. _zilir khilin zevik zoken_ means “I do not see you”. _kodu zevik yaqnar jochun_ means “the horse is not big”.
 
-_Chövik_ is a negative answer, not a general negator inside a clause. _Zoqur_ is an affirmative answer. _Chidir_ at the beginning asks whether the complete following proposition holds. _chidir khilin zilir zöken_ means “do you see me”.
+_Chovik_ is a negative answer, not a general negator inside a clause. _Zoqur_ is an affirmative answer. _Chidir_ at the beginning asks whether the complete following proposition holds. _chidir khilin zilir zoken_ means “do you see me”.
 
-An information question leaves the questioned expression in its ordinary place and does not add _chidir_. _khilin chivil zöken_ means “what do you see”. _jimiz jodur_ means “who comes”. _khilin qovar qotur qavum_ means “where are you going”. _zömik khilin jodur_ means “when do you come”.
+An information question leaves the questioned expression in its ordinary place and does not add _chidir_. _khilin chivil zoken_ means “what do you see”. _jimiz jodur_ means “who comes”. _khilin qovar qotur qavum_ means “where are you going”. _zomik khilin jodur_ means “when do you come”.
 
 _kodu jimiz jiven jochun_ means “whose horse is it”. _kodu jodir chivil jochun_ means “how many horses are there”. _uruvol qozin chivil jochun_ means “how much water is there”.
 
@@ -7252,13 +7499,13 @@ The separate greatest and least degree words apply within the comparison set sup
 
 ### Joining, conditions and reports
 
-_Jiviz_ joins named things or complete clauses; _zovul_ offers alternatives and _khazur_ contrasts them. _zilir jodur jiviz khilin qavum_ means “I come and you go”. _kodu jiviz gured_ means “horse and camel”. Use _chüdir_ after a coordinated noun group when the next words could otherwise be mistaken for another member.
+_Jiviz_ joins named things or complete clauses; _zovul_ offers alternatives and _khazur_ contrasts them. _zilir jodur jiviz khilin qavum_ means “I come and you go”. _kodu jiviz gured_ means “horse and camel”. Use _chudir_ after a coordinated noun group when the next words could otherwise be mistaken for another member.
 
 _Qavol_ introduces the reason after the assertion it explains. _zilir qavum qavol khilin jodur_ means “I go because you come”.
 
 A condition begins with _jivun_; _qazul_ introduces its consequence. _jivun khilin jodur, qazul zilir qavum_ means “if you come, then I go”. In the fixed conjunction _jivun zevik_, the negative covers the complete following condition: _jivun zevik khilin jodur, qazul zilir qavum_ means “unless you come, I go”. The words for temporal then and conditional consequence remain distinct.
 
-A reported proposition begins with _jidir_ and ends with _zökhen_, and occupies an ordinary object position. _zilir jidir khilin jodur zökhen kholiqin_ means “I know that you come”. _qaduch jidir khilin jodur zökhen javal_ means “they say that you come”. The report does not establish the reported claim as true.
+A reported proposition begins with _jidir_ and ends with _zokhen_, and occupies an ordinary object position. _zilir jidir khilin jodur zokhen kholiqin_ means “I know that you come”. _qaduch jidir khilin jodur zokhen javal_ means “they say that you come”. The report does not establish the reported claim as true.
 
 _Chuzir_ marks uncertainty over the complete following clause: _chuzir khilin jodur_ means “perhaps you come; you might come”. Belief, confidence, complete assurance and truth have different words; a speaker's certainty does not turn a false claim into truth.
 
@@ -7266,21 +7513,21 @@ _Chuzir_ marks uncertainty over the complete following clause: _chuzir khilin jo
 
 A modal follows the action, at the end of the clause. _zilir uruvol ghunir qomul_ means “I can drink water”. _zilir uruvol ghunir zevik qomul_ means “I cannot drink water”. This is ability, not permission.
 
-_khilin qavum jökir_ means “you may go”. Permission can be granted without asserting ability. The ordinary permit and prohibit verbs name the person as object when the proposed action is already under discussion.
+_khilin qavum jokir_ means “you may go”. Permission can be granted without asserting ability. The ordinary permit and prohibit verbs name the person as object when the proposed action is already under discussion.
 
-_zilir qavum zödir_ means “I must go”. _zilir zevik qavum zödir_ means “I must not go”. _zilir qavum zevik zödir_ means “I do not have to go”. Negating the action and negating the obligation have different scopes.
+_zilir qavum zodir_ means “I must go”. _zilir zevik qavum zodir_ means “I must not go”. _zilir qavum zevik zodir_ means “I do not have to go”. Negating the action and negating the obligation have different scopes.
 
-_khilin khogham jökhen_ means “you ought to sleep”. Advice does not impose the obligation expressed by _zödir_.
+_khilin khogham jokhen_ means “you ought to sleep”. Advice does not impose the obligation expressed by _zodir_.
 
 Possible and impossible describe whether an event can happen. Allowed and forbidden describe permission; optional describes an act that is allowed without being required. These are separately usable state words with _jochun_. A modal of ability never supplies a moral or legal permission.
 
 ### Requests, courtesy and registers
 
-A request uses the ordinary addressee and action with no special verb ending. _khilin zekhil_ means “listen”. _khilin chikin jodur_ means “come here”. _khilin zilir qorim_ means “help me”. Add _zölik_ for please. Context distinguishes the direct request from an assertion about the addressee.
+A request uses the ordinary addressee and action with no special verb ending. _khilin zekhil_ means “listen”. _khilin chikin jodur_ means “come here”. _khilin zilir qorim_ means “help me”. Add _zolik_ for please. Context distinguishes the direct request from an assertion about the addressee.
 
 Conventional calls are cited whole. _khilin semok jochun_ means “welcome”. _zilir qakhuch qonir_ means “thank you”. _beyuk zevik jibun_ means “you are welcome”. The gift-and-debt wording is a fixed courtesy; it does not turn every emotion into an account.
 
-_zilir zünes qonir_ means “I am sorry”. _khilin zilir chosich_ means “forgive me”. _zölik khilin zömin javal_ means “please say that again”.
+_zilir zunes qonir_ means “I am sorry”. _khilin zilir chosich_ means “forgive me”. _zolik khilin zomin javal_ means “please say that again”.
 
 Formal witnessed speech keeps the same ordinary grammar. It states the participants, quantity, place and time explicitly and repeats the actual promise aloud. An undertaking is expressed with the ordinary promise verb; no new tense, case or ceremonial verb ending is required. Everyday speech can omit what both parties already know.
 

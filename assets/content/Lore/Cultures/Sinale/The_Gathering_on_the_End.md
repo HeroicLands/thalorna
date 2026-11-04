@@ -70,15 +70,15 @@ eho olnaro oso luuro ehii eirandi nuuvanutos ellun oltandi nuuvanu/
 tupe ehi onsa ennos kauve eso lentas torvel vennas torvel/
 .olnaro ilte onsa velti ilte onsa ummes onsa velti/
 kelsa ovuu olnaro oltandiho tupe ehi oltandi tylne ahi velpe onsa/
-.seltai luuronno tupe heëve tylne uulse tenvas rosel/
+.seltai luuronno tupe heeve tylne uulse tenvas rosel/
 oltandi iha irna ehi onsa ummes unturoho vennas erni ehi onsa velti olnaroho ehi/
 .ahi hessave lirne ehi iha seltai ehi uvi seltai nuuvanu vennâs ahi seltai onsǎ/
 seltai olnaro sendeppi nerrava nerrava velti ilte olnaro/
 .luuro ovuu iha nuuvanu vennas uttes orvessaho uttes olnaro onsa tennai onsa/
-erni ehii iha ummes oso leëvi ihaho osotos setty ehii maviho/
+erni ehii iha ummes oso leevi ihaho osotos setty ehii maviho/
 [.\[…\]]{lang=zxx}/
 evatte ehi elneri velti ilte talnava nerrava velti ilte olnaro/
-.evatte ehi entel seltai salnava luuronno seltai talnava luuro luuronno heëve uulse erme/
+.evatte ehi entel seltai salnava luuronno seltai talnava luuro luuronno heeve uulse erme/
 ahi sirneta ehi salnava luuronno entel kessave ovu ehi uvi seltai nerravâ setty ehi hisselo ahi erni ehi/
 .entel kessave ovu ehi uvi seltai íha talnava evatte ehi seltai onsa olnaro onsa luuro luuronno onsa insu kelsa ovu túpe luuronno onsa
 :::
@@ -122,7 +122,7 @@ Tellakitta sang that the world ends when its singer stops. I say it ends when it
 leltai ehi torvel irvattosto lentaso kinsa onsa ehi alken vauttirsaho tunes leltai ehi onsa insu/
 .vonu uttes torvel onsatos aldis onsa eirandi torveltos rendatto onsa olmarnaho leltai ehi onsa erme/
 rivy ummes toimunuho vennas pelpe lauppi raakke polpe onsa polpe onsa sulmeho/
-.ahi seltai lauppi leësy ehi irnarsatos ahi halpe ehi onsa oirava lauppi raakke polpe onsa/
+.ahi seltai lauppi leesy ehi irnarsatos ahi halpe ehi onsa oirava lauppi raakke polpe onsa/
 mairel elnerinu vonu sorvel olmarna olmarnaho alken ilte unturoho elki/
 .halte ehi olmarna ahi eho rendatto esoho kalpe ehi talkevi setty torvel ummes ehi leltairsaho/
 uttes meravinno onsa pehe polpe ulsen pehe meravinno aume ulsen/
@@ -175,11 +175,11 @@ yinse ehi leiken ervu ehi yinserse vennas vonu sorvel soimutekkiretos vennas/
 luuro ovuu sipes seltai luuronno seltai leltainno uvi seltai movî sirneta ovuu ehii lirne ilte oso seltai/
 .entel seltai ehii lirne kerrai onsa velnari ahi seltai lirne oso olkai eho onsaa oluho/
 kelsa ehii kessari enneli hyrreho lonku issalteho uttes muuvu evesi vennas tunes/
-.vaissa onsaa onsaa lirne ilte polpeho leëvi uttes muuvu vennas kessave onsaa hyrre uvi vaukka onsa mavihô/
-ahi vandel ehii onsaa vaukka onsaa leësyhe kauve onsaa ahi halpe ehii onsaa leësy ávetti iha irna ehi iha ulsen/
-.evatte ehi kauve ehii erme ahi halpe ehii ehii leësy onsaa evesi oltandi eho onsaa sylpe oltandi/
+.vaissa onsaa onsaa lirne ilte polpeho leevi uttes muuvu vennas kessave onsaa hyrre uvi vaukka onsa mavihô/
+ahi vandel ehii onsaa vaukka onsaa leesyhe kauve onsaa ahi halpe ehii onsaa leesy ávetti iha irna ehi iha ulsen/
+.evatte ehi kauve ehii erme ahi halpe ehii ehii leesy onsaa evesi oltandi eho onsaa sylpe oltandi/
 ahi eho ehii ylpirse oltandi ahi supe ovuu kessari ahi raakke ehii onsa onsaa kessari onsa tunes ahi raakke ehii onsa/
-.tellakitta eilavanto luuro ovu luuro luuronno heëve uulse entel iha seltai aume luuro ovu ehi evakka/
+.tellakitta eilavanto luuro ovu luuro luuronno heeve uulse entel iha seltai aume luuro ovu ehi evakka/
 pelpe lenti setty lenti leikeno untǔro ilte uulse pelpe lenti ennos setty lenti ahi eho uttes
 :::
 
@@ -247,7 +247,7 @@ evatte ehi seltai talnava aukkessa aunekke lirne vennas ummes esoho ossendaho il
 .ahi erni talnava iha aunekke aldevano setty lenti sautteno aldesse polpeho eso leikeno aurannos/
 oltandi oso yinse ehi iha yinse ehi oltandi ilte aunekke lirne vennas esoho tupe tupenno onsaa/
 .elnis ilte sennaveho ilte uttes elnis ahi erni onsa iha uttes elnis/
-erni ehii ollevi leësy erdavi aulveira ollevi eho onsaa ollevikkoho ahi eho aulirakko iha evakkatos aurannos osotos seimakata ehii ummes iha/
+erni ehii ollevi leesy erdavi aulveira ollevi eho onsaa ollevikkoho ahi eho aulirakko iha evakkatos aurannos osotos seimakata ehii ummes iha/
 .ahi erni ehi uvi eho ollevikko uulse salnava oltandî kessave ehi lirne sipes kerrai onsaa velnari eho onsaa ollevikkoho patten onsaa ahi erni onsaa iha erme
 :::
 
