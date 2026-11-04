@@ -3,13 +3,13 @@ shortcode: crsyhrvlnhng
 name: {full: The Curse of Yarvalen Henge}
 type: scenario
 subType: adventure
+tags: [draft]
 data:
   parents: []
   locations: [provenzrgn]
   cast: []
   factions: []
   follows: []
-  status: draft
   party: {size: null, archetypes: []}
   packFolder: adventures
 ---

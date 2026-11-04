@@ -11,7 +11,6 @@ data:
   cast: []
   factions: [strmcltsbzhrms]
   follows: []
-  status: draft
   party: {size: null, archetypes: []}
   packFolder: adventures
 ---

@@ -3,14 +3,13 @@ shortcode: bndtscrvlvl
 name: {full: The Bandits of Keravel Vale}
 type: scenario
 subType: adventure
-tags: [blood-and-ashes-in-ceravel-vale]
+tags: [blood-and-ashes-in-ceravel-vale, draft]
 data:
   parents: [bldshscrvlvl]
   locations: [provenzrgn]
   cast: []
   factions: []
   follows: []
-  status: draft
   party: {size: null, archetypes: []}
   packFolder: bloodandashesinceravelvale
 ---

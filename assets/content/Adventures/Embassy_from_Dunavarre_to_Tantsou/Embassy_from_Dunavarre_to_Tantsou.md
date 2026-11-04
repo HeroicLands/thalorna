@@ -3,6 +3,7 @@ shortcode: embsydnvrtantsou
 name: {full: Embassy from Dunavarre to Tantsou}
 type: scenario
 subType: adventure
+tags: [draft]
 data:
   parents: []
   locations: [aelwyth, elavendre, tantsouregin]
@@ -26,7 +27,6 @@ data:
     - rickarluavel
   factions: []
   follows: []
-  status: draft
   party: {size: null, archetypes: []}
   packFolder: adventures
 ---

@@ -3,13 +3,13 @@ shortcode: pechszrvln
 name: {full: The Peaches of Zuravlen}
 type: scenario
 subType: adventure
+tags: [draft]
 data:
   parents: []
   locations: [zuravlenrgn, provenzrgn]
   cast: []
   factions: []
   follows: []
-  status: draft
   party: {size: null, archetypes: []}
   packFolder: adventures
 ---

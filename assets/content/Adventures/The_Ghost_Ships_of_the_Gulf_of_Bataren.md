@@ -3,13 +3,13 @@ shortcode: ghstshpsglfbtrn
 name: {full: The Ghost Ships of the Gulf of Bataren}
 type: scenario
 subType: adventure
+tags: [draft]
 data:
   parents: []
   locations: [provenzrgn]
   cast: []
   factions: []
   follows: []
-  status: draft
   party: {size: null, archetypes: []}
   packFolder: adventures
 ---

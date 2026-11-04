@@ -20,7 +20,6 @@ data:
     - nagaritgaj
   factions: [mrchntclctvvdyr, chendrapur, vyalendra2, agmipantra, thresholdkeepers, twilighths]
   follows: []
-  status: draft
   party: {size: null, archetypes: []}
   packFolder: adventures
 ---

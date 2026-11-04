@@ -3,14 +3,13 @@ shortcode: firsbldhls
 name: {full: The Fires of the Blood Hills}
 type: scenario
 subType: adventure
-tags: [blood-and-ashes-in-ceravel-vale]
+tags: [blood-and-ashes-in-ceravel-vale, draft]
 data:
   parents: [bldshscrvlvl]
   locations: [provenzrgn]
   cast: []
   factions: []
   follows: [webdeceit]
-  status: draft
   party: {size: null, archetypes: []}
   packFolder: bloodandashesinceravelvale
 ---

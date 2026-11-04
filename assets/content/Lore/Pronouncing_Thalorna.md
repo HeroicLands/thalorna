@@ -136,7 +136,7 @@ data:
     marks:
       - {mark: acute, letters: [á, é, í, ó, ú, ý], kind: stress, limit: one}
       - {mark: diaeresis, letters: [ä, ë, ï, ö, ü], kind: apart, limit: any}
-      - {mark: grave, letters: [à, ì, ò, ù], kind: length, limit: any}
+      - {mark: grave, letters: [à, ì, ò, ù], kind: quality, limit: any}
 ---
 
 Pronouncing Thalorna sets out one transcription system. None of the peoples of [[place-worldthlrn|the World of Thalorna]] write in Roman letters. The common transcription below gives every tongue, Aelwythi included, one set of readings, so a word can be said from its spelling alone.

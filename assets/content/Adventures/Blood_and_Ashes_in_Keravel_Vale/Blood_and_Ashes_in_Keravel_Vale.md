@@ -3,14 +3,13 @@ shortcode: bldshscrvlvl
 name: {full: Blood and Ashes in Keravel Vale}
 type: scenario
 subType: campaign
-tags: [blood-and-ashes-in-ceravel-vale]
+tags: [blood-and-ashes-in-ceravel-vale, draft]
 data:
   parents: []
   locations: [provenzrgn]
   cast: []
   factions: []
   follows: []
-  status: draft
   party: {size: null, archetypes: []}
   packFolder: bloodandashesinceravelvale
 ---

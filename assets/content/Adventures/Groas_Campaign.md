@@ -3,13 +3,13 @@ shortcode: groascmpgn
 name: {full: Groa's Campaign}
 type: scenario
 subType: adventure
+tags: [draft]
 data:
   parents: []
   locations: []
   cast: [grosdrnrgd, hlrthsldhrngsdtr, njorven, knghlrthni]
   factions: []
   follows: []
-  status: draft
   party: {size: null, archetypes: []}
   packFolder: adventures
 ---

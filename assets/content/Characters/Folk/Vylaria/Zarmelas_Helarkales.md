@@ -14,7 +14,7 @@ data:
   culture: vylarianclt
   homes: [palvar]
   affiliations:
-    vylarinmpr: {rank: 8, office: Orzas}
+    vylarinmpr: {rank: 8, office: [Orzas, Lusos]}
     imperialcult: {rank: 2, office: Sarnaks Maldor}
   socialTies:
     being-drvnsrlln: dependent

@@ -30,7 +30,6 @@ data:
     - viduliyadan
   factions: [shikhalaya, osketguides, hvarnguides, janpdsvdyr, mrchntclctvvdyr]
   follows: []
-  status: draft
   party: {size: null, archetypes: []}
   packFolder: adventures
 ---

@@ -19,7 +19,6 @@ data:
   cast: [umrtdrtn, svnshvrdzn, drtpjdvtn, prtmjkydr, devanurvasa]
   factions: [bhumipal, dunhartrbs, svapnasarisameja, kngdmmrdd, mrchntclctvvdyr]
   follows: []
-  status: draft
   party: {size: null, archetypes: []}
   packFolder: adventures
 ---

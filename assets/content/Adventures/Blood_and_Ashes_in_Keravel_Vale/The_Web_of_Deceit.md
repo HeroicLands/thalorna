@@ -3,14 +3,13 @@ shortcode: webdeceit
 name: {full: The Web of Deceit}
 type: scenario
 subType: adventure
-tags: [blood-and-ashes-in-ceravel-vale]
+tags: [blood-and-ashes-in-ceravel-vale, draft]
 data:
   parents: [bldshscrvlvl]
   locations: [provenzrgn]
   cast: []
   factions: []
   follows: [bndtscrvlvl]
-  status: draft
   party: {size: null, archetypes: []}
   packFolder: bloodandashesinceravelvale
 ---

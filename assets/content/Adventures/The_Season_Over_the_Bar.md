@@ -11,7 +11,6 @@ data:
   cast: [vjrtnsrntk, priturajasam, senpvvkrmd, darmejadar, garunyataray, samuratrat, jslvrdb]
   factions: [chendrapur, vyalendra2, nshrnchmk, mrchntclctvvdyr, empireakhlth, srvdmthjnpd]
   follows: []
-  status: draft
   party: {size: null, archetypes: []}
   packFolder: adventures
 ---

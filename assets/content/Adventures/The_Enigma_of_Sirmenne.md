@@ -3,13 +3,13 @@ shortcode: engmsrmnn
 name: {full: The Enigma of Sirmenne}
 type: scenario
 subType: adventure
+tags: [draft]
 data:
   parents: []
   locations: [provenzrgn]
   cast: []
   factions: []
   follows: []
-  status: draft
   party: {size: null, archetypes: []}
   packFolder: adventures
 ---

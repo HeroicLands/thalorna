@@ -10,7 +10,6 @@ data:
   cast: []
   factions: []
   follows: []
-  status: draft
   party: {size: null, archetypes: []}
   packFolder: bloodandashesinceravelvale
 ---

@@ -27,7 +27,6 @@ data:
     - ganokashalda
     - triyangasampradeya
   follows: []
-  status: draft
   party: {size: null, archetypes: []}
   packFolder: adventures
 ---

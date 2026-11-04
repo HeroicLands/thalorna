@@ -3,13 +3,13 @@ shortcode: lstrlcmnvrby
 name: {full: The Lost Relic of Menavar Abbey}
 type: scenario
 subType: adventure
+tags: [draft]
 data:
   parents: []
   locations: [provenzrgn]
   cast: []
   factions: []
   follows: []
-  status: draft
   party: {size: null, archetypes: []}
   packFolder: adventures
 ---
