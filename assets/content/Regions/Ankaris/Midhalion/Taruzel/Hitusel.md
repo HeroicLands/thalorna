@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [visizel]
   population: 2000
+  routes: [{to: sazumun2, bearing: S, mode: land, days: 1, terrain: [coast, road]}]
   government: cnclhtsl
   packFolder: taruzel
 ---

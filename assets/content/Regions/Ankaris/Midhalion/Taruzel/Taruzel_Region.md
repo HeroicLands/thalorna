@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [midhalnrgn]
   population: 12000000
+  borders: [{to: amradadrgn, bearing: E}]
   packFolder: taruzel
   culture: taruzelianclt
   government: cnfdrtntrzlnstts

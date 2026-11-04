@@ -10,6 +10,7 @@ data:
   lore: [humanflk]
   parents: [vylariargn]
   population: 2000000
+  borders: [{to: nartumkngdm, bearing: E}, {to: vrystwald, bearing: N}, {to: kervaron, bearing: W}]
   packFolder: vylaria
   government: provncmktr
 ---

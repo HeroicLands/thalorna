@@ -9,6 +9,7 @@ data:
   lore: []
   parents: [aureldirgn]
   population: 3500000
+  borders: [{to: vylariargn, bearing: E}]
   packFolder: tarvenia
   government: kingdmtrvn
   culture: tarvenanclt

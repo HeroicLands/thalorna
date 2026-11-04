@@ -10,6 +10,7 @@ data:
   lore: [humanflk]
   parents: [vylariargn]
   population: 2500000
+  borders: [{to: hylen, bearing: S}, {to: moktur, bearing: W}, {to: velanthrgn, bearing: N}]
   packFolder: vylaria
   government: hlykngdmnrtm
 ---

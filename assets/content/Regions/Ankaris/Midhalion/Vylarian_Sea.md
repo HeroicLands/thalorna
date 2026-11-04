@@ -9,7 +9,12 @@ data:
   demonym: null
   lore: []
   parents: [ankrscntnnt, xerathia]
-  borders: [{to: aukhelathrgq, bearing: SE}, {to: dunharargn, bearing: E}]
+  borders:
+    - {to: aukhelathrgq, bearing: SE}
+    - {to: dunharargn, bearing: E}
+    - {to: vylariargn, bearing: N}
+    - {to: salkhalon, bearing: N}
+    - {to: amradadrgn, bearing: E}
   population: null
   packFolder: midhalion
 

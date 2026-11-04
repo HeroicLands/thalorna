@@ -13,6 +13,9 @@ data:
     - {to: velanthrgn, bearing: N}
     - {to: vrystwald, bearing: NW}
     - {to: vandstein, bearing: NW}
+    - {to: tarvenirgn, bearing: W}
+    - {to: heladrgn, bearing: E}
+    - {to: vylarianse, bearing: S}
   population: 24000000
   packFolder: vylaria
   government: vylarinmpr

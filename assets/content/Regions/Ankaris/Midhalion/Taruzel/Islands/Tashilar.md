@@ -10,6 +10,7 @@ data:
   lore: [humanflk]
   parents: [taruzelrgn]
   population: 2000000
+  borders: [{to: zupumun, bearing: N}]
   packFolder: taruzel
   culture: taruzelianclt
   government: bazunel

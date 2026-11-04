@@ -9,7 +9,7 @@ data:
   demonym: Helladic
   lore: [humanflk]
   parents: [midhalnrgn]
-  borders: [{to: velanthrgn, bearing: N}]
+  borders: [{to: velanthrgn, bearing: N}, {to: vylariargn, bearing: W}]
   population: 11000000
   packFolder: hellad
 

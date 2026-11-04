@@ -10,6 +10,9 @@ data:
   lore: [humanflk]
   parents: [qalirel]
   population: 400000
+  routes:
+    - {to: pashinar, bearing: SE, mode: land, days: 5, terrain: [road, hills]}
+    - {to: sharimun, bearing: SW, mode: land, days: 2, terrain: [road, plain]}
   packFolder: taruzel
   government: besikar
 ---

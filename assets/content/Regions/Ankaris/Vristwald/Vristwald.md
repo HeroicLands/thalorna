@@ -14,6 +14,7 @@ data:
     - {to: elavendre, bearing: SW}
     - {to: velanthrgn, bearing: E}
     - {to: vylariargn, bearing: SE}
+    - {to: moktur, bearing: S}
   population: 500000
   routes:
     - {to: falkhaven, bearing: W, mode: land, days: 30, terrain: [forest]}

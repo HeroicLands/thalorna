@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [qalirel]
   population: 12000
+  routes: [{to: besikar2, bearing: NW, mode: land, days: 5, terrain: [hills, road]}]
   government: gldbrdpshnr
   packFolder: taruzel
 ---

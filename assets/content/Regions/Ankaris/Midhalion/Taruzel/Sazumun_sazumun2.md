@@ -10,6 +10,7 @@ data:
   lore: [humanflk]
   parents: [visizel]
   population: 200000
+  routes: [{to: hitusel, bearing: N, mode: land, days: 1, terrain: [road, coast]}]
   packFolder: taruzel
   government: sazumun
 ---

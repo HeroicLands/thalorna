@@ -5,7 +5,13 @@ type: place
 subType: feature
 description: "The waters of the Taruzelian archipelago: the forty-mile strait to the Amradi shore, the narrows under Yamuzel, and the channels between the islands, with their shoals, hard currents, hidden coves and pilots."
 tags: [strait, sea]
-data: {demonym: null, lore: [], parents: [taruzelrgn], population: 0, packFolder: taruzel}
+data:
+  demonym: null
+  lore: []
+  parents: [taruzelrgn]
+  population: 0
+  borders: [{to: amradadrgn, bearing: E}, {to: visizel, bearing: W}, {to: tashilar, bearing: S}]
+  packFolder: taruzel
 ---
 
 ## Overview

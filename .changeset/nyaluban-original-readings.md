@@ -4,7 +4,7 @@
 
 **Languages and scripts**
 
-- Nyáluban stresses the first syllable, with an acute for a different stressed syllable and no required tone marks, and readable spelling is told apart from optional performance directions.
+- Nyáluban follows the guide's stress rule, with an acute for a different stressed syllable, writes its pitch with the guide's tone marks only where a word needs it, and tells readable spelling apart from optional performance directions.
 - Nyáluban has no writing tradition of its own, and written versions of its oral works are foreign transcriptions.
 
 **Literature and verse**

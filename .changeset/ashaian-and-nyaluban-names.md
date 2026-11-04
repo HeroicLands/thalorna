@@ -9,5 +9,5 @@
 
 **Languages and scripts**
 
-- Nyáluban names carry an acute only where the stress leaves the first syllable, so _Tálemo_ is written _Talemo_ while _Amífeli_ keeps its mark.
+- Nyáluban names carry an acute only where the stress falls away from the syllable the guide's rule chooses, so _Talemo_ is written without one while _Amífeli_ keeps its mark.
 - Two Nyáluban clans take new names: the river-watchers are the _Mpalude_ and the radiant ones are the _Lusiro_.

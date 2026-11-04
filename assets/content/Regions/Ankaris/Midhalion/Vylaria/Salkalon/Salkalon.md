@@ -10,6 +10,7 @@ data:
   lore: [humanflk]
   parents: [vylariargn]
   population: 5000000
+  borders: [{to: vylarianse, bearing: S}]
   packFolder: vylaria
   government: provincvld
 ---

@@ -18,6 +18,7 @@ data:
     - {to: heladrgn, bearing: S}
     - {to: wlqtrrgn, bearing: SE}
     - {to: gwtkrrgn, bearing: E}
+    - {to: nartumkngdm, bearing: S}
   population: null
   packFolder: velanthia
 

@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [vylariargn]
   population: 900000
+  routes: [{to: tyrellan, bearing: N, mode: land, days: 20, terrain: [road]}]
   packFolder: vylaria
   government: verdanorzara
 ---
