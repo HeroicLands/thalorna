@@ -81,6 +81,9 @@ The [Last Mile]{.name data-type="place/structure"}, on the Bench Square opposite
 [[place-vylariargn|Vylaria]]
 : the empire's heartland
 
+[[scenario-rdtsrks|The Road to Soraks]]
+: a scenario of the north road and the Northern Bench
+
 # The Truth of Soraks {#truth .secret}
 
 The Broken Bridge is in the province's accounts as under repair. The _pozerus_ at Alessar assesses the levy for it on the estates of northern Alessa every year, and the clerks enter it as spent on the bridge. It is spent on the roads nearer the capital, where the senators drive, and the only work done at the bridge is a survey every few years that finds the arch too costly to raise. Iltheros Gurimandis has asked to see the accounts four times and been refused each time by letter.

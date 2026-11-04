@@ -118,3 +118,6 @@ The ledger and the receipts together are a claim on the Confederation's treasury
 
 [[lore-taruzelbetrayal|The Betrayal of the Revolution]]
 : the outlawing that made them
+
+[[scenario-frmnspttn|The Freeman's Petition]]
+: a scenario of the receipts and the Grand Council

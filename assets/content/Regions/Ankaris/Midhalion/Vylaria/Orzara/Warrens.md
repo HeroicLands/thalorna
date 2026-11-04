@@ -85,6 +85,9 @@ The Warrens fear fire, the short dole and dear bread, and every power in the cit
 [[affiliation-aediles|Pelthralon]]
 : the ward magistrates who license the shops and condemn the buildings
 
+[[scenario-hlfwrdshrt|Half a Ward Short]]
+: a scenario of a short pension day on the Spire Circle
+
 # The Truth of the Warrens {#truth .secret}
 
 About three thousand people sleep in the Warrens every night with no right to be inside the line, and the Watch sells them the right by the night. The watch-house on the Spire Circle issues small wooden tallies, notched for the month, to anyone who pays a Bit a night to its sergeants, and a watchman on a night sweep who finds a sleeper holding the right tally walks past. The tallies are sold through the cookshops, and the coin goes to the sergeants, the centurions of the watch-cohort and its captain, in shares fixed by rank. The sleepers are the city's working poor who cannot afford the walk out across the Clearance and back every day: porters, stall-hands and the wives of men in the outskirts who keep a stall in the Warrens.

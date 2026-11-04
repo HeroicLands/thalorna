@@ -261,3 +261,6 @@ The Confederation pays in the [[lore-trzlncrncy|Taruzelian currency]], the syste
 
 [[affiliation-vezakuni|Vezakuni]]
 : the guild umbrella and its treasury
+
+[[scenario-mnthbfrrvw|The Month Before the Review]]
+: the campaign frame of the veterans' rising

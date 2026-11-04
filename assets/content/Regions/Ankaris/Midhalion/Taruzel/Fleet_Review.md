@@ -90,3 +90,6 @@ Every year since the outlawing, after the last of the veterans' boats has passed
 
 [[lore-paidattheshoals|What Was Paid at the Shoals]]
 : the song of the night after
+
+[[scenario-lstbtnrrws|The Last Boat Through the Narrows]]
+: a scenario of the Review and the rising

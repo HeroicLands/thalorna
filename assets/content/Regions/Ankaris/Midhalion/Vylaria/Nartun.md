@@ -72,6 +72,9 @@ Pilgrims lodge in the temples' hostels along the holy road and inside the lower 
 [[place-ashenmere|Ashenmere]]
 : the Hilen march-town at the foot of the holy road
 
+[[scenario-bxsldkngsrng|A Box Sealed with the King's Ring]]
+: a scenario of the judgment on the king
+
 # The Truth of Nartun {#truth .secret}
 
 The chapter house over the gate holds prisoners. Below its stables is an undercroft of cells, and in them are men and women of the Hilen march whom the knights of the Ashenmere chapel carried across the border stream by night as worshippers of the Black Flame. A temple examiner judges each one in closed session in the chapter house. Those who renounce the Black Flame are sent to work out a penance on a temple-estate in the uplands, under a new name, and their families in Hilen never hear of them again. Those who refuse stay in the undercroft.

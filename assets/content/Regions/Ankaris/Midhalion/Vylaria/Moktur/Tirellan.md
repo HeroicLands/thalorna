@@ -109,6 +109,9 @@ The Keep was a legion's camp when the empire first came north, and the city grew
 [[being-korvathosvol|Korvathos Volkemates]]
 : a border lord with a tower in the city
 
+[[scenario-lttrnbdypnd|The Letter Nobody Opened]]
+: a scenario of the pay chest and the capital's road
+
 # The Truth of Tirellan {#truth .secret}
 
 Tholmaras Nelamen has been recalled. Last autumn the chancery in Orzara sent a letter of recall under the old Orzas's seal, naming a _kurthos_ of the capital as the next _therkos_ and ordering Tholmaras south to give account of the province's revenue. The letter came up the road in the post-bag. At the posting-station on the provincial boundary the post-master signed for the bag, as post-masters do, and the receipt went back south. The letter went on to the Keep and into the _therkos_'s strongroom, and its seal has not been broken. Tholmaras has not answered it, because in law he has not received it. His routine reports go south every month as before, and they say nothing of it.

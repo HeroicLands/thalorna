@@ -124,3 +124,6 @@ Behind the list the houses talk of something larger. Tirmana Qizikuni has sounde
 
 [[affiliation-qizikuni|Qizikuni]], [[affiliation-tanaduni|Tanaduni]], [[affiliation-balinuni|Balinuni]], [[affiliation-rusakuni|Rusakuni]], [[affiliation-hitusuni|Hitusuni]]
 : the great houses whose votes the councilors carry
+
+[[scenario-clsdroll|The Closed Roll]]
+: a scenario of the hereditary seats and the audit

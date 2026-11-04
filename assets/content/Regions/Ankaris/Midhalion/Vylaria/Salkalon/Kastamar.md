@@ -84,6 +84,9 @@ Strangers are watched in Kastamar, and a party is asked its business at the gate
 [[affiliation-vylarinmpr|Vylarian Empire]]
 : imperial overview
 
+[[scenario-hllsndrfrtrs|The Hulls Under the Fortress]]
+: a scenario of the war-port and the strait
+
 # The Truth of Kastamar {#truth .secret}
 
 The yard has been building warships for Taruzel. Three years ago the Senate voted the money for four new galleys and the treasury paid for two. Kaldremos Holimandis had already laid down all four, and the admiral would not see a yard full of men idle and half-built hulls rotting on the slips. Tharkas Gurimandis allowed the master shipwright to finish the two unpaid galleys and sell them, as hulls with no fittings, to a Helionite captain who said he was hiring out to the hunt for the Bethuan privateers, as Helionite captains often do. The price paid the yard for a year and the oarsmen for a quarter. The Roll of the Fleet carries the two ships in the sheds, under names they never bore.

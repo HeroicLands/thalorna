@@ -83,6 +83,9 @@ The Wharves fear a low river and a burned granary, and the quarrel on the quays 
 [[affiliation-tolvan|Tolvan]]
 : the tax administration, whose customs-men keep the water-stairs
 
+[[scenario-sndbnthcrst|The Sand Beneath the Crust]]
+: a scenario of the granaries on the River Circle
+
 # The Truth of the Wharves {#truth .secret}
 
 Two of the state granaries on the River Circle are half empty. The granary-keeper of the two halls nearest the river gate sold their reserve grain three lean winters ago, a little at a time, through a broker in the [[place-grandmarketorz|Grand Market]], and replaced the bottom of each bin with sand under a crust of grain a man's arm deep. The seals on the doors are good seals. A seal-cutter in the [[place-gildedqrtr|Gilded Quarter]] cut him a copy of the granary's seal-stamp, and every time a granary is opened before a witness the keeper breaks the true seal and remakes it with the true stamp, so the witness sees nothing wrong.

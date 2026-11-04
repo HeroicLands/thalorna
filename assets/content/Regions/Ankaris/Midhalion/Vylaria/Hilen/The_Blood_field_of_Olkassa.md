@@ -55,3 +55,6 @@ The field is farmed for the heaviest wheat in Hilen and sold into the state gran
 
 [[place-hylen|Hilen]]
 : the province it lies in
+
+[[scenario-rtbfrwddng|The Rite Before the Wedding]]
+: a scenario of the rite before the Olkassa wedding

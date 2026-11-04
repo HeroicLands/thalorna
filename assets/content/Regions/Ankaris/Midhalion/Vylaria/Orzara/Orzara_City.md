@@ -344,3 +344,4 @@ The city began on [[place-antel|Antel]], the Old Hill, where the [Vylarian Repub
 - [[affiliation-ordoarcanis|Thordimalon]]—the arcane order on display here
 - [[place-midhalnrgn|Mídhalión]]—the region
 - [[place-worldthlrn|The World of Thalorna]]
+- [[scenario-qrtrdyoldrgn|The Quarter Day of an Old Reign]]—the campaign frame of the debt and the succession
