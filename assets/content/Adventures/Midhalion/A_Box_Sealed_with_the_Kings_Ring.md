@@ -4,7 +4,7 @@ name: {full: A Box Sealed with the King's Ring}
 type: scenario
 subType: adventure
 description: "The high priesthood of Nartun moves to judge and unmake its anointed king, the forest dies while every party names a different cause, and the frightened king asks foreigners to carry a sealed box to the throne his kingdom refused."
-tags: [draft]
+tags: []
 data:
   parents: []
   locations: [nartumkngdm, nartum, kalderenna, dremenna, ashenmere]

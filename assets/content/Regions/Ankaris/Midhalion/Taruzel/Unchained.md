@@ -4,7 +4,7 @@ name: {full: Unchained, en: [The Unchained]}
 type: affiliation
 subType: criminal
 description: "The sworn veterans of the port cities' veterans' halls and their grown children, who take the bonds of the debt-bound out of guild strongrooms and burn them, spirit the freed to the outlaw captains, and leave a broken link chalked on the door they came through."
-tags: [draft, taruzel]
+tags: [taruzel]
 data:
   culture: taruzelianclt
   templatePriority: null
@@ -96,10 +96,6 @@ The halls are fuller than they have been since the outlawing. The Compact's call
 The Old Hands of the Yamuzel halls, the [[affiliation-freecaptains|Free Captains]] and the harbor veterans mean to rise at the [[lore-fleetreview|Fleet Review]]. Crossbows, boarding pikes and a chest of Vylarian silver, brought from a Sazumun warehouse under a Merchantry seal, lie under the floor of a cooper's shop below Razzina's hall, and she has guessed whose coin paid for them. She has sent the day of the rising to the Besikar halls by Zilmar Ezzinu, whose hall is the one that informs for the Compact. He has not yet passed it on, and his next meeting with the Compact's enforcer falls before the Review.
 :::
 
-# The Truth of the Unchained {#truth .secret}
-
-**One hall is sold.** The Keeper of a waterfront hall in Besikar has informed for the Auric Compact since the first year of the outlawing, when its enforcers took his son for a debt and gave him back for a name. Three Breakers of the Besikar halls have been taken in the last two years, each on the night of a strongroom, and every one of those nights was decided in his hall. The Old Hands of Yamuzel have begun to suspect a Besikar hall and do not know which. A party that carries a message between the cities, or takes part in a night's work in Besikar, may be the one that learns it, and the Keeper will know that before the party does.
-
 ## See Also
 
 [[affiliation-freecaptains|Free Captains]]
@@ -113,3 +109,7 @@ The Old Hands of the Yamuzel halls, the [[affiliation-freecaptains|Free Captains
 
 [[lore-paidattheshoals|What Was Paid at the Shoals]]
 : the song the halls sing after the Fleet Review
+
+# The Truth of the Unchained {#truth .secret}
+
+**One hall is sold.** The Keeper of a waterfront hall in Besikar has informed for the Auric Compact since the first year of the outlawing, when its enforcers took his son for a debt and gave him back for a name. Three Breakers of the Besikar halls have been taken in the last two years, each on the night of a strongroom, and every one of those nights was decided in his hall. The Old Hands of Yamuzel have begun to suspect a Besikar hall and do not know which. A party that carries a message between the cities, or takes part in a night's work in Besikar, may be the one that learns it, and the Keeper will know that before the party does.

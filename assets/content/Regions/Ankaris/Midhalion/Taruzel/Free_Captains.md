@@ -4,7 +4,7 @@ name: {full: Free Captains, en: [The Free Captains]}
 type: affiliation
 subType: criminal
 description: "Outlawed masters of the war's flotilla and the captains who have joined them since, each sailing her own hull against the guilds' cargoes: no chief and no charter, the old flotilla's signals, a banker in Pashinar, and a bundle of warehouse receipts the Hitusuni have never honored."
-tags: [draft, taruzel]
+tags: [taruzel]
 data:
   culture: taruzelianclt
   templatePriority: null
@@ -99,12 +99,6 @@ The Free Captains are closer to the halls ashore this year than at any time sinc
 The Free Captains mean to be on the water when the halls rise at the [[lore-fleetreview|Fleet Review]], and Nazzuna means to read the rebels' original promise of prize money to the coast that day, from the narrows. Their coves have been receiving crossbows and Vylarian silver out of a [[affiliation-hitusuni|Hitusuni]] warehouse, paid for by an agent of the [[affiliation-vylarinmpr|Vylarian Empire]], and [[being-ashurazhitus|Ashuraz Hitusuni]] has sold three of those deliveries' dates to the Compact. [[being-dlzrtndn|Delzuru Tanaduni]] has offered, through a League captain, to ask the Council to lift the outlawry of any captain who takes Tanaduni service if it grants his toll, and Nazzuna has not answered or told the other captains.
 :::
 
-# The Truth of the Free Captains {#truth .secret}
-
-**The ledger is a warrant.** Yazila Ilammuni's ledger is her husband's, and it begins in the war. Among its first pages is a copy, under the seal of the rebels' council, of the promise that council made the flotilla's captains: the prize money of every imperial ship and cargo taken in the war, to be paid by the Confederation once it stood. Six warships were taken at the Shoals alone. Nothing was ever paid, and the councilors who sealed the promise sit in the Grand Council now. The Compact has learned that a copy exists and has not learned where it is, and its enforcers have begun to call on factors in Pashinar.
-
-The ledger and the receipts together are a claim on the Confederation's treasury by the men it outlawed, signed by the men who outlawed them. Presented to the Grand Council by a freeman, they would be read; presented by a Free Captain, they would be burned with her. A party that carries them to Besikar on the Captains' behalf will be the most wanted party in Taruzel before the session opens.
-
 ## See Also
 
 [[affiliation-shoalsbrthd|Shoals Brotherhood]]
@@ -121,3 +115,9 @@ The ledger and the receipts together are a claim on the Confederation's treasury
 
 [[scenario-frmnspttn|The Freeman's Petition]]
 : a scenario of the receipts and the Grand Council
+
+# The Truth of the Free Captains {#truth .secret}
+
+**The ledger is a warrant.** Yazila Ilammuni's ledger is her husband's, and it begins in the war. Among its first pages is a copy, under the seal of the rebels' council, of the promise that council made the flotilla's captains: the prize money of every imperial ship and cargo taken in the war, to be paid by the Confederation once it stood. Six warships were taken at the Shoals alone. Nothing was ever paid, and the councilors who sealed the promise sit in the Grand Council now. The Compact has learned that a copy exists and has not learned where it is, and its enforcers have begun to call on factors in Pashinar.
+
+The ledger and the receipts together are a claim on the Confederation's treasury by the men it outlawed, signed by the men who outlawed them. Presented to the Grand Council by a freeman, they would be read; presented by a Free Captain, they would be burned with her. A party that carries them to Besikar on the Captains' behalf will be the most wanted party in Taruzel before the session opens.

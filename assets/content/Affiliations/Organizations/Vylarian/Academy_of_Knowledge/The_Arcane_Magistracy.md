@@ -63,10 +63,6 @@ In 75 BF the _usos_ of the year ordered every registered arcanist in the Republi
 
 The register is the Order's now, and so is the habit it taught. A name on the register is still the best outcome a hearing of [[affiliation-sekran|The Arcane Inquisition]] (the Sekran) can file, and the Order's own register of every talent in the Empire begins, page for page, where the Kandral's stops. The Senate's own archive of the same decades has gaps, and the Order's copy of the register is the fuller record of the two.
 
-# The Last Year {#truth .secret}
-
-The page for 75 BF lists the kept roll as it stood at the Therona. None of the masters on the kept roll appears on the roll of the Therona's dead, and none appears on the Order's first register two years later. Their names are ruled through with no word in the margin.
-
 ## See Also
 
 [[affiliation-ordoarcanis|Thordimalon]]
@@ -83,3 +79,7 @@ The page for 75 BF lists the kept roll as it stood at the Therona. None of the m
 
 [[lore-kandrol|The Kandrol]]
 : the charter that followed it
+
+# The Last Year {#truth .secret}
+
+The page for 75 BF lists the kept roll as it stood at the Therona. None of the masters on the kept roll appears on the roll of the Therona's dead, and none appears on the Order's first register two years later. Their names are ruled through with no word in the margin.

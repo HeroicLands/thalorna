@@ -4,7 +4,7 @@ name: {full: Half a Ward Short}
 type: scenario
 subType: adventure
 description: "The Spire Circle's pay-hall pays half a ward short and shuts its doors at noon, the rent falls due on Nerval tomorrow, and the silver that would quiet the queue is three days away and cannot be named."
-tags: [draft]
+tags: []
 data:
   parents: []
   locations: [warrensorz, platandstr, arvon, wharvesorz, rathaunamelvar, heightsorz]

@@ -4,7 +4,7 @@ name: {full: Fleet Review, en: [The Fleet Review, The Review]}
 type: lore
 subType: gathering
 description: "Yamuzel's yearly review of the Confederation's ships on the fourteenth of Brazemandi, the day of the victory at the Tamzir Shoals: the Corsair League's galleys calling their oars under the Grand Council's stand, the admirals' squadrons, the veterans' small boats at the tail, a banquet on the height and a song in the halls."
-tags: [draft, taruzel]
+tags: [taruzel]
 data:
   culture: taruzelianclt
   packFolder: taruzel
@@ -73,10 +73,6 @@ Every year since the outlawing, after the last of the veterans' boats has passed
 - **The count.** The League's admiral means to call a number this year that is larger than the League's oars, and a councilor of Besikar has hired a party to count the galleys in the roads the night before.
 - **The last boat.** The Commander of the Marines has been told to catch the last boat this year, and his sergeants grew up in the Veterans' Quarter.
 
-# The Truth of the Last Boat {#truth .secret}
-
-**The last boat is the [[affiliation-freecaptains|Free Captains]]'.** A different Free Captain brings her through each year, chosen by lot in a council of the captains, and the hull goes back to the [[affiliation-shoalsbrthd|Shoals Brotherhood]]'s lagoon by nightfall. The marines on the fortress have orders to stop her and a long tradition of being slow, and the guard-boat's crew are veterans' sons. This year the Commander of the Marines has put a League galley of his own choosing in the roads, out of the line, with orders to wait off the cape. The captain chosen by the lot does not know, and the [[affiliation-unchained|Unchained]] in the Veterans' Quarter will learn of it the evening before, if anyone carries them word.
-
 ## See Also
 
 [[lore-tamzirbattle|The Battle of Tamzir Shoals]]
@@ -93,3 +89,7 @@ Every year since the outlawing, after the last of the veterans' boats has passed
 
 [[scenario-lstbtnrrws|The Last Boat Through the Narrows]]
 : a scenario of the Review and the rising
+
+# The Truth of the Last Boat {#truth .secret}
+
+**The last boat is the [[affiliation-freecaptains|Free Captains]]'.** A different Free Captain brings her through each year, chosen by lot in a council of the captains, and the hull goes back to the [[affiliation-shoalsbrthd|Shoals Brotherhood]]'s lagoon by nightfall. The marines on the fortress have orders to stop her and a long tradition of being slow, and the guard-boat's crew are veterans' sons. This year the Commander of the Marines has put a League galley of his own choosing in the roads, out of the line, with orders to wait off the cape. The captain chosen by the lot does not know, and the [[affiliation-unchained|Unchained]] in the Veterans' Quarter will learn of it the evening before, if anyone carries them word.

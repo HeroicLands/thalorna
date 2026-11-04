@@ -4,7 +4,7 @@ name: {full: The Sand Beneath the Crust}
 type: scenario
 subType: adventure
 description: "The river is low, the barges ride late, and Orzara opens its week of grain; two halls on the River Circle hold sand under an arm's depth of wheat, and every house that can fill the gap names its price."
-tags: [draft]
+tags: []
 data:
   parents: []
   locations: [wharvesorz, orzara, grandmarketorz, gildedqrtr, ostenna, vylarisrvr, selvin]

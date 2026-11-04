@@ -4,7 +4,7 @@ name: {full: The Promise and the Coin}
 type: scenario
 subType: adventure
 description: "The Imperial Guard's watch-captains weigh the expected man's unpaid promise of a donative against the soldier's coin, and a party hired by one claimant learns where every claimant's silver comes from."
-tags: [draft]
+tags: []
 data:
   parents: []
   locations: [thaurzurgalis, arvon, palvar, heightsorz, wharvesorz, antel, selvin, mercavia]

@@ -120,7 +120,7 @@ A newcomer hears lines from these at the patron's door, in court and on the marc
 
 ## People to Meet
 
-A scribe of the Imperial Scribal Guild, a herald who knows every genealogy in the Senate, and a gaoler in a frontier fortress all have reasons to need a party. These Vylarians offer places to begin:
+In the capital a party meets the reign's creditors and its heirs: the Orzas, [[being-zrmlshlrkls|Zarmelas Helarkales]], and the three men the court names to follow him, [[being-klvnsmrdvns|Kolvenas Mardovanes]], [[being-hlzrsvndrn|Halzoras Vendaren]] and [[being-dlmrsvrklns|Dalmeras Varkalenis]]; the banker [[being-amrzvlds|Amarza Veldis]], whose house holds more of the throne's paper than any other; [[being-sthmrrdln|Sathemar Ardelen]], whom the veterans' stairs call their tribune; and the High Flame-Warden, [[being-trzmsbrkrts|Torzemos Brakarates]]. On the road a party meets [[being-phltsklfts|Filezos Klethes]] buying strangers' suppers at the Two Seals in Alessar, and in Nartun the king, [[being-klvrsdrns|Kelvaras Daronis]], and the Holy Mother who anointed him, [[being-ilvnssrkls|Ilvenas Sarkelis]]. A scribe of the Imperial Scribal Guild, a herald who knows every genealogy in the Senate, and a gaoler in a frontier fortress have their own reasons to need a party. These Vylarians offer places to begin:
 
 ```sql
 SELECT address.slug AS _ref,
@@ -144,11 +144,16 @@ Campaigns start well from the forms. A patron needs a client to stand beside him
 **For the GM:** A forged waiver, a commission bought with worthless script, a pension paid short, or an unregistered mage in a _kurthos_'s household each tests whether the forms still hold, and each draws the Watch, the Sekran, or the Senate's lobbies into the answer.
 :::
 
+:::secret
+**For the GM:** These ways in are written as scenarios. [[scenario-qrtrdyoldrgn|The Quarter Day of an Old Reign]] is the campaign frame for a season in Orzara, and it gathers the capital's three: [[scenario-sndbnthcrst|The Sand Beneath the Crust]] for the late grain convoy and the granaries, [[scenario-hlfwrdshrt|Half a Ward Short]] for a pension paid short on the Circles, and [[scenario-prmsndcoin|The Promise and the Coin]] for the Guard's donative. Each province and the holy kingdom has its own: [[scenario-rdtsrks|The Road to Soraks]] in Alessa, [[scenario-rtbfrwddng|The Rite Before the Wedding]] in Hilen, [[scenario-lttrnbdypnd|The Letter Nobody Opened]] in Moktur, [[scenario-hllsndrfrtrs|The Hulls Under the Fortress]] from Salkalon across the strait, and [[scenario-bxsldkngsrng|A Box Sealed with the King's Ring]] in Nartun.
+:::
+
 ## Where to Read Next
 
 Begin with a landing, a patron, and a waiver with a date on it, and follow the questions into the setting:
 
 - [[affiliation-vylarinmpr|The Vylarian Empire]] for the state, its history, its provinces, and its relations
+- [[lore-hstrymdhln|The History of Vylaria and Mídhalión]] for the ages from the kings to the Shoals, and what each left owing
 - [[lore-vylarianclt|The Vylarian people]] for manners, patronage, and what a person owes
 - [[place-orzara|Orzara]] for the capital district by district, with [[place-arvon|the Inner City]] and [[affiliation-verdanorzara|the city's courts]]
 - [[doc-vylrnctznshp|Vylarian Citizenship]] and [[affiliation-vylrnmltry|the Vylarian Military]] for the citizen's bargain and the two tracks

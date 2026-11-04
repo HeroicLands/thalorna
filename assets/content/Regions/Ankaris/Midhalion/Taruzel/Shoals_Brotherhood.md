@@ -4,7 +4,7 @@ name: {full: Shoals Brotherhood, en: [The Shoals Brotherhood, The Brotherhood]}
 type: affiliation
 subType: criminal
 description: "The outlawed crews who hold the Tamzir Shoals, living in a hidden lagoon among the wrecks of the Vylarian squadron under the Qatilush, the code their founders swore after the war: they pilot, raid and dive, share every taking by lot, and keep the squadron's bronze rams from every buyer."
-tags: [draft, taruzel]
+tags: [taruzel]
 data:
   culture: taruzelianclt
   templatePriority: null
@@ -110,12 +110,6 @@ The League's galleys hunt the channels round the Shoals, and no League galley ha
 - **The pilot.** A Brotherhood boat comes out of the Shoals at dusk and offers a party's ship a pilot, and the master would rather risk the sand than pay the share the pilot names, which is not bargained.
 - **The bread.** The Yamuzel hall that buys the Brotherhood's bread and tar has had its credit stopped by its chandler, and [[being-rzznpddn|Razzina Padduni]] wants a party to carry coin to the chandler before the boats run short.
 
-# The Truth of the Brotherhood {#truth .secret}
-
-**The dead's share is unpaid.** The League doubled its patrols in the channels two seasons ago, takings have been thin since, and the Keeper of the Lots has paid the families of the dead nothing for two seasons. The Caller, [Burakan Zupumi]{.name data-type="being/npc"}, a Brother of thirty who was a boy in the boats at the Shoals and is the first Caller who is not an Elder, means to pay them. He has raised two of the squadron's rams with his own crew, by night, and sunk them on the seaward side of the ring, away from the lagoon where the Keeper of the Lots counts the rest. A Vylarian factor in [[place-mercavia|Delalara]] has offered him their weight in silver for both, delivered to a ship off the Shoals before the autumn storms.
-
-The Elders do not know. If they learn of it before the rams are sold, Burakan will be judged under the fifth article, and the Brotherhood will split between the crews who would give him to the sand and the crews who have not eaten well since spring. If they learn of it after, the Brotherhood will have broken its own code for Vylarian silver, and the Free Captains will not lie in its lagoon again. A party can be hired by the factor to see the rams delivered, by an Elder who suspects to find them, or by Burakan himself, who needs a hull that can carry a ram and a crew that is not his.
-
 ## See Also
 
 [[place-tamzirshoals|Tamzir Shoals]]
@@ -132,3 +126,9 @@ The Elders do not know. If they learn of it before the rams are sold, Burakan wi
 
 [[lore-tamzirbattle|The Battle of Tamzir Shoals]]
 : the battle its Elders fought
+
+# The Truth of the Brotherhood {#truth .secret}
+
+**The dead's share is unpaid.** The League doubled its patrols in the channels two seasons ago, takings have been thin since, and the Keeper of the Lots has paid the families of the dead nothing for two seasons. The Caller, [Burakan Zupumi]{.name data-type="being/npc"}, a Brother of thirty who was a boy in the boats at the Shoals and is the first Caller who is not an Elder, means to pay them. He has raised two of the squadron's rams with his own crew, by night, and sunk them on the seaward side of the ring, away from the lagoon where the Keeper of the Lots counts the rest. A Vylarian factor in [[place-mercavia|Delalara]] has offered him their weight in silver for both, delivered to a ship off the Shoals before the autumn storms.
+
+The Elders do not know. If they learn of it before the rams are sold, Burakan will be judged under the fifth article, and the Brotherhood will split between the crews who would give him to the sand and the crews who have not eaten well since spring. If they learn of it after, the Brotherhood will have broken its own code for Vylarian silver, and the Free Captains will not lie in its lagoon again. A party can be hired by the factor to see the rams delivered, by an Elder who suspects to find them, or by Burakan himself, who needs a hull that can carry a ram and a crew that is not his.

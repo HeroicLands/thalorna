@@ -87,10 +87,6 @@ The Sekran runs its own network of informants, which overlaps the Empire's intel
 
 At Velisara the Sekran's regional office stands across the city from the province's largest temple of [[affiliation-blackflame|The Black Flame]]. The Order takes no side between the Forge-Lord's two faiths, and the Black Flame is a lawful faith. What brings the Sekran into the old quarter is the Flame's rite worked as arcane magic, which is anathema.
 
-# The First File {#truth .secret}
-
-The Sekran's founding file is kept at Orzara in the head's own keeping. It holds the first clause, the roll of the dead of the Therona, the inventory taken after the fire, and nearly eight centuries of notes added by the heads who have kept it. It does not say what the inventory came up short of, and the first clause does not name what it is looking for. A _sekeros_ who is sent a copy of the file finds the second clause and everything after it struck through.
-
 ## See Also
 
 [[affiliation-ordoarcanis|Thordimalon]]
@@ -107,3 +103,7 @@ The Sekran's founding file is kept at Orzara in the head's own keeping. It holds
 
 [[affiliation-kandral|The Arcane Magistracy]]
 : the magistracy whose register it inherited
+
+# The First File {#truth .secret}
+
+The Sekran's founding file is kept at Orzara in the head's own keeping. It holds the first clause, the roll of the dead of the Therona, the inventory taken after the fire, and nearly eight centuries of notes added by the heads who have kept it. It does not say what the inventory came up short of, and the first clause does not name what it is looking for. A _sekeros_ who is sent a copy of the file finds the second clause and everything after it struck through.

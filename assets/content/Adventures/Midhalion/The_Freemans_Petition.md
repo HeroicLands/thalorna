@@ -4,7 +4,7 @@ name: {full: The Freeman's Petition}
 type: scenario
 subType: adventure
 description: "An outlaw captain asks a party of freemen to carry the war's unpaid promise of prize money and the receipts for the cargoes the Hitusuni still hold into the Grand Council Hall at Besikar, and three powers learn of the choice before the party reaches the city."
-tags: [draft]
+tags: []
 data:
   parents: []
   locations: [pashinar, besikar2, grandcnclhall, sazumun2]

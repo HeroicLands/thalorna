@@ -4,7 +4,7 @@ name: {full: The Rite Before the Wedding}
 type: scenario
 subType: adventure
 description: "In Hilen the heir of Olkassa wants the field where legion killed legion settled by Sélmoros's rite before he marries the Grain House's daughter, and the Grain House has sold the field's next three harvests to the throne."
-tags: [draft]
+tags: []
 data:
   parents: []
   locations: [olcassafld, hylen, aravantia, messora, polthara]
@@ -17,7 +17,7 @@ data:
 
 ## Overview {#overview}
 
-About 401 AF Vylarian legions killed one another in a wheat-field on the Olkassa estate in [[place-hylen|Hilen]]. [[place-olcassafld|The field]] has borne its grain a fortnight early and half again as heavy ever since, and it is farmed in silence for the state granaries that feed the capital. [[affiliation-ganothandis|House Ganothandis]] holds the estate. Its heir, Zetimas Ganothandis, is to marry the daughter of [[being-nthrsmrdvns|Nethoras Mardovanes]], master of the Grain House, and he wants the field settled by the rite of [[affiliation-selmoros|Sélmoros]] before the wedding. The party comes to Hilen on a wedding errand and stays for the rite. The grain of the next three harvests is already sold, and the oath the province's masters swore against civil war rests on the same granaries.
+About 401 AF Vylarian legions killed one another in a wheat-field on the Olkassa estate in [[place-hylen|Hilen]]. [[place-olcassafld|The field]] has borne its grain a fortnight early and half again as heavy ever since, and it is farmed in silence for the state granaries that feed the capital. [[affiliation-ganothandis|House Ganothandis]] holds the estate. Its heir, [Zetimas Ganothandis]{.name data-type="being/npc"}, is to marry the daughter of [[being-nthrsmrdvns|Nethoras Mardovanes]], master of the Grain House, and he wants the field settled by the rite of [[affiliation-selmoros|Sélmoros]] before the wedding. The party comes to Hilen on a wedding errand and stays for the rite. The grain of the next three harvests is already sold, and the oath the province's masters swore against civil war rests on the same granaries.
 
 ## What Is Really Happening {#what-is-really-happening}
 
@@ -51,7 +51,7 @@ The river road into Hilen at harvest, between estates whose walls run for miles.
 
 **Purpose.** Introduce Hilen's houses, the outsider governor and the oath.
 
-**Situation.** The Ganothandis townhouse at Aravantara accepts the gifts and gives the party supper. The _therkos_, Linthimas Orvelis, the first in a generation with no estate in Hilen, is a guest, and suspects that every petition he hears has been agreed before it reaches him.
+**Situation.** The Ganothandis townhouse at Aravantara accepts the gifts and gives the party supper. The _therkos_, [Linthimas Orvelis]{.name data-type="being/npc"}, the first in a generation with no estate in Hilen, is a guest, and suspects that every petition he hears has been agreed before it reaches him.
 
 **NPCs and threats.** The master of Ganothandis, gracious and tired; his heir Zetimas, eager and devout; the _therkos_; and [[being-ylzmsmlvrts|Yalzemas Molvarates]], whose bid the houses at the table argue against, because a farmer who pays ten years in advance collects ten years' worth.
 

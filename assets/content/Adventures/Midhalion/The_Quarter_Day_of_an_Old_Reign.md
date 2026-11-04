@@ -4,7 +4,7 @@ name: {full: The Quarter Day of an Old Reign}
 type: scenario
 subType: campaign
 description: "A campaign frame for one season in Orzara, when an old Orzas who has adopted nobody rolls over a debt he cannot pay, three claimants count what the Guard costs, and the city's bread stands a week deep."
-tags: [draft]
+tags: []
 data:
   parents: []
   locations:

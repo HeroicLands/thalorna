@@ -4,7 +4,7 @@ name: {full: The Month Before the Review}
 type: scenario
 subType: campaign
 description: "A campaign frame for the month before Taruzel's Fleet Review, when the veterans the guilds discharged with one purse of silver mean to rise, nobody has agreed to lead them, and every guild, house and foreign power means to use them."
-tags: [draft]
+tags: []
 data:
   parents: []
   locations:

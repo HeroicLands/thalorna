@@ -4,7 +4,7 @@ name: {full: The Letter Nobody Opened}
 type: scenario
 subType: adventure
 description: "In Moktur the governor the capital can neither pay nor replace keeps a letter of recall unopened in his strongroom, pays his riders on the day, and courts the Nordman company on the towers, while the Varokh come over the march."
-tags: [draft]
+tags: []
 data:
   parents: []
   locations: [tyrellan, moktur, korrast, dolvar]

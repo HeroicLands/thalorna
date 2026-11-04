@@ -119,7 +119,7 @@ The empire in [[place-vylariargn|Vylaria]] is officially correct and privately h
 
 ## People to Meet
 
-A chandler in Sharimun, a gladiator who won his freedom in its arena, a glassmaker whose birds stand in guild halls, and the captain and crew of the Tamzir all have their own business in the islands:
+Every side on the coast courts [[being-zbzmjkdn|Zabuzum Jakuduni]], captain of [[affiliation-thetamzir|the Tamzir]] and a hero of the Shoals. In the veterans' halls a party meets [[being-rzznpddn|Razzina Padduni]] of Yamuzel and [[being-zlmrzzn|Zilmar Ezzinu]] of Besikar; on the water, the Free Captain [[being-nzzntrshn|Nazzuna Tarshuni]]; and in Besikar the banker [[being-trmnqzkn|Tirmana Qizikuni]], the Kubasum, [[being-yshdyjkdn|Yushuduya Jakuduni]], and this year's Arch-Consul, [[being-dnshkmn|Danashu Kumuni]]. At Yamuzel the admiral [[being-dlzrtndn|Delzuru Tanaduni]] wants a toll on the narrows. A chandler in Sharimun, a gladiator who won his freedom in its arena and a glassmaker whose birds stand in guild halls have their own business in the islands. These Taruzelians offer places to begin:
 
 ```sql
 SELECT address.slug AS _ref,
@@ -143,9 +143,14 @@ Campaigns start well from a debt. A house calls in a loan from a captain who can
 **For the GM:** Taruzel's debts are the engine of play. The Confederation owes the Compact; the merchant princes owe Au'Khelathu and the veterans; the veterans owe nobody and know it. A party that learns who holds which debt can bring down a house, free a prisoner or start the second revolution the waterfront has been waiting for. Decide early how far the guilds will go to keep that ledger closed.
 :::
 
+:::secret
+**For the GM:** These ways in are written as scenarios. [[scenario-mnthbfrrvw|The Month Before the Review]] is the campaign frame for the month before the Fleet Review, and it gathers four: [[scenario-lstbtnrrws|The Last Boat Through the Narrows]] for the Review and the rising, [[scenario-frmnspttn|The Freeman's Petition]] for a Free Captain's claim carried into the Grand Council Hall, [[scenario-clsdroll|The Closed Roll]] for the Qizikuni's letters and the treasury's audit, and [[scenario-hllsndrfrtrs|The Hulls Under the Fortress]] for the strait seen from the Vylarian side. Across the strait, [[scenario-qrtrdyoldrgn|The Quarter Day of an Old Reign]] is the frame in the capital of the empire Taruzel left.
+:::
+
 ## Where to Read Next
 
 - [[affiliation-cnfdrtntrzlnstts|The Confederation]] for the war of independence, the betrayal of the veterans and the Grand Council
+- [[lore-hstrymdhln|The History of Vylaria and Mídhalión]] for the centuries Taruzel was a province, and the war that ended them
 - [[place-taruzelrgn|The region]] for the islands, the five cities and the waters between them
 - [[lore-taruzelianclt|The culture]] for the houses, the bargain and what a Taruzelian owes
 - [[affiliation-auricompct|The Compact]], [[affiliation-corsairleg|the League]], [[affiliation-mrchntryvl|the Merchantry]] and [[affiliation-vezakuni|the Vezakuni]] for the guilds that rule

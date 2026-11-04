@@ -135,3 +135,6 @@ To the east, across the strait, lies the Kingdom of Amradad. Taruzel keeps cordi
 
 [[lore-trzlncrncy|Taruzelian Currency]]
 : The region's coinage
+
+[[lore-hstrymdhln|The History of Vylaria and Mídhalión]]
+: The islands' centuries as a province and the war that ended them

@@ -4,7 +4,7 @@ name: {full: The Last Boat Through the Narrows}
 type: scenario
 subType: adventure
 description: "In the last days before Taruzel's Fleet Review the veterans plough the plots they were promised, crates of the empire's crossbows lie under a cooper's floor, a League galley waits off the cape, and the man every side wants at the head of the rising answers nobody."
-tags: [draft]
+tags: []
 data:
   parents: []
   locations: [yamuzel2, khamisar, straitfortress, taruzelrgn]
@@ -52,7 +52,7 @@ On the fourteenth of Brazemandi [[place-yamuzel2|Yamuzel]] holds the [[lore-flee
 
 - **The thief.** The stewards of the admirals' family pay a party to see that the Khamisar survey book in the fortress archive is burned before the Review.
 - **The mercenary or soldier.** A party is hired to guard a Merchantry delivery to a cove on the outer islands.
-- **The leader.** [[being-rzznpddn|Razzina Padduni]] wants a party with no stake in the plots on the Khamisar terraces the morning the marines come, so that the Council hears an account it will believe.
+- **The leader.** [[being-rzznpddn|Razzina Padduni]] wants a party with no stake in the plots to stand on the Khamisar terraces the morning the marines come, so that the Council hears an account it will believe.
 - **The wanderer.** A sergeant of marines who grew up in the Veterans' Quarter asks a party to carry word to Razzina's hall that the Commander means to catch the last boat this year.
 
 ## The Opening {#opening}

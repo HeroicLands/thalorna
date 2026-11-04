@@ -4,7 +4,7 @@ name: {full: The Hulls Under the Fortress}
 type: scenario
 subType: adventure
 description: "Two galleys built at the empire's war-port row in the Corsair League's convoys under the Strait Fortress, the admiral who wants war with Taruzel does not know it, and the shipping houses of Salkalon would pay to be the ones who tell the Senate."
-tags: [draft]
+tags: []
 data:
   parents: []
   locations: [salkhalon, castamar, mercavia, kurzalora, straitfortress, yamuzel2]

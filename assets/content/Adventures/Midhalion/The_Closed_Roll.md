@@ -4,7 +4,7 @@ name: {full: The Closed Roll}
 type: scenario
 subType: adventure
 description: "The head of Besikar's oldest bank floats council seats that pass from a head to an heir, and the party carrying her sealed letters to the other houses learns why she also wants the treasury audited, and what the audit would find."
-tags: [draft]
+tags: []
 data:
   parents: []
   locations: [besikar2, grandcnclhall, khamisar, sazumun2, qudumel2]
@@ -41,7 +41,7 @@ data:
 
 **The clerk.** A clerk of the treasury's ledger kept the strongroom's tally one night when its keeper was ill, saw both the vault and the book, and has not come back from a holiday on [[place-khamisar|Khamisar]]. His desk has been searched by someone who knew what to look for. Yushuduya wants him home quietly, and the Qizikuni want him first.
 
-**The marriage.** Katira Tanaduni has asked to read the Qizikuni books before she signs a marriage contract with the house. Tirmana wants to know what Katira suspects and who told her, and wants the factor's strongbox to hold nothing in the house's name before the wedding.
+**The marriage.** [Katira Tanaduni]{.name data-type="being/npc"} has asked to read the Qizikuni books before she signs a marriage contract with the house. Tirmana wants to know what Katira suspects and who told her, and wants the factor's strongbox to hold nothing in the house's name before the wedding.
 
 > [!IMPORTANT]
 > The closed roll is proposed and never moved in this scenario. The audit is pressed and never held. The party's choices shift who supports each, and what each house knows about the others.

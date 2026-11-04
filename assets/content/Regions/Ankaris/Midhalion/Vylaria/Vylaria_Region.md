@@ -44,7 +44,7 @@ Vylaria proper is a broad peninsula and the coastal country around it. The coast
 
 The **Vylarian roads** still join the great cities and run on into provinces the empire no longer holds. Many are in disrepair. The engineering still shows: they run straight, they are paved, and they cross rivers and gorges on arches of cut stone. They remain the main overland trade routes of the region, and a carter who has driven one learns to read the empire's fortunes by where the paving has been patched and where it has simply been left.
 
-### The Kervaron Spine {#the-cervaron-spine}
+### The Kervaron Spine {#the-kervaron-spine}
 
 The empire's western frontier rises into the [[place-kervaron|Kervaron Spine]], a great arc of high mountains between the Vylarian peninsula and the eastern reaches of [[place-elavendre|Élavendre]] and the northeastern marches of [[place-tarvenirgn|Tarvénia]]. Its dozen narrow passes are the only practicable crossings from east to west. [[affiliation-seldan|Seldan]], the Senate, lists the range as imperial territory on the strength of the boundary-stones its legions planted at the passes in [[lore-westernwars|the Western Wars]], and the empire has never governed a valley of it. The Kervaron is the sacred country of the [[lore-aelendnppl|Áelendan]], who hold its peaks to be the dwellings of [[affiliation-firstgods|the First Gods]], and Vylarian merchants cross it by paying the clans a passage-gift at the first camp below each pass. Since the [Doran Hilvan]{.name data-type="affiliation"} was lost in the range ([[lore-twelfthloss|The Loss of the Twelfth]]), no merchant questions the gift and the chancery has not raised the range with the clans.
 
@@ -100,3 +100,6 @@ The River Vylaris
 
 [[lore-vylarianclt|Vylarian]]
 : the people and their manners
+
+[[lore-hstrymdhln|The History of Vylaria and Mídhalión]]
+: the ages of the land, from the kings to the present
