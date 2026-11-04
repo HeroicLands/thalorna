@@ -1,6 +1,8 @@
 # Writing Thalorna's gazetteer notes
 
-Thalorna's supporting notes form a **complete reference**. The Adventurer's Guides offer an introduction to a culture and routes into that reference. The notes beyond them carry the depth: regions, settlements, ruins, maps, leaders and government, institutions, livelihoods, crop yields, weather patterns, people, creatures, and lore. A reader can follow an interesting subject from a guide into as much detail as the setting holds.
+Thalorna's supporting notes form a **complete reference**. The Adventurer's Guides offer an introduction to a culture and routes into that reference. The notes beyond them carry the depth: regions, settlements, ruins, routes, leaders and government, institutions, livelihoods, crop yields, weather patterns, people, creatures, and lore. A reader can follow an interesting subject from a guide into as much detail as the setting holds.
+
+**Every land is written to be adventure-ready.** A party arriving anywhere in Thalorna finds places to stand in, people to meet who want something, trouble that exists without the party, sites worth the journey, things worth taking, institutions that act, and scenarios a referee can run. [The adventure-ready standard](#the-adventure-ready-standard) below sets out what that asks of each note: its outline, its depth, its present and its hooks.
 
 **These notes exist to be a pleasure to read.** Their reader is a player or a GM, and the purpose of the whole corpus is to make Thalorna approachable, readable and interesting to them. It is not an encyclopedia that sets out the facts and stops. A note earns its reader's attention the way a good teacher does: it opens on something worth knowing, it comes from someone who knows the subject, and it carries the reader from that first hook into the detail. Writing its writer enjoyed is usually writing its reader enjoys.
 
@@ -26,7 +28,7 @@ History
 : origins, turning points, recent events, timelines, and the myths people tell about them. History explains present customs and conflicts; recent events give people something to argue about and adventurers something to do.
 
 Place
-: landforms, climate, seasons, ecology, resources, waterways, routes, settlements, and maps. Geography should shape where people live, trade, travel, and build defenses. If magic changes the expected pattern, show its consequences. Where a feature defies the land around it—a desert between forest and sea—give the reason, even in a sentence.
+: landforms, climate, seasons, ecology, resources, waterways, routes, settlements, and where each lies. Geography should shape where people live, trade, travel, and build defenses. If magic changes the expected pattern, show its consequences. Where a feature defies the land around it—a desert between forest and sea—give the reason, even in a sentence.
 
 Livelihood
 : population, rural and urban life, resources, production, trade, wealth, currency, and the practical effects of technology or magic.
@@ -41,7 +43,7 @@ People, places, and creatures
 : select figures and sites that reveal how the setting works. Give characters more than offices or titles; give creatures a place in the environment and culture rather than treating them as interchangeable encounters. Ground a people's traits in their own culture and nature, never in a genre's stock version of them: a people who work stone or keep old woods are not therefore the familiar dwarves or elves. The most convincing creatures exploit their habitat better than anything else in it, often out of sight.
 
 Story potential
-: connect current tensions, competing aims, unusual places, and local beliefs to situations that players or writers can act on.
+: connect current tensions, competing aims, unusual places, and local beliefs to situations that players or writers can act on. A note states its live tension in its present section, naming who is involved, as [History and the present](#history-and-the-present) describes.
 
 The authors stress cause and effect. A resource changes trade; trade changes roads and ports; roads and ports change political power. Likewise, common magic or a distinctive climate should have visible effects on ordinary life. Show these connections in the relevant notes, so readers understand a living system rather than a collection of unrelated facts. Research into real places can supply believable detail, provided the resulting setting has its own logic and identity.
 
@@ -53,7 +55,14 @@ One test serves every region and polity overview: it says in a sentence what thi
 
 ## Choose a voice that suits the subject
 
-**The natural voice is someone who knows the subject teaching it to someone new.** A god and that god's festival are best explained by one of the god's priests—a high priest, or a low priest with the patience for a newcomer—speaking to a person who has just arrived at the temple. A region is described by someone who has lived and worked in it, talking to a traveler who has not. A guild is explained by a member bringing on an apprentice, a law by the person who enforces it, a road by the carter who drives it. The speaker knows what a newcomer needs first, what a newcomer gets wrong, and which story makes the point stick. That teaching stance is what makes a note approachable, and it is the default for every subject a person in the setting could teach. The speaker addresses the newcomer directly, so second person is the ordinary form of these passages.
+**The natural voice is someone who knows the subject teaching it to someone new.** A god and that god's festival are best explained by one of the god's priests—a high priest, or a low priest with the patience for a newcomer—speaking to a person who has just arrived at the temple. A region is described by someone who has lived and worked in it, talking to a traveler who has not. A guild is explained by a member bringing on an apprentice, a law by the person who enforces it, a road by the carter who drives it. The speaker knows what a newcomer needs first, what a newcomer gets wrong, and which story makes the point stick. That teaching stance is what makes a note approachable. The speaker addresses the newcomer directly, so second person is the ordinary form of these passages.
+
+**A note takes two voices, and its sections decide which.**
+
+- **The teaching voice** carries a culture note, the overview of a faith and the overview of a region, and the _Arriving_ section of a city or town: the passages a reader comes to for understanding.
+- **The gazetteer voice** (Mode B under [Set the register](#set-the-register-by-the-notes-job)) carries every section a referee looks a fact up in: the ruler and the offices, the law, the holdings, the present, and every keyed list of people, places or rooms. It is detached third person that asserts, so a referee finds the holder of an office or the hour the gates close in seconds.
+
+A region note opens in the teaching voice and turns to the gazetteer voice at its realms and its present; a city's _Arriving_ is taught, and its politics are stated.
 
 A teacher orders the lesson. Begin with **common knowledge**—what a local grows up knowing and a newcomer has to be told—and move from what any child knows to what an informed adult knows: who rules, then on what terms, then who opposes them this year. A warning is one of the strongest teaching devices: what gets a newcomer into trouble carries a rule and the attitude behind it in one sentence, and it is often the first thing a priest or a local says.
 
@@ -61,7 +70,7 @@ Describe society **from within** through the voices of people who occupy differe
 
 A sage, guide, priest, steward, farmer, merchant, or other knowledgeable local can explain a subject in a way that feels like a story. Choose the speaker for what they plausibly know. A temple scholar may know the formal history of a shrine; a boat pilot may know its approach and the river's moods. Give the speaker a reason to address the reader, and let their perspective reveal something specific. A short anecdote, remembered conversation, or explanation offered to a visitor can make an important fact stick.
 
-The speaker is **an option, not a template** for every note. Maps, rosters, measurements, and procedures often need a direct reference voice. Even in a narrated note, the reader must be able to locate the facts without extracting them from a long monologue. A voice can frame a section or provide an occasional quotation while the surrounding prose explains the subject plainly. An attributed speaker may use first person; the note's explanatory prose need not adopt that voice.
+The speaker is **an option, not a template** for every note. Rosters, measurements, procedures and every other lookup section take the gazetteer voice. Even in a narrated note, the reader must be able to locate the facts without extracting them from a long monologue. A voice can frame a section or provide an occasional quotation while the surrounding prose explains the subject plainly. An attributed speaker may use first person; the note's explanatory prose need not adopt that voice.
 
 An in-world speaker has limits. They may be mistaken, partisan, or unaware of a secret. Signal whose account the reader is hearing, and distinguish belief, rumor, and contested memory from established setting facts. The manual points out that legends often preserve what people believe rather than what happened. That difference can enrich a note, provided the reader can tell which claim is which.
 
@@ -112,7 +121,7 @@ unresolved. Every pronoun has a named referent, every abstraction is cashed out 
 the sentence that raises it, and the shape of a long sentence comes from
 parallelism rather than from stacked clauses.
 
-When a passage is not framed in a speaker's words, it keeps the teacher's stance in the narrator's own voice: it explains to a newcomer what someone who knows the place or the faith would explain, in the order a newcomer needs it. It states what is there, puts the figure in the sentence, names the tenant rather than the agricultural sector, and says plainly that a road is bad or a place is poor. It does not admire its own arrangement of the material, and it does not hold the reader at arm's length with neutral catalogue prose. Attributed speakers, anecdotes and concrete moments work inside that voice, as the sections above describe.
+When a teaching passage is not framed in a speaker's words, it keeps the teacher's stance in the narrator's own voice: it explains to a newcomer what someone who knows the place or the faith would explain, in the order a newcomer needs it. A lookup section states its facts flat in the third person. Both voices state what is there, put the figure in the sentence, name the tenant rather than the agricultural sector, and say plainly that a road is bad or a place is poor. Neither admires its own arrangement of the material, and the gazetteer voice is never catalogue prose with the people left out. Attributed speakers, anecdotes and concrete moments work inside the teaching voice, as the sections above describe.
 
 ### Two failures, and they are opposites
 
@@ -197,7 +206,7 @@ _reflects_ adds no fact.
   subject. A named or specified speaker whose account the note attributes is a
   different thing, and is welcome.
 - **Talking at the reader instead of to them.** Second person is natural and
-  welcome wherever the teacher addresses the newcomer—the priest telling you
+  welcome in a teaching passage, where the teacher addresses the newcomer—the priest telling you
   what the festival asks of you, the local telling you which ford floods in
   spring—and in a creature's first-encounter Appearance or a scenario's
   read-aloud text. Keep the address steady through a passage rather than
@@ -209,9 +218,10 @@ _reflects_ adds no fact.
 
 1. **Assert present institutional fact.** Who rules, how many people live there,
    which faiths are proscribed, what the muster is: all stated flat.
-2. **Hedge only three things:** the deep past, the supernatural, and what a people
-   claims about itself. Use one hedge, put it early, and let the rest of the
-   sentence stand.
+2. **Hedge only what is not established:** the deep past, the supernatural, and
+   belief, rumor and contested memory, including what a people claims about
+   itself (_it is said_, _the miners claim_). Use one hedge, put it early, and let
+   the rest of the sentence stand.
 3. **Qualify a kind of thing; assert a named thing.** _Most manors have a mill_,
    against _the temple at the ford is closed_.
 4. **Name the person who does the thing.** Not _agricultural labor_ but _the
@@ -236,13 +246,13 @@ _reflects_ adds no fact.
 
 One voice works at five settings. The note's job decides which.
 
-| Mode                           | Mean words | Paragraph              | Qualification                   | Used for                                  |
-| ------------------------------ | ---------: | ---------------------- | ------------------------------- | ----------------------------------------- |
-| **A** Thematic essay           |   22 to 26 | about 60 words         | heavy: _most_, _in some places_ | culture, custom, and lore across a region |
-| **B** Gazetteer entry          |   20 to 25 | about 50 words         | light; asserts                  | region, polity, settlement, site          |
-| **C** Register line            |   11 to 14 | about 25 words         | almost none                     | rosters, name lists, See Also glosses     |
-| **D** Narrative history        |   22 to 26 | about 110 words        | moderate                        | history notes and accounts of events      |
-| **E** Apparatus and tool prose |   12 to 16 | two to three sentences | scope, caveat, unit             | rules, items, macros, documentation       |
+| Mode                           | Mean words | Paragraph              | Qualification                   | Used for                                                                                            |
+| ------------------------------ | ---------: | ---------------------- | ------------------------------- | --------------------------------------------------------------------------------------------------- |
+| **A** Thematic essay           |   22 to 26 | about 60 words         | heavy: _most_, _in some places_ | culture, custom, and lore across a region                                                           |
+| **B** Gazetteer entry          |   20 to 25 | about 50 words         | light; asserts                  | the lookup sections of place and affiliation notes: rulers, law, holdings, the present, keyed lists |
+| **C** Register line            |   11 to 14 | about 25 words         | almost none                     | rosters, name lists, See Also glosses                                                               |
+| **D** Narrative history        |   22 to 26 | about 110 words        | moderate                        | history notes and accounts of events                                                                |
+| **E** Apparatus and tool prose |   12 to 16 | two to three sentences | scope, caveat, unit             | rules, items, macros, documentation                                                                 |
 
 A culture note describes a kind of institution across many places, so it says
 _most_ and _nearly all_. A settlement note describes this place, so it asserts. A
@@ -250,6 +260,292 @@ history may use a first person plural and allow itself one dry observation in a
 stretch, aimed at a pretension and never at a people. One folklore passage in a
 note—what neighbors say about each other, repeated with visible amusement—is the
 place the compiler's voice relaxes; use it once in a note, or not at all.
+
+## The adventure-ready standard
+
+A land is ready for adventure when a referee can open any of its notes and find
+what play needs: who rules, what is wrong now, who wants what, where to go and
+what waits there. The rules in this section say how each note carries that. Every
+count in them is a sanity range, as [Counts are sanity ranges](#counts-are-sanity-ranges)
+explains, and the test is always whether the information is there.
+
+### Outlines and slot ids
+
+**Every kind of note has a standard outline**, and the outline registry,
+`utils/outline-registry.yaml`, holds them all. The registry is one machine-readable list whose entries are selected by
+a note's type, subtype and tags. For each kind it gives the sections, called slots, in order,
+and each slot has an id, a heading and a status: _required_, _when warranted_ or
+_optional_. The registry is the authority on which slots a kind takes and in
+what order; this guide says what goes in them and does not repeat the list.
+
+**A slot is recognized by its id, never by its heading's wording.** A heading may
+take an evocative name in the note's own voice, and it carries the slot's id as
+an anchor:
+
+```markdown
+## Trouble at the Lower Ford {#present}
+```
+
+These ids are the slots the guidance below refers to:
+
+| Id              | Slot                                             |
+| --------------- | ------------------------------------------------ |
+| `{#present}`    | the current state and its live tension           |
+| `{#history}`    | everything that happened up to the current state |
+| `{#hooks}`      | an optional closing index of ways in             |
+| `{#playtest}`   | a scenario's record of play at a table           |
+| `{#appearance}` | a being's outward first impression               |
+| `{#dossier}`    | a being's account for the person running it      |
+
+The outline guard (`npm run lint:outline`) reads the registry and checks each note's ids and their order.
+It reports, and does not fail the build, until a land is finished; from then on a
+missing or misplaced slot in that land is an error. A guard sees only ids: whether
+a present section names a real tension, or a history tells the place's own story,
+is judged when the land's rendered pages are read.
+
+### Depth follows the likelihood of play
+
+A place is written as deep as a party is likely to need it, which is not the same
+as how large or old it is. There are four depths, and a deeper one never removes
+a shallower one: a city with a full note still has its line in its parent and its
+row in the region's settlement table.
+
+| Depth        | Form                                                                  | Size                   |
+| ------------ | --------------------------------------------------------------------- | ---------------------- |
+| Index line   | the parent names and links the child, or lists it with an `sql` table | one line               |
+| Row          | a row in the region's `data.settlements`                              | one row                |
+| Summary note | its own note, with its outline's required slots                       | about 250–600 words    |
+| Full note    | its own note at its full outline, with named people and its present   | about 900 words and up |
+
+**Every child place has an index line in its parent.** A hamlet, a village among
+many and a manor nobody visits is a row. A town, a village a being lives in or a
+hook names, and a site with a reason to go is a summary note. A seat, a market of
+regional reach, a crossroads, a frontier, a destination, a capital and a
+scenario's location is a full note.
+
+**A place is promoted when it is a seat, a market, a crossroads, a frontier or a
+destination, or when a character, event, hook or scenario needs it.** For a row
+that might become a note, ask which of six things the place has: a crossing, a
+work, a holy place, a market, a seat, or a name already doing work in other
+notes. A place with none of them stays a row.
+
+**A summary or full settlement has at least one being who lives there**, named in
+that being's `data.homes`.
+
+**A stub note counts as a row.** A note of about 200 words or fewer that carries
+its row's facts as data (`population`, `government`, `market`, and, where its
+culture holds land, its holder by address) and reads as a whole entry is at row
+depth. It keeps to the [secrets rule](#secrets), and its `draft` tag comes off at
+its land's read. It is held to row depth only: it needs no homed being and no
+present section. Only the promotion test raises it, and no note is deleted in
+favor of a row.
+
+**The slots are the test of depth; a word count only flags a note to look at.** A
+400-word town missing its present section is short of summary depth, and a
+700-word one that has every required slot is not too long.
+
+### Counts are sanity ranges
+
+**The information a note must carry is the test, and every count in this guide is
+a sanity range around it.** The word bands of the depth ladder, the number of
+hooks or scenes, the believed readings of a strange site, the keyed residents of
+a town and every other figure describe what a well-made note usually holds. A
+land's read may accept fewer with a stated reason. Three believed readings of a
+ruin are not required where the land supplies one strong account, and a fourth
+hook is not written to reach a number.
+
+### Where a place lies
+
+**Thalorna has no map grid.** A place is located by its `parents`, by the bearings
+and days of its `data.routes`, and by its `data.borders`. Distance is given in
+days of travel, with miles where a note needs them. A route or border is stated
+from both ends: the far note returns it.
+
+Maps exist only where the owner commissions them. Where the layout of a site or a
+building drives play, the note describes its connected areas instead: the
+entrances, each area, the ways between them and the distances.
+
+### Districts, routes and the kinds kept as tags
+
+**A `place/district` is a recognized division of a larger place**, usually an
+administrative one: a city's quarter, a town's ward, a kingdom's shire. Its
+`parents` always names the `place/settlement` or `place/region` it divides, and a
+guard reports a district without one. A district may name its own governing
+affiliation in `data.government`, such as a ward's council; without one it falls
+under its parent's government.
+
+**A `place/region` is land defined by its geography or its people.** A valley that
+crosses two shires is a region, and each shire is a district.
+
+**A `place/route` is a road, a pass or a sea lane**, and it carries
+`data.routes`. A river stays a `place/feature`.
+
+The other kinds are tags or live elsewhere:
+
+- **A hamlet** is tagged `hamlet`, and is a row in its region's settlement table
+  until it earns a note.
+- **A manor** is a settlement tagged `village`. A `manor` tag is declared when a
+  land needs one.
+- **A religious house** keeps its offices on its faith's affiliation note; the
+  building is a `place/site` or `place/structure` tagged `temple`.
+- **A unique item** is marked by `data.unique: true`, not by a tag (see
+  [Offices, holders and unique items](#offices-holders-and-unique-items)).
+
+An address carries only a note's type, so changing a place's subtype changes no
+link.
+
+### Governance and holding
+
+**Governance is the one required fact about who runs a place.** Every settlement
+names its governing body in `data.government`, and a district may name its own.
+The person in charge is never written as a key on the place: it is the holder of
+the governing body's first-listed office, derived from the beings who hold it.
+
+**Tenure is never labelled.** No tag or key names a holding model. Where a
+culture holds land, a row of its region's settlement table may name what holds
+the settlement by address, and the meaning follows from what that address is: a
+temple, a lineage, the city, a kin group or a person. Where land is not owned,
+no row names a holder. Who governs and who holds are separate facts: a
+settlement may be governed by the crown and held by a temple. Disputed holdings,
+crown estates and endowments are told in prose.
+
+**A region declares its settlement table in `data.settlements`**, as `rows` and a
+`tail`. Each row gives a settlement's `place` (its note's address) or `name`
+(plain text, where it has no note), its `market` (the class from 1 to 6) and
+`population`, and optionally its holder, as `heldBy` (an address) or `holder`
+(plain text), and a `for` phrase saying why the place is there. The `tail` is the
+sentence stating what the table leaves out. Where a row links a note, the two
+agree, and every settlement note has its row in the nearest region above it
+that declares a table. The table is
+generated from this data; a hand-written table under `## Settlements` is refused.
+The package-build format reference gives the full shape.
+
+**A polity with a liege names it in `parents`.** Its `seat` names its capital, or
+is `null` where it has none.
+
+### Offices, holders and unique items
+
+**An office's holders are derived, never authored.** A being states the office it
+holds in its own entry, under the body it serves:
+
+```yaml
+data:
+  affiliations:
+    affiliation-rivercouncil: { rank: 3, office: Warden of the Ford }
+```
+
+The build lists, for each office in a body's `governance.offices`, every living
+being whose `office` names it, and a guard reports an office a being names that
+the body does not have. `office` may be a list, for a person who holds two posts
+in one body. Many holders, a joint office and a vacancy need nothing more: a
+vacant office lists no one, and a holder drops out once `data.died` is set. An
+office held separately in each place, such as the headman of each village, takes
+its place from the holder's `data.homes`.
+
+**`data.unique: true` marks a one-of-a-kind item**, an heirloom sword or a
+relic, on its gear note. Without it an item is common, like a coil of rope.
+Neither possession nor ownership is data: possession changes in play, and a
+claim to an item is often the dispute a hook turns on. Where the item lies and
+who claims it are prose in its note, linked to the places and beings involved,
+and a guard checks that a unique item's note links at least one place or being.
+An item is never described apart from who holds it and why it matters: its story
+is told as legend and attributed, and what it does is told as effects, never as a
+mechanism.
+
+**The declared keys are filled as each land is worked**: `population`,
+`government` and `market` on places, `seat`, `symbol` and `culture` on
+affiliations, `borders` and `routes` both ways. A tribe's fighting strength is
+not a key; it is prose in the tribe's present section.
+
+**The setting's present is `currentDate` in `package-build.config.yaml`.** It is
+the one value the build reads for ages and dated events, and no note declares or
+overrides it. Prose may name the current year where it agrees with `currentDate`.
+
+### History and the present
+
+**History is everything that has happened; the present is a thin slice of the
+now.** A place's `{#history}` tells everything that occurred, with its turns and
+reversals, up to the moment the current state took hold, whether that moment is a
+coup and civil war last year or a long prosperity. No fixed event marks the
+boundary. Its `{#present}` describes only that current state: the stage as it
+stands, its parties, factions, stresses and challenges, or its contentment and
+the reason for it. The present never retells the history.
+
+**`{#history}` is required on polities, seats, cities and sites**, and optional on
+towns, villages and every other place, at the writer's judgement.
+
+**`{#present}` belongs to every place and affiliation note at summary depth or
+deeper**; a stub at row depth needs none. A lore note, such as a history event or
+a culture, has neither slot. The present is written in the present tense, names
+the people involved, and exists without the party: the quarrel goes on whether
+anyone arrives or not.
+
+```markdown
+## History {#history}
+
+…At the spring fair the Warden of the Ford doubled the toll to pay for a new
+bridge.
+
+## The Present {#present}
+
+The ford toll is the quarrel. The Warden of the Ford holds it at double the old
+rate, and the drovers of the upper valley refuse to pay it. Their headman's
+demand that the river council unseat the Warden stands before the council, and
+the autumn drive must cross the ford.
+```
+
+A smaller entry, such as a keyed resident in a town note or a ward described in
+a paragraph, carries its tension inline, in the same present tense and with the
+same named people.
+
+**History is compressed going up and re-angled going down, and never retold.** A
+seat or a city carries about a page of its own history; a polity two to six
+pages, by reign or era; a region names its eras in a few sentences and links its
+history notes. Where several places share an event, it has its own `lore/history`
+note with `data.events`, and each place links to it and tells only its own part.
+
+**Date by distance from the present.** The deep past takes an era or "unknown";
+the remote past a century or _c._; historic events a year; living memory a year
+and season; the present is stated against the setting's present; and a
+scheduled event takes its year or its feast.
+
+### Hooks
+
+**A tension lives in the body of the note, and a hook points at it.** A place or
+affiliation note may close with `## Hooks {#hooks}`: a short index of ways in,
+each naming a person by link and pointing at a tension stated above. A hook
+never holds a tension the body lacks.
+
+```markdown
+## Hooks {#hooks}
+
+- **The drovers' petition.** The upper-valley headman wants witnesses to the
+  Warden's tolls before the council sits.
+```
+
+The lands with their own hook rulings keep them: Vedyara writes hooks on its
+polity and pass notes only, and Kalihara keeps its seeds in its scenarios and its
+beings, never on a settlement. A being keeps its `Plot Hooks`, and a scenario its
+hooks by archetype. A hook's title is its own; a stock title repeated across
+notes tells the referee nothing.
+
+### Secrets
+
+**Every note separates the player's view from the referee's by section.** A note's
+open text is what anyone in the world can see or hear, with belief, rumor and
+contested memory hedged in the sentence. The truth sits in `.secret` sections or
+`:::secret` blocks titled to match their source, which Foundry shows to the GM
+alone. On the website a secret is a spoiler, not a lock; anything that must never
+be published belongs in a YAML comment.
+
+**No public text discloses or plainly implies a secret.** That covers the
+`description`, the body, `{#present}`, `{#hooks}` and closing lines. A present
+tension or a hook that turns on a secret goes inside the secret block, so each
+layer's hooks point only at that layer's tensions. Before a note goes to review,
+read its public text against the secret blocks of every note it draws on.
+
+**A scenario is the exception: it is wholly GM material**, and its truth is
+stated plainly.
 
 ## Guidance by note type
 
@@ -283,7 +579,7 @@ data:
   lore: [] # any lore note associated with the character, such as social standing or law
   culture: "" # Primary culture, naming a lore note with `subType: culture`
   homes: [] # the places the being calls home, naming the settlement rather than the region around it
-  affiliations: {} # bodies the being belongs to, keyed by Address, each entry holding the standing it holds there (`rank`, `office`)
+  affiliations: {} # bodies the being belongs to, keyed by Address, each entry holding the standing it holds there (`rank`, and `office`: one office or a list)
   socialTies: {} # Defining support and opposition, keyed by Address (see below)
   gender: "" # female, male, nonbinary, none, or other (see the vocabulary table below)
   species: # lore note associated with the being species, if any (e.g., `humanflk`)
@@ -351,7 +647,7 @@ TBD.
 
 ## Plot Hooks
 
-<invent 2-3 plot hooks based on the informaton above, for instance:>
+<invent 3-5 plot hooks based on the information above, for instance:>
 
 1. **The Caravan Master's Commission**: A caravan master arrives in Kethramír with an extraordinary offer. He has been hired by a distant noble to assemble a company of capable warriors and craftspeople for a dangerous expedition into the distant mountains, where mithral deposits are rumored to exist. He seeks Afzandah specifically, having heard that she can work with exotic materials under harsh conditions. The commission is substantial—enough to fund a year of experimental work—but it requires her personal involvement in the expedition's field operations. The caravan master is vague about the precise dangers, mentioning only "environmental hazards" and "territorial complications." Afzandah's knowledge of mineralogy and material sourcing is what he needs, but she would be away from her workshop for months. The real danger is that the caravan master's patron is actually an evil sorcerer, who seeks mithral not for legitimate commerce but for a dark ritual. Afzandah and her party would discover this truth only after accepting the contract.
 ```
@@ -538,7 +834,7 @@ complexion: [weathered, ruddy, scarred]
 
 Albinism is four values together: `white` hair, `violet` eyes, `pale` skin and a `translucent` complexion. Vitiligo is one: a `complexion` of `vitiligo` beside whatever tone `skin_color` states, because the patches sit on a skin that still has its color.
 
-`data.appearance.extra_features` is free text and carries everything the closed fields cannot: a bald head, a scar and where it runs, a tattoo and what it shows, a limp, a missing finger, the way someone holds themselves.
+`data.appearance.extra_features` is free text and carries everything the closed fields cannot: a bald head, a scar and where it runs, a tattoo and what it shows, a limp, a missing finger. It records the body only: manner, bearing and temperament are refused by the appearance check and belong in the prose.
 
 A value outside these tables is a decision, not a convenience. Widening a list means adding the value to the table with a definition, in the same change that first writes it. `data.appearance` takes the five keys above and no others.
 
@@ -553,6 +849,8 @@ Every being uses these **H1 headings with their anchors intact**:
 The anchors are part of the content format: the build sends `Appearance` to the actor's appearance or description field and `Dossier` to its dossier or biography field. A lower-level heading does not serve the same purpose. If the being has a portrait, place it first inside `Appearance`, as in the examples; a being without a portrait has no placeholder image. Keep the remaining being subsections beneath `Dossier`.
 
 **Appearance is outward facing.** Write what someone experiences on first encountering the person or creature: visible features, clothing or surface, movement, voice or other sounds, smell, bearing, and the immediate impression these details create. Describe only what an observer can perceive at that moment. Do not reveal private motives, history, hidden nature, or tactical intentions there. **Dossier is for the person running the being.** Put the deeper account there: background, personality, motives, relationships, behavior, capabilities, secrets, and ways to bring the being into play. It can explain what the first impression conceals or gets wrong. Treat this as an information boundary when writing, regardless of how much detail either section needs.
+
+**The Dossier is published with the note, so the [secrets rule](#secrets) holds inside it.** What a being knows that others do not, what it really wants where that differs from what it shows, and what its notes' sources keep secret go in a `:::secret` block titled to match its source. No open line, the `description` and the plot hooks included, discloses or plainly implies such a secret; a plot hook that turns on one goes inside the block. A being's plot hooks arise from the tensions of its home, as that place's present states them.
 
 **`character`—a playable individual.** [Alikos Bridutis](../assets/content/Characters/Heroes_and_Knaves/Alikos_Bridutis.md) illustrates the depth. Let `Appearance` give a visitor's first impression; use `Dossier` for the life that brought this singular person to their present position and the information needed to play them. Within `Dossier`, use `Psyche` with `Personality`, `Motivation`, `Strengths`, and `Weaknesses`; use `Social` with `Patrons`, `Enemies`, and `Affiliations`; close with `Plot Hooks`. Include **1–3 patrons and 1–3 enemies**, each with a reason for the relationship, and **3–5 plot hooks** involving the character. Develop enough history, habits, relationships, and conflicting commitments to support decisions beyond one encounter. Describe strengths and weaknesses through choices and consequences, rather than adding another set of statistics in prose. Each hook should arise from the character's established aims and relationships.
 
@@ -689,7 +987,7 @@ Its body eats through leather, cloth and wood in a few breaths.
 
 **Voice:** An informed account of a living institution, with attributed member and outsider views where they disagree. State its purpose, membership, seat, reach, governance, offices, resources, allies, and opponents. Then show how a person encounters its authority: a hearing, initiation, levy, petition, market bargain, or rite. For polities and governmental bodies, explain who actually decides and enforces; for faith and magical traditions, show practice as well as doctrine; for guilds, lineages, ventures, fellowships, orders, and criminal groups, show what membership asks and gives. Goals, motives, and conflicts make the organization useful for play.
 
-**A rung is a standing, what a member is; an office is a post, what a member does.** Leadership is an office held by a member of the top rank, not a rank above it, unless the post is held for life or the body treats it as a higher standing, and a rank never falls when an office is left: a bishop stays a bishop after serving as Presiding Bishop, and a director stays a director after the presidency. Each office description says which rung holds it.
+**A rung is a standing, what a member is; an office is a post, what a member does.** Leadership is an office held by a member of the top rank, not a rank above it, unless the post is held for life or the body treats it as a higher standing, and a rank never falls when an office is left: a bishop stays a bishop after serving as Presiding Bishop, and a director stays a director after the presidency. Each office description says which rung holds it. An office names no holder: its holders are the beings whose affiliation entries name it, as [Offices, holders and unique items](#offices-holders-and-unique-items) describes.
 
 Every affiliation declares an ordinary membership standing at level 1. A single
 standing is enough when offices describe the differences between its members.
@@ -742,19 +1040,14 @@ data:
 
 ## Overview
 
-<short context overview of the affiliation.>
+<what the body is, who leads it, where it sits, and the tension that defines its present>
 
-## Character
+<the outline's other slots, in the order the outline registry gives, among them
+`## History {#history}` and `## The Present {#present}`>
 
-TBD.
+## Hooks {#hooks}
 
-## Relations
-
-TBD.
-
-## Commerce and Currency
-
-TBD.
+<optional: a short index of ways in, each naming a person and pointing at a tension above>
 
 ## See Also
 
@@ -864,7 +1157,7 @@ TBD.
 
 ### place
 
-**Voice:** An informed guide to a physical place. Begin with what a traveler can locate and experience, then explain why the place exists and how its people use it. Keep boundaries, routes, population, governance, resources, weather, maps, and nearby places easy to find. Tune the account to the subtype:
+**Voice:** An informed guide to a physical place. Begin with what a traveler can locate and experience, then explain why the place exists and how its people use it. Keep boundaries, routes, population, governance, resources, weather, and nearby places easy to find. Tune the account to the subtype:
 
 World and celestial
 : Explain the physical cycles and observable effects that shape calendars, seasons, travel, or belief. Put measurements in a form readers can retrieve.
@@ -878,13 +1171,14 @@ Settlement
 Site, structure, and feature
 : Give a clear location and physical description, purpose or origin, present use, access, and relevant dangers or beliefs. A local custodian or traveler may supply a revealing account.
 
-**A place note is about appearance; its secrets carry the truth.** Players read the setting's places, so a place's open text is what anyone there can see—the tangible facts apparent to a visitor or a passer-by—and what the locals say of it: their tellings, rumors, local names and explanations, whether true or false. A telling is reported as said ("the pass guides say…") and the note never suggests whether it holds. The place exists before and after any particular person is there, so the open text does not depend on one adventure's cast. The truth goes in secret sections: what is really there, which tellings are false leads or half-truths and why, the dangers, the hidden passages and mechanisms, and the hidden meaning of what the open text describes. Put the main body of it in a top-level `.secret` section, which in Foundry is a page the GM alone sees, and a single truth in a titled `:::secret` block beside the appearance it explains. An alert inside a secret can tell the GM how to present the hidden fact. On the website a secret is a spoiler, not a lock; anything that must never be published belongs in a YAML comment.
+**A place note is about appearance; its secrets carry the truth.** Players read the setting's places, so a place's open text is what anyone there can see—the tangible facts apparent to a visitor or a passer-by—and what the locals say of it: their tellings, rumors, local names and explanations, whether true or false. A telling is reported as said ("the pass guides say…") and the note never suggests whether it holds. The place exists before and after any particular person is there, so the open text does not depend on one adventure's cast. The truth goes in secret sections: what is really there, which tellings are false leads or half-truths and why, the dangers, the hidden passages and mechanisms, and the hidden meaning of what the open text describes. Put the main body of it in a top-level `.secret` section, which in Foundry is a page the GM alone sees, and a single truth in a titled `:::secret` block beside the appearance it explains. An alert inside a secret can tell the GM how to present the hidden fact. [Secrets](#secrets) gives the rule every note follows.
 
-`data.government` names the governing affiliation by shortcode. A place with a
-positive population must specify it; an explicit `null` means complete anarchy.
-When population is missing or zero, government is optional. Omit the field when
-government is unknown rather than writing `null`. `data.parents` records geographic
-containment and does not identify government.
+`data.government` names the governing affiliation by shortcode. Every settlement
+names one, as [Governance and holding](#governance-and-holding) sets out, and so
+does every other place with a positive population; an explicit `null` means
+complete anarchy. When population is missing or zero, government is optional. A
+district without its own government falls under its parent's. `data.parents`
+records geographic containment and does not identify government.
 
 SQL government columns must join each place’s explicit `data.government` to the
 affiliation’s canonical address or its `documentation` journal address. Exclude
@@ -908,12 +1202,22 @@ data:
   lore: []
   parents: [] # shortcodes of containing places
   population: 0
+  government: "" # the governing affiliation; every settlement names one
+  market: null # market class, 1 hamlet to 6 great city
+  routes: [] # journeys from here: to, bearing, mode, days
   packFolder: ""  # must be specified
 ---
 
 ## Overview
 
-<descripton>
+<what the place is for and its live tension>
+
+<the outline's other slots, in the order the outline registry gives, among them
+`## History {#history}` and `## The Present {#present}`>
+
+## Hooks {#hooks}
+
+<optional: a short index of ways in, each naming a person and pointing at a tension above>
 
 ## See Also
 
@@ -935,35 +1239,44 @@ data:
   lore: [humanflk]
   parents: [] # parent region shortcodes
   population: 0 # population of region
+  borders: [] # neighbors: to, bearing
+  routes: [] # journeys from here: to, bearing, mode, days
+  # settlements: { rows, tail } # the settlement table; see Governance and holding
   packFolder: ""  # must be specified
 ---
 
 ## Overview
 
-<description>
+<one sentence of what the land is about and the specialty it is remembered for>
 
-## Character
+<the outline's other slots, in the order the outline registry gives, among them
+`## History {#history}` and `## The Present {#present}`>
 
-<a sentence or two about what the region geography and biome is like>
+## Hooks {#hooks}
+
+<optional: a short index of ways in, each naming a person and pointing at a tension above>
 
 ## See Also
 
 TBD.
 ```
 
-#### Site, structure and feature template
+#### Site, structure, feature and route template
 
-A site, a structure and a feature carry the same frontmatter and differ only in what
-they are: a site is a place something happened or is done, a structure is a built
-thing, a feature is a thing of the land. The body takes whatever sections the subject
-needs—these notes have no fixed shape beyond closing on `## See Also`.
+A site, a structure, a feature and a route carry the same frontmatter and differ
+only in what they are: a site is a place something happened or is done, a
+structure is a built thing, a feature is a thing of the land, and a route is a
+road, pass or sea lane, which also states its `data.routes`. The body follows the
+outline the registry gives the subtype and its tags, and closes on `## See Also`.
+A site carries `{#history}`, and every one of these at summary depth or deeper
+carries `{#present}`.
 
 ```
 ---
 shortcode: ""
 name: {full: ""}
 type: place
-subType: "" # site, structure, or feature
+subType: "" # site, structure, feature, or route
 description: "" # short description of the place
 tags: [draft]
 data:
@@ -976,7 +1289,14 @@ data:
 
 ## Overview
 
-<description>
+<what it is, where it lies, and why anyone goes there>
+
+<the outline's other slots, in the order the outline registry gives, among them
+`## History {#history}` and `## The Present {#present}`>
+
+## Hooks {#hooks}
+
+<optional: a short index of ways in, each naming a person and pointing at a tension above>
 
 ## See Also
 
@@ -988,6 +1308,15 @@ TBD.
 **Voice:** Actionable GM guidance. Present the situation, stakes, participating people and groups, locations, clues, likely developments, and choices open to players. Begin with a playable moment or problem, then separate the public premise from GM knowledge. Keep the scenario connected to the setting's existing conflicts; atmosphere should help a GM run the scene rather than hide its structure.
 
 **A scenario is wholly GM material.** Players never read an adventure, so it carries no secret sections or blocks; its truth is stated plainly. Its markup speaks to the GM and to the table. Sprinkle alerts liberally: `[!TIP]` for presenting a scene or a person, pacing, landing a reveal and rewarding a party that guesses early; `[!WARNING]` where the GM could give something away too soon or a choice closes a route; `[!IMPORTANT]` for the one thing a scene must establish; `[!NOTE]` for cross-references. A plain blockquote, with no alert marker, is text to read or paraphrase to the players.
+
+**A scenario's trouble exists without the party.** It is built on a tension a land's notes already state, as a quarrel between people and bodies rather than a puzzle with one answer, and it says what happens if the party does nothing.
+
+**A scenario carries no statistics.** Every person or creature it uses is listed by address in `data.cast`, and its numbers live once, on that being's compiled Actor. Generic opponents (bandits, guards, cultists) are reusable NPC templates or bestiary creatures, linked the same way. The scenario may state danger in words for the GM, such as "a fight a seasoned party wins at a cost", never as numbers. Its places are listed in `data.locations` and the bodies with a stake in it in `data.factions`, and a guard checks that every address in the three lists resolves. The cast is drawn from beings who exist; where nobody holds an office the scenario needs, the person is written as a being note alongside it.
+
+**Two signals say how ready a scenario is, and neither implies the other.**
+
+- **The `draft` tag** is the author's judgement that the scenario still needs work. It comes off when the scenario is judged finished, at its land's rendered read, whether or not it has been played, and it is kept or put back when play shows more work to do. A scenario states no `data.status`.
+- **`## Playtest {#playtest}`** is optional and absent until the scenario is first run at a table. It records each run (the date, the table's size, the party's makeup and the scenes covered), the difficulty as played scene by scene, the adjustments a GM can make, and what the party did that the scenario did not foresee. A hole found in play is fixed in the scenario itself.
 
 ### doc
 
@@ -1162,9 +1491,9 @@ verse and its caption exactly as they stand.
 - **State facts where readers expect them.** Put locations, leaders, boundaries, normal weather, and other lookup information in clear prose or structured fields. Let narrative add meaning around them.
 - **Show consequences.** Explain what a measurement, custom, law, resource, or belief changes in everyday life.
 - **Keep perspectives identifiable.** Attribute a local's words or beliefs, especially where accounts disagree.
-- **Use maps and related notes.** Locate places and show routes between them; link to the adjacent region, settlement, institution, person, creature, or event when the relationship helps readers continue exploring.
+- **Locate places and link related notes.** Give each place its `parents`, its bearings and its days of travel, and show routes between them; link to the adjacent region, settlement, institution, person, creature, or event when the relationship helps readers continue exploring.
 - **Keep names findable.** Use a full-name wikilink or name span on first
   prose use, as _Mark every name_ sets out.
-- **Use space according to importance.** A major settlement can support a substantial account. A minor site still needs enough detail to distinguish it and make its links useful.
+- **Use space according to the likelihood of play.** A seat, a market or a destination supports a full account, as [Depth follows the likelihood of play](#depth-follows-the-likelihood-of-play) sets out. A minor site still needs enough detail to distinguish it and make its links useful.
 
 The aim is a reference that rewards both kinds of use: a GM looking up a precise fact during preparation, and a player following their curiosity through the world. The facts stay dependable. The prose makes them matter.

@@ -33,15 +33,16 @@ An unknown folder shortcode fails the build.
 
 ## Event metadata
 
-Any `lore` note may carry a `data.event` map. It records the event's kind,
-date, sources, places affected, participants, and relationships to other
-events. The note's prose remains the readable account; the map makes the
+Any `lore` note may carry a `data.events` list. Each entry records one event's
+kind, date, sources, places affected, participants, and relationships to other
+events. The note's prose remains the readable account; the list makes the
 chronology and its evidence checkable. See
 [The Founding](Lore/History/The_Founding.md) for a complete example.
 
-World events form the shared history spine and carry `data.event.depth: world`.
-An event a single region can hold is that region's, and its metadata lives on
-that region's own lore note.
+World events form the shared history spine and carry `depth: world`. An event a
+single region can hold is that region's, carries `depth: region`, and lives on
+that region's own lore note. A place tells its own part of an event in its
+`{#history}` section and links the event's note rather than retelling it.
 
 ## Adding a note
 
