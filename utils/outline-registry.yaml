@@ -30,6 +30,31 @@ lands:
     velanthia: [velanthrgn]
     grukarholm: [grkrhlmrgn]
 
+# The archetypes a land's beings are expected to cover (the plan's C.6.1). The
+# coverage guard (utils/coverage-guard.mjs) reports each one a land lacks.
+archetypes:
+    - warrior
+    - skirmisher
+    - infiltrator
+    - mage
+    - cleric
+    - healer
+    - scholar
+    - courtier
+    - woodsman
+    - mariner
+    - artisan
+    - trader
+    - commoner
+    - entertainer
+    - guildsperson
+
+# An archetype a land's canon excludes: land id, then archetype, then the reason.
+archetypeAbsences: {}
+
+# Addresses of affiliations whose shared governance block an owner ruling keeps.
+sharedGovernance: []
+
 # Ids of the lands held to this registry. A finding in a finished land is an
 # error; in every other land it is a warning.
 finished: []

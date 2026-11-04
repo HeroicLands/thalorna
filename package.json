@@ -71,6 +71,7 @@
         "lint:earth-names": "node utils/earth-names.mjs",
         "lint:earth-words": "node utils/earth-words.mjs",
         "lint:outline": "node utils/outline-guard.mjs",
+        "lint:coverage": "node utils/coverage-guard.mjs",
         "lint:observer": "node utils/observer-shape.mjs",
         "lint:verse": "node utils/verse.mjs",
         "lint:veldikko": "node utils/veldikko-guard.mjs",

@@ -1,0 +1,934 @@
+{
+    "_comment": "Content trees the coverage guard test writes, one per rule. `words` pads a body with filler words. `archetypes` and `absences` are the registry's archetype list and the land's recorded absences for that tree.",
+    "rules": {
+        "present-coverage": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land. [[place-presenta|A]] [[place-presentb|B]]\n\n## Current Situation {#present}\n\nTrouble.",
+                    "words": 300
+                },
+                "PresentA.md": {
+                    "fm": {
+                        "shortcode": "presenta",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A.\n\n## Current Situation {#present}\n\nNow.",
+                    "words": 300
+                },
+                "PresentB.md": {
+                    "fm": {
+                        "shortcode": "presentb",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "B.",
+                    "words": 300
+                }
+            }
+        },
+        "homed-being": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n## Current Situation {#present}\n\nTrouble.",
+                    "words": 0
+                },
+                "Homed.md": {
+                    "fm": {
+                        "shortcode": "homed",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 300
+                },
+                "Empty.md": {
+                    "fm": {
+                        "shortcode": "empty",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 300
+                },
+                "Stubby.md": {
+                    "fm": {
+                        "shortcode": "stubby",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 10
+                },
+                "Smith.md": {
+                    "fm": {
+                        "shortcode": "smith",
+                        "type": "being",
+                        "subType": "npc",
+                        "tags": [],
+                        "data": {
+                            "archetypes": ["warrior"],
+                            "occupation": "Smith",
+                            "homes": ["homed"],
+                            "affiliations": {}
+                        }
+                    },
+                    "body": "",
+                    "words": 0
+                }
+            }
+        },
+        "archetype-coverage": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n## Current Situation {#present}\n\nTrouble.",
+                    "words": 0
+                },
+                "Town.md": {
+                    "fm": {
+                        "shortcode": "town",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 300
+                },
+                "Smith.md": {
+                    "fm": {
+                        "shortcode": "smith",
+                        "type": "being",
+                        "subType": "npc",
+                        "tags": [],
+                        "data": {
+                            "archetypes": ["warrior"],
+                            "occupation": "Smith",
+                            "homes": ["town"],
+                            "affiliations": {}
+                        }
+                    },
+                    "body": "",
+                    "words": 0
+                }
+            },
+            "archetypes": ["warrior", "mage"],
+            "absences": {
+                "mage": "No magic in the reach."
+            }
+        },
+        "unpointed-child": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land. [[place-linked|L]]",
+                    "words": 0
+                },
+                "Linked.md": {
+                    "fm": {
+                        "shortcode": "linked",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                },
+                "Orphan.md": {
+                    "fm": {
+                        "shortcode": "orphan",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                }
+            }
+        },
+        "shared-governance": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land. [[affiliation-twina]] [[affiliation-twinb]] [[affiliation-solo]]",
+                    "words": 0
+                },
+                "TwinA.md": {
+                    "fm": {
+                        "shortcode": "twina",
+                        "type": "affiliation",
+                        "subType": "polity",
+                        "tags": [],
+                        "data": {
+                            "parents": ["reach"],
+                            "governance": {
+                                "model": "council",
+                                "summary": "A council.",
+                                "ranks": []
+                            },
+                            "seat": null
+                        }
+                    },
+                    "body": "",
+                    "words": 0
+                },
+                "TwinB.md": {
+                    "fm": {
+                        "shortcode": "twinb",
+                        "type": "affiliation",
+                        "subType": "polity",
+                        "tags": [],
+                        "data": {
+                            "parents": ["reach"],
+                            "governance": {
+                                "model": "council",
+                                "summary": "A council.",
+                                "ranks": []
+                            },
+                            "seat": null
+                        }
+                    },
+                    "body": "",
+                    "words": 0
+                },
+                "Solo.md": {
+                    "fm": {
+                        "shortcode": "solo",
+                        "type": "affiliation",
+                        "subType": "polity",
+                        "tags": [],
+                        "data": {
+                            "parents": ["reach"],
+                            "governance": {
+                                "model": "autocracy",
+                                "summary": "A boss.",
+                                "ranks": []
+                            },
+                            "seat": null
+                        }
+                    },
+                    "body": "",
+                    "words": 0
+                }
+            }
+        },
+        "reciprocal-links": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A. [[place-nrth]] [[place-sth]] [[place-eastt]] [[place-westt]]",
+                    "words": 0
+                },
+                "nrth.md": {
+                    "fm": {
+                        "shortcode": "nrth",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["reach"],
+                            "borders": [
+                                {
+                                    "to": "sth",
+                                    "bearing": "S"
+                                }
+                            ]
+                        }
+                    },
+                    "body": "x",
+                    "words": 0
+                },
+                "sth.md": {
+                    "fm": {
+                        "shortcode": "sth",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["reach"],
+                            "borders": [
+                                {
+                                    "to": "nrth",
+                                    "bearing": "N"
+                                }
+                            ]
+                        }
+                    },
+                    "body": "x",
+                    "words": 0
+                },
+                "eastt.md": {
+                    "fm": {
+                        "shortcode": "eastt",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["reach"],
+                            "borders": [
+                                {
+                                    "to": "westt",
+                                    "bearing": "W"
+                                }
+                            ],
+                            "routes": [
+                                {
+                                    "to": "westt",
+                                    "mode": "land",
+                                    "days": 2
+                                }
+                            ]
+                        }
+                    },
+                    "body": "x",
+                    "words": 0
+                },
+                "westt.md": {
+                    "fm": {
+                        "shortcode": "westt",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["reach"],
+                            "routes": [
+                                {
+                                    "to": "nrth",
+                                    "mode": "land",
+                                    "days": 2
+                                }
+                            ]
+                        }
+                    },
+                    "body": "x",
+                    "words": 0
+                }
+            }
+        },
+        "cast-resolves": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n## Current Situation {#present}\n\nTrouble.",
+                    "words": 0
+                },
+                "Town.md": {
+                    "fm": {
+                        "shortcode": "town",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                },
+                "Smith.md": {
+                    "fm": {
+                        "shortcode": "smith",
+                        "type": "being",
+                        "subType": "npc",
+                        "tags": [],
+                        "data": {
+                            "archetypes": ["warrior"],
+                            "occupation": "Smith",
+                            "homes": ["town"],
+                            "affiliations": {}
+                        }
+                    },
+                    "body": "",
+                    "words": 0
+                },
+                "Scn.md": {
+                    "fm": {
+                        "shortcode": "tale",
+                        "type": "scenario",
+                        "subType": "adventure",
+                        "tags": [],
+                        "data": {
+                            "parents": [],
+                            "locations": ["town", "nowhere"],
+                            "cast": ["smith", "being-ghost"],
+                            "factions": ["affiliation-bogus"],
+                            "follows": [],
+                            "status": "draft"
+                        }
+                    },
+                    "body": "",
+                    "words": 0
+                }
+            }
+        },
+        "unique-linked": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n## Current Situation {#present}\n\nTrouble.",
+                    "words": 0
+                },
+                "Held.md": {
+                    "fm": {
+                        "shortcode": "held",
+                        "type": "miscgear",
+                        "tags": [],
+                        "data": {
+                            "parents": ["reach"],
+                            "unique": true
+                        }
+                    },
+                    "body": "Kept in [[place-reach|the Reach]].",
+                    "words": 0
+                },
+                "Lost.md": {
+                    "fm": {
+                        "shortcode": "lost",
+                        "type": "miscgear",
+                        "tags": [],
+                        "data": {
+                            "parents": ["reach"],
+                            "unique": true
+                        }
+                    },
+                    "body": "Nobody knows.",
+                    "words": 0
+                }
+            }
+        },
+        "district-parent": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n## Current Situation {#present}\n\nTrouble.",
+                    "words": 0
+                },
+                "Town.md": {
+                    "fm": {
+                        "shortcode": "town",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                },
+                "Good.md": {
+                    "fm": {
+                        "shortcode": "good",
+                        "type": "place",
+                        "subType": "district",
+                        "tags": [],
+                        "data": {
+                            "parents": ["town"]
+                        }
+                    },
+                    "body": "",
+                    "words": 0
+                },
+                "Orphan.md": {
+                    "fm": {
+                        "shortcode": "lone",
+                        "type": "place",
+                        "subType": "district",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "",
+                    "words": 0
+                },
+                "Wrong.md": {
+                    "fm": {
+                        "shortcode": "wrong",
+                        "type": "place",
+                        "subType": "district",
+                        "tags": [],
+                        "data": {
+                            "parents": ["solo"]
+                        }
+                    },
+                    "body": "",
+                    "words": 0
+                },
+                "Solo.md": {
+                    "fm": {
+                        "shortcode": "solo",
+                        "type": "affiliation",
+                        "subType": "polity",
+                        "tags": [],
+                        "data": {
+                            "parents": ["reach"],
+                            "governance": {
+                                "model": "autocracy",
+                                "summary": "A boss.",
+                                "ranks": []
+                            },
+                            "seat": null
+                        }
+                    },
+                    "body": "",
+                    "words": 0
+                }
+            }
+        },
+        "same-shortcode-two-types": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land. [[place-town|T]]",
+                    "words": 0
+                },
+                "town.md": {
+                    "fm": {
+                        "shortcode": "town",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                },
+                "AAAffil.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "affiliation",
+                        "subType": "polity",
+                        "tags": [],
+                        "data": {
+                            "parents": [],
+                            "governance": {
+                                "model": "council",
+                                "summary": "A.",
+                                "ranks": []
+                            },
+                            "seat": null
+                        }
+                    },
+                    "body": "A body.",
+                    "words": 0
+                }
+            }
+        },
+        "qualified-body-link": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land. [[thalorna-note-place-qual | Q]]",
+                    "words": 0
+                },
+                "qual.md": {
+                    "fm": {
+                        "shortcode": "qual",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                }
+            }
+        },
+        "inline-code-link": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land. `[[place-coded|C]]`",
+                    "words": 0
+                },
+                "coded.md": {
+                    "fm": {
+                        "shortcode": "coded",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                }
+            }
+        },
+        "fenced-code-link": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n```\n[[place-fenced|F]]\n```",
+                    "words": 0
+                },
+                "fenced.md": {
+                    "fm": {
+                        "shortcode": "fenced",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                }
+            }
+        },
+        "unique-code-link": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.",
+                    "words": 0
+                },
+                "Code.md": {
+                    "fm": {
+                        "shortcode": "coded",
+                        "type": "miscgear",
+                        "tags": [],
+                        "data": {
+                            "parents": ["reach"],
+                            "unique": true
+                        }
+                    },
+                    "body": "Example: `[[place-reach|Reach]]`\n\n```\n[[place-reach|Reach]]\n```",
+                    "words": 0
+                }
+            }
+        }
+    }
+}

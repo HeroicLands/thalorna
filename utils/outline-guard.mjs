@@ -96,12 +96,12 @@ export function headings(body, firstLine = 1) {
     });
 }
 
-function wordCount(body) {
+export function wordCount(body) {
     return body.split(/\s+/).filter(Boolean).length;
 }
 
 /** The content package a tree belongs to, which qualifies a written address. */
-function contentPackage(root) {
+export function contentPackage(root) {
     try {
         const config = YAML.parse(
             fs.readFileSync(path.join(root, "package-build.config.yaml"), "utf8"),
@@ -114,7 +114,7 @@ function contentPackage(root) {
 }
 
 /** A reference as a note's frontmatter: a bare shortcode or a full address. */
-function resolveRef(index, ref, types) {
+export function resolveRef(index, ref, types) {
     if (typeof ref !== "string") return undefined;
     const vocabulary = index.vocabulary;
     for (const type of types) {
@@ -132,11 +132,25 @@ function resolveRef(index, ref, types) {
 }
 
 /**
+ * The types a note's `data.parents` may name, in the order a bare shortcode
+ * is tried: a place's parents are places, an affiliation's its liege
+ * affiliations or the places that hold it, and any other kind's its own kind.
+ *
+ * @param {string} type A note's type.
+ * @returns {string[]}
+ */
+export function parentTypes(type) {
+    if (type === "place") return ["place"];
+    if (type === "affiliation") return ["affiliation", "place"];
+    return [type, "place", "affiliation"];
+}
+
+/**
  * The ids of the lands a note is in: every branch of `data.parents` (and, for a
  * being, `data.homes`) is followed upward, cycle-safely, and the nearest note
  * along it that a land names puts the note in that land.
  */
-function landsOf(index, fm, lands) {
+export function landsOf(index, fm, lands) {
     const owner = new Map();
     for (const [id, codes] of Object.entries(lands ?? {}))
         for (const code of codes) owner.set(code, id);
@@ -151,7 +165,7 @@ function landsOf(index, fm, lands) {
         seen.add(note.shortcode);
         const up = [
             ...(Array.isArray(note.data?.parents) ? note.data.parents : []).map((r) =>
-                resolveRef(index, r, ["place", "affiliation"]),
+                resolveRef(index, r, parentTypes(note.type)),
             ),
             ...(note.type === "being" ?
                 (Array.isArray(note.data?.homes) ? note.data.homes : []).map((r) =>
@@ -166,6 +180,25 @@ function landsOf(index, fm, lands) {
 }
 
 /**
+ * The note index of a content root, with the content package and the
+ * vocabulary a written address is parsed against.
+ *
+ * @param {string} [root] The directory holding `assets/content`.
+ */
+export function treeIndex(root = ".") {
+    const base = noteIndex(root);
+    const pkg = contentPackage(root);
+    return {
+        ...base,
+        contentPackage: pkg,
+        vocabulary: {
+            types: new Set([...base.frontmatter.values()].map((fm) => fm.type)),
+            packages: new Set([pkg]),
+        },
+    };
+}
+
+/**
  * Checks every note of a content tree against the registry.
  *
  * @param {object} [options]
@@ -174,16 +207,7 @@ function landsOf(index, fm, lands) {
  * @returns {{findings: Array<{file: string, line?: number, column?: number, severity: string, rule: string, kind: string, land?: string, message: string}>, errors: number, checked: number, byLand: Map<string, number>, byRule: Map<string, number>, byKind: Map<string, number>}}
  */
 export function check({ root = ".", registry = loadRegistry() } = {}) {
-    const base = noteIndex(root);
-    const pkg = contentPackage(root);
-    const index = {
-        ...base,
-        contentPackage: pkg,
-        vocabulary: {
-            types: new Set([...base.frontmatter.values()].map((fm) => fm.type)),
-            packages: new Set([pkg]),
-        },
-    };
+    const index = treeIndex(root);
     const finished = new Set(registry.finished ?? []);
     const closing = new Set(registry.closing ?? []);
     const findings = [];
