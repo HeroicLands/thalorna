@@ -69,7 +69,7 @@ Every year since the outlawing, after the last of the veterans' boats has passed
 
 ## Hooks
 
-- **The plots.** Veterans have been ploughing marked plots on the southern terraces of [[place-khamisar|Khamisar]], saying they were promised them, and the admirals' house that leases the land wants them cleared before the Review, so that the councilors ride past ploughed land with nobody on it.
+- **The plots.** Veterans have been ploughing marked plots on the southern terraces of [[place-khamisar|Khamisar]], saying they were promised them, and the [[affiliation-tanaduni|Tanaduni]], the admirals' house that leases the land, want them cleared before the Review, so that the councilors ride past ploughed land with nobody on it.
 - **The count.** The League's admiral means to call a number this year that is larger than the League's oars, and a councilor of Besikar has hired a party to count the galleys in the roads the night before.
 - **The last boat.** The Commander of the Marines has been told to catch the last boat this year, and his sergeants grew up in the Veterans' Quarter.
 

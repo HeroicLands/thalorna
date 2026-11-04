@@ -28,7 +28,7 @@ The [[affiliation-ordoarcanis|Thordimalon]] maintains the Orrery jealously. Only
 
 ## The Machine and the Money {#present}
 
-The Orrery shows an eternal throne to envoys whose masters lend to it. The throne pays the veterans' pension with borrowed money, chiefly from the great houses of [[affiliation-danvar|the Danvar]], and it borrows abroad as well: the [[affiliation-byzarianlg|Bizarian League]] lends against the customs of [[place-aelissium|Elissara]], and [[affiliation-empireakhlth|Au'Khelathu]] offers loans of its own. The League's agents and the Khelathi envoys are shown the eagle at the noon hour with every courtesy the palace has.
+The Orrery shows an eternal throne to envoys whose masters lend to it. The throne pays the veterans' pension with borrowed money, chiefly from the great houses of [[affiliation-danvar|the Danvar]], and it borrows abroad as well: the [[affiliation-byzarianlg|Bizarian League]] lends against the customs of [[place-aelissium|Elissara]], which its own clerks collect at the river mouth outside the walls, and [[affiliation-empireakhlth|Au'Khelathu]] offers loans of its own. The League's agents and the Khelathi envoys are shown the eagle at the noon hour with every courtesy the palace has.
 
 The Orrery's keeping is a line nobody outside the treasury and the Order is shown. Every spring the strongroom audit of [[affiliation-tarmex|the Tarmeks Orzan]] seats a reformer's voice beside the throne's and the Scribal Guild's, and that seat asks each year to read the line. The Imperial _Tarkelos_ (treasury officer) answers that it is the Order's to disclose. The Order answers that it is the throne's.
 

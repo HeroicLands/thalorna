@@ -47,18 +47,18 @@ Nobody walks Khamisar unseen. A party landing anywhere but Yamuzel's harbor is m
 
 ## The Stones on the South Slope
 
-On a long stretch of the southern terraces above the shore, someone has set up rows of white-painted marker stones, each with a number cut into it, dividing the land into small plots. This spring veterans from the Veterans' Quarter began to plough them, a family to a plot, saying the plots are theirs, marked out for them during the war as the land they were promised. The land is leased to an admirals' family of Yamuzel, whose stewards say it was never surveyed for anyone and that the stones are the veterans' own work. The stewards have asked the Admiral's Council for marines to clear the plots, and the marines are veterans' sons. The [[lore-fleetreview|Fleet Review]] is a month off, and both sides want the matter settled before the whole city turns out on the walls.
+On a long stretch of the southern terraces above the shore, someone has set up rows of white-painted marker stones, each with a number cut into it, dividing the land into small plots. This spring veterans from the Veterans' Quarter began to plough them, a family to a plot, saying the plots are theirs, marked out for them during the war as the land they were promised. The land is leased to the [[affiliation-tanaduni|Tanaduni]], an admirals' family of Yamuzel, whose stewards say it was never surveyed for anyone and that the stones are the veterans' own work. The stewards have asked the Admiral's Council for marines to clear the plots, and the marines are veterans' sons. The [[lore-fleetreview|Fleet Review]] is a month off, and both sides want the matter settled before the whole city turns out on the walls.
 
 A veteran who ploughs one of the plots hires a party to find the proof that the plots were surveyed. The stewards of the admirals' family would pay a party better to find that they were not.
 
 ## Current Situation {#present}
 
-Khamisar is a navy's island waiting for its festival with a quarrel on its south slope. The [[lore-fleetreview|Fleet Review]] is a month off, the whole of Yamuzel will be on the walls, and the veterans ploughing the marked plots on the southern terraces will not leave them. The admirals' family that leases the land wants them cleared first, the marines who would clear them are veterans' sons, and [[being-rzznpddn|Razzina Padduni]] of the Veterans' Quarter wants witnesses on the terraces when they come. On the ridge the signal towers log every traveler as they always do, and on the height of Yamuzel [[being-dlzrtndn|Delzuru Tanaduni]] counts votes for a League toll on the narrows.
+Khamisar is a navy's island waiting for its festival with a quarrel on its south slope. The [[lore-fleetreview|Fleet Review]] is a month off, the whole of Yamuzel will be on the walls, and the veterans ploughing the marked plots on the southern terraces will not leave them. The [[affiliation-tanaduni|Tanaduni]], the admirals' family that leases the land, want them cleared first, the marines who would clear them are veterans' sons, and [[being-rzznpddn|Razzina Padduni]] of the Veterans' Quarter wants witnesses on the terraces when they come. On the ridge the signal towers log every traveler as they always do, and on the height of Yamuzel [[being-dlzrtndn|Delzuru Tanaduni]] counts votes for a League toll on the narrows.
 
 ## Hooks {#hooks}
 
 - **The witnesses.** [[being-rzznpddn|Razzina Padduni]] wants a party with no stake in the plots on the terraces the morning the marines come, so that the Council hears an account it will believe.
-- **The stewards' price.** The stewards of the admirals' family that leases the slope offer a party better pay than any veteran can to show that the plots were never surveyed for anyone.
+- **The stewards' price.** The stewards of the [[affiliation-tanaduni|Tanaduni]], who lease the slope, offer a party better pay than any veteran can to show that the plots were never surveyed for anyone.
 
 ## See Also
 

@@ -59,7 +59,7 @@ The vote is the city's standing quarrel. The seamen and the bargemen are the two
 
 ## Current Situation {#present}
 
-The council governs under a charter that every Orzas seals anew, the reigning one is old and has adopted nobody, and an advocate from [[place-mercavia|Delalara]] is gathering copies of it for what he says is a history. Some of the _kelroi_ doubt that a history needs every guild's copy. Zenothen Linthimis, master of the shipwrights, presides as _holkelros_ in his third year, two more than custom expects, and the seamen and bargemen, the two largest guilds, resent a council in which the shipowners, merchants and small crafts hold most of the seats. The [[affiliation-byzarianlg|Bizarian League]] lends to the throne against the customs of Elissara and collects them with its own clerks, and the fleet buys copies of the Seamen's Guild's roll.
+The council governs under a charter that every Orzas seals anew, the reigning one is old and has adopted nobody, and an advocate from [[place-mercavia|Delalara]] is gathering copies of it for what he says is a history. Some of the _kelroi_ doubt that a history needs every guild's copy. Zenothen Linthimis, master of the shipwrights, presides as _holkelros_ in his third year, two more than custom expects, and the seamen and bargemen, the two largest guilds, resent a council in which the shipowners, merchants and small crafts hold most of the seats. The [[affiliation-byzarianlg|Bizarian League]] lends to the throne against the customs of Elissara and collects them with its own clerks at a customs house at the river mouth, outside the walls, and the fleet buys copies of the Seamen's Guild's roll.
 
 ## The Charter
 
