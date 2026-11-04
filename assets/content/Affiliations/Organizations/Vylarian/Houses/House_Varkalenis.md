@@ -63,7 +63,7 @@ The house's seat in the Senate is its other asset. A _kurthos_ (senator) of a fo
 
 [Ankelas Varkalenis]{.name data-type="being/npc"} is seventy-three, master of the house, _kurthos_ for fifty years and _zalvos_ of the temple of his divine ancestor. He walks down from Antel to the Seldan every morning on the arm of the house's freedman, because the house no longer keeps chair-bearers, and he walks slowly enough that the walk is noticed. He is courteous, exact about precedence and generous with the little he has, and he is the whole of the house's weight at court.
 
-He has named no heir. Three cousins of the name each expect to be adopted, and each attends his morning call. A house name is meant to stand on the roll with an heir behind it, and the empty place behind his is the talk of the [[place-heightsorz|Heights]].
+He has named no heir. Three cousins of the name each expect to be adopted, and each attends his morning call. One of them, [[being-dlmrsvrklns|Dalmeras Varkalenis]], the Imperial Cult's Keeper of the Masks, is spoken of for a greater adoption: the old houses would have the Orzas take him as his successor. A house name is meant to stand on the roll with an heir behind it, and the empty place behind his is the talk of the [[place-heightsorz|Heights]].
 
 ## Quarrels
 

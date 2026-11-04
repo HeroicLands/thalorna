@@ -62,6 +62,8 @@ The house is rich, and its money is grain. Its factors buy on the estates of [[p
 
 His daughter [Varelas Mardovanes]{.name data-type="being/npc"} is nineteen and betrothed to [Zetimas Ganothandis]{.name data-type="being/npc"}, the heir of the Olkassa estate in Hilen. The marriage joins the house that sells the capital's bread to the house that grows the best of it.
 
+His younger brother [[being-klvnsmrdvns|Kolvenas Mardovanes]], a former _tavos_ (chief magistrate) and governor of Hilen, made the match, and is the man the court expects the old Orzas to name.
+
 ## Quarrels
 
 - **[[affiliation-varkalenis|House Varkalenis]]**, whose vote has kept Azénales half-divine for a century, and whose master will not take a cup of wine at a Mardovanes table.
@@ -69,7 +71,7 @@ His daughter [Varelas Mardovanes]{.name data-type="being/npc"} is nineteen and b
 
 ## What It Wants
 
-The house wants Azénales given a temple of his own: the step from half-divine to divine, which only the Senate can vote. It wants to stand behind whichever claimant wins the succession, with the grain in its granaries when he does. And it wants the Olkassa wedding made, the estate's harvests coming in, and no change on [[place-olcassafld|the Blood-field of Olkassa]].
+The house wants Azénales given a temple of his own: the step from half-divine to divine, which only the Senate can vote. It wants its own claimant adopted, as Azénales was, and failing him it wants to stand behind whichever claimant wins the succession, with the grain in its granaries when he does. And it wants the Olkassa wedding made, the estate's harvests coming in, and no change on [[place-olcassafld|the Blood-field of Olkassa]].
 
 ## Hooks
 

@@ -22,6 +22,7 @@ data:
     being-mthszrtml: rival
     being-amrzvlds: rival
     being-sthmrrdln: acquaintance
+    being-klvnsmrdvns: dependent
     affiliation-varkalenis: nemesis
   gender: male
   species: humanflk
@@ -79,7 +80,10 @@ The house's fortune rests on a few fields in Hilen and a river that runs low in 
 
 ### Patrons
 
-The house has no patron above the throne. Its natural allies are the Hilen houses, chief among them [[affiliation-ganothandis|House Ganothandis]], and the [[affiliation-imperialcult|Imperial Cult]], which keeps Azénales half-divine.
+The house has no patron above the throne. Its natural allies are these:
+
+- [[affiliation-ganothandis|House Ganothandis]]: The Hilen house that holds Olkassa, chief of the Hilen houses, whose heir is betrothed to his daughter.
+- [[affiliation-imperialcult|Imperial Cult]]: The state cult, which keeps Azénales half-divine.
 
 ### Enemies
 
@@ -87,6 +91,10 @@ The house has no patron above the throne. Its natural allies are the Hilen house
 - [[being-mrndsvskln|Marendos Vaskelen]]: The shipping house on the Wharves, whose fast outside grain is the only thing that can undercut Hilen's in a lean month, and who wants trade free.
 - [[being-mthszrtml|Methisi Azeret'Mulu]]: The Khelathi factor on the Strangers' Row, who offers the throne grain on credit. Nethoras calls it the first sack of a siege, at every dinner.
 - [[being-amrzvlds|Amarza Veldis]]: Senior partner of the House of Veldis, whose bankers stand with the trade bloc against any duty, because a duty raises bread and bread raises riots.
+
+### Family
+
+- [[being-klvnsmrdvns|Kolvenas Mardovanes]]: His younger brother, the house's claimant to the adoption, who lives in the house on Selvin at the house's expense.
 
 ### Others
 
