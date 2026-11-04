@@ -64,7 +64,7 @@ Seat
 : the Vezakar at Besikar, with its strongroom
 
 Head
-: the Kubasum, [Yushuduya Jakuduni]{.name data-type="being/npc"}
+: the Kubasum, [[being-yshdyjkdn|Yushuduya Jakuduni]]
 
 Answers to
 : the Dirabum of the Vezakuni and the [[affiliation-grandcouncil|Grand Council]]

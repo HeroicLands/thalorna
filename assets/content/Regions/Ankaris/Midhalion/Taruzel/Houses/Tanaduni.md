@@ -63,7 +63,7 @@ Guild
 : the Corsair League
 
 Head
-: Admiral [Delzuru Tanaduni]{.name data-type="being/npc"}
+: Admiral [[being-dlzrtndn|Delzuru Tanaduni]]
 
 ## What the House Does
 

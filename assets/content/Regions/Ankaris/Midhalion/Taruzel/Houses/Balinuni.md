@@ -63,7 +63,7 @@ Guild
 : the [[affiliation-auricompct|Auric Compact]]
 
 Head
-: [Ellamuna Balinuni]{.name data-type="being/npc"}
+: [[being-llmnblnn|Ellamuna Balinuni]]
 
 ## What the House Does
 
@@ -79,7 +79,7 @@ The head of the house is a tall woman of fifty-two with a carrying voice and a l
 
 The Balinuni carried the war's supplies over the hill roads of the island, with tribal guides and tribal escorts, when the coast roads were held by the legions. The house's head at the time promised the tribes a share of the hill-road tolls once the war was won, by clasped hands and before witnesses, and never in writing. The house counts a bargain that was never written as no debt. The tribes count it otherwise, and they have not been paid.
 
-What Ellamuna wants is the caravan trade of the whole strait. Many of the caravans that cross from the mainland land at [[place-pashinar|Pashinar]] on the largest island, and the house wants every one of them landing at Kudumel. Through the Compact it has bought the debts of Pashinar's factors, and it calls them in one at a time. The house also holds the votes that named this year's Arch-Consul: [Danashu Kumuni]{.name data-type="being/npc"}, the Kudumel merchant who presides over the [[affiliation-grandcouncil|Grand Council]], owes the Balinuni his nomination, and the Council's order of business is his to set.
+What Ellamuna wants is the caravan trade of the whole strait. Many of the caravans that cross from the mainland land at [[place-pashinar|Pashinar]] on the largest island, and the house wants every one of them landing at Kudumel. Through the Compact it has bought the debts of Pashinar's factors, and it calls them in one at a time. The house also holds the votes that named this year's Arch-Consul: [[being-dnshkmn|Danashu Kumuni]], the Kudumel merchant who presides over the [[affiliation-grandcouncil|Grand Council]], owes the Balinuni his nomination, and the Council's order of business is his to set.
 
 ## Meeting the House
 

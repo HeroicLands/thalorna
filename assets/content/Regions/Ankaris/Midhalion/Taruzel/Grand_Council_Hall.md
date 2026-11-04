@@ -22,7 +22,7 @@ The public stands behind a bronze rail at the near end of the floor, where the m
 
 ## The Rooms Behind
 
-Two doors at the far end of the hall lead to the rooms behind. The Clerk of the Council keeps the left-hand rooms, where the acts of the Council lie in iron-bound chests and the petitions of the year are lodged, read and sorted. The right-hand door opens on a covered passage to the Arch-Consul's residence, a merchant's house of three floors next to the Hall that the Confederation keeps for whichever councilor holds the seal that year. This year it belongs to [Danashu Kumuni]{.name data-type="being/npc"} of Kudumel, and his kitchen feeds half the councilors at the noon break.
+Two doors at the far end of the hall lead to the rooms behind. The Clerk of the Council keeps the left-hand rooms, where the acts of the Council lie in iron-bound chests and the petitions of the year are lodged, read and sorted. The right-hand door opens on a covered passage to the Arch-Consul's residence, a merchant's house of three floors next to the Hall that the Confederation keeps for whichever councilor holds the seal that year. This year it belongs to [[being-dnshkmn|Danashu Kumuni]] of Kudumel, and his kitchen feeds half the councilors at the noon break.
 
 Between sessions the hall is shut and its floor swept once a week. The Clerk's rooms stay open every day but feast days. A freeman who wants a petition read takes it there, pays the copyist's fee and is given a number, and his city's councilors decide whether to sponsor it.
 

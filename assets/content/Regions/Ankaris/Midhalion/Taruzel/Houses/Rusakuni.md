@@ -61,7 +61,7 @@ Guild
 : the [[affiliation-corsairleg|Corsair League]]
 
 Head
-: [Abarash Rusakuni]{.name data-type="being/npc"}
+: [[being-brshrskn|Abarash Rusakuni]]
 
 ## What the House Does
 

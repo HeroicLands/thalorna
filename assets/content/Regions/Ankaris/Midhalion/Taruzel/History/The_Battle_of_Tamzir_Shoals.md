@@ -126,7 +126,7 @@ The flood came after dark, and the flotilla came with it. Two old merchant hulls
 
 ## The Second Day
 
-On the fourteenth the admiral tried to fight his way out on the morning flood with the ships he still had afloat. The flotilla's merchant warships met him in the one channel deep enough to carry his ships out, among them the squadron of the [[affiliation-tanaduni|Tanaduni]] under [Delzuru Tanaduni]{.name data-type="being/npc"}, and the boats closed in from the sides. The admiral was killed on his own deck in the boarding. By noon the squadron had ceased to exist. Six warships were taken and towed out of the Shoals, and every other warship that had entered them was burned, sunk or broken on the sand. The transports that had waited outside picked up what men they could and sailed for Kastamar.
+On the fourteenth the admiral tried to fight his way out on the morning flood with the ships he still had afloat. The flotilla's merchant warships met him in the one channel deep enough to carry his ships out, among them the squadron of the [[affiliation-tanaduni|Tanaduni]] under [[being-dlzrtndn|Delzuru Tanaduni]], and the boats closed in from the sides. The admiral was killed on his own deck in the boarding. By noon the squadron had ceased to exist. Six warships were taken and towed out of the Shoals, and every other warship that had entered them was burned, sunk or broken on the sand. The transports that had waited outside picked up what men they could and sailed for Kastamar.
 
 Most of the squadron's marines drowned. The Taruzelian boats took a few hundred men out of the water, and they were held on the islands as prisoners until the peace.
 

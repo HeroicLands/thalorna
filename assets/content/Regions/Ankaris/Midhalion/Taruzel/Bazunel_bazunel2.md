@@ -49,7 +49,7 @@ The theaters play from late spring to the first autumn gales. A company is paid 
 
 ## Who Lives Here
 
-Shipwrights, draughtsmen and timber merchants work the western arm. Astronomers, navigators, cartographers and physicians live in the upper town, and so do the old families. Actors, painters, musicians and scene-builders live wherever the theaters are, which is mostly the harbor. Merchant houses hold the quays, and the Rusakuni, whose head [Abarash Rusakuni]{.name data-type="being/npc"} sits for the shipwrights on the council and is the theaters' most generous patron, stand above the rest. In season the Khelathi captains and their crews are the largest foreign company in the city, and they lodge aboard.
+Shipwrights, draughtsmen and timber merchants work the western arm. Astronomers, navigators, cartographers and physicians live in the upper town, and so do the old families. Actors, painters, musicians and scene-builders live wherever the theaters are, which is mostly the harbor. Merchant houses hold the quays, and the Rusakuni, whose head [[being-brshrskn|Abarash Rusakuni]] sits for the shipwrights on the council and is the theaters' most generous patron, stand above the rest. In season the Khelathi captains and their crews are the largest foreign company in the city, and they lodge aboard.
 
 Two residents show the city's temper. [[being-ytlshpshtm|Yutalush Pushutum]], a healer-priest of the [[affiliation-lizelas|Faith of Lizelas]], keeps a clinic below the temple and treats whoever comes through its door, the poor of Zatturel and the council's own men alike. [[being-tarrukeshkar|Tarruk Eshkarum]], one of the council's magistrates, regards that even hand as a refusal to take a side, and says so from the bench.
 

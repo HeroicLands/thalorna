@@ -59,7 +59,7 @@ Members
 : twenty-five councilors, five from each city-state
 
 Arch-Consul
-: [Danashu Kumuni]{.name data-type="being/npc"} of Kudumel, for this year
+: [[being-dnshkmn|Danashu Kumuni]] of Kudumel, for this year
 
 ## The Two Counts
 
@@ -86,7 +86,7 @@ This year's Arch-Consul is Danashu Kumuni of Kudumel, a round, soft-spoken coffe
 Any freeman of a member city may petition the Council through his city's councilors, and the Clerk reads every petition that a councilor sponsors. The veterans of the war petition at every session for the land, the guild membership, the pensions and the voice they were promised, and a councilor of Yamuzel sponsors the petition every time. It is read on the last afternoon, every time.
 
 :::secret
-**For the GM:** The weight of every count comes from the Merazuni's register, and the Reckoner of the Weight is a treasury clerk seconded by the Kubasum. Nobody outside the treasury checks the figures he reads. [Yushuduya Jakuduni]{.name data-type="being/npc"}, the Kubasum, has never been known to bend them, and the houses that would like the treasury in their own hands, the [[affiliation-qizikuni|Qizikuni]] of Besikar first among them, know that whoever keeps the Merazuni's register also keeps the Council's scales.
+**For the GM:** The weight of every count comes from the Merazuni's register, and the Reckoner of the Weight is a treasury clerk seconded by the Kubasum. Nobody outside the treasury checks the figures he reads. [[being-yshdyjkdn|Yushuduya Jakuduni]], the Kubasum, has never been known to bend them, and the houses that would like the treasury in their own hands, the [[affiliation-qizikuni|Qizikuni]] of Besikar first among them, know that whoever keeps the Merazuni's register also keeps the Council's scales.
 
 Danashu Kumuni wants to be remembered for something. A party that brings him a reason to read the veterans' petition first, or the hill tribes' grievance against the Balinuni, may find him willing. If the Balinuni learn of it before the session opens, they will call in what he owes them.
 :::

@@ -48,7 +48,7 @@ Kudumel is governed by a council of its merchants with seats kept for the hill t
 
 The guilds' enforcers are not welcome in Kudumel, because the caravan peoples will not deal with them, and debts are collected in the city by other means. A caravan master who owes the [[affiliation-auricompct|Auric Compact]] owes the Balinuni, who keep the Compact's counting house in the city, and a partner who will not pay finds the ferries full, the warehouses full and every other partner at the Gate informed. The council's watchmen keep the gates, the market and the harbor. A shopkeeper robbed in the night goes to the watch at the nearest gate, and a merchant cheated in a bargain goes to the Warden of the Weights, who hears complaints of short measure at the weigh-house door every morning. On the hill roads the tribes keep their own wells and their own law.
 
-The present Arch-Consul of the Confederation, [Danashu Kumuni]{.name data-type="being/npc"}, is a coffee merchant of Kudumel, named to the office by the city's council on the votes of the Balinuni. He keeps his residence in [[place-besikar2|Besikar]] for the year, and his warehouse on the market is kept by his sons.
+The present Arch-Consul of the Confederation, [[being-dnshkmn|Danashu Kumuni]], is a coffee merchant of Kudumel, named to the office by the city's council on the votes of the Balinuni. He keeps his residence in [[place-besikar2|Besikar]] for the year, and his warehouse on the market is kept by his sons.
 
 ## Where a Party Lodges
 

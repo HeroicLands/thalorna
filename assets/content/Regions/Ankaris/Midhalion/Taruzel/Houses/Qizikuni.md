@@ -63,7 +63,7 @@ Guild
 : the [[affiliation-auricompct|Auric Compact]]
 
 Head
-: [Tirmana Qizikuni]{.name data-type="being/npc"}
+: [[being-trmnqzkn|Tirmana Qizikuni]]
 
 ## What the House Does
 

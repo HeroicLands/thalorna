@@ -6919,6 +6919,9 @@ data:
     - {name: Nibura Visizuni, tongue: taruzeli, built: [nibur-, -a, visiz-, -uni]}
     - {name: Helaruya Rasuni, tongue: taruzeli, built: [helar-, -uya, rasun-, -i]}
     - {name: Pazasu Rasuni, tongue: taruzeli, built: [pazas-, -u, rasun-, -i]}
+    - {name: Razzina Padduni, tongue: taruzeli}
+    - {name: Nazzuna Tarshuni, tongue: taruzeli}
+    - {name: Zilmar Ezzinu, tongue: taruzeli}
   retired:
     - {form: Tamavar, instead: Besikar, why: one letter from an Earth word}
     - {form: Kethara, instead: Yamuzel, why: an Earth word}
