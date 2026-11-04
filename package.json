@@ -74,6 +74,7 @@
         "lint:verse": "node utils/verse.mjs",
         "lint:veldikko": "node utils/veldikko-guard.mjs",
         "lint:affix-replaces": "node utils/affix-replaces.mjs",
+        "lint:vowel-pairs": "node utils/vowel-pairs.mjs",
         "build:module": "package-build manifest",
         "lint:retired": "node --test utils/retired-names.test.mjs",
         "lint:roman": "node utils/roman-coverage.mjs"
