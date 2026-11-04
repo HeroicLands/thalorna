@@ -266,6 +266,9 @@ The empire uses the [[lore-vylrncrncy|Vylarian currency]] (Solden, Ardin and Ogd
 [[place-vylariargn|Vylaria Region]]
 : the land the empire holds
 
+[[lore-hstrymdhln|The History of Vylaria and Mídhalión]]
+: the empire's history, age by age
+
 [[lore-vylarianclt|Vylarian]]
 : the people, their manners and their obligations
 

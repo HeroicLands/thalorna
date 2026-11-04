@@ -95,6 +95,9 @@ Mídhalión dates by [[lore-commoncal|the Vylarian Calendar]]: years counted Aft
 [[place-vylarianse|Vylarian Sea]]
 : the water the region is built around
 
+[[lore-hstrymdhln|The History of Vylaria and Mídhalión]]
+: the region's history, age by age
+
 [[affiliation-vylarinmpr|Vylarian Empire]]
 : the declining imperial power
 

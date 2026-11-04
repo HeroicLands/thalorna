@@ -223,6 +223,9 @@ The Confederation pays in the [[lore-trzlncrncy|Taruzelian currency]], the syste
 [[place-taruzelrgn|Taruzel Region]]
 : the land the Confederation holds
 
+[[lore-hstrymdhln|The History of Vylaria and Mídhalión]]
+: the islands' history as a province and after
+
 [[affiliation-vylarinmpr|Vylarian Empire]]
 : the former imperial overlord
 
