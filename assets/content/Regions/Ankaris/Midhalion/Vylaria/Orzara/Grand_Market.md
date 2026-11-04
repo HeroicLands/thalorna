@@ -42,7 +42,7 @@ The district's working population is several times its resident one. The stall-h
 
 ## Who Keeps Order
 
-The _peltros_ (ward magistrate) of the market ward holds the busiest bench of [[affiliation-aediles|Magistrates of the Wards]], and his inspectors walk the rows all day. The Keeper of the Weights tries the stall-holders' scales against the city's bronze standard pound, which is kept in the ward office on the Circle and brought out to the Circle's edge when a weight is disputed. The guild wardens of each trade watch their own rows and bring their complaints to the _peltros_. [[affiliation-vylrnmltry|The Vylarian Military]] keeps a watch-house on the Grand Market Circle, guards the counting-house door, and counts the stall-hands out at the closing bell.
+The _peltros_ (ward magistrate) of the market ward holds the busiest bench of [[affiliation-aediles|Magistrates of the Wards]], and his inspectors walk the rows all day. The Keeper of the Weights tries the stall-holders' scales against the city's bronze standard pound, which is kept in the ward office on the Circle and brought out to the Circle's edge when a weight is disputed. The guild wardens of each trade watch their own rows and bring their complaints to the _peltros_. [[affiliation-citywatchorz|The City Watch]] keeps a watch-house on the Grand Market Circle, guards the counting-house door, and counts the stall-hands out at the closing bell.
 
 The Veramus of the Grain, who sits for [[affiliation-verdanorzara|Orzara Courts]], watches the market more closely than any magistrate. The price of bread in the Grand Market is the price the city lives by, and the Veramus's agents report it to him at every noon bell.
 
@@ -50,8 +50,8 @@ The Veramus of the Grain, who sits for [[affiliation-verdanorzara|Orzara Courts]
 
 - **A ware in the wrong row.** A stall-holder selling outside his licensed row is fined by the _peltros_, and a third offense loses him the license.
 - **A false weight.** A light weight is broken with a hammer on the Circle in front of the stall it came from, and the stall-holder pays a fine of twenty times the short measure. A weight found light a second time loses the license.
-- **A maker selling his own work.** The Tevran's charters reserve the market to licensed sellers, and a craftsman from beyond the Clearance who sets up a cloth on the paving and sells his own pots is fined and his goods seized.
-- **Grain held back.** In a lean month the Veramus of the Grain may order the grain dealers' stores opened and sold at his price. A dealer found holding grain back after the order loses his stock to the state granaries.
+- **A maker selling his own work.** The Tevran's charters reserve the market to licensed sellers, and a craftsman from beyond the Clearance who sets up a cloth on the paving and sells his own pots is fined by the _peltros_ and his goods seized. A second time, he is put out across the Clearance and barred from the market.
+- **Grain held back.** In a lean month the Veramus of the Grain may order the grain dealers' stores opened and sold at his price. A dealer found holding grain back after the order loses his stock to the state granaries, and the Veramus may bring him before the Criminal Tribunal for hoarding in a lean month, where the sentence is forced labor.
 
 ## What the Market Fears
 

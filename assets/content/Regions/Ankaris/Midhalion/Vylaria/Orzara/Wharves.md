@@ -40,14 +40,14 @@ The Strangers' Row is the one quarter of the city where non-citizens live by rig
 
 ## Who Keeps Order
 
-[[affiliation-vylrnmltry|The Vylarian Military]] keeps a watch-house on the River Circle with a full watch-cohort, and its men stand at every water-stair. The customs-men of [[affiliation-tolvan|The Fiscal Court]] collect the duties on what comes ashore and seal what they have counted. The state granaries answer to the Veramus of the Grain, who sits for [[affiliation-verdanorzara|Orzara Courts]] and whose granary-keepers break and remake the seals in front of a witness each time a granary is opened. The watermen's and porters' guilds keep order among their own men, and a porter who steals from a sack is tried by his guild before the Watch hears of it. The ward's _peltros_ (ward magistrate) licenses the fish-market and the cookshops and condemns the warehouses that lean too far.
+[[affiliation-citywatchorz|The City Watch]] keeps a watch-house on the River Circle with a full watch-cohort, and its men stand at every water-stair. The customs-men of [[affiliation-tolvan|The Fiscal Court]] collect the duties on what comes ashore and seal what they have counted. The state granaries answer to the Veramus of the Grain, who sits for [[affiliation-verdanorzara|Orzara Courts]] and whose granary-keepers break and remake the seals in front of a witness each time a granary is opened. The watermen's and porters' guilds keep order among their own men, and a porter who steals from a sack is tried by his guild before the Watch hears of it. The ward's _peltros_ (ward magistrate) licenses the fish-market and the cookshops and condemns the warehouses that lean too far.
 
 ## What Is Forbidden Here
 
-- **Cargo without the seal.** Goods carried off the quays without the customs seal are seized, and the carrier and the owner are fined their value. A broken granary seal is a charge before the Criminal Tribunal.
-- **A stranger ashore after the horn.** A foreign sailor or trader found outside the Strangers' Row after dusk spends the night in the watch-house and is put back aboard or across the Clearance in the morning. A second offense loses a registered trader his license.
-- **A registered trader's gate.** The Strangers' Row's gate is shut and barred from the outside by the Watch at dusk and opened at dawn, and a trader found climbing its wall is struck off the register.
-- **Fire on the quays.** No fire is lit on the quays or aboard a barge tied up at them. The porters carry closed lanterns, and an open flame near the granaries costs its owner a fine and his boat.
+- **Cargo without the seal.** Goods carried off the quays without the customs seal are seized by the customs-men of the Fiscal Court, and the carrier and the owner are fined their value. A broken granary seal is a charge of theft from the state before the Criminal Tribunal, and its sentence runs from forced labor to the arena.
+- **A stranger ashore after the horn.** A foreign sailor or trader found outside the Strangers' Row after dusk spends the night in the watch-house and is put back aboard or across the Clearance in the morning, with a fine paid to the _peltros_ before he goes. A second offense loses a registered trader his license.
+- **A registered trader's gate.** The Strangers' Row's gate is shut and barred from the outside by the Watch at dusk and opened at dawn, and a trader found climbing its wall is fined by the _peltros_ and struck off the register.
+- **Fire on the quays.** No fire is lit on the quays or aboard a barge tied up at them. The porters carry closed lanterns, and an open flame near the granaries costs its owner a fine and his boat, forfeited on the _peltros_'s order.
 
 ## What the Wharves Fear
 

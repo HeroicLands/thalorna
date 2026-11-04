@@ -53,7 +53,7 @@ A ward clerk, asked what a _peltros_ (ward magistrate) does all day, answers wit
 
 The _peltroi_, who together make up the **Pelthralon**, are the civic magistrates of [[place-orzara|Orzara]], and the only court most of its people will ever stand before. They keep the **district law**—the intricate and jealously enforced body of rule that dictates precisely what trade, craft and commerce may be conducted in each quarter of the city, and what may not.
 
-Their jurisdiction is the ordinary business of a city of a million: markets and licenses, weights and measures, building and sanitation, nuisance and petty disorder. Their inspectors can shutter a business, levy a fine, or order a building pulled down, and the [[affiliation-vylrnmltry|City Watch]] supplies the muscle behind the ruling. The Watch enforces and investigates; it does not judge. The _peltroi_ judge.
+Their jurisdiction is the ordinary business of a city of a million: markets and licenses, weights and measures, building and sanitation, nuisance and petty disorder. Their inspectors can shutter a business, levy a fine, or order a building pulled down, and the [[affiliation-citywatchorz|City Watch]] supplies the muscle behind the ruling. The Watch enforces and investigates; it does not judge. The _peltroi_ judge.
 
 They sit at the bottom of the civic tier—below the **Civil Courts** for civil suits and the **Criminal Tribunal** for theft and violence, and far below the [[affiliation-verdanorzara|Verdan Orzara]], the council of five _veramusoi_ (curators of the city) that crowns the system and hears its gravest cases. The _veramus_ of Law oversees them. To be summoned from a _peltros_'s bench up to the imperial tribunals in the [[affiliation-imperialoffices|Imperial Offices]] is, for most of the city, a terror in itself: it means one's affair has caught the attention of powers far above the ward.
 
@@ -73,5 +73,5 @@ What the money buys is rarely acquittal. It buys the inspection that does not ha
 [[place-orzara|Orzara]]
 : the city whose wards they keep
 
-[[affiliation-vylrnmltry|The Vylarian Military]]
-: home of the City Watch, which enforces their rulings
+[[affiliation-citywatchorz|The City Watch]]
+: the branch of the legions that enforces their rulings

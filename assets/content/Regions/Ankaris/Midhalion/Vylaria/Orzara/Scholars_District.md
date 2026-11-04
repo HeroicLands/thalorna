@@ -42,16 +42,16 @@ The district neither admits nor lodges the poor, and it keeps no trade school of
 
 ## Who Keeps Order
 
-The Epistémion's charter makes the district its own. The colleges' proctors keep order among the students, fine them, gate them and send them home to their fathers, and [[affiliation-vylrnmltry|The Vylarian Military]] enters a college's gate only when the college asks it in. The Watch-house on the Circle of Marendas is a small one, and its watchmen spend their nights collecting students from the paving and returning them to their halls. The ward's _peltros_ (ward magistrate) has the easiest bench in the city, since nothing on Mernel may be sold.
+The Epistémion's charter makes the district its own. The colleges' proctors keep order among the students, fine them, gate them and send them home to their fathers, and [[affiliation-citywatchorz|The City Watch]] enters a college's gate only when the college asks it in. The Watch-house on the Circle of Marendas is a small one, and its watchmen spend their nights collecting students from the paving and returning them to their halls. The ward's _peltros_ (ward magistrate) has the easiest bench in the city, since nothing on Mernel may be sold.
 
 The chapter house answers to nobody on the hill. Its gate is kept by its own people, the colleges' proctors do not go through it, and the Watch does not go near it.
 
 ## What Is Forbidden Here
 
-- **Trade.** No stall, shop or workshop is licensed on Mernel. A student who sells his lecture notes on the Circle is fined by the proctors, and a peddler who climbs the hill is sent down it by the Watch.
+- **Trade.** No stall, shop or workshop is licensed on Mernel. A student who sells his lecture notes on the Circle is fined by the proctors, and a peddler who climbs the hill is sent down it by the Watch, his goods seized and a fine levied by the ward's _peltros_.
 - **A brawl between colleges.** The colleges' quarrels are fought in disputation. A brawl on the Circle costs every student caught in it a term's fees and a letter to his father, and a second brawl sends him home.
-- **The bronze doors.** Nobody passes the chapter house gate unless a member of the Order has asked for him by name. A student found inside the wall without leave is handed back to his college and is not admitted to the College of Arcane Philosophy afterward.
-- **Teaching what the Order keeps.** The Thordimalon's code forbids teaching magic to anyone outside the Order, and its members enforce it on Mernel as everywhere. A reader of another college whose lectures stray into what the Order counts its own is warned once.
+- **The bronze doors.** Nobody passes the chapter house gate unless a member of the Order has asked for him by name. A student found inside the wall without leave is handed back to his college and is not admitted to the College of Arcane Philosophy afterward. Anyone else found there is handed to the Watch and brought before the Criminal Tribunal as a housebreaker.
+- **Teaching what the Order keeps.** The Thordimalon's code forbids teaching magic to anyone outside the Order, and its members enforce it on Mernel as everywhere. A reader of another college whose lectures stray into what the Order counts its own is warned once. A second time, the Sekran opens a hearing on him, and his college suspends him from teaching while it sits.
 
 ## What the District Fears
 

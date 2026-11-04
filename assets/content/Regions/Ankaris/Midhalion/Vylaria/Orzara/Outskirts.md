@@ -22,7 +22,7 @@ A teamster who has driven wagons to the capital's gates for thirty years tells e
 
 ## Arriving
 
-A traveler on any of the great roads reaches the outskirts long before he reaches the city. The road runs between tombs for its last miles, since the dead lie outside the thrima, and then between yards, inns, workshops and tenements, thickening into a town that does not stop until the Clearance. There it stops dead. The last tenement stands at the outer edge of the hundred-foot strip, the first building of the city stands at the inner edge, and between them the gate-road crosses the swept ground under the eyes of [[affiliation-vylrnmltry|The Vylarian Military]].
+A traveler on any of the great roads reaches the outskirts long before he reaches the city. The road runs between tombs for its last miles, since the dead lie outside the thrima, and then between yards, inns, workshops and tenements, thickening into a town that does not stop until the Clearance. There it stops dead. The last tenement stands at the outer edge of the hundred-foot strip, the first building of the city stands at the inner edge, and between them the gate-road crosses the swept ground under the eyes of [[affiliation-citywatchorz|The City Watch]].
 
 Each great gate has its gate-yard: a town of stables, ostlers' yards, caravanserais and teamsters' lodgings, where the road-caravans halt, the draft animals are housed and fed, and the wagon-cargo is broken down onto porters and handcarts for the journey through the gate. The largest stand at the [Paldor Gate]{.name data-type="place/structure"}, the great gate where the [Paldor]{.name data-type="place/feature"}, the Triumphal Way, begins, at the [Hilen Gate]{.name data-type="place/structure"} on the grain road, and at the [Salkalon Gate]{.name data-type="place/structure"} on the road to the coast. A yard sounds of hooves and shouting all day and smells of dung, hay and wet leather, and its inns are the cheapest beds within a day of the capital.
 
@@ -56,11 +56,11 @@ It is dirtier, wilder and more lawless out here than within, and it swells and s
 
 ## What Is Forbidden Here
 
-- **Building on the Clearance.** No building, stall or shelter may stand on the hundred-foot strip. The Watch pulls down what it finds and burns what it cannot pull down, and the builder is fined if he can be found.
-- **A weapon under arms across the line.** No man crosses the Clearance into the city armed and harnessed for war. A traveler's blade goes through the gate wrapped and declared, and a man in harness at the gate is turned back. An armed company that tries the gate is a matter for the Sorvan.
+- **Building on the Clearance.** No building, stall or shelter may stand on the hundred-foot strip. The Watch pulls down what it finds and burns what it cannot pull down, and the builder is fined by the Pelthralon if he can be found.
+- **A weapon under arms across the line.** No man crosses the Clearance into the city armed and harnessed for war. A traveler's blade goes through the gate wrapped and declared, and a man in harness at the gate is turned back. A blade found undeclared inside the line is forfeit and its owner fined. An armed company that tries the gate is held at the Clearance by the Watch, and its captain answers to the imperial tribunals for treason, because only a legion with the throne's leave crosses the thrima under arms.
 - **A forge brought inside.** A smith who carries his trade inside the line is fined by the Pelthralon and his tools seized.
 - **The Steel Town's gate.** A stranger found inside Thalbezara's wall without leave is held by the guild and handed to the Watch at the gate, and the guild sues him before the civic courts for whatever he might have seen.
-- **The steel mark.** A blade sold with a forged guild mark is broken and its seller sued by the guild for the price of a true blade. A man who cuts a forged mark is a forger of a registered mark, and that is a capital crime.
+- **The steel mark.** A blade sold with a forged guild mark is broken and its seller sued by the guild for the price of a true blade. A man who cuts a forged mark is a forger of a registered mark, and that is a capital crime before the Criminal Tribunal.
 
 ## What the Outskirts Fear
 

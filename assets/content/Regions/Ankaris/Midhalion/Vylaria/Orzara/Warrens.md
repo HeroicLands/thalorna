@@ -42,14 +42,14 @@ The veterans organize the Warrens by legion. Men of the same legion take rooms o
 
 The Warrens keep their own order first. Each stair has a man whose word counts on it, usually the senior veteran, and a quarrel on the stair is settled by him before anyone thinks of the Watch. A thief caught on a legion's stair is beaten by the legion and handed over afterward.
 
-[[affiliation-vylrnmltry|The Vylarian Military]] keeps a watch-house on every Circle in the Warrens, the Spire Circle's the largest, each walled and provisioned to stand alone for days. The watchmen are veteran-citizens themselves, many of them living in the wards they patrol, and they double as the fire-brigade, with hand-engines, hooks and a cistern in every watch-house. The ward magistrates of [[affiliation-aediles|Magistrates of the Wards]] license the shops, enforce the building law and condemn the _tengali_ that lean too far, and their inspectors are the best-bribed men in the Warrens.
+[[affiliation-citywatchorz|The City Watch]] keeps a watch-house on every Circle in the Warrens, the Spire Circle's the largest, each walled and provisioned to stand alone for days. The watchmen are veteran-citizens themselves, many of them living in the wards they patrol, and they double as the fire-brigade, with hand-engines, hooks and a cistern in every watch-house. The ward magistrates of [[affiliation-aediles|Magistrates of the Wards]] license the shops, enforce the building law and condemn the _tengali_ that lean too far, and their inspectors are the best-bribed men in the Warrens.
 
 ## What Is Forbidden Here
 
-- **Sleeping inside without the right.** A non-citizen with no waiver found asleep inside the thrima spends the night in the watch-house and is put out across the Clearance at dawn. A second time, he is sentenced to a year's labor on the city's works.
-- **Fire above the ground floor.** No cooking fire, brazier or forge is allowed above the ground floor of a tenement. A fire found burning upstairs costs the tenant a fine and the landlord a larger one.
-- **Building too high.** The district law limits a tenement to seven stories, with masonry to the third floor and party-walls of brick. A landlord who adds an eighth story of timber has it pulled down by the _peltros_'s order, at his own cost.
-- **A riot on dole-day.** The Watch musters in full legionary kit on every dole-day, and a man who starts a fight in the dole queue is struck from the roll for a month.
+- **Sleeping inside without the right.** A non-citizen with no waiver found asleep inside the thrima spends the night in the watch-house and is put out across the Clearance at dawn. A second time, the Watch brings him before the Criminal Tribunal, which sentences him to a year's labor on the city's works.
+- **Fire above the ground floor.** No cooking fire, brazier or forge is allowed above the ground floor of a tenement. A fire found burning upstairs costs the tenant a fine and the landlord a larger one, both levied by the ward's _peltros_. A fire that spreads from it is a charge against the tenant before the Criminal Tribunal.
+- **Building too high.** The district law limits a tenement to seven stories, with masonry to the third floor and party-walls of brick. A landlord who adds an eighth story of timber has it pulled down by the Watch on the _peltros_'s order, at his own cost, and pays a fine on every room in it.
+- **A riot on dole-day.** The Watch musters in full legionary kit on every dole-day, and a man who starts a fight in the dole queue is struck from the roll for a month by the ward's pay-hall. A man who draws a blade in the queue answers to the Criminal Tribunal, and its sentence is forced labor.
 
 ## What the Warrens Fear
 

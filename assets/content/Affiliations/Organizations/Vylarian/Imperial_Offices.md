@@ -43,8 +43,6 @@ data:
         Held by an Usos. Keeps the musters, the levies and the rolls of the legions, and enters each legion's losses.
       Usos of the Provinces: >-
         Held by an Usos. Keeps the desks that write in the throne's name to the provinces and the crowns, one desk for every province on the chancery's roll.
-      Master of the College of Heralds: >-
-        Held by an Usos. Heads the Imperial College of Heralds, which keeps the roll of arms, marks, liveries and precedence of every house of the Empire and sends heralds in the throne's name to courts, funerals and the proclamation of acts.
       Usher of Petitions: >-
         Held by a Clerk. Receives petitions at the petition gate, takes the fee and gives each petitioner his number.
   seat: arvon
@@ -85,7 +83,7 @@ The forms are the government, and the desks keep them. A clerk who misfiles a ce
 
 ## The College of Heralds
 
-The Imperial College of Heralds is the desk of arms and precedence. Its heralds know every house's arms, marks and liveries and the order in which the houses stand before the throne, and no act of the throne is proclaimed, no embassy received and no funeral of a founding house held until a herald has settled who stands where. The Master of the College is an _usos_, and the College trains its heralds in country houses outside the capital as well as in the compound, among them the school that [[being-lrdmlnvsbr|Lord Aimilon Visbari]] keeps at [[place-polthara|Polthara]].
+The [[affiliation-imprlhrlds|Imperial College of Heralds]] is the desk of arms and precedence. Its heralds keep the roll of every house's arms, marks and liveries and the order in which the houses stand before the throne, and no act of the throne is proclaimed, no embassy received and no funeral of a founding house held until a herald has settled who stands where. Its Master sits among the _usoi_ of the Offices and answers to the Keeper of the Seal. The College keeps its own ladder of heralds and pursuivants, and trains them in the compound and in country schools outside the capital.
 
 ## What Goes Missing
 
@@ -118,8 +116,8 @@ The Offices' records are vast enough that documents are lost in them for generat
 [[affiliation-imprlscrblgld|The Imperial Scribal Guild]]
 : the scribes and the keepers of the archive
 
-[[place-polthara|Polthara]]
-: where a herald of the College keeps a school
+[[affiliation-imprlhrlds|Imperial College of Heralds]]
+: the desk of arms and precedence
 
 [[lore-archivefire|The Archive Fire]]
 : the fire the archive begins after

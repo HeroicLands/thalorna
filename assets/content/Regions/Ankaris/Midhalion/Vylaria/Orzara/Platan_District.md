@@ -40,7 +40,7 @@ By dusk the district empties. The basilicas are locked and sealed, the Guild's h
 
 The Platan District houses about fifteen thousand people, most of them in the upper floors of the colonnades and the streets behind the basilicas. They are the clerks of the courts and the council, the court ushers and doorkeepers, the advocates who can afford to live near their work, the bath-keepers and their slaves, and the copyists of the Guild, who are citizens or the Guild's own registered servants. Every one of them holds a citizen's right of residence or a waiver tied to an office of the district, and the ward's registers are the most carefully kept in the city.
 
-The district's real population arrives every morning and leaves every evening. Litigants come from every ward, and witnesses come with them. The [[affiliation-aediles|Magistrates of the Wards]] send up their appeals, [[affiliation-vylrnmltry|The Vylarian Military]] brings its prisoners to the Criminal Tribunal, and the stewards of the great houses on the [[place-heightsorz|Heights]] come down to see that their masters' business is called in the right order.
+The district's real population arrives every morning and leaves every evening. Litigants come from every ward, and witnesses come with them. The [[affiliation-aediles|Magistrates of the Wards]] send up their appeals, [[affiliation-citywatchorz|The City Watch]] brings its prisoners to the Criminal Tribunal, and the stewards of the great houses on the [[place-heightsorz|Heights]] come down to see that their masters' business is called in the right order.
 
 ## Who Keeps Order
 
@@ -53,7 +53,7 @@ Above all of it, and apart from it, are the imperial tribunals in the [[affiliat
 - **Trade on the Circle of Árdavon.** Only the Guild's registered scribes, the sellers of wax tablets and the water-sellers may work on the Circle or in the basilica porches. A stall set up there is pulled down by the Watch and its keeper fined by the _peltros_.
 - **Smoke.** No cookshop, bakery or hot-food stall is licensed in the ward, and the district's meals are carried in cold from the Grand Market. A brazier lit on the Circle is a fine on the spot.
 - **A blade in the basilicas.** A knife is left with the doorkeeper and taken back on leaving. A blade found on a man inside a basilica costs a fine and a night in the Watch-house, and a blade found on a man in the Criminal Tribunal is a charge in that court.
-- **An unregistered pen.** A petition or sworn statement drafted by a scribe who is not registered with the Guild is void, and the scribe is fined and his materials seized. A counterfeit Guild seal is a capital crime.
+- **An unregistered pen.** A petition or sworn statement drafted by a scribe who is not registered with the Guild is void, and the scribe is fined and his materials seized. A counterfeit Guild seal is a capital crime before the Criminal Tribunal.
 
 ## What the District Fears
 

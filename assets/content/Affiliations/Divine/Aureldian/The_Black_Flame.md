@@ -47,6 +47,8 @@ data:
         Also called Acolytes of Ash—the newest members, who have passed the basic ordeals and sworn oaths to Ústaron's destructive vision.
       Ashlord: >-
         An alternative style for a Flame-Warden, used where the warband is large enough to hold territory.
+      High Flame-Warden of Vylaria: >-
+        Held by a Flame-Warden. Oversees the faith's registered temples in the Vylarian Empire from the Ashen Temple in Orzara and keeps order among their Flame-Wardens by the weight of his own standing, not by any rank above theirs.
   seat: null
   population: null
   economy: []
@@ -99,7 +101,7 @@ Importantly, the Black Flame recognizes no single Hamsarnor or supreme authority
 
 [[affiliation-sonsmuspell|The Sons of Eldheim]] are one of its military orders. They have gained ground in [[place-stormveld|Stormveld]] and now try to seize Varokhi land as a route toward the wider [[place-nrdlndsrgn|Nordlands]].
 
-In Vylaria, where the Black Flame operates openly, the structure is somewhat more formalized. The faith maintains temples in several major cities where priests are registered with the imperial authorities. The High Flame-Warden of Vylaria (currently a position of considerable power and prestige) oversees the temples and maintains order between competing factions. However, even in Vylaria, the fundamental character of the faith remains: strength is the primary virtue, and authority is earned through demonstrated capability rather than bestowed by ecclesiastical rank.
+In Vylaria, where the Black Flame operates openly, the structure is somewhat more formalized. The faith maintains temples in several major cities where priests are registered with the imperial authorities. The High Flame-Warden of Vylaria, a position of considerable power and prestige, oversees the temples from [[place-sarkenaelzen|the Ashen Temple]] in [[place-orzara|Orzara City]] and maintains order between competing factions. However, even in Vylaria, the fundamental character of the faith remains: strength is the primary virtue, and authority is earned through demonstrated capability rather than bestowed by ecclesiastical rank.
 
 The faith's military and organizational strength comes from its appeal to those who see themselves as outsiders or failures within the established order. Dispossessed soldiers, ambitious younger sons who will never inherit their families' lands, refugees from crushed rebellions, frontier settlers who have learned that survival depends on strength rather than law—these are the Black Flame's true core. The faith offers them something the respectable churches do not: the promise that their strength and ruthlessness are not moral failings but divine virtues, that the world will one day be remade in the image of their fierce determination.
 

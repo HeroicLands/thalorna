@@ -30,9 +30,9 @@ The Racecourse holds the great events of the people:
 - **Gladiatorial combats**, beast-hunts and public executions.
 - **Mock sea-battles**, staged on the grandest occasions by flooding the arena floor from the aqueducts, with real ships and real, dying men.
 
-The racing factions are the Racecourse's standing population. Each keeps its own stables, charioteers, grooms and trainers in the vaults and the streets around the Racecourse Circle, its own betting-tables and its own followers, who wear its colors, sit in its block, fight in its name and draw on its fund when they are hurt or out of work. Each is run by a master who answers to nobody but his faction.
+The racing factions, chief among them the [[affiliation-zargoi|Zargoi]] (the Irons) and the [[affiliation-ethloi|Ethloi]] (the Golds), are the Racecourse's standing population. Each keeps its stables beyond the Clearance, where the city's law puts its animals, and its race-day stalls, charioteers, grooms and trainers in the vaults and the streets around the Racecourse Circle, its own betting-tables and its own followers, who wear its colors, sit in its block, fight in its name and draw on its fund when they are hurt or out of work. Each is run by a master who answers to nobody but his faction.
 
-The Racecourse is one half of "bread and games", and the throne pays for the games. An Orzas ignores the mood of those crowds at his peril. The [[affiliation-vylrnmltry|City Watch]] keeps a watch-house at the Racecourse Circle, where the race crowds and the factions gather and, often enough, brawl.
+The Racecourse is one half of "bread and games", and the throne pays for the games. An Orzas ignores the mood of those crowds at his peril. The [[affiliation-citywatchorz|City Watch]] keeps a watch-house at the Racecourse Circle, where the race crowds and the factions gather and, often enough, brawl.
 
 ## Who Sells the Crowd {#present}
 
@@ -63,5 +63,11 @@ The Racecourse is where the city shouts, and every claimant to the next reign wa
 [[place-magntheatredstr|Theatre District]]
 : the quieter quarter of pleasure
 
-[[affiliation-vylrnmltry|City Watch]]
+[[affiliation-citywatchorz|City Watch]]
 : the watch-house at the Racecourse Circle
+
+[[affiliation-zargoi|Zargoi]]
+: the Irons, the leading racing faction
+
+[[affiliation-ethloi|Ethloi]]
+: the Golds, the Gilded houses' faction

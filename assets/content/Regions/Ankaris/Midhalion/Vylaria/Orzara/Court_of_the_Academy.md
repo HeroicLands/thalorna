@@ -18,15 +18,16 @@ The Ombalon (the Court of the Academy) is no place of teaching. It is a palace o
 
 ### The Notral Sevan
 
-The Ombalon's true treasure is the [Notral Sevan]{.name data-type="place/structure"}—a deep and warded library holding the rarest knowledge the Epistémion possesses: singular manuscripts that exist nowhere else, the captured archives of conquered peoples, and arcane artifacts too valuable, or too dangerous, to leave in open hands. It is not a library one visits. Entry is by the throne's leave alone, behind the same [[affiliation-ordoarcanis|Arcane Order wards]] that guard the imperial precincts, and what is kept within is known in full to very few. Rumor in the City holds that the Reservata contains books the [[affiliation-vylarinmpr|Empire]] has officially burned, the only surviving records of nations Vylaria erased, and relics the Thordimalon (the Arcane Order) would rather no rival ever study—and rumor, in this case, is not far wrong.
+The Ombalon's true treasure is the [[place-notralsevan|Notral Sevan]]—a deep and warded library holding the rarest knowledge the Epistémion possesses: singular manuscripts that exist nowhere else, the captured archives of conquered peoples, and arcane artifacts too valuable, or too dangerous, to leave in open hands. It is not a library one visits. Entry is by the throne's leave alone, behind the same [[affiliation-ordoarcanis|Arcane Order wards]] that guard the imperial precincts, and what is kept within is known in full to very few. Rumor in the City holds that the Notral Sevan contains books the [[affiliation-vylarinmpr|Empire]] has officially burned, the only surviving records of nations Vylaria erased, and relics the Thordimalon (the Arcane Order) would rather no rival ever study—and rumor, in this case, is not far wrong.
 
 ### Two Faces on One Hill
 
-That the Ombalon and the Thordimalon share a single hill is no accident but a designed arrangement. The Arcane Order already works openly in the [[place-palvar|Palvar]], turning out the brilliant displays the throne wants seen; the Epistémion keeps its quiet inner seat in the Ombalon, turning the same proximity to the opposite use. The Order's marvels and the Academy's secrets are two faces of one strategy—knowledge as the ornament of power, and knowledge as the hoarded reserve of it. The warded calm of the Reservata and the gleaming spectacle of the [[place-magngndorery|Grand Orrery]] (the Mechanical Court) are, in the end, the same instrument held by the same hand.
+That the Ombalon and the Thordimalon share a single hill is no accident but a designed arrangement. The Arcane Order already works openly in the [[place-palvar|Palvar]], turning out the brilliant displays the throne wants seen; the Epistémion keeps its quiet inner seat in the Ombalon, turning the same proximity to the opposite use. The Order's marvels and the Academy's secrets are two faces of one strategy—knowledge as the ornament of power, and knowledge as the hoarded reserve of it. The warded calm of the Notral Sevan and the gleaming spectacle of the [[place-magngndorery|Grand Orrery]] (the Mechanical Court) are, in the end, the same instrument held by the same hand.
 
 ### See Also
 
 - [[affiliation-panepistmm|Epistémion]]—the Academy of Knowledge whose ceremonial seat this is
 - [[place-arvon|Arvon]]—the Inner City that houses the Ombalon
-- [[affiliation-ordoarcanis|Thordimalon]]—whose wards guard the Reservata, and who shares the hill
+- [[affiliation-ordoarcanis|Thordimalon]]—whose wards guard the Notral Sevan, and who shares the hill
+- [[place-notralsevan|Notral Sevan]]—the warded library beneath the Ombalon
 - [[place-palvar|Palvar]] · [[place-orzara|Orzara]]

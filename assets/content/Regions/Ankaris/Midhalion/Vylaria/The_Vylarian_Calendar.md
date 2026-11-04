@@ -111,6 +111,23 @@ Seven days run on through the months without a break, so a weekday belongs to no
 
 Nothing divides the year evenly into weeks, so the seven run across the turn of the year as they run across the turn of a month. A date keeps its place in the calendar and does not keep its weekday, and a Vylarian who wants both consults an almanac like everybody else.
 
+## The Year in Orzara
+
+In [[place-orzara|Orzara City]] the calendar is read for four kinds of day: the gods' feasts, the throne's days, the dole-day, and the quarter days. A newcomer to the capital learns them in that order, because each of them changes which gates are open, which Circles are crowded and what bread costs.
+
+**The gods' feasts.** Each month is in a god's keeping, and that god's feast falls in it. The priests of [[affiliation-ardavon|Árdavon]] who keep [[place-pnthnrldnm|The Temple of the Twelve]] marshal the order in which the twelve priesthoods process to the center in their seasons, and on a feast day the disc of light under the Temple's dome comes to rest on the niche of the god whose day it is. A feast day opens the Inner City's precincts to common citizens and to petitioners, and on it the fountains of the Circle of Waters are run for spectacle. The feasts the whole city keeps are these:
+
+- the [Feast of Thresholds]{.name data-type="lore/gathering"} in Kalpezandi, at the year's turning, when the oaths and contracts of the year are renewed before Árdavon's temple;
+- the three-day [[lore-silentpassage|Festival of the Silent Passage]] on the last three nights of Morvanandi, ending at dawn on 1 Kalmethandi, when black candles stand in the windows and the names of the year's dead are spoken;
+- the Forge-Lord's feast in Thumbandi, when every smith of the Smoke beyond the Clearance brings his first piece of the year to the altar of [[affiliation-sacredforge|The Sacred Forge]];
+- the [Night of Ashes]{.name data-type="lore/gathering"} of [[affiliation-blackflame|The Black Flame]], at the dark of the new moon, whose bonfire burns in the court of [[place-sarkenaelzen|the Ashen Temple]] with the City Watch's engines standing below the hill.
+
+**The throne's days.** The accession day of the reigning Orzas, the feast day of each divine Orzas and the day of a triumph are the state's days, kept with an offering of incense before the Orzas's image by every magistrate, guild and citizen. The throne pays for the games, and gives them on its own days, so the racing factions, the [[affiliation-zargoi|Zargoi]] and the [[affiliation-ethloi|Ethloi]], race at [[place-rathaunamelvar|The Racecourse]] on the feasts of the divine Orzoi and on a triumph's day, and a new Orzas's accession games are the greatest of a reign. The spring imperial address publishes the registry of the four noble estates. The [[affiliation-seldan|Seldan]]'s clerks sweep the empty Senate hall on [[place-antel|Antel]] on the [Vylarian Republic]{.name data-type="affiliation/polity"}'s feast days and lock it again.
+
+**The dole-day.** Once a month the criers on the platforms of the [[place-platandstr|Platan District]] read the dole-day and post it on the boards behind them. On the day, the veterans of each ward collect their pensions in coin at the ward's pay-hall, the largest of them at the Spire Circle in the [[place-warrensorz|Warrens]], with the Watch mustered in full kit. The rent-men collect on the day after. The proclamation the whole city fears is a short dole.
+
+**The quarter days.** The temples keep their year by the quarter days and the tax-farmers and [[affiliation-tolvan|The Tolvan]] keep theirs by the seasons, so a debt due at midsummer falls due in different weeks depending on whose debt it is.
+
 ## See Also
 
 [[affiliation-vylarinmpr|Vylarian Empire]]

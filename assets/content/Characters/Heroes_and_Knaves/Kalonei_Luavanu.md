@@ -494,7 +494,7 @@ Master Smith [Melovai]{.name data-type="being/npc"}
 : a famous smith of the Orzara workshops whose forges burn nothing but Kalonei's charcoal, and whose public praise has sent other smiths looking for the same edge.
 
 [The City Watch Armory]{.name data-type="place/structure"}
-: the armory of [[affiliation-vylrnmltry|the Vylarian Military]]'s City Watch, which forges its blades and fittings and buys his charcoal for the purpose, steadily if not always promptly.
+: the armory of [[affiliation-citywatchorz|the City Watch]], which forges its blades and fittings and buys his charcoal for the purpose, steadily if not always promptly.
 
 Merchant-Artificer [Sornak]{.name data-type="being/npc"}
 : a dealer in fine tools and materials who holds the sole right to sell Kalonei's best charcoal beyond Orzara's outskirts.

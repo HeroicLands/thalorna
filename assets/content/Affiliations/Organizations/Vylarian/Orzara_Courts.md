@@ -62,7 +62,7 @@ The Veramus of Law
 : the city's chief judicial authority; oversees the _peltroi_ (ward magistrates), the Civil Courts, and the Criminal Tribunal, and presides when the council sits as the supreme civic court.
 
 The Veramus of Order
-: commands the [[affiliation-vylrnmltry|City Watch]], and answers for public order, the watch-houses, and the city gaols.
+: commands the [[affiliation-citywatchorz|City Watch]], and answers for public order, the watch-houses, and the city gaols.
 
 The Veramus of the Grain
 : the granaries, the licensed markets, and the unceasing daily supply on which the capital lives.

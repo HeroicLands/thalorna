@@ -42,14 +42,14 @@ The physicians are the exception: most of them are citizens, and the best of the
 
 ## Who Keeps Order
 
-The ward's _peltros_ licenses the hearths and the shops, and his inspectors walk the streets weekly with the fire-law in one hand and a tablet in the other. The goldsmiths' guild keeps the assay and the hallmark, and its assay-master tries any piece of gold or silver sold in the quarter on demand. [[affiliation-vylrnmltry|The Vylarian Military]] keeps a watch-house on the Circle of Waters, and at night its patrols walk the shop streets closely, since nowhere in the city is there more worth stealing behind a wooden shutter. The great houses look after their own craftsmen, and a thief who robs a goldsmith working for a house on Selvin answers to that house's men before he answers to the Watch.
+The ward's _peltros_ licenses the hearths and the shops, and his inspectors walk the streets weekly with the fire-law in one hand and a tablet in the other. The goldsmiths' guild keeps the assay and the hallmark, and its assay-master tries any piece of gold or silver sold in the quarter on demand. [[affiliation-citywatchorz|The City Watch]] keeps a watch-house on the Circle of Waters, and at night its patrols walk the shop streets closely, since nowhere in the city is there more worth stealing behind a wooden shutter. The great houses look after their own craftsmen, and a thief who robs a goldsmith working for a house on Selvin answers to that house's men before he answers to the Watch.
 
 ## What Is Forbidden Here
 
 - **An unlicensed hearth.** A furnace without the _peltros_'s tag is put out by the Watch and its owner fined. A second offense shuts the shop.
-- **Gold below the mark.** A piece sold with the goldsmiths' hallmark that fails the assay is broken, its maker expelled from the guild and his waiver reported to the court that granted it.
+- **Gold below the mark.** A piece sold with the goldsmiths' hallmark that fails the assay is broken, its maker expelled from the guild and his waiver reported to the court that granted it. The buyer may sue him before the Civil Courts for twice the price.
 - **Poison across the counter.** An apothecary may sell the drugs on the physicians' list only against a physician's written order, and he keeps the orders. A sale without one costs him his license, and a sale that ends in a death is a charge before the Criminal Tribunal.
-- **A seal cut without a warrant.** A seal-cutter cuts a stamp only for its registered owner, and only on a written warrant from that owner's steward, guild or court. A stamp cut without one is a capital crime.
+- **A seal cut without a warrant.** A seal-cutter cuts a stamp only for its registered owner, and only on a written warrant from that owner's steward, guild or court. A stamp cut without one is a capital crime before the Criminal Tribunal, and the stamp of a noble house lifts the case to the imperial tribunals.
 
 ## What the Quarter Fears
 

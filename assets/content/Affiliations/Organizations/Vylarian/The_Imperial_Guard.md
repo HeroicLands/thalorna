@@ -70,7 +70,7 @@ Seat
 Answerable to
 : The reigning Orzas alone
 
-Its charge is twofold: the imperial person, and the peace of the Inner City. Within Arvon it is guard, garrison and magistrate's arm together. It wards the [[place-palvar|Palvar]], stands the gates and walls of the citadel, and keeps order among the _kurthoi_ (senators), priests, magistrates and great families who dwell or do business there. Its writ stops, sharply, at the Inner Wall. The vast city beyond is not the guard's to police. That work belongs to the [[affiliation-vylrnmltry|City Watch]], and the division is deliberate.
+Its charge is twofold: the imperial person, and the peace of the Inner City. Within Arvon it is guard, garrison and magistrate's arm together. It wards the [[place-palvar|Palvar]], stands the gates and walls of the citadel, and keeps order among the _kurthoi_ (senators), priests, magistrates and great families who dwell or do business there. Its writ stops, sharply, at the Inner Wall. The vast city beyond is not the guard's to police. That work belongs to the [[affiliation-citywatchorz|City Watch]], and the division is deliberate.
 
 ## The Body That Makes and Unmakes
 
@@ -92,7 +92,7 @@ The Orzas
 The [[affiliation-vylrnmltry|line legions and the Dukran]]
 : a separate world. The guard takes no orders from the war command and fights no frontier campaigns. The legions eye the guardsmen's privileges with a mixture of envy and distrust.
 
-The [[affiliation-vylrnmltry|City Watch]]
+The [[affiliation-citywatchorz|City Watch]]
 : the guard's opposite number below the hill. The guard keeps the Inner City and the Watch keeps the rest. The guardsmen look down on the watchmen as glorified street-wardens, and the Watch returns the contempt with the resentment of men who do the unglamorous work of policing a million people.
 
 The [[affiliation-verdanorzara|Verdan Orzara]] and the civic courts

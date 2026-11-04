@@ -38,15 +38,15 @@ The master families themselves are a few hundred people in all. On Torvel they a
 
 ## Who Keeps Order
 
-The houses keep their own order. Each has its doorkeepers and its men, and a quarrel between servants of two houses is settled by their stewards, usually before dinner. [[affiliation-vylrnmltry|The Vylarian Military]] keeps a watch-house on the Circle of Heroes and walks the lanes lightly, and its watchmen do not go through a house's door without the master's leave or a magistrate's writ. The ward's _peltros_ (ward magistrate) inspects the bearers' weights and the houses' water-pipes, and is very polite about both.
+The houses keep their own order. Each has its doorkeepers and its men, and a quarrel between servants of two houses is settled by their stewards, usually before dinner. [[affiliation-citywatchorz|The City Watch]] keeps a watch-house on the Circle of Heroes and walks the lanes lightly, and its watchmen do not go through a house's door without the master's leave or a magistrate's writ. The ward's _peltros_ (ward magistrate) inspects the bearers' weights and the houses' water-pipes, and is very polite about both.
 
 The Veramus of Works and Waters, who sits for [[affiliation-verdanorzara|Orzara Courts]], matters more on the Heights than any magistrate. The hills are fed by a branch of the aqueduct that climbs them through pressure-towers, and each house's pipe takes its allotted share. The Veramus sets the allotments.
 
 ## What Is Forbidden Here
 
 - **Water above one's allotment.** A house that widens its pipe or taps the branch above its share is fined by the Veramus of Works and Waters. In a dry summer the Veramus cuts the pipe, and the house buys its water by the jar from the bearers for the rest of the year.
-- **Armed men.** No house may keep more than twelve armed men within the thrima, the hallowed boundary inside which no legion marches. A house found keeping more is reported to the imperial tribunals in the [[affiliation-imperialoffices|Imperial Offices]], and the charge there is treason.
-- **A cart or a team.** Nothing on wheels larger than a handcart is allowed on the lanes, and no house keeps a stable on the Heights without a license that costs as much as the stable.
+- **Armed men.** No house may keep more than twelve armed men within the thrima, the hallowed boundary inside which no legion marches. A house found keeping more is reported to the imperial tribunals in the [[affiliation-imperialoffices|Imperial Offices]], and the charge there is treason, whose sentence for a house is proscription: its master's death and its property forfeit to the throne.
+- **A cart or a team.** Nothing on wheels larger than a handcart is allowed on the lanes. A cart found on them is taken to the watch-house and its owner fined by the _peltros_ before he may have it back. No house keeps a stable on the Heights without a license that costs as much as the stable, and an unlicensed beast is seized and sold outside the line.
 - **A client in the wrong rank.** No law forbids it. A client who pushes into a rank above his own is not greeted, and the house's steward does not see him again.
 
 ## What the Heights Fear
