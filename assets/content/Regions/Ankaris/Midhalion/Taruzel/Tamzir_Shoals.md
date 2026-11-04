@@ -71,6 +71,9 @@ Three parties want the rams, and the water keeps them. The admirals of Yamuzel w
 [[affiliation-shoalsbrthd|Shoals Brotherhood]]
 : the outlaws who live in them
 
+[[miscgear-rostralbeaks|The Rostral Beaks of Tamzir Shoals]]
+: the squadron's rams, and who wants them
+
 # The Truth of the Shoals {#truth .secret}
 
 **The admiral's ship is in Sulimar.** The imperial flagship did not burn and was not taken. On the second day of the battle she was driven through the gap in the ring on the morning flood, holed by a fishing boat's ram, and she sank in the lagoon in four fathoms of still water, where she lies upright with her ram and her stern-post standing clear of the mud. The Brotherhood's divers have been in her many times. They left the admiral's bones on her deck, where he fell, and brought up his sword, which the Elders keep, and the squadron's pay chest, which paid for the Brotherhood's first boats. Only the Brotherhood knows where she is, and the veterans who say the warship at Besikar was the flagship have never asked it.

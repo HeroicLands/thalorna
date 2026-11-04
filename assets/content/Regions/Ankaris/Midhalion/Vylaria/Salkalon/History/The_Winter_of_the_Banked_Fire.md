@@ -105,7 +105,7 @@ In the spring of 524, 238 HF, the _therkos_ (governor) of [[affiliation-provincv
 ## What It Left
 
 - **A name.** The crew called the bay [[place-braldvik|Bralvik]], the inlet of the banked fire, and the village kept the name because the [[place-mercavia|Delalara]] factors bought its first smoke-fish under it.
-- **A fire.** The [Old Coal]{.name data-type="miscgear"}, banked in the Salken smokehouse and carried in Hvirnmil's helm on the eve of 1 [Karnavar]{.name data-type="lore/calendar"}, lights every smokehouse in the town.
+- **A fire.** The [[miscgear-oldcoal|Old Coal]], banked in the Salken smokehouse and carried in Hvirnmil's helm on the eve of 1 [Karnavar]{.name data-type="lore/calendar"}, lights every smokehouse in the town.
 - **A bill.** Bralvik has sent the Kastamar admiralty a bill for its forty-one boats every autumn since 524, and the admiralty has paid none of them.
 - **A claim.** The town holds that the crew off [[place-hvirnmilhd|Hvirnmil's Head]] were the first Nordmen the empire ever paid, a generation before [[lore-compactsignd|the Signing of the Compact]] (the hiring of the Nordmen). The rowers drew pay for their seven years; whether a term of oars set as a surrender counts as hire is a question the empire's chroniclers answer differently.
 

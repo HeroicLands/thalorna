@@ -54,5 +54,8 @@ The ground is held and nobody has decided what to do with it. A border patrol ho
 [[place-vylariargn|Vylaria Region]]
 : the Kervaron Spine
 
+[[miscgear-twelftheagle|The Lost Eagle of the Twelfth]]
+: the eagle that may lie here
+
 [[affiliation-vylrnmltry|Vylarian Military]]
 : the eagle, and what a legion owes it

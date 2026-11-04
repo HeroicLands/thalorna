@@ -162,7 +162,7 @@ Society is stratified, and the ladder is short to state:
 
 Mobility exists and is limited, and the gap between the senatorial elite and the common people widens each generation.
 
-Vylarians are renowned craftsmen and traders. [Vylarian Steel]{.name data-type="miscgear"}, an alloy produced by the empire's metalsmiths, is prized across Ankaris for its strength and resilience; the secret of its forging is jealously guarded, and weapons and armor made of it command extraordinary prices.
+Vylarians are renowned craftsmen and traders. [[miscgear-vylsteel|Vylarian Steel]], an alloy produced by the empire's metalsmiths, is prized across Ankaris for its strength and resilience; the secret of its forging is jealously guarded, and weapons and armor made of it command extraordinary prices.
 
 Education, rhetoric and law are central to Vylarian identity. The legal tradition is the most sophisticated in Ankaris, and courts across the continent have adopted or adapted Vylarian law. A Vylarian of means is expected to be well spoken and to know the classics, but reading and composing continuous text is a narrower skill: it belongs to the clergy, the professional scribes and a minority of the nobility, and most of the rest keep a scribe.
 

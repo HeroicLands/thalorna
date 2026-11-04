@@ -62,7 +62,7 @@ The eastern sea belongs to the Taruzelian fleet, and the Vylarian navy cannot pa
 
 ## Trade
 
-Nearly every commodity in Thalorna that travels any real distance crosses the Vylarian Sea at some point: [Vylarian Steel]{.name data-type="miscgear"} and wine, Helionite olive oil and philosophical manuscripts, Taruzelian spices and textiles, Provenzian art and luxuries, Tarvenan grain, Khelathi papyrus, grain and gold, Okhárian bronze and worked metal, Bethuan textiles and leather, and the far-eastern silk, porcelain, tea and jade that arrive through Taruzelian and Bizarian middlemen.
+Nearly every commodity in Thalorna that travels any real distance crosses the Vylarian Sea at some point: [[miscgear-vylsteel|Vylarian Steel]] and wine, Helionite olive oil and philosophical manuscripts, Taruzelian spices and textiles, Provenzian art and luxuries, Tarvenan grain, Khelathi papyrus, grain and gold, Okhárian bronze and worked metal, Bethuan textiles and leather, and the far-eastern silk, porcelain, tea and jade that arrive through Taruzelian and Bizarian middlemen.
 
 Moving bulk goods across the sea is usually cheaper than moving them overland for a fraction of the distance, so inland polities a thousand miles from the shore are priced out of its markets. That arithmetic is why Mídhalión holds together as one region at all.
 

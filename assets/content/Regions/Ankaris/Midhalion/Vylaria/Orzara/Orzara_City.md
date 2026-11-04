@@ -277,7 +277,7 @@ Scattered through the city are the great **public baths**—vast complexes of ho
 
 ## The Outskirts
 
-Beyond the Clearance sprawl the [[place-outskirtsorz|Outskirts]], the unplanned, half-legal ring where most of the people who keep the city running live, because the right to dwell inside the thrima belongs only to citizens and their sponsored servants (see _Citizens and Residents_). Everything the city will not house is there, and that is where Orzara is made: the gate-yards at every gate, the foundries and foul trades of the Smoke downwind and downriver, the walled foundry-town where the [Steel Guild]{.name data-type="affiliation/guild"} makes [Vylarian Steel]{.name data-type="miscgear"}, and the garden-villas of the very rich on the pleasanter ground. Its people count themselves Orzarans, and the city could not survive a week without them.
+Beyond the Clearance sprawl the [[place-outskirtsorz|Outskirts]], the unplanned, half-legal ring where most of the people who keep the city running live, because the right to dwell inside the thrima belongs only to citizens and their sponsored servants (see _Citizens and Residents_). Everything the city will not house is there, and that is where Orzara is made: the gate-yards at every gate, the foundries and foul trades of the Smoke downwind and downriver, the walled foundry-town where the [Steel Guild]{.name data-type="affiliation/guild"} makes [[miscgear-vylsteel|Vylarian Steel]], and the garden-villas of the very rich on the pleasanter ground. Its people count themselves Orzarans, and the city could not survive a week without them.
 
 ## The Vilarpolthamis
 

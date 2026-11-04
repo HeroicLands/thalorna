@@ -55,7 +55,7 @@ The heartland lives on borrowed money and waits on an old man's death. The [[aff
 
 ## Notable Features
 
-[Vylarian Steel]{.name data-type="miscgear"}
+[[miscgear-vylsteel|Vylarian Steel]]
 : the empire's most famous export, an alloy of unmatched quality whose forging is a closely guarded secret.
 
 The Vylarian Roads

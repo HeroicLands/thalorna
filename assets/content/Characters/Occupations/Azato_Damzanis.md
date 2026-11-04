@@ -448,7 +448,7 @@ He maintains cordial but distant relations with the senatorial families whose pa
 
 **Hiltheris Redivivus**—An apprentice has discovered references in old Epistémion records to a secret project Azato conducted with the late _Marendos_ Hiltheris Tholmaris before their public rupture. The apprentice, lacking context, asks innocent questions about the work. Azato can suppress the inquiry or allow a dormant chapter of his past to reopen.
 
-**The Transmutation of Iron**—_Kurthos_ Valerion has learned rumors of [Vylarian Steel]{.name data-type="miscgear"}'s forging secrets and suspects they involve alchemical processing unknown to the Steel Houses. He has tasked Azato with discovering these secrets through research, willing to fund any necessary expedition or investigation. The request is both an enormous opportunity and an invitation to espionage against Vylaria's most jealously guarded monopoly.
+**The Transmutation of Iron**—_Kurthos_ Valerion has learned rumors of [[miscgear-vylsteel|Vylarian Steel]]'s forging secrets and suspects they involve alchemical processing unknown to the Steel Houses. He has tasked Azato with discovering these secrets through research, willing to fund any necessary expedition or investigation. The request is both an enormous opportunity and an invitation to espionage against Vylaria's most jealously guarded monopoly.
 
 **Brother Zenothen's Successor**—The aging priest has begun mentoring a young ecclesiast to eventually hear Azato's monthly confessions. This replacement—idealistic, warm, and concerned with Azato's spiritual welfare rather than his usefulness—poses an unexpected threat: the kind of human connection Azato has spent fifty years avoiding.
 

@@ -20,7 +20,7 @@ A path climbs the landward slope from the end of the town's shingle, cut into tu
 
 The top is a broad, sloping table of turf with the sea on three sides and the wind always on one of them. In the middle of it is a hollow about the size of a fishing boat, a man's depth at the center, its edges grassed over and its floor black with old ash where the turf will not take. That is the pit-house where the crew kept the fire banked under a smoke-rack every night of the winter, the only light on that stretch of coast. Nothing of the house stands. A ring of post-holes shows where its roof was, and the town children are told that the ash at the bottom is still warm in the right weather, which it is not.
 
-On the seaward slope below the hollow, in a row facing north, stand nine stones, each about knee-high and each cut with a single line of northern runes. Nine of the crew died before spring, and these are their graves. Nobody in Bralvik can read the runes, any more than they can read the brand on the town's barrels, and nobody has moved a stone. The Salken family, who keep the [Old Coal]{.name data-type="miscgear"}, clear the turf from around them every autumn before [Coal Night]{.name data-type="lore/gathering"}.
+On the seaward slope below the hollow, in a row facing north, stand nine stones, each about knee-high and each cut with a single line of northern runes. Nine of the crew died before spring, and these are their graves. Nobody in Bralvik can read the runes, any more than they can read the brand on the town's barrels, and nobody has moved a stone. The Salken family, who keep the [[miscgear-oldcoal|Old Coal]], clear the turf from around them every autumn before [Coal Night]{.name data-type="lore/gathering"}.
 
 ## What the Head Is Used For
 
