@@ -72,15 +72,15 @@ tupe ehi onsa ennos kauve eso lentas torvel vennas torvel/
 kelsa ovuu olnaro oltandiho tupe ehi oltandi tylne ahi velpe onsa/
 .seltai luuronno tupe heeve tylne uulse tenvas rosel/
 oltandi iha irna ehi onsa ummes unturoho vennas erni ehi onsa velti olnaroho ehi/
-.ahi hessave lirne ehi iha seltai ehi uvi seltai nuuvanu vennâs ahi seltai onsǎ/
+.ahi hessave lirne ehi iha seltai ehi uvi seltai nuuvanu vennas ahi seltai onsa/
 seltai olnaro sendeppi nerrava nerrava velti ilte olnaro/
 .luuro ovuu iha nuuvanu vennas uttes orvessaho uttes olnaro onsa tennai onsa/
 erni ehii iha ummes oso leevi ihaho osotos setty ehii maviho/
 [.\[…\]]{lang=zxx}/
 evatte ehi elneri velti ilte talnava nerrava velti ilte olnaro/
 .evatte ehi entel seltai salnava luuronno seltai talnava luuro luuronno heeve uulse erme/
-ahi sirneta ehi salnava luuronno entel kessave ovu ehi uvi seltai nerravâ setty ehi hisselo ahi erni ehi/
-.entel kessave ovu ehi uvi seltai íha talnava evatte ehi seltai onsa olnaro onsa luuro luuronno onsa insu kelsa ovu túpe luuronno onsa
+ahi sirneta ehi salnava luuronno entel kessave ovu ehi uvi seltai nerrava setty ehi hisselo ahi erni ehi/
+.entel kessave ovu ehi uvi seltai iha talnava evatte ehi seltai onsa olnaro onsa luuro luuronno onsa insu kelsa ovu tupe luuronno onsa
 :::
 
 The carriers were told that eleven lines stand in the gap and were not given to them, and that the singer did not finish the line before the gap either, when she sang it.
@@ -131,7 +131,7 @@ mairel onsaa ilnava lauppi olmarna aukkessa olnaro pelpe oso irtal onsaatos/
 .ahi yinse ehi vanneti onsaa meraviho raakke polpe lauppi osotos eho onsa/
 ukken onsaa ernirsa iha ummes ehi ernirsa leltai ehi kuse iha ernirsa/
 .ukken meravi lirtarsatos entel leltai lirne oltandi teipannu oso ahi eho iha/
-ahi eho eso teipannu entel eho alken salpuho ahi yinse ehi eso teipannu yinse ehi alkěn/
+ahi eho eso teipannu entel eho alken salpuho ahi yinse ehi eso teipannu yinse ehi alken/
 .ahi rauttu ovu nelmi vittel ruskelo ahi ulpes melke ruskel osotos tupe nelmi onsa kelsa ovu lirne oso tenvas uulse ehi/
 luuro tellakitta eilavanto entel seltai salnava luuronno seltai talnava evatte ehi entel seltai salnava leltainno seltai talnava ukken eso oltandi/
 .leltai ovuu ehi evakkakki iha osotos sennevi torvel ahi sennevi rendatto
@@ -172,15 +172,15 @@ pelpe lentinu vennas ummes sautteno aldesse polpeho nykehe ummes unturoho vennas
 .nalki lenti peravi onsa sulmeho eho polpe levatti oltandi onsa eirandi yinserseho/
 yinse ehi leiken ervu ehi yinserse vennas vonu sorvel soimutekkiretos vennas/
 .setty lenti talveho aurannos uttes lenti iha lenti onsa/
-luuro ovuu sipes seltai luuronno seltai leltainno uvi seltai movî sirneta ovuu ehii lirne ilte oso seltai/
+luuro ovuu sipes seltai luuronno seltai leltainno uvi seltai movi sirneta ovuu ehii lirne ilte oso seltai/
 .entel seltai ehii lirne kerrai onsa velnari ahi seltai lirne oso olkai eho onsaa oluho/
 kelsa ehii kessari enneli hyrreho lonku issalteho uttes muuvu evesi vennas tunes/
-.vaissa onsaa onsaa lirne ilte polpeho leevi uttes muuvu vennas kessave onsaa hyrre uvi vaukka onsa mavihô/
-ahi vandel ehii onsaa vaukka onsaa leesyhe kauve onsaa ahi halpe ehii onsaa leesy ávetti iha irna ehi iha ulsen/
+.vaissa onsaa onsaa lirne ilte polpeho leevi uttes muuvu vennas kessave onsaa hyrre uvi vaukka onsa maviho/
+ahi vandel ehii onsaa vaukka onsaa leesyhe kauve onsaa ahi halpe ehii onsaa leesy avetti iha irna ehi iha ulsen/
 .evatte ehi kauve ehii erme ahi halpe ehii ehii leesy onsaa evesi oltandi eho onsaa sylpe oltandi/
 ahi eho ehii ylpirse oltandi ahi supe ovuu kessari ahi raakke ehii onsa onsaa kessari onsa tunes ahi raakke ehii onsa/
 .tellakitta eilavanto luuro ovu luuro luuronno heeve uulse entel iha seltai aume luuro ovu ehi evakka/
-pelpe lenti setty lenti leikeno untǔro ilte uulse pelpe lenti ennos setty lenti ahi eho uttes
+pelpe lenti setty lenti leikeno unturo ilte uulse pelpe lenti ennos setty lenti ahi eho uttes
 :::
 
 The account names her: [Lentila Talvento]{.name data-type="being/npc"}, the tall grass, of the hearth of the low fog.
@@ -238,17 +238,17 @@ ellevi ehi vittel aukkessaho eso sennavetos aukkessa sirne ahi velpe lauppi tune
 setty salpu vennas selkorosa onsaa ressa melke naldusa onsa ahi ulpes vaitten vennas/
 .ralti polpe hervi hervi autemel intiso eho orti vennas ilvena onsaa/
 eho lirne vennas esoho ahi olkai onsaa patten ehi ihatos evatte ehi onsa ilte/
-.ahi vaukka haulonna ollevi ollevi aldevano túpe tupenno onsaa/
+.ahi vaukka haulonna ollevi ollevi aldevano tupe tupenno onsaa/
 luuro tellakitta eilavanto entel seltai salnava luuronno seltai talnava ahi seltai luuronno setty ehi issalteho tenvas nuuvanu vennas aunekke eilavaho/
-.luuro rivytti syllente ukken oltandi ossenda ilte onsa ossenda ílte ahi velpe lauppi ahi olkai lirne vennas/
+.luuro rivytti syllente ukken oltandi ossenda ilte onsa ossenda ilte ahi velpe lauppi ahi olkai lirne vennas/
 luuro lentila talvento muuvu evesi oltandi eho muuvu sylpe oltandi ahi seltai ehii lirne/
-.ahi vandel ehi onsa setty ehi aunekke issaltehǒ/
+.ahi vandel ehi onsa setty ehi aunekke issalteho/
 evatte ehi seltai talnava aukkessa aunekke lirne vennas ummes esoho ossendaho ilte/
 .ahi erni talnava iha aunekke aldevano setty lenti sautteno aldesse polpeho eso leikeno aurannos/
 oltandi oso yinse ehi iha yinse ehi oltandi ilte aunekke lirne vennas esoho tupe tupenno onsaa/
 .elnis ilte sennaveho ilte uttes elnis ahi erni onsa iha uttes elnis/
 erni ehii ollevi leesy erdavi aulveira ollevi eho onsaa ollevikkoho ahi eho aulirakko iha evakkatos aurannos osotos seimakata ehii ummes iha/
-.ahi erni ehi uvi eho ollevikko uulse salnava oltandî kessave ehi lirne sipes kerrai onsaa velnari eho onsaa ollevikkoho patten onsaa ahi erni onsaa iha erme
+.ahi erni ehi uvi eho ollevikko uulse salnava oltandi kessave ehi lirne sipes kerrai onsaa velnari eho onsaa ollevikkoho patten onsaa ahi erni onsaa iha erme
 :::
 
 The account marks a silence after this the length of a long line, and nobody took it up.

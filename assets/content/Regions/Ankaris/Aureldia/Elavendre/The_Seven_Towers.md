@@ -123,11 +123,11 @@ tenvas irnanno vennas halte alken vennas kaldis/
 .yinse ehii eirandi nerve evi aldis nerve/
 halte onsaa oltandi nerve ahi erni ehii ilnava kaldistos/
 .rilpa evi selpai ressa ralten vennas halte eltane ralti/
-setty onsaa ilpe raltitos rálti onsǎa/
+setty onsaa ilpe raltitos ralti onsâa/
 .sattai ehii onsaa olteho varinne vennas ennos erni ehii/
-vyste vennas onsaa evi ovaikke sorkandǎ
+vyste vennas onsaa evi ovaikke sorkanda
 
-evatte onsaa ulpes ovǔu ulpes ehii nuuvatos/
+evatte onsaa ulpes ovûu ulpes ehii nuuvatos/
 .lemmes ehii teipan ulpes onsa ennos ehii sennevi onsa/
 halte onsaa seipan leesy sorkanda somarriho/
 .rappan lanteppi teipan pelpe onsa polpeho/
@@ -156,7 +156,7 @@ selpaita irnanno vennas eilava vehesto somarriho/
 .ahi supe teipannu ilte onsa rauttu pelvai/
 .kauve ikkessa selpai siekke issalteho/
 pehe irnanno vennas raakke onsaa onsaa eilava olteho/
-.yinse onsaa eilava ulsen taumel onsaa uvi tupe onsâ/
+.yinse onsaa eilava ulsen taumel onsaa uvi tupe onsa/
 erni ehii sennai eilava ennos taumel irnanno vennas/
 .yinse ehii erme ahi hessave ehii ervu
 
@@ -175,7 +175,7 @@ tenvas onsaa ilte ahi ertai rukke iha/
 tennai ehii ernirsa aume onsa/
 .ahi eho lirne sorkandaho roselo oso meeli auliraho/
 ahi herrai onsaa kerrai aume onsaa intiso taltai uttes onsaa/
-.taltai karnava onsǎa
+.taltai karnava onsâa
 
 [....·   ·   ·]{lang=zxx}
 

@@ -212,7 +212,7 @@ test("CLI requires an explicit index and rejects the retired external-converter 
 test("performance adapter keeps the independent converter's scalars and sign order", () => {
     assert.equal(
         referenceWithPerformance("pâá", () => sign(0x1ed50, 0x1ed70, 0x1ed78)),
-        sign(0x1ed50, 0x1ed70, 0x1ed78, 0x1ed79, 0x1ed7b),
+        sign(0x1ed50, 0x1ed70, 0x1ed78, 0x1ed7a, 0x1ed7b),
     );
 });
 

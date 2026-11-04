@@ -272,7 +272,7 @@ kelsa aukkessa vennas melkeho/
 kelsa irnanno vennas entel erdavi ralti onsa ralti ulnavaho/
 kelsa ovuu tevanni vennas iha sennelo/
 somarri ilte toimunuho vennas/
-ahi hessave ovuu uvi irna movî iha irna tevanninno onsa/
+ahi hessave ovuu uvi irna movi iha irna tevanninno onsa/
 sendeppi onsa sendeppi ehii
 
 korpe onsa taumel onsaa ramme vennas irnannotos vennas/
@@ -290,7 +290,7 @@ entel erni onsa lirne sattairsa/
 ulpes onsa/
 sendeppi onsa sendeppi ehii
 
-kessave ovuu uvi elvata lirne vennas neravanno mavisâ kelsa ovuu/
+kessave ovuu uvi elvata lirne vennas neravanno mavisa kelsa ovuu/
 irtal lantavo sulmeho/
 vaultiho oso ylke ovaikke ulnava taumel/
 setty onsa melkeho teipannu ilte evi ossenda ilte eho melke onsa varmuho/
@@ -346,7 +346,7 @@ vautti onsa nyssetes entel seimakata onsaa/
 sirne evesi oso seimakata onsaa/
 ahi evatte iha olnaro onsa/
 lonsi lirne ilte ovaikkeho evanni onsa sendeppinno/
-evatte sendeppinno uvi movî/
+evatte sendeppinno uvi movi/
 evatte lirne ovu/
 evatte sendeppinno aume aulten sennaveho/
 ulpes onsa ovaikke ulsen osotos tenvas sulme uulni/
@@ -387,7 +387,7 @@ terkata onsa eikka leevi ehii aukkessa vennas onsa ulnavaho eirandi ossendatos/
 kaivestos evi onsa veltitos ahi erni onsa iha/
 tenvas aukkessa vennas leevistehe tupe onsaa vattel vennas kuse onsaa alken vennas/
 evatte onsaa taltai ovu ovaikke ulnava taumel senneltos evatte onsaa ummes onsaa/
-evatte onsaa kuse vonu oltandi sěvis/
+evatte onsaa kuse vonu oltandi sevis/
 hyppe hissel ravellirsa evakkatos/
 evatte onsa tervi salpu/
 evatte onsa sendeppi taumel/
@@ -408,7 +408,7 @@ ahi serkata onsa onsa kaivestos oha veltitos/
 leevi onsa leevistehe oso terkata irnanno vennas onsatos/
 entel eho kessari leevi onsa entel seltai kessari irtal onsa/
 ahi eho lirne leevistehe teipannu uttes sennalo aulten teipannu/
-kessave lirne uvi nelvata movî sennel/
+kessave lirne uvi nelvata movi sennel/
 evatte onsa kessave ovu sennel/
 pavalsa ovaikke lemmes onsa onsa ahi halpe onsa onsa/
 sendeppi onsa sendeppi ehii

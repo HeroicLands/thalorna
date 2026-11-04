@@ -184,8 +184,8 @@ function hex(text) {
  */
 export function referenceWithPerformance(source, convert) {
     const marks = new Map([
-        ["\u0302", 0x1ed79],
-        ["\u030c", 0x1ed7a],
+        ["\u030c", 0x1ed79],
+        ["\u0302", 0x1ed7a],
         ["\u0301", 0x1ed7b],
     ]);
     const vowels = new Set([..."aeiouy"]);

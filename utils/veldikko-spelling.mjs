@@ -189,7 +189,7 @@ function spellingRows(tongue) {
  * vowels sounded in turn.
  */
 function addSinaleVowels(add) {
-    const marks = { "\u0302": "rise", "\u030c": "fall", "\u0301": "emphasis" };
+    const marks = { "\u030c": "rise", "\u0302": "fall", "\u0301": "emphasis" };
     const deliveries = [
         "",
         "\u0302",

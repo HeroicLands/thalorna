@@ -6,7 +6,7 @@ subType: language
 description: "The eldest of the Elder Tongues—vowel-heavy, clean-consonanted, and sung as often as spoken, older than any human settlement on Thalorna."
 tags: []
 data:
-  roman: "adehiklmnoprstuvyáéíóúýâêîôûŷǎěǐǒǔ-"
+  roman: "adehiklmnoprstuvyáéíóúýâîûǎǐǔ-"
   core: true
   abbreviation: Sin.
   fields:
@@ -291,7 +291,7 @@ data:
       class: "n"
       field: "Water, weather and the seasons"
       gloss: "winter"
-      variants: ["unturoho", "untǔro"]
+      variants: ["unturoho"]
     - form: esseli
       class: "n"
       field: "Water, weather and the seasons"
@@ -860,13 +860,13 @@ data:
       gloss: "a hill"
       concept: hill
     - form: sorkanda
-      variants: [sorkandǎ, sorkandaho]
+      variants: ["sorkandaho"]
       class: "n"
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "a mountain"
       concept: mountain
     - form: aunekke
-      variants: [aunekkeho, aunekkě, aunekketos]
+      variants: ["aunekkeho", "aunekketos"]
       class: "n"
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "a valley"
@@ -983,7 +983,7 @@ data:
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "a ford"
     - form: issalte
-      variants: ["issalteho", "issaltehǒ", "issaltetos"]
+      variants: ["issalteho", "issaltetos"]
       class: "n"
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "an edge, the margin where a wood thins"
@@ -1060,7 +1060,6 @@ data:
       field: "Song, speech, memory and the telling"
       gloss: "a word"
     - form: sirne
-      variants: [sirně]
       class: "n"
       field: "Song, speech, memory and the telling"
       gloss: "a name"
@@ -1118,7 +1117,6 @@ data:
     - {form: kantal, class: "n", field: "Song, speech, memory and the telling", gloss: "a harp"}
     - {form: hommas, class: "n", field: "Song, speech, memory and the telling", gloss: "a drum"}
     - form: sevis
-      variants: ["sěvis"]
       class: "n"
       field: "Song, speech, memory and the telling"
       gloss: "a note in music"
@@ -1265,7 +1263,7 @@ data:
       gloss: "an echo"
       built: [kilpe, "-kki"]
     - form: kilpete
-      variants: ["hilpete", "kílpete"]
+      variants: ["hilpete"]
       class: v
       field: "Song, speech, memory and the telling"
       gloss: "call"
@@ -1353,7 +1351,7 @@ data:
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "the plaited mat"
     - form: alken
-      variants: ["alkěn", "alkeno"]
+      variants: ["alkeno"]
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "a hand"
@@ -1502,13 +1500,12 @@ data:
       gloss: "a wall"
       concept: wall
     - form: ovaikke
-      variants: [ovaikkeho, ovaikkě, "ovaikketos"]
+      variants: ["ovaikkeho", "ovaikketos"]
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "a door"
       concept: door
     - form: vaissa
-      variants: ["váissa"]
       class: v
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "plant, set in the ground"
@@ -1951,7 +1948,7 @@ data:
       field: "Time: age, season, waiting and the long view"
       gloss: "the still hour"
     - form: sennave
-      variants: ["sennaveho", "sennavetos", "sennavêho", "sennavěho"]
+      variants: ["sennaveho", "sennavetos"]
       class: "n"
       field: "Time: age, season, waiting and the long view"
       gloss: "time"
@@ -1998,7 +1995,7 @@ data:
       gloss: "the beginning"
       concept: beginning
     - form: oltandi
-      variants: ["oltandiho", "oltandî"]
+      variants: ["oltandiho"]
       class: "n"
       field: "Time: age, season, waiting and the long view"
       gloss: "the end"
@@ -2014,7 +2011,7 @@ data:
       gloss: "a moment"
       concept: moment
     - form: sylpe
-      variants: ["sylpě", "sylpehe"]
+      variants: ["sylpehe"]
       class: "n"
       field: "Time: age, season, waiting and the long view"
       gloss: "a human lifetime"
@@ -2034,13 +2031,11 @@ data:
       gloss: "hope, the waiting that expects"
       concept: hope
     - form: ennos
-      variants: ["ennós"]
       class: part
       field: "Time: age, season, waiting and the long view"
       gloss: "before, in time"
       concept: before-time
     - form: uulse
-      variants: ["uulsê"]
       class: part
       field: "Time: age, season, waiting and the long view"
       gloss: "after"
@@ -2150,7 +2145,6 @@ data:
       gloss: "a gift"
       concept: gift
     - form: lonte
-      variants: ["lontě"]
       class: "n"
       field: "The fae, the thin places, dream and the god"
       gloss: "a rite"
@@ -2228,7 +2222,6 @@ data:
       gloss: "a sacred grove"
       built: [seira, salpukko]
     - form: iltorin
-      variants: ["iltorîn"]
       class: "n"
       field: "The fae, the thin places, dream and the god"
       gloss: "a seer"
@@ -2511,7 +2504,7 @@ data:
       class: v
       field: "Motion, rest and being"
       gloss: "hold"
-      variants: ["supe", "túpe"]
+      variants: ["supe"]
       concept: hold
     - form: pehe
       variants: [vehe]
@@ -2530,7 +2523,7 @@ data:
       class: v
       field: "Motion, rest and being"
       gloss: "come"
-      variants: ["senvas", "tenvás"]
+      variants: ["senvas"]
       concept: come
     - {form: vaukka, class: v, field: "Motion, rest and being", gloss: "go", concept: go}
     - {form: ressa, class: v, field: "Motion, rest and being", gloss: "run", concept: run}
@@ -2557,7 +2550,6 @@ data:
       class: v
       field: "Motion, rest and being"
       gloss: "leave, depart"
-      variants: ["olkǎi"]
       concept: leave
     - form: patten
       class: v
@@ -2591,12 +2583,7 @@ data:
       gloss: "shut"
       variants: [halpe]
       concept: close
-    - form: ulpes
-      variants: ["ulpés"]
-      class: v
-      field: "Motion, rest and being"
-      gloss: "enter"
-      concept: enter
+    - {form: ulpes, class: v, field: "Motion, rest and being", gloss: "enter", concept: enter}
     - {form: ovanne, class: v, field: "Motion, rest and being", gloss: "dwell"}
     - form: sattainno
       class: "n"
@@ -2651,7 +2638,7 @@ data:
       gloss: "restless"
       built: [rauttu, "-sa"]
     - form: ehi
-      variants: ["éhi", "ehitos", "ehiho"]
+      variants: ["ehitos", "ehiho"]
       class: pron
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "I, me; my, standing before a noun as its possessor"
@@ -2663,31 +2650,31 @@ data:
       gloss: "we, us; our, standing before a noun as its possessor"
       concept: [we, our]
     - form: ovu
-      variants: ["ovǔ", "ovuho"]
+      variants: ["ovuho"]
       class: pron
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "thou, one person spoken to; thy, standing before a noun as its possessor"
       concept: [you-reference, your]
     - form: ovuu
-      variants: ["ovuuho", "ovǔu", "ovuutos"]
+      variants: ["ovuuho", "ovûu", "ovuutos"]
       class: pron
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "you, more than one spoken to"
       concept: you-reference
     - form: onsa
-      variants: ["onsâ", "onsǎ", "onsatos"]
+      variants: ["onsatos"]
       class: pron
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "he, she, it"
       concept: [he, she, it]
     - form: onsaa
-      variants: ["onsǎa", "onsaatos"]
+      variants: ["onsâa", "onsaatos"]
       class: pron
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "they"
       concept: they
     - form: iha
-      variants: ["ihǎ", "íha", "ihatos"]
+      variants: ["ihatos"]
       class: pron
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "this, here by me"
@@ -2703,7 +2690,6 @@ data:
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "that yonder"
     - form: ahi
-      variants: [áhi]
       class: part
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "not; no, as an answer"
@@ -2723,13 +2709,11 @@ data:
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "that, which, who"
     - form: vennas
-      variants: ["vennâs"]
       class: num
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "many"
       concept: many
     - form: ilte
-      variants: ["iltě", "ílte"]
       class: num
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "one"
@@ -2794,13 +2778,11 @@ data:
       gloss: "twenty"
       concept: twenty
     - form: movi
-      variants: [movî]
       class: pron
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "who"
       concept: question-who
     - form: mavi
-      variants: [mavî]
       class: pron
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "what"
@@ -2914,21 +2896,18 @@ data:
       gloss: "yonder, over there"
       built: [olu, "-ho"]
     - form: maviho
-      variants: ["mavihô"]
       class: part
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "where"
       built: [mavi, "-ho"]
       concept: question-where
     - form: mavitos
-      variants: ["mavitôs"]
       class: part
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "why"
       built: [mavi, "-tos"]
       concept: question-why
     - form: mavisa
-      variants: [mavisâ]
       class: pron
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "of what kind, how"
@@ -2947,7 +2926,6 @@ data:
       built: [ilte, "-kki"]
       concept: only
     - form: enneli
-      variants: ["ennelî"]
       class: part
       field: "Time: age, season, waiting and the long view"
       gloss: "early"
@@ -2956,7 +2934,7 @@ data:
       class: n
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "rock, stone as the substance of a cliff"
-      variants: ["raltitos", "rálti", "raltiho"]
+      variants: ["raltitos", "raltiho"]
       concept: [rock, stone]
     - {form: silnara, class: n, field: "Beasts and birds", gloss: "swifts"}
     - form: talnava
@@ -3095,7 +3073,6 @@ data:
       gloss: "half"
       concept: half
     - form: telnu
-      variants: ["télnu"]
       class: "n"
       field: "Death, loss, grief and the Shadow"
       gloss: "a cost, what must be lost or borne"
@@ -3198,7 +3175,7 @@ data:
       class: "n"
       field: "Song, speech, memory and the telling"
       gloss: "sound; what can be heard, beyond any one voice or song"
-      variants: ["nerravâ", "nerravatos"]
+      variants: ["nerravatos"]
       concept: hear-noun
     - form: velti
       variants: ["veltitos"]
@@ -3251,7 +3228,6 @@ data:
       class: "adj"
       field: "Kin, hearth, the person and the body"
       gloss: "right, fitting, proper; what one ought to do"
-      variants: ["ávetti"]
       concept: [right-ethical, ought]
     - form: kessari
       variants: ["kessaritos"]
@@ -8025,7 +8001,7 @@ Every Sinale word on these pages is a romanization, written in the romanization 
 
 **The vowels ride above.** Six marks, one each for _a_, _e_, _i_, _o_, _u_ and _y_, set over the consonant they follow. A word that begins with a vowel carries its mark on a bare carrier stroke, the one sign in the script that stands for no sound of its own. A long vowel in the romanization—_aa_, _ii_ or _uu_—is a single mark drawn long rather than two marks, and _ee_ is two _e_ marks, the second on the carrier; a diphthong is two marks over one carrier, in the order they are said.
 
-**Writing and performance.** Unmarked romanization omits the pitch that Veldikko may record; an unmarked line still has a tune when spoken. Optional caron, circumflex and acute notation records falling pitch, rising pitch and emphasis as set out in [[doc-prnncthlrn#tone|Pronouncing Thalorna]]. A called name falls without wearing or shortening. The automatic Veldikko spelling rows preserve these performance annotations on their selected vowel nucleus, including long vowels and diphthongs. An annotated surface form is registered explicitly in the lexicon, and its rendered reading is proofed in the native font. Ordinary Veldikko may leave pitch unwritten. The automatic map has no sentence-punctuation rows; an unmarked native passage uses language and line grouping, with editorial gaps outside the native font.
+**Writing and performance.** Unmarked romanization omits the pitch that Veldikko may record; an unmarked line still has a tune when spoken, and formal speech and song rise and fall on far more syllables than are ever written. Sinale coins with tone: a held vowel, _aa_, _ii_ or _uu_, may rise or fall, and a written pitch follows [[doc-prnncthlrn#tone|Pronouncing Thalorna]]. A caron marks a rising voice and a circumflex a falling one, on the first letter of the held vowel, at most one in a word: _ovûu_ and _onsâa_ fall on their held vowel. A toned syllable takes the stress, unless an acute sits elsewhere in the word, and saying the word on a level voice, with only its stress, is always correct. A short vowel or a vowel pair carries no tone mark, and an acute marks only a stress the common rule would not choose. A called name falls without wearing or shortening. The automatic Veldikko spelling rows carry a written pitch on its held vowel. An annotated surface form is registered explicitly in the lexicon, and its rendered reading is proofed in the native font. Ordinary Veldikko may leave pitch unwritten. The automatic map has no sentence-punctuation rows; an unmarked native passage uses language and line grouping, with editorial gaps outside the native font.
 
 **The check that catches most copyists.** A word never holds a back vowel and a front vowel together, so every vowel mark in a word belongs to one set. A word carrying both is an error before it is anything else, and it is the first thing a Sinale reader sees.
 
