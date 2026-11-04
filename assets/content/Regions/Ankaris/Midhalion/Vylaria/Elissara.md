@@ -44,11 +44,15 @@ Each guild judges its own members, and a stranger with a grievance goes to the h
 
 The city's people can be seen in its trades. [[being-arklrdsklmkns|Arkalordas Kalmakanes]] went to sea from Elissara at seventeen and is the hand its captains call by name. [[being-hrphsrchrns|Harfos Orkarenis]] is a chandler whose candles go up to the stewards of the capital's great houses. [[being-chgnzrznds|Kegan Zerazendis]] keeps the [Zerazendis Inn]{.name data-type="place/structure"}, which her parents kept before her.
 
+## Politics {#present}
+
+Elissara's freedom rests on a charter that every Orzas seals anew, and the old Orzas is dying. The province of [[affiliation-provincvld|Salkalon]], whose land surrounds the city on three sides, holds the charter to be a privilege the province merely tolerates. An advocate from [[place-mercavia|Delalara]] has taken rooms in the city and asks every guild for a copy, saying he is writing a history. The [[affiliation-byzarianlg|Bizarian League]] lends to the throne against the customs of Elissara, and the League's own clerks collect them. The fleet, short of seamen, is paying the Seamen's Guild for copies of its roll. Inside the walls the vote is the standing quarrel: the seamen and the bargemen are the largest guilds, the shipowners and merchants hold the seats, and Zenothen Linthimis presides in his third year, two more than custom expects.
+
 ## Where a Party Lodges
 
 The Zerazendis Inn, two streets back from the Long Quay, is the inn for travelers and for the farmers who bring produce down from the estates, and its kitchen is the best in the lower town. Seamen between voyages sleep at the Roll House, and a party that has signed on a ship may be offered a bench there.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The seal.** Bowls carrying Dekela Baremzates's master's seal are selling in the capital, and she did not make them. The potters' guild wants the forger found inside the guild before the council hears of it.
 - **The advocate.** An advocate from [[place-mercavia|Delalara]] has taken rooms in the city and is asking every guild for a copy of the charter. He says he is writing a history.

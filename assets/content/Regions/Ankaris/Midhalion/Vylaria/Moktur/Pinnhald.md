@@ -38,11 +38,15 @@ The town's own customs are the forest's. A cutting crew leaves one tree in three
 
 The chancery counts Pinnhald a chartered town of the province, with two _tavemoi_ (magistrates) and a council. In practice the _tavemoi_ are chosen from among the headmen, and the council is the headmen's hall by another name. The first of the headmen is [Sundrith]{.name data-type="being/npc"}, an old raftsman who has made the spring run thirty times, and a quarrel in the town goes to him and the other headmen before it goes anywhere else. The _therkos_ sends a clerk up in summer to count the rafts and take the province's share, and otherwise leaves the town alone.
 
+## The Present {#present}
+
+The headmen under Sundrith keep the town's own customs hard: a crew that felled one of the straight trees the custom leaves standing has been put out of the town's work, and its leader swears another crew marked the tree. A raft of mast timber and its four raftsmen have vanished on the spring run. A priest of the southern faith wants to make an offering in the headmen's hall, and the headmen have refused him the door.
+
 ## Where a Party Lodges
 
 The [Landing House]{.name data-type="place/structure"} by the river takes raftsmen and buyers, and a party can sleep there for very little in any season but the spring, when it is full. A guest with a letter to one of the headmen sleeps in the headman's house, and eats with his family.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The raft that did not reach the yards.** A raft of mast timber left the landing in the spring flood and did not arrive at the lowland yards, and nobody has seen its four raftsmen. The timber-lord who owned it wants his logs, and the raftsmen's families want the men.
 - **The priest's offering.** A priest of the southern faith has come up to Pinnhald to make an offering in the headmen's hall itself, by order of his temple, and the headmen have refused him the door. He asks a party to help him persuade them, and the headmen ask the same party to see him safely back down the road.

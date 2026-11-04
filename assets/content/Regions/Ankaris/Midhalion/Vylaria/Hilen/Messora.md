@@ -40,11 +40,15 @@ Messora is a chartered town under the [[affiliation-provnchyln|Province of Hilen
 
 Order among the tenants belongs to the houses and their reeves. A tenant who quarrels with a factor's clerk at the table is answered by his own reeve before anyone else, and a tenant who brawls in the square at harvest is taken home by his village and dealt with there.
 
+## The Present {#present}
+
+The settling is where Hilen's land changes hands. The freedmen who keep the houses' counting-rooms sit on the council and read the figures at the stone tables, and a tenant who cannot read them carries his debt into the next year. Free farmers sell their fields to the houses at the settling, and one of them swears he signed something else and that the notary who drew his deed has left the district. A freedman who keeps a counting-room wants a strongbox in his room opened before witnesses from no house.
+
 ## Where a Party Lodges
 
 Messora has three inns, all on the square's corners. Out of season a party has its choice of rooms. At harvest every bed is taken weeks ahead by the factors and their clerks, and latecomers sleep in the storehouse lofts at a price the freedmen set and pocket. The [Tally]{.name data-type="place/structure"}, the largest of the inns, keeps a table in its yard where the factors dine together on the last night of the settling and compare the season.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The carried debt.** A tenant household that has carried its debt for three years asks a party to stand with it at the house's table this year, because the household believes the clerk's figures are wrong and has no one to read them.
 - **The free farmer's fields.** A free farmer sold his fields to a house at last year's settling and swears he signed something else. The notary who drew the deed has left the district.

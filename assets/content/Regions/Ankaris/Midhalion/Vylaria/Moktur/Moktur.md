@@ -33,6 +33,10 @@ Mining and timber are the primary industries, supplemented by herding and limite
 - Fortified frontier garrisons along the Vristwald border
 - Rich mineral deposits fueling the empire's metalworking
 
+## Current Situation {#present}
+
+Moktur is the province the capital can neither lose nor hold. It cannot lose it, because the frontier towers, the legion at [[place-dolvar|Dolvar]] and the silver of [[place-ferrovan|Zargonara]] stand between the Vristwald and the wheat of the south. It cannot hold it, because the treasury's coin reaches the north late or not at all, and the men who keep the frontier are paid by whoever has coin on the day. The _therkos_ at [[place-tyrellan|Tirellan]] pays his own auxiliaries, the legion waits on the capital, and the frontier is kept by arrangements made on the spot: the truce boys in Dolvar's House of Guests, the command of the gate at [[place-korrast|Korras]] that the border lords bid for each spring, the headmen's rule at [[place-pinnhald|Pinnhald]]. Every one of them is under strain this year.
+
 ## Settlements
 
 Moktur's settlements are few, fortified, and strung along the mountain valleys and the garrison roads.
@@ -64,6 +68,11 @@ Moktur's settlements are few, fortified, and strung along the mountain valleys a
 : a half-Varokh border town at the edge of Vristwald, beside an imperial garrison.
 
 **Hamlets, camps and border communities.** Between the towns lie scattered settlements of 100–800 people: fortified herding steads, mining and cutting camps, watchtower-villages, and the [[lore-varokhiclt|Varokh]] communities that sit within Moktur's nominal borders but answer to no Vylarian magistrate. Among them are [Greythorn]{.name data-type="place/settlement"}, [Ironcamp]{.name data-type="place/settlement"}, [Skarrholt]{.name data-type="place/settlement"}, [Vargmoot]{.name data-type="place/settlement"}, [Highfell]{.name data-type="place/settlement"}, [Drekkar's Steading]{.name data-type="place/settlement"}, [Wolfstead]{.name data-type="place/settlement"}, [Coldreach]{.name data-type="place/settlement"} and [Stennvik]{.name data-type="place/settlement"}, several of them more Varokh than Vylarian in tongue and custom. The farming villages of the valley round [[place-tyrellan|Tirellan]], [[place-mylanthos|Milanthos]] among them, are the province's granary. By the empire's standards Moktur is thinly peopled, and its mountains hold far more sheep, ore and timber than men.
+
+## Hooks {#hooks}
+
+- **The tower that is silent.** The _vandraks_ at [[place-dolvar|Dolvar]] is short of men and of coin, and hires a party to ride up to a tower whose smoke tally is late.
+- **The midsummer banner.** A border lord refused the gate of [[place-korrast|Korras]] says he will take it at midsummer, and both he and the commander want to know who the other can call on.
 
 ## See Also
 

@@ -42,11 +42,15 @@ Vindara is a chartered town under the [[affiliation-provnchyln|Province of Hilen
 
 The feud runs through all of it. Eleven winters ago a season of rain brought the wall down, and a terrace of Ronalen vines slid onto Kliven ground. Both houses claimed the vines that went on growing there, and at the next vintage the pickers of the two estates fought on the slide, and a Kliven steward was killed with a pruning-knife. The case has been before the _therkos_ (governor) at [[place-aravantia|Aravantara]] four times and has come back each time unsettled. Every vintner and cooper in Vindara sells to one house or the other, every council vote is counted by house, and in vintage weeks the _tavemoi_ post men of the town at the slide to keep the two sets of pickers apart.
 
+## The Present {#present}
+
+The feud of the slide is the town's present and its politics. The Ronalen and the Kliven still both claim the terrace that slid eleven winters ago, the _therkos_ has sent the case back unsettled four times, every council vote is counted by house, and the town's men stand between the two sets of pickers at the vintage. The Kliven master has betrothed his daughter to a Salkalon shipping family, to be sealed at Delalara this autumn, to bind his wine to their hulls. Vindara-marked casks of fake brand are reaching ships at sea, and the coopers' name pays for them.
+
 ## Where a Party Lodges
 
 The [Vine Stair]{.name data-type="place/structure"}, the inn at the head of the stairs on the middle terrace, takes merchants and travelers and serves the town's own wine at a price that would not buy it in the capital. The carters who take the casks to the coast sleep in the cheaper inns by the cooperages, and in vintage weeks every inn is full of pickers' agents hiring hands. A guest at the Vine Stair is asked, politely and on the first evening, whose wine he drinks, and the answer is remembered.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The slide.** At the vintage the Ronalen pickers find a Kliven boundary stone moved ten paces up the slide overnight. Both houses want a party to stand guard on the slope for the three weeks of the picking, and both offer to pay for it.
 - **The betrothal.** The master of the Kliven has betrothed his daughter to the son of a Salkalon shipping family, to bind his wine to their ships. A party is hired to escort her to the betrothal at Delalara, and she asks them, on the road, how fast they can ride.

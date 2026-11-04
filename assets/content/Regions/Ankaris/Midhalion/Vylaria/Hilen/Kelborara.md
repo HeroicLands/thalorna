@@ -42,11 +42,15 @@ Kelborara is a chartered town under the [[affiliation-provnchyln|Province of Hil
 
 The state granaries answer to the _karezos_ (revenue officer) at Aravantara, whose clerks keep their books, and a detachment of the province's urban cohorts guards them. The detachment is twenty men under one officer, quartered in a granary of the western rows with a roof still on it. The sack-carriers' fraternity keeps order among its own members, and a carrier who steals from a granary is handed to the cohort by his brothers before the cohort can come for him.
 
+## The Present {#present}
+
+Kelborara counts the empire's bread, and its granaries are its politics. The houses' granaries in the eastern rows are full of grain bought for the capital, the tenant villages around the town are short in a lean year, and the sack-carriers who carry both are villagers' sons. The capital's factors hear that the granaries hold less than the clerks report, and one of them is paying to have the sacks counted. A roofless state granary in the western rows burned on a windless night though it held nothing that could burn, and the cohort's officer has not learned who was inside it. A carrier's younger brother has been missing since midsummer, and the fraternity's hall says nothing.
+
 ## Where a Party Lodges
 
 Kelborara has four carters' inns round the Counting Floor, full and loud in harvest weeks and half empty the rest of the year. A party that cannot find a bed at harvest time can rent a granary-keeper's loft above one of the halls, which is dry, cheap and smells of wheat. The town's one good inn, the [Measure]{.name data-type="place/structure"}, is kept for the factors of the grain houses and charges for its quiet.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The fire in the western rows.** A roofless state granary catches fire on a windless night, though it holds nothing that can burn. The cohort's officer wants to know who was inside it.
 - **The lean-year price.** A factor in Orzara hears that the Kelborara granaries are lower this year than the clerks have reported and hires a party to count the sacks in three of them, without the keepers knowing.

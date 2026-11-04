@@ -36,13 +36,17 @@ The precinct also keeps money. Families of the surrounding country, from tenant 
 
 ## Who Rules and Keeps Order
 
-The hill and the town are governed separately. The precinct belongs to the priests of the Twelve, led by a high priest of [[lore-ardavondty|Árdavon]], and its own ground, from the first landing of the stair to the summit, is under their law; they keep a small guard of temple servants and close the gates at dusk. The town below is a chartered town under the [[affiliation-provinclys|Province of Alessa]], with two _tavemoi_ elected each year and a council of _kurthaloi_ answerable for its taxes. On festival days the _zoralus_ at [[place-alyssar|Alessar]] sends a detachment of the urban cohorts to help keep the squares, and the cutpurses who follow the pilgrims learn to work the far end of the market, away from the soldiers.
+The hill and the town are governed separately. The precinct belongs to the priests of the Twelve, led by a high priest of [[affiliation-ardavon|Árdavon]], and its own ground, from the first landing of the stair to the summit, is under their law; they keep a small guard of temple servants and close the gates at dusk. The town below is a chartered town under the [[affiliation-provinclys|Province of Alessa]], with two _tavemoi_ elected each year and a council of _kurthaloi_ answerable for its taxes. On festival days the _zoralus_ at [[place-alyssar|Alessar]] sends a detachment of the urban cohorts to help keep the squares, and the cutpurses who follow the pilgrims learn to work the far end of the market, away from the soldiers.
+
+## The Present {#present}
+
+The country round about keeps its savings in the precinct's treasury, and its heirs and creditors come to draw them. A dying farmer's heirs and his nephew race to draw the same deposit, a gang means to rob the offering-chests on the night of the great festival, and the high priest of [[affiliation-ardavon|Árdavon]] wants it stopped without the pilgrims learning anyone tried. A pilgrim came down from the closed shrine on the far side of the ring white and silent.
 
 ## Where a Party Lodges
 
 Between festivals a party can take a room anywhere in the town for very little. During one, there is nothing to take unless it was arranged in advance, and the pilgrim's advice holds: sleep at the foot of the hill and be on the stair before dawn. Several of the larger houses on the main square run as pilgrim hostels all year, with long rooms of beds and a shrine in the courtyard, and they keep the best beds for families who have deposited with the treasury.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The withdrawal.** A dying farmer's heirs ask a party to draw his savings from the treasury before his nephew, who holds a copy of the will, gets there first.
 - **The closed shrine.** A pilgrim who slipped into the closed shrine on the far side of the ring comes down the stair white and silent, and his family wants to know what he saw.

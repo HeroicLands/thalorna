@@ -38,11 +38,15 @@ Lentora is a chartered town under the Province of Alessa, governed by two _tavem
 
 A seat on the council is the city's great honor and its great danger. Each _kurthalos_ answers in his own person for the taxes Lentora owes, and when the harvest is poor and the city's collections fall short, the council makes up the difference from its members' purses. The _gulmen_ families compete for the honor in good years and send their sons to the capital in bad ones, so that nobody can be named to an empty seat. Lately the council has had more empty seats than it can fill. A factor who gives his name as a buyer of debts and will not say whose he is has bought up the notes of several of the lesser houses on the council, and the guilds talk of little else in the baths.
 
+## Politics {#present}
+
+Lentora's council is falling into a stranger's hands. A factor who gives his name as a buyer of debts, and will not say whose he is, has bought the notes of several lesser houses that sit on the council, and the guilds talk of little else in the baths. The seats are a danger in a poor year, because each _kurthalos_ makes up the city's shortfall from his own purse, and the _gulmen_ families send their sons to the capital so they cannot be named. The _tavemoi_ mean to name an absent man to an empty seat before he can refuse. Someone is trying to put out the furnaces of the baths.
+
 ## Where a Party Lodges
 
 Strangers lodge around the forum, where the inns serve the people who have come in on business, or in the hostels the guilds keep for their own members from out of town, which take paying guests when they have beds. An inn on the forum clears its tables at the hour the baths open and fills them again at dusk. Lentora's people are polite to strangers and incurious about them; a newcomer who wants to be noticed has to have a suit, a lease or a letter.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The stone.** A boundary stone between two estates has moved a hundred paces in the night, and the surveyor who set it is the party's employer's cousin. Both estates have hired advocates, and the case is heard in ten days.
 - **The empty seat.** The _tavemoi_ mean to name a party's patron to the council while he is away from the city. His steward hires the party to reach him first, so that he can refuse in person.

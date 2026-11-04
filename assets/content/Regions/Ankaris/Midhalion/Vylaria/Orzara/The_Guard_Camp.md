@@ -22,7 +22,20 @@ To hold the Guard Camp is, in a real sense, to hold the capital. The body best p
 
 The guard's writ, and the Guard Camp's reach, stop at the Inner Wall. The policing of the city beyond is no part of their charge; that falls to the [[affiliation-citywatchorz|City Watch]], whose watch-houses ring the Twelve Circles below and whose watchmen the guardsmen of the Guard Camp regard with lordly contempt. A veteran of the Watch, who has spent his working life on the street side of that gate, puts the arrangement in a sentence: "The Guard Camp's gate does not open for us, and we do not knock." Within the Inner City, however, order and justice are the guard's to keep, and the Guard Camp is where that authority is mustered, drilled, and—when the throne requires it—unleashed.
 
-### See Also
+## History {#history}
+
+The guard's fortress was raised inside the Inner Wall, the only true camp there, beside the palace whose master it guards. More than one reign has turned on which way its gates opened, the first in 389, when the Orzas Barnakis died with no heir named and the guard carried an eagle before an Orzas of its own ([[lore-brkensuccsn|The Broken Succession]]). Every reign since has courted the guard with donatives and privileges.
+
+## Current Situation {#present}
+
+The Guard Camp expects a donative, and the throne has no cash. The old Orzas, [[being-zrmlshlrkls|Zarmelas Helarkales]], has adopted nobody, and whoever is named owes the guard a donative on the day. The man the court expects to be named has promised one and paid nothing on it, a rival house offers the officers a larger sum now, and the soldier among the claimants, a legate of the legions, is the guard's favourite. A handful of watch-captains hold the gates, and rival households court, threaten and bribe each of them. A senior officer has stretched the guard's keeping of order into arrests and detentions that belong to the imperial tribunals, and the Orzas lets him.
+
+## Hooks {#hooks}
+
+- **The weighed promise.** A watch-captain wants proof that the expected man's donative exists before his watch weighs it against a rival's coin.
+- **The quiet arrest.** A great house's steward was taken into the Guard Camp and has not come out, and the house wants to know on whose word.
+
+## See Also
 
 - [[affiliation-sorvan|The Sorvan]]—the imperial guard garrisoned here
 - [[place-arvon|Arvon]]—the Inner City the Guard Camp helps hold

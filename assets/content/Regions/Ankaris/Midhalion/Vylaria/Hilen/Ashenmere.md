@@ -42,11 +42,15 @@ Ashenmere is a chartered town under the [[affiliation-provnchyln|Province of Hil
 
 The Customs House is not the town's. Its officer and his clerks collect the emperor's customs for the _karezos_ (revenue officer) at Aravantara and answer to him alone. The present officer, [Ornethos]{.name data-type="being/npc"}, is a freedman of the revenue who has held the post for nine years, and he keeps a detachment of eight men of the province's urban cohorts to search the wagons and guard the bridge. He is reckoned honest by the carters, which on a border means that his clerks take the customs and nothing besides. A smuggler caught at the bridge loses his load to the revenue and is held in the town's gaol until the _tavemoi_ fine him. A Nartunese subject who breaks the empire's law on the Hilen bank is handed back across the bridge to the priests' men, who take him home to be judged there.
 
+## The Present {#present}
+
+The Two Lights are the march's quarrel. The Hammer-Priest of the forge-shrine, Huraden, holds the Black Flame to be the corruption of his own god's fire, and the knights of the chapel on the kingdom's bank serve a kingdom that broke with the empire over the same faith. Nartunese priests come down to preach on the estates of the march, and the stewards who would rather they did not are the masters' men. Tenant households on the march have left their cottages in the night, hearths warm and nothing taken, and the stewards cannot say whether they ran across the stream. At the bridge the customs officer, Ornethos, has found a false bottom in a grain dealer's wagon that the dealer swears he never built.
+
 ## Where a Party Lodges
 
 The inns of Ashenmere stand inside the gate along the road, and each favors one trade: the drovers, the grain carters, or the Nartunese pack-masters, who keep to their own inn and their own table. The [Bridge Lamp]{.name data-type="place/structure"}, at the top of the road down to the bridge, has the best rooms in the town and windows that look across the stream at the Two Lights. A party bound into the kingdom takes the advice of its innkeeper on what not to carry across, and the innkeeper is right more often than not.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The empty house.** A family of tenants on an estate near the march is gone from its cottage one morning, the hearth still warm and nothing taken. The steward wants to know whether they ran across the stream, and why.
 - **The preacher's escort.** A Nartunese priest means to preach on the estates of the march and hires a party to see him safely to the villages and back to the bridge. Several stewards would rather he did not arrive.

@@ -24,6 +24,19 @@ Its population is correspondingly mixed: players, who occupy an ambiguous social
 - **The machinists' yards**, where the stage engines are built and jealously guarded.
 - **The mask-makers' street**, a hereditary trade and the district's most recognizable one.
 
+## History {#history}
+
+The theaters and odeons were raised as the city's quieter quarter of pleasure, and the Vylarian stage made its name abroad here, for its masked players and for machinery elaborate enough that visitors take it for magic. The mask-makers' street is a hereditary trade, passed from parent to child.
+
+## What Is There Now {#present}
+
+The companies live on their patrons, and the patrons are the houses of the [[place-heightsorz|Heights]], who fund companies and quarrel about them. With the succession open and the houses counting claimants, a company's patron is a political fact as much as a purse. The machinists guard their yards and their engines against rival companies, and the mask-makers cut faces for new houses as well as old ones.
+
+## Hooks {#hooks}
+
+- **The engine.** A machinist's yard has lost the drawings of a new stage engine the night before a season opens, and its company's patron wants them back before a rival house's company stages it.
+- **The patrons' quarrel.** Two houses' clients brawl in an odeon over which company opens the season, and the losing patron wants to know who paid the brawlers.
+
 ## See Also
 
 [[place-orzara|Orzara]]

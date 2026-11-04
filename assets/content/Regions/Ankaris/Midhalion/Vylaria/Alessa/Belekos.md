@@ -44,11 +44,15 @@ The factors say among themselves that true power is already shifting away from t
 
 Belekos is a chartered town under the [[affiliation-provinclys|Province of Alessa]], with two _tavemoi_ elected each year and a council of _kurthaloi_ answerable in their own persons for the city's taxes. Every seat on the council and both magistracies are held by the great houses or by men they sponsor, because a house in Belekos can afford the liability that ruins the councilors of poorer towns, and wants the seats for what they decide: the river dues, the warehouse leases and the city's bids for imperial grain contracts. The houses keep their own guards, who patrol the upper terraces at night, and the city's watch keeps the lower town and the wharves. A theft from a great house is a matter for the house, which settles it before the watch hears of it.
 
+## Politics {#present}
+
+The great houses rule Belekos and are quietly leaving it. They fill every council seat for what it decides, the river dues, the warehouse leases and the city's bids for imperial grain, and they buy art in public to be seen buying it while they move their money out of an empire they no longer trust to last. A house that fell last year left a townhouse, a warehouse and a gladiator under contract, and its creditors and its last son race to collect them. A glassworker is making a window of a rival house's broken emblem, to be set where the rival must pass it every morning. A clerk of a great house is offering to sell a ledger his master keeps apart from the one read in the hall.
+
 ## Where a Party Lodges
 
 Inns stand by the gate and along the river, and the good ones are near the gate, where the factors of buyers from the capital and from abroad stay while they bargain. A stranger with a letter to one of the great houses is lodged in the house itself, in the guest rooms off the counting hall, and is expected to be grateful, discreet and seen at dinner. A guest of one house who calls on a rival house is remembered by both.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The other ledger.** A clerk of a great house offers to sell a party a copy of a ledger his master keeps apart from the one read in the hall. He wants passage out of Alessa as part of the price.
 - **The fallen house.** A house that fell last year has left a townhouse, a warehouse and a gladiator under contract, and its creditors hire a party to collect all three before the house's last son does.

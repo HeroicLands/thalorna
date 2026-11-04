@@ -93,9 +93,24 @@ Alessa is the empire at its most cultivated and its most political: paved roads,
 
 What is scarce is food, which arrives from the [[affiliation-provnchyln|Province of Hilen]] and the [[affiliation-provincvld|Province of Salkalon]], and privacy. What is abundant is law, rumor, money and witnesses. A settlement seeded here can be assumed to have roads, an inn, a shrine, a resident magistrate, and at least one great family whose interests reach back to the capital.
 
+## Current Situation {#present}
+
+The province waits on two deaths. The _therkos_, Kaldremas Elthezis, is old and has kept to his villa at [[place-vennara|Vennara]] since the winter, and his freedman secretary, Nethoren, reads his sealed acts from the steps of the Governor's House at [[place-alyssar|Alessar]]. The old Orzas, [[being-zrmlshlrkls|Zarmelas Helarkales]], has adopted nobody, and in Alessa, where every officer has a cousin in the capital, the succession is the province's own politics.
+
+- **The cities and the capital.** The old provincial cities pay for the capital's roads and houses with what they have. The north road's levy is assessed every year while its bridge beyond [[place-skoraz|Soraks]] lies broken, builders from Orzara work by night with cranes in [[place-velysara|Velisara]]'s forums, and the great houses of [[place-belekos|Belekos]] move their money out of the empire.
+- **The debts.** A factor who will not say whose he is has bought the notes of several lesser houses on [[place-lentora|Lentora]]'s council, and its seats are falling empty because a _kurthalos_ answers for the city's taxes in his own person.
+- **The legion.** An officer is coming from Orzara to count the legion at [[place-corvinus|Korvenara]], whose _vandraks_ spends most of the year at court.
+- **The street.** The capital's people read pamphlets and riot, and the senatorial families reckon with them. The province's grain comes from Hilen and Salkalon, and the price at [[place-ostenna|Ostenna]]'s Landing is the one every household watches.
+
 ## Commerce and Currency
 
 Alessa uses the [[lore-vylrncrncy|Vylarian currency]] (Solden, Ardin and Ogdel) as its standard, with full access to the paper-script system through [[affiliation-danvar|the Danvar]], the moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. [[affiliation-tolvan|The Tolvan]] administers imperial taxation, and the revenues flow to [[affiliation-tarmex|the Tarmeks Orzan]]. The full system is set out in [[lore-vylrncrncy|Vylarian Currency]].
+
+## Hooks {#hooks}
+
+- **The physician's errand.** The _therkos_'s physician wants a remedy fetched from Orzara quickly, and nobody in [[place-alyssar|Alessar]] told who it is for.
+- **The count.** The Vallar at [[place-corvinus|Korvenara]] wants the inspecting officer delayed on the road for three days.
+- **The empty seat.** [[place-lentora|Lentora]]'s magistrates mean to name a party's patron to the council while he is away.
 
 ## See Also
 

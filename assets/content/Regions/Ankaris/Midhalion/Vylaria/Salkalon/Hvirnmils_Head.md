@@ -28,7 +28,11 @@ The Head is Bralvik's sea-mark and its lookout. A fire lit in the hollow means a
 
 The town has no law about the Head and needs none. Children dare each other to spend a night in the hollow, courting couples go up on summer evenings, and the old men go up to watch the weather. A stranger who digs on the Head, or pockets a stone, is turned off the town's beach and finds no boat in Bralvik willing to carry him.
 
-## Trouble on the Head
+## Converging Interests {#present}
+
+The Head is the town's sea-mark and the Salken family's charge, and strangers are taking an interest in it. A man from [[place-mercavia|Delalara]] has been seen on the Head at night with a lantern and a spade, and the Salken want him found before the town finds him. The fire in the hollow is still lit for every overdue Bralvik boat.
+
+## Trouble on the Head {#hooks}
 
 - **The digger.** A man from [[place-mercavia|Delalara]] has been seen on the Head at night with a lantern and a spade, and the Salken family wants him found before the town finds him first.
 - **The runes read.** A northern sailor ashore from a merchant ship climbs the Head and reads the nine stones aloud. Each names a man of the crew and his hall, and the last of them adds that his share lies with the fire.

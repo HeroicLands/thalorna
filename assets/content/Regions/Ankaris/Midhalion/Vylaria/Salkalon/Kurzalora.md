@@ -40,11 +40,15 @@ Kurzalora is a chartered town under the [[affiliation-provincvld|Province of Sal
 
 The tower is the quarrel. The admiralty at [[place-castamar|Kastamar]] wants the Vigil Tower for a signal station, to watch the coast and pass word along it, and has asked for it three times in five years. Yalzema has refused each time, on the ground that the tower is the god's and his vigil is kept from its top. The admiral's officers say that a signal station would not stop the vigil. Yalzema says that marines on the height would stop something else, and does not say what.
 
+## The Present {#present}
+
+The admirals want the Vigil Tower, and the Priest of Storms will not give it. The admiralty at [[place-castamar|Kastamar]] has asked three times in five years for the tower as a signal station, and Yalzema Kaldremis has refused each time because the god's vigil is kept from its top. Now a party of marines and a surveyor has come to measure it with a letter of leave from the _therkos_, and Yalzema doubts that he ever signed it. A merchant captain who promised the god a silver ship in a gale has sent tin, and his crew will not sail with him.
+
 ## Where a Party Lodges
 
 Every house on the street is a lodging-house, and a party has its choice of them outside the vigil. The [Tin Ship]{.name data-type="place/structure"}, at the top of the steps, is the best and dearest, and its windows look over the sea. The houses at the bottom are cheaper and their keepers sell votives too, at the prices the pilgrim warns of. A party that climbs to make a vow is offered bread and water at the shrine and a place to sleep in the lee of the court wall, for nothing.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The admiral's survey.** The admiralty has sent a party of marines and a surveyor to measure the Vigil Tower, with a letter from the _therkos_ (governor) granting them leave. Yalzema needs someone to read the letter and find out whether the _therkos_ ever signed it.
 - **The plank with no name.** A carved plank has been left on the altar with no house's name on it, cut with a ship's name that no house in Delalara owns. The shrine wants to know whose loss it is before it burns it.

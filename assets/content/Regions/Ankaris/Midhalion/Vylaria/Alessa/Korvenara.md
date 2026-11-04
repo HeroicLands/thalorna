@@ -38,11 +38,15 @@ Two laws run in Korvenara, and the wall marks the line between them. Inside the 
 
 Outside the wall Korvenara is a chartered town under the [[affiliation-provinclys|Province of Alessa]], with two _tavemoi_ elected each year and a council of _kurthaloi_, nearly all of them veterans, who answer in their own persons for the taxes the town owes. A quarrel between two townsmen goes before a _tavemos_. A quarrel between a townsman and a soldier goes before the Vallar, at a table set up inside the south gate every morning, and the town's people say that he is fairer to them than to his own men, because he has to keep buying their bread.
 
+## The Present {#present}
+
+An officer is coming from Orzara to inspect the legion. The _vandraks_ spends most of the year at court, the Vallar keeps the camp, and the Vallar would like the officer three days late. The legion takes the province's recruits at fifteen, though recruits are fewer every year, and a widow wants her son home before he swears. Two veterans claim the same plot along the road on two genuine-looking surveyor's papers, and the Vallar wants the forger found before the quarrel comes to knives.
+
 ## Where a Party Lodges
 
 The inns stand along the street that runs from the south gate into the town, and they keep the garrison's hours: hot food at the change of each watch and none between. The drover's advice is the town's own. Strangers who carry weapons are asked their business by the gate patrol on their first evening, politely and in detail, and the answer is written down. A party that gives a patron's name in Alessar or the capital is left alone afterward; one that gives no name is asked again the next evening.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The recruit.** A widow in the farm country asks a party to bring her son home from Korvenara before he takes the oath. He is fifteen, he walked there of his own will, and once he swears he belongs to the legion for twenty years.
 - **The plot.** Two veterans claim the same plot along the road, each with a surveyor's paper that looks genuine, and the Vallar wants the forger found before the quarrel comes to knives.

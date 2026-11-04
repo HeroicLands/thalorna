@@ -46,11 +46,15 @@ The fleet is commanded by its _vormeks_ (admiral), [Tharkas Gurimandis]{.name da
 
 Under him the admiralty runs the city's life. Its clerks keep the Roll of the Fleet and the muster of every ship, its storekeepers issue the timber, cordage and pitch, and the master shipwright, [Kaldremos Holimandis]{.name data-type="being/npc"}, a commoner who began as a sawyer's boy in the yards, decides which ships are built, which are mended and which are left in the sheds. The marines keep order on the harbor and in the yards, and a theft from the yards is a crime against the fleet, judged by the admiral's officers and punished at the mast. In the town a quarrel between sailors goes to the bosuns of their ships, and only a fight between a sailor and a townsman reaches a _tavemos_.
 
+## Politics {#present}
+
+The admiral wants a war the fleet cannot pay for. Tharkas Gurimandis writes to the Senate for the war with Taruzel in every letter, and his officers say so after him. Half his warships lie laid up in the sheds for want of crews, and the oarsmen of the rest are paid in notes that a waterfront moneylender buys at half their face from men who believe the next quarter is not coming. A shipping house of Delalara offers to hire three laid-up warships with their crews to escort its convoys east, and the admiral will not lend the fleet to merchants. Short of oarsmen for the summer, he is weighing an offer to settle Bralvik's Boat-Bill in crews.
+
 ## Where a Party Lodges
 
 Strangers are watched in Kastamar, and a party is asked its business at the gate and again at its inn. The [Slipway]{.name data-type="place/structure"}, below the Admiralty, is the inn of officers' guests, merchants with contracts to sell and anyone with a letter to the admiral, and its keeper is a retired bosun who reports each new guest to the marines without being asked. The sailors' lodging-houses along the waterfront are cheaper, noisier and full of men waiting for the quarter, and their talk is of the Senate, the merchants and the Taruzelians, in that order.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The empty quay.** A shipping house of Delalara has offered to hire three of the laid-up warships, with their crews, to escort its convoys east. The admiral will not lend the fleet to merchants, and the crews would sail for anyone who paid them. A party is hired by one side to make the other's case at the waterfront taverns.
 - **The notes.** A moneylender on the waterfront has been buying the admiralty's notes at half their face from oarsmen who believe the next quarter is not coming. Someone has told them so, and the admiral wants to know who.

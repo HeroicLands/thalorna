@@ -25,6 +25,14 @@ The walls stand to the height of a man in most places. The gate has been burned 
 
 The patrol found the dead in the barracks, in the formation of a watch change. They were legionaries. Who stood them there, and when, is not in any report. [[affiliation-ordoarcanis|The Arcane Order]] has a standing interest in the undead and has not been told.
 
+## Layers {#history}
+
+The fort was raised on the Vylarian side of the range as the winter camp of the [Doran Hilvan]{.name data-type="affiliation"}'s rear cohorts when the legion went up into the Kervaron about 680 ([[lore-twelfthloss|The Loss of the Twelfth]]). The legion did not come back down, and the camp fell to ruin: its gate burned and its barracks roofs fell. Its eagle was never recovered. This autumn a border patrol cleared the fort of eleven undead legionaries standing a watch change in the barracks.
+
+## What Is There Now {#present}
+
+The ground is held and nobody has decided what to do with it. A border patrol holds it for whoever is senior enough to decide, and the patrol's sergeant has been ordered to say it found nothing. The families of the Twelfth's cashiered officers want the eagle found. Salvagers want the iron. [[affiliation-alndnwrdns|Áelendan Wardens]] watch the fort from the slope, and the [[affiliation-ordoarcanis|Arcane Order]], which keeps a standing interest in the undead, has not been told.
+
 ## Who Comes Here
 
 - **A border patrol**, from the nearest Mokturan or Alessan post, to hold the ground until someone senior decides what to do with it.
@@ -32,7 +40,7 @@ The patrol found the dead in the barracks, in the formation of a watch change. T
 - **Families of the cashiered**, who want the eagle found.
 - **Salvagers**, who want the iron.
 
-## Hooks
+## Hooks {#hooks}
 
 - The shrine's empty niche has been scraped clean of dust in a pattern that fits an eagle's base, and the scraping is recent.
 - A salvager's cart returns from the fort with a gilt fragment that may be part of an eagle, and three different parties offer to buy it.

@@ -104,9 +104,26 @@ Trouble in Moktur is frontier trouble: raids and reprisals across the Vristwald 
 
 What is abundant is metal, timber, game and danger. What is scarce is imperial authority, soft living and trust.
 
+## Current Situation {#present}
+
+The capital can neither lose Moktur nor pay to hold it, and the province governs itself in the gap. The _therkos_, Tholmaras Nelamen, has held it from [[place-tyrellan|Tirellan]] for eleven years. He pays some twelve hundred Varokh-born auxiliaries from the tolls of [[place-korrast|Korras]] and the province's share of the metal, on the first of every month, and they are sworn to him by name. The legion at [[place-dolvar|Dolvar]] under the _vandraks_ Satheras Kiramaris is paid when the treasury's coin arrives. The capital's letters take longer to come back than to go, and the [[affiliation-imperialoffices|Imperial Offices]] have sent a clerk north to measure the province's road.
+
+The province's other quarrels are the frontier's.
+
+- **The truce.** Dolvar keeps the sons of the Vandstein War Chiefs as surety, and the envoys come down to look at them at the truce market each summer.
+- **The gate.** The border lords bid for the command of Korras each spring, and a lord refused this year means to take it.
+- **The forest.** [[place-pinnhald|Pinnhald]]'s headmen keep the town's customs hard, and a raft of mast timber and its four raftsmen have vanished on the spring run.
+- **The metal.** Every power in the province wants a share of [[place-ferrovan|Zargonara]]'s silver, a clerk of the revenue finds its books too tidy, and the children of [[place-stennvold|Stennvold]]'s furnace crews are dying of a winter cough.
+
 ## Commerce and Currency
 
 The Province of Moktur uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Imperial taxation is administered by [[affiliation-tolvan|the Tolvan]] and revenues flow to [[affiliation-tarmex|the Tarmeks Orzan]]. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+
+## Hooks {#hooks}
+
+- **The pay chest.** The _tarkelos_ at [[place-tyrellan|Tirellan]] needs the month's coin brought down from [[place-korrast|Korras]] past a war-band, because the auxiliaries have never been paid late.
+- **The surveyor.** The clerk of the [[affiliation-imperialoffices|Imperial Offices]] measuring the province's road wants a guard, because the last man sent on the errand came back with a broken leg.
+- **The second book.** A clerk of the revenue at [[place-ferrovan|Zargonara]] hires a party to watch a weighing on the Silver Floor.
 
 ## See Also
 

@@ -62,11 +62,15 @@ It is dirtier, wilder and more lawless out here than within, and it swells and s
 - **The Steel Town's gate.** A stranger found inside Thalbezara's wall without leave is held by the guild and handed to the Watch at the gate, and the guild sues him before the civic courts for whatever he might have seen.
 - **The steel mark.** A blade sold with a forged guild mark is broken and its seller sued by the guild for the price of a true blade. A man who cuts a forged mark is a forger of a registered mark, and that is a capital crime before the Criminal Tribunal.
 
-## What the Outskirts Fear
+## History {#history}
 
-The outskirts fear a bad year. When the grain comes short the price of bread rises on both sides of the line, and the outskirts go hungry first, because nobody outside it draws a pension to meet the price. When plague comes it comes here first and stays longest. The outskirts also fear the sweeps inside the city, because every non-citizen the Watch puts out across the Clearance needs a bed out here, and the lean-tos on the strip are the measure of how the Empire fares. The Smoke fears fire like everywhere else, and it fears the day the guild's chimneys stop smoking, because half the Smoke lives off the Steel Town's orders.
+The city outgrew its bounds long ago. The thrima walked at the founding fixed where Orzara ends in law, the Clearance was kept swept outside it, and the district law that keeps the forges and the foul trades out of the city put them out here, beyond the line. The Steel Guild walled its foundry-town in the Smoke around the secret of [Vylarian Steel]{.name data-type="miscgear"}. The outskirts have swollen in lean years and shrunk in good ones, and the lean-tos on the Clearance have come and gone with them.
 
-## Hooks
+## What the Outskirts Fear {#present}
+
+The outskirts fear a bad year, and this one is lean. When the grain comes short the price of bread rises on both sides of the line, and nobody out here draws a pension to meet it. The Watch's sweeps inside the city put every non-citizen it finds out across the Clearance, the lean-tos have crept onto the strip below the Salkalon Gate, and the Watch means to clear them. In the Smoke the Steel Guild's _kelros_ is hunting the man who cuts its marks, because forged blades with perfect guild marks are breaking on their first blow and true blades lose their price with every one. Half the Smoke lives off the Steel Town's orders and fears the day its chimneys stop. Plague comes here first and stays longest.
+
+## Hooks {#hooks}
 
 - **The broken-down load.** A teamster's wagon was unloaded in the Hilen Gate's yard, and one of the crates never reached the gate. The teamster pays a party to find which porter carried it and where it went.
 - **The lean-tos.** The Watch means to clear the Clearance below the Salkalon Gate tomorrow at dawn, and the people living on it have nowhere to go. A Sacred Forge priest asks a party to find them room before the Watch arrives.

@@ -36,11 +36,15 @@ The three trades of the toll-clerk's lesson run the town between them. The boatm
 
 Ostenna is a chartered town under the [[affiliation-provinclys|Province of Alessa]], with two _tavemoi_ elected each year and a council of _kurthaloi_ who answer for its taxes; by custom one _tavemos_ is a boatman and the other a warehouseman. The Toll House is not the town's. Its clerks collect the river toll for the _karezos_ (imperial steward) at [[place-alyssar|Alessar]], and no barge leaves the Landing without their stamp on its manifest. Order on the water belongs to the fraternity, and order on the quays to whoever is loading: a thief caught on the Landing is dealt with there, and the _tavemoi_ hear about it afterward if at all.
 
+## The Present {#present}
+
+The river is slow this season, and Orzara's price climbs while the barges wait. The boatmen, the warehousemen and the toll-clerks decide between them which barge is loaded, and a barge has waited eleven days in the midstream line while later ones went down. A toll-clerk was pulled from the river below the Landing, the fraternity buried him, and the _karezos_'s man from [[place-alyssar|Alessar]] who came to ask why can find nobody who will talk to him. A warehouseman's boy has found something in a grain sack that is not grain.
+
 ## Where a Party Lodges
 
 The boatmen's inns stand at the top of the cutting, where the road reaches the bluff, and are loud, cheap and full of men waiting for a berth. The town's one decent inn faces the Toll House across the Landing and serves the factors and the clerks. A party wanting passage downstream asks at the fraternity's hall, where a boatman with room on his barge names a price and a day; the day is the boatman's best guess and nothing more.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The waiting barge.** A party's employer has a barge in the midstream line that has waited eleven days for a berth while later barges were loaded. Somebody wants it to wait, and the cargo will not keep much longer.
 - **The drowned clerk.** A toll-clerk is pulled from the river below the Landing. The fraternity buries him, and the _karezos_ sends a man from Alessar to ask why. Nobody at the Landing will talk to him, and he hires a party to ask for him.

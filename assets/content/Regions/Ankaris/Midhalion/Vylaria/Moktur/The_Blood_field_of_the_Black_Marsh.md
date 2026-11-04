@@ -33,13 +33,21 @@ The half-Varokh villages of the border leave food at the marsh's edge in the win
 
 The Varokh villages of Vandstein that sent the host keep an empty place for each of the dead and recite the names with nothing after them. A Shaman cannot cross the passes to call them without being taken for a raider.
 
+## Layers {#history}
+
+The marsh lay below the Vandstein passes before the empire came north. In 520 AF a Varokh host of the hunger raids was driven into it and died there to the last man with no Shaman to call them home, and the Fourth's eagle was carried back out of the reeds ([[lore-blackmarshbtl|The Battle of the Black Marsh]]). The dread has held the ground since, and the garrisons of the march learned to keep their eyes on the forest.
+
+## What Is There Now {#present}
+
+The dead are still uncalled, and the march would rather keep it so. A Shaman of [Gargrund]{.name data-type="place/settlement"} wants to come down to the marsh to call them home and needs a safe-conduct to do it, and garrison officers at [[place-dolvar|Dolvar]] would sooner the dead stayed where they are. Deserters sleep in the reeds because the patrols will not follow them the last mile. The [[affiliation-ordoarcanis|Arcane Order]]'s surveyors want to measure the dread.
+
 ## Who Goes
 
 - **Varokh Shamans**, who would call their dead home and need a safe-conduct to do it.
 - **Deserters**, who hide in the reeds because the patrols will not follow.
 - **[[affiliation-ordoarcanis|Arcane Order]] surveyors**, who want to measure it.
 
-## Hooks
+## Hooks {#hooks}
 
 - A Varokh Shaman of [Gargrund]{.name data-type="place/settlement"} asks a party bound north to carry her to the marsh, and a garrison officer would rather the dead stay where they are.
 - A deserter's account of the reeds names a place where the ground is firm, and the firm ground is where the host stood last.

@@ -40,11 +40,15 @@ The commander of the gate is named by the _therkos_ each spring and holds Korras
 
 The toll-keepers do not change with the command. They are clerks of the province, the same men year after year, and a new commander learns the gate from them. Korras has two _tavemoi_ (magistrates) and a small council of innkeepers and fur-buyers who keep the town's own peace and answer for its taxes, and a quarrel inside the wall goes to them. A quarrel at the gate goes to the commander.
 
+## The Present {#present}
+
+The gate is for whoever can hold it. The present commander, a younger son of a border house with sixty men of his own and two hundred of the _therkos_'s auxiliaries, has it until spring, and a lord refused the command this year has sent word that he will come for it at midsummer. The tolls pay the _therkos_'s riders, so the province wants the gate held firmly more than it cares who holds it. A muleteer's load sits at the gate over a quarrel about the painted board, and the widow of a herder found dead below the cliff will speak only to a party with no lord behind it.
+
 ## Where a Party Lodges
 
 The inns stand along the road inside the gate, one against the next, and every one has a yard for mules. The [Marten]{.name data-type="place/structure"} is the furriers' inn, warm, crowded and loud with bargaining in two tongues, and its keeper will tell a party what the toll is today before they ask. Outside the gate, on the south side, a carters' yard takes those who mean to pay at first light and be through before the queue forms.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The new banner.** A border lord who was refused the command this spring has sent word that he will come for the gate at midsummer. The present commander hires a party to stand on his wall and to find out how many men the other lord is bringing.
 - **The painted board.** A muleteer swears he paid the dues shown on the board, and the toll-keepers swear he paid a third less, and his load is held at the gate until it is settled. He wants a party to read the board as it was painted last year.

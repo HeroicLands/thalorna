@@ -56,7 +56,16 @@ Rising above all of it is the [[place-palvar|Palvar]]—the largest and grandest
 
 It is here, within the Palvar, that the [[affiliation-ordoarcanis|Thordimalon]] is permitted—_encouraged_, even—to show off (see the Hand of the Thordimalon (the Arcane Order), and the Mechanical Court, in the [[place-orzara|Orzara]] note).
 
-### See Also
+## The Present {#present}
+
+The Inner City is where the succession will be decided, and everyone in it is counting. The old Orzas lives in the [[place-palvar|Palvar]] and has adopted nobody. [[affiliation-sorvan|The Sorvan]] in the [[place-thaurzurgalis|Thaurzurgalis]] expects a donative from whoever is named, and the guard's officers have begun to reach into arrests and detentions that belong to the imperial tribunals, an overreach the Orzas finds useful. The Keeper of the Seal in the [[affiliation-imperialoffices|Imperial Offices]], Holimar, will be replaced by the next Orzas, and the houses that want his seal for one of their freedmen court the claimants. In the strongroom the Imperial _Tarkelos_, [[being-drvnsrlln|Dorvanis Arelliani Septarius]], negotiates every rollover of the throne's loans. In the Temple District [[being-trzmsbrkrts|Torzemos Brakarates]] of the Black Flame has drafted a petition for the Forge-Lord's niche in the Temple of the Twelve, and [[being-osmrthlvns|Osmera Thalvenis]], who keeps the temple, will answer it as every keeper before her has. The Guard scorns the City Watch, and the Watch stops at the Inner Wall.
+
+## Hooks {#hooks}
+
+- **The niche.** [[being-osmrthlvns|Osmera Thalvenis]] wants the Black Flame's petition read before it is presented, and [[being-trzmsbrkrts|Torzemos Brakarates]] wants to know which _kurthoi_ will speak against it.
+- **The seal.** A house hires a party to learn which claimant has promised Holimar's seal to whose freedman.
+
+## See Also
 
 - [[place-orzara|Orzara]]—the city of which this is the citadel
 - [[place-palvar|Palvar]] · [[affiliation-seldan|Seldan]] · [[place-thaurzurgalis|Thaurzurgalis]] · [[place-pnthnrldnm|Sarkena Dorekis]]

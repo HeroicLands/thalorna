@@ -46,7 +46,11 @@ The present keeper is [Sorima Salken]{.name data-type="being/npc"}, a smokehouse
 
 The morning after [Coal Night]{.name data-type="lore/gathering"} a Bralvik boat sails to Kastamar, and its master hands the admiralty a bill: forty-one fishing boats with their nets and lofts, burned by the squadron of Holvethos Marendates on the night before 1 Karnavar 523, with a year's interest added. The wording has not changed since 524. The sum has grown past anything the fleet could pay, and the admiralty files every copy and pays none. Bralvik crews sail for the merchant houses and for [[place-tholkezora|Tholkezora]]'s smugglers but seldom for the fleet, and a Kastamar marine in a Bralvik tavern on Coal Night drinks alone. The town keeps its grudge for the navy that burned its boats to kill forty men. It keeps none for the men.
 
-## Trouble in Bralvik
+## The Present {#present}
+
+The bill and the brand are Bralvik's present. The admiralty files every copy of the Boat-Bill and pays none, and the admiral at [[place-castamar|Kastamar]], short of oarsmen, is weighing an offer to settle it in crews, one Bralvik crew for every boat the fleet owes. A Delalara shipping house has bought two smokehouses at [[place-tholkezora|Tholkezora]] and wants the Salken rune brand for its own barrels. Bralvik crews sail for the merchant houses and seldom for the fleet.
+
+## Trouble in Bralvik {#hooks}
 
 - **The coal goes out.** A Delalara shipping house has bought two smokehouses in Tholkezora and wants the rune brand for its own barrels. The cleanest way to break the Salken hold on it is a coal that dies on Coal Night, and Sorima's cellar coal is the second thing the house's men will look for.
 - **The brand is read.** A sergeant of a signed [[affiliation-malldbndlg|Compact]] company in Kastamar's pay reads a barrel-head in a Delalara tavern and laughs, then stops. Under the town's name the runes say _Dvilgvir lives; tell his mother at [[place-gnarthborg|Gnarthborg]]_. A hall in [[place-gnarthborg|Gnarthborg]] may still count the Salken as kin, and kin in the north arrive with claims.

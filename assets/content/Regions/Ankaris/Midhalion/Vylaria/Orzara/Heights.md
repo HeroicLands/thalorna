@@ -49,11 +49,15 @@ The Veramus of Works and Waters, who sits for [[affiliation-verdanorzara|Orzara 
 - **A cart or a team.** Nothing on wheels larger than a handcart is allowed on the lanes. A cart found on them is taken to the watch-house and its owner fined by the _peltros_ before he may have it back. No house keeps a stable on the Heights without a license that costs as much as the stable, and an unlicensed beast is seized and sold outside the line.
 - **A client in the wrong rank.** No law forbids it. A client who pushes into a rank above his own is not greeted, and the house's steward does not see him again.
 
-## What the Heights Fear
+## History {#history}
 
-The Heights fear a proscription. A name posted on the boards of the Platan District puts a house's property and its master's life at the disposal of whoever collects them, and the doors on Torvel have opened before now to men with a writ and a cart for the masks. With the old Orzas failing and the succession in doubt, every house on both hills is counting which claimant it stands behind and which claimant would post its name. The Heights also fear a dry summer, when Torvel's old cisterns run low before Selvin's new ones, and the oldest houses in the city buy water by the jar.
+Torvel is the older hill. The senatorial houses have kept their villas on the same ground for centuries and filled their halls with their ancestors' masks, facing the palace across the central saddle. Selvin was built up later, its gardens and great houses the address of the risen and the rich, and the throne's grants of office and rank have raised house after house onto it. Proscription has emptied houses on both hills before now, when a writ and a cart for the masks came to the door.
 
-## Hooks
+## What the Heights Fear {#present}
+
+The Heights fear a proscription, and the old Orzas, [[being-zrmlshlrkls|Zarmelas Helarkales]], is failing with no heir adopted. Every house on both hills counts which claimant it stands behind and which would post its name on the Platan's boards. The court names three: a kinsman of House Mardovanes, whose master [[being-nthrsmrdvns|Nethoras Mardovanes]] keeps the best table on Selvin; a legate of the legions; and a Varkalenis of the old blood. The money on the hills is newer than the masks. [[being-amrzvlds|Amarza Veldis]], whose house holds more of the throne's paper than any other, and [[being-mrznszlmrs|Merzanas Zelmaris]], who owns most of the Warrens, live here, [[being-ylzmsmlvrts|Yalzemas Molvarates]] bids from Selvin for ten years of Hilen's land tax, and the factors of [[being-krznsthlrts|Korzenas Thalurates]] buy the debts of the old houses and count their votes. In a dry summer Torvel's old cisterns run low before Selvin's, and the oldest houses in the city buy water by the jar while the Veramus of Works and Waters sets the allotments.
+
+## Hooks {#hooks}
 
 - **The morning call.** A client of a house on Torvel has been standing in the second rank for nine years and has never been moved up. He pays a party to learn what he would have to do to be greeted by name.
 - **The pipe.** A house on Selvin has been drawing twice its water allotment all summer, and the house below it has been dry since midsummer. The dry house wants proof before it goes to the Veramus.

@@ -56,6 +56,10 @@ The region's politics are the long decline of the [[affiliation-vylarinmpr|Vylar
 
 The [[affiliation-ordoarcanis|Thordimalon]] is the one institution that crosses every northern border. It keeps chapters from Vylaria to Taruzel to Helionis and claims a continent-wide monopoly on sanctioned arcane practice. Its reach across the water is weak: Au'Khelathu and Okharis have mature magical traditions of their own and have never granted the Arcane Order a foothold. That asymmetry is a standing source of friction, and the southern shore's arcane self-sufficiency is part of why the Arcane Order's northern monopoly cannot grow past the sea.
 
+## Current Situation {#present}
+
+Every power on the sea wants Vylaria weaker, and almost none can afford it broken. The [[affiliation-vylarinmpr|Vylarian Empire]] pays its veterans with borrowed money, its old Orzas has adopted nobody, and the houses, crowns and foreign treasuries that hold its paper are counting what a broken succession would cost them. [[affiliation-empireakhlth|Au'Khelathu]], whose gold won Taruzel its independence, offers to lend to the throne it humbled. The [[affiliation-byzarianlg|Bizarian League]] lends against the customs of [[place-aelissium|Elissara]] and profits from both sides of the eastern sea. The Aureldian crowns want the two-percent fee renegotiated. Vylaria refuses to pay the war indemnity it owes the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], and in Taruzel the veterans and their children say the merchant guilds took the freedom they bled for. The [[affiliation-ordoarcanis|Thordimalon]] and [[affiliation-blackflame|the Black Flame]] work across every northern border and are powers of the same rank as the money.
+
 ## Trade
 
 Mídhalión is the densest trading economy in Thalorna, and its commerce runs on several clocks at once: daily fishing and coastal hauling from port to port, seasonal shipments of grain and wine, and the annual long-distance exchange that brings silks and spices from the far east to Aureldian courts. The common trade language is [[skill-valtarlng|Valtari]], a pidgin built on the [[skill-vylarilng|Vylari Language]], the [[skill-helonclng|Helonic Language]] and the [[skill-taruzelilng|Taruzeli Language]] and understood in every significant port.
@@ -80,6 +84,11 @@ Mídhalión touches every other major region of Ankaris. It fronts the [[place-a
 ## Reckoning
 
 Mídhalión dates by [[lore-commoncal|the Vylarian Calendar]]: years counted After the Founding (AF) and Before the Founding (BF) of the [[affiliation-vylarinmpr|Vylarian Empire]], kept across the empire's former and present sphere.
+
+## Hooks {#hooks}
+
+- **The paper.** A Helionite broker carries Danvar and Merazuni paper across the strait for both sides, and both sides want to know what is in his satchel this crossing.
+- **The fee.** An Aureldian envoy wants a party to sound the Seldan on the two-percent fee before his crown sends a demand it cannot take back.
 
 ## See Also
 

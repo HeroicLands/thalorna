@@ -49,7 +49,11 @@ Below the passes on the Vylarian side lies [[place-twelfthcamp|The Twelfth's Las
 
 The Áelendan name the range only in their own tongue and rarely share the name with outsiders; it is said to mean _"the bones of the world's first dawn."_ **Kervaron** is an old chancery word whose original meaning is disputed and most often rendered _"the stag-walked place."_ The Pelwar of Élavendre, who descend from the same root population as the Áelendan and hold the range in comparable reverence, use a Pelwar form of the Áelendan name and quietly back their tribal cousins in anything that touches the Kervaron. The chancery knows it and has not raised the matter diplomatically in nearly a century.
 
-## Trouble in the Kervaron
+## Converging Interests {#present}
+
+The clans hold the passes, and the empire lists them. The [[affiliation-seldan|Seldan]] counts the range as imperial territory on the strength of its boundary-stones, the chancery has not pressed the claim since the Twelfth was lost, and Vylarian trains cross by paying the passage-gift at the first camp below each pass. The steel factors need their mules over the range before the autumn fairs. A spring-stone has gone from its spring while a dealer in Orzara sells a carved stone with Áelendan runes as a relic of the First Gods, and the clan that lost it has closed its pass to every Vylarian train. A young chancery surveyor has orders to re-measure the boundary-stones, all of them, and the clans have not been told he is coming.
+
+## Trouble in the Kervaron {#hooks}
 
 - **The walker in the pass.** The lithogiant is coming toward a pass in the middle of the season, and the clan has closed it. A factor with a cargo of steel that must be over the range before the autumn fairs offers a party double wages to take the mules over anyway.
 - **The taken stone.** A spring-stone has gone from its spring, and a dealer in Orzara is selling a carved stone with Áelendan runes on it as a relic of the First Gods. The clan that lost it has closed its pass to every Vylarian train until the stone comes back.

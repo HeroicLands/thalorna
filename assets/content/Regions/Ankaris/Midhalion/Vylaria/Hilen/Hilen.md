@@ -34,6 +34,12 @@ Agriculture dominates. Hilen's grain feeds the capital and the legions, its wine
 - The breadbasket of the empire, which controls the food supply
 - The imperial game-forests, woodland reserved by the crown for the hunt
 
+## Current Situation {#present}
+
+Hilen's quarrel is over land and who carries its debt. The great estates grow by taking it from the people who work it. At the harvest settling in [[place-messora|Messora]] the houses' factors buy out free farmers and carry their tenants' debts into the next year, and at [[place-cervalia|Kervalara]] the paling of the imperial game-forest moves outward into tenant fields every few years, where the forest magistrate hangs the poachers. The land tax is farmed, and [[being-ylzmsmlvrts|Yalzemas Molvarates]], who holds its contracts a year at a time, offers the throne three years' silver now for the right to collect for ten.
+
+Above the land the houses watch the succession. The old Orzas, [[being-zrmlshlrkls|Zarmelas Helarkales]], has adopted nobody, the capital eats what Hilen grows, and the estates that fed both armies at [[place-olcassafld|Olkassa]] fear civil war more than any province does. The house that sells the capital its bread, [[affiliation-mardovanes|House Mardovanes]], is marrying its master's daughter to the heir of the Olkassa estate, and the man the court expects to be named is a Mardovanes kinsman.
+
 ## Settlements
 
 Hilen is a country of estates and market-towns: great aristocratic domains, each a small world of manor, fields, vineyards and tenant villages, linked by the towns where their produce is weighed and sold on.
@@ -65,6 +71,11 @@ Hilen is a country of estates and market-towns: great aristocratic domains, each
 : the forest town at the edge of the imperial game-reserve.
 
 **The great estates and manorial holdings.** The countryside belongs to vast aristocratic domains, not to free villages. Each is a manor with its tenant village, chapel and labor force of 200–1,000 souls. The named holdings include [Caldovia]{.name data-type="place/settlement"}, [Sennfeld]{.name data-type="place/settlement"}, [Aurvale]{.name data-type="place/settlement"}, **Olkassa** ([[place-olcassafld|The Blood-field of Olkassa]], the field of [[lore-olcassabtl|the Battle of Olkassa]]), [Brennfeld]{.name data-type="place/settlement"}, [Granholt]{.name data-type="place/settlement"}, [Vellora]{.name data-type="place/settlement"}, [Calvenna]{.name data-type="place/settlement"}, [Marenna]{.name data-type="place/settlement"}, [Tallenza]{.name data-type="place/settlement"}, [Oxenna]{.name data-type="place/settlement"}, [Harvenna]{.name data-type="place/settlement"}, [Wynnara]{.name data-type="place/settlement"} and [Stonemere]{.name data-type="place/settlement"}. Several are the seats of senatorial families whose word is effectively law within their own bounds. These are only the great houses; the province holds hundreds of lesser estates and tenant villages besides.
+
+## Hooks {#hooks}
+
+- **The ten-year bid.** A master of an old house wants to know what [[being-ylzmsmlvrts|Yalzemas Molvarates]] means to collect from his tenants if she wins ten years of the land tax, and hires a party to ride her collectors' last circuit.
+- **The new line.** A village outside [[place-cervalia|Kervalara]] hears that the paling is to move again, and its headman wants witnesses to how much ground the wardens take.
 
 ## See Also
 

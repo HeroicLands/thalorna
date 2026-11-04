@@ -42,11 +42,19 @@ Dolvar is not a chartered town. It is the legion's ground, and the _vandraks_ (l
 
 The legion's centurions keep order in the town as they keep it in the camp. A tavern-keeper with a brawl on his hands sends for the century whose men are in it, and that century's _Hundar_ settles it before the watch is needed.
 
+## History {#history}
+
+The fortress was raised in the hunger raids to hold a legion on the march, and the lower town grew against its wall. In 520 a Varokh host was driven into the marsh at the valley's foot and died there to the last man ([[lore-blackmarshbtl|The Battle of the Black Marsh]]). Since the truce with the nearest Vandstein villages was sworn, their War Chiefs' sons have lived in the House of Guests and the market below the town has run every summer. Satheras Kiramaris took command eight years ago.
+
+## Current Situation {#present}
+
+The truce holds, and every part of it is under strain. The boys in the House of Guests are shown to their villages' envoys this summer as every summer. A tower's smoke tally is three days late, and the _vandraks_, Satheras Kiramaris, will not send a century into the hills on a guess. The legion is paid when the treasury's coin comes up the road through [[place-tyrellan|Tirellan]], the road whose stations the _therkos_ keeps. At the truce market a Vylarian trader has crossed the marked stones in the night and is missing, and his partner fears the Varokh envoys will call it a breach.
+
 ## Where a Party Lodges
 
 The lower town has three taverns with beds, and the best of them is the [Gold Band]{.name data-type="place/structure"}, named for the honor on the legion's name and kept by a retired centurion who will not let the road verses of [[lore-goldbandsng|the Song of the Gold Band]] be sung under his roof before the officers have left. A party with business at the fortress is lodged in the visitors' rooms over the south gate, which are cold, clean and watched.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The tally that did not come.** A tower's smoke tally is three days late and its dispatch rider has not come down. The _vandraks_ will not send a century into the hills on a guess, and he hires a party to ride up and see why the tower is silent.
 - **The boy who wants to go home.** One of the boys in the House of Guests asks a party, through the cook, to carry a token across the passes to his mother. The token is harmless. Carrying anything across the line from the House of Guests is forbidden by the truce.

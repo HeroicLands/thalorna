@@ -44,11 +44,15 @@ Every coin in the city is weighed. The [House of Scales]{.name data-type="place/
 
 The city belongs to the temples and the crown together. The Holy Mother and the high priests govern the temple quarter and everything above it, the king's officers govern the lower city, and the Order of the Sacred Flame holds the walls and gates for both. Most quarrels never reach either: each street of the lower city chooses a street-warden, who settles a theft or a brawl between neighbors and calls the king's sergeants only when that fails. A burgled shopkeeper goes to his street-warden first and to the king's court second. A blasphemer, a heretic or an unlicensed mage goes before a temple examiner, whose court sits in the temple quarter and answers to the high priesthood alone.
 
+## Politics {#present}
+
+The holy city waits on a judgment. The lower city says the high priesthood will sit in judgment on the king, [[being-klvrsdrns|Kelvaras Daronis]], before winter, and [[being-vrthlszrkms|Varthelas Zerkemis]] of Sélmoros is counting votes for it. The Holy Mother, [[being-ilvnssrkls|Ilvenas Sarkelis]], sits in the Mother's Hall above the king's, and the city reads every audience she gives as a sign. The Master of the Order of the Sacred Flame, [[being-sldrsplvrn|Saldoros Pelvaren]], holds the gates and answers to her. At the House of Scales a run of imperial Ardin has come up the road a twentieth light, and the Keeper wants to know where it is clipped.
+
 ## Where a Party Lodges
 
 Pilgrims lodge in the temples' hostels along the holy road and inside the lower city, which are cheap, clean and strict: no weapons past the gate of the temple quarter, no meat on fast days, and the doors shut at the evening rite. Merchants and carters lodge at the inns on the market square, where the best is the [Charcoal Wagon]{.name data-type="place/structure"}, kept by a family of carters with kin in Ashenmere. Its innkeeper can say which temple's business is going badly, which baron is behind with his rent, and which knights drink in his back room.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The judgment.** A rumor in the lower city says the high priesthood will sit in judgment on the king before winter. A priest-noble house hires a party to learn which way the high priests mean to vote, and the king's own men want the same answer.
 - **The light silver.** The House of Scales finds that a run of imperial Ardin coming up the road weighs light by a twentieth. The Keeper of the Scales wants to know who is clipping the coin, and whether it is happening north or south of the border stream.

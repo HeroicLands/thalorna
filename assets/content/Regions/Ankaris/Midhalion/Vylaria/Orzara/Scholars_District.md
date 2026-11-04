@@ -53,11 +53,15 @@ The chapter house answers to nobody on the hill. Its gate is kept by its own peo
 - **The bronze doors.** Nobody passes the chapter house gate unless a member of the Order has asked for him by name. A student found inside the wall without leave is handed back to his college and is not admitted to the College of Arcane Philosophy afterward. Anyone else found there is handed to the Watch and brought before the Criminal Tribunal as a housebreaker.
 - **Teaching what the Order keeps.** The Thordimalon's code forbids teaching magic to anyone outside the Order, and its members enforce it on Mernel as everywhere. A reader of another college whose lectures stray into what the Order counts its own is warned once. A second time, the Sekran opens a hearing on him, and his college suspends him from teaching while it sits.
 
-## What the District Fears
+## History {#history}
 
-Mernel fears the Seldan's displeasure and the Order's. The [College of Political Philosophy]{.name data-type="affiliation"} examines the foundations of the laws that fund it, and the Seldan has watched it warily for as long as there has been a Seldan. A reader whose lectures are reported in the wrong house on the [[place-heightsorz|Heights]] loses his chair and sometimes more. The district also fears fire in the reading-library, which holds the working copies of every book the Epistémion teaches from, and the porters keep buckets of sand at every door.
+Mernel became the main campus of [[affiliation-panepistmm|The Academy]], the Epistémion, whose charter makes the hill its own. The [[affiliation-ordoarcanis|Thordimalon]], chartered under [[lore-kandrol|the Kandrol]] as its College of Arcane Philosophy, raised its domed chapter house among the colleges and keeps it apart from them. The College of Political Philosophy has examined the foundations of the laws that fund it for as long as there has been a Seldan, and the Seldan has watched it for as long.
 
-## Hooks
+## What the District Fears {#present}
+
+Mernel fears the Seldan's displeasure and the Order's, and the succession sharpens both. A reader whose lectures are reported in the wrong house on the [[place-heightsorz|Heights]] loses his chair, and in a year when every house counts claimants, the College of Political Philosophy's disputations are listened to by the houses' clients on the Circle. Paid students break up disputations that go the wrong way. Inside the chapter house the Order argues with itself: its Traditionalists hold to the imperial tie, and its Reformers would make the Order a power that crowns and uncrowns. The district also fears fire in the reading-library, which holds the working copies of every book the Epistémion teaches from.
+
+## Hooks {#hooks}
 
 - **The locked-out student.** A student of a great house spent last night outside his hall's gate, and the Watch found him on the Circle at dawn with no memory of the evening. His father wants a party to find out where he was before the proctors do.
 - **The disputation.** A master of the College of Law is to dispute tomorrow against a reader of the College of Political Philosophy, and someone has paid the College of Law's students to break up the disputation if it goes against their master. The reader's college hires a party to keep the Circle quiet.

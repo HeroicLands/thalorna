@@ -44,11 +44,15 @@ The forest is the crown's and is ruled by its officers. The head warden, [Grelth
 
 Kervalara itself is too small to hold a charter and is governed by the [[affiliation-provnchyln|Province of Hilen]] directly, through a headman the town chooses and the _therkos_ confirms. In practice it is the head warden's town. The wardens keep the peace on the street as well as in the forest, and a quarrel in an inn is settled by whichever warden is drinking there.
 
+## The Present {#present}
+
+The paling is moving again, and the villages are refusing. The order to carry it outward comes from the household of the Orzas, the head warden, Grelthar, carries it out, and the tenants whose fields it takes blame him. The forest magistrate in the Lodge hangs a tenant taken with a deer within the week, and a boy of fourteen waits on the green for a hind while his village raises a purse for a judge nobody has seen take one. The court comes to hunt this autumn after three years away, and several villages have refused to send beaters. A tenant whose cottage the paling took last spring went into the forest and has not come out.
+
 ## Where a Party Lodges
 
 Kervalara has two inns. The [Horn]{.name data-type="place/structure"}, by the forest gate, is the wardens' inn, and a stranger who drinks there is asked his business before his first cup is finished. The [Paling]{.name data-type="place/structure"}, at the far end of the street, takes carters and the tenants' carriers and is cheaper and friendlier. When the court comes, every bed in the town is let to its servants, and a party without a place in the court's train sleeps in the villages outside.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The roofless cottage.** A tenant whose cottage the paling took last spring has gone into the forest and not come out. His wife asks a party to find him before the wardens do.
 - **The hunt.** The court comes this autumn after three years away, and the head warden is short of beaters, since several villages have refused to drive. He hires a party to drive the deer and to watch the beaters.

@@ -40,11 +40,15 @@ Volkemara is a chartered town under the [[affiliation-provincvld|Province of Sal
 
 Quarrels on the beach go to the net-master whose boat is in them, and the net-masters settle them among themselves. A thief of fish is made to carry baskets up the beach for a month for the man he robbed. Nothing in Volkemara reaches the provincial courts if the net-masters can help it.
 
+## The Present {#present}
+
+The net-masters keep the grounds to themselves, and the grounds are being pressed. A boat with no eye on her stem fishes the town's grounds by night. The salt boat from Thremuzara is a week overdue and the catch is spoiling in the sheds. A net-master drowned in the autumn gales, the town keeps its rule that the sea's dead are not asked after, and his widow has refused his share of the boat.
+
 ## Where a Party Lodges
 
 The [Painted Eye]{.name data-type="place/structure"}, at the head of the beach, is the town's inn, kept by the widow of a net-master, and its rooms smell of salt and smoke whatever the season. Factors' agents rent the rooms above the curing-sheds for the winter. A party willing to row can be taken onto a boat short of a man and paid a share, and it learns more about the town in a night at the nets than in a month at the inn.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The salt boat.** The salt boat from Thremuzara has not come in for a week, the catch is spoiling in the sheds, and the boat's master sent no word. The net-masters hire a party to go down the coast and learn why.
 - **The stranger's boat.** A boat with no eye on her stem has been fishing the town's grounds by night, and the net-masters want her found and her owner named.

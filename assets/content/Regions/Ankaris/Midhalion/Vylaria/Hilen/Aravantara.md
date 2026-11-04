@@ -59,13 +59,17 @@ Aravantara is also a chartered town in its own right, with two _tavemoi_ (magist
 
 Order in the city rests on the houses first. A servant robbed, a tenant in a brawl or a carter cheated at an inn goes to his house's steward, and the steward settles it with the other house's steward, quietly and usually by nightfall. Only a stranger with no house behind him goes straight to a _tavemos_'s bench in the forum, and only a crime in the Yards brings the _zoralus_'s cohort, which hangs a granary thief on the day it catches him.
 
+## The Present {#present}
+
+Aravantara waits on the harvest and on the capital. The _therkos_, Linthimas Orvelis, suspects that every petition at his morning audience has been agreed on the Street of the Houses the night before, and he is the one man in the city with no house to ask. The yard clerks answer to the _karezos_, yet on one morning of last harvest every one of them refused the wagons of the [[affiliation-mardovanes|Mardovanes]] factor until noon, and the factor still does not know who gave the order. The houses watch the succession closely, because the capital's bread is weighed here and the old Orzas has adopted nobody. The [[affiliation-ordoarcanis|Thordimalon]]'s officer behind the forum has lost three letters to the province's posting-station this year.
+
 ## Where a Party Lodges
 
 The carters' inns stand outside the wall along the road below the Yards. They are cheap, loud and full in harvest weeks, and empty enough the rest of the year that an innkeeper offers a party the whole upper floor for the price of a room. The best of them is the [Last Sheaf]{.name data-type="place/structure"}, which keeps a wheatsheaf standing uncut in a pot by its door all year in the province's custom for the dead, and whose yard can take a dozen wagons.
 
 Inside the wall, the [Bronze Bushel]{.name data-type="place/structure"} on the forum is the inn of the brokers and the advocates, and the place where a stranger learns what the split tallies are fetching. A party carrying a patron's letter to one of the houses lodges on the Street of the Houses instead, as guests, and is fed, housed and watched with the correctness Hilen's houses pride themselves on. A guest of a house is that house's business for the length of his stay, and every other house on the street knows whose guest he is by supper.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The empty mask.** A master of one of the houses dies in harvest week, and the funeral needs men of the right height and build to wear the masks of his line. One of the masks is missing from the cupboard, and the heir hires a party to find it, quietly, before the procession forms at dawn.
 - **The refused wagons.** On one morning of last harvest every yard clerk at the Yards refused the wagons of the Mardovanes factor until noon, and nobody has said who gave the order. The factor wants a party to find out before the house asks him why.

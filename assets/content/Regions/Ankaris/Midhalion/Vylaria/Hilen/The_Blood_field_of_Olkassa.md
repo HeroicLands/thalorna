@@ -26,13 +26,21 @@ The estate farms the field, sells its grain into the state granaries, and does n
 
 The clergy of the [[affiliation-selmoros|Faith of Sélmoros]] and the [[affiliation-nahild|Faith of Nahild]] hold the Empire's dead between them, and it is Nahild's priests who go onto a field.
 
+## Layers {#history}
+
+The field was wheat-land of the Olkassa estate before the empire's legions met there. About 401 AF, in [[lore-brkensuccsn|the Broken Succession]], the army of the Seldan and the Moktur legions fought on it under the same eagle and gave no quarter ([[lore-olcassabtl|The Battle of Olkassa]]). The ground has quickened since. The estate went on farming it, the Imperial Cult raised its shrine to both armies' Orzoi at the edge, and the tenants began leaving the last sheaf standing.
+
+## What Is There Now {#present}
+
+The field is farmed for the heaviest wheat in Hilen and sold into the state granaries, and its harvest is now a marriage question. [[affiliation-ganothandis|House Ganothandis]] holds the estate, and its heir, Zetimas Ganothandis, is betrothed to the daughter of [[being-nthrsmrdvns|Nethoras Mardovanes]], whose Grain House sells the capital its bread. Zetimas wants the field settled by the rite of [[affiliation-selmoros|Sélmoros]] before his wedding. The steward turns the [[affiliation-ordoarcanis|Arcane Order]]'s surveyors away at the gate, and a preacher of [[affiliation-blackflame|the Black Flame]] in Orzara's [[place-warrensorz|Warrens]] tells the poor that the capital's bread is milled from a battlefield.
+
 ## Who Goes
 
 - **Grain factors**, who buy the heaviest wheat in Hilen and ask nothing about it.
 - **Priests of Nahild**, on the anniversary.
 - **[[affiliation-ordoarcanis|Arcane Order]] surveyors**, whom the estate turns away at the gate.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The capital's flour.** A grain factor finds that the capital's bread is milled from Olkassa wheat, and a preacher of [[affiliation-blackflame|The Black Flame]] in the [[place-warrensorz|Warrens]] tells the poor why the city has been angry for a year.
 - **The heir's wedding.** The estate's heir wants the field settled by Sélmoros's rite before his wedding. The rite works perhaps half the time, and nobody knows whether settling it would end the harvest.

@@ -24,7 +24,11 @@ The fence encloses a tract of the Alessan plain. Inside it the soil is the same 
 - **Scholars of Velisara**, to look at the fence.
 - **Treasure-seekers**, whom the Order's patrols stop.
 
-## Hooks
+## Converging Interests {#present}
+
+The Order keeps the ground fenced, bare and undug at its own charge, and its patrols stop anyone who tries to dig it. The [[affiliation-sekran|Sekran]]'s first commission, to establish what happened at the Therona, has never been closed, and its _sekeroi_ still come. Scholars of [[place-velysara|Velisara]] come to look at the fence, and treasure-seekers come for what they believe is under it. A tenant whose farm runs to the fence line has turned something up with his plow, and a clerk reconciling the inventory taken after the Therona finds it one short.
+
+## Hooks {#hooks}
 
 - A tenant on the farm beside the fence turns up something with his plow at the fence line, and the Order's patrol is at his door before he has finished cleaning it.
 - A clerk reconciling the inventory taken after the Therona finds the count comes up one short, as the first inventory did, and cannot find the copy that would say of what.

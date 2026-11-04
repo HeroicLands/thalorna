@@ -51,13 +51,17 @@ Below him the province's officers keep their own offices round the square, and e
 
 Alessar is also a chartered town in its own right, with two _tavemoi_ elected each year and a council of _kurthaloi_ who answer in their own persons for the taxes the town owes. They keep the markets, the fountains, the drains and the night watch of the lower town, and they are much smaller men beside the officers on the square. A shopkeeper robbed in the night goes first to his neighbors and his guild, then to a _tavemos_'s bench in the lower market, and only last to the _zoralus_'s cohort, which takes an interest in thieves who rob petitioners and very little in anyone else.
 
+## The Present {#present}
+
+Alessar governs Alessa without its governor. The _therkos_, Kaldremas Elthezis, has not been seen in the city since the spring; his acts come down from his villa at [[place-vennara|Vennara]] sealed, and Nethoren reads them from the steps the morning after they arrive. The _karezos_ reports past the _therkos_ as always, and the two men seldom agree. Petitioners crowd the inns, the board of the court's list is for sale at the innkeepers' tables, and water has reached a box of old citizen rolls under the gallery of the Hall. The north road's levy is assessed here with the rest, and the north road's bridge is still broken. Filezos Klethes buys suppers at the Two Seals for strangers who might carry a letter to [[place-velysara|Velisara]].
+
 ## Where a Party Lodges
 
 Strangers lodge on [Petitioners' Row]{.name data-type="place/feature"}, the street of inns that runs along the foot of the Long Stair. Every inn there keeps a painted board by its door listing the hearings the court has called that day, copied each morning by a boy sent up to the Governor's House, and a guest pays partly for the board. Beds go by the night between the assizes and by the session during them, and an inn full for the session still finds room for a guest who brings a patron's letter.
 
 The best of the inns is the [Two Seals]{.name data-type="place/structure"}, where the advocates drink and where most of the business before the court is settled before it is heard. The cheapest are at the bottom of the row, beside the tombs, and are full of people whose cases have been waiting more than a year. Innkeepers on the Row say that a place on the court's list can be bought from the right clerk; the clerks say that the innkeepers sell it.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The board.** A party's patron has a petition before the court, and it sits near the bottom of the board at the party's inn. The innkeeper offers to have it moved up for a fee, and a rival petitioner is offering the same innkeeper more to keep it where it is.
 - **The rolls under the gallery.** Water has reached a box of old citizen rolls in the Hall, and a veteran's family finds its entry unreadable. What is not on the roll is not in the city, so the family hires a party to find the copy kept at the [[affiliation-imperialoffices|Imperial Offices]] in Orzara before the next dole is drawn.

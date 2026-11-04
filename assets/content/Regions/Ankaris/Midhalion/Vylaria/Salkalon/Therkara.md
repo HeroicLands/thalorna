@@ -38,11 +38,15 @@ Therkara is a chartered town under the [[affiliation-provincvld|Province of Salk
 
 The legion stationed in the province keeps its camp on the provincial road an hour below the town, and its quartermasters buy at the Grain Hall. Order in the town rests on the estates: a tenant in trouble goes to his lord's steward, and a stranger goes to a _tavemos_. A theft at the Grain Hall is judged in the square on market day.
 
+## The Present {#present}
+
+The estate-lords of Therkara speak for the war, and the war's fleet pays them in paper. Teremos Kalmethen and the other masters look inland toward Hilen and want Taruzel humbled, while the fleet's victuallers have bought half the grain at the last three markets with the admiralty's notes, which the stewards cannot spend. Someone has chiseled a name off the war pillar in the night. An old nurse of the Kalmethen household has left the estate and wants a letter carried to the [[affiliation-imperialoffices|Imperial Offices]] in Orzara.
+
 ## Where a Party Lodges
 
 The [Sheaf and Sickle]{.name data-type="place/structure"}, inside the gate, is the inn of the coast's buyers, and on the night before market it is full of factors and victuallers comparing prices. A party with a letter to one of the estate-families is lodged at that family's villa, and finds that its host wants to know its views on the islands before the second course.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The victualler's wagons.** The fleet's victuallers have bought half the grain at the last three markets and paid for it in the admiralty's notes, which the estates do not want. The stewards hire a party to find a moneylender in Delalara who will buy them at less than a ruinous discount.
 - **The pillar.** Someone has chiseled a name off the war pillar in the night. The families want to know whose name it was and who wanted it gone.

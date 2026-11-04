@@ -114,6 +114,12 @@ Nartun keeps correct but cool relations with the Vylarian Empire. The break date
 
 The [[affiliation-ordoarcanis|Thordimalon]] has no presence in Nartun. The kingdom holds the Arcane Order's secular power and political manipulation to be antithetical to proper spiritual life, and mages who work in Nartun answer to the priesthood, not to the Arcane Order. A mage found working in the kingdom without a temple's license goes before an examiner.
 
+## Current Situation {#present}
+
+The high priesthood is moving against the king. [[being-klvrsdrns|Kelvaras Daronis]], eleven years crowned, owes his throne to the Holy Mother's refusal of his cousin, and the lower city of [[place-nartum|Nartun]] says the high priests mean to sit in judgment on him before winter. [[being-vrthlszrkms|Varthelas Zerkemis]], High Priest of Sélmoros, teaches that the Withering falls where the rites are neglected, lays it at the king's door, and is gathering the high priests' votes. [[being-ilvnssrkls|Ilvenas Sarkelis]], the Holy Mother, anointed the king and is the one hand that can wipe the oil away. The king knows enough to be afraid.
+
+The forest is the kingdom's other quarrel. The Withering kills stands across the uplands, and nobody agrees why. The temples call it judgment, the lay barons blame the priors who sell the cutting of whole valleys to contract crews, the [[affiliation-blackflame|Black Flame]] calls it a sign against the Order, and the woodsmen fear something older. [[being-mlknssrvths|Melkanas Sarvothis]], prior of the largest temple-estate of Sélmoros, sells the cutting, and the baron [[being-ardmsvlthmn|Ardemos Velthamen]] says in the king's hall that it is killing the forest.
+
 ## Commerce and Currency
 
 Nartun has no mint of its own and uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel), but it takes every coin by weight. A price in Nartun is stated in weight of silver, by the pound of the holy city (_solkimon_), and a merchant pays it in whatever Ardin and Ogdel make up the weight on a temple scale. Each temple-estate keeps a scale and a sworn weigher (_thradinos_), and the House of Scales in the holy city keeps the standard weights that every other scale in the kingdom is tried against.
@@ -121,6 +127,12 @@ Nartun has no mint of its own and uses the [[lore-vylrncrncy|Vylarian currency]]
 The kingdom takes no paper. The notes of [[affiliation-danvar|the Danvar]] moneylenders are worthless north of the border stream, and a merchant who comes up from Hilen with a purse of notes changes them into coin at Ashenmere before he crosses. The kingdom's money is kept by its temples instead. Each temple's treasury holds the coin of its estates and the deposits of its faithful, lends to barons and merchants at interest the temples call an offering, and pays the priors' drafts on one another in coin carried under the Order's escort.
 
 The kingdom lives on its forest. Charcoal, timber, pitch, potash and carved and turned woodwork go down to Hilen, and grain, wine, oil and cloth come up. [The Withering]{.name data-type="lore"}, a blight that kills stands of forest from the crown down, is changing that trade, and the temples call it a judgment.
+
+## Hooks {#hooks}
+
+- **The votes.** A priest-noble house wants to know how the high priests mean to vote on [[being-klvrsdrns|Kelvaras Daronis]], and the king's own men want the same answer.
+- **The stand that sickens.** [[being-ardmsvlthmn|Ardemos Velthamen]] hires a party to walk a valley [[being-mlknssrvths|Melkanas Sarvothis]] has sold to the contract crews, and bring back what the dying stands look like before the next audience.
+- **The light silver.** The Keeper of the Scales at [[place-nartum|Nartun]] has found a run of imperial Ardin a twentieth light and wants to know where it is clipped.
 
 ## See Also
 

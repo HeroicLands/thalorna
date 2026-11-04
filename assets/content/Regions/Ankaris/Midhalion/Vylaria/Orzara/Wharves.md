@@ -49,11 +49,15 @@ The Strangers' Row is the one quarter of the city where non-citizens live by rig
 - **A registered trader's gate.** The Strangers' Row's gate is shut and barred from the outside by the Watch at dusk and opened at dawn, and a trader found climbing its wall is fined by the _peltros_ and struck off the register.
 - **Fire on the quays.** No fire is lit on the quays or aboard a barge tied up at them. The porters carry closed lanterns, and an open flame near the granaries costs its owner a fine and his boat, forfeited on the _peltros_'s order.
 
-## What the Wharves Fear
+## History {#history}
 
-The Wharves fear a low river. In a dry late summer the barges ride low and slow, the night's grain comes in short, and the porters stand idle on the quays while the bakers wait. The district fears fire in the granaries, which would be the city's bread burning: the state granaries hold about a week of grain, and nothing stands behind them. It fears the morning after a riot elsewhere, when the Watch comes down to the Strangers' Row first. The Taruzelian factors fear the day the Seldan decides that a Taruzelian in Orzara is an enemy and not a merchant.
+The quays below Nerval have landed the capital's bread for as long as the city has eaten from the river, and the state granaries under the imperial seal were raised along the River Circle to hold it. Their reserve has dwindled through the long decline, sold off to meet one charge after another, until the granaries hold about a week. Foreign traders are registered and lodged in the walled Strangers' Row. Since Taruzel won its independence twelve years ago, its factors on the Row have been the merchants of a power the empire fought and lost to.
 
-## Hooks
+## What the Wharves Fear {#present}
+
+The Wharves fear a low river and a burned granary, and the quarrel on the quays is over where the next grain comes from. In a dry late summer the barges ride low and the night's grain comes in short, and behind the week in the granaries nothing stands. The Grain House of [[being-nthrsmrdvns|Nethoras Mardovanes]] sells the city Hilen's bread and wants a duty on foreign grain. [[being-mrndsvskln|Marendos Vaskelen]], whose shipping house on the Wharves brings the only grain that can reach the capital faster than Hilen's, wants trade free and the Khelathi contract. On the Strangers' Row the Khelathi factor, [[being-mthszrtml|Methisi Azeret'Mulu]], offers the throne grain on credit and silver for its paper, and the hawks of the Seldan call it a chain. The Veramus of the Grain answers for the granaries, and [[affiliation-cleanshlds|The Clean Shields]] hold the grain road and the barge moorings above the river gate, paid on the day by a paymaster nobody names. The Taruzelian factors fear the day the Seldan decides that a Taruzelian in Orzara is an enemy and not a merchant, and every riot elsewhere brings the Watch to the Row first.
+
+## Hooks {#hooks}
 
 - **The sack count.** A porters' guild-master suspects that one of the night gangs is carrying one sack in forty to a warehouse that is not on any tablet. He wants a party to work a night on the quays and follow the sack.
 - **The last ship.** A Nordman ship-master missed the horn and spent the night in the watch-house, and his ship sailed without him with his cargo aboard. He wants it back, and he wants to know who paid his crew to leave.

@@ -51,11 +51,15 @@ The ward's _peltros_ licenses the hearths and the shops, and his inspectors walk
 - **Poison across the counter.** An apothecary may sell the drugs on the physicians' list only against a physician's written order, and he keeps the orders. A sale without one costs him his license, and a sale that ends in a death is a charge before the Criminal Tribunal.
 - **A seal cut without a warrant.** A seal-cutter cuts a stamp only for its registered owner, and only on a written warrant from that owner's steward, guild or court. A stamp cut without one is a capital crime before the Criminal Tribunal, and the stamp of a noble house lifts the case to the imperial tribunals.
 
-## What the Quarter Fears
+## History {#history}
 
-The Gilded Quarter fears the fall of a house. A proscription on the Heights ends the waivers of every craftsman the house signed for, and within the month the Watch walks those masters out through the gate and the court sells their benches to the next house's craftsmen. With the old Orzas's succession in doubt, every master in the quarter knows which house his waiver hangs on and how that house stands. The quarter also fears fire from its own hearths, and the Great Burning is remembered in its fire-law clause by clause.
+The clean, costly trades were sorted onto Selvin's lower slopes by the city's district law, which keeps the furnaces and the foul trades out of the city and puts each permitted craft in its quarter. A craftsman who is no citizen works here under a house's waiver, and the quarter's fortunes have risen and fallen with its houses. The quarter's fire-law remembers [[lore-greatburnng|the Great Burning]] clause by clause, and its inspectors walk the streets weekly.
 
-## Hooks
+## What the Quarter Fears {#present}
+
+The Gilded Quarter fears the fall of a house, and with the succession open every house looks less certain. A proscription on the Heights ends the waivers of every craftsman the house signed for, and within the month the Watch walks those masters out through the gate. Every master in the quarter knows which house his waiver hangs on and how that house stands. The throne raises houses as well as unmaking them, and the Street of Masks is busy with cupboards of ancestors for new houses on Selvin. The quarter also fears fire from its own hearths.
+
+## Hooks {#hooks}
 
 - **The waiver.** A goldsmith's sponsoring house has been named in a proscription, and his waiver dies at the month's end. He hires a party to find him a new house to sign for him before then, and he can pay in gold.
 - **The second stamp.** A seal-cutter has been asked, with a warrant that looks right, to cut a copy of a granary's stamp. He suspects the warrant and wants a party to find out who wrote it.

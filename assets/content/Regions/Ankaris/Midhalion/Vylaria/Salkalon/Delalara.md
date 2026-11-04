@@ -63,13 +63,17 @@ Delalara is also a chartered town, with two _tavemoi_ (magistrates) elected each
 
 Order on the waterfront rests on the houses. Each house keeps quay-masters and watchmen for its own warehouses and berths, and a theft from a house's warehouse is settled by its quay-master, who usually knows who did it before the owner knows what is missing. A fight between two crews goes to the harbor-master, who fines both ships. A stranger robbed on the quays goes to a _tavemos_'s bench in the forum. Only a riot, an attack on the Customs House or a crime against the foreign quarters brings the cohort, and it comes with clubs.
 
+## The Present {#present}
+
+Delalara trades with the enemy and is governed by a man chosen to have no ships. The _therkos_, Korvathas Revothandis, has renewed every Taruzelian waiver so far, a fortnight late, and one factor's waiver has not come this spring at all while three houses owe him money. Ornetha Venthelis is sending the houses' treaty petition to Orzara by a trusted hand, and the admirals' men at the Orzara Gate watch who carries it. The customs farmer, Solteras Tharozates, bid more than any _tolar_ before him and collects accordingly, and a Hilen wine merchant has paid twice on one cargo. A ship reported lost off the Tamzir Shoals has been seen in [[place-qudumel2|Kudumel]] repainted, and the slaver Devorin works from a dock no harbor-master admits to.
+
 ## Where a Party Lodges
 
 The inns of the quays are for sailors, and a party that wants to sleep goes up the hill. The [Two Anchors]{.name data-type="place/structure"}, on the street that climbs from the Customs House to the forum, is the inn of masters and supercargoes, and its common room is where a captain looks for a crew and a passenger looks for a ship. Its keeper lets rooms by the week and keeps the sailing-lists of every house in a book behind the counter. In the Helionite Quarter the house of a widow by the fountain lets rooms to scholars and travelers, serves the best food in the city and asks to know where her guests are going.
 
 A party with business in the Eastern Quarter can lodge there, at a Taruzelian lodging-house within the quarter's walls, where the rooms are clean, the prices are written on the door in two scripts and the keeper reports every guest to the factors. Captain [[being-nebralenelth|Nebralen Elthezis]] of the _[Tempest's Mercy]{.name data-type="vehicle"}_ takes passengers when his holds are light and asks no more questions of them than they ask of him.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The cask taxed twice.** A wine merchant of Hilen has been charged the customs twice on the same cargo, once at the arcade and once at a warehouse door by men with the Customs House's chalk. He wants a party to find out whether the second set of clerks is Solteras Tharozates's or someone else's.
 - **The late waiver.** One factor's waiver has not been renewed this spring, and his month is half gone. He asks a party to learn why from the Governor's House, and meanwhile to keep his ledgers safe from the three houses that owe him money.

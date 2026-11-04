@@ -38,11 +38,15 @@ Delara is a chartered town under the [[affiliation-provinclys|Province of Alessa
 
 The posting-station answers to the _pozerus_ (warden of the roads) at [[place-alyssar|Alessar]], not to the town, and its master keeps the road's own peace: he sends word ahead of bandits, broken bridges and plague, and the post-riders carry it.
 
+## The Present {#present}
+
+The road is good this year and the council is prosperous, and the capital has begun to complain. A buyer in Orzara has reweighed a cargo bought at Delara and found it light, and his factor means to learn which link of the chain cheats him before he buys again. A drover's herd from the hill country never reached the yards. A post-rider was found a mile down the road without his bag, and the master of the posting-station needs it back before the courier who sent it learns it is gone.
+
 ## Where a Party Lodges
 
 A party lodges at one of the inns on the road, and books ahead as the drover says. The inns nearest the square cost the most and are the loudest. The ones at the ends of the town are cheaper and fill with drovers who would rather walk a mile than pay. Every inn keeps an ostler awake all night, because the road never stops.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The short sack.** A buyer in Orzara has reweighed a cargo bought at Delara and found it light, and his factor wants a party to find out which link of the chain is cheating him before he buys again.
 - **The herd that did not arrive.** A drover's herd left the hill country for Delara and did not reach it, and the drover's patron is offering a reward for the cattle and a larger one for whoever took them.

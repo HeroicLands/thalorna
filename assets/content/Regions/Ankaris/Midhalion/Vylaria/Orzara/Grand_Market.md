@@ -53,11 +53,15 @@ The Veramus of the Grain, who sits for [[affiliation-verdanorzara|Orzara Courts]
 - **A maker selling his own work.** The Tevran's charters reserve the market to licensed sellers, and a craftsman from beyond the Clearance who sets up a cloth on the paving and sells his own pots is fined by the _peltros_ and his goods seized. A second time, he is put out across the Clearance and barred from the market.
 - **Grain held back.** In a lean month the Veramus of the Grain may order the grain dealers' stores opened and sold at his price. A dealer found holding grain back after the order loses his stock to the state granaries, and the Veramus may bring him before the Criminal Tribunal for hoarding in a lean month, where the sentence is forced labor.
 
-## What the Market Fears
+## History {#history}
 
-The Grand Market fears two prices. One is the price of bread: when it rises, the citizens come to the Circle to see why, and the Watch-house doubles its guard. It rises fast, because the state granaries hold about a week of grain and every dealer on the Circle knows it. The other is the price of paper. The Danvar's notes pass on the Circle as readily as coin, and the money-changers know how quickly a rumor that one great house's notes will not be honored can empty the colonnade and close every stall that took them. The worst rumor the colonnade can hear is that the throne has missed a payment to the great houses that lend to it. The market also fears the closing bell on a day of trouble, when thousands of hands are walking out to the gates at once and a single shout can turn the crowd.
+The Grand Market Circle has been the city's licensed market since the city's commerce settled on the central flats, where the ground is level enough to hold it. The Danvar built their counting-houses about it, and the Great College of Guilds its Council Hall, so that the notes the empire's trade runs on are issued and honored a few steps from the stalls.
 
-## Hooks
+## What the Market Fears {#present}
+
+The Grand Market fears two prices, bread and paper, and both are in question. Bread rises fast because the state granaries hold about a week of grain, and the Veramus of the Grain's agents report the price at every noon bell. The [[affiliation-tarmex|Tarmeks]] can lighten the Ardin only a little, because the lighter coin reaches the cookshops and bakers within the month and every dealer on the Circle feels it. The Danvar's notes pass on the Circle like coin, and the money-changers of the colonnade know how quickly a rumor that one great house's notes will not be honored empties it. The worst rumor is that the throne has missed a payment to the houses that lend to it. The market also fears the closing bell on a day of trouble.
+
+## Hooks {#hooks}
 
 - **The broken weight.** A stall-holder in the Oil Row swears that the weight broken on the Circle this morning was not the weight the inspector took from his stall. He wants a party to find the man who switched it.
 - **The paper.** A chandler has taken a note of a great house in payment for a year's account, and the money-changers of the colonnade will not touch it. He hires a party to carry it to the house on the Heights and come back with coin.

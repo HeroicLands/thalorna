@@ -183,6 +183,17 @@ Crowning **Arvel** behind its own ancient ring of walls stands [[place-arvon|Arv
 
 For the full account of the citadel and its precincts, see [[place-arvon|the Inner City]].
 
+## Politics {#present}
+
+Orzara shows the world an eternal throne and runs on borrowed money, and the succession is the fuse. The old Orzas, [[being-zrmlshlrkls|Zarmelas Helarkales]], is seventy-eight, failing and the adopter of nobody. He has no cash, and he keeps the power to proscribe a house, to raise one, and to sell what the throne can grant. The throne pays the dole by borrowing from the great houses of [[affiliation-danvar|the Danvar]] and rolls the loans over each quarter. The state granaries hold about a week.
+
+- **The lenders and the treasury.** [[being-amrzvlds|Amarza Veldis]], whose house holds more of the throne's paper than any other, asks a price at every rollover, and the Imperial _Tarkelos_, [[being-drvnsrlln|Dorvanis Arelliani Septarius]], negotiates it. [[being-krznsthlrts|Korzenas Thalurates]] buys the debts of the old houses and counts their votes in the Seldan as his. On the Strangers' Row the Khelathi factor, [[being-mthszrtml|Methisi Azeret'Mulu]], offers the throne grain on credit and silver for its paper, and the Bizarian League lends against the customs of [[place-aelissium|Elissara]].
+- **The bread.** The Grain House of [[being-nthrsmrdvns|Nethoras Mardovanes]] wants a duty on foreign grain. [[being-mrndsvskln|Marendos Vaskelen]]'s shipping house on the [[place-wharvesorz|Wharves]] wants trade free and the Khelathi contract. [[being-ylzmsmlvrts|Yalzemas Molvarates]] offers the throne three years' silver now for ten years of Hilen's land tax.
+- **The succession.** The court names three men: a kinsman of [[affiliation-mardovanes|House Mardovanes]], the Seldan's and the grain's choice; a legate of the legions, the Guard's favourite; and a [[affiliation-varkalenis|Varkalenis]] of the old blood, poor and pious. [[affiliation-sorvan|The Sorvan]] expects a donative from whoever is named, and the man the court expects has promised one and paid nothing on it.
+- **The street.** The veterans' tribune, [[being-sthmrrdln|Sathemar Ardelen]], promises the stairs of the [[place-warrensorz|Warrens]] that the pension is untouchable. [[being-rzmsplthn|Razemos Pelthen]], Master of the Irons, sells the Racecourse crowd to whichever claimant promises the accession games. [[being-mrznszlmrs|Merzanas Zelmaris]] owns most of Nerval's tenements and wants the height limit lifted. The preachers of [[affiliation-blackflame|the Black Flame]] speak on the Spire Circle, and its High Flame-Warden, [[being-trzmsbrkrts|Torzemos Brakarates]], has drafted a petition for the Forge-Lord's niche in the Temple of the Twelve.
+
+None of them can afford the city broken, and every one of them takes as much from it as it can bear.
+
 ## Citizens and Residents
 
 The most important line in Orzara is not a wall or a Circle but a legal one: the line between **citizen** and **resident**. The city holds some 900,000 souls, but only a minority are citizens of the Empire—and that status changes everything about how, and where, a person may live. (Citizenship is an Empire-wide institution, set out in full in [[doc-vylrnctznshp|Vylarian Citizenship]]; what follows is how it shapes the capital.)
@@ -295,6 +306,17 @@ It is tended jointly by two priesthoods that, anywhere else, would have little t
 | **Signature marvels** | The [[place-magngndorery\|Grand Orrery]], the [[place-pnthnrldnm\|Temple of the Twelve]], the [[place-rathaunamelvar\|Rathauna Melvar]], the Twelve Circles                                               |
 | **Dominant faith**    | [[affiliation-arldnpnthn\|Aureldian Pantheon]] (state religion); all major pantheons represented                                                                                                          |
 | **Arcane presence**   | The [[affiliation-ordoarcanis\|Thordimalon]], openly displayed here as nowhere else                                                                                                                       |
+
+## History {#history}
+
+The city began on [[place-antel|Antel]], the Old Hill, where the [Vylarian Republic]{.name data-type="affiliation/polity"} built its Senate hall and its first monuments, and the thrima was walked and consecrated at the founding. In Year 1 a _kurthos_ backed by the legions and the Thordimalon made himself Orzas ([[lore-thefounding|The Founding]]), and he walled the crown of Arvel and moved the Senate up to it ([[lore-eaglecityrse|The Raising of the Eagle City]]). His line made the citizenship a soldier's reward ([[lore-veteranslaw|The Veterans' Law]]), and the veterans settled the capital by legion stair. In the centuries of conquest the imperial archive on Arvel burned ([[lore-archivefire|The Archive Fire]]). When the Orzas Barnakis died in 389 with no heir named, the guard, the Senate and the legions of Moktur each carried an eagle before an Orzas of their own for sixteen years ([[lore-brkensuccsn|The Broken Succession]]); the dole failed and fire ran over Antel for six days about 403 ([[lore-greatburnng|The Great Burning]]), and about 406 Makandas took the city and founded House Helarkales ([[lore-restorehouse|The Restoration]]). The Edicts of Arzanas gave the Empire the institutions it keeps ([[lore-arzanasedict|The Edicts of Arzanas]]). Through two centuries of decline the conquests stopped paying for the dole, the granaries' surplus was sold to meet other charges, and the throne began to borrow. Twelve years ago Taruzel won its independence with Khelathi gold behind it, and its trade revenue went with it.
+
+## Hooks {#hooks}
+
+- **The rollover.** [[being-drvnsrlln|Dorvanis Arelliani Septarius]] needs a quarter's rollover signed before pension day, and a house that wants the auditors out of its chapter books wants it signed late.
+- **The donative.** A watch-captain of the Guard Camp is offered a rival house's coin before anyone is adopted, and hires a party to learn whether the expected man's promise will ever be paid.
+- **The stairs.** [[being-sthmrrdln|Sathemar Ardelen]] wants a party to find out which claimant's men are buying drinks on the River Circle's stairs.
+- **The factor's grain.** The Seldan's hawks want to know what [[being-mthszrtml|Methisi Azeret'Mulu]] has promised the Tarmeks before the chamber votes on his grain.
 
 ## See Also
 

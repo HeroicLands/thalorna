@@ -49,6 +49,10 @@ The empire's western frontier rises into the [[place-kervaron|Kervaron Spine]], 
 
 The [[place-vylarisrvr|River Vylaris]] crosses the heartland from the interior hills to the sea. Grain comes down it from the inland landings to the capital, and the capital's sea cargoes are hauled up it from [[place-aelissium|Elissara]], the chartered city at its mouth, where the river reaches the sea through a fan of reed-marsh channels called the [Mouths]{.name data-type="place/feature"}.
 
+## Current Situation {#present}
+
+The heartland lives on borrowed money and waits on an old man's death. The [[affiliation-vylarinmpr|Vylarian Empire]]'s throne pays its veterans with loans it rolls over each quarter, the capital holds about a week of grain, and the Orzas has adopted nobody. Each province shows the strain its own way. [[place-alyssa|Alessa]] is governed from a sickroom, and its old cities sell their stone to the capital. [[place-hylen|Hilen]]'s estates take their tenants' land and fear civil war more than anything. [[place-moktur|Moktur]] is a province the capital can neither lose nor hold. [[place-salkhalon|Salkalon]]'s merchants live on the strait trade the capital calls collaboration, beside a fleet that cannot pay its oarsmen. In the [[place-nartumkngdm|Nartun Kingdom]] the high priesthood moves to judge its king while the forest dies.
+
 ## Notable Features
 
 [Vylarian Steel]{.name data-type="miscgear"}
@@ -59,6 +63,11 @@ The Vylarian Roads
 
 The River Vylaris
 : the river the heartland is named for, running through Alessa and [[place-salkhalon|Salkalon]] to the sea.
+
+## Hooks {#hooks}
+
+- **The week of bread.** A grain house of [[place-orzara|Orzara]] hires a party to bring a string of grounded barges down the [[place-vylarisrvr|River Vylaris]] before the granaries run low.
+- **The empty chair.** A family that lost a case in [[place-alyssa|Alessa]] this year wants to know who sealed the judgment.
 
 ## See Also
 

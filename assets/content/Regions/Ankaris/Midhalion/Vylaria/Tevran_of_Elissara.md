@@ -57,6 +57,10 @@ Each guild judges its own members. A stranger with a complaint against a potter 
 
 The vote is the city's standing quarrel. The seamen and the bargemen are the two largest guilds by far, and the shipowners, the merchants and the small craft guilds together hold most of the seats.
 
+## Current Situation {#present}
+
+The council governs under a charter that every Orzas seals anew, the reigning one is old and has adopted nobody, and an advocate from [[place-mercavia|Delalara]] is gathering copies of it for what he says is a history. Some of the _kelroi_ doubt that a history needs every guild's copy. Zenothen Linthimis, master of the shipwrights, presides as _holkelros_ in his third year, two more than custom expects, and the seamen and bargemen, the two largest guilds, resent a council in which the shipowners, merchants and small crafts hold most of the seats. The [[affiliation-byzarianlg|Bizarian League]] lends to the throne against the customs of Elissara and collects them with its own clerks, and the fleet buys copies of the Seamen's Guild's roll.
+
 ## The Charter
 
 The charter is a _zaktela_ (sealed grant) of the Orzas, which every Orzas seals anew for the city. It gives Elissara its own courts, its own watch and the dues of its own harbor, and it keeps out the _therkos_ (governor) of every province, the legions and the tax-farmers of the [[affiliation-tolvan|Tolvan]]. In return the city pays a fixed sum every spring to the [[affiliation-tarmex|Tarmeks Orzan]], passes the capital's grain and cargoes upriver free of its dues, and keeps the river mouth lit and dredged. [[affiliation-danvar|The Danvar]] keeps one of its largest chapterhouses beside the Charter Hall, and the city's spring payment goes to the capital as a Danvar note.
@@ -66,6 +70,11 @@ The charter is a _zaktela_ (sealed grant) of the Orzas, which every Orzas seals 
 - **The [[affiliation-provincvld|Province of Salkalon]]** surrounds the city's land on three sides and its advocates hold that the charter is a privilege the province merely tolerates.
 - **The [[affiliation-vylarinmpr|Vylarian Empire]]** draws its sea-borne supply through the city and wants nothing changed that would slow it.
 - **[[affiliation-tevran|The Tevran Maldor]]** charters each of the city's guilds. Its _therkalen_ (provincial deputy) for Salkalon counts them among his province's guilds, and the council answers his letters by writing over his head to the Tevraks.
+
+## Hooks {#hooks}
+
+- **The copies.** Zenothen Linthimis wants to know which guilds have given the Delalara advocate a copy of the charter, and what he does with them.
+- **The roll.** A hand of the Seamen's Guild whose name is on a copy the fleet bought wants to know what the fleet means to do with it.
 
 ## See Also
 

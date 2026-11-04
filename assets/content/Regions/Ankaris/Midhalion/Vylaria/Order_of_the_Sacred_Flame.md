@@ -92,6 +92,15 @@ The Master of the Order is an elder knight chosen for life by the council of eld
 [[affiliation-vylarinmpr|Vylarian Empire]]
 : the power whose legions turned back from the walls the order holds, and which tolerates the Black Flame.
 
+## What It Wants Now {#present}
+
+The Order holds the holy city's walls for a crown and a priesthood that are moving apart. Its Master, [[being-sldrsplvrn|Saldoros Pelvaren]], answers to the Holy Mother, [[being-ilvnssrkls|Ilvenas Sarkelis]], and serves the king, [[being-klvrsdrns|Kelvaras Daronis]], in the field, and the high priests are gathering votes to judge the king. In the empire the Order's enemy is rising. [[being-trzmsbrkrts|Torzemos Brakarates]], High Flame-Warden of the [[affiliation-blackflame|Black Flame]] in Orzara, has drafted a petition for the Forge-Lord's niche in the Temple of the Twelve, and the Sacred Forge's keepers of the niche are the Order's allies however much they wince at its name. The Black Flame calls the Withering a sign against the Order.
+
+## Hooks {#hooks}
+
+- **The petition.** A knight of the Order wants a copy of the Black Flame's accession petition from Orzara before the Temple of the Twelve answers it.
+- **The escort.** The Order needs knights for the temples' coin between treasuries while the holy city waits on the judgment, and hires outsiders for the lower roads.
+
 ## See Also
 
 [[place-nartum|Nartun]]

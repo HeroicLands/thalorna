@@ -26,11 +26,15 @@ Carvers, turners, coopers and joiners work the timber that the lumber settlement
 
 Dremenna holds of a temple under the high priesthood, and the village keeps its own peace. [[being-pirkelarrevo|Pirkelar Revothandis]], the village elder, settles disputes over shared timber and workshop boundaries from a bench in the street, and her word stands unless one party carries the quarrel to the temple's court in the holy city. A knight of the [[affiliation-sacredflame|Order of the Sacred Flame]] rides through at the quarter-days to hear any complaint that the elder cannot resolve, and the village is glad to see him go.
 
+## The Failing or the Quarrel {#present}
+
+The timber the village carves comes down from a forest that is dying. [[being-ardmsvlthmn|Ardemos Velthamen]], the lay baron who holds the forest above Dremenna of the temple of Sélmoros, says in the king's hall that the priors' cutting is killing it. Mass-made bowls and boxes from the south sell in the market at half the craftsmen's price, and [[being-pirkelarrevo|Pirkelar Revothandis]], the elder, suspects that someone in the village lets the pedlars in.
+
 ## Where a Party Lodges
 
 The village keeps one inn, a joiners' house at the head of the street with a carved lintel over the door, which takes guests in two rooms over the taproom. A party who wants a cheaper bed asks along the street, since most families with a spare loft will rent it to someone who has come to buy.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The merchant's commission.** A rich merchant from a distant city has seen a Damates panel and offers Zadros a commission and a place in his household while it is installed. Zadros is a shy man, and the elder wants a party to go with him and bring him home.
 - **The cheap goods.** Mass-made bowls and boxes from the south are selling in the village market at half the craftsmen's price. The elder suspects that someone in the village is letting the pedlars in, and she wants to know who.

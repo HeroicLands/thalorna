@@ -26,11 +26,15 @@ Its timber goes down to the woodcrafters' villages of the valleys, and its charc
 
 Kalderenna lies on a temple-estate, and the estate's prior decides which stands are cut and by whom. His forester walks the stands and blazes the trees, and the settlement's dues go to the temple in charcoal and days of labor. Order in the settlement itself is kept by a knight of the [[affiliation-sacredflame|Order of the Sacred Flame]] who rides out from the holy city's chapter house to hold the estate court on the prior's behalf. A quarrel over a stand, a stolen cart or a charcoal clamp fired by a careless neighbor is brought to him. The burners settle a smaller matter among themselves, because a clamp cannot be left unwatched for the length of a feud.
 
+## The Failing or the Quarrel {#present}
+
+The prior sells the cutting, and the stands are dying. [[being-mlknssrvths|Melkanas Sarvothis]] sells the cutting of whole valleys of his estate to contract crews, the Withering kills stands across his forest, and the dead wood is cut for cheap charcoal. [[being-brnksksrns|Branakis Kaseranis]] will not make poor charcoal for any price, and the buyers who undercut him want the Order's knight to find him in breach of the estate's rules. The prior's forester has marked a stand for felling whose leaves are the wrong color, and nobody will tell the prior.
+
 ## Where a Party Lodges
 
 The carters' bunkhouse stands beside the timber yard, a long hut of unpeeled logs with a fire at each end, and takes any traveller who will sleep among teamsters and share the pot. There is no inn. A party with silver asks the forester, who keeps a spare loft over the tool store and charges by the weight of the coin.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The best char.** [[being-brnksksrns|Branakis Kaseranis]] will not make poor charcoal for any price, and the buyers who undercut him now want the Order's knight to find him in breach of the estate's rules. Someone must prove his clamps are sound before the next court sits.
 - **The apprentice who asks too much.** A pleasant youth has attached himself to the charcoal grounds, asking the burners how they judge a clamp's heat. The burners think he is learning the trade, and Branakis thinks otherwise.

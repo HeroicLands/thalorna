@@ -46,6 +46,10 @@ The dead stands are cut for charcoal, because dead wood burns as well as any, an
 
 The forest feeds the kingdom by way of the empire. Charcoal is the greatest trade, and every smithy and furnace in Hilen buys it. Timber, pitch, potash, honey and wax, and the woodcrafters' carved and turned work go down the imperial road to Ashenmere, and grain, wine, oil, salt and cloth come up, because the uplands grow little wheat. Every price in the kingdom is a weight of silver, and every load is weighed at a temple scale. The coin is the empire's, taken by weight; paper notes are not taken at all.
 
+## Current Situation {#present}
+
+The forest is dying, and the kingdom quarrels over why. The temples order penance where the Withering appears and raise the village's dues for the year. The lay barons, [[being-ardmsvlthmn|Ardemos Velthamen]] loudest, blame the priors who sell whole valleys to the contract crews, and the priors, [[being-mlknssrvths|Melkanas Sarvothis]] first among them, go on selling. The [[affiliation-blackflame|Black Flame]] calls the Withering a sign against the Order, and the woodsmen fear something older. Dead stands burn as well as live ones, so the price of charcoal at Ashenmere has fallen, and the old burners who cut only chosen timber are losing their buyers to young crews. In the holy city the high priesthood moves to judge the king ([[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]]).
+
 ## Settlements
 
 The holy city of Nartun is the kingdom's one city. Its other people live in temple villages, lumber settlements and woodcrafters' villages of a few hundred each, in the halls and hamlets of the barons, and in market villages where the forest roads cross.
@@ -58,6 +62,11 @@ The holy city of Nartun is the kingdom's one city. Its other people live in temp
 
 [[place-dremenna|Dremenna]] (~300)
 : a woodcrafters' village, home of the Damates carvers.
+
+## Hooks {#hooks}
+
+- **The penance.** A prior has ordered a village's dues raised for the Withering in its stand, and its headman wants a party to show the prior that the stand was cut by his own contract crew the winter before.
+- **The cheap char.** The old burners of [[place-kalderenna|Kalderenna]] want proof that the dead-wood charcoal their rivals sell is worse than theirs.
 
 ## See Also
 

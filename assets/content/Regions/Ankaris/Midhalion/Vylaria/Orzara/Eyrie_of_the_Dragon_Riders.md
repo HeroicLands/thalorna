@@ -14,6 +14,10 @@ The Eyrie of the Dragon Riders is a set of galleries cut into the rock under the
 
 Nobody who is allowed to talk about the Eyrie has been inside it. A palace steward who takes new servants on their first walk round the terraces stops them at a railing and points down: "That door is the Eyrie. You will never be sent to it, you will never carry anything to it, and if anybody asks you about it, you have never seen it. The guardsmen at the door do not answer questions, and they do not like being asked them."
 
+## Layers {#history}
+
+The [Dragon Riders]{.name data-type="affiliation"} of the Republic were quartered in the galleries under Arvel for nearly three centuries. About 45 BF the Republic refused to renew its lease with the dragons, disbanded the Riders and sealed the Eyrie under its chancery's seal ([[lore-ridersdisb|The Lease Refused]]). The first Orzas walled the crown of the hill above it, the [[place-palvar|Palvar]] rose on the rock, and the Sorvan has stood at the door since.
+
 ## The Door
 
 The Eyrie has one door that anyone can point to. It is set in the north face of the hill, inside the ring of the [Inner Wall]{.name data-type="place/structure"} of [[place-arvon|Inner City]] and below the palace terraces, at the end of a short paved court that nothing else opens onto. It is a plain round-headed arch cut in the living rock, a little higher than a tall man and wide enough for two to pass, closed by two leaves of bronze gone dark green with age. A band of lead runs across the join of the leaves, stamped with the seal of the Republic's chancery, and the seal is whole.
@@ -31,11 +35,13 @@ The city has had nearly eight centuries to make up stories about the hill, and i
 - **The wrong size.** The Helionite academies cite the Eyrie in their argument that there were never any dragons: the door is a man's door, and the vent is a man's vent, and nothing with wings goes through either. Their scholars put the point in print, and a few have come to Orzara to measure the door from the court's mouth.
 - **The drakes.** The countryside of the [[lore-aelendnppl|Áelendan People]] holds that the mounts were great mountain drakes that men called dragons, and that the Eyrie was a stable for drakes. Its tellers have never seen the door.
 
-## Who Wants In
+## Who Wants In {#present}
 
 The Sorvan keeps the door, and does not say on whose order. [[affiliation-ordoarcanis|The Order]] has never asked to open it, and its masters change the subject when it is raised. Antiquaries of [[affiliation-panepistmm|The Academy]] petition the palace every few years for leave to enter, and the petitions are received, acknowledged and filed. A few families in the provinces claim descent from the Riders and keep a name, a ring or a piece of harness that they say came out of the hill before it was shut.
 
-## Trouble Under the Hill
+This year a Helionite scholar has leave to measure the door for a book that will say there were never any dragons, and a chamberlain of the palace who wants no foreigner writing about the hill has asked the Sorvan to see that he never finishes. A guardsman of the door-post is deep in debt to a moneylender of the Danvar.
+
+## Trouble Under the Hill {#hooks}
 
 - **The night's lease.** A guardsman of the door-post, deep in debt to a moneylender of [[affiliation-danvar|The Bankers' Guild]], offers to sell a party one night inside the court and the loan of his key to the outer bar. He does not have a key to the seal, and he does not mention it.
 - **The broken seal.** The officer of the watch finds a hairline crack in the lead band across the door one morning, beside a stamp that is still unbroken. He must decide whether to report it, to whom, and what it means if somebody on the other side made it.

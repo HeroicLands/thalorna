@@ -36,11 +36,15 @@ It was Pirkelos who first encouraged Azendas to take up healing, and when the Te
 
 Milanthos is a village of the province with no charter of its own. Its taxes are collected by the revenue's men from Tirellan at the end of the harvest, its roads are the _pozerus_'s, and its quarrels go to Pirkelos and the heads of the oldest families, who sit on the bench under the lime tree. The village's militia is a list of every man who can carry a spear, kept by Pirkelos, and it musters at the Blockhouse when the smoke from the ridge says a war-band is out.
 
+## The Failing or the Quarrel {#present}
+
+The temple and the revenue both think Milanthos gives too little. Its harvest receipts to the temple of [[affiliation-lizelas|Lizelas]] at Tirellan are the smallest on the circuit, and an auditor of the revenue is riding out to learn why. Pirkelos, the elder, would rather she did not visit the Blockhouse. A blight has come into the barley on the upper strips that the priest's blessing has not stopped, and some of the farmers whisper that the goddess has turned from [[being-azendsdmtr|Azendas Damator]]. The militia has eighteen men fit to carry a spear when the smoke calls them out.
+
 ## Where a Party Lodges
 
 Milanthos has no inn. A party is lodged by Pirkelos in the upper room of the Blockhouse, or by a family whose barn has space, and pays in coin, work or news from the road.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The auditor's visit.** An auditor of the revenue has come to Tirellan to learn why the temple's harvest receipts from the circuit are so small, and she is riding out to Milanthos next. Pirkelos wants a party to keep her company on the road, and to keep her from the Blockhouse.
 - **The blight.** A blight has appeared in the barley on the upper strips, and the priest's blessing has not stopped it. Some of the farmers whisper that Lizelas has turned from him. Azendas asks a party to carry a sample of the blighted grain to someone who knows more than he does.

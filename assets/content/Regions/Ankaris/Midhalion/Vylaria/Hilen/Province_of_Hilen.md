@@ -102,9 +102,24 @@ Trouble in Hilen is trouble over land: estate and inheritance disputes, tenant g
 
 What is abundant is food, wine and labor. What is scarce is hard coin, news, and anyone who welcomes change.
 
+## Current Situation {#present}
+
+The province is governed by an outsider and run by its houses. The _therkos_ (governor) at [[place-aravantia|Aravantara]], Linthimas Orvelis, is the first in a generation with no estate in Hilen, and the masters of the great houses settle among themselves what they will ask of him before his audience opens. Four things press on them now.
+
+- **The succession.** The old Orzas, [[being-zrmlshlrkls|Zarmelas Helarkales]], has adopted nobody, and the capital lives on Hilen's grain. Every master remembers that the one battle legion fought against legion was fought on a Hilen estate. [[affiliation-mardovanes|House Mardovanes]], the Grain House of [[being-nthrsmrdvns|Nethoras Mardovanes]], is marrying his daughter to the heir of [[affiliation-ganothandis|House Ganothandis]]'s Olkassa estate, and the man the court expects to be named is a Mardovanes kinsman.
+- **The land.** The estates buy out the free farmers at the [[place-messora|Messora]] settling and carry their tenants' debts from year to year. The crown's paling at [[place-cervalia|Kervalara]] takes tenant fields for the deer, and this year several villages refused to beat for the court's hunt.
+- **The tax.** [[being-ylzmsmlvrts|Yalzemas Molvarates]], whose house farms the land tax a year at a time, offers the throne three years' silver now for a ten-year contract. The houses that sit in the Seldan argue against it, because a farmer who has paid ten years in advance collects ten years' worth.
+- **The march.** At [[place-ashenmere|Ashenmere]] the forge-shrine of the Sacred Forge and the chapel of Nartun's knights face each other across the border stream, Nartunese priests come down to preach on the estates, and tenant households on the march have left their cottages in the night with nothing taken.
+
 ## Commerce and Currency
 
 The Province of Hilen uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Imperial taxation is administered by [[affiliation-tolvan|the Tolvan]] and revenues flow to [[affiliation-tarmex|the Tarmeks Orzan]]. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+
+## Hooks {#hooks}
+
+- **The audience.** Linthimas Orvelis believes the petitions he hears are agreed before they reach him, and wants a party with no house behind it at the tables of the Street of the Houses in [[place-aravantia|Aravantara]].
+- **The contract.** [[being-ylzmsmlvrts|Yalzemas Molvarates]] wants a party to carry her bid to the capital before the Seldan sits on it, and a house of the province wants the same party to arrive late.
+- **The beaters.** The head warden at [[place-cervalia|Kervalara]] is short of beaters for the court's hunt and pays a party to find out why the villages refused.
 
 ## See Also
 

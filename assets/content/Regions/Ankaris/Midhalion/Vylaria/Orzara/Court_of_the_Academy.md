@@ -24,7 +24,15 @@ The Ombalon's true treasure is the [[place-notralsevan|Notral Sevan]]—a deep a
 
 That the Ombalon and the Thordimalon share a single hill is no accident but a designed arrangement. The Arcane Order already works openly in the [[place-palvar|Palvar]], turning out the brilliant displays the throne wants seen; the Epistémion keeps its quiet inner seat in the Ombalon, turning the same proximity to the opposite use. The Order's marvels and the Academy's secrets are two faces of one strategy—knowledge as the ornament of power, and knowledge as the hoarded reserve of it. The warded calm of the Notral Sevan and the gleaming spectacle of the [[place-magngndorery|Grand Orrery]] (the Mechanical Court) are, in the end, the same instrument held by the same hand.
 
-### See Also
+## The Present {#present}
+
+The Ombalon answers the throne's questions, and this year the great houses bring theirs too. The precedents carried up to its scholars are the succession's: what an Orzas who dies having adopted nobody leaves behind, and which precedents bind his successor. Entry to the [[place-notralsevan|Notral Sevan]] is by the throne's leave alone, and with the Orzas failing the leave is his to give for a short while longer. The [[affiliation-ordoarcanis|Thordimalon]]'s wards stand on the same hill, and the Order argues within itself whether it should crown and uncrown.
+
+## Hooks {#hooks}
+
+- **The opinion.** A house wants a party to learn what the Ombalon's scholars have answered on the succession before the answer reaches the Seldan.
+
+## See Also
 
 - [[affiliation-panepistmm|Epistémion]]—the Academy of Knowledge whose ceremonial seat this is
 - [[place-arvon|Arvon]]—the Inner City that houses the Ombalon

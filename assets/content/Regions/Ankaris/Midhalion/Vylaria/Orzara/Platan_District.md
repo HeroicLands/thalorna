@@ -55,11 +55,15 @@ Above all of it, and apart from it, are the imperial tribunals in the [[affiliat
 - **A blade in the basilicas.** A knife is left with the doorkeeper and taken back on leaving. A blade found on a man inside a basilica costs a fine and a night in the Watch-house, and a blade found on a man in the Criminal Tribunal is a charge in that court.
 - **An unregistered pen.** A petition or sworn statement drafted by a scribe who is not registered with the Guild is void, and the scribe is fined and his materials seized. A counterfeit Guild seal is a capital crime before the Criminal Tribunal.
 
-## What the District Fears
+## History {#history}
 
-The Platan fears the noon proclamations. The district lives by announcing things, and three announcements bring the whole city to its Circle: a short dole, a proscription, and the death of an Orzas. The first is never far off, because the throne pays the dole with borrowed money. The reigning Orzas is old, and every clerk in the Hall of the Five knows that the day his death is read from the platforms the Circle of Árdavon fills with citizens waiting to hear who reigns, and the Watch-house shutters its windows. The district also fears fire in the Guild's hall, where the copies of the city's rolls are kept, and keeps a fire-watch on that roof all night.
+The first Orzas walled the crown of Arvel above the saddle and moved the Senate up to it ([[lore-eaglecityrse|The Raising of the Eagle City]]). Below the wall the Platan's courts, baths and platforms have spoken for the city since, and the Scribal Guild's central hall keeps the working copies of the city's rolls across the Circle from the Hall of the Five. The platforms have read every proscription and every Orzas's death the city has heard.
 
-## Hooks
+## What the District Fears {#present}
+
+The Platan fears the noon proclamations, and all three it dreads are close. A short dole is never far off, because the throne pays the dole with borrowed money. A proscription can be read from the platforms on any day the throne needs a house's property. The reigning Orzas, [[being-zrmlshlrkls|Zarmelas Helarkales]], is seventy-eight and failing, and every clerk in the Hall of the Five knows that the day his death is read the Circle of Árdavon fills with citizens waiting to hear who reigns, and the Watch-house shutters its windows. Lists are worth money before they are posted, and the Offices' clerks in their gray stoles lift cases out of the civic basilicas at the throne's word. The district keeps a fire-watch all night on the roof of the Guild's hall, where the copies of the rolls are kept.
+
+## Hooks {#hooks}
 
 - **The witness.** An advocate's case is called tomorrow, and his chief witness has not been seen since he went into the baths. The advocate pays a party to find him before the second hour.
 - **The early copy.** A scribe on the Guild's steps is offered ten Soldeni to make a copy of a list before it is posted on the platform boards. He wants a party to learn what the list is before he decides.

@@ -36,11 +36,15 @@ The furnace-men work in crews of six, in shifts that keep a furnace burning for 
 
 Stennvold is chartered under the province, with two _tavemoi_ (magistrates) and a council of _kurthaloi_ (councilors), and the smelt-masters fill the council. A clerk of the _karezos_ (revenue officer) keeps an office at the counting-house to weigh the metal before it leaves, and twenty of the _therkos_'s auxiliaries keep the road. The first of the smelt-masters, a broad, slow-spoken man named [Thalrith]{.name data-type="being/npc"} who owns three furnaces, is the town's voice to Tirellan, and a dispute between crews goes to him before it goes to a magistrate.
 
+## The Present {#present}
+
+The furnaces must keep burning for the convoy, and the town is burying children. Three of the furnace crews' children died this winter of the cough the old women call the smelter's breath, and a crew's mother believes a rival kindred has cursed them. A smelt-master has let one of his furnaces go cold and will not say why, and the province's buyer wants it lit before the next convoy. The charcoal-burners on the slopes have been robbed three times this season, and the smelt-masters are short of fuel.
+
 ## Where a Party Lodges
 
 The [Bellows]{.name data-type="place/structure"} is the inn at the upper end of the street, above the haze on most days, where the buyers from Tirellan stay. It brings its water down from a spring above the town in a covered pipe, and it charges for that.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The cough.** The children of the furnace crews have a cough every winter that the old women call the smelter's breath, and this winter three have died of it. A crew's mother, who believes it is a curse laid by a rival kindred, asks a party to find the curse and break it.
 - **The cold furnace.** A smelt-master has let one of his furnaces go cold and will not say why, and the province's buyer at the counting-house wants it lit again before the next convoy. He hires a party to learn what is wrong.

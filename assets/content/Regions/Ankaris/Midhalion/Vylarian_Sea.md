@@ -56,6 +56,10 @@ Several smaller powers matter locally. Foremost is the [[affiliation-mtrrchybth|
 
 **Piracy is endemic.** Some pirate fleets belong openly to petty lords of uncontested islands. Others are the thinly disguised arms of major states, and the Bethuan privateers who sail against Vylarian shipping under the crown's **[[affiliation-bethuanflt|Purple Warrant]]** are the type of them, private enterprise and state policy in one hull. Still others are independent raiders who take the shipping of anyone who cannot afford to buy them off. The great powers spend continuous effort on suppression with uneven results: when the navies are busy elsewhere, piracy swells until it disrupts trade, and when they turn back to it, the pirates scatter into the islands and wait.
 
+## Current Situation {#present}
+
+The eastern sea belongs to the Taruzelian fleet, and the Vylarian navy cannot pay to take it back. The admiral at [[place-castamar|Kastamar]] wants the war resumed while half his warships lie laid up for want of crews. At [[place-yamuzel2|Yamuzel]] the Taruzelian admiral [[being-dlzrtndn|Delzuru Tanaduni]] presses the Grand Council for a toll on every hull through the narrows, and the foreign masters in the roads resist it. Bethuan privateers sail against Vylarian shipping under the [[affiliation-bethuanflt|Purple Warrant]]. The grain that feeds Orzara comes down the [[place-vylarisrvr|River Vylaris]] from Hilen and across the sea from the Khelathi delta.
+
 ## Trade
 
 Nearly every commodity in Thalorna that travels any real distance crosses the Vylarian Sea at some point: [Vylarian Steel]{.name data-type="miscgear"} and wine, Helionite olive oil and philosophical manuscripts, Taruzelian spices and textiles, Provenzian art and luxuries, Tarvenan grain, Khelathi papyrus, grain and gold, Okhárian bronze and worked metal, Bethuan textiles and leather, and the far-eastern silk, porcelain, tea and jade that arrive through Taruzelian and Bizarian middlemen.
@@ -73,6 +77,11 @@ No single faith governs the sea:
 - The matriarchal religion of Bethua holds the central southern shore.
 
 Sailors are practical polytheists. They honor whichever god of the sea seems likeliest to be paying attention to the water they are on.
+
+## Hooks {#hooks}
+
+- **The toll.** A Delalara shipping house wants a party aboard its next eastbound hull to learn what [[being-dlzrtndn|Delzuru Tanaduni]]'s toll would cost before the Grand Council votes it.
+- **The privateer.** A Salkalon merchant's ship has been taken under the Purple Warrant, and her owner wants her crew ransomed before they reach a Bethuan port.
 
 ## See Also
 

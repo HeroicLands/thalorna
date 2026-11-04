@@ -40,11 +40,15 @@ Thremuzara is a chartered town under the [[affiliation-provincvld|Province of Sa
 
 Each family keeps order on its own pans, with stewards, overseers and watchmen, and a raker who steals salt is beaten by the overseer and dismissed. A quarrel between villages over the curing-houses goes to the _tavemoi_. The province's cohort is never seen here, and the town's council prefers it so.
 
+## The Present {#present}
+
+The pan families hold the coast's salt and mean to keep it. Doranda Brazemen sets the price each spring, and a lesser village has begun selling its fish to a Delalara house that brings its own salt by sea, which the five families want stopped. The tax-farmer's clerk has found a heap that is salt outside and clay inside. A raker who ran from the Brazemen pans in the spring is posted as a runaway slave and swears he was born free.
+
 ## Where a Party Lodges
 
 The [Salt Barrel]{.name data-type="place/structure"}, by the harbor, is where the village boatmen drink while their catch is weighed, and it has four rooms upstairs for factors' agents and the clerk who counts the heaps. A party with business with one of the families is lodged in that family's house, and is shown the pans from the tower whether or not it asks.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The tall heap.** The tax-farmer's clerk has found a heap that is salt on the outside and clay inside. He wants a party to learn which family built it, quietly, so that he can be paid to forget it.
 - **The village that sold elsewhere.** One of the lesser villages has begun selling its fish to a Delalara house that brings its own salt by sea. The pan families want the house's salt-ship stopped, and the village wants protection from the pan families.

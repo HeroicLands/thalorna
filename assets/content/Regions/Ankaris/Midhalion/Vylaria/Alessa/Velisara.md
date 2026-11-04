@@ -42,11 +42,15 @@ The second is in the old quarter, east of the forums, where the [Temple of the B
 
 Velisara is a chartered town under the Province of Alessa, with two _tavemoi_ elected each year and a council of _kurthaloi_ answerable in their own persons for the city's taxes. The council's seats belong by long habit to the city's old families, who keep the patrician forms at every meeting and pay for the upkeep of the forums out of their own purses, as their ancestors did when the city could afford them. The city watch keeps the streets. The Order's precinct is under the Order's own law, and a quarrel that touches one of its members goes to the chapter's council, not to the _tavemoi_; the Sekran's office answers to nobody in the city at all.
 
+## Politics {#present}
+
+Velisara keeps its forms and cannot pay for them. The old families hold the council and pay for the forums from their own purses, and a builder's crew from Orzara has come at night with a wagon and a crane to the north end of the Old Forum, where the watch has been told to let it work. The Temple of [[affiliation-blackflame|the Black Flame]] is the largest in the province and takes acolytes from the grain families of [[place-belekos|Belekos]], one of whom will not come home. A courier from the capital carries sealed offers to Kalestratos Zarkedis at the Order's chapter. The [[affiliation-sekran|Sekran]]'s office answers to nobody in the city.
+
 ## Where a Party Lodges
 
 The inns of Velisara are on the forum's south side, in buildings that were the guildhalls of trades the city no longer has, and their rooms are large, cold and cheap. Scholars visiting the chapterhouse lodge in the lanes behind it, where widows of the old families let rooms to them, and a party that comes to see the fence is directed to the same lanes. The innkeepers of the forum add a warning for strangers who ask the way to the Fenced Ground: the Order's patrol turns travelers back once and does not ask twice.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The carried offer.** A courier from the capital asks a party to carry a written offer to Kalestratos Zarkedis at the chapter, sealed, and to bring back his answer unopened.
 - **The new acolyte.** A grain family of [[place-belekos|Belekos]] hires a party to bring their daughter home from the Temple of the Black Flame. She does not want to come.

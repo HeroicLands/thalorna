@@ -36,11 +36,15 @@ Edrenburg's taverns are where a con man finds marks and a merchant finds dice, a
 
 Two authorities share the town, and each keeps to its side of the road. The Varokh town is governed as a Varokh village is, by its elders in the hall on the green, and its quarrels are settled there. The garrison's commander, a _Hundar_ (centurion) of the legion at [[place-dolvar|Dolvar]], keeps the road, the market and the fort, and he judges anything that happens on the road or involves a Vylarian. The province counts Edrenburg a town under the _therkos_ and takes its market dues through the commander's clerk. A theft in the market goes to the commander, a theft inside the hedge goes to the elders, and a thief who runs from one side to the other has to be argued over.
 
+## The Present {#present}
+
+The hedge is the town's quarrel. The garrison's commander wants a gate cut through it for his patrols, the elders of the Varokh side refuse, and each would like the _therkos_ at [[place-tyrellan|Tirellan]] to hear its case first. The garrison's clerk shows strangers a good description of Vandarik, a dice-cheat now in the forest with an outlaw band, and the reward on him is larger than a cheat is worth. A Varokh trader who came out to the market every month has missed two, and his partner in the town is worried.
+
 ## Where a Party Lodges
 
 The [Hedge Gap]{.name data-type="place/structure"} is the inn at the north end of the market, the last roof before the forest, and its dice-table is the one Vandarik is remembered at. It has beds for a dozen and a long table where traders of both peoples eat together. Inside the hedge a party lodges only as a guest of a household, and is fed at its hearth.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The warrant.** A party passing through is shown a description of Vandarik by the garrison's clerk and offered a reward for word of him. The description is good, and the reward is larger than a dice-cheat is worth.
 - **The trader who did not come out.** A Varokh trader who comes out of the forest to the market every month has missed two, and his partner in the town asks a party to go a day into the pines to his village and learn why.

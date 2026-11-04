@@ -40,11 +40,15 @@ The lodes belong to the province, and the lessees work them under a lease from t
 
 Order is the overseers'. A miner who steals from the ore-floor answers to his gang first and to his overseer second, and only a theft from the Silver Floor brings the _therkos_'s guard, which hangs the thief at the gate of the yard.
 
+## The Present {#present}
+
+Every power in Moktur wants the silver. The _therkos_'s share pays part of his auxiliaries, the lessees' share pays their lease, and the province's standing in the capital rests on what the convoys carry south. The Master Surveyor, Gurimis, decides where each gang may cut. A clerk of the _karezos_ finds that the two books of the Silver Floor have agreed to the ounce every month for three years, and does not believe honest clerks could manage it. A muleteer of the silver escort is missing on the Stennvold road, and his mule came down alone with its panniers sealed. One gang has broken into an old gallery the screechbats hold.
+
 ## Where a Party Lodges
 
 The town has one inn fit for a stranger, the [Lamp]{.name data-type="place/structure"}, on the lowest terrace beside the ore road, where the muleteers sleep. It is smoky, the water tastes of iron, and its keeper rents out mine lamps and ear-wax to anyone with business in the old galleries.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The old level.** A gang has broken through into a worked-out gallery the screechbats hold, and the overseer wants the bats driven out so the gang can work it. He offers a party a share of whatever the old level yields.
 - **The second book.** A clerk of the _karezos_ has found that the two books of the Silver Floor agree to the ounce every month for three years. He thinks that no two honest clerks could manage it, and he wants a party to watch the next weighing.

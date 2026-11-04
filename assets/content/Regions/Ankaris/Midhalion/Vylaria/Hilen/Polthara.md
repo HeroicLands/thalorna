@@ -42,11 +42,15 @@ Polthara is a chartered town under the [[affiliation-provnchyln|Province of Hile
 
 The present senior _tavemos_ is [Brazemos]{.name data-type="being/npc"}, a dealer in estate goods who has been elected seven years running and who knows every steward in the district by his mark. The market has its own watch of a dozen men, paid from the fees. Outside the town, on the roads through the wooded margins of the district, the stewards travel home in company, because bandits know when the market closes.
 
+## The Present {#present}
+
+Polthara sells a clean title, and the register's honor is the town's whole fortune. A buyer in the capital is being sued for a silver service he bought here, and the register's page for that day is gone. The bandits of the wooded margins know when the market closes, and the stewards ride home in company. Lord [[being-lrdmlnvsbr|Aimilon Visbari]] of the [[affiliation-imprlhrlds|Imperial College of Heralds]] keeps his school a mile up the north road, and his pupils read every steward's board in the square, so the old herald knows which house sells what in the district before its master does. Brazemos, senior _tavemos_ for seven years, seals the copies and settles the disputes.
+
 ## Where a Party Lodges
 
 The inns of Polthara line the road into the square and are full the night before a market and the night of it, and nearly empty between. The [Steward's Rest]{.name data-type="place/structure"}, nearest the Register House, is where the stewards sleep and where the buyers dine with them. The cheaper inns further out are cleaner than they need to be, and their keepers are glad of a party willing to stay a week, since a week holds only one market.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The road home.** A steward robbed on the road home from the market lost his master's coin and his wagon, and he asks a party to ride with him next market day, in case the bandits come back for the rest.
 - **The torn page.** A buyer in the capital has been sued for a silver service he bought at Polthara, and when his agent goes to the Register House for proof, the page is gone. The buyer hires a party to find the clerk who kept that day's register.

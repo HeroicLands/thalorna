@@ -42,7 +42,11 @@ The rest of the Mouths silts as it pleases. The largest of the other channels is
 
 The side channels are also the oldest smuggling road on the coast. A cargo landed from a small boat in the reeds and carried inland by night pays neither Elissara's dues nor the imperial customs, and the boatmen of [[place-tholkezora|Tholkezora]] know the channels better than the customs men do.
 
-## Trouble on the River
+## Converging Interests {#present}
+
+The river carries the capital's bread, and the capital has about a week of it in store. Every barge of Hilen grain that lies aground or waits at a landing raises the price on the River Circle, and the grain houses, the brokers, the boatmen's fraternities and the customs all read the water differently. This season the river is low. A string of eight grain barges is aground on the shoals above the capital while the state granaries are at their lowest, the grain houses want it dragged over, and a broker in the capital pays better to have it left. On the lower towpath someone is laming the ox teams of one fraternity by night. At the mouth, where the chartered city of [[place-aelissium|Elissara]] passes the capital's cargoes upriver, a customs officer of Salkalon has seized a skiff of Taruzelian silk in the Reed Mouth.
+
+## Trouble on the River {#hooks}
 
 - **Low water.** A string of eight grain barges is aground on the shoals above the capital while the state granaries in the capital are at their lowest. The grain houses want it dragged over; a broker in the capital wants it left where it is, and pays better.
 - **The towpath.** Ox teams are being lamed on a stretch of the lower towpath between two inns, always at night and always the teams of the same fraternity. The fraternity's elder wants to know who is doing it before his men settle it themselves.

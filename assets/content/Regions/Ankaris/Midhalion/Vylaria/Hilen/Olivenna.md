@@ -40,11 +40,15 @@ Olivenna is a chartered town under the [[affiliation-provnchyln|Province of Hile
 
 The families keep their own order. Each press-house has its overseers, its pressing gangs and its watchmen, and the watchmen walk the grove walls at night in the weeks before the harvest. A thief of olives taken in the groves is brought to the press-house whose mark is on the gate, and the overseer decides whether the _tavemoi_ hear of him.
 
+## The Present {#present}
+
+The five press families quarrel over their seal and their tenants. Amphorae with Olivenna stoppers are selling in the capital full of other oil, each family suspects another, and the council is looking for whose stamp was copied. A grove tenant lost his tenancy for carrying his olives to another house's press after his own refused them. A well-spoken man from the capital goes from press-house to press-house asking after a hand of fifty or so taken on since last winter, and the families answer him politely and tell him nothing.
+
 ## Where a Party Lodges
 
 The [Lamp]{.name data-type="place/structure"}, on the square, is the town's inn for merchants and travelers, and it lights every room with the heavy oil of the last pressing, which smokes. The merchants' agents who come in for the season rent rooms over the press-houses. In the pressing season a party willing to work can be taken on at any press-house for the winter, fed and given a bed in the loft over the mill, and the families ask few questions of a hand who can lift his share of the mats.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The stranger at the presses.** A well-spoken man from the capital goes from press-house to press-house asking whether any family has taken on a hand of fifty or so, with soft hands and good teeth, since last winter. He offers a party a share of something large to help him look.
 - **The broken seal.** Amphorae with Olivenna stoppers are being sold in the capital full of oil from somewhere else, and the five families each suspect another. The council hires a party to find whose stamp was copied.

@@ -62,13 +62,21 @@ Tirellan is also a chartered town, with two _tavemoi_ (magistrates) elected each
 
 Order in the streets rests on the towers. A shopkeeper robbed in the night goes in the morning to the tower at the head of his street, and the border lord whose men sleep in it sends them to find the thief, because a lord whose street is not safe loses its rents and its custom. A quarrel between two towers goes to the _tavemoi_, and one between two lords goes to the _therkos_'s audience. The watch keeps the gates, the forum and the market. An auxiliary in trouble belongs to the _therkos_ alone: the town's benches do not try his riders, and nobody in Tirellan has asked them to.
 
+## Politics {#present}
+
+Tirellan is the province in small, governed by a man the capital neither commands nor replaces. Tholmaras Nelamen pays his riders on the day, keeps the posting-road with his own officers, and holds the frontier quiet, and the city counts that as loyalty. The legion at [[place-dolvar|Dolvar]] is paid when the treasury's coin arrives. Letters from the south reach the city in eleven days and answers take thirty to come back, and a cloth merchant of the capital wants to know where his wait. A clerk of the [[affiliation-imperialoffices|Imperial Offices]] has come up to measure the road and write down where its milestones stand, and the _pozerus_ is courteous to him. In the forum the border lords watch one another at the state's offerings, and someone leaves wine and red cloth in the Eagle Shrine by night for the cashiered Fourth.
+
 ## Where a Party Lodges
 
 The inns of the North Gate take soldiers, couriers and anyone going up to the frontier. The best of them is the [Counted Smoke]{.name data-type="place/structure"}, whose host is a veteran of the towers and keeps a slate by the fire on which the evening's smoke from the ridge is chalked, so that a guest knows before supper whether the road north is open. Its rooms are clean and cold, and its stable is good.
 
 The carters' inns outside the South Gate are cheaper, emptier and closer to the Wool Hall, and in the weeks of the wool fair every bed in them is taken. Inside the wall, a party carrying a letter to a border lord lodges in his tower as a guest, eats at his table with his men, and goes nowhere in the city without a man of his household beside it. The lord means it as courtesy, and it is also how he learns what his guests do.
 
-## Hooks
+## History {#history}
+
+The Keep was a legion's camp when the empire first came north, and the city grew around it on the spur where the two rivers meet. The hunger raids stripped the valleys, threw the road's milestones into the ditches and burned the Fourth's camp. A legion won the Fourth's eagle back out of the reeds at [[lore-blackmarshbtl|the Battle of the Black Marsh]] in 520, the Fourth's name was struck from the roll that year, and its eagle went into the shrine off the forum. When the road was measured again the milestones were recut to count the miles to Tirellan. Through the long decline the imperial road south of the province has fallen into patches and timber, and the southern merchants who once filled the inns of the South Gate come rarely. Tholmaras Nelamen was given the province eleven years ago from command of a frontier cohort.
+
+## Hooks {#hooks}
 
 - **The pay chest.** The month's coin for the auxiliaries comes down from Korras under the _therkos_'s guard, and this month the guard is needed against a war-band on the march. The _tarkelos_ hires a party to bring the chest to the Keep by the first of the month, because the riders are paid on that day and have never once been paid late.
 - **The offering at the shrine.** Someone has been leaving offerings in the Eagle Shrine by night: a cup of wine and a strip of red cloth, the old color of the Fourth. The keeper of the shrine wants to know who. The families of the Fourth's cashiered officers, whose names went off the roll with the legion's, want the offerings left alone.

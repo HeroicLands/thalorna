@@ -98,7 +98,18 @@ The Vylarian Empire is a great power living on the reputation of a greater one. 
 
 The freedman secretary of a senatorial house, briefing a newly accredited envoy before his first audience in [[place-orzara|Orzara]], begins with the titles: "You will hear the Emperor called the **Orzas**, and you will call him that too. You will hear [[affiliation-seldan|Seldan]], the Senate, debate as if it governed, and you will listen as if it did. And you will hear the provinces named that have not paid a tax here in a lifetime. Do not correct anyone. Here the forms are the government, and a man who laughs at them has told the whole court which side he is on."
 
-## History
+## Current Situation {#present}
+
+The empire is a knot of debt with a succession for its fuse. The throne pays the veterans' pension with borrowed money, rolls the loans over each quarter and puts nothing by, the capital's granaries hold about a week, and the old Orzas, [[being-zrmlshlrkls|Zarmelas Helarkales]], seventy-eight and failing, has adopted nobody. Every party to the knot takes what it can from an empire it cannot afford to see broken, each sure that the others will hold the line.
+
+- **The lenders.** The great houses of [[affiliation-danvar|the Danvar]] hold the throne's paper, and [[being-amrzvlds|Amarza Veldis]], whose house holds more of it than any other, asks a price at every rollover: auditors out of the chapter books, the fee cut, an heir who owes the house. The Imperial _Tarkelos_, [[being-drvnsrlln|Dorvanis Arelliani Septarius]], negotiates each rollover from the strongroom. The [[affiliation-tarmex|Tarmeks]] can lighten the Ardin only a little, because the lighter coin reaches the cookshops within the month.
+- **The outside money.** [[affiliation-empireakhlth|Au'Khelathu]], whose gold kept Taruzel's rebellion solvent, now offers the throne grain on credit and silver for its paper through its factor on Orzara's Strangers' Row, [[being-mthszrtml|Methisi Azeret'Mulu]]. The [[affiliation-byzarianlg|Bizarian League]] lends against the customs of [[place-aelissium|Elissara]] and collects them with its own clerks. The Seldan's hawks call every foreign loan a chain, and the treasury takes them.
+- **The throne's teeth.** The Orzas has no cash and keeps the power to proscribe a house and forfeit its property, to raise a house, and to sell what the throne can grant: offices, titles and Senate grants of citizenship. A creditor who presses too hard risks proscription.
+- **The succession.** The court names three men. The expected one is a kinsman of [[affiliation-mardovanes|House Mardovanes]], as Azénales was, the Seldan's and the Grain House's choice. The soldier is a legate of the legions, the Guard's favourite, and [[affiliation-sorvan|the Sorvan]] expects a donative from whoever is adopted. The old blood is a [[affiliation-varkalenis|Varkalenis]], poor and pious, who keeps the gods' masks.
+- **Taruzel.** The empire refuses to pay the war indemnity it owes the Confederation, and the war party in the Seldan and the officer corps wants a reconquest the treasury cannot pay for. A war for tribute against Helionis is debated and not begun, because every campaign mints pensioners.
+- **The faiths.** [[affiliation-blackflame|The Black Flame]] has patrons in the Seldan and preachers on the Circles, and its High Flame-Warden, [[being-trzmsbrkrts|Torzemos Brakarates]], has drafted a petition for the Forge-Lord's niche in the Temple of the Twelve. The [[affiliation-ordoarcanis|Thordimalon]]'s Traditionalists hold to the imperial tie, and its Reformers would make the Order a power that crowns and uncrowns.
+
+## History {#history}
 
 ### The Republic
 
@@ -230,7 +241,7 @@ The long shadow of empire defines Vylaria's dealings with its neighbors.
 - **[[affiliation-cnfdrtntrzlnstts|Taruzel]]** won its independence roughly twelve years ago, and relations remain tense: the empire has not forgotten the humiliation, and Taruzelian merchant guilds are pushing hard into markets the empire once dominated.
 - **[[place-helionis|Helionis]]**, once the empire's cultural jewel, keeps close and complicated ties. Vylaria conquered Helionis by arms, and Helionite culture conquered Vylaria in return: Vylarian education, philosophy, law and theology all carry deep Helionite influence, and the aristocracy still sends its children to Helionite academies even though imperial authority there survives only on paper.
 - **[[place-vrystwald|Vristwald]]** to the north is a chronic military problem, and Varokh raids a persistent nuisance.
-- **The [[affiliation-empireakhlth|Empire of Au'Khelathu]]** across the sea is the region's other great power. The two empires have fought wars, the worst of them [[lore-vylconquest|the Vylarian Conquest]] of 377 AF, and have largely settled into a wary balance, Au'Khelathu dominant in the south and Vylaria in the north.
+- **The [[affiliation-empireakhlth|Empire of Au'Khelathu]]** across the sea is the region's other great power. The two empires have fought wars, the worst of them [[lore-vylconquest|the Vylarian Conquest]] of 377 AF, and Au'Khelathu is dominant in the south and Vylaria in the north. Khelathi gold kept Taruzel's rebellion solvent, and Au'Khelathu now offers to lend to the throne it humbled.
 
 ## Notable Features
 
@@ -243,6 +254,12 @@ The Imperial Cult
 ## Commerce and Currency
 
 The empire uses the [[lore-vylrncrncy|Vylarian currency]] (Solden, Ardin and Ogdel) as its standard, with full access to the paper-script system through [[affiliation-danvar|the Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. [[affiliation-tolvan|The Tolvan]] administers imperial taxation, and the revenues flow to [[affiliation-tarmex|the Tarmeks Orzan]]. Those revenues and the tributes of the provinces and colonies fall short of what the throne spends, the veterans' pensions of the dole above all, and the Tarmeks borrows the difference from the Danvar's great houses. Vylaria's credit is excellent, and the loans are rolled over and the lenders repaid from new loans. Nothing is put by: a great fire or a famine can be met only by borrowing more, the interest on what the throne owes is a growing worry, and a single default would end the credit the whole arrangement rests on. The capital shows the world its processions and its games, and runs on money it has not yet repaid.
+
+## Hooks {#hooks}
+
+- **The rollover.** [[being-drvnsrlln|Dorvanis Arelliani Septarius]] needs a letter from the House of Veldis's chapter carried to the strongroom before the quarter's rollover, and another house wants to read it on the way.
+- **The factor's offer.** [[being-mthszrtml|Methisi Azeret'Mulu]] wants an answer from the Seldan on his grain, and the hawks who mean to refuse him want a party to learn what he has already promised.
+- **The claimant's household.** A household of one of the three men the court names hires a party to learn which great houses are lending on its rivals' hopes.
 
 ## See Also
 

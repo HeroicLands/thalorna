@@ -29,7 +29,11 @@ The old Senate hall stands on the crown of the hill, empty. The Seldan's clerks 
 - **Squatters**, in the abandoned houses on the lower slopes.
 - **[[affiliation-imprlscrblgld|The Scribal Guild]]**, which has asked the Seldan more than once for leave to search the old hall's cellars.
 
-## Hooks
+## Converging Interests {#present}
+
+The Old Hill is let by the room and asked about by the curious. The [[affiliation-imprlscrblgld|Scribal Guild]] has asked the Seldan more than once for leave to search the old Senate hall's cellars, which have not been opened in living memory, and the Seldan's clerks sweep the hall on the Republic's feast days and lock it again. Antiquarians are the hill's only steady custom. One is paying for a monument to be cleaned, and the family that owns the land under it objects. Squatters hold the abandoned houses on the lower slopes, and one of their children has brought a scribe a roll of Republican paper found under a floor.
+
+## Hooks {#hooks}
 
 - A squatter's child brings a scribe a roll of Republican paper found under a floor, and the Guild wants to know which floor.
 - An antiquarian is paying for a monument to be cleaned, and the family that owns the land under it has begun to object.

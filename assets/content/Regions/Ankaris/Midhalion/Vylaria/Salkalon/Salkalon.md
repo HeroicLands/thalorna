@@ -30,6 +30,10 @@ Maritime trade, shipbuilding and fishing drive Salkalon's economy. The imperial 
 - Cosmopolitan port cities with foreign merchant quarters
 - Naval bases maintaining the empire's remaining sea power
 
+## Current Situation {#present}
+
+The strait trade is Salkalon's living and its quarrel. The coast's merchants trade with Taruzel because they must, its factors live in [[place-mercavia|Delalara]] by yearly waiver, and the capital's war party calls the trade collaboration. At [[place-castamar|Kastamar]] the admiral who wants the war resumed cannot pay his oarsmen, who sell the admiralty's notes at half their face, and half his warships lie laid up for want of crews. The inland estates around [[place-terravia|Therkara]] speak for the war, and the fleet's victuallers pay them in the same notes. Across the strait the Taruzelian admiral [[being-dlzrtndn|Delzuru Tanaduni]] presses for a toll on every hull through the narrows, and every shipping house on the coast counts what it would cost.
+
 ## Settlements
 
 Geography sets Salkalon's pattern: two great cities and a working coast of fishing towns and villages, with quieter agrarian estate-country in the interior that feeds them.
@@ -65,6 +69,11 @@ Geography sets Salkalon's pattern: two great cities and a working coast of fishi
 
 [[place-kurzalora|Kurzalora]]
 : a coastal pilgrimage town.
+
+## Hooks {#hooks}
+
+- **The petition.** The shipping houses of [[place-mercavia|Delalara]] want their petition for a trade treaty carried to Orzara by hand, past the admirals' men at the gate.
+- **The notes.** The admiral at [[place-castamar|Kastamar]] wants to know who has been telling his oarsmen that the next quarter is not coming.
 
 ## See Also
 

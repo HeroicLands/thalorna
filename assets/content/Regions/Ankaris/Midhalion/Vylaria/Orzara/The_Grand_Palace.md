@@ -26,7 +26,16 @@ The Palvar is the one place in the Empire where the [[affiliation-ordoarcanis|Th
 
 For all that it is the Orzas's residence, the Palvar is also an instrument of government and a world unto itself, with its own staff numbering in the thousands—chamberlains, cooks, gardeners, scribes, body-servants, and the guards of [[affiliation-sorvan|the Sorvan]] who keep its halls. Whole wings are given to the imperial household, others to state ceremony, others to the machinery of audience and patronage through which the throne's favor is dispensed. Much of the real politics of the Empire happens not in [[affiliation-seldan|Seldan]] (the Senate) but in the antechambers of this palace, where access _is_ power and proximity to the imperial presence is the currency every courtier spends. To be granted the privy presence of the Orzas—a privilege perhaps six officeholders hold by right—is to stand at the true summit of the Vylarian world.
 
-### See Also
+## The Present {#present}
+
+The palace keeps a failing old man and the whole court's attention. [[being-zrmlshlrkls|Zarmelas Helarkales]], seventy-eight, has adopted nobody, and the court reads every audience he gives for a sign of whom he favors. He has no cash, and he sells offices, titles and grants. The [[place-magngndorery|Grand Orrery]] shows an eternal throne to the envoys whose masters lend to it, the League's agents and the Khelathi envoys among them. The guards of [[affiliation-sorvan|the Sorvan]] keep the halls and expect a donative from the next reign.
+
+## Hooks {#hooks}
+
+- **The audience.** A claimant's household wants a party in the antechamber when the Orzas receives a rival's, to report who stood nearest him.
+- **The noon showing.** A chamberlain wants a party to escort a League agent to the Orrery's noon showing of the eagle and keep him apart from the Khelathi envoy.
+
+## See Also
 
 [[place-arvon|Arvon]]
 : the Inner City crowned by the palace

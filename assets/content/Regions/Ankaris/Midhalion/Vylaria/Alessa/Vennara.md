@@ -40,11 +40,15 @@ Vennara is a chartered town under the [[affiliation-provinclys|Province of Aless
 
 This year one villa did not shut. The _therkos_ of Alessa, [Kaldremas Elthezis]{.name data-type="being/npc"}, keeps a house on the north hill, and he has stayed in it through the winter, which no great man does. Couriers come up from [[place-alyssar|Alessar]] and go down again sealed. His steward buys for the house in the town as though for a sickroom: broth, linen, lamp oil and the physician's wine. The town has noticed, and says so only among itself.
 
+## The Present {#present}
+
+One villa did not shut for the winter. The _therkos_ of Alessa, Kaldremas Elthezis, has stayed in his house on the north hill, couriers come up from [[place-alyssar|Alessar]] and go down sealed, and his steward buys broth, linen, lamp oil and the physician's wine as though for a sickroom. The town has noticed and says so only among itself. The summer's households come up from Orzara with the succession in their baggage, and a [[affiliation-varkalenis|Varkalenis]] cousin wants to know what the tax-farmer who leases the ancestral villa has done to its frescoes.
+
 ## Where a Party Lodges
 
 Vennara has one inn, on the fountain square, and in winter it has every room free. In summer it is full by the first heat, and a stranger finds a bed only by renting a room in a townsman's house, at a summer price, or by finding work in a villa's household, which is how most strangers in Vennara spend a summer. Strangers in winter are rare enough to be talked about by evening.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The household.** A villa's steward is short of staff for the summer and hires a party as guards and servants for a household whose guests, it turns out, have a great deal to hide from one another.
 - **The let villa.** A Varkalenis cousin hires a party to see what the tax-farmer has done to the ancestral villa's frescoes before the house's master hears it from anyone else.

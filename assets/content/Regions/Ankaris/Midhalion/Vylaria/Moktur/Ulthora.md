@@ -42,11 +42,15 @@ Ulthora is a chartered town with two _tavemoi_ (magistrates) and a council, and 
 
 Kezrora answers to the province, not to the town. Its warden, [Nethoren Melvarandis]{.name data-type="being/npc"}, is a _kurthos_'s cousin appointed by the court at Tirellan, who visits the prison once a month and lives in the town in the best house below the temple. Its gaoler, who runs it day to day and has for nearly twenty years, is [[being-xrphnklmkns|Zerofon Kalmakanes]], who came to it from the city watch of [[place-tyrellan|Tirellan]]. The prison holds the province's long-term prisoners, debtors to the revenue and men condemned to the mines who are too dangerous to send there. Its inner keep is held by [[affiliation-ordoarcanis|the Sekran]], the Arcane Inquisition of the Thordimalon, which keeps its prisoners for this part of the north there under its own seal. Zerofon keeps the keys to every door in Kezrora but the inner one.
 
+## Current Situation {#present}
+
+The shrines live on the pilgrims, and the prison on the crag lives on silence. The council of priests under the high priest of Brazemas must find the Varokh pilgrim's token taken from the Karnavos shrine before his kindred come to look for it. In Kezrora a guard is selling a letter smuggled out by a prisoner who claims to be held without trial, and the gaoler, [[being-xrphnklmkns|Zerofon Kalmakanes]], wants the guard named. The warden, Nethoren Melvarandis, visits once a month. The inner keep is the [[affiliation-ordoarcanis|Sekran]]'s, and Zerofon keeps the key to every door but that one.
+
 ## Where a Party Lodges
 
 The inns are on the Stair, one above the next, and the higher an inn stands the more it charges and the less it smells of the road. The [Lightning Bell]{.name data-type="place/structure"}, just below the temple terrace, is the best, with a balcony over the town. The [Antler]{.name data-type="place/structure"}, below the Karnavos shrine, takes the Varokh pilgrims, and its keeper speaks the forest tongue.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The token.** A Varokh pilgrim's token has been taken from the antlers at the Karnavos shrine, and his kindred hold that a stolen totem-token is a stolen bond. The priests want it found before the pilgrim's kinsmen come to look for it.
 - **The prisoner's letter.** A guard of Kezrora offers to sell a party a letter smuggled out of the prison, written by a prisoner who claims to be held without trial. Zerofon, who does not allow letters out, wants the guard named.

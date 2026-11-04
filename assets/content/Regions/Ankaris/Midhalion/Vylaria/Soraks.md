@@ -46,11 +46,15 @@ The Northern Bench is the province's, not the town's. Its judge is appointed fro
 
 Soraks keeps a handful of old families who measure themselves against one another and against what the town once was. The clearest example is [[affiliation-zarkedis|House Zarkedis]]. The house with the new shutters on the square is its seat in name only: the creditors sold it with everything in it, the masks in the cupboard by the door included, and the disgraced master of the house lives in two rented rooms behind the tannery. Its heir, [[being-klstrtsxrchds|Kalestratos Zarkedis]], is a [[affiliation-pirethos|Pirethos]] mage of the [[affiliation-ordoarcanis|Thordimalon]] at [[place-velysara|Velisara]], and the fall of his house is what he says when he is asked why he wants what he wants.
 
+## The Present {#present}
+
+Soraks pays a large city's assessment and sells its colonnades to meet it. Iltheros Gurimandis, the senior _tavemos_, signs every column sale himself and has spent his life trying to get the bridge mended. A villa-builder's agent and a second agent each hold a bill for the same twelve columns of the western portico, sealed a month apart. The registry's page naming the buyer of the [[affiliation-zarkedis|Zarkedis]] house at the creditors' sale has been cut from the book. An antiquary's monograph, drawn from a chancery docket of the Republic, is on order with the copyists of Alessar, and two men from the capital have come up the north road to ask him to withdraw it.
+
 ## Where a Party Lodges
 
 The [Last Mile]{.name data-type="place/structure"}, on the Bench Square opposite the court-house, is full of litigants and lets its rooms by the week, not the night. It is clean, slow and dear. The old post-house inns along the colonnade are shut, but the cookhouse by the gate lets a loft to travelers who arrive after the Last Mile has closed its door.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The column sold twice.** A villa-builder's agent has come up from Vennara with a bill of sale for twelve columns of the western portico, sealed by the council. A second agent holds a bill for the same twelve, sealed by the council a month later, and Iltheros Gurimandis's ledger shows one sale.
 - **The cut page.** The creditors' sale of the Zarkedis house was recorded in the registry, and the page that names the buyer has been cut from the book. The clerk who cut it still works behind the court-house.

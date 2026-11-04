@@ -105,9 +105,25 @@ Trouble in Salkalon is maritime: smuggling and customs-running (a [[place-tholke
 
 What is abundant is fish, ships, salt and foreign news. What is scarce is grain, which comes from the interior and from Hilen, and any love for the imperial tax-farmer.
 
+## Current Situation {#present}
+
+The province's three powers want different things from Taruzel, and none of them can afford its wish. The _therkos_ at [[place-mercavia|Delalara]], Korvathas Revothandis, was sent by a Senate that wanted Salkalon governed by a man with no ships of his own, and he receives the shipping houses and the admirals' officers on alternate days.
+
+- **The merchants** want a trade treaty with the Confederation. Their first voice, Ornetha Venthelis of the Venthelis shipping house, sends the houses' petition to the Senate each year, and last year's arrived a month late and opened. Taruzelian and Helionite factors live in Delalara by a yearly waiver that the _therkos_ renews, a fortnight late every time.
+- **The admiralty** at [[place-castamar|Kastamar]], under the _vormeks_ Tharkas Gurimandis, wants the war resumed and cannot pay for the fleet it has. Its oarsmen sell their notes at half face and drift away, half its warships lie laid up, and Bralvik's Boat-Bill is still unpaid after two centuries.
+- **The customs** are farmed. Solteras Tharozates bid more for the Delalara customs than any _tolar_ ever had, and a cargo can be chalked twice on the same quay.
+
+Behind them all the province's trade passes a strait where the Taruzelian admiral [[being-dlzrtndn|Delzuru Tanaduni]] presses for a toll on every hull. The capital calls the merchants collaborators and the treasury calls the admirals a cost, and the inland estates of [[place-terravia|Therkara]] take the admiralty's notes for their grain.
+
 ## Commerce and Currency
 
 The Province of Salkalon uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Imperial taxation is administered by [[affiliation-tolvan|the Tolvan]] and revenues flow to [[affiliation-tarmex|the Tarmeks Orzan]]. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+
+## Hooks {#hooks}
+
+- **The petition.** Ornetha Venthelis hires a party to carry the houses' treaty petition to Orzara rather than trust the post.
+- **The cask taxed twice.** A Hilen wine merchant charged the customs twice at [[place-mercavia|Delalara]] wants to know whose clerks took the second chalk.
+- **The empty quay.** A Delalara house offers to hire three of [[place-castamar|Kastamar]]'s laid-up warships with their crews, and the admiral refuses to lend the fleet to merchants.
 
 ## See Also
 

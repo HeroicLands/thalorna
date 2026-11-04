@@ -38,11 +38,15 @@ Tholkezora is a chartered town under the [[affiliation-provincvld|Province of Sa
 
 The town keeps its own order, and it keeps it hard. A crew settles its own quarrels at sea, and a captain is master of his boat under the old law of the coast. In the town a quarrel between crews goes to the captains in council, and a man who informs to the customs is put ashore on the far side of the neck and not let back. The tax-farmer's clerks come to Tholkezora in pairs and leave before dark.
 
+## The Present {#present}
+
+The customs press harder this year, and the captains push back. A new customs cutter with a captain who cannot be bought has taken two Tholkezora boats in a month, and the captains under Revothos Linthimis want her captain persuaded, warned or wrecked. A boat towed in a sea-beast with a Taruzelian harpoon in its back, and a Delalara factor wants to know how far out the boats go. The same factor's house has bought two smokehouses in the town and wants the use of a cave the captains will not give.
+
 ## Where a Party Lodges
 
 The [Lance]{.name data-type="place/structure"}, on the cove, is the town's only inn, and a stranger who takes a room there is asked his business by three people before supper. The rooms are clean, the oil-lamps burn bright, and the keeper's prices rise for anyone who asks too many questions about the caves. A party that comes with a captain's word is lodged in the captain's house instead, and is treated as one of his crew for as long as it stays.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The beast that came in.** A boat has towed in a sea-beast with a Taruzelian harpoon in its back, and nobody in the town will say where she found it. A factor of Delalara pays a party to find out how far out the Tholkezora boats are going.
 - **The cutter.** A new customs cutter has come to the coast with a captain who cannot be bought, and she has taken two Tholkezora boats in a month. The captains want her captain persuaded, warned or wrecked, and do not mind which.
