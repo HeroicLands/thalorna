@@ -10755,6 +10755,12 @@ data:
       instead: Sirethas
       why: "a name from Earth, for the River, a sign of the Iltheron"
     - {form: Opsar, instead: Ulfas, why: "a name from Earth, for the Fish, a sign of the Iltheron"}
+    - form: Kelvaris Sextian Octorius
+      instead: Kelvaris Solterates
+      why: "a name of an Earth tongue, for the Reformist Faction's Sodar Orzas"
+    - form: Zomeris Tertian Veranius
+      instead: Zomeris Kaldremis
+      why: "a name of an Earth tongue, for the Dukran of the Conservative Faction"
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"

@@ -77,7 +77,7 @@ The [Exodus]{.name data-type="lore/history"} narrative is dense, much-elaborated
 
 The route of the Exodus is by tradition divided into three legs.
 
-The **first leg** carried the Flame-born northeast out of Au'Khelathu, across the narrow desert that joins the [[place-nrthrnfrtlrgn|Northern Fertile Region]] to the southern coast of the [[place-vylarianse|Vylarian Sea]], and up the eastern shore of that sea, opposite the islands of [[place-taruzelrgn|Taruzel]]. The Taruzelian merchant-states of the time, recognizing both an opportunity and a moral obligation, shipped supplies across the strait and provisioned the host with grain, fresh water, and what Taruzelian chroniclers euphemistically call "discounted iron." Atarzád law to this day forbids raiding into Taruzel, and the [Teghumod]{.name data-type="affiliation/polity"} merchant-houses maintain especially scrupulous trading relationships with Taruzelian counterparts in continued recognition of the obligation.
+The **first leg** carried the Flame-born northeast out of Au'Khelathu, across the narrow desert that joins the [[place-nrthrnfrtlrgn|Northern Fertile Region]] to the southern coast of the [[place-vylarianse|Vylarian Sea]], and up the eastern shore of that sea, opposite the islands of [[place-taruzelrgn|Taruzel]]. That was a generation and more before the conquest, so more than a century ago, when Taruzel was still a Vylarian province. Its merchants, recognizing both an opportunity and a moral obligation, shipped supplies across the strait and provisioned the host with grain, fresh water, and what Taruzelian chroniclers euphemistically call "discounted iron." Atarzád law to this day forbids raiding into Taruzel, and the [Teghumod]{.name data-type="affiliation/polity"} merchant-houses maintain especially scrupulous trading relationships with Taruzelian counterparts in continued recognition of the obligation.
 
 The **second leg** carried the Flame-born east-and-north through the **Dunhari uplands**—the long traverse of the high Dunhari plateau that runs between the [[affiliation-kngdmmrdd|Kingdom]] (whose southern marches the Atarzád skirted with care) and the open [[place-dunharargn|Dunhari tribal interior]] to the south. The Dunhari sheikhs of the day were too occupied with their own internal feuds to oppose the migration; the Flame-born paid passage in temple-gold and proceeded.
 
@@ -158,7 +158,9 @@ The Atarzád fighting style is built around mounted archery, fast-moving cavalry
 
 To the **southwest**, the [[affiliation-kngdmmrdd|Kingdom of Amradad]] is the dominant Asháian-pantheon power and is, technically, the senior religious authority for all Asháian-faith peoples—the Shekhul of Ahurdaen's [Great Fire-Temple of Amradad]{.name data-type="place/structure"} is the formal head of the Ashaian priesthood. Relations are complicated by the fact that the Kingdom's official religion is the full pantheon (with Ahurdaen supreme) and the Atarzád consider this idolatry. Diplomatic intercourse is maintained—the Teghumod merchants would not tolerate its breakdown—but it is cool. The Kingdom considers the Atarzád to be schismatics whose elevation of Ataros to exclusive worship is a covenant violation against Ahurdaen; the Atarzád consider the Kingdom to be polytheistic apostates from the original revelation of Yotekhor. The Kingdom hosts the largest Tellumi exile community in the world, which it has consistently refused to extradite.
 
-To the **northwest**, the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] is a major trading partner. The Teghumod merchant-houses maintain offices in [[place-sanctara|Ulthora]] and [[place-alyssar|Alessar]], and Taruzelian bankers handle Atarzád commerce in the Vylarian Sea. Religious differences do not impede trade.
+To the **northwest**, the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] is a major trading partner, and Taruzelian bankers handle Atarzád commerce in the Vylarian Sea. Religious differences do not impede trade.
+
+Beyond Taruzel, in the [[affiliation-vylarinmpr|Vylarian Empire]], the Teghumod merchant-houses maintain offices in [[place-sanctara|Ulthora]] in Moktur and [[place-alyssar|Alessar]] in Alessa.
 
 To the **east**, beyond the waste, lie [[place-vedyarargn|Vedyara]] and (much further) [[place-tantsouregin|Tantsou]]. Contact is thin and through merchants; the Atarzád know of these distant civilizations but have little practical engagement with them.
 
@@ -220,7 +222,7 @@ The Atarzád live on the tolls of the caravan road where it enters Tellumel and 
 : the place of bondage
 
 [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
-: the people who provisioned the Exodus during its first leg
+: the land whose merchants provisioned the Exodus during its first leg
 
 [[lore-twelveywar|The Twelve Years]]
 : the Atarzád account of the war

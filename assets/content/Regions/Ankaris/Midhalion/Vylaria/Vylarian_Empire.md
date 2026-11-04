@@ -218,7 +218,7 @@ The [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]], an independent Vylari-s
 
 ## Military
 
-The [[affiliation-vylrnmltry|Vylarian legions]], once the most feared fighting force in Ankaris, are a shadow of what they were. The empire can still field disciplined, well-equipped armies, but they are stretched thin along borders it can no longer fully hold. Mercenaries, often Tarvenan or Nordmen, fill the gaps in the ranks, and their reliability varies.
+The [[affiliation-vylrnmltry|Vylarian legions]] are thin, and in disrepute since the war that lost Taruzel. Recruitment is down, the legions are stretched along borders the empire can no longer fully hold, and mercenary companies, often Tarvenan or Nordmen, fill the gaps in the ranks, with varying reliability. They are still the strongest army in the west: no nation of [[place-aureldirgn|Aureldia]] or Mídhalión can face a legion in the field. The provinces that broke away did so through mismanagement in the legions, fatigue in the empire and outside help, such as the gold Au'Khelathu gave Taruzel.
 
 The navy is still competent and holds key points in the [[place-vylarianse|Vylarian Sea]], but it too has declined. Taruzelian supremacy in the eastern sea is a fact Vylarian admirals prefer not to discuss.
 
