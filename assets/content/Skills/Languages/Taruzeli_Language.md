@@ -6,7 +6,7 @@ subType: language
 description: "The tongue of Taruzel's merchant guilds and sea-lanes, freighted with words for ledgers, tides, and every knot a sailor can tie."
 tags: []
 data:
-  roman: "abdeghijklmnpqrstuvyzáéíóúë0123456789()–-fo"
+  roman: "abdeghijklmnpqrstuvyzáéíóúëäü0123456789()–-fo"
   core: true
   abbreviation: Taruz.
   fields:
@@ -4436,12 +4436,12 @@ data:
       "gloss": "to unlock"
       "built": ["zattur-", "-am"]
       "concept": "unlock"
-    - "form": "shiu"
+    - "form": "shiü"
       "class": "adv"
       "field": "Everyday speech"
       "gloss": "Here"
       "concept": "here"
-    - "form": "shia"
+    - "form": "shiä"
       "class": "adv"
       "field": "Everyday speech"
       "gloss": "there"
@@ -4453,12 +4453,12 @@ data:
       "concept": ["somewhere", "somewhat"]
       "built": ["be", "besh"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "zu shiu"
+    - "form": "zu shiü"
       "class": "adv"
       "field": "Everyday speech"
       "gloss": "nowhere"
       "concept": "nowhere"
-      "built": ["zu", "shiu"]
+      "built": ["zu", "shiü"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
     - "form": "be bash"
       "class": "adv"
@@ -5155,7 +5155,7 @@ data:
       "field": "Everyday speech"
       "gloss": "How many (question)"
       "concept": "question-how-many"
-    - "form": "shiash"
+    - "form": "shiäsh"
       "class": "part"
       "field": "Everyday speech"
       "gloss": "How much (question)"
@@ -6067,12 +6067,12 @@ data:
       "concept": "expression-wait"
       "built": ["sadirukam", "shi"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
-    - "form": "kudumam shiu"
+    - "form": "kudumam shiü"
       "class": "call"
       "field": "Everyday speech"
       "gloss": "Come here"
       "concept": "expression-come-here"
-      "built": ["kudumam", "shiu"]
+      "built": ["kudumam", "shiü"]
       "note": "Separately spoken ordinary words, using the constructions and conventional meanings explained in Everyday speech."
     - "form": "nazulam sabku"
       "class": "call"
@@ -6546,7 +6546,7 @@ data:
         - "Razzina"
         - "Bashimuya"
         - "Gashmuna"
-        - "Alamia"
+        - "Alamiä"
         - "Beshura"
         - "Shammaya"
         - "Tushina"
@@ -7019,6 +7019,10 @@ data:
     - {form: Hallak, instead: Ashurush, why: a name no Taruzeli root builds}
     - {form: al-Sarif, instead: Hitusum, why: an Earth name}
     - {form: Malik, instead: Zabuzush, why: an Earth name}
+    - {form: shiu, instead: shiü, why: "two sounded vowels, written without the diaeresis"}
+    - {form: shia, instead: shiä, why: "two sounded vowels, written without the diaeresis"}
+    - {form: shiash, instead: shiäsh, why: "two sounded vowels, written without the diaeresis"}
+    - {form: Alamia, instead: Alamiä, why: "two sounded vowels, written without the diaeresis"}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -7192,7 +7196,7 @@ _Ki_ joins participants or complete clauses; _ur_ offers alternatives and _kir_ 
 
 Modals precede the full verb group. _Nizum qash saluram saliru_ means “I can drink water,” an ability; _nizum kel nazulam_, “I may go,” permission. _Nizum qiz baduman nazulam_ means “I might go,” an event's possibility. _Kush_ requires the act and _zukush_ prohibits it: _nizum kush nazulam_, “I must go”; _nizum zukush nazulam_, “I must not go.” _Zu kush_ denies the obligation and does not itself prohibit the act. _Lamuran dagiram_ recommends a following act as something one should do. Use _zu qash_ for inability and _zu baduman_ for impossibility; the inability of a person and the impossibility of an event remain distinct.
 
-_Lumiru_ greets a person, _lumiru so kudumam_ welcomes an arrival and _lumiru so nazulam_ takes leave. _Tazimush_ gives thanks; _lumiru ral_ accepts them as a returned good meeting. _Nizum gazurush_ expresses regret, while _mushiram so nizum_ asks the listener to forgive the speaker. _Nizum so neshush_ politely attracts attention, literally “me toward your sight.” _Sadirukam_ asks someone to wait, _kudumam shiu_ to come here, _nazulam sabku_ to go away and _rashilam_ for help. _Nizum nashimam_ says “I understand”; _nizum zu nashimam_ “I do not understand.” _Shiru nukalush mi ju_ asks the name of this thing. The dictionary's conversational groups are actual short utterances; a speaker can use them as given and then add a full SVO clause to state the need.
+_Lumiru_ greets a person, _lumiru so kudumam_ welcomes an arrival and _lumiru so nazulam_ takes leave. _Tazimush_ gives thanks; _lumiru ral_ accepts them as a returned good meeting. _Nizum gazurush_ expresses regret, while _mushiram so nizum_ asks the listener to forgive the speaker. _Nizum so neshush_ politely attracts attention, literally “me toward your sight.” _Sadirukam_ asks someone to wait, _kudumam shiü_ to come here, _nazulam sabku_ to go away and _rashilam_ for help. _Nizum nashimam_ says “I understand”; _nizum zu nashimam_ “I do not understand.” _Shiru nukalush mi ju_ asks the name of this thing. The dictionary's conversational groups are actual short utterances; a speaker can use them as given and then add a full SVO clause to state the need.
 
 ## Script and Literacy
 
@@ -7287,7 +7291,7 @@ Rumukush, Pazasan, Iddinash, Zabanu, Tanadan, Nadumar, Tarruk, Samarum, Bibudan,
 
 ### Female Given Names
 
-Tulina, Azara, Nimzaya, Belgina, Tirmana, Genira, Muluya, Ishtaruna, Shamaya, Pelitum, Rushana, Libuna, Nadiya, Salmuya, Anasha, Tishmiya, Lamuna, Kadumuya, Asuya, Zattuya, Visiza, Ellamuna, Katira, Dimruni, Shezuya, Taluna, Zarmuta, Eziyana, Shidura, Mukamu, Amarra, Pallitu, Ninuri, Urduya, Pashtum, Termuza, Zaburi, Simruya, Irkuna, Saduya, Razzina, Pimuya, Bashimuya, Illura, Gashmuna, Alamia, Karuya, Beshura, Zuramu, Shammaya, Tushina, Eluza, Nimratu, Teshuda, Eshaya, Zubura, Tamuya, Lashira, Nazzuna, Kharruna, Shalimu, Iltuna, Naguya, Pakuya, Tershuna, Damina, Parza, Ushmuya, Girratu, Hushaduya, Sallina, Durim, Tirimu, Kashmuna, Betum, Ludina, Shimuna, Zammara, Elzina, Tubiya, Niraya, Ammashi, Darzura, Silmuna, Naduya, Pashmu, Urumi, Attuna, Lamazi, Ashtari, Lataruya, Pasira, Shamuni, Kutunu, Asuya, Dalura, Lizina, Mirmura, Nabuya
+Tulina, Azara, Nimzaya, Belgina, Tirmana, Genira, Muluya, Ishtaruna, Shamaya, Pelitum, Rushana, Libuna, Nadiya, Salmuya, Anasha, Tishmiya, Lamuna, Kadumuya, Asuya, Zattuya, Visiza, Ellamuna, Katira, Dimruni, Shezuya, Taluna, Zarmuta, Eziyana, Shidura, Mukamu, Amarra, Pallitu, Ninuri, Urduya, Pashtum, Termuza, Zaburi, Simruya, Irkuna, Saduya, Razzina, Pimuya, Bashimuya, Illura, Gashmuna, Alamiä, Karuya, Beshura, Zuramu, Shammaya, Tushina, Eluza, Nimratu, Teshuda, Eshaya, Zubura, Tamuya, Lashira, Nazzuna, Kharruna, Shalimu, Iltuna, Naguya, Pakuya, Tershuna, Damina, Parza, Ushmuya, Girratu, Hushaduya, Sallina, Durim, Tirimu, Kashmuna, Betum, Ludina, Shimuna, Zammara, Elzina, Tubiya, Niraya, Ammashi, Darzura, Silmuna, Naduya, Pashmu, Urumi, Attuna, Lamazi, Ashtari, Lataruya, Pasira, Shamuni, Kutunu, Asuya, Dalura, Lizina, Mirmura, Nabuya
 
 ### Family Names
 
@@ -7318,7 +7322,7 @@ ORDER BY position
 
 Its words are written in the setting's one guide; see [[doc-prnncthlrn|Pronouncing Thalorna]].
 
-Two vowels standing together are both said, one after the other.
+Two vowels standing together are both said, one after the other, and the second carries a diaeresis: _shiä_, there.
 
 ### Word edges
 

@@ -102,7 +102,7 @@ who heard it went on buying fish. And day.
 olime karene tavete jo ir dalme valera,/
 itrola zele, lonare pelzate grilena./
 cho nalete, nizele‼ doranti talete iltera./
-navena lenteme, ul enoi orfeate navena./
+navena lenteme, ul enoi orfeäte navena./
 ..zorala us chembote klamete denar pramiza.
 
 [dameza]{.speaker}/
@@ -129,7 +129,7 @@ ir olte jo dokate denon, ir jhorne ar okele./
 [dameza]{.speaker}/
 cho demate denon fir jo, ul urzele pramiza chembote/
 klamete denon klame us lonare anlotandar,/
-ul arurkis chesdate ol kedis, ar urkis zeote./
+ul arurkis chesdate ol kedis, ar urkis zeöte./
 veramis tavete. melzore, cho tigate alatar‼/
 ..zorala us chembote klamete denar pramiza.
 

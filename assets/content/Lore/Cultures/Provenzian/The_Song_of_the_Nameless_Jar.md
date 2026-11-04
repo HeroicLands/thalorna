@@ -131,7 +131,7 @@ eza cho? ar ez, ar urkis orvene./
 ..cho demate tolkemon ul velirate, ker cho dunate‼
 
 tavemer kanel lokate ir nebralis/
-sarcheande, ta zirotate cholvaze talv ulteza./
+sarcheände, ta zirotate cholvaze talv ulteza./
 memrate orfenon talv jentize ol nembkorvatis,/
 tolveze sedate talv dajande narveza./
 ..eza fos kete joreza? ar petate./

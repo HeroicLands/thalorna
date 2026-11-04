@@ -228,7 +228,7 @@ dene ar doranti lozete vondar,/
 enoi lozete denon, sa liskonar,/
 fos klame poltamis fir dumva ul fenza.
 
-sarcheande ol nasde lokate ir valera/
+sarcheände ol nasde lokate ir valera/
 fir demrol, ul cholvaze kerate tumera,/
 ul petate sadene ol orteme navena./
 dene kalmetate talv ralzena ir kozmaron./
@@ -249,7 +249,7 @@ ir rintona urzele kordena ol auremel,/
 ar jaltezate preja, ar urkis kanel,/
 ar fa ralzena anolmate. jo dokate pral fenza.
 
-sarcheande rizelete daje ul korete,/
+sarcheände rizelete daje ul korete,/
 ul dirave ol dene fir nasde lozete./
 malnebris ar taurate dene, ar ralzena./
 dene urtai kerate kleris,/

@@ -133,12 +133,12 @@ test("new Khelathi citations follow the actual syllable and sound edges", () => 
     )) {
         if (word.form === "khelathu elu anlagh") continue;
         for (const token of word.form.split(" ")) {
-            assert(/^[a-z]+$/iu.test(token), token);
+            assert(/^[a-zäëü]+$/iu.test(token), token);
             const sounds = token.toLowerCase().match(/th|sh|kh|gh|ch|./gu);
             assert(!/zh|dh|ph/u.test(token), token);
             const clusters = sounds
                 .join(" ")
-                .split(/ ?[aeiou] ?/u)
+                .split(/ ?[aeiouäëü] ?/u)
                 .map((s) => s.trim().split(" ").filter(Boolean));
             const opening = clusters[0];
             assert(
@@ -159,7 +159,11 @@ test("new Khelathi citations follow the actual syllable and sound edges", () => 
                 clusters.every((c) => c.length <= 2),
                 `${token}: cluster`,
             );
-            assert((token.match(/[aeiou]+/giu) ?? []).length <= 4, `${token}: syllables`);
+            // A vowel with a diaeresis is a syllable of its own.
+            assert(
+                (token.match(/[äëü][aeiou]*|[aeiou]+/giu) ?? []).length <= 4,
+                `${token}: syllables`,
+            );
         }
     }
 });

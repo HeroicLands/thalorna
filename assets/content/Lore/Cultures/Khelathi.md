@@ -282,9 +282,9 @@ Your yes costs you what was owed, and your name is remembered./
 
 ::: {.verse form=litany lang=khel enc=khelqalezuenc work=khelathi-2}
 tharel telu, zeqatar elu wathet‼ razal nazun telu./
-qe razel telu «khez tamral nazu tazir»? zethal zethuar qu./
-qe razel telu khe? wanel khe lemet. zethal zethuar qu./
-khez zerath telu temun. zethal zethuar khe elu telu./
+qe razel telu «khez tamral nazu tazir»? zethal zethuär qu./
+qe razel telu khe? wanel khe lemet. zethal zethuär qu./
+khez zerath telu temun. zethal zethuär khe elu telu./
 zerath telu zeqat. rethur nazun rethan elu telu./
 ..galut lu galet, qel razel telu.
 :::

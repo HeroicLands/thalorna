@@ -8743,12 +8743,12 @@ data:
     - forms: {skill-vylarilng: ulthandon, skill-provnzlng: ultande, skill-tarvenlng: ulthando}
       proto: ulthandon
       gloss: a consecration
-    - forms: {skill-vylarilng: sarkenandos, skill-provnzlng: sarcheande, skill-tarvenlng: sarko}
+    - forms: {skill-vylarilng: sarkenandos, skill-provnzlng: sarcheände, skill-tarvenlng: sarko}
       proto: sarkenandos
       gloss: a priest
     - forms:
         skill-vylarilng: sarkenanda
-        skill-provnzlng: sarcheanda
+        skill-provnzlng: sarcheända
         skill-tarvenlng: sarkenanda
       proto: sarkenanda
       gloss: a priestess
@@ -8842,7 +8842,7 @@ data:
       proto: pramolza
       gloss: the morning call
     - {forms: {skill-vylarilng: orfenon, skill-tarvenlng: orhen}, proto: orfenon, gloss: a favor}
-    - forms: {skill-vylarilng: orfenathen, skill-provnzlng: orfeate, skill-tarvenlng: orhenad}
+    - forms: {skill-vylarilng: orfenathen, skill-provnzlng: orfeäte, skill-tarvenlng: orhenad}
       proto: orfenathen
       gloss: to owe
     - forms: {skill-vylarilng: dumvaralon, skill-provnzlng: dumvaral}
@@ -9228,7 +9228,7 @@ data:
     - forms: {skill-vylarilng: yolemiks, skill-provnzlng: jolemis, skill-tarvenlng: olmi}
       proto: yolemiks
       gloss: five
-    - forms: {skill-vylarilng: ranethur, skill-provnzlng: raetur, skill-tarvenlng: neth}
+    - forms: {skill-vylarilng: ranethur, skill-provnzlng: raëtur, skill-tarvenlng: neth}
       proto: ranethur
       gloss: seven
     - forms: {skill-vylarilng: zorimaks, skill-provnzlng: zorimas, skill-tarvenlng: zorma}

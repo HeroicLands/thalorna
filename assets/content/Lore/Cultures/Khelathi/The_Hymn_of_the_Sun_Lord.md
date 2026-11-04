@@ -335,7 +335,7 @@ ez tharen kalmet tazir, lazen./
 ez tharen kalmit tazir, lazen./
 khez qalthaz saru shequn az hodir./
 zethmin lazen. khalat lazen./
-qel zethuar, zethal saru hodir./
+qel zethuär, zethal saru hodir./
 razel telu qazir lamur elu saru./
 khez tharel temun ezu qeznur./
 khez qemet qamnet ezu qeznur./
@@ -394,7 +394,7 @@ yarul atmeru zar ez talen./
 yarul naru ezu kalzet temun./
 tharun zegaru. yaler telu zar.
 
-faelath telu azlet ta gelet,/
+faëlath telu azlet ta gelet,/
 shelu, tharen chalen khez menqet./
 qalu az zengel khulret, ezu galzamar./
 yathar laz zar qu, qel lazret./
@@ -402,31 +402,31 @@ wazu az zengel elu mazelnet./
 mazel saru qemul qer elu telu./
 tuqath saru mazret zar ezu zengel./
 qemul ezu zekhot, qerzel laz./
-faelath telu qaltaru ta qedlar./
+faëlath telu qaltaru ta qedlar./
 qalu ez amqar. qedlar ez amqar./
 tuqath qalu naru. thalel qu zanu./
 tamelar az qalthar, tamzel, zethgal./
-mazath genar tamzel. faelath telu qu./
-faelath telu zegarar elu gelet./
+mazath genar tamzel. faëlath telu qu./
+faëlath telu zegarar elu gelet./
 qezzal az qalmer. khanur zamar saru./
 shanur ta qelqen, lagqet khul./
 qedlar az tethet elu azlet./
 razel shanur ta zethat leqar./
 zethat elu kalzet mar eqar./
 tuqath genar qedlar ez garel elu qu./
-faelath telu zethat. qeran qu./
-faelath telu hodir elu shelu./
+faëlath telu zethat. qeran qu./
+faëlath telu hodir elu shelu./
 galuth hodir. zewaret ta razethar./
 meglar ta qezgath ezu qelqath./
 qelqath az balvel. yarul naru./
 kalqet khemu. tharen chalen./
 khez qamar menqet tharen chalen.
 
-faelath telu mazgar ta lagun./
+faëlath telu mazgar ta lagun./
 qalmur ezu qu. lagun zaqar qu./
 qelu lazen ezu kalzet telnethet./
 qelu khemu ezu kalzet khez qemet./
-khul qenmet. faelath telu khul./
+khul qenmet. faëlath telu khul./
 qathur az galmun elu habtun./
 thalmu elu lagathar az qathur./
 lagun elu mazret ezu qallun./
@@ -435,26 +435,26 @@ mathenar ta qallun. malen ta mazgar./
 mazgar elu qathun elu talqar./
 genar qarnethet. khez zeqat ez saru./
 yaler saru ez mazathnet elu saru./
-az zarun temun. faelath telu saru./
-zethuar ta zethqal. halzi galut./
+az zarun temun. faëlath telu saru./
+zethuär ta zethqal. halzi galut./
 wethet, qelqez khamet, qezet./
 qazmel saru. tamel saru qu./
-faelath telu temthar elu gethar./
+faëlath telu temthar elu gethar./
 qalnazgar ta khalzun elu naru./
 githar az galmun, ez telu./
 tuqel githarar githar ez galmun./
 malen ezu rethgal elu nelgir./
 zethqen zamar naru. lagathar nazar./
 zethul saru qaznel zar qalmer./
-faelath telu zalethar az galar./
+faëlath telu zalethar az galar./
 raznet qelamet, mar kalun qemet./
 wathetar qarmel shebigel./
 nezqet ezu sharmet. shenqet az shanur./
 wathet ta zethqen ezu shebigel lazret./
-faelath telu limqet elu zelqenar./
+faëlath telu limqet elu zelqenar./
 raznet elu naru, elu nazun mer qu./
 zewarar ta qenuwa thelin./
-khez razal saru. faelath telu qenuwa./
+khez razal saru. faëlath telu qenuwa./
 shebigelar. shaleth qelzun elu saru./
 qelzuth saru zar, qemrat qalu./
 shebar ezu qelmaru qethel qelun./
@@ -464,7 +464,7 @@ qaldun az pedar elu galnat zar./
 galel qu ezu zekhot nuqar tuqathnet./
 qezir lagun qu. khez tharel qu./
 qamar malen zurlat. khez tharel qu./
-faelath telu malen ta lagun./
+faëlath telu malen ta lagun./
 meglu elu ithnar ta ternu./
 khez razel naru halzunet elu nazun./
 atmeru elu qedgel elu qetgar./
@@ -472,7 +472,7 @@ atmeru elu qalzar elu miglar./
 khez rethal naru mazret elu nazun./
 ezu gharen elu naru qezunet./
 horqet qemel. thalu qemel./
-qel elu nazun. faelath telu naru./
+qel elu nazun. faëlath telu naru./
 tamzel ezu qalwat elu talen./
 az telzar, qarmath hodir, mar yaler telu./
 yaler telu. alqar tamzel zanu./
@@ -481,7 +481,7 @@ mazget lazret ezu thalmu khul./
 thalu ezu saru. yalmet saru./
 yalmet saru telu qel nazun./
 zethmin lazen. khalat lazen./
-faelath telu zamat ezu qu.
+faëlath telu zamat ezu qu.
 
 yaleth hodir zun. garun elu rethan./
 khez zethal genar qu. khez zameth nazun qu./
@@ -502,8 +502,8 @@ khez lemath nazu wathet khanar,/
 az nelgalar, khez khanar wathet./
 lagath qe'aret halzat, thelmer./
 lagath telu qelzur elu zethulnet./
-faelath telu zethalnet elu zethuar./
-khez zethal zethuar temun zamat./
+faëlath telu zethalnet elu zethuär./
+khez zethal zethuär temun zamat./
 lagath nelgiru temun leqar./
 khez razal nazun qu nyar telu,/
 az qenmar elu qetgar, thelmer.
@@ -709,7 +709,7 @@ Year 9 of Gar-Au Meqes II, the second month of [[lore-sheluessn|Shelu]]. [Qedut 
 :::
 
 ::: {.verse form=prose lang=khel enc=khelqalezuenc work=graffito}
-qazlun qanu elu gar-au meqes khulret, menqet khulret elu shelu. qedut ez gar-legulu, zethuar elu mazret elu habtun elu nelgir. yaler nazu ez habtun elu temalar elu qalnaz ez lamath mazret. heurath nazu galzat eqar. qamar nazu khelathi-zethu. zethul nazu zamat khazul, nyar lazret ez telnet. qelzat genar galmun ezu galzat. zethul nazu qu az tarmil leqar elu galmun. razel temalar elu qalnaz, qelzat qathun elu saru galmun. khez rethal garqen rethan elu khelansi. razal nazu naru. razel nazu qu. khelansi, lagathar elu habtun elu nelgir. ez qarun elu raznet elu rethan, razel nazu qu. lamath temalar qelu khul. wanel qu qenmet elu thallar. nuqar rethan elu khelansi, zethal nazu rethan elu nazu ta galnat elu nazu. qedut ez gar-legulu. gar-legulu.
+qazlun qanu elu gar-au meqes khulret, menqet khulret elu shelu. qedut ez gar-legulu, zethuär elu mazret elu habtun elu nelgir. yaler nazu ez habtun elu temalar elu qalnaz ez lamath mazret. heürath nazu galzat eqar. qamar nazu khelathi-zethu. zethul nazu zamat khazul, nyar lazret ez telnet. qelzat genar galmun ezu galzat. zethul nazu qu az tarmil leqar elu galmun. razel temalar elu qalnaz, qelzat qathun elu saru galmun. khez rethal garqen rethan elu khelansi. razal nazu naru. razel nazu qu. khelansi, lagathar elu habtun elu nelgir. ez qarun elu raznet elu rethan, razel nazu qu. lamath temalar qelu khul. wanel qu qenmet elu thallar. nuqar rethan elu khelansi, zethal nazu rethan elu nazu ta galnat elu nazu. qedut ez gar-legulu. gar-legulu.
 :::
 
 ## See Also

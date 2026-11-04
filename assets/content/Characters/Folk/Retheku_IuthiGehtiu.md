@@ -1,6 +1,6 @@
 ---
 shortcode: rethekuthght
-name: {full: Retheku Iuthi'Gehtiu}
+name: {full: Retheku Iüthi'Gehtiü}
 type: being
 subType: npc
 description: "A collector who questions publicly whether a craftsman's work is worth its extraordinary cost, and who is not entirely wrong"
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Retheku Iuthi'Gehtiu is a 39-year-old woman who stands 6'0" tall with a heavy build. She has olive skin, dark brown hair, and amber eyes.
+Retheku Iüthi'Gehtiü is a 39-year-old woman who stands 6'0" tall with a heavy build. She has olive skin, dark brown hair, and amber eyes.
 
 # Dossier {#dossier}
 
-Retheku Iuthi'Gehtiu collects out of [[place-anlaghzetun|Anlagh-Zetun]], and questions publicly whether a particular craftsman's work is worth its extraordinary cost. The question is not unreasonable, whatever the craftsman's admirers say. Anyone buying at that price now has to answer the question too.
+Retheku Iüthi'Gehtiü collects out of [[place-anlaghzetun|Anlagh-Zetun]], and questions publicly whether a particular craftsman's work is worth its extraordinary cost. The question is not unreasonable, whatever the craftsman's admirers say. Anyone buying at that price now has to answer the question too.

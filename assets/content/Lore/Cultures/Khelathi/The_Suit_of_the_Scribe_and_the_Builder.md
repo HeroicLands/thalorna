@@ -143,19 +143,19 @@ galel reth'sa'ar az telnet elu yathar ta wanel pedar ezu qalu. zethal saru narel
 
 razel muzanar. zethal telu qu./
 
-razel zethuar. telath nazu zethal qu. zethal nazu yathar. gharen. khez temun. wanel eqar tharen mar tharen elu kalzu. qaruth nazu zethal kalzu. gharen. thalal khez temun. zuren nazu zar. wanel galar az qu./
+razel zethuär. telath nazu zethal qu. zethal nazu yathar. gharen. khez temun. wanel eqar tharen mar tharen elu kalzu. qaruth nazu zethal kalzu. gharen. thalal khez temun. zuren nazu zar. wanel galar az qu./
 
 razel muzanar. zethal telu galar tharun./
 
-razel zethuar. zuren shel qu./
+razel zethuär. zuren shel qu./
 
 razel muzanar. telu. galel telu zun./
 
-razel zethuar. zethal nazu. wanel zethuar zethuar. wanel zurenar zurenar. khez dunel nazu khul ezu kalun qemel. qamaru dunel nazu, tharun wanel zethuar lazet ezu qedzar zurenar elu zethat elu qezunet. khez dunel telu qelmun zethqen nyar telnet elu igelu ez leqar. alqar nazu lazen. wanel nazu zethuar. khez alqar zurenar. khez zethal nazun temun khez zurenar. wanel temun khez zethat az gharen. wanel zethat elu gharen khez temun./
+razel zethuär. zethal nazu. wanel zethuär zethuär. wanel zurenar zurenar. khez dunel nazu khul ezu kalun qemel. qamaru dunel nazu, tharun wanel zethuär lazet ezu qedzar zurenar elu zethat elu qezunet. khez dunel telu qelmun zethqen nyar telnet elu igelu ez leqar. alqar nazu lazen. wanel nazu zethuär. khez alqar zurenar. khez zethal nazun temun khez zurenar. wanel temun khez zethat az gharen. wanel zethat elu gharen khez temun./
 
 razel muzanar. ta sher./
 
-razel zethuar. waleth zethqen elu nazu qalet. alqar galzur az gharen khez temun. wanel galzur az gharen khez temun galzur.
+razel zethuär. waleth zethqen elu nazu qalet. alqar galzur az gharen khez temun. wanel galzur az gharen khez temun galzur.
 :::
 
 _\[The Scribe gathers his satchel, goes to the door, and puts his shoulder to it, and goes in. The Builder stands outside his house. Laughter here; wait for it, and let the Builder look at the benches while it runs.\]_
@@ -205,37 +205,37 @@ tharel muzanar nazar galar elu saru qethel qezlar galqat. qezir saru galmun. khe
 
 razel saru qazir galmun. yarath telu. zethal telu muzan nazu qu ta qamarun qu ez nazu. agu zuren nazu qu./
 
-razel zethuar. khez dunel qelathar zuren qelqet./
+razel zethuär. khez dunel qelathar zuren qelqet./
 
 razel muzanar. zethal telu khez zurenar. qarmath nazun khul./
 
-razel zethuar. qarmath nazun khul. wanel nazun linetun./
+razel zethuär. qarmath nazun khul. wanel nazun linetun./
 
 razel muzanar. enu./
 
-razel zethuar. khez zethal nazun temun qarmath linetun. lagath halzel qu. qamaru zethal nazu zethqen ez telu qaral galar elu qezunet, tharun wanel qezqathnet elu telu ez qaren elu nazu qenqethet./
+razel zethuär. khez zethal nazun temun qarmath linetun. lagath halzel qu. qamaru zethal nazu zethqen ez telu qaral galar elu qezunet, tharun wanel qezqathnet elu telu ez qaren elu nazu qenqethet./
 
 razel muzanar. qaruth nazu qezqath temun ez qaren elu telu./
 
-razel zethuar. qezqath telu qu. wanel eqar tan qarmath linetun. khez zethal genar qu tan.
+razel zethuär. qezqath telu qu. wanel eqar tan qarmath linetun. khez zethal genar qu tan.
 
 galel muzanar az zengel elu qezunet. rethas saru qu qel muzanar, renan zurat saru qu nyar tarmil tuzar./
 
 razel saru. wanel nazu rethnar tharun. zethal telu nazu rethnar. muzan rethnar galar. galun rethnar qu. alqar genzat./
 
-razel zethuar. khez dunel telu wanel rethnar. wanel telu linetun elu nazu./
+razel zethuär. khez dunel telu wanel rethnar. wanel telu linetun elu nazu./
 
 razel muzanar. narel sher kalun./
 
-razel zethuar. narel kalun mar alqar kalun. zurat telu qu ezu zethu./
+razel zethuär. narel kalun mar alqar kalun. zurat telu qu ezu zethu./
 
 razel muzanar. ezu sher./
 
-razel zethuar. ezu khezan. khez zethal nazu qu. alqar zethat khul ezu gharen temun. khez wanel lazen qenlet. khez wanel qu zethat elu yathar./
+razel zethuär. ezu khezan. khez zethal nazu qu. alqar zethat khul ezu gharen temun. khez wanel lazen qenlet. khez wanel qu zethat elu yathar./
 
 razel muzanar. yarul nazun ez halzat tharun./
 
-razel zethuar. khez alqar genzet./
+razel zethuär. khez alqar genzet./
 
 razel muzanar. galel sari az gharen tharun. galel sari az qalu mar alqar gharen. dunel sari tamel yathar.
 :::
@@ -295,15 +295,15 @@ razel halzat. thalmu shal./
 
 razel muzanar. tarmal./
 
-razel zethuar. qaruth sari thalmu elu zethat. khelathi-zethu lu qalezu./
+razel zethuär. qaruth sari thalmu elu zethat. khelathi-zethu lu qalezu./
 
 razel muzanar. alqar thalmu lazen. wanel qu elu telu. khez tamel telu qu./
 
-razel zethuar. alqar khul. lagath nazu naru khezan qemel./
+razel zethuär. alqar khul. lagath nazu naru khezan qemel./
 
 razel halzat. zethat./
 
-razel zethuar. khez alqar zethat./
+razel zethuär. khez alqar zethat./
 
 razel halzat. alqar sher zamar nazu tharun./
 
@@ -311,11 +311,11 @@ razel muzanar. galar./
 
 razel halzat. khez alqar galar zamar nazu. alqar zethat zamar nazu, lu khezan. zethal shel zethat./
 
-razel zethuar. khezan. wanel nazu qelathar./
+razel zethuär. khezan. wanel nazu qelathar./
 
-razel halzat. wanel zethuar elu nelgiru qelathar./
+razel halzat. wanel zethuär elu nelgiru qelathar./
 
-razel zethuar. kalzu./
+razel zethuär. kalzu./
 
 razel halzat. khez dunel genar zethal kalzu tharun./
 
@@ -341,7 +341,7 @@ razel halzat. tharel telu khez qalur. wanel telu az tarmil ta tarmal elu nazu. q
 
 razel muzanar. razer telu zurenar./
 
-razel zethuar. khez alqar genar. khez alqar genar az garun temun. rethuth telu eqar yalret./
+razel zethuär. khez alqar genar. khez alqar genar az garun temun. rethuth telu eqar yalret./
 
 razel muzanar. razer nazu galmun.
 :::
@@ -363,11 +363,11 @@ _\[The man with the door-frame comes forward and sets it down before the chair. 
 ::: {.verse form=genzat lang=khel enc=khelqalezuenc work=the-suit-of-the-scribe-and-the-builder-10}
 razel halzat. khashath nazun galmun. razel qu qel galmun./
 
-razel zethuar. khez dunel galmun rethal. khez dunel galmun tharel az zethulnet ta razel khez tamral nazu tazir./
+razel zethuär. khez dunel galmun rethal. khez dunel galmun tharel az zethulnet ta razel khez tamral nazu tazir./
 
 razel halzat. khez razal genar qu wazal genar. razal genar qe qalath genar qu az qezqar. qalath genar qu. khashath telu qu./
 
-razel zethuar. razer nazu galqat tharun. agu razel qu temal thalmu qu. khez razel qu elu shel. khez dunel galqat rethal thalmu elu nelgir lazen nyar leqar. khez dunel genar leqar tan./
+razel zethuär. razer nazu galqat tharun. agu razel qu temal thalmu qu. khez razel qu elu shel. khez dunel galqat rethal thalmu elu nelgir lazen nyar leqar. khez dunel genar leqar tan./
 
 razel halzat. khashath nazun galqat. qalath telu mervel az halzat. agu halzath nazu qu. agu zuren nazun.
 :::
@@ -387,15 +387,15 @@ So the Builder laid a second brick on the first, and the Scribe laid a second ta
 :::
 
 ::: {.verse form=genzat lang=khel enc=khelqalezuenc work=the-suit-of-the-scribe-and-the-builder-11}
-wanel galqat qemur shar zethqen. zurat zethuar qalqat. lamath saru zethqen yalret. zethal saru temun tazun az qu qemath qelzuthil. qalath saru qu yalret. thalal halzathal az garel qemel./
+wanel galqat qemur shar zethqen. zurat zethuär qalqat. lamath saru zethqen yalret. zethal saru temun tazun az qu qemath qelzuthil. qalath saru qu yalret. thalal halzathal az garel qemel./
 
 razel halzat. halzath halzat qedmal. khez halzath qu raznet./
 
-razel zethuar. khez dunel halzat zethul tharun./
+razel zethuär. khez dunel halzat zethul tharun./
 
 razel halzat. khez zethul halzat. tamel halzat halzat.
 
-qalath muzanar galqat khulret zar lazret. qalath zethuar zethqen khulret zar lazret. qalath muzanar galqat ezu garel elu khemu. qalath zethuar zethqen khemu tan qaral qemir naru. yaler qalqat nizar ez gharen elu yathar. yaler qalmar zar nyar naru. khez qemaz halzathal. thaleth yathar ez tarmil qemur.
+qalath muzanar galqat khulret zar lazret. qalath zethuär zethqen khulret zar lazret. qalath muzanar galqat ezu garel elu khemu. qalath zethuär zethqen khemu tan qaral qemir naru. yaler qalqat nizar ez gharen elu yathar. yaler qalmar zar nyar naru. khez qemaz halzathal. thaleth yathar ez tarmil qemur.
 :::
 
 _\[The boys behind the painted water lean the cloth. All the players lean. The front benches lean of themselves. If the beam-boys lean, they are not paid.\]_
@@ -405,7 +405,7 @@ _\[The boys behind the painted water lean the cloth. All the players lean. The f
 :::
 
 ::: {.verse form=genzat lang=khel enc=khelqalezuenc work=the-suit-of-the-scribe-and-the-builder-12}
-razel halzat. razel telu qarazel mar qarnel gharen. zethuar lazret qaral alqar saru zun mar leqar. qamar saru zethqen ez mervel.
+razel halzat. razel telu qarazel mar qarnel gharen. zethuär lazret qaral alqar saru zun mar leqar. qamar saru zethqen ez mervel.
 :::
 
 : The Scribe's Pleading {#pleading-scribe}
@@ -438,7 +438,7 @@ wanel gharen ezu zethu khez temun. zethul telu laz qu‼/
 zethat lazret. gharen. khez temun./
 zuren qalu qu. khez qemet zurenar eqar./
 zethat khulret. gharen. khez temun ethel./
-galzur az qu. zethuar ezu qu./
+galzur az qu. zethuär ezu qu./
 galar? khez qelathar, khez zurenar, khez qelqet, khez qelqarnat./
 khez zethat. khez alqar temun zamar genzet./
 khez genzet, khez galar. laz galzur./
@@ -483,7 +483,7 @@ zethal saru. tharel galzat. wanel galzat zurenar./
 khez razel galzat temun. wanel galzat elu qelmunet./
 razal telu galmun‼ telath galmun razel./
 qezmer qu ez nazu. qezmer qu ez saru. wanel qu razqen./
-razel saru «zethal telu qu». zethal shel? wanel saru zethuar./
+razel saru «zethal telu qu». zethal shel? wanel saru zethuär./
 pedar ezu qalu. raznet ezu zethqen. «khez temun»./
 nazu ta qedmal, nazar qaren elu saru./
 gerun khul ta gerun, ta gerun khul ta gerun, ta gerun khul ta gerun./
@@ -512,7 +512,7 @@ _\[Thuba'i enters from the kitchen side with a jar on each hip and a boy behind 
 ::: {.verse form=genzat lang=khel enc=khelqalezuenc work=the-suit-of-the-scribe-and-the-builder-15}
 khashath thuba'i qarazelnet nyar temgal. yarath saru ez zuren sher qamar qenmet.
 
-razel saru. qe wanel eqar khashnet. dunel nazu khashath qu nyar temgal. khez razel genar qarazel qezlet. galath lazmar ta yarul genzat ta qu. muzanar, qallun. ezu halzi. zethuar, qallun. ezu halzi. rethal telu zethal qu.
+razel saru. qe wanel eqar khashnet. dunel nazu khashath qu nyar temgal. khez razel genar qarazel qezlet. galath lazmar ta yarul genzat ta qu. muzanar, qallun. ezu halzi. zethuär, qallun. ezu halzi. rethal telu zethal qu.
 :::
 
 _\[He is paid by the Builder.\]_
@@ -532,7 +532,7 @@ _\[He is paid by the Scribe.\]_
 :::
 
 ::: {.verse form=genzat lang=khel enc=khelqalezuenc work=the-suit-of-the-scribe-and-the-builder-17}
-razel thuba'i. wanel nazu ta zethuar. zurat telu shenar eqar. rethal nelgir. zethal saru temun temun zeqat ez saru. wanel saru laz genar elu qenmet elu galelnet qarmel.
+razel thuba'i. wanel nazu ta zethuär. zurat telu shenar eqar. rethal nelgir. zethal saru temun temun zeqat ez saru. wanel saru laz genar elu qenmet elu galelnet qarmel.
 :::
 
 _\[He stands between the two pans with a jar in each hand.\]_
@@ -556,9 +556,9 @@ He turned to the Scribe, and he lowered his voice, which in Thuba'i is a thing e
 :::
 
 ::: {.verse form=genzat lang=khel enc=khelqalezuenc work=the-suit-of-the-scribe-and-the-builder-19}
-qalur thuba'i qenmar ez zethuar. razel saru khazil. khashul genar zamat ezu harun qu./
+qalur thuba'i qenmar ez zethuär. razel saru khazil. khashul genar zamat ezu harun qu./
 
-razel saru. zethal telu qalnaz qel qaruth telu, linetun elu genar elu galzat. yarath qu qer qemel sher razel zethqen. ezu kalun elu yarathnet elu qu khez tamral telu zethqen. tamral telu galzat. galzat elu saru. az nazar, khez galmun. wanel eqar kesnet lazret elu galzat elu heurathnet elu genar. rethas saru qarun elu qu wanel lagath nyar shazal.
+razel saru. zethal telu qalnaz qel qaruth telu, linetun elu genar elu galzat. yarath qu qer qemel sher razel zethqen. ezu kalun elu yarathnet elu qu khez tamral telu zethqen. tamral telu galzat. galzat elu saru. az nazar, khez galmun. wanel eqar kesnet lazret elu galzat elu heürathnet elu genar. rethas saru qarun elu qu wanel lagath nyar shazal.
 :::
 
 _\[Laughter here. Hold the jar up until it stops, and then drink from it.\]_
@@ -574,7 +574,7 @@ While the Builder was counting his bricks a second time out loud and the Scribe 
 :::
 
 ::: {.verse form=genzat lang=khel enc=khelqalezuenc work=the-suit-of-the-scribe-and-the-builder-20}
-mazath muzanar galqat tazir az kalet khul. razal zethuar qe qamar genzet zelqet elu mervel elu qalu. yaler igelu zar gharen elu genzet qethel qelqet elu pedar qaral yarul uzn'era nazar galmen ez garun leqar. yarul igelu az garun elu yarul sari. tharel qelathar ezu qu. waleth naru khamil. tharel galqat elu qalqat tarmil ezu qu tan. wanel galqat ezu qalu qemur tazir qethel waleth qu qedmal. khez thumal genar zethqen elu qalqat tarmal. khez alqar temthar ethel ta khez genar ez tamel qu. wanel zethqen ezu qalu khez zethu qethel waleth qu qedmal. wanel qalqat khul qemlun ta qedmal qemel ezu lazet.
+mazath muzanar galqat tazir az kalet khul. razal zethuär qe qamar genzet zelqet elu mervel elu qalu. yaler igelu zar gharen elu genzet qethel qelqet elu pedar qaral yarul uzn'era nazar galmen ez garun leqar. yarul igelu az garun elu yarul sari. tharel qelathar ezu qu. waleth naru khamil. tharel galqat elu qalqat tarmil ezu qu tan. wanel galqat ezu qalu qemur tazir qethel waleth qu qedmal. khez thumal genar zethqen elu qalqat tarmal. khez alqar temthar ethel ta khez genar ez tamel qu. wanel zethqen ezu qalu khez zethu qethel waleth qu qedmal. wanel qalqat khul qemlun ta qedmal qemel ezu lazet.
 
 razel halzat. wanel halzat qemlun. qedmal qarmath qu ta qedmal. khez alqar temun ez zethul ta khez temun ez halzath az tarmil lu tarmal. agu tamath nazu galmun, ezu qernet, qaral wanel eqar qernet.
 :::
@@ -617,13 +617,13 @@ galmun lazen elu galar, ta qezmer qu.
 
 razel halzat. khez alqar temun zamar nazu. khez dunel genar qeran khezan. khez qeran nazu qu tharun. temal nazu zethat. agu qeran nazu zethat. lamath telu temun elu lamnet elu telu./
 
-razel zethuar. khez dunel telu zethal. wanel telu genzet./
+razel zethuär. khez dunel telu zethal. wanel telu genzet./
 
-razel halzat. razel nazu qu. agu zethal telu qu. wanel telu zethuar./
+razel halzat. razel nazu qu. agu zethal telu qu. wanel telu zethuär./
 
-razel zethuar. wanel nazu qelathar./
+razel zethuär. wanel nazu qelathar./
 
-razel halzat. wanel telu zethuar mar eqar. wanel telu zethuar mar waleth telu qelathar. qamar zethat tharen. yarul garel qer elu tharen. zuren shel./
+razel halzat. wanel telu zethuär mar eqar. wanel telu zethuär mar waleth telu qelathar. qamar zethat tharen. yarul garel qer elu tharen. zuren shel./
 
 razel thuba'i. nazu. zuren nazu temun temun nyar nizar elu qalret. wanel eqar garun elu zuren elu genar az kalet tazun./
 
@@ -641,7 +641,7 @@ _\[They turn their backs and bow to one another over their shoulders. Each says 
 ::: {.verse form=genzat lang=khel enc=khelqalezuenc work=the-suit-of-the-scribe-and-the-builder-22}
 razel muzanar az kalet khulret ta qelzut. saq'aru. rethnar. qamar nazu galar./
 
-razel zethuar. reth'sa'ar. rethnar. wanel nazu ezu qu.
+razel zethuär. reth'sa'ar. rethnar. wanel nazu ezu qu.
 :::
 
 ## The Lease
@@ -685,7 +685,7 @@ The Scribe wrote the lease on the brick in the sacred hand, which was the only h
 
 ::: {.verse form=genzat lang=khel enc=khelqalezuenc work=lease}
 zethal zethu eqar az gharen lazret, az tharen elu galar lazen./
-qelathar. muzanar, rethnar. zethuar, rethnar./
+qelathar. muzanar, rethnar. zethuär, rethnar./
 ta nazu elu tamel halzat./
 zurenar. thuba'i. qazet khul saru. khez wanel saru az tarmil lazen./
 galar az yathar. khez zuren genar qu. khez zethal genar qu./
@@ -695,25 +695,25 @@ yaler qelathar khul zamar nazu az qalu khulret. waleth qelqet nevar lu khez wale
 lagath genar. algun saru ezu qu galzur ta galmun./
 zeqel genar zeqat ez muzanar qaral muzannet. qazet saru qu qer elu lagathnet./
 zethal zethu gharen nuqar qu khez khez temun. wanel eqar qarun elu galar./
-zethuar, zethal telu qu. muzanar, temal telu zurmeth./
+zethuär, zethal telu qu. muzanar, temal telu zurmeth./
 thuba'i, temal telu elu telu qamaru dunel telu walet shequn./
 wanel halzat qemlun. lamath telu qedmal elu telu ta yarul telu·
 
-razel zethuar. az sher. wanel zethqen qedmal./
+razel zethuär. az sher. wanel zethqen qedmal./
 
 razel muzanar. az galqat. lamath saru lazen qezlet nyar nuqar thulun. wanel qu zun ezu khashnet temun. khez yarul qu qaril halzat. khez razel genar temun qaral eqar./
 
-razel zethuar. ezu thalmu shal./
+razel zethuär. ezu thalmu shal./
 
 razel muzanar. tarmal./
 
 razel halzat. ezu thalmu elu rethathar elu saru./
 
-razel zethuar. alqar lazen laz ethel./
+razel zethuär. alqar lazen laz ethel./
 
 razel halzat. ezu qu tharun. dunel genar khez zethulnet razal. nelaz eqar temun ez tamel ez naru.
 
-zethal zethuar qamzun az galqat ezu khelathi-zethu, laz thalmu, qer elu shequn ta qemath. khez qamar galqat garun tazir az qalu khulret. zethal saru telnet az tarmil elu galqat. temal muzanar zurmeth, tuzar tarmil, qaral telath saru temul qu. temal thuba'i elu saru galur ta qalet. zurat halzat galqat. khez razel sari temun qaral zethu az tarmil lu zurmeth qalet.
+zethal zethuär qamzun az galqat ezu khelathi-zethu, laz thalmu, qer elu shequn ta qemath. khez qamar galqat garun tazir az qalu khulret. zethal saru telnet az tarmil elu galqat. temal muzanar zurmeth, tuzar tarmil, qaral telath saru temul qu. temal thuba'i elu saru galur ta qalet. zurat halzat galqat. khez razel sari temun qaral zethu az tarmil lu zurmeth qalet.
 :::
 
 _\[The Speaker stops here and drinks, and lets the hall take it for the end. It is not the end.\]_
@@ -747,11 +747,11 @@ They went off the mound and down into the water, arguing about the door, and the
 ::: {.verse form=genzat lang=khel enc=khelqalezuenc work=the-suit-of-the-scribe-and-the-builder-25}
 razel muzanar. thalal galmun qezmer./
 
-razel zethuar. zethal zethu qu qezmer./
+razel zethuär. zethal zethu qu qezmer./
 
 razel muzanar. khez galuth eqar qu./
 
-razel zethuar. khez galuth zethu temun. razel zethu qe galut qu./
+razel zethuär. khez galuth zethu temun. razel zethu qe galut qu./
 
 razel muzanar. razel telu galut qu tharun. yaler telu ta qalath telu qalmer ez qu.
 
@@ -792,7 +792,7 @@ The house is entered, and the door still sticks./
 ::: {.verse form=genzat lang=khel enc=khelqalezuenc work=song}
 muzan saru galar eqar. qezmer galmun elu saru./
 ..qalath telu qalmer ez qu‼ qalath telu qalmer ez qu‼/
-galun zethuar ezu qu. zethal saru qu mer eqar./
+galun zethuär ezu qu. zethal saru qu mer eqar./
 ..qalath telu qalmer ez qu‼ qalath telu qalmer ez qu‼/
 qamarun galar ez genar shal? wanel saru ezu qu./
 ..qazet shel qamzun elu qu? genar ezu galar eqar./

@@ -383,15 +383,15 @@ ir ortemandon ol jhorne enoi tigate zel valcherta talv tremuzel,/
 ul enoi rozimate ralena ir volchema ker enoi tigate zel./
 ..rozon ar ez anolmate ker itrola kremete.
 
-raetur tigate fos talv jormsater. seltur ez ir volchema./
-raetur tigate fos talv jormsater. seltur ez valdete./
+raëtur tigate fos talv jormsater. seltur ez ir volchema./
+raëtur tigate fos talv jormsater. seltur ez valdete./
 ..rozon ar ez anolmate ker itrola kremete.
 
 seltur ez ir volchema, ul urkis ez ol nureton ol tolkeze./
 seltur ez valdete, ul urkis ez ol kambete ol semrota ol jo./
 ..rozon ar ez anolmate ker itrola kremete.
 
-eza kete ez ir sedon ol raetur? cho chesdate kete./
+eza kete ez ir sedon ol raëtur? cho chesdate kete./
 eza kedis taurate itrola fa dena? cho chesdate kedis./
 ..rozon ar ez anolmate ker itrola kremete.
 

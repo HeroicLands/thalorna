@@ -1,6 +1,6 @@
 ---
 shortcode: thiryegezaqe
-name: {full: Thirye Gez'Aqeu, given: Thirye, clan: Gez'Aqeu}
+name: {full: Thirye Gez'Aqeü, given: Thirye, clan: Gez'Aqeü}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -411,7 +411,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[thiryegezaqe|Thirye Gez'Aqeu]]{float=top-left}
+![[thiryegezaqe|Thirye Gez'Aqeü]]{float=top-left}
 
 Thirye stands 5'4" tall with a light build. She has dark skin, black hair, and brown eyes. Her features include a narrow face, a slightly arched nose, a smooth jawline, and elegantly curved brows. She has a tattoo of a dragonfly on her neck.
 

@@ -7,7 +7,7 @@ data:
   packFolder: languages
   language: prov
   font: semaron-kuriale
-  vowels: aeiouëàAEIOUËÀáéíóúÁÉÍÓÚ
+  vowels: aeiouëäöàAEIOUËÀáéíóúÁÉÍÓÚ
   mappings:
     "0": DIGIT_ZERO
     "1": DIGIT_ONE
@@ -45,6 +45,7 @@ data:
     D: DEKAZU_MAJ
     e: ELZA_MIN
     ë: ELZA_MIN
+    ä: ANKRON_MIN
     E: ELZA_MAJ
     Ë: ELZA_MAJ
     f: FUNELA_MIN
@@ -67,6 +68,7 @@ data:
     N: NELAMIS_MAJ
     o: ORNETHE_MIN
     O: ORNETHE_MAJ
+    ö: ORNETHE_MIN
     p: POZERA_MIN
     P: POZERA_MAJ
     q: KALPEZA_MIN
@@ -184,7 +186,7 @@ This encoding writes [[skill-provnzlng|Provenzal]] in semaron-kuriale. A passage
 - **Other tongues' catch spellings** (`'`, `’`, a standalone grave accent or a hyphen) set a mark over the preceding letter. With no letter before it, it prints the box. These aliases do not authorize those characters in Vylari.
 
 - **The numerals** 0 to 9 are the Semaron numerals.
-- **_ë_ is the letter _e_.**
+- **_ä_, _ë_ and _ö_ are the letters _a_, _e_ and _o_.**
 - **_q_ is the letter _k_.** The script has no _q_, so a foreign name keeps its roman spelling and is written with _k_: _Meqes_ is written as _Mekes_.
 
 Characters outside the declared Roman inventory are refused.

@@ -6,7 +6,7 @@ subType: language
 description: "The melodic speech of Provenzia—shaped by Vylari and Élavendri, and long held the proper tongue of courtly love and the lyric arts."
 tags: []
 data:
-  roman: "abcdefghijklmnoprstuvyzABCDEFGHIJKLMNOPRSTUVYZáéíóúëÁÉÍÓÚË0123456789qQ"
+  roman: "abcdefghijklmnoprstuvyzABCDEFGHIJKLMNOPRSTUVYZáéíóúëäöÁÉÍÓÚË0123456789qQ"
   core: true
   family: skill-vylarilng
   abbreviation: Prv.
@@ -235,7 +235,7 @@ data:
       field: Patron and client
       gloss: "to place; to settle a stranger's standing"
       source: {kind: inherited, form: zirothathen}
-    - form: orfeate
+    - form: orfeäte
       class: v
       field: Patron and client
       gloss: "to owe; to stand under a favor"
@@ -533,12 +533,12 @@ data:
       field: The house and the street
       gloss: "to rest; said of a building no one repairs"
       source: {kind: inherited, form: humelthathen}
-    - form: sarcheande
+    - form: sarcheände
       class: n m
       field: The gods and the hearth
       gloss: "a priest"
       source: {kind: inherited, form: sarkenandos}
-    - form: sarcheanda
+    - form: sarcheända
       class: n f
       field: The gods and the hearth
       gloss: "a priestess"
@@ -698,7 +698,7 @@ data:
       gloss: "a sister"
       concept: sister
       source: {kind: inherited, form: semrotha}
-    - form: aipsea
+    - form: aipseä
       class: n f
       field: "The house, kin and the name"
       gloss: "an adoption; the taking of an heir into a house"
@@ -718,7 +718,7 @@ data:
       field: "The house, kin and the name"
       gloss: "an earned name; one a city gives after a deed"
       source: {kind: inherited, form: kiramharlen}
-    - form: nearle
+    - form: neärle
       class: n m
       field: "The house, kin and the name"
       gloss: "an unnaming; the striking of a name from a city's rolls"
@@ -1284,7 +1284,7 @@ data:
       field: Arms and the field
       gloss: "a trumpet"
       source: {kind: inherited, form: faukela}
-    - form: joache
+    - form: joäche
       class: n m
       field: Arms and the field
       gloss: "a recruit; a hired soldier not yet sworn"
@@ -1458,7 +1458,7 @@ data:
       gloss: weighty; grave
       source: {kind: inherited, form: solkimos}
       concept: [heavy]
-    - form: zeote
+    - form: zeöte
       class: adj
       field: Qualities
       gloss: "wise"
@@ -1526,7 +1526,7 @@ data:
       field: "Doing, going and being"
       gloss: "to be away"
       source: {kind: inherited, form: falwathen}
-    - form: zeotadora
+    - form: zeötadora
       class: v
       field: "Doing, going and being"
       gloss: "to ponder"
@@ -1554,7 +1554,7 @@ data:
       gloss: "five"
       concept: five
       source: {kind: inherited, form: yolemiks}
-    - form: raetur
+    - form: raëtur
       class: num
       field: Numbers and grammar words
       gloss: "seven"
@@ -3425,13 +3425,13 @@ data:
       gloss: zero; no units in a count
       concept: zero
       source: {kind: coined}
-    - form: ir sedon ol raetur
+    - form: ir sedon ol raëtur
       class: part
       field: Numbers and grammar words
-      gloss: in position seven; seventh in an ordered sequence; replace raetur with the number of the position to state other ordinal positions
+      gloss: in position seven; seventh in an ordered sequence; replace raëtur with the number of the position to state other ordinal positions
       concept: ordinal-construction
       source: {kind: coined}
-      built: [ir, sedon, ol, raetur]
+      built: [ir, sedon, ol, raëtur]
     - form: solte ol solte
       class: n
       field: Numbers and grammar words
@@ -5495,7 +5495,7 @@ data:
       gloss: to forbid someone the act under discussion; the prohibited person is the direct object
       concept: prohibit
       source: {kind: coined}
-    - form: "Brave jhorne genthe korthe. que la preja soie talv vei"
+    - form: "Brave jhorne genthe korthe. quë la preja soie talv vei"
       class: call
       field: Learning and the academies
       gloss: "hello; the traditional formal greeting: good day, noble companion; may peace be with you; used as a whole established formula"
@@ -5528,13 +5528,13 @@ data:
       concept: expression-thank-you
       source: {kind: coined}
       built: [jo, memrate, orfenon, ol, cho]
-    - form: cho ar orfeate
+    - form: cho ar orfeäte
       class: call
       field: Learning and the academies
       gloss: you are welcome; you owe no favor; a response to thanks, without turning the favor into a debt in money
       concept: expression-youre-welcome
       source: {kind: coined}
-      built: [cho, ar, orfeate]
+      built: [cho, ar, orfeäte]
     - form: cho linkate jo
       class: call
       field: Learning and the academies
@@ -7568,6 +7568,22 @@ data:
     - form: Aurèliane
       instead: Aurelane
       why: "a name written with the hiatus ia, which Provenzal lacks"
+    - {form: orfeate, instead: orfeäte, why: "two sounded vowels, written without the diaeresis"}
+    - form: sarcheande
+      instead: sarcheände
+      why: "two sounded vowels, written without the diaeresis"
+    - form: sarcheanda
+      instead: sarcheända
+      why: "two sounded vowels, written without the diaeresis"
+    - {form: aipsea, instead: aipseä, why: "two sounded vowels, written without the diaeresis"}
+    - {form: nearle, instead: neärle, why: "two sounded vowels, written without the diaeresis"}
+    - {form: joache, instead: joäche, why: "two sounded vowels, written without the diaeresis"}
+    - {form: zeote, instead: zeöte, why: "two sounded vowels, written without the diaeresis"}
+    - form: zeotadora
+      instead: zeötadora
+      why: "two sounded vowels, written without the diaeresis"
+    - {form: raetur, instead: raëtur, why: "two sounded vowels, written without the diaeresis"}
+    - {form: que, instead: quë, why: "two sounded vowels, written without the diaeresis"}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -7585,7 +7601,7 @@ Provenzal is a tongue of the [Pelwar Family]{.name data-type="lore"}. Fluency me
 
 Provenzal is the melodic tongue of [[place-provenzrgn|Provenzia Region]], a realm where commerce meets artistry and the traditions of courtly culture flourish. Spoken in the prosperous merchant cities and cultivated courts of the southern coast, Provenzal is the language of síladors, merchants, and nobles who trade in beauty as readily as silk and spices.
 
-The roman repertoire retains `q` and `Q` for the formal greeting's fixed que. This formula does not add a new sound to the ordinary palette.
+The roman repertoire retains `q` and `Q` for the formal greeting's fixed quë. This formula does not add a new sound to the ordinary palette.
 
 ## Overview
 
@@ -7659,7 +7675,7 @@ _Sedon ol karalze_ is the physical hearth, the place of the house's kept fire. _
 
 _Sedon ol joreza_ names physical land or territory, whether owned or not, as distinct from water. Bare _jormalis_ keeps its owned-land meaning. The whole expression _jormalis levre_ conventionally names a flat open plain, whether owned or not; that geographical use belongs to the phrase. _Joreza ol salkon_ names sand, including sand away from a shore; _joreza ul ulmera_ is the conventional name for mud, earth mixed with water. _Sirete_ is an ordinary river and _sirete nizele_ a small stream; _vilare_ remains the great river. _Lamote ol kaldere_ calls a tree's limb a branch. As weather reports, _ar uradon_ means “no cloud”, clear weather, and _ez talv uradon_ means “it is cloudy”, with clouds in the sky.
 
-_Urkis_, _tavemer_ and _karzis_ count one, two and three; _arzun_ counts zero. _Olime_, _etore_ and _karzore_ name the first three positions. For later positions, _de ombela ez ir sedon ol raetur_ means “This chair is in position seven”, seventh in the sequence being arranged. _De ombela ez ir sedon ol zorimas_ puts it in position eight. The number after _ol_ gives the numbered position; these expressions do not add an ordinal ending. _Solte ol solte_ is a quarter, half of a half. _Tavemer zedime_ means both, all two; _urkis ol tavemer_ either of the two, and _ar urkis ol tavemer_ neither.
+_Urkis_, _tavemer_ and _karzis_ count one, two and three; _arzun_ counts zero. _Olime_, _etore_ and _karzore_ name the first three positions. For later positions, _de ombela ez ir sedon ol raëtur_ means “This chair is in position seven”, seventh in the sequence being arranged. _De ombela ez ir sedon ol zorimas_ puts it in position eight. The number after _ol_ gives the numbered position; these expressions do not add an ordinal ending. _Solte ol solte_ is a quarter, half of a half. _Tavemer zedime_ means both, all two; _urkis ol tavemer_ either of the two, and _ar urkis ol tavemer_ neither.
 
 In comparing the two speakers' shares, _jo kerate tolkemon mazeron; cho kerate tolkemon nizeron_ means “I have more pots; you have fewer pots”. With _ulmera_ in place of _tolkemon_, the comparison concerns more or less water, an amount rather than a count. _Zolme tolkemon_ is many pots and _itre tolkemon_ few; _zolme ulmera_ is much water and _itre ulmera_ little. In that same comparison, _jo kerate zolmimme tolkemon_ assigns me the greatest count of pots, while _cho kerate itrimme tolkemon_ assigns you the smallest. _Zolmimme ulmera_ and _itrimme ulmera_ compare the greatest and smallest amounts of water. These quantities differ from _tereme_, long in extent. _Rozeti tavemer_ is about two and _zetai tavemer_ exactly two.
 
@@ -7693,9 +7709,9 @@ _Ves jo tigate ves jo sistete_ means “Either I go or I wait”; _jo ar tigate 
 
 _Jo dunate tigate_ means “I can go”, while _jo ar dunate tigate_ denies ability. _Jo jestate tigate_ means “I have permission to go”. _Jo jestate tigate naren jo ar dunate tigate_ states permission alongside inability: “I may go, but I cannot go”. With a proposed departure, _cho tigate_, already under discussion, _jo jesterate cho_ grants you permission for it; _jo anjesterate cho_ forbids you to make it. The person receiving the permission or prohibition is the object of those two particular verbs. _Denon zikai dunate tambirete_ says “That might happen”, an uncertain possibility rather than permission.
 
-_Jo jervete tigate_ means “I must go”, an obligation. _Jo jervete ar tigate_ means “I must not go”: the obligation is to refrain from going. _Jo ar jervete tigate_ instead denies an obligation to go. The old _orfeate_ retains owing a favor. _Cho dajvete tigate_ advises “You ought to go”, without compulsion. _Denon ez jestare ul ar jerpele_ describes an option that is permitted and not required. _Ar jestare_ is used for an actual prohibition, not simply for the absence of an express permission. _Talv ar verdavis_ is the conventional stronger no-worth description, worthless; a thing of modest value still has worth.
+_Jo jervete tigate_ means “I must go”, an obligation. _Jo jervete ar tigate_ means “I must not go”: the obligation is to refrain from going. _Jo ar jervete tigate_ instead denies an obligation to go. The old _orfeäte_ retains owing a favor. _Cho dajvete tigate_ advises “You ought to go”, without compulsion. _Denon ez jestare ul ar jerpele_ describes an option that is permitted and not required. _Ar jestare_ is used for an actual prohibition, not simply for the absence of an express permission. _Talv ar verdavis_ is the conventional stronger no-worth description, worthless; a thing of modest value still has worth.
 
-The traditional formal greeting _Brave jhorne genthe korthe. que la preja soie talv vei_ is used as a whole: “Good day, noble companion; may peace be with you”. _Preja talv cho_ wishes peace as an ordinary goodbye. At the door, a host's _cho ez dumvar_ welcomes the other person as a guest under the roof. _Jo avete orfenon_ asks a kindness, “Please”, before a particular request. _Jo memrate orfenon ol cho_ thanks you for your kindness; _cho ar orfeate_ answers that no favor is owed in return. _Cho linkate jo_ politely asks to be left room or allowed to pass, “Excuse me”. _Jo taurate antambeza_ says “I am sorry”, holding regret for what happened. _Cho anorfenate jo_ asks “Forgive me”, with the speaker as the person to be forgiven.
+The traditional formal greeting _Brave jhorne genthe korthe. quë la preja soie talv vei_ is used as a whole: “Good day, noble companion; may peace be with you”. _Preja talv cho_ wishes peace as an ordinary goodbye. At the door, a host's _cho ez dumvar_ welcomes the other person as a guest under the roof. _Jo avete orfenon_ asks a kindness, “Please”, before a particular request. _Jo memrate orfenon ol cho_ thanks you for your kindness; _cho ar orfeäte_ answers that no favor is owed in return. _Cho linkate jo_ politely asks to be left room or allowed to pass, “Excuse me”. _Jo taurate antambeza_ says “I am sorry”, holding regret for what happened. _Cho anorfenate jo_ asks “Forgive me”, with the speaker as the person to be forgiven.
 
 The fixed attention calls _cho tavrelate_, _cho silvate_, _cho sistete_ and _cho sistate_ ask “Listen!”, “Look!”, “Wait!” and “Stop!” _Cho lokate fir de sedon_ asks “Come here!”; _cho tigate fos de sedon_, “Go away!”; _cho zumbrate jo_, “Help me!” _Cho dokate antigai_ asks for the words again, “Pardon?” These are the listed spoken requests; the merchant invitation below retains its own _narthe_. _Jo lambirete_ says “I understand”, and _jo ar lambirete_ “I do not understand”. _Eza cho dokate denon sa ketis?_ asks how to say the expression being referred to; _eza arlen ol denon ez ketis?_ asks what the referred-to thing is called.
 
@@ -7756,7 +7772,7 @@ Unlike Vylari's imperial standardization, Provenzal evolved through artistic and
 "L'athor en le tel de l'anvre."
 : "Love is the light of the soul." (From a famous sílador poem; note the Élavendri borrowing _tel_ "light/beauty" preferred over native _luerne_, and the poetic copula _en_ from Élavendri rather than native _ez_.)
 
-"Brave jhorne genthe korthe. que la preja soie talv vei."
+"Brave jhorne genthe korthe. quë la preja soie talv vei."
 : "Good day, noble companion; may peace be with you." (Formal greeting; _jhorne_ "day," _preja_ "peace," _soie_ "be" (from _evren_ "to be"), _talv_ "with." Pure Provenzal—no Élavendri borrowings in everyday speech.)
 
 "Me vei athore d'un aelcore verdhen."
@@ -7831,7 +7847,7 @@ ORDER BY position
 
 Its words are written in the setting's one guide; see [[doc-prnncthlrn|Pronouncing Thalorna]].
 
-The nasal vowels are the tongue's own. Wherever the ancient tongue set an `n` between two vowels, the `n` fell and left the vowel before it nasal: the ancient _yunakos_, a recruit, is _joache_, said in three syllables. The words borrowed from Élavendri, whose own nasals are written with an `n`, reinforced the sound.
+The nasal vowels are the tongue's own. Wherever the ancient tongue set an `n` between two vowels, the `n` fell and left the vowel before it nasal: the ancient _yunakos_, a recruit, is _joäche_, said in three syllables. The words borrowed from Élavendri, whose own nasals are written with an `n`, reinforced the sound.
 
 ### Word edges
 
@@ -7899,7 +7915,7 @@ Every office in this field ends in _-e_, the old agent ending, and the same offi
 
 The relation that organizes a Provenzian life is patron and client, and its words are inherited whole. A patron is _daimela_, a word that ends like a feminine one but names a man, as it did in the ancient tongue; his patronage is _daimelal_, and to give as a patron gives is _daimate_. The client's attendance at the patron's door at first light is _pramolza_, the morning call, and a city's streets are full of men making it.
 
-A man with no patron is _anzirote_, unplaced, which in Provenzia is not a description of freedom but of exposure. The debts a client runs up are _orfeate_, to owe, and its learned cousin _nezora_, a debt in money, is a different thing entirely: a Provenzian can repay the second.
+A man with no patron is _anzirote_, unplaced, which in Provenzia is not a description of freedom but of exposure. The debts a client runs up are _orfeäte_, to owe, and its learned cousin _nezora_, a debt in money, is a different thing entirely: a Provenzian can repay the second.
 
 ### Love and its conduct
 
@@ -7919,7 +7935,7 @@ Provenzia's cities are marble and aqueduct and amphitheater, half of them inheri
 
 ### The gods and the hearth
 
-Provenzians keep the gods' festivals and endow their temples, and a wealthy man funds a shrine as readily as a school, for the same reason. The priest is _sarcheande_, the keeper of a god's house, and the household's own gods, _karalzis_, the ones of the kept fire, have a niche by the door of every house in the tongue's country.
+Provenzians keep the gods' festivals and endow their temples, and a wealthy man funds a shrine as readily as a school, for the same reason. The priest is _sarcheände_, the keeper of a god's house, and the household's own gods, _karalzis_, the ones of the kept fire, have a niche by the door of every house in the tongue's country.
 
 ### Learning and the academies
 
@@ -7969,11 +7985,11 @@ The calendar is the empire's, counted from its founding, and the festivals are e
 
 ### Qualities
 
-The qualities a Provenzian of standing claims are _solvime_, weighty, and _zeote_, wise.
+The qualities a Provenzian of standing claims are _solvime_, weighty, and _zeöte_, wise.
 
 ### Doing, going and being
 
-A verb is cited by its infinitive, commonly ending in _-ate_ or _-ete_ in native words. _Zeotadora_ and _solchadora_ keep their listed forms. The motion and state auxiliaries, the copula and the rest stand with the grammar words.
+A verb is cited by its infinitive, commonly ending in _-ate_ or _-ete_ in native words. _Zeötadora_ and _solchadora_ keep their listed forms. The motion and state auxiliaries, the copula and the rest stand with the grammar words.
 
 ### Numbers and grammar words
 
