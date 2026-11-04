@@ -7206,7 +7206,7 @@ data:
       - {edge: openCluster, sounds: [pr, pl, tr, kr, kl, br, bl, dr, gr, gl, fr, fl, thr]}
       - {edge: closeConsonant, sounds: [l, n, r, s, th]}
     clusters: {max: 3}
-    stress: {two: first, longer: first, mark: acute}
+    stress: {two: first, longer: penultimate, mark: acute}
     syllables: {vowelPairs: [ai, ei, oi, au, eu, ou]}
   tongues:
     - {tag: provenzal, meaning: a Provenzal name}
@@ -7619,7 +7619,7 @@ Provenzal is marked by a high proportion of sonorant consonants and open vowel p
 
 **Vowels:** Provenzal employs five primary vowels with systematic distinction between open and close variants. Nasal vowels are phonemic, particularly in words borrowed from or influenced by Élavendri speech. Diphthongs are common (ai, ei, oi, au, eu, ou) and serve both phonetic and expressive purposes.
 
-**Prosody:** The language favors a rising intonation at phrase boundaries, creating a naturally questioning, inviting quality. Stress is generally initial (FA-ris, AR-vel) but varies for poetic effect. Long vowels are expressed through vowel doubling or diphthongization, making the language highly flexible for verse composition.
+**Prosody:** The language favors a rising intonation at phrase boundaries, creating a naturally questioning, inviting quality. Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Provenzian favours short words, so it often lands at the front (FA-ris, AR-vel). Long vowels are expressed through vowel doubling or diphthongization, making the language highly flexible for verse composition.
 
 **Distinctive Features:** Provenzal employs consonant lenition and assimilation freely—a trademark of the language's fluid character. The palatal fricative /j/ marks the boundary between formal and familiar speech (similar to Vylari's formal registers but less rigid). Regional variation is accepted and even celebrated; each city is known for its distinctive pronunciation patterns.
 

@@ -4491,6 +4491,8 @@ Aelwythi respells its English-derived vocabulary consistently:
 - x becomes ks; at the beginning of a word it becomes z.
 - qu and ch remain unchanged.
 
+An English-derived word keeps its English sound and is written in the common letters: _kìdni_.
+
 Thus English silence is Aelwythi silense, pack is pak and exact is eksakt.
 English sceptic is Aelwythi skeptik, an explicit exception to the sc rule.
 The vocabulary records the exceptions needed to distinguish colliding forms:
@@ -4723,6 +4725,8 @@ coined-word rules, including stress across the complete name, except where
 the register or an authored entry specifies otherwise.
 
 **The vowels.** _a_, _e_ and _i_ carry most names, with _o_ in _God-_ and _Os-_.
+
+**Shape.** A coined word or name carries no apostrophe and no hyphen in its roman; its parts are written as one word.
 
 **The consonants.** _w_, _th_, _d_, _l_, _r_, _f_ and _g_ are common. The hard
 sound is always written _k_, as in _Kuth-_ and _-rik_.

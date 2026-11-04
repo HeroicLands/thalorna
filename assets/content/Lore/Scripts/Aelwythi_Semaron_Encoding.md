@@ -190,7 +190,7 @@ Single letters retain their case. A consonant group is lowercase, as in ch,
 or initial-uppercase, as in Ch. CH and cH are illegal. Consonant groups take
 their own signs: ch CHEROLA, sh SHELMORA, th THOLERA, dh DHANETHE,
 kh KHORVENA, gh GHORMAS, zh ZHAREVA, ts TSALEMA and ng ENGARIS.
-The letter q takes QORETHA; qu remains q followed by u. The vowel i takes
+A tch writes t followed by CHEROLA. The letter q takes QORETHA; qu remains q followed by u. The vowel i takes
 ILTHERA and k takes KALPEZA, in both their majuscule and minuscule forms.
 A doubled vowel remains two letters.
 

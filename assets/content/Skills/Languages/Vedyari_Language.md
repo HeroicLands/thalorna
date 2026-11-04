@@ -8431,7 +8431,7 @@ Vedyari has two registers, and they sound alike but end differently. The classic
 
 **The vowels.** _a_ carries most words, with _i_ and _u_ after it. _e_ and _o_ are rarer, and few words open on them. Two vowels stand together only as _ai_ and _au_.
 
-**The consonants.** _r_ and _n_ lead. The plain stops _t_, _k_, _d_ and _p_ come next, then _s_, _m_ and _v_, with _sh_ and _j_ for colour. _bh_ is common, as in _bharava_ and _bhurka_: a _b_ said with a breath after it, the two letters as the guide reads them, said together. Vedyari writes _bh_, as the guide allows a tongue whose note says so. _kh_ and _gh_ keep the guide's throat sounds and belong to a smaller, older set of words, such as _ghaul_ "night" and _okhra_ "a loom"; most of them stand at the start of a syllable. A new word reaches for a stop before a _v_ or an _r_.
+**The consonants.** _r_ and _n_ lead. The plain stops _t_, _k_, _d_ and _p_ come next, then _s_, _m_ and _v_, with _sh_ and _j_ for colour. _bh_ /bʱ/ is common in new words, as in _bharava_ and _bhurka_: a _b_ said with a breath after it, the two letters as the guide reads them, said together. Vedyari writes _bh_, as the guide allows a tongue whose note says so. _kh_ and _gh_ keep the guide's throat sounds and belong to a smaller, older set of words, such as _ghaul_ "night" and _okhra_ "a loom"; most of them stand at the start of a syllable. A new word reaches for a stop before a _v_ or an _r_.
 
 **Clusters.** Consonants meet in a few favoured pairs and triples inside a word: _ndr_, _shr_, _kr_, _dr_, _vr_ and _pr_. A word opens on at most two consonants together. _ksh_ stands inside a word, as in _akshora_, never at its start.
 

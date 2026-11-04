@@ -5042,6 +5042,8 @@ Okharik is the tongue of the savanna clans and their temple-cities.
 
 **Clusters.** _ng-_, _mb-_ and _nd-_ open words and syllables.
 
+**Coining.** A new word may open on _mb_, _nd_, _ng_, _nk_ or _nt_, and may use _ngw_, as in _ngwelo_.
+
 **Endings.** Okharik words end in _-ing_, _-ari_, _-oro_, _-el_ or _-u_.
 
 ## Phonology

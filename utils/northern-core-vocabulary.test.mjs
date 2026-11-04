@@ -169,7 +169,7 @@ test("Nordmal satisfies its frontmatter, word and name contracts", () => {
 });
 
 test("Nordmal core expressions keep its spelling palette and real constituent classes", () => {
-    assert.deepEqual(language.fm.data.sounds.stress, { two: "first", longer: "first" });
+    assert.deepEqual(language.fm.data.sounds.stress, { two: "first", longer: "penultimate" });
     const defined = new Set(words.map((w) => w.form.normalize("NFC")));
     for (const w of ordinary) assert.equal(w.form.trim(), w.form, w.form);
     for (const w of words.filter((w) => w.concept !== undefined)) {

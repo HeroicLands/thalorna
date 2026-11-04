@@ -6741,7 +6741,7 @@ data:
       - "térgadandi"
       - "tírindi"
   sounds:
-    stress: {two: first, longer: first}
+    stress: {two: first, longer: penultimate}
     edges:
       - {edge: openCluster, sounds: [tr, dr, kr, gr, thr, khr, ghr]}
       - {edge: closeConsonant, sounds: [k, l, n, r, s, ks, lm, nd, th, rth]}
@@ -7410,7 +7410,7 @@ The [[skill-aelendlng#lexicon|Áelendi Lexicon]] gives the words with their sour
 
 **Vowels:** Áelendi maintains eight vowel positions with clear length distinctions. The nasal vowels of Élavendri are not true phonemes in Áelendi but rather the result of n dropping out after a vowel. The vowel inventory is more stable and resistant to diphthongization than in Élavendri.
 
-**Stress:** Stress consistently falls on the first syllable of roots, following a clear predictable pattern. This predictability, combined with conservative phonetics, makes Áelendi relatively easy to learn despite its phonetic complexity.
+**Stress:** Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]]. Áelendi favours short words, so the stress most often lands at the front of a word, in a clear predictable pattern. This predictability, combined with conservative phonetics, makes Áelendi relatively easy to learn despite its phonetic complexity.
 
 ### Áelendi and Élavendri
 
@@ -7422,7 +7422,7 @@ The two tongues descend from one, and nearly every difference between them is a 
 
 **The long vowels.** An Áelendi long vowel is held on one colour and let go. Élavendri broke those vowels into the diphthongs it is admired for, so an Áelendi long _a_ stands where Élavendri has _ae_, a long _i_ where it has _ia_ or _ie_, and a long _u_ where it has _ye_.
 
-**The stress.** Áelendi has not moved its stress off the first syllable in the whole of its recorded life. Élavendri traded fixed stress for the melodic accent it sings by, pitch carrying as much as weight, which is the feature that defeats learners of the lowland tongue and the one an Áelendan finds hardest to take seriously.
+**The stress.** Áelendi keeps a steady, weighty stress and favours short words with the weight at the front. Élavendri traded fixed stress for the melodic accent it sings by, pitch carrying as much as weight, which is the feature that defeats learners of the lowland tongue and the one an Áelendan finds hardest to take seriously.
 
 Cognate pairs, the Áelendi form beside the Élavendri one:
 
@@ -7497,7 +7497,7 @@ What is written rather than cut is written in the [[skill-clthndscrpt|Veldikko]]
 
 What the two hands reach is not comparable. An Élavendri page can be read by anyone holding the Semaron, which is most of the educated across [[place-midhalnrgn|Mídhalión Region]] and the western [[place-ankrscntnnt|Ankaris Continent]]; an Áelendi page can be read by the Sinale and by almost nobody else alive. And the two peoples can speak and cannot read—the tongues are near enough for a conversation, and the highlander commonly has the lowland one besides, but neither makes out a line the other has set down. Only in the carved work of magic and old poetry, which the Élavendri read as a learned skill, do they meet on a page.
 
-The Áelendan hand is the same letters in an older, plainer ductus than the Sinale now write, and it has not changed in centuries. A borrowed script never fits, and this one misfits in both directions at once. Veldikko was made for a clean-consonant tongue and has no letter for an ejective or for an aspirated stop, so Áelendan scribes write both as ligatures—the hand's constant ligaturing put to a job Sinale never asked of it, and the first thing a Sinale reader notices. Running the other way, the marks the hand keeps for pitch have little to mark in a tongue whose stress never moves off the first syllable; the scribes spend them on vowel length instead, where eight positions and a length distinction need more than Sinale ever asked the marks to carry.
+The Áelendan hand is the same letters in an older, plainer ductus than the Sinale now write, and it has not changed in centuries. A borrowed script never fits, and this one misfits in both directions at once. Veldikko was made for a clean-consonant tongue and has no letter for an ejective or for an aspirated stop, so Áelendan scribes write both as ligatures—the hand's constant ligaturing put to a job Sinale never asked of it, and the first thing a Sinale reader notices. Running the other way, the marks the hand keeps for pitch have little to mark in a tongue whose stress follows one plain rule; the scribes spend them on vowel length instead, where eight positions and a length distinction need more than Sinale ever asked the marks to carry.
 
 The Áelendan nonetheless write very little. The [Kindred Pact]{.name data-type="lore/law"} is deliberately unwritten, and the tradition holds that a thing committed to stone stops being renewed in the mouth. What is cut in Thurarth is therefore exceptional by definition: wards, boundary and grave markers, and the magical texts of great antiquity that draw mages up out of the lowlands to read them in the original. True literacy is confined to those training in the magical arts, a portion of the elders, and the occasional antiquarian from the [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order) who has been permitted—rarely, and under watch—to copy an inscription.
 
@@ -7516,7 +7516,7 @@ The Áelendan nonetheless write very little. The [Kindred Pact]{.name data-type=
 
 A name is inherited. A child receives the name of an honoured ancestor and is expected to carry what came with it, and the Áelendan do not coin new ones lightly—a name entering a lineage for the first time is an event the Tradition Keepers record and recite afterward among the genealogies.
 
-**A given name is a root, or two roots set together, and nothing else.** It carries one mark, over its first syllable, because that is where the stress falls. Masculine names close on a consonant and feminine names on -a; the neuter takes no personal names at all, belonging in the grammar to what is static and eternal.
+**A given name is a root, or two roots set together, and nothing else.** It carries one mark, over the syllable that takes the stress, where the common rule would not place it. Masculine names close on a consonant and feminine names on -a; the neuter takes no personal names at all, belonging in the grammar to what is static and eternal.
 
 **A clan name is the founder's name with an ending**—"those of X"—and that ending is the whole difference between the two lists. After a vowel it is -ndi; after n it is -di, the nasals fusing; after any other consonant it is -andi, -endi, -indi, -ondi or -undi, taking its vowel from the last full vowel of the stem. No given name ends this way and no clan name fails to, so a highlander never has to ask which he has been told. The tongue's own name is built by the rule: ael, "first light", with the ending gives Áelendi, "those of the Ael", and the people are the Áelendan by the same stem under the collective ending.
 

@@ -73,7 +73,7 @@ test("Hvarn preserves original words, meanings, names, metadata and prose", () =
     const { words: _words, fields, roman: _roman, ...data } = note.fm.data;
     assert.equal(
         hash({ ...note.fm, data }),
-        "4d0bee3c91a1aa03c1e65e7c841b94a89e48da029bb1863425e0ad7dbcf53e0b",
+        "cd85a11e0188a3e480fc88ff73d57a0870e7bab84c0491474e203ef3742a3676",
     );
     assert.equal(
         hash(fields.slice(0, -1)),
@@ -85,7 +85,7 @@ test("Hvarn preserves original words, meanings, names, metadata and prose", () =
     });
     assert.equal(
         hash(splitFrontmatter(note.raw).body.replace(/\n## Everyday speech\n[\s\S]*$/u, "")),
-        "acb7d84e811bf058a65c6735f515533f7f5e1851cbb3580e44b1262dad88a2c0",
+        "3cbdb3dc588820021486d90791da50d462833087d2f960d01406fbef8fa6022a",
     );
     const beforeData = { ...note.fm.data, words: words.slice(0, 21), fields: fields.slice(0, -1) },
         before = pieceGlosses(beforeData),
@@ -199,7 +199,7 @@ test("new Hvarn words retain vowels, dense short roots and whole compound seams"
         if (w.built) assert.equal(w.form, w.built.join(""), w.form);
     }
     assert.equal(note.fm.data.sounds.stress.two, "first");
-    assert.equal(note.fm.data.sounds.stress.longer, "first");
+    assert.equal(note.fm.data.sounds.stress.longer, "penultimate");
     assert.deepEqual(SOURCES["skill-hvarnlng"] ?? [], []);
 });
 test("Hvarn publishes each ordinary citation and its essential meaning", async () => {

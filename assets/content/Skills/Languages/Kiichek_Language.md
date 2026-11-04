@@ -3920,6 +3920,8 @@ Ki'i'chek is clipped and glottal, built of short syllables with separately sound
 
 **Endings.** Ki'i'chek words end in _-al_, _-ik_, _-ul_, _-mah_ or _-bal_.
 
+**Coining.** A new word may carry frequent glottal stops, as in _ne'_, _ish'bal_ and _k'ayik_, with no ejective needed. Ritual speech may rise at the end of a phrase. Questions are asked with words.
+
 **What Ki'i'chek leaves out.** New ordinary words normally carry no more than two apostrophes, written with the straight apostrophe. Established compounds keep their spellings. No word requires an ejective consonant or lexical tone.
 
 ## Phonology

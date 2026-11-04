@@ -5879,7 +5879,7 @@ data:
       - {edge: closeConsonant, sounds: [s, k, l, m, n, t]}
       - {edge: vowelPair, sounds: [ai, au]}
     clusters: {max: 3}
-    stress: {two: first, longer: first, mark: acute}
+    stress: {two: first, longer: penultimate, mark: acute}
     syllables: {vowelPairs: [ai, au]}
   scope:
     folders: [kelwanuk]
@@ -6033,7 +6033,7 @@ The Kelwanuk Language is a tongue of long words, dense with _k_, _kw_ and _ts_, 
 
 ### Stress
 
-A word is stressed on its first syllable, whatever its length: _tsilkas_ is TSIL-kas, _kenwatukwa_ is KEN-wa-tu-kwa, and _kelwanuk_ is KEL-wa-nuk. A built word keeps the stress of its first root. No word of the dictionary needs an accent.
+Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Kelwanuk favours short words with the weight at the front: _tsilkas_ is TSIL-kas, _kenwatukwa_ is ken-wa-TU-kwa, and _kelwanuk_ is kel-WA-nuk. No word of the dictionary needs an accent.
 
 ## Grammar Notes
 

@@ -4436,7 +4436,7 @@ data:
       - "Vrestun"
       - "Shulner"
   sounds:
-    stress: {two: first, longer: first}
+    stress: {two: first, longer: penultimate}
     edges:
       - {edge: openCluster, sounds: [hv, hvr, vh, vr, vn, kl, tr, br, dr, zv]}
       - {edge: closeConsonant, sounds: any}
@@ -4540,7 +4540,7 @@ Consonant Clusters
 : Heavy in every position, and the initial cluster _hv-_ is the people's own name
 
 Syllable Structure
-: Closed; stress falls on the first syllable without exception
+: Closed; stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Hvarn favours short, front-stressed words
 
 Final Consonants
 : Unrestricted, and a final cluster of three is ordinary
@@ -4572,7 +4572,7 @@ The [[affiliation-hvarnguides|Hvarn]] call themselves _hvarn_, which is also the
 
 A Hvarn compound sets two words side by side, the first saying which and the second saying what: _dzevd_ is bone and _poudz_ is to bring up from below, so _dzevdpoudz_ is the bone-bringer, who recovers the dead from the eastern gorges. The words are written whole at the seam, however many consonants meet there.
 
-The sound of Hvarn is dense. Clusters stand at the start and the end of a word, a final cluster of three is ordinary. Stress falls on the first syllable without exception.
+The sound of Hvarn is dense. Clusters stand at the start and the end of a word, a final cluster of three is ordinary. Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Hvarn favours short words with the weight at the front.
 
 ## How to read the dictionary {#how-to-read-the-dictionary}
 

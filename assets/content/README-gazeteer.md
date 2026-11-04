@@ -547,6 +547,15 @@ read its public text against the secret blocks of every note it draws on.
 **A scenario is the exception: it is wholly GM material**, and its truth is
 stated plainly.
 
+## Coining words
+
+These rules hold for every new coinage in every tongue; a language's own note adds its flavour on top.
+
+- **No coined word is a whole word of the reader's own language.** The check reads the word list in `assets/data/`, which the generator in `utils/` builds.
+- **Respell in shapes a reader already knows.** A schwa is written _ò_, as in _òbáut_ and _bòtòl_, and the sound of _wh_ is written _hw_. The vowel of _bird_ is written _bùrd_, and the _aw_ of _law_ is written _o_ or _a_.
+- **Glides stay light.** A new coinage may use _y_ and _ny_ before a vowel, and writes the glides as _ya_ and _we_.
+- **A word carries at most two apostrophes.**
+
 ## Guidance by note type
 
 The note types below are those in `package-build/docs/reference/note-types.md`. The reference covers their data fields; this section addresses the body text. Choose a voice for the subject and the reader's task. Narration is most valuable when it explains a culture or place; lookup and mechanical entries need direct language first.

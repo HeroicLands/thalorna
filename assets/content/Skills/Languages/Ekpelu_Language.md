@@ -6738,6 +6738,8 @@ Ekpelu is small and open, spoken across the forest by peoples with four differen
 
 **Clusters.** _gb_, _kp_, _mb_, _nd_ and _ng_ only.
 
+**Coining.** A new word may use _gb_ /ɡ͡b/ and _kp_ /k͡p/, each said as one sound; plain _b_ and _p_ are always fine to say. A new word may also open on _mb_, _nd_ or _ng_, as _mbala_, _ndaro_ and _ngoto_ do.
+
 **Endings.** Ekpelu words end in _-o_, _-e_, _-u_, _-a_ or _-i_.
 
 **What Ekpelu leaves out.** It has no closed syllable and no other cluster.

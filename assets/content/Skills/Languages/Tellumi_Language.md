@@ -85,7 +85,7 @@ data:
       - "Kervishun"
       - "Budemun"
   sounds:
-    stress: {two: first, longer: first}
+    stress: {two: first, longer: penultimate}
     syllables:
       onsets: single
       codas: [l, m, n, r, t, d, k, s, sh]
@@ -6760,7 +6760,7 @@ A syllable is a consonant and a vowel, or a consonant, a vowel and one closing c
 
 ### Stress
 
-Stress falls on the syllable that a doubled consonant opens: te-**LLU**-mi, ten-**NE**-li-mash. A word with no doubled consonant is stressed on its first syllable: **NE**-lim, **TASH**-bem.
+Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]]: a word of two syllables is stressed on the first, a longer word on the second-to-last, as in te-**LLU**-mi, ten-ne-**LI**-mash, **NE**-lim and **TASH**-bem. Tellumi favours short words, so the weight most often falls at the front.
 
 ## Building words
 

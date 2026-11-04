@@ -6331,7 +6331,7 @@ data:
       - "zakedala"
       - "zimbala"
   sounds:
-    stress: {two: first, longer: first, mark: acute}
+    stress: {two: first, longer: penultimate, mark: acute}
     edges:
       - {edge: openCluster, sounds: [mb, mp, nd, nt, nk, nj, nz]}
       - {edge: closeConsonant, sounds: []}
@@ -6634,17 +6634,19 @@ The language is remarkable for its sophisticated system of drum and tone communi
 
 Nyáluban is pitched and even, spoken as readily as it is drummed.
 
-**The vowels.** _a_, _o_, _e_, _i_ and _u_, all open. Stress the first syllable unless an acute marks another. The acute marks stress, not high pitch.
+**The vowels.** _a_, _o_, _e_, _i_ and _u_, all open. Stress follows the guide unless an acute marks another syllable. The acute marks stress, not high pitch.
 
 **The consonants.** _ny_, _ng_, _mb_, _nd_, _nk_, _sh_, _l_, _b_, _d_ and _w_.
+
+**Coining.** A new word may open on _mb_, _nd_, _ng_, _nk_, _nt_, _mp_ or _nj_. Pitch carries meaning in a coined word; where a word needs it, the guide's caron and circumflex write it. The tongue has no writing tradition; its words live in memory-song, called by one voice and answered by the gathered.
 
 **Clusters.** _ng_, _mb_, _nd_ and _nk_ open syllables. A short hum before the consonant, as in _um-BU-ka_, or the consonant alone, is always fine.
 
 **Endings.** Nyáluban words end in a vowel, as in _ruwo_, _nyoli_ and _Lusheya_.
 
-**Verse.** A memory-song is called by a griot and answered by those gathered, and it does not rhyme: every Nyáluban word closes on a vowel, so a rhyme costs nothing and proves nothing. Its line has four beats. Every word stresses its first syllable, so every word of two syllables or more carries one beat, and the small joining words _ngwi_, _nu_, _nde_ and _ngo_ carry none. The gathered answer is a line of four beats too, most often a two-word phrase said twice, as in _ruwo lashemi, ruwo lashemi_, "the lion watched, the lion watched". The craft is in return: a line that opens on the words the line before closed on, a run of lines that each open on the same word, and a refrain that comes back with one word changed. A clan is praised by its name and the things it stands with, as in _ngonzi mbeyi ngayela nzabi_, "Ngonzi with the red escarpment". A count is kept on the fingers, _labye ndawa_, _labye ndawi_, "finger one, finger two", until the hand is whole.
+**Verse.** A memory-song is called by a griot and answered by those gathered, and it does not rhyme: every Nyáluban word closes on a vowel, so a rhyme costs nothing and proves nothing. Its line has four beats. Every word takes one stress, so every word of two syllables or more carries one beat, and the small joining words _ngwi_, _nu_, _nde_ and _ngo_ carry none. The gathered answer is a line of four beats too, most often a two-word phrase said twice, as in _ruwo lashemi, ruwo lashemi_, "the lion watched, the lion watched". The craft is in return: a line that opens on the words the line before closed on, a run of lines that each open on the same word, and a refrain that comes back with one word changed. A clan is praised by its name and the things it stands with, as in _ngonzi mbeyi ngayela nzabi_, "Ngonzi with the red escarpment". A count is kept on the fingers, _labye ndawa_, _labye ndawi_, "finger one, finger two", until the hand is whole.
 
-**What Nyáluban leaves out.** Common spelling leaves tone unwritten, uses at most one mark in a word and has no closed syllable. A reader need not learn rising or falling tones to say a name or read a passage aloud.
+**What Nyáluban leaves out.** Common spelling writes tone only where a word needs it, uses at most one mark in a word and has no closed syllable. A reader need not learn rising or falling tones to say a name or read a passage aloud.
 
 ## Phonology
 
@@ -6732,7 +6734,7 @@ Falling Tone (5–1 or 4–2)
 
 ### Reading and performance
 
-Use the letters and first-syllable stress of [[doc-prnncthlrn|Pronouncing Thalorna]] when reading Nyáluban aloud. An acute indicates a different stressed syllable; it does not identify a high tone. Common spelling uses no grave, caron or circumflex to mark pitch. Readers are not expected to reproduce tonal distinctions for their words to be understood at the table.
+Use the letters and stress of [[doc-prnncthlrn|Pronouncing Thalorna]] when reading Nyáluban aloud. An acute indicates a different stressed syllable; it does not identify a high tone. Where a word's pitch must be written, common spelling uses the guide's caron for a rise and circumflex for a fall, and most words need neither. Readers are not expected to reproduce tonal distinctions for their words to be understood at the table.
 
 Linguistic tone and performance melody are separate. A call does not automatically give its words rising tones, nor does an answer give them falling tones. A griot's rhythm, repeated phrases and the hearers' responses carry the shape of a memory-song. Where useful, an optional direction outside the words can ask for a held syllable or a rising or falling phrase. It does not change the spelling or establish a new word meaning.
 
@@ -6767,7 +6769,7 @@ Word Length
 : Moderate; compounds and affixed words create polysyllabic formations, but roots tend toward bisyllabic or monosyllabic forms
 
 Stress Patterns
-: Stress falls on the first syllable unless an acute marks another stressed syllable. Stress and pitch are separate: no secondary-stress pattern or tonal contour needs to be learned for the common reading.
+: Stress follows the guide unless an acute marks another stressed syllable. Stress and pitch are separate: no secondary-stress pattern or tonal contour needs to be learned for the common reading.
 
 ## Grammar Notes
 
@@ -7242,7 +7244,7 @@ The five clans of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]] keep no
 
 A Nyáluban noun stands in a class its prefix marks, and an ending says what a word has become: _ruwo_ is the lion, and _[Ruwozi]{.name data-type="affiliation/lineage"}_ is the clan of the lion, the people who are _of_ it. A name of rank is two words, the head first and the thing it stands for after: _Nyoli Ruwozi_ is the Daughter of the Lion, and _[[lore-shorinyadty|Shorinya Ndafo]]_ is the Great Brightness.
 
-The sound of Nyáluban is open and sung. Every syllable is a consonant and a vowel or a vowel alone, every word closes on a vowel, and a nasal before a stop opens many words and stands inside many more: _mb_, _nd_, _nk_, _nj_. No word has a fricative and a stop together, so none opens on _sp_, _st_ or _sk_. Pitch carries meaning within the spoken language, which is what lets a drum speak it. The common spelling leaves that pitch unwritten and uses an acute only to mark stress away from the first syllable. The transcription remains usable without a tonal performance.
+The sound of Nyáluban is open and sung. Every syllable is a consonant and a vowel or a vowel alone, every word closes on a vowel, and a nasal before a stop opens many words and stands inside many more: _mb_, _nd_, _nk_, _nj_. No word has a fricative and a stop together, so none opens on _sp_, _st_ or _sk_. Pitch carries meaning within the spoken language, which is what lets a drum speak it. The common spelling writes that pitch only where a word needs it, with the guide's caron or circumflex, and uses an acute only to mark stress away from where the guide places it. The transcription remains usable without a tonal performance.
 
 ## How to read the dictionary {#how-to-read-the-dictionary}
 

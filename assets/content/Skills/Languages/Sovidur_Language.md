@@ -92,7 +92,7 @@ data:
       - "Khaaqidur"
       - "Vurakur"
   sounds:
-    stress: {two: last, longer: final}
+    stress: {two: first, longer: penultimate}
     syllables:
       onsets: single
       codas: [b, d, t, k, g, q, gh, kh, j, ch, s, sh, z, m, n, l, r, v, y]
@@ -7365,7 +7365,7 @@ A syllable opens on one consonant or on nothing and closes on nothing or on one 
 
 ### Stress
 
-Stress falls on a doubled vowel where a word has one, and otherwise on the last syllable of the word: **QII**-mod, ko-**DU**, u-ru-**VAQ**.
+Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]]: a word of two syllables is stressed on the first, a longer word on the second-to-last, as in **QII**-mod, **KO**-du and u-**RU**-vaq.
 
 ## Building words
 
@@ -7427,7 +7427,7 @@ The Sovidur write nothing but signs. Each tribe has a mark, cut into the stone o
 
 The older stem list also supplies ordinary free words. The new ordinary citations state their class and keep the old senses: _kodu_ is a horse, _uruvol_ water, _akhaq_ a father and _semok_ a guest. A personal or place name remains a name; its ordinary stem is cited separately where needed. No older word, name or register entry is respelled here.
 
-Keep the established sound group of an existing stem, including a legacy spelling that does not look regular beside a new coin. New stems use one front or back group, with _i_ neutral. Every vowel is said as written, _o_ as _o_ and _u_ as _u_. These letters identify vowels, not pitch or stress. Hold a doubled vowel; otherwise stress the final syllable, as the earlier sound rules state. No extra accent is required.
+Keep the established sound group of an existing stem, including a legacy spelling that does not look regular beside a new coin. New stems use one front or back group, with _i_ neutral. Every vowel is said as written, _o_ as _o_ and _u_ as _u_. These letters identify vowels, not pitch or stress. Hold a doubled vowel. Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]]. No extra accent is required.
 
 An ordinary word has at most four syllables. Use separate head and modifier words when joining them would exceed that limit. Existing proper names retain their recorded forms. Each part of an actual compound keeps its own harmony; vowel meetings take _y_, equal consonants merge, and suffixes use their stated front or back form. The endings _-ur_, _-oq/-ok_, _-or_, _-ud_ and _-lun_ retain their listed meanings. None is a general plural or a verb ending.
 

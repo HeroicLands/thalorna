@@ -8,7 +8,12 @@ import { isDeepStrictEqual } from "node:util";
 import YAML from "yaml";
 import { splitFrontmatter } from "@heroiclands/package-build/engine/diagnostics";
 import { WORD_CLASS_BASES, parseWordClass } from "@heroiclands/package-build/engine/word-classes";
-import { baselinePath, withNameForms } from "./encoding-preservation.mjs";
+import {
+    baselinePath,
+    withCommonStress,
+    withNameForms,
+    withStressProse,
+} from "./encoding-preservation.mjs";
 import { notePath } from "./note-index.mjs";
 
 const baseline = "4da8f980e";
@@ -204,7 +209,10 @@ const replacedProse = new Map([
     ],
 ]);
 const withReplacedProse = (file, text) =>
-    (replacedProse.get(file) ?? []).reduce((out, [from, to]) => out.replace(from, to), text);
+    withStressProse(
+        (replacedProse.get(file) ?? []).reduce((out, [from, to]) => out.replace(from, to), text),
+        file,
+    );
 // The five tribes' replacement names, as they stand in prose that names them.
 const tribeRenames = new Map([
     ["Azardan", "Jobizur"],
@@ -364,7 +372,10 @@ test("original language entries, metadata and prose are retained", () => {
 
         const oldMetadata = structuredClone(
             withoutKeptTag(
-                withoutReplacedOlderNames(withNameForms(before.fm, after.fm), file),
+                withoutReplacedOlderNames(
+                    withCommonStress(withNameForms(before.fm, after.fm), file),
+                    file,
+                ),
                 file,
             ),
         );

@@ -183,6 +183,7 @@ test("Okharik preserves original words, meanings, names, metadata and prose", ()
         hash(
             beforeRespelling(splitFrontmatter(note.raw).body)
                 .replace(romanNote + "\n\n", "")
+                .replace(/\*\*Coining\.\*\*[^\n]*\n\n/u, "")
                 .replace(/\n## Everyday speech\n[\s\S]*$/u, ""),
         ),
         "b1ba0c56bc8ff7416393ee2cd7b1c750e9f5cf32f2a19ba05b2baa2acf6ad258",

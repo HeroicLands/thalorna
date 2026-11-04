@@ -579,6 +579,186 @@ export function withNameForms(fm, current) {
     return copy;
 }
 
+/** Notes whose stress follows the common rule; the baseline stated their own. */
+export const COMMON_STRESS_NOTES = new Set([
+    "skill-aelendlng",
+    "skill-hvarnlng",
+    "skill-nordmalng",
+    "skill-sinalelng",
+    "skill-nyalbnlng",
+    "skill-provnzlng",
+    "skill-tellumilng",
+    "skill-kelwanuklng",
+    "skill-sowideslng",
+]);
+
+/** Baseline sentences about stress, by note address, and the sentences that now stand in their place. */
+export const STRESS_PROSE = new Map([
+    [
+        "skill-aelendlng",
+        [
+            [
+                "**Stress:** Stress consistently falls on the first syllable of roots, following a clear predictable pattern. This predictability, combined with conservative phonetics, makes Áelendi relatively easy to learn despite its phonetic complexity.",
+                "**Stress:** Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]]. Áelendi favours short words, so the stress most often lands at the front of a word, in a clear predictable pattern. This predictability, combined with conservative phonetics, makes Áelendi relatively easy to learn despite its phonetic complexity.",
+            ],
+            [
+                "**The stress.** Áelendi has not moved its stress off the first syllable in the whole of its recorded life. Élavendri traded fixed stress",
+                "**The stress.** Áelendi keeps a steady, weighty stress and favours short words with the weight at the front. Élavendri traded fixed stress",
+            ],
+            [
+                "It carries one mark, over its first syllable, because that is where the stress falls.",
+                "It carries one mark, over the syllable that takes the stress, where the common rule would not place it.",
+            ],
+        ],
+    ],
+    [
+        "skill-hvarnlng",
+        [
+            [
+                ": Closed; stress falls on the first syllable without exception",
+                ": Closed; stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Hvarn favours short, front-stressed words",
+            ],
+            [
+                "Stress falls on the first syllable without exception.",
+                "Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Hvarn favours short words with the weight at the front.",
+            ],
+        ],
+    ],
+    [
+        "skill-nordmalng",
+        [
+            [
+                "Nordmal is hammer-stressed and short: one or two syllables, with the weight on the first.",
+                "Nordmal is hammer-stressed and short: it favours one or two syllables, with the weight at the front.",
+            ],
+            [
+                "Stress is predictable, falling primarily on the first syllable of words (STÓRaldur, HLARTHaruk). This creates",
+                "Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Nordmal favours short words, so the weight falls at the front. This creates",
+            ],
+            [
+                "Stress falls on the first syllable of every word without exception, so a Nordmal name has exactly one beat and it lands at the front. That is what lets a name be said correctly on sight: AL-thmyl, VRA-thy-ra, HLARTH-a-ruk.",
+                "Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], so a Nordmal name has exactly one beat, and the short forms the tongue favours put it at the front: AL-thmyl, vra-THI-ra, hlarth-A-ruk.",
+            ],
+            [
+                "Stress is initial in a name as in every other word, so any of these can be said correctly on sight—AL-thann, VRA-thy-ra, HLARTH-a-rukh.",
+                "Stress in a name follows the same rule as in every other word, so any of these can be said correctly on sight—AL-thann, vra-THI-ra, hlarth-A-rukh.",
+            ],
+            [
+                "every long vowel falls after the stress, inside the ending. A stem-and-ending name therefore runs two syllables or three and never one or four: a trochee where the ending is one syllable, a dactyl where it is two.",
+                "every long vowel falls inside the ending. A stem-and-ending name therefore runs two syllables or three and never one or four: a trochee stressed on the stem where the ending is one syllable, and an amphibrach stressed on the ending's first syllable where it is two.",
+            ],
+        ],
+    ],
+    [
+        "skill-sinalelng",
+        [
+            [
+                "**Stress falls on the first syllable of every word, without exception.** So a Sinale word of any length can be said correctly on sight: _NUU-va_, _OL-tes-sa_, _SEL-kin-te_.",
+                "**Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Sinale favours short words with the weight at the front.** So a Sinale word of any length can be said correctly on sight: _NUU-va_, _ol-TES-sa_, _sel-KIN-te_.",
+            ],
+            [
+                "**Writing and performance.** Stress stays on the first syllable. ",
+                "**Writing and performance.** ",
+            ],
+            [
+                "**A given name runs two to four syllables**, stressed on the first.",
+                "**A given name runs two to four syllables.**",
+            ],
+        ],
+    ],
+    [
+        "skill-nyalbnlng",
+        [
+            [
+                "Stress the first syllable unless an acute marks another.",
+                "Stress follows the guide unless an acute marks another syllable.",
+            ],
+            [
+                "Every word stresses its first syllable, so every word",
+                "Every word takes one stress, so every word",
+            ],
+            [
+                "Use the letters and first-syllable stress of [[doc-prnncthlrn|Pronouncing Thalorna]] when reading Nyáluban aloud.",
+                "Use the letters and stress of [[doc-prnncthlrn|Pronouncing Thalorna]] when reading Nyáluban aloud.",
+            ],
+            [
+                ": Stress falls on the first syllable unless an acute marks another stressed syllable.",
+                ": Stress follows the guide unless an acute marks another stressed syllable.",
+            ],
+            [
+                "uses an acute only to mark stress away from the first syllable.",
+                "uses an acute only to mark stress away from where the guide places it.",
+            ],
+            [
+                "Common spelling leaves tone unwritten, uses at most one mark in a word",
+                "Common spelling writes tone only where a word needs it, uses at most one mark in a word",
+            ],
+            [
+                "Common spelling uses no grave, caron or circumflex to mark pitch.",
+                "Where a word's pitch must be written, common spelling uses the guide's caron for a rise and circumflex for a fall, and most words need neither.",
+            ],
+            [
+                "The common spelling leaves that pitch unwritten and uses an acute only",
+                "The common spelling writes that pitch only where a word needs it, with the guide's caron or circumflex, and uses an acute only",
+            ],
+        ],
+    ],
+    [
+        "skill-provnzlng",
+        [
+            [
+                "Stress is generally initial (FA-ris, AR-vel) but varies for poetic effect.",
+                "Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Provenzian favours short words, so it often lands at the front (FA-ris, AR-vel).",
+            ],
+        ],
+    ],
+    [
+        "skill-tellumilng",
+        [
+            [
+                "Stress falls on the syllable that a doubled consonant opens: te-**LLU**-mi, ten-**NE**-li-mash. A word with no doubled consonant is stressed on its first syllable: **NE**-lim, **TASH**-bem.",
+                "Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]]: a word of two syllables is stressed on the first, a longer word on the second-to-last, as in te-**LLU**-mi, ten-ne-**LI**-mash, **NE**-lim and **TASH**-bem. Tellumi favours short words, so the weight most often falls at the front.",
+            ],
+        ],
+    ],
+    [
+        "skill-kelwanuklng",
+        [
+            [
+                "A word is stressed on its first syllable, whatever its length: _tsilkas_ is TSIL-kas, _kenwatukwa_ is KEN-wa-tu-kwa, and _kelwanuk_ is KEL-wa-nuk. A built word keeps the stress of its first root.",
+                "Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Kelwanuk favours short words with the weight at the front: _tsilkas_ is TSIL-kas, _kenwatukwa_ is ken-wa-TU-kwa, and _kelwanuk_ is kel-WA-nuk.",
+            ],
+        ],
+    ],
+    [
+        "skill-sowideslng",
+        [
+            [
+                "Stress falls on a doubled vowel where a word has one, and otherwise on the last syllable of the word: **QII**-mod, ko-**DU**, u-ru-**VAQ**.",
+                "Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]]: a word of two syllables is stressed on the first, a longer word on the second-to-last, as in **QII**-mod, **KO**-du and u-**RU**-vaq.",
+            ],
+        ],
+    ],
+]);
+
+/** The baseline stress setting of a note that now follows the common rule. */
+export function withCommonStress(fm, file) {
+    if (!fm?.data?.sounds?.stress) return fm;
+    if (![...COMMON_STRESS_NOTES].some((address) => notePath(address) === file)) return fm;
+    const copy = structuredClone(fm);
+    copy.data.sounds.stress.two = "first";
+    copy.data.sounds.stress.longer = "penultimate";
+    return copy;
+}
+
+/** Baseline prose with its stress sentences swapped for the ones that now stand. */
+export function withStressProse(text, file) {
+    let out = text;
+    for (const [address, pairs] of STRESS_PROSE)
+        if (notePath(address) === file) for (const [from, to] of pairs) out = out.replace(from, to);
+    return out;
+}
+
 export function assertEncodingMigrationPreserved(
     current,
     before = beforeEncodingMigration(current.file),
@@ -594,7 +774,13 @@ export function assertEncodingMigrationPreserved(
                             withDroppedExamples(
                                 withRespellings(
                                     withTranslationRetags(
-                                        withNameForms(withWordRenames(before.fm, file), current.fm),
+                                        withNameForms(
+                                            withCommonStress(
+                                                withWordRenames(before.fm, file),
+                                                file,
+                                            ),
+                                            current.fm,
+                                        ),
                                         file,
                                     ),
                                     file,
@@ -637,7 +823,7 @@ export function assertEncodingMigrationPreserved(
     }
     contains(actual, expected, file);
     let body = splitFrontmatter(current.raw).body;
-    let originalBody = respell(splitFrontmatter(before.raw).body, file);
+    let originalBody = withStressProse(respell(splitFrontmatter(before.raw).body, file), file);
     // The one baseline sentence whose writing direction follows the shared Qalezu script.
     if (isNote(file, "skill-dunharlng"))
         originalBody = originalBody.replace(

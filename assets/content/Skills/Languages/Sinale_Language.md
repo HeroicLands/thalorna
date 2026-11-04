@@ -7429,7 +7429,7 @@ data:
       - "syllente"
       - "ressinto"
   sounds:
-    stress: {two: first, longer: first}
+    stress: {two: first, longer: penultimate}
     syllables:
       vowelPairs: [ai, au, ia, eo, oi, ou, ui, uo, ei, ie, yi, ye]
       harmony:
@@ -7828,7 +7828,7 @@ The back nasal _ng_ stands only between vowels, and no word opens on it.
 
 ### Stress
 
-**Stress falls on the first syllable of every word, without exception.** So a Sinale word of any length can be said correctly on sight: _NUU-va_, _OL-tes-sa_, _SEL-kin-te_. Pitch does the work stress does in human tongues—rising for a question, falling to close a thought, held level through a list—and formal speech exaggerates it until it approaches singing. To speak Sinale in a monotone is not to speak it badly but to say something else.
+**Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Sinale favours short words with the weight at the front.** So a Sinale word of any length can be said correctly on sight: _NUU-va_, _ol-TES-sa_, _sel-KIN-te_. Pitch does the work stress does in human tongues—rising for a question, falling to close a thought, held level through a list—and formal speech exaggerates it until it approaches singing. To speak Sinale in a monotone is not to speak it badly but to say something else.
 
 ### Wearing
 
@@ -8025,7 +8025,7 @@ Every Sinale word on these pages is a romanization, written in the romanization 
 
 **The vowels ride above.** Six marks, one each for _a_, _e_, _i_, _o_, _u_ and _y_, set over the consonant they follow. A word that begins with a vowel carries its mark on a bare carrier stroke, the one sign in the script that stands for no sound of its own. A long vowel in the romanization—_aa_, _ii_ or _uu_—is a single mark drawn long rather than two marks, and _ee_ is two _e_ marks, the second on the carrier; a diphthong is two marks over one carrier, in the order they are said.
 
-**Writing and performance.** Stress stays on the first syllable. Unmarked romanization omits the pitch that Veldikko may record; an unmarked line still has a tune when spoken. Optional caron, circumflex and acute notation records falling pitch, rising pitch and emphasis as set out in [[doc-prnncthlrn#tone|Pronouncing Thalorna]]. A called name falls without wearing or shortening. The automatic Veldikko spelling rows preserve these performance annotations on their selected vowel nucleus, including long vowels and diphthongs. An annotated surface form is registered explicitly in the lexicon, and its rendered reading is proofed in the native font. Ordinary Veldikko may leave pitch unwritten. The automatic map has no sentence-punctuation rows; an unmarked native passage uses language and line grouping, with editorial gaps outside the native font.
+**Writing and performance.** Unmarked romanization omits the pitch that Veldikko may record; an unmarked line still has a tune when spoken. Optional caron, circumflex and acute notation records falling pitch, rising pitch and emphasis as set out in [[doc-prnncthlrn#tone|Pronouncing Thalorna]]. A called name falls without wearing or shortening. The automatic Veldikko spelling rows preserve these performance annotations on their selected vowel nucleus, including long vowels and diphthongs. An annotated surface form is registered explicitly in the lexicon, and its rendered reading is proofed in the native font. Ordinary Veldikko may leave pitch unwritten. The automatic map has no sentence-punctuation rows; an unmarked native passage uses language and line grouping, with editorial gaps outside the native font.
 
 **The check that catches most copyists.** A word never holds a back vowel and a front vowel together, so every vowel mark in a word belongs to one set. A word carrying both is an error before it is anything else, and it is the first thing a Sinale reader sees.
 
@@ -8107,7 +8107,7 @@ Scholars debate whether the Elder Races deliberately drove their languages apart
 
 A Sinale carries a **given name** and a **lineage name**, and their endings separate them, so the two can never be confused:
 
-1. A **given name** is a stem in its **radical** form with a naming ending. **A given name runs two to four syllables**, stressed on the first.
+1. A **given name** is a stem in its **radical** form with a naming ending. **A given name runs two to four syllables.**
 2. A **lineage name** is a stem in its **radical** form with the hearth ending. It means "the hearth of" the stem.
 
 **The ending that would repeat the stem's own last consonant is not used**, so a stem ending in _-va_ takes _-tti_ rather than _-vo_, and **a stem whose last consonant is _n_ takes no hearth ending** and cannot found a lineage. Sinale find this last fact funny and outsiders find it arbitrary.
@@ -8154,7 +8154,7 @@ Lineage names have no gendered form.
 
 ### A Name Is Never Shortened
 
-A Sinale is called by the whole given name, all the syllables of it, by a mother and by a stranger alike. The language has no shorter form to call by. Take the ending away and what is left is the stem, and the stem is the thing itself: _kalpi_ is the pale wood of the birch, so a Sinale who says _Kalpi_ is talking about trees, and _Kalpitti_ has not been called. Cut further and the syllable that remains names nothing at all. A name chosen slowly, sometimes over years, and held to shape what its bearer becomes is not trimmed for convenience, and four syllables stressed always on the first are no burden to a people who live as long as the Sinale do.
+A Sinale is called by the whole given name, all the syllables of it, by a mother and by a stranger alike. The language has no shorter form to call by. Take the ending away and what is left is the stem, and the stem is the thing itself: _kalpi_ is the pale wood of the birch, so a Sinale who says _Kalpi_ is talking about trees, and _Kalpitti_ has not been called. Cut further and the syllable that remains names nothing at all. A name chosen slowly, sometimes over years, and held to shape what its bearer becomes is not trimmed for convenience, and four syllables are no burden to a people who live as long as the Sinale do.
 
 Closeness is heard in the call instead. A name spoken to its bearer takes the pitch of a call, falling at its end as a closed thought does, so every call already sounds different from talk about a person, and the pitch the speaker lays over the name carries the warmth, the summons or the reproach.
 

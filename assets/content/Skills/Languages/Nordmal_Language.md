@@ -9,7 +9,7 @@ data:
   roman: "abdefghijklmnoprstuvyzáéíóú0123456789-"
   core: true
   abbreviation: Nord.
-  sounds: {stress: {two: first, longer: first}}
+  sounds: {stress: {two: first, longer: penultimate}}
   icon: icon-speaking
   templatePriority: null
   packFolder: language
@@ -6154,13 +6154,15 @@ The language stands apart from southern Pelwar tongues, having developed in rela
 
 ## How Nordmal sounds
 
-Nordmal is hammer-stressed and short: one or two syllables, with the weight on the first.
+Nordmal is hammer-stressed and short: it favours one or two syllables, with the weight at the front.
 
 **The vowels.** _a_, _o_, _u_ and _i_ are short and hard. _e_ is rarer.
 
 **The consonants.** _r_, _l_, _v_, _s_, _k_, _g_, _d_ and _th_ do the work.
 
 **Clusters.** Words open on _hr-_, _hn-_, _hl-_, _sk-_, _sn-_ or _dv-_ and close on _-ld_, _-rv_, _-lm_, _-rn_ or _-sk_, and end on _-ur_ after a consonant.
+
+**Coining.** A new word may use _hl_ /ɬ/, as in _hlask_.
 
 **Endings.** Nordmal words end on a consonant or on _-a_ or _-i_. Names take _-inna_, _-ira_ or _-ann_.
 
@@ -6174,7 +6176,7 @@ Nordmal employs a consonant-heavy inventory with particular emphasis on stops an
 
 **Vowels:** Nordmal maintains five vowel positions (a, e, i, o, u) with systematic length distinctions. Diphthongs are limited in inventory but phonemic. Nasal vowels do not occur.
 
-**Stress and Rhythm:** Stress is predictable, falling primarily on the first syllable of words (STÓRaldur, HLARTHaruk). This creates a hammer-blow rhythm characteristic of Nordmal speech. The language employs alliterative verse patterns where lines are bound by consonant repetition rather than end rhyme.
+**Stress and Rhythm:** Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Nordmal favours short words, so the weight falls at the front. This creates a hammer-blow rhythm characteristic of Nordmal speech. The language employs alliterative verse patterns where lines are bound by consonant repetition rather than end rhyme.
 
 **Distinctive Features:** The hard closing _k_ of a clan name marks formal speech, since a clan name is read out at the ting. The combination of initial consonant clusters with the strong initial stress gives Nordmal a distinctive "punch" in speech. Nordmal also preserves some archaic Pelwar features that other branches have lost.
 
@@ -6222,9 +6224,9 @@ FROM name_shapes WHERE language = 'thalorna-note-skill-nordmalng' ORDER BY posit
 
 ### Weight, foot and beat
 
-Stress falls on the first syllable of every word without exception, so a Nordmal name has exactly one beat and it lands at the front. That is what lets a name be said correctly on sight: AL-thmyl, VRA-thy-ra, HLARTH-a-ruk.
+Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], so a Nordmal name has exactly one beat, and the short forms the tongue favours put it at the front: AL-thmyl, vra-THI-ra, hlarth-A-ruk.
 
-A name-stem is one syllable and carries a short vowel, so in a given name or a ting-built clan name every long vowel falls after the stress, inside the ending. A stem-and-ending name therefore runs two syllables or three and never one or four: a trochee where the ending is one syllable, a dactyl where it is two. A compound has as many syllables as its elements bring and no fixed count, and it may carry its length in the stressed syllable, which is the audible difference between a bestowed name and a made one—[[lore-solrundty|Solrún]] and [[lore-thrunvalddty|Thrunvald]] open long, Althmil and Hlartharuk open short.
+A name-stem is one syllable and carries a short vowel, so in a given name or a ting-built clan name every long vowel falls inside the ending. A stem-and-ending name therefore runs two syllables or three and never one or four: a trochee stressed on the stem where the ending is one syllable, and an amphibrach stressed on the ending's first syllable where it is two. A compound has as many syllables as its elements bring and no fixed count, and it may carry its length in the stressed syllable, which is the audible difference between a bestowed name and a made one—[[lore-solrundty|Solrún]] and [[lore-thrunvalddty|Thrunvald]] open long, Althmil and Hlartharuk open short.
 
 Alliteration binds, and end rhyme does nothing. A skald binds a line by repeating the onset, and a hall binds its generations the same way: a line whose name-giver was Hlarthvir names its sons Hlirthmil and its grandsons Hlurthann, so the onset holds steady down the generations while the ablaut grade turns over. A coined name that alliterates with nothing in the hall it belongs to is as wrong as a coined name with the wrong grade.
 
@@ -6361,7 +6363,7 @@ WHERE h.language = 'thalorna-note-skill-nordmalng' AND h.field = 'Name-stems' AN
 ORDER BY h.position
 ```
 
-Where a stem and an ending meet on the same consonant, one of them is written: _alth-_ and `-thann` give **Althann**, _vrath-_ and `-thyra` give **Vrathira**. Stress is initial in a name as in every other word, so any of these can be said correctly on sight—AL-thann, VRA-thy-ra, HLARTH-a-rukh.
+Where a stem and an ending meet on the same consonant, one of them is written: _alth-_ and `-thann` give **Althann**, _vrath-_ and `-thyra` give **Vrathira**. Stress in a name follows the same rule as in every other word, so any of these can be said correctly on sight—AL-thann, vra-THI-ra, hlarth-A-rukh.
 
 _The fourth grade is for words._ The three grades above belong to names, and no name takes any other. The tongue's ordinary words keep a fourth grade in _e_ that no name carries, and a word built on it turns the stem's sense into a thing you can point at: _brald_, a fire banked to keep overnight, gives _breld_, a coal, and _drask_, a light kept burning on a headland, gives _dresk_, the beacon itself. A boy named **Draskmil** hears his name in every beacon on the coast, and nobody mistakes him for one. The words the fourth grade makes stand in § _Vocabulary_.
 
