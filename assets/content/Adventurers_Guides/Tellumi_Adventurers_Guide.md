@@ -40,7 +40,7 @@ Mernagord, at the western end by the salt pans, is the largest oasis still ruled
 
 The Atarzád hold the four greatest cities, a tribe to each.
 
-- Shirvan, the first and holiest, sixty thousand people under the [Vurinkarvem]{.name data-type="place/feature"} cliff, belongs to the Ozhmarod, the strictest of the twelve tribes. Tellumi Delkoshekhs hold no temple there and hear cases in back rooms. The quarter swears that a Hidden Delkoshekh keeps the old rite somewhere near the spring, and the Ozhmarod fire-wardens have searched for him for ninety years.
+- Shirvan, the first and holiest, sixty thousand people under the [Vurinkarvem]{.name data-type="place/feature"} cliff, belongs to the Ozhmarod, the strictest of the twelve tribes. Tellumi Delkoshekhs hold no temple there and hear cases in back rooms. The quarter swears that a Hidden Shekhul keeps the old rite somewhere near the spring, and the Ozhmarod fire-wardens have searched for him for ninety years.
 - [[place-ashkarad|Ashkarad]], the craft city, belongs to the [Teghumod]{.name data-type="affiliation/polity"}, the merchant tribe, who buy what the workshops make and leave the craft councils alone. Each shaft of its deep water-tunnels is a family possession.
 - [[place-zargandur|Zargandur]], once the Tellumi war-city, is the garrison of the [Zhoqarod]{.name data-type="affiliation/polity"}, with the highest walls in the belt and a picket at every weir. A Tellumi caught with a blade after dark is beaten and fined. The Tellumi quarter keeps a lamp burning at every door until dawn for the war-house that was never read, as [[lore-turemrecital|the Recitation of the Breaking]] says of them: [they are the lamps that were not lit that night. We light them every night instead.]{.verse} Beyond the north wall lies [[place-henhulpedin|Henhutpedin]], the blood-field where the war-house died.
 - Kethramír, where the southern spur comes down to the belt, belongs to the [Tozhirod]{.name data-type="affiliation/polity"}, the scholar tribe, who rule by precedent and keep a small garrison. Its hospitality is stricter than its law: a merchant who cheats there finds that no guide will lead his caravan.
@@ -119,7 +119,7 @@ At the first gate, three questions place a character among the Tellumi: **Which 
 Campaigns start well from the record. Hemvanay wants an envoy to carry an offer to Amradad, and the exile houses want to be sure it never arrives. The house of Vahurdash needs the old archive found, and a rival needs it lost. A Tozhirod scholar wants a copy of the banned commentary so he can answer it, and a Delkoshekh in the quarter wants the scholar's answer so she can answer back.
 
 :::secret
-**For the GM:** The four held cities run on Tellumi hands, and both peoples know it. A party that learns which water-master keeps which unrecorded deed in Shirvan holds the quarter's real wealth; a party that learns who in the quarter reports to the Ozhmarod holds its life. The Hidden Delkoshekh may be a person or a useful story, and the quarter's faith in him works either way.
+**For the GM:** The four held cities run on Tellumi hands, and both peoples know it. A party that learns which water-master keeps which unrecorded deed in Shirvan holds the quarter's real wealth; a party that learns who in the quarter reports to the Ozhmarod holds its life. The Hidden Shekhul may be a person or a useful story, and the quarter's faith in him works either way.
 :::
 
 ## The Tellumi in Their Own Tellings

@@ -167,7 +167,7 @@ The arcs run in the road's order or out of it, and each moves the choosing wheth
 : The western gate and the exiles: _The compact_, _The lean season_, _The merchants' answer_ and _The union and the sword_.
 
 [[place-oasishirvn|Shirvan]] · [[place-vurinkarvem|the Vurinkarvem]]
-: The first city and its cliff: _The Hidden Delkoshekh_, _The sunken archive_, _The quarry_ and _The lamp in the high chamber_.
+: The first city and its cliff: _The Hidden Shekhul_, _The sunken archive_, _The quarry_ and _The lamp in the high chamber_.
 
 [[place-ashkarad|Ashkarad]] · [[place-zargandur|Zargandur]]
 : The merchant-tribe's gates and the war-city: _The loan_, _The reclamation plan_ and _The horse-fair_.

@@ -181,7 +181,7 @@ Whether that restraint would survive an actual reconquest is doubtful. The gener
 
 **Hemvanay of Mernagord**, ruling prince of the largest free oasis. He is the voice of accommodation on the Council. Atarzád merchant interests have sounded him out about limited normalization, and he has answered neither way.
 
-**The Hidden Delkoshekh of Shirvan**, an unnamed and possibly mythical figure said to keep the original ritual office at a secret place near the Shirvan spring, conducting the proper observances for Ahurdaen in defiance of the Atarzád prohibition. The Tellumi of the Shirvan quarter believe the office exists and that its succession has run unbroken since the Breaking. The Atarzád launch periodic searches and have never found anyone. Whether the Hidden Delkoshekh is a person or a useful story, the belief shapes religious life in the quarter.
+**The Hidden Shekhul of Shirvan**, an unnamed and possibly mythical figure said to keep the original ritual office at a secret place near the Shirvan spring, conducting the proper observances for Ahurdaen in defiance of the Atarzád prohibition. The Tellumi of the Shirvan quarter believe the office exists and that its succession has run unbroken since the Breaking. The Atarzád launch periodic searches and have never found anyone. Whether the Hidden Shekhul is a person or a useful story, the belief shapes religious life in the quarter.
 
 ## Commerce and Currency
 

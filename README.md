@@ -73,13 +73,13 @@ every one of them into `build/calendars/`, and the build stages that directory
 into the module at `calendars/`. The notes are the source; nothing here is
 edited by hand.
 
-| Calendar               | File          | Kept by                                     |
-| ---------------------- | ------------- | ------------------------------------------- |
-| The Common Calendar    | `commoncal`   | Vylaria and the lands it reaches            |
-| The Khelâthi Calendar  | `khprclndr`   | Aû'Khelâthu                                 |
-| The Khazryn Calendar   | `khzrnclndr`  | The Khazryn kingdoms and the exile Mobadate |
-| The Madustan Count     | `mdstncnt`    | Vedyara                                     |
-| Calendar and Astrology | `clndrstrlgy` | The Empire of Tānvür                        |
+| Calendar               | File          | Kept by                                       |
+| ---------------------- | ------------- | --------------------------------------------- |
+| The Common Calendar    | `commoncal`   | Vylaria and the lands it reaches              |
+| The Khelâthi Calendar  | `khprclndr`   | Aû'Khelâthu                                   |
+| The Tellumi Calendar   | `khzrnclndr`  | The Tellumi cities and the exile Shekhulukhem |
+| The Madustan Count     | `mdstncnt`    | Vedyara                                       |
+| Calendar and Astrology | `clndrstrlgy` | The Empire of Tānvür                          |
 
 Each calendar ships twice. `calendars/<file>.json` is Foundry's own calendar
 shape, and `calendars/<file>.calendaria.json` is the same definition inside the

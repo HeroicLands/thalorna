@@ -38,8 +38,9 @@ The last Tellumi rising began in the Shirvan district about 706. A Zhudek acclai
 
 ## Hooks and Dangers
 
-- **The Hidden Delkoshekh.** The Tellumi of the quarter swear that one Delkoshekh keeps the old observances somewhere near the spring, and the Ozhmarod fire-wardens have searched for him for ninety years. A party hired by the exiled [House of Shirvan]{.name data-type="affiliation/lineage"} could be asked to carry something to him, or to find out whether he exists. A party hired by the Ozhmarod could be asked for the opposite, and both employers pay well.
+- **The Hidden Shekhul.** The Tellumi of the quarter swear that one Shekhul keeps the old observances somewhere near the spring, and the Ozhmarod fire-wardens have searched for him for ninety years. A party hired by the exiled [House of Shirvan]{.name data-type="affiliation/lineage"} could be asked to carry something to him, or to find out whether he exists. A party hired by the Ozhmarod could be asked for the opposite, and both employers pay well.
 - **The sunken archive.** The great temple's archive burned in the fall of the city, but the clay that survived fire was buried in the rubble under the lower basin. Tablets surface when a channel is dug out, and the water-masters take them away before the Atarzád overseers notice. A tablet from the treaties between the seven cities would be worth a great deal in the [[affiliation-kngdmmrdd|Kingdom of Amradad]].
+- **The stone under the floor.** Some Tellumi maintain that the foundations of the great fire-temple still hold the old altar-stone of [[lore-ahurdaendty|Ahurdaen]], laid upside down deep below the floor. The Atarzád priesthood denies it and refuses any excavation that would settle the question.
 - **The cliff.** The Vurinkarvem cliff is riddled with cut chambers and pilgrim stairs, some of them older than the city. After rain the lower galleries flood, and a flood can fill a chamber in the time it takes to climb out of it.
 - **Informers.** Every Tellumi household in the lower town is known to the Ozhmarod. Someone in the quarter reports, and nobody knows who.
 
