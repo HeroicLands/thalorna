@@ -443,3 +443,6 @@ The Ban
 
 The Son
 : Alvarik's son has taken a sellsword's advance from a captain recruiting in the port, as Tarvenan boys do, and means to go before the harvest is in.
+
+The Assembly's Business
+: The merchant aldermen of the [[affiliation-cnclnbrls|Council of Nebralis]] want the Freemen's Assembly to leave the harbor's matters to the council, and the farms want Alvarik to speak against it, in the same season that the lord's steward holds his notes.

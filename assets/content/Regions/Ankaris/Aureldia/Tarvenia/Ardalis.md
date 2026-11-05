@@ -42,7 +42,7 @@ Ardalis belongs to the [[affiliation-kngdmstrth|Kingdom of Asturath]], and the i
 
 The [[affiliation-sacredforge|Sacred Forge]] keeps a temple at the head of the town, built around a hearth whose fire the smiths say has not been let out since the first forge was lit on the stream. Every new forge in Ardalis is lit from it. At the [Festival of the Hearth]{.name data-type="lore/gathering"} at the winter solstice, the town's children carry its flame to every house in clay pots, and a smith's family that lets its own fire go out during the year goes to the temple to beg a coal.
 
-Miners keep an older observance. A gallery in the iron hill is the [Mother]{.name data-type="lore/deity"}'s before it is the miner's, and a family leaves cheese and milk at the mouth of a new working before it cuts the first stone. Most families do both and see no contradiction in it.
+Miners keep an older observance. A gallery in the iron hill is [[affiliation-menutsa|the Mother]]'s before it is the miner's, and a family leaves cheese and milk at the mouth of a new working before it cuts the first stone. Most families do both and see no contradiction in it.
 
 ## The Town and the Plateau
 

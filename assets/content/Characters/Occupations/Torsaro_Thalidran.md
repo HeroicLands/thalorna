@@ -439,8 +439,8 @@ Old Grudges
 Echoes of the Past
 : Something from Tórsaro's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-Shifting Winds
-: Political changes in Tarvénia threaten to upend the social order that Tórsaro depends upon. He must decide whether to adapt, resist, or flee.
+The Raiders on the Pass Road
+: The bandits who raid the farms under [[place-durgalis|Dúrgalis]] have taken a flock off the high pasture, and Tórsaro's militia leader sends him after them with three men younger than he is.
 
 The Opportunity
 : A chance encounter offers Tórsaro the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

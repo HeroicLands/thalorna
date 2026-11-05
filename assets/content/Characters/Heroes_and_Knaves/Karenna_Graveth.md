@@ -524,3 +524,6 @@ The Shadow Voice
 
 The Herald's Rebellion
 : Younger members of the Herald's Guild, impressed by Kárenna's new approach but frustrated by the pace of institutional change, approach her about leading a reformist movement within the guild structure. They want her to challenge the traditional hierarchy, push for new rules that diminish the authority of elder heralds, and put the selection of official pronouncements to a vote. The reformation would require going against **Lord Ervotho Tholmaris** and the traditionalist leadership directly. Kárenna must weigh the potential to reshape the institution against the certain enmity of powerful figures and the risk that the reform movement, if it succeeds too dramatically, could destabilize the careful diplomatic equilibrium she has helped establish.
+
+A Neighbor's Inquiry
+: [[being-nizelganotis|Nizel Ganotis]] asks Kárenna, as a herald of the crown, to carry the court's displeasure to [[being-frstrndrvs|Father Ostaran Dorvás]], who is investigating him and who is her neighbor in [[place-thorgila|Thórgila]].

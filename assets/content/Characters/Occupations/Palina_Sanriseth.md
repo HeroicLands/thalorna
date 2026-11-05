@@ -449,3 +449,6 @@ The Aristocrat’s Daughter
 
 The Priestess’s Calling
 : The Temple of Ólvenia receives notice that Pálina is being considered for elevation to high priestess of a major regional temple—an honor that would require her to leave Herthema and work among the coastal nobility and merchant classes rather than the poor. The promotion appears sincere but also suspiciously convenient; someone may be attempting to remove her from her current position precisely because she is becoming too influential among the lower classes.
+
+The Oversight
+: [[being-gaimelkorvat|Gaimel Korvathandis]] has found merchants on the [[affiliation-cnclhrthm|Council of Herthema]] to back his call for oversight of the temple, and the poor of [[place-herthema|Herthema]] who depend on Pálina are talking of standing at the temple doors to keep his inspectors out.

@@ -445,3 +445,6 @@ The Apprentice Leaves
 
 The Ash
 : The good beech ash that Velmar's glass depends on has stopped coming down from the hills, because the man who burned it is dead and his sons have sold the wood. Without it he can make the rival's glass or none.
+
+The Bench
+: The younger masters of the glassworkers' guild of [[place-herthema|Herthema]] move to put the Provenzian-trained master on its bench in Velmar's place, and the quarrel goes to the [[affiliation-cnclhrthm|Council of Herthema]], whose merchants buy the figured glass.

@@ -446,3 +446,6 @@ The Debt
 
 The Cargo
 : A charter's manifest says wine, and the casks are the wrong weight. Dálena is at sea, and the port she is bound for hangs smugglers.
+
+Sworn at the Stone
+: Her father wants to raise the money for his note in the valley itself, by a contract sworn at the stone in the square at [[place-durgalis|Dúrgalis]], and the [[affiliation-cncldrgls|Council of Dúrgalis]] will not swear it until Dálena stands on the steps of the well and tells the assembly plainly what the ship is worth. In that valley the hail comes for a lie.

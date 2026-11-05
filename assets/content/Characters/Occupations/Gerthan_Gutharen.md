@@ -445,8 +445,8 @@ Old Grudges
 Echoes of the Past
 : Something from Gerthan's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-Shifting Winds
-: Political changes in Tarvénia threaten to upend the social order that Gerthan depends upon. He must decide whether to adapt, resist, or flee.
+Tents for the Fair
+: The [[affiliation-cnclthrgl|Council of Thórgila]] wants tents for the buyers who come to its autumn horse fair, and the younger tentmakers have underbid Gerthan with a cloth he says will not stand a valley wind.
 
 The Opportunity
 : A chance encounter offers Gerthan the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

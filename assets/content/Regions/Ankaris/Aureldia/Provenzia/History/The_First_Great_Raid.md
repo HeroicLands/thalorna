@@ -94,5 +94,8 @@ The raid was the first of a long run of them, and the border families on both si
 [[lore-tarvfallsawy|Tarvénia Falls Away]]
 : the election of the High Kings who sent it
 
+[[lore-summerwar|The Summer War]]
+: the quarrel as Tarvénia's Western March tells it
+
 [[place-durvalis|Durvalis]]
 : the town built to hold the road

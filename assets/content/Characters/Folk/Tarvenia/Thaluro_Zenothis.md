@@ -12,7 +12,7 @@ data:
   occupation: Archbishop
   lore: []
   culture: tarvenanclt
-  homes: []
+  homes: [polthamis]
   affiliations: {}
   gender: male
   species: humanflk

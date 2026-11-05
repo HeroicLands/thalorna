@@ -441,8 +441,8 @@ Old Grudges
 Echoes of the Past
 : Something from Ilmara's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-Shifting Winds
-: Political changes in Tarvénia threaten to upend the social order that Ilmara depends upon. She must decide whether to adapt, resist, or flee.
+Both Sides Under One Roof
+: The old glassworkers of [[place-herthema|Herthema]] and the young masters of figured glass both drink at Ilmara's inn, and with the guild's quarrel before the [[affiliation-cnclhrthm|Council of Herthema]], she must keep the two sides under one roof without a fight the council hears about.
 
 The Opportunity
 : A chance encounter offers Ilmara the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

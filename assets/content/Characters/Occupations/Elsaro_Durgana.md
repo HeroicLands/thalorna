@@ -441,8 +441,8 @@ Old Grudges
 Echoes of the Past
 : Something from Élsaro's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-Shifting Winds
-: Political changes in Tarvénia threaten to upend the social order that Élsaro depends upon. He must decide whether to adapt, resist, or flee.
+A Contract at the Fair
+: A client offers Élsaro a contract to be carried out at the autumn horse fair at [[place-thorgila|Thórgila]], and the target is the priest of Árdavon who lives in the town.
 
 The Opportunity
 : A chance encounter offers Élsaro the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

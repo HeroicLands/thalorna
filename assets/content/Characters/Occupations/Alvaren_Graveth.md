@@ -440,8 +440,8 @@ Old Grudges
 Echoes of the Past
 : A younger salt worker Alvaren once mentored returns with a saltworks of his own and his old master's methods.
 
-Shifting Winds
-: Political change in Tarvénia threatens the trade Alvaren depends upon, and he can adapt, resist, or leave.
+The Harbor's Salt
+: A merchant house gathering the harbor trade of [[place-nebralis|Nebralis]] into its hands offers to buy Alvaren's whole output for its own ships, which would leave the fishing families who salt their catch to buy his salt from the merchants.
 
 The Opportunity
 : Alvaren is offered the salt contract for a whole town, and its price is not named up front.

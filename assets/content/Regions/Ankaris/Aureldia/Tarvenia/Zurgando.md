@@ -28,7 +28,7 @@ The cairns grow in the years of a long war abroad and shrink in a peace, and the
 
 ## The Dead Road
 
-The old path down from the saddle along the stream, past every house in the valley, is an _arduts_ (dead road), and the valleys say the dead walk it on the night of the lanterns. The valleys tell [[lore-lightatfront|The Light at the Front]] of a crossbowman who came over Zurgando late with eleven dead men's pay in his pack and met the procession on it. The cave where the [Mother]{.name data-type="lore/deity"} is kept lies above the highest house, where the dead road turns up from the valley toward the saddle.
+The old path down from the saddle along the stream, past every house in the valley, is an _arduts_ (dead road), and the valleys say the dead walk it on the night of the lanterns. The valleys tell [[lore-lightatfront|The Light at the Front]] of a crossbowman who came over Zurgando late with eleven dead men's pay in his pack and met the procession on it. The cave where [[affiliation-menutsa|the Mother]] is kept lies above the highest house, where the dead road turns up from the valley toward the saddle.
 
 ## Who Goes
 

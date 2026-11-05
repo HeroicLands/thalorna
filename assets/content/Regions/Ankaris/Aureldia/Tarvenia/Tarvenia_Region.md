@@ -65,15 +65,21 @@ The Mercenary Tradition
 : Tarvenan sellswords are found in armies across Ankaris. Service abroad is seen as a rite of passage for young warriors.
 
 The Eskárathi Highlands
-: The [[affiliation-frtrtryskrth|Free Territory of Eskarath]] preserves a culture older than the Tarveni migration itself, with its own language, laws, and fierce mountain traditions.
+: The [[affiliation-frtrtryskrth|Free Territory of Eskarath]], which holds [[place-eskarath|Eskarath]], preserves a culture older than the Tarveni migration itself, with its own language, laws, and fierce mountain traditions.
 
 ## See Also
+
+[[place-durgalis|Dúrgalis]], [[place-herthema|Herthema]], [[place-nebralis|Nebralis]] and [[place-thorgila|Thórgila]]
+: the small towns that govern themselves by council
 
 [[place-provenzrgn|Provenzia Region]]
 : Western neighbor and rival
 
 [[place-elavendre|Élavendre]]
 : Northern neighbor
+
+[[place-westernmrch|Western March]], [[place-grayhghlnds|Gray Highlands]]
+: the Provenzian frontier and the high country of the companies
 
 [[affiliation-vylarinmpr|Vylarian Empire]]
 : Former imperial power
@@ -89,6 +95,9 @@ The Eskárathi Highlands
 
 [[affiliation-frtrtryskrth|Free Territory of Eskarath]]
 : Highland free territory
+
+[[place-olvestria|Ólvestra]], [[place-polthamis|Polthamis]]
+: The city of the oath orders and the city of Árdavon's Great Temple
 
 [[skill-tarvenlng|Tarveni]]
 : Naming conventions

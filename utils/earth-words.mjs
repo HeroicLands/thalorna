@@ -101,6 +101,7 @@ export const SOURCES = {
     "skill-dunharlng": ["persian", "arabic"],
     "skill-ekpelulng": ["ubangian"],
     "skill-elvndrlng": ["old-french", "breton"],
+    "skill-eskarilng": ["basque"],
     "skill-helonclng": ["ancient-greek"],
     "skill-jurthatlng": ["japanese"],
     // The word lists hold no kwakwala or nuu-chah-nulth list, so a Kelwanuk coinage is checked by reading.

@@ -50,6 +50,14 @@ Below the passes on the Vylarian side lies [[place-twelfthcamp|The Twelfth's Las
 
 The Áelendan name the range only in their own tongue and rarely share the name with outsiders; it is said to mean _"the bones of the world's first dawn."_ **Kervaron** is an old chancery word whose original meaning is disputed and most often rendered _"the stag-walked place."_ The Pelwar of Élavendre, who descend from the same root population as the Áelendan and hold the range in comparable reverence, use a Pelwar form of the Áelendan name and quietly back their tribal cousins in anything that touches the Kervaron. The chancery knows it and has not raised the matter diplomatically in nearly a century.
 
+## From the Tarvénian Side
+
+From [[place-asturath|Asturath]] the Kervaron is the eastern wall of the kingdom, and the Empire lies beyond it. The road west from the passes comes down out of the clans' pastures to [[place-kavrenath|Kávrenath]], three days below them, where three valleys meet under a fortress facing east. A train that has paid its passage-gift to the clans pays again at Kávrenath's gate, and the Astúrathi count the range as the clans' in all but the Empire's paperwork.
+
+The fortress is the seat of the king of Asturath's Warden of the March, [Estaril Dómivar]{.name data-type="being/npc"}, who holds powers of war and justice along the road that no lord holds in the interior. His garrison keeps a chain of watch-posts up the valley toward the passes. Not everything that comes over them is lawful. Smugglers go round the gate by the valley paths, imperial deserters come over to sell their swords to the crossbow companies of the valleys, and in a bad year on the Vylarian side refugees come down the road in hundreds.
+
+The Áelendan count the Kervaron and the [[place-toravarrange|Toravar Range]], which closes Tarvénia's north and west, as two arms of the same sacred uplift.
+
 ## Converging Interests {#present}
 
 The clans hold the passes, and the empire lists them. The [[affiliation-seldan|Seldan]] counts the range as imperial territory on the strength of its boundary-stones, the chancery has not pressed the claim since the Twelfth was lost, and Vylarian trains cross by paying the passage-gift at the first camp below each pass. The steel factors need their mules over the range before the autumn fairs. A spring-stone has gone from its spring while a dealer in Orzara sells a carved stone with Áelendan runes as a relic of the First Gods, and the clan that lost it has closed its pass to every Vylarian train. A young chancery surveyor has orders to re-measure the boundary-stones, all of them, and the clans have not been told he is coming.
@@ -79,6 +87,9 @@ The clans hold the passes, and the empire lists them. The [[affiliation-seldan|S
 
 [[place-kavrenath|Kávrenath]]
 : the frontier town at the foot of the western road
+
+[[place-toravarrange|Toravar Range]]
+: Tarvénia's mountains, the same uplift's southern arm
 
 [[being-lthgnt|Lithogiant]]
 : the walker of the range

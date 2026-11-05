@@ -4832,6 +4832,7 @@ data:
     - {name: Dúrgalis, tongue: tarveni}
     - {name: Council of Dúrgalis, tongue: translation}
     - {name: Eskarath, tongue: tarveni}
+    - {name: Biltzarrath, tongue: tarveni}
     - {name: Free City of Valthari, tongue: translation}
     - {name: Struck from the Roll, tongue: translation}
     - {name: Unfree, tongue: translation}
@@ -4948,8 +4949,14 @@ data:
     - {name: Thórgila, tongue: tarveni}
     - {name: Council of Thórgila, tongue: translation}
     - {name: Polthamis, tongue: tarveni}
+    - {name: The Great Temple of Árdavon, tongue: translation}
+    - {name: The Twin Gate, tongue: translation}
+    - {name: The Ólvestran Cell, tongue: translation}
     - {name: Nebralis, tongue: tarveni}
     - {name: Council of Nebralis, tongue: translation}
+    - {name: Alderman, tongue: translation}
+    - {name: Horse-Judge, tongue: translation}
+    - {name: Notary, tongue: translation}
     - {name: Durvolka, tongue: tarveni, built: [durka, volkema], gloss: the fog harbor}
     - {name: Ulhera, tongue: tarveni, built: [ulhis], gloss: the fish town}
     - {name: Ezkoba, tongue: tarveni, built: [ezkobe], gloss: the lantern}
@@ -5104,6 +5111,13 @@ data:
     - {name: Bailiff, tongue: translation}
     - {name: River Warden, tongue: translation}
     - {name: Master of the Fair, tongue: translation}
+    - {name: Grumagando, tongue: tarveni, built: [gruma, gando], gloss: the war pass}
+    - {name: Kemthoza, tongue: tarveni, built: [kemtho], gloss: the walling}
+    - {name: Western March, tongue: translation}
+    - {name: The Western March, tongue: translation}
+    - {name: Western Marches, tongue: translation}
+    - {name: Gray Highlands, tongue: translation}
+    - {name: The Summer War, tongue: translation}
   retired:
     - form: Montaña
       instead: Ornetho

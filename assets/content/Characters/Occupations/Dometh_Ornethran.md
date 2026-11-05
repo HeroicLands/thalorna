@@ -441,8 +441,8 @@ Old Grudges
 Echoes of the Past
 : Something from Dometh's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-Shifting Winds
-: Political changes in Tarvénia threaten to upend the social order that Dometh depends upon. He must decide whether to adapt, resist, or flee.
+The Adept's Part
+: The [[affiliation-cncldrgls|Council of Dúrgalis]] wants [[lore-adepthail|the Adept and the Hail]] played in the square at the autumn fair, and Dometh, home from the city's stage, is asked to play the adept before a valley that counts its liars the same afternoon.
 
 The Opportunity
 : A chance encounter offers Dometh the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

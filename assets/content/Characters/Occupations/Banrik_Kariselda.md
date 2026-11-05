@@ -442,3 +442,6 @@ A Face from the Lanes
 
 The Fight He Cannot Win
 : A rival has arranged a challenge that Banrik cannot talk his way out of: a public bout, sellsword to sellsword, in front of the men who hire him. He will lose it on strength.
+
+Struck from the Roll
+: A bigger bodyguard who has lost work to Banrik asks the Keeper of the Roll of [[place-herthema|Herthema]] to strike him from the sellswords' roll, and Banrik must show the [[affiliation-cnclhrthm|council]] that a man who cannot lift a shield can keep a client alive.

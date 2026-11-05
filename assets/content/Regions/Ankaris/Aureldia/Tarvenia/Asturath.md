@@ -47,6 +47,7 @@ The lowlands of Lienrik lie to the south, and the two kingdoms need each other a
 - [[place-lezkora|Lezkora]]—the plateau city, seat of the High King
 - [[place-ardalis|Ardalis]]—the iron town on the plateau road
 - [[place-tsaberis|Tsaberis]]—the drove town of the high valleys
+- [[place-grayhghlnds|Gray Highlands]]—the high country above the valleys
 - [[place-kavrenath|Kávrenath]]—the frontier town on the eastern road
 - [[place-zurgando|Zurgando]]—the companies' pass above Kávrenath
 - [[place-horngorge|The Horn Gorge]]—the gorge below the plateau

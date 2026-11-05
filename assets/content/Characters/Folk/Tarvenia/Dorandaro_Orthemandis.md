@@ -13,7 +13,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [nebralis]
-  affiliations: {}
+  affiliations: {cnclnbrls: {rank: 3}}
   gender: male
   species: humanflk
   born: "669.50"

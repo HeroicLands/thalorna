@@ -443,8 +443,8 @@ Old Grudges
 Echoes of the Past
 : Something from Lizéth's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-Shifting Winds
-: Political changes in Tarvénia threaten to upend the social order that Lizéth depends upon. He must decide whether to adapt, resist, or flee.
+Work on the Quays
+: The merchant houses taking hold of the harbor of [[place-nebralis|Nebralis]] offer Lizéth's crew steady work on the quays, on condition that he stops hiring the sons of fishing families.
 
 The Opportunity
 : A chance encounter offers Lizéth the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

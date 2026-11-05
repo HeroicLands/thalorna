@@ -438,8 +438,8 @@ Old Grudges
 Echoes of the Past
 : Someone from the village Tharla was taken from is brought into the household as a slave.
 
-Shifting Winds
-: Political change in Tarvénia threatens the household Tharla serves, and she can adapt, resist, or leave.
+The Priestess of the Poor
+: Tharla hears in the market of [[place-herthema|Herthema]] that the priest [[being-palnsnrcth|Pálina Sánriseth]] helps women with nowhere else to go, and that strangers paid by [[being-gaimelkorvat|Gaimel Korvathandis]] are watching who comes to her.
 
 The Opportunity
 : Tharla is offered her freedom by a stranger to the household, and its price is not named up front.

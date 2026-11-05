@@ -83,7 +83,7 @@ The order has chapter houses at each of the most consequential thresholds in [[p
 ## Notable Members
 
 Voice [Veronica Aldorina]{.name data-type="being/npc"}
-: current Voice of the Twin Gate; a woman in her early sixties whose distinguished career as Marendos of the Ólvestran [Twin Gate]{.name data-type="place/structure"} preceded her elevation.
+: current Voice of the Twin Gate; a woman in her early sixties whose distinguished career as Marendos of the Ólvestran [[place-twingate|Twin Gate]] preceded her elevation.
 
 The _marendoi_ of the major chapter houses
 : each presiding over a station of substantial diplomatic importance.

@@ -444,8 +444,8 @@ Old Grudges
 Echoes of the Past
 : Something from Galver's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-Shifting Winds
-: Political changes in Tarvénia threaten to upend the social order that Galver depends upon. He must decide whether to adapt, resist, or flee.
+The Warehouse on the Quay
+: A merchant house growing rich on the harbor of [[place-nebralis|Nebralis]] wants a warehouse built on the quay faster than Galver will build one sound, and the fishing families say the ground it means to build on is theirs.
 
 The Opportunity
 : A chance encounter offers Galver the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

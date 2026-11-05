@@ -431,7 +431,7 @@ Although Ostaran’s family hoped he would follow in his father’s footsteps as
 
 ### Joining the Árdavonian Church
 
-Ostaran was sent to the [Great Temple of Árdavon]{.name data-type="place/structure"} in the city of [[place-polthamis|Polthamis]], where he began his formal training as an acolyte. His studies included theology, law, and combat training, as the Árdavonian faith expects its priests to be both protectors and spiritual guides. Ostaran excelled in all aspects of his training, particularly in the philosophical and legal teachings of the faith, as well as in swordsmanship.
+Ostaran was sent to the [[place-grttmplrdvn|Great Temple of Árdavon]] in the city of [[place-polthamis|Polthamis]], where he began his formal training as an acolyte. His studies included theology, law, and combat training, as the Árdavonian faith expects its priests to be both protectors and spiritual guides. Ostaran excelled in all aspects of his training, particularly in the philosophical and legal teachings of the faith, as well as in swordsmanship.
 
 At the age of 20, Ostaran took his vows and was ordained as a priest dedicated to serving Árdavon’ cause on the battlefield and in the courts. He became known for his dedication to justice, traveling throughout the kingdom to mediate disputes, bring corrupt officials to justice, and uphold the ideals of the Árdavonian church.
 
@@ -531,3 +531,6 @@ A Knight’s Duel
 
 Political Intrigue
 : As Father Ostaran navigates the complexities of the royal court, players may become entangled in the power struggles between the nobility and the church, with the fate of Tarvénia’s chivalric code hanging in the balance.
+
+The Fair at Thórgila
+: Riders of [[being-nizelganotis|Nizel Ganotis]] come to the autumn horse fair at [[place-thorgila|Thórgila]] asking where Father Ostaran keeps his papers, and they are buying horses at prices that buy friends. Ostaran needs to know who in his own town has taken their silver.

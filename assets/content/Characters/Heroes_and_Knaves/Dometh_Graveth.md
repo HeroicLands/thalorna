@@ -527,3 +527,6 @@ The Apprentice's Betrayal
 
 The Naval War Commission
 : The kingdom discovers that a rival naval power is constructing a fleet of warships. In desperation, the crown-prince returns to Dometh with a commission for a battle-fleet—multiple ships, rushed timeline, and total military deployment. Accepting would require Dometh to compromise on quality, expand his workshop, and delegate critical work to craftspeople he doesn't fully trust. Refusing would mean abandoning the kingdom in a moment of dire need. The prince makes it clear that patriotic honor requires acceptance, even as Dometh's conscience screams that rushing the work will result in inferior vessels that will endanger the sailors who crew them.
+
+The One Measure
+: The merchants of [[place-herthema|Herthema]] who want shipbuilding standardized ask the [[affiliation-cnclhrthm|Council of Herthema]] to set one measure for every hull built in the town, and Dometh must argue for his ships before a council of the men who want him discredited.

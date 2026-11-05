@@ -439,8 +439,8 @@ Old Grudges
 Echoes of the Past
 : A captain Taviro sailed under as a boy is back in port, and wants him back on his crew.
 
-Shifting Winds
-: Political change in Tarvénia threatens the port trade Taviro's berths depend on, and he can adapt, resist, or leave.
+A House Berth
+: The merchant houses taking hold of the harbor of [[place-nebralis|Nebralis]] want crews that ship only with them, and Taviro is offered a berth bound somewhere he has never been if he signs away the right to ship with anyone else.
 
 The Opportunity
 : A merchant offers Taviro a mate's berth on a ship bound for distant lands, and the crew he would command are not men who want him over them.

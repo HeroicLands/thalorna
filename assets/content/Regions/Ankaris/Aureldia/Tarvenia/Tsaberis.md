@@ -38,7 +38,7 @@ Tsaberis belongs to the [[affiliation-kngdmstrth|Kingdom of Asturath]], and the 
 
 Outside the drive Tsaberis is a quiet market town. It makes _betsur_ (cheese) from the milk that comes down from the meadows through the summer, salts it in the cellars under the old houses and sells it at the autumn fair. It cards and spins the wool of the spring shearing. It keeps the drove roads in repair and the inns along them open. The women of the town run most of its holdings, because so many of its men are abroad, and the cheese trade is theirs almost entirely.
 
-The town keeps the shrine of the [Mother]{.name data-type="lore/deity"} in a cave a mile above the north gates, where the shepherds leave cheese at the mouth on the way up and again on the way down. A _tsinga_ (wise-woman) lives below it and sees to the sick of the town and its flocks.
+The town keeps the shrine of [[affiliation-menutsa|the Mother]] in a cave a mile above the north gates, where the shepherds leave cheese at the mouth on the way up and again on the way down. A _tsinga_ (wise-woman) lives below it and sees to the sick of the town and its flocks.
 
 ## Hooks
 

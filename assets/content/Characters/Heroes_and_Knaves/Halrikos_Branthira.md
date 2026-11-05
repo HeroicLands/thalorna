@@ -537,3 +537,6 @@ The Impossible Request
 
 The Guild's Betrayal
 : The Guild of Scribes receives an offer from a wealthy patron to sponsor a new, faster system of record-keeping using novel methods that Hálrikos views as fundamentally unreliable. The Guild, faced with declining revenues as fewer people enter the scribal profession, is tempted by the patron's offer. Hálrikos must convince the Guild that his way is superior while privately questioning whether his devotion to tradition is blinding him to improvements. Meanwhile, the mysterious patron's true identity and motives become increasingly unclear, and Hálrikos begins to suspect that accepting the offer would compromise the integrity of the city's records for reasons he does not yet understand.
+
+The Written Rules
+: The [[affiliation-cnclthrgl|Council of Thórgila]], which holds its town to the word given at the oath stone, asks Hálrikos to write its rules down. Half the town calls that sense, and the other half calls it a city man telling free men what to do.

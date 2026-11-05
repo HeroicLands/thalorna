@@ -452,3 +452,6 @@ The Temple's Modernization
 
 The Magical Awakening
 : A disturbance in the deep places awakens something ancient in the lands surrounding Nebralis—perhaps something connected to [[place-aelwyth|Aelwyth]]'s mystical influence filtering into distant waters, or perhaps something more immediately dangerous. Alethra's unusual skill in embalming suggests she has knowledge or experience with death-work that goes beyond conventional preparation of corpses. She is drawn into a mystery that involves the boundary between the living and the dead, and her involvement could either save her community or damn it depending on choices she has not anticipated needing to make.
+
+The Magistrate
+: The merchant aldermen of the [[affiliation-cnclnbrls|Council of Nebralis]] propose a formal magistrate to hear the quarrels Alethra mediates, and [[being-dorandaroort|Dorándaro Orthemandis]] asks her to speak against it in the Freemen's Assembly, which would make her the political power she has never sought.

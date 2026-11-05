@@ -440,3 +440,6 @@ Word from Thórgila
 
 The Mate
 : The mate who resents her has proposed her for a job aloft in weather no sensible officer would send a deckhand into, and the captain is below. Refusing is the end of her on this ship.
+
+The Name on the Farm
+: Ríthara's mother has run the family's farm above [[place-thorgila|Thórgila]] in her sick husband's name, and a neighbor has gone to the [[affiliation-cnclthrgl|Council of Thórgila]] saying a sick man's word cannot hold the land. Ríthara's coming home would settle it one way or the other.

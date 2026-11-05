@@ -441,3 +441,6 @@ The Cut Trace
 
 The Seat
 : The older teamsters have proposed at the guild that a seat may not pass to a daughter, and the vote is next month. If it carries, her seat, her license and the harbor work go together.
+
+The Aldermen
+: If the guild's vote goes against her, Estara means to take her seat to the [[affiliation-cnclnbrls|Council of Nebralis]], and the only aldermen likely to hear her are the men of the merchant houses whose cargoes she hauls fastest, who will want something for it.
