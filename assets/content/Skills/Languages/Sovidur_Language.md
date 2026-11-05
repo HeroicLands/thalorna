@@ -7030,6 +7030,101 @@ data:
     - {name: Dolqonkelod, tongue: sowides, built: [dolqon, kelod]}
     - {name: Idvaqkelod, tongue: sowides, built: [idvaq, kelod]}
     - {name: Gorenevod, tongue: sowides, built: [goren, evod]}
+    - {name: Voghalur, tongue: sowides, built: [voghal, -ur]}
+    - {name: Kesukur, tongue: sowides, built: [kesuk, -ur]}
+    - {name: Budakur, tongue: sowides, built: [budaq, -ur]}
+    - {name: Naqkhakur, tongue: sowides, built: [naqkhaq, -ur]}
+    - {name: Chuyelur, tongue: sowides, built: [chuyel, -ur]}
+    - {name: Guredur, tongue: sowides, built: [gured, -ur]}
+    - {name: Qodirur, tongue: sowides, built: [qodir, -ur]}
+    - {name: Diqrakur, tongue: sowides, built: [diqraq, -ur]}
+    - {name: Khilodur, tongue: sowides, built: [khilod, -ur]}
+    - {name: Voghalghakhiq, tongue: sowides, built: [voghal, ghakhiq]}
+    - {name: Voghalghakhiq Voghalur, tongue: gloss, built: [Voghalghakhiq, Voghalur]}
+    - {name: Khuvankharu, tongue: sowides, built: [khuvan, kharu]}
+    - {name: Khuvankharu Kesukur, tongue: gloss, built: [Khuvankharu, Kesukur]}
+    - {name: Budaqjilaq, tongue: sowides, built: [budaq, jilaq]}
+    - {name: Budaqjilaq Budakur, tongue: gloss, built: [Budaqjilaq, Budakur]}
+    - {name: Vilaqlun, tongue: sowides, built: [vilaq, -lun]}
+    - {name: Vilaqlun Naqkhakur, tongue: gloss, built: [Vilaqlun, Naqkhakur]}
+    - {name: Atazdovaq, tongue: sowides, built: [ataz, dovaq]}
+    - {name: Atazdovaq Chuyelur, tongue: gloss, built: [Atazdovaq, Chuyelur]}
+    - {name: Koyozlun, tongue: sowides, built: [koyoz, -lun]}
+    - {name: Koyozlun Chuyelur, tongue: gloss, built: [Koyozlun, Chuyelur]}
+    - {name: Guredkenod, tongue: sowides, built: [gured, kenod]}
+    - {name: Guredkenod Guredur, tongue: gloss, built: [Guredkenod, Guredur]}
+    - {name: Diqkhunlun, tongue: sowides, built: [diqkhun, -lun]}
+    - {name: Diqkhunlun Qodirur, tongue: gloss, built: [Diqkhunlun, Qodirur]}
+    - {name: Atazyaqnar, tongue: sowides, built: [ataz, yaqnar]}
+    - {name: Atazyaqnar Diqrakur, tongue: gloss, built: [Atazyaqnar, Diqrakur]}
+    - {name: Iqodlun, tongue: sowides, built: [iqod, -lun]}
+    - {name: Iqodlun Khilodur, tongue: gloss, built: [Iqodlun, Khilodur]}
+    - {name: Savaghbiiloq, tongue: sowides, built: [savagh, biiloq]}
+    - {name: Savaghbiiloq Savaghur, tongue: gloss, built: [Savaghbiiloq, Savaghur]}
+    - {name: Kholqon, tongue: sowides, built: [kholqon]}
+    - {name: Todva, tongue: sowides, built: [todva]}
+    - {name: Dichul, tongue: sowides, built: [dichul]}
+    - {name: Jonkhiq, tongue: sowides, built: [jonkhiq]}
+    - {name: Diqkhun, tongue: sowides, built: [diqkhun]}
+    - {name: Uruchaq, tongue: sowides, built: [uruchaq]}
+    - {name: Beyuk, tongue: sowides, built: [beyuk]}
+    - {name: Khamaq, tongue: sowides, built: [khamaq]}
+    - {name: Iqod, tongue: sowides, built: [iqod]}
+    - {name: Bovi, tongue: sowides, built: [bovi]}
+    - {name: Bujalur, tongue: sowides, built: [bujal, -ur]}
+    - {name: Gorenur, tongue: sowides, built: [goren, -ur]}
+    - {name: Soqritur, tongue: sowides, built: [soqrit, -ur]}
+    - {name: Ghotakur, tongue: sowides, built: [ghotaq, -ur]}
+    - {name: Mirjolur, tongue: sowides, built: [mirjol, -ur]}
+    - {name: Bodekur, tongue: sowides, built: [bodek, -ur]}
+    - {name: Khaaqidur, tongue: sowides, built: [khaaqid, -ur]}
+    - {name: Tijodur, tongue: sowides, built: [tijod, -ur]}
+    - {name: Vurakur, tongue: sowides, built: [vuraq, -ur]}
+    - {name: Ghotaqtoliz, tongue: sowides, built: [ghotaq, toliz]}
+    - {name: Ghotaqtoliz Ghotakur, tongue: gloss, built: [Ghotaqtoliz, Ghotakur]}
+    - {name: Khaaqidlun, tongue: sowides, built: [khaaqid, -lun]}
+    - {name: Khaaqidlun Khaaqidur, tongue: gloss, built: [Khaaqidlun, Khaaqidur]}
+    - {name: Tijodkharu, tongue: sowides, built: [tijod, kharu]}
+    - {name: Tijodkharu Tijodur, tongue: gloss, built: [Tijodkharu, Tijodur]}
+    - {name: Bodeklun, tongue: sowides, built: [bodek, -lun]}
+    - {name: Bodeklun Bodekur, tongue: gloss, built: [Bodeklun, Bodekur]}
+    - {name: Mirjoltoliz, tongue: sowides, built: [mirjol, toliz]}
+    - {name: Mirjoltoliz Mirjolur, tongue: gloss, built: [Mirjoltoliz, Mirjolur]}
+    - {name: Orqazjilaq, tongue: sowides, built: [orqaz, jilaq]}
+    - {name: Orqazjilaq Mirjolur, tongue: gloss, built: [Orqazjilaq, Mirjolur]}
+    - {name: Yovaqtoliz, tongue: sowides, built: [yovaq, toliz]}
+    - {name: Yovaqtoliz Mirjolur, tongue: gloss, built: [Yovaqtoliz, Mirjolur]}
+    - {name: Orqazdovaq, tongue: sowides, built: [orqaz, dovaq]}
+    - {name: Orqazdovaq Mirjolur, tongue: gloss, built: [Orqazdovaq, Mirjolur]}
+    - {name: Kodubeyuk, tongue: sowides, built: [kodu, beyuk]}
+    - {name: Kodubeyuk Mirjolur, tongue: gloss, built: [Kodubeyuk, Mirjolur]}
+    - {name: Bujalqiimod, tongue: sowides, built: [bujal, qiimod]}
+    - {name: Bujalqiimod Bujalur, tongue: gloss, built: [Bujalqiimod, Bujalur]}
+    - {name: Bujalyitboq, tongue: sowides, built: [bujal, yitboq]}
+    - {name: Bujalyitboq Bujalur, tongue: gloss, built: [Bujalyitboq, Bujalur]}
+    - {name: Gorenyemok, tongue: sowides, built: [goren, yemok]}
+    - {name: Gorenyemok Gorenur, tongue: gloss, built: [Gorenyemok, Gorenur]}
+    - {name: Vuraqlun, tongue: sowides, built: [vuraq, -lun]}
+    - {name: Vuraqlun Vurakur, tongue: gloss, built: [Vuraqlun, Vurakur]}
+    - {name: Soqritlun, tongue: sowides, built: [soqrit, -lun]}
+    - {name: Soqritlun Soqritur, tongue: gloss, built: [Soqritlun, Soqritur]}
+    - {name: Jiboqlun, tongue: sowides, built: [jiboq, -lun]}
+    - {name: Jiboqlun Ghotakur, tongue: gloss, built: [Jiboqlun, Ghotakur]}
+    - {name: Voghaltoliz, tongue: sowides, built: [voghal, toliz]}
+    - {name: Voghaltoliz Ghotakur, tongue: gloss, built: [Voghaltoliz, Ghotakur]}
+    - {name: Savaghjilaq, tongue: sowides, built: [savagh, jilaq]}
+    - {name: Savaghjilaq Savaghur, tongue: gloss, built: [Savaghjilaq, Savaghur]}
+    - {name: Jiboq, tongue: sowides, built: [jiboq]}
+    - {name: Dujar, tongue: sowides, built: [dujar]}
+    - {name: Votri, tongue: sowides, built: [votri]}
+    - {name: Kuyad, tongue: sowides, built: [kuyad]}
+    - {name: Akhaq, tongue: sowides, built: [akhaq]}
+    - {name: Jibun, tongue: sowides, built: [jibun]}
+    - {name: Voyer, tongue: sowides, built: [voyer]}
+    - {name: Tuvaq, tongue: sowides, built: [tuvaq]}
+    - {name: Khelid, tongue: sowides, built: [khelid]}
+    - {name: Jonat, tongue: sowides, built: [jonat]}
+    - {name: Jozul, tongue: sowides, built: [jozul]}
     - name: Evurakhaq
       tongue: sowides
       built: [evur, akhaq]

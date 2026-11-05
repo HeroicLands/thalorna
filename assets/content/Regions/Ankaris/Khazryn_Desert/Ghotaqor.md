@@ -29,9 +29,11 @@ The bands are small, fifty to two hundred people, and they are unorganized in th
 
 Their furs go south. Sable, marten and ermine reach the market-camp at [[place-qisomrktcmp|Qiiso]] on the backs of Sovidur traders who go north each summer, and from there they travel on to [[place-midhalnrgn|Mídhalión]]. The bands will take a stranger in who arrives hungry and half-frozen, because refusing him is bad luck, and will not take him in twice.
 
-## Current Situation {#present}
+## The Summer Trade {#present}
 
 The bands answer to nobody and take no part in the road, and their furs go south each summer with the Sovidur traders to Qiiso. The cut ridge and the hollow where the snow does not lie draw scholars from Velanthia and traders from Targud, who pay for any word of them.
+
+The fur trade is the forest's one tie to the south, and this season it is fraying. A fur trader of [[place-qisomrktcmp|Qiiso]] who went north two summers ago has not come back, and his backers do not know whether he is dead or has found something. A band on the coast has begun to bring ivory and worked amber to the summer trade, more than any seal-hunter could have found, and it will not say where they come from. Each winter the men of the [[affiliation-ghtkrtrb|Ghotakur]], from the steppe side of the forest's edge, go north through the forest to mend a wall there, and last winter three of them did not come home.
 
 ## Dangers
 
@@ -58,3 +60,6 @@ The hunters speak of places they avoid: a ridge where the stone has been cut int
 
 [[lore-varokhiclt|Varokhi]]
 : the forest tribes to the northwest
+
+[[scenario-vllysfrstfrst|The Valleys at First Frost]]
+: the forest-edge valleys when the wall-keepers go north

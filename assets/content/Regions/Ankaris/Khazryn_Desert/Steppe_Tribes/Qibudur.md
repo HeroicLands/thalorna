@@ -53,7 +53,7 @@ data:
   economy: [lore-bartercnmy, lore-kinhalcrdt]
   lore: [humanflk]
   parents: []
-  relations: {ksrrtrb: rival, kndrtrb: rival}
+  relations: {ksrrtrb: rival, kndrtrb: rival, grdrtrb: rival}
   packFolder: khazryndesert
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
@@ -86,9 +86,13 @@ A caravan that crosses Qibudur grass pays in horses or in goods the Qibudur can 
 
 They also sell horses to the road. A caravan going east takes remounts at Bulach, and a herd driven east as goods is often Qibudur-bred, walking itself to the Tantsou market with a Qibudur brand on every shoulder.
 
-## Raids and Fears
+## Raids and Fears {#present}
 
-The Qibudur raid in a dry year and trade in a wet one. In a dry year their traders come to a camp with no strings to sell. They raided the Koserur and they want the [[affiliation-kndrtrb|Kenodur]] well at [[place-qimod|Qiimod]]. They fear one thing above the rest: a drought that reaches Bulach. They know what they did when the Koserur wells failed, and they expect the same from every tribe that holds a debt of theirs.
+The Qibudur raid in a dry year and trade in a wet one. In a dry year their traders come to a camp with no strings to sell. They raided the Koserur and they want the [[affiliation-kndrtrb|Kenodur]] well at [[place-qimod|Qiimod]]. On the eastern edge of their grass they are at feud with the [[affiliation-grdrtrb|Guredur]] of the sands over a strip of seeps that both tribes mark. They fear one thing above the rest: a drought that reaches Bulach. They know what they did when the Koserur wells failed, and they expect the same from every tribe that holds a debt of theirs.
+
+## The Dry Year {#history}
+
+Bulach held through the drought that dried the [[affiliation-ksrrtrb|Koserur]] seasonal water, and the Qibudur came out of that year with their herds whole and nearly a third of the Koserur horses added to them.
 
 ## Hooks
 

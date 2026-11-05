@@ -88,13 +88,18 @@ The pattern alarms the other tribes of the central steppe. A tribe that takes in
 
 A caravan on the northern branch buys passage from the Jobizur at the edge of their grass and pays it in amber or silver by weight. It gets a rider for the four or five days across the grass, water at the named wells on the branch and the Jobizur token. The price is low and the riders are the easiest company on the steppe, because the Jobizur want the strings to come back.
 
-## Raids and Fears
+## Raids and Fears {#present}
 
 The Jobizur raid seldom, and only to answer a raid. They fear three things: a winter that closes the north grass early and drives the herds onto Ekon before the grass round it is ready; the forest itself, whose bogs take a horse to the hock in autumn; and the day the other tribes decide that the Jobizur are an orghunoq in the making and ride against them together.
+
+## The Families Taken In {#history}
+
+The Jobizur have held the northern grass and the wells round Ekon as long as their tellings run, and their tellings are of the families they took in. The Biilokur came in to them in a bad winter of the present dovaq's grandmother's youth, three Koserur families came in the last bad year, and four [[affiliation-svghrtrb|Savaghur]] families came in after the ice winter.
 
 ## Hooks
 
 - Khilodlun wants a witness from outside the steppe to the spoken terms of the Koserur protection, because the Koserur trust no witness from another tribe. A witness who hears the terms becomes a party to them, and the Koserur warband will want to know what was said.
+- Khilodlun wants her offer carried to a starving Savaghur camp at the mouth of a Ghotakur valley before the snow, by someone who belongs to neither tribe: [[scenario-vllysfrstfrst|The Valleys at First Frost]].
 - The Jobizur fur party that went north to the forest bands this summer is a month overdue. Its leader carried the tribe's salt and the dovaq's gift to a band that has never failed to send the party home.
 
 ## See Also

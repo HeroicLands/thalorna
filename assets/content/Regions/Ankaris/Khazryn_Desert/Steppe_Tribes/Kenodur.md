@@ -53,7 +53,7 @@ data:
   economy: [lore-bartercnmy, lore-kinhalcrdt]
   lore: [humanflk]
   parents: []
-  relations: {ksrrtrb: nemesis, qbdrtrb: rival}
+  relations: {ksrrtrb: nemesis, qbdrtrb: rival, qdrrtrb: rival}
   packFolder: khazryndesert
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
@@ -68,7 +68,7 @@ Their other water is the well in the square of [[place-qimod|Qiimod]], four days
 
 ## The Round of the Year
 
-The Kenodur winter in the ravines at the northern edge of Diqraqor, where the rock breaks the wind and the seeps do not freeze. In spring and autumn they come up onto the spur to meet the strings bound to and from the [[place-swoasisbelt|Tellumel]], and the families with the best riders camp at the mouth of the gap at Qiimod. In summer the whole tribe gathers on the grass round Lushiq, and that is the season the riding parties go out.
+The Kenodur winter in the ravines at the northern edge of Diqraqor, where the rock breaks the wind and the seeps do not freeze. The [[affiliation-qdrrtrb|Qodirur]] of the mesas claim the same ravines, and the two tribes are at feud over them. In spring and autumn they come up onto the spur to meet the strings bound to and from the [[place-swoasisbelt|Tellumel]], and the families with the best riders camp at the mouth of the gap at Qiimod. In summer the whole tribe gathers on the grass round Lushiq, and that is the season the riding parties go out.
 
 ## The Dovaq
 
@@ -88,9 +88,13 @@ The Kenodur sell the first days of the spur, from the edge of the Qiiso grass to
 
 A caravan that crosses their grass uninvited pays the price in goods, and its guards pay in the trouble of being searched. The tribe takes caravan tolls as its right and the Koserur's herds as its sport.
 
-## Raids and Fears
+## Raids and Fears {#present}
 
 The Kenodur raid the Koserur's southern graze and any tribe's distant herds that are thinly watched, and they leave the strings on the spur alone once the strings have paid. Two things frighten them. The first is Qiimod itself, which no Kenodur enters. The second is a party that draws the town's water from inside the walls by day and lives, because the tribe's right to charge for that well rests on nobody having done it.
+
+## The Dry Year {#history}
+
+The quarrel with the [[affiliation-ksrrtrb|Koserur]] took its present shape after the drought that dried the Koserur seasonal water, when a Kenodur riding party took eight of their people from a southern graze.
 
 ## Hooks
 

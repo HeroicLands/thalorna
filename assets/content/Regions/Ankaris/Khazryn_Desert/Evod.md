@@ -16,7 +16,7 @@ This was the lake of [[lore-basinbldrs|the Basin Builders]], who farmed its shor
 
 ## Layers {#history}
 
-[[lore-basinbldrs|The Basin Builders]] had cut their canals and raised the stepped mounds along this shore by 2600 BF. The lake fell over some five centuries from about 2200 BF, and by about 1700 BF the basin was dry and its people gone. [[lore-waterunder|The Buried Water]], the Oroqidur star-song, keeps the tribes' account of the water going down.
+[[lore-basinbldrs|The Basin Builders]] had cut their canals and raised the stepped mounds along this shore by 2600 BF. The lake fell over some five centuries from about 2200 BF, and by about 1700 BF the basin was dry and its people gone. [[lore-waterunder|The Buried Water]], the Oroqidur star-song, keeps the tribes' account of the water going down. By the time the tribes came to the sands the basin was salt. The tribes of the nearest wells have cut it since, the [[affiliation-khldrtrb|Khilodur]] on the southern rim and the younger horde of the [[affiliation-mrjlrtrb|Mirjolur]] on the western, and they have quarrelled over the western cuttings as long as either has cut there.
 
 ## What the Tribes Believe
 
@@ -55,3 +55,6 @@ The slab-cutters work the salt as they always have, and none of them works the m
 
 [[lore-waterunder|The Buried Water]]
 : the Oroqidur star-song of the lake that went down
+
+[[scenario-sltnthmth|Salt in the Mouth]]
+: a rider dead on the western rim, and the stair his horde found
