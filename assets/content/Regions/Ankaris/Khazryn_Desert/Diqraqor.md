@@ -39,7 +39,7 @@ In the ravines of the northern plateau, rock-cut tombs open into the cliffs, [[p
 
 ## Hooks
 
-- An Atarzád elder's son has been robbing the tombs for two years, and his father has learned of it from a trader who bought a painted jar.
+- An Atarzád elder's son has been robbing the tombs for two years; a rival herd-chief has found a bead of the blue stone in his saddlebag, and his father denies it.
 - A tribe on the spur offers to guide a Tellumi house in exile to a hidden cistern, and the house cannot tell whether the price is the cistern or the house.
 - A Tantsou scholar wants a rubbing from the painted tomb walls and will pay for a guide the Atarzád cannot forbid.
 

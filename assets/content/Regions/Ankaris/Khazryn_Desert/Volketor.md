@@ -43,7 +43,7 @@ Raiders test unescorted strings; a string with a rider of the right tribe is rar
 ## Hooks
 
 - The Black Flame faction in Hek'ar has run out of coin and offers a caravan master double rates to carry a sealed chest east, and will not say what is in it.
-- A Volketor tribe holds a Vylarian legion standard from the fort at Oroqid, and an envoy of the Empire has come asking to buy it back without saying why it matters.
+- A Volketor tribe claims to know the way into the strongroom at Oroqid where the Vylarian legion standards lie, and an envoy of the Empire has come asking to buy the way without saying why it matters.
 - A rider who joined a caravan at the March's edge has been stealing its tokens one at a time, and the master must decide whether to say so at the first hand-off well, [[place-yemokwell|Yemok]], where the rider's own tribe will hear.
 
 ## See Also

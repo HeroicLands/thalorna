@@ -3,7 +3,7 @@ shortcode: velkunar
 name: {full: Veshkun, en: [The Lost Town]}
 type: place
 subType: site
-description: "The old city of Vahurdash, given to the sand by a drought five centuries ago: streets of roofless houses and open cellars under and around the settlement that has been reclaimed among them."
+description: "The old city of Vahurdash, given to the sand by a drought in the deep past: streets of roofless houses and open cellars under and around the settlement that has been reclaimed among them."
 tags: []
 data: {demonym: null, lore: [], parents: [swoasisbelt], population: 0, packFolder: khazryndesert}
 ---
@@ -20,7 +20,7 @@ A drought took it, and the Tellumi who tell the story do not say a drought only.
 
 ## Danger
 
-The danger is the ground. The old cellars run under the new settlement and under the open streets alike, and a floor that has held for five centuries gives way beneath a man's weight and drops him into a vault with a roof of cracked stone over him. Giant Camel Spiders nest in the vaults and come up at dusk to hunt the settlement's goats and sometimes its children; the people of Vahurdash keep their cellar doors barred. Beyond the settlement, at the foot of the great wall, the sand moves, and a street open at noon may be closed by dusk.
+The danger is the ground. The old cellars run under the new settlement and under the open streets alike, and a floor that has held since the deep past gives way beneath a man's weight and drops him into a vault with a roof of cracked stone over him. Giant Camel Spiders nest in the vaults and come up at dusk to hunt the settlement's goats and sometimes its children; the people of Vahurdash keep their cellar doors barred. Beyond the settlement, at the foot of the great wall, the sand moves, and a street open at noon may be closed by dusk.
 
 ## Treasure
 

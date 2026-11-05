@@ -56,7 +56,7 @@ Each tribe answers to nobody above its own dovaq (chief), chosen by the elders f
 
 A jadaq (raid) drives off herds and takes captives for ransom; women, children and shamans are not killed, and no well is poisoned. A raid that kills opens a bodva (blood-feud) that can run for generations, until horses are paid or a marriage is made. A raid on a caravan that has paid the tribe's toll insults the tribe, and the tribe answers it. Taking from a caravan that paid nobody is collection.
 
-Now and then one person, man or woman, forces many tribes together by the sword. That leader is an orghun, and the union is an orghunoq. It has no council, no heir and no law but the orghun's word, and it breaks within a season of the orghun's death, when every feud it closed opens at once. The tribes count years from the last great union, and the present year is the 173rd of the [Silent Market]{.name data-type="lore/calendar"}. They expect a fourth and cannot say when it will come.
+Now and then one person, man or woman, forces many tribes together by the sword. That leader is an orghun, and the union is an orghunoq. It has no council, no heir and no law but the orghun's word, and it breaks within a season of the orghun's death, when every feud it closed opens at once. The tribes count years from the last great union, and the present year is the 173rd of the [Silent Market]{.name data-type="lore/calendar"}. They expect a fourth and cannot say when it will come. A would-be orghun is gathering tribes now, by victory and by marriage, and every tribe, oasis and caravan must choose.
 
 The Sovidur honor the [[affiliation-ashanpnthn|Ashaian gods]] loosely over older sky-cults, above all [[lore-bazhramisdty|Bazhrámiš]] of the storm. A treaty is sworn before lightning, and the dead are left on the laying-out ground with their names spoken to the four winds.
 
@@ -136,7 +136,7 @@ At the first fire, three questions place a character: **Whose salt have you eate
 Campaigns start well from the price of things. A caravan-master dies on the march and his heir cannot read his list. A tribe closes its wells because a neighbor's rider killed its dovaq. A street of Vulud has opened, and a hidden-water band has sold the news to two buyers. A Bizarian factor at Qiiso offers a fortune for one lens of tower-glass from Jilaq.
 
 :::secret
-**For the GM:** A rising orghun is the campaign the Khazryn holds in reserve. Each dovaq he reaches must swear under open sky or watch the tribe's wells fouled, and one who refuses is replaced by a cousin who will swear. A master's list of agreements names every tribe on the road and which of them are at feud, and a party that sells one to the wrong rider has handed him the order in which the road can be taken.
+**For the GM:** Who the rising orghun is, where his camp lies and whether he unites the tribes are the GM's to settle. Each dovaq he reaches must swear under open sky or watch the tribe's wells fouled, and one who refuses is replaced by a cousin who will swear. A master's list of agreements names every tribe on the road and which of them are at feud, and a party that sells one to the wrong rider has handed him the order in which the road can be taken.
 :::
 
 ## The Steppe in Its Own Tellings

@@ -14,7 +14,7 @@ data:
       depth: region
       sources: [place-khzryndsrtrgn, place-ewod, place-qelod, place-osikor]
       summary: >-
-        By this time a people have cut canals across the basin, raised stepped mounds of baked brick along the shore of a great lake and dug stair-wells far deeper than anything the steppe digs now. They leave no name for themselves and no writing anyone has read, and their dead lie in a ravine in the stone range to the north.
+        By this time a people have cut canals across the basin, raised stepped mounds of baked brick along the shore of a great lake and dug stair-wells far deeper than anything the steppe digs now. They leave no name for themselves and no writing anyone has read, and their dead lie in a ravine in the stone uplands to the south.
       standing: reconstructed
       where:
         locus: [place-ewod]
@@ -25,7 +25,7 @@ data:
             knowledge: unlinked
           - place: place-osikor
             how: >-
-              the rulers are laid in the ravine burial ground north of the basin
+              the rulers are laid in the ravine burial ground in the Diqraqor, south of the basin
             knowledge: unlinked
       accounts:
         - by: place-khzryndsrtrgn
@@ -71,7 +71,7 @@ Four things survive, and each is a place a party can walk to:
 
 - **The shoreline.** [[place-ewod|Evod]], the dry salt lake, is the lake bed itself, with the mounds standing along its edge.
 - **The deep wells.** [[place-qelod|Kelod]] is the greatest of the stair-wells, and there are lesser ones along the old canal lines that the tribes of the [[place-hskrrgn|Ghoshiqor]] still draw from and refuse to explain.
-- **The highland tombs.** [[place-osikor|Oshiqor]] is the ravine burial ground in the stone range north of the basin, where their rulers lay.
+- **The highland tombs.** [[place-osikor|Oshiqor]] is the ravine burial ground in the Diqraqor, the stone uplands south of the sands, where their rulers lay.
 - **The sand.** Every dune field of the central waste may cover a buried street or field-wall, and the tribes treat the sand of the basin as the builders' own.
 
 ## What the Tribes Say
