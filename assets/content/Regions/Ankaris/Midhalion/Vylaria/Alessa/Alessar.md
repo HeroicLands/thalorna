@@ -38,7 +38,7 @@ The year turns on the two assizes, one after the spring sowing and one after the
 
 ## Who Rules and Keeps Order
 
-The _therkos_ holds the province in the emperor's name, commanding its garrison, its revenue and its courts, and answers to him alone. The present _therkos_ is [Kaldremas Elthezis]{.name data-type="being/npc"}, a _kurthos_ (senator) of an old house, who has held the province for eleven years. He is old, and for most of the past year he has kept to his villa in the hills at [[place-vennara|Vennara]]; his acts come down to Alessar sealed, and his freedman secretary, [Nethoren]{.name data-type="being/npc"}, reads them from the steps of the Governor's House on the mornings after they arrive.
+The _therkos_ holds the province in the emperor's name, commanding its garrison, its revenue and its courts, and answers to him alone. The present _therkos_ is [[being-kldrmslthzs|Kaldremas Elthezis]], a _kurthos_ (senator) of an old house, who has held the province for eleven years. He is old, and for most of the past year he has kept to his villa in the hills at [[place-vennara|Vennara]]; his acts come down to Alessar sealed, and his freedman secretary, [[being-nethoren|Nethoren]], reads them from the steps of the Governor's House on the mornings after they arrive.
 
 Below him the province's officers keep their own offices round the square, and each reports somewhere different:
 

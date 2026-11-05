@@ -52,6 +52,12 @@ The great houses rule Belekos and are quietly leaving it. They fill every counci
 
 Inns stand by the gate and along the river, and the good ones are near the gate, where the factors of buyers from the capital and from abroad stay while they bargain. A stranger with a letter to one of the great houses is lodged in the house itself, in the guest rooms off the counting hall, and is expected to be grateful, discreet and seen at dinner. A guest of one house who calls on a rival house is remembered by both.
 
+## History {#history}
+
+The empire's histories record no event of Belekos's own. The city's history is its houses', which have built their wealth over centuries on the grain of the valleys below and the trade that carries it away. Each generation rebuilds its fronts in the newest manner, so the arena is the only old building the houses have not replaced. Not every house is old: the Helionite-descended Kalethos household came for the grain trade two generations ago and stayed.
+
+The decline reached Belekos as a question of trust rather than of loss ([[lore-empirdclne|The Decline of the Vylarian Empire]]). As the far provinces went their own way and the Empire drew back to its core, the great houses began quietly moving their money and their partnerships out of an empire they no longer trust to last.
+
 ## Hooks {#hooks}
 
 - **The other ledger.** A clerk of a great house offers to sell a party a copy of a ledger his master keeps apart from the one read in the hall. He wants passage out of Alessa as part of the price.

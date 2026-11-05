@@ -95,6 +95,16 @@ The masks are the cult's splendour, and its temples are its decay. Each divine O
 
 Each province has a _zalvos_ of the province at its seat, who presides over the rites that bind it to the capital, and each city has its temples of the divine Orzoi. [[affiliation-provnchyln|Hilen]] is the cult's bastion: its old landed houses hold to the cult and the traditional rites of the Twelve against the merchants and the [[affiliation-ordoarcanis|Thordimalon]] alike. At the edge of [[place-olcassafld|the Blood-field of Olkassa]], on the estate of [[affiliation-ganothandis|House Ganothandis]], the cult keeps a small shrine to both armies' Orzoi, the only shrine in the Empire to a defeated claimant.
 
+## Politics {#present}
+
+The cult's politics this year are the old Orzas's death. When he dies, the Seldan votes his consecration, and the cult's own Keeper of the Masks, [[being-dlmrsvrklns|Dalmeras Varkalenis]], chooses the men who walk in the masks behind his bier. Dalmeras is also one of the three men the court names for the adoption: poor, devout, descended from five Orzoi and the old houses' choice. Every house that hopes to matter after the funeral has called on him this year.
+
+The death will open the post of _holzathos_, the most contested appointment in a generation, and [[affiliation-varkalenis|House Varkalenis]] wants it. [[affiliation-mardovanes|House Mardovanes]] wants its Orzas Azénales raised to divine at last. The next accession also brings [[affiliation-blackflame|the Black Flame]]'s petition to the new Orzas, as chief priest of the cult in his own person, for a place in the Forge-Lord's niche in the [[place-pnthnrldnm|Temple of the Twelve]], and the High Flame-Warden, [[being-trzmsbrkrts|Torzemos Brakarates]], has it drafted. On the Olkassa estate in Hilen the shrine to both armies' Orzoi keeps its lamp, paid for by [[affiliation-ganothandis|House Ganothandis]], whose heir marries the Grain House's daughter this season.
+
+:::secret {title="The Keeper's offer"}
+Dalmeras has sent word to Nartun, by a priest of the Sacred Forge, that he will proscribe the Black Flame when he reigns if Nartun's knights and temple coin stand behind his adoption. The Holy Mother has agreed to nothing. Torzemos has learned that a claimant's house sent a priest up the holy road, and has warned every household what such a promise would cost.
+:::
+
 ## Hooks
 
 - **The count.** A _kurthos_ (senator) who owes favors in three directions hires a party to learn, before the old Orzas dies, how the Seldan's votes on his consecration will fall.

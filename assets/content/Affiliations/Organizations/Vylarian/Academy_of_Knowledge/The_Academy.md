@@ -144,6 +144,12 @@ Whatever the Order's dominance, the non-arcane colleges are strongest where they
 
 The academies resent the Order's dominance, and the Order suspects the academies of nostalgic dreams of independence. Both are probably right.
 
+## The Present Quarrel {#present}
+
+The houses carry the succession to the Epistémion's scholars. The [[place-aulpnpstmm|Ombalon]] answers the throne's questions, and this year the great houses bring theirs too: what an Orzas who dies having adopted nobody leaves behind, and which precedents bind his successor. Entry to the [[place-notralsevan|Notral Sevan]] is by the throne's leave alone, and the leave is the failing Orzas's to give for a short while longer.
+
+Below the Inner Wall the colleges fear the Seldan's displeasure. A reader whose lectures are reported in the wrong house on the Heights loses his chair, the houses' clients sit in on the College of Political Philosophy's disputations, and paid students break up a disputation that goes the wrong way. The Helionite academies, where the non-arcane colleges are strongest, hear the war party in Orzara talk of a war for tribute against [[place-helionis|Helionis]]. Inside the Order's chapter house on the same hill the Traditionalists and the Reformers argue whether the Order should crown and uncrown.
+
 ## See Also
 
 [[affiliation-ordoarcanis|Thordimalon]]

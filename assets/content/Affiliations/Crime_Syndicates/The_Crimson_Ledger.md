@@ -110,3 +110,9 @@ The Auric Compact—the legitimate banking cartel—knows the Crimson Ledger exi
 ## Identifying Marks
 
 The Ledger doesn't use tattoos or sigils—too traceable. Members identify each other through a system of coded phrases embedded in financial language. A "crimson ledger entry" in a trade negotiation signals affiliation. Account numbers at certain counting houses serve as membership credentials. The only physical marker is a small, unnaturally precise nick cut into the edge of a specific coin, which is a token of safe passage between cells.
+
+## The Present {#present}
+
+The Ledger is lending into Taruzel's anger. Its business is lending to the desperate and seizing their labor when they default, and [[affiliation-unchained|the Unchained]] have taken more of its bonds than any honest moneylender has lost; its enforcers hunt the Unchained's Breakers with a zeal the guilds' own lack. The veterans' halls of [[place-besikar2|Besikar]] and [[place-yamuzel2|Yamuzel]] talk of a rising before the Fleet Review, and the Ledger's lowest tier of enforcers is drawn from desperate war veterans. Its debts reach into the halls themselves: the son of [[being-zlmrzzn|Zilmar Ezzinu]], the Besikar hall-keeper who carries the veterans' petition, has borrowed from a Ledger lender to buy a share in a fishing boat.
+
+In the [[affiliation-vezakuni|Vezakuni]] the younger councilors of the Gatitush have proposed stronger powers for its Pazasuni, which would end the arrangement that has left the Ledger's reach into the Taruzelian guilds largely untouched, and the merchant princes are mobilizing against the vote. In Orzara the _rozimoi_ of [[affiliation-danvar|the Danvar]] keep their investigations into the Ledger's reach into the legitimate banking system running, and the [Reformist Faction]{.name data-type="affiliation"} calls the guild's discipline too lenient.

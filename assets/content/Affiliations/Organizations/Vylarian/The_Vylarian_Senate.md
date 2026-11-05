@@ -89,6 +89,18 @@ The [[affiliation-vylrnmltry|estates of the nobility]]
 The court factions
 : the Reformist and Conservative blocs that run through every imperial institution contend on the Seldan's floor as fiercely as anywhere in the empire.
 
+## What It Is Fighting About {#present}
+
+The Seldan is strong this year because the throne is weak. The old Orzas, [[being-zrmlshlrkls|Zarmelas Helarkales]], is seventy-eight and failing and has adopted nobody, and the chamber that acclaims a man of its own whenever a throne falls vacant is counting its benches. Its majority wants an orderly succession and a man it knows, and the man it knows best is [[being-klvnsmrdvns|Kolvenas Mardovanes]], a _kurthos_ in his own right and a former governor of Hilen. The old houses of the [Conservative Faction]{.name data-type="affiliation"} would rather see [[being-dlmrsvrklns|Dalmeras Varkalenis]] adopted, and the legate [[being-hlzrsvndrn|Halzoras Vendaren]] is the Guard's favourite.
+
+Three questions wait beneath the dome.
+
+- **The consecration.** When the old Orzas dies, the Seldan votes whether he is divine, half-divine or neither, and every house is counting that vote before he is dead. [[affiliation-mardovanes|House Mardovanes]] asks again for its Orzas Azénales to be raised to divine, and [[affiliation-varkalenis|House Varkalenis]] votes against it again.
+- **The debt.** The throne borrows the dole from the great houses of [[affiliation-danvar|the Danvar]] every quarter, and the Seldan hears the terms of each rollover after they are agreed. Its hawks call every foreign loan a chain, the Khelathi factor's grain on credit and the [[affiliation-byzarianlg|Bizarian League]]'s customs house at Elissara alike, and the treasury takes them.
+- **The war party.** The war party wants Taruzel's islands back and a war for tribute against [[place-helionis|Helionis]]. The treasury cannot pay for either, and every campaign mints pensioners.
+
+The votes do not sit where the names do. The factors of [[being-krznsthlrts|Korzenas Thalurates]] hold the debts of many old houses, and he counts their votes as his. [[being-nthrsmrdvns|Nethoras Mardovanes]] feeds the chamber at his table on Selvin. The [[affiliation-blackflame|Black Flame]]'s patrons on the benches weigh every claimant on the Forge-Lord's niche, and they raise the niche whenever the Seldan votes the Temple of the Twelve its endowment.
+
 ## Plot Hooks
 
 - **The Weak Diadem.** A contested succession has made the Seldan powerful for the first time in a generation. Houses long resigned to chorus-work are rediscovering their voices, and the question of whom the Senate will recognize has become the question of the empire.

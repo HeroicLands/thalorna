@@ -77,6 +77,10 @@ The readers have no order of their own. A temple that licenses them keeps a copy
 
 [[affiliation-ordoarcanis|The Order]] (the Thordimalon, the Arcane Order) classes the reading of a nativity as tolerated: a reckoning from the hour of a birth, not an arcane working, and so outside its monopoly. The two traditions share the six elements, and they disagree about which had them first. The Order's masters teach that the wheel borrowed its elements from the six currents of [[affiliation-zemorhodhis|The Six Ways]] (the Zemor Hodhis). The star-readers say the wheel is the older of the two.
 
+## The Present {#present}
+
+The Star Circle is content, and its trade is steady. Every Vylarian birth still sends for a reader before a priest, every betrothal contract still cites the sheet, and the great houses' betrothals this season cite theirs as every betrothal does. The temples' licenses are the tradition's only discipline, and a reader caught selling a sheet for a birth he never asked about loses his. Its one quarrel is old and bloodless: the Order's masters teach that the wheel borrowed its six elements from the Zemor Hodhis, the readers answer that the wheel is the older, and because the Order classes the reading as tolerated, the dispute never comes before a hearing of the Sekran.
+
 ## See Also
 
 [[affiliation-ordoarcanis|Thordimalon]]

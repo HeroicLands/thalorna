@@ -46,6 +46,12 @@ Lentora's council is falling into a stranger's hands. A factor who gives his nam
 
 Strangers lodge around the forum, where the inns serve the people who have come in on business, or in the hostels the guilds keep for their own members from out of town, which take paying guests when they have beds. An inn on the forum clears its tables at the hour the baths open and fills them again at dusk. Lentora's people are polite to strangers and incurious about them; a newcomer who wants to be noticed has to have a suit, a lease or a letter.
 
+## History {#history}
+
+The empire's histories record no event of Lentora's own, and the city's history is written in its buildings. Its walls are old and have been kept whole. The furnaces of its baths have burned without a break for longer than the oldest guild can show in its books. The province's ordinary business, its leases, roads and boundary suits, has long been done on its forum, where every guild of the inner province keeps a hall.
+
+The decline is written in the same stones ([[lore-empirdclne|The Decline of the Vylarian Empire]]). The theater beside the baths was shut two generations ago and is a timber yard. The townhouses of the lesser senatorial families behind the forum have been divided into apartments, with the family on the first floor and tenants above. A council seat that answers for the city's taxes has become a seat the _gulmen_ families avoid in a poor year, and lately more of them stand empty than the council can fill.
+
 ## Hooks {#hooks}
 
 - **The stone.** A boundary stone between two estates has moved a hundred paces in the night, and the surveyor who set it is the party's employer's cousin. Both estates have hired advocates, and the case is heard in ten days.

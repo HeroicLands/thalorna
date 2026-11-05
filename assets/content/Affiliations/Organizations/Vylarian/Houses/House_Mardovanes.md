@@ -64,14 +64,15 @@ His daughter [Varelas Mardovanes]{.name data-type="being/npc"} is nineteen and b
 
 His younger brother [[being-klvnsmrdvns|Kolvenas Mardovanes]], a former _tavos_ (chief magistrate) and governor of Hilen, made the match, and is the man the court expects the old Orzas to name.
 
-## Quarrels
+## Quarrels and Debts {#present}
 
-- **[[affiliation-varkalenis|House Varkalenis]]**, whose vote has kept Azénales half-divine for a century, and whose master will not take a cup of wine at a Mardovanes table.
-- **The [Conservative Faction]{.name data-type="affiliation"}** in the Seldan, which counts the Settlement as the Empire's surrender and the house's gilding as its price.
+House Mardovanes wants the next Orzas to owe it his bread, and it has a man of its own in the running. [[being-klvnsmrdvns|Kolvenas Mardovanes]], the master's brother, is the Senate's choice and the grain's, and the man the court expects the old Orzas to name, as an heirless Orzas once named Azénales. He has promised the Guard a donative on the day of his adoption and paid nothing on it. Failing him, the house means to stand behind whichever claimant wins, with Hilen's grain in its granaries when he does.
 
-## What It Wants
-
-The house wants Azénales given a temple of his own: the step from half-divine to divine, which only the Senate can vote. It wants its own claimant adopted, as Azénales was, and failing him it wants to stand behind whichever claimant wins the succession, with the grain in its granaries when he does. And it wants the Olkassa wedding made, the estate's harvests coming in, and no change on [[place-olcassafld|the Blood-field of Olkassa]].
+- **The grain duty.** [[being-nthrsmrdvns|Nethoras Mardovanes]] wants a duty on foreign grain, which would leave the Hilen houses the only cheap grain in the capital. [[being-mrndsvskln|Marendos Vaskelen]]'s shipping house on the Wharves wants trade free, [[being-amrzvlds|Amarza Veldis]] opposes the duty in the Council of the Danvori, and the Khelathi factor offers the throne grain on credit.
+- **Azénales's temple.** The house wants its Orzas raised from half-divine to divine, a step only the Seldan can vote. [[affiliation-varkalenis|House Varkalenis]] has kept him half-divine for a century, and its master will not take a cup of wine at a Mardovanes table.
+- **The Conservatives.** The [Conservative Faction]{.name data-type="affiliation"} in the Seldan counts the Settlement as the Empire's surrender and the house's gilding as its price.
+- **The wedding.** Varelas is to marry the heir of Olkassa this season. The heir wants his field settled by the rite of Sélmoros first, and the house wants no change on [[place-olcassafld|the Blood-field of Olkassa]].
+- **The tribune.** Nethoras courts [[being-sthmrrdln|Sathemar Ardelen]], who has dined on Selvin twice this year, because the stairs eat the house's bread and a duty that raises its price needs the tribune's silence.
 
 ## Hooks
 

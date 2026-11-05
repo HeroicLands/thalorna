@@ -104,7 +104,7 @@ What is abundant is food, wine and labor. What is scarce is hard coin, news, and
 
 ## Current Situation {#present}
 
-The province is governed by an outsider and run by its houses. The _therkos_ (governor) at [[place-aravantia|Aravantara]], Linthimas Orvelis, is the first in a generation with no estate in Hilen, and the masters of the great houses settle among themselves what they will ask of him before his audience opens. Four things press on them now.
+The province is governed by an outsider and run by its houses. The _therkos_ (governor) at [[place-aravantia|Aravantara]], [[being-lnthmsrvls|Linthimas Orvelis]], is the first in a generation with no estate in Hilen, and the masters of the great houses settle among themselves what they will ask of him before his audience opens. Four things press on them now.
 
 - **The succession.** The old Orzas, [[being-zrmlshlrkls|Zarmelas Helarkales]], has adopted nobody, and the capital lives on Hilen's grain. Every master remembers that the one battle legion fought against legion was fought on a Hilen estate. [[affiliation-mardovanes|House Mardovanes]], the Grain House of [[being-nthrsmrdvns|Nethoras Mardovanes]], is marrying his daughter to the heir of [[affiliation-ganothandis|House Ganothandis]]'s Olkassa estate, and the man the court expects to be named is a Mardovanes kinsman.
 - **The land.** The estates buy out the free farmers at the [[place-messora|Messora]] settling and carry their tenants' debts from year to year. The crown's paling at [[place-cervalia|Kervalara]] takes tenant fields for the deer, and this year several villages refused to beat for the court's hunt.
@@ -114,6 +114,16 @@ The province is governed by an outsider and run by its houses. The _therkos_ (go
 ## Commerce and Currency
 
 The Province of Hilen uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Imperial taxation is administered by [[affiliation-tolvan|the Tolvan]] and revenues flow to [[affiliation-tarmex|the Tarmeks Orzan]]. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+
+## History {#history}
+
+Hilen's estates grow the grain that is milled into the capital's bread, and the province's history turns on the one war that was fought for it.
+
+About 224 the high priesthood of [[place-nartum|Nartun]] withdrew from imperial obedience and anointed a king of its own ([[lore-nartumrefuse|Nartun Refuses the Empire]]). Since then Hilen's north-eastern march has been the Empire's border with the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]], at the stream below [[place-ashenmere|Ashenmere]] where a chapel of the Order of the Sacred Flame faces a forge-shrine of the Sacred Forge.
+
+When the Orzas Barnakis died in 389 with no heir named, the Guard, the Senate and the legions of Moktur each acclaimed a man of their own ([[lore-brkensuccsn|The Broken Succession]]). Whoever held Hilen's granaries held the capital's bread, and about 401 the Senate's army and the Moktur legions met on the Olkassa estate, legions against legions under the same eagle with no quarter given ([[lore-olcassabtl|The Battle of Olkassa]]). Makandas won the field and lost half his army on it, and the harvest was lost with the granaries. About 403 the bread ran short in Orzara, the dole went unpaid and the capital burned for six days ([[lore-greatburnng|The Great Burning]]). About 406 Makandas took the city and founded the house that still reigns ([[lore-restorehouse|The Restoration]]).
+
+The field is farmed again, and the best wheat in Hilen comes off [[place-olcassafld|the Blood-field of Olkassa]], which the reapers cut round. The great houses took the war as a family's worst memory. A Hilen house does not applaud a general who marches on another Vylarian army, and the province has a horror of civil war that the Empire's other provinces do not share.
 
 ## Hooks {#hooks}
 

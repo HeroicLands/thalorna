@@ -400,6 +400,18 @@ Each rank's mark depends on its track and tier.
 
 The **orkaima** of a legion, the eagle standard its _orkaimos_ bears, is the most sacred physical object in the imperial military. A legion that loses its _orkaima_ is disbanded, and the loss is formally recorded in the imperial archives. A legion that recovers an _orkaima_ lost in an earlier defeat is honored permanently with a gold band added to its name: the [Karsan Soldan Korvan]{.name data-type="affiliation"} recovered the Eagle of the [Pelsan Hilvan]{.name data-type="affiliation"} after **[[lore-blackmarshbtl|the Battle of the Black Marsh]]**, two centuries ago. The _orkaima_ is a brass-and-gilt sculpture on a polearm. Its materials are not precious in themselves, but its consecration is total.
 
+## The Present {#present}
+
+The legions are thin, in disrepute since the war that lost Taruzel, and still the strongest army in the west. Recruitment is down, and the throne fills the gaps with hired companies that draw no pension and are paid on the day: [[affiliation-cleanshlds|the Clean Shields]] on the grain road above Orzara's river gate, [[affiliation-goitsathal|Goitsa Thal]] at the road-head below the Kervaron passes, and [[affiliation-hrendskari|Hrendskari]] on the watchtowers of the Vristwald march above Dolvar. The career centurions resent every company that draws the throne's silver without twenty years under the eagle, and every company's contract names the failing Orzas by name.
+
+The officer corps has not forgiven the loss of Taruzel. The Dukran's report blamed purchased commissions, the Commission Compromise left them on sale, and the career NCOs still count the Vallar examination an insult. The war party in the officer corps and the [[affiliation-seldan|Seldan]] wants the islands back and a war for tribute against [[place-helionis|Helionis]], and the treasury answers that every campaign mints pensioners.
+
+The succession reaches into the camps. [[being-hlzrsvndrn|Halzoras Vendaren]], a legate who brought his legion home whole from the Taruzelian war, is the Guard's favourite to be adopted. The army remembers the Years of Three Eagles, when Moktur's legions acclaimed their own legate and marched, and the great houses of Hilen fear any claimant who would march on another Vylarian army.
+
+:::secret {title="The stair on the River Circle"}
+A society of officers and veterans of the eastern legions, meeting on a stair of the River Circle, means to kill the Khelathi factor, [[being-mthszrtml|Methisi Azeret'Mulu]], before the throne takes his loan, so that the loan dies with him. A war of revenge on Taruzel is possible for the legion and impossible for the treasury, and this is the revenge it can afford.
+:::
+
 ## Plot Hooks
 
 - **The Examination Scandal.** A Reformist Faction member has documentary evidence that the senior examining Kamdor deliberately failed a recent Vallar examination, on the Conservative Faction's instruction, because the candidate was a Hundar Maldor with strong reformist sympathies. The evidence is authentic. Publishing it would force the Orzas to act, and suppressing it would need the Dukran's quiet intervention against the Reformists. The candidate's Vandraks was a Lusel-era classmate of the Talkor's son.

@@ -64,14 +64,13 @@ The house is rich from service. Every act the Offices seal carries a fee, every 
 
 Lady [[being-iltherethalu|Ilthere Thalurates]] is the house's face at court: pragmatic, self-serving and well connected. She offers political support in exchange for help with key figures in the Empire, and her bargains are always with people the house can use. The most interesting of them is [[being-klstrtsxrchds|Kalestratos Zarkedis]], a fire-mage of the [[affiliation-ordoarcanis|Thordimalon]] and heir of the fallen [[affiliation-zarkedis|House Zarkedis]], whom she supports and who despises the kind of politics she practices while finding her indispensable.
 
-## Quarrels
+## Quarrels and Debts {#present}
 
-- **[[affiliation-varkalenis|House Varkalenis]]**, whose master will not dine with them and votes against them on every question of standing.
+House Thalurates wants a hand in the succession and the throne in its debt. Its master, [[being-krznsthlrts|Korzenas Thalurates]], a former clerk of the seal, buys the notes, mortgages and failing estates of the old houses through factors in their own names, and a good part of the [[affiliation-seldan|Seldan]] votes as he wishes on any question that matters to him. He wants _ankren_ (Silver) standing, which takes three generations of service, a substantial fee and the seal of the Dukran. He wants his heir married into a founding house, so that his grandchildren's masks stand in an old cupboard, and a daughter married to the next Orzas. A new Orzas makes a new Keeper of the Seal, and the house means the post to stay in the Offices it knows.
+
+- **[[affiliation-varkalenis|House Varkalenis]]**, whose master will not dine with the Thalurates and votes against them on every question of standing.
 - **The [Conservative Faction]{.name data-type="affiliation"}**, which holds that the Offices belong to freedmen and clerks and the Senate to the old houses, and that a house which keeps the seal should not also keep a vote.
-
-## What It Wants
-
-The house wants _ankren_ (Silver) standing, which takes three generations of service, a substantial fee and the seal of the Dukran, the Empire's chief war-minister. It wants its heir married into a founding house, so that its grandchildren's masks stand in an old cupboard. And it wants a hand in the succession: a new Orzas makes a new Keeper of the Seal, and the house means the post to stay in the Offices it knows.
+- **The Khelathi factor**, [[being-mthszrtml|Methisi Azeret'Mulu]], who has begun buying the same houses' debts with Khelathi silver, at better prices.
 
 ## Hooks
 

@@ -65,14 +65,13 @@ The house's seat in the Senate is its other asset. A _kurthos_ (senator) of a fo
 
 He has named no heir. Three cousins of the name each expect to be adopted, and each attends his morning call. One of them, [[being-dlmrsvrklns|Dalmeras Varkalenis]], the Imperial Cult's Keeper of the Masks, is spoken of for a greater adoption: the old houses would have the Orzas take him as his successor. A house name is meant to stand on the roll with an heir behind it, and the empty place behind his is the talk of the [[place-heightsorz|Heights]].
 
-## Quarrels
+## Quarrels and Debts {#present}
 
-- **[[affiliation-mardovanes|House Mardovanes]]**, the house that gave the Empire the Orzas who settled the provinces away ([[lore-crownssettle|The Settlement of the Crowns]]). The Varkalenis vote has kept that Orzas half-divine for a century.
+House Varkalenis has a claimant and no money. [[being-dlmrsvrklns|Dalmeras Varkalenis]], the Imperial Cult's Keeper of the Masks, the master's nephew and one of the three cousins of the name who expect to be adopted, is the old houses' choice for the adoption: poor, devout and descended from five Orzoi, with nothing to offer the Guard but his blood. Ankelas has named no heir of the house, and the three cousins attend his morning call. The house wants the post of _holzathos_, which the old Orzas's death will make the most contested appointment in a generation, a consecration vote that goes the way its interest goes, and an heir it can afford.
+
+- **[[affiliation-mardovanes|House Mardovanes]]**, the house that gave the Empire the Orzas who settled the provinces away ([[lore-crownssettle|The Settlement of the Crowns]]). The Varkalenis vote has kept that Orzas half-divine for a century, and the old Orzas's death brings the Mardovanes's request for his temple before the Seldan again.
 - **[[affiliation-thalurates|House Thalurates]]**, raised from the clerks of the [[affiliation-imperialoffices|Imperial Offices]] within living memory. Ankelas will not dine with them, and calls them the Offices' children.
-
-## What It Wants
-
-The house wants the post of _holzathos_, the Senate-named officer who administers the Imperial Cult and hears the oaths sworn in court: it pays well, it puts a Varkalenis at the head of the rites his ancestors receive, and the old Orzas's death will make it the most contested appointment in a generation. It wants the old Orzas's consecration vote to go the way its own interest goes. And it wants an heir it can afford.
+- **The cult's treasurer**, who means to let the porch of a Varkalenis Orzas's temple to a ropemaker unless the house can show the endowment that keeps it.
 
 ## Hooks
 
@@ -80,7 +79,7 @@ The house wants the post of _holzathos_, the Senate-named officer who administer
 - **The three cousins.** Each of the cousins hires a party to make the other two look unfit before Ankelas writes his will.
 
 :::secret
-**For the GM:** The house is in debt to the edge of its stipends. Its Keeper of the Seal borrowed against them from a moneylender of [[affiliation-danvar|the Danvar]], the note has been sold on, and a factor of House Thalurates holds it. Ankelas does not know who holds it. The holder means to forgive it in exchange for the house's heir marrying a Thalurates daughter.
+**For the GM:** The house is in debt to the edge of its stipends. Its head borrowed against them from a moneylender of [[affiliation-danvar|the Danvar]], the note has been sold on, and a factor of House Thalurates holds it. Ankelas does not know who holds it. The holder means to forgive it in exchange for the house's heir marrying a Thalurates daughter.
 :::
 
 ## See Also

@@ -59,7 +59,9 @@ The master of the house, the disgraced father, lives on what his son sends him, 
 
 [[being-klstrtsxrchds|Kalestratos Zarkedis]] is a mage of the [[affiliation-pirethos|Pirethos]] fellowship in the [[affiliation-ordoarcanis|Thordimalon]] at [[place-velysara|Velisara]], a field _therman_ (licensed practitioner) with a reputation for talent and dangerous research. The fall of the house reached him in his last year as a student and made him what he is. He means to restore the name through arcane power and standing in the Order, which no creditor can call in, and he has taken the political support of Lady [[being-iltherethalu|Ilthere Thalurates]] of [[affiliation-thalurates|House Thalurates]] while despising the trade she offers.
 
-## What It Wants
+## Quarrels and Debts {#present}
+
+House Zarkedis has a name and no house, and its quarrels are all over debts. Its masks hang in another man's cupboard across the square in [[place-skoraz|Soraks]]. The new owner refuses to sell them and will not say whom he bought the house for, and the page of the creditors' sale that names the buyer has been cut from the book. [[being-klstrtsxrchds|Kalestratos Zarkedis]] means to restore the name through standing in the Thordimalon, which no creditor can call in, and he takes the political support of Lady [[being-iltherethalu|Ilthere Thalurates]] while despising the trade she offers.
 
 The house wants its masks back in a cupboard it owns. It wants a seat again, in Soraks or anywhere, and a name the Empire repeats; a Vylarian is a failure when the city stops saying his name, and the Zarkedis have heard it stop. Kalestratos wants more than that, and the Zarkedis name is what he says when he is asked why.
 

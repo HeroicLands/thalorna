@@ -110,6 +110,10 @@ Foreign powers
 
 A member wears a narrow strip of dyed leather around the upper left arm, the _vazder-bahvar_ ("scar of the mighty"), given at acclamation and never replaced. The dye is a deep indigo from a desert plant, and the strip is renewed only by dipping it again in the vat kept at the Stone of Ranaz, at a meeting of the Circle. A strip left unrenewed for three meetings fades to a paler blue and marks its wearer as having stepped aside.
 
+## What It Is Fighting About {#present}
+
+The Circle is at rest between its gatherings, with no host in the field and no calling between the turns. The questions it carries to the next season-turn at the [[place-stoneofranaz|Stone of Ranaz]] are its standing ones: [[lore-sowidesclt|Sovidur]] raiders and the wells contested with their tribes, the borders the [[affiliation-khzrncnfdrtn|Tellumi Confederation]] tests, and the dead against the southern pastures. [[being-shadznkmrz|Shadezan Kamruz]], whom the Storm Cults recognize as a vessel of Bazhrámiš, has led its gathered warriors twice in the last decade, and his counsel weighs more than his single voice. Tribes without a member feel the pressure to put forward a candidate.
+
 ## Plot Hooks
 
 The Petition Against a Tribe

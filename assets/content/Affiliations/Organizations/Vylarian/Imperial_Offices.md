@@ -89,6 +89,12 @@ The [[affiliation-imprlhrlds|Imperial College of Heralds]] is the desk of arms a
 
 The Offices' records are vast enough that documents are lost in them for generations, and a man with the right friends can make an inconvenient law, debt or birth-record disappear. A case can be buried in the Offices' archives as surely as in a grave, and the favor of a _veramus_ (curator of the city) is one of the ways to arrange it. The losses are older than the clerks. The fire took most of the first three centuries of edicts, and every original the Guild keeps here was written after it. An archivist asked for the muster rolls of the army sent across the sea in 377 brings the roll, open at the right place: it records the legions as they embark and does not record their return ([[lore-deltaexped|The Delta Expedition]]). The Senate's claimant in [[lore-brkensuccsn|the Broken Succession]], [Sylarion]{.name data-type="being/npc"}, died in a room of the Offices whose door was not opened for two days ([[lore-restorehouse|The Restoration]]), and the room is a ledger store now.
 
+## What It Is Fighting About {#present}
+
+The Offices are waiting for a new Keeper. A new Orzas appoints a new Keeper of the Seal, Holimar has held the seal for nineteen years under the present one, and the present one is seventy-eight and has adopted nobody. The houses that want the seal for one of their own freedmen court the claimants, and [[being-krznsthlrts|Korzenas Thalurates]], master of the house the Offices raised, means the post to stay in the Offices he knows.
+
+The seal is busy meanwhile. The Orzas has no cash, and he sells offices, titles and Senate grants of citizenship quietly, for coin now. The Dole desk pays each month's pensions from silver [[affiliation-tarmex|the Tarmeks]] borrows. The desk for Taruzel has been asked for a copy of the levy it drafts each year for a province twelve years gone. The imperial tribunals in the compound lift cases out of the civic basilicas at the throne's word, and their clerks in gray stoles are watched in the Platan, because a proscription can be read from the platforms on any day the throne needs a house's property.
+
 ## Hooks
 
 - **The number.** A party's patron needs a petition heard before the next feast day, and the usher's bench is full. The clerk who calls the numbers can be bought, and so can the clerk who wants his place.

@@ -71,6 +71,12 @@ The charter is a _zaktela_ (sealed grant) of the Orzas, which every Orzas seals 
 - **The [[affiliation-vylarinmpr|Vylarian Empire]]** draws its sea-borne supply through the city and wants nothing changed that would slow it.
 - **[[affiliation-tevran|The Tevran Maldor]]** charters each of the city's guilds. Its _therkalen_ (provincial deputy) for Salkalon counts them among his province's guilds, and the council answers his letters by writing over his head to the Tevraks.
 
+## History {#history}
+
+The council's history is its charter's, and no account gives the year an Orzas first granted it. What the accounts give is the custom: every Orzas seals the charter anew, and in return the city pays its spring sum, passes the capital's cargoes free and keeps the river mouth lit and dredged.
+
+The college that charters each of the council's guilds, [[affiliation-tevran|the Tevran Maldor]], was founded by the Orzas Arzanas between about 418 and 425 to put the guilds of the Empire's conquered cities under one charter ([[lore-arzanasedict|The Edicts of Arzanas]]). In the decline that followed, the throne came to pay the dole with borrowed money ([[lore-empirdclne|The Decline of the Vylarian Empire]]), and the customs of the city's harbor are among what it borrows against.
+
 ## Hooks {#hooks}
 
 - **The copies.** Zenothen Linthimis wants to know which guilds have given the Delalara advocate a copy of the charter, and what he does with them.

@@ -87,6 +87,10 @@ The Sekran runs its own network of informants, which overlaps the Empire's intel
 
 At Velisara the Sekran's regional office stands across the city from the province's largest temple of [[affiliation-blackflame|The Black Flame]]. The Order takes no side between the Forge-Lord's two faiths, and the Black Flame is a lawful faith. What brings the Sekran into the old quarter is the Flame's rite worked as arcane magic, which is anathema.
 
+## What It Wants Now {#present}
+
+The Sekran wants what it has wanted since 73 BF: the first clause answered and every hand on the register. Its file on the Therona stays open, and its daily work is the rogue practitioner. Its present hunts run into the Empire's quarrels. [[affiliation-thetamzir|The Tamzir]] carries [[being-cibelasrnt|Kivella Serenthis]], an arcane prodigy who escaped the Order, and the Sekran pursues her through imperial agents, guild contacts in the Taruzelian ports and hired bounty hunters. At [[place-velysara|Velisara]] its regional office watches the old quarter around the province's largest temple of [[affiliation-blackflame|the Black Flame]], for the rite worked as arcane magic. Senior _sekeroi_ trade favors with the imperial spymasters, in a year when every house at court wants to know what the Order plans before the Order announces it.
+
 ## See Also
 
 [[affiliation-ordoarcanis|Thordimalon]]

@@ -8,7 +8,7 @@ tags: []
 data:
   parents: []
   locations: [alyssa, alyssar, vennara, lentora, skoraz]
-  cast: [phltsklfts, klstrtsxrchds, iltherethalu, krznsthlrts]
+  cast: [phltsklfts, klstrtsxrchds, iltherethalu, krznsthlrts, kldrmslthzs, nethoren]
   factions: [provinclys, zarkedis, thalurates, imperialoffices]
   follows: []
   party: {size: null, archetypes: []}
@@ -17,7 +17,7 @@ data:
 
 ## Overview {#overview}
 
-The _therkos_ of [[affiliation-provinclys|the Province of Alessa]], [Kaldremas Elthezis]{.name data-type="being/npc"}, has not been seen in [[place-alyssar|Alessar]] since the spring, and his acts come down from his villa at [[place-vennara|Vennara]] sealed. His freedman secretary, [Nethoren]{.name data-type="being/npc"}, reads them from the steps of the Governor's House. The party is hired to carry a sealed packet of the province's business up the north road to [[place-skoraz|Soraks]], a city built for thirty thousand where four thousand now live, among colonnades the council sells a column at a time to meet a large city's assessment. The road leads the party into the province's two quiet scandals: the north road's bridge levy, spent elsewhere, and the seal that has sealed every act since spring without its holder.
+The _therkos_ of [[affiliation-provinclys|the Province of Alessa]], [[being-kldrmslthzs|Kaldremas Elthezis]], has not been seen in [[place-alyssar|Alessar]] since the spring, and his acts come down from his villa at [[place-vennara|Vennara]] sealed. His freedman secretary, [[being-nethoren|Nethoren]], reads them from the steps of the Governor's House. The party is hired to carry a sealed packet of the province's business up the north road to [[place-skoraz|Soraks]], a city built for thirty thousand where four thousand now live, among colonnades the council sells a column at a time to meet a large city's assessment. The road leads the party into the province's two quiet scandals: the north road's bridge levy, spent elsewhere, and the seal that has sealed every act since spring without its holder.
 
 ## What Is Really Happening {#what-is-really-happening}
 

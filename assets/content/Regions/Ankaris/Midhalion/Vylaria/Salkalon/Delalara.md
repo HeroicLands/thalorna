@@ -46,7 +46,7 @@ The Taruzelians of the Eastern Quarter live in the middle of this by waiver. Sin
 
 ## Who Rules and Keeps Order
 
-The _therkos_ holds the province for the emperor, commanding its garrison, its revenue and its courts. The present _therkos_ is [Korvathas Revothandis]{.name data-type="being/npc"}, a _kurthos_ (senator) of an old house of the capital in his second year, sent to Salkalon by a Senate that wanted the province governed by a man with no ships of his own. He holds an audience every morning in the hall of the Governor's House and is careful to receive the shipping houses and the admirals' officers on alternate days. He has renewed every Taruzelian waiver so far, a fortnight late.
+The _therkos_ holds the province for the emperor, commanding its garrison, its revenue and its courts. The present _therkos_ is [[being-krvthsrvthnds|Korvathas Revothandis]], a _kurthos_ (senator) of an old house of the capital in his second year, sent to Salkalon by a Senate that wanted the province governed by a man with no ships of his own. He holds an audience every morning in the hall of the Governor's House and is careful to receive the shipping houses and the admirals' officers on alternate days. He has renewed every Taruzelian waiver so far, a fortnight late.
 
 The province's officers keep their offices round the forum:
 

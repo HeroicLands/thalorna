@@ -106,7 +106,7 @@ What is abundant is metal, timber, game and danger. What is scarce is imperial a
 
 ## Current Situation {#present}
 
-The capital can neither lose Moktur nor pay to hold it, and the province governs itself in the gap. The _therkos_, Tholmaras Nelamen, has held it from [[place-tyrellan|Tirellan]] for eleven years. He pays some twelve hundred Varokh-born auxiliaries from the tolls of [[place-korrast|Korras]] and the province's share of the metal, on the first of every month, and they are sworn to him by name. The legion at [[place-dolvar|Dolvar]] under the _vandraks_ Satheras Kiramaris is paid when the treasury's coin arrives. The capital's letters take longer to come back than to go, and the [[affiliation-imperialoffices|Imperial Offices]] have sent a clerk north to measure the province's road.
+The capital can neither lose Moktur nor pay to hold it, and the province governs itself in the gap. The _therkos_, [[being-thlmrsnlmn|Tholmaras Nelamen]], has held it from [[place-tyrellan|Tirellan]] for eleven years. He pays some twelve hundred Varokh-born auxiliaries from the tolls of [[place-korrast|Korras]] and the province's share of the metal, on the first of every month, and they are sworn to him by name. The legion at [[place-dolvar|Dolvar]] under the _vandraks_ [[being-sthrskrmrs|Satheras Kiramaris]] is paid when the treasury's coin arrives. The capital's letters take longer to come back than to go, and the [[affiliation-imperialoffices|Imperial Offices]] have sent a clerk north to measure the province's road.
 
 The province's other quarrels are the frontier's.
 
@@ -118,6 +118,16 @@ The province's other quarrels are the frontier's.
 ## Commerce and Currency
 
 The Province of Moktur uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Imperial taxation is administered by [[affiliation-tolvan|the Tolvan]] and revenues flow to [[affiliation-tarmex|the Tarmeks Orzan]]. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+
+## History {#history}
+
+Moktur became a march when the Empire went north. From about 120 to 180 the legions cut a road out of the province over the Vandstein highlands into the Vristwald and raised a chain of forward posts along it, and the province's valleys filled with the road's garrisons ([[lore-legionsroad|The Legions' Road]]). From about 200 to 260 its _therkoi_ bought the War Chiefs nearest the road with iron and silver, and the kindreds who followed those chiefs south settled on land the Empire granted them. They are the Varokh of Moktur, and the half-Varokh towns of [[place-pinnhald|Pinnhald]] and [[place-stennvold|Stennvold]] began with them. About 291 a legion of about five thousand marched up the road to burn Waldburg, and the first common muster of the forest took it at the ford of the Moldún; the province lost its field army in an afternoon ([[lore-skathhrethlss|The Loss of the Legion at Skathhreth]]). About 340 the Empire gave the forward posts up one by one, and the frontier fell back to Moktur's mountains.
+
+Moktur's legions made the reigning house. When the Orzas Barnakis died in 389 they acclaimed their _felzos_, Makandas, and marched south ([[lore-brkensuccsn|The Broken Succession]]). About 401 they beat the Senate's army on the Olkassa estate in Hilen and lost half their number doing it ([[lore-olcassabtl|The Battle of Olkassa]]), and about 406 Makandas took Orzara and founded House Helarkales ([[lore-restorehouse|The Restoration]]). He rewarded the northern legions, and the province keeps the memory that its _felzos_ made the house.
+
+The Drift began here. After [[lore-threewinters|the Three Winters]] of 512 to 514, Varokh war-bands came over the Vandstein passes from 515 to 528 for cattle and grain, the valleys of the north emptied, and [[place-dolvar|Dolvar]] was raised to a legion fortress ([[lore-hungerraids|The Hunger Raids]]). In 518 a war-band burned the camp of the [Pelsan Hilvan]{.name data-type="affiliation"} and carried off its eagle. In the spring of 520 the Karsan Soldan Korvan closed the valley above the host that carried it and drove the host into the marsh below, where it died to the last man ([[lore-blackmarshbtl|The Battle of the Black Marsh]]). The northern revenue failed in those years, and the Empire counts the raids among the causes of its decline ([[lore-empirdclne|The Decline of the Vylarian Empire]]). From 660, when the Nordmen took Stormveld and needed thralls, captives taken in the Moktur passes went down the Vristwald's rivers to Nordmen buyers by the boatload ([[lore-thrallrivers|The Thrall Rivers]]).
+
+The watchtowers of the northern march count the smoke at dusk, and their sergeants teach recruits that the count was right at the Black Marsh. The field itself is [[place-blackmarshfld|the Blood-field of the Black Marsh]].
 
 ## Hooks {#hooks}
 

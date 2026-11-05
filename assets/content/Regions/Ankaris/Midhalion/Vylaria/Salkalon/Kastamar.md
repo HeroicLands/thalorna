@@ -54,6 +54,14 @@ The admiral wants a war the fleet cannot pay for. Tharkas Gurimandis writes to t
 
 Strangers are watched in Kastamar, and a party is asked its business at the gate and again at its inn. The [Slipway]{.name data-type="place/structure"}, below the Admiralty, is the inn of officers' guests, merchants with contracts to sell and anyone with a letter to the admiral, and its keeper is a retired bosun who reports each new guest to the marines without being asked. The sailors' lodging-houses along the waterfront are cheaper, noisier and full of men waiting for the quarter, and their talk is of the Senate, the merchants and the Taruzelians, in that order.
 
+## History {#history}
+
+Kastamar's history is the fleet's, and two of its days are still on its books.
+
+The first is in 523, when a Malagna crew from [[lore-southrnfleets|the Southern Fleets]] sailed a captured galley through the western strait under imperial colors and came ashore in a deep bay up the coast ([[lore-bankedfire|The Winter of the Banked Fire]]). A Kastamar squadron fired the galley at her moorings, and the fire ran up the beach into the fishing village's forty-one boats. In 524 the survivors took terms from the _therkos_ of Salkalon, and twenty-eight of them went to the oars of the Kastamar fleet for seven years, northern crews rowing in the imperial fleet a generation before the Empire hired Nordmen by contract ([[lore-compactsignd|The Signing of the Compact]]). The village is [[place-braldvik|Bralvik]], and the bill for its boats has come to the admiralty every autumn since, in the same words.
+
+The second is in 708. The islands of Taruzel rose in 707 ([[lore-taruzelwar|The Taruzelian War of Independence]]), and the next year a squadron of some forty warships, the largest the Empire had ever sent into the eastern sea, sailed from Kastamar to break the blockade of the island channels. It followed the Taruzelian flotilla into the [[place-tamzirshoals|Tamzir Shoals]], took the sand on the falling tide and was destroyed there in two days, with its admiral and most of its marines ([[lore-tamzirbattle|The Battle of Tamzir Shoals]]). About 709 the Empire recognized the Confederation. Kastamar holds that Taruzelian pilots steered the leading ships onto the sand, and the Confederation holds that its captains chose the ground. The names of the drowned are cut on the inner face of the eastern mole, and since the war the fleet's money has come late and short.
+
 ## Hooks {#hooks}
 
 - **The empty quay.** A shipping house of Delalara has offered to hire three of the laid-up warships, with their crews, to escort its convoys east. The admiral will not lend the fleet to merchants, and the crews would sail for anyone who paid them. A party is hired by one side to make the other's case at the waterfront taverns.

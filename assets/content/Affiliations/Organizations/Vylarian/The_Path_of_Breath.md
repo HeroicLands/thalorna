@@ -56,6 +56,10 @@ The masters do not claim to have founded the Path. The oldest manuals they study
 
 [[affiliation-ordoarcanis|The Order]] (the Thordimalon, the Arcane Order) classes the Path as tolerated: a discipline of the sword and of the mind, with no arcane working in it, and so outside its monopoly. A master may be asked once in her life to show the forms to an examiner of the Order, and the masters count the request a courtesy.
 
+## What It Wants Now {#present}
+
+The order wants the forms kept whole and taught only to swordsmen fit for them, and it is at peace with itself and with the Thordimalon. The three living masters weigh every candidate together, and many of the swordsmen they weigh come from the fencing academy of [[being-krmdnsbrkrtys|Koremdanis Barkratis]] in [[place-salkhalon|Salkalon]], which the children of the Empire's most powerful families attend and whose students often become bodyguards and protectors. In a year when every great house counts the cost of a succession, a swordsman with the forms is worth a great deal to a household, and a master who sells the forms is cast out by the others.
+
 ## See Also
 
 [[skill-pthbrth|Path of Breath]]

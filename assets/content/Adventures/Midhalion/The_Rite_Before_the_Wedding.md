@@ -8,7 +8,7 @@ tags: []
 data:
   parents: []
   locations: [olcassafld, hylen, aravantia, messora, polthara]
-  cast: [nthrsmrdvns, klvnsmrdvns, ylzmsmlvrts, rvthrbrmztr]
+  cast: [nthrsmrdvns, klvnsmrdvns, ylzmsmlvrts, rvthrbrmztr, lnthmsrvls]
   factions: [provnchyln, mardovanes, ganothandis, selmoros, ordoarcanis, blackflame, tarmex]
   follows: []
   party: {size: null, archetypes: []}
@@ -51,7 +51,7 @@ The river road into Hilen at harvest, between estates whose walls run for miles.
 
 **Purpose.** Introduce Hilen's houses, the outsider governor and the oath.
 
-**Situation.** The Ganothandis townhouse at Aravantara accepts the gifts and gives the party supper. The _therkos_, [Linthimas Orvelis]{.name data-type="being/npc"}, the first in a generation with no estate in Hilen, is a guest, and suspects that every petition he hears has been agreed before it reaches him.
+**Situation.** The Ganothandis townhouse at Aravantara accepts the gifts and gives the party supper. The _therkos_, [[being-lnthmsrvls|Linthimas Orvelis]], the first in a generation with no estate in Hilen, is a guest, and suspects that every petition he hears has been agreed before it reaches him.
 
 **NPCs and threats.** The master of Ganothandis, gracious and tired; his heir Zetimas, eager and devout; the _therkos_; and [[being-ylzmsmlvrts|Yalzemas Molvarates]], whose bid the houses at the table argue against, because a farmer who pays ten years in advance collects ten years' worth.
 

@@ -69,7 +69,7 @@ Her Old Hands, above all the warden of the company's highest tower, a woman of h
 
 ### Patrons
 
-The empire pays her through the war council of [[affiliation-vylrnmltry|The Vylarian Military]], and she answers for her towers to the _vandraks_ (legion commander) at Dolvar, [Satheras Kiramaris]{.name data-type="being/npc"}. He is careful with her and she is careful with him, and the arrangement suits them both.
+The empire pays her through the war council of [[affiliation-vylrnmltry|The Vylarian Military]], and she answers for her towers to the _vandraks_ (legion commander) at Dolvar, [[being-sthrskrmrs|Satheras Kiramaris]]. He is careful with her and she is careful with him, and the arrangement suits them both.
 
 ### Enemies
 

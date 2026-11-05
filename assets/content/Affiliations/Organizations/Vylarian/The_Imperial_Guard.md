@@ -107,6 +107,16 @@ A guardsman in full harness is unmistakable, and meant to be. The guard wears ar
 
 The captaincy of the permanent palace detail is among the most trusted postings in the empire. Its holder shares with the Imperial _Tarkelos_ (treasury officer) and the _holrozimos_ (chief auditor) of [[affiliation-tarmex|the Tarmeks]] the securing of the imperial strongroom.
 
+## The Present {#present}
+
+The Guard Camp is weighing a donative. Whoever the old Orzas adopts owes the Sorvan one on the day, and the throne has no cash to pay it. [[being-klvnsmrdvns|Kolvenas Mardovanes]], the man the court expects to be named, has promised one and paid nothing on it. [[being-hlzrsvndrn|Halzoras Vendaren]], a legate of the legions and a former watch-captain of the guard, is its favourite, and he offers the officers coin now, before anyone is adopted. [[being-dlmrsvrklns|Dalmeras Varkalenis]] has only his blood and his piety to offer. The watch-captains who hold the camp's gates sup in the cookshops below the hill at the claimants' stewards' expense, and the house that pays for a supper learns what was said at it.
+
+A senior officer has stretched the guard's keeping of order into arrests and detentions that belong to the imperial tribunals, and the Orzas lets him. Outside the walls [[affiliation-cleanshlds|the Clean Shields]], three hundred strong on the grain road, are the only armed company within a day of the capital that answers to neither the legions, the Watch nor the guard.
+
+:::secret {title="The watches and the coin"}
+At the officers' supper in the cookshop below the camp, two watches hold to Kolvenas's promise, three lean to the coin and one is waiting. A captain who leaves the supper early goes to a house on the Heights that is no claimant's. Halzoras's coin is [[being-amrzvlds|Amarza Veldis]]'s, lent through her house's chapter at Delalara in his brother-in-law's name, and the Clean Shields are hers too. See [[scenario-prmsndcoin|The Promise and the Coin]].
+:::
+
 ## Plot Hooks
 
 - **The Donative Withheld.** The reigning Orzas is old and has adopted nobody, and the Guard Camp expects a donative from whoever is named. The man the court expects to be named has promised one and paid nothing on it, and a rival house is offering the officers a larger sum now, before anyone is adopted. The watches are weighing the promise against the coin, and each side is quietly sounding out the officers who command them.

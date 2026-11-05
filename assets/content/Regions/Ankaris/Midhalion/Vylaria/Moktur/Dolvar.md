@@ -39,7 +39,7 @@ The truce market is the town's one other trade. Four times each summer, on days 
 
 ## Who Rules and Keeps Order
 
-Dolvar is not a chartered town. It is the legion's ground, and the _vandraks_ (legion commander), [Satheras Kiramaris]{.name data-type="being/npc"}, rules it by camp law: the fortress's officers judge the lower town's quarrels, the camp prefect sets its market prices, and a thief caught in the lower town is flogged at the fortress gate like a soldier. Satheras is a _kurthos_ (senator) of an old house of the capital, a careful, cold officer in his eighth year on the march, and he is the _therkos_'s deputy in the field. He keeps the truce, the towers and the House of Guests, and he answers to the capital by the road that runs through Tirellan.
+Dolvar is not a chartered town. It is the legion's ground, and the _vandraks_ (legion commander), [[being-sthrskrmrs|Satheras Kiramaris]], rules it by camp law: the fortress's officers judge the lower town's quarrels, the camp prefect sets its market prices, and a thief caught in the lower town is flogged at the fortress gate like a soldier. Satheras is a _kurthos_ (senator) of an old house of the capital, a careful, cold officer in his eighth year on the march, and he is the _therkos_'s deputy in the field. He keeps the truce, the towers and the House of Guests, and he answers to the capital by the road that runs through Tirellan.
 
 The legion's centurions keep order in the town as they keep it in the camp. A tavern-keeper with a brawl on his hands sends for the century whose men are in it, and that century's _Hundar_ settles it before the watch is needed.
 

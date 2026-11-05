@@ -211,6 +211,12 @@ The Tevran's seal shows a wreathed open book over a crossed measuring-rule and q
 
 The Tevraks wears the great gold pectoral of office, kept at the Council between holders. The _rozimoi_ wear black mantles with the silver _rozimos_'s-mark, and a _rozimos_ in mantle entering a guildhouse brings on an immediate quiet. Council members wear the deep blue stole of the Council at formal sessions and their own guilds' marks outside session.
 
+## The Present Quarrel {#present}
+
+The Tevran's quarrels this year are the Danvar's charter and its own chair. The _rozimoi_'s compliance review of [[affiliation-danvar|the Danvar]]'s guild charter sits with Reformist members on its sub-committee, in the same year that [[being-amrzvlds|Amarza Veldis]] asks the throne at every rollover to keep the Danvar's own auditors out of the great houses' chapter books. Nobody believes a revocation would be allowed, and the great houses are coordinating their testimony. Tevraks Solkimar Talothates is in the eighth year of his first term, and his renewal is in doubt: a faction at court wants a successor who will tighten the discipline of conquered-territory guilds, and the contest runs through proxies on the Council and through the cases the senior _rozimoi_ choose to bring before the vote.
+
+Across the strait the [[affiliation-vezakuni|Vezakuni]] goes unrecognized, and the Council's letters to Besikar are still addressed to "Tevran Maldor Taruzel". The Aureldian governments test the Tevran's reach every year, and the Tarvénian crown is demanding a formal disavowal of the _therkalen_ who called them honorary participants.
+
 ## Plot Hooks
 
 - **The Charter Revocation Hearing.** The _rozimoi_ have brought charges against a major Aureldian guild whose charter is at risk, and its home government is loudly committed to its defense. It is the most politically charged case in a generation, and the Council's ruling will set the practical limits of the Tevran's authority over the Aureldian crowns for the next quarter century.

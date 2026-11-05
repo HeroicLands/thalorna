@@ -8,7 +8,7 @@ tags: []
 data:
   parents: []
   locations: [tyrellan, moktur, korrast, dolvar]
-  cast: [knrvsldvrnrk, arznlsbrds, korvathosvol, tharozatalot, zrmlshlrkls]
+  cast: [knrvsldvrnrk, arznlsbrds, korvathosvol, tharozatalot, zrmlshlrkls, thlmrsnlmn, sthrskrmrs]
   factions: [provncmktr, hrendskari, imperialoffices, vylrnmltry]
   follows: []
   party: {size: null, archetypes: []}
@@ -17,13 +17,13 @@ data:
 
 ## Overview {#overview}
 
-The capital can neither lose [[affiliation-provncmktr|Moktur]] nor pay to hold it, and the province governs itself in the gap. Its _therkos_, [Tholmaras Nelamen]{.name data-type="being/npc"}, has held it from [[place-tyrellan|Tirellan]] for eleven years. He pays some twelve hundred Varokh-born auxiliaries on the first of every month from the tolls of [[place-korrast|Korras]] and the province's share of the metal, and they are sworn to him by name. The legion at [[place-dolvar|Dolvar]] is paid when the treasury's coin arrives. The party comes north on a road errand and is drawn into the month's three needs: the pay chest must come down from Korras past a war-band, a surveyor from the capital must measure a road that does not want measuring, and the Nordman company on the towers has a letter from the _therkos_ to answer.
+The capital can neither lose [[affiliation-provncmktr|Moktur]] nor pay to hold it, and the province governs itself in the gap. Its _therkos_, [[being-thlmrsnlmn|Tholmaras Nelamen]], has held it from [[place-tyrellan|Tirellan]] for eleven years. He pays some twelve hundred Varokh-born auxiliaries on the first of every month from the tolls of [[place-korrast|Korras]] and the province's share of the metal, and they are sworn to him by name. The legion at [[place-dolvar|Dolvar]] is paid when the treasury's coin arrives. The party comes north on a road errand and is drawn into the month's three needs: the pay chest must come down from Korras past a war-band, a surveyor from the capital must measure a road that does not want measuring, and the Nordman company on the towers has a letter from the _therkos_ to answer.
 
 ## What Is Really Happening {#what-is-really-happening}
 
 **The recall.** Last autumn the chancery sent Tholmaras a letter of recall under the old Orzas's seal, naming a _kurthos_ of the capital as the next _therkos_. The post-master at the provincial boundary signed for the bag, and the receipt went south. The letter lies in the _therkos_'s strongroom with its seal unbroken. In law he has not received it, so he has not answered it. The capital holds the receipt, believes the letter delivered and waits to see whether he comes. With [[being-zrmlshlrkls|the Orzas]] failing and the succession in doubt, nobody in Orzara will ride north to ask why.
 
-**The vandraks.** The legion's commander at Dolvar, [Satheras Kiramaris]{.name data-type="being/npc"}, received his copy of the recall with an order to see it carried out, and has not acted. Half his legion could reach Tirellan in a week and would meet twelve hundred auxiliaries paid on the day. Through the last two winters, when the treasury's coin did not come, his legion was paid from the _therkos_'s strongrooms against his receipt.
+**The vandraks.** The legion's commander at Dolvar, [[being-sthrskrmrs|Satheras Kiramaris]], received his copy of the recall with an order to see it carried out, and has not acted. Half his legion could reach Tirellan in a week and would meet twelve hundred auxiliaries paid on the day. Through the last two winters, when the treasury's coin did not come, his legion was paid from the _therkos_'s strongrooms against his receipt.
 
 **The road.** Every dispatch from Dolvar to the capital is opened at the posting-station below Tirellan's North Gate, read by the _pozerus_'s clerk, resealed with a copy of the _vandraks_'s seal and sent on a day late. Satheras has known for years and writes accordingly.
 

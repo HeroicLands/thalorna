@@ -128,6 +128,14 @@ The kingdom takes no paper. The notes of [[affiliation-danvar|the Danvar]] money
 
 The kingdom lives on its forest. Charcoal, timber, pitch, potash and carved and turned woodwork go down to Hilen, and grain, wine, oil and cloth come up. [The Withering]{.name data-type="lore"}, a blight that kills stands of forest from the crown down, is changing that trade, and the temples call it a judgment.
 
+## History {#history}
+
+The kingdom was made by one refusal. Before it, [[place-nartum|Nartun]] was the oldest sacred city of the Empire's heartland and its priesthood was the Empire's. About 220 the faith of [[lore-ustarondty|Ústaron]] split into the Sacred Forge and the Black Flame ([[lore-ustaranschism|The Ústaran Schism]]), and the orthodox clergy asked the Orzas Karomfos to proscribe the Black Flame. He refused, because it had temples in his capital and officers in his legions.
+
+About 224 the high priesthood of Nartun withdrew from imperial obedience ([[lore-nartumrefuse|Nartun Refuses the Empire]]). It anointed a king of its own, [Daronos]{.name data-type="being/npc"}, the first to take the throne from the priesthood's hand, and raised the Order of the Sacred Flame to hold the city's walls and the land around it. The legions sent to bring the city back reached it in the autumn, found its gates shut and its knights on the walls, and turned back at the first winter. No Orzas has sent a second army.
+
+The kingdom keeps the shape the break gave it. Its people speak an older Vylari as a mark of the break, the Arcane Order has had no place in it, and its knights keep the old word for the god's fire that the Black Flame also uses. Its kings are of the house descended from Daronos, and the high priesthood has deposed some of them, so every king knows the names of the deposed. When the last king died without a son, the high priests divided between his two cousins, and the Holy Mother refused the elder for a winter and then anointed the younger, Kelvaras Daronis, who has reigned eleven years since.
+
 ## Hooks {#hooks}
 
 - **The votes.** A priest-noble house wants to know how the high priests mean to vote on [[being-klvrsdrns|Kelvaras Daronis]], and the king's own men want the same answer.

@@ -62,9 +62,11 @@ The house is also the province's plainest example of Hilen's horror of civil war
 
 He wants the field settled by the rite of the [[affiliation-selmoros|Faith of Sélmoros]] before the wedding, so that he does not bring a bride home to it. The rite works perhaps half the time, and nobody knows whether settling the field would end the harvest. His father, the master of the house, is old and ill, and has given his son neither a yes nor a no.
 
-## What It Wants
+## Quarrels and Debts {#present}
 
-The house wants no second Olkassa: an orderly succession, an Orzas the Senate and the legions both accept, and no second shrine anywhere to a defeated claimant. It wants the Mardovanes marriage, which binds the capital's grain-buyers to its harvest. And its heir wants a field that is only a field.
+House Ganothandis wants no second Olkassa, and the old Orzas has adopted nobody. The house wants an orderly succession and an Orzas the Senate and the legions both accept. It is making the marriage that binds it to the capital's grain-buyers: Zetimas is betrothed to [Varelas Mardovanes]{.name data-type="being/npc"}, daughter of [[being-nthrsmrdvns|Nethoras Mardovanes]] and niece of [[being-klvnsmrdvns|Kolvenas Mardovanes]], the man the court expects to be named, who made the match. The wedding is the Laurel's event of the season.
+
+The heir wants a field that is only a field. He wants it settled by the rite of Sélmoros before the wedding, his father has given him neither a yes nor a no, and Nethoras Mardovanes is plainly hoping the rite fails. The house has turned two surveyors of the [[affiliation-ordoarcanis|Thordimalon]] away from the estate's gate this year.
 
 ## Hooks
 

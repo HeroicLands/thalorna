@@ -140,6 +140,18 @@ Orthelis Melvaris Thradinis
 
 A member moneylender's seal is registered with both the local chapter and the Council at Orzara, and it is impressed in colored wax on every note issued: red for retail notes, blue for traveler's notes and gold for master notes. Member moneylenders wear a silver pin at the throat in the form of a balance-scale, and senior partners of great houses wear the same pin in gold. Fezumusoi wear an additional brass medallion of office. The Danvor Maldor wears the great gold pectoral of the guild, kept at the Orzara chapter between holders. The _rozimoi_ of the Danvar wear black mantles with the silver _rozimos_'s mark, distinct in pattern from the _rozimoi_ of the Tevran's mantle though similar in color.
 
+## The Present Quarrel {#present}
+
+The great houses lend to the throne, and this year they quarrel over the price. [[being-amrzvlds|Amarza Veldis]], senior partner of the House of Veldis, holds more of the throne's borrowed paper than any other house and asks a rider at every quarter's rollover: the guild's own _rozimoi_ kept out of the great houses' chapter books, and the throne's share of the two-percent fee cut for the houses that carry its debt. The rider would bind the guild's own auditors, and it comes in the year that the [[affiliation-tevran|Tevran Maldor]]'s review of the guild's charter sits with Reformist members on its sub-committee.
+
+The houses have rivals for the throne's paper. [[being-krznsthlrts|Korzenas Thalurates]] buys the debts of the old houses through factors, and the Khelathi factor on Orzara's Strangers' Row, [[being-mthszrtml|Methisi Azeret'Mulu]], offers the throne silver for its paper and has begun buying the same houses' debts with Khelathi silver, at better prices.
+
+Bread divides the Council of the Danvori as well. [[being-nthrsmrdvns|Nethoras Mardovanes]] wants a duty on foreign grain, and Amarza opposes it in the Council and in every drawing room on the Heights, because a duty raises bread and the riots that follow dear bread end at the chapterhouse doors. Every house lends partly on the hope that its man is adopted and its paper honoured by the next reign, and none of them can afford a default.
+
+:::secret {title="The House of Veldis"}
+The House of Veldis has issued about a fifth more notes than its reserves hold, and the Imperial _Tarkelos_'s true ledger records it. Amarza lends the legate [[being-hlzrsvndrn|Halzoras Vendaren]] his donative through her chapter at Delalara, against a letter in his hand promising the throne's paper honoured whole and the auditors kept out, and the house pays [[affiliation-cleanshlds|the Clean Shields]] through an account at its own chapter. When the city burns she means to sell it the only armed company outside the legions' command, at the price of the next reign's signature.
+:::
+
 ## Plot Hooks
 
 - **The Failing Great House.** One of the great houses, long established and deeply networked, is privately insolvent and has been hiding it behind creative clearing arrangements that the _rozimoi_ of the Danvar are about to uncover. A great house's failure would shock the system. Rescuing it would take Tarmeks intervention on a scale that would publicly acknowledge the polite fiction. The Danvor Maldor must decide which she prefers.

@@ -50,6 +50,14 @@ Velisara keeps its forms and cannot pay for them. The old families hold the coun
 
 The inns of Velisara are on the forum's south side, in buildings that were the guildhalls of trades the city no longer has, and their rooms are large, cold and cheap. Scholars visiting the chapterhouse lodge in the lanes behind it, where widows of the old families let rooms to them, and a party that comes to see the fence is directed to the same lanes. The innkeepers of the forum add a warning for strangers who ask the way to the Fenced Ground: the Order's patrol turns travelers back once and does not ask twice.
 
+## History {#history}
+
+The country round Velisara holds the ground where the Republic's arcanists died. In 75 BF the Kandral ordered every registered practitioner in the Republic to bring their working-books to one place in the Alessan country, a day's ride from where the city stands, to be copied into a single register ([[lore-recensio|The Therona of Alessa]]). In the fourth month an unchanneled release burned the books and killed most of the Republic's senior arcanists, and the ground is still bare and fenced at the Order's charge ([[place-recensiogrnd|The Fenced Ground]]). The charter the survivors drafted in 73 BF made the [[affiliation-ordoarcanis|Thordimalon]] the only lawful practice of the arcane and set the Sekran to establish what happened there ([[lore-kandrol|The Kandrol]]). The Order's chapter and the Sekran's regional office share a precinct in the city.
+
+The temple in the old quarter is open because the throne never closed its faith. About 224 the Orzas Karomfos declined to proscribe [[affiliation-blackflame|the Black Flame]], and Nartun's high priesthood left the Empire over it ([[lore-nartumrefuse|Nartun Refuses the Empire]]). The faith has kept open temples in Orzara and the cities of Alessa since, and Velisara's is the largest in the province.
+
+The forums are the golden age's, and the city's later history is their upkeep ([[lore-empirdclne|The Decline of the Vylarian Empire]]). As the Empire declined the crowds thinned and several trades left the city, and their guildhalls on the forum's south side are inns now. The old families pay for the forums from their own purses, as their ancestors did when the city could afford them.
+
 ## Hooks {#hooks}
 
 - **The carried offer.** A courier from the capital asks a party to carry a written offer to Kalestratos Zarkedis at the chapter, sealed, and to bring back his answer unopened.

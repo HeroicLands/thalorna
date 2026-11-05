@@ -44,7 +44,7 @@ The year has two seasons. From the harvest to the first rains the Yards never cl
 
 ## Who Rules and Keeps Order
 
-The _therkos_ holds the province for the emperor, commanding its garrison, its revenue and its courts, and answering to him alone. The present _therkos_ is [Linthimas Orvelis]{.name data-type="being/npc"}, a _kurthos_ of an old house of the capital, appointed four years ago and the first in a generation with no estate in Hilen. He holds an audience every morning in the hall of the Governor's House, and the province's business is brought to him there: petitions, appeals from the town magistrates' benches, and disputes between estates over water, boundaries and inheritance. He is courteous, careful and much entertained on the Street of the Houses, and the houses agree among themselves what they will ask of him before they ask it.
+The _therkos_ holds the province for the emperor, commanding its garrison, its revenue and its courts, and answering to him alone. The present _therkos_ is [[being-lnthmsrvls|Linthimas Orvelis]], a _kurthos_ of an old house of the capital, appointed four years ago and the first in a generation with no estate in Hilen. He holds an audience every morning in the hall of the Governor's House, and the province's business is brought to him there: petitions, appeals from the town magistrates' benches, and disputes between estates over water, boundaries and inheritance. He is courteous, careful and much entertained on the Street of the Houses, and the houses agree among themselves what they will ask of him before they ask it.
 
 The province's officers keep their offices round the forum and in the east wing of the Governor's House:
 

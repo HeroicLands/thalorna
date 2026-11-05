@@ -63,6 +63,10 @@ In 75 BF the _usos_ of the year ordered every registered arcanist in the Republi
 
 The register is the Order's now, and so is the habit it taught. A name on the register is still the best outcome a hearing of [[affiliation-sekran|The Arcane Inquisition]] (the Sekran) can file, and the Order's own register of every talent in the Empire begins, page for page, where the Kandral's stops. The Senate's own archive of the same decades has gaps, and the Order's copy of the register is the fuller record of the two.
 
+## What It Is Fighting About {#present}
+
+The Kandral has not sat since 75 BF, and nobody fights over it. Its register survives, and the Order owns it. The cedar boxes stand in the Order's archive, a new student is shown the page where one arcanist was lent to three men in a year, and the Senate's own archive of the same decades has gaps, so the Order holds the fuller record of the Republic's last arcane century. While the Order argues whether it should crown and uncrown rulers, the register is its record of the century when the state lent its arcanists to whichever faction paid.
+
 ## See Also
 
 [[affiliation-ordoarcanis|Thordimalon]]

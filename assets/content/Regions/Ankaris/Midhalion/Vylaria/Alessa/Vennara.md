@@ -38,7 +38,7 @@ One villa on the south hill belongs to [[affiliation-ordoarcanis|the Thordimalon
 
 Vennara is a chartered town under the [[affiliation-provinclys|Province of Alessa]], with two _tavemoi_ elected each year and a council of _kurthaloi_ answerable for its taxes, and in winter they govern it. In summer the stewards of the great villas govern it in practice: they hire the town's labor, buy its food, settle its quarrels with their households and bring their own guards. A townsman who has a complaint against a villa takes it to the steward, never to the _tavemoi_, who would only take it to the steward themselves.
 
-This year one villa did not shut. The _therkos_ of Alessa, [Kaldremas Elthezis]{.name data-type="being/npc"}, keeps a house on the north hill, and he has stayed in it through the winter, which no great man does. Couriers come up from [[place-alyssar|Alessar]] and go down again sealed. His steward buys for the house in the town as though for a sickroom: broth, linen, lamp oil and the physician's wine. The town has noticed, and says so only among itself.
+This year one villa did not shut. The _therkos_ of Alessa, [[being-kldrmslthzs|Kaldremas Elthezis]], keeps a house on the north hill, and he has stayed in it through the winter, which no great man does. Couriers come up from [[place-alyssar|Alessar]] and go down again sealed. His steward buys for the house in the town as though for a sickroom: broth, linen, lamp oil and the physician's wine. The town has noticed, and says so only among itself.
 
 ## The Present {#present}
 

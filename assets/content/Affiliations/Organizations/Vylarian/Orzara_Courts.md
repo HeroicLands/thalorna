@@ -102,7 +102,19 @@ Their jurisdiction is everything the civic courts cannot touch. Any matter invol
 
 For all its tiers and titles, the law of Orzara runs partly on influence, and everyone knows it. A defendant with the right friends, the right purse or the right patron finds the courts accommodating; one without learns how heavy they can be. The _peltroi_ are famously bribable; a _veramus_'s favor can move a case between courts or bury it in the Offices's bottomless archives; and the perpetual rivalry of the Verdan Orzara means that a well-placed enemy on the council can be as dangerous to a citizen as any charge. Among the quieter profits of the courts, too, is the trade in **residency waivers**—the papers that let a non-citizen dwell within the walls in some great house's service (see [[doc-vylrnctznshp|Vylarian Citizenship]]); granted through the courts, they move fast for the right consideration. Justice is real in Orzara—but it is also, always, a currency.
 
-### See Also
+## What It Is Fighting About {#present}
+
+The council of five holds its seats at the pleasure of an Orzas who is seventy-eight and has adopted nobody, and a new reign brings a new council. Each portfolio carries a fear of its own this year.
+
+- **The Grain.** The Veramus of the Grain answers for about a week of grain in the state granaries and nothing behind it, and his agents report the price of bread at every noon bell. The barge strings that [[affiliation-cleanshlds|the Clean Shields]] escort down to the river gate arrive with counts that often differ from the Watch's.
+- **Order.** The Veramus of Order commands the [[affiliation-citywatchorz|City Watch]] and has ordered the lean-tos on the Clearance below the Salkalon Gate cleared.
+- **The Rolls.** The roll that sets the dole is kept in the Hall of the Five under the Veramus of the Rolls, and a pay-hall that pays short on any Circle brings a queue.
+- **Works and Waters.** In a dry summer the Veramus of Works and Waters sets the water allotments on Torvel, where the oldest houses in the city buy water by the jar.
+- **Law.** The veterans' stairs of the River Circle have petitioned the courts to have the Clean Shields removed from the river, and their tribune, [[being-sthmrrdln|Sathemar Ardelen]], has taken up the petition.
+
+The courts below run on influence as they always have. Lists are worth money before they are posted, residency waivers move fast for the right consideration, and the imperial tribunals lift cases out of the civic basilicas at the throne's word.
+
+## See Also
 
 [[place-orzara|Orzara]]
 : the imperial capital this council and these courts govern

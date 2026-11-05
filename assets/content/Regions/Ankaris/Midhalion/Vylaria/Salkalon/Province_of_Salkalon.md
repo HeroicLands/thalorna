@@ -107,7 +107,7 @@ What is abundant is fish, ships, salt and foreign news. What is scarce is grain,
 
 ## Current Situation {#present}
 
-The province's three powers want different things from Taruzel, and none of them can afford its wish. The _therkos_ at [[place-mercavia|Delalara]], Korvathas Revothandis, was sent by a Senate that wanted Salkalon governed by a man with no ships of his own, and he receives the shipping houses and the admirals' officers on alternate days.
+The province's three powers want different things from Taruzel, and none of them can afford its wish. The _therkos_ at [[place-mercavia|Delalara]], [[being-krvthsrvthnds|Korvathas Revothandis]], was sent by a Senate that wanted Salkalon governed by a man with no ships of his own, and he receives the shipping houses and the admirals' officers on alternate days.
 
 - **The merchants** want a trade treaty with the Confederation. Their first voice, Ornetha Venthelis of the Venthelis shipping house, sends the houses' petition to the Senate each year, and last year's arrived a month late and opened. Taruzelian and Helionite factors live in Delalara by a yearly waiver that the _therkos_ renews, a fortnight late every time.
 - **The admiralty** at [[place-castamar|Kastamar]], under the _vormeks_ Tharkas Gurimandis, wants the war resumed and cannot pay for the fleet it has. Its oarsmen sell their notes at half face and drift away, half its warships lie laid up, and Bralvik's Boat-Bill is still unpaid after two centuries.
@@ -118,6 +118,14 @@ Behind them all the province's trade passes a strait where the Taruzelian admira
 ## Commerce and Currency
 
 The Province of Salkalon uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Imperial taxation is administered by [[affiliation-tolvan|the Tolvan]] and revenues flow to [[affiliation-tarmex|the Tarmeks Orzan]]. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+
+## History {#history}
+
+Taruzel's trading cities were among the first lands the Republic absorbed, and for most of the Empire's life Salkalon's harbors were its gateway to the eastern trade.
+
+The coast has been raided from the north once. The fleets of the north went south every summer from 519 to 530 against the Empire's western provinces ([[lore-southrnfleets|The Southern Fleets]]), and in 523 one Malagna crew sailed a captured galley through the western strait under imperial colors and came ashore at a fishing village on a deep bay of this coast ([[lore-bankedfire|The Winter of the Banked Fire]]). A squadron from [[place-castamar|Kastamar]] fired the galley at her moorings, and the fire ran up the beach into the village's forty-one boats and its net-lofts. The crew wintered on the headland. In 524 the _therkos_, Zenothas Varelis, gave the survivors seven years at the oars of the Kastamar fleet, and let three of them stay in the village. The bay is [[place-braldvik|Bralvik]] now, the one Nordmal name on the coast, and its bill for the boats goes to the admiralty every autumn.
+
+The war that cost the province most was Taruzel's. The islands rose in 707 ([[lore-taruzelwar|The Taruzelian War of Independence]]), and in 708 the largest squadron the Empire had ever sent into the eastern sea, some forty warships out of Kastamar, was destroyed in the Tamzir Shoals ([[lore-tamzirbattle|The Battle of Tamzir Shoals]]). About 709 the Empire recognized the Confederation. Taruzelian ships have competed with Salkalon's directly since, the merchants of [[place-mercavia|Delalara]] want the trade the admirals of Kastamar want to fight for, and the names of the drowned are cut on the Kastamar mole.
 
 ## Hooks {#hooks}
 

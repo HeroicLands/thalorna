@@ -103,6 +103,12 @@ The crew's enemies are varied and persistent. The [[affiliation-ordoarcanis|Thor
 
 The Tamzir is not fast, not pretty, and not young. She is a broad-beamed coastal trader built for the choppy waters of the Vylarian Sea, with a deep hold that has carried everything from grain to contraband. Her hull bears the scars of hard use and hard repair—[[being-blgnrskn|Belgina]] keeps her seaworthy through skill and devotion, but no amount of love can make her elegant. What the Tamzir has is endurance: she can take a beating from weather or pursuit and keep moving when sleeker vessels would founder.
 
+## The Present {#present}
+
+The Tamzir's captain is the man the whole coast wants, and he has answered nobody. In the veterans' halls of [[place-yamuzel2|Yamuzel]] and the dock districts of [[place-besikar2|Besikar]] the talk has turned from strikes to a rising, and the halls, [[affiliation-freecaptains|the Free Captains]] and the harbor veterans all want [[being-zbzmjkdn|Zabuzum Jakuduni]], a hero of the Shoals who refused the guilds, at its head. Every side courts him. [[being-rzznpddn|Razzina Padduni]]'s hall wants him to raise the flag, the [[affiliation-auricompct|Auric Compact]] wants him brought to heel, the [[affiliation-corsairleg|Corsair League]] would have him and his ship under its flag, and [[being-ashurazhitus|Ashuraz Hitusuni]] of the Merchantry has offered him a cargo of silk for the Amradi shore, which the captain has not come to Sazumun to hear. The [[lore-fleetreview|Fleet Review]] brings the whole coast to Yamuzel's walls in early summer.
+
+The ship's oldest danger is still close. [[affiliation-ordoarcanis|The Thordimalon]] hunts [[being-cibelasrnt|Kivella Serenthis]] aboard her through imperial agents, guild contacts in the Taruzelian ports and hired bounty hunters, and Taruzelian guild enforcers hold the crew's debts from the war.
+
 ## Plot Hooks
 
 Ghosts of Tamzir Shoals

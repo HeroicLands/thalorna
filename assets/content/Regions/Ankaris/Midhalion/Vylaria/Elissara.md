@@ -52,6 +52,12 @@ Elissara's freedom rests on a charter that every Orzas seals anew, and the old O
 
 The Zerazendis Inn, two streets back from the Long Quay, is the inn for travelers and for the farmers who bring produce down from the estates, and its kitchen is the best in the lower town. Seamen between voyages sleep at the Roll House, and a party that has signed on a ship may be offered a bench there.
 
+## History {#history}
+
+No account dates Elissara's founding or the first grant of its charter, and the city's history is told by its charter's custom: every Orzas seals it anew, and the [[affiliation-tevranaelissium|Tevran of Elissara]] governs under it with no _therkos_ inside the walls. The city's place in the Empire has been the river mouth's. Whatever the capital bought over the sea came up the Vylaris from Elissara's quays, and the city lived on everything else that passed them.
+
+Between about 418 and 425 the Orzas Arzanas founded [[affiliation-tevran|the Tevran Maldor]], the college that charters each of the city's guilds, and made the Tarmeks the central bank of the note system ([[lore-arzanasedict|The Edicts of Arzanas]]); the Danvar, its chartered moneylenders, keep one of their largest chapterhouses beside the Charter Hall. Through the decline that followed, the throne came to pay the dole with borrowed money ([[lore-empirdclne|The Decline of the Vylarian Empire]]), and the customs of Elissara are now among what it borrows against.
+
 ## Hooks {#hooks}
 
 - **The seal.** Bowls carrying Dekela Baremzates's master's seal are selling in the capital, and she did not make them. The potters' guild wants the forger found inside the guild before the council hears of it.

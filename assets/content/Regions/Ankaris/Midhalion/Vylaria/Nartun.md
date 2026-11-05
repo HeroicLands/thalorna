@@ -53,6 +53,12 @@ The holy city waits on a judgment. The lower city says the high priesthood will 
 
 Pilgrims lodge in the temples' hostels along the holy road and inside the lower city, which are cheap, clean and strict: no weapons past the gate of the temple quarter, no meat on fast days, and the doors shut at the evening rite. Merchants and carters lodge at the inns on the market square, where the best is the [Charcoal Wagon]{.name data-type="place/structure"}, kept by a family of carters with kin in Ashenmere. Its innkeeper can say which temple's business is going badly, which baron is behind with his rent, and which knights drink in his back room.
 
+## History {#history}
+
+Nartun was the oldest sacred city of the Vylarian heartland long before it was a kingdom's seat. About 220 the faith of the Forge-Lord split ([[lore-ustaranschism|The Ústaran Schism]]), and when the Orzas Karomfos would not proscribe the Black Flame, the city's high priesthood withdrew from imperial obedience about 224 ([[lore-nartumrefuse|Nartun Refuses the Empire]]). It anointed [Daronos]{.name data-type="being/npc"} king, the first to take the throne from the priesthood's hand, and raised the Order of the Sacred Flame to hold the walls. The legions reached the city in the autumn, found the gate shut and the knights on the walls above it, and turned back at the first winter.
+
+Every king since has been anointed and crowned in the Mother's Hall at the summit, and the kings the high priesthood deposed had the oil wiped from their foreheads in the same hall. The present king, [[being-klvrsdrns|Kelvaras Daronis]], was anointed there eleven years ago, after the Holy Mother refused his elder cousin for a winter.
+
 ## Hooks {#hooks}
 
 - **The judgment.** A rumor in the lower city says the high priesthood will sit in judgment on the king before winter. A priest-noble house hires a party to learn which way the high priests mean to vote, and the king's own men want the same answer.
