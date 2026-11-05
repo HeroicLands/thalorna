@@ -1,15 +1,15 @@
 ---
 shortcode: ganothisdora
-name: {full: Ganothis Dorandates, en: [Captain Ganothis Dorandates, Captain Ganothis]}
+name: {full: Ganothis Dorandates, en: [Sergeant Ganothis Dorandates, Sergeant Ganothis]}
 type: being
 subType: npc
-description: "The senior guard captain of the watch-house below the Governor's House in Alessar, an old soldier near retirement who commands the central district's patrols and has taken the young guard Zénokos Bardas under his wing."
+description: "The senior sergeant of the watch-house below the Governor's House in Alessar, an old soldier near retirement who commands the central district's patrols and has taken the young guard Zénokos Bardas under his wing."
 tags: []
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [warrior]
-  occupation: Senior Guard Captain
+  occupation: Senior Sergeant
   lore: []
   culture: vylarianclt
   homes: [alyssar]
@@ -37,7 +37,7 @@ Ganothis Dorandates is a 58-year-old man who stands 5'11" tall and is of heavy b
 
 # Dossier {#dossier}
 
-Ganothis Dorandates is the senior guard captain of the province's urban cohort quartered in the watch-house below the Governor's House in [[place-alyssar|Alessar]], the seat of [[affiliation-provinclys|the Province of Alessa]]. He commands the patrols of the central district, the richest and most crowded quarter of the city, where merchants, minor nobles and prosperous tradespeople live beside their servants and the city's poor. He is near the end of his service, and he has taken the young guard [[being-xenoksbrds|Zénokos Bardas]] under his wing as an unofficial mentor.
+Ganothis Dorandates is the senior sergeant of Alessar's city guard quartered in the watch-house below the Governor's House in [[place-alyssar|Alessar]], the seat of [[affiliation-provinclys|the Province of Alessa]]. He commands the patrols of the central district, the richest and most crowded quarter of the city, where merchants, minor nobles and prosperous tradespeople live beside their servants and the city's poor. He is near the end of his service, and he has taken the young guard [[being-xenoksbrds|Zénokos Bardas]] under his wing as an unofficial mentor.
 
 He keeps the peace by knowing the district. He knows which shop pays whom, which noble house has friends on the square, and which quarrels can be settled with a word on the doorstep.
 
@@ -45,7 +45,7 @@ He keeps the peace by knowing the district. He knows which shop pays whom, which
 
 **The legions.** Ganothis served his twenty years in the legions and came out a citizen, with the dole and the habit of command.
 
-**The cohort.** He took service in the urban cohort at Alessar after his discharge and has walked the central district for most of his life since, rising from patrol to sergeant to captain.
+**The cohort.** He took service in the urban cohort at Alessar after his discharge and has walked the central district for most of his life since, rising from patrol to sergeant.
 
 **The last years.** He is close to retiring. He has watched the guard grow more cynical as the empire's coin grows thinner, and he has kept Zénokos from the guards who would teach him to take bribes.
 
@@ -76,7 +76,7 @@ He is tired, and he has learned to bend where the district's powerful families l
 
 ### Affiliations
 
-- **[[affiliation-provinclys|The Province of Alessa]]**: a citizen by his twenty years, and a captain of the province's urban cohort.
+- **[[affiliation-provinclys|The Province of Alessa]]**: a citizen by his twenty years, and a sergeant of Alessar's city guard.
 
 ## Plot Hooks
 

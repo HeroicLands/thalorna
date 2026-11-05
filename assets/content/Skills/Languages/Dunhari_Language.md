@@ -6118,7 +6118,7 @@ data:
     - {name: sorvadakhend, tongue: dunhari, built: [sorvad-, -akhend]}
     - {name: Speaker of the Council, tongue: translation}
     - {name: Stone of Ranaz, tongue: translation}
-    - {name: Storm Cults of Bazhrámiš, tongue: translation}
+    - {name: Storm Cults of Bazhrámish, tongue: translation}
     - {name: Subject, tongue: translation}
     - {name: tagemader, tongue: dunhari, built: [tagem-, -ader]}
     - {name: tahrodan, tongue: dunhari}
@@ -6129,7 +6129,7 @@ data:
     - {name: The Silent Jackal, tongue: translation}
     - {name: The Storm Cults, tongue: translation}
     - {name: tigh'bahvaran, tongue: dunhari}
-    - {name: The Storm Cults of Bazhrámiš, tongue: translation}
+    - {name: The Storm Cults of Bazhrámish, tongue: translation}
     - {name: torvash, tongue: dunhari}
     - {name: Truce-Warden, tongue: translation}
     - {name: vadukesh, tongue: dunhari, built: [vaduk-, -esh]}
@@ -6138,7 +6138,7 @@ data:
     - {name: venrad, tongue: dunhari}
     - {name: venzelakhend, tongue: dunhari, built: [venzel-, -akhend]}
     - {name: Vessel, tongue: translation}
-    - {name: Vessel of Bazhrámiš, tongue: translation}
+    - {name: Vessel of Bazhrámish, tongue: translation}
     - {name: Water-Warden, tongue: translation}
     - {name: yorvabun, tongue: dunhari, built: [yorv-, -abun]}
     - {name: zevrogar, tongue: dunhari, built: [zevr-, -ogar]}
@@ -6263,8 +6263,9 @@ data:
     - {form: pîr, instead: pevrogar, why: "an Earth word, the recognized practitioner"}
     - {form: Shâgerd, instead: Hamelogar, why: "an Earth word, the apprentice"}
     - {form: shâgerd, instead: hamelogar, why: "an Earth word, the apprentice"}
-    - {form: Báhramis, instead: Bazhrámiš, why: "an Earth name, the Bahram family"}
-    - {form: Bahramish, instead: Bazhrámiš, why: "an Earth name, the Bahram family"}
+    - {form: Báhramis, instead: Bazhrámish, why: "an Earth name, the Bahram family"}
+    - {form: Bahramish, instead: Bazhrámish, why: "an Earth name, the Bahram family"}
+    - {form: Bazhrámiš, instead: Bazhrámish, why: "š is not a letter of the spelling guide"}
     - {form: Pîravân, instead: Vadukesh, why: "an Earth word, the followers"}
     - {form: pîravân, instead: vadukesh, why: "an Earth word, the followers"}
     - {form: Golshahr, instead: Qarvelakhend, why: "an Earth compound, a city of Amradad"}

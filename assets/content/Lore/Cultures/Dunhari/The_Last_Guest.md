@@ -107,7 +107,7 @@ By the fire, by the salt, by the wind, I have said what I was shown. I am Firana
 
 ## See Also
 
-[[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámiš]]
+[[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámish]]
 : the voice-bearers, who carry the cults' repertoire of myth and formula
 
 [[lore-dunhariclt|Dunhari]]

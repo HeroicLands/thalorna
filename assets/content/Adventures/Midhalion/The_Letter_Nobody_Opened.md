@@ -55,7 +55,7 @@ Tirellan's forum at the state's offerings, on the last days of the month. The bo
 
 **Situation.** The chest waits at Korras under the gate commander, a younger son of a border house with sixty men of his own. A Varokh war-band is on the march below the pass.
 
-**NPCs and threats.** The gate commander; his toll-keepers; and the war-band, which a seasoned party can outfight on open ground and cannot outfight in the gorge at night. A border lord refused the command this spring means to come for the gate at midsummer.
+**NPCs and threats.** The gate commander; his toll-keepers; and the war-band, which a seasoned party can outfight on open ground and cannot outfight in the gorge at night. The border lord refused the command this spring, [[being-korvathosvol|Korvathos Volkemates]], means to come for the gate at midsummer.
 
 **Player choices.** Bring the chest by the road, by night, or by the herders' path, if they have found it.
 
@@ -120,7 +120,7 @@ Tirellan's forum at the state's offerings, on the last days of the month. The bo
 
 **Purpose.** An optional ending: the frontier's own politics.
 
-**Situation.** Midsummer at Korras. The refused border lord comes for the gate with his household. [[being-korvathosvol|Korvathos Volkemates]], a lord of the march, has dealt with a Varokh chief across the line in ways the capital would call treason, and his huscarl [[being-arznlsbrds|Arzanalas Baredas]] swore to the house, not to Orzara.
+**Situation.** Midsummer at Korras. [[being-korvathosvol|Korvathos Volkemates]], the border lord refused the command, comes for the gate with his household. A lord of the march, he has dealt with a Varokh chief across the line in ways the capital would call treason, and his huscarl [[being-arznlsbrds|Arzanalas Baredas]] swore to the house, not to Orzara.
 
 **NPCs and threats.** The border lord's men; the gate commander's; Arzanalas, old and stiff and still the best captain in Tirellan; and a war-band over the march.
 

@@ -12,7 +12,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [mercavia]
-  affiliations: {provncmktr: {rank: 3}, sacredforge: {rank: 1}}
+  affiliations: {provincvld: {rank: 3}, sacredforge: {rank: 1}}
   gender: female
   species: humanflk
   born: 698.37

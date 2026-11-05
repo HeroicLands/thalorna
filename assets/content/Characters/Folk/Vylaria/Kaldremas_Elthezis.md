@@ -3,7 +3,7 @@ shortcode: kldrmslthzs
 name: {full: Kaldremas Elthezis}
 type: being
 subType: npc
-description: "The therkos of Alessa, an old senator who has held the heartland province for eleven years and has kept to his villa at Vennara since the winter, while his acts come down to Alessar under his seal."
+description: "The therkos of Alessa, an old senator who has held the heartland province for eleven years and has kept to his villa at Vennara since the spring, while his acts come down to Alessar under his seal."
 tags: []
 data:
   icon: icon-person
@@ -39,13 +39,13 @@ Kaldremas Elthezis is a 74-year-old man who stands 5'8" tall and is of light bui
 
 Kaldremas Elthezis is the _therkos_ (governor) of the [[affiliation-provinclys|Province of Alessa]], a _kurthos_ (senator) of an old house, and he has held the province for eleven years. In law the province is his: he holds it in the emperor's name, commands its garrison, its revenue and its courts, and answers to the Orzas alone. Its acts are sealed with his ring and read out from the steps of the [Governor's House]{.name data-type="place/structure"} at [[place-alyssar|Alessar]].
 
-He has not been seen in Alessar since the spring. He has kept to his villa on the north hill at [[place-vennara|Vennara]] since the winter, which no great man does, while the town's other villas stood shuttered around it. Couriers come up from Alessar and go down again sealed, and his freedman secretary, [[being-nethoren|Nethoren]], reads the acts from the steps the morning after they arrive. His steward buys for the house in the town as though for a sickroom: broth, linen, lamp oil and the physician's wine. Vennara has noticed and says so only among itself, and in Alessar the province is said to be governed by an empty chair.
+He has not been seen in Alessar since the spring. He has kept to his villa on the north hill at [[place-vennara|Vennara]] since the spring, which no great man does, while the town's other villas stood shuttered around it. Couriers come up from Alessar and go down again sealed, and his freedman secretary, [[being-nethoren|Nethoren]], reads the acts from the steps the morning after they arrive. His steward buys for the house in the town as though for a sickroom: broth, linen, lamp oil and the physician's wine. Vennara has noticed and says so only among itself, and in Alessar the province is said to be governed by an empty chair.
 
 ## Background
 
 **The province.** He was given Alessa eleven years ago, the heartland province that holds the imperial capital within its bounds and does not govern it. Its _karezos_ (revenue officer) reports past him to the emperor, as every _karezos_ does, and the two men seldom agree.
 
-**The villa.** He keeps a house on the north hill at Vennara, the villa-town in the hills where the court and the senatorial families spend their summers. He went up to it last year and did not come down for the winter.
+**The villa.** He keeps a house on the north hill at Vennara, the villa-town in the hills where the court and the senatorial families spend their summers. He went up to it in the spring and has not come down.
 
 ## Psyche
 

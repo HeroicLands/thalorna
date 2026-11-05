@@ -9893,10 +9893,10 @@ data:
     - {name: Eltheza Solterates, tongue: vylari}
     - {name: Captain Eltheza Solterates, tongue: translation}
     - {name: Ganothis Dorandates, tongue: vylari}
-    - {name: Captain Ganothis Dorandates, tongue: translation}
-    - {name: Captain Ganothis, tongue: translation}
+    - {name: Sergeant Ganothis Dorandates, tongue: translation}
+    - {name: Sergeant Ganothis, tongue: translation}
     - {name: Tharkos Tharozates, tongue: vylari}
-    - {name: Warden Tharkos, tongue: translation}
+    - {name: Overseer Tharkos, tongue: translation}
     - {name: Hiltheris Tholmaris, tongue: vylari}
     - {name: Marendos Hiltheris Tholmaris, tongue: translation}
     - {name: Ilthere Thalurates, tongue: vylari}
@@ -9923,7 +9923,7 @@ data:
     - {name: Merchant-Lady Nelama Pirkelis, tongue: translation}
     - {name: Merchant-Lady Nelama, tongue: translation}
     - {name: Orthemis Korvathandis, tongue: vylari}
-    - {name: Usos Orthemis Korvathandis, tongue: translation}
+    - {name: Usa Orthemis Korvathandis, tongue: translation}
     - {name: Pelerar Satheris, tongue: vylari}
     - {name: Swordmaster Pelerar, tongue: translation}
     - {name: Pirkelar Revothandis, tongue: vylari}

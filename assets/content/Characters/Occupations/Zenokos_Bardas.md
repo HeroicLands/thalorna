@@ -8,7 +8,7 @@ data:
   icon: icon-person
   templatePriority: null
   archetypes: [warrior]
-  occupation: Town Guard
+  occupation: City Guard
   lore: []
   culture: vylarianclt
   homes: [alyssar]
@@ -374,9 +374,9 @@ Zenokos is young and still growing into himself—twenty-one years old, 5'9", wi
 
 # Dossier {#dossier}
 
-Zenokos Bardas is a guard of the province's urban cohort quartered in the watch-house below the [Governor's House]{.name data-type="place/structure"} in [[place-alyssar|Alessar]], the seat of [[affiliation-provinclys|the Province of Alessa]]. He walks the central district, the richest and most crowded quarter of the city, where merchants, minor nobles and prosperous tradespeople live beside their servants and the city's poor, and at assize time he walks the inns of [Petitioners' Row]{.name data-type="place/feature"} at night with the rest of the cohort.
+Zenokos Bardas is a guard of Alessar's city guard quartered in the watch-house below the [Governor's House]{.name data-type="place/structure"} in [[place-alyssar|Alessar]], the seat of [[affiliation-provinclys|the Province of Alessa]]. He walks the central district, the richest and most crowded quarter of the city, where merchants, minor nobles and prosperous tradespeople live beside their servants and the city's poor, and at assize time he walks the inns of [Petitioners' Row]{.name data-type="place/feature"} at night with the rest of the cohort.
 
-He joined eighteen months ago at twenty, full of idealism about protecting his home city, and the idealism has held up better than he expected. He is conscientious and quick to learn, and still green. The old captain of the district, [[being-ganothisdora|Ganothis Dorandates]], has taken him under his wing, and this year a new senior officer, [[being-zurmelosorth|Zurmelos Orthemandis]], has taken command of the station over Ganothis's head.
+He joined eighteen months ago at twenty, full of idealism about protecting his home city, and the idealism has held up better than he expected. He is conscientious and quick to learn, and still green. The old sergeant of the district, [[being-ganothisdora|Ganothis Dorandates]], has taken him under his wing, and this year a new senior officer, [[being-zurmelosorth|Zurmelos Orthemandis]], has taken command of the station over Ganothis's head.
 
 ## Background
 
@@ -410,7 +410,7 @@ He cannot tell when fairness is being turned against him, and he believes that a
 
 ### Others
 
-- [[being-ganothisdora|Ganothis Dorandates]]: The old senior captain of the district, his mentor, who keeps him from the guards who would teach him to take bribes.
+- [[being-ganothisdora|Ganothis Dorandates]]: The old senior sergeant of the district, his mentor, who keeps him from the guards who would teach him to take bribes.
 - [[being-zurmelosorth|Zurmelos Orthemandis]]: The station's new senior officer, whose searches and heavy hand contradict everything Ganothis has taught him.
 
 ### Affiliations

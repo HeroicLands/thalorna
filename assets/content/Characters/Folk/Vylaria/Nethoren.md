@@ -37,7 +37,7 @@ Nethoren is a 42-year-old man who stands 5'6" tall and is of medium build. He ha
 
 # Dossier {#dossier}
 
-Nethoren is the freedman secretary of [[being-kldrmslthzs|Kaldremas Elthezis]], the _therkos_ (governor) of the [[affiliation-provinclys|Province of Alessa]]. His master has kept to his villa at [[place-vennara|Vennara]] since the winter, and the province's acts come down to [[place-alyssar|Alessar]] sealed. On the morning after each packet arrives Nethoren reads its acts aloud from the steps of the [Governor's House]{.name data-type="place/structure"}, and the crowd of petitioners in the square listens for its own names.
+Nethoren is the freedman secretary of [[being-kldrmslthzs|Kaldremas Elthezis]], the _therkos_ (governor) of the [[affiliation-provinclys|Province of Alessa]]. His master has kept to his villa at [[place-vennara|Vennara]] since the spring, and the province's acts come down to [[place-alyssar|Alessar]] sealed. On the morning after each packet arrives Nethoren reads its acts aloud from the steps of the [Governor's House]{.name data-type="place/structure"}, and the crowd of petitioners in the square listens for its own names.
 
 He is the province's voice while its governor is away, and he is a freedman, with no standing of his own beside the officers who keep their offices round the square. The _karezos_ (revenue officer) outranks him, the advocates of Petitioners' Row are richer than he is, and every one of them watches whom he speaks to. He hires the guards who carry the province's packets up the north road to the Northern Bench at [[place-skoraz|Soraks]], and he pays them from his own purse.
 

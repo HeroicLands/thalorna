@@ -117,7 +117,7 @@ Scribes wear a dark blue stole over their working clothes, plain for probationer
 
 ## The Present Quarrel {#present}
 
-The Guild's quarrel is procedure against haste, and the succession sharpens it. The High Hand, [Ankela Nebralandis]{.name data-type="being/npc"}, presides over the Guild's answer to imperial pressure to streamline procedures it holds essential, and a throne that sells offices, titles and grants for coin now wants its paper fast. The Guild's representative sits at the spring audit of the Tarmeks's strongroom beside the throne's and the Reformist seat, which asks again to read the [[place-magngndorery|Grand Orrery]]'s line of the accounts.
+The Guild's quarrel is procedure against haste, and the succession sharpens it. The High Hand, [Ankela Nebralandis]{.name data-type="being/npc"}, presides over the Guild's answer to imperial pressure to streamline procedures it holds essential, and a throne that sells offices, titles and grants for coin now wants its paper fast. The Guild's representative sits at the spring audit of the Tarmeks's strongroom beside the throne's and this year's new Reformist seat, which asks to read the [[place-magngndorery|Grand Orrery]]'s line of the accounts.
 
 In the [[place-platandstr|Platan District]] the working copies of the roll that sets the dole are made in the Guild's hall, across the Circle from the Hall of the Five, and the district keeps a fire-watch all night on the hall's roof. The Guild has asked the Seldan more than once for leave to search the cellars of the old Senate hall on Antel, and the Seldan's clerks lock the hall again after every feast day. In the archive, [[being-krznsthlrts|Korzenas Thalurates]] is looking for a forfeiture roll he describes only as a list of three estates.
 

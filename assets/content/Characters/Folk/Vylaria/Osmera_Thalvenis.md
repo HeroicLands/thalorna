@@ -72,7 +72,7 @@ The endowment depends on the Seldan, and the Black Flame's patrons there raise t
 
 ### Companions
 
-- [[being-ankhelossath|Ankelos Satheris]]: An archimandrite of the Sacred Forge in the capital, the young and fervent voice of the Forge's case against the Black Flame. She admires his zeal and fears his temper.
+- [[being-ankhelossath|Ankelos Satheris]]: An archimandrite of the Sacred Forge in the capital, the fervent voice of the Forge's case against the Black Flame. She admires his zeal and fears his temper.
 
 ### Enemies
 

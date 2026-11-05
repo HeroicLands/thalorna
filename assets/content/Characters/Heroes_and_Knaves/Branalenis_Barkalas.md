@@ -11,7 +11,7 @@ data:
   occupation: Common Seaman
   lore: []
   culture: vylarianclt
-  homes: [belekos]
+  homes: [mercavia]
   affiliations: {provinclys: {rank: 3}, ardavon: {rank: 1}}
   gender: female
   species: humanflk

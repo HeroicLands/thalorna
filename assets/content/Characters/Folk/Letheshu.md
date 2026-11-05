@@ -8,4 +8,10 @@ tags: [generated]
 data: {archetypes: [healer], packFolder: regkhfolk, homes: [galezkara], gender: female}
 ---
 
-Letheshu is a village healer who refers the complex cases onward rather than attempt them, and who defends the alchemist he sends them to against the criticism her work attracts. He sees in her practice a worthy extension of his own, and says so where it costs him something to say it.
+# Appearance {#appearance}
+
+Letheshu is a woman, a village healer of [[place-galezkara|Galezkara]].
+
+# Dossier {#dossier}
+
+Letheshu is a village healer who refers the complex cases onward rather than attempt them, and who defends the alchemist she sends them to against the criticism that alchemist's work attracts. She sees in that practice a worthy extension of her own, and says so where it costs her something to say it.

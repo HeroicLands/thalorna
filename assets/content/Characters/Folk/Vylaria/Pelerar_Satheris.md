@@ -3,7 +3,7 @@ shortcode: pelerarsathe
 name: {full: Pelerar Satheris, en: [Swordmaster Pelerar]}
 type: being
 subType: npc
-description: "An old and celebrated swordmaster of the dueling circles of Orzara, the teacher who trained Koremdanis Barkratis from the age of twelve and the one person she truly respects."
+description: "An old and celebrated swordmaster of the dueling circles of Salkalon, the teacher who trained Koremdanis Barkratis from the age of twelve and the one person she truly respects."
 tags: []
 data:
   icon: icon-person
@@ -12,7 +12,7 @@ data:
   occupation: Swordmaster
   lore: []
   culture: vylarianclt
-  homes: [orzara]
+  homes: [salkhalon]
   affiliations: {vylarinmpr: {rank: 4}}
   socialTies: {being-krmdnsbrkrtys: friend, being-thelvarosbar: acquaintance}
   gender: male
@@ -37,13 +37,13 @@ Pelerar Satheris is a 79-year-old man who stands 6'1" tall and is of medium buil
 
 # Dossier {#dossier}
 
-Pelerar Satheris is a swordmaster of the dueling circles of [[place-orzara|Orzara]], celebrated there for most of his life. His most famous pupil is [[being-krmdnsbrkrtys|Koremdanis Barkratis]], placed under his tutelage at twelve by her father, [[being-thelvarosbar|Thelvaros Barkratis]]. His exacting teaching made her a master swordswoman by eighteen, and she now keeps her own academy and is counted the foremost blade of the empire. She calls him her teacher still, and he is the only person she truly respects.
+Pelerar Satheris is a swordmaster of the dueling circles of [[place-salkhalon|Salkalon]], celebrated there for most of his life. His most famous pupil is [[being-krmdnsbrkrtys|Koremdanis Barkratis]], placed under his tutelage at twelve by her father, [[being-thelvarosbar|Thelvaros Barkratis]]. His exacting teaching made her a master swordswoman by eighteen, and she now keeps her own academy and is counted the foremost blade of the empire. She calls him her teacher still, and he is the only person she truly respects.
 
 He is very old now, and he knows it.
 
 ## Background
 
-**The circles.** Pelerar made his name in the dueling circles of the capital as a young man, and kept it by winning for decades.
+**The circles.** Pelerar made his name in the dueling circles of Salkalon as a young man, and kept it by winning for decades.
 
 **The teacher.** He took pupils when his own bouts grew fewer, and only those who would work. The forms he teaches are exact, and he will make a pupil repeat one for a season.
 
@@ -61,7 +61,7 @@ He wants his teaching carried on after him in a pupil worthy of it, and he wants
 
 ### Strengths
 
-He is still a master with the sword and a great teacher of it, and the dueling circles of Orzara respect his word. The foremost swordswoman of the empire will come when he calls.
+He is still a master with the sword and a great teacher of it, and the dueling circles of Salkalon respect his word. The foremost swordswoman of the empire will come when he calls.
 
 ### Weaknesses
 
@@ -76,13 +76,13 @@ He is near the end of his life, and he is proud. He will not admit that his hand
 
 ### Affiliations
 
-- **[[affiliation-vylarinmpr|Vilérian Empire]]**: a citizen of the capital.
+- **[[affiliation-vylarinmpr|Vilérian Empire]]**: a citizen of Salkalon.
 
 ## Plot Hooks
 
-1. **The challenger.** A young duelist from another city has challenged Pelerar in public, and the circles wait to see whether the old man accepts. Koremdanis is far away in Salkalon, and Pelerar asks a party to stand witness for him.
+1. **The challenger.** A young duelist from another city has challenged Pelerar in public, and the circles wait to see whether the old man accepts. Koremdanis is away on the road, and Pelerar asks a party to stand witness for him.
 2. **The stolen blade.** The sword Pelerar carried through his own career is stolen from his rooms. He wants it back before his pupils learn that it is gone.
-3. **The summons.** Pelerar writes to Koremdanis asking her to come to him while there is time. The road from Salkalon is long, and the party is hired to carry the letter, or to bring her back with it.
+3. **The summons.** Pelerar writes to Koremdanis asking her to come to him while there is time. The road is long, and the party is hired to carry the letter, or to bring her back with it.
 
 :::secret {title="The Master's Retirement"}
 Pelerar knows he is dying. He has found an heir to his teaching, a pupil whose gift matches what Koremdanis had at the same age, and he means to ask Koremdanis to finish the heir's training. The heir was trained first in a rival tradition, and Pelerar knows that Koremdanis will see the request as a test of everything he taught her about the integrity of teaching.

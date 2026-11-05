@@ -95,7 +95,7 @@ What is scarce is food, which arrives from the [[affiliation-provnchyln|Province
 
 ## Current Situation {#present}
 
-The province waits on two deaths. The _therkos_, [[being-kldrmslthzs|Kaldremas Elthezis]], is old and has kept to his villa at [[place-vennara|Vennara]] since the winter, and his freedman secretary, Nethoren, reads his sealed acts from the steps of the Governor's House at [[place-alyssar|Alessar]]. The old Orzas, [[being-zrmlshlrkls|Zarmelas Helarkales]], has adopted nobody, and in Alessa, where every officer has a cousin in the capital, the succession is the province's own politics.
+The province waits on two deaths. The _therkos_, [[being-kldrmslthzs|Kaldremas Elthezis]], is old and has kept to his villa at [[place-vennara|Vennara]] since the spring, and his freedman secretary, Nethoren, reads his sealed acts from the steps of the Governor's House at [[place-alyssar|Alessar]]. The old Orzas, [[being-zrmlshlrkls|Zarmelas Helarkales]], has adopted nobody, and in Alessa, where every officer has a cousin in the capital, the succession is the province's own politics.
 
 - **The cities and the capital.** The old provincial cities pay for the capital's roads and houses with what they have. The north road's levy is assessed every year while its bridge beyond [[place-skoraz|Soraks]] lies broken, builders from Orzara work by night with cranes in [[place-velysara|Velisara]]'s forums, and the great houses of [[place-belekos|Belekos]] move their money out of the empire.
 - **The debts.** A factor who will not say whose he is has bought the notes of several lesser houses on [[place-lentora|Lentora]]'s council, and its seats are falling empty because a _kurthalos_ answers for the city's taxes in his own person.

@@ -72,20 +72,20 @@ In this doctrine, after death the soul crosses the [Mozhelurbek]{.name data-type
 
 ## The Twelve
 
-| Domain     | Deity         | Epithet                   | Symbol                                         | Faith                                         |
-| ---------- | ------------- | ------------------------- | ---------------------------------------------- | --------------------------------------------- |
-| Dreams     | **Zárvanya**  | The Weaver of Visions     | Silver crescent moon with trailing threads     | [[affiliation-zarvanya\|Faith of Zarvanya]]   |
-| Death      | **Azravan**   | Lord of the Final Horizon | Black sun with a golden edge                   | [[affiliation-azravan\|Faith of Azravan]]     |
-| Storms     | **Bazhrámiš** | The Thunder Rider         | Spear wrapped in a spiral of clouds            | [[affiliation-bazhramis\|Faith of Bazhrámiš]] |
-| Order      | **Ahurdaen**  | The Keeper of Harmony     | Golden flame encircled by stars                | [[affiliation-ahurdaen\|Faith of Ahurdaen]]   |
-| Knowledge  | **Khórsadra** | Bearer of Eternal Light   | Golden sunburst with radiant beams             | [[affiliation-korsadra\|Faith of Khorshadra]] |
-| Prosperity | **Aravesta**  | The Golden Giver          | Golden chalice overflowing with wine and fruit | [[affiliation-aravesta\|Faith of Araveshta]]  |
-| Fertility  | **Zúrathra**  | Mother of the Oasis       | Flowing spring encircled by palm fronds        | [[affiliation-zurathra\|Faith of Zurathra]]   |
-| Fire       | **Ataros**    | The Sacred Flame          | Flame atop an altar, encircled by sparks       | [[affiliation-ataros\|Faith of Ataros]]       |
-| Creation   | **Míthara**   | The World's First Light   | Tree with roots entwined in a circle           | [[affiliation-mizhara\|Faith of Mizhara]]     |
-| Chaos      | **Angaros**   | The Shadowed Serpent      | Serpent coiled around a broken blade           | [[affiliation-angaros\|Faith of Angaros]]     |
-| Voyages    | **Sirvadar**  | The Wandering Guide       | Star chart etched on a golden disc             | [[affiliation-sirvadar\|Faith of Sirvadar]]   |
-| Decay      | **Mórvahna**  | The Silent Keeper         | Crescent moon cradling a wilting flower        | [[affiliation-morvahna\|Faith of Mórvahna]]   |
+| Domain     | Deity          | Epithet                   | Symbol                                         | Faith                                          |
+| ---------- | -------------- | ------------------------- | ---------------------------------------------- | ---------------------------------------------- |
+| Dreams     | **Zárvanya**   | The Weaver of Visions     | Silver crescent moon with trailing threads     | [[affiliation-zarvanya\|Faith of Zarvanya]]    |
+| Death      | **Azravan**    | Lord of the Final Horizon | Black sun with a golden edge                   | [[affiliation-azravan\|Faith of Azravan]]      |
+| Storms     | **Bazhrámish** | The Thunder Rider         | Spear wrapped in a spiral of clouds            | [[affiliation-bazhramis\|Faith of Bazhrámish]] |
+| Order      | **Ahurdaen**   | The Keeper of Harmony     | Golden flame encircled by stars                | [[affiliation-ahurdaen\|Faith of Ahurdaen]]    |
+| Knowledge  | **Khórsadra**  | Bearer of Eternal Light   | Golden sunburst with radiant beams             | [[affiliation-korsadra\|Faith of Khorshadra]]  |
+| Prosperity | **Aravesta**   | The Golden Giver          | Golden chalice overflowing with wine and fruit | [[affiliation-aravesta\|Faith of Araveshta]]   |
+| Fertility  | **Zúrathra**   | Mother of the Oasis       | Flowing spring encircled by palm fronds        | [[affiliation-zurathra\|Faith of Zurathra]]    |
+| Fire       | **Ataros**     | The Sacred Flame          | Flame atop an altar, encircled by sparks       | [[affiliation-ataros\|Faith of Ataros]]        |
+| Creation   | **Míthara**    | The World's First Light   | Tree with roots entwined in a circle           | [[affiliation-mizhara\|Faith of Mizhara]]      |
+| Chaos      | **Angaros**    | The Shadowed Serpent      | Serpent coiled around a broken blade           | [[affiliation-angaros\|Faith of Angaros]]      |
+| Voyages    | **Sirvadar**   | The Wandering Guide       | Star chart etched on a golden disc             | [[affiliation-sirvadar\|Faith of Sirvadar]]    |
+| Decay      | **Mórvahna**   | The Silent Keeper         | Crescent moon cradling a wilting flower        | [[affiliation-morvahna\|Faith of Mórvahna]]    |
 
 ## Temple and Priesthood Structure
 
@@ -103,7 +103,7 @@ Among the nomadic tribes of Dunhara and the Khazrin, the formal temple hierarchy
 
 The Ashaian pantheon is organized around the central opposition of **Ozhmar** (truth/order) and **Ghuzdak** (falsehood/chaos). In this theology, Ahurdaen embodies Ozhmar in its purest form—the cosmic order that makes existence possible. Angaros embodies Ghuzdak—the principle of entropy, corruption, and dissolution that opposes creation and seeks to unmake it.
 
-Every other deity occupies a position within this framework. Ataros is the weapon of Ozhmar—fire that burns away falsehood and purifies the corrupt. [[lore-khorsadradty|Khórsadra]] is the light of Ozhmar—knowledge that exposes deception. [[lore-bazhramisdty|Bazhrámiš]] is the shield of Ozhmar—the storm that defends the righteous against chaos. [[lore-azravandty|Azravan]] and [[lore-morvahnadty|Mórvahna]] maintain the ordered transitions between life and death that chaos would dissolve into meaninglessness. Even the apparently gentler deities—[[lore-zurathradty|Zúrathra]] nurturing life, [[lore-aravestadty|Aravesta]] blessing prosperity, [[lore-mitharadty|Míthara]] sustaining creation—are understood as warriors in this cosmic struggle, holding back the tide of Ghuzdak through the affirmation of life, abundance, and creative power.
+Every other deity occupies a position within this framework. Ataros is the weapon of Ozhmar—fire that burns away falsehood and purifies the corrupt. [[lore-khorsadradty|Khórsadra]] is the light of Ozhmar—knowledge that exposes deception. [[lore-bazhramisdty|Bazhrámish]] is the shield of Ozhmar—the storm that defends the righteous against chaos. [[lore-azravandty|Azravan]] and [[lore-morvahnadty|Mórvahna]] maintain the ordered transitions between life and death that chaos would dissolve into meaninglessness. Even the apparently gentler deities—[[lore-zurathradty|Zúrathra]] nurturing life, [[lore-aravestadty|Aravesta]] blessing prosperity, [[lore-mitharadty|Míthara]] sustaining creation—are understood as warriors in this cosmic struggle, holding back the tide of Ghuzdak through the affirmation of life, abundance, and creative power.
 
 This theology gives the Ashaian faithful a martial quality that permeates even the most peaceful aspects of worship. To till a field is to defy chaos. To kindle a fire is to push back darkness. To speak truth is to wound the Serpent. The Ashaian faithful are not passive recipients of divine grace—they are participants in a cosmic war, and their daily choices are the weapons with which that war is fought.
 

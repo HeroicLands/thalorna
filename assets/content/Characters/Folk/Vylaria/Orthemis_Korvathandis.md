@@ -1,15 +1,15 @@
 ---
 shortcode: orthemiskorv
-name: {full: Orthemis Korvathandis, en: [Usos Orthemis Korvathandis]}
+name: {full: Orthemis Korvathandis, en: [Usa Orthemis Korvathandis]}
 type: being
 subType: npc
-description: "An _usos_ (prefect) of the Imperial Offices sent from the capital to Alessar with orders to strengthen imperial authority in the province, who has made an enemy of the rider Brakos Harlanis for contradicting her."
+description: "An _usa_ (prefect) of the Imperial Offices sent from the capital to Alessar with orders to strengthen imperial authority in the province, who has made an enemy of the rider Brakos Harlanis for contradicting her."
 tags: []
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [courtier]
-  occupation: Usos
+  occupation: Usa
   lore: []
   culture: vylarianclt
   homes: [alyssar]
@@ -37,7 +37,7 @@ Orthemis Korvathandis is a 33-year-old woman who stands 5'6" tall and is of ligh
 
 # Dossier {#dossier}
 
-Orthemis Korvathandis is an _usos_ (prefect) of [[affiliation-imperialoffices|the Imperial Offices]], a political appointee sent from [[place-orzara|Orzara]] two years ago to [[place-alyssar|Alessar]] with orders to strengthen imperial authority in [[affiliation-provinclys|the Province of Alessa]]. She writes to the capital about the province's bandits, its dissidents and the reliability of its officers, and the capital reads what she writes.
+Orthemis Korvathandis is an _usa_ (prefect) of [[affiliation-imperialoffices|the Imperial Offices]], a political appointee sent from [[place-orzara|Orzara]] two years ago to [[place-alyssar|Alessar]] with orders to strengthen imperial authority in [[affiliation-provinclys|the Province of Alessa]]. She writes to the capital about the province's bandits, its dissidents and the reliability of its officers, and the capital reads what she writes.
 
 Her reports on bandit activity in the hills were contradicted by a rider of the garrison, [[being-brakshrlns|Brakos Harlanis]], who had evidence where she had speculation. Since then she has quietly obstructed his advancement and spread word that he is soft on dissidents, and she watches for any excuse to dishonor him. They have not spoken directly since.
 
@@ -76,7 +76,7 @@ She mistakes a confident report for an accurate one. Her quarrel with a mere rid
 
 ### Affiliations
 
-- **[[affiliation-imperialoffices|The Imperial Offices]]**: an _usos_, holding no desk in the capital while she serves in the province.
+- **[[affiliation-imperialoffices|The Imperial Offices]]**: an _usa_, holding no desk in the capital while she serves in the province.
 - **[[affiliation-provinclys|The Province of Alessa]]**: a _gulmen_ of the propertied order.
 
 ## Plot Hooks

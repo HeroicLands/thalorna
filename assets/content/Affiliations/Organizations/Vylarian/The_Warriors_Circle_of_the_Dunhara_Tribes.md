@@ -79,7 +79,7 @@ The Circle has no captain. The **Voice of the Quarter**, who opens the meeting, 
 ## Notable Members
 
 [[being-shadznkmrz|Shadezan Kamruz]]
-: one of the most honored warriors of his generation, whom the Storm Cults recognize as a vessel of [[lore-bazhramisdty|Bazhrámiš]], so that his counsel weighs more than his single voice. The Circle has asked him to lead its gathered warriors twice in the last decade.
+: one of the most honored warriors of his generation, whom the Storm Cults recognize as a vessel of [[lore-bazhramisdty|Bazhrámish]], so that his counsel weighs more than his single voice. The Circle has asked him to lead its gathered warriors twice in the last decade.
 
 The Council of Scars
 : a dozen old warriors whose agreement settles most questions before they are put.
@@ -97,7 +97,7 @@ When the Circle rides, its host is its own members and whatever warriors their t
 The common council of the tribes
 : the chieftains' council at [[place-ghavulavad|Ghavulavad]]. The two bodies keep apart: the Circle judges no dispute between tribes, and the chieftains do not direct the Circle's wars. When they disagree, which is rare and serious, the Circle gives way on policy and the chieftains on war.
 
-The [[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámiš]]
+The [[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámish]]
 : the two are woven together. Many members are storm-cult initiates, the cults' practitioners open and close every meeting, and the cults' standing rests partly on the Circle's respect.
 
 The [[lore-sowidesclt|Sovidur]]
@@ -112,7 +112,7 @@ A member wears a narrow strip of dyed leather around the upper left arm, the _va
 
 ## What It Is Fighting About {#present}
 
-The Circle is at rest between its gatherings, with no host in the field and no calling between the turns. The questions it carries to the next season-turn at the [[place-stoneofranaz|Stone of Ranaz]] are its standing ones: [[lore-sowidesclt|Sovidur]] raiders and the wells contested with their tribes, the borders the [[affiliation-khzrncnfdrtn|Tellumi Confederation]] tests, and the dead against the southern pastures. [[being-shadznkmrz|Shadezan Kamruz]], whom the Storm Cults recognize as a vessel of Bazhrámiš, has led its gathered warriors twice in the last decade, and his counsel weighs more than his single voice. Tribes without a member feel the pressure to put forward a candidate.
+The Circle is at rest between its gatherings, with no host in the field and no calling between the turns. The questions it carries to the next season-turn at the [[place-stoneofranaz|Stone of Ranaz]] are its standing ones: [[lore-sowidesclt|Sovidur]] raiders and the wells contested with their tribes, the borders the [[affiliation-khzrncnfdrtn|Tellumi Confederation]] tests, and the dead against the southern pastures. [[being-shadznkmrz|Shadezan Kamruz]], whom the Storm Cults recognize as a vessel of Bazhrámish, has led its gathered warriors twice in the last decade, and his counsel weighs more than his single voice. Tribes without a member feel the pressure to put forward a candidate.
 
 ## Plot Hooks
 
@@ -136,7 +136,7 @@ The Acclamation
 [[affiliation-dunhartrbs|Dunhara Tribes]]
 : the confederations and their common council
 
-[[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámiš]]
+[[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámish]]
 : the keepers of the marked stones
 
 [[lore-dunhariclt|Dunhari]]

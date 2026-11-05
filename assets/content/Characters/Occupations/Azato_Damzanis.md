@@ -414,7 +414,7 @@ For work that skirts what [[affiliation-sekran|The Arcane Inquisition]] (the Sek
 
 **The marked child.** Azato showed a gift for number and the study of substances young, and was marked for the Order as every gifted child in Viléria is. He rose to _marendos_ in the Fisera by his thirties, more slowly and with more quarrels than his gifts alone would explain.
 
-**The partner.** He worked for a time with the _marendos_ [[being-hiltheristho|Hiltheris Tholmaris]] on a project neither of them entered in the Order's records. The partnership ended when he published a demolition of her theories as "fundamentally confused about the nature of mineral essence". She died soon after, sixteen years ago, in circumstances never fully cleared, and the Sekran's inquiry touched him at its edge. He moved his laboratory to the rented estate and took the second name soon after.
+**The partner.** He worked for a time with the _marendos_ [[being-hiltheristho|Hiltheris Tholmaris]] on a project neither of them entered in the Order's records. The partnership ended when he published a demolition of her theories as "fundamentally confused about the nature of mineral essence". She died soon after, about sixteen years ago, in circumstances never fully cleared, and the Sekran's inquiry touched him at its edge. He moved his laboratory to the rented estate and took the second name soon after.
 
 **The response.** Thirteen years ago he took apart the framework of another _marendos_ of the Fisera, [[being-tholmararort|Tholmarar Orthemandis]], in a published response read across the Order. She now chairs the fellowship's examination board.
 

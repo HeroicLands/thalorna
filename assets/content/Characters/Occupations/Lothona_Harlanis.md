@@ -374,7 +374,7 @@ Lothona stands 5'8" with a solid, medium build that carries its weight in the sh
 
 # Dossier {#dossier}
 
-Lothona Harlanis is the supervisor of the night patrol of the urban cohort quartered on the quays of [[place-mercavia|Delalara]], the port of [[affiliation-provincvld|the Province of Salkalon]]. The cohort guards the [Customs House]{.name data-type="place/structure"} and walks the mile of waterfront after dark, and for most of her service the patrol has come out with clubs only for a riot, an attack on the Customs House or a crime in the foreign quarters, because order on the quays rests on the shipping houses, their quay-masters and the harbor-master.
+Lothona Harlanis is the supervisor of the night patrol the shipping houses of [[place-mercavia|Delalara]] hire for their quays, the port of [[affiliation-provincvld|the Province of Salkalon]]. The patrol is the houses' own hired watch and not the cohort, which guards the [Customs House]{.name data-type="place/structure"} and comes onto the quays only for a riot, an attack on the Customs House or a crime in the foreign quarters, because order on the quays rests on the shipping houses, their quay-masters and the harbor-master.
 
 She keeps that balance by knowing it. She knows which quay-master settles a theft before the owner has missed the goods, which crews will cool at the sight of a cohort tunic and which fights need a club, and which berths take cargo after dark. The merchants and the dock workers know her as fair and not for sale. This spring the cohort has a new commander, [[being-elthezasolte|Eltheza Solterates]], who calls the patrol soft and has ordered Lothona to carry out searches on the berths and arrests on the quays.
 
@@ -382,7 +382,7 @@ She keeps that balance by knowing it. She knows which quay-master settles a thef
 
 **The cohort.** Lothona joined the cohort on the quays at seventeen and spent her first years breaking up crew brawls under the warehouse cranes. Her younger brother [[being-brakshrlns|Brakos]] took the legion's oath at [[place-corvinus|Korvenara]] years later.
 
-**The night patrol.** In her late twenties she was made supervisor of the night patrol, the post that stands between the cohort's officers and the work on the waterfront. She has declined promotion twice, preferring the quays to the forum.
+**The night patrol.** In her late twenties she left the cohort and was made supervisor of the night patrol the houses hire, the post that stands between the cohort's officers and the work on the waterfront. She has declined promotion twice, preferring the quays to the forum.
 
 ## Psyche
 

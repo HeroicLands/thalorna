@@ -3,7 +3,7 @@ shortcode: twrlghtnmrkd
 name: {full: Tower of the Lightning-Marked, en: [The Glass Tower], dunh: [qeshvadez]}
 type: place
 subType: site
-description: "A storm-blasted spire on the Pale Floor where the Storm Cults of Bazhrámiš call down lightning, and where the last cult-master is said to have walked into the storm and never come out."
+description: "A storm-blasted spire on the Pale Floor where the Storm Cults of Bazhrámish call down lightning, and where the last cult-master is said to have walked into the storm and never come out."
 tags: [tower, storm, salt-flat, haunted, draft]
 data:
   culture: dunhariclt
@@ -24,7 +24,7 @@ Inside, the tower is a single stair that winds up the wall around an empty core.
 
 ## The Master Who Went Into the Storm
 
-The [[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámiš]] are five lineages with no master over them, and the [Council of Elders]{.name data-type="affiliation/governmental"} at the [[place-stoneofranaz|Stone of Ranaz]] decides only what touches all five. The tower belongs to the story of a man who wanted otherwise. [Vahrun Marzuvan]{.name data-type="being/npc"}, a storm-walker of the _ghuzmogar_ and a _ruzhogar_ in his own lineage, gathered the cults' youngest and boldest to the Pale Floor and taught them to call the lightning down on purpose, to a spike and a place, and to read what he held to be the god's mood from where it fell. He took the title _Master of the Tower_ for himself. The Council did not confer it, and when he claimed to be a vessel of [[lore-bazhramisdty|Bazhrámiš]] without the assent of the gathered elders, they denounced him. He wore an iron crown he had forged himself, because the iron torc of a vessel was never given to him.
+The [[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámish]] are five lineages with no master over them, and the [Council of Elders]{.name data-type="affiliation/governmental"} at the [[place-stoneofranaz|Stone of Ranaz]] decides only what touches all five. The tower belongs to the story of a man who wanted otherwise. [Vahrun Marzuvan]{.name data-type="being/npc"}, a storm-walker of the _ghuzmogar_ and a _ruzhogar_ in his own lineage, gathered the cults' youngest and boldest to the Pale Floor and taught them to call the lightning down on purpose, to a spike and a place, and to read what he held to be the god's mood from where it fell. He took the title _Master of the Tower_ for himself. The Council did not confer it, and when he claimed to be a vessel of [[lore-bazhramisdty|Bazhrámish]] without the assent of the gathered elders, they denounced him. He wore an iron crown he had forged himself, because the iron torc of a vessel was never given to him.
 
 The elders of [The Lightning-Marked]{.name data-type="affiliation"} lineage, who are held to have been touched by the god in vision or by a bolt and so have the best claim to speak of lightning, tell the end in few words. A great storm came up out of a clear sky. The master climbed to the gallery alone. The bolt took the tower and the storm did not leave with it, and in the morning he was gone: no body, no ash, not so much as the crown. **The master never died. He went into the storm.** The elders say it the same way each time and decline to say what they mean by it. [Mehrava]{.name data-type="being/npc"}, the senior elder of the lineage, refuses to soften what she reads in the sky above the Floor, and what she reads there she does not say to outsiders.
 
@@ -59,7 +59,7 @@ From the Amradi shore the route runs south through the oasis towns and then by t
 
 ## See Also
 
-[[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámiš]]
+[[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámish]]
 : the lineages and the Council that denounced the master
 
 [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]]

@@ -153,5 +153,5 @@ He does not come in.
 [[lore-azravandty|Azravan]]
 : Lord of the Final Horizon, who receives the dead at the edge of the world
 
-[[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámiš]]
+[[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámish]]
 : who conduct the funerals and the rites of the camps

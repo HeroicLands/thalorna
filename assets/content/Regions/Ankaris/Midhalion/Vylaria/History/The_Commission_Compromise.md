@@ -3,7 +3,7 @@ shortcode: commissioncmp
 name: {full: The Commission Compromise, en: [The Examination Reform, Under Continuing Review]}
 type: lore
 subType: history
-description: "About 710 AF, after the Dukran's report on the Taruzelian war leaks to the senatorial houses, the senior ethlen of his generation brokers a reform that tightens the commoner track's road to Vallar with an examination and gives the Reformist Faction a seat on the Tarmeks's audit, leaving purchased commissions untouched."
+description: "About 710 AF, after the Dukran's report on the Taruzelian war leaks to the senatorial houses, the senior ethlen of his generation brokers a reform that tightens the commoner track's road to Vallar with an examination, leaving purchased commissions untouched."
 tags: [history, vylaria, aftershoals]
 data:
   packFolder: vylaria
@@ -12,26 +12,17 @@ data:
       when: ~710
       kind: law
       depth: region
-      sources: [affiliation-vylrnmltry, affiliation-tarmex, affiliation-vylarinmpr, place-orzara]
+      sources: [affiliation-vylrnmltry, affiliation-vylarinmpr, place-orzara]
       summary: >-
-        The Dukran's after-action report on the Taruzelian war leaks to the senatorial houses within months of its filing, and the commission system faces its worst challenge in two centuries. The senior ethlen of his generation brokers a compromise. Candidates from the commoner track for Vallar must pass an examination, the Reformist Faction takes a seat on the Tarmeks's yearly audit, and the purchase of noble commissions goes on as before.
+        The Dukran's after-action report on the Taruzelian war leaks to the senatorial houses within months of its filing, and the commission system faces its worst challenge in two centuries. The senior ethlen of his generation brokers a compromise. Candidates from the commoner track for Vallar must pass an examination, and the purchase of noble commissions goes on as before.
       standing: attested
       names:
         - {name: the Commission Compromise, by: affiliation-vylrnmltry}
         - name: the insult
           by: affiliation-vylrnmltry
           gloss: the career centurions' name for the examination, which tightens the one road their track has to the officers
-      where:
-        locus: [place-orzara]
-        reach:
-          - place: place-orzara
-            how: >-
-              the Reformist seat on the strongroom audit sits with the throne's and the Scribal Guild's representatives every spring
-            knowledge: named
-      who:
-        - {ref: affiliation-vylrnmltry, role: actor}
-        - {ref: affiliation-vylarinmpr, role: actor}
-        - {ref: affiliation-tarmex, role: instrument}
+      where: {locus: [place-orzara]}
+      who: [{ref: affiliation-vylrnmltry, role: actor}, {ref: affiliation-vylarinmpr, role: actor}]
       follows:
         - event: lore-empirdclne
           how: caused
@@ -68,7 +59,6 @@ The [Conservative Faction]{.name data-type="affiliation"} included most of the _
 About 710 the two sides settled.
 
 - **Vallar.** A candidate raised from the commoner track must pass an examination set jointly by the Dukran and a panel of serving Magnars. The examination is rigorous, and the rate of elevation fell.
-- **The strongroom audit.** The Reformist Faction took a seat on the panel that audits the strongroom of [[affiliation-tarmex|the Tarmeks Orzan]] each year.
 - **Noble commissions.** They remained purchasable on the earlier basis, and no examination is required for any noble rank.
 
 [The Lethunu]{.name data-type="affiliation"} regard the compromise as a partial victory. The Conservative Faction regards it as the price of preserving the rest. The career centurions regard it as a calculated insult, because the only path the reform tightened is the one their own track has always used to cross into the officers.
@@ -78,16 +68,12 @@ The Orzas's position is that the matter is "under continuing review." It stays t
 ## What It Left
 
 - **The centurions' grievance.** A real and continuing discontent among the army's senior career soldiers.
-- **The Reformist seat.** A voice at the strongroom audit that the Imperial _Tarkelos_ (treasury officer) cannot block.
 - **"Under continuing review."** The Orzas's answer to every petition on the subject.
 
 ## See Also
 
 [[affiliation-vylrnmltry|Vilérian Military]]
 : the commission system and the Vallar
-
-[[affiliation-tarmex|Tarmeks Orzan]]
-: the audit
 
 [[lore-empirdclne|The Decline of the Vilérian Empire]]
 : the war that produced the report

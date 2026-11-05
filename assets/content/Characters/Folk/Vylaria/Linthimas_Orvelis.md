@@ -37,7 +37,7 @@ Linthimas Orvelis is a 51-year-old man who stands 5'10" tall and is of medium bu
 
 # Dossier {#dossier}
 
-Linthimas Orvelis is the _therkos_ (governor) of the [[affiliation-provnchyln|Province of Hilen]], a _kurthos_ (senator) of an old house of the capital, appointed four years ago. He is the first _therkos_ in a generation with no estate in Hilen. He holds the province for the emperor from [[place-aravantia|Aravantara]], commanding its garrison, its revenue and its courts and answering to the Orzas alone.
+Linthimas Orvelis is the _therkos_ (governor) of the [[affiliation-provnchyln|Province of Hilen]], a _kurthos_ (senator) of an old house of the capital, appointed four years ago. He is the first _therkos_ in a generation with no estate in Hilen. A third governor, unnamed and with an estate in Hilen, held the province for the three years between [[being-klvnsmrdvns|Kolvenas Mardovanes]] and his appointment. He holds the province for the emperor from [[place-aravantia|Aravantara]], commanding its garrison, its revenue and its courts and answering to the Orzas alone.
 
 He holds an audience every morning in the hall of the [Governor's House]{.name data-type="place/structure"}, and the province's business is brought to him there: petitions, appeals from the town magistrates' benches, and disputes between estates over water, boundaries and inheritance. He is courteous, careful and much entertained on the Street of the Houses, where the old landed families keep their townhouses. The houses agree among themselves what they will ask of him before they ask it. He suspects as much, and he is the one man in the city with no house to ask what was said.
 

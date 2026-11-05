@@ -192,6 +192,14 @@
             "uses": 0,
             "tongue": "Eilwithi",
             "kind": "place"
+        },
+        {
+            "from": "Bazhrámiš",
+            "to": "Bazhrámish",
+            "reading": "bahzh-RAH-mish",
+            "uses": 0,
+            "tongue": "Ashaian",
+            "kind": "deity"
         }
     ],
     "forOwner": [

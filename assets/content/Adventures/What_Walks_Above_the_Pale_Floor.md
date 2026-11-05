@@ -93,7 +93,7 @@ The [[place-twrlghtnmrkd|Tower of the Lightning-Marked]] stands on the salt of t
 
 **Situation.** The gallery under the iron spike is open to the sky. A single cloud hangs directly overhead with an edge as sharp as a blade, and under it, at the foot of the spike, a man stands. The air smells of burning metal. The lightning strikes the man over and over and he does not fall.
 
-**NPCs and threats.** Vahrun Marzuvan stands wrapped in a column of storm: tall, bare-armed, his beard and hair fused into iron and glass, the real crown a ring of dull black metal burned into his brow. He speaks in two voices at once, his own and a vast flat one that is not [[lore-bazhramisdty|Bazhrámiš]]. [[lore-theshadow|The Shadow]] is in the storm, the chaos from outside creation that crept in at a crack the master made when he tried to bind what he held to be the god's lightning to his will. He did not go into the storm to escape death. He went to hold the crack shut, and he cannot let go. He fights by calling bolts, by hurling fused glass like spears, and by speaking the party's names, which the storm repeats until the one named forgets where to stand.
+**NPCs and threats.** Vahrun Marzuvan stands wrapped in a column of storm: tall, bare-armed, his beard and hair fused into iron and glass, the real crown a ring of dull black metal burned into his brow. He speaks in two voices at once, his own and a vast flat one that is not [[lore-bazhramisdty|Bazhrámish]]. [[lore-theshadow|The Shadow]] is in the storm, the chaos from outside creation that crept in at a crack the master made when he tried to bind what he held to be the god's lightning to his will. He did not go into the storm to escape death. He went to hold the crack shut, and he cannot let go. He fights by calling bolts, by hurling fused glass like spears, and by speaking the party's names, which the storm repeats until the one named forgets where to stand.
 
 **Player choices.**
 
@@ -141,7 +141,7 @@ The [[place-twrlghtnmrkd|Tower of the Lightning-Marked]] stands on the salt of t
 [[place-twrlghtnmrkd|Tower of the Lightning-Marked]]
 : the site and its toll
 
-[[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámiš]]
+[[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámish]]
 : the lineages and the Council
 
 [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]]

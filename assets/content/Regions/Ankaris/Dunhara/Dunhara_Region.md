@@ -50,9 +50,9 @@ A few [[lore-flkkhazar|Khazari]] halls are rumored in the mountain margins, and 
 
 ## Faith
 
-The Dunhari keep the [[affiliation-ashanpnthn|Ashaian Pantheon]], the faith of fire and light they share with the Khazrin tribes to the north and the Taruzeli to the west. [[lore-ahurdaendty|Ahurdaen]], held to be the god of order and harmony, is supreme; [[lore-bazhramisdty|Bazhrámiš]], god of storms and protection, is the patron of warriors and caravan guards; [[lore-khorsadradty|Khórsadra]], god of knowledge and the eternal light, is revered by navigators and scholars; and [[lore-zarvanyadty|Zárvanya]], the giver of dreams and visions, is followed by the mystics who go alone into the deep desert to meet the divine.
+The Dunhari keep the [[affiliation-ashanpnthn|Ashaian Pantheon]], the faith of fire and light they share with the Khazrin tribes to the north and the Taruzeli to the west. [[lore-ahurdaendty|Ahurdaen]], held to be the god of order and harmony, is supreme; [[lore-bazhramisdty|Bazhrámish]], god of storms and protection, is the patron of warriors and caravan guards; [[lore-khorsadradty|Khórsadra]], god of knowledge and the eternal light, is revered by navigators and scholars; and [[lore-zarvanyadty|Zárvanya]], the giver of dreams and visions, is followed by the mystics who go alone into the deep desert to meet the divine.
 
-The open desert has no temples and no temple priesthood; the great fire-temples and their priestly scholars belong to the cities of Amradad. Among the tribes, religious life is carried by people who travel with the camps: the practitioners of the [[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámiš]], who read the weather, call the rain and bless the camps, and the **desert mystics**, ascetics who fast and keep vigil in the hardest places the desert has. A mystic is no priest and holds no office; his authority is what he has survived. One who comes back from the deep desert with visions that prove true is housed, followed and obeyed for the rest of his life.
+The open desert has no temples and no temple priesthood; the great fire-temples and their priestly scholars belong to the cities of Amradad. Among the tribes, religious life is carried by people who travel with the camps: the practitioners of the [[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámish]], who read the weather, call the rain and bless the camps, and the **desert mystics**, ascetics who fast and keep vigil in the hardest places the desert has. A mystic is no priest and holds no office; his authority is what he has survived. One who comes back from the deep desert with visions that prove true is housed, followed and obeyed for the rest of his life.
 
 The holy places are features of the land: certain oases, rock formations, mesa-tops and caves no one has found the end of. Pilgrimage to them is central to the faith, and a Dunhari who has completed the whole round carries a prestige no other deed can earn. The greatest of them is the [[place-stoneofranaz|Stone of Ranaz]], the hill-shrine where three tribal territories meet and the storm-cult elders gather at the season-turns.
 
@@ -99,7 +99,7 @@ Amradad taxes the caravans that pass through its cities and spends the revenue o
 [[lore-dunhariclt|Dunhari]]
 : the people, their customs and what they owe
 
-[[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámiš]]
+[[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámish]]
 : the storm-readers who travel with the tribes
 
 [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]

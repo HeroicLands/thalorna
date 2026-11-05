@@ -16,14 +16,14 @@ The Stone of Ranaz is an ancient hill-shrine where three tribal territories of t
 
 [[affiliation-wrrscrcldnhrtrbs|The Warrior's Circle of the Dunhara tribes]] meets at the Stone at each of the four season-turns, with no captain over it, its rulings made by whoever comes and its order kept by a Voice drawn by lot at each meeting. The vat of indigo dye for the _vazder-bahvar_, the strip of dyed leather an acclaimed warrior wears on the upper arm, is kept here, and a strip is renewed only by dipping it in that vat at a meeting of the Circle; a strip left unrenewed for three meetings fades to a paler blue and marks its wearer as inactive. Foreign emissaries who arrive uninvited are received with formal courtesy and dismissed without commitment.
 
-The [[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámiš]] share the shrine. At the season-turns the [Council of Elders]{.name data-type="affiliation/governmental"}—the senior elders of all five lineages—sits at the Stone to deliberate on what concerns the cults as a whole, and its weightiest act is the recognition of a vessel, one in whom the storm god is held to speak, conferred by the assent of the gathered elders and binding on every lineage. The two gatherings fall on the same days, and the shrine is never fuller. When a [[lore-sowidesclt|Sovidur]] storm-shaman crosses into Dunhari country to preach his own tradition, the cults summon him here to answer for it before the gathered elders.
+The [[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámish]] share the shrine. At the season-turns the [Council of Elders]{.name data-type="affiliation/governmental"}—the senior elders of all five lineages—sits at the Stone to deliberate on what concerns the cults as a whole, and its weightiest act is the recognition of a vessel, one in whom the storm god is held to speak, conferred by the assent of the gathered elders and binding on every lineage. The two gatherings fall on the same days, and the shrine is never fuller. When a [[lore-sowidesclt|Sovidur]] storm-shaman crosses into Dunhari country to preach his own tradition, the cults summon him here to answer for it before the gathered elders.
 
 ## See Also
 
 [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]]
 : the pan-tribal circle that meets here
 
-[[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámiš]]
+[[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámish]]
 : the cults whose elders sit here
 
 [[place-dunhardsrtrgn|Dunhara]]

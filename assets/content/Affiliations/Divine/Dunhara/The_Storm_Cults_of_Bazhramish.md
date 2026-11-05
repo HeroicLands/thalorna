@@ -1,12 +1,12 @@
 ---
 shortcode: strmcltsbzhrms
 name:
-  full: The Storm Cults of Bazhrámiš
-  en: [The Storm Cults, The Followers of the Thundering Voice, Storm Cults of Bazhrámiš]
+  full: The Storm Cults of Bazhrámish
+  en: [The Storm Cults, The Followers of the Thundering Voice, Storm Cults of Bazhrámish]
   dunh: [baharami-vadukesh]
 type: affiliation
 subType: faithtradition
-description: "Decentralized religious network of the Dunhara tribes—storm-shamans, weather-readers, and chosen vessels of the storm god Bazhrámiš, whose authority crosses tribal boundaries and shapes the ritual life of every Dunhari camp."
+description: "Decentralized religious network of the Dunhara tribes—storm-shamans, weather-readers, and chosen vessels of the storm god Bazhrámish, whose authority crosses tribal boundaries and shapes the ritual life of every Dunhari camp."
 tags: [organization, dunhara, religion, storm, cult]
 data:
   culture: dunhariclt
@@ -43,9 +43,9 @@ data:
       - level: 5
         title: Vessel
         description: >-
-          One in whom Bazhrámiš is held to speak directly—recognized only by the assembled senior elders, binding on all five lineages until withdrawn for cause. A vessel's authority crosses tribal lines, overrides a chieftain on religious matters, and can summon warriors to a cause the chieftains have not endorsed.
+          One in whom Bazhrámish is held to speak directly—recognized only by the assembled senior elders, binding on all five lineages until withdrawn for cause. A vessel's authority crosses tribal lines, overrides a chieftain on religious matters, and can summon warriors to a cause the chieftains have not endorsed.
     offices:
-      Vessel of Bazhrámiš: >-
+      Vessel of Bazhrámish: >-
         Recognized at the Stone of Ranaz by the assent of the gathered senior shamans, and the most politically consequential thing the cults do.
       Ruzhogar: >-
         Senior elder of one lineage and a member of the Council of Elders, which deliberates on what affects all five.
@@ -76,13 +76,13 @@ data:
 sohl: {system: {commonSkills: [bazhramis]}}
 ---
 
-_Dunhari: Baharami-Vadukesh—"the Followers of Bazhrámiš"_
+_Dunhari: Baharami-Vadukesh—"the Followers of Bazhrámish"_
 
 Type
 : Decentralized religious organization (multiple semi-autonomous lineages)
 
 Patron
-: Bazhrámiš—Dunhari god of the storm, the wind that crosses tribal borders, the rain that decides the year's grass, and the lightning that marks the gods' approval
+: Bazhrámish—Dunhari god of the storm, the wind that crosses tribal borders, the rain that decides the year's grass, and the lightning that marks the gods' approval
 
 Region
 : [[affiliation-dunhartrbs|The Dunhara Tribes]]—present in every Dunhari encampment of significance, with the great gathering-shrine at the [[place-stoneofranaz|Stone of Ranaz]] (shared with the [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]])
@@ -91,17 +91,17 @@ Region
 
 Among the [[affiliation-dunhartrbs|Dunhara tribes]], the storm is the most consequential fact of life. The arrival of a season's rain decides whether the grass will hold, whether the herds will fatten, whether the wells will refill, whether the year will be one of stability or of the slow tribal movements that follow drought. The Dunhari also understand the storm as the most direct testimony of the gods' attention to the world: the lightning strike that splits a tree near a sheikh's tent is a verdict; the squall that turns aside a raiding party is a judgment; the long thunder that walks across the sand in the dry months is a god's voice making itself heard.
 
-The Storm Cults are how the Dunhari read that testimony and answer it. The desert has no temples and no temple priesthood, and the cults are no single church: they are a network of related lineages of shamanic practice, whose practitioners travel with the camps, each focused on a particular aspect of [[lore-bazhramisdty|Bazhrámiš]]'s nature—the wind-readers, the rain-callers, the lightning-marked, the storm-walkers—each centered on a particular tradition of training and ritual, each with its own elders and its own apprenticeship lines. What unites them is the shared devotion to Bazhrámiš, the shared body of myth, and the shared institutional functions: the cults provide the ritual framework for tribal life, conduct the initiations and the funerals, interpret the weather for tribal council and warband alike, and (most consequentially) recognize the _vessels_—the men and women in whom Bazhrámiš is held to speak directly.
+The Storm Cults are how the Dunhari read that testimony and answer it. The desert has no temples and no temple priesthood, and the cults are no single church: they are a network of related lineages of shamanic practice, whose practitioners travel with the camps, each focused on a particular aspect of [[lore-bazhramisdty|Bazhrámish]]'s nature—the wind-readers, the rain-callers, the lightning-marked, the storm-walkers—each centered on a particular tradition of training and ritual, each with its own elders and its own apprenticeship lines. What unites them is the shared devotion to Bazhrámish, the shared body of myth, and the shared institutional functions: the cults provide the ritual framework for tribal life, conduct the initiations and the funerals, interpret the weather for tribal council and warband alike, and (most consequentially) recognize the _vessels_—the men and women in whom Bazhrámish is held to speak directly.
 
-The recognition of vessels is the cults' most politically charged function. A recognized vessel of Bazhrámiš commands authority that crosses tribal lines, that overrides chieftains' rulings on religious matters, that can summon warriors to causes the chieftains have not endorsed. The cults are jealous of the recognition and reserve it for those whose pattern of weather-craft, personal conduct, and prophetic accuracy has, over years, accumulated to a level the senior shamans cannot ignore. In practice the gathered senior shamans confer it by assent at the [[place-stoneofranaz|Stone of Ranaz]], and by tradition their assent binds every lineage.
+The recognition of vessels is the cults' most politically charged function. A recognized vessel of Bazhrámish commands authority that crosses tribal lines, that overrides chieftains' rulings on religious matters, that can summon warriors to causes the chieftains have not endorsed. The cults are jealous of the recognition and reserve it for those whose pattern of weather-craft, personal conduct, and prophetic accuracy has, over years, accumulated to a level the senior shamans cannot ignore. In practice the gathered senior shamans confer it by assent at the [[place-stoneofranaz|Stone of Ranaz]], and by tradition their assent binds every lineage.
 
 ## Lineages and Structure
 
 The Storm Cults recognize five working lineages, each focused on a distinct practice:
 
-- [The Wind-Readers]{.name data-type="affiliation"} (_Zevrogar_)—divinatory specialists; read the wind for omens, predict weather, interpret the more subtle signs of Bazhrámiš's mood. The largest lineage by membership.
+- [The Wind-Readers]{.name data-type="affiliation"} (_Zevrogar_)—divinatory specialists; read the wind for omens, predict weather, interpret the more subtle signs of Bazhrámish's mood. The largest lineage by membership.
 - [The Rain-Callers]{.name data-type="affiliation"} (_Belgogar_)—propitiatory specialists; conduct the great rain-rituals at the season-turns and the emergency rituals during drought. The most ritually elaborate lineage.
-- [The Lightning-Marked]{.name data-type="affiliation"} (_Qeshvi_)—initiates who have, by the cults' criteria, been touched directly by Bazhrámiš's lightning (usually figuratively, by visions or prophetic seizure; rarely literally, in which case the survivor's status is higher still). The smallest lineage and the most prestigious.
+- [The Lightning-Marked]{.name data-type="affiliation"} (_Qeshvi_)—initiates who have, by the cults' criteria, been touched directly by Bazhrámish's lightning (usually figuratively, by visions or prophetic seizure; rarely literally, in which case the survivor's status is higher still). The smallest lineage and the most prestigious.
 - [The Storm-Walkers]{.name data-type="affiliation"} (_Ghuzmogar_)—physical practitioners; walk into the storms to interpret them from within; specialty includes the reading of the great seasonal weather-systems. A demanding and dangerous practice.
 - [The Voice-Bearers]{.name data-type="affiliation"} (_Sehvogar_)—orators and reciters; carry the cults' standing repertoire of myth, hymn, and ritual formula; train the apprentices in textual matters.
 
@@ -110,7 +110,7 @@ Each lineage has its own internal hierarchy: apprentice (_hamelogar_), recognize
 ## Notable Members
 
 [[being-shadznkmrz|Shadezan Kamruz]]
-: currently the most prominent recognized vessel; the Storm Cults regard him as a chosen vessel of Bazhrámiš and his counsel carries weight beyond his standing in [[affiliation-wrrscrcldnhrtrbs|the Warrior's Circle]]. The cults defer to his interpretation of religious matters on which the Council of Elders has not specifically ruled.
+: currently the most prominent recognized vessel; the Storm Cults regard him as a chosen vessel of Bazhrámish and his counsel carries weight beyond his standing in [[affiliation-wrrscrcldnhrtrbs|the Warrior's Circle]]. The cults defer to his interpretation of religious matters on which the Council of Elders has not specifically ruled.
 
 Ruzhogar [Razashar]{.name data-type="being/npc"} of the Wind-Readers
 : current senior elder of the largest lineage; presides at most Council of Elders gatherings.
@@ -123,7 +123,7 @@ Ruzhogar [Mehrava]{.name data-type="being/npc"} of the Lightning-Marked
 The cults hold three principles in common across the lineages:
 
 The Storm Speaks
-: that Bazhrámiš makes his judgments known through weather, and that the trained shaman's vocation is to read those judgments accurately and convey them to the tribes. Misreading is the most serious shamanic failure; falsifying a reading is among the most serious offenses the cults recognize.
+: that Bazhrámish makes his judgments known through weather, and that the trained shaman's vocation is to read those judgments accurately and convey them to the tribes. Misreading is the most serious shamanic failure; falsifying a reading is among the most serious offenses the cults recognize.
 
 The Vessel Recognized
 : that direct vesselhood is rare, real, and consequential; that the recognition of a vessel is conferred only by the assembled senior elders; that recognition is binding on all the lineages until withdrawn for cause.
@@ -158,7 +158,7 @@ Cult practitioners are not uniformly marked, but each lineage has its own conven
 - **Storm-Walkers** wear a heavy weather-cloak with a distinctive double-stitched collar that allows the cloak to seal against driving rain; the cloak is made by a specific lineage of weavers attached to the Storm-Walker tradition.
 - **Voice-Bearers** wear no special mark but carry a knotted cord of dyed wool indicating the specific repertoire-tradition in which they have been trained.
 
-Recognized vessels of Bazhrámiš wear a heavy iron torc at the throat, given at recognition by the Council of Elders. The torc is a distinct and unmistakable identifier across all Dunhari country.
+Recognized vessels of Bazhrámish wear a heavy iron torc at the throat, given at recognition by the Council of Elders. The torc is a distinct and unmistakable identifier across all Dunhari country.
 
 ## Plot Hooks
 
@@ -169,7 +169,7 @@ Recognized vessels of Bazhrámiš wear a heavy iron torc at the throat, given at
 
 ## See Also
 
-[[affiliation-bazhramis|Faith of Bazhrámiš]]
+[[affiliation-bazhramis|Faith of Bazhrámish]]
 : the storm god the cults serve
 
 [[place-stoneofranaz|Stone of Ranaz]]

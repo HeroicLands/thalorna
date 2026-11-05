@@ -215,7 +215,11 @@ export const RETIRED = [
     },
     { retired: ["Mōbadān-Shōfár"], replacement: "Tōqēl", scope: "corpus" },
     { retired: ["Ashalan"], replacement: "Ashaian", scope: "corpus" },
-    { retired: ["Báhramis", "Bahramis", "Bahramish"], replacement: "Bazhrámiš", scope: "corpus" },
+    {
+        retired: ["Báhramis", "Bahramis", "Bahramish", "Bazhrámiš"],
+        replacement: "Bazhrámish",
+        scope: "corpus",
+    },
     { retired: ["Shōfet", "Dūkhen"], replacement: "Zhūdek", scope: "corpus" },
     { retired: ["Gurdi"], replacement: "Vurdil", scope: "corpus" },
     { retired: ["garen"], replacement: "relvan", scope: "corpus" },

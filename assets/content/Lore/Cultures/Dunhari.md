@@ -92,7 +92,7 @@ A feud is a state of affairs with known exits, and the whole art of a sheikh's l
 
 The Dunhari keep the Ashaian pantheon, and the faith of fire and light suits a people who live by what can be seen at a distance. Observance is portable by necessity—a hearth, a rite, a season—and no temple priesthood sits anywhere in the open desert. The foundation of an ordinary Dunhari's practice is the household fire-ritual at sunrise and at sunset, which needs no priest. A traveling fire-priest carries the flame from camp to camp and ministers to those beyond any temple's reach, and a storm-cult practitioner sits in every camp of consequence.
 
-The storm is the god most often addressed. The practitioners of the Storm Cults of Bazhrámiš read the weather before a chieftain moves his herds, conduct the rain rites at the season-turns and in drought, and take part in births, deaths, marriages and war-rites. Beside them go the desert mystics, who fast alone in the open sand and are housed, followed and obeyed for life if they come back with visions that prove true. Religious and tribal obligation run together, and the Dunhari want it so: an oath sworn at a fire is a crime and a sacrilege at once, which is exactly the redundancy a people with no police force requires.
+The storm is the god most often addressed. The practitioners of the Storm Cults of Bazhrámish read the weather before a chieftain moves his herds, conduct the rain rites at the season-turns and in drought, and take part in births, deaths, marriages and war-rites. Beside them go the desert mystics, who fast alone in the open sand and are housed, followed and obeyed for life if they come back with visions that prove true. Religious and tribal obligation run together, and the Dunhari want it so: an oath sworn at a fire is a crime and a sacrilege at once, which is exactly the redundancy a people with no police force requires.
 
 The holy places are features of the land, and pilgrimage to them is central to the faith. A Dunhari who has completed the whole round carries a prestige no other deed can earn.
 
@@ -184,7 +184,7 @@ The sin is what the Circle did with it. Twice the Circle was petitioned to act a
 [[affiliation-ashanpnthn|Ashaian Pantheon]]
 : the fire-and-light faith
 
-[[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámiš]]
+[[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámish]]
 : the storm-readers and rain-callers of the camps
 
 [[affiliation-dunhartrbs|Dunhara Tribes]]

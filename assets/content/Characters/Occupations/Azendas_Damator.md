@@ -409,7 +409,7 @@ His standing on the circuit comes from results, not eloquence. He speaks plainly
 
 **The levy.** Azendas was born to a free family of the countryside and was taken in the levy raised for the war in [[place-taruzelrgn|Taruzel]]. The dragon on his arm was inked in the levy's camp, and he came home from the lost war with no wish to fight again.
 
-**The farms.** He came north to work the farms of the Tirellan circuit, first as a hired hand and then as a steward. The elder of Milanthos, [[being-pirkelosholi|Pirkelos Holimandis]], saw a soldier's hands trying to coax life from the soil and told him to take up healing in the goddess's service.
+**The farms.** He came north to work the farms of the Tirellan circuit, first as a hired hand and then as a steward. An old priestess first urged him to take up healing in the goddess's service, and the elder of Milanthos, [[being-pirkelosholi|Pirkelos Holimandis]], who saw a soldier's hands trying to coax life from the soil, later trained him.
 
 **The circuit.** Azendas has served the circuit since his ordination and has refused every post that would take him off it.
 
@@ -439,7 +439,7 @@ He will not change a method he trusts, he cannot persuade by words, and he has m
 
 ### Others
 
-- [[being-pirkelosholi|Pirkelos Holimandis]]: The elder of Milanthos, who set him on the goddess's road and shelters him when the temple in the capital questions his methods.
+- [[being-pirkelosholi|Pirkelos Holimandis]]: The elder of Milanthos, who trained him in the goddess's service and shelters him when the temple in the capital questions his methods.
 - **The farmers and village elders of the circuit**, who leave their share of the harvest at the temple because they have seen his blessing turn into bread.
 
 ### Affiliations

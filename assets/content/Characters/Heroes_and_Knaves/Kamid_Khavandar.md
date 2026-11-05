@@ -419,7 +419,7 @@ For the past thirteen years, Kamid has lived as a vagrant, begging in the street
 
 Kamid is a man of few words and hard pride. He speaks little unless directly addressed, and his words are generally practical and unemotional. Despite his circumstances, he maintains dignity and refuses—sometimes violently—to be treated as less than human. He is capable of kindness, particularly toward other vagrants and those society has discarded, though his generosity comes from understanding their pain rather than from warmth.
 
-Beneath the stoicism lies deep frustration and bitterness. He views his circumstances as a betrayal by the gods themselves, and his faith in **[[lore-bazhramisdty|Bazhrámiš]]** (god of storms) has become complicated—anger mixed with desperate hope that some storm will come to sweep away the current order and restore what he has lost. He is prone to bouts of dark introspection and has contemplated ending his suffering, though something—possibly the phoenix tattoo's symbolism—prevents final despair.
+Beneath the stoicism lies deep frustration and bitterness. He views his circumstances as a betrayal by the gods themselves, and his faith in **[[lore-bazhramisdty|Bazhrámish]]** (god of storms) has become complicated—anger mixed with desperate hope that some storm will come to sweep away the current order and restore what he has lost. He is prone to bouts of dark introspection and has contemplated ending his suffering, though something—possibly the phoenix tattoo's symbolism—prevents final despair.
 
 ### Motivation
 

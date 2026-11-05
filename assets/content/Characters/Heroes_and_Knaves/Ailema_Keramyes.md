@@ -11,7 +11,7 @@ data:
   occupation: Scribe
   lore: []
   culture: vylarianclt
-  homes: [corvinus]
+  homes: [alyssar]
   affiliations: {provinclys: {rank: 4}, lizelas: {rank: 1}}
   gender: female
   species: humanflk

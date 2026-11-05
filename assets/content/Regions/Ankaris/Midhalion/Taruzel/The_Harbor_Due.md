@@ -35,7 +35,7 @@ The strongroom keeps every half-tally the city has cut, one for each spring, on 
 - **The houses of Besikar**, from the greatest to the smallest, because a house that carries no stone has said in front of the whole harbor that it does not owe.
 - **The captains of the city**, who will not sail before the Due, and the crews who would rather not sail with a captain who did.
 - **The harbor masons**, who count the stones and set them, and whose guild is paid for the year's work out of the city's harbor dues that day.
-- **The hill tribes' traders** who are in the city, who tell the story differently at their own fires: in their telling the founder, [tanaduya]{.name data-type="being/npc" lang=taru}, is a hill woman who came down to the shore with a goat-hair rope.
+- **The hill tribes' traders** who are in the city, who tell the story differently at their own fires: in their telling the founder, [Tanaduya]{.name data-type="being/npc"}, is a hill woman who came down to the shore with a goat-hair rope.
 - **Foreign captains** whose ships lie in the harbor, who cannot leave until the Due is paid either, because the Harbormaster opens the harbor mouth to nobody before it.
 
 ## Hooks

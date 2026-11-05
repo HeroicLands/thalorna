@@ -24,9 +24,9 @@ data:
 # terran_analog: "The Enuma Elish and the Babylonian New Year reading of it, for a creation recited at the city's yearly rite; Ugaritic and Hebrew parallelism, where each line is answered by the next, and the numerical saying of Proverbs ('for three things the earth trembles'); Mesopotamian incipit-titles and colophons; the Venetian marriage of the sea, for a ring cast into the water every year; the split tally stick of medieval accounting. Departs: the sea is not slain or married but owed, the founder bargains with gods who will not sell, and the rite is a debt paid to a party who never signed."
 ---
 
-**When the Sea Owed Nothing**, _mani zu fusanam_, is the roll the First of the Council of [[place-besikar2|Besikar]] reads aloud from the head of the breakwater at [the Harbor Due]{.name data-type="lore/gathering"} (_besiku yutalush_, the harbor's payment). The rite falls on the first fair morning after the [Thunderhead Vigil]{.name data-type="lore/gathering"}, when the sailing season opens, and the whole [Guild Quarter]{.name data-type="place/site"} turns out for it. The roll tells how the sea came first and owed nothing, how the people lived on their hulls because no shore would keep them, and how a woman of the hulls, [tanaduya]{.name data-type="being/npc" lang=taru}, asked three gods for a harbor and was refused by all three. She then took on a debt to the sea that the sea never agreed to, and set the first stones of the breakwater. The roll closes on the rite: each house of the city carries a stone down to the breakwater, and the First splits a tally stick, gives one half to the strongroom of the [[affiliation-merazuni|Merazuni]] and throws the other into the harbor mouth.
+**When the Sea Owed Nothing**, _mani zu fusanam_, is the roll the First of the Council of [[place-besikar2|Besikar]] reads aloud from the head of the breakwater at [the Harbor Due]{.name data-type="lore/gathering"} (_besiku yutalush_, the harbor's payment). The rite falls on the first fair morning after the [Thunderhead Vigil]{.name data-type="lore/gathering"}, when the sailing season opens, and the whole [Guild Quarter]{.name data-type="place/site"} turns out for it. The roll tells how the sea came first and owed nothing, how the people lived on their hulls because no shore would keep them, and how a woman of the hulls, [Tanaduya]{.name data-type="being/npc"}, asked three gods for a harbor and was refused by all three. She then took on a debt to the sea that the sea never agreed to, and set the first stones of the breakwater. The roll closes on the rite: each house of the city carries a stone down to the breakwater, and the First splits a tally stick, gives one half to the strongroom of the [[affiliation-merazuni|Merazuni]] and throws the other into the harbor mouth.
 
-The roll is a work of the [Recovered Compacts]{.name data-type="lore"} of the [[affiliation-vezakuni|Vezakuni]], the Council of the Guild-Wardens. Its copyist, [helarum kubasuni]{.name data-type="being/npc" lang=taru}, set it out in the Confederation's second year from an older roll kept in the [Temple of Two Fires]{.name data-type="place/structure"} at [[place-qudumel2|Kudumel]], and Besikar has held the Harbor Due every spring since. His note at the foot of the roll says what he changed. The Kudumel roll names the storm [[lore-bazhramisdty|Bazhrámiš]], as the Ashaian rite does, and the copyist wrote [[lore-brazemasdty|Brazemas]], as the coast says it; the temple at Kudumel still reads its own roll with its own name. Where the Kudumel roll is broken, in the catalog of the crews who carried the stones, he filled what he could from the Vezakuni's register of the oldest houses, and his own house is among them. The [[affiliation-tevran|Tevran Maldor]], the Vilérian college of guilds, calls the Harbor Due an invention of the program, and the temple has not shown its roll to the Tevran's scholars.
+The roll is a work of the [Recovered Compacts]{.name data-type="lore"} of the [[affiliation-vezakuni|Vezakuni]], the Council of the Guild-Wardens. Its copyist, [Helarum Kubasuni]{.name data-type="being/npc"}, set it out in the Confederation's second year from an older roll kept in the [Temple of Two Fires]{.name data-type="place/structure"} at [[place-qudumel2|Kudumel]], and Besikar has held the Harbor Due every spring since. His note at the foot of the roll says what he changed. The Kudumel roll names the storm [[lore-bazhramisdty|Bazhrámish]], as the Ashaian rite does, and the copyist wrote [[lore-brazemasdty|Brazemas]], as the coast says it; the temple at Kudumel still reads its own roll with its own name. Where the Kudumel roll is broken, in the catalog of the crews who carried the stones, he filled what he could from the Vezakuni's register of the oldest houses, and his own house is among them. The [[affiliation-tevran|Tevran Maldor]], the Vilérian college of guilds, calls the Harbor Due an invention of the program, and the temple has not shown its roll to the Tevran's scholars.
 
 The hill tribes of the larger islands tell the story too, at their fires, and in their telling Tanaduya is a hill woman who came down to the shore with a goat-hair rope. The roll does not mention the hills. At Besikar the First reads the long lines, and the houses on the stones answer the two lines everyone knows: _It gave, and it took back_, and at the close, _We set, and we set again._ The gods stand in the roll as the coast addresses them: Brazemas the Thunderer on his hill, [[lore-pozerasdty|Pozeras]] the Wayfarer on the road over the water, and [[lore-selmorosdty|Sélmoros]], the Silent Judge, at his gate.
 
@@ -107,7 +107,7 @@ and the vow will bind you, and your children, and the hull you stand on./
 I will not sell you a harbor. I have no harbor to sell./
 Go to the one who owns the sea.
 
-[The Kudumel roll reads Bazhrámiš here, and in the line that follows.]{.direction}
+[The Kudumel roll reads Bazhrámish here, and in the line that follows.]{.direction}
 
 She went down from the hill with the bowl empty./
 She did not buy the quiet month. A month was not what she had come for.
@@ -183,19 +183,19 @@ That was the first stone of the breakwater./
 That stone is the head of the stones, where the First stands today.
 
 The crews came to see what she was doing, and they carried stones./
-The crew of the hull came, who are the [jakuduni]{.name data-type="affiliation/lineage" lang=taru},/
+The crew of the hull came, who are the [Jakuduni]{.name data-type="affiliation/lineage"},/
 and they carried the stones on their shoulders from the headland./
-The crew of the rigging came, who are the [rusakuni]{.name data-type="affiliation/lineage" lang=taru},/
+The crew of the rigging came, who are the [[affiliation-rusakuni|Rusakuni]],/
 and they made the sledges and the ropes for the stones too big to carry./
-The crew of the reef came, who are the [hitusuni]{.name data-type="affiliation/lineage" lang=taru},/
+The crew of the reef came, who are the [[affiliation-hitusuni|Hitusuni]],/
 and they knew where the bottom was firm and where it would swallow a stone./
-The crew of the partners came, who are the [balinuni]{.name data-type="affiliation/lineage" lang=taru},/
+The crew of the partners came, who are the [[affiliation-balinuni|Balinuni]],/
 and they kept the count of who had carried what, so that nobody was cheated./
 […] came, who are the […],/
 and they […] the stones […] in baskets of reed./
-The crew of the counters came, who are the [kubasuni]{.name data-type="affiliation/lineage" lang=taru},/
+The crew of the counters came, who are the [Kubasuni]{.name data-type="affiliation/lineage"},/
 and they counted the stones as they were set, and wrote the count down./
-Tanaduya's own crew came last, who are the [tanaduni]{.name data-type="affiliation/lineage" lang=taru},/
+Tanaduya's own crew came last, who are the [[affiliation-tanaduni|Tanaduni]],/
 and they set the stones the others brought, one on another, all summer.
 
 [The houses:]{.speaker}/
@@ -287,7 +287,7 @@ Here ends _When the Sea Owed Nothing_, one roll, complete./
 Copied by Helarum Kubasuni, copyist of the Recovered Compacts,/
 from the roll of the Temple of Two Fires at Kudumel, which is old,/
 in the second year of the Confederation, in the month of the first sailing./
-Where the old roll says Bazhrámiš, I have written Brazemas, as the coast says it./
+Where the old roll says Bazhrámish, I have written Brazemas, as the coast says it./
 Where the old roll is broken, I have left the break,/
 except in the crews, where I have written the houses the register gives as oldest, as far as the register goes./
 The copy was paid for by the Kubasuni, and the gift is entered with the Vezakuni./
@@ -307,7 +307,7 @@ Whoever changes a line, let the sea bring back its half of the tally on the day 
 : the eastern city whose Temple of Two Fires keeps the older roll
 
 [[lore-brazemasdty|Brazemas]]
-: the storm on the hill, named Bazhrámiš in the Kudumel roll
+: the storm on the hill, named Bazhrámish in the Kudumel roll
 
 [[lore-selmorosdty|Sélmoros]]
 : the Silent Judge, who keeps the count of the taken and does not bargain

@@ -91,7 +91,7 @@ No one rules the tribes. A tribe is led by its **sheikh**, who holds his place b
 
 Matters that touch more than one tribe go to the **common council** at Ghavulavad. Each tribe sends delegates who may argue and may not bind, and the **Speaker of the Council** keeps the peace of the meeting and the order of speaking and has no other power. The council's offices serve the tribes in common: the **Lawkeeper** holds the customs the tribes share and arbitrates where two tribes' customs differ; the **Truce-Warden** keeps the peace at the council and the seasonal markets; the **Water-Warden** keeps the wells and pastures the tribes share and the order in which they are used; the **Host-Caller** summons the common muster when a threat concerns them all; and an **Envoy** carries the council's word to a settled power, protected by custom while he carries it.
 
-Two bodies stand beside the council and answer to none of the sheikhs. The [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]] gathers the acclaimed warriors of every tribe at the [[place-stoneofranaz|Stone of Ranaz]] at the season-turns, and its word carries moral weight in every camp. The [[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámiš]] keep a practitioner in every camp of consequence, read the weather for council and warband alike, and recognize those they hold to be vessels for the storm god. A sheikh who defies either of them can do it once.
+Two bodies stand beside the council and answer to none of the sheikhs. The [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]] gathers the acclaimed warriors of every tribe at the [[place-stoneofranaz|Stone of Ranaz]] at the season-turns, and its word carries moral weight in every camp. The [[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámish]] keep a practitioner in every camp of consequence, read the weather for council and warband alike, and recognize those they hold to be vessels for the storm god. A sheikh who defies either of them can do it once.
 
 ## Relations
 
@@ -122,7 +122,7 @@ The tribes trade almost entirely through [[lore-bartercnmy|the Barter Economy]] 
 [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]]
 : the warriors' gathering at the Stone of Ranaz
 
-[[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámiš]]
+[[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámish]]
 : the storm-readers of the camps
 
 [[affiliation-kngdmmrdd|Kingdom of Amradad]]

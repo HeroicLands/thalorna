@@ -67,7 +67,7 @@ The Open Sky is the old faith of the [[lore-sowidesclt|Sovidur]], the herding tr
 
 Most riders call it nothing at all. "The Open Sky" is the caravan masters' name for it, after the phrase they hear at every bargain they strike on the steppe: sworn under open sky.
 
-The tribes honor [[affiliation-ashanpnthn|the Twelve of the Flame]] as well, loosely and on top of the older faith. A camp that takes in a caravan priest of the twelve gives his fire a place and his gods a word, and goes back to its own shaman when the grass fails or a child is dying. Two of the twelve matter on the steppe above the rest, and the shamans account for both in the old faith's terms. [[lore-bazhramisdty|Bazhrámiš]], the storm and the protector, is the sky-father's storm by another name. [[lore-khorsadradty|Khórsadra]], the eternal sky-light, is the light he sees by.
+The tribes honor [[affiliation-ashanpnthn|the Twelve of the Flame]] as well, loosely and on top of the older faith. A camp that takes in a caravan priest of the twelve gives his fire a place and his gods a word, and goes back to its own shaman when the grass fails or a child is dying. Two of the twelve matter on the steppe above the rest, and the shamans account for both in the old faith's terms. [[lore-bazhramisdty|Bazhrámish]], the storm and the protector, is the sky-father's storm by another name. [[lore-khorsadradty|Khórsadra]], the eternal sky-light, is the light he sees by.
 
 ## The Sky-Father and the Earth-Mother
 
@@ -125,7 +125,7 @@ A guest who has eaten a tribe's salt is protected to the edge of its country, an
 
 ## The Storm Cults, the Fire and the Twelve
 
-[[affiliation-strmcltsbzhrms|The Storm Cults of Bazhrámiš]] in [[place-dunharargn|Dunhara]] call the Open Sky a corrupt variant of their own faith, and the quarrel between them is about who may speak for the storm. In Dunhara the storm god speaks through readers trained in five lineages and through vessels whom the elders recognize at the [[place-stoneofranaz|Stone of Ranaz]], and the cults cross every tribal border. On the steppe any rider the sky marks may become a shaman, a shaman speaks for one tribe only, and nobody recognizes a vessel, because the steppe holds that the sky speaks to everyone under it and that no one person carries its voice. The cults fear a shaman nobody has examined. The tribes fear a vessel who can summon warriors over the chiefs' heads, which is very close to what an orghun does.
+[[affiliation-strmcltsbzhrms|The Storm Cults of Bazhrámish]] in [[place-dunharargn|Dunhara]] call the Open Sky a corrupt variant of their own faith, and the quarrel between them is about who may speak for the storm. In Dunhara the storm god speaks through readers trained in five lineages and through vessels whom the elders recognize at the [[place-stoneofranaz|Stone of Ranaz]], and the cults cross every tribal border. On the steppe any rider the sky marks may become a shaman, a shaman speaks for one tribe only, and nobody recognizes a vessel, because the steppe holds that the sky speaks to everyone under it and that no one person carries its voice. The cults fear a shaman nobody has examined. The tribes fear a vessel who can summon warriors over the chiefs' heads, which is very close to what an orghun does.
 
 That difference is what crosses the border. A Dunhari herder who will never be admitted to a lineage can be marked by the sky on the steppe side, and the steppe shamans who preach in Dunhara find their listeners among exactly those herders. The cults have organized formal denunciations of such shamans. A denounced shaman answers to his dovaq first, and the denunciation reaches his tribe as a message it may choose to ignore.
 
@@ -143,7 +143,7 @@ The [[affiliation-ataros|Faith of Ataros]], the fire-faith of the [[affiliation-
 [[lore-sowidesclt|Sovidur]]
 : the steppe tribes and what they hold a person owes
 
-[[affiliation-strmcltsbzhrms|The Storm Cults of Bazhrámiš]]
+[[affiliation-strmcltsbzhrms|The Storm Cults of Bazhrámish]]
 : the Dunhari storm-lineages that denounce the steppe's shamans
 
 [[affiliation-ashanpnthn|The Twelve of the Flame]]

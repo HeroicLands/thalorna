@@ -3,7 +3,7 @@ shortcode: ankhelossath
 name: {full: Ankelos Satheris, en: [Archimandrite Ankelos Satheris]}
 type: being
 subType: npc
-description: "A young archimandrite of the Sacred Forge in Orzara and the fervent voice of the Forge's case against the Black Flame, who presses the city's magistrates against its preaching and pays for counter-sermons on the Circles."
+description: "An archimandrite of the Sacred Forge in Orzara and the fervent voice of the Forge's case against the Black Flame, who presses the city's magistrates against its preaching and pays for counter-sermons on the Circles."
 tags: []
 data:
   icon: icon-person
@@ -22,7 +22,7 @@ data:
     affiliation-blackflame: nemesis
   gender: male
   species: humanflk
-  born: "696.42"
+  born: "678.42"
   died: null
   height: 6' 0"
   weight: 162 lbs
@@ -38,17 +38,17 @@ data:
 
 # Appearance {#appearance}
 
-Ankelos Satheris is a 23-year-old man who stands 6'0" tall and is of medium build. He has light skin weathered by the forge, auburn hair cropped short, and brown eyes. His forearms carry a smith's burn scars, and he wears a priest's robe of the [[affiliation-sacredforge|Sacred Forge]] with a hammer at his belt. He speaks quickly and loudly, and he leans in when he argues.
+Ankelos Satheris is a 42-year-old man who stands 6'0" tall and is of medium build. He has light skin weathered by the forge, auburn hair cropped short, and brown eyes. His forearms carry a smith's burn scars, and he wears a priest's robe of the [[affiliation-sacredforge|Sacred Forge]] with a hammer at his belt. He speaks quickly and loudly, and he leans in when he argues.
 
 # Dossier {#dossier}
 
-Ankelos Satheris is an archimandrite of [[affiliation-sacredforge|the Sacred Forge]], ordained clergy of the Forge-Lord's creative aspect, in the capital, [[place-orzara|Orzara]]. He is young and fervent, and he has made the growing influence of [[affiliation-blackflame|the Black Flame]] his personal crusade.
+Ankelos Satheris is an archimandrite of [[affiliation-sacredforge|the Sacred Forge]], ordained clergy of the Forge-Lord's creative aspect, in the capital, [[place-orzara|Orzara]]. He is fervent, and he has made the growing influence of [[affiliation-blackflame|the Black Flame]] his personal crusade.
 
 The quarrel between the two faiths of [[lore-ustarondty|Ústaron]] ([[lore-ustaranschism|the Ústaran Schism]]) is fought in Orzara with votes, sermons and slanders, never in the streets, because the law of the Temple District punishes open conflict between faiths without mercy. Ankelos fights it with everything the law leaves him. He presses the city's magistrates to restrict the Black Flame's preaching on the Circles, works to discredit its known sympathizers, and pays for counter-sermons wherever its preachers have been heard, in the capital and in the towns of Alessa. The law protects the Black Flame's right to exist, so he cannot act against its priests directly.
 
 ## Background
 
-**The forge.** Ankelos trained as an acolyte of the Sacred Forge alongside a master smith, as many of its acolytes do, and was ordained young.
+**The forge.** Ankelos trained as an acolyte of the Sacred Forge alongside a master smith, as many of its acolytes do, and was ordained early.
 
 **The capital.** He serves in the Forge's temple in the Temple District of [[place-arvon|Arvon]], among the senior clergy of the Forge in the capital. The fire in the Forge-Lord's niche in the [[place-pnthnrldnm|Temple of the Twelve]] is the Forge's to tend.
 

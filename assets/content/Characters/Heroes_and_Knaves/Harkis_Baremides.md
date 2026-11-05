@@ -11,7 +11,7 @@ data:
   occupation: Apothecary
   lore: []
   culture: vylarianclt
-  homes: [belekos]
+  homes: [orzara]
   affiliations: {provinclys: {rank: 3}, pozeras: {rank: 1}}
   gender: male
   species: humanflk

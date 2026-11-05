@@ -39,13 +39,13 @@ Pirkelos Holimandis is a 74-year-old man who stands 6'0" tall and is of heavy bu
 
 Pirkelos Holimandis is the elder of [[place-mylanthos|Milanthos]], a walled farming village of about four hundred in a side valley off the road to [[place-tyrellan|Tirellan]] in [[place-moktur|Moktur]]. He is a former commander of the village militia and is now in his seventies. The village has no charter of its own: its taxes go to the revenue's men from Tirellan and its roads are the _pozerus_'s, and its quarrels go to Pirkelos and the heads of the oldest families on the bench under the lime tree by the green. He keeps the militia's list, every man who can carry a spear, and it musters at the [Blockhouse]{.name data-type="place/structure"} at the top of the village when the smoke from the ridge says a war-band is out.
 
-It was Pirkelos who first told [[being-azendsdmtr|Azendas Damator]] to take up healing, and Azendas is now Senior Priest of [[affiliation-lizelas|Lizelas]] on the Tirellan circuit. When the temple hierarchy in the capital questions the priest's methods, Azendas finds shelter in Milanthos, and Pirkelos gives him the local political cover. Asked why a village that counts every sheaf gives a tenth of its harvest to a priest, Pirkelos points at the barn and says that the priest's blessing fills it.
+Pirkelos trained [[being-azendsdmtr|Azendas Damator]] in healing, after an old priestess had first urged him to it, and Azendas is now Senior Priest of [[affiliation-lizelas|Lizelas]] on the Tirellan circuit. When the temple hierarchy in the capital questions the priest's methods, Azendas finds shelter in Milanthos, and Pirkelos gives him the local political cover. Asked why a village that counts every sheaf gives a tenth of its harvest to a priest, Pirkelos points at the barn and says that the priest's blessing fills it.
 
 ## Background
 
 **The militia.** Pirkelos commanded the village's militia for years. The Blockhouse it built in the hunger raids, for the people to shelter in, still stands over the village, and he knows what a war-band does to a village whose wall is not manned.
 
-**The priest.** When a weary former soldier came to work the farms of the circuit, Pirkelos encouraged him to take up healing in the goddess's service. Azendas has been his friend since.
+**The priest.** When a weary former soldier came to work the farms of the circuit, Pirkelos trained him in healing in the goddess's service. Azendas has been his friend since.
 
 **The elder.** In his old age the village made him its voice. He speaks for Milanthos to the revenue, to the temple and to the riders from Tirellan, and he does not ask the village's leave to do it.
 
@@ -71,7 +71,7 @@ He is old, and his health is the village's weak point. He will not give way to t
 
 ### Others
 
-- [[being-azendsdmtr|Azendas Damator]]: The healer-priest of the circuit, whom he set on the goddess's road and shelters still.
+- [[being-azendsdmtr|Azendas Damator]]: The healer-priest of the circuit, whom he trained and shelters still.
 
 ### Affiliations
 

@@ -1,15 +1,15 @@
 ---
 shortcode: tharkhosthar
-name: {full: Tharkos Tharozates, en: [Warden Tharkos]}
+name: {full: Tharkos Tharozates, en: [Overseer Tharkos]}
 type: being
 subType: npc
-description: The political administrator appointed to manage the prison bureaucratically, named in Zerofon Kalmakanes.
+description: The political Overseer of the great prison, appointed to manage it bureaucratically, named in Zerofon Kalmakanes.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [courtier]
-  occupation: Warden
+  occupation: Overseer
   lore: []
   culture: vylarianclt
   homes: []
@@ -36,4 +36,4 @@ Tharkos Tharozates is a 25-year-old man who stands 6'2" tall with a heavy build.
 
 # Dossier {#dossier}
 
-Tharkos Tharozates is the warden, a political administrator appointed to manage the prison bureaucratically. [[being-xrphnklmkns|Zerofon Kalmakanes]] views him as incompetent and corrupt. The two keep an awkward relationship of mutual necessity while harboring deep disdain for one another.
+Tharkos Tharozates is the Overseer of the great prison, a political administrator appointed to manage it bureaucratically; its working Warden is [Nethoren Melvarandis]{.name data-type="being/npc"}. [[being-xrphnklmkns|Zerofon Kalmakanes]] views him as incompetent and corrupt. The two keep an awkward relationship of mutual necessity while harboring deep disdain for one another.
