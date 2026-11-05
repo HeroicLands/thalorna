@@ -5311,6 +5311,12 @@ data:
     - {name: Nordmen, tongue: varokhi}
     - {name: Weskmund, tongue: varokhi}
     - {name: Erthilda, tongue: varokhi}
+    - {name: Varokhi, tongue: varokhi}
+    - {name: Edriwald, tongue: varokhi}
+    - {name: Falkhaven, tongue: varokhi}
+    - {name: Skathwald, tongue: varokhi}
+    - {name: Thornwald, tongue: varokhi}
+    - {name: Vandstein, tongue: varokhi}
   retired: [{form: Wíthar, instead: Wíthgar, why: "an Earth word, a man's name"}]
 sohl:
   system:

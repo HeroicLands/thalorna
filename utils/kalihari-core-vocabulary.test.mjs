@@ -198,7 +198,7 @@ test("Kalihari keeps the complete original stock, body and reserved interpretati
     // The new repertoire is checked independently by roman-inventories.test.mjs.
     delete meta.data.roman;
     meta.data.fields = meta.data.fields.slice(0, 3);
-    assert.equal(hash(meta), "4eb9165a2181985c10649ddb1151965c65ba349bd7c9e3e162053933b28879c9");
+    assert.equal(hash(meta), "3f76efe64c60ce7e7e3d4c3283402ceb7acfff7e8f5f7171102cd08c3e204c89");
     const body = splitFrontmatter(language.raw).body.replace(
         /## Everyday speech\n[\s\S]*?(?=## Script and Literacy\n)/u,
         "",
@@ -267,7 +267,7 @@ test("Kalihari keeps the complete original stock, body and reserved interpretati
         if (/^[aeiou]/u.test(syllables[cut].text)) cut--;
         add(name.slice(syllables[cut].start));
     }
-    assert.equal(probes.size, 738);
+    assert.equal(probes.size, 740);
     for (const form of probes) assert.equal(after(form), before(form), form);
     const oldRecord = { ...records[0], data: oldData },
         oldRows = dictionaryAndTermRows([oldRecord]).dictionary,

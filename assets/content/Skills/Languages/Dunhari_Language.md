@@ -6237,6 +6237,7 @@ data:
     - {name: Judging Poet, tongue: translation}
     - {name: Holder of the Oasis, tongue: translation}
     - {name: Truce-Warden of the Weighing, tongue: translation}
+    - {name: tevrazavad, tongue: dunhari}
   retired:
     - {form: Qadi, instead: Vazhmader, why: "an Earth word, the judge of a city"}
     - {form: qadi, instead: vazhmader, why: "an Earth word, the judge of a city"}

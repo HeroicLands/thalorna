@@ -166,7 +166,7 @@ test("Okharik preserves original words, meanings, names, metadata and prose", ()
     data.retired = data.retired.filter((row) => !respelled.some(([, was]) => row.form === was));
     assert.equal(
         hash({ ...note.fm, data }),
-        "1b8e2b381cbf125aec0d2ff85705948d18e973411e32c990b7c2d35c39191c1c",
+        "ce26f54e06ef056fed3572c2702271d0a5f3f359af675481e01b3f6893621439",
     );
     assert.equal(
         hash(fields.slice(0, -1)),

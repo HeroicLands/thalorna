@@ -7,9 +7,12 @@
  * The spelling guard (`npm run lint:spelling`).
  *
  * Every coined form of a language note (`data.words[].form`, `variants` and
- * `plural`, and every name in `data.names` apart from `pattern`, `metadata`
- * and the English lists under `en`) is checked against the alphabet of
- * Pronouncing Thalorna, read at run time from the guide's `data.sounds`:
+ * `plural`, every name in `data.names` apart from `pattern`, `metadata` and
+ * the English lists under `en`, and every `data.register[].name` but those
+ * whose `tongue` is `translation` or `gloss`, which render a name in English;
+ * a row that states no `tongue` is a name of the note's own language) is
+ * checked against the alphabet of Pronouncing Thalorna, read at run time from
+ * the guide's `data.sounds`:
  *
  * 1. Every character is a letter, group or mark the guide declares, or a
  *    separator: a hyphen, a space, or a mark of the standard roman punctuation
@@ -56,6 +59,9 @@ const TONE_MARKS = new Map([
 
 /** Keys under `data.names` that hold no name. */
 const NOT_NAMES = new Set(["pattern", "metadata", "en"]);
+
+/** Register tongues that render a name in English rather than coin it. */
+const ENGLISH_TONGUES = new Set(["translation", "gloss"]);
 
 /** Word separators, and the standard roman punctuation every tongue's roman shares,
  * read from the toolchain's standard rows so the guard and the encodings agree. */
@@ -331,14 +337,16 @@ function originalIndex(value, offset) {
  * Every coined form of a language note with its position.
  *
  * @param {string} text
- * @returns {{form: string, at: (index: number) => {line: number, column: number}}[]}
+ * @returns {{
+ *   form: string, register: boolean, at: (index: number) => {line: number, column: number}
+ * }[]}
  */
 function formsOf(text) {
     const parsed = frontmatterDoc(text);
     if (!parsed) return [];
     const { doc, lineCounter, source } = parsed;
     const out = [];
-    const add = (node) => {
+    const add = (node, register = false) => {
         if (!YAML.isScalar(node) || typeof node.value !== "string") return;
         const positions = sourcePositions(node, source);
         // The frontmatter starts on the line after the opening fence.
@@ -348,7 +356,7 @@ function formsOf(text) {
             );
             return { line: line + 1, column: col };
         };
-        out.push({ form: node.value, at });
+        out.push({ form: node.value, register, at });
     };
     const words = doc.getIn(["data", "words"]);
     if (YAML.isSeq(words))
@@ -369,6 +377,13 @@ function formsOf(text) {
         }
     };
     walk(doc.getIn(["data", "names"], true));
+    const register = doc.getIn(["data", "register"], true);
+    if (YAML.isSeq(register))
+        for (const row of register.items) {
+            if (!YAML.isMap(row)) continue;
+            if (ENGLISH_TONGUES.has(String(row.get("tongue")))) continue;
+            add(row.get("name", true), true);
+        }
     return out;
 }
 
@@ -383,18 +398,31 @@ export function languageName(text) {
 }
 
 /**
+ * How many register rows of a language note the guard reads.
+ *
+ * @param {string} text - The language note.
+ * @returns {number}
+ */
+export function registerRowsChecked(text) {
+    return formsOf(text).filter((f) => f.register).length;
+}
+
+/**
  * The findings of one language note, one per word.
  *
  * @param {string} text - The language note.
  * @param {string} guideText - The guide note.
- * @returns {{form: string, issues: ReturnType<typeof checkWord>, line: number, column: number}[]}
+ * @returns {{
+ *   form: string, register: boolean, issues: ReturnType<typeof checkWord>,
+ *   line: number, column: number
+ * }[]}
  */
 export function spellingFindings(text, guideText) {
     const alphabet = alphabetOf(guideText);
     const out = [];
-    for (const { form, at } of formsOf(text)) {
+    for (const { form, register, at } of formsOf(text)) {
         const issues = checkWord(form, alphabet);
-        if (issues.length) out.push({ form, issues, ...at(issues[0].offset) });
+        if (issues.length) out.push({ form, register, issues, ...at(issues[0].offset) });
     }
     return out;
 }
@@ -426,16 +454,20 @@ export function main(argv, io = { out: console.log, err: console.error }, cwd = 
     const byRule = new Map();
     let words = 0;
     let additions = 0;
+    let registerRows = 0;
+    let registerHits = 0;
     for (const file of files) {
         const rel = path.relative(cwd, path.resolve(cwd, file)) || file;
         const text = fs.readFileSync(path.resolve(cwd, file), "utf8");
         const name = languageName(text) || rel;
+        registerRows += registerRowsChecked(text);
         for (const a of additionsOf(text, alphabet)) {
             additions += 1;
             io.err(`${rel}:${a.line}:${a.column}: warning: ${a.message}`);
         }
         for (const hit of spellingFindings(text, guideText)) {
             words += 1;
+            if (hit.register) registerHits += 1;
             byLanguage.set(name, (byLanguage.get(name) ?? 0) + 1);
             for (const i of hit.issues) byRule.set(i.rule, (byRule.get(i.rule) ?? 0) + 1);
             io.err(
@@ -449,6 +481,8 @@ export function main(argv, io = { out: console.log, err: console.error }, cwd = 
     for (const [name, n] of sorted(byLanguage)) io.out(`${name}: ${n}`);
     for (const [rule, n] of [...byRule].sort((a, b) => a[0] - b[0])) io.out(`rule ${rule}: ${n}`);
     io.out(`${additions} addition(s) to the guide`);
+    io.out(`${registerRows} register row(s) checked`);
+    io.out(`${registerHits} register name(s) break the guide`);
     io.out(`${words} word(s) in ${byLanguage.size} language(s)`);
     return 0;
 }

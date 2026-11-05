@@ -7025,6 +7025,10 @@ data:
     - {name: Zijai, tongue: jurthati, built: [zi, -jai]}
     - {name: Zojai, tongue: jurthati, built: [zo, -jai]}
     - {name: Zuwu, tongue: jurthati, built: [zu, wu]}
+    - {name: Hojujai, tongue: jurthati}
+    - {name: Muwojai, tongue: jurthati}
+    - {name: Shuiwojai, tongue: jurthati}
+    - {name: Wojai, tongue: jurthati}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"

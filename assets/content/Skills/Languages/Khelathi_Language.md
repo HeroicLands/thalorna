@@ -8184,6 +8184,43 @@ data:
     - {name: zu'amqeletu, tongue: khelathi}
     - {name: zu'meku, tongue: khelathi}
     - {name: zu-ger, tongue: khelathi}
+    - {name: amqel-miglet, tongue: khelathi}
+    - {name: anlagh-zetun, tongue: khelathi}
+    - {name: anzet-qelt, tongue: khelathi}
+    - {name: au'khelathu, tongue: khelathi}
+    - {name: belgen-zalu, tongue: khelathi}
+    - {name: chathu, tongue: khelathi}
+    - {name: gadju-mulu, tongue: khelathi}
+    - {name: galezkara, tongue: khelathi}
+    - {name: gar-anlaghet, tongue: khelathi}
+    - {name: gar-lut, tongue: khelathi}
+    - {name: gar-qeztu, tongue: khelathi}
+    - {name: gar-reth'sa'ar, tongue: khelathi}
+    - {name: gar-shebazet, tongue: khelathi}
+    - {name: gar-zanit, tongue: khelathi}
+    - {name: gau-legiru, tongue: khelathi}
+    - {name: gekhenu, tongue: khelathi}
+    - {name: iaqet-leqa, tongue: khelathi}
+    - {name: iqeru, tongue: khelathi}
+    - {name: iuthnet, tongue: khelathi}
+    - {name: khelathi, tongue: khelathi}
+    - {name: khelenet-zu, tongue: khelathi}
+    - {name: khuqet-imntiqa, tongue: khelathi}
+    - {name: khuqet-miglet, tongue: khelathi}
+    - {name: lareshu, tongue: khelathi}
+    - {name: lut-chelsur, tongue: khelathi}
+    - {name: lut-getha-zalu, tongue: khelathi}
+    - {name: magu-thelqen, tongue: khelathi}
+    - {name: qelt-len-legir, tongue: khelathi}
+    - {name: selat-leteru, tongue: khelathi}
+    - {name: selat-pelgun, tongue: khelathi}
+    - {name: yath-lemet, tongue: khelathi}
+    - {name: zebt-relepet, tongue: khelathi}
+    - {name: zelgeru, tongue: khelathi}
+    - {name: zu-qeztu, tongue: khelathi}
+    - {name: zu-zalu-legulu, tongue: khelathi}
+    - {name: zu-zel-iaqtet, tongue: khelathi}
+    - {name: zulaten, tongue: khelathi}
   naming:
     nearName:
       minSyllables: 4

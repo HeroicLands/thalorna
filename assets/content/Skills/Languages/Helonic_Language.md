@@ -5651,7 +5651,7 @@ data:
     - {name: Belzurion Vughash, tongue: byzarian}
     - {name: Bethua Adventurer's Guide, tongue: translation}
     - {name: Bethua Region, tongue: translation}
-    - {name: Bethuan, tongue: translation}
+    - {name: Bethuan, tongue: bethuan}
     - {name: Bethuan Language, tongue: translation}
     - {name: Bethuan Matriarchal Trade-Houses, tongue: translation}
     - {name: Bethuan Matriarchy, tongue: translation}
@@ -5667,7 +5667,7 @@ data:
     - {name: Bulides, tongue: byzarian, built: [bul-, -ides]}
     - {name: Bizaria Adventurer's Guide, tongue: translation}
     - {name: Bizaria Region, tongue: translation}
-    - {name: Bizarian, tongue: translation}
+    - {name: Bizarian, tongue: byzarian}
     - {name: Bizarian Cartographers' Guild, tongue: translation}
     - {name: Bizarian Language, tongue: translation}
     - {name: Bizarian League, tongue: translation}
@@ -5750,7 +5750,7 @@ data:
     - {name: Habidon Ghanides, tongue: helonic}
     - {name: Helionis, tongue: helonic}
     - {name: Helionis Adventurer's Guide, tongue: translation}
-    - {name: Helionite, tongue: translation}
+    - {name: Helionite, tongue: helonic}
     - {name: Hellád, tongue: helonic}
     - {name: Hellád Region, tongue: translation}
     - {name: Helonic, tongue: translation}
@@ -6121,6 +6121,8 @@ data:
     - {name: Rider of the Report, tongue: translation}
     - {name: Keeper of the Toll, tongue: translation}
     - {name: Keeper of the Stores, tongue: translation}
+    - {name: Bethua, tongue: bethuan}
+    - {name: Bizaria, tongue: byzarian}
   retired:
     - {form: Altinkale, instead: Krusteikhos, why: a town named with an Earth phrase}
     - {form: Altinkalan, instead: Krustéikhian, why: the demonym of a retired name}

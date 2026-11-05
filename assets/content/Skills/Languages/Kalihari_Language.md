@@ -5952,7 +5952,7 @@ data:
     - {name: Kalihara Adventurer's Guide, tongue: translation}
     - {name: Kalihara Continent, tongue: translation}
     - {name: Kalihara Region, tongue: translation}
-    - {name: Kaliharan, tongue: translation}
+    - {name: Kaliharan, tongue: kalihari}
     - {name: Kalihari, tongue: kalihari}
     - {name: Kalihari Language, tongue: translation}
     - {name: Kalihari Lexicon, tongue: translation}

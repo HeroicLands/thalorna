@@ -206,3 +206,53 @@ test("the guard runs over the real corpus without throwing and exits 0", () => {
     assert.equal(main([], { out: (s) => out.push(s), err: () => {} }), 0);
     assert.ok(out.length > 0);
 });
+
+const registerNote = [
+    "---",
+    "shortcode: x",
+    "data:",
+    "  register:",
+    "    - {name: Kasa, tongue: vylari}",
+    "    - {name: Vylacor, tongue: vylari}",
+    "    - {name: Cyrwick, tongue: translation}",
+    "    - {name: The Cyan Coast, tongue: gloss}",
+    "    - {name: Cyrdal, tongue: 'exonym:vylari'}",
+    "    - {name: Cyrhold, kind: place}",
+    "    - {name: Kasavel, kind: place}",
+    "---",
+    "",
+].join("\n");
+
+test("every register row but an English rendering is checked, at its own row", () => {
+    const hits = spellingFindings(registerNote, guideText);
+    assert.deepEqual(
+        hits.map((h) => [h.form, h.line, h.column]),
+        [
+            ["Vylacor", 6, 15],
+            ["Cyrdal", 9, 14],
+            ["Cyrhold", 10, 14],
+        ],
+    );
+    assert.deepEqual(
+        hits[0].issues.map((i) => i.rule),
+        [4, 1],
+    );
+    assert.deepEqual(
+        hits[1].issues.map((i) => i.rule),
+        [1, 4],
+    );
+});
+
+test("the summary counts the register rows the guard reads", () => {
+    const out = [];
+    const err = [];
+    const dir = fs.mkdtempSync(path.join(os.tmpdir(), "alden-spelling-guard-"));
+    fs.writeFileSync(path.join(dir, "Register.md"), registerNote);
+    try {
+        main([path.join(dir, "Register.md")], { out: (s) => out.push(s), err: (s) => err.push(s) });
+    } finally {
+        fs.rmSync(dir, { recursive: true });
+    }
+    assert.ok(err.some((e) => /Register\.md:6:15: warning: "Vylacor" /.test(e)));
+    assert.ok(out.includes("5 register row(s) checked"), out.join("\n"));
+});

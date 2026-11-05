@@ -381,7 +381,7 @@ test("Jurthati name-preservation repair retains old rows and native provenance",
     const { words: _words, roman: _roman, ...data } = daughter.fm.data;
     assert.equal(
         digest({ ...daughter.fm, data }),
-        "529d11ac190670a3f8e9176ddcb752fe6ea147effa61d6c4cf179649b584ae72",
+        "dcebeb789ac55e37ebdaf9d543ca188e66055078c943aa2ce9a830206af76b2b",
     );
     assert.equal(
         digest(

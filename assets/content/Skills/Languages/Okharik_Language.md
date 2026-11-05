@@ -4877,6 +4877,7 @@ data:
     - {name: Tiru, tongue: okharik}
     - {name: Lakhor, tongue: okharik}
     - {name: Ngoro, tongue: okharik}
+    - {name: Khamunda, tongue: okharik}
   retired:
     - {form: Njia ya Roho, instead: Yenor Zohiring, why: "an Earth phrase, the shamans' path"}
     - form: Mwalimu wa Roho

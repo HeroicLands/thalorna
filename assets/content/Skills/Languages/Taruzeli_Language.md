@@ -6928,6 +6928,7 @@ data:
     - {name: Razzina Padduni, tongue: taruzeli}
     - {name: Nazzuna Tarshuni, tongue: taruzeli}
     - {name: Zilmar Ezzinu, tongue: taruzeli}
+    - {name: Taruzelian, tongue: taruzeli}
   retired:
     - {form: Tamavar, instead: Besikar, why: one letter from an Earth word}
     - {form: Kethara, instead: Yamuzel, why: an Earth word}

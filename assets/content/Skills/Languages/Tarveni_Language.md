@@ -4942,7 +4942,7 @@ data:
     - {name: Herthema, tongue: tarveni}
     - {name: Council of Herthema, tongue: translation}
     - {name: Tarvénia Region, tongue: translation}
-    - {name: Tarvénia, tongue: translation}
+    - {name: Tarvénia, tongue: tarveni}
     - {name: Thornhill Manor, tongue: other}
     - {name: Toravar Range, tongue: translation}
     - {name: The Toravar, tongue: translation}

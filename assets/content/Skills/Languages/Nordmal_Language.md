@@ -6124,6 +6124,10 @@ data:
     - {name: ódvarsholl, tongue: nordmal}
     - {name: hafthann, tongue: nordmal}
     - {name: skeldvir hafthannsen, tongue: nordmal}
+    - {name: nordheim, tongue: nordmal}
+    - {name: vithgard, tongue: nordmal}
+    - {name: nordheimn, tongue: nordmal}
+    - {name: grimvar, tongue: nordmal}
   retired:
     - {form: vatn, instead: vatan, why: "an Earth word"}
     - {form: hrafn, instead: hrafan, why: "an Earth word"}

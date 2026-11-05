@@ -6814,6 +6814,7 @@ data:
     - {name: khálpilonpu, tongue: aelendi}
     - {name: pálmirno, tongue: aelendi}
     - {name: dáimela, tongue: aelendi}
+    - {name: áelendan, tongue: aelendi}
   retired:
     - {form: Aranwy, instead: Sálenda, why: a name borrowed from an Earth tongue}
     - {form: Arthgen, instead: Urnel, why: a name borrowed from an Earth tongue}
