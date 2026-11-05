@@ -72,6 +72,12 @@ import YAML from "yaml";
 /** The list whose `j` is said `h`. */
 const J_AS_H = "yucatec-maya";
 
+/**
+ * The lists that romanize च as a bare `c` (IAST), whose `c` is read as `ch`:
+ * Thalorna spells च as `ch`. A list `ch` (छ) is unchanged.
+ */
+export const C_AS_CH = new Set(["sanskrit", "hindi"]);
+
 /** Register tongues whose names are not native forms of the language. */
 const NON_NATIVE_TONGUE = /^(?:translation|gloss|kept|exonym|other)(?::|$)/;
 
@@ -176,9 +182,10 @@ const GLOSS_STOPWORDS = new Set(
  *
  * @param {string} form
  * @param {boolean} [jAsH] - Read `j` as `h`, for a list that writes `h` as `j`.
+ * @param {boolean} [cAsCh] - Read a bare `c` (not followed by `h`) as `ch`, for a list that writes च as `c`.
  * @returns {string}
  */
-export function normalize(form, jAsH = false) {
+export function normalize(form, jAsH = false, cAsCh = false) {
     const s = form
         .toLowerCase()
         .replace(/þ/g, "th")
@@ -200,6 +207,7 @@ export function normalize(form, jAsH = false) {
         .toLowerCase()
         .replace(/[\u02BB\u02BC\u02BF]/g, "")
         .replace(/[^\p{L}]/gu, "")
+        .replace(cAsCh ? /c(?!h)/g : /(?!)/g, "ch")
         .replace(/c(?!h)|q/g, "k")
         .replace(/w/g, "v")
         .replace(/ph/g, "f")
@@ -269,7 +277,7 @@ export function loadEarth(dirs) {
             const local = new Set();
             for (const line of fs.readFileSync(path.join(dir, name), "utf8").split("\n")) {
                 if (hasBoundary(line)) continue;
-                const n = normalize(line, key === J_AS_H);
+                const n = normalize(line, key === J_AS_H, C_AS_CH.has(key));
                 if (n) local.add(n);
             }
             const bound = new Set();
@@ -280,7 +288,7 @@ export function loadEarth(dirs) {
                 for (const line of fs.readFileSync(tsv, "utf8").split("\n")) {
                     const cells = line.split("\t");
                     if (cells.length < 2) continue;
-                    const n = normalize(cells[0], key === J_AS_H);
+                    const n = normalize(cells[0], key === J_AS_H, C_AS_CH.has(key));
                     if (!n) continue;
                     const pos = cells.length > 2 ? cells[1].trim().toLowerCase() : "";
                     if (hasBoundary(cells[0]) || boundClasses.has(pos)) {

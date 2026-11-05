@@ -453,3 +453,22 @@ test("the environment variable names the directories", () => {
     const { status } = run([file], { KHAZRYN_WORDLISTS: lists() });
     assert.equal(status, 1);
 });
+
+test("a Sanskrit or Hindi list's bare c is read as ch", () => {
+    const root = path.join(dir, "c-as-ch");
+    write("c-as-ch/sanskrit.txt", "cakra\nchatra\n");
+    write("c-as-ch/hindi.txt", "cakra\n");
+    write("c-as-ch/persian.txt", "cakra\n");
+    const earth = loadEarth([root]);
+    const hits = (form, list) => earthHits({ form, gloss: "" }, earth, [list]).length;
+    assert.equal(hits("chakra", "sanskrit"), 1);
+    assert.equal(hits("chakra", "hindi"), 1);
+    // A list not flagged keeps its c as k, so a coined ch is a different word.
+    assert.equal(hits("chakra", "persian"), 0);
+    assert.equal(hits("kakra", "persian"), 1);
+    // A list ch (the aspirated छ) is unchanged, and a coined k does not match it.
+    assert.equal(hits("chatra", "sanskrit"), 1);
+    assert.equal(hits("katra", "sanskrit"), 0);
+    // The coined k is no longer the list's c.
+    assert.equal(hits("kakra", "sanskrit"), 0);
+});
