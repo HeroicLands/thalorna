@@ -5,7 +5,13 @@ type: place
 subType: feature
 description: "The forested mountain belt that closes Tarvénia's north against Élavendre and runs down its west against Provénzia, densely Áelendan in its high reaches, with the Western March's war passes in its western arm."
 tags: [mountain, frontier]
-data: {demonym: null, lore: [], parents: [tarvenirgn], population: 0, packFolder: tarvenia}
+data:
+  demonym: null
+  lore: []
+  parents: [tarvenirgn]
+  population: 0
+  borders: [{to: elavendre, bearing: N}, {to: provenzrgn, bearing: W}]
+  packFolder: tarvenia
 ---
 
 ## Overview {#overview}

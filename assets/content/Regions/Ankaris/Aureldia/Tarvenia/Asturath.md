@@ -10,6 +10,7 @@ data:
   lore: [humanflk]
   parents: [tarvenirgn]
   population: 1000000
+  borders: [{to: eskarath, bearing: N}, {to: kervaron, bearing: E}, {to: leonrik, bearing: S}]
   packFolder: tarvenia
   government: kngdmstrth
 ---
@@ -39,6 +40,12 @@ The companies are the third harvest. A young man of the valleys goes abroad unde
 ## Neighbors
 
 The lowlands of Lienrik lie to the south, and the two kingdoms need each other and dislike it: Lienrik's grain feeds the mountains, and Asturath's iron and soldiers are bought by Lienrik. The highlands of [[place-eskarath|Eskarath]] lie to the north, a people older than the Tarveni, with their own tongue and their own law. To the east the Kervaron belongs to the [[lore-aelendnppl|Áelendan]] clans in all but the Empire's paperwork, and beyond it lies the Empire.
+
+## Current Situation {#present}
+
+Lezkora holds two courts. The High King of [[affiliation-kingdmtrvn|Tarvénia]], [Ularrek Garrundeta]{.name data-type="being/npc"}, is one of the king of Asturath's own mountain lords, chosen because each of the greater candidates could block the others, and he is old. The king of Asturath, [Alzemo Zolduregi]{.name data-type="being/npc"}, keeps his court in the castle at the north end of the same city, and the lords of the lowlands, whose king means to stand at the next election, have begun sending their men up the road one and two at a time.
+
+At the eastern edge the Warden of the March, [Estaril Dómivar]{.name data-type="being/npc"}, holds the road at Kávrenath. Smugglers go round his gate by the valley paths, imperial deserters come over the passes to sell their swords to the companies, and in a bad year beyond the Kervaron refugees come down the road in hundreds. In the high valleys the companies are abroad under contract, and the cairns on Zurgando count the men still away.
 
 ## See Also
 

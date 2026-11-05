@@ -9,7 +9,12 @@ data:
   lore: [humanflk]
   parents: [aureldirgn]
   population: 2000000
-  borders: [{to: vrystwald, bearing: NE}, {to: edriwald, bearing: N}]
+  borders:
+    - {to: vrystwald, bearing: NE}
+    - {to: edriwald, bearing: N}
+    - {to: tarvenirgn, bearing: S}
+    - {to: toravarrange, bearing: S}
+    - {to: eskarath, bearing: S}
   packFolder: elavendre
   government: kngdmlvndr
   culture: elavendriclt

@@ -71,7 +71,7 @@ Durvolka keeps the faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]], 
 : the coast's custom for its drowned, and the harbor tellers who keep it
 
 [[place-ulhera|Ulhera]]
-: the cod port of the outer coast
+: the cod port of the western coast
 
 [[place-ezkoba|Ezkoba]] and [[place-kaurema|Kaurema]]
 : the lamp town and the black cliffs up the coast

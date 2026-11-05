@@ -10,7 +10,8 @@ data:
   lore: [twelfthloss]
   parents: [vylariargn]
   population: null
-  borders: [{to: alyssa, bearing: E}, {to: moktur, bearing: E}]
+  borders: [{to: alyssa, bearing: E}, {to: moktur, bearing: E}, {to: asturath, bearing: W}]
+  routes: [{to: kavrenath, bearing: W, mode: land, days: 3, terrain: [mountains, road]}]
   packFolder: vylaria
 
 # terran_analog: "The western Alps between the Po lowlands and Savoy, held by their own mountain people against a lowland power's paper claim."

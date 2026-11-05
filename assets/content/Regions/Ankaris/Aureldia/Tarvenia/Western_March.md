@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [tarvenirgn]
   population: null
+  borders: [{to: talothe, bearing: W}]
   government: kingdmtrvn
   packFolder: tarvenia
 ---

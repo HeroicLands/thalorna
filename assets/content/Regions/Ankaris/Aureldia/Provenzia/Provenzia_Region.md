@@ -9,6 +9,7 @@ data:
   lore: []
   parents: [aureldirgn]
   population: 5000000
+  borders: [{to: tarvenirgn, bearing: E}, {to: toravarrange, bearing: E}]
   packFolder: provenzia
   government: kngdmprvnz
   culture: provenzianclt

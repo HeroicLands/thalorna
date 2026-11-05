@@ -4989,6 +4989,17 @@ data:
     - {name: Warden of Wrecks, tongue: translation}
     - {name: Keeper of the Lamp, tongue: translation}
     - {name: Valthari, tongue: tarveni}
+    - {name: Konsezarath, tongue: tarveni}
+    - {name: Lesser House, tongue: translation}
+    - {name: Roll of Great Houses, tongue: translation}
+    - {name: Master of a Trade, tongue: translation}
+    - {name: Reeve of Threskon, tongue: translation}
+    - {name: Orthema Ikentsis, tongue: tarveni}
+    - {name: Pilots' Guild of Valthari, tongue: translation}
+    - {name: The Taruzeli Quarter, tongue: translation}
+    - {name: The Shipyards of Valthari, tongue: translation}
+    - {name: The Charter Hall, tongue: translation}
+    - {name: Threskon, tongue: tarveni, built: [thres, salkon], gloss: the salt shore}
     - {name: Tarveni Language, tongue: translation}
     - {name: Tarveni, tongue: tarveni}
     - {name: Tarvénia Adventurer's Guide, tongue: translation}
@@ -5119,6 +5130,9 @@ data:
     - {name: Gray Highlands, tongue: translation}
     - {name: The Summer War, tongue: translation}
   retired:
+    - form: Consejarath
+      instead: Konsezarath
+      why: "respelled to Pronouncing Thalorna: no c outside ch, and Tarveni writes no j"
     - form: Montaña
       instead: Ornetho
       why: "a name built of words of an Earth tongue, for the mountain"

@@ -3,7 +3,7 @@ shortcode: frctyvlthr
 name: {full: Free City of Valthari}
 type: affiliation
 subType: polity
-description: "Free city-state on Tarvénia's southern coast, governed by merchant families—richest settlement in Tarvénia and the kingdom's window onto distant trade, jealously guarding its independence."
+description: "The free city-state of Tarvénia's sandy southern coast, governed by the merchant houses of the Konsezarath under a charter bought from the High King, the richest polity in Tarvénia and its window onto the Vilérian Sea trade."
 data:
   templatePriority: null
   demonym: Valtharin
@@ -12,7 +12,7 @@ data:
   governance:
     model: oligarchy
     summary: >-
-      The Consejarath—a council of the great merchant houses—governing under a royal charter bought with tribute, which guarantees its self-government, its own courts and freedom from feudal levies.
+      The Konsezarath, a council of the great merchant houses, governs the city and its coast under a royal charter bought with a yearly tribute to the High King, which guarantees its self-government, its own courts and freedom from feudal levies.
     ranks:
       - level: 0
         title: Struck from the Roll
@@ -29,53 +29,60 @@ data:
         title: Freeman of the City
         description: Enrolled in the city's register, entitled to trade in its markets and plead in its courts.
       - level: 4
-        title: Guild Master
+        title: Master of a Trade
         description: >-
-          Head of a chartered trade, speaking for it before the Council and answerable for its members' conduct.
+          A Freeman enrolled as a master in one of the city's chartered trades, answerable to it for his work and his apprentices.
       - level: 5
         title: House Factor
         description: >-
-          Managing the affairs of one of the great houses—its warehouses, its ships, its correspondents abroad.
+          Managing the affairs of one of the merchant houses: its warehouses, its ships, its correspondents abroad.
       - level: 6
         title: House Head
-        description: Master of a merchant house, its capital and its name, and an elector of the Council.
+        description: >-
+          Master of a merchant house, its capital and its name. The head of a house on the Roll of Great Houses votes for the seats of the Konsezarath.
       - level: 7
         title: Councilor
-        description: Sitting on the Council that governs the city, by weight of the house behind him.
-      - level: 8
-        title: First of the Council
-        description: Presiding over the Council for a term, and holding the city's seal while he does.
+        description: A House Head sitting on the Konsezarath, by weight of the house behind him.
     offices:
       First of the Council: >-
-        Presiding officer of the governing council, elected by it for a fixed term and holding the city's seal.
-      Councilor: Member of the governing council, seated by the standing of the house he heads.
-      Chancellor: Keeper of the city's charters, treaties and correspondence.
+        Held by a Councilor, elected by the Konsezarath for a fixed term. Presides over the council and holds the city's seal.
+      Chancellor: Held by a Councilor, named by the Konsezarath. Keeper of the city's charters, treaties and correspondence.
       Treasurer: >-
-        Keeper of the city's revenue—its customs, its tolls, and the loans it raises against them.
-      Harbormaster: Warden of the port, its pilots, its wharves and the dues levied on every hull that enters.
-      Master of the Mint: Keeper of the coin struck in the city's name and of the standard it is struck to.
-      Consul Abroad: The city's resident agent in a foreign port, holding its seal for trade disputes there.
-      Captain of the Watch: Commander of the city's guard and of the militia its guilds are bound to raise.
+        Held by a Councilor, named by the Konsezarath. Keeper of the city's revenue: its customs, its tolls, and the loans it raises against them.
+      Harbormaster: >-
+        Held by a Freeman of the City, named by the Konsezarath. Warden of the port, its pilots, its wharves and the dues levied on every hull that crosses the bar.
+      Master of the Mint: >-
+        Held by a Freeman of the City, named by the Konsezarath. Keeper of the coin struck in the city's name and of the standard it is struck to.
+      Consul Abroad: >-
+        Held by a House Factor, named by the Konsezarath. The city's resident agent in a foreign port, holding its seal for trade disputes there.
+      Captain of the Watch: >-
+        Held by a Freeman of the City, named by the Konsezarath. Commander of the city's watch and of the militia its guilds are bound to raise.
       Warden of the Weights: >-
-        Inspector of measures, coin and quality in the markets—the office that makes the city's word good.
-      Guild Master: Head of a chartered trade, speaking for it before the Council.
+        Held by a Freeman of the City, named by the Konsezarath. Inspector of measures, coin and quality in the markets, the office that makes the city's word good.
+      Guild Master: Held by a Master of a Trade, chosen by his trade. Head of a chartered trade, speaking for it before the Konsezarath.
       Arbitrator: >-
-        Professional settler of disputes between houses under the commercial custom, whose rulings the Council enforces.
+        Held by a Freeman of the City, sworn at the Charter Hall. Settles disputes between houses under the commercial custom; the Konsezarath enforces the rulings.
+      Reeve of Threskon: >-
+        Held by a House Head whose house owns salt pans at Threskon, named by the Konsezarath each year. Governs the salt town for the city and answers for its dues.
   seat: valthari
   population: 300000
   economy: [affiliation-danvar, affiliation-tevran, lore-vylrncrncy]
   lore: [humanflk]
   parents: [kingdmtrvn]
-  relations: {arldnpnthn: aligned, kingdmtrvn: aligned, vylarinmpr: unaligned}
+  relations:
+    arldnpnthn: aligned
+    kingdmtrvn: aligned
+    kingdmlnrk: unaligned
+    vylarinmpr: unaligned
   packFolder: tarvenia
 sohl: {system: {commonSkills: [tarvenlng]}}
 ---
 
 Overlord
-: [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] (nominal—pays tribute for self-governance charter)
+: [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] (nominal; the city pays tribute for its charter of self-government)
 
 Language
-: Tarveni (with Provenzal and Taruzeli widely spoken)
+: [[skill-tarvenlng|Tarveni]], with [[skill-provnzlng|Provenzal]], [[skill-taruzelilng|Taruzeli]] and the harbor pidgin [[skill-valtarlng|Valtari]] widely spoken
 
 Naming Convention
 : [[skill-tarvenlng|Tarveni]]
@@ -84,40 +91,95 @@ Pantheon
 : [[affiliation-arldnpnthn|Aureldian]]
 
 Government
-: Council of merchant families (the Consejarath)
+: the council of the great merchant houses, the [[affiliation-consejarath|Konsezarath]]
 
-## Overview
+## Overview {#overview}
 
-The Free City of Valthari is the [[place-tarvenirgn|Tarvénia Region]]'s great port—a wealthy, cosmopolitan city-state on the southern coast where the [[place-vylarianse|Vilérian Sea]] trade meets the overland routes into the Tarvenan interior. Governed by a council of powerful merchant families called the [Consejarath]{.name data-type="affiliation/governmental"}, Valthari pays handsome tribute to the High King of [[affiliation-kingdmtrvn|Tarvénia]] in exchange for a charter guaranteeing its self-governance, its own courts, and its freedom from feudal levies. The first High King sold it the charter, when he had no silver to pay the lords who elected him ([[lore-tarvfallsawy|Tarvénia Falls Away]]). The arrangement makes Valthari the richest single settlement in Tarvénia and the kingdom's commercial lifeline. The Free City holds [[place-valthari|Valthari]] itself.
+The Free City of Valthari is the [[place-tarvenirgn|Tarvénia Region]]'s great port: a wealthy, cosmopolitan city-state on the sandy southern coast where the [[place-vylarianse|Vilérian Sea]] trade meets the overland routes into the Tarvenan interior. Its government is the [[affiliation-consejarath|Konsezarath]], a council of the great merchant houses, which pays handsome tribute to the High King of [[affiliation-kingdmtrvn|Tarvénia]] for a charter guaranteeing its self-government, its own courts and its freedom from feudal levies. The first High King sold it the charter when he had no silver to pay the lords who elected him ([[lore-tarvfallsawy|Tarvénia Falls Away]]). The arrangement makes Valthari the richest single settlement in Tarvénia and the kingdom's commercial lifeline.
 
-## Character
+The Free City holds [[place-valthari|Valthari]] itself and the coast around it, with the salt town of [[place-threskon|Threskon]], about 300,000 people in all. The tension that defines it is the charter: bought from each High King in turn, it is only as safe as the next election.
 
-Valthari is everything the mountain lords of [[affiliation-kngdmstrth|Asturath]] distrust: wealthy, cosmopolitan, and thoroughly mercantile.
+## How It Is Ruled {#how-it-is-ruled}
 
-The Consejarath—the ruling council—is drawn from the dozen or so merchant dynasties that control the city's major trading houses, shipyards, and banking operations. Seats on the council are fiercely contested, and Valthari politics are an intricate dance of commercial alliances, marriage pacts, and occasionally, discreet assassination. The city maintains its own small but professional navy to protect its shipping lanes, and its marine soldiers are among the best-equipped troops in Tarvénia.
+The Konsezarath decides and the city's officers carry it out. The council is drawn from the dozen or so merchant dynasties that control the city's major trading houses, [[place-vlthrshpyrds|shipyards]] and banking operations; the heads of the houses on its Roll of Great Houses elect the councilors, and the councilors elect the First of the Council for a fixed term. Seats are fiercely contested, and Valthari politics is an intricate dance of commercial alliances, marriage pacts and, occasionally, discreet assassination.
 
-Culturally, Valthari is more cosmopolitan than the rest of Tarvénia. [[skill-provnzlng|Provenzal]] is widely spoken alongside [[skill-tarvenlng|Tarveni]], Taruzeli merchants maintain their own quarter, and the city's architecture blends Tarvenan stone-and-iron practicality with Provénzian elegance. The mountain lords consider Valthari soft and foreign-tainted; Valthari considers the mountain lords provincial and broke. Both assessments contain a grain of truth.
+The council names the city's officers, each held from a standing in the city's register:
 
-## Commerce and Currency
+- **The Chancellor** keeps the charter itself, the treaties and the city's letters; **the Treasurer** keeps the customs, the tolls and the loans raised against them.
+- **The Harbormaster** keeps the port, its pilots and its wharves, and levies the dues on every hull that crosses the bar.
+- **The Master of the Mint** keeps the coin struck in the city's name, and **the Warden of the Weights** keeps the measures, coin and quality of the markets honest.
+- **The Captain of the Watch** commands the _zórala_ (the watch of a free city) and the militia the guilds raise.
+- **The Consuls Abroad** keep the city's seal in foreign ports for trade disputes there.
+- **The Reeve of Threskon** governs the salt town for the city.
 
-Free City of Valthari uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Free City of Valthari is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
+The Masters of a Trade elect their Guild Masters, who speak for the trades before the council. A man's standing is his place in the city's register, from the unfree and the residents (_palvo_) to the freemen, who hold the freedom of the city (_verosalo_), and the heads of the houses.
+
+## Current Situation {#present}
+
+The High King has not come down to his hall at [[place-lezkora|Lezkora]] for a month. When a High King dies, the next swears the terms of the crown, and the city's charter is one of them; Valthari sends a councilor to hear it sworn and pays the new king the year's tribute ([[affiliation-kingdmtrvn|Kingdom of Tarvénia]]). The Konsezarath is divided over whether to pay that and no more, or to back the lord most likely to win.
+
+Closer to home, the seamen of the port refuse to sign on until the ship-owning houses raise the crew's share. The city's neighbors have their own grievances against its houses: the wine growers of [[place-enthara|Enthara]] are in debt to them, the King of Lienrik will not let them dig a channel past the toll at [[place-bruthena|Bruthena]], and the crown of [[place-galvaren|Galvaren]] buys its salt from the city's coast and quarrels with its price ([[place-valthari|Valthari]], [[place-threskon|Threskon]]).
+
+## Law {#law}
+
+The charter gives the city its own courts, and they sit at [[place-charterhall|the Charter Hall]]. Disputes between houses go to the Arbitrators under the commercial custom, and the Konsezarath enforces their rulings. Every other case goes to the city's court in the same hall, and a foreigner's case is heard there like a freeman's.
+
+- **Short weight, false measure or debased coin:** a fine set by the Warden of the Weights, and the goods forfeit.
+- **Breach of a sworn contract:** restitution, and the Arbitrators' fee.
+- **Theft or violence in the city:** a fine, the lash or the city's prison, and for a resident, expulsion.
+- **Fraud against the city, or treason to the charter:** striking from the roll, which voids every contract the guilty man holds.
+
+## Arms {#arms}
+
+The city's charter frees it from the High King's levies, and it keeps its own forces. The city maintains a small but professional navy to protect its shipping lanes, and its marine soldiers are among the best-equipped troops in Tarvénia. The watch keeps the streets and the quays under the Captain of the Watch, and every chartered trade is bound to raise militia for the walls. In a war the houses hire: the companies that sign on in Valthari's hiring yards are the first the city calls on.
+
+## Commerce and Currency {#commerce}
+
+Free City of Valthari uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Free City of Valthari is a post-imperial commonwealth member: it participates fully in the trade and banking infrastructure of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
+
+Wine, olive oil, grain, wool and iron go out through the harbor; spices, silk, luxury goods and coin come in. The city's houses buy most of what [[place-leonrik|Lienrik]] sells to the world, at prices Valthari sets, and Lienrik pays the city's harbor dues on every cargo it ships.
+
+## Faith {#faith}
+
+The city keeps the faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]]. Its seamen keep the [[affiliation-pozeras|Faith of Pozeras]] of voyages and the [[affiliation-brazemas|Faith of Brazemas]] of storms, and the Taruzeli merchants keep their own temples in [[place-vlthrtrzlqrtr|the Taruzeli Quarter]].
+
+## Holdings {#holdings}
+
+- [[place-valthari|Valthari]], the city and its harbor, which the council governs directly.
+- [[place-threskon|Threskon]], the salt town along the coast, governed by the Reeve of Threskon.
+
+## History {#history}
+
+The coast was imperial before it was free. The legions took the southern coast about 140 AF and made Valthari an imperial port ([[lore-lowlandstaken|The Lowlands Taken]]), and its harbor and its crowd of tongues became the city's fortune; the harbor pidgin [[skill-valtarlng|Valtari]] took its first fixed form on its quays. When the garrisons were driven out, about 538 to 545, the first High King found he had no silver to pay the lords who had elected him and sold the port a charter of self-government for a yearly tribute ([[lore-tarvfallsawy|Tarvénia Falls Away]]). The council of the merchant houses, the Konsezarath, has governed it ever since, and every High King since has sworn to keep the charter.
+
+## Relations {#relations}
+
+Valthari is everything the mountain lords of [[affiliation-kngdmstrth|Asturath]] distrust: wealthy, cosmopolitan and thoroughly mercantile. Culturally the city is more cosmopolitan than the rest of Tarvénia. Provenzal is widely spoken alongside Tarveni, Taruzeli merchants keep their own quarter, and the city's architecture blends Tarvenan stone-and-iron practicality with Provénzian elegance. The mountain lords consider Valthari soft and foreign-tainted; Valthari considers the mountain lords provincial and broke. Both assessments contain a grain of truth.
+
+The city and [[affiliation-kingdmlnrk|Lienrik]] depend on each other entirely and like each other very little: the city buys the lowlands' harvest, and Lienrik's crown takes a toll on it at [[place-bruthena|Bruthena]]'s bridge. [[affiliation-kngdmglvrn|Galvaren]] buys its salt from the southern coast. Abroad, the city's best customers are the [[place-provenzrgn|Provénzia Region]] and the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], and Valthari is one of the ports where Aureldian and Midhalión traders meet on neutral ground.
 
 ## See Also
 
-[[affiliation-kingdmtrvn|Kingdom of Tarvénia]]
-: The loose overlord
-
-[[place-tarvenirgn|Tarvénia Region]]
-: Regional overview
+[[affiliation-consejarath|Konsezarath]]
+: the council that governs the city
 
 [[place-valthari|Valthari]]
-: The city itself
+: the city itself
+
+[[place-threskon|Threskon]]
+: the city's salt town
+
+[[affiliation-kingdmtrvn|Kingdom of Tarvénia]]
+: the loose overlord
+
+[[place-tarvenirgn|Tarvénia Region]]
+: regional overview
 
 [[affiliation-kngdmstrth|Kingdom of Asturath]], [[affiliation-kngdmglvrn|Kingdom of Galvaren]], [[affiliation-kingdmlnrk|Kingdom of Lienrik]]
-: The three kingdoms
+: the three kingdoms
 
 [[affiliation-frtrtryskrth|Free Territory of Eskarath]]
-: Fellow Tarvenan free polity
+: fellow Tarvenan free polity
 
 [[place-provenzrgn|Provénzia Region]], [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
-: Major trading partners
+: major trading partners

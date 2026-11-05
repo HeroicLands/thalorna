@@ -9,7 +9,11 @@ data:
   lore: []
   parents: [aureldirgn]
   population: 3500000
-  borders: [{to: vylariargn, bearing: E}]
+  borders:
+    - {to: provenzrgn, bearing: W}
+    - {to: elavendre, bearing: N}
+    - {to: vylariargn, bearing: E}
+    - {to: vylarianse, bearing: S}
   packFolder: tarvenia
   government: kingdmtrvn
   culture: tarvenanclt
@@ -21,11 +25,15 @@ data:
 
 Tarvénia lies east of the [[place-provenzrgn|Provénzia Region]] and west of the [[place-vylariargn|Viléria Region]], a land of rugged mountains, rich coastal areas, and fiercely independent peoples. The landscape is as varied as its people—dense forests, golden beaches, and high, windswept peaks are home to small, isolated villages and proud city-states. The Tarvenans trace their lineage back to ancient warrior tribes, and their culture prizes strength, resilience, and an unshakeable sense of freedom.
 
-## Geography
+## Geography {#the-land}
 
-Tarvénia occupies the southern mainland between Provénzia to the west and Viléria to the east, with the [[place-vylarianse|Vilérian Sea]] along its southern coast. The interior is dominated by a high central plateau ringed by mountain ranges, some of which are volcanic. The southern coast is warm, dry, and dotted with prosperous port cities; the northern border with [[place-elavendre|Élavendre]] is marked by the [[place-toravarrange|Toravar Range]]—the great forested mountain belt that runs east-west across the upper country and which the [[affiliation-aelndntrbs|Áelendan tribes]] hold as sacred high country in the same way they hold the [[place-kervaron|Kervaron Spine]] to the east.
+Tarvénia is wine hills between two mountain walls. On the north and west the [[place-toravarrange|Toravar Range]] closes it: the northern arm runs east and west along the border with [[place-elavendre|Élavendre]], and the western arm runs down the frontier with [[place-provenzrgn|Provénzia]], where the passes of the [[place-westernmrch|Western March]] go over into [[place-talothe|the Talote]]. On the east the [[place-kervaron|Kervaron Spine]] divides it from the [[place-vylariargn|Viléria Region]], and the road over it comes down to [[place-kavrenath|Kávrenath]]. The south is the coast of the [[place-vylarianse|Vilérian Sea]].
 
-The climate is dominated by the Vilérian Sea—long, dry summers and mild winters in the south, cooler and wetter conditions in the north. The land is ideal for agriculture, particularly vineyards, olive groves, and grain fields. Tarvénia is a major producer of trade goods, including high-quality wines, olive oil, and textiles.
+Between the two walls the land falls from the mountains to the sea. The mountain heartland of [[place-asturath|Asturath]] fills the interior, ridge on ridge of gray limestone with narrow valleys between, and the highlands of [[place-eskarath|Eskarath]] lie under the northern arm. Below the mountains the hills begin, with the barley farms and horse fairs of the hill towns, and the eastern hills of [[place-leonrik|Lienrik]], whose south faces carry the vineyards of [[place-enthara|Enthara]]. Below the hills the lowlands of Lienrik open along the [Thalsira]{.name data-type="place/feature"}, the richest farmland in the west. In the west the hills climb into the forests of [[place-galvaren|Galvaren]], whose wet coast of drowned valleys and black cliffs faces the western reaches of the same sea.
+
+The southern coast is long and sandy, warm and dry, and its harbors are on the sea: [[place-valthari|Valthari]], the richest port in the kingdom, and the harbor towns of [[place-nebralis|Nebralis]] and [[place-herthema|Herthema]]. Where the Thalsira comes down below [[place-bruthena|Bruthena]], the shore breaks into salt marsh, mudflat and shingle.
+
+The climate is dominated by the Vilérian Sea—long, dry summers and mild winters in the south, cooler and wetter conditions in the north, and rain on most days on the Galvaren coast. The land is ideal for agriculture, particularly vineyards, olive groves, and grain fields. Tarvénia is a major producer of trade goods, including high-quality wines, olive oil, and textiles.
 
 ## Culture and Society
 
@@ -53,6 +61,14 @@ Within Tarvénia itself, the [[place-alndntrblnds#the-tarvenan-diaspora|Áelenda
 
 Tarvenan sailors and mercenaries are found across the [[place-vylarianse|Vilérian Sea]] and beyond. Their reputation as fierce fighters and skilled seafarers makes them valued (if sometimes unpredictable) allies and employees.
 
+## Current Situation {#present}
+
+The High King is old. The electing council chose [Ularrek Garrundeta]{.name data-type="being/npc"}, a lord of Asturath's high valleys, because each of the greater candidates could block the others, and he holds his court at [[place-lezkora|Lezkora]] as the guest of the king of Asturath, [Alzemo Zolduregi]{.name data-type="being/npc"}. The king of Lienrik, [Zenoth Oltris]{.name data-type="being/npc"}, means to stand at the next election, and the lowland lords have begun sending their men up the road to Lezkora one and two at a time.
+
+On the western frontier the [[lore-summerwar|Summer War]] goes on. The barons of the Western March go down the passes into the Talote every season the snow allows, and Provénzia's walls at [[place-durvalis|Durvalis]] stand on the road they use. On the eastern frontier the Warden of the March at Kávrenath holds the road over the Kervaron against smugglers and imperial deserters, and in a bad year beyond the mountains, against refugees.
+
+Valthari stands between the kingdoms and the sea trade. Lienrik pays Valthari's harbor for every cargo it ships, and Galvaren cures its catch with salt that the salt ships bring from the southern coast, which its crown sells to the curing houses at a price the shipmasters resent. In the hills around [[place-olvestria|Ólvestra]] the barons shelter [[affiliation-blackflame|the Black Flame]], and the license of [[affiliation-ordrsldwrd|the Order of the Sealed Word]] is a political question at the crowns that must renew it.
+
 ## Notable Features
 
 The Mountain Kingdoms
@@ -72,6 +88,9 @@ The Eskárathi Highlands
 [[place-durgalis|Dúrgalis]], [[place-herthema|Herthema]], [[place-nebralis|Nebralis]] and [[place-thorgila|Thórgila]]
 : the small towns that govern themselves by council
 
+[[place-asturath|Asturath]], [[place-galvaren|Galvaren]], [[place-leonrik|Lienrik]], [[place-eskarath|Eskarath]], [[place-valthari|Valthari]]
+: the lands of the three kingdoms, the free territory and the free city
+
 [[place-provenzrgn|Provénzia Region]]
 : Western neighbor and rival
 
@@ -90,8 +109,8 @@ The Eskárathi Highlands
 [[affiliation-kngdmstrth|Kingdom of Asturath]], [[affiliation-kngdmglvrn|Kingdom of Galvaren]], [[affiliation-kingdmlnrk|Kingdom of Lienrik]]
 : The three kingdoms
 
-[[affiliation-frctyvlthr|Free City of Valthari]]
-: The city-state
+[[affiliation-frctyvlthr|Free City of Valthari]], [[place-valthari|Valthari]], [[place-threskon|Threskon]]
+: The city-state, its port and its salt town
 
 [[affiliation-frtrtryskrth|Free Territory of Eskarath]]
 : Highland free territory

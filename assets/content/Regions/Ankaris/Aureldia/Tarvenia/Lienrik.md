@@ -10,6 +10,7 @@ data:
   lore: [humanflk]
   parents: [tarvenirgn]
   population: 1000000
+  borders: [{to: asturath, bearing: N}, {to: galvaren, bearing: W}, {to: vylarianse, bearing: S}]
   packFolder: tarvenia
   government: kingdmlnrk
 ---
@@ -69,6 +70,9 @@ Lienrik sends its sons abroad under contract like every other Tarvenan land, and
 
 [[place-bruthena|Bruthena]]
 : the castle town at the last bridge before the sea
+
+[[place-thornhillmnr|Thornhill Manor]]
+: a hunting manor at the southern end of the plain, near Valthari
 
 [[lore-lowlandstaken|The Lowlands Taken]]
 : the occupation that walled the towns and raised the towers

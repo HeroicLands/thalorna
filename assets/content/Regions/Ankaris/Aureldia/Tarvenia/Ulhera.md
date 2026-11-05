@@ -3,7 +3,7 @@ shortcode: ulhera
 name: {full: Ulhera}
 type: place
 subType: settlement
-description: "The cod port of Galvaren's outer coast, a town of about 9,000 at the mouth of a long drowned valley, whose half-decked boats work the Far Grounds for weeks at a time and whose masters chart the western ocean."
+description: "The cod port of Galvaren's western coast, a town of about 9,000 at the mouth of a long drowned valley, whose half-decked boats work the Far Grounds for weeks at a time and whose masters chart the sea's western reaches."
 tags: [port, town, fishing, draft]
 data:
   demonym: Ulheran
@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Ulhera is the farthest west a Tarvenan can stand without getting his feet wet. The town of about 9,000 sits at the mouth of a long, narrow inlet on the outer coast of [[place-galvaren|Galvaren]], south of [[place-durvolka|Durvolka]], where a drowned river valley runs a day's sail inland between steep wooded sides and opens onto the ocean between two bare points of rock. Its name comes from _ulhis_ (a fish), and the town is about one fish above all others: the cod of the Far Grounds, which its boats bring home split, salted and stacked in their holds after three weeks on the open ocean.
+Ulhera is the farthest west a Tarvenan can stand without getting his feet wet. The town of about 9,000 sits at the mouth of a long, narrow inlet on the western coast of [[place-galvaren|Galvaren]], south of [[place-durvolka|Durvolka]], where a drowned river valley runs a day's sail inland between steep wooded sides and opens onto the sea between two bare points of rock. Its name comes from _ulhis_ (a fish), and the town is about one fish above all others: the cod of the Far Grounds, which its boats bring home split, salted and stacked in their holds after three weeks on the open sea.
 
 Ulhera is smaller than Durvolka and rougher. It has one street along the water, a second up the hill behind it, a quay of tarred timber on stone piers, and a curing ground on the slope above the town where the split cod lies drying on racks of hazel and stone in every hour of sun the coast allows. In the drying season the only way to the upper town runs between the racks, and the smell of drying fish lies over the whole town.
 
@@ -26,7 +26,7 @@ The cod boats are the town's pride. About sixty half-decked boats of eight to tw
 
 A boy goes out as the cook at twelve and as a line-hand at fourteen. He takes a share of the catch from his first voyage, a half share at first, and a full share when the master says so in front of the crew. A master owns his boat, or owns most of it with the curing house that lent him the money, and he keeps his place in the town's roll of masters only while his boat sails each season.
 
-The masters of Ulhera know the western ocean better than anyone in [[place-tarvenirgn|Tarvénia]], and their charts are worth more than their catches. Each master keeps his own book of soundings, currents and landmarks, writes it in his own shorthand, and leaves it to his heir. The best of them have been farther west than the Far Grounds, to waters the charts of [[place-valthari|Valthari]] leave blank, and come back with stories of islands of birds, of a current that runs the wrong way and of a coast none of them could find again. Most of the navigators and explorers the [[affiliation-kngdmglvrn|Kingdom of Galvaren]] is known for learned their trade on an Ulhera cod boat.
+The masters of Ulhera know the western reaches of the sea better than anyone in [[place-tarvenirgn|Tarvénia]], and their charts are worth more than their catches. Each master keeps his own book of soundings, currents and landmarks, writes it in his own shorthand, and leaves it to his heir. The best of them have been farther west than the Far Grounds, to waters the charts of [[place-valthari|Valthari]] leave blank, and come back with stories of islands of birds, of a current that runs the wrong way and of a coast none of them could find again. Most of the navigators and explorers the [[affiliation-kngdmglvrn|Kingdom of Galvaren]] is known for learned their trade on an Ulhera cod boat.
 
 ## The Town and Its Masters
 

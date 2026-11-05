@@ -32,7 +32,7 @@ data:
             how: the watchtowers built to warn of risings are turned to face the coast, and the families who keep them charge for the light
             knowledge: named
           - place: place-valthari
-            how: the port buys a charter and its council, the Consejarath, governs it ever after
+            how: the port buys a charter and its council, the Konsezarath, governs it ever after
             knowledge: named
           - place: place-provenzrgn
             how: the Tarvénian hosts that follow the garrisons out press west on a province still imperial
@@ -76,7 +76,7 @@ The lowlands had been paying the [[affiliation-vylarinmpr|Empire]] since about 1
 
 The mountain lords had never had a king over them, and now they had a reason to elect one: the lowlands were falling away from the Empire, and somebody would take them. They met at Lezkora, elected Garvaneth, an Astúrathi lord with the largest following, and pledged him their levies for as long as it took to drive the garrisons out. The Liénriki, who had kept the Empire's watchtowers for four centuries, turned them from the highlands to the coast.
 
-The garrisons were out within seven years, and the High King found he had no silver to pay the lords who had elected him. He sold [[affiliation-frctyvlthr|Valthari]] a charter of self-government: the free city would pay him a yearly tribute and govern itself, with its own courts and its own council, the [Consejarath]{.name data-type="affiliation/governmental"}. The port had been the Empire's, and it was now the High King's, on terms the merchants could live with.
+The garrisons were out within seven years, and the High King found he had no silver to pay the lords who had elected him. He sold [[affiliation-frctyvlthr|Valthari]] a charter of self-government: the free city would pay him a yearly tribute and govern itself, with its own courts and its own council, the [Konsezarath]{.name data-type="affiliation/governmental"}. The port had been the Empire's, and it was now the High King's, on terms the merchants could live with.
 
 ## What It Left
 

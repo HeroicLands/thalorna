@@ -15,6 +15,9 @@ data:
     - {to: vylariargn, bearing: N}
     - {to: salkhalon, bearing: N}
     - {to: amradadrgn, bearing: E}
+    - {to: tarvenirgn, bearing: N}
+    - {to: leonrik, bearing: N}
+    - {to: galvaren, bearing: E}
   population: null
   packFolder: midhalion
 
@@ -39,7 +42,7 @@ The sea is a long east-west ellipse, wider at its eastern and western ends and n
 
 Hundreds of islands stud the sea. The largest—the archipelago of the [[place-taruzelrgn|Taruzel Region]] and [[place-aelwyth|Aelwyth]] (the Misty Isle) far to the west—carry substantial populations and polities of their own. The smaller ones hold fishing communities, religious orders, pirate havens, or nothing at all.
 
-The **western strait**, between [[place-tarvenirgn|Tarvénia]] and the Zerathian coast, is the sea's only connection to the open ocean. It is narrow and heavily fortified from both shores, and every serious naval plan in Midhalión for the past six hundred years has turned on it, because whoever holds the strait holds the sea's access to the wider world and a very large share of Thalorna's long-distance trade.
+The **western strait**, between [[place-provenzrgn|Provénzia]] and the Zerathian coast, is the sea's only connection to the open ocean. It is narrow and heavily fortified from both shores, and every serious naval plan in Midhalión for the past six hundred years has turned on it, because whoever holds the strait holds the sea's access to the wider world and a very large share of Thalorna's long-distance trade.
 
 The climate is warm and coastal: hot, dry summers and mild, rainy winters. The northerly winds of late summer, which Vilérian sailors call the _Aëstrai_, set the sailing year. East-to-west voyages run with them in summer, and west-to-east voyages wait for the calmer winters.
 
