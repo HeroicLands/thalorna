@@ -7,12 +7,12 @@ tags: [gm]
 data: {packFolder: threats}
 ---
 
-The [[affiliation-tantsouempr|Empire of Tantsou]] has outlasted every dynasty that ruled it, and this generation it is pressed from four sides at once: a steppe warlord in the north, a renegade archipelago in the east, rebels and secret societies within, and things out of the earth that no register ever listed. Each of the notes below is written for the GM who wants to set a story against one of them, and most of them reach into the others: the rebel general would take the warlord's help, the fallen noble house owes [[affiliation-haluozhao|the Black Lotus]], and every faction plays the [[lore-weizhairui|Wei Zhai Rui]], the court's game of manipulation, even against its allies.
+The [[affiliation-tantsouempr|Empire of Tantsou]] has outlasted every dynasty that ruled it, and this generation it is pressed from four sides at once: a steppe warlord in the north, a renegade archipelago in the east, rebels and secret societies within, and things out of the earth that no register ever listed. Each of the notes below is written for the GM who wants to set a story against one of them, and most of them reach into the others: the rebel general would take the warlord's help, the fallen noble house owes [[affiliation-haluozhao|the Black Lotus]], and every faction plays the [[lore-weizhairui|Wei Zhai Rwi]], the court's game of manipulation, even against its allies.
 
 ## War on the Frontiers
 
-[[being-wogenhenzhuo|Wogen Henzhuo]]
-: the warlord who has united the tribes of the Huenhatou, the Black Wilds (the [[lore-henhatoutsouclt|Huenhatoutsou]]), and whose riders are already raiding the northern provinces
+[[being-wogenhenzhuo|Wogen Henzhwo]]
+: the warlord who has united the tribes of the Hwenhatou, the Black Wilds (the [[lore-henhatoutsouclt|Hwenhatoutsou]]), and whose riders are already raiding the northern provinces
 
 [[doc-extrnlthrts|External Threats]]
 : [[affiliation-jenchaiempr|Jenchai]], the archipelago the empire calls Chaiwong, and the western passes
@@ -20,9 +20,9 @@ The [[affiliation-tantsouempr|Empire of Tantsou]] has outlasted every dynasty th
 ## Enemies Within
 
 [[being-tuijawengyan|Tuija Wengyan]]
-: an exiled general in open rebellion, with disaffected nobles and their Wanduo behind him
+: an exiled general in open rebellion, with disaffected nobles and their Wandwo behind him
 
-[[affiliation-yanchaizhao|Yanchai Zhao]]
+[[affiliation-yanchaizhao|Yanchai Zhau]]
 : a fallen noble house that has staked its last chance on the Black Lotus Society
 
 [[doc-intrnlsbvrsvthrts|Internal Subversive Threats]]

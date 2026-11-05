@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [thethirst], population: 0, packFolder:
 
 ## Overview
 
-The Playing House, Ts'ulam Ch'alish, is a ballcourt in [[place-thethirst|the Thirst]], larger than the great court of any city in [[place-kiichchik|Ki'ich'chik Continent]]. Two long walls of red stone face each other across a sunken alley of packed earth, each wall sloping to a high bench, with a stone ring set high in the middle of each. The court stands alone on a gravel plain with nothing built near it, and no sand lies in the alley, though the wind blows across it every afternoon. Nobody sweeps it.
+The Playing House, Ts'ulam Ch'alish, is a ballcourt in [[place-thethirst|the Thirst]], larger than the great court of any city in [[place-kiichchik|Kì'ìch'chik Continent]]. Two long walls of red stone face each other across a sunken alley of packed earth, each wall sloping to a high bench, with a stone ring set high in the middle of each. The court stands alone on a gravel plain with nothing built near it, and no sand lies in the alley, though the wind blows across it every afternoon. Nobody sweeps it.
 
 ## The Players
 

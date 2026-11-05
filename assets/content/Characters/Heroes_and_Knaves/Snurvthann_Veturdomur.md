@@ -1,6 +1,6 @@
 ---
 shortcode: snrvthnvtrdmr
-name: {full: Snurvthann Veturdómur, given: Snurvthann, clan: Veturdómur}
+name: {full: Snurvthann Veturdomur, given: Snurvthann, clan: Veturdomur}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -423,13 +423,13 @@ sohl:
 
 # Appearance {#appearance}
 
-![[snrvthnvtrdmr|Snurvthann Veturdómur]]{float=top-left}
+![[snrvthnvtrdmr|Snurvthann Veturdomur]]{float=top-left}
 
-Snurvthann Veturdómur is a man shaped by nearly five decades of exposure to wind, weather, and the unforgiving demands of his craft. At 6'1" and forty-seven winters, he carries himself with the upright posture of one accustomed to working at dangerous heights, though his frame has begun to thicken slightly through the middle—evidence of a body aging while still demanding physical labor. His tanned skin is deeply weathered, creased by sun and wind into a topography of experience. His eyes, a warm hazel touched with flecks of green, hold the patient, observant gaze of someone who reads the sky as readily as others read text. Dark brown hair, showing significant silver, is bound in a traditional wrapped braid, a style common to [[affiliation-kingdomlgn|Malagna]]'s older craftspeople. His hands are perhaps his most telling feature—broad, calloused, with the careful strength of a man accustomed to working at terrible heights where a single careless movement means death. A faded scar traces along his left ribs, a souvenir from a fall that nearly killed him twenty years past.
+Snurvthann Veturdomur is a man shaped by nearly five decades of exposure to wind, weather, and the unforgiving demands of his craft. At 6'1" and forty-seven winters, he carries himself with the upright posture of one accustomed to working at dangerous heights, though his frame has begun to thicken slightly through the middle—evidence of a body aging while still demanding physical labor. His tanned skin is deeply weathered, creased by sun and wind into a topography of experience. His eyes, a warm hazel touched with flecks of green, hold the patient, observant gaze of someone who reads the sky as readily as others read text. Dark brown hair, showing significant silver, is bound in a traditional wrapped braid, a style common to [[affiliation-kingdomlgn|Malagna]]'s older craftspeople. His hands are perhaps his most telling feature—broad, calloused, with the careful strength of a man accustomed to working at terrible heights where a single careless movement means death. A faded scar traces along his left ribs, a souvenir from a fall that nearly killed him twenty years past.
 
 # Dossier {#dossier}
 
-Snurvthann was born in a small village in the Kingdom of Malagna to [Hrindthann Veturdómur]{.name data-type="being/npc"}, a thatcher of considerable skill, and [Snirvselda]{.name data-type="being/npc"}, a woman known for her knowledge of weather-working and old folk magic. From his earliest memory, Snurvthann spent his days watching his father repair and construct roofs, learning that thatching was a demanding craft requiring an understanding of drainage, wind patterns, insulation, and the precise angle at which thatch naturally sheds water.
+Snurvthann was born in a small village in the Kingdom of Malagna to [Hrindthann Veturdomur]{.name data-type="being/npc"}, a thatcher of considerable skill, and [Snirvselda]{.name data-type="being/npc"}, a woman known for her knowledge of weather-working and old folk magic. From his earliest memory, Snurvthann spent his days watching his father repair and construct roofs, learning that thatching was a demanding craft requiring an understanding of drainage, wind patterns, insulation, and the precise angle at which thatch naturally sheds water.
 
 Apprenticed at ten years old—when many would consider him too young—Snurvthann spent ten years training under his father, gradually building the strength, balance, and nerve required to work confidently at height. At twenty, Snurvthann took his first solo commission, and by thirty, had established himself as a master craftsperson whose work outlasted anyone else's in the region. His roofs last decades longer than typical—not through superior materials but through careful craftsmanship and understanding of the craft's finer points.
 

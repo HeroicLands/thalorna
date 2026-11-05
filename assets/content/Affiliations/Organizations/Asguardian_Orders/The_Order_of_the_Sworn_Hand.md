@@ -70,7 +70,7 @@ The order claims no sovereign authority. It works inside the law of each [[place
 
 It exists because local justice in the Nordlands can be corrupted. A ting convened in the hall of the jarl whose interests are at issue is not always able to rule against him. Over centuries the kings of the five kingdoms have found it useful to keep an institution to which contested matters can be referred, and from which their own subjects can demand referral when their faith in the local ting has run out. The order does not displace local justice. It stands behind it and steps forward when called.
 
-By tradition the knights ride alone or in pairs. They wear the broken-handed sigil of [[lore-eidgardty|Eidgar]], who is said to have sacrificed his right hand to bind [[lore-vetrulfur|Vetrúlfur]], and they carry at the saddle the white wand that marks their authority to convene a ting in his name.
+By tradition the knights ride alone or in pairs. They wear the broken-handed sigil of [[lore-eidgardty|Eidgar]], who is said to have sacrificed his right hand to bind [[lore-vetrulfur|Vetrulfur]], and they carry at the saddle the white wand that marks their authority to convene a ting in his name.
 
 ## Becoming a Hand
 

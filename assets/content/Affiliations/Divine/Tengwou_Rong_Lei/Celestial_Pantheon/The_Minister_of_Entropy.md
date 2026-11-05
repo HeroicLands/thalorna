@@ -1,6 +1,6 @@
 ---
 shortcode: genhen
-name: {full: The Minister of Entropy, en: [The Bureau of Unraveling], tant: [Genhuen, Huen Sei]}
+name: {full: The Minister of Entropy, en: [The Bureau of Unraveling], tant: [Genhwen, Hwen Sei]}
 type: affiliation
 subType: faithtradition
 description: "Entropy."
@@ -47,14 +47,14 @@ data:
       - level: 7
         title: Chief Intendant
         description: >-
-          Senior mortal officer of a bureau's whole temple establishment, who signs what is transmitted upward to its Teng Gui and answers for it if the bureau rejects it.
+          Senior mortal officer of a bureau's whole temple establishment, who signs what is transmitted upward to its Teng Gwi and answers for it if the bureau rejects it.
     offices:
-      Genhuen, The Minister of Entropy: >-
-        Teng Gui of the Huen Sei, whose power is the authority of the office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
-      Huenwo: >-
+      Genhwen, The Minister of Entropy: >-
+        Teng Gwi of the Hwen Sei, whose power is the authority of the office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
+      Hwenwo: >-
         Controlled Dissolution Spirits, who execute authorized unraveling.
       Yolei: >-
-        Trickster Spirits, who inhabit the boundary between classified order and the Huenlei. Technically under Genhuen's authority and notoriously difficult to administer.
+        Trickster Spirits, who inhabit the boundary between classified order and the Hwenlei. Technically under Genhwen's authority and notoriously difficult to administer.
       Chief Intendant: >-
         Senior mortal officer of this bureau's temples, who signs what is transmitted upward.
       Registrar: >-
@@ -81,10 +81,10 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-## Genhuen—The Minister of Entropy
+## Genhwen—The Minister of Entropy
 
 Bureau
-: Huen Sei, The Bureau of Unraveling
+: Hwen Sei, The Bureau of Unraveling
 
 Domain
 : Entropy
@@ -92,7 +92,7 @@ Domain
 Parent
 : [[affiliation-tengwouronglei|Tengwou Rong Lei]]
 
-In Genhuen's teaching, somebody must be responsible for things ending, and [Dao Zhaolei]{.name data-type="lore/cosmology"}, the Great Sorting, appointed Genhuen. Huen Sei
+In Genhwen's teaching, somebody must be responsible for things ending, and [Dau Zhaulei]{.name data-type="lore/cosmology"}, the Great Sorting, appointed Genhwen. Hwen Sei
 conducts _authorized_ unraveling: the collapse of a structure that has outlived its classification,
 the failure of a lineage that should not continue, the flood that clears ground.
 
@@ -104,11 +104,11 @@ of jurisdictional gaps in the administration.
 
 ### Lesser Spirits
 
-Huenwo
+Hwenwo
 : Controlled Dissolution Spirits, who execute authorized unraveling.
 
 Yolei
-: Trickster Spirits, who inhabit the boundary between classified order and the [Huenlei]{.name data-type="lore/cosmology"}. Technically under Genhuen's authority and notoriously difficult to administer.
+: Trickster Spirits, who inhabit the boundary between classified order and the [Hwenlei]{.name data-type="lore/cosmology"}. Technically under Genhwen's authority and notoriously difficult to administer.
 
 ### See Also
 

@@ -10,7 +10,7 @@ sohl:
   system: {weightBase: 0.4, valueBase: 0, qualityBase: 0, durabilityBase: 20}
 ---
 
-Each Rain-Rod belongs to one of [[place-windstones|the Wind-Stones]] as a living held stone (_kaan'sul_): a rod of [[lore-itharisul|ithasul]] a forearm long, gray and giving, shaped for that stone and handed down in the lineage that walks it with the custodians out of [[place-mirthaan|Mirthaan]].
+Each Rain-Rod belongs to one of [[place-windstones|the Wind-Stones]] as a living held stone (_kaan-sul_): a rod of [[lore-itharisul|ithasul]] a forearm long, gray and giving, shaped for that stone and handed down in the lineage that walks it with the custodians out of [[place-mirthaan|Mirthaan]].
 
 ## What It Does
 

@@ -29,7 +29,7 @@ Tarvénia lies east of the [[place-provenzrgn|Provénzia Region]] and west of th
 
 Tarvénia is wine hills between two mountain walls. On the north and west the [[place-toravarrange|Toravar Range]] closes it: the northern arm runs east and west along the border with [[place-elavendre|Élavendre]], and the western arm runs down the frontier with [[place-provenzrgn|Provénzia]], where the passes of the [[place-westernmrch|Western March]] go over into [[place-talothe|the Talote]]. On the east the [[place-kervaron|Kervaron Spine]] divides it from the [[place-vylariargn|Viléria Region]], and the road over it comes down to [[place-kavrenath|Kávrenath]]. The south is the coast of the [[place-vylarianse|Vilérian Sea]].
 
-Between the two walls the land falls from the mountains to the sea. The mountain heartland of [[place-asturath|Asturath]] fills the interior, ridge on ridge of gray limestone with narrow valleys between, and the highlands of [[place-eskarath|Eskarath]] lie under the northern arm. Below the mountains the hills begin, with the barley farms and horse fairs of the hill towns, and the eastern hills of [[place-leonrik|Lienrik]], whose south faces carry the vineyards of [[place-enthara|Enthara]]. Below the hills the lowlands of Lienrik open along the [Thalsira]{.name data-type="place/feature"}, the richest farmland in the west. In the south-west the hills climb into the forests of [[place-galvaren|Galvaren]], whose wet coast of drowned valleys and black cliffs looks out over the western reaches of the same sea.
+Between the two walls the land falls from the mountains to the sea. The mountain heartland of [[place-asturath|Asturath]] fills the interior, ridge on ridge of gray limestone with narrow valleys between, and the highlands of [[place-eskarath|Eskarath]] lie under the northern arm. Below the mountains the hills begin, with the barley farms and horse fairs of the hill towns, and the eastern hills of [[place-leonrik|Lyenrik]], whose south faces carry the vineyards of [[place-enthara|Enthara]]. Below the hills the lowlands of Lyenrik open along the [Thalsira]{.name data-type="place/feature"}, the richest farmland in the west. In the south-west the hills climb into the forests of [[place-galvaren|Galvaren]], whose wet coast of drowned valleys and black cliffs looks out over the western reaches of the same sea.
 
 The southern coast is long and sandy, warm and dry, and its harbors are on the sea: [[place-valthari|Valthari]], the richest port in the kingdom, and the harbor towns of [[place-nebralis|Nebralis]] and [[place-herthema|Herthema]]. Where the Thalsira comes down below [[place-bruthena|Bruthena]], the shore breaks into salt marsh, mudflat and shingle.
 
@@ -39,7 +39,7 @@ The climate is dominated by the Vilérian Sea—long, dry summers and mild winte
 
 The Tarvenans are fiercely independent and proud of their heritage. In contrast to the more refined and cultured people of Provénzia, they are known for their strength, resilience, and deeply entrenched sense of personal and communal freedom. Many of the great warriors and military leaders of [[place-ankrscntnnt|Ankaris]] come from Tarvénia, and the region is home to skilled tacticians, mercenaries, and raiders.
 
-Politically, Tarvénia is a patchwork of semi-autonomous regions united under the loose authority of the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]. Three petty kingdoms—[[affiliation-kngdmstrth|Asturath]] (the mountainous heartland), [[affiliation-kngdmglvrn|Galvaren]] (the misty south-western shore), and [[affiliation-kingdmlnrk|Lienrik]] (the fertile central lowlands)—share power with the [[affiliation-frctyvlthr|Free City of Valthari]] (a merchant port on the southern coast) and the [[affiliation-frtrtryskrth|Free Territory of Eskarath]] (an ancient highland people on the Élavendren border). They share a common language and a history of both collaboration and rivalry. The people of Tarvénia are united by their warrior culture and their defiance of outside rule—a trait that has made them difficult subjects for every empire that has tried to conquer them. Even the [[affiliation-vylarinmpr|Vilérian Empire]] at its height struggled to hold Tarvénia: it took the lowlands about 140 AF ([[lore-lowlandstaken|The Lowlands Taken]]), lost a legion in the mountains ([[lore-horngorgebtl|The Horn Gorge]]), and was driven out of the lowlands by the first High King, elected for the purpose ([[lore-tarvfallsawy|Tarvénia Falls Away]]).
+Politically, Tarvénia is a patchwork of semi-autonomous regions united under the loose authority of the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]. Three petty kingdoms—[[affiliation-kngdmstrth|Asturath]] (the mountainous heartland), [[affiliation-kngdmglvrn|Galvaren]] (the misty south-western shore), and [[affiliation-kingdmlnrk|Lyenrik]] (the fertile central lowlands)—share power with the [[affiliation-frctyvlthr|Free City of Valthari]] (a merchant port on the southern coast) and the [[affiliation-frtrtryskrth|Free Territory of Eskarath]] (an ancient highland people on the Élavendren border). They share a common language and a history of both collaboration and rivalry. The people of Tarvénia are united by their warrior culture and their defiance of outside rule—a trait that has made them difficult subjects for every empire that has tried to conquer them. Even the [[affiliation-vylarinmpr|Vilérian Empire]] at its height struggled to hold Tarvénia: it took the lowlands about 140 AF ([[lore-lowlandstaken|The Lowlands Taken]]), lost a legion in the mountains ([[lore-horngorgebtl|The Horn Gorge]]), and was driven out of the lowlands by the first High King, elected for the purpose ([[lore-tarvfallsawy|Tarvénia Falls Away]]).
 
 Social structure varies by region. Coastal cities tend toward merchant oligarchies, while inland kingdoms are more traditionally feudal. Across Tarvénia, however, there is a strong tradition of communal assembly where freemen have a voice in local governance.
 
@@ -63,11 +63,11 @@ Tarvenan sailors and mercenaries are found across the [[place-vylarianse|Viléri
 
 ## Current Situation {#present}
 
-The High King is old. The electing council chose [Ularrek Garrundeta]{.name data-type="being/npc"}, a lord of Asturath's high valleys, because each of the greater candidates could block the others, and he holds his court at [[place-lezkora|Lezkora]] as the guest of the king of Asturath, [Alzemo Zolduregi]{.name data-type="being/npc"}. The king of Lienrik, [Zenoth Oltris]{.name data-type="being/npc"}, means to stand at the next election, and the lowland lords have begun sending their men up the road to Lezkora one and two at a time.
+The High King is old. The electing council chose [Ularrek Garrundeta]{.name data-type="being/npc"}, a lord of Asturath's high valleys, because each of the greater candidates could block the others, and he holds his court at [[place-lezkora|Lezkora]] as the guest of the king of Asturath, [Alzemo Zolduregi]{.name data-type="being/npc"}. The king of Lyenrik, [Zenoth Oltris]{.name data-type="being/npc"}, means to stand at the next election, and the lowland lords have begun sending their men up the road to Lezkora one and two at a time.
 
 On the western frontier the [[lore-summerwar|Summer War]] goes on. The barons of the Western March go down the passes into the Talote every season the snow allows, and Provénzia's walls at [[place-durvalis|Durvalis]] stand on the road they use. On the eastern frontier the Warden of the March at Kávrenath holds the road over the Kervaron against smugglers and imperial deserters, and in a bad year beyond the mountains, against refugees.
 
-Valthari stands between the kingdoms and the sea trade. Lienrik pays Valthari's harbor for every cargo it ships, and Galvaren cures its catch with salt that the salt ships bring from the southern coast, which its crown sells to the curing houses at a price the shipmasters resent. In the hills around [[place-olvestria|Ólvestra]] the barons shelter [[affiliation-blackflame|the Black Flame]], and the license of [[affiliation-ordrsldwrd|the Order of the Sealed Word]] is a political question at the crowns that must renew it.
+Valthari stands between the kingdoms and the sea trade. Lyenrik pays Valthari's harbor for every cargo it ships, and Galvaren cures its catch with salt that the salt ships bring from the southern coast, which its crown sells to the curing houses at a price the shipmasters resent. In the hills around [[place-olvestria|Ólvestra]] the barons shelter [[affiliation-blackflame|the Black Flame]], and the license of [[affiliation-ordrsldwrd|the Order of the Sealed Word]] is a political question at the crowns that must renew it.
 
 ## Notable Features
 
@@ -88,7 +88,7 @@ The Eskárathi Highlands
 [[place-durgalis|Dúrgalis]], [[place-herthema|Herthema]], [[place-nebralis|Nebralis]] and [[place-thorgila|Thórgila]]
 : the small towns that govern themselves by council
 
-[[place-asturath|Asturath]], [[place-galvaren|Galvaren]], [[place-leonrik|Lienrik]], [[place-eskarath|Eskarath]], [[place-valthari|Valthari]]
+[[place-asturath|Asturath]], [[place-galvaren|Galvaren]], [[place-leonrik|Lyenrik]], [[place-eskarath|Eskarath]], [[place-valthari|Valthari]]
 : the lands of the three kingdoms, the free territory and the free city
 
 [[place-provenzrgn|Provénzia Region]]
@@ -106,7 +106,7 @@ The Eskárathi Highlands
 [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]
 : Polity details
 
-[[affiliation-kngdmstrth|Kingdom of Asturath]], [[affiliation-kngdmglvrn|Kingdom of Galvaren]], [[affiliation-kingdmlnrk|Kingdom of Lienrik]]
+[[affiliation-kngdmstrth|Kingdom of Asturath]], [[affiliation-kngdmglvrn|Kingdom of Galvaren]], [[affiliation-kingdmlnrk|Kingdom of Lyenrik]]
 : The three kingdoms
 
 [[affiliation-frctyvlthr|Free City of Valthari]], [[place-valthari|Valthari]], [[place-threskon|Threskon]]

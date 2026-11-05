@@ -3,7 +3,7 @@ shortcode: ixilankulrgn
 name: {full: Ish'ilankul Region}
 type: place
 subType: region
-description: "The highland plateau of volcanic peaks, terraced valleys and pyramid-temples that is the land of Ish'ilankul, at the heart of Central Ki'ich'chik."
+description: "The highland plateau of volcanic peaks, terraced valleys and pyramid-temples that is the land of Ish'ilankul, at the heart of Central Kì'ìch'chik."
 tags: [region]
 data:
   culture: kiichchikclt
@@ -19,11 +19,11 @@ data:
 
 ## Overview
 
-Ish'ilankul Region is the land of [[affiliation-ixilankul|Ish'ilankul]], and lies within [[place-centralkiichchik|Central Ki'ich'chik]] on the [[place-kiichchik|Ki'ich'chik Continent]].
+Ish'ilankul Region is the land of [[affiliation-ixilankul|Ish'ilankul]], and lies within [[place-centralkiichchik|Central Kì'ìch'chik]] on the [[place-kiichchik|Kì'ìch'chik Continent]].
 
 A vast plateau region dominated by highland valleys and volcanic peaks, Ish'ilankul has served as the cradle of the [[affiliation-itzanpnthn|Itsani faith]] and the seat of the Ch'alish Tq'an, the supreme high priest who mediates between the celestial gods and mortal kingdoms. It is here that the grandest pyramid-temples rise from the earth, their summits crowned with observatories where the Ch'alishbal (ordained priests) calculate the movements of the heavens and chart the inexorable march of the vigesimal calendar. The very stones of Ish'ilankul are said to remember the age of creation, when [[lore-piqalkulqatdty|P'iqal Kul'qat]], god of creation, first sang the world into being.
 
-The soil is rich, watered by seasonal rains and engineered canal systems, permitting populations far larger than those found in any other region of the central heartland. This abundance fuels both the ambition and the appetite for blood sacrifice, for the Ish'ilankul Ki'ich'chik believe that the more elaborate and numerous their offerings to the cosmic gods, the more securely they bind the sun to its path and keep the world from descending into chaos.
+The soil is rich, watered by seasonal rains and engineered canal systems, permitting populations far larger than those found in any other region of the central heartland. This abundance fuels both the ambition and the appetite for blood sacrifice, for the Ish'ilankul Kì'ìch'chik believe that the more elaborate and numerous their offerings to the cosmic gods, the more securely they bind the sun to its path and keep the world from descending into chaos.
 
 ## Geography
 
@@ -37,11 +37,11 @@ Water sources—sinkholes, mountain springs, and engineered reservoirs—hold sa
 
 The most powerful include Kul'taq'an (the "Seat of the Priests"), where the Ch'alish Tq'an traditionally resides and where the most elaborate astronomical observations are conducted; Ishtal'hun (the "Place of Obsidian Blood"), a center of ritual warfare and the training of elite captive-warriors; and [[place-tsamash|Tsa'mash]] (the "Stone Heart"), a merchant republic famous for its great market plazas and its control of cacao-producing highlands to the south.
 
-At the heart of Kul'taq'an lies [[place-tzomalchalix|the Sacred Foundation]] (Ts'omal Ch'alish), the holiest site in all of Ki'ich'chik—the precinct where P'iqal Kul'qat is believed to have first breathed the world into existence at the dawn of the [First Age]{.name data-type="lore/cosmology"}. The precinct is centered on an ancient volcanic vent from which warm, mineral-laden vapors still rise, regarded by the priesthood as the living breath of the creator god. Around this vent, the greatest pyramid in Ki'ich'chik rises—the [[place-tsultelchalish|Ts'ultel Ch'alish]] ("Sacred Mountain")—a monumental structure of nine ascending tiers that represents the nine layers of the heavens through which the sun climbs each day. Only the Ch'alish Tq'an and the most senior Ch'alishbal may ascend to the summit, where the vapors of creation mingle with the open sky and where the supreme rites of the [Celestial Recurrence]{.name data-type="lore/theology"} are performed. Every Ki'ich'chik person, from the highest Ts'enmah to the lowest bound laborer, is expected to make pilgrimage to Ts'omal Ch'alish at least once in their lifetime. The great festivals of the calendar year—particularly the [K'ayik Kul'al]{.name data-type="lore/custom"} ("the Living Flame") that marks the turning of the 52-year cycle—draw hundreds of thousands of pilgrims from every corner of the civilized world, transforming Kul'taq'an into a sea of humanity stretching to the horizon. To have stood in the shadow of the Ts'ultel Ch'alish and breathed the vapors of creation is to have touched the divine; to die without having made the journey is, in Ki'ich'chik theology, to face the gods with an incomplete soul.
+At the heart of Kul'taq'an lies [[place-tzomalchalix|the Sacred Foundation]] (Ts'omal Ch'alish), the holiest site in all of Kì'ìch'chik—the precinct where P'iqal Kul'qat is believed to have first breathed the world into existence at the dawn of the [First Age]{.name data-type="lore/cosmology"}. The precinct is centered on an ancient volcanic vent from which warm, mineral-laden vapors still rise, regarded by the priesthood as the living breath of the creator god. Around this vent, the greatest pyramid in Kì'ìch'chik rises—the [[place-tsultelchalish|Ts'ultel Ch'alish]] ("Sacred Mountain")—a monumental structure of nine ascending tiers that represents the nine layers of the heavens through which the sun climbs each day. Only the Ch'alish Tq'an and the most senior Ch'alishbal may ascend to the summit, where the vapors of creation mingle with the open sky and where the supreme rites of the [Celestial Recurrence]{.name data-type="lore/theology"} are performed. Every Kì'ìch'chik person, from the highest Ts'enmah to the lowest bound laborer, is expected to make pilgrimage to Ts'omal Ch'alish at least once in their lifetime. The great festivals of the calendar year—particularly the [K'ayik Kul'al]{.name data-type="lore/custom"} ("the Living Flame") that marks the turning of the 52-year cycle—draw hundreds of thousands of pilgrims from every corner of the civilized world, transforming Kul'taq'an into a sea of humanity stretching to the horizon. To have stood in the shadow of the Ts'ultel Ch'alish and breathed the vapors of creation is to have touched the divine; to die without having made the journey is, in Kì'ìch'chik theology, to face the gods with an incomplete soul.
 
 ## Trade
 
-Ish'ilankul's central position on the plateau, combined with its enormous population and religious authority, makes it the premier trading hub of the Ki'ich'chik heartland. Obsidian from the volcanic slopes flows outward to [[affiliation-kankul|K'ankul]], [[affiliation-neokbaate|Ne'ok Ba'ate]], and [[affiliation-xelem|Shelem]] in the form of ritual blades, mirrors, and ceremonial objects. Cacao, grown in the rich soils of the southern highlands, is processed and distributed by Ish'ilankul merchants who jealously guard the recipes for sacred preparations. Textiles dyed with cochineal and woven with elaborate geometric patterns bearing the seals of the Ts'enmah command prices that only nobles in the tributary states can afford.
+Ish'ilankul's central position on the plateau, combined with its enormous population and religious authority, makes it the premier trading hub of the Kì'ìch'chik heartland. Obsidian from the volcanic slopes flows outward to [[affiliation-kankul|K'ankul]], [[affiliation-neokbaate|Ne'ok Ba'ate]], and [[affiliation-xelem|Shelem]] in the form of ritual blades, mirrors, and ceremonial objects. Cacao, grown in the rich soils of the southern highlands, is processed and distributed by Ish'ilankul merchants who jealously guard the recipes for sacred preparations. Textiles dyed with cochineal and woven with elaborate geometric patterns bearing the seals of the Ts'enmah command prices that only nobles in the tributary states can afford.
 
 In return, Ish'ilankul imports rare woods from the southern jungles, aromatic incense resins from the coasts, and salt harvested from coastal evaporation ponds. The great market plazas of Kul'taq'an and Tsa'mash operate on a rotating 20-day cycle synchronized with the vigesimal calendar, drawing merchants, tribute-bearers, and pilgrims from across the known world. The volume of trade is staggering—estimates suggest that thousands of transactions occur daily in the largest plazas—and the Ts'enmah grow wealthy on market fees and the taxation of merchant guilds.
 
@@ -62,7 +62,7 @@ The plateau quarrels over what a war is for. Its cities fight the captive-hunt, 
 [[affiliation-ixilankul|Ish'ilankul]]
 : The realm that holds this land
 
-[[place-centralkiichchik|Central Ki'ich'chik]]
+[[place-centralkiichchik|Central Kì'ìch'chik]]
 : The enclosing region
 
 [[place-ixilankul2|Ish'ilankul]]

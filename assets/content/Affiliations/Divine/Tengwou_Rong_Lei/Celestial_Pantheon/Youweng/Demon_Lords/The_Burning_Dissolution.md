@@ -1,6 +1,6 @@
 ---
 shortcode: nuoho
-name: {full: The Burning Dissolution, en: [The Unmaker], tant: [Nuoho]}
+name: {full: The Burning Dissolution, en: [The Unmaker], tant: [Nwoho]}
 type: affiliation
 subType: criminal
 description: "Destruction."
@@ -56,30 +56,30 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-## Nuoho—The Burning Dissolution
+## Nwoho—The Burning Dissolution
 
-In the Nuoho cultus, where [[affiliation-nuowo|Nuowo]]'s Bureau of Returns (Nuo Sei) recycles dissolved things back into the classification system, and [[affiliation-zhenho|Zhinho]]'s Bureau of Transformation (Ho Sei) governs fire as a tool of purification and transmission, [[lore-nuohodty|Nuoho]] represents the catastrophic fusion of both functions. It is fire that does not purify but annihilates—dissolution that does not recycle but erases. Things consumed by Nuoho do not return to their elemental categories for reuse. They simply cease to be classified at all, falling back into the [Huenlei]{.name data-type="lore/cosmology"} as raw, unprocessed potential.
+In the Nwoho cultus, where [[affiliation-nuowo|Nwowo]]'s Bureau of Returns (Nwo Sei) recycles dissolved things back into the classification system, and [[affiliation-zhenho|Zhinho]]'s Bureau of Transformation (Ho Sei) governs fire as a tool of purification and transmission, [[lore-nuohodty|Nwoho]] represents the catastrophic fusion of both functions. It is fire that does not purify but annihilates—dissolution that does not recycle but erases. Things consumed by Nwoho do not return to their elemental categories for reuse. They simply cease to be classified at all, falling back into the [Hwenlei]{.name data-type="lore/cosmology"} as raw, unprocessed potential.
 
-The [[lore-tanchei|Tanchei]] teach that Nuoho was born from a jurisdictional failure: a moment in the early cycles of the celestial administration when the Bureau of Returns and the Bureau of Transformation issued contradictory directives regarding the same cosmic material. The resulting conflict—dissolution and transformation applied simultaneously to the same thing—produced an entity that embodies both functions taken to their most destructive extreme.
+The [[lore-tanchei|Tanchei]] teach that Nwoho was born from a jurisdictional failure: a moment in the early cycles of the celestial administration when the Bureau of Returns and the Bureau of Transformation issued contradictory directives regarding the same cosmic material. The resulting conflict—dissolution and transformation applied simultaneously to the same thing—produced an entity that embodies both functions taken to their most destructive extreme.
 
-Nuoho is invoked (never worshipped) by those who wish to destroy something so completely that the celestial administration itself loses track of it. This is, needless to say, illegal under celestial law. The equivalent of [[affiliation-sekran|The Arcane Inquisition]] (the Sekran) within the Tantsou system—the Celestial Marshals (Teng Wozhuo)—treat any evidence of Nuoho invocation as a matter of the highest urgency.
+Nwoho is invoked (never worshipped) by those who wish to destroy something so completely that the celestial administration itself loses track of it. This is, needless to say, illegal under celestial law. The equivalent of [[affiliation-sekran|The Arcane Inquisition]] (the Sekran) within the Tantsou system—the Celestial Marshals (Teng Wozhwo)—treat any evidence of Nwoho invocation as a matter of the highest urgency.
 
-### Mortal Cultus: The Nuotsou Rui
+### Mortal Cultus: The Nwotsou Rwi
 
-The orthodox Tantheological claim that Nuoho is "invoked, never worshipped" has become empirically false. The [[affiliation-nuotsourui|Nuotsou Rui]]—the Cult of the Forsaken—has taken Nuoho as its primary celestial patron, and it worships the Unmaker openly within its secret gatherings. The cult's doctrine of _destruction total and everlasting_ is a direct invocation of Nuoho's domain: the dissolution that does not feed a cycle of renewal, the fire that annihilates without remainder. The cult's suicide incendiaries, its archive burnings, and its public atrocities at festivals are all dedicated to Nuoho, and the small rituals its operatives perform before a strike invoke the Unmaker's name.
+The orthodox Tantheological claim that Nwoho is "invoked, never worshipped" has become empirically false. The [[affiliation-nuotsourui|Nwotsou Rwi]]—the Cult of the Forsaken—has taken Nwoho as its primary celestial patron, and it worships the Unmaker openly within its secret gatherings. The cult's doctrine of _destruction total and everlasting_ is a direct invocation of Nwoho's domain: the dissolution that does not feed a cycle of renewal, the fire that annihilates without remainder. The cult's suicide incendiaries, its archive burnings, and its public atrocities at festivals are all dedicated to Nwoho, and the small rituals its operatives perform before a strike invoke the Unmaker's name.
 
 The Celestial Marshals are aware of this development and regard it as the single most alarming religious innovation within the empire's borders in centuries. Imperial suppression of the cult has, to date, been unsuccessful.
 
 ### See Also
 
-[[affiliation-nuotsourui|Nuotsou Rui]]
-: The cult that has taken Nuoho as its primary patron
+[[affiliation-nuotsourui|Nwotsou Rwi]]
+: The cult that has taken Nwoho as its primary patron
 
 [[affiliation-youweng|Youweng]]
 : The Demon Realm
 
 [[affiliation-tengwouronglei|Tengwou Rong Lei]]
-: The Celestial Bureaucracy whose failures produced Nuoho
+: The Celestial Bureaucracy whose failures produced Nwoho
 
 ## Outside the Ladder
 

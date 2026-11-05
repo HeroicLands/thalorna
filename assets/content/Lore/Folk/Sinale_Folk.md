@@ -121,9 +121,9 @@ Why the Sinale have opened themselves to the Élavendren and no other human peop
 
 The [[affiliation-tantsouempr|Empire of Tantsou]] represents a different kind of relationship—one that the Sinale appear to have entered not out of affinity but under some form of coercion or obligation. The details are obscure even by Sinalean standards, and western scholars know almost nothing about it. What is clear is that the Sinalean enclaves within Tantsou's borders maintain a degree of formal contact with the imperial court that exists nowhere else in the world—not even in Élavendre. Whether this was negotiated, compelled, or arose from circumstances that predate human memory is a question the Sinale will not answer and the [Celestial Bureaucracy]{.name data-type="affiliation/governmental"} considers settled. The arrangement is ancient, and it endures. The Sinale of Tantsou are a case of their own: the empire files them in its caste order, and nothing said of the Sinale elsewhere settles how they stand there.
 
-### Ki'ich'chik
+### Kì'ìch'chik
 
-The Sinale keep three conclaves in [[place-kiichchik|Ki'ich'chik]]: [[place-hersellonku|Hersellonku]] in a deep pine forest of the north, [[place-lirnasto|Lirnasto]] in the jungle of the central lowlands and [[place-ilkaivesto|Ilkaivesto]] in a swamp of the south, just north of the wastes. Their contact with the peoples there is the thinnest of any of these exceptions. The Sinale of the conclaves have little to do with humans and give their attention to the country they live in. The one arrangement is an understanding with the realm of [[affiliation-kankul|K'ankul]], whose people stay out of Lirnasto's jungle and do not disturb those who live there. The peoples near the other two conclaves keep away from them without any arrangement at all.
+The Sinale keep three conclaves in [[place-kiichchik|Kì'ìch'chik]]: [[place-hersellonku|Hersellonku]] in a deep pine forest of the north, [[place-lirnasto|Lirnasto]] in the jungle of the central lowlands and [[place-ilkaivesto|Ilkaivesto]] in a swamp of the south, just north of the wastes. Their contact with the peoples there is the thinnest of any of these exceptions. The Sinale of the conclaves have little to do with humans and give their attention to the country they live in. The one arrangement is an understanding with the realm of [[affiliation-kankul|K'ankul]], whose people stay out of Lirnasto's jungle and do not disturb those who live there. The peoples near the other two conclaves keep away from them without any arrangement at all.
 
 ## See Also
 
@@ -136,7 +136,7 @@ The Sinale keep three conclaves in [[place-kiichchik|Ki'ich'chik]]: [[place-hers
 [[affiliation-tantsouempr|Empire of Tantsou]]
 : Formal contact, possibly coerced; see [[lore-elderraces|Elder Races]]
 
-[[place-kiichchik|Ki'ich'chik]]
+[[place-kiichchik|Kì'ìch'chik]]
 : Three conclaves, a northern forest, a central jungle and a southern swamp
 
 [[place-vrystwald|Vristwald Region]]

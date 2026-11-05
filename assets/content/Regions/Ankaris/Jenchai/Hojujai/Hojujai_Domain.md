@@ -14,30 +14,30 @@ data:
   governance:
     model: autocracy
     summary: >-
-      Held of the Emperor by patent in the name of the Daozhuo Hojujai Zija, who is fourteen, and governed from Yanwu by his mother Hojujai Rewei as regent.
+      Held of the Emperor by patent in the name of the Dauzhwo Hojujai Zija, who is fourteen, and governed from Yanwu by his mother Hojujai Rewei as regent.
     ranks:
       - level: 0
         title: Outlaw
         description: >-
-          One stripped of the Daozhuo's patent protection, who may be taken or killed with no appeal.
+          One stripped of the Dauzhwo's patent protection, who may be taken or killed with no appeal.
       - level: 1
         title: Subject
         description: >-
-          Lives or holds land under the Daozhuo of Hojujai.
+          Lives or holds land under the Dauzhwo of Hojujai.
       - level: 2
         title: Retainer
         description: >-
-          Serves the Daozhuo for a stipend in bales or a village held as a fief, and commands the domain's soldiers and ships.
+          Serves the Dauzhwo for a stipend in bales or a village held as a fief, and commands the domain's soldiers and ships.
       - level: 3
-        title: Shuizhuo
+        title: Shwizhwo
         description: >-
-          Holds one to three villages of the domain and owes the Daozhuo men in war.
+          Holds one to three villages of the domain and owes the Dauzhwo men in war.
       - level: 4
         title: Heir
         description: >-
-          The Daozhuo's named successor, who climbs the mountain for him when he cannot.
+          The Dauzhwo's named successor, who climbs the mountain for him when he cannot.
       - level: 5
-        title: Daozhuo
+        title: Dauzhwo
         description: >-
           Holds Hojai by the Emperor's patent, with his own army, fleet, justice and taxes.
     offices: {}
@@ -52,7 +52,7 @@ data:
 sohl: {system: {commonSkills: [jurthatlng]}}
 ---
 
-The Hojujai Domain, held by House Hojujai (Hot Spring Place), holds [[place-hojai|Hojai]] (Fire Peak), the most active mountain of the Nine, in the south of the great island, by patent of the Emperor. The Daozhuo is [Hojujai Zija]{.name data-type="being/npc"} (Star Blade), fourteen years old, and the domain is governed in his name by his mother [Hojujai Rewei]{.name data-type="being/npc"} (Dawn Jade), thirty-eight, widow of the last Teng Ja, who has held it for him since 709 AF. She sits in the castle town of [[place-yanwu|Yanwu]] (Cloud Hall), population 6,000. The domain holds 92,000 people, is assessed at 70,000 bales a year, and musters 1,750 men and 20 ships. Hojujai leads the loyalist bloc.
+The Hojujai Domain, held by House Hojujai (Hot Spring Place), holds [[place-hojai|Hojai]] (Fire Peak), the most active mountain of the Nine, in the south of the great island, by patent of the Emperor. The Dauzhwo is [Hojujai Zija]{.name data-type="being/npc"} (Star Blade), fourteen years old, and the domain is governed in his name by his mother [Hojujai Rewei]{.name data-type="being/npc"} (Dawn Jade), thirty-eight, widow of the last Teng Ja, who has held it for him since 709 AF. She sits in the castle town of [[place-yanwu|Yanwu]] (Cloud Hall), population 6,000. The domain holds 92,000 people, is assessed at 70,000 bales a year, and musters 1,750 men and 20 ships. Hojujai leads the loyalist bloc.
 
 ## The Land
 
@@ -64,13 +64,13 @@ The roll names three villages here; smaller terraces and hamlets, each under its
 | ------- | ---------------- | ------------ | --------------------------------------- | --------------------------------------- | -------: |
 | Fanu    | Fortune Terraces | Court estate | The Emperor, through the lord's granary | Rice on ash soil, the best in the realm |    2,200 |
 | Yanju   | Cloud Spring     | Demesne      | The lord's granary at Yanwu             | Hot springs, bathhouses and sulfur      |    1,500 |
-| Weinu   | Jade Terraces    | Fief         | A Shuizhuo of the domain                | Rice                                    |    2,600 |
+| Weinu   | Jade Terraces    | Fief         | A Shwizhwo of the domain                | Rice                                    |    2,600 |
 
 The summit shrine of Hojai is provisioned from the lord's villages, and its Tanchei keep the mountain record on which the house's claim to heaven's favor rests.
 
 ## Retainers
 
-Rewei holds the keys of the castle and its granary and decides in her son's name, and the retainers who serve her are the household of the last Teng Ja. They serve the house for stipends in bales or for villages held as fiefs. The Shuizhuo who holds [Weinu]{.name data-type="place/settlement"} owes the house men in war.
+Rewei holds the keys of the castle and its granary and decides in her son's name, and the retainers who serve her are the household of the last Teng Ja. They serve the house for stipends in bales or for villages held as fiefs. The Shwizhwo who holds [Weinu]{.name data-type="place/settlement"} owes the house men in war.
 
 ## Muster
 

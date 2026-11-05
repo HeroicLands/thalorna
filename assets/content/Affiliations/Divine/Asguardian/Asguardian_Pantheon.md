@@ -63,7 +63,7 @@ The Asguardian Pantheon is the dominant faith of the northern and coastal people
 | Elder Races, Dreams & Light             | [[lore-bjarturdty\|Bjart]]             | The Radiant One      | Sunstone and silver leaf                                       | [[affiliation-bjartur\|Faith of Bjart]]             |
 | Fertility, Agriculture, Peace & Healing | [[lore-frodvindty\|Frodvin]]           | The Healer           | Sheaf of wheat and healing herb bundle                         | [[affiliation-frodvin\|Faith of Frodvin]]           |
 | Love, Beauty & Prosperity               | [[lore-solrundty\|Solrún]]             | The Golden One       | Rose petal and silver coin                                     | [[affiliation-solrun\|Faith of Solrún]]             |
-| Cunning, Deception & Thieves            | [[lore-velgrimurdty\|Velgrímur]]       | The Trickster        | Serpent skin and shadowed glass                                | [[affiliation-velgrimur\|Faith of Velgrímur]]       |
+| Cunning, Deception & Thieves            | [[lore-velgrimurdty\|Velgrimur]]       | The Trickster        | Serpent skin and shadowed glass                                | [[affiliation-velgrimur\|Faith of Velgrimur]]       |
 | Knowledge & Wisdom                      | [[lore-odvardty\|Odvar]]               | The All-Father       | Raven feather and runestone                                    | [[affiliation-odvar\|Faith of Odvar]]               |
 | Fire & Savage Battle                    | [[lore-svartbrandurdty\|Svartbrandur]] | The Destroyer        | Ember and volcanic rock                                        | [[affiliation-svartbrandur\|Faith of Svartbrandur]] |
 | War, Reavers & Sea                      | [[lore-thrunvalddty\|Thrunvald]]       | The Thunderer        | Hammer stone ([[lore-thrunhamarr\|Thrúnhamarr]]) and sea shell | [[affiliation-thrunvald\|Faith of Thrunvald]]       |
@@ -143,7 +143,7 @@ Bjart keeps light/
 and dreams of elders./
 Mótefnir makes;/
 his making stays unfinished./
-Velgrímur bends cunning/
+Velgrimur bends cunning/
 round firm held certainty./
 Nahild despises/
 what the living love./
@@ -286,7 +286,7 @@ Eldheim opens;/
 Svartbrandur rides forth./
 Fire-kin follow;/
 burning goes before him./
-[[lore-vetrulfur|Vetrúlfur]] slips free;/
+[[lore-vetrulfur|Vetrulfur]] slips free;/
 the wolf-winter follows./
 The chain cannot hold/
 the world's last cold.
@@ -299,7 +299,7 @@ The dead draw up/
 beside defending gods./
 The field promises/
 no triumph to them./
-Velgrímur stands/
+Velgrimur stands/
 with Svartbrandur against kin./
 Cunning has turned/
 at the time of ending./
@@ -438,7 +438,7 @@ bjart halv bjartma/
 ok dvulskensa ok dvul na alva./
 mótefnir smiv, motna./
 smivma na hanv stavi, smol, nel lurmi./
-velgrímur bugna velhug/
+velgrimur bugna velhug/
 rund fast halvna steldi, fasttrun./
 nahild skorna, naarva,/
 hnat livri lufna./
@@ -581,7 +581,7 @@ eldheim skif, skath./
 svartbrandur reidna ut, svarti./
 kinma na eldva felga framri./
 eldva gang framri fralm hanv, farn./
-vetrúlfur vendri frildi./
+vetrulfur vendri frildi./
 veth na ulfva felga, vrul./
 balv nel kan halv, brakri,/
 lest svulma na gronma, lurvi.
@@ -594,7 +594,7 @@ falgva stann inn lanma, lang,/
 siv vronda asva, vrast./
 vangri eidna, vredi,/
 noll blimma tiv thenva, noll bak./
-velgrímur stann, vakti,/
+velgrimur stann, vakti,/
 miv svartbrandur tiv kinma ok kinband./
 velhug vendri/
 at thima na lest lorka./
@@ -708,7 +708,7 @@ Between these four, each faith maintains its own calendar of high rites—the [F
 
 ## The Cosmic Struggle: Aldarlok
 
-The defining eschatological claim of the Asguardian faith is that the present age is not eternal. At some appointed time—a time the skalds describe in terms so specific that it cannot be a myth and so elusive that it cannot be a date—the world will come to a contest from which it cannot be saved by half-measures. The chained will slip their chains, the burning realm will open, Vetrúlfur the Winter-Wolf will come loose, and Svartbrandur will ride out of Eldheim with his fire-kin at his heel, and the final battle will be joined.
+The defining eschatological claim of the Asguardian faith is that the present age is not eternal. At some appointed time—a time the skalds describe in terms so specific that it cannot be a myth and so elusive that it cannot be a date—the world will come to a contest from which it cannot be saved by half-measures. The chained will slip their chains, the burning realm will open, Vetrulfur the Winter-Wolf will come loose, and Svartbrandur will ride out of Eldheim with his fire-kin at his heel, and the final battle will be joined.
 
 In the standard telling, the defending gods and the Valdrengir will muster on the plain of Vigvoll. Odvar will fall to the wolf, and the wolf will fall to his son. Thrunvald will strike Heimsormur the World-Wyrm and take nine steps and die of its venom. Eidgar will meet his long-chained adversary, the hound [[lore-dulmvargur|Dulmvargur]], and both will be destroyed together. Frodvin will fight Svartbrandur himself and be cut down, and Svartbrandur will then burn the world and everything in it, and the tree itself will fall. Out of the ashes a remnant will rise and a remade world will be kindled from the coals, but the pantheon that now stands will not stand to see it—what stands in the new age will be their heirs, the [[lore-tvelgaett|Tvelgaett]], not themselves.
 
@@ -722,7 +722,7 @@ In the sagas, Svartbrandur and Eidgar stand in permanent opposition, destruction
 
 Odvar and Solrún share the rulership of the honored dead: half of the slain go to Valsal to serve under the All-Father, half to Solvangur to sit at Solrún's tables. This division is treated as amicable in the old tellings, but it conceals a theological tension the skalds do not always name—the old god of rune and war does not entirely trust the seid-craft that his sister-wife has made her own, and Solrún does not entirely forgive him for the ways he has misused it. They work together; they do not love each other.
 
-Thrunvald and [[lore-velgrimurdty|Velgrímur]] are the pantheon's strangest pairing. The Trickster is Thrunvald's traveling companion in a dozen sagas, his foil, his occasional rescuer, his frequent embarrassment. The faithful of Thrunvald treat Velgrímur with suspicion bordering on hostility, but Thrunvald himself—in the mythic record—keeps him close. The [[lore-skipskreld|Skipskreld]], the Midsomar flyting of the Nordheim havens, ends on the trickster asking why, and the Thunderer's two-line answer is the nearest the songs come to a reason: [Today you are in the boat./Take the other oar.]{.verse} The rune-priests teach that Velgrímur is necessary: the world is held together as much by the cunning that bends as by the strength that breaks, and the pantheon would be poorer for his absence. At Aldarlok, however, the cunning will finally run out, and Velgrímur will stand with Svartbrandur against his kin. The faithful know this and honor Velgrímur anyway.
+Thrunvald and [[lore-velgrimurdty|Velgrimur]] are the pantheon's strangest pairing. The Trickster is Thrunvald's traveling companion in a dozen sagas, his foil, his occasional rescuer, his frequent embarrassment. The faithful of Thrunvald treat Velgrimur with suspicion bordering on hostility, but Thrunvald himself—in the mythic record—keeps him close. The [[lore-skipskreld|Skipskreld]], the Midsomar flyting of the Nordheim havens, ends on the trickster asking why, and the Thunderer's two-line answer is the nearest the songs come to a reason: [Today you are in the boat./Take the other oar.]{.verse} The rune-priests teach that Velgrimur is necessary: the world is held together as much by the cunning that bends as by the strength that breaks, and the pantheon would be poorer for his absence. At Aldarlok, however, the cunning will finally run out, and Velgrimur will stand with Svartbrandur against his kin. The faithful know this and honor Velgrimur anyway.
 
 Nahild stands apart from the other gods, her hatred of life itself placing her at odds with the entire pantheon. In these accounts, she draws her power from [[lore-ginnauga|Ginnauga]], the Eye of the Void, a primordial artifact of raw corruption and a source of [[lore-theshadow|the Shadow]], and commands legions of undead—[[lore-nagengir|Nágengir]] and [[lore-haugverdir|Hrúmverdir]]—in her ceaseless war against the living. Her clergy are suppressed in every Asguardian kingdom; her hovs are hidden; her offerings are refused by the community. She is the only member of the Ten whose worship the pantheon itself regards as heretical, and her faith survives only because the appetites she serves—rage, grief unadmitted, envy unresolved—survive in every generation of mortals.
 
@@ -738,4 +738,4 @@ With the peoples of the [[place-vedyarargn|Vedyara Region]] and the [[affiliatio
 
 With Sinalean worship of [[lore-goddreams|the God of Dreams]], Asguardian relations are close and old. The human worshippers of Bjart have adopted the Sinalean clergy structure outright—the only Asguardian faith to do so—and the cooperation between the elder-race priesthoods and the northern human faithful is the single most visible link between human religion and the pre-human religious traditions of Thalorna. Where the [[lore-flksinale|Sinale]] have withdrawn from most of the human world, the Bjart clergy remain a living bridge, and the north's rune-priests count that bridge as one reason their faith has not grown as provincial as, they say, the Aureldian traditions have in their southern heartland.
 
-With [[affiliation-tharivaan|Thári'vaan]], the non-theistic tradition of [[affiliation-kalihara|Kalihara]], there is no relationship at all—Asguardian vessels do not reach that far, and Kalihara's interior does not welcome foreign priests. The rare Asguardian merchant who has seen the port city temples of [[place-ilovanu|Ilovanu]] reports only that the Kaliharans "have no gods, and do not seem to miss them," which the Asguardian theologians find incomprehensible.
+With [[affiliation-tharivaan|Thári-vaan]], the non-theistic tradition of [[affiliation-kalihara|Kalihara]], there is no relationship at all—Asguardian vessels do not reach that far, and Kalihara's interior does not welcome foreign priests. The rare Asguardian merchant who has seen the port city temples of [[place-ilovanu|Ilovanu]] reports only that the Kaliharans "have no gods, and do not seem to miss them," which the Asguardian theologians find incomprehensible.

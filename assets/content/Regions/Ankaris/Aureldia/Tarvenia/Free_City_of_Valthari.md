@@ -123,7 +123,7 @@ The Masters of a Trade elect their Guild Masters, who speak for the trades befor
 
 The High King has not come down to his hall at [[place-lezkora|Lezkora]] for a month. When a High King dies, the next swears the terms of the crown, and the city's charter is one of them; Valthari sends a councilor to hear it sworn and pays the new king the year's tribute ([[affiliation-kingdmtrvn|Kingdom of Tarvénia]]). The Konsezarath is divided over whether to pay that and no more, or to back the lord most likely to win.
 
-Closer to home, the seamen of the port refuse to sign on until the ship-owning houses raise the crew's share. The city's neighbors have their own grievances against its houses: the wine growers of [[place-enthara|Enthara]] are in debt to them, the King of Lienrik will not let them dig a channel past the toll at [[place-bruthena|Bruthena]], and the crown of [[place-galvaren|Galvaren]] buys its salt from the city's coast and quarrels with its price ([[place-valthari|Valthari]], [[place-threskon|Threskon]]).
+Closer to home, the seamen of the port refuse to sign on until the ship-owning houses raise the crew's share. The city's neighbors have their own grievances against its houses: the wine growers of [[place-enthara|Enthara]] are in debt to them, the King of Lyenrik will not let them dig a channel past the toll at [[place-bruthena|Bruthena]], and the crown of [[place-galvaren|Galvaren]] buys its salt from the city's coast and quarrels with its price ([[place-valthari|Valthari]], [[place-threskon|Threskon]]).
 
 ## Law {#law}
 
@@ -142,7 +142,7 @@ The city's charter frees it from the High King's levies, and it keeps its own fo
 
 Free City of Valthari uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Free City of Valthari is a post-imperial commonwealth member: it participates fully in the trade and banking infrastructure of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
-Wine, olive oil, grain, wool and iron go out through the harbor; spices, silk, luxury goods and coin come in. The city's houses buy most of what [[place-leonrik|Lienrik]] sells to the world, at prices Valthari sets, and Lienrik pays the city's harbor dues on every cargo it ships.
+Wine, olive oil, grain, wool and iron go out through the harbor; spices, silk, luxury goods and coin come in. The city's houses buy most of what [[place-leonrik|Lyenrik]] sells to the world, at prices Valthari sets, and Lyenrik pays the city's harbor dues on every cargo it ships.
 
 ## Faith {#faith}
 
@@ -161,7 +161,7 @@ The coast was imperial before it was free. The legions took the southern coast a
 
 Valthari is everything the mountain lords of [[affiliation-kngdmstrth|Asturath]] distrust: wealthy, cosmopolitan and thoroughly mercantile. Culturally the city is more cosmopolitan than the rest of Tarvénia. Provenzal is widely spoken alongside Tarveni, Taruzeli merchants keep their own quarter, and the city's architecture blends Tarvenan stone-and-iron practicality with Provénzian elegance. The mountain lords consider Valthari soft and foreign-tainted; Valthari considers the mountain lords provincial and broke. Both assessments contain a grain of truth.
 
-The city and [[affiliation-kingdmlnrk|Lienrik]] depend on each other entirely and like each other very little: the city buys the lowlands' harvest, and Lienrik's crown takes a toll on it at [[place-bruthena|Bruthena]]'s bridge. [[affiliation-kngdmglvrn|Galvaren]] buys its salt from the southern coast. Abroad, the city's best customers are the [[place-provenzrgn|Provénzia Region]] and the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], and Valthari is one of the ports where Aureldian and Midhalión traders meet on neutral ground.
+The city and [[affiliation-kingdmlnrk|Lyenrik]] depend on each other entirely and like each other very little: the city buys the lowlands' harvest, and Lyenrik's crown takes a toll on it at [[place-bruthena|Bruthena]]'s bridge. [[affiliation-kngdmglvrn|Galvaren]] buys its salt from the southern coast. Abroad, the city's best customers are the [[place-provenzrgn|Provénzia Region]] and the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], and Valthari is one of the ports where Aureldian and Midhalión traders meet on neutral ground.
 
 ## See Also
 
@@ -180,7 +180,7 @@ The city and [[affiliation-kingdmlnrk|Lienrik]] depend on each other entirely an
 [[place-tarvenirgn|Tarvénia Region]]
 : regional overview
 
-[[affiliation-kngdmstrth|Kingdom of Asturath]], [[affiliation-kngdmglvrn|Kingdom of Galvaren]], [[affiliation-kingdmlnrk|Kingdom of Lienrik]]
+[[affiliation-kngdmstrth|Kingdom of Asturath]], [[affiliation-kngdmglvrn|Kingdom of Galvaren]], [[affiliation-kingdmlnrk|Kingdom of Lyenrik]]
 : the three kingdoms
 
 [[affiliation-frtrtryskrth|Free Territory of Eskarath]]

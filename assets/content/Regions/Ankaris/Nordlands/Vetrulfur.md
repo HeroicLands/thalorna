@@ -1,6 +1,6 @@
 ---
 shortcode: vetrulfur
-name: {full: Vetrúlfur, en: [The Winter-Wolf]}
+name: {full: Vetrulfur, en: [The Winter-Wolf]}
 type: lore
 subType: theology
 description: "The Winter-Wolf chained at the cost of Eidgar’s hand and released at Aldarlok."
@@ -8,11 +8,11 @@ tags: [asguardian]
 data: {packFolder: nordlands, culture: nordheimnclt}
 ---
 
-On the last night of [[lore-jol|Jel]], when the skald comes to the part of the telling where the chain parts, the hall goes still. "The Winter-Wolf," the skald says, "the one the Just One paid his hand for." **Vetrúlfur** is the Winter-Wolf, chained by [[lore-eidgardty|Eidgar]] at the cost of the god's own hand, in the age before any ting met to recite the deed.
+On the last night of [[lore-jol|Jel]], when the skald comes to the part of the telling where the chain parts, the hall goes still. "The Winter-Wolf," the skald says, "the one the Just One paid his hand for." **Vetrulfur** is the Winter-Wolf, chained by [[lore-eidgardty|Eidgar]] at the cost of the god's own hand, in the age before any ting met to recite the deed.
 
 The [[affiliation-eidgar|Faith of Eidgar]] reads that sacrifice as the whole of its teaching about law: a binding costs the binder first. [[affiliation-eidhond|The Order of the Sworn Hand]] carries the broken-handed sigil in memory of it.
 
-In the standard telling of [[lore-aldarlok|Aldarlok]], Vetrúlfur slips his chain and the wolf-winter comes down. [[lore-odvardty|Odvar]] falls to the wolf, and the wolf falls to Odvar's son, [Aldvar]{.name data-type="lore/deity"}, the first of the [[lore-tvelgaett|Tvelgaett]].
+In the standard telling of [[lore-aldarlok|Aldarlok]], Vetrulfur slips his chain and the wolf-winter comes down. [[lore-odvardty|Odvar]] falls to the wolf, and the wolf falls to Odvar's son, [Aldvar]{.name data-type="lore/deity"}, the first of the [[lore-tvelgaett|Tvelgaett]].
 
 The Winter-Wolf is one of two chained beasts, and the other belongs to Eidgar's own end rather than Odvar's. [[lore-dulmvargur|Dulmvargur]], the hound chained at the landing of [[place-nulthey|Nulthey]], is the one that destroys Eidgar and is destroyed with him.
 

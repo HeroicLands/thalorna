@@ -24,7 +24,7 @@ Near the current-stones the currents set across the wind and run wrong for anyon
 
 ## The Holding
 
-Custodians formed at [[place-thalari|Thal'ari]] tend the stone, as they tend the current-stones of every coast. The pilots who keep their boats on Telvari answer to the Warden of the Approaches. A foreign ship waits for her pilot off the town, with the islet between her and the stone.
+Custodians formed at [[place-thalari|Thal-ari]] tend the stone, as they tend the current-stones of every coast. The pilots who keep their boats on Telvari answer to the Warden of the Approaches. A foreign ship waits for her pilot off the town, with the islet between her and the stone.
 
 ## The Failing
 
@@ -45,7 +45,7 @@ Telvari is reached by sea, and the stone is a walk across the islet from the tow
 [[place-telvari|Telvari]]
 : the pilots' islet the stone stands on
 
-[[place-thalari|Thal'ari]]
+[[place-thalari|Thal-ari]]
 : the sanctuary that forms the custodians of the coast
 
 [[place-vaelukoa|Vaelukoa]]

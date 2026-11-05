@@ -3,7 +3,7 @@ shortcode: tenlayargn
 name: {full: Tenlaya Region}
 type: place
 subType: region
-description: "The great grassland and its migrating herds, the river villages and the dry country beyond the mountains—the land of the Grass People, at the center of Northern Ki'ich'chik."
+description: "The great grassland and its migrating herds, the river villages and the dry country beyond the mountains—the land of the Grass People, at the center of Northern Kì'ìch'chik."
 tags: [region]
 data:
   culture: tenlayaclt
@@ -19,7 +19,7 @@ data:
 
 ## Overview
 
-Tenlaya Region is the land of the [[affiliation-tenlaya|Tenlaya]], the Grass People, and lies within [[place-northkiichchik|Northern Ki'ich'chik]] on the [[place-kiichchik|Ki'ich'chik Continent]]. It is a sea of grass and sky at the center of the north, where the horizon runs out of sight in every direction and the herds move across it by the tens of thousands. About 300,000 people live in it, most of them in hunting bands that follow the herds and the rest in villages of earth lodges on the river bottoms. Beyond the western mountains it runs on into dry plateaus and basins, which the western bands hold.
+Tenlaya Region is the land of the [[affiliation-tenlaya|Tenlaya]], the Grass People, and lies within [[place-northkiichchik|Northern Kì'ìch'chik]] on the [[place-kiichchik|Kì'ìch'chik Continent]]. It is a sea of grass and sky at the center of the north, where the horizon runs out of sight in every direction and the herds move across it by the tens of thousands. About 300,000 people live in it, most of them in hunting bands that follow the herds and the rest in villages of earth lodges on the river bottoms. Beyond the western mountains it runs on into dry plateaus and basins, which the western bands hold.
 
 The region holds four countries. The [[place-hesunshewanrgn|Village River]] runs through its middle, with the earth-lodge villages on its terraces. The [[place-wehioshtergn|Cairn Plain]] is the high, dry grass under the western mountains, crossed by the drive lanes. The [[place-watotenlargn|Long Grass]] is the wet eastern prairie toward the eastern forests and the valley of the great river. Beyond the mountains lie the [[place-potontayuntorgn|Root Fields]], the dry plateaus of the western bands.
 
@@ -51,7 +51,7 @@ The bands trade with the villages above all: meat, fat, robes and hides for corn
 [[lore-tenlayaclt|Tenlaya]]
 : the culture of the bands and the villages
 
-[[place-northkiichchik|Northern Ki'ich'chik]]
+[[place-northkiichchik|Northern Kì'ìch'chik]]
 : the enclosing region
 
 [[place-hesunshewanrgn|Village River]]

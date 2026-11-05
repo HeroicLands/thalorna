@@ -1,6 +1,6 @@
 ---
 shortcode: northkiichchik
-name: {full: Northern Ki'ich'chik}
+name: {full: Northern Kì'ìch'chik}
 type: place
 subType: region
 description: "Five rival nations bound by the Red Stone Compact, two peoples outside it, and the desert that lets only a trickle of the south through."
@@ -25,13 +25,13 @@ data:
 
 ## Overview
 
-Northern Ki'ich'chik is the part of the continent that the southern city-states do not rule and barely know: everything north of the desert of [[place-chakultzklrgn|Ch'akul Tsa'kul]], from the lake country of the northeast to the cedar coast of the west. Five nations hold most of it, rivals with standing grievances who are bound by one agreement, the [[affiliation-redstncmpct|Red Stone Compact]], to stand together when an outsider comes. Two smaller peoples on the western coast and in the far northwest stay outside it. About 3,500,000 people live in the north: the One Fire holds 1,500,000 of them and the Maple People 750,000, the [[affiliation-shuqash|Shell-Bead People]] 350,000, the Grass People 300,000, the Cedar People 200,000, the Turquoise People 150,000 and the [[affiliation-tikupilarit|Ice-Edge People]] 50,000, while about 200,000 more live in boreal and other bands outside every polity.
+Northern Kì'ìch'chik is the part of the continent that the southern city-states do not rule and barely know: everything north of the desert of [[place-chakultzklrgn|Ch'akul Tsa'kul]], from the lake country of the northeast to the cedar coast of the west. Five nations hold most of it, rivals with standing grievances who are bound by one agreement, the [[affiliation-redstncmpct|Red Stone Compact]], to stand together when an outsider comes. Two smaller peoples on the western coast and in the far northwest stay outside it. About 3,500,000 people live in the north: the One Fire holds 1,500,000 of them and the Maple People 750,000, the [[affiliation-shuqash|Shell-Bead People]] 350,000, the Grass People 300,000, the Cedar People 200,000, the Turquoise People 150,000 and the [[affiliation-tikupilarit|Ice-Edge People]] 50,000, while about 200,000 more live in boreal and other bands outside every polity.
 
 The north is a land of copper and maize, longhouse and mound, buffalo jump and great house, and none of it is written. Its peoples keep their law, their treaties and their histories in memory, and they refuse the speech and the glyphs of the south.
 
 ## The Nations of the Compact
 
-Each nation is a confederacy of many towns or bands that share a family of languages and a set of rites. None of them is a single state, and each has its own factions. Each is listed under the name these pages give it. The [[skill-kiichek|Ki'i'chek]] name beside it is the one the south's merchants gave, from the animals on its war-standards and camp-markings.
+Each nation is a confederacy of many towns or bands that share a family of languages and a set of rites. None of them is a single state, and each has its own factions. Each is listed under the name these pages give it. The [[skill-kiichek|Kì'ì'chek]] name beside it is the one the south's merchants gave, from the animals on its war-standards and camp-markings.
 
 [[affiliation-osetakona|Maple People]]
 : Osetakona in their own tongue, the people of the maple, and Shik'ul Ch'akal in the south's, the Otter People. Eight nations of palisaded longhouse villages in the northeastern lakes and forests, joined in a league they call the Grove and governed by consensus councils whose speakers the clan mothers name and depose. The Maple People are the compact's diplomats and its memory, and they distrust kings on principle.
@@ -92,7 +92,7 @@ North of the Maple People and the grasslands lies the [[place-kawiskakrgn|Kawisk
 [[affiliation-tikupilarit|Tikupilarit]]
 : the Ice-Edge People, the sea hunters of the far northwest outside the compact
 
-[[place-kiichchik|Ki'ich'chik Continent]]
+[[place-kiichchik|Kì'ìch'chik Continent]]
 : the continent
 
 [[place-hanalxilanrgn|Ha'nal Shi'lan]]
@@ -104,5 +104,5 @@ North of the Maple People and the grasslands lies the [[place-kawiskakrgn|Kawisk
 [[place-chakultzklrgn|Ch'akul Tsa'kul]]
 : the desert between north and south
 
-[[place-centralkiichchik|Central Ki'ich'chik]]
+[[place-centralkiichchik|Central Kì'ìch'chik]]
 : the heartland of the southern city-states

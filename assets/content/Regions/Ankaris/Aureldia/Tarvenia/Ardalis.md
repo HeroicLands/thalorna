@@ -32,7 +32,7 @@ Ardalis makes three things for the world outside, and makes them well:
 - **Bolt-heads,** by the barrel, sold to the companies and to every lord who owes the ban.
 - **Swords,** fewer and dearer, made to order for a lord or a captain who can wait a season.
 
-The town sells nothing raw. An Ardalis smith will sell a lowland merchant a hundred bows and refuse him a single bar of iron. The rule is the town's oldest, and it is the miners' and the smiths' together: the miners sell their ore only to the forges, the forges buy only from the miners, and the price is fixed each autumn at the stream's edge before witnesses. Merchants from the [[affiliation-kingdmlnrk|Kingdom of Lienrik]] offer more for the iron than the forges pay, every year, and every year the miners say no.
+The town sells nothing raw. An Ardalis smith will sell a lowland merchant a hundred bows and refuse him a single bar of iron. The rule is the town's oldest, and it is the miners' and the smiths' together: the miners sell their ore only to the forges, the forges buy only from the miners, and the price is fixed each autumn at the stream's edge before witnesses. Merchants from the [[affiliation-kingdmlnrk|Kingdom of Lyenrik]] offer more for the iron than the forges pay, every year, and every year the miners say no.
 
 ## Who Rules
 

@@ -14,30 +14,30 @@ data:
   governance:
     model: autocracy
     summary: >-
-      Held of the Emperor by patent by the Daozhuo Rinjai Hoja, who sits at Rinwu, is sworn to Shuiwojai Henzo, and governs the lesser island through his retainers and the headmen of its villages.
+      Held of the Emperor by patent by the Dauzhwo Rinjai Hoja, who sits at Rinwu, is sworn to Shuiwojai Henzo, and governs the lesser island through his retainers and the headmen of its villages.
     ranks:
       - level: 0
         title: Outlaw
         description: >-
-          One stripped of the Daozhuo's protection and put outside the island's law, with no appeal.
+          One stripped of the Dauzhwo's protection and put outside the island's law, with no appeal.
       - level: 1
         title: Subject
         description: >-
-          Lives or holds land under the Daozhuo of Rinjai.
+          Lives or holds land under the Dauzhwo of Rinjai.
       - level: 2
         title: Retainer
         description: >-
-          Serves the Daozhuo for a stipend in bales or a village held as a fief, and commands the domain's soldiers and ships.
+          Serves the Dauzhwo for a stipend in bales or a village held as a fief, and commands the domain's soldiers and ships.
       - level: 3
-        title: Shuizhuo
+        title: Shwizhwo
         description: >-
-          Holds one to three villages of the domain and owes the Daozhuo men in war.
+          Holds one to three villages of the domain and owes the Dauzhwo men in war.
       - level: 4
         title: Heir
         description: >-
-          The Daozhuo's named successor, who climbs the mountain for him when he cannot.
+          The Dauzhwo's named successor, who climbs the mountain for him when he cannot.
       - level: 5
-        title: Daozhuo
+        title: Dauzhwo
         description: >-
           Holds Rinjai by the Emperor's patent, with his own army, fleet, justice and taxes.
     offices: {}
@@ -52,7 +52,7 @@ data:
 sohl: {system: {commonSkills: [jurthatlng]}}
 ---
 
-The Rinjai Domain, held by House Rinjai (Red Peak), holds [[place-rinjai|Rinjai]], the mountain of the lesser island at the strait's mouth, by patent of the Emperor. Its lord is the Daozhuo [Rinjai Hoja]{.name data-type="being/npc"} (Fire Blade), twenty-nine years old, who sits in the castle town of [[place-rinwu|Rinwu]] (Red Hall), population 3,000. The domain holds 41,000 people, is assessed at 26,000 bales a year, and musters 650 men and 25 ships. Hoja is sworn to [Shuiwojai Henzo]{.name data-type="being/npc"}, and Rinjai stands with [The Strait]{.name data-type="affiliation"} bloc.
+The Rinjai Domain, held by House Rinjai (Red Peak), holds [[place-rinjai|Rinjai]], the mountain of the lesser island at the strait's mouth, by patent of the Emperor. Its lord is the Dauzhwo [Rinjai Hoja]{.name data-type="being/npc"} (Fire Blade), twenty-nine years old, who sits in the castle town of [[place-rinwu|Rinwu]] (Red Hall), population 3,000. The domain holds 41,000 people, is assessed at 26,000 bales a year, and musters 650 men and 25 ships. Hoja is sworn to [Shuiwojai Henzo]{.name data-type="being/npc"}, and Rinjai stands with [The Strait]{.name data-type="affiliation"} bloc.
 
 ## The Land
 
@@ -64,13 +64,13 @@ Rinjai's roll names the three villages below; smaller terraces and landings unde
 | ------- | -------------- | ------------ | --------------------------------------- | ------------------------------- | -------: |
 | Jawo    | Blade Sea      | Demesne      | The lord's granary at Rinwu             | The raiders' harbor             |      700 |
 | Hennu   | Tiger Terraces | Court estate | The Emperor, through the lord's granary | Rice                            |    1,100 |
-| Sudu    | Serpent Road   | Fief         | A Shuizhuo of the domain                | The switchback road over Rinjai |      900 |
+| Sudu    | Serpent Road   | Fief         | A Shwizhwo of the domain                | The switchback road over Rinjai |      900 |
 
 The summit shrine of Rinjai is provisioned from the lord's villages, and its Tanchei keep the mountain record for a house that holds the sea gate of the realm.
 
 ## Retainers
 
-The Wohou of Rinjai serve the house for stipends in bales, and the retainers are first of all captains: a household's standing is measured in hulls. The Shuizhuo who holds [Sudu]{.name data-type="place/settlement"} keeps the switchback road over the mountain and owes the lord men in war.
+The Wohou of Rinjai serve the house for stipends in bales, and the retainers are first of all captains: a household's standing is measured in hulls. The Shwizhwo who holds [Sudu]{.name data-type="place/settlement"} keeps the switchback road over the mountain and owes the lord men in war.
 
 ## Fleet and Muster
 

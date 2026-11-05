@@ -60,5 +60,5 @@ The tribute rolls show every subject town paying in full, and they are false. Th
 [[place-ixilankulrgn|Ish'ilankul Region]]
 : the plateau and its cities
 
-[[place-centralkiichchik|Central Ki'ich'chik]]
+[[place-centralkiichchik|Central Kì'ìch'chik]]
 : the four realms of the heartland

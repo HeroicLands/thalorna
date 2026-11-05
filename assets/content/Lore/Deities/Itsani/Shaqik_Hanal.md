@@ -16,11 +16,11 @@ She is the newest of the Ten, formally elevated to divine status within the last
 
 ## Worship
 
-Her worship permeates daily life. Mothers bring children to springs or sacred pools for anointing and prayers for health, young women desiring to conceive make pilgrimages to the pools for ritual bathing, and healers perform cleansing rituals with blessed water before treating the sick. At birth a midwife, understood as her earthly representative, guides the new person into existence, and the first thing a newborn receives is water on the lips. That rite makes a Ki'i'chek Water-Marked and a member of the faith.
+Her worship permeates daily life. Mothers bring children to springs or sacred pools for anointing and prayers for health, young women desiring to conceive make pilgrimages to the pools for ritual bathing, and healers perform cleansing rituals with blessed water before treating the sick. At birth a midwife, understood as her earthly representative, guides the new person into existence, and the first thing a newborn receives is water on the lips. That rite makes a Kì'ì'chek Water-Marked and a member of the faith.
 
 The major ceremony is the [Ts'uqal Ne']{.name data-type="lore/custom"} ("Moon Water"), held at the first full moon of the rainy season, when all water sources are formally blessed by processions of women carrying flowers, incense and jade. She is given little blood and a great deal of water: offerings are flowers, incense, jade and clean water.
 
-Her priesthood is almost entirely female. The Ch'alish Ha'nal (Keeper of Waters) is chief healer of the city-state, birth priestesses attend all significant births, and healing priestesses maintain gardens of medicinal plants near water sources. Their archives of healing knowledge make them the most advanced practitioners of medicine in Ki'i'chek civilization.
+Her priesthood is almost entirely female. The Ch'alish Ha'nal (Keeper of Waters) is chief healer of the city-state, birth priestesses attend all significant births, and healing priestesses maintain gardens of medicinal plants near water sources. Their archives of healing knowledge make them the most advanced practitioners of medicine in Kì'ì'chek civilization.
 
 ## Relations
 

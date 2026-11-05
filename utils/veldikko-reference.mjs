@@ -74,7 +74,13 @@ export function veldikkoTable(fonts = resolveScriptFonts(process.cwd())) {
  */
 export function convertVeldikko(text, table = veldikkoTable()) {
     const { letters, vowels, signs } = table;
-    const s = Array.from(text.normalize("NFC").toLowerCase());
+    // A glide w before o or i is the vowel u it glides from: wo and wi are the pairs uo and ui.
+    const s = Array.from(
+        text
+            .normalize("NFC")
+            .toLowerCase()
+            .replace(/w(?=[oi])/gu, "u"),
+    );
     const out = [];
     let wordStart = true;
     let afterNucleus = false; // the last thing written was a vowel nucleus

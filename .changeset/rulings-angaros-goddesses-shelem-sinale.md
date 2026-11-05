@@ -5,11 +5,11 @@
 **Peoples and cultures**
 
 - Angaros's page says the fire-temple priesthood names him among the twelve gods but keeps no fire for him, and that his worshippers are the forbidden cult cells.
-- Nal'ik Ts'uqal and Weizhuo are goddesses on their deity pages, as they are on their faiths' pages.
+- Nal'ik Ts'uqal and Weizhwo are goddesses on their deity pages, as they are on their faiths' pages.
 
 **Places**
 
-- Shelem Ish'bal's compendium folder sits among the regions of Southern Ki'ich'chik and describes it as a waste no one rules.
+- Shelem Ish'bal's compendium folder sits among the regions of Southern Kì'ìch'chik and describes it as a waste no one rules.
 
 **Languages and scripts**
 

@@ -3,7 +3,7 @@ shortcode: osetakonargn
 name: {full: Osetakona Region}
 type: place
 subType: region
-description: "Lakes, rivers, portage routes and maple forest running to the eastern ocean—the land of the Maple People, in Northern Ki'ich'chik."
+description: "Lakes, rivers, portage routes and maple forest running to the eastern ocean—the land of the Maple People, in Northern Kì'ìch'chik."
 tags: [region]
 data:
   culture: osetakonaclt
@@ -19,7 +19,7 @@ data:
 
 ## Overview
 
-Osetakona Region is the land of the [[affiliation-osetakona|Osetakona]], the Maple People, and lies within [[place-northkiichchik|Northern Ki'ich'chik]] on the [[place-kiichchik|Ki'ich'chik Continent]]. It is a country of lakes joined by rivers and portages, and of hardwood and pine forest, running from the inland seas of the west to the rocky shores of the eastern ocean. About 750,000 people live in it, in the palisaded villages of the eight nations of the Grove.
+Osetakona Region is the land of the [[affiliation-osetakona|Osetakona]], the Maple People, and lies within [[place-northkiichchik|Northern Kì'ìch'chik]] on the [[place-kiichchik|Kì'ìch'chik Continent]]. It is a country of lakes joined by rivers and portages, and of hardwood and pine forest, running from the inland seas of the west to the rocky shores of the eastern ocean. About 750,000 people live in it, in the palisaded villages of the eight nations of the Grove.
 
 ## Geography
 
@@ -67,7 +67,7 @@ The Maple People's canoes carry copper, furs, maple sugar and dried fish along t
 [[affiliation-osetakona|Osetakona]]
 : the Maple People, the nation that holds this land
 
-[[place-northkiichchik|Northern Ki'ich'chik]]
+[[place-northkiichchik|Northern Kì'ìch'chik]]
 : the enclosing region
 
 [[place-ostakaten|Ostakaten]]

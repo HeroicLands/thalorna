@@ -71,7 +71,7 @@ Alzemo Zolduregi shelters the court and keeps the gate. The High King owes the k
 
 ### Enemies
 
-Zenoth Oltris, the king of Lienrik, means to stand at the next election and is sending lowland lords up the road to Lezkora one and two at a time. The greater candidates who lost to Ularrek remember that he won only by blocking.
+Zenoth Oltris, the king of Lyenrik, means to stand at the next election and is sending lowland lords up the road to Lezkora one and two at a time. The greater candidates who lost to Ularrek remember that he won only by blocking.
 
 ### Affiliations
 

@@ -42,7 +42,7 @@ The custodians hold that [[place-sulvaan|the Warm]] keeps the Ring's mountains a
 [[place-klhrkthrgap|The Kuethori Gap]]
 : the one break in the Ring
 
-[[place-thalari|Thal'ari]]
+[[place-thalari|Thal-ari]]
 : the sanctuary on the Ring's western slopes
 
 [[place-kaliharargn|Kalihara Region]]

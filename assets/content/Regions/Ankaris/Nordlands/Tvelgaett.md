@@ -18,7 +18,7 @@ The heirs keep no hovs, take no blet and confer no standing. Nobody in this age 
 
 ## The Three Every Hall Names
 
-In the halls' tellings, [Aldvar]{.name data-type="lore/deity"} is [[lore-odvardty|Odvar]]'s son, and the silent one. His name is the ward of the age, and he speaks no word in any telling until the last day. When [[lore-vetrulfur|Vetrúlfur]] the Winter-Wolf takes his father, Aldvar goes to the wolf, sets his foot in the lower jaw and his hands to the upper, and tears the mouth that swallowed wisdom; then he walks out of the fire with nothing to say. The rune-halls read him as the answer to the bargain his father made at [[lore-minnir|Minnir]]'s well: Odvar paid an eye to learn his death, and his son is what that death could not take.
+In the halls' tellings, [Aldvar]{.name data-type="lore/deity"} is [[lore-odvardty|Odvar]]'s son, and the silent one. His name is the ward of the age, and he speaks no word in any telling until the last day. When [[lore-vetrulfur|Vetrulfur]] the Winter-Wolf takes his father, Aldvar goes to the wolf, sets his foot in the lower jaw and his hands to the upper, and tears the mouth that swallowed wisdom; then he walks out of the fire with nothing to say. The rune-halls read him as the answer to the bargain his father made at [[lore-minnir|Minnir]]'s well: Odvar paid an eye to learn his death, and his son is what that death could not take.
 
 [Hamarberi]{.name data-type="lore/deity"} is [[lore-thrunvalddty|Thrunvald]]'s daughter, the hammer-bearer. When the Thunderer has struck [[lore-heimsormur|Heimsormur]], walked his nine steps and fallen, [[lore-thrunhamarr|Thrúnhamarr]] lies on the field where he dropped it, and she is the one who lifts it. The coastal hovs tell that she carries it out of the fire still warm, and that the first thunder of the new age is the hammer set down on new ground.
 
@@ -40,7 +40,7 @@ The heirs give the north its idea of what a death is for. A man's heir drinks th
 [[lore-aldarhringur|Aldarhringur]]
 : the ring of ages, and why every age has heirs
 
-[[lore-vetrulfur|Vetrúlfur]]
+[[lore-vetrulfur|Vetrulfur]]
 : the Winter-Wolf Aldvar kills
 
 [[lore-thrunhamarr|Thrúnhamarr]]

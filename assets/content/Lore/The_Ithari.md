@@ -18,7 +18,7 @@ sites say nothing.
 **The name itself is in the [[skill-kalihrlng|Kalihari Language]].** _Ithari_ means "Those Who Came Before," it is what the Kaliharans
 called them, and it is spoken nowhere else on the world, because nowhere else is there anything to
 attach it to. It is not their name for themselves—**no Ithari word exists**, and none ever has in
-anybody's keeping. [[affiliation-tharivaan|Thári'vaan]], [[lore-itharisul|ithasul]], Ithakan: every term in this account is Kalihari, a
+anybody's keeping. [[affiliation-tharivaan|Thári-vaan]], [[lore-itharisul|ithasul]], Ithakan: every term in this account is Kalihari, a
 Kaliharan word for a Kaliharan thing. Nobody has ever heard an Ithari name for the people, for a
 place, for an instrument, or for one of themselves. Neither is it recorded what they looked like, how
 many of them there were, how long any one of them lived, or whether the word names a people, a
@@ -234,12 +234,12 @@ and they did it once.
 
 What they made there was not a people improved but a civilization invented: agriculture, medicine,
 governance, a vocabulary for all of it, and
-[[affiliation-tharivaan|Thári'vaan]]—a disciplined account of the world as a single living whole,
+[[affiliation-tharivaan|Thári-vaan]]—a disciplined account of the world as a single living whole,
 to be observed and tended rather than mastered or appeased. It arrived complete. Nothing on Kalihara
 shows the long clumsy ascent that every other human tradition shows, because there was not one.
 
 Why is not recorded. The Kaliharans hold that they were taught because teaching was the right way to
-treat what the Ithari found, and that Thári'vaan is true independently of who first said it. Set beside
+treat what the Ithari found, and that Thári-vaan is true independently of who first said it. Set beside
 the scatter of works elsewhere, the island reads less like a gift than an instrument—a society built
 to a specification, settled on a landmass its makers never expanded beyond, and handed the maintenance
 of installations whose purpose it was never told. Both readings fit every fact in evidence, and the

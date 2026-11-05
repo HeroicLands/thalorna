@@ -18,7 +18,7 @@ The road comes up out of the rainforest in switchbacks, climbs to a saddle betwe
 
 The great plaza is a market and a customs-house at once. The northern half belongs to the traders coming from the north, the southern half to the traders coming from the south, and between them along the line of the road stand the Ts'enmah's weighing houses, where every load is weighed, its owner named and the city's share taken before it may cross to the other half. Merchants grow rich here on the difference between the two halves, and the city's own merchant families buy on one side and sell on the other without moving their goods more than a hundred paces.
 
-The two volcanoes above the city smoke on most days. The western one is the higher, and on a clear morning its summit shows the gray line of the western sea. The eastern sea lies down the long road to the coast, where the anchorages of the realm's eastern shore are some of the finest on the continent, and its merchant canoes go farther south from there than any others. The far southern peoples meet Ki'ich'chik traders through Ne'ok Ba'ate's canoes more than any other way.
+The two volcanoes above the city smoke on most days. The western one is the higher, and on a clear morning its summit shows the gray line of the western sea. The eastern sea lies down the long road to the coast, where the anchorages of the realm's eastern shore are some of the finest on the continent, and its merchant canoes go farther south from there than any others. The far southern peoples meet Kì'ìch'chik traders through Ne'ok Ba'ate's canoes more than any other way.
 
 ## Who Governs
 
@@ -46,5 +46,5 @@ Ishkul Ne'ok sends his most private letters by canoe. A painted fold of bark pap
 [[affiliation-ixilankul|Ish'ilankul]]
 : the paramount realm, whose ambitions press on the isthmus
 
-[[place-centralkiichchik|Central Ki'ich'chik]]
+[[place-centralkiichchik|Central Kì'ìch'chik]]
 : the four realms of the heartland

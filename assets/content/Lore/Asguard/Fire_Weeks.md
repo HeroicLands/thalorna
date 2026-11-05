@@ -29,6 +29,6 @@ A man whose offering the hov's gudi declines during the Fire-Weeks holds [[lore-
 
 The faith's militant and craft orders take their part in the Fire-Weeks:
 
-- [[affiliation-eldulfur|Eldúlfur]], the Infernal Blades, grant standing to a member who survives the Fire-Weeks and the fights that follow them, and no rite a gudi alone can perform confers the same.
+- [[affiliation-eldulfur|Eldulfur]], the Infernal Blades, grant standing to a member who survives the Fire-Weeks and the fights that follow them, and no rite a gudi alone can perform confers the same.
 - [[affiliation-eldverdir|Eldverdir]], the Flameguard, stand watch over a hov through its Fire-Weeks and answer any threat to it with the same flame the rite uses.
 - [[affiliation-smideldur|Smideldur]], the Order of the Inferno, tend the bellows that keep a hov's ordeals burning through the Fire-Weeks and beyond them.

@@ -1,6 +1,6 @@
 ---
 shortcode: zhaosou
-name: {full: The Unsorted, en: [The Walking Contradiction], tant: [Zhaosou]}
+name: {full: The Unsorted, en: [The Walking Contradiction], tant: [Zhausou]}
 type: affiliation
 subType: criminal
 description: "Confusion."
@@ -56,28 +56,28 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-## Zhaosou—The Unsorted
+## Zhausou—The Unsorted
 
-In the Zhaosou cultus, [[lore-zhaosoudty|Zhaosou]] is the paradox the [[lore-tanchei|Tanchei]] cannot resolve: an entity that possesses coherent identity and will—the hallmarks of a classified being—yet defies every category the celestial administration has attempted to assign it. It is not fire or water, not living or dead, not spirit or flesh. Every bureau that has claimed jurisdiction over Zhaosou has found its classification systems failing. It registers simultaneously as a natural phenomenon, an ancestor spirit, a lesser demon, and a geographic feature. Filing it under one category causes the other categories to reject their own contents.
+In the Zhausou cultus, [[lore-zhaosoudty|Zhausou]] is the paradox the [[lore-tanchei|Tanchei]] cannot resolve: an entity that possesses coherent identity and will—the hallmarks of a classified being—yet defies every category the celestial administration has attempted to assign it. It is not fire or water, not living or dead, not spirit or flesh. Every bureau that has claimed jurisdiction over Zhausou has found its classification systems failing. It registers simultaneously as a natural phenomenon, an ancestor spirit, a lesser demon, and a geographic feature. Filing it under one category causes the other categories to reject their own contents.
 
-The Tanchei believe Zhaosou emerged during [Dao Zhaolei]{.name data-type="lore/cosmology"}, the Great Sorting itself—a thing that was in the process of being classified when the sorting moved on, leaving it permanently between states. It is, in bureaucratic terms, an open case that was never closed: a petition filed with every bureau and accepted by none.
+The Tanchei believe Zhausou emerged during [Dau Zhaulei]{.name data-type="lore/cosmology"}, the Great Sorting itself—a thing that was in the process of being classified when the sorting moved on, leaving it permanently between states. It is, in bureaucratic terms, an open case that was never closed: a petition filed with every bureau and accepted by none.
 
-Zhaosou does not destroy. It _confuses_. Regions where its influence is believed to be felt experience categorical breakdown: crops grow in wrong seasons, rivers change direction, social hierarchies invert without apparent cause. [Tengwou Dao]{.name data-type="affiliation/governmental"} (the Bureau of Order) considers Zhaosou the single greatest administrative embarrassment in the celestial system—proof that the Great Sorting was not, in fact, perfect. This is an opinion they do not share publicly.
+Zhausou does not destroy. It _confuses_. Regions where its influence is believed to be felt experience categorical breakdown: crops grow in wrong seasons, rivers change direction, social hierarchies invert without apparent cause. [Tengwou Dau]{.name data-type="affiliation/governmental"} (the Bureau of Order) considers Zhausou the single greatest administrative embarrassment in the celestial system—proof that the Great Sorting was not, in fact, perfect. This is an opinion they do not share publicly.
 
-### Mortal Cultus: The Nuotsou Rui
+### Mortal Cultus: The Nwotsou Rwi
 
-Zhaosou is the celestial patron of those whom the [[affiliation-nuotsourui|Nuotsou Rui]] recruits most successfully—the classification-condemned, whose moral ledgers have accumulated debits so severe that no ritual redemption is possible, and whose categorical status the imperial system can no longer resolve. The cult offers such persons a theological reframe: if an entity like Zhaosou exists among the celestials, their own condition is not an aberration but a cosmically grounded state. Zhaosou is invoked in the cult's recruitment rituals and in the ceremonies by which new members mark their passage beyond the reach of imperial classification. The cult's doctrine holds that the Walking Contradiction's endurance within the celestial system is proof that the Great Sorting was not merely incomplete but _cannot_ be completed—a conclusion the Bureau of Order would very much prefer were not available to mortal worshippers.
+Zhausou is the celestial patron of those whom the [[affiliation-nuotsourui|Nwotsou Rwi]] recruits most successfully—the classification-condemned, whose moral ledgers have accumulated debits so severe that no ritual redemption is possible, and whose categorical status the imperial system can no longer resolve. The cult offers such persons a theological reframe: if an entity like Zhausou exists among the celestials, their own condition is not an aberration but a cosmically grounded state. Zhausou is invoked in the cult's recruitment rituals and in the ceremonies by which new members mark their passage beyond the reach of imperial classification. The cult's doctrine holds that the Walking Contradiction's endurance within the celestial system is proof that the Great Sorting was not merely incomplete but _cannot_ be completed—a conclusion the Bureau of Order would very much prefer were not available to mortal worshippers.
 
 ### See Also
 
-[[affiliation-nuotsourui|Nuotsou Rui]]
-: The cult whose recruits take Zhaosou as their patron
+[[affiliation-nuotsourui|Nwotsou Rwi]]
+: The cult whose recruits take Zhausou as their patron
 
 [[affiliation-youweng|Youweng]]
 : The Demon Realm
 
 [[affiliation-tengwouronglei|Tengwou Rong Lei]]
-: The Celestial Bureaucracy that cannot classify Zhaosou
+: The Celestial Bureaucracy that cannot classify Zhausou
 
 ## Outside the Ladder
 

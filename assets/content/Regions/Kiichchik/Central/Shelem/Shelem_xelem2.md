@@ -12,7 +12,7 @@ data: {demonym: null, lore: [], parents: [xelemrgn], population: 60000, governme
 
 ## Overview
 
-Shelem is loud. Before a canoe coming up the river rounds the last bend it hears the city: a screeching that rises and falls all day, from the macaw yards on the slopes below the temples, where several thousand birds are kept in pens of woven cane. Shelem, the seat of the realm of [[affiliation-xelem|Shelem]], the Land of Birds, is a city of about 60,000 people on a long ridge of high ground where [[place-hanaltzuma|the Misty River]] (Ha'nal Ts'uma) and [[place-hanalxilik|the Blue River]] (Ha'nal Shilik) meet, in the river-bound jungle on the eastern edge of the Ki'ich'chik heartland. Where [[place-ixilankul2|Ish'ilankul]] is built on volcanic stone and [[place-kankul2|K'ankul]] on limestone, Shelem is built on water.
+Shelem is loud. Before a canoe coming up the river rounds the last bend it hears the city: a screeching that rises and falls all day, from the macaw yards on the slopes below the temples, where several thousand birds are kept in pens of woven cane. Shelem, the seat of the realm of [[affiliation-xelem|Shelem]], the Land of Birds, is a city of about 60,000 people on a long ridge of high ground where [[place-hanaltzuma|the Misty River]] (Ha'nal Ts'uma) and [[place-hanalxilik|the Blue River]] (Ha'nal Shilik) meet, in the river-bound jungle on the eastern edge of the Kì'ìch'chik heartland. Where [[place-ixilankul2|Ish'ilankul]] is built on volcanic stone and [[place-kankul2|K'ankul]] on limestone, Shelem is built on water.
 
 ## The Ridge and the Flood
 
@@ -54,5 +54,5 @@ Every city on the continent wants new feather regalia for the [[lore-itsaniclndr
 [[affiliation-ixilankul|Ish'ilankul]], [[affiliation-kankul|K'ankul]]
 : the northern powers that depend on its goods
 
-[[place-centralkiichchik|Central Ki'ich'chik]]
+[[place-centralkiichchik|Central Kì'ìch'chik]]
 : the four realms of the heartland

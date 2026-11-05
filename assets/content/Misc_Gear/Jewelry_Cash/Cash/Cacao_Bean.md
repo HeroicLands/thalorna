@@ -2,7 +2,7 @@
 shortcode: cacaobean
 name: {full: Cacao Bean, kiichek: ["Ch'ishel"]}
 type: miscgear
-description: "A dried cacao bean; the small money of the Ki'ich'chik markets, counted by the twenty, forty to the Ardin."
+description: "A dried cacao bean; the small money of the Kì'ìch'chik markets, counted by the twenty, forty to the Ardin."
 tags: [jewelry_cash]
 data: {icon: icon-coinsbdg, templatePriority: 0, packFolder: cash}
 sohl:

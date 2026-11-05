@@ -3,7 +3,7 @@ shortcode: thornhillmnr
 name: {full: Thornhill Manor}
 type: place
 subType: settlement
-description: "Lord Zurgade's manor on the Lienrik plain a short ride north of Valthari, a fortified house, a village and a thorn-grown hill of hunting covert, whose hunts are kept by the huntswoman Zórila Dómivar and whose fortunes rise and fall with Tarvénian politics."
+description: "Lord Zurgade's manor on the Lyenrik plain a short ride north of Valthari, a fortified house, a village and a thorn-grown hill of hunting covert, whose hunts are kept by the huntswoman Zórila Dómivar and whose fortunes rise and fall with Tarvénian politics."
 tags: [manor]
 data:
   demonym: null
@@ -16,7 +16,7 @@ data:
 
 ## Overview {#overview}
 
-Thornhill Manor is the seat of **Lord [[being-zurgadeugarr|Zurgade]] of Thornhill Manor**, a Tarvenan lord who holds it of the crown of [[affiliation-kingdmlnrk|Lienrik]]. It lies at the southern end of the [[place-leonrik|Lienrik]] plain, off the road from [[place-bruthena|Bruthena]], a short ride north of [[place-valthari|Valthari]]: a fortified manor house, one village of about three hundred, its fields and vines, and the low hill of thorn and scrub oak that gives the manor its name. Its market is Valthari's. The manor is known to its neighbors for its hunting. The lord hunts often and with guests, and those guests include greater lords than he is.
+Thornhill Manor is the seat of **Lord [[being-zurgadeugarr|Zurgade]] of Thornhill Manor**, a Tarvenan lord who holds it of the crown of [[affiliation-kingdmlnrk|Lyenrik]]. It lies at the southern end of the [[place-leonrik|Lyenrik]] plain, off the road from [[place-bruthena|Bruthena]], a short ride north of [[place-valthari|Valthari]]: a fortified manor house, one village of about three hundred, its fields and vines, and the low hill of thorn and scrub oak that gives the manor its name. Its market is Valthari's. The manor is known to its neighbors for its hunting. The lord hunts often and with guests, and those guests include greater lords than he is.
 
 ## Current Events {#present}
 
@@ -36,9 +36,9 @@ Lord Zurgade is a heavy, weathered man in his thirties, a keen hunter and a gene
 
 ## The Court and the Year {#court-and-year}
 
-The lord holds his manor court in the hall of the manor house, as every lord of Lienrik does, for matters between the tenants and quarrels over strips, labor and the hunt's rules. A matter against the lord goes to the bailiff's court of his district, and the court writes its judgments down, as Lienrik's courts do.
+The lord holds his manor court in the hall of the manor house, as every lord of Lyenrik does, for matters between the tenants and quarrels over strips, labor and the hunt's rules. A matter against the lord goes to the bailiff's court of his district, and the court writes its judgments down, as Lyenrik's courts do.
 
-The year turns on the fields and the hunt. The plain is sown in autumn and spring and harvested in early summer, and the vines are picked at the end of summer. When the High King or the King of Lienrik calls the host, the lord owes his mounted men for the campaign season. The hunting season runs from the end of the vintage into late winter, and it is the season the manor is known for: the guests come then, and the house fills.
+The year turns on the fields and the hunt. The plain is sown in autumn and spring and harvested in early summer, and the vines are picked at the end of summer. When the High King or the King of Lyenrik calls the host, the lord owes his mounted men for the campaign season. The hunting season runs from the end of the vintage into late winter, and it is the season the manor is known for: the guests come then, and the house fills.
 
 ## Households {#households}
 
@@ -61,7 +61,7 @@ The year turns on the fields and the hunt. The plain is sown in autumn and sprin
 [[being-zoriladmvr|Zórila Dómivar]]
 : the manor's huntswoman
 
-[[place-leonrik|Lienrik]]
+[[place-leonrik|Lyenrik]]
 : the land the manor lies in
 
 [[place-valthari|Valthari]]

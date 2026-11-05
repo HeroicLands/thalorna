@@ -3,7 +3,7 @@ shortcode: reithovani
 name: {full: Reithovani}
 type: place
 subType: settlement
-description: "A fishing village on the eastern coast of Kalihara, a half-day south of Ilovanu, whose fishing-stone has gone dark and whose kaan'vaar has done something to the village that nobody names."
+description: "A fishing village on the eastern coast of Kalihara, a half-day south of Ilovanu, whose fishing-stone has gone dark and whose kaan-vaar has done something to the village that nobody names."
 tags: [village, coastal, fishing]
 data:
   demonym: null
@@ -25,7 +25,7 @@ The lineage Reithovani holds the beach, the reef and the spring behind the villa
 
 ## The Failing
 
-The fishing-stone has gone bone-white and hard. The reef gives less each season, and the spring behind the village is salt in the dry months. The village has stopped sending its catch to the coasters, and the coasters have stopped calling. Ilovanu has had no word from the village for months. After the stone went dark the kaan'vaar of the village, who holds the stone in her charge, did something that the custodians' procedures do not cover, and the village will not say what. The people who remain are quiet, and the boats do not go out at dawn.
+The fishing-stone has gone bone-white and hard. The reef gives less each season, and the spring behind the village is salt in the dry months. The village has stopped sending its catch to the coasters, and the coasters have stopped calling. Ilovanu has had no word from the village for months. After the stone went dark the kaan-vaar of the village, who holds the stone in her charge, did something that the custodians' procedures do not cover, and the village will not say what. The people who remain are quiet, and the boats do not go out at dawn.
 
 ## What Is Seen from It
 

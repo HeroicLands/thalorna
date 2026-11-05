@@ -3,7 +3,7 @@ shortcode: ixbaltzaku
 name: {full: Ish'bal Tsa'ku}
 type: affiliation
 subType: polity
-description: "Jewel of the southern Ki'ich'chik: volcanic peaks, terraced valleys, and a coast of metals, cacao, and feathered luxury."
+description: "Jewel of the southern Kì'ìch'chik: volcanic peaks, terraced valleys, and a coast of metals, cacao, and feathered luxury."
 tags: [polity]
 data:
   culture: kiichchikclt
@@ -81,7 +81,7 @@ sohl: {system: {commonSkills: []}}
 
 ## Overview
 
-Ish'bal Tsa'ku holds the land of the [[place-ixbaltzakurgn|Ish'bal Tsa'ku Region]], the mountains, terraced valleys, jungle rivers and western coast that are the richest country of the south. Its cities rival the great ones of [[affiliation-ixilankul|Ish'ilankul]] in grandeur, and its forges make much of the steel the warriors of [[place-kiichchik|Ki'ich'chik Continent]] carry. The jaguar is its emblem, revered as the spotted image of divine power.
+Ish'bal Tsa'ku holds the land of the [[place-ixbaltzakurgn|Ish'bal Tsa'ku Region]], the mountains, terraced valleys, jungle rivers and western coast that are the richest country of the south. Its cities rival the great ones of [[affiliation-ixilankul|Ish'ilankul]] in grandeur, and its forges make much of the steel the warriors of [[place-kiichchik|Kì'ìch'chik Continent]] carry. The jaguar is its emblem, revered as the spotted image of divine power.
 
 The realm is fully part of the unified priesthood of the [[affiliation-itzanpnthn|Itsani Pantheon]] and bound to the heartland by the _ish'lan ch'upul_, the white roads. The [[affiliation-chumishlan|Ch'um Ish'lan]] reaches it in three to four days from Ish'ilankul, routed through [[affiliation-neokbaate|Ne'ok Ba'ate]] along the great southern white road, and the way-stations on the highland road are well kept. The celestial calendar governs planting and harvest, pilgrimage and sacrifice, and the great pyramids cast their shadows across the terraces.
 

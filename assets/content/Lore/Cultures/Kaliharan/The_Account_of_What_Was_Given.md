@@ -193,13 +193,13 @@ The record does not hold how many. It holds that it was long.
 
 They left things on the island./
 You know the stone at our spring. You have put your hand on it/
-when the kaan'vaar was not looking, and it gave under your hand./
+when the kaan-vaar was not looking, and it gave under your hand./
 They left that, and the great ones you have not seen,/
 in the lake and on the mountain and on the reefs./
 We were shown where the hand goes on each, and in what order, and the words./
 We were not shown why./
-The kaan'vaar holds the how. Nobody holds the why./
-Do not ask the stone why. It will not tell you, and the kaan'vaar cannot.
+The kaan-vaar holds the how. Nobody holds the why./
+Do not ask the stone why. It will not tell you, and the kaan-vaar cannot.
 
 Then something went through them./
 The record holds no more of it than that. Something went through them./
@@ -269,7 +269,7 @@ Tomorrow, at the same hour, the same eaves.
 [[lore-itharidprt|The Departure of the Ithari]]
 : the night of the further instructions, and the morning of the absence
 
-[[affiliation-tharivaan|Thári'vaan]]
+[[affiliation-tharivaan|Thári-vaan]]
 : the Whole, the looking, the tending and the holding
 
 [[lore-kaliharanclt|Kaliharan]]

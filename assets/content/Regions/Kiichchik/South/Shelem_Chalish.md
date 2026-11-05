@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-The night before a party leaves, a death-walker sits with each of its members in a stone cell under the gate, and recites to the living what is recited to the dead: every chamber of [[place-chaltzumaq|Ch'al Ts'umaq]] in the order the soul will meet it, and every deception in the order it will be offered. Past the gate there is no road shrine and no priest to do it later. Shelem Ch'alish, the Holy Bird, is the last fortress-temple on the [[place-kiichchik|Ki'ich'chik Continent]] and the gate through which every party bound for the wastes of [[place-xelemixbalrgn|Shelem Ish'bal Region]] goes out. About 900 people live in it, and in a good season as many again pass through, each of them waiting, paying and praying.
+The night before a party leaves, a death-walker sits with each of its members in a stone cell under the gate, and recites to the living what is recited to the dead: every chamber of [[place-chaltzumaq|Ch'al Ts'umaq]] in the order the soul will meet it, and every deception in the order it will be offered. Past the gate there is no road shrine and no priest to do it later. Shelem Ch'alish, the Holy Bird, is the last fortress-temple on the [[place-kiichchik|Kì'ìch'chik Continent]] and the gate through which every party bound for the wastes of [[place-xelemixbalrgn|Shelem Ish'bal Region]] goes out. About 900 people live in it, and in a good season as many again pass through, each of them waiting, paying and praying.
 
 ## The Gate
 

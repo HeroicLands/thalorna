@@ -3,17 +3,17 @@ shortcode: volkemokaldr
 name: {full: Volkemo Kaldris, en: [Marshal Volkemo, Lord Volkemo]}
 type: being
 subType: npc
-description: The Marshal of Lienrik, a powerful lord of the lowland host who has engaged the herald Kárenna Graveth repeatedly in mediating disputes with the neighboring kingdoms.
+description: The Marshal of Lyenrik, a powerful lord of the lowland host who has engaged the herald Kárenna Graveth repeatedly in mediating disputes with the neighboring kingdoms.
 tags: []
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [courtier, warrior]
-  occupation: Marshal of Lienrik
+  occupation: Marshal of Lyenrik
   lore: []
   culture: tarvenanclt
   homes: [torvaleth]
-  affiliations: {kingdmlnrk: {rank: 6, office: Marshal of Lienrik}}
+  affiliations: {kingdmlnrk: {rank: 6, office: Marshal of Lyenrik}}
   socialTies: {being-carengrvth: friend}
   gender: male
   species: humanflk
@@ -37,7 +37,7 @@ Volkemo Kaldris is a 52-year-old man who stands 5'11" tall with a medium build. 
 
 # Dossier {#dossier}
 
-Volkemo Kaldris is the Marshal of Lienrik, the commander of the king's host, who calls the lords' musters and keeps the roll of the fees that owe the crown service. He holds a province of the crown directly and lives in a town house on the streets below the king's hall at [[place-torvaleth|Torvaleth]].
+Volkemo Kaldris is the Marshal of Lyenrik, the commander of the king's host, who calls the lords' musters and keeps the roll of the fees that owe the crown service. He holds a province of the crown directly and lives in a town house on the streets below the king's hall at [[place-torvaleth|Torvaleth]].
 
 He has engaged the services of [[being-carengrvth|Kárenna Graveth]] repeatedly in mediating disputes with the neighboring kingdoms. He views her as a valuable ally and, in a relationship carefully concealed, an occasional lover.
 
@@ -49,7 +49,7 @@ Volkemo is hearty, suspicious and proud of his records. He counts men aloud.
 
 ### Motivation
 
-He wants the host of Lienrik to gather faster than the lords argue. He wants peace with Asturath until the election.
+He wants the host of Lyenrik to gather faster than the lords argue. He wants peace with Asturath until the election.
 
 ### Strengths
 
@@ -75,7 +75,7 @@ The younger lords who want his post.
 
 ### Affiliations
 
-- **[[affiliation-kingdmlnrk|Kingdom of Lienrik]]**: Volkemo holds the office of Marshal of Lienrik at the rung of Greater Nobility.
+- **[[affiliation-kingdmlnrk|Kingdom of Lyenrik]]**: Volkemo holds the office of Marshal of Lyenrik at the rung of Greater Nobility.
 
 ## Plot Hooks
 

@@ -4,7 +4,7 @@
 
 **Places**
 
-- Tarvénia's three kingdoms are places to play: Asturath in the mountains with Lezkora and Kávrenath, Lienrik along its river of towers with Torvaleth and Ornetho, and Galvaren on the fog coast with Durvolka.
+- Tarvénia's three kingdoms are places to play: Asturath in the mountains with Lezkora and Kávrenath, Lyenrik along its river of towers with Torvaleth and Ornetho, and Galvaren on the fog coast with Durvolka.
 - New towns and sites include the iron town of Ardalis, the drove town of Tsaberis, the Zurgando pass, Enthara's vineyards, Bruthena, Ulhera, Ezkoba, and the Black Cliffs of Kaurema above a sunken city.
 
 **Peoples and cultures**

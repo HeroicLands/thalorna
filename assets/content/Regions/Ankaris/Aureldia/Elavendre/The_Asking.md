@@ -1185,7 +1185,7 @@ seltai ovuu ehii ahi selnavi ovuu sennal eso
 
 penvai ovuu onsa polpeho ralti ulnavaho salpu/
 .irtal onsa ralti rilpatos kalpi vonu onsa/
-.insu seltis siekke evi vautti ahi herrai lirne/
+.insu seltis syekke evi vautti ahi herrai lirne/
 terkata onsa ahi herrai ehii tennai
 
 tenvas ehii oluho eltes teipannuho mavisa/

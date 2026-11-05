@@ -3,7 +3,7 @@ shortcode: tikumanikrgn
 name: {full: Ice Coast, tiku: [tiku manik]}
 type: place
 subType: region
-description: "Low capes, cliff islands and a shallow sea that freezes every winter, on the far northwestern coast of Northern Ki'ich'chik—the hunting shore of the Ice-Edge People."
+description: "Low capes, cliff islands and a shallow sea that freezes every winter, on the far northwestern coast of Northern Kì'ìch'chik—the hunting shore of the Ice-Edge People."
 tags: [region]
 data:
   culture: tikupilaritclt
@@ -19,7 +19,7 @@ data:
 
 ## Overview
 
-The Ice Coast (_tiku manik_) is the shore of the [[affiliation-tikupilarit|Tikupilarit]], the Ice-Edge People, on the far northwestern coast of [[place-northkiichchik|Northern Ki'ich'chik]], beyond the last fjords of the [[place-kelwanukrgn|Kelwanuk Region]]. It runs north from the glaciers where the Cedar People's country ends, along a low coast of capes, spits and lagoons facing a shallow western sea, to a point where the land turns east along the northern ocean. About 32,000 people live on it in some hundred and twenty villages, nearly all of them on capes, spits and islands where the sea comes close.
+The Ice Coast (_tiku manik_) is the shore of the [[affiliation-tikupilarit|Tikupilarit]], the Ice-Edge People, on the far northwestern coast of [[place-northkiichchik|Northern Kì'ìch'chik]], beyond the last fjords of the [[place-kelwanukrgn|Kelwanuk Region]]. It runs north from the glaciers where the Cedar People's country ends, along a low coast of capes, spits and lagoons facing a shallow western sea, to a point where the land turns east along the northern ocean. About 32,000 people live on it in some hundred and twenty villages, nearly all of them on capes, spits and islands where the sea comes close.
 
 ## Geography
 
@@ -49,7 +49,7 @@ The coast trades with itself at the Messenger Feast: oil, ivory and walrus hide 
 [[place-taluqnapiqrgn|Lake Tundra]]
 : the river delta and its lakes behind the coast
 
-[[place-northkiichchik|Northern Ki'ich'chik]]
+[[place-northkiichchik|Northern Kì'ìch'chik]]
 : the enclosing region
 
 [[place-kelwanukrgn|Kelwanuk Region]]

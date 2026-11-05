@@ -26,7 +26,7 @@ data:
 
 **The Song of the Unnumbered Tower** is the song of the Wonong on the northern marches, where a wall of tamped earth and a line of watchtowers face the [[place-grkrhlmrgn|Grukarholm]] country and the garrison colonies farm behind them. The towers of a stretch of wall are numbered from its western end, and the number is cut over each door with the command's seal. The tower between the third and the fifth carries no number and no seal, because four belongs to no domain and no official building is marked with it, and the register calls it "the tower after the third". The soldiers call it the unnumbered tower, and it is the tower of this song wherever along the marches the song is sung.
 
-The singers are the common soldiers of the [[lore-tsaihuo|Tsaihuo]], the Wonong, and the [[lore-nouwen|Nouwen]] of the garrison colonies who stand the wall beside them, and none of them carries a name: each is entered in the garrison roll by his description, as he is at home. The song runs through the twelve months of a year, one verse to a month, each verse opening on what the month brings to the wall and closing on the same question and an answer that changes one word. It is sung in the towers to the beat of a spear-butt on the floor, in the garrison colonies at the planting, and in the Tsaihuo households of the river towns whose sons have gone north, where women sing it at the loom with the men's descriptions changed to their own sons'. The descriptions below are the ones the colonies under the Fifth Tower sing. The Empire counts a Grukar raid a nuisance, and the song does not argue the point; it says what one cost.
+The singers are the common soldiers of the [[lore-tsaihuo|Tsaihwo]], the Wonong, and the [[lore-nouwen|Nouwen]] of the garrison colonies who stand the wall beside them, and none of them carries a name: each is entered in the garrison roll by his description, as he is at home. The song runs through the twelve months of a year, one verse to a month, each verse opening on what the month brings to the wall and closing on the same question and an answer that changes one word. It is sung in the towers to the beat of a spear-butt on the floor, in the garrison colonies at the planting, and in the Tsaihwo households of the river towns whose sons have gone north, where women sing it at the loom with the men's descriptions changed to their own sons'. The descriptions below are the ones the colonies under the Fifth Tower sing. The Empire counts a Grukar raid a nuisance, and the song does not argue the point; it says what one cost.
 
 : The Song of the Unnumbered Tower {#unnumbered-tower}
 
@@ -195,7 +195,7 @@ The clerk counts us, the clerk counts us right.
 [[lore-grukarfolk|Grukar Folk]]
 : the raiders the Empire counts a nuisance
 
-[[lore-tsaihuo|Tsaihuo]]
+[[lore-tsaihuo|Tsaihwo]]
 : the craft caste, and the Wonong who serve from it
 
 [[lore-personlnms|Personal Names]]

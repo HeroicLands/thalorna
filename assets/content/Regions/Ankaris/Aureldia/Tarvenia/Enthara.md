@@ -3,7 +3,7 @@ shortcode: enthara
 name: {full: Enthara}
 type: place
 subType: settlement
-description: "Lienrik's wine town, terraced into the south face of the eastern hills above the Thalsira, whose vintage is bought on the vine by Valthari's merchant houses."
+description: "Lyenrik's wine town, terraced into the south face of the eastern hills above the Thalsira, whose vintage is bought on the vine by Valthari's merchant houses."
 tags: [town, market, wine]
 data:
   demonym: null
@@ -18,7 +18,7 @@ data:
 
 Enthara is a town of terraces. It climbs the south face of the eastern hills above the [Thalsira]{.name data-type="place/feature"} valley in tiers of vineyard walls, each a man's height of dry stone holding up a strip of vines, and the town itself sits halfway up on the one shelf wide enough to build on, with the press-house of its lord at the top of the street and the market square below it. About 4,000 people live there, and its name is the word for what they make: _entho_ is wine.
 
-It is the wine town of the [[affiliation-kingdmlnrk|Kingdom of Lienrik]] and the largest of the market towns of the eastern hills, a day's cart-ride above [[place-torvaleth|Torvaleth]] by the hill road. The soft yellow rock of the hill is easy to cut, and under the town lie the cellars, tunnel after tunnel of them, some older than the town above. A house's wealth in Enthara is reckoned by how far back into the hill its cellar runs.
+It is the wine town of the [[affiliation-kingdmlnrk|Kingdom of Lyenrik]] and the largest of the market towns of the eastern hills, a day's cart-ride above [[place-torvaleth|Torvaleth]] by the hill road. The soft yellow rock of the hill is easy to cut, and under the town lie the cellars, tunnel after tunnel of them, some older than the town above. A house's wealth in Enthara is reckoned by how far back into the hill its cellar runs.
 
 ## The Year of the Vine
 
@@ -42,10 +42,10 @@ Enthara is held of the king by a lord whose house has held it since the kingdom 
 
 ## See Also
 
-[[place-leonrik|Lienrik]]
+[[place-leonrik|Lyenrik]]
 : the lowland country whose eastern hills the town looks over
 
-[[affiliation-kingdmlnrk|Kingdom of Lienrik]]
+[[affiliation-kingdmlnrk|Kingdom of Lyenrik]]
 : the crown that grants its market charter
 
 [[place-torvaleth|Torvaleth]]

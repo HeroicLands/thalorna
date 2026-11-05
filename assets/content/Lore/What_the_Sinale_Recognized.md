@@ -8,11 +8,11 @@ tags: [lore, kalihara, ithari-work]
 data: {packFolder: settinglore, culture: kaliharanclt}
 ---
 
-When the [[lore-flksinale|Sinale]] first reached [[place-klhrcntnnt|Kalihara]] and sought to settle there, the [[lore-kaliharanclt|Kaliharan]] people received them with courtesy and refused them. The custodians' record keeps one thing more of that visit: the Sinale recognized something familiar in [[affiliation-tharivaan|Thári'vaan]]. No Kaliharan source says what it was, and whatever it was, it did not persuade the custodians to open their door any wider.
+When the [[lore-flksinale|Sinale]] first reached [[place-klhrcntnnt|Kalihara]] and sought to settle there, the [[lore-kaliharanclt|Kaliharan]] people received them with courtesy and refused them. The custodians' record keeps one thing more of that visit: the Sinale recognized something familiar in [[affiliation-tharivaan|Thári-vaan]]. No Kaliharan source says what it was, and whatever it was, it did not persuade the custodians to open their door any wider.
 
 ## What It Was
 
-What the Sinale recognized on Kalihara was [[lore-itharisul|ithasul]], the substance of the works of [[lore-theithari|the Ithari]]. The record sets the recognition in Thári'vaan, and to a Kaliharan the works and the stone they are made of are part of the Living Whole like a reef or a river, so the record and the stone do not disagree. The Sinale have never said why the stone was familiar to them.
+What the Sinale recognized on Kalihara was [[lore-itharisul|ithasul]], the substance of the works of [[lore-theithari|the Ithari]]. The record sets the recognition in Thári-vaan, and to a Kaliharan the works and the stone they are made of are part of the Living Whole like a reef or a river, so the record and the stone do not disagree. The Sinale have never said why the stone was familiar to them.
 
 ## What the Sinale Say
 

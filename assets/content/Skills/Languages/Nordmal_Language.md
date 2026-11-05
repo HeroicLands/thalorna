@@ -389,19 +389,19 @@ data:
     - {form: "-borinn", gloss: "one born of a thing"}
     - {form: "-born", gloss: "children"}
     - {form: "-brandur", gloss: "a brand, either a firebrand or a blade"}
-    - {form: "-dómur", gloss: "a judgment given"}
+    - {form: "-domur", gloss: "a judgment given"}
     - {form: "-drengir", gloss: "warriors"}
     - {form: "-dulm", gloss: "a grave"}
     - {form: "-dirma", gloss: "a lay"}
     - {form: "-efnir", gloss: "one in the making"}
     - {form: "-eldur", gloss: "fire"}
     - {form: "-fadir", gloss: "a father or a mother, and the head of a hov"}
-    - {form: "-módir", gloss: "a father or a mother, and the head of a hov"}
+    - {form: "-modir", gloss: "a father or a mother, and the head of a hov"}
     - {form: "-gar", gloss: "a spear"}
     - {form: "-geir", gloss: "a spear"}
     - {form: "-gengir", gloss: "ones that go"}
     - {form: "-gudi", gloss: "a priest-chieftain"}
-    - {form: "-grímur", gloss: "a mask"}
+    - {form: "-grimur", gloss: "a mask"}
     - {form: "-grind", gloss: "a gate"}
     - {form: "-guard", gloss: "an enclosed world"}
     - {form: "-geldra", gloss: "a praise-poem"}
@@ -409,7 +409,7 @@ data:
     - {form: "-heim", gloss: "a home"}
     - {form: "-hild", gloss: "a battle"}
     - {form: "-hnerv", gloss: "a refrain"}
-    - {form: "-hnúra", gloss: "a lament"}
+    - {form: "-hnura", gloss: "a lament"}
     - {form: "-hofding", gloss: "a chieftain"}
     - {form: "-holl", gloss: "a great hall"}
     - {form: "-hond", gloss: "a hand"}
@@ -417,7 +417,7 @@ data:
     - {form: "-ringur", gloss: "a ring, and a circle of sworn men"}
     - {form: "-hrúd", gloss: "a well"}
     - {form: "-hulma", gloss: "a kenning"}
-    - {form: "-káppar", gloss: "champions"}
+    - {form: "-kappar", gloss: "champions"}
     - {form: "-lid", gloss: "a company in the field"}
     - {form: "-lok", gloss: "a close, an end"}
     - {form: "-madur", gloss: "a man holding a station"}
@@ -438,12 +438,12 @@ data:
     - {form: "-skjoldur", gloss: "a shield"}
     - {form: "-skreld", gloss: "a flyting"}
     - {form: "-snerv", gloss: "a prophecy"}
-    - {form: "-stjóri", gloss: "the master of a thing"}
+    - {form: "-stjori", gloss: "the master of a thing"}
     - {form: "-sveld", gloss: "a seat"}
     - {form: "-sistur", gloss: "sisters"}
     - {form: "-thur", gloss: "a giant"}
     - {form: "-ting", gloss: "the lawful assembly"}
-    - {form: "-úlfur", gloss: "a wolf"}
+    - {form: "-ulfur", gloss: "a wolf"}
     - {form: "-vald", gloss: "one who wields"}
     - {form: "-vangur", gloss: "a field"}
     - {form: "-var", gloss: "a ward, a keeper"}
@@ -504,7 +504,7 @@ data:
       class: "n"
       field: "Verse and its kinds"
       gloss: "the grave-ale, the cup drunk to the dead at the howe"
-      built: ["hrúm-", "-minni"]
+      built: ["hrum-", "-minni"]
     - {form: "storald", class: "n", field: "Verse and its kinds", gloss: "a saga"}
     - {form: "vuld", class: "n", field: "The hearth and the hall", gloss: "grain"}
     - {form: gnum, class: n, field: The hearth and the hall, gloss: a clay pot, concept: pot}
@@ -961,10 +961,10 @@ data:
     - {form: "blet-", class: "stem", field: "Name elements", gloss: "a sacrifice made at a hov"}
     - {form: "blim-", class: "stem", field: "Name elements", gloss: "a victory won"}
     - {form: "breld-", class: "stem", field: "Name elements", gloss: "a coal, an ember kept alive"}
-    - {form: "bú-", class: "stem", field: "Name elements", gloss: "an estate worked for a lord"}
+    - {form: "bu-", class: "stem", field: "Name elements", gloss: "an estate worked for a lord"}
     - {form: "dreka-", class: "stem", field: "Name elements", gloss: "a dragon"}
     - {form: "dresk-", class: "stem", field: "Name elements", gloss: "a beacon"}
-    - {form: "drótt-", class: "stem", field: "Name elements", gloss: "a war-band sworn to one man"}
+    - {form: "drott-", class: "stem", field: "Name elements", gloss: "a war-band sworn to one man"}
     - {form: "dulm-", class: "stem", field: "Name elements", gloss: "a grave"}
     - {form: "dvern-", class: "stem", field: "Name elements", gloss: "a birth"}
     - {form: "dvon-", class: "stem", field: "Name elements", gloss: "a seal"}
@@ -976,7 +976,7 @@ data:
     - {form: "flom-", class: "stem", field: "Name elements", gloss: "blubber"}
     - {form: "folm-", class: "stem", field: "Name elements", gloss: "sickness"}
     - {form: "fosk-", class: "stem", field: "Name elements", gloss: "ash, what a fire leaves"}
-    - {form: "fród-", class: "stem", field: "Name elements", gloss: "the peace that wisdom buys"}
+    - {form: "frod-", class: "stem", field: "Name elements", gloss: "the peace that wisdom buys"}
     - {form: "frost-", class: "stem", field: "Name elements", gloss: "frost"}
     - {form: "frild-", class: "stem", field: "Name elements", gloss: "free, and sworn to no lord"}
     - form: "ginn-"
@@ -985,8 +985,8 @@ data:
       gloss: "the yawning void beyond creation"
     - {form: "glerv-", class: "stem", field: "Name elements", gloss: "oil rendered for a lamp"}
     - {form: "glúd-", class: "stem", field: "Name elements", gloss: "a day"}
-    - {form: "gnúm-", class: "stem", field: "Name elements", gloss: "a clay pot"}
-    - {form: "grím-", class: "stem", field: "Name elements", gloss: "a mask"}
+    - {form: "gnum-", class: "stem", field: "Name elements", gloss: "a clay pot"}
+    - {form: "grim-", class: "stem", field: "Name elements", gloss: "a mask"}
     - {form: gron-, class: stem, field: Name elements, gloss: "green, and growing"}
     - {form: "gull-", class: "stem", field: "Name elements", gloss: "gold"}
     - {form: "geldur-", class: "stem", field: "Name elements", gloss: "a praise-poem"}
@@ -1000,20 +1000,20 @@ data:
     - {form: "hnell-", class: "stem", field: "Name elements", gloss: "steel"}
     - {form: "hnerv-", class: "stem", field: "Name elements", gloss: "a refrain"}
     - {form: "hnoll-", class: "stem", field: "Name elements", gloss: "a skull"}
-    - {form: "hnúr-", class: "stem", field: "Name elements", gloss: "a lament"}
+    - {form: "hnur-", class: "stem", field: "Name elements", gloss: "a lament"}
     - {form: "hovs-", class: "stem", field: "Name elements", gloss: "belonging to a hov"}
     - {form: "hofud-", class: "stem", field: "Name elements", gloss: "the head of a body of men"}
     - {form: hond-, class: stem, field: Name elements, gloss: a hand}
     - {form: "hrafan-", class: "stem", field: "Name elements", gloss: "a raven"}
     - {form: "hrend-", class: "stem", field: "Name elements", gloss: "a boundary marker"}
-    - {form: "hrím-", class: "stem", field: "Name elements", gloss: "rime"}
+    - {form: "hrim-", class: "stem", field: "Name elements", gloss: "rime"}
     - {form: "hring-", class: "stem", field: "Name elements", gloss: "a ring given at a hall"}
-    - {form: "hrúm-", class: "stem", field: "Name elements", gloss: "a howe, a barrow"}
+    - {form: "hrum-", class: "stem", field: "Name elements", gloss: "a howe, a barrow"}
     - {form: "hug-", class: "stem", field: "Name elements", gloss: "thought"}
     - {form: "hulm-", class: "stem", field: "Name elements", gloss: "a kenning"}
     - {form: "hvelm-", class: "stem", field: "Name elements", gloss: "a whale"}
-    - {form: "ís-", class: "stem", field: "Name elements", gloss: "ice"}
-    - {form: "járn-", class: "stem", field: "Name elements", gloss: "iron"}
+    - {form: "is-", class: "stem", field: "Name elements", gloss: "ice"}
+    - {form: "jarn-", class: "stem", field: "Name elements", gloss: "iron"}
     - {form: "jel-", class: "stem", field: "Name elements", gloss: "the midwinter feast"}
     - {form: "knelth-", class: "stem", field: "Name elements", gloss: "a charm"}
     - {form: "knerv-", class: "stem", field: "Name elements", gloss: "a body"}
@@ -1021,7 +1021,7 @@ data:
     - {form: "land-", class: "stem", field: "Name elements", gloss: "the ground a realm holds"}
     - {form: "lid-", class: "stem", field: "Name elements", gloss: "a company in the field"}
     - {form: "log-", class: "stem", field: "Name elements", gloss: "the law as it is recited"}
-    - {form: "mál-", class: "stem", field: "Name elements", gloss: "speech, and a suit at law"}
+    - {form: "mal-", class: "stem", field: "Name elements", gloss: "speech, and a suit at law"}
     - {form: "mann-", class: "stem", field: "Name elements", gloss: "a man, and mankind"}
     - form: "merki-"
       class: "stem"
@@ -1032,33 +1032,33 @@ data:
       class: "stem"
       field: "Name elements"
       gloss: "memory held rather than written"
-    - {form: "mót-", class: "stem", field: "Name elements", gloss: "a shape, a mold"}
+    - {form: "mot-", class: "stem", field: "Name elements", gloss: "a shape, a mold"}
     - {form: "mun-", class: "stem", field: "Name elements", gloss: "memory recited"}
     - {form: "ná-", class: "stem", field: "Name elements", gloss: "a corpse"}
     - {form: "njor-", class: "stem", field: "Name elements", gloss: "the open sea's deep"}
     - {form: "nelth-", class: "stem", field: "Name elements", gloss: "fate"}
-    - {form: "nótt-", class: "stem", field: "Name elements", gloss: "night"}
-    - {form: "ód-", class: "stem", field: "Name elements", gloss: "fury, and the seer's fit"}
+    - {form: "nott-", class: "stem", field: "Name elements", gloss: "night"}
+    - {form: "od-", class: "stem", field: "Name elements", gloss: "fury, and the seer's fit"}
     - form: "odel-"
       class: "stem"
       field: "Name elements"
       gloss: "land held by inheritance and not by grant"
     - {form: "orm-", class: "stem", field: "Name elements", gloss: "a wyrm"}
     - {form: "relth-", class: "stem", field: "Name elements", gloss: "a telling"}
-    - {form: "rún-", class: "stem", field: "Name elements", gloss: "a rune"}
-    - {form: "sár-", class: "stem", field: "Name elements", gloss: "a wound"}
+    - {form: "run-", class: "stem", field: "Name elements", gloss: "a rune"}
+    - {form: "sar-", class: "stem", field: "Name elements", gloss: "a wound"}
     - {form: "skald-", class: "stem", field: "Name elements", gloss: "a skald, and the skalds'"}
     - {form: "skalda-", class: "stem", field: "Name elements", gloss: "a skald, and the skalds'"}
     - {form: "skelf-", class: "stem", field: "Name elements", gloss: "the ice-edge"}
     - {form: "skip-", class: "stem", field: "Name elements", gloss: "a ship"}
-    - {form: "skjálf-", class: "stem", field: "Name elements", gloss: "a shaking"}
+    - {form: "skjalf-", class: "stem", field: "Name elements", gloss: "a shaking"}
     - {form: "skreld-", class: "stem", field: "Name elements", gloss: "a flyting"}
     - {form: "skrom-", class: "stem", field: "Name elements", gloss: "a crag"}
     - {form: "ski-", class: "stem", field: "Name elements", gloss: "cloud"}
     - {form: "smid-", class: "stem", field: "Name elements", gloss: "a craftsman"}
     - {form: "snerv-", class: "stem", field: "Name elements", gloss: "a prophecy"}
     - {form: "snir-", class: "stem", field: "Name elements", gloss: "wind"}
-    - {form: "sól-", class: "stem", field: "Name elements", gloss: "the sun"}
+    - {form: "sol-", class: "stem", field: "Name elements", gloss: "the sun"}
     - {form: "stein-", class: "stem", field: "Name elements", gloss: "stone"}
     - {form: "stórald-", class: "stem", field: "Name elements", gloss: "a saga"}
     - {form: "storm-", class: "stem", field: "Name elements", gloss: "a storm"}
@@ -1070,17 +1070,17 @@ data:
       field: "Name elements"
       gloss: "speech made on another's behalf"
     - {form: "thresk-", class: "stem", field: "Name elements", gloss: "a keel"}
-    - {form: "thrún-", class: "stem", field: "Name elements", gloss: "thunder"}
+    - {form: "thrun-", class: "stem", field: "Name elements", gloss: "thunder"}
     - {form: "thrumu-", class: "stem", field: "Name elements", gloss: "thunder"}
     - {form: "thurs-", class: "stem", field: "Name elements", gloss: "a giant"}
     - {form: "ting-", class: "stem", field: "Name elements", gloss: "the lawful assembly"}
     - {form: "tvelg-", class: "stem", field: "Name elements", gloss: "a remnant"}
-    - {form: "úlf-", class: "stem", field: "Name elements", gloss: "a wolf"}
+    - {form: "ulf-", class: "stem", field: "Name elements", gloss: "a wolf"}
     - {form: "val-", class: "stem", field: "Name elements", gloss: "the slain"}
     - {form: vatan-, class: stem, field: Name elements, gloss: water}
-    - {form: "vél-", class: "stem", field: "Name elements", gloss: "a wile"}
+    - {form: "vel-", class: "stem", field: "Name elements", gloss: "a wile"}
     - {form: "vetur-", class: "stem", field: "Name elements", gloss: "winter"}
-    - {form: "víg-", class: "stem", field: "Name elements", gloss: "a battle joined"}
+    - {form: "vig-", class: "stem", field: "Name elements", gloss: "a battle joined"}
     - {form: "vorn-", class: "stem", field: "Name elements", gloss: "a defense held"}
     - {form: vrell-, class: stem, field: Name elements, gloss: blood}
     - {form: "vuld-", class: "stem", field: "Name elements", gloss: "grain"}
@@ -5979,10 +5979,10 @@ data:
       - {source: a founder, takes: givenName, joining: [-s, -a]}
       - source: the ting and its law
         takes: element
-        elements: [ting-, log-, mál-, hring-, dóms-]
+        elements: [ting-, log-, mal-, hring-, doms-]
       - source: what the ground bears
         takes: element
-        elements: [ask-, ís-, stein-, vuld-, hvelm-, dvon-]
+        elements: [ask-, is-, stein-, vuld-, hvelm-, dvon-]
       - {source: a sanctuary cut into the rock, takes: element, elements: [hola-, hovs-, horgs-]}
       - {source: the gods' world, takes: element, elements: [asgar-]}
   elements:
@@ -6046,7 +6046,7 @@ data:
     - {name: frodvin, tongue: nordmal}
     - {name: solrún, tongue: nordmal}
     - {name: mótefnir, tongue: nordmal}
-    - {name: velgrímur, tongue: nordmal}
+    - {name: velgrimur, tongue: nordmal}
     - {name: nahild, tongue: nordmal}
     - {name: svartbrandur, tongue: nordmal}
     - {name: heimsask, tongue: nordmal}
@@ -6057,7 +6057,7 @@ data:
     - {name: nulthey, tongue: nordmal}
     - {name: sólrunsholl, tongue: nordmal}
     - {name: valdrengir, tongue: nordmal}
-    - {name: vetrúlfur, tongue: nordmal}
+    - {name: vetrulfur, tongue: nordmal}
     - {name: vigvoll, tongue: nordmal}
     - {name: heimsormur, tongue: nordmal}
     - {name: thrúnhamarr, tongue: nordmal}
@@ -6135,6 +6135,99 @@ data:
     - {form: aldr, instead: aldur, why: "an Earth word"}
     - {form: hringr, instead: hringur, why: "an Earth word"}
     - {form: brandr, instead: brandur, why: "an Earth word"}
+    - form: bú-
+      instead: bu-
+      why: "an acute on the syllable the common rule stresses does nothing"
+    - form: drótt-
+      instead: drott-
+      why: "an acute on the syllable the common rule stresses does nothing"
+    - form: fród-
+      instead: frod-
+      why: "an acute on the syllable the common rule stresses does nothing"
+    - form: gnúm-
+      instead: gnum-
+      why: "an acute on the syllable the common rule stresses does nothing"
+    - form: grím-
+      instead: grim-
+      why: "an acute on the syllable the common rule stresses does nothing"
+    - form: hnúr-
+      instead: hnur-
+      why: "an acute on the syllable the common rule stresses does nothing"
+    - form: hrím-
+      instead: hrim-
+      why: "an acute on the syllable the common rule stresses does nothing"
+    - form: hrúm-
+      instead: hrum-
+      why: "an acute on the syllable the common rule stresses does nothing"
+    - form: ís-
+      instead: is-
+      why: "an acute on the syllable the common rule stresses does nothing"
+    - form: járn-
+      instead: jarn-
+      why: "an acute on the syllable the common rule stresses does nothing"
+    - form: mál-
+      instead: mal-
+      why: "an acute on the syllable the common rule stresses does nothing"
+    - form: mót-
+      instead: mot-
+      why: "an acute on the syllable the common rule stresses does nothing"
+    - form: nótt-
+      instead: nott-
+      why: "an acute on the syllable the common rule stresses does nothing"
+    - form: ód-
+      instead: od-
+      why: "an acute on the syllable the common rule stresses does nothing"
+    - form: rún-
+      instead: run-
+      why: "an acute on the syllable the common rule stresses does nothing"
+    - form: sár-
+      instead: sar-
+      why: "an acute on the syllable the common rule stresses does nothing"
+    - form: skjálf-
+      instead: skjalf-
+      why: "an acute on the syllable the common rule stresses does nothing"
+    - form: sól-
+      instead: sol-
+      why: "an acute on the syllable the common rule stresses does nothing"
+    - form: thrún-
+      instead: thrun-
+      why: "an acute on the syllable the common rule stresses does nothing"
+    - form: úlf-
+      instead: ulf-
+      why: "an acute on the syllable the common rule stresses does nothing"
+    - form: vél-
+      instead: vel-
+      why: "an acute on the syllable the common rule stresses does nothing"
+    - form: víg-
+      instead: vig-
+      why: "an acute on the syllable the common rule stresses does nothing"
+    - form: velgrímur
+      instead: velgrimur
+      why: "an acute on the syllable the common rule stresses does nothing"
+    - form: vetrúlfur
+      instead: vetrulfur
+      why: "an acute on the syllable the common rule stresses does nothing"
+    - form: "-dómur"
+      instead: "-domur"
+      why: "an acute on the syllable the common rule stresses does nothing"
+    - form: "-módir"
+      instead: "-modir"
+      why: "an acute on the syllable the common rule stresses does nothing"
+    - form: "-grímur"
+      instead: "-grimur"
+      why: "an acute on the syllable the common rule stresses does nothing"
+    - form: "-hnúra"
+      instead: "-hnura"
+      why: "an acute on the syllable the common rule stresses does nothing"
+    - form: "-káppar"
+      instead: "-kappar"
+      why: "an acute on the syllable the common rule stresses does nothing"
+    - form: "-stjóri"
+      instead: "-stjori"
+      why: "an acute on the syllable the common rule stresses does nothing"
+    - form: "-úlfur"
+      instead: "-ulfur"
+      why: "an acute on the syllable the common rule stresses does nothing"
     - {form: Aelwyth, instead: Eilwith, why: respelled to Pronouncing Thalorna}
     - {form: bodfyl, instead: bodfil, why: y is never a vowel}
     - {form: dyrva, instead: dirva, why: y is never a vowel}
@@ -6238,7 +6331,7 @@ SELECT CASE of WHEN 'bound' THEN 'a bestowed or ting-built name' WHEN 'compound'
 FROM name_shapes WHERE language = 'thalorna-note-skill-nordmalng' ORDER BY position
 ```
 
-**There is no glottal stop.** No name carries an apostrophe and no two vowels stand in hiatus. A vowel pair is a single diphthong spoken in one beat, and the free pairs are `ae`, `au`, `ei` and `ey`. An element carries whatever pair its own spelling has, so `-guard` and `-stead` keep theirs wherever they stand.
+**There is no glottal stop.** No name carries an apostrophe. A vowel pair is a single diphthong spoken in one beat, and the free pairs are `au`, `ei` and `ey`. In `ae`, as in `-aett`, both vowels are said. An element carries whatever pair its own spelling has, so `-guard` and `-stead` keep theirs wherever they stand.
 
 ### Weight, foot and beat
 
@@ -6407,7 +6500,7 @@ FROM affixes WHERE language = 'thalorna-note-skill-nordmalng' AND kind IS NULL A
 
 An **element** is a piece that means something and does not stand alone as a word. Every compound name is elements and nothing else, so the lexicon is the whole of what a compound may be made of. The thirty-four name-stems are elements too, and the ones that carry the most weight: a place or a person named from a stem is named from the stock the halls themselves are named from.
 
-Four things happen at a seam. A stem and an ending that meet on one consonant write it once, which is the bound seam's rule and only the bound seam's: a compound seam writes both, so _storm-_ and `-melendir` give Stormmelendir. An element may take a joining `-s` or `-a` before the seam, which is why the world-ash is [[lore-heimsask|Heimsask]] and [[affiliation-skaldscrcl|the Skalds' Circle]] is Skaldahringur; those endings join an element to the next piece, and § _Place names_ gives the joining forms a whole name takes. An element that would leave a name ending in `f` takes the strong `-r`, so the wolf closes a compound as `-úlfur`. And any element may stand alone as a name by taking that same `-r` in place of a second element, which is how Minnir is built.
+Four things happen at a seam. A stem and an ending that meet on one consonant write it once, which is the bound seam's rule and only the bound seam's: a compound seam writes both, so _storm-_ and `-melendir` give Stormmelendir. An element may take a joining `-s` or `-a` before the seam, which is why the world-ash is [[lore-heimsask|Heimsask]] and [[affiliation-skaldscrcl|the Skalds' Circle]] is Skaldahringur; those endings join an element to the next piece, and § _Place names_ gives the joining forms a whole name takes. An element that would leave a name ending in `f` takes the strong `-r`, so the wolf closes a compound as `-ulfur`. And any element may stand alone as a name by taking that same `-r` in place of a second element, which is how Minnir is built.
 
 **A kept word is not an element.** The words in _The words the tongue keeps_
 are given whole, and no compound is built from one. An element that shares a
@@ -6474,16 +6567,16 @@ An office is an element and one of the office suffixes, and the suffix says what
 | -------------------- | ------------------------------ |
 | `-aett`              | a kin taken as a body          |
 | `-beri`              | the bearer of a thing          |
-| `-fadir`, `-módir`   | the head of a hov              |
+| `-fadir`, `-modir`   | the head of a hov              |
 | `-gudi`              | a priest-chieftain             |
 | `-madur`             | a man of a station             |
 | `-mál`               | the voice a body speaks with   |
-| `-stjóri`            | the master of a thing          |
+| `-stjori`            | the master of a thing          |
 | `-vald`              | one who wields an authority    |
 | `-vordur`, `-verdir` | the ward or keeper of a thing  |
 | `-skald`             | a sworn skald holding a charge |
 
-**An office suffix answers for something—a hov, a kin, a station, an authority, a thing kept or wielded—rather than naming what a member has become.** A closing element that marks a stage climbed in a ladder of trust, a trial survived, or a deed done is not an office suffix, however senior the standing it carries: `-hofding` names a chieftain's seniority among peers and stays in the general lexicon, while `-stjóri` names the one office of a muster's or a household's master and stands in the table above. `-mál` makes the chair an order elects to speak for it, so the chair of [[affiliation-thursborn|the Giant's Children]] is the **Sarmál**, that of [[affiliation-gronverdir|the Green Wardens]] the **Gronmál** and that of [[affiliation-ordrstrmspkrs|the Storm-Speakers]] the **Hamarsmál**, and [[affiliation-malldbndlg|the Compact]] names its Speaker the **Bandalagstalsmadur**, a man of the league's speech. The ten suffixes are closing elements like any other, so a compound that takes one is judged the same way every compound is; what sets an office apart from a rank is never the element alone but what it is asked to answer for.
+**An office suffix answers for something—a hov, a kin, a station, an authority, a thing kept or wielded—rather than naming what a member has become.** A closing element that marks a stage climbed in a ladder of trust, a trial survived, or a deed done is not an office suffix, however senior the standing it carries: `-hofding` names a chieftain's seniority among peers and stays in the general lexicon, while `-stjori` names the one office of a muster's or a household's master and stands in the table above. `-mál` makes the chair an order elects to speak for it, so the chair of [[affiliation-thursborn|the Giant's Children]] is the **Sarmál**, that of [[affiliation-gronverdir|the Green Wardens]] the **Gronmál** and that of [[affiliation-ordrstrmspkrs|the Storm-Speakers]] the **Hamarsmál**, and [[affiliation-malldbndlg|the Compact]] names its Speaker the **Bandalagstalsmadur**, a man of the league's speech. The ten suffixes are closing elements like any other, so a compound that takes one is judged the same way every compound is; what sets an office apart from a rank is never the element alone but what it is asked to answer for.
 
 **The rank is Skald.** The [[affiliation-skaldscrcl|Skalds' Circle]] writes its sworn rank, [[lore-skaldrnk|Skald]], with the acute, and so are the offices built on it: the **Hirvskáld** and the **Logskáld**, and in the plural the Hirvskaldar and the Logskaldar. Every other use carries no accent—the kept word _skald_, the `-skald` element, and a skald spoken of as the ordinary noun—so the mark tells a reader when the Circle's standing is meant.
 
@@ -6557,11 +6650,11 @@ A standing compound names the claim its body grants. An empty level in a ladder 
 | Bandlagsmadur  | `bandlag-` + joining `-s` + `-madur`  | Man on the league's roll         |
 | Bandlagsvargur | `bandlag-` + joining `-s` + `-vargur` | The league's outlaw              |
 | Hofudvald      | `hofud-` + `-vald`                    | The head who wields authority    |
-| Hrimmadur      | `hrím-` + `-madur`                    | Man of the rime's station        |
-| Hrimvin        | `hrím-` + `-vin`                      | Friend of the rime               |
+| Hrimmadur      | `hrim-` + `-madur`                    | Man of the rime's station        |
+| Hrimvin        | `hrim-` + `-vin`                      | Friend of the rime               |
 | Bletlok        | `blet-` + `-lok`                      | The sacrifice closed to him      |
 | Navargur       | `ná-` + `-vargur`                     | The corpse-goddess's outlaw      |
 | Bjartgengir    | `bjart-` + `-gengir`                  | Those who go to the light        |
 | Bjartlok       | `bjart-` + `-lok`                     | The light closed to him          |
 
-`-vargur` names membership revoked from someone received; `-lok` names admission withheld. `-hofding` names seniority among peers who choose a chair; `-stjóri` names a master's office. **Lidstjori**, `lid-` + `-stjóri`, means master of a company and is deliberately unused as a Compact rung: its Signed Captain is a standing before the league, while the league's administrative chair is its Speaker. The Giant's Children's senior standing is not Eidhofding: their Fathers of the Halls choose the chair by virtue of office.
+`-vargur` names membership revoked from someone received; `-lok` names admission withheld. `-hofding` names seniority among peers who choose a chair; `-stjori` names a master's office. **Lidstjori**, `lid-` + `-stjori`, means master of a company and is deliberately unused as a Compact rung: its Signed Captain is a standing before the league, while the league's administrative chair is its Speaker. The Giant's Children's senior standing is not Eidhofding: their Fathers of the Halls choose the chair by virtue of office.

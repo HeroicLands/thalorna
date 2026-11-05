@@ -1,6 +1,6 @@
 ---
 shortcode: itharisul
-name: {full: Precursor Stone, en: [The Held Stones], kali: [Ithasul, kaan'sul]}
+name: {full: Precursor Stone, en: [The Held Stones], kali: [Ithasul, kaan-sul]}
 type: lore
 subType: material
 description: "The substance of the Ithari works as Kalihara's custodians know it: how it looks and feels, the states a work passes through, what a custodian can and cannot do with one, the oval openings, and the held stones, living and dead."
@@ -59,20 +59,20 @@ On Kalihara an opening is procedure, and the Ithakan hold it. The liturgy is lik
 
 ## The Held Stones
 
-A _kaan'sul_ (held stone) is a piece of ithasul small enough to carry in the hand, and the island keeps two kinds: living and dead.
+A _kaan-sul_ (held stone) is a piece of ithasul small enough to carry in the hand, and the island keeps two kinds: living and dead.
 
 **A living held stone** belongs to one working work, and it is handed down within the lineage that holds that work. Each is shaped to a purpose of its own. It is gray like its work, and in the fist it gives like the rest of the substance and comes back; that is how a custodian tells a true held stone from a carved imitation in the dark. It warms in the hand while its work is tended. When its work goes dark the stone goes cold, and when the work dies the stone is a dead held stone from then on. None was taken from its work, since nothing is ever taken from a living work, and the archive does not say where any of them came from.
 
 **A dead held stone** is bone-white and hard, with none of a living work's gray and none of its give, and a custodian knows one by feel the moment it is in the hand. A white work that has cracked is the only kind that has ever let a piece go. It yields only what it yields: no blow takes a piece off, and none has ever been taken from a living work, nor tried for.
 
-Every dead held stone ends in a sanctuary's keeping, and it comes there by one of two roads. Most come from the [Rite of Last Tending]{.name data-type="lore/custom"}, when the custodians take a single held stone from a cracked white work and carry it back to the sanctuary, and the rest are surrendered. When a living held stone's work dies the stone is dead from that day, and the lineage that kept it gives it up to a sanctuary. Every sanctuary keeps at least one. Dead held stones are the island's reference pieces for what becomes of the substance after a work dies, and a kaan'sili learns on them to tell dead stone from living, a held stone in one hand and a living work under the other. Custodians still call a dead held stone a fragment as often as not, as though it had been broken from something; nothing is ever broken from a work, and the two words name the same piece.
+Every dead held stone ends in a sanctuary's keeping, and it comes there by one of two roads. Most come from the [Rite of Last Tending]{.name data-type="lore/custom"}, when the custodians take a single held stone from a cracked white work and carry it back to the sanctuary, and the rest are surrendered. When a living held stone's work dies the stone is dead from that day, and the lineage that kept it gives it up to a sanctuary. Every sanctuary keeps at least one. Dead held stones are the island's reference pieces for what becomes of the substance after a work dies, and a kaan-sili learns on them to tell dead stone from living, a held stone in one hand and a living work under the other. Custodians still call a dead held stone a fragment as often as not, as though it had been broken from something; nothing is ever broken from a work, and the two words name the same piece.
 
 ## See Also
 
 [[lore-theithari|The Ithari]]
 : the people who left the works, and the works elsewhere on Thalorna
 
-[[affiliation-tharivaan|Thári'vaan]]
+[[affiliation-tharivaan|Thári-vaan]]
 : the custodians, their liturgies and the Rite of Last Tending
 
 [[lore-sarisul|The Tending-Stones]]

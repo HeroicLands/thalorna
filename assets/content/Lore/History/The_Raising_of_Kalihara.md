@@ -3,7 +3,7 @@ shortcode: kaliharupl
 name: {full: The Raising of Kalihara, en: [The Uplift of Kalihara]}
 type: lore
 subType: history
-description: "The Ithari raise the human bands of Kalihara into a civilization that arrives complete—language, agriculture, medicine, governance and Thári'vaan—and do it nowhere else on Thalorna."
+description: "The Ithari raise the human bands of Kalihara into a civilization that arrives complete—language, agriculture, medicine, governance and Thári-vaan—and do it nowhere else on Thalorna."
 tags: [history, spine]
 data:
   packFolder: settinglore
@@ -13,10 +13,10 @@ data:
       depth: world
       sources: [lore-theithari, affiliation-kalihara, place-klhrcntnnt]
       summary: >-
-        The Ithari raise the humans of Kalihara into a civilization that arrives complete—agriculture, medicine, governance, a vocabulary for all of it, and the philosophical tradition Thári'vaan. Nothing on the island shows the long ascent every other human tradition shows. It is the only place on Thalorna where the Ithari raised anyone.
+        The Ithari raise the humans of Kalihara into a civilization that arrives complete—agriculture, medicine, governance, a vocabulary for all of it, and the philosophical tradition Thári-vaan. Nothing on the island shows the long ascent every other human tradition shows. It is the only place on Thalorna where the Ithari raised anyone.
       standing: reconstructed
       names:
-        - name: Thári'vaan
+        - name: Thári-vaan
           by: affiliation-tharivaan
           gloss: the philosophy given at the raising, and the tradition that keeps it
       where: {locus: [place-kaliharargn]}
@@ -28,7 +28,7 @@ data:
       accounts:
         - by: affiliation-kalihara
           says: >-
-            We were taught because teaching was the right way to treat what they found, and Thári'vaan is true independently of who first said it.
+            We were taught because teaching was the right way to treat what they found, and Thári-vaan is true independently of who first said it.
           agrees: full
         - by: place-worldthlrn
           says: >-
@@ -42,7 +42,7 @@ data:
 
 In The Raising of Kalihara, what [[lore-theithari|the Ithari]] made on [[place-klhrcntnnt|Kalihara]] was not a people improved but a civilization invented. It arrived
 complete: agriculture, medicine, governance, a vocabulary for all of it, and
-[[affiliation-tharivaan|Thári'vaan]], a disciplined account of the world as a single living whole
+[[affiliation-tharivaan|Thári-vaan]], a disciplined account of the world as a single living whole
 to be observed and tended rather than mastered or appeased.
 
 The Kaliharans hold that they were taught because teaching was the right way to treat what the Ithari

@@ -14,30 +14,30 @@ data:
   governance:
     model: autocracy
     summary: >-
-      Held of the Emperor by patent by the Daozhuo Wojai Doja, who sits at Yuwu and governs the mountain through his retainers, the headmen of its villages and the Woju who keep its harbors.
+      Held of the Emperor by patent by the Dauzhwo Wojai Doja, who sits at Yuwu and governs the mountain through his retainers, the headmen of its villages and the Woju who keep its harbors.
     ranks:
       - level: 0
         title: Outlaw
         description: >-
-          One stripped of the Daozhuo's protection and put outside the mountain's law, with no appeal.
+          One stripped of the Dauzhwo's protection and put outside the mountain's law, with no appeal.
       - level: 1
         title: Subject
         description: >-
-          Lives or holds land under the Daozhuo of Wojai.
+          Lives or holds land under the Dauzhwo of Wojai.
       - level: 2
         title: Retainer
         description: >-
-          Serves the Daozhuo for a stipend in bales or a village held as a fief, and commands the domain's soldiers and ships.
+          Serves the Dauzhwo for a stipend in bales or a village held as a fief, and commands the domain's soldiers and ships.
       - level: 3
-        title: Shuizhuo
+        title: Shwizhwo
         description: >-
-          Holds one to three villages of the domain and owes the Daozhuo men in war.
+          Holds one to three villages of the domain and owes the Dauzhwo men in war.
       - level: 4
         title: Heir
         description: >-
-          The Daozhuo's named successor, who climbs the mountain for him when he cannot.
+          The Dauzhwo's named successor, who climbs the mountain for him when he cannot.
       - level: 5
-        title: Daozhuo
+        title: Dauzhwo
         description: >-
           Holds Yujai by the Emperor's patent, with his own army, fleet, justice and taxes.
     offices:
@@ -53,7 +53,7 @@ data:
 sohl: {system: {commonSkills: [jurthatlng]}}
 ---
 
-The Wojai Domain, held by House Wojai (Sea Place), holds [[place-yujai|Yujai]] (Moon Peak), the mountain on the south coast of the great island and the site of the best harbor in the realm, by patent of the Emperor. Its lord is the Daozhuo [Wojai Doja]{.name data-type="being/npc"} (Great Blade), fifty-six years old, who sits in the castle town of [[place-yuwu|Yuwu]] (Moon Hall), population 9,000, the largest seat of the eight houses. The domain holds 70,000 people, is assessed at 52,000 bales a year, and musters 1,300 men and 40 hulls. Wojai is independent of both blocs, and Doja has named his price to nobody.
+The Wojai Domain, held by House Wojai (Sea Place), holds [[place-yujai|Yujai]] (Moon Peak), the mountain on the south coast of the great island and the site of the best harbor in the realm, by patent of the Emperor. Its lord is the Dauzhwo [Wojai Doja]{.name data-type="being/npc"} (Great Blade), fifty-six years old, who sits in the castle town of [[place-yuwu|Yuwu]] (Moon Hall), population 9,000, the largest seat of the eight houses. The domain holds 70,000 people, is assessed at 52,000 bales a year, and musters 1,300 men and 40 hulls. Wojai is independent of both blocs, and Doja has named his price to nobody.
 
 ## The Land
 
@@ -75,7 +75,7 @@ The [Woju]{.name data-type="affiliation/lineage"} keep the harbors and hold [Sho
 
 ## Hulls and Muster
 
-The muster is 1,300 men and 40 hulls. A Wojai hull is a merchant ship that carries a warship's crew when the lord calls, and the line between the two is thin. The hulls carry Jenchai's blades, lacquer, silk and salt out through the bay to the [[place-vedyarargn|Vedyaran coast]], and the harbor takes in the jade, tea, bronze and silver the islands import. The trade to Vedyara crosses [[place-surtasamdra|Surta-samedra]], which is closed to shipping for four months of the year, and the Shuonong merchants of Yuwu finance the voyages.
+The muster is 1,300 men and 40 hulls. A Wojai hull is a merchant ship that carries a warship's crew when the lord calls, and the line between the two is thin. The hulls carry Jenchai's blades, lacquer, silk and salt out through the bay to the [[place-vedyarargn|Vedyaran coast]], and the harbor takes in the jade, tea, bronze and silver the islands import. The trade to Vedyara crosses [[place-surtasamdra|Surta-samedra]], which is closed to shipping for four months of the year, and the Shwonong merchants of Yuwu finance the voyages.
 
 ## Relations
 

@@ -1,6 +1,6 @@
 ---
 shortcode: sarisul
-name: {full: The Tending-Stones, kali: [sari'sul]}
+name: {full: The Tending-Stones, kali: [sari-sul]}
 type: lore
 subType: custom
 description: "The village works of Kalihara—one beside the spring, fishing ground, terrace or grove of every lineage village—how a lineage tends its stone, what a village loses when the stone goes white, and the count the custodians keep of the white ones."
@@ -8,11 +8,11 @@ tags: [lore, kalihara, ithari-work]
 data: {packFolder: settinglore, culture: kaliharanclt}
 ---
 
-Every lineage village of [[place-klhrcntnnt|Kalihara]] has a work of [[lore-theithari|the Ithari]] of its own, nearer to hand than the great works and smaller. The Tending-Stones are what the [[lore-kaliharanclt|Kaliharan]] people call _sari'sul_ (tending-stones). Each stands beside the one thing its village most depends on and keeps it: a clear-running spring, an unfailing fishing ground, a terrace draining in the rains, a fruiting grove. Each is [[lore-itharisul|ithasul]] like every work—gray, without a joint, and giving under the hand.
+Every lineage village of [[place-klhrcntnnt|Kalihara]] has a work of [[lore-theithari|the Ithari]] of its own, nearer to hand than the great works and smaller. The Tending-Stones are what the [[lore-kaliharanclt|Kaliharan]] people call _sari-sul_ (tending-stones). Each stands beside the one thing its village most depends on and keeps it: a clear-running spring, an unfailing fishing ground, a terrace draining in the rains, a fruiting grove. Each is [[lore-itharisul|ithasul]] like every work—gray, without a joint, and giving under the hand.
 
 ## The Tending
 
-A tending-stone is the charge of the lineage that holds the village, tended under the eye of the village's kaan'vaar. The [Dawn Tending]{.name data-type="lore/custom"} is spoken over it every morning in every weather: the sequence in the archaic tongue and the hand laid on named places in a named order, learned by rote and performed the same way each time. The terrace villages of [[place-klhrestrrc|the Eastern Terraces]] also see the custodians of [[place-mirthaan|Mirthaan]], who come down with the Master of the Terraces' word.
+A tending-stone is the charge of the lineage that holds the village, tended under the eye of the village's kaan-vaar. The [Dawn Tending]{.name data-type="lore/custom"} is spoken over it every morning in every weather: the sequence in the archaic tongue and the hand laid on named places in a named order, learned by rote and performed the same way each time. The terrace villages of [[place-klhrestrrc|the Eastern Terraces]] also see the custodians of [[place-mirthaan|Mirthaan]], who come down with the Master of the Terraces' word.
 
 A village and its stone are one holding. The lineage's water, catch or harvest is the stone's charge, and the lineage's standing among its neighbors rests on both. A few lineages also keep a living held stone belonging to their village's work, handed down with the charge. It warms in the hand while the work is tended, and it goes cold when the work goes dark. When the work dies the stone is dead with it, and the lineage gives it up to a sanctuary.
 
@@ -46,5 +46,5 @@ Narivothei's Elder petitioned the Council in the second year after the village's
 [[lore-klhrsnctrs|The Sanctuaries of Kalihara]]
 : which sanctuary tends which work
 
-[[affiliation-tharivaan|Thári'vaan]]
+[[affiliation-tharivaan|Thári-vaan]]
 : the custodians, the Dawn Tending and the Rite of Last Tending

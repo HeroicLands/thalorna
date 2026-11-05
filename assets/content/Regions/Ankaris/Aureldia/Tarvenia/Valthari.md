@@ -23,7 +23,7 @@ The [[affiliation-frctyvlthr|Free City of Valthari]] governs it through the [[af
 
 Most people come to Valthari by sea, and the sea makes them wait. The coast is sand, and a bar lies across the harbor mouth that shifts with every winter's storms. No master takes a ship over it without a pilot of the [Pilots' Guild of Valthari]{.name data-type="affiliation/guild"}, which examines every pilot who works the bar, and in the month of the worst winter weather the pilots do not sail at all. Deep-laden ships anchor in the roads outside and send their cargo in by lighter. Every hull that crosses the bar pays the Harbormaster's dues.
 
-By land the road comes down from [[place-bruthena|Bruthena]], a day's ride north across the edge of the salt marsh, the last stretch of the old imperial road from the lowlands of [[place-leonrik|Lienrik]].
+By land the road comes down from [[place-bruthena|Bruthena]], a day's ride north across the edge of the salt marsh, the last stretch of the old imperial road from the lowlands of [[place-leonrik|Lyenrik]].
 
 The city is loud and all its tongues talk at once. [[skill-provnzlng|Provenzal]] is spoken widely beside [[skill-tarvenlng|Tarveni]], and on the quays everybody speaks the harbor pidgin [[skill-valtarlng|Valtari]], which is named for this port. A stranger's quarrel with a house is heard at [[place-charterhall|the Charter Hall]].
 
@@ -33,7 +33,7 @@ The Konsezarath is drawn from the dozen or so merchant dynasties that control th
 
 - **The charter.** If the High King dies, his successor swears the terms of the crown at [[place-lezkora|Lezkora]], the city's charter among them, and is paid the year's tribute. The council cannot agree whether to pay that and no more or to back the likeliest lord, and every rider up the road from the city is watched.
 - **The share.** The seamen of Valthari refuse to sign on until the ship-owning houses raise the crew's share. The owners' council, the houses that own ships meeting apart, has asked the pilot [[being-dalenavlrn|Dálena Valaron]] to sail with her loyal crew and break the refusal. Her house's own ship is mortgaged to one of those houses ([[place-durgalis|Dúrgalis]]).
-- **The channel.** A Valthari house has again proposed cutting a channel through the salt marsh deep enough for barges to reach the port without passing the King of Lienrik's toll at Bruthena, and the king has again declined to allow the digging on his side.
+- **The channel.** A Valthari house has again proposed cutting a channel through the salt marsh deep enough for barges to reach the port without passing the King of Lyenrik's toll at Bruthena, and the king has again declined to allow the digging on his side.
 
 ## Order and Law {#order-and-law}
 
@@ -41,7 +41,7 @@ The watch, the _zórala_, keeps the streets and the quays under the Captain of t
 
 ## What the City Lives By {#what-the-city-lives-by}
 
-Valthari buys most of what [[place-leonrik|Lienrik]] sells to the world, at prices Valthari sets: the grain and the cattle of the plain and the wine of [[place-enthara|Enthara]], which the houses buy on the vine. Galváreni ships bring salt fish to the city and carry salt home, and the salt comes from the city's own pans at [[place-threskon|Threskon]]. The houses sell all of it across the [[place-vylarianse|Vilérian Sea]] to [[place-provenzrgn|Provénzia]], [[place-helionis|Helionis]] and the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], and the dockside markets trade in goods from all over [[place-midhalnrgn|Midhalión]].
+Valthari buys most of what [[place-leonrik|Lyenrik]] sells to the world, at prices Valthari sets: the grain and the cattle of the plain and the wine of [[place-enthara|Enthara]], which the houses buy on the vine. Galváreni ships bring salt fish to the city and carry salt home, and the salt comes from the city's own pans at [[place-threskon|Threskon]]. The houses sell all of it across the [[place-vylarianse|Vilérian Sea]] to [[place-provenzrgn|Provénzia]], [[place-helionis|Helionis]] and the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], and the dockside markets trade in goods from all over [[place-midhalnrgn|Midhalión]].
 
 The city also sells men. The hiring yards behind the quays are where the Tarvenan companies sign on for service abroad, and a captain from the high valleys is "of the Gray Highlands" in them ([[place-grayhghlnds|Gray Highlands]]). Its banks are the [[affiliation-danvar|Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]], and the paper script of the Vilérian system passes in its counting-houses.
 

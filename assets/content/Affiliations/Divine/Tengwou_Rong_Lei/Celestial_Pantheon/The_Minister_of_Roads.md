@@ -47,10 +47,10 @@ data:
       - level: 7
         title: Chief Intendant
         description: >-
-          Senior mortal officer of a bureau's whole temple establishment, who signs what is transmitted upward to its Teng Gui and answers for it if the bureau rejects it.
+          Senior mortal officer of a bureau's whole temple establishment, who signs what is transmitted upward to its Teng Gwi and answers for it if the bureau rejects it.
     offices:
       Wodou, The Minister of Roads: >-
-        Teng Gui of the Dou Sei, whose power is the authority of the office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
+        Teng Gwi of the Dou Sei, whose power is the authority of the office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
       Douzhi: >-
         Waymark Spirits, who maintain the boundaries between classified regions.
       Zhowo: >-

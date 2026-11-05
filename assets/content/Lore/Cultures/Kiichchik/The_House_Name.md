@@ -22,7 +22,7 @@ data:
 
 **The House Name**, _k'elal kil sh'ulum_, is a word-dance of [[place-kultaqan|Kul'taq'an]], the city of [[affiliation-ixilankul|Ish'ilankul]] where the central dispatch of the Speaking Road stands. Two dancers perform it in the great plaza on the first day of Shok'alal, the war month, when the harvest is in and the campaigning season opens, to a slit drum and two shell trumpets. They wear the armor of feathers and leather that a warrior of the plateau wears in procession, and they circle each other, and each of them stops to speak and turns away when he has spoken. The dancer of the captive is a young noble who has not yet been on a campaign. The dance teaches him how a captive speaks.
 
-It is the speech of a war-leader of Kul'taq'an and of the noble he took in a _ch'utik'at_, a captive-hunt, from the independent city of [[place-qokulqat|Q'o Kul'qat]] (the "Twin Pyramid") in [[affiliation-neokbaate|Ne'ok Ba'ate]], across the days between the capture and the summer solstice, when the captive goes up the pyramid of [[lore-tzenultqandty|Ts'en'ul Tq'an]]. Nobody in Kul'taq'an says when the capture was, and the dance gives no Ts'enmah's name. It turns on the rule of [[skill-kiichek|Ki'i'chek Language]]. A noble's name has three or more elements; kin, the household and equals use its first element alone, and a person of lower standing never does. The war-leader and the captive are of equal standing, so either may use the other's house name, and through the whole dance neither does. Each calls the other by his full name and his title at every speech, so that the audience hears the full names spoken more than twenty times before the end.
+It is the speech of a war-leader of Kul'taq'an and of the noble he took in a _ch'utik'at_, a captive-hunt, from the independent city of [[place-qokulqat|Q'o Kul'qat]] (the "Twin Pyramid") in [[affiliation-neokbaate|Ne'ok Ba'ate]], across the days between the capture and the summer solstice, when the captive goes up the pyramid of [[lore-tzenultqandty|Ts'en'ul Tq'an]]. Nobody in Kul'taq'an says when the capture was, and the dance gives no Ts'enmah's name. It turns on the rule of [[skill-kiichek|Kì'ì'chek Language]]. A noble's name has three or more elements; kin, the household and equals use its first element alone, and a person of lower standing never does. The war-leader and the captive are of equal standing, so either may use the other's house name, and through the whole dance neither does. Each calls the other by his full name and his title at every speech, so that the audience hears the full names spoken more than twenty times before the end.
 
 The drum stops before each speech and starts again after it. The speeches are given here as they are danced.
 
@@ -163,8 +163,8 @@ The city tells the matter of the third request two ways. In the warrior houses t
 [[affiliation-neokbaate|Ne'ok Ba'ate]]
 : the realm of the isthmus, and the independent city of Q'o Kul'qat
 
-[[skill-kiichek|Ki'i'chek house names]]
+[[skill-kiichek|Kì'ì'chek house names]]
 : who may use the first element of a name alone, and who may never
 
-[[place-kiichchik|Ki'ich'chik]]
+[[place-kiichchik|Kì'ìch'chik]]
 : the Speaking Road, its runners and the priests who carry everything

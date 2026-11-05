@@ -7,11 +7,11 @@ description: "How to put meaning into the common hand of Ch'alish P'ilam: choosi
 data: {packFolder: languages}
 ---
 
-This is a guide for anyone writing a passage in the common hand of [[skill-chlxplmscrpt|Ch'alish P'ilam]], the writing of the Ki'ich'chik city-states: a scribe of the setting, an author, or a language model asked to translate. A passage is written in [[doc-zxxchalishcommonenc|Chalish Common Codage]], which turns each code into one glyph.
+This is a guide for anyone writing a passage in the common hand of [[skill-chlxplmscrpt|Ch'alish P'ilam]], the writing of the Kì'ìch'chik city-states: a scribe of the setting, an author, or a language model asked to translate. A passage is written in [[doc-zxxchalishcommonenc|Chalish Common Codage]], which turns each code into one glyph.
 
 ## What the script records
 
-**Meaning, not words.** A Ch'alish text records what happened or what was meant, never the words someone said. Nobody is quoted exactly, and grammar is never written out: no tense, no person, no ending carries over from the Ki'i'chek sentence. Translating into the script is therefore not a word-for-word conversion. Read the passage, decide what it means, and write that meaning in glyphs.
+**Meaning, not words.** A Ch'alish text records what happened or what was meant, never the words someone said. Nobody is quoted exactly, and grammar is never written out: no tense, no person, no ending carries over from the Kì'ì'chek sentence. Translating into the script is therefore not a word-for-word conversion. Read the passage, decide what it means, and write that meaning in glyphs.
 
 **The roman transliteration is a different thing.** _K'ayik_ records how a word sounds, so a reader can say it. It has no single writing in the script: a glyph is chosen for its meaning, and one sound is written by several glyphs. Never convert roman spelling into glyphs letter by letter.
 
@@ -19,7 +19,7 @@ This is a guide for anyone writing a passage in the common hand of [[skill-chlxp
 
 **A glyph is a concept.** `SUN` is the sun; `HOUSE` is a house, shelter, a family. Each glyph also carries the associated meanings listed below, and context decides which is meant.
 
-**Two or three glyphs make a further concept.** The first glyph is usually the head and those after it modify it, as Ki'i'chek puts an adjective after its noun: `MAN HIGH` is an elder or a chief, `MAN LOW` a boy or a servant, `HOUSE OUTSIDE` a village. Order matters: `EAST WEST` is a lifetime, and `WEST EAST` is rebirth.
+**Two or three glyphs make a further concept.** The first glyph is usually the head and those after it modify it, as Kì'ì'chek puts an adjective after its noun: `MAN HIGH` is an elder or a chief, `MAN LOW` a boy or a servant, `HOUSE OUTSIDE` a village. Order matters: `EAST WEST` is a lifetime, and `WEST EAST` is rebirth.
 
 **A run can group in more than one way.** `MAN HIGH HOUSE` is the elder of the household, a man of the great house, or the patriarch, the conventional reading; plainly read, it is even a man standing on his roof. Write the grouping a reader needs, and use the conventional compounds below where they fit.
 
@@ -34,7 +34,7 @@ This is a guide for anyone writing a passage in the common hand of [[skill-chlxp
 
 ## Sounds and names
 
-Every glyph also writes a sound: the opening syllable of the Ki'i'chek word that names it, its catch left out. Seventeen glyphs carry traditional sounds, the sounds of the first codex, which no modern word gives away. Every syllable Ki'i'chek uses has at least one glyph.
+Every glyph also writes a sound: the opening syllable of the Kì'ì'chek word that names it, its catch left out. Seventeen glyphs carry traditional sounds, the sounds of the first codex, which no modern word gives away. Every syllable Kì'ì'chek uses has at least one glyph.
 
 **Names are written in sounds.** Spell a name syllable by syllable, choosing any glyph with the right sound. A closing consonant takes a syllable whose vowel is silent, usually an echo of the vowel before it: _Ch'akul_ is _cha-ku-lu_, `SERPENT STONE POT`. A catch is left to the reader.
 
@@ -42,7 +42,7 @@ Every glyph also writes a sound: the opening syllable of the Ki'i'chek word that
 
 ## Layout
 
-- **No punctuation.** Nothing marks a sentence, a pause or speech. Ki'i'chek puts its verb last, so the verb closes each clause, and reported speech is carried by words.
+- **No punctuation.** Nothing marks a sentence, a pause or speech. Kì'ì'chek puts its verb last, so the verb closes each clause, and reported speech is carried by words.
 - **No diacritics.** A glyph is always drawn whole and the same.
 - **Rows of two.** The page sets glyphs two to a row, read left to right, down a column two glyphs wide, then down the next column. Write the codes as one run; the page makes the rows, and a compound may break across rows.
 

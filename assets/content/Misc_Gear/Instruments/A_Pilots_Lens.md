@@ -10,7 +10,7 @@ sohl:
   system: {weightBase: 0.2, valueBase: 0, qualityBase: 0, durabilityBase: 20}
 ---
 
-A Pilot's Lens is a disc of [[lore-itharisul|ithasul]] the size of a palm and the thickness of a finger, gray and giving, set in a hardwood rim. It belongs to the current-stone off [[place-vaelukoa|Vaelukoa]] as a living held stone (_kaan'sul_), and the [lineage Vaelukoa]{.name data-type="affiliation/lineage"} keeps it with the village's boats.
+A Pilot's Lens is a disc of [[lore-itharisul|ithasul]] the size of a palm and the thickness of a finger, gray and giving, set in a hardwood rim. It belongs to the current-stone off [[place-vaelukoa|Vaelukoa]] as a living held stone (_kaan-sul_), and the [lineage Vaelukoa]{.name data-type="affiliation/lineage"} keeps it with the village's boats.
 
 ## What It Does
 
@@ -18,7 +18,7 @@ Held to the eye and turned on a channel, the lens shows the broken water of the 
 
 ## When Its Work Goes Dark
 
-If the current-stone stops, the lens goes cold in the hand, and the water through it is as broken as the water without it. If the current-stone goes white, the lens is a dead held stone from that day: bone-white and hard, with none of its give. The lineage Vaelukoa gives it up to the sanctuary at [[place-thalari|Thal'ari]], which forms the custodians who tend the current-stones.
+If the current-stone stops, the lens goes cold in the hand, and the water through it is as broken as the water without it. If the current-stone goes white, the lens is a dead held stone from that day: bone-white and hard, with none of its give. The lineage Vaelukoa gives it up to the sanctuary at [[place-thalari|Thal-ari]], which forms the custodians who tend the current-stones.
 
 ## See Also
 
@@ -28,7 +28,7 @@ If the current-stone stops, the lens goes cold in the hand, and the water throug
 [[place-vaelukoa|Vaelukoa]]
 : the reef village whose current-stone the lens belongs to
 
-[[place-thalari|Thal'ari]]
+[[place-thalari|Thal-ari]]
 : the sanctuary that keeps the current-stones' dead held stones
 
 [[lore-itharisul|Ithasul]]

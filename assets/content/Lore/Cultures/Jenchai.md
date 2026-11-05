@@ -23,19 +23,19 @@ data:
     - name: "Lengwou"
       definition: "The Dawn Court, the Emperor's capital on the lowest slope of Zojai; native _Rewu_"
       language: skill-tantsoulng
-    - name: "Nuitsou"
+    - name: "Nwitsou"
       definition: "Slaves and outcasts, below every bond"
       language: skill-tantsoulng
     - name: "Rongleng Tengzhei"
       definition: '"Son of Heaven of Ten Thousand Dawns": the Emperor''s style'
       language: skill-tantsoulng
-    - name: "Ruising"
+    - name: "Rwising"
       definition: "Ritual death, ordered or chosen; on the islands a statement a lord must answer"
       language: skill-tantsoulng
     - name: "Teyan Jenjai"
       definition: '"The Nine Mountains Above the Clouds of Heaven": the islands'' full name for their land'
       language: skill-tantsoulng
-    - name: "Wanduo"
+    - name: "Wandwo"
       definition: "A sorcerer, on the islands a retainer with a stipend and a name"
       language: skill-tantsoulng
     - {name: "Zojai", definition: "The Dragon's Mountain, the Emperor's own"}
@@ -56,7 +56,7 @@ The Jenchai keep the mainland's castes, script and calendar, and they have moved
 
 The islanders call [[place-jenchairgn|their land]] **Teyan Jenjai**, the Nine Mountains Above the Clouds of Heaven, and **Jenjai** in ordinary speech. The name states a ranking: the peaks stand above the clouds, and the people who live on them stand above every other people, the mainland first among them. The mainland's own name for the islands, **Chaiwong**, is a dismissal, and the islanders return it by counting the Tantsou among the barbarians of the west, the oldest and the most tiresome of them.
 
-The claim beneath the pride is religious. The islanders hold that heaven withdrew the [[lore-mandatehvn|Mandate]] from the mainland at [[lore-jenchaiscs|the Secession]] and gave it to the Nine Mountains, and that the Emperor on [[place-zojai|Zojai]], the Dragon's Mountain, is its living presence. By that presence every terrace of the Nine is his. In practice the Emperor commands his household guard and nothing else, and eight **Daozhuo** (great lords) each rule a mountain with an army, a fleet, a granary and a law of their own. Outside the years when one lord forces the others to submit, each of the eight is a king in everything but the title, and the patent he holds from the Emperor is the only thing that says otherwise.
+The claim beneath the pride is religious. The islanders hold that heaven withdrew the [[lore-mandatehvn|Mandate]] from the mainland at [[lore-jenchaiscs|the Secession]] and gave it to the Nine Mountains, and that the Emperor on [[place-zojai|Zojai]], the Dragon's Mountain, is its living presence. By that presence every terrace of the Nine is his. In practice the Emperor commands his household guard and nothing else, and eight **Dauzhwo** (great lords) each rule a mountain with an army, a fleet, a granary and a law of their own. Outside the years when one lord forces the others to submit, each of the eight is a king in everything but the title, and the patent he holds from the Emperor is the only thing that says otherwise.
 
 ## What Is Good, and What Succeeds
 
@@ -98,7 +98,7 @@ The islands keep the mainland calendar with two rites of their own at its two en
 
 - [New Year Purification]{.name data-type="lore/custom"} (Shui Nie Wo) closes the year as it does on the mainland: households, shrines and halls are cleansed, and the year's spent spirit paper is burned.
 - **The Dawn Rite** (_Leng Rui_) opens the year. The Emperor performs it at dawn on the first day of the year on Zojai's summit, and every lord's envoy attends. The seating order is the year's political map, and the lords' envoys negotiate it for months. Every household of the Nine lights a lamp at the same dawn, which is the one act the whole realm performs together.
-- [Moon Festival]{.name data-type="lore/gathering"} (You Jui) falls in late autumn as on the mainland, with lanterns lit against the unsorted and offerings to [[lore-youweidty|Youbui]], the Minister of the Moon.
+- [Moon Festival]{.name data-type="lore/gathering"} (You Jui) falls in late autumn as on the mainland, with lanterns lit against the unsorted and offerings to [[lore-youweidty|Youbwi]], the Minister of the Moon.
 - The [Festival of the Mountain]{.name data-type="lore/gathering"} (_Chai Jui_) is each domain's own, held when the harvest is in and the assessment paid. The lord climbs his mountain to the summit shrine, the Tanchei read the mountain's year from the record, and the lord's roll is closed for the year. The day differs from mountain to mountain, and a lord who cannot climb sends his heir, which is how a domain learns who the heir is to be.
 - [Festival of the Dead]{.name data-type="lore/gathering"} , falls at midwinter and is the costliest event of the year, as on the mainland. Retainer households provision the dead of their lord's line as well as their own.
 
@@ -113,8 +113,8 @@ Penalty runs from the hall's displeasure to death.
 3. **The lash.** Flogging is for commoners and soldiers; a retainer is never struck.
 4. **Confinement.** A retainer may be shut in his own house for a season, with the gate closed and his office held by another.
 5. **The burned writ.** A retainer stripped of his name loses his name-writ to the brazier, his stipend and his seat, and is no longer spoken to by his former name. He is not renamed, because no lord has taken him.
-6. **Outcasting.** A man who has killed his lord, and a house that has harbored the deed, is entered among the **Nuitsou**.
-7. [Ruising]{.name data-type="lore/custom"}. A retainer or a lord condemned to die may be ordered to take his own life, which keeps his house its name. The mainland's ordered suicide is the islands' word for every ritual death, ordered or chosen.
+6. **Outcasting.** A man who has killed his lord, and a house that has harbored the deed, is entered among the **Nwitsou**.
+7. [Rwising]{.name data-type="lore/custom"}. A retainer or a lord condemned to die may be ordered to take his own life, which keeps his house its name. The mainland's ordered suicide is the islands' word for every ritual death, ordered or chosen.
 8. **Execution.** Death by the sword is for commoners and for outcasts. Few lords keep a prison, and confinement in one is rare.
 
 ## The Lord, the Shrine and the Throne
@@ -125,7 +125,7 @@ Religious authority belongs to the summit shrine and its Tanchei, and the two po
 
 ## Service After Death
 
-The Jenchai keep the mainland's ledger and its ancestor spirits, and they post the dead to their lord. In their teaching, a retainer who dies in faith with his lord takes his place among the dead of his lord's line, serving them in heaven as he served the living house, and his own descendants inherit his credit there. A retainer who dies faithless has no post in heaven, because no lord's line will receive him, and his household's dead lose standing with him. Ruising at a lord's death is the plainest form of this belief: the retainer who follows his lord is going on with his service.
+The Jenchai keep the mainland's ledger and its ancestor spirits, and they post the dead to their lord. In their teaching, a retainer who dies in faith with his lord takes his place among the dead of his lord's line, serving them in heaven as he served the living house, and his own descendants inherit his credit there. A retainer who dies faithless has no post in heaven, because no lord's line will receive him, and his household's dead lose standing with him. Rwising at a lord's death is the plainest form of this belief: the retainer who follows his lord is going on with his service.
 
 That is why an ordinary day looks as it does. A retainer household keeps the tablet of its lord's line beside its own, and feeds both. A family polices its sons' faith more closely than its daughters' marriages, because a son's broken word debits every ancestor on the shrine. A retainer who dies in his lord's service leaves a household the lord goes on feeding, because the dead man is still in service, and an heir succeeds to the stipend only when the lord accepts him. Retainers are buried on the slopes of their lord's mountain, below the tombs of his house. A household spends what it can on the lord's festivals, the shrine's offerings and a good tablet, and a man who must choose between rice for his children and offerings for his lord's dead knows which one the hall expects.
 
@@ -141,7 +141,7 @@ The islands add the mountain. A lord's dead are taken to sit in the mountain wit
 
 The Jenchai manner is formal, indirect and graded to the inch. Every sentence of [[skill-jurthatlng|Jurthati]] places speaker, listener and subject on the honorific grid, so precedence is settled by the first verb and governs everything after it. A refusal is an expression of the difficulty of the thing. A retainer may press a lord no further than "Does my lord answer?", and a lord who does not answer has answered.
 
-Ruising is the end of that grid. A retainer cannot contradict his lord before witnesses in any form the grammar provides, but he can die, and a death in the proper form is a statement the lord must answer in the hall. The proverb for it is _Ja ku wa_, "The blade answers." A Ruising can protest an order, keep a secret, follow a fallen lord, or say that a man's honor outweighs his life, and the hall reads which of these it is from the manner, the place and the verse left behind. A lord who orders a Ruising is judged by it as closely as the man who performs it.
+Rwising is the end of that grid. A retainer cannot contradict his lord before witnesses in any form the grammar provides, but he can die, and a death in the proper form is a statement the lord must answer in the hall. The proverb for it is _Ja ku wa_, "The blade answers." A Rwising can protest an order, keep a secret, follow a fallen lord, or say that a man's honor outweighs his life, and the hall reads which of these it is from the manner, the place and the verse left behind. A lord who orders a Rwising is judged by it as closely as the man who performs it.
 
 Refinement and brutality sit in the same person. A retainer is schooled in the formal hand, the counted verse of nine and eighteen beats, the garden and the blade as one curriculum, and he carries out his lord's raids on the mainland coast and his lord's reprisals on the villages. The islanders see no tension in it. Both are service, and both are judged by whether they were done well.
 
@@ -155,7 +155,7 @@ In return he is owed what the bond gives. A retainer is owed his stipend or his 
 
 The islanders divide the weak by whether they stand inside a bond. Inside it, care is a duty. A village pays its assessment as one body, so its widows, orphans and old belong to the whole village, and the headman who lets one starve has let the village's share fall short. A retainer's widow keeps his stipend until the heir succeeds; a retainer's orphan is taken into the lord's hall as a page and raised in the lord's service. Outside a bond, care is a kindness, and the mainland's teaching that alms are credit in heaven survives to make it one.
 
-The man with no lord is the hardest case. A retainer whose lord has died without an heir, or whose house has been dispossessed, has no stipend, no seat and no name that anyone is bound to use. He may find another lord and be renamed, he may take vows and be renamed, or he may sell his blade to whoever pays. The last road leads to the raiding fleets and the mainland's mercenary trade, and the islands hold the men on it in contempt and hire them all the same. Below every bond are the Nuitsou, fed as property and owed nothing.
+The man with no lord is the hardest case. A retainer whose lord has died without an heir, or whose house has been dispossessed, has no stipend, no seat and no name that anyone is bound to use. He may find another lord and be renamed, he may take vows and be renamed, or he may sell his blade to whoever pays. The last road leads to the raiding fleets and the mainland's mercenary trade, and the islands hold the men on it in contempt and hire them all the same. Below every bond are the Nwitsou, fed as property and owed nothing.
 
 ## Those Who Cannot Serve
 
@@ -167,9 +167,9 @@ Age has its own door. A lord or a retainer who can no longer serve well retires 
 
 Shelter is the lord's. Every village sits on land entered in the lord's roll, and a village that pays its assessment cannot be moved off it. A retainer lives in the castle town in a house the lord provides, or on the fief he holds. When a family fails, the village takes in its commoners and the lord's hall takes in its retainers' children.
 
-Teaching runs through the household and the hall. A craft is taught in its workshop from master to son and apprentice, and the smiths' lineages teach theirs in the forge-yards, one of which an [[being-embrhnd|Emberhound]] guards. Retainer children are schooled in the hall, the boys in arms and letters, the girls in letters, accounts and the keeping of a household. At ten every child of the Nine is tested for the gift, as on the mainland. A child who shows it is claimed by the lord and raised a retainer, with a stipend and in time a granted name, and the family may see the child; on the islands a [[lore-wanduo|Wanduo]] is a retainer like any other, and is not property.
+Teaching runs through the household and the hall. A craft is taught in its workshop from master to son and apprentice, and the smiths' lineages teach theirs in the forge-yards, one of which an [[being-embrhnd|Emberhound]] guards. Retainer children are schooled in the hall, the boys in arms and letters, the girls in letters, accounts and the keeping of a household. At ten every child of the Nine is tested for the gift, as on the mainland. A child who shows it is claimed by the lord and raised a retainer, with a stipend and in time a granted name, and the family may see the child; on the islands a [[lore-wanduo|Wandwo]] is a retainer like any other, and is not property.
 
-Defense is layered. The **Tsaihuo** soldiers are raised from the castle town and the villages at a fixed rate on the assessment; the retainers command them and fill the lord's ships. Each lord keeps his own fleet. When a mountain erupts and a [[being-pyrclsm|Pyroclasm]] walks out of it, the lord's retainers clear the villages in its path and his sorcerers and shrine priests try to turn it toward the sea.
+Defense is layered. The **Tsaihwo** soldiers are raised from the castle town and the villages at a fixed rate on the assessment; the retainers command them and fill the lord's ships. Each lord keeps his own fleet. When a mountain erupts and a [[being-pyrclsm|Pyroclasm]] walks out of it, the lord's retainers clear the villages in its path and his sorcerers and shrine priests try to turn it toward the sea.
 
 ## The House at Every Age
 

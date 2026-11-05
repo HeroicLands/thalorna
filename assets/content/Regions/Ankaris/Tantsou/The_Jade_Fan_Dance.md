@@ -1,13 +1,13 @@
 ---
 shortcode: weizhairui
-name: {full: The Jade Fan Dance, tant: [Wei Zhai Rui]}
+name: {full: The Jade Fan Dance, tant: [Wei Zhai Rwi]}
 type: lore
 subType: custom
 description: "The Jade Fan Dance—the game of intrigue at the Tantsou court, its players and weapons, the secret faction called the Emperor's Shadow, and what winning and losing cost on the moral ledger."
 data: {packFolder: tantsou, culture: tantsouclt}
 ---
 
-An old court secretary, asked by a young [[lore-wohou|Wohou]] officer newly posted to the capital how to survive the palace, told him to watch the fans. A lady who closes hers in the middle of a sentence has just changed sides, he said, and the minister she was speaking to will learn it a month from now, when his petition comes back unsealed. The Wei Zhai Rui, the Jade Fan Dance, is the game of political intrigue played at the court of the [[affiliation-tantsouempr|Empire of Tantsou]] by the noble houses, the great officials and the senior ranks of the administration. It is a war without open battle, fought with information, deception, alliance and betrayal, and its stakes run past power and wealth to the [[lore-celestlrdr|moral ledger]] of whole families, the strength of their [[lore-ancstrwrshp|ancestor spirits]] and, at the extreme, their place in the classification itself.
+An old court secretary, asked by a young [[lore-wohou|Wohou]] officer newly posted to the capital how to survive the palace, told him to watch the fans. A lady who closes hers in the middle of a sentence has just changed sides, he said, and the minister she was speaking to will learn it a month from now, when his petition comes back unsealed. The Wei Zhai Rwi, the Jade Fan Dance, is the game of political intrigue played at the court of the [[affiliation-tantsouempr|Empire of Tantsou]] by the noble houses, the great officials and the senior ranks of the administration. It is a war without open battle, fought with information, deception, alliance and betrayal, and its stakes run past power and wealth to the [[lore-celestlrdr|moral ledger]] of whole families, the strength of their [[lore-ancstrwrshp|ancestor spirits]] and, at the extreme, their place in the classification itself.
 
 The Tantsou do not count the game dishonorable. Every bureaucracy has politics, they say, and a bureaucracy most of all: where there are jurisdictions there are quarrels over them, where there are appointments there are rivals for them, and where there are procedures there are people who know how to use them.
 
@@ -27,7 +27,7 @@ The [[lore-tanchei|Tanchei]]. The senior Tanchei play through their monopoly on 
 
 **The Emperor.** The Emperor sits at the top and governs through the same channels every other player works. An Emperor who cannot play finds his decrees delayed, his petitions misrouted, his appointments undercut and his policies reinterpreted by the officials who carry them out. The best players steer imperial policy without the Emperor ever learning that he was steered.
 
-The [[lore-wanduo|Wanduo]]. The Wanduo are pieces on the board, not players, since they are owned by the Zhazho. A sorcerer whose counsel shapes a Warlord's choices nonetheless holds power his caste denies him. Ambitious Zhazho tend their Wanduo with care, and more than one great house has been built on a gifted sorcerer's craft: petition-forms laid to win favorable rulings, divinations timed to give useful omens, and wards that keep a household's secrets from rival sorcerers.
+The [[lore-wanduo|Wandwo]]. The Wandwo are pieces on the board, not players, since they are owned by the Zhazho. A sorcerer whose counsel shapes a Warlord's choices nonetheless holds power his caste denies him. Ambitious Zhazho tend their Wandwo with care, and more than one great house has been built on a gifted sorcerer's craft: petition-forms laid to win favorable rulings, divinations timed to give useful omens, and wards that keep a household's secrets from rival sorcerers.
 
 ## How the Game Is Played
 
@@ -45,7 +45,7 @@ The [[lore-wanduo|Wanduo]]. The Wanduo are pieces on the board, not players, sin
 
 ## The Emperor's Shadow
 
-Inside the Dance works a secret faction, the [Chenzhuo Hawo]{.name data-type="affiliation"} (Emperor's Shadow): great nobles and officials who mean to control the Emperor and run the empire to suit themselves. They work the channels his authority flows through, so that some petitions reach him and others are lost, some omens are read favorably and others buried, and the key appointments go to their friends.
+Inside the Dance works a secret faction, the [Chenzhwo Hawo]{.name data-type="affiliation"} (Emperor's Shadow): great nobles and officials who mean to control the Emperor and run the empire to suit themselves. They work the channels his authority flows through, so that some petitions reach him and others are lost, some omens are read favorably and others buried, and the key appointments go to their friends.
 
 The faction has a doctrine for itself. The [[lore-mandatehvn|Mandate of Heaven]] ties the Emperor's Lei to the health of the empire; an Emperor who decides badly weakens the classification; so guiding his decisions, even without his knowledge, serves the cosmic order. The Tanchei inside the faction supply this reasoning and are careful never to write it down.
 
@@ -61,7 +61,7 @@ The Shadow is not united. Its members are ambitious people joined by the wish to
 
 ## See Also
 
-[[affiliation-yanchaizhao|Yanchai Zhao]]
+[[affiliation-yanchaizhao|Yanchai Zhau]]
 : a noble house brought low in the Dance
 
 [[being-tuijawengyan|Tuija Wengyan]]

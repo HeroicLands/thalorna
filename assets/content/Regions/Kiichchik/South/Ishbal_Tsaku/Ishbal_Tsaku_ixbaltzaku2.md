@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Come down the great southern white road from [[place-neokbaatergn|Ne'ok Ba'ate]] and the mountains of [[place-ixbaltzakurgn|Ish'bal Tsa'ku]] fill the horizon: a range running north to south, with snow on the peaks, fortress-cities and ceremonial centers on the heights, and jungle in the valleys below. The seat of the realm of [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]] is a city of about 60,000, in the jewel of the southern Ki'ich'chik territories, a realm whose cities rival the great ones of [[affiliation-ixilankul|Ish'ilankul]] in grandeur and influence. The name carries _ish'bal_, the jaguar, and the people revere the spotted predator as an emblem of divine power.
+Come down the great southern white road from [[place-neokbaatergn|Ne'ok Ba'ate]] and the mountains of [[place-ixbaltzakurgn|Ish'bal Tsa'ku]] fill the horizon: a range running north to south, with snow on the peaks, fortress-cities and ceremonial centers on the heights, and jungle in the valleys below. The seat of the realm of [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]] is a city of about 60,000, in the jewel of the southern Kì'ìch'chik territories, a realm whose cities rival the great ones of [[affiliation-ixilankul|Ish'ilankul]] in grandeur and influence. The name carries _ish'bal_, the jaguar, and the people revere the spotted predator as an emblem of divine power.
 
 ## Who Governs
 
@@ -34,5 +34,5 @@ The highlands export worked gold and silver, in ceremonial vessels, jewelry and 
 [[place-ixbaltzakurgn|Ish'bal Tsa'ku Region]]
 : the mountains and the river valleys
 
-[[place-southkiichchik|Southern Ki'ich'chik]]
+[[place-southkiichchik|Southern Kì'ìch'chik]]
 : the southern realms

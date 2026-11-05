@@ -14,30 +14,30 @@ data:
   governance:
     model: autocracy
     summary: >-
-      Held of the Emperor by patent by the Daozhuo Zenjai Tsuiwo, who sits at Buiwu and governs the mountain through his retainers, the headmen of its villages and the Maiju who keep its stables.
+      Held of the Emperor by patent by the Dauzhwo Zenjai Tsuiwo, who sits at Buiwu and governs the mountain through his retainers, the headmen of its villages and the Maiju who keep its stables.
     ranks:
       - level: 0
         title: Outlaw
         description: >-
-          One stripped of the Daozhuo's protection and put outside the mountain's law, with no appeal.
+          One stripped of the Dauzhwo's protection and put outside the mountain's law, with no appeal.
       - level: 1
         title: Subject
         description: >-
-          Lives or holds land under the Daozhuo of Zenjai.
+          Lives or holds land under the Dauzhwo of Zenjai.
       - level: 2
         title: Retainer
         description: >-
-          Serves the Daozhuo for a stipend in bales or a village held as a fief, and commands the domain's levy.
+          Serves the Dauzhwo for a stipend in bales or a village held as a fief, and commands the domain's levy.
       - level: 3
-        title: Shuizhuo
+        title: Shwizhwo
         description: >-
-          Holds one to three villages of the domain and owes the Daozhuo men in war.
+          Holds one to three villages of the domain and owes the Dauzhwo men in war.
       - level: 4
         title: Heir
         description: >-
-          The Daozhuo's named successor, who climbs the mountain for him when he cannot.
+          The Dauzhwo's named successor, who climbs the mountain for him when he cannot.
       - level: 5
-        title: Daozhuo
+        title: Dauzhwo
         description: >-
           Holds Zenjai by the Emperor's patent, with his own army, justice and taxes.
     offices:
@@ -53,7 +53,7 @@ data:
 sohl: {system: {commonSkills: [jurthatlng]}}
 ---
 
-The Zenjai Domain, held by House Zenjai (Snow Peak), holds [[place-zenjai|Zenjai]], the mountain of the cold north of the great island, by patent of the Emperor. Its lord is the Daozhuo [Zenjai Tsuiwo]{.name data-type="being/npc"} (Iron Warrior), thirty-three years old, who sits in the castle town of [[place-buiwu|Buiwu]] (White Hall), population 2,800. The domain holds 52,000 people, is assessed at 38,000 bales a year, and musters 1,520 men, a northern levy of four men for every hundred bales. Zenjai keeps no fleet. The house is independent of both blocs, and Tsuiwo's choice between them ends the balance.
+The Zenjai Domain, held by House Zenjai (Snow Peak), holds [[place-zenjai|Zenjai]], the mountain of the cold north of the great island, by patent of the Emperor. Its lord is the Dauzhwo [Zenjai Tsuiwo]{.name data-type="being/npc"} (Iron Warrior), thirty-three years old, who sits in the castle town of [[place-buiwu|Buiwu]] (White Hall), population 2,800. The domain holds 52,000 people, is assessed at 38,000 bales a year, and musters 1,520 men, a northern levy of four men for every hundred bales. Zenjai keeps no fleet. The house is independent of both blocs, and Tsuiwo's choice between them ends the balance.
 
 ## The Land
 
@@ -71,7 +71,7 @@ The summit shrine of Zenjai is provisioned from the lord's villages, and its Tan
 
 ## Retainers
 
-The [Maiju]{.name data-type="affiliation/lineage"} keep the stables and hold [Maidu]{.name data-type="place/settlement"} as their fief; every horse of the domain's levy is entered in their roll. The Shuizhuo of the north hold one to three villages each and answer for their share of the levy.
+The [Maiju]{.name data-type="affiliation/lineage"} keep the stables and hold [Maidu]{.name data-type="place/settlement"} as their fief; every horse of the domain's levy is entered in their roll. The Shwizhwo of the north hold one to three villages each and answer for their share of the levy.
 
 ## Muster
 

@@ -16,7 +16,7 @@ Before time had a name the world was chaos. She took clay and stone and obsidian
 
 Her theology is fundamentally optimistic. Where the solar god demands fidelity because failure ends the world, she teaches that failure is part of learning to build better, and the ruins dotting the continent are traces of her experiments.
 
-On [[place-kiichchik|Ki'ich'chik Continent]] the [[lore-dreadspawncrtr|Dreadspawn]] are held to be her work, called **Kul'ik P'iqal**, "Living Works of the Builder".
+On [[place-kiichchik|Kì'ìch'chik Continent]] the [[lore-dreadspawncrtr|Dreadspawn]] are held to be her work, called **Kul'ik P'iqal**, "Living Works of the Builder".
 
 ## Worship
 

@@ -16,9 +16,9 @@ data:
       The Sinale of Aelirosse are governed by their own lord, raised for things done and by every voice, and live in a long neighborliness with the Áelendan of the Silver Forests that is cordial and is not an alliance.
     ranks:
       - level: 0
-        title: Vierka
+        title: Vyerka
         description: >-
-          A Vierka, the Sinale word for an outlaw, is one driven out of the enclave by its lord and given no standing or shelter by it.
+          A Vyerka, the Sinale word for an outlaw, is one driven out of the enclave by its lord and given no standing or shelter by it.
       - level: 1
         title: Member of the Enclave
         description: >-
@@ -42,7 +42,7 @@ The **Enclave of Aelirosse** is the community of about a hundred and twenty of t
 
 ## How It Is Ruled {#how-it-is-ruled}
 
-A Sinalo of Aelirosse belongs to a hearth the enclave keeps. The [[lore-sinaleclt|Sinale]] raise a lord for things done, by every voice, and no human record names the lord of Aelirosse. One the lord drives out is _vierka_, an outlaw, given no standing or shelter.
+A Sinalo of Aelirosse belongs to a hearth the enclave keeps. The [[lore-sinaleclt|Sinale]] raise a lord for things done, by every voice, and no human record names the lord of Aelirosse. One the lord drives out is _vyerka_, an outlaw, given no standing or shelter.
 
 What passes between the enclave and a human authority goes, as all such business does, through [[affiliation-nclvthlss|Ethalosse]] and the Áelendan who carry. What passes between Aelirosse and its Áelendan neighbors needs no carrier. Áelendan come and go without ceremony, Sinale attend some Áelendan observances and are attended at some of their own, and marriage, fosterage and long friendship happen at that edge, rarely and quietly.
 

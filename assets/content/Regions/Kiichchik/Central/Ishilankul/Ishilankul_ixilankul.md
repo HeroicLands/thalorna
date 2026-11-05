@@ -3,7 +3,7 @@ shortcode: ixilankul
 name: {full: Ish'ilankul}
 type: affiliation
 subType: polity
-description: Paramount realm and beating heart of Ki'ich'chik civilization—a plateau of pyramid-temples, mathematics, and blood-priesthood.
+description: Paramount realm and beating heart of Kì'ìch'chik civilization—a plateau of pyramid-temples, mathematics, and blood-priesthood.
 tags: [polity]
 data:
   culture: kiichchikclt
@@ -89,7 +89,7 @@ sohl: {system: {commonSkills: []}}
 
 ## Overview
 
-Ish'ilankul (the Seat of the Stars) is the paramount realm of civilization on the [[place-kiichchik|Ki'ich'chik Continent]]—the beating heart from which all other regions draw their spiritual and political authority. The land it holds is [[place-ixilankulrgn|Ish'ilankul Region]].
+Ish'ilankul (the Seat of the Stars) is the paramount realm of civilization on the [[place-kiichchik|Kì'ìch'chik Continent]]—the beating heart from which all other regions draw their spiritual and political authority. The land it holds is [[place-ixilankulrgn|Ish'ilankul Region]].
 
 The dominance of Ish'ilankul rests not merely on religious authority but on political and military might. Here, the greatest Ts'enmah (Sun Lords) command the largest tribute networks, ruling sprawling city-states that combine monumental architecture with sophisticated water management and agricultural innovation.
 
@@ -103,7 +103,7 @@ Every major city-state maintains a rival relationship with its neighbors, compet
 
 The [[affiliation-itzanpnthn|Itsani priesthood]] maintains strict hierarchical control within Ish'ilankul's cities, with the Ch'alish Tq'an wielding authority over spiritual matters and the Ts'enmah responsible for tribute, tribute-armies, and secular governance. In practice, the line between these powers is fluid and often contested. A particularly ambitious Ch'alish Tq'an may orchestrate the downfall of a Ts'enmah who fails to collect sufficient tribute or loses a key battle; conversely, a powerful Ts'enmah may attempt to install a more compliant high priest. These struggles are conducted with ritual formality and do not usually descend into open conflict, for to undermine the priesthood is to risk the anger of the gods themselves.
 
-Ish'ilankul is also the hub of the [[affiliation-chumishlan|Ch'um Ish'lan]], the great relay network of Ch'umbal runners that binds Ki'ich'chik civilization together. The Ch'um Ish'lan is administered entirely by the Itsani priesthood—not by any Ts'enmah or temporal authority. The Ch'umbal are ordained as minor religious functionaries, sworn to the service of [[lore-tzenultqandty|Ts'en'ul Tq'an]], god of order, and no secular lord may command, delay, or interfere with a runner on the Speaking Road. [[place-kultaqan|Kul'taq'an]] houses the central dispatch, where k'otsel (knotted cord records) are decoded, copied, and redistributed by priestly scribes, and where the most sensitive intelligence from distant provinces is received and interpreted by the Ch'alish Tq'an's inner circle. No Ts'enmah—not even the most powerful Sun Lord in Ish'ilankul—receives intelligence from the Speaking Road except through the priesthood's hands. The density of Ch'um Ish'lan way-stations within Ish'ilankul is unmatched anywhere in the realm—a message can cross the entire plateau region in a single day, giving the Ch'alish Tq'an awareness of events almost as they unfold. This monopoly on long-distance communication is perhaps the priesthood's most potent instrument of power, for no rebellion can be coordinated and no alliance formed without the knowledge of the priests who read the knotted cords.
+Ish'ilankul is also the hub of the [[affiliation-chumishlan|Ch'um Ish'lan]], the great relay network of Ch'umbal runners that binds Kì'ìch'chik civilization together. The Ch'um Ish'lan is administered entirely by the Itsani priesthood—not by any Ts'enmah or temporal authority. The Ch'umbal are ordained as minor religious functionaries, sworn to the service of [[lore-tzenultqandty|Ts'en'ul Tq'an]], god of order, and no secular lord may command, delay, or interfere with a runner on the Speaking Road. [[place-kultaqan|Kul'taq'an]] houses the central dispatch, where k'otsel (knotted cord records) are decoded, copied, and redistributed by priestly scribes, and where the most sensitive intelligence from distant provinces is received and interpreted by the Ch'alish Tq'an's inner circle. No Ts'enmah—not even the most powerful Sun Lord in Ish'ilankul—receives intelligence from the Speaking Road except through the priesthood's hands. The density of Ch'um Ish'lan way-stations within Ish'ilankul is unmatched anywhere in the realm—a message can cross the entire plateau region in a single day, giving the Ch'alish Tq'an awareness of events almost as they unfold. This monopoly on long-distance communication is perhaps the priesthood's most potent instrument of power, for no rebellion can be coordinated and no alliance formed without the knowledge of the priests who read the knotted cords.
 
 ## See Also
 
@@ -120,7 +120,7 @@ Ish'ilankul is also the hub of the [[affiliation-chumishlan|Ch'um Ish'lan]], the
 : The divine framework that grants Ish'ilankul its religious authority
 
 [[place-tzomalchalix|Ts'omal Ch'alish]]
-: The Sacred Foundation, holiest pilgrimage site in Ki'ich'chik
+: The Sacred Foundation, holiest pilgrimage site in Kì'ìch'chik
 
 [[place-ixilankulrgn|Ish'ilankul Region]]
 : The land Ish'ilankul holds

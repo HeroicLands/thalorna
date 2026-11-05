@@ -3,7 +3,7 @@ shortcode: xelemixbalrgn
 name: {full: Shelem Ish'bal Region}
 type: place
 subType: region
-description: "The waste at the bottom of Ki'ich'chik: ash, desert, sick forest, dead water and ice, under a sky of the wrong colors, where distances lie and most who go in feed the ground."
+description: "The waste at the bottom of Kì'ìch'chik: ash, desert, sick forest, dead water and ice, under a sky of the wrong colors, where distances lie and most who go in feed the ground."
 tags: [region, waste]
 data:
   demonym: null
@@ -18,7 +18,7 @@ data:
 
 ## Overview
 
-Every party that goes south through the gate of [[place-xelemchalix|Shelem Ch'alish]] is going to Shelem Ish'bal, the Land of the Dead Jaguar, and most of them do not come back. It is the waste that fills the southern end of the [[place-kiichchik|Ki'ich'chik Continent]], from the threshold of [[place-qapteltzaklrgn|Q'aptel Tsa'kul Region]] to the frozen sea at the bottom of the world. No one rules it, no one counts its people, and no road crosses it. The [[affiliation-itzanpnthn|Itsani Pantheon]] keeps its gate and keeps a cord of everyone who passes, and that is the whole of the civilized world's hold on it.
+Every party that goes south through the gate of [[place-xelemchalix|Shelem Ch'alish]] is going to Shelem Ish'bal, the Land of the Dead Jaguar, and most of them do not come back. It is the waste that fills the southern end of the [[place-kiichchik|Kì'ìch'chik Continent]], from the threshold of [[place-qapteltzaklrgn|Q'aptel Tsa'kul Region]] to the frozen sea at the bottom of the world. No one rules it, no one counts its people, and no road crosses it. The [[affiliation-itzanpnthn|Itsani Pantheon]] keeps its gate and keeps a cord of everyone who passes, and that is the whole of the civilized world's hold on it.
 
 The waste is a proving ground. Warriors and priests go into it to show their worth before the gods, treasure-seekers go for the ruins and the strange materials that come out of it, and the desperate go because the north holds nothing for them. Those who come back are changed, and the pyramid-cities raise them high or keep them at the edges, and seldom anywhere between.
 
@@ -83,7 +83,7 @@ The death-walkers of [[affiliation-tzuqilixbal|Faith of Ts'uqil Ish'bal]] hold t
 
 ## The Coast
 
-The waste has a long coast on both oceans and no harbor on either. No Ki'ich'chik vessel sails past the threshold, the coast offers no water and no anchorage, and the southern coast at [[place-iceshore|the Ice Shore]] is ice. Nothing lands on the waste from the sea, and nothing leaves it.
+The waste has a long coast on both oceans and no harbor on either. No Kì'ìch'chik vessel sails past the threshold, the coast offers no water and no anchorage, and the southern coast at [[place-iceshore|the Ice Shore]] is ice. Nothing lands on the waste from the sea, and nothing leaves it.
 
 ## The Country's Quarrel
 
@@ -97,7 +97,7 @@ No one lives in the waste to quarrel over it, and the bodies that send people in
 
 ## See Also
 
-[[place-southkiichchik|Southern Ki'ich'chik]]
+[[place-southkiichchik|Southern Kì'ìch'chik]]
 : the enclosing region
 
 [[place-xelemchalix|Shelem Ch'alish]]

@@ -3,7 +3,7 @@ shortcode: shuqhalaqrgn
 name: {full: Bead Coast, shuq: [shuq halaq]}
 type: place
 subType: region
-description: "Gold summer hills, kelp-filled waters and a channel of islands on the western coast of Northern Ki'ich'chik—the beaches and bead islands of the Shell-Bead People."
+description: "Gold summer hills, kelp-filled waters and a channel of islands on the western coast of Northern Kì'ìch'chik—the beaches and bead islands of the Shell-Bead People."
 tags: [region]
 data:
   culture: shuqashclt
@@ -19,7 +19,7 @@ data:
 
 ## Overview
 
-The Bead Coast (_shuq halaq_) is the shore of the [[affiliation-shuqash|Shuqash]], the Shell-Bead People, on the western coast of [[place-northkiichchik|Northern Ki'ich'chik]], south of the fjords of the [[place-kelwanukrgn|Kelwanuk Region]]. It is a long strip of beaches, river mouths and headlands between the sea and the coastal mountains, with a chain of islands a morning's paddle offshore. About 230,000 people live on it in some sixty towns, more people to the mile than anywhere else in the north, and every one of them can reach the sea before noon.
+The Bead Coast (_shuq halaq_) is the shore of the [[affiliation-shuqash|Shuqash]], the Shell-Bead People, on the western coast of [[place-northkiichchik|Northern Kì'ìch'chik]], south of the fjords of the [[place-kelwanukrgn|Kelwanuk Region]]. It is a long strip of beaches, river mouths and headlands between the sea and the coastal mountains, with a chain of islands a morning's paddle offshore. About 230,000 people live on it in some sixty towns, more people to the mile than anywhere else in the north, and every one of them can reach the sea before noon.
 
 ## Geography
 
@@ -64,5 +64,5 @@ The danger comes from the north. The Cedar People's war canoes come down the coa
 [[place-tikoqhipay|Tikoq Hipay]]
 : the North Door, the town that faces the raiders
 
-[[place-northkiichchik|Northern Ki'ich'chik]]
+[[place-northkiichchik|Northern Kì'ìch'chik]]
 : the enclosing region

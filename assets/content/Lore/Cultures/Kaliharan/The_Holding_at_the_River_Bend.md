@@ -40,7 +40,7 @@ and Navokai Luanithei, held in service to the Marithoa./
 It was made at the river bend, at the stone,/
 at Wet-Turn, the third year after the seven hundred and ninety-fifth Walk,/
 in the morning, after the rain had stood on the third terrace for two days./
-It was witnessed by Korevai Naothuri, kaan'vaar of the stone,/
+It was witnessed by Korevai Naothuri, kaan-vaar of the stone,/
 and by Thulianei Marithoa, sister of the Elder.
 
 Kethivori Marithoa said:/
@@ -100,7 +100,7 @@ in the morning./
 The stone had gone white in Deepwater./
 The Last Tending had been said over it by the custodians of Mirthaan,/
 Avunethei Theilavori the eldest of them./
-It was witnessed by Korevai Naothuri, kaan'vaar of the stone, who no longer had the stone,/
+It was witnessed by Korevai Naothuri, kaan-vaar of the stone, who no longer had the stone,/
 and by Thulianei Marithoa, sister of the Elder.
 
 The heads of the households of the bend said:/
@@ -195,7 +195,7 @@ I have not been asked to hold the mornings after.
 [[skill-vaarthari|Vaarthari]]
 : the discipline of deep memory, and the holders of record who keep agreements
 
-[[affiliation-tharivaan|Thári'vaan]]
+[[affiliation-tharivaan|Thári-vaan]]
 : the Rite of Last Tending, and the answering set beside the order of standing
 
 [[affiliation-kalihara|Kalihara]]

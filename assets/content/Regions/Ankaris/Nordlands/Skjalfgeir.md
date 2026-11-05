@@ -179,7 +179,7 @@ fire gathers beyond the horizon./
 vast doom lies before it./
 Wolf breaks its binding chain;/
 wisdom knows whom it takes./
-The All-Father falls to [[lore-vetrulfur|Vetrúlfur]];/
+The All-Father falls to [[lore-vetrulfur|Vetrulfur]];/
 all praise bears that ending./
 Speak the spear's straight name;/
 speak beside the known darkness.
@@ -304,7 +304,7 @@ eiv skern fadra na ul nod firn skuldnod./
 manik sta stann firn skenri./
 drav njorvi drak hanv hugnim./
 svelthma risna inn snul./
-vetrúlfur vindri at aldarlok./
+vetrulfur vindri at aldarlok./
 hugvirdi hugni lorka na sjel.
 
 vidma vendri breldva inn eldsveld./
@@ -401,7 +401,7 @@ vigvoll vindri firn hersalm./
 vredi ok vrul nelth lagna fralm it./
 ulfva brak skeldma na balv./
 hugvirdi hugni hverv it nem./
-fadra na ul falna tiv vetrúlfur./
+fadra na ul falna tiv vetrulfur./
 ul hruna berva lorka, lest./
 marl garpi ok rettlang nafma na gerth‼/
 marl siv dulvma, drav hugnri‼

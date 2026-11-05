@@ -49,7 +49,7 @@ What followed was quick. They went to the caretakers of the instruments and gave
 instructions, hurriedly, beyond the procedures already taught. Then they left, all of them, and the
 island woke to their absence.
 
-The instructions survive. They are part of what the custodians of [[affiliation-tharivaan|Thári'vaan]], the Ithakan, still
+The instructions survive. They are part of what the custodians of [[affiliation-tharivaan|Thári-vaan]], the Ithakan, still
 perform, indistinguishable now from the older body of practice, and nothing in the record marks which
 of the tendings were added at the end. Nobody knows what they were for.
 

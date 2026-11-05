@@ -7,7 +7,7 @@ tags: [gm]
 data: {packFolder: threats}
 ---
 
-The [[affiliation-tantsouempr|Empire of Tantsou]] has always feared its own provinces more than any foreign power, and for most of its history it has been right to. Three frontiers trouble it now. The steppe warlord in the north is the gravest, and [[being-wogenhenzhuo|Wogen Henzhuo]] has his own note. The other two are the old enemy across the eastern strait and the long, thin western passes.
+The [[affiliation-tantsouempr|Empire of Tantsou]] has always feared its own provinces more than any foreign power, and for most of its history it has been right to. Three frontiers trouble it now. The steppe warlord in the north is the gravest, and [[being-wogenhenzhuo|Wogen Henzhwo]] has his own note. The other two are the old enemy across the eastern strait and the long, thin western passes.
 
 ## Chaiwong
 
@@ -17,11 +17,11 @@ The war between them is a thousand-year stalemate of raid and counter-raid. The 
 
 ## The Western Passes
 
-West of the mountains lies the [[place-khzryndsrtrgn|Khazrin]], a waste of ruins and owned oases that [[lore-celestialroad|the Celestial Road]] crosses on its way to the [[place-midhalnrgn|Midhalión Region]]. No army from the west has ever reached the empire across it, and the Aureldian kingdoms beyond are a rumor at court. The danger from the west is smaller and closer. The oasis-holders who sell water and safe-conduct to the caravans play the empire against the western traders, raise their tolls when the frontier garrisons are thin, and shelter whoever pays them: smugglers running silk out without the bureaus' seal, sorcerers of [[affiliation-hazhao|Ha Zhao]], the Shadow Sect, fleeing the [[lore-wanduo|Wanduo]] compounds, and [[affiliation-ordoarcanis|Arcane Order]] agents bringing gold in. Every rogue sorcerer who crosses the passes is one the empire cannot recover, and every one the Thordimalon receives tells it something about the Wanduo it wants to know.
+West of the mountains lies the [[place-khzryndsrtrgn|Khazrin]], a waste of ruins and owned oases that [[lore-celestialroad|the Celestial Road]] crosses on its way to the [[place-midhalnrgn|Midhalión Region]]. No army from the west has ever reached the empire across it, and the Aureldian kingdoms beyond are a rumor at court. The danger from the west is smaller and closer. The oasis-holders who sell water and safe-conduct to the caravans play the empire against the western traders, raise their tolls when the frontier garrisons are thin, and shelter whoever pays them: smugglers running silk out without the bureaus' seal, sorcerers of [[affiliation-hazhao|Ha Zhau]], the Shadow Sect, fleeing the [[lore-wanduo|Wandwo]] compounds, and [[affiliation-ordoarcanis|Arcane Order]] agents bringing gold in. Every rogue sorcerer who crosses the passes is one the empire cannot recover, and every one the Thordimalon receives tells it something about the Wandwo it wants to know.
 
 ## See Also
 
-[[being-wogenhenzhuo|Wogen Henzhuo]]
+[[being-wogenhenzhuo|Wogen Henzhwo]]
 : the northern warlord
 
 [[place-jenchairgn|Jenchai Region]]

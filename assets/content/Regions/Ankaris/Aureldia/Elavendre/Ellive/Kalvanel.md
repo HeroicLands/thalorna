@@ -39,7 +39,7 @@ The keeper of the pilgrim-house leads Kalvanel, and the post passes by the house
 A young man has been in the pilgrim-house for two days, and no Keeper has come. He is plainly dressed, carries no weapon, speaks of the sacred country with the courtesy of a student, and writes at the long table in the evenings. He says he is a fellow of the University who has come alone to ask leave. A villager who saw him on the road says there were four men on mules behind him, who turned back at the last meadow.
 
 :::secret {title="The pilgrim"}
-He is a friend of [[being-ielaraskir|Prince Íelaras]], a fellow of the University and the leader of the summer survey the prince means to join. He has come ahead to find out whether a party that asks, and is refused, will be treated as a trespasser or as a guest. The four on the mules are the crown's, sent by the queen's chancery to see that he is not harmed.
+He is a friend of [[being-ielaraskir|Prince Yélaras]], a fellow of the University and the leader of the summer survey the prince means to join. He has come ahead to find out whether a party that asks, and is refused, will be treated as a trespasser or as a guest. The four on the mules are the crown's, sent by the queen's chancery to see that he is not harmed.
 
 He sincerely wants leave. If it is refused and he goes anyway, the Wardens will warn him once, and the prince's name will be in the mouth of whoever finds the body.
 :::

@@ -32,13 +32,13 @@ Durvolka climbs a steep, wet hillside from the water, and it is built of the gra
 
 [The Lantern Stair]{.name data-type="place/site"} is a street of steps that climbs from the Strand to the top of the hill, where a passage grave older than the town stands among the gorse. The harbor teller of the [[affiliation-drownedroad|Drowned Road]] lives in the last house below the grave and keeps the roll of the harbor's drowned there. On a foggy night every house on the Stair has a lamp in its seaward window, and from the bay the street is a line of lights going up into the gray.
 
-[The Lienrik Gate]{.name data-type="place/site"} is the inland quarter at the top of the valley road, where the carts come down from [[place-leonrik|Lienrik]] with grain, cattle and wine and go back loaded with salt fish. The king's salt-house stands here, beside the cattle market, because every grain of salt the curing houses use is bought from it.
+[The Lyenrik Gate]{.name data-type="place/site"} is the inland quarter at the top of the valley road, where the carts come down from [[place-leonrik|Lyenrik]] with grain, cattle and wine and go back loaded with salt fish. The king's salt-house stands here, beside the cattle market, because every grain of salt the curing houses use is bought from it.
 
 ## Who Governs
 
 The king governs the kingdom from the Headland, and the town through his officers. The [Long Table]{.name data-type="affiliation/governmental"}, the royal council, seats the landed lords of the inland valleys on one side and the elected shipmasters of the harbor towns on the other, with the king at its head; Durvolka's three masters sit there with the masters of [[place-ulhera|Ulhera]] and the lesser harbors. The present king is [Ganoth Ervothandis]{.name data-type="being/npc"}, who came to the throne in 712 AF and is a careful man with the crown's money.
 
-The town has no council of its own. The Warden of the Strand holds the harbor for the king: he collects the dues on every hull and every basket of fish landed, keeps the bell and the harbor mouth, and hears the quarrels of the waterfront at a bench in the fish market every morning the boats are in. A man whose net is cut or whose catch is stolen goes to that bench, and the warden settles it there with the masters of both boats listening. A quarrel between two shipmasters goes to the Masters' Hall first, and to the Long Table only when the hall cannot settle it. A theft in the upper town goes to the warden's officer at the Lienrik Gate.
+The town has no council of its own. The Warden of the Strand holds the harbor for the king: he collects the dues on every hull and every basket of fish landed, keeps the bell and the harbor mouth, and hears the quarrels of the waterfront at a bench in the fish market every morning the boats are in. A man whose net is cut or whose catch is stolen goes to that bench, and the warden settles it there with the masters of both boats listening. A quarrel between two shipmasters goes to the Masters' Hall first, and to the Long Table only when the hall cannot settle it. A theft in the upper town goes to the warden's officer at the Lyenrik Gate.
 
 ## Living by the Water
 
@@ -46,11 +46,11 @@ The year turns on the fish. The herring come into the bay and along the coast fr
 
 Salt is the town's one great want. Galvaren makes none worth having, because its sun is too weak for salt pans, so every cask of herring and every stack of cod is cured with salt brought by sea from the southern coast. The crown buys it, the Keeper of the Salt sells it to the curing houses at the crown's price, and the price is the curing houses' standing grievance against the crown.
 
-The inland road carries what the sea cannot. Lienrik's grain feeds the town, its cattle come down to the Lienrik Gate in autumn, and Durvolka salt fish goes up the same road to feed Lienrik's villages through the winter.
+The inland road carries what the sea cannot. Lyenrik's grain feeds the town, its cattle come down to the Lyenrik Gate in autumn, and Durvolka salt fish goes up the same road to feed Lyenrik's villages through the winter.
 
 ## The Faith
 
-Durvolka keeps the faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]], and the coast's older custom beside them. The priests of the [[affiliation-brazemas|Faith of Brazemas]] bless the fleet with lamps each spring before the cod boats sail, and a shipmaster family sets up its household shrine to the [[affiliation-pozeras|Faith of Pozeras]] of voyages. The town's dead are buried by the priests of the [[affiliation-selmoros|Faith of Sélmoros]] in the burial ground behind the Lienrik Gate, all except the drowned. A body the sea gives back is carried up the Lantern Stair to the passage grave, the harbor teller says its name aloud at the door, and the priests do not argue the point in Durvolka, though some of them preach against it elsewhere.
+Durvolka keeps the faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]], and the coast's older custom beside them. The priests of the [[affiliation-brazemas|Faith of Brazemas]] bless the fleet with lamps each spring before the cod boats sail, and a shipmaster family sets up its household shrine to the [[affiliation-pozeras|Faith of Pozeras]] of voyages. The town's dead are buried by the priests of the [[affiliation-selmoros|Faith of Sélmoros]] in the burial ground behind the Lyenrik Gate, all except the drowned. A body the sea gives back is carried up the Lantern Stair to the passage grave, the harbor teller says its name aloud at the door, and the priests do not argue the point in Durvolka, though some of them preach against it elsewhere.
 
 ## Trouble in Durvolka
 

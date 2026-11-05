@@ -18,7 +18,7 @@ data: {packFolder: adventurersguides, culture: kaliharanclt}
 
 ## The Living Whole and Its Keepers
 
-Kaliharans call the world one living whole, [[affiliation-tharivaan|Thári'vaan]], in which every part's health affects every other's. Every Kaliharan keeps three observances: [sílhari]{.name data-type="lore/custom"}, the daily habit of watching some corner of the world; [vaan'ari]{.name data-type="lore/custom"}, the tending of a garden, grove or stretch of shore that is his to tend; and the exact keeping of inherited practice. A child is given a first sílhari account to hold at six or seven and adds to it for life, by memory: ordinary Kaliharans do not write.
+Kaliharans call the world one living whole, [[affiliation-tharivaan|Thári-vaan]], in which every part's health affects every other's. Every Kaliharan keeps three observances: [sílhari]{.name data-type="lore/custom"}, the daily habit of watching some corner of the world; [vaan-ari]{.name data-type="lore/custom"}, the tending of a garden, grove or stretch of shore that is his to tend; and the exact keeping of inherited practice. A child is given a first sílhari account to hold at six or seven and adds to it for life, by memory: ordinary Kaliharans do not write.
 
 The [Ithakan]{.name data-type="affiliation/order"} are the custodians, trained from childhood in interior sanctuaries. They tend the structures the Ithari left—seamless gray works that give slightly under the hand—through liturgies whose original purpose has been forgotten. Some of these works seem to calm storms or turn the sea around the island. The custodians carry great influence and do not rule; secular councils govern, and how they are chosen is unknown to outsiders.
 
@@ -47,7 +47,7 @@ A party arrives as crew, guards or factors on a spice ship, and the work is at t
 [[affiliation-kalihara|Kalihara]]
 : the Ithari, the ancient structures, the ports and the councils
 
-[[affiliation-tharivaan|Thári'vaan]]
+[[affiliation-tharivaan|Thári-vaan]]
 : the observances, the custodians' ranks and the liturgies
 
 [[place-klhrcntnnt|The Kalihara Continent]]

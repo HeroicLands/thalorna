@@ -3,7 +3,7 @@ shortcode: wansouzhuo
 name:
   full: The Chief Auditor of Souls
   en: [The Ministry of Final Account]
-  tant: [Wansou Zhuo, Singwou]
+  tant: [Wansou Zhwo, Singwou]
 type: affiliation
 subType: faithtradition
 description: "Death."
@@ -50,11 +50,11 @@ data:
       - level: 7
         title: Chief Intendant
         description: >-
-          Senior mortal officer of a bureau's whole temple establishment, who signs what is transmitted upward to its Teng Gui and answers for it if the bureau rejects it.
+          Senior mortal officer of a bureau's whole temple establishment, who signs what is transmitted upward to its Teng Gwi and answers for it if the bureau rejects it.
     offices:
-      Wansou Zhuo, The Chief Auditor of Souls: >-
-        Teng Gui of the Singwou, whose power is the authority of the office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
-      Wai Singzhuo: >-
+      Wansou Zhwo, The Chief Auditor of Souls: >-
+        Teng Gwi of the Singwou, whose power is the authority of the office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
+      Wai Singzhwo: >-
         The Ten Magistrates of the Dead, each presiding over a different category of moral failing.
       Halei: >-
         Transit Spirits, who escort souls from death to processing.
@@ -84,7 +84,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-## Wansou Zhuo—The Chief Auditor of Souls
+## Wansou Zhwo—The Chief Auditor of Souls
 
 Bureau
 : Singwou, The Ministry of Final Account
@@ -95,7 +95,7 @@ Domain
 Parent
 : [[affiliation-tengwouronglei|Tengwou Rong Lei]]
 
-In Wansou Zhuo's teaching, every soul passes through Singwou, which gives the ministry leverage no other bureau has and which it
+In Wansou Zhwo's teaching, every soul passes through Singwou, which gives the ministry leverage no other bureau has and which it
 is not above using. At death the Chief Auditor reviews the moral ledger line by line—the running
 account of credits and debits that the household's Tsaiken has been filing on all along—and what
 the audit finds determines the quality of the afterlife and the power the spirit will have to
@@ -108,7 +108,7 @@ desk eventually.
 
 ### Lesser Spirits
 
-Wai Singzhuo
+Wai Singzhwo
 : The Ten Magistrates of the Dead, each presiding over a different category of moral failing.
 
 Halei

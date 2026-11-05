@@ -5406,7 +5406,7 @@ SELECT CASE of WHEN 'name' THEN 'any Varokhi name' END AS "class of name",
 FROM name_shapes WHERE language = 'thalorna-note-skill-varokhlng' ORDER BY position
 ```
 
-**There is no glottal stop.** No name carries an apostrophe. A vowel pair is a single diphthong spoken in one beat, and the free pairs are `ei` and `eo`.
+**There is no glottal stop.** No name carries an apostrophe. The free vowel pairs are `ei`, a single diphthong spoken in one beat, and `eo`, in which both vowels are said.
 
 **A seam writes both pieces whole.** An opening and a closing that meet on the same letter write it twice, so Skathhelm and Balthhelm carry `thh` and the join swallows nothing. Confusing the join with a doubled letter inside an element is the commonest error in reading a Varokhi name apart.
 

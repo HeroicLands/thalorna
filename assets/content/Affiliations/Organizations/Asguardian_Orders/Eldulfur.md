@@ -1,6 +1,6 @@
 ---
 shortcode: eldulfur
-name: {full: Eldúlfur}
+name: {full: Eldulfur}
 type: affiliation
 subType: order
 description: "Svartbrandur's elite warriors of the forge-hovs."
@@ -20,7 +20,7 @@ data:
         title: Drottvargur
         lore: drottvargurrnk
         description: >-
-          Cast out of Eldúlfur, forfeiting whatever counsel, shelter or standing membership gave him.
+          Cast out of Eldulfur, forfeiting whatever counsel, shelter or standing membership gave him.
       - level: 1
         title: Drottmadur
         lore: drottmadurrnk
@@ -41,6 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-No gudi can make an Eldúlfur. The [[lore-fireweeks|Fire-Weeks]] do.
+No gudi can make an Eldulfur. The [[lore-fireweeks|Fire-Weeks]] do.
 
-Eldúlfur, the Infernal Blades, are elite warriors of [[affiliation-svartbrandur|Svartbrandur's faith]], known through the forge-hovs for a ferocity in battle that the god's own ordeals are built to prove. A member earns standing by surviving the Fire-Weeks and the fights that follow, and no rite a hov's gudi alone can perform confers the same. Surviving them is what makes a Drottmadur, and the order's warriors answer to a Dróttstjori.
+Eldulfur, the Infernal Blades, are elite warriors of [[affiliation-svartbrandur|Svartbrandur's faith]], known through the forge-hovs for a ferocity in battle that the god's own ordeals are built to prove. A member earns standing by surviving the Fire-Weeks and the fights that follow, and no rite a hov's gudi alone can perform confers the same. Surviving them is what makes a Drottmadur, and the order's warriors answer to a Dróttstjori.

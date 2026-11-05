@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [auldalon], population: null, packFolde
 
 ## Overview {#overview}
 
-**The Tribute Road** is the road the legion marched into the eastern hills of [[place-auldalon|Áuldalon]] and the road the yearly silver of [[lore-elvtribute|the Tribute of Élavendre]] went east along. It comes up out of the occupied march of [[place-leonrik|Lienrik]], crosses the hills on the ridges, and ends at the gate of [[place-valdun|Valdun]], where the treaty was made. Imperial milestones mark it from the east, one to each mile, and they stop at the gate. West of Valdun the Empire laid no road at all.
+**The Tribute Road** is the road the legion marched into the eastern hills of [[place-auldalon|Áuldalon]] and the road the yearly silver of [[lore-elvtribute|the Tribute of Élavendre]] went east along. It comes up out of the occupied march of [[place-leonrik|Lyenrik]], crosses the hills on the ridges, and ends at the gate of [[place-valdun|Valdun]], where the treaty was made. Imperial milestones mark it from the east, one to each mile, and they stop at the gate. West of Valdun the Empire laid no road at all.
 
 People call it the Tribute Road because of what it carried, and the name has outlasted the tribute. A drover, a pack-train master and a hill levyman all say it without thinking of silver.
 
@@ -60,5 +60,5 @@ The road is the line of the legion's march, set down when the Empire's engineers
 
 ## See Also {#see-also}
 
-- [[place-valdun|Valdun]] · [[place-auldalon|Áuldalon]] · [[place-leonrik|Lienrik]]
+- [[place-valdun|Valdun]] · [[place-auldalon|Áuldalon]] · [[place-leonrik|Lyenrik]]
 - [[lore-elvtribute|The Tribute of Élavendre]] · [[lore-westernwars|The Western Wars]]

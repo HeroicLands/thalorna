@@ -271,7 +271,7 @@ The portage trail comes down through maples to a reedy bay of the lake, where th
 
 # Dossier {#dossier}
 
-The Swampstrider is a dreadspawn shaped like a gigantic frog, twelve to eighteen feet long and two hundred pounds, which lies in wait in shallow water and takes its prey with a sticky tongue that reaches thirty feet, a skin that paralyzes, jaws like a bear trap, and a leap that rams a man flat. It is cunning far beyond any frog: it learns where prey goes and waits there. One holds a reedy bay at the end of a portage on the lakes of the [[place-osetakonargn|Osetakona Region]] in [[place-northkiichchik|Northern Ki'ich'chik]], the country of lakes, rivers and portage-routes that the [[affiliation-osetakona|Maple People]] control absolutely and share with no one. Like every dreadspawn it was made, it is alive, and it does not breed.
+The Swampstrider is a dreadspawn shaped like a gigantic frog, twelve to eighteen feet long and two hundred pounds, which lies in wait in shallow water and takes its prey with a sticky tongue that reaches thirty feet, a skin that paralyzes, jaws like a bear trap, and a leap that rams a man flat. It is cunning far beyond any frog: it learns where prey goes and waits there. One holds a reedy bay at the end of a portage on the lakes of the [[place-osetakonargn|Osetakona Region]] in [[place-northkiichchik|Northern Kì'ìch'chik]], the country of lakes, rivers and portage-routes that the [[affiliation-osetakona|Maple People]] control absolutely and share with no one. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 

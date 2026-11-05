@@ -1,9 +1,9 @@
 ---
 shortcode: centralkiichchik
-name: {full: Central Ki'ich'chik}
+name: {full: Central Kì'ìch'chik}
 type: place
 subType: region
-description: "The heartland of Ki'ich'chik, four realms of pyramid-cities, observatories and trade roads bound by one priesthood."
+description: "The heartland of Kì'ìch'chik, four realms of pyramid-cities, observatories and trade roads bound by one priesthood."
 tags: [region, draft]
 data:
   culture: kiichchikclt
@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Central Ki'ich'chik is the heartland of Ki'ich'chik civilization, home to some 28,000,000 people, and the place where the [[affiliation-itzanpnthn|Itsani priesthood]] holds its greatest influence. The fertile civilization extends southward through forests and river basins. Four realms divide the center, and each is known for one thing an outsider remembers: [[affiliation-ixilankul|Ish'ilankul]] for its plateau of temples and its high priest, [[affiliation-kankul|K'ankul]] for its astronomers and scribes, [[affiliation-neokbaate|Ne'ok Ba'ate]] for the isthmus that is the bridge to the south, and [[affiliation-xelem|Shelem]] for the feathers and furs of its rainforests.
+Central Kì'ìch'chik is the heartland of Kì'ìch'chik civilization, home to some 28,000,000 people, and the place where the [[affiliation-itzanpnthn|Itsani priesthood]] holds its greatest influence. The fertile civilization extends southward through forests and river basins. Four realms divide the center, and each is known for one thing an outsider remembers: [[affiliation-ixilankul|Ish'ilankul]] for its plateau of temples and its high priest, [[affiliation-kankul|K'ankul]] for its astronomers and scribes, [[affiliation-neokbaate|Ne'ok Ba'ate]] for the isthmus that is the bridge to the south, and [[affiliation-xelem|Shelem]] for the feathers and furs of its rainforests.
 
 ## Character
 
@@ -36,11 +36,11 @@ The four realms quarrel over who stands first among them, and the quarrel comes 
 
 ## See Also
 
-[[place-kiichchik|Ki'ich'chik Continent]]
+[[place-kiichchik|Kì'ìch'chik Continent]]
 : the continent
 
 [[place-ixilankulrgn|Ish'ilankul Region]], [[place-kankulrgn|K'ankul Region]], [[place-neokbaatergn|Ne'ok Ba'ate Region]], [[place-xelemrgn|Shelem Region]]
 : the four realms' lands
 
-[[place-northkiichchik|Northern Ki'ich'chik]], [[place-southkiichchik|Southern Ki'ich'chik]]
+[[place-northkiichchik|Northern Kì'ìch'chik]], [[place-southkiichchik|Southern Kì'ìch'chik]]
 : the northern and southern reaches

@@ -19,7 +19,7 @@ data:
 
 ## Overview
 
-The Lake Tundra (_taluq napiq_) is the hinterland of the [[place-tikumanikrgn|Ice Coast]], a delta as wide as a small kingdom where two great rivers come down to the sea through hundreds of channels. It is the country of the river villages of the [[affiliation-tikupilarit|Tikupilarit]], the Ice-Edge People, in [[place-northkiichchik|Northern Ki'ich'chik]]. About 18,000 people live on it in some eighty villages, all of them on the riverbanks, because the river is the only road.
+The Lake Tundra (_taluq napiq_) is the hinterland of the [[place-tikumanikrgn|Ice Coast]], a delta as wide as a small kingdom where two great rivers come down to the sea through hundreds of channels. It is the country of the river villages of the [[affiliation-tikupilarit|Tikupilarit]], the Ice-Edge People, in [[place-northkiichchik|Northern Kì'ìch'chik]]. About 18,000 people live on it in some eighty villages, all of them on the riverbanks, because the river is the only road.
 
 ## Geography
 
@@ -45,5 +45,5 @@ The river villages trade dried fish, bird skins, caribou hides and grass mats do
 [[place-tikumanikrgn|Ice Coast]]
 : the coast the delta comes down to
 
-[[place-northkiichchik|Northern Ki'ich'chik]]
+[[place-northkiichchik|Northern Kì'ìch'chik]]
 : the enclosing region

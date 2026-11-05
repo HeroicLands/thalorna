@@ -69,7 +69,7 @@ The **Master of the College** keeps the curriculum and decides which proofs it w
 
 ## The Present Quarrel {#present}
 
-Prince Íelaras says in company that learning and the old blood are not enemies, and he means to answer the doubters of his house's claim by having his line sung at the Elanmere fair before people who remember the genealogy differently. The College that proved the line is the College that must sing it there. Its Master has not said whether it will.
+Prince Yélaras says in company that learning and the old blood are not enemies, and he means to answer the doubters of his house's claim by having his line sung at the Elanmere fair before people who remember the genealogy differently. The College that proved the line is the College that must sing it there. Its Master has not said whether it will.
 
 The houses that cannot pay for a proof are a smaller quarrel and an older one. A house whose proof was never made keeps its claim by custom, and a College bard who is asked to hear it at a lower fee has to choose between the house and the Roll.
 

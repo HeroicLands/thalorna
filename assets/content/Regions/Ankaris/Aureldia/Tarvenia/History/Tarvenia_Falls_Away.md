@@ -20,7 +20,7 @@ data:
         - affiliation-kingdmlnrk
         - place-lezkora
       summary: >-
-        With the legions drawn north to the hunger raids and the soldiers' pay cut, the occupied lowlands stop paying. The mountain lords meet at Lezkora and elect Garvaneth of Asturath the first High King to drive the garrisons out; Lienrik's watchtowers are turned to face the coast. Short of silver to pay the lords who elected him, Garvaneth sells Valthari a charter of self-government for a yearly tribute.
+        With the legions drawn north to the hunger raids and the soldiers' pay cut, the occupied lowlands stop paying. The mountain lords meet at Lezkora and elect Garvaneth of Asturath the first High King to drive the garrisons out; Lyenrik's watchtowers are turned to face the coast. Short of silver to pay the lords who elected him, Garvaneth sells Valthari a charter of self-government for a yearly tribute.
       standing: attested
       names:
         - {name: the First High King, by: affiliation-kngdmstrth}
@@ -82,7 +82,7 @@ The garrisons were out within seven years, and the High King found he had no sil
 
 - **The elected High Kingship.** A crown that has no army, no bureaucracy and a vote that is rarely quiet ([[affiliation-kingdmtrvn|The Kingdom of Tarvénia]]).
 - **Valthari's charter.** The free city's independence, bought and paid for each year ([[affiliation-frctyvlthr|The Free City of Valthari]]).
-- **The turned watchtowers.** Lienrik's chain of towers facing the coast, still lit by the families who keep them.
+- **The turned watchtowers.** Lyenrik's chain of towers facing the coast, still lit by the families who keep them.
 - **Tarvénian hosts pressing west.** The lords the garrisons had held down now looked at the province across the mountains ([[lore-malnebris|Malnebris]]).
 
 ## See Also

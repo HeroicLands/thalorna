@@ -62,15 +62,15 @@ In the Douyo cultus, [[lore-douyodty|Douyo]] is described as a corrupted spirit 
 
 At some point, Douyo is said to have begun _redirecting_. Travelers who should have arrived at a neighboring village found themselves in places that appeared on no map. Trade caravans vanished from well-traveled routes and reappeared weeks later in locations hundreds of leagues away, their members confused and missing time. Pilgrims bound for holy sites arrived instead at the edges of the [[lore-infrnlrlms|Infernal Realms]], where things without proper classification whispered offers of assistance.
 
-The Bureau of Passage has never explained how one of its waymark spirits became corrupted. The leading theory among the [[lore-tanchei|Tanchei]] is that Douyo encountered something in the spaces between classified regions—something from the [Huenlei]{.name data-type="lore/cosmology"} that offered it an alternative cartography, a map of roads that connect not places but _states of being_. Douyo is said to maintain a network of passages that exist outside the celestial administration's jurisdiction entirely: roads that lead from despair to madness, from grief to oblivion, from ambition to ruin. Those who travel Douyo's roads arrive somewhere, but it is never where they intended, and it is always where they feared.
+The Bureau of Passage has never explained how one of its waymark spirits became corrupted. The leading theory among the [[lore-tanchei|Tanchei]] is that Douyo encountered something in the spaces between classified regions—something from the [Hwenlei]{.name data-type="lore/cosmology"} that offered it an alternative cartography, a map of roads that connect not places but _states of being_. Douyo is said to maintain a network of passages that exist outside the celestial administration's jurisdiction entirely: roads that lead from despair to madness, from grief to oblivion, from ambition to ruin. Those who travel Douyo's roads arrive somewhere, but it is never where they intended, and it is always where they feared.
 
-### Mortal Cultus: The Nuotsou Rui
+### Mortal Cultus: The Nwotsou Rwi
 
-Douyo occupies a lesser but real place in the devotional life of the [[affiliation-nuotsourui|Nuotsou Rui]]. Where the cult's primary patrons serve its ideological and bureaucratic programs, Douyo serves its _operational_ discipline—the practical arts of misdirection, evasion, and escape. Cult handlers who lead imperial investigators down false trails, couriers who use bureaucratic labyrinths to lose pursuers, and operatives who survive interrogation by steering the questioning into unresolvable categorical disputes are all said to be doing "Douyo's work." The cult preserves a handful of small rituals, typically performed immediately before a handler goes to work, that invoke the Guide Who Leads Astray to confuse the paths of those who follow.
+Douyo occupies a lesser but real place in the devotional life of the [[affiliation-nuotsourui|Nwotsou Rwi]]. Where the cult's primary patrons serve its ideological and bureaucratic programs, Douyo serves its _operational_ discipline—the practical arts of misdirection, evasion, and escape. Cult handlers who lead imperial investigators down false trails, couriers who use bureaucratic labyrinths to lose pursuers, and operatives who survive interrogation by steering the questioning into unresolvable categorical disputes are all said to be doing "Douyo's work." The cult preserves a handful of small rituals, typically performed immediately before a handler goes to work, that invoke the Guide Who Leads Astray to confuse the paths of those who follow.
 
 ### See Also
 
-[[affiliation-nuotsourui|Nuotsou Rui]]
+[[affiliation-nuotsourui|Nwotsou Rwi]]
 : The cult that venerates Douyo for misdirection and escape
 
 [[affiliation-youweng|Youweng]]

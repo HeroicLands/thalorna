@@ -3,7 +3,7 @@ shortcode: lirnasto
 name: {full: Lirnasto}
 type: place
 subType: settlement
-description: "The central conclave of the Sinale in Ki'ich'chik, in the uncut high jungle of the limestone lowlands, which the realm of K'ankul keeps its people out of by an old understanding."
+description: "The central conclave of the Sinale in Kì'ìch'chik, in the uncut high jungle of the limestone lowlands, which the realm of K'ankul keeps its people out of by an old understanding."
 tags: [village, forest]
 data:
   demonym: null
@@ -14,7 +14,7 @@ data:
   culture: sinaleclt
 ---
 
-**Lirnasto**, the place of vines in the [[skill-sinalelng|Sinale language]], is the conclave the [[lore-flksinale|Sinale Folk]] keep in the middle of [[place-kiichchik|Ki'ich'chik Continent]]. It lies in the [[place-kankulrgn|K'ankul Region]], in the high jungle of the interior of the limestone platform, a long way from the coast and from every city of the realm. It is the one place in Ki'ich'chik where the Sinale and a human realm hold to an understanding. Nobody outside it has counted the Sinale there.
+**Lirnasto**, the place of vines in the [[skill-sinalelng|Sinale language]], is the conclave the [[lore-flksinale|Sinale Folk]] keep in the middle of [[place-kiichchik|Kì'ìch'chik Continent]]. It lies in the [[place-kankulrgn|K'ankul Region]], in the high jungle of the interior of the limestone platform, a long way from the coast and from every city of the realm. It is the one place in Kì'ìch'chik where the Sinale and a human realm hold to an understanding. Nobody outside it has counted the Sinale there.
 
 ## What a Traveler Finds
 

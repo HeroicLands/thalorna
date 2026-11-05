@@ -154,7 +154,7 @@ ravatto ultas tirvaliho ahi velpe onsa/
 
 selpaita irnanno vennas eilava vehesto somarriho/
 .ahi supe teipannu ilte onsa rauttu pelvai/
-.kauve ikkessa selpai siekke issalteho/
+.kauve ikkessa selpai syekke issalteho/
 pehe irnanno vennas raakke onsaa onsaa eilava olteho/
 .yinse onsaa eilava ulsen taumel onsaa uvi tupe onsa/
 erni ehii sennai eilava ennos taumel irnanno vennas/
@@ -164,7 +164,7 @@ evi eho sìtte/
 .ulpes sìtte seipan leesìhe sendeppi eltes/
 irna sìtte maulpe vennas aldis holdi leesì issalteho/
 .luuro sìtte roselo ahi saltai lirne onsaa seltoho/
-.sannai irnanno vennas onsaa hiakke vennas irtalleesìhe/
+.sannai irnanno vennas onsaa hyakke vennas irtalleesìhe/
 ahi niltu koldi oso ovanne sìttenì/
 .evanni ehii irnanno vennas ilte vandel onsaa erni onsaa
 

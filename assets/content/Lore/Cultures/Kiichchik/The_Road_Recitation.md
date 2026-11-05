@@ -269,5 +269,5 @@ ts'akun‼ ish'lan ts'analun.
 [[lore-pikultzumaqdty|Pik'ul Ts'umaq]]
 : the fallen owl of the threshold, and the souls it pulls back
 
-[[place-kiichchik|Ki'ich'chik]]
+[[place-kiichchik|Kì'ìch'chik]]
 : the Speaking Road and its runners

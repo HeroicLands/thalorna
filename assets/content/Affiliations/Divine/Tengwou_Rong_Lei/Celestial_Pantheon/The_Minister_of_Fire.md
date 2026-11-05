@@ -47,13 +47,13 @@ data:
       - level: 7
         title: Chief Intendant
         description: >-
-          Senior mortal officer of a bureau's whole temple establishment, who signs what is transmitted upward to its Teng Gui and answers for it if the bureau rejects it.
+          Senior mortal officer of a bureau's whole temple establishment, who signs what is transmitted upward to its Teng Gwi and answers for it if the bureau rejects it.
     offices:
       Zhinho, The Minister of Fire: >-
-        Teng Gui of the Ho Sei, whose power is the authority of the office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
+        Teng Gwi of the Ho Sei, whose power is the authority of the office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
       Tsaiken: >-
         The Hearth Monitor—a household spirit assigned to every family, who observes daily conduct and files annual reports to the Ministry of Final Account. Families make offerings to Tsaiken not out of devotion but to ensure favorable reports.
-      Daoho Wo: >-
+      Dauho Wo: >-
         Wildfire Spirits, the enforcement arm for fire-related punitive action.
       Chief Intendant: >-
         Senior mortal officer of this bureau's temples, who signs what is transmitted upward.
@@ -110,7 +110,7 @@ observations on which every moral ledger is built.
 Tsaiken
 : The Hearth Monitor—a household spirit assigned to every family, who observes daily conduct and files annual reports to the Ministry of Final Account. Families make offerings to Tsaiken not out of devotion but to ensure favorable reports.
 
-Daoho Wo
+Dauho Wo
 : Wildfire Spirits, the enforcement arm for fire-related punitive action.
 
 ### See Also

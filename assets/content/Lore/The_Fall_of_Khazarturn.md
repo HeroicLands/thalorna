@@ -327,7 +327,7 @@ evi eho sìtte/
 .ulpes sìtte seipan leesìhe sendeppi eltes/
 irna sìtte maulpe vennas aldis holdi leesì issalteho/
 .luuro sìtte roselo ahi saltai lirne onsaa seltoho/
-.sannai irnanno vennas onsaa hiakke vennas irtalleesìhe/
+.sannai irnanno vennas onsaa hyakke vennas irtalleesìhe/
 ahi niltu koldi oso ovanne sìttenì/
 .evanni ehii irnanno vennas ilte vandel onsaa erni onsaa
 :::

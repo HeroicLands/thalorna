@@ -769,7 +769,7 @@ data:
       gloss: "a star"
       source: {kind: borrowed, language: skill-aelendlng, form: núpanu}
       concept: star
-    - form: kieron
+    - form: kyeron
       class: n
       field: "Light, sky and the turning year"
       gloss: "a day"
@@ -1626,7 +1626,7 @@ data:
       field: "Doing, going and being"
       gloss: "enduring"
       source: {kind: borrowed, language: skill-aelendlng, form: tenthar}
-    - form: thienen
+    - form: thyenen
       class: adv
       field: "Doing, going and being"
       gloss: "less"
@@ -1747,13 +1747,13 @@ data:
       class: "stem"
       field: "The bard and the word"
       gloss: "Song, enchantment; an Élavendri root common in names"
-    - form: gríethathen
+    - form: gryéthathen
       class: v
       field: "The body and the dead"
       gloss: "to feel; to touch"
       concept: touch-verb
       source: {kind: borrowed, language: skill-aelendlng, form: gríthathen}
-    - form: gríethalis
+    - form: gryéthalis
       class: n
       field: "The body and the dead"
       gloss: "a touch; the feel of a thing"
@@ -1891,13 +1891,13 @@ data:
       gloss: "flesh; meat"
       concept: flesh
       source: {kind: borrowed, language: skill-aelendlng, form: dúmeris}
-    - form: niemon
+    - form: nyemon
       class: n
       field: "The body and the dead"
       gloss: "breath; a breath"
       concept: breath
       source: {kind: borrowed, language: skill-aelendlng, form: nimon}
-    - form: níemathen
+    - form: nyémathen
       class: v
       field: "The body and the dead"
       gloss: "to breathe"
@@ -2065,7 +2065,7 @@ data:
       gloss: "third"
       concept: third
       source: {kind: borrowed, language: skill-aelendlng, form: khárinen}
-    - form: diema
+    - form: dyema
       class: n
       field: "Numbers and grammar words"
       gloss: "a half"
@@ -2233,7 +2233,7 @@ data:
       gloss: "to end"
       concept: end
       source: {kind: borrowed, language: skill-aelendlng, form: dhúlkathen}
-    - form: dieldathen
+    - form: dyeldathen
       class: v
       field: The body and the dead
       gloss: to watch; to observe attentively
@@ -2311,13 +2311,13 @@ data:
       gloss: embarrassment; discomfort at unwanted attention or social awkwardness
       source: {kind: borrowed, language: skill-aelendlng, form: gheldis}
       concept: embarrassment
-    - form: gierdis
+    - form: gyerdis
       class: n
       field: The body and the dead
       gloss: contempt; the feeling that another is beneath regard
       source: {kind: borrowed, language: skill-aelendlng, form: ghirdis}
       concept: contempt
-    - form: dielmis
+    - form: dyelmis
       class: n
       field: The body and the dead
       gloss: forgiveness; letting go of blame for a wrong
@@ -2335,7 +2335,7 @@ data:
       gloss: overwhelming; immense in size or degree
       source: {kind: borrowed, language: skill-aelendlng, form: ghur}
       concept: huge
-    - form: grien
+    - form: gryen
       class: adj
       field: Doing, going and being
       gloss: sustained; kept over a long time
@@ -2346,17 +2346,17 @@ data:
       gloss: terror; overwhelming fear
       built: [gaer, douris]
       concept: terror
-    - form: grien gaerasa
+    - form: gryen gaerasa
       class: n
       field: The body and the dead
       gloss: resentment; anger kept over a perceived wrong
-      built: [grien, gaerasa]
+      built: [gryen, gaerasa]
       concept: resentment
-    - form: grien ilnis
+    - form: gryen ilnis
       class: n
       field: The body and the dead
       gloss: longing; a sustained yearning for something absent
-      built: [grien, ilnis]
+      built: [gryen, ilnis]
       concept: longing
     - form: gaer rondis
       class: n
@@ -2382,7 +2382,7 @@ data:
       gloss: enmity; a state of mutual hostility
       source: {kind: borrowed, language: skill-aelendlng, form: khernalon}
       concept: enmity
-    - form: gierth
+    - form: gyerth
       class: part
       field: Numbers and grammar words
       gloss: to; toward; precedes a destination or the person toward whom a feeling is held
@@ -2556,7 +2556,7 @@ data:
       gloss: a niece; the daughter of one's sibling
       source: {kind: borrowed, language: skill-aelendlng, form: semkhela}
       concept: niece
-    - form: dielsan
+    - form: dyelsan
       class: n
       field: The house and the old blood
       gloss: a widower; a man whose spouse has died
@@ -2616,7 +2616,7 @@ data:
       gloss: a basket; an open container woven from flexible strips
       source: {kind: borrowed, language: skill-aelendlng, form: lorghis}
       concept: basket
-    - form: gielmon
+    - form: gyelmon
       class: n
       field: The hall and the guest
       gloss: a bag; a flexible container carried with its contents
@@ -2706,7 +2706,7 @@ data:
       gloss: beyond; on the farther side of the place named after it
       source: {kind: borrowed, language: skill-aelendlng, form: ghoth}
       concept: beyond
-    - form: giele
+    - form: gyele
       class: n
       field: Numbers and grammar words
       gloss: the left; the direction to the left side
@@ -2718,7 +2718,7 @@ data:
       gloss: the right; the direction to the right side
       source: {kind: borrowed, language: skill-aelendlng, form: gholm}
       concept: right-direction
-    - form: griene
+    - form: gryene
       class: adv
       field: Numbers and grammar words
       gloss: up; toward a higher place
@@ -2766,7 +2766,7 @@ data:
       gloss: the past; the time before the present
       source: {kind: borrowed, language: skill-aelendlng, form: moghra}
       concept: past
-    - form: giendon
+    - form: gyendon
       class: n
       field: Light, sky and the turning year
       gloss: the present; the current time
@@ -2790,7 +2790,7 @@ data:
       gloss: often; on many occasions
       source: {kind: borrowed, language: skill-aelendlng, form: ghurnin}
       concept: often
-    - form: grienar
+    - form: gryenar
       class: adj
       field: Light, sky and the turning year
       gloss: lasting; continuing for a long or sustained time
@@ -2988,7 +2988,7 @@ data:
       gloss: to thank; to express gratitude to someone
       source: {kind: borrowed, language: skill-aelendlng, form: laghnathen}
       concept: thank-verb
-    - form: dielmethen
+    - form: dyelmethen
       class: v
       field: Doing, going and being
       gloss: to forgive; to let go of blame for a wrong
@@ -3000,7 +3000,7 @@ data:
       gloss: to kill; to cause death
       source: {kind: borrowed, language: skill-aelendlng, form: dhongethen}
       concept: kill
-    - form: giernathen
+    - form: gyernathen
       class: v
       field: Doing, going and being
       gloss: to flee; to run away from danger
@@ -3239,7 +3239,7 @@ data:
       gloss: a storm; violent wind with rain, snow or thunder
       source: {kind: borrowed, language: skill-aelendlng, form: ghursthon}
       concept: storm
-    - form: gierna
+    - form: gyerna
       class: n
       field: The wood and its weather
       gloss: grass; low narrow-leaved plants eaten by grazing herds
@@ -3389,7 +3389,7 @@ data:
       gloss: a cloud; any mass of visible moisture suspended in the sky; the Áelendi parent pelpai has this broad sense beside its Sinale source's low cloud
       source: {kind: borrowed, language: skill-aelendlng, form: pelpai}
       concept: cloud
-    - form: nielke
+    - form: nyelke
       class: n
       field: The wood and its weather
       gloss: a plant root at any depth; the broad sense comes through Áelendi nilki, whose Sinale source names the deep root
@@ -3413,23 +3413,23 @@ data:
       gloss: ownership; the recognized right to possess something
       source: {kind: borrowed, language: skill-aelendlng, form: telgonalon}
       concept: ownership
-    - form: níemathen rith
+    - form: nyémathen rith
       class: v
       field: The body and the dead
       gloss: to inhale; to draw breath in
-      built: [níemathen, rith]
+      built: [nyémathen, rith]
       concept: inhale
-    - form: níemathen gounel
+    - form: nyémathen gounel
       class: v
       field: The body and the dead
       gloss: to exhale; to let breath out
-      built: [níemathen, gounel]
+      built: [nyémathen, gounel]
       concept: exhale
-    - form: nond geindathen munde góldathen niemon
+    - form: nond geindathen munde góldathen nyemon
       class: v
       field: The body and the dead
       gloss: I cannot take breath; reports suffocation where breathable air is absent or breathing is obstructed
-      built: [nond, geindathen, munde, góldathen, niemon]
+      built: [nond, geindathen, munde, góldathen, nyemon]
       concept: suffocate
     - form: grunathen ruskis
       class: v
@@ -3455,11 +3455,11 @@ data:
       gloss: to shout; to speak in a loud voice
       built: [ryenathen, rith, soldar, rundis]
       concept: shout
-    - form: ryenathen rith niemon rundis
+    - form: ryenathen rith nyemon rundis
       class: v
       field: Doing, going and being
       gloss: to whisper; to speak in the breath voice, an unvoiced voice
-      built: [ryenathen, rith, niemon, rundis]
+      built: [ryenathen, rith, nyemon, rundis]
       concept: whisper
     - form: dárkathen sarnis
       class: v
@@ -3515,11 +3515,11 @@ data:
       gloss: fourth; in position four; replace ordur with a numeral for its ordinal position, as rith reithik taldis, fifth
       built: [rith, ordur, taldis]
       concept: ordinal-construction
-    - form: diema diema
+    - form: dyema dyema
       class: n
       field: Numbers and grammar words
       gloss: a quarter; half of a half
-      built: [diema, diema]
+      built: [dyema, dyema]
       concept: quarter
     - form: geirin thinar ukal derar gaeron
       class: adv
@@ -3527,11 +3527,11 @@ data:
       gloss: most; more in quantity or degree than each other thing in the comparison
       built: [geirin, thinar, ukal, derar, gaeron]
       concept: most
-    - form: thienen thinar ukal derar gaeron
+    - form: thyenen thinar ukal derar gaeron
       class: adv
       field: Numbers and grammar words
       gloss: least; less in quantity or degree than each other thing in the comparison
-      built: [thienen, thinar, ukal, derar, gaeron]
+      built: [thyenen, thinar, ukal, derar, gaeron]
       concept: least
     - form: uk threl thend
       class: pron
@@ -3569,11 +3569,11 @@ data:
       gloss: midnight; the middle of the night
       built: [murnel, óssenda]
       concept: midnight
-    - form: ti kieron
+    - form: ti kyeron
       class: n
       field: Light, sky and the turning year
       gloss: today; this day
-      built: [ti, kieron]
+      built: [ti, kyeron]
       concept: today
     - form: rith kirdis
       class: part
@@ -3683,11 +3683,11 @@ data:
       gloss: how much; what amount
       built: [gere, menthis]
       concept: question-how-much
-    - form: gierth gese
+    - form: gyerth gese
       class: part
       field: Numbers and grammar words
       gloss: to whom; asks the recipient or person toward whom an action is directed
-      built: [gierth, gese]
+      built: [gyerth, gese]
       concept: question-to-whom
     - form: threl gere miron
       class: part
@@ -3887,11 +3887,11 @@ data:
       gloss: sorry; I hold regret
       built: [dárkathen, munde, gournis]
       concept: expression-sorry
-    - form: dielmethen tose munde
+    - form: dyelmethen tose munde
       class: v
       field: The hall and the guest
       gloss: forgive me; a fixed request that you forgive me
-      built: [dielmethen, tose, munde]
+      built: [dyelmethen, tose, munde]
       concept: expression-forgive-me
     - form: drin tenri
       class: part
@@ -5163,7 +5163,7 @@ data:
 
     - {form: kalve, class: n, field: The wood and its weather, gloss: "birch"}
 
-    - {form: giethar, class: adj, field: The land in keeping, gloss: "low"}
+    - {form: gyethar, class: adj, field: The land in keeping, gloss: "low"}
 
     - form: kurnand
       class: n
@@ -5217,7 +5217,7 @@ data:
 
     - {form: salrisa, class: n, field: "Craft, coin and the market", gloss: "bark of a tree"}
 
-    - form: áurkieron
+    - form: áurkyeron
       class: n
       field: Craft, coin and the market
       gloss: "hinge day, the seasonal turning day"
@@ -5240,7 +5240,7 @@ data:
 
     - {form: pirnarnis, class: n, field: "Craft, coin and the market", gloss: "hank of thread"}
 
-    - {form: riethar, class: adj, field: "Doing, going and being", gloss: "even or uniform"}
+    - {form: ryethar, class: adj, field: "Doing, going and being", gloss: "even or uniform"}
 
     - {form: tórnathen, class: v, field: "Doing, going and being", gloss: "knock at a door"}
 
@@ -5254,7 +5254,7 @@ data:
 
     - {form: mannar, class: adj, field: "Doing, going and being", gloss: "hollow"}
 
-    - {form: mielve, class: n, field: "Craft, coin and the market", gloss: "moss"}
+    - {form: myelve, class: n, field: "Craft, coin and the market", gloss: "moss"}
 
     - {form: rinel, class: n, field: "Craft, coin and the market", gloss: "edge or end"}
 
@@ -5268,7 +5268,7 @@ data:
       concept: [each, every]
     - {form: ansóldaris, class: adj, field: "Doing, going and being", gloss: "unheard"}
 
-    - {form: míelathen, class: v, field: "Doing, going and being", gloss: "smile"}
+    - {form: myélathen, class: v, field: "Doing, going and being", gloss: "smile"}
 
     - {form: sundar, class: adj, field: "Doing, going and being", gloss: closed}
     - {form: pirnel, class: n, field: "Craft, coin and the market", gloss: "spindle"}
@@ -5320,9 +5320,9 @@ data:
 
     - {form: váknathen, class: v, field: "Doing, going and being", gloss: "wake"}
 
-    - {form: sielar, class: adj, field: The body and the dead, gloss: "wet"}
+    - {form: syelar, class: adj, field: The body and the dead, gloss: "wet"}
 
-    - {form: niersa, class: n, field: The wood and its weather, gloss: "dew"}
+    - {form: nyersa, class: n, field: The wood and its weather, gloss: "dew"}
 
     - form: thárnathen
       class: v
@@ -5410,7 +5410,7 @@ data:
       field: Craft, coin and the market
       gloss: wagon
       source: {kind: coined}
-    - form: dieldalon
+    - form: dyeldalon
       class: n
       field: Craft, coin and the market
       gloss: picket group
@@ -5586,7 +5586,7 @@ data:
       field: Numbers and grammar words
       gloss: Bell-Wether
       source: {kind: coined}
-    - {form: mielnis, class: n, field: The hall and the guest, gloss: joke, source: {kind: coined}}
+    - {form: myelnis, class: n, field: The hall and the guest, gloss: joke, source: {kind: coined}}
     - form: lorthen
       class: n
       field: The hall and the guest
@@ -5619,7 +5619,7 @@ data:
       gloss: "rear region; the back of a place or a company"
       source: {kind: coined}
 
-    - form: rienar
+    - form: ryenar
       class: adj
       field: Color and the look of things
       gloss: same, identical
@@ -5679,13 +5679,13 @@ data:
       field: Color and the look of things
       gloss: unknown
       source: {kind: coined}
-    - form: ríelathen
+    - form: ryélathen
       class: v
       field: Doing, going and being
       gloss: "tune a harp"
       source: {kind: coined}
 
-    - form: anrielar
+    - form: anryelar
       class: adj
       field: Color and the look of things
       gloss: untuned
@@ -5845,7 +5845,7 @@ data:
       gloss: "page"
       source: {kind: coined}
 
-    - form: giethon
+    - form: gyethon
       class: n
       field: The bard and the word
       gloss: "foot or lower part of a page"
@@ -6014,7 +6014,7 @@ data:
       gloss: "call or summon"
       source: {kind: coined}
 
-    - form: grienathen
+    - form: gryenathen
       class: v
       field: Doing, going and being
       gloss: "climb"
@@ -6043,7 +6043,7 @@ data:
       gloss: "bracken"
       source: {kind: coined}
 
-    - form: ielne
+    - form: yelne
       class: n
       field: The wood and its weather
       gloss: "yew"
@@ -6291,7 +6291,7 @@ data:
       field: "The Pact, the oath and the judgment"
       gloss: "a spoken oath; words sworn aloud and written nowhere"
       source: {kind: coined}
-    - form: dielve
+    - form: dyelve
       class: n
       field: "Mountain, water and stone"
       gloss: "a fold; a hollow where a valley bends in among its hills"
@@ -6411,7 +6411,7 @@ data:
       field: "Doing, going and being"
       gloss: "to go with; to accompany someone"
       source: {kind: coined}
-    - form: líethathen
+    - form: lyéthathen
       class: v
       field: The bard and the word
       gloss: "to recount; to tell what happened, long after"
@@ -6516,7 +6516,7 @@ data:
         - "Órhaima"
         - "Hálmesar"
         - "Dórkima"
-        - "Ríethesand"
+        - "Ryéthesand"
         - "Semroth"
         - "Sorhand"
         - "Lóuresand"
@@ -6526,7 +6526,7 @@ data:
         - "Kálvirne"
         - "Tírvale"
         - "Hálvilon"
-        - "Íelaras"
+        - "Yélaras"
         - "Áleren"
         - "Dalren"
         - "Daran"
@@ -6838,7 +6838,7 @@ data:
     - {name: Enclave of Serenthale, tongue: translation}
     - {name: Enclave of Ethalosse, tongue: translation}
     - {name: Enclave of Aelirosse, tongue: translation}
-    - {name: Vierka, tongue: other:sinale}
+    - {name: Vyerka, tongue: other:sinale}
     - {name: Member of the Enclave, tongue: translation}
     - {name: Lord of the Enclave, tongue: translation}
     - {name: Councilor, tongue: translation}
@@ -6986,9 +6986,9 @@ data:
     - {name: Áurenthe Kírethel, tongue: elavendri}
     - {name: Queen Áurenthe Kírethel, tongue: translation}
     - {name: Queen Áurenthe, tongue: translation}
-    - {name: Íelaras Kírethel, tongue: elavendri}
-    - {name: Prince Íelaras Kírethel, tongue: translation}
-    - {name: Prince Íelaras, tongue: translation}
+    - {name: Yélaras Kírethel, tongue: elavendri}
+    - {name: Prince Yélaras Kírethel, tongue: translation}
+    - {name: Prince Yélaras, tongue: translation}
     - {name: Araelwen, tongue: elavendri}
     - {name: Ruthelmar, tongue: elavendri}
     - {name: Lámanis, tongue: elavendri}
@@ -7082,6 +7082,47 @@ data:
     - {form: Vélaria, instead: Velthra, why: "a sound Élavendri lacks: the hiatus ia"}
     - {form: Yálith, instead: Jalith, why: "a sound Élavendri lacks: y as a vowel"}
     - {form: Béravel, instead: Péravel, why: "a sound Élavendri lacks: b"}
+    - {form: kieron, instead: kyeron, why: "respelled to the guide: a glide is written y"}
+    - {form: thienen, instead: thyenen, why: "respelled to the guide: a glide is written y"}
+    - form: gríethathen
+      instead: gryéthathen
+      why: "respelled to the guide: a glide is written y"
+    - {form: gríethalis, instead: gryéthalis, why: "respelled to the guide: a glide is written y"}
+    - {form: niemon, instead: nyemon, why: "respelled to the guide: a glide is written y"}
+    - {form: níemathen, instead: nyémathen, why: "respelled to the guide: a glide is written y"}
+    - {form: diema, instead: dyema, why: "respelled to the guide: a glide is written y"}
+    - {form: dieldathen, instead: dyeldathen, why: "respelled to the guide: a glide is written y"}
+    - {form: gierdis, instead: gyerdis, why: "respelled to the guide: a glide is written y"}
+    - {form: dielmis, instead: dyelmis, why: "respelled to the guide: a glide is written y"}
+    - {form: grien, instead: gryen, why: "respelled to the guide: a glide is written y"}
+    - {form: gierth, instead: gyerth, why: "respelled to the guide: a glide is written y"}
+    - {form: dielsan, instead: dyelsan, why: "respelled to the guide: a glide is written y"}
+    - {form: gielmon, instead: gyelmon, why: "respelled to the guide: a glide is written y"}
+    - {form: giele, instead: gyele, why: "respelled to the guide: a glide is written y"}
+    - {form: griene, instead: gryene, why: "respelled to the guide: a glide is written y"}
+    - {form: giendon, instead: gyendon, why: "respelled to the guide: a glide is written y"}
+    - {form: grienar, instead: gryenar, why: "respelled to the guide: a glide is written y"}
+    - {form: dielmethen, instead: dyelmethen, why: "respelled to the guide: a glide is written y"}
+    - {form: giernathen, instead: gyernathen, why: "respelled to the guide: a glide is written y"}
+    - {form: gierna, instead: gyerna, why: "respelled to the guide: a glide is written y"}
+    - {form: nielke, instead: nyelke, why: "respelled to the guide: a glide is written y"}
+    - {form: giethar, instead: gyethar, why: "respelled to the guide: a glide is written y"}
+    - {form: áurkieron, instead: áurkyeron, why: "respelled to the guide: a glide is written y"}
+    - {form: riethar, instead: ryethar, why: "respelled to the guide: a glide is written y"}
+    - {form: mielve, instead: myelve, why: "respelled to the guide: a glide is written y"}
+    - {form: míelathen, instead: myélathen, why: "respelled to the guide: a glide is written y"}
+    - {form: sielar, instead: syelar, why: "respelled to the guide: a glide is written y"}
+    - {form: niersa, instead: nyersa, why: "respelled to the guide: a glide is written y"}
+    - {form: dieldalon, instead: dyeldalon, why: "respelled to the guide: a glide is written y"}
+    - {form: mielnis, instead: myelnis, why: "respelled to the guide: a glide is written y"}
+    - {form: rienar, instead: ryenar, why: "respelled to the guide: a glide is written y"}
+    - {form: ríelathen, instead: ryélathen, why: "respelled to the guide: a glide is written y"}
+    - {form: anrielar, instead: anryelar, why: "respelled to the guide: a glide is written y"}
+    - {form: giethon, instead: gyethon, why: "respelled to the guide: a glide is written y"}
+    - {form: grienathen, instead: gryenathen, why: "respelled to the guide: a glide is written y"}
+    - {form: ielne, instead: yelne, why: "respelled to the guide: a glide is written y"}
+    - {form: dielve, instead: dyelve, why: "respelled to the guide: a glide is written y"}
+    - {form: líethathen, instead: lyéthathen, why: "respelled to the guide: a glide is written y"}
     - form: Arálwen
       instead: Araelwen
       why: "an acute on the syllable the stress rule already chooses"
@@ -7128,7 +7169,7 @@ The [[skill-elvndrlng#lexicon|Élavendri Lexicon]] gives the words with their so
 
 Élavendri is the soft lowland daughter of Áelendi. Its vowels break into pairs, its consonants loosen between vowels, and its words end on a murmured _-e_.
 
-**The vowels.** Vowel pairs carry the language: _ie_, _ou_, _ae_ and _ei_, as in _kieron_ and _géilalon_. A final _-e_ closes many words.
+**The vowels.** Vowel pairs carry the language: _ou_ and _ei_, as in _géilalon_, and _ye_, as in _kyeron_. In _ae_ both vowels are said, as in _laegis_. A final _-e_ closes many words.
 
 **The consonants.** _l_, _v_, _r_, _n_, _s_, _m_ and _th_ do most of the work. _ny_ and _sh_ appear before a vowel.
 
@@ -7162,21 +7203,21 @@ The [[skill-elvndrlng#lexicon|Élavendri Lexicon]] gives the words with their so
 
 ### Ordinary expressions
 
-_Dárkathen munde merlis_ means "I hold joy", a sudden gladness; _dárkathen munde merlon_ means "I hold happiness", a continuing gladness. _Dárkathen munde losnis_ names pleasure and _dárkathen munde tendaris_ names contentment. These are concrete expressions of the speaker's emotional state. _Dárkathen munde dáerison gierth tose_, "I hold trust toward you", says that the speaker relies on the other's keeping of their word, with the Pact at the heart of _dáerison_. _Tengis_ is confidence in ability or success, _tendris_ is conviction that a claim is true, and _thénnairsa_ is truth itself.
+_Dárkathen munde merlis_ means "I hold joy", a sudden gladness; _dárkathen munde merlon_ means "I hold happiness", a continuing gladness. _Dárkathen munde losnis_ names pleasure and _dárkathen munde tendaris_ names contentment. These are concrete expressions of the speaker's emotional state. _Dárkathen munde dáerison gyerth tose_, "I hold trust toward you", says that the speaker relies on the other's keeping of their word, with the Pact at the heart of _dáerison_. _Tengis_ is confidence in ability or success, _tendris_ is conviction that a claim is true, and _thénnairsa_ is truth itself.
 
-The loves remain distinct: _méldaris_ is romantic love, _ánsevirsa_ friendship, _kéinalis_ family love, and _ílthamon_ selfless love given to all. _Gérmisa_ is sexual lust. The other feeling expressions give their own pieces in their cited order: _gaer douris_, "overwhelming fear; terror", _grien gaerasa_, "sustained anger; resentment", _grien ilnis_, "sustained desire; longing", and _gaer rondis_, "overwhelming admiration; awe". They describe human feeling in ordinary life.
+The loves remain distinct: _méldaris_ is romantic love, _ánsevirsa_ friendship, _kéinalis_ family love, and _ílthamon_ selfless love given to all. _Gérmisa_ is sexual lust. The other feeling expressions give their own pieces in their cited order: _gaer douris_, "overwhelming fear; terror", _gryen gaerasa_, "sustained anger; resentment", _gryen ilnis_, "sustained desire; longing", and _gaer rondis_, "overwhelming admiration; awe". They describe human feeling in ordinary life.
 
-The physical tongue is _gaelis_; _óstila_ is speech or language. _Kenlon_ names a child whether named or unnamed, while _lyegon_ is the child before naming. _Hendron_ is the physical hearth, and _káerathon_ its kept fire. _Gyernis_ is a thigh and _gurnis_ a testicle. _Niemon_ is breath. _Níemathen munde rith_, "I breathe in", and _níemathen munde gounel_, "I breathe out", give the directions in these two bodily utterances. _Nond geindathen munde góldathen niemon_, "I cannot take breath", reports suffocation when breath is blocked or breathable air is absent. _Grunathen munde ruskis_, "I feel pain", names bodily sensation. _Rusnar gaelmar_, "feverish", names the heat of illness; _gaeri gaeri dielar_, "exhausted", uses the degree adverb _gaeri_ twice with tiredness.
+The physical tongue is _gaelis_; _óstila_ is speech or language. _Kenlon_ names a child whether named or unnamed, while _lyegon_ is the child before naming. _Hendron_ is the physical hearth, and _káerathon_ its kept fire. _Gyernis_ is a thigh and _gurnis_ a testicle. _Nyemon_ is breath. _Nyémathen munde rith_, "I breathe in", and _nyémathen munde gounel_, "I breathe out", give the directions in these two bodily utterances. _Nond geindathen munde góldathen nyemon_, "I cannot take breath", reports suffocation when breath is blocked or breathable air is absent. _Grunathen munde ruskis_, "I feel pain", names bodily sensation. _Rusnar gaelmar_, "feverish", names the heat of illness; _gaeri gaeri dielar_, "exhausted", uses the degree adverb _gaeri_ twice with tiredness.
 
-The household words retain their different uses. _Ómbela_ is a chair, _mórvalis_ a table, _zúndela_ a lock and _kézra_ a key. _Gorth thodkis_ is a boot, the high foot covering. _Sira mirlis_ is water-soaked earth, mud. _En munde dielar_ means "I am tired", using the existing copula. _En munde gaeri gaeri dielar_ means "I am extremely tired". _Ryenathen munde rith soldar rundis_, "I speak in a loud voice", is a shout; _ryenathen munde rith niemon rundis_, "I speak in the breath voice", is a whisper, the unvoiced manner of speech.
+The household words retain their different uses. _Ómbela_ is a chair, _mórvalis_ a table, _zúndela_ a lock and _kézra_ a key. _Gorth thodkis_ is a boot, the high foot covering. _Sira mirlis_ is water-soaked earth, mud. _En munde dielar_ means "I am tired", using the existing copula. _En munde gaeri gaeri dielar_ means "I am extremely tired". _Ryenathen munde rith soldar rundis_, "I speak in a loud voice", is a shout; _ryenathen munde rith nyemon rundis_, "I speak in the breath voice", is a whisper, the unvoiced manner of speech.
 
-The physical wood and weather words come through Áelendi. _Pelvai_ names any cloud here, and _nielke_ any plant root; the Áelendi parent words have those broad uses, beside their Sinale sources' low cloud and deep root. _Ravale_ is rain and _salve_ a tree. A weather report can put the existence verb first: _elnathen nonduk pelvai_, "no cloud exists; the weather is clear", or _elnathen gurnar pelvai_, "many clouds exist; it is cloudy". The separate river and lake words keep their scopes: _sirnon_ is a river above or below the tree line, _lántheve_ the river below it; _dulnon_ is a lake in any setting and _dulna_ the tarn in its corrie.
+The physical wood and weather words come through Áelendi. _Pelvai_ names any cloud here, and _nyelke_ any plant root; the Áelendi parent words have those broad uses, beside their Sinale sources' low cloud and deep root. _Ravale_ is rain and _salve_ a tree. A weather report can put the existence verb first: _elnathen nonduk pelvai_, "no cloud exists; the weather is clear", or _elnathen gurnar pelvai_, "many clouds exist; it is cloudy". The separate river and lake words keep their scopes: _sirnon_ is a river above or below the tree line, _lántheve_ the river below it; _dulnon_ is a lake in any setting and _dulna_ the tarn in its corrie.
 
-_Rith ordur taldis_ says "in position four; fourth". Another numeral names its own position in that expression: _rith reithik taldis_, "fifth", and _rith taehes taldis_, "tenth". _Ta taehes_, "two tens", is twenty; _diema diema_, "half of a half", is a quarter. _Uk threl thend_, "one from the two", selects either member of a pair, while _nonduk threl thend_, "none from the two", selects neither. _Rith kren miron_, _rith nonduk miron_ and _rith alnar miron_ say "in some place", "in no place" and "in all places".
+_Rith ordur taldis_ says "in position four; fourth". Another numeral names its own position in that expression: _rith reithik taldis_, "fifth", and _rith taehes taldis_, "tenth". _Ta taehes_, "two tens", is twenty; _dyema dyema_, "half of a half", is a quarter. _Uk threl thend_, "one from the two", selects either member of a pair, while _nonduk threl thend_, "none from the two", selects neither. _Rith kren miron_, _rith nonduk miron_ and _rith alnar miron_ say "in some place", "in no place" and "in all places".
 
-The comparison expressions name the measure and its set. _Geirin geildar_ is "better", good to a greater degree, and _geirin geildar thinar ukal derar gaeron_ is "best", better than each other thing in the comparison. _Geirin thinar ukal derar gaeron_ is "most" and _thienen thinar ukal derar gaeron_ "least", more or less than each other thing. _Gaeri gaeri_ gives extreme degree, as in _gaeri gaeri lunnar_, "tiny; extremely small". _Goul antemar_ and _send antemar_ give too much and too little: a great or small quantity that fails the fitting measure.
+The comparison expressions name the measure and its set. _Geirin geildar_ is "better", good to a greater degree, and _geirin geildar thinar ukal derar gaeron_ is "best", better than each other thing in the comparison. _Geirin thinar ukal derar gaeron_ is "most" and _thyenen thinar ukal derar gaeron_ "least", more or less than each other thing. _Gaeri gaeri_ gives extreme degree, as in _gaeri gaeri lunnar_, "tiny; extremely small". _Goul antemar_ and _send antemar_ give too much and too little: a great or small quantity that fails the fitting measure.
 
-These expressions name a time or an occasion. _Ti kieron_ is today, this day; _murnel óssenda_ is midnight, the middle of the night. _Rith kurnis kirdis_ means "during the feast", in the feast's time. _Kirdin_ is a countable occasion: _nal uk kirdin_, "once", _nal ta kirdin_, "twice", and _nal gurnar kirdin_, "repeatedly". _Nal treinen kirdin_ and _nal dáelamen kirdin_ put an event at the first and next occasion in sequence; _nal dyelon_ marks its final point. _Grend_ means again, a recurrence of the action in question. _Nond geinde_ says that an expected event has not happened yet.
+These expressions name a time or an occasion. _Ti kyeron_ is today, this day; _murnel óssenda_ is midnight, the middle of the night. _Rith kurnis kirdis_ means "during the feast", in the feast's time. _Kirdin_ is a countable occasion: _nal uk kirdin_, "once", _nal ta kirdin_, "twice", and _nal gurnar kirdin_, "repeatedly". _Nal treinen kirdin_ and _nal dáelamen kirdin_ put an event at the first and next occasion in sequence; _nal dyelon_ marks its final point. _Grend_ means again, a recurrence of the action in question. _Nond geinde_ says that an expected event has not happened yet.
 
 _Gire_ links the object of a clause to that clause's subject: _nóurethen munde gire_, "I see myself", and _nóurethen gene gire_, "the person or thing sees itself". The lexical possessives have concrete uses in _mundri halthon_, "my house", _tosri genta_, "your spear", and _nusri omris_, "our sheep". _Kendar neli_ and _tendar neli_ refer to anyone and anything without restriction. _Nond kendar_ excludes every person; _uk derar_ names another, one other person or thing.
 
@@ -7188,9 +7229,9 @@ For linked alternatives, _gose ... gose_ marks either ... or, _nond gose ... non
 
 The conversational entries give whole utterances. _Laegnathen munde tose_, "I thank you", _sarnathen munde_, "I understand", and _nond sarnathen munde_, "I do not understand", put the verb before the named subject. The listed examples retain the cited verb form. _Máldathen munde tose tis_, "I give you your place here", keeps the host as the person offering the seat. _Dárkathen munde gournis_, "I hold regret; sorry", names an emotional state. _Kernathen munde_, "I ask", is a courteous preface. _Nond molthon_, "no debt of honor", answers thanks by releasing the recipient from repayment. A direct request names its addressee after the verb: _árnathen tose tis_, "come here", and _kenthathen tose munde_, "help me". _Shalor en kir a thel_ is the fixed formal greeting, "Welcome, friend of the light". _Reida rith tose_, "peace in you", takes leave.
 
-Full questions keep their named roles clear. _En tose rith gere miron?_ asks "where are you?", literally whether you are in what place. _Eldathen to nal gere kirdis?_ asks "when does that happen?", at what time. _En al gouris gere?_ asks "what is the reason?", and _en al deirnis gere?_ "what is the purpose?". _En al deilnon gere?_ asks the number and _en al menthis gere?_ the amount. _En gene gese?_ asks who the person is; _en to geisri?_ asks whose the thing is. _Árnathen tose threl gere miron?_ asks from what place you come. _Méisathen tose ti leithon gierth gese?_ asks to whom you send this word.
+Full questions keep their named roles clear. _En tose rith gere miron?_ asks "where are you?", literally whether you are in what place. _Eldathen to nal gere kirdis?_ asks "when does that happen?", at what time. _En al gouris gere?_ asks "what is the reason?", and _en al deirnis gere?_ "what is the purpose?". _En al deilnon gere?_ asks the number and _en al menthis gere?_ the amount. _En gene gese?_ asks who the person is; _en to geisri?_ asks whose the thing is. _Árnathen tose threl gere miron?_ asks from what place you come. _Méisathen tose ti leithon gyerth gese?_ asks to whom you send this word.
 
-Complete alternatives keep each marker with its own item. _Dalgathen munde gose sira gose korthon_ means "I choose either water or mead". _Ílnathen munde nond gose sira nond gose korthon_ means "I want neither water nor mead". _Dárkathen munde reik sira reik korthon_ means "I have both water and mead". _Gyese en tose tis, seis dárkathen munde sénthira_ gives a positive condition and its consequence: "if you are here, then I hold hope". _Róugathen munde gierth halthon seis dúrsathen munde_ gives a purpose: "I go toward home so that I sleep".
+Complete alternatives keep each marker with its own item. _Dalgathen munde gose sira gose korthon_ means "I choose either water or mead". _Ílnathen munde nond gose sira nond gose korthon_ means "I want neither water nor mead". _Dárkathen munde reik sira reik korthon_ means "I have both water and mead". _Gyese en tose tis, seis dárkathen munde sénthira_ gives a positive condition and its consequence: "if you are here, then I hold hope". _Róugathen munde gyerth halthon seis dúrsathen munde_ gives a purpose: "I go toward home so that I sleep".
 
 The explanatory markers also have concrete uses. _En ti tárneve; gere temar, uk tárnevine_ means "this is bread; namely, one loaf". _En salve mirnon; uk dírmalis, hersel_ gives an example: "a tree is a plant; for example, a pine". With water as the alternative in question, _dalgathen munde korthon dergin gerth_ chooses mead instead.
 
@@ -7260,7 +7301,7 @@ The [[lore-aelendnppl|Áelendan]] of the interior name from a stock of their own
 
 ## Male Given Names
 
-Gulmand, Hersel, Ossel, Sórvanda, Súldinne, Ílsevand, Sálvurnand, Sóurimand, Máerendand, Kurthand, Háresand, Thaurand, Thráemesand, Úrthaven, Órhaima, Hálmesar, Dórkima, Ríethesand, Semroth, Sorhand, Lóuresand, Théironand, Gúlmalon, Aulde, Kálvirne, Tírvale, Hálvilon, Íelaras, Áleren, Dalren, Daran, Heltan, Jeldor, Kenrel, Lotren, Moren, Naldor, Orlen, Parthun, Ranthor, Salten, Taldor, Tenral, Thoren, Tralkar, Urnath, Vargen, Veldor, Élkaris
+Gulmand, Hersel, Ossel, Sórvanda, Súldinne, Ílsevand, Sálvurnand, Sóurimand, Máerendand, Kurthand, Háresand, Thaurand, Thráemesand, Úrthaven, Órhaima, Hálmesar, Dórkima, Ryéthesand, Semroth, Sorhand, Lóuresand, Théironand, Gúlmalon, Aulde, Kálvirne, Tírvale, Hálvilon, Yélaras, Áleren, Dalren, Daran, Heltan, Jeldor, Kenrel, Lotren, Moren, Naldor, Orlen, Parthun, Ranthor, Salten, Taldor, Tenral, Thoren, Tralkar, Urnath, Vargen, Veldor, Élkaris
 
 ## Female Given Names
 
@@ -7272,9 +7313,9 @@ Gulmand, Hersel, Ossel, Sórvanda, Súldinne, Ílsevand, Sálvurnand, Sóurimand
 
 ## Élavendri Lexicon {#lexicon}
 
-A bard of a great house in [[place-elavendre|Élavendre]] is reciting the house's line at a feast, and he is doing it in two tongues at once without anyone at the table remarking on it. The names of the founders are highland names, said the way the highlands say them, with the clicks in; the words that join them are Élavendri, the same words with the clicks gone, the long vowels opened into diphthongs and the last vowel of each one let fall to a murmur. The house's claim to the old blood rests on the guests hearing the difference and believing the line runs across it.
+A bard of a great house in [[place-elavendre|Élavendre]] is reciting the house's line at a feast, and he is doing it in two tongues at once without anyone at the table remarking on it. The names of the founders are highland names, said the way the highlands say them, with the old _kh_ and _gh_ in; the words that join them are Élavendri, the same words with those sounds gone, the plain vowels opened into vowel pairs and the last vowel of each one let fall to a murmur. The house's claim to the old blood rests on the guests hearing the difference and believing the line runs across it.
 
-This is the word-hoard of Élavendri, the tongue of the lowland kingdom. It is the daughter of Áelendi, the highland tongue that came over the eastern pass, made over by the lowlands in the centuries since: its clicked stops merged with the plain ones, it has lost _kh_, _gh_ and _dh_, its long vowels broke into the diphthongs it is admired for, and many of its final vowels softened to _-e_. Because it is Áelendi's daughter it carries Áelendi's great layer of [[skill-sinalelng|Sinale]] words, the trees, the light, the veil and the art, and several of them came back nearly to their Sinale shape on the way down. Because the kingdom owed the empire service for centuries, it carries a smaller layer of imperial words as well: the law, the coin, the letters and the University.
+This is the word-hoard of Élavendri, the tongue of the lowland kingdom. It is the daughter of Áelendi, the highland tongue that came over the eastern pass, made over by the lowlands in the centuries since: it has lost _kh_, _gh_ and _dh_, many of its plain vowels opened into the vowel pairs it is admired for, and many of its final vowels softened to _-e_. Because it is Áelendi's daughter it carries Áelendi's great layer of [[skill-sinalelng|Sinale]] words, the trees, the light, the veil and the art, and several of them came back nearly to their Sinale shape on the way down. Because the kingdom owed the empire service for centuries, it carries a smaller layer of imperial words as well: the law, the coin, the letters and the University.
 
 ## How to read the dictionary {#how-to-read-the-dictionary}
 

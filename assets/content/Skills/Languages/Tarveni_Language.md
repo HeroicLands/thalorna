@@ -964,7 +964,7 @@ data:
       field: Coin and trade
       gloss: "a weight"
       source: {kind: worn, form: solkimon}
-    - form: kiézilo
+    - form: kyézilo
       class: n n
       field: Coin and trade
       gloss: "a wedge; a small coin cut from a bar"
@@ -4932,10 +4932,10 @@ data:
     - {name: Serjeant, tongue: translation}
     - {name: Manorial Officer, tongue: translation}
     - {name: Kingdom of Galvaren, tongue: translation}
-    - {name: Kingdom of Lienrik, tongue: translation}
+    - {name: Kingdom of Lyenrik, tongue: translation}
     - {name: Kingdom of Tarvénia, tongue: translation}
     - {name: Tarvena, tongue: tarveni}
-    - {name: Lienrik, tongue: tarveni}
+    - {name: Lyenrik, tongue: tarveni}
     - {name: Ornetho, tongue: tarveni}
     - {name: Ólvestra, tongue: tarveni}
     - {name: Lezkora, tongue: tarveni}
@@ -5019,7 +5019,7 @@ data:
     - {name: Elztholmeza, tongue: other:vylari}
     - {name: Zargelza, tongue: other:vylari}
     - {name: The Lowlands Taken, tongue: translation}
-    - {name: The Occupation of Lienrik, tongue: translation}
+    - {name: The Occupation of Lyenrik, tongue: translation}
     - {name: The Occupation, tongue: translation}
     - {name: The Lowland March, tongue: translation}
     - {name: Tórsaro, tongue: tarveni}
@@ -5109,12 +5109,12 @@ data:
     - {name: Court of Pleas, tongue: translation}
     - {name: Roll of Houses, tongue: translation}
     - {name: Tower Road, tongue: translation}
-    - {name: Heir of Lienrik, tongue: translation}
+    - {name: Heir of Lyenrik, tongue: translation}
     - {name: Castellan of Ornetho, tongue: translation}
     - {name: Crown Councilor, tongue: translation}
     - {name: Keeper of the Roll of Houses, tongue: translation}
     - {name: Master of the Pleas, tongue: translation}
-    - {name: Marshal of Lienrik, tongue: translation}
+    - {name: Marshal of Lyenrik, tongue: translation}
     - {name: Warden of the Towers, tongue: translation}
     - {name: Towerkeeper, tongue: translation}
     - {name: Receiver of the Dues, tongue: translation}
@@ -5183,7 +5183,7 @@ data:
       why: "a name built of words of an Earth tongue, for the sea valley"
     - form: Ornethe
       instead: Durvolka
-      why: "a harbor name too close to Ornetho, the walled city of Lienrik"
+      why: "a harbor name too close to Ornetho, the walled city of Lyenrik"
     - form: Torreviga
       instead: Thórgila
       why: "a name built of words of an Earth tongue, for the tower hill"
@@ -5246,7 +5246,7 @@ data:
       why: "a name with the vowels i and a side by side, which Tarveni lacks"
     - {form: Kúbrý, instead: Kubri, why: "a name written with y, which Tarveni lacks"}
     - form: Léonrik
-      instead: Lienrik
+      instead: Lyenrik
       why: "a name with the vowels e and o side by side, which Tarveni lacks"
     - form: Ólvestria
       instead: Ólvestra
@@ -5260,6 +5260,8 @@ data:
     - form: Thésia
       instead: Thésira
       why: "a name with the vowels i and a side by side, which Tarveni lacks"
+    - {form: kiézilo, instead: kyézilo, why: "respelled to the guide: a glide is written y"}
+    - {form: Lienrik, instead: Lyenrik, why: "respelled to the guide: a glide is written y"}
     - {form: Lucien Vasquez, instead: Gulmaleno Thelvaris, why: "an Earth personal name"}
     - form: Drogo of the Sealed Forge
       instead: Oltremo of the Sealed Forge
@@ -5296,7 +5298,7 @@ The language varies significantly across the kingdoms and city-states of [[place
 
 Tarveni is blunt and hard-edged. Its everyday words are short, two syllables most often and some only one; its learned and built words run to four and five, and its names to two or three. It keeps its final consonants, trills its _rr_, and carries an older mountain speech under it.
 
-**The vowels.** _a_, _e_ and _o_ lead; _i_ and _u_ are fewer. Each is short and firm. _ie_ stands where a stressed vowel breaks, said as one syllable, as in _kiézilo_ and _Lienrik_.
+**The vowels.** _a_, _e_ and _o_ lead; _i_ and _u_ are fewer. Each is short and firm. _ye_ stands where a stressed vowel breaks, as in _kyézilo_ and _Lyenrik_.
 
 **The consonants.** _r_, _n_, _l_ and _s_ are common, and the stops _d_, _k_, _t_, _b_ and _g_ carry the weight between them; _d_ stands between vowels and at the end of a verb (_odeth_, _lokad_). _th_ is the sound of _thin_ and is used sparingly, as in _korvath_. _z_, _ts_ and _rr_ belong above all to the mountain words and the old houses (_garrunda_, _ukuts_, _Tsukurreta_).
 
@@ -5402,7 +5404,7 @@ The political fragmentation of Tarvénia into competing kingdoms prevented the l
 
 **Astúrathi Tarveni:** The speech of the mountainous interior heartland, characterized by interdental pronunciation of /z/ and strong stress patterns. Considered archaic by coastal speakers but prestigious among scholars and warriors of the High King's court.
 
-**Lienrik Tarveni:** The dialect of the fertile central-southern lowlands, showing the most regular grammar and widest vocabulary. Tends toward clear vowel articulation and careful consonant distinction. Often treated as the closest thing to a "standard" Tarveni, though no kingdom would admit it.
+**Lyenrik Tarveni:** The dialect of the fertile central-southern lowlands, showing the most regular grammar and widest vocabulary. Tends toward clear vowel articulation and careful consonant distinction. Often treated as the closest thing to a "standard" Tarveni, though no kingdom would admit it.
 
 **Galvari Tarveni:** The dialect of the Galvaren shore, shaped by seafaring life and contact with maritime trade. Shows unique phonetic developments—vowel reduction in unstressed syllables, softened consonant clusters—and some vocabulary divergence from inland speech. Speakers of other Tarvenan dialects find this variant noticeably different.
 

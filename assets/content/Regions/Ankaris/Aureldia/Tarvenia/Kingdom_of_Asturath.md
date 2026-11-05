@@ -114,7 +114,7 @@ The council of mountain lords is every lord who holds a valley of the kingdom, a
 
 The council does three things. It acknowledges a new king. It hears a quarrel between lords that the lords cannot settle between themselves, and the king judges it with the council's advice. And it hears the king's call to the ban, because a ban the lords have heard called before the council is a ban none of them can say he was not told of. The council makes no laws, raises no tax and keeps no treasury. The laws of a valley are its custom, and its lord keeps them.
 
-When the High Kingship falls vacant, the lords of all Tarvénia meet at Lezkora to elect a new High King, and the mountain lords of Asturath and the lords of Lienrik are the two great parties in [[place-lezkorahall|the High Hall]]. That election is the crown of Tarvénia's business. The council of mountain lords is the kingdom's own.
+When the High Kingship falls vacant, the lords of all Tarvénia meet at Lezkora to elect a new High King, and the mountain lords of Asturath and the lords of Lyenrik are the two great parties in [[place-lezkorahall|the High Hall]]. That election is the crown of Tarvénia's business. The council of mountain lords is the kingdom's own.
 
 ## Justice
 
@@ -163,7 +163,7 @@ The Kingdom of Asturath uses the [[lore-vylrncrncy|Vilérian currency]] (Solden 
 [[place-ardalis|Ardalis]], [[place-tsaberis|Tsaberis]], [[place-kavrenath|Kávrenath]]
 : The kingdom's iron town, drove town and frontier town
 
-[[affiliation-kngdmglvrn|Kingdom of Galvaren]], [[affiliation-kingdmlnrk|Kingdom of Lienrik]]
+[[affiliation-kngdmglvrn|Kingdom of Galvaren]], [[affiliation-kingdmlnrk|Kingdom of Lyenrik]]
 : Sister kingdoms
 
 [[affiliation-frctyvlthr|Free City of Valthari]], [[affiliation-frtrtryskrth|Free Territory of Eskarath]]

@@ -107,7 +107,7 @@ Two ordeals are held to win his favor. In the [Firewalk]{.name data-type="lore/c
 [[affiliation-smideldur|Smideldur]]
 : the Order of the Inferno, priests who master fire as blacksmiths and forge-masters
 
-[[affiliation-eldulfur|Eldúlfur]]
+[[affiliation-eldulfur|Eldulfur]]
 : the Infernal Blades, elite warriors proven by the forge-hovs' own ordeals
 
 [[affiliation-eldverdir|Eldverdir]]

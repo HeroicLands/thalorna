@@ -18,7 +18,7 @@ The [[affiliation-tantsouempr|Empire of Tantsou]] is the oldest continuously gov
 
 ## The Eight and the Ledger
 
-From the top: the [[lore-zhazho|Zhazho]], sons of the Dragon, the Emperor's family and the Warlords; the [[lore-wanduo|Wanduo]], sorcerers ranked second and owned as property; the [[lore-wohou|Wohou]] warrior nobility; the Tanchei scholars, who read omens, keep the sacred texts and run the administration; the [[lore-tsaihuo|Tsaihuo]] artisans and common soldiers; the [[lore-nouwen|Nouwen]] farmers; the [[lore-shuonong|Shuonong]] merchants, ranked below the farmers however rich they are; and the [[lore-noutsou|Nuitsou]], slaves and outcasts. Every traveler carries a _Zhao Mou_, a palm-sized hardwood tablet stating caste, clan, district and issuing seal. Forging one is punished by public execution.
+From the top: the [[lore-zhazho|Zhazho]], sons of the Dragon, the Emperor's family and the Warlords; the [[lore-wanduo|Wandwo]], sorcerers ranked second and owned as property; the [[lore-wohou|Wohou]] warrior nobility; the Tanchei scholars, who read omens, keep the sacred texts and run the administration; the [[lore-tsaihuo|Tsaihwo]] artisans and common soldiers; the [[lore-nouwen|Nouwen]] farmers; the [[lore-shuonong|Shwonong]] merchants, ranked below the farmers however rich they are; and the [[lore-noutsou|Nwitsou]], slaves and outcasts. Every traveler carries a _Zhau Mou_, a palm-sized hardwood tablet stating caste, clan, district and issuing seal. Forging one is punished by public execution.
 
 Common faith is [[lore-ancstrwrshp|ancestor worship]], kept as a ledger: merit and default are recorded, carried and inherited, and a family that neglects its rites is in debt to its own dead. A Tantsou introduces himself by lineage and caste, in that order, and most people of the lower castes have no personal name at all. Manners are formal and exact. A Tantsou does not say no outright; he declines in ways a foreigner has to learn to hear. A Tanchei's reading of the omens can postpone a campaign.
 
@@ -39,7 +39,7 @@ The empire writes everything down, and its best-known works are written the way 
 - The western passes toward the [[place-khzryndsrtrgn|Khazrin]], at the eastern end of [[lore-celestialroad|the Celestial Roads]], are quiet and expensively garrisoned.
 - The port cities keep foreign merchants in walled, watched and taxed quarters.
 - [[affiliation-jenchaiempr|Jenchai]], the island realm across the eastern strait, has raided the coast for a thousand years while the Empire calls it a rebellious province.
-- The [[affiliation-haluozhao|Black Lotus Society]] trades in forged tablets, and the [[lore-weizhairui|Wei Zhai Rui]], the court's game of manipulation, draws in anyone useful.
+- The [[affiliation-haluozhao|Black Lotus Society]] trades in forged tablets, and the [[lore-weizhairui|Wei Zhai Rwi]], the court's game of manipulation, draws in anyone useful.
 
 ## Ways In
 

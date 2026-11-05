@@ -1,6 +1,6 @@
 ---
 shortcode: hvlgvrvtrdmr
-name: {full: Hvalgvir Veturdómur, given: Hvalgvir, clan: Veturdómur}
+name: {full: Hvalgvir Veturdomur, given: Hvalgvir, clan: Veturdomur}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -410,7 +410,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[hvlgvrvtrdmr|Hvalgvir Veturdómur]]{float=top-left}
+![[hvlgvrvtrdmr|Hvalgvir Veturdomur]]{float=top-left}
 
 Hvalgvir stands 6'0" tall with a heavy build. He has tanned weathered skin, white hair, and gray eyes. His features include a rectangular face, a slightly upturned nose, a heavy jawline, a firm-set mouth, and straight brows. He has a tattoo of a snake on his chest.
 
@@ -422,7 +422,7 @@ Hvalgvir stands 6'0" tall with a heavy build. He has tanned weathered skin, whit
 
 Hvalgvir was born the eldest son of a brewmaster in the northern reaches of [[place-nordheim|Nordheim]], in a small town whose fortunes rose and fell with the success of its seasonal harvests. His father expected him to inherit the family trade, and indeed, young Hvalgvir showed considerable talent in the craft—a keen nose for the subtle interplay of grain, herbs, and fermentation that separates a palatable ale from a fine one. But Hvalgvir's mother, a storyteller of considerable skill, saw something else in her son: a capacity for hospitality, for creating spaces where strangers became friends and the weary found solace.
 
-When his father died suddenly—struck down by fever when Hvalgvir was but twenty—the family brewery fell to his younger brother, [Keth Veturdómur]{.name data-type="being/npc"}, while Hvalgvir was left to find his own path. Rather than resent this, Hvalgvir saw providence. He spent five years as a traveling merchant, learning the roads and the needs of distant communities. He mastered cooking alongside brewing, understanding that a full belly and satisfied palate were the foundations of fellowship.
+When his father died suddenly—struck down by fever when Hvalgvir was but twenty—the family brewery fell to his younger brother, [Keth Veturdomur]{.name data-type="being/npc"}, while Hvalgvir was left to find his own path. Rather than resent this, Hvalgvir saw providence. He spent five years as a traveling merchant, learning the roads and the needs of distant communities. He mastered cooking alongside brewing, understanding that a full belly and satisfied palate were the foundations of fellowship.
 
 ### The Founding of the Hearth
 
@@ -498,7 +498,7 @@ Magistrate [[being-hvulgorvhlus|Hvulgorv Hluskendik]]
 
 ### Enemies
 
-Keth Veturdómur
+Keth Veturdomur
 : His brother, and a source of deep pain for Hvalgvir, his younger brother inherited the family brewery and has built it into a vast commercial empire. Yet Keth resents Hvalgvir's greater fame and community standing, and he has subtly worked to undermine his brother's reputation and business.
 
 Thane [[being-hrandynda|Hrandinda]]

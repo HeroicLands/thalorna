@@ -3,7 +3,7 @@ shortcode: xelem
 name: {full: Shelem}
 type: affiliation
 subType: polity
-description: River-bound jungle realm of mesa-shadowed city-states and priest-navigators—the Land of Birds, source of Ki'ich'chik's rarest luxuries.
+description: River-bound jungle realm of mesa-shadowed city-states and priest-navigators—the Land of Birds, source of Kì'ìch'chik's rarest luxuries.
 tags: [polity]
 data:
   culture: kiichchikclt
@@ -87,15 +87,15 @@ sohl: {system: {commonSkills: []}}
 
 ## Overview
 
-Shelem holds the land of the [[place-xelemrgn|Shelem Region]]. Shelem is less urbanized than the central heartland, less densely settled, less strictly governed by the hierarchies of the [[affiliation-itzanpnthn|Itsani priesthood]]. Yet it is indispensable to the greater Ki'ich'chik world, for Shelem is the source of luxuries without which no Ts'enmah can claim true power.
+Shelem holds the land of the [[place-xelemrgn|Shelem Region]]. Shelem is less urbanized than the central heartland, less densely settled, less strictly governed by the hierarchies of the [[affiliation-itzanpnthn|Itsani priesthood]]. Yet it is indispensable to the greater Kì'ìch'chik world, for Shelem is the source of luxuries without which no Ts'enmah can claim true power.
 
-Shelem's relationship to the greater Ki'ich'chik world is one of deliberate partial integration. The major river settlements maintain the forms of Itsani orthodoxy and send tribute to [[affiliation-ixilankul|Ish'ilankul]] and [[affiliation-kankul|K'ankul]], but they do so with the understanding that Shelem's real power lies in its command of the jungle and the river systems. The priesthood in Shelem has developed its own distinct practices, blending the official Itsani cosmology with the veneration of local spirits—the river dolphins that guide canoes through treacherous waters, the anacondas that are believed to bridge the world of humans and the underworld, the forest itself as a living presence worthy of sacrifice and offering.
+Shelem's relationship to the greater Kì'ìch'chik world is one of deliberate partial integration. The major river settlements maintain the forms of Itsani orthodoxy and send tribute to [[affiliation-ixilankul|Ish'ilankul]] and [[affiliation-kankul|K'ankul]], but they do so with the understanding that Shelem's real power lies in its command of the jungle and the river systems. The priesthood in Shelem has developed its own distinct practices, blending the official Itsani cosmology with the veneration of local spirits—the river dolphins that guide canoes through treacherous waters, the anacondas that are believed to bridge the world of humans and the underworld, the forest itself as a living presence worthy of sacrifice and offering.
 
 ## City-States and Realms
 
 Shelem's political landscape is quite distinct from that of the central heartland. Rather than great pyramid-cities dominating broad hinterlands, Shelem is organized into smaller river settlements and trading posts. Rather than being ruled by a single Ts'enmah, many of these settlements are governed by councils of merchant families and priests, with authority distributed more broadly than in the central city-states.
 
-The indigenous populations of Shelem—peoples who have inhabited the region since before the rise of the Itsani faith—have been only partially incorporated into the Ki'ich'chik world. Some have adopted Itsani practices and been granted positions of authority within the tributary system; others maintain semi-autonomy, engaging in trade with Ki'ich'chik merchants while preserving their own spiritual practices and leadership structures. This diversity of governance is a source of both instability and resilience. Shelem cannot be easily conquered by any single northern power, but it also cannot be relied upon as a stable tributary; its allegiances are negotiated annually through trade agreements and the exchange of gifts and prestige goods.
+The indigenous populations of Shelem—peoples who have inhabited the region since before the rise of the Itsani faith—have been only partially incorporated into the Kì'ìch'chik world. Some have adopted Itsani practices and been granted positions of authority within the tributary system; others maintain semi-autonomy, engaging in trade with Kì'ìch'chik merchants while preserving their own spiritual practices and leadership structures. This diversity of governance is a source of both instability and resilience. Shelem cannot be easily conquered by any single northern power, but it also cannot be relied upon as a stable tributary; its allegiances are negotiated annually through trade agreements and the exchange of gifts and prestige goods.
 
 The [[affiliation-chumishlan|Ch'um Ish'lan]] extends into Shelem only along the major river routes, where priesthood-maintained way-stations relay messages between the river settlements and back toward K'ankul and Ish'ilankul. Messages from Ish'ilankul reach Shelem's principal cities in three to four days, routing through K'ankul's coastal network before transitioning to river relay. In the deep interior, beyond the river settlements, the Speaking Road does not reach—communication relies on river canoe and the goodwill of local communities, and the priesthood's informational monopoly weakens accordingly.
 

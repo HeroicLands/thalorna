@@ -15,13 +15,13 @@ In the Celestial Order the universe is a work of classification. The gods are of
 
 The Celestial Order rests on one principle: **what is classified exists, and what is unclassified dissolves into chaos.**
 
-The faith teaches that before [[lore-tanzhodty|Tanzho]], the First Classifier, drew the first distinction, everything was [Huenlei]{.name data-type="lore/cosmology"}, the Unclassified, a formless mass of undivided cosmic energy. Tanzho performed the [Great Sorting]{.name data-type="lore/cosmology"}, Dao Zhaolei, separating the elements, setting the categories and building the classification that holds the world together. The gods were not born from the Sorting; they were appointed to run it ([[affiliation-tengwouronglei|Tengwou Rong Lei]] gives the full account).
+The faith teaches that before [[lore-tanzhodty|Tanzho]], the First Classifier, drew the first distinction, everything was [Hwenlei]{.name data-type="lore/cosmology"}, the Unclassified, a formless mass of undivided cosmic energy. Tanzho performed the [Great Sorting]{.name data-type="lore/cosmology"}, Dau Zhaulei, separating the elements, setting the categories and building the classification that holds the world together. The gods were not born from the Sorting; they were appointed to run it ([[affiliation-tengwouronglei|Tengwou Rong Lei]] gives the full account).
 
 Keeping the cosmos in order is therefore upkeep, and every rite, offering and petition is part of it. If the celestial administration fails, the Tantsou hold, the world itself comes apart.
 
 ## Every Living Thing Is Filed
 
-The Great Sorting classified every creature, plant and insect, and the [Bureau of Creation]{.name data-type="affiliation"} (_Tsai Sei_) administers all life. The [[lore-tanchei|Tanchei]] keep a great bestiary, the [Zha Dao]{.name data-type="lore/literature"} (Life Record), which lists every known form of life by classification, elemental affinity, habitat, habits and danger. It recognizes three kinds of living thing.
+The Great Sorting classified every creature, plant and insect, and the [Bureau of Creation]{.name data-type="affiliation"} (_Tsai Sei_) administers all life. The [[lore-tanchei|Tanchei]] keep a great bestiary, the [Zha Dau]{.name data-type="lore/literature"} (Life Record), which lists every known form of life by classification, elemental affinity, habitat, habits and danger. It recognizes three kinds of living thing.
 
 **Persons** (_Nong Zha_) are beings with moral agency: humans, [[lore-flksinale|Sinale Folk]] and [[lore-flkkhazar|Khazár Folk]]. They keep moral ledgers, hold castes and answer to the whole apparatus of celestial accounting, and most of the empire's administration exists to keep them in order.
 
@@ -29,7 +29,7 @@ The Great Sorting classified every creature, plant and insect, and the [Bureau o
 
 **Made creatures** (_Tsai Wo Zha_) are the [[lore-dreadspawncrtr|Dreadspawn]]: beings the Bureau of Creation makes one at a time, which do not breed. The Tanchei describe them as the Bureau's ongoing work, each one a commission still open on its desk. The bestiary files every one of them separately, since no two are alike.
 
-**Why it matters.** A [[lore-wanduo|Wanduo]] sorcerer's working is a petition to a bureau, and a petition to affect a creature must go to the bureau of its element. Sent to the wrong one, it is misfiled and does nothing. That makes the Zha Dao a weapon of war. Before the Wanduo can support soldiers against a dangerous creature, a Tanchei must find its entry and read its elements. Every trained sorcerer knows the affinities of horses, oxen and hunting dogs; for a rare or unknown creature, identification comes before everything else, and for a Dreadspawn, whose elements may be unlike any seen before, it can decide a battle.
+**Why it matters.** A [[lore-wanduo|Wandwo]] sorcerer's working is a petition to a bureau, and a petition to affect a creature must go to the bureau of its element. Sent to the wrong one, it is misfiled and does nothing. That makes the Zha Dau a weapon of war. Before the Wandwo can support soldiers against a dangerous creature, a Tanchei must find its entry and read its elements. Every trained sorcerer knows the affinities of horses, oxen and hunting dogs; for a rare or unknown creature, identification comes before everything else, and for a Dreadspawn, whose elements may be unlike any seen before, it can decide a battle.
 
 **Animals in service.** A domestic animal is the same kind as its wild cousin, and its entry carries a note of its service. A warhorse and a cart horse are horses, and the notes on their entries record their work for people; the livestock census, the army's requisitions, the herd taxes and the law of ownership all read from those notes. The Tantsou are not sentimental about animals, and they do not hold them outside the cosmic order either. A farmer who mistreats his oxen is mismanaging classified property under the Bureau of Creation, and the Tanchei argue over whether it marks his ledger. That every living thing deserves proper keeping, nobody disputes.
 
@@ -39,7 +39,7 @@ The Great Sorting classified every creature, plant and insect, and the [Bureau o
 
 **Spirit paper.** The most characteristic practice of the faith is the burning of spirit paper: petitions, contracts, money and goods made in paper and burned. Fire is the channel between the mortal and celestial planes, kept by the [Bureau of Transformation]{.name data-type="affiliation"} (Ho Sei), and the Tantsou hold that burning a correctly addressed petition files it, burning spirit money pays it into a celestial account, and burning offerings for the dead feeds them. Households keep stocks of spirit paper as an Aureldian household keeps grain, and running out is an emergency: a family with no paper cannot petition, cannot feed its ancestors and cannot send anything up.
 
-**The moral ledger.** Every person has a moral ledger, a running account of credits and debits kept by the celestial bureaucracy. The household's Hearth Monitor (_Tsaiken_) watches its conduct and files a report every year. Keeping caste duties, observing the rites, living at peace with one's family and giving alms are credits; breaking caste, neglecting the rites, dishonor and crime are debits. The ledger decides a person's fortune in life, the quality of his afterlife and the strength his spirit will have to argue for his descendants. The Tantsou hold it to be an actual document, kept at the Ministry of Final Account, which the Chief Auditor ([Wansou Zhuo]{.name data-type="lore/deity"}) reads line by line at every death.
+**The moral ledger.** Every person has a moral ledger, a running account of credits and debits kept by the celestial bureaucracy. The household's Hearth Monitor (_Tsaiken_) watches its conduct and files a report every year. Keeping caste duties, observing the rites, living at peace with one's family and giving alms are credits; breaking caste, neglecting the rites, dishonor and crime are debits. The ledger decides a person's fortune in life, the quality of his afterlife and the strength his spirit will have to argue for his descendants. The Tantsou hold it to be an actual document, kept at the Ministry of Final Account, which the Chief Auditor ([Wansou Zhwo]{.name data-type="lore/deity"}) reads line by line at every death.
 
 The ledger makes the faith a matter of transactions. People pursue credit and avoid debit. A rich family can pile up credit through lavish offerings and temple gifts, in effect buying a better afterlife and stronger ancestors, and wealth and spiritual power feed each other from generation to generation. [[lore-ancstrwrshp|Ancestor Worship]] follows the ledger into death.
 
@@ -47,24 +47,24 @@ The ledger makes the faith a matter of transactions. People pursue credit and av
 
 The cosmic energy behind all magic, the force the [[affiliation-ordoarcanis|Thordimalon]] works through elemental forms, is in Tantsou called [Lei]{.name data-type="lore/cosmology"}: the stuff of classification, the energy that keeps sorted things sorted.
 
-The Wanduo work it by building mental forms shaped as procedures. Where an Arcane Order mage pictures the geometry of the elements, a Wanduo pictures a petition, complete with celestial seals, jurisdictional stamps, a bureau's address and the formal words of request. The greater the working, the more elaborate the paperwork: a small working needs one seal and one bureau, a great one the authority of several bureaus and the countersignatures of their overseers. The model gives Tantsou magic its character.
+The Wandwo work it by building mental forms shaped as procedures. Where an Arcane Order mage pictures the geometry of the elements, a Wandwo pictures a petition, complete with celestial seals, jurisdictional stamps, a bureau's address and the formal words of request. The greater the working, the more elaborate the paperwork: a small working needs one seal and one bureau, a great one the authority of several bureaus and the countersignatures of their overseers. The model gives Tantsou magic its character.
 
 - **Reliability over speed.** A petition takes longer to build than a geometric form, and once filed it is very hard to disrupt, because the procedure carries its own redundancies.
-- **Scale.** The model excels at great shared workings: wards over whole cities, blessings that last generations, enchantments on the harvest, the containment of plague. Many Wanduo can add their seals to one petition, a thing the Arcane Order's single-mage forms cannot easily match.
+- **Scale.** The model excels at great shared workings: wards over whole cities, blessings that last generations, enchantments on the harvest, the containment of plague. Many Wandwo can add their seals to one petition, a thing the Arcane Order's single-mage forms cannot easily match.
 - **Categorical limits.** The model struggles with what defies classification. A working that crosses elemental lines with no clear jurisdiction, or an effect no bureau governs, is truly harder to produce, because the sorcerer's mind has no form for a thing with no address.
 
 [[lore-phlsphyleiwo|Philosophy of Leiwo]] sets out the theory of Lei in full.
 
 ## Faith and Government
 
-Religion and government in Tantsou are one system seen from two sides. The imperial government is modeled on the celestial bureaucracy, or, as the Tantsou insist, heaven's administration came first and earth copies it. The Emperor (_Tengzhei_, Son of Heaven) holds the [[lore-mandatehvn|Mandate of Heaven]], an appointment, not a divine blessing. The Warlords (_Wozhuo_) govern their provinces as overseers govern bureaus. The castes are a classification laid down at the Great Sorting, so to challenge them is dangerous to the cosmos as well as against the law, because it threatens to unsort something Tanzho sorted.
+Religion and government in Tantsou are one system seen from two sides. The imperial government is modeled on the celestial bureaucracy, or, as the Tantsou insist, heaven's administration came first and earth copies it. The Emperor (_Tengzhei_, Son of Heaven) holds the [[lore-mandatehvn|Mandate of Heaven]], an appointment, not a divine blessing. The Warlords (_Wozhwo_) govern their provinces as overseers govern bureaus. The castes are a classification laid down at the Great Sorting, so to challenge them is dangerous to the cosmos as well as against the law, because it threatens to unsort something Tanzho sorted.
 
-That changes what rebellion means. In the kingdoms of the west a rebel is a criminal. In Tantsou he is an agent of the Huenlei, a man whose acts could unmake the world, and from the Tantsou side the empire's rigidity is the upkeep of the cosmos.
+That changes what rebellion means. In the kingdoms of the west a rebel is a criminal. In Tantsou he is an agent of the Hwenlei, a man whose acts could unmake the world, and from the Tantsou side the empire's rigidity is the upkeep of the cosmos.
 
 ## The Order in Detail
 
 [[lore-clstlpnthn|Celestial Pantheon]]
-: the great powers: Tanzho, [[lore-weizhuodty|Weizhuo]], [[lore-raoguidty|Raogui]] and [[lore-youweidty|Youbui]]
+: the great powers: Tanzho, [[lore-weizhuodty|Weizhwo]], [[lore-raoguidty|Raugwi]] and [[lore-youweidty|Youbwi]]
 
 [[lore-fvlmntlrds|Five Elemental Lords]]
 : the administrators of Air, Fire, Earth, Metal and Water

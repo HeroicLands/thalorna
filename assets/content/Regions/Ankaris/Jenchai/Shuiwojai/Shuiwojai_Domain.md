@@ -14,30 +14,30 @@ data:
   governance:
     model: autocracy
     summary: >-
-      Held of the Emperor by patent by the Daozhuo Shuiwojai Henzo, who sits at Hawu and governs the mountain through his retainers, the headmen of its villages and the Besheju who keep its salt records.
+      Held of the Emperor by patent by the Dauzhwo Shuiwojai Henzo, who sits at Hawu and governs the mountain through his retainers, the headmen of its villages and the Besheju who keep its salt records.
     ranks:
       - level: 0
         title: Outlaw
         description: >-
-          One stripped of the Daozhuo's protection and put outside the mountain's law, with no appeal.
+          One stripped of the Dauzhwo's protection and put outside the mountain's law, with no appeal.
       - level: 1
         title: Subject
         description: >-
-          Lives or holds land under the Daozhuo of Shuiwojai.
+          Lives or holds land under the Dauzhwo of Shuiwojai.
       - level: 2
         title: Retainer
         description: >-
-          Serves the Daozhuo for a stipend in bales or a village held as a fief, and commands the domain's soldiers and ships.
+          Serves the Dauzhwo for a stipend in bales or a village held as a fief, and commands the domain's soldiers and ships.
       - level: 3
-        title: Shuizhuo
+        title: Shwizhwo
         description: >-
-          Holds one to three villages of the domain and owes the Daozhuo men in war.
+          Holds one to three villages of the domain and owes the Dauzhwo men in war.
       - level: 4
         title: Heir
         description: >-
-          The Daozhuo's named successor, who climbs the mountain for him when he cannot.
+          The Dauzhwo's named successor, who climbs the mountain for him when he cannot.
       - level: 5
-        title: Daozhuo
+        title: Dauzhwo
         description: >-
           Holds Rojai by the Emperor's patent, with his own army, fleet, justice and taxes.
     offices:
@@ -53,7 +53,7 @@ data:
 sohl: {system: {commonSkills: [jurthatlng]}}
 ---
 
-The Shuiwojai Domain, held by House Shuiwojai (Strait Place), holds [[place-rojai|Rojai]] (Thunder Peak), the mountain on the west coast of the great island where it faces the strait, by patent of the Emperor. Its lord is the Daozhuo [Shuiwojai Henzo]{.name data-type="being/npc"} (Tiger Lord), forty-seven years old, who sits in the castle town of [[place-hawu|Hawu]] (Dark Hall), population 7,500. The domain holds 105,000 people, is assessed at 78,000 bales a year, and musters 1,950 men and 60 ships—the largest army and the largest fleet of the eight houses. Henzo leads [The Strait]{.name data-type="affiliation"} bloc, and the office he wants is that of Teng Ja.
+The Shuiwojai Domain, held by House Shuiwojai (Strait Place), holds [[place-rojai|Rojai]] (Thunder Peak), the mountain on the west coast of the great island where it faces the strait, by patent of the Emperor. Its lord is the Dauzhwo [Shuiwojai Henzo]{.name data-type="being/npc"} (Tiger Lord), forty-seven years old, who sits in the castle town of [[place-hawu|Hawu]] (Dark Hall), population 7,500. The domain holds 105,000 people, is assessed at 78,000 bales a year, and musters 1,950 men and 60 ships—the largest army and the largest fleet of the eight houses. Henzo leads [The Strait]{.name data-type="affiliation"} bloc, and the office he wants is that of Teng Ja.
 
 ## The Land
 
@@ -71,7 +71,7 @@ The summit shrine of Rojai keeps the storm aspect of the [[affiliation-tengwouro
 
 ## Retainers
 
-The [Besheju]{.name data-type="affiliation/lineage"} keep the salt records and hold [Beshenu]{.name data-type="place/settlement"} as their fief. No salt leaves the pans without an entry in their roll, and the granary at Hawu is paid from it. Beneath Henzo the domain's Shuizhuo hold one to three villages apiece for the men they owe him in war.
+The [Besheju]{.name data-type="affiliation/lineage"} keep the salt records and hold [Beshenu]{.name data-type="place/settlement"} as their fief. No salt leaves the pans without an entry in their roll, and the granary at Hawu is paid from it. Beneath Henzo the domain's Shwizhwo hold one to three villages apiece for the men they owe him in war.
 
 ## Fleet and Muster
 

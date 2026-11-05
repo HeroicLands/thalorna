@@ -47,9 +47,9 @@ data:
       - level: 7
         title: Chief Intendant
         description: >-
-          Senior mortal officer of a bureau's whole temple establishment, who signs what is transmitted upward to its Teng Gui and answers for it if the bureau rejects it.
+          Senior mortal officer of a bureau's whole temple establishment, who signs what is transmitted upward to its Teng Gwi and answers for it if the bureau rejects it.
     offices:
-      Teng Gui: >-
+      Teng Gwi: >-
         "Celestial Minister"—the overseer of this domain, whose power is the authority of the office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
       Chief Intendant: >-
         Senior mortal officer of this bureau's temples, who signs what is transmitted upward.
@@ -85,7 +85,7 @@ sohl: {system: {commonSkills: []}}
 
 The Elemental Lord of Fire, appears in the celestial records as a figure of austere brilliance, neither kindly nor cruel but entirely devoted to the administration of combustion and transformation. Wojing Ja does not manifest in a single form. To those who encounter the Lord through dream-petition or temple vision, he appears as a pillar of ranked flame—each tier a different classification of fire, each burning according to its appointed category and schedule. His voice, when he speaks at all, is the sound of a furnace drawing breath.
 
-Unlike the Bureau Overseers, Wojing Ja answers not to a specific administrative department but directly to [[lore-weizhuodty|Weizhuo]], the Jade Sovereign. The Elemental Lords occupy a rank of their own within the celestial hierarchy: senior appointees who administer the elemental substrata upon which all bureaus depend. Fire, in the Tantsou cosmology, is not merely heat or light—it is the principle of _transformation itself_, the force that breaks down old classifications and allows them to be reclassified anew. For this reason, Wojing Ja holds jurisdiction not merely over flame, but over all processes of change and renewal that require burning away.
+Unlike the Bureau Overseers, Wojing Ja answers not to a specific administrative department but directly to [[lore-weizhuodty|Weizhwo]], the Jade Sovereign. The Elemental Lords occupy a rank of their own within the celestial hierarchy: senior appointees who administer the elemental substrata upon which all bureaus depend. Fire, in the Tantsou cosmology, is not merely heat or light—it is the principle of _transformation itself_, the force that breaks down old classifications and allows them to be reclassified anew. For this reason, Wojing Ja holds jurisdiction not merely over flame, but over all processes of change and renewal that require burning away.
 
 ### The Classification of Fire
 
@@ -93,11 +93,11 @@ The Lord of Fire maintains the boundary between five canonical categories of com
 
 **Hearth-Fire (Tsai Wo)**—The domestic flames that warm homes and cook food. These are the gentlest and most regulated fires, bound to the household through the [[affiliation-tengwouronglei#hierarchy-in-summary|Tsaiken]] (Hearth Monitor) and subject to strict seasonal allocations. A family that maintains proper offering-protocol experiences steady, controllable hearth-fire. Those in spiritual deficit may find their hearths will not kindle, or will burn with unpredictable capriciousness.
 
-**Forge-Fire (Ho Wochao)**—The industrial fire of smithies, forges, and refineries. Wojing Ja delegates this category to a subordinate clerk-spirit called [Chaoho]{.name data-type="lore/spirit"}, who oversees the transformation of raw metals into tools and weapons. Craftspeople petition Wojing Ja not for the fire itself (they kindle it through ordinary means) but for the _purity_ and _controllability_ that make a forge reliable. A blacksmith's petition to Wojing Ja is essentially a request that his flames behave according to technique rather than whimsy.
+**Forge-Fire (Ho Wochau)**—The industrial fire of smithies, forges, and refineries. Wojing Ja delegates this category to a subordinate clerk-spirit called [Chauho]{.name data-type="lore/spirit"}, who oversees the transformation of raw metals into tools and weapons. Craftspeople petition Wojing Ja not for the fire itself (they kindle it through ordinary means) but for the _purity_ and _controllability_ that make a forge reliable. A blacksmith's petition to Wojing Ja is essentially a request that his flames behave according to technique rather than whimsy.
 
-**Ritual-Fire (Wo Rui)**—The burning of spirit documents, offerings, and ceremonial materials that transmit mortal petitions to the celestial filing system. This category overlaps directly with the [[affiliation-zhenho|Bureau of Transformation]] (Ho Sei), and Wojing Ja maintains an ongoing administrative relationship with that bureau's overseer, [[affiliation-zhenho|Zhinho]]. The two coordinate closely to ensure that ritual burning follows proper protocol and that the celestial post office receives documents in legible spiritual form.
+**Ritual-Fire (Wo Rwi)**—The burning of spirit documents, offerings, and ceremonial materials that transmit mortal petitions to the celestial filing system. This category overlaps directly with the [[affiliation-zhenho|Bureau of Transformation]] (Ho Sei), and Wojing Ja maintains an ongoing administrative relationship with that bureau's overseer, [[affiliation-zhenho|Zhinho]]. The two coordinate closely to ensure that ritual burning follows proper protocol and that the celestial post office receives documents in legible spiritual form.
 
-**Wildfire (Wo Huen)**—Uncontrolled conflagrations, volcanic fire, and lightning-kindled blazes. These are classified not as corruption but as deliberate acts of controlled dissolution—punitive measures issued by higher bureaus when a region has fallen into sufficient spiritual disorder. Wojing Ja's enforcement arm, the spirit-collective known as **Daoho Wo** (Wildfire Executors), carries out such directives under seal from the [[affiliation-wansouzhuo|Ministry of Final Account]] or the [[affiliation-weizhuo|Supreme Administrative Court]].
+**Wildfire (Wo Hwen)**—Uncontrolled conflagrations, volcanic fire, and lightning-kindled blazes. These are classified not as corruption but as deliberate acts of controlled dissolution—punitive measures issued by higher bureaus when a region has fallen into sufficient spiritual disorder. Wojing Ja's enforcement arm, the spirit-collective known as **Dauho Wo** (Wildfire Executors), carries out such directives under seal from the [[affiliation-wansouzhuo|Ministry of Final Account]] or the [[affiliation-weizhuo|Supreme Administrative Court]].
 
 **Transformation-Fire (Wo Singzha)**—A metaphorical but administratively real category encompassing all change that requires destruction of the old form. Healing of wounds (burning away necrotic tissue), renewal of forests (fire clearing deadwood), and the alchemical transmutation of substances all fall under this jurisdiction. This category requires the closest coordination with the [[affiliation-neitsai|Bureau of Creation]] (Tsai Sei), since what appears to be destruction from one perspective is renewal from another.
 
@@ -107,7 +107,7 @@ Wojing Ja's primary administrative burden is managing the perpetual jurisdiction
 
 In practice, this is a border that shifts constantly. Disputes over whether a particular burning falls under "transformation for civilian purposes" or "administrative fire" are filed regularly with the Supreme Administrative Court, and the volume of such petitions has created a backlog that extends several celestial accounting periods.
 
-Additionally, Wojing Ja maintains a subordinate relationship to the [[affiliation-genhen|Bureau of Entropy]] (Huen Sei) when wildfire is classified as "controlled dissolution." This requires constant coordination with that bureau's notoriously difficult overseer, [[affiliation-genhen|Genhuen]], who views fire as one of his primary tools for managing cosmic unraveling. Wojing Ja jealously guards his authority here, arguing that fires initiated by his command are fundamentally different from entropy's uncontrolled dissolution—but the distinction is philosophically unstable, and Genhuen frequently tests the boundary.
+Additionally, Wojing Ja maintains a subordinate relationship to the [[affiliation-genhen|Bureau of Entropy]] (Hwen Sei) when wildfire is classified as "controlled dissolution." This requires constant coordination with that bureau's notoriously difficult overseer, [[affiliation-genhen|Genhwen]], who views fire as one of his primary tools for managing cosmic unraveling. Wojing Ja jealously guards his authority here, arguing that fires initiated by his command are fundamentally different from entropy's uncontrolled dissolution—but the distinction is philosophically unstable, and Genhwen frequently tests the boundary.
 
 ### Mortal Engagement
 
@@ -129,7 +129,7 @@ The faithful petition Wojing Ja through formal offerings at temple furnaces, by 
 [[affiliation-zhenho|Zhinho]]
 : Overseer of the Bureau of Transformation, Wojing Ja's primary administrative rival
 
-[[affiliation-genhen|Genhuen]]
+[[affiliation-genhen|Genhwen]]
 : Overseer of the Bureau of Entropy, who uses fire as a tool of controlled dissolution
 
 [[lore-tanchei|Tanchei]]

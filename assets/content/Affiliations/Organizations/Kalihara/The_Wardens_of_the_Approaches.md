@@ -61,7 +61,7 @@ The Wardens answer to the Council and to no merchant. A captain who offers a pil
 
 ## Character
 
-A pilot is made from a child a current-stone answers. The island's [[mysticalability-hearingstone|answering]] picks the young the same way it picks the custodians' kaan'sili: by the works a child feels and not by lineage, so a bondservant's child and an Elder's child sit in the same boat. Most of the apprentices come out of [[place-vaelukoa|Vaelukoa]], the reef village whose households have taught the channels with the first boat for as long as the approaches have had a Warden. The pilots keep their boats at Telvari, where a ship bound for the island heaves to and waits for one to come out to her.
+A pilot is made from a child a current-stone answers. The island's [[mysticalability-hearingstone|answering]] picks the young the same way it picks the custodians' kaan-sili: by the works a child feels and not by lineage, so a bondservant's child and an Elder's child sit in the same boat. Most of the apprentices come out of [[place-vaelukoa|Vaelukoa]], the reef village whose households have taught the channels with the first boat for as long as the approaches have had a Warden. The pilots keep their boats at Telvari, where a ship bound for the island heaves to and waits for one to come out to her.
 
 The ports are the Wardens' second ground. A Harbor-Warden keeps each anchorage, and a foreigner is shown what the Harbor-Warden allows, held where the Harbor-Warden holds, and released when the Harbor-Warden is satisfied. The wardens' hall at [[place-ilovanu|Ilovanu]] also keeps the [High Registry]{.name data-type="lore"}, in which the contracts between the foreign quarters and the port households are entered. The Wardens' armory forges the blades and boat-fittings of the pilots and the harbor watch.
 
@@ -69,7 +69,7 @@ The approaches test the corps. The current-stones have run intermittently for a 
 
 ## Relations
 
-The Wardens answer to the Council and carry its decisions to the water. The [[affiliation-tharivaan|Ithakan]] tend the current-stones the pilots rely on, custodians formed at [[place-thalari|Thal'ari]] and living in the reef villages in the dry months. [[affiliation-housefactors|The House of Factors]] wants more hulls and lower pilot fees, and the Wardens give it neither; the two keep their quarrel to letters and prices. Every port keeps a Harbor-Warden of its own, and all of them answer to the same Warden.
+The Wardens answer to the Council and carry its decisions to the water. The [[affiliation-tharivaan|Ithakan]] tend the current-stones the pilots rely on, custodians formed at [[place-thalari|Thal-ari]] and living in the reef villages in the dry months. [[affiliation-housefactors|The House of Factors]] wants more hulls and lower pilot fees, and the Wardens give it neither; the two keep their quarrel to letters and prices. Every port keeps a Harbor-Warden of its own, and all of them answer to the same Warden.
 
 ## See Also
 

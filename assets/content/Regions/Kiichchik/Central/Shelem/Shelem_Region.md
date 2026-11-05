@@ -3,7 +3,7 @@ shortcode: xelemrgn
 name: {full: Shelem Region}
 type: place
 subType: region
-description: "The river-bound jungle, table mountains and cloud forest that are the land of Shelem, the Land of Birds on the eastern edge of Central Ki'ich'chik."
+description: "The river-bound jungle, table mountains and cloud forest that are the land of Shelem, the Land of Birds on the eastern edge of Central Kì'ìch'chik."
 tags: [region]
 data:
   culture: kiichchikclt
@@ -19,19 +19,19 @@ data:
 
 ## Overview
 
-Shelem Region is the land of [[affiliation-xelem|Shelem]], and lies within [[place-centralkiichchik|Central Ki'ich'chik]] on the [[place-kiichchik|Ki'ich'chik Continent]].
+Shelem Region is the land of [[affiliation-xelem|Shelem]], and lies within [[place-centralkiichchik|Central Kì'ìch'chik]] on the [[place-kiichchik|Kì'ìch'chik Continent]].
 
-Shelem, the "Land of Birds," is the eastern frontier of the central Ki'ich'chik heartland—a vast region of tropical rainforest, immense river systems, and pu'uts (sheer-walled, flat-topped mountains) that rise like islands from the jungle canopy. Where [[place-ixilankulrgn|Ish'ilankul]] is built on volcanic stone and [[place-kankulrgn|K'ankul]] on limestone, Shelem is built on water. The mighty rivers that carve through its landscape—the [[place-hanaltzuma|Ha'nal Ts'uma]] and the [[place-hanalxilik|Ha'nal Shilik]], and a thousand smaller waterways—are more important than roads, more important than temples.
+Shelem, the "Land of Birds," is the eastern frontier of the central Kì'ìch'chik heartland—a vast region of tropical rainforest, immense river systems, and pu'uts (sheer-walled, flat-topped mountains) that rise like islands from the jungle canopy. Where [[place-ixilankulrgn|Ish'ilankul]] is built on volcanic stone and [[place-kankulrgn|K'ankul]] on limestone, Shelem is built on water. The mighty rivers that carve through its landscape—the [[place-hanaltzuma|Ha'nal Ts'uma]] and the [[place-hanalxilik|Ha'nal Shilik]], and a thousand smaller waterways—are more important than roads, more important than temples.
 
-The quetzal bird—regarded as a manifestation of [[lore-tzenultqandty|Ts'en'ul Tq'an]], god of order, on the material plane—dwells in the cloud forests of Shelem in greater abundance than anywhere in Ki'ich'chik. Its feathers, along with those of other exotic birds (macaws, parrots, hummingbirds of remarkable colors), command prices that only the wealthiest nobles can afford. Jaguar hides, harvested from the apex predator that rules Shelem's jungle, are the mark of military rank and divine favor. Medicinal herbs—plants whose properties are understood through centuries of herbal lore—grow in Shelem's interior and are gathered by healers and herbalists whose knowledge is so jealously guarded that some have been protected by oath and blood oath to guard their secrets even unto death.
+The quetzal bird—regarded as a manifestation of [[lore-tzenultqandty|Ts'en'ul Tq'an]], god of order, on the material plane—dwells in the cloud forests of Shelem in greater abundance than anywhere in Kì'ìch'chik. Its feathers, along with those of other exotic birds (macaws, parrots, hummingbirds of remarkable colors), command prices that only the wealthiest nobles can afford. Jaguar hides, harvested from the apex predator that rules Shelem's jungle, are the mark of military rank and divine favor. Medicinal herbs—plants whose properties are understood through centuries of herbal lore—grow in Shelem's interior and are gathered by healers and herbalists whose knowledge is so jealously guarded that some have been protected by oath and blood oath to guard their secrets even unto death.
 
 ## Geography
 
 Shelem encompasses the vast riverine plains and forested highlands of the eastern frontier. Two great rivers cross the region. The larger, the Ha'nal Ts'uma—the Misty River, named for the fog that lifts off its flooded forest at dawn—gathers so many tributaries that its network of waterways winds for thousands of kilometers through the landscape. Along it the forest floods each year and drains again, and between the flooded stands run navigable channels that join communities too far apart to reach on foot. The second, the Ha'nal Shilik or Blue River, lies to the east, where the plains begin to climb toward the highlands, and it carries the same traffic through country just as wild: canoes loaded with jaguar hides, dried feathers, cacao and sealed jars of medicinal plants, bound downriver for the markets of the north. Villages stand on the higher ground along both banks and take their fish, their water and their news from the current. These rivers are the primary highways; to navigate Shelem's interior is to navigate by water.
 
-The landscape rises from the coastal lowlands and riverine plains eastward toward the highlands, where ancient plateaus and pu'uts create zones of isolated flora and fauna. These high plateaus are topped with vegetation found nowhere else in the known world, having evolved in isolation for millions of years. The flora and fauna of Shelem overall is notably distinct from that of the central heartland—the jaguar, the tapir, the caiman, the anaconda, various species of poison frogs, and bird species of remarkable diversity create an ecosystem that seems almost alien to the sensibilities of highland Ki'ich'chik visitors.
+The landscape rises from the coastal lowlands and riverine plains eastward toward the highlands, where ancient plateaus and pu'uts create zones of isolated flora and fauna. These high plateaus are topped with vegetation found nowhere else in the known world, having evolved in isolation for millions of years. The flora and fauna of Shelem overall is notably distinct from that of the central heartland—the jaguar, the tapir, the caiman, the anaconda, various species of poison frogs, and bird species of remarkable diversity create an ecosystem that seems almost alien to the sensibilities of highland Kì'ìch'chik visitors.
 
-The climate is intensely hot and humid throughout the year, with heavy rainfall generating the great rivers' seasonal floods and maintaining the luxuriant vegetation. The seasonal flooding—which expands the navigable waterways and creates temporary islands—is a natural rhythm that has shaped Shelem settlement patterns since ancient times. Settlements are built on higher ground, and agricultural zones are arranged to exploit the flooding cycles rather than resist them. The jungle itself is regenerative and resilient, and the Ki'ich'chik inhabitants of Shelem have learned to harvest from it sustainably, taking what they need without depleting the extraordinary bounty of flora and fauna.
+The climate is intensely hot and humid throughout the year, with heavy rainfall generating the great rivers' seasonal floods and maintaining the luxuriant vegetation. The seasonal flooding—which expands the navigable waterways and creates temporary islands—is a natural rhythm that has shaped Shelem settlement patterns since ancient times. Settlements are built on higher ground, and agricultural zones are arranged to exploit the flooding cycles rather than resist them. The jungle itself is regenerative and resilient, and the Kì'ìch'chik inhabitants of Shelem have learned to harvest from it sustainably, taking what they need without depleting the extraordinary bounty of flora and fauna.
 
 ## City-States and Realms
 
@@ -60,7 +60,7 @@ Shelem quarrels with the north over who buys at the forest's edge. [[affiliation
 [[affiliation-xelem|Shelem]]
 : The realm that holds this land
 
-[[place-centralkiichchik|Central Ki'ich'chik]]
+[[place-centralkiichchik|Central Kì'ìch'chik]]
 : The enclosing region
 
 [[place-xelem2|Shelem]]

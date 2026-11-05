@@ -2,15 +2,15 @@
 shortcode: lastrecordiron
 name:
   full: The Last Record of Iron Gate of the Winter Mountain
-  tant: [Chiao Chai Tui Sen Kuo Chou]
+  tant: [Chyau Chai Tui Sen Kwo Chou]
 type: lore
 subType: literature
-description: "The last record a Wohou administrator of the Jenshou district wrote before Tseising, when his Warlord ordered the village of Rinnou entered whole as Nuitsou and its tablets broken: his account of himself and of his name, the order quoted entire, the nine readings and the Tanchei's answer, the shelves of Rinnou counted, the question of jurisdiction he set out instead of a refusal, his dispositions, and the one request the Warlord granted."
+description: "The last record a Wohou administrator of the Jenshou district wrote before Tseising, when his Warlord ordered the village of Rinnou entered whole as Nwitsou and its tablets broken: his account of himself and of his name, the order quoted entire, the nine readings and the Tanchei's answer, the shelves of Rinnou counted, the question of jurisdiction he set out instead of a refusal, his dispositions, and the one request the Warlord granted."
 tags: [draft, tantsou]
 data:
   culture: tantsouclt
   packFolder: settinglore
-  form: kuo chou
+  form: kwo chou
   subjects:
     - lore-tseising
     - lore-wohou
@@ -27,15 +27,15 @@ data:
 # terran_analog: "The Songs of Chu and the loyal minister's lament before his death; Sima Qian's letter on why he chose the knife over death; the remonstrance memorials of officials who protested an order by dying; the last poems written before ritual suicide. Departs: the record never says no, never names its own feeling, and argues entirely from jurisdiction."
 ---
 
-**The Last Record of Iron Gate of the Winter Mountain** is a _Kuo Chou_, the last record a person of rank writes before [[lore-tseising|Tseising]]. A last record is a testament and a filing at once: it is burned after the rite, so that the smoke carries the dead man's final account to the [[affiliation-wansouzhuo|Ministry of Final Account]], and copies of it go where the writer directs. Its author was [Second Son of the Gate Warden of the Gwo Clan]{.name data-type="being/npc"}, near the provincial seat, a [[lore-wohou|Wohou]] officer granted the name [Chiao Chai Tui Sen]{.name data-type="being/npc"}, "Iron Gate of the Winter Mountain", and in the year of the record the administrator of the district of [[lore-annaljenshou|Jenshou]], holding its revenue, its courts and its corvée for the Warlord of the province.
+**The Last Record of Iron Gate of the Winter Mountain** is a _Kwo Chou_, the last record a person of rank writes before [[lore-tseising|Tseising]]. A last record is a testament and a filing at once: it is burned after the rite, so that the smoke carries the dead man's final account to the [[affiliation-wansouzhuo|Ministry of Final Account]], and copies of it go where the writer directs. Its author was [Second Son of the Gate Warden of the Gwo Clan]{.name data-type="being/npc"}, near the provincial seat, a [[lore-wohou|Wohou]] officer granted the name [Chyau Chai Tui Sen]{.name data-type="being/npc"}, "Iron Gate of the Winter Mountain", and in the year of the record the administrator of the district of [[lore-annaljenshou|Jenshou]], holding its revenue, its courts and its corvée for the Warlord of the province.
 
-His Warlord, of the [[lore-zhazho|Zhazho]], had ordered that [Rinnou]{.name data-type="place/settlement"}, "Red Field", a terrace village of the district, be entered whole as [[lore-noutsou|Nuitsou]], because its headman had been convicted of harboring an unbound sorcerer, and that the tablets on its shrines be broken. Iron Gate wrote the record and took his own life in the protest form, which lays a permanent debit on the ledger of the one who provoked it and on his house after him. Rinnou was entered as Nuitsou in the spring all the same, by the officer sent to take his place. The Warlord granted the one thing the record asked of him, and the tablets of Rinnou were carried unbroken to the district hall at Jenshou, where they are fed beside the tablets the old flood left with no heir.
+His Warlord, of the [[lore-zhazho|Zhazho]], had ordered that [Rinnou]{.name data-type="place/settlement"}, "Red Field", a terrace village of the district, be entered whole as [[lore-noutsou|Nwitsou]], because its headman had been convicted of harboring an unbound sorcerer, and that the tablets on its shrines be broken. Iron Gate wrote the record and took his own life in the protest form, which lays a permanent debit on the ledger of the one who provoked it and on his house after him. Rinnou was entered as Nwitsou in the spring all the same, by the officer sent to take his place. The Warlord granted the one thing the record asked of him, and the tablets of Rinnou were carried unbroken to the district hall at Jenshou, where they are fed beside the tablets the old flood left with no heir.
 
 The copy he sent to the hall of his clan is the one the schools hold. Wohou youths copy it in their writing lessons, and the Tanchei set it beside [[lore-annaljenshou|the Annal of Jenshou]] as the model of a document that says what it means without once saying it. The rendering keeps its headings, which are the headings a last record has.
 
 ## The Heading
 
-The last record of Second Son of the Gate Warden of the Gwo Clan, near the provincial seat, of the Wohou, granted the name Chiao Chai Tui Sen, Iron Gate of the Winter Mountain, administrator of the district of Jenshou.
+The last record of Second Son of the Gate Warden of the Gwo Clan, near the provincial seat, of the Wohou, granted the name Chyau Chai Tui Sen, Iron Gate of the Winter Mountain, administrator of the district of Jenshou.
 
 Written in the Month of Metal, on the ninth day, in the third year of the reign, in the eleventh year of the Generation, in the year of the Righteous Boar.
 
@@ -59,7 +59,7 @@ My ledger, as I know it: credit for the gate; credit for the dikes; credit for t
 
 On the first day of the Month of Metal I received this order under my lord's seal and the seal of his court. I set it down whole, so that the Ministry reads what I read.
 
-_The headman of Rinnou, in the district of Jenshou, having been judged in this court to have harboured in his house through one winter a person of the gift not entered as Wanduo, which is to say an unclassified thing, and the village having kept his secret, the court orders: that every person of Rinnou be entered as Nuitsou and as the property of this house, from the day of this order, with every child born to them after it; that the shrines of Rinnou be cleared and the tablets on them broken, since the Nuitsou keep no line; and that the administrator of Jenshou see it done before the Month of Water._
+_The headman of Rinnou, in the district of Jenshou, having been judged in this court to have harboured in his house through one winter a person of the gift not entered as Wandwo, which is to say an unclassified thing, and the village having kept his secret, the court orders: that every person of Rinnou be entered as Nwitsou and as the property of this house, from the day of this order, with every child born to them after it; that the shrines of Rinnou be cleared and the tablets on them broken, since the Nwitsou keep no line; and that the administrator of Jenshou see it done before the Month of Water._
 
 The order is correctly written, correctly sealed and correctly addressed. The court that gave it has jurisdiction over the persons of Rinnou. The headman's crime is one of the gravest there is, and the court's judgment of it is just; I do not dispute one word of the judgment, and I have not been asked to.
 
@@ -121,7 +121,7 @@ My lord, I ask one thing of you, and it is within your jurisdiction, and you may
 
 I have written this in my own hand. I have read it back nine times. It is correct.
 
-::: {.verse form=kuo-chou lang=en}
+::: {.verse form=kwo-chou lang=en}
 I held a gate once, in the snow, on the head of the pass,/
 and nothing came through it that I had not let in./
 The gate is the matter. The gate was the only matter./
@@ -141,11 +141,11 @@ Weigh them. I have weighed them myself, and I am done.
 [[lore-annaljenshou|The Annal of Jenshou]]
 : the district, its hall and the tablets it feeds
 
-[[lore-noutsou|Nuitsou]]
+[[lore-noutsou|Nwitsou]]
 : the caste with no line, and the three roads down into it
 
 [[lore-castelaws|Caste Laws]]
-: the eight castes, and the tablet a Nuitsou carries, which names his owner
+: the eight castes, and the tablet a Nwitsou carries, which names his owner
 
 [[lore-ancstrwrshp|Ancestor Worship]]
 : the tablet as an address, and the dead as officials at their posts

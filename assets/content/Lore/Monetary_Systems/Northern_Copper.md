@@ -3,7 +3,7 @@ shortcode: nrthcopprcrncy
 name: {full: Northern Copper, oset: [tsikenha], kelw: [lukwa]}
 type: lore
 subType: economy
-description: "How the north of Ki'ich'chik reckons its wealth in cold-hammered lake copper: weighed at Ha'nal Shi'lan, given and broken at feasts, paid for a death, worn for office and buried with the dead."
+description: "How the north of Kì'ìch'chik reckons its wealth in cold-hammered lake copper: weighed at Ha'nal Shi'lan, given and broken at feasts, paid for a death, worn for office and buried with the dead."
 tags: [reference, currency, kiichchik, economy]
 ---
 

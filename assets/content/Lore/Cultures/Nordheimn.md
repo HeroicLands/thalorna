@@ -149,7 +149,7 @@ A hall learns its people's account of themselves from a handful of works, heard 
 - [[lore-vyldgyldra|Vuldgeldra]] is Hliskvir's praise of a jarl's failed winter, the poem every apprentice skald's own praise-poem is measured against, because it counts the winter's nine dead as plainly as the jarl's fair rationing.
 - [[lore-folmhnura|Folmhnura]] is a shipwright's lament for her daughter dead of fever, made as a suit at the ting, and the women of the [[place-malagna|Malagna]] yards sing it at every grave-ale for a sickness death.
 - [[lore-hvelmsnerv|Hvelmsnerv]] is a velva's foretelling from a [[place-vithgard|Vithgard]] high seat in the winter the whales failed, recited along the whale-coast while the slaughter-blet's bones are read; it teaches that the ash of this age keeps a coal for the next.
-- [[lore-skipskreld|Skipskreld]] is the Midsomar flyting of [[lore-thrunvalddty|Thrunvald]] and [[lore-velgrimurdty|Velgrímur]] in a becalmed boat, the party-piece of the Nordheim havens, in which the haven shouts the refrain at whichever god has lost an exchange.
+- [[lore-skipskreld|Skipskreld]] is the Midsomar flyting of [[lore-thrunvalddty|Thrunvald]] and [[lore-velgrimurdty|Velgrimur]] in a becalmed boat, the party-piece of the Nordheim havens, in which the haven shouts the refrain at whichever god has lost an exchange.
 - [[lore-motmal|Motmál]] is the speech-poem of [[affiliation-motefnir|Mótefnir]]'s great hov, and a craftsman speaks the Maker's half of it when he swears his first work, so that the first thing he says before the altar is that he is finished with what he made.
 
 ## Near Gods and Daily Offerings

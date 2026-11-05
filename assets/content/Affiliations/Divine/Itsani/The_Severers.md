@@ -85,7 +85,7 @@ sohl: {system: {commonSkills: []}}
 
 "The words exist on every day," the First Severer tells each Hearer. "The day does not. A priest who speaks them on a closed day has not made a mistake. He has made something else."
 
-The **Severers**, _Shaq'al'ob_ in Ki'i'chek, are the body of [[affiliation-itsanihierarchy|the Itsani Hierarchy]] that forbids. Their name is built on _shaq'al_, apart from, separate from. What they keep apart is the working and the closed day, and what they cut away is the person who joins them. They answer to no branch. They are drawn from all of them, and they judge all of them.
+The **Severers**, _Shaq'al'ob_ in Kì'ì'chek, are the body of [[affiliation-itsanihierarchy|the Itsani Hierarchy]] that forbids. Their name is built on _shaq'al_, apart from, separate from. What they keep apart is the working and the closed day, and what they cut away is the person who joins them. They answer to no branch. They are drawn from all of them, and they judge all of them.
 
 ## The Working
 
@@ -93,7 +93,7 @@ The Severers speak almost no workings. Their task is the law that governs everyo
 
 So the order tries the closed day. An **Inspector** establishes the day a disputed working was spoken, checks it against [[affiliation-ishilanshulum|the Star House]] table the city issued, and finds whether anything was worked. A working spoken on an opened day is no concern of the order's, however badly it went. A working spoken on a closed day that did nothing is a priest's error, and is sent back to his branch. A working spoken on a closed day that did something is a closed-day working, and is the Severers' to sentence.
 
-The sentence is the **Blood-Denied**, the lowest rung of the priesthood's ladder: barred from offering blood, from the calendar and from the funerary rites. The **Speaker of the Sentence** pronounces it before the temple, with the condemned's lineage present, and the Ki'i'chek count it the one sentence that outlives the body. Death may follow it. Death never replaces it.
+The sentence is the **Blood-Denied**, the lowest rung of the priesthood's ladder: barred from offering blood, from the calendar and from the funerary rites. The **Speaker of the Sentence** pronounces it before the temple, with the condemned's lineage present, and the Kì'ì'chek count it the one sentence that outlives the body. Death may follow it. Death never replaces it.
 
 The Severers hold a reason for the law that the rest of the priesthood is not asked to share. They take the account the Wardens of the Sealed Chambers keep, that the Fourth Age's count was broken by a working spoken on a closed day, as the law's foundation, and every Hearer is taught it in his first year. The order treats it as the reason a closed-day working is not one priest's error but a danger to the age.
 

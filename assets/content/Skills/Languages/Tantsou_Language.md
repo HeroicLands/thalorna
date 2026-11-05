@@ -55,7 +55,7 @@ data:
       field: Sky, land and the elements
       gloss: moon, month
       concept: [moon, month]
-    - form: luo
+    - form: lwo
       class: n
       field: Sky, land and the elements
       gloss: flower, lotus
@@ -71,8 +71,8 @@ data:
       gloss: sea, ocean
       concept: [sea, ocean]
     - {form: zhen, class: n, field: "Sky, land and the elements", gloss: snow, concept: snow}
-    - {form: chuen, class: "n", field: "Sky, land and the elements", gloss: "frost"}
-    - {form: rao, class: n, field: "Sky, land and the elements", gloss: thunder, concept: thunder}
+    - {form: chwen, class: "n", field: "Sky, land and the elements", gloss: "frost"}
+    - {form: rau, class: n, field: "Sky, land and the elements", gloss: thunder, concept: thunder}
     - form: la
       class: n
       field: Sky, land and the elements
@@ -86,14 +86,14 @@ data:
       gloss: heaven, the sky; celestial
       concept: sky
     - {form: tan, class: adj, field: "Sky, land and the elements", gloss: "celestial, of heaven"}
-    - {form: muo, class: adj, field: Color and number, gloss: "green", concept: green}
+    - {form: mwo, class: adj, field: Color and number, gloss: "green", concept: green}
     - form: zhou
       class: adj
       field: Color and number
       gloss: "blue, azure; flowing"
       concept: blue
     - {form: rin, class: adj, field: Color and number, gloss: "red, vermilion", concept: red}
-    - {form: bui, class: adj, field: Color and number, gloss: "white, silver", concept: white}
+    - {form: bwi, class: adj, field: Color and number, gloss: "white, silver", concept: white}
     - form: ha
       class: adj
       field: Color and number
@@ -109,13 +109,13 @@ data:
     - {form: wai, class: num, field: Color and number, gloss: "ten", concept: ten}
     - {form: rong, class: num, field: Color and number, gloss: "ten thousand, a myriad"}
     - {form: chen, class: "n", field: "People, rank and office", gloss: "emperor, king"}
-    - {form: zhuo, class: "n", field: "People, rank and office", gloss: "lord, sovereign"}
+    - {form: zhwo, class: "n", field: "People, rank and office", gloss: "lord, sovereign"}
     - form: nei
       class: n
       field: People, rank and office
       gloss: sovereign, ruler
       concept: ruler
-    - {form: gui, class: "n", field: "People, rank and office", gloss: "official, minister"}
+    - {form: gwi, class: "n", field: "People, rank and office", gloss: "official, minister"}
     - form: gen
       class: n
       field: People, rank and office
@@ -134,13 +134,13 @@ data:
       field: People, rank and office
       gloss: person, folk
       concept: person
-    - {form: nui, class: adj, field: "People, rank and office", gloss: "bound, enslaved"}
+    - {form: nwi, class: adj, field: "People, rank and office", gloss: "bound, enslaved"}
     - form: tsou
       class: n
       field: People, rank and office
       gloss: tribe, group, people
       concept: [people, group, tribe]
-    - form: zhao
+    - form: zhau
       class: n
       field: People, rank and office
       gloss: house, clan, family
@@ -150,9 +150,9 @@ data:
       field: "People, rank and office"
       gloss: "hearth, household"
       concept: hearth
-    - {form: shuo, class: "n", field: "People, rank and office", gloss: "trade"}
+    - {form: shwo, class: "n", field: "People, rank and office", gloss: "trade"}
     - {form: ja, class: "n", field: "People, rank and office", gloss: "blade"}
-    - {form: huo, class: "n", field: "People, rank and office", gloss: "hand", concept: hand}
+    - {form: hwo, class: "n", field: "People, rank and office", gloss: "hand", concept: hand}
     - form: wen
       class: "n"
       field: "Heaven, law and the order of things"
@@ -189,7 +189,7 @@ data:
       class: "n"
       field: "Heaven, law and the order of things"
       gloss: "creation, craft"
-    - form: huen
+    - form: hwen
       class: "n"
       field: "Heaven, law and the order of things"
       gloss: "chaos, disorder"
@@ -203,7 +203,7 @@ data:
       field: Heaven, law and the order of things
       gloss: life, birth
       concept: [birth, life]
-    - {form: nuo, class: "n", field: "Heaven, law and the order of things", gloss: "decay, rot"}
+    - {form: nwo, class: "n", field: "Heaven, law and the order of things", gloss: "decay, rot"}
     - form: fa
       class: n
       field: Heaven, law and the order of things
@@ -214,15 +214,15 @@ data:
       field: Heaven, law and the order of things
       gloss: knowledge, lore, record
       concept: knowledge
-    - form: duo
+    - form: dwo
       class: "n"
       field: "Heaven, law and the order of things"
       gloss: "sorcery, magic"
-    - form: rui
+    - form: rwi
       class: "n"
       field: "Heaven, law and the order of things"
       gloss: "ritual, ceremony, dance"
-    - {form: jui, class: "n", field: "Heaven, law and the order of things", gloss: "festival"}
+    - {form: jwi, class: "n", field: "Heaven, law and the order of things", gloss: "festival"}
     - form: tsei
       class: n
       field: Heaven, law and the order of things
@@ -233,7 +233,7 @@ data:
       field: Heaven, law and the order of things
       gloss: account, reckoning, tally; the numerical count or measured amount shown by a tally
       concept: [number, amount]
-    - form: nie
+    - form: nye
       class: n
       field: Heaven, law and the order of things
       gloss: year
@@ -243,7 +243,7 @@ data:
       field: Heaven, law and the order of things
       gloss: dream
       concept: dream
-    - form: "huenlei"
+    - form: "hwenlei"
       class: "n"
       field: "Heaven, law and the order of things"
       gloss: "the primordial chaos of the Unclassified"
@@ -251,7 +251,7 @@ data:
       class: "n"
       field: "Heaven, law and the order of things"
       gloss: '"Spirit-Wisdom": the daily meditative movement that realigns the body with its classification'
-    - form: "ruising"
+    - form: "rwising"
       class: "n"
       field: "Heaven, law and the order of things"
       gloss: "state-ordered ritual suicide, imposed as a punishment"
@@ -267,7 +267,7 @@ data:
       class: "n"
       field: "Heaven, law and the order of things"
       gloss: '"Self-death": ritual suicide performed to atone for dishonor or to protest'
-    - form: "zhaolou"
+    - form: "zhaulou"
       class: "n"
       field: "Heaven, law and the order of things"
       gloss: "the Caste Laws, which fix every caste's rights, duties and restrictions"
@@ -291,7 +291,7 @@ data:
       field: Doing and describing
       gloss: to fall, to descend
       concept: fall
-    - form: chiao
+    - form: chyau
       class: v
       field: Doing and describing
       gloss: to freeze; winter
@@ -301,17 +301,17 @@ data:
       field: Doing and describing
       gloss: to answer, to echo
       concept: answer
-    - form: dao
+    - form: dau
       class: adj
       field: Doing and describing
       gloss: great, supreme; large in physical size, with repetition expressing a very great or huge size
       concept: big
-    - form: kuo
+    - form: kwo
       class: adj
       field: Doing and describing
       gloss: old, ancient, eternal
       concept: old-object
-    - form: shui
+    - form: shwi
       class: adj
       field: Doing and describing
       gloss: new, lesser, small
@@ -325,7 +325,7 @@ data:
       field: Senses and passions
       gloss: to see, to look; to look deliberately; to watch by continuing to look at a person, thing or event; as a call for attention, look
       concept: [see-verb, look, watch, expression-look]
-    - form: jie
+    - form: jye
       class: "n"
       field: "Senses and passions"
       gloss: "sight, view; what is seen"
@@ -346,12 +346,12 @@ data:
       field: "Senses and passions"
       gloss: "smell, scent, odor"
       concept: smell-noun
-    - form: tsie
+    - form: tsye
       class: "v"
       field: "Senses and passions"
       gloss: "to taste"
       concept: taste-verb
-    - form: ruo
+    - form: rwo
       class: "n"
       field: "Senses and passions"
       gloss: "taste, flavor"
@@ -361,15 +361,15 @@ data:
       field: "Senses and passions"
       gloss: "to touch, to feel with the hand"
       concept: touch-verb
-    - {form: hao, class: "n", field: "The body", gloss: "head", concept: head}
-    - {form: sao, class: "n", field: "The body", gloss: "hair of the head", concept: hair}
+    - {form: hau, class: "n", field: "The body", gloss: "head", concept: head}
+    - {form: sau, class: "n", field: "The body", gloss: "hair of the head", concept: hair}
     - {form: lan, class: "n", field: "The body", gloss: "face", concept: face}
     - {form: ching, class: "n", field: "The body", gloss: "eye", concept: eye}
-    - {form: lui, class: "n", field: "The body", gloss: "ear", concept: ear}
+    - {form: lwi, class: "n", field: "The body", gloss: "ear", concept: ear}
     - {form: fong, class: "n", field: "The body", gloss: "nose", concept: nose}
     - {form: tsong, class: "n", field: "The body", gloss: "mouth", concept: mouth}
     - {form: ga, class: "n", field: "The body", gloss: "tooth", concept: tooth}
-    - {form: lie, class: "n", field: "The body", gloss: "tongue", concept: tongue}
+    - {form: lye, class: "n", field: "The body", gloss: "tongue", concept: tongue}
     - {form: beng, class: n, field: The body, gloss: "neck, throat", concept: [neck, throat]}
     - {form: kong, class: "n", field: "The body", gloss: "shoulder", concept: shoulder}
     - {form: bin, class: "n", field: "The body", gloss: "arm", concept: arm}
@@ -379,17 +379,17 @@ data:
     - {form: tsen, class: "n", field: "The body", gloss: "heart; seat of feeling", concept: heart}
     - {form: tuo, class: "n", field: "The body", gloss: "belly", concept: belly}
     - {form: shai, class: "n", field: "The body", gloss: "back", concept: back}
-    - {form: kuen, class: "n", field: "The body", gloss: "hip", concept: hip}
+    - {form: kwen, class: "n", field: "The body", gloss: "hip", concept: hip}
     - {form: jo, class: "n", field: "The body", gloss: "leg", concept: leg}
     - {form: dai, class: "n", field: "The body", gloss: "foot", concept: foot}
     - {form: lo, class: "n", field: "The body", gloss: "skin, hide", concept: skin}
     - {form: ko, class: "n", field: "The body", gloss: "bone", concept: bone}
-    - {form: chui, class: "n", field: "The body", gloss: "blood", concept: blood}
-    - {form: muen, class: "n", field: "The body", gloss: "flesh, meat", concept: flesh}
+    - {form: chwi, class: "n", field: "The body", gloss: "blood", concept: blood}
+    - {form: mwen, class: "n", field: "The body", gloss: "flesh, meat", concept: flesh}
     - {form: ta, class: "n", field: "Needs and common things", gloss: "food, meal", concept: food}
     - {form: sho, class: "v", field: "Needs and common things", gloss: "to eat", concept: eat}
     - {form: sa, class: "n", field: "Needs and common things", gloss: "drink", concept: drink-noun}
-    - form: hui
+    - form: hwi
       class: "v"
       field: "Needs and common things"
       gloss: "to drink"
@@ -404,7 +404,7 @@ data:
       field: "Needs and common things"
       gloss: "to sleep"
       concept: sleep-verb
-    - {form: liao, class: "n", field: "Needs and common things", gloss: "urine", concept: urine}
+    - {form: lyau, class: "n", field: "Needs and common things", gloss: "urine", concept: urine}
     - form: bou
       class: "n"
       field: "Needs and common things"
@@ -418,7 +418,7 @@ data:
     - {form: gan, class: "n", field: "Needs and common things", gloss: "table", concept: table}
     - {form: tong, class: "n", field: "Needs and common things", gloss: "floor", concept: floor}
     - {form: zheng, class: "n", field: "Needs and common things", gloss: "wall", concept: wall}
-    - {form: zhuen, class: "n", field: "Needs and common things", gloss: "roof", concept: roof}
+    - {form: zhwen, class: "n", field: "Needs and common things", gloss: "roof", concept: roof}
     - form: zhong
       class: "n"
       field: "Needs and common things"
@@ -441,7 +441,7 @@ data:
     - {form: shen, class: "n", field: "Needs and common things", gloss: "cloth", concept: cloth}
     - {form: tsi, class: "num", field: "Color and number", gloss: "one", concept: one}
     - {form: len, class: "num", field: "Color and number", gloss: "two", concept: two}
-    - {form: tao, class: "num", field: "Color and number", gloss: "three", concept: three}
+    - {form: tau, class: "num", field: "Color and number", gloss: "three", concept: three}
     - {form: fei, class: "num", field: "Color and number", gloss: "four", concept: four}
     - {form: jou, class: "num", field: "Color and number", gloss: "six", concept: six}
     - {form: tai, class: "num", field: "Color and number", gloss: "seven", concept: seven}
@@ -464,8 +464,8 @@ data:
       field: "Color and number"
       gloss: "none, nothing; not"
       concept: none
-    - {form: jao, class: "adj", field: "Color and number", gloss: "yellow", concept: yellow}
-    - form: kui
+    - {form: jau, class: "adj", field: "Color and number", gloss: "yellow", concept: yellow}
+    - form: kwi
       class: "adj"
       field: "Color and number"
       gloss: "gray, ash-colored"
@@ -482,13 +482,13 @@ data:
       concept: [be, exist]
     - {form: kai, class: "v", field: "Doing and describing", gloss: "to have", concept: have}
     - {form: rou, class: "v", field: "Doing and describing", gloss: "to go", concept: go}
-    - {form: nao, class: "v", field: "Doing and describing", gloss: "to come", concept: come}
+    - {form: nau, class: "v", field: "Doing and describing", gloss: "to come", concept: come}
     - {form: zhan, class: "v", field: "Doing and describing", gloss: "to give", concept: give}
-    - {form: dui, class: "v", field: "Doing and describing", gloss: "to take", concept: take}
-    - {form: shao, class: "v", field: "Doing and describing", gloss: "to make", concept: make}
-    - {form: tsiao, class: "v", field: "Doing and describing", gloss: "to do", concept: do}
+    - {form: dwi, class: "v", field: "Doing and describing", gloss: "to take", concept: take}
+    - {form: shau, class: "v", field: "Doing and describing", gloss: "to make", concept: make}
+    - {form: tsyau, class: "v", field: "Doing and describing", gloss: "to do", concept: do}
     - {form: ya, class: "v", field: "Doing and describing", gloss: "to say", concept: say}
-    - form: tsuen
+    - form: tswen
       class: "v"
       field: "Doing and describing"
       gloss: "to speak, to talk"
@@ -506,10 +506,10 @@ data:
       gloss: to live; to be alive
       concept: [live, alive]
     - {form: fen, class: "v", field: "Doing and describing", gloss: "to die", concept: die}
-    - {form: tuen, class: "v", field: "Doing and describing", gloss: "to walk", concept: walk}
-    - {form: ruen, class: "v", field: "Doing and describing", gloss: "to run", concept: run}
+    - {form: twen, class: "v", field: "Doing and describing", gloss: "to walk", concept: walk}
+    - {form: rwen, class: "v", field: "Doing and describing", gloss: "to run", concept: run}
     - {form: den, class: "v", field: "Doing and describing", gloss: "to sit", concept: sit}
-    - {form: gie, class: "v", field: "Doing and describing", gloss: "to stand", concept: stand}
+    - {form: gye, class: "v", field: "Doing and describing", gloss: "to stand", concept: stand}
     - form: yuen
       class: "v"
       field: "Doing and describing"
@@ -534,8 +534,8 @@ data:
       field: "Doing and describing"
       gloss: "to close, to shut"
       concept: close
-    - {form: chao, class: "v", field: "Doing and describing", gloss: "to begin", concept: begin}
-    - form: luen
+    - {form: chau, class: "v", field: "Doing and describing", gloss: "to begin", concept: begin}
+    - form: lwen
       class: "v"
       field: "Doing and describing"
       gloss: "to end, to finish"
@@ -544,7 +544,7 @@ data:
     - {form: jeng, class: "n", field: "The body", gloss: "joint, knot; where a limb bends"}
     - {form: mi, class: n, field: Kin, gloss: woman; female, concept: woman}
     - {form: chan, class: n, field: Kin, gloss: man; male, concept: man}
-    - form: chuo
+    - form: chwo
       class: num
       field: Color and number
       gloss: rank, place in order
@@ -566,12 +566,12 @@ data:
     - {form: "no", class: "n", field: "Needs and common things", gloss: "honey"}
     - {form: ran, class: "n", field: "Needs and common things", gloss: "lacquer"}
     - {form: shi, class: "n", field: "Needs and common things", gloss: "comb"}
-    - form: gaihuo
+    - form: gaihwo
       class: "n"
       field: "Senses and passions"
       gloss: "touch"
       concept: touch-noun
-      built: [gai, huo]
+      built: [gai, hwo]
     - form: hotsen
       class: "n"
       field: "Senses and passions"
@@ -596,18 +596,18 @@ data:
       gloss: "greed"
       concept: greed
       built: [yei, rong]
-    - form: daotsong
+    - form: dautsong
       class: "n"
       field: "Senses and passions"
       gloss: "boasting"
       concept: boasting
-      built: [dao, tsong]
-    - form: daotsei
+      built: [dau, tsong]
+    - form: dautsei
       class: "n"
       field: "Senses and passions"
       gloss: "pride"
       concept: pride
-      built: [dao, tsei]
+      built: [dau, tsei]
     - form: rinyei
       class: "n"
       field: "Senses and passions"
@@ -656,12 +656,12 @@ data:
       gloss: "selfless, universal love (agape)"
       concept: love-agape
       built: [rong, hin]
-    - form: tsongluo
+    - form: tsonglwo
       class: "n"
       field: "The body"
       gloss: "lip"
       concept: lip
-      built: [tsong, luo]
+      built: [tsong, lwo]
     - form: binjeng
       class: "n"
       field: "The body"
@@ -698,24 +698,24 @@ data:
       gloss: "sleep"
       concept: sleep-noun
       built: [min, mei]
-    - form: liaojong
+    - form: lyaujong
       class: "v"
       field: "Needs and common things"
       gloss: "to urinate"
       concept: urinate
-      built: [liao, jong]
+      built: [lyau, jong]
     - form: boujong
       class: "v"
       field: "Needs and common things"
       gloss: "to defecate"
       concept: defecate
       built: [bou, jong]
-    - form: zhuenhou
+    - form: zhwenhou
       class: "n"
       field: "Needs and common things"
       gloss: "shelter"
       concept: shelter
-      built: [zhuen, hou]
+      built: [zhwen, hou]
     - form: denmou
       class: "n"
       field: "Needs and common things"
@@ -746,12 +746,12 @@ data:
       gloss: "shutters"
       concept: shutters
       built: [ha, sen]
-    - form: shuija
+    - form: shwija
       class: "n"
       field: "Needs and common things"
       gloss: "knife"
       concept: knife
-      built: [shui, ja]
+      built: [shwi, ja]
     - form: lengho
       class: "n"
       field: "Needs and common things"
@@ -770,24 +770,24 @@ data:
       gloss: "twenty"
       concept: twenty
       built: [len, wai]
-    - form: chuotsi
+    - form: chwotsi
       class: "num"
       field: "Color and number"
       gloss: "first"
       concept: first
-      built: [chuo, tsi]
-    - form: chuolen
+      built: [chwo, tsi]
+    - form: chwolen
       class: "num"
       field: "Color and number"
       gloss: "second"
       concept: second
-      built: [chuo, len]
-    - form: chuotao
+      built: [chwo, len]
+    - form: chwotau
       class: "num"
       field: "Color and number"
       gloss: "third"
       concept: third
-      built: [chuo, tao]
+      built: [chwo, tau]
     - form: zhazhan
       class: "n"
       field: "Kin"
@@ -800,32 +800,32 @@ data:
       gloss: "daughter"
       concept: daughter
       built: [mi, zhei]
-    - form: kuona
+    - form: kwona
       class: "n"
       field: "Kin"
       gloss: "grandmother"
       concept: grandmother
-      built: [kuo, na]
-    - form: kuoto
+      built: [kwo, na]
+    - form: kwoto
       class: "n"
       field: "Kin"
       gloss: "grandfather"
       concept: grandfather
-      built: [kuo, to]
-    - form: shuizhei
+      built: [kwo, to]
+    - form: shwizhei
       class: "n"
       field: "Kin"
       gloss: "grandchild"
       concept: grandchild
-      built: [shui, zhei]
+      built: [shwi, zhei]
     - {form: todong, class: "n", field: "Kin", gloss: "uncle", concept: uncle, built: [to, dong]}
     - {form: tonin, class: "n", field: "Kin", gloss: "aunt", concept: aunt, built: [to, nin]}
-    - form: zhaodong
+    - form: zhaudong
       class: "n"
       field: "Kin"
       gloss: "cousin"
       concept: cousin
-      built: [zhao, dong]
+      built: [zhau, dong]
     - form: kenchan
       class: "n"
       field: "Kin"
@@ -833,12 +833,12 @@ data:
       concept: husband
       built: [ken, chan]
     - {form: kenmi, class: "n", field: "Kin", gloss: "wife", concept: wife, built: [ken, mi]}
-    - form: kuolei
+    - form: kwolei
       class: "n"
       field: "Kin"
       gloss: "ancestor"
       concept: ancestor
-      built: [kuo, lei]
+      built: [kwo, lei]
     - form: jongzhei
       class: "n"
       field: "Kin"
@@ -877,7 +877,7 @@ data:
       gloss: good; favorable or ethically right in the context named
       concept: [good, right-ethical]
       field: Doing and describing
-    - form: lao
+    - form: lau
       class: adj
       gloss: bad; harmful or ethically wrong in the context named
       concept: [bad, wrong-ethical]
@@ -908,22 +908,22 @@ data:
       class: n
       gloss: permission; leave granted to perform an act
       field: Heaven, law and the order of things
-    - form: juo
+    - form: jwo
       class: n
       gloss: thing; an object, matter or affair
       concept: thing
       field: Heaven, law and the order of things
-    - form: juen
+    - form: jwen
       class: n
       gloss: cause; reason that explains an event
       concept: [cause, reason]
       field: Heaven, law and the order of things
-    - form: jiao
+    - form: jyau
       class: n
       gloss: intention; an aim deliberately held; a deliberate aim or an intended act, named as the intention itself
       concept: purpose
       field: Heaven, law and the order of things
-    - form: chie
+    - form: chye
       class: v
       gloss: to feel; to experience a bodily or emotional impression
       concept: feel-verb
@@ -933,7 +933,7 @@ data:
       gloss: fear; apprehension of danger
       concept: fear
       field: Senses and passions
-    - {form: die, class: n, gloss: sadness; sorrow, concept: sadness, field: Senses and passions}
+    - {form: dye, class: n, gloss: sadness; sorrow, concept: sadness, field: Senses and passions}
     - form: dan
       class: n
       gloss: anger; angry feeling
@@ -954,7 +954,7 @@ data:
       gloss: conviction; subjective certainty, whether the belief is true or false; confidence in one's own capacity or an expected outcome
       concept: [confidence, certainty]
       field: Senses and passions
-    - form: duen
+    - form: dwen
       class: n
       gloss: concern; caring attention to another's welfare
       field: Heaven, law and the order of things
@@ -972,20 +972,20 @@ data:
       gloss: side; a direction or aspect relative to something
       concept: direction
       field: Heaven, law and the order of things
-    - form: riao
+    - form: ryau
       class: n
       gloss: name; the word or words by which someone or something is called
       concept: name-noun
       field: People, rank and office
-    - form: mao
+    - form: mau
       class: n
       gloss: body; the physical body of a living being
       field: Heaven, law and the order of things
-    - form: mui
+    - form: mwi
       class: adj
       gloss: empty; containing none of the thing in question
       field: Doing and describing
-    - {form: mie, class: adj, gloss: full; filled to capacity, field: Doing and describing}
+    - {form: mye, class: adj, gloss: full; filled to capacity, field: Doing and describing}
     - {form: men, class: n, gloss: inside; interior, field: "Heaven, law and the order of things"}
     - form: meng
       class: n
@@ -996,7 +996,7 @@ data:
       gloss: extent; length or reach along an axis; the distance or spatial extent between two points
       concept: distance
       field: Heaven, law and the order of things
-    - form: miao
+    - form: myau
       class: n
       gloss: weight; heaviness
       field: Heaven, law and the order of things
@@ -1016,7 +1016,7 @@ data:
       class: n
       gloss: rear; region behind; in time compounds, the later part
       field: Heaven, law and the order of things
-    - form: nuen
+    - form: nwen
       class: n
       gloss: point; a particular spot or position
       field: Heaven, law and the order of things
@@ -1035,12 +1035,12 @@ data:
       gloss: to wait; to stay while expecting someone or something; as a request, wait
       concept: [wait, expression-wait]
       field: Doing and describing
-    - form: buen
+    - form: bwen
       class: v
       gloss: to remain; to stay as or where one is
       concept: remain
       field: Doing and describing
-    - form: biao
+    - form: byau
       class: v
       gloss: to help; to assist another in doing or enduring something; as an urgent request, help
       concept: [help, expression-help]
@@ -1070,7 +1070,7 @@ data:
       gloss: soft; yielding to pressure
       concept: soft
       field: Senses and passions
-    - form: giao
+    - form: gyau
       class: adj
       gloss: quick; fast in movement or in carrying out an act
       concept: fast
@@ -1080,7 +1080,7 @@ data:
       gloss: slow; taking much time to move or act
       concept: slow
       field: Doing and describing
-    - form: kao
+    - form: kau
       class: adj
       gloss: long; extending far in space or time
       concept: long
@@ -1100,23 +1100,23 @@ data:
       gloss: narrow; restricted from side to side
       concept: narrow
       field: Doing and describing
-    - form: kiao
+    - form: kyau
       class: n
       gloss: strength; physical power or capacity to exert force
       field: Heaven, law and the order of things
     - {form: fi, class: adj, gloss: cold; at a low temperature, concept: cold, field: The body}
-    - form: fao
+    - form: fau
       class: adj
       gloss: hot; at a high temperature
       concept: hot
       field: Needs and common things
-    - form: fui
+    - form: fwi
       class: adj
       gloss: healthy; hale, bodily well
       concept: healthy
       field: The body
-    - {form: fuo, class: adj, gloss: sick; ill, concept: sick, field: The body}
-    - form: fie
+    - {form: fwo, class: adj, gloss: sick; ill, concept: sick, field: The body}
+    - form: fye
       class: v
       gloss: to injure; to cause bodily damage or pain
       concept: hurt-verb
@@ -1131,20 +1131,20 @@ data:
       gloss: to leave; to depart a place or person
       concept: leave
       field: Doing and describing
-    - form: fuen
+    - form: fwen
       class: v
       gloss: to happen; to occur
       concept: happen
       field: Doing and describing
-    - form: fiao
+    - form: fyau
       class: v
       gloss: to trade; to exchange goods or services
       concept: trade
       field: Doing and describing
-    - form: hing yao
+    - form: hing yau
       class: n
       gloss: appearance; the visible form or look of someone or something
-      built: [hing, yao]
+      built: [hing, yau]
       concept: appearance
       field: Senses and passions
     - form: hing yui
@@ -1152,10 +1152,10 @@ data:
       gloss: ability to see; visual capacity belonging to the observer
       built: [hing, yui]
       field: Heaven, law and the order of things
-    - form: huen yong
+    - form: hwen yong
       class: n
       gloss: noise; irregular or unwanted sound
-      built: [huen, yong]
+      built: [hwen, yong]
       concept: noise
       field: Senses and passions
     - form: mong yong
@@ -1164,64 +1164,64 @@ data:
       built: [mong, yong]
       concept: silence
       field: Senses and passions
-    - form: dao yong
+    - form: dau yong
       class: n
-      gloss: loudness; a great volume of sound. Dao yong kai, have a loud sound, describes a loud source
-      built: [dao, yong]
+      gloss: loudness; a great volume of sound. Dau yong kai, have a loud sound, describes a loud source
+      built: [dau, yong]
       field: Heaven, law and the order of things
-    - form: shui yong
+    - form: shwi yong
       class: n
-      gloss: quietness; a small volume of sound. Shui yong kai, have a small sound, describes a quiet source
-      built: [shui, yong]
+      gloss: quietness; a small volume of sound. Shwi yong kai, have a small sound, describes a quiet source
+      built: [shwi, yong]
       field: Heaven, law and the order of things
     - form: lai fai
       class: n
       gloss: fragrance; a pleasant smell, used to describe a fragrant thing
       built: [lai, fai]
       field: Heaven, law and the order of things
-    - form: lao fai
+    - form: lau fai
       class: n
       gloss: a foul smell; an unpleasant odor, used to describe a foul-smelling thing
-      built: [lao, fai]
+      built: [lau, fai]
       field: Heaven, law and the order of things
-    - form: no ruo
+    - form: no rwo
       class: n
       gloss: sweetness; the honey-like flavor of a sweet thing
-      built: [no, ruo]
+      built: [no, rwo]
       field: Heaven, law and the order of things
-    - form: nuo ruo
+    - form: nwo rwo
       class: n
-      gloss: sourness; the tart flavor conventionally called decay-or-rot flavor. The whole idiom extends to sound sour fruit without implying spoilage; bare nuo retains decay and rot
-      built: [nuo, ruo]
+      gloss: sourness; the tart flavor conventionally called decay-or-rot flavor. The whole idiom extends to sound sour fruit without implying spoilage; bare nwo retains decay and rot
+      built: [nwo, rwo]
       field: Heaven, law and the order of things
-    - form: han ruo
+    - form: han rwo
       class: n
       gloss: bitterness; the sharp disagreeable flavor conventionally called pain-flavor, including bitter medicine
-      built: [han, ruo]
+      built: [han, rwo]
       field: Heaven, law and the order of things
     - form: bai
       class: n
       gloss: salt; the edible mineral used to season food
       field: Heaven, law and the order of things
-    - form: bai ruo
+    - form: bai rwo
       class: n
       gloss: saltiness; the flavor of salt, used to describe a salty thing
-      built: [bai, ruo]
+      built: [bai, rwo]
       field: Heaven, law and the order of things
     - form: hou lo
       class: n
       gloss: smoothness of a surface; skin or surface that is even and free of rough projections
       built: [hou, lo]
       field: Heaven, law and the order of things
-    - form: huen lo
+    - form: hwen lo
       class: n
       gloss: roughness of a surface; irregular projecting texture
-      built: [huen, lo]
+      built: [hwen, lo]
       field: Heaven, law and the order of things
-    - form: shui juo hing
+    - form: shwi jwo hing
       class: v
       gloss: to notice a detail or occurrence; literally to see a small matter
-      built: [shui, juo, hing]
+      built: [shwi, jwo, hing]
       concept: notice
       field: Senses and passions
     - form: hi tsing
@@ -1230,16 +1230,16 @@ data:
       built: [hi, tsing]
       concept: perceive
       field: Senses and passions
-    - form: kuo chou tsing
+    - form: kwo chou tsing
       class: v
       gloss: to recognize someone or something through prior knowledge; old knowledge is the modifying context, not a claim of certainty
-      built: [kuo, chou, tsing]
+      built: [kwo, chou, tsing]
       concept: recognize
       field: Senses and passions
-    - form: yao dei
+    - form: yau dei
       class: v
-      gloss: to seem; to present an appearance. Lai yao dei, present a good appearance, means seem good without asserting goodness
-      built: [yao, dei]
+      gloss: to seem; to present an appearance. Lai yau dei, present a good appearance, means seem good without asserting goodness
+      built: [yau, dei]
       concept: seem
       field: Senses and passions
     - form: lai hi
@@ -1260,10 +1260,10 @@ data:
       built: [zhan, chou, tsen]
       concept: gratitude
       field: Senses and passions
-    - form: dao hing tsen
+    - form: dau hing tsen
       class: n
       gloss: admiration; an appreciative feeling of esteem at another's qualities or acts, literally great-viewing heart
-      built: [dao, hing, tsen]
+      built: [dau, hing, tsen]
       concept: admiration
       field: Senses and passions
     - form: nong fo
@@ -1284,34 +1284,34 @@ data:
       built: [hin, shin, chin]
       concept: jealousy
       field: Senses and passions
-    - form: dao chin
+    - form: dau chin
       class: n
       gloss: terror; overwhelming fear
-      built: [dao, chin]
+      built: [dau, chin]
       concept: terror
       field: Senses and passions
-    - form: shin die
+    - form: shin dye
       class: n
       gloss: grief; sorrow at a person's death or another deep loss
-      built: [shin, die]
+      built: [shin, dye]
       concept: grief
       field: Senses and passions
-    - form: tsei lao tsiao deng
+    - form: tsei lau tsyau deng
       class: n
       gloss: guilt; shame or remorse at one's own wrongdoing, literally own bad deed shame
-      built: [tsei, lao, tsiao, deng]
+      built: [tsei, lau, tsyau, deng]
       concept: guilt
       field: Senses and passions
-    - form: kuo tsiao die
+    - form: kwo tsyau dye
       class: n
       gloss: regret; distress about an earlier act, choice or omission
-      built: [kuo, tsiao, die]
+      built: [kwo, tsyau, dye]
       concept: regret
       field: Senses and passions
-    - form: shui tsei
+    - form: shwi tsei
       class: n
       gloss: humility; a modest estimation of one's own importance, the conventional small-self attitude
-      built: [shui, tsei]
+      built: [shwi, tsei]
       concept: humility
       field: Senses and passions
     - form: nong hing deng
@@ -1320,40 +1320,40 @@ data:
       built: [nong, hing, deng]
       concept: embarrassment
       field: Senses and passions
-    - form: nong han duen
+    - form: nong han dwen
       class: n
       gloss: compassion; sympathy and caring concern for another's suffering, including a wish to relieve it
-      built: [nong, han, duen]
+      built: [nong, han, dwen]
       concept: [compassion, sympathy]
       field: Senses and passions
-    - form: han nong duen
+    - form: han nong dwen
       class: n
       gloss: pity; sorrowful concern for a suffering or unfortunate person
-      built: [han, nong, duen]
+      built: [han, nong, dwen]
       concept: pity
       field: Senses and passions
-    - form: kuo han dan
+    - form: kwo han dan
       class: n
       gloss: resentment; lingering anger about a felt wrong or injury
-      built: [kuo, han, dan]
+      built: [kwo, han, dan]
       concept: resentment
       field: Senses and passions
-    - form: lao nong hing
+    - form: lau nong hing
       class: v
       gloss: to hold someone in contempt; conventionally to regard a person as beneath respect, not merely to notice a bad person
-      built: [lao, nong, hing]
+      built: [lau, nong, hing]
       concept: contempt
       field: Senses and passions
-    - form: lao tsiao kie
+    - form: lau tsyau kye
       class: v
       gloss: to forgive a wrong; conventionally to let the wrong go instead of keeping resentment or punishment against its doer
-      built: [lao, tsiao, kie]
+      built: [lau, tsyau, kye]
       concept: forgive-verb
       field: Doing and describing
-    - form: lao tsiao kie tsen
+    - form: lau tsyau kye tsen
       class: n
       gloss: forgiveness; the attitude of releasing resentment or a claim to punishment for a wrong
-      built: [lao, tsiao, kie, tsen]
+      built: [lau, tsyau, kye, tsen]
       concept: forgiveness
       field: Senses and passions
     - form: yei tsen
@@ -1368,10 +1368,10 @@ data:
       built: [fing, nong, yei, tsen]
       concept: longing
       field: Senses and passions
-    - form: yei luen hei
+    - form: yei lwen hei
       class: n
       gloss: satisfaction; the pleased feeling that a desire has been fulfilled, distinct from general pleasure and from mere completion of a task
-      built: [yei, luen, hei]
+      built: [yei, lwen, hei]
       concept: satisfaction
       field: Senses and passions
     - form: yei bing han
@@ -1380,16 +1380,16 @@ data:
       built: [yei, bing, han]
       concept: frustration
       field: Senses and passions
-    - form: shui chou yei
+    - form: shwi chou yei
       class: v
       gloss: to be curious; to want further knowledge of a detail or matter
-      built: [shui, chou, yei]
+      built: [shwi, chou, yei]
       concept: curiosity
       field: Senses and passions
-    - form: huen yeng
+    - form: hwen yeng
       class: n
       gloss: confusion; disordered thought or lack of a clear understanding
-      built: [huen, yeng]
+      built: [hwen, yeng]
       concept: confusion
       field: Senses and passions
     - form: mong fo
@@ -1404,10 +1404,10 @@ data:
       built: [mong, chou, hi]
       concept: surprise
       field: Senses and passions
-    - form: tsiao mong yei
+    - form: tsyau mong yei
       class: v
       gloss: to be bored; to lack interest in what one is doing; to be unwilling; not to want or consent to perform the stated act
-      built: [tsiao, mong, yei]
+      built: [tsyau, mong, yei]
       concept: [boredom, unwilling]
       field: Senses and passions
     - form: ning yen yeng
@@ -1422,16 +1422,16 @@ data:
       built: [heng, yeng]
       concept: belief
       field: Senses and passions
-    - form: wo duen
+    - form: wo dwen
       class: n
       gloss: reverence; profound respect and careful regard, often toward the sacred
-      built: [wo, duen]
+      built: [wo, dwen]
       concept: reverence
       field: Senses and passions
-    - form: dao hi tsen
+    - form: dau hi tsen
       class: n
       gloss: awe; astonished wonder at something felt as vast or powerful, which may mingle fear with admiration
-      built: [dao, hi, tsen]
+      built: [dau, hi, tsen]
       concept: awe
       field: Senses and passions
     - form: guen hin
@@ -1476,23 +1476,23 @@ data:
       built: [din, lin]
       concept: enmity
       field: Senses and passions
-    - form: kie
+    - form: kye
       class: v
       gloss: to separate; to part or release one thing from another
       field: Doing and describing
-    - form: yao
+    - form: yau
       class: n
       gloss: shape; form or outward configuration
       field: Heaven, law and the order of things
-    - form: zhie
+    - form: zhye
       class: n
       gloss: work; an activity or task performed with effort
       field: Heaven, law and the order of things
-    - form: suo
+    - form: swo
       class: n
       gloss: fatigue; bodily weariness after effort or loss of rest
       field: Heaven, law and the order of things
-    - form: gao
+    - form: gau
       class: n
       gloss: stone; rock, the hard mineral material
       concept: [stone, rock]
@@ -1501,7 +1501,7 @@ data:
       class: n
       gloss: grain; a small discrete particle or speck
       field: Heaven, law and the order of things
-    - form: sie
+    - form: sye
       class: n
       gloss: fiber; a slender strand, including a textile thread
       field: Heaven, law and the order of things
@@ -1510,7 +1510,7 @@ data:
       gloss: sun; the sun seen in the sky
       concept: sun
       field: Sky, land and the elements
-    - form: shuen
+    - form: shwen
       class: n
       gloss: plant; a living thing that grows rooted in the ground
       concept: plant
@@ -1525,7 +1525,7 @@ data:
       gloss: fish; an animal that lives in water and swims with fins
       concept: fish
       field: Sky, land and the elements
-    - form: bie
+    - form: bye
       class: n
       gloss: seed; a reproductive seed of a plant
       concept: seed
@@ -1535,7 +1535,7 @@ data:
       gloss: to strike; to hit with a blow
       concept: hit
       field: Doing and describing
-    - form: tiao
+    - form: tyau
       class: v
       gloss: to change; to turn into a different state or form
       concept: change-verb
@@ -1560,16 +1560,16 @@ data:
       built: [nong, ja, hing, yui, mong, kai]
       concept: invisible
       field: Senses and passions
-    - form: dao yong kai
+    - form: dau yong kai
       class: v
       gloss: to be loud; to have a great volume of sound
-      built: [dao, yong, kai]
+      built: [dau, yong, kai]
       concept: loud
       field: Senses and passions
-    - form: shui yong kai
+    - form: shwi yong kai
       class: v
       gloss: to be quiet; to have a small volume of sound
-      built: [shui, yong, kai]
+      built: [shwi, yong, kai]
       concept: quiet
       field: Senses and passions
     - form: lai fai kai
@@ -1578,34 +1578,34 @@ data:
       built: [lai, fai, kai]
       concept: fragrant
       field: Senses and passions
-    - form: lao fai kai
+    - form: lau fai kai
       class: v
       gloss: to be foul-smelling; to have an unpleasant odor
-      built: [lao, fai, kai]
+      built: [lau, fai, kai]
       concept: foul
       field: Senses and passions
-    - form: no ruo kai
+    - form: no rwo kai
       class: v
       gloss: to be sweet; to have a honey-like flavor
-      built: [no, ruo, kai]
+      built: [no, rwo, kai]
       concept: sweet
       field: Senses and passions
-    - form: nuo ruo kai
+    - form: nwo rwo kai
       class: v
       gloss: to be sour; to have a tart flavor, including fresh sour fruit
-      built: [nuo, ruo, kai]
+      built: [nwo, rwo, kai]
       concept: sour
       field: Senses and passions
-    - form: han ruo kai
+    - form: han rwo kai
       class: v
       gloss: to be bitter; to have the sharp flavor conventionally called pain-flavor
-      built: [han, ruo, kai]
+      built: [han, rwo, kai]
       concept: bitter
       field: Senses and passions
-    - form: bai ruo kai
+    - form: bai rwo kai
       class: v
       gloss: to be salty; to have the flavor of salt
-      built: [bai, ruo, kai]
+      built: [bai, rwo, kai]
       concept: salty
       field: Senses and passions
     - form: hou lo kai
@@ -1614,10 +1614,10 @@ data:
       built: [hou, lo, kai]
       concept: smooth
       field: Senses and passions
-    - form: huen lo kai
+    - form: hwen lo kai
       class: v
       gloss: to be rough; to have an irregular projecting surface
-      built: [huen, lo, kai]
+      built: [hwen, lo, kai]
       concept: rough
       field: Senses and passions
     - form: nai lan
@@ -1650,10 +1650,10 @@ data:
       built: [ta, men]
       concept: stomach
       field: The body
-    - form: wen mao
+    - form: wen mau
       class: n
       gloss: middle of the body; waist between ribs and hips
-      built: [wen, mao]
+      built: [wen, mau]
       concept: waist
       field: The body
     - form: shai ko
@@ -1662,28 +1662,28 @@ data:
       built: [shai, ko]
       concept: spine
       field: The body
-    - form: den muen
+    - form: den mwen
       class: n
       gloss: sitting flesh; a buttock
-      built: [den, muen]
+      built: [den, mwen]
       concept: buttock
       field: The body
-    - form: huo jeng
+    - form: hwo jeng
       class: n
       gloss: hand joint; wrist
-      built: [huo, jeng]
+      built: [hwo, jeng]
       concept: wrist
       field: The body
-    - form: huo men
+    - form: hwo men
       class: n
       gloss: inside of the hand; palm
-      built: [huo, men]
+      built: [hwo, men]
       concept: palm
       field: The body
-    - form: dao ting
+    - form: dau ting
       class: n
       gloss: great finger; thumb, the opposed digit of the hand
-      built: [dao, ting]
+      built: [dau, ting]
       concept: thumb
       field: The body
     - form: nai jo
@@ -1716,16 +1716,16 @@ data:
       built: [dai, ting, wei]
       concept: toenail
       field: The body
-    - form: kiao muen
+    - form: kyau mwen
       class: n
       gloss: strength flesh; muscle tissue that contracts to move the body
-      built: [kiao, muen]
+      built: [kyau, mwen]
       concept: muscle
       field: The body
-    - form: guen muen
+    - form: guen mwen
       class: n
       gloss: soft flesh; bodily fat rather than muscular tissue
-      built: [guen, muen]
+      built: [guen, mwen]
       concept: fat
       field: The body
     - form: lo shou
@@ -1746,10 +1746,10 @@ data:
       built: [tsong, shou]
       concept: saliva
       field: The body
-    - form: hao chou
+    - form: hau chou
       class: n
       gloss: head knowledge; the brain, the organ within the skull
-      built: [hao, chou]
+      built: [hau, chou]
       concept: brain
       field: The body
     - form: lei ren
@@ -1758,16 +1758,16 @@ data:
       built: [lei, ren]
       concept: lung
       field: The body
-    - form: chui gi ren
+    - form: chwi gi ren
       class: n
       gloss: blood-keeping part; the liver, the large organ beneath the ribs
-      built: [chui, gi, ren]
+      built: [chwi, gi, ren]
       concept: liver
       field: The body
-    - form: liao shao ren
+    - form: lyau shau ren
       class: n
       gloss: urine-making part; a kidney, the organ that filters blood and forms urine
-      built: [liao, shao, ren]
+      built: [lyau, shau, ren]
       concept: kidney
       field: The body
     - form: bou dou
@@ -1800,10 +1800,10 @@ data:
       built: [mi, zha, dou]
       concept: vagina
       field: The body
-    - form: chan bie
+    - form: chan bye
       class: n
       gloss: male seed; a testicle, the organ that produces sperm
-      built: [chan, bie]
+      built: [chan, bye]
       concept: testicle
       field: The body
     - form: ta yei tsen
@@ -1860,15 +1860,15 @@ data:
       built: [mong, min]
       concept: awake
       field: Needs and common things
-    - form: zhie bing
+    - form: zhye bing
       class: v
       gloss: to rest; to cease effort for recovery
-      built: [zhie, bing]
+      built: [zhye, bing]
       field: Doing and describing
-    - form: suo kai
+    - form: swo kai
       class: v
       gloss: to be tired; to have bodily fatigue
-      built: [suo, kai]
+      built: [swo, kai]
       concept: tired
       field: Needs and common things
     - form: lo shou zhan
@@ -1877,10 +1877,10 @@ data:
       built: [lo, shou, zhan]
       concept: sweat-verb
       field: Needs and common things
-    - form: dao jin
+    - form: dau jin
       class: n
       gloss: heat; strong warmth, including the heat of a fire or hot weather
-      built: [dao, jin]
+      built: [dau, jin]
       concept: heat
       field: Needs and common things
     - form: fi hi
@@ -1895,16 +1895,16 @@ data:
       built: [jin, kai]
       concept: warm
       field: Needs and common things
-    - form: shui fi
+    - form: shwi fi
       class: adj
       gloss: cool; mildly cold, pleasantly low in temperature. Here small modifies cold in the ordinary modifier-first compound
-      built: [shui, fi]
+      built: [shwi, fi]
       concept: cool
       field: Needs and common things
-    - form: ho tsiao
+    - form: ho tsyau
       class: v
       gloss: to burn; to undergo combustion or be damaged by fire according to the named subject
-      built: [ho, tsiao]
+      built: [ho, tsyau]
       concept: burn
       field: Needs and common things
     - form: lai hou
@@ -1913,10 +1913,10 @@ data:
       built: [lai, hou]
       concept: safety
       field: Needs and common things
-    - form: han juen
+    - form: han jwen
       class: n
       gloss: danger; a source or circumstance of possible harm
-      built: [han, juen]
+      built: [han, jwen]
       concept: danger
       field: Needs and common things
     - form: zha lin
@@ -1925,10 +1925,10 @@ data:
       built: [zha, lin]
       concept: sex
       field: Needs and common things
-    - form: zhei kai chao
+    - form: zhei kai chau
       class: v
       gloss: to conceive; to begin carrying a child in the womb, literally begin having a child
-      built: [zhei, kai, chao]
+      built: [zhei, kai, chau]
       concept: conceive
       field: Needs and common things
     - form: zhei men long
@@ -1955,10 +1955,10 @@ data:
       built: [nen, zhan]
       concept: nurse
       field: Needs and common things
-    - form: kuo fan
+    - form: kwo fan
       class: v
       gloss: to age; to grow older
-      built: [kuo, fan]
+      built: [kwo, fan]
       concept: age-verb
       field: Needs and common things
     - form: sing kai
@@ -1967,69 +1967,69 @@ data:
       built: [sing, kai]
       concept: dead
       field: Needs and common things
-    - form: fie fuo
+    - form: fye fwo
       class: adj
       gloss: injured; unwell from bodily injury rather than from illness alone
-      built: [fie, fuo]
+      built: [fye, fwo]
       concept: injured
       field: The body
-    - form: kiao mie
+    - form: kyau mye
       class: adj
       gloss: strong; full of bodily strength
-      built: [kiao, mie]
+      built: [kyau, mye]
       concept: strong
       field: The body
-    - form: kiao shui
+    - form: kyau shwi
       class: adj
       gloss: weak; small in bodily strength
-      built: [kiao, shui]
+      built: [kyau, shwi]
       concept: weak
       field: The body
-    - form: dao suo kai
+    - form: dau swo kai
       class: v
       gloss: to be exhausted; to have extreme bodily fatigue
-      built: [dao, suo, kai]
+      built: [dau, swo, kai]
       concept: exhausted
       field: The body
-    - form: ta mie
+    - form: ta mye
       class: adj
       gloss: sated; full of food and no longer hungry
-      built: [ta, mie]
+      built: [ta, mye]
       field: Doing and describing
-    - form: fuo fao
+    - form: fwo fau
       class: adj
       gloss: feverish; sick-hot, having a raised bodily temperature from illness
-      built: [fuo, fao]
+      built: [fwo, fau]
       concept: feverish
       field: The body
-    - form: buen han kai
+    - form: bwen han kai
       class: v
       gloss: to ache; to have a persistent dull bodily pain
-      built: [buen, han, kai]
+      built: [bwen, han, kai]
       concept: ache
       field: The body
-    - form: han chie
+    - form: han chye
       class: v
       gloss: to suffer; to experience bodily pain or emotional distress
-      built: [han, chie]
+      built: [han, chye]
       concept: suffer
       field: The body
-    - form: chui zhan
+    - form: chwi zhan
       class: v
       gloss: to bleed; to give off blood from a wound or bodily opening
-      built: [chui, zhan]
+      built: [chwi, zhan]
       concept: bleed
       field: The body
-    - form: fui shao
+    - form: fwi shau
       class: v
       gloss: to heal; to make a person or wound healthy
-      built: [fui, shao]
+      built: [fwi, shau]
       concept: heal
       field: The body
-    - form: fui fan
+    - form: fwi fan
       class: v
       gloss: to recover; to grow healthy again after illness or injury
-      built: [fui, fan]
+      built: [fwi, fan]
       concept: recover
       field: The body
     - form: hing yui mong kai
@@ -2044,34 +2044,34 @@ data:
       built: [ten, yui, mong, kai]
       concept: deaf
       field: The body
-    - form: tuen yui shui
+    - form: twen yui shwi
       class: adj
       gloss: lame; limited in the bodily capacity to walk
-      built: [tuen, yui, shui]
+      built: [twen, yui, shwi]
       concept: lame
       field: The body
-    - form: hi tsing buen
+    - form: hi tsing bwen
       class: v
       gloss: to be conscious; to retain awareness of sensory impressions
-      built: [hi, tsing, buen]
+      built: [hi, tsing, bwen]
       concept: conscious
       field: The body
-    - form: shui nie kai
+    - form: shwi nye kai
       class: v
       gloss: to be young; to have lived few years
-      built: [shui, nie, kai]
+      built: [shwi, nye, kai]
       concept: young
       field: The body
-    - form: chong nie kai
+    - form: chong nye kai
       class: v
       gloss: to be old in age; to have lived many years
-      built: [chong, nie, kai]
+      built: [chong, nye, kai]
       concept: old
       field: The body
-    - form: kuo fan buen
+    - form: kwo fan bwen
       class: v
       gloss: to be aging; to remain in the process of growing old
-      built: [kuo, fan, buen]
+      built: [kwo, fan, bwen]
       concept: aging
       field: The body
     - form: han kai
@@ -2080,10 +2080,10 @@ data:
       built: [han, kai]
       concept: hurt-pain
       field: The body
-    - form: kuo zha zhan
+    - form: kwo zha zhan
       class: n
       gloss: grandparent; an older generation's parent
-      built: [kuo, zha, zhan]
+      built: [kwo, zha, zhan]
       concept: grandparent
       field: Kin
     - form: dong chan zhei
@@ -2110,16 +2110,16 @@ data:
       built: [ken, lin]
       concept: marriage
       field: Kin
-    - form: zhao nong
+    - form: zhau nong
       class: n
       gloss: kin; persons related through family or clan
-      built: [zhao, nong]
+      built: [zhau, nong]
       concept: kin
       field: Kin
-    - form: zhao dou
+    - form: zhau dou
       class: n
       gloss: lineage; the succession or path of family descent
-      built: [zhao, dou]
+      built: [zhau, dou]
       concept: lineage
       field: Kin
     - form: tsi chan
@@ -2152,10 +2152,10 @@ data:
       built: [lin, nong]
       concept: companion
       field: Kin
-    - form: nao nong
+    - form: nau nong
       class: n
       gloss: guest; a visitor received by a household, conventionally the coming person
-      built: [nao, nong]
+      built: [nau, nong]
       concept: guest
       field: Kin
     - form: ken gi nong
@@ -2176,10 +2176,10 @@ data:
       built: [ning, nong]
       concept: follower
       field: Kin
-    - form: ken zhie nong
+    - form: ken zhye nong
       class: n
       gloss: servant; a person doing household work in service to another
-      built: [ken, zhie, nong]
+      built: [ken, zhye, nong]
       concept: servant
       field: Kin
     - form: gen ten nong
@@ -2206,22 +2206,22 @@ data:
       built: [zhong, ren]
       concept: room
       field: Needs and common things
-    - form: men zhuen
+    - form: men zhwen
       class: n
       gloss: ceiling; the inside overhead surface, the interior roof
-      built: [men, zhuen]
+      built: [men, zhwen]
       concept: ceiling
       field: Needs and common things
-    - form: den juo
+    - form: den jwo
       class: n
       gloss: seat; a thing made or used for sitting
-      built: [den, juo]
+      built: [den, jwo]
       concept: seat
       field: Needs and common things
-    - form: kao den mou
+    - form: kau den mou
       class: n
       gloss: bench; a long wooden seat for more than one sitter
-      built: [kao, den, mou]
+      built: [kau, den, mou]
       concept: bench
       field: Needs and common things
     - form: shou ban
@@ -2248,22 +2248,22 @@ data:
       built: [shen, ban]
       concept: bag
       field: Needs and common things
-    - form: tin juo
+    - form: tin jwo
       class: n
       gloss: hammer; a tool made for striking
-      built: [tin, juo]
+      built: [tin, jwo]
       concept: hammer
       field: Needs and common things
-    - form: dao sie
+    - form: dau sye
       class: n
       gloss: rope; a stout cord of twisted fibers
-      built: [dao, sie]
+      built: [dau, sye]
       concept: rope
       field: Needs and common things
-    - form: shui sie
+    - form: shwi sye
       class: n
       gloss: cord; a slender twisted fiber line
-      built: [shui, sie]
+      built: [shwi, sye]
       concept: cord
       field: Needs and common things
     - form: shen ja
@@ -2272,10 +2272,10 @@ data:
       built: [shen, ja]
       concept: needle
       field: Needs and common things
-    - form: ho yao
+    - form: ho yau
       class: n
       gloss: flame; the moving luminous form of burning fire
-      built: [ho, yao]
+      built: [ho, yau]
       concept: flame
       field: Needs and common things
     - form: ho yan
@@ -2290,10 +2290,10 @@ data:
       built: [ho, fin]
       concept: ash
       field: Needs and common things
-    - form: ha ho gao
+    - form: ha ho gau
       class: n
       gloss: coal; black fire-stone used as fuel
-      built: [ha, ho, gao]
+      built: [ha, ho, gau]
       concept: coal
       field: Needs and common things
     - form: hai ho
@@ -2326,10 +2326,10 @@ data:
       built: [shai, shen]
       concept: cloak
       field: Needs and common things
-    - form: wen sie
+    - form: wen sye
       class: n
       gloss: belt; a cord or band worn around the waist
-      built: [wen, sie]
+      built: [wen, sye]
       concept: belt
       field: Needs and common things
     - form: dai lo
@@ -2338,16 +2338,16 @@ data:
       built: [dai, lo]
       concept: shoe
       field: Needs and common things
-    - form: kao dai lo
+    - form: kau dai lo
       class: n
       gloss: boot; a foot covering extending up the leg
-      built: [kao, dai, lo]
+      built: [kau, dai, lo]
       concept: boot
       field: Needs and common things
-    - form: bing juo
+    - form: bing jwo
       class: n
       gloss: barrier; a thing that stops or blocks passage
-      built: [bing, juo]
+      built: [bing, jwo]
       concept: barrier
       field: Needs and common things
     - form: guen tou
@@ -2362,16 +2362,16 @@ data:
       built: [song, lo]
       concept: leather
       field: Needs and common things
-    - form: shui shen sie
+    - form: shwi shen sye
       class: n
       gloss: thread; a fine textile fiber used in sewing or weaving
-      built: [shui, shen, sie]
+      built: [shwi, shen, sye]
       concept: thread
       field: Needs and common things
-    - form: gao fin
+    - form: gau fin
       class: n
       gloss: sand; small loose grains of stone
-      built: [gao, fin]
+      built: [gau, fin]
       concept: sand
       field: Sky, land and the elements
     - form: shou tou
@@ -2392,10 +2392,10 @@ data:
       built: [mong, shou, tou]
       concept: land
       field: Sky, land and the elements
-    - form: shui chai
+    - form: shwi chai
       class: n
       gloss: hill; a small raised landform below the scale of a mountain
-      built: [shui, chai]
+      built: [shwi, chai]
       concept: hill
       field: Sky, land and the elements
     - form: chai men
@@ -2410,10 +2410,10 @@ data:
       built: [hou, tou]
       concept: plain-landform
       field: Sky, land and the elements
-    - form: chong mou shuen
+    - form: chong mou shwen
       class: n
       gloss: forest; a large tract of closely growing trees
-      built: [chong, mou, shuen]
+      built: [chong, mou, shwen]
       concept: forest
       field: Sky, land and the elements
     - form: chai men zhong
@@ -2422,10 +2422,10 @@ data:
       built: [chai, men, zhong]
       concept: cave
       field: Sky, land and the elements
-    - form: shui shou
+    - form: shwi shou
       class: n
       gloss: stream; a small flowing watercourse
-      built: [shui, shou]
+      built: [shwi, shou]
       concept: stream
       field: Sky, land and the elements
     - form: tou men shou
@@ -2446,34 +2446,34 @@ data:
       built: [yan, shou]
       concept: rain
       field: Sky, land and the elements
-    - form: chiao shou
+    - form: chyau shou
       class: n
       gloss: ice; water frozen solid
-      built: [chiao, shou]
+      built: [chyau, shou]
       concept: ice
       field: Sky, land and the elements
-    - form: huen weng
+    - form: hwen weng
       class: n
       gloss: storm; turbulent strong wind, often with rain or thunder
-      built: [huen, weng]
+      built: [hwen, weng]
       concept: storm
       field: Sky, land and the elements
-    - form: mou shuen
+    - form: mou shwen
       class: n
       gloss: tree; a woody plant with a lasting trunk
-      built: [mou, shuen]
+      built: [mou, shwen]
       concept: tree
       field: Sky, land and the elements
-    - form: shuen shen
+    - form: shwen shen
       class: n
       gloss: leaf; plant cloth, the broad thin growth that takes in light
-      built: [shuen, shen]
+      built: [shwen, shen]
       concept: leaf
       field: Sky, land and the elements
-    - form: shuen dai
+    - form: shwen dai
       class: n
       gloss: root; plant foot, the part anchored below ground
-      built: [shuen, dai]
+      built: [shwen, dai]
       concept: root
       field: Sky, land and the elements
     - form: mou bin
@@ -2482,28 +2482,28 @@ data:
       built: [mou, bin]
       concept: branch
       field: Sky, land and the elements
-    - form: luen luo
+    - form: lwen lwo
       class: n
       gloss: fruit; the mature seed-bearing growth that follows a flower
-      built: [luen, luo]
+      built: [lwen, lwo]
       concept: fruit
       field: Sky, land and the elements
-    - form: guen shuen
+    - form: guen shwen
       class: n
       gloss: grass; the slender soft-stemmed plants forming a low ground cover
-      built: [guen, shuen]
+      built: [guen, shwen]
       concept: grass
       field: Sky, land and the elements
-    - form: jou dai shui song
+    - form: jou dai shwi song
       class: n
       gloss: insect; a small six-legged animal
-      built: [jou, dai, shui, song]
+      built: [jou, dai, shwi, song]
       concept: insect
       field: Sky, land and the elements
-    - form: mong dai shui song
+    - form: mong dai shwi song
       class: n
       gloss: worm; the conventional no-foot small animal, a slender soft-bodied crawling creature
-      built: [mong, dai, shui, song]
+      built: [mong, dai, shwi, song]
       concept: worm
       field: Sky, land and the elements
     - form: shou kai
@@ -2536,10 +2536,10 @@ data:
       built: [fi, ring]
       concept: north
       field: Sky, land and the elements
-    - form: fao ring
+    - form: fau ring
       class: n
       gloss: south; the conventional heatward compass direction
-      built: [fao, ring]
+      built: [fau, ring]
       concept: south
       field: Sky, land and the elements
     - form: sha cheng ring
@@ -2559,7 +2559,7 @@ data:
       gloss: I; me, the speaker
       concept: i
       field: Doing and describing
-    - form: shie
+    - form: shye
       class: pron
       gloss: you; the person or persons addressed
       concept: you-reference
@@ -2584,7 +2584,7 @@ data:
       gloss: different; unlike in identity, form or quality
       concept: different
       field: Doing and describing
-    - form: shiao
+    - form: shyau
       class: adj
       gloss: same; identical in identity or in the respect being compared
       concept: same
@@ -2594,12 +2594,12 @@ data:
       gloss: whole; all, the complete thing or the entire relevant set
       concept: [whole, all]
       field: Color and number
-    - form: sui
+    - form: swi
       class: adj
       gloss: more; greater in quantity or degree
       concept: more
       field: Color and number
-    - form: rie
+    - form: rye
       class: adj
       gloss: less; smaller in quantity or degree
       concept: less
@@ -2608,17 +2608,17 @@ data:
       class: part
       gloss: "at; in; on. A place or spatial noun precedes this particle: the house interior followed by this particle means inside the house"
       field: Doing and describing
-    - form: suen
+    - form: swen
       class: part
-      gloss: "from; out of. The source precedes suen: zhong suen, from the house"
+      gloss: "from; out of. The source precedes swen: zhong swen, from the house"
       field: Doing and describing
-    - form: tsuo
+    - form: tswo
       class: part
-      gloss: "to; toward. The goal precedes tsuo: zhong tsuo, toward the house"
+      gloss: "to; toward. The goal precedes tswo: zhong tswo, toward the house"
       field: Doing and describing
-    - form: tsui
+    - form: tswi
       class: part
-      gloss: "than; compared with. The comparison standard precedes tsui: len tsui sui nong means more people than two"
+      gloss: "than; compared with. The comparison standard precedes tswi: len tswi swi nong means more people than two"
       concept: than
       field: Doing and describing
     - form: win
@@ -2640,19 +2640,19 @@ data:
       gloss: or; marking alternatives
       concept: or
       field: Doing and describing
-    - form: tsao
+    - form: tsau
       class: conj
       gloss: but; contrasting the two named items or clauses
       concept: but
       field: Doing and describing
     - form: tso
       class: conj
-      gloss: because; following the cause clause. Yan shou jong tso nong zhong buen means because rain falls, people stay home
+      gloss: because; following the cause clause. Yan shou jong tso nong zhong bwen means because rain falls, people stay home
       concept: because
       field: Doing and describing
-    - form: siao
+    - form: syau
       class: conj
-      gloss: if; following the condition. Yan shou jong siao nong zhong buen means if rain falls, people stay home
+      gloss: if; following the condition. Yan shou jong syau nong zhong bwen means if rain falls, people stay home
       concept: if
       field: Doing and describing
     - form: tsin
@@ -2660,17 +2660,17 @@ data:
       gloss: "what; the unknown person, thing or value asked about. A following noun specifies its kind: tsin nong, what person, asks who"
       concept: [question-what, expression-what]
       field: Doing and describing
-    - form: wao
+    - form: wau
       class: num
       gloss: some; an unspecified nonzero portion or number
       concept: some
       field: Color and number
     - form: wui
       class: part
-      gloss: whether; the closing marker of a yes-or-no question. Shie nao wui means do you come?
+      gloss: whether; the closing marker of a yes-or-no question. Shye nau wui means do you come?
       concept: question-polar
       field: Doing and describing
-    - form: bao
+    - form: bau
       class: call
       gloss: yes; affirmation of a question or acceptance of a proposal
       concept: yes
@@ -2681,10 +2681,10 @@ data:
       built: [mong, wan]
       concept: zero
       field: Color and number
-    - form: chuo fei
+    - form: chwo fei
       class: num
-      gloss: "fourth; rank four in a sequence. Replace fei with any cardinal to name that ordinal: chuo tai, seventh"
-      built: [chuo, fei]
+      gloss: "fourth; rank four in a sequence. Replace fei with any cardinal to name that ordinal: chwo tai, seventh"
+      built: [chwo, fei]
       concept: ordinal-construction
       field: Color and number
     - form: tsan tsan
@@ -2699,22 +2699,22 @@ data:
       built: [ben, so]
       concept: enough
       field: Color and number
-    - form: so tsui sui
+    - form: so tswi swi
       class: adj
-      gloss: most; greater in quantity than all the others in the comparison. So tsui sui ta, the most food, compares the stated portions
-      built: [so, tsui, sui]
+      gloss: most; greater in quantity than all the others in the comparison. So tswi swi ta, the most food, compares the stated portions
+      built: [so, tswi, swi]
       concept: most
       field: Color and number
-    - form: so tsui rie
+    - form: so tswi rye
       class: adj
-      gloss: least; smaller in quantity than all the others in the comparison. So tsui rie ta, the least food, compares the stated portions
-      built: [so, tsui, rie]
+      gloss: least; smaller in quantity than all the others in the comparison. So tswi rye ta, the least food, compares the stated portions
+      built: [so, tswi, rye]
       concept: least
       field: Color and number
-    - form: shiao wan
+    - form: shyau wan
       class: n
-      gloss: an equal quantity; the same count or measure. Shiao wan kai means to have an equal amount
-      built: [shiao, wan]
+      gloss: an equal quantity; the same count or measure. Shyau wan kai means to have an equal amount
+      built: [shyau, wan]
       field: Heaven, law and the order of things
     - form: tsi tsi
       class: num
@@ -2751,10 +2751,10 @@ data:
       built: [bo, ren, kou]
       concept: almost
       field: Color and number
-    - form: shiao wan tsi
+    - form: shyau wan tsi
       class: num
-      gloss: "exactly one; the same tally as one with no excess or shortfall. Replace tsi by the stated number: shiao wan wai nong, exactly ten people"
-      built: [shiao, wan, tsi]
+      gloss: "exactly one; the same tally as one with no excess or shortfall. Replace tsi by the stated number: shyau wan wai nong, exactly ten people"
+      built: [shyau, wan, tsi]
       concept: exactly
       field: Color and number
     - form: ming tsing
@@ -2763,22 +2763,22 @@ data:
       built: [ming, tsing]
       concept: measure-verb
       field: Color and number
-    - form: wan tsiao
+    - form: wan tsyau
       class: v
       gloss: to count; to reckon the number of units in a set
-      built: [wan, tsiao]
+      built: [wan, tsyau]
       concept: count-verb
       field: Color and number
-    - form: shui rin kai
+    - form: shwi rin kai
       class: v
       gloss: to be pale; the conventional have-little-red expression describes a weak or washed-out hue. The whole idiom extends to other hues; bare rin retains red
-      built: [shui, rin, kai]
+      built: [shwi, rin, kai]
       concept: pale
       field: Color and number
-    - form: tsi rin yao kai
+    - form: tsi rin yau kai
       class: v
       gloss: to be plain or unpatterned; the conventional have-one-red-form expression describes a surface of one color without contrasting marks. The whole idiom extends to other hues; bare rin retains red
-      built: [tsi, rin, yao, kai]
+      built: [tsi, rin, yau, kai]
       concept: plain-pattern
       field: Color and number
     - form: rin fin kai
@@ -2787,34 +2787,34 @@ data:
       built: [rin, fin, kai]
       concept: spotted
       field: Color and number
-    - form: kao rin ren kai
+    - form: kau rin ren kai
       class: v
       gloss: to be striped; the conventional have-long-red-portions expression describes a surface with contrasting bands. The whole idiom extends to bands of other hues; bare rin retains red
-      built: [kao, rin, ren, kai]
+      built: [kau, rin, ren, kai]
       concept: striped
       field: Color and number
-    - form: nong kai juo dei
+    - form: nong kai jwo dei
       class: v
       gloss: to belong to a person; to be a person's possessed thing. In this complete predicate, replace nong by the owner
-      built: [nong, kai, juo, dei]
+      built: [nong, kai, jwo, dei]
       concept: belong
       field: Doing and describing
-    - form: yao tiao
+    - form: yau tyau
       class: v
-      gloss: to become; to change into the state or form named. Fui yao tiao means become healthy
-      built: [yao, tiao]
+      gloss: to become; to change into the state or form named. Fwi yau tyau means become healthy
+      built: [yau, tyau]
       concept: become
       field: Doing and describing
-    - form: dou luen
+    - form: dou lwen
       class: v
       gloss: to arrive; to complete the journey to the stated destination
-      built: [dou, luen]
+      built: [dou, lwen]
       concept: arrive
       field: Doing and describing
-    - form: huo dai tuen
+    - form: hwo dai twen
       class: v
       gloss: to crawl; to move on hands and feet
-      built: [huo, dai, tuen]
+      built: [hwo, dai, twen]
       concept: crawl
       field: Doing and describing
     - form: nai cheng
@@ -2829,10 +2829,10 @@ data:
       built: [dai, cheng]
       concept: jump
       field: Doing and describing
-    - form: men nao
+    - form: men nau
       class: v
       gloss: to enter; to come into the interior
-      built: [men, nao]
+      built: [men, nau]
       concept: enter
       field: Doing and describing
     - form: meng rou
@@ -2841,10 +2841,10 @@ data:
       built: [meng, rou]
       concept: exit
       field: Doing and describing
-    - form: kuo chai nao
+    - form: kwo chai nau
       class: v
       gloss: to return; to come to the place one occupied before
-      built: [kuo, chai, nao]
+      built: [kwo, chai, nau]
       concept: return
       field: Doing and describing
     - form: ning rou
@@ -2859,16 +2859,16 @@ data:
       built: [neng, rou]
       concept: lead
       field: Doing and describing
-    - form: chai tiao
+    - form: chai tyau
       class: v
       gloss: to move; to change location
-      built: [chai, tiao]
+      built: [chai, tyau]
       concept: move
       field: Doing and describing
-    - form: huo tsei tsuo hai
+    - form: hwo tsei tswo hai
       class: v
       gloss: to pull; to draw something toward oneself with hand or body
-      built: [huo, tsei, tsuo, hai]
+      built: [hwo, tsei, tswo, hai]
       concept: pull
       field: Doing and describing
     - form: nai hai
@@ -2889,45 +2889,45 @@ data:
       built: [meng, cha]
       concept: throw
       field: Doing and describing
-    - form: jong juo dui
+    - form: jong jwo dwi
       class: v
       gloss: to catch; to take a falling or flying object into one's grasp
-      built: [jong, juo, dui]
+      built: [jong, jwo, dwi]
       concept: catch
       field: Doing and describing
-    - form: zhong shao
+    - form: zhong shau
       class: v
       gloss: to build; to make a structure. Zhong, dwelling, gives the ordinary construction example and can be replaced by the structure named
-      built: [zhong, shao]
+      built: [zhong, shau]
       concept: build
       field: Doing and describing
-    - form: shui juo shao
+    - form: shwi jwo shau
       class: v
       gloss: to create; to make a new thing
-      built: [shui, juo, shao]
+      built: [shwi, jwo, shau]
       concept: create
       field: Doing and describing
-    - form: so kie
+    - form: so kye
       class: v
       gloss: to break; to separate a whole into damaged parts
-      built: [so, kie]
+      built: [so, kye]
       concept: break
       field: Doing and describing
-    - form: yao mong shao
+    - form: yau mong shau
       class: v
       gloss: to destroy; to make the existing form cease to be, the conventional unmaking expression
-      built: [yao, mong, shao]
+      built: [yau, mong, shau]
       concept: destroy
       field: Doing and describing
-    - form: lai yao shao
+    - form: lai yau shau
       class: v
       gloss: to repair; to make a damaged thing's form good again
-      built: [lai, yao, shao]
+      built: [lai, yau, shau]
       concept: repair
       field: Doing and describing
     - form: nong ya
       class: v
-      gloss: to tell someone; to direct a statement to a person. In tseng shie juo ya, I tell you the matter, the addressee and matter stand before ya
+      gloss: to tell someone; to direct a statement to a person. In tseng shye jwo ya, I tell you the matter, the addressee and matter stand before ya
       built: [nong, ya]
       concept: tell
       field: Doing and describing
@@ -2937,34 +2937,34 @@ data:
       built: [tsin, ya]
       concept: ask
       field: Doing and describing
-    - form: riao ya
+    - form: ryau ya
       class: v
       gloss: to call; to say someone's name to summon their attention
-      built: [riao, ya]
+      built: [ryau, ya]
       concept: call
       field: Doing and describing
-    - form: dao yong tsuen
+    - form: dau yong tswen
       class: v
       gloss: to shout; to speak with a great volume of voice
-      built: [dao, yong, tsuen]
+      built: [dau, yong, tswen]
       concept: shout
       field: Doing and describing
-    - form: shui yong tsuen
+    - form: shwi yong tswen
       class: v
       gloss: to whisper; to speak with a deliberately low voice
-      built: [shui, yong, tsuen]
+      built: [shwi, yong, tswen]
       concept: whisper
       field: Doing and describing
-    - form: juen ya
+    - form: jwen ya
       class: v
       gloss: to explain; to state the reason or account that makes a matter understandable
-      built: [juen, ya]
+      built: [jwen, ya]
       concept: explain
       field: Doing and describing
-    - form: riao zhan
+    - form: ryau zhan
       class: v
       gloss: to name; to give a name to a person or thing
-      built: [riao, zhan]
+      built: [ryau, zhan]
       concept: name-verb
       field: Doing and describing
     - form: heng yeng kai
@@ -2973,28 +2973,28 @@ data:
       built: [heng, yeng, kai]
       concept: believe
       field: Doing and describing
-    - form: juen tsing
+    - form: jwen tsing
       class: v
       gloss: to understand; to know how or why a matter fits together
-      built: [juen, tsing]
+      built: [jwen, tsing]
       concept: understand
       field: Doing and describing
-    - form: kuo chou gi
+    - form: kwo chou gi
       class: v
       gloss: to remember; to retain prior knowledge in the mind
-      built: [kuo, chou, gi]
+      built: [kwo, chou, gi]
       concept: remember
       field: Doing and describing
-    - form: kuo chou shin
+    - form: kwo chou shin
       class: v
       gloss: to forget; to lose prior knowledge from memory
-      built: [kuo, chou, shin]
+      built: [kwo, chou, shin]
       concept: forget
       field: Doing and describing
-    - form: shui chou dui
+    - form: shwi chou dwi
       class: v
       gloss: to learn; to acquire new knowledge
-      built: [shui, chou, dui]
+      built: [shwi, chou, dwi]
       concept: learn
       field: Doing and describing
     - form: chou zhan
@@ -3003,16 +3003,16 @@ data:
       built: [chou, zhan]
       concept: teach
       field: Doing and describing
-    - form: jiao ra
+    - form: jyau ra
       class: v
       gloss: to decide; to set a deliberate intention after considering a matter
-      built: [jiao, ra]
+      built: [jyau, ra]
       concept: decide
       field: Doing and describing
-    - form: mei shao
+    - form: mei shau
       class: v
       gloss: to imagine; to make a dream-like image or possibility in thought without asserting it as fact
-      built: [mei, shao]
+      built: [mei, shau]
       concept: imagine
       field: Doing and describing
     - form: lengtsen kai
@@ -3021,34 +3021,34 @@ data:
       built: [leng, tsen, kai]
       concept: hope-verb
       field: Doing and describing
-    - form: jiao kai
+    - form: jyau kai
       class: v
       gloss: to intend; to hold a deliberate aim to act
-      built: [jiao, kai]
+      built: [jyau, kai]
       concept: intend
       field: Doing and describing
-    - form: len tsi dui
+    - form: len tsi dwi
       class: v
       gloss: to choose; to take one of two or more alternatives. Len gives a pair as the ordinary example
-      built: [len, tsi, dui]
+      built: [len, tsi, dwi]
       concept: choose
       field: Doing and describing
-    - form: sui yei
+    - form: swi yei
       class: v
       gloss: to prefer; to want the named alternative more than another
-      built: [sui, yei]
+      built: [swi, yei]
       concept: prefer
       field: Doing and describing
-    - form: zhie chao
+    - form: zhye chau
       class: v
       gloss: to try; to begin an effort toward an intended act without claiming success
-      built: [zhie, chao]
+      built: [zhye, chau]
       concept: try
       field: Doing and describing
-    - form: lin nao
+    - form: lin nau
       class: v
       gloss: to meet; to come into company with another
-      built: [lin, nao]
+      built: [lin, nau]
       concept: meet
       field: Doing and describing
     - form: ren zhan
@@ -3057,22 +3057,22 @@ data:
       built: [ren, zhan]
       concept: share
       field: Doing and describing
-    - form: ging zhan dui
+    - form: ging zhan dwi
       class: v
       gloss: to buy; to take goods by giving their price
-      built: [ging, zhan, dui]
+      built: [ging, zhan, dwi]
       concept: buy
       field: Doing and describing
-    - form: ging dui zhan
+    - form: ging dwi zhan
       class: v
       gloss: to sell; to give goods by receiving their price
-      built: [ging, dui, zhan]
+      built: [ging, dwi, zhan]
       concept: sell
       field: Doing and describing
-    - form: jiao ya gi
+    - form: jyau ya gi
       class: v
       gloss: to promise; to state an intention and undertake to keep it
-      built: [jiao, ya, gi]
+      built: [jyau, ya, gi]
       concept: promise-verb
       field: Doing and describing
     - form: zhan chou ya
@@ -3087,10 +3087,10 @@ data:
       built: [mong, yei, ya]
       concept: refuse-verb
       field: Doing and describing
-    - form: shiao yeng ya
+    - form: shyau yeng ya
       class: v
       gloss: to agree; to say that one holds the same view or accepts the same proposal
-      built: [shiao, yeng, ya]
+      built: [shyau, yeng, ya]
       concept: agree-verb
       field: Doing and describing
     - form: din tin
@@ -3099,10 +3099,10 @@ data:
       built: [din, tin]
       concept: fight
       field: Doing and describing
-    - form: sing shao
+    - form: sing shau
       class: v
       gloss: to kill; to cause death
-      built: [sing, shao]
+      built: [sing, shau]
       concept: kill
       field: Doing and describing
     - form: neng tin
@@ -3111,22 +3111,22 @@ data:
       built: [neng, tin]
       concept: attack
       field: Doing and describing
-    - form: chin ruen
+    - form: chin rwen
       class: v
       gloss: to flee; to run away from a feared danger
-      built: [chin, ruen]
+      built: [chin, rwen]
       concept: flee
       field: Doing and describing
-    - form: han jiao ya
+    - form: han jyau ya
       class: v
       gloss: to threaten; to state an intention to cause harm
-      built: [han, jiao, ya]
+      built: [han, jyau, ya]
       concept: threaten
       field: Doing and describing
-    - form: zhie buen
+    - form: zhye bwen
       class: v
       gloss: to continue; to keep an act or undertaking going
-      built: [zhie, buen]
+      built: [zhye, bwen]
       concept: continue
       field: Doing and describing
     - form: jojeng nan ra
@@ -3135,10 +3135,10 @@ data:
       built: [jo, jeng, nan, ra]
       concept: kneel
       field: Doing and describing
-    - form: jeng yao shao
+    - form: jeng yau shau
       class: v
       gloss: to bend; to make an angled or curved shape like a bent joint
-      built: [jeng, yao, shao]
+      built: [jeng, yau, shau]
       concept: bend
       field: Doing and describing
     - form: ring den
@@ -3153,10 +3153,10 @@ data:
       built: [nai, shen, ra]
       concept: cover-verb
       field: Doing and describing
-    - form: nai shen kie
+    - form: nai shen kye
       class: v
       gloss: to uncover; to part a cloth or other covering from what lies below it
-      built: [nai, shen, kie]
+      built: [nai, shen, kye]
       concept: uncover
       field: Doing and describing
     - form: ha ra
@@ -3195,10 +3195,10 @@ data:
       built: [shei, chai, san]
       concept: there
       field: Doing and describing
-    - form: wao chai san
+    - form: wau chai san
       class: part
       gloss: at some place; somewhere
-      built: [wao, chai, san]
+      built: [wau, chai, san]
       concept: somewhere
       field: Doing and describing
     - form: mong chai san
@@ -3219,10 +3219,10 @@ data:
       built: [kou, ming, san]
       concept: near
       field: Doing and describing
-    - form: kao ming san
+    - form: kau ming san
       class: part
       gloss: at a long distance; far
-      built: [kao, ming, san]
+      built: [kau, ming, san]
       concept: far
       field: Doing and describing
     - form: ring san
@@ -3255,16 +3255,16 @@ data:
       built: [nan, san]
       concept: below
       field: Doing and describing
-    - form: zhuen nan san
+    - form: zhwen nan san
       class: part
-      gloss: beneath the roof; under. The thing above replaces zhuen as needed
-      built: [zhuen, nan, san]
+      gloss: beneath the roof; under. The thing above replaces zhwen as needed
+      built: [zhwen, nan, san]
       concept: under
       field: Doing and describing
-    - form: zhuen nai san
+    - form: zhwen nai san
       class: part
-      gloss: above the roof; over. The thing below replaces zhuen as needed
-      built: [zhuen, nai, san]
+      gloss: above the roof; over. The thing below replaces zhwen as needed
+      built: [zhwen, nai, san]
       concept: over
       field: Doing and describing
     - form: men san
@@ -3315,40 +3315,40 @@ data:
       built: [wen, san]
       concept: center
       field: Doing and describing
-    - form: nai tsuo
+    - form: nai tswo
       class: part
       gloss: toward the upper region; up
-      built: [nai, tsuo]
+      built: [nai, tswo]
       concept: up
       field: Doing and describing
-    - form: nan tsuo
+    - form: nan tswo
       class: part
       gloss: toward the lower region; down
-      built: [nan, tsuo]
+      built: [nan, tswo]
       concept: down
       field: Doing and describing
-    - form: neng tsuo
+    - form: neng tswo
       class: part
       gloss: toward the front; forward
-      built: [neng, tsuo]
+      built: [neng, tswo]
       concept: forward
       field: Doing and describing
-    - form: ning tsuo
+    - form: ning tswo
       class: part
       gloss: toward the rear; backward
-      built: [ning, tsuo]
+      built: [ning, tswo]
       concept: backward
       field: Doing and describing
-    - form: zhong tsuo
+    - form: zhong tswo
       class: part
       gloss: toward the house. Replace zhong by the goal named
-      built: [zhong, tsuo]
+      built: [zhong, tswo]
       concept: toward
       field: Doing and describing
-    - form: zhong suen
+    - form: zhong swen
       class: part
       gloss: away from the house. Replace zhong by the point of departure
-      built: [zhong, suen]
+      built: [zhong, swen]
       concept: away
       field: Doing and describing
     - form: men dou san
@@ -3357,10 +3357,10 @@ data:
       built: [men, dou, san]
       concept: through
       field: Doing and describing
-    - form: sheng ring tsuo
+    - form: sheng ring tswo
       class: part
-      gloss: toward the other side; across. Shou sheng ring tsuo means across the river
-      built: [sheng, ring, tsuo]
+      gloss: toward the other side; across. Shou sheng ring tswo means across the river
+      built: [sheng, ring, tswo]
       concept: across
       field: Doing and describing
     - form: so ring san
@@ -3387,22 +3387,22 @@ data:
       built: [zhong, san]
       concept: at
       field: Doing and describing
-    - form: chai suen
+    - form: chai swen
       class: part
       gloss: from the place named. A particular source replaces chai
-      built: [chai, suen]
+      built: [chai, swen]
       concept: from
       field: Doing and describing
-    - form: chai tsuo
+    - form: chai tswo
       class: part
       gloss: to the place named. A particular goal replaces chai
-      built: [chai, tsuo]
+      built: [chai, tswo]
       concept: to
       field: Doing and describing
-    - form: chai nuen
+    - form: chai nwen
       class: n
       gloss: position; the particular point a person or thing occupies
-      built: [chai, nuen]
+      built: [chai, nwen]
       concept: position
       field: Heaven, law and the order of things
     - form: sha long
@@ -3513,16 +3513,16 @@ data:
       built: [min, yen, men, san]
       concept: while
       field: Heaven, law and the order of things
-    - form: yen reng tsuo
+    - form: yen reng tswo
       class: part
-      gloss: until; toward the limit of an occasion. Sha jong yen reng tsuo tseng zhie tsiao means I work until sunset
-      built: [yen, reng, tsuo]
+      gloss: until; toward the limit of an occasion. Sha jong yen reng tswo tseng zhye tsyau means I work until sunset
+      built: [yen, reng, tswo]
       concept: until
       field: Heaven, law and the order of things
-    - form: yen reng suen
+    - form: yen reng swen
       class: part
-      gloss: since; from the boundary of an occasion. Sha cheng yen reng suen tseng zhie tsiao means I work from sunrise onward
-      built: [yen, reng, suen]
+      gloss: since; from the boundary of an occasion. Sha cheng yen reng swen tseng zhye tsyau means I work from sunrise onward
+      built: [yen, reng, swen]
       concept: since-time
       field: Heaven, law and the order of things
     - form: so yen
@@ -3537,10 +3537,10 @@ data:
       built: [chong, yen]
       concept: often
       field: Heaven, law and the order of things
-    - form: wao yen
+    - form: wau yen
       class: n
       gloss: sometimes; on some occasions
-      built: [wao, yen]
+      built: [wau, yen]
       concept: sometimes
       field: Heaven, law and the order of things
     - form: bo yen
@@ -3555,10 +3555,10 @@ data:
       built: [mong, yen]
       concept: never
       field: Heaven, law and the order of things
-    - form: kao long
+    - form: kau long
       class: n
       gloss: a long duration; a long time
-      built: [kao, long]
+      built: [kau, long]
       concept: long-duration
       field: Heaven, law and the order of things
     - form: kou long
@@ -3567,16 +3567,16 @@ data:
       built: [kou, long]
       concept: short-duration
       field: Heaven, law and the order of things
-    - form: shui kou long
+    - form: shwi kou long
       class: n
       gloss: a very brief duration; a small short time
-      built: [shui, kou, long]
+      built: [shwi, kou, long]
       concept: brief-duration
       field: Heaven, law and the order of things
-    - form: kao buen long
+    - form: kau bwen long
       class: n
       gloss: a lasting duration; time that remains long
-      built: [kao, buen, long]
+      built: [kau, bwen, long]
       concept: lasting-duration
       field: Heaven, law and the order of things
     - form: ning tsi yen
@@ -3603,22 +3603,22 @@ data:
       built: [yen, yen]
       concept: repeatedly
       field: Heaven, law and the order of things
-    - form: neng yen luen
+    - form: neng yen lwen
       class: v
-      gloss: already; completed by an earlier occasion. Ta sho neng yen luen states that eating is already completed
-      built: [neng, yen, luen]
+      gloss: already; completed by an earlier occasion. Ta sho neng yen lwen states that eating is already completed
+      built: [neng, yen, lwen]
       concept: already
       field: Heaven, law and the order of things
-    - form: wie yen buen
+    - form: wie yen bwen
       class: v
-      gloss: still; remaining so at this moment. Zhong wie yen buen states that someone still stays home
-      built: [wie, yen, buen]
+      gloss: still; remaining so at this moment. Zhong wie yen bwen states that someone still stays home
+      built: [wie, yen, bwen]
       concept: still
       field: Heaven, law and the order of things
-    - form: wie yen mong luen
+    - form: wie yen mong lwen
       class: v
-      gloss: yet in a negative statement; not completed by this moment. Ta sho wie yen mong luen means the eating is not finished yet
-      built: [wie, yen, mong, luen]
+      gloss: yet in a negative statement; not completed by this moment. Ta sho wie yen mong lwen means the eating is not finished yet
+      built: [wie, yen, mong, lwen]
       concept: yet
       field: Heaven, law and the order of things
     - form: kou long ning yen
@@ -3645,10 +3645,10 @@ data:
       built: [reng, ning, yen]
       concept: late
       field: Heaven, law and the order of things
-    - form: chuo tsi yen
+    - form: chwo tsi yen
       class: n
       gloss: first in sequence; on the occasion ranked one
-      built: [chuo, tsi, yen]
+      built: [chwo, tsi, yen]
       concept: first-sequence
       field: Heaven, law and the order of things
     - form: ning tsi
@@ -3663,16 +3663,16 @@ data:
       built: [reng, yen]
       concept: last
       field: Heaven, law and the order of things
-    - form: luen yen
+    - form: lwen yen
       class: n
       gloss: finally; on the completing occasion
-      built: [luen, yen]
+      built: [lwen, yen]
       concept: finally
       field: Heaven, law and the order of things
-    - form: nie ren
+    - form: nye ren
       class: n
       gloss: season; a recurring part of the year
-      built: [nie, ren]
+      built: [nye, ren]
       concept: season
       field: Heaven, law and the order of things
     - form: leng yen
@@ -3681,22 +3681,22 @@ data:
       built: [leng, yen]
       concept: dawn
       field: Heaven, law and the order of things
-    - form: ha chao yen
+    - form: ha chau yen
       class: n
       gloss: dusk; the occasion when darkness begins
-      built: [ha, chao, yen]
+      built: [ha, chau, yen]
       concept: dusk
       field: Heaven, law and the order of things
-    - form: tseng juo
+    - form: tseng jwo
       class: n
       gloss: "my thing; mine. Tseng, the speaker, before any possessed noun gives my: tseng zhong, my home"
-      built: [tseng, juo]
+      built: [tseng, jwo]
       concept: my
       field: Heaven, law and the order of things
-    - form: shie juo
+    - form: shye jwo
       class: n
-      gloss: "your thing; yours. Shie before any possessed noun gives your: shie zhong, your home"
-      built: [shie, juo]
+      gloss: "your thing; yours. Shye before any possessed noun gives your: shye zhong, your home"
+      built: [shye, jwo]
       concept: your
       field: Heaven, law and the order of things
     - form: shei chan
@@ -3711,10 +3711,10 @@ data:
       built: [shei, mi]
       concept: she
       field: Heaven, law and the order of things
-    - form: shei juo
+    - form: shei jwo
       class: n
       gloss: it; that thing already indicated
-      built: [shei, juo]
+      built: [shei, jwo]
       concept: it
       field: Heaven, law and the order of things
     - form: shei tsou
@@ -3729,16 +3729,16 @@ data:
       built: [tseng, tsou]
       concept: we
       field: Heaven, law and the order of things
-    - form: tseng tsou juo
+    - form: tseng tsou jwo
       class: n
       gloss: our thing; ours. Tseng tsou before any possessed noun marks the speaker's group as possessor
-      built: [tseng, tsou, juo]
+      built: [tseng, tsou, jwo]
       concept: our
       field: Heaven, law and the order of things
-    - form: wao nong
+    - form: wau nong
       class: n
       gloss: someone; an unspecified person
-      built: [wao, nong]
+      built: [wau, nong]
       concept: someone
       field: Heaven, law and the order of things
     - form: tsi nong tsa sheng nong
@@ -3759,22 +3759,22 @@ data:
       built: [mong, nong]
       concept: no-one
       field: Heaven, law and the order of things
-    - form: wao juo
+    - form: wau jwo
       class: n
       gloss: something; an unspecified thing
-      built: [wao, juo]
+      built: [wau, jwo]
       concept: something
       field: Heaven, law and the order of things
-    - form: tsi juo tsa sheng juo
+    - form: tsi jwo tsa sheng jwo
       class: n
       gloss: anything; one thing or another, without restriction on which thing
-      built: [tsi, juo, tsa, sheng, juo]
+      built: [tsi, jwo, tsa, sheng, jwo]
       concept: anything
       field: Heaven, law and the order of things
-    - form: so juo
+    - form: so jwo
       class: n
       gloss: everything; all things in the stated domain
-      built: [so, juo]
+      built: [so, jwo]
       concept: everything
       field: Heaven, law and the order of things
     - form: sheng tsi
@@ -3785,43 +3785,43 @@ data:
       field: Heaven, law and the order of things
     - form: tsin nong
       class: n
-      gloss: who; what person. Tsin nong nao means who comes?
+      gloss: who; what person. Tsin nong nau means who comes?
       built: [tsin, nong]
       concept: question-who
       field: Heaven, law and the order of things
-    - form: tsin juo
+    - form: tsin jwo
       class: n
-      gloss: which thing; which one among the alternatives. Shie tsin juo yei means which thing do you want?
-      built: [tsin, juo]
+      gloss: which thing; which one among the alternatives. Shye tsin jwo yei means which thing do you want?
+      built: [tsin, jwo]
       concept: question-which
       field: Heaven, law and the order of things
     - form: tsin chai
       class: n
-      gloss: where; what place. Shie tsin chai san buen means where do you stay?
+      gloss: where; what place. Shye tsin chai san bwen means where do you stay?
       built: [tsin, chai]
       concept: question-where
       field: Heaven, law and the order of things
     - form: tsin yen
       class: n
-      gloss: when; what occasion. Shie tsin yen nao means when do you come?
+      gloss: when; what occasion. Shye tsin yen nau means when do you come?
       built: [tsin, yen]
       concept: question-when
       field: Heaven, law and the order of things
-    - form: tsin juen
+    - form: tsin jwen
       class: n
-      gloss: why; what cause or reason. Shie tsin juen san fing means for what reason do you leave?
-      built: [tsin, juen]
+      gloss: why; what cause or reason. Shye tsin jwen san fing means for what reason do you leave?
+      built: [tsin, jwen]
       concept: question-why
       field: Heaven, law and the order of things
     - form: tsin dou
       class: n
-      gloss: how; by what path or method. Shie tsin dou san zhie tsiao means how do you do the work?
+      gloss: how; by what path or method. Shye tsin dou san zhye tsyau means how do you do the work?
       built: [tsin, dou]
       concept: question-how
       field: Heaven, law and the order of things
     - form: tsin wan
       class: n
-      gloss: how many; how much, the count or measured quantity asked about. Shie tsin wan ja kai asks how many blades you have; shie tsin wan shou kai asks how much water you have
+      gloss: how many; how much, the count or measured quantity asked about. Shye tsin wan ja kai asks how many blades you have; shye tsin wan shou kai asks how much water you have
       built: [tsin, wan]
       concept: [question-how-many, question-how-much]
       field: Heaven, law and the order of things
@@ -3830,29 +3830,29 @@ data:
       gloss: whose blade; a possessor-first noun phrase. Replace ja by the possessed thing
       built: [tsin, nong, ja]
       field: Heaven, law and the order of things
-    - form: tsin nong tsuo
+    - form: tsin nong tswo
       class: part
-      gloss: to whom; toward what person. Shie ta tsin nong tsuo zhan means to whom do you give food?
-      built: [tsin, nong, tsuo]
+      gloss: to whom; toward what person. Shye ta tsin nong tswo zhan means to whom do you give food?
+      built: [tsin, nong, tswo]
       concept: question-to-whom
       field: Doing and describing
-    - form: tsin chai suen
+    - form: tsin chai swen
       class: part
-      gloss: from where; from what place. Shie tsin chai suen nao means from where do you come?
-      built: [tsin, chai, suen]
+      gloss: from where; from what place. Shye tsin chai swen nau means from where do you come?
+      built: [tsin, chai, swen]
       concept: question-from-where
       field: Doing and describing
-    - form: tsin jiao wing
+    - form: tsin jyau wing
       class: part
-      gloss: for what purpose; for the sake of what aim. Shie tsin jiao wing zhie tsiao means for what purpose do you do the work?
-      built: [tsin, jiao, wing]
+      gloss: for what purpose; for the sake of what aim. Shye tsin jyau wing zhye tsyau means for what purpose do you do the work?
+      built: [tsin, jyau, wing]
       concept: question-for-what-purpose
       field: Doing and describing
-    - form: hie
+    - form: hye
       class: n
       gloss: possibility; a chance that an event can occur, independent of anyone's ability or permission
       field: Heaven, law and the order of things
-    - form: hiao
+    - form: hyau
       class: n
       gloss: evidence; an observation or account that supports a claim
       field: Heaven, law and the order of things
@@ -3860,7 +3860,7 @@ data:
       class: n
       gloss: duty; obligation to perform an act
       field: Heaven, law and the order of things
-    - form: buo
+    - form: bwo
       class: adj
       gloss: false; untrue; unreal when describing an apparent thing that does not exist
       concept: ["false", unreal]
@@ -3881,22 +3881,22 @@ data:
       built: [mong, dei]
       concept: no
       field: Doing and describing
-    - form: nong mong nao
+    - form: nong mong nau
       class: v
-      gloss: a person does not come; a complete clause showing not before the denied verb. Replace nong nao by the subject and act being denied
-      built: [nong, mong, nao]
+      gloss: a person does not come; a complete clause showing not before the denied verb. Replace nong nau by the subject and act being denied
+      built: [nong, mong, nau]
       concept: not
       field: Doing and describing
-    - form: heng juo
+    - form: heng jwo
       class: n
       gloss: truth; what actually is the case, a true matter
-      built: [heng, juo]
+      built: [heng, jwo]
       concept: truth
       field: Heaven, law and the order of things
-    - form: jiao buo ya chou
+    - form: jyau bwo ya chou
       class: n
       gloss: a lie; an account deliberately spoken falsely with the intention of making the hearer believe it true, deceiving them
-      built: [jiao, buo, ya, chou]
+      built: [jyau, bwo, ya, chou]
       concept: lie-noun
       field: Heaven, law and the order of things
     - form: heng tsen
@@ -3916,22 +3916,22 @@ data:
       built: [fo, kai]
       concept: [certainly, certain]
       field: Doing and describing
-    - form: hie kai
+    - form: hye kai
       class: v
       gloss: perhaps; the event has a possibility of occurring
-      built: [hie, kai]
+      built: [hye, kai]
       concept: [perhaps, possible]
       field: Doing and describing
-    - form: sui hie kai
+    - form: swi hye kai
       class: v
       gloss: probably; the event has the greater chance, the conventional expression for being more likely to happen than not
-      built: [sui, hie, kai]
+      built: [swi, hye, kai]
       concept: probably
       field: Doing and describing
-    - form: bo hie kai
+    - form: bo hye kai
       class: v
       gloss: to be unlikely; to have only a small chance of occurring
-      built: [bo, hie, kai]
+      built: [bo, hye, kai]
       concept: unlikely
       field: Doing and describing
     - form: fo mong kai
@@ -3940,10 +3940,10 @@ data:
       built: [fo, mong, kai]
       concept: [uncertain, doubt-verb]
       field: Doing and describing
-    - form: yao san
+    - form: yau san
       class: part
-      gloss: apparently; according to outward appearance. Yao san fui dei means apparently the person is healthy
-      built: [yao, san]
+      gloss: apparently; according to outward appearance. Yau san fwi dei means apparently the person is healthy
+      built: [yau, san]
       concept: apparently
       field: Doing and describing
     - form: nong ya chou san
@@ -3952,39 +3952,39 @@ data:
       built: [nong, ya, chou, san]
       concept: supposedly
       field: Doing and describing
-    - form: heng juo san
+    - form: heng jwo san
       class: part
-      gloss: in fact; according to what actually is the case; really; truly; genuinely, asserting actual reality rather than pretense. Heng juo san tseng fui dei means I am truly healthy
-      built: [heng, juo, san]
+      gloss: in fact; according to what actually is the case; really; truly; genuinely, asserting actual reality rather than pretense. Heng jwo san tseng fwi dei means I am truly healthy
+      built: [heng, jwo, san]
       concept: [in-fact, sincerity]
       field: Doing and describing
-    - form: lao juo hie yeng kai
+    - form: lau jwo hye yeng kai
       class: v
       gloss: to suspect; to hold the thought that a bad matter may be true, without claiming certainty
-      built: [lao, juo, hie, yeng, kai]
+      built: [lau, jwo, hye, yeng, kai]
       field: Doing and describing
-    - form: shui hiao heng yeng shao
+    - form: shwi hyau heng yeng shau
       class: v
       gloss: to guess; to form a belief with little supporting evidence
-      built: [shui, hiao, heng, yeng, shao]
+      built: [shwi, hyau, heng, yeng, shau]
       concept: guess-verb
       field: Doing and describing
-    - form: hiao mong kai heng yeng kai
+    - form: hyau mong kai heng yeng kai
       class: v
       gloss: to assume; the conventional have-no-evidence, hold-as-true expression for taking a premise as true without establishing it
-      built: [hiao, mong, kai, heng, yeng, kai]
+      built: [hyau, mong, kai, heng, yeng, kai]
       concept: assume-verb
       field: Doing and describing
-    - form: heng yao kai
+    - form: heng yau kai
       class: v
       gloss: to be correct; to have the form that fits the fact, answer or standard being checked
-      built: [heng, yao, kai]
+      built: [heng, yau, kai]
       concept: correct
       field: Doing and describing
-    - form: buo yao kai
+    - form: bwo yau kai
       class: v
       gloss: to be incorrect; to have a form that does not fit the fact, answer or standard being checked
-      built: [buo, yao, kai]
+      built: [bwo, yau, kai]
       concept: incorrect
       field: Doing and describing
     - form: shong yeng ya
@@ -3993,10 +3993,10 @@ data:
       built: [shong, yeng, ya]
       concept: disagree
       field: Doing and describing
-    - form: buo chou
+    - form: bwo chou
       class: n
       gloss: falsehood; an untrue account or proposition, whether mistaken or deliberately deceptive
-      built: [buo, chou]
+      built: [bwo, chou]
       concept: falsehood
       field: Heaven, law and the order of things
     - form: mong wie wi mong shei
@@ -4005,10 +4005,10 @@ data:
       built: [mong, wie, wi, mong, shei]
       concept: [nor, neither-alternative]
       field: Doing and describing
-    - form: wie juen san
+    - form: wie jwen san
       class: part
-      gloss: therefore; for this reason. Wie juen san tseng fing means therefore I leave
-      built: [wie, juen, san]
+      gloss: therefore; for this reason. Wie jwen san tseng fing means therefore I leave
+      built: [wie, jwen, san]
       concept: therefore
       field: Doing and describing
     - form: shei yen san
@@ -4017,22 +4017,22 @@ data:
       built: [shei, yen, san]
       concept: then-conditional
       field: Doing and describing
-    - form: mong dei siao
+    - form: mong dei syau
       class: conj
-      gloss: unless; if it is not so. Yan shou jong mong dei siao tseng rou means unless rain falls, I go
-      built: [mong, dei, siao]
+      gloss: unless; if it is not so. Yan shou jong mong dei syau tseng rou means unless rain falls, I go
+      built: [mong, dei, syau]
       concept: unless
       field: Doing and describing
-    - form: sheng yao san
+    - form: sheng yau san
       class: part
       gloss: otherwise; in the other case or manner
-      built: [sheng, yao, san]
+      built: [sheng, yau, san]
       concept: otherwise
       field: Doing and describing
-    - form: heng dei tsao
+    - form: heng dei tsau
       class: conj
-      gloss: although; it is so, but. Yan shou jong heng dei tsao tseng rou means although rain falls, I go
-      built: [heng, dei, tsao]
+      gloss: although; it is so, but. Yan shou jong heng dei tsau tseng rou means although rain falls, I go
+      built: [heng, dei, tsau]
       concept: although
       field: Doing and describing
     - form: sheng yeng san
@@ -4047,10 +4047,10 @@ data:
       built: [shei, gi]
       concept: nevertheless
       field: Doing and describing
-    - form: shei juo kai tsao
+    - form: shei jwo kai tsau
       class: conj
-      gloss: despite that matter; that circumstance is present, but. Yan shou jong juo kai tsao tseng rou means despite the rain falling, I go
-      built: [shei, juo, kai, tsao]
+      gloss: despite that matter; that circumstance is present, but. Yan shou jong jwo kai tsau tseng rou means despite the rain falling, I go
+      built: [shei, jwo, kai, tsau]
       concept: despite
       field: Doing and describing
     - form: sheng ren san
@@ -4059,16 +4059,16 @@ data:
       built: [sheng, ren, san]
       concept: instead
       field: Doing and describing
-    - form: shiao yao san
+    - form: shyau yau san
       class: part
-      gloss: like; in the same manner or form. Gen shiao yao san tseng zhie tsiao means I do the work like the teacher
-      built: [shiao, yao, san]
+      gloss: like; in the same manner or form. Gen shyau yau san tseng zhye tsyau means I do the work like the teacher
+      built: [shyau, yau, san]
       concept: [like, as]
       field: Doing and describing
-    - form: shong yao san
+    - form: shong yau san
       class: part
-      gloss: unlike; in a different manner or form. Gen shong yao san tseng zhie tsiao means I do the work unlike the teacher
-      built: [shong, yao, san]
+      gloss: unlike; in a different manner or form. Gen shong yau san tseng zhye tsyau means I do the work unlike the teacher
+      built: [shong, yau, san]
       concept: unlike
       field: Doing and describing
     - form: wie tsa shei
@@ -4083,33 +4083,33 @@ data:
       built: [wie, wi, shei]
       concept: both-conjunction
       field: Doing and describing
-    - form: nao wui
+    - form: nau wui
       class: v
-      gloss: whether to come; the come-question as the matter considered. Tseng nao wui sai means I consider whether I come; the speaker is the person considering and coming
-      built: [nao, wui]
+      gloss: whether to come; the come-question as the matter considered. Tseng nau wui sai means I consider whether I come; the speaker is the person considering and coming
+      built: [nau, wui]
       concept: whether
       field: Doing and describing
-    - form: wie riao
+    - form: wie ryau
       class: n
-      gloss: that is; namely, the conventional this-name introduction that specifies the referent. Wie riao gen means that is, the teacher
-      built: [wie, riao]
+      gloss: that is; namely, the conventional this-name introduction that specifies the referent. Wie ryau gen means that is, the teacher
+      built: [wie, ryau]
       concept: [that-is, namely]
       field: Heaven, law and the order of things
-    - form: tsi juo hing
+    - form: tsi jwo hing
       class: v
       gloss: for example; look at one matter, the conventional invitation to consider the example named
-      built: [tsi, juo, hing]
+      built: [tsi, jwo, hing]
       concept: for-example
       field: Doing and describing
     - form: sheng ren gi
       class: v
-      gloss: except; keep the other portion, the conventional exception instruction. Gen kie, sheng nong gi means except the teacher, retain the other people
+      gloss: except; keep the other portion, the conventional exception instruction. Gen kye, sheng nong gi means except the teacher, retain the other people
       built: [sheng, ren, gi]
       concept: except
       field: Doing and describing
     - form: tsi ren
       class: n
-      gloss: only the stated portion; the conventional one-portion restriction. Tsi ren gen nao means only the teacher comes
+      gloss: only the stated portion; the conventional one-portion restriction. Tsi ren gen nau means only the teacher comes
       built: [tsi, ren]
       concept: only
       field: Heaven, law and the order of things
@@ -4125,16 +4125,16 @@ data:
       built: [shei, ren, wi]
       concept: also
       field: Doing and describing
-    - form: dao duen san
+    - form: dau dwen san
       class: part
       gloss: especially; with great attention to the case singled out
-      built: [dao, duen, san]
+      built: [dau, dwen, san]
       concept: especially
       field: Doing and describing
-    - form: shui shui
+    - form: shwi shwi
       class: adj
       gloss: tiny; small-small, a very small size
-      built: [shui, shui]
+      built: [shwi, shwi]
       concept: tiny
       field: Doing and describing
     - form: nai ming kai
@@ -4142,76 +4142,76 @@ data:
       gloss: to have height; to have an upward extent
       built: [nai, ming, kai]
       field: Doing and describing
-    - form: shui nai ming kai
+    - form: shwi nai ming kai
       class: v
       gloss: to be low; to have only a small upward extent
-      built: [shui, nai, ming, kai]
+      built: [shwi, nai, ming, kai]
       concept: low
       field: Doing and describing
-    - form: dao miao kai
+    - form: dau myau kai
       class: v
       gloss: to be heavy; to have great weight
-      built: [dao, miao, kai]
+      built: [dau, myau, kai]
       concept: heavy
       field: Doing and describing
-    - form: shui miao kai
+    - form: shwi myau kai
       class: v
       gloss: to be light in weight; to have little weight
-      built: [shui, miao, kai]
+      built: [shwi, myau, kai]
       concept: light-weight
       field: Doing and describing
-    - form: shui zhie ben
+    - form: shwi zhye ben
       class: v
       gloss: to be easy; to need little effort to do
-      built: [shui, zhie, ben]
+      built: [shwi, zhye, ben]
       concept: easy
       field: Doing and describing
-    - form: dao zhie ben
+    - form: dau zhye ben
       class: v
       gloss: to be difficult; to need great effort to do
-      built: [dao, zhie, ben]
+      built: [dau, zhye, ben]
       concept: difficult
       field: Doing and describing
-    - form: shei tsui sui lai
+    - form: shei tswi swi lai
       class: adj
       gloss: better; more good than the other stated alternative. Replace shei by the comparison standard
-      built: [shei, tsui, sui, lai]
+      built: [shei, tswi, swi, lai]
       concept: better
       field: Doing and describing
-    - form: shei tsui sui lao
+    - form: shei tswi swi lau
       class: adj
       gloss: worse; more bad than the other stated alternative. Replace shei by the comparison standard
-      built: [shei, tsui, sui, lao]
+      built: [shei, tswi, swi, lau]
       concept: worse
       field: Doing and describing
-    - form: so tsui sui lai
+    - form: so tswi swi lai
       class: adj
       gloss: best; better than all other relevant alternatives
-      built: [so, tsui, sui, lai]
+      built: [so, tswi, swi, lai]
       concept: best
       field: Doing and describing
-    - form: so tsui sui lao
+    - form: so tswi swi lau
       class: adj
       gloss: worst; worse than all other relevant alternatives
-      built: [so, tsui, sui, lao]
+      built: [so, tswi, swi, lau]
       concept: worst
       field: Doing and describing
-    - form: dao ging kai
+    - form: dau ging kai
       class: v
       gloss: to be important; to have great value or consequence for the matter at hand
-      built: [dao, ging, kai]
+      built: [dau, ging, kai]
       concept: important
       field: Doing and describing
-    - form: shui ging kai
+    - form: shwi ging kai
       class: v
       gloss: to be trivial; to have little value or consequence for the matter at hand
-      built: [shui, ging, kai]
+      built: [shwi, ging, kai]
       concept: trivial
       field: Doing and describing
-    - form: ben juo dei
+    - form: ben jwo dei
       class: v
       gloss: to be necessary; to be a thing needed for the stated purpose
-      built: [ben, juo, dei]
+      built: [ben, jwo, dei]
       concept: necessary
       field: Doing and describing
     - form: ging kai
@@ -4226,67 +4226,67 @@ data:
       built: [ging, mong, kai]
       concept: worthless
       field: Doing and describing
-    - form: zhie lai
+    - form: zhye lai
       class: adj
       gloss: useful; good for carrying out a task
-      built: [zhie, lai]
+      built: [zhye, lai]
       concept: useful
       field: Doing and describing
-    - form: zhie mong lai
+    - form: zhye mong lai
       class: adj
       gloss: useless; the conventional task-not-good description means serving no useful purpose in the context
-      built: [zhie, mong, lai]
+      built: [zhye, mong, lai]
       concept: useless
       field: Doing and describing
-    - form: so kie yao kai
+    - form: so kye yau kai
       class: v
       gloss: to be broken; to have the damaged form of a whole separated into parts
-      built: [so, kie, yao, kai]
+      built: [so, kye, yau, kai]
       concept: broken
       field: Doing and describing
-    - form: luen yao kai
+    - form: lwen yau kai
       class: v
       gloss: to be complete; to have the finished form required by the aim
-      built: [luen, yao, kai]
+      built: [lwen, yau, kai]
       concept: complete
       field: Doing and describing
-    - form: mong luen yao kai
+    - form: mong lwen yau kai
       class: v
       gloss: to be incomplete; to lack the finished form required by the aim
-      built: [mong, luen, yao, kai]
+      built: [mong, lwen, yau, kai]
       concept: incomplete
       field: Doing and describing
-    - form: heng ya buen
+    - form: heng ya bwen
       class: v
       gloss: to keep speaking truthfully about the matters at issue
-      built: [heng, ya, buen]
+      built: [heng, ya, bwen]
       field: Doing and describing
-    - form: buo ya buen
+    - form: bwo ya bwen
       class: v
       gloss: to keep speaking falsely, whether through error or intended deception
-      built: [buo, ya, buen]
+      built: [bwo, ya, bwen]
       field: Doing and describing
-    - form: dao ren
+    - form: dau ren
       class: adv
-      gloss: very; to a great degree. Dao ren lai means very good
-      built: [dao, ren]
+      gloss: very; to a great degree. Dau ren lai means very good
+      built: [dau, ren]
       concept: very
       field: Doing and describing
-    - form: dao dao ren
+    - form: dau dau ren
       class: adv
-      gloss: extremely; to a very great degree. Dao dao ren lai means extremely good
-      built: [dao, dao, ren]
+      gloss: extremely; to a very great degree. Dau dau ren lai means extremely good
+      built: [dau, dau, ren]
       concept: extremely
       field: Doing and describing
-    - form: wao ren
+    - form: wau ren
       class: adv
-      gloss: somewhat; to some degree. Wao ren lai means somewhat good
-      built: [wao, ren]
+      gloss: somewhat; to some degree. Wau ren lai means somewhat good
+      built: [wau, ren]
       concept: somewhat
       field: Doing and describing
     - form: bo ren
       class: adv
-      gloss: slightly; to a small degree. Bo ren fao means slightly hot
+      gloss: slightly; to a small degree. Bo ren fau means slightly hot
       built: [bo, ren]
       concept: slightly
       field: Doing and describing
@@ -4296,22 +4296,22 @@ data:
       built: [reng, bo, ren]
       concept: barely
       field: Doing and describing
-    - form: ben tsui sui
+    - form: ben tswi swi
       class: adj
       gloss: too much; more than needed in the stated context
-      built: [ben, tsui, sui]
+      built: [ben, tswi, swi]
       concept: too-much
       field: Doing and describing
-    - form: ben tsui rie
+    - form: ben tswi rye
       class: adj
       gloss: too little; less than needed in the stated context
-      built: [ben, tsui, rie]
+      built: [ben, tswi, rye]
       concept: too-little
       field: Doing and describing
-    - form: wao shiao yao kai
+    - form: wau shyau yau kai
       class: v
       gloss: to be similar; to have some shared form or quality
-      built: [wao, shiao, yao, kai]
+      built: [wau, shyau, yau, kai]
       concept: similar
       field: Doing and describing
     - form: sheng ring dei
@@ -4320,52 +4320,52 @@ data:
       built: [sheng, ring, dei]
       concept: opposite
       field: Doing and describing
-    - form: tuen yui kai
+    - form: twen yui kai
       class: v
-      gloss: can walk; to have the bodily ability to walk. Replace tuen with the act whose ability is asserted
-      built: [tuen, yui, kai]
+      gloss: can walk; to have the bodily ability to walk. Replace twen with the act whose ability is asserted
+      built: [twen, yui, kai]
       concept: can
       field: Doing and describing
-    - form: tuen yui mong kai
+    - form: twen yui mong kai
       class: v
-      gloss: cannot walk; to lack the bodily ability to walk. Replace tuen with the act whose ability is denied
-      built: [tuen, yui, mong, kai]
+      gloss: cannot walk; to lack the bodily ability to walk. Replace twen with the act whose ability is denied
+      built: [twen, yui, mong, kai]
       concept: cannot
       field: Doing and describing
-    - form: hie mong kai
+    - form: hye mong kai
       class: v
       gloss: to be impossible; to have no possibility of occurring
-      built: [hie, mong, kai]
+      built: [hye, mong, kai]
       concept: impossible
       field: Doing and describing
-    - form: tuen yuo kai
+    - form: twen yuo kai
       class: v
-      gloss: may walk; to have permission to walk. Replace tuen by the permitted act
-      built: [tuen, yuo, kai]
+      gloss: may walk; to have permission to walk. Replace twen by the permitted act
+      built: [twen, yuo, kai]
       concept: may-permission
       field: Doing and describing
-    - form: nao hie kai
+    - form: nau hye kai
       class: v
-      gloss: might come; the event of coming has a possibility. Replace nao by the event in question
-      built: [nao, hie, kai]
+      gloss: might come; the event of coming has a possibility. Replace nau by the event in question
+      built: [nau, hye, kai]
       concept: might-possibility
       field: Doing and describing
-    - form: tsiao jai kai
+    - form: tsyau jai kai
       class: v
       gloss: must act; to have an obligation to perform the stated act
-      built: [tsiao, jai, kai]
+      built: [tsyau, jai, kai]
       concept: must
       field: Doing and describing
-    - form: mong tsiao geng kai
+    - form: mong tsyau geng kai
       class: v
       gloss: must not act; to have a command forbidding the stated act, not merely a lack of ability
-      built: [mong, tsiao, geng, kai]
+      built: [mong, tsyau, geng, kai]
       concept: must-not
       field: Doing and describing
-    - form: biao tsiao lai dei
+    - form: byau tsyau lai dei
       class: v
-      gloss: ought to help; it is good or advisable to perform the act of helping. Replace biao by the advised act
-      built: [biao, tsiao, lai, dei]
+      gloss: ought to help; it is good or advisable to perform the act of helping. Replace byau by the advised act
+      built: [byau, tsyau, lai, dei]
       concept: ought
       field: Doing and describing
     - form: jai kai
@@ -4374,10 +4374,10 @@ data:
       built: [jai, kai]
       concept: required
       field: Doing and describing
-    - form: tsiao tsa mong tsiao yuo kai
+    - form: tsyau tsa mong tsyau yuo kai
       class: v
       gloss: to be optional; to have permission either to perform the act or not perform it
-      built: [tsiao, tsa, mong, tsiao, yuo, kai]
+      built: [tsyau, tsa, mong, tsyau, yuo, kai]
       concept: optional
       field: Doing and describing
     - form: yuo kai
@@ -4386,10 +4386,10 @@ data:
       built: [yuo, kai]
       concept: allowed
       field: Doing and describing
-    - form: mong tsiao geng dei
+    - form: mong tsyau geng dei
       class: v
       gloss: to be forbidden; a do-not-act command applies to the stated act
-      built: [mong, tsiao, geng, dei]
+      built: [mong, tsyau, geng, dei]
       concept: forbidden
       field: Doing and describing
     - form: yuo zhan
@@ -4398,40 +4398,40 @@ data:
       built: [yuo, zhan]
       concept: permit
       field: Doing and describing
-    - form: mong tsiao geng zhan
+    - form: mong tsyau geng zhan
       class: v
       gloss: to prohibit; to give a command not to perform the stated act
-      built: [mong, tsiao, geng, zhan]
+      built: [mong, tsyau, geng, zhan]
       concept: prohibit
       field: Doing and describing
-    - form: tsiao reng mong kai
+    - form: tsyau reng mong kai
       class: v
       gloss: to be free to act; to have no constraint or limiting barrier upon the stated act
-      built: [tsiao, reng, mong, kai]
+      built: [tsyau, reng, mong, kai]
       concept: free
       field: Doing and describing
-    - form: tsiao reng kai
+    - form: tsyau reng kai
       class: v
       gloss: to be constrained; to have a limit or barrier upon the stated act
-      built: [tsiao, reng, kai]
+      built: [tsyau, reng, kai]
       concept: constrained
       field: Doing and describing
-    - form: tsiao yei
+    - form: tsyau yei
       class: v
       gloss: to be willing; to want or consent to perform the stated act
-      built: [tsiao, yei]
+      built: [tsyau, yei]
       concept: willing
       field: Doing and describing
-    - form: jiao juo dei
+    - form: jyau jwo dei
       class: v
       gloss: to be intended; to be the matter or act deliberately aimed at
-      built: [jiao, juo, dei]
+      built: [jyau, jwo, dei]
       concept: intended
       field: Doing and describing
-    - form: jiao mong kai fuen
+    - form: jyau mong kai fwen
       class: v
       gloss: to be accidental; to happen without an intention directing the event
-      built: [jiao, mong, kai, fuen]
+      built: [jyau, mong, kai, fwen]
       concept: accidental
       field: Doing and describing
     - form: lai yen
@@ -4446,16 +4446,16 @@ data:
       built: [lai, dou]
       concept: goodbye
       field: Doing and describing
-    - form: lai nao
+    - form: lai nau
       class: call
       gloss: welcome; good coming, greeting a person received into one's company
-      built: [lai, nao]
+      built: [lai, nau]
       concept: expression-welcome
       field: Doing and describing
-    - form: duen wing
+    - form: dwen wing
       class: call
-      gloss: please; for consideration, a courteous request formula. Shie duen wing ja zhan means please give the blade
-      built: [duen, wing]
+      gloss: please; for consideration, a courteous request formula. Shye dwen wing ja zhan means please give the blade
+      built: [dwen, wing]
       concept: expression-please
       field: Doing and describing
     - form: zhan chou tsen kai
@@ -4464,10 +4464,10 @@ data:
       built: [zhan, chou, tsen, kai]
       concept: expression-thank-you
       field: Doing and describing
-    - form: shui zhie
+    - form: shwi zhye
       class: call
       gloss: you are welcome; a small task, the conventional modest reply to thanks
-      built: [shui, zhie]
+      built: [shwi, zhye]
       concept: expression-youre-welcome
       field: Doing and describing
     - form: kou yen yuo
@@ -4482,22 +4482,22 @@ data:
       built: [deng, kai]
       concept: expression-sorry
       field: Doing and describing
-    - form: tseng lao tsiao kie
+    - form: tseng lau tsyau kye
       class: v
       gloss: forgive me; release my wrongdoing, a request for forgiveness
-      built: [tseng, lao, tsiao, kie]
+      built: [tseng, lau, tsyau, kye]
       concept: expression-forgive-me
       field: Doing and describing
-    - form: wie chai nao
+    - form: wie chai nau
       class: v
       gloss: come here; come to this place
-      built: [wie, chai, nao]
+      built: [wie, chai, nau]
       concept: expression-come-here
       field: Doing and describing
-    - form: wie chai suen rou
+    - form: wie chai swen rou
       class: v
       gloss: go away; go from this place
-      built: [wie, chai, suen, rou]
+      built: [wie, chai, swen, rou]
       concept: expression-go-away
       field: Doing and describing
     - form: ning tsi yen ya
@@ -4506,34 +4506,34 @@ data:
       built: [ning, tsi, yen, ya]
       concept: expression-pardon
       field: Doing and describing
-    - form: ning tsi yen tsiao
+    - form: ning tsi yen tsyau
       class: v
       gloss: again; do it on another occasion, a request for repetition
-      built: [ning, tsi, yen, tsiao]
+      built: [ning, tsi, yen, tsyau]
       concept: expression-again
       field: Doing and describing
-    - form: tseng juen tsing
+    - form: tseng jwen tsing
       class: v
       gloss: I understand; I know how the matter fits together
-      built: [tseng, juen, tsing]
+      built: [tseng, jwen, tsing]
       concept: expression-i-understand
       field: Doing and describing
-    - form: tseng juen mong tsing
+    - form: tseng jwen mong tsing
       class: v
       gloss: I do not understand; I do not know how the matter fits together
-      built: [tseng, juen, mong, tsing]
+      built: [tseng, jwen, mong, tsing]
       concept: expression-i-do-not-understand
       field: Doing and describing
-    - form: shie wie tsin dou ya
+    - form: shye wie tsin dou ya
       class: v
       gloss: how do you say this? A complete question; replace wie by the matter whose expression is requested
-      built: [shie, wie, tsin, dou, ya]
+      built: [shye, wie, tsin, dou, ya]
       concept: expression-how-do-you-say
       field: Doing and describing
-    - form: wie tsin riao kai
+    - form: wie tsin ryau kai
       class: v
       gloss: what is this called? Literally this has what name
-      built: [wie, tsin, riao, kai]
+      built: [wie, tsin, ryau, kai]
       concept: expression-what-is-this-called
       field: Doing and describing
     - form: heng dei wui
@@ -4560,16 +4560,16 @@ data:
       built: [mi, zhei]
       concept: girl
       field: People, rank and office
-    - form: luen fan nong
+    - form: lwen fan nong
       class: n
       gloss: adult; a person whose bodily growing has reached maturity
-      built: [luen, fan, nong]
+      built: [lwen, fan, nong]
       concept: adult
       field: People, rank and office
-    - form: kuo nong
+    - form: kwo nong
       class: n
       gloss: elder; a person of advanced age
-      built: [kuo, nong]
+      built: [kwo, nong]
       concept: elder
       field: People, rank and office
     - form: tsi nong
@@ -4590,52 +4590,52 @@ data:
       built: [zhong, lin, tsou]
       concept: community
       field: People, rank and office
-    - form: zhie nong
+    - form: zhye nong
       class: n
       gloss: worker; a person carrying out work
-      built: [zhie, nong]
+      built: [zhye, nong]
       concept: worker
       field: People, rank and office
-    - form: tsai zhie nong
+    - form: tsai zhye nong
       class: n
       gloss: artisan; a person skilled in craft work
-      built: [tsai, zhie, nong]
+      built: [tsai, zhye, nong]
       concept: artisan
       field: People, rank and office
-    - form: shuo nong
+    - form: shwo nong
       class: n
       gloss: merchant; a person who trades goods
-      built: [shuo, nong]
+      built: [shwo, nong]
       concept: merchant
       field: People, rank and office
-    - form: chuo riao
+    - form: chwo ryau
       class: n
       gloss: title; the name of an office or place in the rank order
-      built: [chuo, riao]
+      built: [chwo, ryau]
       concept: title
       field: People, rank and office
-    - form: kuo tsiao dou
+    - form: kwo tsyau dou
       class: n
       gloss: custom; an established path of doing things in a community
-      built: [kuo, tsiao, dou]
+      built: [kwo, tsyau, dou]
       concept: custom
       field: People, rank and office
-    - form: kuo chou dou
+    - form: kwo chou dou
       class: n
       gloss: tradition; a path of knowledge and practice handed down through generations
-      built: [kuo, chou, dou]
+      built: [kwo, chou, dou]
       concept: tradition
       field: People, rank and office
-    - form: hou yao
+    - form: hou yau
       class: n
       gloss: order; an arrangement of things in a coherent pattern rather than disorder
-      built: [hou, yao]
+      built: [hou, yau]
       concept: order-noun
       field: People, rank and office
-    - form: geng gi zhie
+    - form: geng gi zhye
       class: n
       gloss: obedience; conduct that keeps or carries out a command
-      built: [geng, gi, zhie]
+      built: [geng, gi, zhye]
       concept: obedience
       field: People, rank and office
     - form: lai lou
@@ -4644,16 +4644,16 @@ data:
       built: [lai, lou]
       concept: justice
       field: People, rank and office
-    - form: lao lou
+    - form: lau lou
       class: n
       gloss: injustice; harmful or unfair law, judgment or treatment
-      built: [lao, lou]
+      built: [lau, lou]
       concept: injustice
       field: People, rank and office
-    - form: wuo zhie
+    - form: wuo zhye
       class: n
       gloss: war; organized fighting between peoples or rulers, conventionally warrior work
-      built: [wuo, zhie]
+      built: [wuo, zhye]
       concept: war
       field: People, rank and office
     - form: reng mong kai long
@@ -4662,22 +4662,22 @@ data:
       built: [reng, mong, kai, long]
       concept: freedom
       field: People, rank and office
-    - form: nui long
+    - form: nwi long
       class: n
       gloss: captivity; the condition or period of being bound or held by another
-      built: [nui, long]
+      built: [nwi, long]
       concept: captivity
       field: People, rank and office
-    - form: zhan juo
+    - form: zhan jwo
       class: n
       gloss: gift; a thing given freely to another
-      built: [zhan, juo]
+      built: [zhan, jwo]
       concept: gift
       field: People, rank and office
-    - form: fiao yen
+    - form: fyau yen
       class: n
       gloss: exchange; an occasion of giving and receiving between parties
-      built: [fiao, yen]
+      built: [fyau, yen]
       concept: exchange-noun
       field: People, rank and office
     - form: ning zhan jai
@@ -4686,16 +4686,16 @@ data:
       built: [ning, zhan, jai]
       concept: debt
       field: People, rank and office
-    - form: fa mui long
+    - form: fa mwi long
       class: n
       gloss: poverty; a condition of lacking material wealth
-      built: [fa, mui, long]
+      built: [fa, mwi, long]
       concept: poverty
       field: People, rank and office
-    - form: kai juo
+    - form: kai jwo
       class: n
       gloss: property; a thing possessed
-      built: [kai, juo]
+      built: [kai, jwo]
       concept: property
       field: People, rank and office
     - form: kai lin
@@ -4704,10 +4704,10 @@ data:
       built: [kai, lin]
       concept: ownership
       field: People, rank and office
-    - form: lai riao
+    - form: lai ryau
       class: n
       gloss: honor; a good name or respected standing in the eyes of one's community
-      built: [lai, riao]
+      built: [lai, ryau]
       concept: honor
       field: People, rank and office
     - form: ha chou
@@ -4716,58 +4716,58 @@ data:
       built: [ha, chou]
       concept: secret
       field: People, rank and office
-    - form: dei juo
+    - form: dei jwo
       class: n
       gloss: being; an entity that exists, whether living or not
-      built: [dei, juo]
+      built: [dei, jwo]
       concept: being
       field: Heaven, law and the order of things
-    - form: neng juen
+    - form: neng jwen
       class: n
       gloss: origin; the initial source or cause from which a thing arises
-      built: [neng, juen]
+      built: [neng, jwen]
       concept: origin
       field: Heaven, law and the order of things
-    - form: chao yen
+    - form: chau yen
       class: n
       gloss: beginning; the occasion at which a thing starts
-      built: [chao, yen]
+      built: [chau, yen]
       concept: beginning
       field: Heaven, law and the order of things
-    - form: luen reng
+    - form: lwen reng
       class: n
       gloss: end; the terminal boundary of a thing or event
-      built: [luen, reng]
+      built: [lwen, reng]
       concept: end-noun
       field: Heaven, law and the order of things
-    - form: luen yao
+    - form: lwen yau
       class: n
       gloss: completion; the finished state or form of an undertaking
-      built: [luen, yao]
+      built: [lwen, yau]
       concept: completion
       field: Heaven, law and the order of things
-    - form: tiao yen
+    - form: tyau yen
       class: n
       gloss: change; an occurrence of becoming different
-      built: [tiao, yen]
+      built: [tyau, yen]
       concept: change-noun
       field: Heaven, law and the order of things
-    - form: yao tiao yen
+    - form: yau tyau yen
       class: n
       gloss: transformation; a change of form or character
-      built: [yao, tiao, yen]
+      built: [yau, tyau, yen]
       concept: transformation
       field: Heaven, law and the order of things
-    - form: juen ning juo
+    - form: jwen ning jwo
       class: n
       gloss: effect; the matter that follows from a cause
-      built: [juen, ning, juo]
+      built: [jwen, ning, jwo]
       concept: effect
       field: Heaven, law and the order of things
-    - form: yao tsou
+    - form: yau tsou
       class: n
       gloss: kind; a class grouped by shared form or character
-      built: [yao, tsou]
+      built: [yau, tsou]
       concept: kind
       field: Heaven, law and the order of things
     - form: mong gin
@@ -4776,16 +4776,16 @@ data:
       built: [mong, gin]
       concept: unnatural
       field: Heaven, law and the order of things
-    - form: zhie bing long
+    - form: zhye bing long
       class: n
       gloss: rest; a pause or period free of effort that allows recovery
-      built: [zhie, bing, long]
+      built: [zhye, bing, long]
       concept: rest
       field: Needs and common things
-    - form: nong gi zhie
+    - form: nong gi zhye
       class: n
       gloss: protection; work preserving a person against harm. Replace nong with the person, creature or thing protected
-      built: [nong, gi, zhie]
+      built: [nong, gi, zhye]
       concept: protection
       field: Needs and common things
     - form: nong gi
@@ -4794,16 +4794,16 @@ data:
       built: [nong, gi]
       concept: defend
       field: Doing and describing
-    - form: ta tsa sa mie
+    - form: ta tsa sa mye
       class: adj
       gloss: sated; full of food or drink, with the bodily desire to eat or drink satisfied
-      built: [ta, tsa, sa, mie]
+      built: [ta, tsa, sa, mye]
       concept: sated
       field: The body
-    - form: guen song sie
+    - form: guen song sye
       class: n
       gloss: wool; soft animal textile fiber, the fleece shorn or gathered for spinning
-      built: [guen, song, sie]
+      built: [guen, song, sye]
       concept: wool
       field: Needs and common things
     - form: hi mong kai
@@ -4812,10 +4812,10 @@ data:
       built: [hi, mong, kai]
       concept: unconscious
       field: The body
-    - form: shiao wan kai
+    - form: shyau wan kai
       class: v
       gloss: to be equal in quantity; to have the same count or measure as the comparison standard
-      built: [shiao, wan, kai]
+      built: [shyau, wan, kai]
       concept: equal
       field: Color and number
     - form: wen wan wai nong
@@ -4824,58 +4824,58 @@ data:
       built: [wen, wan, wai, nong]
       concept: about
       field: Color and number
-    - form: huo win meng cha
+    - form: hwo win meng cha
       class: v
-      gloss: to push; to send an object outward with the hand by steady pressure. Huo win marks the hand as the instrument
-      built: [huo, win, meng, cha]
+      gloss: to push; to send an object outward with the hand by steady pressure. Hwo win marks the hand as the instrument
+      built: [hwo, win, meng, cha]
       concept: push
       field: Doing and describing
-    - form: nong yao hing yui kai
+    - form: nong yau hing yui kai
       class: v
-      gloss: "An ordinary sighted person can clearly discern the form in the stated viewing conditions: its appearance is clear. Yao names the form whose clarity is assessed"
-      built: [nong, yao, hing, yui, kai]
+      gloss: "An ordinary sighted person can clearly discern the form in the stated viewing conditions: its appearance is clear. Yau names the form whose clarity is assessed"
+      built: [nong, yau, hing, yui, kai]
       concept: clear-appearance
       field: Color and number
-    - form: nong juo men hing yui kai
+    - form: nong jwo men hing yui kai
       class: v
-      gloss: "An ordinary sighted person can see the interior or the thing beyond through the material: it is transparent. Juo names the material being looked through in the stated viewing conditions"
-      built: [nong, juo, men, hing, yui, kai]
+      gloss: "An ordinary sighted person can see the interior or the thing beyond through the material: it is transparent. Jwo names the material being looked through in the stated viewing conditions"
+      built: [nong, jwo, men, hing, yui, kai]
       concept: transparent
       field: Color and number
-    - form: nong juo men hing yui mong kai
+    - form: nong jwo men hing yui mong kai
       class: v
-      gloss: "An ordinary sighted person cannot see the interior or the thing beyond through the material: it is opaque. Juo names the material in the stated viewing conditions"
-      built: [nong, juo, men, hing, yui, mong, kai]
+      gloss: "An ordinary sighted person cannot see the interior or the thing beyond through the material: it is opaque. Jwo names the material in the stated viewing conditions"
+      built: [nong, jwo, men, hing, yui, mong, kai]
       concept: opaque
       field: Color and number
-    - form: leng yao kai
+    - form: leng yau kai
       class: v
       gloss: to be light in color; to have a bright form in the stated hue
-      built: [leng, yao, kai]
+      built: [leng, yau, kai]
       concept: light-colour
       field: Color and number
-    - form: leng yao zhan
+    - form: leng yau zhan
       class: v
       gloss: to be shiny; to give off a bright appearance by reflection from a surface
-      built: [leng, yao, zhan]
+      built: [leng, yau, zhan]
       concept: shiny
       field: Color and number
-    - form: leng yao zhan yui mong kai
+    - form: leng yau zhan yui mong kai
       class: v
       gloss: to be dull in appearance; to lack the surface capacity to give off a bright appearance by reflection
-      built: [leng, yao, zhan, yui, mong, kai]
+      built: [leng, yau, zhan, yui, mong, kai]
       concept: dull-appearance
       field: Color and number
-    - form: dao dao
+    - form: dau dau
       class: adj
       gloss: huge; very great in physical size, with repetition intensifying the ordinary size adjective
-      built: [dao, dao]
+      built: [dau, dau]
       concept: huge
       field: Doing and describing
-    - form: dao nai ming kai
+    - form: dau nai ming kai
       class: v
-      gloss: to be high or tall; to have a great upward extent. Chai dao nai ming kai describes a high mountain; nong dao nai ming kai a tall person
-      built: [dao, nai, ming, kai]
+      gloss: to be high or tall; to have a great upward extent. Chai dau nai ming kai describes a high mountain; nong dau nai ming kai a tall person
+      built: [dau, nai, ming, kai]
       concept: [high, tall]
       field: Doing and describing
     - form: heng tsen kai
@@ -4884,22 +4884,22 @@ data:
       built: [heng, tsen, kai]
       concept: honest
       field: Doing and describing
-    - form: jiao buo ya buen
+    - form: jyau bwo ya bwen
       class: v
       gloss: to be dishonest; to persist in deliberately false speech in the dealings at issue
-      built: [jiao, buo, ya, buen]
+      built: [jyau, bwo, ya, bwen]
       concept: dishonest
       field: Doing and describing
-    - form: shie tsin juo ya
+    - form: shye tsin jwo ya
       class: v
       gloss: What matter are you stating? A complete SOV clarification question asking what the other person means
-      built: [shie, tsin, juo, ya]
+      built: [shye, tsin, jwo, ya]
       concept: [question-clarification, expression-what-do-you-mean]
       field: Doing and describing
-    - form: juo hie yeng kai
+    - form: jwo hye yeng kai
       class: v
-      gloss: to suspect; to hold a tentative belief that a matter or claim may be true, without certainty. The matter can be favorable, unfavorable or neutral; yan shou jong juo hie yeng kai gives suspect that rain is falling
-      built: [juo, hie, yeng, kai]
+      gloss: to suspect; to hold a tentative belief that a matter or claim may be true, without certainty. The matter can be favorable, unfavorable or neutral; yan shou jong jwo hye yeng kai gives suspect that rain is falling
+      built: [jwo, hye, yeng, kai]
       concept: suspect
       field: Doing and describing
     - form: wie tsin nong ja dei
@@ -4908,20 +4908,20 @@ data:
       built: [wie, tsin, nong, ja, dei]
       concept: question-whose
       field: Doing and describing
-    - form: nie chou
+    - form: nye chou
       class: n
       gloss: annal; the year record a Tanchei recorder keeps for a district or a ministry, entered under the reign year in fixed verbs
-      built: [nie, chou]
+      built: [nye, chou]
       field: Heaven, law and the order of things
     - form: ken wan
       class: n
       gloss: hearth account; the reckoning of a household's credits and debits that its heir reads before the shrine at the Festival of the Dead
       built: [ken, wan]
       field: Heaven, law and the order of things
-    - form: kuo chou
+    - form: kwo chou
       class: n
-      gloss: last record; the testament a person of rank writes before Tseising or Ruising, burned after the rite and kept in copies
-      built: [kuo, chou]
+      gloss: last record; the testament a person of rank writes before Tseising or Rwising, burned after the rite and kept in copies
+      built: [kwo, chou]
       field: Heaven, law and the order of things
   icon: icon-speaking
   templatePriority: null
@@ -4930,92 +4930,92 @@ data:
     pattern: "{family} {given}"
     given:
       female:
-        - "Luoleng"
+        - "Lwoleng"
         - "Youzhen"
         - "Meizhi"
-        - "Weiluo"
+        - "Weilwo"
         - "Zhouleng"
-        - "Buiyou"
-        - "Houluo"
+        - "Bwiyou"
+        - "Houlwo"
         - "Rinyan"
         - "Wongwei"
         - "Lengmei"
-        - "Luoyou"
-        - "Zhiluo"
-        - "Buiyan"
-        - "Chuenyou"
-        - "Zhenluo"
+        - "Lwoyou"
+        - "Zhilwo"
+        - "Bwiyan"
+        - "Chwenyou"
+        - "Zhenlwo"
         - "Chenwei"
-        - "Meiluo"
-        - "Rinluo"
-        - "Builuo"
+        - "Meilwo"
+        - "Rinlwo"
+        - "Bwilwo"
         - "Houyou"
-        - "Zhouluo"
+        - "Zhoulwo"
         - "Tengzhi"
         - "Meizhai"
         - "Weihou"
-        - "Buizhi"
+        - "Bwizhi"
         - "Wongyou"
-        - "Nouluo"
-        - "Wongluo"
+        - "Noulwo"
+        - "Wonglwo"
         - "Youleng"
         - "Zhouyan"
-        - "Buimei"
+        - "Bwimei"
         - "Rinzhi"
         - "Houmei"
         - "Lengyou"
         - "Zhenyou"
         - "Yanwei"
-        - "Buiwei"
+        - "Bwiwei"
         - "Rinmei"
         - "Houzhi"
-        - "Muowei"
-        - "Wengluo"
-        - "Mouluo"
-        - "Chuenzhi"
+        - "Mwowei"
+        - "Wenglwo"
+        - "Moulwo"
+        - "Chwenzhi"
       male:
         - "Tanzho"
         - "Tuija"
         - "Wuodao"
-        - "Raoleng"
+        - "Rauleng"
         - "Cheiwo"
         - "Jingzhin"
         - "Houweng"
-        - "Daohen"
+        - "Dauhen"
         - "Mouwo"
-        - "Daowo"
+        - "Dauwo"
         - "Wozho"
         - "Jingja"
         - "Tuihen"
-        - "Raohen"
-        - "Raowo"
-        - "Daojing"
+        - "Rauhen"
+        - "Rauwo"
+        - "Daujing"
         - "Hozho"
         - "Wengzho"
-        - "Cheidao"
+        - "Cheidau"
         - "Wuoja"
         - "Tuizhin"
         - "Jenwo"
-        - "Kuowo"
+        - "Kwowo"
         - "Touwo"
         - "Moujing"
-        - "Daochei"
+        - "Dauchei"
         - "Jingwo"
         - "Henja"
         - "Zhouja"
-        - "Raozho"
+        - "Rauzho"
         - "Wengja"
-        - "Kuochei"
+        - "Kwochei"
         - "Tuiwo"
         - "Houwuo"
-        - "Daogen"
+        - "Daugen"
         - "Jenja"
         - "Howo"
-        - "Daozhin"
+        - "Dauzhin"
         - "Tuizho"
         - "Wohen"
         - "Wenghen"
-        - "Raojing"
+        - "Raujing"
     family:
       - "Tan"
       - "Wei"
@@ -5028,23 +5028,23 @@ data:
       - "Zhi"
       - "Dou"
       - "Hou"
-      - "Kuo"
+      - "Kwo"
       - "Tui"
-      - "Luo"
+      - "Lwo"
       - "Yan"
       - "Weng"
       - "Tou"
       - "You"
       - "Zhou"
       - "Rin"
-      - "Bui"
+      - "Bwi"
       - "Leng"
       - "Gwo"
       - "Zhai"
       - "Mai"
       - "Bei"
       - "Hen"
-      - "Rao"
+      - "Rau"
       - "Zhowou"
   sounds:
     edges:
@@ -5061,19 +5061,23 @@ data:
       - {final: i, like: "the i of machine"}
       - {final: ai, like: eye}
       - {final: ei, like: day}
-      - {final: ao, like: "ah-oh in one syllable, near cow"}
+      - {final: au, like: cow}
       - {final: ou, like: soul}
-      - {final: ui, like: "oo-ee in one syllable, near gooey"}
-      - {final: uo, like: "oo-oh in one syllable"}
-      - {final: ie, like: "ee-eh in one syllable"}
+      - {final: wi, like: we}
+      - {final: wo, like: "woe, a steady oh"}
+      - {final: ye, like: "the ye of yet"}
       - {final: an, like: "ahn, the a of father closed on n"}
       - {final: en, like: "the en of ten"}
       - {final: in, like: "een, as in seen"}
       - {final: eng, like: "the eng of length"}
       - {final: ing, like: "eeng, the i of machine closed on ng"}
       - {final: ong, like: "ohng, the o of go closed on ng"}
-      - {final: uen, like: "oo-en in one syllable, near wen"}
-      - {final: iao, like: "ee-ah-oh in one syllable, near yow"}
+      - {final: wen, like: "the wen of went"}
+      - {final: yau, like: yow}
+      - {final: ui, like: "oo-ee, after w or y and in tui"}
+      - {final: uo, like: "oo-oh, after w or y and in tuo"}
+      - {final: uen, like: "oo-en, after w or y and in guen"}
+      - {final: ie, like: "ee-eh, after w"}
   scope:
     folders:
       - tantsou
@@ -5134,7 +5138,7 @@ data:
     - {name: Censor of Purity, tongue: translation}
     - {name: Chaiwong, tongue: tanvuri, built: [chai, wong]}
     - {name: Chaizho, tongue: tanvuri, built: [chai, zho]}
-    - {name: Chiao Chai Tui Sen, tongue: tanvuri, built: [chiao, chai, tui, sen]}
+    - {name: Chyau Chai Tui Sen, tongue: tanvuri, built: [chyau, chai, tui, sen]}
     - {name: Champion, tongue: translation}
     - {name: Chief Intendant, tongue: translation}
     - {name: Chougen, tongue: tanvuri, built: [chou, gen]}
@@ -5151,8 +5155,8 @@ data:
     - {name: Crew Boss, tongue: translation}
     - {name: Cult of the Forsaken, tongue: translation}
     - {name: Cut Loose, tongue: translation}
-    - {name: Daoho Wo, tongue: tanvuri, built: [dao, ho, wo]}
-    - {name: Daotou Wochai, tongue: tanvuri, built: [dao, tou, wo, chai]}
+    - {name: Dauho Wo, tongue: tanvuri, built: [dau, ho, wo]}
+    - {name: Dautou Wochai, tongue: tanvuri, built: [dau, tou, wo, chai]}
     - {name: Dependent, tongue: translation}
     - {name: Dou Chou, tongue: tanvuri, built: [dou, chou]}
     - {name: Dou Sei, tongue: tanvuri, built: [dou, sei]}
@@ -5173,20 +5177,20 @@ data:
     - {name: Fixer, tongue: translation}
     - {name: Gap-Maker, tongue: translation}
     - {name: Genealogist, tongue: translation}
-    - {name: Genhuen, tongue: tanvuri, built: [gen, huen]}
-    - {name: "Genhuen, The Minister of Entropy", tongue: translation}
+    - {name: Genhwen, tongue: tanvuri, built: [gen, hwen]}
+    - {name: "Genhwen, The Minister of Entropy", tongue: translation}
     - {name: Halei, tongue: tanvuri, built: [ha, lei]}
-    - {name: Ha Luo Zhao, tongue: tanvuri, built: [ha, luo, zhao]}
+    - {name: Ha Lwo Zhau, tongue: tanvuri, built: [ha, lwo, zhau]}
     - {name: Hanger-on, tongue: translation}
     - {name: Hatsou, tongue: tanvuri, built: [ha, tsou]}
     - {name: Hayo, tongue: tanvuri, built: [ha, yo]}
-    - {name: Ha Zhao, tongue: tanvuri, built: [ha, zhao]}
+    - {name: Ha Zhau, tongue: tanvuri, built: [ha, zhau]}
     - {name: Head of the House, tongue: translation}
     - {name: Heir, tongue: translation}
-    - {name: Huenhatoutsou, tongue: tanvuri, built: [huen, ha, tou, tsou]}
-    - {name: Huen Sei, tongue: tanvuri, built: [huen, sei]}
-    - {name: Huenwo, tongue: tanvuri, built: [huen, wo]}
-    - {name: Huenzhuo, tongue: tanvuri, built: [huen, zhuo]}
+    - {name: Hwenhatoutsou, tongue: tanvuri, built: [hwen, ha, tou, tsou]}
+    - {name: Hwen Sei, tongue: tanvuri, built: [hwen, sei]}
+    - {name: Hwenwo, tongue: tanvuri, built: [hwen, wo]}
+    - {name: Hwenzhwo, tongue: tanvuri, built: [hwen, zhwo]}
     - {name: Ho Sei, tongue: tanvuri, built: [ho, sei]}
     - {name: Houweng, tongue: tanvuri, built: [hou, weng]}
     - {name: Illuminator, tongue: translation}
@@ -5220,16 +5224,16 @@ data:
     - {name: "Meiwo, The Minister of Dreams", tongue: translation}
     - {name: Neitsai, tongue: tanvuri, built: [nei, tsai]}
     - {name: "Neitsai, The Minister of Continuity", tongue: translation}
-    - {name: Nuitsou, tongue: tanvuri, built: [nui, tsou]}
+    - {name: Nwitsou, tongue: tanvuri, built: [nwi, tsou]}
     - {name: Nouwen, tongue: tanvuri, built: [nou, wen]}
     - {name: Nouwo, tongue: tanvuri, built: [nou, wo]}
     - {name: Numerology, tongue: translation}
-    - {name: Nuoho, tongue: tanvuri, built: [nuo, ho]}
-    - {name: Nuolei, tongue: tanvuri, built: [nuo, lei]}
-    - {name: Nuo Sei, tongue: tanvuri, built: [nuo, sei]}
-    - {name: Nuotsou Rui, tongue: tanvuri, built: [nuo, tsou, rui]}
-    - {name: Nuowo, tongue: tanvuri, built: [nuo, wo]}
-    - {name: "Nuowo, The Minister of Dissolution", tongue: translation}
+    - {name: Nwoho, tongue: tanvuri, built: [nwo, ho]}
+    - {name: Nwolei, tongue: tanvuri, built: [nwo, lei]}
+    - {name: Nwo Sei, tongue: tanvuri, built: [nwo, sei]}
+    - {name: Nwotsou Rwi, tongue: tanvuri, built: [nwo, tsou, rwi]}
+    - {name: Nwowo, tongue: tanvuri, built: [nwo, wo]}
+    - {name: "Nwowo, The Minister of Dissolution", tongue: translation}
     - {name: Omen-Reader, tongue: translation}
     - {name: Outlaw, tongue: translation}
     - {name: Personal Names, tongue: translation}
@@ -5238,36 +5242,36 @@ data:
     - {name: Precedent-Scholar, tongue: translation}
     - {name: Priest, tongue: translation}
     - {name: Provincial Administrator, tongue: translation}
-    - {name: Raogui, tongue: tanvuri, built: [rao, gui]}
-    - {name: "Raogui, Minister of Storms", tongue: translation}
+    - {name: Raugwi, tongue: tanvuri, built: [rau, gwi]}
+    - {name: "Raugwi, Minister of Storms", tongue: translation}
     - {name: Receiver of Tribute, tongue: translation}
     - {name: Recruiter, tongue: translation}
     - {name: Registrar, tongue: translation}
     - {name: Registrar of Allocations, tongue: translation}
-    - {name: Rinho Daoweng, tongue: tanvuri, built: [rin, ho, dao, weng]}
+    - {name: Rinho Dauweng, tongue: tanvuri, built: [rin, ho, dau, weng]}
     - {name: Rinnou, tongue: tanvuri, built: [rin, nou]}
-    - {name: "Ritual: Daotou Wochai", tongue: translation}
+    - {name: "Ritual: Dautou Wochai", tongue: translation}
     - {name: "Ritual: Douyo", tongue: translation}
     - {name: "Ritual: Fawo", tongue: translation}
-    - {name: "Ritual: Genhuen", tongue: translation}
-    - {name: "Ritual: Huenzhuo", tongue: translation}
+    - {name: "Ritual: Genhwen", tongue: translation}
+    - {name: "Ritual: Hwenzhwo", tongue: translation}
     - {name: "Ritual: Meiwo", tongue: translation}
     - {name: "Ritual: Neitsai", tongue: translation}
-    - {name: "Ritual: Nuoho", tongue: translation}
-    - {name: "Ritual: Nuowo", tongue: translation}
-    - {name: "Ritual: Raogui", tongue: translation}
-    - {name: "Ritual: Rinho Daoweng", tongue: translation}
+    - {name: "Ritual: Nwoho", tongue: translation}
+    - {name: "Ritual: Nwowo", tongue: translation}
+    - {name: "Ritual: Raugwi", tongue: translation}
+    - {name: "Ritual: Rinho Dauweng", tongue: translation}
     - {name: "Ritual: Tanzho", tongue: translation}
-    - {name: "Ritual: Wansou Zhuo", tongue: translation}
+    - {name: "Ritual: Wansou Zhwo", tongue: translation}
     - {name: "Ritual: Wantou", tongue: translation}
     - {name: "Ritual: Watsai", tongue: translation}
-    - {name: "Ritual: Weizhuo", tongue: translation}
-    - {name: "Ritual: Wengdao Zhouwo", tongue: translation}
+    - {name: "Ritual: Weizhwo", tongue: translation}
+    - {name: "Ritual: Wengdau Zhouwo", tongue: translation}
     - {name: "Ritual: Wodou", tongue: translation}
     - {name: "Ritual: Wojing Ja", tongue: translation}
-    - {name: "Ritual: Youbui", tongue: translation}
-    - {name: "Ritual: Yozhuo", tongue: translation}
-    - {name: "Ritual: Zhaosou", tongue: translation}
+    - {name: "Ritual: Youbwi", tongue: translation}
+    - {name: "Ritual: Yozhwo", tongue: translation}
+    - {name: "Ritual: Zhausou", tongue: translation}
     - {name: "Ritual: Zhinho", tongue: translation}
     - {name: "Ritual: Zhoushou Zho", tongue: translation}
     - {name: Seal-Forger, tongue: translation}
@@ -5275,7 +5279,7 @@ data:
     - {name: Second, tongue: translation}
     - {name: Shadow Folk, tongue: translation}
     - {name: Shadow Sect, tongue: translation}
-    - {name: Shuonong, tongue: tanvuri, built: [shuo, nong]}
+    - {name: Shwonong, tongue: tanvuri, built: [shwo, nong]}
     - {name: Singwou, tongue: tanvuri, built: [sing, wou]}
     - {name: Steward, tongue: translation}
     - {name: Struck from the Rolls, tongue: translation}
@@ -5291,7 +5295,7 @@ data:
     - {name: "Tanzho, the Celestial Dragon", tongue: translation}
     - {name: Teng Chou, tongue: tanvuri, built: [teng, chou]}
     - {name: Teng Chou Script, tongue: translation}
-    - {name: Teng Gui, tongue: tanvuri, built: [teng, gui]}
+    - {name: Teng Gwi, tongue: tanvuri, built: [teng, gwi]}
     - {name: Tengwou Rong Lei, tongue: tanvuri, built: [teng, wou, rong, lei]}
     - {name: The Archive of All Records, tongue: translation}
     - {name: The Black Lotus, tongue: translation}
@@ -5338,45 +5342,45 @@ data:
     - {name: The Walking Contradiction, tongue: translation}
     - {name: The Youweng, tongue: translation}
     - {name: Treasurer, tongue: translation}
-    - {name: Tsaihuo, tongue: tanvuri, built: [tsai, huo]}
+    - {name: Tsaihwo, tongue: tanvuri, built: [tsai, hwo]}
     - {name: Tsaiken, tongue: tanvuri, built: [tsai, ken]}
     - {name: Tsai Sei, tongue: tanvuri, built: [tsai, sei]}
     - {name: Tseising, tongue: tanvuri, built: [tsei, sing]}
     - {name: Tuija Wengyan, tongue: tanvuri, built: [tui, ja, weng, yan]}
-    - {name: Wai Singzhuo, tongue: tanvuri, built: [wai, sing, zhuo]}
-    - {name: Wanduo, tongue: tanvuri, built: [wan, duo]}
-    - {name: Wansou Zhuo, tongue: tanvuri, built: [wan, sou, zhuo]}
-    - {name: "Wansou Zhuo, The Chief Auditor of Souls", tongue: translation}
+    - {name: Wai Singzhwo, tongue: tanvuri, built: [wai, sing, zhwo]}
+    - {name: Wandwo, tongue: tanvuri, built: [wan, dwo]}
+    - {name: Wansou Zhwo, tongue: tanvuri, built: [wan, sou, zhwo]}
+    - {name: "Wansou Zhwo, The Chief Auditor of Souls", tongue: translation}
     - {name: Wantou, tongue: tanvuri, built: [wan, tou]}
     - {name: "Wantou, The Keeper of the Celestial Archive", tongue: translation}
     - {name: Warden of the Bound, tongue: translation}
     - {name: Warlord, tongue: translation}
     - {name: Watcher, tongue: translation}
     - {name: Watsai, tongue: tanvuri, built: [wa, tsai]}
-    - {name: Wei Zhai Rui, tongue: tanvuri, built: [wei, zhai, rui]}
-    - {name: Weizhuo, tongue: tanvuri, built: [wei, zhuo]}
-    - {name: "Weizhuo Daonei, the Jade Sovereign", tongue: translation}
-    - {name: Wengdao Zhouwo, tongue: tanvuri, built: [weng, dao, zhou, wo]}
+    - {name: Wei Zhai Rwi, tongue: tanvuri, built: [wei, zhai, rwi]}
+    - {name: Weizhwo, tongue: tanvuri, built: [wei, zhwo]}
+    - {name: "Weizhwo Daunei, the Jade Sovereign", tongue: translation}
+    - {name: Wengdau Zhouwo, tongue: tanvuri, built: [weng, dau, zhou, wo]}
     - {name: Wodou, tongue: tanvuri, built: [wo, dou]}
     - {name: "Wodou, The Minister of Roads", tongue: translation}
-    - {name: Wogen Henzhuo, tongue: tanvuri, built: [wo, gen, hen, zhuo]}
+    - {name: Wogen Henzhwo, tongue: tanvuri, built: [wo, gen, hen, zhwo]}
     - {name: Wohou, tongue: tanvuri, built: [wo, hou]}
     - {name: Wojing Ja, tongue: tanvuri, built: [wo, jing, ja]}
     - {name: Wouchei, tongue: tanvuri, built: [wou, chei]}
-    - {name: Yanchai Zhao, tongue: tanvuri, built: [yan, chai, zhao]}
+    - {name: Yanchai Zhau, tongue: tanvuri, built: [yan, chai, zhau]}
     - {name: Yolei, tongue: tanvuri, built: [yo, lei]}
-    - {name: Youbui, tongue: tanvuri, built: [you, bui]}
+    - {name: Youbwi, tongue: tanvuri, built: [you, bwi]}
     - {name: Youweng, tongue: tanvuri, built: [you, weng]}
     - {name: Youweng Lesser Demons, tongue: translation}
-    - {name: Yozhuo, tongue: tanvuri, built: [yo, zhuo]}
-    - {name: Zhaosou, tongue: tanvuri, built: [zhao, sou]}
+    - {name: Yozhwo, tongue: tanvuri, built: [yo, zhwo]}
+    - {name: Zhausou, tongue: tanvuri, built: [zhau, sou]}
     - {name: Zhawo, tongue: tanvuri, built: [zha, wo]}
     - {name: Zhazho, tongue: tanvuri, built: [zha, zho]}
     - {name: Zhinho, tongue: tanvuri, built: [zhin, ho]}
     - {name: "Zhinho, The Minister of Fire", tongue: translation}
     - {name: Zhoushou Zho, tongue: tanvuri, built: [zhou, shou, zho]}
     - {name: Zhowo, tongue: tanvuri, built: [zho, wo]}
-    - {name: Zhozhuo, tongue: tanvuri, built: [zho, zhuo]}
+    - {name: Zhozhwo, tongue: tanvuri, built: [zho, zhwo]}
   retired:
     - {form: Lüng, instead: Zho, why: "an Earth word, the dragon"}
     - {form: Tānlüng, instead: Tanzho, why: "built on an Earth word, the celestial dragon"}
@@ -5389,17 +5393,17 @@ data:
     - form: Zhütlüng
       instead: Wengzho
       why: "built on an Earth word, and an Earth constellation by its color and beast"
-    - {form: Güng, instead: Gui, why: "an Earth word, an official"}
-    - {form: Rëkgüng, instead: Raogui, why: "built on an Earth word, the minister of storms"}
-    - {form: Yātgüng, instead: Yaigui, why: "built on an Earth word, the practitioner of medicine"}
+    - {form: Güng, instead: Gwi, why: "an Earth word, an official"}
+    - {form: Rëkgüng, instead: Raugwi, why: "built on an Earth word, the minister of storms"}
+    - {form: Yātgüng, instead: Yaigwi, why: "built on an Earth word, the practitioner of medicine"}
     - {form: Rën, instead: Nong, why: "an Earth word, a person"}
-    - {form: Shükrën, instead: Shuonong, why: "built on an Earth word, the merchant caste"}
+    - {form: Shükrën, instead: Shwonong, why: "built on an Earth word, the merchant caste"}
     - {form: Vüsrën, instead: Wonong, why: "built on an Earth word, the common soldiers"}
     - form: Tëngvōk Vān Lëi
       instead: Tengwou Rong Lei
       why: "built on an Earth word, the Celestial Order"
     - form: Dāk Vān Hōk
-      instead: Dao Rong Hou
+      instead: Dau Rong Hou
       why: "built on an Earth word, the Great Convergence"
     - form: Vānlëng
       instead: Rongleng
@@ -5409,8 +5413,8 @@ data:
       instead: Zhizhai
       why: "built on an Earth word, and an Earth constellation by its color and beast"
     - {form: Rötyürt, instead: Rinyan, why: "built on two Earth words, a woman's name"}
-    - {form: Thürkyüt, instead: Chiaoyou, why: "built on an Earth people's name, the winter month"}
-    - {form: thürk, instead: chiao, why: "an Earth people's name, to freeze"}
+    - {form: Thürkyüt, instead: Chyauyou, why: "built on an Earth people's name, the winter month"}
+    - {form: thürk, instead: chyau, why: "an Earth people's name, to freeze"}
     - {form: Yürt, instead: Yan, why: "an Earth word, a cloud"}
     - form: Yürtthāt
       instead: Yanchai
@@ -5420,7 +5424,7 @@ data:
       instead: Wogen
       why: "an Earth word, a hero, carried as the steppe warlord's name"
     - {form: Vëkthōr, instead: Watsai, why: "an Earth word, the demon lord of false records"}
-    - {form: Hëkvüt, instead: Kuowou, why: an Earth constellation by its color and beast}
+    - {form: Hëkvüt, instead: Kwowou, why: an Earth constellation by its color and beast}
     - {form: Bëithürt, instead: Tuihen, why: an Earth constellation by its color and beast}
     - {form: Lüngmāt, instead: Lengmai, why: "built on an Earth word, and an Earth beast of omen"}
     - {form: Azure Dragon, instead: Wind Dragon, why: an Earth constellation}
@@ -5431,19 +5435,19 @@ data:
     - {form: Jade Emperor, instead: Jade Sovereign, why: an Earth god}
     - {form: qilin, instead: jei, why: "an Earth word, a horned beast of good omen"}
     - {form: Qigong, instead: Leichei, why: "an Earth word, a discipline of breath"}
-    - {form: Bëitbëi, instead: Buibei, why: the name's earlier spelling}
-    - {form: Bëitthëi, instead: Buichei, why: the name's earlier spelling}
-    - {form: Dākhöt, instead: Daoho, why: the name's earlier spelling}
-    - {form: Dākhöt Vōr, instead: Daoho Wo, why: the name's earlier spelling}
-    - {form: Dāknëi, instead: Daonei, why: the name's earlier spelling}
-    - {form: Dāktūr, instead: Daotou, why: the name's earlier spelling}
-    - {form: Dāktūr Vōrthāt, instead: Daotou Wochai, why: the name's earlier spelling}
-    - {form: Dākvëng, instead: Daoweng, why: the name's earlier spelling}
-    - {form: Dākyāt, instead: Daoyai, why: the name's earlier spelling}
-    - {form: Dākzhös, instead: Daozho, why: the name's earlier spelling}
-    - {form: Dākzhük, instead: Daozhuo, why: the name's earlier spelling}
-    - {form: Dākzhüt, instead: Daozhou, why: the name's earlier spelling}
-    - {form: Daozhen, instead: Daozhin, why: the name's earlier spelling}
+    - {form: Bëitbëi, instead: Bwibei, why: the name's earlier spelling}
+    - {form: Bëitthëi, instead: Bwichei, why: the name's earlier spelling}
+    - {form: Dākhöt, instead: Dauho, why: the name's earlier spelling}
+    - {form: Dākhöt Vōr, instead: Dauho Wo, why: the name's earlier spelling}
+    - {form: Dāknëi, instead: Daunei, why: the name's earlier spelling}
+    - {form: Dāktūr, instead: Dautou, why: the name's earlier spelling}
+    - {form: Dāktūr Vōrthāt, instead: Dautou Wochai, why: the name's earlier spelling}
+    - {form: Dākvëng, instead: Dauweng, why: the name's earlier spelling}
+    - {form: Dākyāt, instead: Dauyai, why: the name's earlier spelling}
+    - {form: Dākzhös, instead: Dauzho, why: the name's earlier spelling}
+    - {form: Dākzhük, instead: Dauzhwo, why: the name's earlier spelling}
+    - {form: Dākzhüt, instead: Dauzhou, why: the name's earlier spelling}
+    - {form: Daozhen, instead: Dauzhin, why: the name's earlier spelling}
     - {form: Dōk Sëi, instead: Dou Sei, why: the name's earlier spelling}
     - {form: Dōk Thōk, instead: Dou Chou, why: the name's earlier spelling}
     - {form: Dōkyök, instead: Douyo, why: the name's earlier spelling}
@@ -5453,37 +5457,37 @@ data:
     - {form: Fëklüt, instead: Falou, why: the name's earlier spelling}
     - {form: Fëklüt Sëi, instead: Falou Sei, why: the name's earlier spelling}
     - {form: Fëkvōr, instead: Fawo, why: the name's earlier spelling}
-    - {form: Genhen, instead: Genhuen, why: the name's earlier spelling}
-    - {form: Gīrkthāt, instead: Guichai, why: the name's earlier spelling}
-    - {form: Gīrkvüs, instead: Guiwo, why: the name's earlier spelling}
-    - {form: Gürnhürn, instead: Genhuen, why: the name's earlier spelling}
+    - {form: Genhen, instead: Genhwen, why: the name's earlier spelling}
+    - {form: Gīrkthāt, instead: Gwichai, why: the name's earlier spelling}
+    - {form: Gīrkvüs, instead: Gwiwo, why: the name's earlier spelling}
+    - {form: Gürnhürn, instead: Genhwen, why: the name's earlier spelling}
     - {form: Hëklëi, instead: Halei, why: the name's earlier spelling}
-    - {form: Hëk Lōt Zhāk, instead: Ha Luo Zhao, why: the name's earlier spelling}
+    - {form: Hëk Lōt Zhāk, instead: Ha Lwo Zhau, why: the name's earlier spelling}
     - {form: Hëkvōr, instead: Hawo, why: the name's earlier spelling}
     - {form: Hëkyök, instead: Hayo, why: the name's earlier spelling}
-    - {form: Hëk Zhāk, instead: Ha Zhao, why: the name's earlier spelling}
+    - {form: Hëk Zhāk, instead: Ha Zhau, why: the name's earlier spelling}
     - {form: Hëkzhāt, instead: Hazhai, why: the name's earlier spelling}
     - {form: Hëkzōk, instead: Hatsou, why: the name's earlier spelling}
-    - {form: Henhatou, instead: Huenhatou, why: the name's earlier spelling}
-    - {form: Henhatoutsou, instead: Huenhatoutsou, why: the name's earlier spelling}
-    - {form: Henlei, instead: Huenlei, why: the name's earlier spelling}
-    - {form: Hensingyo, instead: Huensingyo, why: the name's earlier spelling}
-    - {form: Henweng, instead: Huenweng, why: the name's earlier spelling}
+    - {form: Henhatou, instead: Hwenhatou, why: the name's earlier spelling}
+    - {form: Henhatoutsou, instead: Hwenhatoutsou, why: the name's earlier spelling}
+    - {form: Henlei, instead: Hwenlei, why: the name's earlier spelling}
+    - {form: Hensingyo, instead: Hwensingyo, why: the name's earlier spelling}
+    - {form: Henweng, instead: Hwenweng, why: the name's earlier spelling}
     - {form: hieng, instead: hen, why: the name's earlier spelling}
     - {form: Hōkyüt, instead: Houyou, why: the name's earlier spelling}
     - {form: Höt Sëi, instead: Ho Sei, why: the name's earlier spelling}
     - {form: Hötyüt, instead: Hoyou, why: the name's earlier spelling}
     - {form: Houwei, instead: Weihou, why: the name's earlier spelling}
-    - {form: Hürnhëktūr, instead: Huenhatou, why: the name's earlier spelling}
-    - {form: Hürnhëktūrzōk, instead: Huenhatoutsou, why: the name's earlier spelling}
-    - {form: Hürnlëi, instead: Huenlei, why: the name's earlier spelling}
-    - {form: Hürn Sëi, instead: Huen Sei, why: the name's earlier spelling}
-    - {form: Hürnvëng, instead: Huenweng, why: the name's earlier spelling}
-    - {form: Hürnvëthzhük, instead: Huensingyo, why: the name's earlier spelling}
-    - {form: Hürnvōr, instead: Huenwo, why: the name's earlier spelling}
-    - {form: Hürnzhük, instead: Huenzhuo, why: the name's earlier spelling}
-    - {form: Hürtzhük, instead: Henzhuo, why: the name's earlier spelling}
-    - {form: Jëityüt, instead: Juiyou, why: the name's earlier spelling}
+    - {form: Hürnhëktūr, instead: Hwenhatou, why: the name's earlier spelling}
+    - {form: Hürnhëktūrzōk, instead: Hwenhatoutsou, why: the name's earlier spelling}
+    - {form: Hürnlëi, instead: Hwenlei, why: the name's earlier spelling}
+    - {form: Hürn Sëi, instead: Hwen Sei, why: the name's earlier spelling}
+    - {form: Hürnvëng, instead: Hwenweng, why: the name's earlier spelling}
+    - {form: Hürnvëthzhük, instead: Hwensingyo, why: the name's earlier spelling}
+    - {form: Hürnvōr, instead: Hwenwo, why: the name's earlier spelling}
+    - {form: Hürnzhük, instead: Hwenzhwo, why: the name's earlier spelling}
+    - {form: Hürtzhük, instead: Henzhwo, why: the name's earlier spelling}
+    - {form: Jëityüt, instead: Jwiyou, why: the name's earlier spelling}
     - {form: Jīkyüt, instead: Jingyou, why: the name's earlier spelling}
     - {form: Jīkzhös, instead: Jingzho, why: the name's earlier spelling}
     - {form: Jingzhen, instead: Jingzhin, why: the name's earlier spelling}
@@ -5493,13 +5497,13 @@ data:
     - {form: Kērlüt, instead: Tuichai, why: the name's earlier spelling}
     - {form: Kērvōn, instead: Houwo, why: the name's earlier spelling}
     - {form: Kīrhürt, instead: Jeihen, why: the name's earlier spelling}
-    - {form: Kōtjür, instead: Kuojen, why: the name's earlier spelling}
-    - {form: Kōtvüt, instead: Kuowou, why: the name's earlier spelling}
+    - {form: Kōtjür, instead: Kwojen, why: the name's earlier spelling}
+    - {form: Kōtvüt, instead: Kwowou, why: the name's earlier spelling}
     - {form: Lëigürt, instead: Leigen, why: the name's earlier spelling}
     - {form: Lëithëi, instead: Leichei, why: the name's earlier spelling}
     - {form: Lëivōr, instead: Leiwo, why: the name's earlier spelling}
     - {form: Lëknëi, instead: Lanei, why: the name's earlier spelling}
-    - {form: Lengluo, instead: Luoleng, why: the name's earlier spelling}
+    - {form: Lengluo, instead: Lwoleng, why: the name's earlier spelling}
     - {form: Lëngmāt, instead: Lengmai, why: the name's earlier spelling}
     - {form: Lëngvōr, instead: Lengwo, why: the name's earlier spelling}
     - {form: Lëngzhāt, instead: Lengzhai, why: the name's earlier spelling}
@@ -5509,32 +5513,32 @@ data:
     - {form: Nëizāt, instead: Neitsai, why: the name's earlier spelling}
     - {form: Nōkvōr, instead: Nouwo, why: the name's earlier spelling}
     - {form: Nōkvür, instead: Nouwen, why: the name's earlier spelling}
-    - {form: Noutsou, instead: Nuitsou, why: the name's earlier spelling}
-    - {form: nuei, instead: nui, why: the name's earlier spelling}
+    - {form: Noutsou, instead: Nwitsou, why: the name's earlier spelling}
+    - {form: nuei, instead: nwi, why: the name's earlier spelling}
     - {form: Nürthöt, instead: Nenho, why: the name's earlier spelling}
-    - {form: Nüshöt, instead: Nuoho, why: the name's earlier spelling}
-    - {form: Nüslëi, instead: Nuolei, why: the name's earlier spelling}
-    - {form: Nüs Sëi, instead: Nuo Sei, why: the name's earlier spelling}
-    - {form: Nüsvōr, instead: Nuowo, why: the name's earlier spelling}
+    - {form: Nüshöt, instead: Nwoho, why: the name's earlier spelling}
+    - {form: Nüslëi, instead: Nwolei, why: the name's earlier spelling}
+    - {form: Nüs Sëi, instead: Nwo Sei, why: the name's earlier spelling}
+    - {form: Nüsvōr, instead: Nwowo, why: the name's earlier spelling}
     - {form: Nüsvōrroth, instead: Nuoworoth, why: the name's earlier spelling}
     - {form: Nüsvōrroths, instead: Nuoworoths, why: the name's earlier spelling}
-    - {form: Nüszōk, instead: Nuotsou, why: the name's earlier spelling}
-    - {form: Nüszōk Rëit, instead: Nuotsou Rui, why: the name's earlier spelling}
-    - {form: Nützōk, instead: Nuitsou, why: the name's earlier spelling}
-    - {form: Rëkgīrk, instead: Raogui, why: the name's earlier spelling}
-    - {form: Rëkshüt, instead: Raoshou, why: the name's earlier spelling}
+    - {form: Nüszōk, instead: Nwotsou, why: the name's earlier spelling}
+    - {form: Nüszōk Rëit, instead: Nwotsou Rwi, why: the name's earlier spelling}
+    - {form: Nützōk, instead: Nwitsou, why: the name's earlier spelling}
+    - {form: Rëkgīrk, instead: Raugwi, why: the name's earlier spelling}
+    - {form: Rëkshüt, instead: Raushou, why: the name's earlier spelling}
     - {form: Rīrnhöt, instead: Rinho, why: the name's earlier spelling}
-    - {form: Rīrnhöt Dākvëng, instead: Rinho Daoweng, why: the name's earlier spelling}
+    - {form: Rīrnhöt Dākvëng, instead: Rinho Dauweng, why: the name's earlier spelling}
     - {form: Rūrklëng, instead: Rongleng, why: the name's earlier spelling}
-    - {form: Shëitzhük, instead: Shuizhuo, why: the name's earlier spelling}
-    - {form: Shouluo, instead: Wongluo, why: the name's earlier spelling}
+    - {form: Shëitzhük, instead: Shwizhwo, why: the name's earlier spelling}
+    - {form: Shouluo, instead: Wonglwo, why: the name's earlier spelling}
     - {form: Shouwei, instead: Wongwei, why: the name's earlier spelling}
-    - {form: Shüknürk, instead: Shuonong, why: the name's earlier spelling}
+    - {form: Shüknürk, instead: Shwonong, why: the name's earlier spelling}
     - {form: Shütyüt, instead: Shouyou, why: the name's earlier spelling}
     - {form: Sīklëi, instead: Singlei, why: the name's earlier spelling}
     - {form: Sīkvōk, instead: Singwou, why: the name's earlier spelling}
-    - {form: Sīkvūrzhïk, instead: Chounuoyo, why: the name's earlier spelling}
-    - {form: Sīkzhük, instead: Singzhuo, why: the name's earlier spelling}
+    - {form: Sīkvūrzhïk, instead: Chounwoyo, why: the name's earlier spelling}
+    - {form: Sīkzhük, instead: Singzhwo, why: the name's earlier spelling}
     - {form: Tānthëi, instead: Tanchei, why: the name's earlier spelling}
     - {form: Tánvür, instead: Tantsou, why: the name's earlier spelling}
     - {form: Tānvüran, instead: Tantsou, why: the name's earlier spelling}
@@ -5544,98 +5548,98 @@ data:
     - {form: Tëithürt, instead: Tuihen, why: the name's earlier spelling}
     - {form: Tëitjëk, instead: Tuija, why: the name's earlier spelling}
     - {form: Tëitjëk Vëngyīrt, instead: Tuija Wengyan, why: the name's earlier spelling}
-    - {form: Tëng Gīrk, instead: Teng Gui, why: the name's earlier spelling}
+    - {form: Tëng Gīrk, instead: Teng Gwi, why: the name's earlier spelling}
     - {form: Tëngmüt, instead: Tengmou, why: the name's earlier spelling}
     - {form: Tëng Thōk, instead: Teng Chou, why: the name's earlier spelling}
     - {form: Tëngvōk, instead: Tengwou, why: the name's earlier spelling}
     - {form: Tëngvōk Rūrk Lëi, instead: Tengwou Rong Lei, why: the name's earlier spelling}
     - {form: Tëngvōr, instead: Tengwo, why: the name's earlier spelling}
     - {form: Tëngyōk, instead: Tengyou, why: the name's earlier spelling}
-    - {form: Thākhöt, instead: Chaoho, why: the name's earlier spelling}
+    - {form: Thākhöt, instead: Chauho, why: the name's earlier spelling}
     - {form: Thātvōng, instead: Chaiwong, why: the name's earlier spelling}
     - {form: Thātzhös, instead: Chaizho, why: the name's earlier spelling}
-    - {form: Thëikyüt, instead: Chiaoyou, why: the name's earlier spelling}
-    - {form: Thëizhëit, instead: Cheizhui, why: the name's earlier spelling}
-    - {form: Thimvōrk, instead: Mougui, why: the name's earlier spelling}
+    - {form: Thëikyüt, instead: Chyauyou, why: the name's earlier spelling}
+    - {form: Thëizhëit, instead: Cheizhwi, why: the name's earlier spelling}
+    - {form: Thimvōrk, instead: Mougwi, why: the name's earlier spelling}
     - {form: Thōkgürt, instead: Chougen, why: the name's earlier spelling}
     - {form: Thōklëi, instead: Choulei, why: the name's earlier spelling}
     - {form: Thōk Sëi, instead: Chou Sei, why: the name's earlier spelling}
     - {form: Thōkvōr, instead: Chouwo, why: the name's earlier spelling}
     - {form: Thürtyüt, instead: Chenyou, why: the name's earlier spelling}
-    - {form: Thürzhük, instead: Chenzhuo, why: the name's earlier spelling}
-    - {form: Touhen, instead: Touhuen, why: the name's earlier spelling}
+    - {form: Thürzhük, instead: Chenzhwo, why: the name's earlier spelling}
+    - {form: Touhen, instead: Touhwen, why: the name's earlier spelling}
     - {form: Tuidao, instead: Tuizho, why: the name's earlier spelling}
     - {form: Tuizhen, instead: Tuizhin, why: the name's earlier spelling}
-    - {form: Tūrhürn, instead: Touhuen, why: the name's earlier spelling}
+    - {form: Tūrhürn, instead: Touhwen, why: the name's earlier spelling}
     - {form: Tūrvōr, instead: Touwo, why: the name's earlier spelling}
     - {form: Tūryüt, instead: Touyou, why: the name's earlier spelling}
-    - {form: Vāt Sīkzhük, instead: Wai Singzhuo, why: the name's earlier spelling}
+    - {form: Vāt Sīkzhük, instead: Wai Singzhwo, why: the name's earlier spelling}
     - {form: Vëithāt, instead: Weichai, why: the name's earlier spelling}
-    - {form: Vëi Zhāt Rëit, instead: Wei Zhai Rui, why: the name's earlier spelling}
-    - {form: Vëizhük, instead: Weizhuo, why: the name's earlier spelling}
+    - {form: Vëi Zhāt Rëit, instead: Wei Zhai Rwi, why: the name's earlier spelling}
+    - {form: Vëizhük, instead: Weizhwo, why: the name's earlier spelling}
     - {form: Vëkzāt, instead: Watsai, why: the name's earlier spelling}
     - {form: Vëkzhös, instead: Wazho, why: the name's earlier spelling}
-    - {form: Vëndük, instead: Wanduo, why: the name's earlier spelling}
-    - {form: Vëngdāk, instead: Wengdao, why: the name's earlier spelling}
-    - {form: Vëngdāk Zhütvōr, instead: Wengdao Zhouwo, why: the name's earlier spelling}
+    - {form: Vëndük, instead: Wandwo, why: the name's earlier spelling}
+    - {form: Vëngdāk, instead: Wengdau, why: the name's earlier spelling}
+    - {form: Vëngdāk Zhütvōr, instead: Wengdau Zhouwo, why: the name's earlier spelling}
     - {form: Vënghöt, instead: Wengho, why: the name's earlier spelling}
     - {form: Vëngyīrt, instead: Wengyan, why: the name's earlier spelling}
     - {form: Vëngyüt, instead: Wengyou, why: the name's earlier spelling}
     - {form: Vëngzhös, instead: Wengzho, why: the name's earlier spelling}
-    - {form: Vëngzhük, instead: Wengzhuo, why: the name's earlier spelling}
+    - {form: Vëngzhük, instead: Wengzhwo, why: the name's earlier spelling}
     - {form: Vënsōk, instead: Wansou, why: the name's earlier spelling}
-    - {form: Vënsōk Zhük, instead: Wansou Zhuo, why: the name's earlier spelling}
+    - {form: Vënsōk Zhük, instead: Wansou Zhwo, why: the name's earlier spelling}
     - {form: Vëntōk, instead: Wantou, why: the name's earlier spelling}
-    - {form: Vōrdāk, instead: Wodao, why: the name's earlier spelling}
+    - {form: Vōrdāk, instead: Wodau, why: the name's earlier spelling}
     - {form: Vōrdōk, instead: Wodou, why: the name's earlier spelling}
     - {form: Vōrjëk, instead: Woja, why: the name's earlier spelling}
     - {form: Vōrjīk, instead: Wojing, why: the name's earlier spelling}
     - {form: Vōrjīk Jëk, instead: Wojing Ja, why: the name's earlier spelling}
     - {form: Vörkāt, instead: Tsaimou, why: the name's earlier spelling}
     - {form: Vōrlëi, instead: Wolei, why: the name's earlier spelling}
-    - {form: Vōrthāk, instead: Wochao, why: the name's earlier spelling}
+    - {form: Vōrthāk, instead: Wochau, why: the name's earlier spelling}
     - {form: Vōrthāt, instead: Wochai, why: the name's earlier spelling}
     - {form: Vōryāt, instead: Woyai, why: the name's earlier spelling}
     - {form: Vōrzhür, instead: Wozhin, why: the name's earlier spelling}
-    - {form: Vürtzhāk, instead: Wenzhao, why: the name's earlier spelling}
+    - {form: Vürtzhāk, instead: Wenzhau, why: the name's earlier spelling}
     - {form: Vüsgürt, instead: Wogen, why: the name's earlier spelling}
-    - {form: Vüsgürt Hürtzhük, instead: Wogen Henzhuo, why: the name's earlier spelling}
+    - {form: Vüsgürt Hürtzhük, instead: Wogen Henzhwo, why: the name's earlier spelling}
     - {form: Vüshōk, instead: Wohou, why: the name's earlier spelling}
     - {form: Vüsnürk, instead: Wonong, why: the name's earlier spelling}
-    - {form: Vüszhük, instead: Wozhuo, why: the name's earlier spelling}
+    - {form: Vüszhük, instead: Wozhwo, why: the name's earlier spelling}
     - {form: Vüthëi, instead: Wouchei, why: the name's earlier spelling}
-    - {form: Weimei, instead: Buimei, why: the name's earlier spelling}
-    - {form: Weiyou, instead: Chuenyou, why: the name's earlier spelling}
+    - {form: Weimei, instead: Bwimei, why: the name's earlier spelling}
+    - {form: Weiyou, instead: Chwenyou, why: the name's earlier spelling}
     - {form: Wozhen, instead: Wozhin, why: the name's earlier spelling}
-    - {form: Yanluo, instead: Buiyan, why: the name's earlier spelling}
-    - {form: Yātgīrk, instead: Yaigui, why: the name's earlier spelling}
+    - {form: Yanluo, instead: Bwiyan, why: the name's earlier spelling}
+    - {form: Yātgīrk, instead: Yaigwi, why: the name's earlier spelling}
     - {form: Yātvōr, instead: Yaiwo, why: the name's earlier spelling}
     - {form: Yātzāt, instead: Yaitsai, why: the name's earlier spelling}
     - {form: Yīrtthāt, instead: Yanchai, why: the name's earlier spelling}
-    - {form: Yīrtthāt Zhāk, instead: Yanchai Zhao, why: the name's earlier spelling}
+    - {form: Yīrtthāt Zhāk, instead: Yanchai Zhau, why: the name's earlier spelling}
     - {form: Yöklëi, instead: Yolei, why: the name's earlier spelling}
     - {form: Yökvëng, instead: Youweng, why: the name's earlier spelling}
-    - {form: Yökzhük, instead: Yozhuo, why: the name's earlier spelling}
-    - {form: Youwei, instead: [Youbui, Youzhen], why: the name's earlier spelling}
-    - {form: Yütjëit, instead: Youjui, why: the name's earlier spelling}
-    - {form: Yütvëi, instead: Youbui, why: the name's earlier spelling}
-    - {form: Zāthük, instead: Tsaihuo, why: the name's earlier spelling}
+    - {form: Yökzhük, instead: Yozhwo, why: the name's earlier spelling}
+    - {form: Youwei, instead: [Youbwi, Youzhen], why: the name's earlier spelling}
+    - {form: Yütjëit, instead: Youjwi, why: the name's earlier spelling}
+    - {form: Yütvëi, instead: Youbwi, why: the name's earlier spelling}
+    - {form: Zāthük, instead: Tsaihwo, why: the name's earlier spelling}
     - {form: Zātkür, instead: Tsaiken, why: the name's earlier spelling}
     - {form: Zāt Sëi, instead: Tsai Sei, why: the name's earlier spelling}
     - {form: Zëisīk, instead: Tseising, why: the name's earlier spelling}
-    - {form: Zhākkōt, instead: Zhaokuo, why: the name's earlier spelling}
-    - {form: Zhāklëi, instead: Zhaolei, why: the name's earlier spelling}
-    - {form: Zhāklüt, instead: Zhaolou, why: the name's earlier spelling}
-    - {form: Zhāksōk, instead: Zhaosou, why: the name's earlier spelling}
-    - {form: Zhākvëi, instead: Zhaowei, why: the name's earlier spelling}
+    - {form: Zhākkōt, instead: Zhaukwo, why: the name's earlier spelling}
+    - {form: Zhāklëi, instead: Zhaulei, why: the name's earlier spelling}
+    - {form: Zhāklüt, instead: Zhaulou, why: the name's earlier spelling}
+    - {form: Zhāksōk, instead: Zhausou, why: the name's earlier spelling}
+    - {form: Zhākvëi, instead: Zhauwei, why: the name's earlier spelling}
     - {form: Zhëkvōr, instead: Zhawo, why: the name's earlier spelling}
     - {form: Zhëkvōrthān, instead: Zhawochan, why: the name's earlier spelling}
     - {form: Zhëkyāt, instead: Zhayai, why: the name's earlier spelling}
     - {form: Zhëkzhös, instead: Zhazho, why: the name's earlier spelling}
     - {form: Zhenho, instead: Zhinho, why: the name's earlier spelling}
-    - {form: Zhenzhi, instead: Chuenzhi, why: the name's earlier spelling}
+    - {form: Zhenzhi, instead: Chwenzhi, why: the name's earlier spelling}
     - {form: Zhëtvök, instead: Nongyo, why: the name's earlier spelling}
-    - {form: Zhik, instead: Rui, why: the name's earlier spelling}
+    - {form: Zhik, instead: Rwi, why: the name's earlier spelling}
     - {form: Zhīrvōr, instead: Zhiwo, why: the name's earlier spelling}
     - {form: Zhīrzhāt, instead: Zhizhai, why: the name's earlier spelling}
     - {form: Zhiyou, instead: Tengzhi, why: the name's earlier spelling}
@@ -5645,11 +5649,11 @@ data:
     - {form: Zhösvōk, instead: Zhowou, why: the name's earlier spelling}
     - {form: Zhösvōr, instead: Zhowo, why: the name's earlier spelling}
     - {form: Zhösvörsīk, instead: Hameiyo, why: the name's earlier spelling}
-    - {form: Zhöszhük, instead: Zhozhuo, why: the name's earlier spelling}
-    - {form: Zhouwei, instead: Muowei, why: the name's earlier spelling}
-    - {form: Zhükrëi, instead: Zhuorei, why: the name's earlier spelling}
-    - {form: Zhükvōr, instead: Zhuowo, why: the name's earlier spelling}
-    - {form: Zhükzhös, instead: Zhuozho, why: the name's earlier spelling}
+    - {form: Zhöszhük, instead: Zhozhwo, why: the name's earlier spelling}
+    - {form: Zhouwei, instead: Mwowei, why: the name's earlier spelling}
+    - {form: Zhükrëi, instead: Zhworei, why: the name's earlier spelling}
+    - {form: Zhükvōr, instead: Zhwowo, why: the name's earlier spelling}
+    - {form: Zhükzhös, instead: Zhwozho, why: the name's earlier spelling}
     - {form: Zhürhöt, instead: Zhinho, why: the name's earlier spelling}
     - {form: Zhürtyüt, instead: Zhenyou, why: the name's earlier spelling}
     - {form: Zhütshel, instead: Singzha, why: the name's earlier spelling}
@@ -5658,9 +5662,161 @@ data:
     - {form: Zhütvōr, instead: Zhouwo, why: the name's earlier spelling}
     - {form: Zhütvōrthēk, instead: Tuigui, why: the name's earlier spelling}
     - {form: Zhützhāt, instead: Zhouzhai, why: the name's earlier spelling}
-    - {form: ki, instead: gie, why: "copies the Earth word for to stand and look"}
-    - {form: ji, instead: zhie, why: "copies the Earth word for works"}
+    - {form: ki, instead: gye, why: "copies the Earth word for to stand and look"}
+    - {form: ji, instead: zhye, why: "copies the Earth word for works"}
     - {form: bi, instead: fin, why: "copies the Earth word for a grain"}
+    - {form: luo, instead: lwo, why: "respelled to the guide: a glide is written w or y"}
+    - {form: chuen, instead: chwen, why: "respelled to the guide: a glide is written w or y"}
+    - {form: rao, instead: rau, why: "respelled to the guide: a glide is written w or y"}
+    - {form: muo, instead: mwo, why: "respelled to the guide: a glide is written w or y"}
+    - {form: bui, instead: bwi, why: "respelled to the guide: a glide is written w or y"}
+    - {form: zhuo, instead: zhwo, why: "respelled to the guide: a glide is written w or y"}
+    - {form: gui, instead: gwi, why: "respelled to the guide: a glide is written w or y"}
+    - {form: nui, instead: nwi, why: "respelled to the guide: a glide is written w or y"}
+    - {form: zhao, instead: zhau, why: "respelled to the guide: a glide is written w or y"}
+    - {form: shuo, instead: shwo, why: "respelled to the guide: a glide is written w or y"}
+    - {form: huo, instead: hwo, why: "respelled to the guide: a glide is written w or y"}
+    - {form: huen, instead: hwen, why: "respelled to the guide: a glide is written w or y"}
+    - {form: nuo, instead: nwo, why: "respelled to the guide: a glide is written w or y"}
+    - {form: duo, instead: dwo, why: "respelled to the guide: a glide is written w or y"}
+    - {form: rui, instead: rwi, why: "respelled to the guide: a glide is written w or y"}
+    - {form: jui, instead: jwi, why: "respelled to the guide: a glide is written w or y"}
+    - {form: nie, instead: nye, why: "respelled to the guide: a glide is written w or y"}
+    - {form: chiao, instead: chyau, why: "respelled to the guide: a glide is written w or y"}
+    - {form: dao, instead: dau, why: "respelled to the guide: a glide is written w or y"}
+    - {form: kuo, instead: kwo, why: "respelled to the guide: a glide is written w or y"}
+    - {form: shui, instead: shwi, why: "respelled to the guide: a glide is written w or y"}
+    - {form: jie, instead: jye, why: "respelled to the guide: a glide is written w or y"}
+    - {form: tsie, instead: tsye, why: "respelled to the guide: a glide is written w or y"}
+    - {form: ruo, instead: rwo, why: "respelled to the guide: a glide is written w or y"}
+    - {form: hao, instead: hau, why: "respelled to the guide: a glide is written w or y"}
+    - {form: sao, instead: sau, why: "respelled to the guide: a glide is written w or y"}
+    - {form: lui, instead: lwi, why: "respelled to the guide: a glide is written w or y"}
+    - {form: lie, instead: lye, why: "respelled to the guide: a glide is written w or y"}
+    - {form: kuen, instead: kwen, why: "respelled to the guide: a glide is written w or y"}
+    - {form: chui, instead: chwi, why: "respelled to the guide: a glide is written w or y"}
+    - {form: muen, instead: mwen, why: "respelled to the guide: a glide is written w or y"}
+    - {form: hui, instead: hwi, why: "respelled to the guide: a glide is written w or y"}
+    - {form: liao, instead: lyau, why: "respelled to the guide: a glide is written w or y"}
+    - {form: zhuen, instead: zhwen, why: "respelled to the guide: a glide is written w or y"}
+    - {form: tao, instead: tau, why: "respelled to the guide: a glide is written w or y"}
+    - {form: jao, instead: jau, why: "respelled to the guide: a glide is written w or y"}
+    - {form: kui, instead: kwi, why: "respelled to the guide: a glide is written w or y"}
+    - {form: nao, instead: nau, why: "respelled to the guide: a glide is written w or y"}
+    - {form: dui, instead: dwi, why: "respelled to the guide: a glide is written w or y"}
+    - {form: shao, instead: shau, why: "respelled to the guide: a glide is written w or y"}
+    - {form: tsiao, instead: tsyau, why: "respelled to the guide: a glide is written w or y"}
+    - {form: tsuen, instead: tswen, why: "respelled to the guide: a glide is written w or y"}
+    - {form: tuen, instead: twen, why: "respelled to the guide: a glide is written w or y"}
+    - {form: ruen, instead: rwen, why: "respelled to the guide: a glide is written w or y"}
+    - {form: gie, instead: gye, why: "respelled to the guide: a glide is written w or y"}
+    - {form: chao, instead: chau, why: "respelled to the guide: a glide is written w or y"}
+    - {form: luen, instead: lwen, why: "respelled to the guide: a glide is written w or y"}
+    - {form: chuo, instead: chwo, why: "respelled to the guide: a glide is written w or y"}
+    - {form: lao, instead: lau, why: "respelled to the guide: a glide is written w or y"}
+    - {form: juo, instead: jwo, why: "respelled to the guide: a glide is written w or y"}
+    - {form: juen, instead: jwen, why: "respelled to the guide: a glide is written w or y"}
+    - {form: jiao, instead: jyau, why: "respelled to the guide: a glide is written w or y"}
+    - {form: chie, instead: chye, why: "respelled to the guide: a glide is written w or y"}
+    - {form: die, instead: dye, why: "respelled to the guide: a glide is written w or y"}
+    - {form: duen, instead: dwen, why: "respelled to the guide: a glide is written w or y"}
+    - {form: riao, instead: ryau, why: "respelled to the guide: a glide is written w or y"}
+    - {form: mao, instead: mau, why: "respelled to the guide: a glide is written w or y"}
+    - {form: mui, instead: mwi, why: "respelled to the guide: a glide is written w or y"}
+    - {form: mie, instead: mye, why: "respelled to the guide: a glide is written w or y"}
+    - {form: miao, instead: myau, why: "respelled to the guide: a glide is written w or y"}
+    - {form: nuen, instead: nwen, why: "respelled to the guide: a glide is written w or y"}
+    - {form: buen, instead: bwen, why: "respelled to the guide: a glide is written w or y"}
+    - {form: biao, instead: byau, why: "respelled to the guide: a glide is written w or y"}
+    - {form: giao, instead: gyau, why: "respelled to the guide: a glide is written w or y"}
+    - {form: kao, instead: kau, why: "respelled to the guide: a glide is written w or y"}
+    - {form: kiao, instead: kyau, why: "respelled to the guide: a glide is written w or y"}
+    - {form: fao, instead: fau, why: "respelled to the guide: a glide is written w or y"}
+    - {form: fui, instead: fwi, why: "respelled to the guide: a glide is written w or y"}
+    - {form: fuo, instead: fwo, why: "respelled to the guide: a glide is written w or y"}
+    - {form: fie, instead: fye, why: "respelled to the guide: a glide is written w or y"}
+    - {form: fuen, instead: fwen, why: "respelled to the guide: a glide is written w or y"}
+    - {form: fiao, instead: fyau, why: "respelled to the guide: a glide is written w or y"}
+    - {form: kie, instead: kye, why: "respelled to the guide: a glide is written w or y"}
+    - {form: yao, instead: yau, why: "respelled to the guide: a glide is written w or y"}
+    - {form: zhie, instead: zhye, why: "respelled to the guide: a glide is written w or y"}
+    - {form: suo, instead: swo, why: "respelled to the guide: a glide is written w or y"}
+    - {form: gao, instead: gau, why: "respelled to the guide: a glide is written w or y"}
+    - {form: sie, instead: sye, why: "respelled to the guide: a glide is written w or y"}
+    - {form: shuen, instead: shwen, why: "respelled to the guide: a glide is written w or y"}
+    - {form: bie, instead: bye, why: "respelled to the guide: a glide is written w or y"}
+    - {form: tiao, instead: tyau, why: "respelled to the guide: a glide is written w or y"}
+    - {form: shie, instead: shye, why: "respelled to the guide: a glide is written w or y"}
+    - {form: shiao, instead: shyau, why: "respelled to the guide: a glide is written w or y"}
+    - {form: sui, instead: swi, why: "respelled to the guide: a glide is written w or y"}
+    - {form: rie, instead: rye, why: "respelled to the guide: a glide is written w or y"}
+    - {form: suen, instead: swen, why: "respelled to the guide: a glide is written w or y"}
+    - {form: tsuo, instead: tswo, why: "respelled to the guide: a glide is written w or y"}
+    - {form: tsui, instead: tswi, why: "respelled to the guide: a glide is written w or y"}
+    - {form: tsao, instead: tsau, why: "respelled to the guide: a glide is written w or y"}
+    - {form: siao, instead: syau, why: "respelled to the guide: a glide is written w or y"}
+    - {form: wao, instead: wau, why: "respelled to the guide: a glide is written w or y"}
+    - {form: bao, instead: bau, why: "respelled to the guide: a glide is written w or y"}
+    - {form: hie, instead: hye, why: "respelled to the guide: a glide is written w or y"}
+    - {form: hiao, instead: hyau, why: "respelled to the guide: a glide is written w or y"}
+    - {form: buo, instead: bwo, why: "respelled to the guide: a glide is written w or y"}
+    - form: Chiao Chai Tui Sen
+      instead: Chyau Chai Tui Sen
+      why: "respelled to the guide: a glide is written w or y"
+    - {form: Daoho Wo, instead: Dauho Wo, why: "respelled to the guide: a glide is written w or y"}
+    - form: Daotou Wochai
+      instead: Dautou Wochai
+      why: "respelled to the guide: a glide is written w or y"
+    - {form: Genhuen, instead: Genhwen, why: "respelled to the guide: a glide is written w or y"}
+    - form: Ha Luo Zhao
+      instead: Ha Lwo Zhau
+      why: "respelled to the guide: a glide is written w or y"
+    - {form: Ha Zhao, instead: Ha Zhau, why: "respelled to the guide: a glide is written w or y"}
+    - form: Huenhatoutsou
+      instead: Hwenhatoutsou
+      why: "respelled to the guide: a glide is written w or y"
+    - {form: Huen Sei, instead: Hwen Sei, why: "respelled to the guide: a glide is written w or y"}
+    - {form: Huenwo, instead: Hwenwo, why: "respelled to the guide: a glide is written w or y"}
+    - {form: Huenzhuo, instead: Hwenzhwo, why: "respelled to the guide: a glide is written w or y"}
+    - {form: Nuitsou, instead: Nwitsou, why: "respelled to the guide: a glide is written w or y"}
+    - {form: Nuoho, instead: Nwoho, why: "respelled to the guide: a glide is written w or y"}
+    - {form: Nuolei, instead: Nwolei, why: "respelled to the guide: a glide is written w or y"}
+    - {form: Nuo Sei, instead: Nwo Sei, why: "respelled to the guide: a glide is written w or y"}
+    - form: Nuotsou Rui
+      instead: Nwotsou Rwi
+      why: "respelled to the guide: a glide is written w or y"
+    - {form: Nuowo, instead: Nwowo, why: "respelled to the guide: a glide is written w or y"}
+    - {form: Raogui, instead: Raugwi, why: "respelled to the guide: a glide is written w or y"}
+    - form: Rinho Daoweng
+      instead: Rinho Dauweng
+      why: "respelled to the guide: a glide is written w or y"
+    - {form: Shuonong, instead: Shwonong, why: "respelled to the guide: a glide is written w or y"}
+    - {form: Teng Gui, instead: Teng Gwi, why: "respelled to the guide: a glide is written w or y"}
+    - {form: Tsaihuo, instead: Tsaihwo, why: "respelled to the guide: a glide is written w or y"}
+    - form: Wai Singzhuo
+      instead: Wai Singzhwo
+      why: "respelled to the guide: a glide is written w or y"
+    - {form: Wanduo, instead: Wandwo, why: "respelled to the guide: a glide is written w or y"}
+    - form: Wansou Zhuo
+      instead: Wansou Zhwo
+      why: "respelled to the guide: a glide is written w or y"
+    - form: Wei Zhai Rui
+      instead: Wei Zhai Rwi
+      why: "respelled to the guide: a glide is written w or y"
+    - {form: Weizhuo, instead: Weizhwo, why: "respelled to the guide: a glide is written w or y"}
+    - form: Wengdao Zhouwo
+      instead: Wengdau Zhouwo
+      why: "respelled to the guide: a glide is written w or y"
+    - form: Wogen Henzhuo
+      instead: Wogen Henzhwo
+      why: "respelled to the guide: a glide is written w or y"
+    - form: Yanchai Zhao
+      instead: Yanchai Zhau
+      why: "respelled to the guide: a glide is written w or y"
+    - {form: Youbui, instead: Youbwi, why: "respelled to the guide: a glide is written w or y"}
+    - {form: Yozhuo, instead: Yozhwo, why: "respelled to the guide: a glide is written w or y"}
+    - {form: Zhaosou, instead: Zhausou, why: "respelled to the guide: a glide is written w or y"}
+    - {form: Zhozhuo, instead: Zhozhwo, why: "respelled to the guide: a glide is written w or y"}
   cognates:
     - {forms: {skill-tantsoulng: ho, skill-jurthatlng: ho}, gloss: fire}
     - {forms: {skill-tantsoulng: jing, skill-jurthatlng: ji}, gloss: "metal, gold"}
@@ -5672,21 +5828,21 @@ data:
     - {forms: {skill-tantsoulng: yan, skill-jurthatlng: yan}, gloss: cloud}
     - {forms: {skill-tantsoulng: zhi, skill-jurthatlng: zi}, gloss: star}
     - {forms: {skill-tantsoulng: you, skill-jurthatlng: yu}, gloss: "moon, month"}
-    - {forms: {skill-tantsoulng: luo, skill-jurthatlng: ro}, gloss: "flower, lotus"}
+    - {forms: {skill-tantsoulng: lwo, skill-jurthatlng: ro}, gloss: "flower, lotus"}
     - {forms: {skill-tantsoulng: nou, skill-jurthatlng: nu}, gloss: "field, garden"}
     - {forms: {skill-tantsoulng: wong, skill-jurthatlng: wo}, gloss: "sea, ocean"}
     - {forms: {skill-tantsoulng: zhen, skill-jurthatlng: zen}, gloss: snow}
-    - {forms: {skill-tantsoulng: chuen, skill-jurthatlng: chen}, gloss: frost}
-    - {forms: {skill-tantsoulng: rao, skill-jurthatlng: rou}, gloss: thunder}
+    - {forms: {skill-tantsoulng: chwen, skill-jurthatlng: chen}, gloss: frost}
+    - {forms: {skill-tantsoulng: rau, skill-jurthatlng: rou}, gloss: thunder}
     - {forms: {skill-tantsoulng: la, skill-jurthatlng: ra}, gloss: lightning}
-    - {forms: {skill-tantsoulng: tui, skill-jurthatlng: tsui}, gloss: iron}
+    - {forms: {skill-tantsoulng: tui, skill-jurthatlng: tswi}, gloss: iron}
     - {forms: {skill-tantsoulng: wei, skill-jurthatlng: wei}, gloss: jade}
     - {forms: {skill-tantsoulng: teng, skill-jurthatlng: te}, gloss: "heaven, the sky; celestial"}
     - {forms: {skill-tantsoulng: tan, skill-jurthatlng: tan}, gloss: "celestial, of heaven"}
-    - {forms: {skill-tantsoulng: muo, skill-jurthatlng: mu}, gloss: green}
+    - {forms: {skill-tantsoulng: mwo, skill-jurthatlng: mu}, gloss: green}
     - {forms: {skill-tantsoulng: zhou, skill-jurthatlng: zu}, gloss: "blue, azure; flowing"}
     - {forms: {skill-tantsoulng: rin, skill-jurthatlng: rin}, gloss: "red, vermilion"}
-    - {forms: {skill-tantsoulng: bui, skill-jurthatlng: bui}, gloss: "white, silver"}
+    - {forms: {skill-tantsoulng: bwi, skill-jurthatlng: bwi}, gloss: "white, silver"}
     - {forms: {skill-tantsoulng: ha, skill-jurthatlng: ha}, gloss: "dark, black, hidden; shadow"}
     - {forms: {skill-tantsoulng: leng, skill-jurthatlng: re}, gloss: "bright, radiant; dawn"}
     - {forms: {skill-tantsoulng: jen, skill-jurthatlng: jen}, gloss: nine}
@@ -5694,22 +5850,22 @@ data:
     - {forms: {skill-tantsoulng: wai, skill-jurthatlng: wai}, gloss: ten}
     - {forms: {skill-tantsoulng: rong, skill-jurthatlng: rou}, gloss: "ten thousand, a myriad"}
     - {forms: {skill-tantsoulng: chen, skill-jurthatlng: chen}, gloss: "emperor, king"}
-    - {forms: {skill-tantsoulng: zhuo, skill-jurthatlng: zo}, gloss: "lord, sovereign"}
+    - {forms: {skill-tantsoulng: zhwo, skill-jurthatlng: zo}, gloss: "lord, sovereign"}
     - {forms: {skill-tantsoulng: nei, skill-jurthatlng: nei}, gloss: "sovereign, ruler"}
-    - {forms: {skill-tantsoulng: gui, skill-jurthatlng: gui}, gloss: "official, minister"}
+    - {forms: {skill-tantsoulng: gwi, skill-jurthatlng: gwi}, gloss: "official, minister"}
     - {forms: {skill-tantsoulng: gen, skill-jurthatlng: gen}, gloss: "master, teacher"}
     - {forms: {skill-tantsoulng: wuo, skill-jurthatlng: wo}, gloss: "warrior, soldier"}
     - {forms: {skill-tantsoulng: chei, skill-jurthatlng: chei}, gloss: "scholar, sage"}
     - {forms: {skill-tantsoulng: yai, skill-jurthatlng: yai}, gloss: "healer, physician"}
     - {forms: {skill-tantsoulng: zhei, skill-jurthatlng: zei}, gloss: "son, child"}
     - {forms: {skill-tantsoulng: nong, skill-jurthatlng: nou}, gloss: "person, folk"}
-    - {forms: {skill-tantsoulng: nui, skill-jurthatlng: nu}, gloss: "bound, enslaved"}
+    - {forms: {skill-tantsoulng: nwi, skill-jurthatlng: nu}, gloss: "bound, enslaved"}
     - {forms: {skill-tantsoulng: tsou, skill-jurthatlng: tsu}, gloss: "tribe, group, people"}
-    - {forms: {skill-tantsoulng: zhao, skill-jurthatlng: zou}, gloss: "house, clan, family"}
+    - {forms: {skill-tantsoulng: zhau, skill-jurthatlng: zou}, gloss: "house, clan, family"}
     - {forms: {skill-tantsoulng: ken, skill-jurthatlng: ken}, gloss: "hearth, household"}
-    - {forms: {skill-tantsoulng: shuo, skill-jurthatlng: sho}, gloss: trade}
+    - {forms: {skill-tantsoulng: shwo, skill-jurthatlng: sho}, gloss: trade}
     - {forms: {skill-tantsoulng: ja, skill-jurthatlng: ja}, gloss: blade}
-    - {forms: {skill-tantsoulng: huo, skill-jurthatlng: ho}, gloss: hand}
+    - {forms: {skill-tantsoulng: hwo, skill-jurthatlng: ho}, gloss: hand}
     - {forms: {skill-tantsoulng: wen, skill-jurthatlng: wen}, gloss: "center, middle"}
     - {forms: {skill-tantsoulng: wou, skill-jurthatlng: wu}, gloss: "court, palace, hall"}
     - {forms: {skill-tantsoulng: wo, skill-jurthatlng: wo}, gloss: "divine, sacred"}
@@ -5719,18 +5875,18 @@ data:
     - {forms: {skill-tantsoulng: dou, skill-jurthatlng: du}, gloss: "path, road, journey"}
     - {forms: {skill-tantsoulng: hou, skill-jurthatlng: fu}, gloss: "balance, harmony, calm"}
     - {forms: {skill-tantsoulng: tsai, skill-jurthatlng: tsai}, gloss: "creation, craft"}
-    - {forms: {skill-tantsoulng: huen, skill-jurthatlng: hen}, gloss: "chaos, disorder"}
+    - {forms: {skill-tantsoulng: hwen, skill-jurthatlng: hen}, gloss: "chaos, disorder"}
     - {forms: {skill-tantsoulng: sing, skill-jurthatlng: si}, gloss: death}
     - {forms: {skill-tantsoulng: zha, skill-jurthatlng: za}, gloss: "life, birth"}
-    - {forms: {skill-tantsoulng: nuo, skill-jurthatlng: no}, gloss: "decay, rot"}
+    - {forms: {skill-tantsoulng: nwo, skill-jurthatlng: no}, gloss: "decay, rot"}
     - {forms: {skill-tantsoulng: fa, skill-jurthatlng: fa}, gloss: "wealth, fortune"}
     - {forms: {skill-tantsoulng: chou, skill-jurthatlng: chu}, gloss: "knowledge, lore, record"}
-    - {forms: {skill-tantsoulng: duo, skill-jurthatlng: do}, gloss: "sorcery, magic"}
-    - {forms: {skill-tantsoulng: rui, skill-jurthatlng: rui}, gloss: "ritual, ceremony, dance"}
-    - {forms: {skill-tantsoulng: jui, skill-jurthatlng: jui}, gloss: festival}
+    - {forms: {skill-tantsoulng: dwo, skill-jurthatlng: do}, gloss: "sorcery, magic"}
+    - {forms: {skill-tantsoulng: rwi, skill-jurthatlng: rwi}, gloss: "ritual, ceremony, dance"}
+    - {forms: {skill-tantsoulng: jwi, skill-jurthatlng: jwi}, gloss: festival}
     - {forms: {skill-tantsoulng: tsei, skill-jurthatlng: tsei}, gloss: "self, own"}
     - {forms: {skill-tantsoulng: wan, skill-jurthatlng: wan}, gloss: "account, reckoning"}
-    - {forms: {skill-tantsoulng: nie, skill-jurthatlng: ne}, gloss: year}
+    - {forms: {skill-tantsoulng: nye, skill-jurthatlng: ne}, gloss: year}
     - {forms: {skill-tantsoulng: mei, skill-jurthatlng: mei}, gloss: dream}
     - {forms: {skill-tantsoulng: zho, skill-jurthatlng: zo}, gloss: dragon}
     - {forms: {skill-tantsoulng: hen, skill-jurthatlng: hen}, gloss: tiger}
@@ -5744,30 +5900,30 @@ data:
     - {forms: {skill-tantsoulng: jei, skill-jurthatlng: je}, gloss: a horned beast of good omen}
     - {forms: {skill-tantsoulng: cheng, skill-jurthatlng: che}, gloss: "to rise, to ascend"}
     - {forms: {skill-tantsoulng: jong, skill-jurthatlng: jo}, gloss: "to fall, to descend"}
-    - {forms: {skill-tantsoulng: chiao, skill-jurthatlng: cho}, gloss: to freeze; winter}
+    - {forms: {skill-tantsoulng: chyau, skill-jurthatlng: cho}, gloss: to freeze; winter}
     - {forms: {skill-tantsoulng: wa, skill-jurthatlng: wa}, gloss: "to answer, to echo"}
-    - {forms: {skill-tantsoulng: dao, skill-jurthatlng: dou}, gloss: "great, supreme"}
-    - {forms: {skill-tantsoulng: kuo, skill-jurthatlng: ko}, gloss: "old, ancient, eternal"}
-    - {forms: {skill-tantsoulng: shui, skill-jurthatlng: shui}, gloss: "new, lesser, small"}
+    - {forms: {skill-tantsoulng: dau, skill-jurthatlng: dou}, gloss: "great, supreme"}
+    - {forms: {skill-tantsoulng: kwo, skill-jurthatlng: ko}, gloss: "old, ancient, eternal"}
+    - {forms: {skill-tantsoulng: shwi, skill-jurthatlng: shwi}, gloss: "new, lesser, small"}
     - {forms: {skill-tantsoulng: hing, skill-jurthatlng: hi}, gloss: "to see, to look"}
-    - {forms: {skill-tantsoulng: jie, skill-jurthatlng: je}, gloss: "sight, view; what is seen"}
+    - {forms: {skill-tantsoulng: jye, skill-jurthatlng: je}, gloss: "sight, view; what is seen"}
     - {forms: {skill-tantsoulng: ten, skill-jurthatlng: ten}, gloss: "to hear, to listen"}
     - {forms: {skill-tantsoulng: yong, skill-jurthatlng: yo}, gloss: "sound, voice"}
     - {forms: {skill-tantsoulng: sin, skill-jurthatlng: sin}, gloss: "to smell"}
     - {forms: {skill-tantsoulng: fai, skill-jurthatlng: fai}, gloss: "smell, scent, odor"}
-    - {forms: {skill-tantsoulng: tsie, skill-jurthatlng: tse}, gloss: "to taste"}
-    - {forms: {skill-tantsoulng: ruo, skill-jurthatlng: ro}, gloss: "taste, flavor"}
+    - {forms: {skill-tantsoulng: tsye, skill-jurthatlng: tse}, gloss: "to taste"}
+    - {forms: {skill-tantsoulng: rwo, skill-jurthatlng: ro}, gloss: "taste, flavor"}
     - forms: {skill-tantsoulng: gai, skill-jurthatlng: gai}
       gloss: "to touch, to feel with the hand"
-    - {forms: {skill-tantsoulng: hao, skill-jurthatlng: hou}, gloss: "head"}
-    - {forms: {skill-tantsoulng: sao, skill-jurthatlng: sou}, gloss: "hair of the head"}
+    - {forms: {skill-tantsoulng: hau, skill-jurthatlng: hou}, gloss: "head"}
+    - {forms: {skill-tantsoulng: sau, skill-jurthatlng: sou}, gloss: "hair of the head"}
     - {forms: {skill-tantsoulng: lan, skill-jurthatlng: ran}, gloss: "face"}
     - {forms: {skill-tantsoulng: ching, skill-jurthatlng: chi}, gloss: "eye"}
-    - {forms: {skill-tantsoulng: lui, skill-jurthatlng: rui}, gloss: "ear"}
+    - {forms: {skill-tantsoulng: lwi, skill-jurthatlng: rwi}, gloss: "ear"}
     - {forms: {skill-tantsoulng: fong, skill-jurthatlng: fo}, gloss: "nose"}
     - {forms: {skill-tantsoulng: tsong, skill-jurthatlng: tso}, gloss: "mouth"}
     - {forms: {skill-tantsoulng: ga, skill-jurthatlng: ga}, gloss: "tooth"}
-    - {forms: {skill-tantsoulng: lie, skill-jurthatlng: re}, gloss: "tongue"}
+    - {forms: {skill-tantsoulng: lye, skill-jurthatlng: re}, gloss: "tongue"}
     - {forms: {skill-tantsoulng: beng, skill-jurthatlng: be}, gloss: "neck, throat"}
     - {forms: {skill-tantsoulng: kong, skill-jurthatlng: ko}, gloss: "shoulder"}
     - {forms: {skill-tantsoulng: bin, skill-jurthatlng: bin}, gloss: "arm"}
@@ -5777,26 +5933,26 @@ data:
     - {forms: {skill-tantsoulng: tsen, skill-jurthatlng: tsen}, gloss: "heart; seat of feeling"}
     - {forms: {skill-tantsoulng: tuo, skill-jurthatlng: to}, gloss: "belly"}
     - {forms: {skill-tantsoulng: shai, skill-jurthatlng: shai}, gloss: "back"}
-    - {forms: {skill-tantsoulng: kuen, skill-jurthatlng: ken}, gloss: "hip"}
+    - {forms: {skill-tantsoulng: kwen, skill-jurthatlng: ken}, gloss: "hip"}
     - {forms: {skill-tantsoulng: jo, skill-jurthatlng: jo}, gloss: "leg"}
     - {forms: {skill-tantsoulng: dai, skill-jurthatlng: dai}, gloss: "foot"}
     - {forms: {skill-tantsoulng: lo, skill-jurthatlng: ro}, gloss: "skin, hide"}
     - {forms: {skill-tantsoulng: ko, skill-jurthatlng: ko}, gloss: "bone"}
-    - {forms: {skill-tantsoulng: chui, skill-jurthatlng: chui}, gloss: "blood"}
-    - {forms: {skill-tantsoulng: muen, skill-jurthatlng: men}, gloss: "flesh, meat"}
+    - {forms: {skill-tantsoulng: chwi, skill-jurthatlng: chwi}, gloss: "blood"}
+    - {forms: {skill-tantsoulng: mwen, skill-jurthatlng: men}, gloss: "flesh, meat"}
     - {forms: {skill-tantsoulng: ta, skill-jurthatlng: ta}, gloss: "food, meal"}
     - {forms: {skill-tantsoulng: sho, skill-jurthatlng: sho}, gloss: "to eat"}
     - {forms: {skill-tantsoulng: sa, skill-jurthatlng: sa}, gloss: "drink"}
-    - {forms: {skill-tantsoulng: hui, skill-jurthatlng: fui}, gloss: "to drink"}
+    - {forms: {skill-tantsoulng: hwi, skill-jurthatlng: fwi}, gloss: "to drink"}
     - {forms: {skill-tantsoulng: fou, skill-jurthatlng: fu}, gloss: "to breathe"}
     - {forms: {skill-tantsoulng: min, skill-jurthatlng: min}, gloss: "to sleep"}
-    - {forms: {skill-tantsoulng: liao, skill-jurthatlng: ro}, gloss: "urine"}
+    - {forms: {skill-tantsoulng: lyau, skill-jurthatlng: ro}, gloss: "urine"}
     - {forms: {skill-tantsoulng: bou, skill-jurthatlng: bu}, gloss: "dung, excrement"}
     - {forms: {skill-tantsoulng: jin, skill-jurthatlng: jin}, gloss: "warmth; warm"}
     - {forms: {skill-tantsoulng: gan, skill-jurthatlng: gan}, gloss: "table"}
     - {forms: {skill-tantsoulng: tong, skill-jurthatlng: to}, gloss: "floor"}
     - {forms: {skill-tantsoulng: zheng, skill-jurthatlng: ze}, gloss: "wall"}
-    - {forms: {skill-tantsoulng: zhuen, skill-jurthatlng: zen}, gloss: "roof"}
+    - {forms: {skill-tantsoulng: zhwen, skill-jurthatlng: zen}, gloss: "roof"}
     - {forms: {skill-tantsoulng: zhong, skill-jurthatlng: zo}, gloss: "house, home, abode"}
     - {forms: {skill-tantsoulng: sen, skill-jurthatlng: sen}, gloss: "door, gate"}
     - {forms: {skill-tantsoulng: kin, skill-jurthatlng: kin}, gloss: "lock; to lock"}
@@ -5807,7 +5963,7 @@ data:
     - {forms: {skill-tantsoulng: shen, skill-jurthatlng: shen}, gloss: "cloth"}
     - {forms: {skill-tantsoulng: tsi, skill-jurthatlng: kei}, gloss: "one"}
     - {forms: {skill-tantsoulng: len, skill-jurthatlng: ren}, gloss: "two"}
-    - {forms: {skill-tantsoulng: tao, skill-jurthatlng: tou}, gloss: "three"}
+    - {forms: {skill-tantsoulng: tau, skill-jurthatlng: tou}, gloss: "three"}
     - {forms: {skill-tantsoulng: fei, skill-jurthatlng: fei}, gloss: "four"}
     - {forms: {skill-tantsoulng: jou, skill-jurthatlng: ju}, gloss: "six"}
     - {forms: {skill-tantsoulng: tai, skill-jurthatlng: tai}, gloss: "seven"}
@@ -5818,8 +5974,8 @@ data:
     - {forms: {skill-tantsoulng: chong, skill-jurthatlng: cho}, gloss: "many, much"}
     - {forms: {skill-tantsoulng: bo, skill-jurthatlng: bo}, gloss: "few, little"}
     - {forms: {skill-tantsoulng: mong, skill-jurthatlng: mo}, gloss: "none, nothing; not"}
-    - {forms: {skill-tantsoulng: jao, skill-jurthatlng: jou}, gloss: "yellow"}
-    - {forms: {skill-tantsoulng: kui, skill-jurthatlng: kui}, gloss: "gray, ash-colored"}
+    - {forms: {skill-tantsoulng: jau, skill-jurthatlng: jou}, gloss: "yellow"}
+    - {forms: {skill-tantsoulng: kwi, skill-jurthatlng: kwi}, gloss: "gray, ash-colored"}
     - {forms: {skill-tantsoulng: jan, skill-jurthatlng: jan}, gloss: "brown"}
     - {forms: {skill-tantsoulng: na, skill-jurthatlng: na}, gloss: "mother"}
     - {forms: {skill-tantsoulng: to, skill-jurthatlng: to}, gloss: "father"}
@@ -5828,22 +5984,22 @@ data:
     - {forms: {skill-tantsoulng: dei, skill-jurthatlng: dei}, gloss: "to be"}
     - {forms: {skill-tantsoulng: kai, skill-jurthatlng: kai}, gloss: "to have"}
     - {forms: {skill-tantsoulng: rou, skill-jurthatlng: ru}, gloss: "to go"}
-    - {forms: {skill-tantsoulng: nao, skill-jurthatlng: nou}, gloss: "to come"}
+    - {forms: {skill-tantsoulng: nau, skill-jurthatlng: nou}, gloss: "to come"}
     - {forms: {skill-tantsoulng: zhan, skill-jurthatlng: zan}, gloss: "to give"}
-    - {forms: {skill-tantsoulng: dui, skill-jurthatlng: dui}, gloss: "to take"}
-    - {forms: {skill-tantsoulng: shao, skill-jurthatlng: shou}, gloss: "to make"}
-    - {forms: {skill-tantsoulng: tsiao, skill-jurthatlng: tso}, gloss: "to do"}
+    - {forms: {skill-tantsoulng: dwi, skill-jurthatlng: dwi}, gloss: "to take"}
+    - {forms: {skill-tantsoulng: shau, skill-jurthatlng: shou}, gloss: "to make"}
+    - {forms: {skill-tantsoulng: tsyau, skill-jurthatlng: tso}, gloss: "to do"}
     - {forms: {skill-tantsoulng: ya, skill-jurthatlng: ya}, gloss: "to say"}
-    - {forms: {skill-tantsoulng: tsuen, skill-jurthatlng: tsen}, gloss: "to speak, to talk"}
+    - {forms: {skill-tantsoulng: tswen, skill-jurthatlng: tsen}, gloss: "to speak, to talk"}
     - {forms: {skill-tantsoulng: tsing, skill-jurthatlng: tsi}, gloss: "to know"}
     - {forms: {skill-tantsoulng: sai, skill-jurthatlng: sai}, gloss: "to think"}
     - {forms: {skill-tantsoulng: yei, skill-jurthatlng: yei}, gloss: "to want, to desire"}
     - {forms: {skill-tantsoulng: shan, skill-jurthatlng: shan}, gloss: "to live"}
     - {forms: {skill-tantsoulng: fen, skill-jurthatlng: fen}, gloss: "to die"}
-    - {forms: {skill-tantsoulng: tuen, skill-jurthatlng: ten}, gloss: "to walk"}
-    - {forms: {skill-tantsoulng: ruen, skill-jurthatlng: ren}, gloss: "to run"}
+    - {forms: {skill-tantsoulng: twen, skill-jurthatlng: ten}, gloss: "to walk"}
+    - {forms: {skill-tantsoulng: rwen, skill-jurthatlng: ren}, gloss: "to run"}
     - {forms: {skill-tantsoulng: den, skill-jurthatlng: den}, gloss: "to sit"}
-    - {forms: {skill-tantsoulng: gie, skill-jurthatlng: ki}, gloss: "to stand"}
+    - {forms: {skill-tantsoulng: gye, skill-jurthatlng: ki}, gloss: "to stand"}
     - {forms: {skill-tantsoulng: yuen, skill-jurthatlng: yen}, gloss: "to lie down"}
     - {forms: {skill-tantsoulng: gwen, skill-jurthatlng: wen}, gloss: "to hold"}
     - {forms: {skill-tantsoulng: hai, skill-jurthatlng: hai}, gloss: "to bring, to carry"}
@@ -5852,14 +6008,14 @@ data:
     - {forms: {skill-tantsoulng: shin, skill-jurthatlng: shin}, gloss: "to lose"}
     - {forms: {skill-tantsoulng: ka, skill-jurthatlng: ka}, gloss: "to open"}
     - {forms: {skill-tantsoulng: seng, skill-jurthatlng: se}, gloss: "to close, to shut"}
-    - {forms: {skill-tantsoulng: chao, skill-jurthatlng: chou}, gloss: "to begin"}
-    - {forms: {skill-tantsoulng: luen, skill-jurthatlng: ren}, gloss: "to end, to finish"}
+    - {forms: {skill-tantsoulng: chau, skill-jurthatlng: chou}, gloss: "to begin"}
+    - {forms: {skill-tantsoulng: lwen, skill-jurthatlng: ren}, gloss: "to end, to finish"}
     - {forms: {skill-tantsoulng: hin, skill-jurthatlng: hin}, gloss: "love, to cherish"}
     - forms: {skill-tantsoulng: jeng, skill-jurthatlng: je}
       gloss: "joint, knot; where a limb bends"
     - {forms: {skill-tantsoulng: mi, skill-jurthatlng: mi}, gloss: "woman; female"}
     - {forms: {skill-tantsoulng: chan, skill-jurthatlng: chan}, gloss: "man; male"}
-    - {forms: {skill-tantsoulng: chuo, skill-jurthatlng: cho}, gloss: "rank, place in order"}
+    - {forms: {skill-tantsoulng: chwo, skill-jurthatlng: cho}, gloss: "rank, place in order"}
     - {forms: {skill-tantsoulng: si, skill-jurthatlng: si}, gloss: "pearl"}
     - {forms: {skill-tantsoulng: do, skill-jurthatlng: do}, gloss: "pine"}
     - {forms: {skill-tantsoulng: ri, skill-jurthatlng: ri}, gloss: "sail"}
@@ -5897,9 +6053,9 @@ The language is known natively as **Tantsou**, the name of the people (_tan_, ce
 
 ## How Tantsou sounds
 
-Tantsou is built of single syllables set side by side. Each syllable is short and complete: one consonant, a vowel or a gliding pair, and at most a soft _-n_ or _-ng_. Most words have one or two syllables, and two is the commonest.
+Tantsou is built of single syllables set side by side. Each syllable is short and complete: one consonant, a vowel, a vowel pair or a vowel after a gliding _w_ or _y_, and at most a soft _-n_ or _-ng_. Most words have one or two syllables, and two is the commonest.
 
-**The vowels.** Syllables rest on _-ou_, _-ei_, _-o_, _-uo_, _-a_, _-ao_, _-ui_, _-ai_ or _-i_, or close on _-en_, _-eng_, _-an_, _-ing_, _-in_ or _-ong_. _-ie_, _-uen_ and _-iao_ are rare. These eighteen finals are the whole of them.
+**The vowels.** Syllables rest on _-ou_, _-ei_, _-o_, _-wo_, _-a_, _-au_, _-wi_, _-ai_ or _-i_, or close on _-en_, _-eng_, _-an_, _-ing_, _-in_ or _-ong_. _-ye_, _-wen_ and _-yau_ are rare. After _w_ and _y_, and in _tui_, _tuo_ and _guen_, the vowels stand without a glide: _-ui_, _-uo_, _-uen_ and _-ie_. These finals are the whole of them.
 
 **The consonants.** _w_, _zh_, _h_, _l_, _y_, _j_, _t_, _ch_ and _d_ open most syllables. _r_, _m_, _n_, _s_, _ts_ and _sh_ are common; _b_, _g_, _k_, _f_ and _gw_ are rare. These twenty are the whole of them. _y_ never stands before a final that begins with _i_, and _gw_ never before one that begins with _u_.
 
@@ -5907,21 +6063,19 @@ Tantsou is built of single syllables set side by side. Each syllable is short an
 
 **Endings.** Every syllable ends on a vowel, _-n_ or _-ng_, and most on a vowel.
 
-**One syllable, one root.** Every root is a single syllable and a single character of Teng Chou, and every syllable of a word is a root: a compound is its roots set side by side and nothing else, with no endings and no bound pieces. A root spells the same in every word it builds, so _hen_, the tiger, is _hen_ in _Tuihen_ and in _Daohen_.
+**One syllable, one root.** Every root is a single syllable and a single character of Teng Chou, and every syllable of a word is a root: a compound is its roots set side by side and nothing else, with no endings and no bound pieces. A root spells the same in every word it builds, so _hen_, the tiger, is _hen_ in _Tuihen_ and in _Dauhen_.
 
 **Roots that sound alike.** Two or three roots may share a written form, never more, and each root that builds names has a form of its own. Roots that share a form share one entry in the lexicon, whose gloss gives each sense in turn.
 
-**What Tantsou leaves out.** _p_, _v_, _x_ and _q_; a _z_ standing alone; a syllable that opens on a vowel; a closing consonant other than _n_ and _ng_; the endings _-ang_ and a bare _-e_; and any mark on a letter. Tone is not written.
+**What Tantsou leaves out.** _p_, _v_, _x_ and _q_; a _z_ standing alone; a syllable that opens on a vowel; a closing consonant other than _n_ and _ng_; the endings _-ang_ and a bare _-e_; and any mark on a letter. Tone is not written, and a level voice is correct.
 
 ## Pronunciation Guide
 
-The sound of Tantsou is sung. A syllable is an **initial**, a **final** and a **tone**. It opens on a consonant, rests on an open vowel or a gliding pair of vowels, and may close on a soft _-n_ or _-ng_. No hard stop ends a syllable, so speech runs on in a flowing line, and pitch carries meaning as much as the letters do.
+The sound of Tantsou is sung. A syllable is an **initial** and a **final**. It opens on a consonant, rests on an open vowel, a vowel pair or a vowel after a gliding _w_ or _y_, and may close on a soft _-n_ or _-ng_. No hard stop ends a syllable, so speech runs on in a flowing line.
 
 Its words are written in the setting's one guide; see [[doc-prnncthlrn|Pronouncing Thalorna]].
 
-Tone is contrastive: the same syllable in a different tone is a different word. Each syllable has one of four tones: high and level, rising from low to high, falling from high to low, or low and falling a little.
-
-Each syllable keeps its own tone inside a compound, so _Zhazho_ (life-dragon) is said low, then falling.
+Speakers lift and lower their voices as they sing a line, but the roman writes no tone, and saying every syllable on a level voice, with only its stress, is correct.
 
 ---
 
@@ -5940,17 +6094,17 @@ Sample phrases and sentences:
 - _Zho teng cheng._ = dragon (_zho_) + sky (_teng_) + ascends (_cheng_) > "The dragon ascends the sky."
 - _Lei wa._ = spirit (_lei_) + answers (_wa_) > "The spirit answers."
 - _Shou jong._ = water (_shou_) + falls (_jong_) > "The water falls."
-- _Dao chen tsou wa._ = great (_dao_) + emperor (_chen_) + people (_tsou_) + answers (_wa_) > "The people answer the great emperor."
+- _Dau chen tsou wa._ = great (_dau_) + emperor (_chen_) + people (_tsou_) + answers (_wa_) > "The people answer the great emperor."
 
 ### Compounding
 
-The primary word-formation process is **compounding**: two or more single-syllable words set side by side, the first modifying the second. Nothing joins or alters them, and each keeps its tone.
+The primary word-formation process is **compounding**: two or more single-syllable words set side by side, the first modifying the second. Nothing joins or alters them.
 
 - _ho_ (fire) + _sei_ (bureau) > _Ho Sei_ (Fire Bureau)
 - _sing_ (death) + _wou_ (court) > _Sing Wou_ (Court of the Dead)
 - _tui_ (iron) + _ja_ (blade) > _Tuija_ (Iron Blade, a personal name)
 
-A compound that is a personal or place name, a god or a caste is written as a single word: _Tanzho_, _Weizhuo_, _Raogui_. A descriptive title, an office or an institution keeps its words apart: _Teng Gui_ (Celestial Minister), _Lei Sei_ (Spirit Bureau).
+A compound that is a personal or place name, a god or a caste is written as a single word: _Tanzho_, _Weizhwo_, _Raugwi_. A descriptive title, an office or an institution keeps its words apart: _Teng Gwi_ (Celestial Minister), _Lei Sei_ (Spirit Bureau).
 
 ### Suffixes
 
@@ -5958,14 +6112,14 @@ A small number of words close compounds so often that they act as suffixes:
 
 | Suffix | Meaning               | Example                                                |
 | ------ | --------------------- | ------------------------------------------------------ |
-| -tsou  | tribe, group, people  | _Nuitsou_ (slaves), _Ha Tsou_ > _Hatsou_ (shadow folk) |
-| -wo    | sacred, divine        | _Meiwo_ (Dream Spirit), _Nuowo_ (Spirit of Decay)      |
-| -gui   | official, minister    | _Raogui_ (Thunder Lord), _Yaigui_ (Practitioner)       |
+| -tsou  | tribe, group, people  | _Nwitsou_ (slaves), _Ha Tsou_ > _Hatsou_ (shadow folk) |
+| -wo    | sacred, divine        | _Meiwo_ (Dream Spirit), _Nwowo_ (Spirit of Decay)      |
+| -gwi   | official, minister    | _Raugwi_ (Thunder Lord), _Yaigwi_ (Practitioner)       |
 | -gen   | master, teacher       | _Leigen_ (Spirit Master), _Chougen_ (Lore Master)      |
-| -zhuo  | lord, sovereign       | _Yozhuo_ (Demon Lord), _Wozhuo_ (War Lord)             |
-| -lei   | spirit                | _Nuolei_ (Decay Spirit), _Falei_ (Fortune Spirit)      |
+| -zhwo  | lord, sovereign       | _Yozhwo_ (Demon Lord), _Wozhwo_ (War Lord)             |
+| -lei   | spirit                | _Nwolei_ (Decay Spirit), _Falei_ (Fortune Spirit)      |
 | -you   | month                 | _Hoyou_ (Fire Month), _Touyou_ (Earth Month)           |
-| -jui   | festival              | _Hou Lei Jui_ (Harmony Festival)                       |
+| -jwi   | festival              | _Hou Lei Jwi_ (Harmony Festival)                       |
 | -chai  | mountain, peak, place | _Jenchai_ (Nine Mountains), _Weichai_ (Jade Peak)      |
 | -wou   | court, palace, hall   | _Tengwou_ (Celestial Court), _Sing Wou_ (Death Court)  |
 | -sei   | bureau, ministry      | _Ho Sei_ (Fire Bureau), _Dou Sei_ (Journey Bureau)     |
@@ -5976,19 +6130,19 @@ Tantsou does not mark plurality on nouns. Context says whether a word means one 
 
 ### Honorifics and Titles
 
-Titles follow the name: _Tanzho Wozhuo_ = Tanzho + "Sacred Lord" (a title). In formal address the word _dao_ (great, supreme) may be prefixed: _Daonei_ (Great Sovereign), _Daoyai_ (Grand Physician).
+Titles follow the name: _Tanzho Wozhwo_ = Tanzho + "Sacred Lord" (a title). In formal address the word _dau_ (great, supreme) may be prefixed: _Daunei_ (Great Sovereign), _Dauyai_ (Grand Physician).
 
 ---
 
 ## Ordinary expressions
 
-The ordinary words follow the same modifier-first order as names. A sensory quality can be expressed with _kai_, have: _lai fai kai_, have a good smell, describes a fragrant thing; _dao yong kai_, have a great sound, describes a loud one. A verb before a noun can specify its purpose or occasion, as _den mou_, sitting wood, names a chair, and _min yen_, a sleeping occasion, locates an act during sleep. The dictionary gives the conventional meaning of an idiom as well as its roots: _chin gi_, fear-keeping, names keeping one's purpose while afraid.
+The ordinary words follow the same modifier-first order as names. A sensory quality can be expressed with _kai_, have: _lai fai kai_, have a good smell, describes a fragrant thing; _dau yong kai_, have a great sound, describes a loud one. A verb before a noun can specify its purpose or occasion, as _den mou_, sitting wood, names a chair, and _min yen_, a sleeping occasion, locates an act during sleep. The dictionary gives the conventional meaning of an idiom as well as its roots: _chin gi_, fear-keeping, names keeping one's purpose while afraid.
 
-Relation words follow what they relate: _zhong men san_, at the house interior, means inside the house; _zhong suen_ means from the house, and _zhong tsuo_ toward it. _Len tsui sui nong_ means more people than two. Possessors and quantity words stand before their nouns: _tseng zhong_, my house; _tsi tsi nong_, every person considered one by one. The same words refer to one or many as the situation requires.
+Relation words follow what they relate: _zhong men san_, at the house interior, means inside the house; _zhong swen_ means from the house, and _zhong tswo_ toward it. _Len tswi swi nong_ means more people than two. Possessors and quantity words stand before their nouns: _tseng zhong_, my house; _tsi tsi nong_, every person considered one by one. The same words refer to one or many as the situation requires.
 
-Statements keep their verb last. _Tseng ja gwen_ means I hold the blade; _nong mong nao_ means a person does not come. The question word stands where its answer belongs: _shie tsin wan shou kai_ asks how much water you have. _Wui_ closes a question asking for affirmation or denial: _shie nao wui_, do you come? An event possibility has _hie_, a chance; ability has _yui_, capacity; permission has _yuo_, leave; obligation has _jai_, duty. Thus _tuen yui kai_ says can walk, _tuen yuo kai_ may walk, and _tsiao jai kai_ must act. Each cited act can be replaced by the act in question without changing its verb.
+Statements keep their verb last. _Tseng ja gwen_ means I hold the blade; _nong mong nau_ means a person does not come. The question word stands where its answer belongs: _shye tsin wan shou kai_ asks how much water you have. _Wui_ closes a question asking for affirmation or denial: _shye nau wui_, do you come? An event possibility has _hye_, a chance; ability has _yui_, capacity; permission has _yuo_, leave; obligation has _jai_, duty. Thus _twen yui kai_ says can walk, _twen yuo kai_ may walk, and _tsyau jai kai_ must act. Each cited act can be replaced by the act in question without changing its verb.
 
-The four familiar love compounds name romantic love, friendship, family love and universal selfless love separately. _Rinyei_ names lust. _Fo_ names a person's confidence or certainty; _heng juo_ names truth. A confident claim can be false, and a true claim can be held with doubt.
+The four familiar love compounds name romantic love, friendship, family love and universal selfless love separately. _Rinyei_ names lust. _Fo_ names a person's confidence or certainty; _heng jwo_ names truth. A confident claim can be false, and a true claim can be held with doubt.
 
 ## Compound Words and Titles
 
@@ -6000,26 +6154,26 @@ Every word below is built from the roots in [[skill-tantsoulng#lexicon|the lexic
 | ----------------- | -------------------------- | --------------------- |
 | Tengzhei          | Heaven-Child               | Emperor               |
 | Rongleng Tengzhei | Myriad-Bright Heaven-Child | Emperor of Jenchai    |
-| Wozhuo            | Warrior-Lord               | Warlord               |
-| Daozhuo           | Great-Lord                 | Great Lord (Jenchai)  |
-| Shuizhuo          | Lesser-Lord                | Lesser Lord (Jenchai) |
-| Teng Gui          | Heaven-Official            | Celestial Minister    |
-| Guichai           | Office-Mountain            | Provincial Governor   |
-| Zhaokuo           | Clan-Ancient               | Clan Elder            |
-| Zhaolou           | Clan-Law                   | Caste Laws            |
+| Wozhwo            | Warrior-Lord               | Warlord               |
+| Dauzhwo           | Great-Lord                 | Great Lord (Jenchai)  |
+| Shwizhwo          | Lesser-Lord                | Lesser Lord (Jenchai) |
+| Teng Gwi          | Heaven-Official            | Celestial Minister    |
+| Gwichai           | Office-Mountain            | Provincial Governor   |
+| Zhaukwo           | Clan-Ancient               | Clan Elder            |
+| Zhaulou           | Clan-Law                   | Caste Laws            |
 
 ### The Eight Castes
 
 | Tantsou  | Literal Meaning   | Role                                                 |
 | -------- | ----------------- | ---------------------------------------------------- |
 | Zhazho   | Life-Dragon       | Imperial family—"Dragon-born"                        |
-| Wanduo   | Reckoning-Magic   | Chattel Sorcerers                                    |
+| Wandwo   | Reckoning-Magic   | Chattel Sorcerers                                    |
 | Wohou    | Warrior-Noble     | Warrior Nobility                                     |
 | Tanchei  | Celestial-Scholar | Celestial Scholars                                   |
-| Tsaihuo  | Craft-Hand        | Artisans and Craftsmen                               |
+| Tsaihwo  | Craft-Hand        | Artisans and Craftsmen                               |
 | Nouwen   | Field-Centre      | Farmers and Peasants                                 |
-| Shuonong | Trade-Folk        | Merchants                                            |
-| Nuitsou  | Bound-Tribe       | Slaves and Outcasts                                  |
+| Shwonong | Trade-Folk        | Merchants                                            |
+| Nwitsou  | Bound-Tribe       | Slaves and Outcasts                                  |
 | Wonong   | Warrior-Folk      | Common soldiers and enforcers within the craft caste |
 
 ### Religious Terms
@@ -6033,9 +6187,9 @@ Every word below is built from the roots in [[skill-tantsoulng#lexicon|the lexic
 | Leigen           | Spirit-Master                     | Spirit priest/practitioner                   |
 | Leichei          | Spirit-Scholar                    | A discipline of breath and vital energy      |
 | Tseising         | Self-Death                        | Ritual suicide                               |
-| Ruising          | Ritual-Death                      | State-ordered ritual suicide                 |
-| Huenlei          | Chaos-Spirit                      | The Unclassified; primordial chaos           |
-| Dao Chou Lei     | Great Record-Spirit               | The Master Registry of all classified things |
+| Rwising          | Ritual-Death                      | State-ordered ritual suicide                 |
+| Hwenlei          | Chaos-Spirit                      | The Unclassified; primordial chaos           |
+| Dau Chou Lei     | Great Record-Spirit               | The Master Registry of all classified things |
 
 ### Medical Terms
 
@@ -6045,19 +6199,19 @@ Every word below is built from the roots in [[skill-tantsoulng#lexicon|the lexic
 | Yaitsai  | Heal-Craft      | Herbal Master / Apothecary   |
 | Zhayai   | Life-Heal       | Physician (general)          |
 | Cheishui | Scholar-Lesser  | Medical student              |
-| Yaigui   | Heal-Official   | Practitioner (experienced)   |
-| Daoyai   | Great-Heal      | Master Physician             |
+| Yaigwi   | Heal-Official   | Practitioner (experienced)   |
+| Dauyai   | Great-Heal      | Master Physician             |
 | Woyai    | Sacred-Heal     | Grand Healer (highest rank)  |
 
 ### The Celestial Pantheon
 
 | Tantsou | Epithet                                            | Domain                                |
 | ------- | -------------------------------------------------- | ------------------------------------- |
-| Tanzho  | Tanzho Wozhuo (Sacred Celestial Dragon Lord)       | Heaven, order, cosmic law             |
-| Weizhuo | Weizhuo Daonei (Jade Sovereign)                    | Administration, celestial bureaucracy |
-| Raogui  | Raogui Wodao (Thunder of Divine Might)             | Thunder, storms, justice              |
-| Youbui  | Youbui Tengyou (Moon-Silver of the Heavenly Court) | Moon, healing, dreams                 |
-| Yozhuo  | —                                                  | Demon King, ruler of infernal realms  |
+| Tanzho  | Tanzho Wozhwo (Sacred Celestial Dragon Lord)       | Heaven, order, cosmic law             |
+| Weizhwo | Weizhwo Daunei (Jade Sovereign)                    | Administration, celestial bureaucracy |
+| Raugwi  | Raugwi Wodau (Thunder of Divine Might)             | Thunder, storms, justice              |
+| Youbwi  | Youbwi Tengyou (Moon-Silver of the Heavenly Court) | Moon, healing, dreams                 |
+| Yozhwo  | —                                                  | Demon King, ruler of infernal realms  |
 
 ### The Eleven Spirit Bureaus
 
@@ -6065,23 +6219,23 @@ Every word below is built from the roots in [[skill-tantsoulng#lexicon|the lexic
 | ----------- | -------------------- | ---------------------------------- |
 | Mei Sei     | Dream Bureau         | Dreams, visions, omens             |
 | Sing Wou    | Death Court          | Death, judgment, underworld        |
-| Raoshou Sei | Thunder-Water Bureau | Thunder, rain, storms              |
+| Raushou Sei | Thunder-Water Bureau | Thunder, rain, storms              |
 | Chou Sei    | Knowledge Bureau     | Knowledge, learning, enlightenment |
 | Fa Lou Sei  | Fortune-Law Bureau   | Wealth, prosperity                 |
 | Ho Sei      | Fire Bureau          | Fire, the hearth, metallurgy       |
 | Tsai Sei    | Creation Bureau      | Life, birth, craft                 |
-| Huen Sei    | Chaos Bureau         | Chaos, floods, entropy             |
+| Hwen Sei    | Chaos Bureau         | Chaos, floods, entropy             |
 | Dou Sei     | Journey Bureau       | Travel, pilgrimage, crossroads     |
-| Nuo Sei     | Decay Bureau         | Decay, rot, transformation         |
+| Nwo Sei     | Decay Bureau         | Decay, rot, transformation         |
 | Lei Sei     | Spirit Bureau        | (General term for all bureaus)     |
 
 ### The Five Elemental Lords
 
 | Tantsou        | Element                         |
 | -------------- | ------------------------------- |
-| Wengdao Zhouwo | Air—Azure Wind of Sacred Breath |
-| Rinho Daoweng  | Fire—Blazing Fire Great Wind    |
-| Daotou Wochai  | Earth—Great Earth Sacred Stone  |
+| Wengdau Zhouwo | Air—Azure Wind of Sacred Breath |
+| Rinho Dauweng  | Fire—Blazing Fire Great Wind    |
+| Dautou Wochai  | Earth—Great Earth Sacred Stone  |
 | Wojing Ja      | Metal—Divine Gold Blade         |
 | Zhoushou Zho   | Water—Azure Water Dragon        |
 
@@ -6089,7 +6243,7 @@ Every word below is built from the roots in [[skill-tantsoulng#lexicon|the lexic
 
 | #   | Tantsou  | Literal Meaning       |
 | --- | -------- | --------------------- |
-| 1   | Juiyou   | Festival Month        |
+| 1   | Jwiyou   | Festival Month        |
 | 2   | Mouyou   | Wood Month            |
 | 3   | Hoyou    | Fire Month            |
 | 4   | Houyou   | Balance Month         |
@@ -6097,8 +6251,8 @@ Every word below is built from the roots in [[skill-tantsoulng#lexicon|the lexic
 | 6   | Jingyou  | Metal Month           |
 | 7   | Shouyou  | Water Month           |
 | 8   | Wengyou  | Wind Month            |
-| 9   | Youjui   | Moon Festival (Month) |
-| 10  | Chiaoyou | Winter Month          |
+| 9   | Youjwi   | Moon Festival (Month) |
+| 10  | Chyauyou | Winter Month          |
 | 11  | Zhenyou  | Snow Month            |
 | 12  | Chenyou  | Frost Month           |
 
@@ -6109,12 +6263,12 @@ Every word below is built from the roots in [[skill-tantsoulng#lexicon|the lexic
 | Wengzho  | Wind Dragon      |
 | Tuihen   | Iron Tiger       |
 | Zhizhai  | Star Bird        |
-| Kuowou   | Ancient Tortoise |
+| Kwowou   | Ancient Tortoise |
 | Jei      | Sacred Beast     |
-| Buichei  | White Sage       |
+| Bwichei  | White Sage       |
 | Lengzhai | Radiant Phoenix  |
 | Lengmai  | Dawn Horse       |
-| Buibei   | White Ape        |
+| Bwibei   | White Ape        |
 | Cheisou  | Sage Serpent     |
 | Wozhin   | Righteous Boar   |
 | Hazhai   | Shadow Bird      |
@@ -6126,33 +6280,33 @@ Every word below is built from the roots in [[skill-tantsoulng#lexicon|the lexic
 
 | Tantsou       | Meaning                       |
 | ------------- | ----------------------------- |
-| Hou Lei Jui   | Festival of Harmonious Spirit |
-| Wuen Tsai Jui | Festival of Five Elements     |
-| You Jui       | Moon Festival                 |
-| Singlei Jui   | Festival of the Dead          |
+| Hou Lei Jwi   | Festival of Harmonious Spirit |
+| Wuen Tsai Jwi | Festival of Five Elements     |
+| You Jwi       | Moon Festival                 |
+| Singlei Jwi   | Festival of the Dead          |
 
 ### Organizations and Factions
 
 | Tantsou     | Meaning                                     |
 | ----------- | ------------------------------------------- |
-| Ha Luo Zhao | Black Lotus Society (criminal organization) |
-| Ha Zhao     | Shadow Sect (subversive cult)               |
-| Nuotsou Rui | Cult of the Forsaken                        |
+| Ha Lwo Zhau | Black Lotus Society (criminal organization) |
+| Ha Zhau     | Shadow Sect (subversive cult)               |
+| Nwotsou Rwi | Cult of the Forsaken                        |
 
 ### Sample Place Names
 
 | Tantsou        | Literal Meaning        |
 | -------------- | ---------------------- |
 | Cheng Zhai Wou | Rising Phoenix City    |
-| Rin Luo Wou    | Red Lotus Palace       |
-| Bui Zhi Chai   | Silver Star Valley     |
-| Kuo Leng Wou   | Eternal Dawn Fortress  |
+| Rin Lwo Wou    | Red Lotus Palace       |
+| Bwi Zhi Chai   | Silver Star Valley     |
+| Kwo Leng Wou   | Eternal Dawn Fortress  |
 | Jingzho Chai   | Golden Dragon Mountain |
-| Rong Luo Wou   | Thousand Flower City   |
+| Rong Lwo Wou   | Thousand Flower City   |
 | Leng You Shou  | Bright Moon Lake       |
 | Teng Yan Wou   | Sky Cloud Tower        |
 | Hou Shou Chai  | Still Water Island     |
-| Kuo Zhi Dou    | Eternal Star Bridge    |
+| Kwo Zhi Dou    | Eternal Star Bridge    |
 | Wo Weng Chai   | Sacred Wind Island     |
 | Jen Leng Wou   | Nine Lantern Temple    |
 
@@ -6174,17 +6328,17 @@ Tantsou is a language isolate with no widely-accepted external relatives. Older 
 
 **Classical Period (Age of Dynasties, ~2,300 years ago):** The standardization of the classical language occurred during the early dynasties of the empire. The language of this period is preserved in classical texts and bronze inscriptions, and remains largely comprehensible to educated modern speakers.
 
-**Literary Standardization (~1,200 years ago):** A major literary standardization fixed the characters and their meanings in the _[Dao Chou]{.name data-type="lore"}_ ("Great Record"). This standardization has proven remarkably stable; scholars can read texts 2,000 years old with only minor difficulty.
+**Literary Standardization (~1,200 years ago):** A major literary standardization fixed the characters and their meanings in the _[Dau Chou]{.name data-type="lore"}_ ("Great Record"). This standardization has proven remarkably stable; scholars can read texts 2,000 years old with only minor difficulty.
 
-**Modern Tantsou:** The spoken language has undergone some phonological change—drifting tones, minor vowel shifts—but the conservatism of the writing system and the prestige of classical education have kept the language extraordinarily stable.
+**Modern Tantsou:** The spoken language has undergone some phonological change—a drifting melody, minor vowel shifts—but the conservatism of the writing system and the prestige of classical education have kept the language extraordinarily stable.
 
 ## Regional Dialects
 
-**Imperial Dialect:** The prestige standard, spoken in the capital and taught in formal education. Keeps all four tones and every classical grammatical form.
+**Imperial Dialect:** The prestige standard, spoken in the capital and taught in formal education. Keeps the full classical melody and every classical grammatical form.
 
 **Northern Tantsou:** The speech of the northern marches along the [[place-grkrhlmrgn|Grukarholm]] frontier, moderately divergent. Some vowel mergers and simplified compound forms. More borrowing from the neighboring steppe languages.
 
-**Southern Tantsou:** Spoken in the agricultural and mercantile south. Tones lie closer together, speech rhythms run faster, and trade languages lend more words.
+**Southern Tantsou:** Spoken in the agricultural and mercantile south. The melody is flatter, speech rhythms run faster, and trade languages lend more words.
 
 **Coastal Trade Dialect:** Extreme simplification for port use. Heavy code-switching with maritime pidgins. Approaching creolization in some trading communities.
 
@@ -6192,21 +6346,21 @@ Tantsou is a language isolate with no widely-accepted external relatives. Older 
 
 In Tantsou tradition, names are auspicious utterances invoking favorable qualities, celestial principles, or virtuous ancestors. The bestowing of a name is an occasion of considerable importance, often conducted by a learned scholar or priest who consults astrological and classical texts.
 
-Names follow a **family-name-first pattern**. The family name (_zhao_) precedes the given name, creating names of two to four compound elements. Given names are constructed from the vocabulary through compounding—a name like _Tuija_ ("Iron Blade") or _Luoleng_ ("Lotus-Dawn") is simultaneously a name and a meaningful phrase. A name is written as one word, and every syllable carries its tone.
+Names follow a **family-name-first pattern**. The family name (_zhau_) precedes the given name, creating names of two to four compound elements. Given names are constructed from the vocabulary through compounding—a name like _Tuija_ ("Iron Blade") or _Lwoleng_ ("Lotus-Dawn") is simultaneously a name and a meaningful phrase. A name is written as one word.
 
-**Male given names** often incorporate elements associated with strength, virtue, or celestial forces: _dao_ (great), _wuo_ (warrior), _zho_ (dragon), _jing_ (gold), _chei_ (scholar), _rao_ (thunder).
+**Male given names** often incorporate elements associated with strength, virtue, or celestial forces: _dau_ (great), _wuo_ (warrior), _zho_ (dragon), _jing_ (gold), _chei_ (scholar), _rau_ (thunder).
 
-**Female given names** often reference beauty, nature, or grace: _luo_ (lotus), _you_ (moon), _zhi_ (star), _wei_ (jade), _leng_ (radiant), _mei_ (dream).
+**Female given names** often reference beauty, nature, or grace: _lwo_ (lotus), _you_ (moon), _zhi_ (star), _wei_ (jade), _leng_ (radiant), _mei_ (dream).
 
 **Family names** are typically monosyllabic and extremely stable across generations, derived from place names, occupations, or ancient clan affiliations.
 
 ### Example Names
 
-**Male:** Tanzho (Celestial Dragon), Tuija (Iron Blade), Wuodao (Great Warrior), Raoleng (Thunder Dawn), Cheiwo (Sacred Scholar), Jingzhin (Golden Boar), Houweng (Calm Wind), Daohen (Great Tiger), Hozho (Fire Dragon), Mouwo (Sacred Wood)
+**Male:** Tanzho (Celestial Dragon), Tuija (Iron Blade), Wuodao (Great Warrior), Rauleng (Thunder Dawn), Cheiwo (Sacred Scholar), Jingzhin (Golden Boar), Houweng (Calm Wind), Dauhen (Great Tiger), Hozho (Fire Dragon), Mouwo (Sacred Wood)
 
-**Female:** Luoleng (Lotus-Dawn), Youzhen (Moon-Snow), Meizhi (Dream Star), Weiluo (Jade Flower), Zhouleng (Azure Dawn), Buiyou (Silver Moon), Houluo (Peaceful Lotus), Rinyan (Red Cloud), Wongwei (Sea Jade), Lengmei (Radiant Dream)
+**Female:** Lwoleng (Lotus-Dawn), Youzhen (Moon-Snow), Meizhi (Dream Star), Weilwo (Jade Flower), Zhouleng (Azure Dawn), Bwiyou (Silver Moon), Houlwo (Peaceful Lotus), Rinyan (Red Cloud), Wongwei (Sea Jade), Lengmei (Radiant Dream)
 
-**Family Names:** Tan (celestial), Wei (jade), Jing (gold), Shou (water), Ho (fire), Mou (wood), Lei (spirit), Chai (mountain), Zhi (star), Dou (path), Hou (harmony), Kuo (ancient)
+**Family Names:** Tan (celestial), Wei (jade), Jing (gold), Shou (water), Ho (fire), Mou (wood), Lei (spirit), Chai (mountain), Zhi (star), Dou (path), Hou (harmony), Kwo (ancient)
 
 ---
 
@@ -6231,9 +6385,9 @@ Names follow a **family-name-first pattern**. The family name (_zhao_) precedes 
 
 In local tradition, the Celestial Order of [[affiliation-tantsouempr|Tantsou]] calls itself the _Tengwou Rong Lei_, the celestial court of a myriad spirits, and every piece of that name is a word a farmer uses: _teng_ is the sky over his field, _wou_ the magistrate's hall, _rong_ the count past counting, _lei_ the breath in his chest. Tantsou builds its names by setting such words side by side, and the empire's castes, gods, bureaus, months and generals are all made this way. This page is the word-hoard of the tongue: the words, the rules a new word is built by, and the register of every name the setting gives in Tantsou, and in the Celestial Order.
 
-A Tantsou root is a single syllable, and a compound reads modifier first: _zha_ is life and _zho_ is the dragon, so _Zhazho_, life-dragon, is the dragon-born caste of the Emperor's family. A name or a caste is written as one word; a title, an office or an institution is written as separate words, as in _Teng Gui_, the celestial minister.
+A Tantsou root is a single syllable, and a compound reads modifier first: _zha_ is life and _zho_ is the dragon, so _Zhazho_, life-dragon, is the dragon-born caste of the Emperor's family. A name or a caste is written as one word; a title, an office or an institution is written as separate words, as in _Teng Gwi_, the celestial minister.
 
-The sound of Tantsou is sung. Every syllable opens on a consonant, rests on an open vowel or a gliding pair of vowels, and may close on a soft _-n_ or _-ng_; no hard stop ends a word. Pitch carries meaning: each syllable has one of four tones, and two roots that differ only in tone are different words, written with different characters.
+The sound of Tantsou is sung. Every syllable opens on a consonant, rests on an open vowel, a vowel pair or a vowel after a gliding _w_ or _y_, and may close on a soft _-n_ or _-ng_; no hard stop ends a word. The roman writes no tone, and a level voice is correct.
 
 ## How to read the dictionary {#how-to-read-the-dictionary}
 
@@ -6270,7 +6424,7 @@ FROM clusters WHERE language = 'thalorna-note-skill-tantsoulng'
 
 ### Finals
 
-A syllable rests on one of these eighteen finals, and on nothing else. An _i_ or a _u_ before another vowel glides into it, so _chuen_ and _chiao_ are each one syllable.
+A syllable rests on one of these finals, and on nothing else. A _w_ or a _y_ before a vowel glides into it, so _chwen_ and _chyau_ are each one syllable.
 
 ```sql
 SELECT '_' || final || '_' AS "Final", "like" AS "Sounds like"
@@ -6279,15 +6433,15 @@ FROM finals WHERE language = 'thalorna-note-skill-tantsoulng' ORDER BY position
 
 ## Building words {#building-words}
 
-One move makes nearly every built word on this page: **two words set side by side, the modifier first.** _Ho_ is fire and _you_ is the month, so _Hoyou_ is the fire month. A handful of words close compounds so often that this note lists them as suffixes: _-tsou_ for a people or group, _-wo_ and _-lei_ for a spirit, _-gui_ for an official, _-gen_ for a master, _-zhuo_ for a lord, _-you_ for a month, _-jui_ for a festival, _-chai_ for a mountain or place, _-wou_ for a court and _-sei_ for a bureau. Each is the plain word, and each is set on its first word unchanged.
+One move makes nearly every built word on this page: **two words set side by side, the modifier first.** _Ho_ is fire and _you_ is the month, so _Hoyou_ is the fire month. A handful of words close compounds so often that this note lists them as suffixes: _-tsou_ for a people or group, _-wo_ and _-lei_ for a spirit, _-gwi_ for an official, _-gen_ for a master, _-zhwo_ for a lord, _-you_ for a month, _-jwi_ for a festival, _-chai_ for a mountain or place, _-wou_ for a court and _-sei_ for a bureau. Each is the plain word, and each is set on its first word unchanged.
 
-Nothing joins or alters the two words, each syllable keeps its own tone, and the tongue marks no plural: _rong_, ten thousand, set before a noun, gives the sense of countless.
+Nothing joins or alters the two words, and the tongue marks no plural: _rong_, ten thousand, set before a noun, gives the sense of countless.
 
 ## Making names {#making-names}
 
 **A person** of Tantsou carries the house name first and the given name after it. The house name is a single word, older than any record: this note lists _Tan_, _Wei_, _Jing_, _Shou_ and their like. Most people never hold a personal name; one granted for service is a compound of two to four words, a man's drawn from strength and the sky, a woman's from flowers, the moon and the stars. [[lore-personlnms|Personal Names]] gives the grant.
 
-**A god, a caste or a place** is a compound written as one word: _Tanzho_, the celestial dragon; _Wohou_, the warrior-nobles; _Jenchai_, the nine mountains. **A title, an office or an institution** keeps its words apart: _Ho Sei_, the fire bureau; _Teng Gui_, the celestial minister.
+**A god, a caste or a place** is a compound written as one word: _Tanzho_, the celestial dragon; _Wohou_, the warrior-nobles; _Jenchai_, the nine mountains. **A title, an office or an institution** keeps its words apart: _Ho Sei_, the fire bureau; _Teng Gwi_, the celestial minister.
 
 ## Scope {#scope}
 

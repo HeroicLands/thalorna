@@ -20,7 +20,7 @@ Tsaberis is the drove town of the high valleys north of [[place-lezkora|Lezkora]
 
 The town is built around its fold. The wall is a man's height of dry stone, a quarter of a mile around, with a gate on each of the four drove roads, and in spring it holds the flocks of every valley that drives through. The houses stand outside it in rings, the oldest nearest the wall, and between them run lanes wide enough for a flock and no wider. The square in front of the north gates is where the market is held, and in its middle stands the town's _goitsa_ (oath stone), a standing stone taller than a man, black with the hands that have touched it.
 
-North of the town the four roads become two and climb to the _galtsur_ (high meadows), which open in late spring when the snow goes off them. South of it the roads come together into one and go down toward the lowlands of [[place-leonrik|Lienrik]] and the coast. The town lives on the traffic between the two.
+North of the town the four roads become two and climb to the _galtsur_ (high meadows), which open in late spring when the snow goes off them. South of it the roads come together into one and go down toward the lowlands of [[place-leonrik|Lyenrik]] and the coast. The town lives on the traffic between the two.
 
 ## The Week of the Drive
 

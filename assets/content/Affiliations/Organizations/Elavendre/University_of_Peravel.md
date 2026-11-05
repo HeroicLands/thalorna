@@ -128,7 +128,7 @@ The Order's study of the [[lore-aralwen|Araelwen]] is planned in these courts, a
 
 The hiring of guards is the University's most visible embarrassment. The Fitter of Expeditions hires them in the inns of the river quarter at good pay and in rooms the University does not own, and the bards of [[affiliation-bardicolgs|the Bardic Colleges]] sing in the same inns about the guards who did not come back.
 
-[[being-ielaraskir|Prince Íelaras]], schooled in these courts, has friends among the fellows who are planning a survey of the thin places for the summer. Whether the Order is helped or threatened by a prince of the blood who asks is a question its chapter has not settled.
+[[being-ielaraskir|Prince Yélaras]], schooled in these courts, has friends among the fellows who are planning a survey of the thin places for the summer. Whether the Order is helped or threatened by a prince of the blood who asks is a question its chapter has not settled.
 
 :::secret {title="The ledger"}
 The catalog records no provenance because the Keeper of the Collections keeps it elsewhere. Néthara Halren holds a private ledger, written in a cipher of her own, in which each object is entered with the ground it came from, the day it was cut or lifted, and the name of the guard who did it. She keeps it for the Order, so that an Araelwen can be found again, and for herself, because she believes the day will come when what has been taken must be put back. She has told no one which of those she thinks is the more likely.

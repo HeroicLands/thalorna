@@ -61,7 +61,7 @@ sohl: {system: {commonSkills: []}}
 
 Bring a dispute to a hov of Eidgar and the first question is what you are prepared to swear. A jarl who patronizes the hov beside her province's ting explains why she carries her quarrels there: "A ruling given in the open binds me as hard as it binds my neighbor, and a ruling sworn on the god's own oath ring binds us both harder. I would rather lose a boundary than be known to have walked away from that oath."
 
-[[lore-eidgardty|Eidgar]] is the god of justice and honorable combat, the judge whose standard is fairness, valor and sacrifice. His founding myth tells how he gave his hand to the great wolf [[lore-vetrulfur|Vetrúlfur]], and his faith reads the loss as the model of what it asks: a decision that costs the one who makes it nothing is not worth trusting. Temples of Eidgar are places of law and order, where disputes are settled and oaths are sworn. Warriors are trained there in the ethics that govern their weapons as well as in the weapons themselves, and the faithful are expected to fight with honor and never to use deceit or unnecessary cruelty.
+[[lore-eidgardty|Eidgar]] is the god of justice and honorable combat, the judge whose standard is fairness, valor and sacrifice. His founding myth tells how he gave his hand to the great wolf [[lore-vetrulfur|Vetrulfur]], and his faith reads the loss as the model of what it asks: a decision that costs the one who makes it nothing is not worth trusting. Temples of Eidgar are places of law and order, where disputes are settled and oaths are sworn. Warriors are trained there in the ethics that govern their weapons as well as in the weapons themselves, and the faithful are expected to fight with honor and never to use deceit or unnecessary cruelty.
 
 ## The God and His Standing
 
@@ -88,7 +88,7 @@ Gudi / Gudja
 Hofgudi / Hofgudja
 : consecrates the hovs where tings sit, ordains their gudar, and performs the great blet at a season's turning.
 
-The faith's skills are legal knowledge and judgment, combat and strategy, oathbinding and mediation, and sacrifice and self-discipline. Two kinds of servant belong to Eidgar: the **Honorguard**, divine warriors who protect the sanctity of law and order, and **Vetrúlfur's Bane**, spirits that uphold justice and often appear in times of conflict to see that it is done fairly.
+The faith's skills are legal knowledge and judgment, combat and strategy, oathbinding and mediation, and sacrifice and self-discipline. Two kinds of servant belong to Eidgar: the **Honorguard**, divine warriors who protect the sanctity of law and order, and **Vetrulfur's Bane**, spirits that uphold justice and often appear in times of conflict to see that it is done fairly.
 
 ## Ceremonies and Festivals
 

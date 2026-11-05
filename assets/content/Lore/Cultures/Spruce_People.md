@@ -105,7 +105,7 @@ The blind spot the Spruce People argue over is the _mohkisk_ itself. Every band 
 [[skill-kawiskaklng|Kawiskak Language]]
 : the unwritten tongue of the forest bands, and how they are named
 
-[[place-northkiichchik|Northern Ki'ich'chik]]
+[[place-northkiichchik|Northern Kì'ìch'chik]]
 : the north and its peoples
 
 [[lore-ostinak|Givers]]

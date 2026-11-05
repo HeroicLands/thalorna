@@ -83,7 +83,7 @@ sohl: {system: {commonSkills: [ixilanchalix]}}
 
 "We do not open the days," the First of the Star House says to each year's new reckoners. "The goddess opened them at the creation. We are the only people who can find out which."
 
-The **Star House**, _Ish'ilan Sh'ulum_ in Ki'i'chek, is the college of reckoners at [[place-kankul2|K'ankul]] that computes the day-tables of [[lore-chumtsena|Ch'um Ts'ena]]. Every city's **Reckoner of Conjunctions** issues the opened and closed days to his priests and his people. In every city the cords reach, the tables he issues them from were made here. The house belongs to the astronomers' branch of [[affiliation-ixilanchalix|Faith of Ish'ilan Ch'alish]], and its reckoners are her priests, but its work is the whole priesthood's: no working of any of the Ten is spoken on a day the Star House has not found open.
+The **Star House**, _Ish'ilan Sh'ulum_ in Kì'ì'chek, is the college of reckoners at [[place-kankul2|K'ankul]] that computes the day-tables of [[lore-chumtsena|Ch'um Ts'ena]]. Every city's **Reckoner of Conjunctions** issues the opened and closed days to his priests and his people. In every city the cords reach, the tables he issues them from were made here. The house belongs to the astronomers' branch of [[affiliation-ixilanchalix|Faith of Ish'ilan Ch'alish]], and its reckoners are her priests, but its work is the whole priesthood's: no working of any of the Ten is spoken on a day the Star House has not found open.
 
 Its name joins _ish'ilan_, a star and the count of the fixed stars, with _sh'ulum_, a house. It is not one of the star-houses where each observatory keeps its codices. It is the house those star-houses answer to.
 

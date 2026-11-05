@@ -43,7 +43,7 @@ _Dry-Turn, the third year after the Walk._ At Dry-Turn the lake stood a hand bel
 
 _Wet-Turn, the fifth year after the Walk._ The neighbor of the terrace above ours, who holds the wall above our wall, came on the first day of the visits and said her frogs were early. Ours were not early. We compared until dusk.
 
-_Stillwater, the seven hundred and ninety-sixth Walk, the year of it._ The custodians walked the terraces for the Tenth-Year Walk. The kaan'sili carried the tools behind them. One of the kaan'sili was from the next valley, and I knew her face. She did not look at me. They said the extended tending at the terrace stone of the valley, from the hour before sunrise until the sun was on the water. I watched from our wall. I was not told to go in.
+_Stillwater, the seven hundred and ninety-sixth Walk, the year of it._ The custodians walked the terraces for the Tenth-Year Walk. The kaan-sili carried the tools behind them. One of the kaan-sili was from the next valley, and I knew her face. She did not look at me. They said the extended tending at the terrace stone of the valley, from the hour before sunrise until the sun was on the water. I watched from our wall. I was not told to go in.
 
 _Dry-Turn, the second year after the Walk._ My mother gave me the lowest terrace, the whole of it, from the corner to the drain. It is mine to tend. She keeps the looking at it with me. The lake at the dark line on the third stone.
 
@@ -127,7 +127,7 @@ _Deepwater, the eight hundred and first Walk, the year of it, the eleventh day._
 [[place-klhrlake|The Bowl Lake]]
 : the lake, its reed-beds and its herons
 
-[[affiliation-tharivaan|Thári'vaan]]
+[[affiliation-tharivaan|Thári-vaan]]
 : the sílhari account, the Wet-Turn visits and the custodians who make them
 
 [[lore-kaliharanclt|Kaliharan]]

@@ -22,7 +22,7 @@ data:
 # terran_analog: "The Māori and Hawaiian recited genealogy, in which a chain of names said aloud is title and identity, and the transmission chains of the Vedic schools, each teacher named from the one before. Departs: the line is of teachers, never of blood; each knot holds one observed fact and nothing praised; and the chain ends at a keeper with nobody above her."
 ---
 
-**The Saying of the Thread** is said once over every custodian of the [Ithakan]{.name data-type="affiliation/order"}, on the morning she is raised to kaan'vaar and given her keepers' thread (_kaan'sari'val_), the plaited palm-fiber cord whose knots hold her line of teachers back to a founding custodian. The custodian who formed her says it while the cord is tied at her wrist, beginning at the knot that is hers and ending at the first knot of the line, and the custodians of the sanctuary stand round and answer each knot. A line is said only at its own givings, so a custodian hears her line said through at her own elevation and at the elevation of each custodian she forms, and at no other time. She holds every knot of it from the day it is tied.
+**The Saying of the Thread** is said once over every custodian of the [Ithakan]{.name data-type="affiliation/order"}, on the morning she is raised to kaan-vaar and given her keepers' thread (_kaan-sari-val_), the plaited palm-fiber cord whose knots hold her line of teachers back to a founding custodian. The custodian who formed her says it while the cord is tied at her wrist, beginning at the knot that is hers and ending at the first knot of the line, and the custodians of the sanctuary stand round and answer each knot. A line is said only at its own givings, so a custodian hears her line said through at her own elevation and at the elevation of each custodian she forms, and at no other time. She holds every knot of it from the day it is tied.
 
 This line is one of [[place-mirthaan|Mirthaan]]'s, the sanctuary of the terraces, as it was said when [Koatheni Ithevanoa]{.name data-type="being/npc"} was given her thread. Every custodian of it held works of [[place-klhrestrrc|the Eastern Terraces]]. A knot holds a custodian's name and lineage, the Walk of the elevation, one thing the custodian is held for, and every [Rite of Last Tending]{.name data-type="lore/custom"} the custodian said. The saying runs from the hour before sunrise into the afternoon. The rendering gives the twelve newest knots and the four oldest, and marks where it passes over the rest.
 
@@ -37,7 +37,7 @@ Hold every knot as I say it. You will say it yourself, one day, over someone els
 
 This is the first knot, and it is new./
 Koatheni Ithevanoa./
-Formed at Mirthaan. Raised to kaan'vaar this Dry-Turn, in the eight hundred and first Walk./
+Formed at Mirthaan. Raised to kaan-vaar this Dry-Turn, in the eight hundred and first Walk./
 She held the terrace stones of the lower valley under the custodians, from her tenth year./
 She is held for this: every morning of her formation she counted the drowned walls of Koathevoi/
 from the sanctuary's terrace, and she holds the count, morning by morning, and the count is right./
@@ -51,7 +51,7 @@ The knot is held.
 [The one who formed her:]{.speaker}/
 Thaekunei Reikovael./
 That is my knot. I say it as it was said over me, and nothing is added to it for being mine./
-Formed at Mirthaan. Raised to kaan'vaar at Wet-Turn, in the seven hundred and ninety-eighth Walk./
+Formed at Mirthaan. Raised to kaan-vaar at Wet-Turn, in the seven hundred and ninety-eighth Walk./
 She held the terrace stones under the Cloud Pass, and the rain of those terraces for four Walks./
 She is held for this: she heard a terrace village say its Dawn Tending one word short,/
 and taught it again from the first word, and it was said whole after./
@@ -64,7 +64,7 @@ The knot is held.
 
 [The one who formed her:]{.speaker}/
 Avunethei Theilavori./
-Formed at Mirthaan. Raised to kaan'vaar at Dry-Turn, in the seven hundred and ninety-fifth Walk./
+Formed at Mirthaan. Raised to kaan-vaar at Dry-Turn, in the seven hundred and ninety-fifth Walk./
 He walked the crest with the custodians of the wind-stones, six Walks running,/
 and wintered at Kuomethei, and was never late to it before the paths closed./
 He is held for this: he held the count of the storms that broke on the crest,/
@@ -79,9 +79,9 @@ The knot is held.
 
 [The one who formed her:]{.speaker}/
 Kuaelithei Avonithei./
-Formed at Mirthaan. Raised to kaan'vaar at Stillwater, in the seven hundred and ninety-second Walk./
+Formed at Mirthaan. Raised to kaan-vaar at Stillwater, in the seven hundred and ninety-second Walk./
 She held the terrace stones of the upper valley, and taught at Mirthaan forty years./
-She is held for this: she formed nine kaan'sili, and seven are knots on threads of Mirthaan./
+She is held for this: she formed nine kaan-sili, and seven are knots on threads of Mirthaan./
 She said the Last Tending at the fern gully of the Naelithuri./
 She received the holding from Thovunei Naothuri.
 
@@ -90,7 +90,7 @@ The knot is held.
 
 [The one who formed her:]{.speaker}/
 Thovunei Naothuri./
-Formed at Mirthaan. Raised to kaan'vaar at Wet-Turn, in the seven hundred and eighty-ninth Walk./
+Formed at Mirthaan. Raised to kaan-vaar at Wet-Turn, in the seven hundred and eighty-ninth Walk./
 He held the stones of the lake shore below the sanctuary./
 He is held for this: in every Dry-Turn of his watch the lake stood at the Kuethori's marks,/
 and he held the count of it, Dry-Turn by Dry-Turn, and the count did not move./
@@ -101,7 +101,7 @@ The knot is held.
 
 [The one who formed her:]{.speaker}/
 Ithavori Koamanei./
-Formed at Mirthaan. Raised to kaan'vaar at Dry-Turn, in the seven hundred and eighty-sixth Walk./
+Formed at Mirthaan. Raised to kaan-vaar at Dry-Turn, in the seven hundred and eighty-sixth Walk./
 She was answered by the stone of her own village, and was taken at eight,/
 and she did not go back to the village, and she held its rain from the sanctuary every Walk of her life./
 She is held for this: she was asked by a council whether the rain of her village was less,/
@@ -113,7 +113,7 @@ The knot is held.
 
 [The one who formed her:]{.speaker}/
 Reithuano Thavurithei./
-Formed at Mirthaan. Raised to kaan'vaar at Stillwater, in the seven hundred and eighty-third Walk./
+Formed at Mirthaan. Raised to kaan-vaar at Stillwater, in the seven hundred and eighty-third Walk./
 He held the terrace stones of the middle valley./
 He is held for this:/
 he held the Seasonal Recitation of the middle valley for fifty years,/
@@ -125,11 +125,11 @@ The knot is held.
 
 [The one who formed her:]{.speaker}/
 Naethivari Luanithei./
-Formed at Mirthaan. Raised to kaan'vaar at Deepwater, in the seven hundred and eightieth Walk./
+Formed at Mirthaan. Raised to kaan-vaar at Deepwater, in the seven hundred and eightieth Walk./
 She held the stones of the terraces below the Cloud Pass./
 She is held for this: in her old age a fever took the sight of her eyes,/
 and she kept the Dawn Tending by the hand alone, every named place in its order,/
-and the kaan'sili who walked behind her found no place missed./
+and the kaan-sili who walked behind her found no place missed./
 She said the Last Tending at the grove of the Theiluori./
 In this line it is not said again until the knots the rendering passes over./
 She received the holding from Kualorei Ithavanu.
@@ -139,7 +139,7 @@ The knot is held.
 
 [The one who formed her:]{.speaker}/
 Kualorei Ithavanu./
-Formed at Mirthaan. Raised to kaan'vaar at Dry-Turn, in the seven hundred and seventy-seventh Walk./
+Formed at Mirthaan. Raised to kaan-vaar at Dry-Turn, in the seven hundred and seventy-seventh Walk./
 He held the stones of the lake shore./
 He is held for this: he counted the reed herons of the shore below the sanctuary every Stillwater of his watch,/
 and the count is said at Mirthaan still, at every Stillwater, after his name./
@@ -150,7 +150,7 @@ The knot is held.
 
 [The one who formed her:]{.speaker}/
 Tavaelith Reiluvao./
-Formed at Mirthaan. Raised to kaan'vaar at Wet-Turn, in the seven hundred and seventy-fourth Walk./
+Formed at Mirthaan. Raised to kaan-vaar at Wet-Turn, in the seven hundred and seventy-fourth Walk./
 She held the terrace stones of the upper valley./
 She is held for this: she walked the Tenth-Year Walk of the terraces eleven times,/
 and in her fourth Walk she found the path under the Cloud Pass gone, brought down in Deepwater,/
@@ -162,7 +162,7 @@ The knot is held.
 
 [The one who formed her:]{.speaker}/
 Olathen Theiluori./
-Formed at Mirthaan. Raised to kaan'vaar at Stillwater, in the seven hundred and seventy-first Walk./
+Formed at Mirthaan. Raised to kaan-vaar at Stillwater, in the seven hundred and seventy-first Walk./
 He held the terrace stones of the lower valley, the stones that are the first knot's charge today./
 He is held for this: a terrace village asked him to say its Dawn Tending a better way,/
 and he said it the way it was held, every morning, until the village asked no more./
@@ -173,7 +173,7 @@ The knot is held.
 
 [The one who formed her:]{.speaker}/
 Inovari Naelithuri./
-Formed at Mirthaan. Raised to kaan'vaar at Dry-Turn, in the seven hundred and sixty-eighth Walk./
+Formed at Mirthaan. Raised to kaan-vaar at Dry-Turn, in the seven hundred and sixty-eighth Walk./
 She held the stones of the terraces under the Cloud Pass./
 She is held for this: the count by the turning said those terraces had rain enough,/
 and their walls came down in Deepwater all the same./
@@ -188,7 +188,7 @@ Here are the old knots./
 Hold them as you hold the new. They are not older for being far.
 
 Manotua Ithorinu./
-Formed at Mirthaan. Raised to kaan'vaar at Dry-Turn, in the sixth Walk./
+Formed at Mirthaan. Raised to kaan-vaar at Dry-Turn, in the sixth Walk./
 He held the terrace stones of the lower valley./
 He is held for this: he is the first of this line who was not on the island on the morning./
 He received the holding from Kaluvao Koathevoi.
@@ -198,7 +198,7 @@ The knot is held.
 
 [The one who formed her:]{.speaker}/
 Kaluvao Koathevoi./
-Formed at Mirthaan. Raised to kaan'vaar at Wet-Turn, in the second Walk./
+Formed at Mirthaan. Raised to kaan-vaar at Wet-Turn, in the second Walk./
 He was a child on the morning./
 He is held for this: he held what he saw on the morning, and his account of it is kept in this knot./
 The terraces were wet from the night./
@@ -212,7 +212,7 @@ The knot is held.
 
 [The one who formed her:]{.speaker}/
 Aneithovai Ithevanoa./
-Formed at Mirthaan. Raised to kaan'vaar in no Walk. The count began in her watch./
+Formed at Mirthaan. Raised to kaan-vaar in no Walk. The count began in her watch./
 She is held for this: she walked the Walk of the terraces in the first year of the count,/
 and kept the count of it, and gave the count to the mount in the lake./
 She received the holding from Avolitha Reiluvao, whose knot is the last, and the first.
@@ -240,7 +240,7 @@ The knot is held.
 
 [The one who formed her:]{.speaker}/
 That is the thread. It is tied./
-Koatheni Ithevanoa, kaan'vaar of Mirthaan./
+Koatheni Ithevanoa, kaan-vaar of Mirthaan./
 You will wear it in every weather. It goes into the ground with you./
 The terrace stones of the lower valley are yours./
 The lower valley was tended at the hour this morning, by the custodians who hold it for you./
@@ -249,7 +249,7 @@ Tomorrow, at the hour before sunrise, the lower valley is yours.
 
 ## See Also
 
-[[affiliation-tharivaan|Thári'vaan]]
+[[affiliation-tharivaan|Thári-vaan]]
 : the ranks, the keepers' threads and the Rite of Last Tending
 
 [[place-mirthaan|Mirthaan]]

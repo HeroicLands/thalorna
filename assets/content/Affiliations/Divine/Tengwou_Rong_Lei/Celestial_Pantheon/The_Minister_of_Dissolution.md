@@ -1,6 +1,6 @@
 ---
 shortcode: nuowo
-name: {full: The Minister of Dissolution, en: [The Bureau of Returns], tant: [Nuowo, Nuo Sei]}
+name: {full: The Minister of Dissolution, en: [The Bureau of Returns], tant: [Nwowo, Nwo Sei]}
 type: affiliation
 subType: faithtradition
 description: "Dissolution."
@@ -47,11 +47,11 @@ data:
       - level: 7
         title: Chief Intendant
         description: >-
-          Senior mortal officer of a bureau's whole temple establishment, who signs what is transmitted upward to its Teng Gui and answers for it if the bureau rejects it.
+          Senior mortal officer of a bureau's whole temple establishment, who signs what is transmitted upward to its Teng Gwi and answers for it if the bureau rejects it.
     offices:
-      Nuowo, The Minister of Dissolution: >-
-        Teng Gui of the Nuo Sei, whose power is the authority of the office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
-      Nuolei: >-
+      Nwowo, The Minister of Dissolution: >-
+        Teng Gwi of the Nwo Sei, whose power is the authority of the office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
+      Nwolei: >-
         Dissolution Spirits, who break down expired classifications.
       Zhawo: >-
         Renewal Spirits, who feed recycled materials back into the Bureau of Creation's processes.
@@ -81,10 +81,10 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-## Nuowo—The Minister of Dissolution
+## Nwowo—The Minister of Dissolution
 
 Bureau
-: Nuo Sei, The Bureau of Returns
+: Nwo Sei, The Bureau of Returns
 
 Domain
 : Dissolution
@@ -92,19 +92,19 @@ Domain
 Parent
 : [[affiliation-tengwouronglei|Tengwou Rong Lei]]
 
-In Nuowo's teaching, Nuo Sei is the reclamation office. What has finished being one thing is broken down here and
+In Nwowo's teaching, Nwo Sei is the reclamation office. What has finished being one thing is broken down here and
 returned as material for something else, which is why it works so closely with the
 [[affiliation-neitsai|Neitsai]] bureau, the Bureau of Creation, and quarrels so persistently with
 [[affiliation-fawo|Fawo]], the Bureau of Allocation—one wants resources distributed, the other wants them
 back.
 
-Mortals rarely petition it directly and are wary when they must. A request to Nuo Sei is a request
+Mortals rarely petition it directly and are wary when they must. A request to Nwo Sei is a request
 that something be ended, and the bureau is scrupulous about establishing that the petitioner
 understands what they have asked for.
 
 ### Lesser Spirits
 
-Nuolei
+Nwolei
 : Dissolution Spirits, who break down expired classifications.
 
 Zhawo

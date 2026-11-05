@@ -19,9 +19,9 @@ That is why the clan council arranges the match and the couple does not. The cou
 
 ## Who May Marry
 
-**The marrying castes.** Legal marriage, registered with the celestial administration, is open to the [[lore-zhazho|Zhazho]], the [[lore-wohou|Wohou]], the [[lore-tanchei|Tanchei]] and the [[lore-tsaihuo|Tsaihuo]]. These castes stand high enough in the classification to warrant the formal filing.
+**The marrying castes.** Legal marriage, registered with the celestial administration, is open to the [[lore-zhazho|Zhazho]], the [[lore-wohou|Wohou]], the [[lore-tanchei|Tanchei]] and the [[lore-tsaihuo|Tsaihwo]]. These castes stand high enough in the classification to warrant the formal filing.
 
-**The castes that may not.** The [[lore-nouwen|Nouwen]], the [[lore-shuonong|Shuonong]] and the [[lore-noutsou|Nuitsou]] may live together and raise children within their caste, and their unions are not registered. The classification holds their households too low to justify the filing. Most Nouwen accept it as the way of things; most Shuonong, who could afford a wedding finer than many nobles', resent it in private.
+**The castes that may not.** The [[lore-nouwen|Nouwen]], the [[lore-shuonong|Shwonong]] and the [[lore-noutsou|Nwitsou]] may live together and raise children within their caste, and their unions are not registered. The classification holds their households too low to justify the filing. Most Nouwen accept it as the way of things; most Shwonong, who could afford a wedding finer than many nobles', resent it in private.
 
 The Nouwen have their own answer. A village Leigen (spirit master) performs a bonding rite that presents the couple to the ancestors of both families, if not to the bureaus of heaven, and in the villages that rite carries all the weight a temple wedding carries in the cities. The empire does not recognize it, and nobody in the village cares.
 
@@ -31,13 +31,13 @@ The Nouwen have their own answer. A village Leigen (spirit master) performs a bo
 
 The wedding is a registration, and each of its five steps does a piece of administrative work.
 
-**The contract** (_Zhaolou Hou_). The two clan councils sign a contract, drafted by a Tanchei and sealed with both clan seals. It sets out the terms of the merger: what property passes, which ancestor tablets move to the new household's shrine, what each family owes, and on what grounds the contract can be dissolved.
+**The contract** (_Zhaulou Hou_). The two clan councils sign a contract, drafted by a Tanchei and sealed with both clan seals. It sets out the terms of the merger: what property passes, which ancestor tablets move to the new household's shrine, what each family owes, and on what grounds the contract can be dissolved.
 
 **The petition** (_Lei Sei Chou_). A spirit document is burned at the temple, addressed to the [Bureau of Creation]{.name data-type="affiliation"} (Tsai Sei), asking that the new household be registered and given its Hearth Monitor. It carries the names, birth-dates and spirit animals of the couple and a statement of both families' ledgers. A petition filed with an error is held to leave the household wrongly classified from its first day, and families pay a scholar to check it twice.
 
-**The consultation** (_Kuo Lei Wou_). Before the union is final, a Leigen speaks with the ancestors of both families to win their consent. An ancestor who objects can forbid the marriage, and defying the prohibition costs the household heavily on its ledger. Clans bargain with reluctant ancestors much as they bargain with each other, with extra offerings burned until the spirit relents.
+**The consultation** (_Kwo Lei Wou_). Before the union is final, a Leigen speaks with the ancestors of both families to win their consent. An ancestor who objects can forbid the marriage, and defying the prohibition costs the household heavily on its ledger. Clans bargain with reluctant ancestors much as they bargain with each other, with extra offerings burned until the spirit relents.
 
-**The tablet transfer** (_Kuo Lei Chai Tiao_). Chosen ancestor tablets are carried from the bride's family shrine to the groom's. This is the solemn heart of the wedding, because it changes where those ancestors are addressed in the celestial filing: from tonight they argue for this household. A Leigen or a Tanchei performs it, in exact ritual words, so that the change of address is recorded correctly.
+**The tablet transfer** (_Kwo Lei Chai Tyau_). Chosen ancestor tablets are carried from the bride's family shrine to the groom's. This is the solemn heart of the wedding, because it changes where those ancestors are addressed in the celestial filing: from tonight they argue for this household. A Leigen or a Tanchei performs it, in exact ritual words, so that the change of address is recorded correctly.
 
 **The sealing** (_Hou Wo_). A seal carved for the occasion is pressed into red clay and set on the new shrine beside the transferred tablets. Every spiritual filing the household makes will carry that seal, and from the moment it is set, the household exists in the cosmic order.
 
@@ -45,7 +45,7 @@ The wedding is a registration, and each of its five steps does a piece of admini
 
 Love is not forbidden in Tantsou; it simply does not count. Affection between a husband and wife is welcomed when it comes, and a marriage without it is not thought the worse for that: it was filed correctly, and that is what a marriage is for. Love outside marriage is tolerated within the bounds of caste propriety, so long as it brings no dishonor onto the household's ledger.
 
-The elite castes court with poetry, gifts and music, and treat courtship as one of the social arts, not as a path to marriage. A good deal of the [[lore-weizhairui|Wei Zhai Rui]], the court's game of intrigue, is played over who will marry whom.
+The elite castes court with poetry, gifts and music, and treat courtship as one of the social arts, not as a path to marriage. A good deal of the [[lore-weizhairui|Wei Zhai Rwi]], the court's game of intrigue, is played over who will marry whom.
 
 ## Consorts
 

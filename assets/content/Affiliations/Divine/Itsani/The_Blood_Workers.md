@@ -84,7 +84,7 @@ sohl: {system: {commonSkills: [tzenultqan]}}
 
 "A captive is a working that has not yet been spoken," the Master of [[place-ishtalhun|Ishtal'hun]] tells each new Taker. "Bring him home alive and he is a storm on the next field. Kill him and you have spent the storm in the mud."
 
-The **Blood-Workers**, _Ts'umul'ob_ in Ki'i'chek, are the warrior-priests who carry the workings of [[lore-chumtsena|Ch'um Ts'ena]] out of the cities and onto the field. Every one of them is an ordained priest of [[affiliation-tzenultqan|Faith of Ts'en'ul Tq'an]] and every one has taken a captive alive. Their name is built on _ts'umul_, red, the root of _ts'umulal_, blood.
+The **Blood-Workers**, _Ts'umul'ob_ in Kì'ì'chek, are the warrior-priests who carry the workings of [[lore-chumtsena|Ch'um Ts'ena]] out of the cities and onto the field. Every one of them is an ordained priest of [[affiliation-tzenultqan|Faith of Ts'en'ul Tq'an]] and every one has taken a captive alive. Their name is built on _ts'umul_, red, the root of _ts'umulal_, blood.
 
 They train at Ishtal'hun in [[affiliation-ixilankul|Ish'ilankul]], the Place of Obsidian Blood, where the captive-warriors of the plateau are also made, and they keep a garrison at [[place-qptlulneok|Q'aptel'ul Ne'ok]], the border at the running water, from which their bands go south with the expeditions.
 

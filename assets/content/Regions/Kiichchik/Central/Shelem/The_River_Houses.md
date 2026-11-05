@@ -61,7 +61,7 @@ sohl: {system: {commonSkills: []}}
 
 Every merchant family of [[place-tsalukul|Ts'alukul]] keeps a landing below its house, and when a canoe comes down from the forest the head of the family is standing on it. He does not send a kinsman. He looks at the hides, opens a bundle of feathers, cracks a cacao pod with his thumb, names a price and pays it there. A forest trader who sells to one landing comes back to that landing, and the families know which forest traders belong to whom.
 
-The **River Houses**, _P'ik'ul Sh'ulum_ in Ki'i'chek, the houses of the trade, are the merchant families of the council towns of [[affiliation-xelem|Shelem]]. They buy what the jungle sells, jaguar hides, dried feathers, cacao and the medicinal plants of the deep forest, and they carry it downriver in their own dugouts and along the coast toward [[affiliation-kankul|K'ankul]] and [[affiliation-ixilankul|Ish'ilankul]]. Ts'alukul, the City of Rivers, has the most landings, and the greatest families are its families.
+The **River Houses**, _P'ik'ul Sh'ulum_ in Kì'ì'chek, the houses of the trade, are the merchant families of the council towns of [[affiliation-xelem|Shelem]]. They buy what the jungle sells, jaguar hides, dried feathers, cacao and the medicinal plants of the deep forest, and they carry it downriver in their own dugouts and along the coast toward [[affiliation-kankul|K'ankul]] and [[affiliation-ixilankul|Ish'ilankul]]. Ts'alukul, the City of Rivers, has the most landings, and the greatest families are its families.
 
 ## Membership
 

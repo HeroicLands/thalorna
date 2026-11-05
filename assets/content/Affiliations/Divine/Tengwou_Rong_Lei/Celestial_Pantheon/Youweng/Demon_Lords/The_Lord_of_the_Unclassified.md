@@ -1,6 +1,6 @@
 ---
 shortcode: henzhuo
-name: {full: The Lord of the Unclassified, en: [The First Refusal], tant: [Huenzhuo]}
+name: {full: The Lord of the Unclassified, en: [The First Refusal], tant: [Hwenzhwo]}
 type: affiliation
 subType: criminal
 description: "Chaos."
@@ -56,28 +56,28 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-## Huenzhuo—The Lord of the Unclassified
+## Hwenzhwo—The Lord of the Unclassified
 
-In the Huenzhuo cultus, [[lore-henzhuodty|Huenzhuo]] is the eldest and most feared of the Demon Lords, not a fallen official but something older—a coherence that formed within the [Huenlei]{.name data-type="lore/cosmology"} itself during [Dao Zhaolei]{.name data-type="lore/cosmology"}, the Great Sorting. When [[lore-tanzhodty|Tanzho]] drew the first boundaries, most of the primordial chaos submitted to classification. Huenzhuo did not. It is the refusal given form: the part of the Huenlei that looked at the Great Sorting and _disagreed_.
+In the Hwenzhwo cultus, [[lore-henzhuodty|Hwenzhwo]] is the eldest and most feared of the Demon Lords, not a fallen official but something older—a coherence that formed within the [Hwenlei]{.name data-type="lore/cosmology"} itself during [Dau Zhaulei]{.name data-type="lore/cosmology"}, the Great Sorting. When [[lore-tanzhodty|Tanzho]] drew the first boundaries, most of the primordial chaos submitted to classification. Hwenzhwo did not. It is the refusal given form: the part of the Hwenlei that looked at the Great Sorting and _disagreed_.
 
-The [[lore-tanchei|Tanchei]] describe Huenzhuo not as a being with shape or personality, but as an _anti-classification_—a force that dissolves categories in its presence. Things near Huenzhuo lose their names. Metals forget whether they are iron or copper. Rivers run in directions that have no word. Mortals exposed to its influence begin to lose the distinctions that make thought possible: the difference between self and other, between past and future, between waking and sleep.
+The [[lore-tanchei|Tanchei]] describe Hwenzhwo not as a being with shape or personality, but as an _anti-classification_—a force that dissolves categories in its presence. Things near Hwenzhwo lose their names. Metals forget whether they are iron or copper. Rivers run in directions that have no word. Mortals exposed to its influence begin to lose the distinctions that make thought possible: the difference between self and other, between past and future, between waking and sleep.
 
-In this account, [[affiliation-genhen|Genhuen]]'s Bureau of Entropy (Huen Sei) was created, in part, to manage the boundary between controlled dissolution and Huenzhuo's domain. The Tanchei consider any discussion of Huenzhuo dangerous—not because the name has power, but because thinking too precisely about anti-classification tends to erode the thinker's own categories. Scholars who study the Huenlei too deeply have been known to forget their own names.
+In this account, [[affiliation-genhen|Genhwen]]'s Bureau of Entropy (Hwen Sei) was created, in part, to manage the boundary between controlled dissolution and Hwenzhwo's domain. The Tanchei consider any discussion of Hwenzhwo dangerous—not because the name has power, but because thinking too precisely about anti-classification tends to erode the thinker's own categories. Scholars who study the Hwenlei too deeply have been known to forget their own names.
 
-### Mortal Cultus: The Nuotsou Rui
+### Mortal Cultus: The Nwotsou Rwi
 
-Huenzhuo is not prayed to in the conventional sense—the Lord of the Unclassified cannot be invoked, because invocation requires categorization and Huenzhuo _is_ the refusal of category. The [[affiliation-nuotsourui|Nuotsou Rui]] nevertheless takes Huenzhuo as its foundational theological figure. The cult's members do not worship the First Refusal; they _imitate_ it. A cult member who accepts the classification-condemnation rather than seeking redemption, who refuses to petition the bureaus for reclassification, who chooses to stand outside the categorical order, is said to walk in the First Refusal. This is the deepest of the cult's commitments and, by the cult's own reckoning, the most dangerous: those who walk too far in Huenzhuo's way begin to lose the distinctions that make thought possible.
+Hwenzhwo is not prayed to in the conventional sense—the Lord of the Unclassified cannot be invoked, because invocation requires categorization and Hwenzhwo _is_ the refusal of category. The [[affiliation-nuotsourui|Nwotsou Rwi]] nevertheless takes Hwenzhwo as its foundational theological figure. The cult's members do not worship the First Refusal; they _imitate_ it. A cult member who accepts the classification-condemnation rather than seeking redemption, who refuses to petition the bureaus for reclassification, who chooses to stand outside the categorical order, is said to walk in the First Refusal. This is the deepest of the cult's commitments and, by the cult's own reckoning, the most dangerous: those who walk too far in Hwenzhwo's way begin to lose the distinctions that make thought possible.
 
 ### See Also
 
-[[affiliation-nuotsourui|Nuotsou Rui]]
+[[affiliation-nuotsourui|Nwotsou Rwi]]
 : The cult whose foundational theological figure is the First Refusal
 
 [[affiliation-youweng|Youweng]]
 : The Demon Realm
 
 [[affiliation-tengwouronglei|Tengwou Rong Lei]]
-: The Celestial Bureaucracy whose Great Sorting Huenzhuo refused
+: The Celestial Bureaucracy whose Great Sorting Hwenzhwo refused
 
 ## Outside the Ladder
 

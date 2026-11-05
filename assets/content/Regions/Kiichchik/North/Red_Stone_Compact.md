@@ -117,7 +117,7 @@ Two peoples of the north stand outside the compact. The [[affiliation-shuqash|Sh
 
 ## See Also
 
-[[place-northkiichchik|Northern Ki'ich'chik]]
+[[place-northkiichchik|Northern Kì'ìch'chik]]
 : the north and its peoples
 
 [[affiliation-osetakona|Osetakona]]

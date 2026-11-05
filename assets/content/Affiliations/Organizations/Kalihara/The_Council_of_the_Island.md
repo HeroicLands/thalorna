@@ -86,5 +86,5 @@ The Ithakan sit in the Council and keep its works; [[affiliation-wardensapproach
 [[place-ithorianu|Ithorinu]]
 : the town that keeps the record of its decisions
 
-[[affiliation-tharivaan|Thári'vaan]]
+[[affiliation-tharivaan|Thári-vaan]]
 : the custodians who sit for the works

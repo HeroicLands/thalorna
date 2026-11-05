@@ -3,7 +3,7 @@ shortcode: hiltheratsol
 name: {full: Hilthera Tsoluregi, en: [Lady Hilthera Tsoluregi, Master of Commerce]}
 type: being
 subType: npc
-description: A Crown Councilor of Lienrik and the kingdom's chief advisor on trade, who is the close confidant and patron of the herald Kárenna Graveth.
+description: A Crown Councilor of Lyenrik and the kingdom's chief advisor on trade, who is the close confidant and patron of the herald Kárenna Graveth.
 tags: []
 data:
   icon: icon-person
@@ -37,7 +37,7 @@ Hilthera Tsoluregi is a 49-year-old woman who stands 5'10" tall with a heavy bui
 
 # Dossier {#dossier}
 
-Hilthera Tsoluregi is a Crown Councilor of Lienrik, one of the great lords sworn to the king's council, and the kingdom's Master of Commerce. She advises the king on trade, the Roll of Houses and Lienrik's claim to the High Kingship. Her house is old and mountain-bred, and she holds a province of the crown directly.
+Hilthera Tsoluregi is a Crown Councilor of Lyenrik, one of the great lords sworn to the king's council, and the kingdom's Master of Commerce. She advises the king on trade, the Roll of Houses and Lyenrik's claim to the High Kingship. Her house is old and mountain-bred, and she holds a province of the crown directly.
 
 At [[place-torvaleth|Torvaleth]] she is the closest confidant and patron of the herald [[being-carengrvth|Kárenna Graveth]], whom she guides on the political currents of the royal household.
 
@@ -49,7 +49,7 @@ Hilthera is calm, dry and watchful. She prefers advice given in a counting-house
 
 ### Motivation
 
-She wants Lienrik's trade protected and its claim to the crown served by wealth rather than war. She regards Kárenna as an investment.
+She wants Lyenrik's trade protected and its claim to the crown served by wealth rather than war. She regards Kárenna as an investment.
 
 ### Strengths
 
@@ -75,7 +75,7 @@ Merchants who resent her control of the toll and the harvest fair.
 
 ### Affiliations
 
-- **[[affiliation-kingdmlnrk|Kingdom of Lienrik]]**: Hilthera holds a seat on the king's council as a Crown Councilor, at the rung of Greater Nobility.
+- **[[affiliation-kingdmlnrk|Kingdom of Lyenrik]]**: Hilthera holds a seat on the king's council as a Crown Councilor, at the rung of Greater Nobility.
 
 ## Plot Hooks
 

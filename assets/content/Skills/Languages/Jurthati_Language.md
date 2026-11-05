@@ -84,9 +84,9 @@ data:
       class: n
       field: Land, sea and sky
       gloss:
-        - fire; and, by the other pitch, hand
+        - fire; and also hand
         - chest, breast-bone
-        - evidence; an observation or account that supports a claim. This separate reading is inherited from mainland hiao; the other stated meanings retain their established use
+        - evidence; an observation or account that supports a claim. This separate reading is inherited from mainland hyau; the other stated meanings retain their established use
       concept: [fire, chest, hand]
       source: {kind: inherited}
     - form: ji
@@ -100,7 +100,7 @@ data:
     - form: mu
       class: n
       field: Land, sea and sky
-      gloss: wood; and, at the same pitch, green
+      gloss: wood; and also green
       concept: [green, wood]
       source: {kind: inherited}
     - form: shu
@@ -112,7 +112,7 @@ data:
     - form: tsu
       class: n
       field: Land, sea and sky
-      gloss: earth, soil; and, by the other pitch, a tribe, a people
+      gloss: earth, soil; and also a tribe, a people
       source: {kind: inherited}
       concept: [earth, soil, people, group, tribe]
     - form: we
@@ -154,28 +154,28 @@ data:
     - form: nu
       class: n
       field: Land, sea and sky
-      gloss: field, terrace, garden; and, at the same pitch, bound, unfree
+      gloss: field, terrace, garden; and also bound, unfree
       source: {kind: inherited}
       concept: field
     - form: wo
       class: n
       field: Land, sea and sky
-      gloss: sea, ocean; and, at the same pitch, divine, sacred
+      gloss: sea, ocean; and also divine, sacred
       source: {kind: inherited}
       concept: [sea, ocean]
     - form: zen
       class: n
       field: Land, sea and sky
-      gloss: ["snow; and, by the other pitch, boar", roof]
+      gloss: ["snow; and also boar", roof]
       concept: [roof, snow]
       source: {kind: inherited}
     - form: rou
       class: n
       field: Land, sea and sky
       gloss:
-        - thunder; and, at the same pitch, ten thousand, a myriad
+        - thunder; and also ten thousand, a myriad
         - time; duration. This separate reading is inherited from mainland long; the other stated meanings retain their established use
-        - name; the word or words by which someone or something is called. This separate reading is inherited from mainland riao; the other stated meanings retain their established use
+        - name; the word or words by which someone or something is called. This separate reading is inherited from mainland ryau; the other stated meanings retain their established use
       source: {kind: inherited}
       concept: [thunder, time, name-noun]
     - form: ra
@@ -236,7 +236,7 @@ data:
     - form: wen
       class: num
       field: Number and color
-      gloss: ["five; and, by the other pitch, the center", to hold]
+      gloss: ["five; and also the center", to hold]
       concept: five
       source: {kind: inherited}
     - form: jen
@@ -310,12 +310,12 @@ data:
     - form: chen
       class: "n"
       field: "Rank, house and office"
-      gloss: "emperor; and, by the other pitch, frost"
+      gloss: "emperor; and also frost"
       source: {kind: inherited}
     - form: zo
       class: "n"
       field: "Rank, house and office"
-      gloss: ["lord; and, at the same pitch, dragon", "house, home, abode"]
+      gloss: ["lord; and also dragon", "house, home, abode"]
       concept: abode
       source: {kind: inherited}
     - form: nei
@@ -387,13 +387,13 @@ data:
     - form: dozo
       class: "n"
       field: "Rank, house and office"
-      gloss: "a great lord; the native reading of _Daozhuo_"
+      gloss: "a great lord; the native reading of _Dauzhwo_"
       source: {kind: coined}
       built: [dou, zo]
     - form: shuizo
       class: "n"
       field: "Rank, house and office"
-      gloss: "a lesser lord; the native reading of _Shuizhuo_"
+      gloss: "a lesser lord; the native reading of _Shwizhwo_"
       source: {kind: coined}
       built: [shui, zo]
     - form: rore
@@ -429,7 +429,7 @@ data:
     - form: shono
       class: "n"
       field: "Rank, house and office"
-      gloss: "the merchants; the native reading of _Shuonong_"
+      gloss: "the merchants; the native reading of _Shwonong_"
       source: {kind: coined}
       built: [sho, nou]
     - form: nuwen
@@ -441,7 +441,7 @@ data:
     - form: nuzu
       class: "n"
       field: "Rank, house and office"
-      gloss: "the bound folk; the native reading of _Nuitsou_"
+      gloss: "the bound folk; the native reading of _Nwitsou_"
       source: {kind: coined}
       built: [nu, "-zu"]
     - form: tanzo
@@ -453,7 +453,7 @@ data:
     - form: wu
       class: "n"
       field: "Rites, honor and court"
-      gloss: ["court, palace, hall; and, at the same pitch, tortoise", "bowl"]
+      gloss: ["court, palace, hall; and also tortoise", "bowl"]
       concept: bowl
       source: {kind: inherited}
     - form: rei
@@ -492,7 +492,7 @@ data:
     - form: hen
       class: "n"
       field: "Rites, honor and court"
-      gloss: "chaos, disorder; and, by the other pitch, tiger"
+      gloss: "chaos, disorder; and also tiger"
       source: {kind: inherited}
     - form: si
       class: n
@@ -576,7 +576,7 @@ data:
     - form: ruizi
       class: "n"
       field: "Rites, honor and court"
-      gloss: "the ritual death; the native reading of _Ruising_"
+      gloss: "the ritual death; the native reading of _Rwising_"
       source: {kind: coined}
       built: [rui, "-zi"]
     - form: kowen
@@ -2211,7 +2211,7 @@ data:
       gloss:
         - sadness; sorrow
         - shame; felt dishonor or humiliation. This separate reading is inherited from mainland deng; the other stated meanings retain their established use
-      source: {kind: inherited, language: skill-tantsoulng, form: die}
+      source: {kind: inherited, language: skill-tantsoulng, form: dye}
       concept: [sadness, shame]
     - form: dun
       class: n
@@ -2251,17 +2251,17 @@ data:
       class: n
       field: Rites, honor and court
       gloss: body; the physical body of a living being
-      source: {kind: inherited, language: skill-tantsoulng, form: mao}
+      source: {kind: inherited, language: skill-tantsoulng, form: mau}
     - form: mui
       class: adj
       field: Speaking
       gloss: empty; containing none of the thing in question
-      source: {kind: inherited, language: skill-tantsoulng, form: mui}
+      source: {kind: inherited, language: skill-tantsoulng, form: mwi}
     - form: me
       class: adj
       field: Speaking
       gloss: full; filled to capacity
-      source: {kind: inherited, language: skill-tantsoulng, form: mie}
+      source: {kind: inherited, language: skill-tantsoulng, form: mye}
     - form: meru
       class: n
       field: Rites, honor and court
@@ -2286,7 +2286,7 @@ data:
       class: n
       field: Rites, honor and court
       gloss: point; a particular spot or position
-      source: {kind: inherited, language: skill-tantsoulng, form: nuen}
+      source: {kind: inherited, language: skill-tantsoulng, form: nwen}
     - form: ben
       class: v
       field: Speaking
@@ -2363,7 +2363,7 @@ data:
       class: adj
       field: Speaking
       gloss: long; extending far in space or time
-      source: {kind: inherited, language: skill-tantsoulng, form: kao}
+      source: {kind: inherited, language: skill-tantsoulng, form: kau}
       concept: long
     - form: kuno
       class: adj
@@ -2398,13 +2398,13 @@ data:
       class: adj
       field: Needs and common things
       gloss: hot; at a high temperature
-      source: {kind: inherited, language: skill-tantsoulng, form: fao}
+      source: {kind: inherited, language: skill-tantsoulng, form: fau}
       concept: hot
     - form: fe
       class: v
       field: The body
       gloss: to injure; to cause bodily damage or pain
-      source: {kind: inherited, language: skill-tantsoulng, form: fie}
+      source: {kind: inherited, language: skill-tantsoulng, form: fye}
       concept: hurt-verb
     - form: fan
       class: v
@@ -2422,7 +2422,7 @@ data:
       class: v
       field: Speaking
       gloss: to happen; to occur
-      source: {kind: inherited, language: skill-tantsoulng, form: fuen}
+      source: {kind: inherited, language: skill-tantsoulng, form: fwen}
       concept: happen
     - form: fayo
       class: v
@@ -2449,7 +2449,7 @@ data:
       class: n
       field: Land, sea and sky
       gloss: stone; rock, the hard mineral material
-      source: {kind: inherited, language: skill-tantsoulng, form: gao}
+      source: {kind: inherited, language: skill-tantsoulng, form: gau}
       concept: [stone, rock]
     - form: bino
       class: n
@@ -2471,7 +2471,7 @@ data:
       class: n
       field: Land, sea and sky
       gloss: plant; a living thing that grows rooted in the ground
-      source: {kind: inherited, language: skill-tantsoulng, form: shuen}
+      source: {kind: inherited, language: skill-tantsoulng, form: shwen}
       concept: plant
     - form: sono
       class: n
@@ -2500,7 +2500,7 @@ data:
       class: pron
       field: Speaking
       gloss: you; the person or persons addressed
-      source: {kind: inherited, language: skill-tantsoulng, form: shie}
+      source: {kind: inherited, language: skill-tantsoulng, form: shye}
       concept: you-reference
     - form: weya
       class: dem
@@ -2542,7 +2542,7 @@ data:
       class: adj
       field: Number and color
       gloss: more; greater in quantity or degree. Ren tsure sui nou means more people than two, with ren as the count being exceeded and nou as the persons counted
-      source: {kind: inherited, language: skill-tantsoulng, form: sui}
+      source: {kind: inherited, language: skill-tantsoulng, form: swi}
       concept: more
     - form: tsume
       class: part
@@ -2582,7 +2582,7 @@ data:
       class: conj
       field: Speaking
       gloss: but; however; nevertheless, connecting a contrast or maintaining a course despite a contrary circumstance. Yan ri shu ku jo; tsou tsei ku du reme ben means rain falls; nevertheless I remain on the road
-      source: {kind: inherited, language: skill-tantsoulng, form: tsao}
+      source: {kind: inherited, language: skill-tantsoulng, form: tsau}
       concept: [but, however, nevertheless]
     - form: tsome
       class: conj
@@ -2608,13 +2608,13 @@ data:
       class: num
       field: Number and color
       gloss: some; an unspecified nonzero portion or number
-      source: {kind: inherited, language: skill-tantsoulng, form: wao}
+      source: {kind: inherited, language: skill-tantsoulng, form: wau}
       concept: some
     - form: bou
       class: call
       field: Speaking
       gloss: yes; affirmation of a question or acceptance of a proposal
-      source: {kind: inherited, language: skill-tantsoulng, form: bao}
+      source: {kind: inherited, language: skill-tantsoulng, form: bau}
       concept: yes
     - form: heno
       class: n
@@ -6908,7 +6908,7 @@ data:
     edges:
       - {edge: openCluster, sounds: []}
       - {edge: closeConsonant, sounds: [n]}
-      - {edge: vowelPair, sounds: [ai, ei, ui]}
+      - {edge: vowelPair, sounds: [ai, ei, ou]}
       - {edge: innerCluster, sounds: [nb, nd, ng, nj, nm, nn, nr, nw, ny, nz]}
     clusters: {max: 2}
     mutations:
@@ -6944,7 +6944,7 @@ data:
     - {name: Censor of Purity, tongue: translation}
     - {name: Chaiwong, tongue: exonym:tanvuri, built: [chai, wong]}
     - {name: Cloud Hall, tongue: translation}
-    - {name: Daozhuo, tongue: kept, built: [dao, zhuo]}
+    - {name: Dauzhwo, tongue: kept, built: [dau, zhwo]}
     - {name: Dark Hall, tongue: translation}
     - {name: Dragon's Mountain, tongue: translation}
     - {name: Emperor, tongue: translation}
@@ -6995,8 +6995,8 @@ data:
     - {name: Rinwu, tongue: jurthati, built: [rin, wu]}
     - {name: Rojai, tongue: jurthati, built: [rou, -jai]}
     - {name: Shuiwojai Domain, tongue: translation}
-    - {name: Shuizhuo, tongue: kept, built: [shui, zhuo]}
-    - {name: Shuonong, tongue: kept, built: [shuo, nong]}
+    - {name: Shwizhwo, tongue: kept, built: [shwi, zhwo]}
+    - {name: Shwonong, tongue: kept, built: [shwo, nong]}
     - {name: Snow Peak, tongue: translation}
     - {name: Star Peak, tongue: translation}
     - {name: Subject, tongue: translation}
@@ -7006,7 +7006,7 @@ data:
     - {name: The Dawn Court, tongue: translation}
     - {name: The Secession of Jenchai, tongue: translation}
     - {name: Thunder Peak, tongue: translation}
-    - {name: Tsaihuo, tongue: kept, built: [tsai, huo]}
+    - {name: Tsaihwo, tongue: kept, built: [tsai, hwo]}
     - {name: Tsuijai, tongue: jurthati, built: [tsui, -jai]}
     - {name: Tsuijai Domain, tongue: translation}
     - {name: Tsuiwu, tongue: jurthati, built: [tsui, wu]}
@@ -7058,7 +7058,7 @@ The language is correspondingly indirect. A refusal is very rarely a negation; i
 
 Jurthati is open-syllabled and even: a consonant and a vowel, again and again.
 
-**The vowels.** _a_, _e_, _i_, _o_ and _u_. A long _ō_ is written _ou_.
+**The vowels.** _a_, _e_, _i_, _o_ and _u_, and the pairs _ai_, _ei_ and _ou_.
 
 **The consonants.** _w_, _j_, _ts_, _z_, _r_, _y_, _d_, _k_, _m_ and _n_.
 
@@ -7070,15 +7070,15 @@ Jurthati is open-syllabled and even: a consonant and a vowel, again and again.
 
 ## Phonology
 
-**Vowels:** Five, **a e i o u**, each short or held long. The mainland's gliding pairs have mostly settled into long vowels—_ou_ is a single long vowel on the islands—and only _ai_, _ei_ and _ui_ survive as pairs.
+**Vowels:** Five, **a e i o u**, and the pairs _ai_, _ei_ and _ou_. Most of the mainland's glides have settled into plain vowels on the islands. In _ui_ both vowels are said, _u_ and then _i_.
 
-**Pitch:** The mainland's four tones have collapsed into a **pitch-accent** that the islanders do not write. A word the mainland sings in the high level or the rising tone is said high on the islands; one in the falling or the low tone is said low. The tones simply drop: _lei_, spirit, is _rei_; _shou_, water, is _shu_; _yan_, cloud, is _yan_; _wei_, jade, is _wei_. The high level tone left length behind, so the mainland's _tan_, celestial, is still _tan_. The pitch distinguishes word pairs rather than carrying grammatical weight—_tsu_ said high is earth, said low a tribe—and many mainland words have fallen together outright, which the shared script keeps apart in writing. The tone-poor result is the plainest difference between island and mainland speech.
+**The level voice:** The islands say every word on a level voice: _lei_, spirit, is _rei_; _shou_, water, is _shu_; _yan_, cloud, is _yan_; _wei_, jade, is _wei_. Many mainland words have fallen together outright—_tsu_ is both earth and a tribe—and the shared script keeps them apart in writing. The level voice is the plainest difference between island and mainland speech.
 
-**The lost _-ng_:** A closing _-ng_ has gone into the vowel before it, which is held long: _teng_, heaven, is _te_; _jing_, metal, is _ji_; _wong_, the sea, is _wo_. A closing _-n_ stays, held for a beat of its own.
+**The lost _-ng_:** A closing _-ng_ has gone: _teng_, heaven, is _te_; _jing_, metal, is _ji_; _wong_, the sea, is _wo_. A closing _-n_ stays, as a beat of its own.
 
 **Consonants:** The islands have no _zh_ and no _l_: _zh_ became _z_ and _l_ a tapped _r_, so the mainland's _zho_, dragon, is _zo_. An _h_ before _u_ became _f_, and a _t_ before _u_ became _ts_, so _hou_, harmony, is _fu_ and _tou_, earth, is _tsu_. Inside a compound the second part's voiceless opening is voiced: _chai_, mountain, stands alone with its _ch_ and closes a compound as _-jai_, so the Nine Mountains are _Jenjai_. Two consonants meet only where a syllable's _-n_ stands before the next. The overall effect is a language of open, evenly weighted syllables—flatter than Tantsou, and markedly easier for a foreigner to pronounce badly enough to be understood.
 
-**Prosody:** Even mora-timing, a long vowel and a closing _-n_ each counting as a beat. Jurthati verse is counted rather than stressed or rhymed, which is why the short forms—the nine-mora and eighteen-mora shapes composed at every level of society—travel so poorly into western tongues.
+**Prosody:** Even beats, each syllable and each closing _-n_ counting as one. Jurthati verse is counted rather than stressed or rhymed, which is why the short forms—the nine-beat and eighteen-beat shapes composed at every level of society—travel so poorly into western tongues.
 
 ## Grammar Notes
 
@@ -7094,7 +7094,7 @@ Jurthati is open-syllabled and even: a consonant and a vowel, again and again.
 
 Jurthati is written in [[skill-tengchouscript|Teng Chou]], the same logographic Celestial Record the mainland uses—the script is not tied to either language, and a Jurthati retainer and a Tantsou minister who cannot exchange three spoken sentences can negotiate in writing without difficulty. Neither court will concede a separate script to the other, so the islands write the mainland's characters and read them aloud in their own tongue.
 
-Two island habits diverge. First, the reading of a character in Jurthati is frequently not its Tantsou reading, and educated Jurthati hold **two** readings for many characters—the native word and the borrowed mainland pronunciation—with the choice between them carrying its own register. The realm's name, its ranks and castes, its titles and its rites are spoken in the mainland pronunciation, tones and all, while the same characters read in the native way give _Jenjai_ for _Jenchai_ and _dozo_ for a great lord's _Daozhuo_. Second, calligraphy in the formal hand is a spiritual discipline in Jenchai rather than a bureaucratic qualification, studied by warrior-retainers alongside blade-work and tea-craft, so literacy runs higher among the island aristocracy than among the mainland rank they correspond to.
+Two island habits diverge. First, the reading of a character in Jurthati is frequently not its Tantsou reading, and educated Jurthati hold **two** readings for many characters—the native word and the borrowed mainland pronunciation—with the choice between them carrying its own register. The realm's name, its ranks and castes, its titles and its rites are spoken in the mainland pronunciation, while the same characters read in the native way give _Jenjai_ for _Jenchai_ and _dozo_ for a great lord's _Dauzhwo_. Second, calligraphy in the formal hand is a spiritual discipline in Jenchai rather than a bureaucratic qualification, studied by warrior-retainers alongside blade-work and tea-craft, so literacy runs higher among the island aristocracy than among the mainland rank they correspond to.
 
 ## Regional Dialects
 
@@ -7104,7 +7104,7 @@ Two island habits diverge. First, the reading of a character in Jurthati is freq
 
 **Mountain dialects:** Conservative, keeping a closing _-ng_ the standard has lengthened away, and often unintelligible to a coastal speaker at speed.
 
-**Shrine register:** Archaic, used in [[affiliation-tengwouronglei|Celestial Order]] rites, and preserving mainland forms whole, tones and all, centuries after ordinary speech abandoned them.
+**Shrine register:** Archaic, used in [[affiliation-tengwouronglei|Celestial Order]] rites, and preserving mainland forms whole, centuries after ordinary speech abandoned them.
 
 ## Ordinary expressions
 
@@ -7124,7 +7124,7 @@ _Rinbin_, _dubin_, _kenbin_ and _roubin_ name romantic love, friendship, family 
 : "Nine mountains, one heaven." (Proverbial; the claim to an undivided Mandate.)
 
 "Ja ku wa."
-: "The blade answers." (Of [Ruising]{.name data-type="lore/custom"}, the island form of ritual death, taken as a mode of speech.)
+: "The blade answers." (Of [Rwising]{.name data-type="lore/custom"}, the island form of ritual death, taken as a mode of speech.)
 
 "Chai ku jo bo?"
 : "Does the mountain fall?" (Of patience under pressure; the question needs no answer.)
@@ -7147,15 +7147,15 @@ Great Lords' houses take their names from features of their mountains—a peak, 
 
 ## Jurthati Lexicon {#lexicon}
 
-The islands of Jenchai speak the mainland's words with the music taken out. Where a Tantsou minister sings _teng_ for heaven, rising through the syllable and closing on _-ng_, a Jurthati fisherman says _te_, the nasal gone into a long vowel and the rising tone left behind as a high pitch. A thousand years of separation have made Jurthati a language of open syllables and even beats: every word closes on a vowel or on _n_, two consonants meet inside a word only where an _n_ stands first, and the verb at the close of a sentence carries the speaker's whole relation to the listener and the subject.
+The islands of Jenchai speak the mainland's words with the music taken out. Where a Tantsou minister sings _teng_ for heaven, rising through the syllable and closing on _-ng_, a Jurthati fisherman says _te_ on a level voice, the nasal gone. A thousand years of separation have made Jurthati a language of open syllables and even beats: every word closes on a vowel or on _n_, two consonants meet inside a word only where an _n_ stands first, and the verb at the close of a sentence carries the speaker's whole relation to the listener and the subject.
 
 This page is the word-hoard of the island tongue. It gives the inherited stock beside its [[skill-tantsoulng#lexicon|Tantsou]] roots, the island words beside it, the endings of the honorific grid, the rules a new word or name is built by, and the register of every name the setting gives in Jenchai.
 
-Jurthati holds two readings for much of its vocabulary. The **native reading** is the word as the islands say it. The **learned reading** is the mainland pronunciation, written as the mainland writes it and kept for the realm's name, titles, rites, the names of castes and offices, and the set phrases of the court and the shrines. The learned reading keeps the _-ng_, the _zh_, the _l_ and the four tones the native reading loses, so _Ruising_, the ritual death, is a learned word whose native reading is _ruizi_. The dictionary gives the native reading; the learned forms the notes write stand in the table of names outside the pattern below.
+Jurthati holds two readings for much of its vocabulary. The **native reading** is the word as the islands say it. The **learned reading** is the mainland pronunciation, written as the mainland writes it and kept for the realm's name, titles, rites, the names of castes and offices, and the set phrases of the court and the shrines. The learned reading keeps the _-ng_, the _zh_ and the _l_ the native reading loses, so _Rwising_, the ritual death, is a learned word whose native reading is _ruizi_. The dictionary gives the native reading; the learned forms the notes write stand in the table of names outside the pattern below.
 
 ## How to read the dictionary {#how-to-read-the-dictionary}
 
-An entry gives the word in its native reading. A meaning with two glosses joined by _and, by the other pitch,_ is two mainland words the loss of tone has made alike in writing, which the pitch-accent keeps apart in speech; two glosses joined by _and, at the same pitch,_ are two mainland words the islands say alike, which only the script keeps apart. A word made of smaller parts names the words and endings it is made of, joined by `+`, and the form is exactly what the building rules make of them. An entry's source is `inherited` for a word with a Tantsou root, `island` for a word a note gives that has no Tantsou root, and `coined` for a word this page makes so that the tongue can be used.
+An entry gives the word in its native reading. A meaning with two glosses joined by _and also_ is two mainland words the islands say and write alike, which only the script keeps apart. A word made of smaller parts names the words and endings it is made of, joined by `+`, and the form is exactly what the building rules make of them. An entry's source is `inherited` for a word with a Tantsou root, `island` for a word a note gives that has no Tantsou root, and `coined` for a word this page makes so that the tongue can be used.
 
 ### Fields
 
@@ -7168,7 +7168,7 @@ ORDER BY position
 
 ## Sounds and spelling {#sounds-and-spelling}
 
-Jurthati writes five vowels, each short or long, and the mainland's consonants less _zh_, _l_ and _ng_. The mainland's four tones are a pitch-accent on the islands that the pages do not write: a word is said high or low, the pitch parts word pairs and carries no grammar, and where the loss of tone has left two words alike in writing, the pitch is often the only thing that tells them apart.
+Jurthati writes five vowels and the mainland's consonants less _zh_, _l_ and _ng_. Its words are said on a level voice, and where two mainland words have come to be said alike, only the script tells them apart.
 
 Its words are written in the setting's one guide; see [[doc-prnncthlrn|Pronouncing Thalorna]].
 
@@ -7203,27 +7203,23 @@ FROM cognates WHERE language = 'thalorna-note-skill-tantsoulng'
 GROUP BY position, gloss ORDER BY position
 ```
 
-### Pitch
-
-**Pitch.** The mainland's tones became pitch on the islands. A root in the high level or the rising tone is said high; a root in the falling or the low tone is said low. The pitch is not written. Where two roots fall together in writing, the pitch parts them when it differs, and nothing in speech parts them when it does not.
-
 ### Words the islands say alike
 
-| Native | Pitch     | Tantsou roots                      |
-| ------ | --------- | ---------------------------------- |
-| `tsu`  | high, low | _tou_ earth; _tsou_ tribe          |
-| `zen`  | low, high | _zhen_ snow; _zhin_ boar           |
-| `chen` | low, high | _chuen_ frost; _chen_ emperor      |
-| `wen`  | low, high | _wuen_ five; _wen_ center          |
-| `hen`  | high, low | _huen_ chaos; _hen_ tiger          |
-| `mu`   | low       | _mou_ wood; _muo_ green            |
-| `nu`   | low       | _nou_ field; _nui_ bound           |
-| `wo`   | high      | _wong_ sea; _wo_ sacred            |
-| `rou`  | low       | _rao_ thunder; _rong_ ten thousand |
-| `zo`   | low       | _zhuo_ lord; _zho_ dragon          |
-| `wu`   | low       | _wou_ court; _gwo_ tortoise        |
+| Native | Tantsou roots                      |
+| ------ | ---------------------------------- |
+| `tsu`  | _tou_ earth; _tsou_ tribe          |
+| `zen`  | _zhen_ snow; _zhin_ boar           |
+| `chen` | _chwen_ frost; _chen_ emperor      |
+| `wen`  | _wuen_ five; _wen_ center          |
+| `hen`  | _hwen_ chaos; _hen_ tiger          |
+| `mu`   | _mou_ wood; _mwo_ green            |
+| `nu`   | _nou_ field; _nwi_ bound           |
+| `wo`   | _wong_ sea; _wo_ sacred            |
+| `rou`  | _rau_ thunder; _rong_ ten thousand |
+| `zo`   | _zhwo_ lord; _zho_ dragon          |
+| `wu`   | _wou_ court; _gwo_ tortoise        |
 
-The first five are pitch pairs. The last six are said alike, and the shared script keeps them apart in writing.
+Each pair is said alike, and the shared script keeps its words apart in writing.
 
 ## Building words {#building-words}
 
@@ -7289,23 +7285,23 @@ ORDER BY position
 
 ## Names outside the pattern {#names-outside-the-pattern}
 
-The notes write these names in the learned reading, so they keep the mainland's tones, its _-ng_, its _zh_ and its _l_. Each stands with its native reading where this page's words give one.
+The notes write these names in the learned reading, so they keep the mainland's _-ng_, its _zh_ and its _l_. Each stands with its native reading where this page's words give one.
 
 | Name                | Where it is met                                                                   | Native reading | Why it stands outside                                                             |
 | ------------------- | --------------------------------------------------------------------------------- | -------------- | --------------------------------------------------------------------------------- |
 | _Jenchai_           | [[affiliation-jenchaiempr\|Jenchai Empire]], [[place-jenchairgn\|Jenchai Region]] | _Jenjai_       | the realm's name in the learned reading, as the court and the script give it      |
 | _Rongleng Tengzhei_ | [[affiliation-jenchaiempr\|Jenchai Empire]], [[place-jenchairgn\|Jenchai Region]] | _Rore Tezei_   | the Emperor's style, a title of the court in the learned reading                  |
-| _Daozhuo_           | [[affiliation-jenchaiempr\|Jenchai Empire]], [[place-jenchairgn\|Jenchai Region]] | _dozo_         | a rank in the learned reading                                                     |
-| _Shuizhuo_          | [[affiliation-jenchaiempr\|Jenchai Empire]], [[place-jenchairgn\|Jenchai Region]] | _shuizo_       | a rank in the learned reading                                                     |
-| _Ruising_           | [[affiliation-jenchaiempr\|Jenchai Empire]], [[place-jenchairgn\|Jenchai Region]] | _ruizi_        | a rite in the learned reading                                                     |
-| _Nuitsou_           | [[affiliation-jenchaiempr\|Jenchai Empire]]                                       | _nuzu_         | a caste in the learned reading                                                    |
-| _Shuonong_          | [[affiliation-jenchaiempr\|Jenchai Empire]]                                       | _shono_        | a caste in the learned reading                                                    |
+| _Dauzhwo_           | [[affiliation-jenchaiempr\|Jenchai Empire]], [[place-jenchairgn\|Jenchai Region]] | _dozo_         | a rank in the learned reading                                                     |
+| _Shwizhwo_          | [[affiliation-jenchaiempr\|Jenchai Empire]], [[place-jenchairgn\|Jenchai Region]] | _shuizo_       | a rank in the learned reading                                                     |
+| _Rwising_           | [[affiliation-jenchaiempr\|Jenchai Empire]], [[place-jenchairgn\|Jenchai Region]] | _ruizi_        | a rite in the learned reading                                                     |
+| _Nwitsou_           | [[affiliation-jenchaiempr\|Jenchai Empire]]                                       | _nuzu_         | a caste in the learned reading                                                    |
+| _Shwonong_          | [[affiliation-jenchaiempr\|Jenchai Empire]]                                       | _shono_        | a caste in the learned reading                                                    |
 | _Nouwen_            | [[affiliation-jenchaiempr\|Jenchai Empire]]                                       | _nuwen_        | a caste in the learned reading                                                    |
 | _Tanchei_           | [[affiliation-jenchaiempr\|Jenchai Empire]]                                       | _tanjei_       | a caste in the learned reading                                                    |
 | _Wohou_             | [[affiliation-jenchaiempr\|Jenchai Empire]]                                       | _wobu_         | a caste in the learned reading                                                    |
 | _Zhazho_            | [[affiliation-jenchaiempr\|Jenchai Empire]]                                       | _zazo_         | a caste in the learned reading                                                    |
-| _Tsaihuo_           | [[affiliation-jenchaiempr\|Jenchai Empire]]                                       | _tsaiho_       | a caste in the learned reading                                                    |
-| _Wanduo_            | [[affiliation-jenchaiempr\|Jenchai Empire]]                                       | _wando_        | the mainland's sorcerer caste; on the islands sorcerers rank among the Wohou      |
+| _Tsaihwo_           | [[affiliation-jenchaiempr\|Jenchai Empire]]                                       | _tsaiho_       | a caste in the learned reading                                                    |
+| _Wandwo_            | [[affiliation-jenchaiempr\|Jenchai Empire]]                                       | _wando_        | the mainland's sorcerer caste; on the islands sorcerers rank among the Wohou      |
 | _Chai Kowen_        | [[skill-jurthatlng\|Jurthati]]                                                    | _Chai Kowen_   | the name of court speech, whose first word keeps the learned _chai_ of the court  |
 | _Lengwou_           | [[affiliation-jenchaiempr\|Jenchai Empire]]                                       | _Rewu_         | the capital's name in the learned reading                                         |
 | _Weileng_           | [[affiliation-jenchaiempr\|Jenchai Empire]]                                       | _Weire_        | the reigning Emperor's name in the learned reading                                |
@@ -7314,7 +7310,7 @@ The notes write these names in the learned reading, so they keep the mainland's 
 | _Leng Rui_          | [[lore-jenchaiclt\|Jenchai]]                                                      | _re rui_       | the Dawn Rite, a rite in the learned reading                                      |
 | _Chai Jui_          | [[lore-jenchaiclt\|Jenchai]]                                                      | _chai jui_     | the Festival of the Mountain, a rite in the learned reading                       |
 
-The proverbs and formulae the language note quotes are in the native reading. The mountain dialects keep a closing _-ng_ the standard speech has lengthened away, and the shrine register keeps mainland forms whole, tones and all.
+The proverbs and formulae the language note quotes are in the native reading. The mountain dialects keep a closing _-ng_ the standard speech has lost, and the shrine register keeps mainland forms whole.
 
 ## Scope {#scope}
 

@@ -14,30 +14,30 @@ data:
   governance:
     model: autocracy
     summary: >-
-      Held of the Emperor by patent by the Daozhuo Wejai Rowo, who sits at Zuwu and governs the coast through his retainers and the headmen of its fishing villages.
+      Held of the Emperor by patent by the Dauzhwo Wejai Rowo, who sits at Zuwu and governs the coast through his retainers and the headmen of its fishing villages.
     ranks:
       - level: 0
         title: Outlaw
         description: >-
-          One stripped of the Daozhuo's protection and put outside the coast's law, with no appeal.
+          One stripped of the Dauzhwo's protection and put outside the coast's law, with no appeal.
       - level: 1
         title: Subject
         description: >-
-          Lives or holds land under the Daozhuo of Wejai.
+          Lives or holds land under the Dauzhwo of Wejai.
       - level: 2
         title: Retainer
         description: >-
-          Serves the Daozhuo for a stipend in bales or a village held as a fief, and commands the domain's soldiers and ships.
+          Serves the Dauzhwo for a stipend in bales or a village held as a fief, and commands the domain's soldiers and ships.
       - level: 3
-        title: Shuizhuo
+        title: Shwizhwo
         description: >-
-          Holds one to three villages of the domain and owes the Daozhuo men in war.
+          Holds one to three villages of the domain and owes the Dauzhwo men in war.
       - level: 4
         title: Heir
         description: >-
-          The Daozhuo's named successor, who climbs the mountain for him when he cannot.
+          The Dauzhwo's named successor, who climbs the mountain for him when he cannot.
       - level: 5
-        title: Daozhuo
+        title: Dauzhwo
         description: >-
           Holds Wejai by the Emperor's patent, with his own army, fleet, justice and taxes.
     offices: {}
@@ -52,7 +52,7 @@ data:
 sohl: {system: {commonSkills: [jurthatlng]}}
 ---
 
-The Wejai Domain, held by House Wejai (Wind Peak), holds [[place-wejai|Wejai]], the mountain of the open-ocean coast on the east of the great island, by patent of the Emperor. Its lord is the Daozhuo [Wejai Rowo]{.name data-type="being/npc"} (Thunder Warrior), forty years old, who sits in the castle town of [[place-zuwu|Zuwu]] (Blue Hall), population 2,200. The domain holds 38,000 people, is assessed at 24,000 bales a year, and musters 600 men and 15 ships. The house is independent of both blocs.
+The Wejai Domain, held by House Wejai (Wind Peak), holds [[place-wejai|Wejai]], the mountain of the open-ocean coast on the east of the great island, by patent of the Emperor. Its lord is the Dauzhwo [Wejai Rowo]{.name data-type="being/npc"} (Thunder Warrior), forty years old, who sits in the castle town of [[place-zuwu|Zuwu]] (Blue Hall), population 2,200. The domain holds 38,000 people, is assessed at 24,000 bales a year, and musters 600 men and 15 ships. The house is independent of both blocs.
 
 ## The Land
 
@@ -70,7 +70,7 @@ The summit shrine of Wejai keeps the storm aspect of the [[affiliation-tengwouro
 
 ## Retainers
 
-The Wohou of Wejai serve the house for stipends in bales, since no retainer family of the domain holds a fief. The Shuizhuo of the domain hold one to three villages each and owe Rowo men in war. The coast is law to itself in one matter: whatever the sea throws on the reefs belongs to the lord by wreck-right, and his officers walk the strand after every storm.
+The Wohou of Wejai serve the house for stipends in bales, since no retainer family of the domain holds a fief. The Shwizhwo of the domain hold one to three villages each and owe Rowo men in war. The coast is law to itself in one matter: whatever the sea throws on the reefs belongs to the lord by wreck-right, and his officers walk the strand after every storm.
 
 ## Fleet and Muster
 

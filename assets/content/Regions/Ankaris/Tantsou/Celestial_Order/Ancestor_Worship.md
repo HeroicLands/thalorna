@@ -43,7 +43,7 @@ What unsettles visitors most is that **the dead give orders**. Through a Leigen,
 
 ## The Leigen
 
-The Leigen (spirit masters) arise in the [[lore-nouwen|Nouwen]] villages with the gift of speaking to the dead. They carry a household's business to its ancestors and bring back the answer, as interpreter, go-between and spirit-clerk. They receive and read ancestral commands, treat sickness that comes from the spirit side, often alongside the Yaiwo healers of the [[lore-tsaihuo|Tsaihuo]], perform the village rites that enter a birth, a union or a death with heaven, and settle disputes by asking the ancestors concerned to rule.
+The Leigen (spirit masters) arise in the [[lore-nouwen|Nouwen]] villages with the gift of speaking to the dead. They carry a household's business to its ancestors and bring back the answer, as interpreter, go-between and spirit-clerk. They receive and read ancestral commands, treat sickness that comes from the spirit side, often alongside the Yaiwo healers of the [[lore-tsaihuo|Tsaihwo]], perform the village rites that enter a birth, a union or a death with heaven, and settle disputes by asking the ancestors concerned to rule.
 
 A Leigen is a peasant by caste, and every caste respects him. Speaking with the dead, he speaks with heaven, and that gives him an authority caste cannot measure. Warlords and even [[lore-zhazho|Zhazho]] consult Leigen on hard spiritual questions, always in private, since to acknowledge a peasant's authority openly would break caste.
 
@@ -53,7 +53,7 @@ The [[lore-flksinale|Sinale Folk]] and [[lore-flkkhazar|Khazár Folk]] within th
 
 ## The Festival of the Dead
 
-The greatest festival of the dead is the [Festival of the Dead]{.name data-type="lore/gathering"} (Singlei Jui), held in [Zhenyou]{.name data-type="lore/calendar"}, the Month of Snow, at midwinter. Families provision their ancestors for the coming year: spirit money and paper goods are burned in great heaps, accounts are settled, and the Leigen speak with the dead to learn their instructions for the year ahead. It is the holiest and the costliest event of the Tantsou year, and a family that cannot keep it properly faces a year with weakened advocates in heaven. [[lore-clndrstrlgy|Calendar and Astrology]] gives the whole round of festivals.
+The greatest festival of the dead is the [Festival of the Dead]{.name data-type="lore/gathering"} (Singlei Jwi), held in [Zhenyou]{.name data-type="lore/calendar"}, the Month of Snow, at midwinter. Families provision their ancestors for the coming year: spirit money and paper goods are burned in great heaps, accounts are settled, and the Leigen speak with the dead to learn their instructions for the year ahead. It is the holiest and the costliest event of the Tantsou year, and a family that cannot keep it properly faces a year with weakened advocates in heaven. [[lore-clndrstrlgy|Calendar and Astrology]] gives the whole round of festivals.
 
 ## See Also
 

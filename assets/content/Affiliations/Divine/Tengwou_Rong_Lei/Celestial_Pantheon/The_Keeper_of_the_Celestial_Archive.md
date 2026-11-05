@@ -50,10 +50,10 @@ data:
       - level: 7
         title: Chief Intendant
         description: >-
-          Senior mortal officer of a bureau's whole temple establishment, who signs what is transmitted upward to its Teng Gui and answers for it if the bureau rejects it.
+          Senior mortal officer of a bureau's whole temple establishment, who signs what is transmitted upward to its Teng Gwi and answers for it if the bureau rejects it.
     offices:
       Wantou, The Keeper of the Celestial Archive: >-
-        Teng Gui of the Chou Sei, whose power is the authority of the office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
+        Teng Gwi of the Chou Sei, whose power is the authority of the office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
       Chougen: >-
         Archival Scribes, who copy and preserve records.
       Choulei: >-
@@ -95,7 +95,7 @@ Domain
 Parent
 : [[affiliation-tengwouronglei|Tengwou Rong Lei]]
 
-Wantou teaches that Chou Sei holds the record of [Dao Zhaolei]{.name data-type="lore/cosmology"}, the Great Sorting, and every amendment since. It does not decide
+Wantou teaches that Chou Sei holds the record of [Dau Zhaulei]{.name data-type="lore/cosmology"}, the Great Sorting, and every amendment since. It does not decide
 anything; it establishes what is true, which in an administration of precedent is a great deal more
 powerful than deciding.
 

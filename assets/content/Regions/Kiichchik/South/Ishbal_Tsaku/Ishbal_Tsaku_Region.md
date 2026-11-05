@@ -3,7 +3,7 @@ shortcode: ixbaltzakurgn
 name: {full: Ish'bal Tsa'ku Region}
 type: place
 subType: region
-description: "Snow-crowned mountains, terraced highlands and jungle river valleys—the land of Ish'bal Tsa'ku, in Southern Ki'ich'chik."
+description: "Snow-crowned mountains, terraced highlands and jungle river valleys—the land of Ish'bal Tsa'ku, in Southern Kì'ìch'chik."
 tags: [region]
 data:
   culture: kiichchikclt
@@ -19,9 +19,9 @@ data:
 
 ## Overview
 
-Ish'bal Tsa'ku Region is the land of [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]], and lies within [[place-southkiichchik|Southern Ki'ich'chik]] on the [[place-kiichchik|Ki'ich'chik Continent]].
+Ish'bal Tsa'ku Region is the land of [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]], and lies within [[place-southkiichchik|Southern Kì'ìch'chik]] on the [[place-kiichchik|Kì'ìch'chik Continent]].
 
-Ish'bal Tsa'ku is the jewel of the southern Ki'ich'chik territories—a vast realm of soaring mountains, verdant river valleys, and emerald jungle.
+Ish'bal Tsa'ku is the jewel of the southern Kì'ìch'chik territories—a vast realm of soaring mountains, verdant river valleys, and emerald jungle.
 
 ## Geography
 
@@ -43,7 +43,7 @@ The western frontier opens onto the ocean, and the coastal cities there are the 
 
 Ish'bal Tsa'ku is a nexus of wealth and commerce. The highlands export finely worked metals—gold and silver fashioned into ceremonial vessels, jewelry, and temple adornments—as well as steel blades and breastplates, iron and copper implements, and finished textiles of extraordinary quality. The valleys and lowlands produce cacao (bitter and precious), exotic fruits, jaguar and other fine pelts, medicinal herbs, and feathers of the quetzal and macaw. Rubber tapped from jungle trees provides a sticky substance used in ritual and practical applications.
 
-Trade flows in multiple directions: from the highlands down to the coasts, from the coasts back inland, and northward along the great white roads toward [[affiliation-ixilankul|Ish'ilankul]] and the central heartland of Ki'ich'chik. The most valuable cacao and rarest feathers flow north to feed the appetites of the great pyramid cities. In return, the southern cities receive textiles from the northern looms and the prestige of access to the central priesthood's most sacred rites. Obsidian goes the other way: the blades and mirrors cut at Ne' Ki'ahkul are sold in every city of the continent.
+Trade flows in multiple directions: from the highlands down to the coasts, from the coasts back inland, and northward along the great white roads toward [[affiliation-ixilankul|Ish'ilankul]] and the central heartland of Kì'ìch'chik. The most valuable cacao and rarest feathers flow north to feed the appetites of the great pyramid cities. In return, the southern cities receive textiles from the northern looms and the prestige of access to the central priesthood's most sacred rites. Obsidian goes the other way: the blades and mirrors cut at Ne' Ki'ahkul are sold in every city of the continent.
 
 Markets in the great cities—particularly [[place-nepaxel|Ne' P'ashel]] and Ts'alam Ne'—bustle with merchant cries in a dozen dialects.
 
@@ -62,7 +62,7 @@ Ish'bal Tsa'ku quarrels over who counts. The priesthood levies every cargo, the 
 [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]]
 : The realm that holds this land
 
-[[place-southkiichchik|Southern Ki'ich'chik]]
+[[place-southkiichchik|Southern Kì'ìch'chik]]
 : The enclosing region
 
 [[place-ixbaltzaku2|Ish'bal Tsa'ku]]

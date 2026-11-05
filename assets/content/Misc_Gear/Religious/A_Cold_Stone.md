@@ -10,7 +10,7 @@ sohl:
   system: {weightBase: 0.5, valueBase: 30, qualityBase: 0, durabilityBase: 20}
 ---
 
-A Cold Stone is a dead held stone (_kaan'sul_): a piece of [[lore-itharisul|ithasul]] the size of a fist, bone-white and hard, with none of the gray of a living work and none of its give. It stays cold in the hand however long it is held. The stalls of the foreign quarter at [[place-ilovanu|Ilovanu]] sell them as curiosities, a lump of white stone with the story of a work that failed.
+A Cold Stone is a dead held stone (_kaan-sul_): a piece of [[lore-itharisul|ithasul]] the size of a fist, bone-white and hard, with none of the gray of a living work and none of its give. It stays cold in the hand however long it is held. The stalls of the foreign quarter at [[place-ilovanu|Ilovanu]] sell them as curiosities, a lump of white stone with the story of a work that failed.
 
 Most of the stones in the stalls are white marble cut to the size of a fist. A custodian knows a true one by feel the moment it is in the hand, and a buyer from abroad has no such way of knowing.
 

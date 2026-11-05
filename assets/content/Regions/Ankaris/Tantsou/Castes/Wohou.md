@@ -7,11 +7,11 @@ description: "The third caste of Tantsou—the warrior nobility who command the 
 data: {packFolder: castes, culture: tantsouclt}
 ---
 
-The Wohou are the warrior nobility of [[affiliation-tantsouempr|Tantsou]], the third of the eight castes, and the hands through which the provinces are held. A Warlord (_Wozhuo_) is [[lore-zhazho|Zhazho]], of the Dragon's blood; the commandant who leads his field army, the officer who holds a district's revenue, courts and corvée, and the swordmaster who drills his household are Wohou, serving under him. The caste alone may raise and command armed force, and its members are bound by a code of honor whose breach is answered with exile or a state-ordered death.
+The Wohou are the warrior nobility of [[affiliation-tantsouempr|Tantsou]], the third of the eight castes, and the hands through which the provinces are held. A Warlord (_Wozhwo_) is [[lore-zhazho|Zhazho]], of the Dragon's blood; the commandant who leads his field army, the officer who holds a district's revenue, courts and corvée, and the swordmaster who drills his household are Wohou, serving under him. The caste alone may raise and command armed force, and its members are bound by a code of honor whose breach is answered with exile or a state-ordered death.
 
 ## Authority and Responsibilities
 
-**Military command.** The Wohou alone hold the right to lead soldiers. Every garrison, field army and campaign is commanded by an officer of this caste, and the [[lore-tsaihuo|Wonong]], the common soldiers of the Tsaihuo, carry their spears on Wohou authority and under Wohou orders. A Warlord's strategy is worked out with his Wohou commanders and his [[lore-wanduo|Wanduo]] counselors together, and executed by the former.
+**Military command.** The Wohou alone hold the right to lead soldiers. Every garrison, field army and campaign is commanded by an officer of this caste, and the [[lore-tsaihuo|Wonong]], the common soldiers of the Tsaihwo, carry their spears on Wohou authority and under Wohou orders. A Warlord's strategy is worked out with his Wohou commanders and his [[lore-wanduo|Wandwo]] counselors together, and executed by the former.
 
 **Judicial authority.** The Warlords hold the law in their provinces, and the magistrates and administrators who hear cases, investigate crimes, settle disputes and enforce the [[lore-castelaws|Caste Laws]] in a Warlord's name are drawn from this caste. A Wohou provincial administrator holds a district's revenue, its courts and its corvée under the Warlord's appointment, and answers to him for all three.
 
@@ -19,7 +19,7 @@ The Wohou are the warrior nobility of [[affiliation-tantsouempr|Tantsou]], the t
 
 ## The Code of Honor
 
-The caste lives under the [Wo Hou Lou]{.name data-type="lore/law"} (Warrior Balance Law), a strict code governing conduct in war, in office and at home. A breach can bring severe punishment, up to exile or [Ruising]{.name data-type="lore/custom"}, the state-ordered ritual suicide described under [[lore-tseising|Law and Honor]]. Personal honor is everything to a Wohou: an accusation of dishonor opens a provisional debit on his ledger that stands until it is resolved, and the consequences of a proven one run past the legal penalty into ostracism and the disgrace of his household.
+The caste lives under the [Wo Hou Lou]{.name data-type="lore/law"} (Warrior Balance Law), a strict code governing conduct in war, in office and at home. A breach can bring severe punishment, up to exile or [Rwising]{.name data-type="lore/custom"}, the state-ordered ritual suicide described under [[lore-tseising|Law and Honor]]. Personal honor is everything to a Wohou: an accusation of dishonor opens a provisional debit on his ledger that stands until it is resolved, and the consequences of a proven one run past the legal penalty into ostracism and the disgrace of his household.
 
 ## Rights and Duties
 
@@ -47,7 +47,7 @@ Service to the Zhazho
 
 ## Naming and Honors
 
-A personal name is granted only to a Wohou of exceptional service, usually for a deed of great prowess or a stroke of military genius, and the name is a phrase that evokes power, speed and the fight. Three such names: Zho Shou Teng Ja (Dragon's Rain of Heavenly Arrows), Bui Ja Wuo Rao (Ice Blade of Thunderous Battle) and Weng Hen Rao Chai (Wind Tiger Roars Across Thunder Mountain). See [[lore-personlnms|Personal Names]] for how the grant is made.
+A personal name is granted only to a Wohou of exceptional service, usually for a deed of great prowess or a stroke of military genius, and the name is a phrase that evokes power, speed and the fight. Three such names: Zho Shou Teng Ja (Dragon's Rain of Heavenly Arrows), Bwi Ja Wuo Rau (Ice Blade of Thunderous Battle) and Weng Hen Rau Chai (Wind Tiger Roars Across Thunder Mountain). See [[lore-personlnms|Personal Names]] for how the grant is made.
 
 ## Elder Races Among the Wohou
 
@@ -71,7 +71,7 @@ In the [[lore-phlsphyleiwo|Leiwo]] framework the Wohou are the enforcing Lei of 
 [[lore-tanchei|Tanchei]]
 : celestial scholars who advise Wohou commanders
 
-[[lore-wanduo|Wanduo]]
+[[lore-wanduo|Wandwo]]
 : magical counselors who work alongside Wohou commanders
 
 [[affiliation-tantsouempr|Empire of Tantsou]]

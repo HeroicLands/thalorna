@@ -54,5 +54,5 @@ The salmon run is the pulse of the village's year. In late summer the whole vill
 [[place-lamekis|Lamekis]]
 : Bear Beach, the house that challenges the Eagle House
 
-[[place-northkiichchik|Northern Ki'ich'chik]]
+[[place-northkiichchik|Northern Kì'ìch'chik]]
 : the northern nations

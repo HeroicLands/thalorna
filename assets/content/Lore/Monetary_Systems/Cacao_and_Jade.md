@@ -1,15 +1,15 @@
 ---
 shortcode: cacaojadecrncy
-name: {full: Cacao and Jade, en: [Ki'ich'chik Money]}
+name: {full: Cacao and Jade, en: [Kì'ìch'chik Money]}
 type: lore
 subType: economy
-description: "The money of the Ki'ich'chik city-states: cacao beans counted by the twenty, cotton cloth by the piece and jade by weight, all of it tribute as well as money, and all of it under the priesthood's levy."
+description: "The money of the Kì'ìch'chik city-states: cacao beans counted by the twenty, cotton cloth by the piece and jade by weight, all of it tribute as well as money, and all of it under the priesthood's levy."
 tags: [reference, currency, kiichchik, economy]
 ---
 
 On a market day in the great plaza of [[place-tsamash|Tsa'mash]], a woman selling turkeys takes her price in cacao. She counts the beans into her palm by twenties, rattles each handful beside her ear, and drops one bean back into the buyer's hand without a word. It is light. A light bean is an empty husk with earth packed inside it, and the buyer must find another before the bargain stands.
 
-[[place-kiichchik|Ki'ich'chik]] strikes no coin. Its money is what it grows, weaves and carves: **cacao beans** counted by the twenty, **cotton cloth** by the piece and **jade** by weight. All three are tribute as well as money. A household that pays its lord's tribute steward in cacao pays him in the same beans it buys its salt with, and the cloth a ward owes its Sun Lord is the cloth a merchant takes for a jar of honey.
+[[place-kiichchik|Kì'ìch'chik]] strikes no coin. Its money is what it grows, weaves and carves: **cacao beans** counted by the twenty, **cotton cloth** by the piece and **jade** by weight. All three are tribute as well as money. A household that pays its lord's tribute steward in cacao pays him in the same beans it buys its salt with, and the cloth a ward owes its Sun Lord is the cloth a merchant takes for a jar of honey.
 
 **Scope.** Cacao and jade are the money of the heartland realms, [[affiliation-ixilankul|Ish'ilankul]], [[affiliation-kankul|K'ankul]], [[affiliation-neokbaate|Ne'ok Ba'ate]] and [[affiliation-xelem|Shelem]], and of the southern market towns, [[place-nepaxel|Ne' P'ashel]] above all. The southern realms run differently. Their kin groups are fed from the storehouses and pay their lords in labor, and a farmer of [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]] can go a season without handling a bean; there, cacao, jade and metal move through the market towns and the lords' tribute, not through a farmer's hands. North of the desert the money is different again: the [[lore-shellbeadcrncy|shell-bead strands]] of the western coast, and [[lore-nrthcopprcrncy|copper]] by weight and by gift.
 
@@ -82,7 +82,7 @@ Jade is weighed on a beam against the weight-stones the temples keep, smooth bas
 
 ### Carrying Money
 
-Cacao is heavy for what it buys. A sack of eight thousand beans weighs about 8 kilograms (18 pounds) and is worth some two hundred Ardin, and it spoils if it gets wet. Cloth is bulkier still. Jade is the only Ki'ich'chik money that carries a fortune in a closed hand, which is why a merchant bound south on the rivers carries cacao for the road and jade for the bargain.
+Cacao is heavy for what it buys. A sack of eight thousand beans weighs about 8 kilograms (18 pounds) and is worth some two hundred Ardin, and it spoils if it gets wet. Cloth is bulkier still. Jade is the only Kì'ìch'chik money that carries a fortune in a closed hand, which is why a merchant bound south on the rivers carries cacao for the road and jade for the bargain.
 
 ## Where Used
 

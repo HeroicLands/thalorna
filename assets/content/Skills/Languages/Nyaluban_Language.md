@@ -6773,7 +6773,7 @@ Nyáluban exhibits **Subject-Verb-Object (SVO)** order in main clauses, though p
 ### Nominal System
 
 Number
-: Singular and plural are marked through a prefix, and sometimes through vowel lengthening or vowel changes
+: Singular and plural are marked through a prefix, and sometimes through vowel changes
 
 Definiteness
 : Articles (demonstratives and identifiality markers) precede the noun

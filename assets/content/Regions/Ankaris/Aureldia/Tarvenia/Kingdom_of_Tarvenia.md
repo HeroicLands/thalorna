@@ -37,12 +37,12 @@ data:
       - level: 5
         title: Lord
         description: >-
-          Of a house that holds land in Asturath, Galvaren or Lienrik and brings its own banner to the ban of Tarvénia. The head of the house has a place on the benches of the High Hall.
+          Of a house that holds land in Asturath, Galvaren or Lyenrik and brings its own banner to the ban of Tarvénia. The head of the house has a place on the benches of the High Hall.
     offices:
       High King: >-
         Held by a Lord, elected in the High Hall at Lezkora by two voices in every three of the electors, and holding until death or until enough lords come up to Lezkora to put out the hearth and elect another. Swears the terms of the crown at the hall's oath stone: calls the ban only against an enemy from outside Tarvénia, judges between lords who bring him their quarrel, keeps the charter of the Free City of Valthari and the old arrangement with the Free Territory of Eskarath, and takes nothing from any lord's land that the terms do not allow.
       Elector: >-
-        Held by a Lord. A lord of Asturath, Galvaren or Lienrik who brings his own banner to the ban and has his own place on the High Hall's benches. When the crown falls vacant he climbs to Lezkora with twelve sworn men, may name a candidate, and gives his voice aloud at the oath stone.
+        Held by a Lord. A lord of Asturath, Galvaren or Lyenrik who brings his own banner to the ban and has his own place on the High Hall's benches. When the crown falls vacant he climbs to Lezkora with twelve sworn men, may name a candidate, and gives his voice aloud at the oath stone.
       Keeper of the Hall: >-
         Held by a Freeman or above, appointed by the High King. Lives at the High Hall at Lezkora, keeps its benches, its roof, its hearth and the chest of its roll, opens it to the lords, and puts out the hearth when a High King dies.
       Herald of the Crown: >-
@@ -78,7 +78,7 @@ The crown's officers are few. The Keeper of the Hall lives at [[place-lezkorahal
 
 ### Electing a High King
 
-The High King is elected at [[place-lezkora|Lezkora]], in [[place-lezkorahall|the High Hall]] on the lip of its plateau, by every lord of the three kingdoms who brings his own banner to the ban of Tarvénia: the lords of Asturath, Galvaren and Lienrik, about a hundred in all. An election has been over in a morning and has taken most of a summer, and it runs the same way every time.
+The High King is elected at [[place-lezkora|Lezkora]], in [[place-lezkorahall|the High Hall]] on the lip of its plateau, by every lord of the three kingdoms who brings his own banner to the ban of Tarvénia: the lords of Asturath, Galvaren and Lyenrik, about a hundred in all. An election has been over in a morning and has taken most of a summer, and it runs the same way every time.
 
 1. **The hearth goes out.** When a High King dies, the Keeper of the Hall puts out the fire on the hall's hearth, and the crown's heralds ride to every lord who has a seat in the hall. The lords meet as soon as the plateau road is open, which after a winter death is not before late spring.
 2. **The climb.** Each lord comes up to the plateau with twelve sworn men and no more, and the Warden of the Plateau Gate counts them through. The rest of a lord's following waits below at [[place-ardalis|Ardalis]]. The rule keeps any one lord from taking the plateau by force while the throne is empty, and it puts every elector inside a gate kept by the kingdom of Asturath.
@@ -93,7 +93,7 @@ Local governance varies wildly. Some territories are ruled by hereditary lords i
 
 ## Current Situation {#present}
 
-The High King is old. The electors chose [Ularrek Garrundeta]{.name data-type="being/npc"}, a lord of Asturath's high valleys, because each of the greater candidates could block the others. He holds his court in the High Hall as the guest of the king of Asturath, [Alzemo Zolduregi]{.name data-type="being/npc"}, and passes through that king's gate. The king of Lienrik, [Zenoth Oltris]{.name data-type="being/npc"}, means to stand at the next election, and the lowland lords have begun sending their men up the road to Lezkora one and two at a time.
+The High King is old. The electors chose [Ularrek Garrundeta]{.name data-type="being/npc"}, a lord of Asturath's high valleys, because each of the greater candidates could block the others. He holds his court in the High Hall as the guest of the king of Asturath, [Alzemo Zolduregi]{.name data-type="being/npc"}, and passes through that king's gate. The king of Lyenrik, [Zenoth Oltris]{.name data-type="being/npc"}, means to stand at the next election, and the lowland lords have begun sending their men up the road to Lezkora one and two at a time.
 
 ## The Five Regions
 
@@ -107,8 +107,8 @@ The kingdom is divided into five semi-autonomous regions, each with its own gove
 [[affiliation-kngdmglvrn|Kingdom of Galvaren]]
 : The green, mist-shrouded south-western shore. Galvaren's people are seafarers, fishermen, and dreamers, with a reputation for mysticism that sits uneasily with mainstream Tarvenan skepticism of the arcane. The kingdom's fishing fleets are the largest in the western part of the [[place-ankrscntnnt|Ankaris Continent]], and its sailors are legendarily fearless—or foolhardy, depending on who you ask.
 
-[[affiliation-kingdmlnrk|Kingdom of Lienrik]]
-: The largest and most fertile of the three kingdoms, occupying the central-southern lowlands. Lienrik has the most conventional feudal structure, the richest farmland, and the largest population. Its lords are wealthier and more politically ambitious than their mountain and coastal counterparts, and Liénriki nobles have contested the High Kingship more often than anyone.
+[[affiliation-kingdmlnrk|Kingdom of Lyenrik]]
+: The largest and most fertile of the three kingdoms, occupying the central-southern lowlands. Lyenrik has the most conventional feudal structure, the richest farmland, and the largest population. Its lords are wealthier and more politically ambitious than their mountain and coastal counterparts, and Liénriki nobles have contested the High Kingship more often than anyone.
 
 ### The Free City
 
@@ -134,7 +134,7 @@ Kingdom of Tarvénia uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / A
 
 ### The Occupation (about 140 to 538 AF)
 
-Between about 140 and 160 AF the legions of the [[affiliation-vylarinmpr|Vilérian Empire]] took Tarvénia's southern coast and central lowlands, made Valthari an imperial port and held Lienrik as an occupied march ([[lore-lowlandstaken|The Lowlands Taken]]). The mountains of Asturath were never taken, and after the legion lost in [[lore-horngorgebtl|the Horn Gorge]] about 143 AF the Empire held the lowland approaches and left the mountains alone.
+Between about 140 and 160 AF the legions of the [[affiliation-vylarinmpr|Vilérian Empire]] took Tarvénia's southern coast and central lowlands, made Valthari an imperial port and held Lyenrik as an occupied march ([[lore-lowlandstaken|The Lowlands Taken]]). The mountains of Asturath were never taken, and after the legion lost in [[lore-horngorgebtl|the Horn Gorge]] about 143 AF the Empire held the lowland approaches and left the mountains alone.
 
 ### The First High Kings (about 538 to 605 AF)
 
@@ -142,14 +142,14 @@ From about 538 AF the occupied lowlands stopped paying the Empire, and about 540
 
 ### The Contested Crown (from about 605 AF)
 
-The lords of Lienrik have contested the crown more often than anyone, and [Estaril]{.name data-type="being/npc"} of Lienrik held it from about 605 AF, the first of several Liénriki High Kings. The High King has still most often been an Astúrathi lord, and the present one is.
+The lords of Lyenrik have contested the crown more often than anyone, and [Estaril]{.name data-type="being/npc"} of Lyenrik held it from about 605 AF, the first of several Liénriki High Kings. The High King has still most often been an Astúrathi lord, and the present one is.
 
 ## See Also
 
 [[place-tarvenirgn|Tarvénia Region]]
 : Regional overview
 
-[[affiliation-kngdmstrth|Kingdom of Asturath]], [[affiliation-kngdmglvrn|Kingdom of Galvaren]], [[affiliation-kingdmlnrk|Kingdom of Lienrik]]
+[[affiliation-kngdmstrth|Kingdom of Asturath]], [[affiliation-kngdmglvrn|Kingdom of Galvaren]], [[affiliation-kingdmlnrk|Kingdom of Lyenrik]]
 : The three kingdoms
 
 [[affiliation-frctyvlthr|Free City of Valthari]]

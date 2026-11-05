@@ -65,7 +65,7 @@ The wind-stone of the pass stands on the crest above the village, and the Avolut
 
 ## Relations
 
-The Avoluthei sit in [[affiliation-councilisland|the Council of the Island]] through their Elder and work with the custodianship of [[affiliation-tharivaan|Thári'vaan]] in the tending of the pass. Its quarrel is with the port, and the port's council is [[affiliation-housefactors|the House of Factors]], whose trade brings the hulls the lineage blames; it does not argue the point with anyone from the coast.
+The Avoluthei sit in [[affiliation-councilisland|the Council of the Island]] through their Elder and work with the custodianship of [[affiliation-tharivaan|Thári-vaan]] in the tending of the pass. Its quarrel is with the port, and the port's council is [[affiliation-housefactors|the House of Factors]], whose trade brings the hulls the lineage blames; it does not argue the point with anyone from the coast.
 
 ## See Also
 

@@ -16,7 +16,7 @@ He is the most terrifying and most desperately worshipped deity of the Itsani. H
 
 ## Worship
 
-In his nourishing aspect, worship is most intense in the dry season, when cities conduct the [k'ishkan ch'alish]{.name data-type="lore/custom"} (rain-calling ceremonies) on the highest pyramid peaks. Priests ascend in procession, chanting in archaic [[skill-kiichek|Ki'i'chek Language]] and pouring sacred water. The rain-calling escalates by fixed stages as the dry season lengthens, and when the first rains come the celebration is immediate and ecstatic.
+In his nourishing aspect, worship is most intense in the dry season, when cities conduct the [k'ishkan ch'alish]{.name data-type="lore/custom"} (rain-calling ceremonies) on the highest pyramid peaks. Priests ascend in procession, chanting in archaic [[skill-kiichek|Kì'ì'chek Language]] and pouring sacred water. The rain-calling escalates by fixed stages as the dry season lengthens, and when the first rains come the celebration is immediate and ecstatic.
 
 In his destructive aspect, worship is the [Ts'umaq'tsuqalil]{.name data-type="lore/custom"} ("Binding of the Serpent"), conducted when the god is believed most restless. It requires mass bloodletting, offerings of jade and maize, and ritual recitation of the names of all four previous ages and their destructions. Its purpose is twofold: to bind the serpent symbolically with chains of blood and word, and to give an outlet for the anxiety of living under an apocalyptic shadow.
 

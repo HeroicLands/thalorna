@@ -51,3 +51,4 @@ assets/content/.obsidian/
 # Symlinked into worktrees from the parent checkout.
 /node_modules
 *.el
+__pycache__/

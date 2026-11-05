@@ -12,7 +12,7 @@ K'ayik Ch'alish is the Sacred Flame of the [[affiliation-itzanpnthn|Itsani Panth
 
 ## The Transformer
 
-K'ayik Ch'alish is the god of transformation through burning and the sacred conduit through which mortal sacrifice reaches the celestial realm. Without his willing acceptance of the blood-offering the theological structure of Ki'i'chek civilization collapses, for he alone can transform the mortal into the divine. The earliest myths describe him as the fire-keeper of creation, who tended the cosmic hearth from which the world was shaped and who brought the sacred fire that completed the first humans' maize dough. Fire is never merely destructive; it is purification through transformation. The ash that remains is the most sacred substance of all, rubbed on the foreheads of the sick and mixed into healing paints.
+K'ayik Ch'alish is the god of transformation through burning and the sacred conduit through which mortal sacrifice reaches the celestial realm. Without his willing acceptance of the blood-offering the theological structure of Kì'ì'chek civilization collapses, for he alone can transform the mortal into the divine. The earliest myths describe him as the fire-keeper of creation, who tended the cosmic hearth from which the world was shaped and who brought the sacred fire that completed the first humans' maize dough. Fire is never merely destructive; it is purification through transformation. The ash that remains is the most sacred substance of all, rubbed on the foreheads of the sick and mixed into healing paints.
 
 He shares an epithet and a domain with Ataros, the Sacred Flame of [[affiliation-ashanpnthn|the Twelve of the Flame]], and is otherwise unrelated to that god.
 

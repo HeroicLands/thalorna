@@ -3,7 +3,7 @@ shortcode: velskari
 name: {full: Vélskari}
 type: affiliation
 subType: order
-description: "A militant order guarding Velgrímur's temples."
+description: "A militant order guarding Velgrimur's temples."
 tags: [draft]
 data:
   culture: nordheimnclt
@@ -30,7 +30,7 @@ data:
         title: Dróttstjori
         lore: drottstjorirnk
         description: >-
-          Leads the order's defense of Velgrímur's hidden temples and his followers.
+          Leads the order's defense of Velgrimur's hidden temples and his followers.
     offices: {}
   seat: null
   population: null

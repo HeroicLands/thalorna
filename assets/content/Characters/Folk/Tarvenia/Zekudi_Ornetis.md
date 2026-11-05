@@ -75,7 +75,7 @@ Any honest guard.
 
 ### Affiliations
 
-- **[[affiliation-kingdmlnrk|Kingdom of Lienrik]]**: Zekudi is a Freeman.
+- **[[affiliation-kingdmlnrk|Kingdom of Lyenrik]]**: Zekudi is a Freeman.
 
 ## Plot Hooks
 

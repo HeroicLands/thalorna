@@ -8,7 +8,7 @@ tags: [asguardian, draft]
 data: {packFolder: nordlands, culture: nordheimnclt}
 ---
 
-There are two chained beasts in the telling of [[lore-aldarlok|Aldarlok]], and a newcomer who has heard only of [[lore-vetrulfur|Vetrúlfur]], the Winter-Wolf, has heard half of it. In that telling, Vetrúlfur is the one [[lore-eidgardty|Eidgar]] paid his hand to bind, and the one that takes [[lore-odvardty|Odvar]]. The other is **Dulmvargur**, the grave-hound—_dulm-_, a grave, and _-vargur_, an outlaw, a wolf in the law's eye—and it is the one that takes Eidgar himself.
+There are two chained beasts in the telling of [[lore-aldarlok|Aldarlok]], and a newcomer who has heard only of [[lore-vetrulfur|Vetrulfur]], the Winter-Wolf, has heard half of it. In that telling, Vetrulfur is the one [[lore-eidgardty|Eidgar]] paid his hand to bind, and the one that takes [[lore-odvardty|Odvar]]. The other is **Dulmvargur**, the grave-hound—_dulm-_, a grave, and _-vargur_, an outlaw, a wolf in the law's eye—and it is the one that takes Eidgar himself.
 
 ## The Hound at the Landing
 
@@ -20,7 +20,7 @@ Nobody has seen it, and the tellings describe it by what it does rather than wha
 
 The halls do not agree on how the hound came to be chained, and each answer says something about the hall that gives it.
 
-Logstead teaches that Eidgar chained it himself after he had bound Vetrúlfur, with the one hand he had left, and that this is why the two are adversaries: a binder and the thing he binds are tied to each other as surely as the chain ties the beast. [[place-odholm|Odholm]]'s rune-hall teaches that the [[affiliation-asguardian|Asguardian Pantheon]]—the Ten—chained it together at the close of the giant-war, when they were still doing things together, and that Eidgar's claim on it is the claim of the god who keeps oaths on everything the Ten swore. The hidden clergy of the [[affiliation-nahild|Faith of Nahild]] say the hound belongs to [[lore-nahilddty|Nahild]], that it was never chained but only tied, and that it lies at her landing because it wishes to. The other hovs do not repeat that account.
+Logstead teaches that Eidgar chained it himself after he had bound Vetrulfur, with the one hand he had left, and that this is why the two are adversaries: a binder and the thing he binds are tied to each other as surely as the chain ties the beast. [[place-odholm|Odholm]]'s rune-hall teaches that the [[affiliation-asguardian|Asguardian Pantheon]]—the Ten—chained it together at the close of the giant-war, when they were still doing things together, and that Eidgar's claim on it is the claim of the god who keeps oaths on everything the Ten swore. The hidden clergy of the [[affiliation-nahild|Faith of Nahild]] say the hound belongs to [[lore-nahilddty|Nahild]], that it was never chained but only tied, and that it lies at her landing because it wishes to. The other hovs do not repeat that account.
 
 ## At the Close
 
@@ -33,7 +33,7 @@ The halls draw a lesson for the living from the pair. An outlaw at the ting is a
 [[lore-eidgardty|Eidgar]]
 : the god the hound takes at Aldarlok
 
-[[lore-vetrulfur|Vetrúlfur]]
+[[lore-vetrulfur|Vetrulfur]]
 : the other chained beast, which takes Odvar
 
 [[place-nulthey|Nulthey]]

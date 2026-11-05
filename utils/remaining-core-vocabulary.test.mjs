@@ -145,6 +145,12 @@ const respelled = (file, raw) => {
         (acc, [from, to]) => acc.replace(new RegExp(`(?<!\\p{L})${from}(?!\\p{L})`, "gu"), to),
         raw,
     );
+    if (file === notePath("skill-ekpelulng"))
+        // Ekpelu writes no tone: the lexicon's tone sequences and their column are gone.
+        return text
+            .replace(/\n\s+"?tones"?: "?[HL]+"?(?=\n)/gu, "")
+            .replace(/,\s*"?tones"?: "?[HL]+"?(?=[,}])/gu, "")
+            .replace(", '`' || tones || '`' AS \"Tones\"", "");
     if (file !== notePath("skill-sowideslng")) return text;
     // Sovidur writes plain o and u, and its harmony table has one front vowel.
     return text
@@ -183,6 +189,38 @@ const replacedOlderNames = new Map([
 // comparison swaps each old sentence for its new one in the baseline
 // paragraphs, and only for the sentences named here.
 const replacedProse = new Map([
+    [
+        notePath("skill-ekpelulng"),
+        [
+            // Ekpelu narrows Pronouncing Thalorna: no tone, and kp and gb read as the guide reads them.
+            [
+                "**Double-closure stops:** kp, gb",
+                "**Paired stops:** kp, gb, read as [[doc-prnncthlrn|Pronouncing Thalorna]] reads them: _k_ then _p_, _g_ then _b_",
+            ],
+            ["### Tones", ""],
+            ["### Tone", ""],
+            [
+                "Ekpelu is a tonal tongue with two level tones, high and low. Tone tells words apart, so a word's tones are part of its form as much as its consonants and vowels. Because the pitch carries the meaning, the forest peoples can call to one another across a long distance in pitch alone, without shaping a single consonant. Names and prose are written here without tone marks, as the people's own speech is not written; the [[skill-ekpelulng#lexicon|Ekpelu Lexicon]] shows the tones of every word.",
+                "",
+            ],
+            [
+                "Ekpelu has two level tones, high (`H`) and low (`L`), and each syllable carries one. Two words spelled alike with different tones are different words, so a word's tones are as much a part of its form as its letters. The lexicon writes them in the Tones column, one letter to a syllable, and nowhere else: names and prose on every other page are spelled without tone marks, since the people's own speech is not written.",
+                "",
+            ],
+            [
+                "An ending carries its own tone whatever the root, so a built word's tones are its root's followed by the ending's: `luwa` (`LH`) with `-ndo` (`L`) is `luwando` (`LHL`).",
+                "",
+            ],
+            [
+                "Tone is level pitch, never a rising question tune. Each vowel has the high or low pitch given in the dictionary. A phrase keeps the tone sequence of its separate words; the displayed sequence simply puts those sequences together. Social suffixes append their established tone to the whole root sequence, so _luwa_ LH plus _-ndo_ L remains _luwando_ LHL. Ordinary names and transcribed passages require no tone marks. Pitch and emphasis do not replace the question words.",
+                "The words are said on a level voice, with only their stress. Pitch and emphasis do not replace the question words.",
+            ],
+            [
+                " Ekpelu is a tonal tongue: every vowel is sung on a high or a low pitch, and the pitch is part of the word.",
+                "",
+            ],
+        ],
+    ],
     [
         notePath("skill-tellumilng"),
         [

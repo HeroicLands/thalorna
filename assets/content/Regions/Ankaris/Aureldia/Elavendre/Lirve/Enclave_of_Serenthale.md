@@ -16,9 +16,9 @@ data:
       The Sinale of Serenthale are governed by their own lord, raised for things done and by every voice, and keep to themselves even from the Áelendan, making contact only when the enclave chooses.
     ranks:
       - level: 0
-        title: Vierka
+        title: Vyerka
         description: >-
-          A Vierka, the Sinale word for an outlaw, is one driven out of the enclave by its lord and given no standing or shelter by it.
+          A Vyerka, the Sinale word for an outlaw, is one driven out of the enclave by its lord and given no standing or shelter by it.
       - level: 1
         title: Member of the Enclave
         description: >-
@@ -42,7 +42,7 @@ The **Enclave of Serenthale** is the community of about ninety of the [[lore-flk
 
 ## How It Is Ruled {#how-it-is-ruled}
 
-A Sinalo of Serenthale belongs to a hearth the enclave keeps. The [[lore-sinaleclt|Sinale]] raise a lord for things done, by every voice, and no human record names the lord of Serenthale. One the lord drives out is _vierka_, an outlaw, given no standing or shelter.
+A Sinalo of Serenthale belongs to a hearth the enclave keeps. The [[lore-sinaleclt|Sinale]] raise a lord for things done, by every voice, and no human record names the lord of Serenthale. One the lord drives out is _vyerka_, an outlaw, given no standing or shelter.
 
 Serenthale keeps to itself even from the [[lore-aelendnppl|Áelendan]]. Its contact with them is real, respectful and rare, and it happens at the enclave's initiative and never at anyone else's. No Áelendan guides anyone to it.
 

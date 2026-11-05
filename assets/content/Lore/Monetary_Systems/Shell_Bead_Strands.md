@@ -10,7 +10,7 @@ data: {culture: shuqashclt}
 
 On the beach at [Pitashwil]{.name data-type="place/settlement"} nobody counts beads. The seller of a cake of tar takes the buyer's strand, winds it once around her own closed hand, and watches the two ends meet over her knuckles. If they meet, the strand is full and the tar is his. If they fall short, she hands it back, and he adds loose beads from his pouch until they do.
 
-The [[affiliation-shuqash|Shuqash]], the Shell-Bead People of the [[place-shuqhalaqrgn|Bead Coast]], keep the only true money in the north of [[place-kiichchik|Ki'ich'chik]]: small disks of shell, drilled and strung. They call themselves after the bead (_shuq_), and every price on the coast is counted in strands (_hamil_). The beads are money, wealth and, in the astronomer-priests' teaching, pieces of the sky, because the stars that fell into the western sea became the small olive-colored snails the islanders drill.
+The [[affiliation-shuqash|Shuqash]], the Shell-Bead People of the [[place-shuqhalaqrgn|Bead Coast]], keep the only true money in the north of [[place-kiichchik|Kì'ìch'chik]]: small disks of shell, drilled and strung. They call themselves after the bead (_shuq_), and every price on the coast is counted in strands (_hamil_). The beads are money, wealth and, in the astronomer-priests' teaching, pieces of the sky, because the stars that fell into the western sea became the small olive-colored snails the islanders drill.
 
 **Scope.** Strands are the money of the coast towns and the island towns, and of the [[place-tulishlumuqrgn|Oak Valleys]] behind them, which sell the coast its acorns for beads. The [[affiliation-kelwanuk|Cedar People]] and the [[affiliation-teyumi|Turquoise People]] take beads in trade and as gifts and spend them in their own ways. Elsewhere in the north shell is a trade good, weighed and strung but not counted as money, and the north's great wealth is [[lore-nrthcopprcrncy|copper]]. South of the desert the money is [[lore-cacaojadecrncy|cacao and jade]], and the south has no name for the Shell-Bead People.
 
@@ -79,7 +79,7 @@ A strand weighs a few ounces and coils into a palm. A canoe's price, a hundred s
 | **Native money**               | [[place-shuqhalaqrgn\|Bead Coast]], its towns and its islands; the [[place-tulishlumuqrgn\|Oak Valleys]]                              |
 | **Trade good and gift**        | The [[affiliation-kelwanuk\|Cedar People]]'s coast, by trade and by the Northern Strand; the [[affiliation-teyumi\|Turquoise People]] |
 | **Shell by weight, not money** | The rest of the north, through [[place-hanalxilan2\|Ha'nal Shi'lan]]; see [[lore-nrthcopprcrncy\|Northern Copper]]                    |
-| **Absent**                     | The Ki'ich'chik city-states south of the desert; see [[lore-cacaojadecrncy\|Cacao and Jade]]                                          |
+| **Absent**                     | The Kì'ìch'chik city-states south of the desert; see [[lore-cacaojadecrncy\|Cacao and Jade]]                                          |
 
 ## See Also
 

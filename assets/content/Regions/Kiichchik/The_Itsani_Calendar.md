@@ -61,7 +61,7 @@ data:
   packFolder: kiichchik
 ---
 
-A Ki'ich'chik day is a meeting of counts. The [[affiliation-itzanpnthn|Itsani]] priesthood keeps four of them at once: the sun's year, the 260 days, the moon and the stars. A day takes its character from where they stand together. A farmer needs the first two, and from the temple he needs one answer: whether the day he means to sow on is open. The priests need all four. The astronomers of [[affiliation-ixilanchalix|Ish'ilan Ch'alish]] keep every one of them, because in their teaching the calendar is the goddess's own language, and every count kept on earth is an imperfect copy of the one she wrote at the creation.
+A Kì'ìch'chik day is a meeting of counts. The [[affiliation-itzanpnthn|Itsani]] priesthood keeps four of them at once: the sun's year, the 260 days, the moon and the stars. A day takes its character from where they stand together. A farmer needs the first two, and from the temple he needs one answer: whether the day he means to sow on is open. The priests need all four. The astronomers of [[affiliation-ixilanchalix|Ish'ilan Ch'alish]] keep every one of them, because in their teaching the calendar is the goddess's own language, and every count kept on earth is an imperfect copy of the one she wrote at the creation.
 
 The Presiding Ch'alish Tq'an of each city fixes its calendar. The solar priests of [[affiliation-tzenultqan|Ts'en'ul Tq'an]] keep the count of days and sell the auspicious ones. The observatories supply the reckoning that both depend on.
 
@@ -69,7 +69,7 @@ The Presiding Ch'alish Tq'an of each city fixes its calendar. The solar priests 
 
 The _ts'en_ count is the sun's year of 365 days, and it governs the fields, the seasonal festivals and the ordinary round of work. It runs eighteen months of twenty days each, and then five days that belong to no month. The months are named for what the year is doing in them. The day of a month is counted from one to twenty, so the eighth of the war month is _Q'ishe Shok'alal_.
 
-The year opens at the winter solstice, when the sun stands lowest. On that day the Ts'enmah climbs the pyramid and draws his own blood into the eternal flames, and every household rekindles its hearth from the temple fire. Each month closes with the Warden of the Debt announcing whether the city's blood-ledger stands in surplus or in deficit, so a Ki'ich'chik reckons the month by twenty days of work and one public verdict.
+The year opens at the winter solstice, when the sun stands lowest. On that day the Ts'enmah climbs the pyramid and draws his own blood into the eternal flames, and every household rekindles its hearth from the temple fire. Each month closes with the Warden of the Debt announcing whether the city's blood-ledger stands in surplus or in deficit, so a Kì'ìch'chik reckons the month by twenty days of work and one public verdict.
 
 1. **Ch'ulikal**, the new. The year opens on its first day, the winter solstice.
 2. **Ts'umaqal**, the cool nights.
@@ -121,7 +121,7 @@ The _tq'an_ count runs 260 days. Twenty day-signs turn against the numbers one t
 
 The count is the frame against which the planets are read. Each of the visible planets belongs to a god, and the astronomers hold that they keep time with the 260 days. The Reckoner of Conjunctions computes where in the count each will meet another, and from the meetings he issues the auspicious and forbidden days to every other branch of the priesthood. No seed is planted, no war declared, no marriage consummated and no building begun on a day he has not opened. He publishes his conclusions and never his workings.
 
-That rule reaches into every household. A family planning a wedding, a house or a journey pays the solar priests to find it an open day, and those fees are one of the solar branch's incomes. A Ts'enmah who means to make war waits on the same reckoning, and a war declared on a forbidden day is held lost before it is fought. Birth cannot wait on the count. The water-marking is given the hour a child is born, whatever the day, and the solar priesthood has never won the argument that it should be delayed. The day still marks the child, because a Ki'ich'chik name records the circumstances of a birth, and a child born on Balik often carries _Ish'bal_, the jaguar, among its names.
+That rule reaches into every household. A family planning a wedding, a house or a journey pays the solar priests to find it an open day, and those fees are one of the solar branch's incomes. A Ts'enmah who means to make war waits on the same reckoning, and a war declared on a forbidden day is held lost before it is fought. Birth cannot wait on the count. The water-marking is given the hour a child is born, whatever the day, and the solar priesthood has never won the argument that it should be delayed. The day still marks the child, because a Kì'ìch'chik name records the circumstances of a birth, and a child born on Balik often carries _Ish'bal_, the jaguar, among its names.
 
 ## The Round of Fifty-Two Years {#round}
 
@@ -164,7 +164,7 @@ A full date gives the Tq'an day, then the day and month of the Ts'en year, then 
 [[lore-chumtsena|Ch'um Ts'ena]]
 : the workings the priesthood speaks into the days the counts open
 
-[[skill-kiichek#lexicon|Ki'i'chek]]
+[[skill-kiichek#lexicon|Kì'ì'chek]]
 : the names of the months, the day-signs and the five doors
 
 [[place-worldthlrn|The World of Thalorna]]

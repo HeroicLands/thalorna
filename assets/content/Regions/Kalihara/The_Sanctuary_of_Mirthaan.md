@@ -21,7 +21,7 @@ Mirthaan is the sanctuary of the [Ithakan]{.name data-type="affiliation/order"} 
 
 ## The Holding
 
-The valley is held by the terrace lineages, the [Koathevoi]{.name data-type="affiliation/lineage"} chief among them, whose walls run up to the sanctuary's own; the sanctuary itself is the custodians'. Its kaan'sili come from every lineage of the island, and the terrace households see more of its custodians than any other Kaliharans of the interior do.
+The valley is held by the terrace lineages, the [Koathevoi]{.name data-type="affiliation/lineage"} chief among them, whose walls run up to the sanctuary's own; the sanctuary itself is the custodians'. Its kaan-sili come from every lineage of the island, and the terrace households see more of its custodians than any other Kaliharans of the interior do.
 
 ## What Is Seen from It
 
@@ -36,8 +36,8 @@ Mirthaan is a day's walk down from the crest of the Cloud Pass, and a day along 
 [[place-klhrestrrc|The Eastern Terraces]]
 : the country the sanctuary stands in
 
-[[affiliation-tharivaan|Thári'vaan]]
+[[affiliation-tharivaan|Thári-vaan]]
 : the custodians, their ranks and their sanctuaries
 
-[[place-veshvaan|Veshvaan]] and [[place-thalari|Thal'ari]]
+[[place-veshvaan|Veshvaan]] and [[place-thalari|Thal-ari]]
 : two other sanctuaries of the island

@@ -6,7 +6,8 @@ Adapted from fonts tools/pirzath/guard.py at
 3ec43cd207ba13072a0806421a2a62efb7aabca6. No encoding loader or codepoint table.
 """
 
-DIGRAPHS = {"th": "t_h", "dh": "d_h", "gh": "g_h", "kh": "k_h"}
+# Read left to right, longest group first, as Pronouncing Thalorna reads: _ngh_ is _ng_ then _h_.
+DIGRAPHS = {"ng": "ng", "th": "t_h", "dh": "d_h", "gh": "g_h", "kh": "k_h"}
 
 # An acute marks stress only, which Pirzath does not draw; a doubled vowel is the held vowel.
 ACUTES = {"á": "a", "é": "e", "í": "i", "ó": "o", "ú": "u"}

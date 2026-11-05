@@ -1,9 +1,9 @@
 ---
 shortcode: kiichchikclt
-name: {full: Ki'ich'chik, kiichek: ["Ki'ich'chik"]}
+name: {full: Kì'ìch'chik, kiichek: ["Kì'ìch'chik"]}
 type: lore
 subType: culture
-description: "The Ki'ich'chik of the pyramid cities—their beliefs, their mores, and what they hold a person owes."
+description: "The Kì'ìch'chik of the pyramid cities—their beliefs, their mores, and what they hold a person owes."
 tags: []
 data:
   lang: kiichek
@@ -59,17 +59,17 @@ data:
 # terran_analog: "Mesoamerica: the Classic Maya and the Mexica above all, with the Zapotec and the highland Andes for the south. Carries over: the 365-day and 260-day counts and the fifty-two-year round, the New Fire, the five unlucky days at the year's end, maize-dough humankind, bloodletting and captive sacrifice, the flower-war captive-hunt, the calpolli ward with its house of youths, cacao and jade as money, the paid death rites of the underworld journey, and the Andean counted households, labor turn and knotted cords in the south. Departs: one priesthood serves all ten gods and holds the calendar, the roads and the relay, warriors fight in steel, and the house name rule decides who may shorten whose name."
 ---
 
-The Ki'ich'chik live in the pyramid cities of the heartland and the south, from the plateau of [[affiliation-ixilankul|Ish'ilankul]] and the limestone lowlands of [[affiliation-kankul|K'ankul]] to the terraced valleys of [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]] and the last fortress-temples above the waste. They are many cities and one people: every city keeps its own Sun Lord and its own quarrels, and every one of them keeps the same count of days, serves the same ten gods through one [[affiliation-itzanpnthn|Itsani priesthood]], speaks [[skill-kiichek|Ki'i'chek]], and believes the same thing about the world. The world is in debt. The sun rises because people pay for it, a household stands because its neighbors lent it fire, and a soul reaches the far side of death because its family paid for the words. A Ki'ich'chik life is the work of paying what it owes on time, and of knowing exactly what that is.
+The Kì'ìch'chik live in the pyramid cities of the heartland and the south, from the plateau of [[affiliation-ixilankul|Ish'ilankul]] and the limestone lowlands of [[affiliation-kankul|K'ankul]] to the terraced valleys of [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]] and the last fortress-temples above the waste. They are many cities and one people: every city keeps its own Sun Lord and its own quarrels, and every one of them keeps the same count of days, serves the same ten gods through one [[affiliation-itzanpnthn|Itsani priesthood]], speaks [[skill-kiichek|Kì'ì'chek]], and believes the same thing about the world. The world is in debt. The sun rises because people pay for it, a household stands because its neighbors lent it fire, and a soul reaches the far side of death because its family paid for the words. A Kì'ìch'chik life is the work of paying what it owes on time, and of knowing exactly what that is.
 
 ## Where They Came From
 
-The Ki'ich'chik say that the world has been built and broken four times, and that the gods gave and only the gods gave in each of the four. In the fifth, [[lore-piqalkulqatdty|P'iqal Kul'qat]] took the maize of [[lore-kanixhakandty|K'anish Ha'kan]], broke it small on the stone, mixed it with water and divine blood and shaped people from it, and [[affiliation-kayikchalix|K'ayik Ch'alish]] brought the fire, and the people stood up and spoke. The serpent-keepers say the end of it aloud in [[lore-countofsuns|The Count of the Suns]]: _the people give back. This is the debt. It is ours._ The four dead suns had no one who could repay the gods, and the fifth has. That is the whole of Ki'ich'chik history as the cities tell it: an age that lasts as long as its people keep up the payments.
+The Kì'ìch'chik say that the world has been built and broken four times, and that the gods gave and only the gods gave in each of the four. In the fifth, [[lore-piqalkulqatdty|P'iqal Kul'qat]] took the maize of [[lore-kanixhakandty|K'anish Ha'kan]], broke it small on the stone, mixed it with water and divine blood and shaped people from it, and [[affiliation-kayikchalix|K'ayik Ch'alish]] brought the fire, and the people stood up and spoke. The serpent-keepers say the end of it aloud in [[lore-countofsuns|The Count of the Suns]]: _the people give back. This is the debt. It is ours._ The four dead suns had no one who could repay the gods, and the fifth has. That is the whole of Kì'ìch'chik history as the cities tell it: an age that lasts as long as its people keep up the payments.
 
 Everything else they know of their past is a city's own account: which Sun Lord raised which stair, which captive went up it, which round of fifty-two years closed late. Those accounts are cut on stelae and knotted into cords, and they disagree with one another, because every city keeps the record that flatters it. The count of days is the one record no city disputes, because the priesthood keeps it for all of them.
 
 ## The Debt Is Everything
 
-**Good is a debt paid in its time, to the one it is owed to. Evil is a debt refused, hidden, or left for someone else to pay.** The Ki'ich'chik make no distinction in kind between owing a neighbor three sticks of firewood and owing the sun a captive. Both are _ch'imuk_, and both are kept the same way: said aloud when they are made, remembered by everyone who heard, and paid back with something better than was lent.
+**Good is a debt paid in its time, to the one it is owed to. Evil is a debt refused, hidden, or left for someone else to pay.** The Kì'ìch'chik make no distinction in kind between owing a neighbor three sticks of firewood and owing the sun a captive. Both are _ch'imuk_, and both are kept the same way: said aloud when they are made, remembered by everyone who heard, and paid back with something better than was lent.
 
 So manners run on the words _that is owed_. A woman who lends her neighbor wood in the doors says it as she hands the wood over, so that it is said and nobody has to say it again. A guest who drinks the bitter bean drink at a host's hearth owes that host his welcome in return. A gift given before it is asked for is a kindness, and it is also a debt laid on the one who takes it. The lowest person in a street is the one who lends nothing, because nothing is owed to him and nobody owes him a kindness in return.
 
@@ -81,7 +81,7 @@ Success is a long name and a clear account. A commoner's name has two elements, 
 
 Failure is to be struck off. Every free person (_ts'omalil_) is on a ward's roll, with a field from the ward's common land and a share of its labor, its tribute and its levy. A household that cannot pay its tribute sells its labor, and then a member of itself, into slavery for the debt, and buys him back when it can. A person whose crime the ward refuses to answer for is struck from the roll and becomes a _Ts'ikalbal_, one put outside, with no field, no ward temple and no shelter that anyone owes him, and any household may take him as a slave.
 
-The Ki'ich'chik value most a debt paid early, an exact count, a captive taken alive, maize, cacao and jade, and a steady hand at the moment of the blood. They value least the hoard, waste, a kill where a capture was possible, and a person who keeps no account and so can never be paid or asked to pay. They prize being on time above almost everything. A runner who was never once late is praised at his funeral for that before anything else.
+The Kì'ìch'chik value most a debt paid early, an exact count, a captive taken alive, maize, cacao and jade, and a steady hand at the moment of the blood. They value least the hoard, waste, a kill where a capture was possible, and a person who keeps no account and so can never be paid or asked to pay. They prize being on time above almost everything. A runner who was never once late is praised at his funeral for that before anything else.
 
 ## The Man Admired
 
@@ -97,7 +97,7 @@ Her admiration is not a smaller form of Ishkul Puq'em Tsul's. He fills the city'
 
 ## What the Cities Keep
 
-The Ki'ich'chik write and knot a great deal, and almost all of it is an account.
+The Kì'ìch'chik write and knot a great deal, and almost all of it is an account.
 
 - **The census cords** (_k'otsel_) carry every household of a ward, every person in it by full name, and what each owes in tribute, labor and levy. A cord is tied and read only by the priestly scribes, and a ward head who disputes his ward's count must take it to the temple.
 - **The blood-ledger** is the Warden of the Debt's register in bark paper, entering each gift of blood against the celestial event it was meant to answer. At the close of every month he announces whether the city stands in surplus or in deficit, and the whole city hears it.
@@ -108,7 +108,7 @@ The Ki'ich'chik write and knot a great deal, and almost all of it is an account.
 
 ## The Day Kept
 
-Faith on an ordinary day is a small payment and a question asked of the count. Each morning the senior woman of the house drops a pinch of ground maize and a little copal on the hearth stones before anyone eats. Each household gives a few drops of blood at the ward temple on the days the count opens to blood, an earlobe pricked with a thorn by the adults and a fingertip by the children once they are old enough to be named in the levy, and the priest enters the gift. Before anything is begun, a household asks the solar priests for an open day and pays for it. Every Ki'ich'chik person is expected to make the pilgrimage to [[place-tzomalchalix|Ts'omal Ch'alish]] at least once in a lifetime, to breathe the vapors of creation and stand in the shadow of the Sacred Mountain, and a family saves for years to send its members.
+Faith on an ordinary day is a small payment and a question asked of the count. Each morning the senior woman of the house drops a pinch of ground maize and a little copal on the hearth stones before anyone eats. Each household gives a few drops of blood at the ward temple on the days the count opens to blood, an earlobe pricked with a thorn by the adults and a fingertip by the children once they are old enough to be named in the levy, and the priest enters the gift. Before anything is begun, a household asks the solar priests for an open day and pays for it. Every Kì'ìch'chik person is expected to make the pilgrimage to [[place-tzomalchalix|Ts'omal Ch'alish]] at least once in a lifetime, to breathe the vapors of creation and stand in the shadow of the Sacred Mountain, and a family saves for years to send its members.
 
 A person in trouble calls on the god whose business the trouble is: [[lore-puqilchaqundty|P'uqil Ch'akun]] for late rain, [[lore-xaqikhanaldty|Shaq'ik Ha'nal]] for a birth, [[lore-tzuqilixbaldty|Ts'uqil Ish'bal]] for a death. Nobody chooses a god to follow, and nobody belongs to one god's temple rather than another's.
 
@@ -128,7 +128,7 @@ Every fifty-two years the two counts meet and the doors end in the [[lore-itsani
 
 Reward is a name, a dress and a field. A child who learns well is put forward for the temple school. A youth who takes his first captive is given the dress that his captive earns him, and each captive after it adds to the dress, so a warrior's standing can be read across a plaza. A man raised to knight takes a third name, eats in the lord's hall and holds a field for life. A commoner who serves a ward well is chosen by its elders as its head. The highest reward a household can be given is a place for its dead in the wall of the temple's pool chamber, close to the water.
 
-Punishment runs from a fine to the loss of the passage below. The first is payment: the wrongdoer's household pays the wronged one in cloth, cacao or labor, for as long as the judge sets. The second is labor on the temple platforms and the causeways, in the sight of the street. The third is sale into slavery, for theft or for an unpaid debt, from which a slave may buy himself free. The fourth is to be put outside the ward. The fifth is death on the pyramid, for the gravest crimes against the sun's account. The last, and the one the Ki'ich'chik fear more than death, is exclusion from the funerary rites: a soul sent into Ch'al Ts'umaq with no recitation, which the priests pass only on traitors to the faith, on the Serpent Awakeners, and on a person who has harmed a runner.
+Punishment runs from a fine to the loss of the passage below. The first is payment: the wrongdoer's household pays the wronged one in cloth, cacao or labor, for as long as the judge sets. The second is labor on the temple platforms and the causeways, in the sight of the street. The third is sale into slavery, for theft or for an unpaid debt, from which a slave may buy himself free. The fourth is to be put outside the ward. The fifth is death on the pyramid, for the gravest crimes against the sun's account. The last, and the one the Kì'ìch'chik fear more than death, is exclusion from the funerary rites: a soul sent into Ch'al Ts'umaq with no recitation, which the priests pass only on traitors to the faith, on the Serpent Awakeners, and on a person who has harmed a runner.
 
 ## Two Hands on One City
 
@@ -152,7 +152,7 @@ A third way back is forbidden. The [[affiliation-tzumaqkalanil|Serpent Awakeners
 
 ## What a Person Owes
 
-The Ki'ich'chik state what a person owes in order: blood to the sun on the days the count opens to it; labor, tribute and service in the levy to the ward; the hearth kept alive in the doors to the household; what was lent, said aloud and paid back better, to every neighbor; and a recitation for every one of the household's dead. A noble owes the city captives and his blood at the calendar's turns. A Sun Lord owes the whole city a year that the ledger can pay for.
+The Kì'ìch'chik state what a person owes in order: blood to the sun on the days the count opens to it; labor, tribute and service in the levy to the ward; the hearth kept alive in the doors to the household; what was lent, said aloud and paid back better, to every neighbor; and a recitation for every one of the household's dead. A noble owes the city captives and his blood at the calendar's turns. A Sun Lord owes the whole city a year that the ledger can pay for.
 
 In return a person is owed what the ward and the temple give. A free person is owed a field from the ward's common land for as long as the household works it, a place on the roll and in the census, a share of the harvest festival's food, an open day for the things that need one, the levy's protection, a place in the burial society's store, and a recitation at death. A slave is owed food, the harvest festival's meal, the right to buy himself free, and free children.
 
@@ -170,7 +170,7 @@ A person who cannot work the field or march with the levy is kept by the househo
 
 Shelter is the household and then the ward. Teaching is the household's work until the fifteenth year: a child learns its work from its parents and its tales from its grandparents. From the fifteenth year a ward's boys sleep in its house of youths under the master of youths, work the ward's labor and train for the levy and the captive-hunts. A girl learns her work at home and from the women of her street, and a girl or a boy with a head for figures is brought to the temple steps at the new year in the hope of a place in the temple school, where the nobles' children are taught alongside them. Defense is the ward's levy, which marches under its quarter lord.
 
-The Ki'ich'chik fight in steel, with blades and iron-headed spears, and the richest warriors wear a steel breastplate. The armor of feathers and leather that records a warrior's captives is worn in procession and at the rites. A city's wars against its neighbors are fought for captives and for roads, and the hunts are bound by rules the cities agree between them: who may be taken, in which month, and how a captive is kept.
+The Kì'ìch'chik fight in steel, with blades and iron-headed spears, and the richest warriors wear a steel breastplate. The armor of feathers and leather that records a warrior's captives is worn in procession and at the rites. A city's wars against its neighbors are fought for captives and for roads, and the hunts are bound by rules the cities agree between them: who may be taken, in which month, and how a captive is kept.
 
 ## The Household
 
@@ -182,13 +182,13 @@ The age ladder is plain. A child is born, given its water-marking and its name b
 
 ## The Taking of Farmers and the Uncounted
 
-The sin the Ki'ich'chik admit is the taking of farmers. The captive-hunt is for warriors who come out to be taken, and a captive is worth what he gave in the fight. A city in deficit, with the solstice close and the ledger short, sends its levy out of season to take the people of a rival's fields instead: farmers, potters, women at the river. The temples enter such captives in the ledger at a fraction of a warrior's worth and count a captor who takes them as a man who has spent a working badly, and every city accuses its rival of doing it. The cities know which of them have done it in living memory, and the Living Flame that closes each round of fifty-two years is preceded, in every city, by a season of hunts that break the rules.
+The sin the Kì'ìch'chik admit is the taking of farmers. The captive-hunt is for warriors who come out to be taken, and a captive is worth what he gave in the fight. A city in deficit, with the solstice close and the ledger short, sends its levy out of season to take the people of a rival's fields instead: farmers, potters, women at the river. The temples enter such captives in the ledger at a fraction of a warrior's worth and count a captor who takes them as a man who has spent a working badly, and every city accuses its rival of doing it. The cities know which of them have done it in living memory, and the Living Flame that closes each round of fifty-two years is preceded, in every city, by a season of hunts that break the rules.
 
 The blind spot is the one the ledger cannot see. The Warden of the Debt announces the city's blood every month, to the drop. Nobody announces the households that sold themselves in a hungry year while the festival granaries stood full, because the granaries are the god's and the hunger is the household's. The [[affiliation-pikob|Owl Keepers]] say that a city which counts its blood and not its hunger is keeping the wrong account, and that the Fifth Age is owed people as much as it is owed blood. The priests of K'anish Ha'kan answer that the granaries feed the whole city at the harvest, and that a granary emptied in the hungry season is a festival the god does not get. Ishkul Puq'em Tsul has refused to take farmers all his life, and Nelush Ts'alam K'ushi has refused to let the priests leave a dead mother out of the ledger, and neither of them has changed the count.
 
 ## See Also
 
-[[place-kiichchik|Ki'ich'chik Continent]]
+[[place-kiichchik|Kì'ìch'chik Continent]]
 : the continent, its peoples, and the Speaking Road that binds the cities
 
 [[affiliation-itzanpnthn|Itsani Pantheon]]
@@ -203,7 +203,7 @@ The blind spot is the one the ledger cannot see. The Warden of the Debt announce
 [[place-chaltzumaq|Ch'al Ts'umaq]]
 : the labyrinth below and the passage through it
 
-[[skill-kiichek|Ki'i'chek Language]]
+[[skill-kiichek|Kì'ì'chek Language]]
 : the tongue, its names and its house names
 
 [[affiliation-ixilankul|Ish'ilankul]]
@@ -211,4 +211,4 @@ The blind spot is the one the ledger cannot see. The Warden of the Debt announce
 
 ## Glossary {#glossary}
 
-The full dictionary is in the [[skill-kiichek#lexicon|Ki'i'chek Language note]].
+The full dictionary is in the [[skill-kiichek#lexicon|Kì'ì'chek Language note]].

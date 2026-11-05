@@ -32,15 +32,15 @@ Every stretch of the interior is held by a lineage, and a lineage takes its name
 
 The climate is hot and humid year-round, cooler on the heights, and the monsoon's four turnings order every calendar on the island. The jungle holds plants and animals found nowhere else on Thalorna, among them the [[being-mbrydct|Ember-eyed Cat]], the [[being-cnpyglr|Canopy Glider]], the [[being-slndtrtl|Island Turtle]] and the [[being-mngbhmth|Mangrove Behemoth]] of the eastern shore, with the trees and blooms of its [[lore-klhrflora|flora]], and the terraces, worked by the same lineages for thirty generations, feed the whole population without any trade in staple goods. The surrounding waters run with currents that experienced sailors call uncanny, and the Kaliharans hold that the works of the interior have something to do with them.
 
-Beyond its mountains, its bowl and its lake, the named places of the interior are the custodians' sanctuaries, of which there are about two dozen. [[place-veshvaan|Veshvaan]], on the Massif in the middle of the lake, is the oldest; [[place-thalari|Thal'ari]] stands on the western slopes of the Ring, facing the sea, and [[place-mirthaan|Mirthaan]] in the eastern river valleys of the Bowl. No foreigner has visited any of them.
+Beyond its mountains, its bowl and its lake, the named places of the interior are the custodians' sanctuaries, of which there are about two dozen. [[place-veshvaan|Veshvaan]], on the Massif in the middle of the lake, is the oldest; [[place-thalari|Thal-ari]] stands on the western slopes of the Ring, facing the sea, and [[place-mirthaan|Mirthaan]] in the eastern river valleys of the Bowl. No foreigner has visited any of them.
 
 ## Peoples and Culture
 
-The Kaliharans are one people and two kinds. The Kaliharan of the interior keeps the [Three Observances]{.name data-type="lore/custom"} of [[affiliation-tharivaan|Thári'vaan]], tends a terrace, grove or stretch of shore that is his, and has probably never met a foreigner. The Kaliharan of the ports speaks three trade tongues, lives beside Vedyaran and Taruzelian families, and is almost never admitted inland either. Both hold that the arrangement is the cost of touching the world without letting it in. The culture note [[lore-kaliharanclt|Kaliharan]] sets out what they believe and what a person owes; the language is [[skill-kalihrlng|Kalihari]], with the harbor pidgin [[skill-valtarlng|Valtari]] in the ports.
+The Kaliharans are one people and two kinds. The Kaliharan of the interior keeps the [Three Observances]{.name data-type="lore/custom"} of [[affiliation-tharivaan|Thári-vaan]], tends a terrace, grove or stretch of shore that is his, and has probably never met a foreigner. The Kaliharan of the ports speaks three trade tongues, lives beside Vedyaran and Taruzelian families, and is almost never admitted inland either. Both hold that the arrangement is the cost of touching the world without letting it in. The culture note [[lore-kaliharanclt|Kaliharan]] sets out what they believe and what a person owes; the language is [[skill-kalihrlng|Kalihari]], with the harbor pidgin [[skill-valtarlng|Valtari]] in the ports.
 
 ## Politics and Power
 
-The region is held by Kalihara, one polity of lineages and ports under [[affiliation-councilisland|the Council of the Island]], a single Council seated at Ilovanu and governed by layered councils whose composition no foreigner has been told. The custodians of Thári'vaan carry great influence and do not rule. There is no rival power on the island and never has been: Kalihara has never had an empire, never fought a war of conquest, and never admitted a settler it did not choose.
+The region is held by Kalihara, one polity of lineages and ports under [[affiliation-councilisland|the Council of the Island]], a single Council seated at Ilovanu and governed by layered councils whose composition no foreigner has been told. The custodians of Thári-vaan carry great influence and do not rule. There is no rival power on the island and never has been: Kalihara has never had an empire, never fought a war of conquest, and never admitted a settler it did not choose.
 
 ## See Also
 
@@ -53,7 +53,7 @@ The region is held by Kalihara, one polity of lineages and ports under [[affilia
 [[affiliation-kalihara|Kalihara]]
 : the polity that holds this region
 
-[[affiliation-tharivaan|Thári'vaan]]
+[[affiliation-tharivaan|Thári-vaan]]
 : the Living Whole, its custodians and its sanctuaries
 
 [[place-ilovanu|Ilovanu]], [[place-nalurithan|Nalurithan]], [[place-vashuran|Vashurán]], [[place-telvari|Telvari]]

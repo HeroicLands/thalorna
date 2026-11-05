@@ -40,5 +40,5 @@ The oldest of the custodians' sanctuaries, [[place-veshvaan|Veshvaan]], stands o
 [[place-veshvaan|Veshvaan]]
 : the oldest sanctuary, on the Massif
 
-[[affiliation-tharivaan|Thári'vaan]]
+[[affiliation-tharivaan|Thári-vaan]]
 : the custodians and their sanctuaries

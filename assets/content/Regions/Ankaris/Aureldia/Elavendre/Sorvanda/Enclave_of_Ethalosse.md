@@ -16,9 +16,9 @@ data:
       The Sinale of Ethalosse are governed by their own lord, raised for things done and by every voice, and they deal with human powers only through the Áelendan elders who carry what is said up to the enclave and back down.
     ranks:
       - level: 0
-        title: Vierka
+        title: Vyerka
         description: >-
-          A Vierka, the Sinale word for an outlaw, is one driven out of the enclave by its lord and given no standing or shelter by it.
+          A Vyerka, the Sinale word for an outlaw, is one driven out of the enclave by its lord and given no standing or shelter by it.
       - level: 1
         title: Member of the Enclave
         description: >-
@@ -42,7 +42,7 @@ The **Enclave of Ethalosse** is the community of about seventy of the [[lore-flk
 
 ## How It Is Ruled {#how-it-is-ruled}
 
-A Sinalo of Ethalosse belongs to a hearth the enclave keeps. The [[lore-sinaleclt|Sinale]] raise a lord for things done, by every voice, and a Sinale praise-song praises the deed and withholds the doer; no human record names the lord of Ethalosse. One the lord drives out is _vierka_, an outlaw, given no standing or shelter.
+A Sinalo of Ethalosse belongs to a hearth the enclave keeps. The [[lore-sinaleclt|Sinale]] raise a lord for things done, by every voice, and a Sinale praise-song praises the deed and withholds the doer; no human record names the lord of Ethalosse. One the lord drives out is _vyerka_, an outlaw, given no standing or shelter.
 
 The Sinale do not treat with human powers directly, and they decline to explain why. They deal with the [[lore-aelendnppl|Áelendan]], and the Áelendan carry. A warning, a refusal, a question about a disturbed site or the return of something taken goes up to Ethalosse in the mouths of Áelendan elders who have been asked to carry it. The elders are received, and they go back down and speak to whoever needs speaking to. **The Áelendan carry; they do not represent.** What is carried is carried exactly, and no Áelendan claims to speak for the Sinale.
 

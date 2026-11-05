@@ -63,7 +63,7 @@ The ledge road is the lineage's second charge. Nobody goes down the gorge withou
 
 ## Relations
 
-The Kuethori sit in [[affiliation-councilisland|the Council of the Island]] through their Elder, and they stand with the custodianship of [[affiliation-tharivaan|Thári'vaan]] in the tending of the sill. The Master of the Terraces and the Elder of the lineage [Koathevoi]{.name data-type="affiliation/lineage"}, whose lowest terraces the lake has taken, have each counted the loss, and the two counts do not agree on its cause.
+The Kuethori sit in [[affiliation-councilisland|the Council of the Island]] through their Elder, and they stand with the custodianship of [[affiliation-tharivaan|Thári-vaan]] in the tending of the sill. The Master of the Terraces and the Elder of the lineage [Koathevoi]{.name data-type="affiliation/lineage"}, whose lowest terraces the lake has taken, have each counted the loss, and the two counts do not agree on its cause.
 
 ## See Also
 

@@ -1,9 +1,9 @@
 ---
 shortcode: kiichek
-name: {full: Ki'i'chek Language}
+name: {full: Kì'ì'chek Language}
 type: skill
 subType: language
-description: "The glottal, glyph-written tongue of the Ki'ich'chik city-states, with short everyday words and richly compounded titles."
+description: "The glottal, glyph-written tongue of the Kì'ìch'chik city-states, with short everyday words and richly compounded titles."
 tags: []
 data:
   roman: "abcehiklmnopqstuyzáéíóúë0123456789()–-'"
@@ -3445,11 +3445,11 @@ data:
       - lore-itsaniclndr
       - place-chaltzumaq
   tongues:
-    - {tag: kiichek, meaning: a Ki'i'chek name, language: skill-kiichek}
+    - {tag: kiichek, meaning: a Kì'ì'chek name, language: skill-kiichek}
     - {tag: translation, meaning: a name given in the language of these pages}
   register:
     - {name: Builder of the Sacred Peak, tongue: translation}
-    - {name: Central Ki'ich'chik, tongue: translation}
+    - {name: Central Kì'ìch'chik, tongue: translation}
     - {name: Ch'akul Tsa'kul, tongue: kiichek}
     - {name: Ch'akul Tsa'kul Region, tongue: translation}
     - {name: Ch'al Ts'umaq, tongue: kiichek}
@@ -3483,8 +3483,8 @@ data:
     - {name: K'ankul Region, tongue: translation}
     - {name: K'ayik Ch'akal, tongue: kiichek}
     - {name: K'ayik Ch'alish, tongue: kiichek}
-    - {name: Ki'ich'chik, tongue: kiichek}
-    - {name: Ki'ich'chik Continent, tongue: translation}
+    - {name: Kì'ìch'chik, tongue: kiichek}
+    - {name: Kì'ìch'chik Continent, tongue: translation}
     - {name: K'otsel, tongue: kiichek}
     - {name: Ha'kin, tongue: kiichek}
     - {name: Shok'al Kulum, tongue: kiichek}
@@ -3494,9 +3494,9 @@ data:
     - {name: K'otsel Cord Script, tongue: translation}
     - {name: K'ushi Ish'bal, tongue: kiichek}
     - {name: K'ushi Ish'bal Region, tongue: translation}
-    - {name: Ki'i'chek, tongue: kiichek}
-    - {name: Ki'i'chek Language, tongue: translation}
-    - {name: Ki'i'chek Lexicon, tongue: translation}
+    - {name: Kì'ì'chek, tongue: kiichek}
+    - {name: Kì'ì'chek Language, tongue: translation}
+    - {name: Kì'ì'chek Lexicon, tongue: translation}
     - {name: Kiichchik, tongue: kiichek}
     - {name: Kul'qat Ts'umul, tongue: kiichek, built: [kul'qat, ts'umul]}
     - {name: Nal'ik Ts'uqal, tongue: kiichek}
@@ -3504,7 +3504,7 @@ data:
     - {name: Ne'ok Ba'ate Region, tongue: translation}
     - {name: "Ne' Ki'ahkul", tongue: kiichek}
     - {name: "Ne' P'ashel", tongue: kiichek}
-    - {name: Northern Ki'ich'chik, tongue: translation}
+    - {name: Northern Kì'ìch'chik, tongue: translation}
     - {name: Owl Keepers, tongue: translation}
     - {name: P'enqal Ch'akal, tongue: kiichek}
     - {name: P'iqal Kul'qat, tongue: kiichek}
@@ -3525,7 +3525,7 @@ data:
     - {name: "Ritual: Shaq'ik Ha'nal", tongue: translation}
     - {name: "Ritual: Shilan Ish'lan", tongue: translation}
     - {name: Serpent Awakeners, tongue: translation}
-    - {name: Southern Ki'ich'chik, tongue: translation}
+    - {name: Southern Kì'ìch'chik, tongue: translation}
     - {name: The Blossom of Living Waters, tongue: translation}
     - {name: The Blue River, tongue: translation}
     - {name: The Death Jaguar, tongue: translation}
@@ -3845,8 +3845,8 @@ data:
     - {form: K'ukul, instead: P'ashel, why: an Earth word for the quetzal}
     - {form: K'ixim, instead: Ishtem, why: an echo of an Earth word for maize}
     - {form: Ixim'al, instead: Ul'omal, why: built on an Earth word for maize}
-    - {form: Tz'umaq'ob, instead: Ts'umaq'ob, why: Ki'i'chek writes Ts' for this sound}
-    - {form: Tz'ab, instead: Ts'ab, why: Ki'i'chek writes Ts' for this sound}
+    - {form: Tz'umaq'ob, instead: Ts'umaq'ob, why: Kì'ì'chek writes Ts' for this sound}
+    - {form: Tz'ab, instead: Ts'ab, why: Kì'ì'chek writes Ts' for this sound}
     - {form: Tz'aq, instead: Ts'om, why: an Earth word}
     - {form: Tz'aqalil, instead: Ts'omalil, why: built on an Earth word}
     - {form: Tz'aqal, instead: Ts'omal, why: built on an Earth word}
@@ -3883,6 +3883,8 @@ data:
     - {form: ts'uk, instead: ts'ukul, why: "an Earth word, a bend or joint"}
     - {form: p'akal, instead: p'akil, why: "an Earth word, pain"}
     - {form: k'ul, instead: k'ulik, why: "an Earth word, because"}
+    - {form: "Ki'ich'chik", instead: "Kì'ìch'chik", why: "the short i is written with a grave"}
+    - {form: "Ki'i'chek", instead: "Kì'ì'chek", why: "the short i is written with a grave"}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -3891,26 +3893,26 @@ sohl:
     combatCategory: none
     parentSkillCode: lang
     initSkillMult: 0
-  flags: {"thalorna": {lang_family: Ki'i'chek (independent isolate)}}
+  flags: {"thalorna": {lang_family: Kì'ì'chek (independent isolate)}}
 
 # terran_analog: the titles K'anulmah, Kulmah, Ts'enbal, P'ilambal, Shok'almah, Ch'umts'om and P'ik'ulmah stand for the Maya ajaw, sajal, ah k'in, aj ts'ib, nacom, ah kulel and ppolom; the K'ayik Kul'al is the Mesoamerican New Fire ceremony
 
-# terran_analog: Ki'i'chek reads a Mayan register—glottal stops, crisp ordinary consonants, counting by twenties, titles built with a lord-ending and a servant-ending. The words on this page are made to the rules and none is the Yucatec, K'iche' or Nahuatl word for its meaning.
+# terran_analog: Kì'ì'chek reads a Mayan register—glottal stops, crisp ordinary consonants, counting by twenties, titles built with a lord-ending and a servant-ending. The words on this page are made to the rules and none is the Yucatec, K'iche' or Nahuatl word for its meaning.
 ---
 
-Ki'i'chek is a tongue of the Ki'i'chek (independent isolate) family. Fluency measures the sophistication of expression in Ki'i'chek, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Kì'ì'chek is a tongue of the Kì'ì'chek (independent isolate) family. Fluency measures the sophistication of expression in Kì'ì'chek, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 The roman inventory also keeps the curly catch apostrophe `'` in established names such as Ishkul Ch'alish and Ne' Ki'ahkul, as the phonetic rules below record. It has the same lexical catch role as the straight apostrophe, not a quotation or pause role. New ordinary words use the straight apostrophe.
 
 ## Overview
 
-Ki'i'chek is the ancient language of the [[place-kiichchik|Ki'ich'chik city-states]], a civilization that predates human settlement of [[place-ankrscntnnt|Ankaris]] by millennia. Spoken across an entire separate continent, Ki'i'chek stands alone—no known linguistic relatives exist anywhere on [[place-worldthlrn|Thalorna]]. The language is deeply connected to Ki'ich'chik cosmology, mathematics, and spiritual worldview. To the untrained ear, Ki'i'chek sounds exotic and mysterious: a cascade of glottal stops and sharp consonants interspersed with clear vowel sounds, with rising phrase endings in ceremonial performance; pitch does not distinguish everyday word meanings.
+Kì'ì'chek is the ancient language of the [[place-kiichchik|Kì'ìch'chik city-states]], a civilization that predates human settlement of [[place-ankrscntnnt|Ankaris]] by millennia. Spoken across an entire separate continent, Kì'ì'chek stands alone—no known linguistic relatives exist anywhere on [[place-worldthlrn|Thalorna]]. The language is deeply connected to Kì'ìch'chik cosmology, mathematics, and spiritual worldview. To the untrained ear, Kì'ì'chek sounds exotic and mysterious: a cascade of glottal stops and sharp consonants interspersed with clear vowel sounds, with rising phrase endings in ceremonial performance; pitch does not distinguish everyday word meanings.
 
-Ki'i'chek employs a complex hieroglyphic writing system that encodes both phonetic and logographic information. The language reflects the Ki'ich'chik obsession with order, hierarchy, astronomical cycles, and the sacred balance between the natural and divine worlds.
+Kì'ì'chek employs a complex hieroglyphic writing system that encodes both phonetic and logographic information. The language reflects the Kì'ìch'chik obsession with order, hierarchy, astronomical cycles, and the sacred balance between the natural and divine worlds.
 
-## How Ki'i'chek sounds
+## How Kì'ì'chek sounds
 
-Ki'i'chek is clipped and glottal, built of short syllables with separately sounded catches in the throat. Its flavor palette favors k, ch, ts and sh, clear vowels, and endings such as -al, -ik, -ul, -mah and -bal. Common words stay short. Avoid dense new clusters, obligatory pitch marks and strings of apostrophes.
+Kì'ì'chek is clipped and glottal, built of short syllables with separately sounded catches in the throat. Its flavor palette favors k, ch, ts and sh, clear vowels, and endings such as -al, -ik, -ul, -mah and -bal. Common words stay short. Avoid dense new clusters, obligatory pitch marks and strings of apostrophes.
 
 **The vowels.** _a_, _i_, _u_ and _e_, with _o_ rarer.
 
@@ -3918,17 +3920,17 @@ Ki'i'chek is clipped and glottal, built of short syllables with separately sound
 
 **Clusters.** Few. Syllables are a consonant and a vowel, closing on _-l_, _-k_, _-n_ or _-m_.
 
-**Endings.** Ki'i'chek words end in _-al_, _-ik_, _-ul_, _-mah_ or _-bal_.
+**Endings.** Kì'ì'chek words end in _-al_, _-ik_, _-ul_, _-mah_ or _-bal_.
 
 **Coining.** A new word may carry frequent glottal stops, as in _ne'_, _ish'bal_ and _k'ayik_, with no ejective needed. Ritual speech may rise at the end of a phrase. Questions are asked with words.
 
-**What Ki'i'chek leaves out.** New ordinary words normally carry no more than two apostrophes, written with the straight apostrophe. Established compounds keep their spellings. No word requires an ejective consonant or lexical tone.
+**What Kì'ì'chek leaves out.** New ordinary words normally carry no more than two apostrophes, written with the straight apostrophe. Established compounds keep their spellings. No word requires an ejective consonant or lexical tone.
 
 ## Phonology
 
 ### Consonants
 
-Ki'i'chek phonology is dominated by hard stops and sibilants, creating a percussive, rhythmic quality:
+Kì'ì'chek phonology is dominated by hard stops and sibilants, creating a percussive, rhythmic quality:
 
 Glottal stops (')
 : Fundamental to the language; often serve as syllable delimiters
@@ -3956,7 +3958,7 @@ Vowels rarely diphthongize; each vowel sound stands alone. This clarity aids com
 
 ### Stress and Prosody
 
-Stress typically falls on the second-to-last syllable unless marked otherwise. Ceremonial speech may rise at phrase boundaries, while everyday speech is flatter. This is performance and context, not a lexical tone system: a pitch change does not create another word, and ordinary transcription needs no pitch marks. The canonical names are exceptions to the common vowel value for i: **Ki'i'chek** /kɪʔˈɪʔtʃɛk/ is kih–'IH–'chek, and **Ki'ich'chik** /kɪʔˈɪtʃʔtʃɪk/ is kih–'ICH–'chik. Both have three syllables, second-syllable stress and two separately sounded catches. K and CH remain ordinary consonants. Elsewhere the common vowel values apply unless an established word specifies an exception.
+Stress typically falls on the second-to-last syllable unless marked otherwise. Ceremonial speech may rise at phrase boundaries, while everyday speech is flatter. This is performance and context, not a lexical tone system: a pitch change does not create another word, and ordinary transcription needs no pitch marks. The canonical names write their short vowels with a grave, as [[doc-prnncthlrn|Pronouncing Thalorna]] does: **Kì'ì'chek** /kɪʔˈɪʔtʃɛk/ is kih–'IH–'chek, and **Kì'ìch'chik** /kɪʔˈɪtʃʔtʃik/ is kih–'ICH–'cheek. Both have three syllables, second-syllable stress and two separately sounded catches. K and CH remain ordinary consonants.
 
 ### Distinctive Phonetic Patterns
 
@@ -3972,12 +3974,12 @@ Analyzing the name corpus reveals consistent patterns:
 
 ### Sentence Structure
 
-Ki'i'chek employs a **Subject-Object-Verb (SOV)** word order, fundamentally different from most Ankarian tongues:
+Kì'ì'chek employs a **Subject-Object-Verb (SOV)** word order, fundamentally different from most Ankarian tongues:
 
 Example
 : _Ish'ik ha'nal nal'un_—"The lagoon (subj.) eats (verb) the river (obj.)"
 
-This structure reflects Ki'ich'chik philosophical priorities: establishing who acts and what is acted upon before revealing the action itself.
+This structure reflects Kì'ìch'chik philosophical priorities: establishing who acts and what is acted upon before revealing the action itself.
 
 ### Word Order for Modifiers
 
@@ -3985,7 +3987,7 @@ Adjectives follow nouns; adverbs precede verbs. This allows the listener to grou
 
 ## Everyday speech
 
-Everyday Ki'i'chek uses the same words across the city-states' mutually intelligible local dialects. The short forms below support a conversation, an ordinary letter or a work record. Temple titles and existing name compounds retain their established meanings. A bound stem is never spoken alone: ch'um- supports titles, while the ordinary free verb is ch'umun. Names do not automatically supply free vocabulary.
+Everyday Kì'ì'chek uses the same words across the city-states' mutually intelligible local dialects. The short forms below support a conversation, an ordinary letter or a work record. Temple titles and existing name compounds retain their established meanings. A bound stem is never spoken alone: ch'um- supports titles, while the ordinary free verb is ch'umun. Names do not automatically supply free vocabulary.
 
 ### Plain clauses and descriptions
 
@@ -4015,7 +4017,7 @@ A location begins with _ka_: _ni ka sh'ulum k'alish_, “I am at home.” More s
 
 _Chi' k'alish_ can point out “This exists,” while _sha ch'i k'alish_ says “It is here”: the final catch distinguishes _chi'_, this, from _ch'i_, here. _Ts'i_ means there. A destination follows _ch'ul_, a source _na_: _ni ch'ul ha'nal ts'akun_, “I go toward the river”; _ni na sh'ulum ch'ulun_, “I come from the house.” _Ch'ikal q'o_ gives between two stated things: _shil'ik ch'ikal q'o ha'tan ke lu'she k'alish_, “The cup is between the bowl and the pot.” _Ch'ikal kesh_ gives among a group.
 
-Spatial _k'ayumal_, in front, and _ch'upumal_, behind, do not mean earlier and later. _P'ishil_ and _p'ishulash_ name left and right as directions. _Ts'en ch'ulun_, “the sun comes,” conventionally names east in a direction context and dawn in a time context. _Ts'en ishan_, “the sun sleeps,” similarly names west or dusk. _Nukal_ is north and _toshal_ south. A direction name does not identify another culture's people or extend Ki'i'chek to the continent's northern language communities.
+Spatial _k'ayumal_, in front, and _ch'upumal_, behind, do not mean earlier and later. _P'ishil_ and _p'ishulash_ name left and right as directions. _Ts'en ch'ulun_, “the sun comes,” conventionally names east in a direction context and dawn in a time context. _Ts'en ishan_, “the sun sleeps,” similarly names west or dusk. _Nukal_ is north and _toshal_ south. A direction name does not identify another culture's people or extend Kì'ì'chek to the continent's northern language communities.
 
 ### Time, event shape and quantities
 
@@ -4068,7 +4070,7 @@ ORDER BY position
 
 ## Script and Literacy
 
-Ki'i'chek writing—[[skill-chlxplmscrpt|Ch'alish P'ilam]], "the glyphs of Ch'alish", after [[lore-ixilanchalixdty|Ish'ilan Ch'alish]], the goddess whom tradition credits with composing the first codex—records **meaning, not speech**. Each glyph is a concept, and two or three glyphs together make a further concept, the first usually the head and those after it modifying it, as Ki'i'chek puts adjectives after the noun. A text says what happened or what was meant. Nobody in it is quoted exactly and grammar is never written out; an ending such as _-ok_ or _-bal_ is a sound that a glyph may write but that context usually supplies. The script has no spelling. Every spoken sound is written in the roman transcription on this page, which is what lets a reader say a word.
+Kì'ì'chek writing—[[skill-chlxplmscrpt|Ch'alish P'ilam]], "the glyphs of Ch'alish", after [[lore-ixilanchalixdty|Ish'ilan Ch'alish]], the goddess whom tradition credits with composing the first codex—records **meaning, not speech**. Each glyph is a concept, and two or three glyphs together make a further concept, the first usually the head and those after it modifying it, as Kì'ì'chek puts adjectives after the noun. A text says what happened or what was meant. Nobody in it is quoted exactly and grammar is never written out; an ending such as _-ok_ or _-bal_ is a sound that a glyph may write but that context usually supplies. The script has no spelling. Every spoken sound is written in the roman transcription on this page, which is what lets a reader say a word.
 
 Where the script does write sounds, as in a name, it uses syllable signs. A closing consonant takes a syllable whose vowel is silent, usually an echo of the vowel before it: _Ch'akul_ is _cha-ku-lu_. A catch is left to the reader.
 
@@ -4088,17 +4090,17 @@ Ceremonial hand
 
 Alongside the glyphs runs a second system entirely: the [[skill-ktzlcrdscrpt|K'otsel]], knotted cord records in colored thread, carrying tribute tallies, census and the day-counts, tied and read only by the priestly scribes.
 
-Literacy is a sliding scale. Almost everyone knows the 24 core glyphs and a few more specific to their trade. Many people know a good number of two-glyph compounds and a couple of three-glyph ones. Scribes know the most: four- and five-glyph compounds, the lesser-known glyphs and the sound of every glyph, so reading by sound is a scribal skill. Priests know fewer glyphs than scribes but all the sacred glyphs, which even scribes may not. The northern nations do not use the script or the language, and Ki'ich'chik scribes write about them as foreigners. K'otsel records numbers, positions and conventional messages; it is not a writing of arbitrary spoken sentences. The [[skill-chlxplmscrpt|script note]] gives the core glyphs, the hands and their surfaces.
+Literacy is a sliding scale. Almost everyone knows the 24 core glyphs and a few more specific to their trade. Many people know a good number of two-glyph compounds and a couple of three-glyph ones. Scribes know the most: four- and five-glyph compounds, the lesser-known glyphs and the sound of every glyph, so reading by sound is a scribal skill. Priests know fewer glyphs than scribes but all the sacred glyphs, which even scribes may not. The northern nations do not use the script or the language, and Kì'ìch'chik scribes write about them as foreigners. K'otsel records numbers, positions and conventional messages; it is not a writing of arbitrary spoken sentences. The [[skill-chlxplmscrpt|script note]] gives the core glyphs, the hands and their surfaces.
 
 ## Historical Development
 
-Ki'i'chek emerged in the earliest Ki'ich'chik settlements, predating the development of their complex calendar and astronomical mathematics. Over millennia, the language absorbed vocabulary related to celestial observation, architectural achievement, and ritual practice, but its core structure remained stable.
+Kì'ì'chek emerged in the earliest Kì'ìch'chik settlements, predating the development of their complex calendar and astronomical mathematics. Over millennia, the language absorbed vocabulary related to celestial observation, architectural achievement, and ritual practice, but its core structure remained stable.
 
-The language preserves archaic elements in formal speech and sacred texts—older verb forms and syllable patterns not used in everyday conversation. This linguistic conservatism reflects Ki'ich'chik reverence for ancestral knowledge.
+The language preserves archaic elements in formal speech and sacred texts—older verb forms and syllable patterns not used in everyday conversation. This linguistic conservatism reflects Kì'ìch'chik reverence for ancestral knowledge.
 
 ## Regional Dialects
 
-The Ki'ich'chik city-states share one language, with mutually intelligible local dialects. Temples, shared religious practice, and communication along the white roads maintain intelligibility across the city-state network. The northern Indigenous nations are outside Ki'ich'chik culture and this language community; their languages are distinct and are not Ki'ich'chik dialects.
+The Kì'ìch'chik city-states share one language, with mutually intelligible local dialects. Temples, shared religious practice, and communication along the white roads maintain intelligibility across the city-state network. The northern Indigenous nations are outside Kì'ìch'chik culture and this language community; their languages are distinct and are not Kì'ìch'chik dialects.
 
 ## Sample Phrases
 
@@ -4119,15 +4121,15 @@ _Ni ch'ul ti ts'omashal ha'kan_
 
 ## Related Languages
 
-Ki'i'chek exists in **complete isolation** on Thalorna. No other language shares its grammatical structure, phonological inventory, or root vocabulary. Scholars debate whether this reflects genuine historical separation (a separate diaspora) or merely the vast age of both the language and the Ki'ich'chik civilization.
+Kì'ì'chek exists in **complete isolation** on Thalorna. No other language shares its grammatical structure, phonological inventory, or root vocabulary. Scholars debate whether this reflects genuine historical separation (a separate diaspora) or merely the vast age of both the language and the Kì'ìch'chik civilization.
 
-Minimal borrowing occurs between Ki'i'chek and other Thalorna languages. A few terms related to exotic Ki'ich'chik goods have entered maritime pidgins (e.g., _ch'ishal_—the bitter bean drink), but Ki'i'chek speakers pride themselves on linguistic purity.
+Minimal borrowing occurs between Kì'ì'chek and other Thalorna languages. A few terms related to exotic Kì'ìch'chik goods have entered maritime pidgins (e.g., _ch'ishal_—the bitter bean drink), but Kì'ì'chek speakers pride themselves on linguistic purity.
 
 ## Naming Traditions
 
 ### Structure and Convention
 
-Ki'ich'chik names are **compound forms without gender distinction**—a person's name is equally valid regardless of sex. Names often function as brief poetic statements, encapsulating qualities, achievements, or circumstances of birth.
+Kì'ìch'chik names are **compound forms without gender distinction**—a person's name is equally valid regardless of sex. Names often function as brief poetic statements, encapsulating qualities, achievements, or circumstances of birth.
 
 ### Components
 
@@ -4156,7 +4158,7 @@ _Ts'omalil_
 
 ### House Names
 
-A name of three or more elements is too long for the household, and the Ki'ich'chik shorten it by taking its _first element whole_. The first element is the first name-word of the compound, spoken exactly as it stands in the full name, glottal stops included: it is never clipped to a syllable, never given an ending, and never replaced by a pet name, because each element is already a word with its own meaning. That short form is the _house name_.
+A name of three or more elements is too long for the household, and the Kì'ìch'chik shorten it by taking its _first element whole_. The first element is the first name-word of the compound, spoken exactly as it stands in the full name, glottal stops included: it is never clipped to a syllable, never given an ending, and never replaced by a pet name, because each element is already a word with its own meaning. That short form is the _house name_.
 
 - _Ch'akul Ts'ultel Ish'bal Tsul_ is _Ch'akul_ at home.
 - _Ish'bal Ts'omalil K'inish_ is _Ish'bal_. A connector such as _Ts'omalil_ is never the house name, even where it stands second.
@@ -4200,9 +4202,9 @@ Any name suits anyone. Each is built by the structure under Naming Traditions.
 
 ## External References
 
-- [[skill-kiichek#lexicon|Ki'i'chek Lexicon]] (every word, the endings that build new ones, and the register of names)
-- Historical records of Ki'ich'chik city-states
-- Astronomical texts encoding calendar mathematics in Ki'i'chek
+- [[skill-kiichek#lexicon|Kì'ì'chek Lexicon]] (every word, the endings that build new ones, and the register of names)
+- Historical records of Kì'ìch'chik city-states
+- Astronomical texts encoding calendar mathematics in Kì'ì'chek
 
 ## Lexicon and Naming Reference
 
@@ -4212,7 +4214,7 @@ working vocabulary.
 ## Phonetic Rules
 
 Syllables
-: Ki'ich'chik words are typically 2-4 syllables, with occasional longer words for important concepts.
+: Kì'ìch'chik words are typically 2-4 syllables, with occasional longer words for important concepts.
 
 Consonants
 : Common consonants include:
@@ -4447,7 +4449,7 @@ Ts'ikan—Happy; Ch'atal—Sad; K'aychun—Angry; Nal'al—Calm; Ha'mal—Fearfu
 
 Ts'ik'al—Sick; Nal'in—Healthy; Pu'chal—Full; Ts'alun—Empty; Kul'al—Alive; Ts'uqil—Dead
 
-### Structure of the Ki'ich'chik Numerical System
+### Structure of the Kì'ìch'chik Numerical System
 
 Base Numbers (1–19)
 : The numbers from one to ten are single words; eleven to nineteen are _olek'_ (ten) followed by the unit, as two words.
@@ -4473,7 +4475,7 @@ Multiples of 20
 Positional Representation
 : Each place represents a power of 20, with the first position for units, the second for 20s, the third for 400s, and so on.
 
-### Ki'ich'chik Numbers and Words
+### Kì'ìch'chik Numbers and Words
 
 #### Base Numbers (1–19):
 
@@ -4572,7 +4574,7 @@ Example
 
 #### Zero
 
-The concept of zero, critical in Ki'ich'chik mathematics, is expressed as **Ts'amal** (“Shell” or “Empty”), reflecting its original representation.
+The concept of zero, critical in Kì'ìch'chik mathematics, is expressed as **Ts'amal** (“Shell” or “Empty”), reflecting its original representation.
 
 ### Natural Features
 
@@ -4697,14 +4699,14 @@ The concept of zero, critical in Ki'ich'chik mathematics, is expressed as **Ts'a
 3.  [K'ayik Kul'al]{.name data-type="lore/custom"} - The Living Flame: the rite that kindles every hearth anew from one fire when the Ts'en and Tq'an counts come back into phase (_k'ayik_ flame + _kul'al_ alive)
 
 4.  **Member of Tribe**:
-    - **Ki'i'chek**: _Ts'omalil_ (_ts'om_ = connection or belonging, _alil_ = of the group)
+    - **Kì'ì'chek**: _Ts'omalil_ (_ts'om_ = connection or belonging, _alil_ = of the group)
 
     - **Meaning**: "One Who Belongs"
 
     - **Example**: _Ish'bal Ts'omalil K'inish_ ("Jaguar of the Tribe of the Sun")
 
 5.  **Leader of Tribe**:
-    - **Ki'i'chek**: _Mah'alil_ (_mah_ = lord, _alil_ = of the group)
+    - **Kì'ì'chek**: _Mah'alil_ (_mah_ = lord, _alil_ = of the group)
 
     - **Meaning**: "Lord of the Tribe"
 
@@ -4713,80 +4715,80 @@ The concept of zero, critical in Ki'ich'chik mathematics, is expressed as **Ts'a
 ### Titles
 
 1.  **Overlord**:
-    - **Ki'i'chek**: _Q'emulmah_ (_q'emul_ = supreme, _mah_ = lord)
+    - **Kì'ì'chek**: _Q'emulmah_ (_q'emul_ = supreme, _mah_ = lord)
     - **Meaning**: "Supreme Lord"
 
 2.  **King**:
-    - **Ki'i'chek**: _Ts'enmah_ (_ts'en_ = sun, _mah_ = lord)
+    - **Kì'ì'chek**: _Ts'enmah_ (_ts'en_ = sun, _mah_ = lord)
     - **Meaning**: "Lord of the Sun"
 
 3.  **Prince**:
-    - **Ki'i'chek**: _Ts'enilbal_ (_ts'en_ = sun, _ilbal_ = shining one)
+    - **Kì'ì'chek**: _Ts'enilbal_ (_ts'en_ = sun, _ilbal_ = shining one)
     - **Meaning**: "Heir to the Sun"
 
 4.  **Knight**:
-    - **Ki'i'chek**: _Ts'omilbal_ (_ts'om_ = bond, _-il_ = of it, _bal_ = servant)
+    - **Kì'ì'chek**: _Ts'omilbal_ (_ts'om_ = bond, _-il_ = of it, _bal_ = servant)
     - **Meaning**: "Servant of the Bond"
 
 5.  **Lady**:
-    - **Ki'i'chek**: _Ish'kanmah_ (_ish'kan_ = golden, _mah_ = lord)
+    - **Kì'ì'chek**: _Ish'kanmah_ (_ish'kan_ = golden, _mah_ = lord)
     - **Meaning**: "Golden Noblewoman"
 
 6.  **Landholder**:
-    - **Ki'i'chek**: _Ha'nalmah_ (_ha'nal_ = land or river, _mah_ = lord)
+    - **Kì'ì'chek**: _Ha'nalmah_ (_ha'nal_ = land or river, _mah_ = lord)
     - **Meaning**: "Lord of the Land"
 
 7.  **Guildsman**:
-    - **Ki'i'chek**: _P'ik'ulbal_ (_p'ik'ul_ = craft or trade, _bal_ = servant)
+    - **Kì'ì'chek**: _P'ik'ulbal_ (_p'ik'ul_ = craft or trade, _bal_ = servant)
     - **Meaning**: "Keeper of the Craft"
 
 8.  **Freeman**:
-    - **Ki'i'chek**: _Nal'ikbal_ (_nal'ik_ = free, _bal_ = person)
+    - **Kì'ì'chek**: _Nal'ikbal_ (_nal'ik_ = free, _bal_ = person)
     - **Meaning**: "Independent One"
 
 9.  **Serf**:
-    - **Ki'i'chek**: _Ch'ulmaqbal_ (_ch'ulmaq_ = bound, _bal_ = person)
+    - **Kì'ì'chek**: _Ch'ulmaqbal_ (_ch'ulmaq_ = bound, _bal_ = person)
     - **Meaning**: "Bound One"
 
 10. **Slave**:
-    - **Ki'i'chek**: _Ts'ik'ibal_ (_ts'ik'i_ = shadow, _bal_ = person)
+    - **Kì'ì'chek**: _Ts'ik'ibal_ (_ts'ik'i_ = shadow, _bal_ = person)
     - **Meaning**: "Shadowed One"
 
 11. **Noble Lord**:
-    - **Ki'i'chek**: _K'anulmah_ (_k'anul_ = golden, _mah_ = lord)
+    - **Kì'ì'chek**: _K'anulmah_ (_k'anul_ = golden, _mah_ = lord)
     - **Meaning**: "Golden Lord," a noble of a city's court
 
 12. **Subordinate Lord**:
-    - **Ki'i'chek**: _Kulmah_ (_kul-_ = seat, _mah_ = lord)
+    - **Kì'ì'chek**: _Kulmah_ (_kul-_ = seat, _mah_ = lord)
     - **Meaning**: "Lord of a Seat," who holds a lesser center for the Ts'enmah
 
 13. **Sun-Priest**:
-    - **Ki'i'chek**: _Ts'enbal_ (_ts'en_ = sun, _bal_ = servant)
+    - **Kì'ì'chek**: _Ts'enbal_ (_ts'en_ = sun, _bal_ = servant)
     - **Meaning**: "Servant of the Sun," keeper of the count of days
 
 14. **Scribe**:
-    - **Ki'i'chek**: _P'ilambal_ (_p'ilam_ = glyph, _bal_ = servant)
+    - **Kì'ì'chek**: _P'ilambal_ (_p'ilam_ = glyph, _bal_ = servant)
     - **Meaning**: "Servant of the Glyphs"
 
 15. **War-Leader**:
-    - **Ki'i'chek**: _Shok'almah_ (_shok'al_ = war, _mah_ = lord)
+    - **Kì'ì'chek**: _Shok'almah_ (_shok'al_ = war, _mah_ = lord)
     - **Meaning**: "Lord of the War," named for one campaign
 
 16. **Herald**:
-    - **Ki'i'chek**: _Ch'umts'om_ (_ch'um_ = to speak, _ts'om_ = connection)
+    - **Kì'ì'chek**: _Ch'umts'om_ (_ch'um_ = to speak, _ts'om_ = connection)
     - **Meaning**: "The Speaking Link," who carries a lord's word
 
 17. **Master Merchant**:
-    - **Ki'i'chek**: _P'ik'ulmah_ (_p'ik'ul_ = craft or trade, _mah_ = lord)
+    - **Kì'ì'chek**: _P'ik'ulmah_ (_p'ik'ul_ = craft or trade, _mah_ = lord)
     - **Meaning**: "Lord of the Trade"
 
-## Ki'i'chek Lexicon {#lexicon}
+## Kì'ì'chek Lexicon {#lexicon}
 
-A scribe of [[affiliation-ixilankul|Ish'ilankul]] learns two things before a single glyph: the counts, and the endings. A word in Ki'i'chek names a thing, and an ending says who stands toward it: _p'ilam_ is a glyph, and the _p'ilambal_ is the one who serves the glyphs; _ts'en_ is the sun, the _ts'enmah_ is the lord who rules under it, and the _ts'enbal_ is the priest who keeps its count. The same handful of endings make every title in a Ki'ich'chik court, so a ruler's whole household can be read from its titles alone.
+A scribe of [[affiliation-ixilankul|Ish'ilankul]] learns two things before a single glyph: the counts, and the endings. A word in Kì'ì'chek names a thing, and an ending says who stands toward it: _p'ilam_ is a glyph, and the _p'ilambal_ is the one who serves the glyphs; _ts'en_ is the sun, the _ts'enmah_ is the lord who rules under it, and the _ts'enbal_ is the priest who keeps its count. The same handful of endings make every title in a Kì'ìch'chik court, so a ruler's whole household can be read from its titles alone.
 
-This page is the word-hoard of the [[place-kiichchik|Ki'ich'chik]] city-states: the words the language note uses, what each ending makes of them, the rules a new word is built by, and the register of every name the setting gives to the continent's realms, gods, rites and scripts.
+This page is the word-hoard of the [[place-kiichchik|Kì'ìch'chik]] city-states: the words the language note uses, what each ending makes of them, the rules a new word is built by, and the register of every name the setting gives to the continent's realms, gods, rites and scripts.
 
-The sound of Ki'i'chek is percussive. An apostrophe is a separately sounded catch in the throat, a glottal stop, including after an ordinary consonant: _k'ayik_, _ne'_, _ish'bal_. Stress falls on the second-last syllable, and the five vowels never glide into one another.
+The sound of Kì'ì'chek is percussive. An apostrophe is a separately sounded catch in the throat, a glottal stop, including after an ordinary consonant: _k'ayik_, _ne'_, _ish'bal_. Stress falls on the second-last syllable, and the five vowels never glide into one another.
 
 ## How to read the dictionary {#how-to-read-the-dictionary}
 
@@ -4880,7 +4882,7 @@ Three short words say where a thing stands: _ch'al_ beneath it, _ts'ik_ above it
 
 ## Making names {#making-names}
 
-**A Ki'ich'chik person** carries a compound of words, each element a word with its meaning, and the name reads as a short statement: _Ne' Ishkul_, water within the lake; _Tsul Ne'ok_, strength flows. A commoner carries two elements; three or more mark a noble, a priest or a person of great deeds, and such a name is shortened at home to its first element, never to a title or a connector. Titles are appended after the full name and never fused to it.
+**A Kì'ìch'chik person** carries a compound of words, each element a word with its meaning, and the name reads as a short statement: _Ne' Ishkul_, water within the lake; _Tsul Ne'ok_, strength flows. A commoner carries two elements; three or more mark a noble, a priest or a person of great deeds, and such a name is shortened at home to its first element, never to a title or a connector. Titles are appended after the full name and never fused to it.
 
 **A realm or a city** is named as a person is, by words set side by side: _Shelem_, the land of birds; _P'enqal Ch'akal_, the great grassland; _Ish'ilankul_, the seat of the stars, with _-kul_, the seat, closing the name of a city that rules.
 
@@ -4888,7 +4890,7 @@ Three short words say where a thing stands: _ch'al_ beneath it, _ts'ik_ above it
 
 ## Scope {#scope}
 
-The register below holds every name of every note of the Ki'ich'chik lands and their gods. A note is in the register when one of these values names it:
+The register below holds every name of every note of the Kì'ìch'chik lands and their gods. A note is in the register when one of these values names it:
 
 ```sql
 SELECT CASE kind WHEN 'folders' THEN 'folder' WHEN 'cultures' THEN 'culture' WHEN 'lore' THEN 'lore' WHEN 'parents' THEN 'parent' WHEN 'addresses' THEN 'address' END AS "Kind",
@@ -4899,7 +4901,7 @@ GROUP BY kind ORDER BY CASE kind WHEN 'folders' THEN 0 WHEN 'cultures' THEN 1 WH
 
 ## Attested names {#attested-names}
 
-Every name the setting gives a place, people, god, rite or script of the Ki'ich'chik lands, with the note where it is met. A name built from this page shows how; a name the tongue uses that is not built from it shows `—`, and a name in the reader's tongue is listed so that the register is complete.
+Every name the setting gives a place, people, god, rite or script of the Kì'ìch'chik lands, with the note where it is met. A name built from this page shows how; a name the tongue uses that is not built from it shows `—`, and a name in the reader's tongue is listed so that the register is complete.
 
 ### Tongues
 

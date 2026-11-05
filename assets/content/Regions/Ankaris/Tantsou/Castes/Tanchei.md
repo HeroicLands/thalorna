@@ -15,7 +15,7 @@ A Warlord with his army mustered and the passes open waits for a woman in a blue
 
 **They keep the texts.** Certain sacred books and relics may be held, read and interpreted by the Tanchei alone: the cosmological treatises, the formulae of the great rites and the oldest records of the empire's place in the sorted order. Possessing one of them is a crime for anyone of another caste.
 
-**They counsel and they draft.** The Tanchei advise the [[lore-zhazho|Zhazho]] and the [[lore-wohou|Wohou]] on the [Teng Lou]{.name data-type="lore/law"} (Heavenly Law) and on what the classification requires. They draft new law in consultation with the Warlords, and the clerks, registrars and census officials who keep the [Dao Nong Chou]{.name data-type="lore/law"} are theirs.
+**They counsel and they draft.** The Tanchei advise the [[lore-zhazho|Zhazho]] and the [[lore-wohou|Wohou]] on the [Teng Lou]{.name data-type="lore/law"} (Heavenly Law) and on what the classification requires. They draft new law in consultation with the Warlords, and the clerks, registrars and census officials who keep the [Dau Nong Chou]{.name data-type="lore/law"} are theirs.
 
 ## Rights and Restrictions
 
@@ -36,7 +36,7 @@ Fidelity to the Teng Lou
 : every counsel and every interpretation upholds the Heavenly Law, and a scholar found shading a reading to please a patron is stripped of rank.
 
 No magic
-: astrology and foretelling are the only arts the caste may practice. They are reckoning, not sorcery, and a Tanchei who works anything more is executed like anyone else who poaches on the [[lore-wanduo|Wanduo]] monopoly.
+: astrology and foretelling are the only arts the caste may practice. They are reckoning, not sorcery, and a Tanchei who works anything more is executed like anyone else who poaches on the [[lore-wanduo|Wandwo]] monopoly.
 
 ## Naming and Honors
 
@@ -69,7 +69,7 @@ In the [[lore-phlsphyleiwo|Leiwo]] framework the Tanchei are the keepers of inte
 [[lore-wohou|Wohou]]
 : the warrior nobility, the caste above
 
-[[lore-tsaihuo|Tsaihuo]]
+[[lore-tsaihuo|Tsaihwo]]
 : artisans and soldiers, the caste below
 
 [[affiliation-tantsouempr|Empire of Tantsou]]

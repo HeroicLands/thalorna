@@ -61,7 +61,7 @@ sohl: {system: {commonSkills: []}}
 
 A warrior of Ish'ilankul's cities wears his captives. A man who has taken one has a red cord tied around his wrist with one knot in it, and he does not take it off to sleep. A man who has taken four wears a cloak of white cotton, and every captive he has taken is a small figure sewn into its border, so that an old warrior's cloak is crowded to the hem.
 
-These are the two **Taking Societies** of the taking field at [[place-ishtalhun|Ishtal'hun]]: the **Red Cords**, _K'otsikbal_ in Ki'i'chek, and the **Patterned Cloaks**, _P'ilashbal_. Their members come from every city of [[affiliation-ixilankul|Ish'ilankul]] and from noble houses far beyond it, and what admits a man to either is the same thing: a captive taken alive, unbroken, and presented to the Dedicator of Captives. A taker of the societies is a knight, a Ts'omilbal, raised for his captives, and the societies are where the knights of the plateau are made and judged.
+These are the two **Taking Societies** of the taking field at [[place-ishtalhun|Ishtal'hun]]: the **Red Cords**, _K'otsikbal_ in Kì'ì'chek, and the **Patterned Cloaks**, _P'ilashbal_. Their members come from every city of [[affiliation-ixilankul|Ish'ilankul]] and from noble houses far beyond it, and what admits a man to either is the same thing: a captive taken alive, unbroken, and presented to the Dedicator of Captives. A taker of the societies is a knight, a Ts'omilbal, raised for his captives, and the societies are where the knights of the plateau are made and judged.
 
 ## The Taking Field
 

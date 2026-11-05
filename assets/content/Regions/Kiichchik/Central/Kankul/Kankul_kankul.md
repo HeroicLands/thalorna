@@ -3,7 +3,7 @@ shortcode: kankul
 name: {full: K'ankul}
 type: affiliation
 subType: polity
-description: Limestone lowlands of sacred-pool sanctuaries, astronomer-priests, and competing city-states—the intellectual heart of Ki'ich'chik civilization.
+description: Limestone lowlands of sacred-pool sanctuaries, astronomer-priests, and competing city-states—the intellectual heart of Kì'ìch'chik civilization.
 tags: [polity]
 data:
   culture: kiichchikclt
@@ -97,7 +97,7 @@ The [[affiliation-chumishlan|Ch'um Ish'lan]] relay network connects K'ankul's ma
 
 K'ankul's political landscape is dominated by several great city-states, each controlling a network of smaller settlements and agricultural zones.
 
-The K'ankul city-states are intensely competitive in intellectual and cultural achievement. Rather than fielding massive armies, they compete through astronomical discoveries, architectural innovation, and the training of scribes and astronomers. A city-state that announces a new calculation or a new architectural technique becomes the center of pilgrimage and study for scholars from across [[place-kiichchik|Ki'ich'chik]].
+The K'ankul city-states are intensely competitive in intellectual and cultural achievement. Rather than fielding massive armies, they compete through astronomical discoveries, architectural innovation, and the training of scribes and astronomers. A city-state that announces a new calculation or a new architectural technique becomes the center of pilgrimage and study for scholars from across [[place-kiichchik|Kì'ìch'chik]].
 
 The pool-centered spirituality of K'ankul has produced a distinct tradition within the Itsani faith. The Ch'alishbal (ordained priests) of K'ankul place special emphasis on watery sacrifice and on divination through the reading of reflections in the water of a sacred pool. Some of the most powerful priestly families maintain personal relationships with specific sacred pools, regarding them as sacred entities with individual personalities and preferences. The boundary between the practical (managing water resources, maintaining agricultural canals) and the sacred (interpreting pool omens, timing rituals) is intentionally blurred in K'ankul thought.
 

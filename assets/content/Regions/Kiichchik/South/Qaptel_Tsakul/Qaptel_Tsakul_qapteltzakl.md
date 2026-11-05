@@ -3,7 +3,7 @@ shortcode: qapteltzakl
 name: {full: Q'aptel Tsa'kul}
 type: affiliation
 subType: polity
-description: Threshold country at the southern edge of Ki'ich'chik civilization—the last priestly order before the forsaken wastes.
+description: Threshold country at the southern edge of Kì'ìch'chik civilization—the last priestly order before the forsaken wastes.
 tags: [polity]
 data:
   culture: kiichchikclt

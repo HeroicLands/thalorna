@@ -213,14 +213,14 @@ and sing them when you wake.
 :::
 
 ::: {.verse form=nelthava lang=elav enc=elavsemaronenc work=lament}
-Árnathen lourth gierth al thoudron,/
-tose, gierth kurnand árnathen‼/
+Árnathen lourth gyerth al thoudron,/
+tose, gyerth kurnand árnathen‼/
 Deisgethen karnel reik lurmon./
 Lourth goure henthra hárnathen.
 
 Tis dúlkathen kerthon tírvale,/
 rakar thren gene thernon./
-Durnathen griene‼ Gierna, kergis/
+Durnathen gryene‼ Gyerna, kergis/
 thíldathen tharan kerdon.
 
 Nond groumon dárkathen geinra,/
@@ -251,7 +251,7 @@ threl kenralon nond goldar.
 Ryenathen kenand rith Valdun,/
 Péravel, ruthon, galnis/
 «Tárneve, al auran leithon,/
-ánhrason gierth geindar thalnis‼»
+ánhrason gyerth geindar thalnis‼»
 
 Árnathen Dalren, gurnand helnor,/
 sélvorosa daethar gurnon,/
@@ -266,7 +266,7 @@ gulnis, al dyelar muland.
 Árnathen Denrik, mólthathen geirin/
 thinar gurnand kirdon hernar,/
 reik ránathen Salten lánthevron,/
-ukal kieron nond gernar.
+ukal kyeron nond gernar.
 
 Méldathen Halden thálmanda,/
 róugathen, láegathen alnar./
@@ -286,10 +286,10 @@ lourth nond uk, nond derar.
 Sárgathen Jeldor. Nond hendathen/
 kendar uk pattel kalve./
 Thélkathen al ondren hendulon/
-griene, threl giethe salve.
+gryene, threl giethe salve.
 
 Gouthe al salve, al sórvanda,/
-géstaren gierth pelvai, urnar./
+géstaren gyerth pelvai, urnar./
 Rith halmon graethon treinen. Pínathen/
 ánhrason, éltheson gurnar.
 
@@ -300,13 +300,13 @@ Róugathen lourth‼» Lóurethen.
 
 Jeldor «Kérathen‼ Ryenathen auran.»/
 Halden «Deisnon en al gouris.»/
-Nóurethen Kelda gierth darthand,/
+Nóurethen Kelda gyerth darthand,/
 dárkathen Kelda douris.
 
 «Uk leithon.» Ryenathen gene uk./
 Nond árnathen gene grend./
 Róugathen keldron rith kergis,/
-kieron reik ravale thend.
+kyeron reik ravale thend.
 
 En to alnar. Graethon, graethon,/
 tarnathen uk kirgon./
@@ -328,15 +328,15 @@ Orlen, Denrik, Salten,/
 Halden, Kelda, Arvend, Jeldor,/
 nond árnathen uk dalten.
 
-Róugathen oldand gierth halthon./
+Róugathen oldand gyerth halthon./
 Ruthon, senthron nond pínathen/
-gierth auran methron, lordis. Sórvanda/
+gyerth auran methron, lordis. Sórvanda/
 geinra dalten línathen.
 
 Róugathen auran, nond kornar,/
 reik lourth árnathen, drengin./
-Geinra, kornar griene threl kenand,/
-griene goure tengin.
+Geinra, kornar gryene threl kenand,/
+gryene goure tengin.
 
 Súndathen graethon. Gaele leithon/
 halthon, grend nolgrathen kerdon./
@@ -350,12 +350,12 @@ Grend, uk derar kirdon.
 
 Déisnathen gorth halthon lyeronno,/
 ukal halthon gaethar,/
-seis saenathen kenrison griene/
-threl helnor gierth mouglar daethar.
+seis saenathen kenrison gryene/
+threl helnor gyerth mouglar daethar.
 
-Róugathen lyeronno griene, lourth,/
+Róugathen lyeronno gryene, lourth,/
 ukal kenrison saenar,/
-talar, griene al sórvanda,/
+talar, gryene al sórvanda,/
 krel al graethon, gouthe, laenar.
 
 Nond Dalren, nond Kelda, nond kenlon/

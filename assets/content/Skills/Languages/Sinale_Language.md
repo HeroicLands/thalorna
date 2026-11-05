@@ -6,7 +6,7 @@ subType: language
 description: "The eldest of the Elder Tongues—vowel-heavy, clean-consonanted, and sung as often as spoken, older than any human settlement on Thalorna."
 tags: []
 data:
-  roman: "adehiklmnoprstuvyáéíóúýâîûǎǐǔì-"
+  roman: "adehiklmnoprstuvwyáéíóúýâîûǎǐǔì-"
   core: true
   abbreviation: Sin.
   fields:
@@ -143,7 +143,7 @@ data:
       field: "Light, stars, sky and the hours"
       gloss: "dim, dull"
       concept: dull-appearance
-    - form: siekke
+    - form: syekke
       class: adj
       field: "Light, stars, sky and the hours"
       gloss: "pale"
@@ -719,7 +719,7 @@ data:
       field: "Trees, plants and the living wood"
       gloss: "leafy"
       built: [lauppi, "-sa"]
-    - form: lonkuolmarna
+    - form: lonkwolmarna
       class: "n"
       field: "Trees, plants and the living wood"
       gloss: "the heart of the deep wood"
@@ -763,7 +763,7 @@ data:
     - {form: meerì, variants: ["meerìtes"], class: n, field: Beasts and birds, gloss: "sheep"}
     - {form: hìlte, class: "n", field: Beasts and birds, gloss: "a moth"}
     - {form: vìrni, class: n, field: Beasts and birds, gloss: "bees"}
-    - {form: hiakke, class: "n", field: Beasts and birds, gloss: "a feather"}
+    - {form: hyakke, class: "n", field: Beasts and birds, gloss: "a feather"}
     - {form: vaitten, class: "n", field: Beasts and birds, gloss: "a wing"}
     - {form: maulpe, variants: [maulpetos], class: "n", field: Beasts and birds, gloss: "a nest"}
     - {form: kirpas, class: "n", field: Beasts and birds, gloss: "an antler"}
@@ -1596,7 +1596,7 @@ data:
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "a builder"
       built: [maskari, "-nno"]
-    - form: huoma
+    - form: hwoma
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "the first warmth"
@@ -1945,8 +1945,8 @@ data:
       class: "n"
       field: "Time: age, season, waiting and the long view"
       gloss: "a vigil kept outside"
-    - form: nuomi
-      variants: [nuomiho]
+    - form: nwomi
+      variants: [nwomiho]
       class: "n"
       field: "Time: age, season, waiting and the long view"
       gloss: "the still hour"
@@ -2122,7 +2122,7 @@ data:
       class: "n"
       field: "The fae, the thin places, dream and the god"
       gloss: "a ward"
-    - form: kiette
+    - form: kyette
       class: "n"
       field: "The fae, the thin places, dream and the god"
       gloss: "a charm"
@@ -2322,7 +2322,7 @@ data:
       gloss: "break"
       variants: [sahke]
       concept: break
-    - {form: vierka, class: "n", field: "Death, loss, grief and the Shadow", gloss: "an outlaw"}
+    - {form: vyerka, class: "n", field: "Death, loss, grief and the Shadow", gloss: "an outlaw"}
     - {form: nauldi, class: v, field: "Death, loss, grief and the Shadow", gloss: "bind"}
     - {form: vaikkis, class: "n", field: "Death, loss, grief and the Shadow", gloss: "a farewell"}
     - form: ollevi
@@ -5012,7 +5012,7 @@ data:
       field: "Kin, hearth, the person and the body"
       gloss: "compassion, the heart that takes up another's pain"
       concept: compassion
-    - form: ruiva
+    - form: rwiva
       class: n
       field: "Kin, hearth, the person and the body"
       gloss: "pity"
@@ -5266,7 +5266,7 @@ data:
       gloss: "a lung, the place of breath"
       built: [heeve, "-ste"]
       concept: lung
-    - form: puoma
+    - form: pwoma
       class: n
       field: "Kin, hearth, the person and the body"
       gloss: "a liver"
@@ -5562,21 +5562,21 @@ data:
       field: "Kin, hearth, the person and the body"
       gloss: "an orphan"
       concept: orphan
-    - form: vierme
+    - form: vyerme
       class: n
       field: "Kin, hearth, the person and the body"
       gloss: "a widowed spouse, one whose spouse has died"
-    - form: nemmavierme
+    - form: nemmavyerme
       class: n
       field: "Kin, hearth, the person and the body"
       gloss: "a widow"
-      built: [nemma, vierme]
+      built: [nemma, vyerme]
       concept: widow
-    - form: naltuvierme
+    - form: naltuvyerme
       class: n
       field: "Kin, hearth, the person and the body"
       gloss: "a widower"
-      built: [naltu, vierme]
+      built: [naltu, vyerme]
       concept: widower
     - form: tauvi
       class: n
@@ -6013,7 +6013,7 @@ data:
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "much, a great amount"
       concept: much
-    - form: kiessi
+    - form: kyessi
       class: num
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "little, a small amount"
@@ -6079,7 +6079,7 @@ data:
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "almost, nearly"
       concept: almost
-    - form: tuolle
+    - form: twolle
       class: part
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "exactly"
@@ -6744,7 +6744,7 @@ data:
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "a window"
       concept: window
-    - form: seiluovaikke
+    - form: seilwovaikke
       class: n
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "shutters, the doors of a window"
@@ -6911,7 +6911,7 @@ data:
       gloss: "appearance, the face a thing shows"
       built: [nerve, "-rsa"]
       concept: appearance
-    - form: tiesa
+    - form: tyesa
       class: adj
       field: "Motion, rest and being"
       gloss: "visible, in plain sight"
@@ -6926,7 +6926,7 @@ data:
       field: "Motion, rest and being"
       gloss: "perceive, become aware of through the senses"
       concept: perceive
-    - form: tuonna
+    - form: twonna
       class: v
       field: "Motion, rest and being"
       gloss: "recognize, know again"
@@ -6966,7 +6966,7 @@ data:
       gloss: "uncertain, unsure, foggy in mind"
       built: [talve, "-sa"]
       concept: uncertain
-    - form: uinu
+    - form: winu
       class: n
       field: "Motion, rest and being"
       gloss: "rest, a time of ease"
@@ -7265,7 +7265,7 @@ data:
         - "lorramila"
         - "lorramitta"
         - "ansorula"
-        - "huomala"
+        - "hwomala"
         - "lantavola"
         - "lantavotta"
         - "porkila"
@@ -7274,7 +7274,7 @@ data:
         - "nelìvele"
         - "talvela"
         - "talvetta"
-        - "nuomitta"
+        - "nwomitta"
         - "lovala"
         - "lovatta"
         - "lonkula"
@@ -7329,7 +7329,7 @@ data:
         - "lorramitti"
         - "ansorutti"
         - "ansoruvo"
-        - "huomavo"
+        - "hwomavo"
         - "ropelivo"
         - "porkitti"
         - "lorramivo"
@@ -7354,7 +7354,7 @@ data:
         - "ilevatti"
         - "lentivo"
         - "kilpetti"
-        - "nuomitti"
+        - "nwomitti"
         - "selkitti"
         - "nìlkitti"
         - "sulmetti"
@@ -7382,12 +7382,12 @@ data:
       - "ropelinto"
       - "lorraminto"
       - "ansorunto"
-      - "huomanto"
+      - "hwomanto"
       - "porkinto"
       - "kelkasinto"
       - "solmerinto"
       - "talvento"
-      - "nuominto"
+      - "nwominto"
       - "lovanto"
       - "hallesinto"
       - "lonkunto"
@@ -7410,11 +7410,11 @@ data:
   sounds:
     stress: {two: first, longer: penultimate}
     syllables:
-      vowelPairs: [ai, au, ia, eo, oi, ou, ui, uo, ei, ie, yi, ye]
+      vowelPairs: [ai, au, oi, ou, ei, yi, ye]
       harmony:
-        back: [a, o, u, ai, au, ia, eo, oi, ou, ui, uo]
+        back: [a, o, u, ai, au, oi, ou]
         front: [ì, yi, ye]
-        neutral: [e, i, ei, ie]
+        neutral: [e, i, ei]
         neutralAs: back
       initialVowel: true
       finalVowel: true
@@ -7593,7 +7593,7 @@ data:
     - name: olmasitti ropelinto torvelsa
       tongue: sinale
       built: [olmasi, -tti, ropeli, -nto, torvel, -sa]
-    - {name: ilevala huomanto, tongue: sinale, built: [ileva, -la, huoma, -nto]}
+    - {name: ilevala hwomanto, tongue: sinale, built: [ileva, -la, hwoma, -nto]}
     - {name: ollevikko, tongue: sinale, built: [ollevi, -kko]}
     - {name: The Lament of Haulonna, tongue: translation}
     - {name: haulonnaren neltava, tongue: sinale}
@@ -7602,7 +7602,7 @@ data:
     - {name: pelvaila, tongue: sinale, built: [pelvai, -la]}
     - {name: kinsatti hallesinto, tongue: sinale, built: [kinsa, -tti, hallesi, -nto]}
     - {name: kinsatti, tongue: sinale, built: [kinsa, -tti]}
-    - {name: kelkasitta nuominto, tongue: sinale, built: [kelkasi, -tta, nuomi, -nto]}
+    - {name: kelkasitta nwominto, tongue: sinale, built: [kelkasi, -tta, nwomi, -nto]}
     - {name: kelkasitta, tongue: sinale, built: [kelkasi, -tta]}
     - {name: toimuvo sulmento, tongue: sinale, built: [toimu, -vo, sulme, -nto]}
     - {name: toimuvo, tongue: sinale, built: [toimu, -vo]}
@@ -7650,7 +7650,7 @@ data:
     - {name: ethalosse, tongue: exonym:elavendri}
     - {name: serentale, tongue: sinale}
     - {name: serenthale, tongue: exonym:elavendri}
-    - {name: vierka, tongue: sinale}
+    - {name: vyerka, tongue: sinale}
     - {name: dhargan, tongue: exonym:aelendi}
     - {name: nela, tongue: exonym:aelendi}
     - {name: nelgan, tongue: exonym:aelendi}
@@ -7706,6 +7706,41 @@ data:
     - {form: ulpanneleësyhe, instead: ulpanneleesìhe, why: "respelled without the diaeresis"}
     - {form: vatteneleësy, instead: vatteneleesì, why: "respelled without the diaeresis"}
     - {form: vatteneleësyhe, instead: vatteneleesìhe, why: "respelled without the diaeresis"}
+    - {form: siekke, instead: syekke, why: "respelled to the guide: a glide is written w or y"}
+    - form: lonkuolmarna
+      instead: lonkwolmarna
+      why: "respelled to the guide: a glide is written w or y"
+    - {form: hiakke, instead: hyakke, why: "respelled to the guide: a glide is written w or y"}
+    - {form: huoma, instead: hwoma, why: "respelled to the guide: a glide is written w or y"}
+    - {form: nuomi, instead: nwomi, why: "respelled to the guide: a glide is written w or y"}
+    - {form: kiette, instead: kyette, why: "respelled to the guide: a glide is written w or y"}
+    - {form: vierka, instead: vyerka, why: "respelled to the guide: a glide is written w or y"}
+    - {form: ruiva, instead: rwiva, why: "respelled to the guide: a glide is written w or y"}
+    - {form: puoma, instead: pwoma, why: "respelled to the guide: a glide is written w or y"}
+    - {form: vierme, instead: vyerme, why: "respelled to the guide: a glide is written w or y"}
+    - form: nemmavierme
+      instead: nemmavyerme
+      why: "respelled to the guide: a glide is written w or y"
+    - form: naltuvierme
+      instead: naltuvyerme
+      why: "respelled to the guide: a glide is written w or y"
+    - {form: kiessi, instead: kyessi, why: "respelled to the guide: a glide is written w or y"}
+    - {form: tuolle, instead: twolle, why: "respelled to the guide: a glide is written w or y"}
+    - form: seiluovaikke
+      instead: seilwovaikke
+      why: "respelled to the guide: a glide is written w or y"
+    - {form: tiesa, instead: tyesa, why: "respelled to the guide: a glide is written w or y"}
+    - {form: tuonna, instead: twonna, why: "respelled to the guide: a glide is written w or y"}
+    - {form: uinu, instead: winu, why: "respelled to the guide: a glide is written w or y"}
+    - {form: Huomatta, instead: Hwomatta, why: "respelled to the guide: a glide is written w or y"}
+    - {form: Nuomila, instead: Nwomila, why: "respelled to the guide: a glide is written w or y"}
+    - {form: Nuomivo, instead: Nwomivo, why: "respelled to the guide: a glide is written w or y"}
+    - form: ilevala huomanto
+      instead: ilevala hwomanto
+      why: "respelled to the guide: a glide is written w or y"
+    - form: kelkasitta nuominto
+      instead: kelkasitta nwominto
+      why: "respelled to the guide: a glide is written w or y"
     - {form: -ny, instead: -nì, why: y is never a vowel}
     - {form: eeviny, instead: eevinì, why: y is never a vowel}
     - {form: ekkyve, instead: ekkìve, why: y is never a vowel}
@@ -7904,15 +7939,15 @@ What a human listener never notices is where the grammar sits. The work of sayin
 
 Sinale is the eldest tongue, sung as often as spoken. Its words are long and open, full of vowels, and its consonants are clean: the stops _t_, _k_ and _p_ beside _s_, _n_, _l_ and _r_, and nothing harsh.
 
-**The vowels.** _a_ most often, then _i_, _e_, _u_ and _o_. A long vowel is _aa_, _ii_ or _uu_ (_nuuva_, _aamas_, _ehii_), and _ee_ is two _e_ sounds said in turn (_leesì_), and _ai_, _ei_, _oi_, _au_, _ou_, _ie_ and _uo_ are frequent (_huoma_, _toimu_, _eilava_). _ì_ is a front vowel, the short _i_ of _sit_ (_ìlpi_, _nelìve_).
+**The vowels.** _a_ most often, then _i_, _e_, _u_ and _o_. A long vowel is _aa_, _ii_ or _uu_ (_nuuva_, _aamas_, _ehii_), and _ee_ is two _e_ sounds said in turn (_leesì_), and _ai_, _ei_, _oi_, _au_ and _ou_ are frequent (_toimu_, _eilava_), as are _ye_ and _wo_ (_vyerka_, _hwoma_). _ì_ is a front vowel, the short _i_ of _sit_ (_ìlpi_, _nelìve_).
 
 **The consonants.** _t_, _s_, _k_ and _n_ lead, then _l_, _r_, _p_, _m_, _v_ and _h_. A consonant is often long and written doubled: _tt_, _kk_, _ll_, _nn_, _ss_, _mm_ (_mollu_, _hekkì_, _Kalpitti_).
 
-**Clusters.** Two consonants meet only inside a word: a long consonant, a nasal and its stop (_nt_, _nk_, _mp_), or a liquid and a stop (_lt_, _lk_, _lp_, _rt_, _rk_). No word opens on two.
+**Clusters.** Two consonants meet only inside a word: a long consonant, a nasal and its stop (_nt_, _nk_, _mp_), or a liquid and a stop (_lt_, _lk_, _lp_, _rt_, _rk_). No word opens on two, except that _w_ and _y_ may follow a consonant as a glide (_hwoma_, _vyerka_).
 
 **Endings.** Most words end in a vowel. The rest end in _-n_, _-s_, _-l_ or _-r_.
 
-**What Sinale leaves out.** It has no _th_, _rh_ or _w_, no _b_, _g_, _f_, _z_, _sh_ or _ch_, and no _d_ except after _l_, _n_ or _r_. _dh_ is rare and stands only between vowels.
+**What Sinale leaves out.** It has no _th_ or _rh_, no _w_ except as a glide after a consonant or before a vowel, no _b_, _g_, _f_, _z_, _sh_ or _ch_, and no _d_ except after _l_, _n_ or _r_. _dh_ is rare and stands only between vowels.
 
 ## Phonology
 
@@ -7947,7 +7982,7 @@ The front vowels are the language's rarer color. Most words are back, neutral or
 
 ### Diphthongs
 
-Two different vowels side by side are a diphthong and are said in one beat. Only these occur, and any other meeting of two vowels is not Sinale:
+Sinale's diphthongs are the pairs below, each said in one beat. A _w_ or a _y_ before another vowel glides into it, as in _hwoma_ and _vyerka_. Any other two vowels side by side are said apart, each its own syllable, as _eo_ is:
 
 ```sql
 SELECT 'back' AS "Set", array_to_string(list_transform(list_filter(vowelPairs, p -> list_contains(harmony_back, p)), x -> '_' || x || '_'), ', ') AS "Diphthongs" FROM syllables WHERE language = 'thalorna-note-skill-sinalelng'
@@ -7957,7 +7992,7 @@ UNION ALL
 SELECT 'front' AS "Set", array_to_string(list_transform(list_filter(vowelPairs, p -> list_contains(harmony_front, p)), x -> '_' || x || '_'), ', ') AS "Diphthongs" FROM syllables WHERE language = 'thalorna-note-skill-sinalelng'
 ```
 
-_uo_ and its front partner _ye_ open wide and close narrow, the reverse of every other pair. _ia_ and _eo_ open narrow and widen, and belong to the back set because their second vowel does.
+_ye_ opens wide and closes narrow, the reverse of every other pair. In _eo_ each vowel keeps its own set, _e_ neutral and _o_ back.
 
 ### Medial clusters
 
@@ -8181,7 +8216,7 @@ Every Sinale word on these pages is a romanization, written in the romanization 
 
 **The vowels ride above.** Six marks, one each for _a_, _e_, _i_, _o_, _u_ and _ì_, set over the consonant they follow. A word that begins with a vowel carries its mark on a bare carrier stroke, the one sign in the script that stands for no sound of its own. A long vowel in the romanization—_aa_, _ii_ or _uu_—is a single mark drawn long rather than two marks, and _ee_ is two _e_ marks, the second on the carrier; a diphthong is two marks over one carrier, in the order they are said.
 
-**Writing and performance.** Unmarked romanization omits the pitch that Veldikko may record; an unmarked line still has a tune when spoken, and formal speech and song rise and fall on far more syllables than are ever written. Sinale coins with tone: a held vowel, _aa_, _ii_ or _uu_, may rise or fall, and a written pitch follows [[doc-prnncthlrn#tone|Pronouncing Thalorna]]. A caron marks a rising voice and a circumflex a falling one, on the first letter of the held vowel, at most one in a word: _ovûu_ and _onsâa_ fall on their held vowel. A toned syllable takes the stress, unless an acute sits elsewhere in the word, and saying the word on a level voice, with only its stress, is always correct. A short vowel or a vowel pair carries no tone mark, and an acute marks only a stress the common rule would not choose. A called name falls without wearing or shortening. The automatic Veldikko spelling rows carry a written pitch on its held vowel. An annotated surface form is registered explicitly in the lexicon, and its rendered reading is proofed in the native font. Ordinary Veldikko may leave pitch unwritten. The automatic map has no sentence-punctuation rows; an unmarked native passage uses language and line grouping, with editorial gaps outside the native font.
+**Writing and performance.** Unmarked romanization omits the pitch that Veldikko may record; an unmarked line still has a tune when spoken, and formal speech and song rise and fall on far more syllables than are ever written. Sinale coins with tone: a held vowel, _aa_, _ii_ or _uu_, may rise or fall, and a written pitch follows [[doc-prnncthlrn#tone|Pronouncing Thalorna]]. A caron marks a rising voice and a circumflex a falling one, on the first letter of the held vowel, at most one in a word: _ovûu_ and _onsâa_ fall on their held vowel. A toned syllable takes the stress, unless an acute sits elsewhere in the word, and saying the word on a level voice, with only its stress, is always correct. A short vowel or a vowel pair carries no tone mark, and an acute marks only a stress the common rule would not choose. The automatic Veldikko spelling rows carry a written pitch on its held vowel. An annotated surface form is registered explicitly in the lexicon, and its rendered reading is proofed in the native font. Ordinary Veldikko may leave pitch unwritten. The automatic map has no sentence-punctuation rows; an unmarked native passage uses language and line grouping, with editorial gaps outside the native font.
 
 **The check that catches most copyists.** A word never holds a back vowel and a front vowel together, so every vowel mark in a word belongs to one set. A word carrying both is an error before it is anything else, and it is the first thing a Sinale reader sees.
 
@@ -8189,7 +8224,7 @@ Every Sinale word on these pages is a romanization, written in the romanization 
 
 ## Historical Development
 
-Sinale is the **eldest language on Thalorna**, older than even [[skill-kalihrlng|Kalihari Language]] or [[skill-kiichek|Ki'i'chek Language]]. It has changed remarkably little in structure over millennia, though vocabulary has evolved with Sinale experience and philosophy.
+Sinale is the **eldest language on Thalorna**, older than even [[skill-kalihrlng|Kalihari Language]] or [[skill-kiichek|Kì'ì'chek Language]]. It has changed remarkably little in structure over millennia, though vocabulary has evolved with Sinale experience and philosophy.
 
 Scholars identify layers in Sinale historical development:
 
@@ -8239,7 +8274,7 @@ _Seltì lenti talveho_
 _Tupe tilvai hìsse_
 : "The seam of light holds the breath" (said when something long awaited has arrived)
 
-_Pehe ovu huoma, pehe ovu nìlki_
+_Pehe ovu hwoma, pehe ovu nìlki_
 : "You give the first warmth, you give the deep root" (a blessing on a new house)
 
 _Luuro ileva, luuro rellì_
@@ -8320,15 +8355,15 @@ A Sinale known for something more carries it as an epithet, which stands after t
 
 ### Male Given Names
 
-Nuuvatti, Kalpitti, Mollutti, Molluvo, Toimutti, Toimuvo, Oltessavo, Olmasitti, Olmasivo, Unturotti, Unturovo, Esselitti, Tirvalitti, Tirvalivo, Almaritti, Almarivo, Lapuritti, Lapurivo, Masseritti, Masserivo, Ropelitti, Lorramitti, Ansorutti, Ansoruvo, Huomavo, Lantavotti, Ropelivo, Porkitti, Lorramivo, Kelkasitti, Kelkasivo, Solmerivo, Talvetti, Nuomivo, Lovatti, Hallesitti, Hallesivo, Lonkutti, Hìsseve, Ilvìtti, Tellakitti, Eilavatti, Rellìtti, Nelìvetti, Hìssetti, Pelvaitti, Tilvaitti, Esselivo, Elvìritti, Ilevatti, Solmeritti, Lentivo, Kilpetti, Nuomitti, Selkitti, Nìlkitti, Sulmetti, Liseritti, Liserivo, Kinsatti, Kinsavo, Telvitti, Sulmevo, Olmarnatti, Olmarnavo, Ressitti, Ressivo
+Nuuvatti, Kalpitti, Mollutti, Molluvo, Toimutti, Toimuvo, Oltessavo, Olmasitti, Olmasivo, Unturotti, Unturovo, Esselitti, Tirvalitti, Tirvalivo, Almaritti, Almarivo, Lapuritti, Lapurivo, Masseritti, Masserivo, Ropelitti, Lorramitti, Ansorutti, Ansoruvo, Hwomavo, Lantavotti, Ropelivo, Porkitti, Lorramivo, Kelkasitti, Kelkasivo, Solmerivo, Talvetti, Nwomivo, Lovatti, Hallesitti, Hallesivo, Lonkutti, Hìsseve, Ilvìtti, Tellakitti, Eilavatti, Rellìtti, Nelìvetti, Hìssetti, Pelvaitti, Tilvaitti, Esselivo, Elvìritti, Ilevatti, Solmeritti, Lentivo, Kilpetti, Nwomitti, Selkitti, Nìlkitti, Sulmetti, Liseritti, Liserivo, Kinsatti, Kinsavo, Telvitti, Sulmevo, Olmarnatti, Olmarnavo, Ressitti, Ressivo
 
 ### Female Given Names
 
-Nuuvala, Nuuvatta, Kalpila, Kalpitta, Mollutta, Toimula, Oltessala, Oltessatta, Olmasila, Olmasitta, Unturola, Esselitta, Hallesila, Tirvalitta, Almarila, Lapurila, Masserila, Ropelitta, Porkitta, Lorramila, Lorramitta, Ansorula, Huomala, Huomatta, Lantavola, Lantavotta, Porkila, Kelkasila, Kelkasitta, Solmerila, Nelìvele, Talvela, Talvetta, Nuomila, Nuomitta, Lovala, Lovatta, Hallesitta, Lonkula, Lonkitta, Hìssele, Hìssette, Ilvìle, Ilvìtte, Tellakila, Tellakitta, Eilavala, Eilavatta, Rellìle, Rellìtte, Nelìvette, Pelvaila, Pelvaitta, Tilvaila, Tilvaitta, Elvìrile, Kilpele, Ilevala, Ilevatta, Lentila, Kilpette, Selkile, Selkitte, Nìlkile, Nìlkitte, Sulmela, Sulmetta, Liserila, Kinsala, Kinsatta, Telvitte, Olmarnala, Olmarnatta, Ressila, Ressitta
+Nuuvala, Nuuvatta, Kalpila, Kalpitta, Mollutta, Toimula, Oltessala, Oltessatta, Olmasila, Olmasitta, Unturola, Esselitta, Hallesila, Tirvalitta, Almarila, Lapurila, Masserila, Ropelitta, Porkitta, Lorramila, Lorramitta, Ansorula, Hwomala, Hwomatta, Lantavola, Lantavotta, Porkila, Kelkasila, Kelkasitta, Solmerila, Nelìvele, Talvela, Talvetta, Nwomila, Nwomitta, Lovala, Lovatta, Hallesitta, Lonkula, Lonkitta, Hìssele, Hìssette, Ilvìle, Ilvìtte, Tellakila, Tellakitta, Eilavala, Eilavatta, Rellìle, Rellìtte, Nelìvette, Pelvaila, Pelvaitta, Tilvaila, Tilvaitta, Elvìrile, Kilpele, Ilevala, Ilevatta, Lentila, Kilpette, Selkile, Selkitte, Nìlkile, Nìlkitte, Sulmela, Sulmetta, Liserila, Kinsala, Kinsatta, Telvitte, Olmarnala, Olmarnatta, Ressila, Ressitta
 
 ### Lineage Names (Inherited Matrilineally)
 
-Nuuvanto—"starlight" Kalpinto—"pale wood" Mollunto—"deep pool" Toimunto—"the turning year" Oltessanto—"the long dusk" Olmasinto—"moss on stone" Unturonto—"winter" Esselinto—"the still surface" Tirvalinto—"the long road" Almarinto—"the cupped hand" Lapurinto—"running water" Masserinto—"the deep ground" Ropelinto—"the lifted stone" Lorraminto—"woven cloth" Ansorunto—"the long watch" Huomanto—"the first warmth" Porkinto—"the split log" Kelkasinto—"the cold spring" Solmerinto—"the smell of rain" Talvento—"the low fog" Nuominto—"the still hour" Lovanto—"the far bank" Hallesinto—"white frost" Lonkunto—"the deep wood" Hìssente—"the held breath" Ilvìnte—"thin ice" Tellakinto—"the small bell" Eilavanto—"the wide sky" Rellìnte—"the turning leaf" Nelìvente—"the first frost" Pelvainto—"the low cloud" Elvìrinte—"the evening star" Ilevanto—"the clear place" Kilpente—"the far call" Selkinte—"the woven light" Nìlkinte—"the deep root" Sulmento—"the first thaw" Liserinto—"still water" Sìllente—"the rising note" Ressinto—"the plaited mat"
+Nuuvanto—"starlight" Kalpinto—"pale wood" Mollunto—"deep pool" Toimunto—"the turning year" Oltessanto—"the long dusk" Olmasinto—"moss on stone" Unturonto—"winter" Esselinto—"the still surface" Tirvalinto—"the long road" Almarinto—"the cupped hand" Lapurinto—"running water" Masserinto—"the deep ground" Ropelinto—"the lifted stone" Lorraminto—"woven cloth" Ansorunto—"the long watch" Hwomanto—"the first warmth" Porkinto—"the split log" Kelkasinto—"the cold spring" Solmerinto—"the smell of rain" Talvento—"the low fog" Nwominto—"the still hour" Lovanto—"the far bank" Hallesinto—"white frost" Lonkunto—"the deep wood" Hìssente—"the held breath" Ilvìnte—"thin ice" Tellakinto—"the small bell" Eilavanto—"the wide sky" Rellìnte—"the turning leaf" Nelìvente—"the first frost" Pelvainto—"the low cloud" Elvìrinte—"the evening star" Ilevanto—"the clear place" Kilpente—"the far call" Selkinte—"the woven light" Nìlkinte—"the deep root" Sulmento—"the first thaw" Liserinto—"still water" Sìllente—"the rising note" Ressinto—"the plaited mat"
 
 ## Lexicon
 

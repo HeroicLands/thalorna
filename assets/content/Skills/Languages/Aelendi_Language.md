@@ -1225,7 +1225,7 @@ data:
       class: n f
       field: "The fae, the thin places and the wards"
       gloss: "a working; one act of the art as the lowland mages do it"
-      source: {kind: borrowed, language: skill-sinalelng, form: kiette}
+      source: {kind: borrowed, language: skill-sinalelng, form: kyette}
     - form: símmenne
       class: n m
       field: "The fae, the thin places and the wards"
@@ -7417,7 +7417,7 @@ The [[skill-aelendlng#lexicon|Áelendi Lexicon]] gives the words with their sour
 
 Áelendi is the conservative highland tongue that [[skill-elvndrlng|Élavendri]] came from. It keeps the old, hard sounds that the lowland softened.
 
-**The vowels.** _a_, _o_, _e_ and _i_ are held single and full.
+**The vowels.** _a_, _o_, _e_ and _i_ are said single and full.
 
 **The consonants.** _dh_, _gh_ and _th_ carry the old sound, beside _r_, _l_, _n_, _d_, _g_ and _k_.
 
@@ -7429,34 +7429,31 @@ The [[skill-aelendlng#lexicon|Áelendi Lexicon]] gives the words with their sour
 
 ## Phonology
 
-Áelendi preserves a complex phonemic inventory lost in younger Pelwar languages:
+Áelendi preserves sounds lost in younger Pelwar languages:
 
-**Consonants:** Áelendi distinguishes plain, aspirated, and ejective consonants for most stop consonants (t/th/t', d/dh/d', k/kh/k', g/gh/g'). These distinctions, which have merged or been abandoned in Élavendri proper, remain phonemic and meaningful. The language employs only one fricative (s), one liquid of each type (l, r), and the nasals m and n, with other Pelwar fricatives represented as secondary articulations of stops.
+**Consonants:** Áelendi has the stops t, d, k and g, and keeps th, dh, kh and gh, which [[doc-prnncthlrn|Pronouncing Thalorna]] reads as it reads them in every tongue; Élavendri has lost three of them. Beside these stand s, one liquid of each type (l, r), and the nasals m and n.
 
-**Vowels:** Áelendi maintains eight vowel positions with clear length distinctions. The nasal vowels of Élavendri are not true phonemes in Áelendi but rather the result of n dropping out after a vowel. The vowel inventory is more stable and resistant to diphthongization than in Élavendri.
+**Vowels:** Áelendi's vowels are the plain a, e, i and o, each said on one color. The nasal vowels of Élavendri are not true phonemes in Áelendi but rather the result of n dropping out after a vowel. The vowel inventory is more stable and resistant to diphthongization than in Élavendri.
 
-**Stress:** Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]]. Áelendi favors short words, so the stress most often lands at the front of a word, in a clear predictable pattern. This predictability, combined with conservative phonetics, makes Áelendi relatively easy to learn despite its phonetic complexity.
+**Stress:** Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]]. Áelendi favors short words, so the stress most often lands at the front of a word, in a clear predictable pattern. This predictability makes Áelendi relatively easy to learn.
 
 ### Áelendi and Élavendri
 
 The two tongues descend from one, and nearly every difference between them is a distinction Élavendri has given up rather than one Áelendi has invented. This is what makes a conservative language conservative, and it is the most useful thing to know about Áelendi: hearing it, a lowlander is hearing his own speech with the losses put back.
 
-**The ejectives.** Proto-Pelwar held three stop series, and Áelendi holds all three. Élavendri holds two: its ejectives have fallen together with the plain stops, which is why its inventory runs to four common stops where Áelendi's runs to twelve.
+**The old consonants.** Áelendi keeps _kh_, _gh_ and _dh_, and Élavendri has lost all three, so a lowlander hears in Áelendi sounds his own speech no longer makes.
 
-**The aspirates.** Where Áelendi closes the mouth, Élavendri opens it. Its th is breath rather than closure, and it has lost _kh_, _gh_ and _dh_. Áelendi keeps all four as stops, and is left with a single fricative for the whole language.
-
-**The long vowels.** An Áelendi long vowel is held on one color and let go. Élavendri broke those vowels into the diphthongs it is admired for, so an Áelendi long _a_ stands where Élavendri has _ae_, a long _i_ where it has _ia_ or _ie_, and a long _u_ where it has _ye_.
+**The plain vowels.** An Áelendi vowel is said on one color. Élavendri opened many of them into the vowel pairs it is admired for, so an Áelendi _a_ stands where Élavendri has _ae_, and an _i_ or a _u_ where it has _ia_ or _ye_.
 
 **The stress.** Áelendi keeps a steady, weighty stress and favors short words with the weight at the front.
 
 Cognate pairs, the Áelendi form beside the Élavendri one:
 
-| Áelendi  | Élavendri | What Élavendri let go                 |
-| -------- | --------- | ------------------------------------- |
-| Taldor   | Taldor    | the ejective, merged with the stop    |
-| Khalden  | Halden    | the aspirated stop, weakened to h     |
-| Móghoren | Moren     | gh, dropped between the vowels        |
-| Deran    | Deren     | the long vowel, broken to a diphthong |
+| Áelendi  | Élavendri | What Élavendri let go          |
+| -------- | --------- | ------------------------------ |
+| Khalden  | Halden    | kh, weakened to h              |
+| Móghoren | Moren     | gh, dropped between the vowels |
+| Deran    | Deren     | the a, become e                |
 
 ## Grammar Notes
 
@@ -7514,7 +7511,7 @@ An Élavendri speaker cannot understand Áelendi without study. The phonetic dif
 
 ## Script & Literacy
 
-The settlers who came over the pass had only the [[skill-thrvrdhscrpt|Thurarth]] runes, the old rune-row of the highlands—the western, lenited branch of the same Proto-Pelwar graven work that gives the [[lore-nordheimnclt|Nordheimn]] their [[skill-thuravarkscript|Thuravark Runic Script]] and the [[affiliation-vylarinmpr|Vilérian Empire]] its [[skill-thrvrknscrpt|Tharavarkon Script]]. Thurarth is for carving, and they had nothing to write with in the ordinary way. Monuments, old magic and poetry are still cut in it, and its cuttings hold separate staves for the ejectives and the aspirated stops that [[skill-elvndrlng|Élavendri]] has let fall together, so a lowland scholar reading an old inscription is spelling sounds his own mouth no longer makes.
+The settlers who came over the pass had only the [[skill-thrvrdhscrpt|Thurarth]] runes, the old rune-row of the highlands—the western, lenited branch of the same Proto-Pelwar graven work that gives the [[lore-nordheimnclt|Nordheimn]] their [[skill-thuravarkscript|Thuravark Runic Script]] and the [[affiliation-vylarinmpr|Vilérian Empire]] its [[skill-thrvrknscrpt|Tharavarkon Script]]. Thurarth is for carving, and they had nothing to write with in the ordinary way. Monuments, old magic and poetry are still cut in it, and its cuttings hold separate staves for _kh_, _gh_ and _dh_, which [[skill-elvndrlng|Élavendri]] has lost, so a lowland scholar reading an old inscription is spelling sounds his own mouth no longer makes.
 
 What is written rather than cut is written in the [[skill-clthndscrpt|Veldikko]], the Sinale starlight-hand, which the Áelendan took from their neighbors rather than received from any ancestor. Writing Áelendi in the Veldikko is not writing [[skill-sinalelng|Sinale]]: the script came across and the tongue did not. Áelendi is Pelwar in descent, takes its loanwords from Sinale without sharing its grammar, and is the language of every page set down in the hand. Anything old enough to be ancient in the region is therefore Áelendi, written in the Veldikko, and carved work is in Thurarth. The [[lore-flksinale|Sinale]] enclaves are near, old, and on terms with the highlands they keep with nobody else, and the hand came across the way everything else between them has. Why the Sinale opened it to these neighbors and not to others is the same question their whole closeness raises, and it has never been answered by either side.
 
@@ -7522,7 +7519,7 @@ What is written rather than cut is written in the [[skill-clthndscrpt|Veldikko]]
 
 What the two hands reach is not comparable. An Élavendri page can be read by anyone holding the Semaron, which is most of the educated across [[place-midhalnrgn|Midhalión Region]] and the western [[place-ankrscntnnt|Ankaris Continent]]; an Áelendi page can be read by the Sinale and by almost nobody else alive. And the two peoples can speak and cannot read—the tongues are near enough for a conversation, and the highlander commonly has the lowland one besides, but neither makes out a line the other has set down. Only in the carved work of magic and old poetry, which the Élavendri read as a learned skill, do they meet on a page.
 
-The Áelendan hand is the same letters in an older, plainer ductus than the Sinale now write, and it has not changed in centuries. A borrowed script never fits, and this one misfits in both directions at once. Veldikko was made for a clean-consonant tongue and has no letter for an ejective or for an aspirated stop, so Áelendan scribes write both as ligatures—the hand's constant ligaturing put to a job Sinale never asked of it, and the first thing a Sinale reader notices. Running the other way, the marks the hand keeps for pitch have little to mark in a tongue whose stress follows one plain rule; the scribes spend them on vowel length instead, where eight positions and a length distinction need more than Sinale ever asked the marks to carry.
+The Áelendan hand is the same letters in an older, plainer ductus than the Sinale now write, and it has not changed in centuries. A borrowed script never fits, and this one misfits in both directions at once. Veldikko was made for a clean-consonant tongue and has no letter for _kh_, _gh_ or _dh_, so Áelendan scribes write them as ligatures—the hand's constant ligaturing put to a job Sinale never asked of it, and the first thing a Sinale reader notices. Running the other way, the marks the hand keeps for pitch have nothing to mark in a tongue whose stress follows one plain rule, and the scribes leave them out.
 
 The Áelendan nonetheless write very little. The [Kindred Pact]{.name data-type="lore/law"} is deliberately unwritten, and the tradition holds that a thing committed to stone stops being renewed in the mouth. What is cut in Thurarth is therefore exceptional by definition: wards, boundary and grave markers, and the magical texts of great antiquity that draw mages up out of the lowlands to read them in the original. True literacy is confined to those training in the magical arts, a portion of the elders, and the occasional antiquarian from the [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order) who has been permitted—rarely, and under watch—to copy an inscription.
 
@@ -7580,7 +7577,7 @@ The roots are ordinary vocabulary, and a speaker hears the sense as he hears the
 
 At a gathering in [[place-eshalshldg|Ésalosa]], before anything is decided, a Tradition Keeper stands and recites the names. He begins with the band that crossed the eastern pass and comes down, founder by founder and clan by clan, to the people sitting at the fire, and he does not hurry, because a name left out has stopped existing. Every name he says is an Áelendi word, and so is every word he uses to join them. Half the words for the wood outside came from the Sinale, and the Áelendan count them as their own.
 
-This is the word-hoard of Áelendi, the tongue of the [[lore-aelendnppl|Áelendan]]. It is the Pelwar tongue that changed least: it still says the clicked stops the lowland speech gave up, and it makes no sound with the lips but _m_. It is also the only Pelwar tongue that took a whole second layer of words from a neighbor. The [[lore-flksinale|Sinale]] of the deep wood taught the band that crossed the pass how to keep the wood, and the words came with the keeping: the trees, the water below the snow line, the veil and the thin places, the rites and the hand the Áelendan write in. This page gives every word with its source, the pieces the names are built from.
+This is the word-hoard of Áelendi, the tongue of the [[lore-aelendnppl|Áelendan]]. It is the Pelwar tongue that changed least: it still says the _kh_, _gh_ and _dh_ the lowland speech gave up, and it makes no sound with the lips but _m_. It is also the only Pelwar tongue that took a whole second layer of words from a neighbor. The [[lore-flksinale|Sinale]] of the deep wood taught the band that crossed the pass how to keep the wood, and the words came with the keeping: the trees, the water below the snow line, the veil and the thin places, the rites and the hand the Áelendan write in. This page gives every word with its source, the pieces the names are built from.
 
 ## How to read the dictionary {#how-to-read-the-dictionary}
 

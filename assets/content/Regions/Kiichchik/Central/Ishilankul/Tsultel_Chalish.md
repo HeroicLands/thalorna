@@ -17,7 +17,7 @@ data:
 
 ## Overview
 
-The Ts'ultel Ch'alish, the Sacred Mountain, is the tallest pyramid on the [[place-kiichchik|Ki'ich'chik Continent]] and the center of [[place-tzomalchalix|the Sacred Foundation]] (Ts'omal Ch'alish), in the city of [[place-kultaqan|Kul'taq'an]]. It stands in nine tiers, each faced in fitted stone and plastered white, with a band of red along the lip of every tier, so that from the plaza it looks striped like a pot. It is about seventy meters high and two hundred and twenty paces along each side of its base. One stair climbs its eastern face, toward the sunrise, in 260 steps, and the priests teach that the nine tiers are the nine layers of the heavens the sun climbs each day.
+The Ts'ultel Ch'alish, the Sacred Mountain, is the tallest pyramid on the [[place-kiichchik|Kì'ìch'chik Continent]] and the center of [[place-tzomalchalix|the Sacred Foundation]] (Ts'omal Ch'alish), in the city of [[place-kultaqan|Kul'taq'an]]. It stands in nine tiers, each faced in fitted stone and plastered white, with a band of red along the lip of every tier, so that from the plaza it looks striped like a pot. It is about seventy meters high and two hundred and twenty paces along each side of its base. One stair climbs its eastern face, toward the sunrise, in 260 steps, and the priests teach that the nine tiers are the nine layers of the heavens the sun climbs each day.
 
 From the summit rises the breath. Warm, damp and smelling of struck flint, it comes up out of a volcanic vent beneath the pyramid and leaves the summit as a thin white column, which stands straight up on a still morning and leans with the wind on any other. The priesthood teaches that it is the living breath of [[lore-piqalkulqatdty|P'iqal Kul'qat]], the creator.
 
@@ -39,7 +39,7 @@ The senior Ch'alishbal know this, and it is why the rites at the mouth are held 
 
 ## The Builders
 
-The builder-priests of [[affiliation-piqalkulqat|Faith of P'iqal Kul'qat]] keep the Sacred Mountain. Every year, in the dry months before the rains, they replaster one tier from top to bottom, working down from the summit on scaffolds of poles lashed to the stone, so that the whole pyramid is fresh every nine years. The builders say the Ts'ultel Ch'alish is the oldest pyramid in Ki'ich'chik. The other branches of the priesthood say the same, and nobody counts the years.
+The builder-priests of [[affiliation-piqalkulqat|Faith of P'iqal Kul'qat]] keep the Sacred Mountain. Every year, in the dry months before the rains, they replaster one tier from top to bottom, working down from the summit on scaffolds of poles lashed to the stone, so that the whole pyramid is fresh every nine years. The builders say the Ts'ultel Ch'alish is the oldest pyramid in Kì'ìch'chik. The other branches of the priesthood say the same, and nobody counts the years.
 
 At the foot of the stair, in the court, stands the hearth of the precinct. After each [[lore-itsaniclndr#round|Living Flame]], the Presiding Ch'alish Tq'an chosen as Q'emul Tq'an lays the coal of his own city's new fire on it, and the others lay theirs on top.
 

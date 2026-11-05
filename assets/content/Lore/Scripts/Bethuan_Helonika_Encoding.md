@@ -133,7 +133,6 @@ data:
     óU: [LONG_O_MIN, ACCENT]
     Óu: [LONG_O_MAJ, ACCENT]
     ÓU: [LONG_O_MAJ, ACCENT]
-    §: REGISTER
   rules: {normalization: NFC, matching: longest-first, roundTrip: canonical}
 ---
 
@@ -146,7 +145,6 @@ This encoding writes [[skill-bethunlng|Bethuan]] in helonika-book. A passage sel
 - **A doubled _aa_, _ii_ or _uu_ is the barred vowel**, one letter with a bar over it.
 - **An acute vowel is the vowel followed by the accent**, which Bethuan writes on the stressed syllable. An acute on the first letter of _ei_ or _ou_ stresses the long vowel and writes it followed by the accent. An acute on the second letter starts a syllable there, as [[doc-prnncthlrn|Pronouncing Thalorna]] reads it, so _eí_ is _e_ and then the accented _i_.
 - **A diaeresis vowel is the plain vowel**, so it never joins the vowel before it into _ē_ or _ō_.
-- **`§` is the register-mark**, the sign of a turn between the masculine and feminine registers.
 - **The other letters, the raised dot and the numerals are those of the Helónika Spelling**, as are its capitals: a capital is written only on a name and on the paragraph's first word.
 
 Characters outside the declared Roman inventory are refused.

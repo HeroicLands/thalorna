@@ -21,7 +21,7 @@ sohl:
 ## Ritual: P'uqil Ch'akun
 
 Working
-: Two, for the god's two aspects. The [k'ishkan ch'alish]{.name data-type="lore/custom"}, the rain-calling on the highest pyramid peaks, brings rain onto a city's fields within days, chanted in archaic Ki'i'chek over poured water. The [Ts'umaq'tsuqalil]{.name data-type="lore/custom"}, the Binding of the Serpent, quiets the god's restless aspect, with its storms and shaking ground, for a season, by chains of blood and of the recited names of the four dead ages
+: Two, for the god's two aspects. The [k'ishkan ch'alish]{.name data-type="lore/custom"}, the rain-calling on the highest pyramid peaks, brings rain onto a city's fields within days, chanted in archaic Kì'ì'chek over poured water. The [Ts'umaq'tsuqalil]{.name data-type="lore/custom"}, the Binding of the Serpent, quiets the god's restless aspect, with its storms and shaking ground, for a season, by chains of blood and of the recited names of the four dead ages
 
 Position
 : The rain-calling is spoken in the dry months of the Ts'en count, on days the Reckoner opens to the storm, and escalates by fixed stages as the dry season lengthens. The Binding needs a day opened to the storm and the judgment of the Ch'alish Ts'umaq'ob that the god is restless, and the two rarely coincide by chance

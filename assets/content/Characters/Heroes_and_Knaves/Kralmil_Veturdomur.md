@@ -1,6 +1,6 @@
 ---
 shortcode: krldmylvtrdmr
-name: {full: Kralmil Veturdómur, given: Kralmil, clan: Veturdómur}
+name: {full: Kralmil Veturdomur, given: Kralmil, clan: Veturdomur}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -416,7 +416,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[krldmylvtrdmr|Kralmil Veturdómur]]{float=top-left}
+![[krldmylvtrdmr|Kralmil Veturdomur]]{float=top-left}
 
 Kralmil stands 6'5" tall with a heavy build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include an angular face, a slightly upturned nose, a broad chin, a small mouth, dark brows. A distinguishing mark is a scar along the jawline.
 

@@ -7,7 +7,7 @@ description: "The first caste of Tantsou—the Emperor, his family and the Warlo
 data: {packFolder: castes, culture: tantsouclt}
 ---
 
-The Zhazho are the people in [[affiliation-tantsouempr|Tantsou]] who are never asked what they are, because the question has only one answer: the Emperor, his immediate family, and the Warlords (_Wozhuo_) who hold the provinces in his name. A clerk at the frontier way-station, told to describe the first caste to a classified foreigner, does it in a sentence. They are the administrative lineage of the mortal plane. Their authority comes from the celestial bureaucracy's designation of their family as the rightful administrators of the sorted world, and from nothing so unreliable as divine blood.
+The Zhazho are the people in [[affiliation-tantsouempr|Tantsou]] who are never asked what they are, because the question has only one answer: the Emperor, his immediate family, and the Warlords (_Wozhwo_) who hold the provinces in his name. A clerk at the frontier way-station, told to describe the first caste to a classified foreigner, does it in a sentence. They are the administrative lineage of the mortal plane. Their authority comes from the celestial bureaucracy's designation of their family as the rightful administrators of the sorted world, and from nothing so unreliable as divine blood.
 
 ## The Son of Heaven
 
@@ -18,8 +18,8 @@ The Emperor is the **Tengzhei** (Son of Heaven), the celestial bureaucracy's app
 The Emperor's authority over state, law and war is absolute, and in practice he governs through three bodies:
 
 - **the throne itself**, the Emperor and his household, whose decree is final;
-- **the Warlords** (_Wozhuo_), Zhazho of the imperial blood who hold the provinces and exercise the military, administrative and judicial power of the throne within them, with the [[lore-wohou|Wohou]] serving under them;
-- the [[lore-wanduo|Wanduo]], the chattel sorcerers, whose counsel shapes strategy, ritual and the spiritual health of the realm.
+- **the Warlords** (_Wozhwo_), Zhazho of the imperial blood who hold the provinces and exercise the military, administrative and judicial power of the throne within them, with the [[lore-wohou|Wohou]] serving under them;
+- the [[lore-wanduo|Wandwo]], the chattel sorcerers, whose counsel shapes strategy, ritual and the spiritual health of the realm.
 
 Every final decision in governance, war and the law of faith belongs to the Zhazho, and the Warlords are the ones who make most of them. The history of the empire is largely the history of how far a given Emperor could make his Warlords obey.
 
@@ -33,7 +33,7 @@ Final authority
 The appointment
 : the sole right to decide matters of state, war and religion, by the celestial bureaucracy's designation.
 
-The Wanduo
+The Wandwo
 : ownership of the chattel sorcerers, bound to the Zhazho from the day they are claimed.
 
 And they hold it to three duties:
@@ -68,7 +68,7 @@ A member of the [[lore-flksinale|Sinale Folk]] or the [[lore-flkkhazar|Khazár F
 [[lore-wohou|Wohou]]
 : the warrior nobility who serve the Warlords
 
-[[lore-wanduo|Wanduo]]
+[[lore-wanduo|Wandwo]]
 : the chattel sorcerers who serve and counsel the throne
 
 [[lore-numerology|Numerology]]

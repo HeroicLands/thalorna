@@ -3,7 +3,7 @@ shortcode: westernwars
 name: {full: The Western Wars, en: [The Three Centuries of Conquest]}
 type: lore
 subType: history
-description: "From about 140 AF to the edict of about 418 AF the Empire's legions fight west and north-west: the Tarvénian lowlands and Lienrik are taken, Provénzia is made a province, Élavendre is made a tributary, the Kervaron passes are marked with boundary-stones, and the western strait is fortified."
+description: "From about 140 AF to the edict of about 418 AF the Empire's legions fight west and north-west: the Tarvénian lowlands and Lyenrik are taken, Provénzia is made a province, Élavendre is made a tributary, the Kervaron passes are marked with boundary-stones, and the western strait is fortified."
 tags: [history, vylaria, ageconquest]
 data:
   culture: vylarianclt
@@ -23,7 +23,7 @@ data:
         - place-vylariargn
         - place-vylarianse
       summary: >-
-        Three centuries of campaigning west and north-west. The legions take the Tarvénian lowlands and occupy Lienrik; four expeditions into the mountains of Asturath fail, the worst of them in the reign of Zoranthos; Provénzia is made a province; Élavendre is entered at its edges and settles as a tributary. Expeditions plant boundary-stones at the Kervaron passes, and the Áelendan close the passes behind them. The strait to the ocean is fortified from its northern shore. The wars end by edict in the Restoration.
+        Three centuries of campaigning west and north-west. The legions take the Tarvénian lowlands and occupy Lyenrik; four expeditions into the mountains of Asturath fail, the worst of them in the reign of Zoranthos; Provénzia is made a province; Élavendre is entered at its edges and settles as a tributary. Expeditions plant boundary-stones at the Kervaron passes, and the Áelendan close the passes behind them. The strait to the ocean is fortified from its northern shore. The wars end by edict in the Restoration.
       standing: attested
       names:
         - {name: the Western Wars, by: affiliation-vylarinmpr}
@@ -72,9 +72,9 @@ data:
 
 A chancery clerk, copying a map of the western provinces for the fourth time, runs his finger down the legend. "It is marked with what the [[affiliation-vylarinmpr|Empire]] has held," he says. "There is a second map in a locked drawer, marked with what it said it held, and the two have not agreed since the second century."
 
-## The Lowlands and Lienrik
+## The Lowlands and Lyenrik
 
-The legions came west in earnest about the middle of the second century. They took the lowlands of [[place-tarvenirgn|Tarvénia]] and the southern coast, and held [[place-leonrik|Lienrik]] as an occupied march with walled towns and a chain of watchtowers to give warning of risings. [[place-asturath|Asturath]] they never took. Four expeditions went into its mountains, and the worst of them, in the reign of the Orzas [Zoranthos]{.name data-type="being/npc"}, was lost in the mountains. After that the Empire held the lowland approaches and left the mountains alone.
+The legions came west in earnest about the middle of the second century. They took the lowlands of [[place-tarvenirgn|Tarvénia]] and the southern coast, and held [[place-leonrik|Lyenrik]] as an occupied march with walled towns and a chain of watchtowers to give warning of risings. [[place-asturath|Asturath]] they never took. Four expeditions went into its mountains, and the worst of them, in the reign of the Orzas [Zoranthos]{.name data-type="being/npc"}, was lost in the mountains. After that the Empire held the lowland approaches and left the mountains alone.
 
 ## Provénzia and Élavendre
 
@@ -90,7 +90,7 @@ The western strait is the sea's only door to the ocean. The Empire fortified the
 
 ## What It Left
 
-- **Lienrik's watchtowers.** The chain of towers along the march, kept up by whichever lord holds the ground.
+- **Lyenrik's watchtowers.** The chain of towers along the march, kept up by whichever lord holds the ground.
 - **[[affiliation-kngdmstrth|Asturath]]'s boast.** A kingdom that was never conquered, and says so.
 - **The boundary-stones.** At the Kervaron passes, listed by the chancery and honored by the clans on the clans' terms.
 - **The [Paldor]{.name data-type="place/feature"}.** [[place-orzara|Orzara City]]'s avenue of the wars' trophies, the longest boast in the city.

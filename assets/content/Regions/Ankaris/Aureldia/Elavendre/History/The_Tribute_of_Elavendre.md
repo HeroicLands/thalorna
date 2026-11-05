@@ -54,7 +54,7 @@ data:
           note: the Empire's western campaigning reaches the kingdom's eastern hills
         - event: lore-lowlandstaken
           how: enabled
-          note: the legion marches from the lowlands and the march of Lienrik
+          note: the legion marches from the lowlands and the march of Lyenrik
         - event: lore-firstcrown
           how: answered
           note: the oath sworn at the first crowning is tested by an army
@@ -82,7 +82,7 @@ The Tribute of Élavendre is marked by imperial milestones on the road out of [[
 
 ## The March
 
-The legions had taken the lowlands of [[place-tarvenirgn|Tarvénia]] and held [[place-leonrik|Lienrik]] as an occupied march by the middle of the second century ([[lore-lowlandstaken|The Lowlands Taken]]). From there a legion struck north-west into the eastern hills of Áuldalon, on the road a column would take to the [[place-ellive|Éllive]] basin. It was a march of some three hundred miles.
+The legions had taken the lowlands of [[place-tarvenirgn|Tarvénia]] and held [[place-leonrik|Lyenrik]] as an occupied march by the middle of the second century ([[lore-lowlandstaken|The Lowlands Taken]]). From there a legion struck north-west into the eastern hills of Áuldalon, on the road a column would take to the [[place-ellive|Éllive]] basin. It was a march of some three hundred miles.
 
 The hill levy and the Áelendan war-bands gave the legion no battle. The legion found a country of ditched steadings and empty ground, and the levy took a wagon here and a picket there and fell back. The war-bands came down out of the mountains behind it and out of the forest ahead of it, and drew the column into the forest margin. A cohort that followed a path into the woods was not seen again.
 

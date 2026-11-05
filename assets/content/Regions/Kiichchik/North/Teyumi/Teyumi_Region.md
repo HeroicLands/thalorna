@@ -3,7 +3,7 @@ shortcode: teyumirgn
 name: {full: Teyumi Region}
 type: place
 subType: region
-description: "Mesas, canyons and canal lowlands on the northern rim of the desert—the land of the Turquoise People, in Northern Ki'ich'chik."
+description: "Mesas, canyons and canal lowlands on the northern rim of the desert—the land of the Turquoise People, in Northern Kì'ìch'chik."
 tags: [region]
 data:
   culture: teyumiclt
@@ -19,7 +19,7 @@ data:
 
 ## Overview
 
-Teyumi Region is the land of the [[affiliation-teyumi|Teyumi]], the Turquoise People, and lies within [[place-northkiichchik|Northern Ki'ich'chik]] on the [[place-kiichchik|Ki'ich'chik Continent]]. It is the country where the desert of [[place-chakultzklrgn|Ch'akul Tsa'kul]] ends: a high land of flat-topped mesas, red and buff canyons and juniper uplands, with canal-watered lowlands along its southern rivers. About 150,000 people live in it, in towns of stone great houses, and the dry years keep them few.
+Teyumi Region is the land of the [[affiliation-teyumi|Teyumi]], the Turquoise People, and lies within [[place-northkiichchik|Northern Kì'ìch'chik]] on the [[place-kiichchik|Kì'ìch'chik Continent]]. It is the country where the desert of [[place-chakultzklrgn|Ch'akul Tsa'kul]] ends: a high land of flat-topped mesas, red and buff canyons and juniper uplands, with canal-watered lowlands along its southern rivers. About 150,000 people live in it, in towns of stone great houses, and the dry years keep them few.
 
 ## Geography
 
@@ -42,7 +42,7 @@ The plains of the [[place-tenlayargn|Tenlaya Region]], the Grass People's countr
 [[affiliation-teyumi|Teyumi]]
 : the Turquoise People, the nation that holds this land
 
-[[place-northkiichchik|Northern Ki'ich'chik]]
+[[place-northkiichchik|Northern Kì'ìch'chik]]
 : the enclosing region
 
 [[place-hosaoyalargn|Canyon of Houses]]

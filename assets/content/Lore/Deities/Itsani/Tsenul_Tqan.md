@@ -18,7 +18,7 @@ He is the greatest and most terrible of the Itsani gods: the sovereign of the [F
 
 The solstices are the most sacred astronomical events of the solar year. At the winter solstice the Ts'enmah ascends the pyramid and draws his own blood into the eternal flames while priests chant the binding spells that hold the sun to its path of return. At the summer solstice priests sever the hearts of sacrificial captives at the pyramid's peak and pour the blood, collected in jade vessels, down the temple's great stone channels. Personal bloodletting, by piercing the tongue, the earlobes or the genitals with obsidian blades, is a privilege of the honored. Warriors who have captured enemies dedicate their captives' coming sacrifices in advance.
 
-Every dawn a Ch'alishbal stands at the pyramid's eastern stair and speaks the sun's name as the first light reaches the summit. The Warden of the Debt keeps the ledger of blood given and announces the surplus or shortfall at the close of each twenty-day month. Vows made to him are the heaviest a Ki'i'chek can undertake. The great solar pyramids are always the tallest structures in any city.
+Every dawn a Ch'alishbal stands at the pyramid's eastern stair and speaks the sun's name as the first light reaches the summit. The Warden of the Debt keeps the ledger of blood given and announces the surplus or shortfall at the close of each twenty-day month. Vows made to him are the heaviest a Kì'ì'chek can undertake. The great solar pyramids are always the tallest structures in any city.
 
 ## Relations
 

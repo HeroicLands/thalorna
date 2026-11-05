@@ -76,7 +76,7 @@ the drinking is finished.
 
 The answer is death;/
 the death is his own./
-[[lore-vetrulfur|Vetrúlfur]] waits/
+[[lore-vetrulfur|Vetrulfur]] waits/
 in the last of his knowing./
 The Winter-Wolf comes/
 when the binding breaks./
@@ -267,7 +267,7 @@ its companies for battle./
 Odvar goes forth/
 to the field he foresaw./
 The wolf will take him;/
-his son will take Vetrúlfur./
+his son will take Vetrulfur./
 So runs the telling;/
 so the songs remember./
 The age will burn;/
@@ -338,7 +338,7 @@ snul es lurmi, lorkna.
 
 andrma es svelthma, svul./
 svelthma es na hanv, sannri./
-vetrúlfur vindri/
+vetrulfur vindri/
 at lest lorka na hugnim./
 ulfva na veturma komri krast/
 hvern balv brak./
@@ -528,8 +528,8 @@ valsal nod vigri,/
 hersalm na sjel firn vigband, vrast./
 odvar gang farn ok framri/
 tiv vangri na forhugnim, vigvoll./
-vetrúlfur nem hanv, vredi./
-karn kinli na hanv nem vetrúlfur./
+vetrulfur nem hanv, vredi./
+karn kinli na hanv nem vetrulfur./
 relth rurna likva hern./
 dirma ok dirmlan minva likva hern./
 heimsaldur eldna hurvi./

@@ -16,7 +16,7 @@ In the faith's teaching there was maize before even the Four Agelings were shape
 
 ## Worship
 
-At the planting season farmers gather at the temples carrying seeds of maize, cacao and beans for blessing in the [Chuqtik]{.name data-type="lore/custom"} ceremony. The harvest festivals are the most lavish celebrations in the Ki'i'chek calendar: temples distribute food freely, markets overflow and even slaves eat from the communal stores. The Ts'enmah process to the temples as supplicants carrying sheaves of maize, not as sovereigns.
+At the planting season farmers gather at the temples carrying seeds of maize, cacao and beans for blessing in the [Chuqtik]{.name data-type="lore/custom"} ceremony. The harvest festivals are the most lavish celebrations in the Kì'ì'chek calendar: temples distribute food freely, markets overflow and even slaves eat from the communal stores. The Ts'enmah process to the temples as supplicants carrying sheaves of maize, not as sovereigns.
 
 Everyday devotion is domestic. The first tortilla of a meal is broken and a fragment set aside, and a kernel dropped on the floor is picked up and touched to the forehead. Bloodletting in his honor is light, a few drops on the seed at planting and on the first ear at harvest, and the god is understood to prefer the labor to the blood. A field that has failed is cut and burned and the ground is spoken over.
 

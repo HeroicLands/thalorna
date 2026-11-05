@@ -8,7 +8,7 @@ tags: [lore, kalihara]
 data: {packFolder: settinglore, culture: kaliharanclt}
 ---
 
-Flora of Kalihara encompasses an extraordinary range of plants in the jungle of [[place-klhrcntnnt|Kalihara Continent]], and two of them are part of the island's working life: the Stilt Tree of the eastern shore and the Ember Bloom of the terrace margins. The islanders do not gather either wildly. Each belongs to a part that a household tends, and each is taken from in the way the household's vaan'ari of [[affiliation-tharivaan|Thári'vaan]] allows.
+Flora of Kalihara encompasses an extraordinary range of plants in the jungle of [[place-klhrcntnnt|Kalihara Continent]], and two of them are part of the island's working life: the Stilt Tree of the eastern shore and the Ember Bloom of the terrace margins. The islanders do not gather either wildly. Each belongs to a part that a household tends, and each is taken from in the way the household's vaan-ari of [[affiliation-tharivaan|Thári-vaan]] allows.
 
 ## The Stilt Tree
 

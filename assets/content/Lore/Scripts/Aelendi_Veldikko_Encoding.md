@@ -386,7 +386,7 @@ This encoding writes [[skill-aelendlng|Áelendi]] in veldikko. A passage selects
 
 - **Each consonant is its letter**, and its Roman spelling is lowercase. _p_, _v_, _m_, _t_, _s_, _n_, _d_, _k_, _h_, _l_, _r_ and _g_ are one letter each.
 - **The digraphs are one letter each:** _ng_, _th_, _kh_, _gh_ and _dh_. _N_ before _k_ is the letter _ng_ and then _k_.
-- **_th_, _kh_, _gh_ and _dh_ are Áelendi's aspirated stops**, each with a letter of its own. _Dh_ here is the aspirated stop, not Sinale's voiced fricative.
+- **_th_, _kh_, _gh_ and _dh_ each have a letter of their own**, and are read as [[doc-prnncthlrn|Pronouncing Thalorna]] reads them.
 - **A sound with no letter is the nearest letter:** _b_ is _p_, _f_ and _w_ are _v_, _z_ is _s_, _c_, _q_ and _ch_ are _k_, _sh_ is _s_, _x_ is _k_ then _s_, and _j_ is the vowel _y_. No roman letter is left in the text.
 - **A doubled consonant is its letter once, with the length bar beneath it.**
 - **A vowel is the mark over the consonant it follows.** _A_, _o_, _u_, _e_, _i_, _y_ and _ë_ are seven marks, and an acute vowel is the plain vowel, since stress is never written.

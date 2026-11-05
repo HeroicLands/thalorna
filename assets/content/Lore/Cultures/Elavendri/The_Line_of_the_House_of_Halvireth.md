@@ -58,7 +58,7 @@ málmathen, géilathen, ukal mirdon,/
 tend al dáelamen kurnis, uk kirdon‼/
 Al lyegon tis, lenthon méinathen./
 Salkathen‼ Rith deilnon gene thréinathen,/
-threl gene, al dyelar, gierth al threnon‼/
+threl gene, al dyelar, gyerth al threnon‼/
 Halthon, kurnis, salkathen al ryenon‼
 :::
 
@@ -91,29 +91,29 @@ And up past [Dhargan]{.name data-type="being/npc"}, to the snow on the pass, and
 :::
 
 ::: {.verse form=sirnerne lang=elav enc=elavsemaronenc work=the-line-of-the-house-of-halvireth-2}
-Sílvera, náemathen nyes gene ti óssenda, al derar lenthon nond en gierth ti halthon, kenlon threl Taeren./
+Sílvera, náemathen nyes gene ti óssenda, al derar lenthon nond en gyerth ti halthon, kenlon threl Taeren./
 Taeren, dárkathen gene al halthon, géilathen gene al lántheris, reik málmathen al kendonalon, kenlon threl Méldoreth./
-Méldoreth, sélgathen gene al simme rith Péravel reik árethathen gierth halthon, géilathen gene uk pirnaland ta taehes kirdon reik déisnathen gene, kenlon threl Óuravel./
-Óuravel, rith al kirdon nond róugathen grend al ánhrason gierth írvaloste, háelathen gene al olthar ganthrel geth al úlmedera, reik véinathen to, kenlon threl Deneth./
+Méldoreth, sélgathen gene al simme rith Péravel reik árethathen gyerth halthon, géilathen gene uk pirnaland ta taehes kirdon reik déisnathen gene, kenlon threl Óuravel./
+Óuravel, rith al kirdon nond róugathen grend al ánhrason gyerth írvaloste, háelathen gene al olthar ganthrel geth al úlmedera, reik véinathen to, kenlon threl Deneth./
 Deneth, dárkathen gene al halthon rith al telgis gene, reik rith al kirdon árnathen al ravale angeildar, órnathen gene al dólgalon, kenlon threl Kálvorin./
-Kálvorin, gierth gene véinathen al kernsalve nal al thalgan, kenlon threl Therseth./
-Therseth, théndathen gene gaele al nelgon lirve rith al kirdon árnathen al sirthalon, reik árethathen gene gierth halthon, kenlon threl Raenor./
-Raenor, gársathen uk hanar lyeronno uk gurmougon gierth gene, reik élthethen gene gouthe gene, reik nengin náemathen gene al lyeronno, kenlon threl Ílthera./
+Kálvorin, gyerth gene véinathen al kernsalve nal al thalgan, kenlon threl Therseth./
+Therseth, théndathen gene gaele al nelgon lirve rith al kirdon árnathen al sirthalon, reik árethathen gene gyerth halthon, kenlon threl Raenor./
+Raenor, gársathen uk hanar lyeronno uk gurmougon gyerth gene, reik élthethen gene gouthe gene, reik nengin náemathen gene al lyeronno, kenlon threl Ílthera./
 Ílthera, dárkathen gene uk ómbela rith al arlathon gournar al Thórdimalon, reik géilathen gene to, kenlon threl Gálveren./
-Gálveren, sálnathen gene al kalve rith al giethar ilmis gierth al ondren, reik véinathen to, kenlon threl Velthar./
-Velthar, róugathen gene griene gierth al kurnand nal Elanmere, reik lyero gene al sírnerne goure, reik salkathen geinra, kenlon threl Sarhel./
-Sarhel, gélgathen gene al pirnalhalthon gierth al henda, reik háelathen gene to grend rith kergis, kenlon threl Nerrin./
+Gálveren, sálnathen gene al kalve rith al gyethar ilmis gyerth al ondren, reik véinathen to, kenlon threl Velthar./
+Velthar, róugathen gene gryene gyerth al kurnand nal Elanmere, reik lyero gene al sírnerne goure, reik salkathen geinra, kenlon threl Sarhel./
+Sarhel, gélgathen gene al pirnalhalthon gyerth al henda, reik háelathen gene to grend rith kergis, kenlon threl Nerrin./
 Nerrin, uk pirnaland threl ti halthon, hóuthathen gene rith al Rontha, kenlon threl Árnolen./
 Árnolen, rith al kirdon súndathen al sórvanda, kénathen gene al Sáumirand seis saenathen gene al sírnerne, reik déisnathen gene, reik lyero al Sáumirand to rith ti halthon, kenlon threl Lothel./
-Lothel, íthathen Orethan gene, mólthathen gene gierth Orethan uk íthakenlon, reik dúlkathen al kenrison Orethan thren déisnathen gene, al molthon dárkathen al sírnerne, reik mólthathen gene, kenlon threl Méreval reik threl Sírtala./
+Lothel, íthathen Orethan gene, mólthathen gene gyerth Orethan uk íthakenlon, reik dúlkathen al kenrison Orethan thren déisnathen gene, al molthon dárkathen al sírnerne, reik mólthathen gene, kenlon threl Méreval reik threl Sírtala./
 Méreval, uk geirdand rith al lántheve, thálmathen gene Sírtala.
 
 [Tis en al pirnal gaeri soldar.]{.direction}/
-Sírtala threl Dhárgandi, árnathen gene lourth threl al áuldalon gierth al dulgis, reik lóuvathen gene, reik géilathen gene al gorth óstila rith al gaema alnar al elthis, kenlon threl Ronken./
+Sírtala threl Dhárgandi, árnathen gene lourth threl al áuldalon gyerth al dulgis, reik lóuvathen gene, reik géilathen gene al gorth óstila rith al gaema alnar al elthis, kenlon threl Ronken./
 Ronken threl Dhárgandi, kenlon threl [tháurmira]{lang=aele}./
 [tháurmira]{lang=aele} threl Dhárgandi, threl al hendron théinathen threl al halthon Ésalosa./
-Reik griene al kenrison Dhárgandi, dárkathen al lornand gene, reik nond ti halthon, gierth [dhargan]{lang=aele}, hóuthathen gene./
-Reik griene gouthe [dhargan]{lang=aele}, gierth al neilis gaele al gandurth, reik al omrikenlon rith al gaelkis.
+Reik gryene al kenrison Dhárgandi, dárkathen al lornand gene, reik nond ti halthon, gyerth [dhargan]{lang=aele}, hóuthathen gene./
+Reik gryene gouthe [dhargan]{lang=aele}, gyerth al neilis gaele al gandurth, reik al omrikenlon rith al gaelkis.
 :::
 
 The bard:
@@ -135,10 +135,10 @@ I've sung the living and the dead.
 Ti sírnerne. Salkathen halthon rundis./
 Róunithen nond kendar. Nonduk lundis./
 Sílvera, rith gene en tosri lenthon,/
-al molthon gierth Orethan, uk menthon,/
+al molthon gyerth Orethan, uk menthon,/
 al henda, nal thalgan pattel kernsalve,/
 al ómbela rith arlathon, al kalve,/
-al aulde, griene, al neilis halmar./
+al aulde, gryene, al neilis halmar./
 Tosri. Géilathen‼ Kenrison malmar./
 Gine hréinathen al hirkon‼ Lyero grend‼/
 Olthar, óllevine, lyero munde thend.

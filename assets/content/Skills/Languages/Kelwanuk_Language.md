@@ -6007,7 +6007,7 @@ The Kelwanuk Language is a tongue of long words, dense with _k_, _kw_ and _ts_, 
 
 **Shapes and endings.** Most words have two syllables, many have three, and the built words run to four. A frequent word is short. Syllables open on one consonant or on _kw_, _gw_ or _ts_, and two consonants meet inside a word where a syllable closes on _l_, _m_, _n_, _s_ or _k_: _tsilkas_, an eagle, _humkwa_, a debt. About a third of all words end on a vowel, most often _a_; another third end on _s_, as in _-is_ and _-las_; the rest end on _k_, _l_, _m_, _n_ or _t_.
 
-**What the Kelwanuk Language leaves out.** It has no _r_ at all, and no _f_, _v_, _z_ or _j_. It has none of the rasping _kh_, _gh_ or _q_ of the mountain tongues and none of the ejective pops of Ki'i'chek, no _sh_, _ch_, _th_ or _ng_, and no word opens on two consonants other than _kw_, _gw_ or _ts_.
+**What the Kelwanuk Language leaves out.** It has no _r_ at all, and no _f_, _v_, _z_ or _j_. It has none of the rasping _kh_, _gh_ or _q_ of the mountain tongues and none of the ejective pops of Kì'ì'chek, no _sh_, _ch_, _th_ or _ng_, and no word opens on two consonants other than _kw_, _gw_ or _ts_.
 
 ## Phonology
 

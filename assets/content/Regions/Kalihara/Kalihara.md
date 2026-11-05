@@ -29,7 +29,7 @@ data:
       - level: 3
         title: Ithakan
         description: >-
-          Keeper of the ancient structures, trained from childhood in maintenance rites whose purpose is no longer wholly understood. Every custodian stands here, of whichever of the faith's four ranks—kaan'sili, kaan'vaar, kaan'thari or silkan—and the order among them is the faith's own.
+          Keeper of the ancient structures, trained from childhood in maintenance rites whose purpose is no longer wholly understood. Every custodian stands here, of whichever of the faith's four ranks—kaan-sili, kaan-vaar, kaan-thari or silkan—and the order among them is the faith's own.
     offices:
       Speaker for the Island: >-
         Held by an Islander or an Ithakan. Presiding officer of the Council, and the only Kaliharan authorized to treat with a foreign power.
@@ -71,7 +71,7 @@ In the deepest prehistory of Thalorna, long before the Elder Races raised their 
 
 The record is clear that the Ithari found humans already on the island, small scattered groups living in the most rudimentary conditions, and that they took those people in. Over generations they gave the early Kaliharans agriculture, medicine, governance and the way of understanding the world on which everything Kaliharan civilization has built since rests. The Ithari gave it mind to mind, and the Kaliharans made the words for it.
 
-The Ithari revered the natural order. Their teaching, as the Kaliharans have kept it, holds that the world is one living whole and not a collection of separate things: every tree, creature, stone, river and breath of wind takes part in a single connected totality, which the Kaliharans call [[affiliation-tharivaan|Thári'vaan]] ("The Living Whole," or, less precisely, "The Great Other"). The whole is not to be worshipped, appeased or bargained with; it is to be understood, respected and maintained. To damage any part is to damage the whole, and to tend any part is to tend the whole. The purpose of a civilization, in Ithari teaching, is to take part in the world with understanding and care, and never to master it.
+The Ithari revered the natural order. Their teaching, as the Kaliharans have kept it, holds that the world is one living whole and not a collection of separate things: every tree, creature, stone, river and breath of wind takes part in a single connected totality, which the Kaliharans call [[affiliation-tharivaan|Thári-vaan]] ("The Living Whole," or, less precisely, "The Great Other"). The whole is not to be worshipped, appeased or bargained with; it is to be understood, respected and maintained. To damage any part is to damage the whole, and to tend any part is to tend the whole. The purpose of a civilization, in Ithari teaching, is to take part in the world with understanding and care, and never to master it.
 
 In **7,300 BF** the Ithari departed. The record gives the manner and not the reason: a disturbance of some kind went through them, they went to the caretakers of the instruments and gave them a further set of instructions in haste, and then they were gone, all of them, abruptly. Whether they returned to wherever they came from, moved on to some other purpose, or met a fate beyond Kaliharan knowledge, nobody on the island can say. The departure is the great silence at the heart of Kaliharan thought: the Ithari were simply no longer there, and the civilization they had built was left in the hands of those they had raised. The world-level account of the Ithari, of the works they left elsewhere on Thalorna and of the one occasion an Elder Race met them is [[lore-theithari|the Ithari]].
 
@@ -79,7 +79,7 @@ The Kaliharans did not collapse. They kept what had been given to them, the know
 
 ## Cosmology and Faith
 
-Ask the factor what the Kaliharans worship and he answers, correctly, that they do not. There are no gods on Kalihara, no deities who answer prayers, grant blessings or demand sacrifice, no doctrine of an afterlife and no reward or punishment beyond death. What there is instead is Thári'vaan, the Living Whole, and the three habits by which every Kaliharan takes part in it: the daily watching of some corner of the world, the tending of the garden, grove or shore that is one's own, and the exact keeping of inherited practice. The tradition note [[affiliation-tharivaan|Thári'vaan]] sets out the observances, the custodians' ranks and the liturgies in full.
+Ask the factor what the Kaliharans worship and he answers, correctly, that they do not. There are no gods on Kalihara, no deities who answer prayers, grant blessings or demand sacrifice, no doctrine of an afterlife and no reward or punishment beyond death. What there is instead is Thári-vaan, the Living Whole, and the three habits by which every Kaliharan takes part in it: the daily watching of some corner of the world, the tending of the garden, grove or shore that is one's own, and the exact keeping of inherited practice. The tradition note [[affiliation-tharivaan|Thári-vaan]] sets out the observances, the custodians' ranks and the liturgies in full.
 
 The Kaliharans hold the connectedness of things to be observed fact and not doctrine, confirmed by several thousand years of attention to one island: the canopy and the reef, the volcanic soil and the monsoon, the household and the birds in its gardens, the [[being-dsksft|Dusk Swift]] flocks among them, each part's health answering to every other's. The posture that follows is a reverence without worship, a respect for the world as it is with an obligation attached. Kaliharans do not pray; they observe. They do not make offerings; they tend.
 
@@ -131,7 +131,7 @@ Beside the order of standing runs another, and it does not match. The works answ
 
 The Ithakan carry great influence and are not rulers in any conventional sense. Their authority is custodial: they keep the ancient knowledge and the ancient structures, and temporal decisions rest with secular councils whose composition and selection are, to outsiders, essentially unknown. The ports run under a separate structure with the flexibility foreign trade requires, while the interior follows older forms refined over millennia.
 
-The result is a society that has avoided the cycles of expansion, civil war and collapse that mark most civilizations on Thalorna. Kalihara has never had an empire, never fought a war of conquest, and never suffered the dynastic upheavals that reshape continental nations every few centuries. Whether the stability comes from the councils, from the commitment to Thári'vaan, from the island's isolation, or from all three together is a question Kaliharan scholars presumably debate among themselves, and not with outsiders.
+The result is a society that has avoided the cycles of expansion, civil war and collapse that mark most civilizations on Thalorna. Kalihara has never had an empire, never fought a war of conquest, and never suffered the dynastic upheavals that reshape continental nations every few centuries. Whether the stability comes from the councils, from the commitment to Thári-vaan, from the island's isolation, or from all three together is a question Kaliharan scholars presumably debate among themselves, and not with outsiders.
 
 ## Commerce and Currency
 
@@ -145,7 +145,7 @@ Kalihara stands outside the continental monetary systems. Internal commerce runs
 [[place-kaliharargn|Kalihara Region]]
 : the inhabited country this polity holds
 
-[[affiliation-tharivaan|Thári'vaan]]
+[[affiliation-tharivaan|Thári-vaan]]
 : the Living Whole, its observances and its custodians
 
 [[lore-kaliharanclt|Kaliharan]]
@@ -170,7 +170,7 @@ Kalihara stands outside the continental monetary systems. Internal commerce runs
 : the custodians of dark works at Kuomethei
 
 [[affiliation-silharicircle|The Sílhari Circle]]
-: the custodians who hold that kaan'vaar has failed
+: the custodians who hold that kaan-vaar has failed
 
 [[affiliation-lineagekuethori|The Lineage Kuethori]] and [[affiliation-lineageavoluthei|the Lineage Avoluthei]]
 : the holders of the Gap and the Cloud Pass

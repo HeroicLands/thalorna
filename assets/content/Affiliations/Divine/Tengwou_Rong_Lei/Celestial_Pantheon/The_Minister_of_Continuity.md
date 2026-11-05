@@ -47,10 +47,10 @@ data:
       - level: 7
         title: Chief Intendant
         description: >-
-          Senior mortal officer of a bureau's whole temple establishment, who signs what is transmitted upward to its Teng Gui and answers for it if the bureau rejects it.
+          Senior mortal officer of a bureau's whole temple establishment, who signs what is transmitted upward to its Teng Gwi and answers for it if the bureau rejects it.
     offices:
       Neitsai, The Minister of Continuity: >-
-        Teng Gui of the Tsai Sei, whose power is the authority of the office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
+        Teng Gwi of the Tsai Sei, whose power is the authority of the office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
       Wouchei: >-
         The Instructor, associated with the transmission of knowledge and technique across generations; where Neitsai preserves biological continuity, Wouchei preserves cultural continuity.
       Zhawo: >-
@@ -94,7 +94,7 @@ Parent
 
 In Neitsai's teaching, Tsai Sei resists change, which is its function and not its failing. It ensures that things continue
 to be what they were classified as: that a lineage breeds true, that a craft is transmitted intact,
-that a boundary drawn in [Dao Zhaolei]{.name data-type="lore/cosmology"}, the Great Sorting, is still where it was drawn.
+that a boundary drawn in [Dau Zhaulei]{.name data-type="lore/cosmology"}, the Great Sorting, is still where it was drawn.
 
 It is the natural rival of [[affiliation-zhenho|Zhinho]], the Bureau of Transformation, and the rivalry is
 the sharpest in the administration—one bureau exists to change things and the other to prevent

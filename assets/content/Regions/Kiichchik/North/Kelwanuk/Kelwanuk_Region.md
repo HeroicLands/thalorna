@@ -3,7 +3,7 @@ shortcode: kelwanukrgn
 name: {full: Kelwanuk Region}
 type: place
 subType: region
-description: "Western fjords, cedar rainforest and salmon rivers between the sea and a wall of volcanic peaks—the land of the Cedar People, on the far western coast of Northern Ki'ich'chik."
+description: "Western fjords, cedar rainforest and salmon rivers between the sea and a wall of volcanic peaks—the land of the Cedar People, on the far western coast of Northern Kì'ìch'chik."
 tags: [region]
 data:
   culture: kelwanukclt
@@ -19,11 +19,11 @@ data:
 
 ## Overview
 
-Kelwanuk Region is the land of the [[affiliation-kelwanuk|Kelwanuk]], the Cedar People, and lies within [[place-northkiichchik|Northern Ki'ich'chik]] on the [[place-kiichchik|Ki'ich'chik Continent]]. It is the far western coast of the north: a strip of fjords, islands and outer beaches between the open sea and a wall of snow-crowned volcanic peaks, with cedar and redwood forest running from the tide line up into the clouds. About 200,000 people live in it, nearly all of them in villages on the beaches, and the forest behind them is crossed by the rivers and little else.
+Kelwanuk Region is the land of the [[affiliation-kelwanuk|Kelwanuk]], the Cedar People, and lies within [[place-northkiichchik|Northern Kì'ìch'chik]] on the [[place-kiichchik|Kì'ìch'chik Continent]]. It is the far western coast of the north: a strip of fjords, islands and outer beaches between the open sea and a wall of snow-crowned volcanic peaks, with cedar and redwood forest running from the tide line up into the clouds. About 200,000 people live in it, nearly all of them in villages on the beaches, and the forest behind them is crossed by the rivers and little else.
 
 ## Geography
 
-The coast is cut into fjords by ancient ice. In the north the fjords run far inland between cliffs, and the villages stand at their heads where the salmon rivers come down; in the south the coast opens into sandy outer beaches and broad river mouths, with islands offshore. The temperate rainforest is among the densest and most productive country in all of Ki'ich'chik, its canopy so thick that the forest floor lies in twilight at midday, and it rains for most of the winter. The coastal waters hold seal, sea otter, shellfish and the great whales, and every river of any size carries a salmon run each year.
+The coast is cut into fjords by ancient ice. In the north the fjords run far inland between cliffs, and the villages stand at their heads where the salmon rivers come down; in the south the coast opens into sandy outer beaches and broad river mouths, with islands offshore. The temperate rainforest is among the densest and most productive country in all of Kì'ìch'chik, its canopy so thick that the forest floor lies in twilight at midday, and it rains for most of the winter. The coastal waters hold seal, sea otter, shellfish and the great whales, and every river of any size carries a salmon run each year.
 
 The Cedar People live on the beaches and the rivers and leave the high country alone. Above the forest rises the mountain spine, a chain of volcanic peaks whose summits stand above the clouds, where eagles nest and the snow lies most of the year. The few passes through it are open only in high summer.
 
@@ -60,7 +60,7 @@ To the north, beyond the last villages, the [[affiliation-tikupilarit|Ice-Edge P
 [[affiliation-kelwanuk|Kelwanuk]]
 : the Cedar People, the nation that holds this land
 
-[[place-northkiichchik|Northern Ki'ich'chik]]
+[[place-northkiichchik|Northern Kì'ìch'chik]]
 : the enclosing region
 
 [[place-tsilkasis|Tsilkasis]]

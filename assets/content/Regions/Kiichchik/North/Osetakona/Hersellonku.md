@@ -3,7 +3,7 @@ shortcode: hersellonku
 name: {full: Hersellonku}
 type: place
 subType: settlement
-description: "The northern conclave of the Sinale in Ki'ich'chik, in a deep wood of old pine beyond the Pine People's last village, where the Grove's canoe makers do not cut."
+description: "The northern conclave of the Sinale in Kì'ìch'chik, in a deep wood of old pine beyond the Pine People's last village, where the Grove's canoe makers do not cut."
 tags: [village, woodland]
 data:
   demonym: null
@@ -14,7 +14,7 @@ data:
   culture: sinaleclt
 ---
 
-**Hersellonku**, the pine deep-wood in the [[skill-sinalelng|Sinale language]], is the northernmost of the three conclaves the [[lore-flksinale|Sinale Folk]] keep in [[place-kiichchik|Ki'ich'chik Continent]]. It lies in the [[place-tsitarargn|Pine Country]], north and west of the Pine People's six villages, where the ridges of rock and the cold lakes run on into country with no villages at all. Nobody outside it has counted the Sinale there.
+**Hersellonku**, the pine deep-wood in the [[skill-sinalelng|Sinale language]], is the northernmost of the three conclaves the [[lore-flksinale|Sinale Folk]] keep in [[place-kiichchik|Kì'ìch'chik Continent]]. It lies in the [[place-tsitarargn|Pine Country]], north and west of the Pine People's six villages, where the ridges of rock and the cold lakes run on into country with no villages at all. Nobody outside it has counted the Sinale there.
 
 ## What a Traveler Finds
 

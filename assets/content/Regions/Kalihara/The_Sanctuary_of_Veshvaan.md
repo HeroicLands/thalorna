@@ -17,13 +17,13 @@ data:
 
 ## Overview
 
-Veshvaan is the oldest and largest of the sanctuaries of the [Ithakan]{.name data-type="affiliation/order"}, the custodians of [[place-klhrcntnnt|Kalihara]]. It stands on a shoulder of [[place-klhrmassif|the Massif]], the mount in the middle of [[place-klhrlake|the Bowl Lake]], below the summit where [[place-sulvaan|the Warm]] stands. Like every sanctuary it is seminary, archive, workshop and working site at once, and it holds the most extensive archives of inherited procedure on the island. Its deepest rooms hold the oldest of the first records: the carved slabs and inscribed plaques that bear the Ithari's stone marks, each a sign that calls up, for a keeper who knows it, what the people had been given and the keepers recite. Only the silkan and the most senior kaan'thari see them.
+Veshvaan is the oldest and largest of the sanctuaries of the [Ithakan]{.name data-type="affiliation/order"}, the custodians of [[place-klhrcntnnt|Kalihara]]. It stands on a shoulder of [[place-klhrmassif|the Massif]], the mount in the middle of [[place-klhrlake|the Bowl Lake]], below the summit where [[place-sulvaan|the Warm]] stands. Like every sanctuary it is seminary, archive, workshop and working site at once, and it holds the most extensive archives of inherited procedure on the island. Its deepest rooms hold the oldest of the first records: the carved slabs and inscribed plaques that bear the Ithari's stone marks, each a sign that calls up, for a keeper who knows it, what the people had been given and the keepers recite. Only the silkan and the most senior kaan-thari see them.
 
 Veshvaan also keeps the island's count of years. Each sanctuary counts in [Tenth-Year Walk]{.name data-type="lore/custom"}s, and the count since the departure of [[lore-theithari|the Ithari]] is kept here.
 
 ## The Holding
 
-The Massif and its shores are held by the lineage [Marivoel]{.name data-type="affiliation/lineage"} (warm stone), named for the mount, whose households keep the landings, the boats and the gardens below the sanctuary. The sanctuary itself is the custodians'. The kaan'sili in training at Veshvaan come from every lineage of the island, and a child chosen for it crosses the lake and lives on the Massif for years.
+The Massif and its shores are held by the lineage [Marivoel]{.name data-type="affiliation/lineage"} (warm stone), named for the mount, whose households keep the landings, the boats and the gardens below the sanctuary. The sanctuary itself is the custodians'. The kaan-sili in training at Veshvaan come from every lineage of the island, and a child chosen for it crosses the lake and lives on the Massif for years.
 
 ## What Is Seen from It
 
@@ -38,8 +38,8 @@ Veshvaan is reached only by water, half a day by boat from the eastern shore, an
 [[place-klhrmassif|The Massif]]
 : the mount the sanctuary stands on
 
-[[affiliation-tharivaan|Thári'vaan]]
+[[affiliation-tharivaan|Thári-vaan]]
 : the custodians, their ranks and their sanctuaries
 
-[[place-thalari|Thal'ari]] and [[place-mirthaan|Mirthaan]]
+[[place-thalari|Thal-ari]] and [[place-mirthaan|Mirthaan]]
 : two other sanctuaries of the island

@@ -157,8 +157,8 @@ Credit: the shrine kept twenty-six years without arrears./
 Credit: your mother's term paid down, nine baskets every year, twenty-two years./
 Credit: the corvée, every year you could walk./
 Credit: the terrace in the register, not one span lost to the Second Terrace or the river./
-Debit: you struck a Shuonong at the Weichai market who sold you salt with sand in it./
-The magistrate fined you a measure of millet, and the Shuonong was fined two./
+Debit: you struck a Shwonong at the Weichai market who sold you salt with sand in it./
+The magistrate fined you a measure of millet, and the Shwonong was fined two./
 Debit: the fine. Credit: the salt, which you were right about./
 The Leigen says you are posted to the Bureau of Allocation,/
 at the lowest desk, where the grain of the terrace districts is reckoned./
@@ -194,7 +194,7 @@ My daughter, who is four months, and is registered under the White Ape.
 
 My sister, Second Daughter of the Terrace-Keeper,/
 was found to have the gift at the testing in her tenth year,/
-and was entered as Wanduo, and taken to the compound of the Warlord's house/
+and was entered as Wandwo, and taken to the compound of the Warlord's house/
 in the same season./
 The household does not seek her./
 That is the line the law gives. It is read as the law gives it.
@@ -227,10 +227,10 @@ We feed you. Speak for us.
 [[lore-nouwen|Nouwen]]
 : the terrace households, the bonding rite and the village Leigen
 
-[[lore-wanduo|Wanduo]]
+[[lore-wanduo|Wandwo]]
 : the testing at ten and the family that may not seek its child
 
-[[affiliation-wansouzhuo|Wansou Zhuo]]
+[[affiliation-wansouzhuo|Wansou Zhwo]]
 : the Ministry of Final Account, which reads a ledger at death
 
 [[lore-clndrstrlgy|Calendar and Astrology]]

@@ -61,7 +61,6 @@ data:
     ng: NGA
     ny: NYA
     hl: HLA
-    ngh: [NAZAF, GHARM]
     tth: [THARZ, THARZ]
     ddh: [DHALZ, DHALZ]
     kkh: [KHABAR, KHABAR]
@@ -73,7 +72,6 @@ data:
     nng: [NGA, NGA]
     nny: [NYA, NYA]
     hhl: [HLA, HLA]
-    nngh: [NAZAF, NAZAF, GHARM]
     aa: [A, LONG]
     áa: [A, LONG]
     ii: [I, LONG]
@@ -134,7 +132,7 @@ This encoding writes [[skill-khazarlng|Khazari]] in pirzath-carved. A passage se
 ## From the Spelling Guide to Pirzath
 
 - **The script has one case.** Its Roman spelling is lowercase.
-- **The digraphs are letters:** _th_, _dh_, _kh_, _gh_, _sh_, _zh_, _ch_, _ts_, _ng_, _ny_ and _hl_. _ngh_ is _n_ and _gh_.
+- **The digraphs are letters:** _th_, _dh_, _kh_, _gh_, _sh_, _zh_, _ch_, _ts_, _ng_, _ny_ and _hl_. _ngh_ is _ng_ and _h_, as [[doc-prnncthlrn|Pronouncing Thalorna]] reads it.
 - **A digraph with its first letter doubled** (_tth_, _ssh_, _nng_) is the digraph twice, which the faces draw as the doubled form.
 - **A consonant written twice** is two letters, which the faces draw as the doubled form.
 - **An acute vowel is the plain vowel.** The acute marks stress, which Pirzath does not write.

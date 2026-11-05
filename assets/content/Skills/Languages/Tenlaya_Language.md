@@ -6052,7 +6052,7 @@ The hunting bands and the earth-lodge villages speak one tongue, and each hears 
 
 West of the mountains the bands that fish the salmon falls and dig roots on the plateaus speak it with a drawl of their own, and use a few words for fish and roots that the plains do not know. Nobody on the plains mistakes them for another people.
 
-The tongue is related to nothing in the south. A southern trader who has learned [[skill-kiichek|Ki'i'chek]] from childhood hears nothing he knows in it. The Grass People have no use for southern speech either, and those who trade with the [[affiliation-teyumi|Turquoise People]] for southern goods do it in the Teyumi tongue or by signs.
+The tongue is related to nothing in the south. A southern trader who has learned [[skill-kiichek|Kì'ì'chek]] from childhood hears nothing he knows in it. The Grass People have no use for southern speech either, and those who trade with the [[affiliation-teyumi|Turquoise People]] for southern goods do it in the Teyumi tongue or by signs.
 
 Nobody writes it. The Grass People keep their law in songs, their treaties in pipes and their years on painted robes, and the pictures on a robe name a winter, never a word.
 
@@ -6066,7 +6066,7 @@ The Tenlaya Language is open and quick, and many of its words close on a soft _n
 
 **Shapes and endings.** Most words have two syllables, many three, a few four; the words a speaker uses most are the shortest. A word ends on a vowel, most often _a_, or on _n_, and the _n_ is frequent enough to set the tune of the tongue: about one word in three closes on it.
 
-**What the Tenlaya Language leaves out.** It has no _b_, _d_, _g_, _f_, _r_, _v_, _z_ or _j_, no _th_, none of the rasping _kh_ or _gh_ of the mountain tongues, and none of the catches and ejective pops of Ki'i'chek. No word opens on two consonants except _sk_, _sp_ and _st_, and three never stand together.
+**What the Tenlaya Language leaves out.** It has no _b_, _d_, _g_, _f_, _r_, _v_, _z_ or _j_, no _th_, none of the rasping _kh_ or _gh_ of the mountain tongues, and none of the catches and ejective pops of Kì'ì'chek. No word opens on two consonants except _sk_, _sp_ and _st_, and three never stand together.
 
 ## Phonology
 

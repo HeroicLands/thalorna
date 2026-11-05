@@ -474,7 +474,7 @@ Dependence on Position
 
 ### Patrons
 
-Lord [[being-iltherozedim|Ilthero]] III, a Crown Councilor of Lienrik
+Lord [[being-iltherozedim|Ilthero]] III, a Crown Councilor of Lyenrik
 : The Councilor values Kárenna's counsel and has come to rely on her judgment in matters of diplomacy and internal realm politics. He has indicated subtle support for her continued advancement within the herald corps.
 
 Duke [[being-volkemokaldr|Volkemo]] of the [Eastern Marches]{.name data-type="place/region"}

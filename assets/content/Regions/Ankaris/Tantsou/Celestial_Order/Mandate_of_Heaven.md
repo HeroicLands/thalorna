@@ -25,7 +25,7 @@ The Aureldian west tells its history as a road toward a final reckoning. In the 
 
 The Great Sorting laid down patterns that repeat with variation through time. A dynasty rises, administers well for a time, gathers disorder, and is replaced, and none of that is tragedy or triumph: it is the ordinary cycle of an office, as regular as the seasons. The present dynasty plays a part that has been played before and will be played again, and when the Mandate passes to a new line, the Tantsou call it succession, never revolution.
 
-This shapes what the Tantsou admire. The highest virtue is to keep the pattern correctly. The ideal Emperor is no visionary and no reformer but a flawless administrator, who keeps the classification running so smoothly that the [Huenlei]{.name data-type="lore/cosmology"} never finds a gap. Innovation is suspect and change is dangerous, and the best thing a man can do is keep things as the Great Sorting set them. A western visitor, raised on stories of inventors and of the individual will triumphant, finds this deeply strange. In Tantsou the hero of the story is seldom the rebel who throws down a tyrant. It is the official who files the right form at the right time and keeps heaven's paperwork from falling behind.
+This shapes what the Tantsou admire. The highest virtue is to keep the pattern correctly. The ideal Emperor is no visionary and no reformer but a flawless administrator, who keeps the classification running so smoothly that the [Hwenlei]{.name data-type="lore/cosmology"} never finds a gap. Innovation is suspect and change is dangerous, and the best thing a man can do is keep things as the Great Sorting set them. A western visitor, raised on stories of inventors and of the individual will triumphant, finds this deeply strange. In Tantsou the hero of the story is seldom the rebel who throws down a tyrant. It is the official who files the right form at the right time and keeps heaven's paperwork from falling behind.
 
 ## The Mandate at Work
 
@@ -33,7 +33,7 @@ This shapes what the Tantsou admire. The highest virtue is to keep the pattern c
 
 **The burden.** The Zhazho are burdened as well as privileged. The imperial family and the Warlords answer to heaven for keeping the classification in order in their lands, and every famine, flood or plague is entered against the institutional ledger. They rule because the post was assigned to them, and the post came with the duty of keeping the sorted world sorted.
 
-**The health of the realm.** The Yaiwo healers of the [[lore-tsaihuo|Tsaihuo]] teach that the people's health shows the state of the Mandate. A body is a small copy of the classified cosmos, with organs for elements and channels for the lines of administration. When the Emperor governs well, the people are healthy; when he fails, sickness spreads, carried down from the failing administration into the bodies of his subjects.
+**The health of the realm.** The Yaiwo healers of the [[lore-tsaihuo|Tsaihwo]] teach that the people's health shows the state of the Mandate. A body is a small copy of the classified cosmos, with organs for elements and channels for the lines of administration. When the Emperor governs well, the people are healthy; when he fails, sickness spreads, carried down from the failing administration into the bodies of his subjects.
 
 ## The Number Nine
 

@@ -16,9 +16,9 @@ data:
       The Sinale of Eilwith, who reside in the Hallowwood under their own lord and do not answer to Dúnavarre.
     ranks:
       - level: 0
-        title: Vierka
+        title: Vyerka
         description: >-
-          A Vierka, the Sinale word for an outlaw, is one driven out of the enclave by its lord and given no standing or shelter by it.
+          A Vyerka, the Sinale word for an outlaw, is one driven out of the enclave by its lord and given no standing or shelter by it.
       - level: 1
         title: Member of the Enclave
         description: >-

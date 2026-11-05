@@ -3,7 +3,7 @@ shortcode: readingsorting
 name: {full: The Reading of the Sorting}
 type: lore
 subType: literature
-description: "The recitation a Tanchei reads in every audit hall of the empire on the first day of Juiyou, before the year's ledger is opened: the world before the first distinction, the stroke, the five and the eight, the appointment of the gods and the first Emperor, the five who refused, how the world would end if the sorting failed, and why it is the hall's to keep."
+description: "The recitation a Tanchei reads in every audit hall of the empire on the first day of Jwiyou, before the year's ledger is opened: the world before the first distinction, the stroke, the five and the eight, the appointment of the gods and the first Emperor, the five who refused, how the world would end if the sorting failed, and why it is the hall's to keep."
 tags: [draft, tantsou]
 data:
   culture: tantsouclt
@@ -26,7 +26,7 @@ data:
 # terran_analog: "The parallel couplets and fixed catalogs of temple liturgy; the Book of Documents' speeches of appointment to office; the cosmogonies in which heaven and earth separate from an undivided mass; the litanies of the ten kings of the underworld read at year's end. Departs: nothing is made and nobody creates; the world is sorted, the gods are appointed to run the sorting, and the end is a dissolution, not a burning."
 ---
 
-**The Reading of the Sorting** is the recitation a [[lore-tanchei|Tanchei]] reads aloud in the audit hall of every provincial seat and district town on the first day of Juiyou, at the [Festival of Harmonious Lei]{.name data-type="lore/gathering"}. In the capital the Emperor performs the year's audit of the empire's Lei and opens the celestial filing; in the provinces the Warlord's seal stands on the table for the Emperor's, and the reading is what the hall hears before the year's ledger is opened. Everyone who stands in the hall for it is entered in the district's reckoning of the festival, so the halls are full and the doors stand open to the street.
+**The Reading of the Sorting** is the recitation a [[lore-tanchei|Tanchei]] reads aloud in the audit hall of every provincial seat and district town on the first day of Jwiyou, at the [Festival of Harmonious Lei]{.name data-type="lore/gathering"}. In the capital the Emperor performs the year's audit of the empire's Lei and opens the celestial filing; in the provinces the Warlord's seal stands on the table for the Emperor's, and the reading is what the hall hears before the year's ledger is opened. Everyone who stands in the hall for it is entered in the district's reckoning of the festival, so the halls are full and the doors stand open to the street.
 
 The reading is the public copy of the cosmological treatises, made for the hall. The treatises themselves may be held and read by the Tanchei alone, and the reading says so where it leaves them out. Each district keeps its own copy, and the copies differ in their catalogs: a river province adds a couplet for the dikes, a march province one for the towers, and a town under the mountains leaves out the sea. The text below is the reading of a district on the central rivers. Every year the reader says that year's count from [[lore-greatcnvrg|the Great Convergence]] and that year's place in the Generation, and the rendering gives the count and the place of the present year. The hall answers each part with the same three words, and in the hall they are said together, flat, the way a clerk says them when he has checked a figure.
 
@@ -35,7 +35,7 @@ The reading is the public copy of the cosmological treatises, made for the hall.
 ::: {.verse form=recitation lang=en}
 [The reader:]{.speaker}/
 Hear the reading, in the hall of the audit,/
-on the first day of Juiyou, with the brazier lit./
+on the first day of Jwiyou, with the brazier lit./
 The seal is on the table. The old ledger is closed and tied./
 The new one lies beside it, and no stroke is on it./
 Before it is opened, the reading is read,/
@@ -55,7 +55,7 @@ no before and no after, no near and no far./
 It was not dark. Dark is a thing, and there were no things./
 It was not empty. Empty is a bowl with nothing in it,/
 and there was no bowl./
-That is the Huenlei, the Unclassified./
+That is the Hwenlei, the Unclassified./
 It is not a place you could have walked to./
 It is what you would be, if nobody had sorted you.
 
@@ -129,13 +129,13 @@ To the persons the Sorting gave eight places, and no ninth./
 Hear the eight.
 
 The Sons of the Dragon, to hold the post and the provinces./
-The Wanduo, to carry the great petitions, and to be kept as a seal is kept./
+The Wandwo, to carry the great petitions, and to be kept as a seal is kept./
 The Wohou, to enforce, as the Minister of Storms enforces./
 The Tanchei, to read and to keep, as the Jade Sovereign keeps./
-The Tsaihuo, to make the thing, and to stand on the wall./
+The Tsaihwo, to make the thing, and to stand on the wall./
 The Nouwen, to feed the empire out of the terraces./
-The Shuonong, to carry what others have made, and to be counted carrying it./
-The Nuitsou, at the floor, so that the floor is known./
+The Shwonong, to carry what others have made, and to be counted carrying it./
+The Nwitsou, at the floor, so that the floor is known./
 Eight places. Every person stands in one./
 The stranger in the street stands in none,/
 and he is placed low, and given tea, until a bureau says otherwise.

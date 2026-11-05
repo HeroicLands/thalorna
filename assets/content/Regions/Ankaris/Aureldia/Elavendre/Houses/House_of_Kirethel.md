@@ -61,15 +61,15 @@ Head
 : [[being-aurenthekir|Áurenthe Kírethel]], Queen of Élavendre
 
 Heir
-: [[being-ielaraskir|Íelaras Kírethel]], her son
+: [[being-ielaraskir|Yélaras Kírethel]], her son
 
 ## The House Now {#the-house-now}
 
-The head of the house is [[being-aurenthekir|Queen Áurenthe]], fifty-two, who reigns in her own right. Her consort is dead. Her heir is her only son, [[being-ielaraskir|Prince Íelaras]], twenty-three, who was schooled at the [University of Péravel]{.name data-type="affiliation"} as the children of the nobility are.
+The head of the house is [[being-aurenthekir|Queen Áurenthe]], fifty-two, who reigns in her own right. Her consort is dead. Her heir is her only son, [[being-ielaraskir|Prince Yélaras]], twenty-three, who was schooled at the [University of Péravel]{.name data-type="affiliation"} as the children of the nobility are.
 
 **The succession.** The crown passes to the monarch's eldest child, son or daughter. A queen reigns in her own right, as [Réidane]{.name data-type="being/npc"} of Orethan did when she treated at [[place-valdun|Valdun]] ([[lore-elvtribute|The Tribute of Élavendre]]). Every monarch is crowned in the hall at Péravel, stands bareheaded through [[lore-treelinelay|the Lay of the Tree Line]], and swears with both hands open that the crown stops at the tree line ([[lore-firstcrown|The First Crowning of Élavendre]]). When a line ends without an heir, the Bardic Circle chooses the next monarch from a house whose descent the Colleges have proved, as it chose Hóuradel.
 
-The law of succession is not in question. What is in question is the judgment the region names as the crown's ceiling: a monarch believed to have taken the Order's side faces no rebellion, only the quiet, unanswerable verdict that he has stopped being of the old blood. Íelaras is the next monarch by law, and he is the University's pupil.
+The law of succession is not in question. What is in question is the judgment the region names as the crown's ceiling: a monarch believed to have taken the Order's side faces no rebellion, only the quiet, unanswerable verdict that he has stopped being of the old blood. Yélaras is the next monarch by law, and he is the University's pupil.
 
 ## Holdings {#holdings}
 

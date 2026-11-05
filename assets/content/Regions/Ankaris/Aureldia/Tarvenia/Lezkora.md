@@ -30,7 +30,7 @@ The city is stone-built, crowded and steep, with lanes that end at the cliff edg
 
 ## Living There
 
-Lezkora grows almost nothing it eats. Its rye and its flocks feed perhaps a tenth of it, and the rest comes up the road on mules: grain from the lowlands of [[place-leonrik|Lienrik]] by way of Ardalis, cheese and mutton from the high valleys around [[place-tsaberis|Tsaberis]], and wine from wherever the courts can afford it. The city lives on its two courts and the people who come to them—lords and their men, petitioners, envoys, pilgrims—and on the price of everything carried up the cliff. Bread costs twice what it costs in Ardalis, and a lord who comes up for an election pays that price for as long as the election lasts. Lezkora's bakers call a long election a good year.
+Lezkora grows almost nothing it eats. Its rye and its flocks feed perhaps a tenth of it, and the rest comes up the road on mules: grain from the lowlands of [[place-leonrik|Lyenrik]] by way of Ardalis, cheese and mutton from the high valleys around [[place-tsaberis|Tsaberis]], and wine from wherever the courts can afford it. The city lives on its two courts and the people who come to them—lords and their men, petitioners, envoys, pilgrims—and on the price of everything carried up the cliff. Bread costs twice what it costs in Ardalis, and a lord who comes up for an election pays that price for as long as the election lasts. Lezkora's bakers call a long election a good year.
 
 The people of the city are mostly servants of the two courts and the temple, the muleteers and carters of the road, the gate's men and their families, and the craftsmen who serve all of them. They speak the old-fashioned Tarveni of the mountains and are proud of it.
 
@@ -38,7 +38,7 @@ The people of the city are mostly servants of the two courts and the temple, the
 
 When the High King is also the king of Asturath, Lezkora has one court and one master. When he is not, the city holds two, and it holds two now. The High King, [Ularrek Garrundeta]{.name data-type="being/npc"}, is an old lord of the high valleys whom the electing council chose because each of the greater candidates could block the others. He holds his court in the High Hall. The king of Asturath, [Alzemo Zolduregi]{.name data-type="being/npc"}, holds his in the castle at the north end, so the High King lives in another king's city, passes through that king's gate and eats bread carried up that king's road.
 
-The two courts are courteous to each other. The arrangement is old, the High King owes the city nothing beyond the price of what he eats, and the king of Asturath gains from having the crown's court on his plateau. The lords of the lowlands like it less. A High King from Lienrik lives at Lezkora as the guest of the king of Asturath, and every lord who comes up for an election passes through a gate kept by Asturath's man, with only twelve sworn men behind him.
+The two courts are courteous to each other. The arrangement is old, the High King owes the city nothing beyond the price of what he eats, and the king of Asturath gains from having the crown's court on his plateau. The lords of the lowlands like it less. A High King from Lyenrik lives at Lezkora as the guest of the king of Asturath, and every lord who comes up for an election passes through a gate kept by Asturath's man, with only twelve sworn men behind him.
 
 ## The Defense
 

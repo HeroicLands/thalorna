@@ -16,7 +16,7 @@ Set beside the archived record, a sheet that agrees word for word shows the proc
 
 ## See Also
 
-[[affiliation-tharivaan|Thári'vaan]]
+[[affiliation-tharivaan|Thári-vaan]]
 : the custodians, and the Seasonal Recitations
 
 [[lore-klhrsnctrs|The Sanctuaries of Kalihara]]

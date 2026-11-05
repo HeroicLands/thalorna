@@ -3,7 +3,7 @@ shortcode: tzomalchalix
 name: {full: The Sacred Foundation, kiichek: [Ts'omal Ch'alish]}
 type: place
 subType: site
-description: "The holiest site in Ki'ich'chik: the walled precinct at the heart of Kul'taq'an around the volcanic vent where P'iqal Kul'qat first breathed the world into being, crowned by the Ts'ultel Ch'alish and seat of the Q'emul Tq'an."
+description: "The holiest site in Kì'ìch'chik: the walled precinct at the heart of Kul'taq'an around the volcanic vent where P'iqal Kul'qat first breathed the world into being, crowned by the Ts'ultel Ch'alish and seat of the Q'emul Tq'an."
 tags: []
 data: {demonym: null, lore: [], parents: [ixilankulrgn], population: 0, packFolder: ixilankul}
 
@@ -12,7 +12,7 @@ data: {demonym: null, lore: [], parents: [ixilankulrgn], population: 0, packFold
 
 ## Overview
 
-The pilgrims smell the precinct before they reach its gate. A faint warm breath, damp and sharp like struck flint, drifts down the streets of [[place-kultaqan|Kul'taq'an]] on still mornings, and the crowd moving toward the center of the city goes quiet when it meets it. Ts'omal Ch'alish, the Sacred Foundation, is the walled precinct at the heart of Kul'taq'an in [[affiliation-ixilankul|Ish'ilankul]], built around an ancient volcanic vent from which warm, mineral-laden vapor still rises. It is the holiest site on the [[place-kiichchik|Ki'ich'chik Continent]] and the supreme destination of its pilgrims. The priesthood teaches that the vapor is the living breath of [[lore-piqalkulqatdty|P'iqal Kul'qat]], the creator, who first breathed the world into existence here at the dawn of the [First Age]{.name data-type="lore/cosmology"}.
+The pilgrims smell the precinct before they reach its gate. A faint warm breath, damp and sharp like struck flint, drifts down the streets of [[place-kultaqan|Kul'taq'an]] on still mornings, and the crowd moving toward the center of the city goes quiet when it meets it. Ts'omal Ch'alish, the Sacred Foundation, is the walled precinct at the heart of Kul'taq'an in [[affiliation-ixilankul|Ish'ilankul]], built around an ancient volcanic vent from which warm, mineral-laden vapor still rises. It is the holiest site on the [[place-kiichchik|Kì'ìch'chik Continent]] and the supreme destination of its pilgrims. The priesthood teaches that the vapor is the living breath of [[lore-piqalkulqatdty|P'iqal Kul'qat]], the creator, who first breathed the world into existence here at the dawn of the [First Age]{.name data-type="lore/cosmology"}.
 
 ## Inside the Wall
 
@@ -28,7 +28,7 @@ The **Steward of the Sacred Foundation** keeps the estates of the precinct: the 
 
 ## The Pilgrimage
 
-Every Ki'ich'chik person, from the highest Ts'enmah to the lowest bound laborer, is expected to make the pilgrimage to Ts'omal Ch'alish at least once. A pilgrim arrives at a hostel, is fed from the Steward's stores for three days, and on the third morning goes in through the eastern gate with an offering of cloth, cacao or blood and stands in the court at the foot of the stair. The priests at the gate tell each newcomer what is at stake: to have breathed the breath of creation in the shadow of the Ts'ultel Ch'alish is to have touched the divine, and to die without making the journey is to face the gods with an incomplete soul.
+Every Kì'ìch'chik person, from the highest Ts'enmah to the lowest bound laborer, is expected to make the pilgrimage to Ts'omal Ch'alish at least once. A pilgrim arrives at a hostel, is fed from the Steward's stores for three days, and on the third morning goes in through the eastern gate with an offering of cloth, cacao or blood and stands in the court at the foot of the stair. The priests at the gate tell each newcomer what is at stake: to have breathed the breath of creation in the shadow of the Ts'ultel Ch'alish is to have touched the divine, and to die without making the journey is to face the gods with an incomplete soul.
 
 The great festivals of the calendar fill Kul'taq'an to the horizon, and the Living Flame fills it most of all. The next falls at the winter solstice of 722, and the Steward is raising new hostels on the lower slopes for the hundreds of thousands of pilgrims expected for it.
 

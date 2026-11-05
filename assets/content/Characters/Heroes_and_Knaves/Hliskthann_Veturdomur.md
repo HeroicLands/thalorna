@@ -1,6 +1,6 @@
 ---
 shortcode: hlskthnvtrdmr
-name: {full: Hliskthann Veturdómur, given: Hliskthann, clan: Veturdómur}
+name: {full: Hliskthann Veturdomur, given: Hliskthann, clan: Veturdomur}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -413,7 +413,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[hlskthnvtrdmr|Hliskthann Veturdómur]]{float=top-left}
+![[hlskthnvtrdmr|Hliskthann Veturdomur]]{float=top-left}
 
 Hliskthann stands 6'1" tall with a medium build. He has tanned weathered skin, dark brown hair, and hazel eyes. His features include a long face, a slightly upturned nose, a strong jawline, laugh lines around the mouth, and dark brows.
 

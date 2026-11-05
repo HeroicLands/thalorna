@@ -3,7 +3,7 @@ shortcode: tulishlumuqrgn
 name: {full: Oak Valleys, shuq: [tulish lumuq]}
 type: place
 subType: region
-description: "Oak-studded foothills, a great reed-marsh valley and the snow mountains beyond it—the acorn-and-basket country of the Shell-Bead People, behind the western coast of Northern Ki'ich'chik."
+description: "Oak-studded foothills, a great reed-marsh valley and the snow mountains beyond it—the acorn-and-basket country of the Shell-Bead People, behind the western coast of Northern Kì'ìch'chik."
 tags: [region]
 data:
   culture: shuqashclt
@@ -19,7 +19,7 @@ data:
 
 ## Overview
 
-The Oak Valleys (_tulish lumuq_) are the inland country of the [[affiliation-shuqash|Shuqash]], the Shell-Bead People, behind the coastal mountains of [[place-northkiichchik|Northern Ki'ich'chik]]. They are oak savanna on rolling foothills, around a great flat valley of reed marshes, lakes and rivers that runs north and south for weeks of walking, with a wall of snow mountains on its eastern side. About 120,000 people live in them, in hundreds of villages of a few dozen to a few hundred people, and they live on acorns.
+The Oak Valleys (_tulish lumuq_) are the inland country of the [[affiliation-shuqash|Shuqash]], the Shell-Bead People, behind the coastal mountains of [[place-northkiichchik|Northern Kì'ìch'chik]]. They are oak savanna on rolling foothills, around a great flat valley of reed marshes, lakes and rivers that runs north and south for weeks of walking, with a wall of snow mountains on its eastern side. About 120,000 people live in them, in hundreds of villages of a few dozen to a few hundred people, and they live on acorns.
 
 The valley people call themselves _tulishash_, the oak people. They speak the same tongue as the coast, name their children by the same sky and pay the same astronomer-priests, and the coast calls them _kowiqash_, acorn people, in a tone they notice.
 
@@ -55,5 +55,5 @@ The Oak Valleys pay no Northern Strand and have no watchers on headlands. Since 
 [[place-tulishwil|Tulishwil]]
 : Oak Place, the town of the Acorn Gathering
 
-[[place-northkiichchik|Northern Ki'ich'chik]]
+[[place-northkiichchik|Northern Kì'ìch'chik]]
 : the enclosing region

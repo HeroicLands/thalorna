@@ -36,7 +36,7 @@ Helonik
 : the same letters plus additions for _zh_ and the eastern _kh_, and length diacritics that formal writing feels free to omit. The scribe-houses of [Soridion]{.name data-type="place/settlement"} and [Kalumion]{.name data-type="place/settlement"} standardized it.
 
 [[skill-bethunlng|Bethuan]]
-: a recension that sets a length bar over a long vowel, writes _kh_ with a letter of its own, marks the pitch accent with an accent over the vowel, and has the **§ register-mark** that signals a shift between the masculine and feminine grammatical registers. Feminine-register texts are the more carefully pointed; temple copies are pointed throughout.
+: a recension that sets a length bar over a long vowel, writes _kh_ with a letter of its own, and marks the pitch accent with an accent over the vowel. Feminine-register texts are the more carefully pointed; temple copies are pointed throughout.
 
 [[skill-valtarlng|Valtari]]
 : in the northern and Helonik-facing ports, where a docker's tally is set down in Helonik letters by whoever is holding the stylus, with no orthography worth the name.

@@ -3,7 +3,7 @@ shortcode: tokchiaskargn
 name: {full: Tokchi Aska Region, en: [One Fire Region, Ts'uma No'tun Region]}
 type: place
 subType: region
-description: "The great river valley, the old eastern ranges, and the swamps and shell coasts of the south—the land of the One Fire, in Northern Ki'ich'chik."
+description: "The great river valley, the old eastern ranges, and the swamps and shell coasts of the south—the land of the One Fire, in Northern Kì'ìch'chik."
 tags: [region]
 data:
   demonym: Tokchili
@@ -19,7 +19,7 @@ data:
 
 ## Overview
 
-The Tokchi Aska Region is the land of [[affiliation-tokchiaska|Tokchi Aska]], the One Fire, and lies within [[place-northkiichchik|Northern Ki'ich'chik]] on the [[place-kiichchik|Ki'ich'chik Continent]]. It runs from the valley of the great river in the west, over the old forested ranges, down to the swamps and the shell coasts of the south. About 1,500,000 people live in it, more than in any other land of the north, and most of them live within a day's walk of a mound.
+The Tokchi Aska Region is the land of [[affiliation-tokchiaska|Tokchi Aska]], the One Fire, and lies within [[place-northkiichchik|Northern Kì'ìch'chik]] on the [[place-kiichchik|Kì'ìch'chik Continent]]. It runs from the valley of the great river in the west, over the old forested ranges, down to the swamps and the shell coasts of the south. About 1,500,000 people live in it, more than in any other land of the north, and most of them live within a day's walk of a mound.
 
 ## Geography
 
@@ -76,5 +76,5 @@ To the north the valley opens into [[place-hanalxilanrgn|Ha'nal Shi'lan]], the w
 [[place-koyalorgn|Shell Coast]]
 : the shell towns of the gulf
 
-[[place-northkiichchik|Northern Ki'ich'chik]]
+[[place-northkiichchik|Northern Kì'ìch'chik]]
 : the enclosing region

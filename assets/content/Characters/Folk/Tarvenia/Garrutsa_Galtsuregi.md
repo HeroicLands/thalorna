@@ -37,7 +37,7 @@ Garrutsa Galtsuregi is a 55-year-old man who stands 5'7" tall with a light build
 
 # Dossier {#dossier}
 
-Garrutsa Galtsuregi is a merchant of questionable legitimacy who has run contraband through the gates of [[place-ronetho|Ornetho]] for decades. He is a Freeman of the kingdom without a rank, and he runs the largest company of carters in the lowland city that is Lienrik's market and gate to Asturath.
+Garrutsa Galtsuregi is a merchant of questionable legitimacy who has run contraband through the gates of [[place-ronetho|Ornetho]] for decades. He is a Freeman of the kingdom without a rank, and he runs the largest company of carters in the lowland city that is Lyenrik's market and gate to Asturath.
 
 [[being-hldndrgn|Haldena Durgana]] has repeatedly prevented his operations and seized his contraband. He bribes her guard captain, [[being-zekudiorneti|Zekudi Ornetis]], and has offered her a bribe himself.
 
@@ -75,7 +75,7 @@ Haldena Durgana and any honest watchman.
 
 ### Affiliations
 
-- **[[affiliation-kingdmlnrk|Kingdom of Lienrik]]**: Garrutsa is a Freeman.
+- **[[affiliation-kingdmlnrk|Kingdom of Lyenrik]]**: Garrutsa is a Freeman.
 
 ## Plot Hooks
 

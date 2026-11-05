@@ -12,7 +12,7 @@ Nal'ik Ts'uqal is the Dreamer in Moonlight, the god of dreams, visions, prophecy
 
 ## The Gentle Power
 
-She is unique among the Itsani gods: she does not demand blood, and accepts cacao, flowers, incense and the spoken word. She is gentle where other deities are fearsome, and she teaches and illuminates where others demand sacrifice. Yet she governs the visions that shape the decisions of kings, the prophecies that alter wars and the dreams that give glimpses of possible futures. In Ki'i'chek understanding dreams are real perceptions of reality: alternate timelines, possible futures and the movements of the gods through the celestial spheres. Her celestial influence is strongest at the dark of the moon, when the boundary between waking and dream grows thin and visions are most reliable.
+She is unique among the Itsani gods: she does not demand blood, and accepts cacao, flowers, incense and the spoken word. She is gentle where other deities are fearsome, and she teaches and illuminates where others demand sacrifice. Yet she governs the visions that shape the decisions of kings, the prophecies that alter wars and the dreams that give glimpses of possible futures. In Kì'ì'chek understanding dreams are real perceptions of reality: alternate timelines, possible futures and the movements of the gods through the celestial spheres. Her celestial influence is strongest at the dark of the moon, when the boundary between waking and dream grows thin and visions are most reliable.
 
 ## Worship
 

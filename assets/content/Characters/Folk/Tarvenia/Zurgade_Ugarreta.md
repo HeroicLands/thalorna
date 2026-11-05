@@ -3,7 +3,7 @@ shortcode: zurgadeugarr
 name: {full: Zurgade Ugarreta, en: [Lord Zurgade of Thornhill Manor, Lord Zurgade]}
 type: being
 subType: npc
-description: The lord of Thornhill Manor on the Lienrik plain north of Valthari, known for his hunting, whose standing rests on the politics of the court and whose huntswoman is Zórila Dómivar.
+description: The lord of Thornhill Manor on the Lyenrik plain north of Valthari, known for his hunting, whose standing rests on the politics of the court and whose huntswoman is Zórila Dómivar.
 tags: []
 data:
   icon: icon-person
@@ -37,9 +37,9 @@ Zurgade Ugarreta is a 33-year-old man who stands 5'11" tall with a heavy build. 
 
 # Dossier {#dossier}
 
-Zurgade Ugarreta is the lord of [[place-thornhillmnr|Thornhill Manor]], which he holds of the crown of Lienrik on the southern edge of the plain, a short ride north of [[place-valthari|Valthari]]. He is a heavy, weathered man in his thirties, a keen hunter and a generous host, who hunts often and with guests, among them greater lords than himself.
+Zurgade Ugarreta is the lord of [[place-thornhillmnr|Thornhill Manor]], which he holds of the crown of Lyenrik on the southern edge of the plain, a short ride north of [[place-valthari|Valthari]]. He is a heavy, weathered man in his thirties, a keen hunter and a generous host, who hunts often and with guests, among them greater lords than himself.
 
-He relies on his huntswoman [[being-zoriladmvr|Zórila Dómivar]]. His standing rests on the politics of the Kingdom of Lienrik, and a change at court that threatens him threatens everyone at Thornhill. The High King has not come down to his hall for a month.
+He relies on his huntswoman [[being-zoriladmvr|Zórila Dómivar]]. His standing rests on the politics of the Kingdom of Lyenrik, and a change at court that threatens him threatens everyone at Thornhill. The High King has not come down to his hall for a month.
 
 ## Psyche
 
@@ -75,7 +75,7 @@ The old huntsman who wants Zórila replaced.
 
 ### Affiliations
 
-- **[[affiliation-kingdmlnrk|Kingdom of Lienrik]]**: Zurgade holds the manor as a lord with a fief in his own right, at the rung of Lesser Nobility.
+- **[[affiliation-kingdmlnrk|Kingdom of Lyenrik]]**: Zurgade holds the manor as a lord with a fief in his own right, at the rung of Lesser Nobility.
 
 ## Plot Hooks
 

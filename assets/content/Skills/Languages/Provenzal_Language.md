@@ -7627,7 +7627,7 @@ Provenzal is marked by a high proportion of sonorant consonants and open vowel p
 
 **Consonants:** The language favors liquid consonants (l, r), nasals (m, n), the voiced fricative v and z, and the affricate j. Hard stops are softened in connected speech—intervocalic stops often become fricatives or nasals (Vilari _Arka_ becomes Provenzal _Arva_). The language shows no clear uvular fricatives or emphatic consonants. Word-final consonants are rare, often elided in casual speech.
 
-**Vowels:** Provenzal employs five primary vowels. Nasal vowels are phonemic, particularly in words borrowed from or influenced by Élavendri speech. Diphthongs are common (ai, ei, oi, au, ou) and serve both phonetic and expressive purposes.
+**Vowels:** Provenzal employs five primary vowels. Speakers often color a vowel through the nose, particularly in words borrowed from or influenced by Élavendri speech. The coloring is optional and never tells two words apart, and the plain vowel is always correct. Diphthongs are common (ai, ei, oi, au, ou) and serve both phonetic and expressive purposes.
 
 **Prosody:** The language favors a rising intonation at phrase boundaries, creating a naturally questioning, inviting quality. Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], and Provénzian favors short words, so it often lands at the front (FA-ris, AR-vel).
 
@@ -7717,7 +7717,7 @@ _Ziromon_ is a general arrangement; _zirotal_ keeps its precedence and room-orde
 
 Provenzal is written in the [[skill-semrnscrpt|Semaron]], the Vilérian alphabet, which is the common script of [[place-aureldirgn|Aureldia]] and is used across the region by tongues that share no descent with one another. Local scribal traditions have developed distinctive letterforms, and a flowing, decorative hand is conventional for poetry and formal documents.
 
-The borrowing shows where the letters run out. The Semaron sets one sign to one sound and has no sign for a nasal vowel, so Provenzal's phonemic nasal vowels arrived with nothing of their own to be written in. Provenzal scribes set the imperial curl above a vowel to show a nasal; the curl belongs to the Semaron spelling, and the transliteration on these pages writes no nasal vowels. A Vilérian reading a Provenzal page therefore reads every nasal as a long vowel, which is the most frequent misreading in cross-border correspondence and the reason a careful Provenzal clerk spells a nasal out in full whenever the letter is bound for an imperial reader.
+The borrowing shows where the letters run out. The Semaron sets one sign to one sound and has no sign for a nasal vowel, so Provenzal's nasal coloring arrived with nothing of its own to be written in. Provenzal scribes set the imperial curl above a vowel to show a nasal; the curl belongs to the Semaron spelling, and the transliteration on these pages writes no nasal vowels. A Vilérian reading a Provenzal page therefore reads every nasal as a long vowel, which is the most frequent misreading in cross-border correspondence and the reason a careful Provenzal clerk spells a nasal out in full whenever the letter is bound for an imperial reader.
 
 True literacy is confined to the clergy, professional scribes, and perhaps a third of the nobility (courtly culture values refinement, and literate lords are admired, but many still rely on personal secretaries). Provénzia's commercial orientation means that merchant guildsmen often possess functional literacy—enough to recognize trade marks, prices, and simple labels—but even wealthy traders rely on scribes and solicitors for contracts, correspondence, and formal documents. The vast majority of the population cannot read or write. The language's close association with poetry and song means that many non-literate speakers can recite and compose in Provenzal through oral tradition alone.
 
@@ -7843,7 +7843,7 @@ ORDER BY position
 
 Its words are written in the setting's one guide; see [[doc-prnncthlrn|Pronouncing Thalorna]].
 
-The nasal vowels are the tongue's own. Wherever the ancient tongue set an `n` between two vowels, the `n` fell and left the vowel before it nasal: the ancient _yunakos_, a recruit, is _joache_, said in three syllables. The words borrowed from Élavendri, whose own nasals are written with an `n`, reinforced the sound.
+The nasal coloring is the tongue's own, and it is optional: the plain vowel is always correct. Wherever the ancient tongue set an `n` between two vowels, the `n` fell and left the vowel before it nasal: the ancient _yunakos_, a recruit, is _joache_, said in three syllables. The words borrowed from Élavendri, whose own nasals are written with an `n`, reinforced the sound.
 
 ### Word edges
 

@@ -1,14 +1,14 @@
 ---
 shortcode: annaljenshou
-name: {full: The Annal of Jenshou, tant: [Jenshou Nie Chou]}
+name: {full: The Annal of Jenshou, tant: [Jenshou Nye Chou]}
 type: lore
 subType: literature
-description: "The first nine years of a district annal kept under the Houweng Emperor by the Tanchei recorder of Jenshou, a river town of nine channels: the corvée taken upriver to raise a Warlord's ancestral hall, the dikes left unmended, the flood of the seventh year written with the verb the Warlord's office required and the one it did not, the magistrate given Ruising, the recorder's note at the end of the reign, and the two readings the schools still argue."
+description: "The first nine years of a district annal kept under the Houweng Emperor by the Tanchei recorder of Jenshou, a river town of nine channels: the corvée taken upriver to raise a Warlord's ancestral hall, the dikes left unmended, the flood of the seventh year written with the verb the Warlord's office required and the one it did not, the magistrate given Rwising, the recorder's note at the end of the reign, and the two readings the schools still argue."
 tags: [draft, tantsou]
 data:
   culture: tantsouclt
   packFolder: settinglore
-  form: nie chou
+  form: nye chou
   subjects:
     - lore-tanchei
     - lore-tseising
@@ -25,13 +25,13 @@ data:
 # terran_analog: "The Spring and Autumn Annals, whose verdict lies in the choice of one verb, and the Zuo and Gongyang commentaries that explain the choice; Sima Qian's remark set after the record; the dike-and-corvée annals of the river provinces. Departs: the recorder speaks once, at the end of a reign, and the schools that read her are split over whether her register told the truth or proved that it could not."
 ---
 
-**The Annal of Jenshou** is the year record (_nie chou_) of [Jenshou]{.name data-type="place/settlement"}, "Nine Waters", a district town on the central rivers where a great river breaks into nine channels across its own silt before it joins again below the town. The annal covers the reign of [the Houweng Emperor]{.name data-type="being/npc"}, an emperor of a dynasty long since passed to another house, and it was kept by the district's [[lore-tanchei|Tanchei]] recorder, known in the schools, as in the district register, as [Second Daughter of the Archivist of the Kuo Clan]{.name data-type="being/npc"}, near Jenshou. The Tanchei schools set its first nine years to every student in the first year of study, as the model of the exact word, and the text below is those nine years, the recorder's note written when the reign ended, and the gloss the schools teach with them.
+**The Annal of Jenshou** is the year record (_nye chou_) of [Jenshou]{.name data-type="place/settlement"}, "Nine Waters", a district town on the central rivers where a great river breaks into nine channels across its own silt before it joins again below the town. The annal covers the reign of [the Houweng Emperor]{.name data-type="being/npc"}, an emperor of a dynasty long since passed to another house, and it was kept by the district's [[lore-tanchei|Tanchei]] recorder, known in the schools, as in the district register, as [Second Daughter of the Archivist of the Kwo Clan]{.name data-type="being/npc"}, near Jenshou. The Tanchei schools set its first nine years to every student in the first year of study, as the model of the exact word, and the text below is those nine years, the recorder's note written when the reign ended, and the gloss the schools teach with them.
 
-An annal is written in fixed verbs, and each verb carries a verdict. A flood that tops a sound bank _comes_, and is heaven's allotment; a bank that fails _opens_, and a bank fails only where it was not kept. A petition to an office is _received_ when it is logged and _answered_ when it is acted on. A death by the knife is _Ruising_ when a court orders it and _Tseising_ when a person chooses it, and the ledger records the two differently. A gift is _entered to his credit_ only when the recorder holds it was given and not paid. The rendering keeps each verb the same wherever it stands, so that each verdict stays where the recorder put it. Like every annal in the empire, this one writes no fourth year: four belongs to no domain, and an official record calls it "the year after the third". The annal names the months as the calendar does: Juiyou the Month of Festivals, Mouyou of Wood, Hoyou of Fire, Houyou of Balance, Touyou of Earth, Jingyou of Metal, Shouyou of Water, Wengyou of Winds, Youjui of the Moon, Chiaoyou of Winter, Zhenyou of Snow and Chenyou of Frost.
+An annal is written in fixed verbs, and each verb carries a verdict. A flood that tops a sound bank _comes_, and is heaven's allotment; a bank that fails _opens_, and a bank fails only where it was not kept. A petition to an office is _received_ when it is logged and _answered_ when it is acted on. A death by the knife is _Rwising_ when a court orders it and _Tseising_ when a person chooses it, and the ledger records the two differently. A gift is _entered to his credit_ only when the recorder holds it was given and not paid. The rendering keeps each verb the same wherever it stands, so that each verdict stays where the recorder put it. Like every annal in the empire, this one writes no fourth year: four belongs to no domain, and an official record calls it "the year after the third". The annal names the months as the calendar does: Jwiyou the Month of Festivals, Mouyou of Wood, Hoyou of Fire, Houyou of Balance, Touyou of Earth, Jingyou of Metal, Shouyou of Water, Wengyou of Winds, Youjwi of the Moon, Chyauyou of Winter, Zhenyou of Snow and Chenyou of Frost.
 
 ## Year 1 of the Houweng Emperor
 
-The Son of Heaven received the Mandate in Juiyou. The district entered it at the Festival of Harmonious Lei. Eleven thousand two hundred households were counted at the reading.
+The Son of Heaven received the Mandate in Jwiyou. The district entered it at the Festival of Harmonious Lei. Eleven thousand two hundred households were counted at the reading.
 
 The Warlord of the province confirmed the magistrate of Jenshou in his post: [Second Son of the Commander of the Hou Clan]{.name data-type="being/npc"}, [[lore-wohou|Wohou]], near the provincial seat.
 
@@ -41,7 +41,7 @@ The dikes of the nine channels were mended in Touyou by the district corvée, on
 
 The harvest was nine-tenths of a full measure. The granaries were sound at the summer count.
 
-At the testing in the tenth year of age, two children of the district were found to have the gift: a daughter of the ferryman's house at the third channel and a son of a potter of the lower town. They were entered as [[lore-wanduo|Wanduo]] and taken to the compound of the Warlord's house in the same season.
+At the testing in the tenth year of age, two children of the district were found to have the gift: a daughter of the ferryman's house at the third channel and a son of a potter of the lower town. They were entered as [[lore-wanduo|Wandwo]] and taken to the compound of the Warlord's house in the same season.
 
 At the Festival of the Dead the district burned spirit money to the measure of the year before. No household was entered in arrears.
 
@@ -51,17 +51,17 @@ The dikes were mended in Touyou by the district corvée, one thousand and forty 
 
 In Hoyou a fire in the lower town took forty-one houses. The cause was a brazier left lit at the shrine of a dyer's house. The dyer was fined. His household's tablets were saved and carried out first, before the cloth.
 
-A Shuonong of the river trade was judged for weights that ran light, and his goods were confiscated to the district stores. It is entered.
+A Shwonong of the river trade was judged for weights that ran light, and his goods were confiscated to the district stores. It is entered.
 
 The harvest was a full measure.
 
-In Youjui a red light was seen over the river at the ninth channel on three nights. The Tanchei read it as the Bureau of Night Counsel at work and nothing more. It is entered.
+In Youjwi a red light was seen over the river at the ninth channel on three nights. The Tanchei read it as the Bureau of Night Counsel at work and nothing more. It is entered.
 
 The heron raised two young on the roof of the magistrate's hall.
 
 ## Year 3 of the Houweng Emperor
 
-In Juiyou the ground shook for the time it takes to say the five elements. The bell of the district hall rang without a hand. One house fell in the upper town and nobody was in it.
+In Jwiyou the ground shook for the time it takes to say the five elements. The bell of the district hall rang without a hand. One house fell in the upper town and nobody was in it.
 
 After the shaking one boundary-stone on the Tablet Bank was found leaning toward the river. It was set upright before witnesses and its seal renewed.
 
@@ -119,21 +119,21 @@ On the twentieth day the river came, and the Tablet Bank opened at the stone aft
 
 The three upper villages were under the water by evening, and the upper town by midnight. The lower town stood on its mound and was not reached. The water lay on the terraces for eleven days.
 
-Of the persons of the three upper villages and the upper town, two thousand six hundred and ten were not found at the count in Wengyou. Of these, one thousand nine hundred and forty were Nouwen, five hundred and twenty Tsaihuo, one hundred and three Shuonong, and forty-seven Nuitsou of the households that held them.
+Of the persons of the three upper villages and the upper town, two thousand six hundred and ten were not found at the count in Wengyou. Of these, one thousand nine hundred and forty were Nouwen, five hundred and twenty Tsaihwo, one hundred and three Shwonong, and forty-seven Nwitsou of the households that held them.
 
 One hundred and forty lines of the district were found with no heir living. Their shrines were under the water. Their tablets that were recovered, four hundred and six, were carried to the district hall.
 
 The harvest of the upper terraces was nothing. The harvest of the lower terraces was half a measure. The district granaries were opened in Wengyou and were empty by Chenyou.
 
-In Chiaoyou the Warlord's court judged the loss of the Tablet Bank. The magistrate of Jenshou, Second Son of the Commander of the Hou Clan, answered for the dike of his district, and was given Ruising. His second was the commander of the district guard. His last record was burned at the district hall. His tablet was set in the hall of his clan at the provincial seat.
+In Chyauyou the Warlord's court judged the loss of the Tablet Bank. The magistrate of Jenshou, Second Son of the Commander of the Hou Clan, answered for the dike of his district, and was given Rwising. His second was the commander of the district guard. His last record was burned at the district hall. His tablet was set in the hall of his clan at the provincial seat.
 
 At the Festival of the Dead the district burned spirit money to one-third of the measure of the year before. Nine hundred and twelve households were entered in arrears.
 
 ## Year 8 of the Houweng Emperor
 
-The Warlord of the province sent nine thousand measures of grain from the provincial granaries to Jenshou in Juiyou. It is entered to his credit.
+The Warlord of the province sent nine thousand measures of grain from the provincial granaries to Jenshou in Jwiyou. It is entered to his credit.
 
-A new magistrate came from the provincial seat in Juiyou: [Fourth Son of the Treasurer of the Zhowou Clan]{.name data-type="being/npc"}, Wohou. The Warlord confirmed him.
+A new magistrate came from the provincial seat in Jwiyou: [Fourth Son of the Treasurer of the Zhowou Clan]{.name data-type="being/npc"}, Wohou. The Warlord confirmed him.
 
 The four hundred and six tablets of the lines with no heir are fed at the district hall from the district stores, at every death-day and at the Festival of the Dead. The cost is entered to the district.
 
@@ -159,7 +159,7 @@ _The annal of Jenshou continues to the seventeenth year of the reign, when the H
 
 The recorder of Jenshou says:
 
-I have kept the annal of this district for the seventeen years of the Houweng Emperor, and my father kept it for the reign before, and his father before him. The house of the Kuo Clan has written the year of Jenshou for nine reigns. Not one year is missing.
+I have kept the annal of this district for the seventeen years of the Houweng Emperor, and my father kept it for the reign before, and his father before him. The house of the Kwo Clan has written the year of Jenshou for nine reigns. Not one year is missing.
 
 In the seventh year an officer of the Warlord's court came down the river to the district hall, while the water was still on the terraces, and asked to see the entry for the flood before it was sealed. He asked that the river be written as having come, since a flood is heaven's allotment to a district and it is not for a district to argue with its allotment. I showed him the entry. The river is written as having come. He sealed it with the court's seal and mine.
 
@@ -187,7 +187,7 @@ Both readings note what the annal does not. The Warlord's ancestral hall is ente
 : the scholars who keep the registers and the annals
 
 [[lore-tseising|Law and Honor]]
-: Ruising, the ordered death, and the last record that is burned
+: Rwising, the ordered death, and the last record that is burned
 
 [[lore-ancstrwrshp|Ancestor Worship]]
 : the shrine, the tablets and a household's arrears at the Festival of the Dead
@@ -195,7 +195,7 @@ Both readings note what the annal does not. The Warlord's ancestral hall is ente
 [[lore-mandatehvn|Mandate of Heaven]]
 : the reign that names the year, and the slow review above it
 
-[[lore-wanduo|Wanduo]]
+[[lore-wanduo|Wandwo]]
 : the testing at ten, entered in every district's annal
 
 [[lore-clndrstrlgy|Calendar and Astrology]]

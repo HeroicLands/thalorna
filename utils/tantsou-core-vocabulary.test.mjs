@@ -80,7 +80,7 @@ test("Tantsou preserves its fixed syllables and unchanged compound constituents"
     const initials = language.fm.data.sounds.edges.find((e) => e.edge === "openConsonant").sounds;
     const finals = language.fm.data.sounds.finals.map((f) => f.final);
     assert.equal(initials.length, 20);
-    assert.equal(finals.length, 18);
+    assert.equal(finals.length, 22);
     const roots = new Map(
         words
             .filter((w) => initials.some((i) => finals.some((f) => i + f === w.form)))
@@ -376,12 +376,12 @@ test("Jurthati name-preservation repair retains old rows and native provenance",
             .digest("hex");
     assert.equal(
         digest(daughter.fm.data.words.slice(0, 339)),
-        "1160fc7f26359f2d1b0fe122ec2680cda10f403b80afd4c03bded19718a073d3",
+        "40d8af6955a65e81dfd25c07fa15c6165bc86dfa479d7bbf4b547c4a27d03082",
     );
     const { words: _words, roman: _roman, ...data } = daughter.fm.data;
     assert.equal(
         digest({ ...daughter.fm, data }),
-        "dcebeb789ac55e37ebdaf9d543ca188e66055078c943aa2ce9a830206af76b2b",
+        "52a3623f754a8f2c7db6550bf16b43b86b14f3f5356eea11e7a5ebc6c52ef29e",
     );
     assert.equal(
         digest(
@@ -390,7 +390,7 @@ test("Jurthati name-preservation repair retains old rows and native provenance",
                 "",
             ),
         ),
-        "af44695afdd0851948706002b8f731d69e7ca6a9a72423f23fe5497a82471f05",
+        "f5a4e212b9f34f869ff1991b918fa7b6a0022f0da96da57c49a3be2037cf7805",
     );
     for (const form of ["dun", "jun"])
         assert.deepEqual(daughter.fm.data.words.find((w) => w.form === form).source, {

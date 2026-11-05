@@ -28,7 +28,7 @@ The flat is the great danger, going and coming. The house adds its brine: the fl
 
 ## What Is Found There
 
-What the salt keeps is the treasure. Cloth that has kept its color sells in the south as a wonder, and the baskets, bowls and cord are like nothing woven in [[place-kiichchik|Ki'ich'chik Continent]]. The traders who know the house carry out what they can, and take nothing from the seated dead; they leave the ornaments where the salt has grown over them.
+What the salt keeps is the treasure. Cloth that has kept its color sells in the south as a wonder, and the baskets, bowls and cord are like nothing woven in [[place-kiichchik|Kì'ìch'chik Continent]]. The traders who know the house carry out what they can, and take nothing from the seated dead; they leave the ornaments where the salt has grown over them.
 
 ## See Also
 

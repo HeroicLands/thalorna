@@ -211,7 +211,12 @@ export function referenceWithPerformance(source, convert) {
         "ye",
     ]);
     const tokens = [];
-    for (const letter of source.normalize("NFD").toLowerCase()) {
+    // A glide w before o or i is the vowel u it glides from, as the converter reads it.
+    const glided = source
+        .normalize("NFD")
+        .toLowerCase()
+        .replace(/w(?=[oi])/gu, "u");
+    for (const letter of glided) {
         const last = tokens.at(-1);
         if (letter === "\u0300" && last?.letter === "i" && !last.signs.length) {
             // i with a grave is the front vowel ì, not a delivery sign

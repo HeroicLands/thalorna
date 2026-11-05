@@ -187,7 +187,7 @@ Have you heard what the Oak-Warden said to the Oak-Pupil?/
 
 ::: {.verse form=saunari lang=sina enc=sinaveldikkoenc work=grove}
 uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
-.terkata ovu vettise nuomiho terkata ovu hantel entel ulsa alpes/
+.terkata ovu vettise nwomiho terkata ovu hantel entel ulsa alpes/
 .ahi serkata ovu eikka sennevi ovu toimunu letta elki kessave ovu ehi uvi mavitos
 
 uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
@@ -633,7 +633,7 @@ uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
 Have you heard what the Oak-Warden said to the Oak-Pupil?/
 .Nothing this year. He died the autumn the oak dropped acorns, and Aulveira took him to Ollevikko./
 .Aelirosse says Olmasitti Ropelinto Torvelsa now, of the oak, and his name is one word longer./
-.[Ilevala Huomanto]{.name data-type="being/npc"}, who was the Oak-Pupil, says this one, and it is hers./
+.[Ilevala Hwomanto]{.name data-type="being/npc"}, who was the Oak-Pupil, says this one, and it is hers./
 .I have put four of the acorns in the ground by the water-court. They are grown when the child who watches us is a grandmother./
 .I will have a saying by then, or I will have four oaks.
 :::
@@ -642,7 +642,7 @@ Have you heard what the Oak-Warden said to the Oak-Pupil?/
 uvi kelsa ovu sorvel ortinno evakka oso kelsa sorvel saumikki/
 .aume iha toimunuho selkorota sorvel ortinno vekkanelo pehe torvel aimetti tunes erdavi aulveira onsa eho onsa ollevikkoho/
 .evatte aelirosse olmasitti ropelinto torvelsa insu penvai onsa evesi ilte uulse sirne/
-.sorvel saumikki ilevala huomanto tunes evatte onsa iha onsa saunarinu iha/
+.sorvel saumikki ilevala hwomanto tunes evatte onsa iha onsa saunarinu iha/
 .vaissa ehi sorvel aimettinu pemi melke raltiilevaho lervi onsaa entel kauve nìmme oso yinse onsa ehii tultasi/
 .eho ehi saunarinu eso sennaveho oha eho ehi torvel pemi
 :::

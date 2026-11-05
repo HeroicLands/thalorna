@@ -2,7 +2,7 @@
 shortcode: jadebead
 name: {full: Jade Bead, kiichek: ["Ha'nakel"]}
 type: miscgear
-description: "A drilled bead of green jade, passed by weight and color; the money of Ki'ich'chik lords."
+description: "A drilled bead of green jade, passed by weight and color; the money of Kì'ìch'chik lords."
 tags: [jewelry_cash]
 data: {icon: icon-coinsbdg, templatePriority: 0, packFolder: cash}
 sohl: {kbcat: cash, system: {weightBase: 0.015, valueBase: 40, qualityBase: 0, durabilityBase: 20}}

@@ -36,5 +36,5 @@ The floods leave rich silt on the bottomlands, and in spring the bottoms become 
 [[place-hanalxilanrgn|Ha'nal Shi'lan Region]]
 : the contested river frontier
 
-[[place-northkiichchik|Northern Ki'ich'chik]]
+[[place-northkiichchik|Northern Kì'ìch'chik]]
 : the northern nations

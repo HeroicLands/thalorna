@@ -14,30 +14,30 @@ data:
   governance:
     model: autocracy
     summary: >-
-      Held of the Emperor by patent by the Daozhuo Muwojai Chaiwo, who sits at Kowu and governs the mountain through his retainers, the headmen of its villages and the Weiju who keep the court's treasury.
+      Held of the Emperor by patent by the Dauzhwo Muwojai Chaiwo, who sits at Kowu and governs the mountain through his retainers, the headmen of its villages and the Weiju who keep the court's treasury.
     ranks:
       - level: 0
         title: Outlaw
         description: >-
-          One stripped of the Daozhuo's protection and put outside the mountain's law, with no appeal.
+          One stripped of the Dauzhwo's protection and put outside the mountain's law, with no appeal.
       - level: 1
         title: Subject
         description: >-
-          Lives or holds land under the Daozhuo of Muwojai.
+          Lives or holds land under the Dauzhwo of Muwojai.
       - level: 2
         title: Retainer
         description: >-
-          Serves the Daozhuo for a stipend in bales or a village held as a fief, and commands the domain's soldiers and the garrisons of its roads.
+          Serves the Dauzhwo for a stipend in bales or a village held as a fief, and commands the domain's soldiers and the garrisons of its roads.
       - level: 3
-        title: Shuizhuo
+        title: Shwizhwo
         description: >-
-          Holds one to three villages of the domain and owes the Daozhuo men in war.
+          Holds one to three villages of the domain and owes the Dauzhwo men in war.
       - level: 4
         title: Heir
         description: >-
-          The Daozhuo's named successor, who climbs the mountain for him when he cannot.
+          The Dauzhwo's named successor, who climbs the mountain for him when he cannot.
       - level: 5
-        title: Daozhuo
+        title: Dauzhwo
         description: >-
           Holds Zijai by the Emperor's patent, with his own army, justice and taxes.
     offices:
@@ -53,7 +53,7 @@ data:
 sohl: {system: {commonSkills: [jurthatlng]}}
 ---
 
-The Muwojai Domain, held by House Muwojai (Cedar Place), holds [[place-zijai|Zijai]] (Star Peak), the mountain beside the Emperor's own in the interior of the great island, by patent of the Emperor. Its lord is the Daozhuo [Muwojai Chaiwo]{.name data-type="being/npc"} (Mountain Warrior), sixty-one years old, who sits in the castle town of [[place-kowu|Kowu]] (Old Hall), population 3,200. The domain holds 42,000 people, is assessed at 30,000 bales a year, and musters 750 men; it keeps no fleet. Muwojai belongs to the loyalist bloc, and it holds every road that leads to the Emperor.
+The Muwojai Domain, held by House Muwojai (Cedar Place), holds [[place-zijai|Zijai]] (Star Peak), the mountain beside the Emperor's own in the interior of the great island, by patent of the Emperor. Its lord is the Dauzhwo [Muwojai Chaiwo]{.name data-type="being/npc"} (Mountain Warrior), sixty-one years old, who sits in the castle town of [[place-kowu|Kowu]] (Old Hall), population 3,200. The domain holds 42,000 people, is assessed at 30,000 bales a year, and musters 750 men; it keeps no fleet. Muwojai belongs to the loyalist bloc, and it holds every road that leads to the Emperor.
 
 ## The Land
 

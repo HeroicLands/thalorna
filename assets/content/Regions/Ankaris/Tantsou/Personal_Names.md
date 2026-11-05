@@ -7,7 +7,7 @@ description: "How the Tantsou are identified by clan, position and place, and ho
 data: {packFolder: tantsou, culture: tantsouclt}
 ---
 
-Most people in the [[affiliation-tantsouempr|Empire of Tantsou]] never have a name of their own. A personal name is an honor the empire grants for outstanding service, and until it is granted, a person is identified by clan, by position within the clan, and by place. The [[lore-nouwen|Nouwen]], [[lore-tsaihuo|Tsaihuo]] and [[lore-shuonong|Shuonong]] live and die that way, and so do most of the castes above them.
+Most people in the [[affiliation-tantsouempr|Empire of Tantsou]] never have a name of their own. A personal name is an honor the empire grants for outstanding service, and until it is granted, a person is identified by clan, by position within the clan, and by place. The [[lore-nouwen|Nouwen]], [[lore-tsaihuo|Tsaihwo]] and [[lore-shuonong|Shwonong]] live and die that way, and so do most of the castes above them.
 
 ## Identification Without a Name
 
@@ -24,10 +24,10 @@ A warrior's name speaks of power, speed and battle, and it is usually drawn from
 Zho Shou Teng Ja
 : "Dragon's Rain of Heavenly Arrows"
 
-Bui Ja Wuo Rao
+Bwi Ja Wuo Rau
 : "Ice Blade of Thunderous Battle"
 
-Weng Hen Rao Chai
+Weng Hen Rau Chai
 : "Wind Tiger Roars Across Thunder Mountain"
 
 ## Scholars' Names
@@ -40,12 +40,12 @@ Zhi Zhai Leng Cheng
 Teng Zho Leng Wuen
 : "Fifth Auspicious Star of the Celestial Dragon"
 
-Kuo Gwo Wou Teng
+Kwo Gwo Wou Teng
 : "Ancient Tortoise with the Celestial Platform"
 
 ## Two Names Earned
 
-A Wohou officer known for years as "Second Son of the Shield Bearer of the [Zhowou Clan]{.name data-type="affiliation/lineage"}, near [Tengmou]{.name data-type="place/settlement"}" led his troops to a victory that saved a province. His liege lord granted him the name [Weng Hen Rao Chai]{.name data-type="being/npc"}, "Wind Tiger Roars Across Thunder Mountain," for the fury of his charge, and he has signed nothing else since.
+A Wohou officer known for years as "Second Son of the Shield Bearer of the [Zhowou Clan]{.name data-type="affiliation/lineage"}, near [Tengmou]{.name data-type="place/settlement"}" led his troops to a victory that saved a province. His liege lord granted him the name [Weng Hen Rau Chai]{.name data-type="being/npc"}, "Wind Tiger Roars Across Thunder Mountain," for the fury of his charge, and he has signed nothing else since.
 
 A Tanchei scholar known as "Third Daughter of the Sage of the [Zhi Zhai Clan]{.name data-type="affiliation/lineage"}, near Weichai" observed and recorded a new star that her seniors had missed. She was granted the name [Zhi Zhai Leng Cheng]{.name data-type="being/npc"}, "Rising Bright Star Bird," for the discovery, and the star carries her name in the court registers.
 

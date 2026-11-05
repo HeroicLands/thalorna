@@ -11,13 +11,13 @@ data:
     - name: "Ithakan"
       definition: '"Keepers of What Was Left": the custodians of the Ithari works and of Thari''vaan'
       common: true
-    - name: "kaan'sili"
+    - name: "kaan-sili"
       definition: '"One who watches": a custodian in training, apprenticed at a sanctuary from childhood'
       common: true
-    - name: "kaan'vaar"
+    - name: "kaan-vaar"
       definition: '"One who holds": a custodian who performs the tending liturgies; also the observance of keeping inherited practice exactly'
       common: true
-    - name: "kaan'thari"
+    - name: "kaan-thari"
       definition: '"One who keeps what came before": a senior custodian of forty or fifty years'' service'
       common: true
     - name: "silkan"
@@ -26,7 +26,7 @@ data:
     - name: "sílhari"
       definition: '"Clear looking": the daily habit of attentive watching every Kaliharan keeps'
       common: true
-    - name: "vaan'ari"
+    - name: "vaan-ari"
       definition: '"Right tending": the care of the part of the world that is one''s own to tend'
       common: true
     - name: "vaarthari"
@@ -50,7 +50,7 @@ There are two kinds of Kaliharan and they are not much alike. The Kaliharan of t
 
 ## The Living Whole
 
-Kaliharan spirituality is not a religion in any sense an Ankarian theologian would recognize. There are no gods, no deities who answer prayers or grant blessings or require sacrifice, no afterlife, and no reward or punishment beyond death. There is [[affiliation-tharivaan|Thári'vaan]]—the Living Whole.
+Kaliharan spirituality is not a religion in any sense an Ankarian theologian would recognize. There are no gods, no deities who answer prayers or grant blessings or require sacrifice, no afterlife, and no reward or punishment beyond death. There is [[affiliation-tharivaan|Thári-vaan]]—the Living Whole.
 
 All things are connected: the canopy and the reef, the volcanic soil and the monsoon, the village and the birds that nest in its gardens, and the health of any part affects every other part. To a Kaliharan this is neither metaphor nor doctrine but observed fact, confirmed by several thousand years of very careful attention to a single island ecosystem; the suggestion that it is a matter of faith does not translate.
 
@@ -78,7 +78,7 @@ The Kaliharans admire in her the discipline of looking and the honesty of saying
 
 ## What the Island Keeps
 
-A Kaliharan can point to the things that hold the practice in place. **The sílhari account** is the record of its own corner that every Kaliharan begins to hold at six or seven and adds to for life, kept by memory and recited to the household. **The keepers' threads** (_kaan'sari'val_), the plaited palm-fiber cords a custodian receives at elevation, encode the line of teachers back to a founding custodian, and they are buried with their wearer. **The first records**, the carved slabs and inscribed plaques of the deepest sanctuary archives, bear a few of the Ithari's stone marks, each a sign that calls up, for a keeper who knows it, what the people were taught and the keepers hold in memory. **The held stones**, the bone-white pieces taken from works that have died, are kept at every sanctuary as samples of what becomes of the substance after a work ends.
+A Kaliharan can point to the things that hold the practice in place. **The sílhari account** is the record of its own corner that every Kaliharan begins to hold at six or seven and adds to for life, kept by memory and recited to the household. **The keepers' threads** (_kaan-sari-val_), the plaited palm-fiber cords a custodian receives at elevation, encode the line of teachers back to a founding custodian, and they are buried with their wearer. **The first records**, the carved slabs and inscribed plaques of the deepest sanctuary archives, bear a few of the Ithari's stone marks, each a sign that calls up, for a keeper who knows it, what the people were taught and the keepers hold in memory. **The held stones**, the bone-white pieces taken from works that have died, are kept at every sanctuary as samples of what becomes of the substance after a work ends.
 
 Beyond all of these stand the works themselves. They range from the great installations of the highlands to the small tending-stones a village keeps, and they are not sacred in the sense of being set apart. They are tended like an orchard.
 
@@ -93,13 +93,13 @@ Kalihara has no singers and no tellers by trade. Every Kaliharan recites, and th
 - [[lore-whatwasgiven|The Account of What Was Given]] is the first account a child of the interior hears, said by the eldest woman of the house at Dry-Turn before the child is given an account of her own: the people the Ithari found, what they gave without a word, and the morning the island woke to their absence. Its refrain is the line every Kaliharan of the interior knows: "It was not said. It was known."
 - [[lore-kalithread|The Saying of the Thread]] is a custodian's line said knot by knot as her keepers' thread is tied at her wrist, back to the keeper who received more in the night and in the morning had nobody to give it back to.
 - [[lore-handingaccount|The Handing of the Account]] is a dead woman's sílhari account said through by her daughter at the first Deepwater after the death, sixty years of one terrace that the lake has risen over.
-- [[lore-springtending|The Dawn Tending at the Spring]] is the sequence a kaan'vaar says over a spring-stone in the hour before sunrise, with its old words, the lines said of the water whatever the water is doing, and the close the village hears once, at a Last Tending.
+- [[lore-springtending|The Dawn Tending at the Spring]] is the sequence a kaan-vaar says over a spring-stone in the hour before sunrise, with its old words, the lines said of the water whatever the water is doing, and the close the village hears once, at a Last Tending.
 - [[lore-holdingbend|The Holding at the River Bend]] is an agreement held by a Vaarnei, between an Elder whom nothing answers and the bondservant her lineage's stone answers, and the dispute over the one word she chose.
 - [[lore-factortwice|The Factor Who Asked Twice]] is the quay tale Ilovanu tells a newcomer on the first evening, of the factor from Helionis who asked one question twice and then sat down and watched.
 
 ## Tending, Looking and Holding
 
-An ordinary Kaliharan keeps the three observances. _[Sílhari]{.name data-type="lore/custom"}_ is the daily looking: a few minutes at dawn at the insects in a garden, an hour at dusk at a flock returning, one full day a season at a stretch of forest or shore. _[Vaan'ari]{.name data-type="lore/custom"}_ is the tending of the part that is one's own, whether it is a household garden, a grove, a reef or a terrace a lineage has worked for thirty generations. _[Kaan'vaar]{.name data-type="lore/custom"}_ is the holding of inherited practice by exact repetition, careful teaching and refusal of improvisation where it matters. Nobody prays and nobody makes an offering.
+An ordinary Kaliharan keeps the three observances. _[Sílhari]{.name data-type="lore/custom"}_ is the daily looking: a few minutes at dawn at the insects in a garden, an hour at dusk at a flock returning, one full day a season at a stretch of forest or shore. _[Vaan-ari]{.name data-type="lore/custom"}_ is the tending of the part that is one's own, whether it is a household garden, a grove, a reef or a terrace a lineage has worked for thirty generations. _[Kaan-vaar]{.name data-type="lore/custom"}_ is the holding of inherited practice by exact repetition, careful teaching and refusal of improvisation where it matters. Nobody prays and nobody makes an offering.
 
 The [Ithakan]{.name data-type="affiliation/order"} carry the same observances to the works. A custodian, trained from childhood in ecology, seasonal cycles, agriculture and the care of the ancient structures, performs [The Dawn Tending]{.name data-type="lore/custom"} in every weather: the hour before sunrise, a walk around a structure's perimeter, a sequence of words of which half the meaning is lost, a hand laid on its surface in a fixed order.
 
@@ -119,7 +119,7 @@ Each is for something concrete. Dry-Turn is for beginnings, Stillwater for the l
 
 ## Quiet Concern and the Severed
 
-Reward is a larger part to tend and a name in the line. A child chosen between eight and twelve goes to a sanctuary as a kaan'sili, "one who watches." A kaan'vaar who has held a sanctuary's tending for decades becomes a kaan'thari, and the rarest, the silkan, coordinate the tending of the whole island. A lineage that has kept its reach for thirty generations is a lineage others come to for its memory. Its Elder sits in the councils.
+Reward is a larger part to tend and a name in the line. A child chosen between eight and twelve goes to a sanctuary as a kaan-sili, "one who watches." A kaan-vaar who has held a sanctuary's tending for decades becomes a kaan-thari, and the rarest, the silkan, coordinate the tending of the whole island. A lineage that has kept its reach for thirty generations is a lineage others come to for its memory. Its Elder sits in the councils.
 
 Penalty runs the other way and is almost entirely quiet. The first rung is the concern shown to someone who takes no tending. A Bondservant is held in service to a lineage and answerable through its head. The Unkept are put outside the keeping of the Keepers of What Was Left, and in a society whose whole institutional life is custodial there is nothing else to belong to. The last rung is to be Severed: cut off from the lineages and from the structures' service, permitted to live, and spoken to by no one.
 
@@ -155,7 +155,7 @@ The belief reaches ethics, property and burial. A Kaliharan hands the tended par
 
 ## Reaching the Dead
 
-The living cannot affect the dead, and the dead do not reach the living. There is nothing to ask for. The dead are in the Whole, as the living are, and the part they tended is tended by someone else. What a Kaliharan can do for a person who has died is keep their account in the household's recitation and keep their part in order, and the cost is the tending itself. At the first Deepwater after a death the one who holds the dead person's part says the account through in the dead person's words, adding nothing, and closes it on an entry of her own, which ends, as every day's looking ends, "Tomorrow, at the same hour." Thári'vaan is not ancestor veneration and does not become one. In the ports a Kaliharan who follows one of the Aureldian faiths may have priests of the [[affiliation-selmoros|Faith of Sélmoros]] attend his dying, and the interior neither forbids nor shares it.
+The living cannot affect the dead, and the dead do not reach the living. There is nothing to ask for. The dead are in the Whole, as the living are, and the part they tended is tended by someone else. What a Kaliharan can do for a person who has died is keep their account in the household's recitation and keep their part in order, and the cost is the tending itself. At the first Deepwater after a death the one who holds the dead person's part says the account through in the dead person's words, adding nothing, and closes it on an entry of her own, which ends, as every day's looking ends, "Tomorrow, at the same hour." Thári-vaan is not ancestor veneration and does not become one. In the ports a Kaliharan who follows one of the Aureldian faiths may have priests of the [[affiliation-selmoros|Faith of Sélmoros]] attend his dying, and the interior neither forbids nor shares it.
 
 ## What a Person Owes
 
@@ -197,7 +197,7 @@ The sin is the silence. The works are failing, and the silkan who carry the coun
 [[affiliation-kalihara|Kalihara]]
 : the polity, its councils and its wardens
 
-[[affiliation-tharivaan|Thári'vaan]]
+[[affiliation-tharivaan|Thári-vaan]]
 : the Living Whole and what it asks
 
 [[place-ilovanu|Ilovanu]]

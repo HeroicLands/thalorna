@@ -12,7 +12,7 @@ data: {packFolder: kiichchik}
 
 "Nothing is worked on a day nobody has opened," the Master of Initiates tells each year's Tq'an'ik on the morning they are admitted. "You will learn the words for ten years. The words are the easy part." The rest of the training is the consequence of that warning.
 
-**Ch'um Ts'ena**, the Speaking of the Day, is the [[affiliation-itzanpnthn|Itsani Pantheon]] priesthood's account of how a working is made. Its name joins _ch'um-_, to speak, with _ts'ena_, the day. It is not a school beside the temple, and it has no mages of its own: it is what the one priesthood of [[place-kiichchik|Ki'ich'chik Continent]] knows about the power its rites carry, taught to every Ch'alishbal as part of the calendar. Its grammar is the calendar, its scale is the blood-ledger, and its proof is the arithmetic of the observatories.
+**Ch'um Ts'ena**, the Speaking of the Day, is the [[affiliation-itzanpnthn|Itsani Pantheon]] priesthood's account of how a working is made. Its name joins _ch'um-_, to speak, with _ts'ena_, the day. It is not a school beside the temple, and it has no mages of its own: it is what the one priesthood of [[place-kiichchik|Kì'ìch'chik Continent]] knows about the power its rites carry, taught to every Ch'alishbal as part of the calendar. Its grammar is the calendar, its scale is the blood-ledger, and its proof is the arithmetic of the observatories.
 
 ### The Same Potential, Cut by Time
 
@@ -20,7 +20,7 @@ The traditions of the world agree that one undifferentiated power runs through e
 
 The Itsani cut it by _time_. In their teaching the calendar is [[lore-ixilanchalixdty|Ish'ilan Ch'alish]]'s own language, written at the creation in the movements of the sky, and every moment is a place in that language. A working has a _when_ before it has a _what_. The same words, spoken by the same priest with the same blood, do one thing on a day the counts have opened to the god they address and nothing at all on a day they have not. The priesthood calls a working a _ch'umel_, a voice, because it is spoken into the day rather than cast upon the world.
 
-The partition cuts across both of the others. A rain-calling on a pyramid peak draws on what an Order _marendos_ would have to call water and air together, and a binding of the serpent spans air, earth and spirit at once. By the Order's doctrine these are impure workings, several currents braided into one act and timed to the hour, and they cannot be cast. The question does not arise in practice. The Arcane Order has no presence on Ki'ich'chik, and the priesthood, which regards the gods of Ankaris as pale reflections of the Ten, regards Ankarian magic, where it has heard of it at all, as speech without a day.
+The partition cuts across both of the others. A rain-calling on a pyramid peak draws on what an Order _marendos_ would have to call water and air together, and a binding of the serpent spans air, earth and spirit at once. By the Order's doctrine these are impure workings, several currents braided into one act and timed to the hour, and they cannot be cast. The question does not arise in practice. The Arcane Order has no presence on Kì'ìch'chik, and the priesthood, which regards the gods of Ankaris as pale reflections of the Ten, regards Ankarian magic, where it has heard of it at all, as speech without a day.
 
 ### The Four Counts
 

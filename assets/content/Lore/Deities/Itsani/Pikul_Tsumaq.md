@@ -18,7 +18,7 @@ It concluded that Ch'al Ts'umaq was a trap rather than a passage, and began pull
 
 ## Veneration
 
-The veneration around the owl is not a faith in the Itsani sense: it has no calendar, no temple, no blood-debt and no priesthood in the orthodox meaning of the word. The owl asks no blood. It can take a soul back before Ch'al Ts'umaq closes on it, and the family will owe. Its rarest gift is to intercept a soul at the boundary and hold it there, so that the soul returns whole and no longer counted among the living; these are the Threshold-Held, who walk on [[place-kiichchik|Ki'ich'chik Continent]] as [[being-tereb|terebu]].
+The veneration around the owl is not a faith in the Itsani sense: it has no calendar, no temple, no blood-debt and no priesthood in the orthodox meaning of the word. The owl asks no blood. It can take a soul back before Ch'al Ts'umaq closes on it, and the family will owe. Its rarest gift is to intercept a soul at the boundary and hold it there, so that the soul returns whole and no longer counted among the living; these are the Threshold-Held, who walk on [[place-kiichchik|Kì'ìch'chik Continent]] as [[being-tereb|terebu]].
 
 The adherents place themselves where the owl can act. Nothing the owl does is a working in the sense of [[lore-chumtsena|Ch'um Ts'ena]]: no priest speaks it, no day is opened for it and no blood pays for it.
 

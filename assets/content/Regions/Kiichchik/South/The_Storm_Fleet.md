@@ -63,7 +63,7 @@ sohl: {system: {commonSkills: [puqilchaqun]}}
 
 Under the temple of [[lore-puqilchaqundty|P'uqil Ch'akun]] at [[place-tzalamne|Ts'alam Ne']] lies a harbor basin that no merchant enters. In it the war canoes of the temple lie in a row, long and painted, each with a feathered serpent along its prow and its tail coiled at the stern, and their crews sleep in the long sheds behind them. When a temple's cargo leaves the port, two or three of them go with it.
 
-The **Storm Fleet**, _H'ulshok Ne'kal_ in Ki'i'chek, the storm on the sea, is the temple's fleet: the priestly navy of [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]]'s great port. It escorts the cargoes the temples own along the coast, watches every cargo that comes into the harbor for the priesthood's levy, and is the only power on the coast that the Ne'kalmah, the city's lord of the sea, cannot count.
+The **Storm Fleet**, _H'ulshok Ne'kal_ in Kì'ì'chek, the storm on the sea, is the temple's fleet: the priestly navy of [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]]'s great port. It escorts the cargoes the temples own along the coast, watches every cargo that comes into the harbor for the priesthood's levy, and is the only power on the coast that the Ne'kalmah, the city's lord of the sea, cannot count.
 
 ## The Shrines and the Day
 

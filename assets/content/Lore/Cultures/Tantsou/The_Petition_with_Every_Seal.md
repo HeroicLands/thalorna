@@ -23,7 +23,7 @@ data:
 # terran_analog: "The celestial bureaucracy of the late novels, in which a clever mortal or monkey turns heaven's procedures against it; the folk tales of petitions misaddressed to underworld offices and of ghost clerks; the trickster who wins by the letter of a rule. Departs: the trick is complete obedience to procedure, nobody in heaven is made a fool of, and what the trick lets through is no joke."
 ---
 
-**The Petition with Every Seal** is a hearth tale of the valley below [Tengmou]{.name data-type="place/settlement"}, told by the old women and now and then by the village [[lore-ancstrwrshp|Leigen]] on the night of the [Moon Festival]{.name data-type="lore/gathering"} in Youjui, when the lanterns are lit along the terraces to shore up the boundary the long nights wear thin. It is the valley's favorite tale for that night, and it is told with one lantern set on the floor in the middle of the listeners, which nobody may let go out until the tale is finished. Children who know it say the last line with the teller.
+**The Petition with Every Seal** is a hearth tale of the valley below [Tengmou]{.name data-type="place/settlement"}, told by the old women and now and then by the village [[lore-ancstrwrshp|Leigen]] on the night of the [Moon Festival]{.name data-type="lore/gathering"} in Youjwi, when the lanterns are lit along the terraces to shore up the boundary the long nights wear thin. It is the valley's favorite tale for that night, and it is told with one lantern set on the floor in the middle of the listeners, which nobody may let go out until the tale is finished. Children who know it say the last line with the teller.
 
 Its hero is [Fourth Son of the Ditch-Keeper of the Tui Clan]{.name data-type="being/npc"}, near Tengmou, a [[lore-nouwen|Nouwen]] of a poor house, and it is set in a year of the [White Ape]{.name data-type="lore/calendar"}, the year animal under which an unconventional petition is likelier to succeed. The tale is a trickster tale, and the Tantsou laugh at it, and its trick is that the fourth son broke no rule at all. The tellers differ over how many of the ten bureaus they walk the petition through; the telling below is a Tengmou grandmother's, who gives five, as her own grandmother did.
 
@@ -101,7 +101,7 @@ A clerk brought her the fourth son's petition and laid it on the very top of the
 
 She looked at it. And it was not a paper like the others on her desk.
 
-You know, because every temple clerk says so, that a small petition needs one seal and one bureau, and that a great one needs the seals of many. The great rites the Wanduo work, that turn a storm from a whole province, carry the seals of three bureaus, or five, and the countersignatures of their overseers, and that is why they are so hard to break. Now here was a paper from a ditch-keeper's house in the valley below Tengmou, written by a market scribe for one string of cash, and it carried the seal of every bureau in heaven but hers. Every one but hers. The Fire Bureau's, singed. The Night Counsel's, blurred. The Allocation's, with its note. The Court of the Dead's. The Bureau of Passage's, a year late. The Bureau of Unraveling's, upside down. All of them, each beside the words _not this office_.
+You know, because every temple clerk says so, that a small petition needs one seal and one bureau, and that a great one needs the seals of many. The great rites the Wandwo work, that turn a storm from a whole province, carry the seals of three bureaus, or five, and the countersignatures of their overseers, and that is why they are so hard to break. Now here was a paper from a ditch-keeper's house in the valley below Tengmou, written by a market scribe for one string of cash, and it carried the seal of every bureau in heaven but hers. Every one but hers. The Fire Bureau's, singed. The Night Counsel's, blurred. The Allocation's, with its note. The Court of the Dead's. The Bureau of Passage's, a year late. The Bureau of Unraveling's, upside down. All of them, each beside the words _not this office_.
 
 There had never been such a paper on her desk. There was no working in the whole of heaven that carried so much authority. The rites that hold back the rivers carried less. You could have moved a mountain with that paper, if the paper had asked to move a mountain.
 
@@ -144,7 +144,7 @@ Look at the lantern. It is still lit. Good. That is the end.
 [[lore-ancstrwrshp|Ancestor Worship]]
 : the tablet as an address, and the mail that goes astray
 
-[[lore-weizhuodty|Weizhuo]]
+[[lore-weizhuodty|Weizhwo]]
 : the Jade Sovereign, to whose desk everything goes that no bureau holds
 
 [[lore-celestlrdr|Celestial Order]]

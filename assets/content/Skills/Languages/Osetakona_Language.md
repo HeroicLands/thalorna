@@ -6418,10 +6418,10 @@ data:
     edges:
       - {edge: openCluster, sounds: [kw, ts, sk, st]}
       - {edge: closeConsonant, sounds: [n, s, k]}
-      - {edge: vowelPair, sounds: [ai, ie]}
+      - {edge: vowelPair, sounds: [ai]}
     clusters: {max: 3}
     stress: {two: first, longer: penultimate, mark: acute}
-    syllables: {vowelPairs: [ai, ie]}
+    syllables: {vowelPairs: [ai]}
   scope:
     cultures: [osetakonaclt]
     parents: [osetakonargn]
@@ -6586,7 +6586,7 @@ Nobody writes it. The Maple People keep their law in the memory of the remembere
 
 The Osetakona Language is long-worded and soft, and nothing in it is made with the lips. A speaker's mouth hardly closes, and a southern ear hears a run of open vowels broken by _t_, _k_, _n_, _r_ and _s_: _kahnisa_ is a longhouse and _kontiesa_ a clan mother.
 
-**The vowels.** _a_ leads, with _e_ and _i_ close behind and _o_ after them. There is no _u_. _ai_ runs as one sound, as in _eye_, and _ie_ runs as one, as in a quick _yeh_: _kontiesa_ is kon-TIE-sa. Any other two vowels side by side are said apart, so _ohiatse_, a river, is o-hi-A-tse.
+**The vowels.** _a_ leads, with _e_ and _i_ close behind and _o_ after them. There is no _u_. _ai_ runs as one sound, as in _eye_. Any other two vowels side by side are said apart, _ie_ among them: _kontiesa_ is kon-ti-E-sa, and _ohiatse_, a river, is o-hi-A-tse.
 
 **The consonants.** _t_, _k_, _n_, _r_, _s_, _h_, _w_ and _y_, with _ts_ and _kw_ each said as one sound. An _h_ before another consonant is a breath, as the spelling guide reads it: _kahnion_, a lake, is kah-NI-on.
 
@@ -6594,7 +6594,7 @@ The Osetakona Language is long-worded and soft, and nothing in it is made with t
 
 **Shapes and endings.** Most words have three or four syllables, many two, and the names run longer. A frequent word is short: _eno_ is I, _tsio_ you and _teha_ not. Many nouns open on _ka-_ or _o-_. A word ends on a vowel, most often _a_ or _e_, or on _n_, and now and then on _s_ or _k_.
 
-**What the Osetakona Language leaves out.** It has no _p_, _b_, _m_, _f_ or _v_, nothing at all made with the lips. It has no _d_, _g_, _l_, _j_ or _z_, no _u_, no _sh_, _ch_, _th_ or _kh_, and none of the ejective pops of Ki'i'chek. No word opens on two consonants except _kw_, _ts_, _sk_ and _st_, and four consonants never stand together.
+**What the Osetakona Language leaves out.** It has no _p_, _b_, _m_, _f_ or _v_, nothing at all made with the lips. It has no _d_, _g_, _l_, _j_ or _z_, no _u_, no _sh_, _ch_, _th_ or _kh_, and none of the ejective pops of Kì'ì'chek. No word opens on two consonants except _kw_, _ts_, _sk_ and _st_, and four consonants never stand together.
 
 ## Phonology
 
@@ -6616,7 +6616,7 @@ The Osetakona Language is long-worded and soft, and nothing in it is made with t
 
 **Vowels:** a, e, i, o
 
-**Vowel pairs:** ai and ie, each one syllable
+**Vowel pairs:** ai, one syllable; in ie both vowels are said
 
 A vowel before _n_ at the end of a syllable is often said through the nose, and the spelling writes it as the plain vowel and _n_: _ohsiren_, a name, is oh-SI-ren.
 

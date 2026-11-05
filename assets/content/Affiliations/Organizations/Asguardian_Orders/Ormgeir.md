@@ -3,7 +3,7 @@ shortcode: ormgeir
 name: {full: Ormgeir}
 type: affiliation
 subType: order
-description: "Poison-trained fighters of Velgrímur."
+description: "Poison-trained fighters of Velgrimur."
 tags: [draft]
 data:
   culture: nordheimnclt
@@ -43,4 +43,4 @@ sohl: {system: {commonSkills: []}}
 
 "You do not see them fight," a [[place-malagna|Malagna]] harbor guard says of the Serpentfangs. "You see the other man slow down."
 
-Ormgeir fight for [[affiliation-velgrimur|Velgrímur]] by poison as much as by blade, trained in the toxins that weaken a foe before the fight is joined. A member carries venom prepared at one of the hidden hovs in Malagna's ports and is relied on to finish what a blade alone would leave unsettled.
+Ormgeir fight for [[affiliation-velgrimur|Velgrimur]] by poison as much as by blade, trained in the toxins that weaken a foe before the fight is joined. A member carries venom prepared at one of the hidden hovs in Malagna's ports and is relied on to finish what a blade alone would leave unsettled.

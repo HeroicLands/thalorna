@@ -16,7 +16,7 @@ The Dead Mountain, Ts'ultel Ts'uqil, is the one mountain of [[place-ashcountry|t
 
 The plain below the mountain is ash glazed into glass, in long broad swathes where fire has been breathed across it, and the glass cracks underfoot like river ice. Tracks the size of a cart run across the ash, and the drag of a tail like a tree trunk beside them. Nothing hunts near the mountain except the dragon. The scorpion-things and the hairless packs that follow a party across the rest of the Ash Country turn back a day out.
 
-At the mouth of the cavern lie the tributes of a thousand years, in rows, and beside them the bones of those who brought them. Some of the tributes are things no one in [[place-kiichchik|Ki'ich'chik Continent]] can name, from lands across the sea.
+At the mouth of the cavern lie the tributes of a thousand years, in rows, and beside them the bones of those who brought them. Some of the tributes are things no one in [[place-kiichchik|Kì'ìch'chik Continent]] can name, from lands across the sea.
 
 ## Who Comes Here
 

@@ -250,6 +250,8 @@ function addSinaleVowels(add) {
         spelled.push({ from: first + last, last, letters: [first, last] });
         spelled.push({ from: acute[first] + last, last, letters: [first, "emphasis", last] });
     }
+    // A glide w is the vowel u it glides from: wo and wi spell the pairs uo and ui.
+    for (const last of "oi") spelled.push({ from: "w" + last, last, letters: ["u", last] });
     for (const [base, stressed] of Object.entries(acute)) {
         write(base, [base]);
         write(stressed, [base, "emphasis"]);

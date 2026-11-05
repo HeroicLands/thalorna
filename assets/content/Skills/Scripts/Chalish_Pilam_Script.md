@@ -3,7 +3,7 @@ shortcode: chlxplmscrpt
 name: {full: Ch'alish P'ilam Script, kiichek: [Ch'alish P'ilam]}
 type: skill
 subType: script
-description: "Ki'ich'chik writing: a common hand of simple glyphs, from the shaft wall to the scribe's vellum, and a ceremonial hand of pictures on temples and monuments."
+description: "Kì'ìch'chik writing: a common hand of simple glyphs, from the shaft wall to the scribe's vellum, and a ceremonial hand of pictures on temples and monuments."
 tags: []
 data: {icon: icon-speaking, templatePriority: null, packFolder: script}
 sohl:
@@ -19,11 +19,11 @@ sohl:
 # terran_analog: Adapted from Maya logosyllabic writing: word signs, CV syllable signs with silent echo vowels for closing consonants, glyph blocks and pictorial allographs. See Reference/Terran_Analogs.md for sources and explicit setting adaptations. The P'ilambal is the Maya aj ts'ib and the Ts'enbal the ah k'in.
 ---
 
-Ch'alish P'ilam—"the glyphs of Ch'alish," after **[[lore-ixilanchalixdty|Ish'ilan Ch'alish]]**, whom tradition credits with composing the first codex—is the writing of the [[place-kiichchik|Ki'ich'chik]] city-states. It has two hands: a **common hand** built from a small stock of simple signs, and a **ceremonial hand** that draws each sign as a picture. They share their readings and are not copies of one another. Nearly everyone knows a few signs, and a scribe knows almost all of them. A character needs the script and [[skill-kiichek|Ki'i'chek]] to read unfamiliar text; recognizing a familiar warning or tally is a narrower accomplishment.
+Ch'alish P'ilam—"the glyphs of Ch'alish," after **[[lore-ixilanchalixdty|Ish'ilan Ch'alish]]**, whom tradition credits with composing the first codex—is the writing of the [[place-kiichchik|Kì'ìch'chik]] city-states. It has two hands: a **common hand** built from a small stock of simple signs, and a **ceremonial hand** that draws each sign as a picture. They share their readings and are not copies of one another. Nearly everyone knows a few signs, and a scribe knows almost all of them. A character needs the script and [[skill-kiichek|Kì'ì'chek]] to read unfamiliar text; recognizing a familiar warning or tally is a narrower accomplishment.
 
 ## What the script records
 
-The script records meaning, not speech. A text says what happened or what was meant, and nobody in it is quoted word for word. Grammar is never written out: a Ki'i'chek tense, person or ending is carried by context, and the endings _-ok_ and _-bal_ are sounds a glyph may write but a reader usually supplies. Each glyph is a concept. Two or three glyphs together make a further concept, and the first is usually the head, with those after it modifying it, as Ki'i'chek puts an adjective after its noun: `MAN HIGH` is an elder or a chief, `HOUSE OUTSIDE` a village.
+The script records meaning, not speech. A text says what happened or what was meant, and nobody in it is quoted word for word. Grammar is never written out: a Kì'ì'chek tense, person or ending is carried by context, and the endings _-ok_ and _-bal_ are sounds a glyph may write but a reader usually supplies. Each glyph is a concept. Two or three glyphs together make a further concept, and the first is usually the head, with those after it modifying it, as Kì'ì'chek puts an adjective after its noun: `MAN HIGH` is an elder or a chief, `HOUSE OUTSIDE` a village.
 
 A glyph can also write its sound, and names are written this way. The roman transcription is where every spoken sound is set down, so that anyone can say a word; the script has no spelling of its own. Several glyphs can write one sound, and one word can be written by several different glyph runs.
 
@@ -98,7 +98,7 @@ Literacy is a sliding scale.
 
 The **P'ilambal**, scribe and painter, keeps genealogies, codices and the monuments that assert them. The **Ts'enbal**, priest of the sun, keeps the count of days. Both rank with the high nobility of a city-state such as [[affiliation-ixilankul|Ish'ilankul]], and their offices are hereditary in practice. Running text, calendrical tables and ceremonial inscriptions are the work of priests and scribes. Learned literacy and access to temple archives are sources of priestly and scribal power.
 
-**The northern nations do not use it.** [[affiliation-kelwanuk|Ish'bal Ki'ahk]], [[affiliation-teyumi|Ishtem Tsul]], [[affiliation-tenlaya|P'enqal Ch'akal]], [[affiliation-osetakona|Shik'ul Ch'akal]] and [[affiliation-tokchiaska|Tokchi Aska]] stand outside Ki'ich'chik society. They are largely oral, and they refuse Ki'ich'chik speech and writing alike. Ki'ich'chik scribes write about them as foreigners, and the script gives them no emblem glyphs.
+**The northern nations do not use it.** [[affiliation-kelwanuk|Ish'bal Ki'ahk]], [[affiliation-teyumi|Ishtem Tsul]], [[affiliation-tenlaya|P'enqal Ch'akal]], [[affiliation-osetakona|Shik'ul Ch'akal]] and [[affiliation-tokchiaska|Tokchi Aska]] stand outside Kì'ìch'chik society. They are largely oral, and they refuse Kì'ìch'chik speech and writing alike. Kì'ìch'chik scribes write about them as foreigners, and the script gives them no emblem glyphs.
 
 ## In play
 

@@ -18,7 +18,7 @@ Ch'al Ts'umaq is a labyrinth of chambers, trials and deceptions through which th
 
 The Ish'bal'ob priesthood of the [[affiliation-tzuqilixbal|Faith of Ts'uqil Ish'bal]] memorizes the funerary codices, and a soul whose family has engaged the priests to perform the correct rites has a far better chance of navigating the underworld. A family that can afford a full recitation buys its dead a guided passage, and a family that cannot buys a shortened one: the priests sell memory, not mercy. The Speaker of the Trials attends the body through the night after death, naming each chamber in the order the soul will meet it and each deception in the order it will be offered, while the family listens and does not speak.
 
-A person barred from the funerary rites is a Blood-Denied, whose soul is left to face the trials unguided, which the Ki'i'chek reckon the one sentence that outlives the body.
+A person barred from the funerary rites is a Blood-Denied, whose soul is left to face the trials unguided, which the Kì'ì'chek reckon the one sentence that outlives the body.
 
 ## The Sacred Pools
 

@@ -6,7 +6,7 @@ subType: language
 description: "The Bethuan mother tongue, whose grammar itself carries distinct feminine and masculine registers."
 tags: []
 data:
-  roman: "abcdefghijklmnoprstuwyzABCDEFGHIJKLMNOPRSTUWYZáéíóúëÁÉÍÓÚË0123456789-§vV"
+  roman: "abcdefghijklmnoprstuwyzABCDEFGHIJKLMNOPRSTUWYZáéíóúëÁÉÍÓÚË0123456789-vV"
   core: true
   family: skill-helonclng
   abbreviation: Beth.
@@ -664,7 +664,7 @@ Accent marks
 : the accent marks a stressed syllable the common rule would not choose, where the voice rises; feminine register texts are more carefully accentuated
 
 Gender register markers
-: Formal texts sometimes employ a distinctive punctuation mark (§) to indicate register shift; rare in modern usage
+: The words themselves carry a turn between the masculine and feminine registers; no mark is written for it
 
 **Literacy:** Bethuan literacy follows the same broad patterns as elsewhere on [[place-worldthlrn|Thalorna]]—the vast majority of the population cannot read or write. The priesthood maintains ancient texts in the feminine register, and temple scribes handle most written communication. Among the Bethuan nobility (30-50% literate), reading is valued as a mark of refinement, particularly for women of the ruling class. Guildsmen and merchants possess functional literacy at best, relying on professional scribes for contracts and record-keeping. Most citizens encounter the written word only through temple recitations and public proclamations. Both registers are understood through oral tradition, even by those who cannot read either.
 

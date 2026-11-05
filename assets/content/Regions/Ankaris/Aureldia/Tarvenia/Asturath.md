@@ -27,7 +27,7 @@ The weather follows the height. Winters are long and hard, and snow closes the p
 
 ## The Land and Its Roads
 
-Lezkora stands near the middle of the kingdom on a plateau ringed by cliffs, and the plateau road climbs to it from the south. A day below the plateau lies [[place-ardalis|Ardalis]], the iron town, and below Ardalis the road goes down out of the mountains to the lowlands of [[place-leonrik|Lienrik]]. North of Lezkora the high valleys open toward the summer meadows, and their flocks gather at [[place-tsaberis|Tsaberis]] each spring for the drive. At the kingdom's eastern edge [[place-kavrenath|Kávrenath]] watches the road toward the [[place-kervaron|Kervaron Spine]] and the imperial frontier, and above its valleys the pass of [[place-zurgando|Zurgando]] gives the companies a short road to the coast. The gorge below the plateau, [[place-horngorge|the Horn Gorge]], is where the legion died, and nobody uses it as a way through.
+Lezkora stands near the middle of the kingdom on a plateau ringed by cliffs, and the plateau road climbs to it from the south. A day below the plateau lies [[place-ardalis|Ardalis]], the iron town, and below Ardalis the road goes down out of the mountains to the lowlands of [[place-leonrik|Lyenrik]]. North of Lezkora the high valleys open toward the summer meadows, and their flocks gather at [[place-tsaberis|Tsaberis]] each spring for the drive. At the kingdom's eastern edge [[place-kavrenath|Kávrenath]] watches the road toward the [[place-kervaron|Kervaron Spine]] and the imperial frontier, and above its valleys the pass of [[place-zurgando|Zurgando]] gives the companies a short road to the coast. The gorge below the plateau, [[place-horngorge|the Horn Gorge]], is where the legion died, and nobody uses it as a way through.
 
 Most of the kingdom's people live in villages of a few hundred. A valley is a lord's holding, its villages are his, and its people meet in a village assembly to settle what concerns them all. Roads between valleys are mule paths, and the only roads a cart can use are the plateau road and the valley road to Kávrenath.
 
@@ -39,7 +39,7 @@ The companies are the third harvest. A young man of the valleys goes abroad unde
 
 ## Neighbors
 
-The lowlands of Lienrik lie to the south, and the two kingdoms need each other and dislike it: Lienrik's grain feeds the mountains, and Asturath's iron and soldiers are bought by Lienrik. The highlands of [[place-eskarath|Eskarath]] lie to the north, a people older than the Tarveni, with their own tongue and their own law. To the east the Kervaron belongs to the [[lore-aelendnppl|Áelendan]] clans in all but the Empire's paperwork, and beyond it lies the Empire.
+The lowlands of Lyenrik lie to the south, and the two kingdoms need each other and dislike it: Lyenrik's grain feeds the mountains, and Asturath's iron and soldiers are bought by Lyenrik. The highlands of [[place-eskarath|Eskarath]] lie to the north, a people older than the Tarveni, with their own tongue and their own law. To the east the Kervaron belongs to the [[lore-aelendnppl|Áelendan]] clans in all but the Empire's paperwork, and beyond it lies the Empire.
 
 ## Current Situation {#present}
 

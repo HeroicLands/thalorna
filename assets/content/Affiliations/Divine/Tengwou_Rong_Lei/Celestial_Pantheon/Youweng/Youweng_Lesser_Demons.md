@@ -95,17 +95,17 @@ Lesser demons possess corporeal form, but it is neither stable nor material in t
 
 The Tanchei have identified several broad classes of lesser demon, though they acknowledge that this taxonomy is incomplete and that the Youweng continuously generates new types:
 
-#### **Ledger-Gnawers** (Chounuoyo)
+#### **Ledger-Gnawers** (Chounwoyo)
 
 Lesser demons specialized in the corruption and destruction of celestial records. A ledger-gnawer will infiltrate archives, devour pages, or alter entries in order to obscure accounts or create false trails. They serve the Demon Lord [[lore-watsaidty|Watsai]], the Forger of False Records, though many operate independently. Mortals in league with ledger-gnawers often become scribes, monks, or bureaucratic officials—positions from which a demon can most effectively damage the celestial record-keeping apparatus.
 
-#### **Seal-Thieves** (Zhuorei)
+#### **Seal-Thieves** (Zhworei)
 
-Demons whose function is the theft, counterfeiting, and improper deployment of celestial seals and stamps. These beings understand bureaucratic authentication as a form of power and extract authority from the celestial system by acquiring documents or seal-implements. Seal-thieves are closely affiliated with [[lore-yozhuodty|Yozhuo]], the Custodian of Lost Seals, and access to Yozhuo's archive is typically controlled by seal-thieves who guard the infernal repository.
+Demons whose function is the theft, counterfeiting, and improper deployment of celestial seals and stamps. These beings understand bureaucratic authentication as a form of power and extract authority from the celestial system by acquiring documents or seal-implements. Seal-thieves are closely affiliated with [[lore-yozhuodty|Yozhwo]], the Custodian of Lost Seals, and access to Yozhwo's archive is typically controlled by seal-thieves who guard the infernal repository.
 
 #### **Threshold-Whispers** (Hameiyo)
 
-Demons who specialize in temptation, insinuation, and the exploitation of moral weakness. A threshold-whisper does not typically possess a mortal, but rather positions itself at the edge of consciousness—suggesting, encouraging, doubting. Over time, a persistent threshold-whisper can reshape a mortal's understanding of what is possible, what is permissible, what is necessary. They are favored agents for recruiting mortals into the [[affiliation-nuotsourui|Nuotsou Rui]], as their methods are more subtle than direct possession or coercion.
+Demons who specialize in temptation, insinuation, and the exploitation of moral weakness. A threshold-whisper does not typically possess a mortal, but rather positions itself at the edge of consciousness—suggesting, encouraging, doubting. Over time, a persistent threshold-whisper can reshape a mortal's understanding of what is possible, what is permissible, what is necessary. They are favored agents for recruiting mortals into the [[affiliation-nuotsourui|Nwotsou Rwi]], as their methods are more subtle than direct possession or coercion.
 
 #### **Possession-Spirits** (Nongyo)
 
@@ -115,9 +115,9 @@ Lesser demons specialized in the inhabitation and control of mortal vessels. A p
 
 Demons whose domain is the hidden spaces between records, the forgotten marginal notes in celestial documents, the erased corrections that still leave traces. An archive-shadow consumes the _substance_ of archives—not the visible text but the authority and coherence that holds a record system together. They are parasites on the celestial bureaucracy itself, and they are particularly valued by entities like Watsai who wish to poison the archive without leaving obvious evidence of tampering.
 
-#### **Entropy-Vermin** (Huensingyo)
+#### **Entropy-Vermin** (Hwensingyo)
 
-Lesser demons that serve the Demon Lord [[lore-nuohodty|Nuoho]] and embody his principle of annihilation without remainder. These beings specialize in the complete erasure of classified things—objects, persons, memories, administrative categories. Wherever an entropy-vermin feeds, what it consumes does not decompose or recycle. It is simply gone, falling back into the [Huenlei]{.name data-type="lore/cosmology"} as undifferentiated potential.
+Lesser demons that serve the Demon Lord [[lore-nuohodty|Nwoho]] and embody his principle of annihilation without remainder. These beings specialize in the complete erasure of classified things—objects, persons, memories, administrative categories. Wherever an entropy-vermin feeds, what it consumes does not decompose or recycle. It is simply gone, falling back into the [Hwenlei]{.name data-type="lore/cosmology"} as undifferentiated potential.
 
 #### **Wayward Spirits** (Douzhawo)
 
@@ -129,7 +129,7 @@ The vast majority of mortal encounters with the Youweng occur through lesser dem
 
 Direct bargains with lesser demons are possible but risky. A demon will agree to a bargain if the terms offer advantage—typically the mortal provides something the demon desires (access to records, a valuable host, contact with a person of influence) in exchange for the demon providing something the mortal needs (knowledge, power, aid in a criminal or transgressive act). The contract is typically unwritten and unenforceable by any power except the demon itself, which means the terms are whatever the demon claims they are. Mortals who bargain with lesser demons frequently discover that they have agreed to far more onerous terms than they understood, and repayment is extracted over years or even across generations of a family line.
 
-The **Nuotsou Rui** maintains the most sustained organized relationship with the lesser demons. Cult operatives include those who have been possessed by lesser demons and never wholly purged themselves, those who have made formal bargains for esoteric knowledge or power, and those who serve as intermediaries between the cult's mortal structure and the Youweng's demonic hierarchy. The cult provides the lesser demons with resources they value—records to corrupt, mortals to possess, opportunities to expand their influence—in exchange for aid in the cult's program of bureaucratic subversion.
+The **Nwotsou Rwi** maintains the most sustained organized relationship with the lesser demons. Cult operatives include those who have been possessed by lesser demons and never wholly purged themselves, those who have made formal bargains for esoteric knowledge or power, and those who serve as intermediaries between the cult's mortal structure and the Youweng's demonic hierarchy. The cult provides the lesser demons with resources they value—records to corrupt, mortals to possess, opportunities to expand their influence—in exchange for aid in the cult's program of bureaucratic subversion.
 
 Lesser demons can be exorcized through properly performed celestial rituals that invoke the authority of the Sun Bureaus and seal the boundaries between the classified cosmos and the Infernal Realms. However, such exorcisms require precise knowledge of celestial procedure and are most effectively conducted by trained members of the priesthood. Amateurs who attempt exorcism risk triggering a more violent demonic response or, alternatively, merely driving the demon temporarily away without achieving true expulsion. Some exorcized demons merely hide until the protection fades; others exact revenge on the mortals who sought to banish them.
 
@@ -138,16 +138,16 @@ Lesser demons can be exorcized through properly performed celestial rituals that
 [[affiliation-youweng|Youweng]]
 : The Demon Realm where the lesser demons dwell
 
-[[affiliation-henzhuo|Huenzhuo]], [[affiliation-watsai|Watsai]], [[affiliation-zhaosou|Zhaosou]], [[affiliation-nuoho|Nuoho]], [[affiliation-douyo|Douyo]]
+[[affiliation-henzhuo|Hwenzhwo]], [[affiliation-watsai|Watsai]], [[affiliation-zhaosou|Zhausou]], [[affiliation-nuoho|Nwoho]], [[affiliation-douyo|Douyo]]
 : The five Demon Lords who command lesser demon populations
 
-[[affiliation-yozhuo|Yozhuo]]
+[[affiliation-yozhuo|Yozhwo]]
 : The Custodian of Lost Seals, a unique intermediate power
 
 [[affiliation-tengwouronglei|Tengwou Rong Lei]]
 : The Celestial Bureaucracy whose failures spawned the lesser demons
 
-[[affiliation-nuotsourui|Nuotsou Rui]]
+[[affiliation-nuotsourui|Nwotsou Rwi]]
 : The mortal cult that traffics with lesser demons
 
 ## Outside the Ladder

@@ -3,7 +3,7 @@ shortcode: ilkaivesto
 name: {full: Ilkaivesto}
 type: place
 subType: settlement
-description: "The southern conclave of the Sinale in Ki'ich'chik, in the great swamp of the lowland below K'ushi Ish'bal's plateau, the last green country north of the wastes."
+description: "The southern conclave of the Sinale in Kì'ìch'chik, in the great swamp of the lowland below K'ushi Ish'bal's plateau, the last green country north of the wastes."
 tags: [village, swamp]
 data:
   demonym: null
@@ -14,7 +14,7 @@ data:
   culture: sinaleclt
 ---
 
-**Ilkaivesto**, the place of herons in the [[skill-sinalelng|Sinale language]], is the southernmost of the three conclaves the [[lore-flksinale|Sinale Folk]] keep in [[place-kiichchik|Ki'ich'chik Continent]]. It lies in the [[place-kuxiixbalrgn|K'ushi Ish'bal Region]], in the great swamp of the lowland east of the plateau, where the land falls away below the sacred lake into slow rivers and standing water. South of the swamp the waste of [[place-xelemixbalrgn|Shelem Ish'bal Region]] begins. Nobody outside it has counted the Sinale there.
+**Ilkaivesto**, the place of herons in the [[skill-sinalelng|Sinale language]], is the southernmost of the three conclaves the [[lore-flksinale|Sinale Folk]] keep in [[place-kiichchik|Kì'ìch'chik Continent]]. It lies in the [[place-kuxiixbalrgn|K'ushi Ish'bal Region]], in the great swamp of the lowland east of the plateau, where the land falls away below the sacred lake into slow rivers and standing water. South of the swamp the waste of [[place-xelemixbalrgn|Shelem Ish'bal Region]] begins. Nobody outside it has counted the Sinale there.
 
 ## What a Traveler Finds
 

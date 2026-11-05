@@ -3,7 +3,7 @@ shortcode: hanalxilanrgn
 name: {full: Ha'nal Shi'lan Region}
 type: place
 subType: region
-description: "Fertile river valleys, bottomlands and hardwood forest—the frontier the Maple People and the One Fire both claim, in Northern Ki'ich'chik."
+description: "Fertile river valleys, bottomlands and hardwood forest—the frontier the Maple People and the One Fire both claim, in Northern Kì'ìch'chik."
 tags: [region]
 data:
   demonym: null
@@ -17,9 +17,9 @@ data:
 
 ## Overview
 
-Ha'nal Shi'lan Region is the wooded river frontier between the [[affiliation-osetakona|Maple People]] to the northeast and the [[affiliation-tokchiaska|One Fire]] to the southwest, and lies within [[place-northkiichchik|Northern Ki'ich'chik]] on the [[place-kiichchik|Ki'ich'chik Continent]]. Both nations claim it and neither holds it.
+Ha'nal Shi'lan Region is the wooded river frontier between the [[affiliation-osetakona|Maple People]] to the northeast and the [[affiliation-tokchiaska|One Fire]] to the southwest, and lies within [[place-northkiichchik|Northern Kì'ìch'chik]] on the [[place-kiichchik|Kì'ìch'chik Continent]]. Both nations claim it and neither holds it.
 
-Ha'nal Shi'lan, "the river lowlands" in Ki'ich'chik, is a country of fertile valleys, rich bottomlands and hardwood forest, drained by a great river that flows west from the old ranges to join the One Fire's river. It is good land, and its goodness is the trouble: the Maple People want it for village sites and hunting, and the One Fire wants it for maize and for the towns of its younger nobles.
+Ha'nal Shi'lan, "the river lowlands" in Kì'ìch'chik, is a country of fertile valleys, rich bottomlands and hardwood forest, drained by a great river that flows west from the old ranges to join the One Fire's river. It is good land, and its goodness is the trouble: the Maple People want it for village sites and hunting, and the One Fire wants it for maize and for the towns of its younger nobles.
 
 ## Geography
 
@@ -35,7 +35,7 @@ The fighting does not stop the trade. Copper, furs and dried fish come down from
 
 ## See Also
 
-[[place-northkiichchik|Northern Ki'ich'chik]]
+[[place-northkiichchik|Northern Kì'ìch'chik]]
 : the enclosing region
 
 [[place-hanalxilan2|Ha'nal Shi'lan]]

@@ -123,7 +123,7 @@ This system produces governance that is slow, deliberate, and deeply attuned to 
 
 ## The Crown
 
-The crown is held by the [[affiliation-hsekirethel|House of Kírethel]], which the Bardic Circle chose when the line of Orethan, the house of the First Crowned, ended without an heir ([[lore-sorvandaclose|The Sórvanda Closing]]). The reigning monarch is [[being-aurenthekir|Queen Áurenthe Kírethel]], who reigns in her own right from the court at [[place-beravel|Péravel]], and her heir is her only son, [[being-ielaraskir|Prince Íelaras]].
+The crown is held by the [[affiliation-hsekirethel|House of Kírethel]], which the Bardic Circle chose when the line of Orethan, the house of the First Crowned, ended without an heir ([[lore-sorvandaclose|The Sórvanda Closing]]). The reigning monarch is [[being-aurenthekir|Queen Áurenthe Kírethel]], who reigns in her own right from the court at [[place-beravel|Péravel]], and her heir is her only son, [[being-ielaraskir|Prince Yélaras]].
 
 The crown passes to the monarch's eldest child, son or daughter. Every monarch is crowned in the hall at Péravel, stands bareheaded through [[lore-treelinelay|the Lay of the Tree Line]], and swears that the crown stops at the tree line ([[lore-firstcrown|The First Crowning of Élavendre]]). When a line ends without an heir, the Bardic Circle chooses the next monarch from a house whose descent the Colleges have proved. Below the royal house stand the noble houses, each with its proof, among them the [[affiliation-hsehalvireth|House of Hálvireth]] of the river-meadows below the capital.
 
@@ -163,7 +163,7 @@ The Bardic Circle, the Grove Council, and above all the [[lore-aelendnppl|Áelen
 
 What the Order most wants beyond the walls is the [[lore-aralwen|Araelwen]], the sacred thin places of the mountains and deep forests, and the crown stands squarely between the Order and the [[lore-aelendnppl|Áelendan]] over them. Every monarch swears at the crowning that the crown stops at the tree line ([[lore-firstcrown|The First Crowning of Élavendre]]), and the Araelwen lie beyond it. The crown recognizes the Wardens' authority over them, its magistrates hear no complaint from anyone hurt at one, and it cannot govern the interior at all except through Wardens who answer to the tribes.
 
-It also licenses the Order to survey, receives its scholars at court and gives its expeditions guides. The guides lead nowhere that matters, and the Order answers by **hiring mercenaries and guards** to protect the scholars it sends past them. The crown neither forbids the hiring nor asks where the guards go. [[being-aurenthekir|Queen Áurenthe]] keeps the balance as her house has always kept it, warm to the Order inside the walls and guided beyond them. [[being-ielaraskir|Prince Íelaras]], schooled by the Order, says in company that the old blood and the Order's books are not enemies, and the Áelendan hear in that the thing they count as the real offense: the kingdom's permission for the Order, more than any single theft from an Araelwen.
+It also licenses the Order to survey, receives its scholars at court and gives its expeditions guides. The guides lead nowhere that matters, and the Order answers by **hiring mercenaries and guards** to protect the scholars it sends past them. The crown neither forbids the hiring nor asks where the guards go. [[being-aurenthekir|Queen Áurenthe]] keeps the balance as her house has always kept it, warm to the Order inside the walls and guided beyond them. [[being-ielaraskir|Prince Yélaras]], schooled by the Order, says in company that the old blood and the Order's books are not enemies, and the Áelendan hear in that the thing they count as the real offense: the kingdom's permission for the Order, more than any single theft from an Araelwen.
 
 The rural population is caught between these forces. Most commoners respect the old traditions and distrust the Order's intentions, but the chapter houses also provide genuine services—education, healing, legal scholarship—that the traditional institutions cannot always match. A village that turns away the Order's traveling scholars may find itself without access to the medical and administrative resources those scholars quietly provided.
 
@@ -185,7 +185,7 @@ The lowland houses of the Berav basin acclaimed Táldoren of the house of Oretha
 
 - **The guides and the guarded.** The queen grants an Order expedition guides out of [[place-liranel|Liranel]] at once, and the expedition has quietly hired guards to go where the guides do not. She wants to know where it means to go.
 - **A complaint the court does not hear.** A noble house's son, hired as a guard by the Order, comes back from an [[lore-aralwen|Araelwen]] with a Warden's arrow in him, and his father petitions the magistrates, who ask only whether he was warned.
-- **The prince's friends.** Íelaras's friends at the University are planning a survey of the thin places for the summer, and he means to go with them.
+- **The prince's friends.** Yélaras's friends at the University are planning a survey of the thin places for the summer, and he means to go with them.
 
 ## See Also
 

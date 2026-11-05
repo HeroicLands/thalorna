@@ -66,7 +66,7 @@ sohl: {system: {commonSkills: [tzenultqan]}}
 
 Beside the solar pyramid of every Itsani city lies a long, narrow alley of white plaster between two sloping walls, with a marker stone set at each end and a third in the middle, cut with the glyph of the sun. On a festival day the court's own players fill it with noise: a heavy ball of black tree-gum, struck with hip and thigh and forearm and never with the hand, goes up and down the alley while the city watches from the walls. On another day the same court is silent except for the ball, and two lord-houses are watching from opposite walls, because the game is deciding which of them owns a valley.
 
-The **Keepers of the Court**, _Ts'ulamalbal_ in Ki'i'chek, those who serve the court, are the priests who hold these courts. The game is a rite, a lawsuit and a sacrifice at once, and the Keepers keep all three. Every Keeper is an ordained priest of [[affiliation-tzenultqan|Faith of Ts'en'ul Tq'an]], whose sun crosses the sky as the ball crosses the court, and whose order the court upholds.
+The **Keepers of the Court**, _Ts'ulamalbal_ in Kì'ì'chek, those who serve the court, are the priests who hold these courts. The game is a rite, a lawsuit and a sacrifice at once, and the Keepers keep all three. Every Keeper is an ordained priest of [[affiliation-tzenultqan|Faith of Ts'en'ul Tq'an]], whose sun crosses the sky as the ball crosses the court, and whose order the court upholds.
 
 ## The Suit
 

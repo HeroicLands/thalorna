@@ -113,7 +113,7 @@ The crown belongs to the house of Ervothandis and passes to the late king's elde
 
 The king governs through the [Long Table]{.name data-type="affiliation/governmental"}, the royal council, which meets in the hall of the Headland at Durvolka four times a year and whenever the king summons it. The landed lords of the valleys sit along one side by right of their lordships. The shipmasters sit along the other, elected each autumn by the rolls of masters of the harbors: three from Durvolka, two from [[place-ulhera|Ulhera]], and one from each lesser harbor, about a dozen in all. A master keeps his seat for the year and stands again if he wants it.
 
-The Table advises, and the king decides, but a king who decides against both sides of the Table at once seldom does it twice. The two sides want different things. The lords want the crown's attention for their valleys, its justice for their tenants and its peace with the [[affiliation-kingdmlnrk|Kingdom of Lienrik]] for their cattle trade. The masters want a lower price for salt, a lighter due on the catch and a king who will send galleys against the pirates on the southern salt route. The king's own revenue comes from the masters' side of the Table: the dues on hulls and catch, the lamp-due, and above all the salt, which the crown buys by sea and sells to the curing houses at its own price. So the masters pay for the crown and the lords hold its land, and every king of Galvaren governs by keeping the two sides arguing with each other instead of with him.
+The Table advises, and the king decides, but a king who decides against both sides of the Table at once seldom does it twice. The two sides want different things. The lords want the crown's attention for their valleys, its justice for their tenants and its peace with the [[affiliation-kingdmlnrk|Kingdom of Lyenrik]] for their cattle trade. The masters want a lower price for salt, a lighter due on the catch and a king who will send galleys against the pirates on the southern salt route. The king's own revenue comes from the masters' side of the Table: the dues on hulls and catch, the lamp-due, and above all the salt, which the crown buys by sea and sells to the curing houses at its own price. So the masters pay for the crown and the lords hold its land, and every king of Galvaren governs by keeping the two sides arguing with each other instead of with him.
 
 ## Officers of the Crown
 
@@ -123,13 +123,13 @@ On the coast the crown's officers are harbor officers. The Warden of the Strand 
 
 ## Character
 
-Where the [[affiliation-kngdmstrth|Kingdom of Asturath]] looks inward to its mountains and Lienrik to its fields, Galvaren looks outward to the sea. Galváreni sailors are legendarily fearless or foolhardy, by the account of whoever is telling it, and the kingdom produces a disproportionate number of the navigators, sea captains and explorers of the Vilérian Sea. Most of them learned their trade on an Ulhera cod boat, where a master's book of soundings, currents and landmarks lets him sail out of sight of land for days and find the same bank, or the same unknown island, again.
+Where the [[affiliation-kngdmstrth|Kingdom of Asturath]] looks inward to its mountains and Lyenrik to its fields, Galvaren looks outward to the sea. Galváreni sailors are legendarily fearless or foolhardy, by the account of whoever is telling it, and the kingdom produces a disproportionate number of the navigators, sea captains and explorers of the Vilérian Sea. Most of them learned their trade on an Ulhera cod boat, where a master's book of soundings, currents and landmarks lets him sail out of sight of land for days and find the same bank, or the same unknown island, again.
 
 Its coast keeps the Drowned Road beside the pantheon's temples, and its courts take a widow's word from a harbor teller. The coast is crowded with standing stones, stone rings and passage graves older than the Tarveni migration, and the Drowned Road holds that the sea keeps its drowned, that they come home in the fog to those graves, and that a lamp in the seaward window shows them the door. Ghost stories and tales of drowned cities are taken more seriously here than anywhere else in Tarvénia, and the priests of the faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] tolerate the coast's customs with varying degrees of patience. No other court in Tarvénia accepts a teller's calling-in as proof that a man is dead.
 
 ## Relations
 
-Galvaren and Lienrik are rivals and each other's best customers. Lienrik's grain and cattle feed the coast, Galvaren's salt fish feeds Lienrik's villages through the winter, and the two crowns quarrel every few years over the tolls on the one road between them. Galvaren depends on the southern coast for its salt, which makes the salt ships and the [[affiliation-frctyvlthr|Free City of Valthari]] that sells to them the kingdom's most important foreign concern. Asturath is distant and mountainous, and the two kingdoms have little trade and few quarrels.
+Galvaren and Lyenrik are rivals and each other's best customers. Lyenrik's grain and cattle feed the coast, Galvaren's salt fish feeds Lyenrik's villages through the winter, and the two crowns quarrel every few years over the tolls on the one road between them. Galvaren depends on the southern coast for its salt, which makes the salt ships and the [[affiliation-frctyvlthr|Free City of Valthari]] that sells to them the kingdom's most important foreign concern. Asturath is distant and mountainous, and the two kingdoms have little trade and few quarrels.
 
 ## Commerce and Currency
 
@@ -152,7 +152,7 @@ The Kingdom of Galvaren uses the [[lore-vylrncrncy|Vilérian currency]] (Solden 
 [[affiliation-drownedroad|The Drowned Road]]
 : The coast's folk faith and its harbor tellers
 
-[[affiliation-kngdmstrth|Kingdom of Asturath]], [[affiliation-kingdmlnrk|Kingdom of Lienrik]]
+[[affiliation-kngdmstrth|Kingdom of Asturath]], [[affiliation-kingdmlnrk|Kingdom of Lyenrik]]
 : Sister kingdoms
 
 [[affiliation-frctyvlthr|Free City of Valthari]], [[affiliation-frtrtryskrth|Free Territory of Eskarath]]

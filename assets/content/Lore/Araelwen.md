@@ -129,7 +129,7 @@ _Araelwen_ is [[affiliation-theoldway|the Old Way]]'s name for a sacred thin pla
 
 - **The Heart.** [[being-aelithraenewyn|Áelithra Énevin]] wants a party to carry a Temporal Compass into Úkua-Araelwen and bring out the Heart of Dirikri, and the Wardens know she wants it.
 - **A guard's contract.** A fellow of the University hires guards at Liranel for a season's survey, and the ground he means to reach is an Araelwen. The first Warden's warning comes on the second day.
-- **The tutor.** [[being-ielaraskir|Prince Íelaras]]'s old tutor has gone inward from Liranel without the crown's guides, and the prince wants him back before the Wardens find him.
+- **The tutor.** [[being-ielaraskir|Prince Yélaras]]'s old tutor has gone inward from Liranel without the crown's guides, and the prince wants him back before the Wardens find him.
 - **The lone watch.** The watch at [[place-fndr|the Fen Door]] is down to one Warden through the winter, and she needs hands she would not otherwise accept.
 
 ## See Also

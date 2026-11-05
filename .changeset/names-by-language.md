@@ -4,7 +4,7 @@
 
 **Peoples and cultures**
 
-- The northern peoples' culture pages carry their English names, the Grass People, Turquoise People, Maple People and Cedar People, with their own names and their Ki'i'chek names beside them.
+- The northern peoples' culture pages carry their English names, the Grass People, Turquoise People, Maple People and Cedar People, with their own names and their Kì'ì'chek names beside them.
 
 **Miscellaneous**
 

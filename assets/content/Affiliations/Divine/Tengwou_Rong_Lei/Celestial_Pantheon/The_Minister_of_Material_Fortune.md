@@ -50,10 +50,10 @@ data:
       - level: 7
         title: Chief Intendant
         description: >-
-          Senior mortal officer of a bureau's whole temple establishment, who signs what is transmitted upward to its Teng Gui and answers for it if the bureau rejects it.
+          Senior mortal officer of a bureau's whole temple establishment, who signs what is transmitted upward to its Teng Gwi and answers for it if the bureau rejects it.
     offices:
       Fawo, The Minister of Material Fortune: >-
-        Teng Gui of the Falou Sei, whose power is the authority of the office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
+        Teng Gwi of the Falou Sei, whose power is the authority of the office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
       Nouwo: >-
         Field Allocation Spirits, who distribute harvest quality to farming communities.
       Falei: >-
@@ -99,7 +99,7 @@ In Fawo's teaching, prosperity is allocated, not granted. Falou Sei holds the sc
 commercial fortune are distributed, and a merchant house's good years are its allocation rather than
 its luck—a distinction the Tantsou consider obvious and foreigners find bleak.
 
-The bureau is in perpetual conflict with [[affiliation-nuowo|Nuowo]], the Bureau of Returns, over whether
+The bureau is in perpetual conflict with [[affiliation-nuowo|Nwowo]], the Bureau of Returns, over whether
 a given resource should be distributed or reclaimed, and the two file counter-petitions against one
 another as a matter of routine. Merchants who understand this pay to have their filings timed for
 when Falou Sei is winning.

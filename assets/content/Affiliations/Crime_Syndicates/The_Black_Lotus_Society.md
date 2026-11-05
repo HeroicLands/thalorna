@@ -1,6 +1,6 @@
 ---
 shortcode: haluozhao
-name: {full: The Black Lotus Society, en: [The Black Lotus], tant: [Ha Luo Zhao]}
+name: {full: The Black Lotus Society, en: [The Black Lotus], tant: [Ha Lwo Zhau]}
 type: affiliation
 subType: criminal
 description: "Black Lotus Society operating through bureaucratic leverage, moral ledgers, and spiritual manipulation within Tantsou's classification system."
@@ -75,21 +75,21 @@ sohl: {system: {commonSkills: []}}
 
 ## Overview
 
-The **Ha Luo Zhao**—known to outsiders and lowland translators as the **Black Lotus Society**—is the preeminent criminal organization of the [[affiliation-tantsouempr|Empire of Tantsou]] and the largest crime syndicate of the eastern part of the [[place-ankrscntnnt|Ankaris Continent]]. While the four [[place-vylarianse|Vilérian Sea]] syndicates divide the western criminal underworld among themselves, the Black Lotus operates on a scale that has no peer in the east: an open secret woven into the very fabric of the empire's commerce, politics, and religious life.
+The **Ha Lwo Zhau**—known to outsiders and lowland translators as the **Black Lotus Society**—is the preeminent criminal organization of the [[affiliation-tantsouempr|Empire of Tantsou]] and the largest crime syndicate of the eastern part of the [[place-ankrscntnnt|Ankaris Continent]]. While the four [[place-vylarianse|Vilérian Sea]] syndicates divide the western criminal underworld among themselves, the Black Lotus operates on a scale that has no peer in the east: an open secret woven into the very fabric of the empire's commerce, politics, and religious life.
 
-The Ha Luo Zhao's power is not exercised through street-level thuggery. It is exercised through _leverage_. In a society where every noble house, every merchant clan, and every bureaucratic office depends on a spiritual ledger maintained across generations, a criminal organization that knows precisely which ledgers are in deficit, which ancestor spirits are being starved of offerings, which petitions are moving through which magistrate's office, and which [[lore-tanchei|Tanchei]] can be bought to read which omens—that organization does not need many enforcers. It needs only good bookkeeping. The Black Lotus keeps careful books.
+The Ha Lwo Zhau's power is not exercised through street-level thuggery. It is exercised through _leverage_. In a society where every noble house, every merchant clan, and every bureaucratic office depends on a spiritual ledger maintained across generations, a criminal organization that knows precisely which ledgers are in deficit, which ancestor spirits are being starved of offerings, which petitions are moving through which magistrate's office, and which [[lore-tanchei|Tanchei]] can be bought to read which omens—that organization does not need many enforcers. It needs only good bookkeeping. The Black Lotus keeps careful books.
 
 ## Territory
 
-**Primary:** [[affiliation-tantsouempr|Empire of Tantsou]]—with particular concentration in the major mercantile cities of the [[lore-shuonong|Shuonong]] caste, the imperial capital's outer districts, and the great trade crossroads of the eastern provinces.
+**Primary:** [[affiliation-tantsouempr|Empire of Tantsou]]—with particular concentration in the major mercantile cities of the [[lore-shuonong|Shwonong]] caste, the imperial capital's outer districts, and the great trade crossroads of the eastern provinces.
 
 **Secondary:** Cells reach into [[place-jenchairgn|Jenchai]] to the east and occasionally surface in the eastern reaches of the [[place-byzariargn|Bizaria Region]] where Tantsou trade intersects with Ankarian. The Black Lotus does not compete with the Vilérian Sea syndicates on their own territory; it has no need to.
 
 ## Operations
 
-**Protection rackets and patronage:** The Black Lotus's core business is protecting Shuonong merchants from the consequences of the caste system—consequences legal, spiritual, and political. A merchant who pays the Lotus's tithe finds his petitions reaching the right magistrates, his accused servants treated leniently, his shipments cleared at the border, and his business rivals suffering small persistent misfortunes. A merchant who refuses finds the opposite. The distinction between "protection" and "extortion" is one the Black Lotus makes no effort to clarify.
+**Protection rackets and patronage:** The Black Lotus's core business is protecting Shwonong merchants from the consequences of the caste system—consequences legal, spiritual, and political. A merchant who pays the Lotus's tithe finds his petitions reaching the right magistrates, his accused servants treated leniently, his shipments cleared at the border, and his business rivals suffering small persistent misfortunes. A merchant who refuses finds the opposite. The distinction between "protection" and "extortion" is one the Black Lotus makes no effort to clarify.
 
-**Bureaucratic manipulation:** The Black Lotus's most distinctive operation, and the one that makes it irreplaceable to its clientele. Because the Tantsou imperial administration mirrors the celestial administration, paperwork has spiritual consequences. The Lotus maintains an extensive network of bribed clerks, suborned Tanchei diviners, and strategically placed functionaries across dozens of ministries. Through them it can reroute petitions, delay rulings, influence omen readings, redirect ancestor spirit offerings, and engineer the _reclassification_ of rival families—a form of spiritual attack that no mortal enforcement could match (see [[lore-weizhairui|Wei Zhai Rui]]).
+**Bureaucratic manipulation:** The Black Lotus's most distinctive operation, and the one that makes it irreplaceable to its clientele. Because the Tantsou imperial administration mirrors the celestial administration, paperwork has spiritual consequences. The Lotus maintains an extensive network of bribed clerks, suborned Tanchei diviners, and strategically placed functionaries across dozens of ministries. Through them it can reroute petitions, delay rulings, influence omen readings, redirect ancestor spirit offerings, and engineer the _reclassification_ of rival families—a form of spiritual attack that no mortal enforcement could match (see [[lore-weizhairui|Wei Zhai Rwi]]).
 
 **Smuggling:** The Lotus controls the principal smuggling routes that move contraband, restricted magical substances, and unregistered persons across Tantsou borders and through the empire's interior. It operates outside the formal caravan system and is therefore beyond the reach of most imperial oversight.
 
@@ -99,7 +99,7 @@ The Ha Luo Zhao's power is not exercised through street-level thuggery. It is ex
 
 ## Organization
 
-Like [[affiliation-velvethand|the Velvet Hand]], the Black Lotus operates in isolated cells whose members know only their immediate handler. Unlike the Velvet Hand, its structure is shaped by the caste system it operates within: cells are typically organized around Shuonong merchant houses, with handlers drawn from the [[lore-noutsou|Nuitsou]] caste and higher coordinators from bureaucratically placed [[lore-zhazho|Zhazho]] who have chosen service with the Lotus over service with their own families.
+Like [[affiliation-velvethand|the Velvet Hand]], the Black Lotus operates in isolated cells whose members know only their immediate handler. Unlike the Velvet Hand, its structure is shaped by the caste system it operates within: cells are typically organized around Shwonong merchant houses, with handlers drawn from the [[lore-noutsou|Nwitsou]] caste and higher coordinators from bureaucratically placed [[lore-zhazho|Zhazho]] who have chosen service with the Lotus over service with their own families.
 
 The highest leadership is effectively unknown. Tantsou rumor holds that the Society is governed by a secret council of seven, though no confirmed identification of any council member has ever been made. Those who claim to have identified a member have had brief and educational careers.
 
@@ -110,16 +110,16 @@ The Black Lotus maintains legitimate fronts throughout Tantsou commerce: trading
 The Black Lotus's most consequential alliances are with internal subversive movements against the imperial order:
 
 The [Merchant Uprising]{.name data-type="affiliation"}
-: A growing faction within the Shuonong caste organizing for greater political representation. The Lotus funds them, shields them from imperial scrutiny, and expects that a successful uprising will dramatically expand its own influence.
+: A growing faction within the Shwonong caste organizing for greater political representation. The Lotus funds them, shields them from imperial scrutiny, and expects that a successful uprising will dramatically expand its own influence.
 
-[[affiliation-nuotsourui|Nuotsou Rui]] (Cult of the Forsaken)
+[[affiliation-nuotsourui|Nwotsou Rwi]] (Cult of the Forsaken)
 : A nihilistic lower-caste cult that preaches the destruction of the classification system. The Lotus's alliance with them is more cynical than ideological; the cult provides deniable violence, disposable operatives, and a useful source of chaos that the Lotus can exploit.
 
-The Black Lotus has also been quietly entangled with specific noble houses—most notably [[affiliation-yanchaizhao|Yanchai Zhao]], whose fall illustrates what happens when a great house becomes dependent on the Society's services and then finds itself no longer able to afford the price.
+The Black Lotus has also been quietly entangled with specific noble houses—most notably [[affiliation-yanchaizhao|Yanchai Zhau]], whose fall illustrates what happens when a great house becomes dependent on the Society's services and then finds itself no longer able to afford the price.
 
 ## Spiritual and Moral-Ledger Consequences
 
-Unique among the [[affiliation-crmsyndctsthlrn|crime syndicates of Thalorna]], the Ha Luo Zhao operates in a cosmological context where criminal association has measurable spiritual consequences. The Lotus is—by the Tantsou classification system—an _unclassified_ organization, operating outside the categories the [Great Sorting]{.name data-type="lore/cosmology"} is held to have established. Association with it generates debit entries on the moral ledger not only for the associate but for their household and their ancestor spirits. Clients who engage the Lotus for convenience find, over generations, that their ancestors' effectiveness has diminished, their family's classification has drifted, and their descendants inherit a diminished spiritual infrastructure.
+Unique among the [[affiliation-crmsyndctsthlrn|crime syndicates of Thalorna]], the Ha Lwo Zhau operates in a cosmological context where criminal association has measurable spiritual consequences. The Lotus is—by the Tantsou classification system—an _unclassified_ organization, operating outside the categories the [Great Sorting]{.name data-type="lore/cosmology"} is held to have established. Association with it generates debit entries on the moral ledger not only for the associate but for their household and their ancestor spirits. Clients who engage the Lotus for convenience find, over generations, that their ancestors' effectiveness has diminished, their family's classification has drifted, and their descendants inherit a diminished spiritual infrastructure.
 
 The Black Lotus is, in a very real sense, a slow poison. It is also indispensable. This combination describes its grip on Tantsou society with more precision than any characterization of the Vilérian Sea syndicates can claim.
 
@@ -136,13 +136,13 @@ Members carry no visible identification. Recognition passes through calligraphic
 [[affiliation-tantsouempr|Empire of Tantsou]]
 : The empire in which the Society operates
 
-[[lore-weizhairui|Wei Zhai Rui]]
+[[lore-weizhairui|Wei Zhai Rwi]]
 : The political game the Society exploits and enables
 
-[[lore-shuonong|Shuonong]]
+[[lore-shuonong|Shwonong]]
 : The merchant caste under the Society's particular influence
 
-[[affiliation-yanchaizhao|Yanchai Zhao]]
+[[affiliation-yanchaizhao|Yanchai Zhau]]
 : Noble house entangled with the Society
 
 [[affiliation-crmsyndctsthlrn|Crime Syndicates]]

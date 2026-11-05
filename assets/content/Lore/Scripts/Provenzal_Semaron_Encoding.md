@@ -7,7 +7,7 @@ data:
   packFolder: languages
   language: prov
   font: semaron-kuriale
-  vowels: aeiouëàAEIOUËÀáéíóúÁÉÍÓÚ
+  vowels: aeiouëAEIOUËáéíóúÁÉÍÓÚ
   mappings:
     "0": DIGIT_ZERO
     "1": DIGIT_ONE
@@ -19,24 +19,6 @@ data:
     "7": DIGIT_SEVEN
     "8": DIGIT_EIGHT
     "9": DIGIT_NINE
-    tà: [TALOTHOS_MIN, CATCH, ANKRON_MIN]
-    tÀ: [TALOTHOS_MIN, CATCH, ANKRON_MAJ]
-    Tà: [TALOTHOS_MAJ, CATCH, ANKRON_MIN]
-    TÀ: [TALOTHOS_MAJ, CATCH, ANKRON_MAJ]
-    kà: [KALPEZA_MIN, CATCH, ANKRON_MIN]
-    kÀ: [KALPEZA_MIN, CATCH, ANKRON_MAJ]
-    Kà: [KALPEZA_MAJ, CATCH, ANKRON_MIN]
-    KÀ: [KALPEZA_MAJ, CATCH, ANKRON_MAJ]
-    dà: [DEKAZU_MIN, CATCH, ANKRON_MIN]
-    dÀ: [DEKAZU_MIN, CATCH, ANKRON_MAJ]
-    Dà: [DEKAZU_MAJ, CATCH, ANKRON_MIN]
-    DÀ: [DEKAZU_MAJ, CATCH, ANKRON_MAJ]
-    gà: [GULMOS_MIN, CATCH, ANKRON_MIN]
-    gÀ: [GULMOS_MIN, CATCH, ANKRON_MAJ]
-    Gà: [GULMOS_MAJ, CATCH, ANKRON_MIN]
-    GÀ: [GULMOS_MAJ, CATCH, ANKRON_MAJ]
-    à: [ANKRON_MIN, CATCH]
-    À: [ANKRON_MAJ, CATCH]
     a: ANKRON_MIN
     A: ANKRON_MAJ
     b: BRUTHEKA_MIN
@@ -180,7 +162,6 @@ This encoding writes [[skill-provnzlng|Provenzal]] in semaron-kuriale. A passage
 - **A doubled _a_, _i_ or _u_ is the long vowel**, a letter of its own with the curl drawn into it. The first letter's case picks the minuscule or the majuscule. _ee_ and _oo_ are two plain vowels.
 - **An acute vowel is the plain vowel.** The Semaron writes no stress.
 - **_y_ before a vowel is the glide _y_**, and anywhere else the vowel _i_. Acute _ý_ follows the same rule, with no stress mark in the script.
-- **The Vilari grave vowel _à_ carries a catch.** In ancient _tà_, _kà_, _dà_ and _gà_ the stop takes the catch stroke before the plain _a_ is written; the first letter and the vowel each keep their own case. Thus _kàralzon_ keeps its stroke over _k_. Elsewhere _à_ writes _a_ with the stroke over it, as in the Alessa article. These rows write the native letters and catch directly.
 - **Other tongues' catch spellings** (`'`, `’`, a standalone grave accent or a hyphen) set a mark over the preceding letter. With no letter before it, it prints the box. These aliases do not authorize those characters in Vilari.
 
 - **The numerals** 0 to 9 are the Semaron numerals.

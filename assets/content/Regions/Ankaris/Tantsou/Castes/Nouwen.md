@@ -56,7 +56,7 @@ Communion
 : speaking with a household's dead to relay a petition, receive an instruction or learn what an ancestor lacks.
 
 Healing
-: treating the sickness that comes from the spirit side, when an ancestor has withdrawn his advocacy, a ledger debit has fallen due as illness, or the [Huenlei]{.name data-type="lore/cosmology"}, the unsorted chaos, has touched a house.
+: treating the sickness that comes from the spirit side, when an ancestor has withdrawn his advocacy, a ledger debit has fallen due as illness, or the [Hwenlei]{.name data-type="lore/cosmology"}, the unsorted chaos, has touched a house.
 
 Registration
 : performing the rites that enter a birth, a union or a death with the celestial administration, the filings the higher castes make through the temples.
@@ -71,7 +71,7 @@ A Leigen is Nouwen by caste and treated in the village almost as the [[lore-tanc
 
 ## Children Given to the Fields
 
-Every child in the empire is tested at the age of ten. A child of the [[lore-wanduo|Wanduo]] who shows too little of the gift is not returned to the sorcerers' compounds and cannot be sent to a family it never had, so it is given to a Nouwen village. These adoptees are taken in and raised as the village's own; their origin is known to everyone and held against no one, and the families who receive them count it a blessing.
+Every child in the empire is tested at the age of ten. A child of the [[lore-wanduo|Wandwo]] who shows too little of the gift is not returned to the sorcerers' compounds and cannot be sent to a family it never had, so it is given to a Nouwen village. These adoptees are taken in and raised as the village's own; their origin is known to everyone and held against no one, and the families who receive them count it a blessing.
 
 ## Philosophy of Lei
 
@@ -85,16 +85,16 @@ In the [[lore-phlsphyleiwo|Leiwo]] framework the Nouwen are the tenders of the e
 [[lore-ancstrwrshp|Ancestor Worship]]
 : the faith of the household altar
 
-[[lore-tsaihuo|Tsaihuo]]
+[[lore-tsaihuo|Tsaihwo]]
 : artisans and soldiers, the caste above
 
-[[lore-shuonong|Shuonong]]
+[[lore-shuonong|Shwonong]]
 : merchants, the caste below
 
-[[lore-noutsou|Nuitsou]]
+[[lore-noutsou|Nwitsou]]
 : slaves and outcasts, the lowest of all
 
-[[lore-wanduo|Wanduo]]
+[[lore-wanduo|Wandwo]]
 : the sorcerer caste from which some adoptees come
 
 [[lore-tseising|Law and Honor]]

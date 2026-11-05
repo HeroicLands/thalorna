@@ -3,7 +3,7 @@ shortcode: itsanihierarchy
 name: {full: The Itsani Hierarchy, en: [The One Priesthood]}
 type: affiliation
 subType: order
-description: "The single priesthood of Ki'ich'chik as an institution: one ladder from the Blood-Denied to the Q'emul Tq'an at Kul'taq'an, the branches that serve the Ten, and the three bodies that open, carry and forbid its workings."
+description: "The single priesthood of Kì'ìch'chik as an institution: one ladder from the Blood-Denied to the Q'emul Tq'an at Kul'taq'an, the branches that serve the Ten, and the three bodies that open, carry and forbid its workings."
 tags: [itzani, religion, arcane]
 data:
   culture: kiichchikclt
@@ -20,7 +20,7 @@ data:
       - level: 0
         title: Blood-Denied
         description: >-
-          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Ch'al Ts'umaq's trials unguided, which the Ki'i'chek reckon the one sentence that outlives the body.
+          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Ch'al Ts'umaq's trials unguided, which the Kì'ì'chek reckon the one sentence that outlives the body.
       - level: 1
         title: Water-Marked
         lore: childfaithrnk
@@ -93,7 +93,7 @@ sohl: {system: {commonSkills: []}}
 
 "Every Tq'an'ik in the most remote shrine on the continent is a step on the same stair," the Master of Initiates says at each admission. "The top of it is in Kul'taq'an. None of you will see it, and all of you stand on it."
 
-The [[affiliation-itzanpnthn|Itsani Pantheon]] has one priesthood, and the **Itsani hierarchy** is that priesthood seen as an institution: who stands above whom, who chooses whom, and which bodies cut across the branches that serve the Ten. It reaches every city of [[place-kiichchik|Ki'ich'chik Continent]] and recognizes no border between them. Its arcane practice, the Speaking of the Day, is described under [[lore-chumtsena|Ch'um Ts'ena]].
+The [[affiliation-itzanpnthn|Itsani Pantheon]] has one priesthood, and the **Itsani hierarchy** is that priesthood seen as an institution: who stands above whom, who chooses whom, and which bodies cut across the branches that serve the Ten. It reaches every city of [[place-kiichchik|Kì'ìch'chik Continent]] and recognizes no border between them. Its arcane practice, the Speaking of the Day, is described under [[lore-chumtsena|Ch'um Ts'ena]].
 
 ## The One Ladder
 

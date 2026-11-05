@@ -14,30 +14,30 @@ data:
   governance:
     model: autocracy
     summary: >-
-      Held of the Emperor by patent by the Daozhuo Tsuijai Rezo, who sits at Tsuiwu and governs the uplands through his retainers, the headmen of its villages and the Jaju who keep its armory and forge.
+      Held of the Emperor by patent by the Dauzhwo Tsuijai Rezo, who sits at Tsuiwu and governs the uplands through his retainers, the headmen of its villages and the Jaju who keep its armory and forge.
     ranks:
       - level: 0
         title: Outlaw
         description: >-
-          One stripped of the Daozhuo's protection and put outside the uplands' law, with no appeal.
+          One stripped of the Dauzhwo's protection and put outside the uplands' law, with no appeal.
       - level: 1
         title: Subject
         description: >-
-          Lives or holds land under the Daozhuo of Tsuijai.
+          Lives or holds land under the Dauzhwo of Tsuijai.
       - level: 2
         title: Retainer
         description: >-
-          Serves the Daozhuo for a stipend in bales or a village held as a fief, and commands the domain's soldiers.
+          Serves the Dauzhwo for a stipend in bales or a village held as a fief, and commands the domain's soldiers.
       - level: 3
-        title: Shuizhuo
+        title: Shwizhwo
         description: >-
-          Holds one to three villages of the domain and owes the Daozhuo men in war.
+          Holds one to three villages of the domain and owes the Dauzhwo men in war.
       - level: 4
         title: Heir
         description: >-
-          The Daozhuo's named successor, who climbs the mountain for him when he cannot.
+          The Dauzhwo's named successor, who climbs the mountain for him when he cannot.
       - level: 5
-        title: Daozhuo
+        title: Dauzhwo
         description: >-
           Holds Tsuijai by the Emperor's patent, with his own army, justice and taxes.
     offices:
@@ -53,7 +53,7 @@ data:
 sohl: {system: {commonSkills: [jurthatlng]}}
 ---
 
-The Tsuijai Domain, held by House Tsuijai (Iron Peak), holds [[place-tsuijai|Tsuijai]], the iron mountain of the north-west uplands of the great island, by patent of the Emperor. Its lord is the Daozhuo [Tsuijai Rezo]{.name data-type="being/npc"} (Bright Dragon), fifty-two years old, who sits in the castle town of [[place-tsuiwu|Tsuiwu]] (Iron Hall), population 2,600. The domain holds 40,000 people, is assessed at 22,000 bales a year, and musters 550 men; it keeps no fleet. The house is independent of both blocs, and it has the iron and the swordsmiths of the Nine.
+The Tsuijai Domain, held by House Tsuijai (Iron Peak), holds [[place-tsuijai|Tsuijai]], the iron mountain of the north-west uplands of the great island, by patent of the Emperor. Its lord is the Dauzhwo [Tsuijai Rezo]{.name data-type="being/npc"} (Bright Dragon), fifty-two years old, who sits in the castle town of [[place-tsuiwu|Tsuiwu]] (Iron Hall), population 2,600. The domain holds 40,000 people, is assessed at 22,000 bales a year, and musters 550 men; it keeps no fleet. The house is independent of both blocs, and it has the iron and the swordsmiths of the Nine.
 
 ## The Land
 

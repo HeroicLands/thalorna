@@ -45,7 +45,7 @@ on the great stone, when he said: You are the one who goes.
 Three times the legions climbed the ranges from the plain,/
 and three times the ranges sent them back the way they came./
 They held the lowlands then, the harbor and the grain,/
-the walled towns and the towers that watched the lords of [[place-leonrik|Lienrik]] by day./
+the walled towns and the towers that watched the lords of [[place-leonrik|Lyenrik]] by day./
 The mountains they could not take./
 The fourth time a legion came, and it brought its road along the way:/
 it cut the road in front of it, and walked on what it made./
@@ -290,7 +290,7 @@ En sormad sa alatho dokad, verezos dun ar harlen,/
 Karza kanel urzvalmad hos zelorma legreth,/
 ek karza orneth helzed alatho hir nebra./
 Legreth thaurad zelorma, volkema ek kernra,/
-veramis dun kemtho, ek thorga silkared Lienrik./
+veramis dun kemtho, ek thorga silkared Lyenrik./
 Orneth ar dunad kured, ar urkis sedon./
 Ir kanel ol helza urkis lokad dun valero,/
 talerad pral vethis, ek valmad us lathon pelre./

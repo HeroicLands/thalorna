@@ -70,5 +70,5 @@ The House belongs to the custodianship and keeps its ranks. [[affiliation-counci
 [[lore-klhrsnctrs|The Sanctuaries of Kalihara]]
 : where the held stones go
 
-[[affiliation-tharivaan|Thári'vaan]]
+[[affiliation-tharivaan|Thári-vaan]]
 : the custodians and the Rite of Last Tending

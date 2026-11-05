@@ -45,7 +45,7 @@ data:
 
 # Dossier {#dossier}
 
-Queen Áurenthe Kírethel reigns over the [[affiliation-kngdmlvndr|Kingdom of Élavendre]] in her own right, from the court at [[place-beravel|Péravel]], and is the head of the royal [[affiliation-hsekirethel|House of Kírethel]]. Her consort is dead. Her heir is her only son, [[being-ielaraskir|Prince Íelaras]].
+Queen Áurenthe Kírethel reigns over the [[affiliation-kngdmlvndr|Kingdom of Élavendre]] in her own right, from the court at [[place-beravel|Péravel]], and is the head of the royal [[affiliation-hsekirethel|House of Kírethel]]. Her consort is dead. Her heir is her only son, [[being-ielaraskir|Prince Yélaras]].
 
 She wants to keep the balance every reign of her house has kept, and to keep it without incident, which none has managed. She keeps the [[affiliation-ordoarcanis|Thordimalon]] warm inside the walls and guided beyond them, the [[lore-aelendnppl|Áelendan]] content, and the [University of Péravel]{.name data-type="affiliation"} teaching. She would like, once in her reign, to be asked up to [[place-eshalshldg|Ésalosa]], and she has not been asked.
 
@@ -73,13 +73,13 @@ She has the crown's revenue from the river toll, the chancery and the sheriffs, 
 
 ### Weaknesses
 
-Her son. Íelaras was schooled at the University and says in company that learning and the old blood are not enemies, and the bards have heard him. She knows the judgment the crown fears is never pronounced, only reached, and that it falls on a prince as easily as on a king.
+Her son. Yélaras was schooled at the University and says in company that learning and the old blood are not enemies, and the bards have heard him. She knows the judgment the crown fears is never pronounced, only reached, and that it falls on a prince as easily as on a king.
 
 ## Social
 
 ### Family
 
-- [[being-ielaraskir|Íelaras Kírethel]]: Her son and heir. She loves him, trusts his intelligence and does not trust his company.
+- [[being-ielaraskir|Yélaras Kírethel]]: Her son and heir. She loves him, trusts his intelligence and does not trust his company.
 
 ### Others
 

@@ -124,6 +124,6 @@ sohl:
         defense: {blockMod: 5, counterstrikeMod: 5}
 ---
 
-Obsidian is flaked or ground to an edge sharper than steel and more brittle than anything a smith makes. [[place-nekiahkul|Ne' Ki'ahkul]] carves it into the priests' ritual blades, "sharp enough to cut bone", and the heartland's temples buy them by the rack ([[place-kiichchik|Ki'ich'chik]] sends obsidian out as ritual blades, mirrors and trade stone). The edge parts flesh without a drag, which is why the same blade serves a bloodletting and a fight.
+Obsidian is flaked or ground to an edge sharper than steel and more brittle than anything a smith makes. [[place-nekiahkul|Ne' Ki'ahkul]] carves it into the priests' ritual blades, "sharp enough to cut bone", and the heartland's temples buy them by the rack ([[place-kiichchik|Kì'ìch'chik]] sends obsidian out as ritual blades, mirrors and trade stone). The edge parts flesh without a drag, which is why the same blade serves a bloodletting and a fight.
 
 Its weakness is the edge itself. A blade that meets a steel guard, copper plate or a shield rim chips or breaks across, and a broken obsidian blade is a pile of razors. Carried for show it is regalia; carried for use it is a single good strike.

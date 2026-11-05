@@ -6,7 +6,7 @@ subType: language
 description: "One of Thalorna's oldest living tongues, threaded at the ports with Valtari loanwords and barely known in its interior form."
 tags: []
 data:
-  roman: "aeghiklmnoprstuvwyáéíóúë0123456789()–-'"
+  roman: "aeghiklmnoprstuvwyáéíóúë0123456789()–-"
   core: true
   abbreviation: Kal.
   fields:
@@ -57,27 +57,27 @@ data:
       field: The keeping
       gloss: "the custodians, keepers of what was left"
       built: [ithari, "kaan-"]
-    - form: "kaan'sili"
+    - form: "kaan-sili"
       class: "n"
       field: The keeping
       gloss: "a custodian in training, one who watches"
       built: ["kaan-", "sili-"]
-    - form: "kaan'vaar"
+    - form: "kaan-vaar"
       class: "n"
       field: The keeping
       gloss: "a custodian who performs the tending liturgies, one who holds"
       built: ["kaan-", "vaar-"]
-    - form: "kaan'thari"
+    - form: "kaan-thari"
       class: "n"
       field: The keeping
       gloss: "a senior custodian, one who keeps what came before"
       built: ["kaan-", "thari-"]
-    - form: "sari'kaan"
+    - form: "sari-kaan"
       class: "n"
       field: The keeping
       gloss: "the tending-acts, the custodians' maintenance liturgies"
       built: ["sari-", "kaan-"]
-    - form: "kaan'sari'val"
+    - form: "kaan-sari-val"
       class: "n"
       field: The keeping
       gloss: "the keepers' threads, the cord recording a line of teachers"
@@ -91,17 +91,17 @@ data:
       field: The keeping
       gloss: "a clear-seer of the keepers, who coordinates custodial practice"
       built: [sílhari, "kaan-"]
-    - form: "vaan'ari"
+    - form: "vaan-ari"
       class: "n"
       field: The keeping
       gloss: "right tending, the care of one's own part of the whole"
       built: ["vaan-", "ari-"]
-    - form: "sari'sul"
+    - form: "sari-sul"
       class: "n"
       field: The keeping
       gloss: "a tending-stone, the work of a lineage village"
       built: ["sari-", "sul-"]
-    - form: "kaan'sul"
+    - form: "kaan-sul"
       class: "n"
       field: The keeping
       gloss: "a held stone, a piece of the substance small enough to carry"
@@ -5940,14 +5940,14 @@ data:
     - {name: Island Turtle, tongue: translation}
     - {name: Islander, tongue: translation}
     - {name: Ithaluor, tongue: kalihari, built: [itha-, luori-]}
-    - {name: Ithavanu'sul, tongue: kalihari, built: [ithavanu, sul-]}
+    - {name: Ithavanu-sul, tongue: kalihari, built: [ithavanu, sul-]}
     - {name: Ithorinu, tongue: kalihari}
     - {name: Ithakan, tongue: kalihari, built: [ithari, kaan-]}
     - {name: Ithasul, tongue: kalihari, built: [ithari, sul-]}
-    - {name: kaan'sili, tongue: kalihari, built: [kaan-, sili-]}
-    - {name: kaan'sul, tongue: kalihari, built: [kaan-, sul-]}
-    - {name: kaan'thari, tongue: kalihari, built: [kaan-, thari-]}
-    - {name: kaan'vaar, tongue: kalihari, built: [kaan-, vaar-]}
+    - {name: kaan-sili, tongue: kalihari, built: [kaan-, sili-]}
+    - {name: kaan-sul, tongue: kalihari, built: [kaan-, sul-]}
+    - {name: kaan-thari, tongue: kalihari, built: [kaan-, thari-]}
+    - {name: kaan-vaar, tongue: kalihari, built: [kaan-, vaar-]}
     - {name: Kalihara, tongue: kalihari}
     - {name: Kalihara Adventurer's Guide, tongue: translation}
     - {name: Kalihara Continent, tongue: translation}
@@ -5987,7 +5987,7 @@ data:
     - {name: Nalurithan, tongue: kalihari, built: [nalu-, rithan]}
     - {name: Naokalo, tongue: kalihari, built: [nao-, kalo-]}
     - {name: Naoliru, tongue: kalihari, built: [nao-, liru-]}
-    - {name: Naothuri'sul, tongue: kalihari, built: [naothuri, sul-]}
+    - {name: Naothuri-sul, tongue: kalihari, built: [naothuri, sul-]}
     - {name: Narivothei, tongue: kalihari}
     - {name: Olithuri, tongue: kalihari, built: [oli-, thuri-]}
     - {name: Olivael, tongue: kalihari, built: [oli-, vael-]}
@@ -6005,22 +6005,22 @@ data:
     - {name: Reikula, tongue: kalihari, built: [rei-, kula-]}
     - {name: Reithovani, tongue: kalihari}
     - {name: Reithuri, tongue: kalihari, built: [rei-, thuri-]}
-    - {name: sari'sul, tongue: kalihari, built: [sari-, sul-]}
+    - {name: sari-sul, tongue: kalihari, built: [sari-, sul-]}
     - {name: Scribe of the House, tongue: translation}
     - {name: Seeker Abroad, tongue: translation}
     - {name: Severed, tongue: translation}
     - {name: Speaker for the Island, tongue: translation}
     - {name: Stilt Tree, tongue: translation}
     - {name: Struck Off, tongue: translation}
-    - {name: Sul'vaan, tongue: kalihari, built: [sul-, vaan-]}
+    - {name: Sul-vaan, tongue: kalihari, built: [sul-, vaan-]}
     - {name: Sulkula, tongue: kalihari, built: [sul-, kula-]}
     - {name: silkan, tongue: kalihari, built: [sílhari, kaan-]}
     - {name: Tavonei, tongue: kalihari, built: [tavo-, -nei]}
-    - {name: Teacher of the kaan'sili, tongue: translation}
+    - {name: Teacher of the kaan-sili, tongue: translation}
     - {name: Telvari, tongue: kalihari}
     - {name: Tender of the Sill, tongue: translation}
     - {name: Terrace Mole, tongue: translation}
-    - {name: Thal'ari, tongue: kalihari}
+    - {name: Thal-ari, tongue: kalihari}
     - {name: The Account of What Was Given, tongue: translation}
     - {name: The Avoluthei, tongue: translation}
     - {name: The Bowl, tongue: translation}
@@ -6056,7 +6056,7 @@ data:
     - {name: The Ring of Kalihara, tongue: translation}
     - {name: The Sanctuaries of Kalihara, tongue: translation}
     - {name: The Sanctuary of Mirthaan, tongue: translation}
-    - {name: The Sanctuary of Thal'ari, tongue: translation}
+    - {name: The Sanctuary of Thal-ari, tongue: translation}
     - {name: The Sanctuary of Veshvaan, tongue: translation}
     - {name: The Saying of the Thread, tongue: translation}
     - {name: The Southern Stair, tongue: translation}
@@ -6071,7 +6071,7 @@ data:
     - {name: The Wind-Stones, tongue: translation}
     - {name: Theinuvael, tongue: kalihari}
     - {name: Those Who Came Before, tongue: translation}
-    - {name: Thári'vaan, tongue: kalihari, built: [thari-, vaan-]}
+    - {name: Thári-vaan, tongue: kalihari, built: [thari-, vaan-]}
     - {name: Turned Out, tongue: translation}
     - {name: Unheard, tongue: translation}
     - {name: Unkept, tongue: translation}
@@ -6159,6 +6159,45 @@ data:
     - form: olitelinei
       instead: olitenei
       why: "five syllables, over the tongue's four; the star-reckoner, Olivael's byname"
+    - form: "kaan'sili"
+      instead: kaan-sili
+      why: "the apostrophe is the catch, so two joined words take a hyphen"
+    - form: "kaan'vaar"
+      instead: kaan-vaar
+      why: "the apostrophe is the catch, so two joined words take a hyphen"
+    - form: "kaan'thari"
+      instead: kaan-thari
+      why: "the apostrophe is the catch, so two joined words take a hyphen"
+    - form: "sari'kaan"
+      instead: sari-kaan
+      why: "the apostrophe is the catch, so two joined words take a hyphen"
+    - form: "kaan'sari'val"
+      instead: kaan-sari-val
+      why: "the apostrophe is the catch, so two joined words take a hyphen"
+    - form: "vaan'ari"
+      instead: vaan-ari
+      why: "the apostrophe is the catch, so two joined words take a hyphen"
+    - form: "sari'sul"
+      instead: sari-sul
+      why: "the apostrophe is the catch, so two joined words take a hyphen"
+    - form: "kaan'sul"
+      instead: kaan-sul
+      why: "the apostrophe is the catch, so two joined words take a hyphen"
+    - form: "Ithavanu'sul"
+      instead: Ithavanu-sul
+      why: "the apostrophe is the catch, so two joined words take a hyphen"
+    - form: "Naothuri'sul"
+      instead: Naothuri-sul
+      why: "the apostrophe is the catch, so two joined words take a hyphen"
+    - form: "Sul'vaan"
+      instead: Sul-vaan
+      why: "the apostrophe is the catch, so two joined words take a hyphen"
+    - form: "Thal'ari"
+      instead: Thal-ari
+      why: "the apostrophe is the catch, so two joined words take a hyphen"
+    - form: "Thári'vaan"
+      instead: Thári-vaan
+      why: "the apostrophe is the catch, so two joined words take a hyphen"
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -6192,15 +6231,15 @@ Outsiders rarely encounter true Interior Kalihari; most know only the bastardize
 
 Kalihari is liquid island speech, among the oldest tongues of the setting.
 
-**The vowels.** _a_, _i_, _o_ and _u_, and the pairs _ai_, _ei_ and _ao_. A doubled _aa_ is sounded long, as in _-kaan_.
+**The vowels.** _a_, _i_, _o_ and _u_, and the pairs _ai_ and _ei_. In _ao_ both vowels are said. A doubled _aa_ is sounded long, as in _-kaan_.
 
-**The consonants.** _th_, _r_, _n_, _l_, _v_, _k_, _s_ and _m_. The apostrophe joins two words, as in _sari'kaan_.
+**The consonants.** _th_, _r_, _n_, _l_, _v_, _k_, _s_ and _m_. A hyphen joins two words, as in _sari-kaan_.
 
 **Clusters.** None but _th_.
 
 **Endings.** Kalihari words end in _-ei_, _-anu_, _-ao_, _-ari_, _-oa_ or _-kaan_.
 
-**What Kalihari leaves out.** It has no word of more than four syllables, and no more than one apostrophe.
+**What Kalihari leaves out.** Its words seldom run past four syllables, and a word carries no more than one hyphen.
 
 ## Phonology
 
@@ -6213,7 +6252,6 @@ Kalihari consonantal inventory is notably small and gentle:
 - **Fricatives**: V (or sometimes W), TH (soft dental)
 - **Glides**: W, Y
 - **Hard stops** (rare): K (soft articulation), T (soft), P (soft)
-- **Glottal stop** ('): Marks syllable boundaries in formal or poetic speech
 
 The language **avoids consonant clusters** almost entirely. Consonants are always separated by vowels, creating the characteristic flowing, syllable-heavy quality. A word like "mantle" would not exist in Kalihari; instead, a Kaliharan would say something like "ma-ni-le" (three syllables).
 
@@ -6227,11 +6265,11 @@ Five distinct vowels, each pronounced with clarity and sometimes elongated for e
 - **O** (mid, back)—rounded, warm
 - **U** (high, back)—rounded, distant
 
-**Diphthongs** are common and meaningful. _ai_, _ei_, _ao_, _ae_, _oa_ and _ou_ are one syllable each, read from the left; other vowels side by side are said apart. "Ithavao" is three syllables (i-tha-vao), and "Ilavoani" four (i-la-voa-ni).
+**Vowel pairs** are common and meaningful. _ai_, _ei_ and _ou_ are one syllable each, read from the left; any other two vowels side by side, _ao_, _ae_ and _oa_ among them, are said apart, each its own syllable. "Ithavao" is four syllables (i-tha-va-o), and "Ilavoani" five (i-la-vo-a-ni).
 
 ### Stress and Prosody
 
-Stress typically falls on the **penultimate (second-to-last) syllable**, creating a regular rhythmic pattern. The language employs **tonal variation** more subtly than [[skill-kiichek|Ki'i'chek]]: rising tones at phrase endings signal questions or openness; falling tones close statements. Poetic and ceremonial speech employ exaggerated tonal variation that approaches singing.
+Stress typically falls on the **penultimate (second-to-last) syllable**, creating a regular rhythmic pattern. The language employs **tonal variation** more subtly than [[skill-kiichek|Kì'ì'chek]]: rising tones at phrase endings signal questions or openness; falling tones close statements. Poetic and ceremonial speech employ exaggerated tonal variation that approaches singing.
 
 Kalihari is often described as "musical" because pitch and rhythm are fundamental to comprehension, not mere inflection.
 
@@ -6515,7 +6553,7 @@ Lineage names are **compound descriptors of natural phenomena**, encoding both l
 - _Marivoel_ = "warm stone" (strength, heat, steadfastness)
 - _Naothuri_ = "green wind" (renewal, change, life force)
 
-Understanding a Kaliharan's lineage name requires knowledge of [[affiliation-tharivaan|Thári'vaan]] cosmology—the Kaliharan spiritual system that sees all natural forces as expressions of sacred interconnection. To be born of "bright canopy" lineage is to carry the spiritual weight of growth and protection.
+Understanding a Kaliharan's lineage name requires knowledge of [[affiliation-tharivaan|Thári-vaan]] cosmology—the Kaliharan spiritual system that sees all natural forces as expressions of sacred interconnection. To be born of "bright canopy" lineage is to carry the spiritual weight of growth and protection.
 
 ### Household Names
 
@@ -6572,15 +6610,15 @@ Ithavanu—"still water" Koamanei—"deep root" Theiluori—"bright canopy" Mari
 ## External References
 
 - Kalihari Names (lineage and personal naming conventions)
-- Thári'vaan cosmology and Ithari heritage
+- Thári-vaan cosmology and Ithari heritage
 - Interior records and oral traditions
 - Port city trade documents and mixed-language records
 
 ## Kalihari Lexicon {#lexicon}
 
-A ship bound for [[place-klhrcntnnt|Kalihara]] hears two registers of one tongue. On the quays of [[place-ilovanu|Ilovanu]] and the smaller ports the islanders speak Kalihari quickly, threaded with the harbor pidgin; in the interior the custodians speak it slowly, and name their ranks and their tending in it: the _kaan'sili_ who watches, the _kaan'vaar_ who holds. This page is the word-hoard of both: the stems, what each ending makes of them, the rules a new word is built by, and the register of every name the setting gives on the island.
+A ship bound for [[place-klhrcntnnt|Kalihara]] hears two registers of one tongue. On the quays of [[place-ilovanu|Ilovanu]] and the smaller ports the islanders speak Kalihari quickly, threaded with the harbor pidgin; in the interior the custodians speak it slowly, and name their ranks and their tending in it: the _kaan-sili_ who watches, the _kaan-vaar_ who holds. This page is the word-hoard of both: the stems, what each ending makes of them, the rules a new word is built by, and the register of every name the setting gives on the island.
 
-A Kalihari word is built of stems set side by side. _Itha-_ is still and _vanu-_ is water, and _ithavanu_ is still water, a lineage name. Where two stems meet in a custodial word, formal speech marks the seam with a catch in the throat, written `'`: _kaan-_ is to keep and _sili-_ is to watch, and _kaan'sili_ is the one who keeps by watching, a custodian in training. A handful of endings make a person of a stem: _kula-_ is to flow, and _kulanei_ is one who flows.
+A Kalihari word is built of stems set side by side. _Itha-_ is still and _vanu-_ is water, and _ithavanu_ is still water, a lineage name. In a custodial word a hyphen joins the two stems and adds no sound, as [[doc-prnncthlrn|Pronouncing Thalorna]] reads a hyphen: _kaan-_ is to keep and _sili-_ is to watch, and _kaan-sili_ is the one who keeps by watching, a custodian in training. A handful of endings make a person of a stem: _kula-_ is to flow, and _kulanei_ is one who flows.
 
 The sound of Kalihari is open and liquid. Consonants are few and soft, nearly every syllable ends on its vowel, and vowels stand together freely, each its own syllable unless it makes one of the diphthongs the language note names. Stress falls on the second-last syllable.
 
@@ -6612,7 +6650,7 @@ FROM edges WHERE language = 'thalorna-note-skill-kalihrlng' ORDER BY position
 
 ### Clusters
 
-Consonants stand apart, a vowel between each, inside a stem. Two meet where a stem closing on a consonant takes another stem, as in _kaan'sili_, and in a few old words such as _sílhari_.
+Consonants stand apart, a vowel between each, inside a stem. Two meet where a stem closing on a consonant takes another stem, as in _kaan-sili_, and in a few old words such as _sílhari_.
 
 ```sql
 SELECT 'Most consonants together inside a word' AS "Rule", max AS "Count"
@@ -6621,7 +6659,7 @@ FROM clusters WHERE language = 'thalorna-note-skill-kalihrlng'
 
 ## Building words {#building-words}
 
-Two moves make every built word on this page. **Stems set side by side** make a compound, the first stem marking the second: _koa-_ deep and _manu-_ root give _koamanu_, a deep root. In the custodians' words the seam between the stems is written `'`. **An ending on a stem** makes a person of it.
+Two moves make every built word on this page. **Stems set side by side** make a compound, the first stem marking the second: _koa-_ deep and _manu-_ root give _koamanu_, a deep root. In the custodians' words a hyphen joins the stems and adds no sound. **An ending on a stem** makes a person of it.
 
 ### Suffixes
 
@@ -6636,7 +6674,7 @@ ORDER BY position
 
 ### The keeping
 
-The custodians' words are compounds of a few old stems, and every rank of the Ithakan is a kind of keeping: by watching, by holding, by remembering what came before. The precursors themselves are _ithari_, those who came before, and the substance of their works is _ithasul_. The work of a lineage village is _sari'sul_, a tending-stone, and a piece of the substance small enough to carry is _kaan'sul_, a held stone.
+The custodians' words are compounds of a few old stems, and every rank of the Ithakan is a kind of keeping: by watching, by holding, by remembering what came before. The precursors themselves are _ithari_, those who came before, and the substance of their works is _ithasul_. The work of a lineage village is _sari-sul_, a tending-stone, and a piece of the substance small enough to carry is _kaan-sul_, a held stone.
 
 ```sql
 SELECT form AS "Form", class AS "Class", gloss AS "Gloss", built_text AS "Built from", coalesce(array_to_string(list_transform(attested, a -> '[[' || a || '|]]'), ', '), '—') AS "Attested"

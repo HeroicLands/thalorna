@@ -74,7 +74,7 @@ Whoever took the artifact, and the castellan's men, who wish he would leave the 
 
 ### Affiliations
 
-- **[[affiliation-kingdmlnrk|Kingdom of Lienrik]]**: Kotsude is a Knight.
+- **[[affiliation-kingdmlnrk|Kingdom of Lyenrik]]**: Kotsude is a Knight.
 - **[[affiliation-ardavon|Faith of Árdavon]]**: He is a Volsar of the faith.
 
 ## Plot Hooks

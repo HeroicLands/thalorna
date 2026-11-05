@@ -49,7 +49,7 @@ Alzemo is large, unhurried and watchful, and he listens with his head lowered li
 
 ### Motivation
 
-He wants the crown of Tarvénia to come back to Asturath's own, and he does not want it to go to the king of Lienrik, whose wealth would buy the electors. He is content to wait for the old man to die while he keeps every road to Lezkora in his own hands.
+He wants the crown of Tarvénia to come back to Asturath's own, and he does not want it to go to the king of Lyenrik, whose wealth would buy the electors. He is content to wait for the old man to die while he keeps every road to Lezkora in his own hands.
 
 ### Strengths
 
@@ -71,7 +71,7 @@ None. The king owes the mountain lords the ban's courtesy, and they owe him the 
 
 ### Enemies
 
-Zenoth Oltris of Lienrik, whose kingdom is the realm's rival to Asturath and whose men are filling the road. In Asturath itself, the valley lords who think the king too ready to let the old man's guesthood turn into a rival court.
+Zenoth Oltris of Lyenrik, whose kingdom is the realm's rival to Asturath and whose men are filling the road. In Asturath itself, the valley lords who think the king too ready to let the old man's guesthood turn into a rival court.
 
 ### Affiliations
 

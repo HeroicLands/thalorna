@@ -1,6 +1,6 @@
 ---
 shortcode: greatcnvrg
-name: {full: The Great Convergence, tant: [Dao Rong Hou]}
+name: {full: The Great Convergence, tant: [Dau Rong Hou]}
 type: lore
 subType: history
 description: "The zero of Tantsou's Celestial Calendar—the first perfect alignment after the Great Sorting, the first appointment under the Mandate of Heaven, and a date every bureau of the empire files against and no record outside it carries."
@@ -17,7 +17,7 @@ data:
         The Celestial Order of Tantsou sets the zero of the Celestial Calendar at the Great Convergence: the moment every celestial body, elemental force and spiritual energy achieved its first perfect alignment after the Great Sorting, and the moment the first mortal was appointed to administer the mortal plane under the Mandate of Heaven. Inside the empire the figure is exact and is stated as plain fact from the imperial court down to a village hearth-shrine. No record outside Tantsou carries it, and the empire's own archive can document no dynasty within thirty-seven centuries of it.
       standing: legendary
       names:
-        - name: Dao Rong Hou
+        - name: Dau Rong Hou
           by: lore-celestlrdr
           gloss: the founding of cosmic time, and of the first imperial dynasty with it
       where:

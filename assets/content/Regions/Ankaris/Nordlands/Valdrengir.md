@@ -512,7 +512,7 @@ ul hrunda hugni/
 eldva komri, kallar.
 
 odvar gang framri, fast,/
-tiv sta na vetrúlfur vindri./
+tiv sta na vetrulfur vindri./
 thrunvald gang ut, thrumva,/
 hvarv heimsormur risna./
 eidgar komri ner, krast,/

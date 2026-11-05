@@ -88,6 +88,8 @@ data:
     ýi: [SIGN_Y, EMPHASIS, SIGN_I]
     ye: [SIGN_Y, SIGN_E]
     ýe: [SIGN_Y, EMPHASIS, SIGN_E]
+    wo: [SIGN_U, SIGN_O]
+    wi: [SIGN_U, SIGN_I]
     aaǎa: [SIGN_A, LONG, CARRIER, SIGN_A, LONG, RISE]
     áaǎa: [SIGN_A, LONG, EMPHASIS, CARRIER, SIGN_A, LONG, RISE]
     iiǎa: [SIGN_I, LONG, CARRIER, SIGN_A, LONG, RISE]
@@ -104,6 +106,7 @@ data:
     éiǎa: [SIGN_E, EMPHASIS, SIGN_I, CARRIER, SIGN_A, LONG, RISE]
     yiǎa: [SIGN_Y, SIGN_I, CARRIER, SIGN_A, LONG, RISE]
     ýiǎa: [SIGN_Y, EMPHASIS, SIGN_I, CARRIER, SIGN_A, LONG, RISE]
+    wiǎa: [SIGN_U, SIGN_I, CARRIER, SIGN_A, LONG, RISE]
     aaâa: [SIGN_A, LONG, CARRIER, SIGN_A, LONG, FALL]
     áaâa: [SIGN_A, LONG, EMPHASIS, CARRIER, SIGN_A, LONG, FALL]
     iiâa: [SIGN_I, LONG, CARRIER, SIGN_A, LONG, FALL]
@@ -120,6 +123,7 @@ data:
     éiâa: [SIGN_E, EMPHASIS, SIGN_I, CARRIER, SIGN_A, LONG, FALL]
     yiâa: [SIGN_Y, SIGN_I, CARRIER, SIGN_A, LONG, FALL]
     ýiâa: [SIGN_Y, EMPHASIS, SIGN_I, CARRIER, SIGN_A, LONG, FALL]
+    wiâa: [SIGN_U, SIGN_I, CARRIER, SIGN_A, LONG, FALL]
     aaǐi: [SIGN_A, LONG, CARRIER, SIGN_I, LONG, RISE]
     áaǐi: [SIGN_A, LONG, EMPHASIS, CARRIER, SIGN_I, LONG, RISE]
     iiǐi: [SIGN_I, LONG, CARRIER, SIGN_I, LONG, RISE]
@@ -150,6 +154,8 @@ data:
     ýiǐi: [SIGN_Y, EMPHASIS, SIGN_I, CARRIER, SIGN_I, LONG, RISE]
     yeǐi: [SIGN_Y, SIGN_E, CARRIER, SIGN_I, LONG, RISE]
     ýeǐi: [SIGN_Y, EMPHASIS, SIGN_E, CARRIER, SIGN_I, LONG, RISE]
+    woǐi: [SIGN_U, SIGN_O, CARRIER, SIGN_I, LONG, RISE]
+    wiǐi: [SIGN_U, SIGN_I, CARRIER, SIGN_I, LONG, RISE]
     aaîi: [SIGN_A, LONG, CARRIER, SIGN_I, LONG, FALL]
     áaîi: [SIGN_A, LONG, EMPHASIS, CARRIER, SIGN_I, LONG, FALL]
     iiîi: [SIGN_I, LONG, CARRIER, SIGN_I, LONG, FALL]
@@ -180,6 +186,8 @@ data:
     ýiîi: [SIGN_Y, EMPHASIS, SIGN_I, CARRIER, SIGN_I, LONG, FALL]
     yeîi: [SIGN_Y, SIGN_E, CARRIER, SIGN_I, LONG, FALL]
     ýeîi: [SIGN_Y, EMPHASIS, SIGN_E, CARRIER, SIGN_I, LONG, FALL]
+    woîi: [SIGN_U, SIGN_O, CARRIER, SIGN_I, LONG, FALL]
+    wiîi: [SIGN_U, SIGN_I, CARRIER, SIGN_I, LONG, FALL]
     aaǔu: [SIGN_A, LONG, CARRIER, SIGN_U, LONG, RISE]
     áaǔu: [SIGN_A, LONG, EMPHASIS, CARRIER, SIGN_U, LONG, RISE]
     uuǔu: [SIGN_U, LONG, CARRIER, SIGN_U, LONG, RISE]
@@ -194,6 +202,7 @@ data:
     óuǔu: [SIGN_O, EMPHASIS, SIGN_U, CARRIER, SIGN_U, LONG, RISE]
     uoǔu: [SIGN_U, SIGN_O, CARRIER, SIGN_U, LONG, RISE]
     úoǔu: [SIGN_U, EMPHASIS, SIGN_O, CARRIER, SIGN_U, LONG, RISE]
+    woǔu: [SIGN_U, SIGN_O, CARRIER, SIGN_U, LONG, RISE]
     aaûu: [SIGN_A, LONG, CARRIER, SIGN_U, LONG, FALL]
     áaûu: [SIGN_A, LONG, EMPHASIS, CARRIER, SIGN_U, LONG, FALL]
     uuûu: [SIGN_U, LONG, CARRIER, SIGN_U, LONG, FALL]
@@ -208,6 +217,7 @@ data:
     óuûu: [SIGN_O, EMPHASIS, SIGN_U, CARRIER, SIGN_U, LONG, FALL]
     uoûu: [SIGN_U, SIGN_O, CARRIER, SIGN_U, LONG, FALL]
     úoûu: [SIGN_U, EMPHASIS, SIGN_O, CARRIER, SIGN_U, LONG, FALL]
+    woûu: [SIGN_U, SIGN_O, CARRIER, SIGN_U, LONG, FALL]
   rules:
     normalization: NFC
     matching: longest-first
@@ -426,6 +436,12 @@ data:
       - {match: ýe, emit: [CARRIER, SIGN_Y, EMPHASIS, SIGN_E, CARRIER], before: vowel, at: start}
       - {match: ýe, emit: [CARRIER, SIGN_Y, EMPHASIS, SIGN_E], at: start}
       - {match: ýe, emit: [SIGN_Y, EMPHASIS, SIGN_E, CARRIER], before: vowel}
+      - {match: wo, emit: [CARRIER, SIGN_U, SIGN_O, CARRIER], before: vowel, at: start}
+      - {match: wo, emit: [CARRIER, SIGN_U, SIGN_O], at: start}
+      - {match: wo, emit: [SIGN_U, SIGN_O, CARRIER], before: vowel}
+      - {match: wi, emit: [CARRIER, SIGN_U, SIGN_I, CARRIER], before: vowel, at: start}
+      - {match: wi, emit: [CARRIER, SIGN_U, SIGN_I], at: start}
+      - {match: wi, emit: [SIGN_U, SIGN_I, CARRIER], before: vowel}
       - match: aaǎa
         emit: [CARRIER, SIGN_A, LONG, CARRIER, SIGN_A, LONG, RISE, CARRIER]
         before: vowel
@@ -674,6 +690,12 @@ data:
       - match: ýiǎa
         emit: [SIGN_Y, EMPHASIS, SIGN_I, CARRIER, SIGN_A, LONG, RISE, CARRIER]
         before: vowel
+      - match: wiǎa
+        emit: [CARRIER, SIGN_U, SIGN_I, CARRIER, SIGN_A, LONG, RISE, CARRIER]
+        before: vowel
+        at: start
+      - {match: wiǎa, emit: [CARRIER, SIGN_U, SIGN_I, CARRIER, SIGN_A, LONG, RISE], at: start}
+      - {match: wiǎa, emit: [SIGN_U, SIGN_I, CARRIER, SIGN_A, LONG, RISE, CARRIER], before: vowel}
       - match: aaâa
         emit: [CARRIER, SIGN_A, LONG, CARRIER, SIGN_A, LONG, FALL, CARRIER]
         before: vowel
@@ -922,6 +944,12 @@ data:
       - match: ýiâa
         emit: [SIGN_Y, EMPHASIS, SIGN_I, CARRIER, SIGN_A, LONG, FALL, CARRIER]
         before: vowel
+      - match: wiâa
+        emit: [CARRIER, SIGN_U, SIGN_I, CARRIER, SIGN_A, LONG, FALL, CARRIER]
+        before: vowel
+        at: start
+      - {match: wiâa, emit: [CARRIER, SIGN_U, SIGN_I, CARRIER, SIGN_A, LONG, FALL], at: start}
+      - {match: wiâa, emit: [SIGN_U, SIGN_I, CARRIER, SIGN_A, LONG, FALL, CARRIER], before: vowel}
       - match: aaǐi
         emit: [CARRIER, SIGN_A, LONG, CARRIER, SIGN_I, LONG, RISE, CARRIER]
         before: vowel
@@ -1362,6 +1390,18 @@ data:
       - match: ýeǐi
         emit: [SIGN_Y, EMPHASIS, SIGN_E, CARRIER, SIGN_I, LONG, RISE, CARRIER]
         before: vowel
+      - match: woǐi
+        emit: [CARRIER, SIGN_U, SIGN_O, CARRIER, SIGN_I, LONG, RISE, CARRIER]
+        before: vowel
+        at: start
+      - {match: woǐi, emit: [CARRIER, SIGN_U, SIGN_O, CARRIER, SIGN_I, LONG, RISE], at: start}
+      - {match: woǐi, emit: [SIGN_U, SIGN_O, CARRIER, SIGN_I, LONG, RISE, CARRIER], before: vowel}
+      - match: wiǐi
+        emit: [CARRIER, SIGN_U, SIGN_I, CARRIER, SIGN_I, LONG, RISE, CARRIER]
+        before: vowel
+        at: start
+      - {match: wiǐi, emit: [CARRIER, SIGN_U, SIGN_I, CARRIER, SIGN_I, LONG, RISE], at: start}
+      - {match: wiǐi, emit: [SIGN_U, SIGN_I, CARRIER, SIGN_I, LONG, RISE, CARRIER], before: vowel}
       - match: aaîi
         emit: [CARRIER, SIGN_A, LONG, CARRIER, SIGN_I, LONG, FALL, CARRIER]
         before: vowel
@@ -1802,6 +1842,18 @@ data:
       - match: ýeîi
         emit: [SIGN_Y, EMPHASIS, SIGN_E, CARRIER, SIGN_I, LONG, FALL, CARRIER]
         before: vowel
+      - match: woîi
+        emit: [CARRIER, SIGN_U, SIGN_O, CARRIER, SIGN_I, LONG, FALL, CARRIER]
+        before: vowel
+        at: start
+      - {match: woîi, emit: [CARRIER, SIGN_U, SIGN_O, CARRIER, SIGN_I, LONG, FALL], at: start}
+      - {match: woîi, emit: [SIGN_U, SIGN_O, CARRIER, SIGN_I, LONG, FALL, CARRIER], before: vowel}
+      - match: wiîi
+        emit: [CARRIER, SIGN_U, SIGN_I, CARRIER, SIGN_I, LONG, FALL, CARRIER]
+        before: vowel
+        at: start
+      - {match: wiîi, emit: [CARRIER, SIGN_U, SIGN_I, CARRIER, SIGN_I, LONG, FALL], at: start}
+      - {match: wiîi, emit: [SIGN_U, SIGN_I, CARRIER, SIGN_I, LONG, FALL, CARRIER], before: vowel}
       - match: aaǔu
         emit: [CARRIER, SIGN_A, LONG, CARRIER, SIGN_U, LONG, RISE, CARRIER]
         before: vowel
@@ -2094,6 +2146,12 @@ data:
       - match: úoǔu
         emit: [SIGN_U, EMPHASIS, SIGN_O, CARRIER, SIGN_U, LONG, RISE, CARRIER]
         before: vowel
+      - match: woǔu
+        emit: [CARRIER, SIGN_U, SIGN_O, CARRIER, SIGN_U, LONG, RISE, CARRIER]
+        before: vowel
+        at: start
+      - {match: woǔu, emit: [CARRIER, SIGN_U, SIGN_O, CARRIER, SIGN_U, LONG, RISE], at: start}
+      - {match: woǔu, emit: [SIGN_U, SIGN_O, CARRIER, SIGN_U, LONG, RISE, CARRIER], before: vowel}
       - match: aaûu
         emit: [CARRIER, SIGN_A, LONG, CARRIER, SIGN_U, LONG, FALL, CARRIER]
         before: vowel
@@ -2386,6 +2444,12 @@ data:
       - match: úoûu
         emit: [SIGN_U, EMPHASIS, SIGN_O, CARRIER, SIGN_U, LONG, FALL, CARRIER]
         before: vowel
+      - match: woûu
+        emit: [CARRIER, SIGN_U, SIGN_O, CARRIER, SIGN_U, LONG, FALL, CARRIER]
+        before: vowel
+        at: start
+      - {match: woûu, emit: [CARRIER, SIGN_U, SIGN_O, CARRIER, SIGN_U, LONG, FALL], at: start}
+      - {match: woûu, emit: [SIGN_U, SIGN_O, CARRIER, SIGN_U, LONG, FALL, CARRIER], before: vowel}
   vowels: aeiouyìáéíóúýǎâǐîǔû
 ---
 
@@ -2396,7 +2460,8 @@ This encoding writes [[skill-sinalelng|Sinale]] in veldikko. A passage selects i
 - **Each consonant is its letter**, and its Roman spelling is lowercase. _p_, _v_, _m_, _t_, _s_, _n_, _d_, _k_, _h_, _l_ and _r_ are one letter each.
 - **_ng_ and _dh_ are one letter each.** _N_ before _k_ is the letter _ng_ and then _k_. _Dh_ is the voiced fricative between vowels.
 - **_g_ is _k_**, since Sinale has no _g_.
-- **A sound with no letter is the nearest letter:** _b_ is _p_, _f_ and _w_ are _v_, _z_ is _s_, _c_, _q_ and _ch_ are _k_, _x_ is _k_ then _s_, and _j_ is the vowel _y_. No roman letter is left in the text.
+- **A glide _w_ is the vowel _u_ it glides from**, so _wo_ and _wi_ are the pairs _uo_ and _ui_: _hwoma_ is written with _u_ and _o_.
+- **A sound with no letter is the nearest letter:** _b_ is _p_, _f_ and any other _w_ are _v_, _z_ is _s_, _c_, _q_ and _ch_ are _k_, _x_ is _k_ then _s_, and _j_ is the vowel _y_. No roman letter is left in the text.
 - **_s_ followed by _h_ writes both consonants**, including where _-ho_ follows a stem ending in _s_.
 - **A doubled consonant is its letter once, with the length bar beneath it.**
 - **A vowel is the mark over the consonant it follows.** _A_, _o_, _u_, _e_, _i_ and _y_ are six marks, and the front vowel _ì_ is written with the _y_ mark.

@@ -5972,7 +5972,7 @@ The Teyumi Language is the tongue of the [[affiliation-teyumi|Teyumi]], the Turq
 
 Every town of the Turquoise People speaks the Teyumi Language, and no two speak it quite alike. The canyon towns around the [[place-hosaoyalargn|Canyon of Houses]], Hosa Oyala, keep the long vowels long and the catch clear. The canal towns of the southern lowlands clip the long vowels short and run their words together, and a canyon elder can tell a lowlander by the third word. Neither form is the correct one, and the songs of the chambers are sung the same way in both.
 
-The tongue is related to nothing in the south. A southern trader who has learned [[skill-kiichek|Ki'i'chek]] from childhood hears nothing he knows in it, and the Turquoise People take some care that he learns little more. The traders who come out of the desert at [[place-kwatuhosa|Kwatuhosa]] are taught the words for water, corn, price, rest and the road, and the Keeper of the South Road does the rest of the talking himself.
+The tongue is related to nothing in the south. A southern trader who has learned [[skill-kiichek|Kì'ì'chek]] from childhood hears nothing he knows in it, and the Turquoise People take some care that he learns little more. The traders who come out of the desert at [[place-kwatuhosa|Kwatuhosa]] are taught the words for water, corn, price, rest and the road, and the Keeper of the South Road does the rest of the talking himself.
 
 Nobody writes it. The Turquoise People keep their law, their songs and the count of their years in memory, and the marks they peck into the cliffs are signs, never words.
 
@@ -5988,7 +5988,7 @@ The Teyumi Language is open and soft, and it lingers on its vowels. A Turquoise 
 
 **Shapes and endings.** Most words have two syllables, many three, and few more; a frequent word is short. Nearly every syllable closes on its vowel. A word ends on a vowel, most often _a_, _i_, _o_ or _u_, or on _n_, _ng_, _t_ or _k_; a plural ends on _m_.
 
-**What the Teyumi Language leaves out.** It has no _b_, _d_, _g_, _f_, _r_, _z_ or _j_, none of the rasping _kh_, _gh_ or _q_ of the mountain tongues, no _sh_, _ch_ or _th_, and none of the ejective pops of Ki'i'chek. No word opens on two consonants except _kw_ and _ts_, and three never stand together.
+**What the Teyumi Language leaves out.** It has no _b_, _d_, _g_, _f_, _r_, _z_ or _j_, none of the rasping _kh_, _gh_ or _q_ of the mountain tongues, no _sh_, _ch_ or _th_, and none of the ejective pops of Kì'ì'chek. No word opens on two consonants except _kw_ and _ts_, and three never stand together.
 
 ## Phonology
 

@@ -15,7 +15,7 @@ data:
   culture: jenchaiclt
 ---
 
-Zojai (Lord's Peak), the Dragon's Mountain, stands in the interior of the great island beside [[place-zijai|Zijai]], among the cedar valleys. It is the one mountain of the Nine that no Daozhuo holds. The Emperor holds it, and with the capital [[place-lengwou|Lengwou]] on its lowest slope it makes up the imperial district, 20,000 people assessed at 6,000 bales a year.
+Zojai (Lord's Peak), the Dragon's Mountain, stands in the interior of the great island beside [[place-zijai|Zijai]], among the cedar valleys. It is the one mountain of the Nine that no Dauzhwo holds. The Emperor holds it, and with the capital [[place-lengwou|Lengwou]] on its lowest slope it makes up the imperial district, 20,000 people assessed at 6,000 bales a year.
 
 The syllable _zo_ serves for lord and for dragon, which fall together at a single pitch; no other mountain is named for both. Its lower slopes are terraced to the limit of the district, its middle slopes are cedar, and its summit is bare rock with the shrine on it.
 

@@ -111,12 +111,12 @@ The [[affiliation-khelathpnthn|Khelathi Pantheon]] is the ancient faith of the g
 
 ## [[affiliation-itzanpnthn|Itsani]]
 
-The [[affiliation-itzanpnthn|Itsani Pantheon]] is the unified faith of [[place-kiichchik|Ki'ich'chik Continent]]—a single priesthood serving ten gods, centered on celestial cycles, blood sacrifice, and priestly kings.
+The [[affiliation-itzanpnthn|Itsani Pantheon]] is the unified faith of [[place-kiichchik|Kì'ìch'chik Continent]]—a single priesthood serving ten gods, centered on celestial cycles, blood sacrifice, and priestly kings.
 
 **Primary region:**
 
-[[place-kiichchik|Ki'ich'chik Continent]]
-: the unified Ki'i'chek faith
+[[place-kiichchik|Kì'ìch'chik Continent]]
+: the unified Kì'ì'chek faith
 
 ## [[affiliation-vrnkpnthn|Varnuka Pantheon]]
 
@@ -157,6 +157,6 @@ Several regions maintain animistic practices without a formal named pantheon:
 
 The [[affiliation-okharis|Okharis]] worships **[[affiliation-nkaruthar|Nkaru'thar]]** (The Eternal Flame) through three aspects tied to its three city-states—a unique local faith distinct from the major pantheons.
 
-## [[affiliation-tharivaan|Thári'vaan]]
+## [[affiliation-tharivaan|Thári-vaan]]
 
-The Kaliharan interior follows its own ancient tradition centered on **[[affiliation-tharivaan|Thári'vaan]]** ("The Living Whole").
+The Kaliharan interior follows its own ancient tradition centered on **[[affiliation-tharivaan|Thári-vaan]]** ("The Living Whole").

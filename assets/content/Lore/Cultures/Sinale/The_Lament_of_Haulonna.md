@@ -20,7 +20,7 @@ data:
 # terran_analog: "Canu Heledd and the Llywarch Hen englynion, for the survivor's refrain over the empty hall; the Kalevala and the Kanteletar, for the line restated by the line that follows; Karelian lament-singing, which calls the dead by name and circumlocution; Finnic origin-charms, which tell how a harm was made so that it can be undone."
 ---
 
-**The Lament of Haulonna**, _Haulonnaren neltava_, is sung by the [[lore-flksinale|Sinale]] of [[place-hallowwood|the Hallowwood]] when a solitary traveler brings word from [[place-haulonna|Thalmdal]], the valley they call Haulonna, the hearth of the unfallen leaf. The singers call five of its dead: [Pelvaila Pelvainto]{.name data-type="being/npc"}, [Kinsatti Hallesinto]{.name data-type="being/npc"}, [Kelkasitta Nuominto]{.name data-type="being/npc"}, [Toimuvo Sulmento]{.name data-type="being/npc"} and [Porkila Ilevanto]{.name data-type="being/npc"}. Porkila is kin to the singers; through her, the other four belong to their lament.
+**The Lament of Haulonna**, _Haulonnaren neltava_, is sung by the [[lore-flksinale|Sinale]] of [[place-hallowwood|the Hallowwood]] when a solitary traveler brings word from [[place-haulonna|Thalmdal]], the valley they call Haulonna, the hearth of the unfallen leaf. The singers call five of its dead: [Pelvaila Pelvainto]{.name data-type="being/npc"}, [Kinsatti Hallesinto]{.name data-type="being/npc"}, [Kelkasitta Nwominto]{.name data-type="being/npc"}, [Toimuvo Sulmento]{.name data-type="being/npc"} and [Porkila Ilevanto]{.name data-type="being/npc"}. Porkila is kin to the singers; through her, the other four belong to their lament.
 
 A _neltava_ opens with [[lore-goddreams|The God of Dreams]], whom the Sinale call Aulveira. In the singers' account the god takes the dead to [Ollevikko]{.name data-type="place"}, the gathering of the dead. A lament closes with a familiar line affirming that gathering. Haulonna's dead remain captive in the valley, and this lament leaves that line unsung. The long-watcher, [Ansorutti Lonkunto]{.name data-type="being/npc"}, is described at work inside the prison and never named in the verse. The singers keep his name and leave him at his watch.
 
@@ -140,7 +140,7 @@ The call goes north over the water./
 There was a spring at the foot of the valley where the water came out of the hill,/
 .a cold spring, the coldest in Haulonna, and the whole hearth-row drank from it./
 In the north a spring like that shuts in the winter. The ice goes in at the mouth of it./
-.[Kelkasitta Nuominto]{.name data-type="being/npc"} sang the cold spring open./
+.[Kelkasitta Nwominto]{.name data-type="being/npc"} sang the cold spring open./
 She went down at the still hour, which is her hearth's hour, with a cup,/
 .and sat by the shut mouth of the spring and sang to the water behind the ice,/
 and the water remembered that it was running, and ran, and the ice let go of the stone,/
@@ -385,7 +385,7 @@ vaukka kilpe vittel ulpanneho/
 
 ahi lemmes lirne haulonna sipes oso ahi onsatos eho ahi aunekke tevanni iha/
 .sattai kinsatti hallesinto issalte leesì vennas korpe onsa onsaa/
-sattai onsa seltoho nuomiho aume onsa alkeno/
+sattai onsa seltoho nwomiho aume onsa alkeno/
 .sattai onsa ummes leesì senval onsa aunekke issalte korpe onsa onsa esoho/
 ihatos leesì oso ulpes olkai onsa ulsen hìppe lertal ervu/
 .evi suldinno oso irtal leesìhe lonsi onsa ardas aldevano/
@@ -420,8 +420,8 @@ vaukka kilpe vittel ulpanneho/
 eho kelkasi aunekke polpeho oso pelvanni melke aulditos/
 .kelkasi hilsì ummestos haulonnaho leval ummes aukkessa vennas onsatos/
 vittelo kalpe iha selpi kelkasi unturoho ulpes isketti onsa aumelo/
-.luuro kelkasitta nuominto kelkasi paval/
-lonsi onsa nuomiho oso nuominto iltatti kuse kalten/
+.luuro kelkasitta nwominto kelkasi paval/
+lonsi onsa nwomiho oso nwominto iltatti kuse kalten/
 .leevi onsa kelkasi aumel hepìhe luuro onsa melkeho isketti aldevano/
 serdattota melke irpa onsa irpa onsa selleva isketti ralti/
 .veltu onsa kalten eirandi leval onsa talkevita onsa onsa lalke/
@@ -537,7 +537,7 @@ eho onsaa aunekkeho nìlkihe korpersa ortiho nalkel onsaa/
 ehii ervu sipes elki tupe ehii telvani ahi luuro ehii onsa/
 .kilpete ehii lirne letta seltì letta telvani eho telvani letta aldevano
 
-pelvainto hallesinto nuominto/
+pelvainto hallesinto nwominto/
 .sulmento ilevanto oso ehii onsa/
 evi aukkessa vennas oso ahi hilpete ehii iha ossendaho kilpete onsaa velpis onsaa/
 .ropelinto oso tenvas eirandi kelkasiho kuse vautti tolka/

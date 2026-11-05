@@ -12,7 +12,7 @@ data: {packFolder: nordlands, culture: nordheimnclt}
 
 The claim the whole faith rests on is that the gods know. This is not a doom concealed from the [[affiliation-asguardian|Asguardian Pantheon]]—the Ten—and revealed to their priests; in the teaching, it is a thing [[lore-odvardty|Odvar]] went to considerable lengths to learn, and what he learned is that he dies. The gods keep their halls, take their blet, hold their oaths and gather the honored dead knowing the muster fails. The Asguardian answer to this is not despair and is not resignation. It is defiance, and the north's highest estimate of a man is reserved for one who fights well in a cause already lost. A Nordman's funeral praise turns on how a man met a thing and not on what he won by it.
 
-The standard telling is fixed in its order and is sung whole at Jel. In it, the gate of [[place-eldheim|Eldheim]] opens and [[lore-svartbrandurdty|Svartbrandur]] rides out with his fire-kin; [[lore-vetrulfur|Vetrúlfur]] the Winter-Wolf slips his chain and the wolf-winter comes down; [[place-valsal|Valsal]] and [[place-solvangur|Solvangur]] empty and the [[lore-valdrengir|Valdrengir]] draw up on the plain of [[place-vigvoll|Vigvoll]] beside the defending gods. Odvar falls to the wolf and the wolf falls to his son, [Aldvar]{.name data-type="lore/deity"}. [[lore-thrunvalddty|Thrunvald]] strikes [[lore-heimsormur|Heimsormur]] the World-Wyrm, walks nine steps and dies of its venom. [[lore-eidgardty|Eidgar]] and his long-chained adversary, the hound [[lore-dulmvargur|Dulmvargur]], destroy each other together, [[lore-frodvindty|Frodvin]] goes down to Svartbrandur, and Svartbrandur burns what is left. The ash falls last.
+The standard telling is fixed in its order and is sung whole at Jel. In it, the gate of [[place-eldheim|Eldheim]] opens and [[lore-svartbrandurdty|Svartbrandur]] rides out with his fire-kin; [[lore-vetrulfur|Vetrulfur]] the Winter-Wolf slips his chain and the wolf-winter comes down; [[place-valsal|Valsal]] and [[place-solvangur|Solvangur]] empty and the [[lore-valdrengir|Valdrengir]] draw up on the plain of [[place-vigvoll|Vigvoll]] beside the defending gods. Odvar falls to the wolf and the wolf falls to his son, [Aldvar]{.name data-type="lore/deity"}. [[lore-thrunvalddty|Thrunvald]] strikes [[lore-heimsormur|Heimsormur]] the World-Wyrm, walks nine steps and dies of its venom. [[lore-eidgardty|Eidgar]] and his long-chained adversary, the hound [[lore-dulmvargur|Dulmvargur]], destroy each other together, [[lore-frodvindty|Frodvin]] goes down to Svartbrandur, and Svartbrandur burns what is left. The ash falls last.
 
 The telling does not stop at the fire. Out of the ashes a remnant rises, and a remade world is kindled from the coals—a world with ground, weather, people and gods in it, and the tellings are unhurried and domestic about the first morning of it. The remnant does not include the Ten. What inherits the new age is the gods' heirs, the [[lore-tvelgaett|Tvelgaett]], which is the whole of the comfort the doctrine offers and is not offered as comfort at all: the pantheon that now stands ends, and something of its making does not.
 
@@ -126,7 +126,7 @@ Svartbrandur rides forth;/
 fire-kin follow./
 The burning realm/
 bears its host to war./
-Vetrúlfur slips free;/
+Vetrulfur slips free;/
 the fetter fails./
 The Winter-Wolf comes;/
 the wolf-winter follows./
@@ -162,7 +162,7 @@ Odvar goes forward;/
 the Winter-Wolf meets him./
 Wisdom goes down/
 in the wolf's great mouth./
-The son meets Vetrúlfur;/
+The son meets Vetrulfur;/
 the wolf falls after./
 Death follows death;/
 the hall must hear both./
@@ -396,7 +396,7 @@ svartbrandur reidna ut, svarti./
 kinma na eldva felga framri./
 eldnri landri, lang,/
 berva hersalm tiv bratva vigband./
-vetrúlfur vendri frildi./
+vetrulfur vendri frildi./
 balv brak./
 ulfva na veturma komri, vredi./
 veth na ulfva felga, vrul./
@@ -432,7 +432,7 @@ odvar gang framri ok farn./
 ulfva na veturma metva hanv, vredi./
 hugvirdi gang nif, njorvi,/
 inn storg murn ok murnrand na ulfva./
-karn kinli metva vetrúlfur./
+karn kinli metva vetrulfur./
 ulfva falna farn nathri./
 svelth felga svelthma./
 hollva tharv hlun tveka./

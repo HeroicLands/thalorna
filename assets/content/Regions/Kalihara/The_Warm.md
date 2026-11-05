@@ -1,6 +1,6 @@
 ---
 shortcode: sulvaan
-name: {full: The Warm, kali: [Sul'vaan]}
+name: {full: The Warm, kali: [Sul-vaan]}
 type: place
 subType: structure
 description: "The great work of the Ithari on the summit of Kalihara's Massif, warm to the hand in every season and faintly lit after dark, which the custodians hold keeps the mountains of the Ring asleep."
@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-The Warm stands on the summit of [[place-klhrmassif|the Massif]], the mount in the middle of [[place-klhrlake|the Bowl Lake]], above the sanctuary of [[place-veshvaan|Veshvaan]] on its shoulder. It is the greatest of the works [[lore-theithari|the Ithari]] left on [[place-klhrcntnnt|Kalihara]]: one body of [[lore-itharisul|ithasul]], gray and seamless like every work, warm to the hand in every season and faintly lit after dark. The custodians call it _sul'vaan_ (stone of the whole).
+The Warm stands on the summit of [[place-klhrmassif|the Massif]], the mount in the middle of [[place-klhrlake|the Bowl Lake]], above the sanctuary of [[place-veshvaan|Veshvaan]] on its shoulder. It is the greatest of the works [[lore-theithari|the Ithari]] left on [[place-klhrcntnnt|Kalihara]]: one body of [[lore-itharisul|ithasul]], gray and seamless like every work, warm to the hand in every season and faintly lit after dark. The custodians call it _Sul-vaan_ (stone of the whole).
 
 ## What It Does
 
@@ -57,5 +57,5 @@ The summit lies above Veshvaan, and Veshvaan is reached only by water, half a da
 [[lore-klhrsnctrs|The Sanctuaries of Kalihara]]
 : which sanctuary tends which work
 
-[[affiliation-tharivaan|Thári'vaan]]
+[[affiliation-tharivaan|Thári-vaan]]
 : the custodians, their ranks and the Bearer of the Crisis

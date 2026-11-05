@@ -1,6 +1,6 @@
 ---
 shortcode: velgrimur
-name: {full: "Ritual: Velgrímur", en: [The Serpent's Path]}
+name: {full: "Ritual: Velgrimur", en: [The Serpent's Path]}
 type: skill
 subType: mystical
 tags: [asguardian, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-velgrimur|Faith of Velgrímur]]
+See [[affiliation-velgrimur|Faith of Velgrimur]]

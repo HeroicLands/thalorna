@@ -10,7 +10,7 @@ sohl:
   system: {weightBase: 0.4, valueBase: 0, qualityBase: 0, durabilityBase: 20}
 ---
 
-The Warm's Rod is a living held stone (_kaan'sul_) of [[place-sulvaan|the Warm]]: a rod of [[lore-itharisul|ithasul]] a forearm long and a thumb thick, gray and giving like the work it belongs to. The Bearer of the Crisis carries it, and the [lineage Marivoel]{.name data-type="affiliation/lineage"}, which holds [[place-klhrmassif|the Massif]], keeps it at [[place-veshvaan|Veshvaan]] from one Bearer to the next.
+The Warm's Rod is a living held stone (_kaan-sul_) of [[place-sulvaan|the Warm]]: a rod of [[lore-itharisul|ithasul]] a forearm long and a thumb thick, gray and giving like the work it belongs to. The Bearer of the Crisis carries it, and the [lineage Marivoel]{.name data-type="affiliation/lineage"}, which holds [[place-klhrmassif|the Massif]], keeps it at [[place-veshvaan|Veshvaan]] from one Bearer to the next.
 
 ## What It Does
 
@@ -25,7 +25,7 @@ If the Warm stops, the rod goes cold in the hand and stays cold, looking and giv
 [[place-sulvaan|The Warm]]
 : the work the rod belongs to
 
-[[affiliation-tharivaan|Thári'vaan]]
+[[affiliation-tharivaan|Thári-vaan]]
 : the custodians, and the office of the Bearer of the Crisis
 
 [[place-veshvaan|Veshvaan]]

@@ -120,7 +120,7 @@ The Eskárathi were in the highlands centuries before the Tarveni came. When the
 [[place-elavendre|Élavendre]]
 : Northern neighbor (cultural affinity)
 
-[[affiliation-kngdmstrth|Kingdom of Asturath]], [[affiliation-kngdmglvrn|Kingdom of Galvaren]], [[affiliation-kingdmlnrk|Kingdom of Lienrik]]
+[[affiliation-kngdmstrth|Kingdom of Asturath]], [[affiliation-kngdmglvrn|Kingdom of Galvaren]], [[affiliation-kingdmlnrk|Kingdom of Lyenrik]]
 : The three kingdoms
 
 [[affiliation-frctyvlthr|Free City of Valthari]]

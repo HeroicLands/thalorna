@@ -3,7 +3,7 @@ shortcode: kuxiixbal
 name: {full: K'ushi Ish'bal}
 type: affiliation
 subType: polity
-description: High altiplano of sacred lakes, pastoral priesthood, and mountain passes—the southern frontier of Ki'ich'chik civilization.
+description: High altiplano of sacred lakes, pastoral priesthood, and mountain passes—the southern frontier of Kì'ìch'chik civilization.
 tags: [polity]
 data:
   culture: kiichchikclt
